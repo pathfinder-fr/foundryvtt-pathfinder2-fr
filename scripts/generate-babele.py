@@ -19,7 +19,8 @@ for key in TRANSL:
     'entries': []
   }
 
-
+  count = { "non": 0, "libre": 0, "officielle": 0 }
+    
   # read all files in folder
   for fpath in all_files:
     
@@ -44,9 +45,18 @@ for key in TRANSL:
         status = line[5:].strip()
       elif line.startswith("------ Description (fr) ------"):
         isDesc = True
-    
-    if len(nameEN) == 0 or (len(nameFR) == 0 and len(descr.replace('\n','').strip()) == 0):
+
+    if len(nameFR) == 0 and len(descr.replace('\n','').strip()) == 0:
+      count["non"]+=1
       continue
+    
+    if status == "libre":
+      count["libre"]+=1
+    elif status == "officielle":
+      count["officielle"]+=1
+    else:
+      print("Status error for : %s (%s)" % (nameEN, fpath));
+      exit(1)
     
     entry = { 'id': nameEN }
     if len(nameFR) > 0:
@@ -58,3 +68,7 @@ for key in TRANSL:
 
   with open(BABELE + key + ".json", 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
+
+  print("Statistiques");
+  print(" - Traduits: %d (officielle) %d (libre)" % (count["officielle"], count["libre"]));
+  print(" - Non-traduits: %d" % count["non"]);
