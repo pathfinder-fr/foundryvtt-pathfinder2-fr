@@ -6,6 +6,7 @@
   * *aucune*: traduction manquante / à faire
   * *libre*: traduction libre
   * *officielle*: traduction officielle
+  * *doublon*: cette entrée sera simplement ignorée
 * **Description (en)**: la description d'origine en anglais. Ne pas modifier le texte ou supprimer.
 * **Description (fr)**: la description en français
 
