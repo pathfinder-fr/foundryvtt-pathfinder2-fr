@@ -4,7 +4,11 @@
 BABELE="../babele/fr/"
 
 TRANSL={
-  'pf2e.actionspf2e': { 'label': "Actions", 'path': "../data/actions/" }
+  'pf2e.actionspf2e': { 'label': "Actions", 'path': "../data/actions/" },
+  'pf2e.classes': { 'label': "Classes", 'path': "../data/classes/" },
+  'pf2e.equipment-srd': { 'label': "Équipement", 'path': "../data/equipment/" },
+  'pf2e.feats-srd': { 'label': "Dons", 'path': "../data/feats/" },
+  'pf2e.spells-srd': { 'label': "Spells", 'path': "../data/spells/" }
 }
 
 import json
@@ -54,8 +58,12 @@ for key in TRANSL:
       count["libre"]+=1
     elif status == "officielle":
       count["officielle"]+=1
+    elif status == "doublon":
+      continue
+    elif status == "aucune":
+      continue
     else:
-      print("Status error for : %s (%s)" % (nameEN, fpath));
+      print("Status error for : %s (%s.%s)" % (nameEN, key, fpath));
       exit(1)
     
     entry = { 'id': nameEN }
@@ -69,6 +77,6 @@ for key in TRANSL:
   with open(BABELE + key + ".json", 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
 
-  print("Statistiques");
+  print("Statistiques: " + TRANSL[key]['label']);
   print(" - Traduits: %d (officielle) %d (libre)" % (count["officielle"], count["libre"]));
   print(" - Non-traduits: %d" % count["non"]);
