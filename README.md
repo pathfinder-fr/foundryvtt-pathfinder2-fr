@@ -17,8 +17,7 @@ Expérimentations en cours pour:
 ## Utilisation
 
 Pour appliquer les traductions, il faut installer le module Babele et pointer vers le répertoire [babele](babele/). Instructions détaillées
-* Télécharger une release de dépôt: [Releases](https://github.com/SvenWerlen/foundryvtt-pathfinder2-fr/releases)
-* Désarchiver le tout dans un répertoire accessible depuis Foundry VTT, par exemple `[Foundry]/resources/app/public/`
-* Installer le module [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
-* Activer le module depusi Foundry VTT
-* Configurer le module et pointer les traductions vers le répertoire `babele/`
+* [Prérequis] Installer et activer le module [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
+* Installer ce module manuellement avec le manifest `https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/module.json`
+* Configurer Babele pour pointer les traductions vers le répertoire `modules/pf2-fr/babele`
+* Enjoy!
