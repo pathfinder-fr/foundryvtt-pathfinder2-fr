@@ -13,6 +13,12 @@ Expérimentations en cours pour:
   * Pour chaque fichier, il faut inscrire le nom et la description en se basant sur les textes d'origine (en anglais)
   * Ne pas supprimer les textes d'orgine!
   * Voir [data/instructions.md](data/instructions.md) pour plus d'instructions concernant les fichiers de traduction
+* Pour voir l'état d'avancement des traductions:
+  * [Actions](data/status-actions.md)
+  * [Classes](data/status-classes.md)
+  * [Équipment](data/status-equipment.md)
+  * [Dons](data/status-feats.md)
+  * [Sorts](data/status-spells.md)
 
 ## Utilisation
 
