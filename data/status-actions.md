@@ -4,7 +4,7 @@
  * **libre**: 5
 
 
-Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-18 17:00 *(heure de Canada/Montréal)*
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | État |

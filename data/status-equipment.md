@@ -3,7 +3,7 @@
  * **aucune**: 1182
 
 
-Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-18 17:00 *(heure de Canada/Montréal)*
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
@@ -97,7 +97,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[4aVkppixLHPg940o.htm](equipment/4aVkppixLHPg940o.htm)|Adamantine Buckler (Standard-Grade)|
 |[4DJQID8GIlxQ7b9C.htm](equipment/4DJQID8GIlxQ7b9C.htm)|Frost Vial (Major)|
 |[4fT1RRNSqtbRXCwk.htm](equipment/4fT1RRNSqtbRXCwk.htm)|Flail (+1 Striking)|
-|[4ftXXUCBHcf4b0MH.htm](equipment/4ftXXUCBHcf4b0MH.htm)|Alchemist’s tools|
+|[4ftXXUCBHcf4b0MH.htm](equipment/4ftXXUCBHcf4b0MH.htm)|Alchemist’s Tools|
 |[4Hb8tvvWFtykbZhG.htm](equipment/4Hb8tvvWFtykbZhG.htm)|Armor Potency (+2)|
 |[4IKVLrneSZiwGl2q.htm](equipment/4IKVLrneSZiwGl2q.htm)|Spear (+1)|
 |[4JSKf16W4gLTLugq.htm](equipment/4JSKf16W4gLTLugq.htm)|Greatsword (+1)|
@@ -226,7 +226,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[Afipiun4QGjtcJGQ.htm](equipment/Afipiun4QGjtcJGQ.htm)|Sling (+1)|
 |[AFR01HVd7DcZvkpP.htm](equipment/AFR01HVd7DcZvkpP.htm)|Bottled Lightning (Lesser)|
 |[AHkmoVr1NSFytJwp.htm](equipment/AHkmoVr1NSFytJwp.htm)|Merchant's Guile|
-|[AITVZmakiu3RgfKo.htm](equipment/AITVZmakiu3RgfKo.htm)|Bolts (10)|
+|[AITVZmakiu3RgfKo.htm](equipment/AITVZmakiu3RgfKo.htm)|Bolts|
 |[AJ1dC7EtTIfBey0M.htm](equipment/AJ1dC7EtTIfBey0M.htm)|Antidote (Moderate)|
 |[aKbrBW1SnFDxya5J.htm](equipment/aKbrBW1SnFDxya5J.htm)|Mesmerizing Opal|
 |[aKoMqPDmVzPI7Q20.htm](equipment/aKoMqPDmVzPI7Q20.htm)|Winged Boots|
@@ -442,7 +442,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[fprUZviW8khm2BLo.htm](equipment/fprUZviW8khm2BLo.htm)|Skeleton Key|
 |[FPwsiGqMCNPLHmjX.htm](equipment/FPwsiGqMCNPLHmjX.htm)|Blowgun|
 |[Fq61XZxfgsn4ZDXf.htm](equipment/Fq61XZxfgsn4ZDXf.htm)|Manacles of Persuasion|
-|[FqbDpztscJfM4XMe.htm](equipment/FqbDpztscJfM4XMe.htm)|Shrinking Potion (Standard)|
+|[FqbDpztscJfM4XMe.htm](equipment/FqbDpztscJfM4XMe.htm)|Shrinking Potion|
 |[ftSaD4c5io4pP4OB.htm](equipment/ftSaD4c5io4pP4OB.htm)|Gloves of Carelessness|
 |[FTVap8IjoKgCexH7.htm](equipment/FTVap8IjoKgCexH7.htm)|Staff of Healing (Major)|
 |[FUII5NHHPfSwM7I2.htm](equipment/FUII5NHHPfSwM7I2.htm)|Scourge (+1)|
@@ -450,7 +450,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[Fv97oB3iEIFAyzTu.htm](equipment/Fv97oB3iEIFAyzTu.htm)|Philosopher's Stone|
 |[FVjTuBCIefAgloUU.htm](equipment/FVjTuBCIefAgloUU.htm)|Staff|
 |[fvpLYx1Lo42cdleQ.htm](equipment/fvpLYx1Lo42cdleQ.htm)|Hat of Disguise|
-|[FWMGkUotwUJuht7i.htm](equipment/FWMGkUotwUJuht7i.htm)|Disguise Kit (Replacement cosmetics)|
+|[FWMGkUotwUJuht7i.htm](equipment/FWMGkUotwUJuht7i.htm)|Disguise Kit (Replacement Cosmetics)|
 |[fyYnQf1NAx9fWFaS.htm](equipment/fyYnQf1NAx9fWFaS.htm)|Rope|
 |[Fz6L3hgYWaCzBL0g.htm](equipment/Fz6L3hgYWaCzBL0g.htm)|Battle Axe (+1 Striking)|
 |[g27kK39Nzqphl1Tb.htm](equipment/g27kK39Nzqphl1Tb.htm)|Explosive Ammunition (Greater)|
@@ -542,7 +542,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[iPki3yuoucnj7bIt.htm](equipment/iPki3yuoucnj7bIt.htm)|Scroll of 8th-level Spell|
 |[Ipz3i9JY6Wi8fHGk.htm](equipment/Ipz3i9JY6Wi8fHGk.htm)|Shuriken (+1 Striking)|
 |[iRDCa4OVSTGUD3vi.htm](equipment/iRDCa4OVSTGUD3vi.htm)|Purple Worm Venom|
-|[IRqbsE8MgGLTfHLz.htm](equipment/IRqbsE8MgGLTfHLz.htm)|Disguise Kit (Elite cosmetics)|
+|[IRqbsE8MgGLTfHLz.htm](equipment/IRqbsE8MgGLTfHLz.htm)|Disguise Kit (Elite Cosmetics)|
 |[iS7hAQMAaThHYE8g.htm](equipment/iS7hAQMAaThHYE8g.htm)|Bort's Blessing|
 |[iSceAVMkVv1uKK7t.htm](equipment/iSceAVMkVv1uKK7t.htm)|Aldori Dueling Sword|
 |[iTxqImupNnm8gvoe.htm](equipment/iTxqImupNnm8gvoe.htm)|Glamered|
@@ -621,7 +621,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[Kx6FQS5GyVB6jlrW.htm](equipment/Kx6FQS5GyVB6jlrW.htm)|Fighter's Fork|
 |[KZbAqbt7qxJPPkii.htm](equipment/KZbAqbt7qxJPPkii.htm)|Gold Dragon's Breath Potion (Wyrm)|
 |[L8OButuVM3PFxgrZ.htm](equipment/L8OButuVM3PFxgrZ.htm)|Orb of Dragonkind|
-|[L9ZV076913otGtiB.htm](equipment/L9ZV076913otGtiB.htm)|Rations (1 week)|
+|[L9ZV076913otGtiB.htm](equipment/L9ZV076913otGtiB.htm)|Rations|
 |[LA8wwpQBi6tylE6z.htm](equipment/LA8wwpQBi6tylE6z.htm)|Nunchaku|
 |[lasqzrPVEHI5MkQd.htm](equipment/lasqzrPVEHI5MkQd.htm)|Bomber's Eye Elixir (Greater)|
 |[Lb7F2BR9X9TF1vjX.htm](equipment/Lb7F2BR9X9TF1vjX.htm)|Thundering (Greater)|
@@ -665,7 +665,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[mgrabKkyLmvxgLBK.htm](equipment/mgrabKkyLmvxgLBK.htm)|Elven Curve Blade|
 |[mH3LImCgJAkfKAA3.htm](equipment/mH3LImCgJAkfKAA3.htm)|Philosopher's Extractor|
 |[MHoghQhxbvZRyyaB.htm](equipment/MHoghQhxbvZRyyaB.htm)|Potion of Electricity Resistance (Moderate)|
-|[MKSeXwUm56c15MZa.htm](equipment/MKSeXwUm56c15MZa.htm)|Sling Bullets (10)|
+|[MKSeXwUm56c15MZa.htm](equipment/MKSeXwUm56c15MZa.htm)|Sling Bullets|
 |[MKupH1T018JubYJW.htm](equipment/MKupH1T018JubYJW.htm)|Persona Mask|
 |[ML0GR2cIEdMn2hoD.htm](equipment/ML0GR2cIEdMn2hoD.htm)|Hammer|
 |[mL7VCAlPEeBtv6H8.htm](equipment/mL7VCAlPEeBtv6H8.htm)|Shuriken (+1)|
@@ -692,7 +692,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[mVxA9E2ernBL6fM6.htm](equipment/mVxA9E2ernBL6fM6.htm)|War Flail|
 |[MxYpGSOtyvYGjsXk.htm](equipment/MxYpGSOtyvYGjsXk.htm)|Greater Bloodbane|
 |[MY0mMaxxxIHHS3EC.htm](equipment/MY0mMaxxxIHHS3EC.htm)|Aldori Dueling Sword (+1)|
-|[MYnh7w7EL3AcQT41.htm](equipment/MYnh7w7EL3AcQT41.htm)|Dwarven Waraxe|
+|[MYnh7w7EL3AcQT41.htm](equipment/MYnh7w7EL3AcQT41.htm)|Dwarven War Axe|
 |[mYozcVg9fQY6zO7C.htm](equipment/mYozcVg9fQY6zO7C.htm)|Elixir of Life (Greater)|
 |[mz0GbCF2WT1DSYac.htm](equipment/mz0GbCF2WT1DSYac.htm)|Spellstrike Ammunition (Type III)|
 |[n0OsTQFXFz6dDAr6.htm](equipment/n0OsTQFXFz6dDAr6.htm)|Flayleaf|
@@ -881,7 +881,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[rXt4629QSg7KDTgJ.htm](equipment/rXt4629QSg7KDTgJ.htm)|Warhammer|
 |[rXXNw6dwVn96giDi.htm](equipment/rXXNw6dwVn96giDi.htm)|Goggles of Night (Major)|
 |[rxXT8KPBXa08feFD.htm](equipment/rxXT8KPBXa08feFD.htm)|Adventurer’s pack|
-|[rXZxM7SbqEnvXyal.htm](equipment/rXZxM7SbqEnvXyal.htm)|Clothing (High-fashion fine)|
+|[rXZxM7SbqEnvXyal.htm](equipment/rXZxM7SbqEnvXyal.htm)|Clothing (High-fashion Fine)|
 |[rzEQvcWfhR3T4FNd.htm](equipment/rzEQvcWfhR3T4FNd.htm)|Potion of Leaping|
 |[s1ddvAgVEXNXsx8K.htm](equipment/s1ddvAgVEXNXsx8K.htm)|Gnome Flickmace (+1 Striking)|
 |[s1vB3HdXjMigYAnY.htm](equipment/s1vB3HdXjMigYAnY.htm)|Healer’s Tools|
@@ -899,12 +899,12 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[SHzZSENlkz3Qy46j.htm](equipment/SHzZSENlkz3Qy46j.htm)|Horns of Naraga|
 |[siU0nYnCCQ1Os47S.htm](equipment/siU0nYnCCQ1Os47S.htm)|Bladed Hoop (+1)|
 |[skBa6D1uxb0b2USn.htm](equipment/skBa6D1uxb0b2USn.htm)|Slippers of Spider Climbing|
-|[SLQgdLk5K9JV4ACF.htm](equipment/SLQgdLk5K9JV4ACF.htm)|Clothing (winter)|
+|[SLQgdLk5K9JV4ACF.htm](equipment/SLQgdLk5K9JV4ACF.htm)|Clothing (Winter)|
 |[sls3pfkhgCbW723f.htm](equipment/sls3pfkhgCbW723f.htm)|Coyote Cloak (Greater)|
 |[Sn7v9SsbEDMUIwrO.htm](equipment/Sn7v9SsbEDMUIwrO.htm)|Magic Wand (4th-Level Spell)|
 |[SOfFjhJUPIryDhYm.htm](equipment/SOfFjhJUPIryDhYm.htm)|Warning Snare|
 |[sQFQlglhORQsxBKS.htm](equipment/sQFQlglhORQsxBKS.htm)|Verdant Staff|
-|[sqhr1crb184s3Vnd.htm](equipment/sqhr1crb184s3Vnd.htm)|Blowgun Darts (10)|
+|[sqhr1crb184s3Vnd.htm](equipment/sqhr1crb184s3Vnd.htm)|Blowgun Darts|
 |[SswqJqeAWGtX3tTF.htm](equipment/SswqJqeAWGtX3tTF.htm)|Hat of the Magi|
 |[StsE5POM7OSE36Ia.htm](equipment/StsE5POM7OSE36Ia.htm)|Iron Cube|
 |[su9YgCaUYT1clrD7.htm](equipment/su9YgCaUYT1clrD7.htm)|Machete (+1 Striking)|
@@ -985,7 +985,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[uM0OlCC1Sh6OLdNn.htm](equipment/uM0OlCC1Sh6OLdNn.htm)|Throwing Knife|
 |[UMAXLDpI6YLSfYX1.htm](equipment/UMAXLDpI6YLSfYX1.htm)|Alcohol|
 |[UnDjPxFOs6bldlcM.htm](equipment/UnDjPxFOs6bldlcM.htm)|Mummified Bat|
-|[uplCUQwMwBOBHz0E.htm](equipment/uplCUQwMwBOBHz0E.htm)|Uholy Water|
+|[uplCUQwMwBOBHz0E.htm](equipment/uplCUQwMwBOBHz0E.htm)|Unholy Water|
 |[upzjwQ96cZG0Xlmx.htm](equipment/upzjwQ96cZG0Xlmx.htm)|Religious Symbol (Silver)|
 |[UqinuuCWePTYGhVO.htm](equipment/UqinuuCWePTYGhVO.htm)|Antiplague (Lesser)|
 |[uQOaRpfkUFVYD0Gx.htm](equipment/uQOaRpfkUFVYD0Gx.htm)|Slick|
@@ -1023,7 +1023,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[Vy3z2cIQ8uJRUMYw.htm](equipment/Vy3z2cIQ8uJRUMYw.htm)|Refined Pesh|
 |[vz35Kb19MmskZxuu.htm](equipment/vz35Kb19MmskZxuu.htm)|Sawtooth Saber (+1 Striking)|
 |[VZmUrseCZs9xMaxt.htm](equipment/VZmUrseCZs9xMaxt.htm)|Potion of Cold Resistance (Greater)|
-|[w2ENw2VMPcsbif8g.htm](equipment/w2ENw2VMPcsbif8g.htm)|Arrows (10)|
+|[w2ENw2VMPcsbif8g.htm](equipment/w2ENw2VMPcsbif8g.htm)|Arrows|
 |[w2RzuszEall2mdia.htm](equipment/w2RzuszEall2mdia.htm)|Fauchard (+1 Striking)|
 |[w4Hd6nunVVqw3GWj.htm](equipment/w4Hd6nunVVqw3GWj.htm)|Basic Crafter’s Book|
 |[W5znRDeklmWEGzFY.htm](equipment/W5znRDeklmWEGzFY.htm)|Bag of Weasels|
@@ -1087,7 +1087,7 @@ Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
 |[xQS1MSqGQz44FWUh.htm](equipment/xQS1MSqGQz44FWUh.htm)|Black Lotus Extract|
 |[XQx6QIQY4sNGlFzY.htm](equipment/XQx6QIQY4sNGlFzY.htm)|Juggernaut Mutagen (Moderate)|
 |[xRrMmFzpa0WU9uV4.htm](equipment/xRrMmFzpa0WU9uV4.htm)|White Dragon's Breath Potion (Young)|
-|[xShIDyydOMkGvGNb.htm](equipment/xShIDyydOMkGvGNb.htm)|Chalk (10)|
+|[xShIDyydOMkGvGNb.htm](equipment/xShIDyydOMkGvGNb.htm)|Chalk|
 |[XSwEE8wjHr6UXzpw.htm](equipment/XSwEE8wjHr6UXzpw.htm)|Staff of Healing (Greater)|
 |[XszNvxnymWYRaoTp.htm](equipment/XszNvxnymWYRaoTp.htm)|Flaming|
 |[xu3azdMCIa53Oe1f.htm](equipment/xu3azdMCIa53Oe1f.htm)|Meteor Hammer|
