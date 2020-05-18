@@ -1,0 +1,24 @@
+# État de la traduction (classes)
+
+ * **officielle**: 12
+ * **doublon**: 1
+
+
+Dernière mise à jour: 2020-05-17 20:25 *(heure de Canada/Montréal)*
+## Liste des traductions complétés
+
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|:----:|
+|[6M4DO9lY25F8n6Li.htm](classes/6M4DO9lY25F8n6Li.htm)|Roublard|officielle|
+|[8KGkzwIFYFHAdw2H.htm](classes/8KGkzwIFYFHAdw2H.htm)|Moine|officielle|
+|[8l1uexxIX7m6LUUv.htm](classes/8l1uexxIX7m6LUUv.htm)|Barde|officielle|
+|[Hp9n82T1VdG5fb9e.htm](classes/Hp9n82T1VdG5fb9e.htm)|Barbare|officielle|
+|[JSkS9iLsebH2HUSY.htm](classes/JSkS9iLsebH2HUSY.htm)|Druide|officielle|
+|[O6rpIOJQM78U9eyU.htm](classes/O6rpIOJQM78U9eyU.htm)|Magicien|officielle|
+|[Oia1kqkF4KwdVVaw.htm](classes/Oia1kqkF4KwdVVaw.htm)|Prêtre|officielle|
+|[p5zBqyyeNY1HTAV1.htm](classes/p5zBqyyeNY1HTAV1.htm)|Guerrier|officielle|
+|[QzgMYQWYdQZMIChe.htm](classes/QzgMYQWYdQZMIChe.htm)|Champion|officielle|
+|[rBdSrGzDJcgWFm7b.htm](classes/rBdSrGzDJcgWFm7b.htm)|Ensorceleur|doublon|
+|[rieRSsMMpae94H7b.htm](classes/rieRSsMMpae94H7b.htm)|Alchimiste|officielle|
+|[WpMQGtgz46Cc5onF.htm](classes/WpMQGtgz46Cc5onF.htm)|Ensorceleur|officielle|
+|[zk0K5exx506ukJns.htm](classes/zk0K5exx506ukJns.htm)|Rôdeur|officielle|
