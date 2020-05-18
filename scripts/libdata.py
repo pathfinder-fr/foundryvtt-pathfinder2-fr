@@ -4,6 +4,13 @@
 import os
 
 #
+# cette fonction retourn vrai si les deux textes sont identiques
+# (ignore les retours à la ligne)
+#
+def equals(val1, val2):
+  return val1.replace('\n','').strip() == val2.replace('\n','').strip()
+
+#
 # cette fonction extrait l'information d'un fichier
 #
 def fileToData(filepath):
@@ -17,23 +24,59 @@ def fileToData(filepath):
       
     nameEN = ""
     nameFR = ""
-    descr = ""
+    descrEN = ""
+    descrFR = ""
     status = ""
-    isDesc = False  
+    isDescEN = False  
+    isDescFR = False  
     
     for line in content:
-      if isDesc:
-        descr += line
-      elif line.startswith("Name:"):
+      if line.startswith("Name:"):
         data['nameEN'] = line[5:].strip()
       elif line.startswith("Nom:"):
         data['nameFR'] = line[4:].strip()
       elif line.startswith("État:"):
         data['status'] = line[5:].strip()
+      elif line.startswith("------ Description (en) ------"):
+        isDescEN = True
+        isDescFR = False
+        continue
       elif line.startswith("------ Description (fr) ------"):
-        isDesc = True
+        isDescFR = True
+        isDescEN = False
+        continue
+      
+      if isDescEN:
+        descrEN += line
+      elif isDescFR:
+        descrFR += line
+      
+      
+    data['descrEN'] = descrEN.strip()
+    data['descrFR'] = descrFR.strip()
     
-    data['description'] = descr.replace('\n','').strip()
+  else:
+    print("Invalid path: %s" % filepath)
+    exit(1)
+  
+  return data
+
+#
+# cette fonction écrit
+#
+def dataToFile(data, filepath):
+
+  if os.path.isfile(filepath):
+    
+    with open(filepath, 'w') as df:
+      df.write('Name: ' + data['nameEN'] + '\n')
+      df.write('Nom: ' + data['nameFR'] + '\n')
+      df.write('État: ' + data['status'] + '\n\n')
+      df.write('------ Description (en) ------' + '\n')
+      df.write(data['descrEN'] + '\n')
+      df.write('------ Description (fr) ------' + '\n')
+      if len(data['descrFR']) > 0:
+        df.write(data['descrFR'] + '\n')
     
   else:
     print("Invalid path: %s" % filepath)
