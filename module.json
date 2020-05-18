@@ -7,5 +7,5 @@
   "download": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/archive/v-0.6.0/foundryvtt-pathfinder2-fr-v-0.6.0.zip",
   "manifest": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/module.json",
   "minimumCoreVersion": "0.5.5",
-  "compatibleCoreVersion": "0.5.5"
+  "compatibleCoreVersion": "0.5.7"
 }
