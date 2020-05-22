@@ -1,11 +1,11 @@
 # État de la traduction (feats)
 
  * **libre**: 44
- * **officielle**: 396
- * **aucune**: 757
+ * **officielle**: 401
+ * **aucune**: 752
 
 
-Dernière mise à jour: 2020-05-21 20:37 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-22 18:07 *(heure de Canada/Montréal)*
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
@@ -52,7 +52,6 @@ Dernière mise à jour: 2020-05-21 20:37 *(heure de Canada/Montréal)*
 |[ancestry-01-OZtoTusMmCJymObT.htm](feats/ancestry-01-OZtoTusMmCJymObT.htm)|Leech-Clipper|
 |[ancestry-01-pQQhrcj1u6hUUc8L.htm](feats/ancestry-01-pQQhrcj1u6hUUc8L.htm)|Keep Up Appearances|
 |[ancestry-01-PsLne80WUsD4IFa6.htm](feats/ancestry-01-PsLne80WUsD4IFa6.htm)|Dig Quickly|
-|[ancestry-01-SCgqIo8VQZZKZ1Ws.htm](feats/ancestry-01-SCgqIo8VQZZKZ1Ws.htm)|Orc Sight|
 |[ancestry-01-shp63QZvw9xvkVvC.htm](feats/ancestry-01-shp63QZvw9xvkVvC.htm)|Know Oneself|
 |[ancestry-01-sL2GmYve5NXJ0wc1.htm](feats/ancestry-01-sL2GmYve5NXJ0wc1.htm)|Gloomseer|
 |[ancestry-01-SrSYEHqOLXWuj65e.htm](feats/ancestry-01-SrSYEHqOLXWuj65e.htm)|Inventive Offensive|
@@ -69,16 +68,13 @@ Dernière mise à jour: 2020-05-21 20:37 *(heure de Canada/Montréal)*
 |[ancestry-01-VU07hybqzUXIJ6l2.htm](feats/ancestry-01-VU07hybqzUXIJ6l2.htm)|Halfling Lore|
 |[ancestry-01-wAeI18wyWVwfUrIP.htm](feats/ancestry-01-wAeI18wyWVwfUrIP.htm)|Tusks|
 |[ancestry-01-weYZzyMmlCIC2TZt.htm](feats/ancestry-01-weYZzyMmlCIC2TZt.htm)|Grasping Reach|
-|[ancestry-01-WoLh16gyDp8y9WOZ.htm](feats/ancestry-01-WoLh16gyDp8y9WOZ.htm)|Ancestral Longevity|
 |[ancestry-01-X7wFUWjYjYhzpejU.htm](feats/ancestry-01-X7wFUWjYjYhzpejU.htm)|Clan's Edge|
-|[ancestry-01-X9tKWtQrAcmn26Nv.htm](feats/ancestry-01-X9tKWtQrAcmn26Nv.htm)|Adapted Cantrip|
 |[ancestry-01-Y1bEisU8jVCsIYk3.htm](feats/ancestry-01-Y1bEisU8jVCsIYk3.htm)|Woodcraft|
 |[ancestry-01-yCaWcKlpbAfebqlO.htm](feats/ancestry-01-yCaWcKlpbAfebqlO.htm)|Shoony Lore|
 |[ancestry-01-yJ8Ez5dEscIk1xr5.htm](feats/ancestry-01-yJ8Ez5dEscIk1xr5.htm)|First World Magic|
 |[ancestry-01-yMfZulJcoSomQ6dO.htm](feats/ancestry-01-yMfZulJcoSomQ6dO.htm)|Elemental Wrath|
 |[ancestry-01-YMKtEoNwHKA713Cx.htm](feats/ancestry-01-YMKtEoNwHKA713Cx.htm)|Junk Tinker|
 |[ancestry-01-zAZJpgeEf5TWvdq4.htm](feats/ancestry-01-zAZJpgeEf5TWvdq4.htm)|Watchful Halfling|
-|[ancestry-01-ZbRVqf14RTJJIZXG.htm](feats/ancestry-01-ZbRVqf14RTJJIZXG.htm)|Halfling Luck|
 |[ancestry-01-zki5qdM5IQcAiscM.htm](feats/ancestry-01-zki5qdM5IQcAiscM.htm)|Elven Lore|
 |[ancestry-01-zs2FFGI88zB7EaBT.htm](feats/ancestry-01-zs2FFGI88zB7EaBT.htm)|Grim Insight|
 |[ancestry-01-ZxiAMposVPDNPwxI.htm](feats/ancestry-01-ZxiAMposVPDNPwxI.htm)|Forge-Day's Rest|
@@ -258,7 +254,6 @@ Dernière mise à jour: 2020-05-21 20:37 *(heure de Canada/Montréal)*
 |[bonus-04-vDeG0N4kzTBDTC2b.htm](feats/bonus-04-vDeG0N4kzTBDTC2b.htm)|Sabotage|
 |[class-01-6GN1zh3RcnZhrzxP.htm](feats/class-01-6GN1zh3RcnZhrzxP.htm)|Everstand Stance|
 |[class-01-6thEFvU7aMPmLrly.htm](feats/class-01-6thEFvU7aMPmLrly.htm)|False Faith|
-|[class-01-Gw0wGXikhAhiGoud.htm](feats/class-01-Gw0wGXikhAhiGoud.htm)|Twin Takedown|
 |[class-01-yVC5pVZaWczYWGTa.htm](feats/class-01-yVC5pVZaWczYWGTa.htm)|Syncretism|
 |[class-02-a898miJnjgD93ZsX.htm](feats/class-02-a898miJnjgD93ZsX.htm)|Multifarious Muse|
 |[class-02-aM6eAeyk5twmxCKe.htm](feats/class-02-aM6eAeyk5twmxCKe.htm)|Fiendsbane Oath|
@@ -811,11 +806,15 @@ Dernière mise à jour: 2020-05-21 20:37 *(heure de Canada/Montréal)*
 |[ancestry-01-PodajLVxqYSAqVox.htm](feats/ancestry-01-PodajLVxqYSAqVox.htm)|Ambition naturelle|officielle|
 |[ancestry-01-Rfyhlyql1GSoDkI2.htm](feats/ancestry-01-Rfyhlyql1GSoDkI2.htm)|Talent naturel|officielle|
 |[ancestry-01-RmiMUZlae6yGUyXY.htm](feats/ancestry-01-RmiMUZlae6yGUyXY.htm)|Obstination arrogante|officielle|
+|[ancestry-01-SCgqIo8VQZZKZ1Ws.htm](feats/ancestry-01-SCgqIo8VQZZKZ1Ws.htm)|Vision Orque|officielle|
 |[ancestry-01-sJ7WTLDwAbIA9Elc.htm](feats/ancestry-01-sJ7WTLDwAbIA9Elc.htm)|Brûle !|officielle|
 |[ancestry-01-sm6Y3fTcltxE8N0p.htm](feats/ancestry-01-sm6Y3fTcltxE8N0p.htm)|Connaissance des gobelins|officielle|
 |[ancestry-01-tFgsBRsEo9ZEA5fU.htm](feats/ancestry-01-tFgsBRsEo9ZEA5fU.htm)|Perception des illusions|officielle|
 |[ancestry-01-uuD8Z9jUG61GmenX.htm](feats/ancestry-01-uuD8Z9jUG61GmenX.htm)|Halfelin libre|officielle|
 |[ancestry-01-uW0VSyy75YrsvtWz.htm](feats/ancestry-01-uW0VSyy75YrsvtWz.htm)|Volonté inébranlable|officielle|
+|[ancestry-01-WoLh16gyDp8y9WOZ.htm](feats/ancestry-01-WoLh16gyDp8y9WOZ.htm)|Longévité ancestrale|officielle|
+|[ancestry-01-X9tKWtQrAcmn26Nv.htm](feats/ancestry-01-X9tKWtQrAcmn26Nv.htm)|tour de magie adapté|officielle|
+|[ancestry-01-ZbRVqf14RTJJIZXG.htm](feats/ancestry-01-ZbRVqf14RTJJIZXG.htm)|Chance halfeline|officielle|
 |[ancestry-05-0ihK3qYItmi8eVZs.htm](feats/ancestry-05-0ihK3qYItmi8eVZs.htm)|Obsession éclectique|libre|
 |[ancestry-05-4M36jGbeSDfZFM38.htm](feats/ancestry-05-4M36jGbeSDfZFM38.htm)|Instincts elfiques|libre|
 |[ancestry-05-5AnJTAZnuWrkL8fa.htm](feats/ancestry-05-5AnJTAZnuWrkL8fa.htm)|Défi jusqu'à la mort|libre|
@@ -885,6 +884,7 @@ Dernière mise à jour: 2020-05-21 20:37 *(heure de Canada/Montréal)*
 |[class-01-FoWO4RnHRwfEIC7Q.htm](feats/class-01-FoWO4RnHRwfEIC7Q.htm)|Sort élargi|officielle|
 |[class-01-FXKIALDXAzEBfj5A.htm](feats/class-01-FXKIALDXAzEBfj5A.htm)|Domaine de la divinité|officielle|
 |[class-01-gjec0ts3wkFbjvHN.htm](feats/class-01-gjec0ts3wkFbjvHN.htm)|Tu es le suivant|officielle|
+|[class-01-Gw0wGXikhAhiGoud.htm](feats/class-01-Gw0wGXikhAhiGoud.htm)|Agression jumelée|officielle|
 |[class-01-hT4INKGtly4QY8KN.htm](feats/class-01-hT4INKGtly4QY8KN.htm)|Initié du domaine|officielle|
 |[class-01-iTdbkP07UFMOo1rI.htm](feats/class-01-iTdbkP07UFMOo1rI.htm)|Représailles à distance|officielle|
 |[class-01-jBp91q4uzwd4FeSX.htm](feats/class-01-jBp91q4uzwd4FeSX.htm)|Polyvalence artistique|officielle|

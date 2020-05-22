@@ -2,6 +2,11 @@
     "label": "Dons",
     "entries": [
         {
+            "id": "Orc Sight",
+            "name": "Vision Orque",
+            "description": "<p><strong>Prérequis</strong> vision nocturne</p>\n<hr>\n<p>Votre sang orc est assez fort pour vous faire bénéficier de la vision perçante de vos ancêtres orcs. Vous gagnez vision dans le noir, qui vous permet de voir dans les ténèbres et la lumière faible aussi bien que dans la lumière vive. Cependant, dans les ténèbres, vous ne voyez qu’en noir et blanc.</p>\n<p><strong>Spécial</strong> Vous pouvez seulement choisir ce don au niveau 1 et vous ne pouvez pas utiliser un réapprentissage pour perdre ou gagner ce don.</p>\n"
+        },
+        {
             "id": "Incredible Ferocity",
             "name": "Férocité extraordinaire",
             "description": "<p><strong>Prérequis</strong> Férocité orque</p>\n<hr>\n<p>Pour peu que vous ayez eu un peu le temps de respirer après un combat au cours duquel vous avez frôlé la mort, vous pouvez ranimer votre férocité pour résister à de nouveaux coups de grâce. Vous pouvez utiliser votre Férocité orque une fois par heure plutôt qu’une fois par jour.</p>\n\n"
@@ -260,6 +265,11 @@
             "id": "Healing Transformation",
             "name": "Transformation curative",
             "description": "<p>Vous profitez de votre magie de métamorphose pour refermer vos blessures et soigner vos plaies. Si votre prochaine action consiste à lancer un sort de métamorphose autre qu’un tour de magie et qui cible une seule créature, ce sort permet également à la créature ciblée de récupérer 1d6 points de vie par niveau du sort. Il s’agit d’un effet de guérison.</p>"
+        },
+        {
+            "id": "Adapted Cantrip",
+            "name": "tour de magie adapté",
+            "description": "<p><strong>Prérequis</strong> une capacité de classe d’incantation</p>\n<hr>\n<p>Vous avez étudié plusieurs traditions magiques et avez découvert comment altérer un sort pour qu’il corresponde à votre style incantatoire. Choisissez un tour de magie qui ne fait pas partie de la liste correspondant à votre tradition magique. Si vous avez un répertoire de sorts ou un grimoire, remplacez l’un des tours de magie que vous connaissez ou avez inscrits dans votre grimoire par le sort choisi. Si vous préparez vos sorts sans l’aide d’un grimoire (si vous êtes un prêtre ou un druide, par exemple), l’un de vos tours de magie doit toujours être le sort que vous avez choisi et vous préparez les autres normalement. Vous pouvez lancer ce tour de magie comme un sort de la tradition choisie pour votre classe. Si vous échangez ce tour de magie par un autre ou le réapprenez ultérieurement, vous pouvez choisir le tour de magie qui le remplace parmi ceux de la liste de la même tradition ou d’une liste différente.</p>"
         },
         {
             "id": "Natural Ambition",
@@ -656,6 +666,11 @@
             "description": "<p>Vos muscles sont bien entraînés. Votre Vitesse augmente de 1,50 m.</p>"
         },
         {
+            "id": "Twin Takedown",
+            "name": "Agression jumelée",
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Conditions.</strong> Vous maniez deux armes de corps à corps, une dans chaque main.</p>\n<hr>\n<p>Vous portez deux attaques rapides contre votre proie avec vos deux armes. Faites deux Frappes contre votre proie, une avec chacune des armes requises. Si les deux touchent, faites la somme de leurs dégâts avant d’appliquer les résistances et les faiblesses. Vous appliquez normalement votre malus d’attaques multiples à ces Frappes.</p>\n\n"
+        },
+        {
             "id": "Ki Blast",
             "name": "Explosion ki",
             "description": "<p><strong>Prérequis</strong> sorts ki</p>\n<hr>\n<p>Vous pouvez déclencher un puissant cône de force en canalisant votre ki. Vous obtenez le sort ki explosion ki (page 396). Augmentez de 1 le nombre de points de focalisation de votre réserve</p>"
@@ -729,6 +744,11 @@
             "id": "Diverse Weapon Expert",
             "name": "Armes diverses expert",
             "description": "<p><strong>Prérequis</strong> Dévouement du guerrier, expert dans tout type d’arme ou attaque à mains nues</p>\n<hr>\n<p>Vos rangs de maîtrise pour les armes simples et les armes de guerre passent à expert, et votre rang de maîtrise pour les armes évoluées à qualifié.</p>"
+        },
+        {
+            "id": "Halfling Luck",
+            "name": "Chance halfeline",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur.</strong> Vous échouez à un test de compétence ou à un jet desauvegarde.</p>\n<hr>\n<p>Votre nature insouciante donne l’impression que la malchance vous évite et, dans une certaine mesure, c’est peut-être bien le cas. Vous pouvez relancer le test qui déclenche ce pouvoir, mais vous devez alors utiliser le nouveau résultat, même s’il est moins bon que le premier.</p>"
         },
         {
             "id": "Careful Explorer",
@@ -2098,6 +2118,11 @@
             "id": "Improved Poison Weapon",
             "name": "Arme empoisonnée améliorée",
             "description": "<p><strong>Prérequis</strong> Arme empoisonnée</p>\n<hr>\n<p>Vous administrez vos poisons de manière à en optimiser les effets nocifs. Quand vous enduisez votre arme d’un poison simple avec Arme empoisonnée, ce poison inflige 2d4 dégâts de poison au lieu de 1d4 dégâts de poison. Vous ne gâchez pas le poison enduit avec Arme empoisonnée si vous obtenez un échec critique à votre jet d’attaque.</p>"
+        },
+        {
+            "id": "Ancestral Longevity",
+            "name": "Longévité ancestrale",
+            "description": "<p><strong>Prérequis</strong> Avoir au moins 100 ans</p>\n<hr>\n<p>Vous avez accumulé de nombreuses connaissances au fil des années. Lors de vos préparatifs quotidiens, vous pouvez méditer sur vos expériences passées afin de bénéficier du rang de maîtrise qualifié dans une compétence de votre choix. Vous bénéficiez de cette maîtrise jusqu’à vos prochains préparatifs. Dans la mesure où cette maîtrise est temporaire, vous ne pouvez pas l’utiliser comme prérequis pour bénéficier d’une amélioration de compétence ou d’une option permanente de personnage, comme un don.</p>"
         },
         {
             "id": "Haughty Obstinacy",
