@@ -27,3 +27,6 @@ Pour appliquer les traductions, il faut installer le module Babele et pointer ve
 * Installer ce module manuellement avec le manifest `https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/module.json`
 * Configurer Babele pour pointer les traductions vers le répertoire `modules/pf2-fr/babele`
 * Enjoy!
+
+## Ressources utiles
+https://docs.google.com/spreadsheets/d/1MmY9rB7EU1yjpPmmoDdqgawiA46fetS_NBCC0Ay7zsw/edit#gid=508492121
