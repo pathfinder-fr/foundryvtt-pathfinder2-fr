@@ -4,11 +4,11 @@
  * **libre**: 5
 
 
-Dernière mise à jour: 2020-05-23 11:46 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|:----:|
+|-----------|-------------|-------------|:----:|
 |[00LNVSCbwJ8pszwE.htm](actions/00LNVSCbwJ8pszwE.htm)|Mutagenic Flashback|Flaskback du mutagène|officielle|
 |[1kGNdIIhuglAjIp9.htm](actions/1kGNdIIhuglAjIp9.htm)|Treat Wounds|Soigner les blessures|officielle|
 |[1OagaWtBpVXExToo.htm](actions/1OagaWtBpVXExToo.htm)|Recall Knowledge (Lore)|Se souvenir (Connaissance)|officielle|

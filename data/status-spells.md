@@ -1,9 +1,10 @@
 # État de la traduction (spells)
 
- * **aucune**: 652
+ * **aucune**: 649
+ * **officielle**: 3
 
 
-Dernière mise à jour: 2020-05-23 11:46 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
@@ -53,7 +54,6 @@ Dernière mise à jour: 2020-05-23 11:46 *(heure de Canada/Montréal)*
 |[41TZEjhO6D1nWw2X.htm](spells/41TZEjhO6D1nWw2X.htm)|Augury|
 |[4c1c6eNzU1PFGkAy.htm](spells/4c1c6eNzU1PFGkAy.htm)|Endure|
 |[4DaHIgtMBTyxebY3.htm](spells/4DaHIgtMBTyxebY3.htm)|Commanding Lash|
-|[4gBIw4IDrSfFHik4.htm](spells/4gBIw4IDrSfFHik4.htm)|Daze|
 |[4GE2ZdODgIQtg51c.htm](spells/4GE2ZdODgIQtg51c.htm)|Darkness|
 |[4koZzrnMXhhosn0D.htm](spells/4koZzrnMXhhosn0D.htm)|Fear|
 |[4LSf04FFvDgMyDk6.htm](spells/4LSf04FFvDgMyDk6.htm)|Vigilant Eye|
@@ -72,7 +72,6 @@ Dernière mise à jour: 2020-05-23 11:46 *(heure de Canada/Montréal)*
 |[5LYi9Efs6cko4GGL.htm](spells/5LYi9Efs6cko4GGL.htm)|Object Reading|
 |[5Pc55FGGqVpIAJ62.htm](spells/5Pc55FGGqVpIAJ62.htm)|Loremaster's Etude|
 |[5wjl0ZwEvvUh7sor.htm](spells/5wjl0ZwEvvUh7sor.htm)|Swarmsense|
-|[60sgbuMWN0268dB7.htm](spells/60sgbuMWN0268dB7.htm)|Telekinetic Projectile|
 |[69L70wKfGDY66Mk9.htm](spells/69L70wKfGDY66Mk9.htm)|Teleport|
 |[6dDtGIUerazSHIOu.htm](spells/6dDtGIUerazSHIOu.htm)|Wish|
 |[6nTBr5XNuKOuPM5m.htm](spells/6nTBr5XNuKOuPM5m.htm)|Foul Miasma|
@@ -119,7 +118,6 @@ Dernière mise à jour: 2020-05-23 11:46 *(heure de Canada/Montréal)*
 |[APTMURAW1N0Wpk4w.htm](spells/APTMURAW1N0Wpk4w.htm)|Precious Metals|
 |[aqRYNoSvxsVfqglH.htm](spells/aqRYNoSvxsVfqglH.htm)|Freedom of Movement|
 |[AsKLseOo8hwv5Jha.htm](spells/AsKLseOo8hwv5Jha.htm)|Invoke the Crimson Oath|
-|[atlgGNI1E1Ox3O3a.htm](spells/atlgGNI1E1Ox3O3a.htm)|Ghost Sound|
 |[AUctDF2fqPZN2w4W.htm](spells/AUctDF2fqPZN2w4W.htm)|Sigil|
 |[aXoh6OQAL57lgh0a.htm](spells/aXoh6OQAL57lgh0a.htm)|Expeditious Excavation|
 |[ayRXv0wQH00TTNZe.htm](spells/ayRXv0wQH00TTNZe.htm)|Purple Worm Sting|
@@ -664,4 +662,7 @@ Dernière mise à jour: 2020-05-23 11:46 *(heure de Canada/Montréal)*
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|:----:|
+|-----------|-------------|-------------|:----:|
+|[4gBIw4IDrSfFHik4.htm](spells/4gBIw4IDrSfFHik4.htm)|Daze|Hébétement|officielle|
+|[60sgbuMWN0268dB7.htm](spells/60sgbuMWN0268dB7.htm)|Telekinetic Projectile|Projectile télékinésique|officielle|
+|[atlgGNI1E1Ox3O3a.htm](spells/atlgGNI1E1Ox3O3a.htm)|Ghost Sound|Son imaginaire|officielle|
