@@ -3,7 +3,7 @@
  * **aucune**: 652
 
 
-Dernière mise à jour: 2020-05-22 18:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-23 11:46 *(heure de Canada/Montréal)*
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
@@ -663,5 +663,5 @@ Dernière mise à jour: 2020-05-22 18:07 *(heure de Canada/Montréal)*
 
 ## Liste des traductions complétés
 
-| Fichier   | Nom (EN)    | État |
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|:----:|

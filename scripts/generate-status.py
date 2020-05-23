@@ -15,7 +15,7 @@ ROOT=".."
 for D in DIRS:
   dirpath= "%s/data/%s" % (ROOT, D)
 
-  statusContentOK = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|:----:|\n"
+  statusContentOK = "| Fichier   | Nom (EN)    | Nom (FR)    | État |\n" + "|-----------|-------------|:----:|\n"
   statusContentNOK = "| Fichier   | Nom (EN)    |\n" + "|-----------|-------------|\n"
     
   files = [f for f in os.listdir(dirpath) if os.path.isfile(os.path.join(dirpath, f))]
@@ -33,7 +33,7 @@ for D in DIRS:
     if data['status'] == "aucune":
       statusContentNOK += "|[%s](%s/%s)|%s|\n" % (f, D, f, data['nameEN'])
     else:
-      statusContentOK += "|[%s](%s/%s)|%s|%s|\n" % (f, D, f, data['nameFR'], data['status'])
+      statusContentOK += "|[%s](%s/%s)|%s|%s|%s|\n" % (f, D, f, data['nameEN'], data['nameFR'], data['status'])
     
 
   content = "# État de la traduction (%s)\n\n" % D
