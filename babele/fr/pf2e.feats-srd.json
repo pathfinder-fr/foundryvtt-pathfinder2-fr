@@ -37,6 +37,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié en Vol<br></span></p>\n<hr>\n<p>Vous pouvez Voler ou Escamoter un objet étroitement gardé, tel que dans une poche, sans subir le malus de −5. Vous ne pouvez pas voler d’objets qui seraient extrêmement visibles ou qui prendraient du temps à retirer (tels que des chaussures ou une armure portées ou des objets activement utilisés). Si vous êtes maître en Vol, vous pouvez tenter de Voler une créature en combat ou sous surveillance. Quand vous le faites, Voler nécessite 2 actions de manipulation au lieu de 1, et vous subissez un malus de −5.&nbsp;</p>\n"
         },
         {
+            "id": "Hellknight Armiger Dedication",
+            "name": "Dévouement d'Écuyer Chevalier infernal",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> membre d'un ordre de Chevalier infernal, qualifié en armure lourde et dans l'arme favorie de votre ordre <br><strong>Accès</strong> Vous êtes originaire de l'Ancien Chéliax.<br></span></p>\n<hr>\n<p>Votre entraînement de Chevalier infernal vous enseigne à terroriser les autres pour en obtenir l'obéissance, mais aussi à étudier la structure et la hiérarchie de l'Enfer. Vous devez survivre des tests douloureux pour votre corps et votre âme appelés ordalies, qui renforcent votre esprit contre toutes sortes de trauma. Vous obtenez une résistance aux dégâts mentaux égale à  1 + votre nombre de dons classe de l'archétype d'Écuyer Chevalier infernel et d'autres Archétypes de Chevalier infernal. Vous devenez qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=7\">Intimidation</a> et <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> de l'Enfer ; si vous étiez déjà qualifié, vous devenez expert à la place.<br><br><strong>Spécial</strong> Vous ne pouvez sélectionner un autre don de dévouement à l'exception de dons de positions supérieures parmi les Chevaliers infernaux  jusqu'à ce que vous obteniez deux autres dons de l'archétype Écuyer Chevalier infernal.&nbsp;</p>"
+        },
+        {
             "id": "Furious Grab",
             "name": "Empoignaded furieuse",
             "description": "<p><strong>Conditions</strong>  Votre dernière action était une Frappe réussie, et vous avez une main libre ou vous avez Frappé à l’aide d’une arme dotée du trait saisir.</p>\n<hr>\n<p>Vous profitez que votre adversaire est distrait par votre attaque pour l’empoigner. L’adversaire que vous avez frappé devient empoigné, comme si vous aviez réussi un test d’Athlétisme pour le  Saisir.</p>"
@@ -55,6 +60,11 @@
             "id": "Weapon Supremacy",
             "name": "Suprématie martiale",
             "description": "<p>Votre expertise des armes vous permet d’attaquer tout le temps avec rapidité. Vous êtes accéléré en permanence. Vous pouvez utiliser votre action supplémentaire uniquement pour Frapper.</p>\n"
+        },
+        {
+            "id": "Know the Beat",
+            "name": "Tâter le pouls",
+            "description": "<p><strong>Archétype</strong> Garde Zéphyr</p>\n<p><strong>Prerequisites</strong> Dévouement de Garde Zéphyr</p>\n<hr>\n<p>Vous devenez qualifié à votre choix en connaissance des Guildes, de la Loi, du Commerce ou des Bas fonds. Vous obtenez un bonus de circonstance de +1 aux tests de Diplomatie pour Recueillir des informations et aux tests faits pour enquêter sur descrimes.</p>"
         },
         {
             "id": "Aura of Vengeance",
@@ -125,6 +135,11 @@
             "id": "Terrifying Howl",
             "name": "Hurlement terrifiant",
             "description": "<p><strong> Prérequis</strong> Regard intimidant</p>\n<hr>\n<p> Vous poussez un hurlement terrifiant. Vous faites des tests d’Intimidation pour Démoraliser tous les ennemis qui se trouvent dans un rayon de 9 m. Quel que soit le résultat de vos tests, chacune de ces créatures est alors temporairement immunisée au Hurlement terrifiant pendant 1 min.</p>"
+        },
+        {
+            "id": "Runescarred Dedication",
+            "name": "Dévouement de Marqué de runes",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié en Arcanes<br><strong>Accès</strong> Vous êtes originaire des Terres des Sagas.<br></span></p>\n<hr>\n<p>Que ce soit lié à votre sang (si vous êtes Varisien, Shoanti ou issu du Nouveau Thassilon) ou du fait d'une exposition à la magie des runes, vous vous êtes fait marquer le corps avec des runes visibles et brillantes sous la forme de tatouages ou de cicatrices. Vous pourriez avoir possédé ces marques avant de prendre l'archétype, mais vous n'êtes devenu réellement un Marqué de runes que lorsque vous avez choisi d'étudier et de puiser dans le pouvoir des runes. Vous devenez expert en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=2\">Arcanes</a> et vous devenez aussi qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> du Thassilon ou expert en Connaissance du Thassilon Lore si vous étiez déjà qualifié.<br><br>Choisissez un tour de magie de la liste de la tradition <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=1\">arcanique</a>. Une des runes de votre corps correspond à ce tour de magie choisi et vous pouvez lancer le tour de magie choisi comme un sort innée arcanique.<br><br><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement jusqu'à ce que vous obteniez deux autres dons de l'archétype Marqué de runes.&nbsp;</p>"
         },
         {
             "id": "Cooperative Nature",
@@ -322,6 +337,11 @@
             "description": "<p><strong>Prérequis</strong> qualifié en Société</p>\n<hr>\n<p>Vous pouvez lire sur les lèvres de ceux proches de vous que vous pouvez clairement voir. Quand vous êtes à votre aise, vous pouvez le faire automatiquement. En mode rencontre ou quand vous tentez de lire sur les lèvres dans des conditions plus difficiles, vous êtes fasciné et pris au dépourvu à chaque round durant lequel vous vous concentrez sur les mouvements des lèvres, et vous devez réussir un test de Société (dont le DD est déterminé par le MJ) pour réussir à lire sur les lèvres de quelqu’un. Dans tous les cas, vous devez connaître la langue lue. Si vous êtes sourd ou malentendant et possédez Lire sur les lèvres, vous reconnaissez les mouvements des lèvres pour la forme parlée de vos langues. Vous pouvez aussi parler la forme orale de vos langues avec suffisamment de clarté pour que les autres vous comprennent.</p>\n"
         },
         {
+            "id": "Red Mantis Assassin Dedication",
+            "name": "Dévouement d'Assassin des Mantes rouges",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié avec le sabre dentelé, suivant Achaekek, alignement loyal mauvais, membre des assassins des Mantes Rouges<br><strong>Accès</strong> Vous êtes originaire de l'Île de Mediogalti.<br></span></p>\n<hr>\n<p>Vous avez appris à traquer et tuer vos proies avec un sabre dentelé. Vous devenez qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=15\">Discrétion</a> et en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> en assassinat ; si vous étiez déjà qualifié, vous devenez un expert à la place. Lorsque votre maîtrise dans n'importe quelle arme devient expert ou supérieur, vous obtenez également ce rang avec le <a href=\"https://2e.aonprd.com/Weapons.aspx?ID=65\">sabre dentelé</a>.<br><br><strong>Spécial</strong> Vous ne pouvez obtenir d'autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Assassin de la Mante rouge.&nbsp;</p>\n"
+        },
+        {
             "id": "Decry Thief",
             "name": "Dénoncer un voleur",
             "description": "<p><strong>Archétype</strong> Garde du Zéphyr</p>\n<p><strong>Prérequis</strong> Dévouement de Garde du Zéphyr, qualifié en Intimidation</p>\n<hr>\n<p>Lorsque vous tentez de la Démoraliser, vous pouvez faire en sorte de rendre plus difficile la fuite de votre cible, au lieu des effets normaux de l'action.</p>\n<p><strong>Succès critique</strong> Pendant 1 round, la cible subit une pénalité de statut de –3 m à sa vitesse de déplacement et une pénalité de –4 à la Discrétion.</p>\n<p><strong>Succès</strong> Pendant 1 round, la cible subit une pénalité de statut de –1,5 m à sa vitesse de déplacement et une pénalité de –4 à la Discrétion.</p>"
@@ -335,6 +355,11 @@
             "id": "Cat Fall",
             "name": "Chute féline",
             "description": "<p><strong>Prérequis</strong> qualifié en Acrobaties</p>\n<hr>\n<p>Vos acrobaties aériennes félines vous permettent d’amortir vos chutes. Traitez les chutes comme étant 3 m plus courtes. Si vous êtes un expert en Acrobaties, traitez les chutes comme étant 7,5 m plus courtes. Si vous êtes un maître en Acrobaties, traitez-les comme étant 15 m plus courtes. Si vous êtes légendaire en Acrobaties, vous retombez toujours sur vos pieds et ne subissez pas de dégâts, quelle que soit la distance de la chute.</p>\n"
+        },
+        {
+            "id": "Bullying Staff",
+            "name": "Bâton harcelant",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=37\">Funambule</a></u><br><strong>Prerequisites</strong> Dévouement de Funambule<br><strong>Conditions</strong> Vous maniez votre bâton.<br></span></p>\n<hr>\n<p>Vous pouvez tenter de <a href=\"https://2e.aonprd.com/Actions.aspx?ID=38\">Pousser</a> ou de faire un<a href=\"https://2e.aonprd.com/Actions.aspx?ID=40\">Croc-en-jambe</a> à des créatures qui font jusqu'à deux tailles de plus que la vôtre. Si vous être maître dans le maniement de votre bâton, vous pouvez Pousser ou faire un Croc-en-jambe à des créatures de trois tailles supérieure à la vôtre.&nbsp;</p>"
         },
         {
             "id": "Basic Sorcerer Spellcasting",
@@ -390,6 +415,16 @@
             "id": "Storm Retribution",
             "name": "Châtiment de la tempête",
             "description": "<p><strong>Prérequis</strong> ordre de la tempête, sort d’ordre onde de tempête</p>\n<p><strong>Déclencheur.</strong> Un adversaire adjacent vous inflige un coup critique avec une arme de corps à corps ou une attaque à mains nues au corps à corps.</p>\n<p><strong>Conditions.</strong> Votre réserve contient au moins 1 point de focalisation</p>\n<hr>\n<p>Vous vous défendez en déclenchant une explosion de fureur orageuse sur une créature qui vous a blessé. Vous lancez onde de tempête sur l’adversaire déclencheur et le repoussez de 1,50 m s’il rate son jet de Réflexes ou de 3 m s’il obtient un échec critique. Ceci est un déplacement forcé.</p>\n\n"
+        },
+        {
+            "id": "Wildborn Magic",
+            "name": "Magie sauvage",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> ethnie Mualijae<br></span></p>\n<hr>\n<p>Vous avez appris à accéder à la magie ancienne des lieux sauvages. Choisissez un tour de magie de le liste de sorts <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=4\">primordiaux</a>. Vous pouvez lancer ce tour de magiecomme un sort primordial inné à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.&nbsp;</p>"
+        },
+        {
+            "id": "Bard Dedication",
+            "name": "Dévouement du barde",
+            "description": "<p><strong>Prérequis</strong> Charisme 14</p>\n<hr>\n<p>Vous lancez des sorts comme un barde et gagnez l’activité Lancer un sort. Vous obtenez un répertoire de sorts avec deux tours de magie ordinaires issus de la liste des sorts occultes ou tout autre tour de magie que vous apprenez ou découvrez. Vous êtes qualifié dans les jets d’attaque de sorts et les DD pour les sorts occultes. Votre caractéristique d’incantation essentielle pour les sorts d’archétype barde est le Charisme, et il s’agit de sorts de barde occultes. Vous devenez qualifié en Occultisme et en Représentation ; pour chacune de ces compétences dans lesquelles vous seriez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Choisissez une muse comme vous le feriez si vous étiez un barde. Vous avez cette muse dans tous les cas de figure, ce qui vous permet de prendre les dons de cette muse, sans obtenir par ailleurs aucune des autres capacités qu’elle confère.<br><br><strong>Spécial</strong> Vous ne pouvez pas gagner un autre don de dévouement avant d’avoir acquis deux autres dons de l’archétype barde.</p>"
         },
         {
             "id": "Great Boaster",
@@ -481,6 +516,11 @@
             "name": "Énergie écrasante (Magicien)"
         },
         {
+            "id": "Halfling Lore",
+            "name": "Connaissance des halfelins",
+            "description": "<p>Vous avez consciencieusement appris à conserver votre équilibre et à rester en sûreté dans les ombres, des compétences vitales transmises de génération en génération de halfelins. Vous gagnez le rang de maîtrise qualifié en Acrobaties et en Discrétion. Si vous êtes déjà automatiquement qualifié dans l’une de ces compétences (grâce à votre historique ou à votre classe, par exemple), vous devenez alors qualifié dans une compétence de votre choix. Vous devenez également qualifié en Connaissance des halfelins.</p>"
+        },
+        {
             "id": "Ankle Bite",
             "name": "Morsure à la cheville",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis </strong> Aiguiseur de crocs ou ascendance gobelin dentd'rasoir<br><strong>Décelncheur</strong> Un adversaire vous inflige la condition <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Conditions.aspx?ID=20\">empoigné</a> ou <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Conditions.aspx?ID=33\">entravé</a> en utilisant une partie de son corps.<br></span></p>\n<hr>\n<p>Lorsque quelqu'un vous empoigne, vous le mordez instinctivement très fort. Quelques fois, cela vous permet de partir, d'autres fois, cela les met juste plus fort en colère, mais dans les deux cas, cela vous satisfait et c'est goûtu. Faites une Frappe de morsurecontre l'adversaire qui déclenche cette réaction. Sur un cou critique, vous n'êtes plus empoigné. Cette Frappe n'est pas prise en compte pour les pénalités d'attaques multiples et votre pénalité d'attaque multiple ne s'applique pas à cette Frappe.&nbsp;</p>"
@@ -521,6 +561,11 @@
             "description": "<p>Vous avez appris certains des subterfuges utilisés par les fées et vous exploitez ce savoir pour créer des illusions et des supercheries avec la magie primordiale. Ajoutez déguisement illusoire, objet illusoire, scène illusoire et voile à votre liste de sorts primordiaux.</p>"
         },
         {
+            "id": "Spell Runes",
+            "name": "Runes de sort",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Marqué de runes<br></span></p>\n<hr>\n<p>Les runes magiques sut votre corps vous confèrent plusieurs capacités magiques. Choisissez un sort <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=1\">arcanique</a> de niveau 1. Vous obtenez unu rune de sort sur votre coprs correspondant au sort choisi, que vous pouvez lancer une fois par jour comme un sort inné. Au niveau 6, vous obtenez une rune de sort correspondant à un sort arcanique de niveau 2 et au niveau 8, vous obtenez une rune de sort correspondant à un sort arcanique de niveau 3.&nbsp;</p>"
+        },
+        {
             "id": "Steady Spellcasting (Druid)",
             "name": "Incantation fiable (Druide)",
             "description": "<p>Vous êtes sûr de votre technique et il est plus difficile de vous interrompre lorsque vous lancez des sorts. Si une réaction devait interrompre votre action d’incantation, faites un test nu DD 15. Sur un succès, votre action n’est pas interrompue.</p>"
@@ -539,6 +584,11 @@
             "id": "Recognize Spell",
             "name": "Reconnaître des sorts",
             "description": "<p><strong>Prérequis</strong> qualifié en Arcanes, Nature, Occultisme ou Religion</p>\n<p><strong>Déclencheur.</strong> Une créature dans votre ligne de mire incante un sort que vous n’avez pas préparé et qui ne figure pas dans votre répertoire, ou un piège ou un objet similaire incante un tel sort. Vous devez être conscient de l’incantation.</p>\n<hr>\n<p>Si vous êtes qualifié dans la compétence appropriée pour la tradition du sort et qu’il s’agit d’un sort ordinaire de niveau 2 ou inférieur, vous l’identifiez automatiquement (vous devez toujours effectuer un jet pour tenter d’obtenir un succès critique, mais ne tenez pas compte des résultats moins bons qu’un succès). Le plus haut niveau de sort que vous identifiez automatiquement augmente à 4 si vous êtes un expert, 6 si vous êtes un maître et 10 si vous êtes légendaire. Le MJ effectue un test secret d’Arcanes, de Nature, d’Occultisme ou de Religion, en fonction de ce qui correspond à la tradition du sort incanté. Si vous n’êtes pas qualifié dans la compétence, vous ne pouvez pas obtenir de résultat meilleur qu’un échec.</p>\n<p><strong>Succès critique:</strong> Vous reconnaissez correctement le sort et gagnez un bonus de circonstances de +1 à votre jet de sauvegarde ou à votre CA contre le sort..</p>\n<p><strong>Succès.</strong> Vous reconnaissez correctement le sort</p>\n<p><strong>Échec.</strong> Vous échouez à reconnaître le sort.</p>\n<p><strong>Échec critique</strong> Vous identifiez le sort de travers et le prenez pour un autre sort, déterminé par le MJ.</p>\n"
+        },
+        {
+            "id": "Deft Cooperation",
+            "name": "Coopération adroite",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement d'Éclaireur<br></span></p>\n<hr>\n<p>Lorsque vous préparez des choses pour aider vos alliés, vous tirez des fruits de votre travail. Lorsque vous obtenez un succès pour <a href=\"https://2e.aonprd.com/Actions.aspx?ID=75\">Aider</a> sur un jet d'attaque ou à la CA, vous obtenez un bonus de circonstance de +1 aux jets d'attaque ou à la CA contre cet ennemi jusqu'à la fin de votre prochain tour, quelque soit celui que vous avez accordé à votre allié. Lorsque vous obtenez un succès pour Aider sur un test de compétence, si vous essayez exactement le même test à votre tour (pas juste utiliser la même compétence mais l'utiliser dans le même objectif, par exemple un test d'Escalade du même mur) lors de votre prochain tour, vous obtenez un bonus de circonstance de +1 à votre test de compétence.&nbsp;</p>"
         },
         {
             "id": "Instant Opening",
@@ -596,6 +646,11 @@
             "description": "<p><strong>Prérequis</strong> principes du bien</p>\n<hr>\n<p>Vous émettez une aura de pure croyance qui imprègne de puissance divine vos attaques et celles de vos alliés proches. Vos Frappes infligent 1 dégât bon supplémentaire contre les créatures d’alignement mauvais. De plus, chaque allié d’alignement bon dans un rayon de 4,50 m bénéficie de cet avantage lors de leur première Frappe réussie chaque round contre une créature d’alignement mauvais.</p>"
         },
         {
+            "id": "Magaambyan Attendant Dedication",
+            "name": "Dévouement de Gardien de Magaambaya",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié en Arcane ou Nature, membre de Magaambya avec un rang de gardien<br></span></p>\n<hr>\n<p>Vous avez consacré une large part de vos études à la magie paisible. Vous obtenez la capacité de lancer un unique tour de magie <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=1\">arcanique</a> ou <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=4\">primordial</a> de votre choix, (comme cela est la règle pour les tours de magie, il est intensifié à un niveau sort égal à la moitié de votre niveau arrondi au supérieur). Si vous ne l'étiez pas déjà, vous devenez qualifié dans la tradition de ce DD de sort et aux jets d'attaque de sort, l'Intelligence étant votre Caractéristique d'Incantation si vous choisissez la tradition arcanique ou la Sagesse si vous choisissez un sort primordial.<br><br>Que vous ayez choisi un sort primordial ou arcanique, vous devenez aussi qualifié en Arcanes ou Nature ou un expert dans une de ses compétences si vous étiez déjà qualifié.<br><brLorsque vous obtenez ce don, choisissez de vous affilier dans une des branches suivantes : les Détenteurs des Flots, les Branches d'Émeraude, les Scribes de la Pluie, les Mages du Soleil tempétueux ou les Uzunjati. Cela vous permet d'accéder à des dons accessibles seulement à ceux qui appartiennent à ces branches.<br><br><strong>Spécial</strong> Vous ne pouvez sélectionne un autre don de dévouement autre que ceux du<a href=\"https://2e.aonprd.com/Feats.aspx?ID=1115\">Dévouement d'orateur paisible</a> jusqu'à ce que vous ayez obtenu deux autres dons de Gardien de Magaambyan ou d'<a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=30\">orateur paisible</a>.&nbsp;</p>"
+        },
+        {
             "id": "Titan Slinger",
             "name": "Frondeur de titans",
             "description": "<p>Vous avez appris à utiliser votre fronde pour abattre des créatures énormes. Quand vous réussissez une attaque avec une fronde contre une créature dont la taille est Grande ou supérieure, vous augmentez la taille du dé de dégâts d’un échelon (vous pouvez trouver des détails sur l’augmentation de la taille des dés de dégâts en page 279).</p>"
@@ -616,9 +671,19 @@
             "description": "<p><strong>Prérequis</strong> qualifié en Diplomatie</p>\n<hr>\n<p>Vous êtes doué pour apprendre des informations par la conversation. L’activité d’exploration Recueillir des informations vous prend deux fois moins de temps que la normale (réduisant généralement le temps d’une heure). Si vous êtes un maître en Diplomatie et que vous Recueillez des informations à la vitesse normale, quand vous tentez de le faire et que vous obtenez un échec critique, vous obtenez un échec à la place. Il n’y a toujours aucune garantie qu’une rumeur que vous apprenez avec Recueillir des informations soit exacte.</p>\n"
         },
         {
+            "id": "Mortification",
+            "name": "Mortification",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement d'Écuyer Chevalier infernal<br></span></p>\n<hr>\n<p>Les ordalies auxquelles vous avez été soumis ont préparé votre corps aux punitions physiques. Choisissez un type de dégâts contondant, perforant ou tranchant, basé sur la nature des ordalies physiques. Vous obtenez une résistance contre le type de dégâts vhoisi égal à votre nombre de dons de classe de l'archétype Écuyer Chevalier inferna et des autres archétypes de Chevalier infernal.&nbsp;</p>"
+        },
+        {
             "id": "Quick Block",
             "name": "Blocage éclair",
             "description": "<p>Vous faites des blocages au bouclier instinctifs. Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour faire un Blocage au bouclier.</p>"
+        },
+        {
+            "id": "Crystal Ward Spells",
+            "name": "Sort de Garde de Cristal",
+            "description": "<p><strong>Archétype</strong> Gardien de Cristal</p>\n<p><strong>Prerequisites</strong> dévouement de Gardien du Cristal</p>\n<hr>\n<p>Votre étude des cristaux et des énergies contenues dans les facettes des gemmes vous permet d'accéder à des sorts arcaniques de garde particuliers, lesquels font partie des sorts focalisés. Cela vous coûte 1 Point de Focalisation de lancer un sort focalisé et vous commencez avec une réserve de focalisation de 1 point. Vous la remplissez lorsque vous accomplissez vos préparatifs quotidiens et vous pouvez regagner 1 Point de focalisation en passant 10 minutes en utilisant l'activité Refocaliser pour rechercher et mémoriser les propriétées des gemmes.</p>\n<p>Les sorts focalisés sont automatiquement intensifiés à la moitié de votre niveau arrondi au niveau supérieur. Certains dons peuvent vous donner plus de sorts de focalisation et augmenter la taille de votre réserve de focalisation, bien qu'elle ne puisse jamais dépasser 3 points de Focalisation. Vous obtenez le sort focalisé Garde de cristal électrifiée et vous êtes qualifié en attaque de sort arcanique et en DD de sort. Votre caractéristique d'incantation est l'Intelligence.</p>"
         },
         {
             "id": "Orc Ferocity",
@@ -689,6 +754,11 @@
             "id": "Holy Castigation",
             "name": "Punition sacrée",
             "description": "<p><strong>Prérequis</strong> alignement bon</p>\n<hr>\n<p>Vous associez énergie sacrée et énergie positive pour blesser les démons, les diables et leurs consorts maléfiques. Les guérisons que vous lancez blessent les fiélons comme s’ils étaient des morts‑vivants.</p>\n"
+        },
+        {
+            "id": "Ka Stone Ritual",
+            "name": "Rituel de la pierre Ka",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Monolithe vivant, un sphinx ou un monolithe vivant disposant de ce don accomplit un rituel avec vous<br></span></p>\n<hr>\n<p>Vous inscrivez votre véritable nom sur votre <em>pierre ka</em>, ainsi que des serments envers les dieux et les pharaons et l'insérez sur votre front au cours d'un rituel spécial avec un sphinx ou un Monolithe vivant qui a déjà ce don. La <em>pierre ka</em> est un objet magique investi que vous investissez automatiquement chaque jour. Elle ne peut être retirée sans votre permission, ne peut être dissipée et vous ne cessez jamais d'investir la pierre ka. Son encombrement est négligeable.<br><br>La pierre ka vous accorde un bonus d'objet de +1 à tous les jets de sauvegarde contre les effets de mort et les effets négatifs, qui passe à +2 au niveau 8, +3 au niveau 14 et +4 au niveau 20.<br><br><strong>Activation</strong> <img class=\"actionlight\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions_I.png\" alt=\"Two Actions\"> (imaginer) ou une activation différente si c'est spécifié autrement ; <strong>Fréquence</strong> un nomber de fois par jours égal au nomnre de dons de classe que vous avez dans l'archétype Monolithe vivant ; <strong>Effet</strong> Vous lancez <a href=\"https://2e.aonprd.com/Spells.aspx?ID=102\"><em>agrandissement</em></a> sur vous-même ou utiliser une des autres capacités susceptible d'activation fournie par un don ultérieur de Monolithe vivant.&nbsp;&nbsp;</p>"
         },
         {
             "id": "Weight of Guilt",
@@ -789,6 +859,11 @@
             "id": "Brutal Bully",
             "name": "Cogneur brutal",
             "description": "<p>Vous malmenez vos adversaires et ils ne risquent pas de l’oublier. Quand vous êtes enragé et que vous réussissez à Désarmer, Saisir, Pousser, ou faire un Croc‑en‑jambe à un adversaire, vous lui infligez une quantité de dégâts contondants égale à votre modificateur de Force ; vous ajoutez ces dégâts à ceux que vous infligez en cas de succès critique à un Croc‑en‑jambe.</p>"
+        },
+        {
+            "id": "Eye of Ozem",
+            "name": "Œil d'Ozem",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Sentinelle de dernier-Rempart, expert en Perception<br></span></p>\n<hr>\n<p>Vous avez appris à percevoir le danger à distance, vous permettant de servir comme sentinelle avec facilité. Vous obtenez un bonus de circonstance de +2 aux tests d'initiative lorsque vous utilisez Perception et lorsque vous partez en Reconnaissance, vous faites bénéficier vos alliés d'un bonus de circonstance de +2 au lieu de +1.&nbsp;</p>"
         },
         {
             "id": "Devoted Focus",
@@ -906,6 +981,11 @@
             "description": "<p>Vous vous êtes familiarisé avec une arme spécifique, qui peut être liée à une autre ascendance ou culture. Choisissez une arme simple ou de guerre peu courante avec le trait correspondant à une ascendance (comme nain, gobelin ou orc) ou qui est fréquemment utilisée dans une autre culture. Vous avez accès à cette arme et, afin d’en déterminer votre maîtrise, vous la considérez comme une arme simple. Si vous êtes qualifié avec toutes les armes de guerre, vous pouvez choisir une arme évoluée peu courante avec ce trait. Vous avez accès à cette arme et, afin d’en déterminer votre maîtrise, vous la considérez comme une arme de guerre.</p>\n"
         },
         {
+            "id": "Monk Dedication",
+            "name": "Dévouement du Moine",
+            "description": "<p><strong>Prérequis</strong> Force 14, Dextérité 14</p>\n<hr>\n<p>Vous devenez qualifié dans les attaques à mains nues et bénéficiez de la puissante capacité de classe poing. Vous êtes qualifié dans votre choix d’Acrobaties ou d’Athlétisme ; si vous êtes déjà qualifié dans ces deux compétences, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe de moine.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype moine.</p>"
+        },
+        {
             "id": "Dragonslayer Oath",
             "name": "Serment du pourfendeur de dragons",
             "description": "<p><strong>Prérequis</strong> principes du bien</p>\n<hr>\n<p>Vous avez fait le serment de pourfendre des dragons maléfiques. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez tuer les dragons maléfiques que vous rencontrez si vous avez des chances raisonnables de l’emporter. » Votre Frappe punitive bénéficie d’un bonus de circonstances de +4 aux dégâts contre un dragon d’alignement mauvais ou de +6 si vous êtes un maître avec l’arme que vous utilisez. La résistance contre les dégâts d’un dragon d’alignement mauvais que vous confère votre Lueur de rédemption s’élève à 7 + votre niveau. Si vous utilisez Pas libérateur lorsqu’il est déclenché par un dragon d’alignement mauvais, votre allié bénéficie d’un bonus de circonstances de +4 aux tests conféré par votre Pas libérateur et il peut ensuite Faire un pas deux fois. Vous ne considérez pas les dragons d’alignement mauvais comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent..</p>"
@@ -1021,6 +1101,11 @@
             "description": "<p><strong>Prérequis</strong> Blocage agressif ou Poussée brutale</p>\n<hr>\n<p>Vos attaques peuvent pousser des adversaires plus grands. Vous pouvez utiliser Blocage agressif ou Poussée brutale contre une créature de deux catégories de taille de plus que vous au maximum. Quand une créature que vous Poussez doit arrêter son déplacement parce qu’elle cogne contre un objet, elle subit un montant de dégâts égal à votre modificateur de Force (1 au minimum), et ce, quelle que soit la façon dont vous l’avez Poussée.</p>"
         },
         {
+            "id": "Student of Perfection Dedication",
+            "name": "Dévouement de l'Étudiant de la Perfection",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> poings puissants ou expert en attaques à mains nues ; membre d'une Maison de la Perfection<br><strong>Accès</strong> Vous êtes originaire deJalmeray.<br></span></p>\n<hr>\n<p>Vous avez appris les techniques des arts martiaux de votre Maison de la Perfection. Vous devenez qualifié à votre choix en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=1\">Acrobaties</a> ou <a href=\"https://2e.aonprd.com/Skills.aspx?ID=3\">Athlétisme</a> et en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> de la guerre ; si vous étiez déjà qualiifié, vous devenez expert à la place. Vous obtenez le don de classe de moine <a href=\"https://2e.aonprd.com/Feats.aspx?ID=433\">Frappe ki</a>, lequel vous accorde le sort <a href=\"https://2e.aonprd.com/Spells.aspx?ID=486\"><em>frappe ki</em></a> et une réserve de focalisation de 1 Point que vous pouvez récupérer en utilisant l'activité Refocalisation comme un moine le ferait. Vos sorts ki d'Étudiant de la Perfection sont des sorts occultes.<br><br><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Étudiant de la perfection.&nbsp;</p>"
+        },
+        {
             "id": "Shield of Grace",
             "name": "Bouclier de grâce",
             "description": "<p><strong>Prérequis</strong> Gardien au bouclier</p>\n<hr>\n<p>Vous protégez un allié en interposant votre bouclier mais aussi votre corps. À chaque fois que vous effectuez la réaction Blocage au bouclier pour empêcher qu’un allié subisse des dégâts, vous pouvez répartir équitablement les dégâts restants après le Blocage au bouclier entre l’allié et vous.</p>"
@@ -1029,6 +1114,11 @@
             "id": "Animal Companion (Ranger)",
             "name": "Compagnon animal",
             "description": "<p>Un jeune compagnon animal se met à votre service, voyage à vos côtés et obéit du mieux possible aux ordres simples. Voir Les compagnons animaux en page 214. Quand vous Chassez une proie, votre compagnon animal bénéficie des avantages de cette action et de ceux de votre spécialité du chasseur si vous en avez une.</p>"
+        },
+        {
+            "id": "Druid Dedication",
+            "name": "Dévouement de druide",
+            "description": "<p><strong>Prérequis</strong> Sagesse 14</p>\n<hr>\n<p>Vous lancez des sorts comme un druide. Vous accédez à l’activité Lancer un sort. Vous pouvez préparer quotidiennement deux tours de magie ordinaires à partir de la liste de sorts primordiaux de base ou de tout autre tour de magie que vous apprenez ou découvrez. Vous êtes qualifié dans les jets d’attaque de sorts et dans les DD des sorts primordiaux. Votre caractéristique essentielle d’incantation pour les sorts de l’archétype druide est la Sagesse, et ce sont des sorts de druide primordiaux.</p><p>Vous apprenez la langue druidique.</p><p>Choisissez un ordre comme si vous étiez un druide. Vous devenez membre de cet ordre et êtes lié par son anathème, ce qui vous permet de prendre les dons de cet ordre. Vous êtes qualifié en Nature et dans les compétences associées à votre ordre ; pour chacune de ces compétences dans lesquelles vous seriez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous ne gagnez aucune autre capacité venant du choix de votre ordre.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype druide.</p>"
         },
         {
             "id": "Widen Spell (Wizard)",
@@ -1049,6 +1139,11 @@
             "id": "Eternal Bane",
             "name": "Imprécation éternelle",
             "description": "<p><strong>Prérequis</strong> alignement mauvais</p>\n<hr>\n<p>Votre vie de méfaits a fait de vous l’un des nœuds de l’abominable puissance de votre divinité. Vous êtes perpétuellement entouré d’une imprécation dont le niveau est égal à la moitié du vôtre (arrondi au supérieur). Le rayon est de 4,50 m et vous ne pouvez pas l’augmenter. Vous pouvez Révoquer le sort ; le cas échéant, il réapparaît automatique au bout d’une minute.</p>"
+        },
+        {
+            "id": "Bellflower Dedication",
+            "name": "Dévoument de la Campanule",
+            "description": "<p><strong>Archétype</strong> Laboureur de la Campanule</p>\n<p><strong>Prérequis</strong> Charisme 14, expert en Discrétion et en Survie, membre du réseau Campanule</p>\n<hr>\n<p>Vous avez dédié votre vie à libérer les esclaves et à les escorter vers la liberté. Vous obtenez un bonus de statut de 1,5 m à votre Vitesse. Choisissez jusqu'à six autres personnes pour former votre \"récolte\". Les membres de votre récolte peuvent utiliser votre Vitesse pour voyager si elle est plus haute que la leur. Les membres à plus de 18 m de vous perdent ce bénéfice (de ce don ou de tout autre don de Laboureur de la Campanule) de faire partie de votre récolte, mais le regagnent immédiatement lorsqu'ils y rentrent de nouveau. Vous pouvez ajouter ou retirer quelqu'un de votre récolte en passant 10 minutes en conversation avec eux.</p>\n<p><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons de l'archétype Laboureur de la Campanule.</p>"
         },
         {
             "id": "Imposing Destrier",
@@ -1081,6 +1176,11 @@
             "description": "<p><strong>Prérequis</strong> qualifié en Acrobaties</p>\n<hr>\n<p>Vous Vous faufilez de 1,5 m par round (3 m sur un succès critique). Si vous êtes légendaire en Acrobaties, vous Vous faufilez à votre pleine Vitesse.</p>\n"
         },
         {
+            "id": "Beast Speaker",
+            "name": "Locuteur bestial",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong>&nbsp;Dompteur&nbsp;<br><strong>Prérequis</strong> Dévouement de Dompteur<br></span></p>\n<hr>\n<p>Vous disposez constamment des effets de communication avec les animaux comme s'il s'agissait d'un sort inné de niveau 2. Vous obtenez un bonus de circonstance de +2 aux tests de Diplomatie pour Solliciter les animaux tant que ce sort est actif.&nbsp;</p>"
+        },
+        {
             "id": "Revivifying Mutagen",
             "name": "Mutagène revivifiant",
             "description": "<p>Quand vous vous trouvez sous l’effet d’un mutagène, vous pouvez le métaboliser et extraire sa puissance pour vous soigner. Vous utilisez pour cela une action unique avec les traits concentration et manipulation. Une fois cette action complétée, vous regagnez 1d6 points de vie par tranche de deux niveaux d’objet du mutagène (avec un minimum de 1d6). Par contre, l’effet du mutagène prend fin immédiatement, même si vous êtes sous l’effet de Mutagène persistant.</p>"
@@ -1094,6 +1194,11 @@
             "id": "Advanced Concoction",
             "name": "Concoction avancée",
             "description": "<p><strong>Prérequis.</strong>Concoction basique</p>\n<hr>\n<p>Vous gagnez un don d’alchimiste. Afin de remplir ses prérequis, votre niveau d’alchimiste est égal à la moitié de votre niveau de personnage</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don d’alchimiste.</p>\n"
+        },
+        {
+            "id": "Cleric Dedication",
+            "name": "Dévouement du prêtre",
+            "description": "<p><strong>Prérequis</strong> Sagesse 14</p>\n<hr>\n<p>Vous lancez des sorts comme un prêtre. Vous accédez à l’activité Lancer un sort. Vous pouvez préparer quotidiennement deux tours de magie ordinaires à partir de la liste des sorts divins de cet ouvrage ou de tout autre tour de magie que vous apprenez ou découvrez. Vous êtes qualifié dans les jets d’attaque de sorts et les DD de sorts pour les sorts divins. Votre caractéristique essentielle d’incantation pour les sorts de l’archétype prêtre est la Sagesse, et ce sont des sorts de prêtre divins. Choisissez une divinité comme si vous étiez un prêtre. Vous devenez lié par l’anathème de cette divinité. Vous devenez qualifié en Religion et dans les compétences associées à votre divinité ; pour chacune de ces compétences dans lesquelles vous étiez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous ne gagnez aucune autre capacité venant du choix de votre divinité.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype prêtre.</p>\n\n"
         },
         {
             "id": "Power Attack",
@@ -1310,6 +1415,11 @@
             "description": "<p>Vous devenez qualifié en armures légères. Si vous êtes déjà qualifié en armures légères, vous gagnez la qualification en armures moyennes. Si vous êtes qualifié pour les deux, vous devenez qualifié en armures lourdes.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. Chaque fois, vous devenez qualifié dans le type d’armure supérieur.</p>"
         },
         {
+            "id": "Golem Crafter Dedication",
+            "name": "Dévouement de Greffeur de golem",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=39\">Fabricant de golem</a></u><br><strong>Prérequis</strong> expert en Arcanes et en Artisanat, ou an allié qui est expert dans ces compétences qui souhaite vous améliorer<br></span></p>\n<hr>\n<p>Votre peau a été été traitée spécialement par les mêmes procédés alchimiques et arcaniques utilisés pour renforcer la peau d'un <a href=\"https://2e.aonprd.com/Monsters.aspx?ID=238\">golem de chair</a>. Augmentez votre maximum de Points de vie d'un montant égal à votre niveau. Vous obtenez une résistance aux dégâts physiques (sauf adamantium) égal à votre nombre de dons de classe de l'archétype de greffeur de golem.</p>\n<p><strong>Spécial</strong> Vous ne pouvez sélectionner d'autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de greffeur de golem.</p>"
+        },
+        {
             "id": "Trap Finder",
             "name": "Dénicheur de pièges",
             "description": "<p>Votre intuition vous avertit des dangers et de la présence de pièges. Vous gagnez un bonus de circonstances de +1 à vos tests de Perception pour trouver des pièges, à votre CA contre les attaques des pièges et aux jets de sauvegarde contre les pièges. Même si vous n’êtes pas en train de Fouiller, vous faites un test pour trouver des pièges qui nécessiteraient normalement que vous Fouilliez. Vous devez cependant remplir les autres conditions nécessaires à la découverte du piège. Vous pouvez désactiver des pièges qui nécessitent de posséder un rang de maîtrise de maître en Vol. Si vous êtes déjà maître en Vol, vous pouvez alors désactiver des pièges qui nécessitent de posséder un rang de maîtrise légendaire, et vos bonus de circonstances contre les pièges sont de +2.</p>\n"
@@ -1343,6 +1453,11 @@
             "id": "Guardian’s Deflection",
             "name": "Déviation du gardien",
             "description": "<p><strong>Déclencheur.</strong> Une attaque touche un allié à portée de votre allonge au corps à corps, l’attaquant est dans votre champ de vision et l’allié qui bénéficie alors d’un bonus de circonstances de +2 à la CA pourra transformer le succès critique en succès ou le succès en échec.</p>\n<p><strong>Conditions.</strong> Vous maniez une seule arme de corps à corps à une main et votre autre main (ou mains) est libre.</p>\n<hr>\n<p>Vous utilisez votre arme vous dévier l’attaque contre votre allié, ce qui lui confère un bonus de circonstances de +2 à sa CA contre l’attaque à l’origine du déclenchement. Ceci transforme le coup critique déclencheur en un coup normal ou le coup déclencheur normal en un échec.</p>\n"
+        },
+        {
+            "id": "Firebrand Braggart Dedication",
+            "name": "Dévouement de Trublion vantard",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Charisme 14, membre de second rang des Trublions<br></span></p>\n<hr>\n<p>Votre entraînement de Trublion vous a appris que terminer quelque chose est plus satisfaisant si vous vous en vantez avant de le faire. Vous vous vantez à propos d'une action de compétence spécifique, comme <a href=\"https://2e.aonprd.com/Actions.aspx?ID=28\">Garder l'équilibre</a>, <a href=\"https://2e.aonprd.com/Actions.aspx?ID=53\">Démoraliser</a> ou <a href=\"https://2e.aonprd.com/Actions.aspx?ID=26\">Vous souvenir</a>. La première fois que vous essayez cette action au cours de la prochaineminute dans un contexte que le MJ estime être un défi acceptable et significatif, Vous devez lancer deux fois les dés et utiliser le plus faible résultat. Si c'est un Succès, vous obtenez un bonus de circonstance de +1 aux tests pour tenter la même action pendant les 10 minutes suivantes. Si vous obtenez un échec ou ne tentez pas l'action au cours de la minute qui suit, vous subissez une pénalité de circonstance de –1 sur les tests pour tenter la même action pendant 1 heure.<br><br>Si l'action choisiepeut être utilisée avec de multiples compétences, comme <a href=\"https://2e.aonprd.com/Actions.aspx?ID=24\">Identifier la magie</a> or Se souvenir, vous devez spécifier quelle compétence vous allez utiliser pour cette action particulière, comme utiliser <a href=\"https://2e.aonprd.com/Skills.aspx?ID=2\">Arcane</a> pour Identifier la magie et votre bonus ou pénalité après la vantardise s'applique seulement aux jets qui utilisent cette compétence pour cette action. Une fois déclarée une vantardise au sujet d'une action particulière, vous ne pouvez plus vous vanter pour accomplir la même action jusqu'à vos prochains préparatifs quotidiens, que vous obteniez un Succès ou un Échec.<br><br>Typiquement une tâche qui constitue un défi est une avec au moins un DD standard pour votre niveau, bien que la difficulté puisse être supérieure en fonction de la situation. Un contexte significatif est un de ceux pour lesquels le succèss ou l'échec de l'action est en relation avec la poursuite de vos objectifs, plutôt qu'une vantardise que vous feriez siplement pour obtenir ultérieurement un bonus.<br><br><strong>Spécial</strong> Vous ne pouvez sélectionner un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype Trublion vantard.&nbsp;</p>\n"
         },
         {
             "id": "Abundant Step",
@@ -1390,6 +1505,11 @@
             "description": "<p><strong>Prérequis</strong> sort de lignage</p>\n<hr>\n<p>Une communion plus poussée avec l’héritage de votre lignage vous a permis de percer des secrets plus importants. Vous gagnez le sort de lignage supérieur associé à votre lignage. Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>\n\n"
         },
         {
+            "id": "Unassuming Dedication",
+            "name": "Acharnement sans prétention",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> Ethnie Uhlam<br></span></p>\n<hr>\n<p>Votre famille a instillé en vous des valeurs de soin et de patience depuis votre plus jeune âge. Vous obtenez un bonus de circonstance de +1 aux tests pour accomplir une activité d'intermède.&nbsp;</p>"
+        },
+        {
             "id": "Adopted Ancestry",
             "name": "Ascendance adoptive",
             "description": "<p>Vous êtes entièrement immergé dans la culture et les traditions d’une autre ascendance, qu’elle soit innée, acquise par un rite de passage ou liée à une profonde amitié ou une idylle. Choisissez une ascendance ordinaire. Vous pouvez sélectionner des dons ancestraux de l’ascendance choisie, en plus de l’ascendance de votre personnage, tant que les dons ancestraux ne requièrent pas de particularités physiologiques que vous ne possédez pas, comme déterminé par le MJ.</p>\n"
@@ -1403,6 +1523,11 @@
             "id": "Wyrmbane Aura",
             "name": "Aura anti-draconique",
             "description": "<p><strong>Conditions</strong> Serment du pourfendeur de dragons</p>\n<hr>\n<p>Votre aura protège contre les énergies destructrices et le souffle des dragons. Vous et tous les alliés dans un rayon de 4,50 m gagnez une résistance égale à votre modificateur de Charisme contre l’acide, l’électricité, le feu, le froid et le poison. Si l’un de ces types de dégâts provient du souffle d’un dragon, augmentez la résistance de la moitié de votre niveau.</p>\n"
+        },
+        {
+            "id": "Animal Trainer Dedication",
+            "name": "Dévouement du Dompteur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> Dompteur <br><strong>Prérequis</strong> Qualifié en Nature<br></span></p>\n<hr>\n<p>Vous obtenez les services d'un jeune compagnon animal qui voyage à vos côtés et obéit de son mieux à des ordres simples. Cet animal dressé est qualifié en Représentation au lieu de la compétence qui figure sous son type.&nbsp;</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas obtenir un autre don de dévouement avant d'avoir obtenu deux dons de l'archétype de Dompteur.&nbsp;&nbsp;</p>"
         },
         {
             "id": "Sense the Unseen (Ranger)",
@@ -1480,6 +1605,11 @@
             "description": "<p>Vous pouvez Marcher rapidement sur des liquides ou des surfaces qui ne peuvent pas soutenir votre poids. Vous ne bénéficiez de cet avantage que pendant votre déplacement. Si vous terminez votre déplacement sur une surface qui ne peut pas vous soutenir, vous vous affaissez ou la surface s’effondre.</p>"
         },
         {
+            "id": "Lost in the Crowd",
+            "name": "Perdu dans la foule",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Lame du Lion<br></span></p>\n<hr>\n<p>Vous avez appris à vous fondre dans la foule et à vous cacher en son sein, disparaissant dans une rue bonée en un clin d'oeil. Vous vous déplacez à votre vitesse habituelle dans la foule et pouvez trouver un abri au sein d'une foule dans laquelle vous pouvez vous Cacher ou être Furtif, obtenant un bonus de circonstance de +2 à vos tests de Discrétion lorsque vous êtes dans un groupe d'au moins 10 créatures et de +4 lorsque la foule en comprend au moins 100.&nbsp;</p>"
+        },
+        {
             "id": "Elf Atavism",
             "name": "Atavisme elfique",
             "description": "<p>Le sang elfique qui coule dans vos veines est particulièrement puissant et vous fait bénéficier de bien plus de caractéristiques elfiques que vos congénères demi‑elfes. Vous pouvez également avoir été élevé parmi les elfes et baigné dans la culture de vos ancêtres elfes. Vous gagnez les avantages liés à l’héritage elfique de vos parents ou ancêtres elfes. Vous ne pouvez cependant pas choisir d’héritage qui dépende de, ou améliore une caractéristique elfique que vous ne possédez pas. Par exemple, vous ne pouvez pas gagner le pouvoir vision dans le noir des elfes des cavernes si vous ne possédez pas déjà vision nocturne. Dans ces cas‑là, si le MJ le permet, vous pouvez gagner un autre avantage.</p>\n<p><strong>Spécial</strong> Vous pouvez seulement choisir ce don au niveau 1 et vous ne pouvez pas utiliser un réapprentissage pour perdre ou gagner ce don.</p>"
@@ -1498,6 +1628,11 @@
             "id": "Sorcerer Dedication",
             "name": "Dévouement de l'ensorceleur",
             "description": "<p><strong>Prérequis</strong> Charisme 14</p>\n<hr>\n<p>Choisissez un lignage. Vous devenez qualifié dans deux compétences de ce lignage ; pour chacune de ces compétences dans laquelle vous étiez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous lancez des sorts comme un ensorceleur. Vous gagnez un répertoire de sorts avec deux tours de magie commun issus de la liste de sorts associée à votre lignage, issus des sorts accordés par votre lignage ou que vous avez découverts ou appris et qui appartiennent à cette tradition. Vous obtenez un répertoire de sorts comportant deux tours de magie ordinaires issus de la liste des sorts associés à votre lignage, ou tout autre tour de magie que vous apprenez ou découvrez. Vous êtes qualifié dans les jets d’attaque de sorts et les DD de sorts pour les sorts de votre tradition. Votre caractéristique essentielle d’incantation pour les sorts de l’archétype ensorceleur est le Charisme, et il s’agit de sorts d’ensorceleur de la tradition de votre lignage. Vous ne gagnez aucune autre capacité venant du choix de votre lignage.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dé vouement avant d’avoir obtenu deux autres dons de l’archétype ensorceleur.</p>\n"
+        },
+        {
+            "id": "Zephyr Guard Dedication",
+            "name": "Dévouement de Garde Zéphyr",
+            "description": "<p><strong>Archétype </strong>Garde Zéphyr</p>\n<hr>\n<p>En qualité de Garde zéphyr, vous êtes toujours vigilant contre le crime et les menaces à l'encontre de laa sécurité de la ville. Vous obtenez un bonus de circonstance de +1 aux tests de Perception contre les tentatives pour Escamoter un objet, Voler ou Dissimuler un objet (y compris lorsque vous Cherchez les objets cachés). Vous devenez qualifié en Société et en Connaissance du Katapesh ; si vous étiez déjà qualifié, vous devenez expert à la place.</p>\n<p><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Garde Zephyr.</p>"
         },
         {
             "id": "Elven Instincts",
@@ -1525,14 +1660,29 @@
             "description": "<p><strong>Déclencheur.</strong> Vous portez une Frappe au corps à corps qui tue une créature ou lui fait perdre connaissance et un autre adversaire se trouve dans un espace adjacent à cette créature</p>\n<hr>\n<p>Votre coup traverse un adversaire et en frappe un autre. Faites une Frappe au corps à corps contre le second adversaire.</p>\n\n"
         },
         {
+            "id": "Necromantic Resistance",
+            "name": "Résistance nécromantique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Sentinelle de Dernier-Rempart<br></span></p>\n<hr>\n<p>Comme partie de votre entraînement, vous vous êtes soumis à une exposition répétée contre la nécromancie. Vous obtenez un bonus de circonstance de +1 aux jets de sauvegarde contre les effets nécromantiques et obtenez une résistance auxdégâts négatifs égale à la moitié de votre niveau.&nbsp;</p>"
+        },
+        {
             "id": "Ultimate Skirmisher",
             "name": "Escarmoucheur suprême",
             "description": "<p><strong>Prérequis</strong> déplacement facilité en milieu naturel</p>\n<hr>\n<p>Votre talent pour évoluer en pleine nature est tel que le terrain n’affecte plus du tout vos capacités de déplacement. Vous ignorez les effets de tous les terrains difficiles, très difficiles ou dangereux, et vous ne déclenchez pas les pièges et les dangers qui se déclenchent lorsqu’on se déplace dans une zone définie (avec des fils de détente ou des plaques de pression, par exemple), sauf si vous le souhaitez.</p>\n"
         },
         {
+            "id": "Focused Juggler",
+            "name": "Jongleur Concentré",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=36\">Jongleur</a></u><br><strong>Prérequis</strong> dévouement de jongleur<br><strong>Déclencheur</strong> Votre tour commence.<br></span></p>\n<hr>\n<p>Vous continuez à Jongler jusqu'à la fin de votre prochain tour. Augmentez le nombre d'objets maximum avec lequel vous pouvez <a href=\"https://2e.aonprd.com/Feats.aspx?ID=1199\">Jongler</a> de un.&nbsp;</p>"
+        },
+        {
             "id": "Thorough Reports",
             "name": "Rapport minutieux",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions</strong> Dévouement de l'éclaireur<br></span></p>\n<hr>\n<p>Vos rapports sont complets et détaillés et coucher vos pensées sur le papier vous aide à retenir l'information. Gardez trace de chaque type de créature que vous parvenez avec succès à identifier with <a href=\"https://2e.aonprd.com/Skills.aspx?General=true&amp;ID=5\">Se souvenir</a>. Lorsque vous tentez des tests pour <a href=\"https://2e.aonprd.com/Skills.aspx?General=true&amp;ID=5\">Se souvenir </a> contre des créatures qui sont sur votre liste dans des rencontres ultérieures, vous obtenez un bonus de circonstance de +2 et, sur un Succès, vous obtenez une information supplémentaire à propos de telles créatures.&nbsp;</p>\n"
+        },
+        {
+            "id": "Quick Juggler",
+            "name": "Jongleur rapide",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=36\">Jongleur</a></u><br><strong>Prérequis</strong> expert en Représentation, Dévouement de Jongleur<br></span></p>\n<hr>\n<p>Lorsque vous commencez à <a href=\"https://2e.aonprd.com/Feats.aspx?ID=1199\">Jongler</a> ou que vous ajoutez un autre objet à ceux avec lesquels vous êtes en train de Jongler, vous ajoutez deux objets au lieu d'un. Augmentez le nombre maximum d'objets avec lesquels vous pouvez Jongler de un.&nbsp;</p>"
         },
         {
             "id": "Shield Block",
@@ -1670,9 +1820,24 @@
             "description": "<p><strong>Prérequis</strong> Tour de magie adapté, capacité de lancer des sorts de niveau 3</p>\n<hr>\n<p>Vous avez continué d’adapter votre magie pour mélanger votre tradition de classe et votre tradition adaptée. Choisissez un tour de magie ou un sort de niveau 1, tiré de la même tradition que le tour de magie que vous avez gagné par Tour de magie adapté. Vous gagnez ce sort et l’ajoutez à votre répertoire de sorts, votre grimoire ou vos sorts préparés comme le tour de magie du don Tour de magie adapté. Vous pouvez lancer ce sort comme un sort de la tradition magique de votre classe. Si vous avez choisi un sort de niveau 1, vous n’avez pas accès aux versions intensifiées de ce sort, ce qui signifie que vous ne pouvez pas les préparer quand vous préparez vos sorts, que vous ne pouvez pas les apprendre et que vous ne pouvez pas faire de ce sort un sort emblématique si vous utilisez un répertoire de sorts. </p>"
         },
         {
+            "id": "Duelist's Edge",
+            "name": "Acuité du duelliste",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement du Duelliste Aldori<br><strong>Déclencheur</strong> Vous lancez l'initiative et vous pouvez observer au moins un adversaire.<br></span></p>\n<hr>\n<p>Vous avez diminué votre temps de réaction à travers les duels et appris à tirer votre arme de façon fluide au début d'un combat. Vous obtenez un bonus de circonstance de +2 au test d'initiative déclencheur et vous pouvez immédiatement Intergait pour tirer votre <a href=\"https://2e.aonprd.com/Weapons.aspx?ID=88\">épée de duel Aldori</a>.&nbsp;</p>"
+        },
+        {
             "id": "Fey Fellowship",
             "name": "Camaraderie féerique",
             "description": "<p>Vous bénéficiez d’une connexion féerique renforcée qui vous permet d’être mieux reçu par les créatures du Premier Monde et de déjouer plus facilement leurs ruses. Vous gagnez un bonus de circonstances de +2 à vos tests de Perception et à vos jets de sauvegarde contre les fées. En outre, quand vous interagissez avec une créature féerique dans un cadre social, vous pouvez immédiatement faire un test de Diplomatie pour Faire bonne impression sur cette créature, sans avoir besoin de converser avec elle pendant 1 min. Vous faites ce test avec un malus de −5. Si vous échouez, vous pouvez passer 1 min à converser avec la créature et tenter une nouvelle fois de réussir votre test plutôt que d’accepter votre échec normal ou critique.</p>\n<p><strong>Spécial.</strong> Si vous possédez le don de compétence Cordialité forcée et que votre cible est une fée, vous faites votre test de Diplomatie immédiat sans malus.</p>\n\n"
+        },
+        {
+            "id": "Aldori Parry",
+            "name": "Parade Aldori",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Duelliste Aldori<br><strong>Conditions</strong> Vousne maniez qu'une épée de duel Aldori et votre autre ou vos autres mains sont libres.<br></span></p>\n<hr>\n<p>Vous pouvez parer les attaques qui vous visent avec votre <a href=\"https://2e.aonprd.com/Weapons.aspx?ID=88\">épée de duel Aldori</a>. Vous obtenez un bonus de circonstance de +2 à la CA jusqu'au début de votre prochain tour tant que vous continuez à en remplir les conditions.&nbsp;</p>"
+        },
+        {
+            "id": "Aldori Duelist Dedication",
+            "name": "Dévouement de Dueliste Aldori",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié avec les épées de duel Aldori<br><strong>Accès</strong> Vous êtes originaire de la région des Terres Brisées.<br></span></p>\n<hr>\n<p>Votre entraînement de dueliste Aldori vous enseigne les techniques martiales et augmente votre spécialisation dans l'épée de duel Aldori. Vous devenez qualifié à votre choix en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=1\">Acrobaties</a> ou <a href=\"https://2e.aonprd.com/Skills.aspx?ID=3\">Athlétisme</a> et en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> du duel ; si vous étiez déjà qualifié, vous devenez expert à la place. Lorsque votre range de maîtrise dans une arme devient expert ou supérieur, vous obtenez aussi ce rang de maîtrise rank avec les épées de duel Aldori. Vous obtenez l'accès au <a href=\"https://2e.aonprd.com/Weapons.aspx?ID=88\">épées de duel Aldori</a>.<br><br><strong>Spécial</strong> Vous ne pouvez obtenir un autre don dévouementavant d'avoir obtenu deux autres dons de l'archétype de dueliste Aldori.&nbsp;</p>"
         },
         {
             "id": "To the Ends of the Earth",
@@ -1825,6 +1990,11 @@
             "description": "<p>Vous conservez vos bombes à portée de main dans des besaces auxquelles vous pouvez accéder en un instant. Pour utiliser une bombe, il vous suffit d’Interagir puis de Frapper avec celle-ci.</p>\n"
         },
         {
+            "id": "Pathfinder Agent Dedication",
+            "name": "Dévouement d'Éclaireur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> membre de la Société des Éclaireurs<br><strong>Accès</strong> Vous êtes originaire d'Absalom.<br></span></p>\n<hr>\n<p>Votre entraînement d'Éclaireur a élargi vos horizons et vous a rendu plus polyvalent dans des compétences variées, car vous ne savez jamais si vous pourrez avoir besoin de connaissances obscures pour achever votre mission. Vous devenez qualifié en une compétence de votre choix, ou expert dans une compétence de votre choix dans laquelle vous êtes déjà qualifié. Vous devenez qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> des Éclaireurs ou expert si vous étiez déjà qualifié. Lorsque vous utilisez une compétence dans laquelle vous êtes inexpérimenté, votre bonus de compétence est égale à votre niveau au lieu de 0. Vous obtenez l'accès aux <a href=\"https://2e.aonprd.com/Equipment.aspx?ID=470\"><em>guides</em> magiques des éclaireurs</a>.<br><br><strong>Spécial</strong> Vous ne pouvez obtenir d'autre don de dévouement avant d'avoir obtenu deux autres dons dans l'archétype d'Éclaireur.&nbsp;</p>"
+        },
+        {
             "id": "Armor Rune Shifter",
             "name": "Changeur de rune d'armure",
             "description": "<p><strong>Archétype</strong> Gardien du cristal</p>\n<p><strong>Prérequis</strong> Dévouement de Gardien du cristal</p>\n<hr>\n<p>Vous apprenez comment altérer la magie des runes des armures en les examinant au travers de gemmes et pouvez les modifier comme vous le souhaitez. Une fois par jour lorsque vous faites vos préparatifs quotidiens, vous pouvez vous concentrer sur les énergies d'une rune magique à travers les facettes d'un cristal pour modifier une unique rune de propriété sur une armure en votre possession pour substituer à son effet normal une rune de propriété différente. Vous pouvez temporairement modifier la rune pour fonctionner comme une des runes suivantes : fortification, glissante, invisibilité, mimétisme, ombre ou résistance à l'énergie. La rune de propriété reste modifiée jusqu'à ce que vous fassiez vos prochains préparatifs quotidiens. L'armure doit respecter les prérequis de la rune temporaire et n'importe quelles runes qui nécessitent la rune supprimée sont aussi supprimées tant que la rune est transformée. La rune est manifestement altérée et ainsi l'armure ne peut être vendue comme si elle possèdait la rune temporaire.</p>"
@@ -1843,6 +2013,11 @@
             "id": "Harming Hands",
             "name": "Mains blessantes",
             "description": "<p><strong>Prérequis</strong> source de mise à mal</p>\n<hr>\n<p>La puissante morsure de votre énergie négative augmente. Quand vous lancez mise à mal, vous lancez des d10 et non plus des d8.</p>\n"
+        },
+        {
+            "id": "Ardent Armiger",
+            "name": "Écuyer ardent",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> Écuyer Chevalier infernal<br><strong>Prérequis</strong> Dévouement d'Écuyer Chevalier infernal<br></span></p>\n<hr>\n<p>Vous avez été entraîné à résister à la manipulation des fiélons et votre discipline de Chevalier infernal vous rend difficile à influencer. Vous obtenez un bonus de circonstance de +1 contre les effets mentaux qui sont destinés à améliorer votre attitude et à votre DD de Volonté conter quelqu'un qui cherche à vous Contraindre, à vous Démoraliser, à vous Faire bonne impression ou à vous Solliciter.<br>Si un effet mental vous force à agir d'une manière qui viole les préceptes de votre ordre de chevalier infernal (ce qui est déterminé par votre MJ), vous pouvez tenter d'y échapper par une réaction déclenchée en recevant l'ordre qui le viole et vous bénéficiez d'un nouveau jet de sauvegarde contre l'effet. Vous pouvez essayer ce nouveau jet de sauvegarde une seule fois pour un effet donné même si vous êtes contraint de violer les préceptes de votre ordà plusieurs reprises.</p>"
         },
         {
             "id": "Triple Time",
@@ -1923,6 +2098,11 @@
             "id": "Oddity Identification",
             "name": "Identification de bizarreries",
             "description": "<p><strong>Prérequis</strong> qualifié en Occultisme</p>\n<hr>\n<p>Vous avez un don pour les sorts qui torturent l’esprit ou révèlent des secrets. Vous gagnez un bonus de circonstances de +2 aux tests d’Occultisme pour Identifier la magie avec les traits mental, possession, prédiction ou scrutation.</p>\n"
+        },
+        {
+            "id": "Juggler Dedication",
+            "name": "Dévouement du Jongleur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=36\">Jongleur</a></u><br><strong>Prérequis</strong> Dextérité 14<br></span></p>\n<hr>\n<p>Vous devenez qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=12\">Représentation</a>; si vous l'étiez déjà, vous devenez qualifié dans une compétence de votre choix. Vous obtenez aussi le don de compétence <a href=\"https://2e.aonprd.com/Feats.aspx?ID=1199\">Jonglage</a>, même si vous n'en remplissez pas les conditions.</p>\n<p><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Jongleur.</p>"
         },
         {
             "id": "Virtuosic Performer",
@@ -2050,9 +2230,24 @@
             "description": "<p><strong>Prérequis</strong> muse touche-à-tout</p>\n<hr>\n<p>Vous possédez un livre de sorts occultes semblable à un grimoire de magicien et vous pouvez utiliser les sorts qu’il contient en plus de ceux de votre répertoire. Inscrivez gratuitement tous les sorts de votre répertoire dans ce livre. Vous pouvez utiliser la compétence Occultisme pour Apprendre des sorts (page 234) et les ajoutez à votre grimoire en payant les coûts appropriés, de la même façon qu’un magicien. Lors de vos préparatifs quotidiens, choisissez l’un des sorts de votre livre de sorts occultes. Si ce sort est déjà dans votre répertoire, vous pouvez le considérer comme un sort emblématique supplémentaire pour la journée. S’il n’est pas dans votre répertoire, considérez qu’il l’est jusqu’à vos prochains préparatifs quotidiens.</p>"
         },
         {
+            "id": "Lion Blade Dedication",
+            "name": "Dévouement de Lame du Lion",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> membre des Lames du Lion, qualifié en représentation<br><strong>Accès</strong> Vous êtes originaire du Taldor.<br></span></p>\n<hr>\n<p>Votre entraînement d'espion de Lame du lion vous aide à vous cacher et à camoufler votre identité. Vous êtes qualifié à votre choix en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=5\">Duperie</a> ou en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=15\">Discrétion</a> et en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> espionnage ; si vous étiez déjà qualifié, vous devenez expert à la place. Vous ne subissez jamais de pénalité de circonstance lorsque vous vous déguisez en une ascendance différente, un âge différent ou autre, tant que la forme adoptée par votre déguisement est appropriée à votre taille.<br><br><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement avant d'avoir pris deux autres don de l'archétyper Lame du Lion .&nbsp;</p>"
+        },
+        {
             "id": "Blank Slate",
             "name": "Page blanche",
             "description": "<p><strong>Prérequis</strong> légendaire en Duperie</p>\n<hr>\n<p>Vous êtes capable de tromper les plus puissants effets de divination des mortels. Les effets de détection, de révélation et de scrutation ne repèrent ni vous, ni vos possessions, ni vos auras, et ne détectent rien, sauf si l’effet utilisé dans ce but possède un niveau de contre supérieur ou égal à 20. Par exemple : détection de la magie permettra toujours de détecter la présence d’une autre magie dans la zone, mais aucune magie qui vous affecte ; vision lucide ne vous repérera pas ; localisation ou scrutation ne permettront pas de vous trouver ; et ainsi de suite.</p>\n"
+        },
+        {
+            "id": "Hellknight Dedication",
+            "name": "Dévouement de Chevalier infernal",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement d'Écuyer Chevalier infernal, alignement loyal, membre d'un ordre de Chevalier infernal, Réussir le test de Chevalier infernal<br></span></p>\n<hr>\n<p>Vous avez forgé votre corps pour respecter les injonctions imprégnées de la Mesure et de la Chaine. Vous devenez expert en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=7\">Intimidation</a> (ou dans une autre compétence dans laquelle vous êtes déjà qualifiéde votre choix, si vous étiez déjà expert en Intimidation). Vous obtenez les effets de spécialisation d'armure avec l'armure de plaques de Chevalier infernal et la résistance de cette spécialisation d'armure est supérieure de 1 de plus que la normale. En plus, vous obtenez un bonus de circonstance de +1 aux tests d'Intimidation lorsque vous portez votre armure Chevalierr infernal.<br><br><strong>Spécial</strong> Vous ne pouvez obtenir de nouveau don de dévouement avant d'avoir obtenu deux autres dons d'archétypes de Chevalier infernal ou <a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=20\">d'Armiger</a>.&nbsp;</p>"
+        },
+        {
+            "id": "Axe Climber",
+            "name": "Escalade à la hache",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=40\">Bûcheron de Turpin Rowe</a></u><br><strong>Prérequis</strong> Dévouement de Bûcheron de Turpin Rowe<br></span></p>\n<hr>\n<p>Lorsque vous escaladez une surface en bois et que vous disposez d'une <a href=\"https://2e.aonprd.com/Weapons.aspx?ID=27\">hachette</a> ou d'une <a href=\"https://2e.aonprd.com/Weapons.aspx?ID=16\">hache de bataille</a> dans chaque main, vous disposez d'une Vitesse d'Escalade égale à la moitié de votre Vitesse de déplacement. Vous devez toujours disposer de vos deux jambes pour grimper et ne pouvez utiliser aucune de vos haches en combat tant que vous escaladez. Ce don peut-être également utilisé pour grimper le long de surfaces de glace si vous disposez de <a href=\"https://2e.aonprd.com/Weapons.aspx?ID=30\">pics légers</a> dans chaque main.&nbsp;</p>"
         },
         {
             "id": "Healing Hands",
@@ -2075,9 +2270,24 @@
             "description": "<p><strong> Prérequis </strong> Qualifié dans au moins une compétence </p>\n<hr>\n<p> Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Choisissez une compétence dans laquelle vous êtes qualifié. Vous pouvez vous abstenir d’effectuer un test de compétence pour cette compétence pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique). </p>\n"
         },
         {
+            "id": "Fighter Dedication",
+            "name": "Dévouement de guerrier",
+            "description": "<p><strong>Prérequis</strong> Force 14, Dextérité 14</p>\n<hr>\n<p>Vous devenez qualifié dans les armes simples et les armes de guerre. Vous devenez qualifié dans votre choix en Acrobatie ou en Athlétisme ; si vous êtes déjà qualifié dans ces deux compétences, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe de guerrier.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype guerrier</p>"
+        },
+        {
+            "id": "Staff Acrobat Dedication",
+            "name": "Dévouement du Funambule",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=37\">Funambule</a></u><br><strong>Prérequis</strong> Dextérité 16; qualifié en Acrobaties ; qualifié en Athlétisme ; qualifié avec au moins une des armes suivantes : bâton, bô, fustibale de halfelin ou toute arme du groupe lance ou arme d'hast (auquel il sera fait référence pour cet archétype comme “votre bâton”)<br></span></p>\n<hr>\n<p>Lorsque vous <a href=\"https://2e.aonprd.com/Actions.aspx?ID=36\">Sautez en hauteur</a>, <a href=\"https://2e.aonprd.com/Actions.aspx?ID=81\">Bondissez</a> ou <a href=\"https://2e.aonprd.com/Actions.aspx?ID=37\">Sautez en longueur</a> alors que vous maniez votre bâton, vous obtenez un bonus de circonstance +2 à tout test <a href=\"https://2e.aonprd.com/Skills.aspx?ID=3\">d'Athlétisme</a> nécessaire et ajoutez 1,5 à la distance que vous pouvez franchir verticalement et horizontalement. Vous pouvez <a href=\"https://2e.aonprd.com/Actions.aspx?ID=38\">Pousser</a> et faire un <a href=\"https://2e.aonprd.com/Actions.aspx?ID=40\">Croc-en-jambe</a> même si vous n'avez pas de main libre, pourvu que vous maniez votre bâton. Enfin, lorsque vous obtenez un succès sur un test pour <a href=\"https://2e.aonprd.com/Actions.aspx?ID=28\">Garder l'équilibre</a> lorsque vous maniez votre bâton, vous obtenez un succès critique à la place.</p>\n<p><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Funambule.&nbsp;</p>"
+        },
+        {
             "id": "Persistent Mutagen",
             "name": "Mutagène persistant",
             "description": "<p><strong>Prérequis</strong> Élixir étendu</p>\n<hr>\n<p>Vous vous êtes entraîné à stabiliser votre forme physique dans un état altéré. Une fois par jour, quand vous consommez un objet alchimique et qui possède les traits imprégné et mutagène, vous pouvez conserver ses effets jusqu’à vos préparatifs quotidiens suivants au lieu du terme de sa durée normale.</p>"
+        },
+        {
+            "id": "Halcyon Speaker Dedication",
+            "name": "Dévouement de l'Orateur paisible",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement du Gardien de Magaambya, membre de l'Académie de Magaambya avec un rang de maître<br></span></p>\n<hr>\n<p>Vous consacrez une grande part de vos études à la magie paisible (halcyon). Vous obtenez l'accès à deux tours de magie communs paisibles (Halcyon) et à deux sorts halcyon de 1er niveau. En plus d'être capable de lancer vos sorts halcyon spells par le biais de vos emplacements de sorts arcaniques ou primordiaux, vous obtenez un emplacement de sort paisible de 1er niveau. Vous pouvez utiliser vos emplacement de sorts (paisibles) pour lancer de manière spontanée vos sorts paisibles.<br><br><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'orateur paisible.&nbsp;</p>\n"
         },
         {
             "id": "Far Lobber",
@@ -2145,6 +2355,16 @@
             "description": "<p><strong>Prérequis</strong> Charisme 16</p>\n<hr>\n<p>Vous avez une incroyable capacité à investir plus d’objets magiques. Augmentez la limite d’objets investis de 10 à 12.</p>\n"
         },
         {
+            "id": "Arcane Tattoos",
+            "name": "Tatouages arcaniques",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> ethnie Varisienne ou originaire du Nouveau Thassilon<br></span></p>\n<hr>\n<p>Vous avez des tatouages sur le corps correspondant à une des anciennes écoles Thassiloniennes de magie. Choisissez une des écoles de magie suivantes : abjuration (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=280\"><em>bouclier</em></a>), invocation (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=330\"><em>entrave</em></a>), enchantement (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=61\"><em>hébétement</em></a>), évocation (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=97\"><em>arc électrique</em></a>), illusion (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=132\"><em>son imaginaire</em></a>), nécromancie (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=35\"><em>contact glacial</em></a>) ou transmutation (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=286\"><em>symbole</em></a>). Vous pouvez lancer le tour de magie associé (listé entre parenthèses) comme un sort arcanique inné à volonté.&nbsp;&nbsp;</p>"
+        },
+        {
+            "id": "Rogue Dedication",
+            "name": "Dévouement du roublard",
+            "description": "<p><strong>Prérequis</strong> Dextérité 14</p>\n<hr>\n<p>Vous gagnez un don de compétence et la capacité de classe attaque surprise du roublard. Vous devenez qualifié en armures légères. En outre, vous devenez qualifié en Discrétion ou en Vol, plus une compétence de votre choix ; si vous êtes déjà qualifié en Discrétion et en Vol, vous devenez à la place qualifié dans une compétence supplémentaire de votre choix. Vous devenez qualifié dans le DD de classe de roublard</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas gagner un autre don de dévouement avant d’avoir acquis deux autres dons de l’archétype roublard.</p>"
+        },
+        {
             "id": "Multilingual",
             "name": "Polyglotte",
             "description": "<p><strong>Prérequis</strong> qualifié en Société</p>\n<hr>\n<p>Vous assimilez rapidement de nouvelles langues. Vous apprenez deux nouvelles langues parmi les langues courantes et peu courantes, et toutes celles auxquelles vous avez accès. Vous apprenez une langue supplémentaire si vous êtes ou devenez maître en Société et encore une de plus si vous êtes ou devenez légendaire.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, vous apprenez des langues supplémentaires.</p>\n"
@@ -2168,6 +2388,11 @@
             "id": "Counterspell (Spontaneous)",
             "name": "Contresort",
             "description": "<p><strong>Déclencheur.</strong> Une créature Lance un sort que vous avez dans votre répertoire.</p>\n<p><strong>Conditions.</strong> Il vous reste un emplacement de sort utilisable pour lancer le sort déclencheur</p>\n<hr>\n<p>Quand un ennemi Lance un sort et que vous voyez sa manifestation, vous pouvez recourir à votre propre magie pour l’interrompre. Quand une créature lance un sort qui se trouve également dans votre répertoire, vous pouvez dépenser l’un de vos emplacements de sorts pour le contrer. Vous perdez votre emplacement de sort comme si vous aviez lancé le sort déclencheur. Vous tentez ensuite de contrer ce sort (p. 459).</p>\n<p><strong>Spécial</strong> Ce don a le trait correspondant à votre tradition magique (arcanique, divine, primordiale ou occulte</p>\n"
+        },
+        {
+            "id": "Barbarian Dedication",
+            "name": "Dévouement de barbare",
+            "description": "<p><strong>Prérequis</strong> Force 14, Constitution 14</p>\n<hr>\n<p>Vous devenez qualifié en Athlétisme ; si vous l’étiez déjà, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe barbare.</p><p>Vous pouvez utiliser l’action Rage.</p><p>Choisissez un instinct comme si vous étiez un barbare. Vous avez cet instinct dans tous les cas de figure et devenez lié par son anathème, mais il ne vous confère aucune autre capacité.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype barbare.</p>"
         },
         {
             "id": "Perfect Debilitation",

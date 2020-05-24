@@ -11,6 +11,24 @@ def equals(val1, val2):
   return val1.replace('\n','').strip() == val2.replace('\n','').strip()
 
 #
+# cette fonction tente une extraction d'une valeur dans un objet
+# Ex: data.level.value => obj["data"]["level"]["value"]
+#
+def getValue(obj, path):
+  element = obj
+  for p in path.split('.'):
+    if p in element:
+      element = element[p]
+    else:
+      print("Error with path %s in %s" % (path, obj))
+      exit(1)
+  
+  if element.isdigit():
+    return "%02d" % int(element)
+  else:
+    return element
+
+#
 # cette fonction extrait l'information d'un fichier
 #
 def fileToData(filepath):

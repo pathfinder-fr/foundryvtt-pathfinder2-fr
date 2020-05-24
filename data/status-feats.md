@@ -1,17 +1,15 @@
 # État de la traduction (feats)
 
- * **libre**: 65
- * **officielle**: 401
- * **aucune**: 731
+ * **libre**: 81
+ * **officielle**: 409
+ * **aucune**: 707
 
 
-Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-24 12:51 *(heure de Canada/Montréal)*
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[ancestry-01-A1RzkLCj7mXJI1IY.htm](feats/ancestry-01-A1RzkLCj7mXJI1IY.htm)|Unassuming Dedication|
-|[ancestry-01-af2fSePLvqMNNp0r.htm](feats/ancestry-01-af2fSePLvqMNNp0r.htm)|Wildborn Magic|
 |[ancestry-01-AgR1OPBHDvwV5wKD.htm](feats/ancestry-01-AgR1OPBHDvwV5wKD.htm)|Unexpected Shift|
 |[ancestry-01-AjdmoGFoSIyx1mxd.htm](feats/ancestry-01-AjdmoGFoSIyx1mxd.htm)|Intuitive Cooperation|
 |[ancestry-01-AlhyF8LCW011w9kq.htm](feats/ancestry-01-AlhyF8LCW011w9kq.htm)|Bouncy Goblin|
@@ -19,7 +17,6 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[ancestry-01-ccWf2F5DqiqFwiQ1.htm](feats/ancestry-01-ccWf2F5DqiqFwiQ1.htm)|Gnome Polyglot|
 |[ancestry-01-csoGdGuWasEw3boD.htm](feats/ancestry-01-csoGdGuWasEw3boD.htm)|Saoc Astrology|
 |[ancestry-01-D2tyUKQiDSq3JO1Z.htm](feats/ancestry-01-D2tyUKQiDSq3JO1Z.htm)|Vigorous Health|
-|[ancestry-01-Dq4JSejEdCzGNeTc.htm](feats/ancestry-01-Dq4JSejEdCzGNeTc.htm)|Arcane Tattoos|
 |[ancestry-01-dWGa6cFSVrASTEfd.htm](feats/ancestry-01-dWGa6cFSVrASTEfd.htm)|Seedpod|
 |[ancestry-01-DwnnmTNOvpLbp7jJ.htm](feats/ancestry-01-DwnnmTNOvpLbp7jJ.htm)|Courteous Comeback|
 |[ancestry-01-E1sjYRb4zsZVrzrN.htm](feats/ancestry-01-E1sjYRb4zsZVrzrN.htm)|Innocuous|
@@ -65,7 +62,6 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[ancestry-01-VatkAzfBYjA6z6OP.htm](feats/ancestry-01-VatkAzfBYjA6z6OP.htm)|Razor Claws|
 |[ancestry-01-vcfeHDoaWEZtEcfz.htm](feats/ancestry-01-vcfeHDoaWEZtEcfz.htm)|Distracting Shadows|
 |[ancestry-01-viFTJfZusRPx0G2q.htm](feats/ancestry-01-viFTJfZusRPx0G2q.htm)|Scamper Underfoot|
-|[ancestry-01-VU07hybqzUXIJ6l2.htm](feats/ancestry-01-VU07hybqzUXIJ6l2.htm)|Halfling Lore|
 |[ancestry-01-wAeI18wyWVwfUrIP.htm](feats/ancestry-01-wAeI18wyWVwfUrIP.htm)|Tusks|
 |[ancestry-01-weYZzyMmlCIC2TZt.htm](feats/ancestry-01-weYZzyMmlCIC2TZt.htm)|Grasping Reach|
 |[ancestry-01-X7wFUWjYjYhzpejU.htm](feats/ancestry-01-X7wFUWjYjYhzpejU.htm)|Clan's Edge|
@@ -178,13 +174,6 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[ancestry-13-XPVqOtHLN6jduHYs.htm](feats/ancestry-13-XPVqOtHLN6jduHYs.htm)|Hobgoblin Weapon Expertise|
 |[archetype-04-G43fiFtxFR24CWRs.htm](feats/archetype-04-G43fiFtxFR24CWRs.htm)|Magic Warrior Aspect|
 |[archetype-04-irDFSzKCaF4ux3bx.htm](feats/archetype-04-irDFSzKCaF4ux3bx.htm)|Reflexive Catch|
-|[archetype-04-J8BSHRkmP3QLknwF.htm](feats/archetype-04-J8BSHRkmP3QLknwF.htm)|Beast Speaker|
-|[archetype-04-lYVAGuHU47Ixyuxy.htm](feats/archetype-04-lYVAGuHU47Ixyuxy.htm)|Focused Juggler|
-|[archetype-04-MnqDDUekqd40HTZc.htm](feats/archetype-04-MnqDDUekqd40HTZc.htm)|Necromantic Resistance|
-|[archetype-04-nAgAICjPd4BSQlAj.htm](feats/archetype-04-nAgAICjPd4BSQlAj.htm)|Axe Climber|
-|[archetype-04-NrZt98r47sPSQ06j.htm](feats/archetype-04-NrZt98r47sPSQ06j.htm)|Crystal Ward Spells|
-|[archetype-04-NZgjqVV2HYzLCvvA.htm](feats/archetype-04-NZgjqVV2HYzLCvvA.htm)|Aldori Parry|
-|[archetype-04-otLs7XzMXR1cZKGe.htm](feats/archetype-04-otLs7XzMXR1cZKGe.htm)|Quick Juggler|
 |[archetype-04-SjJ8BOy5sc8p2H5E.htm](feats/archetype-04-SjJ8BOy5sc8p2H5E.htm)|Log Roll|
 |[archetype-04-UyMQ1X8KLSZvm7AT.htm](feats/archetype-04-UyMQ1X8KLSZvm7AT.htm)|Wayfinder Resonance Tinkerer|
 |[archetype-04-x62kd1CYJNqO2ZsS.htm](feats/archetype-04-x62kd1CYJNqO2ZsS.htm)|Magic Warrior Transformation|
@@ -194,7 +183,6 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[archetype-06-DpmdmRNMg6LZpNB0.htm](feats/archetype-06-DpmdmRNMg6LZpNB0.htm)|Simple Crystal Magic|
 |[archetype-06-dPmJ91qawZW2U8K3.htm](feats/archetype-06-dPmJ91qawZW2U8K3.htm)|Staff Sweep|
 |[archetype-06-DR6vessIpXTLM6Xa.htm](feats/archetype-06-DR6vessIpXTLM6Xa.htm)|Crowd Mastery|
-|[archetype-06-dwL0Y0P2x4pn2cft.htm](feats/archetype-06-dwL0Y0P2x4pn2cft.htm)|Bellflower Dedication|
 |[archetype-06-eXNkcM7gtCGC7udi.htm](feats/archetype-06-eXNkcM7gtCGC7udi.htm)|Grave Sense|
 |[archetype-06-gZ4VdWKr3ag2BAvF.htm](feats/archetype-06-gZ4VdWKr3ag2BAvF.htm)|Warding Rune|
 |[archetype-06-l60Ua5Ugv85GnF9b.htm](feats/archetype-06-l60Ua5Ugv85GnF9b.htm)|Nameless Anonymity|
@@ -205,7 +193,6 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[archetype-06-V7bwuYADV8huWeF7.htm](feats/archetype-06-V7bwuYADV8huWeF7.htm)|Unnerving Prowess|
 |[archetype-08-bXoGskH0SYfdcEtJ.htm](feats/archetype-08-bXoGskH0SYfdcEtJ.htm)|Garden Path|
 |[archetype-08-jIMeialR9CBo1bx9.htm](feats/archetype-08-jIMeialR9CBo1bx9.htm)|Levering Strike|
-|[archetype-08-MxNb97qr1yMhbjiP.htm](feats/archetype-08-MxNb97qr1yMhbjiP.htm)|Golem Crafter Dedication|
 |[archetype-08-Olx796SgBbHUFeHc.htm](feats/archetype-08-Olx796SgBbHUFeHc.htm)|Armiger's Mobility|
 |[archetype-08-PcDvw2vWTzBEIX7k.htm](feats/archetype-08-PcDvw2vWTzBEIX7k.htm)|Necromantic Tenacity|
 |[archetype-08-rhVL28qFl760qJQe.htm](feats/archetype-08-rhVL28qFl760qJQe.htm)|Insistent Command|
@@ -237,10 +224,8 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[class-02-a898miJnjgD93ZsX.htm](feats/class-02-a898miJnjgD93ZsX.htm)|Multifarious Muse|
 |[class-02-aM6eAeyk5twmxCKe.htm](feats/class-02-aM6eAeyk5twmxCKe.htm)|Fiendsbane Oath|
 |[class-02-auv1lss6LxM0q3gz.htm](feats/class-02-auv1lss6LxM0q3gz.htm)|Shake it Off|
-|[class-02-bCWieNDC1CD35tin.htm](feats/class-02-bCWieNDC1CD35tin.htm)|Rogue Dedication|
 |[class-02-dF1HR6TqyMz03o6F.htm](feats/class-02-dF1HR6TqyMz03o6F.htm)|Combat Grab|
 |[class-02-dgmjiToPHC3Yf5I3.htm](feats/class-02-dgmjiToPHC3Yf5I3.htm)|Acute Scent|
-|[class-02-dIH771mt4PcVTyAs.htm](feats/class-02-dIH771mt4PcVTyAs.htm)|Bard Dedication|
 |[class-02-e9NcDk6ds5YebGvb.htm](feats/class-02-e9NcDk6ds5YebGvb.htm)|Relentless Stalker|
 |[class-02-eUXgY8W3fShlW7pd.htm](feats/class-02-eUXgY8W3fShlW7pd.htm)|Inspire Competence|
 |[class-02-gt9pvIicabSOe6pB.htm](feats/class-02-gt9pvIicabSOe6pB.htm)|Brutish Shove|
@@ -248,32 +233,26 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[class-02-hLYoIjH8gPEVXyWG.htm](feats/class-02-hLYoIjH8gPEVXyWG.htm)|Distracting Feint|
 |[class-02-lkcM4V3VDAtjlR9P.htm](feats/class-02-lkcM4V3VDAtjlR9P.htm)|Intimidating Strike|
 |[class-02-lT8XlX1Ig900BblS.htm](feats/class-02-lT8XlX1Ig900BblS.htm)|No Escape|
-|[class-02-mvNa9KfQooHYEXoA.htm](feats/class-02-mvNa9KfQooHYEXoA.htm)|Fighter Dedication|
 |[class-02-N7dTFxpjXGn4ddq8.htm](feats/class-02-N7dTFxpjXGn4ddq8.htm)|Enhanced Familiar (Druid)|
 |[class-02-ODnXQHvFoK7tIVpu.htm](feats/class-02-ODnXQHvFoK7tIVpu.htm)|Smoke Bomb|
 |[class-02-OWhTAowdMvBZnCrT.htm](feats/class-02-OWhTAowdMvBZnCrT.htm)|Dancing Leaf|
 |[class-02-PGyzFBwuTgypU8cD.htm](feats/class-02-PGyzFBwuTgypU8cD.htm)|Turn Undead|
 |[class-02-R00qiDE5pBctgtyU.htm](feats/class-02-R00qiDE5pBctgtyU.htm)|Ranger Dedication|
 |[class-02-RAymYRO2SLNNzKVk.htm](feats/class-02-RAymYRO2SLNNzKVk.htm)|Mobility|
-|[class-02-renUpSO6MJXPSXow.htm](feats/class-02-renUpSO6MJXPSXow.htm)|Monk Dedication|
 |[class-02-rQHbklaEfke1KbBz.htm](feats/class-02-rQHbklaEfke1KbBz.htm)|Enhanced Familiar (Sorcerer)|
 |[class-02-rTkr1EqpAN6YtnAh.htm](feats/class-02-rTkr1EqpAN6YtnAh.htm)|Lunge|
 |[class-02-sgo7J9BVofBqwlsF.htm](feats/class-02-sgo7J9BVofBqwlsF.htm)|Favored Terrain|
 |[class-02-sIeuPW0j39fTZm08.htm](feats/class-02-sIeuPW0j39fTZm08.htm)|Conceal Spell|
-|[class-02-smCDaPlpRDA47xjK.htm](feats/class-02-smCDaPlpRDA47xjK.htm)|Cleric Dedication|
 |[class-02-sWOtoVNhmEFM08ul.htm](feats/class-02-sWOtoVNhmEFM08ul.htm)|Cantrip Expansion (Cleric)|
 |[class-02-TiNlehXIDEnIl95M.htm](feats/class-02-TiNlehXIDEnIl95M.htm)|Sap Life|
 |[class-02-tJduF6N83l5khRow.htm](feats/class-02-tJduF6N83l5khRow.htm)|Divine Grace|
 |[class-02-UiQbjeqBUFjUtgUR.htm](feats/class-02-UiQbjeqBUFjUtgUR.htm)|Assisting Shot|
 |[class-02-VeVHWTrzE3aDm3rx.htm](feats/class-02-VeVHWTrzE3aDm3rx.htm)|Brawling Focus|
-|[class-02-vhw3n86TEs6laopA.htm](feats/class-02-vhw3n86TEs6laopA.htm)|Druid Dedication|
 |[class-02-vQiUYpdgYnXg0oDX.htm](feats/class-02-vQiUYpdgYnXg0oDX.htm)|Shining Oath|
 |[class-02-VToVEOxiyy53AcEp.htm](feats/class-02-VToVEOxiyy53AcEp.htm)|Loremaster's Etude|
 |[class-02-W3XSK487Y6LwCDwr.htm](feats/class-02-W3XSK487Y6LwCDwr.htm)|Cantrip Expansion (Sorcerer)|
-|[class-02-WVU0c8rgcpGSRqSi.htm](feats/class-02-WVU0c8rgcpGSRqSi.htm)|Barbarian Dedication|
 |[class-02-yExxOkHN1PN37hUa.htm](feats/class-02-yExxOkHN1PN37hUa.htm)|Communal Healing|
 |[class-02-yZ7EcM9CLddZz8Hl.htm](feats/class-02-yZ7EcM9CLddZz8Hl.htm)|Versatile Font|
-|[class-02-ZhToff996PnTESwb.htm](feats/class-02-ZhToff996PnTESwb.htm)|Magaambyan Attendant Dedication|
 |[class-02-ZvPgibovxwiN8Wse.htm](feats/class-02-ZvPgibovxwiN8Wse.htm)|Call of the Wild|
 |[class-04-3y459uK2qfWtS9q4.htm](feats/class-04-3y459uK2qfWtS9q4.htm)|Everstand Strike|
 |[class-04-baD02AcIpU7xUBlD.htm](feats/class-04-baD02AcIpU7xUBlD.htm)|Basic Maneuver|
@@ -302,7 +281,6 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[class-04-moL75FV1zaSQWVbk.htm](feats/class-04-moL75FV1zaSQWVbk.htm)|Twin Parry (Ranger)|
 |[class-04-mV911W6MTGMvHPbE.htm](feats/class-04-mV911W6MTGMvHPbE.htm)|Basic Hunter’s Trick|
 |[class-04-mxO7u59ms58q7zyj.htm](feats/class-04-mxO7u59ms58q7zyj.htm)|Magical Trickster|
-|[class-04-NagTqSLK8bAlo2nY.htm](feats/class-04-NagTqSLK8bAlo2nY.htm)|Firebrand Braggart Dedication|
 |[class-04-nc5G99d20PI9JKCK.htm](feats/class-04-nc5G99d20PI9JKCK.htm)|Monk Resiliency|
 |[class-04-NlEZ0piDxg9buXCL.htm](feats/class-04-NlEZ0piDxg9buXCL.htm)|Quick Alchemy|
 |[class-04-NSyzjkDdQU2A75mX.htm](feats/class-04-NSyzjkDdQU2A75mX.htm)|Basic Bard Spellcasting|
@@ -344,7 +322,6 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[class-04-Y8LHfkzGyOhPlUou.htm](feats/class-04-Y8LHfkzGyOhPlUou.htm)|Twin Parry (Fighter)|
 |[class-04-yozSCfdLFHVBbTxj.htm](feats/class-04-yozSCfdLFHVBbTxj.htm)|Mature Animal Companion (Druid)|
 |[class-04-zilwynzk8lIujgZo.htm](feats/class-04-zilwynzk8lIujgZo.htm)|Mercy|
-|[class-06-7fU6e3HIT4NvwLYa.htm](feats/class-06-7fU6e3HIT4NvwLYa.htm)|Halcyon Speaker Dedication|
 |[class-06-axvGLVoAvuD9jU78.htm](feats/class-06-axvGLVoAvuD9jU78.htm)|Loyal Warhorse|
 |[class-06-bzKBUK6CH8tuLCfo.htm](feats/class-06-bzKBUK6CH8tuLCfo.htm)|Advanced Red Mantis Magic|
 |[class-06-c5ns35FLvvxjimuH.htm](feats/class-06-c5ns35FLvvxjimuH.htm)|Swift Tracker|
@@ -371,7 +348,6 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[class-06-mk0zFATlJGonVpW2.htm](feats/class-06-mk0zFATlJGonVpW2.htm)|Attack of Opportunity (Barbarian)|
 |[class-06-nDjTJq7PEbvRktnb.htm](feats/class-06-nDjTJq7PEbvRktnb.htm)|Advanced Weapon Training|
 |[class-06-OLT3ABswnzpm7XqH.htm](feats/class-06-OLT3ABswnzpm7XqH.htm)|Steady Spellcasting (Sorcerer)|
-|[class-06-oNh2vedij8xbDbph.htm](feats/class-06-oNh2vedij8xbDbph.htm)|Hellknight Dedication|
 |[class-06-OWedlrKGsVZVkSnT.htm](feats/class-06-OWedlrKGsVZVkSnT.htm)|Insect Shape|
 |[class-06-rXY2fhyteYhaQnMl.htm](feats/class-06-rXY2fhyteYhaQnMl.htm)|Advanced Trickery|
 |[class-06-S14S52HjszTgIy4l.htm](feats/class-06-S14S52HjszTgIy4l.htm)|Crane Flutter|
@@ -762,10 +738,13 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[ancestry-01-7BVl9lFf0wuTjBgM.htm](feats/ancestry-01-7BVl9lFf0wuTjBgM.htm)|Elf Atavism|Atavisme elfique|officielle|
 |[ancestry-01-8nF3r3NHW2uSRgwb.htm](feats/ancestry-01-8nF3r3NHW2uSRgwb.htm)|Devil's Advocate|Avocat du diable|libre|
 |[ancestry-01-9bnkx6VgcO5mOk5b.htm](feats/ancestry-01-9bnkx6VgcO5mOk5b.htm)|Dwarven Lore|Connaissance des nains|officielle|
+|[ancestry-01-A1RzkLCj7mXJI1IY.htm](feats/ancestry-01-A1RzkLCj7mXJI1IY.htm)|Unassuming Dedication|Acharnement sans prétention|libre|
+|[ancestry-01-af2fSePLvqMNNp0r.htm](feats/ancestry-01-af2fSePLvqMNNp0r.htm)|Wildborn Magic|Magie sauvage|libre|
 |[ancestry-01-AogIo1gHLdz7DyHx.htm](feats/ancestry-01-AogIo1gHLdz7DyHx.htm)|Forlorn|Délaissé|officielle|
 |[ancestry-01-C1R4wd6G46CAVIn7.htm](feats/ancestry-01-C1R4wd6G46CAVIn7.htm)|Unburdened Iron|Fer allégé|officielle|
 |[ancestry-01-CXS0ryG2SODSobm9.htm](feats/ancestry-01-CXS0ryG2SODSobm9.htm)|Dwarven Weapon Familiarity|Familiarité avec les armes naines|officielle|
 |[ancestry-01-D3SuA5MaKucO1flE.htm](feats/ancestry-01-D3SuA5MaKucO1flE.htm)|General Training|Formation généraliste|officielle|
+|[ancestry-01-Dq4JSejEdCzGNeTc.htm](feats/ancestry-01-Dq4JSejEdCzGNeTc.htm)|Arcane Tattoos|Tatouages arcaniques|libre|
 |[ancestry-01-ED58GzldWb82yc2q.htm](feats/ancestry-01-ED58GzldWb82yc2q.htm)|Animal Accomplice|Complice animal|officielle|
 |[ancestry-01-EFhh3AenX7wtAmrs.htm](feats/ancestry-01-EFhh3AenX7wtAmrs.htm)|Orc Superstition|Superstition Orque|officielle|
 |[ancestry-01-ehvHedIwPcxq9cRt.htm](feats/ancestry-01-ehvHedIwPcxq9cRt.htm)|Sure Feet|Pied assuré|officielle|
@@ -791,6 +770,7 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[ancestry-01-tFgsBRsEo9ZEA5fU.htm](feats/ancestry-01-tFgsBRsEo9ZEA5fU.htm)|Illusion Sense|Perception des illusions|officielle|
 |[ancestry-01-uuD8Z9jUG61GmenX.htm](feats/ancestry-01-uuD8Z9jUG61GmenX.htm)|Unfettered Halfling|Halfelin libre|officielle|
 |[ancestry-01-uW0VSyy75YrsvtWz.htm](feats/ancestry-01-uW0VSyy75YrsvtWz.htm)|Unwavering Mien|Volonté inébranlable|officielle|
+|[ancestry-01-VU07hybqzUXIJ6l2.htm](feats/ancestry-01-VU07hybqzUXIJ6l2.htm)|Halfling Lore|Connaissance des halfelins|officielle|
 |[ancestry-01-WoLh16gyDp8y9WOZ.htm](feats/ancestry-01-WoLh16gyDp8y9WOZ.htm)|Ancestral Longevity|Longévité ancestrale|officielle|
 |[ancestry-01-X9tKWtQrAcmn26Nv.htm](feats/ancestry-01-X9tKWtQrAcmn26Nv.htm)|Adapted Cantrip|tour de magie adapté|officielle|
 |[ancestry-01-ZbRVqf14RTJJIZXG.htm](feats/ancestry-01-ZbRVqf14RTJJIZXG.htm)|Halfling Luck|Chance halfeline|officielle|
@@ -826,7 +806,7 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[archetype-02-UuPZ7drPBnSmI8Eo.htm](feats/archetype-02-UuPZ7drPBnSmI8Eo.htm)|Red Mantis Assassin Dedication|Dévouement d'Assassin des Mantes rouges|libre|
 |[archetype-02-UyyrFtPWOo0qvXOv.htm](feats/archetype-02-UyyrFtPWOo0qvXOv.htm)|Zephyr Guard Dedication|Dévouement de Garde Zéphyr|libre|
 |[archetype-02-zNxbsYgQgPVxdTLV.htm](feats/archetype-02-zNxbsYgQgPVxdTLV.htm)|Lion Blade Dedication|Dévouement de Lame du Lion|libre|
-|[archetype-03-9lyFxaoZjF1ZjVN9.htm](feats/archetype-03-9lyFxaoZjF1ZjVN9.htm)|Know the Beat|Tâter le polus|libre|
+|[archetype-03-9lyFxaoZjF1ZjVN9.htm](feats/archetype-03-9lyFxaoZjF1ZjVN9.htm)|Know the Beat|Tâter le pouls|libre|
 |[archetype-04-4HHw2DjTxdv1jBZd.htm](feats/archetype-04-4HHw2DjTxdv1jBZd.htm)|Decry Thief|Dénoncer un voleur|libre|
 |[archetype-04-6RjilN93bgy34y3H.htm](feats/archetype-04-6RjilN93bgy34y3H.htm)|Basic Red Mantis Magic|Incantation de la Mante rouge basique|libre|
 |[archetype-04-8pmd9gMl3TamFx3u.htm](feats/archetype-04-8pmd9gMl3TamFx3u.htm)|Deft Cooperation|Coopération adroite|libre|
@@ -839,12 +819,21 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[archetype-04-gqQK7dDrGPkQDfQQ.htm](feats/archetype-04-gqQK7dDrGPkQDfQQ.htm)|Mortification|Mortification|libre|
 |[archetype-04-iKOcwFCbNX1a2OFT.htm](feats/archetype-04-iKOcwFCbNX1a2OFT.htm)|Ardent Armiger|Écuyer ardent|libre|
 |[archetype-04-iMh9Ve8Kt8ZcdKU0.htm](feats/archetype-04-iMh9Ve8Kt8ZcdKU0.htm)|Bullying Staff|Bâton harcelant|libre|
+|[archetype-04-J8BSHRkmP3QLknwF.htm](feats/archetype-04-J8BSHRkmP3QLknwF.htm)|Beast Speaker|Locuteur bestial|libre|
+|[archetype-04-lYVAGuHU47Ixyuxy.htm](feats/archetype-04-lYVAGuHU47Ixyuxy.htm)|Focused Juggler|Jongleur Concentré|libre|
+|[archetype-04-MnqDDUekqd40HTZc.htm](feats/archetype-04-MnqDDUekqd40HTZc.htm)|Necromantic Resistance|Résistance nécromantique|libre|
+|[archetype-04-nAgAICjPd4BSQlAj.htm](feats/archetype-04-nAgAICjPd4BSQlAj.htm)|Axe Climber|Escalade à la hache|libre|
+|[archetype-04-NrZt98r47sPSQ06j.htm](feats/archetype-04-NrZt98r47sPSQ06j.htm)|Crystal Ward Spells|Sort de Garde de Cristal|libre|
+|[archetype-04-NZgjqVV2HYzLCvvA.htm](feats/archetype-04-NZgjqVV2HYzLCvvA.htm)|Aldori Parry|Parade Aldori|libre|
+|[archetype-04-otLs7XzMXR1cZKGe.htm](feats/archetype-04-otLs7XzMXR1cZKGe.htm)|Quick Juggler|Jongleur rapide|libre|
 |[archetype-04-qQh8wnslOagixxD1.htm](feats/archetype-04-qQh8wnslOagixxD1.htm)|Careful Explorer|Explorateur attentif|libre|
 |[archetype-06-0Gao1ez4dGH6dIZ2.htm](feats/archetype-06-0Gao1ez4dGH6dIZ2.htm)|Expeditious Advance|Avance expéditive|libre|
 |[archetype-06-8RppI1i4LfI0CYsX.htm](feats/archetype-06-8RppI1i4LfI0CYsX.htm)|Aldori Riposte|Riposte Aldori|libre|
+|[archetype-06-dwL0Y0P2x4pn2cft.htm](feats/archetype-06-dwL0Y0P2x4pn2cft.htm)|Bellflower Dedication|Dévoument de la Campanule|libre|
 |[archetype-08-0Bu48kn3Deq9gHQE.htm](feats/archetype-08-0Bu48kn3Deq9gHQE.htm)|Practiced Guidance|Guide Exercé|libre|
 |[archetype-08-4YeHOPzo3zOhZQCh.htm](feats/archetype-08-4YeHOPzo3zOhZQCh.htm)|Mantis Form|Forme de la mante|libre|
 |[archetype-08-7vOVPzsVuyE5a3Rp.htm](feats/archetype-08-7vOVPzsVuyE5a3Rp.htm)|Fortified Flesh|Chair fortifiée|libre|
+|[archetype-08-MxNb97qr1yMhbjiP.htm](feats/archetype-08-MxNb97qr1yMhbjiP.htm)|Golem Crafter Dedication|Dévouement de Greffeur de golem|libre|
 |[archetype-10-5nzeyuvzKL4T8eLt.htm](feats/archetype-10-5nzeyuvzKL4T8eLt.htm)|Weapon-Rune Shifter|Changeur de rune d'arme|libre|
 |[archetype-10-81xlcIFJIAtsmXmd.htm](feats/archetype-10-81xlcIFJIAtsmXmd.htm)|Armor Rune Shifter|Changeur de rune d'armure|libre|
 |[archetype-14-8PMxl8o5YXET58Pn.htm](feats/archetype-14-8PMxl8o5YXET58Pn.htm)|Iron Lung|Poumon d'acier|libre|
@@ -934,14 +923,22 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[class-02-8bMmGBO6gsMfWZk3.htm](feats/class-02-8bMmGBO6gsMfWZk3.htm)|Stunning Fist|Poing étourdissant|officielle|
 |[class-02-9onf3uGvZRnNLPR6.htm](feats/class-02-9onf3uGvZRnNLPR6.htm)|Order Explorer|Explorateur des ordres|officielle|
 |[class-02-A7ofsoPva0UtjqrX.htm](feats/class-02-A7ofsoPva0UtjqrX.htm)|Cantrip Expansion (Bard)|Expansion de tour de magie (Barde)|officielle|
+|[class-02-bCWieNDC1CD35tin.htm](feats/class-02-bCWieNDC1CD35tin.htm)|Rogue Dedication|Dévouement du roublard|officielle|
 |[class-02-BU4NBIBkVZxdWLLH.htm](feats/class-02-BU4NBIBkVZxdWLLH.htm)|Elemental Fist|Poing élémentaire|officielle|
 |[class-02-CJMkxlxHiHZQYDCz.htm](feats/class-02-CJMkxlxHiHZQYDCz.htm)|Alchemist Dedication|Dévouement de l’Alchimiste|officielle|
+|[class-02-dIH771mt4PcVTyAs.htm](feats/class-02-dIH771mt4PcVTyAs.htm)|Bard Dedication|Dévouement du barde|officielle|
 |[class-02-DYUlMxh7TDgEh9xB.htm](feats/class-02-DYUlMxh7TDgEh9xB.htm)|Brutal Beating|Raclée brutale|officielle|
 |[class-02-FrlhErsjR6fEn6kX.htm](feats/class-02-FrlhErsjR6fEn6kX.htm)|Minor Magic|Magie mineure|officielle|
 |[class-02-Fs9ZMHZNCBo7B5Zc.htm](feats/class-02-Fs9ZMHZNCBo7B5Zc.htm)|Vengeful Oath|Serment de vengeance|officielle|
 |[class-02-GFtNQvpzuqtsdOTG.htm](feats/class-02-GFtNQvpzuqtsdOTG.htm)|Hunter’s Aim|Visée du chasseur|officielle|
+|[class-02-mvNa9KfQooHYEXoA.htm](feats/class-02-mvNa9KfQooHYEXoA.htm)|Fighter Dedication|Dévouement de guerrier|officielle|
 |[class-02-oQ6EZRFXbHWCx08C.htm](feats/class-02-oQ6EZRFXbHWCx08C.htm)|Wizard Dedication|Dévouement du magicien|officielle|
 |[class-02-qFt6zyWVX1njJf1l.htm](feats/class-02-qFt6zyWVX1njJf1l.htm)|Quick Draw|Arme en main|officielle|
+|[class-02-renUpSO6MJXPSXow.htm](feats/class-02-renUpSO6MJXPSXow.htm)|Monk Dedication|Dévouement du Moine|officielle|
+|[class-02-smCDaPlpRDA47xjK.htm](feats/class-02-smCDaPlpRDA47xjK.htm)|Cleric Dedication|Dévouement du prêtre|officielle|
+|[class-02-vhw3n86TEs6laopA.htm](feats/class-02-vhw3n86TEs6laopA.htm)|Druid Dedication|Dévouement de druide|officielle|
+|[class-02-WVU0c8rgcpGSRqSi.htm](feats/class-02-WVU0c8rgcpGSRqSi.htm)|Barbarian Dedication|Dévouement de barbare|officielle|
+|[class-02-ZhToff996PnTESwb.htm](feats/class-02-ZhToff996PnTESwb.htm)|Magaambyan Attendant Dedication|Dévouement de Gardien de Magaambaya|libre|
 |[class-04-2gao4uIkEpCPPOIW.htm](feats/class-04-2gao4uIkEpCPPOIW.htm)|Swipe (Fighter)|Frappe Transversale (Guerrier)|officielle|
 |[class-04-39CqlOzlHjEhh0E4.htm](feats/class-04-39CqlOzlHjEhh0E4.htm)|Knockdown (Fighter)|Renversement (Guerrier)|officielle|
 |[class-04-6erzXaxxvcXYnL9H.htm](feats/class-04-6erzXaxxvcXYnL9H.htm)|Necrotic Infusion|Injection nécrotique|officielle|
@@ -957,6 +954,7 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[class-04-HpT1GlcnkCBnDnVF.htm](feats/class-04-HpT1GlcnkCBnDnVF.htm)|Barbarian Resiliency|Résilience du barbare|officielle|
 |[class-04-IOdk7bOJ4dgYVh9I.htm](feats/class-04-IOdk7bOJ4dgYVh9I.htm)|Improved Communal Healing|Guérison collective améliorée|officielle|
 |[class-04-JGfJPx6xkx11zHlW.htm](feats/class-04-JGfJPx6xkx11zHlW.htm)|Linked Focus|Focalisation liée|officielle|
+|[class-04-NagTqSLK8bAlo2nY.htm](feats/class-04-NagTqSLK8bAlo2nY.htm)|Firebrand Braggart Dedication|Dévouement de Trublion vantard|libre|
 |[class-04-o5q9FBrPsAYqEl5w.htm](feats/class-04-o5q9FBrPsAYqEl5w.htm)|Channel Smite|Châtiment canalisé|officielle|
 |[class-04-oGu9AtUAx0SpRXy8.htm](feats/class-04-oGu9AtUAx0SpRXy8.htm)|Favored Enemy|Ennemi juré|officielle|
 |[class-04-oHdUwzUUblg3neCT.htm](feats/class-04-oHdUwzUUblg3neCT.htm)|Order Magic|Magie des ordres|officielle|
@@ -982,6 +980,7 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[class-06-65gjc5KE4ZRoocbi.htm](feats/class-06-65gjc5KE4ZRoocbi.htm)|Abundant Step|Pas chassé|officielle|
 |[class-06-6gLWr3xghsHSFwxc.htm](feats/class-06-6gLWr3xghsHSFwxc.htm)|Water Step|Foulée sur l'eau|officielle|
 |[class-06-6J2ZSGNsXPKPcJGV.htm](feats/class-06-6J2ZSGNsXPKPcJGV.htm)|Tiger Slash|Taillade du tigre|officielle|
+|[class-06-7fU6e3HIT4NvwLYa.htm](feats/class-06-7fU6e3HIT4NvwLYa.htm)|Halcyon Speaker Dedication|Dévouement de l'Orateur paisible|libre|
 |[class-06-7wk6yVM3OJdc4LEU.htm](feats/class-06-7wk6yVM3OJdc4LEU.htm)|Champion’s Reaction|Réaction de champion|officielle|
 |[class-06-BO6vTjc7XZ4KDQXZ.htm](feats/class-06-BO6vTjc7XZ4KDQXZ.htm)|Steady Spellcasting (Druid)|Incantation fiable (Druide)|officielle|
 |[class-06-F1DVDJRARfdb1Kjz.htm](feats/class-06-F1DVDJRARfdb1Kjz.htm)|Storm Retribution|Châtiment de la tempête|officielle|
@@ -990,6 +989,7 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[class-06-JdCRxwgtdQkJ1Ha6.htm](feats/class-06-JdCRxwgtdQkJ1Ha6.htm)|Guardian’s Deflection|Déviation du gardien|officielle|
 |[class-06-JHcvySfCM9uYNb9N.htm](feats/class-06-JHcvySfCM9uYNb9N.htm)|Revealing Stab|Perforation révélatrice|officielle|
 |[class-06-o0NFLJM31B5kyLb6.htm](feats/class-06-o0NFLJM31B5kyLb6.htm)|Shield Warden (Fighter)|Gardien au bouclier (Guerrier)|officielle|
+|[class-06-oNh2vedij8xbDbph.htm](feats/class-06-oNh2vedij8xbDbph.htm)|Hellknight Dedication|Dévouement de Chevalier infernal|libre|
 |[class-06-oUhwrijg4rClCplO.htm](feats/class-06-oUhwrijg4rClCplO.htm)|Brutal Bully|Cogneur brutal|officielle|
 |[class-06-ozvYhY4hG1deXly8.htm](feats/class-06-ozvYhY4hG1deXly8.htm)|Directional Bombs|Bombes directionnelles|officielle|
 |[class-08-0PcVi7eav6PMLOPl.htm](feats/class-08-0PcVi7eav6PMLOPl.htm)|Channeled Succor|Secours canalisé|officielle|

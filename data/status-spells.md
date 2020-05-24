@@ -1,10 +1,10 @@
 # État de la traduction (spells)
 
- * **aucune**: 649
- * **officielle**: 3
+ * **aucune**: 644
+ * **officielle**: 8
 
 
-Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-24 12:51 *(heure de Canada/Montréal)*
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
@@ -118,7 +118,6 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[APTMURAW1N0Wpk4w.htm](spells/APTMURAW1N0Wpk4w.htm)|Precious Metals|
 |[aqRYNoSvxsVfqglH.htm](spells/aqRYNoSvxsVfqglH.htm)|Freedom of Movement|
 |[AsKLseOo8hwv5Jha.htm](spells/AsKLseOo8hwv5Jha.htm)|Invoke the Crimson Oath|
-|[AUctDF2fqPZN2w4W.htm](spells/AUctDF2fqPZN2w4W.htm)|Sigil|
 |[aXoh6OQAL57lgh0a.htm](spells/aXoh6OQAL57lgh0a.htm)|Expeditious Excavation|
 |[ayRXv0wQH00TTNZe.htm](spells/ayRXv0wQH00TTNZe.htm)|Purple Worm Sting|
 |[Az3PmWnlWSb5ELX9.htm](spells/Az3PmWnlWSb5ELX9.htm)|Abundant Step|
@@ -223,14 +222,12 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[gfPjmG6Fe6D3MFjl.htm](spells/gfPjmG6Fe6D3MFjl.htm)|Pest Form|
 |[gfVXAW95YWRz0pJC.htm](spells/gfVXAW95YWRz0pJC.htm)|Telepathic Bond|
 |[gIdDLrbswTV3OBJy.htm](spells/gIdDLrbswTV3OBJy.htm)|Silence|
-|[gISYsBFby1TiXfBt.htm](spells/gISYsBFby1TiXfBt.htm)|Acid Splash|
 |[gKKqvLohtrSJj3BM.htm](spells/gKKqvLohtrSJj3BM.htm)|Magic Missile|
 |[GKpEcy9WId6NJvtx.htm](spells/GKpEcy9WId6NJvtx.htm)|Stinking Cloud|
 |[gMODOGamz88rgHuf.htm](spells/gMODOGamz88rgHuf.htm)|Protection|
 |[GoKkejPj5yWJPIPK.htm](spells/GoKkejPj5yWJPIPK.htm)|Adaptive Ablation|
 |[GP3wewkQXEPrLxYj.htm](spells/GP3wewkQXEPrLxYj.htm)|Subconscious Suggestion|
 |[gPvtmKMRpg9I9D7H.htm](spells/gPvtmKMRpg9I9D7H.htm)|Earthbind|
-|[gpzpAAAJ1Lza2JVl.htm](spells/gpzpAAAJ1Lza2JVl.htm)|Detect Magic|
 |[GQopUYTuhmtb7WMG.htm](spells/GQopUYTuhmtb7WMG.htm)|Perfect Strike|
 |[GqvKSxzN7A7kuFk4.htm](spells/GqvKSxzN7A7kuFk4.htm)|Tempt Fate|
 |[gSFg9zKwgcNZLMEs.htm](spells/gSFg9zKwgcNZLMEs.htm)|Stormwind Flight|
@@ -332,7 +329,6 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[KhM8MhoUgoUjBMIz.htm](spells/KhM8MhoUgoUjBMIz.htm)|Dinosaur Form|
 |[KHnhPHL4x1AQHfbC.htm](spells/KHnhPHL4x1AQHfbC.htm)|Mind Reading|
 |[kJKSLfCgqxmN2FY8.htm](spells/kJKSLfCgqxmN2FY8.htm)|Personal Rain Cloud|
-|[kl2q6JvBZwed4B6v.htm](spells/kl2q6JvBZwed4B6v.htm)|Dancing Lights|
 |[KMFRKzNCq7hVNH7H.htm](spells/KMFRKzNCq7hVNH7H.htm)|Charming Words|
 |[kOa055FIrO9Smnya.htm](spells/kOa055FIrO9Smnya.htm)|Wall of Stone|
 |[KPDHmmjJiw7PhTYF.htm](spells/KPDHmmjJiw7PhTYF.htm)|Resplendent Mansion|
@@ -364,7 +360,6 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[M0jQlpQYUr0pp2Sv.htm](spells/M0jQlpQYUr0pp2Sv.htm)|Horrid Wilting|
 |[m2xFMNyQiUKQDRaj.htm](spells/m2xFMNyQiUKQDRaj.htm)|Energy Aegis|
 |[m3lcOFm400lQCUps.htm](spells/m3lcOFm400lQCUps.htm)|Power Word Kill|
-|[mAMEt4FFbdqoRnkN.htm](spells/mAMEt4FFbdqoRnkN.htm)|Chill Touch|
 |[mau1Olq58ECF0ZPi.htm](spells/mau1Olq58ECF0ZPi.htm)|Empty Body|
 |[mBojKJatf9PTYC38.htm](spells/mBojKJatf9PTYC38.htm)|Fey Disappearance|
 |[McnPlLFvKtQVXNcG.htm](spells/McnPlLFvKtQVXNcG.htm)|Shape Stone|
@@ -666,3 +661,8 @@ Dernière mise à jour: 2020-05-23 11:49 *(heure de Canada/Montréal)*
 |[4gBIw4IDrSfFHik4.htm](spells/4gBIw4IDrSfFHik4.htm)|Daze|Hébétement|officielle|
 |[60sgbuMWN0268dB7.htm](spells/60sgbuMWN0268dB7.htm)|Telekinetic Projectile|Projectile télékinésique|officielle|
 |[atlgGNI1E1Ox3O3a.htm](spells/atlgGNI1E1Ox3O3a.htm)|Ghost Sound|Son imaginaire|officielle|
+|[AUctDF2fqPZN2w4W.htm](spells/AUctDF2fqPZN2w4W.htm)|Sigil|Symbole|officielle|
+|[gISYsBFby1TiXfBt.htm](spells/gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|officielle|
+|[gpzpAAAJ1Lza2JVl.htm](spells/gpzpAAAJ1Lza2JVl.htm)|Detect Magic|Détection de la magie|officielle|
+|[kl2q6JvBZwed4B6v.htm](spells/kl2q6JvBZwed4B6v.htm)|Dancing Lights|Lumières dansantes|officielle|
+|[mAMEt4FFbdqoRnkN.htm](spells/mAMEt4FFbdqoRnkN.htm)|Chill Touch|Contact glacial|officielle|
