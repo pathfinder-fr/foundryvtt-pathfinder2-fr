@@ -33,3 +33,4 @@ https://docs.google.com/spreadsheets/d/1MmY9rB7EU1yjpPmmoDdqgawiA46fetS_NBCC0Ay7
 
 ## Bugs de la vo
 Le don Golem Crafter Dedication est erroné -> il s'agit de Golem **G**rafter Dedication
+Les dons de dévouement des classes de base sont rangés dans les dons de classe et non dans les archétypes
