@@ -33,6 +33,7 @@ https://docs.google.com/spreadsheets/d/1MmY9rB7EU1yjpPmmoDdqgawiA46fetS_NBCC0Ay7
 
 ## Bugs de la vo
 * Golem Crafter Dedication is a wrong name -> The good one is Golem **G**rafter Dedication
-* Dedication feats frome the base classes of the core are in class feats -> dedication feats
+* Dedication feats frome the base classes of the core are in class feats -> archetype feats
 * Bard dedication : the special part is missing
 * Druid dedication : the special part is missing
+* Magaambyan Attendant Dedication -> archetype feat
