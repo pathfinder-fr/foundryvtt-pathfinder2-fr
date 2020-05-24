@@ -2,10 +2,10 @@
   "name": "pf2-fr",
   "title": "Pathfinder 2 - Translations for compendiums (French)",
   "description": "Provides Babele translations for compendiums",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "author": "Sven Werlen",
-  "download": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/archive/v-0.9.0/foundryvtt-pathfinder2-fr-v-0.9.0.zip",
+  "download": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/archive/v-0.9.1/foundryvtt-pathfinder2-fr-v-0.9.1.zip",
   "manifest": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/module.json",
   "minimumCoreVersion": "0.5.5",
-  "compatibleCoreVersion": "0.5.7"
+  "compatibleCoreVersion": "0.6.0"
 }
