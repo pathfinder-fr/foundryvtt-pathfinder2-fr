@@ -2,9 +2,16 @@
 
  * **officielle**: 111
  * **libre**: 5
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2020-05-24 12:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[qc0VsZ0UesnurUUB.htm](actions/qc0VsZ0UesnurUUB.htm)|Take a Breather|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

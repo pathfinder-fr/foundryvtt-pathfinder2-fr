@@ -513,7 +513,8 @@
         },
         {
             "id": "Overwhelming Energy (Wizard)",
-            "name": "Énergie écrasante (Magicien)"
+            "name": "Énergie écrasante (Magicien)",
+            "description": "<p>D’un geste complexe, vous modifiez l’énergie de votre sort pour surmonter les résistances. Si votre prochaine action consiste à Lancer un sort, ce dernier ignore chez la cible un nombre de points de résistance à l’acide, au froid, à l’électricité, au feu ou au son égal à votre niveau. Cela s’applique à tous les dégâts qu’inflige le sort, y compris les dégâts persistants et ceux causés par un effet continu du sort, comme le mur de mur de feu. Cela n’affecte pas les immunités d’une créature.</p>\n"
         },
         {
             "id": "Halfling Lore",
@@ -759,11 +760,6 @@
             "id": "Ka Stone Ritual",
             "name": "Rituel de la pierre Ka",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Monolithe vivant, un sphinx ou un monolithe vivant disposant de ce don accomplit un rituel avec vous<br></span></p>\n<hr>\n<p>Vous inscrivez votre véritable nom sur votre <em>pierre ka</em>, ainsi que des serments envers les dieux et les pharaons et l'insérez sur votre front au cours d'un rituel spécial avec un sphinx ou un Monolithe vivant qui a déjà ce don. La <em>pierre ka</em> est un objet magique investi que vous investissez automatiquement chaque jour. Elle ne peut être retirée sans votre permission, ne peut être dissipée et vous ne cessez jamais d'investir la pierre ka. Son encombrement est négligeable.<br><br>La pierre ka vous accorde un bonus d'objet de +1 à tous les jets de sauvegarde contre les effets de mort et les effets négatifs, qui passe à +2 au niveau 8, +3 au niveau 14 et +4 au niveau 20.<br><br><strong>Activation</strong> <img class=\"actionlight\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions_I.png\" alt=\"Two Actions\"> (imaginer) ou une activation différente si c'est spécifié autrement ; <strong>Fréquence</strong> un nomber de fois par jours égal au nomnre de dons de classe que vous avez dans l'archétype Monolithe vivant ; <strong>Effet</strong> Vous lancez <a href=\"https://2e.aonprd.com/Spells.aspx?ID=102\"><em>agrandissement</em></a> sur vous-même ou utiliser une des autres capacités susceptible d'activation fournie par un don ultérieur de Monolithe vivant.&nbsp;&nbsp;</p>"
-        },
-        {
-            "id": "Weight of Guilt",
-            "name": "Poids de la culpabilité",
-            "description": "<p> La culpabilité trouble l’esprit de ceux qui ignorent votre &nbsp;<a href=\"https://2e.aonprd.com/Actions.aspx?ID=6\">Glimpse of Redemption</a>. Au lieu que la créature ayant déclenché ce pouvoir soit affaiblie 2, vous pouvez faire en sorte qu’elle soit stupéfiée 2 pendant la même durée.</p>\n"
         },
         {
             "id": "Cantrip Expansion (Wizard)",
@@ -1382,7 +1378,8 @@
         },
         {
             "id": "Sense Chaos",
-            "name": "Sens du chaos"
+            "name": "Sens du chaos",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Chevalier infernal<br></span></p>\n<hr>\n<p>Vous sentez le chaos comme une sorte de sensation troublante d'énergie nerveuse. Lorsque vous êtes en présence d'une aura de chaos qui est puissante ou surpuissante, vous finissez par en ressentir l'aura et bien que vous ne puissiez pas le faire instantanément, vous pouvez en localiser le lieu de provenance. C'est un sens vague, similaire à celui de l'odorat chez un humain. Une créature chaotique utilisant un déguisement ou tentant autrement de cacher sa présence doit tenter un test de <a href=\"https://2e.aonprd.com/Skills.aspx?ID=5\">Duperie</a> contre votre DD de Perception pour cacher son aura auprès de vous. Si la créature obtient un succès à son test, elle est temporairement immunisée contre votre sens du Chaos pendant 1 jour.&nbsp;</p>\n"
         },
         {
             "id": "Quick Identification",
