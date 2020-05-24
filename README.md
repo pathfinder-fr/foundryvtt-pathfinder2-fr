@@ -32,5 +32,6 @@ Pour appliquer les traductions, il faut installer le module Babele et pointer ve
 https://docs.google.com/spreadsheets/d/1MmY9rB7EU1yjpPmmoDdqgawiA46fetS_NBCC0Ay7zsw/edit#gid=508492121
 
 ## Bugs de la vo
-Le don Golem Crafter Dedication est erroné -> il s'agit de Golem **G**rafter Dedication
-Les dons de dévouement des classes de base sont rangés dans les dons de classe et non dans les archétypes
+* Golem Crafter Dedication is a wrong name -> The good one is Golem **G**rafter Dedication
+* Dedication feats frome the base classes are in class featsbut not in dedication feats
+* Bard dedication : the special part is missing
