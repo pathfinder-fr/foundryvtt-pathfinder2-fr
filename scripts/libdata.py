@@ -23,7 +23,9 @@ def getValue(obj, path):
       print("Error with path %s in %s" % (path, obj))
       exit(1)
   
-  if element.isdigit():
+  if isinstance(element, int):
+    return "%02d" % element
+  elif element.isdigit():
     return "%02d" % int(element)
   else:
     return element
