@@ -5,7 +5,7 @@
  * **aucune**: 710
 
 
-Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
@@ -794,7 +794,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[ancestry-09-COP89tjrNhEucuRW.htm](feats/ancestry-09-COP89tjrNhEucuRW.htm)|Mountain’s Stoutness|Robustesse de la montagne|officielle|
 |[ancestry-13-EiiCCJqWnN5RYMV4.htm](feats/ancestry-13-EiiCCJqWnN5RYMV4.htm)|Universal Longevity|Longévité universelle|officielle|
 |[ancestry-13-GELhS1k0vHEi1PK3.htm](feats/ancestry-13-GELhS1k0vHEi1PK3.htm)|Incredible Ferocity|Férocité extraordinaire|officielle|
-|[archetype-02-0icxuITlxUBfeomX.htm](feats/archetype-02-0icxuITlxUBfeomX.htm)|Turpin Rowe Lumberjack Dedication|Bûcheron de Turpin Rowe|libre|
+|[archetype-02-0icxuITlxUBfeomX.htm](feats/archetype-02-0icxuITlxUBfeomX.htm)|Turpin Rowe Lumberjack Dedication|Dévouement de Bûcheron de Turpin Rowe|libre|
 |[archetype-02-5FOqVC9Q0eEKEf3w.htm](feats/archetype-02-5FOqVC9Q0eEKEf3w.htm)|Magic Warrior Dedication|Dévouement de Guerrier Magique|libre|
 |[archetype-02-bWYnjNa2RknMoibg.htm](feats/archetype-02-bWYnjNa2RknMoibg.htm)|Lastwall Sentry Dedication|Dévouement de Sentinelle de Dernier Rempart|libre|
 |[archetype-02-c4ao7b2T92fiM8jR.htm](feats/archetype-02-c4ao7b2T92fiM8jR.htm)|Living Monolith Dedication|Dévouement de Monolithe vivant|libre|

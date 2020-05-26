@@ -2,14 +2,59 @@
     "label": "Spells",
     "entries": [
         {
+            "id": "Floating Disk",
+            "name": "Disque flottant",
+            "description": "<p>Un disque de force magique se matérialise à côté de vous. Il fait 60 cm de diamètre et vous suit à 1,5 m derrière vous, flottant juste au-dessus du sol. Il contient des objets jusqu’à 5 Encombrements (mais il faut qu’ils aient la place de tenir dessus sans le déséquilibrer). Tout objet sur le disque tombe à terre quand le sort se termine. </p>\n<p> C’est le cas si une créature tente de monter sur le disque, s’il est surchargé, si quelqu’un tente de le soulever ou de la faire monter plus haut de force ou si vous vous éloignez à plus de 9 m de lui.</p>\n"
+        },
+        {
+            "id": "Negate Aroma",
+            "name": "Supprimer l’arôme",
+            "description": "<p>La cible n’émet plus d’odeurs, ce qui empêche les créatures de repérer sa présence de manière passive grâce à leur seul odorat, que celui-ci soit précis ou imprécis. Une créature qui fait un test de Perception pour Chercher avec l’odorat ou d’autres sens peut remarquer l’absence d’odeurs naturelles. Si la cible a des pouvoirs liés à son odeur, comme une odeur entêtante, ces pouvoirs sont également neutralisés.</p>\n<hr>\n<p><strong>Intensifié (5e)</strong> La portée passe à 9 m et vous pouvez cibler jusqu’à 10 créatures.</p>\n"
+        },
+        {
+            "id": "Summon Fey",
+            "name": "Convocation de fée",
+            "description": "<p>Vous conjurez une fée qui se bat pour vous. Cela fonctionne comme convocation d’animal, excepté que vous convoquez une créature ordinaire qui a le trait fée et dont le niveau est de −1.</p>\n<hr>\n<p><strong>Intensifié. (2e)</strong> Niveau 1</p>\n<p><strong>Intensifié. (3e)</strong> Niveau 2</p>\n<p><strong>Intensifié. (4e)</strong> Niveau 3</p>\n<p><strong>Intensifié. (5e)</strong> Niveau 5</p>\n<p><strong>Intensifié. (6e)</strong> Niveau 7</p>\n<p><strong>Intensifié. (7e)</strong> Niveau 9</p>\n<p><strong>Intensifié. (8e)</strong> Niveau 11</p>\n<p><strong>Intensifié. (9e)</strong> Niveau 13</p>\n<p><strong>Intensifié. (10e)</strong> Niveau 15</p>\n"
+        },
+        {
+            "id": "Shield",
+            "name": "Boulier",
+            "description": "<p>Vous élevez un bouclier de force magique. Cela compte comme si vous utilisiez Lever un bouclier, vous octroyant un bonus de circonstances de +1 à la CA jusqu’au début de votre prochain tour, mais cela ne nécessite aucune main pour l’utiliser.</p>\n<p>Tant que le sort est actif, vous pouvez utiliser la réaction Blocage au bouclier avec votre bouclier magique (voir l’encadré). Le bouclier a une Solidité de 5. Après avoir utilisé Blocage au bouclier, le sort prend fin et vous ne pouvez pas le lancer de nouveau avant 10 minutes. Contrairement à un Blocage au bouclier normal, vous pouvez utiliser la réaction du sort contre le sort projectile magique.</p>\n<p>Intensifier le sort augmente la Solidité du bouclier.</p>\n<hr>\n<p><strong>Intensifié (3e)</strong> Le bouclier a une Solidité de 10.</p>\n<p><strong>Intensifié (5e)</strong> Le bouclier a une Solidité de15.</p>\n<p><strong>Intensifié (7e)</strong> Le bouclier a une Solidité de20.</p>\n<p><strong> Intensifié (9e)</strong> Le bouclier a une Solidité de 25.</p>\n"
+        },
+        {
             "id": "Ghost Sound",
             "name": "Son imaginaire",
             "description": "<p>Vous créez l’illusion auditive de bruits simples d’un volume maximal égal à quatre humains en train de crier. Le bruit émane d’une case à portée de votre choix. Vous ne pouvez pas créer de mots intelligibles ou de sons complexes, comme de la musique.</p>\n<hr>\n<p><strong>Intensifié (3e)</strong> La portée du sort passe à 18 m.</p>\n<p><strong>Intensifié (5e)</strong> La portée du sort passe à 36 m.</p>"
         },
         {
+            "id": "Summon Plant or Fungus",
+            "name": "Convocation de plante ou de champignon",
+            "description": "<p> Vous conjurez une plante ou un champignon qui se bat pour vous. Cela fonctionne comme convocation d’animal (page 329), excepté que vous convoquez une créature ordinaire qui a le trait plante ou champignon et dont le niveau est de −1.</p>\n<hr>\n<p><strong>Intensifié. (2e)</strong> Niveau 1</p>\n<p><strong>Intensifié. (3e)</strong> Niveau 2</p>\n<p><strong>Intensifié. (4e)</strong> Niveau 3</p>\n<p><strong>Intensifié. (5e)</strong> Niveau 5</p>\n<p><strong>Intensifié. (6e)</strong> Niveau 7</p>\n<p><strong>Intensifié. (7e)</strong> Niveau 9</p>\n<p><strong>Intensifié. (8e)</strong> Niveau 11</p>\n<p><strong>Intensifié. (9e)</strong> Niveau 13</p>\n<p><strong>Intensifié. (10e)</strong> Niveau 15</p>\n"
+        },
+        {
+            "id": "Pass Without Trace",
+            "name": "Passage sans trace",
+            "description": "<p>Vous dissimulez les traces que vous laissez derrière vous pour compliquer la tâche de ceux qui tenteront de les chercher. Le DD des tests pour vous PIster gagne un bonus de statut de +4 ou il est égal à votre DD des sorts (on conserve le plus élevé des deux). Vous ne pouvez bénéficier que d’un seul passage sans trace à la fois.</p>\n<hr>\n<p><strong>Intensifié (2e)</strong> La durée passe à 8 h.</p>\n<p><strong>Intensifié (4e)</strong> La durée passe à 8 h. Le sort a une portée de 6 m et une zone d’émanation de 6 m qui affecte jusqu’à 10 créatures de votre choix situées à l’intérieur.</p>\n"
+        },
+        {
             "id": "Sigil",
             "name": "Symbole",
             "description": "<p>Vous placez de façon inoffensive votre unique symbole magique, d’une taille d’environ 6,5 cm², sur la créature ou l’objet ciblé. La marque peut être visible ou invisible, et vous pouvez la faire passer d’un état à l’autre en utilisant une action Interagir pour toucher la cible. La marque peut être effacée ou grattée après 5 minutes d’efforts. Si elle se trouve sur une créature, elle s’estompe naturellement au bout d’une semaine. Le délai avant que la marque s’estompe dépend de votre niveau intensifié.</p>\n<hr>\n<p><strong> Intensifié (3e)</strong>&nbsp; Le symbole s’estompe à la place après 1 mois.<br><strong> Intensifié (5e)</strong>&nbsp; Le symbole s’estompe à la place après 1 an. <br><strong>Intensifié (7e)</strong>&nbsp; Le symbole ne s’estompe jamais.</p>\n"
+        },
+        {
+            "id": "Stabilize",
+            "name": "Stabilisation",
+            "description": "<p>L’énergie positive ferme les portes de la mort. La cible perd l’état mourant.@JournalEntry[Dying], bien qu’elle reste inconsciente@JournalEntry[Unconscious] à 0 point de vie</p>\n"
+        },
+        {
+            "id": "Feather Fall",
+            "name": "Feuille morte",
+            "description": "<p><strong>Déclencheur.:&nbsp;</strong>Une créature vivante à portéequi chute</p>\n<hr>\n<p>Grâce à vous, l’air lui-même interrompt une chute. La chute de la cible est ralentie à 18 m par round et la portion de chute couverte par la durée du sort ne compte pas lors du calcul des dégâts de chute. Si la cible touche le sol alors que le sort fait effet, elle ne subit aucun dégât de chute. Le sort se termine dès qu’elle atterrit.</p>\n"
+        },
+        {
+            "id": "Prestidigitation",
+            "name": "Prestidigitation",
+            "description": "<p> Même la plus simple des magies peut vous servir. Vous pouvez accomplir de effets magiques simples tant que vous Maintenez le sort. Chaque fois que vous Maintenez le sort, vous pouvez choisir l’une des quatre options ci-dessous : </p>\n<ul>\n<li><strong> Cuisine. &nbsp;</strong> Réchauffe, refroidit ou aromatise 500 g de matériau non vivant. </li>\n<li><strong> Soulève. </strong> <strong>Slowly&nbsp;</strong> Soulève lentement à 30 cm au-dessus du sol un objet non porté d’Encombrement léger ou moins. </li>\n<li><strong> Fabrique. &nbsp;</strong> Crée dans une substance magique solide un objet temporaire d’Encombrement négligeable. L’objet paraît grossier, artificiel et extrêmement fragile — on ne peut s’en servir ni d’outil, ni d’arme ni de composant de sort. </li>\n<li><strong> Nettoie. &nbsp;</strong> Colorise, nettoie ou salit un objet d’Encombrement léger ou moins. Vous pouvez affecter un objet d’Encombrement 1 avec 10 rounds de concentration et ou un objet plus grand avec 1 minute par Encombrement.</li>\n</ul>\n<p> Prestidigitation ne peut pas infliger des dégâts ou des états défavorables. Tout changement réel apporté à un objet (en plus de ceux précisés plus haut) persiste tant que vous Maintenez le sort. </p>\n"
         },
         {
             "id": "Dancing Lights",
@@ -19,7 +64,7 @@
         {
             "id": "Chill Touch",
             "name": "Contact glacial",
-            "description": "<p>Vous absorbez de l’énergie négative et de pâles ténèbres enveloppent votre main. Votre toucher affaiblit les vivants et désoriente les morts-vivants, les mettant éventuellement en fuite. L’effet dépend si la cible est vivante ou morte-vivante.</p>\n<ul>\n<li><strong>Créature vivante</strong> Le sort inflige des dégâts d’énergie négative égaux à 1d4 plus votre modificateur d’incantation. La cible fait un jet de Vigueur basique, mais en cas d’échec critique elle est affaiblie 1 pendant 1 round.@JournalEntry[Enfeebled] 1 for 1 round on a critical failure.</li>\n<li><strong>Créature morte-vivante</strong> La cible est prise au dépourvu pendant un round si elle rate un jet de Vigueur. Sur un échec critique, elle fuit pendant un round, à moins de réussir un jet de Volonté.@JournalEntry[Flat-Footed] for 1 round on a failed Fortitude save. On a critical failure, the target is also @JournalEntry[Fleeing] for 1 round unless it succeeds at a Will save.</li>\n</ul>\n<hr>\n<p><strong>Intensifié (+1).</strong> The negative damage to living creatures increases by 1d4.</p>"
+            "description": "<p>Vous absorbez de l’énergie négative et de pâles ténèbres enveloppent votre main. Votre toucher affaiblit les vivants et désoriente les morts-vivants, les mettant éventuellement en fuite. L’effet dépend si la cible est vivante ou morte-vivante.</p>\n<ul>\n<li><strong>Créature vivante</strong> Le sort inflige des dégâts d’énergie négative égaux à 1d4 plus votre modificateur d’incantation. La cible fait un jet de Vigueur basique, mais en cas d’échec critique elle est affaiblie 1 pendant 1 round.@JournalEntry[Enfeebled] 1 for 1 round on a critical failure.</li>\n<li><strong>Créature morte-vivante</strong> La cible est prise au dépourvu pendant un round si elle rate un jet de Vigueur. Sur un échec critique, elle fuit pendant un round, à moins de réussir un jet de Volonté.@JournalEntry[Flat-Footed] for 1 round on a failed Fortitude save. On a critical failure, the target is also @JournalEntry[Fleeing] for 1 round unless it succeeds at a Will save.</li>\n</ul>\n<hr>\n<p><strong>Intensifié (+1).</strong> Les dégâts négatifs infligés aux vivants augmentent de 1d4.</p>"
         },
         {
             "id": "Daze",
@@ -27,9 +72,39 @@
             "description": "<p>Vous obscurcissez l’esprit de la cible et l’hébétez d’une décharge mentale. Les dégâts de cette dernière équivalent à votre modificateur de caractéristique d’incantation. La cible fait un jet de Volonté basique. En cas d’échec critique, elle est également étourdie 1.@JournalEntry[Stunned]</p>\n<hr>\n<p><strong>Intensifié (+2)</strong> Les dégâts augmentent de 1d6.</p>"
         },
         {
+            "id": "Sanctuary",
+            "name": "Sanctuaire",
+            "description": "<p>Vous protégez une créature grâce à une énergie protectrice qui détourne les attaques ennemies. Les créatures qui tentent d’attaquer la cible doivent effectuer un jet de Volonté à chaque fois. Si la cible utilise une action hostile, le sort se termine.</p>\n<p>\n<hr><b>Succès critique</b> Sanctuaire prend fin.</p>\n<p>\n<b> Succès </b> La créature peut tenter son attaque et n’importe quelle autre attaque contre la cible ce tour.</p>\n<p>\n<b> Échec </b> La créature ne peut pas attaquer la cible et perd son action. Elle ne peut plus tenter d’attaque contre la cible ce tour.</p>\n<p>\n<b> Échec critique </b> La créature perd son action et ne peut pas tenter d’attaquer la cible pour le reste de la durée de sanctuaire.</p>\n"
+        },
+        {
+            "id": "Summon Construct",
+            "name": "Convocation de créature artificielle",
+            "description": "<p> Vous conjurez une créature artificielle qui se bat pour vous. Cela fonctionne comme convocation d’animal, excepté que vous convoquez une créature ordinaire qui a le trait créature artificielle et dont le niveau est de −1.</p>\n<hr>\n<p><strong>Intensifié. (2e)</strong> Niveau 1</p>\n<p><strong>Intensifié. (3e)</strong> Niveau 2</p>\n<p><strong>Intensifié. (4e)</strong> Niveau 3</p>\n<p><strong>Intensifié. (5e)</strong> Niveau 5</p>\n<p><strong>Intensifié. (6e)</strong> Niveau 7</p>\n<p><strong>Intensifié. (7e)</strong> Niveau 9</p>\n<p><strong>Intensifié. (8e)</strong> Niveau 11</p>\n<p><strong>Intensifié. (9e)</strong> Niveau 13</p>\n<p><strong>Intensifié. (10e)</strong> Niveau 15</p>\n"
+        },
+        {
             "id": "Acid Splash",
             "name": "Aspersion d’acide",
             "description": "<p>Vous envoyez un globe d’acide qui éclabousse les créatures et les objets. Faites une attaque de sort. Si vous touchez, vous infligez 1d6 dégâts d’acide plus 1 dégât d’acide d’éclaboussure. Sur un succès critique, la cible reçoit aussi 1 dégât d’acide persistant.</p>\n<hr style=\"color: #0f0f0f; font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif; font-size: 15px; background-color: #ededed;\">\n<p><strong>Intensifié  (3e)</strong>&nbsp; Les dégâts initiaux passent à 1d6 + votre modificateur de caractéristique d’incantation et les dégâts persistants passent à 2.@JournalEntry[Persistent Damage] increases to 2.<br><strong> Intensifié  (5e)</strong>&nbsp; Les dégâts initiaux passent à 2d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 3 et les dégâts d’éclaboussure passent à 2., the @JournalEntry[Persistent Damage] increases to 3, and the splash damage increases to 2.<br><strong> Intensifié  (7e)</strong>&nbsp; Les dégâts initiaux passent à 3d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 4 et les dégâts d’éclaboussure passent à 3, the @JournalEntry[Persistent Damage] increases to 4, and the splash damage increases to 3.<br><strong> Intensifié  (9e)</strong>&nbsp; Les dégâts initiaux passent à 4d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 5 et les dégâts d’éclaboussure passent à 4, the @JournalEntry[Persistent Damage] increases to 5, and the splash damage increases to 4.</p>\n"
+        },
+        {
+            "id": "Produce Flame",
+            "name": "Flammes",
+            "description": "<p>Une petite boule de flamme apparaît dans la paume de votre main et vous vous en servez pour vous battre au corps à corps ou à distance. Faites un jet d’attaque de sort contre la CA de la cible. C’est normalement une attaque à distance mais vous pouvez également faire une attaque au corps à corps contre une créature à portée de votre allonge à mains nues.</p>\n<p>En cas de succès, vous infligez 1d4 dégâts de feu plus votre modificateur de caractéristique d’incantation. En cas de succès critique, la cible subit le double des dégâts et 1d4 dégâts de feu persistants.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong>&nbsp; ugmentez les dégâts de 1d4 et les dégâts persistants @JournalEntry[Persistent Damage]en cas de succès critique de 1d4.</p>\n"
+        },
+        {
+            "id": "Protection",
+            "name": "Protection",
+            "description": "<p> Vous protégez une créature contre un alignement spécifique. Choisissez entre chaotique, mauvais, bon ou loyal quand vous lancez ce sort. La cible gagne un bonus de statut de +1 à la Classe d’armure et aux jets de sauvegarde contre les créatures et effets de l’alignement choisi. Ce bonus passe à +3 contre les effets produits par ces créatures lorsqu’elles tentent de contrôler directement la cible, ainsi que contre les attaques des créatures convoquées de l’alignement choisi. </p>\n<p> Ce sort gagne le trait opposé à l’alignement choisi — si vous choisissez chaotique, ce sort gagne le trait loyal, et vice versa ; si vous choisissez mauvais, il gagne le trait bon, et vice versa.</p>\n"
+        },
+        {
+            "id": "Mage Hand",
+            "name": "Manipulation à distance",
+            "description": "<p>Vous créez une main magique, invisible ou fantomatique, qui saisit l’objet ciblé et le déplace lentement jusqu’à 6 m. Étant donné que l’objet lévite, vous pouvez le déplacer dans n’importe quelle direction. Vous pouvez déplacer l’objet de 6 m à chaque fois que vous Maintenez le sort. L’objet chute s’il est en lévitation lorsque le sort se termine.</p>\n<hr>\n<p><strong>Intensifié (3e)</strong> Vous pouvez cibler un objet non porté d’Encombrement 1 ou moins.</p>\n<p><strong>Intensifié (5e)</strong> La portée passe à 18 m et vous pouvez cibler un objet non porté d’Encombrement 1 ou moins.</p>\n<p><strong>Intensifié (7e)</strong> La portée passe à 18 m et vous pouvez cibler un objet non porté d’Encombrement 2 ou moins.</p>\n"
+        },
+        {
+            "id": "Unseen Servant",
+            "name": "Serviteur invisible",
+            "description": "<p>Vous convoquez un serviteur invisible (voir encadré), que vous pouvez commander dans le cadre d’un Maintien de sort. Il vous sert jusqu’à ce que ses points de vie soient réduits à 0, moment auquel le sort prend fin, ou jusqu’à ce que vous arrêtiez de Maintenir le sort. Le servant invisible gagne le trait convoqué.</p>\n<p><strong> Serviteur invisible </strong> [Creature] [-1] [No Alignment] [Medium]</p>\n<hr>\n<p><strong>CA</strong> 13, <strong>Vig</strong> +0, <strong>Ref</strong> +4, <strong>Vol</strong> +0 <strong>PV</strong> 4;</p>\n<p><strong> Immunités </strong> attaques non magiques, inconscient, maladie, mental, paralysie, poison, précision @JournalEntry[Unconscious];</p>\n<p><strong> Résistances </strong> tous les dégâts 5 (sauf de force ou spectraux) </p>\n<p><strong>Vitesse</strong> vol 9 m </p>\n<p><strong>Force Body</strong> Le corps d’un serviteur invisible est fait de force. Il ne peut pas utiliser d’action d’attaque. Il peut se déplacer et utiliser des actions Interagir pour effectuer des choses telles que rapporter des objets, ouvrir des portes non bloquées ou non verrouillées, Il ne peut pas passer à travers les objets solides.</p>"
         },
         {
             "id": "Detect Magic",
@@ -37,9 +112,94 @@
             "description": "<p>Vous envoyez une pulsation qui détecte la présence de magie. Vous ne recevez aucune information autre que l’absence ou la présence de magie. Vous pouvez ignorer la magie dont vous avez déjà connaissance, comme celle issue d’objets magiques et de sorts actifs appartenant à vos alliés et vous.</p>\n<p>Vous détectez la magie d’illusion uniquement si son niveau est inférieur à celui de votre &nbsp;detect magic&nbsp;spell. Cependant, un objet qui possède une aura d’illusion, mais n’a pas une apparence trompeuse (comme une &nbsp;invisibility potion) se détecte normalement.</p>\n<hr style=\"color: #0f0f0f; font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif; font-size: 15px; background-color: #ededed;\">\n<p><strong>Intensifié (3e)</strong>&nbsp; Vous apprenez l’école de magie de l’effet de sort de plus haut niveau à portée que votre sort détecte. S’il y a plusieurs effets de même niveau, c’est au MJ de décider lequel vous révèle cela.<br style=\"color: #0f0f0f; font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif; font-size: 15px; background-color: #ededed;\"><strong>Intensifié (4e)</strong> Comme pour le niveau 3, mais vous identifiez aussi la source de la magie de plus haut niveau. Comme avec un sens imprécis, vous ne découvrez pas l’emplacement exact de la magie, mais vous réduisez son emplacement possible à un cube de 1,5 m de côté (ou le plus proche possible si elle tient plus de place). </p>\n"
         },
         {
+            "id": "Create Water",
+            "name": "Création d'eau",
+            "description": "<p>De l’eau jaillit de vos mains en coupe. Vous créez 7,5 L d’eau. Si personne ne la boit, elle s’évapore après 1 jour.</p>"
+        },
+        {
+            "id": "Disrupt Undead",
+            "name": "Destruction de mort-vivant",
+            "description": "<p> Vous transpercez la cible de votre énergie. Vous lui infligez 1d6 dégâts positifs plus votre modificateur de caractéristique d’incantation. La cible doit faire un jet de Vigueur basique. En cas d’échec critique, elle est également étourdie@JournalEntry[Enfeebled] 1 pendant 1 round..</p>\n<hr>\n<p><strong> Intensifié (+1)</strong>&nbsp; Les dégâts augmentent de 1d6.</p>\n"
+        },
+        {
+            "id": "Ray of Frost",
+            "name": "Rayon de givre",
+            "description": "<p>Vous projetez un rayon de froid glacial. Effectuez un jet d’attaque de sort. Le rayon inflige des dégâts de froid d’un montant égal à 1d4 + votre modificateur de caractéristique d’incantation.</p>\n<hr>\n<p><strong>Succès critique</strong>&nbsp; La cible subit le double des dégâts et un malus de\nstatut de −3 m à ses Vitesses pendant 1 round.<br><strong>Succès.&nbsp;</strong>La cible reçoit les dégâts normaux.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong>&nbsp; Les dégâts augmentent de 1d4.</p>\n"
+        },
+        {
+            "id": "Lock",
+            "name": "Verrouillage",
+            "description": "<p>Le mécanisme de verrouillage de la cible se verrouille et des entraves magiques invisibles le maintiennent fermement verrouillé. Quand vous verrouillez par magie une cible, vous déterminez le DD d’Athlétisme ou de Vol pour l’ouvrir qui est égal à votre DD des sorts ou au DD de base du verrou (le plus élevé des deux), avec un bonus de statut de +4. L’éventuelle clef ou combinaison qui permet d’ouvrir un verrou affecté par ce sort ne fonctionne plus pendant toute la durée du sort, mais elles confèrent un bonus de circonstances de +4 aux tests effectués pour ouvrir la cible.</p>\n<p>Le sort se termine si la cible est ouverte. En supposant que la cible n’est pas barrée ou verrouillée par un dispositif supplémentaire, vous pouvez la déverrouiller et l’ouvrir avec une action Interagir pendant laquelle vous touchez la cible. Ceci ne met pas fin au sort. Vous pouvez Révoquer ce sort quand vous le souhaitez à n’importe quelle distance.</p>\n<hr>\n<p><strong>Intensifié (2e)</strong> La durée passe à illimitée mais vous devez dépenser pour cela de la poussière d’or d’une valeur de 6 po.</p>\n"
+        },
+        {
             "id": "Telekinetic Projectile",
             "name": "Projectile télékinésique",
             "description": "<p>Vous lancez à la cible un objet mal fixé non porté qui se trouve à portée et qui a un Encombrement de 1 ou inférieur. Faites une attaque de sort contre la cible. Si vous touchez, vous infligez un montant de dégâts contondants, perforants ou tranchants − tels qu’appropriés pour l’objet que vous lancez − égal à 1d6 plus votre modificateur de caractéristique d’incantation. Aucun trait spécifique ou propriété magique de l’objet lancé n’affecte l’attaque ou les dégâts.</p>\n<p><strong>Succès critique.</strong>  Vous infligez le double de dégâts.</p>\n<p><strong> Succès<strong> Vous infligez la totalité des dégâts.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d6.</p>\n"
+        },
+        {
+            "id": "Light",
+            "name": "Lumière",
+            "description": "<p>L’objet luit en émettant une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà), comme une torche. Si vous lancez ce sort une nouvelle fois sur un deuxième objet, le sort lumière sur le premier prend fin.</p>\n<hr>\n<p><strong>Intensifié (4e)</strong>&nbsp; L’objet émet une lumière vive dans un rayon de 18 m (et une lumière faible dans les 18 m au-delà).</p>"
+        },
+        {
+            "id": "Mage Armor",
+            "name": "Armure du mage",
+            "description": "<p>Vous vous entourez d’énergie magique scintillante qui vous confère un bonus d’objet de +1 à la CA et un modificateur de Dextérité maximum de +5. Tant que vous portez l’armure du mage, vous utilisez votre maîtrise sans armure pour calculer votre CA.</p>\n<hr>\n<p><strong>Intensifié (4e)</strong> Vous bénéficiez d’un bonus d’objet de +1 aux jets de sauvegarde.</p>\n<p><strong>Intensifié (6e)</strong> Le bonus d’objet à la CA passe à +2 et vous bénéficiez d’un bonus d’objet de +1 aux jets de sauvegarde.</p>\n<p><strong>Intensifié (8e)</strong> Le bonus d’objet à la CA passe à +2 et vous bénéficiez d’un bonus d’objet de +2 aux jets de sauvegarde.</p>\n<p><strong>Intensifié (10e)</strong> Le bonus d’objet à la CA passe à +3 et vous bénéficiez\nd’un bonus d’objet de +3 aux jets de sauvegarde.</p>\n"
+        },
+        {
+            "id": "Air Bubble",
+            "name": "Bulle d'air",
+            "description": "<p>Une bulle d’air pur apparaît autour de la tête de la cible et lui permet de respirer normalement. L’effet se termine dès que la cible retourne dans un environnement où elle peut respirer normalement.</p>\n"
+        },
+        {
+            "id": "Grease",
+            "name": "Graisse",
+            "description": "<p>Vous faites apparaître de la graisse dont les effets dépendent de la zone ou de la cible désignée.</p>\n<ul>\n<li><strong>Zone</strong> <strong>[4 contiguous 5-foot squares]</strong> l’ensemble du sol compact dans la zone est recouvert de\ngraisse. Chaque créature sur la surface recouverte de graisse doit réussir un jet de Réflexes ou un test d’Acrobaties contre votre DD des sorts ou tomber à terre.@JournalEntry[Prone]. Les créatures qui font une action pour se déplacer sur la surface graisseuse pendant la durée du sort doivent chacune réussir un jet de Réflexes ou un test d’Acrobaties pour Garder l’équilibre. Une créature qui Fait un pas ou Rampe n’a pas à faire de test ou de jet de sauvegarde.</li>\n<li><strong>Cible.</strong> <strong>[1 object of Bulk 1 or less]</strong> Si vous lancez le sort sur un objet non porté, quiconque tente de s’en emparer doit réussir un test d’Acrobaties ou un jet de Réflexes contre votre DD des sorts pour y parvenir. Si vous ciblez un objet porté par une créature, celle-ci doit faire un test d’Acrobaties ou un jet de Réflexes. En cas d’échec, la créature qui tient l’objet subit un malus de circonstances de −2 à tous ses tests où l’objet est utilisé ; elle le lâche en cas d’échec critique. L’objet tombe sur une case adjacente déterminée par le MJ. Si vous lancez ce sort sur un objet revêtu, son porteur bénéficie d’un bonus de circonstances de +2 aux jets de Vigueur contre les tentatives pour le saisir.</li>\n</ul>"
+        },
+        {
+            "id": "Burning Hands",
+            "name": "Mains brûlantes",
+            "description": "<p>Des jets de flammes jaillissent de vos mains. Vous infligez 2d6 dégâts de feu aux créatures de la zone.</p>\n<hr>\n<p><strong> Intensifié (+1)</strong> Les dégâts augmentent de 2d6.</p>"
+        },
+        {
+            "id": "Alarm",
+            "name": "Alarme",
+            "description": "<p>Vous placez des protections sur une zone pour être alerté dès qu’une créature y pénètre sans votre permission. Choisissez un mot de passe lorsque vous lancez alarme. Quand une créature tangible de Petite taille ou plus grande entre dans la zone du sort sans prononcer le mot de passe, alarme envoie selon votre préférence une alerte mentale (le sort gagne alors le trait mental) ou audible, avec le son et le volume sonore d’une clochette (le sort gagne alors le trait audible). Les deux options vous réveillent automatiquement. La clochette permet aux autres créatures de la zone de faire un test de Perception DD 15 pour se réveiller. Une créature qui repère alarme doit réussir un test de Discrétion contre le DD du sort, sinon elle déclenche le sort dès qu’elle se déplace dans sa zone.</p>\n<hr>\n<p><strong>Intensifié (3e)</strong> Vous pouvez définir des critères de déclenchement d’alarme, par exemple des orcs ou des gens masqués.</p>\n"
+        },
+        {
+            "id": "Read Aura",
+            "name": "Lecture de l'aura",
+            "description": "<p>Vous vous concentrez sur l’objet ciblé en ouvrant votre esprit pour percevoir les auras magiques. Une fois l’incantation terminée, vous savez si un objet est magique ou non. S’il l’est, vous découvrez l’école de magie (pages 297 et 298).</p>\n<p>Si l’objet est une illusion, vous la détectez uniquement si le niveau de l’effet est inférieur au niveau de votre sort lecture de l’aura.</p>\n<hr>\n<p><strong>Intensifié (3e)</strong>&nbsp;You Vous pouvez cibler jusqu’à 10 objets.<br><strong>Intensifié (6e)</strong>&nbsp;You Vous pouvez cibler un nombre quelconque d’objets</p>\n"
+        },
+        {
+            "id": "Forbidding Ward",
+            "name": "Sceau d'interdiction",
+            "description": "<p> Vous protégez un allié contre les attaques et les sorts hostiles de la cible ennemie. La cible alliée gagne un bonus de statut de +1 à la CA et aux jets de sauvegarde contre les attaques, les sorts et autres effets de la cible ennemie. </p>\n<hr>\n<p><strong> Intensifié (6e)</strong> Le bonus de statut passe à +2.</p>\n"
+        },
+        {
+            "id": "Message",
+            "name": "Message",
+            "description": "<p> Vous murmurez tout bas des mots mais ceux-ci sont directement transférés vers les oreilles de la cible au lieu de sortir de votre bouche. La cible peut entendre distinctement vos paroles comme si vous vous les prononciez à côté d’elle, mais les autres éprouvent les difficultés normales à entendre des paroles murmurées tout bas..</p>\n<p> La cible peut répondre brièvement par une réaction ou par une action gratuite lors de son prochain tour si elle le souhaite, mais elle doit pouvoir vous voir et se trouver à portée de votre sort. Si elle répond, sa réponse est transférée directement dans vos oreilles, exactement comme le message initial. </p>\n<hr>\n<p><strong> Intensifié (3e)</strong> La portée du sort passe à 150 m.</p>\n"
+        },
+        {
+            "id": "Know Direction",
+            "name": "Repérage",
+            "description": "<p>Vous visualisez mentalement un chemin qui part vers le nord. Vous savez immédiatement dans quelle direction se trouve le nord (si ce point cardinal existe là où vous vous trouvez).</p>\n<hr>\n<p><strong>Intensifié (7e)</strong>&nbsp; Vous pouvez, à la place, connaître la direction d’un endroit familier, tel que votre dernière demeure ou une taverne que vous appréciez.</p>\n"
+        },
+        {
+            "id": "Tanglefoot",
+            "name": "Entrave",
+            "description": "<p>Une liane couverte de sève collante apparaît comme par magie, sortant rapidement de votre main, et s’arrime à la cible. Faites une attaque de sort contre la cible.</p>\n<hr>\n<p><strong>Succès critique</strong>&nbsp; La cible gagne l’état immobilisé@JournalEntry[Immobilized] et subit un malus de circonstances de −3 m à ses Vitesses pendant 1 round. Elle peut tenter de S’échapper contre votre DD de sorts pour retirer le malus et l’état immobilisé @JournalEntry[Immobilized].<br><strong>Succès.&nbsp;</strong>La cible subit un malus de circonstances de −3 m à ses Vitesses pendant 1 round. Elle peut tenter de S’échapper contre votre DD de sorts pour retirer le malus.<br><strong>Échec.&nbsp;</strong>The target is unaffected.</p>\n<hr>\n<p><strong>Intensifié (2e)</strong>&nbsp; Les effets durent 2 rounds<br><strong>Intensifié (4e)</strong>&nbsp; Les effets durent 1 min.</p>\n"
+        },
+        {
+            "id": "Guidance",
+            "name": "Assistance divine",
+            "description": "<p>Vous sollicitez une assistance divine, ce qui confère à la cible un bonus de statut de +1 à un jet d’attaque, un test de Perception, un jet de sauvegarde ou un test de compétence effectué avant la fin de la durée du sort. La cible choisit sur quel jet elle souhaite appliquer le bonus avant de lancer le dé. Le sort se termine si la cible utilise le bonus. Qu’elle l’utilise ou non, la cible est ensuite temporairement immunisée pendant une heure.</p>\n"
+        },
+        {
+            "id": "Summon Animal",
+            "name": "Convocation d'animal",
+            "description": "<p>Vous conjurez un animal qui se bat pour vous. Vous convoquez une créature ordinaire qui a le trait animal et dont le niveau est de −1. Intensifier le sort augmente le niveau maximum de la créature que vous convoquez.</p>\n<hr>\n<p><strong>Intensifié (2e)</strong> Niveau1</p>\n<p><strong>Intensifié (3e)</strong> Niveau2</p>\n<p><strong>Intensifié (4e)</strong> Niveau3</p>\n<p><strong>Intensifié (5e)</strong> Niveau5</p>\n<p><strong>Intensifié (6e)</strong> Niveau7</p>\n<p><strong>Intensifié (7e)</strong> Niveau9</p>\n<p><strong>Intensifié (8e)</strong> Niveau11</p>\n<p><strong>Intensifié (9e)</strong> Niveau13</p>\n<p><strong>Intensifié (10e)</strong> Niveau15</p>"
         }
     ]
 }

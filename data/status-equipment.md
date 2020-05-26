@@ -1,9 +1,9 @@
 # État de la traduction (equipment)
 
- * **aucune**: 1460
+ * **aucune**: 1477
 
 
-Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
@@ -142,6 +142,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[5j5KyZsGOfbrJNUZ.htm](equipment/5j5KyZsGOfbrJNUZ.htm)|Ladder (10-foot)|
 |[5KYn9J1Hj4IG3Z0X.htm](equipment/5KYn9J1Hj4IG3Z0X.htm)|Snapleaf|
 |[5O6c2yFZVSXsIOYN.htm](equipment/5O6c2yFZVSXsIOYN.htm)|Filcher's Fork (+1 Striking)|
+|[5Q5MfHX43Sjm8C6Z.htm](equipment/5Q5MfHX43Sjm8C6Z.htm)|Final Blade|
 |[5Qkz4RVJr2Kx3RL6.htm](equipment/5Qkz4RVJr2Kx3RL6.htm)|Tanglefoot Bag (Greater)|
 |[5RGNjhDxZ0yMhTds.htm](equipment/5RGNjhDxZ0yMhTds.htm)|Hunting Spider Venom|
 |[5rkGXSbaqBbY4MiR.htm](equipment/5rkGXSbaqBbY4MiR.htm)|Scholarly Journal Compendium|
@@ -195,6 +196,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[7iVFlnr2ZbBdtOx8.htm](equipment/7iVFlnr2ZbBdtOx8.htm)|Pearl, saltwater|
 |[7JVgLiNTAs4clEW8.htm](equipment/7JVgLiNTAs4clEW8.htm)|Alchemist Goggles|
 |[7K7Fb2HFGH9jgJty.htm](equipment/7K7Fb2HFGH9jgJty.htm)|Polytool (+1 Striking)|
+|[7MTjAlCVVLsNFo7w.htm](equipment/7MTjAlCVVLsNFo7w.htm)|Third Eye|
 |[7OuVXvNRbNoKzDSy.htm](equipment/7OuVXvNRbNoKzDSy.htm)|Diamond, large|
 |[7p3C9xf3XgUbvKHL.htm](equipment/7p3C9xf3XgUbvKHL.htm)|Frenzy Oil|
 |[7p9Bexd55vXlU7su.htm](equipment/7p9Bexd55vXlU7su.htm)|Kukri (+1)|
@@ -288,6 +290,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[aKoMqPDmVzPI7Q20.htm](equipment/aKoMqPDmVzPI7Q20.htm)|Winged Boots|
 |[aLA7pikfeNIAAGLw.htm](equipment/aLA7pikfeNIAAGLw.htm)|Impenetrable Scale|
 |[AmxSqEoFhRLMYd1W.htm](equipment/AmxSqEoFhRLMYd1W.htm)|Elixir of Life (Major)|
+|[ANvbi1zKF1So8bON.htm](equipment/ANvbi1zKF1So8bON.htm)|Sky Hammer|
 |[AnwzlOs0njF9Jqnr.htm](equipment/AnwzlOs0njF9Jqnr.htm)|Hide|
 |[ANzB9WzlGQXDn76G.htm](equipment/ANzB9WzlGQXDn76G.htm)|Antidote (Major)|
 |[aPD0z9dBsHqgiCW0.htm](equipment/aPD0z9dBsHqgiCW0.htm)|Reforging Shield|
@@ -672,6 +675,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[IufO3dNPhC1c2ZcL.htm](equipment/IufO3dNPhC1c2ZcL.htm)|Necklace of Fireballs III|
 |[IuGydh0En8LbfnWo.htm](equipment/IuGydh0En8LbfnWo.htm)|Thunderstone (Major)|
 |[iUOcC9vFboSFI8fU.htm](equipment/iUOcC9vFboSFI8fU.htm)|False Death|
+|[Ivqd84dkWA8DW8YJ.htm](equipment/Ivqd84dkWA8DW8YJ.htm)|Ring of Spell Turning|
 |[iWcw1sFLAzByVLBP.htm](equipment/iWcw1sFLAzByVLBP.htm)|Main-Gauche|
 |[Ix2vicchE79d6Cl3.htm](equipment/Ix2vicchE79d6Cl3.htm)|Gauntlet|
 |[iz7Mv2xGwqyicNiA.htm](equipment/iz7Mv2xGwqyicNiA.htm)|Quality painting by an unknown|
@@ -742,6 +746,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[KLWjINVkWwJlOZEX.htm](equipment/KLWjINVkWwJlOZEX.htm)|Triton's Conch|
 |[Km4lSOsyrip5q6iD.htm](equipment/Km4lSOsyrip5q6iD.htm)|Hampering Snare|
 |[KMqHzKfpPq5H8GOo.htm](equipment/KMqHzKfpPq5H8GOo.htm)|Wand of Continuation (8th-Level Spell)|
+|[Kmrkm1sHKkGXiJlr.htm](equipment/Kmrkm1sHKkGXiJlr.htm)|Torag's Silver Anvil|
 |[kNfdGNIGzF0fW7aq.htm](equipment/kNfdGNIGzF0fW7aq.htm)|Wand of Widening (7th-Level Spell)|
 |[kNvo4FNaiQRnZfO7.htm](equipment/kNvo4FNaiQRnZfO7.htm)|Staff of Evocation (Major)|
 |[KnZL0xPWDzQx9vWQ.htm](equipment/KnZL0xPWDzQx9vWQ.htm)|Speed|
@@ -767,6 +772,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[L8OButuVM3PFxgrZ.htm](equipment/L8OButuVM3PFxgrZ.htm)|Orb of Dragonkind|
 |[L9ZV076913otGtiB.htm](equipment/L9ZV076913otGtiB.htm)|Rations|
 |[LA8wwpQBi6tylE6z.htm](equipment/LA8wwpQBi6tylE6z.htm)|Nunchaku|
+|[La9qYc5NHsg423Jb.htm](equipment/La9qYc5NHsg423Jb.htm)|Reflecting Shield|
 |[lasqzrPVEHI5MkQd.htm](equipment/lasqzrPVEHI5MkQd.htm)|Bomber's Eye Elixir (Greater)|
 |[laXnb43oznxeSLT9.htm](equipment/laXnb43oznxeSLT9.htm)|Previously lost volume from a legendary author|
 |[Lb7F2BR9X9TF1vjX.htm](equipment/Lb7F2BR9X9TF1vjX.htm)|Thundering (Greater)|
@@ -873,6 +879,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[NEbr7nKuiluJgBHT.htm](equipment/NEbr7nKuiluJgBHT.htm)|Lich Phylactery|
 |[ngz7dYysC1NkBBRK.htm](equipment/ngz7dYysC1NkBBRK.htm)|Gloves of Storing|
 |[NI7twU2G6UCDmvCO.htm](equipment/NI7twU2G6UCDmvCO.htm)|Shining Ammunition|
+|[nI9shR1EG3P09I8r.htm](equipment/nI9shR1EG3P09I8r.htm)|Staff of the Magi|
 |[nIlx1IQhYJfQtpVF.htm](equipment/nIlx1IQhYJfQtpVF.htm)|Alabaster|
 |[NIsxR5zXtVa3PuyU.htm](equipment/NIsxR5zXtVa3PuyU.htm)|Temple Sword|
 |[NLcnptEjjiY9teq7.htm](equipment/NLcnptEjjiY9teq7.htm)|Intricate silver and gold music box|
@@ -908,6 +915,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[O40xD4XXYLrn7Ind.htm](equipment/O40xD4XXYLrn7Ind.htm)|Light Hammer (+1)|
 |[O7IZBvVoe7W2XnBa.htm](equipment/O7IZBvVoe7W2XnBa.htm)|Machete|
 |[o97aOxCMdituG00G.htm](equipment/o97aOxCMdituG00G.htm)|Throwing Knife (+1)|
+|[o9IErbpmItz9NZT3.htm](equipment/o9IErbpmItz9NZT3.htm)|Blackaxe|
 |[ObmYN6I64Pjj7yEA.htm](equipment/ObmYN6I64Pjj7yEA.htm)|Staff of Divination|
 |[oC4ZMEdBJ3ia4ALm.htm](equipment/oC4ZMEdBJ3ia4ALm.htm)|Cloak of Repute|
 |[OcBPjVplvy2GbQ8P.htm](equipment/OcBPjVplvy2GbQ8P.htm)|Comprehension Elixir (Greater)|
@@ -1038,6 +1046,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[Qs8RgNH6thRPv2jt.htm](equipment/Qs8RgNH6thRPv2jt.htm)|Magic Wand (8th-Level Spell)|
 |[QSQZJ5BC3DeHv153.htm](equipment/QSQZJ5BC3DeHv153.htm)|Scroll of 4th-level Spell|
 |[qUnDHEXteUQGE8yp.htm](equipment/qUnDHEXteUQGE8yp.htm)|Grievous|
+|[qvfO0jFIvIM8hReG.htm](equipment/qvfO0jFIvIM8hReG.htm)|Flying Blade Wheel Snare|
 |[qW2xIldLSFk7O9j3.htm](equipment/qW2xIldLSFk7O9j3.htm)|Orc Necksplitter (+1)|
 |[QWiXrqhSCkvdHbsi.htm](equipment/QWiXrqhSCkvdHbsi.htm)|Monkey's Paw|
 |[qx4Cq99vng6GhzEh.htm](equipment/qx4Cq99vng6GhzEh.htm)|Staff of Fire (Major)|
@@ -1122,6 +1131,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[siU0nYnCCQ1Os47S.htm](equipment/siU0nYnCCQ1Os47S.htm)|Bladed Hoop (+1)|
 |[sjxhPujyv6rJJRWO.htm](equipment/sjxhPujyv6rJJRWO.htm)|Viper's Fang|
 |[skBa6D1uxb0b2USn.htm](equipment/skBa6D1uxb0b2USn.htm)|Slippers of Spider Climbing|
+|[sKyJDfHdKacfbNOG.htm](equipment/sKyJDfHdKacfbNOG.htm)|Whisper of the First Lie|
 |[SLQgdLk5K9JV4ACF.htm](equipment/SLQgdLk5K9JV4ACF.htm)|Clothing (Winter)|
 |[sls3pfkhgCbW723f.htm](equipment/sls3pfkhgCbW723f.htm)|Coyote Cloak (Greater)|
 |[SmN0vRjkPaSaAJZt.htm](equipment/SmN0vRjkPaSaAJZt.htm)|Divine art piece created by Shelyn|
@@ -1133,6 +1143,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[SswqJqeAWGtX3tTF.htm](equipment/SswqJqeAWGtX3tTF.htm)|Hat of the Magi|
 |[StsE5POM7OSE36Ia.htm](equipment/StsE5POM7OSE36Ia.htm)|Iron Cube|
 |[su9YgCaUYT1clrD7.htm](equipment/su9YgCaUYT1clrD7.htm)|Machete (+1 Striking)|
+|[SUbYk6B1iPoGyyjh.htm](equipment/SUbYk6B1iPoGyyjh.htm)|Indestructible Shield|
 |[SV7W0lC2d8mfYuhy.htm](equipment/SV7W0lC2d8mfYuhy.htm)|Serrating|
 |[svhZ61CaSgatn5by.htm](equipment/svhZ61CaSgatn5by.htm)|Crystallized dragon heart|
 |[Sw7MBLASN3xK4Y44.htm](equipment/Sw7MBLASN3xK4Y44.htm)|Replacement Picks|
@@ -1221,6 +1232,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[uiJAR3jQbQHhiP3Q.htm](equipment/uiJAR3jQbQHhiP3Q.htm)|Cape of the Mountebank|
 |[Ujaoyu3WE6V7Y8Vg.htm](equipment/Ujaoyu3WE6V7Y8Vg.htm)|Rhodochrosite|
 |[UJWiN0K3jqVjxvKk.htm](equipment/UJWiN0K3jqVjxvKk.htm)|Magic Wand (1st-Level Spell)|
+|[ujWnpVMkbTljMGN9.htm](equipment/ujWnpVMkbTljMGN9.htm)|Fortification (Greater)|
 |[ukTlC4G83aVQEg7u.htm](equipment/ukTlC4G83aVQEg7u.htm)|Nectar of Purification|
 |[UKTlxqXv5f43byXP.htm](equipment/UKTlxqXv5f43byXP.htm)|Shortsword (+1)|
 |[UlIxxLm71UdRgCFE.htm](equipment/UlIxxLm71UdRgCFE.htm)|Flint and Steel|
@@ -1241,6 +1253,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[V2upqRKTOeYjJoWR.htm](equipment/V2upqRKTOeYjJoWR.htm)|Club|
 |[V4kbHwiODxwJOJga.htm](equipment/V4kbHwiODxwJOJga.htm)|Darkwood Shield (High-Grade)|
 |[V78itAtTHI4ugy0P.htm](equipment/V78itAtTHI4ugy0P.htm)|Chain (10 feet)|
+|[V9iVPhIk980GT6A2.htm](equipment/V9iVPhIk980GT6A2.htm)|Inexplicable Apparatus|
 |[VBCk7JXGsuG0cug1.htm](equipment/VBCk7JXGsuG0cug1.htm)|Thurible of Revelation (Greater)|
 |[VBSW66ridtoE4MtR.htm](equipment/VBSW66ridtoE4MtR.htm)|Staff (+1 Striking)|
 |[vDgDrbSoGuiUIz2R.htm](equipment/vDgDrbSoGuiUIz2R.htm)|Potion of Acid Resistance (Greater)|
@@ -1270,6 +1283,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[vXLZfi5iCSKb96tW.htm](equipment/vXLZfi5iCSKb96tW.htm)|Bronze Dragon's Breath Potion (Adult)|
 |[Vy3z2cIQ8uJRUMYw.htm](equipment/Vy3z2cIQ8uJRUMYw.htm)|Refined Pesh|
 |[vz35Kb19MmskZxuu.htm](equipment/vz35Kb19MmskZxuu.htm)|Sawtooth Saber (+1 Striking)|
+|[vZaXDOrp5Faxw5fS.htm](equipment/vZaXDOrp5Faxw5fS.htm)|Possibility Tome|
 |[VZmUrseCZs9xMaxt.htm](equipment/VZmUrseCZs9xMaxt.htm)|Potion of Cold Resistance (Greater)|
 |[w2ENw2VMPcsbif8g.htm](equipment/w2ENw2VMPcsbif8g.htm)|Arrows|
 |[w2RzuszEall2mdia.htm](equipment/w2RzuszEall2mdia.htm)|Fauchard (+1 Striking)|
@@ -1285,6 +1299,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[wBoGy4DfKHAvqAko.htm](equipment/wBoGy4DfKHAvqAko.htm)|Spinel, red or green|
 |[Wc9og4mTKZDH3xmz.htm](equipment/Wc9og4mTKZDH3xmz.htm)|Tent (Pup)|
 |[WcuknnE3xYfSdbhm.htm](equipment/WcuknnE3xYfSdbhm.htm)|Animal Staff|
+|[WCWdJmR5tYO7Aulb.htm](equipment/WCWdJmR5tYO7Aulb.htm)|Mattock of the Titans|
 |[WDh4fb9N86mNLfDV.htm](equipment/WDh4fb9N86mNLfDV.htm)|Spined Shield|
 |[wDhqRxuXPQfyD0eX.htm](equipment/wDhqRxuXPQfyD0eX.htm)|Javelin of Lightning|
 |[WearPqN56FQofpF6.htm](equipment/WearPqN56FQofpF6.htm)|Spellstrike Ammunition (Type VII)|
@@ -1296,6 +1311,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[WKdI4LbwgcNHhMdp.htm](equipment/WKdI4LbwgcNHhMdp.htm)|Crystal Ball (Obsidian)|
 |[WKdmAhoji9Y9RC7D.htm](equipment/WKdmAhoji9Y9RC7D.htm)|Marvelous Calliope|
 |[Wkh5rQx3IqInEKdT.htm](equipment/Wkh5rQx3IqInEKdT.htm)|Robe of the Archmagi|
+|[Wkm2VYPsfGjWBtQe.htm](equipment/Wkm2VYPsfGjWBtQe.htm)|Ring of Manical Devices (Greater)|
 |[wkzxLpSe7LN6c5Ld.htm](equipment/wkzxLpSe7LN6c5Ld.htm)|Sawtooth Saber|
 |[WL4O32qFifxnMj0H.htm](equipment/WL4O32qFifxnMj0H.htm)|Wyvern Poison|
 |[Wm0X7Pfd1bfocPSv.htm](equipment/Wm0X7Pfd1bfocPSv.htm)|Corrosive|
@@ -1344,6 +1360,7 @@ Dernière mise à jour: 2020-05-24 14:54 *(heure de Canada/Montréal)*
 |[Xnqglykl3Cif8rN9.htm](equipment/Xnqglykl3Cif8rN9.htm)|Thunderstone (Lesser)|
 |[XNu7hCXYMgrcRgEo.htm](equipment/XNu7hCXYMgrcRgEo.htm)|Light Mace (+1)|
 |[xpVHMxLcwgXzL39e.htm](equipment/xpVHMxLcwgXzL39e.htm)|Blue Dragon's Breath Potion (Young)|
+|[xqCz2vStMNJujfpp.htm](equipment/xqCz2vStMNJujfpp.htm)|Instant Evisceration Snare|
 |[xQf98bdGgE7UiBe4.htm](equipment/xQf98bdGgE7UiBe4.htm)|Staff of Conjuration (Greater)|
 |[xQS1MSqGQz44FWUh.htm](equipment/xQS1MSqGQz44FWUh.htm)|Black Lotus Extract|
 |[XQx6QIQY4sNGlFzY.htm](equipment/XQx6QIQY4sNGlFzY.htm)|Juggernaut Mutagen (Moderate)|
