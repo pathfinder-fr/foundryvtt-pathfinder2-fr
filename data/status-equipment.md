@@ -1,9 +1,9 @@
 # État de la traduction (equipment)
 
- * **aucune**: 1477
+ * **aucune**: 1489
 
 
-Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-28 19:53 *(heure de Canada/Montréal)*
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
@@ -13,12 +13,14 @@ Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 |[04giYigfDL5geu5f.htm](equipment/04giYigfDL5geu5f.htm)|Mistform Elixir (Greater)|
 |[07ZbZ50IIpnYBfUW.htm](equipment/07ZbZ50IIpnYBfUW.htm)|Light Pick (+1)|
 |[08f9MSriIN2hhLaB.htm](equipment/08f9MSriIN2hhLaB.htm)|Energy Mutagen (Moderate)|
+|[09iZbcSifVqwVpWh.htm](equipment/09iZbcSifVqwVpWh.htm)|Class Kit (Wizard)|
 |[0a83JBnhyPmzfBJK.htm](equipment/0a83JBnhyPmzfBJK.htm)|Khopesh (+1)|
 |[0aSdDSjJ5sMzBz1U.htm](equipment/0aSdDSjJ5sMzBz1U.htm)|Onyx Panther|
 |[0b6BUtoFD4DotZHR.htm](equipment/0b6BUtoFD4DotZHR.htm)|Gilded ceremonial armor|
 |[0c0Jjyajgt0VTKJj.htm](equipment/0c0Jjyajgt0VTKJj.htm)|Light Mace (+1 Striking)|
 |[0c7zLY9c88K2n0GC.htm](equipment/0c7zLY9c88K2n0GC.htm)|Pathfinder's Pouch|
 |[0CNSvLpeSM4aIfPJ.htm](equipment/0CNSvLpeSM4aIfPJ.htm)|Feather Step Stone|
+|[0f3l3Dq2xJek2UMZ.htm](equipment/0f3l3Dq2xJek2UMZ.htm)|Class Kit (Monk)|
 |[0GOHTXBxs6H6ARBz.htm](equipment/0GOHTXBxs6H6ARBz.htm)|Healer's Gloves (Greater)|
 |[0ivo1FwNwXiWUyAp.htm](equipment/0ivo1FwNwXiWUyAp.htm)|Halfling Sling Staff (+1 Striking)|
 |[0lCXehyFlXdYxDfA.htm](equipment/0lCXehyFlXdYxDfA.htm)|Bladed Diabolo|
@@ -259,6 +261,7 @@ Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 |[9Y86NM6nt2WtYBOy.htm](equipment/9Y86NM6nt2WtYBOy.htm)|Explorer's Yurt|
 |[9zdm3EyEQXgMox8b.htm](equipment/9zdm3EyEQXgMox8b.htm)|Divine Scroll Case of Simplicity|
 |[9ZGkQo739t9utj37.htm](equipment/9ZGkQo739t9utj37.htm)|Arrow-Catching Shield|
+|[A1gRqfmEx2zdhd6J.htm](equipment/A1gRqfmEx2zdhd6J.htm)|Class Kit (Bard)|
 |[a2XaerM1KkPyLIPM.htm](equipment/a2XaerM1KkPyLIPM.htm)|Stunning Snare|
 |[A4BhFOb4iQtJYYKq.htm](equipment/A4BhFOb4iQtJYYKq.htm)|Dragon's Eye Charm|
 |[a5dEzZPuxsmTvlWS.htm](equipment/a5dEzZPuxsmTvlWS.htm)|Greater Insistent Door Knocker|
@@ -271,6 +274,7 @@ Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 |[Ab8yDhtYDJnFrjI4.htm](equipment/Ab8yDhtYDJnFrjI4.htm)|Colorful velvet half mask|
 |[aBOPYlfHAcXUmhF7.htm](equipment/aBOPYlfHAcXUmhF7.htm)|Giant Wasp Venom|
 |[aBVrNIPoPGOYxm80.htm](equipment/aBVrNIPoPGOYxm80.htm)|Decanter of Endless Water|
+|[AbxSVrDbnHS0hU3S.htm](equipment/AbxSVrDbnHS0hU3S.htm)|Class Kit (Champion)|
 |[AbYyx61j1K4F27tC.htm](equipment/AbYyx61j1K4F27tC.htm)|Adamantine Buckler (High-Grade)|
 |[aD1XNOvkcJOJQg6H.htm](equipment/aD1XNOvkcJOJQg6H.htm)|Greatclub (+1 Striking)|
 |[AdJgj7vVvNGvPIEj.htm](equipment/AdJgj7vVvNGvPIEj.htm)|Mail of Luck|
@@ -471,6 +475,7 @@ Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 |[eCajM9kjLAZZRLrV.htm](equipment/eCajM9kjLAZZRLrV.htm)|Stone Body Mutagen (Moderate)|
 |[ecqz1iUGtyQEkZwy.htm](equipment/ecqz1iUGtyQEkZwy.htm)|Boots of Bounding|
 |[eDJkjkrvWoslS7j5.htm](equipment/eDJkjkrvWoslS7j5.htm)|Bastard Sword (+1 Striking)|
+|[edXxkkY3tgX7GLGI.htm](equipment/edXxkkY3tgX7GLGI.htm)|Class Kit (Sorcerer)|
 |[eEIWjTvZyKsKhYaz.htm](equipment/eEIWjTvZyKsKhYaz.htm)|Grim Trophy|
 |[EEJiqzU89Ofk7dr6.htm](equipment/EEJiqzU89Ofk7dr6.htm)|Salamander Elixir (Moderate)|
 |[eEnzHpPEbdGgRETM.htm](equipment/eEnzHpPEbdGgRETM.htm)|Vine Arrow|
@@ -509,6 +514,7 @@ Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 |[EYRrABqjUYPrhrZr.htm](equipment/EYRrABqjUYPrhrZr.htm)|Staff of Abjuration|
 |[ezVp13Uw8cWW08Da.htm](equipment/ezVp13Uw8cWW08Da.htm)|Wooden Shield|
 |[f1gwoTkf3Nn0v3PN.htm](equipment/f1gwoTkf3Nn0v3PN.htm)|Whip|
+|[f1l10jVFkdWqiXRB.htm](equipment/f1l10jVFkdWqiXRB.htm)|Class Kit (Cleric)|
 |[F4YgvB74p8kwif1t.htm](equipment/F4YgvB74p8kwif1t.htm)|Ceremonial shortsword with spinels|
 |[f8AI23xzAHyuU35m.htm](equipment/f8AI23xzAHyuU35m.htm)|Poisonous Cloak Type III|
 |[F8vrGctUqYIEkKOz.htm](equipment/F8vrGctUqYIEkKOz.htm)|Potion of Electricity Resistance (Greater)|
@@ -618,6 +624,7 @@ Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 |[HIxtCuH5YXNqit0W.htm](equipment/HIxtCuH5YXNqit0W.htm)|Tankard owned by Cayden Cailean|
 |[hJc0dOcHJ2nkJcik.htm](equipment/hJc0dOcHJ2nkJcik.htm)|Spinel, deep blue|
 |[hjfoSyfsGSTLpPMr.htm](equipment/hjfoSyfsGSTLpPMr.htm)|Headband of Inspired Wisdom|
+|[hkMG8iNdSgofrPve.htm](equipment/hkMG8iNdSgofrPve.htm)|Class Kit (Ranger)|
 |[HMdfNM7ibp1XtcVT.htm](equipment/HMdfNM7ibp1XtcVT.htm)|Platinum dragon statuette|
 |[hMIG86aqKcVYJGsg.htm](equipment/hMIG86aqKcVYJGsg.htm)|Emerald|
 |[hmmDa6LCS22dZT7P.htm](equipment/hmmDa6LCS22dZT7P.htm)|Clandestine Cloak|
@@ -818,6 +825,7 @@ Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 |[M8z72tZUYe7KPclQ.htm](equipment/M8z72tZUYe7KPclQ.htm)|Leather Armor|
 |[m99u0zXVbyPdK8Mf.htm](equipment/m99u0zXVbyPdK8Mf.htm)|Potion of Fire Resistance (Moderate)|
 |[mamIdMfPguGM8QV7.htm](equipment/mamIdMfPguGM8QV7.htm)|Weeping Midnight|
+|[MARsStNVQdc4DRCV.htm](equipment/MARsStNVQdc4DRCV.htm)|Class Kit (Rogue)|
 |[MBF9bZCwkJp2RZoN.htm](equipment/MBF9bZCwkJp2RZoN.htm)|Bountiful Cauldron|
 |[mBziC8v2eOtTs0f5.htm](equipment/mBziC8v2eOtTs0f5.htm)|Saddlebags|
 |[mcyNSO7FmlQ0vDLT.htm](equipment/mcyNSO7FmlQ0vDLT.htm)|Sawtooth Saber (+1)|
@@ -856,6 +864,7 @@ Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 |[mQtp7DJpq1ZE5xTT.htm](equipment/mQtp7DJpq1ZE5xTT.htm)|Aeon Stone (Black Pearl)|
 |[mRs24OwmGPjoIDvO.htm](equipment/mRs24OwmGPjoIDvO.htm)|Potion of Cold Resistance (Lesser)|
 |[mRz8Jmk4Q06SsZpC.htm](equipment/mRz8Jmk4Q06SsZpC.htm)|Everburning Torch|
+|[ms8FwuEvsUzwT8q0.htm](equipment/ms8FwuEvsUzwT8q0.htm)|Class Kit (Barbarian)|
 |[Mv2I6M70bagbaBPn.htm](equipment/Mv2I6M70bagbaBPn.htm)|Starknife|
 |[MVAWttmT0QDa7LsV.htm](equipment/MVAWttmT0QDa7LsV.htm)|Longbow|
 |[mvMeloQxSiEGIlhL.htm](equipment/mvMeloQxSiEGIlhL.htm)|Coyote Cloak|
@@ -1027,6 +1036,7 @@ Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 |[qFkhYAeCxYci8jgk.htm](equipment/qFkhYAeCxYci8jgk.htm)|Amber|
 |[qgKOCdtdybxwmiEv.htm](equipment/qgKOCdtdybxwmiEv.htm)|Chrysoberyl symbol of an evil eye|
 |[QGXNqpP5KvSldoZz.htm](equipment/QGXNqpP5KvSldoZz.htm)|Giant Scorpion Venom|
+|[qHVFOTVFHEK662E0.htm](equipment/qHVFOTVFHEK662E0.htm)|Class Kit (Druid)|
 |[QImdOdyolrMWwuxD.htm](equipment/QImdOdyolrMWwuxD.htm)|Gorgon's Breath|
 |[QJ1PhbtbLzwhRlY0.htm](equipment/QJ1PhbtbLzwhRlY0.htm)|Dancing Scarf (Greater)|
 |[QJb8S927Yj81EgHH.htm](equipment/QJb8S927Yj81EgHH.htm)|Writing Set|
@@ -1065,6 +1075,7 @@ Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 |[RCQ4DzDh34ZBiTxI.htm](equipment/RCQ4DzDh34ZBiTxI.htm)|Staff of Evocation (Greater)|
 |[RcQ4ZIzRK2xLf4G5.htm](equipment/RcQ4ZIzRK2xLf4G5.htm)|Sleep Arrow|
 |[rdF2RKgFK0vOlaeV.htm](equipment/rdF2RKgFK0vOlaeV.htm)|Knapsack of Halflingkind|
+|[rdHcMXw4DMOL8IYu.htm](equipment/rdHcMXw4DMOL8IYu.htm)|Class Kit (Alchemist)|
 |[rfP9e1fnwjnIQSJK.htm](equipment/rfP9e1fnwjnIQSJK.htm)|Fire Poi|
 |[rfyWXgrVD2lm91CC.htm](equipment/rfyWXgrVD2lm91CC.htm)|Blue Dragonfly Poison|
 |[RgNBGpBc9G2yw1C2.htm](equipment/RgNBGpBc9G2yw1C2.htm)|Crafter's Eyepiece|
@@ -1397,6 +1408,7 @@ Dernière mise à jour: 2020-05-26 17:45 *(heure de Canada/Montréal)*
 |[YcvSw7Zn3oyqlJaw.htm](equipment/YcvSw7Zn3oyqlJaw.htm)|Stone Fist Elixir|
 |[yd3kEK21YknZLlcT.htm](equipment/yd3kEK21YknZLlcT.htm)|Alchemist's Fire (Lesser)|
 |[ydNocKN6afzIyVh6.htm](equipment/ydNocKN6afzIyVh6.htm)|Floating Shield|
+|[yE959HPiyGw9FxAM.htm](equipment/yE959HPiyGw9FxAM.htm)|Class Kit (Fighter)|
 |[YeMi3otmwQ34W2we.htm](equipment/YeMi3otmwQ34W2we.htm)|Iron cauldron with gargoyle faces|
 |[YeUAY0Xgg8kxHy1u.htm](equipment/YeUAY0Xgg8kxHy1u.htm)|Bladed Scarf (+1 Striking)|
 |[Yew9oddFsH0KeDLh.htm](equipment/Yew9oddFsH0KeDLh.htm)|Hunter's Bane|

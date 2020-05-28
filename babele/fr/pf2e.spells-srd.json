@@ -22,6 +22,11 @@
             "description": "<p>Vous élevez un bouclier de force magique. Cela compte comme si vous utilisiez Lever un bouclier, vous octroyant un bonus de circonstances de +1 à la CA jusqu’au début de votre prochain tour, mais cela ne nécessite aucune main pour l’utiliser.</p>\n<p>Tant que le sort est actif, vous pouvez utiliser la réaction Blocage au bouclier avec votre bouclier magique (voir l’encadré). Le bouclier a une Solidité de 5. Après avoir utilisé Blocage au bouclier, le sort prend fin et vous ne pouvez pas le lancer de nouveau avant 10 minutes. Contrairement à un Blocage au bouclier normal, vous pouvez utiliser la réaction du sort contre le sort projectile magique.</p>\n<p>Intensifier le sort augmente la Solidité du bouclier.</p>\n<hr>\n<p><strong>Intensifié (3e)</strong> Le bouclier a une Solidité de 10.</p>\n<p><strong>Intensifié (5e)</strong> Le bouclier a une Solidité de15.</p>\n<p><strong>Intensifié (7e)</strong> Le bouclier a une Solidité de20.</p>\n<p><strong> Intensifié (9e)</strong> Le bouclier a une Solidité de 25.</p>\n"
         },
         {
+            "id": "Bane",
+            "name": "Imprécation",
+            "description": "<p>Vous semez le doute dans l’esprit de vos ennemis. Une cible qui rate son jet de Volonté subit un malus de statut de −1 aux jets d’attaques tant qu’elle se trouve dans la zone. Une fois par tour, à partir de celui suivant l’incantation d’imprécation, vous pouvez utiliser une action unique pour augmenter le rayon de l’émanation de 1,5 m et obliger les ennemis dans la zone qui n’étaient pas encore affectés à refaire un jet de Volonté. Imprécation contre bénédiction.</p>\n"
+        },
+        {
             "id": "Ghost Sound",
             "name": "Son imaginaire",
             "description": "<p>Vous créez l’illusion auditive de bruits simples d’un volume maximal égal à quatre humains en train de crier. Le bruit émane d’une case à portée de votre choix. Vous ne pouvez pas créer de mots intelligibles ou de sons complexes, comme de la musique.</p>\n<hr>\n<p><strong>Intensifié (3e)</strong> La portée du sort passe à 18 m.</p>\n<p><strong>Intensifié (5e)</strong> La portée du sort passe à 36 m.</p>"
@@ -57,6 +62,16 @@
             "description": "<p> Même la plus simple des magies peut vous servir. Vous pouvez accomplir de effets magiques simples tant que vous Maintenez le sort. Chaque fois que vous Maintenez le sort, vous pouvez choisir l’une des quatre options ci-dessous : </p>\n<ul>\n<li><strong> Cuisine. &nbsp;</strong> Réchauffe, refroidit ou aromatise 500 g de matériau non vivant. </li>\n<li><strong> Soulève. </strong> <strong>Slowly&nbsp;</strong> Soulève lentement à 30 cm au-dessus du sol un objet non porté d’Encombrement léger ou moins. </li>\n<li><strong> Fabrique. &nbsp;</strong> Crée dans une substance magique solide un objet temporaire d’Encombrement négligeable. L’objet paraît grossier, artificiel et extrêmement fragile — on ne peut s’en servir ni d’outil, ni d’arme ni de composant de sort. </li>\n<li><strong> Nettoie. &nbsp;</strong> Colorise, nettoie ou salit un objet d’Encombrement léger ou moins. Vous pouvez affecter un objet d’Encombrement 1 avec 10 rounds de concentration et ou un objet plus grand avec 1 minute par Encombrement.</li>\n</ul>\n<p> Prestidigitation ne peut pas infliger des dégâts ou des états défavorables. Tout changement réel apporté à un objet (en plus de ceux précisés plus haut) persiste tant que vous Maintenez le sort. </p>\n"
         },
         {
+            "id": "Sleep",
+            "name": "Sommeil",
+            "description": "<p>Chaque créature dans la zone devient somnolente et peut s’endormir. Une créature qui tombe inconsciente @JournalEntry[Unconscious] à cause de ce sort ne tombe pas à terre @JournalEntry[Prone] ni ne laisse tomber ce qu’elle tient. Ce sort n’empêche pas les créatures de se réveiller grâce à un test réussi de Perception, limitant son utilité en combat.</p>\n<p>\n<hr><b>Succès critique</b> La créature n’est pas affectée.</p>\n<p>\n<b> Succès </b> La cible subit un malus de −1 à ses tests de Perception pendant 1 round.</p>\n<p>\n<b> Échec </b>  La créature tombe inconsciente @JournalEntry[Unconscious]. Si elle est toujours inconsciente @JournalEntry[Unconscious] après 1 minute, elle se réveille automatiquement</p>\n<p>\n<b> Échec critique </b>  La créature tombe inconsciente @JournalEntry[Unconscious]. Si elle est toujours inconsciente @JournalEntry[Unconscious] après 1 heure, elle se réveille automatiquement</p>\n<p>\n<hr><b>Intensifié (4e)</b>  Les créatures tombent inconscientes @JournalEntry[Unconscious] pendant 1 round sur un échec ou 1 minute sur un échec critique. Elles tombent à terre @JournalEntry[Prone] et lâchent ce qu’elles tiennent, et elles ne peuvent pas tenter de tests de Perception pour se réveiller. Quand la durée s’achève, la créature est endormie normalement au lieu de se réveiller automatiquement.</p>\n"
+        },
+        {
+            "id": "Mindlink",
+            "name": "Lien mental",
+            "description": "<p>Vous liez votre esprit à celui de la cible et partagez mentalement et instantanément avec elle un nombre d’informations équivalent à ce que vous pourriez communiquer normalement en dix minutes.</p>"
+        },
+        {
             "id": "Dancing Lights",
             "name": "Lumières dansantes",
             "description": "<p>Vous créez jusqu’à quatre lumières flottantes, qui ne doivent pas être séparées de plus de 3 m. Chacune émet autant de lumière qu’une torche. Quand vous Maintenez le sort, vous pouvez déplacer autant de lumières que vous le voulez d’au maximum 18 m. Chaque lumière doit rester dans un rayon de 36 m autour de vous et dans un rayon de 3 m autour des autres lumières, sinon elle s’éteint.</p>"
@@ -80,6 +95,11 @@
             "id": "Summon Construct",
             "name": "Convocation de créature artificielle",
             "description": "<p> Vous conjurez une créature artificielle qui se bat pour vous. Cela fonctionne comme convocation d’animal, excepté que vous convoquez une créature ordinaire qui a le trait créature artificielle et dont le niveau est de −1.</p>\n<hr>\n<p><strong>Intensifié. (2e)</strong> Niveau 1</p>\n<p><strong>Intensifié. (3e)</strong> Niveau 2</p>\n<p><strong>Intensifié. (4e)</strong> Niveau 3</p>\n<p><strong>Intensifié. (5e)</strong> Niveau 5</p>\n<p><strong>Intensifié. (6e)</strong> Niveau 7</p>\n<p><strong>Intensifié. (7e)</strong> Niveau 9</p>\n<p><strong>Intensifié. (8e)</strong> Niveau 11</p>\n<p><strong>Intensifié. (9e)</strong> Niveau 13</p>\n<p><strong>Intensifié. (10e)</strong> Niveau 15</p>\n"
+        },
+        {
+            "id": "Bless",
+            "name": "Bénédiction",
+            "description": "<p>Une bénédiction venue d’ailleurs aide vos compagnons à viser juste. Vous et les alliés dans la zone gagnez un bonus de statut de +1 aux jets d’attaques. Une fois par tour, à partir du tour suivant celui où vous avez lancé bénédiction, vous pouvez utiliser une action unique, dotée du trait concentration, pour augmenter le rayon de l’émanation de 1,5 m. Bénédiction contre imprécation.</p>\n"
         },
         {
             "id": "Acid Splash",
@@ -142,6 +162,11 @@
             "description": "<p>L’objet luit en émettant une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà), comme une torche. Si vous lancez ce sort une nouvelle fois sur un deuxième objet, le sort lumière sur le premier prend fin.</p>\n<hr>\n<p><strong>Intensifié (4e)</strong>&nbsp; L’objet émet une lumière vive dans un rayon de 18 m (et une lumière faible dans les 18 m au-delà).</p>"
         },
         {
+            "id": "Detect Alignment",
+            "name": "Détection de l’alignement",
+            "description": "<p>Vos yeux luisent tandis que vous percevez les auras alignées. Choisissez chaotique, mauvais, bon ou loyal. Vous détectez les auras de l’alignement correspondant. Vous ne recevez aucune information autre que leur absence ou leur présence. Vous pouvez décider de ne pas détecter les créatures ou les effets dont vous savez déjà qu’ils possèdent l’alignement choisi.</p>\n<p> Seules les créatures de niveau 6 ou plus ont une aura d’alignement, à moins d’être un incantateur divin, un mort-vivant ou un être de la Sphère extérieure.</p>\n<hr>\n<p><strong> Intensifié (2e)</strong> Vous découvrez l’emplacement et la puissance de chaque aura.</p>\n"
+        },
+        {
             "id": "Mage Armor",
             "name": "Armure du mage",
             "description": "<p>Vous vous entourez d’énergie magique scintillante qui vous confère un bonus d’objet de +1 à la CA et un modificateur de Dextérité maximum de +5. Tant que vous portez l’armure du mage, vous utilisez votre maîtrise sans armure pour calculer votre CA.</p>\n<hr>\n<p><strong>Intensifié (4e)</strong> Vous bénéficiez d’un bonus d’objet de +1 aux jets de sauvegarde.</p>\n<p><strong>Intensifié (6e)</strong> Le bonus d’objet à la CA passe à +2 et vous bénéficiez d’un bonus d’objet de +1 aux jets de sauvegarde.</p>\n<p><strong>Intensifié (8e)</strong> Le bonus d’objet à la CA passe à +2 et vous bénéficiez d’un bonus d’objet de +2 aux jets de sauvegarde.</p>\n<p><strong>Intensifié (10e)</strong> Le bonus d’objet à la CA passe à +3 et vous bénéficiez\nd’un bonus d’objet de +3 aux jets de sauvegarde.</p>\n"
@@ -155,6 +180,11 @@
             "id": "Grease",
             "name": "Graisse",
             "description": "<p>Vous faites apparaître de la graisse dont les effets dépendent de la zone ou de la cible désignée.</p>\n<ul>\n<li><strong>Zone</strong> <strong>[4 contiguous 5-foot squares]</strong> l’ensemble du sol compact dans la zone est recouvert de\ngraisse. Chaque créature sur la surface recouverte de graisse doit réussir un jet de Réflexes ou un test d’Acrobaties contre votre DD des sorts ou tomber à terre.@JournalEntry[Prone]. Les créatures qui font une action pour se déplacer sur la surface graisseuse pendant la durée du sort doivent chacune réussir un jet de Réflexes ou un test d’Acrobaties pour Garder l’équilibre. Une créature qui Fait un pas ou Rampe n’a pas à faire de test ou de jet de sauvegarde.</li>\n<li><strong>Cible.</strong> <strong>[1 object of Bulk 1 or less]</strong> Si vous lancez le sort sur un objet non porté, quiconque tente de s’en emparer doit réussir un test d’Acrobaties ou un jet de Réflexes contre votre DD des sorts pour y parvenir. Si vous ciblez un objet porté par une créature, celle-ci doit faire un test d’Acrobaties ou un jet de Réflexes. En cas d’échec, la créature qui tient l’objet subit un malus de circonstances de −2 à tous ses tests où l’objet est utilisé ; elle le lâche en cas d’échec critique. L’objet tombe sur une case adjacente déterminée par le MJ. Si vous lancez ce sort sur un objet revêtu, son porteur bénéficie d’un bonus de circonstances de +2 aux jets de Vigueur contre les tentatives pour le saisir.</li>\n</ul>"
+        },
+        {
+            "id": "Command",
+            "name": "Injonction",
+            "description": "<p>Vous criez un ordre difficile à ignorer. Vous pouvez ordonner à la cible de s’approcher de vous, de s’enfuir (comme avec l’état en fuite@JournalEntry[Fleeing]), de lâcher ce qu’elle tient, de se jeter à terre@JournalEntry[Prone] ou de ne pas bouger. Elle ne peut pas Retarder ni faire de réaction tant qu’elle n’a pas obéi à votre ordre. L’effet dépend du jet de Volonté de la cible.</p>\n<p>\n<hr><b> Succès </b> La créature n’est pas affectée.</p>\n<p>\n<b>Échec.</b> Pour sa première action à son prochain tour, la créature est obligée d’utiliser une action unique pour faire ce que vous lui avez ordonné.</p>\n<p>\n<b>Échec critique</b>  À son prochain tour, la cible doit utiliser toutes ses actions pour obéir à votre ordre</p>\n<p>\n<hr><b>Intensifié (5e)</b> Vous pouvez cibler jusqu’à 10 créatures.</p>"
         },
         {
             "id": "Burning Hands",
@@ -182,6 +212,21 @@
             "description": "<p> Vous murmurez tout bas des mots mais ceux-ci sont directement transférés vers les oreilles de la cible au lieu de sortir de votre bouche. La cible peut entendre distinctement vos paroles comme si vous vous les prononciez à côté d’elle, mais les autres éprouvent les difficultés normales à entendre des paroles murmurées tout bas..</p>\n<p> La cible peut répondre brièvement par une réaction ou par une action gratuite lors de son prochain tour si elle le souhaite, mais elle doit pouvoir vous voir et se trouver à portée de votre sort. Si elle répond, sa réponse est transférée directement dans vos oreilles, exactement comme le message initial. </p>\n<hr>\n<p><strong> Intensifié (3e)</strong> La portée du sort passe à 150 m.</p>\n"
         },
         {
+            "id": "Charm",
+            "name": "Charme",
+            "description": "<p>Vos paroles sont du miel aux oreilles de votre cible et votre visage lui semble baigné d’une lueur onirique. Elle doit faire un jet de Volonté avec un bonus de circonstances de +4 si vous ou vos alliés l’avez récemment menacée ou avez utilisé une action hostile contre elle.</p>\n<p>Vous pouvez Révoquer le sort. Si vous utilisez une action hostile contre la cible, le sort se termine. Quand le sort se termine, la cible ne se rend pas forcément compte qu’elle a été charmée (à moins que son amitié avec vous ou les actions que vous l’avez convaincue d’accomplir n’entrent en conflit avec sa nature) ce qui veut dire que vous pouvez la convaincre de continuer d’être votre amie en usant de moyens ordinaires.</p>\n<hr>\n<p><strong>Succès critique.</strong> La cible n’est pas affectée et sait que vous avez tenté de la charmer. </p>\n<p><strong> Succès </strong> La cible n’est pas affectée, mais pense que votre sort était quelque chose d’inoffensif et non charme, sauf si elle identifie le sort (voir Identification des sorts p. 305). </p>\n<p><strong> Échec </strong> La cible devient amicale envers vous. Si elle était déjà amicale, elle devient serviable. Elle ne peut pas utiliser d’action hostile contre vous.</p>\n<p><strong> Échec critique </strong> La cible devient serviable à votre égard et ne peut pas utiliser d’action hostile contre vous </p>\n<hr>\n<p><strong> Intensifié (+4)</strong> Le sort dure jusqu’à vos prochains préparatifs quotidiens </p>\n<p><strong> Intensifié (+8)</strong> Le sort dure jusqu’à vos prochains préparatifs quotidiens et vous pouvez viser jusqu’à 10 créatures.</p>"
+        },
+        {
+            "id": "Soothe",
+            "name": "Apaiser",
+            "description": "<p>Vous embellissez l’esprit de la cible, renforçant ses défenses mentales et soignant ses blessures. La cible regagne 1d10+4 points de vie quand vous Incantez le Sort et gagne un bonus de statut de +2 aux sauvegardes contre les effets mentaux pour la durée du sort.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Le montant de soins augmente de 1d10+4.</p>"
+        },
+        {
+            "id": "Fear",
+            "name": "Terreur",
+            "description": "<p>Vous semez la terreur dans le coeur de la cible qui doit faire un jet de Volonté.</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée.</p>\n<p>\n<b> Succès </b> La cible est effrayée 1 @JournalEntry[Frightened] 1.</p>\n<p>\n<b> Échec </b> La cible est effrayée 2 @JournalEntry[Frightened] 2.</p>\n<p>\n<b> Échec critique </b> La cible est effrayée 3 @JournalEntry[Frightened] 3 et en fuite pendant 1 round @JournalEntry[Fleeing] for 1 round</p>\n<p>\n<hr><b>Intensifié (3e)</b> Vous pouvez cibler jusqu’à 5 créatures.</p>"
+        },
+        {
             "id": "Know Direction",
             "name": "Repérage",
             "description": "<p>Vous visualisez mentalement un chemin qui part vers le nord. Vous savez immédiatement dans quelle direction se trouve le nord (si ce point cardinal existe là où vous vous trouvez).</p>\n<hr>\n<p><strong>Intensifié (7e)</strong>&nbsp; Vous pouvez, à la place, connaître la direction d’un endroit familier, tel que votre dernière demeure ou une taverne que vous appréciez.</p>\n"
@@ -192,6 +237,11 @@
             "description": "<p>Une liane couverte de sève collante apparaît comme par magie, sortant rapidement de votre main, et s’arrime à la cible. Faites une attaque de sort contre la cible.</p>\n<hr>\n<p><strong>Succès critique</strong>&nbsp; La cible gagne l’état immobilisé@JournalEntry[Immobilized] et subit un malus de circonstances de −3 m à ses Vitesses pendant 1 round. Elle peut tenter de S’échapper contre votre DD de sorts pour retirer le malus et l’état immobilisé @JournalEntry[Immobilized].<br><strong>Succès.&nbsp;</strong>La cible subit un malus de circonstances de −3 m à ses Vitesses pendant 1 round. Elle peut tenter de S’échapper contre votre DD de sorts pour retirer le malus.<br><strong>Échec.&nbsp;</strong>The target is unaffected.</p>\n<hr>\n<p><strong>Intensifié (2e)</strong>&nbsp; Les effets durent 2 rounds<br><strong>Intensifié (4e)</strong>&nbsp; Les effets durent 1 min.</p>\n"
         },
         {
+            "id": "True Strike",
+            "name": "Coup au but",
+            "description": "<p>Une vision fugitive du futur vous assure que votre prochain coup frappera juste. La prochaine fois que vous effectuez un jet d’attaque avant la fin de votre tour, effectuez deux jets d’attaque et conservez le meilleur résultat. L’attaque ignore les malus de circonstances au jet d’attaque et tout test nu nécessaire dû au fait que la cible soit masquée ou cachée.</p>"
+        },
+        {
             "id": "Guidance",
             "name": "Assistance divine",
             "description": "<p>Vous sollicitez une assistance divine, ce qui confère à la cible un bonus de statut de +1 à un jet d’attaque, un test de Perception, un jet de sauvegarde ou un test de compétence effectué avant la fin de la durée du sort. La cible choisit sur quel jet elle souhaite appliquer le bonus avant de lancer le dé. Le sort se termine si la cible utilise le bonus. Qu’elle l’utilise ou non, la cible est ensuite temporairement immunisée pendant une heure.</p>\n"
@@ -200,6 +250,11 @@
             "id": "Summon Animal",
             "name": "Convocation d'animal",
             "description": "<p>Vous conjurez un animal qui se bat pour vous. Vous convoquez une créature ordinaire qui a le trait animal et dont le niveau est de −1. Intensifier le sort augmente le niveau maximum de la créature que vous convoquez.</p>\n<hr>\n<p><strong>Intensifié (2e)</strong> Niveau1</p>\n<p><strong>Intensifié (3e)</strong> Niveau2</p>\n<p><strong>Intensifié (4e)</strong> Niveau3</p>\n<p><strong>Intensifié (5e)</strong> Niveau5</p>\n<p><strong>Intensifié (6e)</strong> Niveau7</p>\n<p><strong>Intensifié (7e)</strong> Niveau9</p>\n<p><strong>Intensifié (8e)</strong> Niveau11</p>\n<p><strong>Intensifié (9e)</strong> Niveau13</p>\n<p><strong>Intensifié (10e)</strong> Niveau15</p>"
+        },
+        {
+            "id": "Detect Poison",
+            "name": "Détection du poison",
+            "description": "<p>Vous détectez si une créature est venimeuse ou empoisonnée ou si un objet est toxique ou a été empoisonné. Vous ignorez si la cible est empoisonnée de plusieurs manières et vous ne savez pas avec quel type de poison. Certaines substances, comme le plomb ou l’alcool, sont un poison et masquent les autres toxines.</p>\n<hr>\n<p><strong>Intensifié (2e)</strong> Vous apprenez le nombre et le type de poisons.</p>"
         }
     ]
 }

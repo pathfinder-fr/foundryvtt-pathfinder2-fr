@@ -2,6 +2,11 @@
     "label": "Dons",
     "entries": [
         {
+            "id": "Crowd Mastery",
+            "name": "Maîtrise de la foule",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Perdu dans la foule<br></span></p>\n<hr>\n<p>Vous utilisez la foule à votre avantage, empêchant vos ennemis de prêter attention aux potentiels dangers cachés qui s'y trouvent. Lorsque vous devez déterminer si votre adversaire est pris en tenaille, vous considérez toutes les cases occupées par une foule comme si elles l'étaient par un allié avec un allonge au corps à corps de 1,5 m.&nbsp;</p>"
+        },
+        {
             "id": "Orc Sight",
             "name": "Vision Orque",
             "description": "<p><strong>Prérequis</strong> vision nocturne</p>\n<hr>\n<p>Votre sang orc est assez fort pour vous faire bénéficier de la vision perçante de vos ancêtres orcs. Vous gagnez vision dans le noir, qui vous permet de voir dans les ténèbres et la lumière faible aussi bien que dans la lumière vive. Cependant, dans les ténèbres, vous ne voyez qu’en noir et blanc.</p>\n<p><strong>Spécial</strong> Vous pouvez seulement choisir ce don au niveau 1 et vous ne pouvez pas utiliser un réapprentissage pour perdre ou gagner ce don.</p>\n"
@@ -117,6 +122,11 @@
             "description": "<p><strong>Prérequis</strong> qualifié en Duperie</p>\n<hr>\n<p>Quand vous obtenez un succès critique en Faisant diversion, vous continuez à rester caché après la fin de votre tour. Cet effet persiste pendant une durée qui dépend de la diversion et de la situation, comme déterminée par le MJ (minimum 1 round supplémentaire).</p>\n"
         },
         {
+            "id": "Magic Warrior Aspect",
+            "name": "Aspect du Guerrier magique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Guerrier magique<br></span></p>\n<hr>\n<p>Vous pouvez modifier votre forme pour obtenir un aspect de l'animal que votre masque représente. Vous obtenez le sort focalisé <a href=\"https://2e.aonprd.com/Spells.aspx?ID=547\"><em>aspect du guerrier magique</em></a>.&nbsp;</p>"
+        },
+        {
             "id": "Vengeful Hatred",
             "name": "Soif de vengeance",
             "description": "<p>Vous rêvez de vous venger de ceux qui ont causé du tort à votre peuple. Au moment où vous gagnez Soif de vengeance, choisissez l’un des ennemis ancestraux des nains parmi la liste suivante : drow, duergar, géant ou orc. Vous gagnez un bonus de circonstances de +1 aux dégâts que vous infligez avec vos armes ou à mains nues contre les créatures possédant ce trait. Si vous lancez plus d’un dé de dégâts d’arme (comme c’est souvent le cas au-delà du niveau 1), ce bonus est alors égal au nombre de dés de dégâts d’arme ou d’attaque à mains nues que vous lancez. En outre, si une créature réussit une attaque critique contre vous et vous inflige des dégâts, vous bénéficiez de votre bonus de dégâts contre cette créature pendant 1 min, même si elle ne possède pas le trait que vous avez choisi.</p>\n<p><strong>Spécial</strong> Si votre personnage est issu d’une communauté qui se trouve souvent en conflit avec d’autres types d’ennemis, votre MJ peut ajouter les traits de créature appropriés à votre liste d’ennemis ancestraux.</p>\n"
@@ -160,6 +170,11 @@
             "id": "Forlorn",
             "name": "Délaissé",
             "description": "<p>Vous avez été témoin de la sénescence et de la mort de vos amis, ce qui vous a empli d’une morosité qui vous protège des émotions douloureuses. Vous gagnez un bonus de circonstances de +1 à vos jets de sauvegarde contre les effets des émotions. Si vous remportez un succès sur un jet de sauvegarde contre l’effet d’une émotion, il est transformé en succès critique.</p>"
+        },
+        {
+            "id": "Axe Thrower",
+            "name": "Lanceur de haches",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=40\"> Bûcheron de Turpin Rowe</a></u><br><strong>Prérequis</strong> Dévouement de Bûcheron de Turpin Rowe<br></span></p>\n<hr>\n<p>Vous avez maîtrisé le poids et l'équilibre d'une grande variété de haches et pouvez les lancer avec facilité. Toute hache à une main que vous maniez a le trait <a href=\"https://2e.aonprd.com/Traits.aspx?ID=195\">jet</a> avec une portée de 3 m. Pour les haches qui ont déjà ce trait, le facteur de portée augmente de 3 m. Lorsque vous obtenez un succès critique sur un jet d'attaque avec une hache que vous lancez, vous appliquez l'effet de critique de spécialisation de l'arme.&nbsp;</p>"
         },
         {
             "id": "Shield Warden (Fighter)",
@@ -315,6 +330,11 @@
             "id": "Halfling Weapon Trickster",
             "name": "Ruse avec les armes halfelines",
             "description": "<p><strong>Prérequis</strong> Familiarité avec les armes halfelines</p>\n<hr>\n<p>Vous êtes particulièrement adepte du maniement des armes propres à votre peuple. À chaque fois que vous obtenez un succès critique à un jet d’attaque avec une épée courte, une fronde ou une arme halfeline, vous appliquez l’effet critique spécialisé de cette arme.</p>"
+        },
+        {
+            "id": "Orc Weapon Carnage",
+            "name": "Carnage avec les armes orques",
+            "description": "<p><strong>Prérequis</strong> Familiarité avec les armes orques</p>\n<hr>\n<p>Vous maniez les armes de vos ancêtres orcs avec une brutale efficacité. À chaque fois que vous réussissez un coup critique avec un cimeterre à deux mains, une grande hache ou une arme orque, vous appliquez l’effet critique spécialisé de cette arme.</p>"
         },
         {
             "id": "Masked Casting",
@@ -752,6 +772,11 @@
             "description": "<p><strong>Prérequis</strong> qualifié dans une compétence avec l'action Se souvenir</p>\n<hr>\n<p>Vous êtes une mine d’informations, mais toutes ne proviennent pas de sources fiables. Quand vous ratez un test pour Vous souvenir en utilisant n’importe quelle compétence, vous apprenez une partie d’information vraie et une partie d’information erronée, mais vous n’avez aucun moyen de différencier laquelle est quoi.</p>\n"
         },
         {
+            "id": "Nameless Anonymity",
+            "name": "Anonymat indicible",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Guerrier magique<br></span></p>\n<hr>\n<p>Votre masque vous protège davantage contre la divination. Une fois par jour, vous pouvez lancer <a href=\"https://2e.aonprd.com/Spells.aspx?ID=209\"><em>anti-détection</em></a> sur vous-même, intensifié au plus haut niveau de sort que vous pouvez lancer ; le sort se termine immédiatement si votre masque est retiré, même pour un moment.&nbsp;</p>"
+        },
+        {
             "id": "Holy Castigation",
             "name": "Punition sacrée",
             "description": "<p><strong>Prérequis</strong> alignement bon</p>\n<hr>\n<p>Vous associez énergie sacrée et énergie positive pour blesser les démons, les diables et leurs consorts maléfiques. Les guérisons que vous lancez blessent les fiélons comme s’ils étaient des morts‑vivants.</p>\n"
@@ -830,6 +855,11 @@
             "id": "Diamond Soul",
             "name": "Âme de diamant",
             "description": "<p>Vous avez fortifié votre corps et votre esprit pour qu’ils résistent aux effets surnaturels. Vous bénéficiez d’un bonus de statut de +1 aux jets de sauvegarde contre la magie.</p>\n\n"
+        },
+        {
+            "id": "Staff Sweep",
+            "name": "Balayage au bâton",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=37\"> Funambule</a></u><br><strong>Prérequis</strong> Dévouement du Funambule<br><strong>Conditions</strong> Vous maniez votre bâton .<br></span></p>\n<hr>\n<p>Avec votre bâton, vous effectuez un balayage de vos ennemis. Lancez un test d'Athlétisme pour <a href=\"https://2e.aonprd.com/Actions.aspx?ID=38\">Pousser</a> ou faire un <a href=\"https://2e.aonprd.com/Actions.aspx?ID=40\">Croc-en-jambe</a> et comparez le résultatx aux DD appropriées de jusqu'à deux créatures, chacune d'entre elle devant être dans votre allonge et pas à plus de 1,5 m l'une de l'autre.&nbsp;</p>"
         },
         {
             "id": "Train Animal",
@@ -925,6 +955,11 @@
             "id": "Rough Rider",
             "name": "Cavalier farouche",
             "description": "<p> Vous êtes particulièrement bon cavalier sur les montures traditionnelles des gobelins. Vous gagnez le don Chevaucher même si vous n’en possédez pas les prérequis. Vous gagnez un bonus de circonstances de +1 à vos tests de Nature pour utiliser Diriger un animal en montant un chien gobelin ou un loup. Vous avez la possibilité de choisir un loup comme compagnon animal, même si vous devriez normalement choisir un compagnon animal possédant le pouvoir spécial monture, comme c’est le cas du destrier d’un champion.</p>\n"
+        },
+        {
+            "id": "Log Roll",
+            "name": "Rouleur de troncs",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=40\">Bûcheron de Turpin Rowe</a></u><br><strong>Prérequis</strong> Dévouement de Bûcheron de Turpin Rowe<br><strong>Conditions</strong> Vous et une créature adjacente are ensemble sur une surface étroite ou un sol inégal et l'autre créature est prise au dépourvu.<br></span></p>\n<hr>\n<p>Vous battez des pieds pour déranger la surface en dessous de vous ou faites en sorte de déstabiliser autrement votre adversaire. tentez un test d'<a href=\"https://2e.aonprd.com/Skills.aspx?ID=1\">Acrobaties</a> contre le DD du jet de sauvegarde de Réflexes de la créature. Sur un succès, la créature chute. Sur un échec critique, vous chutez.&nbsp;</p>"
         },
         {
             "id": "Trick Magic Item",
@@ -1322,6 +1357,11 @@
             "description": "<p>Les autres ont beau vous regarder avec un certain dédain, vous savez\nque les armes de votre peuple sont aussi efficaces que tranchantes.\nVous êtes qualifié avec le tranchechien et le coupecheval. En outre, vous avez accès aux armes peu courantes des gobelins. Afin de déterminer votre maîtrise, vous considérez les armes de guerre gobelines comme des armes simples et les armes gobelines évoluées comme des armes de guerre.</p>\n"
         },
         {
+            "id": "Crimson Shroud",
+            "name": "Voile pourpre",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fréquence</strong> Un nombre de fois par jour égal à votre nombre de dons de classe de l'archétype Assassin des Mantes rouges<br><strong>Prérequis</strong> Dévouement d'Assassin des Mantes rouges<br></span></p>\n<hr>\n<p>Vous vous enveloppez vous-même d'un voile de brume rouge pendant 1 minute. Tant que ce voile est actif, vous obtenez guérison accélérée avec un nombre égal à la moitié de votre niveau. Vous pouvez Intéragir avec votre voile, en l'enveloppant autour de vous, pour obtenir un bonus de circonstance de +1 à la CA jusqu'au début de votre prochain tour. De plus, si vous mourrez alors que le voile est actif, vous pouvez choisir de faire disparaître votre corps dans une brume rouge, en ne laissant derrière vous que votre équipement ; Vous faites ce choix lorsque vous activez Voile pourpre.&nbsp;</p>"
+        },
+        {
             "id": "Hellknight Signifer Dedication",
             "name": "Dévouement du Signifer",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> capacité de lancer des sorts, Dévouement d'Écuyer chevalier infernal, alignement loyal, membre d'un ordre de Chevalier infernal, avoir réussi le test de Chevalier infernal<br></span></p>\n<hr>\n<p>Vous avez renforcé votre force de volonté avec le pouvoir de la Mesure et de la Chaîne. Au cours de votre initiation, vous recevez un masque de signifer, souvent démuni de trou pour les yeux et de toute fioriture décorative. Le masque ne vous empêche pas de voir, bien qu'il rende impossible pour les autres de voir vos yeux. Lorsque vous portez votre masque de signifer, vous obtenez un bonus de circonstance de +1 aux test de <a href=\"https://2e.aonprd.com/Skills.aspx?ID=5\">Duperie</a> pour Mentir, d'<a href=\"https://2e.aonprd.com/Skills.aspx?ID=7\">Intimidation</a> et au DD de Duperie pour <a href=\"https://2e.aonprd.com/Actions.aspx?ID=85\">Discerner vos intentions</a>. Vous devenez expert en Intimidation (ou, si vous l'étiez déjà, dans une autre compétence dans laquelle vous étiez déjà qualifié) ainsi qu'à votre choix dans celle d'<a href=\"https://2e.aonprd.com/Skills.aspx?ID=2\">Arcanes</a>, de <a href=\"https://2e.aonprd.com/Skills.aspx?ID=10\">Nature</a>, d'<a href=\"https://2e.aonprd.com/Skills.aspx?ID=11\">Occultisme</a> ou de <a href=\"https://2e.aonprd.com/Skills.aspx?ID=13\">Religion</a>.<br><br><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype Signifer ou de celui d'<a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=20\">Écuyer Chevalier infernal</a>.&nbsp;</p>"
@@ -1340,6 +1380,11 @@
             "id": "Poison Resistance (Alchemist)",
             "name": "Résistance au poison",
             "description": "<p>À force de vous exposer à des réactifs toxiques, vous êtes devenu plus résistant à tous les types de poisons. Vous gagnez une résistance au poison égale à la moitié de votre niveau, ainsi qu’un bonus de statut de +1 à vos jets de sauvegarde contre les poisons.</p>"
+        },
+        {
+            "id": "Distracting Shadows",
+            "name": "Ombres distrayantes",
+            "description": "<p>Vous avez appris à rester caché en utilisant les grandes personnes comme distraction pour éviter d’attirer l’attention. Vous pouvez utiliser une créature qui fait au moins une catégorie de taille de plus que vous (généralement Moyenne ou plus grande) comme abri pour Vous cacher ou Être furtif, mais vous ne pouvez pas utiliser ces créatures comme abri pour d’autres raisons, comme pour vous Mettre à l’abri.</p>"
         },
         {
             "id": "Sense Evil",
@@ -1365,6 +1410,11 @@
             "id": "Deadly Simplicity",
             "name": "Simplicité mortelle",
             "description": "<p><strong>Prérequis</strong> divinité dont l’arme de prédilection est une arme simple, qualifié avec l’arme de prédilection de votre divinité</p>\n<hr>\n<p>L’arme de prédilection de votre divinité est particulièrement redoutable entre vos mains. Quand vous maniez l’arme de prédilection de votre divinité, augmentez la taille du dé de dégâts de cette arme d’un échelon. Si l’arme de prédilection de votre divinité est une attaque à mains nues le poing si vous vénérez Irori, par exemple) et que son dé de dégâts est plus petit que d6, augmentez à la place la taille du dé de dégâts à d6.</p>\n\n"
+        },
+        {
+            "id": "Perfect Strike",
+            "name": "Frappe parfaite",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement d'Étudiant de la perfection<br></span></p>\n<hr>\n<p>Vous obtenez le sort de ki <a href=\"https://2e.aonprd.com/Spells.aspx?ID=542\"><em>frappe parfaite</em></a>. Augmentez le nombre de point de votre réserve de focalisation de 1.&nbsp;</p>"
         },
         {
             "id": "Fleet",
@@ -1567,6 +1617,11 @@
             "description": "<p><strong>Prerequisites</strong> Counterspell, Quick Recognize</p>\n<hr>\n<p>Votre créativité vous permet d’appliquer vos sorts préparés comme Contresorts contre un éventail de magie ennemie bien plus large. Au lieu\nde contrer un sort ennemi avec Contresort uniquement si vous avez préparé le même sort, vous pouvez utiliser Contresort tant que le sort que lance l’ennemi figure dans votre grimoire. Quand vous utilisez Contresort ainsi, le sort préparé dépensé doit partager un trait autre que sa tradition avec celui qu’il contre. Si le MJ accepte, vous pouvez à la place utiliser un sort doté d’un trait opposé ou qui contre logiquement le sort adverse (en vous servant par exemple d’un sort de froid ou d’eau pour contrer boule de feu ou délivrance de la peur pour contrer un sort de terreur). Quel que soit le sort dépensé, vous subissez un malus de −2 à votre test de contre, bien que le MJ puisse annuler ce malus si le sort dépensé est particulièrement bien approprié..</p>\n"
         },
         {
+            "id": "Mature Trained Companion",
+            "name": "Compagnon entraîné adulte",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong>&nbsp;Dompteur&nbsp;<br><strong>Prérequis</strong> Dévouement de Dompteur<br></span></p>\n<hr>\n<p>Votre compagnon animal grandit, devenant un compagnon animal adulte. Son niveau de maîtrise en Performance devient expert au lieu d'une des trois augmentation de compétence des adultes. Il obtient la manoeuvre avancée Représentation mémorable, à la place de la manoeuvre avancée de son type.</p>\n<h3 class=\"title\">@Item[Mesmerizing Performance] <img style=\"height: 15px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"></h3>\n<p><strong>Conditions</strong> La dernière action du compagnon était un test de Représentation réussi pour assurer une Représentation.&nbsp;</p>\n<hr>\n<p>Le compagnon maintient sa représentation pour captiver une unique cible dans les 9 mètre qui a été témoin de la représentation réussie. La cible a droit à un jet de Volonté. <br><br><strong>Succès</strong> La cible n'est pas affectée et immunisée de manière temporaire pendant 1 heure<br><strong>Échec</strong> La cible est fascinée par le compangnon pendant sa prochaine action puis devient temporairement immunisée pendant 1 heure.<br><strong>Échec critique</strong> La cible est fascinée par le compagnon pendant 1 round. Tant qu'elle reste fascinée, elle ne peut plus utiliser de réactions.&nbsp;</p>"
+        },
+        {
             "id": "Battle Assessment",
             "name": "Evaluation martiale",
             "description": "<p>Pendant le combat, votre sens de l’observation vous permet d’identifier les forces et les faiblesses d’un ennemi. Le MJ fait un test secret de Perception à votre place contre le DD de Duperie ou de Discrétion (celui des deux qui a la valeur la plus élevée) d’un ennemi de votre choix qui n’est pas masqué, caché ou non détecté à vos yeux et qui est en train de se battre. Le MJ peut appliquer un malus représentant la distance vous séparant de l’ennemi ciblé. Cet ennemi est ensuite temporairement immunisé à votre Évaluation martiale pendant 1 jour.</p>\n<p><strong>Succès critique</strong> Le MJ choisit deux informations à vous communiquer sur l’ennemi : sa faiblesse la plus élevée ; son jet de sauvegarde au modificateur le moins élevé ; l’une de ses immunités ; ou sa résistance la plus élevée. En cas d’égalité parmi ces statistiques, le MJ en choisit une au hasard.</p>\n<p><strong>Succès</strong> Le MJ choisit dans la liste précédente l’une des informations à vous communiquer sur l’ennemi.</p>\n<p><strong>Échec critique</strong> Le MJ vous donne une fausse information (il invente l’information).</p>"
@@ -1650,6 +1705,16 @@
             "id": "Lie To Me",
             "name": "Détecteur de mensonges",
             "description": "<p><strong>Prérequis</strong> qualifié en Duperie</p>\n<hr>\n<p>Vous pouvez utiliser Duperie pour tendre un piège à quiconque essaie de vous duper. Si vous pouvez engager la conversation avec quelqu’un essayant de vous Mentir, utilisez votre DD de Duperie s’il est supérieur à votre DD de Perception pour déterminer s’il réussit. Cela ne s’applique pas si vous ne dialoguez pas, par exemple quand quelqu’un tente de Mentir pendant un long discours.</p>\n"
+        },
+        {
+            "id": "Magic Warrior Transformation",
+            "name": "Transformation de Guerrier magique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequisites</strong> Dévouement de Guerrier magique<br></span></p>\n<hr>\n<p>Vous pouvez pleinement vous transformer en l'animal que votre masque représente. Vous obtenez le sort de focalisation de <a href=\"https://2e.aonprd.com/Spells.aspx?ID=548\"><em>transformation de guerrier magique</em></a>.&nbsp;</p>"
+        },
+        {
+            "id": "Reflexive Catch",
+            "name": "Réception instinctive",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=36\">Jongleur</a></u><br><strong>Prérequis</strong> expert en Acrobaties, dévoument de Jongleur<br><strong>Conditions</strong> L'objet ou l'arme de jet est d'un encombrement avec lequel vous pouvez <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1199\">Jongler</a>. Si le déclencheur était une attaque avec une arme de jet qui vous a cible, vous ne pouvez être <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Conditions.aspx?ID=16\">pris au dépourvu</a> contre cette attaque. Si vous étiez déjà en train de Jongler, vous ne pouvez l'attraper que si vous ne jongliez pas déjà avec le nombre maximum d'objets.<br><strong>Déclencheur</strong> Un objet chute à votre portée ou un attaquant manque son jet d'attaque pour vous touhcer ou pour toucher une créature à votre portée avec une arme de jet.<br></span></p>\n<hr>\n<p>Vous attrapez l'objet déclencheur. Si vous étiez en train de Jongler, vous pouvez immédiatement l'ajouter aux objets avec lesquels vous êtes en train de jongler par une action libre, laquelle a les traits <a href=\"https://2e.aonprd.com/Traits.aspx?ID=32\">concentration</a> et <a href=\"https://2e.aonprd.com/Traits.aspx?ID=104\">manipulation</a>.&nbsp;</p>"
         },
         {
             "id": "Cleave",
@@ -1807,6 +1872,11 @@
             "description": "<p><strong>Conditions</strong>  Vous maniez deux armes de corps à corps, une dans chaque main</p>\n<hr>\n<p>Vous portez une paire d’attaques étourdissantes avec vos deux armes. La première désarçonne votre adversaire pendant que vous utilisez la seconde pour le frapper sous un autre angle. Faites une Frappe avec chacune de vos deux armes de corps à corps contre la même cible. La cible est automatiquement prise au dépourvu par la seconde attaque. Vous appliquez normalement votre malus d’attaques multiples à ces Frappes.</p>"
         },
         {
+            "id": "Grave Sense",
+            "name": "Perception de la tombe",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Sentinelle de Dernier-Rempart<br></span></p>\n<hr>\n<p>Le temps passé à chasser les morts-vivants vous permet d'en percevoir la présence. Vous percevez les morts-vivants comme <a href=\"https://2e.aonprd.com/Rules.aspx?ID=413\">sens vague</a> identique au sens de l'odorat humain, une sensation  inconfortable comme sentir une odeur de pourriture écoeurante. À proximité de mort-vivant, vous pouvez même finalement sentir leur présence, bien que cela ne pourrait pas être instantanément et vous ne pouvez déterminer leur localisation précise. Un mort-vivant utilisant un déguisement ou qui essaie autrement de se cacher doit tenter un test de <a href=\"https://2e.aonprd.com/Skills.aspx?ID=5\">Duperie</a> contre votre DD de Perception pour vous dissimuler sa présence. Si la créature obtient un succès de son test de Duperie, il devient temporairement immunisé à l'utilisation de votre Perception de la tombe pendant 1 jour.&nbsp;</p>"
+        },
+        {
             "id": "Shared Synergy",
             "name": "Synergie partagée",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Synergie duale<br></span></p>\n<hr>\n<p>Vous pouvez accorder le bénéfice de Synergie duale à un allié situé dans les 9 m au lieu de vous-même, soit en permettant à cet allié de Se souvenir, soit pour accorder à cet allié des points de vie temporarires ou les deux, selon la tradition du sort.&nbsp;</p>\n"
@@ -1912,6 +1982,11 @@
             "description": "<p><strong>Prérequis</strong> principes du bien</p>\n<hr>\n<p>Vous tenez bon face au danger et inspirez vos alliés pour qu’ils fassent de même. À chaque fois que vous devenez effrayé, réduisez de 1 l’intensité de l’état (jusqu’à un minimum de 0). À la fin de votre tour quand vous avez éventuellement réduit de 1 l’intensité de l’état effrayé, vous réduisez également de 1 l’intensité de l’état dont sont victimes vos alliés à 4,50 m ou moins de vous.</p>"
         },
         {
+            "id": "Wayfinder Resonance Tinkerer",
+            "name": "Bricoleur de résonance de guide",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement d'Éclaireur<br></span></p>\n<hr>\n<p>Vous pouvez utiliser la résonance inhabituelle de votre <a href=\"https://2e.aonprd.com/Equipment.aspx?ID=470\"><em>guide</em></a> pour lui accorder des effets supplémentaires. Choisissez un tour de magie arcanique, divin, occulte ou primordial. Vous pouvez activer votre guide pour lancer ce tour de magie à volonté. De plus, vous pouvez Activer votre guide with a <img class=\"actionlight\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction_I.png\" alt=\"Action unique\"> (imaginer) pour le transformer en une broche ou une épingle quelconque pour cacher votre affiliation à la Société des Éclaireurs. Cette transformation dure pendant 1 heure.&nbsp;</p>"
+        },
+        {
             "id": "Perfect Mutagen",
             "name": "Mutagène parfait",
             "description": "<p>Vous avez amélioré les formules de vos mutagènes qui sont maintenant parfaitement harmonisés avec votre physiologie. Quand vous êtes sous l’effet d’un mutagène que vous avez fabriqué, vous ne subissez aucun de ses inconvénients.</p>\n"
@@ -1987,6 +2062,11 @@
             "description": "<p>Vous conservez vos bombes à portée de main dans des besaces auxquelles vous pouvez accéder en un instant. Pour utiliser une bombe, il vous suffit d’Interagir puis de Frapper avec celle-ci.</p>\n"
         },
         {
+            "id": "Simple Crystal Magic",
+            "name": "Magie du cristal simple",
+            "description": "<p><strong>Archétype</strong> Gardien du cristal</p>\n<p><strong>Prérequis</strong> Dévouement de Gardien du cristal</p>\n<hr>\n<p>Tant que vous méditer devant une gemme d'ue valeur d'au moins 10 po durant vos préparatifs quotidiens, vous êtes capable de voir la magie qui circule sous forme de reunes qui circulent qui révèlent des informations à propos d'objets magiques et vous pouvez inscrire une rune personnelle qui vous représente. Vous obtenez les tours de magie lecture d'aura et symbole. Vous lancez ces tours de magie comme des sots arcaniques innés à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.&nbsp;</p>"
+        },
+        {
             "id": "Pathfinder Agent Dedication",
             "name": "Dévouement d'Éclaireur",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> membre de la Société des Éclaireurs<br><strong>Accès</strong> Vous êtes originaire d'Absalom.<br></span></p>\n<hr>\n<p>Votre entraînement d'Éclaireur a élargi vos horizons et vous a rendu plus polyvalent dans des compétences variées, car vous ne savez jamais si vous pourrez avoir besoin de connaissances obscures pour achever votre mission. Vous devenez qualifié en une compétence de votre choix, ou expert dans une compétence de votre choix dans laquelle vous êtes déjà qualifié. Vous devenez qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> des Éclaireurs ou expert si vous étiez déjà qualifié. Lorsque vous utilisez une compétence dans laquelle vous êtes inexpérimenté, votre bonus de compétence est égale à votre niveau au lieu de 0. Vous obtenez l'accès aux <a href=\"https://2e.aonprd.com/Equipment.aspx?ID=470\"><em>guides</em> magiques des éclaireurs</a>.<br><br><strong>Spécial</strong> Vous ne pouvez obtenir d'autre don de dévouement avant d'avoir obtenu deux autres dons dans l'archétype d'Éclaireur.&nbsp;</p>"
@@ -1995,6 +2075,11 @@
             "id": "Armor Rune Shifter",
             "name": "Changeur de rune d'armure",
             "description": "<p><strong>Archétype</strong> Gardien du cristal</p>\n<p><strong>Prérequis</strong> Dévouement de Gardien du cristal</p>\n<hr>\n<p>Vous apprenez comment altérer la magie des runes des armures en les examinant au travers de gemmes et pouvez les modifier comme vous le souhaitez. Une fois par jour lorsque vous faites vos préparatifs quotidiens, vous pouvez vous concentrer sur les énergies d'une rune magique à travers les facettes d'un cristal pour modifier une unique rune de propriété sur une armure en votre possession pour substituer à son effet normal une rune de propriété différente. Vous pouvez temporairement modifier la rune pour fonctionner comme une des runes suivantes : fortification, glissante, invisibilité, mimétisme, ombre ou résistance à l'énergie. La rune de propriété reste modifiée jusqu'à ce que vous fassiez vos prochains préparatifs quotidiens. L'armure doit respecter les prérequis de la rune temporaire et n'importe quelles runes qui nécessitent la rune supprimée sont aussi supprimées tant que la rune est transformée. La rune est manifestement altérée et ainsi l'armure ne peut être vendue comme si elle possèdait la rune temporaire.</p>"
+        },
+        {
+            "id": "Warding Rune",
+            "name": "Rune gardienne",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement du Marqué de runes<br></span></p>\n<hr>\n<p>Vos runes vous fournissent un effet de protection contre une école de magie spécifique. Choisissez une école de magie autre que la divination. Vous obtenez une rune sur votre corps qui correspond à cette école et vous obtenez un bonus de circonstance de +2 à tous les jets de sauvegarde contre cette école.&nbsp;</p>"
         },
         {
             "id": "Linked Focus",
@@ -2335,6 +2420,11 @@
             "id": "Haughty Obstinacy",
             "name": "Obstination arrogante",
             "description": "<p>Votre ego développé complique la tâche de ceux qui veulent vous donner des ordres. Si vous obtenez un succès à un jet de sauvegarde contre un effet mental qui vise à contrôler directement vos actions, vous obtenez à la place un succès critique. Si une créature obtient un échec à un test pour vous Contraindre en utilisant l’Intimidation, elle obtient un échec critique à la place (elle ne peut donc pas tenter de vous Contraindre de nouveau pendant 1 semaine).</p>\n"
+        },
+        {
+            "id": "Relentless Disarm",
+            "name": "Désarmement implacable",
+            "description": "<p><strong>Archétype</strong> Garde Zéphyr</p>\n<p><strong>Prérequis</strong> Dévouement de Garde zéphyr, qualifié en Athlétisme</p>\n<hr>\n<p>Loersque vous obtenez un succès, sans obtenir de Succès critique, lors d'un test pour Désarmer une créature, votre bonus de circonstance aux tests pour Désarmer cette créature est de +4 au lieu de +2. Les autres créatures obtiennent seulement le bonus normal.</p>\n<p>Lorsque vous obtenez un succès critique à un test de Désarmement, vous pouvez immédiatelment Démoraliser votre cible en utilisant une réaction.</p>"
         },
         {
             "id": "Two-Weapon Flurry",
