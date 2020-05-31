@@ -4,7 +4,7 @@
  * **doublon**: 1
 
 
-Dernière mise à jour: 2020-05-28 19:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-05-31 12:36 *(heure de Canada/Montréal)*
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
