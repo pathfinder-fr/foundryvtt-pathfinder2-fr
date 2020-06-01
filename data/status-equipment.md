@@ -11,7 +11,7 @@ Dernière mise à jour: 2020-05-31 12:36 *(heure de Canada/Montréal)*
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[02q8s6sSicMkhs1l.htm](equipment/02q8s6sSicMkhs1l.htm)|Bracers of Armor I||
+|[02q8s6sSicMkhs1l.htm](equipment/02q8s6sSicMkhs1l.htm)|Bracers of Armor I||non
 |[02sF1QlxEx6H6zEP.htm](equipment/02sF1QlxEx6H6zEP.htm)|Hematite|
 |[04giYigfDL5geu5f.htm](equipment/04giYigfDL5geu5f.htm)|Mistform Elixir (Greater)|
 |[07ZbZ50IIpnYBfUW.htm](equipment/07ZbZ50IIpnYBfUW.htm)|Light Pick (+1)|
