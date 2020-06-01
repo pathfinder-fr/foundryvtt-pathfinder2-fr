@@ -5,7 +5,8 @@
  * **officielle**: 15
 
 
-Dernière mise à jour: 2020-06-01 17:22 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-01 17:49 *(heure de Canada/Montréal)*
+Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
@@ -979,7 +980,7 @@ Dernière mise à jour: 2020-06-01 17:22 *(heure de Canada/Montréal)*
 |[payq4TwkN2BRF6fs.htm](equipment/payq4TwkN2BRF6fs.htm)|Spell-Storing|
 |[PBlxTrEyr3qXFBqq.htm](equipment/PBlxTrEyr3qXFBqq.htm)|Lock (Poor)|
 |[pDw2wi0znVb8Dysg.htm](equipment/pDw2wi0znVb8Dysg.htm)|Dread Blindfold|
-|[peAvz7u35GEfTXxp.htm](equipment/peAvz7u35GEfTXxp.htm)|Elven Chain|
+|[peAvz7u35GEfTXxp.htm](equipment/peAvz7u35GEfTXxp.htm)|Elven Chain (Standard-Grade)|
 |[peoheZMxdPHUNo93.htm](equipment/peoheZMxdPHUNo93.htm)|Horseshoes of Speed|
 |[PeS3J9r4ss7gNytK.htm](equipment/PeS3J9r4ss7gNytK.htm)|Orichalcum Shield (High-Grade)|
 |[PGlNIOpo8yedgTFR.htm](equipment/PGlNIOpo8yedgTFR.htm)|Quartz, milky, rose, or smoky|
