@@ -1,6 +1,8 @@
 # État de la traduction (equipment)
 
- * **aucune**: 1489
+ * **aucune**: 1487
+ * **officielle** : 2
+
 
 
 Dernière mise à jour: 2020-05-31 12:36 *(heure de Canada/Montréal)*
