@@ -11,7 +11,7 @@ Dernière mise à jour: 2020-05-31 12:36 *(heure de Canada/Montréal)*
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[02q8s6sSicMkhs1l.htm](equipment/02q8s6sSicMkhs1l.htm)|Bracers of Armor I|
+|[02q8s6sSicMkhs1l.htm](equipment/02q8s6sSicMkhs1l.htm)|Bracers of Armor I||
 |[02sF1QlxEx6H6zEP.htm](equipment/02sF1QlxEx6H6zEP.htm)|Hematite|
 |[04giYigfDL5geu5f.htm](equipment/04giYigfDL5geu5f.htm)|Mistform Elixir (Greater)|
 |[07ZbZ50IIpnYBfUW.htm](equipment/07ZbZ50IIpnYBfUW.htm)|Light Pick (+1)|
@@ -23,8 +23,8 @@ Dernière mise à jour: 2020-05-31 12:36 *(heure de Canada/Montréal)*
 |[0c0Jjyajgt0VTKJj.htm](equipment/0c0Jjyajgt0VTKJj.htm)|Light Mace (+1 Striking)|
 |[0c7zLY9c88K2n0GC.htm](equipment/0c7zLY9c88K2n0GC.htm)|Pathfinder's Pouch|
 |[0CNSvLpeSM4aIfPJ.htm](equipment/0CNSvLpeSM4aIfPJ.htm)|Feather Step Stone|
-|[0f3l3Dq2xJek2UMZ.htm](equipment/0f3l3Dq2xJek2UMZ.htm)|Class Kit (Monk)|
-|[0GOHTXBxs6H6ARBz.htm](equipment/0GOHTXBxs6H6ARBz.htm)|Healer's Gloves (Greater)|
+|[0f3l3Dq2xJek2UMZ.htm](equipment/0f3l3Dq2xJek2UMZ.htm)|Class Kit (Monk)||
+|[0GOHTXBxs6H6ARBz.htm](equipment/0GOHTXBxs6H6ARBz.htm)|Healer's Gloves (Greater)|Fait
 |[0ivo1FwNwXiWUyAp.htm](equipment/0ivo1FwNwXiWUyAp.htm)|Halfling Sling Staff (+1 Striking)|
 |[0lCXehyFlXdYxDfA.htm](equipment/0lCXehyFlXdYxDfA.htm)|Bladed Diabolo|
 |[0lhh2l4kh3QrwYH9.htm](equipment/0lhh2l4kh3QrwYH9.htm)|Hobbling Snare|
