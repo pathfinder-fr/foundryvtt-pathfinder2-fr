@@ -14,16 +14,20 @@ def equals(val1, val2):
 # cette fonction tente une extraction d'une valeur dans un objet
 # Ex: data.level.value => obj["data"]["level"]["value"]
 #
-def getValue(obj, path):
+def getValue(obj, path, exitOnError = True):
   element = obj
   for p in path.split('.'):
     if p in element:
       element = element[p]
-    else:
+    elif exitOnError:
       print("Error with path %s in %s" % (path, obj))
       exit(1)
+    else:
+      return None
   
-  if isinstance(element, int):
+  if element is None:
+    return None
+  elif isinstance(element, int):
     return "%02d" % element
   elif element.isdigit():
     return "%02d" % int(element)

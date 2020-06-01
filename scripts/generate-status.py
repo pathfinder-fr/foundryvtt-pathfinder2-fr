@@ -41,7 +41,7 @@ for D in DIRS:
     content += " * **%s**: %d\n" % (s, stats[s])
   
   content += "\n\nDernière mise à jour: %s *(heure de Canada/Montréal)*" % datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
-  content += "\nCe fichier est généré automatiquement. NE PAS MODIFIER!"
+  content += "\n\nCe fichier est généré automatiquement. NE PAS MODIFIER!"
   if "aucune" in stats and stats["aucune"] > 0:
     content += "\n## Liste des traductions à faire\n\n"
     content += statusContentNOK

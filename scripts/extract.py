@@ -11,7 +11,7 @@ from libdata import *
 FILES = [
   {'id': "classes", 'name': "name", 'desc': "content" },
   {'id': "actions", 'name': "name", 'desc': "data.description.value" },
-  {'id': "equipment", 'name': "name", 'desc': "data.description.value" },
+  {'id': "equipment", 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" },
   {'id': "feats",   'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" },
   {'id': "spells", 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" },
   {'id': "backgrounds", 'name': "name", 'desc': "content" },
@@ -42,7 +42,7 @@ for F in FILES:
       'name': getValue(obj, F['name']), 
       'desc': getValue(obj, F['desc']), 
       'type1': getValue(obj, F['type1']) if 'type1' in F else None,
-      'type2': getValue(obj, F['type2']) if 'type2' in F else None
+      'type2': getValue(obj, F['type2'], False) if 'type2' in F else None
     }
   
   # ==============================
@@ -65,14 +65,17 @@ for F in FILES:
       continue
     
     # build filename
-    filenameBase = "%s.htm" % id
-    filename = filenameBase
+    filenameBase1 = "%s.htm" % id
+    filenameBase2 = "%s.htm" % id
+    filename = filenameBase1
     if source['type2']:
-      filename = "%s-%s-%s" % (source['type1'], source['type2'], filenameBase)
+      filename = "%s-%s-%s" % (source['type1'], source['type2'], filenameBase1)
+      filenameBase2 = "%s-%s" % (source['type1'], filenameBase1)
     elif source['type1']:
-      filename = "%s-%s" % (source['type1'], filenameBase)
+      filename = "%s-%s" % (source['type1'], filenameBase1)
       
-    filepathBase = "%sdata/%s/%s" % (ROOT, F['id'], filenameBase)
+    filepathBase1 = "%sdata/%s/%s" % (ROOT, F['id'], filenameBase1)
+    filepathBase2 = "%sdata/%s/%s" % (ROOT, F['id'], filenameBase2)
     filepath = "%sdata/%s/%s" % (ROOT, F['id'], filename)
     if os.path.isfile(filepath):
       data = fileToData(filepath)
@@ -95,9 +98,11 @@ for F in FILES:
           data['status'] = "changé"
           dataToFile(data, filepath)
 
-    # old path
-    elif os.path.isfile(filepathBase):
-      os.rename(filepathBase, filepath)
+    # old path2
+    elif os.path.isfile(filepathBase1):
+      os.rename(filepathBase1, filepath)
+    elif os.path.isfile(filepathBase2):
+      os.rename(filepathBase2, filepath)
     
     else:
       data = { 
