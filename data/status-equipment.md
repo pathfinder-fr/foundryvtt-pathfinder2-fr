@@ -1506,3 +1506,4 @@ Dernière mise à jour: 2020-05-31 12:36 *(heure de Canada/Montréal)*
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[09iZbcSifVqwVpWh.htm](equipment/09iZbcSifVqwVpWh.htm)|Class Kit (Wizard)|Kit de classe (Magicien)| Fait|
+|[0f3l3Dq2xJek2UMZ.htm](equipment/0f3l3Dq2xJek2UMZ.htm)|Class Kit (Monk)|Kit de classe (Moine)| Fait|
