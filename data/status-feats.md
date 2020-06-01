@@ -1,45 +1,17 @@
 # État de la traduction (feats)
 
- * **libre**: 111
- * **officielle**: 472
- * **aucune**: 616
+ * **libre**: 140
+ * **officielle**: 473
+ * **aucune**: 586
 
 
-Dernière mise à jour: 2020-05-31 12:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-01 17:22 *(heure de Canada/Montréal)*
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[ancestry-01-AgR1OPBHDvwV5wKD.htm](feats/ancestry-01-AgR1OPBHDvwV5wKD.htm)|Unexpected Shift|
-|[ancestry-01-AjdmoGFoSIyx1mxd.htm](feats/ancestry-01-AjdmoGFoSIyx1mxd.htm)|Intuitive Cooperation|
-|[ancestry-01-AlhyF8LCW011w9kq.htm](feats/ancestry-01-AlhyF8LCW011w9kq.htm)|Bouncy Goblin|
-|[ancestry-01-BoqMvGy1jXpsaBbo.htm](feats/ancestry-01-BoqMvGy1jXpsaBbo.htm)|Viking Shieldbearer|
-|[ancestry-01-csoGdGuWasEw3boD.htm](feats/ancestry-01-csoGdGuWasEw3boD.htm)|Saoc Astrology|
-|[ancestry-01-D2tyUKQiDSq3JO1Z.htm](feats/ancestry-01-D2tyUKQiDSq3JO1Z.htm)|Vigorous Health|
-|[ancestry-01-dWGa6cFSVrASTEfd.htm](feats/ancestry-01-dWGa6cFSVrASTEfd.htm)|Seedpod|
-|[ancestry-01-DwnnmTNOvpLbp7jJ.htm](feats/ancestry-01-DwnnmTNOvpLbp7jJ.htm)|Courteous Comeback|
-|[ancestry-01-E1sjYRb4zsZVrzrN.htm](feats/ancestry-01-E1sjYRb4zsZVrzrN.htm)|Innocuous|
-|[ancestry-01-ecJms2jtd6cZ5rQK.htm](feats/ancestry-01-ecJms2jtd6cZ5rQK.htm)|Round Ears|
-|[ancestry-01-eD3KZJV8ACLt2xns.htm](feats/ancestry-01-eD3KZJV8ACLt2xns.htm)|Elven Verve|
-|[ancestry-01-FhCsnHjdIUyKteCM.htm](feats/ancestry-01-FhCsnHjdIUyKteCM.htm)|Lizardfolk Lore|
-|[ancestry-01-FnGOkNyLF4w3FyqZ.htm](feats/ancestry-01-FnGOkNyLF4w3FyqZ.htm)|Fang Sharpener|
-|[ancestry-01-fYVFBnv9aVHv1UNg.htm](feats/ancestry-01-fYVFBnv9aVHv1UNg.htm)|Leshy Superstition|
-|[ancestry-01-G8WgbujrrnMQUQ8E.htm](feats/ancestry-01-G8WgbujrrnMQUQ8E.htm)|Share Thoughts|
-|[ancestry-01-gC5EnlP38t1vTlWt.htm](feats/ancestry-01-gC5EnlP38t1vTlWt.htm)|Esteemed Visitor|
-|[ancestry-01-GEvaoKgQteMrd4ub.htm](feats/ancestry-01-GEvaoKgQteMrd4ub.htm)|Reptile Speaker|
-|[ancestry-01-gKDRnsBPBdhJB0FI.htm](feats/ancestry-01-gKDRnsBPBdhJB0FI.htm)|Avenge in Glory|
-|[ancestry-01-GYdLf1LhvSUeu95Y.htm](feats/ancestry-01-GYdLf1LhvSUeu95Y.htm)|Harmlessly Cute|
-|[ancestry-01-hkMQGiTJCLVAWHy0.htm](feats/ancestry-01-hkMQGiTJCLVAWHy0.htm)|Surface Culture|
-|[ancestry-01-hSzNtRNwrma81Eeq.htm](feats/ancestry-01-hSzNtRNwrma81Eeq.htm)|Life-Giving Magic|
 |[ancestry-01-i5W5aGWEiyo1vt2d.htm](feats/ancestry-01-i5W5aGWEiyo1vt2d.htm)|Leshy Lore|
-|[ancestry-01-iRztLGEK5OfjZTPg.htm](feats/ancestry-01-iRztLGEK5OfjZTPg.htm)|Remorseless Lash|
-|[ancestry-01-itjTPh76mZfJCBxQ.htm](feats/ancestry-01-itjTPh76mZfJCBxQ.htm)|Marsh Runner|
 |[ancestry-01-Jvafxy9fXKeXkTwA.htm](feats/ancestry-01-Jvafxy9fXKeXkTwA.htm)|Forge-Day's Rest|
-|[ancestry-01-kDklfrprKTuTpcEE.htm](feats/ancestry-01-kDklfrprKTuTpcEE.htm)|Shadow of the Wilds|
-|[ancestry-01-KQVE4FsDd9RFpWRz.htm](feats/ancestry-01-KQVE4FsDd9RFpWRz.htm)|Improvisational Defender|
-|[ancestry-01-KuD4Yplwcdolhjsu.htm](feats/ancestry-01-KuD4Yplwcdolhjsu.htm)|Overlooked Mastermind|
-|[ancestry-01-liqDAd5xk2b3xzeE.htm](feats/ancestry-01-liqDAd5xk2b3xzeE.htm)|Quah Bond|
-|[ancestry-01-LLQ5SO2c44uXDFJk.htm](feats/ancestry-01-LLQ5SO2c44uXDFJk.htm)|Tail Whip|
 |[ancestry-01-m9tKNsZQQjHdsmEN.htm](feats/ancestry-01-m9tKNsZQQjHdsmEN.htm)|Tupilaq Carver|
 |[ancestry-01-MXkklchuimVSHZyd.htm](feats/ancestry-01-MXkklchuimVSHZyd.htm)|Theoretical Acumen|
 |[ancestry-01-n9CBjyiB17srkyr4.htm](feats/ancestry-01-n9CBjyiB17srkyr4.htm)|Hobgoblin Weapon Familiarity|
@@ -70,8 +42,6 @@ Dernière mise à jour: 2020-05-31 12:36 *(heure de Canada/Montréal)*
 |[ancestry-01-zAZJpgeEf5TWvdq4.htm](feats/ancestry-01-zAZJpgeEf5TWvdq4.htm)|Watchful Halfling|
 |[ancestry-01-zki5qdM5IQcAiscM.htm](feats/ancestry-01-zki5qdM5IQcAiscM.htm)|Elven Lore|
 |[ancestry-01-zs2FFGI88zB7EaBT.htm](feats/ancestry-01-zs2FFGI88zB7EaBT.htm)|Grim Insight|
-|[ancestry-01-ZxiAMposVPDNPwxI.htm](feats/ancestry-01-ZxiAMposVPDNPwxI.htm)|Forge-Day's Rest|
-|[ancestry-01-ZZzgqFTOtUgnzSLZ.htm](feats/ancestry-01-ZZzgqFTOtUgnzSLZ.htm)|Monstrous Peacemaker|
 |[ancestry-05-3NZSRyoulnzsi3sn.htm](feats/ancestry-05-3NZSRyoulnzsi3sn.htm)|Wildborn Adept|
 |[ancestry-05-7hwTeZNq6Jmzmtz4.htm](feats/ancestry-05-7hwTeZNq6Jmzmtz4.htm)|Agonizing Rebuke|
 |[ancestry-05-9CIy4cJJTcRM30Vz.htm](feats/ancestry-05-9CIy4cJJTcRM30Vz.htm)|Tough Tumbler|
@@ -649,20 +619,48 @@ Dernière mise à jour: 2020-05-31 12:36 *(heure de Canada/Montréal)*
 |[ancestry-01-9bnkx6VgcO5mOk5b.htm](feats/ancestry-01-9bnkx6VgcO5mOk5b.htm)|Dwarven Lore|Connaissance des nains|officielle|
 |[ancestry-01-A1RzkLCj7mXJI1IY.htm](feats/ancestry-01-A1RzkLCj7mXJI1IY.htm)|Unassuming Dedication|Acharnement sans prétention|libre|
 |[ancestry-01-af2fSePLvqMNNp0r.htm](feats/ancestry-01-af2fSePLvqMNNp0r.htm)|Wildborn Magic|Magie sauvage|libre|
+|[ancestry-01-AgR1OPBHDvwV5wKD.htm](feats/ancestry-01-AgR1OPBHDvwV5wKD.htm)|Unexpected Shift|Phasage inattendu|libre|
+|[ancestry-01-AjdmoGFoSIyx1mxd.htm](feats/ancestry-01-AjdmoGFoSIyx1mxd.htm)|Intuitive Cooperation|Coopération intuitive|libre|
+|[ancestry-01-AlhyF8LCW011w9kq.htm](feats/ancestry-01-AlhyF8LCW011w9kq.htm)|Bouncy Goblin|Gobelin rebondissant|libre|
 |[ancestry-01-AogIo1gHLdz7DyHx.htm](feats/ancestry-01-AogIo1gHLdz7DyHx.htm)|Forlorn|Délaissé|officielle|
+|[ancestry-01-BoqMvGy1jXpsaBbo.htm](feats/ancestry-01-BoqMvGy1jXpsaBbo.htm)|Viking Shieldbearer|Porteur de bouclier viking|libre|
 |[ancestry-01-C1R4wd6G46CAVIn7.htm](feats/ancestry-01-C1R4wd6G46CAVIn7.htm)|Unburdened Iron|Fer allégé|officielle|
 |[ancestry-01-ccWf2F5DqiqFwiQ1.htm](feats/ancestry-01-ccWf2F5DqiqFwiQ1.htm)|Gnome Polyglot|Polyglotte gnome|libre|
+|[ancestry-01-csoGdGuWasEw3boD.htm](feats/ancestry-01-csoGdGuWasEw3boD.htm)|Saoc Astrology|Astrologie saoc|libre|
 |[ancestry-01-CXS0ryG2SODSobm9.htm](feats/ancestry-01-CXS0ryG2SODSobm9.htm)|Dwarven Weapon Familiarity|Familiarité avec les armes naines|officielle|
+|[ancestry-01-D2tyUKQiDSq3JO1Z.htm](feats/ancestry-01-D2tyUKQiDSq3JO1Z.htm)|Vigorous Health|Santé vigoureuse|libre|
 |[ancestry-01-D3SuA5MaKucO1flE.htm](feats/ancestry-01-D3SuA5MaKucO1flE.htm)|General Training|Formation généraliste|officielle|
 |[ancestry-01-Dq4JSejEdCzGNeTc.htm](feats/ancestry-01-Dq4JSejEdCzGNeTc.htm)|Arcane Tattoos|Tatouages arcaniques|libre|
+|[ancestry-01-dWGa6cFSVrASTEfd.htm](feats/ancestry-01-dWGa6cFSVrASTEfd.htm)|Seedpod|Cosse|libre|
+|[ancestry-01-DwnnmTNOvpLbp7jJ.htm](feats/ancestry-01-DwnnmTNOvpLbp7jJ.htm)|Courteous Comeback|Retour courtois|libre|
+|[ancestry-01-E1sjYRb4zsZVrzrN.htm](feats/ancestry-01-E1sjYRb4zsZVrzrN.htm)|Innocuous|Inoffensif|libre|
+|[ancestry-01-ecJms2jtd6cZ5rQK.htm](feats/ancestry-01-ecJms2jtd6cZ5rQK.htm)|Round Ears|Oreilles arrondies|libre|
+|[ancestry-01-eD3KZJV8ACLt2xns.htm](feats/ancestry-01-eD3KZJV8ACLt2xns.htm)|Elven Verve|Verve elfique|libre|
 |[ancestry-01-ED58GzldWb82yc2q.htm](feats/ancestry-01-ED58GzldWb82yc2q.htm)|Animal Accomplice|Complice animal|officielle|
 |[ancestry-01-EFhh3AenX7wtAmrs.htm](feats/ancestry-01-EFhh3AenX7wtAmrs.htm)|Orc Superstition|Superstition Orque|officielle|
 |[ancestry-01-ehvHedIwPcxq9cRt.htm](feats/ancestry-01-ehvHedIwPcxq9cRt.htm)|Sure Feet|Pied assuré|officielle|
+|[ancestry-01-FhCsnHjdIUyKteCM.htm](feats/ancestry-01-FhCsnHjdIUyKteCM.htm)|Lizardfolk Lore|Connaissance des hommes-lézards|libre|
+|[ancestry-01-FnGOkNyLF4w3FyqZ.htm](feats/ancestry-01-FnGOkNyLF4w3FyqZ.htm)|Fang Sharpener|Aiguiseur de crocs|libre|
 |[ancestry-01-FWCULKnVXhSPL0ST.htm](feats/ancestry-01-FWCULKnVXhSPL0ST.htm)|Fey Fellowship|Camaraderie féerique|officielle|
+|[ancestry-01-fYVFBnv9aVHv1UNg.htm](feats/ancestry-01-fYVFBnv9aVHv1UNg.htm)|Leshy Superstition|Superstition léchy|libre|
 |[ancestry-01-g388ImzpenYBoiEF.htm](feats/ancestry-01-g388ImzpenYBoiEF.htm)|City Scavenger|Charognard urbain|officielle|
+|[ancestry-01-G8WgbujrrnMQUQ8E.htm](feats/ancestry-01-G8WgbujrrnMQUQ8E.htm)|Share Thoughts|Partager les pensées|libre|
+|[ancestry-01-gC5EnlP38t1vTlWt.htm](feats/ancestry-01-gC5EnlP38t1vTlWt.htm)|Esteemed Visitor|Visiteur estimé|libre|
+|[ancestry-01-GEvaoKgQteMrd4ub.htm](feats/ancestry-01-GEvaoKgQteMrd4ub.htm)|Reptile Speaker|Locuteur reptilien|libre|
 |[ancestry-01-GF9kkULUYowgjEWM.htm](feats/ancestry-01-GF9kkULUYowgjEWM.htm)|Rough Rider|Cavalier farouche|officielle|
+|[ancestry-01-gKDRnsBPBdhJB0FI.htm](feats/ancestry-01-gKDRnsBPBdhJB0FI.htm)|Avenge in Glory|Revanche dans la gloire|libre|
+|[ancestry-01-GYdLf1LhvSUeu95Y.htm](feats/ancestry-01-GYdLf1LhvSUeu95Y.htm)|Harmlessly Cute|Inoffensivement mignon|libre|
+|[ancestry-01-hkMQGiTJCLVAWHy0.htm](feats/ancestry-01-hkMQGiTJCLVAWHy0.htm)|Surface Culture|Culture de la surface|libre|
 |[ancestry-01-HOUHs5rahwIsQoBf.htm](feats/ancestry-01-HOUHs5rahwIsQoBf.htm)|Stonecunning|Connaissance de la pierre|officielle|
+|[ancestry-01-hSzNtRNwrma81Eeq.htm](feats/ancestry-01-hSzNtRNwrma81Eeq.htm)|Life-Giving Magic|Magie de la vie|libre|
+|[ancestry-01-iRztLGEK5OfjZTPg.htm](feats/ancestry-01-iRztLGEK5OfjZTPg.htm)|Remorseless Lash|Fouetter sans remord|libre|
+|[ancestry-01-itjTPh76mZfJCBxQ.htm](feats/ancestry-01-itjTPh76mZfJCBxQ.htm)|Marsh Runner|Coureur des marais|libre|
 |[ancestry-01-kCO4r8NOm8E2T3eH.htm](feats/ancestry-01-kCO4r8NOm8E2T3eH.htm)|Nimble Elf|Elf preste|officielle|
+|[ancestry-01-kDklfrprKTuTpcEE.htm](feats/ancestry-01-kDklfrprKTuTpcEE.htm)|Shadow of the Wilds|Ombre des étendues sauvages|libre|
+|[ancestry-01-KQVE4FsDd9RFpWRz.htm](feats/ancestry-01-KQVE4FsDd9RFpWRz.htm)|Improvisational Defender|Défenseur improvisé|libre|
+|[ancestry-01-KuD4Yplwcdolhjsu.htm](feats/ancestry-01-KuD4Yplwcdolhjsu.htm)|Overlooked Mastermind|Génie négligé|libre|
+|[ancestry-01-liqDAd5xk2b3xzeE.htm](feats/ancestry-01-liqDAd5xk2b3xzeE.htm)|Quah Bond|Lien Quah|libre|
+|[ancestry-01-LLQ5SO2c44uXDFJk.htm](feats/ancestry-01-LLQ5SO2c44uXDFJk.htm)|Tail Whip|Queue fouet|libre|
 |[ancestry-01-lwLcUHQMOqfaNND4.htm](feats/ancestry-01-lwLcUHQMOqfaNND4.htm)|Cooperative Nature|Nature coopérative|officielle|
 |[ancestry-01-mxhGH4FVYXJwb0BC.htm](feats/ancestry-01-mxhGH4FVYXJwb0BC.htm)|Gnome Obsession|Obsession Gnome|officielle|
 |[ancestry-01-ngEd8PgsyAARuTQ9.htm](feats/ancestry-01-ngEd8PgsyAARuTQ9.htm)|Vengeful Hatred|Soif de vengeance|officielle|
@@ -686,6 +684,8 @@ Dernière mise à jour: 2020-05-31 12:36 *(heure de Canada/Montréal)*
 |[ancestry-01-X9tKWtQrAcmn26Nv.htm](feats/ancestry-01-X9tKWtQrAcmn26Nv.htm)|Adapted Cantrip|tour de magie adapté|officielle|
 |[ancestry-01-Y1bEisU8jVCsIYk3.htm](feats/ancestry-01-Y1bEisU8jVCsIYk3.htm)|Woodcraft|Forestier|libre|
 |[ancestry-01-ZbRVqf14RTJJIZXG.htm](feats/ancestry-01-ZbRVqf14RTJJIZXG.htm)|Halfling Luck|Chance halfeline|officielle|
+|[ancestry-01-ZxiAMposVPDNPwxI.htm](feats/ancestry-01-ZxiAMposVPDNPwxI.htm)|Forge-Day's Rest|Repos du jour de forge|libre|
+|[ancestry-01-ZZzgqFTOtUgnzSLZ.htm](feats/ancestry-01-ZZzgqFTOtUgnzSLZ.htm)|Monstrous Peacemaker|Médiateur monstrueux|officielle|
 |[ancestry-05-0ihK3qYItmi8eVZs.htm](feats/ancestry-05-0ihK3qYItmi8eVZs.htm)|Eclectic Obsession|Obsession éclectique|libre|
 |[ancestry-05-4M36jGbeSDfZFM38.htm](feats/ancestry-05-4M36jGbeSDfZFM38.htm)|Elven Instincts|Instincts elfiques|libre|
 |[ancestry-05-5AnJTAZnuWrkL8fa.htm](feats/ancestry-05-5AnJTAZnuWrkL8fa.htm)|Defiance Unto Death|Défi jusqu'à la mort|libre|

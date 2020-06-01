@@ -5,7 +5,7 @@
  * **aucune**: 1
 
 
-Dernière mise à jour: 2020-05-31 12:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-01 17:22 *(heure de Canada/Montréal)*
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
