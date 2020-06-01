@@ -2,87 +2,17 @@
     "label": "Équipement",
     "entries": [
         {
-            "id": "Short Tool",
-            "name": "Outil",
-            "description": "<p><span class=\"fontstyle0\">cette entrée est un fourre-tout réunissant les outils manuels de base qui n’ont pas d’objectif spécifique pour l’aventure. Une houe, une pelle ou une masse est un outil long, tandis qu’un foret à main, un crochet à glace ou une truelle est un outil court. Un outil peut en général être utilisé comme une arme improvisée, infligeant 1d4 dégâts pour un outil court ou 1d6 pour un outil long. Le MJ détermine le type de  dégâts approprié ou l’adapte si nécessaire.</span> </p>\n"
-        },
-        {
-            "id": "Thieves’ Tools",
-            "name": "Outils de voleur",
-            "description": "<p>Vous avez besoin d’outils de voleur pour Crocheter des serrures ou Désamorcer des dispositifs (de certains types) à l’aide de la compétence Vol. Les outils de voleur d’infiltration ajoutent un bonus d’objet de +1 aux tests pour Crocheter des serrures et Désamorcer des dispositifs. Si vos outils de voleur sont brisés, vous pouvez les réparer en remplaçant les crochets par des crochets de rechange adaptés à vos outils ; cela ne nécessite pas l’utilisation de l’action Réparer..&nbsp;</p>\n\n"
-        },
-        {
-            "id": "Class Kit (Wizard)",
-            "name": "Kit de classe (Magicien)",
-            "description": "<div><strong>Armes </strong>bâton</div>\n<div><strong>Equipement </strong> pack d’aventurier, bourse de composants matériels,\nnécessaire d’écriture\n</div>\n<div><strong>Options </strong> arbalète avec 20 carreaux  (3 gp, 2 sp)</div>\n"
-        },
-        {
-            "id": "Padded Armor",
-            "name": "Armure matelassée",
-            "description": "<p><span class=\"fontstyle0\">Cette armure est simplement formée d’une couche de tissu épais et matelassé ; elle est parfois utilisée à cause de son coût peu élevé. Les armures matelassées sont plus faciles à endommager et à détruire que les autres types d’armures. Une armure lourde comporte en plus une sous-couche d’armure matelassée incluse dans son prix, mais elle perd alors son trait confort. Vous pouvez porter seulement la sous-couche de votre armure matelassée pour dormir,  si votre armure lourde est détruite ou si vous ne portez pas l’armure lourde complète. Cela vous permet de garder l’armure investie et de bénéficier du pouvoir des runes se trouvant  sur l’armure lourde associée, mais personne d’autre ne peut  porter votre armure lourde sans la sous-couche matelassée.</span> </p>\n\n"
-        },
-        {
-            "id": "Crossbow",
-            "name": "Arbalète",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme à distance est faite de l’assemblage d’un arc monté sur un cadre à poignée appelé arbrier. L’arbrier possède un mécanisme pour bloquer la corde attachée à un mécanisme de déclenchement, qui relâche la tension et lâche un carreau..&nbsp;</span></p>\n\n"
-        },
-        {
-            "id": "Class Kit (Monk)",
-            "name": "Kit de classe (moine)",
-            "description": "<div><strong>Armes</strong> pique, bâton</div>\n<div><strong>Equipement</strong>pack d’aventurier, bandoulière, kit d’escalade</div>\n<div>, grappin, bâton fumigène inférieur</div>\n"
-        },
-        {
-            "id": "Whip",
-            "name": "Fouet",
-            "description": "<p>ce long morceau de cuir épais, souvent tressé, inflige à distance une entaille douloureuse, mais non létale, généralement accompagnée d’un claquement distinctif.</p>\n"
-        },
-        {
-            "id": "Spiked Chain",
-            "name": "Chaîne cloutée",
-            "description": "<p><span class=\"fontstyle0\">Cette chaîne de 1,20 m de long est recouverte d’ardillons et comporte des pointes à une ou à ses deux extrémités. Certaines sont dotées d’anneaux métalliques servant de poignées.</span></p>\n\n"
-        },
-        {
-            "id": "Battle Axe",
-            "name": "Hache d'armes",
-            "description": "<p><span class=\"fontstyle0\">Ces haches sont conçues explicitement comme des armes plutôt que comme des outils. Elles pèsent généralement moins lourd, avec un manche renforcé de bandes ou de fixations métalliques et une lame plus tranchante, ce qui les rend idéales pour couper des membres bien plus que du bois.</span></p>\n\n"
-        },
-        {
-            "id": "Light Pick (+1)",
-            "name": "Pic de guerre léger",
-            "description": "<p>Un pic de guerre léger est un outil minier modifié, avec un manche en bois se terminant par une tête de pioche, conçu pour perforer l’armure et la chair plutôt que briser les rochers.</p>\n<p>Cette arme a une rune de <em> puissance d'arme +1 </em>  (bonus d'objet +1 pour les jets d'attaque avec l'arme).</p>\n\n\n"
-        },
-        {
-            "id": "Backpack",
-            "name": "Sac à dos",
-            "description": "<p>Un sac à dos peut contenir des objets jusqu’à un Encombrement 4. Si vous transportez ou stockez le sac plutôt que de l’avoir sur le dos, son Encombrement devient léger à la place de négligeable. Les deux premiers Encombrements que vous rangez dans votre  sac à dos ne sont pas pris en compte dans votre limite  d’Encombrement.\n.&nbsp;</p>\n\n"
+            "id": "Kama",
+            "name": "Kama",
+            "description": "<p><span class=\"fontstyle0\">Semblable à une faucille et utilisé dans certaines régions pour récolter le grain, le kama possède une lame courte et légèrement incurvée, et un manche en bois.</span> </p>\n\n"
         },
         {
             "id": "Gold Pieces",
             "name": "Pièces d'or"
         },
         {
-            "id": "Warhammer",
-            "name": "Marteau de guerre",
-            "description": "<p>cette arme possède un manche en bois se terminant par une lourde tête en métal. La tête du marteau peut être à simple face ou à double face, mais elle est toujours capable de délivrer de puissants coups contondants.\n</p>\n\n"
-        },
-        {
-            "id": "Kama",
-            "name": "Kama",
-            "description": "<p><span class=\"fontstyle0\">Semblable à une faucille et utilisé dans certaines régions pour récolter le grain, le kama possède une lame courte et légèrement incurvée, et un manche en bois.</span> </p>\n\n"
-        },
-        {
-            "id": "Crossbow (+1)",
-            "name": "Arbalète (+1)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme à distance est faite de l’assemblage d’un arc monté sur un cadre à poignée appelé arbrier. L’arbrier possède un mécanisme pour bloquer la corde attachée à un mécanisme de déclenchement, qui relâche la tension et lâche un carreau.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme a une rune <em>de puissance d'arme +1</em> (bonus d'objet +1 aux jets d'attaque avec l'arme)</span></p>\n\n"
-        },
-        {
             "id": "Silver Pieces",
             "name": "Pièces d'argent"
-        },
-        {
-            "id": "Light Pick",
-            "name": "Pic de guerre léger",
-            "description": "<p>Un pic de guerre léger est un outil minier modifié, avec un manche en bois se terminant par une tête de pioche, conçu pour perforer l’armure et la chair plutôt que briser les rochers.</p>\n\n"
         },
         {
             "id": "Shortsword",
@@ -90,9 +20,79 @@
             "description": "<p> ces lames se présentent dans toute une variété de formes et de styles, mais elles mesurent généralement 60 cm de long.</p>"
         },
         {
+            "id": "Padded Armor",
+            "name": "Armure matelassée",
+            "description": "<p><span class=\"fontstyle0\">Cette armure est simplement formée d’une couche de tissu épais et matelassé ; elle est parfois utilisée à cause de son coût peu élevé. Les armures matelassées sont plus faciles à endommager et à détruire que les autres types d’armures. Une armure lourde comporte en plus une sous-couche d’armure matelassée incluse dans son prix, mais elle perd alors son trait confort. Vous pouvez porter seulement la sous-couche de votre armure matelassée pour dormir,  si votre armure lourde est détruite ou si vous ne portez pas l’armure lourde complète. Cela vous permet de garder l’armure investie et de bénéficier du pouvoir des runes se trouvant  sur l’armure lourde associée, mais personne d’autre ne peut  porter votre armure lourde sans la sous-couche matelassée.</span> </p>\n\n"
+        },
+        {
+            "id": "Class Kit (Monk)",
+            "name": "Kit de classe (moine)",
+            "description": "<div><strong>Armes</strong> pique, bâton</div>\n<div><strong>Equipement</strong>pack d’aventurier, bandoulière, kit d’escalade</div>\n<div>, grappin, bâton fumigène inférieur</div>\n"
+        },
+        {
+            "id": "Crossbow",
+            "name": "Arbalète",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme à distance est faite de l’assemblage d’un arc monté sur un cadre à poignée appelé arbrier. L’arbrier possède un mécanisme pour bloquer la corde attachée à un mécanisme de déclenchement, qui relâche la tension et lâche un carreau..&nbsp;</span></p>\n\n"
+        },
+        {
             "id": "Scourge",
             "name": "Fléau",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">cette arme consiste en une poignée de bois attachée à une boule ou à un cylindre à pointes au moyen d’une chaîne, d’une corde ou d’une\nlanière de cuir..&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Whip",
+            "name": "Fouet",
+            "description": "<p>ce long morceau de cuir épais, souvent tressé, inflige à distance une entaille douloureuse, mais non létale, généralement accompagnée d’un claquement distinctif.</p>\n"
+        },
+        {
+            "id": "Light Pick",
+            "name": "Pic de guerre léger",
+            "description": "<p>Un pic de guerre léger est un outil minier modifié, avec un manche en bois se terminant par une tête de pioche, conçu pour perforer l’armure et la chair plutôt que briser les rochers.</p>\n\n"
+        },
+        {
+            "id": "Short Tool",
+            "name": "Outil",
+            "description": "<p><span class=\"fontstyle0\">cette entrée est un fourre-tout réunissant les outils manuels de base qui n’ont pas d’objectif spécifique pour l’aventure. Une houe, une pelle ou une masse est un outil long, tandis qu’un foret à main, un crochet à glace ou une truelle est un outil court. Un outil peut en général être utilisé comme une arme improvisée, infligeant 1d4 dégâts pour un outil court ou 1d6 pour un outil long. Le MJ détermine le type de  dégâts approprié ou l’adapte si nécessaire.</span> </p>\n"
+        },
+        {
+            "id": "Light Pick (+1)",
+            "name": "Pic de guerre léger",
+            "description": "<p>Un pic de guerre léger est un outil minier modifié, avec un manche en bois se terminant par une tête de pioche, conçu pour perforer l’armure et la chair plutôt que briser les rochers.</p>\n<p>Cette arme a une rune de <em> puissance d'arme +1 </em>  (bonus d'objet +1 pour les jets d'attaque avec l'arme).</p>\n\n\n"
+        },
+        {
+            "id": "Crossbow (+1)",
+            "name": "Arbalète (+1)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme à distance est faite de l’assemblage d’un arc monté sur un cadre à poignée appelé arbrier. L’arbrier possède un mécanisme pour bloquer la corde attachée à un mécanisme de déclenchement, qui relâche la tension et lâche un carreau.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme a une rune <em>de puissance d'arme +1</em> (bonus d'objet +1 aux jets d'attaque avec l'arme)</span></p>\n\n"
+        },
+        {
+            "id": "Battle Axe",
+            "name": "Hache d'armes",
+            "description": "<p><span class=\"fontstyle0\">Ces haches sont conçues explicitement comme des armes plutôt que comme des outils. Elles pèsent généralement moins lourd, avec un manche renforcé de bandes ou de fixations métalliques et une lame plus tranchante, ce qui les rend idéales pour couper des membres bien plus que du bois.</span></p>\n\n"
+        },
+        {
+            "id": "Spiked Chain",
+            "name": "Chaîne cloutée",
+            "description": "<p><span class=\"fontstyle0\">Cette chaîne de 1,20 m de long est recouverte d’ardillons et comporte des pointes à une ou à ses deux extrémités. Certaines sont dotées d’anneaux métalliques servant de poignées.</span></p>\n\n"
+        },
+        {
+            "id": "Thieves’ Tools",
+            "name": "Outils de voleur",
+            "description": "<p>Vous avez besoin d’outils de voleur pour Crocheter des serrures ou Désamorcer des dispositifs (de certains types) à l’aide de la compétence Vol. Les outils de voleur d’infiltration ajoutent un bonus d’objet de +1 aux tests pour Crocheter des serrures et Désamorcer des dispositifs. Si vos outils de voleur sont brisés, vous pouvez les réparer en remplaçant les crochets par des crochets de rechange adaptés à vos outils ; cela ne nécessite pas l’utilisation de l’action Réparer..&nbsp;</p>\n\n"
+        },
+        {
+            "id": "Backpack",
+            "name": "Sac à dos",
+            "description": "<p>Un sac à dos peut contenir des objets jusqu’à un Encombrement 4. Si vous transportez ou stockez le sac plutôt que de l’avoir sur le dos, son Encombrement devient léger à la place de négligeable. Les deux premiers Encombrements que vous rangez dans votre  sac à dos ne sont pas pris en compte dans votre limite  d’Encombrement.\n.&nbsp;</p>\n\n"
+        },
+        {
+            "id": "Warhammer",
+            "name": "Marteau de guerre",
+            "description": "<p>cette arme possède un manche en bois se terminant par une lourde tête en métal. La tête du marteau peut être à simple face ou à double face, mais elle est toujours capable de délivrer de puissants coups contondants.\n</p>\n\n"
+        },
+        {
+            "id": "Class Kit (Wizard)",
+            "name": "Kit de classe (Magicien)",
+            "description": "<div><strong>Armes </strong>bâton</div>\n<div><strong>Equipement </strong> pack d’aventurier, bourse de composants matériels,\nnécessaire d’écriture\n</div>\n<div><strong>Options </strong> arbalète avec 20 carreaux  (3 gp, 2 sp)</div>\n"
         }
     ]
 }

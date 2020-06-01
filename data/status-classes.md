@@ -4,7 +4,8 @@
  * **doublon**: 1
 
 
-Dernière mise à jour: 2020-06-01 17:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-01 18:12 *(heure de Canada/Montréal)*
+
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
 
