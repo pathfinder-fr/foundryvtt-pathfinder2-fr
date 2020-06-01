@@ -9,7 +9,7 @@ import datetime
 from libdata import *
 
 
-DIRS = ["actions", "classes", "equipment", "feats", "spells"]
+DIRS = ["actions", "classes", "equipment", "feats", "spells", "backgrounds", "ancestryfeatures"]
 ROOT=".."
 
 for D in DIRS:

@@ -14,6 +14,8 @@ FILES = [
   {'id': "equipment", 'name': "name", 'desc': "data.description.value" },
   {'id': "feats",   'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" },
   {'id': "spells", 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" },
+  {'id': "backgrounds", 'name': "name", 'desc': "content" },
+  {'id': "ancestryfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" },
 ]
   
 ROOT="../"

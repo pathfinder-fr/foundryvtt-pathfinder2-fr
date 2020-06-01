@@ -8,7 +8,9 @@ TRANSL={
   'pf2e.classes': { 'label': "Classes", 'path': "../data/classes/" },
   'pf2e.equipment-srd': { 'label': "Équipement", 'path': "../data/equipment/" },
   'pf2e.feats-srd': { 'label': "Dons", 'path': "../data/feats/" },
-  'pf2e.spells-srd': { 'label': "Spells", 'path': "../data/spells/" }
+  'pf2e.spells-srd': { 'label': "Sorts", 'path': "../data/spells/" },
+  'pf2e.backgrounds': { 'label': "Backgrounds", 'path': "../data/backgrounds/" },
+  'pf2e.ancestryfeatures': { 'label': "Ascendances", 'path': "../data/ancestryfeatures/" }
 }
 
 import json
