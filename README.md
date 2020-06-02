@@ -15,7 +15,9 @@ Expérimentations en cours pour:
   * Voir [data/instructions.md](data/instructions.md) pour plus d'instructions concernant les fichiers de traduction
 * Pour voir l'état d'avancement des traductions:
   * [Actions](data/status-actions.md)
+  * [Backgrounds](data/status-backgrounds.md)
   * [Classes](data/status-classes.md)
+  * [ancestry features](data/status-ancestryfeatures.md)
   * [Équipment](data/status-equipment.md)
   * [Dons](data/status-feats.md)
   * [Sorts](data/status-spells.md)
