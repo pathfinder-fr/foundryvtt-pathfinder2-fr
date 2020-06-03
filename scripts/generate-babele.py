@@ -25,7 +25,7 @@ for key in TRANSL:
     'entries': []
   }
 
-  count = { "non": 0, "libre": 0, "officielle": 0 }
+  count = { "non": 0, "libre": 0, "officielle": 0, "changé": 0 }
     
   # read all files in folder
   for fpath in all_files:
@@ -60,6 +60,8 @@ for key in TRANSL:
       count["libre"]+=1
     elif status == "officielle":
       count["officielle"]+=1
+    elif status == "changé":
+      count["changé"]+=1
     elif status == "doublon":
       continue
     elif status == "aucune":
@@ -81,4 +83,5 @@ for key in TRANSL:
 
   print("Statistiques: " + TRANSL[key]['label']);
   print(" - Traduits: %d (officielle) %d (libre)" % (count["officielle"], count["libre"]));
+  print(" - Changé: %d" % count["changé"]);
   print(" - Non-traduits: %d" % count["non"]);

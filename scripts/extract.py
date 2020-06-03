@@ -80,7 +80,7 @@ for F in FILES:
     if os.path.isfile(filepath):
       data = fileToData(filepath)
       
-      if not data["status"] in ("libre", "officielle", "doublon", "aucune"):
+      if not data["status"] in ("libre", "officielle", "doublon", "aucune", "changé"):
         print("Status error for : %s" % filepath);
         exit(1)
       

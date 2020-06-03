@@ -1,4 +1,145 @@
 {
     "label": "Ascendances",
-    "entries": []
+    "entries": [
+        {
+            "id": "Whisper Elf",
+            "name": "Elfe des murmures",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre ouïe surdéveloppée vous permet de détecter les bruits les plus infimes. Tant que vous pouvez entendre normalement, vous pouvez utiliser l’action Chercher pour sentir la présence de créatures non détectées qui se trouvent dans un cône de 18 m au lieu d’un cône de 9 m. Quand vous utilisez l’action Chercher, vous bénéficiez également d’un bonus de circonstances de +2 pour localiser des créatures non détectées que vous pouvez entendre et qui se trouvent dans un cône de 9 m.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Gutsy Halfling",
+            "name": "Halfelin flegmatique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre lignée, réputée pour garder la tête froide et résister à la panique dans les pires situations, a donné naissance à de sages dirigeants et même quelques héros. Si vous obtenez un succès à un jet de sauvegarde contre un effet d’émotion, vous obtenez à la place un succès critique.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Half-Orc",
+            "name": "Demi-orc",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Soit l’un de vos parents était un orc, soit les deux étaient des demi-orcs. Votre peau aux nuances verdâtres et d’autres signes trahissent votre ascendance orque. Vous gagnez le trait orc et le pouvoir vision nocturne. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des orcs, des demi-orcs et des humains..&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Razortooth Goblin",
+            "name": "Gobelin Dent’rasoir",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les dents que vous avez héritées de votre famille constituent une arme formidable. Vous gagnez une attaque à mains nues de mâchoires qui inflige 1d6 dégâts perforants. Vos mâchoires font partie du groupe pugilat et possèdent les traits finesse et mains nues.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Chameleon Gnome",
+            "name": "Gnome Caméléon",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La couleur de vos cheveux et de votre peau peut changer, peut-être grâce à une magie latente qui coule dans vos veines. Vous pouvez ainsi lentement en modifier l’éclat et la couleur exacte. Cette coloration n’est pas nécessairement uniforme et vous pouvez créer des motifs ou des dessins colorés sur votre corps. Vous devez utiliser une action unique pour effectuer des changements mineurs sur votre corps, ou consacrer une heure aux changements importants qui affectent tout votre corps. Quand vous dormez, ces couleurs changent naturellement en fonction de vos rêves et vous vous réveillez chaque matin avec un coloris inattendu. Quand vous vous trouvez dans un endroit où votre coloration est proche de la couleur de votre environnement (par exemple, un vert végétal dans une forêt), vous pouvez utiliser une action unique pour faire des modifications mineures et localisées qui vous permettront de mieux vous fondre dans votre environnement. Vous gagnez ainsi un bonus de circonstances de +2 à vos tests de Discrétion jusqu’à ce quevotre environnement change de couleur ou de motifs.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Umbral Gnome",
+            "name": "Gnome ombral",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes capable de voir dans les ténèbres les plus totales. Vous tenez peut-être ce pouvoir d’un lien avec les fées sombres ou les fées des ombres, avec les gnomes des profondeurs (aussi appelés les svirfneblins) qui vivent sous terre, ou il vous vient d’une autre origine. Vous gagnez vision dans le noir.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Charhide Goblin",
+            "name": "Gobelin peaud'charbon",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres ont toujours eu une connexion avec le feu et une peau plus épaisse que la norme, qui vous permet de mieux résister au feu. Vous gagnez une résistance au feu égale à la moitié de votre niveau (avec un minimum de 1). Vous vous remettez également plus vite des brûlures causées par le feu. Votre test nu pour guérir des dégâts de feu persistants est d’un DD 10 au lieu de DD 15, et est réduit à un DD 5 si une autre créature utilise une action particulièrement adaptée pour vous aider.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Wildwood Halfling",
+            "name": "Halfelin bois-sauvage",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous venez des profondeurs d’une jungle ou d’une forêt et avez appris à utiliser votre petite taille pour vous faufiler dans les broussailles, à travers les plantes grimpantes et pour négocier d’autres obstacles. Vous ignorez le terrain rendu difficile par les arbres, le feuillage ou les broussailles.&nbsp;</span></p>"
+        },
+        {
+            "id": "Fey-Touched Gnome",
+            "name": "Gnome béni des fées",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le sang des fées coule avec une telle pureté dans vos veines que vous êtes véritablement l’une d’elles. Vous gagnez le trait fée en plus des traits gnome et humanoïde. Choisissez un tour de magie dans la liste des sorts primordiaux (page 313) <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=4\">primal</a>. Vous pouvez lancer ce tour de magie comme un sort inné primordial à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur. Vous pouvez échanger ce tour de magie contre un autre choisi dans la même liste une fois par jour, en méditant pour vous réaligner avec le Premier Monde ; il s’agit d’une activité d’une durée de 10 min qui possède le trait concentration.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Forge Dwarf",
+            "name": "Nain des forges",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres vivaient dans des déserts torrides ou dans des chambres volcaniques souterraines et ils vous ont transmis leur remarquable capacité d’adaptation aux environnements chauds. Vous bénéficiez ainsi d’une résistance au feu égale à la moitié de votre niveau (avec un minimum de 1) et vous subissez tous les effets environnementaux liés à la chaleur comme si leur intensité était réduite d’un rang (la chaleur extraordinaire devient extrême, la chaleur extrême devient grande, etc.).&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Unbreakable Goblin",
+            "name": "Gobelin Incassable",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre crâne exceptionnellement épais, vos os cartilagineux et de nombreuses autres particularités physiques vous permettent de vous remettre promptement de vos blessures. Votre ascendance vous fait gagner 10 points de vie au lieu de 6. Quand vous tombez, les dégâts que vous subissez correspondent à ceux d’une chute deux fois moins importante.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Rock Dwarf",
+            "name": "Nain des roches",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres vivaient et travaillaient au milieu des pierres vénérables qui coiffent les\nmontagnes ou s’enfoncent sous la terre. Grâce à eux, quand vous vous dressez, vous êtes solide comme un roc. Vous gagnez un bonus de circonstances de +2 à votre DD de Vigueur ou de Réflexes contre les tentatives de vous Pousser ou de vous faire un Croc-enjambe. Ce bonus s’applique également aux jets de sauvegarde contre les sorts ou effets qui tentent de vous faire tomber à terre.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">En outre, quand vous subissez un effet qui devrait vous forcer à vous déplacer de 3 m ou plus, vous ne vous déplacez que de la moitié de cette distance.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Woodland Elf",
+            "name": "Elfe des bois",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous êtes adapté à la vie en forêt ou dans la jungle et vous savez ainsi grimper aux arbres et utiliser le feuillage à votre avantage. Quand vous Escaladez des arbres, des plantes grimpantes ou d’autres frondaisons, vous vous déplacez de la moitié de votre Vitesse sur un succès et de toute votre Vitesse sur un succès critique (si vous possédez le don Escalade rapide, vous vous déplacez de toute votre Vitesse sur un succès). Ces effets sont inopérants si vous utilisez une Vitesse d’escalade.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez toujours utiliser l’action Mise à l’abri quand vous vous trouvez en forêt afin de trouver un abri, même si vous ne vous trouvez pas près d’un obstacle derrière lequel vous Mettre à l’abri.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Snow Goblin",
+            "name": "Gobelin des Neiges",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous êtes acclimaté à la vie dans les terres glacées. Votre carnation se situe entre le bleu clair et le bleu marine. Vous êtes également couvert d’une fourrure bleue. Vous gagnez une résistance au froid égale à la moitié de votre niveau (avec un minimum de 1). Vous subissez tous les effets environnementaux liés au froid comme si leur intensité était réduite d’un rang (le froid extraordinaire devient extrême, le froid extrême devient grand, etc.).&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Cavern Elf",
+            "name": "Elfe des cavernes",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes né ou avez passé de nombreuses années dans des tunnels souterrains ou des cavernes, dans un environnement très sombre. Vous gagnez vision dans le noir.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Nomadic Halfling",
+            "name": "Halfelin nomade",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres parcourent les routes depuis des générations, sans jamais avoir ressenti la nécessité de s’installer quelque part. Vous gagnez deux langues de votre choix parmi les langues courantes et peu courantes auxquelles vous avez accès et, à chaque fois que vous choisissez le don Polyglotte <a href=\"https://2e.aonprd.com/Feats.aspx?ID=814\">Multilingual</a>, vous gagnez une langue supplémentaire.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Death Warden Dwarf",
+            "name": "Nain gardemort",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres ont passé des générations à garder des tombeaux et ils vous ont transmis les pouvoirs qu’ils ont cultivés pour se garder de la nécromancie. Si vous obtenez un succès sur un jet de sauvegarde contre un effet de nécromancie, il est transformé en succès critique.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Seer Elf",
+            "name": "Elfe visionnaire",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez le pouvoir inné de détecter et comprendre les phénomènes magiques. Vous pouvez lancer le tour de magie détection de la magie @Item[Detect Magic] comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">En outre, vous gagnez un bonus de circonstances de +1 à vos tests pour Identifier la magie et Déchiffrer un texte de nature magique. Ces actions font généralement appel aux compétences Arcanes, Nature, Occultisme ou Religion.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Twilight Halfling",
+            "name": "Halfelin du crépuscule",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres profitaient du couvert du crépuscule pour accomplir de nombreuses actions, bonnes ou mauvaises, en secret et ils ont fini par développer la capacité de voir dans la lumière crépusculaire avec plus d’acuité que les autres halfelins. Vous gagnez vision nocturne.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Arctic Elf",
+            "name": "Elfe arctique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vivez dans les profondeurs glacées du Nord et avez développé une incroyable endurance aux environnements froids, qui vous confère une résistance au froid égale à la moitié de votre niveau (avec un minimum de 1). Vous subissez tous les effets environnementaux liés au froid comme si leur intensité était réduite d’un rang (le froid extraordinaire devient extrême, le froid extrême devient grand, etc.).&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Irongut Goblin",
+            "name": "Gobelin Boyaud’fer",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez vous nourrir d’aliments que la plupart des gens considéreraient comme avariés. Quand vous vous trouvez dans une agglomération, vous pouvez vous nourrir convenablement avec des repas peu consistants aussi longtemps que vous avez accès à des ordures et sans avoir à vous lancer dans l’activité d’intermède Subsister. Vous pouvez manger et boire même quand vous êtes malade.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus de circonstances de +2 à vos jets de sauvegarde contre les afflictions, contre l’état malade, et pour guérir de l’état malade. Quand vous obtenez un succès sur un jet de Vigueur affecté par ce bonus, celui-ci est transformé en succès critique. Vous ne bénéficiez de ces avantages que quand l’affliction ou l’état qui vous affecte est le résultat de quelque chose que vous avez ingéré.</span></p>\n"
+        },
+        {
+            "id": "Ancient-Blooded Dwarf",
+            "name": "Nain sang-ancien",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les héros nains de l’ancien temps étaient capables de balayer la magie de leurs ennemis du revers de la main. Vous avez hérité d’une partie de cette résistance. Vous gagnez la réaction Appel du sang ancien.</span></p>\n<h3 class=\"title\">@Item[Call on Ancient Blood] <img style=\"height: 15px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\" /></h3>\n<p>&nbsp;</p>\n"
+        },
+        {
+            "id": "Hillock Halfling",
+            "name": "Halfelin des collines",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Habitué à la vie calme des collines, vous tirez un bénéfice particulièrement important du repos et de la relaxation, notamment quand vous profitez des joies du confort matériel. Quand vous regagnez des points de vie pendant la nuit, ajoutez-y votre niveau. Quand quelqu’un fait appel à la compétence Médecine pour Soigner vos blessures, vous pouvez manger un en-cas pour ajouter votre niveau à la quantité de points de vie que vous gagnez grâce à ces soins.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Strong-Blooded Dwarf",
+            "name": "Nain sang-fort",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre sang, vigoureux et tonique, vous permet de mieux résister aux toxines. Vous gagnez une résistance au poison égale à la moitié de votre niveau (avec un minimum de 1) et, à chaque fois que vous obtenez un succès à un jet de sauvegarde contre un poison, vous réduisez son stade de 2, ou de 1 s’il s’agit d’un poison virulent. Chaque succès critique contre un poison qui est en train de vous affecter réduit son stade de 3, ou de 2 s’il s’agit d’un poison virulent.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Wellspring Gnome",
+            "name": "Gnome des sources",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une autre source de magie a pris l’ascendant sur la magie primordiale de votre ascendance féerique. Cette connexion peut : provenir d’un plan occulte ou d’un ancien chant occulte ; être liée à une divinité, un céleste ou un fiélon; avoir été causée par un effluent magique ayant persisté après un conflit entre mages ; être associée à une antique rune magique..<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choississez <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=1\">arcanique</a>, <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=2\">divine</a>, or <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=3\">occulte</a>. Vous gagnez un tour de magie choisi dans la liste de sorts de cette tradition (pages 306‑315). Vous pouvez lancer ce sort à volonté sous forme de sort inné et comme un sort de la tradition choisie. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur. À chaque fois que vous gagnez un sort inné primordial grâce à un don ancestral gnome, remplacez la tradition primordiale qui lui est associée par la tradition que vous avez choisie.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Skilled Heritage",
+            "name": "Héritage talentueux",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre sagacité vous permet d’être formé à de nombreuses compétences. Vous devenez qualifié dans une compétence de votre choix. Au niveau 5, vous atteignez le rang de maîtrise expert dans cette compétence.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Sensate Gnome",
+            "name": "Gnome sensitif",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Par rapport à vos congénères, vous voyez toutes les couleurs avec plus d’intensité, vous entendez les sons avec plus de finesse et vous pouvez identifier les innombrables nuances qui composent une odeur. Vous gagnez le sens spécial : odorat imprécis <a href=\"https://2e.aonprd.com/Rules.aspx?ID=412\">imprecise</a> avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre odorat pour déterminer l’emplacement exact d’une créature (comme expliqué en page 465). Le MJ double généralement la portée de ce pouvoir si vous êtes sous le vent par rapport à cette créature, ou la divise par deux si c'est l'inverse.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">En outre, vous gagnez un bonus de circonstances de +2 à vos tests de Perception à chaque fois que vous tentez de localiser une créature non détectée qui se trouve à portée de votre odorat.</span></p>\n"
+        },
+        {
+            "id": "Versatile Heritage",
+            "name": "Héritage polyvalent",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La polyvalence et l’ambition des humains leur ont permis d’accéder au statut d’ascendance majoritaire dans la plupart des nations du monde. Choisissez un don général dont vous remplissez les prérequis (comme pour votre don ancestral, vous pouvez choisir ce don général à tout moment dans la création de votre personnage).&nbsp;</span></p>\n"
+        }
+    ]
 }

@@ -1,9 +1,10 @@
 # État de la traduction (backgrounds)
 
- * **aucune**: 66
+ * **aucune**: 51
+ * **officielle**: 15
 
 
-Dernière mise à jour: 2020-06-01 18:12 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-03 18:43 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -12,9 +13,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[3ljseFp6UbDGmCNn.htm](backgrounds/3ljseFp6UbDGmCNn.htm)|Emancipated|
 |[5DnDnoSyyd1UPyRV.htm](backgrounds/5DnDnoSyyd1UPyRV.htm)|Touched by Dahak|
-|[5eB5SefI6OlARL7q.htm](backgrounds/5eB5SefI6OlARL7q.htm)|Barrister|
 |[5vym5sPIxlDEEjGc.htm](backgrounds/5vym5sPIxlDEEjGc.htm)|Guard|
-|[64WHEiUYl5Bp9Rmo.htm](backgrounds/64WHEiUYl5Bp9Rmo.htm)|Artist|
 |[7MKHFbZitRzTwiP0.htm](backgrounds/7MKHFbZitRzTwiP0.htm)|Dreamer of the Verdant Moon|
 |[7woKMTCFU4NC06l5.htm](backgrounds/7woKMTCFU4NC06l5.htm)|Aiudara Seeker|
 |[9wfKz4tokaTWmHJg.htm](backgrounds/9wfKz4tokaTWmHJg.htm)|Merchant|
@@ -22,12 +21,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[At7irukB3d0jzzad.htm](backgrounds/At7irukB3d0jzzad.htm)|Miner|
 |[byu7FHvqmhAwYZFf.htm](backgrounds/byu7FHvqmhAwYZFf.htm)|Laborer|
 |[BZ0Myq87KqoyTOEP.htm](backgrounds/BZ0Myq87KqoyTOEP.htm)|Nomad|
-|[ckPq968bni6JxpA6.htm](backgrounds/ckPq968bni6JxpA6.htm)|Bounty Hunter|
 |[cxgUge0LLCMoI70S.htm](backgrounds/cxgUge0LLCMoI70S.htm)|Returning Descendant|
-|[dcArzJ4ylKFshbbp.htm](backgrounds/dcArzJ4ylKFshbbp.htm)|Animal Whisperer|
-|[dKML9xcgWbrkguGd.htm](backgrounds/dKML9xcgWbrkguGd.htm)|Entertainer|
 |[DW3mWZ4wepwNVfAN.htm](backgrounds/DW3mWZ4wepwNVfAN.htm)|Rigger|
-|[f3S14uBriv8enmMQ.htm](backgrounds/f3S14uBriv8enmMQ.htm)|Artisan|
 |[FA6ADIwZ0IV1LZv1.htm](backgrounds/FA6ADIwZ0IV1LZv1.htm)|Circus Born|
 |[FeYe3gQtkUsxpW1I.htm](backgrounds/FeYe3gQtkUsxpW1I.htm)|Warrior|
 |[G4akDE6k0GpQ3dpD.htm](backgrounds/G4akDE6k0GpQ3dpD.htm)|Hermean Heritor|
@@ -51,9 +46,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[NgtOrtXyIPtn38XG.htm](backgrounds/NgtOrtXyIPtn38XG.htm)|Raised by Belief|
 |[ngzWTz11vCUI3h7i.htm](backgrounds/ngzWTz11vCUI3h7i.htm)|Lesser Scion|
 |[oFFk7lsMwXgxgQhI.htm](backgrounds/oFFk7lsMwXgxgQhI.htm)|Hellknight Historian|
-|[pcuLoIrIjMos8k1z.htm](backgrounds/pcuLoIrIjMos8k1z.htm)|Barkeep|
 |[QoE4PIIVn60tRxF4.htm](backgrounds/QoE4PIIVn60tRxF4.htm)|Street Urchin|
-|[R3z7yfqV0OyODRK8.htm](backgrounds/R3z7yfqV0OyODRK8.htm)|Criminal|
 |[R8tx1XfofmjUhCYG.htm](backgrounds/R8tx1XfofmjUhCYG.htm)|Local Scion|
 |[Rc2l1j73EC2hPmUA.htm](backgrounds/Rc2l1j73EC2hPmUA.htm)|Refugee|
 |[Rik6ZXovORQAfhPR.htm](backgrounds/Rik6ZXovORQAfhPR.htm)|Hunter|
@@ -64,20 +57,28 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[TdEwgAZfOZ6fKGVM.htm](backgrounds/TdEwgAZfOZ6fKGVM.htm)|Martial Disciple|
 |[tPKeIokrWhzzf8jg.htm](backgrounds/tPKeIokrWhzzf8jg.htm)|Noble|
 |[tSzyLCQbf8T7l0xt.htm](backgrounds/tSzyLCQbf8T7l0xt.htm)|Hermit|
-|[UDmScyDHUYMFbr7n.htm](backgrounds/UDmScyDHUYMFbr7n.htm)|Charlatan|
 |[uEoo4fcZvXj1IC39.htm](backgrounds/uEoo4fcZvXj1IC39.htm)|Sailor|
-|[VnoaNi40DBN0ZV8y.htm](backgrounds/VnoaNi40DBN0ZV8y.htm)|Field Medic|
-|[VoWlFBfksysrf8zY.htm](backgrounds/VoWlFBfksysrf8zY.htm)|Acolyte|
-|[Vuzq4NkLghj6dy2c.htm](backgrounds/Vuzq4NkLghj6dy2c.htm)|Detective|
 |[WPyDbom83vu7Fy5i.htm](backgrounds/WPyDbom83vu7Fy5i.htm)|Droskari Disciple|
 |[xKVVXEDgNeJAuIcX.htm](backgrounds/xKVVXEDgNeJAuIcX.htm)|Barker|
 |[xlhQlrfhucYxkyPD.htm](backgrounds/xlhQlrfhucYxkyPD.htm)|Raised by Belief|
-|[Y6qKcSXLEyBfW3lS.htm](backgrounds/Y6qKcSXLEyBfW3lS.htm)|Farmhand|
 |[y73tZ9iU3w84NrIG.htm](backgrounds/y73tZ9iU3w84NrIG.htm)|Dragon Scholar|
-|[yikXQI2YVWcmGV2N.htm](backgrounds/yikXQI2YVWcmGV2N.htm)|Acrobat|
-|[yphbsrQe9KmQefU9.htm](backgrounds/yphbsrQe9KmQefU9.htm)|Emissary|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[5eB5SefI6OlARL7q.htm](backgrounds/5eB5SefI6OlARL7q.htm)|Barrister|Avocat|officielle|
+|[64WHEiUYl5Bp9Rmo.htm](backgrounds/64WHEiUYl5Bp9Rmo.htm)|Artist|Artiste|officielle|
+|[ckPq968bni6JxpA6.htm](backgrounds/ckPq968bni6JxpA6.htm)|Bounty Hunter|Chasseur de primes|officielle|
+|[dcArzJ4ylKFshbbp.htm](backgrounds/dcArzJ4ylKFshbbp.htm)|Animal Whisperer|Dresseur|officielle|
+|[dKML9xcgWbrkguGd.htm](backgrounds/dKML9xcgWbrkguGd.htm)|Entertainer|Bateleur|officielle|
+|[f3S14uBriv8enmMQ.htm](backgrounds/f3S14uBriv8enmMQ.htm)|Artisan|Artisan|officielle|
+|[pcuLoIrIjMos8k1z.htm](backgrounds/pcuLoIrIjMos8k1z.htm)|Barkeep|Tavernier|officielle|
+|[R3z7yfqV0OyODRK8.htm](backgrounds/R3z7yfqV0OyODRK8.htm)|Criminal|Criminel|officielle|
+|[UDmScyDHUYMFbr7n.htm](backgrounds/UDmScyDHUYMFbr7n.htm)|Charlatan|Charlatan|officielle|
+|[VnoaNi40DBN0ZV8y.htm](backgrounds/VnoaNi40DBN0ZV8y.htm)|Field Medic|Médecin militaire|officielle|
+|[VoWlFBfksysrf8zY.htm](backgrounds/VoWlFBfksysrf8zY.htm)|Acolyte|Acolyte|officielle|
+|[Vuzq4NkLghj6dy2c.htm](backgrounds/Vuzq4NkLghj6dy2c.htm)|Detective|Détective|officielle|
+|[Y6qKcSXLEyBfW3lS.htm](backgrounds/Y6qKcSXLEyBfW3lS.htm)|Farmhand|Ouvrier agricole|officielle|
+|[yikXQI2YVWcmGV2N.htm](backgrounds/yikXQI2YVWcmGV2N.htm)|Acrobat|Acrobate|officielle|
+|[yphbsrQe9KmQefU9.htm](backgrounds/yphbsrQe9KmQefU9.htm)|Emissary|Émissaire|officielle|
