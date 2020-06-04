@@ -5,6 +5,7 @@ curl -s https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/dist
 curl -s https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/dist/packs/feats.db > ../packs/feats.db
 curl -s https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/dist/packs/spells.db > ../packs/spells.db
 curl -s https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/dist/packs/equipment.db > ../packs/equipment.db
+curl -s https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/dist/packs/classfeatures.db > ../packs/classfeatures.db
 
 echo "Extracting data and updating translation files"
 ./extract.py
