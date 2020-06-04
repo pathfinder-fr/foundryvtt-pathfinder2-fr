@@ -31,7 +31,7 @@ Pour appliquer les traductions, il faut installer le module Babele et pointer ve
 * Enjoy!
 
 ## Ressources utiles
-https://docs.google.com/spreadsheets/d/1MmY9rB7EU1yjpPmmoDdqgawiA46fetS_NBCC0Ay7zsw/edit#gid=508492121
+[Glossaire](https://docs.google.com/spreadsheets/d/1MmY9rB7EU1yjpPmmoDdqgawiA46fetS_NBCC0Ay7zsw/edit#gid=508492121)
 
 ## Bugs de la vo
 * Golem Crafter Dedication is a wrong name -> The good one is Golem **G**rafter Dedication
