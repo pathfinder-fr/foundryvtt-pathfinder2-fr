@@ -11,7 +11,8 @@ TRANSL={
   'pf2e.spells-srd': { 'label': "Sorts", 'path': "../data/spells/" },
   'pf2e.backgrounds': { 'label': "Backgrounds", 'path': "../data/backgrounds/" },
   'pf2e.ancestryfeatures': { 'label': "Ascendances", 'path': "../data/ancestryfeatures/" },
-  'pf2e.classfeatures': { 'label': "Capacités de classe", 'path': "../data/classfeatures/" }
+  'pf2e.classfeatures': { 'label': "Capacités de classe", 'path': "../data/classfeatures/" },
+  'pf2e.conditionspf2e': { 'label': "Conditions", 'path': "../data/conditions/" },
 }
 
 import json

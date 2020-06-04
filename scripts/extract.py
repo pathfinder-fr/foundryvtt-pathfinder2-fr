@@ -16,7 +16,8 @@ FILES = [
   {'id': "spells", 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" },
   {'id': "backgrounds", 'name': "name", 'desc': "content" },
   {'id': "ancestryfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" },
-  {'id': "classfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "data.traits.value", 'type2': "data.level.value" }
+  {'id': "classfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "data.traits.value", 'type2': "data.level.value" },
+  {'id': "conditions", 'name': "name", 'desc': "content" },
 ]
   
 ROOT="../"
