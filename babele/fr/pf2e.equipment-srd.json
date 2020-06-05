@@ -22,9 +22,24 @@
             "description": "<p><span class=\"fontstyle0\">Un coffre en bois peut contenir des objets jusqu’à un Encombrement 8.</span></p>\n"
         },
         {
+            "id": "Orc Necksplitter",
+            "name": "Coupecou orc",
+            "description": "<p><span class=\"fontstyle0\">Cette hache possède une lame barbue et dentelée idéale pour séparer l’os du tendon et du cartilage. </span> </p>\n"
+        },
+        {
+            "id": "Elven Curve Blade",
+            "name": "Lame courbe elfique",
+            "description": "<p><span class=\"fontstyle0\">Version essentiellement plus longue du cimeterre, cette arme elfique traditionnelle possède une lame plus fine que celle de son \ncousin.</span> </p>\n"
+        },
+        {
             "id": "Steel Shield",
             "name": "Bouclier en acier",
             "description": "<p><span class=\"fontstyle0\">Comme les boucliers en bois, les boucliers en acier sont de formes et de tailles variées. Plus coûteux que les boucliers en bois, ils sont cependant beaucoup plus résistants. </span>&nbsp;</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">5</td>\n<td style=\"height: 17px; width: 115px;\">20</td>\n<td style=\"height: 17px; width: 116px;\">10</td>\n</tr>\n</tbody>\n</table>"
+        },
+        {
+            "id": "Spiked Chain",
+            "name": "Chaîne cloutée",
+            "description": "<p><span class=\"fontstyle0\">Cette chaîne de 1,20 m de long est recouverte d’ardillons et comporte des pointes à une ou à ses deux extrémités. Certaines sont dotées d’anneaux métalliques servant de poignées.</span></p>\n"
         },
         {
             "id": "Starknife",
@@ -35,6 +50,11 @@
             "id": "Adamantine Buckler (Standard-Grade)",
             "name": "Targe en adamantium (qualité standard)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</span></p>\n<p>La targe a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 50 po d’adamantium&nbsp;</span></p>"
+        },
+        {
+            "id": "Climbing Kit",
+            "name": "Kit d'escalade",
+            "description": "<p><span class=\"fontstyle0\">Cette sacoche comprend 15 m de corde, des poulies, une douzaine de pitons, un marteau, un grappin et \nun jeu de crampons. Le kit d’escalade vous permet de vous accrocher au mur que vous escaladez, en vous déplaçant à la moitié de votre Vitesse habituelle (minimum 1,5 m), mais en vous permettant d’effectuer un test nu DD 5 lorsque vous obtenez un échec critique en voulant empêcher une chute. Vous gagnez un bonus d’objet de +1 aux tests d’Athlétisme pour Escalader si vous utilisez un kit d’escalade de l’extrême. Un kit ne contient de matériel que pour un seul grimpeur ; chaque grimpeur a besoin de son propre kit. </span> </p>\n"
         },
         {
             "id": "Gold Pieces",
@@ -53,6 +73,16 @@
             "id": "Shortsword",
             "name": "Epée courte",
             "description": "<p> ces lames se présentent dans toute une variété de formes et de styles, mais elles mesurent généralement 60 cm de long.</p>"
+        },
+        {
+            "id": "Horsechopper",
+            "name": "Coupecheval",
+            "description": "<p><span class=\"fontstyle0\"> créée par les gobelins pour combattre les chevaux, cette arme est pour l’essentiel un long manche se terminant par une lame avec un gros crochet. </span> </p>\n"
+        },
+        {
+            "id": "Dwarven War Axe",
+            "name": "Hache de guerre naine",
+            "description": "<p><span class=\"fontstyle0\">Cette arme prisée des nains possède une grande tête décorée montée sur un manche épais. Cette puissante hache peut être utilisée à une ou à deux mains.</span> </p>\n"
         },
         {
             "id": "Leather Armor",
@@ -80,6 +110,11 @@
             "description": "<div><strong>Armes</strong> pique, bâton</div>\n<div><strong>Equipement</strong>pack d’aventurier, bandoulière, kit d’escalade</div>\n<div>, grappin, bâton fumigène inférieur</div>\n"
         },
         {
+            "id": "Candle",
+            "name": "Bougie",
+            "description": "<p><span class=\"fontstyle0\">Une bougie allumée diffuse une lumière tamisée dans un rayon de 3 m.&nbsp;</span></p>\n"
+        },
+        {
             "id": "Crossbow",
             "name": "Arbalète",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme à distance est faite de l’assemblage d’un arc monté sur un cadre à poignée appelé arbrier. L’arbrier possède un mécanisme pour bloquer la corde attachée à un mécanisme de déclenchement, qui relâche la tension et lâche un carreau..&nbsp;</span></p>\n\n"
@@ -90,6 +125,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en fer froid ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p>Le bouclier a une Solidité de 7, 28 PV et un SR de 14</p>\n<p><strong>Conditions de fabrication</strong>  au moins 425 pa de fer froid</p>"
         },
         {
+            "id": "Force Shield",
+            "name": "Bouclier de force",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">De minuscules tuiles de verre agencées en mosaïque ornent les bords de ce bouclier en acier aux gravures élaborées (Solidité 8, 32 PV, SR 16). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Le bouclier créé une bulle de force autour de vous qui vous protège des coups en vous octroyant une résistance 5 aux dégâts physiques pendant une mi‑ nute. La bulle disparaît si vous ne tenez plus le bouclier</span></p>\n"
+        },
+        {
             "id": "Class Kit (Champion)",
             "name": "Kit de classe (Champion)",
             "description": "<div><strong>Armure </strong> armure de peau </div>\n<div><strong>Armes</strong>  dague, 4 javelines </div>\n<div><strong>Equipementr</strong>  pack d’aventurier, pied‑de‑biche, grappin, gaine</div>\n<div><strong>Options </strong>l’arme préférée de votre divinité (voir les entrées concernant les divinités</div>\n<div>aux pages 437 à 441 ; utilisez le prix indiqué dans ce chapitre)</div>"
@@ -98,6 +138,11 @@
             "id": "Lion's Shield",
             "name": "Bouclier du lion",
             "description": "<p>Ce bouclier en acier (Solidité 6, 36 PV, SR 18) est forgé de façon à ressembler à une tête de lion rugissant. La tête de lion fonctionne comme un ombon de frappe +1 impossible à détacher du</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Lever un bouclier; <strong>Frequency</strong> 1/jour; <strong>Effet</strong> Vous animez la tête de lion. Vous Levez le bouclier et faites une Frappe au corps à corps avec lui au cours de la même action. La gueule du bouclier est une arme de guerre de corps à corps qui in‑ flige 2d6 dégâts perforants et a le trait mortelle 1d6 ; il est impossible de l’améliorer avec des runes. Pendant une minute, le bouclier reste animé et vous pouvez Frapper avec lui chaque fois que vous Levez le bouclier, ainsi qu’avec l’action Frapper.</span></p>\n"
+        },
+        {
+            "id": "Dogslicer",
+            "name": "Tranchechien",
+            "description": "<p><span class=\"fontstyle0\">Cette lame de fortune courte, incurvée et grossière, est souvent percée de trous pour en réduire le poids. C’est une arme prisée des gobelins.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>\n"
         },
         {
             "id": "Studded Leather Armor",
@@ -115,6 +160,16 @@
             "description": "<p>une masse d’armes légère possède un manche court en bois ou en métal se terminant par une épaisse tête métallique. Utilisée approximativement comme un gourdin, elle délivre de puissants coups contondants, mais avec une force supplémentaire provenant des arêtes ou des pointes métalliques de la tête.</p>\n"
         },
         {
+            "id": "Torch",
+            "name": "Torche",
+            "description": "<p><span class=\"fontstyle0\">Une torche émet une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà). Elle peut être utilisée comme une arme improvisée, infligeant 1d4 dégâts contondants plus 1 dégât de feu. </span> </p>\n"
+        },
+        {
+            "id": "Satchel",
+            "name": "Sacoche",
+            "description": "<p><span class=\"fontstyle0\">Une sacoche peut contenir des objets jusqu’à un Encombrement 2. Si vous transportez ou stockez une sacoche au lieu de la porter sur votre épaule, elle compte comme un Encombrement léger au lieu de négligeable.</span> </p>\n"
+        },
+        {
             "id": "Class Kit (Druid)",
             "name": "Kit de classe (Druide)",
             "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes </strong>4 javelines, pique</div>\n<div><strong>Equipement</strong> pack aventurier, bandoulière, houx et gui</div>\n<div><strong>Options</strong> outils de guérisseur (5 po)</div>"
@@ -123,6 +178,25 @@
             "id": "Greataxe",
             "name": "Grande hache",
             "description": "<p>Cette grande hache d’armes est trop lourde pour pouvoir être maniée d’une seule main. Beaucoup de grandes haches comprennent deux lames et sont souvent « barbues », avec un crochet au bout pour augmenter la force de leur pouvoir tranchant. </p>\n"
+        },
+        {
+            "id": "Silver Buckler (Low-Grade)",
+            "name": "Targe en argent (basse qualité)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en argent ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 1, 4 PV et un SR de 2.<br><strong>Conditions de fabrication</strong> au moins 15 pa d’argent &nbsp;</span></p>\n"
+        },
+        {
+            "id": "Morningstar",
+            "name": "Morgenstern",
+            "description": "<p>&nbsp;Cette arme possède un manche court se terminant par une boule en métal hérissée de pointes.</p>"
+        },
+        {
+            "id": "Bolts",
+            "name": "Carreau",
+            "description": "<p><span class=\"fontstyle0\">Plus court que les flèches traditionnelles, mais de fabrication similaire, le carreau est la munition utilisée par les arbalètes.\n</span> </p>\n"
+        },
+        {
+            "id": "Platinum Pieces",
+            "name": "Pièce de platine"
         },
         {
             "id": "Katana",
@@ -140,9 +214,24 @@
             "description": "<p><span class=\"fontstyle0\">le harnois est constitué de plates imbriquées enveloppant la quasi-totalité du corps dans une carapace en acier. Il est coûteux et lourd, et le porteur a souvent besoin d’aide pour l’enfiler correctement, mais il fournit certaines des meilleures défenses qu’une armure puisse procurer. Une telle armure comporte également )</span>&nbsp; <span class=\"fontstyle0\">une sous-couche d’armure matelassée (voir ci-dessous) et une paire de gantelets (page 285</span> </p>\n"
         },
         {
+            "id": "Fishing Tackle",
+            "name": "Articles de pêche",
+            "description": "<p><span class=\"fontstyle0\">Ce kit comprend une canne à pêche démontable, des hameçons, une ligne, des leurres et un filet de pêche. Les articles de pêche professionnels confèrent un bonus d’objet de +1 aux tests pour pêcher. </span> </p>\n"
+        },
+        {
             "id": "Silver Shield (Low-Grade)",
             "name": "Bouclier en argent (basse qualité)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 3, 12 PV et un SR de 6.<br><strong>Conditions de fabrication</strong> au moins 17 pa d’argent&nbsp;</span></p>\n\n\n"
+        },
+        {
+            "id": "Halfling Sling Staff",
+            "name": "Fustibale de halfelin",
+            "description": "<p>Ce bâton se termine par une fourche en forme de Y tenant une fronde. La longueur du bâton permet un excellent effet de levier lorsqu’on l’utilise à deux mains pour lancer des pierres ou des billes avec la fronde. </p>\n"
+        },
+        {
+            "id": "Manacles (Poor)",
+            "name": "Menottes (médiocres)",
+            "description": "<p><span class=\"fontstyle0\">Vous pouvez menotter une personne volontaire ou à votre merci comme une activité d’exploration prenant 10 à 30 secondes, en fonction de la taille de la créature et du nombre de menottes que vous utilisez. Une créature bipède ayant ces membres attachés subit un malus de circonstance de –4,5 m à sa Vitesse, et une créature à deux mains ayant les poignets attachés doit réussir un test nu DD 5 chaque fois qu’elle utilise une action de manipulation ou que cette action échoue. Ce DD peut être plus élevé en fonction de la force avec laquelle les menottes contraignent les mains. Une créature attachée à un objet immobile est elle-même immobilisée. Dans le cas de créatures ayant plus ou moins de membres, le MJ détermine l’effet éventuel des menottes. Libérer une créature de menottes médiocres nécessite de réussir deux tests de Vol DD 17, des menottes simples exigent de leur côté trois succès DD 22, des menottes intermédiaires quatre succès DD 27, de bonnes menottes cinq succès DD 32 et des menottes supérieures six succès DD 42. </span></p>\n"
         },
         {
             "id": "Cold Iron Shield (Low-Grade)",
@@ -160,6 +249,31 @@
             "description": "<p><span class=\"fontstyle0\">Cette arme de jet est plus large qu’une flèche, mais plus courte qu’un javelot. Elle a généralement une courte tige de bois se terminant par une pointe en métal et est parfois stabilisée par des plumes ou de la fourrure.</span> </p>\n"
         },
         {
+            "id": "Reflecting Shield",
+            "name": "Bouclier réfléchissant",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La surface de cette targe en argent de haute qualité (Solidité 6, 24 PV, SR 12) reflète comme un miroir tellement elle est polie. Le bouclier fonctionne comme un bouclier gardesort (voir ci‑après) qui peut également renvoyer des sorts. <br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Frequency</strong> 1/jour; <strong>Déclencheur</strong> Vous êtes la cible d’un sort ; <strong>Conditions</strong> Le <em>bouclier réfléchissant</em> est levé ;  <strong>Effet</strong> Vous tentez de renvoyer le sort sur son incantateur, avec les effets d’un renvoi de sorts de niveau 9 et un modificateur de contre de +40.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>renvoi de sorts</em> et les matières premières initiales doivent inclure au moins 2 750 po d’argent.\n</span></p>\n"
+        },
+        {
+            "id": "Kama",
+            "name": "Kama",
+            "description": "<p><span class=\"fontstyle0\">Semblable à une faucille et utilisé dans certaines régions pour récolter le grain, le kama possède une lame courte et légèrement incurvée, et un manche en bois. </span> </p>\n"
+        },
+        {
+            "id": "Clothing (Explorer's)",
+            "name": "Vêtement (explorateur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure. Pour plus d’informations sur les vêtements d’explorateur, reportez-vous à la page 276.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Filcher's Fork",
+            "name": "Fourchette du chapardeur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">cette arme de halfelin ressemble à une longue fourchette à deux branches et s’utilise à la fois comme une arme et un outil de cuisine. &nbsp;</span></p>\n"
+        },
+        {
+            "id": "Mithral Buckler (Standard-Grade)",
+            "name": "Targe en mithral (qualité standard)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef‑ fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 3, 12 PV et un SR de 6.<br><strong>Conditions de fabrication</strong> au moins 50 po de mithral</span></p>\n"
+        },
+        {
             "id": "Scourge",
             "name": "Fléau",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">cette arme consiste en une poignée de bois attachée à une boule ou à un cylindre à pointes au moyen d’une chaîne, d’une corde ou d’une\nlanière de cuir..&nbsp;</span></p>\n"
@@ -168,6 +282,11 @@
             "id": "Longbow",
             "name": "Arc long",
             "description": "<p><span class=\"fontstyle0\">cet arc de 1,5 m de longueur, généralement constitué d’un seul morceau d’orme, de noyer blanc ou d’if, a un tir puissant et excelle à propulser des flèches avec une grande force et à une distance extrême. Vous devez utiliser deux mains pour tirer avec un arc long, et vous ne pouvez pas l’utiliser lorsque vous êtes sur une monture. </span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>\n"
+        },
+        {
+            "id": "Dancing",
+            "name": "Dansante",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une arme dansante vole de manière autonome et frappe vos ennemis. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> sur ordre, Interagir ; <strong>Effet</strong>Vous lâchez l’arme qui se met à danser dans les airs en combattant de manière indépendante le dernier ennemi que vous avez attaqué ou celui le plus proche si votre cible est vaincue. Chaque round, à la fin de votre tour, l’arme peut Voler à sa Vitesse de vol de 12 m et elle peut ensuite Voler à nouveau ou Frapper une créature à portée.<br /><br />L’arme occupe un espace de 1,50 m mais elle ne bloque pas ou ne gêne pas les ennemis qui tentent de traverser son espace. Elle ne peut pas non plus prendre un ennemi en tenaille ni bénéficier d’une prise en tenaille. L’arme ne peut pas traverser l’espace occupé par un ennemi. Elle ne peut pas utiliser de réactions et ses actions Voler ne déclenchent aucune réaction. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Tant qu’elle est activée, une arme dansante effectue des Frappes avec un modificateur d’attaque de +24 plus son bonus d’objet aux jets d’at‑ taque. Elle inflige les dégâts normaux de l’arme mais a un modificateur de Force de +0. Les pouvoirs de l’arme qui se déclenchent automatiquement en cas de coup normal ou critique fonctionnent toujours mais l’arme ne peut pas être activée ou bénéficier de vos pouvoirs lorsqu’elle danse. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque round, effectuez un test nu DD 6 quand l’arme a fini d’utiliser ses actions. En cas d’échec, l’activation se termine et l’arme tombe par terre. Vous devez attendre dix minutes avant de pouvoir réactiver l’objet.</span></p>\n"
         },
         {
             "id": "Guisarme (+1)",
@@ -183,6 +302,11 @@
             "id": "Hide",
             "name": "Armure de peau",
             "description": "<p><span class=\"fontstyle0\">Mélange de fourrure, de peau solide et de cuir bouilli parfois moulé, cette armure offre une protection grâce à ses différentes couches, même si son encombrement ralentit son porteur et diminue sa mobilité.</span></p>\n"
+        },
+        {
+            "id": "Gnome Flickmace",
+            "name": "Masse-yoyo gnome",
+            "description": "<p><span class=\"fontstyle0\">Plus fléau que masse, cette arme possède un manche court attaché à une chaîne avec une boule au bout. Cette dernière est propulsée sur sa distance d’allonge grâce à un coup de poignet, qui la ramène au porteur après la frappe. </span> </p>\n"
         },
         {
             "id": "Holy Water",
@@ -205,9 +329,24 @@
             "description": "<div><strong>Armure</strong> armure de peau</div>\n<div><strong>Armes</strong> dague</div>\n<div><strong>Equipement</strong> pack d’aventurier, grappin, gaine</div>\n<div><strong>Options</strong> épée à deux mains (2 po), arc long avec 20 flèches</div>\n<div>(6 po, 2 pa) ou épée longue et bouclier en acier (3 po)</div>"
         },
         {
+            "id": "Sai",
+            "name": "Saï",
+            "description": "<p><span class=\"fontstyle0\">Cette dague perforante possède une fine lame flanquée d’une paire de griffes pouvant servir à bloquer l’arme de l’ennemi. </span></p>\n"
+        },
+        {
+            "id": "Gnome Hooked Hammer",
+            "name": "Marteau-piolet gnome",
+            "description": "<p><span class=\"fontstyle0\">Cet outil et arme gnome se caractérise par un marteau à une extrémité et une pointe de pioche incurvée de l’autre. C’est une arme tellement étrange et peu commode que les autres races estiment que les gnomes montrent une certaine excentricité à l’utiliser. </span> </p>\n"
+        },
+        {
             "id": "Whip",
             "name": "Fouet",
             "description": "<p>ce long morceau de cuir épais, souvent tressé, inflige à distance une entaille douloureuse, mais non létale, généralement accompagnée d’un claquement distinctif.</p>\n"
+        },
+        {
+            "id": "Repair Kit",
+            "name": "Kit de réparation",
+            "description": "<p><span class=\"fontstyle0\">un kit de réparation vous permet d’effectuer des réparations simples lorsque vous vous voyagez. Il contient une enclume portable, des pinces, des outils de menuiserie, une pierre à aiguiser et des huiles pour le conditionnement du cuir et du bois. Vous pouvez utiliser un kit de réparation pour Réparer des objets à l’aide de la compétence Artisanat. Un kit de réparation superbe accorde un bonus de +1 à votre test.</span> </p>\n"
         },
         {
             "id": "Half Plate",
@@ -218,6 +357,16 @@
             "id": "Sack",
             "name": "Sac",
             "description": "<p>Un sac peut contenir des objets jusqu’à un Encombrement 8. Un sac contenant un Encombrement 2 ou moins peut être porté sur le corps, généralement noué à la ceinture. Vous pouvez porter un sac d’une seule main, mais vous devez utiliser les deux mains pour y transférer des objets ou les en retirer. &nbsp;</p>\n"
+        },
+        {
+            "id": "Sap",
+            "name": "Matraque",
+            "description": "<p>Une matraque est constituée d’un gainage souple fixé autour d’un noyau plus dense, en général une gaine en cuir autour d’une tige de plomb. Sa tête est plus large que sa poignée, pour disperser la force du coup, l’arme ayant pour but d’assommer la victime plutôt que d’en faire couler le sang. </p>\n"
+        },
+        {
+            "id": "Arrows",
+            "name": "Flèche",
+            "description": "<p><span class=\"fontstyle0\">Ces projectiles sont les munitions des arcs. Le fût d’une flèche est en bois. La flèche est stabilisée en vol grâce à un empennage fixé à une extrémité et arbore une tête en métal de l’autre. </span> </p>\n"
         },
         {
             "id": "Silver Buckler (Standard-Grade)",
@@ -233,6 +382,14 @@
             "id": "Splint Mail",
             "name": "Clibanion",
             "description": "<p><span class=\"fontstyle0\">Ce type d’armure est constitué d’une cotte de mailles renforcée de plates métalliques souples s’emboîtant les unes dans les autres, localisées généralement sur le torse, les bras et les jambes du porteur. Une telle armure inclut une sous-couche d’armure matelassée (voir ci-dessus) et une paire de gantelets (page 285).</span> </p>\n"
+        },
+        {
+            "id": "Coral",
+            "name": "Corail"
+        },
+        {
+            "id": "Emerald",
+            "name": "Emeraude"
         },
         {
             "id": "Clothing (Explorer's)",
@@ -270,6 +427,15 @@
             "description": "<p>Un pic de guerre léger est un outil minier modifié, avec un manche en bois se terminant par une tête de pioche, conçu pour perforer l’armure et la chair plutôt que briser les rochers.</p>\n<p>Cette arme a une rune de <em> puissance d'arme +1 </em>  (bonus d'objet +1 pour les jets d'attaque avec l'arme).</p>\n\n\n"
         },
         {
+            "id": "Manacles (Simple)",
+            "name": "Menottes (sipmle)",
+            "description": "<p><span class=\"fontstyle0\">vous pouvez menotter une personne volontaire ou à votre merci comme une activité d’exploration prenant 10 à 30 secondes, en fonction de la taille de la créature et du nombre de menottes que vous utilisez. Une créature bipède ayant ces membres attachés subit un malus de circonstance de –4,5 m à sa Vitesse, et une créature à deux mains ayant les poignets attachés doit réussir un test nu DD 5 chaque fois qu’elle utilise une action de manipulation ou que cette action échoue. Ce DD peut être plus élevé en fonction de la force avec laquelle les menottes contraignent les mains. Une créature attachée à un objet immobile est elle-même immobilisée. Dans le cas de créatures ayant plus ou moins de membres, le MJ détermine l’effet éventuel des menottes. Libérer une créature de menottes médiocres nécessite de réussir deux tests de Vol DD 17, des menottes simples exigent de leur côté trois succès DD 22, des menottes intermédiaires quatre succès DD 27, de bonnes menottes cinq succès DD 32 et des menottes supérieures six succès DD 42. </span></p>\n"
+        },
+        {
+            "id": "Tent (Pup)",
+            "name": "Tente (petite)"
+        },
+        {
             "id": "Breastplate",
             "name": "Cuirasse",
             "description": "<p><span class=\"fontstyle0\">Bien que désigné sous le nom de cuirasse, ce type d’armure est constitué de plusieurs éléments de harnois ou d’armure de plates (page 275),  qui protègent le torse, la poitrine, le cou et parfois les  hanches et le bas des jambes. Elle accorde stratégiquement une partie de la protection du harnois tout en permettant plus de souplesse et de rapidité.</span></p>\n"
@@ -295,9 +461,32 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 10, 40 PV et un SR de 20.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 55 po d’adamantiump&nbsp;</span></p>"
         },
         {
+            "id": "Tent (Pavilion)",
+            "name": "Tente pour 4 personnes"
+        },
+        {
+            "id": "Flaming",
+            "name": "Enflammée",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une flamme vacillante donne à cette arme son pouvoir. L’arme inflige 1d6 dégâts de feu supplémentaires en cas de Frappe réussie, plus 1d10 dégâts de feu persistants en cas de coup critique</span></p>\n"
+        },
+        {
+            "id": "Antidote (Moderate)",
+            "name": "Antidote (modéré)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’antidote vous protège contre les toxines. Lorsque vous le buvez, vous recevez un bonus d’objet aux jets de Vigueur contre les poisons pen‑ dant 6 h. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +3.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>\n"
+        },
+        {
             "id": "Battle Axe",
             "name": "Hache d'armes",
             "description": "<p><span class=\"fontstyle0\">Ces haches sont conçues explicitement comme des armes plutôt que comme des outils. Elles pèsent généralement moins lourd, avec un manche renforcé de bandes ou de fixations métalliques et une lame plus tranchante, ce qui les rend idéales pour couper des membres bien plus que du bois.</span></p>\n\n"
+        },
+        {
+            "id": "Runestone",
+            "name": "Pierre runique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce morceau de pierre plate et solide a été spécialement préparé pour graver une rune fondamentale ou une rune de propriété magique. Vous ne pouvez graver qu’une seule rune par pierre. Une fois la pierre gravée, elle adopte le trait de l’école de magie de la rune tracée. Lorsqu’une rune est transférée de la <em>pierre runique</em> à un autre objet, la pierre se fend et se détruit. Le prix indiqué corres‑ pond à une rune vierge, si elle est gravée, il faut lui ajouter le prix de la rune.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Tent (Four-Person)",
+            "name": "Tente (4 personnes)"
         },
         {
             "id": "Buckler",
@@ -310,6 +499,26 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en fer froid ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La targe a une Solidité de 5, 20 PV et un SR de 10..<br><strong>Conditions de fabrication</strong> au moins 375 pa de fer froid&nbsp;</span></p>\n"
         },
         {
+            "id": "Lion's Shield",
+            "name": "Bouclier du lion",
+            "description": "<p>Ce bouclier en acier (Solidité 6, 36 PV, SR 18) est forgé de façon à ressembler à une tête de lion rugissant. La tête de lion fonctionne comme un ombon de frappe +1 impossible à détacher du bouclier. </p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Lever un bouclier; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous animez la tête de lion. Vous Levez le bouclier et faites une Frappe au corps à corps avec lui au cours de la même action. La gueule du bouclier est une arme de guerre de corps à corps qui in‑ flige 2d6 dégâts perforants et a le trait mortelle 1d6 ; il est impossible de l’améliorer avec des runes. Pendant une minute, le bouclier reste animé et vous pouvez Frapper avec lui chaque fois que vous Levez le bouclier, ainsi qu’avec l’action Frapper.</span></p>\n"
+        },
+        {
+            "id": "Artisan’s Tools",
+            "name": "Outils d'artisan",
+            "description": "<p>Vous avez besoin de ces outils pour créer, au moyen de la compétence Artisanat, des objets à partir de matériaux. Les outils d’artisan excellents accordent un bonus de +1 à votre test. Il faut des jeux d’outils différents pour effectuer différents travaux, tels que déterminés par le MJ ; ainsi, les outils de forgeron diffèrent des outils de menuisier. &nbsp;</p>\n"
+        },
+        {
+            "id": "Wooden Shield",
+            "name": "Bouclier en bois",
+            "description": "<p><span class=\"fontstyle0\">Même s’ils se présentent sous toute une variété de formes et de tailles, l’abri offert par les boucliers en bois provient de la robustesse des matériaux dans lesquels ils sont conçus. Le bouclier en bois est moins cher que le bouclier en acier, mais il se brise plus facilement. </span></p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">12</td>\n<td style=\"height: 17px; width: 116px;\">6</td>\n</tr>\n</tbody>\n</table>"
+        },
+        {
+            "id": "Floating Shield",
+            "name": "Bouclier flottant",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des motifs d’aile sont souvent gravés sur un <em>bouclier flottan</em>t. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiative<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Le bouclier se détache de votre bras et flotte à vos côtés en vous conférant auto‑ matiquement son bonus, comme si vous aviez Levé le bouclier. Étant donné que vous ne maniez pas le bouclier, vous ne pouvez pas utiliser de réactions telles que Blocage au bouclier avec lui mais vous profitez de ses avantages, même si vous utilisez déjà vos deux mains. Au bout d’une minute, le bouclier tombe au sol, ce qui met fin à l’effet flottant. Tant que le bouclier est adjacent à vous, vous pouvez Interagir pour vous en emparer, ce qui met fin prématurément à son effet flottant. </span></p>\n"
+        },
+        {
             "id": "Bandolier",
             "name": "Bandoulière",
             "description": "<p>Une bandoulière peut accueillir jusqu’à huit objets d’Encombrement léger à votre portée et est généralement utilisée pour des objets alchimiques ou des potions. Si vous transportez ou stockez une bandoulière au lieu de l’avoir autour de la poitrine, l’Encombrement devient léger à la place de négligeable. Une bandoulière peut être dédiée à un jeu d’outils complet, tel que des outils de guérisseur, vous permettant ainsi de sortir ces outils dans le cadre de l’action qui les requiert.</p>\n"
@@ -318,6 +527,11 @@
             "id": "Darkwood Buckler (Standard-Grade)",
             "name": "Targe en ébénite",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1,sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 3, 12 PV et un SR de 6</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 50 po d’ébénite&nbsp;</span></p>"
+        },
+        {
+            "id": "Temple Sword",
+            "name": "Epée du temple",
+            "description": "<p><span class=\"fontstyle0\">Cette lourde lame est prisée des gardiens de sites religieux. Elle possède une lame distinctive en forme de croissant, qui ressemble à un mélange entre une faucille et une épée. Il y a souvent des trous percés dans la lame ou le pommeau afin que des cloches ou d’autres objets sacrés puissent être apposés sur l’arme comme aide à la prière ou à la médiation. </span></p>\n"
         },
         {
             "id": "Chain Mail",
@@ -340,14 +554,33 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">De minuscules tuiles de verre agencées en mosaïque ornent les bords de ce bouclier en acier aux gravures élaborées (Solidité 8, 32 PV, SR 16). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> command; <strong>Fréquence</strong> 1/j; <strong>Effet</strong> Le bouclier créé une bulle de force autour de vous qui vous protège des coups en vous octroyant une résistance 5 aux dégâts physiques pendant une mi‑ nute. La bulle disparaît si vous ne tenez plus le bouclier.</span></p>\n"
         },
         {
+            "id": "Shuriken",
+            "name": "Shuriken",
+            "description": "<p><span class=\"fontstyle0\">cette « étoile de jet » est un petit morceau de métal plat aux arêtes vives, conçu pour être lancé d’un coup de poignet.</span> </p>\n"
+        },
+        {
+            "id": "Kukri",
+            "name": "Kukri",
+            "description": "<p><span class=\"fontstyle0\">La lame de ce couteau long de 30 cm se courbe et n’a pas de garde au niveau de la poignée.</span> </p>\n"
+        },
+        {
             "id": "Class Kit (Wizard)",
             "name": "Kit de classe (Magicien)",
             "description": "<div><strong>Armes </strong>Bâton</div>\n<div><strong>Equipementr</strong>Pack d’aventurier, bourse de composants matériels, nécessaire d’écriture</div>\n<div><strong>Options</strong> arbalète avec 20 carreaux (3 po, 2 pa) </div>"
         },
         {
+            "id": "Rations",
+            "name": "Rations"
+        },
+        {
             "id": "Spiked Chain",
             "name": "Chaîne cloutée",
             "description": "<p><span class=\"fontstyle0\">Cette chaîne de 1,20 m de long est recouverte d’ardillons et comporte des pointes à une ou à ses deux extrémités. Certaines sont dotées d’anneaux métalliques servant de poignées.</span></p>\n\n"
+        },
+        {
+            "id": "Oathbow",
+            "name": "Arc du serment",
+            "description": "<p>Fabriqué dans du bois blanc et souple sur lequel sont gravés de jolis motifs sinueux, on a l’impression que ce sont des elfes qui ont créé cet arc long composite de frappe +2. Parfois, quand vous tirez une flèche, le sifflement qu’elle produit en vol ressemble à des mots murmurés en elfique qui souhaitent la défaite rapide de vos ennemis. </p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Effet</strong>Vous faites le serment de détruire une créature dans votre champ de vision. Pendant les sept jours sui‑ vants ou jusqu’à ce que la créature soit tuée, vos attaques avec l’arc contre cette créature infligent 1d6 dégâts supplémentaires et vous bé‑ néficiez d’un bonus de circonstances de +2 aux tests de Survie pour la Pister. Vos coups critiques contre la cible appliquent l’effet critique spécialisé de l’arc (page 283) ; si c’est déjà le cas, le DD du test d’Ath‑ létisme pour S’échapper en cas de coup critique passe à 20.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Après activation de l’arc, vous ne pouvez plus le réactiver pen‑ dant sept jours. Si vous tuez la créature de votre serment, celui‑ci se termine et vous devez attendre 10 min seulement avant de pouvoir le réactiver.</span></p>\n"
         },
         {
             "id": "Half Plate",
@@ -370,6 +603,30 @@
             "description": "<p><span class=\"fontstyle0\">Parfois appelé haubert, c’est une longue chemise constituée des mêmes anneaux en métal que la cotte de mailles. Cependant, elle est beaucoup plus légère que cette dernière et ne protège que le torse, les bras et les cuisses de son porteur. </span> </p>\n"
         },
         {
+            "id": "Longsword",
+            "name": "Epée longue",
+            "description": "<p>L’épée longue peut avoir un ou deux tranchants. Sa lame est lourde et mesure entre 1 et 1,20 m de long.</p>"
+        },
+        {
+            "id": "Lock (Poor)",
+            "name": "Serrure (médiocre)",
+            "description": "<p><span class=\"fontstyle0\">crocheter une serrure de qualité médiocre nécessite de réussir deux tests de Vol DD 15, une serrure simple requiert de réussir trois tests de Vol DD 20, une serrure intermédiaire exige quatre succès à DD 25, une bonne serrure cinq succès à DD 30 et une serrure supérieure six succès à DD 40. </span> </p>\n"
+        },
+        {
+            "id": "Sapphire",
+            "name": "Saphir"
+        },
+        {
+            "id": "Sai",
+            "name": "Saï",
+            "description": "<p><span class=\"fontstyle0\">Cette dague perforante possède une fine lame flanquée d’une paire de griffes pouvant servir à bloquer l’arme de l’ennemi.</span></p>\n"
+        },
+        {
+            "id": "Mithral Shield (Standard-Grade)",
+            "name": "Bouclier en mithral (qualité standard)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef‑ fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 5, 20 PV et un SR de 10. <br><strong>Conditions de fabrication</strong> au moins 55 po de mithral &nbsp;</span></p>\n"
+        },
+        {
             "id": "Greatpick",
             "name": "Grand pic de guerre",
             "description": "<p>Ce pic de guerre possède un manche plus long et une tête plus large qu’un pic de guerre ordinaire. Il est trop lourd pour pouvoir être manié d’une seule main.</p>\n"
@@ -390,6 +647,11 @@
             "description": "<p>Un sac à dos peut contenir des objets jusqu’à un Encombrement 4. Si vous transportez ou stockez le sac plutôt que de l’avoir sur le dos, son Encombrement devient léger à la place de négligeable. Les deux premiers Encombrements que vous rangez dans votre  sac à dos ne sont pas pris en compte dans votre limite  d’Encombrement.\n.&nbsp;</p>\n\n"
         },
         {
+            "id": "Clothing (Winter)",
+            "name": "Vêtement (hiver)",
+            "description": "<p><span class=\"fontstyle0\">Les vêtements d’hiver annulent les dégâts dus à un froid important issu de l’environnement et de réduisent les dégâts de froid extrême à de simples dégâts de froid important. </span> </p>\n"
+        },
+        {
             "id": "Sickle",
             "name": "Serpe",
             "description": "<p>à l’origine un outil agricole utilisé pour faucher le grain, cette arme à une main possède un court manche en bois se terminant par une lame incurvée, parfois affûtée des deux côtés.</p>\n\n"
@@ -401,7 +663,7 @@
         },
         {
             "id": "Halberd (+1)",
-            "name": "Hallebarde",
+            "name": "Hallebarde (+1)",
             "description": "<p>cette arme d’hast possède un manche relativement court de 1,5 m. Son extrémité dangereuse est une longue pointe attachée avec une lame de hache.</p>\n<p>Cette arme pooède &nbsp;<em>une rune de puissance d'arme +1</em>&nbsp; (Bonus d'objet +1 sur les jets d'attaque avec cette arme).</p>\n"
         },
         {
@@ -420,6 +682,11 @@
             "description": "<p><span class=\"fontstyle0\">Cet arc court est composé de corne, de bois et de tendon collés ensemble pour augmenter la puissance de sa traction et de son projectile.  Sa taille compacte et sa puissance en font le favori  des archers montés. Chaque fois qu’une capacité est  spécifiquement limitée à un arc court, elle s’applique  également aux arcs courts composites, sauf indication  contraire.</span> </p>\n"
         },
         {
+            "id": "Mace",
+            "name": "Masse d'armes",
+            "description": "<p>Avec un solide manche et une lourde tête en métal, une masse d’armes est robuste et permet à celui qui la manie de porter des coups puissants et de cabosser une armure.</p>\n"
+        },
+        {
             "id": "Class Kit (Monk)",
             "name": "Kit de classe (Moine)",
             "description": "<div><strong>Weapons</strong> longspear, staff</div>\n<div><strong>Gear</strong> adventurer&rsquo;s pack, bandolier, climbing kit,</div>\n<div>grappling hook, lesser smokestick</div>\n"
@@ -433,6 +700,11 @@
             "id": "Class Kit (Wizard)",
             "name": "Kit de classe (Magicien)",
             "description": "<div><strong>Armes </strong>bâton</div>\n<div><strong>Equipement </strong> pack d’aventurier, bourse de composants matériels,\nnécessaire d’écriture\n</div>\n<div><strong>Options </strong> arbalète avec 20 carreaux (3 po, 2 pa)</div>\n"
+        },
+        {
+            "id": "Arrow-Catching Shield",
+            "name": "Bouclier intercepteur de projectiles",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des motifs de flèches empennées et entrecroisées sont gravées sur ce bouclier en bois (Solidité 6, 24 PV, SR 12).<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> Interagir; <strong>Déclencheurr</strong>Une Frappe avec une arme à distance prend pour cible une créature à 4,50 m ou moins de vous quand vous avez ce bouclier levé, et l’attaquant n’a pas encore fait son jet d’attaque; <strong>Effet</strong> La Frappe qui déclenche l’effet vous prend pour cible à la place de celle prévue. Si elle touche, vous bénéficiez des effets de la réaction Blocage au bouclier</span></p>\n"
         }
     ]
 }

@@ -1,10 +1,10 @@
 # État de la traduction (ancestryfeatures)
 
- * **aucune**: 35
- * **officielle**: 28
+ * **aucune**: 34
+ * **officielle**: 29
 
 
-Dernière mise à jour: 2020-06-04 06:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-05 16:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -42,7 +42,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-Sm3tKetM6kddTio3.htm](ancestryfeatures/feat-01-Sm3tKetM6kddTio3.htm)|Plant Nourishment|
 |[feat-01-ViKRoVgog172r163.htm](ancestryfeatures/feat-01-ViKRoVgog172r163.htm)|Vivacious Gnome|
 |[feat-01-VYfpTUuXJM3iBOz0.htm](ancestryfeatures/feat-01-VYfpTUuXJM3iBOz0.htm)|Unseen Lizardfolk|
-|[feat-01-wTN8ns9cDw9sgZQj.htm](ancestryfeatures/feat-01-wTN8ns9cDw9sgZQj.htm)|Half-Elf|
 |[feat-01-yazWJQvcSghoxlP5.htm](ancestryfeatures/feat-01-yazWJQvcSghoxlP5.htm)|Fungus Leshy|
 |[feat-01-z4cvqtpkkAYoFpHa.htm](ancestryfeatures/feat-01-z4cvqtpkkAYoFpHa.htm)|Bloodhound Shoony|
 |[feat-01-Z9xQJejoxYTE9Mw6.htm](ancestryfeatures/feat-01-Z9xQJejoxYTE9Mw6.htm)|Leaf Leshy|
@@ -77,5 +76,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-UV2sABrTC5teOXTE.htm](ancestryfeatures/feat-01-UV2sABrTC5teOXTE.htm)|Strong-Blooded Dwarf|Nain sang-fort|officielle|
 |[feat-01-VNUyMc0JYAsjqm55.htm](ancestryfeatures/feat-01-VNUyMc0JYAsjqm55.htm)|Irongut Goblin|Gobelin Boyaud’fer|officielle|
 |[feat-01-VSyOvtgJ1ZNpIVgC.htm](ancestryfeatures/feat-01-VSyOvtgJ1ZNpIVgC.htm)|Rock Dwarf|Nain des roches|officielle|
+|[feat-01-wTN8ns9cDw9sgZQj.htm](ancestryfeatures/feat-01-wTN8ns9cDw9sgZQj.htm)|Half-Elf|Demi-elfe|officielle|
 |[feat-01-xtRIYizCjLg9qe1Z.htm](ancestryfeatures/feat-01-xtRIYizCjLg9qe1Z.htm)|Wildwood Halfling|Halfelin bois-sauvage|officielle|
 |[feat-01-zVf0Hlp5xG0Q7kmc.htm](ancestryfeatures/feat-01-zVf0Hlp5xG0Q7kmc.htm)|Skilled Heritage|Héritage talentueux|officielle|

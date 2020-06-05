@@ -72,6 +72,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous êtes acclimaté à la vie dans les terres glacées. Votre carnation se situe entre le bleu clair et le bleu marine. Vous êtes également couvert d’une fourrure bleue. Vous gagnez une résistance au froid égale à la moitié de votre niveau (avec un minimum de 1). Vous subissez tous les effets environnementaux liés au froid comme si leur intensité était réduite d’un rang (le froid extraordinaire devient extrême, le froid extrême devient grand, etc.).&nbsp;</span></p>\n"
         },
         {
+            "id": "Half-Elf",
+            "name": "Demi-elfe",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Soit l’un de vos parents était un elfe, soit les deux étaient des demi-elfes. Vos oreilles pointues et d’autres signes trahissent votre ascendance elfique. Vous gagnez le trait elfe et le pouvoir vision nocturne. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des elfes, des demi-elfes et des humains.&nbsp;</span></p>\n"
+        },
+        {
             "id": "Cavern Elf",
             "name": "Elfe des cavernes",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes né ou avez passé de nombreuses années dans des tunnels souterrains ou des cavernes, dans un environnement très sombre. Vous gagnez vision dans le noir.&nbsp;</span></p>\n"

@@ -2,9 +2,24 @@
     "label": "Backgrounds",
     "entries": [
         {
+            "id": "Martial Disciple",
+            "name": "Disciple martial",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez suivi un entraînement intense et des études rigoureuses afin de devenir un grand guerrier. Vous pouvez avoir été élève dans un monastère traditionnel, une académie militaire d’élite ou une branche locale d’une prestigieuse organisation de mercenaires.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Dextérité</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans la compétence Acrobaties ou Athlétisme. Vous gagnez un don de compétence : Chute féline si vous avez choisi Acrobaties ou Saut rapide si vous avez choisi Athlétisme. Vous êtes également qualifié dans la compétence Connaissance de la guerre.</span></p>\n"
+        },
+        {
+            "id": "Gladiator",
+            "name": "Gladiateur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à vous battre lors des sanglants jeux de l’arène. Vous avez cependant quitté l'arène (ou vous vous êtes enfui) avant d’y atteindre la gloire. Votre capacité à faire couler le sang et à éveiller l’intérêt des foules vous est utile dans votre nouvelle vie d’aventurier.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Représentation et Connaissance des gladiateurs. Vous gagnez le don de compétence Représentation impressionnante.</span></p>\n"
+        },
+        {
             "id": "Emissary",
             "name": "Émissaire",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Remplissant le rôle de diplomate ou de messager, vous avez énormément voyagé. Votre quotidien consistait à communiquer avec de nouvelles personnes et à former des alliances.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Intelligence</strong> ou <strong>Charisme</strong>, et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans la compétence <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=14\">Société</a></u> et une compétence de Connaissance en lien avec une cité dans laquelle vous vous êtes souvent rendu. Vous gagnez le don de compétence <u><a href=\"https://2e.aonprd.com/Feats.aspx?ID=814\">Polyglotte</a></u>.</span></p>"
+        },
+        {
+            "id": "Gambler",
+            "name": "Parieur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le frisson du jeu vous a fait vous perdre dans les jeux de hasard. Il s’agissait peut-être d’un à-côté lucratif qui a perdu de son attrait comparé aux véritables risques liés à la vie d’aventurier, ou votre passion du jeu vous a mis dans une situation difficile et vous vous êtes tourné vers l’aventure avant d’être irrémédiablement pris dans l’engrenage.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Dextérité</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Duperie et Connaissance ludique. Vous gagnez le don de compétence Détecteur de mensonges.</span></p>\n"
         },
         {
             "id": "Barrister",
@@ -12,9 +27,29 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les longues heures passées le nez dans des piles d’ouvrages législatifs sous le regard sévère de vos professeurs et à fréquenter les tribunaux vous ont permis d’apprendre le fonctionnement des lois. Vous êtes capable de monter un dossier d’accusation ou de défense pour un procès et vous vous tenez informé des lois locales, car il est impossible de prédire quand elles pourront vous être utiles.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être d’<strong>Intelligence</strong> ou de <strong>Charisme</strong>et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences de <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=6\">Diplomatie</a></u> et de <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissances</a></u> juridiques. Vous gagnez le don de compétence <u><a href=\"https://2e.aonprd.com/Feats.aspx?ID=789\">Bonne impression de groupe</a></u>.</span></p>"
         },
         {
+            "id": "Prisoner",
+            "name": "Prisonnier",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez probablement été emprisonné pour un crime (que vous avez commis ou non) ou asservi pendant une partie de votre jeunesse. Maintenant que vous êtes aventurier, vous profitez pleinement de votre liberté retrouvée.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Constitution</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Discrétion et Connaissance de la pègre. Vous gagnez le don de compétence Contrebandier expérimenté.</span></p>\n"
+        },
+        {
+            "id": "Nomad",
+            "name": "Nomade",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez beaucoup voyagé et appris par la même occasion les grands principes de la survie sur les routes et dans des terres inconnues, quand les provisions se font rares et le confort presque inexistant. Maintenant que vous êtes aventurier, vous continuez de voyager, mais souvent dans des endroits encore plus dangereux.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Constitution</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans la compétence Survie et une compétence de Connaissance liée à un type de terrain que vous avez déjà traversé (comme Connaissance du désert ou Connaissance des marais). Vous gagnez le don de compétence Assurance avec la compétence Survie.</span></p>\n"
+        },
+        {
             "id": "Bounty Hunter",
             "name": "Chasseur de primes",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous êtes enrichi en traquant les délinquants. Vos motivations étaient peut-être altruistes et chasser les criminels était pour vous un moyen de rendre les rues plus sûres, ou alors vous étiez seulement motivé par l’argent. Vous n’avez aucun mal à transposer vos techniques de traque des criminels à votre profession d’aventurier.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> or <strong>Sagesse</strong>, l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=16\">Survie</a></u> et <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance juridique</a></u>. Vous gagnez le don <u><a href=\"https://2e.aonprd.com/Feats.aspx?ID=780\">Pisteur expérimenté</a></u>.</span></p>"
+        },
+        {
+            "id": "Scout",
+            "name": "Éclaireur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La nature a été votre seconde maison lorsque vous découvriez des sentiers et guidiez des voyageurs. C’est peut-être votre soif de voyages qui vous a poussé à partir à l’aventure, ou vous avez découvert en servant d’éclaireur à des soldats que vous aviez pris goût aux combats.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Dextérité</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans la compétence Survie et une compétence de Connaissance liée à un type de terrain dans lequel vous avez déjà effectué une reconnaissance (comme Connaissance des forêts ou Connaissance des cavernes). Vous gagnez le don de compétence Glaneur.</span></p>\n"
+        },
+        {
+            "id": "Tinker",
+            "name": "Bricoleur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous inventez toutes sortes de petites choses afin de satisfaire votre imagination fertile. Vos compétences en ingénierie s’expriment avec beaucoup de créativité et il est impossible de deviner ce que vous allez bien pouvoir inventer ensuite. Il s’agira peut-être d’un génial appareil qui aura un potentiel fabuleux... ou qui risquera d’exploser.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Dextérité</strong> ou d’<strong>Intelligence</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Artisanat et Connaissance de l’ingénierie. Vous gagnez le don de compétence Artisanat spécialisé.</span></p>\n"
         },
         {
             "id": "Acolyte",
@@ -32,9 +67,44 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une éducation dans les arts ou un entraînement obstiné vous ont permis d’apprendre à divertir les foules. Vous étiez peut-être comédien, danseur, musicien, escamoteur, ou un autre type d’artiste.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Dextérité</strong> ou <strong>Charisme</strong>, l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=12\">Représentation</a></u> et <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaisance théâtrale</a></u>. Vous gagnez le don de compétence <u><a href=\"https://2e.aonprd.com/Feats.aspx?ID=781\">Représentation fascinante</a></u>.</span></p>"
         },
         {
+            "id": "Merchant",
+            "name": "Marchand",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre précédente activité consistait à vendre des produits et échanger des biens, peut-être dans une boutique poussiéreuse, derrière un étal de marché, ou dans une caravane marchande. Les compétences que vous avez acquises vous servent dans votre nouvelle vocation d’aventurier, dans le cadre de laquelle votre capacité à obtenir une réduction sur le prix d’une bonne armure pourra vous sauver la vie.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>d’Intelligence</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Diplomatie et Connaissance commerciale. Vous gagnez le don de compétence Chasseur de bonnes affaires.</span></p>"
+        },
+        {
             "id": "Farmhand",
             "name": "Ouvrier agricole",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Alliant robustesse et compréhension des cycles saisonniers, vous labouriez la terre et preniez soin des récoltes. Votre ferme a peut-être été démolie par des envahisseurs, vous avez perdu la famille qui vous rattachait à votre terre, ou vous en avez peut-être tout simplement eu assez de vous épuiser à la tâche. En tout cas, vous avez décidé de devenir aventurier..<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Constitution</strong> ou <strong>Sagesse</strong>, et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=3\">Athlétisme</a></u> et <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance agricole</a></u> skill. Vous gagnez le don de compétence <u><a href=\"https://2e.aonprd.com/Feats.aspx?ID=756\">Assurance</a></u> avec <a href=\"https://2e.aonprd.com/Skills.aspx?ID=3\"> Athlétisme </a>.</span></p>"
+        },
+        {
+            "id": "Warrior",
+            "name": "Homme d'armes",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Dans votre jeunesse, vous avez combattu en tant que mercenaire, guerrier défendant un peuple nomade, ou membre d’une milice ou d’une armée. Vous avez peut-être eu envie de vous affranchir de la structure hiérarchique de ces forces armées, mais vous pouvez également avoir toujours été un guerrier indépendant.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Constitution</strong> et l’autre est une prime de caractéristique libre.<br /></span></p> \n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Intimidation et Connaissance de la guerre. Vous gagnez le don de compétence Regard intimidant.</span></p>\n"
+        },
+        {
+            "id": "Hermit",
+            "name": "Ermite",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous viviez reclus et loin de tout, dans une caverne, une oasis perdue, ou cloîtré dans un manoir. Votre départ à l’aventure est peut-être votre première incursion dans le monde depuis bien longtemps. Vous y voyez peut-être la fin bienvenue de votre solitude ou un changement que vous ne désiriez pas. Dans tous les cas, vous êtes sûrement encore un peu farouche..<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Constitution</strong> ou <strong>d’Intelligence</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans la compétence Nature ou Occultisme, ainsi que dans une compétence de Connaissance liée au type de terrain où vous avez vécu quand vous étiez ermite (comme Connaissance des cavernes ou Connaissance du désert). Vous gagnez le don de compétence Savoir douteux.</span></p>\n"
+        },
+        {
+            "id": "Miner",
+            "name": "Mineur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagniez votre vie en extrayant des minerais précieux des profondeurs obscures de la terre. Comparé à cet épuisant labeur, partir à l’aventure peut vous sembler une alternative lucrative et séduisante. Et si vous deviez retourner sous terre, vous comptez bien le faire avec une véritable arme en main et non une pioche de mineur.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Survie et Connaissance minière. Vous gagnez le don de compétence Expertise du terrain en environnement souterrain.</span></p>\n"
+        },
+        {
+            "id": "Hunter",
+            "name": "Chasseur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre précédente activité consistait à traquer et abattre des animaux et autres créatures sauvages. Vous avez également appris à les écorcher, les dépecer et les cuire, des compétences qui peuvent se révéler fort utiles lors d’une aventure.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Dextérité</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Survie et Connaissance de la tannerie. Vous gagnez le don de compétence Observation de la nature.</span></p>\n"
+        },
+        {
+            "id": "Street Urchin",
+            "name": "Enfant des rues",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous efforciez de survivre en faisant les poches des passants dans les artères d’une grande ville, sans jamais savoir quand serait votre prochain repas. Si certaines personnes se tournent vers l’aventure pour la gloire, c’est pour vous une question de survie.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Dextérité</strong> ou de <strong>Constitution</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans la compétence Vol et une compétence de Connaissance correspondant à la cité dans laquelle vous avez vécu comme enfant des rues (comme Connaissance d’Absalom ou Connaissance de Magnimar). Vous gagnez le don de compétence Vol à la tire.</span></p>\n"
+        },
+        {
+            "id": "Sailor",
+            "name": "Marin",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez entendu l’appel de la mer dès votre jeune âge. Vous avez peut-être rejoint un vaisseau marchand, la marine, ou un équipage de pirates et de vauriens.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Dextérité</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Athlétisme et Connaissance de la navigation maritime. Vous gagnez le don de compétence Maraudeur aquatique.</span></p>\n"
         },
         {
             "id": "Charlatan",
@@ -42,9 +112,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"> Vous vous rendiez de ville en ville, prétendant lire l’avenir et vendre des remèdes miracles à un endroit, et vous faisant passer pour un héritier royal en exil dans le suivant afin de séduire le ou la riche bénéficiaire d’un héritage. Prendre l’étiquette d’aventurier peut être votre dernière combine, ou une véritable tentative d’utiliser vos talents à meilleur escient. Il peut également s’agir des deux et vous vous rendez alors compte que vous êtes en train de devenir le héros pour lequel vous vous faites passer.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"> Choisissez deux primes de caractéristiques. Une de ces primes doit\nêtre <strong>Intelligence</strong> ou <strong>Charisme</strong>, et l’autre est une prime de caractéristique\nlibre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"> Vous êtes qualifié dans les compétences <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=5\">Duperie</a></u> et <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance de la Pègre</a></u>. Vous gagnez le don de compétence <u><a href=\"https://2e.aonprd.com/Feats.aspx?ID=766\">Menteur charismatique</a></u>.</span></p>\n"
         },
         {
+            "id": "Laborer",
+            "name": "Manoeuvre",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez passé des années à exercer un pénible travail physique. C’était une période difficile, mais vous avez réussi à survivre. Vous vous êtes peut-être tourné vers l’aventure car vous y voyez une méthode plus simple de vous faire une place dans le monde, ou bien vous accompagnez quelqu’un dont vous êtes sous les ordres.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Constitution</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Athlétisme et Connaissance du travail. Vous gagnez le don de compétence Portefaix avec la compétence Athlétisme.</span></p>\n"
+        },
+        {
             "id": "Animal Whisperer",
             "name": "Dresseur",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez toujours eu un lien particulier avec les animaux et il vous a donc semblé naturel de devenir dresseur. Vous rencontrez constamment de nouvelles créatures lors de vos voyages et ne perdez pas une occasion de vous en faire des amies.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit\nêtre de <strong>Sagesse</strong> ou de <strong>Charisme</strong>et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=10\">Nature</a></u> et une compétence de connaissance liée à un terrain occupé par les animaux que vous appréciez (comme Connaissance des plaines ou Connaissance des marais). Vous gagnez le don de compétence <u><a href=\"https://2e.aonprd.com/Feats.aspx?ID=856\">Dressage Animalier</a></u>.</span></p>"
+        },
+        {
+            "id": "Fortune Teller",
+            "name": "Voyant",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris de nombreuses méthodes traditionnelles pour prédire l’avenir et vous voyez ainsi avec clarté les fils du destin s’étirer devant vous. Vous avez peut-être utilisé ces compétences pour guider votre communauté, ou simplement pour gagner votre vie. Cependant, la moindre incursion dans ce genre de pratiques vous connecte aux mystères occultes de l’univers..<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>d’Intelligence</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Occultisme et Connaissance de la voyance. Vous gagnez le don de compétence Identification de bizarreries.</span></p>\n"
         },
         {
             "id": "Artisan",
@@ -55,6 +135,16 @@
             "id": "Artist",
             "name": "Artiste",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre art, quelle que soit la manière dont il s’exprime, représente votre passion. L’aventure vous aide peut‑être à trouver l’inspiration, ou alors il s’agit simplement un moyen de survivre en attendant de devenir un artiste de renom mondial.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Dextérité</strong> ou de <strong>Charisme</strong>et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=4\">Artisanat</a></u> et  <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a></u> artistique. Vous gagnez le don de compétence <u><a href=\"https://2e.aonprd.com/Feats.aspx?ID=844\">Artisanat spécialisé</a></u>.</span></p>"
+        },
+        {
+            "id": "Noble",
+            "name": "Noble",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Si pour la plèbe, la vie d’un noble peut sembler idyllique et luxueuse, vous avez grandi en tant que noble ou membre d’une famille aspirant à la noblesse et vous savez ce qu’il en est réellement : la vie d’un noble est pleine d’obligations et d’intrigues. Que ce soit pour échapper à vos devoirs ou améliorer votre statut social, vous avez remisé les soies et le faste pour revêtir une casaque d’aventurier.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>d’Intelligence</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Société, et Connaissance généalogique ou Connaissance de l’héraldique. Vous gagnez le don de compétence Manières courtoises.</span></p>\n"
+        },
+        {
+            "id": "Scholar",
+            "name": "Érudit",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez toujours aimé étudier et vous vous êtes ainsi coupé du monde pour apprendre tout ce que vous pouviez. Vos livres vous ont permis de découvrir des choses et des lieux extraordinaires que vous avez toujours rêvé de voir en vrai. Finalement, la curiosité a pris le dessus et vous avez abandonné vos études pour partir à l’aventure.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>d’Intelligence</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans la compétence de votre choix parmi Arcanes, Nature, Occultisme, ou Religion. Vous gagnez le don de compétence Assurance avec cette compétence. Vous êtes également qualifié dans la compétence Connaissance universitaire.</span></p>\n"
         },
         {
             "id": "Criminal",
@@ -70,6 +160,16 @@
             "id": "Field Medic",
             "name": "Médecin militaire",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Plongé dans le chaos des batailles, vous avez appris à vous adapter à une situation en constante évolution tout en prenant soin des blessés. Vous prodiguiez des soins à des soldats, des gardes ou d’autres combattants et vous avez par la même occasion appris de nombreuses choses sur la logistique de la guerre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Constitution</strong> ou <strong>Sagesse</strong>, et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=9\">Médecine</a></u> et <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connissance de la guerre</a></u>. Vous gagnez le don de compétence <u><a href=\"https://2e.aonprd.com/Feats.aspx?ID=760\">Médecine militaire</a></u>.</span></p>"
+        },
+        {
+            "id": "Guard",
+            "name": "Garde",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez servi dans la garde, soit par patriotisme, soit pour gagner votre pitance. Dans tous les cas, vous avez appris à faire parler un suspect réticent. Peu importe les raisons qui vous ont fait quitter la garde, vous pensez probablement que la vie d’aventurier est l’occasion d’exploiter vos compétences plus ambitieusement.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Intimidation, et Connaissance juridique ou Connaissance de la guerre. Vous gagnez le don de compétence Contrainte rapide.</span></p>\n"
+        },
+        {
+            "id": "Herbalist",
+            "name": "Herboriste",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez suivi une formation officielle d’apothicaire ou avez pratiqué la médecine populaire à la campagne et vous connaissez les propriétés médicinales des herbes. Vous savez récolter les bons remèdes naturels dans toutes sortes d’environnements et les préparer comme il se doit.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Constitution</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans les compétences Nature et Connaissance en herboristerie. Vous gagnez le don de compétence Médecine naturelle.</span></p>\n"
         },
         {
             "id": "Barkeep",

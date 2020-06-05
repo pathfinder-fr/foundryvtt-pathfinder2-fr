@@ -159,7 +159,7 @@
         {
             "id": "Terrifying Howl",
             "name": "Hurlement terrifiant",
-            "description": "<p><strong> Prérequis</strong> Regard intimidant</p>\n<hr>\n<p> Vous poussez un hurlement terrifiant. Vous faites des tests d’Intimidation pour Démoraliser tous les ennemis qui se trouvent dans un rayon de 9 m. Quel que soit le résultat de vos tests, chacune de ces créatures est alors temporairement immunisée au Hurlement terrifiant pendant 1 min.</p>"
+            "description": "<p><strong> Prérequis</strong> Regard intimidant</p>\n<hr>\n<p> Vous poussez un hurlement terrifiant. Vous faites des tests d’Intimidation pour Démoraliser tous les ennemis qui se trouvent dans un rayon de 9 m. Quel que soit le résultat de vos tests, chacune de ces créatures est alors temporairement immunisée au Hurlement terrifiant pendant 1 min.</p>\n"
         },
         {
             "id": "Runescarred Dedication",
@@ -1009,7 +1009,7 @@
         {
             "id": "Poison Weapon",
             "name": "Arme empoisonnée",
-            "description": "<p><strong>Conditions</strong>  Vous tenez une arme perforante ou tranchante.</p>\n<hr>\n<p>Vous appliquez un poison sur l’arme requise. Si vous n’avez pas de poison en main et avez une main libre, vous pouvez Interagir pour prendre un poison lors de cette action. Avant la fin de votre prochain tour, si la prochaine attaque que vous portez avec cette arme touche sa cible et inflige des dégâts, vous appliquez également les effets du poison, dans la mesure où celui‑ci peut être administré par contact ou par blessure. Si vous obtenez un échec critique au jet d’attaque, le poison est gâché suivant la règle normale.</p>\n<p><strong>Spécial</strong> Pendant vos préparatifs quotidiens, vous pouvez préparer un nombre de doses de poison simple administrable par blessure égal à votre niveau de roublard. Ces poisons infligent 1d4 dégâts de poison. Vous êtes le seul à pouvoir appliquer ces doses de poison correctement et elles perdent leur efficacité lors de vos prochains préparatifs.</p>"
+            "description": "<p><strong>Conditions</strong>  Vous tenez une arme perforante ou tranchante.</p>\n<hr>\n<p>Vous appliquez un poison sur l’arme requise. Si vous n’avez pas de poison en main et avez une main libre, vous pouvez Interagir pour prendre un poison lors de cette action. Avant la fin de votre prochain tour, si la prochaine attaque que vous portez avec cette arme touche sa cible et inflige des dégâts, vous appliquez également les effets du poison, dans la mesure où celui‑ci peut être administré par contact ou par blessure. Si vous obtenez un échec critique au jet d’attaque, le poison est gâché suivant la règle normale.</p>\n<p><strong>Spécial</strong> Pendant vos préparatifs quotidiens, vous pouvez préparer un nombre de doses de poison simple administrable par blessure égal à votre niveau de roublard. Ces poisons infligent 1d4 dégâts de poison. Vous êtes le seul à pouvoir appliquer ces doses de poison correctement et elles perdent leur efficacité lors de vos prochains préparatifs.</p>\n"
         },
         {
             "id": "Diverse Weapon Expert",
@@ -1029,7 +1029,7 @@
         {
             "id": "Brutal Critical",
             "name": "Critique brutal",
-            "description": "<p>Vos coups critiques sont particulièrement dévastateurs. Sur un coup critique avec une Frappe au corps à corps, ajoutez un dé de dégâts de plus. Il s’ajoute aux autres dés supplémentaires que vous gagnez si votre arme possède les traits mortelle ou fatale. La cible subit également une quantité de dégâts de saignement persistants égale à deux dés de dégâts.</p>"
+            "description": "<p>Vos coups critiques sont particulièrement dévastateurs. Sur un coup critique avec une Frappe au corps à corps, ajoutez un dé de dégâts de plus. Il s’ajoute aux autres dés supplémentaires que vous gagnez si votre arme possède les traits mortelle ou fatale. La cible subit également une quantité de dégâts de saignement persistants égale à deux dés de dégâts.</p>\n"
         },
         {
             "id": "Diamond Soul",
@@ -1809,7 +1809,7 @@
         {
             "id": "Minor Magic",
             "name": "Magie mineure",
-            "description": "<p>Vous avez touché à de nombreux domaines et avez ainsi acquis des pouvoirs mineurs dans une tradition magique. Choisissez une des traditions magiques suivantes, dans laquelle vous gagnez deux tours de magie sélectionnés dans la liste des tours de magie ordinaires : arcanique, divine,occulte ou primordiale. Vous utilisez le Charisme comme caractéristique essentielle d’incantation. Vous êtes formé aux DD et jets d’attaque de sorts issus de la tradition des tours de magie que vous avez choisis.</p>\n\n"
+            "description": "<p>Vous avez touché à de nombreux domaines et avez ainsi acquis des pouvoirs mineurs dans une tradition magique. Choisissez une des traditions magiques suivantes, dans laquelle vous gagnez deux tours de magie sélectionnés dans la liste des tours de magie ordinaires : arcanique, divine,occulte ou primordiale. Vous utilisez le Charisme comme caractéristique essentielle d’incantation. Vous êtes formé aux DD et jets d’attaque de sorts issus de la tradition des tours de magie que vous avez choisis.</p>\n"
         },
         {
             "id": "Burrow Elocutionist",
@@ -1834,7 +1834,7 @@
         {
             "id": "Mindblank Mutagen",
             "name": "Mutagène d’esprit vide",
-            "description": "<p>Des ajustements mineurs à la formule de votre mutagène de sérénité vous permettent de bénéficier de protections mentales. Quand vous êtes sous l’effet d’un mutagène de sérénité, les effets de détection, de révélation et de scrutation de niveau 9 ou inférieur ne détectent rien en ce qui vous concerne vous-même, vos possessions et vos auras. Par exemple, détection de la magie détectera toujours d’autres émanations magiques dans la zone, mais aucune magie vous oncernant.</p>"
+            "description": "<p>Des ajustements mineurs à la formule de votre mutagène de sérénité vous permettent de bénéficier de protections mentales. Quand vous êtes sous l’effet d’un mutagène de sérénité, les effets de détection, de révélation et de scrutation de niveau 9 ou inférieur ne détectent rien en ce qui vous concerne vous-même, vos possessions et vos auras. Par exemple, détection de la magie détectera toujours d’autres émanations magiques dans la zone, mais aucune magie vous oncernant.</p>\n"
         },
         {
             "id": "Hefty Hauler",
@@ -1949,7 +1949,7 @@
         {
             "id": "Universal Longevity",
             "name": "Longévité universelle",
-            "description": "<p><strong>Prérequis</strong> Longévité experte</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<hr>\n<p>Vous avez perfectionné votre capacité à entretenir les compétences que vous avez apprises au cours de votre longue vie et vous ne vous trouvez ainsi jamais véritablement inexpérimenté dans une compétence. En méditant sur votre existence, vous pouvez modifier les compétences que vous avez sélectionnées dans le cadre des dons Longévité ancestrale et Longévité experte.</p>"
+            "description": "<p><strong>Prérequis</strong> Longévité experte</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<hr>\n<p>Vous avez perfectionné votre capacité à entretenir les compétences que vous avez apprises au cours de votre longue vie et vous ne vous trouvez ainsi jamais véritablement inexpérimenté dans une compétence. En méditant sur votre existence, vous pouvez modifier les compétences que vous avez sélectionnées dans le cadre des dons Longévité ancestrale et Longévité experte.</p>\n"
         },
         {
             "id": "Emblazon Energy",
@@ -2399,7 +2399,7 @@
         {
             "id": "Mountain’s Stoutness",
             "name": "Robustesse de la montagne",
-            "description": "<p>Votre robustesse vous permet d’endurer plus de dégâts avant de vous avouer vaincu. Ajoutez votre niveau à votre maximum de points de vie. Lorsque vous êtes mourant, le DD de vos tests de récupération est de 9 + l’intensité de votre état mourant (au lieu de 10 + l’intensité de votre état mourant). Si vous possédez aussi le don Robustesse, les points de vie gagnés grâce au don et à ce pouvoir sont cumulatifs et le DD de vos tests de récupération est de 6 + l’intensité de votre état mourant.</p>"
+            "description": "<p>Votre robustesse vous permet d’endurer plus de dégâts avant de vous avouer vaincu. Ajoutez votre niveau à votre maximum de points de vie. Lorsque vous êtes mourant, le DD de vos tests de récupération est de 9 + l’intensité de votre état mourant (au lieu de 10 + l’intensité de votre état mourant). Si vous possédez aussi le don Robustesse, les points de vie gagnés grâce au don et à ce pouvoir sont cumulatifs et le DD de vos tests de récupération est de 6 + l’intensité de votre état mourant.</p>\n"
         },
         {
             "id": "Additional Lore",
@@ -2884,7 +2884,7 @@
         {
             "id": "Persistent Mutagen",
             "name": "Mutagène persistant",
-            "description": "<p><strong>Prérequis</strong> Élixir étendu</p>\n<hr>\n<p>Vous vous êtes entraîné à stabiliser votre forme physique dans un état altéré. Une fois par jour, quand vous consommez un objet alchimique et qui possède les traits imprégné et mutagène, vous pouvez conserver ses effets jusqu’à vos préparatifs quotidiens suivants au lieu du terme de sa durée normale.</p>"
+            "description": "<p><strong>Prérequis</strong> Élixir étendu</p>\n<hr>\n<p>Vous vous êtes entraîné à stabiliser votre forme physique dans un état altéré. Une fois par jour, quand vous consommez un objet alchimique et qui possède les traits imprégné et mutagène, vous pouvez conserver ses effets jusqu’à vos préparatifs quotidiens suivants au lieu du terme de sa durée normale.</p>\n"
         },
         {
             "id": "Halcyon Speaker Dedication",
@@ -3029,7 +3029,7 @@
         {
             "id": "Elastic Mutagen",
             "name": "Mutagène élastique",
-            "description": "<p>Vous pouvez donner à votre corps la consistance du vif-argent que vous voyez se tordre et s’enrouler dans vos mutagènes. À chaque fois que vous vous trouvez sous l’effet d’un mutagène de vif-argent, vous pouvez étirer vos jambes et Faire un pas d’un maximum de 3 m. Vous pouvez aussi vous faire petit et compresser votre corps afin de pouvoir traverser des espaces étroits comme si vous faisiez une catégorie de taille de moins, en plus des autres effets de l’action Se faufiler.</p>\n\n"
+            "description": "<p>Vous pouvez donner à votre corps la consistance du vif-argent que vous voyez se tordre et s’enrouler dans vos mutagènes. À chaque fois que vous vous trouvez sous l’effet d’un mutagène de vif-argent, vous pouvez étirer vos jambes et Faire un pas d’un maximum de 3 m. Vous pouvez aussi vous faire petit et compresser votre corps afin de pouvoir traverser des espaces étroits comme si vous faisiez une catégorie de taille de moins, en plus des autres effets de l’action Se faufiler.</p>\n"
         },
         {
             "id": "Expeditious Advance",
