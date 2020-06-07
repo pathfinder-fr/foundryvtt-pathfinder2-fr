@@ -1,11 +1,11 @@
 # État de la traduction (classfeatures)
 
- * **changé**: 29
- * **officielle**: 53
+ * **changé**: 28
+ * **officielle**: 54
  * **aucune**: 173
 
 
-Dernière mise à jour: 2020-06-07 17:12 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-07 17:20 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -224,7 +224,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-07-D5AABucMrk5IGOKV.htm](classfeatures/champion-07-D5AABucMrk5IGOKV.htm)|Weapon Specialization (Champion)|Spécialisation martiale (Champion)|officielle|
 |[champion-07-g0nfwT61wE4vOaOn.htm](classfeatures/champion-07-g0nfwT61wE4vOaOn.htm)|Armor Expertise (Champion)|Expertise avec les armures|officielle|
 |[cleric-00-UV1HlClbWCNcaKBZ.htm](classfeatures/cleric-00-UV1HlClbWCNcaKBZ.htm)|Anathema (Cleric)|Anathème (Prêtre)|officielle|
-|[cleric-01-0Aocw3igLwna9cjp.htm](classfeatures/cleric-01-0Aocw3igLwna9cjp.htm)|Warpriest|Prêtre comba ttant|changé|
+|[cleric-01-0Aocw3igLwna9cjp.htm](classfeatures/cleric-01-0Aocw3igLwna9cjp.htm)|Warpriest|Prêtre combattant|officielle|
 |[cleric-01-AvNbdGSOTWNRgcxs.htm](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Divine Spellcasting|Incantation divine|officielle|
 |[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|changé|
 |[cleric-01-ZZzLMOUAtBVgV1DF.htm](classfeatures/cleric-01-ZZzLMOUAtBVgV1DF.htm)|Cloistered Cleric|Prêtre cloîtré|changé|
