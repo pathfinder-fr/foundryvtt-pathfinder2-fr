@@ -34,8 +34,14 @@ for F in FILES:
   with open(FILE, 'r') as f:
     content = f.readlines()
 
+  count = 0
   for line in content:
-    obj = json.loads(line)
+    count += 1
+    try:
+      obj = json.loads(line)
+    except:
+      print("Invalid json %s at line %d" % (FILE, count))
+      continue
     
     if '$$deleted' in obj:
       continue

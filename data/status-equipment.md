@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
  * **officielle**: 134
- * **aucune**: 2563
+ * **aucune**: 2564
  * **changé**: 1
  * **libre**: 8
 
 
-Dernière mise à jour: 2020-06-05 16:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-07 17:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -941,6 +941,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-03-mvMeloQxSiEGIlhL.htm](equipment/equipment-03-mvMeloQxSiEGIlhL.htm)|Coyote Cloak|
 |[equipment-03-q2TYVAMaK6UfenbV.htm](equipment/equipment-03-q2TYVAMaK6UfenbV.htm)|Lock (Average)|
 |[equipment-03-qlunQzfnzPQpMG6U.htm](equipment/equipment-03-qlunQzfnzPQpMG6U.htm)|Returning|
+|[equipment-03-R09AZzvyNA3Jginm.htm](equipment/equipment-03-R09AZzvyNA3Jginm.htm)|Abadar's Flawless Scale|
 |[equipment-03-RgNBGpBc9G2yw1C2.htm](equipment/equipment-03-RgNBGpBc9G2yw1C2.htm)|Crafter's Eyepiece|
 |[equipment-03-rV7MTDCseZmEZKDw.htm](equipment/equipment-03-rV7MTDCseZmEZKDw.htm)|Spyglass (Fine)|
 |[equipment-03-rXZxM7SbqEnvXyal.htm](equipment/equipment-03-rXZxM7SbqEnvXyal.htm)|Clothing (High-fashion Fine)|
@@ -2601,7 +2602,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-07-WDh4fb9N86mNLfDV.htm](equipment/armor-07-WDh4fb9N86mNLfDV.htm)|Spined Shield|Bouclier de la manticore|officielle|
 |[armor-08-2gMlhHlkQp3DuWw5.htm](equipment/armor-08-2gMlhHlkQp3DuWw5.htm)|Adamantine Shield (Standard-Grade)|Bouclier en adamantium (qualité standard)|officielle|
 |[armor-08-4aVkppixLHPg940o.htm](equipment/armor-08-4aVkppixLHPg940o.htm)|Adamantine Buckler (Standard-Grade)|Targe en adamantium (qualité standard)|officielle|
-|[armor-08-BUHV5rev5HVgCrUB.htm](equipment/armor-08-BUHV5rev5HVgCrUB.htm)|Darkwood Buckler (Standard-Grade)|Targe en ébénite|officielle|
+|[armor-08-BUHV5rev5HVgCrUB.htm](equipment/armor-08-BUHV5rev5HVgCrUB.htm)|Darkwood Buckler (Standard-Grade)|Targe en ébénite (qualité standard)|officielle|
 |[armor-08-CF9BCVE0ppxMmULb.htm](equipment/armor-08-CF9BCVE0ppxMmULb.htm)|Mithral Buckler (Standard-Grade)|Targe en mithral (qualité standard)|officielle|
 |[armor-08-ETHbpwjh8aLGrXi0.htm](equipment/armor-08-ETHbpwjh8aLGrXi0.htm)|Mithral Shield (Standard-Grade)|Bouclier en mithral (qualité standard)|officielle|
 |[armor-09-DIzZr0K20eCbNzQo.htm](equipment/armor-09-DIzZr0K20eCbNzQo.htm)|Force Shield|Bouclier de force|officielle|
@@ -2656,7 +2657,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-Wc9og4mTKZDH3xmz.htm](equipment/equipment-00-Wc9og4mTKZDH3xmz.htm)|Tent (Pup)|Tente (petite)|libre|
 |[equipment-00-xyzmQa3nhU8HxfUL.htm](equipment/equipment-00-xyzmQa3nhU8HxfUL.htm)|Tent (Pavilion)|Tente pour 4 personnes|libre|
 |[equipment-00-y34yjumCFakrbtdw.htm](equipment/equipment-00-y34yjumCFakrbtdw.htm)|Artisan’s Tools|Outils d'artisan|officielle|
-|[equipment-01-ckGYDocGEaelHfXF.htm](equipment/equipment-01-ckGYDocGEaelHfXF.htm)|Manacles (Simple)|Menottes (sipmle)|officielle|
+|[equipment-01-ckGYDocGEaelHfXF.htm](equipment/equipment-01-ckGYDocGEaelHfXF.htm)|Manacles (Simple)|Menottes (simple)|officielle|
 |[equipment-3tOyV4VZEZhwnAMO.htm](equipment/equipment-3tOyV4VZEZhwnAMO.htm)|Fishing Tackle|Articles de pêche|officielle|
 |[equipment-8Jdw4yAzWYylGePS.htm](equipment/equipment-8Jdw4yAzWYylGePS.htm)|Torch|Torche|officielle|
 |[equipment-9UJbMaglf35GVzaZ.htm](equipment/equipment-9UJbMaglf35GVzaZ.htm)|Climbing Kit|Kit d'escalade|officielle|
@@ -2666,7 +2667,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-SLQgdLk5K9JV4ACF.htm](equipment/equipment-SLQgdLk5K9JV4ACF.htm)|Clothing (Winter)|Vêtement (hiver)|officielle|
 |[equipment-vLGDUFrg4yGzpTQX.htm](equipment/equipment-vLGDUFrg4yGzpTQX.htm)|Repair Kit|Kit de réparation|officielle|
 |[equipment-XszNvxnymWYRaoTp.htm](equipment/equipment-XszNvxnymWYRaoTp.htm)|Flaming|Enflammée|officielle|
-|[equipment-ZPY2dOaMYciIJv1Q.htm](equipment/equipment-ZPY2dOaMYciIJv1Q.htm)|Manacles (Poor)|Menottes (médiocres)|officielle|
+|[equipment-ZPY2dOaMYciIJv1Q.htm](equipment/equipment-ZPY2dOaMYciIJv1Q.htm)|Manacles (Poor)|Menottes (médiocre)|officielle|
 |[equipment-Zr4PwTEuBLE30kkn.htm](equipment/equipment-Zr4PwTEuBLE30kkn.htm)|Short Tool|Outil|officielle|
 |[equipment-zvLyCVD8g2PdHJAc.htm](equipment/equipment-zvLyCVD8g2PdHJAc.htm)|Thieves’ Tools|Outils de voleur|officielle|
 |[treasure-5Ew82vBF9YfaiY9f.htm](equipment/treasure-5Ew82vBF9YfaiY9f.htm)|Silver Pieces|Pièces d'argent|libre|

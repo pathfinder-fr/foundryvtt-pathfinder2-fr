@@ -1,10 +1,11 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 51
- * **aucune**: 204
+ * **changé**: 29
+ * **officielle**: 53
+ * **aucune**: 173
 
 
-Dernière mise à jour: 2020-06-05 16:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-07 17:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -38,8 +39,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|
 |[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|
 |[alchemist-19-LOLVZkOvgWpzwsgq.htm](classfeatures/alchemist-19-LOLVZkOvgWpzwsgq.htm)|Light Armor Mastery (Alchemist)|
-|[barbarian-03-ZW09VPBA4GhuYBbg.htm](classfeatures/barbarian-03-ZW09VPBA4GhuYBbg.htm)|Deny Advantage (Barbarian)|
-|[barbarian-05-EEUTd0jAyfwTLzjk.htm](classfeatures/barbarian-05-EEUTd0jAyfwTLzjk.htm)|Brutality|
 |[barbarian-07-9EqIasqfI8YIM3Pt.htm](classfeatures/barbarian-07-9EqIasqfI8YIM3Pt.htm)|Weapon Specialization (Barbarian)|
 |[barbarian-07-tItHGKsORVsUqC31.htm](classfeatures/barbarian-07-tItHGKsORVsUqC31.htm)|Juggernaut (Barbarian)|
 |[barbarian-09-ie6xDX9GMEcA2Iuq.htm](classfeatures/barbarian-09-ie6xDX9GMEcA2Iuq.htm)|Raging Resistance|
@@ -54,9 +53,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-17-qMtyQGUllPdgpzUo.htm](classfeatures/barbarian-17-qMtyQGUllPdgpzUo.htm)|Quick Rage|
 |[barbarian-19-QTCIahokREpnAYDi.htm](classfeatures/barbarian-19-QTCIahokREpnAYDi.htm)|Armor of Fury|
 |[barbarian-19-VLiT503OLOM3vaDx.htm](classfeatures/barbarian-19-VLiT503OLOM3vaDx.htm)|Devastator|
-|[bard-01-fEOj0eOBe34qYdAa.htm](classfeatures/bard-01-fEOj0eOBe34qYdAa.htm)|Occult Spellcasting|
-|[bard-03-nw4gH2jMQN6DRv8z.htm](classfeatures/bard-03-nw4gH2jMQN6DRv8z.htm)|Signature Spells (Bard)|
-|[bard-03-q00P563wwFZVYhyo.htm](classfeatures/bard-03-q00P563wwFZVYhyo.htm)|Lightning Reflexes (Bard)|
 |[bard-07-6YIyycFN795wja1b.htm](classfeatures/bard-07-6YIyycFN795wja1b.htm)|Expert Spellcaster (Bard)|
 |[bard-09-AnZXGuP7Fa1mTiYJ.htm](classfeatures/bard-09-AnZXGuP7Fa1mTiYJ.htm)|Resolve (Bard)|
 |[bard-09-YdH1LNS2mT3LBVHn.htm](classfeatures/bard-09-YdH1LNS2mT3LBVHn.htm)|Great Fortitude (Bard)|
@@ -68,11 +64,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-17-Km2CaLUuRaxn79kH.htm](classfeatures/bard-17-Km2CaLUuRaxn79kH.htm)|Greater Resolve|
 |[bard-19-NjsOpWbbzUY2Hpk3.htm](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum Opus|
 |[bard-19-tmO36DHYZo64iywr.htm](classfeatures/bard-19-tmO36DHYZo64iywr.htm)|Legendary Spellcaster (Bard)|
-|[champion-00-fykh5pE99O3I2sOI.htm](classfeatures/champion-00-fykh5pE99O3I2sOI.htm)|Champion Code|
-|[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|
-|[champion-05-fC8FbGmkTwKMU8FF.htm](classfeatures/champion-05-fC8FbGmkTwKMU8FF.htm)|Weapon Expertise|
-|[champion-07-D5AABucMrk5IGOKV.htm](classfeatures/champion-07-D5AABucMrk5IGOKV.htm)|Weapon Specialization (Champion)|
-|[champion-07-g0nfwT61wE4vOaOn.htm](classfeatures/champion-07-g0nfwT61wE4vOaOn.htm)|Armor Expertise (Champion)|
 |[champion-09-dAA1MElXsUjQ5fzw.htm](classfeatures/champion-09-dAA1MElXsUjQ5fzw.htm)|Juggernaut (Champion)|
 |[champion-09-rl3b7Nv5N13UL9VC.htm](classfeatures/champion-09-rl3b7Nv5N13UL9VC.htm)|Lightning Reflexes (Champion)|
 |[champion-09-VgmfNKtQLgBaNi5r.htm](classfeatures/champion-09-VgmfNKtQLgBaNi5r.htm)|Champion Expertise|
@@ -84,15 +75,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-17-voiSCh7ZXA2ogwiC.htm](classfeatures/champion-17-voiSCh7ZXA2ogwiC.htm)|Legendary Armor|
 |[champion-17-z5G0o04uV65zyxDB.htm](classfeatures/champion-17-z5G0o04uV65zyxDB.htm)|Champion Mastery|
 |[champion-19-LzB6X9vOaq3wq1FZ.htm](classfeatures/champion-19-LzB6X9vOaq3wq1FZ.htm)|Hero's Defiance|
-|[cleric-05-EiD3tYJQAO4OhWc6.htm](classfeatures/cleric-05-EiD3tYJQAO4OhWc6.htm)|Alertness (Cleric)|
 |[cleric-09-Ye6ixydYMNzCZllo.htm](classfeatures/cleric-09-Ye6ixydYMNzCZllo.htm)|Resolve (Cleric)|
 |[cleric-11-ffC40m5ebeeXkzhC.htm](classfeatures/cleric-11-ffC40m5ebeeXkzhC.htm)|Lightning Reflexes (Cleric)|
 |[cleric-13-0mJTp4LdEHBLInoe.htm](classfeatures/cleric-13-0mJTp4LdEHBLInoe.htm)|Divine Defense|
 |[cleric-13-tga0Gdns1uA6jirb.htm](classfeatures/cleric-13-tga0Gdns1uA6jirb.htm)|Weapon Specialization (Cleric)|
 |[cleric-19-3uf31A91h3ywmlqm.htm](classfeatures/cleric-19-3uf31A91h3ywmlqm.htm)|Miraculous Spell|
-|[druid-03-C62VDef26Wi2s4Qm.htm](classfeatures/druid-03-C62VDef26Wi2s4Qm.htm)|Alertness (Druid)|
-|[druid-03-IsicKhmKtNyrkI97.htm](classfeatures/druid-03-IsicKhmKtNyrkI97.htm)|Great Fortitude (Druid)|
-|[druid-03-nzgb43mQmLgaqDoQ.htm](classfeatures/druid-03-nzgb43mQmLgaqDoQ.htm)|Primal Hierophant|
 |[druid-05-71djVINXSPTHO4xX.htm](classfeatures/druid-05-71djVINXSPTHO4xX.htm)|Lightning Reflexes (Druid)|
 |[druid-07-7uV3wuwrceEx3NGf.htm](classfeatures/druid-07-7uV3wuwrceEx3NGf.htm)|Expert Spellcaster (Druid)|
 |[druid-11-4wBmnZowB2uXrVv3.htm](classfeatures/druid-11-4wBmnZowB2uXrVv3.htm)|Resolve (Druid)|
@@ -101,7 +88,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-13-6uOx7W6I7u5Jv5Lg.htm](classfeatures/druid-13-6uOx7W6I7u5Jv5Lg.htm)|Medium Armor Expertise (Druid)|
 |[druid-15-nlOj4yFnTbw7oNDj.htm](classfeatures/druid-15-nlOj4yFnTbw7oNDj.htm)|Master Spellcaster (Druid)|
 |[druid-19-OdnfSYitJ5FfXGYW.htm](classfeatures/druid-19-OdnfSYitJ5FfXGYW.htm)|Legendary Spellcaster (Druid)|
-|[fighter-03-GJKJafDGuX4BeAeN.htm](classfeatures/fighter-03-GJKJafDGuX4BeAeN.htm)|Bravery|
 |[fighter-05-gApJtAdNb9ST4Ms9.htm](classfeatures/fighter-05-gApJtAdNb9ST4Ms9.htm)|Fighter Weapon Mastery|
 |[fighter-07-TIvzBALymvb56L79.htm](classfeatures/fighter-07-TIvzBALymvb56L79.htm)|Battlefield Surveyor|
 |[fighter-07-vmGFRT812VfKGWAL.htm](classfeatures/fighter-07-vmGFRT812VfKGWAL.htm)|Weapon Specialization (Fighter)|
@@ -115,10 +101,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fighter-15-W2rwudMNcAxs8VoX.htm](classfeatures/fighter-15-W2rwudMNcAxs8VoX.htm)|Improved Flexibility|
 |[fighter-17-Ix6Y5Ne24mysyWts.htm](classfeatures/fighter-17-Ix6Y5Ne24mysyWts.htm)|Armor Mastery (Fighter)|
 |[fighter-19-0H2LxtiZTJ275pSD.htm](classfeatures/fighter-19-0H2LxtiZTJ275pSD.htm)|Versatile Legend|
-|[monk-03-Cq6NjvcKZOMySBVj.htm](classfeatures/monk-03-Cq6NjvcKZOMySBVj.htm)|Incredible Movement|
-|[monk-03-D2AE8RfMlZ3D1FuV.htm](classfeatures/monk-03-D2AE8RfMlZ3D1FuV.htm)|Mystic Strikes|
-|[monk-05-7NCp6uuevOsaYRQB.htm](classfeatures/monk-05-7NCp6uuevOsaYRQB.htm)|Alertness (Monk)|
-|[monk-05-VgZIutWjFl8oZQFi.htm](classfeatures/monk-05-VgZIutWjFl8oZQFi.htm)|Expert Strikes|
 |[monk-07-CfxBHF09tU4kDo0y.htm](classfeatures/monk-07-CfxBHF09tU4kDo0y.htm)|Path to Perfection|
 |[monk-07-vV1Ko7dhcHyAGrId.htm](classfeatures/monk-07-vV1Ko7dhcHyAGrId.htm)|Weapon Specialization (Monk)|
 |[monk-09-CoRfFkisEsHE1e43.htm](classfeatures/monk-09-CoRfFkisEsHE1e43.htm)|Metal Strikes|
@@ -131,12 +113,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[monk-17-5cthRUkRqRtduVvN.htm](classfeatures/monk-17-5cthRUkRqRtduVvN.htm)|Adamantine Strikes|
 |[monk-17-JWDfzYub3JfuEtth.htm](classfeatures/monk-17-JWDfzYub3JfuEtth.htm)|Graceful Legend|
 |[monk-19-KmTfg7Sg5va4yU00.htm](classfeatures/monk-19-KmTfg7Sg5va4yU00.htm)|Perfected Form|
-|[ranger-03-hUl69qjTUBe0uGMA.htm](classfeatures/ranger-03-hUl69qjTUBe0uGMA.htm)|Iron Will (Ranger)|
-|[ranger-05-PeZi7E9lI4vz8EGY.htm](classfeatures/ranger-05-PeZi7E9lI4vz8EGY.htm)|Trackless Step|
-|[ranger-05-QhoW8ivPvYmWzyEZ.htm](classfeatures/ranger-05-QhoW8ivPvYmWzyEZ.htm)|Ranger Weapon Expertise|
 |[ranger-07-oIGvETC4fuunhMIH.htm](classfeatures/ranger-07-oIGvETC4fuunhMIH.htm)|Evasion (Ranger)|
 |[ranger-07-PnGcwyEiYdaCp8B9.htm](classfeatures/ranger-07-PnGcwyEiYdaCp8B9.htm)|Weapon Specialization (Ranger)|
-|[ranger-07-Y7aYlSls1RWOre1c.htm](classfeatures/ranger-07-Y7aYlSls1RWOre1c.htm)|Vigilant Senses (Ranger)|
 |[ranger-09-5likl5SAxQPrQ3KF.htm](classfeatures/ranger-09-5likl5SAxQPrQ3KF.htm)|Ranger Expertise|
 |[ranger-09-j2R64kwUgEJ1TudD.htm](classfeatures/ranger-09-j2R64kwUgEJ1TudD.htm)|Nature's Edge|
 |[ranger-11-18eLwCcdjwikfGsx.htm](classfeatures/ranger-11-18eLwCcdjwikfGsx.htm)|Juggernaut (Ranger)|
@@ -149,8 +127,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ranger-17-RVZC4wVy5B5W2OeS.htm](classfeatures/ranger-17-RVZC4wVy5B5W2OeS.htm)|Masterful Hunter|
 |[ranger-19-bBGb1LcffXEqar0p.htm](classfeatures/ranger-19-bBGb1LcffXEqar0p.htm)|Swift Prey|
 |[ranger-19-phwQ2MrDZ13D2HxC.htm](classfeatures/ranger-19-phwQ2MrDZ13D2HxC.htm)|Second Skin|
-|[rogue-03-5AB9zIVADQvDG76w.htm](classfeatures/rogue-03-5AB9zIVADQvDG76w.htm)|Deny Advantage (Rogue)|
-|[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|
 |[rogue-07-CeELxQ9E4dAyHmCX.htm](classfeatures/rogue-07-CeELxQ9E4dAyHmCX.htm)|Evasion (Rogue)|
 |[rogue-07-u6OsJxNFVpEs9aDK.htm](classfeatures/rogue-07-u6OsJxNFVpEs9aDK.htm)|Weapon Specialization (Rogue)|
 |[rogue-07-ujJcCezhvLkbaOvb.htm](classfeatures/rogue-07-ujJcCezhvLkbaOvb.htm)|Vigilant Senses (Rogue)|
@@ -167,7 +143,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-19-51nIcXq8qPefb9vm.htm](classfeatures/rogue-19-51nIcXq8qPefb9vm.htm)|Light Armor Mastery (Rogue)|
 |[rogue-19-SUUdWG0t33VKa5q4.htm](classfeatures/rogue-19-SUUdWG0t33VKa5q4.htm)|Master Strike|
 |[sorcerer-01-2goYo6VNbwC6aKF1.htm](classfeatures/sorcerer-01-2goYo6VNbwC6aKF1.htm)|Bloodline|
-|[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|
 |[sorcerer-01-7WBZ2kkhZ7JorWu2.htm](classfeatures/sorcerer-01-7WBZ2kkhZ7JorWu2.htm)|Bloodline: Undead|
 |[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|
 |[sorcerer-01-O0uXZRWMNliDbkxU.htm](classfeatures/sorcerer-01-O0uXZRWMNliDbkxU.htm)|Bloodline: Hag|
@@ -177,8 +152,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-w5koctOVrEcpxTIq.htm](classfeatures/sorcerer-01-w5koctOVrEcpxTIq.htm)|Bloodline: Demonic|
 |[sorcerer-01-ZEtJJ5UOlV5oTWWp.htm](classfeatures/sorcerer-01-ZEtJJ5UOlV5oTWWp.htm)|Bloodline: Imperial|
 |[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|
-|[sorcerer-03-y2vUZSYIYBp86UJc.htm](classfeatures/sorcerer-03-y2vUZSYIYBp86UJc.htm)|Signature Spells (Sorcerer)|
-|[sorcerer-05-OSq5qxRiKvrYtAlC.htm](classfeatures/sorcerer-05-OSq5qxRiKvrYtAlC.htm)|Magical Fortitude (Sorcerer)|
 |[sorcerer-07-I2qauyUmyTH3coAU.htm](classfeatures/sorcerer-07-I2qauyUmyTH3coAU.htm)|Expert Spellcaster (Sorcerer)|
 |[sorcerer-09-QqcRWjr0Xc5xWVMR.htm](classfeatures/sorcerer-09-QqcRWjr0Xc5xWVMR.htm)|Lightning Reflexes (Sorcerer)|
 |[sorcerer-11-4uvohEHSm17wY7gc.htm](classfeatures/sorcerer-11-4uvohEHSm17wY7gc.htm)|Simple Weapon Expertise|
@@ -189,15 +162,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-17-eC8PhLpgho84tGcD.htm](classfeatures/sorcerer-17-eC8PhLpgho84tGcD.htm)|Resolve (Sorcerer)|
 |[sorcerer-19-EgJFG9DNs9jNuDL9.htm](classfeatures/sorcerer-19-EgJFG9DNs9jNuDL9.htm)|Legendary Spellcaster (Sorcerer)|
 |[sorcerer-19-feCnVrPPlKhl701x.htm](classfeatures/sorcerer-19-feCnVrPPlKhl701x.htm)|Bloodline Paragon|
-|[wizard-01-89zWKD2CN7nRu2xp.htm](classfeatures/wizard-01-89zWKD2CN7nRu2xp.htm)|Metamagical Experimentation|
-|[wizard-01-au0lwQ1nAcNQwcGh.htm](classfeatures/wizard-01-au0lwQ1nAcNQwcGh.htm)|Arcane Bond|
 |[wizard-01-gCwcys8CnS102tji.htm](classfeatures/wizard-01-gCwcys8CnS102tji.htm)|Abjuration|
 |[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Evocation|
 |[wizard-01-K6hG7nH8yjmbA0Q9.htm](classfeatures/wizard-01-K6hG7nH8yjmbA0Q9.htm)|Illusion|
 |[wizard-01-M89l9FOnjHe63wD7.htm](classfeatures/wizard-01-M89l9FOnjHe63wD7.htm)|Arcane Thesis|
 |[wizard-01-OAcxS625AXSGrQIC.htm](classfeatures/wizard-01-OAcxS625AXSGrQIC.htm)|Spell Blending|
 |[wizard-01-qczCKdg47eAmCOUD.htm](classfeatures/wizard-01-qczCKdg47eAmCOUD.htm)|Universalist|
-|[wizard-01-QzWXMCSGNfvvpYgF.htm](classfeatures/wizard-01-QzWXMCSGNfvvpYgF.htm)|Spell Substitution|
 |[wizard-01-rHxkPijLnQ9O9AGV.htm](classfeatures/wizard-01-rHxkPijLnQ9O9AGV.htm)|Transmutation|
 |[wizard-01-SNeVaUBTHwvoO6kr.htm](classfeatures/wizard-01-SNeVaUBTHwvoO6kr.htm)|Conjuration|
 |[wizard-01-SNZ46g3u7U6x0XJj.htm](classfeatures/wizard-01-SNZ46g3u7U6x0XJj.htm)|Improved Familiar Attunement|
@@ -220,11 +190,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|officielle|
-|[alchemist-01-eNZnx4LISDNftbx2.htm](classfeatures/alchemist-01-eNZnx4LISDNftbx2.htm)|Chirugeon|Chirurgien|officielle|
+|[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|changé|
+|[alchemist-01-eNZnx4LISDNftbx2.htm](classfeatures/alchemist-01-eNZnx4LISDNftbx2.htm)|Chirugeon|Chirurgien|changé|
 |[alchemist-01-Pe0zmIqyTBc2Td0I.htm](classfeatures/alchemist-01-Pe0zmIqyTBc2Td0I.htm)|Advanced Alchemy|Alchimie avancée|officielle|
-|[alchemist-01-sPtl05wwTpqFI0lL.htm](classfeatures/alchemist-01-sPtl05wwTpqFI0lL.htm)|Quick Alchemy|Alchimie rapide|officielle|
-|[alchemist-01-tvdb1jkjl2bRZjSp.htm](classfeatures/alchemist-01-tvdb1jkjl2bRZjSp.htm)|Mutagenist|Mutagèniste|officielle|
+|[alchemist-01-sPtl05wwTpqFI0lL.htm](classfeatures/alchemist-01-sPtl05wwTpqFI0lL.htm)|Quick Alchemy|Alchimie rapide|changé|
+|[alchemist-01-tvdb1jkjl2bRZjSp.htm](classfeatures/alchemist-01-tvdb1jkjl2bRZjSp.htm)|Mutagenist|Mutagèniste|changé|
 |[alchemist-01-wySB9VHOW1v3TX1L.htm](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Infused Reagents|Réactifs imprégnés|officielle|
 |[barbarian-01-0FtzFbUrN56KA67z.htm](classfeatures/barbarian-01-0FtzFbUrN56KA67z.htm)|Animal Instinct|Instinct animal|officielle|
 |[barbarian-01-JuKD6k7nDwfO0Ckv.htm](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Giant Instinct|Instinct de géant|officielle|
@@ -232,42 +202,73 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-01-TQqv9Q5mB4PW6LH9.htm](classfeatures/barbarian-01-TQqv9Q5mB4PW6LH9.htm)|Spirit Instinct|Instinct spirituel|officielle|
 |[barbarian-01-VDot7CDcXElxmkkz.htm](classfeatures/barbarian-01-VDot7CDcXElxmkkz.htm)|Dragon Instinct|Instinct du dragon|officielle|
 |[barbarian-01-WZUCvxqbigXos1L9.htm](classfeatures/barbarian-01-WZUCvxqbigXos1L9.htm)|Rage|Rage|officielle|
-|[bard-00-YMBsi4bndRAk5CX4.htm](classfeatures/bard-00-YMBsi4bndRAk5CX4.htm)|Maestro|Virtuose|officielle|
-|[bard-01-4ripp6EfdVpS0d60.htm](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Enigma|Énigmatique|officielle|
-|[bard-01-y0jGimYdMGDJWrEq.htm](classfeatures/bard-01-y0jGimYdMGDJWrEq.htm)|Polymath|Touche-à-tout|officielle|
+|[barbarian-03-ZW09VPBA4GhuYBbg.htm](classfeatures/barbarian-03-ZW09VPBA4GhuYBbg.htm)|Deny Advantage (Barbarian)|Refus d’avantage (Barbare)|officielle|
+|[barbarian-05-EEUTd0jAyfwTLzjk.htm](classfeatures/barbarian-05-EEUTd0jAyfwTLzjk.htm)|Brutality|Brutalité|officielle|
+|[bard-00-YMBsi4bndRAk5CX4.htm](classfeatures/bard-00-YMBsi4bndRAk5CX4.htm)|Maestro|Virtuose|changé|
+|[bard-01-4ripp6EfdVpS0d60.htm](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Enigma|Énigmatique|changé|
+|[bard-01-fEOj0eOBe34qYdAa.htm](classfeatures/bard-01-fEOj0eOBe34qYdAa.htm)|Occult Spellcasting|Incantation occulte|officielle|
+|[bard-01-y0jGimYdMGDJWrEq.htm](classfeatures/bard-01-y0jGimYdMGDJWrEq.htm)|Polymath|Touche-à-tout|changé|
+|[bard-03-nw4gH2jMQN6DRv8z.htm](classfeatures/bard-03-nw4gH2jMQN6DRv8z.htm)|Signature Spells (Bard)|Sorts emblématiques (Barde)|officielle|
+|[bard-03-q00P563wwFZVYhyo.htm](classfeatures/bard-03-q00P563wwFZVYhyo.htm)|Lightning Reflexes (Bard)|Réflexes éclair (Barde)|officielle|
+|[champion-00-fykh5pE99O3I2sOI.htm](classfeatures/champion-00-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|officielle|
 |[champion-01-ehL7mnkqxN5wIkgu.htm](classfeatures/champion-01-ehL7mnkqxN5wIkgu.htm)|Deity and Cause|Divinité et cause|officielle|
-|[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator [Chaotic Good]|Libérateur (Chaotique Bon)|officielle|
+|[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator [Chaotic Good]|Libérateur (Chaotique Bon)|changé|
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|officielle|
-|[champion-01-fVVRFfc8QwTTPhKf.htm](classfeatures/champion-01-fVVRFfc8QwTTPhKf.htm)|Shield Block (Champion)|Blocage au bouclier (Champion)|officielle|
+|[champion-01-fVVRFfc8QwTTPhKf.htm](classfeatures/champion-01-fVVRFfc8QwTTPhKf.htm)|Shield Block (Champion)|Blocage au bouclier (Champion)|changé|
 |[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du bien|officielle|
-|[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin [Lawful Good]|Paladin (Loyal Bon)|officielle|
+|[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin [Lawful Good]|Paladin (Loyal Bon)|changé|
 |[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|officielle|
-|[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer [Neutral Good]|Rédempteur (Neutre Bon)|officielle|
+|[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer [Neutral Good]|Rédempteur (Neutre Bon)|changé|
+|[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|Allié divin|changé|
+|[champion-05-fC8FbGmkTwKMU8FF.htm](classfeatures/champion-05-fC8FbGmkTwKMU8FF.htm)|Weapon Expertise|Expertise avec les armes|officielle|
+|[champion-07-D5AABucMrk5IGOKV.htm](classfeatures/champion-07-D5AABucMrk5IGOKV.htm)|Weapon Specialization (Champion)|Spécialisation martiale (Champion)|officielle|
+|[champion-07-g0nfwT61wE4vOaOn.htm](classfeatures/champion-07-g0nfwT61wE4vOaOn.htm)|Armor Expertise (Champion)|Expertise avec les armures|officielle|
 |[cleric-00-UV1HlClbWCNcaKBZ.htm](classfeatures/cleric-00-UV1HlClbWCNcaKBZ.htm)|Anathema (Cleric)|Anathème (Prêtre)|officielle|
-|[cleric-01-0Aocw3igLwna9cjp.htm](classfeatures/cleric-01-0Aocw3igLwna9cjp.htm)|Warpriest|Prêtre comba ttant|officielle|
+|[cleric-01-0Aocw3igLwna9cjp.htm](classfeatures/cleric-01-0Aocw3igLwna9cjp.htm)|Warpriest|Prêtre comba ttant|changé|
 |[cleric-01-AvNbdGSOTWNRgcxs.htm](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Divine Spellcasting|Incantation divine|officielle|
-|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|officielle|
-|[cleric-01-ZZzLMOUAtBVgV1DF.htm](classfeatures/cleric-01-ZZzLMOUAtBVgV1DF.htm)|Cloistered Cleric|Prêtre cloîtré|officielle|
+|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|changé|
+|[cleric-01-ZZzLMOUAtBVgV1DF.htm](classfeatures/cleric-01-ZZzLMOUAtBVgV1DF.htm)|Cloistered Cleric|Prêtre cloîtré|changé|
+|[cleric-05-EiD3tYJQAO4OhWc6.htm](classfeatures/cleric-05-EiD3tYJQAO4OhWc6.htm)|Alertness (Cleric)|Vigilance (Prêtre)|officielle|
 |[druid-00-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-00-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|officielle|
-|[druid-01-acqqlYmti8D9QJi0.htm](classfeatures/druid-01-acqqlYmti8D9QJi0.htm)|Storm|Tempête|officielle|
+|[druid-01-acqqlYmti8D9QJi0.htm](classfeatures/druid-01-acqqlYmti8D9QJi0.htm)|Storm|Tempête|changé|
 |[druid-01-b8pnRxGuNzG0buuh.htm](classfeatures/druid-01-b8pnRxGuNzG0buuh.htm)|Primal Spellcasting|Incantation primordiale|officielle|
-|[druid-01-copeE8gaSFVSXRbk.htm](classfeatures/druid-01-copeE8gaSFVSXRbk.htm)|Shield Block (Druid)|Blocage au bouclier (Druide)|officielle|
+|[druid-01-copeE8gaSFVSXRbk.htm](classfeatures/druid-01-copeE8gaSFVSXRbk.htm)|Shield Block (Druid)|Blocage au bouclier (Druide)|changé|
 |[druid-01-d5BFFHXFJYKs5LXr.htm](classfeatures/druid-01-d5BFFHXFJYKs5LXr.htm)|Wild Empathy|Empathie sauvage|officielle|
-|[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal|Animal|officielle|
+|[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal|Animal|changé|
 |[druid-01-RiAGlnnp4S21BAG3.htm](classfeatures/druid-01-RiAGlnnp4S21BAG3.htm)|Druidic Language|Le druidique|officielle|
-|[druid-01-u4nlOzPj2WHkIj9l.htm](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Leaf|Feuille|officielle|
-|[druid-01-v0EjtiwdeMj8ykI0.htm](classfeatures/druid-01-v0EjtiwdeMj8ykI0.htm)|Wild|Féroce|officielle|
-|[fighter-01-hmShTfPOcTaKgbf4.htm](classfeatures/fighter-01-hmShTfPOcTaKgbf4.htm)|Attack of Opportunity|Attaque d’opportunité|officielle|
-|[fighter-01-OPlu94V5ibX5pr9u.htm](classfeatures/fighter-01-OPlu94V5ibX5pr9u.htm)|Shield Block (Fighter)|Blocage au bouclier (Guerrier)|officielle|
+|[druid-01-u4nlOzPj2WHkIj9l.htm](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Leaf|Feuille|changé|
+|[druid-01-v0EjtiwdeMj8ykI0.htm](classfeatures/druid-01-v0EjtiwdeMj8ykI0.htm)|Wild|Féroce|changé|
+|[druid-03-C62VDef26Wi2s4Qm.htm](classfeatures/druid-03-C62VDef26Wi2s4Qm.htm)|Alertness (Druid)|Vigilance (Druide)|officielle|
+|[druid-03-IsicKhmKtNyrkI97.htm](classfeatures/druid-03-IsicKhmKtNyrkI97.htm)|Great Fortitude (Druid)|Vigueur surhumaine (Druide)|officielle|
+|[druid-03-nzgb43mQmLgaqDoQ.htm](classfeatures/druid-03-nzgb43mQmLgaqDoQ.htm)|Primal Hierophant|Hiérophante primordial|changé|
+|[fighter-01-hmShTfPOcTaKgbf4.htm](classfeatures/fighter-01-hmShTfPOcTaKgbf4.htm)|Attack of Opportunity|Attaque d’opportunité|changé|
+|[fighter-01-OPlu94V5ibX5pr9u.htm](classfeatures/fighter-01-OPlu94V5ibX5pr9u.htm)|Shield Block (Fighter)|Blocage au bouclier (Guerrier)|changé|
+|[fighter-03-GJKJafDGuX4BeAeN.htm](classfeatures/fighter-03-GJKJafDGuX4BeAeN.htm)|Bravery|Bravoure|officielle|
 |[monk-01-NLHHHiAcdnZ5ohc2.htm](classfeatures/monk-01-NLHHHiAcdnZ5ohc2.htm)|Flurry of Blows|Déluge de coups|officielle|
 |[monk-01-SB8UJ8rZmvbcBweJ.htm](classfeatures/monk-01-SB8UJ8rZmvbcBweJ.htm)|Powerful Fist|Poings puissants|officielle|
+|[monk-03-Cq6NjvcKZOMySBVj.htm](classfeatures/monk-03-Cq6NjvcKZOMySBVj.htm)|Incredible Movement|Déplacement extraordinaire|officielle|
+|[monk-03-D2AE8RfMlZ3D1FuV.htm](classfeatures/monk-03-D2AE8RfMlZ3D1FuV.htm)|Mystic Strikes|Frappes mystiques|changé|
+|[monk-05-7NCp6uuevOsaYRQB.htm](classfeatures/monk-05-7NCp6uuevOsaYRQB.htm)|Alertness (Monk)|Vigilance (Moine)|officielle|
+|[monk-05-VgZIutWjFl8oZQFi.htm](classfeatures/monk-05-VgZIutWjFl8oZQFi.htm)|Expert Strikes|Frappes expertes|officielle|
 |[ranger-01-0nIOGpHQNHsKSFKT.htm](classfeatures/ranger-01-0nIOGpHQNHsKSFKT.htm)|Hunt Prey|Chasser une proie|officielle|
 |[ranger-01-6v4Rj7wWfOH1882r.htm](classfeatures/ranger-01-6v4Rj7wWfOH1882r.htm)|Flurry|Déluge|officielle|
 |[ranger-01-NBHyoTrI8q62uDsU.htm](classfeatures/ranger-01-NBHyoTrI8q62uDsU.htm)|Outwit|Ruse|officielle|
 |[ranger-01-u6cBjqz2fiRBadBt.htm](classfeatures/ranger-01-u6cBjqz2fiRBadBt.htm)|Precision|Précision|officielle|
-|[rogue-01-3KPZ7svIO6kmmEKH.htm](classfeatures/rogue-01-3KPZ7svIO6kmmEKH.htm)|Ruffian Racket|Voyou|officielle|
-|[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|officielle|
+|[ranger-03-hUl69qjTUBe0uGMA.htm](classfeatures/ranger-03-hUl69qjTUBe0uGMA.htm)|Iron Will (Ranger)|Volonté de fer (Rôdeur)|officielle|
+|[ranger-05-PeZi7E9lI4vz8EGY.htm](classfeatures/ranger-05-PeZi7E9lI4vz8EGY.htm)|Trackless Step|Absence de traces|officielle|
+|[ranger-05-QhoW8ivPvYmWzyEZ.htm](classfeatures/ranger-05-QhoW8ivPvYmWzyEZ.htm)|Ranger Weapon Expertise|Expertise avec les armes du rôdeur|officielle|
+|[ranger-07-Y7aYlSls1RWOre1c.htm](classfeatures/ranger-07-Y7aYlSls1RWOre1c.htm)|Vigilant Senses (Ranger)|Sens alertes (Rôdeur)|officielle|
+|[rogue-01-3KPZ7svIO6kmmEKH.htm](classfeatures/rogue-01-3KPZ7svIO6kmmEKH.htm)|Ruffian Racket|Voyou|changé|
+|[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|changé|
 |[rogue-01-uGuCGQvUmioFV2Bd.htm](classfeatures/rogue-01-uGuCGQvUmioFV2Bd.htm)|Rogue's Racket|Trafic de roublard|officielle|
 |[rogue-01-w6rMqmGzhUahdnA7.htm](classfeatures/rogue-01-w6rMqmGzhUahdnA7.htm)|Surprise Attack|Attaque surprise|officielle|
 |[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Voleur|officielle|
-|[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Scélérat|officielle|
+|[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Scélérat|changé|
+|[rogue-03-5AB9zIVADQvDG76w.htm](classfeatures/rogue-03-5AB9zIVADQvDG76w.htm)|Deny Advantage (Rogue)|Refus d'avantage (Roublard)|officielle|
+|[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|officielle|
+|[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|Lignage : Aberrant|changé|
+|[sorcerer-03-y2vUZSYIYBp86UJc.htm](classfeatures/sorcerer-03-y2vUZSYIYBp86UJc.htm)|Signature Spells (Sorcerer)|Sorts emblématiques (Ensorceleur)|officielle|
+|[sorcerer-05-OSq5qxRiKvrYtAlC.htm](classfeatures/sorcerer-05-OSq5qxRiKvrYtAlC.htm)|Magical Fortitude (Sorcerer)|Vigueur magique|officielle|
+|[wizard-01-89zWKD2CN7nRu2xp.htm](classfeatures/wizard-01-89zWKD2CN7nRu2xp.htm)|Metamagical Experimentation|Expérimentation métamagique|officielle|
+|[wizard-01-au0lwQ1nAcNQwcGh.htm](classfeatures/wizard-01-au0lwQ1nAcNQwcGh.htm)|Arcane Bond|Lien arcanique|changé|
+|[wizard-01-QzWXMCSGNfvvpYgF.htm](classfeatures/wizard-01-QzWXMCSGNfvvpYgF.htm)|Spell Substitution|Substitution de sort|officielle|

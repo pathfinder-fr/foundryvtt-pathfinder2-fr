@@ -1,10 +1,11 @@
 # État de la traduction (ancestryfeatures)
 
  * **aucune**: 34
- * **officielle**: 29
+ * **officielle**: 23
+ * **changé**: 6
 
 
-Dernière mise à jour: 2020-06-05 16:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-07 17:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -55,15 +56,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-a6F2WjYU8D0suT8T.htm](ancestryfeatures/feat-01-a6F2WjYU8D0suT8T.htm)|Razortooth Goblin|Gobelin Dent’rasoir|officielle|
 |[feat-01-cCy8vsZENlwiAyZ6.htm](ancestryfeatures/feat-01-cCy8vsZENlwiAyZ6.htm)|Twilight Halfling|Halfelin du crépuscule|officielle|
 |[feat-01-d0bNxgGqvaCkFlhN.htm](ancestryfeatures/feat-01-d0bNxgGqvaCkFlhN.htm)|Umbral Gnome|Gnome ombral|officielle|
-|[feat-01-D3hTAqgwSank8OyO.htm](ancestryfeatures/feat-01-D3hTAqgwSank8OyO.htm)|Fey-Touched Gnome|Gnome béni des fées|officielle|
+|[feat-01-D3hTAqgwSank8OyO.htm](ancestryfeatures/feat-01-D3hTAqgwSank8OyO.htm)|Fey-Touched Gnome|Gnome béni des fées|changé|
 |[feat-01-DGgelJTB3Bf2XUBE.htm](ancestryfeatures/feat-01-DGgelJTB3Bf2XUBE.htm)|Charhide Goblin|Gobelin peaud'charbon|officielle|
 |[feat-01-EKzA58KrNjxCK90Y.htm](ancestryfeatures/feat-01-EKzA58KrNjxCK90Y.htm)|Forge Dwarf|Nain des forges|officielle|
-|[feat-01-etkuQkjkNLPLnjkA.htm](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Wellspring Gnome|Gnome des sources|officielle|
+|[feat-01-etkuQkjkNLPLnjkA.htm](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Wellspring Gnome|Gnome des sources|changé|
 |[feat-01-gQyPU441J3rGt8mD.htm](ancestryfeatures/feat-01-gQyPU441J3rGt8mD.htm)|Snow Goblin|Gobelin des Neiges|officielle|
 |[feat-01-hFBwsVcSnNCJoimo.htm](ancestryfeatures/feat-01-hFBwsVcSnNCJoimo.htm)|Versatile Heritage|Héritage polyvalent|officielle|
-|[feat-01-idGDjqi1q3Ft8bAZ.htm](ancestryfeatures/feat-01-idGDjqi1q3Ft8bAZ.htm)|Nomadic Halfling|Halfelin nomade|officielle|
-|[feat-01-jEtVesbqYcWGbBYk.htm](ancestryfeatures/feat-01-jEtVesbqYcWGbBYk.htm)|Seer Elf|Elfe visionnaire|officielle|
-|[feat-01-jxLtAatRHwcZu4CW.htm](ancestryfeatures/feat-01-jxLtAatRHwcZu4CW.htm)|Ancient-Blooded Dwarf|Nain sang-ancien|officielle|
+|[feat-01-idGDjqi1q3Ft8bAZ.htm](ancestryfeatures/feat-01-idGDjqi1q3Ft8bAZ.htm)|Nomadic Halfling|Halfelin nomade|changé|
+|[feat-01-jEtVesbqYcWGbBYk.htm](ancestryfeatures/feat-01-jEtVesbqYcWGbBYk.htm)|Seer Elf|Elfe visionnaire|changé|
+|[feat-01-jxLtAatRHwcZu4CW.htm](ancestryfeatures/feat-01-jxLtAatRHwcZu4CW.htm)|Ancient-Blooded Dwarf|Nain sang-ancien|changé|
 |[feat-01-lEe9ROVlcJvwL20N.htm](ancestryfeatures/feat-01-lEe9ROVlcJvwL20N.htm)|Chameleon Gnome|Gnome Caméléon|officielle|
 |[feat-01-M33lzoIPk9pqn1aY.htm](ancestryfeatures/feat-01-M33lzoIPk9pqn1aY.htm)|Gutsy Halfling|Halfelin flegmatique|officielle|
 |[feat-01-NfIAGatB1KIzt8G7.htm](ancestryfeatures/feat-01-NfIAGatB1KIzt8G7.htm)|Cavern Elf|Elfe des cavernes|officielle|
@@ -71,7 +72,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-OZo091j5yMY7qqFl.htm](ancestryfeatures/feat-01-OZo091j5yMY7qqFl.htm)|Death Warden Dwarf|Nain gardemort|officielle|
 |[feat-01-QxMpP6hGTnaa0MiE.htm](ancestryfeatures/feat-01-QxMpP6hGTnaa0MiE.htm)|Half-Orc|Demi-orc|officielle|
 |[feat-01-r1QnFtxF1UNwB1Ti.htm](ancestryfeatures/feat-01-r1QnFtxF1UNwB1Ti.htm)|Hillock Halfling|Halfelin des collines|officielle|
-|[feat-01-tXC5Gwn9D5x0ouJh.htm](ancestryfeatures/feat-01-tXC5Gwn9D5x0ouJh.htm)|Sensate Gnome|Gnome sensitif|officielle|
+|[feat-01-tXC5Gwn9D5x0ouJh.htm](ancestryfeatures/feat-01-tXC5Gwn9D5x0ouJh.htm)|Sensate Gnome|Gnome sensitif|changé|
 |[feat-01-ULj56ZoW7dWdnBvu.htm](ancestryfeatures/feat-01-ULj56ZoW7dWdnBvu.htm)|Unbreakable Goblin|Gobelin Incassable|officielle|
 |[feat-01-UV2sABrTC5teOXTE.htm](ancestryfeatures/feat-01-UV2sABrTC5teOXTE.htm)|Strong-Blooded Dwarf|Nain sang-fort|officielle|
 |[feat-01-VNUyMc0JYAsjqm55.htm](ancestryfeatures/feat-01-VNUyMc0JYAsjqm55.htm)|Irongut Goblin|Gobelin Boyaud’fer|officielle|

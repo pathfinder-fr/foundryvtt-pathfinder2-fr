@@ -4,12 +4,17 @@
         {
             "id": "Bomber",
             "name": "Artificier",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous spécialisez dans les explosions et les réactions alchimiques violentes. Vous commencez avec les formules de deux bombes alchimiques de niveau 1 dans votre formulaire, en plus de vos autres formules.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous lancez une bombe alchimique dotée du trait éclaboussure, vous pouvez choisir d’infliger des dégâts d’éclaboussure seulement à votre cible principale plutôt que sur la zone d’éclaboussure normale.</span></p>\n<h2 class=\"title\">Découverte de domaine de recherche<span style=\"float: right;\">Niveau 5</span></h2>\n<p>Quand vous utilisez alchimie avancée pour faire des bombes lors de vos préparatifs quotidiens, vous pouvez utiliser un lot de réactifs pour créer trois bombes de n’importe quel type au lieu de deux bombes d’un seul type.</p>\n<h2 class=\"title\">Infusions perpétuelles<span style=\"float: right;\">Niveau 7</span></h2>\n<p>Choisissez deux formules parmi les suivantes : fiole d’acide inférieure, feu grégeois inférieur, foudre en bouteille inférieure, sacoche immobilisante inférieure, pierre à tonnerre inférieure.</p>\n<h2 class=\"title\">Efficacité perpétuelle<span style=\"float: right;\">Niveau 11</span></h2>\n<p>La version moyenne des bombes que vous avez choisies pour vos infusions perpétuelles.</p>\n<h2 class=\"title\">Découverte de domaine de recherche supérieure<span style=\"float: right;\">Niveau 13</span></h2>\n<p>Vous pouvez agrandir la zone d’éclaboussure de vos bombes afin de blesser des créatures dans un rayon de 3 m, ou de 4,50 m si vous possédez le don Éclaboussure élargie.</p>\n<h2 class=\"title\">Perfection perpétuelle<span style=\"float: right;\">Niveau 17</span></h2>\n<p>La version supérieure des bombes que vous avez choisies pour vos infusions perpétuelles.</p>\n\n"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous spécialisez dans les explosions et les réactions alchimiques violentes. Vous commencez avec les formules de deux bombes alchimiques de niveau 1 dans votre formulaire, en plus de vos autres formules.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous lancez une bombe alchimique dotée du trait éclaboussure, vous pouvez choisir d’infliger des dégâts d’éclaboussure seulement à votre cible principale plutôt que sur la zone d’éclaboussure normale.</span></p>\n<h2 class=\"title\">Découverte de domaine de recherche<span style=\"float: right;\">Niveau 5</span></h2>\n<p>Quand vous utilisez alchimie avancée pour faire des bombes lors de vos préparatifs quotidiens, vous pouvez utiliser un lot de réactifs pour créer trois bombes de n’importe quel type au lieu de deux bombes d’un seul type.</p>\n<h2 class=\"title\">Infusions perpétuelles<span style=\"float: right;\">Niveau 7</span></h2>\n<p>Choisissez deux formules parmi les suivantes : fiole d’acide inférieure, feu grégeois inférieur, foudre en bouteille inférieure, sacoche immobilisante inférieure, pierre à tonnerre inférieure.</p>\n<h2 class=\"title\">Efficacité perpétuelle<span style=\"float: right;\">Niveau 11</span></h2>\n<p>La version moyenne des bombes que vous avez choisies pour vos infusions perpétuelles.</p>\n<h2 class=\"title\">Découverte de domaine de recherche supérieure<span style=\"float: right;\">Niveau 13</span></h2>\n<p>Vous pouvez agrandir la zone d’éclaboussure de vos bombes afin de blesser des créatures dans un rayon de 3 m, ou de 4,50 m si vous possédez le don Éclaboussure élargie.</p>\n<h2 class=\"title\">Perfection perpétuelle<span style=\"float: right;\">Niveau 17</span></h2>\n<p>La version supérieure des bombes que vous avez choisies pour vos infusions perpétuelles.</p>\n"
         },
         {
             "id": "Powerful Fist",
             "name": "Poings puissants",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous savez comment faire de vos poings des armes mortelles. Le dé de dégâts de vos poings est 1d6 au lieu de 1d4. La plupart des créatures appliquent un malus de circonstances de −2 lorsqu’elles effectuent une attaque létale avec des attaques à mains nues non létales car il est toujours plus compliqué d’utiliser ses poings avec suffisamment de force pour infliger de véritables blessures. Vous n’appliquez pas ce malus quand vous effectuez une attaque létale avec vos poings ou d’autres parties de votre corps.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Vigilant Senses (Ranger)",
+            "name": "Sens alertes (Rôdeur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Au cours de vos aventures, vous avez développé une conscience aiguë de votre environnement et portez une grande attention aux détails. Votre rang de maîtrise en Perception passe à maître.</span></p>"
         },
         {
             "id": "Paladin [Lawful Good]",
@@ -22,9 +27,39 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous n’êtes que bonté et pardon. Vous obtenez la reaction de champion Lueur de rédemption et le sort de dévotion imposition des mains. Ajoutez ces principes après ceux du bien :</span></p>\n<ul>\n<li>Vous devez toujours d’abord proposer à ceux qui commettent des actes malveillants de se racheter au lieu de les tuer ou de les châtier. Mais s’ils persistent à se montrer malveillants, vous devrez certainement prendre des mesures plus radicales.</li>\n<li>Vous devez faire preuve de compassion envers autrui, quel que soit leur rôle ou leur autorité.</li>\n</ul>\n<h2 class=\"title\">Réaction de champion</h2>\n<h3 class=\"title\">@Item[Lueur de rédemption] <img style=\"height: 15px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"></h3>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong> Déclencheur. </strong> Un ennemi inflige des dégâts à votre allié et les deux sont à 4,50 m ou moins de vous.</span></p>\n<hr>\n<p> L’ennemi vacille sous le poids de ses péchés alors que des visions de rédemption défilent dans sa tête. Il doit choisir l’une des options suivantes :&nbsp;</p>\n<ul>\n<li> Les dégâts déclencheurs ne blessent par votre allié.</li>\n<li> L’allié gagne une résistance à tous les dégâts contre les dégâts déclencheurs égale à 2 + votre niveau. Après application de l’effet infligeant des dégâts, l’ennemi devient affaibli 2 jusqu’à la fin de son prochain tour. </li>\n</ul>\n<h2 class=\"title\"> Châtiment divin <span style=\"float: right;\">Niveau 9</span></h2>\n<p> la culpabilité ronge la conscience des ennemis qui ignorent votre Lueur de rédemption. Un adversaire qui réagit à votre Lueur de rédemption en infligeant des dégâts subit un montant de dégâts bons persistants égal à votre modificateur de Charisme.</p>\n<h2 class=\"title\"> Exaltation <span style=\"float: right;\">Niveau 11</span></h2>\n<p> vous protégez plusieurs alliés. Vous appliquez la résistance conférée par la Lueur de rédemption à vous-même et à tous les alliés à 4,50 m ou moins de vous, y compris l’allié déclencheur, mais la résistance est réduite de 2 pour tous les bénéficiaires. </p>\n"
         },
         {
+            "id": "Trackless Step",
+            "name": "Absence de traces",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Il est compliqué de vous pister lorsque vous traversez des terrains naturels. Vous bénéficiez en permanence des avantages de l’action Dissimuler des traces sur de tels terrains, et ce, sans devoir vous déplacer à la moitié de votre Vitesse.&nbsp;</span></p>"
+        },
+        {
+            "id": "Champion Code",
+            "name": "Code du champion",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous adhérez à un code de conduite dont les premiers principes sont appliqués par tous les champions d’un même alignement (ceux d’alignement bon, par exemple) et dont les suivants concernent votre cause. Les divinités imposent parfois des restrictions supplémentaires (par exemple, les champions de Torag ne doivent montrer aucune pitié envers les ennemis de leur peuple et la plupart ne peuvent donc pas embrasser la cause du rédempteur). Ce livre décrit uniquement les règles pour les champions d’alignement bon. Les principes apparaissent par ordre d’importance, en commençant par les plus importants. Votre situation n’est pas insoluble si elle met deux principes en conflit ; en effet, dans ce cas, suivez simplement le principe le plus important. Par exemple, en tant que paladin, si un roi malfaisant vous demande où vous cachez des réfugiés pour qu’il puisse les exécuter, vous pourriez lui mentir car le principe qui vous interdit de mentir est moins important que celui qui vous interdit de nuire à des innocents. Les tentatives de contournement des principes du code en créant une situation où l’application d’un principe supérieur permet d’ignorer un principe moins important (promettre, par exemple, de ne pas respecter les autorités et leur manquer ensuite de respect pour tenir votre promesse) est une violation du code du champion.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous vous écartez des principes de votre alignement ou si vous violez votre code de conduite, vous perdez votre réserve de focalisation et votre allié divin jusqu’à ce que vous montriez sincèrement votre désir de repentance en accomplissant le rituel pénitence (page 414). Vous conservez cependant tous les autres pouvoirs de champion qui ne requièrent aucune de ces deux capacités de classe. Si votre alignement change mais que votre divinité l’autorise, votre MJ peut vous laisser suivre un réapprentissage pour changer votre cause tout en continuant à servir la même divinité.</span></p>"
+        },
+        {
+            "id": "Deny Advantage (Rogue)",
+            "name": "Refus d'avantage (Roublard)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Dans la mesure où vous profitez des faiblesses de la défense des autres, vous faites attention à ne pas leur laisser les mêmes opportunités. Vous n’êtes pas pris au dépourvu par les créatures qui sont cachées, non détectées ou qui vous prennent en tenaille si elles sont d’un niveau inférieur ou égal au vôtre, ni par les attaques surprises des créatures d’un niveau inférieur ou égal au vôtre. Cependant, ces créatures peuvent toujours aider leurs alliés à vous prendre en tenaille.&nbsp;</span></p>"
+        },
+        {
+            "id": "Ranger Weapon Expertise",
+            "name": "Expertise avec les armes du rôdeur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous consacrez à l’apprentissage approfondi du maniement de vos armes. Votre rang de maîtrise avec les armes simples, les attaques à mains nues et les armes de guerre passe à expert. Vous pouvez appliquer les effets critiques spécialisés de toutes les armes simples et de guerre ainsi qu'aux attaques à mains nues quand vous attaquez votre proie.&nbsp;</span></p>"
+        },
+        {
+            "id": "Alertness (Monk)",
+            "name": "Vigilance (Moine)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous restez à l’affût des menaces alentour. Votre rang de maîtrise en Perception passe à expert.&nbsp;</span></p>"
+        },
+        {
             "id": "Giant Instinct",
             "name": "Instinct de géant",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre rage vous confère la puissance et la taille d’un géant. Cela ne signifie pas nécessairement que vous vénérez les géants. Vous pouvez même les mépriser ou aspirer à les tuer Les autres peuvent aussi vous considérer comme un géant, à cause de votre force exceptionnelle, de vos émotions débordantes ou de votre ego surdimensionné.</span></p>\n<h2 class=\"title\">Anathème</h2>\n<p>Ne pas surmonter un défi personnel qui met en jeu votre force est un anathème.</p>\n<h2 class=\"title\">Briseur de titans (pouvoir d’instinct)</h2>\n<p>Vous pouvez utiliser une arme destinée à une créature de Grande taille si vous êtes de taille Petite ou Moyenne (en temps normal et quand vous êtes enragé). Si vous n’êtes pas de taille Petite ou Moyenne, vous pouvez utiliser une arme estinée à une créature d’une catégorie de taille supérieure à la vôtre. Vous gagnez accès à cette arme de taille supérieure, de n’importe quel type auquel vous avez accès lors de la création de votre personnage. Son Prix et son Encombrement sont normaux pour une arme de sa taille (page 295). Quand vous maniez une telle arme au combat, vous faites passer vos dégâts supplémentaires de Rage de 2 à 6, mais la taille inadaptée de l’arme vous met dans l’état maladroit 1 (page 622). Tant que vous maniez l’arme, vous n’avez aucun moyen de passer outre l’état maladroit ou d’ignorer les malus qui lui sont associés.</p>\n<h2 class=\"title\">Pouvoir de spécialisation</h2>\n<p>Passez les dégâts supplémentaires de Rage de 6 à 10 quand vous utilisez une arme surdimensionnée. Si vous possédez la spécialisation martiale supérieure, passez ces dégâts de 10 à 18.</p>\n<h2 class=\"title\">Résistance enragée</h2>\n<p>Quand vous gagnez résistance enragée, vous devenez résistant aux dégâts contondants et à un type de dégâts de votre choix parmi les suivants : froid, électricité ou feu.&nbsp;</p>"
+        },
+        {
+            "id": "Occult Spellcasting",
+            "name": "Incantation occulte",
+            "description": "<p>Vous exploitez vos connaissances ésotériques pour faire de la magie. Vous lancez des sorts occultes avec l’activité Lancer un sort et fournissez les composants matériels, somatiques et verbaux nécessaires à leur incantation (voir Lancer des sorts p. 302). Puisque vous êtes un barde, vous jouez le plus souvent d’un instrument pour remplacer les composants somatiques ou matériels des sorts, tant qu’il vous faut utiliser au moins une main pour en jouer. Si vous utilisez un instrument de cette façon, vous n’avez pas besoin d’une bourse de composants ou d’une autre main de libre. Vous pouvez aussi, le plus souvent, jouer d’un instrument pour remplacer les composants verbaux des sorts, au lieu de les prononcer à voix haute.</p>\n<p>Vous pouvez lancer jusqu’à deux sorts de niveau 1 par jour. Vous devez connaître ces sorts pour les lancer et vous les apprenez grâce à la capacité de classe répertoire de sorts. Le nombre de sorts que vous pouvez préparer chaque jour est représenté par vos emplacements de sort.</p>\n<p>En gagnant des niveaux en tant que barde, le nombre de sorts, ainsi que le niveau de sorts le plus élevé, que vous pouvez lancer quotidiennement augmentent, comme indiqué dans le tableau 3–6 : Les sorts de barde par jour, p. 98.</p>\n<p>Certains sorts exigent un jet d’attaque de sort pour déterminer leur efficacité ou obligent vos ennemis à faire un jet contre leur DD (en général un jet de sauvegarde). Comme le Charisme est votre caractéristique essentielle, vos jets d’attaque de sort et vos DD utilisent votre modificateur de Charisme. Les détails permettant de calculer ces statistiques figurent p. 447..</p>\n"
         },
         {
             "id": "Deific Weapon",
@@ -47,9 +82,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos adversaires n’ont pas le temps de réagir que vous êtes déjà prêt à vous battre. Au premier round de combat, si vous lancez un dé de Duperie ou de Discrétion afin de déterminer votre rang d’initiative, les créatures qui n’ont pas encore agi sont prises au dépourvu face à vous.&nbsp;</span></p>"
         },
         {
+            "id": "Brutality",
+            "name": "Brutalité",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre furie rend vos armes redoutables. Votre rang de maîtrise avec les armes simples, les armes de guerre et les attaques à mains nues devient expert. Tant que vous êtes enragé, vous avez accès aux effets critiques spécialisés des armes de corps à corps et des attaques à mains nues.&nbsp;</span></p>"
+        },
+        {
             "id": "Attack of Opportunity",
             "name": "Attaque d’opportunité",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Toujours à l’affût de la moindre faiblesse, vous attaquez aussitôt qu’une faille s’ouvre dans la défense de vos ennemis. Vous obtenez la réaction Attaque d’opportunité @Item[Attaque d’opportunité].</span></p>\n"
+        },
+        {
+            "id": "Spell Substitution",
+            "name": "Substitution de sort",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous n’admettez pas qu’une fois vos sorts préparés, vous ne puissiez plus les changer jusqu’à vos prochains préparatifs quotidiens. Vous avez donc découvert un raccourci vous permettant d’échanger de nouveaux sorts contre ceux que vous aviez préparés. Vous pouvez passer 10 min à vider l’un de vos emplacements de sort préparé et préparer à la place un sort différent tiré de votre grimoire. Si vous êtes interrompu lors de l’échange, le sort original reste préparé et vous pouvez toujours le lancer. Vous pouvez retenter l’échange plus tard, mais vous devez reprendre le processus à zéro.&nbsp;</span></p>"
         },
         {
             "id": "Cloistered Cleric",
@@ -62,19 +107,39 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">vous vous montrez plus malin que votre proie et savez lui échapper. Vous bénéficiez d’un bonus de circonstances de +2 aux tests de Duperie, d’Intimidation, de Discrétion et à tous les tests pour Vous souvenir d’informations sur votre proie. Vous bénéficiez également d’un bonus de circonstances de +1 à la CA contre ses attaques.</span></p>\n<h2 class=\"title\">Maître chasseur<span style=\"float: right;\">Niveau 17</span></h2>\n<p>votre maîtrise des compétences vous permet de vaincre facilement votre proie. Si vous êtes un maître en Duperie, Intimidation, Discrétion ou dans la compétence que vous utilisez pour Vous souvenir d’informations sur votre proie, le bonus de circonstances lorsque vous utilisez ces compétences contre votre proie passe de +2 à +4. Si vous êtes un maître avec votre armure, le bonus de circonstances à la CA contre la proie passe de +1 à +2.&nbsp;</p>\n"
         },
         {
+            "id": "Metamagical Experimentation",
+            "name": "Expérimentation métamagique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez compris que la pratique de ce que l’on appelle la métamagie est un reliquat d’une époque lointaine, quand les magiciens devaient découvrir leurs propres sorts et leurs variations plutôt que de se baser sur des sorts écrits par autrui et transmis au fil des ans. Vous êtes donc plus efficace dans le maniement des effets de métamagie. Vous gagnez un don de magicien de métamagie de niveau 1 comme don bonus. À partir du niveau 4, lors de vos préparatifs quotidiens, vous pouvez obtenir un don de magicien de métamagie de votre choix, tant que le niveau figurant dans ses conditions est égal ou inférieur à la moitié du vôtre. Vous pouvez utiliser ce don jusqu’à vos prochains préparatifs quotidiens.&nbsp;</span></p>"
+        },
+        {
+            "id": "Signature Spells (Sorcerer)",
+            "name": "Sorts emblématiques (Ensorceleur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à lancer certains de vos sorts avec plus de flexibilité. Pour chaque niveau de sort auquel vous avez accès, choisissez un sort de ce niveau pour en faire un sort emblématique. Vous n’avez pas besoin d’apprendre une à une les versions intensifiées des sorts emblématiques ; en fait, vous pouvez intensifier sans contrainte ces sorts. Si vous connaissez un sort emblématique à un niveau supérieur à son niveau minimum, vous pouvez également lancer toutes ses versions de niveau inférieur sans avoir à les apprendre séparément. Si vous remplacez un sort emblématique, vous pouvez l’échanger contre un autre sort emblématique de même niveau que celui auquel vous avez appris celui que vous remplacez. Vous pouvez également suivre un réapprentissage juste pour changer un sort emblématique par un autre de même niveau sans passer par le remplacement ; ceci demande autant de temps que le réapprentissage normal d’un sort.&nbsp;</span></p>"
+        },
+        {
             "id": "Druidic Language",
             "name": "Le druidique",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous connaissez le druidique, une langue secrète uniquement connue des druides, en plus des éventuelles langues que vous connaissez grâce à votre ascendance. Le druidique possède son propre alphabet. L’enseignement de la langue druidique à des non-druides est anathème.&nbsp;</span></p>"
         },
         {
+            "id": "Magical Fortitude (Sorcerer)",
+            "name": "Vigueur magique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La puissance magique a amélioré la résilience de votre corps. Votre rang de maîtrise pour les jets de Vigueur passe à expert.&nbsp;</span></p>"
+        },
+        {
             "id": "Shield Block (Champion)",
             "name": "Blocage au bouclier (Champion)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous obtenez le don général Blocage au bouclier @Item[Blocage au bouclier] (page 260), une réaction qui vous permet de réduire les dégâts avec votre bouclier.</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous obtenez le don général Blocage au bouclier @Item[Blocage au bouclier] (page 260), une réaction qui vous permet de réduire les dégâts avec votre bouclier.</span></p>\n"
         },
         {
             "id": "Fury Instinct",
             "name": "Instinct de la furie",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre rage trouve sa source dans quelque chose de personnel et profondément enfoui en vous. Vous l’utilisez comme bon vous semble.</span></p>\n<h2 class=\"title\">Anathème et pouvoir d’instinct</h2>\n<p>Vous n’avez pas d’anathème ni de pouvoir d’instinct. Vous gagnez à la place un don de barbare de niveau 1 supplémentaire.</p>\n<h2 class=\"title\">Pouvoir de spécialisation</h2>\n<p>Passez les dégâts supplémentaires de Rage de 2 à 6. Si vous possédez la spécialisation martiale supérieure, vous passez à la place les dégâts supplémentaires de Rage à 12.</p>\n<h2 class=\"title\">Résistance enragée</h2>\n<p>Vous résistez aux dégâts physiques des armes, mais pas aux dégâts physiques des autres sources (comme ceux des attaques à mains nues).&nbsp;</p>"
+        },
+        {
+            "id": "Deny Advantage (Barbarian)",
+            "name": "Refus d’avantage (Barbare)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos adversaires ont du mal à percer vos défenses. Vous n’êtes pas pris au dépourvu par les créatures qui sont cachées, non détectées ou qui vous prennent en tenaille si elles sont d’un niveau inférieur ou égal au vôtre, ni par les attaques-surprises des créatures d’un niveau inférieur ou égal au vôtre. Cependant, ces créatures peuvent toujours aider leurs alliés à vous prendre en tenaille.&nbsp;</span></p>"
         },
         {
             "id": "Primal Spellcasting",
@@ -87,14 +152,39 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous entretenez une étroite relation avec les bêtes et vous vous êtes allié avec un compagnon animal. Vous êtes qualifié en Athlétisme. Vous avez également le don de druide Compagnon animal @Item[Compagnon animal]. Vous obtenez le sort d’ordre guérison des animaux @Item[guérison des animaux]. Tout acte de cruauté gratuit envers des animaux ou l’abattage abusif d’animaux sont considérés comme anathèmes (il ne vous est toutefois pas interdit de vous défendre contre des animaux ou de les tuer avec respect pour vous nourrir).&nbsp;</span></p>\n"
         },
         {
+            "id": "Mystic Strikes",
+            "name": "Frappes mystiques",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous focalisez avec détermination sur vos attaques physiques, ce qui les imprègne d’énergie mystique. Vos attaques à mains nues deviennent magiques, ce qui vous permet d’ignorer les résistances aux attaques non magiques.Toutefois, des objets, tels que les <a href=\"https://2e.aonprd.com/Equipment.aspx?ID=441\"><em>bandelettes de coups puissants</em></a>, seront toujours nécessaires si vous voulez bénéficier d’un bonus d’objet aux jets d’attaque ou augmenter les dés de dégâts d’arme de vos attaques.&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Incredible Movement",
+            "name": "Déplacement extraordinaire",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes aussi rapide que le vent. Vous gagnez un bonus de statut de +3 m à votre Vitesse lorsque vous ne portez pas d’armure. Le bonus augmente de 1,50 m tous les 4 niveaux au-delà du troisième.&nbsp;</span></p>"
+        },
+        {
+            "id": "Arcane Bond",
+            "name": "Lien arcanique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous placez une partie de votre puissance magique dans un objet lié. Chaque jour lorsque vous préparez vos sorts, vous pouvez désigner un unique objet en votre possession comme votre objet lié. Il s’agit en général d’un objet associé à l’incantation, comme une baguette, un anneau ou un bâton, mais vous êtes libre de choisir une arme ou autre chose. Vous gagnez l’action gratuite @Item[Drain Bonded Item](Drain d’objet lié).&nbsp;</span></p>\n"
+        },
+        {
+            "id": "Armor Expertise (Champion)",
+            "name": "Expertise avec les armures",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez passé tellement de temps en armure que vous savez tirer le meilleur parti de la protection qu’elles offrent. Votre rang de maîtrise avec les armures légères, intermédiaires et lourdes, ainsi qu’avec la défense sans armure, passe à expert. Vous gagnez les effets spécialisés des armures intermédiaires et lourdes.&nbsp;</span></p>"
+        },
+        {
             "id": "Infused Reagents",
             "name": "Réactifs imprégnés",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous imprégnez vos réactifs avec votre propre essence alchimique et êtes ainsi en mesure de créer des objets alchimiques sans coût associé. Chaque jour, lors de vos préparatifs quotidiens, vous gagnez une quantité de lots de réactifs imprégnés égale à votre niveau + votre modificateur d’Intelligence. Vous pouvez utiliser ces réactifs dans le cadre de votre alchimie avancée ou de votre Alchimie rapide, toutes deux décrites ci-dessous. L’ensemble de ces réactifs imprégnés représentent un Encombrement léger.<br><br>Dès que vous commencez vos préparatifs quotidiens en prévision d’une nouvelle journée, les réactifs imprégnés que vous avez obtenus lors de vos préparatifs de la veille sont instantanément détruits et tous les effets non permanents de vos objets imprégnés de la veille prennent immédiatement fin. Bien que vos réactifs imprégnés soient des objets physiques, ils ne peuvent pas être dupliqués, préservés ou créés autrement que dans le cadre de vos préparatifs quotidiens. Les réactifs obtenus ainsi de façon artificielle ne sont pas imprégnés et ne peuvent pas être utilisés avec l’alchimie avancée ou l’Alchimie rapide.&nbsp;</span></p>\n"
         },
         {
+            "id": "Weapon Tricks",
+            "name": "Astuces martiales",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez développé une grande familiarité avec vos instruments de travail. Vous gagnez le rang de maîtrise expert avec les armes simples et les attaques à mains nues, ainsi que la rapière, la matraque, l’arc court et l’épée courte. Quand vous obtenez un succès critique à un jet d’attaque contre une créature prise au dépourvu et que vous utilisez une arme agile ou de finesse, une attaque à mains nues ou une des armes présentées ici, vous appliquez l’effet critique spécialisé de l’arme que vous maniez.&nbsp;</span></p>\n"
+        },
+        {
             "id": "Mutagenist",
             "name": "Mutagèniste",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes fasciné par les bizarres transformations mutagènes qui sacrifient un des aspects physiques ou psychologiques d’une créature afin d’en renforcer un autre. Vous commencez avec les formules de deux mutagènes de niveau 1 dans votre formulaire, en plus de vos autres formules.<br><br>Vous bénéficiez de l’action gratuite suivante :</span></p>\n<h3 class=\"title\">@Item[Flaskback du mutagène]</h3>\n<p><strong> Fréquence </strong> un par jour &nbsp;</p>\n<hr>\n<p> Vous bénéficiez d’une brève résurgence d’un mutagène. Choisissez-en un que vous avez consommé depuis vos derniers préparatifs quotidiens. Vous profitez de ses effets pendant 1 min p>\n<h2 class=\"title\"> Découverte de domaine de recherche <span style=\"float: right;\">Niveau 5</span></h2>\n<p> Quand vous utilisez alchimie avancée pour faire des mutagènes lors de vos préparatifs quotidiens, vous pouvez utiliser un lot de réactifs pour créer trois mutagènes de n’importe quel type au lieu de deux mutagènes d’un seul type.</p>\n<h2 class=\"title\"> Infusions perpétuelles <span style=\"float: right;\">Niveau 7</span></h2>\n<p> Choisissez deux formules parmi les suivantes: mutagène bestial inférieur, mutagène cognitif inférieur, mutagène de juggernaut inférieur, mutagène de vif-argent inférieur, mutagène de langue dorée inférieur.</p>\n<h2 class=\"title\"> Efficacité perpétuelle <span style=\"float: right;\">Niveau 11</span></h2>\n<p> La version moyenne des mutagènes que vous avez choisis pour vos infusions perpétuelles.</p>\n<h2 class=\"title\"> Découverte de domaine de recherche supérieure <span style=\"float: right;\">Niveau 13</span></h2>\n<p> Si vous êtes sous l’effet d’un mutagène que vous avez créé et que vous absorbez un autre mutagène, vous cumulez les avantages et les inconvénients de ces deux mutagènes, même s’ils possèdent tous les deux le trait métamorphose et ne pourraient normalement pas fonctionner de concert. Si, alors que vous êtes sous l’effet de deux mutagènes, vous vous trouvez sous l’effet d’un nouveau mutagène, vous perdez l’avantage de l’un des deux premiers mutagènes de votre choix, tout en conservant les inconvénients liés à l’ensemble des mutagènes absorbés. Si, alors que vous êtes sous l’effet de deux mutagènes, vous êtes affecté par un effet de métamorphose qui n’est pas lié à un mutagène, vous perdez les avantages liés aux deux mutagènes mais en conservez les inconvénients.</p>\n<h2 class=\"title\"> Perfection perpétuelle <span style=\"float: right;\">Niveau 17</span></h2>\n<p> La version supérieure des mutagènes que vous avez choisis pour vos infusions perpétuelles.</p>\n\n"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes fasciné par les bizarres transformations mutagènes qui sacrifient un des aspects physiques ou psychologiques d’une créature afin d’en renforcer un autre. Vous commencez avec les formules de deux mutagènes de niveau 1 dans votre formulaire, en plus de vos autres formules.<br><br>Vous bénéficiez de l’action gratuite suivante :</span></p>\n<h3 class=\"title\">@Item[Flaskback du mutagène]</h3>\n<p><strong> Fréquence </strong> un par jour &nbsp;</p>\n<hr>\n<p> Vous bénéficiez d’une brève résurgence d’un mutagène. Choisissez-en un que vous avez consommé depuis vos derniers préparatifs quotidiens. Vous profitez de ses effets pendant 1 min p>\n<h2 class=\"title\"> Découverte de domaine de recherche <span style=\"float: right;\">Niveau 5</span></h2>\n<p> Quand vous utilisez alchimie avancée pour faire des mutagènes lors de vos préparatifs quotidiens, vous pouvez utiliser un lot de réactifs pour créer trois mutagènes de n’importe quel type au lieu de deux mutagènes d’un seul type.</p>\n<h2 class=\"title\"> Infusions perpétuelles <span style=\"float: right;\">Niveau 7</span></h2>\n<p> Choisissez deux formules parmi les suivantes: mutagène bestial inférieur, mutagène cognitif inférieur, mutagène de juggernaut inférieur, mutagène de vif-argent inférieur, mutagène de langue dorée inférieur.</p>\n<h2 class=\"title\"> Efficacité perpétuelle <span style=\"float: right;\">Niveau 11</span></h2>\n<p> La version moyenne des mutagènes que vous avez choisis pour vos infusions perpétuelles.</p>\n<h2 class=\"title\"> Découverte de domaine de recherche supérieure <span style=\"float: right;\">Niveau 13</span></h2>\n<p> Si vous êtes sous l’effet d’un mutagène que vous avez créé et que vous absorbez un autre mutagène, vous cumulez les avantages et les inconvénients de ces deux mutagènes, même s’ils possèdent tous les deux le trait métamorphose et ne pourraient normalement pas fonctionner de concert. Si, alors que vous êtes sous l’effet de deux mutagènes, vous vous trouvez sous l’effet d’un nouveau mutagène, vous perdez l’avantage de l’un des deux premiers mutagènes de votre choix, tout en conservant les inconvénients liés à l’ensemble des mutagènes absorbés. Si, alors que vous êtes sous l’effet de deux mutagènes, vous êtes affecté par un effet de métamorphose qui n’est pas lié à un mutagène, vous perdez les avantages liés aux deux mutagènes mais en conservez les inconvénients.</p>\n<h2 class=\"title\"> Perfection perpétuelle <span style=\"float: right;\">Niveau 17</span></h2>\n<p> La version supérieure des mutagènes que vous avez choisis pour vos infusions perpétuelles.</p>\n"
         },
         {
             "id": "Devotion Spells",
@@ -109,12 +199,17 @@
         {
             "id": "Maestro",
             "name": "Virtuose",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre muse est un virtuose qui vous pousse à vous surpasser. Si c’est une créature, ce peut être une entité qui aime les représentations artistiques, comme un ange choral ou une azata lillende, ou peut-être Shélyn si c’est une divinité. En tant que barde avec une muse virtuose, vous êtes convaincu de l’efficacité de vos capacités oratoires et musicales, ainsi qu’une véritable source d’inspiration pour vos alliés. Vous obtenez le don Représentation prolongée @Item[Représentation prolongée] et ajoutez apaiser @Item[Apaiser] à votre répertoire de sorts.&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre muse est un virtuose qui vous pousse à vous surpasser. Si c’est une créature, ce peut être une entité qui aime les représentations artistiques, comme un ange choral ou une azata lillende, ou peut-être Shélyn si c’est une divinité. En tant que barde avec une muse virtuose, vous êtes convaincu de l’efficacité de vos capacités oratoires et musicales, ainsi qu’une véritable source d’inspiration pour vos alliés. Vous obtenez le don Représentation prolongée @Item[Représentation prolongée] et ajoutez apaiser @Item[Apaiser] à votre répertoire de sorts.&nbsp;</span></p>\n"
         },
         {
             "id": "Spirit Instinct",
             "name": "Instinct spirituel",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes peut-être sensible aux esprits qui vous entourent, vénérez vos ancêtres ou les apparitions, ou êtes hanté par le spectre d’un ancêtre, d’un parent, d’un ami ou d’un ennemi, et votre rage se manifeste par une possession spirituelle.</span></p>\n<h2 class=\"title\">Anathème</h2>\n<p>Manquer de respect aux cadavres ou aux esprits est anathème à votre instinct. Vous défendre contre les créatures mortes-vivantes ne l’est pas.</p>\n<h2 class=\"title\">Rage spirituelle (pouvoir d’instinct)</h2>\n<p>Quand vous êtes enragé, vous pouvez passer vos dégâts de Rage de 2 à 3 et infliger des dégâts négatifs ou positifs au lieu du type de dégâts normalement infligés par votre arme ou votre attaque à mains nues (vous choisissez l’option que vous préférez à chaque fois que vous entrez en Rage). Si vous choisissez d’infliger des dégâts négatifs ou positifs, votre arme ou votre attaque à mains nues gagne l’effet de la rune de propriété spectrale. Vous êtes alors plus efficace contre les créatures intangibles et vos actions de Rage gagnent les traits divine et nécromancie, ainsi que négative ou positive en fonction de votre choix.</p>\n<h2 class=\"title\">Pouvoir de spécialisation</h2>\n<p>Quand vous utilisez votre rage spirituelle, vous faites passer les dégâts supplémentaires de Rage de 3 à 7. Si vous possédez la spécialisation martiale supérieure et que vous utilisez la rage spirituelle, vous passez à la place les dégâts supplémentaires de Rage à 13</p>\n<h2 class=\"title\">Résistance enragée</h2>\n<p>Vous êtes résistant aux dégâts négatifs, ainsi qu’à tous les types de dégâts infligés par les attaques et pouvoirs des créatures mortes-vivantes.&nbsp;</p>"
+        },
+        {
+            "id": "Alertness (Cleric)",
+            "name": "Vigilance (Prêtre)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous restez à l’affût des menaces alentour. Votre rang de maîtrise en Perception passe à expert.&nbsp;</span></p>"
         },
         {
             "id": "Thief Racket",
@@ -154,7 +249,17 @@
         {
             "id": "Enigma",
             "name": "Énigmatique",
-            "description": "<p>Votre muse est un mystère qui vous pousse à percer les secrets bien gardés du multivers. Si votre muse est une créature, ce peut être un dragon ou une entité d’outre-monde, ou peut-être Irori ou Néthys si c’est une divinité. Vous obtenez le don Connaissance bardique @Item[Connaissance bardique] et ajoutez coup au but @Item[Coup au but] à votre répertoire de sorts.&nbsp;</p>"
+            "description": "<p>Votre muse est un mystère qui vous pousse à percer les secrets bien gardés du multivers. Si votre muse est une créature, ce peut être un dragon ou une entité d’outre-monde, ou peut-être Irori ou Néthys si c’est une divinité. Vous obtenez le don Connaissance bardique @Item[Connaissance bardique] et ajoutez coup au but @Item[Coup au but] à votre répertoire de sorts.&nbsp;</p>\n"
+        },
+        {
+            "id": "Signature Spells (Bard)",
+            "name": "Sorts emblématiques (Barde)",
+            "description": "<p>L’expérience vous permet de lancer certains sorts avec plus de souplesse. Pour chaque niveau de sort auquel vous avez accès, choisissez un sort de ce niveau pour en faire un sort emblématique. Vous n’avez pas besoin d’apprendre une à une les versions intensifiées des sorts emblématiques ; en fait, vous pouvez intensifier sans contrainte ces sorts. Si vous connaissez un sort emblématique à un niveau supérieur à son niveau minimum, vous pouvez également lancer toutes ses versions de niveau inférieur sans avoir à les apprendre séparément. Si vous remplacez un sort emblématique, vous pouvez l’échanger contre un autre sort emblématique de même niveau que celui auquel vous avez appris celui que vous remplacez. Vous pouvez également suivre un réapprentissage juste pour changer un sort emblématique par un autre de même niveau sans passer par le remplacement ; ceci demande autant de temps que le réapprentissage normal d’un sort.</p>"
+        },
+        {
+            "id": "Divine Ally",
+            "name": "Allié divin",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre dévotion attire un esprit dont l’alignement est identique à celui de votre divinité. Une fois le choix de cet allié effectué, vous ne pouvez plus en changer.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Les alliés divins sont les suivants : <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Allié bouclier</strong> : Allié bouclier : un esprit protecteur se loge dans votre bouclier. Entre vos mains, la Solidité du bouclier augmente de 2 et ses PV et son SR augmentent de moitié. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Allié destrier</strong> :  Vous obtenez un jeune compagnon animal qui vous sert de monture. Normalement, votre compagnon animal doit avoir le pouvoir spécial monture, comme un cheval par exemple. Vous pouvez choisir un compagnon animal différent (à l’appréciation du MJ) mais cette capacité ne lui confère toutefois pas le pouvoir spécial monture&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Allié lame</strong> :  un esprit guerrier réside dans votre arsenal. Lorsque vous faites vos préparatifs quotidiens, choisissez une arme ou des <a href=\"https://2e.aonprd.com/Equipment.aspx?ID=441\"><em>bandelettes de coups puissants</em></a>. Entre vos mains, cet objet gagne les effets d’une rune de propriété. Pour un champion qui suit les principes du bien, choisissez entre <em>perturbatrice</em>, <em>spectrale</em>, <em>boomerang</em> ou <em>changeante</em>. Vous produisez également l’effet critique spécialisé de l’arme.  <br></span><span id=\"ctl00_MainContent_DetailedOutput\"></span></p>\n"
         },
         {
             "id": "Storm",
@@ -174,7 +279,17 @@
         {
             "id": "Polymath",
             "name": "Touche-à-tout",
-            "description": "<p>Votre muse est un touche-à-tout aussi actif que talentueux. Si c’est une créature, ce peut être un être éclectique tel qu’une fée, ou peut être Desna ou Calistria si c’est une divinité. En tant que barde avec une muse touche-à-tout, la plupart des sujets vous intéressent mais vous évitez de vous spécialiser et avez souvent du mal à vous décider car tout attise votre curiosité. Vous obtenez le don Polyvalence artistique @Item[Polyvalence artistique] et ajoutez serviteur invisible @Item[Serviteur invisible] à votre répertoire de sorts.&nbsp;</p>"
+            "description": "<p>Votre muse est un touche-à-tout aussi actif que talentueux. Si c’est une créature, ce peut être un être éclectique tel qu’une fée, ou peut être Desna ou Calistria si c’est une divinité. En tant que barde avec une muse touche-à-tout, la plupart des sujets vous intéressent mais vous évitez de vous spécialiser et avez souvent du mal à vous décider car tout attise votre curiosité. Vous obtenez le don Polyvalence artistique @Item[Polyvalence artistique] et ajoutez serviteur invisible @Item[Serviteur invisible] à votre répertoire de sorts.&nbsp;</p>\n"
+        },
+        {
+            "id": "Bravery",
+            "name": "Bravoure",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Après avoir affronté d’innombrables adversaires et enduré le chaos de la bataille, vous savez comment ne pas céder à la peur pour poursuivre le combat. Votre rang de maîtrise des jets de sauvegarde de Volonté devient expert. Si vous obtenez un succès à un jet de Volonté contre un effet de terreur, vous obtenez à la place un succès critique. De plus, chaque fois que vous obtenez l’état effrayé, réduisez de 1 son intensité.&nbsp;</span></p>"
+        },
+        {
+            "id": "Alertness (Druid)",
+            "name": "Vigilance (Druide)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’expérience vous a appris à repérer de mieux en mieux les menaces qui vous entourent et vous réagissez plus rapidement face au danger. Votre rang de maîtrise en Perception passe à expert.&nbsp;</span></p>"
         },
         {
             "id": "Rage",
@@ -189,12 +304,27 @@
         {
             "id": "Chirugeon",
             "name": "Chirurgien",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre alchimie vous sert essentiellement à soigner les\nautres. Quand vous commencez, votre formulaire contient deux formules parmi les suivantes en plus de vos autres formules : antidote inférieur, anti-maladie inférieur ou élixir de vie mineur.<br><br>Si votre rang de maîtrise en Médecine est qualifié ou supérieur, vous pouvez faire un test d’Artisanat au lieu d’un test de Médecine pour tous les usages qualifiés ou inexpérimentés de la compétence Médecine.</span></p>\n<h2 class=\"title\">Découverte de domaine de recherche<span style=\"float: right;\">Niveau 5</span></h2>\n<p>Quand vous utilisez alchimie avancée pour faire des élixirs de vie lors de vos préparatifs quotidiens, vous pouvez créer trois élixirs avec chaque lot de réactifs au lieu de deux.</p>\n<h2 class=\"title\">Infusions perpétuelles<span style=\"float: right;\">Niveau 7</span></h2>\n<p>Antidote inférieur et anti-maladie inférieur.</p>\n<h2 class=\"title\">Efficacité perpétuelle<span style=\"float: right;\">Niveau 11</span></h2>\n<p>Antidote et anti-maladie moyens.</p>\n<h2 class=\"title\">Découverte de domaine de recherche supérieure<span style=\"float: right;\">Niveau 13</span></h2>\n<p>Quand vous utilisez Alchimie rapide pour créer n’importe quel type d’élixir de vie, la créature qui le boit gagne le maximum de points de vie qu’il peut conférer au lieu de devoir lancer les dés pour déterminer combien de points de vie elle gagne.</p>\n<h2 class=\"title\">Perfection perpétuelle<span style=\"float: right;\">Niveau 17</span></h2>\n<p>Antidote et anti-maladie supérieurs.&nbsp;</p>\n\n"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre alchimie vous sert essentiellement à soigner les\nautres. Quand vous commencez, votre formulaire contient deux formules parmi les suivantes en plus de vos autres formules : antidote inférieur, anti-maladie inférieur ou élixir de vie mineur.<br><br>Si votre rang de maîtrise en Médecine est qualifié ou supérieur, vous pouvez faire un test d’Artisanat au lieu d’un test de Médecine pour tous les usages qualifiés ou inexpérimentés de la compétence Médecine.</span></p>\n<h2 class=\"title\">Découverte de domaine de recherche<span style=\"float: right;\">Niveau 5</span></h2>\n<p>Quand vous utilisez alchimie avancée pour faire des élixirs de vie lors de vos préparatifs quotidiens, vous pouvez créer trois élixirs avec chaque lot de réactifs au lieu de deux.</p>\n<h2 class=\"title\">Infusions perpétuelles<span style=\"float: right;\">Niveau 7</span></h2>\n<p>Antidote inférieur et anti-maladie inférieur.</p>\n<h2 class=\"title\">Efficacité perpétuelle<span style=\"float: right;\">Niveau 11</span></h2>\n<p>Antidote et anti-maladie moyens.</p>\n<h2 class=\"title\">Découverte de domaine de recherche supérieure<span style=\"float: right;\">Niveau 13</span></h2>\n<p>Quand vous utilisez Alchimie rapide pour créer n’importe quel type d’élixir de vie, la créature qui le boit gagne le maximum de points de vie qu’il peut conférer au lieu de devoir lancer les dés pour déterminer combien de points de vie elle gagne.</p>\n<h2 class=\"title\">Perfection perpétuelle<span style=\"float: right;\">Niveau 17</span></h2>\n<p>Antidote et anti-maladie supérieurs.&nbsp;</p>\n"
         },
         {
             "id": "Anathema (Cleric)",
             "name": "Anathème (Prêtre)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les actions fondamentalement opposées aux idéaux et à l’alignement de votre divinité sont anathèmes à votre religion. Vous n’êtes plus dans les bonnes grâces de votre divinité si vous apprenez ou lancez des sorts, commettez des actes ou utilisez des objets anathèmes à votre dieu.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">L’incantation de sorts avec le trait mauvais est presque toujours anathème aux divinités d’alignement bon, tout comme l’incantation de sorts avec le trait bon est anathème aux divinités d’alignement mauvais, l’incantation de sorts chaotiques aux divinités d’alignement loyal et l’incantation de sorts loyaux aux divinités chaotiques. Un prêtre neutre qui vénère une divinité neutre n’est pas limité de la sorte, mais son alignement peut changer au fil du temps s’il lance souvent des sorts ou utilise des pouvoirs associés à un alignement en particulier. De la même façon, l’incantation de sortsanathèmes aux préceptes ou objectifs de votre foi peut interférer avec la relation que vous entretenez avec votre divinité. Par exemple, l’incantation d’un sort pour créer un mort-vivant est anathème à Pharasma, la déesse de la mort. Dans les cas limites, c’est vous et le MJ qui déterminez quels agissements sont anathèmes.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous accomplissez trop d’actes anathèmes à votre divinité, ou si votre alignement change et qu’il n’est pas autorisé par votre dieu, vous perdez les pouvoirs magiques conférés par votre relation avec votre divinité. Les capacités de classe que vous perdez sont déterminées par le MJ, mais il est probable que vous perdiez votre source divine et votre capacité d’incantation de sorts divins. Vous ne pouvez récupérer ces capacités que si vous montrez un réel désir de repentance en accomplissant un rituel de pénitence (décrit page 414).</span></p>\n"
+        },
+        {
+            "id": "Bloodline: Aberrant",
+            "name": "Lignage : Aberrant",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quelque chose au-delà des étoiles ou dans les tréfonds de la terre s’adresse à vous. Cette influence étrangère, ancienne et inconnue, s’immisce dans vos pensées.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Liste de sorts</strong> <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=3\"><u>occulte</u></a><br><strong>Compétences de lignage</strong> <a href=\"https://2e.aonprd.com/Skills.aspx?ID=7\"><u>Intimidation</u></a>, <a href=\"https://2e.aonprd.com/Skills.aspx?ID=11\"><u>Occultisme</u></a><br><strong>Sorts accordés</strong> tour de magie <a href=\"https://2e.aonprd.com/Spells.aspx?ID=61\"><em><u>hébétement</u></em></a>, 1er: <a href=\"https://2e.aonprd.com/Spells.aspx?ID=300\"><em><u>Morsure d'araignée</u></em></a>, 2ème: <a href=\"https://2e.aonprd.com/Spells.aspx?ID=341\"><em><u>Idiotie</u></em></a>, 3ème: <a href=\"https://2e.aonprd.com/Spells.aspx?ID=354\"><em><u>contact vampirique</u></em></a>, 4ème: <a href=\"https://2e.aonprd.com/Spells.aspx?ID=48\"><em><u>confusion</u></em></a>, 5ème: <a href=\"https://2e.aonprd.com/Spells.aspx?ID=23\"><em><u>tentacules noirs</u></em></a>, 6ème: <a href=\"https://2e.aonprd.com/Spells.aspx?ID=112\"><em><u>débilité</u></em></a>, 7ème: <a href=\"https://2e.aonprd.com/Spells.aspx?ID=369\"><em><u>déformer l'esprit</u></em></a>, 8ème: <a href=\"https://2e.aonprd.com/Spells.aspx?ID=347\"><em><u>danse incontrôlable</u></em></a>, 9ème: <a href=\"https://2e.aonprd.com/Spells.aspx?ID=349\"><em><u>chant énigmatique</u></em></a><br><strong>Sorts de lignage</strong> initial : <a href=\"https://2e.aonprd.com/Spells.aspx?ID=517\"><em><u>membres tentaculaires</u></em></a>, avancé : <a href=\"https://2e.aonprd.com/Spells.aspx?ID=491\"><em><u>murmures aberrants</u></em></a>, supérieur : <a href=\"https://2e.aonprd.com/Spells.aspx?ID=519\"><em><u>étrange anatomie</u></em></a><br><strong>Magie du sang</strong> Les murmures aberrants protègent l’esprit d’une cible ou le vôtre en conférant un bonus de statut de +2 aux jets de Volonté pendant 1 round.</span></p>\n"
+        },
+        {
+            "id": "Weapon Expertise",
+            "name": "Expertise avec les armes",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous consacrez à l’apprentissage approfondi du maniement de vos armes. Votre rang de maîtrise avec les armes simples, les attaques à mains nues et les armes de guerre passe à expert.&nbsp;</span></p>"
+        },
+        {
+            "id": "Iron Will (Ranger)",
+            "name": "Volonté de fer (Rôdeur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre entraînement a renforcé votre détermination. Votre rang de maîtrise des jets de sauvegarde de Volonté devient expert.&nbsp;</span></p>"
         },
         {
             "id": "Anathema (Druid)",
@@ -214,12 +344,22 @@
         {
             "id": "Quick Alchemy",
             "name": "Alchimie rapide",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous avez besoin d’un objet alchimique à la volée, vous pouvez utiliser vos réactifs imprégnés pour le créer rapidement grâce à l’action Alchimie rapide.@Item[Alchimie rapide] action.</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous avez besoin d’un objet alchimique à la volée, vous pouvez utiliser vos réactifs imprégnés pour le créer rapidement grâce à l’action Alchimie rapide.@Item[Alchimie rapide] action.</span></p>\n"
         },
         {
             "id": "Scoundrel Racket",
             "name": "Scélérat",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous utilisez votre bagou, la flatterie et vos talents de rhétoricien pour éviter les dangers et vous tirer de mauvais pas. Vous pouvez être un escroc ou un arnaqueur qui voyage d’un endroit à un autre avec toujours une nouvelle histoire à raconter ou une combine en tête. Votre trafic fait également de vous un excellent candidat pour certaines professions respectables, comme avocat, diplomate ou politicien.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous réussissez à Feinter (page 249), votre cible est prise au dépourvu face aux attaques au corps à corps que vous portez contre elle jusqu’à la fin de votre prochain tour. Sur un succès critique, la cible est prise au dépourvu face à toutes les attaques au corps à corps, et pas seulement les vôtres, jusqu’à la fin de votre prochain tour.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié en Duperie et en Diplomatie. Vous pouvez choisir le Charisme comme caractéristique essentielle.</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous utilisez votre bagou, la flatterie et vos talents de rhétoricien pour éviter les dangers et vous tirer de mauvais pas. Vous pouvez être un escroc ou un arnaqueur qui voyage d’un endroit à un autre avec toujours une nouvelle histoire à raconter ou une combine en tête. Votre trafic fait également de vous un excellent candidat pour certaines professions respectables, comme avocat, diplomate ou politicien.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous réussissez à Feinter (page 249), votre cible est prise au dépourvu face aux attaques au corps à corps que vous portez contre elle jusqu’à la fin de votre prochain tour. Sur un succès critique, la cible est prise au dépourvu face à toutes les attaques au corps à corps, et pas seulement les vôtres, jusqu’à la fin de votre prochain tour.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié en Duperie et en Diplomatie. Vous pouvez choisir le Charisme comme caractéristique essentielle.</span></p>\n"
+        },
+        {
+            "id": "Lightning Reflexes (Bard)",
+            "name": "Réflexes éclair (Barde)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos réflexes sont fulgurants. Votre rang de maîtrise pour les jets de Réflexes passe à expert.</span></p>"
+        },
+        {
+            "id": "Great Fortitude (Druid)",
+            "name": "Vigueur surhumaine (Druide)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous bénéficiez d’une constitution et d’une robustesse extraordinaires. Votre rang de maîtrise pour les jets de Vigueur passe à expert.&nbsp;</span></p>"
         },
         {
             "id": "Advanced Alchemy",
@@ -232,6 +372,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre divinité vous accorde le pouvoir de lancer des sorts divins. Vous lancez des sorts divins avec l’activité Lancer un sort et pouvez fournir des composants matériels, somatiques et verbaux lors de l’incantation (voir Lancer des sorts p. 302). Étant donné que vous êtes un prêtre, vous pouvez normalement brandir un focaliseur divin (tel qu’un symbole religieux) pour lancer les sorts nécessitant des composants matériels au lieu d’utiliser une bourse de composants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Au niveau 1, vous pouvez chaque matin préparer deux sorts de niveau 1 et cinq tours de magie que vous choisissez parmi les sorts ordinaires de la liste des sorts divins de ce livre (page 309) ou parmi les autres sorts divins auxquels vous avez accès. Vos sorts restent à votre disposition jusqu’à ce que vous les lanciez ou que vous les prépariez de nouveau. Le nombre de sorts que vous pouvez préparer est représenté par vos emplacements de sort. Au fur et à mesure que vous gagnez des niveaux de prêtre, le nombre de sorts que vous pouvez préparer chaque jour augmente, tout comme le niveau de sort le plus élevé que vous pouvez lancer, comme indiqué dans le tableau 3–9 : Sorts de prêtre quotidiens, p. 182.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Certains sorts exigent un jet d’attaque de sort pour déterminer leur efficacité ou obligent vos ennemis à faire un jet contre le DD de votre sort (en général un jet de sauvegarde). Comme la Sagesse est votre caractéristique essentielle, vos jets d’attaque de sort et le DD de vos sorts utilisent votre modificateur de Sagesse. Les détails permettant de calculer ces statistiques figurent p. 447.</span></p>\n\n"
         },
         {
+            "id": "Weapon Specialization (Champion)",
+            "name": "Spécialisation martiale (Champion)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à infliger de graves blessures avec les armes que vous connaissez le mieux. Vous infligez 2 dégâts de plus avec les armes et les attaques à mains nues pour lesquelles vous êtes expert. Ces dégâts passent à 3 si vous êtes maître et à 4 si vous êtes légendaire.&nbsp;</span></p>"
+        },
+        {
             "id": "Flurry of Blows",
             "name": "Déluge de coups",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous effectuez plusieurs attaques rapides avec vos poings, vos pieds, vos coudes, vos genoux et d’autres parties de votre corps. Vous savez accomplir l’action déluge de coups.</span></p>\n"
@@ -242,9 +387,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous obtenez le don général Blocage au bouclier @Item[Blocage au bouclier ] (page 260), une réaction qui vous permet de réduire les dégâts avec votre bouclier.</span></p>\n"
         },
         {
+            "id": "Primal Hierophant",
+            "name": "Hiérophante primordial",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous manipulez la plus redoutable des magies primordiales et pouvez lancer un sort incroyablement puissant. Vous gagnez un unique emplacement de sort de niveau 10 et pouvez l’utiliser pour préparer un sort avec incantation primordiale. Contrairement aux autres emplacements de sort, vous ne gagnez pas plus d’emplacements de niveau 10 en augmentant de niveau, mais vous pouvez prendre le don @Item[Hierophant’s Power](Puissance de l’hiérophante) pour en obtenir un second.</span></p>\n"
+        },
+        {
             "id": "Shield Block (Druid)",
             "name": "Blocage au bouclier (Druide)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous obtenez le don général Blocage au bouclier @Item[Blocage au bouclier] (page 260), une réaction qui vous permet de réduire les dégâts avec votre bouclier.</span></p>\n"
+        },
+        {
+            "id": "Expert Strikes",
+            "name": "Frappes expertes",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous êtes entraîné dans la pratique des arts martiaux et avez amélioré vos compétences en la matière. Votre rang de maîtrise avec les armes simples et les attaques à mains nues passe à expert.&nbsp;</span></p>"
         },
         {
             "id": "Warpriest",
