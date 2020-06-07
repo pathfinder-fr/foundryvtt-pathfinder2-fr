@@ -39,3 +39,4 @@ Pour appliquer les traductions, il faut installer le module Babele et pointer ve
 * Bard dedication : the special part is missing
 * Druid dedication : the special part is missing
 * Magaambyan Attendant Dedication -> archetype feat
+* Primal Hierophant -> class feature of level 19, not 03
