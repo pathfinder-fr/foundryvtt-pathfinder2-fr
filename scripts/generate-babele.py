@@ -32,7 +32,7 @@ for key in TRANSL:
   babeleVoVf = { 'label': TRANSL[key]['label'], 'entries': [] }
   babeleVo   = { 'label': TRANSL[key]['label'], 'entries': [] }
 
-  count = { "aucune": 0, "libre": 0, "officielle": 0, "changé": 0 }
+  count = { "aucune": 0, "libre": 0, "officielle": 0, "changé": 0, "doublon": 0 }
     
   # read all files in folder
   for fpath in all_files:
