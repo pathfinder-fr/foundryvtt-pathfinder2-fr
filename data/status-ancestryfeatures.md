@@ -1,11 +1,11 @@
 # État de la traduction (ancestryfeatures)
 
  * **aucune**: 34
- * **officielle**: 23
- * **changé**: 6
+ * **officielle**: 24
+ * **changé**: 5
 
 
-Dernière mise à jour: 2020-06-07 17:20 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-08 17:17 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -56,7 +56,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-a6F2WjYU8D0suT8T.htm](ancestryfeatures/feat-01-a6F2WjYU8D0suT8T.htm)|Razortooth Goblin|Gobelin Dent’rasoir|officielle|
 |[feat-01-cCy8vsZENlwiAyZ6.htm](ancestryfeatures/feat-01-cCy8vsZENlwiAyZ6.htm)|Twilight Halfling|Halfelin du crépuscule|officielle|
 |[feat-01-d0bNxgGqvaCkFlhN.htm](ancestryfeatures/feat-01-d0bNxgGqvaCkFlhN.htm)|Umbral Gnome|Gnome ombral|officielle|
-|[feat-01-D3hTAqgwSank8OyO.htm](ancestryfeatures/feat-01-D3hTAqgwSank8OyO.htm)|Fey-Touched Gnome|Gnome béni des fées|changé|
+|[feat-01-D3hTAqgwSank8OyO.htm](ancestryfeatures/feat-01-D3hTAqgwSank8OyO.htm)|Fey-Touched Gnome|Gnome béni des fées|officielle|
 |[feat-01-DGgelJTB3Bf2XUBE.htm](ancestryfeatures/feat-01-DGgelJTB3Bf2XUBE.htm)|Charhide Goblin|Gobelin peaud'charbon|officielle|
 |[feat-01-EKzA58KrNjxCK90Y.htm](ancestryfeatures/feat-01-EKzA58KrNjxCK90Y.htm)|Forge Dwarf|Nain des forges|officielle|
 |[feat-01-etkuQkjkNLPLnjkA.htm](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Wellspring Gnome|Gnome des sources|changé|

@@ -44,7 +44,7 @@
         {
             "id": "Fey-Touched Gnome",
             "name": "Gnome béni des fées",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le sang des fées coule avec une telle pureté dans vos veines que vous êtes véritablement l’une d’elles. Vous gagnez le trait fée en plus des traits gnome et humanoïde. Choisissez un tour de magie dans la liste des sorts primordiaux (page 313) <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=4\">primal</a>. Vous pouvez lancer ce tour de magie comme un sort inné primordial à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur. Vous pouvez échanger ce tour de magie contre un autre choisi dans la même liste une fois par jour, en méditant pour vous réaligner avec le Premier Monde ; il s’agit d’une activité d’une durée de 10 min qui possède le trait concentration.&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le sang des fées coule avec une telle pureté dans vos veines que vous êtes véritablement l’une d’elles. Vous gagnez le trait fée en plus des traits gnome et humanoïde. Choisissez un tour de magie dans la liste des sorts primordiaux. Vous pouvez lancer ce tour de magie comme un sort inné primordial à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur. Vous pouvez échanger ce tour de magie contre un autre choisi dans la même liste une fois par jour, en méditant pour vous réaligner avec le Premier Monde ; il s’agit d’une activité d’une durée de 10 min qui possède le trait concentration.&nbsp;</span></p>"
         },
         {
             "id": "Forge Dwarf",

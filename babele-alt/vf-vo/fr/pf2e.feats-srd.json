@@ -179,7 +179,7 @@
         {
             "id": "Terrifying Howl",
             "name": "Hurlement terrifiant (Terrifying Howl)",
-            "description": "<p><strong> Prérequis</strong> Regard intimidant</p>\n<hr>\n<p> Vous poussez un hurlement terrifiant. Vous faites des tests d’Intimidation pour Démoraliser tous les ennemis qui se trouvent dans un rayon de 9 m. Quel que soit le résultat de vos tests, chacune de ces créatures est alors temporairement immunisée au Hurlement terrifiant pendant 1 min.</p>"
+            "description": "<p><strong> Prérequis</strong> Regard intimidant</p>\n<hr>\n<p> Vous poussez un hurlement terrifiant. Faites des tests d’Intimidation pour Démoraliser tous chaque ennemi qui se trouve dans un rayon de 9 m. Quel que soit le résultat de vos tests, chacune de ces créatures est alors temporairement immunisée au Hurlement terrifiant pendant 1 minute.</p>"
         },
         {
             "id": "Runescarred Dedication",
@@ -380,6 +380,11 @@
             "id": "Glad-Hand",
             "name": "Cordialité forcée (Glad-Hand)",
             "description": "<p><strong>Prérequis </strong> expert en Diplomatie</p>\n<hr>\n<p>Les premières impressions sont votre point fort. Quand vous rencontrez quelqu’un dans une situation occasionnelle ou sociale, vous pouvez immédiatement tenter un test de Diplomatie pour Faire bonne impression sur cette créature plutôt que d’avoir à converser pendant 1 minute. Vous faites ce test avec un malus de −5. Si vous essuyez un échec ou un échec critique, vous pouvez passer 1 min à converser avec la créature et tenter un nouveau test à la fin de ce délai plutôt que d’accepter votre échec normal ou critique.</p>"
+        },
+        {
+            "id": "Leshy Lore",
+            "name": "Connaissance des Léchis (Leshy Lore)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous comprenez profondément les traditions culturelle et les forces intérieures de votre peuple. Vous êtes qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=10\">Nature</a> et <a href=\"https://2e.aonprd.com/Skills.aspx?ID=15\">Discrétion</a>. Si vous alliez déjà être automatiquement qualifié en une de ces compétences (par votre historique ou votre classe, par example), vous êtes qualifié dans une autre compétence de votre choix. Vous êtes également qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> des léchis.&nbsp;</span></p>"
         },
         {
             "id": "Orc Weapon Familiarity",
@@ -1104,7 +1109,7 @@
         {
             "id": "Mountain Stance",
             "name": "Posture de la montagne (Mountain Stance)",
-            "description": "<p><strong>Conditions.</strong> Vous ne portez aucune armure et vous êtes en contact avec le sol</p>\n<hr>\n<p>Vous prenez la posture implacable d’une montagne, une technique découverte par des moines nains, ce qui vous permet de frapper aussi violemment qu’une avalanche. Les seules Frappes que vous pouvez faire sont des attaques à mains nues de chute de pierre. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits mains nues, non létal et percutant. Tant que vous gardez cette posture, vous bénéficiez d’un bonus de statut de +4 à la CA et d’un bonus de circonstances de +2 à vos défenses si l’on tente de vous Pousser ou de vous faire un Croc-enjambe. Vous avez toutefois un bonus de Dextérité maximal à votre CA de +0, ce qui signifie que vous n’ajoutez pas votre modificateur de Dextérité à votre CA, et vos Vitesses sont toutes réduites de 1,50 m.</p>"
+            "description": "<p><strong>Conditions.</strong> Vous ne portez aucune armure et vous êtes en contact avec le sol</p>\n<hr>\n<p>Vous prenez la posture implacable d’une montagne, une technique découverte par des moines nains, ce qui vous permet de frapper aussi violemment qu’une avalanche. Les seules Frappes que vous pouvez faire sont des attaques à mains nues de chute de pierre. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits mains nues, non létal et percutant. Tant que vous gardez cette posture, vous bénéficiez d’un bonus de statut de +4 à la CA et d’un bonus de circonstances de +2 à vos défenses si l’on tente de vous Pousser ou de vous faire un Croc-en-jambe. Vous avez toutefois un bonus de Dextérité maximal à votre CA de +0, ce qui signifie que vous n’ajoutez pas votre modificateur de Dextérité à votre CA et vos Vitesses sont toutes réduites de 1,50 m.</p>"
         },
         {
             "id": "Familiar (Sorcerer)",
@@ -1689,7 +1694,7 @@
         {
             "id": "Tangled Forest Stance",
             "name": "Posture de la forêt enchevêtrée (Tangled Forest Stance)",
-            "description": "<p><strong>Déclencheur</strong> Vous ne portez aucune armure</p>\n<hr>\n<p>Vous tendez vos bras, telles des branches noueuses, pour gêner les déplacements de vos adversaires. Vous pouvez faire des attaques à mains nues de branche cinglante. Ces attaques infligent 1d8 dégâts tranchants, elles font partie du groupe pugilat et possèdent les traits agile, finesse, mains nues et non létal. Tant que vous gardez cette posture et que vous pouvez agir, chaque ennemi dans votre zone d’allonge qui tente de s’éloigner doit réussir un jet de Réflexes, un test d’Acrobaties ou un test d’Athlétisme contre votre DD de classe ou être immobilisé à cause de cette action. Vous pouvez également laisser l’ennemi se déplacer si vous préférez.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous ne portez aucune armure</p>\n<hr>\n<p>Vous tendez vos bras, telles des branches noueuses, pour gêner les déplacements de vos adversaires. Vous pouvez faire des attaques à mains nues de branche cinglante. Ces attaques infligent 1d8 dégâts tranchants ; elles font partie du groupe pugilat et possèdent les traits agile, finesse, mains nues et non létal. Tant que vous gardez cette posture et que vous pouvez agir, chaque ennemi dans votre zone d’allonge qui tente de s’éloigner doit réussir un jet de Réflexes, un test d’Acrobaties ou un test d’Athlétisme contre votre DD de classe ou être immobilisé à cause de cette action. Vous pouvez également laisser l’ennemi se déplacer si vous préférez.</p>"
         },
         {
             "id": "Order Magic",
@@ -1785,6 +1790,11 @@
             "id": "Backup Disguise",
             "name": "Déguisement de secours (Backup Disguise)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> expert en Duperie<br></span></p>\n<hr>\n<p>Vous disposez d'un déguisement spécifique que vous conservez prêt à être employé, sous vos vêtement extérieurs. Vous pouvez changer pour ce déguisement pour vous <a href=\"https://2e.aonprd.com/Actions.aspx?ID=46\">Déguiser</a> en dépensant une activité qui vous prend 3 actions. Si vous avez le rang de maître en Duperie, seules 2 actions sont nécessaires et si votre rang est légendaire c'est une action unique.  Vous pouvez créer un nouveau déguisement de secours en dépensant le temps habituel que cela vous prend pour vous déguiser, mais vous ne pouvez porter qu'un seul déguisement de secours à la fois. Disposer d'un déguisement de secours ne vous permet pas de retirer votre armure ou tout autre partie de vêtement compliqué plus rapidement, mais une fois ôtés, le déguisement est aussitôt disponible.  Comme vous portez le déguisement de secours prêt, il est possible qu'une fouille puisse révéler certains éléments du déguisement (voir <a href=\"https://2e.aonprd.com/Actions.aspx?ID=61\">Dissimuler un objet</a> dans la compétence <a href=\"https://2e.aonprd.com/Skills.aspx?ID=15\">Discrétion</a>.&nbsp;</p>"
+        },
+        {
+            "id": "Tupilaq Carver",
+            "name": "Graveur Tupilaq (Tupilaq Carver)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Vous aviez une capacité de classe de lancement de sort avec la tradition <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Spells.aspx?Tradition=2\">divine</a> ou <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Spells.aspx?Tradition=4\">primordiale</a><br><strong>Accès</strong> ethnie Erutaki<br></span></p>\n<hr>\n<p>Vous savez que la vérité se cache derrière les vieilles histoires qui parlent de lancer un fétiche d'os et de tendons pour obtenir vengeance. Ces vieilles magies vous permettent de convoquer des créatures artificielles avec facilité. Vous ajoutez le sort <a href=\"https://2e.aonprd.com/Spells.aspx?ID=318\"><em>convocation de créature artificielle</em></a> à votre liste de sort. Les créatures artificielles que vous convoquez ont l'apparence distinctive de gravures d'ivoire et si vous  ajoutez une goutte de sang, une boucle de cheveu ou une autre partie du corps d'une créature comme composante matérielle lors de l'incantation, la créature artificielle invoquée obtient un bonus de statut de +4 aux tests de Perception pour sentir ou localiser cette créature.&nbsp;</p>"
         },
         {
             "id": "Cantrip Expansion (Bard)",
@@ -1964,7 +1974,7 @@
         {
             "id": "Tiger Stance",
             "name": "Posture du tigre (Tiger Stance)",
-            "description": "<p><strong>Conditions.</strong> Vous ne portez aucune armure</p>\n<hr>\n<p>de griffe de tigre. Ces attaques infligent 1d8 dégâts tranchants, elles font partie du groupe pugilat et possèdent les traits agile, finesse, mains nues et non létal. En cas de succès critique avec vos griffes de tigre, si vous infligez des dégâts, la cible subit 1d4 dégâts de saignement persistants.</p>"
+            "description": "<p><strong>Conditions.</strong> Vous ne portez aucune armure</p>\n<hr>\n<p>de griffe de tigre. Ces attaques infligent 1d8 dégâts tranchants, elles font partie du groupe pugilat et possèdent les traits agile, finesse, mains nues et non létal. En cas de succès critique avec vos griffes de tigre, si vous infligez des dégâts, la cible subit 1d4 dégâts de saignement persistants. Tant que votre Vitesse s’élève à 6 m au moins en gardant cette posture, vous pouvez Faire un pas de 3 m.</p>"
         },
         {
             "id": "Guardian’s Deflection",
@@ -1989,7 +1999,7 @@
         {
             "id": "Minor Magic",
             "name": "Magie mineure (Minor Magic)",
-            "description": "<p>Vous avez touché à de nombreux domaines et avez ainsi acquis des pouvoirs mineurs dans une tradition magique. Choisissez une des traditions magiques suivantes, dans laquelle vous gagnez deux tours de magie sélectionnés dans la liste des tours de magie ordinaires : arcanique, divine,occulte ou primordiale. Vous utilisez le Charisme comme caractéristique essentielle d’incantation. Vous êtes formé aux DD et jets d’attaque de sorts issus de la tradition des tours de magie que vous avez choisis.</p>"
+            "description": "<p>Vous avez touché à de nombreux domaines et avez ainsi acquis des pouvoirs mineurs dans une tradition magique. Choisissez une des traditions magiques suivantes, dans laquelle vous gagnez deux tours de magie sélectionnés dans la liste des tours de magie communs : arcanique, divine,occulte ou primordiale. Vous utilisez le Charisme comme caractéristique essentielle d’incantation. Vous êtes formé aux DD et aux jets d’attaque de sorts issus de la tradition des tours de magie que vous avez choisis.</p>"
         },
         {
             "id": "Burrow Elocutionist",
@@ -2014,7 +2024,7 @@
         {
             "id": "Mindblank Mutagen",
             "name": "Mutagène d’esprit vide (Mindblank Mutagen)",
-            "description": "<p>Des ajustements mineurs à la formule de votre mutagène de sérénité vous permettent de bénéficier de protections mentales. Quand vous êtes sous l’effet d’un mutagène de sérénité, les effets de détection, de révélation et de scrutation de niveau 9 ou inférieur ne détectent rien en ce qui vous concerne vous-même, vos possessions et vos auras. Par exemple, détection de la magie détectera toujours d’autres émanations magiques dans la zone, mais aucune magie vous oncernant.</p>"
+            "description": "<p>Des ajustements mineurs à la formule de votre mutagène de sérénité vous permettent de bénéficier de protections mentales. Quand vous êtes sous l’effet d’un mutagène de sérénité, les effets de détection, de révélation et de scrutation de niveau 9 ou inférieur ne détectent rien en ce qui vous concerne vous-même, vos possessions et vos auras. Par exemple, détection de la magie détectera toujours d’autres émanations magiques dans la zone, mais aucune magie vous concernant.</p>"
         },
         {
             "id": "Hefty Hauler",
@@ -2114,7 +2124,7 @@
         {
             "id": "Clever Counterspell",
             "name": "Contresort astucieux (Clever Counterspell)",
-            "description": "<p><strong>Prerequisites</strong> Counterspell, Quick Recognize</p>\n<hr>\n<p>Votre créativité vous permet d’appliquer vos sorts préparés comme Contresorts contre un éventail de magie ennemie bien plus large. Au lieu\nde contrer un sort ennemi avec Contresort uniquement si vous avez préparé le même sort, vous pouvez utiliser Contresort tant que le sort que lance l’ennemi figure dans votre grimoire. Quand vous utilisez Contresort ainsi, le sort préparé dépensé doit partager un trait autre que sa tradition avec celui qu’il contre. Si le MJ accepte, vous pouvez à la place utiliser un sort doté d’un trait opposé ou qui contre logiquement le sort adverse (en vous servant par exemple d’un sort de froid ou d’eau pour contrer boule de feu ou délivrance de la peur pour contrer un sort de terreur). Quel que soit le sort dépensé, vous subissez un malus de −2 à votre test de contre, bien que le MJ puisse annuler ce malus si le sort dépensé est particulièrement bien approprié..</p>"
+            "description": "<p><strong>Prerequisites</strong> Contresort, Reconnaissance rapide</p>\n<hr>\n<p>Votre créativité vous permet d’appliquer vos sorts préparés comme Contresorts contre un éventail de magie ennemie bien plus large. Au lieu de contrer un sort ennemi avec Contresort uniquement si vous avez préparé le même sort, vous pouvez utiliser Contresort tant que le sort que lance l’ennemi figure dans votre grimoire. Quand vous utilisez Contresort ainsi, le sort préparé dépensé doit partager un trait autre que sa tradition avec celui qu’il contre. Si le MJ accepte, vous pouvez à la place utiliser un sort doté d’un trait opposé ou qui contre logiquement le sort adverse (en vous servant par exemple d’un sort de froid ou d’eau pour contrer boule de feu ou délivrance de la peur pour contrer un sort de terreur). Quel que soit le sort dépensé, vous subissez un malus de −2 à votre test de contresort, bien que le MJ puisse annuler ce malus si le sort dépensé est particulièrement bien approprié..</p>"
         },
         {
             "id": "Loremaster's Etude",
@@ -2219,7 +2229,7 @@
         {
             "id": "Sorcerer Dedication",
             "name": "Dévouement de l'ensorceleur (Sorcerer Dedication)",
-            "description": "<p><strong>Prérequis</strong> Charisme 14</p>\n<hr>\n<p>Choisissez un lignage. Vous devenez qualifié dans deux compétences de ce lignage ; pour chacune de ces compétences dans laquelle vous étiez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous lancez des sorts comme un ensorceleur. Vous gagnez un répertoire de sorts avec deux tours de magie commun issus de la liste de sorts associée à votre lignage, issus des sorts accordés par votre lignage ou que vous avez découverts ou appris et qui appartiennent à cette tradition. Vous obtenez un répertoire de sorts comportant deux tours de magie ordinaires issus de la liste des sorts associés à votre lignage, ou tout autre tour de magie que vous apprenez ou découvrez. Vous êtes qualifié dans les jets d’attaque de sorts et les DD de sorts pour les sorts de votre tradition. Votre caractéristique essentielle d’incantation pour les sorts de l’archétype ensorceleur est le Charisme, et il s’agit de sorts d’ensorceleur de la tradition de votre lignage. Vous ne gagnez aucune autre capacité venant du choix de votre lignage.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dé vouement avant d’avoir obtenu deux autres dons de l’archétype ensorceleur.</p>"
+            "description": "<p><strong>Prérequis</strong> Charisme 14</p>\n<hr>\n<p>Choisissez un lignage. Vous devenez qualifié dans deux compétences de ce lignage ; pour chacune de ces compétences dans laquelle vous étiez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous obtenez l'accès à l'activité Lancer un sort. Vous gagnez un répertoire de sorts avec deux tours de magie communs issus de la liste de sorts associée à votre lignage, issus des sorts accordés par votre lignage ou que vous avez découverts ou appris et qui appartiennent à cette tradition. Vous êtes qualifié dans les jets d’attaque de sorts et les DD de sorts pour les sorts de votre tradition. Votre caractéristique essentielle d’incantation pour les sorts de l’archétype ensorceleur est le Charisme et il s’agit de sorts d’ensorceleur de la tradition de votre lignage. Vous ne gagnez aucune autre capacité venant du choix de votre lignage.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype ensorceleur.</p>"
         },
         {
             "id": "Zephyr Guard Dedication",
@@ -2432,6 +2442,11 @@
             "description": "<p><strong>Déclencheur</strong> Le jet d’attaque d’une Frappe qui vous cible est un échec ou un échec critique.</p>\n<hr>\n<p>Vous faites un adroit pas de côté et laissez le coup continuer sa route vers une créature qui se trouve à vos côtés. Vous redirigez l’attaque vers une créature de votre choix, adjacente à vous et à portée de l’attaque déclencheur. L’assaillant relance le jet d’attaque de sa Frappe en prenant cette créature pour cible.</p>"
         },
         {
+            "id": "Forge-Day's Rest",
+            "name": "Repos du jour de forge (Forge-Day's Rest)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> ethnie nain sous la surface<br></span></p>\n<hr>\n<p>Votre cycle de repos inhabituel vous permet de récupérer plus vite. Tant que vous vous reposez pendant 12 heures, vous obtenez les effets du don général Récupération rapide et vous pouvez tenir 20 heures sans vous repose avant de devenir fatigué.&nbsp;</p>"
+        },
+        {
             "id": "Specialized Companion (Ranger)",
             "name": "Compagnon spécialisé (Rodeur) (Specialized Companion (Ranger))",
             "description": "<p><strong>Prérequis</strong> Formidable compagnon</p>\n<hr>\n<p>Votre compagnon animal est à présent si malin qu’il peut se spécialiser. Votre compagnon animal obtient une spécialisation de votre choix (voir la section Le compagnon animal à la page 214).</p>"
@@ -2534,7 +2549,7 @@
         {
             "id": "Gnome Weapon Familiarity",
             "name": "Familiarité avec les armes gnomes (Gnome Weapon Familiarity)",
-            "description": "<p>Vous appréciez tout particulièrement les armes étranges liées à votre peuple, comme une lame incurvée de forme singulière. Vous êtes qualifié avec la coutille et le kukri. De plus, vous avez accès aux kukris et à toutes les armes gnomes peu courantes. Afin de déterminer votre maîtrise, vous considérez les armes de guerre gnomes comme des armes simples et les armes gnomes évoluées comme des armes de guerre.</p>"
+            "description": "<p>Vous appréciez tout particulièrement les armes étranges liées à votre peuple, comme les lames incurvées de forme singulière. Vous êtes qualifié avec la coutille et le kukri. De plus, vous avez accès aux kukris et à toutes les armes gnomes peu courantes. Afin de déterminer votre maîtrise, vous considérez les armes de guerre gnomes comme des armes simples et les armes gnomes évoluées comme des armes de guerre.</p>"
         },
         {
             "id": "Combat Grab",
@@ -2634,7 +2649,7 @@
         {
             "id": "Mountain’s Stoutness",
             "name": "Robustesse de la montagne (Mountain’s Stoutness)",
-            "description": "<p>Votre robustesse vous permet d’endurer plus de dégâts avant de vous avouer vaincu. Ajoutez votre niveau à votre maximum de points de vie. Lorsque vous êtes mourant, le DD de vos tests de récupération est de 9 + l’intensité de votre état mourant (au lieu de 10 + l’intensité de votre état mourant). Si vous possédez aussi le don Robustesse, les points de vie gagnés grâce au don et à ce pouvoir sont cumulatifs et le DD de vos tests de récupération est de 6 + l’intensité de votre état mourant.</p>"
+            "description": "<p>Votre robustesse vous permet d’endurer plus de dégâts avant de vous avouer vaincu. Ajoutez votre niveau à votre maximum de points de vie. Vous diminuez le DD de vos tests de récupération lorque vous êtes mourant de 1. Si vous possédez aussi le don Robustesse, les points de vie gagnés grâce au don et à ce pouvoir sont cumulatifs et le DD de vos tests de récupération est de 6 + l’intensité de votre état mourant.</p>"
         },
         {
             "id": "Additional Lore",

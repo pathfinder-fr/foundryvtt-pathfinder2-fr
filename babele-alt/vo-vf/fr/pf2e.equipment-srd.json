@@ -17,6 +17,11 @@
             "description": "<p><span class=\"fontstyle0\">Semblable à une faucille et utilisé dans certaines régions pour récolter le grain, le kama possède une lame courte et légèrement incurvée, et un manche en bois.</span> </p>"
         },
         {
+            "id": "Rope",
+            "name": "Rope (Corde)",
+            "description": "<p>12 mètres de corde</p>"
+        },
+        {
             "id": "Chest",
             "name": "Chest (Coffre)",
             "description": "<p><span class=\"fontstyle0\">Un coffre en bois peut contenir des objets jusqu’à un Encombrement 8.</span></p>"
@@ -57,6 +62,11 @@
             "description": "<p><span class=\"fontstyle0\">Cette sacoche comprend 15 m de corde, des poulies, une douzaine de pitons, un marteau, un grappin et \nun jeu de crampons. Le kit d’escalade vous permet de vous accrocher au mur que vous escaladez, en vous déplaçant à la moitié de votre Vitesse habituelle (minimum 1,5 m), mais en vous permettant d’effectuer un test nu DD 5 lorsque vous obtenez un échec critique en voulant empêcher une chute. Vous gagnez un bonus d’objet de +1 aux tests d’Athlétisme pour Escalader si vous utilisez un kit d’escalade de l’extrême. Un kit ne contient de matériel que pour un seul grimpeur ; chaque grimpeur a besoin de son propre kit. </span> </p>"
         },
         {
+            "id": "Serene Mutagen (Lesser)",
+            "name": "Serene Mutagen (Lesser) (Mutagène de sérénité (inférieur))",
+            "description": "Vous gagnez en sérénité intérieure, vous concentrant sur les détails et renforçant votre esprit contre les assauts mentaux, mais la violence vous rebute.Le bonus est de +1 ou +2 contre les effets mentaux et la durée de 1 min."
+        },
+        {
             "id": "Gold Pieces",
             "name": "Gold Pieces (Pièces d'or)",
             "description": ""
@@ -90,6 +100,11 @@
             "id": "Leather Armor",
             "name": "Leather Armor (Armure de cuir)",
             "description": "<p><span class=\"fontstyle0\"> la seconde peau épaisse de cette armure disperse la force du choc afin de réduire les dégâts causés par des coups contondants. Vous gagnez une résistance aux dégâts contondants égale à 1 + la valeur de la rune de puissance de l’armure pour une armure intermédiaire, ou 2 + la valeur de la rune de puissance de l’armure pour une armure lourde. </span> </p>"
+        },
+        {
+            "id": "Invisibility Potion",
+            "name": "Invisibility Potion (Potion d'invisibilité)",
+            "description": "<p>Une potion d’invisibilité est incolore et étonnamment légère. En la bu‑ vant, vous gagnez les effets du sort invisibilité niveau 2.</p>"
         },
         {
             "id": "Studded Leather Armor",
@@ -142,9 +157,19 @@
             "description": "<p>Ce bouclier en acier (Solidité 6, 36 PV, SR 18) est forgé de façon à ressembler à une tête de lion rugissant. La tête de lion fonctionne comme un ombon de frappe +1 impossible à détacher du</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Lever un bouclier; <strong>Frequency</strong> 1/jour; <strong>Effet</strong> Vous animez la tête de lion. Vous Levez le bouclier et faites une Frappe au corps à corps avec lui au cours de la même action. La gueule du bouclier est une arme de guerre de corps à corps qui in‑ flige 2d6 dégâts perforants et a le trait mortelle 1d6 ; il est impossible de l’améliorer avec des runes. Pendant une minute, le bouclier reste animé et vous pouvez Frapper avec lui chaque fois que vous Levez le bouclier, ainsi qu’avec l’action Frapper.</span></p>"
         },
         {
+            "id": "Soap",
+            "name": "Soap (Savon)",
+            "description": "<p>Pain de savon</p>"
+        },
+        {
             "id": "Dogslicer",
             "name": "Dogslicer (Tranchechien)",
             "description": "<p><span class=\"fontstyle0\">Cette lame de fortune courte, incurvée et grossière, est souvent percée de trous pour en réduire le poids. C’est une arme prisée des gobelins.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
+        },
+        {
+            "id": "Caltrops",
+            "name": "Caltrops (Chausse-trappes)",
+            "description": "<p> ces pointes en métal à quatre branches infligent des dégâts aux pieds d’une créature. Vous pouvez disséminer des chaussetrappes dans une case vide adjacente grâce à une action Interagir. La première créature qui se déplace dans cette case doit réussir un test d’Acrobatie DD 14 ou subir 1d4 dégâts perforants et 1 dommage de saignement persistant. Une créature qui subit des dégâts de saignement persistants de la part de chausse-trappes subit un malus de −1,5 m à sa Vitesse. Dépenser une action Interagir pour retirer les chausse-trappes réduit le DD pour arrêter le saignement. Une fois qu’une créature a subi des dégâts de chausse-trappes, suffisamment ont été détruites pour que d’autres créatures entrant dans la case le fassent en toute sécurité. On peut récupérer les chausse-trappes déployées pour les réutiliser, à condition qu’aucune créature n’ait été blessée par elles. Dans le cas contraire, le nombre de chausse-trappes détruites est suffisant pour ne pas pouvoir les récupérer. &nbsp;</p>"
         },
         {
             "id": "Studded Leather Armor",
@@ -167,6 +192,11 @@
             "description": "<p><span class=\"fontstyle0\">Une torche émet une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà). Elle peut être utilisée comme une arme improvisée, infligeant 1d4 dégâts contondants plus 1 dégât de feu. </span> </p>"
         },
         {
+            "id": "Bedroll",
+            "name": "Bedroll (Sac de couchage)",
+            "description": "<p>Un sac de couchage enroullable</p>"
+        },
+        {
             "id": "Satchel",
             "name": "Satchel (Sacoche)",
             "description": "<p><span class=\"fontstyle0\">Une sacoche peut contenir des objets jusqu’à un Encombrement 2. Si vous transportez ou stockez une sacoche au lieu de la porter sur votre épaule, elle compte comme un Encombrement léger au lieu de négligeable.</span> </p>"
@@ -175,6 +205,11 @@
             "id": "Class Kit (Druid)",
             "name": "Class Kit (Druid) (Kit de classe (Druide))",
             "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes </strong>4 javelines, pique</div>\n<div><strong>Equipement</strong> pack aventurier, bandoulière, houx et gui</div>\n<div><strong>Options</strong> outils de guérisseur (5 po)</div>"
+        },
+        {
+            "id": "Potion of Cold Resistance (Lesser)",
+            "name": "Potion of Cold Resistance (Lesser) (Potion de résistance au froid (inférieur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre).</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>"
         },
         {
             "id": "Greataxe",
@@ -195,6 +230,11 @@
             "id": "Bolts",
             "name": "Bolts (Carreau)",
             "description": "<p><span class=\"fontstyle0\">Plus court que les flèches traditionnelles, mais de fabrication similaire, le carreau est la munition utilisée par les arbalètes.\n</span> </p>"
+        },
+        {
+            "id": "Potion of Water Breathing",
+            "name": "Potion of Water Breathing (Potion de respiration aquatique)",
+            "description": "<p>Cette potion d’un gris laiteux sent le vieux poisson pourri et son goût est encore pire. Après avoir bu cette potion, vous gagnez les effets du sort respiration aquatique au niveau 2 pendant 1 h</p>"
         },
         {
             "id": "Platinum Pieces",
@@ -242,14 +282,29 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 5, 20 PV et un SR de 10.<br /><strong>Conditions de fabrication</strong> au moins 17 pa de fer froid</span></p>"
         },
         {
+            "id": "Eagle Eye Elixir (Lesser)",
+            "name": "Eagle Eye Elixir (Lesser) (Elixir d'oeil du faucon (mineure))",
+            "description": "Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet aux tests de Perception. Il est plus important si vous tentez de repérer une porte ou une trappe secrètes. Le bonus est de +1 ou de +2 pour trouver une porte ou une trappe secrètes."
+        },
+        {
             "id": "Ghoul Hide",
             "name": "Ghoul Hide (Peau de goule)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette armure de peau <em> +1</em> cousue à partir de lambeaux de peau de goule vous donne un bonus d’objet de +1 aux jets de sauvegarde contre la maladie et la paralysie et vous immunise contre la paralysie des goules. <em>Une peau de goule</em> améliorée avec <em>une rune de résilience</em> augmente le bonus d’objet de la rune de résilience aux jets de sauvegarde contre la maladie et la paralysie de 1 (+4 au maximum).</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><em>La peau de goule</em> émet un sifflement haineux dès qu’elle entre en contact avec un elfe. Si elle est portée par une créature dotée du trait elfique, elle gagne le trait bruyante&nbsp;&nbsp;</span></p>"
         },
         {
+            "id": "Panacea",
+            "name": "Panacea (Panacée)",
+            "description": "<p>Cette potion semble changer de couleur et il n’y a pas deux personnes pour la décrire de la même manière. Une fois bue, elle tente de contrer les malédictions et maladies qui vous affectent, ainsi que les états aveugle et sourd issus de sorts vous affectant. La potion a un niveau de 7 pour contrer et un modificateur de +20 au jet.\n</p>"
+        },
+        {
             "id": "Dart",
             "name": "Dart (Fléchette)",
             "description": "<p><span class=\"fontstyle0\">Cette arme de jet est plus large qu’une flèche, mais plus courte qu’un javelot. Elle a généralement une courte tige de bois se terminant par une pointe en métal et est parfois stabilisée par des plumes ou de la fourrure.</span> </p>"
+        },
+        {
+            "id": "Potion of Resistance (Lesser)",
+            "name": "Potion of Resistance (Lesser) (Potion de résistance (inférieur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre). Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié. &nbsp;</span></p>"
         },
         {
             "id": "Reflecting Shield",
@@ -290,6 +345,16 @@
             "id": "Dancing",
             "name": "Dancing (Dansante)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une arme dansante vole de manière autonome et frappe vos ennemis. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> sur ordre, Interagir ; <strong>Effet</strong>Vous lâchez l’arme qui se met à danser dans les airs en combattant de manière indépendante le dernier ennemi que vous avez attaqué ou celui le plus proche si votre cible est vaincue. Chaque round, à la fin de votre tour, l’arme peut Voler à sa Vitesse de vol de 12 m et elle peut ensuite Voler à nouveau ou Frapper une créature à portée.<br /><br />L’arme occupe un espace de 1,50 m mais elle ne bloque pas ou ne gêne pas les ennemis qui tentent de traverser son espace. Elle ne peut pas non plus prendre un ennemi en tenaille ni bénéficier d’une prise en tenaille. L’arme ne peut pas traverser l’espace occupé par un ennemi. Elle ne peut pas utiliser de réactions et ses actions Voler ne déclenchent aucune réaction. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Tant qu’elle est activée, une arme dansante effectue des Frappes avec un modificateur d’attaque de +24 plus son bonus d’objet aux jets d’at‑ taque. Elle inflige les dégâts normaux de l’arme mais a un modificateur de Force de +0. Les pouvoirs de l’arme qui se déclenchent automatiquement en cas de coup normal ou critique fonctionnent toujours mais l’arme ne peut pas être activée ou bénéficier de vos pouvoirs lorsqu’elle danse. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque round, effectuez un test nu DD 6 quand l’arme a fini d’utiliser ses actions. En cas d’échec, l’activation se termine et l’arme tombe par terre. Vous devez attendre dix minutes avant de pouvoir réactiver l’objet.</span></p>"
+        },
+        {
+            "id": "Barkskin Potion",
+            "name": "Barkskin Potion (Potion de peau d'écorce)",
+            "description": "<p>Une fois que vous avez bu ce breuvage amer, votre peau devient aussi épaisse que de l’écorce. Vous gagnez les effets du sort peau d’écorce niveau 2 pendant 10 min.</p>"
+        },
+        {
+            "id": "Jade",
+            "name": "Jade (Jade)",
+            "description": ""
         },
         {
             "id": "Guisarme (+1)",
@@ -352,14 +417,34 @@
             "description": "<p><span class=\"fontstyle0\">un kit de réparation vous permet d’effectuer des réparations simples lorsque vous vous voyagez. Il contient une enclume portable, des pinces, des outils de menuiserie, une pierre à aiguiser et des huiles pour le conditionnement du cuir et du bois. Vous pouvez utiliser un kit de réparation pour Réparer des objets à l’aide de la compétence Artisanat. Un kit de réparation superbe accorde un bonus de +1 à votre test.</span> </p>"
         },
         {
+            "id": "Potion of Sonic Resistance (Lesser)",
+            "name": "Potion of Sonic Resistance (Lesser) (Potion de résistance au son (inférieur))",
+            "description": "<p>En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. &nbsp;</p>"
+        },
+        {
             "id": "Half Plate",
             "name": "Half Plate (Armure de plates)",
             "description": "<p><span class=\"fontstyle0\">Dans l’armure de plates, la plupart des plates supérieures du corps sont utilisées comme un harnois, avec une protection de plates en acier plus légère ou plus clairsemée pour les bras et les jambes. Elle fournit une partie de la protection du harnois, associée à davantage de souplesse et de rapidité. Une telle armure comporte également une sous-couche d’armure matelassée (voir ci-dessous) et une paire de gantelets (page 285). </span> </p>"
         },
         {
+            "id": "Gold Dragon's Breath Potion (Young)",
+            "name": "Gold Dragon's Breath Potion (Young) (Potion de souffle de dragon d'or (jeune))",
+            "description": "<p>Ce liquide contient du sang d’un type de dragon. Pendant 1 h après l’avoir bu, vous pouvez souffler comme un tel dragon. La puissance du souffle dépend du type de potion, lui‑même basé sur l’âge du dragon dont le sang figure dans la potion. Cette dernière possède le trait cor‑ respondant au type de dégâts qu’inflige le souffle. </p>\n<p>Il suffit d’une action unique pour souffler. Le type de dégâts et la zone affectée dépendent du type de dragon dont le sang se trouve dans la potion, comme indiqué dans le tableau un peu plus loin. Quel que soit le type du dragon, le souffle inflige 4d6 dégâts et chaque créa‑ ture dans la zone touchée doit faire un jet de sauvegarde basique DD 23, d’un type déterminé par celui du dragon. </p>\n<p>Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds.</p>\n<p>Or ou rouge cône de feu de 4,5 m (Réflexes)</p>"
+        },
+        {
+            "id": "Waterskin",
+            "name": "Waterskin (Outre)",
+            "description": "<p><span class=\"fontstyle0\">quand elle est remplie, une outre a un Encombrement L et contient environ l’équivalent d’1 jour d’eau pour une créature de taille Petite ou Moyenne.</span> </p>"
+        },
+        {
             "id": "Sack",
             "name": "Sack (Sac)",
             "description": "<p>Un sac peut contenir des objets jusqu’à un Encombrement 8. Un sac contenant un Encombrement 2 ou moins peut être porté sur le corps, généralement noué à la ceinture. Vous pouvez porter un sac d’une seule main, mais vous devez utiliser les deux mains pour y transférer des objets ou les en retirer. &nbsp;</p>"
+        },
+        {
+            "id": "Potion of Fire Resistance (Lesser)",
+            "name": "Potion of Fire Resistance (Lesser) (Potion de résistance au feu (inférieure))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre).</em>&nbsp;is created to defend against acid, cold, electricity, fire, or sonic damage (and is called a&nbsp;<em>lesser potion of fire resistance</em>&nbsp;or the like).</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>"
         },
         {
             "id": "Sap",
@@ -402,6 +487,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les vêtements ordinaires sont des habits fonctionnels à la confection basique, comme les vêtements des paysans, les robes des moines ou les vêtements de travail. Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure. Pour plus d’informations sur les vêtements d’explorateur, reportez-vous à la page 276. &nbsp;</span></p>"
         },
         {
+            "id": "Caltrop Snare",
+            "name": "Caltrop Snare (Piège artisanal de chausse-trappes)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">T<p><span id=\"ctl00_MainContent_DetailedOutput\">This snare consists of a hidden canister of caltrops attached to a trip wire. When the snare is triggered, it flings the caltrops into either the snare&rsquo;s square or a square adjacent to the snare. You choose which square when you set up the snare.<br /></span></p>\n<p>If the caltrops scatter into the same square as a creature, that creature must attempt the Acrobatics check immediately.</p>\n<hr />\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Craft Requirements</strong>&nbsp;Supply a container of caltrops.</span></p>\n<br /></span></p>\n<p>Si les chausse‑trappes se déversent dans une case occupée par une créature, celle‑ci doit immédiatement faire un test d’Acrobaties. </p>\n<hr />\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>&nbsp;Fournir une boîte de chausse‑trappes</span></p>"
+        },
+        {
             "id": "Class Kit (Rogue)",
             "name": "Class Kit (Rogue) (Kit de classe (Roublard))",
             "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes</strong> dague, rapière</div>\n<div><strong>Equipement</strong> pack d’aventurier, kit d’escalade, gaine</div>\n<div><strong>Options</strong> outils de voleur (3 po)</div>"
@@ -412,6 +502,16 @@
             "description": "<p>Un pic de guerre léger est un outil minier modifié, avec un manche en bois se terminant par une tête de pioche, conçu pour perforer l’armure et la chair plutôt que briser les rochers.</p>"
         },
         {
+            "id": "Flint and Steel",
+            "name": "Flint and Steel (Silex et amorce)",
+            "description": "<p><span class=\"fontstyle0\">Les silex et amorces sont utiles pour allumer un feu si vous avez le temps de capter une étincelle, mais leur utilisation prend généralement trop de temps pour être pratique lors d’une rencontre. Même dans des conditions idéales, l’utilisation des silex et amorces pour générer une flamme nécessite au moins 3 actions, et souvent beaucoup plus de temps</span></p>"
+        },
+        {
+            "id": "Healing Potion (Lesser)",
+            "name": "Healing Potion (Lesser) (Potion de soin (inférieur))",
+            "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué.La potion rend 2d8+5 points de vie </p>"
+        },
+        {
             "id": "Scale Mail",
             "name": "Scale Mail (Armure d'écailles)",
             "description": "<p><span class=\"fontstyle0\">L’armure d’écailles est composée de nombreuses écailles en métal cousues sur un support en cuir renforcé, souvent sous la forme d’une longue chemise protégeant le torse, les bras et les jambes.</span> </p>"
@@ -420,6 +520,11 @@
             "id": "Short Tool",
             "name": "Short Tool (Outil)",
             "description": "<p><span class=\"fontstyle0\">cette entrée est un fourre-tout réunissant les outils manuels de base qui n’ont pas d’objectif spécifique pour l’aventure. Une houe, une pelle ou une masse est un outil long, tandis qu’un foret à main, un crochet à glace ou une truelle est un outil court. Un outil peut en général être utilisé comme une arme improvisée, infligeant 1d4 dégâts pour un outil court ou 1d6 pour un outil long. Le MJ détermine le type de  dégâts approprié ou l’adapte si nécessaire.</span> </p>"
+        },
+        {
+            "id": "Potion of Leaping",
+            "name": "Potion of Leaping (Potion de saut)",
+            "description": "<p>Pendant 1 min après avoir bu cette potion pétillante, dès que vous sau‑ tez, vous gagnez les effets du sort saut au niveau 1.</p>"
         },
         {
             "id": "Spellguard Shield",
@@ -472,6 +577,21 @@
             "description": ""
         },
         {
+            "id": "Silver Dragon's Breath Potion (Young)",
+            "name": "Silver Dragon's Breath Potion (Young) (Potion de souffle de dragon d'argent (jeune))",
+            "description": "<p>Ce liquide contient du sang d’un type de dragon. Pendant 1 h après l’avoir bu, vous pouvez souffler comme un tel dragon. La puissance du souffle dépend du type de potion, lui‑même basé sur l’âge du dragon dont le sang figure dans la potion. Cette dernière possède le trait cor‑ respondant au type de dégâts qu’inflige le souffle. </p>\n<p>Il suffit d’une action unique pour souffler. Le type de dégâts et la zone affectée dépendent du type de dragon dont le sang se trouve dans la potion, comme indiqué dans le tableau un peu plus loin. Quel que soit le type du dragon, le souffle inflige 4d6 dégâts et chaque créa‑ ture dans la zone touchée doit faire un jet de sauvegarde basique DD 23, d’un type déterminé par celui du dragon. </p>\n<p>Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds.</p>\n<p>Argent ou blanc : cône de froid de 4,5 m (Réflexes)</p>"
+        },
+        {
+            "id": "Elixir of Life (Minor)",
+            "name": "Elixir of Life (Minor) (Elixir de vie (mineur))",
+            "description": "L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez le nombre de points de vie indiqué et gagnez un bonus d’objet aux jets de sauvegarde contre la maladie et le poison pendant 10 min. L’élixir restaure 1d6 points de vie, le bonus est de +1."
+        },
+        {
+            "id": "Storm Arrow",
+            "name": "Storm Arrow (Flèche d'orage)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La tête de cette flèche est faite de cuivre luisant. Quand une <em>flèche d’orage</em> activée touche une cible, cette dernière est battue par des vents cinglants et frappée par un éclair lui infligeant 3d12 dégâts d’électricité. Elle doit faire un jet de Réflexes DD 25. Si cette flèche est tirée à l’aide d’une arme disposant de la rune de propriété foudre, le DD du jet de sauvegarde passe à 27, bien que l’attaque ne bénéficie pas de la rune de propriété foudre elle‑même.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès critique</strong> L’ennemi n’est pas affecté<br><strong>Succès</strong> L’ennemi subit la moitié des dégâts et n’est pas affecté par le vent. <br><strong>Echec</strong> L’ennemi subit la totalité des dégâts. Les vents le fouettent pendant 1 round, lui infligeant un malus de −2 aux jets d’attaque à distance et un malus de −3 à la Vitesse de vol<br><strong>Echec critique</strong>  Comme pour un échec, mais l’ennemi subit des dégâts doublés.\n</span></p>"
+        },
+        {
             "id": "Flaming",
             "name": "Flaming (Enflammée)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une flamme vacillante donne à cette arme son pouvoir. L’arme inflige 1d6 dégâts de feu supplémentaires en cas de Frappe réussie, plus 1d10 dégâts de feu persistants en cas de coup critique</span></p>"
@@ -497,6 +617,16 @@
             "description": ""
         },
         {
+            "id": "Jade Cat",
+            "name": "Jade Cat (Chat de jade)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Félin de la taille d’un pouce sculpté dans une pierre rare, le chat de jade se porte en pendentif sur une armure. Pendant 1 min après son activation, vous considérez toutes vos chutes comme plus courtes de 6 m qu’en réalité, vous n’êtes pas pris au dépour‑ vu lorsque vous Gardez l’équilibre et les surfaces étroites et le sol irrégulier ne constituent pas un terrain difficile pour vous.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> sur ordre; <strong>Déclencheur</strong> Vous ratez ou tentez un test d’Acrobaties pour Garder l’équilibre; <strong>Conditions</strong>  Vous êtes qualifié en Acrobaties.</span></p>"
+        },
+        {
+            "id": "Cheetah's Elixir (Lesser)",
+            "name": "Cheetah's Elixir (Lesser) (Elixir du guépard (inférieur))",
+            "description": "Les composés enzymatiques de cet élixir renforcent et excitent les muscles de vos jambes. Le bonus est de +1,5 m et la durée de 1 min."
+        },
+        {
             "id": "Buckler",
             "name": "Buckler (Targe)",
             "description": "<p><span class=\"fontstyle0\">Ce très petit bouclier est le favori des duellistes et des guerriers rapides dotés d’armures légères. Il est généralement fabriqué en acier et attaché à votre avant-bras. Vous  pouvez Lever un bouclier avec votre targe tant que vous avez cette main libre ou que vous tenez dans cette main un objet léger qui n’est pas une arme.</span></p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">6</td>\n<td style=\"height: 17px; width: 116px;\">3</td>\n</tr>\n</tbody>\n</table>"
@@ -512,6 +642,11 @@
             "description": "<p>Ce bouclier en acier (Solidité 6, 36 PV, SR 18) est forgé de façon à ressembler à une tête de lion rugissant. La tête de lion fonctionne comme un ombon de frappe +1 impossible à détacher du bouclier. </p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Lever un bouclier; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous animez la tête de lion. Vous Levez le bouclier et faites une Frappe au corps à corps avec lui au cours de la même action. La gueule du bouclier est une arme de guerre de corps à corps qui in‑ flige 2d6 dégâts perforants et a le trait mortelle 1d6 ; il est impossible de l’améliorer avec des runes. Pendant une minute, le bouclier reste animé et vous pouvez Frapper avec lui chaque fois que vous Levez le bouclier, ainsi qu’avec l’action Frapper.</span></p>"
         },
         {
+            "id": "Copper Pieces",
+            "name": "Copper Pieces (Pièces de cuivre)",
+            "description": ""
+        },
+        {
             "id": "Artisan’s Tools",
             "name": "Artisan’s Tools (Outils d'artisan)",
             "description": "<p>Vous avez besoin de ces outils pour créer, au moyen de la compétence Artisanat, des objets à partir de matériaux. Les outils d’artisan excellents accordent un bonus de +1 à votre test. Il faut des jeux d’outils différents pour effectuer différents travaux, tels que déterminés par le MJ ; ainsi, les outils de forgeron diffèrent des outils de menuisier. &nbsp;</p>"
@@ -520,6 +655,11 @@
             "id": "Wooden Shield",
             "name": "Wooden Shield (Bouclier en bois)",
             "description": "<p><span class=\"fontstyle0\">Même s’ils se présentent sous toute une variété de formes et de tailles, l’abri offert par les boucliers en bois provient de la robustesse des matériaux dans lesquels ils sont conçus. Le bouclier en bois est moins cher que le bouclier en acier, mais il se brise plus facilement. </span></p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">12</td>\n<td style=\"height: 17px; width: 116px;\">6</td>\n</tr>\n</tbody>\n</table>"
+        },
+        {
+            "id": "Shrinking Potion",
+            "name": "Shrinking Potion (Potionde rétrécissement (standard))",
+            "description": "<p>Cette potion au goût de champignon agit comme rétrécir pour rapetis‑ ser votre personne et votre équipement. Une fois le délai écoulé, vous restez petit pendant 10 min.</p>\n<p><strong>Délai</strong> 1 minute</p>"
         },
         {
             "id": "Floating Shield",
@@ -547,9 +687,19 @@
             "description": "<p><span class=\"fontstyle0\">Une cotte de mailles est composée de plusieurs pièces d’armure constituées de petits anneaux en métal reliés entre eux par un maillage protecteur. Elle comprend généralement une chemise de mailles, des jambières, deux bras et une coiffe pour la tête, protégeant conjointement la plus grande partie du corps.</span> </p>"
         },
         {
+            "id": "Red Dragon's Breath Potion (Young)",
+            "name": "Red Dragon's Breath Potion (Young) (Potion de souffle de dragon rouge (jeune))",
+            "description": "<p>Ce liquide contient du sang d’un type de dragon. Pendant 1 h après l’avoir bu, vous pouvez souffler comme un tel dragon. La puissance du souffle dépend du type de potion, lui‑même basé sur l’âge du dragon dont le sang figure dans la potion. Cette dernière possède le trait cor‑ respondant au type de dégâts qu’inflige le souffle. </p>\n<p>Il suffit d’une action unique pour souffler. Le type de dégâts et la zone affectée dépendent du type de dragon dont le sang se trouve dans la potion, comme indiqué dans le tableau un peu plus loin. Quel que soit le type du dragon, le souffle inflige 4d6 dégâts et chaque créa‑ ture dans la zone touchée doit faire un jet de sauvegarde basique DD 23, d’un type déterminé par celui du dragon. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds. </p>\n<p>Or ou rouge : cône de feu de 4,5 m (Réflexes) </p>"
+        },
+        {
             "id": "Healing Potion (Minor)",
             "name": "Healing Potion (Minor) (Potion de guérison)",
             "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué. </p>"
+        },
+        {
+            "id": "Truth Potion",
+            "name": "Truth Potion (Potion de vérité)",
+            "description": "<p>Pendant 10 min après avoir bu cette potion astringente, vous ne pou‑ vez plus mentir intentionnellement et vous êtes obligé de dire la vérité. Faites un jet de Volonté DD 19 lorsque vous buvez cette potion. Vous pouvez faire un échec ou un échec critique volontairement. </p>\n<p><strong>Succès</strong>  La potion ne vous affecte pas</p>\n<p><strong>Echec</strong> Lorsque vous parlez, vous devez dire la vérité.</p>\n<p><strong>Echec critique</strong> Comme l’échec. Quand quelqu’un vous pose une question, vous devez faire un autre jet de Volonté DD 19. En cas d’échec, vous devez répondre honnêtement à la question si possible, en cas de succès vous êtes temporairement immunisé contre cette question pendant toute la durée de la potion. </p>"
         },
         {
             "id": "Class Kit (Cleric)",
@@ -575,6 +725,11 @@
             "id": "Class Kit (Wizard)",
             "name": "Class Kit (Wizard) (Kit de classe (Magicien))",
             "description": "<div><strong>Armes </strong>Bâton</div>\n<div><strong>Equipementr</strong>Pack d’aventurier, bourse de composants matériels, nécessaire d’écriture</div>\n<div><strong>Options</strong> arbalète avec 20 carreaux (3 po, 2 pa) </div>"
+        },
+        {
+            "id": "Juggernaut Mutagen (Lesser)",
+            "name": "Juggernaut Mutagen (Lesser) (Mutagène de Juggernaut (inférieur))",
+            "description": "Après avoir bu ce mutagène, votre corps devient plus imposant et robuste. Vous rayonnez de santé, mais vous devenez lourdaud et peu observateur. Le bonus est de +1, vous gagnez 5 points de vie temporaires et la durée est de 1 min."
         },
         {
             "id": "Rations",
@@ -612,6 +767,11 @@
             "description": "<p><span class=\"fontstyle0\">Parfois appelé haubert, c’est une longue chemise constituée des mêmes anneaux en métal que la cotte de mailles. Cependant, elle est beaucoup plus légère que cette dernière et ne protège que le torse, les bras et les cuisses de son porteur. </span> </p>"
         },
         {
+            "id": "Chalk",
+            "name": "Chalk (Craie)",
+            "description": ""
+        },
+        {
             "id": "Longsword",
             "name": "Longsword (Epée longue)",
             "description": "<p>L’épée longue peut avoir un ou deux tranchants. Sa lame est lourde et mesure entre 1 et 1,20 m de long.</p>"
@@ -637,6 +797,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef‑ fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 5, 20 PV et un SR de 10. <br><strong>Conditions de fabrication</strong> au moins 55 po de mithral &nbsp;</span></p>"
         },
         {
+            "id": "Rapier",
+            "name": "Rapier (Rapière)",
+            "description": "<p><span class=\"fontstyle0\">La rapière est une longue et fine lame perforante, avec une garde en coupe. Elle est prisée de beaucoup en tant qu’arme de duel. </span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
+        },
+        {
             "id": "Greatpick",
             "name": "Greatpick (Grand pic de guerre)",
             "description": "<p>Ce pic de guerre possède un manche plus long et une tête plus large qu’un pic de guerre ordinaire. Il est trop lourd pour pouvoir être manié d’une seule main.</p>"
@@ -652,6 +817,11 @@
             "description": "<p><span class=\"fontstyle0\">On peut utiliser ce bouclier imposant pour abriter presque la totalité du corps. En raison de sa taille, il est généralement fabriqué en bois renforcé de métal.</span> Pour bénéficier du bonus le plus élevé avec un Pavois (+4), vous devez utiliser l’action Mise à l’abri (page 471) alors que le bouclier est levé.</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">5</td>\n<td style=\"height: 17px; width: 115px;\">20</td>\n<td style=\"height: 17px; width: 116px;\">10</td>\n</tr>\n</tbody>\n</table>"
         },
         {
+            "id": "Potion of Acid Resistance (Lesser)",
+            "name": "Potion of Acid Resistance (Lesser) (Potion de résistance à l'acide (inférieur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre).</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>"
+        },
+        {
             "id": "Backpack",
             "name": "Backpack (Sac à dos)",
             "description": "<p>Un sac à dos peut contenir des objets jusqu’à un Encombrement 4. Si vous transportez ou stockez le sac plutôt que de l’avoir sur le dos, son Encombrement devient léger à la place de négligeable. Les deux premiers Encombrements que vous rangez dans votre  sac à dos ne sont pas pris en compte dans votre limite  d’Encombrement.\n.&nbsp;</p>"
@@ -662,9 +832,19 @@
             "description": "<p><span class=\"fontstyle0\">Les vêtements d’hiver annulent les dégâts dus à un froid important issu de l’environnement et de réduisent les dégâts de froid extrême à de simples dégâts de froid important. </span> </p>"
         },
         {
+            "id": "Healing Potion (Moderate)",
+            "name": "Healing Potion (Moderate) (Potion de guérison (modéré))",
+            "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué. La potion rend 3d8+10 points de vie. </p>"
+        },
+        {
             "id": "Sickle",
             "name": "Sickle (Serpe)",
             "description": "<p>à l’origine un outil agricole utilisé pour faucher le grain, cette arme à une main possède un court manche en bois se terminant par une lame incurvée, parfois affûtée des deux côtés.</p>"
+        },
+        {
+            "id": "Darkvision Elixir (Lesser)",
+            "name": "Darkvision Elixir (Lesser) (Elixir de vision dans le noir (mineure))",
+            "description": "Une fois que vous avez bu cet élixir, votre vue devient plus perçante dans les ténèbres. Vous gagnez vision dans le noir pour la durée indiquée. La durée est de 10 min."
         },
         {
             "id": "Full Plate",
@@ -672,9 +852,19 @@
             "description": "<p><span class=\"fontstyle0\">Le harnois est constitué de plates imbriquées enveloppant la quasi-totalité du corps dans une carapace en acier. Il est coûteux et lourd, et le porteur a souvent besoin d’aide pour l’enfiler correctement, mais il fournit certaines des meilleures défenses qu’une armure puisse procurer. Une telle armure comporte également </span>&nbsp; <span class=\"fontstyle0\"> une sous-couche d’armure matelassée (voir ci-dessous) et une paire de gantelets (page 285).</span> </p>"
         },
         {
+            "id": "Potion of Electricity Resistance (Lesser)",
+            "name": "Potion of Electricity Resistance (Lesser) (Potion de résistance à l'électricité (inférieur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre). </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>"
+        },
+        {
             "id": "Halberd (+1)",
             "name": "Halberd (+1) (Hallebarde (+1))",
             "description": "<p>cette arme d’hast possède un manche relativement court de 1,5 m. Son extrémité dangereuse est une longue pointe attachée avec une lame de hache.</p>\n<p>Cette arme pooède &nbsp;<em>une rune de puissance d'arme +1</em>&nbsp; (Bonus d'objet +1 sur les jets d'attaque avec cette arme).</p>"
+        },
+        {
+            "id": "Potion of Swimming (Moderate)",
+            "name": "Potion of Swimming (Moderate) (Potion de nage (modéré))",
+            "description": "<p>Un dépôt sablonneux occupe le fond de cette fiole de potion au goût d’eau de mer. Lorsque vous la buvez, vous bénéficiez d’une Vitesse de nage égale à votre Vitesse au sol pendant 10 min. </p>"
         },
         {
             "id": "Spined Shield",
@@ -710,6 +900,11 @@
             "id": "Class Kit (Wizard)",
             "name": "Class Kit (Wizard) (Kit de classe (Magicien))",
             "description": "<div><strong>Armes </strong>bâton</div>\n<div><strong>Equipement </strong> pack d’aventurier, bourse de composants matériels,\nnécessaire d’écriture\n</div>\n<div><strong>Options </strong> arbalète avec 20 carreaux (3 po, 2 pa)</div>"
+        },
+        {
+            "id": "Healer’s Tools",
+            "name": "Healer’s Tools (Outils de guérisseur)",
+            "description": "<p><span class=\"fontstyle0\"> Cette trousse, contenant des bandages, des herbes et des outils de suture, est nécessaire aux tests de Médecine pour Prodiguer les premiers soins, Soigner une maladie, Soigner un empoisonnement ou Soigner les blessures. Les outils de guérisseur complets fournissent un bonus d’objet de +1 à de tels tests. Lorsque vous transportez ces outils d’un endroit à un autre, vous gardez la plupart des composants à portée de la main, dans vos poches ou dans vos bandoulières. </span> </p>"
         },
         {
             "id": "Arrow-Catching Shield",
