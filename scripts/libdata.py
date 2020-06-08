@@ -106,3 +106,9 @@ def dataToFile(data, filepath):
       df.write(data['descrFR'] + '\n')
 
   return data
+
+#
+# retourne vrai si l'entrée est valide
+#
+def isValid(data):
+  return data['nameFR'] and len(data['nameFR']) > 0

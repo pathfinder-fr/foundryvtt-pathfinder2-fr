@@ -3,7 +3,7 @@
     "entries": [
         {
             "id": "Observed",
-            "name": "Observé",
+            "name": "Observed (Observé)",
             "description": "<p><span style=\"color: #0f0f0f; font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif; font-size: 15px; background-color: #ededed;\">Tout ce qui est dans votre ligne de mire est observé par vos soins. Si une créature prend des mesures pour éviter la détection, comme utiliser sa Discrétion pour Se cacher, elle peut devenir @Compendium[pf2e.conditionspf2e.iU0fEDdBp3rXpTMC]{Cachée} oi @Compendium[pf2e.conditionspf2e.VRSef5y1LmL2Hkjf]{Non détectée} à la place d'observée. If you have another precise sense instead of or in addition to sight, you might be able to observe a creature or object using that sense instead. You can observe a creature only with precise senses. When Seeking (@Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek}) a creature using only imprecise senses, it remains hidden, rather than observed.</span></p>"
         }
     ]

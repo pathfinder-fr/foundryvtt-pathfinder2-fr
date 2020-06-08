@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*-
 
 BABELE="../babele/fr/"
+BABELE_VF_VO="../babele-alt/vf-vo/fr/"
+BABELE_VO_VF="../babele-alt/vo-vf/fr/"
+BABELE_VO="../babele-alt/vo/fr/"
 
 TRANSL={
   'pf2e.actionspf2e': { 'label': "Actions", 'path': "../data/actions/" },
@@ -18,72 +21,55 @@ TRANSL={
 import json
 import os             
 
+from libdata import *
+
 for key in TRANSL: 
   path = TRANSL[key]['path']
   all_files = os.listdir(path)
 
-  data = { 
-    'label': TRANSL[key]['label'],
-    'entries': []
-  }
+  babele     = { 'label': TRANSL[key]['label'], 'entries': [] }
+  babeleVfVo = { 'label': TRANSL[key]['label'], 'entries': [] }
+  babeleVoVf = { 'label': TRANSL[key]['label'], 'entries': [] }
+  babeleVo   = { 'label': TRANSL[key]['label'], 'entries': [] }
 
-  count = { "non": 0, "libre": 0, "officielle": 0, "changé": 0 }
+  count = { "aucune": 0, "libre": 0, "officielle": 0, "changé": 0 }
     
   # read all files in folder
   for fpath in all_files:
     
-    # read all lines in f
-    with open(path + fpath, 'r') as f:
-      content = f.readlines()
-    
-    nameEN = ""
-    nameFR = ""
-    descr = ""
-    status = ""
-    isDesc = False  
-    
-    for line in content:
-      if isDesc:
-        descr += line
-      elif line.startswith("Name:"):
-        nameEN = line[5:].strip()
-      elif line.startswith("Nom:"):
-        nameFR = line[4:].strip()
-      elif line.startswith("État:"):
-        status = line[5:].strip()
-      elif line.startswith("------ Description (fr) ------"):
-        isDesc = True
-
-    if len(nameFR) == 0 and len(descr.replace('\n','').strip()) == 0:
-      count["non"]+=1
+    data = fileToData(path + fpath)
+    if data['status'] == 'aucune':
       continue
-    
-    if status == "libre":
-      count["libre"]+=1
-    elif status == "officielle":
-      count["officielle"]+=1
-    elif status == "changé":
-      count["changé"]+=1
-    elif status == "doublon":
-      continue
-    elif status == "aucune":
+    elif not isValid(data):
+      print("Skipping invalid entry %s" % path + fpath)
       continue
     else:
-      print("Status error for : %s (%s.%s)" % (nameEN, key, fpath));
-      exit(1)
+      count[data['status']] += 1
     
-    entry = { 'id': nameEN }
-    if len(nameFR) > 0:
-      entry['name'] = nameFR
-    if len(descr.replace('\n','').strip()) > 0:
-      entry['description'] = descr
-    data['entries'].append(entry)
-        
+    # default (all translations in french
+    entry = { 'id': data['nameEN'], 'name': data['nameFR'], 'description': data['descrFR'] }
+    babele['entries'].append(entry)
+    # vf-vo
+    entry = { 'id': data['nameEN'], 'name': ("%s (%s)" % (data['nameFR'], data['nameEN'])), 'description': data['descrFR'] }
+    babeleVfVo['entries'].append(entry)
+    # vo-vf
+    entry = { 'id': data['nameEN'], 'name': ("%s (%s)" % (data['nameEN'], data['nameFR'])), 'description': data['descrFR'] }
+    babeleVoVf['entries'].append(entry)
+    # vo
+    entry = { 'id': data['nameEN'], 'name': data['nameEN'], 'description': data['descrFR'] }
+    babeleVo['entries'].append(entry)
 
   with open(BABELE + key + ".json", 'w', encoding='utf-8') as f:
-    json.dump(data, f, ensure_ascii=False, indent=4)
+    json.dump(babele, f, ensure_ascii=False, indent=4)
+  with open(BABELE_VF_VO + key + ".json", 'w', encoding='utf-8') as f:
+    json.dump(babeleVfVo, f, ensure_ascii=False, indent=4)
+  with open(BABELE_VO_VF + key + ".json", 'w', encoding='utf-8') as f:
+    json.dump(babeleVoVf, f, ensure_ascii=False, indent=4)
+  with open(BABELE_VO + key + ".json", 'w', encoding='utf-8') as f:
+    json.dump(babeleVo, f, ensure_ascii=False, indent=4)
+
 
   print("Statistiques: " + TRANSL[key]['label']);
   print(" - Traduits: %d (officielle) %d (libre)" % (count["officielle"], count["libre"]));
   print(" - Changé: %d" % count["changé"]);
-  print(" - Non-traduits: %d" % count["non"]);
+  print(" - Non-traduits: %d" % count["aucune"]);
