@@ -28,6 +28,10 @@ Pour appliquer les traductions, il faut installer le module Babele et pointer ve
 * [Prérequis] Installer et activer le module [Babele](https://gitlab.com/riccisi/foundryvtt-babele)
 * Installer ce module manuellement avec le manifest `https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/module.json`
 * Configurer Babele pour pointer les traductions vers le répertoire `modules/pf2-fr/babele`
+* Configuration alternatives possibles:
+  * `modules/pf2-fr/babele-alt/vf-vo`: noms au format "nom fr (nom en)" et description fr
+  * `modules/pf2-fr/babele-alt/vo-vf`: noms au format "nom en (nom fr)" et description fr
+  * `modules/pf2-fr/babele-alt/vo`: noms conservés dans leur version originale (en) mais description en français
 * Enjoy!
 
 ## Ressources utiles
