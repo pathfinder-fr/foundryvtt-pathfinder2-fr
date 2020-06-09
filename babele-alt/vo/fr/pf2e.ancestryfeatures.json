@@ -22,9 +22,29 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les dents que vous avez héritées de votre famille constituent une arme formidable. Vous gagnez une attaque à mains nues de mâchoires qui inflige 1d6 dégâts perforants. Vos mâchoires font partie du groupe pugilat et possèdent les traits finesse et mains nues.&nbsp;</span></p>"
         },
         {
+            "id": "Sandstrider Lizardfolk",
+            "name": "Sandstrider Lizardfolk",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos écailles épaisses vous aident à retenir l'eau et à combattre la brûlure du soleil. Vous obtenez une résistance au feu égale à la moitié de votre niveau (minimum 1). Les effets de chaleur de votre environnement sont d'un rang moins extrèmes pour vous et vous pouvez tenir 10 fois plus longtemps que la normale avant d'être affecté par la faim ou la soif. Quoi qu'il en soit, à moins de protéger un équipement protecteur ou de trouver refuge, les effets de froid dus à votre environnement sont un rang plus extrême pour vous.&nbsp;</span></p>"
+        },
+        {
+            "id": "Warrenbred Hobgoblin",
+            "name": "Warrenbred Hobgoblin",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancètres vivianet sous terre. Vos oreilles sont plus grandes que celles des autres hobgobelins et sensibles aux échos. Lorsque vous êtes sous terre, vous pouvez utiliser l'action Chercher pour repérer des créature non détectées dans une émanation de 9 m au lieu de 4,5 m. En plus, si vous obtenez un succès sur un test d'Acrobatie pour vous Faufiler, vous obtenez un succès critique à la place.&nbsp;</span></p>"
+        },
+        {
+            "id": "Runtboss Hobgoblin",
+            "name": "Runtboss Hobgoblin",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous descendez d'une longue lignée d'hobgobelins qui ont commandé des gobelins. Vous êtes plus petits que les autres hobgobelins, mais les gobelins écoutent toujours chacun des ordres que vous beuglez. Vous obtenez le don de compétence Contraindre un groupe. Si vous obtenez un Succès sur un test d'Intimidation pour Contraindre un gobelin (mais pas les autres créatures avec le trait gobelin), vous obtenez un succès critique à la place ; si vous obtenez un échec critique, vous obtenez un échec à la place.&nbsp;</span></p>"
+        },
+        {
             "id": "Chameleon Gnome",
             "name": "Chameleon Gnome",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La couleur de vos cheveux et de votre peau peut changer, peut-être grâce à une magie latente qui coule dans vos veines. Vous pouvez ainsi lentement en modifier l’éclat et la couleur exacte. Cette coloration n’est pas nécessairement uniforme et vous pouvez créer des motifs ou des dessins colorés sur votre corps. Vous devez utiliser une action unique pour effectuer des changements mineurs sur votre corps, ou consacrer une heure aux changements importants qui affectent tout votre corps. Quand vous dormez, ces couleurs changent naturellement en fonction de vos rêves et vous vous réveillez chaque matin avec un coloris inattendu. Quand vous vous trouvez dans un endroit où votre coloration est proche de la couleur de votre environnement (par exemple, un vert végétal dans une forêt), vous pouvez utiliser une action unique pour faire des modifications mineures et localisées qui vous permettront de mieux vous fondre dans votre environnement. Vous gagnez ainsi un bonus de circonstances de +2 à vos tests de Discrétion jusqu’à ce quevotre environnement change de couleur ou de motifs.&nbsp;</span></p>"
+        },
+        {
+            "id": "Keen Eyes",
+            "name": "Keen Eyes",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos yeux sont particulièrement exercés, vous permettant de remarquer de petits détails concernant les créatures camouflées ou même invisibles que d'autres pourraient manquer. Vous obtenez un bonus de circonstance de +2 lorsque'elle utilise l'action Chercher pour trouver des créatures cachées ou non détectées dans un rayon de 9 m. Lorsque vous ciblez un adversaire qui est camouflé ou caché en ce qui vous concerne, réduisez le DD du test nu à 3 pour une cible camouflée ou à 9 pour celle qui est cachée.&nbsp;</span></p>"
         },
         {
             "id": "Umbral Gnome",
@@ -77,6 +97,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Soit l’un de vos parents était un elfe, soit les deux étaient des demi-elfes. Vos oreilles pointues et d’autres signes trahissent votre ascendance elfique. Vous gagnez le trait elfe et le pouvoir vision nocturne. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des elfes, des demi-elfes et des humains.&nbsp;</span></p>"
         },
         {
+            "id": "Tailed Goblin",
+            "name": "Tailed Goblin",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous disposez d'une queue puissante, sans doute parce que vous descendez d'une communauté de singes gobelins. Vous bénéficiez d'un bonus de circonstance de +2 aux tests d'Athlétisme pour Escalader, vous obtenez Combattant grimpeur comme don supplémentaire et vous réduisez de une le nombre de mains libres nécessaires pour Escalader ou faire un Croc-en-jambe.&nbsp;</span></p>"
+        },
+        {
             "id": "Cavern Elf",
             "name": "Cavern Elf",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes né ou avez passé de nombreuses années dans des tunnels souterrains ou des cavernes, dans un environnement très sombre. Vous gagnez vision dans le noir.&nbsp;</span></p>"
@@ -122,6 +147,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Habitué à la vie calme des collines, vous tirez un bénéfice particulièrement important du repos et de la relaxation, notamment quand vous profitez des joies du confort matériel. Quand vous regagnez des points de vie pendant la nuit, ajoutez-y votre niveau. Quand quelqu’un fait appel à la compétence Médecine pour Soigner vos blessures, vous pouvez manger un en-cas pour ajouter votre niveau à la quantité de points de vie que vous gagnez grâce à ces soins.&nbsp;</span></p>"
         },
         {
+            "id": "Frilled Lizardfolk",
+            "name": "Frilled Lizardfolk",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez gonflez votre colerette au tour du cou et tordre votre épine dorsale pour Démoraliser vos ennemis. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous essayez de démoraliser une créature qui ne comprend pas votre langue. Vous obtenez également l'action Approche menaçante.</span></p>\n @Compendium[pf2e.actionspf2e.W4M8L9WepGLamlHs]{Approche menaçante}"
+        },
+        {
             "id": "Strong-Blooded Dwarf",
             "name": "Strong-Blooded Dwarf",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre sang, vigoureux et tonique, vous permet de mieux résister aux toxines. Vous gagnez une résistance au poison égale à la moitié de votre niveau (avec un minimum de 1) et, à chaque fois que vous obtenez un succès à un jet de sauvegarde contre un poison, vous réduisez son stade de 2, ou de 1 s’il s’agit d’un poison virulent. Chaque succès critique contre un poison qui est en train de vous affecter réduit son stade de 3, ou de 2 s’il s’agit d’un poison virulent.&nbsp;</span></p>"
@@ -145,6 +175,11 @@
             "id": "Versatile Heritage",
             "name": "Versatile Heritage",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La polyvalence et l’ambition des humains leur ont permis d’accéder au statut d’ascendance majoritaire dans la plupart des nations du monde. Choisissez un don général dont vous remplissez les prérequis (comme pour votre don ancestral, vous pouvez choisir ce don général à tout moment dans la création de votre personnage).&nbsp;</span></p>"
+        },
+        {
+            "id": "Oathkeeper Dwarf",
+            "name": "Oathkeeper Dwarf",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En grandissant, vous n'avez jamais cherché à mentir pour obtenir ce que vous désiriez et même lorsque cela a été nécessaire, mentir vous a mis mal à l'aise. Les membres particulièrement croyants ont même pu penser que vous avez été béni par le dieu nain du devoir, Kols. Vous obtenez un bonus de circonstance de +1 aux tests de Perception pour Deviner les intentions et au DD de Perception contre les tentatives de vous mentir. De plus, vous obtenez un bonus de circonstance de +2 aux tests de Diplomatie pour convaincre les autres que vous dites la véritélorsque vous la dites et vous subissez une pénalité de circonstance de –4 pour Mentir et a votre test de Duperie contre une tentative pour Deviner vos Intentions.&nbsp;</span></p>"
         }
     ]
 }

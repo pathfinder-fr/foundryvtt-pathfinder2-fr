@@ -1,11 +1,11 @@
 # État de la traduction (classfeatures)
 
  * **changé**: 28
- * **officielle**: 56
- * **aucune**: 171
+ * **officielle**: 75
+ * **aucune**: 152
 
 
-Dernière mise à jour: 2020-06-08 17:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-09 18:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -142,14 +142,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-17-xmZ7oeTDcQVXegUP.htm](classfeatures/rogue-17-xmZ7oeTDcQVXegUP.htm)|Slippery Mind|
 |[rogue-19-51nIcXq8qPefb9vm.htm](classfeatures/rogue-19-51nIcXq8qPefb9vm.htm)|Light Armor Mastery (Rogue)|
 |[rogue-19-SUUdWG0t33VKa5q4.htm](classfeatures/rogue-19-SUUdWG0t33VKa5q4.htm)|Master Strike|
-|[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|
-|[sorcerer-01-O0uXZRWMNliDbkxU.htm](classfeatures/sorcerer-01-O0uXZRWMNliDbkxU.htm)|Bloodline: Hag|
-|[sorcerer-01-o39zQMIdERWtmBSB.htm](classfeatures/sorcerer-01-o39zQMIdERWtmBSB.htm)|Bloodline: Diabolic|
-|[sorcerer-01-RXRnJcG4XSabZ35a.htm](classfeatures/sorcerer-01-RXRnJcG4XSabZ35a.htm)|Bloodline: Elemental|
-|[sorcerer-01-vhW3glAaEfq2DKrw.htm](classfeatures/sorcerer-01-vhW3glAaEfq2DKrw.htm)|Bloodline: Angelic|
-|[sorcerer-01-w5koctOVrEcpxTIq.htm](classfeatures/sorcerer-01-w5koctOVrEcpxTIq.htm)|Bloodline: Demonic|
-|[sorcerer-01-ZEtJJ5UOlV5oTWWp.htm](classfeatures/sorcerer-01-ZEtJJ5UOlV5oTWWp.htm)|Bloodline: Imperial|
-|[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|
 |[sorcerer-07-I2qauyUmyTH3coAU.htm](classfeatures/sorcerer-07-I2qauyUmyTH3coAU.htm)|Expert Spellcaster (Sorcerer)|
 |[sorcerer-09-QqcRWjr0Xc5xWVMR.htm](classfeatures/sorcerer-09-QqcRWjr0Xc5xWVMR.htm)|Lightning Reflexes (Sorcerer)|
 |[sorcerer-11-4uvohEHSm17wY7gc.htm](classfeatures/sorcerer-11-4uvohEHSm17wY7gc.htm)|Simple Weapon Expertise|
@@ -160,18 +152,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-17-eC8PhLpgho84tGcD.htm](classfeatures/sorcerer-17-eC8PhLpgho84tGcD.htm)|Resolve (Sorcerer)|
 |[sorcerer-19-EgJFG9DNs9jNuDL9.htm](classfeatures/sorcerer-19-EgJFG9DNs9jNuDL9.htm)|Legendary Spellcaster (Sorcerer)|
 |[sorcerer-19-feCnVrPPlKhl701x.htm](classfeatures/sorcerer-19-feCnVrPPlKhl701x.htm)|Bloodline Paragon|
-|[wizard-01-gCwcys8CnS102tji.htm](classfeatures/wizard-01-gCwcys8CnS102tji.htm)|Abjuration|
-|[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Evocation|
-|[wizard-01-K6hG7nH8yjmbA0Q9.htm](classfeatures/wizard-01-K6hG7nH8yjmbA0Q9.htm)|Illusion|
-|[wizard-01-M89l9FOnjHe63wD7.htm](classfeatures/wizard-01-M89l9FOnjHe63wD7.htm)|Arcane Thesis|
 |[wizard-01-OAcxS625AXSGrQIC.htm](classfeatures/wizard-01-OAcxS625AXSGrQIC.htm)|Spell Blending|
-|[wizard-01-qczCKdg47eAmCOUD.htm](classfeatures/wizard-01-qczCKdg47eAmCOUD.htm)|Universalist|
-|[wizard-01-rHxkPijLnQ9O9AGV.htm](classfeatures/wizard-01-rHxkPijLnQ9O9AGV.htm)|Transmutation|
-|[wizard-01-SNeVaUBTHwvoO6kr.htm](classfeatures/wizard-01-SNeVaUBTHwvoO6kr.htm)|Conjuration|
-|[wizard-01-SNZ46g3u7U6x0XJj.htm](classfeatures/wizard-01-SNZ46g3u7U6x0XJj.htm)|Improved Familiar Attunement|
-|[wizard-01-uNM7qZQokRKAEd7k.htm](classfeatures/wizard-01-uNM7qZQokRKAEd7k.htm)|Necromancy|
-|[wizard-01-yobGgrHdgjs5QW5o.htm](classfeatures/wizard-01-yobGgrHdgjs5QW5o.htm)|Divination|
-|[wizard-01-ZHwGACWQEy6kTzcP.htm](classfeatures/wizard-01-ZHwGACWQEy6kTzcP.htm)|Enchantment|
 |[wizard-05-8QQxWTxbkae0fJCI.htm](classfeatures/wizard-05-8QQxWTxbkae0fJCI.htm)|Lightning Reflexes (Wizard)|
 |[wizard-07-hTAOBpNfnGwukfLG.htm](classfeatures/wizard-07-hTAOBpNfnGwukfLG.htm)|Expert Spellcaster (Wizard)|
 |[wizard-09-QZCJBN6J4cAeOV8O.htm](classfeatures/wizard-09-QZCJBN6J4cAeOV8O.htm)|Magical Fortitude (Wizard)|
@@ -267,8 +248,27 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-2goYo6VNbwC6aKF1.htm](classfeatures/sorcerer-01-2goYo6VNbwC6aKF1.htm)|Bloodline|Lignages|officielle|
 |[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|Lignage : Aberrant|changé|
 |[sorcerer-01-7WBZ2kkhZ7JorWu2.htm](classfeatures/sorcerer-01-7WBZ2kkhZ7JorWu2.htm)|Bloodline: Undead|Lignage : Mort-vivant|officielle|
+|[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|Lignage : Féerique|officielle|
+|[sorcerer-01-O0uXZRWMNliDbkxU.htm](classfeatures/sorcerer-01-O0uXZRWMNliDbkxU.htm)|Bloodline: Hag|Lignage : Guenaude|officielle|
+|[sorcerer-01-o39zQMIdERWtmBSB.htm](classfeatures/sorcerer-01-o39zQMIdERWtmBSB.htm)|Bloodline: Diabolic|Lignage : Diabolique|officielle|
+|[sorcerer-01-RXRnJcG4XSabZ35a.htm](classfeatures/sorcerer-01-RXRnJcG4XSabZ35a.htm)|Bloodline: Elemental|Lignage : Élémentaire|officielle|
+|[sorcerer-01-vhW3glAaEfq2DKrw.htm](classfeatures/sorcerer-01-vhW3glAaEfq2DKrw.htm)|Bloodline: Angelic|Lignage : Angélique|officielle|
+|[sorcerer-01-w5koctOVrEcpxTIq.htm](classfeatures/sorcerer-01-w5koctOVrEcpxTIq.htm)|Bloodline: Demonic|Lignage : Démoniaque|officielle|
+|[sorcerer-01-ZEtJJ5UOlV5oTWWp.htm](classfeatures/sorcerer-01-ZEtJJ5UOlV5oTWWp.htm)|Bloodline: Imperial|Lignage : Impérial|officielle|
+|[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|Lignage : Draconique|officielle|
 |[sorcerer-03-y2vUZSYIYBp86UJc.htm](classfeatures/sorcerer-03-y2vUZSYIYBp86UJc.htm)|Signature Spells (Sorcerer)|Sorts emblématiques (Ensorceleur)|officielle|
 |[sorcerer-05-OSq5qxRiKvrYtAlC.htm](classfeatures/sorcerer-05-OSq5qxRiKvrYtAlC.htm)|Magical Fortitude (Sorcerer)|Vigueur magique|officielle|
 |[wizard-01-89zWKD2CN7nRu2xp.htm](classfeatures/wizard-01-89zWKD2CN7nRu2xp.htm)|Metamagical Experimentation|Expérimentation métamagique|officielle|
 |[wizard-01-au0lwQ1nAcNQwcGh.htm](classfeatures/wizard-01-au0lwQ1nAcNQwcGh.htm)|Arcane Bond|Lien arcanique|changé|
+|[wizard-01-gCwcys8CnS102tji.htm](classfeatures/wizard-01-gCwcys8CnS102tji.htm)|Abjuration|Abjuration|officielle|
+|[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Evocation|Évocation|officielle|
+|[wizard-01-K6hG7nH8yjmbA0Q9.htm](classfeatures/wizard-01-K6hG7nH8yjmbA0Q9.htm)|Illusion|Illusion|officielle|
+|[wizard-01-M89l9FOnjHe63wD7.htm](classfeatures/wizard-01-M89l9FOnjHe63wD7.htm)|Arcane Thesis|Thèse arcanique|officielle|
+|[wizard-01-qczCKdg47eAmCOUD.htm](classfeatures/wizard-01-qczCKdg47eAmCOUD.htm)|Universalist|magiciens universalistes|officielle|
 |[wizard-01-QzWXMCSGNfvvpYgF.htm](classfeatures/wizard-01-QzWXMCSGNfvvpYgF.htm)|Spell Substitution|Substitution de sort|officielle|
+|[wizard-01-rHxkPijLnQ9O9AGV.htm](classfeatures/wizard-01-rHxkPijLnQ9O9AGV.htm)|Transmutation|Transmutation|officielle|
+|[wizard-01-SNeVaUBTHwvoO6kr.htm](classfeatures/wizard-01-SNeVaUBTHwvoO6kr.htm)|Conjuration|Invocation|officielle|
+|[wizard-01-SNZ46g3u7U6x0XJj.htm](classfeatures/wizard-01-SNZ46g3u7U6x0XJj.htm)|Improved Familiar Attunement|Amélioration de l’harmonisation avec le familier|officielle|
+|[wizard-01-uNM7qZQokRKAEd7k.htm](classfeatures/wizard-01-uNM7qZQokRKAEd7k.htm)|Necromancy|Nécromancie|officielle|
+|[wizard-01-yobGgrHdgjs5QW5o.htm](classfeatures/wizard-01-yobGgrHdgjs5QW5o.htm)|Divination|Divination|officielle|
+|[wizard-01-ZHwGACWQEy6kTzcP.htm](classfeatures/wizard-01-ZHwGACWQEy6kTzcP.htm)|Enchantment|Enchantement|officielle|

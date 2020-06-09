@@ -1,24 +1,18 @@
 # État de la traduction (ancestryfeatures)
 
- * **aucune**: 34
+ * **libre**: 7
  * **officielle**: 24
+ * **aucune**: 27
  * **changé**: 5
 
 
-Dernière mise à jour: 2020-06-08 17:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-09 18:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[feat-00-xQwNpPeWNSzfBmSj.htm](ancestryfeatures/feat-00-xQwNpPeWNSzfBmSj.htm)|Keen Eyes|
-|[feat-01-0vaeOoECfVD5EGbq.htm](ancestryfeatures/feat-01-0vaeOoECfVD5EGbq.htm)|Warrenbred Hobgoblin|
-|[feat-01-6xxXtgj3fcCi53lt.htm](ancestryfeatures/feat-01-6xxXtgj3fcCi53lt.htm)|Sandstrider Lizardfolk|
-|[feat-01-85tRKGZUTFa6pKpG.htm](ancestryfeatures/feat-01-85tRKGZUTFa6pKpG.htm)|Oathkeeper Dwarf|
-|[feat-01-8wGUh9RsMUamOKjh.htm](ancestryfeatures/feat-01-8wGUh9RsMUamOKjh.htm)|Tailed Goblin|
-|[feat-01-b0roxPCBtAkPqq12.htm](ancestryfeatures/feat-01-b0roxPCBtAkPqq12.htm)|Frilled Lizardfolk|
-|[feat-01-CzOHITB2ihLGqMuJ.htm](ancestryfeatures/feat-01-CzOHITB2ihLGqMuJ.htm)|Runtboss Hobgoblin|
 |[feat-01-dJeiekfqGQ8dkwsO.htm](ancestryfeatures/feat-01-dJeiekfqGQ8dkwsO.htm)|Wetlander Lizardfolk|
 |[feat-01-DRtaqOHXTRtGRIUT.htm](ancestryfeatures/feat-01-DRtaqOHXTRtGRIUT.htm)|Low-Light Vision|
 |[feat-01-EEvA4uj8h3zDiAfP.htm](ancestryfeatures/feat-01-EEvA4uj8h3zDiAfP.htm)|Treedweller Goblin|
@@ -51,10 +45,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[feat-00-xQwNpPeWNSzfBmSj.htm](ancestryfeatures/feat-00-xQwNpPeWNSzfBmSj.htm)|Keen Eyes|Yeux aiguisés|libre|
+|[feat-01-0vaeOoECfVD5EGbq.htm](ancestryfeatures/feat-01-0vaeOoECfVD5EGbq.htm)|Warrenbred Hobgoblin|Hobgobelin Terrierné|libre|
 |[feat-01-1D5MSKLi8qR9XgOF.htm](ancestryfeatures/feat-01-1D5MSKLi8qR9XgOF.htm)|Arctic Elf|Elfe arctique|officielle|
 |[feat-01-1wVDYY9Wue0G5R9Q.htm](ancestryfeatures/feat-01-1wVDYY9Wue0G5R9Q.htm)|Whisper Elf|Elfe des murmures|officielle|
+|[feat-01-6xxXtgj3fcCi53lt.htm](ancestryfeatures/feat-01-6xxXtgj3fcCi53lt.htm)|Sandstrider Lizardfolk|Homme-lézard arpenteur des sables|libre|
+|[feat-01-85tRKGZUTFa6pKpG.htm](ancestryfeatures/feat-01-85tRKGZUTFa6pKpG.htm)|Oathkeeper Dwarf|Nain gardeserment|libre|
+|[feat-01-8wGUh9RsMUamOKjh.htm](ancestryfeatures/feat-01-8wGUh9RsMUamOKjh.htm)|Tailed Goblin|Gobelin à queue|libre|
 |[feat-01-a6F2WjYU8D0suT8T.htm](ancestryfeatures/feat-01-a6F2WjYU8D0suT8T.htm)|Razortooth Goblin|Gobelin Dent’rasoir|officielle|
+|[feat-01-b0roxPCBtAkPqq12.htm](ancestryfeatures/feat-01-b0roxPCBtAkPqq12.htm)|Frilled Lizardfolk|Homme-lézard à colerette|libre|
 |[feat-01-cCy8vsZENlwiAyZ6.htm](ancestryfeatures/feat-01-cCy8vsZENlwiAyZ6.htm)|Twilight Halfling|Halfelin du crépuscule|officielle|
+|[feat-01-CzOHITB2ihLGqMuJ.htm](ancestryfeatures/feat-01-CzOHITB2ihLGqMuJ.htm)|Runtboss Hobgoblin|Hobgobelin commandant avorton|libre|
 |[feat-01-d0bNxgGqvaCkFlhN.htm](ancestryfeatures/feat-01-d0bNxgGqvaCkFlhN.htm)|Umbral Gnome|Gnome ombral|officielle|
 |[feat-01-D3hTAqgwSank8OyO.htm](ancestryfeatures/feat-01-D3hTAqgwSank8OyO.htm)|Fey-Touched Gnome|Gnome béni des fées|officielle|
 |[feat-01-DGgelJTB3Bf2XUBE.htm](ancestryfeatures/feat-01-DGgelJTB3Bf2XUBE.htm)|Charhide Goblin|Gobelin peaud'charbon|officielle|

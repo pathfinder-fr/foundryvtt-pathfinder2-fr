@@ -12,6 +12,11 @@
             "description": "<p><span class=\"fontstyle0\">cette arme est une version plus lourde, à deux mains, du cimeterre à lame courbe. Il est lesté vers l’extrémité de la lame, ce qui en fait une puissante arme tranchante.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
         },
         {
+            "id": "Spyglass (Fine)",
+            "name": "Longue-vue (belle)",
+            "description": "<p><span class=\"fontstyle0\"> une longue-vue typique vous permet de voir huit fois plus loin que la normale. Une belle longue-vue ajoute un bonus d’objet de +1 au test de Perception pour remarquer des détails à distance</span> </p>"
+        },
+        {
             "id": "Kama",
             "name": "Kama",
             "description": "<p><span class=\"fontstyle0\">Semblable à une faucille et utilisé dans certaines régions pour récolter le grain, le kama possède une lame courte et légèrement incurvée, et un manche en bois.</span> </p>"
@@ -37,9 +42,24 @@
             "description": "<p><span class=\"fontstyle0\">Version essentiellement plus longue du cimeterre, cette arme elfique traditionnelle possède une lame plus fine que celle de son \ncousin.</span> </p>"
         },
         {
+            "id": "Dancing Scarf",
+            "name": "Echarpe dansante",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette longue écharpe ondoyante est généralement confectionnée dans de la soie ou dans du tissu extra‑fin et ornée de clochettes et autres breloques de métal étincelant. Elle confère un bonus d’objet de +1 aux tests de Représentation pour danser.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Conditions</strong> On your most recent action, you succeeded at a Performance check to dance; <strong>Effet</strong> Vous devenez masqué jusqu’au début de votre prochain tour</span></p>"
+        },
+        {
             "id": "Steel Shield",
             "name": "Bouclier en acier",
             "description": "<p><span class=\"fontstyle0\">Comme les boucliers en bois, les boucliers en acier sont de formes et de tailles variées. Plus coûteux que les boucliers en bois, ils sont cependant beaucoup plus résistants. </span>&nbsp;</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">5</td>\n<td style=\"height: 17px; width: 115px;\">20</td>\n<td style=\"height: 17px; width: 116px;\">10</td>\n</tr>\n</tbody>\n</table>"
+        },
+        {
+            "id": "Religious Text",
+            "name": "Texte religieux",
+            "description": "<p><span class=\"fontstyle0\">Ce manuscrit contient les écritures d’une religion spécifique. Certains incantateurs divins, tels que les prêtres, peuvent utiliser un texte religieux comme focaliseur divin pour utiliser certaines capacités et lancer des sorts. Un texte religieux doit être tenu dans une main pour pouvoir être utilisé.</span> </p>"
+        },
+        {
+            "id": "Disguise Kit (Elite)",
+            "name": "Kit de déguisement (Elite)",
+            "description": "<p><span class=\"fontstyle0\">cette petite boîte en bois contient des produits de beauté, de fausses barbes, de la colle à postiche et quelques perruques simples. Vous avez généralement besoin d’un kit de déguisement pour créer un déguisement afin de vous faire passer pour quelqu’un à l’aide de la compétence Duperie. Un kit de déguisement d’élite ajoute un bonus d’objet de +1 aux tests concernés. Si vous avez fabriqué un grand nombre de déguisements, vous pouvez reconstituer votre stock de cosmétiques avec des cosmétiques de rechange adaptés au type de votre kit de déguisement. </span> </p>"
         },
         {
             "id": "Spiked Chain",
@@ -50,6 +70,11 @@
             "id": "Starknife",
             "name": "Lamétoile",
             "description": "<p>A partir d’un anneau métallique central, quatre lames de métal effilées s’étendent comme des pointes sur une rose des vents. Lorsqu’il saisit une lamétoile par le centre, son porteur peut l’utiliser comme une arme de corps à corps. Elle peut aussi être lancée sur de courtes distances.</p>"
+        },
+        {
+            "id": "Sling",
+            "name": "Fronde",
+            "description": "<p><span class=\"fontstyle0\">Guère plus qu’un bol en cuir fixé à une paire de lanières, la fronde peut être utilisée pour lancer à distance des pierres lisses ou des billes de fronde.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
         },
         {
             "id": "Adamantine Buckler (Standard-Grade)",
@@ -65,6 +90,11 @@
             "id": "Serene Mutagen (Lesser)",
             "name": "Mutagène de sérénité (inférieur)",
             "description": "Vous gagnez en sérénité intérieure, vous concentrant sur les détails et renforçant votre esprit contre les assauts mentaux, mais la violence vous rebute.Le bonus est de +1 ou +2 contre les effets mentaux et la durée de 1 min."
+        },
+        {
+            "id": "Dagger of Venom",
+            "name": "Dague venimeuse",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La lame dentelée de cette dague de <em>frappe +1</em> a des reflets ver‑ dâtres et la poignée est sculptée en forme de tête de serpent sur le point de mordre. Quand vous obtenez un succès critique à un jet d’attaque avec la dague venimeuse, la cible devient malade 1 jusqu’à ce qu’elle réussisse un jet de Vigueur DD 19. Il s’agit d’un effet de poison. De plus, vous pouvez activer la dague pour qu’elle inocule un poison plus puissant à une créature.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous blessez une créature avec la dague venimeuse; <strong>Effet</strong> Vous empoi‑ sonnez la créature que vous frappez avec le poison de la dague.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Dague venimeuse</strong> (poison); <strong>Jet de sauvegarde</strong> Vigueur DD 21; <strong>Durée maximum</strong> 4 rounds. <strong>Stade 1</strong> e 1 1d8 dégâts de poison et affaibli 1.\n&nbsp;</span></p>"
         },
         {
             "id": "Gold Pieces",
@@ -92,14 +122,29 @@
             "description": "<p><span class=\"fontstyle0\"> créée par les gobelins pour combattre les chevaux, cette arme est pour l’essentiel un long manche se terminant par une lame avec un gros crochet. </span> </p>"
         },
         {
+            "id": "Spellbook (Blank)",
+            "name": "Grimoire",
+            "description": "<p><span class=\"fontstyle0\">Un grimoire contient les connaissances écrites nécessaires pour apprendre et préparer divers sorts, une nécessité pour les magiciens (qui en obtiennent généralement un gratuitement) et un luxe utile pour les autres incantateurs qui souhaitent apprendre des sorts supplémentaires. Chaque grimoire peut contenir jusqu’à 100 sorts. Le prix indiqué correspond à un grimoire vierge.</span> </p>"
+        },
+        {
             "id": "Dwarven War Axe",
             "name": "Hache de guerre naine",
             "description": "<p><span class=\"fontstyle0\">Cette arme prisée des nains possède une grande tête décorée montée sur un manche épais. Cette puissante hache peut être utilisée à une ou à deux mains.</span> </p>"
         },
         {
+            "id": "Repair Kit (Superb)",
+            "name": "Kit de réparation (Superbe)",
+            "description": "<p><span class=\"fontstyle0\">Un kit de réparation vous permet d’effectuer des réparations simples lorsque vous vous voyagez. Il contient une enclume portable, des pinces, des outils de menuiserie, une pierre à aiguiser et des huiles pour le conditionnement du cuir et du bois. Vous pouvez utiliser un kit de réparation pour Réparer des objets à l’aide de la compétence Artisanat. Un kit de réparation superbe accorde un bonus de +1 à votre test. </span> </p>"
+        },
+        {
             "id": "Leather Armor",
             "name": "Armure de cuir",
             "description": "<p><span class=\"fontstyle0\"> la seconde peau épaisse de cette armure disperse la force du choc afin de réduire les dégâts causés par des coups contondants. Vous gagnez une résistance aux dégâts contondants égale à 1 + la valeur de la rune de puissance de l’armure pour une armure intermédiaire, ou 2 + la valeur de la rune de puissance de l’armure pour une armure lourde. </span> </p>"
+        },
+        {
+            "id": "Basic Crafter’s Book",
+            "name": "Livre d’artisan basique",
+            "description": "<p><span class=\"fontstyle0\">Ce livre contient les formules (page 293) pour Fabriquer les objets ordinaires de ce chapitre.</span></p>"
         },
         {
             "id": "Invisibility Potion",
@@ -162,6 +207,11 @@
             "description": "<p>Pain de savon</p>"
         },
         {
+            "id": "Spyglass",
+            "name": "Longue-vue",
+            "description": "<p><span class=\"fontstyle0\">Une longue-vue typique vous permet de voir huit fois plus loin que la normale. Une belle longue-vue ajoute un bonus d’objet de +1 au test de Perception pour remarquer des détails à distance. </span> </p>"
+        },
+        {
             "id": "Dogslicer",
             "name": "Tranchechien",
             "description": "<p><span class=\"fontstyle0\">Cette lame de fortune courte, incurvée et grossière, est souvent percée de trous pour en réduire le poids. C’est une arme prisée des gobelins.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
@@ -180,6 +230,11 @@
             "id": "Dagger",
             "name": "Dague",
             "description": "<p><span class=\"fontstyle0\">Cette petite arme à lame se tient d’une main et est utilisée pour poignarder une créature en combat rapproché. Elle peut aussi être lancée.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
+        },
+        {
+            "id": "Winged Boots",
+            "name": "Bottes ailées",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Confectionnées dans du cuir souple et dotées de délicates ailes blanches au niveau du talon, ces bottes sont enchantées avec une puissante magie de l’air. Chaque fois que vous chutez alors que vous portez ces bottes, celles‑ci lancent automatiquement feuille morte sur vous. Cet avantage ne peut se déclencher qu’une fois par période de 10 min. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> command, Interact; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Vous prononcez le mot de commande et claquez les talons l’un contre l’autre pour que les ailes s’animent et battent rapidement, ce qui vous confère une Vitesse de vol de 9 m pendant 10 min.</span></p>"
         },
         {
             "id": "Light Mace",
@@ -222,6 +277,21 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en argent ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 1, 4 PV et un SR de 2.<br><strong>Conditions de fabrication</strong> au moins 15 pa d’argent &nbsp;</span></p>"
         },
         {
+            "id": "Holly and Mistletoe",
+            "name": "Houx et gui",
+            "description": "<p><span class=\"fontstyle0\">Les plantes à signification surnaturelle constituent un focaliseur primordial pour les incantateurs primordiaux, tels que les druides, lorsqu’ils utilisent certaines aptitudes et lancent des sorts. Un fagot de houx et de gui doit être tenu dans une main pour pouvoir être utilisé. Il existe d’autres focaliseurs primordiaux pour les druides, centrés sur d’autres aspects de la nature.</span> </p>"
+        },
+        {
+            "id": "Musical Instrument (Handheld)",
+            "name": "Instruments de musique (portatifs)",
+            "description": "<p><span class=\"fontstyle0\">Les instruments portatifs comprennent les cornemuses, le petit carillon, les petits tambours, les violons et violes, les flûtes traversières et les flûtes à bec, les petites harpes, les luths, les trompettes et instruments de taille similaire. Le MJ peut décider qu’un instrument portatif particulièrement volumineux (comme le tuba) a un Encombrement plus important. Les instruments lourds tels que les gros tambours, un carillon complet et les instruments à clavier sont beaucoup moins portatifs et se jouent généralement immobilisés. Un instrument virtuose accorde un bonus d’objet de +1 aux tests de Représentation.</span> </p>"
+        },
+        {
+            "id": "Clan Dagger",
+            "name": "Dague de clan",
+            "description": "<p>Cette large dague est portée par les nains à la fois comme une arme, un outil et pour désigner un clan. Perdre ou devoir rendre une dague de clan est considéré comme une honte pour la plupart des nains. </p>"
+        },
+        {
             "id": "Morningstar",
             "name": "Morgenstern",
             "description": "<p>&nbsp;Cette arme possède un manche court se terminant par une boule en métal hérissée de pointes.</p>"
@@ -257,6 +327,11 @@
             "description": "<p><span class=\"fontstyle0\">le harnois est constitué de plates imbriquées enveloppant la quasi-totalité du corps dans une carapace en acier. Il est coûteux et lourd, et le porteur a souvent besoin d’aide pour l’enfiler correctement, mais il fournit certaines des meilleures défenses qu’une armure puisse procurer. Une telle armure comporte également )</span>&nbsp; <span class=\"fontstyle0\">une sous-couche d’armure matelassée (voir ci-dessous) et une paire de gantelets (page 285</span> </p>"
         },
         {
+            "id": "Sling Bullets",
+            "name": "Billes de fronde",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Il s’agit de petites billes de métal, généralement en fer ou en plomb, conçues pour être utilisées comme munitions pour les frondes&nbsp;&nbsp;</span></p>"
+        },
+        {
             "id": "Fishing Tackle",
             "name": "Articles de pêche",
             "description": "<p><span class=\"fontstyle0\">Ce kit comprend une canne à pêche démontable, des hameçons, une ligne, des leurres et un filet de pêche. Les articles de pêche professionnels confèrent un bonus d’objet de +1 aux tests pour pêcher. </span> </p>"
@@ -282,14 +357,29 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 5, 20 PV et un SR de 10.<br /><strong>Conditions de fabrication</strong> au moins 17 pa de fer froid</span></p>"
         },
         {
+            "id": "Healer's Gloves",
+            "name": "Gants du guérisseur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces gants d’un blanc immaculé ne sont jamais maculés de sang, même quand ils sont utilisés pour recoudre des blessures ou traiter d’autres affections. Ils vous confèrent un bonus d’objet de +1 aux tests de Médecine<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Vous pouvez soigner les blessures d’une créature consentante et adjacente à vous, qui récupère ainsi 2d6+7 points de vie. Il s’agit d’un effet de guérison positif. Vous ne pouvez pas blesser des morts‑vivants avec ce soin.&nbsp;</span></p>"
+        },
+        {
             "id": "Eagle Eye Elixir (Lesser)",
             "name": "Elixir d'oeil du faucon (mineure)",
             "description": "Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet aux tests de Perception. Il est plus important si vous tentez de repérer une porte ou une trappe secrètes. Le bonus est de +1 ou de +2 pour trouver une porte ou une trappe secrètes."
         },
         {
+            "id": "Clothing (Fine)",
+            "name": "Vêtements (beaux)",
+            "description": ""
+        },
+        {
             "id": "Ghoul Hide",
             "name": "Peau de goule",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette armure de peau <em> +1</em> cousue à partir de lambeaux de peau de goule vous donne un bonus d’objet de +1 aux jets de sauvegarde contre la maladie et la paralysie et vous immunise contre la paralysie des goules. <em>Une peau de goule</em> améliorée avec <em>une rune de résilience</em> augmente le bonus d’objet de la rune de résilience aux jets de sauvegarde contre la maladie et la paralysie de 1 (+4 au maximum).</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><em>La peau de goule</em> émet un sifflement haineux dès qu’elle entre en contact avec un elfe. Si elle est portée par une créature dotée du trait elfique, elle gagne le trait bruyante&nbsp;&nbsp;</span></p>"
+        },
+        {
+            "id": "Light Hammer",
+            "name": "Marteau léger",
+            "description": "<p>Cette version plus petite du marteau de guerre possède un manche en bois ou en métal se terminant par une tête métallique. Contrairement à son cousin plus lourd, il est suffisamment léger pour pouvoir être lancé.</p>"
         },
         {
             "id": "Panacea",
@@ -302,9 +392,19 @@
             "description": "<p><span class=\"fontstyle0\">Cette arme de jet est plus large qu’une flèche, mais plus courte qu’un javelot. Elle a généralement une courte tige de bois se terminant par une pointe en métal et est parfois stabilisée par des plumes ou de la fourrure.</span> </p>"
         },
         {
+            "id": "Musical Instrument (Virtuoso handheld)",
+            "name": "Instruments de musique (Virtuose)",
+            "description": "<p><span class=\"fontstyle0\"> les instruments portatifs comprennent les cornemuses, le petit carillon, les petits tambours, les violons et violes, les flûtes traversières et les flûtes à bec, les petites harpes, les luths, les trompettes et instruments de taille similaire. Le MJ peut décider qu’un instrument portatif particulièrement volumineux (comme le tuba) a un Encombrement plus important. Les instruments lourds tels que les gros tambours, un carillon complet et les instruments à clavier sont beaucoup moins portatifs et se jouent généralement immobilisés. Un instrument virtuose accorde un bonus d’objet de +1 aux tests de Représentation.</span> </p>"
+        },
+        {
             "id": "Potion of Resistance (Lesser)",
             "name": "Potion de résistance (inférieur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre). Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié. &nbsp;</span></p>"
+        },
+        {
+            "id": "Adventurer’s pack",
+            "name": "Pack d'aventurier",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet est le kit de départ pour un aventurier. Il contient les objets essentiels à l’exploration et à la survie. La valeur d’Encombrement concerne la totalité du pack, mais reportez-vous si nécessaire à la description de chaque objet. </span></p>\n<p>Le pack d’aventurier contient les objets suivants : sac à dos (contenant les autres objets), sac de couchage, deux bourses, 10 morceaux de craie, silex et amorce, corde de 15 m, rations pour 2 semaines, savon, 5 torches et une outre. </p>"
         },
         {
             "id": "Reflecting Shield",
@@ -317,9 +417,19 @@
             "description": "<p><span class=\"fontstyle0\">Semblable à une faucille et utilisé dans certaines régions pour récolter le grain, le kama possède une lame courte et légèrement incurvée, et un manche en bois. </span> </p>"
         },
         {
+            "id": "Alchemist’s Tools",
+            "name": "Outils d'alchimiste",
+            "description": "<p>Cette collection de fioles et de produits chimiques permet d’accomplir des tâches alchimiques simples. &nbsp;</p>"
+        },
+        {
             "id": "Clothing (Explorer's)",
             "name": "Vêtement (explorateur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure. Pour plus d’informations sur les vêtements d’explorateur, reportez-vous à la page 276.&nbsp;</span></p>"
+        },
+        {
+            "id": "Berserker's Cloak",
+            "name": "Cape du Berseker",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette peau d’ours comporte la tête et les crocs de la puissante créature sur laquelle on l’a prélevée. Une fois portée, la cape recouvre votre tête et vos épaules en vous insufflant la férocité d’un ours. Si vous pouvez faire l’action Rage et que vous êtes en rage, des crocs qui infligent 1d10 dégâts perforants poussent dans votre bouche et des griffes qui infligent 1d6 dégâts tranchants et qui ont le trait agile poussent sur vos mains. Il s’agit d’un effet de transformation et les crocs comme les griffes sont des attaques à mains nues du groupe d’armes de pugilat. Vous bénéficiez des avan‑ tages d’une rune de puissance d’arme +1 et d’une rune de frappe avec ces attaques (ce qui vous confère un bonus d’objet de +1 aux jets d’attaque et augmente de 1 le nombre de dés de dégâts d’arme). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous avez un instinct animal (voir le barbare en page 82) et le pouvoir d’instinct rage bestiale, au lieu d’obtenir ces attaques à mains nues, les attaques à mains nues que vous faites grâce à la rage bestiale bénéficient des avantages d’une rune de puissance d’arme +2 et d’une rune de frappe supérieure (ce qui vous confère un bonus d’objet de +2 aux jets d’attaque et augmente de 2 le nombre de dés de dégâts d’arme). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes un barbare avec l’instinct animal.</span></p>"
         },
         {
             "id": "Filcher's Fork",
@@ -417,9 +527,19 @@
             "description": "<p><span class=\"fontstyle0\">un kit de réparation vous permet d’effectuer des réparations simples lorsque vous vous voyagez. Il contient une enclume portable, des pinces, des outils de menuiserie, une pierre à aiguiser et des huiles pour le conditionnement du cuir et du bois. Vous pouvez utiliser un kit de réparation pour Réparer des objets à l’aide de la compétence Artisanat. Un kit de réparation superbe accorde un bonus de +1 à votre test.</span> </p>"
         },
         {
+            "id": "Clothing (High-fashion Fine)",
+            "name": "Vêtements (beaux)",
+            "description": "<p><span class=\"fontstyle0\">Les beaux vêtements, qui conviennent aux nobles et aux membres des familles royales, sont fabriqués dans des tissus coûteux, accompagnés de métaux précieux et de motifs complexes. Vous gagnez un bonus de +1 aux tests de Faire bonne impression à la noblesse ou autres personnes des classes supérieures lorsque vous portez de beaux vêtements confectionnés en haute couture. </span> </p>"
+        },
+        {
             "id": "Potion of Sonic Resistance (Lesser)",
             "name": "Potion de résistance au son (inférieur)",
             "description": "<p>En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. &nbsp;</p>"
+        },
+        {
+            "id": "Crowbar",
+            "name": "Pied-de-biche",
+            "description": "<p><span class=\"fontstyle0\">Lorsque vous ouvrez de Force un objet dont la prise n’est pas aisée, un pied-de-biche facilite l’effet de levier nécessaire. Sans pied-de-biche, le fait de forcer l’ouverture de quelque chose entraîne un malus de −2 au test d’Athlétisme pour y parvenir (similaire à l’utilisation d’un objet de mauvaise qualité). Un pied-de-biche doté d’un levier confère un bonus d’objet de +1 à vos tests d’Athlétisme pour Ouvrir de force de tout ce qui peut être forcé. </span> </p>"
         },
         {
             "id": "Half Plate",
@@ -472,9 +592,24 @@
             "description": "<p><span class=\"fontstyle0\">Ce type d’armure est constitué d’une cotte de mailles renforcée de plates métalliques souples s’emboîtant les unes dans les autres, localisées généralement sur le torse, les bras et les jambes du porteur. Une telle armure inclut une sous-couche d’armure matelassée (voir ci-dessus) et une paire de gantelets (page 285).</span> </p>"
         },
         {
+            "id": "Spyglass (Fine)",
+            "name": "Longue-vue (belle)",
+            "description": "<p><span class=\"fontstyle0\">Une longue-vue typique vous permet de voir huit fois plus loin que la normale. Une belle longue-vue ajoute un bonus d’objet de +1 au test de Perception pour remarquer des détails à distance. </span> </p>"
+        },
+        {
+            "id": "Piton",
+            "name": "Piton",
+            "description": "<p><span class=\"fontstyle0\">Ces petites pointes peuvent servir d’ancrage et faciliter l’escalade. Pour fixer un piton, vous devez le tenir d’une main et utiliser un marteau pour l’enfoncer de l’autre main. Vous pouvez attacher une corde au piton enfoncé pour ne pas tomber complètement à terre si vous obtenez un échec critique à votre test d’Escalade.</span> </p>"
+        },
+        {
             "id": "Coral",
             "name": "Corail",
             "description": ""
+        },
+        {
+            "id": "Cloak of the Bat",
+            "name": "Cape de la chauve-souris",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Composée de plusieurs longues bandes de somptueuse soie noire et marron cousues les unes aux autres, cette cape vous confère un bo‑ nus d’objet de +2 aux tests de Discrétion et aux tests d’Acrobaties pour Manœuvrer en vol. Vous pouvez également utiliser vos pieds pour vous accrocher à n’importe quelle surface pouvant supporter votre poids, sans faire de test, même si vous devez toujours effectuer des tests d’Athlétisme pour Escalader si vous vous déplacez la tête en bas. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, interagir<strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Vous pouvez provoquer la transformation de la cape en ailes de chauve‑sou‑ ris qui vous confèrent une Vitesse de vol de 9 m pendant 10 min, ou vous pouvez faire en sorte que la cape vous transforme en chauve‑sou‑ ris en lançant forme de nuisible de niveau 4 sur vous.</span></p>"
         },
         {
             "id": "Emerald",
@@ -537,6 +672,11 @@
             "description": "<p>Un pic de guerre léger est un outil minier modifié, avec un manche en bois se terminant par une tête de pioche, conçu pour perforer l’armure et la chair plutôt que briser les rochers.</p>\n<p>Cette arme a une rune de <em> puissance d'arme +1 </em>  (bonus d'objet +1 pour les jets d'attaque avec l'arme).</p>"
         },
         {
+            "id": "Bracelets of Dashing",
+            "name": "Bracelet de fougue",
+            "description": ""
+        },
+        {
             "id": "Manacles (Simple)",
             "name": "Menottes (simple)",
             "description": "<p><span class=\"fontstyle0\">vous pouvez menotter une personne volontaire ou à votre merci comme une activité d’exploration prenant 10 à 30 secondes, en fonction de la taille de la créature et du nombre de menottes que vous utilisez. Une créature bipède ayant ces membres attachés subit un malus de circonstance de –4,5 m à sa Vitesse, et une créature à deux mains ayant les poignets attachés doit réussir un test nu DD 5 chaque fois qu’elle utilise une action de manipulation ou que cette action échoue. Ce DD peut être plus élevé en fonction de la force avec laquelle les menottes contraignent les mains. Une créature attachée à un objet immobile est elle-même immobilisée. Dans le cas de créatures ayant plus ou moins de membres, le MJ détermine l’effet éventuel des menottes. Libérer une créature de menottes médiocres nécessite de réussir deux tests de Vol DD 17, des menottes simples exigent de leur côté trois succès DD 22, des menottes intermédiaires quatre succès DD 27, de bonnes menottes cinq succès DD 32 et des menottes supérieures six succès DD 42. </span></p>"
@@ -545,6 +685,11 @@
             "id": "Tent (Pup)",
             "name": "Tente (petite)",
             "description": ""
+        },
+        {
+            "id": "Belt of the Five Kings",
+            "name": "Ceinture des cinq rois",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Composée de plaques d’argent et d’or imbriquées, cette lourde cein‑ ture est ornée d’images miniatures stylisées représentant cinq rois nains. Vous bénéficiez d’un bonus de circonstances de +1 aux tests de Diplomatie pour Faire bonne impression auprès de nains ou pour Solliciter des nains. Vous bénéficiez également d’un bonus de circons‑ tances de +1 aux tests d’Intimidation contre les géants et les orcs.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La ceinture vous confère aussi la vision dans le noir et vous permet de comprendre, parler et écrire le nain.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Conditions</strong> Vous êtes un nain; <strong>Effet</strong>  Vous resserrez la ceinture d’un cran pour gagner un nombre de points de vie temporaires égal à votre niveau et pour confé‑ rer la vision dans le noir aux alliés situés à 6 m ou moins de vous. Ces deux effets durent dix minutes.</span></p>"
         },
         {
             "id": "Breastplate",
@@ -557,9 +702,19 @@
             "description": "<div><strong>Armure</strong> armure de peau<br><strong>Armes</strong> 4 javelines<br><strong>Equipement</strong>  pack d’aventurier, grappin, 2 gaines<br><strong>Options</strong>  grande hache (2 po), massue (1 po), épée à deux mains<br>(2 po), ou hache d’armes et bouclier en acier (3 po)</div>"
         },
         {
+            "id": "Magnifying Glass",
+            "name": "Loupe",
+            "description": "<p><span class=\"fontstyle0\">Cette lentille portable de qualité vous offre un bonus d’objet de +1 aux tests de Perception pour repérer les moindres détails de documents, de tissus, etc.</span> </p>"
+        },
+        {
             "id": "Crossbow (+1)",
             "name": "Arbalète (+1)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme à distance est faite de l’assemblage d’un arc monté sur un cadre à poignée appelé arbrier. L’arbrier possède un mécanisme pour bloquer la corde attachée à un mécanisme de déclenchement, qui relâche la tension et lâche un carreau.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme a une rune <em>de puissance d'arme +1</em> (bonus d'objet +1 aux jets d'attaque avec l'arme)</span></p>"
+        },
+        {
+            "id": "Signal Whistle",
+            "name": "Sifflet de signalisation",
+            "description": "<p><span class=\"fontstyle0\"> lorsqu’il retentit, son signal s’entend jusqu’à 750 m sur un terrain dégagé.</span> </p>"
         },
         {
             "id": "Class Kit (Bard)",
@@ -602,6 +757,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’antidote vous protège contre les toxines. Lorsque vous le buvez, vous recevez un bonus d’objet aux jets de Vigueur contre les poisons pen‑ dant 6 h. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +3.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>"
         },
         {
+            "id": "Cookware",
+            "name": "Batterie de cuisine",
+            "description": ""
+        },
+        {
             "id": "Battle Axe",
             "name": "Hache d'armes",
             "description": "<p><span class=\"fontstyle0\">Ces haches sont conçues explicitement comme des armes plutôt que comme des outils. Elles pèsent généralement moins lourd, avec un manche renforcé de bandes ou de fixations métalliques et une lame plus tranchante, ce qui les rend idéales pour couper des membres bien plus que du bois.</span></p>"
@@ -615,6 +775,11 @@
             "id": "Tent (Four-Person)",
             "name": "Tente (4 personnes)",
             "description": ""
+        },
+        {
+            "id": "Religious Symbol (Silver)",
+            "name": "Symbole religieux (argent)",
+            "description": "<p><span class=\"fontstyle0\">: ce morceau de bois ou d’argent est décoré de la représentation d’une divinité. Certains incantateurs divins, tels que les prêtres, peuvent utiliser un symbole religieux de leur divinité comme focaliseur divin pour utiliser certaines capacités et lancer des sorts. Un symbole religieux doit être tenu dans une main pour pouvoir être utilisé. </span> </p>"
         },
         {
             "id": "Jade Cat",
@@ -652,6 +817,16 @@
             "description": "<p>Vous avez besoin de ces outils pour créer, au moyen de la compétence Artisanat, des objets à partir de matériaux. Les outils d’artisan excellents accordent un bonus de +1 à votre test. Il faut des jeux d’outils différents pour effectuer différents travaux, tels que déterminés par le MJ ; ainsi, les outils de forgeron diffèrent des outils de menuisier. &nbsp;</p>"
         },
         {
+            "id": "Alchemist's Lab (Expanded)",
+            "name": "Laboratoire d'alchimie (complet)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Il vous faut un laboratoire d’alchimie pour créer des objets alchimiques lors d’un intermède. Un laboratoire d’alchimie complet vous donne un bonus d’objet de +1 aux tests d’Artisanat pour fabriquer des objets alchimiques.&nbsp;</span></p>"
+        },
+        {
+            "id": "Clothing (Ordinary)",
+            "name": "Vêtements (ordinaire)",
+            "description": "<p>Les vêtements ordinaires sont fonctionnels avec une confection de base, comme les vêtements de paysan, les robes de moine ou les vêtements de travail.</p>\n<p>&nbsp;</p>"
+        },
+        {
             "id": "Wooden Shield",
             "name": "Bouclier en bois",
             "description": "<p><span class=\"fontstyle0\">Même s’ils se présentent sous toute une variété de formes et de tailles, l’abri offert par les boucliers en bois provient de la robustesse des matériaux dans lesquels ils sont conçus. Le bouclier en bois est moins cher que le bouclier en acier, mais il se brise plus facilement. </span></p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">12</td>\n<td style=\"height: 17px; width: 116px;\">6</td>\n</tr>\n</tbody>\n</table>"
@@ -665,6 +840,11 @@
             "id": "Floating Shield",
             "name": "Bouclier flottant",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des motifs d’aile sont souvent gravés sur un <em>bouclier flottan</em>t. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiative<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Le bouclier se détache de votre bras et flotte à vos côtés en vous conférant auto‑ matiquement son bonus, comme si vous aviez Levé le bouclier. Étant donné que vous ne maniez pas le bouclier, vous ne pouvez pas utiliser de réactions telles que Blocage au bouclier avec lui mais vous profitez de ses avantages, même si vous utilisez déjà vos deux mains. Au bout d’une minute, le bouclier tombe au sol, ce qui met fin à l’effet flottant. Tant que le bouclier est adjacent à vous, vous pouvez Interagir pour vous en emparer, ce qui met fin prématurément à son effet flottant. </span></p>"
+        },
+        {
+            "id": "Silver religious symbol",
+            "name": "Symbole religieux en argent",
+            "description": ""
         },
         {
             "id": "Bandolier",
@@ -705,6 +885,11 @@
             "id": "Class Kit (Cleric)",
             "name": "Kit de classe (Prêtre)",
             "description": "<div><strong>Equipement</strong> pack d’aventurier, bandoulière,</div>\n<div>2 jeux de chausse‑ trappes, symbole religieux (en bois) </div>\n<div><strong>Options</strong>  l’arme préférée de votre divinité (voir les</div>\n<div>entrées concernant les divinités aux pages 437 à 441 ; utilisez le prix</div>\n<div>indiqué dans ce chapitre), armure de peau (2 po)</div>"
+        },
+        {
+            "id": "Religious Symbol (Wooden)",
+            "name": "Symbole religieux (bois)",
+            "description": "<p><span class=\"fontstyle0\">Ce morceau de bois ou d’argent est décoré de la représentation d’une divinité. Certains incantateurs divins, tels que les prêtres, peuvent utiliser un symbole religieux de leur divinité comme focaliseur divin pour utiliser certaines capacités et lancer des sorts. Un symbole religieux doit être tenu dans une main pour pouvoir être utilisé.</span> </p>"
         },
         {
             "id": "Force Shield",
@@ -755,6 +940,16 @@
             "id": "Moonlit Chain",
             "name": "Maille lunaire",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette <em>chemise de mailles en argent +1</em> possède un col cousu d’images de la lune à ses différentes phases. Vous voyez au clair de lune comme si vous disposiez de vision nocturne.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" />&nbsp;Interagir;&nbsp;<strong>Fréquence</strong>&nbsp;1/j;&nbsp;<strong>Effet</strong>&nbsp;En touchant l’image de la nouvelle lune sur le col de l’armure, vous supprimez l’état ébloui pendant 1 min.&nbsp;<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>&nbsp;Les matériaux initiaux bruts doivent inclure 33 po d’argent.</span></p>"
+        },
+        {
+            "id": "Alchemist's Lab",
+            "name": "Laboratoire d’alchimie",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Il vous faut un laboratoire d’alchimie pour créer des objets alchimiques lors d’un intermède. Un laboratoire d’alchimie complet vous donne un bonus d’objet de +1 aux tests d’Artisanat pour fabriquer des objets alchimiques.&nbsp;</span></p>"
+        },
+        {
+            "id": "Lantern (Hooded)",
+            "name": "Lanterne à capote",
+            "description": "<p><span class=\"fontstyle0\">Une lanterne diffuse une lumière vive et nécessite 0,5 litre d’huile pour fonctionner pendant 6 heures. Une lanterne à capote émet sa lumière avec un cône de 18 m (et une lumière faible les 18 m au-delà). Une lanterne sourde émet sa lumière dans un rayon de 9 m (et une lumière faible les 9 m au-delà) et est équipée de volets que vous pouvez fermer pour bloquer la luminosité. Fermer ou ouvrir les volets nécessite une action Interagir.</span> </p>"
         },
         {
             "id": "Thieves’ Tools",
@@ -877,6 +1072,11 @@
             "description": "<p>cette arme possède un manche en bois se terminant par une lourde tête en métal. La tête du marteau peut être à simple face ou à double face, mais elle est toujours capable de délivrer de puissants coups contondants.\n</p>"
         },
         {
+            "id": "Hammer",
+            "name": "Marteau",
+            "description": ""
+        },
+        {
             "id": "Composite Longbow",
             "name": "Arc long composite",
             "description": "<p><span class=\"fontstyle0\">Cet arc court est composé de corne, de bois et de tendon collés ensemble pour augmenter la puissance de sa traction et de son projectile.  Sa taille compacte et sa puissance en font le favori  des archers montés. Chaque fois qu’une capacité est  spécifiquement limitée à un arc court, elle s’applique  également aux arcs courts composites, sauf indication  contraire.</span> </p>"
@@ -900,6 +1100,16 @@
             "id": "Class Kit (Wizard)",
             "name": "Kit de classe (Magicien)",
             "description": "<div><strong>Armes </strong>bâton</div>\n<div><strong>Equipement </strong> pack d’aventurier, bourse de composants matériels,\nnécessaire d’écriture\n</div>\n<div><strong>Options </strong> arbalète avec 20 carreaux (3 po, 2 pa)</div>"
+        },
+        {
+            "id": "Lantern (Bull's Eye)",
+            "name": "Lanterne sourde",
+            "description": "<p><span class=\"fontstyle0\">Une lanterne diffuse une lumière vive et nécessite 0,5 litre d’huile pour fonctionner pendant 6 heures. Une lanterne à capote émet sa lumière avec un cône de 18 m (et une lumière faible les 18 m au-delà). Une lanterne sourde émet sa lumière dans un rayon de 9 m (et une lumière faible les 9 m au-delà) et est équipée de volets que vous pouvez fermer pour bloquer la luminosité. Fermer ou ouvrir les volets nécessite une action Interagir. </span> </p>"
+        },
+        {
+            "id": "Coyote Cloak",
+            "name": "Cape de coyote",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce manteau poussiéreux est taillé dans une miteuse fourrure de coyote brune et grise. Vous gagnez un bonus d’objet de +1 aux tests de Survie. Si vous obtenez un succès critique à votre test de Survie pour Subsister, vous doublez le nombre de créatures supplémentaires que vous pouvez nourrir. &nbsp;</span></p>\n<p>La cape confère un bonus d’objet de +2, et si vous obtenez un succès critique à un test de Survie pour Subsister, vous quadruplez le nombre de créatures supplémentaires que vous pouvez nourrir. </p>"
         },
         {
             "id": "Healer’s Tools",
