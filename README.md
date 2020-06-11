@@ -14,13 +14,14 @@ Expérimentations en cours pour:
   * Ne pas supprimer les textes d'orgine!
   * Voir [data/instructions.md](data/instructions.md) pour plus d'instructions concernant les fichiers de traduction
 * Pour voir l'état d'avancement des traductions:
-  * [Actions](data/status-actions.md)
-  * [Backgrounds](data/status-backgrounds.md)
+  * [capacités d'héritage](data/status-ancestryfeatures.md)
+  * [Historiques](data/status-backgrounds.md)
   * [Classes](data/status-classes.md)
-  * [ancestry features](data/status-ancestryfeatures.md)
-  * [Équipment](data/status-equipment.md)
+  * [capacités de classe](status-classfeatures.md)
+  * [Équipement](data/status-equipment.md)
   * [Dons](data/status-feats.md)
   * [Sorts](data/status-spells.md)
+  * [Actions](data/status-actions.md)
 
 ## Utilisation
 
@@ -44,3 +45,4 @@ Pour appliquer les traductions, il faut installer le module Babele et pointer ve
 * Druid dedication : the special part is missing
 * Magaambyan Attendant Dedication -> archetype feat
 * Primal Hierophant -> class feature of level 19, not 03
+* Low light vision in class feature - wrong text
