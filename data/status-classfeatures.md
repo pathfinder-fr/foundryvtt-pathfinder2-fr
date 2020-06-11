@@ -1,11 +1,11 @@
 # État de la traduction (classfeatures)
 
- * **changé**: 28
- * **officielle**: 75
- * **aucune**: 152
+ * **changé**: 27
+ * **officielle**: 94
+ * **aucune**: 134
 
 
-Dernière mise à jour: 2020-06-09 18:00 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-11 19:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -39,20 +39,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|
 |[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|
 |[alchemist-19-LOLVZkOvgWpzwsgq.htm](classfeatures/alchemist-19-LOLVZkOvgWpzwsgq.htm)|Light Armor Mastery (Alchemist)|
-|[barbarian-07-9EqIasqfI8YIM3Pt.htm](classfeatures/barbarian-07-9EqIasqfI8YIM3Pt.htm)|Weapon Specialization (Barbarian)|
-|[barbarian-07-tItHGKsORVsUqC31.htm](classfeatures/barbarian-07-tItHGKsORVsUqC31.htm)|Juggernaut (Barbarian)|
-|[barbarian-09-ie6xDX9GMEcA2Iuq.htm](classfeatures/barbarian-09-ie6xDX9GMEcA2Iuq.htm)|Raging Resistance|
-|[barbarian-09-Y84m6k4VsR66UZt4.htm](classfeatures/barbarian-09-Y84m6k4VsR66UZt4.htm)|Lightning Reflexes (Barbarian)|
-|[barbarian-11-88Q33X2a0iYPkbzd.htm](classfeatures/barbarian-11-88Q33X2a0iYPkbzd.htm)|Mighty Rage|
-|[barbarian-13-ejP4jVQkS48uKRFz.htm](classfeatures/barbarian-13-ejP4jVQkS48uKRFz.htm)|Weapon Fury|
-|[barbarian-13-TjHt63k8LykkANf2.htm](classfeatures/barbarian-13-TjHt63k8LykkANf2.htm)|Medium Armor Expertise (Barbarian)|
-|[barbarian-13-TuL0UfqH14MtqYVh.htm](classfeatures/barbarian-13-TuL0UfqH14MtqYVh.htm)|Greater Juggernaut|
-|[barbarian-15-7JjhxMFo8DMwpGx0.htm](classfeatures/barbarian-15-7JjhxMFo8DMwpGx0.htm)|Greater Weapon Specialization (Barbarian)|
-|[barbarian-15-BZnqKnqKVImjSIFE.htm](classfeatures/barbarian-15-BZnqKnqKVImjSIFE.htm)|Indomitable Will|
-|[barbarian-17-7MhzrbOyue5GQsck.htm](classfeatures/barbarian-17-7MhzrbOyue5GQsck.htm)|Heightened Senses|
-|[barbarian-17-qMtyQGUllPdgpzUo.htm](classfeatures/barbarian-17-qMtyQGUllPdgpzUo.htm)|Quick Rage|
-|[barbarian-19-QTCIahokREpnAYDi.htm](classfeatures/barbarian-19-QTCIahokREpnAYDi.htm)|Armor of Fury|
-|[barbarian-19-VLiT503OLOM3vaDx.htm](classfeatures/barbarian-19-VLiT503OLOM3vaDx.htm)|Devastator|
 |[bard-07-6YIyycFN795wja1b.htm](classfeatures/bard-07-6YIyycFN795wja1b.htm)|Expert Spellcaster (Bard)|
 |[bard-09-AnZXGuP7Fa1mTiYJ.htm](classfeatures/bard-09-AnZXGuP7Fa1mTiYJ.htm)|Resolve (Bard)|
 |[bard-09-YdH1LNS2mT3LBVHn.htm](classfeatures/bard-09-YdH1LNS2mT3LBVHn.htm)|Great Fortitude (Bard)|
@@ -80,10 +66,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-13-0mJTp4LdEHBLInoe.htm](classfeatures/cleric-13-0mJTp4LdEHBLInoe.htm)|Divine Defense|
 |[cleric-13-tga0Gdns1uA6jirb.htm](classfeatures/cleric-13-tga0Gdns1uA6jirb.htm)|Weapon Specialization (Cleric)|
 |[cleric-19-3uf31A91h3ywmlqm.htm](classfeatures/cleric-19-3uf31A91h3ywmlqm.htm)|Miraculous Spell|
-|[druid-05-71djVINXSPTHO4xX.htm](classfeatures/druid-05-71djVINXSPTHO4xX.htm)|Lightning Reflexes (Druid)|
-|[druid-07-7uV3wuwrceEx3NGf.htm](classfeatures/druid-07-7uV3wuwrceEx3NGf.htm)|Expert Spellcaster (Druid)|
-|[druid-11-4wBmnZowB2uXrVv3.htm](classfeatures/druid-11-4wBmnZowB2uXrVv3.htm)|Resolve (Druid)|
-|[druid-11-Ra32tlqBxHzT6fzN.htm](classfeatures/druid-11-Ra32tlqBxHzT6fzN.htm)|Druid Weapon Expertise|
 |[druid-13-38LFTCPYmVzjOb5t.htm](classfeatures/druid-13-38LFTCPYmVzjOb5t.htm)|Weapon Specialization (Druid)|
 |[druid-13-6uOx7W6I7u5Jv5Lg.htm](classfeatures/druid-13-6uOx7W6I7u5Jv5Lg.htm)|Medium Armor Expertise (Druid)|
 |[druid-15-nlOj4yFnTbw7oNDj.htm](classfeatures/druid-15-nlOj4yFnTbw7oNDj.htm)|Master Spellcaster (Druid)|
@@ -183,6 +165,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-01-WZUCvxqbigXos1L9.htm](classfeatures/barbarian-01-WZUCvxqbigXos1L9.htm)|Rage|Rage|officielle|
 |[barbarian-03-ZW09VPBA4GhuYBbg.htm](classfeatures/barbarian-03-ZW09VPBA4GhuYBbg.htm)|Deny Advantage (Barbarian)|Refus d’avantage (Barbare)|officielle|
 |[barbarian-05-EEUTd0jAyfwTLzjk.htm](classfeatures/barbarian-05-EEUTd0jAyfwTLzjk.htm)|Brutality|Brutalité|officielle|
+|[barbarian-07-9EqIasqfI8YIM3Pt.htm](classfeatures/barbarian-07-9EqIasqfI8YIM3Pt.htm)|Weapon Specialization (Barbarian)|Spécialisation martiale (Barbare)|officielle|
+|[barbarian-07-tItHGKsORVsUqC31.htm](classfeatures/barbarian-07-tItHGKsORVsUqC31.htm)|Juggernaut (Barbarian)|Juggernaut (Barbare)|officielle|
+|[barbarian-09-ie6xDX9GMEcA2Iuq.htm](classfeatures/barbarian-09-ie6xDX9GMEcA2Iuq.htm)|Raging Resistance|Résistance enragée|officielle|
+|[barbarian-09-Y84m6k4VsR66UZt4.htm](classfeatures/barbarian-09-Y84m6k4VsR66UZt4.htm)|Lightning Reflexes (Barbarian)|Réflexes éclair (Barbare)|officielle|
+|[barbarian-11-88Q33X2a0iYPkbzd.htm](classfeatures/barbarian-11-88Q33X2a0iYPkbzd.htm)|Mighty Rage|Rage formidable|officielle|
+|[barbarian-13-ejP4jVQkS48uKRFz.htm](classfeatures/barbarian-13-ejP4jVQkS48uKRFz.htm)|Weapon Fury|Fureur armée|officielle|
+|[barbarian-13-TjHt63k8LykkANf2.htm](classfeatures/barbarian-13-TjHt63k8LykkANf2.htm)|Medium Armor Expertise (Barbarian)|Expertise avec les armures intermédiaires (Barbare)|officielle|
+|[barbarian-13-TuL0UfqH14MtqYVh.htm](classfeatures/barbarian-13-TuL0UfqH14MtqYVh.htm)|Greater Juggernaut|Juggernaut supérieur|officielle|
+|[barbarian-15-7JjhxMFo8DMwpGx0.htm](classfeatures/barbarian-15-7JjhxMFo8DMwpGx0.htm)|Greater Weapon Specialization (Barbarian)|Spécialisation martiale supérieure (Barbare)|officielle|
+|[barbarian-15-BZnqKnqKVImjSIFE.htm](classfeatures/barbarian-15-BZnqKnqKVImjSIFE.htm)|Indomitable Will|Volonté indomptable|officielle|
+|[barbarian-17-7MhzrbOyue5GQsck.htm](classfeatures/barbarian-17-7MhzrbOyue5GQsck.htm)|Heightened Senses|Sens aiguisés|officielle|
+|[barbarian-17-qMtyQGUllPdgpzUo.htm](classfeatures/barbarian-17-qMtyQGUllPdgpzUo.htm)|Quick Rage|Rage rapide|officielle|
+|[barbarian-19-QTCIahokREpnAYDi.htm](classfeatures/barbarian-19-QTCIahokREpnAYDi.htm)|Armor of Fury|Armure de furie|officielle|
+|[barbarian-19-VLiT503OLOM3vaDx.htm](classfeatures/barbarian-19-VLiT503OLOM3vaDx.htm)|Devastator|Dévastateur|officielle|
 |[bard-00-YMBsi4bndRAk5CX4.htm](classfeatures/bard-00-YMBsi4bndRAk5CX4.htm)|Maestro|Virtuose|changé|
 |[bard-01-4ripp6EfdVpS0d60.htm](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Enigma|Énigmatique|changé|
 |[bard-01-fEOj0eOBe34qYdAa.htm](classfeatures/bard-01-fEOj0eOBe34qYdAa.htm)|Occult Spellcasting|Incantation occulte|officielle|
@@ -220,6 +216,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-03-C62VDef26Wi2s4Qm.htm](classfeatures/druid-03-C62VDef26Wi2s4Qm.htm)|Alertness (Druid)|Vigilance (Druide)|officielle|
 |[druid-03-IsicKhmKtNyrkI97.htm](classfeatures/druid-03-IsicKhmKtNyrkI97.htm)|Great Fortitude (Druid)|Vigueur surhumaine (Druide)|officielle|
 |[druid-03-nzgb43mQmLgaqDoQ.htm](classfeatures/druid-03-nzgb43mQmLgaqDoQ.htm)|Primal Hierophant|Hiérophante primordial|changé|
+|[druid-05-71djVINXSPTHO4xX.htm](classfeatures/druid-05-71djVINXSPTHO4xX.htm)|Lightning Reflexes (Druid)|Réflexes éclair (Druide)|officielle|
+|[druid-07-7uV3wuwrceEx3NGf.htm](classfeatures/druid-07-7uV3wuwrceEx3NGf.htm)|Expert Spellcaster (Druid)|Incantateur expert (Druide)|officielle|
+|[druid-11-4wBmnZowB2uXrVv3.htm](classfeatures/druid-11-4wBmnZowB2uXrVv3.htm)|Resolve (Druid)|Résolution (Druide)|officielle|
+|[druid-11-Ra32tlqBxHzT6fzN.htm](classfeatures/druid-11-Ra32tlqBxHzT6fzN.htm)|Druid Weapon Expertise|Expertise avec les armes de druide|officielle|
 |[fighter-01-hmShTfPOcTaKgbf4.htm](classfeatures/fighter-01-hmShTfPOcTaKgbf4.htm)|Attack of Opportunity|Attaque d’opportunité|changé|
 |[fighter-01-OPlu94V5ibX5pr9u.htm](classfeatures/fighter-01-OPlu94V5ibX5pr9u.htm)|Shield Block (Fighter)|Blocage au bouclier (Guerrier)|changé|
 |[fighter-03-GJKJafDGuX4BeAeN.htm](classfeatures/fighter-03-GJKJafDGuX4BeAeN.htm)|Bravery|Bravoure|officielle|
@@ -246,7 +246,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-03-5AB9zIVADQvDG76w.htm](classfeatures/rogue-03-5AB9zIVADQvDG76w.htm)|Deny Advantage (Rogue)|Refus d'avantage (Roublard)|officielle|
 |[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|officielle|
 |[sorcerer-01-2goYo6VNbwC6aKF1.htm](classfeatures/sorcerer-01-2goYo6VNbwC6aKF1.htm)|Bloodline|Lignages|officielle|
-|[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|Lignage : Aberrant|changé|
+|[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|Lignage : Aberrant|officielle|
 |[sorcerer-01-7WBZ2kkhZ7JorWu2.htm](classfeatures/sorcerer-01-7WBZ2kkhZ7JorWu2.htm)|Bloodline: Undead|Lignage : Mort-vivant|officielle|
 |[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|Lignage : Féerique|officielle|
 |[sorcerer-01-O0uXZRWMNliDbkxU.htm](classfeatures/sorcerer-01-O0uXZRWMNliDbkxU.htm)|Bloodline: Hag|Lignage : Guenaude|officielle|

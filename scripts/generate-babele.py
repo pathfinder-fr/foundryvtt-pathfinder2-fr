@@ -38,13 +38,13 @@ for key in TRANSL:
   for fpath in all_files:
     
     data = fileToData(path + fpath)
+    count[data['status']] += 1
+    
     if data['status'] == 'aucune':
       continue
     elif not isValid(data):
       print("Skipping invalid entry %s" % path + fpath)
       continue
-    else:
-      count[data['status']] += 1
     
     # default (all translations in french
     entry = { 'id': data['nameEN'], 'name': data['nameFR'], 'description': data['descrFR'] }

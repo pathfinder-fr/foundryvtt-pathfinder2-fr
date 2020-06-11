@@ -992,6 +992,11 @@
             "description": "<p><strong>Déclencheur</strong> Une créature qui se trouve à portée de votre allonge utilise une action de manipulation ou de déplacement, fait une attaque à distance, ou quitte une case lors d’une action de déplacement qu’elle entreprend.</p>\n<hr>\n<p>Vous frappez un adversaire qui vous laisse une ouverture. Vous faites une Frappe au corps à corps contre la créature qui a déclenché ce pouvoir. Si vous obtenez un coup critique et que le déclencheur était une attaque de manipulation, vous interrompez cette action. Cette Frappe n’est pas prise en compte pour votre malus d’attaques multiples et votre malus d’attaques multiples ne s’applique pas à cette Frappe.</p>"
         },
         {
+            "id": "Fighter Resiliency",
+            "name": "Fighter Resiliency (Résilience du Guerrier)",
+            "description": "<p><strong>Prérequis.</strong> Dévouement du guerrier, classe n’accordant pas plus de points de vie par niveau que 8 + votre modificateur de Constitution</p>\n<hr>\n<p>Vous gagnez 3 points de vie supplémentaires pour chaque don de classe de l’archétype guerrier que vous possédez. Tant que vous continuez à sélectionner des dons de classe de l’archétype guerrier, vous continuez à gagner des points de vie supplémentaires de cette manière.</p>"
+        },
+        {
             "id": "Brawling Focus",
             "name": "Brawling Focus (Focalisation du lutteur)",
             "description": "<p>Vous savez comment optimiser vos attaques en combat rapproché. Vous avez accès aux effets critiques spécialisés des frappes à mains nues du groupe pugilat et des armes du groupe pugilat. Si vous avez Armes monacales, vous avez également accès aux effets critiques spécialisés de toutes les armes de moines avec lesquelles vous êtes qualifié.</p>"
@@ -1315,6 +1320,11 @@
             "id": "Mask Familiar",
             "name": "Mask Familiar (Familier masque)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Gardien de Magaambaya <br></span></p>\n<hr>\n<p>Votre masque acquiert une personnalité propre, lui permettant de vous servir de <a href=\"https://2e.aonprd.com/Familiars.aspx\">familier</a>. Bien que vous puissiez toujours le porter comme un masque, vous pouvez le détacher de votre visage pour lui accorder une forme corporelle de lumière colorée qui lui permet de se déplacer alentour ; habituellement, c'est une forme minature de l'animal qu'il représente. Détacher ou rattacher le familier pour le transformer est une activité à deux actions. Même sous sa forme de masque, le familier peut se déplacer autour de son maître et parler d'une voix distincte (s'il peut parler). Il peut être facilement reconnu comme étant plus qu'un simple masque à moins que le familier n'obtienne un succès sur un test de <a href=\"https://2e.aonprd.com/Skills.aspx?ID=5\">Duperie</a> pour <a href=\"https://2e.aonprd.com/Actions.aspx?ID=46\">Se déguiser</a> en un masque. Hormis son apparence et le fait qu'il puisse être porté comme un masque, il fonctionne comme les autres familiers. Votre familier masque a accès à la capacité de masque familier immobilité<br><br><strong>Immobilité</strong>: lorsqu'il est sous forme de masque, votre familier peut cacher ses capacités surnaturelles évidentes pour se faire passer comme un simple et quelconque masque. Il n'a pas besoi de Se déguiser pour tromper un celui qui n'y jette qu'un œil et il bénéficie d'un bonus de circonstance de +4 à son DD de Duperie contre la <a href=\"https://2e.aonprd.com/Actions.aspx?ID=84\">Fouille </a> ou l'étude d'un observateur attentif.&nbsp;</p>"
+        },
+        {
+            "id": "Theoretical Acumen",
+            "name": "Theoretical Acumen (Perspicacité théorique)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fréquence</strong> Une fois par jour<br><strong>Déclencheur</strong> Vous obtenez un succès à un test de connaissance pour <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Actions.aspx?ID=26\">Vous souvenir</a> pour identifier une  créature.<br></span></p>\n<hr>\n<p>Vous étudiez la forme et le comportement d'une créature pour former des hypothèses sur les moyens de surpasser ses forces. Une fois avant la fin de votre prochain tour, vous pouvez utiliser le modificateur de compétence de la créature qui la déclenche au lieu de votre modificateur du jet de sauvegarde contre une des capacités de la créature, au lieu de votre modificateur de Perception pour Chercher la créature, au lieu de votre modificateur de <a href=\"https://2e.aonprd.com/Skills.aspx?ID=5\">Duperie</a> pour Feinter la créature ou au lieu de votre modificateur d'<a href=\"https://2e.aonprd.com/Skills.aspx?ID=7\">Intimidation</a> pour démoraliser la créature. De manière alternative, contre l'une des attaques de la créature, vous pouvez utiliser votre DD pour la compétence utilisée dans le test déclencheur au lieu de votre CA.&nbsp;</p>"
         },
         {
             "id": "Trick Magic Item",
@@ -1857,6 +1867,11 @@
             "description": "<p>Vous concluez un pacte avec une créature qui vous sert et vous assiste dans vos incantations. Vous obtenez un familier (p. 217).</p>"
         },
         {
+            "id": "Opportunist",
+            "name": "Opportunist (Opportuniste)",
+            "description": "<p><strong>Prérequis.</strong> Dévouement du guerrier</p>\n<hr>\n<p>Vous gagnez la réaction Attaque d’opportunité, décrite p. 142.</p>"
+        },
+        {
             "id": "Bardic Lore",
             "name": "Bardic Lore (Connaissance bardique)",
             "description": "<p><strong>Prérequis</strong> use énigmatique</p>\n<hr>\n<p>Vos recherches vous permettent de rester informé dans pratiquement tous les domaines. Vous êtes qualifié en Connaissance bardique, une compétence de Connaissance spéciale que vous pouvez utiliser pour Vous souvenir d’une information, quel que soit le sujet concerné. Si votre rang de maîtrise est légendaire en Occultisme, vous devenez expert en Connaissance bardique mais vous n’avez aucun autre moyen d’améliorer votre rang de maîtrise dans cette compétence.</p>"
@@ -2175,6 +2190,11 @@
             "id": "Cave Climber",
             "name": "Cave Climber (Grimpeur des cavernes)",
             "description": "<p>Après avoir passé des années à ramper et grimper dans les cavernes, vous n’avez aucun mal à escalader les obstacles qui se dressent sur votre chemin. Vous gagnez une Vitesse d’escalade de 3 m.</p>"
+        },
+        {
+            "id": "Basic Blood Potency",
+            "name": "Basic Blood Potency (Pouvoir du sang basique)",
+            "description": "<p><strong> Prérequis. </strong> Dévouement de l’ensorceleur </p>\n<hr>\n<p> Vous gagnez un don d’ensorceleur de niveau 1 ou 2.</p>"
         },
         {
             "id": "Aura of Courage",
@@ -3360,6 +3380,11 @@
             "id": "Scout’s Warning",
             "name": "Scout’s Warning (Avertissement de l'éclaireur)",
             "description": "<p><strong>Déclencheur</strong> Vous êtes sur le point de faire un test de Perception ou de Survie pour déterminer votre initiative.</p>\n<hr>\n<p>Vous avertissez vos alliés, visuellement ou oralement, d’un danger, et conférez à chacun un bonus de circonstances de +1 à son jet d’initiative. En fonction de la manière dont vous avez averti vos alliés (des gestes ou la voix), cette action possède le trait visuel ou audible.</p>"
+        },
+        {
+            "id": "Basic Druid Spellcasting",
+            "name": "Basic Druid Spellcasting (Incantation du Druide basique)",
+            "description": "<p><strong>Prérequis.</strong> Dévouement du druide</p>\n<hr />\n<p>Vous gagnez les avantages d’incantation basique (page 219).</p>"
         },
         {
             "id": "Elastic Mutagen",

@@ -283,7 +283,7 @@
         },
         {
             "id": "Resist Elf Magic﻿",
-            "name": "Résistance à la magie elfique (Resist Elf Magic﻿)",
+            "name": "Résister à la magie elfique (Resist Elf Magic﻿)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Déclencheur</strong> Vous effectuez un jet de sauvegarde, qui n'a pas encore été lancé, contre un effet magique.</span></p>\n<hr>\n<p>Votre résistance ancestrale à la Magie vous protège. Vous gagnez un bonus de circonstance de +1 au jet de sauvegarde déclencheur. Si l’effet déclencheur est de nature arcanique, vous gagnez un bonus de +2 à la place.&nbsp;</p>"
         },
         {
@@ -369,7 +369,7 @@
         {
             "id": "Step",
             "name": "Faire un pas (Step)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions</strong> Votre Vitesse est d'au moins 3 mètres.</span></p>\n<hr>\n<p>Vous vous déplacez prudemment de 1,50 mètres. A la différence des autres types de déplacements, Faire un pas ne déclenche pas de réactions comme <a href=\"https://2e.aonprd.com/Actions.aspx?ID=8\">Attaque d'opportunité</a>, qui peuvent être déclenchées par des actions de déplacement ou quand vous pénétrez dans une case ou la quittez.</p>\n<p>Vous ne pouvez pas Faire un pas quand vous vous trouvez sur un <a href=\"https://2e.aonprd.com/Rules.aspx?ID=453\">terrain difficile</a>, et vous ne pouvez pas Faire un pas en utilisant une autre Vitesse que votre Vitesse au sol.</p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions</strong> Votre Vitesse est d'au moins 3 mètres.</span></p>\n<hr>\n<p>Vous vous déplacez prudemment de 1,50 mètres. À la différence des autres types de déplacements, Faire un pas ne déclenche pas de réactions comme <a href=\"https://2e.aonprd.com/Actions.aspx?ID=8\">Attaque d'opportunité</a>, qui peuvent être déclenchées par des actions de déplacement ou quand vous pénétrez dans une case ou la quittez.</p>\n<p>Vous ne pouvez pas Faire un pas quand vous vous trouvez sur un terrain difficile et vous ne pouvez pas Faire un pas en utilisant une autre Vitesse que votre Vitesse au sol.</p>"
         },
         {
             "id": "Craft",

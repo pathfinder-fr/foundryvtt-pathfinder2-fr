@@ -17,6 +17,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Soit l’un de vos parents était un orc, soit les deux étaient des demi-orcs. Votre peau aux nuances verdâtres et d’autres signes trahissent votre ascendance orque. Vous gagnez le trait orc et le pouvoir vision nocturne. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des orcs, des demi-orcs et des humains..&nbsp;</span></p>"
         },
         {
+            "id": "Leaf Leshy",
+            "name": "Léchi feuille (Leaf Leshy)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre corps est principalement fait de feuillage naturel, et comme une feuille tombant d'un arbre, vous aterrissez avec une grace particulière lorsque vous chutez. Vous ne subissez pas de dégâts en cas de chute, quelle que soit la distance de cette dernière.&nbsp;</span></p>"
+        },
+        {
             "id": "Razortooth Goblin",
             "name": "Gobelin Dent’rasoir (Razortooth Goblin)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les dents que vous avez héritées de votre famille constituent une arme formidable. Vous gagnez une attaque à mains nues de mâchoires qui inflige 1d6 dégâts perforants. Vos mâchoires font partie du groupe pugilat et possèdent les traits finesse et mains nues.&nbsp;</span></p>"
@@ -32,6 +37,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancètres vivianet sous terre. Vos oreilles sont plus grandes que celles des autres hobgobelins et sensibles aux échos. Lorsque vous êtes sous terre, vous pouvez utiliser l'action Chercher pour repérer des créature non détectées dans une émanation de 9 m au lieu de 4,5 m. En plus, si vous obtenez un succès sur un test d'Acrobatie pour vous Faufiler, vous obtenez un succès critique à la place.&nbsp;</span></p>"
         },
         {
+            "id": "Gourd Leshy",
+            "name": "Léchy calebasse (Gourd Leshy)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez une grosse calebasse au lieu et place d'un crâne. Votre connaissance vient de votre spiritualité intérieure, et non de votre cerveau physique et vous avez trouvé une utilisation plus utile à l'espace intérieur de votre tête. Vous pouvez emmagasiner une collection d'objets qui vont jusqu'à un encombrement 1 à l'intérieur de votre tête. Le DD des tests pour Voler des objets qui s'y trouvent augmente de 4. De plus, si vous emmagasinez un unique objet à l'intérieur de votre tête, vous pouvez le retirer sans effort de votre main comme partie d'une autre action pour utiliser l'objet. Retirer l'objet donne à cette autre action le trait manipulation.&nbsp;</span></p>"
+        },
+        {
             "id": "Runtboss Hobgoblin",
             "name": "Hobgobelin commandant avorton (Runtboss Hobgoblin)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous descendez d'une longue lignée d'hobgobelins qui ont commandé des gobelins. Vous êtes plus petits que les autres hobgobelins, mais les gobelins écoutent toujours chacun des ordres que vous beuglez. Vous obtenez le don de compétence Contraindre un groupe. Si vous obtenez un Succès sur un test d'Intimidation pour Contraindre un gobelin (mais pas les autres créatures avec le trait gobelin), vous obtenez un succès critique à la place ; si vous obtenez un échec critique, vous obtenez un échec à la place.&nbsp;</span></p>"
@@ -43,13 +53,23 @@
         },
         {
             "id": "Keen Eyes",
-            "name": "Yeux aiguisés (Keen Eyes)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos yeux sont particulièrement exercés, vous permettant de remarquer de petits détails concernant les créatures camouflées ou même invisibles que d'autres pourraient manquer. Vous obtenez un bonus de circonstance de +2 lorsque'elle utilise l'action Chercher pour trouver des créatures cachées ou non détectées dans un rayon de 9 m. Lorsque vous ciblez un adversaire qui est camouflé ou caché en ce qui vous concerne, réduisez le DD du test nu à 3 pour une cible camouflée ou à 9 pour celle qui est cachée.&nbsp;</span></p>"
+            "name": "Yeux perçants (Keen Eyes)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre vue perçante vous permet de distinguer des détails concernant des créatures masquées ou invisibles que d’autres pourraient ne pas remarquer. Vous gagnez un bonus de circonstances de +2 quand vous utilisez l’action Chercher pour trouver des créatures cachées ou non détectées dans un rayon de 9 m autour de vous. Quand vous prenez pour cible un adversaire masqué ou caché, réduisez le DD du test nu à 3 pour une cible masquée ou à 9 pour une cible cachée.&nbsp;</span></p>"
+        },
+        {
+            "id": "Unseen Lizardfolk",
+            "name": "Homme-lézard mimétique (Unseen Lizardfolk)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez changer la couleur de votre peau pour vous fondre dans votre environnement, faisant des changements mineurs avec une action unique et des changements importants au long d'une heure. Lorsque vous êtes dans une zone oû votre coloration est vaguement similaire à l'environnement (par exemple, vert forêt dans une forêt), vous pouvez utilisez l'action mineure, unique de cette capacité pour opérer des changements localisés qui vous aident à vous fondre dans votre environnement, obtenant un bonus de circonstance de +2 aux tests pour vous Cacher jusqu'à ce que votre environnement change de coloration ou de motif.&nbsp;</span></p>"
         },
         {
             "id": "Umbral Gnome",
             "name": "Gnome ombral (Umbral Gnome)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes capable de voir dans les ténèbres les plus totales. Vous tenez peut-être ce pouvoir d’un lien avec les fées sombres ou les fées des ombres, avec les gnomes des profondeurs (aussi appelés les svirfneblins) qui vivent sous terre, ou il vous vient d’une autre origine. Vous gagnez vision dans le noir.&nbsp;</span></p>"
+        },
+        {
+            "id": "Elfbane Hobgoblin",
+            "name": "Hobgobelin fléau elfique (Elfbane Hobgoblin)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les Hobgobelins furent conçus il y a longtemps à partir des gobelins féconds mais peu fiables, pour servir d'armée contre les elfes. Bien que les elfes aient libéré les hobgobelins de leur lien, certains hobgobelins ont conservé leur résistance ancestrale à la magie, à laquelle ils se réfèrent comme la “magie elfique.” Vous obtenez la réaction Résister à la magie elfique.</span></p>\n @Compendium[pf2e.actionspf2e.On5CQjX4euWqToly]{Resister à la magie elfique}"
         },
         {
             "id": "Charhide Goblin",
@@ -70,6 +90,11 @@
             "id": "Forge Dwarf",
             "name": "Nain des forges (Forge Dwarf)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres vivaient dans des déserts torrides ou dans des chambres volcaniques souterraines et ils vous ont transmis leur remarquable capacité d’adaptation aux environnements chauds. Vous bénéficiez ainsi d’une résistance au feu égale à la moitié de votre niveau (avec un minimum de 1) et vous subissez tous les effets environnementaux liés à la chaleur comme si leur intensité était réduite d’un rang (la chaleur extraordinaire devient extrême, la chaleur extrême devient grande, etc.).&nbsp;</span></p>"
+        },
+        {
+            "id": "Vine Leshy",
+            "name": "Léchy à liane (Vine Leshy)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les lianes préhensiles qui sont liées à votre corps vous accorde une compétence inégalée pour Escalader. Vous n'avez pas besoin d'avoir chacune de vos mains libres pour Escalader. De plus, si vous obtenez un Succès à un test d'Athlétisme pour Escalader, vous obtenez un succès critique à la place.&nbsp;</span></p>"
         },
         {
             "id": "Unbreakable Goblin",
@@ -97,9 +122,24 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Soit l’un de vos parents était un elfe, soit les deux étaient des demi-elfes. Vos oreilles pointues et d’autres signes trahissent votre ascendance elfique. Vous gagnez le trait elfe et le pouvoir vision nocturne. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des elfes, des demi-elfes et des humains.&nbsp;</span></p>"
         },
         {
+            "id": "Low-Light Vision",
+            "name": "Vision nocturne (Low-Light Vision)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez voir dans la lumière faible comme s’il s’agissait de lumière vive. Vous ignorez ainsi l’état masqué dû à la lumière faible.&nbsp;</span></p>"
+        },
+        {
             "id": "Tailed Goblin",
             "name": "Gobelin à queue (Tailed Goblin)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous disposez d'une queue puissante, sans doute parce que vous descendez d'une communauté de singes gobelins. Vous bénéficiez d'un bonus de circonstance de +2 aux tests d'Athlétisme pour Escalader, vous obtenez Combattant grimpeur comme don supplémentaire et vous réduisez de une le nombre de mains libres nécessaires pour Escalader ou faire un Croc-en-jambe.&nbsp;</span></p>"
+        },
+        {
+            "id": "Fungus Leshy",
+            "name": "Léchi champignon (Fungus Leshy)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre corps a été fait de champignon qui grandit dans l'ombre des grottes et des arbreset vous êtes chez vous dans les cavernes sombres et les terriers. Vous obtenez vision dans le noir.&nbsp;</span></p>"
+        },
+        {
+            "id": "Ancient Elf",
+            "name": "Elfe ancien (Ancient Elf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Dans votre longue vie, vous avez emprunté de nombreux chemins et de nombreux styles. Choisissez une classe autre que la vôtre. Vous obtenez le don de dévouement de multiclassage pour cette classe, même si vous n'en remplissez pas les conditions de niveau. Vous devez toujours remplir les autres prérequis pour obtenir le don.&nbsp;</span></p>"
         },
         {
             "id": "Cavern Elf",
@@ -112,9 +152,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres parcourent les routes depuis des générations, sans jamais avoir ressenti la nécessité de s’installer quelque part. Vous gagnez deux langues de votre choix parmi les langues courantes et peu courantes auxquelles vous avez accès et, à chaque fois que vous choisissez le don Polyglotte <a href=\"https://2e.aonprd.com/Feats.aspx?ID=814\">Multilingual</a>, vous gagnez une langue supplémentaire.&nbsp;</span></p>"
         },
         {
+            "id": "Desert Elf",
+            "name": "Elfe du désert (Desert Elf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vivez sous la chaleur brûlante du désert, ce qui vous confère une résistance incroyable aux environnements chauds. Vous obtenez une résistance au feu égale à la moitié de votre niveau (minimum 1), et les effets liés à la chaleur de l'environnement sont d'un rang moins extrême pour ce qui vous concerne (une chaleur incroyable devient extrême, une chaleur extrême devient sévère, etc).&nbsp;</span></p>"
+        },
+        {
             "id": "Death Warden Dwarf",
             "name": "Nain gardemort (Death Warden Dwarf)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres ont passé des générations à garder des tombeaux et ils vous ont transmis les pouvoirs qu’ils ont cultivés pour se garder de la nécromancie. Si vous obtenez un succès sur un jet de sauvegarde contre un effet de nécromancie, il est transformé en succès critique.&nbsp;</span></p>"
+        },
+        {
+            "id": "Treedweller Goblin",
+            "name": "Gobelin habitant des arbres (Treedweller Goblin)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous êtes adapté particulièrement bien en vivant dans les environnements forestiers. tant que vous vous trouvez dans une forêt ou une jungle, vous obtenez un bonus de circonstance de +2 aux tests de Discrétion pour vous Cacher et Être furtif, aux tests de Survie pour Subsister et à votre DD de Survie pour Couvrir vos traces.&nbsp;</span></p>"
         },
         {
             "id": "Seer Elf",
@@ -122,9 +172,24 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez le pouvoir inné de détecter et comprendre les phénomènes magiques. Vous pouvez lancer le tour de magie détection de la magie @Item[Detect Magic] comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">En outre, vous gagnez un bonus de circonstances de +1 à vos tests pour Identifier la magie et Déchiffrer un texte de nature magique. Ces actions font généralement appel aux compétences Arcanes, Nature, Occultisme ou Religion.&nbsp;</span></p>"
         },
         {
+            "id": "Elemental Heart Dwarf",
+            "name": "Nain Coeurélémentaire (Elemental Heart Dwarf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Que ce soit au travers d'un lien avec la forge de Torag, des azers du plan du Feu ou d'une autre source, vous pouvez exsuder une émanation d'énergie. Les nains Mbe’ke et Taralu du Mwangi pensent que cette ascendance est un don des dragons ou des esprits élémentaires. Choisissez un des types de dégâts suivants : acide, électricité, feu ou froid. Une fois choisi, il ne peut être modifié. Vous obtenez l'activité Émanation énergétique.</span></p>\n @Compendium[pf2e.actionspf2e.7qjfYsLNTr17Aftf]{Émanation énergétique}"
+        },
+        {
+            "id": "Darkvision",
+            "name": "Vision dans le noir (Darkvision)",
+            "description": "<p><span class=\"fontstyle0\">Vous voyez dans les ténèbres et dans la lumière faible aussi bien que dans la lumière vive. Par contre, quand vous êtes dans les ténèbres, vous voyez en noir et blanc.</span> </p>"
+        },
+        {
             "id": "Twilight Halfling",
             "name": "Halfelin du crépuscule (Twilight Halfling)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres profitaient du couvert du crépuscule pour accomplir de nombreuses actions, bonnes ou mauvaises, en secret et ils ont fini par développer la capacité de voir dans la lumière crépusculaire avec plus d’acuité que les autres halfelins. Vous gagnez vision nocturne.&nbsp;</span></p>"
+        },
+        {
+            "id": "Aquatic Adaptation",
+            "name": "Adaptation aquatique (Aquatic Adaptation)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre biologie reptilienne vous permet de retenir votre souffle pendant très longtemps. Vous obtenez le don général @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Contrôle de la respiration} comme don supplémentaire.</span></p>"
         },
         {
             "id": "Arctic Elf",
@@ -132,9 +197,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vivez dans les profondeurs glacées du Nord et avez développé une incroyable endurance aux environnements froids, qui vous confère une résistance au froid égale à la moitié de votre niveau (avec un minimum de 1). Vous subissez tous les effets environnementaux liés au froid comme si leur intensité était réduite d’un rang (le froid extraordinaire devient extrême, le froid extrême devient grand, etc.).&nbsp;</span></p>"
         },
         {
+            "id": "Wintertouched Human",
+            "name": "Humain touché par l'hiver (Wintertouched Human)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le pouvoir de l'hiver coule à travers vous. Cette ascendance est plus commune parmi les Jadwiga d'Irrisen, car ils descendent de Baba Yaga et de certains Erutaki touchés par les esprits. Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1) et vous traitez les effets liés à un environnement froid comme s'il était d'un rang moins extrême (incroyablement froid devient extrême, froid extrême devient sévère, etc).&nbsp;</span></p>"
+        },
+        {
             "id": "Irongut Goblin",
             "name": "Gobelin Boyaud’fer (Irongut Goblin)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez vous nourrir d’aliments que la plupart des gens considéreraient comme avariés. Quand vous vous trouvez dans une agglomération, vous pouvez vous nourrir convenablement avec des repas peu consistants aussi longtemps que vous avez accès à des ordures et sans avoir à vous lancer dans l’activité d’intermède Subsister. Vous pouvez manger et boire même quand vous êtes malade.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus de circonstances de +2 à vos jets de sauvegarde contre les afflictions, contre l’état malade, et pour guérir de l’état malade. Quand vous obtenez un succès sur un jet de Vigueur affecté par ce bonus, celui-ci est transformé en succès critique. Vous ne bénéficiez de ces avantages que quand l’affliction ou l’état qui vous affecte est le résultat de quelque chose que vous avez ingéré.</span></p>"
+        },
+        {
+            "id": "Anvil Dwarf",
+            "name": "Nain de la forge (Anvil Dwarf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes le descendant d'un artisan réputé et possédez votre propre incroyable talent. Les autres nains pourraient considérer que c'est la bénédiction de vos ancètres ou du P^ère de la forge lui-même, en fonction de l'endroit où vous avez été élevé. Vous êtes qualifié en Artisanat (ou une autre compétence si vous étiez déjà qualifié en Artisanat) et vous obtenez le don de compétence Artisanat spécialisé, sauf que vous pouvez choisir deux spécialités à la place d'une seule.&nbsp;</span></p>"
         },
         {
             "id": "Ancient-Blooded Dwarf",
@@ -162,6 +237,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une autre source de magie a pris l’ascendant sur la magie primordiale de votre ascendance féerique. Cette connexion peut : provenir d’un plan occulte ou d’un ancien chant occulte ; être liée à une divinité, un céleste ou un fiélon; avoir été causée par un effluent magique ayant persisté après un conflit entre mages ; être associée à une antique rune magique..<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choississez <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=1\">arcanique</a>, <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=2\">divine</a>, or <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=3\">occulte</a>. Vous gagnez un tour de magie choisi dans la liste de sorts de cette tradition (pages 306‑315). Vous pouvez lancer ce sort à volonté sous forme de sort inné et comme un sort de la tradition choisie. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur. À chaque fois que vous gagnez un sort inné primordial grâce à un don ancestral gnome, remplacez la tradition primordiale qui lui est associée par la tradition que vous avez choisie.&nbsp;</span></p>"
         },
         {
+            "id": "Observant Halfling",
+            "name": "Halfelin observateur (Observant Halfling)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos sens particulièrement aiguisés vous donnent des indices en cas de danger ou de tromperie. Vous obtenez un bonus de circonstance de +1 à votre DD de Perception, mais pas à vos tests de Perception.&nbsp;</span></p>"
+        },
+        {
             "id": "Skilled Heritage",
             "name": "Héritage talentueux (Skilled Heritage)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre sagacité vous permet d’être formé à de nombreuses compétences. Vous devenez qualifié dans une compétence de votre choix. Au niveau 5, vous atteignez le rang de maîtrise expert dans cette compétence.&nbsp;</span></p>"
@@ -169,7 +249,7 @@
         {
             "id": "Sensate Gnome",
             "name": "Gnome sensitif (Sensate Gnome)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Par rapport à vos congénères, vous voyez toutes les couleurs avec plus d’intensité, vous entendez les sons avec plus de finesse et vous pouvez identifier les innombrables nuances qui composent une odeur. Vous gagnez le sens spécial : odorat imprécis <a href=\"https://2e.aonprd.com/Rules.aspx?ID=412\">imprecise</a> avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre odorat pour déterminer l’emplacement exact d’une créature (comme expliqué en page 465). Le MJ double généralement la portée de ce pouvoir si vous êtes sous le vent par rapport à cette créature, ou la divise par deux si c'est l'inverse.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">En outre, vous gagnez un bonus de circonstances de +2 à vos tests de Perception à chaque fois que vous tentez de localiser une créature non détectée qui se trouve à portée de votre odorat.</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Par rapport à vos congénères, vous voyez toutes les couleurs avec plus d’intensité, vous entendez les sons avec plus de finesse et vous pouvez identifier les innombrables nuances qui composent une odeur. Vous gagnez le sens spécial : odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre odorat pour déterminer l’emplacement exact d’une créature. Le MJ double généralement la portée de ce pouvoir si vous êtes sous le vent par rapport à cette créature, ou la divise par deux si c'est l'inverse.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">En outre, vous gagnez un bonus de circonstances de +2 à vos tests de Perception à chaque fois que vous tentez de localiser une créature non détectée qui se trouve à portée de votre odorat.</span></p>"
         },
         {
             "id": "Versatile Heritage",
@@ -177,9 +257,39 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La polyvalence et l’ambition des humains leur ont permis d’accéder au statut d’ascendance majoritaire dans la plupart des nations du monde. Choisissez un don général dont vous remplissez les prérequis (comme pour votre don ancestral, vous pouvez choisir ce don général à tout moment dans la création de votre personnage).&nbsp;</span></p>"
         },
         {
+            "id": "Warmarch Hobgoblin",
+            "name": "Hobgobelin Marchebataille (Warmarch Hobgoblin)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous descendez d'une lignée de mercenaires errants, constamment sur en marche et récupérant de la nourriture au long du chemin. Si vous obtenez un échec, mais pas un échec critique, pour Subsister dans les étendues sauvages, Vous parvenez toujours à vous nourrir vous-même avec des piteux repas. Lorsque vous explorez, vous pouvez vous Empresser deux fois plus longtemps que les autres avant de devoir vous arrêter.&nbsp;</span></p>"
+        },
+        {
+            "id": "Cliffscale Lizardfolk",
+            "name": "Homme-lézard écaille de falaise (Cliffscale Lizardfolk)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos orteils se sont adaptées pour agripper et escalader. Vous obtenez le don @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur} comme don supplémentaire et aussi longtemps que vous ne portez rien aux pieds, vous pouvez utilisez les coussinnets collants sur vos pieds pour escalader, en gardant vos mains libres. De plus, si vous obtenez un Succès sur un test d'Athlétisme pour escalader, vous obtenez un Succès critique à la place.&nbsp;</span></p>"
+        },
+        {
             "id": "Oathkeeper Dwarf",
             "name": "Nain gardeserment (Oathkeeper Dwarf)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En grandissant, vous n'avez jamais cherché à mentir pour obtenir ce que vous désiriez et même lorsque cela a été nécessaire, mentir vous a mis mal à l'aise. Les membres particulièrement croyants ont même pu penser que vous avez été béni par le dieu nain du devoir, Kols. Vous obtenez un bonus de circonstance de +1 aux tests de Perception pour Deviner les intentions et au DD de Perception contre les tentatives de vous mentir. De plus, vous obtenez un bonus de circonstance de +2 aux tests de Diplomatie pour convaincre les autres que vous dites la véritélorsque vous la dites et vous subissez une pénalité de circonstance de –4 pour Mentir et a votre test de Duperie contre une tentative pour Deviner vos Intentions.&nbsp;</span></p>"
+        },
+        {
+            "id": "Wetlander Lizardfolk",
+            "name": "Homme-lézard des terres humides (Wetlander Lizardfolk)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre famille descend du plus commun des héritages des hommes-lézards et vous êtes accoutumé aux environnements aquatiques. Vous obtenez une Vitesse de Nage de 4,5 m.&nbsp;</span></p>"
+        },
+        {
+            "id": "Vivacious Gnome",
+            "name": "Gnome vivace (Vivacious Gnome)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous possédez un lien incroyablement fort à l'énergie positivequi coule au travers le Premier Monde, rendant plus difficile d'attaquer votre force vitale avec de l'énergie négative. Vous obtenez une résistance à l'énergie négative égale à la moitié de votre niveau (minimum 1). Lorsque vous avez la condition condamnée, la condition vous affecte comme si sa valeur était inférieure de 1 qu'elle l'est actuellement (condamné 1 n'a pas d'effet, condamné 2 provoque votre mort à mourant 3, etc).&nbsp;</span></p>"
+        },
+        {
+            "id": "Smokeworker Hobgoblin",
+            "name": "Hobgobelin travailleur de fumée (Smokeworker Hobgoblin)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre famille a été alchimiste, ingénieur et scientifique depuis des générations, sur des projets qui apporte fûmée et feu sur le champ de bataille. Vous obtenez une résistance au feu égal à la moitié de votre niveau (minimum 1). Vous obtenez automatiquement un Succès sur un test nu de DD 5 pour cibler une créature camouflée si cette créature n'est camouflée que par la fumée.&nbsp;</span></p>"
+        },
+        {
+            "id": "Plant Nourishment",
+            "name": "Alimentation des plantes (Plant Nourishment)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous obtenez de quoi vous alimenter de la même manière que le font les plantes ou les champignons qui correspondent à votre type de corps, au travers d'une combinaison de photosynthèse, absorbant les minéraux avec vos racines ou en récupérant la matière en décomposition. Vous n'avez pas besoin de payer pour votre nourriture. Si vous dépendez normalement de la photosynthèse et que vous ne  voyez pas la lumière du soleil pendant une semaine, vous commencez à dépérir. Vous pouvez obtenir une alimentation de bouteilles spécialement formulé de lumière du soleil ou de lumière du soleil naturelle mais ces bouteilles coûtent 10 fois plus que des rations habituelles (ou 40 pa).&nbsp;</span></p>"
         }
     ]
 }

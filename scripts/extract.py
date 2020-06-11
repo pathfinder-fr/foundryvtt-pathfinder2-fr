@@ -9,15 +9,15 @@ import re
 from libdata import *
 
 FILES = [
-  {'id': "classes", 'name': "name", 'desc': "content" },
-  {'id': "actions", 'name': "name", 'desc': "data.description.value" },
+#  {'id': "classes", 'name': "name", 'desc': "content" },
+#  {'id': "actions", 'name': "name", 'desc': "data.description.value" },
   {'id': "equipment", 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" },
-  {'id': "feats",   'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" },
-  {'id': "spells", 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" },
-  {'id': "backgrounds", 'name': "name", 'desc': "content" },
-  {'id': "ancestryfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" },
-  {'id': "classfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "data.traits.value", 'type2': "data.level.value" },
-  {'id': "conditions", 'name': "name", 'desc': "content" },
+#  {'id': "feats",   'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" },
+#  {'id': "spells", 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" },
+#  {'id': "backgrounds", 'name': "name", 'desc': "content" },
+#  {'id': "ancestryfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" },
+#  {'id': "classfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "data.traits.value", 'type2': "data.level.value" },
+#  {'id': "conditions", 'name': "name", 'desc': "content" },
 ]
   
 ROOT="../"
@@ -73,9 +73,9 @@ for F in FILES:
       continue
     
     # build filename
-    filenameBase1 = "%s.htm" % id
-    filenameBase2 = "%s.htm" % id
-    filename = filenameBase1
+    filenameBase1 = "%s.htm" % id   # basic filename (id only)
+    filenameBase2 = "%s.htm" % id   # filename with 1 param less
+    filename = filenameBase1        # target filename
     if source['type2']:
       filename = "%s-%s-%s" % (source['type1'], source['type2'], filenameBase1)
       filenameBase2 = "%s-%s" % (source['type1'], filenameBase1)
@@ -85,6 +85,22 @@ for F in FILES:
     filepathBase1 = "%sdata/%s/%s" % (ROOT, F['id'], filenameBase1)
     filepathBase2 = "%sdata/%s/%s" % (ROOT, F['id'], filenameBase2)
     filepath = "%sdata/%s/%s" % (ROOT, F['id'], filename)
+    
+    count = 0
+    if os.path.isfile(filepathBase1):
+      count += 1
+    if os.path.isfile(filepathBase2):
+      count += 1
+    if os.path.isfile(filepath):
+      count += 1
+    
+    if count > 1:
+      print("Multiple files for same!!")
+      print(filepathBase1)
+      print(filepathBase2)
+      print(filepath)
+      exit(1)
+    
     if os.path.isfile(filepath):
       data = fileToData(filepath)
       
@@ -111,7 +127,6 @@ for F in FILES:
       os.rename(filepathBase1, filepath)
     elif os.path.isfile(filepathBase2):
       os.rename(filepathBase2, filepath)
-    
     else:
       data = { 
         'nameEN': source['name'],
