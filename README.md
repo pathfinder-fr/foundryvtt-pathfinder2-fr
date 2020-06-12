@@ -17,7 +17,7 @@ Expérimentations en cours pour:
   * [capacités d'héritage](data/status-ancestryfeatures.md)
   * [Historiques](data/status-backgrounds.md)
   * [Classes](data/status-classes.md)
-  * [capacités de classe](status-classfeatures.md)
+  * [capacités de classe](data/status-classfeatures.md)
   * [Équipement](data/status-equipment.md)
   * [Dons](data/status-feats.md)
   * [Sorts](data/status-spells.md)
@@ -46,3 +46,4 @@ Pour appliquer les traductions, il faut installer le module Babele et pointer ve
 * Magaambyan Attendant Dedication -> archetype feat
 * Primal Hierophant -> class feature of level 19, not 03
 * Low light vision in class feature - wrong text
+Ces erreurs ont été remontées dans le projet vo
