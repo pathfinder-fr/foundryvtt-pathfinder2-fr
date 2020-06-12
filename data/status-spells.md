@@ -1,11 +1,11 @@
 # État de la traduction (spells)
 
  * **officielle**: 86
- * **aucune**: 547
+ * **aucune**: 548
  * **changé**: 41
 
 
-Dernière mise à jour: 2020-06-11 19:37 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-12 19:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -283,6 +283,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-01-SuBtUJiU6DbSJYIw.htm](spells/evo-01-SuBtUJiU6DbSJYIw.htm)|Moonbeam|
 |[evo-01-W37iBXLsY2trJ1rS.htm](spells/evo-01-W37iBXLsY2trJ1rS.htm)|Weapon Surge|
 |[evo-01-W6QlRwQLPoBSw6PZ.htm](spells/evo-01-W6QlRwQLPoBSw6PZ.htm)|Snowball|
+|[evo-01-y6rAdMK6EFlV6U0t.htm](spells/evo-01-y6rAdMK6EFlV6U0t.htm)|Burning Hands|
 |[evo-01-zdb8cjOIDVKYMWdr.htm](spells/evo-01-zdb8cjOIDVKYMWdr.htm)|Penumbral Shroud|
 |[evo-01-zul5cBTfr7NXHBZf.htm](spells/evo-01-zul5cBTfr7NXHBZf.htm)|Dazzling Flash|
 |[evo-02-0qaqksrGGDj74HXE.htm](spells/evo-02-0qaqksrGGDj74HXE.htm)|Glitterdust|

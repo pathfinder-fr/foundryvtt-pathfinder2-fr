@@ -9,15 +9,15 @@ import re
 from libdata import *
 
 FILES = [
-#  {'id': "classes", 'name': "name", 'desc': "content" },
-#  {'id': "actions", 'name': "name", 'desc': "data.description.value" },
+  {'id': "classes", 'name': "name", 'desc': "content" },
+  {'id': "actions", 'name': "name", 'desc': "data.description.value" },
   {'id': "equipment", 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" },
-#  {'id': "feats",   'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" },
-#  {'id': "spells", 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" },
-#  {'id': "backgrounds", 'name': "name", 'desc': "content" },
-#  {'id': "ancestryfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" },
-#  {'id': "classfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "data.traits.value", 'type2': "data.level.value" },
-#  {'id': "conditions", 'name': "name", 'desc': "content" },
+  {'id': "feats",   'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" },
+  {'id': "spells", 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" },
+  {'id': "backgrounds", 'name': "name", 'desc': "content" },
+  {'id': "ancestryfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" },
+  {'id': "classfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "data.traits.value", 'type2': "data.level.value" },
+  {'id': "conditions", 'name': "name", 'desc': "content" },
 ]
   
 ROOT="../"
@@ -87,9 +87,9 @@ for F in FILES:
     filepath = "%sdata/%s/%s" % (ROOT, F['id'], filename)
     
     count = 0
-    if os.path.isfile(filepathBase1):
+    if filepathBase1 != filepath and os.path.isfile(filepathBase1):
       count += 1
-    if os.path.isfile(filepathBase2):
+    if filepathBase2 != filepath and os.path.isfile(filepathBase2):
       count += 1
     if os.path.isfile(filepath):
       count += 1

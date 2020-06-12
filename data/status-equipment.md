@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 295
- * **aucune**: 1064
+ * **officielle**: 298
+ * **aucune**: 1060
  * **libre**: 7
- * **changé**: 4
+ * **changé**: 5
 
 
-Dernière mise à jour: 2020-06-11 19:37 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-12 19:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -327,7 +327,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-19-o1XIHJ4MJyroAHfF.htm](equipment/consumable-19-o1XIHJ4MJyroAHfF.htm)|Scroll of 10th-level Spell|
 |[consumable-19-tHUo3a0g20LR8a23.htm](equipment/consumable-19-tHUo3a0g20LR8a23.htm)|Aeon Stone (Lavender and Green Ellipsoid)|
 |[consumable-19-xQS1MSqGQz44FWUh.htm](equipment/consumable-19-xQS1MSqGQz44FWUh.htm)|Black Lotus Extract|
-|[consumable-20-737LQfIaLXBPEzc3.htm](equipment/consumable-20-737LQfIaLXBPEzc3.htm)|Antimagic Oil|
 |[consumable-20-dRi775Uhzqgn7aBs.htm](equipment/consumable-20-dRi775Uhzqgn7aBs.htm)|Nightmare Salt|
 |[consumable-20-Fv97oB3iEIFAyzTu.htm](equipment/consumable-20-Fv97oB3iEIFAyzTu.htm)|Philosopher's Stone|
 |[consumable-20-gDGPvobJV1QGYBPy.htm](equipment/consumable-20-gDGPvobJV1QGYBPy.htm)|Tears of Death|
@@ -342,7 +341,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-n0OsTQFXFz6dDAr6.htm](equipment/equipment-00-n0OsTQFXFz6dDAr6.htm)|Flayleaf|
 |[equipment-01-GnBZ7lauimjQtCtU.htm](equipment/equipment-01-GnBZ7lauimjQtCtU.htm)|Dust Pods|
 |[equipment-01-JZXCTwoIWoGKjMX6.htm](equipment/equipment-01-JZXCTwoIWoGKjMX6.htm)|Lock (Simple)|
-|[equipment-01-mRz8Jmk4Q06SsZpC.htm](equipment/equipment-01-mRz8Jmk4Q06SsZpC.htm)|Everburning Torch|
 |[equipment-02-9uhJ7OB65ZTdUc8b.htm](equipment/equipment-02-9uhJ7OB65ZTdUc8b.htm)|Necklace of Knives|
 |[equipment-02-BANLXq8FhwqsDu0v.htm](equipment/equipment-02-BANLXq8FhwqsDu0v.htm)|Wondrous Figurine (Onyx Dog)|
 |[equipment-02-BJxnnY9ap2wMDnRN.htm](equipment/equipment-02-BJxnnY9ap2wMDnRN.htm)|Bottomless Stein|
@@ -383,7 +381,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-03-RgNBGpBc9G2yw1C2.htm](equipment/equipment-03-RgNBGpBc9G2yw1C2.htm)|Crafter's Eyepiece|
 |[equipment-03-SGkOHFyBbzWdBk8D.htm](equipment/equipment-03-SGkOHFyBbzWdBk8D.htm)|Expanded Healer's Tools|
 |[equipment-03-SswqJqeAWGtX3tTF.htm](equipment/equipment-03-SswqJqeAWGtX3tTF.htm)|Hat of the Magi|
-|[equipment-03-UJWiN0K3jqVjxvKk.htm](equipment/equipment-03-UJWiN0K3jqVjxvKk.htm)|Magic Wand (1st-Level Spell)|
 |[equipment-03-uQOaRpfkUFVYD0Gx.htm](equipment/equipment-03-uQOaRpfkUFVYD0Gx.htm)|Slick|
 |[equipment-03-xaWuuQoBJiMLzggR.htm](equipment/equipment-03-xaWuuQoBJiMLzggR.htm)|Thurible of Revelation (Lesser)|
 |[equipment-03-xVhd8NF9KQ6VWfMu.htm](equipment/equipment-03-xVhd8NF9KQ6VWfMu.htm)|Compass (Lensatic)|
@@ -798,7 +795,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-nIlx1IQhYJfQtpVF.htm](equipment/treasure-nIlx1IQhYJfQtpVF.htm)|Alabaster|
 |[treasure-NLcnptEjjiY9teq7.htm](equipment/treasure-NLcnptEjjiY9teq7.htm)|Intricate silver and gold music box|
 |[treasure-noLtrW7wFfRFxSUt.htm](equipment/treasure-noLtrW7wFfRFxSUt.htm)|Colorful pastoral tapestry|
-|[treasure-NuX85j3bYLYVcINr.htm](equipment/treasure-NuX85j3bYLYVcINr.htm)|Garnet|
 |[treasure-nzT4kWzAdLMcESWl.htm](equipment/treasure-nzT4kWzAdLMcESWl.htm)|Virtuoso silver flute|
 |[treasure-oH7dJGkgAB0Y2Mad.htm](equipment/treasure-oH7dJGkgAB0Y2Mad.htm)|Obsidian|
 |[treasure-ony7u60cfBMtLG8F.htm](equipment/treasure-ony7u60cfBMtLG8F.htm)|Gold chalice with black pearls|
@@ -1185,7 +1181,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-03-3P97TRcorxMNYC72.htm](equipment/consumable-03-3P97TRcorxMNYC72.htm)|Serene Mutagen (Moderate)|Mutagène de sérénité (modéré)|officielle|
 |[consumable-03-aZm1x9tpvBAT8YCd.htm](equipment/consumable-03-aZm1x9tpvBAT8YCd.htm)|Cytillesh Oil|Hule de Cytillesh|officielle|
 |[consumable-03-CXiuAtOgqAIRm0be.htm](equipment/consumable-03-CXiuAtOgqAIRm0be.htm)|Quicksilver Mutagen (Moderate)|Mutagène de vif-argent (modéré)|officielle|
-|[consumable-03-e0vSAQfxhHauiAoD.htm](equipment/consumable-03-e0vSAQfxhHauiAoD.htm)|Healing Potion (Lesser)|Potion de soin (inférieur)|officielle|
+|[consumable-03-e0vSAQfxhHauiAoD.htm](equipment/consumable-03-e0vSAQfxhHauiAoD.htm)|Healing Potion (Lesser)|Potion de guérison (inférieur)|officielle|
 |[consumable-03-GLdZfybWk6jAqlah.htm](equipment/consumable-03-GLdZfybWk6jAqlah.htm)|Cognitive Mutagen (Moderate)|Mutagènhe cognitif (modéré)|officielle|
 |[consumable-03-o1wCUtfXAD8hCfS7.htm](equipment/consumable-03-o1wCUtfXAD8hCfS7.htm)|Silvertongue Mutagen (Moderate)|Mutagène de langue dorée (modéré)|officielle|
 |[consumable-03-WQhnfj1LbrEzvh8z.htm](equipment/consumable-03-WQhnfj1LbrEzvh8z.htm)|Potion of Water Breathing|Potion de respiration aquatique|officielle|
@@ -1243,6 +1239,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-16-kicNrnZz1KjJYRVI.htm](equipment/consumable-16-kicNrnZz1KjJYRVI.htm)|Eagle Eye Elixir (Major)|Elixir d'oeil de faucon (majeur)|officielle|
 |[consumable-16-XMuLrJYL6fxv4YNA.htm](equipment/consumable-16-XMuLrJYL6fxv4YNA.htm)|Salamander Elixir (Greater)|Elixir de la salamandre (supérieur)|officielle|
 |[consumable-19-qK964kZz1ALcysOa.htm](equipment/consumable-19-qK964kZz1ALcysOa.htm)|Elixir of Life (True)|Elixir de vie (ultime)|officielle|
+|[consumable-20-737LQfIaLXBPEzc3.htm](equipment/consumable-20-737LQfIaLXBPEzc3.htm)|Antimagic Oil|Huile antimagie|officielle|
 |[consumable-20-UHrLqWCnFEUspSQj.htm](equipment/consumable-20-UHrLqWCnFEUspSQj.htm)|Elixir of Rejuvenation|Elixir de jouvence|officielle|
 |[consumable-AITVZmakiu3RgfKo.htm](equipment/consumable-AITVZmakiu3RgfKo.htm)|Bolts|Carreau|officielle|
 |[consumable-Du05UxCyCM0ZWH8z.htm](equipment/consumable-Du05UxCyCM0ZWH8z.htm)|Oil (1 pint)|Huile|officielle|
@@ -1258,6 +1255,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-y34yjumCFakrbtdw.htm](equipment/equipment-00-y34yjumCFakrbtdw.htm)|Artisan’s Tools|Outils d'artisan|officielle|
 |[equipment-00-ZPY2dOaMYciIJv1Q.htm](equipment/equipment-00-ZPY2dOaMYciIJv1Q.htm)|Manacles (Poor)|Menottes (médiocre)|officielle|
 |[equipment-01-ckGYDocGEaelHfXF.htm](equipment/equipment-01-ckGYDocGEaelHfXF.htm)|Manacles (Simple)|Menottes (simple)|officielle|
+|[equipment-01-mRz8Jmk4Q06SsZpC.htm](equipment/equipment-01-mRz8Jmk4Q06SsZpC.htm)|Everburning Torch|Torche éternelle|changé|
 |[equipment-03-3ld14dsn2RLu9owg.htm](equipment/equipment-03-3ld14dsn2RLu9owg.htm)|Musical Instrument (Virtuoso handheld)|Instruments de musique (Virtuose)|officielle|
 |[equipment-03-5GbC7RTgyAeaOcAI.htm](equipment/equipment-03-5GbC7RTgyAeaOcAI.htm)|Magnifying Glass|Loupe|officielle|
 |[equipment-03-BKdzb8hu3kZtKH3Z.htm](equipment/equipment-03-BKdzb8hu3kZtKH3Z.htm)|Bracelets of Dashing|Bracelet de fougue|changé|
@@ -1267,6 +1265,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-03-rXZxM7SbqEnvXyal.htm](equipment/equipment-03-rXZxM7SbqEnvXyal.htm)|Clothing (High-fashion Fine)|Vêtements (beaux)|officielle|
 |[equipment-03-UhcRWtnjU2WLSClx.htm](equipment/equipment-03-UhcRWtnjU2WLSClx.htm)|Survey Map|Carte d'état-major|officielle|
 |[equipment-03-uhka9LHEP3wDKytG.htm](equipment/equipment-03-uhka9LHEP3wDKytG.htm)|Alchemist's Lab (Expanded)|Laboratoire d'alchimie (complet)|officielle|
+|[equipment-03-UJWiN0K3jqVjxvKk.htm](equipment/equipment-03-UJWiN0K3jqVjxvKk.htm)|Magic Wand (1st-Level Spell)|Baguette magique (sort de 1er niveau)|officielle|
 |[equipment-03-YhkomhtKBK3i9C7Q.htm](equipment/equipment-03-YhkomhtKBK3i9C7Q.htm)|Disguise Kit (Elite)|Kit de déguisement (Elite)|officielle|
 |[equipment-04-7JVgLiNTAs4clEW8.htm](equipment/equipment-04-7JVgLiNTAs4clEW8.htm)|Alchemist Goggles|Lunettes d'alchimiste|officielle|
 |[equipment-04-o1zKhvYUUc1hE2AE.htm](equipment/equipment-04-o1zKhvYUUc1hE2AE.htm)|Healer's Gloves|Gants du guérisseur|officielle|
@@ -1322,6 +1321,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-JuNPeK5Qm1w6wpb4.htm](equipment/treasure-JuNPeK5Qm1w6wpb4.htm)|Platinum Pieces|Pièce de platine|officielle|
 |[treasure-LyQQvO7COYAvFRNw.htm](equipment/treasure-LyQQvO7COYAvFRNw.htm)|Jade|Jade|officielle|
 |[treasure-lzJ8AVhRcbFul5fh.htm](equipment/treasure-lzJ8AVhRcbFul5fh.htm)|Copper Pieces|Pièces de cuivre|officielle|
+|[treasure-NuX85j3bYLYVcINr.htm](equipment/treasure-NuX85j3bYLYVcINr.htm)|Garnet|Grenat|officielle|
 |[treasure-u7YrZzA2yem780cP.htm](equipment/treasure-u7YrZzA2yem780cP.htm)|Coral|Corail|officielle|
 |[treasure-yTYPPB7WrhanBPbu.htm](equipment/treasure-yTYPPB7WrhanBPbu.htm)|Sapphire|Saphir|officielle|
 |[weapon-00-1U7Laa7Yt7i3G77L.htm](equipment/weapon-00-1U7Laa7Yt7i3G77L.htm)|Gnome Hooked Hammer|Marteau-piolet gnome|officielle|
