@@ -39,11 +39,4 @@ Pour appliquer les traductions, il faut installer le module Babele et pointer ve
 [Glossaire](https://docs.google.com/spreadsheets/d/1MmY9rB7EU1yjpPmmoDdqgawiA46fetS_NBCC0Ay7zsw/edit#gid=508492121)
 
 ## Bugs de la vo
-* Golem Crafter Dedication is a wrong name -> The good one is Golem **G**rafter Dedication
-* Dedication feats frome the base classes of the core are in class feats -> archetype feats
-* Bard dedication : the special part is missing
-* Druid dedication : the special part is missing
-* Magaambyan Attendant Dedication -> archetype feat
-* Primal Hierophant -> class feature of level 19, not 03
-* Low light vision in class feature - wrong text
-Ces erreurs ont été remontées dans le projet vo
+Les erreurs dans les textes en vo peuvent être remontées sur le projet de Hooking en créant une "issue". Le mieux est de donner le numéro du fichier, suivie de sa traduction et indiquer en quoi il est incorrect
