@@ -38,8 +38,13 @@
         },
         {
             "id": "Gourd Leshy",
-            "name": "Gourd Leshy (Léchy calebasse)",
+            "name": "Gourd Leshy (Léchi calebasse)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez une grosse calebasse au lieu et place d'un crâne. Votre connaissance vient de votre spiritualité intérieure, et non de votre cerveau physique et vous avez trouvé une utilisation plus utile à l'espace intérieur de votre tête. Vous pouvez emmagasiner une collection d'objets qui vont jusqu'à un encombrement 1 à l'intérieur de votre tête. Le DD des tests pour Voler des objets qui s'y trouvent augmente de 4. De plus, si vous emmagasinez un unique objet à l'intérieur de votre tête, vous pouvez le retirer sans effort de votre main comme partie d'une autre action pour utiliser l'objet. Retirer l'objet donne à cette autre action le trait manipulation.&nbsp;</span></p>"
+        },
+        {
+            "id": "Claws",
+            "name": "Claws (Griffes)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos griffes aiguisées vous offrent une alternative aux poings que d'autres humanoïdes utilisent pour se battre. Vous disposez d'une attaque à mains nues de griffe qui inflige 1d4 dégâts tranchants et possède les traits agile et finesse.&nbsp;</span></p>"
         },
         {
             "id": "Runtboss Hobgoblin",
@@ -93,7 +98,7 @@
         },
         {
             "id": "Vine Leshy",
-            "name": "Vine Leshy (Léchy à liane)",
+            "name": "Vine Leshy (Léchi à liane)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les lianes préhensiles qui sont liées à votre corps vous accorde une compétence inégalée pour Escalader. Vous n'avez pas besoin d'avoir chacune de vos mains libres pour Escalader. De plus, si vous obtenez un Succès à un test d'Athlétisme pour Escalader, vous obtenez un succès critique à la place.&nbsp;</span></p>"
         },
         {
@@ -149,7 +154,7 @@
         {
             "id": "Nomadic Halfling",
             "name": "Nomadic Halfling (Halfelin nomade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres parcourent les routes depuis des générations, sans jamais avoir ressenti la nécessité de s’installer quelque part. Vous gagnez deux langues de votre choix parmi les langues courantes et peu courantes auxquelles vous avez accès et, à chaque fois que vous choisissez le don Polyglotte <a href=\"https://2e.aonprd.com/Feats.aspx?ID=814\">Multilingual</a>, vous gagnez une langue supplémentaire.&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres parcourent les routes depuis des générations, sans jamais avoir ressenti la nécessité de s’installer quelque part. Vous gagnez deux langues de votre choix parmi les langues courantes et peu courantes auxquelles vous avez accès et, à chaque fois que vous choisissez le don @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte}, vous gagnez une langue supplémentaire.&nbsp;</span></p>"
         },
         {
             "id": "Desert Elf",
@@ -169,7 +174,12 @@
         {
             "id": "Seer Elf",
             "name": "Seer Elf (Elfe visionnaire)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez le pouvoir inné de détecter et comprendre les phénomènes magiques. Vous pouvez lancer le tour de magie détection de la magie @Item[Detect Magic] comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">En outre, vous gagnez un bonus de circonstances de +1 à vos tests pour Identifier la magie et Déchiffrer un texte de nature magique. Ces actions font généralement appel aux compétences Arcanes, Nature, Occultisme ou Religion.&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez le pouvoir inné de détecter et comprendre les phénomènes magiques. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{détection de la magie} comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">En outre, vous gagnez un bonus de circonstance de +1 à vos tests pour Identifier la magie et Déchiffrer un texte de nature magique. Ces actions font généralement appel aux compétences Arcanes, Nature, Occultisme ou Religion.&nbsp;</span></p>"
+        },
+        {
+            "id": "Bloodhound Shoony",
+            "name": "Bloodhound Shoony (Shoony limier)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres étaient de fameux pisteurs et vous portez dans votre sang ce même don pour la chasse. Vous obtenez un sens spécial : odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre sens de l'odorat pour déterminer la localisation d'une créature, mais elle reste @Compendium[pf2e.conditionspf2e.iU0fEDdBp3rXpTMC]{Cachée}. de plus, vous obtenez un bonus de circonstance de +2 aux tests de Survie faits pour @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Pister} les créatures que vous avez préalablement senti avec votre sens de l'odorat.</span></p>"
         },
         {
             "id": "Elemental Heart Dwarf",
@@ -212,9 +222,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes le descendant d'un artisan réputé et possédez votre propre incroyable talent. Les autres nains pourraient considérer que c'est la bénédiction de vos ancètres ou du P^ère de la forge lui-même, en fonction de l'endroit où vous avez été élevé. Vous êtes qualifié en Artisanat (ou une autre compétence si vous étiez déjà qualifié en Artisanat) et vous obtenez le don de compétence Artisanat spécialisé, sauf que vous pouvez choisir deux spécialités à la place d'une seule.&nbsp;</span></p>"
         },
         {
+            "id": "Fishseeker Shoony",
+            "name": "Fishseeker Shoony (Shoony Traquepoisson)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes issu d'une longue lignée de ptêcheurs et avez hérité des réflexes rapides nécessaires pour ferrer et ramener  les grosses prises. Si vous obtene un succès sur une tentative de @Compendium[pf2e.actionspf2e.3yoajuKjwHZ9ApUY]{Se raccrocher in extremis}, vous obtenez un Succès critique à la place ; si vous obtenez un échac critique, vous obtenez un échec à la place. Une créature qui obtient un échec sur un test pour vous @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer} obtient un échec critique à la place.&nbsp;&nbsp;</span></p>"
+        },
+        {
             "id": "Ancient-Blooded Dwarf",
             "name": "Ancient-Blooded Dwarf (Nain sang-ancien)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les héros nains de l’ancien temps étaient capables de balayer la magie de leurs ennemis du revers de la main. Vous avez hérité d’une partie de cette résistance. Vous gagnez la réaction Appel du sang ancien.</span></p>\n<h3 class=\"title\">@Item[Call on Ancient Blood] <img style=\"height: 15px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\" /></h3>\n<p>&nbsp;</p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les héros nains de l’ancien temps étaient capables de balayer la magie de leurs ennemis du revers de la main. Vous avez hérité d’une partie de cette résistance. Vous gagnez la réaction Appel du sang ancien.</span></p>\n @Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]{Appel du sang ancien}"
+        },
+        {
+            "id": "Thickcoat Shoony",
+            "name": "Thickcoat Shoony (Shoony À fourrure)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes une espèce rare de shoony qui vient des climats les plus froids. Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1) et vous traitez les effets d'un environnement froid comme si ils étaient d'un degré moins extrême (un froid incroyable devient extrême, un froid extrême devient sévère, etc). Vous n'avez pas besoin dobtenir un un succès à un test nu pour cibler une créature si elle n'est masquée que par la neige. À moins que vous ne portiez un équipement protecteur ou que vous ne vous mettiez à l'abri, les effets environnementaux liés à la châleur sont d'un degré plus extrême pour ce qui vous concerne.&nbsp;</span></p>"
         },
         {
             "id": "Hillock Halfling",
@@ -233,8 +253,8 @@
         },
         {
             "id": "Wellspring Gnome",
-            "name": "Wellspring Gnome (Gnome des sources)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une autre source de magie a pris l’ascendant sur la magie primordiale de votre ascendance féerique. Cette connexion peut : provenir d’un plan occulte ou d’un ancien chant occulte ; être liée à une divinité, un céleste ou un fiélon; avoir été causée par un effluent magique ayant persisté après un conflit entre mages ; être associée à une antique rune magique..<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choississez <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=1\">arcanique</a>, <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=2\">divine</a>, or <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=3\">occulte</a>. Vous gagnez un tour de magie choisi dans la liste de sorts de cette tradition (pages 306‑315). Vous pouvez lancer ce sort à volonté sous forme de sort inné et comme un sort de la tradition choisie. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur. À chaque fois que vous gagnez un sort inné primordial grâce à un don ancestral gnome, remplacez la tradition primordiale qui lui est associée par la tradition que vous avez choisie.&nbsp;</span></p>"
+            "name": "Wellspring Gnome (Gnome source)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une autre source de magie a pris l’ascendant sur la magie primordiale de votre ascendance féerique. Cette connexion peut : provenir d’un plan occulte ou d’un ancien chant occulte ; être liée à une divinité, un céleste ou un fiélon ; avoir été causée par un effluent magique ayant persisté après un conflit entre mages ; être associée à une antique rune magique..<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choississez arcanique, divine ou occulte. Vous gagnez un tour de magie choisi dans la liste de sorts de cette tradition. Vous pouvez lancer ce sort à volonté sous forme de sort inné et comme un sort de la tradition choisie. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur. À chaque fois que vous gagnez un sort inné primordial grâce à un don ancestral gnome, remplacez la tradition primordiale qui lui est associée par la tradition que vous avez choisie.&nbsp;</span></p>"
         },
         {
             "id": "Observant Halfling",
@@ -275,6 +295,11 @@
             "id": "Wetlander Lizardfolk",
             "name": "Wetlander Lizardfolk (Homme-lézard des terres humides)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre famille descend du plus commun des héritages des hommes-lézards et vous êtes accoutumé aux environnements aquatiques. Vous obtenez une Vitesse de Nage de 4,5 m.&nbsp;</span></p>"
+        },
+        {
+            "id": "Paddler Shoony",
+            "name": "Paddler Shoony (Shoony Pagayeur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous venez d'une lignée de shoony qui ont vécu depuis longtemps parmi les herbes et les roseaux des marais et marécages et qui se sont adaptées aux défis de vivre près de zones détrempées. Vous ignorez les terrains difficiles et très difficiles liés aux tourbières. Lorsque vous obtenez un succès pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous considérez qu'il s'agit d'un succès critique à la place.&nbsp;</span></p>"
         },
         {
             "id": "Vivacious Gnome",

@@ -1,24 +1,12 @@
 # État de la traduction (ancestryfeatures)
 
  * **officielle**: 28
- * **libre**: 26
- * **changé**: 4
- * **aucune**: 5
+ * **libre**: 35
 
 
-Dernière mise à jour: 2020-06-12 19:58 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-14 00:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[feat-01-isJhIPhT4MsjJvoq.htm](ancestryfeatures/feat-01-isJhIPhT4MsjJvoq.htm)|Fishseeker Shoony|
-|[feat-01-KPNAcozGy5UqhgHG.htm](ancestryfeatures/feat-01-KPNAcozGy5UqhgHG.htm)|Claws|
-|[feat-01-MhXHEh7utEfxBwmc.htm](ancestryfeatures/feat-01-MhXHEh7utEfxBwmc.htm)|Thickcoat Shoony|
-|[feat-01-mnhpCk9dIwMuFegM.htm](ancestryfeatures/feat-01-mnhpCk9dIwMuFegM.htm)|Paddler Shoony|
-|[feat-01-z4cvqtpkkAYoFpHa.htm](ancestryfeatures/feat-01-z4cvqtpkkAYoFpHa.htm)|Bloodhound Shoony|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -41,26 +29,30 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-DRtaqOHXTRtGRIUT.htm](ancestryfeatures/feat-01-DRtaqOHXTRtGRIUT.htm)|Low-Light Vision|Vision nocturne|officielle|
 |[feat-01-EEvA4uj8h3zDiAfP.htm](ancestryfeatures/feat-01-EEvA4uj8h3zDiAfP.htm)|Treedweller Goblin|Gobelin habitant des arbres|libre|
 |[feat-01-EKzA58KrNjxCK90Y.htm](ancestryfeatures/feat-01-EKzA58KrNjxCK90Y.htm)|Forge Dwarf|Nain des forges|officielle|
-|[feat-01-etkuQkjkNLPLnjkA.htm](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Wellspring Gnome|Gnome des sources|changé|
-|[feat-01-evXJISqyhl3fHE9u.htm](ancestryfeatures/feat-01-evXJISqyhl3fHE9u.htm)|Vine Leshy|Léchy à liane|libre|
+|[feat-01-etkuQkjkNLPLnjkA.htm](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Wellspring Gnome|Gnome source|libre|
+|[feat-01-evXJISqyhl3fHE9u.htm](ancestryfeatures/feat-01-evXJISqyhl3fHE9u.htm)|Vine Leshy|Léchi à liane|libre|
 |[feat-01-feyCPht71QsFSuv2.htm](ancestryfeatures/feat-01-feyCPht71QsFSuv2.htm)|Desert Elf|Elfe du désert|libre|
 |[feat-01-gLHnDfF2Qvm4uJnd.htm](ancestryfeatures/feat-01-gLHnDfF2Qvm4uJnd.htm)|Elfbane Hobgoblin|Hobgobelin fléau elfique|libre|
 |[feat-01-gQyPU441J3rGt8mD.htm](ancestryfeatures/feat-01-gQyPU441J3rGt8mD.htm)|Snow Goblin|Gobelin des Neiges|officielle|
 |[feat-01-hFBwsVcSnNCJoimo.htm](ancestryfeatures/feat-01-hFBwsVcSnNCJoimo.htm)|Versatile Heritage|Héritage polyvalent|officielle|
 |[feat-01-HHVQDp61ehcpdiU8.htm](ancestryfeatures/feat-01-HHVQDp61ehcpdiU8.htm)|Darkvision|Vision dans le noir|officielle|
-|[feat-01-I6OK2E27XQfJ7UvG.htm](ancestryfeatures/feat-01-I6OK2E27XQfJ7UvG.htm)|Gourd Leshy|Léchy calebasse|libre|
-|[feat-01-idGDjqi1q3Ft8bAZ.htm](ancestryfeatures/feat-01-idGDjqi1q3Ft8bAZ.htm)|Nomadic Halfling|Halfelin nomade|changé|
+|[feat-01-I6OK2E27XQfJ7UvG.htm](ancestryfeatures/feat-01-I6OK2E27XQfJ7UvG.htm)|Gourd Leshy|Léchi calebasse|libre|
+|[feat-01-idGDjqi1q3Ft8bAZ.htm](ancestryfeatures/feat-01-idGDjqi1q3Ft8bAZ.htm)|Nomadic Halfling|Halfelin nomade|libre|
 |[feat-01-ifwCISxY3xxuk5ks.htm](ancestryfeatures/feat-01-ifwCISxY3xxuk5ks.htm)|Ancient Elf|Elfe ancien|libre|
+|[feat-01-isJhIPhT4MsjJvoq.htm](ancestryfeatures/feat-01-isJhIPhT4MsjJvoq.htm)|Fishseeker Shoony|Shoony Traquepoisson|libre|
 |[feat-01-IYhYjZuBTiTcIikx.htm](ancestryfeatures/feat-01-IYhYjZuBTiTcIikx.htm)|Aquatic Adaptation|Adaptation aquatique|libre|
-|[feat-01-jEtVesbqYcWGbBYk.htm](ancestryfeatures/feat-01-jEtVesbqYcWGbBYk.htm)|Seer Elf|Elfe visionnaire|changé|
-|[feat-01-jxLtAatRHwcZu4CW.htm](ancestryfeatures/feat-01-jxLtAatRHwcZu4CW.htm)|Ancient-Blooded Dwarf|Nain sang-ancien|changé|
+|[feat-01-jEtVesbqYcWGbBYk.htm](ancestryfeatures/feat-01-jEtVesbqYcWGbBYk.htm)|Seer Elf|Elfe visionnaire|libre|
+|[feat-01-jxLtAatRHwcZu4CW.htm](ancestryfeatures/feat-01-jxLtAatRHwcZu4CW.htm)|Ancient-Blooded Dwarf|Nain sang-ancien|libre|
 |[feat-01-K124fCpU03SJvmeP.htm](ancestryfeatures/feat-01-K124fCpU03SJvmeP.htm)|Warmarch Hobgoblin|Hobgobelin Marchebataille|libre|
 |[feat-01-KO33MNyY9VqNQmbZ.htm](ancestryfeatures/feat-01-KO33MNyY9VqNQmbZ.htm)|Wintertouched Human|Humain touché par l'hiver|libre|
+|[feat-01-KPNAcozGy5UqhgHG.htm](ancestryfeatures/feat-01-KPNAcozGy5UqhgHG.htm)|Claws|Griffes|libre|
 |[feat-01-kRDsVbhdBVeSlpBa.htm](ancestryfeatures/feat-01-kRDsVbhdBVeSlpBa.htm)|Anvil Dwarf|Nain de la forge|libre|
 |[feat-01-lEe9ROVlcJvwL20N.htm](ancestryfeatures/feat-01-lEe9ROVlcJvwL20N.htm)|Chameleon Gnome|Gnome Caméléon|officielle|
 |[feat-01-LemkltWcLiCxHV6J.htm](ancestryfeatures/feat-01-LemkltWcLiCxHV6J.htm)|Elemental Heart Dwarf|Nain Coeurélémentaire|libre|
 |[feat-01-Lp7ywxabmm88Gei6.htm](ancestryfeatures/feat-01-Lp7ywxabmm88Gei6.htm)|Observant Halfling|Halfelin observateur|libre|
 |[feat-01-M33lzoIPk9pqn1aY.htm](ancestryfeatures/feat-01-M33lzoIPk9pqn1aY.htm)|Gutsy Halfling|Halfelin flegmatique|officielle|
+|[feat-01-MhXHEh7utEfxBwmc.htm](ancestryfeatures/feat-01-MhXHEh7utEfxBwmc.htm)|Thickcoat Shoony|Shoony À fourrure|libre|
+|[feat-01-mnhpCk9dIwMuFegM.htm](ancestryfeatures/feat-01-mnhpCk9dIwMuFegM.htm)|Paddler Shoony|Shoony Pagayeur|libre|
 |[feat-01-n2eJEjA8pnOMiuCm.htm](ancestryfeatures/feat-01-n2eJEjA8pnOMiuCm.htm)|Smokeworker Hobgoblin|Hobgobelin travailleur de fumée|libre|
 |[feat-01-NfIAGatB1KIzt8G7.htm](ancestryfeatures/feat-01-NfIAGatB1KIzt8G7.htm)|Cavern Elf|Elfe des cavernes|officielle|
 |[feat-01-nW1gi13E62Feto2w.htm](ancestryfeatures/feat-01-nW1gi13E62Feto2w.htm)|Woodland Elf|Elfe des bois|officielle|
@@ -79,5 +71,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-wTN8ns9cDw9sgZQj.htm](ancestryfeatures/feat-01-wTN8ns9cDw9sgZQj.htm)|Half-Elf|Demi-elfe|officielle|
 |[feat-01-xtRIYizCjLg9qe1Z.htm](ancestryfeatures/feat-01-xtRIYizCjLg9qe1Z.htm)|Wildwood Halfling|Halfelin bois-sauvage|officielle|
 |[feat-01-yazWJQvcSghoxlP5.htm](ancestryfeatures/feat-01-yazWJQvcSghoxlP5.htm)|Fungus Leshy|Léchi champignon|libre|
+|[feat-01-z4cvqtpkkAYoFpHa.htm](ancestryfeatures/feat-01-z4cvqtpkkAYoFpHa.htm)|Bloodhound Shoony|Shoony limier|libre|
 |[feat-01-Z9xQJejoxYTE9Mw6.htm](ancestryfeatures/feat-01-Z9xQJejoxYTE9Mw6.htm)|Leaf Leshy|Léchi feuille|libre|
 |[feat-01-zVf0Hlp5xG0Q7kmc.htm](ancestryfeatures/feat-01-zVf0Hlp5xG0Q7kmc.htm)|Skilled Heritage|Héritage talentueux|officielle|

@@ -237,6 +237,11 @@
             "description": "<p><span class=\"fontstyle0\"> cette entrée est un fourre-tout réunissant les outils manuels de base qui n’ont pas d’objectif spécifique pour l’aventure. Une houe, une pelle ou une masse est un outil long, tandis qu’un foret à main, un crochet à glace ou une truelle est un outil court. Un outil peut en général être utilisé comme une arme improvisée, infligeant 1d4 dégâts pour un outil court ou 1d6 pour un outil long. Le MJ détermine le type de dégâts approprié ou l’adapte si nécessaire. </span> </p>"
         },
         {
+            "id": "Shining Ammunition",
+            "name": "Shining Ammunition",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une<em>munition luisante</em>  émet une faible lueur. Une fois tirée, elle émet une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà) pendant 10 min. Si elle touche une cible, elle s’y colle, la cible émettant donc de la lumière dans le même rayon. Une créature peut retirer la munition avec l’action Interagir, mais la munition conti‑ nue de briller pour le reste de la durée ou jusqu’à sa destruction. &nbsp;</span></p>"
+        },
+        {
             "id": "Candle",
             "name": "Candle",
             "description": "<p><span class=\"fontstyle0\">Une bougie allumée diffuse une lumière tamisée dans un rayon de 3 m.&nbsp;</span></p>"
@@ -250,6 +255,11 @@
             "id": "Crossbow",
             "name": "Crossbow",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme à distance est faite de l’assemblage d’un arc monté sur un cadre à poignée appelé arbrier. L’arbrier possède un mécanisme pour bloquer la corde attachée à un mécanisme de déclenchement, qui relâche la tension et lâche un carreau..&nbsp;</span></p>"
+        },
+        {
+            "id": "Sturdy Shield (Lesser)",
+            "name": "Sturdy Shield (Lesser)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 10, 80 PV et un SR de 40.&nbsp;</span></p>"
         },
         {
             "id": "Mug",
@@ -372,6 +382,11 @@
             "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant. Elle inflige les dégâts de son et d’éclaboussure de son indiqués. Chaque créature dans un rayon de 3 m autour de l’espace où elle a explosé doit réussir un jet de Vigueur contre le DD indiqué ou être sourde jusqu’à la fin de son prochain tour. Plusieurs types de pierre donnent un bonus d’objet aux jets d’attaque. La bombe inflige 1d4 dégâts de son et 1 dégât d’éclaboussure de son. Le DD est de 17.</p>"
         },
         {
+            "id": "Sturdy Shield (Greater)",
+            "name": "Sturdy Shield (Greater)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 15, 120 PV et un SR de 60&nbsp;</span></p>"
+        },
+        {
             "id": "Everburning Torch",
             "name": "Everburning Torch",
             "description": ""
@@ -462,6 +477,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Il s’agit de petites billes de métal, généralement en fer ou en plomb, conçues pour être utilisées comme munitions pour les frondes&nbsp;&nbsp;</span></p>"
         },
         {
+            "id": "Penetrating Ammunition",
+            "name": "Penetrating Ammunition",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette munition particulièrement fine a une pointe acérée vicieuse. Quand vous activez une munition pénétrante et tirez avec, la Frappe prend la forme d’une ligne de 18 m partant de vous. Faites un jet d’attaque et comparez le résultat à la CA de chaque cible présente sur la ligne. La munition ignore jusqu’à 10 points de résistance de la cible et traverse un mur d’au maximum 30 cm d’épaisseur avec une solidité de 10 ou moins. Chaque cible subissant des dégâts à cause de cette munition reçoit aussi 1d6 dégâts de saignement persistants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette munition particulièrement fine a une pointe acérée vicieuse. Quand vous activez une munition pénétrante et tirez avec, la Frappe prend la forme d’une ligne de 18 m partant de vous. Faites un jet d’attaque et comparez le résultat à la CA de chaque cible présente sur la ligne. La munition ignore jusqu’à 10 points de résistance de la cible et traverse un mur d’au maximum 30 cm d’épaisseur avec une solidité de 10 ou moins. Chaque cible subissant des dégâts à cause de cette munition reçoit aussi 1d6 dégâts de saignement persistants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
             "id": "Fishing Tackle",
             "name": "Fishing Tackle",
             "description": "<p><span class=\"fontstyle0\">Ce kit comprend une canne à pêche démontable, des hameçons, une ligne, des leurres et un filet de pêche. Les articles de pêche professionnels confèrent un bonus d’objet de +1 aux tests pour pêcher. </span> </p>"
@@ -490,6 +510,11 @@
             "id": "Bloodletting Kukri",
             "name": "Bloodletting Kukri",
             "description": "<p>La lame rouge sang de ce kukri de <em>frappe +1</em> émet une lueur sinistre quand on l’expose à une lumière vive. En cas de coup critique, le kukri inflige 1d8 dégâts de saignement persistants. Si la cible ne subit pas déjà des dégâts de saignement persistants quand vous obtenez le coup critique, vous gagnez également 1d8 points de vie temporaires.</p>"
+        },
+        {
+            "id": "Vine Arrow",
+            "name": "Vine Arrow",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des vrilles feuillues dépassent du fût de cette flèche rustique. Quand une flèche de lierre activée touche sa cible, le fût se fend et se met à pousser, l’enveloppant de ses tiges rampantes. La cible subit un malus de circonstances de −3 m à la Vitesse, pendant 2d4 rounds ou jusqu’à ce qu’elle S’échappe (DD 19). Sur un coup critique, la cible est aussi immobilisée jusqu’à ce qu’elle S’échappe.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Sur ordre</span></p>"
         },
         {
             "id": "Manacles (Poor)",
@@ -555,6 +580,11 @@
             "id": "Belladonna",
             "name": "Belladonna",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Parfois appelée « cerise du diable », la belladone est une toxine facile à se procurer produite par une plante apparentée à la tomate.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegard</strong>Vigueur DD 19 ; <strong>Délai</strong>10 minutes; <strong>Durée maximum</strong> 30 minutes; <strong>Stade 1</strong> ébloui (10 min) ; <strong>Stade 2</strong> 1d6 dégâts de poison et malade 1 (10 min); <strong>Stade 3</strong> 1d6 dégâts de poison, confus et malade 1 (1 minute)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
+        },
+        {
+            "id": "Sturdy Shield (Moderate)",
+            "name": "Sturdy Shield (Moderate)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 13, 104 PV et un SR de 52.&nbsp;</span></p>"
         },
         {
             "id": "Potion of Resistance (Lesser)",
@@ -1027,6 +1057,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 10, 40 PV et un SR de 20.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 55 po d’adamantiump&nbsp;</span></p>"
         },
         {
+            "id": "Sleep Arrow",
+            "name": "Sleep Arrow",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une <em>flèche soporifique </em>possède un fût bleu nuit ou noir et un empennage particulièrement doux et duveteux. Une fois activée, elle n’inflige pas de dégâts, mais si elle touche une créature, cette dernière est affectée par le sort sommeil (DD 17).<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication.</strong> Fournir une <em>incantation de sommeil</em>.</span></p>"
+        },
+        {
             "id": "Tent (Pavilion)",
             "name": "Tent (Pavilion)",
             "description": ""
@@ -1060,6 +1095,11 @@
             "id": "Elven Chain (Standard-Grade)",
             "name": "Elven Chain (Standard-Grade)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La maille elfique est une chemise de mailles en mithral (p. 575) qui scintille même sous une très faible lumière. Elle donne un bonus d’objet de +2 à la CA et n’a pas de malus aux tests. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Créée par des artisans elfiques à l’aide d’antiques tech‑ niques artisanales, elle est exceptionnellement silen‑ cieuse. Contrairement aux autres chemises de mailles (même en mithral), elle ne possède pas le trait bruyante. On peut la graver de runes comme toute autre chemise de mailles en mithral. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Les matériaux de fabrication initiaux doivent comprendre une masse de mithral d’au moins 3125 pa.</span></p>"
+        },
+        {
+            "id": "Sturdy Shield (Major)",
+            "name": "Sturdy Shield (Major)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 17, 136 PV et un SR de 68.&nbsp;</span></p>"
         },
         {
             "id": "Cookware",
@@ -1135,6 +1175,11 @@
             "id": "Elixir of Life (Moderate)",
             "name": "Elixir of Life (Moderate)",
             "description": "L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez le nombre de points de vie indiqué et gagnez un bonus d’objet aux jets de sauvegarde contre la maladie et le poison pendant 10 min. L’élixir restaure 5d6+12 points de vie, le bonus est de +2"
+        },
+        {
+            "id": "Dragonslayer's Shield",
+            "name": "Dragonslayer's Shield",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier du pourfendeur de dragons est un bouclier en acier recouvert de la peau d’un certain type de dragon, ce qui distingue chaque bouclier des autres. Lorsqu’il est levé, ce bouclier en acier (Solidité 8,32 PV, SR 16) confère son bonus de circonstances aux jets de Réflexes contre les effets de zone (ainsi qu’à la CA, comme à l’accoutumée). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque vous le tenez en main, il vous confère également un bonus de circonstances de +2 aux jets de Volonté contre le pouvoir présence terrifiante d’un dragon. Le bouclier a une résistance 10 contre le type de dégâts associé à celui du dragon dont la peau a été utilisée pour sa fabrication (voir Peau de dragon en page 575). Cette résistance s’applique après réduction des dégâts due à la Solidité. Ainsi, quand vous utilisez Blocage au bouclier, le bouclier du pourfendeur de dragons subit 18 dégâts de moins des attaques infligeant ce type de dégâts. Vous pouvez utiliser Blocage au bouclier contre les attaques qui infligent des dégâts de ce type.</span></p>"
         },
         {
             "id": "Cold Iron Buckler (Standard-Grade)",
@@ -1220,6 +1265,11 @@
             "id": "Darkwood Buckler (Standard-Grade)",
             "name": "Darkwood Buckler (Standard-Grade)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1,sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 3, 12 PV et un SR de 6</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 50 po d’ébénite&nbsp;</span></p>"
+        },
+        {
+            "id": "Sturdy Shield (Supreme)",
+            "name": "Sturdy Shield (Supreme)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 20, 160 PV et un SR de 80&nbsp;</span></p>"
         },
         {
             "id": "Frost Vial (Lesser)",
@@ -1310,6 +1360,11 @@
             "id": "Breastplate of Command (Greater)",
             "name": "Breastplate of Command (Greater)",
             "description": "<p><span class=\"fontstyle0\">Cette cuirasse de résilience +2 est faite d’un bronze scintillant recou‑ vert de panneaux de renfort dorés en forme de têtes de lion. Elle vous donne une aura d’autorité. Vous gagnez un bonus d’objet de +3 aux tests de Diplomatie, mais vous subissez un malus d’objet de −3 aux tests de Discrétion pour Vous cacher et Être furtif et aux tests de Duperie pour Se déguiser. </span></p>\n<p><span class=\"fontstyle0\"><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> . Vous donnez à vos alliés dans un rayon de 30 m un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 min. Lorsque vous activez ce pouvoir, chaque allié affecté réduit sa valeur d’effrayé de 1.&nbsp;</span></span></p>"
+        },
+        {
+            "id": "Floating Shield (Greater)",
+            "name": "Floating Shield (Greater)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des motifs d’aile sont souvent gravés sur un bouclier flottant. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiativ<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Fréquence</strong> Vous pouvez activer le bouclier autant de fois que vous le voulez par jour <strong>Effet</strong> Le bouclier se détache de votre bras et flotte à vos côtés en vous conférant automatiquement son bonus, comme si vous aviez Levé le bouclier. Étant donné que vous ne maniez pas le bouclier, vous ne pouvez pas utiliser de réactions telles que Blocage au bouclier avec lui mais vous profitez de ses avantages, même si vous utilisez déjà vos deux mains. Au bout d’une minute, le bouclier tombe au sol, ce qui met fin à l’effet flottant."
         },
         {
             "id": "Salamander Elixir (Greater)",
@@ -1415,6 +1470,11 @@
             "id": "Greatpick",
             "name": "Greatpick",
             "description": "<p>Ce pic de guerre possède un manche plus long et une tête plus large qu’un pic de guerre ordinaire. Il est trop lourd pour pouvoir être manié d’une seule main.</p>"
+        },
+        {
+            "id": "Sturdy Shield (Minor)",
+            "name": "Sturdy Shield (Minor)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 8, 64 PV et un SR de 32..&nbsp;</span></p>"
         },
         {
             "id": "Class Kit (Sorcerer)",

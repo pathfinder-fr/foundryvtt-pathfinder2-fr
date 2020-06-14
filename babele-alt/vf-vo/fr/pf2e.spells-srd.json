@@ -12,6 +12,16 @@
             "description": "<p>Un disque de force magique se matérialise à côté de vous. Il fait 60 cm de diamètre et vous suit à 1,5 m derrière vous, flottant juste au-dessus du sol. Il contient des objets jusqu’à 5 Encombrements (mais il faut qu’ils aient la place de tenir dessus sans le déséquilibrer). Tout objet sur le disque tombe à terre quand le sort se termine. </p>\n<p> C’est le cas si une créature tente de monter sur le disque, s’il est surchargé, si quelqu’un tente de le soulever ou de la faire monter plus haut de force ou si vous vous éloignez à plus de 9 m de lui.</p>"
         },
         {
+            "id": "Enlarge",
+            "name": "Agrandissement (Enlarge)",
+            "description": "<p>Renforcée par une puissance magique, la cible devient de Grande taille. Son équipement grandit avec elle, mais reprend sa taille normale si elle s’en sépare. La créature est @Compendium[pf2e.conditionspf2e.i3OJZU2nk64Df3xm]{maladroite} 1. Son allonge augmente de 1,5 m (ou de 3 m si la créature était Très Petite). La cible gagne un bonus de statut de +2 aux dégâts de corps à corps. Ce sort n’a pas d’effet sur une créature de Grande taille ou plus</p>\n<hr>\n<p><strong>Intensifié (4th)</strong>  La créature devient à la place de Très Grande taille. Le bonus de statut aux dégâts de corps à corps passe à +4 et son allonge augmente de 3 m (ou de 4,50 si la créature était Très Petite). Ce sort n’a pas d’effet sur une créature de Très Grande taille ou plus</p>\n<p><strong>Intensifié (6th)</strong> Choisissez la version de niveau 2 ou 4 de ce sort et appliquez ses effets à 10 créatures consentantes.</p>"
+        },
+        {
+            "id": "Continual Flame",
+            "name": "Flamme éternelle (Continual Flame)",
+            "description": "<p>Une flamme magique jaillit de l’objet, aussi vive qu’une torche. Elle n’a pas besoin d’oxygène, ne réagit pas en présence d’eau et ne génère aucune chaleur.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Le coût augmente comme suit : 16 po pour le 3e niveau ; 30 po pour le 4e, 60 po pour le 5e, 120 po pour le 6e, 270 po pour le 7e, 540 po pour le 8e, 1 350 po pour le 9e et 3 350 po pour le 10e.</p>"
+        },
+        {
             "id": "Negate Aroma",
             "name": "Supprimer l’arôme (Negate Aroma)",
             "description": "<p>La cible n’émet plus d’odeurs, ce qui empêche les créatures de repérer sa présence de manière passive grâce à leur seul odorat, que celui-ci soit précis ou imprécis. Une créature qui fait un test de Perception pour Chercher avec l’odorat ou d’autres sens peut remarquer l’absence d’odeurs naturelles. Si la cible a des pouvoirs liés à son odeur, comme une odeur entêtante, ces pouvoirs sont également neutralisés.</p>\n<hr>\n<p><strong>Intensifié (5e)</strong> La portée passe à 9 m et vous pouvez cibler jusqu’à 10 créatures.</p>"
@@ -25,6 +35,11 @@
             "id": "Summon Fey",
             "name": "Convocation de fée (Summon Fey)",
             "description": "<p>Vous conjurez une fée qui se bat pour vous. Cela fonctionne comme convocation d’animal, excepté que vous convoquez une créature ordinaire qui a le trait fée et dont le niveau est de −1.</p>\n<hr>\n<p><strong>Intensifié. (2e)</strong> Niveau 1</p>\n<p><strong>Intensifié. (3e)</strong> Niveau 2</p>\n<p><strong>Intensifié. (4e)</strong> Niveau 3</p>\n<p><strong>Intensifié. (5e)</strong> Niveau 5</p>\n<p><strong>Intensifié. (6e)</strong> Niveau 7</p>\n<p><strong>Intensifié. (7e)</strong> Niveau 9</p>\n<p><strong>Intensifié. (8e)</strong> Niveau 11</p>\n<p><strong>Intensifié. (9e)</strong> Niveau 13</p>\n<p><strong>Intensifié. (10e)</strong> Niveau 15</p>"
+        },
+        {
+            "id": "Glitterdust",
+            "name": "Poussière scintillante (Glitterdust)",
+            "description": "<p>Une poussière scintillante dessine les contours des créatures de la zone. Chacune fait un jet de Réflexes. Si ce sort annule l’invisibilité d’une créature, elle est @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{masquée} au lieu d’être @Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{invisible}. Cela fonctionne si la créature était déjà invisible ou si elle bénéficie d’un effet d’@Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{invisibilité} avant la fin de la négation d’invisibilité de ce sort.</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée.</p>\n<p>\n<b>Succès</b> L’invisibilité de la cible est annulée pour 2 rounds.</p>\n<p>\n<b>Échec</b> La cible est @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{éblouie} pendant 1 min et son invisibilité annulée pendant 1 min.</p>\n<p>\n<b>Échec critique</b> La créature est @Compendium[pf2e.conditionspf2e.XgEqL1kFApUbl5Z2]{aveuglée} pour 1 round et @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{éblouie} pendant 10 min. Son invisibilité est annulée pendant 10 min.</p>"
         },
         {
             "id": "Spider Sting",
@@ -70,6 +85,11 @@
             "id": "Sigil",
             "name": "Symbole (Sigil)",
             "description": "<p>Vous placez de façon inoffensive votre unique symbole magique, d’une taille d’environ 6,5 cm², sur la créature ou l’objet ciblé. La marque peut être visible ou invisible, et vous pouvez la faire passer d’un état à l’autre en utilisant une action Interagir pour toucher la cible. La marque peut être effacée ou grattée après 5 minutes d’efforts. Si elle se trouve sur une créature, elle s’estompe naturellement au bout d’une semaine. Le délai avant que la marque s’estompe dépend de votre niveau intensifié.</p>\n<hr>\n<p><strong> Intensifié (3e)</strong>&nbsp; Le symbole s’estompe à la place après 1 mois.<br><strong> Intensifié (5e)</strong>&nbsp; Le symbole s’estompe à la place après 1 an. <br><strong>Intensifié (7e)</strong>&nbsp; Le symbole ne s’estompe jamais.</p>"
+        },
+        {
+            "id": "Faerie Fire",
+            "name": "Lueurs féériques (Faerie Fire)",
+            "description": "<p>Toutes les créatures situées dans la zone lorsque vous lancez le sort sont enveloppées d’un feu coloré (de la teinte de votre choix) qui ne dégage pas de chaleur. Les créatures visibles ne peuvent pas se @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{masquer} tant qu’elles sont affectées par lueurs féeriques. Les créatures @Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{invisibles} sont masquées au lieu d’être @Compendium[pf2e.conditionspf2e.VRSef5y1LmL2Hkjf]{non détectées} tant qu’elles sont affectées par le sort.</p>"
         },
         {
             "id": "Inspire Courage",
@@ -127,6 +147,11 @@
             "description": "<p>Vous créez jusqu’à quatre lumières flottantes, qui ne doivent pas être séparées de plus de 3 m. Chacune émet autant de lumière qu’une torche. Quand vous Maintenez le sort, vous pouvez déplacer autant de lumières que vous le voulez d’au maximum 18 m. Chaque lumière doit rester dans un rayon de 36 m autour de vous et dans un rayon de 3 m autour des autres lumières, sinon elle s’éteint.</p>"
         },
         {
+            "id": "False Life",
+            "name": "Simulacre de vie (False Life)",
+            "description": "<p>Vous créez un réservoir de vitalité à partir d’énergie nécromantique et gagnez un nombre de points de vie temporaires égal à 6 + votre modificateur de caractéristique d’incantation.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les points de vie temporaires augmentent de 3.</p>"
+        },
+        {
             "id": "Chill Touch",
             "name": "Contact glacial (Chill Touch)",
             "description": "<p>Vous absorbez de l’énergie négative et de pâles ténèbres enveloppent votre main. Votre toucher affaiblit les vivants et désoriente les morts-vivants, les mettant éventuellement en fuite. L’effet dépend si la cible est vivante ou morte-vivante.</p>\n<ul>\n<li><strong>Créature vivante</strong> Le sort inflige des dégâts d’énergie négative égaux à 1d4 plus votre modificateur d’incantation. La cible fait un jet de Vigueur basique, mais en cas d’échec critique elle est affaiblie 1 pendant 1 round.@JournalEntry[Enfeebled] 1 for 1 round on a critical failure.</li>\n<li><strong>Créature morte-vivante</strong> La cible est prise au dépourvu pendant un round si elle rate un jet de Vigueur. Sur un échec critique, elle fuit pendant un round, à moins de réussir un jet de Volonté.@JournalEntry[Flat-Footed] for 1 round on a failed Fortitude save. On a critical failure, the target is also @JournalEntry[Fleeing] for 1 round unless it succeeds at a Will save.</li>\n</ul>\n<hr>\n<p><strong>Intensifié (+1).</strong> Les dégâts négatifs infligés aux vivants augmentent de 1d4.</p>"
@@ -157,9 +182,24 @@
             "description": "<p>Vous prenez la forme de combat d’un animal de Très Petite taille, tel qu’un chat, un insecte, un lézard ou un rat. Vous pouvez opter pour un type d’animal spécifique (comme un rat ou une mante religieuse), mais cela n’affecte ni la taille ni les statistiques de la forme de combat. Sous cette forme, vous gagnez le trait animal. Vous pouvez Révoquer le sort.</p>\n<p>Vous gagnez les statistiques et pouvoirs suivants:</p>\n<ul>\n<li>AC CA = 15 + votre niveau. Ignore votre malus d’armure aux tests et votre réduction de Vitesse.</li>\n<li>Vitesse 3 m.</li>\n<li>Faiblesse 5 face aux dégâts physiques (si vous subissez des dégâts physiques sous cette forme, vous subissez 5 dégâts supplémentaires.)</li>\n<li>Vision nocturne et odorat imprécis 9 m.</li>\n<li>Modificateurs de +10 en Acrobaties et Discrétion, sauf si les vôtres sont plus élevés ; modificateur de −4 en Athlétisme</li>\n</ul>\n<hr>\n<p><strong>Intensifié (4e)</strong> Vous pouvez prendre la forme d’une créature volante, telle qu’un oiseau, ce qui vous confère une Vitesse de vol de 6 m</p>\n<p>&nbsp;</p>"
         },
         {
+            "id": "Acid Arrow",
+            "name": "Flèche acide (Acid Arrow)",
+            "description": "<p>Vous invoquez une flèche d’acide qui continue à ronger sa cible après l’avoir touchée. Faites une attaque de sort contre la cible. Si vous touchez, vous infligez 3d8 dégâts d’acide plus 1d6 dégâts d’acide persistants. Sur un coup critique, doublez les dégâts initiaux, mais pas les @Compendium[pf2e.conditionspf2e.lDVqvLKA6eF3Df60]{dégâts persistants}.</p>\n<hr>\n<p><strong>Intensifié (+2)</strong> Les dégâts initiaux augmentent de 2d8 et les dégâts d’acide persistants de 1d6.</p>"
+        },
+        {
             "id": "Pushing Gust",
             "name": "Bourrasque agressive (Pushing Gust)",
             "description": "<p> Donnant une poussée dans l’air, vous frappez la cible avec une puissante bourrasque de vent ; elle doit effectuer un jet de Vigueur. </p>\n<p>\n<hr><b> Succès critique </b> La cible n’est pas affectée.</p>\n<p>\n<b> Succès </b> La cible est repoussée à 1,5 m de vous.</p>\n<p>\n<b> Échec </b> La cible est repoussée à 3 m de vous.</p>\n<p>\n<b> Échec critique </b> La cible est repoussée à 3 m de vous et tombe à terre @JournalEntry[Prone].</p>"
+        },
+        {
+            "id": "Darkvision",
+            "name": "Vision dans le noir (Darkvision)",
+            "description": "<p>Vous vous dotez d’une vision surnaturelle dans les zones de ténèbres. Vous gagnez vision dans le noir.</p>\n<hr>\n<p><strong>Intensifié (3rd)</strong>  La portée du sort devient contact et la cible une créature consentante.</p>\n<p><strong>Intensifié (5th)</strong> La portée du sort devient contact, les cibles une créature consentante et la durée jusqu’à vos prochains préparatifs quotidiens.</p>"
+        },
+        {
+            "id": "Death Knell",
+            "name": "Mise à mort (Death Knell)",
+            "description": "<p>Vous étouffez la vie d’une créature aux portes de la mort. La cible doit faire un jet de Volonté. Si vous la tuez, vous gagnez 10 PV temporaires et un bonus de statut de +1 aux jets d’attaques et de dégâts pendant 10 min.</p>\n<p>\n<hr><b>Succès critique</b>  La cible n’est pas affectée.</p>\n<p>\n<b>Succès</b> La valeur pour que la cible soit @Compendium[pf2e.conditionspf2e.yZRUzMqrMmfLu0V1]{mourante} augmente de 1.</p>\n<p>\n<b>Échec</b> La cible meurt.</p>"
         },
         {
             "id": "Summon Construct",
@@ -175,6 +215,11 @@
             "id": "Cry of Destruction",
             "name": "Cri de destruction (Cry of Destruction)",
             "description": "<p>Votre voix résonne, écrasant ce qui se trouve devant vous. Chaque créature et objet non porté dans la zone subit 1d8 dégâts de son. Si vous avez déjà infligé des dégâts à un ennemi à ce tour avec une Frappe ou un sort, augmentez le dé de dégâts de ce sort à 1d12.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d8.</p>"
+        },
+        {
+            "id": "Darkness",
+            "name": "Ténèbres (Darkness)",
+            "description": "<p>Vous créez un linceul de ténèbres qui empêchent la lumière de pénétrer dans la zone ou d’en émaner. La lumière ne pénètre pas dans la zone et toute source de lumière non magique, comme une torche ou une lanterne, n’émet plus de lumière une fois dans la zone, même si le rayon de sa luminosité devrait s’étendre au-delà des ténèbres. Le sort supprime également la lumière magique d’un niveau de sort inférieur ou égal à celui de vos ténèbres. La lumière ne traverse pas la zone, les créatures qui s’y trouvent ne voient donc pas à l’extérieur. De l’extérieur, la zone ressemble à un globe de pures ténèbres.</p>\n<hr>\n<p><strong>Intensifié (4th)</strong> Même les créatures dotées de vision dans le noir (mais pas celles avec vision dans le noir supérieure) voient à peine dans les ténèbres. Elles traitent les cibles vues dans les ténèbres comme si elles étaient @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{masquées}.</p>"
         },
         {
             "id": "Ventriloquism",
@@ -197,6 +242,11 @@
             "description": "<p>Vous délivrez un édit diabolique qui récompense la cible lorsqu’elle accomplit une tâche spécifique. Elle bénéficie d’un bonus de statut de +1 aux jets d’attaque et aux tests de compétence associés à l’accomplissement de la tâche. Si elle refuse d’accomplir la tâche assignée, elle subit à la place un malus de statut de −1 à tous ses jets d’attaque et tests de compétence.</p>"
         },
         {
+            "id": "Entangle",
+            "name": "Enchevêtrement (Entangle)",
+            "description": "<p>Les plantes de la zone enchevêtrent les créatures. La zone compte comme un terrain difficile. À chaque round, une créature doit faire un jet de Réflexes quand elle débute son tour dans la zone. Sur un échec, elle subit un malus de circonstances de −3 m à la Vitesse jusqu’à ce qu’elle quitte la zone. Sur un échec critique, elle est aussi @Compendium[pf2e.conditionspf2e.eIcWbB5o3pP6OIMe]{immobilisée} pendant 1 round. Une créature peut tenter de S’échapper (contre le DD d’enchevêtrement pour se débarrasser de ces effets. </p>"
+        },
+        {
             "id": "Blind Ambition",
             "name": "Ambition aveugle (Blind Ambition)",
             "description": "<p>Vous renforcez l’ambition d’une cible, augmentez son ressentiment envers ses alliés et rendez ses alliances plus susceptibles de changer. La cible doit faire un jet de Volonté.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n’est pas affectée.</p>\n<p><strong> Succès </strong> La cible subit un malus de statut de −1 à ses jets de sauvegarde et autres défenses contre les tentatives pour la Contraindre, la Solliciter ou qui utilisent des effets mentaux pour la convaincre de faire quelque chose (tel un sort de suggestion). Ce malus s’applique uniquement si la cible est encouragée à mettre en avant ses propres ambitions.</p>\n<p><strong> Échec </strong> Comme un succès, mais le malus est de −2.</p>\n<p><strong> Échec critique </strong> La cible est submergée par l’ambition, privilégiant les actions qui feraient avancer sa propre stratégie par rapport à celle de n’importe qui d’autre, même sans tentative pour l’en convaincre. </p>"
@@ -215,6 +265,11 @@
             "id": "Acid Splash",
             "name": "Aspersion d’acide (Acid Splash)",
             "description": "<p>Vous envoyez un globe d’acide qui éclabousse les créatures et les objets. Faites une attaque de sort. Si vous touchez, vous infligez 1d6 dégâts d’acide plus 1 dégât d’acide d’éclaboussure. Sur un succès critique, la cible reçoit aussi 1 dégât d’acide persistant.</p>\n<hr style=\"color: #0f0f0f; font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif; font-size: 15px; background-color: #ededed;\">\n<p><strong>Intensifié  (3e)</strong>&nbsp; Les dégâts initiaux passent à 1d6 + votre modificateur de caractéristique d’incantation et les dégâts persistants passent à 2.@JournalEntry[Persistent Damage] increases to 2.<br><strong> Intensifié  (5e)</strong>&nbsp; Les dégâts initiaux passent à 2d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 3 et les dégâts d’éclaboussure passent à 2., the @JournalEntry[Persistent Damage] increases to 3, and the splash damage increases to 2.<br><strong> Intensifié  (7e)</strong>&nbsp; Les dégâts initiaux passent à 3d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 4 et les dégâts d’éclaboussure passent à 3, the @JournalEntry[Persistent Damage] increases to 4, and the splash damage increases to 3.<br><strong> Intensifié  (9e)</strong>&nbsp; Les dégâts initiaux passent à 4d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 5 et les dégâts d’éclaboussure passent à 4, the @JournalEntry[Persistent Damage] increases to 5, and the splash damage increases to 4.</p>"
+        },
+        {
+            "id": "Enhance Victuals",
+            "name": "Amélioration des victuailles (Enhance Victuals)",
+            "description": "<p>Vous changez la cible en quelque chose de délicieux, transformant l’eau en bon vin ou en une autre boisson de qualité ou améliorant le goût et les ingrédients d’un repas pour en faire un menu de gourmet.</p>\n<p>Avant cette transformation, le sort tente de contrer tout poison contenu dans la nourriture ou la boisson. L’eau et les aliments redeviennent normaux s’ils ne sont pas consommés avant que le sort n’expire, mais les poisons contrés ne réapparaissent pas.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Le nombre de litres d’eau que vous pouvez cibler augmente de 3,5 ou le nombre de kilos de nourriture de 2,5.</p>"
         },
         {
             "id": "Protective Ward",
@@ -247,6 +302,11 @@
             "description": "<p>Accéléré par votre ki, vous vous déplacez si vite que vous en devenez indistinct. Déplacez-vous deux fois en Marchant rapidement deux fois, en Faisant un pas deux fois, ou en Marchant rapidement une fois et en Faisant un pas une fois (dans l’ordre de votre choix). Vous gagnez l’état masqué pendant ce déplacement et jusqu’au début de votre prochain tour.</p>"
         },
         {
+            "id": "Barkskin",
+            "name": "Peau d'écorce (Barkskin)",
+            "description": "<p>La peau de la cible se couvre d’écorce, lui donnant une résistance 2 aux dégâts contondants et perforants et une faiblesse 3 au feu. Une fois que la cible a subi des dégâts de feu, elle peut Révoquer le sort par une action gratuite déclenchée par les dégâts, bien que cela ne les réduise pas.</p>\n<hr>\n<p><strong>Intensifié (+2)</strong> La résistance augmente de 2 et la faiblesse de 3.</p>"
+        },
+        {
             "id": "Produce Flame",
             "name": "Flammes (Produce Flame)",
             "description": "<p>Une petite boule de flamme apparaît dans la paume de votre main et vous vous en servez pour vous battre au corps à corps ou à distance. Faites un jet d’attaque de sort contre la CA de la cible. C’est normalement une attaque à distance mais vous pouvez également faire une attaque au corps à corps contre une créature à portée de votre allonge à mains nues.</p>\n<p>En cas de succès, vous infligez 1d4 dégâts de feu plus votre modificateur de caractéristique d’incantation. En cas de succès critique, la cible subit le double des dégâts et 1d4 dégâts de feu persistants.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong>&nbsp; ugmentez les dégâts de 1d4 et les dégâts persistants @JournalEntry[Persistent Damage]en cas de succès critique de 1d4.</p>"
@@ -257,6 +317,11 @@
             "description": "<p>Vous drapez la cible d’un manteau d’ombres tourbillonnantes qui la rend beaucoup plus difficile à voir. La cape réduit la lumière vive en lumière faible dans une émanation de 6 m. C’est une forme de ténèbres magiques qui peut donc vaincre la lumière non magique ou tenter de contrer la lumière magique comme décrit à la page 459. La cible peut utiliser l’état masqué conféré par les ombres pour Se cacher, bien que les créatures attentives puissent toujours suivre le déplacement de l’aura d’ombre, rendant difficile pour la cible de devenir complètement non détectée. La cible peut utiliser une action Interagir pour retirer la cape et la laisser comme un leurre, réduisant la lumière pour le reste de la durée du sort. Si quelqu’un la saisit après qu’elle a été retirée par la cible originale, la cape s’évapore et le sort prend fin.</p>"
         },
         {
+            "id": "Animal Messenger",
+            "name": "Messager animal (Animal Messenger)",
+            "description": "<p>Vous proposez un peu de nourriture qu’un animal sauvage de Très Petite taille à portée vient manger. Vous imprimez dans son esprit l’image d’un lieu ou d’un repère évident que vous connaissez bien, ainsi que la direction dans laquelle il se trouve et la distance qui vous en sépare. Vous pouvez attacher une note ou un petit objet d’Encombrement léger à l’animal. Ce dernier fait de son mieux pour atteindre la destination. S’il y parvient, il attend jusqu’à la fin du sort et laisse les créatures non hostiles l’approcher et récupérer l’objet qu’il transporte. </p>\n<p>S’il n’y a pas d’animal de Très Petite taille à portée, le sort est perdu. Le sort se termine au bout de 24 h ou quand une créature récupère l'objet, selon ce qui se produit en premier.</p>"
+        },
+        {
             "id": "Ant Haul",
             "name": "Charge de fourmi (Ant Haul)",
             "description": "<p>Vous renforcez le squelette et les muscles de votre cible pour qu’elle porte plus de poids. Elle peut transporter 3 Encombrements de plus que d’ordinaire avant d’être encombrée et jusqu’à un maximum de 6 Encombrement de plus.</p>"
@@ -265,6 +330,11 @@
             "id": "Magic Aura",
             "name": "Aura magique (Magic Aura)",
             "description": "<p>Vous modifiez l’aspect de l’aura magique d’un objet. Vous pouvez faire en sorte que l’aura de la cible ressemble à celle d’un objet magique ordinaire d’un niveau égal ou inférieur à deux fois celui de l’aura magique, ou pour qu’elle donne l’impression d’être sous les effets d’un sort de votre choix d’un niveau inférieur ou égal à celui de l’aura magique. Si la cible est magique, vous pouvez faire en sorte qu’elle paraisse complètement non magique à la place. Un incantateur qui utilise détection de la magie ou lecture de l’aura dont le niveau de sort est supérieur ou égal peut tenter de discerner l’illusion de l’aura magique. Aura magique ne camoufle pas l’aura des sorts de niveau 9 ou plus ou celle des objets de niveau 19 ou plus.</p>\n<hr>\n<p><strong>Intensifié (3e)</strong> Vous pouvez cibler une créature à la place d’un objet. Dans ce cas, vous pouvez camoufler les auras de tous les objets magiques qu’elle porte ou donner l’impression que son aura est sous les effets d’un sort que vous connaissez.</p>"
+        },
+        {
+            "id": "Gentle Repose",
+            "name": "Préservation des morts (Gentle Repose)",
+            "description": "<p>Le cadavre visé ne se décompose pas et ne peut pas être changé en mort-vivant. S’il est soumis à un effet exigeant qu’il soit mort depuis un certain temps au maximum (rappel à la vie par exemple), la durée qu’il passe sous préservation des morts est décomptée du temps passé depuis sa mort. Le sort empêche aussi les insectes et vermines ordinaires, comme les asticots, de manger le cadavre</p>\n<hr>\n<p><strong>Intensifié (5th)</strong>  La durée du sort est illimitée, mais il faut dépenser une action de plus pour le lancer et il exige un composant matériel et a un coût (6 po de fluides d’embaumement).</p>"
         },
         {
             "id": "Protection",
@@ -287,6 +357,11 @@
             "description": "<p>Un déluge de peinture illusoire colorée, d’outils ou d’autres symboles d’art et d’artisanat dérive dans la zone. Lancez 1d4 pour déterminer la couleur de l’illusion. Chaque créature dans la zone doit faire un jet de Volonté. Une créature n’est pas affectée sur un succès. Sur un échec ou un échec critique, la créature subit le résultat listé sur le tableau correspondant à la couleur</p>\n<h3 style=\"box-sizing: border-box; user-select: text; color: #191813;\"><strong style=\"box-sizing: border-box; user-select: text;\">Splash of Art</strong></h3>\n<table style=\"box-sizing: border-box; user-select: text; width: 372px; color: #191813; font-size: 13px; height: 95px;\" border=\"1\">\n<tbody style=\"box-sizing: border-box; user-select: text;\">\n<tr style=\"box-sizing: border-box; user-select: text; height: 25px;\">\n<td style=\"box-sizing: border-box; user-select: text; color: white; height: 25px; width: 32px; text-align: center; background-color: #522e2c;\"><strong style=\"box-sizing: border-box; user-select: text;\">1d4</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 70px; text-align: center; background-color: #522e2c; height: 25px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Color</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 135px; text-align: center; background-color: #522e2c; height: 25px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Failure</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; height: 25px; width: 134px; text-align: center; background-color: #522e2c;\"><strong style=\"box-sizing: border-box; user-select: text;\">Critical Failure</strong></td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 17px; width: 32px; text-align: center; background-color: #f6f1e1;\">1</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 70px; text-align: center; background-color: #f6f1e1; height: 17px;\">Blanc</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 135px; text-align: center; background-color: #f6f1e1; height: 17px;\"> Éblouie 1 round</td>\n<td style=\"box-sizing: border-box; user-select: text; height: 17px; width: 134px; text-align: center; background-color: #f6f1e1;\"> Éblouie 1 round</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 17px; width: 32px; text-align: center; background-color: #eee5c8;\">2</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 70px; text-align: center; background-color: #eee5c8; height: 17px;\">Rouge</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 135px; text-align: center; background-color: #eee5c8; height: 17px;\"> Affaibli 1 pendant 1 round</td>\n<td style=\"box-sizing: border-box; user-select: text; height: 17px; width: 134px; text-align: center; background-color: #eee5c8;\"> Affaibli 2 pendant 1 round</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 17px; width: 32px; text-align: center; background-color: #f6f1e1;\">3</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 70px; text-align: center; background-color: #f6f1e1; height: 17px;\">Jaune</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 135px; text-align: center; background-color: #f6f1e1; height: 17px;\"> Effrayée 1</td>\n<td style=\"box-sizing: border-box; user-select: text; height: 17px; width: 134px; text-align: center; background-color: #f6f1e1;\"> Effrayée 2</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 19px; width: 32px; text-align: center; background-color: #eee5c8;\">4</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 70px; text-align: center; background-color: #eee5c8; height: 19px;\">Bleu</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 135px; text-align: center; background-color: #eee5c8; height: 19px;\"> Maladroit 1 pendant 1 round</td>\n<td style=\"box-sizing: border-box; user-select: text; height: 19px; width: 134px; text-align: center; background-color: #eee5c8;\"> Apathique 2 pendant 1 round</td>\n</tr>\n</tbody>\n</table>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">&nbsp;</p>"
         },
         {
+            "id": "Comprehend Language",
+            "name": "Compréhension des langues (Comprehend Language)",
+            "description": "<p>La cible comprend une unique langue qu’elle entend ou qu’elle lit lorsque vous lancez le sort. Cela ne lui permet pas de comprendre un code, un langage caché dans des métaphores, etc. (au MJ de trancher). Si la cible entend plusieurs langues et le sait, elle peut choisir celle qu’elle désire comprendre, sinon déterminez une de ces langues au hasard</p>\n<hr>\n<p><strong>Intensifié (3rd)</strong> La cible peut aussi parler la langue.</p>\n<p><strong>Intensifié (4th)</strong> Vous pouvez viser jusqu’à 10 créatures, qui peuvent alors aussi parler la langue.</p>"
+        },
+        {
             "id": "Lingering Composition",
             "name": "Composition prolongée (Lingering Composition)",
             "description": "<p>Vous ajoutez un geste théâtral à votre composition pour étendre ses avantages. Si votre prochaine action est de lancer un tour de magie de composition avec une durée de 1 round, effectuez un test de Représentation. Le DD est généralement un DD très difficile d’un niveau égal à celui de la cible de votre composition ayant le plus haut niveau, mais le MJ peut assigner un DD différent en fonction des circonstances. L’effet dépend du résultat de votre test</p>\n<p>\n<hr><b>Succès critique</b> La composition dure 4 rounds.</p>\n<p>\n<b> Succès </b> La composition dure 3 rounds.</p>\n<p>\n<b> Échec. </b> La composition dure 1 round, mais vous ne dépensez pas le point de focalisation pour lancer ce sort.</p>"
@@ -295,6 +370,11 @@
             "id": "Fleet Step",
             "name": "Pas rapide (Fleet Step)",
             "description": "<p>Vous gagnez un bonus de statut de +3 m à votre Vitesse.</p>"
+        },
+        {
+            "id": "Flaming Sphere",
+            "name": "Sphère de feu (Flaming Sphere)",
+            "description": "<p><strong>Zone&nbsp;</strong>case de 1,5 m</p>\n<hr>\n<p>Vous créez une sphère de flammes dans une case à portée. Elle doit reposer sur une surface solide, comme un sol de pierre. Elle inflige 3d6 dégâts de feu à chaque créature qui se trouve dans cette case quand elle apparaît. Chacune doit faire un jet de Réflexes basique. Aux rounds suivants, vous pouvez Maintenir le sort et laisser la sphère dans sa case ou la faire rouler dans une autre case à portée où elle inflige 3d6 dégâts de feu. Chaque créature dans la case doit faire un jet de Réflexes basique.</p>\n<p>Les créatures qui réussissent leur jet ne reçoivent aucun dégât (au lieu de la moitié).</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d6.</p>"
         },
         {
             "id": "Color Spray",
@@ -327,9 +407,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">cible produit des lianes et des feuilles débordant d’énergie primordiale.\nLa cible devient une arme de frappe +1 <em>+1 striking weapon</em>, ce qui lui procure un bonus d’objet de +1 aux jets d’attaque et fait passer à deux les dés de dégâts de l’arme. De plus, tant que vous êtes sur votre plan natal, les attaques que vous effectuez avec la cible contre les aberrations, les créatures extraplanaires et les morts-vivants augmentent à trois le nombre de dés de dégâts de l’arme.&nbsp;</span></p>"
         },
         {
+            "id": "Endure Elements",
+            "name": "Endurance aux éléments (Endure Elements)",
+            "description": "<p>Vous protégez la cible contre les températures dangereuses. Choisissez la chaleur ou le froid important. La cible est protégée contre la température de votre choix (mais pas contre la chaleur ou le froid extrême).</p>\n<hr>\n<p><strong>Intensifié (3rd)</strong> La cible est protégée contre le froid ou la chaleur extrême</p>\n<p><strong>Intensifié (5th)</strong> La cible est protégée contre la chaleur et le froid importants ainsi que le froid et la chaleur extrêmes.</p>"
+        },
+        {
             "id": "Create Water",
             "name": "Création d'eau (Create Water)",
             "description": "<p>De l’eau jaillit de vos mains en coupe. Vous créez 7,5 L d’eau. Si personne ne la boit, elle s’évapore après 1 jour.</p>"
+        },
+        {
+            "id": "Animal Form",
+            "name": "Forme animale (Animal Form)",
+            "description": "<p>Vous faites appel à l’énergie primordiale pour remodeler votre corps en une forme de combat : celle d’un animal de taille Moyenne. Quand vous lancez le sort, choisissez entre un primate, un ours, un taureau, un canidé, un félin, un daim, une grenouille, un requin ou un serpent. Vous pouvez opter pour un type d’animal spécifique (comme un lion ou une panthère des neiges pour la forme de félin), mais cela n’affecte ni la taille ni les statistiques de la forme de combat. Sous cette forme, vous gagnez le trait animal. Vous pouvez Révoquer le sort.</p>\n<p>Vous gagnez les statistiques et pouvoirs suivants, quelle que soit la forme de combat choisie :</p>\n<ul>\n<li>AC CA = 16 + votre niveau. Ignore votre malus d’armure aux tests et votre réduction de Vitesse.</li>\n<li>5 points de vie temporaires.</li>\n<li>Vision nocturne et odorat imprécis 9 m.</li>\n<li>Une ou plusieurs attaques de corps à corps à mains nues spécifiques à la forme de combat choisie, qui deviennent vos seules attaques utilisables. Vous êtes qualifié pour vous en servir. Votre modificateur d’attaque est de +9 et votre bonus aux dégâts de +1. Ces attaques sont basées sur la Force (vis-à-vis de l’état @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{affaibli } par exemple). Si votre bonus d’attaque à mains nues est plus élevé, utilisez-le à la place.</li>\n<li> Modificateur d’Athlétisme de +9, sauf si le vôtre est supérieur.</li>\n</ul>\n<p>You Vous gagnez également des pouvoirs spécifiques basés sur la forme choisie :</p>\n<ul>\n<li><strong> Primate</strong> Vitesse 7,5 m, Vitesse d’escalade 6 m; Corps à corps poing, Dégâts 2d6 contondant.</li>\n<li><strong> Ours</strong> Vitesse 9 m; Corps à corps mâchoires, Dégâts 2d8 perforants; Corps à corps griffe (agile), Dégâts 1d8 tranchants.</li>\n<li><strong> Taureau</strong> Vitesse 9 m; Corps à corps corne , Dégâts 2d8 perforants.</li>\n<li><strong> Canidé</strong> Vitesse 12 m; Corps à corps mâchoires, Dégâts 2d8 perforants.</li>\n<li><strong> Félin</strong> Vitesse 12 m; Corps à corps mâchoires, Dégâts2d6 perforants; Corps à corps griffe (agile), Dégâts 1d10 tranchants.</li>\n<li><strong> Daim</strong> Vitesse 15 m; Corps à corps bois, Dégâts2d6 perforants.</li>\n<li><strong> Grenouille</strong> Vitesse 7.5 m, Vitesse de nage 7,5 m; Corps à corps mâchoires, Dégâts 2d6 contondant; Corps à corps langue (allonge 4,5 m), Dégâts 2d4 contondant.</li>\n<li><strong> Requin</strong> Vitesse de nage 10,5 m; Corps à corps mâchoires, Dégâts 2d8 perforants; respire sous l’eau mais pas à l’air libre.</li>\n<li><strong> Serpent</strong> Vitesse de nage 6 m, climb Vitesse d’escalade 6 m, Vitesse de nage 6 m; Corps à corps crochets, Dégâts 2d4 perforants plus 1d6 poison.</li>\n</ul>\n<hr>\n<p><strong> Intensifié (3rd)</strong> Vous gagnez à la place 10 points de vie temporaires, CA= 17 + votre niveau, modificateur d’attaque +14, bonus aux dégâts +5 et Athlétisme +14.</p>\n<p><strong> Intensifié (4th)</strong> Votre forme de combat est de Grande taille et vos attaques ont une allonge de 3 m. Vous devez avoir assez de place pour vous dilater, sinon le sort est perdu. Vous gagnez à la place 15 points de vie temporaires, CA = 18 + votre niveau, modificateur d’attaque +16, bonus aux dégâts +9 et Athlétisme +16.</p>\n<p><strong> Intensifié (5th)</strong> Votre forme de combat est de Très Grande taille et vos attaques ont une allonge de 4,5 m. Vous devez avoir assez de place pour vous dilater, sinon le sort est perdu. Vous gagnez à la place 20 points de vie temporaires, CA = 18 + votre niveau, modificateur d’attaque +18, bonus aux dégâts +7 et le nombre de dés de dégâts est doublé et Athlétisme +20.</p>"
         },
         {
             "id": "Heal Animal",
@@ -337,9 +427,29 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous soignez les blessures de l’animal ciblé qui récupère 1d8 points de vie. Le nombre d’actions dépensées pour Lancer ce sort détermine son effet. </span></p>\n<ul>\n<li><img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> <strong>somatique.</strong> Le sort a une portée de contact.</li>\n<li><img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> <strong>somatique, verbal</strong> Le sort a une portée de 9 m et permet à la cible de récupérer 8 points de vie supplémentaires.</li>\n</ul>\n<hr>\n<p><strong>Intensifié (+1)</strong> Le montant des soins augmente de 1d8 et les soins supplémentaires de la version à 2 actions augmentent de 8.</p>"
         },
         {
+            "id": "Invisibility",
+            "name": "Invisibilité (Invisibility)",
+            "description": "<p>Camouflée par une illusion, la cible devient @Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{invisible}. Cette invisibilité lui permet d’être @Compendium[pf2e.conditionspf2e.VRSef5y1LmL2Hkjf]{non détectée} vis-à-vis de toutes les créatures, mais celles-ci peuvent tenter de la trouver pour qu’elle devienne @Compendium[pf2e.conditionspf2e.iU0fEDdBp3rXpTMC]{cachée} visà-vis d’elles à la place (page 466). Si la cible effectue une action hostile, le sort se termine une fois cette action accomplie.</p>\n<hr>\n<p><strong>Intensifié (4th)</strong> Le sort dure 1 min mais ne se termine pas si la cible effectue une action hostile.</p>"
+        },
+        {
+            "id": "Ghoulish Cravings",
+            "name": "Désirs macabres (Ghoulish Cravings)",
+            "description": "<p>Vous touchez la cible pour lui transmettre la fièvre des goules, qui l’affligera d’une faim dévorante et lui fera progressivement perdre son lien avec l’énergie positive. Elle fait un jet de Vigueur</p>\n<hr>\n<p><strong>Fièvre des goules</strong>&nbsp;(maladie);&nbsp;<strong>Niveau&nbsp;</strong>3;&nbsp;<strong>Stade</strong> <strong>1&nbsp;</strong> pas d’effet sur le porteur (1 jour);&nbsp;<strong>Stade</strong> <strong>2&nbsp;</strong>3d8 dégâts négatifs et le malade récupère seulement la moitié de ses points de vie quand il reçoit des soins (1 jour);&nbsp;<strong>Stade</strong> <strong>3&nbsp;</strong>comme le stade 2 (1 jour);&nbsp;<strong>Stade</strong> <strong>4&nbsp;</strong>3d8 dégâts d’énergie négative et les soins ne fonctionnent plus sur le malade (1 jour);&nbsp;<strong>Stade</strong> <strong>5</strong>&nbsp;comme stade 4 (1 jour);&nbsp;<strong>Stade 6</strong>&nbsp; la\ncréature meurt et se relève sous forme de goule aux prochains coups de minuit<br><br><strong>Succès critique</strong>&nbsp;La cible n’est pas affectée.<br><strong>Succès&nbsp;</strong>La cible est contaminée par la fièvre des goules au premier stade.<br><strong>Échec&nbsp;</strong> La cible est contaminée par la fièvre des goules au deuxième stade.<br><strong>Échec critique</strong>&nbsp; La cible est contaminée par la fièvre des goules au troisième stade.</p>"
+        },
+        {
             "id": "Fire Ray",
             "name": "Rayon de feu (Fire Ray)",
             "description": "<p>Une bande de feu flamboyante se forme dans les airs. Effectuez un jet d’attaque de sort. Le rayon inflige 2d6 dégâts de feu.</p>\n<p><strong>Succès critique</strong> Le rayon inflige le double des dégâts et 1d4 dégâts de feu persistants.</p>\n<p><strong> Succès </strong> Le rayon inflige la totalité des dégâts.</p>\n<hr>\n<p><strong> Intensifié (+1)</strong> Les dégâts initiaux du rayon augmentent de 2d6, et les dégâts de feu persistants sur un succès critique augmentent de 1d4.</p>"
+        },
+        {
+            "id": "Create Food",
+            "name": "Création de nourriture (Create Food)",
+            "description": "<p>Vous créez de quoi alimenter six créatures Moyennes pendant une journée. La nourriture est fade et peu engageante, mais elle est nourrissante. Si personne ne la mange, elle se gâte et n’est plus comestible au bout d’un jour. La plupart des Petites créatures mangent un quart de la ration des Moyennes (et les Très Petites un seizième) tandis que la majorité des Grandes créatures mangent dix fois plus (cent fois plus pour les Très Grandes créatures, etc.).</p>\n<hr>\n<p><strong>Intensifié (4th)</strong>  Vous pouvez nourrir 12 créatures Moyennes.</p>\n<p><strong>Intensifié (6th)</strong>  Vous pouvez nourrir 50 créatures Moyennes.</p>\n<p><strong>Intensifié (8th)</strong>  Vous pouvez nourrir 200 créatures Moyennes.</p>"
+        },
+        {
+            "id": "Dispel Magic",
+            "name": "Dissipation de la magie (Dispel Magic)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous défaites la magique qui tisse un sort ou un effet. Faites un test pour contrer la cible (page 459). Si vous réussissez contre un effet de sort, vous le contrez. Si vous réussissez contre un objet magique, il devient un objet ordinaire de son type pendant 10 min. Cela ne change pas ses propriétés non magiques. Vous échouez automatiquement si vous prenez pour cible un artefact ou un objet similaire.&nbsp;</span></p>"
         },
         {
             "id": "Item Facade",
@@ -395,6 +505,11 @@
             "id": "Detect Alignment",
             "name": "Détection de l’alignement (Detect Alignment)",
             "description": "<p>Vos yeux luisent tandis que vous percevez les auras alignées. Choisissez chaotique, mauvais, bon ou loyal. Vous détectez les auras de l’alignement correspondant. Vous ne recevez aucune information autre que leur absence ou leur présence. Vous pouvez décider de ne pas détecter les créatures ou les effets dont vous savez déjà qu’ils possèdent l’alignement choisi.</p>\n<p> Seules les créatures de niveau 6 ou plus ont une aura d’alignement, à moins d’être un incantateur divin, un mort-vivant ou un être de la Sphère extérieure.</p>\n<hr>\n<p><strong> Intensifié (2e)</strong> Vous découvrez l’emplacement et la puissance de chaque aura.</p>"
+        },
+        {
+            "id": "Augury",
+            "name": "Augure (Augury)",
+            "description": "<p>Vous apercevez une brève vision du futur. Lors de l’incantation de ce sort, vous demandez quel sera le résultat d’un certain plan d’action. Le sort prédit des résultats dans un futur de trente minutes et révèle ce que le MJ pense être l’issue la plus probable entre :</p>\n<ul>\n<li><strong>Bonheur</strong> Le résultat sera positif.</li>\n<li><strong>Malheur</strong> Le résultat sera négatif</li>\n<li><strong>Bonheur et malheur</strong> Le résultat aura du positif et du négatif.</li>\n<li><strong>Rien</strong>  Le résultat ne sera pas particulièrement positif ou négatif.</li>\n</ul>\n<p>Le MJ fait un test nu DD 6 en secret. Sur un échec, le résultat est toujours « rien ». Il est donc impossible de savoir si « rien » reflète la vérité. Si quelqu’un pose une question sur le même sujet que lors de la première incantation d’augure lors d’une autre incantation du sort, le MJ utilise le résultat secret de la première. Cependant, il est possible d’obtenir un résultat différent si les circonstances ont changé.</p>"
         },
         {
             "id": "Mage Armor",
@@ -467,6 +582,11 @@
             "description": "<p>Vos encouragements inspirent votre allié à réussir une tâche. Cela compte comme ayant pris suffisamment d’actions préparatoires pour Aider un allié à un test de compétence de votre choix, quelles que soient les circonstances. Quand vous utilisez plus tard la réaction Aider, vous pouvez faire un test de Représentation à la place du test de compétence normal, et si vous obtenez un échec, vous obtenez un succès à la place. Si vous êtes légendaire en Représentation, vous obtenez automatiquement un succès critique.</p>\n<p>Le MJ peut décider que vous ne pouvez pas utiliser ce pouvoir si l’acte d’encourager votre allié pourrait interférer avec le test de compétence (comme un test pour Être furtif ou maintenir un déguisement).</p>"
         },
         {
+            "id": "Knock",
+            "name": "Déblocage (Knock)",
+            "description": "<p>La cible est plus facile à ouvrir grâce à ce sort. Déblocage confère un bonus de statut de +4 aux créatures qui tentent d’ouvrir la porte, la serrure ou le contenant ciblé avec un test d’Athlétisme ou de Vol. Vous pouvez effectuer un test de Vol pour ouvrir la cible lorsque vous lancez déblocage et vous ajoutez votre niveau même si vous êtes inexpérimenté. </p>\n<p>Déblocage contre verrouillage.</p>"
+        },
+        {
             "id": "Electric Arc",
             "name": "Arc électrique (Electric Arc)",
             "description": "<p>Un arc électrique bondit d’une cible à l’autre. Vous infligez des dégâts électriques d’un montant égal à 1d4 + votre modificateur de caractéristique d’incantation.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong>&nbsp;The Les dégâts augmentent de 1d4.</p>"
@@ -507,6 +627,11 @@
             "description": "<p> Vous murmurez tout bas des mots mais ceux-ci sont directement transférés vers les oreilles de la cible au lieu de sortir de votre bouche. La cible peut entendre distinctement vos paroles comme si vous vous les prononciez à côté d’elle, mais les autres éprouvent les difficultés normales à entendre des paroles murmurées tout bas..</p>\n<p> La cible peut répondre brièvement par une réaction ou par une action gratuite lors de son prochain tour si elle le souhaite, mais elle doit pouvoir vous voir et se trouver à portée de votre sort. Si elle répond, sa réponse est transférée directement dans vos oreilles, exactement comme le message initial. </p>\n<hr>\n<p><strong> Intensifié (3e)</strong> La portée du sort passe à 150 m.</p>"
         },
         {
+            "id": "Hideous Laughter",
+            "name": "Fou rire (Hideous Laughter)",
+            "description": "<p>La cible est prise d’un fou rire incontrôlable. Elle doit faire un jet de Volonté.</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée.</p>\n<p>\n<b>Succès</b> La cible est prise d’un fou rire incontrôlable. Elle ne peut plus faire de réactions.</p>\n<p>\n<b>Échec</b> La cible est @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralentie} 1 et ne peut plus faire de réactions.</p>\n<p>\n<b>Échec critique</b> La cible tombe @Compendium[pf2e.conditionspf2e.j91X7x0XSomq8d60]{à terre} et ne peut plus faire d’actions ou de réactions pendant un round. Elle subit ensuite les effets de l’échec.</p>"
+        },
+        {
             "id": "Ancestral Memories",
             "name": "Souvenirs ancestraux (Ancestral Memories)",
             "description": "<p>Les souvenirs de lanceurs de sorts morts depuis des lustres vous confèrent des connaissances en une compétence spécifique. Choisissez une compétence autre que Connaissances ou une compétence de Connaissances liées à l’ancien empire d’où provient votre lignée. Vous devenez temporairement qualifié dans cette compétence et pouvez obtenir d’autres souvenirs provenant d’un ancêtre qualifié dans cette compétence. Si vous effectuez une tâche ou une activité dont la durée dépasse celle de ce sort, appliquez le modificateur de maîtrise le moins élevé.</p>\n<p>\n<hr><hr><b>Intensifié (6e)</b> Vous devenez temporairement un expert dans la compétence\nchoisie.</p>"
@@ -530,6 +655,11 @@
             "id": "Fear",
             "name": "Terreur (Fear)",
             "description": "<p>Vous semez la terreur dans le coeur de la cible qui doit faire un jet de Volonté.</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée.</p>\n<p>\n<b> Succès </b> La cible est effrayée 1 @JournalEntry[Frightened] 1.</p>\n<p>\n<b> Échec </b> La cible est effrayée 2 @JournalEntry[Frightened] 2.</p>\n<p>\n<b> Échec critique </b> La cible est effrayée 3 @JournalEntry[Frightened] 3 et en fuite pendant 1 round @JournalEntry[Fleeing] for 1 round</p>\n<p>\n<hr><b>Intensifié (3e)</b> Vous pouvez cibler jusqu’à 5 créatures.</p>"
+        },
+        {
+            "id": "Calm Emotions",
+            "name": "Apaisement des émotions (Calm Emotions)",
+            "description": "<p>Vous apaisez de force les créatures de la zone, les ramenant dans un état de non-violence. Chaque créature doit faire un jet de Volonté.</p>\n<p>\n<hr><b>Succès critique</b> La créature n’est pas affectée.</p>\n<p>\n<b>Succès</b> Une envie de calme impose un malus de statut de −1 aux jets d’attaques de la créature.</p>\n<p>\n<b>Échec</b> Tout effet d’émotion qui devrait affecter la créature est supprimé et elle ne peut pas accomplir d’action hostile. Si la cible est victime de l’hostilité d’une autre créature, elle n’est plus soumise à apaisement des émotions.</p>\n<p>\n<b>Échec critique</b> Comme en cas d’échec, mais l’hostilité ne met pas un terme à l’effet.</p>"
         },
         {
             "id": "Magic Fang",
@@ -560,6 +690,11 @@
             "id": "Ki Strike",
             "name": "Frappe Ki (Ki Strike)",
             "description": "<p>Vous focalisez votre ki pour porter des attaques magiques. Effectuez une Frappe à mains nues ou un Déluge de coups (ceci ne change pas la limite d’une sophistication par tour). Vous bénéficiez d’un bonus de statut de +1 à vos jets d’attaque avec ces Frappes et celles-ci infligent 1d6 dégâts supplémentaires. Pour chaque Frappe, vous choisissez le type de dégâts qu’elle inflige parmi les suivants : force, loi (uniquement si vous êtes loyal), négatif ou positif.</p>\n<hr>\n<p><strong>Intensifié (+4)</strong> Les dégâts supplémentaires augmentent de 1d6.</p>"
+        },
+        {
+            "id": "Deafness",
+            "name": "Surdité (Deafness)",
+            "description": "<p>La cible perd l’ouïe et fait un jet de Vigueur. Ensuite, elle est temporairement immunisée pendant 1 min</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée.</p>\n<p>\n<b>Succès</b> La créature est @Compendium[pf2e.conditionspf2e.9PR9y0bi4JPKnHPR]{sourde} pendant 1 round.</p>\n<p>\n<b>Échec</b> La cible est @Compendium[pf2e.conditionspf2e.9PR9y0bi4JPKnHPR]{sourde} pendant 10 min.</p>\n<p>\n<b>Échec critique</b> La cible est définitivement @Compendium[pf2e.conditionspf2e.9PR9y0bi4JPKnHPR]{sourde}.</p>"
         },
         {
             "id": "Face in the Crowd",
@@ -612,9 +747,24 @@
             "description": "<p>Vous conjurez un animal qui se bat pour vous. Vous convoquez une créature ordinaire qui a le trait animal et dont le niveau est de −1. Intensifier le sort augmente le niveau maximum de la créature que vous convoquez.</p>\n<hr>\n<p><strong>Intensifié (2e)</strong> Niveau1</p>\n<p><strong>Intensifié (3e)</strong> Niveau2</p>\n<p><strong>Intensifié (4e)</strong> Niveau3</p>\n<p><strong>Intensifié (5e)</strong> Niveau5</p>\n<p><strong>Intensifié (6e)</strong> Niveau7</p>\n<p><strong>Intensifié (7e)</strong> Niveau9</p>\n<p><strong>Intensifié (8e)</strong> Niveau11</p>\n<p><strong>Intensifié (9e)</strong> Niveau13</p>\n<p><strong>Intensifié (10e)</strong> Niveau15</p>"
         },
         {
+            "id": "Illusory Creature",
+            "name": "Créature illusoire (Illusory Creature)",
+            "description": "<p>Vous créez l’image illusoire d’une créature de Grande taille ou plus petite. Elle génère les sons et odeurs appropriés et paraît réelle lorsqu’on la touche. Le sort se termine si une distance de plus de 150 m vous sépare de l’image.</p>\n<p>L’image ne peut pas parler mais vous pouvez utiliser vos actions pour parler par son biais et le sort modifie votre voix de manière appropriée. Il vous faudra peut-être faire un test de Duperie ou de Représentation pour imiter la créature, à l’appréciation du MJ. C’est surtout probable si vous tentez d’imiter une personne en particulier et si vous discutez avec quelqu’un qui la connaît.</p>\n<p>En combat, l’illusion peut faire 2 actions par tour et elle les effectue lorsque vous Maintenez le sort. Elle utilise votre jet d’attaque de sort pour faire ses jets d’attaque et votre DD des sorts pour sa CA. Ses modificateurs aux jets de sauvegarde sont égaux à votre DD des sorts −10. Sa substance suffisante lui permet de prendre en tenailles d’autres créatures. Le sort se termine si l’image est la cible d’une attaque réussie ou rate un jet de sauvegarde. </p>\n<p>L’illusion peut infliger des dégâts si la cible est persuadée que ses attaques sont réelles mais elle ne peut pas affecter directement le monde physique. Si la créature illusoire réussit à Frapper une cible, celle-ci subit 1d4 dégâts mentaux plus le modificateur de votre caractéristique d’incantation. C’est un effet mental. Les Frappes de l’illusion sont non létales. Si les dégâts ne correspondent pas à l’image du monstre (par exemple, si un Grand dragon illusoire inflige 5 dégâts seulement), le MJ peut autoriser la cible à faire un test de Perception pour discerner l’illusion par une action gratuite. Toutes résistances et faiblesses s’appliquent si la cible les estime évidentes et si le MJ les juge appropriées. Par exemple, si l’illusion manie un marteau de guerre et attaque une créature résistante aux dégâts contondants, celle-ci subira moins de dégâts mentaux. Toutefois, les dégâts illusoires ne désactivent pas la régénération et ne déclenchent pas les effets basés sur un certain type de dégâts. Le MJ devrait noter les dégâts illusoires infligés par l’illusion.</p>\n<p>Une créature qui touche l’image ou effectue l’action Chercher pour l’examiner peut tenter de la discerner. Quand une créature discerne l’illusion, elle récupère la moitié des dégâts que l’illusion lui a infligé (le cas échéant) et n’en subit plus de sa part. </p>\n<hr>\n<p><strong>Intensifié (+1)</strong>Les dégâts des Frappes de l’image augmentent de 1d4 et la taille maximum de la créature que vous pouvez créer augmente d’une catégorie (jusqu’à un maximum de Gigantesque).</p>"
+        },
+        {
             "id": "Magic Missile",
             "name": "Projectile magique (Magic Missile)",
             "description": "<p>Vous projetez une fléchette de force qui fuse vers une créature dans votre champ de vision. Elle atteint automatiquement sa cible en lui infligeant 1d4+1 dégâts de force. Pour chaque action supplémentaire que vous effectuez en Lançant le sort, augmentez de 1 le nombre de projectiles que vous projetez, jusqu’à un maximum de 3 projectiles pour 3 actions. Vous désignez la cible pour chaque projectile. Si vous tirez plus d’un projectile sur une même cible, faites la somme des dégâts avant d’appliquer les bonus ou malus aux dégâts, les résistances, les faiblesses, etc.</p>\n<hr>\n<p><strong>Intensifié (+2)</strong> Vous tirez un projectile supplémentaire pour chaque action que vous effectuez.</p>"
+        },
+        {
+            "id": "Blur",
+            "name": "Flou (Blur)",
+            "description": "<p>La silhouette de la cible semble floue. Elle devient @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{masquée}. La nature de cet effet ne dissimule pas l’emplacement de la cible, celle-ci ne peut donc pas en profiter pour Se cacher ou Être furtive.</p>"
+        },
+        {
+            "id": "Humanoid Form",
+            "name": "Forme humanoïde (Humanoid Form)",
+            "description": "<p>Vous vous transformez en un humanoïde de taille Moyenne ou Petite, comme un nain, un elfe, un gobelin, un humain, un orc ou un homme-lézard. Vous ajoutez le trait humanoïde et tous ceux associés au type de la créature dont vous prenez la forme (comme gobelin ou humain) aux vôtres tant que vous restez transformé. Si cette transformation réduit votre taille, elle réduit votre allonge en conséquence (comme avec le sort rétrécir). Cette transformation ne modifie en rien vos statistiques et nous ne gagnez aucun pouvoir spécial de la forme humanoïde adoptée. Vous pouvez toujours porter et utiliser votre équipement qui change de taille (si nécessaire) afin de s’adapter à votre nouvelle forme. Il retrouve sa taille normale si vous ne le portez plus.</p>\n<p>Forme humanoïde vous confère un bonus de statut de +4 aux tests de Duperie effectués pour vous faire passer pour un membre générique de l’ascendance choisie et vous ajoutez votre niveau même si vous êtes inexpérimenté mais vous ne pouvez pas vous transformer en une personne en particulier. Si vous voulez Vous déguiser en une personne spécifique, vous devrez quand même confectionner un déguisement mais le MJ ne prendra pas en compte la différence d’ascendance pour déterminer le DD de votre test de Duperie. Vous pouvez Révoquer ce sort.</p>\n<hr>\n<p><strong>Intensifié (3rd)</strong> Vous gagnez vision dans le noir ou vision nocturne si la forme que vous endossez a ce pouvoir.</p>\n<p><strong>Intensifié (5th)</strong> Vous pouvez vous transformer en un humanoïde de Grande taille. Si votre taille augmente par ce biais, vous bénéficiez des effets du sort agrandissement.</p>"
         },
         {
             "id": "Illusory Disguise",

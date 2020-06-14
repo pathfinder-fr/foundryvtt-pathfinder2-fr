@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 298
- * **aucune**: 1060
+ * **officielle**: 310
+ * **aucune**: 992
  * **libre**: 7
  * **changé**: 5
 
 
-Dernière mise à jour: 2020-06-12 19:58 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-14 00:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,20 +14,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[armor-02-lCgXeV52eYYl5cUX.htm](equipment/armor-02-lCgXeV52eYYl5cUX.htm)|Hellknight Plate|
-|[armor-04-f9ygr5Cjrmop8LWV.htm](equipment/armor-04-f9ygr5Cjrmop8LWV.htm)|Sturdy Shield (Minor)|
 |[armor-07-HWQEGY2X0QXj2zfN.htm](equipment/armor-07-HWQEGY2X0QXj2zfN.htm)|Martyr's Shield|
-|[armor-07-nDZX25OwoN0Imrq6.htm](equipment/armor-07-nDZX25OwoN0Imrq6.htm)|Sturdy Shield (Lesser)|
 |[armor-08-daX1jX7XYo3mWZmP.htm](equipment/armor-08-daX1jX7XYo3mWZmP.htm)|Dragonhide Shield (Standard-Grade)|
 |[armor-08-Snu8yjMrUi3ockyA.htm](equipment/armor-08-Snu8yjMrUi3ockyA.htm)|Darkwood Tower Shield (Standard-Grade)|
 |[armor-08-UdvSJPCtBr2Y1e22.htm](equipment/armor-08-UdvSJPCtBr2Y1e22.htm)|Darkwood Shield (Standard-Grade)|
 |[armor-08-vfzzrp0tKXznWnhY.htm](equipment/armor-08-vfzzrp0tKXznWnhY.htm)|Dragonhide Buckler (Standard-Grade)|
 |[armor-09-Blp9Ha1YeIJOeFls.htm](equipment/armor-09-Blp9Ha1YeIJOeFls.htm)|Spangled Rider's Suit|
-|[armor-09-Q8BscHUFiM1a86PO.htm](equipment/armor-09-Q8BscHUFiM1a86PO.htm)|Dragonslayer's Shield|
 |[armor-10-NoTUhKkiTY5BQU5T.htm](equipment/armor-10-NoTUhKkiTY5BQU5T.htm)|Forge Warden|
-|[armor-10-pNQJ9PTOEHxEZCgp.htm](equipment/armor-10-pNQJ9PTOEHxEZCgp.htm)|Sturdy Shield (Moderate)|
 |[armor-12-QJNyQlmPNzIrnuLf.htm](equipment/armor-12-QJNyQlmPNzIrnuLf.htm)|Jawbreaker Shield|
 |[armor-13-GAu6v14pCSgLJh2D.htm](equipment/armor-13-GAu6v14pCSgLJh2D.htm)|Noxious Jerkin|
-|[armor-13-rrnWORxT2Ch4pUFb.htm](equipment/armor-13-rrnWORxT2Ch4pUFb.htm)|Sturdy Shield (Greater)|
 |[armor-14-Iic9QpNemaumfkHc.htm](equipment/armor-14-Iic9QpNemaumfkHc.htm)|Medusa Armor|
 |[armor-14-tLNsmY90aN668PMG.htm](equipment/armor-14-tLNsmY90aN668PMG.htm)|Glorious Plate|
 |[armor-15-aPD0z9dBsHqgiCW0.htm](equipment/armor-15-aPD0z9dBsHqgiCW0.htm)|Reforging Shield|
@@ -38,19 +33,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-16-5dBSn9brsT9NISoR.htm](equipment/armor-16-5dBSn9brsT9NISoR.htm)|Mithral Shield (High-Grade)|
 |[armor-16-8gcuJ2Ev3euFyXnS.htm](equipment/armor-16-8gcuJ2Ev3euFyXnS.htm)|Darkwood Tower Shield (High-Grade)|
 |[armor-16-AbYyx61j1K4F27tC.htm](equipment/armor-16-AbYyx61j1K4F27tC.htm)|Adamantine Buckler (High-Grade)|
-|[armor-16-BWQzaHbGVqlBuMww.htm](equipment/armor-16-BWQzaHbGVqlBuMww.htm)|Sturdy Shield (Major)|
 |[armor-16-EKXRigmEZgqmFA62.htm](equipment/armor-16-EKXRigmEZgqmFA62.htm)|Nethysian Bulwark|
 |[armor-16-LVixPROPOwIfHgEK.htm](equipment/armor-16-LVixPROPOwIfHgEK.htm)|Dragonhide Shield (High-Grade)|
 |[armor-16-R1I1MEKwDYtCfZr3.htm](equipment/armor-16-R1I1MEKwDYtCfZr3.htm)|Dragonhide Buckler (High-Grade)|
 |[armor-16-rA1hULhhqOP2u4Ze.htm](equipment/armor-16-rA1hULhhqOP2u4Ze.htm)|Adamantine Shield (High-Grade)|
 |[armor-16-sRHR4cEo8WnowjU3.htm](equipment/armor-16-sRHR4cEo8WnowjU3.htm)|Darkwood Buckler (High-Grade)|
-|[armor-16-uAs0hUUgROrndceD.htm](equipment/armor-16-uAs0hUUgROrndceD.htm)|Floating Shield (Greater)|
 |[armor-16-V4kbHwiODxwJOJga.htm](equipment/armor-16-V4kbHwiODxwJOJga.htm)|Darkwood Shield (High-Grade)|
 |[armor-16-ZZrCiVcoKinA5wyu.htm](equipment/armor-16-ZZrCiVcoKinA5wyu.htm)|Mithral Buckler (High-Grade)|
 |[armor-17-OKo8ub6D11ztZc2V.htm](equipment/armor-17-OKo8ub6D11ztZc2V.htm)|Orichalcum Buckler (High-Grade)|
 |[armor-17-PeS3J9r4ss7gNytK.htm](equipment/armor-17-PeS3J9r4ss7gNytK.htm)|Orichalcum Shield (High-Grade)|
 |[armor-18-SUbYk6B1iPoGyyjh.htm](equipment/armor-18-SUbYk6B1iPoGyyjh.htm)|Indestructible Shield|
-|[armor-19-7Z8XXGiUiyyisKOD.htm](equipment/armor-19-7Z8XXGiUiyyisKOD.htm)|Sturdy Shield (Supreme)|
 |[backpack-04-jaEEvuQ32GjAa8jy.htm](equipment/backpack-04-jaEEvuQ32GjAa8jy.htm)|Bag of Holding (Type I)|
 |[backpack-04-W5znRDeklmWEGzFY.htm](equipment/backpack-04-W5znRDeklmWEGzFY.htm)|Bag of Weasels|
 |[backpack-06-0c7zLY9c88K2n0GC.htm](equipment/backpack-06-0c7zLY9c88K2n0GC.htm)|Pathfinder's Pouch|
@@ -75,7 +67,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-iHw3qYBHTa5icO2X.htm](equipment/consumable-01-iHw3qYBHTa5icO2X.htm)|Energy Mutagen (Lesser)|
 |[consumable-01-Km4lSOsyrip5q6iD.htm](equipment/consumable-01-Km4lSOsyrip5q6iD.htm)|Hampering Snare|
 |[consumable-01-MoBlVd36uD9xVvZC.htm](equipment/consumable-01-MoBlVd36uD9xVvZC.htm)|Smokestick (Lesser)|
-|[consumable-01-NI7twU2G6UCDmvCO.htm](equipment/consumable-01-NI7twU2G6UCDmvCO.htm)|Shining Ammunition|
 |[consumable-01-oplQpQSTyTvHDDtq.htm](equipment/consumable-01-oplQpQSTyTvHDDtq.htm)|Marking Snare|
 |[consumable-01-PNwgGnN081l0cETR.htm](equipment/consumable-01-PNwgGnN081l0cETR.htm)|Blood Sap|
 |[consumable-01-qoM7Va5GqcLLBzgu.htm](equipment/consumable-01-qoM7Va5GqcLLBzgu.htm)|Owlbear Claw|
@@ -106,14 +97,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-03-0CNSvLpeSM4aIfPJ.htm](equipment/consumable-03-0CNSvLpeSM4aIfPJ.htm)|Feather Step Stone|
 |[consumable-03-5KYn9J1Hj4IG3Z0X.htm](equipment/consumable-03-5KYn9J1Hj4IG3Z0X.htm)|Snapleaf|
 |[consumable-03-Dn2KQgIeWNijaUzL.htm](equipment/consumable-03-Dn2KQgIeWNijaUzL.htm)|Feather Token (Chest)|
-|[consumable-03-eEnzHpPEbdGgRETM.htm](equipment/consumable-03-eEnzHpPEbdGgRETM.htm)|Vine Arrow|
 |[consumable-03-fFq8nsGvSUgzVeND.htm](equipment/consumable-03-fFq8nsGvSUgzVeND.htm)|Feather Token (Bird)|
 |[consumable-03-nPWDuoe2PcgE0z2S.htm](equipment/consumable-03-nPWDuoe2PcgE0z2S.htm)|Torrent Snare|
 |[consumable-03-NSo0bFX7DGGjqKKl.htm](equipment/consumable-03-NSo0bFX7DGGjqKKl.htm)|Spellstrike Ammunition (Type I)|
 |[consumable-03-Oip645RjC5y57wFa.htm](equipment/consumable-03-Oip645RjC5y57wFa.htm)|Violet Venom|
 |[consumable-03-QN8UIz0nMcnLUWHu.htm](equipment/consumable-03-QN8UIz0nMcnLUWHu.htm)|Oil of Mending|
 |[consumable-03-qQqAY59NgGNoy2xr.htm](equipment/consumable-03-qQqAY59NgGNoy2xr.htm)|Graveroot|
-|[consumable-03-RcQ4ZIzRK2xLf4G5.htm](equipment/consumable-03-RcQ4ZIzRK2xLf4G5.htm)|Sleep Arrow|
 |[consumable-03-rfyWXgrVD2lm91CC.htm](equipment/consumable-03-rfyWXgrVD2lm91CC.htm)|Blue Dragonfly Poison|
 |[consumable-03-taAjenWKjBJpQyrE.htm](equipment/consumable-03-taAjenWKjBJpQyrE.htm)|Beacon Shot|
 |[consumable-03-UfoaNXFA7AWZiXxI.htm](equipment/consumable-03-UfoaNXFA7AWZiXxI.htm)|Shiver|
@@ -246,7 +235,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-12-NqNwLeqto2isVWNL.htm](equipment/consumable-12-NqNwLeqto2isVWNL.htm)|Gold Dragon's Breath Potion (Adult)|
 |[consumable-12-rOQlcAV4m8Zaebue.htm](equipment/consumable-12-rOQlcAV4m8Zaebue.htm)|Brass Dragon's Breath Potion (Adult)|
 |[consumable-12-t9wFCiFkCRcSLtaG.htm](equipment/consumable-12-t9wFCiFkCRcSLtaG.htm)|Silver Dragon's Breath Potion (Adult)|
-|[consumable-12-tOg1nt08dBTZbkwR.htm](equipment/consumable-12-tOg1nt08dBTZbkwR.htm)|Penetrating Ammunition|
 |[consumable-12-TSrbwHW8zm0mhkwb.htm](equipment/consumable-12-TSrbwHW8zm0mhkwb.htm)|Healing Potion (Greater)|
 |[consumable-12-vXLZfi5iCSKb96tW.htm](equipment/consumable-12-vXLZfi5iCSKb96tW.htm)|Bronze Dragon's Breath Potion (Adult)|
 |[consumable-12-WwWssHoEhyh7Yrrw.htm](equipment/consumable-12-WwWssHoEhyh7Yrrw.htm)|White Dragon's Breath Potion (Adult)|
@@ -881,35 +869,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-01-vRCH0cQJMllWvpfU.htm](equipment/weapon-01-vRCH0cQJMllWvpfU.htm)|Polytool|
 |[weapon-01-WS78LUHzlpeONMRo.htm](equipment/weapon-01-WS78LUHzlpeONMRo.htm)|Scrollstaff|
 |[weapon-01-xZFT5JdEvDi7q467.htm](equipment/weapon-01-xZFT5JdEvDi7q467.htm)|Dwarven Daisy (Lesser)|
-|[weapon-02-0QCMwLibo44OdRpW.htm](equipment/weapon-02-0QCMwLibo44OdRpW.htm)|Sai (+1)|
-|[weapon-02-4223RWruTASjbQVS.htm](equipment/weapon-02-4223RWruTASjbQVS.htm)|Urumi (+1)|
-|[weapon-02-4IKVLrneSZiwGl2q.htm](equipment/weapon-02-4IKVLrneSZiwGl2q.htm)|Spear (+1)|
-|[weapon-02-69Pyf5Yab7sdprXl.htm](equipment/weapon-02-69Pyf5Yab7sdprXl.htm)|Staff (+1)|
-|[weapon-02-6A5zjVSBNS5NlKoO.htm](equipment/weapon-02-6A5zjVSBNS5NlKoO.htm)|Spiked Chain (+1)|
-|[weapon-02-Afipiun4QGjtcJGQ.htm](equipment/weapon-02-Afipiun4QGjtcJGQ.htm)|Sling (+1)|
-|[weapon-02-b0ZaloDBKPjDe4MA.htm](equipment/weapon-02-b0ZaloDBKPjDe4MA.htm)|War Flail (+1)|
-|[weapon-02-bFSHF7G5R7lOaXiE.htm](equipment/weapon-02-bFSHF7G5R7lOaXiE.htm)|Rhoka Sword (+1)|
-|[weapon-02-bJ4vXpngXrRtMGUM.htm](equipment/weapon-02-bJ4vXpngXrRtMGUM.htm)|Trident (+1)|
-|[weapon-02-bYJsZZJkMbU97b5P.htm](equipment/weapon-02-bYJsZZJkMbU97b5P.htm)|Scimitar (+1)|
-|[weapon-02-ebUlgCpJTzi3innO.htm](equipment/weapon-02-ebUlgCpJTzi3innO.htm)|Sickle (+1)|
-|[weapon-02-fj7WUAwy5BPLiiXb.htm](equipment/weapon-02-fj7WUAwy5BPLiiXb.htm)|Scythe (+1)|
 |[weapon-02-FNDq4NFSN0g2HKWO.htm](equipment/weapon-02-FNDq4NFSN0g2HKWO.htm)|Handwraps of Mighty Blows (+1)|
-|[weapon-02-FUII5NHHPfSwM7I2.htm](equipment/weapon-02-FUII5NHHPfSwM7I2.htm)|Scourge (+1)|
-|[weapon-02-gbZaiBGZRWPGfMKo.htm](equipment/weapon-02-gbZaiBGZRWPGfMKo.htm)|Starknife (+1)|
-|[weapon-02-K5XlfMX5x6HMswC1.htm](equipment/weapon-02-K5XlfMX5x6HMswC1.htm)|Whip (+1)|
-|[weapon-02-mcyNSO7FmlQ0vDLT.htm](equipment/weapon-02-mcyNSO7FmlQ0vDLT.htm)|Sawtooth Saber (+1)|
-|[weapon-02-mL7VCAlPEeBtv6H8.htm](equipment/weapon-02-mL7VCAlPEeBtv6H8.htm)|Shuriken (+1)|
-|[weapon-02-nOWmUAmj912mpurq.htm](equipment/weapon-02-nOWmUAmj912mpurq.htm)|Tekko-kagi (+1)|
-|[weapon-02-o97aOxCMdituG00G.htm](equipment/weapon-02-o97aOxCMdituG00G.htm)|Throwing Knife (+1)|
-|[weapon-02-OsSZPjlqY0dRl6Mn.htm](equipment/weapon-02-OsSZPjlqY0dRl6Mn.htm)|Spiked Gauntlet (+1)|
-|[weapon-02-PJYKHJz1IyxJ6qc6.htm](equipment/weapon-02-PJYKHJz1IyxJ6qc6.htm)|Temple Sword (+1)|
-|[weapon-02-q97zXXqGbHfkHQWp.htm](equipment/weapon-02-q97zXXqGbHfkHQWp.htm)|Sap (+1)|
-|[weapon-02-Rd7OFD36f3jA9Q1X.htm](equipment/weapon-02-Rd7OFD36f3jA9Q1X.htm)|Shears (+1)|
-|[weapon-02-UKTlxqXv5f43byXP.htm](equipment/weapon-02-UKTlxqXv5f43byXP.htm)|Shortsword (+1)|
-|[weapon-02-UlywWQiwc1qJmpfK.htm](equipment/weapon-02-UlywWQiwc1qJmpfK.htm)|War Razor (+1)|
-|[weapon-02-X8kC5AaTuPn3b11M.htm](equipment/weapon-02-X8kC5AaTuPn3b11M.htm)|Shortbow (+1)|
-|[weapon-02-xMqvoXkHIEtG70SL.htm](equipment/weapon-02-xMqvoXkHIEtG70SL.htm)|Scorpion Whip (+1)|
-|[weapon-02-ZuSwxZ2mSF086fsf.htm](equipment/weapon-02-ZuSwxZ2mSF086fsf.htm)|Warhammer (+1)|
 |[weapon-03-97QyNEOAyYLdGaYc.htm](equipment/weapon-03-97QyNEOAyYLdGaYc.htm)|Bottled Lightning (Moderate)|
 |[weapon-03-AvGZqDfalwwbYFvA.htm](equipment/weapon-03-AvGZqDfalwwbYFvA.htm)|Peshpine Grenade (Moderate)|
 |[weapon-03-Do4rJuA1nhr2TTiF.htm](equipment/weapon-03-Do4rJuA1nhr2TTiF.htm)|Dwarven Daisy (Moderate)|
@@ -921,38 +881,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-03-opfpl1JmKgrfds9P.htm](equipment/weapon-03-opfpl1JmKgrfds9P.htm)|Staff of Fire|
 |[weapon-03-q6ZvspNDkzJSP6dg.htm](equipment/weapon-03-q6ZvspNDkzJSP6dg.htm)|Retribution Axe|
 |[weapon-03-SgtqZxt26BdjUmEB.htm](equipment/weapon-03-SgtqZxt26BdjUmEB.htm)|Acid Flask (Moderate)|
-|[weapon-04-2OcZ3X8ZydgUjB8p.htm](equipment/weapon-04-2OcZ3X8ZydgUjB8p.htm)|Spear (+1 Striking)|
 |[weapon-04-3OkOKxCee9WruGU5.htm](equipment/weapon-04-3OkOKxCee9WruGU5.htm)|Staff of Healing|
-|[weapon-04-4xuPEr2JmFbGTrFz.htm](equipment/weapon-04-4xuPEr2JmFbGTrFz.htm)|Throwing Knife (+1 Striking)|
-|[weapon-04-ctHbwkjO2qKaaXDF.htm](equipment/weapon-04-ctHbwkjO2qKaaXDF.htm)|Urumi (+1 Striking)|
-|[weapon-04-cxolSyVgGiXC2b7u.htm](equipment/weapon-04-cxolSyVgGiXC2b7u.htm)|Warhammer (+1 Striking)|
-|[weapon-04-DehKpnV29gyiSNzs.htm](equipment/weapon-04-DehKpnV29gyiSNzs.htm)|Sap (+1 Striking)|
-|[weapon-04-eWuRbJaMNAYYyH6E.htm](equipment/weapon-04-eWuRbJaMNAYYyH6E.htm)|Starknife (+1 Striking)|
-|[weapon-04-H6USI1Ysr1L23TJq.htm](equipment/weapon-04-H6USI1Ysr1L23TJq.htm)|Sling (+1 Striking)|
-|[weapon-04-IcZg5FieXAahhUXt.htm](equipment/weapon-04-IcZg5FieXAahhUXt.htm)|War Flail (+1 Striking)|
-|[weapon-04-Ipz3i9JY6Wi8fHGk.htm](equipment/weapon-04-Ipz3i9JY6Wi8fHGk.htm)|Shuriken (+1 Striking)|
 |[weapon-04-k5P9YZO4ARlE4By3.htm](equipment/weapon-04-k5P9YZO4ARlE4By3.htm)|Crimson Brand|
-|[weapon-04-nzOaiWPPKsgVwHM6.htm](equipment/weapon-04-nzOaiWPPKsgVwHM6.htm)|Sickle (+1 Striking)|
-|[weapon-04-Ogcd228AAJ1yuBDC.htm](equipment/weapon-04-Ogcd228AAJ1yuBDC.htm)|Shortbow (+1 Striking)|
-|[weapon-04-oKSn2p43CkKscb8R.htm](equipment/weapon-04-oKSn2p43CkKscb8R.htm)|War Razor (+1 Striking)|
-|[weapon-04-PUzpih6pA0UGZfSj.htm](equipment/weapon-04-PUzpih6pA0UGZfSj.htm)|Shortsword (+1 Striking)|
-|[weapon-04-qo5P78fz17gRkI52.htm](equipment/weapon-04-qo5P78fz17gRkI52.htm)|Spiked Gauntlet (+1 Striking)|
-|[weapon-04-qO9Maq50w7nBpFI9.htm](equipment/weapon-04-qO9Maq50w7nBpFI9.htm)|Shears (+1 Striking)|
-|[weapon-04-R6p6tQiyZwlXDhOu.htm](equipment/weapon-04-R6p6tQiyZwlXDhOu.htm)|Spiked Chain (+1 Striking)|
-|[weapon-04-Rl68nu0CDwCqCyBz.htm](equipment/weapon-04-Rl68nu0CDwCqCyBz.htm)|Temple Sword (+1 Striking)|
-|[weapon-04-rQOxgQDkPOwGtCZh.htm](equipment/weapon-04-rQOxgQDkPOwGtCZh.htm)|Scythe (+1 Striking)|
-|[weapon-04-TBpqX30CmIDmH7sa.htm](equipment/weapon-04-TBpqX30CmIDmH7sa.htm)|Tekko-kagi (+1 Striking)|
-|[weapon-04-Tg3lPqvkq8YFEvFM.htm](equipment/weapon-04-Tg3lPqvkq8YFEvFM.htm)|Whip (+1 Striking)|
-|[weapon-04-TuD5YzT0Arjm0qFq.htm](equipment/weapon-04-TuD5YzT0Arjm0qFq.htm)|Sai (+1 Striking)|
-|[weapon-04-TyUX3NEWzaW0NIlZ.htm](equipment/weapon-04-TyUX3NEWzaW0NIlZ.htm)|Scourge (+1 Striking)|
-|[weapon-04-U2aPDuSpZTxOu8p2.htm](equipment/weapon-04-U2aPDuSpZTxOu8p2.htm)|Scimitar (+1 Striking)|
 |[weapon-04-UHCl9FOXbDiyl8vA.htm](equipment/weapon-04-UHCl9FOXbDiyl8vA.htm)|Handwraps of Mighty Blows (+1 Striking)|
-|[weapon-04-VBSW66ridtoE4MtR.htm](equipment/weapon-04-VBSW66ridtoE4MtR.htm)|Staff (+1 Striking)|
-|[weapon-04-vz35Kb19MmskZxuu.htm](equipment/weapon-04-vz35Kb19MmskZxuu.htm)|Sawtooth Saber (+1 Striking)|
-|[weapon-04-xKtcF6TyHqhjvyTM.htm](equipment/weapon-04-xKtcF6TyHqhjvyTM.htm)|Scorpion Whip (+1 Striking)|
-|[weapon-04-xlwg3AGnhwAUAm18.htm](equipment/weapon-04-xlwg3AGnhwAUAm18.htm)|Rhoka Sword (+1 Striking)|
 |[weapon-04-xwiZBOjispKVZzGA.htm](equipment/weapon-04-xwiZBOjispKVZzGA.htm)|Mentalist's Staff|
-|[weapon-04-zIkUUhSaYWkMDOMI.htm](equipment/weapon-04-zIkUUhSaYWkMDOMI.htm)|Trident (+1 Striking)|
 |[weapon-05-1S3RgLWa1DBitB9V.htm](equipment/weapon-05-1S3RgLWa1DBitB9V.htm)|Dagger of Eternal Sleep|
 |[weapon-05-2KNAip9W6IoBrfIU.htm](equipment/weapon-05-2KNAip9W6IoBrfIU.htm)|Caterwaul Sling|
 |[weapon-05-Dti9PZZoty6We8OV.htm](equipment/weapon-05-Dti9PZZoty6We8OV.htm)|Cinderclaw Gauntlet|
@@ -1088,11 +1020,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-02-aA9clnIP3deHNNjo.htm](equipment/armor-02-aA9clnIP3deHNNjo.htm)|Silver Buckler (Low-Grade)|Targe en argent (basse qualité)|officielle|
 |[armor-02-ckUxr51wJVGRNAD0.htm](equipment/armor-02-ckUxr51wJVGRNAD0.htm)|Cold Iron Buckler (Low-Grade)|Targe en fer froid de (basse qualité)|officielle|
 |[armor-02-Gq1cZWSKOtJhKd2p.htm](equipment/armor-02-Gq1cZWSKOtJhKd2p.htm)|Full Plate|Harnois|officielle|
+|[armor-04-f9ygr5Cjrmop8LWV.htm](equipment/armor-04-f9ygr5Cjrmop8LWV.htm)|Sturdy Shield (Minor)|Bouclier renforcé (mineure)|officielle|
 |[armor-06-eMDt5vCQztp7cC6B.htm](equipment/armor-06-eMDt5vCQztp7cC6B.htm)|Lion's Shield|Bouclier du lion|officielle|
 |[armor-06-hRwnNTMj7wa8S4Ji.htm](equipment/armor-06-hRwnNTMj7wa8S4Ji.htm)|Ghoul Hide|Peau de goule|officielle|
 |[armor-06-OqDAx4HJ39ojVtvg.htm](equipment/armor-06-OqDAx4HJ39ojVtvg.htm)|Spellguard Shield|Bouclier Gardesort|officielle|
 |[armor-07-8DNpWWeL7X9MDG0i.htm](equipment/armor-07-8DNpWWeL7X9MDG0i.htm)|Silver Buckler (Standard-Grade)|Targe en argent (qualité standard)|officielle|
 |[armor-07-KVj9RP2qvpsHHGqE.htm](equipment/armor-07-KVj9RP2qvpsHHGqE.htm)|Silver Shield (Standard-Grade)|Bouclier en argent (qualité standard)|officielle|
+|[armor-07-nDZX25OwoN0Imrq6.htm](equipment/armor-07-nDZX25OwoN0Imrq6.htm)|Sturdy Shield (Lesser)|Bouclier solide (inférieur)|officielle|
 |[armor-07-p1uYtIUYXXoNdVKg.htm](equipment/armor-07-p1uYtIUYXXoNdVKg.htm)|Cold Iron Shield (Standard-Grade)|Bouclier en fer froid (qualité standard)|officielle|
 |[armor-07-PsyfqGIzDbr1mX6d.htm](equipment/armor-07-PsyfqGIzDbr1mX6d.htm)|Cold Iron Buckler (Standard-Grade)|Targe en fer froid (qualité standard)|officielle|
 |[armor-07-vHZSx5f093Wrivzn.htm](equipment/armor-07-vHZSx5f093Wrivzn.htm)|Moonlit Chain|Maille lunaire|officielle|
@@ -1104,7 +1038,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-08-ETHbpwjh8aLGrXi0.htm](equipment/armor-08-ETHbpwjh8aLGrXi0.htm)|Mithral Shield (Standard-Grade)|Bouclier en mithral (qualité standard)|officielle|
 |[armor-09-C4XKMcHZoGzrAZBl.htm](equipment/armor-09-C4XKMcHZoGzrAZBl.htm)|Rhino Hide|Peau de rhinocéros|officielle|
 |[armor-09-DIzZr0K20eCbNzQo.htm](equipment/armor-09-DIzZr0K20eCbNzQo.htm)|Force Shield|Bouclier de force|officielle|
+|[armor-09-Q8BscHUFiM1a86PO.htm](equipment/armor-09-Q8BscHUFiM1a86PO.htm)|Dragonslayer's Shield|Bouclier du pourfendeur de dragons|officielle|
 |[armor-10-8HxM35X8DDt2gw9d.htm](equipment/armor-10-8HxM35X8DDt2gw9d.htm)|Electric Eelskin|Peau d'anguille électrique|officielle|
+|[armor-10-pNQJ9PTOEHxEZCgp.htm](equipment/armor-10-pNQJ9PTOEHxEZCgp.htm)|Sturdy Shield (Moderate)|Bouclier renfocé (modéré)|officielle|
 |[armor-10-RUEAV5LMUGFHcXcW.htm](equipment/armor-10-RUEAV5LMUGFHcXcW.htm)|Breastplate of Command|Cuirasse de commandement|officielle|
 |[armor-11-9ZGkQo739t9utj37.htm](equipment/armor-11-9ZGkQo739t9utj37.htm)|Arrow-Catching Shield|Bouclier intercepteur de projectiles|officielle|
 |[armor-11-ydNocKN6afzIyVh6.htm](equipment/armor-11-ydNocKN6afzIyVh6.htm)|Floating Shield|Bouclier flottant|officielle|
@@ -1112,11 +1048,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-13-AdJgj7vVvNGvPIEj.htm](equipment/armor-13-AdJgj7vVvNGvPIEj.htm)|Mail of Luck|Maille chanceuse|officielle|
 |[armor-13-hYBZK1kaGPeR85CH.htm](equipment/armor-13-hYBZK1kaGPeR85CH.htm)|Demon Armor|Armure démoniaque|officielle|
 |[armor-13-peAvz7u35GEfTXxp.htm](equipment/armor-13-peAvz7u35GEfTXxp.htm)|Elven Chain (Standard-Grade)|Maille Elfique (qualité standard)|officielle|
+|[armor-13-rrnWORxT2Ch4pUFb.htm](equipment/armor-13-rrnWORxT2Ch4pUFb.htm)|Sturdy Shield (Greater)|Bouclier renforcé (supérieur)|officielle|
 |[armor-15-gp5kgCySEOuntQPF.htm](equipment/armor-15-gp5kgCySEOuntQPF.htm)|Plate Armor of the Deep|Harnois des profondeurs|officielle|
 |[armor-16-3xsQ1AA4dyMHLxpw.htm](equipment/armor-16-3xsQ1AA4dyMHLxpw.htm)|Dragonplate|Harnois du dragon|officielle|
+|[armor-16-BWQzaHbGVqlBuMww.htm](equipment/armor-16-BWQzaHbGVqlBuMww.htm)|Sturdy Shield (Major)|Bouclier renforcé (majeure)|officielle|
+|[armor-16-uAs0hUUgROrndceD.htm](equipment/armor-16-uAs0hUUgROrndceD.htm)|Floating Shield (Greater)|Bouclier flottant (supérieur)|officielle|
 |[armor-17-aLA7pikfeNIAAGLw.htm](equipment/armor-17-aLA7pikfeNIAAGLw.htm)|Impenetrable Scale|Armure impénétrable|officielle|
 |[armor-18-La9qYc5NHsg423Jb.htm](equipment/armor-18-La9qYc5NHsg423Jb.htm)|Reflecting Shield|Bouclier réfléchissant|officielle|
 |[armor-18-XKON66YXYLXlGPPg.htm](equipment/armor-18-XKON66YXYLXlGPPg.htm)|Breastplate of Command (Greater)|Cuirasse de commandement (supérieur)|officielle|
+|[armor-19-7Z8XXGiUiyyisKOD.htm](equipment/armor-19-7Z8XXGiUiyyisKOD.htm)|Sturdy Shield (Supreme)|Bouclier renforcé (ultime)|officielle|
 |[armor-1k3AsSW7lpU0kEpY.htm](equipment/armor-1k3AsSW7lpU0kEpY.htm)|Buckler|Targe|officielle|
 |[armor-20-PuqdH7DmNsN79HyE.htm](equipment/armor-20-PuqdH7DmNsN79HyE.htm)|Elven Chain (High-Grade)|Maille elfique (haute qualité)|officielle|
 |[armor-AnwzlOs0njF9Jqnr.htm](equipment/armor-AnwzlOs0njF9Jqnr.htm)|Hide|Armure de peau|officielle|
@@ -1157,6 +1097,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-iDgo3OfnikwNGyfo.htm](equipment/consumable-01-iDgo3OfnikwNGyfo.htm)|Juggernaut Mutagen (Lesser)|Mutagène de Juggernaut (inférieur)|officielle|
 |[consumable-01-kF761P3ibBIFmLm9.htm](equipment/consumable-01-kF761P3ibBIFmLm9.htm)|Caltrop Snare|Piège artisanal de chausse-trappes|officielle|
 |[consumable-01-ktjFOp3U0wQD9t0Z.htm](equipment/consumable-01-ktjFOp3U0wQD9t0Z.htm)|Antidote (Lesser)|Antidote (Inférieur)|officielle|
+|[consumable-01-NI7twU2G6UCDmvCO.htm](equipment/consumable-01-NI7twU2G6UCDmvCO.htm)|Shining Ammunition|Munition luisante|officielle|
 |[consumable-01-OIirLySQDLZgT15S.htm](equipment/consumable-01-OIirLySQDLZgT15S.htm)|Arsenic|Arsenic|officielle|
 |[consumable-01-txmX5ghhPS72GKXy.htm](equipment/consumable-01-txmX5ghhPS72GKXy.htm)|Giant Centipede Venom|Venin de mille-pattes géant|officielle|
 |[consumable-01-tyt6rFtv32MZ4DT9.htm](equipment/consumable-01-tyt6rFtv32MZ4DT9.htm)|Cheetah's Elixir (Lesser)|Elixir du guépard (inférieur)|officielle|
@@ -1182,8 +1123,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-03-aZm1x9tpvBAT8YCd.htm](equipment/consumable-03-aZm1x9tpvBAT8YCd.htm)|Cytillesh Oil|Hule de Cytillesh|officielle|
 |[consumable-03-CXiuAtOgqAIRm0be.htm](equipment/consumable-03-CXiuAtOgqAIRm0be.htm)|Quicksilver Mutagen (Moderate)|Mutagène de vif-argent (modéré)|officielle|
 |[consumable-03-e0vSAQfxhHauiAoD.htm](equipment/consumable-03-e0vSAQfxhHauiAoD.htm)|Healing Potion (Lesser)|Potion de guérison (inférieur)|officielle|
+|[consumable-03-eEnzHpPEbdGgRETM.htm](equipment/consumable-03-eEnzHpPEbdGgRETM.htm)|Vine Arrow|Flèche de lierre|officielle|
 |[consumable-03-GLdZfybWk6jAqlah.htm](equipment/consumable-03-GLdZfybWk6jAqlah.htm)|Cognitive Mutagen (Moderate)|Mutagènhe cognitif (modéré)|officielle|
 |[consumable-03-o1wCUtfXAD8hCfS7.htm](equipment/consumable-03-o1wCUtfXAD8hCfS7.htm)|Silvertongue Mutagen (Moderate)|Mutagène de langue dorée (modéré)|officielle|
+|[consumable-03-RcQ4ZIzRK2xLf4G5.htm](equipment/consumable-03-RcQ4ZIzRK2xLf4G5.htm)|Sleep Arrow|Flèche soporifique|officielle|
 |[consumable-03-WQhnfj1LbrEzvh8z.htm](equipment/consumable-03-WQhnfj1LbrEzvh8z.htm)|Potion of Water Breathing|Potion de respiration aquatique|officielle|
 |[consumable-03-XQx6QIQY4sNGlFzY.htm](equipment/consumable-03-XQx6QIQY4sNGlFzY.htm)|Juggernaut Mutagen (Moderate)|Mutagène de juggernaut|officielle|
 |[consumable-04-bikFUFRLwfdvX2x2.htm](equipment/consumable-04-bikFUFRLwfdvX2x2.htm)|Invisibility Potion|Potion d'invisibilité|officielle|
@@ -1229,6 +1172,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-12-2hc1EEcb3pfr7Hac.htm](equipment/consumable-12-2hc1EEcb3pfr7Hac.htm)|Sea Touch Elixir (Moderate)|Elixir de caresse marine (modéré)|officielle|
 |[consumable-12-2prxM8Q0F4sdSwPx.htm](equipment/consumable-12-2prxM8Q0F4sdSwPx.htm)|Winter Wolf Elixir (Moderate)|Elixir du loup arctique (modéré)|officielle|
 |[consumable-12-EEJiqzU89Ofk7dr6.htm](equipment/consumable-12-EEJiqzU89Ofk7dr6.htm)|Salamander Elixir (Moderate)|Elixir de la salamandre (modéré)|officielle|
+|[consumable-12-tOg1nt08dBTZbkwR.htm](equipment/consumable-12-tOg1nt08dBTZbkwR.htm)|Penetrating Ammunition|Munition pénétrante|officielle|
 |[consumable-13-LRSiYsgEz3e0PEwX.htm](equipment/consumable-13-LRSiYsgEz3e0PEwX.htm)|Panacea|Panacée|officielle|
 |[consumable-13-mYozcVg9fQY6zO7C.htm](equipment/consumable-13-mYozcVg9fQY6zO7C.htm)|Elixir of Life (Greater)|Elixir de vie (supérieur)|officielle|
 |[consumable-14-lasqzrPVEHI5MkQd.htm](equipment/consumable-14-lasqzrPVEHI5MkQd.htm)|Bomber's Eye Elixir (Greater)|Elixir du mitrailleur (supérieur)|officielle|

@@ -1,11 +1,12 @@
 # État de la traduction (feats)
 
- * **libre**: 144
+ * **libre**: 139
  * **officielle**: 601
- * **aucune**: 456
+ * **aucune**: 467
+ * **changé**: 8
 
 
-Dernière mise à jour: 2020-06-12 19:58 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-14 00:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -112,6 +113,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-13-Tn2iMLKvhZki1O3S.htm](feats/ancestry-13-Tn2iMLKvhZki1O3S.htm)|Iruxi Unarmed Expertise|
 |[ancestry-13-wHxXVknciaD4X8Ch.htm](feats/ancestry-13-wHxXVknciaD4X8Ch.htm)|Unrivaled Builder|
 |[ancestry-13-XPVqOtHLN6jduHYs.htm](feats/ancestry-13-XPVqOtHLN6jduHYs.htm)|Hobgoblin Weapon Expertise|
+|[archetype-02-0YjetnLVIUz9zQt5.htm](feats/archetype-02-0YjetnLVIUz9zQt5.htm)|Champion Dedication|
+|[archetype-02-5UQagWB13Z8xR5Z6.htm](feats/archetype-02-5UQagWB13Z8xR5Z6.htm)|Sorcerer Dedication|
+|[archetype-02-bCWieNDC1CD35tin.htm](feats/archetype-02-bCWieNDC1CD35tin.htm)|Rogue Dedication|
+|[archetype-02-CJMkxlxHiHZQYDCz.htm](feats/archetype-02-CJMkxlxHiHZQYDCz.htm)|Alchemist Dedication|
+|[archetype-02-dIH771mt4PcVTyAs.htm](feats/archetype-02-dIH771mt4PcVTyAs.htm)|Bard Dedication|
+|[archetype-02-mvNa9KfQooHYEXoA.htm](feats/archetype-02-mvNa9KfQooHYEXoA.htm)|Fighter Dedication|
+|[archetype-02-oQ6EZRFXbHWCx08C.htm](feats/archetype-02-oQ6EZRFXbHWCx08C.htm)|Wizard Dedication|
+|[archetype-02-R00qiDE5pBctgtyU.htm](feats/archetype-02-R00qiDE5pBctgtyU.htm)|Ranger Dedication|
+|[archetype-02-renUpSO6MJXPSXow.htm](feats/archetype-02-renUpSO6MJXPSXow.htm)|Monk Dedication|
+|[archetype-02-smCDaPlpRDA47xjK.htm](feats/archetype-02-smCDaPlpRDA47xjK.htm)|Cleric Dedication|
+|[archetype-02-vhw3n86TEs6laopA.htm](feats/archetype-02-vhw3n86TEs6laopA.htm)|Druid Dedication|
+|[archetype-02-WVU0c8rgcpGSRqSi.htm](feats/archetype-02-WVU0c8rgcpGSRqSi.htm)|Barbarian Dedication|
+|[archetype-02-ZhToff996PnTESwb.htm](feats/archetype-02-ZhToff996PnTESwb.htm)|Magaambyan Attendant Dedication|
 |[archetype-06-aQjWHbjK1pk8HESM.htm](feats/archetype-06-aQjWHbjK1pk8HESM.htm)|Perfect Ki Adept|
 |[archetype-08-Olx796SgBbHUFeHc.htm](feats/archetype-08-Olx796SgBbHUFeHc.htm)|Armiger's Mobility|
 |[archetype-08-PcDvw2vWTzBEIX7k.htm](feats/archetype-08-PcDvw2vWTzBEIX7k.htm)|Necromantic Tenacity|
@@ -137,10 +151,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-14-llawV63qzdynbOkx.htm](feats/archetype-14-llawV63qzdynbOkx.htm)|Stone Communion|
 |[archetype-14-RnxullWsNdbU7fuH.htm](feats/archetype-14-RnxullWsNdbU7fuH.htm)|Pivot Strike|
 |[archetype-18-hdt3RHZljLrO49kq.htm](feats/archetype-18-hdt3RHZljLrO49kq.htm)|Specialized Companion|
-|[class-04-TNpoEG0cUEAuSju7.htm](feats/class-04-TNpoEG0cUEAuSju7.htm)|Sun Blade|
-|[class-04-Ux0DSklFlIlcvnhO.htm](feats/class-04-Ux0DSklFlIlcvnhO.htm)|Sacred Ki|
 |[class-06-bzKBUK6CH8tuLCfo.htm](feats/class-06-bzKBUK6CH8tuLCfo.htm)|Advanced Red Mantis Magic|
-|[class-06-cny7ouhsoiNsWJ7X.htm](feats/class-06-cny7ouhsoiNsWJ7X.htm)|Daring Act|
 |[class-06-CoVBrlyMToANvt2v.htm](feats/class-06-CoVBrlyMToANvt2v.htm)|Stone Blood|
 |[class-06-eTqWgfojpvuigdvx.htm](feats/class-06-eTqWgfojpvuigdvx.htm)|Advanced Muse’s Whispers|
 |[class-06-euWpgjPNcDjeXAWQ.htm](feats/class-06-euWpgjPNcDjeXAWQ.htm)|Advanced Maneuver|
@@ -161,13 +172,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-06-tkMEdh0gM07teWkx.htm](feats/class-06-tkMEdh0gM07teWkx.htm)|Advanced Dogma|
 |[class-06-TYP0Ee4o3p9LDodd.htm](feats/class-06-TYP0Ee4o3p9LDodd.htm)|Advanced Kata|
 |[class-06-uhfZtjbfJ8pZIWrF.htm](feats/class-06-uhfZtjbfJ8pZIWrF.htm)|Scrollmaster Dedication|
-|[class-06-uiGsVmvRfujQQRlK.htm](feats/class-06-uiGsVmvRfujQQRlK.htm)|Steady Spellcasting (Bard)|
+|[class-06-uiGsVmvRfujQQRlK.htm](feats/class-06-uiGsVmvRfujQQRlK.htm)|Steady Spellcasting|
 |[class-06-UtUT6JngJbQRHySX.htm](feats/class-06-UtUT6JngJbQRHySX.htm)|Boaster's Challenge|
 |[class-06-vuApM8xHOZs4o6oS.htm](feats/class-06-vuApM8xHOZs4o6oS.htm)|Spellmaster Dedication|
 |[class-06-YOU5eCD5S4cS6Qeu.htm](feats/class-06-YOU5eCD5S4cS6Qeu.htm)|Cascade Bearer's Flexibility|
 |[class-08-27R8yZcY2uXH6pZN.htm](feats/class-08-27R8yZcY2uXH6pZN.htm)|Powerful Snares|
 |[class-08-9EqUTnbV8WHE2aKm.htm](feats/class-08-9EqUTnbV8WHE2aKm.htm)|Dualistic Synergy|
 |[class-08-AgMFfp6fdNZ1mAxn.htm](feats/class-08-AgMFfp6fdNZ1mAxn.htm)|Order Training|
+|[class-08-Ar6W97iun6yYI8Df.htm](feats/class-08-Ar6W97iun6yYI8Df.htm)|Delay Trap|
 |[class-08-BFgrPAK2v3GSKQ5e.htm](feats/class-08-BFgrPAK2v3GSKQ5e.htm)|Lore Seeker|
 |[class-08-c9rhGmKft1BVT4JO.htm](feats/class-08-c9rhGmKft1BVT4JO.htm)|Skill Mastery|
 |[class-08-fHWYICk6cSePr30c.htm](feats/class-08-fHWYICk6cSePr30c.htm)|Surreptitious Spellcaster|
@@ -611,9 +623,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-02-eHjqNXgylSuvA887.htm](feats/archetype-02-eHjqNXgylSuvA887.htm)|Student of Perfection Dedication|Dévouement de l'Étudiant de la Perfection|libre|
 |[archetype-02-LoeoiYOpxSaEkWKv.htm](feats/archetype-02-LoeoiYOpxSaEkWKv.htm)|Staff Acrobat Dedication|Dévouement du Funambule|libre|
 |[archetype-02-luKAFJAvdbAgEwV7.htm](feats/archetype-02-luKAFJAvdbAgEwV7.htm)|Runescarred Dedication|Dévouement de Marqué de runes|libre|
-|[archetype-02-m3ANSHYfBrFyFUvo.htm](feats/archetype-02-m3ANSHYfBrFyFUvo.htm)|Animal Trainer Dedication|Dévouement du Dompteur|libre|
+|[archetype-02-m3ANSHYfBrFyFUvo.htm](feats/archetype-02-m3ANSHYfBrFyFUvo.htm)|Animal Trainer Dedication|Dévouement du Dompteur|changé|
 |[archetype-02-mNsNl6w3l5rXx8dL.htm](feats/archetype-02-mNsNl6w3l5rXx8dL.htm)|Juggler Dedication|Dévouement du Jongleur|libre|
-|[archetype-02-pI97a5xSg4LbBY1g.htm](feats/archetype-02-pI97a5xSg4LbBY1g.htm)|Aldori Duelist Dedication|Dévouement de Dueliste Aldori|libre|
+|[archetype-02-pI97a5xSg4LbBY1g.htm](feats/archetype-02-pI97a5xSg4LbBY1g.htm)|Aldori Duelist Dedication|Dévouement de Dueliste Aldori|changé|
 |[archetype-02-qhs0mWbaLKsdckZX.htm](feats/archetype-02-qhs0mWbaLKsdckZX.htm)|Hellknight Armiger Dedication|Dévouement d'Écuyer Chevalier infernal|libre|
 |[archetype-02-QnB5ArlO4wlRXQ2E.htm](feats/archetype-02-QnB5ArlO4wlRXQ2E.htm)|Pathfinder Agent Dedication|Dévouement d'Éclaireur|libre|
 |[archetype-02-UuPZ7drPBnSmI8Eo.htm](feats/archetype-02-UuPZ7drPBnSmI8Eo.htm)|Red Mantis Assassin Dedication|Dévouement d'Assassin des Mantes rouges|libre|
@@ -626,7 +638,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-04-Bk07joho2dUG3lVw.htm](feats/archetype-04-Bk07joho2dUG3lVw.htm)|Duelist's Edge|Acuité du duelliste|libre|
 |[archetype-04-CZQgH17ZxoBiVXLa.htm](feats/archetype-04-CZQgH17ZxoBiVXLa.htm)|Ka Stone Ritual|Rituel de la pierre Ka|libre|
 |[archetype-04-d8RfatiK9UOQANLz.htm](feats/archetype-04-d8RfatiK9UOQANLz.htm)|Lost in the Crowd|Perdu dans la foule|libre|
-|[archetype-04-ELdUj5ihdivlgb3H.htm](feats/archetype-04-ELdUj5ihdivlgb3H.htm)|Crystal Keeper Dedication|Dévouement de Gardien du Cristal|libre|
+|[archetype-04-ELdUj5ihdivlgb3H.htm](feats/archetype-04-ELdUj5ihdivlgb3H.htm)|Crystal Keeper Dedication|Dévouement de Gardien du Cristal|changé|
 |[archetype-04-FItD6HmjasjbLdgS.htm](feats/archetype-04-FItD6HmjasjbLdgS.htm)|Spell Runes|Runes de sort|libre|
 |[archetype-04-FVDozRTuCQQzD97D.htm](feats/archetype-04-FVDozRTuCQQzD97D.htm)|Eye of Ozem|Œil d'Ozem|libre|
 |[archetype-04-G43fiFtxFR24CWRs.htm](feats/archetype-04-G43fiFtxFR24CWRs.htm)|Magic Warrior Aspect|Aspect du Guerrier magique|libre|
@@ -652,7 +664,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-DpmdmRNMg6LZpNB0.htm](feats/archetype-06-DpmdmRNMg6LZpNB0.htm)|Simple Crystal Magic|Magie du cristal simple|libre|
 |[archetype-06-dPmJ91qawZW2U8K3.htm](feats/archetype-06-dPmJ91qawZW2U8K3.htm)|Staff Sweep|Balayage au bâton|libre|
 |[archetype-06-DR6vessIpXTLM6Xa.htm](feats/archetype-06-DR6vessIpXTLM6Xa.htm)|Crowd Mastery|Maîtrise de la foule|libre|
-|[archetype-06-dwL0Y0P2x4pn2cft.htm](feats/archetype-06-dwL0Y0P2x4pn2cft.htm)|Bellflower Dedication|Dévoument de la Campanule|libre|
+|[archetype-06-dwL0Y0P2x4pn2cft.htm](feats/archetype-06-dwL0Y0P2x4pn2cft.htm)|Bellflower Dedication|Dévoument de la Campanule|changé|
 |[archetype-06-eXNkcM7gtCGC7udi.htm](feats/archetype-06-eXNkcM7gtCGC7udi.htm)|Grave Sense|Perception de la tombe|libre|
 |[archetype-06-gZ4VdWKr3ag2BAvF.htm](feats/archetype-06-gZ4VdWKr3ag2BAvF.htm)|Warding Rune|Rune gardienne|libre|
 |[archetype-06-l60Ua5Ugv85GnF9b.htm](feats/archetype-06-l60Ua5Ugv85GnF9b.htm)|Nameless Anonymity|Anonymat indicible|libre|
@@ -666,7 +678,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-08-7vOVPzsVuyE5a3Rp.htm](feats/archetype-08-7vOVPzsVuyE5a3Rp.htm)|Fortified Flesh|Chair fortifiée|libre|
 |[archetype-08-bXoGskH0SYfdcEtJ.htm](feats/archetype-08-bXoGskH0SYfdcEtJ.htm)|Garden Path|Chemin du jardin|libre|
 |[archetype-08-jIMeialR9CBo1bx9.htm](feats/archetype-08-jIMeialR9CBo1bx9.htm)|Levering Strike|Frappe levier|libre|
-|[archetype-08-MxNb97qr1yMhbjiP.htm](feats/archetype-08-MxNb97qr1yMhbjiP.htm)|Golem Crafter Dedication|Dévouement de Greffeur de golem|libre|
+|[archetype-08-MxNb97qr1yMhbjiP.htm](feats/archetype-08-MxNb97qr1yMhbjiP.htm)|Golem Grafter Dedication|Dévouement de Greffeur de golem|changé|
 |[archetype-10-5nzeyuvzKL4T8eLt.htm](feats/archetype-10-5nzeyuvzKL4T8eLt.htm)|Weapon-Rune Shifter|Changeur de rune d'arme|libre|
 |[archetype-10-81xlcIFJIAtsmXmd.htm](feats/archetype-10-81xlcIFJIAtsmXmd.htm)|Armor Rune Shifter|Changeur de rune d'armure|libre|
 |[archetype-14-8PMxl8o5YXET58Pn.htm](feats/archetype-14-8PMxl8o5YXET58Pn.htm)|Iron Lung|Poumon d'acier|libre|
@@ -851,7 +863,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-04-moL75FV1zaSQWVbk.htm](feats/class-04-moL75FV1zaSQWVbk.htm)|Twin Parry (Ranger)|Parade jumelée (Rôdeur)|officielle|
 |[class-04-mV911W6MTGMvHPbE.htm](feats/class-04-mV911W6MTGMvHPbE.htm)|Basic Hunter’s Trick|Astuce du chasseur basique|officielle|
 |[class-04-mxO7u59ms58q7zyj.htm](feats/class-04-mxO7u59ms58q7zyj.htm)|Magical Trickster|Trompeur magique|officielle|
-|[class-04-NagTqSLK8bAlo2nY.htm](feats/class-04-NagTqSLK8bAlo2nY.htm)|Firebrand Braggart Dedication|Dévouement de Trublion vantard|libre|
+|[class-04-NagTqSLK8bAlo2nY.htm](feats/class-04-NagTqSLK8bAlo2nY.htm)|Firebrand Braggart Dedication|Dévouement de Trublion vantard|changé|
 |[class-04-nc5G99d20PI9JKCK.htm](feats/class-04-nc5G99d20PI9JKCK.htm)|Monk Resiliency|Résilience du moine|officielle|
 |[class-04-NlEZ0piDxg9buXCL.htm](feats/class-04-NlEZ0piDxg9buXCL.htm)|Quick Alchemy|Alchimie rapide|officielle|
 |[class-04-NSyzjkDdQU2A75mX.htm](feats/class-04-NSyzjkDdQU2A75mX.htm)|Basic Bard Spellcasting|Incantation du barde basique|officielle|
@@ -880,6 +892,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-04-TaoV7ArAuZjxpeQB.htm](feats/class-04-TaoV7ArAuZjxpeQB.htm)|Order Spell|Sort d'ordre|officielle|
 |[class-04-tHqlcgcxHXzqLHPZ.htm](feats/class-04-tHqlcgcxHXzqLHPZ.htm)|Shielded Stride|Marche au bouclier|officielle|
 |[class-04-TIwk07T0OxSbcOpJ.htm](feats/class-04-TIwk07T0OxSbcOpJ.htm)|Aura of Courage|Aura de courage|officielle|
+|[class-04-TNpoEG0cUEAuSju7.htm](feats/class-04-TNpoEG0cUEAuSju7.htm)|Sun Blade|Lame solaire|libre|
 |[class-04-toFhkS9QbObxg6cp.htm](feats/class-04-toFhkS9QbObxg6cp.htm)|Versatile Signature|Polyvalence des sorts emblématiques|officielle|
 |[class-04-TORYSZMLMAGgsSEW.htm](feats/class-04-TORYSZMLMAGgsSEW.htm)|Companion’s Cry|Appel au compagnon|officielle|
 |[class-04-Tpcq3Lk7qEOZ3LDP.htm](feats/class-04-Tpcq3Lk7qEOZ3LDP.htm)|Scout’s Warning|Avertissement de l'éclaireur|officielle|
@@ -887,6 +900,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-04-UjWLK86BgHxz3Itd.htm](feats/class-04-UjWLK86BgHxz3Itd.htm)|Calculated Splash|Éclaboussure calculée|officielle|
 |[class-04-uKBT0D9gxdwMcwNl.htm](feats/class-04-uKBT0D9gxdwMcwNl.htm)|Basic Devotion|Dévotion basique|officielle|
 |[class-04-UWG1USE0L2ZxEPiO.htm](feats/class-04-UWG1USE0L2ZxEPiO.htm)|Wholeness of Body|Plénitude physique|officielle|
+|[class-04-Ux0DSklFlIlcvnhO.htm](feats/class-04-Ux0DSklFlIlcvnhO.htm)|Sacred Ki|Ki sacré|libre|
 |[class-04-VVsYBmVi2E1u9E5Z.htm](feats/class-04-VVsYBmVi2E1u9E5Z.htm)|Reactive Pursuit|Poursuite réactive|officielle|
 |[class-04-wB1ONG2uO7RnD1iC.htm](feats/class-04-wB1ONG2uO7RnD1iC.htm)|Flying Kick|Coup de pied sauté|officielle|
 |[class-04-wBqQsXzqObrZM9Va.htm](feats/class-04-wBqQsXzqObrZM9Va.htm)|Basic Bloodline Spell|Sort de lignage basique|officielle|
@@ -912,15 +926,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-06-4T9HHOdTk3yVbeoO.htm](feats/class-06-4T9HHOdTk3yVbeoO.htm)|Instinct Ability|Pouvoir d'instinct|officielle|
 |[class-06-52cygjzHfSD0YhEA.htm](feats/class-06-52cygjzHfSD0YhEA.htm)|Spell Penetration|Efficacité des sorts accrue|officielle|
 |[class-06-5Jc2ySGLVi053qpz.htm](feats/class-06-5Jc2ySGLVi053qpz.htm)|Twist the Knife|Remuer le couteau|officielle|
-|[class-06-62hpJOuvYYSa4X7u.htm](feats/class-06-62hpJOuvYYSa4X7u.htm)|Hellknight Signifer Dedication|Dévouement du Signifer|libre|
+|[class-06-62hpJOuvYYSa4X7u.htm](feats/class-06-62hpJOuvYYSa4X7u.htm)|Hellknight Signifer Dedication|Dévouement du Signifer|changé|
 |[class-06-65gjc5KE4ZRoocbi.htm](feats/class-06-65gjc5KE4ZRoocbi.htm)|Abundant Step|Pas chassé|officielle|
 |[class-06-6gLWr3xghsHSFwxc.htm](feats/class-06-6gLWr3xghsHSFwxc.htm)|Water Step|Foulée sur l'eau|officielle|
 |[class-06-6J2ZSGNsXPKPcJGV.htm](feats/class-06-6J2ZSGNsXPKPcJGV.htm)|Tiger Slash|Taillade du tigre|officielle|
-|[class-06-7fU6e3HIT4NvwLYa.htm](feats/class-06-7fU6e3HIT4NvwLYa.htm)|Halcyon Speaker Dedication|Dévouement de l'Orateur paisible|libre|
+|[class-06-7fU6e3HIT4NvwLYa.htm](feats/class-06-7fU6e3HIT4NvwLYa.htm)|Halcyon Speaker Dedication|Dévouement de l'Orateur paisible|changé|
 |[class-06-7wk6yVM3OJdc4LEU.htm](feats/class-06-7wk6yVM3OJdc4LEU.htm)|Champion’s Reaction|Réaction de champion|officielle|
 |[class-06-axvGLVoAvuD9jU78.htm](feats/class-06-axvGLVoAvuD9jU78.htm)|Loyal Warhorse|Cheval de bataille fidèle|officielle|
 |[class-06-BO6vTjc7XZ4KDQXZ.htm](feats/class-06-BO6vTjc7XZ4KDQXZ.htm)|Steady Spellcasting (Druid)|Incantation fiable (Druide)|officielle|
 |[class-06-c5ns35FLvvxjimuH.htm](feats/class-06-c5ns35FLvvxjimuH.htm)|Swift Tracker|Pistage accéléré|officielle|
+|[class-06-cny7ouhsoiNsWJ7X.htm](feats/class-06-cny7ouhsoiNsWJ7X.htm)|Daring Act|Acte culotté|libre|
 |[class-06-dHUoQVzDa9Cf4QCG.htm](feats/class-06-dHUoQVzDa9Cf4QCG.htm)|Reflexive Shield|Bouclier instinctif|officielle|
 |[class-06-eZrftEihfuJBldG5.htm](feats/class-06-eZrftEihfuJBldG5.htm)|Advanced Bloodline|Lignage avancé|officielle|
 |[class-06-F1DVDJRARfdb1Kjz.htm](feats/class-06-F1DVDJRARfdb1Kjz.htm)|Storm Retribution|Châtiment de la tempête|officielle|

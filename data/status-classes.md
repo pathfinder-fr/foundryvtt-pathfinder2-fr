@@ -1,10 +1,9 @@
 # État de la traduction (classes)
 
  * **officielle**: 12
- * **doublon**: 1
 
 
-Dernière mise à jour: 2020-06-12 19:58 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-14 00:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -20,7 +19,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Oia1kqkF4KwdVVaw.htm](classes/Oia1kqkF4KwdVVaw.htm)|Cleric|Prêtre|officielle|
 |[p5zBqyyeNY1HTAV1.htm](classes/p5zBqyyeNY1HTAV1.htm)|Fighter|Guerrier|officielle|
 |[QzgMYQWYdQZMIChe.htm](classes/QzgMYQWYdQZMIChe.htm)|Champion|Champion|officielle|
-|[rBdSrGzDJcgWFm7b.htm](classes/rBdSrGzDJcgWFm7b.htm)|Sorcerer|Ensorceleur|doublon|
 |[rieRSsMMpae94H7b.htm](classes/rieRSsMMpae94H7b.htm)|Alchemist|Alchimiste|officielle|
 |[WpMQGtgz46Cc5onF.htm](classes/WpMQGtgz46Cc5onF.htm)|Sorcerer|Ensorceleur|officielle|
 |[zk0K5exx506ukJns.htm](classes/zk0K5exx506ukJns.htm)|Ranger|Rôdeur|officielle|
