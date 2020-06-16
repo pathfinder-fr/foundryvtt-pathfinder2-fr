@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-06-15 22:37 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-15 22:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -13,7 +13,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
  * [Sorts](#sorts)
  * [Backgrounds](#backgrounds)
  * [Ascendances](#ascendances)
- * [Capacités de classe](#capacités de classe)
+ * [Capacités de classe](#capacités-de-classe)
  * [Conditions](#conditions)
 
 

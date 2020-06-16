@@ -100,7 +100,7 @@ content += "\n\nDernière mise à jour: %s *(heure de Canada/Montréal)*" % date
 content += "\n\nCe fichier est généré automatiquement. NE PAS MODIFIER!\n\n"
 
 for key in TRANSL:
-  content += " * [%s](#%s)\n" % (TRANSL[key]['label'], TRANSL[key]['label'].lower())
+  content += " * [%s](#%s)\n" % (TRANSL[key]['label'], TRANSL[key]['label'].lower().replace(' ', '-'))
 
   
 for key in TRANSL: 
