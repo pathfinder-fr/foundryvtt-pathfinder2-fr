@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 233
- * **aucune**: 18
- * **changé**: 4
+ * **officielle**: 250
+ * **aucune**: 1
+ * **changé**: 3
  * **libre**: 1
 
 
-Dernière mise à jour: 2020-06-14 00:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-15 21:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,23 +14,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[alchemist-11-VS5vkqUQu4n7E28Y.htm](classfeatures/alchemist-11-VS5vkqUQu4n7E28Y.htm)|Perpetual Potency (Chirurgeon)|
-|[alchemist-13-1BKdOJ0HNL6Eg3xw.htm](classfeatures/alchemist-13-1BKdOJ0HNL6Eg3xw.htm)|Greater Field Discovery (Mutagenist)|
-|[alchemist-13-1orZOFZgAiSmm9RL.htm](classfeatures/alchemist-13-1orZOFZgAiSmm9RL.htm)|Weapon Specialization (Alchemist)|
-|[alchemist-13-8QAFgy9U8PxEa7Dw.htm](classfeatures/alchemist-13-8QAFgy9U8PxEa7Dw.htm)|Field Discovery (Bomber)|
-|[alchemist-13-JJcaVijwRt9dsnac.htm](classfeatures/alchemist-13-JJcaVijwRt9dsnac.htm)|Greater Field Discovery (Chirurgeon)|
-|[alchemist-13-OKUowbhHDzJUo4xz.htm](classfeatures/alchemist-13-OKUowbhHDzJUo4xz.htm)|Light Armor Expertise (Alchemist)|
-|[alchemist-13-RGs4uR3CAvgbtBAA.htm](classfeatures/alchemist-13-RGs4uR3CAvgbtBAA.htm)|Greater Field Discovery (Bomber)|
-|[alchemist-15-Eood6pNPaJxuSgD1.htm](classfeatures/alchemist-15-Eood6pNPaJxuSgD1.htm)|Alchemical Alacrity|
-|[alchemist-15-N9qTieoFl1nXXlsl.htm](classfeatures/alchemist-15-N9qTieoFl1nXXlsl.htm)|Evasion (Alchemist)|
-|[alchemist-17-CGetAmSbv06fW7GT.htm](classfeatures/alchemist-17-CGetAmSbv06fW7GT.htm)|Perpetual Perfection (Mutagenist)|
-|[alchemist-17-eG7FBDjCdEFzW9V9.htm](classfeatures/alchemist-17-eG7FBDjCdEFzW9V9.htm)|Alchemical Mastery|
-|[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|
-|[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|
-|[alchemist-19-LOLVZkOvgWpzwsgq.htm](classfeatures/alchemist-19-LOLVZkOvgWpzwsgq.htm)|Light Armor Mastery (Alchemist)|
-|[druid-19-nzgb43mQmLgaqDoQ.htm](classfeatures/druid-19-nzgb43mQmLgaqDoQ.htm)|Primal Hierophant|
-|[fighter-07-TIvzBALymvb56L79.htm](classfeatures/fighter-07-TIvzBALymvb56L79.htm)|Battlefield Surveyor|
-|[fighter-07-vmGFRT812VfKGWAL.htm](classfeatures/fighter-07-vmGFRT812VfKGWAL.htm)|Weapon Specialization (Fighter)|
-|[sorcerer-19-feCnVrPPlKhl701x.htm](classfeatures/sorcerer-19-feCnVrPPlKhl701x.htm)|Bloodline Paragon|
 
 ## Liste des traductions complétés
 
@@ -55,6 +38,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-11-8rEVg03QJ71ic3PP.htm](classfeatures/alchemist-11-8rEVg03QJ71ic3PP.htm)|Perpetual Potency (Bomber)|Efficacité perpétuelle (Artificier)|officielle|
 |[alchemist-11-llCLtEzMTQwkXZnQ.htm](classfeatures/alchemist-11-llCLtEzMTQwkXZnQ.htm)|Juggernaut (Alchemist)|Juggernaut (Alchimiste)|officielle|
 |[alchemist-11-mZFqRLYOQEqKA8ri.htm](classfeatures/alchemist-11-mZFqRLYOQEqKA8ri.htm)|Perpetual Potency (Mutagenist)|Efficacité perpétuelle (Mutagèniste)|officielle|
+|[alchemist-13-1BKdOJ0HNL6Eg3xw.htm](classfeatures/alchemist-13-1BKdOJ0HNL6Eg3xw.htm)|Greater Field Discovery (Mutagenist)|Découverte de domaine de recherche supérieure (Mutagèniste)|officielle|
+|[alchemist-13-1orZOFZgAiSmm9RL.htm](classfeatures/alchemist-13-1orZOFZgAiSmm9RL.htm)|Weapon Specialization (Alchemist)|Spécialisation martiale (Alchimiste)|officielle|
+|[alchemist-13-8QAFgy9U8PxEa7Dw.htm](classfeatures/alchemist-13-8QAFgy9U8PxEa7Dw.htm)|Field Discovery (Bomber)|Découverte de domaine de recherche (Artificier)|officielle|
+|[alchemist-13-JJcaVijwRt9dsnac.htm](classfeatures/alchemist-13-JJcaVijwRt9dsnac.htm)|Greater Field Discovery (Chirurgeon)|Découverte de domaine de recherche supérieure (Chirurgien)|officielle|
+|[alchemist-13-OKUowbhHDzJUo4xz.htm](classfeatures/alchemist-13-OKUowbhHDzJUo4xz.htm)|Light Armor Expertise (Alchemist)|Expertise avec les armures légères (Alchimiste)|officielle|
+|[alchemist-13-RGs4uR3CAvgbtBAA.htm](classfeatures/alchemist-13-RGs4uR3CAvgbtBAA.htm)|Greater Field Discovery (Bomber)|Découverte de domaine de recherche supérieure (Artificier)|officielle|
+|[alchemist-15-Eood6pNPaJxuSgD1.htm](classfeatures/alchemist-15-Eood6pNPaJxuSgD1.htm)|Alchemical Alacrity|Alacrité alchimique|officielle|
+|[alchemist-15-N9qTieoFl1nXXlsl.htm](classfeatures/alchemist-15-N9qTieoFl1nXXlsl.htm)|Evasion (Alchemist)|Évasion (Alchimiste)|officielle|
+|[alchemist-17-CGetAmSbv06fW7GT.htm](classfeatures/alchemist-17-CGetAmSbv06fW7GT.htm)|Perpetual Perfection (Mutagenist)|Perfection perpétuelle (Mutagèniste)|officielle|
+|[alchemist-17-eG7FBDjCdEFzW9V9.htm](classfeatures/alchemist-17-eG7FBDjCdEFzW9V9.htm)|Alchemical Mastery|Maîtrise alchimique|officielle|
+|[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|Perfection perpétuelle (Artificier)|officielle|
+|[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|Perfection perpétuelle (Chirurgien)|officielle|
+|[alchemist-19-LOLVZkOvgWpzwsgq.htm](classfeatures/alchemist-19-LOLVZkOvgWpzwsgq.htm)|Light Armor Mastery (Alchemist)|Maîtrise des armures légères (Alchimiste)|officielle|
 |[barbarian-01-0FtzFbUrN56KA67z.htm](classfeatures/barbarian-01-0FtzFbUrN56KA67z.htm)|Animal Instinct|Instinct animal|officielle|
 |[barbarian-01-JuKD6k7nDwfO0Ckv.htm](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Giant Instinct|Instinct de géant|officielle|
 |[barbarian-01-k7M9jedvt31AJ5ZR.htm](classfeatures/barbarian-01-k7M9jedvt31AJ5ZR.htm)|Fury Instinct|Instinct de la furie|officielle|
@@ -140,7 +136,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-01-v0EjtiwdeMj8ykI0.htm](classfeatures/druid-01-v0EjtiwdeMj8ykI0.htm)|Wild|Féroce|officielle|
 |[druid-03-C62VDef26Wi2s4Qm.htm](classfeatures/druid-03-C62VDef26Wi2s4Qm.htm)|Alertness (Druid)|Vigilance (Druide)|officielle|
 |[druid-03-IsicKhmKtNyrkI97.htm](classfeatures/druid-03-IsicKhmKtNyrkI97.htm)|Great Fortitude (Druid)|Vigueur surhumaine (Druide)|officielle|
-|[druid-03-nzgb43mQmLgaqDoQ.htm](classfeatures/druid-03-nzgb43mQmLgaqDoQ.htm)|Primal Hierophant|Hiérophante primordial|officielle|
 |[druid-05-71djVINXSPTHO4xX.htm](classfeatures/druid-05-71djVINXSPTHO4xX.htm)|Lightning Reflexes (Druid)|Réflexes éclair (Druide)|officielle|
 |[druid-07-7uV3wuwrceEx3NGf.htm](classfeatures/druid-07-7uV3wuwrceEx3NGf.htm)|Expert Spellcaster (Druid)|Incantateur expert (Druide)|officielle|
 |[druid-11-4wBmnZowB2uXrVv3.htm](classfeatures/druid-11-4wBmnZowB2uXrVv3.htm)|Resolve (Druid)|Résolution (Druide)|officielle|
@@ -148,11 +143,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-13-38LFTCPYmVzjOb5t.htm](classfeatures/druid-13-38LFTCPYmVzjOb5t.htm)|Weapon Specialization (Druid)|Spécialisation martiale (Druide)|officielle|
 |[druid-13-6uOx7W6I7u5Jv5Lg.htm](classfeatures/druid-13-6uOx7W6I7u5Jv5Lg.htm)|Medium Armor Expertise (Druid)|Expertise avec les armures intermédiaires|officielle|
 |[druid-15-nlOj4yFnTbw7oNDj.htm](classfeatures/druid-15-nlOj4yFnTbw7oNDj.htm)|Master Spellcaster (Druid)|Maître incantateur (Druide)|officielle|
+|[druid-19-nzgb43mQmLgaqDoQ.htm](classfeatures/druid-19-nzgb43mQmLgaqDoQ.htm)|Primal Hierophant|Hiérophante primordial|officielle|
 |[druid-19-OdnfSYitJ5FfXGYW.htm](classfeatures/druid-19-OdnfSYitJ5FfXGYW.htm)|Legendary Spellcaster (Druid)|Incantateur légendaire (Druide)|officielle|
 |[fighter-01-hmShTfPOcTaKgbf4.htm](classfeatures/fighter-01-hmShTfPOcTaKgbf4.htm)|Attack of Opportunity|Attaque d’opportunité|officielle|
 |[fighter-01-OPlu94V5ibX5pr9u.htm](classfeatures/fighter-01-OPlu94V5ibX5pr9u.htm)|Shield Block (Fighter)|Blocage au bouclier (Guerrier)|officielle|
 |[fighter-03-GJKJafDGuX4BeAeN.htm](classfeatures/fighter-03-GJKJafDGuX4BeAeN.htm)|Bravery|Bravoure|officielle|
 |[fighter-05-gApJtAdNb9ST4Ms9.htm](classfeatures/fighter-05-gApJtAdNb9ST4Ms9.htm)|Fighter Weapon Mastery|Maîtrise martiale du guerrier|officielle|
+|[fighter-07-TIvzBALymvb56L79.htm](classfeatures/fighter-07-TIvzBALymvb56L79.htm)|Battlefield Surveyor|Sentinelle au front|officielle|
+|[fighter-07-vmGFRT812VfKGWAL.htm](classfeatures/fighter-07-vmGFRT812VfKGWAL.htm)|Weapon Specialization (Fighter)|Spécialisation martiale (Guerrier)|officielle|
 |[fighter-09-8g6HzARbhfcgilP8.htm](classfeatures/fighter-09-8g6HzARbhfcgilP8.htm)|Combat Flexibility|Flexibilité martiale|officielle|
 |[fighter-09-MEWrviI3SbdphhRm.htm](classfeatures/fighter-09-MEWrviI3SbdphhRm.htm)|Juggernaut (Fighter)|Juggernaut (Guerrier)|officielle|
 |[fighter-11-1AR2xYvG6SHLy3Pk.htm](classfeatures/fighter-11-1AR2xYvG6SHLy3Pk.htm)|Armor Expertise (Fighter)|Expertise avec les armures (Guerrier)|officielle|
@@ -166,7 +164,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[monk-01-NLHHHiAcdnZ5ohc2.htm](classfeatures/monk-01-NLHHHiAcdnZ5ohc2.htm)|Flurry of Blows|Déluge de coups|officielle|
 |[monk-01-SB8UJ8rZmvbcBweJ.htm](classfeatures/monk-01-SB8UJ8rZmvbcBweJ.htm)|Powerful Fist|Poings puissants|officielle|
 |[monk-03-Cq6NjvcKZOMySBVj.htm](classfeatures/monk-03-Cq6NjvcKZOMySBVj.htm)|Incredible Movement|Déplacement extraordinaire|officielle|
-|[monk-03-D2AE8RfMlZ3D1FuV.htm](classfeatures/monk-03-D2AE8RfMlZ3D1FuV.htm)|Mystic Strikes|Frappes mystiques|changé|
+|[monk-03-D2AE8RfMlZ3D1FuV.htm](classfeatures/monk-03-D2AE8RfMlZ3D1FuV.htm)|Mystic Strikes|Frappes mystiques|officielle|
 |[monk-05-7NCp6uuevOsaYRQB.htm](classfeatures/monk-05-7NCp6uuevOsaYRQB.htm)|Alertness (Monk)|Vigilance (Moine)|officielle|
 |[monk-05-VgZIutWjFl8oZQFi.htm](classfeatures/monk-05-VgZIutWjFl8oZQFi.htm)|Expert Strikes|Frappes expertes|officielle|
 |[monk-07-CfxBHF09tU4kDo0y.htm](classfeatures/monk-07-CfxBHF09tU4kDo0y.htm)|Path to Perfection|Voie vers la perfection|officielle|
@@ -248,6 +246,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-15-Rt3Jlxk2GgwkIGLm.htm](classfeatures/sorcerer-15-Rt3Jlxk2GgwkIGLm.htm)|Master Spellcaster (Sorcerer)|Maître incantateur (Ensorceleur)|officielle|
 |[sorcerer-17-eC8PhLpgho84tGcD.htm](classfeatures/sorcerer-17-eC8PhLpgho84tGcD.htm)|Resolve (Sorcerer)|Résolution (Ensorceleur)|officielle|
 |[sorcerer-19-EgJFG9DNs9jNuDL9.htm](classfeatures/sorcerer-19-EgJFG9DNs9jNuDL9.htm)|Legendary Spellcaster (Sorcerer)|Incantateur légendaire (Ensorceleur)|officielle|
+|[sorcerer-19-feCnVrPPlKhl701x.htm](classfeatures/sorcerer-19-feCnVrPPlKhl701x.htm)|Bloodline Paragon|Parangon du lignage|officielle|
 |[wizard-01-89zWKD2CN7nRu2xp.htm](classfeatures/wizard-01-89zWKD2CN7nRu2xp.htm)|Arcane Thesis: Metamagical Experimentation|Thèse arcanique : Expérimentation métamagique|officielle|
 |[wizard-01-au0lwQ1nAcNQwcGh.htm](classfeatures/wizard-01-au0lwQ1nAcNQwcGh.htm)|Arcane Bond|Lien arcanique|officielle|
 |[wizard-01-gCwcys8CnS102tji.htm](classfeatures/wizard-01-gCwcys8CnS102tji.htm)|Arcane School: Abjuration|École arcanique : Abjuration|officielle|

@@ -67,6 +67,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos réflexes sont fulgurants. Votre rang de maîtrise pour les jets de Réflexes passe à expert.&nbsp;</span></p>"
         },
         {
+            "id": "Weapon Specialization (Fighter)",
+            "name": "Spécialisation martiale (Guerrier)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à infliger de graves blessures avec les armes que vous connaissez le mieux. Vous infligez 2 dégâts de plus avec les armes et les attaques à mains nues pour lesquelles vous êtes expert. Ces dégâts passent à 3 si vous êtes maître et à 4 si vous êtes légendaire.&nbsp;</span></p>"
+        },
+        {
             "id": "Miraculous Spell",
             "name": "Sort miraculeux",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre divinité vous exalte et vous permet de lancer des sorts véritablement stupéfiants. Vous gagnez un unique emplacement de sort de niveau 10 et pouvez l’utiliser pour préparer un sort avec incantation divine. Vous ne gagnez pas plus d’emplacements de niveau 10 en augmentant de niveau, mais vous pouvez prendre le don @Compendium[pf2e.feats-srd.QDjpZKOrWIV1G8XJ]{Faiseur de miracles} pour en obtenir un second.&nbsp;</span></p>"
@@ -112,6 +117,16 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Il est compliqué de vous pister lorsque vous traversez des terrains naturels. Vous bénéficiez en permanence des avantages de l’action Dissimuler des traces sur de tels terrains, et ce, sans devoir vous déplacer à la moitié de votre Vitesse.&nbsp;</span></p>"
         },
         {
+            "id": "Alchemical Alacrity",
+            "name": "Alacrité alchimique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous préparez des objets avec tellement de facilité que vous pouvez en créer trois à la fois. Quand vous utilisez l’action @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Alchimie rapide}, vous pouvez utiliser jusqu’à trois lots de réactifs imprégnés afin de créer trois objets alchimiques, comme indiqué dans le descriptif de cette action. Ces objets ne sont pas nécessairement identiques.&nbsp;</span></p>"
+        },
+        {
+            "id": "Greater Field Discovery (Mutagenist)",
+            "name": "Découverte de domaine de recherche supérieure (Mutagèniste)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous êtes sous l’effet d’un mutagène et que vous absorbez un autre mutagène, vous cumulez les avantages et les inconvénients de ces deux mutagènes, même s’ils possèdent tous les deux le trait métamorphose et ne pourraient normalement pas fonctionner de concert. Si, alors que vous êtes sous l’effet de deux mutagènes, vous vous trouvez sous l’effet d’un nouveau mutagène, vous perdez l’avantage de l’un des deux premiers mutagènes de votre choix, tout en conservant les inconvénients liés à l’ensemble des mutagènes absorbés. Si, alors que vous êtes sous l’effet de deux mutagènes, vous êtes affecté par un effet de métamorphose qui n’est pas lié à un mutagène, vous perdez les avantages liés aux deux mutagènes mais en conservez les inconvénients..&nbsp;</span></p>"
+        },
+        {
             "id": "Champion Code",
             "name": "Code du champion",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous adhérez à un code de conduite dont les premiers principes sont appliqués par tous les champions d’un même alignement (ceux d’alignement bon, par exemple) et dont les suivants concernent votre cause. Les divinités imposent parfois des restrictions supplémentaires (par exemple, les champions de Torag ne doivent montrer aucune pitié envers les ennemis de leur peuple et la plupart ne peuvent donc pas embrasser la cause du rédempteur). Ce livre décrit uniquement les règles pour les champions d’alignement bon. Les principes apparaissent par ordre d’importance, en commençant par les plus importants. Votre situation n’est pas insoluble si elle met deux principes en conflit ; en effet, dans ce cas, suivez simplement le principe le plus important. Par exemple, en tant que paladin, si un roi malfaisant vous demande où vous cachez des réfugiés pour qu’il puisse les exécuter, vous pourriez lui mentir car le principe qui vous interdit de mentir est moins important que celui qui vous interdit de nuire à des innocents. Les tentatives de contournement des principes du code en créant une situation où l’application d’un principe supérieur permet d’ignorer un principe moins important (promettre, par exemple, de ne pas respecter les autorités et leur manquer ensuite de respect pour tenir votre promesse) est une violation du code du champion.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous vous écartez des principes de votre alignement ou si vous violez votre code de conduite, vous perdez votre réserve de focalisation et votre allié divin jusqu’à ce que vous montriez sincèrement votre désir de repentance en accomplissant le rituel pénitence (page 414). Vous conservez cependant tous les autres pouvoirs de champion qui ne requièrent aucune de ces deux capacités de classe. Si votre alignement change mais que votre divinité l’autorise, votre MJ peut vous laisser suivre un réapprentissage pour changer votre cause tout en continuant à servir la même divinité.</span></p>"
@@ -137,6 +152,11 @@
             "description": "<p>Vos capacités d’incantation frisent à présent la perfection. Ajoutez deux sorts occultes communs de niveau 10 à votre répertoire. Vous gagnez un unique emplacement de sort de niveau 10 que vous pouvez utiliser pour lancer l’un de ces deux sorts avec la capacité d’incantation du barde. Au contraire des emplacements de sorts, vous ne gagnez aucun autre sort de niveau 10 lorsque vous montez de niveau, et vous ne pouvez pas utiliser les emplacements de niveau 10 avec des pouvoirs qui vous confèrent plus d’emplacements de sorts ou qui vous permettent de lancer des sorts sans dépenser d’emplacements.</p>"
         },
         {
+            "id": "Perpetual Perfection (Bomber)",
+            "name": "Perfection perpétuelle (Artificier)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La version supérieure des bombes que vous avez choisies pour vos infusions perpétuelles..&nbsp;</span></p>"
+        },
+        {
             "id": "Weapon Specialization (Ranger)",
             "name": "Spécialisation martiale (Rôdeur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à infliger de graves blessures avec les armes que vous connaissez le mieux. Vous infligez 2 dégâts de plus avec les armes et les attaques à mains nues pour lesquelles vous êtes expert. Ces dégâts passent à 3 si vous êtes maître et à 4 si vous êtes légendaire.&nbsp;</span></p>"
@@ -155,6 +175,11 @@
             "id": "Perpetual Infusions (Mutagenist)",
             "name": "Infusions perpétuelles (Mutagèniste)",
             "description": "<p>Choisissez deux formules parmi les suivantes : @Compendium[pf2e.equipment-srd.ZR1TnC34ohP5nROX]{mutagène bestial (inférieur)}, @Compendium[pf2e.equipment-srd.zrcJMKdwxSKxxLEG]{ mutagène cognitif (inférieur)}, @Compendium[pf2e.equipment-srd.iDgo3OfnikwNGyfo]{mutagène de juggernaut (inférieur)}, @Compendium[pf2e.equipment-srd.ChFYb3A94KNByRui]{mutagène de vif-argent (inférieur)}, @Compendium[pf2e.equipment-srd.5fnEOtROEy2hkzDG]{langue dorée (inférieur)}.</p>"
+        },
+        {
+            "id": "Battlefield Surveyor",
+            "name": "Sentinelle au front",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Que ce soit pour faire le point sur l’armée ennemie ou pour simplement monter la garde, vous savez parfaitement observer vos ennemis. Votre rang de maîtrise en Perception passe à maître. De plus, vous réagissez plus vite en combat, ce qui vous permet de bénéficier d’un bonus de circonstances de +2 aux tests de Perception pour l’initiative.&nbsp;</span></p>"
         },
         {
             "id": "Great Fortitude (Bard)",
@@ -225,6 +250,11 @@
             "id": "Weapon Fury",
             "name": "Fureur armée",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre rage vous permet de manier vos armes avec encore plus d’efficacité. Votre rang de maîtrise avec les armes\nsimples, les armes de guerre et les attaques à mains nues devient maître.&nbsp;</span></p>"
+        },
+        {
+            "id": "Field Discovery (Bomber)",
+            "name": "Découverte de domaine de recherche (Artificier)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous utilisez alchimie avancée pour faire des bombes lors de vos préparatifs quotidiens, vous pouvez utiliser un lot de réactifs pour créer trois bombes de n’importe quel type au lieu de deux bombes d’un seul type.&nbsp;</span></p>"
         },
         {
             "id": "Bloodline: Fey",
@@ -307,6 +337,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Toujours à l’affût de la moindre faiblesse, vous attaquez aussitôt qu’une faille s’ouvre dans la défense de vos ennemis. Vous obtenez la réaction @Compendium[pf2e.feats-srd.O2MwufzEHbuThoGr]{Attaque d’opportunité}.</span></p>"
         },
         {
+            "id": "Perpetual Perfection (Mutagenist)",
+            "name": "Perfection perpétuelle (Mutagèniste)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La version supérieure des mutagènes que vous avez choisis pour vos infusions perpétuelles.&nbsp;</span></p>"
+        },
+        {
             "id": "Arcane Thesis: Spell Substitution",
             "name": "Thèse arcanique : Substitution de sort",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous n’admettez pas qu’une fois vos sorts préparés, vous ne puissiez plus les changer jusqu’à vos prochains préparatifs quotidiens. Vous avez donc découvert un raccourci vous permettant d’échanger de nouveaux sorts contre ceux que vous aviez préparés. Vous pouvez passer 10 min à vider l’un de vos emplacements de sort préparé et préparer à la place un sort différent tiré de votre grimoire. Si vous êtes interrompu lors de l’échange, le sort original reste préparé et vous pouvez toujours le lancer. Vous pouvez retenter l’échange plus tard, mais vous devez reprendre le processus à zéro.&nbsp;</span></p>"
@@ -320,6 +355,16 @@
             "id": "Combat Flexibility",
             "name": "Flexibilité martiale",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Grâce à votre expérience du combat, vous préparez vos tactiques pour qu’elles conviennent à diverses situations. Quand vous faites vos préparatifs quotidiens, vous gagnez un don de guerrier de niveau 8 ou moins que vous n’avez pas déjà. Vous pouvez l’utiliser jusqu’à vos prochains préparatifs quotidiens. Vous devez remplir tous les prérequis de ce don.&nbsp;</span></p>"
+        },
+        {
+            "id": "Evasion (Alchemist)",
+            "name": "Évasion (Alchimiste)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à vous déplacer rapidement afin d’échapper aux explosions, au souffle d’un dragon, et à bien pire. Votre rang de maîtrise pour les jets de Réflexes passe à maître. Quand vous obtenez un succès sur un jet de Réflexes, celui-ci est transformé en succès critique.&nbsp;</span></p>"
+        },
+        {
+            "id": "Perpetual Perfection (Chirurgeon)",
+            "name": "Perfection perpétuelle (Chirurgien)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Antidote et anti-maladie supérieurs.&nbsp;</span></p>"
         },
         {
             "id": "Evasion (Rogue)",
@@ -385,6 +430,11 @@
             "id": "Expert Spellcaster (Sorcerer)",
             "name": "Incantateur expert (Ensorceleur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre magie intrinsèque répond facilement et puissamment à vos sollicitations. Votre rang de maîtrise pour les jets d’attaque de sort et le DD des sorts de la tradition de votre lignage passe à expert.&nbsp;</span></p>"
+        },
+        {
+            "id": "Alchemical Mastery",
+            "name": "Maîtrise alchimique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos décoctions alchimiques sont terriblement efficaces. Votre rang de maîtrise dans le DD de classe alchimiste devient maître.&nbsp;</span></p>"
         },
         {
             "id": "Arcane Thesis: Spell Blending",
@@ -469,7 +519,7 @@
         {
             "id": "Mystic Strikes",
             "name": "Frappes mystiques",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous focalisez avec détermination sur vos attaques physiques, ce qui les imprègne d’énergie mystique. Vos attaques à mains nues deviennent magiques, ce qui vous permet d’ignorer les résistances aux attaques non magiques.Toutefois, des objets, tels que les <a href=\"https://2e.aonprd.com/Equipment.aspx?ID=441\"><em>bandelettes de coups puissants</em></a>, seront toujours nécessaires si vous voulez bénéficier d’un bonus d’objet aux jets d’attaque ou augmenter les dés de dégâts d’arme de vos attaques.&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous focalisez avec détermination sur vos attaques physiques, ce qui les imprègne d’énergie mystique. Vos attaques à mains nues deviennent magiques, ce qui vous permet d’ignorer les résistances aux attaques non magiques.Toutefois, des objets, tels que les @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{bandelettes de coups puissants}, seront toujours nécessaires si vous voulez bénéficier d’un bonus d’objet aux jets d’attaque ou augmenter les dés de dégâts d’arme de vos attaques.&nbsp;</span></p>"
         },
         {
             "id": "Alchemical Expertise",
@@ -525,6 +575,11 @@
             "id": "Weapon Mastery (Ranger)",
             "name": "Maîtrise martiale (Rôdeur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous connaissez parfaitement toutes les subtilités de vos armes. Votre rang de maîtrise avec les armes simples, les attaques à mains nues et les armes de guerre passe à maître.&nbsp;</span></p>"
+        },
+        {
+            "id": "Bloodline Paragon",
+            "name": "Parangon du lignage",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous maîtrisez à présent parfaitement la magie de votre lignage. Ajoutez deux sorts communs de niveau 10 de votre tradition à votre répertoire. Vous gagnez un unique emplacement de sort de niveau 10 que vous pouvez utiliser pour lancer l’un de ces deux sorts avec la capacité d’incantation de l’ensorceleur. Au contraire des autres emplacements de sort, vous ne gagnez pas plus de sorts de niveau 10 lorsque vous montez de niveaux et vous ne pouvez pas les utiliser avec des capacités qui vous permettent de lancer des sorts sans dépenser d’emplacements ou avec des pouvoirs qui vous procurent davantage d’emplacements de sort. Vous pouvez prendre le don d’ensorceleur @Compendium[pf2e.feats-srd.6SEDoht4dXEJE5SW]{Perfection du lignage] pour gagner un deuxième emplacement.&nbsp;</span></p>"
         },
         {
             "id": "Bard Weapon Expertise",
@@ -590,6 +645,11 @@
             "id": "Bloodline: Draconic",
             "name": "Lignage : Draconique",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le sang des dragons coule dans vos veines. Ces bêtes sont à la fois redoutables en combat et compétentes en matière de magie.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Liste de sorts</strong> <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=1\"><u>arcaniques</u></a><br><strong>Compétences de lignage</strong> <a href=\"https://2e.aonprd.com/Skills.aspx?ID=2\"><u>Arcanes</u></a>, <a href=\"https://2e.aonprd.com/Skills.aspx?ID=7\"><u>Intimidation</u></a><br><strong>Sorts accordés</strong> tour de magie @Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{bouclier}, 1st: @Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{coup au but}, 2nd: @Compendium[pf2e.spells-srd.Fr58LDSrbndgld9n]{résistance à l’énergie}, 3rd: @Compendium[pf2e.spells-srd.o6YCGx4lycsYpww4]{rapidité}, 4th: @Compendium[pf2e.spells-srd.tgIhRUFtgDSELpJE]{immunité contre les sorts}, 5th: @Compendium[pf2e.spells-srd.forsqeofEszBNtLq]{mur chromatique}, 6th: @Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{forme de dragon}, 7th: @Compendium[pf2e.spells-srd.O6VQC1Bs4aSYDa6R]{masque terrifiant}, 8th: @Compendium[pf2e.spells-srd.iL6TujgTCtRRa0Y0]{mur prismatique}, 9th: @Compendium[pf2e.spells-srd.fkDeKktdmbeplYRY]{présence écrasante}<br><strong>Sorts de lignage</strong> initial: @Compendium[pf2e.spells-srd.K8vvrOgW4bGakXxm]{griffes de dragon}, avancé: @Compendium[pf2e.spells-srd.JcobNl4iE9HmMYtE]{souffle de dragon}, supérieur: @Compendium[pf2e.spells-srd.HWJODX2zPg5cg34F]{ailes de dragon}<br><strong>Magie du sang</strong> Des écailles de dragon poussent sur votre corps ou celui d’une cible en conférant un bonus de statut de +1 à la CA pendant 1 round.<br></span></p>\n<h2 class=\"title\">Type de dragon</h2>\n<p>Au niveau 1, choisissez le type de dragon qui a influencé votre lignée. Vous ne pouvez plus en changer une fois ce choix fait. Il affecte la façon dont fonctionnent vos sorts de lignage. Les dragons métalliques bienveillants et le type de dégâts qu’ils infligent sont airain (feu), bronze (électricité), cuivre (acide), or (feu) et argent (froid). Les dragons chromatiques malfaisants et le type de dégâts qu’ils infligent sont noir (acide), bleu (électricité), vert (poison), rouge (feu) et blanc (froid).</p>"
+        },
+        {
+            "id": "Primal Hierophant",
+            "name": "Hiérophante primordial",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous manipulez la plus redoutable des magies primordiales et pouvez lancer un sort incroyablement puissant. Vous gagnez un unique emplacement de sort de niveau 10 et pouvez l’utiliser pour préparer un sort avec incantation primordiale. Contrairement aux autres emplacements de sort, vous ne gagnez pas plus d’emplacements de niveau 10 en augmentant de niveau, mais vous pouvez prendre le don @Compendium[pf2e.feats-srd.Chu6s3xVnpOB64GH]{Puissance du hiérophante} pour en obtenir un second.</span></p>"
         },
         {
             "id": "Maestro",
@@ -692,6 +752,11 @@
             "description": "<p><span id=\"ctl00_MainContent_Header\">Lors de vos études pour devenir un véritable magicien, vous avez écrit une thèse suite à des recherches sur un sujet précis. Vous gagnez un avantage dépendant de ce sujet. Les sujets de thèse sont donnés plus loin, mais la vôtre avait probablement un titre plus long et plus technique, comme Des méthodes de l’interpolation des sorts et de la genèse d’une nouvelle compréhension des fondations de la magie.</span></p>\n<h2>@Compendium[pf2e.classfeatures.SNZ46g3u7U6x0XJj]{Amélioration de l’harmonisation avec le familier}</h2>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cela fait longtemps que vous pensez qu’il suffit d’affiner la magie qui lie un magicien à son familier pour améliorer leur lien mystique par rapport à celui sécurisé, mais générique, que la majorité des magiciens utilisent. Vous avez formé un tel pacte avec votre familier et en tirez plus d’avantages que les autres magiciens. Vous obtenez le don de magicien Familier comme don bonus. Votre familier gagne un pouvoir supplémentaire, puis un autre quand vous atteignez les niveaux 6, 12 et 18. Votre lien avec votre familier modifie la capacité de classe lien arcanique : vous stockez l’énergie magique dans votre familier et non dans un objet vous appartenant. De plus, vous gagnez l’action gratuite Drain de familier au lieu de Drain d’objet lié. Elle peut s’utiliser à chaque fois qu’un pouvoir vous permet d’utiliser Drain d’objet lié et fonctionne à l’identique, sauf que vous tirez votre magie du familier et non d’un objet.</span></p>\n<h2>@Compendium[pf2e.classfeatures.89zWKD2CN7nRu2xp]{Expérimentation métamagique}</h2>\n<p> Vous avez compris que la pratique de ce que l’on appelle la métamagie est un reliquat d’une époque lointaine, quand les magiciens devaient découvrir leurs propres sorts et leurs variations plutôt que de se baser sur des sorts écrits par autrui et transmis au fil des ans. Vous êtes donc plus efficace dans le maniement des effets de métamagie. Vous gagnez un don de magicien de métamagie de niveau 1 comme don bonus. À partir du niveau 4, lors de vos préparatifs quotidiens, vous pouvez obtenir un don de magicien de métamagie de votre choix, tant que le niveau figurant dans ses conditions est égal ou inférieur à la moitié du vôtre. Vous pouvez utiliser ce don jusqu’à vos prochains préparatifs quotidiens.</p>\n<h2>@Compendium[pf2e.classfeatures.OAcxS625AXSGrQIC]{Mélange de sorts}</h2>\n<p> Vous avez théorisé que les emplacements de sort sont une forme de symbolisation pour l’énergie sous-jacente qui alimente toutes les incantations et vous avez trouvé comment jouer avec la hiérarchie des emplacements de sort et comment les combiner pour alimenter des sorts plus puissants. Lors de vos préparatifs quotidiens, vous pouvez échanger deux emplacements de sort de même niveau contre un emplacement de sort supplémentaire d’au maximum deux niveaux de plus que les emplacements échangés. Vous pouvez échanger autant d’emplacements de sort que vous en avez de disponibles. Les emplacements supplémentaires doivent être d’un niveau que vous êtes capable de lancer et doivent tous être de niveaux différents. Vous pouvez aussi échanger un emplacement de sort contre deux tours de magie supplémentaires, mais vous ne pouvez échanger qu’un seul emplacement pour obtenir des tours de magie ainsi. </p>\n<h2>@Compendium[pf2e.classfeatures.QzWXMCSGNfvvpYgF]{Substitution de sort}</h2>\n<p> Vous n’admettez pas qu’une fois vos sorts préparés, vous ne puissiez plus les changer jusqu’à vos prochains préparatifs quotidiens. Vous avez donc découvert un raccourci vous permettant d’échanger de nouveaux sorts contre ceux que vous aviez préparés. Vous pouvez passer 10 min à vider l’un de vos emplacements de sort préparé et préparer à la place un sort différent tiré de votre grimoire. Si vous êtes interrompu lors de l’échange, le sort original reste préparé et vous pouvez toujours le lancer. Vous pouvez retenter l’échange plus tard, mais vous devez reprendre le processus à zéro. </p>"
         },
         {
+            "id": "Greater Field Discovery (Chirurgeon)",
+            "name": "Découverte de domaine de recherche supérieure (Chirurgien)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous utilisez Alchimie rapide pour créer n’importe quel type d’élixir de vie, la créature qui le boit gagne le maximum de points de vie qu’il peut conférer au lieu de devoir lancer les dés pour déterminer combien de points de vie elle gagne.&nbsp;</span></p>"
+        },
+        {
             "id": "Rogue's Racket",
             "name": "Trafic de roublard",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En vous engageant sur la voie du roublard, vous développez votre propre style grâce auquel vous mènerez vos activités illicites. Votre trafic oriente vos techniques de roublard et la manière dont vous envisagez un coup, tout en contribuant à faire reconnaître votre talent pour un certain type de missions auprès de la pègre. Ainsi, un client fortuné qui envisage un casse pourra engager une équipe de roublards aux trafics spécialisés couvrant tous les aspects de la mission. Choisissez un trafic de roublard. Les trafics présentés dans cet ouvrage sont les suivants <br></span></p>"
@@ -750,6 +815,11 @@
             "id": "Master Tricks",
             "name": "Astuces de maître",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous maîtrisez les techniques de combat des roublards. Votre rang de maîtrise devient maître pour toutes les armes simples, les attaques à mains nues, ainsi que la rapière, la matraque, l’arc court et l’épée courte.&nbsp;</span></p>"
+        },
+        {
+            "id": "Weapon Specialization (Alchemist)",
+            "name": "Spécialisation martiale (Alchimiste)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à infliger de graves blessures avec les armes que vous connaissez le mieux. Vous infligez 2 dégâts de plus avec les armes et les attaques à mains nues pour lesquelles vous êtes expert. Ces dégâts passent à 3 si vous êtes maître et à 4 si vous êtes légendaire.&nbsp;</span></p>"
         },
         {
             "id": "Rogue Expertise",
@@ -812,6 +882,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En tant que transmutateur, vous modifiez les propriétés physiques des choses et transformez les créatures, les objets, le monde naturel et même vous à volonté. Vous savez que le changement est inévitable. Vous ajoutez un sort de transmutation de niveau 1 (comme @Compendium[pf2e.spells-srd.TFitdEOpQC4SzKQQ]{arme magique}) à votre grimoire. Vous apprenez le sort d’école @Compendium[pf2e.spells-srd.1lmzILdCFENln8Cy]{amélioration physique}</span></p>"
         },
         {
+            "id": "Light Armor Mastery (Alchemist)",
+            "name": "Maîtrise des armures légères (Alchimiste)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous maîtrisez mieux les armures légères et êtes ainsi capable de mieux esquiver les coups. Votre rang de maîtrise avec les armures légères et la défense sans armure devient maître.&nbsp;</span></p>"
+        },
+        {
             "id": "Storm",
             "name": "Tempête",
             "description": "<p>Vous portez en vous toute la fureur de la tempête, la canalisant pour produire des effets terrifiants et chevauchant les vents à travers ciel..&nbsp;</p>\n<p>Vous êtes qualifié en Acrobaties. Vous obtenez également le don de druide @Compendium[pf2e.feats-srd.UpEjRfQkCJCruAfb]{Enfant de la tempête}. Vous obtenez le sort d’ordre @Compendium[pf2e.spells-srd.ho1jSoYKrHUNnM90]{onde de tempête} et vous augmentez de 1 le nombre de points que contient votre réserve de focalisation. Polluer l’air ou ne pas punir les pollueurs ou les créatures à l’origine de changements climatiques majeurs est anathème (vous n’êtes toutefois pas obligé d’agir contre des nuisances potentielles mineures envers l’environnement ou de vous sacrifier en affrontant un adversaire visiblement supérieur)</p>"
@@ -855,6 +930,11 @@
             "id": "Double Brew",
             "name": "Double préparation",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous connaissez si bien vos formules que vous pouvez préparer deux objets à la fois. Quand vous utilisez l’action @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Alchimie rapide}, au lieu d’utiliser un lot de réactifs imprégnés afin de créer un seul objet, vous pouvez utiliser deux lots de réactifs imprégnés afin de créer deux objets alchimiques en suivant les règles de cette action. Ces objets ne sont pas nécessairement identiques..&nbsp;</span></p>"
+        },
+        {
+            "id": "Light Armor Expertise (Alchemist)",
+            "name": "Expertise avec les armures légères (Alchimiste)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à esquiver tout en portant une armure légère. Votre rang de maîtrise avec les armures légères et la défense sans armure devient expert.&nbsp;</span></p>"
         },
         {
             "id": "Mighty Rage",
@@ -1062,6 +1142,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à infliger de graves blessures avec les armes que vous connaissez le mieux. Vous infligez 2 dégâts de plus avec les armes et les attaques à mains nues pour lesquelles vous êtes expert. Ces dégâts passent à 3 si vous êtes maître et à 4 si vous êtes légendaire.&nbsp;</span></p>"
         },
         {
+            "id": "Greater Field Discovery (Bomber)",
+            "name": "Découverte de domaine de recherche supérieure (Artificier)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez agrandir la zone d’éclaboussure de vos bombes afin de blesser des créatures dans un rayon de 3 m, ou de 4,50 m si vous possédez le don Éclaboussure élargie.&nbsp;</span></p>"
+        },
+        {
             "id": "Champion Expertise",
             "name": "Expertise du champion",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les prières renforcent votre puissance divine. Votre rang de maîtrise dans le DD de classe de champion, les jets d’attaque des sorts divins et les DD de vos sorts divins passent à expert.&nbsp;</span></p>"
@@ -1110,11 +1195,6 @@
             "id": "Weapon Specialization (Barbarian)",
             "name": "Spécialisation martiale (Barbare)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre rage vous permet de frapper plus fort. Vous infligez 2 dégâts supplémentaires avec les armes et les attaques à mains nues pour lesquelles vous possédez un rang de maîtrise expert. Ces dégâts passent à 3 si vous êtes maître et à 4 si vous êtes légendaire.&nbsp;</span></p>\n<p>Vous gagnez le pouvoir de spécialisation de votre instinct.</p>"
-        },
-        {
-            "id": "Primal Hierophant",
-            "name": "Hiérophante primordial",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous manipulez la plus redoutable des magies primordiales et pouvez lancer un sort incroyablement puissant. Vous gagnez un unique emplacement de sort de niveau 10 et pouvez l’utiliser pour préparer un sort avec incantation primordiale. Contrairement aux autres emplacements de sort, vous ne gagnez pas plus d’emplacements de niveau 10 en augmentant de niveau, mais vous pouvez prendre le don @Compendium[pf2e.feats-srd.Chu6s3xVnpOB64GH]{Puissance de l’hiérophante} pour en obtenir un second.</span></p>"
         },
         {
             "id": "Alchemical Weapon Expertise",

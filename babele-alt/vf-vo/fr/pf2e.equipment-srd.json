@@ -47,6 +47,11 @@
             "description": "<p>12 mètres de corde</p>"
         },
         {
+            "id": "Ventriloquist's Ring",
+            "name": "Anneau de ventriloquie (Ventriloquist's Ring)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le pourtour de cet élégant anneau de cuivre est gravé de minuscules images d’oiseaux chanteurs. Vous gagnez un bonus d’objet de +1 aux tests de Duperie.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> TVous faites tourner l’anneau sur votre doigt pour projeter votre voix par magie en produisant les effets du sort ventriloquie (DD 19).</span></p>"
+        },
+        {
             "id": "Chest",
             "name": "Coffre (Chest)",
             "description": "<p><span class=\"fontstyle0\">Un coffre en bois peut contenir des objets jusqu’à un Encombrement 8.</span></p>"
@@ -187,6 +192,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette bille de fronde ressemble à un œil de serpent pétrifié. Une créa‑ ture touchée par une bille de pierre activée est soumise aux effets du sort de niveau 6 chair en pierre (DD 34). &nbsp;<br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de <em>chair en pierre</em>.</span></p>"
         },
         {
+            "id": "Bastard Sword",
+            "name": "Epée bâtarde (Bastard Sword)",
+            "description": "<p><span class=\"fontstyle0\">Cette épée à large lame, parfois appelée épée à une-main-et-demie, a une prise plus longue et peut donc être tenue d’une main ou utilisée à deux mains pour fournir une puissance perforante ou tranchante supplémentaire.</span></p>\n<p>&nbsp;</p>"
+        },
+        {
             "id": "Antimagic Oil",
             "name": "Huile antimagie (Antimagic Oil)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette huile contient une énergie qui repousse presque tous les types de magie. Quand vous l’appliquez sur une armure, la créature qui porte cette armure est immunisée contre tous les sorts, effets magiques (les siens et ceux d’autrui) et les effets dotés du trait magique pendant 1 min. L’huile n’affecte ni la magie de l’armure, ni les runes fondamentales des armes qui attaquent son porteur. Les effets magiques issus d’une source de niveau 20 ou plus, comme une divinité, fonctionnent sur le détenteur de l’armure<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
@@ -222,8 +232,8 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une arme dansante vole de manière autonome et frappe vos ennemis. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> sur ordre, Interagir ; <strong>Effet</strong>Vous lâchez l’arme qui se met à danser dans les airs en combattant de manière indépendante le dernier ennemi que vous avez attaqué ou celui le plus proche si votre cible est vaincue. Chaque round, à la fin de votre tour, l’arme peut Voler à sa Vitesse de vol de 12 m et elle peut ensuite Voler à nouveau ou Frapper une créature à portée.<br /><br />L’arme occupe un espace de 1,50 m mais elle ne bloque pas ou ne gêne pas les ennemis qui tentent de traverser son espace. Elle ne peut pas non plus prendre un ennemi en tenaille ni bénéficier d’une prise en tenaille. L’arme ne peut pas traverser l’espace occupé par un ennemi. Elle ne peut pas utiliser de réactions et ses actions Voler ne déclenchent aucune réaction. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Tant qu’elle est activée, une arme dansante effectue des Frappes avec un modificateur d’attaque de +24 plus son bonus d’objet aux jets d’at‑ taque. Elle inflige les dégâts normaux de l’arme mais a un modificateur de Force de +0. Les pouvoirs de l’arme qui se déclenchent automatiquement en cas de coup normal ou critique fonctionnent toujours mais l’arme ne peut pas être activée ou bénéficier de vos pouvoirs lorsqu’elle danse. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque round, effectuez un test nu DD 6 quand l’arme a fini d’utiliser ses actions. En cas d’échec, l’activation se termine et l’arme tombe par terre. Vous devez attendre dix minutes avant de pouvoir réactiver l’objet.</span></p>"
         },
         {
-            "id": "Basic Crafter’s Book",
-            "name": "Livre d’artisan basique (Basic Crafter’s Book)",
+            "id": "Basic Crafter's Book",
+            "name": "Livre d’artisan basique (Basic Crafter's Book)",
             "description": "<p><span class=\"fontstyle0\">Ce livre contient les formules (page 293) pour Fabriquer les objets ordinaires de ce chapitre.</span></p>"
         },
         {
@@ -402,6 +412,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre).</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>"
         },
         {
+            "id": "Effervescent Ampoule",
+            "name": "Ampoule effervescente (Effervescent Ampoule)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">De l’eau de source pétille dans ce petit globe de verre et se déverse sur l’armure support dès son activation. Jusqu’à la fin de votre tour, l’armure vous permet de marcher sur l’eau et les autres liquides comme sur la terre ferme. Si vous Marchez rapidement ou Faites un pas sur une plaque de pression sensible au poids, elle ne s’enfonce pas, ce qui vous évite de déclencher le mécanisme associé. Lorsque l’effet de l’am‑ poule se termine, selon l’endroit où vous vous trouvez, vous coulez, tombez, traversez un sol fragile ou appliquez une pression normale sur la plaque.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Conditions</strong>  Vous êtes expert en Acrobaties.</span></p>"
+        },
+        {
             "id": "Greataxe",
             "name": "Grande hache (Greataxe)",
             "description": "<p>Cette grande hache d’armes est trop lourde pour pouvoir être maniée d’une seule main. Beaucoup de grandes haches comprennent deux lames et sont souvent « barbues », avec un crochet au bout pour augmenter la force de leur pouvoir tranchant. </p>"
@@ -572,6 +587,11 @@
             "description": "<p><span class=\"fontstyle0\">Cette arme de jet est plus large qu’une flèche, mais plus courte qu’un javelot. Elle a généralement une courte tige de bois se terminant par une pointe en métal et est parfois stabilisée par des plumes ou de la fourrure.</span> </p>"
         },
         {
+            "id": "Wolf Fang",
+            "name": "Croc de loup (Wolf Fang)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette canine de loup est attachée sur un lien de cuir fixé sur une boucle ou une lanière d’armure. Lorsque vous l’activez, vous infligez des dégâts contondants égaux à votre modificateur de Force à la cible de votre Croc‑en‑Jambe. Si ce Croc‑en‑Jambe devrait déjà inclure des dégâts physiques ne compre‑ nant pas de modificateur de caractéristique, ajoutez‑leur votre modificateur de Force.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\" /> Imaginer; <strong>Déclencheur</strong> Votre Croc‑en‑Jambe est couronné de succès ;<strong>Conditions</strong> Vous êtes qualifié en Athlétisme. </span></p>"
+        },
+        {
             "id": "Musical Instrument (Virtuoso handheld)",
             "name": "Instruments de musique (Virtuose) (Musical Instrument (Virtuoso handheld))",
             "description": "<p><span class=\"fontstyle0\"> les instruments portatifs comprennent les cornemuses, le petit carillon, les petits tambours, les violons et violes, les flûtes traversières et les flûtes à bec, les petites harpes, les luths, les trompettes et instruments de taille similaire. Le MJ peut décider qu’un instrument portatif particulièrement volumineux (comme le tuba) a un Encombrement plus important. Les instruments lourds tels que les gros tambours, un carillon complet et les instruments à clavier sont beaucoup moins portatifs et se jouent généralement immobilisés. Un instrument virtuose accorde un bonus d’objet de +1 aux tests de Représentation.</span> </p>"
@@ -592,8 +612,8 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre). Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié. &nbsp;</span></p>"
         },
         {
-            "id": "Adventurer’s pack",
-            "name": "Pack d'aventurier (Adventurer’s pack)",
+            "id": "Adventurer's pack",
+            "name": "Pack d'aventurier (Adventurer's pack)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet est le kit de départ pour un aventurier. Il contient les objets essentiels à l’exploration et à la survie. La valeur d’Encombrement concerne la totalité du pack, mais reportez-vous si nécessaire à la description de chaque objet. </span></p>\n<p>Le pack d’aventurier contient les objets suivants : sac à dos (contenant les autres objets), sac de couchage, deux bourses, 10 morceaux de craie, silex et amorce, corde de 15 m, rations pour 2 semaines, savon, 5 torches et une outre. </p>"
         },
         {
@@ -607,8 +627,8 @@
             "description": "<p><span class=\"fontstyle0\">Semblable à une faucille et utilisé dans certaines régions pour récolter le grain, le kama possède une lame courte et légèrement incurvée, et un manche en bois. </span> </p>"
         },
         {
-            "id": "Alchemist’s Tools",
-            "name": "Outils d'alchimiste (Alchemist’s Tools)",
+            "id": "Alchemist's Tools",
+            "name": "Outils d'alchimiste (Alchemist's Tools)",
             "description": "<p>Cette collection de fioles et de produits chimiques permet d’accomplir des tâches alchimiques simples. &nbsp;</p>"
         },
         {
@@ -997,6 +1017,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Composée de plaques d’argent et d’or imbriquées, cette lourde cein‑ ture est ornée d’images miniatures stylisées représentant cinq rois nains. Vous bénéficiez d’un bonus de circonstances de +1 aux tests de Diplomatie pour Faire bonne impression auprès de nains ou pour Solliciter des nains. Vous bénéficiez également d’un bonus de circons‑ tances de +1 aux tests d’Intimidation contre les géants et les orcs.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La ceinture vous confère aussi la vision dans le noir et vous permet de comprendre, parler et écrire le nain.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Conditions</strong> Vous êtes un nain; <strong>Effet</strong>  Vous resserrez la ceinture d’un cran pour gagner un nombre de points de vie temporaires égal à votre niveau et pour confé‑ rer la vision dans le noir aux alliés situés à 6 m ou moins de vous. Ces deux effets durent dix minutes.</span></p>"
         },
         {
+            "id": "Truesight Potion",
+            "name": "Potion de vision lucide (Truesight Potion)",
+            "description": "<p>En buvant cette potion claire et rafraîchissante, vous voyez les choses telles qu’elles sont réellement. Vous gagnez les avantages du sort vision lucide au niveau 7 avec un modificateur de contre de +25.</p>"
+        },
+        {
             "id": "Breastplate",
             "name": "Cuirasse (Breastplate)",
             "description": "<p><span class=\"fontstyle0\">Bien que désigné sous le nom de cuirasse, ce type d’armure est constitué de plusieurs éléments de harnois ou d’armure de plates (page 275),  qui protègent le torse, la poitrine, le cou et parfois les  hanches et le bas des jambes. Elle accorde stratégiquement une partie de la protection du harnois tout en permettant plus de souplesse et de rapidité.</span></p>"
@@ -1157,6 +1182,11 @@
             "description": "L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez le nombre de points de vie indiqué et gagnez un bonus d’objet aux jets de sauvegarde contre la maladie et le poison pendant 10 min. L’élixir restaure 10d6+27 points de vie, le bonus est de +4."
         },
         {
+            "id": "Viper's Fang",
+            "name": "Croc de vipère (Viper's Fang)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque vous activez ce crâne de vipère renforcé par de la résine, vous faites une Attaque d’opportunité contre la créature déclencheur. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous disposez déjà de ce don, vous pouvez activer le <em>croc de vipère</em> par une action gratuite<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\" /> Imaginer; <strong>Déclencheur</strong>  Une créature à votre portée utilise une action de manipulation ou de déplacement, fait une attaque à distance ou quitte sa case lors de son action de mouvement <strong>Conditions</strong>  Vous êtes maître avec l’arme support.</span></p>"
+        },
+        {
             "id": "Jade Cat",
             "name": "Chat de jade (Jade Cat)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Félin de la taille d’un pouce sculpté dans une pierre rare, le chat de jade se porte en pendentif sur une armure. Pendant 1 min après son activation, vous considérez toutes vos chutes comme plus courtes de 6 m qu’en réalité, vous n’êtes pas pris au dépour‑ vu lorsque vous Gardez l’équilibre et les surfaces étroites et le sol irrégulier ne constituent pas un terrain difficile pour vous.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> sur ordre; <strong>Déclencheur</strong> Vous ratez ou tentez un test d’Acrobaties pour Garder l’équilibre; <strong>Conditions</strong>  Vous êtes qualifié en Acrobaties.</span></p>"
@@ -1202,8 +1232,8 @@
             "description": "Une fois que vous avez bu cet élixir, votre vue devient plus perçante dans les ténèbres. Vous gagnez vision dans le noir pour la durée indiquée.La durée est de 1 h."
         },
         {
-            "id": "Artisan’s Tools",
-            "name": "Outils d'artisan (Artisan’s Tools)",
+            "id": "Artisan's Tools",
+            "name": "Outils d'artisan (Artisan's Tools)",
             "description": "<p>Vous avez besoin de ces outils pour créer, au moyen de la compétence Artisanat, des objets à partir de matériaux. Les outils d’artisan excellents accordent un bonus de +1 à votre test. Il faut des jeux d’outils différents pour effectuer différents travaux, tels que déterminés par le MJ ; ainsi, les outils de forgeron diffèrent des outils de menuisier. &nbsp;</p>"
         },
         {
@@ -1417,8 +1447,8 @@
             "description": "<p><span class=\"fontstyle0\">Une lanterne diffuse une lumière vive et nécessite 0,5 litre d’huile pour fonctionner pendant 6 heures. Une lanterne à capote émet sa lumière avec un cône de 18 m (et une lumière faible les 18 m au-delà). Une lanterne sourde émet sa lumière dans un rayon de 9 m (et une lumière faible les 9 m au-delà) et est équipée de volets que vous pouvez fermer pour bloquer la luminosité. Fermer ou ouvrir les volets nécessite une action Interagir.</span> </p>"
         },
         {
-            "id": "Thieves’ Tools",
-            "name": "Outils de voleur (Thieves’ Tools)",
+            "id": "Thieves' Tools",
+            "name": "Outils de voleur (Thieves' Tools)",
             "description": "<p>Vous avez besoin d’outils de voleur pour Crocheter des serrures ou Désamorcer des dispositifs (de certains types) à l’aide de la compétence Vol. Les outils de voleur d’infiltration ajoutent un bonus d’objet de +1 aux tests pour Crocheter des serrures et Désamorcer des dispositifs. Si vos outils de voleur sont brisés, vous pouvez les réparer en remplaçant les crochets par des crochets de rechange adaptés à vos outils ; cela ne nécessite pas l’utilisation de l’action Réparer..&nbsp;</p>"
         },
         {
@@ -1597,8 +1627,8 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce manteau poussiéreux est taillé dans une miteuse fourrure de coyote brune et grise. Vous gagnez un bonus d’objet de +1 aux tests de Survie. Si vous obtenez un succès critique à votre test de Survie pour Subsister, vous doublez le nombre de créatures supplémentaires que vous pouvez nourrir. &nbsp;</span></p>\n<p>La cape confère un bonus d’objet de +2, et si vous obtenez un succès critique à un test de Survie pour Subsister, vous quadruplez le nombre de créatures supplémentaires que vous pouvez nourrir. </p>"
         },
         {
-            "id": "Healer’s Tools",
-            "name": "Outils de guérisseur (Healer’s Tools)",
+            "id": "Healer's Tools",
+            "name": "Outils de guérisseur (Healer's Tools)",
             "description": "<p><span class=\"fontstyle0\"> Cette trousse, contenant des bandages, des herbes et des outils de suture, est nécessaire aux tests de Médecine pour Prodiguer les premiers soins, Soigner une maladie, Soigner un empoisonnement ou Soigner les blessures. Les outils de guérisseur complets fournissent un bonus d’objet de +1 à de tels tests. Lorsque vous transportez ces outils d’un endroit à un autre, vous gardez la plupart des composants à portée de la main, dans vos poches ou dans vos bandoulières. </span> </p>"
         },
         {

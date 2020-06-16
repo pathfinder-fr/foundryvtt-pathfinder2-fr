@@ -9,8 +9,9 @@ import datetime
 from libdata import *
 
 
-DIRS = ["actions", "classes", "equipment", "feats", "spells", "backgrounds", "ancestryfeatures", "classfeatures"]
+DIRS = ["actions", "classes", "equipment", "feats", "spells", "backgrounds", "ancestryfeatures", "classfeatures", "conditions"]
 ROOT=".."
+
 
 for D in DIRS:
   dirpath= "%s/data/%s" % (ROOT, D)
