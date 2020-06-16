@@ -97,7 +97,11 @@ for key in TRANSL:
 # ==========================
 content = "# Bibliothèque\n\n"
 content += "\n\nDernière mise à jour: %s *(heure de Canada/Montréal)*" % datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
-content += "\n\nCe fichier est généré automatiquement. NE PAS MODIFIER!"
+content += "\n\nCe fichier est généré automatiquement. NE PAS MODIFIER!\n\n"
+
+for key in TRANSL:
+  content += " * [%s](#%s)\n" % (TRANSL[key]['label'], TRANSL[key]['label'].lower())
+
   
 for key in TRANSL: 
   content += "\n\n## %s\n\n" % TRANSL[key]['label']
