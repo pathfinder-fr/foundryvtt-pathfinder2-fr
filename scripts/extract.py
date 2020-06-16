@@ -64,6 +64,11 @@ for F in FILES:
     else:
       duplic[entries[id]['name']] = id
   
+  # ==========================
+  # read all available entries
+  # ==========================
+  existing = readFolder("%sdata/%s/" % (ROOT, F['id']))
+  
   # ========================
   # create or update entries
   # ========================
@@ -71,62 +76,44 @@ for F in FILES:
     source = entries[id]
     if not source:
       continue
-    
+
     # build filename
-    filenameBase1 = "%s.htm" % id   # basic filename (id only)
-    filenameBase2 = "%s.htm" % id   # filename with 1 param less
-    filename = filenameBase1        # target filename
+    filename =  "%s.htm" % id
     if source['type2']:
-      filename = "%s-%s-%s" % (source['type1'], source['type2'], filenameBase1)
-      filenameBase2 = "%s-%s" % (source['type1'], filenameBase1)
+      filename = "%s-%s-%s" % (source['type1'], source['type2'], filename)
     elif source['type1']:
-      filename = "%s-%s" % (source['type1'], filenameBase1)
-      
-    filepathBase1 = "%sdata/%s/%s" % (ROOT, F['id'], filenameBase1)
-    filepathBase2 = "%sdata/%s/%s" % (ROOT, F['id'], filenameBase2)
+      filename = "%s-%s" % (source['type1'], filename)
     filepath = "%sdata/%s/%s" % (ROOT, F['id'], filename)
     
-    count = 0
-    if filepathBase1 != filepath and os.path.isfile(filepathBase1):
-      count += 1
-    if filepathBase2 != filepath and os.path.isfile(filepathBase2):
-      count += 1
-    if os.path.isfile(filepath):
-      count += 1
-    
-    if count > 1:
-      print("Multiple files for same!!")
-      print(filepathBase1)
-      print(filepathBase2)
-      print(filepath)
-      exit(1)
-    
-    if os.path.isfile(filepath):
-      data = fileToData(filepath)
+    # data exists for id
+    if id in existing:
+
+      # rename file if filepath not the same
+      if existing[id]['filename'] != filename:
+        pathFrom = "%sdata/%s/%s" % (ROOT, F['id'], existing[id]['filename'])
+        pathTo = "%sdata/%s/%s" % (ROOT, F['id'], filename)
+        os.rename(pathFrom, pathTo)
       
-      if not data["status"] in ("libre", "officielle", "doublon", "aucune", "changé"):
+      # check status from existing file
+      if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé"):
         print("Status error for : %s" % filepath);
         exit(1)
-      
-      nameSource = source['name']
-      nameDesc = source['desc']
-      
-      if not equals(data['nameEN'],nameSource) or not equals(data['descrEN'], nameDesc):
         
-        data['nameEN'] = source['name']
-        data['descrEN'] = source['desc']
+      if not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']):
+        existing[id]['nameEN'] = source['name']
+        existing[id]['descrEN'] = source['desc']
         
-        if data['status'] == "aucune":
-          dataToFile(data, filepath)
-        else:
-          data['status'] = "changé"
-          dataToFile(data, filepath)
-
-    # old path2
-    elif os.path.isfile(filepathBase1):
-      os.rename(filepathBase1, filepath)
-    elif os.path.isfile(filepathBase2):
-      os.rename(filepathBase2, filepath)
+        if existing[id]['status'] != "aucune":
+          existing[id]['oldstatus'] = existing[id]['status']
+          existing[id]['status'] = "changé"
+          
+        dataToFile(existing[id], filepath)
+      
+      elif 'oldstatus' in existing[id] and existing[id]['status'] != 'changé':
+        del existing[id]['oldstatus']
+        dataToFile(existing[id], filepath)
+      
+    # file doesn't exist => create new
     else:
       data = { 
         'nameEN': source['name'],
@@ -134,22 +121,23 @@ for F in FILES:
         'status': 'aucune',
         'descrEN': source['desc'],
         'descrFR': "" }
-      
       dataToFile(data, filepath)
+    
+    continue
+  
 
   # =======================
   # search deleted elements
   # =======================
-  all_files = os.listdir(ROOT + "data/" + F['id'])
-  for f in all_files:
-    el = re.search('-?(\w+)\.htm', f)
-    if el:
-      if not el.group(1) in entries:
-        os.remove("%sdata/%s/%s" % (ROOT, F['id'], f))
-        #print("Entry %s (%s) doesn't exist anymore" % (el.group(1), F['id']))
-    else:
-      print("Error: invalid filename: %s" % f)
-      exit(1)
+  for id in existing:
+    if not id in entries:
+      filename = "%sdata/%s/%s" % (ROOT, F['id'], existing[id]['filename'])
+      if existing[id]['status'] != 'aucune':
+        print("File cannot be safely removed! %s" % filename)
+        print("Please fix manually!")
+        exit(1)
+      else:
+        os.remove(filename)
   
   
   

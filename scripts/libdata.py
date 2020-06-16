@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
+import re
 
 #
 # cette fonction retourn vrai si les deux textes sont identiques
@@ -59,6 +60,12 @@ def fileToData(filepath):
     isDescEN = False  
     isDescFR = False  
     
+    match = re.search('(\w{16})\.htm', filepath)
+    if not match:
+      print("Invalid filename %s" % filepath)
+      exit(1)
+    data['id'] = match.group(1)  
+    
     for line in content:
       if line.startswith("Name:"):
         data['nameEN'] = line[5:].strip()
@@ -66,6 +73,8 @@ def fileToData(filepath):
         data['nameFR'] = line[4:].strip()
       elif line.startswith("État:"):
         data['status'] = line[5:].strip()
+      elif line.startswith("État d'origine:"):
+        data['oldstatus'] = line[15:].strip()
       elif line.startswith("------ Description (en) ------"):
         isDescEN = True
         isDescFR = False
@@ -98,7 +107,10 @@ def dataToFile(data, filepath):
   with open(filepath, 'w') as df:
     df.write('Name: ' + data['nameEN'] + '\n')
     df.write('Nom: ' + data['nameFR'] + '\n')
-    df.write('État: ' + data['status'] + '\n\n')
+    df.write('État: ' + data['status'] + '\n')
+    if 'oldstatus' in data:
+      df.write('État d\'origine: ' + data['oldstatus'] + '\n')
+    df.write('\n')
     df.write('------ Description (en) ------' + '\n')
     df.write(data['descrEN'] + '\n')
     df.write('------ Description (fr) ------' + '\n')
@@ -112,3 +124,31 @@ def dataToFile(data, filepath):
 #
 def isValid(data):
   return data['nameFR'] and len(data['nameFR']) > 0
+
+
+#
+# cette fonction lit tous les fichiers d'un répertoire (data)
+# et génère un dictionnaire basé sur les identifiants
+#
+def readFolder(path):
+  
+  result = {}
+  all_files = os.listdir(path)
+  
+  # read all files in folder
+  for fpath in all_files:
+    
+    data = fileToData(path + fpath)
+    data['filename'] = fpath
+    
+    if data['id'] in result:
+      print("Duplicate data %s %s" % (path + result[data['id']]['filename'], path + data['filename']))
+      print("Please fix it manually!")
+      exit(1)
+      
+    result[data['id']] = data
+    
+  return result
+    
+    
+    
