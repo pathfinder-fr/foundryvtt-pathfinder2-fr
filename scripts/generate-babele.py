@@ -101,6 +101,8 @@ content += "\n\nCe fichier est généré automatiquement. NE PAS MODIFIER!"
   
 for key in TRANSL: 
   content += "\n\n## %s\n\n" % TRANSL[key]['label']
+  content += "| Nom (EN)   | Nom (FR)    | Lien compendium |\n"
+  content += "|------------|-------------|-----------------|\n"
   
   sortedList = sorted(TRANSL[key]['data'], key=lambda k: k['name'])
   for el in sortedList:

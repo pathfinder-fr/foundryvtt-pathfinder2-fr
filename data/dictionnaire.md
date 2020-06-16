@@ -2,12 +2,14 @@
 
 
 
-Dernière mise à jour: 2020-06-15 22:26 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-15 22:29 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 ## Actions
 
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
 |[Activate an Item](actions/d9FgLxjxKGep2ug7.htm)|Activer un objet|`@Compendium[pf2e.actionspf2e.d9FgLxjxKGep2ug7]`|
 |[Administer First Aid](actions/MHLuKy4nQO2Z4Am1.htm)|Prodiguer les premiers soins|`@Compendium[pf2e.actionspf2e.MHLuKy4nQO2Z4Am1]`|
 |[Affix a Talisman](actions/UAaQk93a30nx0nYY.htm)|Fixer un talisman|`@Compendium[pf2e.actionspf2e.UAaQk93a30nx0nYY]`|
@@ -129,6 +131,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 ## Classes
 
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
 |[Alchemist](classes/rieRSsMMpae94H7b.htm)|Alchimiste|`@Compendium[pf2e.classes.rieRSsMMpae94H7b]`|
 |[Barbarian](classes/Hp9n82T1VdG5fb9e.htm)|Barbare|`@Compendium[pf2e.classes.Hp9n82T1VdG5fb9e]`|
 |[Bard](classes/8l1uexxIX7m6LUUv.htm)|Barde|`@Compendium[pf2e.classes.8l1uexxIX7m6LUUv]`|
@@ -145,6 +149,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 ## Équipement
 
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
 |[Abadar's Flawless Scale](equipment/equipment-03-R09AZzvyNA3Jginm.htm)||`@Compendium[pf2e.equipment-srd.R09AZzvyNA3Jginm]`|
 |[Acid Flask (Greater)](equipment/weapon-11-jC8GmH0Un6vDxdMj.htm)||`@Compendium[pf2e.equipment-srd.jC8GmH0Un6vDxdMj]`|
 |[Acid Flask (Lesser)](equipment/weapon-01-M1k5QQc1qQLxzyCK.htm)|Fiole d’acide (inferieur)|`@Compendium[pf2e.equipment-srd.M1k5QQc1qQLxzyCK]`|
@@ -1475,6 +1481,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 ## Dons
 
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
 |[Absorb Spell](feats/archetype-14-bEdFgywri7fABhBT.htm)||`@Compendium[pf2e.feats-srd.bEdFgywri7fABhBT]`|
 |[Abundant Step](feats/class-06-65gjc5KE4ZRoocbi.htm)|Pas chassé|`@Compendium[pf2e.feats-srd.65gjc5KE4ZRoocbi]`|
 |[Accursed Clay Fist](feats/archetype-10-tMsAj0H0B9XZQjtH.htm)||`@Compendium[pf2e.feats-srd.tMsAj0H0B9XZQjtH]`|
@@ -2679,6 +2687,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 ## Sorts
 
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
 |[Aberrant Whispers](spells/enc-03-qhJfRnkCRrMI4G1O.htm)||`@Compendium[pf2e.spells-srd.qhJfRnkCRrMI4G1O]`|
 |[Abundant Step](spells/con-04-Az3PmWnlWSb5ELX9.htm)||`@Compendium[pf2e.spells-srd.Az3PmWnlWSb5ELX9]`|
 |[Abyssal Pact](spells/con-01-tsKnoBuBbKMXkiz5.htm)||`@Compendium[pf2e.spells-srd.tsKnoBuBbKMXkiz5]`|
@@ -3355,6 +3365,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 ## Backgrounds
 
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
 |[Acolyte](backgrounds/VoWlFBfksysrf8zY.htm)|Acolyte|`@Compendium[pf2e.backgrounds.VoWlFBfksysrf8zY]`|
 |[Acrobat](backgrounds/yikXQI2YVWcmGV2N.htm)|Acrobate|`@Compendium[pf2e.backgrounds.yikXQI2YVWcmGV2N]`|
 |[Aerialist](backgrounds/hQiyj0YTMNqMNf1x.htm)||`@Compendium[pf2e.backgrounds.hQiyj0YTMNqMNf1x]`|
@@ -3425,6 +3437,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 ## Ascendances
 
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
 |[Ancient Elf](ancestryfeatures/feat-01-ifwCISxY3xxuk5ks.htm)|Elfe ancien|`@Compendium[pf2e.ancestryfeatures.ifwCISxY3xxuk5ks]`|
 |[Ancient-Blooded Dwarf](ancestryfeatures/feat-01-jxLtAatRHwcZu4CW.htm)|Nain sang-ancien|`@Compendium[pf2e.ancestryfeatures.jxLtAatRHwcZu4CW]`|
 |[Anvil Dwarf](ancestryfeatures/feat-01-kRDsVbhdBVeSlpBa.htm)|Nain de la forge|`@Compendium[pf2e.ancestryfeatures.kRDsVbhdBVeSlpBa]`|
@@ -3492,6 +3506,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 ## Capacités de classe
 
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
 |[Adamantine Strikes](classfeatures/monk-17-5cthRUkRqRtduVvN.htm)|Frappes d'adamantium|`@Compendium[pf2e.classfeatures.5cthRUkRqRtduVvN]`|
 |[Advanced Alchemy](classfeatures/alchemist-01-Pe0zmIqyTBc2Td0I.htm)|Alchimie avancée|`@Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]`|
 |[Alchemical Alacrity](classfeatures/alchemist-15-Eood6pNPaJxuSgD1.htm)|Alacrité alchimique|`@Compendium[pf2e.classfeatures.Eood6pNPaJxuSgD1]`|
@@ -3751,6 +3767,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 ## Conditions
 
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
 |[Blinded](conditions/XgEqL1kFApUbl5Z2.htm)||`@Compendium[pf2e.conditionspf2e.XgEqL1kFApUbl5Z2]`|
 |[Broken](conditions/6dNUvdb1dhToNDj3.htm)||`@Compendium[pf2e.conditionspf2e.6dNUvdb1dhToNDj3]`|
 |[Clumsy](conditions/i3OJZU2nk64Df3xm.htm)||`@Compendium[pf2e.conditionspf2e.i3OJZU2nk64Df3xm]`|
