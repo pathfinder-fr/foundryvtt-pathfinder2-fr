@@ -104,7 +104,7 @@ for key in TRANSL:
   
   sortedList = sorted(TRANSL[key]['data'], key=lambda k: k['name'])
   for el in sortedList:
-    content += "|[%s](%s)|%s|%s|\n" % (el['file'], el['name'], el['nom'], el['link'])
+    content += "|[%s](%s)|%s|`%s`|\n" % (el['name'], el['file'], el['nom'], el['link'])
   
 with open("../data/dictionnaire.md", 'w', encoding='utf-8') as f:
   f.write(content)
