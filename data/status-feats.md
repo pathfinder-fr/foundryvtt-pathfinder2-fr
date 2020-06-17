@@ -1,12 +1,12 @@
 # État de la traduction (feats)
 
- * **libre**: 107
- * **officielle**: 589
- * **aucune**: 446
- * **changé**: 58
+ * **libre**: 104
+ * **officielle**: 590
+ * **aucune**: 445
+ * **changé**: 61
 
 
-Dernière mise à jour: 2020-06-15 21:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-16 22:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -182,7 +182,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-08-L9aBLPG2veBkVow9.htm](feats/class-08-L9aBLPG2veBkVow9.htm)|Persistent Creation|
 |[class-08-niKCBA11zzgGT1PU.htm](feats/class-08-niKCBA11zzgGT1PU.htm)|Primal Breadth|
 |[class-08-oHra9QanDFpAZ4hh.htm](feats/class-08-oHra9QanDFpAZ4hh.htm)|Warden's Boon|
-|[class-08-rpxFVUp8BuF31DYg.htm](feats/class-08-rpxFVUp8BuF31DYg.htm)|Universal Versatility|
 |[class-08-TGFbFyv0AUi5gAGO.htm](feats/class-08-TGFbFyv0AUi5gAGO.htm)|Monk Moves|
 |[class-08-UfuYHdozZD586RWd.htm](feats/class-08-UfuYHdozZD586RWd.htm)|Bloodline Breadth|
 |[class-08-XRIWWrXfghsQce4S.htm](feats/class-08-XRIWWrXfghsQce4S.htm)|Divine Breadth|
@@ -651,7 +650,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-04-lYVAGuHU47Ixyuxy.htm](feats/archetype-04-lYVAGuHU47Ixyuxy.htm)|Focused Juggler|Jongleur Concentré|changé|
 |[archetype-04-MnqDDUekqd40HTZc.htm](feats/archetype-04-MnqDDUekqd40HTZc.htm)|Necromantic Resistance|Résistance nécromantique|libre|
 |[archetype-04-nAgAICjPd4BSQlAj.htm](feats/archetype-04-nAgAICjPd4BSQlAj.htm)|Axe Climber|Escalade à la hache|changé|
-|[archetype-04-NrZt98r47sPSQ06j.htm](feats/archetype-04-NrZt98r47sPSQ06j.htm)|Crystal Ward Spells|Sort de Garde de Cristal|libre|
+|[archetype-04-NrZt98r47sPSQ06j.htm](feats/archetype-04-NrZt98r47sPSQ06j.htm)|Crystal Ward Spells|Sort de Garde de Cristal|changé|
 |[archetype-04-NZgjqVV2HYzLCvvA.htm](feats/archetype-04-NZgjqVV2HYzLCvvA.htm)|Aldori Parry|Parade Aldori|libre|
 |[archetype-04-otLs7XzMXR1cZKGe.htm](feats/archetype-04-otLs7XzMXR1cZKGe.htm)|Quick Juggler|Jongleur rapide|changé|
 |[archetype-04-qQh8wnslOagixxD1.htm](feats/archetype-04-qQh8wnslOagixxD1.htm)|Careful Explorer|Explorateur attentif|libre|
@@ -672,7 +671,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-l60Ua5Ugv85GnF9b.htm](feats/archetype-06-l60Ua5Ugv85GnF9b.htm)|Nameless Anonymity|Anonymat indicible|changé|
 |[archetype-06-M2V1vqAziOkWV30B.htm](feats/archetype-06-M2V1vqAziOkWV30B.htm)|Crimson Shroud|Voile pourpre|libre|
 |[archetype-06-MM9NcRyXWX2LFiuF.htm](feats/archetype-06-MM9NcRyXWX2LFiuF.htm)|Living Rune|Rune vivante|changé|
-|[archetype-06-n3eOMWQd4kdR3A0l.htm](feats/archetype-06-n3eOMWQd4kdR3A0l.htm)|Mature Trained Companion|Compagnon entraîné adulte|libre|
+|[archetype-06-n3eOMWQd4kdR3A0l.htm](feats/archetype-06-n3eOMWQd4kdR3A0l.htm)|Mature Trained Companion|Compagnon entraîné adulte|changé|
 |[archetype-06-oNh2vedij8xbDbph.htm](feats/archetype-06-oNh2vedij8xbDbph.htm)|Hellknight Dedication|Dévouement de Chevalier infernal|libre|
 |[archetype-06-pewPAMlURmTqBqJx.htm](feats/archetype-06-pewPAMlURmTqBqJx.htm)|Axe Thrower|Lanceur de haches|changé|
 |[archetype-06-V7bwuYADV8huWeF7.htm](feats/archetype-06-V7bwuYADV8huWeF7.htm)|Unnerving Prowess|Prouesse perturbante|libre|
@@ -684,7 +683,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-08-MxNb97qr1yMhbjiP.htm](feats/archetype-08-MxNb97qr1yMhbjiP.htm)|Golem Grafter Dedication|Dévouement de Greffeur de golem|libre|
 |[archetype-10-5nzeyuvzKL4T8eLt.htm](feats/archetype-10-5nzeyuvzKL4T8eLt.htm)|Weapon-Rune Shifter|Changeur de rune d'arme|libre|
 |[archetype-10-81xlcIFJIAtsmXmd.htm](feats/archetype-10-81xlcIFJIAtsmXmd.htm)|Armor Rune Shifter|Changeur de rune d'armure|libre|
-|[archetype-14-8PMxl8o5YXET58Pn.htm](feats/archetype-14-8PMxl8o5YXET58Pn.htm)|Iron Lung|Poumon d'acier|libre|
+|[archetype-14-8PMxl8o5YXET58Pn.htm](feats/archetype-14-8PMxl8o5YXET58Pn.htm)|Iron Lung|Poumon d'acier|changé|
 |[archetype-16-2LdncNMDNJW5Oeyu.htm](feats/archetype-16-2LdncNMDNJW5Oeyu.htm)|Opportune Throw|Lancer opportun|changé|
 |[bonus-01-O2MwufzEHbuThoGr.htm](feats/bonus-01-O2MwufzEHbuThoGr.htm)|Attack of Opportunity (Fighter)|Attaque d’opportunité (Guerrier)|officielle|
 |[bonus-04-ALbosSUygdq4T1Yk.htm](feats/bonus-04-ALbosSUygdq4T1Yk.htm)|Poison Weapon|Arme empoisonnée|officielle|
@@ -1004,6 +1003,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-08-qgW8uHJXJGl3DKBS.htm](feats/class-08-qgW8uHJXJGl3DKBS.htm)|Incredible Companion (Druid)|formidable compagnon|officielle|
 |[class-08-rByA8NDI6ZtNgBeT.htm](feats/class-08-rByA8NDI6ZtNgBeT.htm)|Mobile Shot Stance|Posture de tir mobile|officielle|
 |[class-08-rMPL11JRcmlutvRi.htm](feats/class-08-rMPL11JRcmlutvRi.htm)|Thrash|Maltraitance|officielle|
+|[class-08-rpxFVUp8BuF31DYg.htm](feats/class-08-rpxFVUp8BuF31DYg.htm)|Universal Versatility|Polyvalence universelle|officielle|
 |[class-08-TEH73yqZBqByO624.htm](feats/class-08-TEH73yqZBqByO624.htm)|Positioning Assault|Assaut de positionnement|officielle|
 |[class-08-TOyqtUUnOkOLl1Pm.htm](feats/class-08-TOyqtUUnOkOLl1Pm.htm)|Eclectic Skill|Compétence éclectique|officielle|
 |[class-08-uR44wELN9OlU68cL.htm](feats/class-08-uR44wELN9OlU68cL.htm)|Advanced Domain|Domaine avancé|officielle|

@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 310
- * **aucune**: 998
- * **changé**: 11
+ * **officielle**: 301
+ * **aucune**: 997
+ * **changé**: 21
  * **libre**: 7
 
 
-Dernière mise à jour: 2020-06-15 21:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-16 22:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -240,7 +240,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-12-ybu2BMu2oWj74wl8.htm](equipment/consumable-12-ybu2BMu2oWj74wl8.htm)|Salve of Antiparalysis (Greater)|
 |[consumable-12-z7eOUqVwyht6tj11.htm](equipment/consumable-12-z7eOUqVwyht6tj11.htm)|Slumber Wine|
 |[consumable-12-zQnidYCmLCBPfdii.htm](equipment/consumable-12-zQnidYCmLCBPfdii.htm)|Blue Dragon's Breath Potion (Adult)|
-|[consumable-13-87AzvRja9uQOLJCC.htm](equipment/consumable-13-87AzvRja9uQOLJCC.htm)|Deathcap Powder|
 |[consumable-13-BxzwmwQ5O4fewa4w.htm](equipment/consumable-13-BxzwmwQ5O4fewa4w.htm)|Purple Worm Repellent|
 |[consumable-13-fomEZZ4MxVVK3uVu.htm](equipment/consumable-13-fomEZZ4MxVVK3uVu.htm)|Scroll of 7th-level Spell|
 |[consumable-13-g27kK39Nzqphl1Tb.htm](equipment/consumable-13-g27kK39Nzqphl1Tb.htm)|Explosive Ammunition (Greater)|
@@ -1045,14 +1044,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-09-C4XKMcHZoGzrAZBl.htm](equipment/armor-09-C4XKMcHZoGzrAZBl.htm)|Rhino Hide|Peau de rhinocéros|officielle|
 |[armor-09-DIzZr0K20eCbNzQo.htm](equipment/armor-09-DIzZr0K20eCbNzQo.htm)|Force Shield|Bouclier de force|officielle|
 |[armor-09-Q8BscHUFiM1a86PO.htm](equipment/armor-09-Q8BscHUFiM1a86PO.htm)|Dragonslayer's Shield|Bouclier du pourfendeur de dragons|officielle|
-|[armor-10-8HxM35X8DDt2gw9d.htm](equipment/armor-10-8HxM35X8DDt2gw9d.htm)|Electric Eelskin|Peau d'anguille électrique|officielle|
+|[armor-10-8HxM35X8DDt2gw9d.htm](equipment/armor-10-8HxM35X8DDt2gw9d.htm)|Electric Eelskin|Peau d'anguille électrique|changé|
 |[armor-10-pNQJ9PTOEHxEZCgp.htm](equipment/armor-10-pNQJ9PTOEHxEZCgp.htm)|Sturdy Shield (Moderate)|Bouclier renfocé (modéré)|officielle|
 |[armor-10-RUEAV5LMUGFHcXcW.htm](equipment/armor-10-RUEAV5LMUGFHcXcW.htm)|Breastplate of Command|Cuirasse de commandement|officielle|
 |[armor-11-9ZGkQo739t9utj37.htm](equipment/armor-11-9ZGkQo739t9utj37.htm)|Arrow-Catching Shield|Bouclier intercepteur de projectiles|officielle|
 |[armor-11-ydNocKN6afzIyVh6.htm](equipment/armor-11-ydNocKN6afzIyVh6.htm)|Floating Shield|Bouclier flottant|officielle|
 |[armor-13-2uHcTZ40oZ62R9gy.htm](equipment/armor-13-2uHcTZ40oZ62R9gy.htm)|Celestial Armor|Armure céleste|officielle|
 |[armor-13-AdJgj7vVvNGvPIEj.htm](equipment/armor-13-AdJgj7vVvNGvPIEj.htm)|Mail of Luck|Maille chanceuse|officielle|
-|[armor-13-hYBZK1kaGPeR85CH.htm](equipment/armor-13-hYBZK1kaGPeR85CH.htm)|Demon Armor|Armure démoniaque|officielle|
+|[armor-13-hYBZK1kaGPeR85CH.htm](equipment/armor-13-hYBZK1kaGPeR85CH.htm)|Demon Armor|Armure démoniaque|changé|
 |[armor-13-peAvz7u35GEfTXxp.htm](equipment/armor-13-peAvz7u35GEfTXxp.htm)|Elven Chain (Standard-Grade)|Maille Elfique (qualité standard)|officielle|
 |[armor-13-rrnWORxT2Ch4pUFb.htm](equipment/armor-13-rrnWORxT2Ch4pUFb.htm)|Sturdy Shield (Greater)|Bouclier renforcé (supérieur)|officielle|
 |[armor-15-gp5kgCySEOuntQPF.htm](equipment/armor-15-gp5kgCySEOuntQPF.htm)|Plate Armor of the Deep|Harnois des profondeurs|officielle|
@@ -1060,7 +1059,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-16-BWQzaHbGVqlBuMww.htm](equipment/armor-16-BWQzaHbGVqlBuMww.htm)|Sturdy Shield (Major)|Bouclier renforcé (majeure)|officielle|
 |[armor-16-uAs0hUUgROrndceD.htm](equipment/armor-16-uAs0hUUgROrndceD.htm)|Floating Shield (Greater)|Bouclier flottant (supérieur)|officielle|
 |[armor-17-aLA7pikfeNIAAGLw.htm](equipment/armor-17-aLA7pikfeNIAAGLw.htm)|Impenetrable Scale|Armure impénétrable|officielle|
-|[armor-18-La9qYc5NHsg423Jb.htm](equipment/armor-18-La9qYc5NHsg423Jb.htm)|Reflecting Shield|Bouclier réfléchissant|officielle|
+|[armor-18-La9qYc5NHsg423Jb.htm](equipment/armor-18-La9qYc5NHsg423Jb.htm)|Reflecting Shield|Bouclier réfléchissant|changé|
 |[armor-18-XKON66YXYLXlGPPg.htm](equipment/armor-18-XKON66YXYLXlGPPg.htm)|Breastplate of Command (Greater)|Cuirasse de commandement (supérieur)|officielle|
 |[armor-19-7Z8XXGiUiyyisKOD.htm](equipment/armor-19-7Z8XXGiUiyyisKOD.htm)|Sturdy Shield (Supreme)|Bouclier renforcé (ultime)|officielle|
 |[armor-1k3AsSW7lpU0kEpY.htm](equipment/armor-1k3AsSW7lpU0kEpY.htm)|Buckler|Targe|officielle|
@@ -1181,13 +1180,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-12-2prxM8Q0F4sdSwPx.htm](equipment/consumable-12-2prxM8Q0F4sdSwPx.htm)|Winter Wolf Elixir (Moderate)|Elixir du loup arctique (modéré)|officielle|
 |[consumable-12-EEJiqzU89Ofk7dr6.htm](equipment/consumable-12-EEJiqzU89Ofk7dr6.htm)|Salamander Elixir (Moderate)|Elixir de la salamandre (modéré)|officielle|
 |[consumable-12-tOg1nt08dBTZbkwR.htm](equipment/consumable-12-tOg1nt08dBTZbkwR.htm)|Penetrating Ammunition|Munition pénétrante|officielle|
+|[consumable-13-87AzvRja9uQOLJCC.htm](equipment/consumable-13-87AzvRja9uQOLJCC.htm)|Deathcap Powder|Poudre d'amanite phalloïde|officielle|
 |[consumable-13-LRSiYsgEz3e0PEwX.htm](equipment/consumable-13-LRSiYsgEz3e0PEwX.htm)|Panacea|Panacée|officielle|
 |[consumable-13-mYozcVg9fQY6zO7C.htm](equipment/consumable-13-mYozcVg9fQY6zO7C.htm)|Elixir of Life (Greater)|Elixir de vie (supérieur)|officielle|
 |[consumable-14-lasqzrPVEHI5MkQd.htm](equipment/consumable-14-lasqzrPVEHI5MkQd.htm)|Bomber's Eye Elixir (Greater)|Elixir du mitrailleur (supérieur)|officielle|
 |[consumable-14-sjxhPujyv6rJJRWO.htm](equipment/consumable-14-sjxhPujyv6rJJRWO.htm)|Viper's Fang|Croc de vipère|officielle|
 |[consumable-15-AmxSqEoFhRLMYd1W.htm](equipment/consumable-15-AmxSqEoFhRLMYd1W.htm)|Elixir of Life (Major)|Elixir de vie (majeur)|officielle|
 |[consumable-15-i4D4B7tpYv9vMvQY.htm](equipment/consumable-15-i4D4B7tpYv9vMvQY.htm)|Sea Touch Elixir (Greater)|Elixir de caresse marine (supérieur)|officielle|
-|[consumable-15-wTVBD8XHPG810rlH.htm](equipment/consumable-15-wTVBD8XHPG810rlH.htm)|Stone Bullet|Bille de pierre|officielle|
+|[consumable-15-wTVBD8XHPG810rlH.htm](equipment/consumable-15-wTVBD8XHPG810rlH.htm)|Stone Bullet|Bille de pierre|changé|
 |[consumable-16-aDn5blt2iiYJpzbe.htm](equipment/consumable-16-aDn5blt2iiYJpzbe.htm)|Winter Wolf Elixir (Greater)|Elixir de loup arctique (supérieur)|officielle|
 |[consumable-16-CoMwPsQ8mPj5Evti.htm](equipment/consumable-16-CoMwPsQ8mPj5Evti.htm)|Truesight Potion|Potion de vision lucide|officielle|
 |[consumable-16-kicNrnZz1KjJYRVI.htm](equipment/consumable-16-kicNrnZz1KjJYRVI.htm)|Eagle Eye Elixir (Major)|Elixir d'oeil de faucon (majeur)|officielle|
@@ -1210,7 +1210,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-ZPY2dOaMYciIJv1Q.htm](equipment/equipment-00-ZPY2dOaMYciIJv1Q.htm)|Manacles (Poor)|Menottes (médiocre)|officielle|
 |[equipment-01-ckGYDocGEaelHfXF.htm](equipment/equipment-01-ckGYDocGEaelHfXF.htm)|Manacles (Simple)|Menottes (simple)|officielle|
 |[equipment-01-mRz8Jmk4Q06SsZpC.htm](equipment/equipment-01-mRz8Jmk4Q06SsZpC.htm)|Everburning Torch|Torche éternelle|changé|
-|[equipment-03-1r6StS0irdvi5JHY.htm](equipment/equipment-03-1r6StS0irdvi5JHY.htm)|Ventriloquist's Ring|Anneau de ventriloquie|officielle|
+|[equipment-03-1r6StS0irdvi5JHY.htm](equipment/equipment-03-1r6StS0irdvi5JHY.htm)|Ventriloquist's Ring|Anneau de ventriloquie|changé|
 |[equipment-03-3ld14dsn2RLu9owg.htm](equipment/equipment-03-3ld14dsn2RLu9owg.htm)|Musical Instrument (Virtuoso handheld)|Instruments de musique (Virtuose)|officielle|
 |[equipment-03-5GbC7RTgyAeaOcAI.htm](equipment/equipment-03-5GbC7RTgyAeaOcAI.htm)|Magnifying Glass|Loupe|officielle|
 |[equipment-03-BKdzb8hu3kZtKH3Z.htm](equipment/equipment-03-BKdzb8hu3kZtKH3Z.htm)|Bracelets of Dashing|Bracelet de fougue|changé|
@@ -1226,7 +1226,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-04-o1zKhvYUUc1hE2AE.htm](equipment/equipment-04-o1zKhvYUUc1hE2AE.htm)|Healer's Gloves|Gants du guérisseur|officielle|
 |[equipment-08-XszNvxnymWYRaoTp.htm](equipment/equipment-08-XszNvxnymWYRaoTp.htm)|Flaming|Enflammée|officielle|
 |[equipment-09-YCjVrQnHfOtpmjYW.htm](equipment/equipment-09-YCjVrQnHfOtpmjYW.htm)|Belt of the Five Kings|Ceinture des cinq rois|officielle|
-|[equipment-10-aKoMqPDmVzPI7Q20.htm](equipment/equipment-10-aKoMqPDmVzPI7Q20.htm)|Winged Boots|Bottes ailées|officielle|
+|[equipment-10-aKoMqPDmVzPI7Q20.htm](equipment/equipment-10-aKoMqPDmVzPI7Q20.htm)|Winged Boots|Bottes ailées|changé|
 |[equipment-10-dipcMOtBFxtmsjkS.htm](equipment/equipment-10-dipcMOtBFxtmsjkS.htm)|Cloak of the Bat|Cape de la chauve-souris|officielle|
 |[equipment-12-DwLaGtbBdCh2NFbT.htm](equipment/equipment-12-DwLaGtbBdCh2NFbT.htm)|Berserker's Cloak|Cape du Berseker|officielle|
 |[equipment-13-DCPsilr8wbPXxTUv.htm](equipment/equipment-13-DCPsilr8wbPXxTUv.htm)|Dancing|Dansante|officielle|
@@ -1304,13 +1304,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-01-T6Appwwl6nUl56Xj.htm](equipment/weapon-01-T6Appwwl6nUl56Xj.htm)|Tanglefoot Bag (Lesser)|Sacoche immobilisante (inférieur)|officielle|
 |[weapon-01-Xnqglykl3Cif8rN9.htm](equipment/weapon-01-Xnqglykl3Cif8rN9.htm)|Thunderstone (Lesser)|Pierre à tonnerre (inférieur)|officielle|
 |[weapon-01-yd3kEK21YknZLlcT.htm](equipment/weapon-01-yd3kEK21YknZLlcT.htm)|Alchemist's Fire (Lesser)|Feu Grégeois (inférieur)|officielle|
-|[weapon-04-WcuknnE3xYfSdbhm.htm](equipment/weapon-04-WcuknnE3xYfSdbhm.htm)|Animal Staff|Bâton animal|officielle|
+|[weapon-04-WcuknnE3xYfSdbhm.htm](equipment/weapon-04-WcuknnE3xYfSdbhm.htm)|Animal Staff|Bâton animal|changé|
 |[weapon-05-ZvIEJCY60fHqzl6r.htm](equipment/weapon-05-ZvIEJCY60fHqzl6r.htm)|Dagger of Venom|Dague venimeuse|officielle|
 |[weapon-06-tNue4PqJe85ZEE5v.htm](equipment/weapon-06-tNue4PqJe85ZEE5v.htm)|Bloodletting Kukri|Kukri de la saignée|officielle|
-|[weapon-08-bT9azgpc96DNbitA.htm](equipment/weapon-08-bT9azgpc96DNbitA.htm)|Animal Staff (Greater)|Bâton animal (supérieur)|officielle|
+|[weapon-08-bT9azgpc96DNbitA.htm](equipment/weapon-08-bT9azgpc96DNbitA.htm)|Animal Staff (Greater)|Bâton animal (supérieur)|changé|
 |[weapon-11-bheWnrBqMphBRUmn.htm](equipment/weapon-11-bheWnrBqMphBRUmn.htm)|Oathbow|Arc du serment|officielle|
-|[weapon-12-Oo7IpJQDSTmzUyzG.htm](equipment/weapon-12-Oo7IpJQDSTmzUyzG.htm)|Animal Staff (Major)|Bâton animal (majeur)|officielle|
-|[weapon-19-WCWdJmR5tYO7Aulb.htm](equipment/weapon-19-WCWdJmR5tYO7Aulb.htm)|Mattock of the Titans|Pioche des titans|officielle|
+|[weapon-12-Oo7IpJQDSTmzUyzG.htm](equipment/weapon-12-Oo7IpJQDSTmzUyzG.htm)|Animal Staff (Major)|Bâton animal (majeur)|changé|
+|[weapon-19-WCWdJmR5tYO7Aulb.htm](equipment/weapon-19-WCWdJmR5tYO7Aulb.htm)|Mattock of the Titans|Pioche des titans|changé|
 |[weapon-3Zv5hSXXtlaDatUv.htm](equipment/weapon-3Zv5hSXXtlaDatUv.htm)|Greatpick|Grand pic de guerre|officielle|
 |[weapon-5fu6dCtqhdBnHNqh.htm](equipment/weapon-5fu6dCtqhdBnHNqh.htm)|Morningstar|Morgenstern|officielle|
 |[weapon-62nnVQvGhoVLLl2K.htm](equipment/weapon-62nnVQvGhoVLLl2K.htm)|Crossbow|Arbalète|officielle|

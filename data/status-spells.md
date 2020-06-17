@@ -5,7 +5,7 @@
  * **changé**: 50
 
 
-Dernière mise à jour: 2020-06-15 21:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-16 22:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -225,7 +225,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-04-S7ylpCJyq0CYkux9.htm](spells/enc-04-S7ylpCJyq0CYkux9.htm)|Clownish Curse|
 |[enc-04-skvgOWNTitLehL0b.htm](spells/enc-04-skvgOWNTitLehL0b.htm)|Shared Nightmare|
 |[enc-05-BilnTGuXrof9Dt9D.htm](spells/enc-05-BilnTGuXrof9Dt9D.htm)|Synaptic Pulse|
-|[enc-05-GaRQlC9Yw1BGKHfN.htm](spells/enc-05-GaRQlC9Yw1BGKHfN.htm)|Crushing Dispair|
+|[enc-05-GaRQlC9Yw1BGKHfN.htm](spells/enc-05-GaRQlC9Yw1BGKHfN.htm)|Crushing Despair|
 |[enc-05-GP3wewkQXEPrLxYj.htm](spells/enc-05-GP3wewkQXEPrLxYj.htm)|Subconscious Suggestion|
 |[enc-05-x2LALaHXO7644GQA.htm](spells/enc-05-x2LALaHXO7644GQA.htm)|You're Mine|
 |[enc-05-y0Vy7iNL3ET8K00C.htm](spells/enc-05-y0Vy7iNL3ET8K00C.htm)|Dreaming Potential|

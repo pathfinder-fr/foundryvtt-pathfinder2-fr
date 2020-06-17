@@ -463,8 +463,8 @@
         },
         {
             "id": "Arcane School: Illusion",
-            "name": "Illusion (Arcane School: Illusion)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En tant qu’illusionniste, vous utilisez la magie pour créer des images, des chimères et des fantasmes pour dérouter vos ennemis. Vous savez que la perception est réalité. Vous ajoutez un sort d’illusion de niveau 1 (comme objet illusoire) à votre grimoire. Vous apprenez le sort d’école @Compendium[pf2e.spells-srd.fXdADBwxmBsU9xPk]{terrain déformé} (p. 395)&nbsp;</span></p>"
+            "name": "École arcanique : Illusion (Arcane School: Illusion)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En tant qu’illusionniste, vous utilisez la magie pour créer des images, des chimères et des fantasmes pour dérouter vos ennemis. Vous savez que la perception est réalité. Vous ajoutez un sort d’illusion de niveau 1 (comme @Compendium[pf2e.spells-srd.2oH5IufzdESuYxat]objet illusoire}) à votre grimoire. Vous apprenez le sort d’école @Compendium[pf2e.spells-srd.fXdADBwxmBsU9xPk]{terrain déformé}.&nbsp;</span></p>"
         },
         {
             "id": "Shield Block (Champion)",

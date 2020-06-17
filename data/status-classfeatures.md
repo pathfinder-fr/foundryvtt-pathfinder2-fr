@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 250
+ * **officielle**: 251
  * **aucune**: 1
- * **changé**: 3
+ * **changé**: 2
  * **libre**: 1
 
 
-Dernière mise à jour: 2020-06-15 21:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-16 22:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -251,7 +251,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wizard-01-au0lwQ1nAcNQwcGh.htm](classfeatures/wizard-01-au0lwQ1nAcNQwcGh.htm)|Arcane Bond|Lien arcanique|officielle|
 |[wizard-01-gCwcys8CnS102tji.htm](classfeatures/wizard-01-gCwcys8CnS102tji.htm)|Arcane School: Abjuration|École arcanique : Abjuration|officielle|
 |[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Evocation|Évocation|officielle|
-|[wizard-01-K6hG7nH8yjmbA0Q9.htm](classfeatures/wizard-01-K6hG7nH8yjmbA0Q9.htm)|Arcane School: Illusion|Illusion|changé|
+|[wizard-01-K6hG7nH8yjmbA0Q9.htm](classfeatures/wizard-01-K6hG7nH8yjmbA0Q9.htm)|Arcane School: Illusion|École arcanique : Illusion|officielle|
 |[wizard-01-M89l9FOnjHe63wD7.htm](classfeatures/wizard-01-M89l9FOnjHe63wD7.htm)|Arcane Thesis|Thèse arcanique|officielle|
 |[wizard-01-OAcxS625AXSGrQIC.htm](classfeatures/wizard-01-OAcxS625AXSGrQIC.htm)|Arcane Thesis: Spell Blending|Thèse arcanique : Mélange de sorts|officielle|
 |[wizard-01-qczCKdg47eAmCOUD.htm](classfeatures/wizard-01-qczCKdg47eAmCOUD.htm)|Arcane School: Universalist|École arcanique : universaliste|officielle|
