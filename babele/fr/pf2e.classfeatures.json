@@ -652,6 +652,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous manipulez la plus redoutable des magies primordiales et pouvez lancer un sort incroyablement puissant. Vous gagnez un unique emplacement de sort de niveau 10 et pouvez l’utiliser pour préparer un sort avec incantation primordiale. Contrairement aux autres emplacements de sort, vous ne gagnez pas plus d’emplacements de niveau 10 en augmentant de niveau, mais vous pouvez prendre le don @Compendium[pf2e.feats-srd.Chu6s3xVnpOB64GH]{Puissance du hiérophante} pour en obtenir un second.</span></p>"
         },
         {
+            "id": "Perpetual Potency (Chirurgeon)",
+            "name": "Efficacité perpétuelle (Chirurgien)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Antidote et anti-maladie moyens.&nbsp;</span></p>"
+        },
+        {
             "id": "Maestro",
             "name": "Virtuose",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre muse est un virtuose qui vous pousse à vous surpasser. Si c’est une créature, ce peut être une entité qui aime les représentations artistiques, comme un ange choral ou une azata lillende, ou peut-être @Compendium[pf2e.deities.gxwmzxUWBOhdgFSN]{Shélyn} si c’est une divinité. En tant que barde avec une muse virtuose, vous êtes convaincu de l’efficacité de vos capacités oratoires et musicales, ainsi qu’une véritable source d’inspiration pour vos alliés. Vous obtenez le don Représentation prolongée @Compendium[pf2e.feats-srd.sVjATEo8eqkAosNp]{Représentation prolongée} et ajoutez @Compendium[pf2e.spells-srd.szIyEsvihc5e1w8n]{Apaiser} à votre répertoire de sorts.&nbsp;</span></p>"

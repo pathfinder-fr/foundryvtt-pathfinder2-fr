@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-06-16 22:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-17 18:24 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -167,11 +167,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Acid Flask (Lesser)](equipment/weapon-01-M1k5QQc1qQLxzyCK.htm)|Fiole d’acide (inferieur)|`@Compendium[pf2e.equipment-srd.M1k5QQc1qQLxzyCK]`|
 |[Acid Flask (Major)](equipment/weapon-17-GttLYMT2welSpwCd.htm)||`@Compendium[pf2e.equipment-srd.GttLYMT2welSpwCd]`|
 |[Acid Flask (Moderate)](equipment/weapon-03-SgtqZxt26BdjUmEB.htm)||`@Compendium[pf2e.equipment-srd.SgtqZxt26BdjUmEB]`|
-|[Acrobat's Staff](equipment/weapon-06-17Oza88ts0ASngdw.htm)||`@Compendium[pf2e.equipment-srd.17Oza88ts0ASngdw]`|
+|[Acrobat's Staff](equipment/weapon-06-17Oza88ts0ASngdw.htm)|Bâton de l'Acrobate|`@Compendium[pf2e.equipment-srd.17Oza88ts0ASngdw]`|
 |[Adamantine Buckler (High-Grade)](equipment/armor-16-AbYyx61j1K4F27tC.htm)||`@Compendium[pf2e.equipment-srd.AbYyx61j1K4F27tC]`|
 |[Adamantine Buckler (Standard-Grade)](equipment/armor-08-4aVkppixLHPg940o.htm)|Targe en adamantium (qualité standard)|`@Compendium[pf2e.equipment-srd.4aVkppixLHPg940o]`|
 |[Adamantine Chunk](equipment/equipment-00-Zo5MZWVBKssVPEcv.htm)||`@Compendium[pf2e.equipment-srd.Zo5MZWVBKssVPEcv]`|
-|[Adamantine Ingot](equipment/equipment-00-8WH6ub3FVFYtcXCT.htm)||`@Compendium[pf2e.equipment-srd.8WH6ub3FVFYtcXCT]`|
+|[Adamantine Ingot](equipment/equipment-00-8WH6ub3FVFYtcXCT.htm)|Lingot d'adamantium|`@Compendium[pf2e.equipment-srd.8WH6ub3FVFYtcXCT]`|
 |[Adamantine Shield (High-Grade)](equipment/armor-16-rA1hULhhqOP2u4Ze.htm)||`@Compendium[pf2e.equipment-srd.rA1hULhhqOP2u4Ze]`|
 |[Adamantine Shield (Standard-Grade)](equipment/armor-08-2gMlhHlkQp3DuWw5.htm)|Bouclier en adamantium (qualité standard)|`@Compendium[pf2e.equipment-srd.2gMlhHlkQp3DuWw5]`|
 |[Addlebrain](equipment/consumable-07-d5aCuFS1dhKXhsZ0.htm)||`@Compendium[pf2e.equipment-srd.d5aCuFS1dhKXhsZ0]`|
@@ -689,7 +689,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Grappling Hook](equipment/equipment-6DCy7tEF1cxaIJMy.htm)||`@Compendium[pf2e.equipment-srd.6DCy7tEF1cxaIJMy]`|
 |[Grasping Snare](equipment/consumable-08-TFnr9Gq7VXPJu0GQ.htm)||`@Compendium[pf2e.equipment-srd.TFnr9Gq7VXPJu0GQ]`|
 |[Grasping Tree](equipment/equipment-03-kK4Dk9VeCbTlYkEL.htm)||`@Compendium[pf2e.equipment-srd.kK4Dk9VeCbTlYkEL]`|
-|[Graveroot](equipment/consumable-03-qQqAY59NgGNoy2xr.htm)||`@Compendium[pf2e.equipment-srd.qQqAY59NgGNoy2xr]`|
+|[Graveroot](equipment/consumable-03-qQqAY59NgGNoy2xr.htm)|Racine des tombes|`@Compendium[pf2e.equipment-srd.qQqAY59NgGNoy2xr]`|
 |[Greataxe](equipment/weapon-8COlYvHe6hKCXY8x.htm)|Grande hache|`@Compendium[pf2e.equipment-srd.8COlYvHe6hKCXY8x]`|
 |[Greatclub](equipment/weapon-kdGqnqbrwPzQfTsm.htm)||`@Compendium[pf2e.equipment-srd.kdGqnqbrwPzQfTsm]`|
 |[Greater Bloodbane](equipment/equipment-13-MxYpGSOtyvYGjsXk.htm)||`@Compendium[pf2e.equipment-srd.MxYpGSOtyvYGjsXk]`|
@@ -829,7 +829,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Leaper's Elixir (Lesser)](equipment/consumable-01-uG3xtNrs26scOVgW.htm)|Élixir du sauteur (inférieur)|`@Compendium[pf2e.equipment-srd.uG3xtNrs26scOVgW]`|
 |[Leather Armor](equipment/armor-M8z72tZUYe7KPclQ.htm)|Armure de cuir|`@Compendium[pf2e.equipment-srd.M8z72tZUYe7KPclQ]`|
 |[Leather flagon with Caydenite symbol](equipment/treasure-dloHmPtGDr8zSwJu.htm)||`@Compendium[pf2e.equipment-srd.dloHmPtGDr8zSwJu]`|
-|[Lethargy Poison](equipment/consumable-02-zo0ophqfKunJFxZN.htm)||`@Compendium[pf2e.equipment-srd.zo0ophqfKunJFxZN]`|
+|[Lethargy Poison](equipment/consumable-02-zo0ophqfKunJFxZN.htm)|Poison de léthargie|`@Compendium[pf2e.equipment-srd.zo0ophqfKunJFxZN]`|
 |[Lich Dust](equipment/consumable-09-ca2lzxfJxvuLDrKu.htm)||`@Compendium[pf2e.equipment-srd.ca2lzxfJxvuLDrKu]`|
 |[Lich Phylactery](equipment/equipment-12-NEbr7nKuiluJgBHT.htm)||`@Compendium[pf2e.equipment-srd.NEbr7nKuiluJgBHT]`|
 |[Life's Last Breath](equipment/weapon-18-1gi4mdZYNgPrzWHc.htm)||`@Compendium[pf2e.equipment-srd.1gi4mdZYNgPrzWHc]`|
@@ -875,7 +875,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Major Unmemorable Mantle](equipment/equipment-17-HcjEb07UjWchysx5.htm)||`@Compendium[pf2e.equipment-srd.HcjEb07UjWchysx5]`|
 |[Major painting by a legend](equipment/treasure-OzxNhgRFEgdTybFl.htm)||`@Compendium[pf2e.equipment-srd.OzxNhgRFEgdTybFl]`|
 |[Malachite](equipment/treasure-Ds8GJEQyRYamRIiB.htm)||`@Compendium[pf2e.equipment-srd.Ds8GJEQyRYamRIiB]`|
-|[Malyass Root Paste](equipment/consumable-07-76T49dJYfxIrPvQe.htm)||`@Compendium[pf2e.equipment-srd.76T49dJYfxIrPvQe]`|
+|[Malyass Root Paste](equipment/consumable-07-76T49dJYfxIrPvQe.htm)|Pâte de racine de malyasse|`@Compendium[pf2e.equipment-srd.76T49dJYfxIrPvQe]`|
 |[Mambele](equipment/weapon-00-MeA0g9xvWCbGxf2g.htm)||`@Compendium[pf2e.equipment-srd.MeA0g9xvWCbGxf2g]`|
 |[Manacles (Average)](equipment/equipment-03-lWeADBqMFwFlVIuV.htm)||`@Compendium[pf2e.equipment-srd.lWeADBqMFwFlVIuV]`|
 |[Manacles (Good)](equipment/equipment-09-5g0rE5yMsTH3E2LJ.htm)||`@Compendium[pf2e.equipment-srd.5g0rE5yMsTH3E2LJ]`|
@@ -1136,12 +1136,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sardonyx](equipment/treasure-AgsZScsqv3puTmZx.htm)||`@Compendium[pf2e.equipment-srd.AgsZScsqv3puTmZx]`|
 |[Satchel](equipment/equipment-d0gJh9Kzi8ItawSb.htm)|Sacoche|`@Compendium[pf2e.equipment-srd.d0gJh9Kzi8ItawSb]`|
 |[Savior Spike](equipment/consumable-02-qeTWg0TWw9CwMKCO.htm)||`@Compendium[pf2e.equipment-srd.qeTWg0TWw9CwMKCO]`|
-|[Sawtooth Saber](equipment/weapon-00-wkzxLpSe7LN6c5Ld.htm)||`@Compendium[pf2e.equipment-srd.wkzxLpSe7LN6c5Ld]`|
+|[Sawtooth Saber](equipment/weapon-00-wkzxLpSe7LN6c5Ld.htm)|Sabre dentelé|`@Compendium[pf2e.equipment-srd.wkzxLpSe7LN6c5Ld]`|
 |[Scale Mail](equipment/armor-YMQr577asquZIP65.htm)|Armure d'écailles|`@Compendium[pf2e.equipment-srd.YMQr577asquZIP65]`|
 |[Scholarly Journal](equipment/equipment-03-hywANJCzT7hMgWna.htm)||`@Compendium[pf2e.equipment-srd.hywANJCzT7hMgWna]`|
 |[Scholarly Journal Compendium](equipment/equipment-03-5rkGXSbaqBbY4MiR.htm)||`@Compendium[pf2e.equipment-srd.5rkGXSbaqBbY4MiR]`|
 |[Scimitar](equipment/weapon-grmaV4GdoGD7sKbn.htm)||`@Compendium[pf2e.equipment-srd.grmaV4GdoGD7sKbn]`|
-|[Scorpion Whip](equipment/weapon-00-UXjKXqsfWYiayeMD.htm)||`@Compendium[pf2e.equipment-srd.UXjKXqsfWYiayeMD]`|
+|[Scorpion Whip](equipment/weapon-00-UXjKXqsfWYiayeMD.htm)|Fouet scorpion|`@Compendium[pf2e.equipment-srd.UXjKXqsfWYiayeMD]`|
 |[Scour](equipment/consumable-08-8BDBsf55gP0UW07Y.htm)||`@Compendium[pf2e.equipment-srd.8BDBsf55gP0UW07Y]`|
 |[Scourge](equipment/weapon-00-I5DJUbAFGMwa6qCz.htm)|Fléau|`@Compendium[pf2e.equipment-srd.I5DJUbAFGMwa6qCz]`|
 |[Scrimshaw whale bone](equipment/treasure-8P87jwOAC3zMuzoF.htm)||`@Compendium[pf2e.equipment-srd.8P87jwOAC3zMuzoF]`|
@@ -2540,7 +2540,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Swift Tracker](feats/class-06-c5ns35FLvvxjimuH.htm)|Pistage accéléré|`@Compendium[pf2e.feats-srd.c5ns35FLvvxjimuH]`|
 |[Swipe (Barbarian)](feats/class-04-JbrVcOf82oFXk3mY.htm)|Frappe transversale (Barbare)|`@Compendium[pf2e.feats-srd.JbrVcOf82oFXk3mY]`|
 |[Swipe (Fighter)](feats/class-04-2gao4uIkEpCPPOIW.htm)|Frappe Transversale (Guerrier)|`@Compendium[pf2e.feats-srd.2gao4uIkEpCPPOIW]`|
-|[Swordmaster Dedication](feats/class-06-SHpVHkPxtQggD9Cf.htm)||`@Compendium[pf2e.feats-srd.SHpVHkPxtQggD9Cf]`|
+|[Swordmaster Dedication](feats/class-06-SHpVHkPxtQggD9Cf.htm)|Dévouement de Maître des épées|`@Compendium[pf2e.feats-srd.SHpVHkPxtQggD9Cf]`|
 |[Symphony of the Muse](feats/class-20-sfxLo9kz2WkCQiy4.htm)||`@Compendium[pf2e.feats-srd.sfxLo9kz2WkCQiy4]`|
 |[Syncretism](feats/class-01-yVC5pVZaWczYWGTa.htm)|Syncrétisme|`@Compendium[pf2e.feats-srd.yVC5pVZaWczYWGTa]`|
 |[Synergistic Spell](feats/class-20-WAWaew53zpTFVwQM.htm)||`@Compendium[pf2e.feats-srd.WAWaew53zpTFVwQM]`|

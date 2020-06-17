@@ -59,7 +59,7 @@
         {
             "id": "Take a Breather",
             "name": "Take a Breather",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Coût</strong> 1 Point de résoltuion</span></p>\n<hr>\n<p>Vous vous reposez pendant 10 minutes et récupérez votre endurance. Après avoir terminé cette activité, vous regagnez tous vos points d'Endurance.&nbsp;</p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Coût</strong> 1 Point de résolution</span></p>\n<hr>\n<p>Vous vous reposez pendant 10 minutes et récupérez votre endurance. Après avoir terminé cette activité, vous regagnez tous vos points d'Endurance.&nbsp;</p>"
         },
         {
             "id": "Mesmerizing Performance",

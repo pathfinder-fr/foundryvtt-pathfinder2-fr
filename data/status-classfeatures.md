@@ -1,20 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 251
- * **aucune**: 1
- * **changé**: 2
+ * **officielle**: 254
  * **libre**: 1
 
 
-Dernière mise à jour: 2020-06-16 22:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-17 18:24 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[alchemist-11-VS5vkqUQu4n7E28Y.htm](classfeatures/alchemist-11-VS5vkqUQu4n7E28Y.htm)|Perpetual Potency (Chirurgeon)|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -38,6 +30,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-11-8rEVg03QJ71ic3PP.htm](classfeatures/alchemist-11-8rEVg03QJ71ic3PP.htm)|Perpetual Potency (Bomber)|Efficacité perpétuelle (Artificier)|officielle|
 |[alchemist-11-llCLtEzMTQwkXZnQ.htm](classfeatures/alchemist-11-llCLtEzMTQwkXZnQ.htm)|Juggernaut (Alchemist)|Juggernaut (Alchimiste)|officielle|
 |[alchemist-11-mZFqRLYOQEqKA8ri.htm](classfeatures/alchemist-11-mZFqRLYOQEqKA8ri.htm)|Perpetual Potency (Mutagenist)|Efficacité perpétuelle (Mutagèniste)|officielle|
+|[alchemist-11-VS5vkqUQu4n7E28Y.htm](classfeatures/alchemist-11-VS5vkqUQu4n7E28Y.htm)|Perpetual Potency (Chirurgeon)|Efficacité perpétuelle (Chirurgien)|officielle|
 |[alchemist-13-1BKdOJ0HNL6Eg3xw.htm](classfeatures/alchemist-13-1BKdOJ0HNL6Eg3xw.htm)|Greater Field Discovery (Mutagenist)|Découverte de domaine de recherche supérieure (Mutagèniste)|officielle|
 |[alchemist-13-1orZOFZgAiSmm9RL.htm](classfeatures/alchemist-13-1orZOFZgAiSmm9RL.htm)|Weapon Specialization (Alchemist)|Spécialisation martiale (Alchimiste)|officielle|
 |[alchemist-13-8QAFgy9U8PxEa7Dw.htm](classfeatures/alchemist-13-8QAFgy9U8PxEa7Dw.htm)|Field Discovery (Bomber)|Découverte de domaine de recherche (Artificier)|officielle|
@@ -83,7 +76,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-09-AnZXGuP7Fa1mTiYJ.htm](classfeatures/bard-09-AnZXGuP7Fa1mTiYJ.htm)|Resolve (Bard)|Résolution (Barde)|officielle|
 |[bard-09-YdH1LNS2mT3LBVHn.htm](classfeatures/bard-09-YdH1LNS2mT3LBVHn.htm)|Great Fortitude (Bard)|Vigueur surhumaine (Barde)|officielle|
 |[bard-11-4lp8oG9A3zuqhPBS.htm](classfeatures/bard-11-4lp8oG9A3zuqhPBS.htm)|Bard Weapon Expertise|expertise avec les armes du barde|officielle|
-|[bard-11-gNoqbqe18TWpppYe.htm](classfeatures/bard-11-gNoqbqe18TWpppYe.htm)|Vigilant Senses (Bard)|Sens alerte (Barde)|changé|
+|[bard-11-gNoqbqe18TWpppYe.htm](classfeatures/bard-11-gNoqbqe18TWpppYe.htm)|Vigilant Senses (Bard)|Sens alerte (Barde)|officielle|
 |[bard-13-dtl8i1fYDNiumaay.htm](classfeatures/bard-13-dtl8i1fYDNiumaay.htm)|Light Armor Expertise (Bard)|Expertise avec les armures légères|officielle|
 |[bard-13-J5zCG0fMBFflfbSV.htm](classfeatures/bard-13-J5zCG0fMBFflfbSV.htm)|Weapon Specialization (Bard)|Spécialisation martiale (Barde)|officielle|
 |[bard-15-5UPkTPy5u2fZKqUW.htm](classfeatures/bard-15-5UPkTPy5u2fZKqUW.htm)|Master Spellcaster (Bard)|Maître incantateur (Barde)|officielle|
@@ -194,7 +187,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ranger-11-18eLwCcdjwikfGsx.htm](classfeatures/ranger-11-18eLwCcdjwikfGsx.htm)|Juggernaut (Ranger)|Juggernaut (Rôdeur)|officielle|
 |[ranger-11-cyGbjGdWLZOp4lCp.htm](classfeatures/ranger-11-cyGbjGdWLZOp4lCp.htm)|Medium Armor Expertise (Ranger)|Expertise avec les armures intermédiaires (Rôdeur)|officielle|
 |[ranger-11-RlwE99yKnhq8FUuy.htm](classfeatures/ranger-11-RlwE99yKnhq8FUuy.htm)|Wild Stride|Déplacement facilité en milieu naturel|officielle|
-|[ranger-13-oeGZz2WeFsAghvZ8.htm](classfeatures/ranger-13-oeGZz2WeFsAghvZ8.htm)|Weapon Mastery (Ranger)|Maîtrise martiale (Rôdeur)|changé|
+|[ranger-13-oeGZz2WeFsAghvZ8.htm](classfeatures/ranger-13-oeGZz2WeFsAghvZ8.htm)|Weapon Mastery (Ranger)|Maîtrise martiale (Rôdeur)|officielle|
 |[ranger-15-JzZn4IwIzHMntuIE.htm](classfeatures/ranger-15-JzZn4IwIzHMntuIE.htm)|Improved Evasion (Ranger)|Évasion améliorée (Rôdeur)|officielle|
 |[ranger-15-lYmeakwbBjqKyLHI.htm](classfeatures/ranger-15-lYmeakwbBjqKyLHI.htm)|Incredible Senses (Ranger)|Sens extraordinaires|officielle|
 |[ranger-15-ytP1RDTkFesbCLYB.htm](classfeatures/ranger-15-ytP1RDTkFesbCLYB.htm)|Greater Weapon Specialization (Ranger)|Spécialisation martiale supérieure (Rôdeur)|officielle|

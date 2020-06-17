@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 301
- * **aucune**: 997
+ * **officielle**: 307
+ * **aucune**: 989
  * **changé**: 21
- * **libre**: 7
+ * **libre**: 9
 
 
-Dernière mise à jour: 2020-06-16 22:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-17 18:24 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -60,7 +60,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-00-UMAXLDpI6YLSfYX1.htm](equipment/consumable-00-UMAXLDpI6YLSfYX1.htm)|Alcohol|
 |[consumable-01-3cWko20JPnjeoofV.htm](equipment/consumable-01-3cWko20JPnjeoofV.htm)|Feather Token (Ladder)|
 |[consumable-01-3V2U720YhW2nyGVx.htm](equipment/consumable-01-3V2U720YhW2nyGVx.htm)|Spike Snare|
-|[consumable-01-5fnEOtROEy2hkzDG.htm](equipment/consumable-01-5fnEOtROEy2hkzDG.htm)|Silvertongue Mutagen (Lesser)|
 |[consumable-01-AFX1V0Go9DqPWBlN.htm](equipment/consumable-01-AFX1V0Go9DqPWBlN.htm)|Alarm Snare|
 |[consumable-01-CeKPffF0FaEyhLMp.htm](equipment/consumable-01-CeKPffF0FaEyhLMp.htm)|Spear Frog Poison|
 |[consumable-01-iHw3qYBHTa5icO2X.htm](equipment/consumable-01-iHw3qYBHTa5icO2X.htm)|Energy Mutagen (Lesser)|
@@ -90,7 +89,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-02-ScclzFrjyB0YJlrb.htm](equipment/consumable-02-ScclzFrjyB0YJlrb.htm)|Black Adder Venom|
 |[consumable-02-Yew9oddFsH0KeDLh.htm](equipment/consumable-02-Yew9oddFsH0KeDLh.htm)|Hunter's Bane|
 |[consumable-02-yUYr8j65fC7EN0NY.htm](equipment/consumable-02-yUYr8j65fC7EN0NY.htm)|Thunder Snare|
-|[consumable-02-zo0ophqfKunJFxZN.htm](equipment/consumable-02-zo0ophqfKunJFxZN.htm)|Lethargy Poison|
 |[consumable-03-08f9MSriIN2hhLaB.htm](equipment/consumable-03-08f9MSriIN2hhLaB.htm)|Energy Mutagen (Moderate)|
 |[consumable-03-0CNSvLpeSM4aIfPJ.htm](equipment/consumable-03-0CNSvLpeSM4aIfPJ.htm)|Feather Step Stone|
 |[consumable-03-5KYn9J1Hj4IG3Z0X.htm](equipment/consumable-03-5KYn9J1Hj4IG3Z0X.htm)|Snapleaf|
@@ -100,7 +98,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-03-NSo0bFX7DGGjqKKl.htm](equipment/consumable-03-NSo0bFX7DGGjqKKl.htm)|Spellstrike Ammunition (Type I)|
 |[consumable-03-Oip645RjC5y57wFa.htm](equipment/consumable-03-Oip645RjC5y57wFa.htm)|Violet Venom|
 |[consumable-03-QN8UIz0nMcnLUWHu.htm](equipment/consumable-03-QN8UIz0nMcnLUWHu.htm)|Oil of Mending|
-|[consumable-03-qQqAY59NgGNoy2xr.htm](equipment/consumable-03-qQqAY59NgGNoy2xr.htm)|Graveroot|
 |[consumable-03-rfyWXgrVD2lm91CC.htm](equipment/consumable-03-rfyWXgrVD2lm91CC.htm)|Blue Dragonfly Poison|
 |[consumable-03-taAjenWKjBJpQyrE.htm](equipment/consumable-03-taAjenWKjBJpQyrE.htm)|Beacon Shot|
 |[consumable-03-UfoaNXFA7AWZiXxI.htm](equipment/consumable-03-UfoaNXFA7AWZiXxI.htm)|Shiver|
@@ -145,7 +142,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-06-StsE5POM7OSE36Ia.htm](equipment/consumable-06-StsE5POM7OSE36Ia.htm)|Iron Cube|
 |[consumable-06-ZEKmCg8K2hUHbmnT.htm](equipment/consumable-06-ZEKmCg8K2hUHbmnT.htm)|Salve of Antiparalysis|
 |[consumable-07-4tnPWyApPZP1P1yO.htm](equipment/consumable-07-4tnPWyApPZP1P1yO.htm)|Swift Block Cabochon|
-|[consumable-07-76T49dJYfxIrPvQe.htm](equipment/consumable-07-76T49dJYfxIrPvQe.htm)|Malyass Root Paste|
 |[consumable-07-9ignmYCACjfzkxDQ.htm](equipment/consumable-07-9ignmYCACjfzkxDQ.htm)|Serum of Sex Shift|
 |[consumable-07-aBOPYlfHAcXUmhF7.htm](equipment/consumable-07-aBOPYlfHAcXUmhF7.htm)|Giant Wasp Venom|
 |[consumable-07-d5aCuFS1dhKXhsZ0.htm](equipment/consumable-07-d5aCuFS1dhKXhsZ0.htm)|Addlebrain|
@@ -320,7 +316,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-3MGQ8KxH7HNA8THZ.htm](equipment/equipment-00-3MGQ8KxH7HNA8THZ.htm)|Jellyfish Lamp|
 |[equipment-00-4AnNkIA5Ux6ePy7r.htm](equipment/equipment-00-4AnNkIA5Ux6ePy7r.htm)|Orichalcum Ingot|
 |[equipment-00-5NHciGwLcVJwEjQu.htm](equipment/equipment-00-5NHciGwLcVJwEjQu.htm)|Darkwood Branch|
-|[equipment-00-8WH6ub3FVFYtcXCT.htm](equipment/equipment-00-8WH6ub3FVFYtcXCT.htm)|Adamantine Ingot|
 |[equipment-00-B0gbs7xKQc2J7AiV.htm](equipment/equipment-00-B0gbs7xKQc2J7AiV.htm)|Mithral Chunk|
 |[equipment-00-bkbL0YitEh46Ne0f.htm](equipment/equipment-00-bkbL0YitEh46Ne0f.htm)|Armored Skirt|
 |[equipment-00-eQjibJl41aQpQ47d.htm](equipment/equipment-00-eQjibJl41aQpQ47d.htm)|Cold Iron Ingot|
@@ -863,9 +858,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-RhfhVSfiH23v4U7k.htm](equipment/weapon-00-RhfhVSfiH23v4U7k.htm)|Juggling Club|
 |[weapon-00-Sarxo8kSrJs2qJEw.htm](equipment/weapon-00-Sarxo8kSrJs2qJEw.htm)|Urumi|
 |[weapon-00-uM0OlCC1Sh6OLdNn.htm](equipment/weapon-00-uM0OlCC1Sh6OLdNn.htm)|Throwing Knife|
-|[weapon-00-UXjKXqsfWYiayeMD.htm](equipment/weapon-00-UXjKXqsfWYiayeMD.htm)|Scorpion Whip|
 |[weapon-00-vsJ0zvYZzduP7rtD.htm](equipment/weapon-00-vsJ0zvYZzduP7rtD.htm)|Tekko-kagi|
-|[weapon-00-wkzxLpSe7LN6c5Ld.htm](equipment/weapon-00-wkzxLpSe7LN6c5Ld.htm)|Sawtooth Saber|
 |[weapon-00-xu3azdMCIa53Oe1f.htm](equipment/weapon-00-xu3azdMCIa53Oe1f.htm)|Meteor Hammer|
 |[weapon-00-YLb6XnT7OxAVGL5m.htm](equipment/weapon-00-YLb6XnT7OxAVGL5m.htm)|Khopesh|
 |[weapon-00-YnPYSKCQBLIOtm0J.htm](equipment/weapon-00-YnPYSKCQBLIOtm0J.htm)|Aklys|
@@ -895,7 +888,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-05-2KNAip9W6IoBrfIU.htm](equipment/weapon-05-2KNAip9W6IoBrfIU.htm)|Caterwaul Sling|
 |[weapon-05-Dti9PZZoty6We8OV.htm](equipment/weapon-05-Dti9PZZoty6We8OV.htm)|Cinderclaw Gauntlet|
 |[weapon-05-OKAR7GIyJac8dmsi.htm](equipment/weapon-05-OKAR7GIyJac8dmsi.htm)|Singing Sword|
-|[weapon-06-17Oza88ts0ASngdw.htm](equipment/weapon-06-17Oza88ts0ASngdw.htm)|Acrobat's Staff|
 |[weapon-06-6IJZamE4JkERQumf.htm](equipment/weapon-06-6IJZamE4JkERQumf.htm)|Staff of Conjuration|
 |[weapon-06-96VBd7CV8NQyv3lP.htm](equipment/weapon-06-96VBd7CV8NQyv3lP.htm)|Staff of Evocation|
 |[weapon-06-c40Zn2TCRr3inIBA.htm](equipment/weapon-06-c40Zn2TCRr3inIBA.htm)|Staff of Necromancy|
@@ -1093,6 +1085,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[backpack-OdVDPN9vIpu3Zud3.htm](equipment/backpack-OdVDPN9vIpu3Zud3.htm)|Chest|Coffre|officielle|
 |[backpack-rxXT8KPBXa08feFD.htm](equipment/backpack-rxXT8KPBXa08feFD.htm)|Adventurer's pack|Pack d'aventurier|changé|
 |[consumable-01-2RuepCemJhrpKKao.htm](equipment/consumable-01-2RuepCemJhrpKKao.htm)|Healing Potion (Minor)|Potion de guérison|officielle|
+|[consumable-01-5fnEOtROEy2hkzDG.htm](equipment/consumable-01-5fnEOtROEy2hkzDG.htm)|Silvertongue Mutagen (Lesser)|Mutagène de langue dorée (inférieur)|officielle|
 |[consumable-01-7Y2yOr4ltpP2tyuL.htm](equipment/consumable-01-7Y2yOr4ltpP2tyuL.htm)|Eagle Eye Elixir (Lesser)|Elixir d'oeil du faucon (mineure)|officielle|
 |[consumable-01-ChFYb3A94KNByRui.htm](equipment/consumable-01-ChFYb3A94KNByRui.htm)|Quicksilver Mutagen (Lesser)|Mutagène de Vif-argent (inférieur)|officielle|
 |[consumable-01-clyXfh0aVXgij2Hb.htm](equipment/consumable-01-clyXfh0aVXgij2Hb.htm)|Wolf Fang|Croc de loup|officielle|
@@ -1125,6 +1118,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-02-j2CHumvbjmlLQX2i.htm](equipment/consumable-02-j2CHumvbjmlLQX2i.htm)|Oil of Potency|Huile de puissance|officielle|
 |[consumable-02-VPvyyQXjn2HBjnTS.htm](equipment/consumable-02-VPvyyQXjn2HBjnTS.htm)|Effervescent Ampoule|Ampoule effervescente|officielle|
 |[consumable-02-zM9VX3QwM81DzDUA.htm](equipment/consumable-02-zM9VX3QwM81DzDUA.htm)|Bravo's Brew (Lesser)|Breuvage de bravoure (inférieur)|officielle|
+|[consumable-02-zo0ophqfKunJFxZN.htm](equipment/consumable-02-zo0ophqfKunJFxZN.htm)|Lethargy Poison|Poison de léthargie|officielle|
 |[consumable-03-1OBPi1QuU0fRgjLV.htm](equipment/consumable-03-1OBPi1QuU0fRgjLV.htm)|Bestial Mutagen (Moderate)|Mutagène bestiale (modéré)|officielle|
 |[consumable-03-3P97TRcorxMNYC72.htm](equipment/consumable-03-3P97TRcorxMNYC72.htm)|Serene Mutagen (Moderate)|Mutagène de sérénité (modéré)|officielle|
 |[consumable-03-aZm1x9tpvBAT8YCd.htm](equipment/consumable-03-aZm1x9tpvBAT8YCd.htm)|Cytillesh Oil|Hule de Cytillesh|officielle|
@@ -1133,6 +1127,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-03-eEnzHpPEbdGgRETM.htm](equipment/consumable-03-eEnzHpPEbdGgRETM.htm)|Vine Arrow|Flèche de lierre|officielle|
 |[consumable-03-GLdZfybWk6jAqlah.htm](equipment/consumable-03-GLdZfybWk6jAqlah.htm)|Cognitive Mutagen (Moderate)|Mutagènhe cognitif (modéré)|officielle|
 |[consumable-03-o1wCUtfXAD8hCfS7.htm](equipment/consumable-03-o1wCUtfXAD8hCfS7.htm)|Silvertongue Mutagen (Moderate)|Mutagène de langue dorée (modéré)|officielle|
+|[consumable-03-qQqAY59NgGNoy2xr.htm](equipment/consumable-03-qQqAY59NgGNoy2xr.htm)|Graveroot|Racine des tombes|officielle|
 |[consumable-03-RcQ4ZIzRK2xLf4G5.htm](equipment/consumable-03-RcQ4ZIzRK2xLf4G5.htm)|Sleep Arrow|Flèche soporifique|officielle|
 |[consumable-03-WQhnfj1LbrEzvh8z.htm](equipment/consumable-03-WQhnfj1LbrEzvh8z.htm)|Potion of Water Breathing|Potion de respiration aquatique|officielle|
 |[consumable-03-XQx6QIQY4sNGlFzY.htm](equipment/consumable-03-XQx6QIQY4sNGlFzY.htm)|Juggernaut Mutagen (Moderate)|Mutagène de juggernaut|officielle|
@@ -1162,6 +1157,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-06-V2TUEoiDwJ125qzN.htm](equipment/consumable-06-V2TUEoiDwJ125qzN.htm)|Potion of Resistance (Lesser)|Potion de résistance (inférieur)|officielle|
 |[consumable-07-3fSc2e5xRjJ7w4g3.htm](equipment/consumable-07-3fSc2e5xRjJ7w4g3.htm)|Gold Dragon's Breath Potion (Young)|Potion de souffle de dragon d'or (jeune)|officielle|
 |[consumable-07-6eQvHNHf1IC2X5Rx.htm](equipment/consumable-07-6eQvHNHf1IC2X5Rx.htm)|Leaper's Elixir (Greater)|Elixir du sauteur (supérieur)|officielle|
+|[consumable-07-76T49dJYfxIrPvQe.htm](equipment/consumable-07-76T49dJYfxIrPvQe.htm)|Malyass Root Paste|Pâte de racine de malyasse|officielle|
 |[consumable-07-fkGHYeGVK6O2VW1s.htm](equipment/consumable-07-fkGHYeGVK6O2VW1s.htm)|Red Dragon's Breath Potion (Young)|Potion de souffle de dragon rouge (jeune)|officielle|
 |[consumable-07-LKwI47eeJC0Y4hGu.htm](equipment/consumable-07-LKwI47eeJC0Y4hGu.htm)|Silver Dragon's Breath Potion (Young)|Potion de souffle de dragon d'argent (jeune)|officielle|
 |[consumable-07-OcBPjVplvy2GbQ8P.htm](equipment/consumable-07-OcBPjVplvy2GbQ8P.htm)|Comprehension Elixir (Greater)|Elixir de compréhension (supérieur)|officielle|
@@ -1200,6 +1196,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-MKSeXwUm56c15MZa.htm](equipment/consumable-MKSeXwUm56c15MZa.htm)|Sling Bullets|Billes de fronde|officielle|
 |[consumable-Ti4gWILk69LPxKuU.htm](equipment/consumable-Ti4gWILk69LPxKuU.htm)|Candle|Bougie|officielle|
 |[consumable-w2ENw2VMPcsbif8g.htm](equipment/consumable-w2ENw2VMPcsbif8g.htm)|Arrows|Flèche|officielle|
+|[equipment-00-8WH6ub3FVFYtcXCT.htm](equipment/equipment-00-8WH6ub3FVFYtcXCT.htm)|Adamantine Ingot|Lingot d'adamantium|officielle|
 |[equipment-00-JlClrm1WfJ45oWcS.htm](equipment/equipment-00-JlClrm1WfJ45oWcS.htm)|Tent (Four-Person)|Tente (4 personnes)|officielle|
 |[equipment-00-k6xZkDUpF7E1Totd.htm](equipment/equipment-00-k6xZkDUpF7E1Totd.htm)|Alchemist's Lab|Laboratoire d’alchimie|officielle|
 |[equipment-00-L9ZV076913otGtiB.htm](equipment/equipment-00-L9ZV076913otGtiB.htm)|Rations|Rations|officielle|
@@ -1294,6 +1291,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-sAjzLXgA2LnIwpBM.htm](equipment/weapon-00-sAjzLXgA2LnIwpBM.htm)|Orc Knuckle Dagger|Dague de poing orque|officielle|
 |[weapon-00-TDrO7Xdyn7juFy3c.htm](equipment/weapon-00-TDrO7Xdyn7juFy3c.htm)|Kukri|Kukri|officielle|
 |[weapon-00-u2u6dkr01AB34tyA.htm](equipment/weapon-00-u2u6dkr01AB34tyA.htm)|Sai|Saï|officielle|
+|[weapon-00-UXjKXqsfWYiayeMD.htm](equipment/weapon-00-UXjKXqsfWYiayeMD.htm)|Scorpion Whip|Fouet scorpion|libre|
+|[weapon-00-wkzxLpSe7LN6c5Ld.htm](equipment/weapon-00-wkzxLpSe7LN6c5Ld.htm)|Sawtooth Saber|Sabre dentelé|officielle|
 |[weapon-00-Y1dkRsRd1Z7Jf2y6.htm](equipment/weapon-00-Y1dkRsRd1Z7Jf2y6.htm)|Katana|Katana|officielle|
 |[weapon-00-YnwEttFE1bJacLDh.htm](equipment/weapon-00-YnwEttFE1bJacLDh.htm)|Horsechopper|Coupecheval|officielle|
 |[weapon-00-zi9ovfoRp2fMhfpO.htm](equipment/weapon-00-zi9ovfoRp2fMhfpO.htm)|Spiked Chain|Chaîne cloutée|officielle|
@@ -1306,6 +1305,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-01-yd3kEK21YknZLlcT.htm](equipment/weapon-01-yd3kEK21YknZLlcT.htm)|Alchemist's Fire (Lesser)|Feu Grégeois (inférieur)|officielle|
 |[weapon-04-WcuknnE3xYfSdbhm.htm](equipment/weapon-04-WcuknnE3xYfSdbhm.htm)|Animal Staff|Bâton animal|changé|
 |[weapon-05-ZvIEJCY60fHqzl6r.htm](equipment/weapon-05-ZvIEJCY60fHqzl6r.htm)|Dagger of Venom|Dague venimeuse|officielle|
+|[weapon-06-17Oza88ts0ASngdw.htm](equipment/weapon-06-17Oza88ts0ASngdw.htm)|Acrobat's Staff|Bâton de l'Acrobate|libre|
 |[weapon-06-tNue4PqJe85ZEE5v.htm](equipment/weapon-06-tNue4PqJe85ZEE5v.htm)|Bloodletting Kukri|Kukri de la saignée|officielle|
 |[weapon-08-bT9azgpc96DNbitA.htm](equipment/weapon-08-bT9azgpc96DNbitA.htm)|Animal Staff (Greater)|Bâton animal (supérieur)|changé|
 |[weapon-11-bheWnrBqMphBRUmn.htm](equipment/weapon-11-bheWnrBqMphBRUmn.htm)|Oathbow|Arc du serment|officielle|

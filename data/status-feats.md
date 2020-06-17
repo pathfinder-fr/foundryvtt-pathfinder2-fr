@@ -1,12 +1,12 @@
 # État de la traduction (feats)
 
- * **libre**: 104
+ * **libre**: 106
  * **officielle**: 590
- * **aucune**: 445
- * **changé**: 61
+ * **aucune**: 444
+ * **changé**: 60
 
 
-Dernière mise à jour: 2020-06-16 22:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-17 18:24 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -162,7 +162,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-06-lt9bQDI7ZXPA7wPw.htm](feats/class-06-lt9bQDI7ZXPA7wPw.htm)|Advanced Fury|
 |[class-06-rXY2fhyteYhaQnMl.htm](feats/class-06-rXY2fhyteYhaQnMl.htm)|Advanced Trickery|
 |[class-06-S25iRw2X9hmGRMyO.htm](feats/class-06-S25iRw2X9hmGRMyO.htm)|Advanced Blood Potency|
-|[class-06-SHpVHkPxtQggD9Cf.htm](feats/class-06-SHpVHkPxtQggD9Cf.htm)|Swordmaster Dedication|
 |[class-06-soHLtpMM9h3AE7PD.htm](feats/class-06-soHLtpMM9h3AE7PD.htm)|Expert Alchemy|
 |[class-06-t5zeg3m9rEnWnYXY.htm](feats/class-06-t5zeg3m9rEnWnYXY.htm)|Counter Perform|
 |[class-06-Tg3Iyq55xW9PTSW9.htm](feats/class-06-Tg3Iyq55xW9PTSW9.htm)|Advanced Arcana|
@@ -608,7 +607,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-02-5UQagWB13Z8xR5Z6.htm](feats/archetype-02-5UQagWB13Z8xR5Z6.htm)|Sorcerer Dedication|Dévouement de l'ensorceleur|officielle|
 |[archetype-02-bCWieNDC1CD35tin.htm](feats/archetype-02-bCWieNDC1CD35tin.htm)|Rogue Dedication|Dévouement du roublard|officielle|
 |[archetype-02-bWYnjNa2RknMoibg.htm](feats/archetype-02-bWYnjNa2RknMoibg.htm)|Lastwall Sentry Dedication|Dévouement de Sentinelle de Dernier Rempart|changé|
-|[archetype-02-c4ao7b2T92fiM8jR.htm](feats/archetype-02-c4ao7b2T92fiM8jR.htm)|Living Monolith Dedication|Dévouement de Monolithe vivant|changé|
+|[archetype-02-c4ao7b2T92fiM8jR.htm](feats/archetype-02-c4ao7b2T92fiM8jR.htm)|Living Monolith Dedication|Dévouement de Monolithe vivant|libre|
 |[archetype-02-CJMkxlxHiHZQYDCz.htm](feats/archetype-02-CJMkxlxHiHZQYDCz.htm)|Alchemist Dedication|Dévouement de l'alchimiste|officielle|
 |[archetype-02-dIH771mt4PcVTyAs.htm](feats/archetype-02-dIH771mt4PcVTyAs.htm)|Bard Dedication|Dévouement du barde|officielle|
 |[archetype-02-eHjqNXgylSuvA887.htm](feats/archetype-02-eHjqNXgylSuvA887.htm)|Student of Perfection Dedication|Dévouement de l'Étudiant de la Perfection|changé|
@@ -943,6 +942,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-06-ozvYhY4hG1deXly8.htm](feats/class-06-ozvYhY4hG1deXly8.htm)|Directional Bombs|Bombes directionnelles|officielle|
 |[class-06-S14S52HjszTgIy4l.htm](feats/class-06-S14S52HjszTgIy4l.htm)|Crane Flutter|Battement d'aile de la grue|officielle|
 |[class-06-SELSj1vvVLx5cP72.htm](feats/class-06-SELSj1vvVLx5cP72.htm)|Dragon Roar|Rugissement du dragon|officielle|
+|[class-06-SHpVHkPxtQggD9Cf.htm](feats/class-06-SHpVHkPxtQggD9Cf.htm)|Swordmaster Dedication|Dévouement de Maître des épées|libre|
 |[class-06-sv4LeEbkOJyLen10.htm](feats/class-06-sv4LeEbkOJyLen10.htm)|Debilitating Bomb|Bombe incapacitante|officielle|
 |[class-06-tpkJXDpSuGznfzGJ.htm](feats/class-06-tpkJXDpSuGznfzGJ.htm)|Mature Animal Companion (Ranger)|Compagnon animal adulte (Rodeur)|officielle|
 |[class-06-Trj5azJlaOk5jgBi.htm](feats/class-06-Trj5azJlaOk5jgBi.htm)|Divine Weapon|Arme divine|officielle|
