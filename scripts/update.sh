@@ -23,4 +23,7 @@ echo "Generating Babele file"
 echo "Updating status pages"
 ./generate-status.py
 
+echo "Change version"
+./change-version.sh
+
 echo "Done"
