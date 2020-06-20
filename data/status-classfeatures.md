@@ -4,7 +4,7 @@
  * **libre**: 1
 
 
-Dernière mise à jour: 2020-06-18 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-20 15:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -168,7 +168,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[monk-13-0iidKkzC2yy13lIf.htm](classfeatures/monk-13-0iidKkzC2yy13lIf.htm)|Master Strikes|Frappes de maître|officielle|
 |[monk-13-95LI24ZSx0d4qfKX.htm](classfeatures/monk-13-95LI24ZSx0d4qfKX.htm)|Graceful Mastery|Maîtrise gracieuse|officielle|
 |[monk-15-1m401NddgIh9llnJ.htm](classfeatures/monk-15-1m401NddgIh9llnJ.htm)|Third Path to Perfection|Troisème voie vers la Perfection|officielle|
-|[monk-15-KKTfV9jhuxJuI6Qz.htm](classfeatures/monk-15-KKTfV9jhuxJuI6Qz.htm)|Greater Weapon Specialization (Monk)|Spécialisation amrtiale supérieure (Moine)|officielle|
+|[monk-15-KKTfV9jhuxJuI6Qz.htm](classfeatures/monk-15-KKTfV9jhuxJuI6Qz.htm)|Greater Weapon Specialization (Monk)|Spécialisation martiale supérieure (Moine)|officielle|
 |[monk-17-5cthRUkRqRtduVvN.htm](classfeatures/monk-17-5cthRUkRqRtduVvN.htm)|Adamantine Strikes|Frappes d'adamantium|officielle|
 |[monk-17-JWDfzYub3JfuEtth.htm](classfeatures/monk-17-JWDfzYub3JfuEtth.htm)|Graceful Legend|Légende gracieuse|officielle|
 |[monk-19-KmTfg7Sg5va4yU00.htm](classfeatures/monk-19-KmTfg7Sg5va4yU00.htm)|Perfected Form|Forme parfaite|officielle|

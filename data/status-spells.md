@@ -1,11 +1,11 @@
 # État de la traduction (spells)
 
- * **officielle**: 138
- * **aucune**: 484
+ * **officielle**: 139
+ * **aucune**: 483
  * **changé**: 50
 
 
-Dernière mise à jour: 2020-06-18 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-20 15:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -163,7 +163,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[div-05-Ek5XI0aEdZhBgm21.htm](spells/div-05-Ek5XI0aEdZhBgm21.htm)|Prying Eye|
 |[div-05-gfVXAW95YWRz0pJC.htm](spells/div-05-gfVXAW95YWRz0pJC.htm)|Telepathic Bond|
 |[div-05-OAt2ZEns1gIOCgrn.htm](spells/div-05-OAt2ZEns1gIOCgrn.htm)|Synesthesia|
-|[div-05-R9xqCBblkS5KE4y7.htm](spells/div-05-R9xqCBblkS5KE4y7.htm)|Sending|
 |[div-05-SwUiVavHKMWG7t5K.htm](spells/div-05-SwUiVavHKMWG7t5K.htm)|Tongues|
 |[div-06-7DN13ILADW2N9Z1t.htm](spells/div-06-7DN13ILADW2N9Z1t.htm)|Commune|
 |[div-06-B4dDkYsHFo1H0CIF.htm](spells/div-06-B4dDkYsHFo1H0CIF.htm)|Awaken Animal|
@@ -554,6 +553,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[div-02-jwK43yKsHTkJQvQ9.htm](spells/div-02-jwK43yKsHTkJQvQ9.htm)|See Invisibility|Détection de l'invisibilité|officielle|
 |[div-02-pZTqGY1MLRjgKasV.htm](spells/div-02-pZTqGY1MLRjgKasV.htm)|Darkvision|Vision dans le noir|officielle|
 |[div-02-vTQvfYu2llKQedmY.htm](spells/div-02-vTQvfYu2llKQedmY.htm)|Comprehend Language|Compréhension des langues|officielle|
+|[div-05-R9xqCBblkS5KE4y7.htm](spells/div-05-R9xqCBblkS5KE4y7.htm)|Sending|Communication à distance|officielle|
 |[enc-00-4gBIw4IDrSfFHik4.htm](spells/enc-00-4gBIw4IDrSfFHik4.htm)|Daze|Hébétement|changé|
 |[enc-00-f0Z5mqGA6Yu79B8x.htm](spells/enc-00-f0Z5mqGA6Yu79B8x.htm)|Inspire Competence|Inspiration talentueuse|officielle|
 |[enc-00-IAjvwqgiDr3qGYxY.htm](spells/enc-00-IAjvwqgiDr3qGYxY.htm)|Inspire Courage|Inspiration vaillante|officielle|

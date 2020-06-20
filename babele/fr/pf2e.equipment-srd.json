@@ -23,8 +23,13 @@
         },
         {
             "id": "Acid Flask (Lesser)",
-            "name": "Fiole d’acide (inferieur)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette fiole renferme un acide corrosif qui inflige 1 dégât d’acide, les dégâts persistants indiqués et les dégâts d’éclaboussure d’acide indiqués. Plusieurs types de bombes donnent un bonus d’objet aux jets d’attaque.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La fiole inflige 1d6 dégâts d’acide persistants et 1 dégât d’éclaboussure d’acide.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activate</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Strike</span></p>"
+            "name": "Fiole d’acide (inférieur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide, les dégâts persistants et les dégâts d’éclaboussure d’acide indiqués.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La fiole inflige 1d6 dégâts d’acide persistants et 1 dégât d’éclaboussure d’acide.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Frapper</span></p>"
+        },
+        {
+            "id": "Chain (10 feet)",
+            "name": "Chaine (3 m)",
+            "description": "<p>3m de chaînes.</p>"
         },
         {
             "id": "Oil of Potency",
@@ -154,7 +159,7 @@
         {
             "id": "Adamantine Buckler (Standard-Grade)",
             "name": "Targe en adamantium (qualité standard)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</span></p>\n<p>La targe a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 50 po d’adamantium&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</span></p>\n<p>La targe a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 50 po d’adamantium.&nbsp;</span></p>"
         },
         {
             "id": "Climbing Kit",
@@ -219,7 +224,7 @@
         {
             "id": "Stone Bullet",
             "name": "Bille de pierre",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette bille de fronde ressemble à un œil de serpent pétrifié. Une créa‑ ture touchée par une bille de pierre activée est soumise aux effets du sort de niveau 6 chair en pierre (DD 34). &nbsp;<br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de <em>chair en pierre</em>.</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette bille de fronde ressemble à un œil de serpent pétrifié. Une créa‑ ture touchée par une bille de pierre activée est soumise aux effets du sort de niveau 6 @Compendium[pf2e.spells-srd.znv4ECL7ZtuiagtA]{chair en pierre} (DD 34). &nbsp;<br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de <em>chair en pierre</em>.</span></p>"
         },
         {
             "id": "Bastard Sword",
@@ -237,9 +242,19 @@
             "description": "<p><span class=\"fontstyle0\"> créée par les gobelins pour combattre les chevaux, cette arme est pour l’essentiel un long manche se terminant par une lame avec un gros crochet. </span> </p>"
         },
         {
+            "id": "Alabaster idol",
+            "name": "idôle en albâtre",
+            "description": ""
+        },
+        {
             "id": "Spellbook (Blank)",
             "name": "Grimoire",
             "description": "<p><span class=\"fontstyle0\">Un grimoire contient les connaissances écrites nécessaires pour apprendre et préparer divers sorts, une nécessité pour les magiciens (qui en obtiennent généralement un gratuitement) et un luxe utile pour les autres incantateurs qui souhaitent apprendre des sorts supplémentaires. Chaque grimoire peut contenir jusqu’à 100 sorts. Le prix indiqué correspond à un grimoire vierge.</span> </p>"
+        },
+        {
+            "id": "Citrine",
+            "name": "Citrine",
+            "description": ""
         },
         {
             "id": "Dwarven War Axe",
@@ -255,6 +270,11 @@
             "id": "Leather Armor",
             "name": "Armure de cuir",
             "description": "<p><span class=\"fontstyle0\"> la seconde peau épaisse de cette armure disperse la force du choc afin de réduire les dégâts causés par des coups contondants. Vous gagnez une résistance aux dégâts contondants égale à 1 + la valeur de la rune de puissance de l’armure pour une armure intermédiaire, ou 2 + la valeur de la rune de puissance de l’armure pour une armure lourde. </span> </p>"
+        },
+        {
+            "id": "Alabaster",
+            "name": "Albâtre",
+            "description": ""
         },
         {
             "id": "Dancing",
@@ -397,6 +417,11 @@
             "description": "<p>cette arme d’hast comporte une longue lame courbe, souvent unilatérale, avec un crochet dépassant du côté émoussé de la lame, permettant ainsi à son porteur d’effectuer à distance un croc-en-jambe à ses adversaires. Sa hampe fait généralement 2,40 m de long.</p>"
         },
         {
+            "id": "Blowgun",
+            "name": "sarbacane",
+            "description": "<p><span class=\"fontstyle0\">ce long tube étroit tire des fléchettes de sarbacane en se servant uniquement de la puissance du souffle expiré.</span> </p>"
+        },
+        {
             "id": "Potion of Quickness",
             "name": "Potion de rapidité",
             "description": "<p>En buvant cette potion argentée, vous bénéficiez des effets de rapidité pendant 1 min.</p>"
@@ -457,6 +482,11 @@
             "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant. Elle inflige les dégâts de son et d’éclaboussure de son indiqués. Chaque créature dans un rayon de 3 m autour de l’espace où elle a explosé doit réussir un jet de Vigueur contre le DD indiqué ou être sourde jusqu’à la fin de son prochain tour. Plusieurs types de pierre donnent un bonus d’objet aux jets d’attaque. La bombe inflige 1d4 dégâts de son et 1 dégât d’éclaboussure de son. Le DD est de 17.</p>"
         },
         {
+            "id": "Bladed Scarf",
+            "name": "Écharpe à lame",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les fines plaques de métal entrelacées tout le long de cette longue écharpe transforme cet accessoire de mode en une arme mortelle.&nbsp;</span></p>"
+        },
+        {
             "id": "Sturdy Shield (Greater)",
             "name": "Bouclier renforcé (supérieur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 15, 120 PV et un SR de 60&nbsp;</span></p>"
@@ -475,6 +505,16 @@
             "id": "Feather Token (Holly Bush)",
             "name": "Plume magique (buisson de houx)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce morceau de pierre plate et solide a été spécialement préparé pour graver une rune fondamentale ou une rune de propriété magique. Vous ne pouvez graver qu’une seule rune par pierre. Une fois la pierre gravée, elle adopte le trait de l’école de magie de la rune tracée. Lorsqu’une rune est transférée de la pierre runique à un autre objet, la pierre se fend et se détruit. Le prix indiqué corres‑ pond à une rune vierge, si elle est gravée, il faut lui ajouter le prix de la rune.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque cette plume est activée, elle se transforme en buisson de houx vivant qui emplit une case. Il offre un abri standard et possède 2d4 baies rouge vif. Bien que les baies du houx soient normalement empoisonnées, celles‑ci sont imprégnées d’une magie bénéfique. Vous pouvez en cueillir une et la manger avec l’action Interagir pour récupérer 1 PV. Une fois cueillie, la baie perd sa magie en quelques secondes, elle ne vous soigne donc pas si vous ne la mangez pas dans le laps de temps de l’action Interagir. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si la plume est activée sur une terre fertile, le buisson continue de pousser (bien qu’il ne produise pas d’autres baies curatives). Si elle est activée ailleurs, il se flétrit et meurt en 1d4 jours. &nbsp;</span></p>"
+        },
+        {
+            "id": "Adamantine Buckler (High-Grade)",
+            "name": "Targe en adamantium (Haute qualité)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</span></p>\n<p>La targe a une Solidité de 11, 44 PV et un SR de 22.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 4&nbsp;000 po d’adamantium.&nbsp;</span></p>"
+        },
+        {
+            "id": "Bestial Mutagen (Major)",
+            "name": "Mutagène bestial (Majeur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos traits prennent un air bestial et votre masse musculaire se développe, mais cette forme massive est maladroite<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Avantage</strong> </span><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +4, vos griffes infligent 1d8 dégâts tranchants, vos mâchoires 1d10 dégâts perforants et la durée est de 1 h. Vous obtenez spécialisation martiale avec les griffes et les mâchoires ou spécialisation martiale supérieure si vous possédez déjà spécialisation martiale pour ces attaques à mains nues.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>inconvénient</strong> Vous subissez un malus de −1 à la CA et de −2 aux jets de Réflexes. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
             "id": "Class Kit (Druid)",
@@ -540,6 +580,11 @@
             "id": "Morningstar",
             "name": "Morgenstern",
             "description": "<p>&nbsp;Cette arme possède un manche court se terminant par une boule en métal hérissée de pointes.</p>"
+        },
+        {
+            "id": "Club",
+            "name": "Gourdin",
+            "description": "<p><span class=\"fontstyle0\"> il s’agit d’un morceau de bois robuste façonné ou reconverti pour matraquer un ennemi. les gourdins peuvent être des pièces d’art martial finement sculptées ou être aussi simples qu’une branche d’arbre ou un morceau de bois. </span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
         },
         {
             "id": "Bolts",
@@ -657,9 +702,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque plume magique semble être une simple plume d’oiseau exotique. La tige, plaquée or, porte une unique rune arcanique. Une fois activée, la plume magique se transforme en un autre objet qui s’utilise alors normalement. Chaque plume s’active une seule fois et reste généralement sous la forme de l’objet en lequel elle s’est changée.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette plume s’active uniquement à bord d’un bateau. Elle se trans‑ forme alors en ancre massive qui arrête immédiatement l’embarca‑ tion. Elle disparaît au bout d’un jour et le bateau peut reprendre sa course. L’ancre est fixée au navire par une chaîne de force magique que l’on peut éliminer avec dissipation de la magie ou briser (Solidité 30, 40 PV). &nbsp;</span></p>"
         },
         {
+            "id": "Aeon Stone (Lavender and Green Ellipsoid)",
+            "name": "Pierre d'éternité (ellipsoïde vert et lavande)",
+            "description": "<p>Cette pierre fonctionne comme une pierre d’éternité ellipsoïde lavande mais elle lance une dissipation de la magie de niveau 8 avec un modificateur de contre de +31.</p>\n<p>Le pouvoir de résonance vous permet de lancer à volonté @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{détection de la magie} et @Compendium[pf2e.spells-srd.OhD2Z6rIGGD5ocZA]{lecture de l’aura} comme des sorts innés arcaniques.</p>"
+        },
+        {
             "id": "Eagle Eye Elixir (Major)",
             "name": "Elixir d'oeil de faucon (majeur)",
             "description": "Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet aux tests de Perception. Il est plus important si vous tentez de repérer une porte ou une trappe secrètes. Le bonus est de +3 ou de +4 pour trouver une porte ou une trappe secrètes. À chaque fois que vous passez à 3 m d’une porte ou d’une trappe dérobées, le MJ fait automatiquement un test en secret pour savoir si vous la repérez."
+        },
+        {
+            "id": "Staff of Healing",
+            "name": "Bâton de guérison",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les deux extrémités de ce bâton de bois blanc et lisse sont ornées d’une croix dorée et d’une multitude de cabochons de rubis. Un bâton de guérison confère un bonus d’objet aux points de vie que vous soignez chaque fois que vous lancez le sort guérison en utilisant vos propres emplacements de sort ou les charges du bâton. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort ; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bonus d’objet conféré aux sorts <em>guérison</em> est de +1. &nbsp;</span></p>\n<ul>\n<li><strong>Tour de magie</strong> stabilisation</li>\n<li><strong>Niveau 1</strong> guérison</li>\n</ul>"
         },
         {
             "id": "Quicksilver Mutagen (Greater)",
@@ -732,6 +787,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette canine de loup est attachée sur un lien de cuir fixé sur une boucle ou une lanière d’armure. Lorsque vous l’activez, vous infligez des dégâts contondants égaux à votre modificateur de Force à la cible de votre Croc‑en‑Jambe. Si ce Croc‑en‑Jambe devrait déjà inclure des dégâts physiques ne compre‑ nant pas de modificateur de caractéristique, ajoutez‑leur votre modificateur de Force.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\" /> Imaginer; <strong>Déclencheur</strong> Votre Croc‑en‑Jambe est couronné de succès ;<strong>Conditions</strong> Vous êtes qualifié en Athlétisme. </span></p>"
         },
         {
+            "id": "Aldori Dueling Sword",
+            "name": "Épée de duel aldori",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une épée de duel Aldori est une lame de duel fine à tranchant unique formant une légère courbe et disposant d'une pointe aguisée et renforcée.&nbsp;</span></p>"
+        },
+        {
             "id": "Sawtooth Saber",
             "name": "Sabre dentelé",
             "description": "<p><span class=\"fontstyle0\">Arme emblématique des assassins des Mantes rouges, cette lame incurvée est dentelée comme une scie, d’où son nom</span> </p>"
@@ -747,6 +807,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Du sang continue de perler au bout de ce long proboscis creux récupéré sur le célèbre cherchesang. Lorsque vous activez le bec, vous infligez 1d4 dégâts de précision supplémentaires lors de votre jet de dégâts. Si vous infligez des dégâts d’attaque sour‑ noise à la cible, elle subit également 1d4 dégâts de saignement persistants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous touchez une créature prise au dépourvu avec l’arme support. </span></p>"
         },
         {
+            "id": "Aeon Stone (Gold Nodule)",
+            "name": "Pierre d'éternité (nodule doré)",
+            "description": "<p>Quand un nodule doré est créé, son créateur choisit une langue qu’il connaît et qu’il stocke dans le cristal. Quand vous investissez la pierre, vous comprenez, parlez et écrivez cette langue.</p>\n<p>Le pouvoir de résonance vous permet de lancer @Compendium[pf2e.spells-srd.vTQvfYu2llKQedmY]{compréhension des langues} comme un sort inné occulte une fois par jour.</p>"
+        },
+        {
             "id": "Belladonna",
             "name": "Belladone",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Parfois appelée « cerise du diable », la belladone est une toxine facile à se procurer produite par une plante apparentée à la tomate.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegard</strong>Vigueur DD 19 ; <strong>Délai</strong>10 minutes; <strong>Durée maximum</strong> 30 minutes; <strong>Stade 1</strong> ébloui (10 min) ; <strong>Stade 2</strong> 1d6 dégâts de poison et malade 1 (10 min); <strong>Stade 3</strong> 1d6 dégâts de poison, confus et malade 1 (1 minute)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
@@ -755,6 +820,11 @@
             "id": "Sturdy Shield (Moderate)",
             "name": "Bouclier renfocé (modéré)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 13, 104 PV et un SR de 52.&nbsp;</span></p>"
+        },
+        {
+            "id": "Aeon Stone (Tourmaline Sphere)",
+            "name": "Pierre d'éternité (sphère tourmaline)",
+            "description": "<p>Quand vous devriez mourir à cause de l’état @Compendium[pf2e.conditionspf2e.yZRUzMqrMmfLu0V1]{mourant} (le plus souvent à mourant 4), cette pierre d’éternité s’active automatiquement et ramène votre valeur mourant à celle qui devrait normalement vous tuer moins 1 (le plus souvent à mourant 3). Elle se transforme ensuite de manière définitive en pierre d’éternité gris terne. Vous ne pouvez profiter de ce pouvoir qu’une seule fois par jour, même si vous avez plusieurs de ces pierres.</p>\n<p>Le pouvoir de résonance vous permet de lancer une @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{guérison} de niveau 1 comme un sort inné divin une fois par jour.</p>"
         },
         {
             "id": "Potion of Resistance (Lesser)",
@@ -812,9 +882,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef‑ fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 3, 12 PV et un SR de 6.<br><strong>Conditions de fabrication</strong> au moins 50 po de mithral</span></p>"
         },
         {
+            "id": "Bola",
+            "name": "Bolas",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme de jet est faite de poids reliés au bout de longues cordes, qui peuvent être utilisés comme armes contondantes contre des ennemis ou pour se prendre dans leurs jambes.&nbsp;</span></p>"
+        },
+        {
             "id": "Elixir of Life (Greater)",
             "name": "Elixir de vie (supérieur)",
             "description": "L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez le nombre de points de vie indiqué et gagnez un bonus d’objet aux jets de sauvegarde contre la maladie et le poison pendant 10 min. L’élixir restaure 7d6+18 points de vie, le bonus est de +2"
+        },
+        {
+            "id": "Armor Potency (+1)",
+            "name": "Puissance d'armure (+1)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des protections magiques dévient les attaques. Augmentez de 1 le bonus d’objet à la CA de l’armure. On peut graver une rune de propriété sur l’armure.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la <em>rune de puissance</em> déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes un expert en Artisanat.</span></p>"
         },
         {
             "id": "Cognitive Mutagen (Lesser)",
@@ -840,6 +920,11 @@
             "id": "Barkskin Potion",
             "name": "Potion de peau d'écorce",
             "description": "<p>Une fois que vous avez bu ce breuvage amer, votre peau devient aussi épaisse que de l’écorce. Vous gagnez les effets du sort peau d’écorce niveau 2 pendant 10 min.</p>"
+        },
+        {
+            "id": "Replacement Picks",
+            "name": "Crochets de remplacement",
+            "description": "<p> vous avez besoin d’outils de voleur pour Crocheter des serrures ou Désamorcer des dispositifs (de certains types) à l’aide de la compétence Vol. Les outils de voleur d’infiltration ajoutent un bonus d’objet de +1 aux tests pour Crocheter des serrures et Désamorcer des dispositifs. Si vos outils de voleur sont brisés, vous pouvez les réparer en remplaçant les crochets par des crochets de rechange adaptés à vos outils ; cela ne nécessite pas l’utilisation de l’action Réparer.</p>"
         },
         {
             "id": "Jade",
@@ -942,6 +1027,11 @@
             "description": "<p>ce long morceau de cuir épais, souvent tressé, inflige à distance une entaille douloureuse, mais non létale, généralement accompagnée d’un claquement distinctif.</p>"
         },
         {
+            "id": "Chrysoberyl",
+            "name": "Chrysoberyl",
+            "description": ""
+        },
+        {
             "id": "Hatchet",
             "name": "Hachette",
             "description": "<p>Cette petite hache peut être utilisée en combat rapproché ou être lancée. </p>"
@@ -965,6 +1055,11 @@
             "id": "Crowbar",
             "name": "Pied-de-biche",
             "description": "<p><span class=\"fontstyle0\">Lorsque vous ouvrez de Force un objet dont la prise n’est pas aisée, un pied-de-biche facilite l’effet de levier nécessaire. Sans pied-de-biche, le fait de forcer l’ouverture de quelque chose entraîne un malus de −2 au test d’Athlétisme pour y parvenir (similaire à l’utilisation d’un objet de mauvaise qualité). Un pied-de-biche doté d’un levier confère un bonus d’objet de +1 à vos tests d’Athlétisme pour Ouvrir de force de tout ce qui peut être forcé. </span> </p>"
+        },
+        {
+            "id": "Bellflower Toolbelt",
+            "name": "Ceinture à outil Campanule",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Différentes versions de cette ceinture sont adaptées pour correspondre à divers métiers de manière à ce qu'une ceinture utilisée par un charpentier se distingue de celle d'un cuisinier.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> imaginer, Intéragir; <strong>Effect</strong> Vous placez un objet jusqu'à 1 Encombrement dans la ceinture, le transformant en un outil correspondant au métier pourr lequel la ceinture a été créée. Tant que vous disposez d'assez de'outils transformés, la ceinture peut être utilisée comme des outils d'artisan pour exercer ce métier.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque objet reste transformé jusqu'à ce qu'il soit ôté de la ceinture pendant 24 heures ou que quelqu'un utilise une unique action Intéragir pour le faire revenir à sa forme normale.</span></p>"
         },
         {
             "id": "Gold Dragon's Breath Potion (Young)",
@@ -1002,6 +1097,11 @@
             "description": "Après avoir bu ce mutagène, votre corps devient plus imposant et robuste. Vous rayonnez de santé, mais vous devenez lourdaud et peu observateur. Le bonus est de +2, vous gagnez 10 points de vie temporaires et la durée est de 10 min."
         },
         {
+            "id": "Hellknight Plate",
+            "name": "Armure de Chevalier infernal",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Peu d'armures au sein de la Région de la Mer Intérieure sont aussi mémorables que l'iconique Armure de plaques d'un Chevalier infernal. WBien que chaque ordre dispose de ses propres ornementations, l'armure de Chevalier infernal est instantanément reconnaissable pour n'importe qui a connaissance de l'existence des Chevaliers infernaux. Les Chevaliers infernaux prennent des mesures extrèmes pour punir les non Chevaliers infernaux qui mettent la main sur une armure de Chevalier infernal et cette récompense ne vaut souvent pas qu'on prenne ce risque, car pour ceux qui ne sont pas Chevaliers infernaux, l'armure fonctionne de manière similaire à une @Compendium[pf2e.equipment-srd.Gq1cZWSKOtJhKd2p]{armure de plaque}.&nbsp;</span></p>"
+        },
+        {
             "id": "Potion of Tongues",
             "name": "Potion de don des langues",
             "description": "<p>Cette potion aigre enrobe votre langue d’un goût inhabituel et la dote d’une éloquence rare, ce qui vous permet de comprendre et de parler toutes les langues pendant 4 h après son absorption. Elle ne vous per‑ met pas de lire ces langues.</p>"
@@ -1023,7 +1123,7 @@
         },
         {
             "id": "Arrows",
-            "name": "Flèche",
+            "name": "Flèches",
             "description": "<p><span class=\"fontstyle0\">Ces projectiles sont les munitions des arcs. Le fût d’une flèche est en bois. La flèche est stabilisée en vol grâce à un empennage fixé à une extrémité et arbore une tête en métal de l’autre. </span> </p>"
         },
         {
@@ -1077,6 +1177,11 @@
             "description": "<p>Votre esprit devient limpide et rien n’entrave vos facultés intel‑ lectuelles, mais la matière physique vous semble éphémère..&nbsp;<span id=\"ctl00_MainContent_DetailedOutput\">Le bonus est de +3 et la durée de 1 h. Vous êtes qualifié dans une compétence basée sur l’Intelligence, à choisir à la création de l’élixir. </span></p>"
         },
         {
+            "id": "Acid Flask (Major)",
+            "name": "Fiole d'acide (Majeur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide, les dégâts persistants et les dégâts d’éclaboussure d’acide indiqués.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +3 aux jets d’attaque. La fiole inflige 4d6 dégâts persistants d’acide et 4 dégâts d’éclaboussure d’acide.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Frapper</span></p>"
+        },
+        {
             "id": "Tanglefoot Bag (Lesser)",
             "name": "Sacoche immobilisante (inférieur)",
             "description": "<p>Une sacoche immobilisante regorge de substances collantes. Lorsque vous touchez une créature avec un tel objet, elle subit un malus de statut à la Vitesse pendant 1 min. Plusieurs types de sacoches donnent un bonus d’objet aux jets d’attaque.</p>\n<p>Sur un coup critique, une créature en contact avec une surface solide reste collée à elle, immobilisée pendant 1 round. Une créature qui vole grâce à des ailes voient ces dernières enchevêtrées et tombe à terre, sans se blesser, incapable de Voler pendant 1 round. La sacoche immobilisante est inefficace sur les créatures dans l’eau.</p>\n<p>La cible peut mettre un terme à l’effet en S’échappant ou en passant un total de 3 actions d’Interaction à éliminer soigneusement la substance collante. Ces Interactions ne sont pas obligatoirement consécutives et peuvent émaner d’autres créatures.</p>\n<p>La cible subit un malus de −3 m. Le DD pour S’échapper est de 17.</p>"
@@ -1127,6 +1232,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">T<p><span id=\"ctl00_MainContent_DetailedOutput\">This snare consists of a hidden canister of caltrops attached to a trip wire. When the snare is triggered, it flings the caltrops into either the snare&rsquo;s square or a square adjacent to the snare. You choose which square when you set up the snare.<br /></span></p>\n<p>If the caltrops scatter into the same square as a creature, that creature must attempt the Acrobatics check immediately.</p>\n<hr />\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Craft Requirements</strong>&nbsp;Supply a container of caltrops.</span></p>\n<br /></span></p>\n<p>Si les chausse‑trappes se déversent dans une case occupée par une créature, celle‑ci doit immédiatement faire un test d’Acrobaties. </p>\n<hr />\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>&nbsp;Fournir une boîte de chausse‑trappes</span></p>"
         },
         {
+            "id": "Voyager's Pack",
+            "name": "Sac à dos du voyageur",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le cuir de ce sac à dos est marqué d’icônes au fer rouge, et chaque fois qu’il est emporté sur un plan où il n’a jamais été emporté auparavant, une nouvelle icône représentant ce plan est marquée au fer rouge sur sa sur‑ face. Le sac à dos vous confère un bonus de +3 aux tests de Survie. Il vous permet également de voir les traces magiques laissées par des créa‑ tures de passage, ce qui vous donne l’occasion de Pister une créature qui s’est téléportée. Le MJ détermine le DD de ce test, le plus souvent en utilisant le niveau et le DD du sort de téléportation. Ceci vous permet de découvrir la destination de la créature et vous pouvez utiliser cette destination quand vous lancez téléportation ou que vous activez le sac à dos, même si vous ne connaissez pas à quoi ressemble l’endroit où vous vous rendez.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le sac à dos renferme un espace extradimensionnel doté des mêmes propriétés qu’un sac sans fond de type II. Cet espace contient du maté‑ riel d’escalade. Si une partie du matériel n’est pas remise dans le sac, la partie manquante revient vers le sac à dos à l’aube chaque jour.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> 10 minutes (sur ordre, imaginer, Interagir); <strong>Effet</strong>  Lorsque vous activez le sac à dos, vous pouvez attacher jusqu’à quatre créa‑ tures consentantes aux cordes sur le sac à dos. À la fin du temps d’ac‑ tivation, le sac à dos lance une téléportation ou un changement de plan de niveau 7, ce qui transporte votre personne et toutes celles attachées au sac. Faites un test de Survie DD 45. En cas de succès, vous arrivez à 40 km de la destination avec changement de plan ou à la moitié de cette distance avec téléportation. En cas de succès critique, vous arri‑ vez exactement à l’endroit prévu.</span></p>"
+        },
+        {
             "id": "Class Kit (Rogue)",
             "name": "Kit de classe (Roublard)",
             "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes</strong> dague, rapière</div>\n<div><strong>Equipement</strong> pack d’aventurier, kit d’escalade, gaine</div>\n<div><strong>Options</strong> outils de voleur (3 po)</div>"
@@ -1160,6 +1270,11 @@
             "id": "Healing Potion (Lesser)",
             "name": "Potion de guérison (inférieur)",
             "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué.La potion rend 2d8+5 points de vie </p>"
+        },
+        {
+            "id": "Amethyst",
+            "name": "Amethyste",
+            "description": ""
         },
         {
             "id": "Quicksilver Mutagen (Moderate)",
@@ -1214,7 +1329,12 @@
         {
             "id": "Demon Armor",
             "name": "Armure démoniaque",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Fait de fer noir, ce harnois de résilience +2 est conçu pour vous donner l’air d’un démon cornu, la gueule hurlante du fiélon encadrant votre visage.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Tant que vous portez cette armure, vous pouvez attaquer avec les cornes du heaume. Elles fonctionnent comme une arme de guerre de corps à corps dotée d’une rune de puissance d’arme +2. Elles infligent 2d8 dégâts perforants et possèdent le trait mortel d12. Une cible tou‑ chée par un coup critique avec les cornes fait un jet de Vigueur DD 30 contre la peste abyssale (maladie p. 366). Il est impossible de graver une rune sur les cornes.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous n’êtes pas d’alignement mauvais, vous êtes drainé 2 et ne pouvez pas vous débarrasser de cet état tant que vous portez l’<em>armure démoniaque</em>. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Command; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Vous lancez porte dimensionnelle.&nbsp;<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes d’alignement mauvais ; fournir une incantation de <em>porte dimensionnelle</em>.&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Fait de fer noir, ce harnois de résilience +2 est conçu pour vous donner l’air d’un démon cornu, la gueule hurlante du fiélon encadrant votre visage.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Tant que vous portez cette armure, vous pouvez attaquer avec les cornes du heaume. Elles fonctionnent comme une arme de guerre de corps à corps dotée d’une rune de puissance d’arme +2. Elles infligent 2d8 dégâts perforants et possèdent le trait mortel d12. Une cible tou‑ chée par un coup critique avec les cornes fait un jet de Vigueur DD 30 contre la peste abyssale (maladie p. 366). Il est impossible de graver une rune sur les cornes.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous n’êtes pas d’alignement mauvais, vous êtes drainé 2 et ne pouvez pas vous débarrasser de cet état tant que vous portez l’<em>armure démoniaque</em>. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Command; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Vous lancez  @Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{porte dimensionnelle}.&nbsp;<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes d’alignement mauvais ; fournir une incantation de <em>porte dimensionnelle</em>.&nbsp;</span></p>"
+        },
+        {
+            "id": "Aeon Stone (Dull Gray)",
+            "name": "Pierre d'éternité (gris terne)",
+            "description": "<p>Une pierre d’éternité gris terne a perdu ses propriétés magiques spéciales, parfois après avoir trop utilisé une sphère tourmaline ou un ellipsoïde lavande. Elle tourne tout de même autour de votre tête comme n’importe quelle autre pierre d’éternité et peut donc représenter une option pour divers sorts qui prennent pour cible un objet, comme flamme éternelle, ce qui vous permet de garder les mains libres. </p>\n<p>Les pierres d’éternité gris terne n’ont aucun pouvoir de résonance.</p>"
         },
         {
             "id": "Bracelets of Dashing",
@@ -1287,6 +1407,11 @@
             "description": "<p>En buvant cette potion claire et rafraîchissante, vous voyez les choses telles qu’elles sont réellement. Vous gagnez les avantages du sort vision lucide au niveau 7 avec un modificateur de contre de +25.</p>"
         },
         {
+            "id": "Acid Flask (Moderate)",
+            "name": "Fiole d'acide (Modéré)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide, les dégâts persistants et les dégâts d’éclaboussure d’acide indiqués. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +1 aux jets d’attaque. La fiole inflige 2d6 dégâts persistants d’acide et 2 dégâts d’éclaboussure d’acide.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Frapper</span></p>"
+        },
+        {
             "id": "Mesmerizing Opal",
             "name": "Opale hypnotisante",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des reflets iridescents embrasent ce pendentif en argent serti d’une opale. Lorsque vous l’activez, si votre test de Duperie se solde par un échec critique, vous essuyez simplement un échec (et si vous rempor‑ tez un succès, vous remportez à la place un succès critique).<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous tentez un test de Duperie pour Feinter, mais n’avez pas encore lancé le dé. </span></p>"
@@ -1295,6 +1420,11 @@
             "id": "Ghost Dust",
             "name": "Poussière fantomatique",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette petite fiole contient une poussière gris vert tirée d’un ectoplasme desséché. Lorsque vous l’activez, elle lance invisibilité sur vous au ni‑ veau 4. Cela se produit avant que vous ne vous déplaciez lors de l’action déclencheur.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous utilisez une action avec le trait déplacement ;  <strong>Conditions</strong> Vous êtes légendaire en Discrétion.</span></p>"
+        },
+        {
+            "id": "Agate",
+            "name": "Agate",
+            "description": ""
         },
         {
             "id": "Breastplate",
@@ -1320,6 +1450,11 @@
             "id": "Cognitive Mutagen (Moderate)",
             "name": "Mutagènhe cognitif (modéré)",
             "description": "Votre esprit devient limpide et rien n’entrave vos facultés intel‑ lectuelles, mais la matière physique vous semble éphémère.Le bonus est de +2 et la durée de 10 min."
+        },
+        {
+            "id": "Acid Flask (Greater)",
+            "name": "Fiole d'acide (Supérieur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide, les dégâts persistants et les dégâts d’éclaboussure d’acide indiqués.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +2 aux jets d’attaque. La fiole inflige 3d6 dégâts persistants d’acide et 3 dégâts d’éclaboussure d’acide.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Frapper</span></p>"
         },
         {
             "id": "Silvertongue Mutagen (Moderate)",
@@ -1359,7 +1494,7 @@
         {
             "id": "Adamantine Shield (Standard-Grade)",
             "name": "Bouclier en adamantium (qualité standard)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 10, 40 PV et un SR de 20.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 55 po d’adamantiump&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 10, 40 PV et un SR de 20.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 55 po d’adamantium&nbsp;</span></p>"
         },
         {
             "id": "Sleep Arrow",
@@ -1452,6 +1587,16 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce morceau de pierre plate et solide a été spécialement préparé pour graver une rune fondamentale ou une rune de propriété magique. Vous ne pouvez graver qu’une seule rune par pierre. Une fois la pierre gravée, elle adopte le trait de l’école de magie de la rune tracée. Lorsqu’une rune est transférée de la <em>pierre runique</em> à un autre objet, la pierre se fend et se détruit. Le prix indiqué corres‑ pond à une rune vierge, si elle est gravée, il faut lui ajouter le prix de la rune.&nbsp;</span></p>"
         },
         {
+            "id": "Adamantine Chunk",
+            "name": "Morceau d'adamantium",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Extrait de rochers tombés du ciel, l’adamantium est l’un des métaux connus les plus solides. Il est d’un noir luisant et très prisé pour son incroyable résistance et sa capacité à conserver un tranchant époustouflant.&nbsp;</span></p>\n<p>&nbsp;</p>\n<h2>Adamantine Items</h2>\n<table style=\"width: 381px; user-select: text; color: #191813; font-size: 13px; height: 197px;\" border=\"1\">\n<tbody style=\"box-sizing: border-box; user-select: text;\">\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; color: white; height: 32px; width: 220px; background-color: #522e2c; text-align: center;\">\n<h3><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Objets en adamantium</strong></span></h3>\n</td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 74px; text-align: center; background-color: #522e2c; height: 32px;\">\n<h3><strong style=\"box-sizing: border-box; user-select: text;\"><strong>Solidité</strong>&nbsp;</strong></h3>\n</td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 41px; text-align: center; background-color: #522e2c; height: 32px;\">\n<h3>PV</h3>\n</td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 45px; text-align: center; background-color: #522e2c; height: 32px;\">\n<h3>SR</h3>\n</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 25px; width: 220px; text-align: center; background-color: #f6f1e1;\"><strong>Objets fins</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 25px; width: 220px; background-color: #eee5c8; text-align: center;\">Qualité standard</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #eee5c8; height: 25px;\">10<span id=\"ctl00_MainContent_DetailedOutput\" style=\"box-sizing: border-box; user-select: text; display: block;\"></span></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #eee5c8; height: 25px;\">40</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #eee5c8; height: 25px;\">20</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 25px; width: 220px; text-align: center; background-color: #f6f1e1;\">Haute qualité</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">13</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">52</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">26</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 25px; width: 220px; text-align: center; background-color: #eee5c8;\"><strong>Objets</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #eee5c8; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #eee5c8; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #eee5c8; height: 25px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #f6f1e1; height: 25px;\">Qualité standard<strong><br></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">14</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">56</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">28</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #eee5c8; height: 25px;\">Haute qualité<strong><br></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #eee5c8; height: 25px;\">17</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #eee5c8; height: 25px;\">68</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #eee5c8; height: 25px;\">34</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #f6f1e1; height: 25px;\"><strong>Structures</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #eee5c8; height: 25px;\">Qualité standard<strong><br></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #eee5c8; height: 25px;\">28</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #eee5c8; height: 25px;\">112</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #eee5c8; height: 25px;\">56</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #f6f1e1; height: 25px;\">Haute qualité<strong><br></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">34</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">136</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">68</td>\n</tr>\n</tbody>\n</table>"
+        },
+        {
+            "id": "Amphora with lavish scenes",
+            "name": "Amphore portant des scènes somptueuses",
+            "description": ""
+        },
+        {
             "id": "Tent (Four-Person)",
             "name": "Tente (4 personnes)",
             "description": ""
@@ -1487,9 +1632,19 @@
             "description": "Cette décoction salée modifie la peau des pieds et des mains. L’espace entre vos doigts et vos orteils devient palmé, ce qui vous donne une Vitesse de nage de 6 m pendant la durée indiquée."
         },
         {
+            "id": "Aeon Stone (Pink Rhomboid)",
+            "name": "Pierre d'éternité (Rhombe rose vif)",
+            "description": "<p>Quand vous investissez cette pierre, vous gagnez 15 points de vie temporaires. Si les effets de la pierre sont réprimés, vous perdez tous les éventuels points de vie temporaires restants jusqu’à ce que la pierre retrouve ses effets. Les points de vie temporaires se renouvellent lors de vos préparatifs quotidiens ; ils ne se renouvellent pas si, avant cela, vous réinvestissez la pierre ou si vous investissez une autre pierre d’éternité rhombe rose vif.</p>\n<p>Le pouvoir de résonance vous permet de lancer le tour de magie @Compendium[pf2e.spells-srd.SnjhtQYexDtNDdEg]{stabilisation} comme un sort inné divin</p>"
+        },
+        {
             "id": "Elixir of Life (True)",
             "name": "Elixir de vie (ultime)",
             "description": "L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez le nombre de points de vie indiqué et gagnez un bonus d’objet aux jets de sauvegarde contre la maladie et le poison pendant 10 min. L’élixir restaure 10d6+27 points de vie, le bonus est de +4."
+        },
+        {
+            "id": "Blowgun Darts",
+            "name": "Fléchettes de sabacane",
+            "description": "<p><span class=\"fontstyle0\">Ces fléchettes minces et légères sont généralement réalisées en bois dur et stabilisées avec un empennage de duvet ou de fourrure. Elles sont souvent creuses pour pouvoir délivrer du poison.</span> </p>"
         },
         {
             "id": "Viper's Fang",
@@ -1527,6 +1682,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en fer froid ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La targe a une Solidité de 5, 20 PV et un SR de 10..<br><strong>Conditions de fabrication</strong> au moins 375 pa de fer froid&nbsp;</span></p>"
         },
         {
+            "id": "Material Component Pouch",
+            "name": "Bourse de composants matériels",
+            "description": "<p>Cette bourse contient des composants matériels pour les sorts qui les requièrent. Ces composants s’épuisent au fil du temps, mais vous pouvez en recharger le stock au cours de vos préparatifs quotidiens.</p>"
+        },
+        {
             "id": "Feather Step Stone",
             "name": "Pierre de pas de plume",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette pierre d’ordinaire taillée en cabochon est un morceau d’ambre renfermant un fragment de plume ou un insecte volant. Lorsque vous l’activez, vous ignorez les effets du terrain difficile et du terrain très difficile que vous traversez jusqu’à la fin de votre tour.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous Marchez rapidement ou Faites un pas ;  <strong>Conditions</strong>  Vous êtes maître en Discrétion.</span></p>"
@@ -1549,7 +1709,7 @@
         {
             "id": "Artisan's Tools",
             "name": "Outils d'artisan",
-            "description": "<p>Vous avez besoin de ces outils pour créer, au moyen de la compétence Artisanat, des objets à partir de matériaux. Les outils d’artisan excellents accordent un bonus de +1 à votre test. Il faut des jeux d’outils différents pour effectuer différents travaux, tels que déterminés par le MJ ; ainsi, les outils de forgeron diffèrent des outils de menuisier. &nbsp;</p>"
+            "description": "<p>Vous avez besoin de ces outils pour créer, au moyen de la compétence Artisanat, des objets à partir de matériaux. Les outils d’artisan excellents accordent un bonus d'objet de +1 à votre test. Il faut des jeux d’outils différents pour effectuer différents travaux, tels que déterminés par le MJ ; ainsi, les outils de forgeron diffèrent des outils de menuisier. &nbsp;</p>"
         },
         {
             "id": "Bravo's Brew (Lesser)",
@@ -1565,6 +1725,11 @@
             "id": "Clothing (Ordinary)",
             "name": "Vêtements (ordinaire)",
             "description": "<p>Les vêtements ordinaires sont fonctionnels avec une confection de base, comme les vêtements de paysan, les robes de moine ou les vêtements de travail.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Aeon Stone (Pale Lavender Ellipsoid)",
+            "name": "Pierre d'éternité (ellipsoïde lavande pâle)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette pierre d’éternité doit être activée pour bénéficier de ses avantages. Le pouvoir de résonance vous permet de lancer le tour de magie @Compendium[pf2e.spells-srd.OhD2Z6rIGGD5ocZA]{lecture de l’aura} comme un sort inné arcanique.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> imaginer; <strong>Fréquence</strong> une fois par jour; <strong>Déclencheur</strong> Un sort vous cible ; <strong>Effet</strong> La pierre lance une @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{dissipation de la magie} de niveau 6 pour tenter de contrer le sort déclencheur avec un modificateur de contre de +22. On ne peut utiliser ceci que sur les sorts qui vous prennent vous, et seulement vous, pour cible, et non sur les sorts de zone qui n’ont pas de cibles. En cas de succès, elle contre le sort pour toutes les cibles si d’autres créatures ont également été ciblées en plus de vous. Chaque fois que vous activez cette pierre d’éternité, faites un test nu DD 5. En cas d’échec, la pierre se transforme de manière définitive en @Compendium[pf2e.equipment-srd.xgmmkVdXmKVjpIHd]{pierre d’éternité gris terne}.</span></p>"
         },
         {
             "id": "Celestial Armor",
@@ -1594,7 +1759,12 @@
         {
             "id": "Electric Eelskin",
             "name": "Peau d'anguille électrique",
-            "description": "<p><span class=\"fontstyle0\">Une peau d’anguille luisante et glissante recouvre les plates de cette armure de cuir glissante de résilience supérieure +1. L’armure permet de respirer sous l’eau et vous donne un bonus d’objet de 2 aux tests d’Athlétisme pour Nager et aux tests de Discrétion sous l’eau.</span></p>\n<p><span class=\"fontstyle0\"><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Sur ordre, Interagir; <strong>Fréquence</strong> 1/heure; <strong>Effet</strong> Vous lancez décharge électrique au niveau 2 avec un DD de 29. <br><br><strong>Conditions de fabrication</strong> Fournir une incantation de <em>décharge électrique</em>.</span></span></p>"
+            "description": "<p><span class=\"fontstyle0\">Une peau d’anguille luisante et glissante recouvre les plates de cette armure de cuir glissante de résilience supérieure +1. L’armure permet de respirer sous l’eau et vous donne un bonus d’objet de 2 aux tests d’Athlétisme pour Nager et aux tests de Discrétion sous l’eau.</span></p>\n<p><span class=\"fontstyle0\"><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Sur ordre, Interagir; <strong>Fréquence</strong> 1/heure; <strong>Effet</strong> Vous lancez  @Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]{décharge électrique} au niveau 2 avec un DD de 29. <br><br><strong>Conditions de fabrication</strong> Fournir une incantation de <em>décharge électrique</em>.</span></span></p>"
+        },
+        {
+            "id": "Aeon Stone (Black Pearl)",
+            "name": "Pierre d'éternité (noir perle)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette perle noir brille à la lumière. Le pouvoir résonant vous permet de lancer @Compendium[pf2e.spells-srd.R9xqCBblkS5KE4y7]{Communication à distance} une fois par jour.&nbsp;<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> imaginer; <strong>Déclencheur</strong> Vous êtes la cible d'un effet mental ; <strong>Effet</strong> Vous recevez un bonus de statut de +4 à votre jet de sauvegarde contre l'effet déclencheur. Qu'il soit réussi ou non, la pierre d'éternité tente un test de Contresort à +30 pour renvoyer immédiatement une copie de l'effet à l'envoyeur, le ciblant en utilisant les statistiques adéquates de ce dernier mais contrôlant l'effet comme si vous l'aviez lancé. <br>Chaque fois que vous activez cette pierre d'éternité, tentez un test nu contre un DD 5. En cas d'échec, la pierre se fend et perd à jamais ses propriétés magiques.</span></p>"
         },
         {
             "id": "Floating Shield",
@@ -1602,9 +1772,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des motifs d’aile sont souvent gravés sur un <em>bouclier flottan</em>t. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiative<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Le bouclier se détache de votre bras et flotte à vos côtés en vous conférant auto‑ matiquement son bonus, comme si vous aviez Levé le bouclier. Étant donné que vous ne maniez pas le bouclier, vous ne pouvez pas utiliser de réactions telles que Blocage au bouclier avec lui mais vous profitez de ses avantages, même si vous utilisez déjà vos deux mains. Au bout d’une minute, le bouclier tombe au sol, ce qui met fin à l’effet flottant. Tant que le bouclier est adjacent à vous, vous pouvez Interagir pour vous en emparer, ce qui met fin prématurément à son effet flottant. </span></p>"
         },
         {
+            "id": "Aeon Stone (Clear Spindle)",
+            "name": "Pierre d'éternité (fuseau translucide)",
+            "description": "<p>Vous n’avez plus besoin de manger ou de boire tant que vous investissez cette pierre d’éternité. Elle ne fonctionne pas tant que vous ne l’avez pas portée en permanence pendant une semaine, en l’ayant investie chaque jour de cette semaine. Si elle est investie par quelqu’un d’autre, il faut reprendre cette période depuis le début</p>\n<p>Le pouvoir de résonance vous permet de lancer @Compendium[pf2e.spells-srd.W69zswpj0Trdy5rj]{bulle d’air} comme un sort inné primordial une fois par jour. .&nbsp;</p>"
+        },
+        {
             "id": "Eagle Eye Elixir (Greater)",
             "name": "Elixir d'oeil de faucon (supérieur)",
             "description": "Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet aux tests de Perception. Il est plus important si vous tentez de repérer une porte ou une trappe secrètes. Le bonus est de +3 ou de +4 pour trouver une porte ou une trappe secrètes"
+        },
+        {
+            "id": "Aeon Stone (Orange Prism)",
+            "name": "Pierre d'éternité (prisme orange)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un prisme orange doit être activé pour bénéficier de ses avantages. Le pouvoir de résonance vous confère un bonus d’objet de +2 aux tests d’Arcanes, de Nature, d’Occultisme ou de Religion, selon ce qui correspond à la tradition du dernier sort que vous avez amélioré avec cette pierre d’éternité.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> imaginer; <strong>Effet</strong>  Si votre prochaine action consiste à Lancer un sort, le niveau de ce sort est augmenté de 1 (niveau 10 au maximum) lorsqu’il est utilisé pour contrer ou s’il est contré. &nbsp;</span></p>"
         },
         {
             "id": "Malyass Root Paste",
@@ -1722,6 +1902,11 @@
             "description": "Ce breuvage amer ouvre votre esprit au potentiel des mots écrits. Une fois que vous avez bu cet élixir, vous comprenez les mots que vous lisez pendant la durée indiquée tant qu’ils sont écrits dans une langue courante. Il ne vous permet pas de comprendre automatiquement les codes ou les passages ésotériques, pour cela vous devrez tout de même faire un test de compétence Déchiffrer un texte. La durée est de 1 min."
         },
         {
+            "id": "Saddlebags",
+            "name": "Fontes",
+            "description": "<p>Les fontes vont par paire. Chacune peut contenir des objets jusqu’à un Encombrement 3. La valeur d’Encombrement indiquée correspond aux fontes portées par une monture. Si vous transportez ou stockez des fontes, elles comptent pour un Encombrement 1 au lieu de léger. </p>"
+        },
+        {
             "id": "Religious Symbol (Wooden)",
             "name": "Symbole religieux (bois)",
             "description": "<p><span class=\"fontstyle0\">Ce morceau de bois ou d’argent est décoré de la représentation d’une divinité. Certains incantateurs divins, tels que les prêtres, peuvent utiliser un symbole religieux de leur divinité comme focaliseur divin pour utiliser certaines capacités et lancer des sorts. Un symbole religieux doit être tenu dans une main pour pouvoir être utilisé.</span> </p>"
@@ -1740,6 +1925,11 @@
             "id": "Kukri",
             "name": "Kukri",
             "description": "<p><span class=\"fontstyle0\">La lame de ce couteau long de 30 cm se courbe et n’a pas de garde au niveau de la poignée.</span> </p>"
+        },
+        {
+            "id": "Amber",
+            "name": "Ambre",
+            "description": ""
         },
         {
             "id": "Class Kit (Wizard)",
@@ -1765,6 +1955,11 @@
             "id": "Salamander Elixir (Greater)",
             "name": "Elixir de la salamandre (supérieur)",
             "description": "Cet élixir distillé à partir d’écailles de salamandre permet de résister au feu. Pendant 24 h, vous êtes protégé contre les effets d’une chaleur importante. Vous êtes aussi protégé contre la chaleur extrême et extraordinaire."
+        },
+        {
+            "id": "Compass",
+            "name": "Boussole",
+            "description": "<p><span class=\"fontstyle0\">une boussole vous aide à Vous orienter, à condition que vous vous trouviez dans un endroit où les champs magnétiques sont uniformes. Sans boussole, vous imputez un malus d’objet de −2 à ces tests (le même que lorsqu’on utilise un objet de mauvaise qualité). Une boussole à lentille vous accorde un bonus d’objet de +1 à ces tests.</span></p>"
         },
         {
             "id": "Oathbow",
@@ -1840,6 +2035,11 @@
             "id": "Antiplague (Greater)",
             "name": "Antimaladie (supérieur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’antimaladie renforce les défenses du corps contre les maladies. Lorsque vous le buvez, vous recevez un bonus d’objet aux jets de Vigueur contre les maladies pendant 24 h. Cela s’applique aussi à vos jets de sauvegarde contre la progression d’une maladie. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +4</span></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
+            "id": "Alabaster and obsidian game set",
+            "name": "pièces d'un jeu en albâtre et en obsidienne",
+            "description": ""
         },
         {
             "id": "Infiltrator Thieves' Tools",
@@ -1922,6 +2122,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce petit médaillon a la forme d’un bouclier. Lorsque vous l’activez, vous gagnez un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 min. Si vous obtenez un échec sur le jet qui a déclenché le talisman, vous remportez à la place un succès et si vous obtenez un échec critique, vous essuyez à la place un échec.  <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous tentez un jet de Volonté contre un effet de terreur, mais n’avez pas encore lancé le dé ; <strong>Conditions</strong>Vous êtes maître en jets de Volonté ou disposez du pou‑ voir de classe bravoure.</span></p>"
         },
         {
+            "id": "Armor Potency (+2)",
+            "name": "Puissance d'armure (+2)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des protections magiques dévient les attaques. Augmentez de 2 le bonus d’objet à la CA de l’armure. On peut graver deux runes de propriété sur l’armure.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la <em>rune de puissance</em> déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes un maître en Artisanat.</span></p>"
+        },
+        {
             "id": "Sturdy Shield (Minor)",
             "name": "Bouclier renforcé (mineure)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 8, 64 PV et un SR de 32..&nbsp;</span></p>"
@@ -1955,6 +2160,11 @@
             "id": "Potion of Acid Resistance (Lesser)",
             "name": "Potion de résistance à l'acide (inférieur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre).</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>"
+        },
+        {
+            "id": "Anarchic",
+            "name": "Anarchique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une rune <em>anarchique</em>, asymétrique et aux bords déchiquetés, canalise de l’énergie chaotique. Une arme avec cette rune inflige 1d6 dégâts chaotiques supplémentaires aux cibles d’alignement loyal. Si vous êtes d’alignement loyal, vous êtes affaibli 2 tant que vous portez ou maniez cette arme.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous obtenez un succès critique en Frappant une créature d’alignement loyal avec cette arme, lancez 1d6. Sur un 1 ou 2, vous infligez le double des dégâts minimums ; sur un 3 ou 4, doublez les dégâts normalement ; sur un 5 ou 6, vous infligez le double des dégâts maximums. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes d’alignement chaotique.</span></p>"
         },
         {
             "id": "Backpack",
@@ -2010,6 +2220,11 @@
             "id": "Potion of Electricity Resistance (Lesser)",
             "name": "Potion de résistance à l'électricité (inférieur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre). </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>"
+        },
+        {
+            "id": "Armor Potency (+3)",
+            "name": "Puissance d'armure (+2)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des protections magiques dévient les attaques. Augmentez de 3 le bonus d’objet à la CA de l’armure. On peut graver trois runes de propriété sur l’armure.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la <em>rune de puissance</em> déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes légendaire en Artisanat.</span></p>"
         },
         {
             "id": "Deathcap Powder",
@@ -2100,6 +2315,11 @@
             "id": "Healer's Tools",
             "name": "Outils de guérisseur",
             "description": "<p><span class=\"fontstyle0\"> Cette trousse, contenant des bandages, des herbes et des outils de suture, est nécessaire aux tests de Médecine pour Prodiguer les premiers soins, Soigner une maladie, Soigner un empoisonnement ou Soigner les blessures. Les outils de guérisseur complets fournissent un bonus d’objet de +1 à de tels tests. Lorsque vous transportez ces outils d’un endroit à un autre, vous gardez la plupart des composants à portée de la main, dans vos poches ou dans vos bandoulières. </span> </p>"
+        },
+        {
+            "id": "Aklys",
+            "name": "Aklys",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’aklys est un gourdin de jet avec un crochet à un bout et une longue corde accrochée à l’autre bout. Bien qu’on ne trouve pas d’aklys dans la plupart des commerces, on peut en acheter un pour 5 po auprès d’un vendeur spécialisé dans les armes étranges.&nbsp;</span></p>"
         },
         {
             "id": "Nunchaku",

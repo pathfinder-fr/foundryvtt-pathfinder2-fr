@@ -4,7 +4,7 @@
  * **libre**: 35
 
 
-Dernière mise à jour: 2020-06-18 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-20 15:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -70,7 +70,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-VYfpTUuXJM3iBOz0.htm](ancestryfeatures/feat-01-VYfpTUuXJM3iBOz0.htm)|Unseen Lizardfolk|Homme-lézard mimétique|libre|
 |[feat-01-wTN8ns9cDw9sgZQj.htm](ancestryfeatures/feat-01-wTN8ns9cDw9sgZQj.htm)|Half-Elf|Demi-elfe|officielle|
 |[feat-01-xtRIYizCjLg9qe1Z.htm](ancestryfeatures/feat-01-xtRIYizCjLg9qe1Z.htm)|Wildwood Halfling|Halfelin bois-sauvage|officielle|
-|[feat-01-yazWJQvcSghoxlP5.htm](ancestryfeatures/feat-01-yazWJQvcSghoxlP5.htm)|Fungus Leshy|Léchi champignon|libre|
+|[feat-01-yazWJQvcSghoxlP5.htm](ancestryfeatures/feat-01-yazWJQvcSghoxlP5.htm)|Fungus Leshy|Léchi fongique|libre|
 |[feat-01-z4cvqtpkkAYoFpHa.htm](ancestryfeatures/feat-01-z4cvqtpkkAYoFpHa.htm)|Bloodhound Shoony|Shoony limier|libre|
 |[feat-01-Z9xQJejoxYTE9Mw6.htm](ancestryfeatures/feat-01-Z9xQJejoxYTE9Mw6.htm)|Leaf Leshy|Léchi feuille|libre|
 |[feat-01-zVf0Hlp5xG0Q7kmc.htm](ancestryfeatures/feat-01-zVf0Hlp5xG0Q7kmc.htm)|Skilled Heritage|Héritage talentueux|officielle|

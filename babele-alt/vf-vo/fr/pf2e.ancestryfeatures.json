@@ -138,8 +138,8 @@
         },
         {
             "id": "Fungus Leshy",
-            "name": "Léchi champignon (Fungus Leshy)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre corps a été fait de champignon qui grandit dans l'ombre des grottes et des arbreset vous êtes chez vous dans les cavernes sombres et les terriers. Vous obtenez vision dans le noir.&nbsp;</span></p>"
+            "name": "Léchi fongique (Fungus Leshy)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre corps a été fait de champignon qui grandit dans l'ombre des grottes et des arbres et vous êtes chez vous dans les cavernes sombres et les terriers. Vous obtenez vision dans le noir.&nbsp;</span></p>"
         },
         {
             "id": "Ancient Elf",
