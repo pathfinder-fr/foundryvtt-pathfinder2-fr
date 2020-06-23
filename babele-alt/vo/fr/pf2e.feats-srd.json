@@ -7,6 +7,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Perdu dans la foule<br></span></p>\n<hr>\n<p>Vous utilisez la foule à votre avantage, empêchant vos ennemis de prêter attention aux potentiels dangers cachés qui s'y trouvent. Lorsque vous devez déterminer si votre adversaire est pris en tenaille, vous considérez toutes les cases occupées par une foule comme si elles l'étaient par un allié avec un allonge au corps à corps de 1,5 m.&nbsp;</p>"
         },
         {
+            "id": "Order Training",
+            "name": "Order Training",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> dévouement d'Écuyer Chevalier infernal<br></span></p>\n<hr>\n<p>Vous obtenez le bénéfice inférieur de l'Ordre de Chevalier infernal auquel vous appartenez.&nbsp;</p>"
+        },
+        {
             "id": "Orc Sight",
             "name": "Orc Sight",
             "description": "<p><strong>Prérequis</strong> vision nocturne</p>\n<hr>\n<p>Votre sang orc est assez fort pour vous faire bénéficier de la vision perçante de vos ancêtres orcs. Vous gagnez vision dans le noir, qui vous permet de voir dans les ténèbres et la lumière faible aussi bien que dans la lumière vive. Cependant, dans les ténèbres, vous ne voyez qu’en noir et blanc.</p>\n<p><strong>Spécial</strong> Vous pouvez seulement choisir ce don au niveau 1 et vous ne pouvez pas utiliser un réapprentissage pour perdre ou gagner ce don.</p>"
@@ -60,6 +65,11 @@
             "id": "Hellknight Armiger Dedication",
             "name": "Hellknight Armiger Dedication",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> membre d'un ordre de Chevalier infernal, qualifié en armure lourde et dans l'arme favorie de votre ordre <br><strong>Accès</strong> Vous êtes originaire de l'Ancien Chéliax.<br></span></p>\n<hr>\n<p>Votre entraînement de Chevalier infernal vous enseigne à terroriser les autres pour en obtenir l'obéissance, mais aussi à étudier la structure et la hiérarchie de l'Enfer. Vous devez survivre des tests douloureux pour votre corps et votre âme appelés ordalies, qui renforcent votre esprit contre toutes sortes de trauma. Vous obtenez une résistance aux dégâts mentaux égale à  1 + votre nombre de dons classe de l'archétype d'Écuyer Chevalier infernel et d'autres Archétypes de Chevalier infernal. Vous devenez qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=7\">Intimidation</a> et <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> de l'Enfer ; si vous étiez déjà qualifié, vous devenez expert à la place.<br><br><strong>Spécial</strong> Vous ne pouvez sélectionner un autre don de dévouement à l'exception de dons de positions supérieures parmi les Chevaliers infernaux  jusqu'à ce que vous obteniez deux autres dons de l'archétype Écuyer Chevalier infernal.&nbsp;</p>"
+        },
+        {
+            "id": "Whirlwind Strike (Fighter)",
+            "name": "Whirlwind Strike (Fighter)",
+            "description": "<p>Vous attaquez tous les adversaires à proximité. Faites une Frappe au corps à corps contre chaque ennemi à portée de vos attaques au corps à corps. Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>"
         },
         {
             "id": "Furious Grab",
@@ -292,6 +302,11 @@
             "description": "<p>Vous utilisez la terreur de vos ennemis pour passer outre leurs défenses. Toute créature qui se trouve dans l’état effrayé est également prise au dépourvu face à vos attaques.</p>"
         },
         {
+            "id": "Advanced Muse's Whispers",
+            "name": "Advanced Muse's Whispers",
+            "description": "<p><strong>Prérequis</strong> Murmures de la muse basiques</p>\n<hr>\n<p>Vous gagnez un don de barde. Afin de remplir ses prérequis, votre niveau de barde est égal à la moitié du niveau de votre personnage</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don de barde.</p>"
+        },
+        {
             "id": "Victorious Vigor",
             "name": "Victorious Vigor",
             "description": "<p><strong>Déclencheur</strong> Vous réduisez un adversaire à 0 point de vie.</p>\n<hr>\n<p>Vos victoires martiales gonflent votre orgueil et vous donnent l’énergie de continuer à vous battre malgré vos blessures. Jusqu’à la fin de votre prochain tour, vous gagnez une quantité de points de vie temporaires égale à votre modificateur de Constitution.</p>"
@@ -317,6 +332,11 @@
             "description": "<p><strong>Prérequis</strong> légendaire en Connaissances</p>\n<hr>\n<p>Votre renommée s’est répandue à travers les territoires (par exemple, si vous avez Connaissances de la guerre, vous pourriez être un général ou tacticien légendaire). Cela fonctionne comme Artiste légendaire plus haut, sauf que vous gagnez des emplois de niveau supérieur quand vous Gagnez de l’argent avec Connaissances</p>"
         },
         {
+            "id": "Expert Alchemy",
+            "name": "Expert Alchemy",
+            "description": "<p><strong>Prérequis</strong> Dévouement d'alchimiste, expert en Artisanat</p>\n<hr>\n<p>Votre niveau d’Alchimie avancée passe à 3. Au niveau 10, il passe à 5</p>"
+        },
+        {
             "id": "Skill Training",
             "name": "Skill Training",
             "description": "<p><strong>Prérequis</strong> Intelligence 12</p>\n<hr>\n<p>Vous devenez qualifié dans la compétence de votre choix.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois en choisissant une nouvelle compétence à chaque fois.</p>"
@@ -325,6 +345,11 @@
             "id": "Calculated Splash",
             "name": "Calculated Splash",
             "description": "<p>Vous avez fait tous les calculs nécessaires pour optimiser l’éclaboussure de votre bombe. Quand vous lancez une bombe alchimique qui possède le trait éclaboussure, vous pouvez faire en sorte qu’elle inflige une quantité de dégâts égale à votre modificateur d’Intelligence (avec un minimum de 0) au lieu de la quantité normale de dégâts.</p>"
+        },
+        {
+            "id": "Advanced Order Training",
+            "name": "Advanced Order Training",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement d'Écuyer Chevalier infernal ; Dévouement de Chevalier infernal ou Dévouement de Signifer<br></span></p>\n<hr>\n<p>Vous obtenez le bénéfice supérieur de l'Ordre de Chevalier infernal auquel vous appartenez.&nbsp;</p>"
         },
         {
             "id": "Emblazon Armament",
@@ -512,6 +537,11 @@
             "description": "<p><strong>Prérequis</strong> Familiarité avec les armes halfelines</p>\n<hr>\n<p>Vous êtes particulièrement adepte du maniement des armes propres à votre peuple. À chaque fois que vous obtenez un succès critique à un jet d’attaque avec une épée courte, une fronde ou une arme halfeline, vous appliquez l’effet critique spécialisé de cette arme.</p>"
         },
         {
+            "id": "Advanced Arcana",
+            "name": "Advanced Arcana",
+            "description": "<p><strong>Prérequis</strong> Arcanes Basiques</p>\n<hr>\n<p>Vous gagnez un don de magicien. Afin de remplir ses prérequis, votre niveau de magicien est égal à la moitié du niveau de votre personnage.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don de magicien.</p>"
+        },
+        {
             "id": "Monk Resiliency",
             "name": "Monk Resiliency",
             "description": "<p><strong>Prérequis</strong> Dévouement du moine, classe n’accordant pas plus de points de vie par niveau que 8 + votre modificateur de Constitution</p>\n<hr>\n<p>Vous gagnez 3 points de vie supplémentaires pour chaque don de classe de l’archétype moine que vous possédez. Tant que vous continuez de sélectionner des dons de classe de l’archétype moine, vous continuez à gagner des points de vie supplémentaires de cette manière.</p>"
@@ -555,6 +585,11 @@
             "id": "Red Mantis Assassin Dedication",
             "name": "Red Mantis Assassin Dedication",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié avec le sabre dentelé, suivant Achaekek, alignement loyal mauvais, membre des assassins des Mantes Rouges<br><strong>Accès</strong> Vous êtes originaire de l'Île de Mediogalti.<br></span></p>\n<hr>\n<p>Vous avez appris à traquer et tuer vos proies avec un sabre dentelé. Vous devenez qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=15\">Discrétion</a> et en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> en assassinat ; si vous étiez déjà qualifié, vous devenez un expert à la place. Lorsque votre maîtrise dans n'importe quelle arme devient expert ou supérieur, vous obtenez également ce rang avec le <a href=\"https://2e.aonprd.com/Weapons.aspx?ID=65\">sabre dentelé</a>.<br><br><strong>Spécial</strong> Vous ne pouvez obtenir d'autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Assassin de la Mante rouge.&nbsp;</p>"
+        },
+        {
+            "id": "Ancestral Paragon",
+            "name": "Ancestral Paragon",
+            "description": "<p>Que ce soit par instinct, apprentissage ou magie, vous ressentez une connexion plus profonde avec votre ascendance. Vous gagnez un don ancestral de niveau 1.</p>"
         },
         {
             "id": "Decry Thief",
@@ -727,6 +762,11 @@
             "description": "<p><strong>Prérequis</strong> Posture du loup</p>\n<p><strong>Conditions</strong> Vous êtes dans la Posture du loup</p>\n<hr>\n<p>Vous fauchez les jambes de votre ennemi. Faites une Frappe de mâchoire de loup. Votre Frappe de mâchoire de loup bénéficie du trait fatale d12 et si elle réussit, la cible se retrouve à terre.</p>"
         },
         {
+            "id": "Scrollmaster Dedication",
+            "name": "Scrollmaster Dedication",
+            "description": "<div><strong>Archétype </strong>@Compendium[pf2e.archetypes.2eAiIynDWTMKTGDU]{Maître des parchemins}</div>\n<div><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> expert dans n'importe quelle compétence de Connaissance, membre de la Société des Éclaireurs affiliée à l'École des parchemins<br></span></div>\n<hr>\n<p>L'expérience acquise à rendre compte de vos aventures et découvertes vous fait bénéficier d'un discernement et d'une mémoire améliorés. Pendant 24 heures après avoir appris un fait important — comme le nom d'un PNJ que vous avez rencontrés, les détails de votre briefing de mission, et toute information similaire — vous pouvez vous en rappeler sans devoir faire de test, bien que cela ne vous permette pas automatiquement de mémoriser des suites entières de texte ou de nombres. Vous obtenez aussi un bonus de circonstance de +2 aux tests réalisés pour vour fournir d'un détail qui a surgi durant le cours de l'aventure, même si c'était il y a plus de 24 heures.</p>\n<p>Si vous disposezdu don @Compendium[pf2e.feats-srd.0Dy8RlFqrzCVOTl4]{Rapport Minutieux}&nbsp;et que vous êtes expert dans la compétence que vous utilisez pour Vous souvenir, votre bonus de circonstance pour vous souvenir de connaissances concernant les créatures from passe à +4.</p>\n<p><strong>Special</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de dévouement de l'archétype Maître des parchemins.&nbsp;</p>"
+        },
+        {
             "id": "Dragon's Rage Breath",
             "name": "Dragon's Rage Breath",
             "description": "<p><strong>Prérequis</strong> Instinct du dragon</p>\n<p><strong>Conditions</strong> Vous n’avez pas utilisé ce pouvoir depuis votre dernière Rage</p>\n<hr>\n<p>Votre prenez une grande inspiration et soufflez une puissante vague d’énergie sur un cône de 9 m ou une ligne de 18 m, qui inflige 1d6 dégâts par niveau. Les types de zone d’effet et de dégâts correspondent à ceux de votre dragon (voir le tableau 3–4 en page 87). Si vous avez utilisé ce pouvoir au cours de la dernière heure, la zone d’effet et la quantité de dégâts sont divisées par deux (un cône de 4,50 m ou une ligne de 9 m ; 1d6 dégâts pour toutes les tranches de 2 niveaux). Chaque créature qui se trouve dans la zone d’effet doit faire un jet de Réflexes basique.</p>"
@@ -847,6 +887,11 @@
             "description": "<p>Votre fureur emplit vos ennemis de terreur. Quand vous êtes enragé, vos actions Démoraliser et Mort de peur (respectivement une action d’Intimidation et un don de compétence d’Intimidation) gagnent le trait rage et vous pouvez donc les utiliser même si vous êtes enragé. Vous gagnez les dons de compétence Regard intimidant et Mort de peur dès que vous obtenez les prérequis nécessaires.</p>"
         },
         {
+            "id": "Divine Ally",
+            "name": "Divine Ally",
+            "description": "<p><strong>Prérequis</strong> Dévouement du Champion</p>\n<hr>\n<p>Vous gagnez un allié divin de votre choix.</p>"
+        },
+        {
             "id": "Bizarre Magic",
             "name": "Bizarre Magic",
             "description": "<p><strong>Prérequis</strong> maître en Occultisme</p>\n<hr />\n<p>Vous pouvez faire appel à des variations étranges dans vos incantations, que vous lanciez ou non des sorts occultes. Les DD pour Reconnaître des sorts que vous incantez et Identifier la magie que vous utilisez sont augmentés de 5.</p>"
@@ -900,6 +945,11 @@
             "id": "Spell Runes",
             "name": "Spell Runes",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Marqué de runes<br></span></p>\n<hr>\n<p>Les runes magiques sut votre corps vous confèrent plusieurs capacités magiques. Choisissez un sort <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=1\">arcanique</a> de niveau 1. Vous obtenez unu rune de sort sur votre coprs correspondant au sort choisi, que vous pouvez lancer une fois par jour comme un sort inné. Au niveau 6, vous obtenez une rune de sort correspondant à un sort arcanique de niveau 2 et au niveau 8, vous obtenez une rune de sort correspondant à un sort arcanique de niveau 3.&nbsp;</p>"
+        },
+        {
+            "id": "Advanced Wilding",
+            "name": "Advanced Wilding",
+            "description": "<p><strong>Prérequisites </strong>Milieu sauvage basique</p>\n<hr>\n<p>Vous gagnez un don de druide. Afin de remplir ses prérequis, votre niveau de druide est égal à la moitié du niveau de votre personnage. </p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don de druide.</p>\n<p>&nbsp;</p>"
         },
         {
             "id": "Shield Warden (Champion)",
@@ -1347,6 +1397,11 @@
             "description": "<p><strong>Prérequis</strong> légendaire en Vol, Vol à la tire</p>\n<hr>\n<p>Votre capacité à Voler dépasse l’entendement. Vous pouvez tenter de Voler quelque chose qui est activement utilisé ou qui serait extrêmement visible ou prendrait beaucoup de temps à retirer (comme des chaussures ou une armure portées). Vous devez le faire lentement et avec précaution,\nen y passant au moins 1 minute (et beaucoup plus pour des objets qui prennent normalement du temps à retirer, tels qu’une armure). Tout au long de cette durée, vous devez posséder un moyen de rester caché, par exemple à l’abri des ténèbres ou dans une foule animée. Vous subissez un malus de −5 à votre test de Vol. Même si vous réussissez, si l’objet est extrêmement proéminent – comme un harnois –, les observateurs remarqueront rapidement sa disparition après le vol.</p>"
         },
         {
+            "id": "Advanced Maneuver",
+            "name": "Advanced Maneuver",
+            "description": "<p><strong>Prérequisites</strong> Manoeuvre basique</p>\n<hr>\n<p>Vous gagnez un don de guerrier. Afin de remplir ses prérequis, votre niveau de guerrier est égal à la moitié du niveau de votre personnage</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don de guerrier.</p>"
+        },
+        {
             "id": "Brutal Bully",
             "name": "Brutal Bully",
             "description": "<p>Vous malmenez vos adversaires et ils ne risquent pas de l’oublier. Quand vous êtes enragé et que vous réussissez à Désarmer, Saisir, Pousser, ou faire un Croc‑en‑jambe à un adversaire, vous lui infligez une quantité de dégâts contondants égale à votre modificateur de Force ; vous ajoutez ces dégâts à ceux que vous infligez en cas de succès critique à un Croc‑en‑jambe.</p>"
@@ -1737,6 +1792,11 @@
             "description": "<p><strong>Prérequis</strong> alignement mauvais</p>\n<hr>\n<p>Votre vie de méfaits a fait de vous l’un des nœuds de l’abominable puissance de votre divinité. Vous êtes perpétuellement entouré d’une imprécation dont le niveau est égal à la moitié du vôtre (arrondi au supérieur). Le rayon est de 4,50 m et vous ne pouvez pas l’augmenter. Vous pouvez Révoquer le sort ; le cas échéant, il réapparaît automatique au bout d’une minute.</p>"
         },
         {
+            "id": "Advanced Kata",
+            "name": "Advanced Kata",
+            "description": "<p><strong>Prérequis</strong> Kata basique</p>\n<hr>\n<p>Vous gagnez un don de moine. Afin de remplir ses prérequis, votre niveau de moine est égal à la moitié du niveau de votre personnage.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don de moine.</p>"
+        },
+        {
             "id": "Bellflower Dedication",
             "name": "Bellflower Dedication",
             "description": "<p><strong>Archétype</strong> @Compendium[pf2e.archetypes.gw4J1pXYED71TPWx]{Laboureur de la Campanule}</p>\n<p><strong>Prérequis</strong> Charisme 14, expert en Discrétion et en Survie, membre du réseau Campanule</p>\n<hr>\n<p>Vous avez dédié votre vie à libérer les esclaves et à les escorter vers la liberté. Vous obtenez un bonus de statut de 1,5 m à votre Vitesse. Choisissez jusqu'à six autres personnes pour former votre \"récolte\". Les membres de votre récolte peuvent utiliser votre Vitesse pour voyager si elle est plus haute que la leur. Les membres à plus de 18 m de vous perdent ce bénéfice (de ce don ou de tout autre don de Laboureur de la Campanule) de faire partie de votre récolte, mais le regagnent immédiatement lorsqu'ils y rentrent de nouveau. Vous pouvez ajouter ou retirer quelqu'un de votre récolte en passant 10 minutes en conversation avec eux.</p>\n<p><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons de l'archétype Laboureur de la Campanule.</p>"
@@ -1882,6 +1942,11 @@
             "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec 0 en rechargement.</p>\n<hr>\n<p>Vous tirez deux fois à une vitesse aveuglante. Effectuez deux Frappes, chacune contre une cible distincte et avec un malus de −2. Les deux attaques comptent dans le calcul de votre malus d’attaques multiples mais le malus n’augmente qu’après avoir effectué ces deux attaques.</p>"
         },
         {
+            "id": "Advanced Hunter's Trick",
+            "name": "Advanced Hunter's Trick",
+            "description": "<p><strong>Prérequis</strong> Astuce du chasseur basique</p>\n<hr>\n<p>Vous gagnez un don de rôdeur. Afin de remplir ses prérequis, votre niveau de rôdeur est égal à la moitié du niveau de votre personnage</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don de rôdeur.</p>"
+        },
+        {
             "id": "Energized Font",
             "name": "Energized Font",
             "description": "<p><strong>Prérequis</strong> réserve de focalisation, au moins un sort inné obtenu par un héritage gnome ou un don ancestral et qui partage une tradition avec l’un de vos sorts focalisés</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<hr>\n<p>La magie qui coule dans vos veines vous donne le surcroît d’énergie nécessaire pour vous focaliser. Vous regagnez 1 point de focalisation, sans pouvoir dépasser votre maximum.</p>"
@@ -1920,6 +1985,11 @@
             "id": "Bargain Hunter",
             "name": "Bargain Hunter",
             "description": "<p><strong>Prérequis</strong> qualifié en Diplomatie</p>\n<hr>\n<p>Vous pouvez Gagner de l’argent (page 237) en utilisant Diplomatie, en passant vos journées à rechercher des bonnes affaires et à revendre à profit. Vous pouvez aussi passer du temps à dénicher une bonne affaire sur un objet. Cela fonctionne comme si vous utilisiez Gagner de l’argent avec Diplomatie, sauf qu’au lieu de gagner de l’argent, vous achetez l’objet avec un rabais égal à l’argent que vous auriez gagné, et vous l’obtenez gratuitement si votre revenu excède ou égale son coût. Enfin, si vous sélectionnez Chasseur de bonnes affaires lors de la création de personnage au niveau 1, vous commencez avec 2 po supplémentaires.</p>"
+        },
+        {
+            "id": "Unified Theory",
+            "name": "Unified Theory",
+            "description": "<p>Vous avez commencé à établir un lien significatif entre les fondements communs des quatre traditions magiques et les essences magiques, vous permettant de les comprendre à travers une lentille arcanique. Si vous utilisez une action ou un don de compétence qui nécessite un test de Nature, d’Occultisme ou de Religion, en fonction de la tradition magique, vous pouvez utiliser Arcanes à la place. Si vous subissiez normalement un malus ou aviez un DD plus haut en utilisant Arcanes avec une autre magie (comme quand vous utilisez Identifier la magie), ce n’est plus le cas.</p>"
         },
         {
             "id": "Remorseless Lash",
@@ -2062,6 +2132,11 @@
             "description": "<p>Vous concluez un pacte avec une créature qui vous sert et vous assiste dans vos incantations. Vous obtenez un familier (p. 217).</p>"
         },
         {
+            "id": "Different Worlds",
+            "name": "Different Worlds",
+            "description": "<p><strong>Prérequis</strong> capacité à sélectionner des dons d'éritage de multiples héritages</p>\n<hr>\n<p>Vos expériences séparées dans différentes sociétés ont évolué en des vies parfaitement séparées. Créez une seconde identité pour vous-même avec un nom, une histoire et un background entièrement différents. Cette identité doit correspondre à un des héritages dont vous pouvez sélectionner un don d'héritage. Vous obtenez le rang qualifié dans la Compétence de connaissance du second background que vous choisissez (mais pas les autres bénéfices de ce second background) et vous obtenez un bonus de circonstance de +4 aux tests de Duperie lorsque vous déclarez que votre seconde identité est véritableou lorsque vous vous déguisez pour prendre cette seconde identité.</p>\n<p><strong>Spécial</strong> À la discrétion du MJ, ce don peut être utilisé contre les non-humanoïdes s'ils ont des contacts réguliers avec des humanoïdes ou si vous êtes capable de vous déguiser vous-même en un membre de l'héritage de votre cible ou du type de créature.</p>"
+        },
+        {
             "id": "Opportunist",
             "name": "Opportunist",
             "description": "<p><strong>Prérequis.</strong> Dévouement du guerrier</p>\n<hr>\n<p>Vous gagnez la réaction Attaque d’opportunité, décrite p. 142.</p>"
@@ -2189,7 +2264,7 @@
         {
             "id": "Tiger Stance",
             "name": "Tiger Stance",
-            "description": "<p><strong>Conditions.</strong> Vous ne portez aucune armure</p>\n<hr>\n<p>de griffe de tigre. Ces attaques infligent 1d8 dégâts tranchants, elles font partie du groupe pugilat et possèdent les traits agile, finesse, mains nues et non létal. En cas de succès critique avec vos griffes de tigre, si vous infligez des dégâts, la cible subit 1d4 dégâts de saignement persistants. Tant que votre Vitesse s’élève à 6 m au moins en gardant cette posture, vous pouvez Faire un pas de 3 m.</p>"
+            "description": "<p><strong>Conditions.</strong> Vous ne portez aucune armure</p>\n<hr>\n<p>Vous prenez la posture d’un tigre et pouvez faire des attaques de griffe de tigre. Ces attaques infligent 1d8 dégâts tranchants, elles font partie du groupe pugilat et possèdent les traits agile, finesse, mains nues et non létal. En cas de succès critique avec vos griffes de tigre, si vous infligez des dégâts, la cible subit 1d4 dégâts de saignement persistants. Tant que votre Vitesse s’élève à 6 m au moins en gardant cette posture, vous pouvez Faire un pas de 3 m.</p>"
         },
         {
             "id": "Guardian's Deflection",
@@ -2255,6 +2330,11 @@
             "id": "Hefty Hauler",
             "name": "Hefty Hauler",
             "description": "<p><strong>Prérequis</strong> qualifié en Athlétisme</p>\n<hr>\n<p>Vous pouvez transporter plus que ne le suggère votre carrure. Augmentez de 2 vos limites d’Encombrement et Surchargé.</p>"
+        },
+        {
+            "id": "Legendary Linguist",
+            "name": "Legendary Linguist",
+            "description": "<p><strong>Prérequis</strong> légendaire en Société, Polyglotte</p>\n<hr>\n<p>Vous êtes tellement doué avec les langues que vous pouvez créer instantanément un pidgin. Vous pouvez toujours parler à n’importe quelle créature qui parle une langue – même une langue que vous ne connaissez pas – en créant une nouvelle langue pidgin qui utilise des termes simplifiés et transmet des concepts de base. Pour ce faire, vous devez d’abord au moins comprendre quel moyen de communication la créature utilise (parole, langue des signes, etc.).</p>"
         },
         {
             "id": "Greater Bloodline",
@@ -2782,6 +2862,11 @@
             "description": "<p><strong>Prérequis</strong> Dévouement du guerrier</p>\n<hr>\n<p>Vous gagnez un don de guerrier de niveau 1 ou 2.</p>"
         },
         {
+            "id": "Adroit Manipulation",
+            "name": "Adroit Manipulation",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> ethnie Mihrini<br></span></p>\n<hr>\n<p>On vous a donné des noeuds à défaire, des serrures à ouvrir et des puzzles de forgeron depuis que vous êtes enffant pour vous occuper les mains à faire quelque chose. Vous êtes qualifié en Vol (ou une compétence de votre choix, si vous étiez déjà qualifié en Vol). Si vous obtenez un succès sur un test de Vol à un test pour @Compendium[pf2e.actionspf2e.2EE4aF4SZpYf0R6H]{Crocheter une serrure}, vous obtenez un succès critique à la place.&nbsp;</p>"
+        },
+        {
             "id": "Cleric Dedication",
             "name": "Cleric Dedication",
             "description": "<p><strong>Prérequis</strong> Sagesse 14</p>\n<hr>\n<p>Vous lancez des sorts comme un prêtre. Vous accédez à l’activité Lancer un sort. Vous pouvez préparer quotidiennement deux tours de magie ordinaires à partir de la liste des sorts divins de cet ouvrage ou de tout autre tour de magie que vous apprenez ou découvrez. Vous êtes qualifié dans les jets d’attaque de sorts et les DD de sorts pour les sorts divins. Votre caractéristique essentielle d’incantation pour les sorts de l’archétype prêtre est la Sagesse, et ce sont des sorts de prêtre divins. Choisissez une divinité comme si vous étiez un prêtre. Vous devenez lié par l’anathème de cette divinité. Vous devenez qualifié en Religion et dans les compétences associées à votre divinité ; pour chacune de ces compétences dans lesquelles vous étiez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous ne gagnez aucune autre capacité venant du choix de votre divinité.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype prêtre.</p>"
@@ -2877,6 +2962,11 @@
             "description": "<p><strong>Conditions</strong> Vous avez une main libre et votre cible est à portée de cette main.</p>\n<hr>\n<p>Vous frappez votre adversaire et l’empoignez avec l’autre main. Effectuez une Frappe au corps à corps en gardant une main libre. Si la Frappe touche, vous empoignez la cible avec la main libre. La créature reste empoignée jusqu’à la fin de votre prochain tour ou jusqu’à ce qu’elle S’échappe, selon ce qui se produit en premier.</p>"
         },
         {
+            "id": "Advanced Dogma",
+            "name": "Advanced Dogma",
+            "description": "<p><strong>Prérequis</strong> Dogme basique</p>\n<hr>\n<p>Vous gagnez un don de prêtre. Afin de remplir ses prérequis, votre niveau de prêtre est égal à la moitié du niveau de votre personnage.</p>\n<p><strong>Spécial</strong>  Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don de prêtre.</p>"
+        },
+        {
             "id": "Quaking Stomp",
             "name": "Quaking Stomp",
             "description": "<p><strong>Fréquence</strong> une fois toutes les 10 min</p>\n<hr>\n<p>Vous tapez du pied avec une telle force que vous créez un petit tremblement de terre avec les effets du sort tremblement de terre</p>"
@@ -2945,6 +3035,11 @@
             "id": "Improved Twin Riposte (Ranger)",
             "name": "Improved Twin Riposte (Ranger)",
             "description": "<p>Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour accomplir une Riposte jumelée contre votre proie. Vous pouvez utiliser cette réaction supplémentaire, même si vous ne bénéficiez pas des avantages de Parade jumelée.</p>"
+        },
+        {
+            "id": "Aegis of Arnisant",
+            "name": "Aegis of Arnisant",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis </strong> Chevalier Vigilant, Blocage au bouclier, maître en Religion<br><strong>Conditions</strong> Vous maniez un bouclier.<br></span></p>\n<hr>\n<p>Inspiré par la légende d'Arnisant, vous transformez votre bouclier en protection magique. Jusqu'au début de votre prochain tour, vous obtenez la réaction suivante :</p>\n<h3 class=\"title\"><a href=\"https://2e.aonprd.com/Actions.aspx?ID=321\">Absorber dans l'égide</a> <img style=\"height: 15px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"></h3>\n<p><strong>Déclencheur</strong> Un ennemi lance un sort qui vous prend pour cible ou un allié dans les 4,5 m de vous</p>\n<hr>\n<p>Vous interposez la protection de votre bouclier contre le sort. Tentez un test de contresort, en utilisant votre modificateur de Religion comme modificateur de contresort. Sur un succès, le sort est contré et votre bouclier subit des dégâts à hauteur de quatre fois le niveau du sort lorsqu'il absorbe et disperse l'énergie magique. Sur un échec, le bouclier subit des dégâts égaux à deux fois le niveau du sort.</p>"
         },
         {
             "id": "Unexpected Shift",
@@ -3045,6 +3140,11 @@
             "id": "Bloodline Resistance",
             "name": "Bloodline Resistance",
             "description": "<p>Votre sang magique vous permet de mieux résister à la magie. Vous bénéficiez d’un bonus de statut de +1 à vos jets de sauvegarde contre les sorts et les effets magiques</p>"
+        },
+        {
+            "id": "Advanced Trickery",
+            "name": "Advanced Trickery",
+            "description": "<p><strong>Prérequis</strong> Ruse basique</p>\n<hr>\n<p>Vous gagnez un don de roublard. Afin de remplir ses prérequis, votre niveau de roublard est égal à la moitié du niveau de votre personnage</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don de roublard.</p>"
         },
         {
             "id": "Shattering Strike",
@@ -3497,6 +3597,11 @@
             "description": "<p><strong>Prérequis </strong> expert en Artisanat</p>\n<hr>\n<p>Vous pouvez Fabriquer des objets magiques, bien que certains aient d’autres conditions, comme listé au Chapitre 11. Quand vous sélectionnez ce don, vous gagnez les formules pour quatre objets magiques ordinaires de niveau 2 ou inférieur.</p>"
         },
         {
+            "id": "Charlatan",
+            "name": "Charlatan",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequisites</strong> qualifié en Duperie<br></span></p>\n<hr>\n<p>Vous avez appris à imiter les capacités des lanceurs de sort en étudiant leur gestuelle et leurs mots. Lorsque vous activez un objet magique pour générer un effet de sort, faites un test de Duperie. Si vous réussissez à battre le DD de Perception du spectateur, à ses yeux, vous apparaissez Lancer ce sort. Les spectateurs qui réussissent à Reconnaître le sort réalisent que vous avez employé un objet magique, alors que ceux qui réussissent après coup à Identifier la Magie ne peuvent toujours déterminer que la source de l'effet était un objet magique.&nbsp;&nbsp;</p>"
+        },
+        {
             "id": "Mobile Shot Stance",
             "name": "Mobile Shot Stance",
             "description": "<p>Vos tirs sont meurtriers lorsque vous vous déplacez. Tant que vous gardez cette posture, vos Frappes à distance ne déclenchent pas d’Attaques d’opportunité ou d’autres réactions normalement déclenchées par une attaque à distance. Si vous avez Attaque d’opportunité, vous pouvez l’utiliser avec une arme à distance chargée que vous maniez. Le cas échéant, la créature à l’origine du déclenchement doit être à 1,50 m ou moins de vous</p>"
@@ -3632,6 +3737,16 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> expert en Médecine<br></span></p>\n<hr>\n<p>Vous avez appris la médecine traditionnelle pour vous aider à récupérer des maladies et du poison et son utilisation assidue vous a rendu particulièrement résistant. Quand vous Soignez une maladie ou un poison, ou si quelqu’un d’autre utilise une de ces actions sur vous, augmentez à +4 le bonus de circonstances accordé sur un succès, et si le résultat du jet de sauvegarde du patient est un succès, il obtient un succès critique.&nbsp;</p>"
         },
         {
+            "id": "Advanced Fury",
+            "name": "Advanced Fury",
+            "description": "<p><strong>Prérequis</strong> Furie Basique</p>\n<hr>\n<p>Vous gagnez un don de barbare. Afin de remplir ses prérequis, votre niveau de barbare est égal à la moitié du niveau de votre personnage.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don de barbare.</p>"
+        },
+        {
+            "id": "Advanced Blood Potency",
+            "name": "Advanced Blood Potency",
+            "description": "<p><strong>Prérequis</strong> Pouvoir du sang basique</p>\n<hr>\n<p>Vous gagnez un don d’ensorceleur. Afin de remplir ses prérequis,\nvotre niveau d’ensorceleur correspond à la moitié du niveau de votre personnage.</p>\n<p><strong>Spécial</strong>  Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don d’ensorceleur.</p>"
+        },
+        {
             "id": "Disarming Stance",
             "name": "Disarming Stance",
             "description": "<p><strong>Prérequis</strong> qualifié en Athlétisme</p>\n<p><strong>Conditions</strong> Vous maniez une seule arme de corps à corps à une main et votre autre main (ou mains) est libre.</p>\n<hr>\n<p>Vous prenez une posture d’escrime vous permettant d’améliorer le contrôle de votre arme. Quand vous gardez cette posture, vous bénéficiez d’un bonus de circonstance de +1 aux tests d’Athlétisme pour Désarmer et d’un bonus de circonstances de +1 à vos jets de Réflexes quand vous vous défendez contre les tests pour vous Désarmer. Deplus, vous pouvez tenter de Désarmer les créatures jusqu’à deux catégories de taille maximum de plus que vous.</p>"
@@ -3697,6 +3812,11 @@
             "description": "<p><strong>Prérequis</strong> qualifié en Société</p>\n<hr>\n<p>Vous assimilez rapidement de nouvelles langues. Vous apprenez deux nouvelles langues parmi les langues courantes et peu courantes, et toutes celles auxquelles vous avez accès. Vous apprenez une langue supplémentaire si vous êtes ou devenez maître en Société et encore une de plus si vous êtes ou devenez légendaire.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, vous apprenez des langues supplémentaires.</p>"
         },
         {
+            "id": "Tiller's Aid",
+            "name": "Tiller's Aid",
+            "description": "<p><strong>Archétype</strong> Laboureur de la Campanule</p>\n<p><strong>Prérequis</strong> Dévouement de la Campanule</p>\n<hr>\n<p>Vous pouvez la réaction Aider pour aider un membre de votre récolte même si vous ne vous êtes pas préparé à le faire.</p>"
+        },
+        {
             "id": "Superior Bond",
             "name": "Superior Bond",
             "description": "<p><strong>Prérequis</strong> lien arcanique</p>\n<hr>\n<p>Lorsque vous puisez dans votre objet lié, vous pouvez y laisser un peu d’énergie à utiliser plus tard. Vous pouvez utiliser Drain d’objet lié une fois de plus par jour, mais seulement pour lancer un sort d’au minimum deux niveaux de moins que votre sort de plus haut niveau.</p>"
@@ -3745,6 +3865,11 @@
             "id": "Scout's Warning",
             "name": "Scout's Warning",
             "description": "<p><strong>Déclencheur</strong> Vous êtes sur le point de faire un test de Perception ou de Survie pour déterminer votre initiative.</p>\n<hr>\n<p>Vous avertissez vos alliés, visuellement ou oralement, d’un danger, et conférez à chacun un bonus de circonstances de +1 à son jet d’initiative. En fonction de la manière dont vous avez averti vos alliés (des gestes ou la voix), cette action possède le trait visuel ou audible.</p>"
+        },
+        {
+            "id": "Counter Perform",
+            "name": "Counter Perform",
+            "description": "<p><strong>Prérequis</strong> Dévouement du barde</p>\n<hr>\n<p>Vous gagnez le sort de composition @Compendium[pf2e.spells-srd.WILXkjU5Yq3yw10r]{contre-représentation}. Si vous n’en avez pas déjà une, vous obtenez une réserve de focalisation d’une valeur de 1 point de focalisation, que vous pouvez Refocaliser en mobilisant votre muse.</p>"
         },
         {
             "id": "Basic Druid Spellcasting",

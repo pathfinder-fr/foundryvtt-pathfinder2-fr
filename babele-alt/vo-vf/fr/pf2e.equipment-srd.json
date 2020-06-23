@@ -7,6 +7,16 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La malveillance d’une divinité mauvaise se tapit dans cette fiole d’eau. L’eau impie s’active lorsque vous lancez la fiole lors d’une Frappe. C’est une arme de jet simple avec un facteur de portée de 6 m. Contrairement aux bombes alchimiques, elle n’ajoute pas le trait manipulation à l’at‑ taque à laquelle elle est associée. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><em>L'eau impie</em>  inflige 1d6 dégâts de mal et 1 dégâts d’éclaboussure de mal. Elle blesse seulement les célestes et les créatures dotées d’une faiblesse à l’égard des dégâts de mal.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Frapper</span></p>"
         },
         {
+            "id": "Bronze bowl with wave imagery",
+            "name": "Bronze bowl with wave imagery (Bol en bronze avec des motifs de vagues)",
+            "description": ""
+        },
+        {
+            "id": "Snare Kit",
+            "name": "Snare Kit (Nécessaire de fabrication de pièges artisanaux :)",
+            "description": "<p><span class=\"fontstyle0\"> ce kit contient des outils et du matériel pour fabriquer des pièges artisanaux. Un kit de braconnage vous permet de Fabriquer des pièges artisanaux à l’aide de la compétence Artisanat.</span> </p>"
+        },
+        {
             "id": "Glaive",
             "name": "Glaive (Coutille)",
             "description": "<p><span class=\"fontstyle0\">cette arme d’hast est constituée d’une longue lame à un tranchant au bout d’un bâton de plus de 2 m. Elle est extrêmement efficace pour effectuer des coups tranchants mortels à distance.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
@@ -23,7 +33,7 @@
         },
         {
             "id": "Acid Flask (Lesser)",
-            "name": "Acid Flask (Lesser) (Fiole d’acide (inférieur))",
+            "name": "Acid Flask (Lesser) (Fiole d’acide (Inférieur))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide, les dégâts persistants et les dégâts d’éclaboussure d’acide indiqués.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La fiole inflige 1d6 dégâts d’acide persistants et 1 dégât d’éclaboussure d’acide.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Frapper</span></p>"
         },
         {
@@ -57,6 +67,11 @@
             "description": "<p><span class=\"fontstyle0\"> une longue-vue typique vous permet de voir huit fois plus loin que la normale. Une belle longue-vue ajoute un bonus d’objet de +1 au test de Perception pour remarquer des détails à distance</span> </p>"
         },
         {
+            "id": "Gold chalice with black pearls",
+            "name": "Gold chalice with black pearls (Calice en or serti de perles noires)",
+            "description": ""
+        },
+        {
             "id": "Rope",
             "name": "Rope (Corde)",
             "description": "<p>12 mètres de corde</p>"
@@ -87,6 +102,11 @@
             "description": "<p> vous avez besoin d’outils de voleur pour Crocheter des serrures ou Désamorcer des dispositifs (de certains types) à l’aide de la compétence Vol. Les outils de voleur d’infiltration ajoutent un bonus d’objet de +1 aux tests pour Crocheter des serrures et Désamorcer des dispositifs. Si vos outils de voleur sont brisés, vous pouvez les réparer en remplaçant les crochets par des crochets de rechange adaptés à vos outils ; cela ne nécessite pas l’utilisation de l’action Réparer. </p>"
         },
         {
+            "id": "Crystallized dragon heart",
+            "name": "Crystallized dragon heart (Cœur de dragon cristallisé)",
+            "description": ""
+        },
+        {
             "id": "Elven Curve Blade",
             "name": "Elven Curve Blade (Lame courbe elfique)",
             "description": "<p><span class=\"fontstyle0\">Version essentiellement plus longue du cimeterre, cette arme elfique traditionnelle possède une lame plus fine que celle de son \ncousin.</span> </p>"
@@ -105,6 +125,11 @@
             "id": "Winter Wolf Elixir (Lesser)",
             "name": "Winter Wolf Elixir (Lesser) (Elixir de loup arctique (inférieur))",
             "description": "Cet élixir vous réchauffe et améliore votre circulation. Pendant 24 h, vous êtes protégé contre les effets du froid important."
+        },
+        {
+            "id": "Hourglass",
+            "name": "Hourglass (Sablier)",
+            "description": ""
         },
         {
             "id": "Steel Shield",
@@ -127,9 +152,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce cristal de fluorite émet une étrange phosphorescence. Lorsque vous l’activez, l’arme devient une arme de frappe +1 pendant le reste de votre tour. Elle gagne un bonus d’objet de +1 aux jets d’attaque et ses dégâts sur un coup passent à deux fois ses dés de dégâts.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\" /> Imaginer; <strong>Déclencheur</strong>  Vous portez une attaque avec l’arme support, mais n’avez pas encore lancé le dé. </span></p>"
         },
         {
+            "id": "Diamond, large",
+            "name": "Diamond, large (Diamant, gros)",
+            "description": ""
+        },
+        {
             "id": "Disguise Kit (Elite)",
             "name": "Disguise Kit (Elite) (Kit de déguisement (Elite))",
             "description": "<p><span class=\"fontstyle0\">cette petite boîte en bois contient des produits de beauté, de fausses barbes, de la colle à postiche et quelques perruques simples. Vous avez généralement besoin d’un kit de déguisement pour créer un déguisement afin de vous faire passer pour quelqu’un à l’aide de la compétence Duperie. Un kit de déguisement d’élite ajoute un bonus d’objet de +1 aux tests concernés. Si vous avez fabriqué un grand nombre de déguisements, vous pouvez reconstituer votre stock de cosmétiques avec des cosmétiques de rechange adaptés au type de votre kit de déguisement. </span> </p>"
+        },
+        {
+            "id": "Peridot",
+            "name": "Peridot (Péridot)",
+            "description": ""
         },
         {
             "id": "Spiked Chain",
@@ -177,6 +212,11 @@
             "description": "Une faible brume émane de votre peau et vous masque pendant la durée indiquée. Comme d’ordinaire quand vous êtes masqué, mais que votre position est évidente, vous ne pouvez pas en profiter pour Vous cacher ni Être furtif. La durée est de 5 min."
         },
         {
+            "id": "Enormous tapestry of a major battle",
+            "name": "Enormous tapestry of a major battle (Tapisserie immense représentant une bataille majeure)",
+            "description": ""
+        },
+        {
             "id": "Serene Mutagen (Lesser)",
             "name": "Serene Mutagen (Lesser) (Mutagène de sérénité (inférieur))",
             "description": "Vous gagnez en sérénité intérieure, vous concentrant sur les détails et renforçant votre esprit contre les assauts mentaux, mais la violence vous rebute.Le bonus est de +1 ou +2 contre les effets mentaux et la durée de 1 min."
@@ -185,6 +225,11 @@
             "id": "Antidote (Lesser)",
             "name": "Antidote (Lesser) (Antidote (Inférieur))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"> L’antidote vous protège contre les toxines. Lorsque vous le buvez, vous recevez un bonus d’objet aux jets de Vigueur contre les poisons pendant 6 h.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"> Vous gagnez un bonus d’objet de +2.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activate</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interact</span></p>"
+        },
+        {
+            "id": "Obsidian",
+            "name": "Obsidian (Obsidienne)",
+            "description": ""
         },
         {
             "id": "Dagger of Venom",
@@ -207,6 +252,11 @@
             "description": "<div><strong>Armure</strong>  armure de cuir clouté</div>\n<div><strong>Armes</strong> dague, fronde avec 20 billes de fronde</div>\n<div><strong>Equipement</strong> pack d’aventurier, outils d’alchimiste, bandoulière,</div>\n<div>livre d’artisan basique, 2 jeux de chausse‑trappes, gaine</div>\n<div><strong>Options</strong> kit de réparation (2 po)</div>"
         },
         {
+            "id": "Disguise Kit (Replacement Cosmetics)",
+            "name": "Disguise Kit (Replacement Cosmetics) (Kit de déguisement (Stock de cosmétiques))",
+            "description": "<p><span class=\"fontstyle0\">Lorsque vous avez fabriqué un grand nombre de déguisements à partir d'un Kit de déguisement, vous pouvez reconstituer votre stock de cosmétiques avec des cosmétiques de rechange adapté au type de votre kit de déguisement.</span> </p>"
+        },
+        {
             "id": "Alchemist Goggles",
             "name": "Alchemist Goggles (Lunettes d'alchimiste)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces lunettes aux montures de bronze gravées de motifs de flamme sont dotées de verres lourds et épais. Une fois portées, elles vous confèrent un bonus d’objet de +1 aux tests d’Artisanat pour Fabriquer des objets alchimiques et un bonus d’ob‑ jet de +1 aux jets d’attaques avec des bombes alchimiques. Vous pouvez également ignorer les abris partiels quand vous eff&nbsp;</span></p>"
@@ -217,9 +267,19 @@
             "description": ""
         },
         {
+            "id": "Bronze chalice with bloodstones",
+            "name": "Bronze chalice with bloodstones (Calice en bronze avec des héliotropes)",
+            "description": ""
+        },
+        {
             "id": "Shortsword",
             "name": "Shortsword (Épée courte)",
             "description": "<p> ces lames se présentent dans toute une variété de formes et de styles, mais elles mesurent généralement 60 cm de long.</p>"
+        },
+        {
+            "id": "Coral idol of an elemental lord",
+            "name": "Coral idol of an elemental lord (Idole en corail d'un seigneur élémentaire)",
+            "description": ""
         },
         {
             "id": "Stone Bullet",
@@ -230,6 +290,11 @@
             "id": "Bastard Sword",
             "name": "Bastard Sword (Épée bâtarde)",
             "description": "<p><span class=\"fontstyle0\">Cette épée à large lame, parfois appelée épée à une-main-et-demie, a une prise plus longue et peut donc être tenue d’une main ou utilisée à deux mains pour fournir une puissance perforante ou tranchante supplémentaire.</span></p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Axiomatic",
+            "name": "Axiomatic (Axiomatique)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Complexe et symétrique, une rune axiomatique imprègne une arme d’énergie loyale. Une arme avec cette rune inflige 1d6 dégâts loyaux supplémentaires aux cibles d’alignement chaotique. Si vous êtes d’alignement chaotique, vous êtes affaibli 2 tant que vous portez ou ma‑\nniez cette arme. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous obtenez un coup critique sur un jet d’attaque avec cette arme contre une créature d’alignement chaotique, au lieu de faire un jet de dégâts, considérez que chaque dé de dégâts de l’arme donne un résultat moyen arrondi au supérieur (3 pour un d4, 4 pour un d6, 5 pour un d8, 7 pour un d12).<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de favrication</strong> Vous êtes d'alignement loyal.</span></p>"
         },
         {
             "id": "Antimagic Oil",
@@ -274,6 +339,11 @@
         {
             "id": "Alabaster",
             "name": "Alabaster (Albâtre)",
+            "description": ""
+        },
+        {
+            "id": "Gold mask of a high priest",
+            "name": "Gold mask of a high priest (Masque en or d'un haut prêtre)",
             "description": ""
         },
         {
@@ -327,9 +397,34 @@
             "description": ""
         },
         {
+            "id": "Bronze brazier with Asmodean artwork",
+            "name": "Bronze brazier with Asmodean artwork (Braséro en bronze de style asmodéen)",
+            "description": ""
+        },
+        {
             "id": "Cold Iron Shield (Standard-Grade)",
             "name": "Cold Iron Shield (Standard-Grade) (Bouclier en fer froid (qualité standard))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en fer froid ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p>Le bouclier a une Solidité de 7, 28 PV et un SR de 14</p>\n<p><strong>Conditions de fabrication</strong>  au moins 425 pa de fer froid</p>"
+        },
+        {
+            "id": "Carnelian",
+            "name": "Carnelian (Cornaline)",
+            "description": ""
+        },
+        {
+            "id": "Sheath",
+            "name": "Sheath (Gaine)",
+            "description": "<p><span class=\"fontstyle0\">une gaine ou fourreau vous permet de porter facilement une arme sur vous.</span> </p>"
+        },
+        {
+            "id": "Azurite",
+            "name": "Azurite (Azurite)",
+            "description": ""
+        },
+        {
+            "id": "Illuminated manuscript",
+            "name": "Illuminated manuscript (Manuscrit enluminé)",
+            "description": ""
         },
         {
             "id": "Animal Staff",
@@ -350,6 +445,11 @@
             "id": "Boots of Elvenkind (Greater)",
             "name": "Boots of Elvenkind (Greater) (Bottes elfiques (supérieures))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces bottes hautes aux extrémités pointues sont confection‑ nées dans du cuir souple et soyeux, noir ou vert, et ornées d’une élégante bordure et de boucles en or. Lorsque vous les portez, elles vous permettent d’augmenter l’agilité de vos mouvements, en vous conférant un bonus d’objet de +1 aux tests d’Acrobaties. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Frequence</strong> 1/heure; <strong>Effet</strong> Jusqu’à la fin de votre tour, vous ignorez les terrains difficiles quand vous vous déplacez sur le sol. Si vous portez une cape elfique, vous béné‑ ficiez également d’un bonus de statut de +1,50 m à votre Vitesse au sol jusqu’à la fin de votre tour. Les bottes confèrent un bonus de +2. Si vous portez aus‑ si une cape elfique, les bottes elfiques supérieures vous confèrent en permanence les effets d’un passage sans trace (DD 30) dans les environnements boisés.</span></p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Rhodochrosite",
+            "name": "Rhodochrosite (Rhodochrosite)",
+            "description": ""
         },
         {
             "id": "Class Kit (Champion)",
@@ -427,6 +527,11 @@
             "description": "<p>En buvant cette potion argentée, vous bénéficiez des effets de rapidité pendant 1 min.</p>"
         },
         {
+            "id": "Brass statuette of a bull",
+            "name": "Brass statuette of a bull (Statuette de taureau en laiton)",
+            "description": ""
+        },
+        {
             "id": "Heavy Crossbow",
             "name": "Heavy Crossbow (Arbalète lourde)",
             "description": "<p><span class=\"fontstyle0\">Cette grande arbalète est plus difficile à charger et plus conséquente qu’une arbalète classique, mais elle a davantage de puissance. </span> </p>"
@@ -487,9 +592,24 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les fines plaques de métal entrelacées tout le long de cette longue écharpe transforme cet accessoire de mode en une arme mortelle.&nbsp;</span></p>"
         },
         {
+            "id": "Chrysoberyl symbol of an evil eye",
+            "name": "Chrysoberyl symbol of an evil eye (Symbole de mauvais œil en chrysobéryl)",
+            "description": ""
+        },
+        {
             "id": "Sturdy Shield (Greater)",
             "name": "Sturdy Shield (Greater) (Bouclier renforcé (supérieur))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 15, 120 PV et un SR de 60&nbsp;</span></p>"
+        },
+        {
+            "id": "Scroll Case",
+            "name": "Scroll Case (Étui à parchemin)",
+            "description": "<p>les parchemins, cartes et autres documents enroulés sont stockés dans des étuis pour pouvoir les transporter en toute sécurité.</p>"
+        },
+        {
+            "id": "Ivory",
+            "name": "Ivory (Ivoire)",
+            "description": ""
         },
         {
             "id": "Mummified Bat",
@@ -517,6 +637,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos traits prennent un air bestial et votre masse musculaire se développe, mais cette forme massive est maladroite<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Avantage</strong> </span><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +4, vos griffes infligent 1d8 dégâts tranchants, vos mâchoires 1d10 dégâts perforants et la durée est de 1 h. Vous obtenez spécialisation martiale avec les griffes et les mâchoires ou spécialisation martiale supérieure si vous possédez déjà spécialisation martiale pour ces attaques à mains nues.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>inconvénient</strong> Vous subissez un malus de −1 à la CA et de −2 aux jets de Réflexes. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
+            "id": "Simple painting",
+            "name": "Simple painting (Peinture simple)",
+            "description": ""
+        },
+        {
             "id": "Class Kit (Druid)",
             "name": "Class Kit (Druid) (Kit de classe (Druide))",
             "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes </strong>4 javelines, pique</div>\n<div><strong>Equipement</strong> pack aventurier, bandoulière, houx et gui</div>\n<div><strong>Options</strong> outils de guérisseur (5 po)</div>"
@@ -537,14 +662,29 @@
             "description": "<p><span class=\"fontstyle0\"> ce bâton solide, mais mince, est effilé aux extrémités et bien équilibré. Il est conçu pour pouvoir être une arme à la fois offensive et défensive. </span></p>"
         },
         {
+            "id": "Grappling Hook",
+            "name": "Grappling Hook (Grappin)",
+            "description": "<p><span class=\"fontstyle0\">Vous pouvez lancer un grappin avec une corde attachée à celui-ci pour faciliter votre escalade. Pour fixer un grappin, vous effectuez un jet d’attaque avec le trait secret contre un DD en fonction de la cible, généralement au moins DD 20. En cas de succès, votre grappin a atteint une prise ferme, tandis qu’en cas d’échec critique, il semble pouvoir tenir, mais tombe en réalité lorsque vous vous trouvez à mi-chemin.</span> </p>"
+        },
+        {
             "id": "Greataxe",
             "name": "Greataxe (Grande hache)",
             "description": "<p>Cette grande hache d’armes est trop lourde pour pouvoir être maniée d’une seule main. Beaucoup de grandes haches comprennent deux lames et sont souvent « barbues », avec un crochet au bout pour augmenter la force de leur pouvoir tranchant. </p>"
         },
         {
+            "id": "Ogre Hook",
+            "name": "Ogre Hook (Crochet ogre)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les ogres sont connus pour utiliser d’immenses pics de guerre incurvés appelés des crochets d’ogre.&nbsp;</span></p>"
+        },
+        {
             "id": "Silver Buckler (Low-Grade)",
             "name": "Silver Buckler (Low-Grade) (Targe en argent (basse qualité))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en argent ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 1, 4 PV et un SR de 2.<br><strong>Conditions de fabrication</strong> au moins 15 pa d’argent &nbsp;</span></p>"
+        },
+        {
+            "id": "Mirror",
+            "name": "Mirror (Miroir)",
+            "description": ""
         },
         {
             "id": "Leaper's Elixir (Greater)",
@@ -577,6 +717,11 @@
             "description": "<p>Cette large dague est portée par les nains à la fois comme une arme, un outil et pour désigner un clan. Perdre ou devoir rendre une dague de clan est considéré comme une honte pour la plupart des nains. </p>"
         },
         {
+            "id": "Disguise Kit",
+            "name": "Disguise Kit (Kit de déguisement)",
+            "description": "<p><span class=\"fontstyle0\">Cette petite boîte en bois contient des produits de beauté, de fausses barbes, de la colle à postiche et quelques perruques simples. Vous avez généralement besoin d’un kit de déguisement pour créer un déguisement afin de vous faire passer pour quelqu’un à l’aide de la compétence Duperie. Un kit de déguisement d’élite ajoute un bonus d’objet de +1 aux tests concernés. Si vous avez fabriqué un grand nombre de déguisements, vous pouvez reconstituer votre stock de cosmétiques avec des cosmétiques de rechange adaptés au type de votre kit de déguisement.</span> </p>"
+        },
+        {
             "id": "Morningstar",
             "name": "Morningstar (Morgenstern)",
             "description": "<p>&nbsp;Cette arme possède un manche court se terminant par une boule en métal hérissée de pointes.</p>"
@@ -595,6 +740,11 @@
             "id": "Cytillesh Oil",
             "name": "Cytillesh Oil (Hule de Cytillesh)",
             "description": "<p>Cette épaisse substance est distillée à partir d’un champignon voleur d’esprit, le cytillesh, mais ne modifie pas les souvenirs.</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong>Vigueur DD 19; <strong>Durée maximum</strong> 4 rounds; <strong>Stade 1</strong> 1d10 dégâts de poison (1 round) ; <strong>Stade 2</strong> 1d12 dégâts de poison (1 round) ;<strong>Stade 3</strong>  2d10 dégâts de poison (1 round);<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
+        },
+        {
+            "id": "Pyrite",
+            "name": "Pyrite (Pyrite)",
+            "description": ""
         },
         {
             "id": "Main-Gauche",
@@ -625,6 +775,11 @@
             "id": "Platinum Pieces",
             "name": "Platinum Pieces (Pièce de platine)",
             "description": ""
+        },
+        {
+            "id": "Bi-Resonant Wayfinder",
+            "name": "Bi-Resonant Wayfinder (Guide à double résonance)",
+            "description": "<p>Comme un guide standard, mais une fois par jour vous pouvez l'activer pour lancer @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{guérison} sur une créature autre que vous-même, en utilisant soit la version à une action soit la version à deux actions de guérison comme un sort de niveau 1.&nbsp;</p>"
         },
         {
             "id": "Antidote (Major)",
@@ -667,6 +822,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 3, 12 PV et un SR de 6.<br><strong>Conditions de fabrication</strong> au moins 17 pa d’argent&nbsp;</span></p>"
         },
         {
+            "id": "Enormous chryselephantine sculpture by a legend",
+            "name": "Enormous chryselephantine sculpture by a legend (Sculpture chryséléphantine énorme par un sculpteur légendaire)",
+            "description": ""
+        },
+        {
             "id": "Scorpion Whip",
             "name": "Scorpion Whip (Fouet scorpion)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un fouet à scorpion est muni d'une série de lames aiguisées comme des rasoirs, placées à son extrémité. Contrairement aux fouets ordinaires, le fouet scorpion n'a pas le trait non létal, ce qui le rend plus mortel au combat mais moins efficace lorsque le manieur cherche à ramener ses ennemis vivants.&nbsp;</span></p>"
@@ -697,6 +857,16 @@
             "description": "<p><span class=\"fontstyle0\">Vous pouvez menotter une personne volontaire ou à votre merci comme une activité d’exploration prenant 10 à 30 secondes, en fonction de la taille de la créature et du nombre de menottes que vous utilisez. Une créature bipède ayant ces membres attachés subit un malus de circonstance de –4,5 m à sa Vitesse, et une créature à deux mains ayant les poignets attachés doit réussir un test nu DD 5 chaque fois qu’elle utilise une action de manipulation ou que cette action échoue. Ce DD peut être plus élevé en fonction de la force avec laquelle les menottes contraignent les mains. Une créature attachée à un objet immobile est elle-même immobilisée. Dans le cas de créatures ayant plus ou moins de membres, le MJ détermine l’effet éventuel des menottes. Libérer une créature de menottes médiocres nécessite de réussir deux tests de Vol DD 17, des menottes simples exigent de leur côté trois succès DD 22, des menottes intermédiaires quatre succès DD 27, de bonnes menottes cinq succès DD 32 et des menottes supérieures six succès DD 42. </span></p>"
         },
         {
+            "id": "Tack",
+            "name": "Tack (Sellerie)",
+            "description": "<p><span class=\"fontstyle0\">La sellerie comprend tout le matériel nécessaire pour équiper une monture, dont une selle, un mors et une bride, ainsi que des étriers si nécessaire. Les animaux particulièrement gros ou de forme irrégulière peuvent nécessiter des selles spéciales. Elles peuvent être plus coûteuses ou difficiles à trouver, comme déterminé par le MJ. La valeur d’Encombrement indiquée correspond à une sellerie portée par une créature. Si vous la transportez vous-mêmes, l’Encombrement augmente à 2.</span></p>"
+        },
+        {
+            "id": "Turquoise",
+            "name": "Turquoise (Turquoise)",
+            "description": ""
+        },
+        {
             "id": "Feather Token (Anchor)",
             "name": "Feather Token (Anchor) (Plume magique (ancre))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque plume magique semble être une simple plume d’oiseau exotique. La tige, plaquée or, porte une unique rune arcanique. Une fois activée, la plume magique se transforme en un autre objet qui s’utilise alors normalement. Chaque plume s’active une seule fois et reste généralement sous la forme de l’objet en lequel elle s’est changée.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette plume s’active uniquement à bord d’un bateau. Elle se trans‑ forme alors en ancre massive qui arrête immédiatement l’embarca‑ tion. Elle disparaît au bout d’un jour et le bateau peut reprendre sa course. L’ancre est fixée au navire par une chaîne de force magique que l’on peut éliminer avec dissipation de la magie ou briser (Solidité 30, 40 PV). &nbsp;</span></p>"
@@ -710,6 +880,11 @@
             "id": "Eagle Eye Elixir (Major)",
             "name": "Eagle Eye Elixir (Major) (Elixir d'oeil de faucon (majeur))",
             "description": "Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet aux tests de Perception. Il est plus important si vous tentez de repérer une porte ou une trappe secrètes. Le bonus est de +3 ou de +4 pour trouver une porte ou une trappe secrètes. À chaque fois que vous passez à 3 m d’une porte ou d’une trappe dérobées, le MJ fait automatiquement un test en secret pour savoir si vous la repérez."
+        },
+        {
+            "id": "Chandelier crafted from dreams",
+            "name": "Chandelier crafted from dreams (Chandelier confectionné à partir de songes)",
+            "description": ""
         },
         {
             "id": "Staff of Healing",
@@ -752,9 +927,19 @@
             "description": ""
         },
         {
+            "id": "Etched copper ewer",
+            "name": "Etched copper ewer (aiguière de cuivre gravée)",
+            "description": ""
+        },
+        {
             "id": "Feather Token (Tree)",
             "name": "Feather Token (Tree) (Plume magique (arbre))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque plume magique semble être une simple plume d’oiseau exotique. La tige, plaquée or, porte une unique rune arcanique. Une fois activée, la plume magique se transforme en un autre objet qui s’utilise alors normalement. Chaque plume s’active une seule fois et reste généralement sous la forme de l’objet en lequel elle s’est changée.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette plume s’active seulement sur une zone de terre fertile inoc‑ cupée. Elle se change alors en chêne au tronc de 18 m de haut pour 1,5 m de large. Si les conditions sont favorables, l’arbre continue de pousser.&nbsp;</span></p>"
+        },
+        {
+            "id": "Onyx",
+            "name": "Onyx (Onyx)",
+            "description": ""
         },
         {
             "id": "Ghoul Hide",
@@ -777,6 +962,11 @@
             "description": "<p>Cette potion semble changer de couleur et il n’y a pas deux personnes pour la décrire de la même manière. Une fois bue, elle tente de contrer les malédictions et maladies qui vous affectent, ainsi que les états aveugle et sourd issus de sorts vous affectant. La potion a un niveau de 7 pour contrer et un modificateur de +20 au jet.\n</p>"
         },
         {
+            "id": "Malachite",
+            "name": "Malachite (Malachite)",
+            "description": ""
+        },
+        {
             "id": "Dart",
             "name": "Dart (Fléchette)",
             "description": "<p><span class=\"fontstyle0\">Cette arme de jet est plus large qu’une flèche, mais plus courte qu’un javelot. Elle a généralement une courte tige de bois se terminant par une pointe en métal et est parfois stabilisée par des plumes ou de la fourrure.</span> </p>"
@@ -790,6 +980,11 @@
             "id": "Aldori Dueling Sword",
             "name": "Aldori Dueling Sword (Épée de duel aldori)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une épée de duel Aldori est une lame de duel fine à tranchant unique formant une légère courbe et disposant d'une pointe aguisée et renforcée.&nbsp;</span></p>"
+        },
+        {
+            "id": "Emerald, brilliant green",
+            "name": "Emerald, brilliant green (Émeraude, vert brillant)",
+            "description": ""
         },
         {
             "id": "Sawtooth Saber",
@@ -862,6 +1057,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette peau d’ours comporte la tête et les crocs de la puissante créature sur laquelle on l’a prélevée. Une fois portée, la cape recouvre votre tête et vos épaules en vous insufflant la férocité d’un ours. Si vous pouvez faire l’action Rage et que vous êtes en rage, des crocs qui infligent 1d10 dégâts perforants poussent dans votre bouche et des griffes qui infligent 1d6 dégâts tranchants et qui ont le trait agile poussent sur vos mains. Il s’agit d’un effet de transformation et les crocs comme les griffes sont des attaques à mains nues du groupe d’armes de pugilat. Vous bénéficiez des avan‑ tages d’une rune de puissance d’arme +1 et d’une rune de frappe avec ces attaques (ce qui vous confère un bonus d’objet de +1 aux jets d’attaque et augmente de 1 le nombre de dés de dégâts d’arme). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous avez un instinct animal (voir le barbare en page 82) et le pouvoir d’instinct rage bestiale, au lieu d’obtenir ces attaques à mains nues, les attaques à mains nues que vous faites grâce à la rage bestiale bénéficient des avantages d’une rune de puissance d’arme +2 et d’une rune de frappe supérieure (ce qui vous confère un bonus d’objet de +2 aux jets d’attaque et augmente de 2 le nombre de dés de dégâts d’arme). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes un barbare avec l’instinct animal.</span></p>"
         },
         {
+            "id": "Ceremonial dagger with onyx hilt",
+            "name": "Ceremonial dagger with onyx hilt (Dague cérémonielle avec un pommeau en onyx)",
+            "description": ""
+        },
+        {
             "id": "Sea Touch Elixir (Greater)",
             "name": "Sea Touch Elixir (Greater) (Elixir de caresse marine (supérieur))",
             "description": "Cette décoction salée modifie la peau des pieds et des mains. L’espace entre vos doigts et vos orteils devient palmé, ce qui vous donne une Vitesse de nage de 6 m pendant la durée indiquée. a durée est de 24 h et vous pouvez respirer sous l’eau"
@@ -903,8 +1103,8 @@
         },
         {
             "id": "Alchemist's Fire (Lesser)",
-            "name": "Alchemist's Fire (Lesser) (Feu Grégeois (inférieur))",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le feu grégeois est un mélange de liquides volatiles qui s’enflamment une fois exposés à l’air. Il inflige les dégâts de feu, les dégâts de feu persistants et les dégâts d’éclaboussure indiqués. Plusieurs types de bombes donnent un bonus d’objet aux jets d’attaque.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette bombe inflige 1d8 dégâts de feu, 1 dégât de feu persistant et 1 dégât d’éclaboussure de feu.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activate</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Strike</span></p>"
+            "name": "Alchemist's Fire (Lesser) (Feu Grégeois (Inférieur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le feu grégeois est un mélange de liquides volatiles qui s’enflamment une fois exposés à l’air. Il inflige les dégâts de feu, les dégâts de feu persistants et les dégâts d’éclaboussure indiqués. Plusieurs types de bombes donnent un bonus d’objet aux jets d’attaque.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette bombe inflige 1d8 dégâts de feu, 1 dégât de feu persistant et 1 dégât d’éclaboussure de feu.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Frapper</span></p>"
         },
         {
             "id": "Longbow",
@@ -912,9 +1112,19 @@
             "description": "<p><span class=\"fontstyle0\">cet arc de 1,5 m de longueur, généralement constitué d’un seul morceau d’orme, de noyer blanc ou d’if, a un tir puissant et excelle à propulser des flèches avec une grande force et à une distance extrême. Vous devez utiliser deux mains pour tirer avec un arc long, et vous ne pouvez pas l’utiliser lorsque vous êtes sur une monture. </span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
         },
         {
+            "id": "Sard",
+            "name": "Sard (Sardoine)",
+            "description": ""
+        },
+        {
             "id": "Healing Potion (Major)",
             "name": "Healing Potion (Major) (Potion de guérison (majeure))",
             "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué. La potion rend 8d8+30 points de vie. </p>"
+        },
+        {
+            "id": "Gold and opal bracelet",
+            "name": "Gold and opal bracelet (Bracelet en or avec des opales)",
+            "description": ""
         },
         {
             "id": "Barkskin Potion",
@@ -1002,6 +1212,11 @@
             "description": ""
         },
         {
+            "id": "Ten-Foot Pole",
+            "name": "Ten-Foot Pole (Perche de 3 m)",
+            "description": "<p><span class=\"fontstyle0\">Lorsque vous utilisez cette perche, vous pouvez utiliser Chercher pour fouiller une case jusqu’à 3 m. La perche n’est cependant pas assez solide pour qu’on puisse l’utiliser comme une arme.</span></p>"
+        },
+        {
             "id": "Class Kit (Fighter)",
             "name": "Class Kit (Fighter) (Kit de classe (Guerrier))",
             "description": "<div><strong>Armure</strong> armure de peau</div>\n<div><strong>Armes</strong> dague</div>\n<div><strong>Equipement</strong> pack d’aventurier, grappin, gaine</div>\n<div><strong>Options</strong> épée à deux mains (2 po), arc long avec 20 flèches</div>\n<div>(6 po, 2 pa) ou épée longue et bouclier en acier (3 po)</div>"
@@ -1070,6 +1285,11 @@
             "id": "Winter Wolf Elixir (Moderate)",
             "name": "Winter Wolf Elixir (Moderate) (Elixir du loup arctique (modéré))",
             "description": "Cet élixir vous réchauffe et améliore votre circulation. Pendant 24 h, vous êtes protégé contre les effets du froid important. Vous êtes aussi protégé contre le froid extrême"
+        },
+        {
+            "id": "Elegant cloth doll",
+            "name": "Elegant cloth doll (Poupée de chiffon élégante)",
+            "description": ""
         },
         {
             "id": "Waterskin",
@@ -1142,6 +1362,11 @@
             "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes</strong>  dague, arc long avec 20 flèches</div>\n<div><strong>Equipement</strong> pack d’aventurier, gaine</div>"
         },
         {
+            "id": "Brass scepter with amethyst head",
+            "name": "Brass scepter with amethyst head (Sceptre de laiton à pommeau d'améthyste)",
+            "description": ""
+        },
+        {
             "id": "Iron Cudgel",
             "name": "Iron Cudgel (Gourdin de fer)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce gourdin de fer miniature est généralement fixé sur une arme par une chaîne de fer. Lorsque vous l’activez, vous utili‑ sez Final brutal, comme le don de guerrier (p. 151). Vous devez remplir les conditions habituelles, y compris à l’égard du trait persévérer. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous disposez du don Final brutal, ajoutez deux dés de dégâts supplémentaires en cas de succès ou d’échec.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Final brutal; <strong>Conditions</strong> Vous êtes maître avec l’arme support. </span></p>"
@@ -1167,6 +1392,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces élégantes bottes rouges insufflent de l’énergie dans les muscles de vos jambes. Vous bénéficiez d’un bonus d’objet de +1,50 m à votre Vitesse au sol et à vos éventuelles Vitesses de nage et d’escalade.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous faites claquer les talons de vos bottes et bénéficiez de l’état accéléré pendant une minute. Vous pouvez utiliser l’action supplémentaire pour Marcher rapidement, Escalader ou Nager (vous devez toujours faire un test d’Athlétisme pour les actions Escalader et Nager, à moins que vous n’ayez les types de déplacement correspondants).</span></p>"
         },
         {
+            "id": "Ruby, large",
+            "name": "Ruby, large (rubis, gros)",
+            "description": ""
+        },
+        {
             "id": "Elven Chain (High-Grade)",
             "name": "Elven Chain (High-Grade) (Maille elfique (haute qualité))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La maille elfique est une chemise de mailles en mithral (p. 575) qui scintille même sous une très faible lumière. Elle donne un bonus d’objet de +2 à la CA et n’a pas de malus aux tests.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Créée par des artisans elfiques à l’aide d’antiques tech‑ niques artisanales, elle est exceptionnellement silen‑ cieuse. Contrairement aux autres chemises de mailles (même en mithral), elle ne possède pas le trait bruyante. On peut la graver de runes comme toute autre chemise de mailles en mithral.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication.</strong> Les matériaux de fabrication initiaux doivent comprendre une masse de mithral d’au moins 26 000 po. &nbsp;</span></p>"
@@ -1175,6 +1405,11 @@
             "id": "Cognitive Mutagen (Greater)",
             "name": "Cognitive Mutagen (Greater) (Mutagène cognitif (supérieur))",
             "description": "<p>Votre esprit devient limpide et rien n’entrave vos facultés intel‑ lectuelles, mais la matière physique vous semble éphémère..&nbsp;<span id=\"ctl00_MainContent_DetailedOutput\">Le bonus est de +3 et la durée de 1 h. Vous êtes qualifié dans une compétence basée sur l’Intelligence, à choisir à la création de l’élixir. </span></p>"
+        },
+        {
+            "id": "Copper and spinel puzzle box",
+            "name": "Copper and spinel puzzle box (boîte de puzzle en cuivre ornée de spinelles)",
+            "description": ""
         },
         {
             "id": "Acid Flask (Major)",
@@ -1213,7 +1448,7 @@
         },
         {
             "id": "Emerald",
-            "name": "Emerald (Emeraude)",
+            "name": "Emerald (Émeraude)",
             "description": ""
         },
         {
@@ -1247,6 +1482,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces chaussons souples sont en soie grise de qualité. Si les chaussons ne sont pas portés pendant un certain temps, ils ont tendance à attirer les araignées qui aiment nicher à l’intérieur. <br><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Fréquencé</strong> 1/heure; <strong>Effet</strong> De minuscules poils recouvrent les semelles des chaussons, ce qui vous permet de marcher sur des surfaces verticales ou même de vous déplacer sur des plafonds la tête en bas. Pendant une minute, vous obtenez une Vitesse d’escalade de 6 m et vous n’avez plus besoin de vos mains pour Escalader. Les chaussons doivent toute‑ fois suffisamment adhérer à un mur si vous souhaitez marcher dessus et ils sont donc inefficaces si vous vous déplacez le long de surfaces recouvertes de graisse, de glace ou d’huile.</span></p>"
         },
         {
+            "id": "Gold and aquamarine diadem",
+            "name": "Gold and aquamarine diadem (Diadème d'or serti d'aigue-marines)",
+            "description": ""
+        },
+        {
             "id": "Pick",
             "name": "Pick (Pic de guerre)",
             "description": "<p>Un pic conçu uniquement pour le combat, qui possède un manche en bois robuste et une tête lourde et pointue permettant de porter des coups dévastateurs. </p>"
@@ -1257,9 +1497,19 @@
             "description": "<p>Un pic de guerre léger est un outil minier modifié, avec un manche en bois se terminant par une tête de pioche, conçu pour perforer l’armure et la chair plutôt que briser les rochers.</p>"
         },
         {
+            "id": "Ancient dragon skull etched with mystic sigils",
+            "name": "Ancient dragon skull etched with mystic sigils (Crâne de dragon vénérable gravé de symboles mystiques)",
+            "description": ""
+        },
+        {
             "id": "Flint and Steel",
             "name": "Flint and Steel (Silex et amorce)",
             "description": "<p><span class=\"fontstyle0\">Les silex et amorces sont utiles pour allumer un feu si vous avez le temps de capter une étincelle, mais leur utilisation prend généralement trop de temps pour être pratique lors d’une rencontre. Même dans des conditions idéales, l’utilisation des silex et amorces pour générer une flamme nécessite au moins 3 actions, et souvent beaucoup plus de temps</span></p>"
+        },
+        {
+            "id": "Copper statuette of a salamander",
+            "name": "Copper statuette of a salamander (Statuette de salamandre en cuivre)",
+            "description": ""
         },
         {
             "id": "Animal Staff (Greater)",
@@ -1270,6 +1520,11 @@
             "id": "Healing Potion (Lesser)",
             "name": "Healing Potion (Lesser) (Potion de guérison (inférieur))",
             "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué.La potion rend 2d8+5 points de vie </p>"
+        },
+        {
+            "id": "Merchant's Scale",
+            "name": "Merchant's Scale (Balance de marchand)",
+            "description": ""
         },
         {
             "id": "Amethyst",
@@ -1312,6 +1567,11 @@
             "description": "<p>Pendant 1 min après avoir bu cette potion pétillante, dès que vous sau‑ tez, vous gagnez les effets du sort saut au niveau 1.</p>"
         },
         {
+            "id": "Famous portrait by a master",
+            "name": "Famous portrait by a master (Portrait fameux par un maître peintre)",
+            "description": ""
+        },
+        {
             "id": "Oil of Repulsion",
             "name": "Oil of Repulsion (Huile de répulsion)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette huile contient de la limaille de fer aimantée, repoussée de part et d’autre de la fiole. Pendant 1 min après application de cette huile sur une armure, toute créature qui vous touche avec une Frappe au corps à corps doit faire un jet de Vigueur DD 28 avec l’effet suivant. Succès. La créature n’est pas affectée<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès</strong> La créature n’est pas affectée.<br><strong>Echec</strong> La créature est repoussée de 3 m loin de vous (le MJ détermine au hasard dans quelle direction).<br><strong>Echec critique</strong> Comme l’échec et la créature est aussi jetée à terre.</span></p>"
@@ -1322,9 +1582,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des glyphes de protection contre la magie sont gravés sur ce bouclier. Tant que vous levez ce bouclier en acier (Solidité 6, 24 PV, SR 12), vous bénéficiez de son bonus de circonstances aux jets de sauvegarde contre les sorts qui vous prennent pour cible (ainsi qu’à la CA).&nbsp;&nbsp;</span></p>"
         },
         {
+            "id": "Ruby, small",
+            "name": "Ruby, small (Rubis, petit)",
+            "description": ""
+        },
+        {
             "id": "Oil of Weightlessness (Greater)",
             "name": "Oil of Weightlessness (Greater) (Huile d'apesanteur (supérieure))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez enduire un objet d’Encombrement 1 ou moins avec cette huile scintillante pour qu’il paraisse ne rien peser. Son Encombrement devient négligeable pendant 1 h. Cette huile peut affecter un objet de 2 Encombrements ou moins et dure 8 h.&nbsp;</span></p>"
+        },
+        {
+            "id": "Darkwood violin by a legend",
+            "name": "Darkwood violin by a legend (Violon en ébénite d'un facteur légendaire)",
+            "description": ""
         },
         {
             "id": "Demon Armor",
@@ -1335,6 +1605,16 @@
             "id": "Aeon Stone (Dull Gray)",
             "name": "Aeon Stone (Dull Gray) (Pierre d'éternité (gris terne))",
             "description": "<p>Une pierre d’éternité gris terne a perdu ses propriétés magiques spéciales, parfois après avoir trop utilisé une sphère tourmaline ou un ellipsoïde lavande. Elle tourne tout de même autour de votre tête comme n’importe quelle autre pierre d’éternité et peut donc représenter une option pour divers sorts qui prennent pour cible un objet, comme flamme éternelle, ce qui vous permet de garder les mains libres. </p>\n<p>Les pierres d’éternité gris terne n’ont aucun pouvoir de résonance.</p>"
+        },
+        {
+            "id": "Ladder (10-foot)",
+            "name": "Ladder (10-foot) (Échelle (3 m))",
+            "description": ""
+        },
+        {
+            "id": "Jasper",
+            "name": "Jasper (Jaspe)",
+            "description": ""
         },
         {
             "id": "Bracelets of Dashing",
@@ -1390,6 +1670,11 @@
             "id": "Indestructible Shield",
             "name": "Indestructible Shield (Bouclier indestructible)",
             "description": "<p>Un bouclier indestructible est un bouclier en adamantium de haute qualité (Solidité 13, 90 PV) capable de résister à tous les dégâts. Seul le sort désintégration peut l’endommager (déterminez les dégâts comme s’il était lancé contre une créature qui a raté son jet de sauvegarde) ou un artefact associé à la destruction, tel qu’une sphère d’annihilation.</p>\n<hr />\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Les matières premières initiales doivent in‑ clure au moins 4 400 po d’adamantium.</span></p>"
+        },
+        {
+            "id": "Hematite",
+            "name": "Hematite (Hématite)",
+            "description": ""
         },
         {
             "id": "Shrinking Potion (Greater)",
@@ -1460,6 +1745,11 @@
             "id": "Silvertongue Mutagen (Moderate)",
             "name": "Silvertongue Mutagen (Moderate) (Mutagène de langue dorée (modéré))",
             "description": "Vos traits deviennent séduisants et votre voix musicale et autoritaire, en revanche, les faits et les chiffres deviennent flous et l’émotion obs‑ curcit votre raisonnement. Le bonus est de +2 et la durée de 10 min."
+        },
+        {
+            "id": "Gold dragon statuette",
+            "name": "Gold dragon statuette (Statuette de dragon en or)",
+            "description": ""
         },
         {
             "id": "Infiltrator's Elixir",
@@ -1542,9 +1832,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez enduire un objet d’Encombrement 1 ou moins avec cette huile scintillante pour qu’il paraisse ne rien peser. Son Encombrement devient négligeable pendant 1 h.&nbsp;</span></p>"
         },
         {
+            "id": "Chrysoprase",
+            "name": "Chrysoprase (Chrysoprase)",
+            "description": ""
+        },
+        {
             "id": "Antidote (Moderate)",
             "name": "Antidote (Moderate) (Antidote (modéré))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’antidote vous protège contre les toxines. Lorsque vous le buvez, vous recevez un bonus d’objet aux jets de Vigueur contre les poisons pen‑ dant 6 h. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +3.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>"
+        },
+        {
+            "id": "Extra Ink and Paper",
+            "name": "Extra Ink and Paper (Encre eet papier supplémentaires)",
+            "description": "<p><span class=\"fontstyle0\">Vous pouvez recharger votre nécessaire d'écriture avec de l’encre et du papier supplémentaires.</span></p>"
         },
         {
             "id": "Elven Chain (Standard-Grade)",
@@ -1592,6 +1892,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Extrait de rochers tombés du ciel, l’adamantium est l’un des métaux connus les plus solides. Il est d’un noir luisant et très prisé pour son incroyable résistance et sa capacité à conserver un tranchant époustouflant.&nbsp;</span></p>\n<p>&nbsp;</p>\n<h2>Adamantine Items</h2>\n<table style=\"width: 381px; user-select: text; color: #191813; font-size: 13px; height: 197px;\" border=\"1\">\n<tbody style=\"box-sizing: border-box; user-select: text;\">\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; color: white; height: 32px; width: 220px; background-color: #522e2c; text-align: center;\">\n<h3><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Objets en adamantium</strong></span></h3>\n</td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 74px; text-align: center; background-color: #522e2c; height: 32px;\">\n<h3><strong style=\"box-sizing: border-box; user-select: text;\"><strong>Solidité</strong>&nbsp;</strong></h3>\n</td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 41px; text-align: center; background-color: #522e2c; height: 32px;\">\n<h3>PV</h3>\n</td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 45px; text-align: center; background-color: #522e2c; height: 32px;\">\n<h3>SR</h3>\n</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 25px; width: 220px; text-align: center; background-color: #f6f1e1;\"><strong>Objets fins</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 25px; width: 220px; background-color: #eee5c8; text-align: center;\">Qualité standard</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #eee5c8; height: 25px;\">10<span id=\"ctl00_MainContent_DetailedOutput\" style=\"box-sizing: border-box; user-select: text; display: block;\"></span></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #eee5c8; height: 25px;\">40</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #eee5c8; height: 25px;\">20</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 25px; width: 220px; text-align: center; background-color: #f6f1e1;\">Haute qualité</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">13</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">52</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">26</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 25px; width: 220px; text-align: center; background-color: #eee5c8;\"><strong>Objets</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #eee5c8; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #eee5c8; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #eee5c8; height: 25px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #f6f1e1; height: 25px;\">Qualité standard<strong><br></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">14</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">56</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">28</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #eee5c8; height: 25px;\">Haute qualité<strong><br></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #eee5c8; height: 25px;\">17</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #eee5c8; height: 25px;\">68</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #eee5c8; height: 25px;\">34</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #f6f1e1; height: 25px;\"><strong>Structures</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #eee5c8; height: 25px;\">Qualité standard<strong><br></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #eee5c8; height: 25px;\">28</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #eee5c8; height: 25px;\">112</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #eee5c8; height: 25px;\">56</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #f6f1e1; height: 25px;\">Haute qualité<strong><br></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">34</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">136</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">68</td>\n</tr>\n</tbody>\n</table>"
         },
         {
+            "id": "Tourmaline",
+            "name": "Tourmaline (Tourmaline)",
+            "description": ""
+        },
+        {
             "id": "Amphora with lavish scenes",
             "name": "Amphora with lavish scenes (Amphore portant des scènes somptueuses)",
             "description": ""
@@ -1607,6 +1912,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce morceau de jade est généralement taillé en forme de duelliste ou parfois de créature aux multiples bras. Lorsque vous l’activez, il attire l’attention des adversaires par magie. Jusqu’au début de votre prochain tour, les ennemis à portée de l’arme support du talisman sont pris au dépourvu.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> sur ordre; <strong>Conditions</strong> Vous êtes maître avec l’arme support. </span></p>"
         },
         {
+            "id": "Topaz",
+            "name": "Topaz (Topaze)",
+            "description": ""
+        },
+        {
             "id": "Religious Symbol (Silver)",
             "name": "Religious Symbol (Silver) (Symbole religieux (argent))",
             "description": "<p><span class=\"fontstyle0\">: ce morceau de bois ou d’argent est décoré de la représentation d’une divinité. Certains incantateurs divins, tels que les prêtres, peuvent utiliser un symbole religieux de leur divinité comme focaliseur divin pour utiliser certaines capacités et lancer des sorts. Un symbole religieux doit être tenu dans une main pour pouvoir être utilisé. </span> </p>"
@@ -1615,6 +1925,11 @@
             "id": "Mistform Elixir (Lesser)",
             "name": "Mistform Elixir (Lesser) (Elixir de brumeforme (inférieur))",
             "description": "Une faible brume émane de votre peau et vous masque pendant la durée indiquée. Comme d’ordinaire quand vous êtes masqué, mais que votre position est évidente, vous ne pouvez pas en profiter pour Vous cacher ni Être furtif. La durée est de 10 min."
+        },
+        {
+            "id": "Marble altar",
+            "name": "Marble altar (Autel en marbre)",
+            "description": ""
         },
         {
             "id": "Salamander Elixir (Moderate)",
@@ -1650,6 +1965,11 @@
             "id": "Viper's Fang",
             "name": "Viper's Fang (Croc de vipère)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque vous activez ce crâne de vipère renforcé par de la résine, vous faites une Attaque d’opportunité contre la créature déclencheur. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous disposez déjà de ce don, vous pouvez activer le <em>croc de vipère</em> par une action gratuite<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\" /> Imaginer; <strong>Déclencheur</strong>  Une créature à votre portée utilise une action de manipulation ou de déplacement, fait une attaque à distance ou quitte sa case lors de son action de mouvement <strong>Conditions</strong>  Vous êtes maître avec l’arme support.</span></p>"
+        },
+        {
+            "id": "Lapis lazuli",
+            "name": "Lapis lazuli (Lapis lazuli)",
+            "description": ""
         },
         {
             "id": "Jade Cat",
@@ -1707,6 +2027,11 @@
             "description": "Une fois que vous avez bu cet élixir, votre vue devient plus perçante dans les ténèbres. Vous gagnez vision dans le noir pour la durée indiquée.La durée est de 1 h."
         },
         {
+            "id": "Opal",
+            "name": "Opal (Opale)",
+            "description": ""
+        },
+        {
             "id": "Artisan's Tools",
             "name": "Artisan's Tools (Outils d'artisan)",
             "description": "<p>Vous avez besoin de ces outils pour créer, au moyen de la compétence Artisanat, des objets à partir de matériaux. Les outils d’artisan excellents accordent un bonus d'objet de +1 à votre test. Il faut des jeux d’outils différents pour effectuer différents travaux, tels que déterminés par le MJ ; ainsi, les outils de forgeron diffèrent des outils de menuisier. &nbsp;</p>"
@@ -1752,14 +2077,29 @@
             "description": "<p>Cette potion au goût de champignon agit comme rétrécir pour rapetis‑ ser votre personne et votre équipement. Une fois le délai écoulé, vous restez petit pendant 10 min.</p>\n<p><strong>Délai</strong> 1 minute</p>"
         },
         {
+            "id": "Moonstone",
+            "name": "Moonstone (Pierre de lune)",
+            "description": ""
+        },
+        {
             "id": "Boots of Bounding",
             "name": "Boots of Bounding (Bottes de saut)",
             "description": "<p>Les semelles élastiques de ces bottes de cuir épais amortissent les chocs sous vos pieds et allègent vos pas. Ces bottes vous confèrent un bonus d’objet de +1,50 m à votre Vitesse et un bonus d’objet de +2 aux tests d’Athlétisme pour Sauter en hauteur et Sauter en longueur. De plus, quand vous effectuez l’action Bondir, vous pouvez ajouter 1,50 m à la longueur ou 90 cm à la hauteur de vos sauts. </p>"
         },
         {
+            "id": "Sardonyx",
+            "name": "Sardonyx (Sardonyx)",
+            "description": ""
+        },
+        {
             "id": "Electric Eelskin",
             "name": "Electric Eelskin (Peau d'anguille électrique)",
             "description": "<p><span class=\"fontstyle0\">Une peau d’anguille luisante et glissante recouvre les plates de cette armure de cuir glissante de résilience supérieure +1. L’armure permet de respirer sous l’eau et vous donne un bonus d’objet de 2 aux tests d’Athlétisme pour Nager et aux tests de Discrétion sous l’eau.</span></p>\n<p><span class=\"fontstyle0\"><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Sur ordre, Interagir; <strong>Fréquence</strong> 1/heure; <strong>Effet</strong> Vous lancez  @Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]{décharge électrique} au niveau 2 avec un DD de 29. <br><br><strong>Conditions de fabrication</strong> Fournir une incantation de <em>décharge électrique</em>.</span></span></p>"
+        },
+        {
+            "id": "Pearl, black",
+            "name": "Pearl, black (Perle noire)",
+            "description": ""
         },
         {
             "id": "Aeon Stone (Black Pearl)",
@@ -1770,6 +2110,11 @@
             "id": "Floating Shield",
             "name": "Floating Shield (Bouclier flottant)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des motifs d’aile sont souvent gravés sur un <em>bouclier flottan</em>t. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiative<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Le bouclier se détache de votre bras et flotte à vos côtés en vous conférant auto‑ matiquement son bonus, comme si vous aviez Levé le bouclier. Étant donné que vous ne maniez pas le bouclier, vous ne pouvez pas utiliser de réactions telles que Blocage au bouclier avec lui mais vous profitez de ses avantages, même si vous utilisez déjà vos deux mains. Au bout d’une minute, le bouclier tombe au sol, ce qui met fin à l’effet flottant. Tant que le bouclier est adjacent à vous, vous pouvez Interagir pour vous en emparer, ce qui met fin prématurément à son effet flottant. </span></p>"
+        },
+        {
+            "id": "Crystal dinner set, fine silverware",
+            "name": "Crystal dinner set, fine silverware (Couverts d'argenterie fine et verres en cristal)",
+            "description": ""
         },
         {
             "id": "Aeon Stone (Clear Spindle)",
@@ -1802,9 +2147,19 @@
             "description": ""
         },
         {
+            "id": "Major painting by a legend",
+            "name": "Major painting by a legend (Peinture majeure de grande renommée)",
+            "description": ""
+        },
+        {
             "id": "Vanishing Coin",
             "name": "Vanishing Coin (Pièce d'invisibilité)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette pièce de cuivre pend à une lanière de cuir passée dans un trou en son centre. Tant qu’elle n’est pas activée, toutes les quelques minutes, la pièce devient invisible pendant quelques secondes. Lorsque vous l’activez, elle lance invisibilité de niveau 2 sur vous. Le sort dure jusqu’à la fin de votre prochain tour.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous tentez un test de Discrétion pour l’initiative, mais n’avez pas encore lancé le dé ;  <strong>Conditions</strong> Vous êtes maître en Discrétion.</span></p>"
+        },
+        {
+            "id": "Gold and garnet ring",
+            "name": "Gold and garnet ring (Anneau d'or avec un grenat)",
+            "description": ""
         },
         {
             "id": "Bronze Bull Pendant",
@@ -1922,6 +2277,11 @@
             "description": "<p>Une paire de ces gants en métal est livrée avec un harnois, une armure de plates et un clibanion ; ils peuvent également être achetés séparément et portés avec d’autres types d’armure. Ils protègent vos mains, mais les transforment également en armes mortelles.</p>"
         },
         {
+            "id": "Silk ceremonial armor",
+            "name": "Silk ceremonial armor (Armure de soie cérémonielle)",
+            "description": ""
+        },
+        {
             "id": "Kukri",
             "name": "Kukri (Kukri)",
             "description": "<p><span class=\"fontstyle0\">La lame de ce couteau long de 30 cm se courbe et n’a pas de garde au niveau de la poignée.</span> </p>"
@@ -1972,14 +2332,29 @@
             "description": "<p><span class=\"fontstyle0\">Dans l’armure de plates, la plupart des plates supérieures du corps sont utilisées comme un harnois, avec une protection de plates en acier plus légère ou plus clairsemée pour les bras et les jambes. Elle fournit une partie de la protection du harnois, associée à davantage de souplesse et de rapidité.  Une telle armure comporte également une sous-couche d’armure  matelassée (voir ci-dessous) et une paire de gantelets (page 285).</span> </p>"
         },
         {
+            "id": "Diamond, small",
+            "name": "Diamond, small (Diamant, petit)",
+            "description": ""
+        },
+        {
             "id": "Elemental Gem",
             "name": "Elemental Gem (Gemme élémentaire)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Pour activer cette gemme de verre, vous devez la jeter contre une sur‑ face solide en criant le nom d’un seigneur élémentaire. Elle se brise en lançant convocation d’élémentaire au niveau 5 pour convoquer un élémentaire que vous contrôlez tant que vous passez une action par round à Maintenir l’activation.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette gemme se décline en quatre variétés : transparente pour un tourbillon vivant, marron clair pour un glissement de terrain vivant, rouge orangé pour un incendie vivant et bleu vert pour une cascade vivante.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, interagir</span></p>"
         },
         {
+            "id": "Gold rapier with amethysts",
+            "name": "Gold rapier with amethysts (rapière en or avec des améthystes)",
+            "description": ""
+        },
+        {
             "id": "Moonlit Chain",
             "name": "Moonlit Chain (Maille lunaire)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette <em>chemise de mailles en argent +1</em> possède un col cousu d’images de la lune à ses différentes phases. Vous voyez au clair de lune comme si vous disposiez de vision nocturne.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" />&nbsp;Interagir;&nbsp;<strong>Fréquence</strong>&nbsp;1/j;&nbsp;<strong>Effet</strong>&nbsp;En touchant l’image de la nouvelle lune sur le col de l’armure, vous supprimez l’état ébloui pendant 1 min.&nbsp;<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>&nbsp;Les matériaux initiaux bruts doivent inclure 33 po d’argent.</span></p>"
+        },
+        {
+            "id": "Armored Skirt",
+            "name": "Armored Skirt (Jupe d'armure)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces jupes d'armure formées de plaques, aussi connues sous le nom de kilts d'armure, sont appréciées par les Chevaliers de Dernier rempart pour leur polyvalenceet leur aspect esthétique. Une jupe d'armure peut être accrochée en 2 actions Intéragir lorsqu'elle est portée avec une armure légère ou intermédiaire ou comme une partie du temps nécessaire pour revêtir une armure lourde.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsqu'elle est portées avec une cuirasse, une chemise de mailles, une cotte de mailles ou une armure d'écailles, une jupe d'armure augmente le bonus d'objet à la CA de 1, augmente la pénalité du test d'armure de 1, réduit le Maximum de Dextérité de 1, augmente le score de Force nécessaire pour ignorer la pénalité au test et réduit la pénaité à la Vitesse de 2 et ajoute le trait bruyante. Cela fait passer l'armure dans la catégorie supérieure (de légère à intermédiaire ou d'intermédiaire à lourde) et vous utilisez le bonus de compétence approprié à cette armure ajustée à ce type.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Alternativement, lorsqu'elle est portée pour remplacer les portions appropriées d'une armure de plates ou un harnois, réduisez le bonus d'objet de l'armure à la CA de 1, diminuez la pénalité d'armure de 1, diminuez le score de Force nécessaire pour ignorerla pénalité au test et réduisez la pénalité à la vitesse de 2, augmentez le Maximum de Dextérité de l'armure de 1 et ajoutez le trait bruyante à l'armure. Une jupe d'armure n'accorde aucun avantage lorsqu'elle est portée seule ou avec des armures qui ne figurent pas dans la liste ci-dessus.</span></p>"
         },
         {
             "id": "Cheetah's Elixir (Moderate)",
@@ -2005,6 +2380,11 @@
             "id": "Vial",
             "name": "Vial (Fiole)",
             "description": "<p><span class=\"fontstyle0\">Une fiole en verre simple peut contenir jusqu’à 30 ml de liquide. </span> </p>"
+        },
+        {
+            "id": "Gold urn with scenes of judgment",
+            "name": "Gold urn with scenes of judgment (Urne doré portant des scènes de jugement)",
+            "description": ""
         },
         {
             "id": "Lantern (Hooded)",
@@ -2067,6 +2447,11 @@
             "description": "<p>L’épée longue peut avoir un ou deux tranchants. Sa lame est lourde et mesure entre 1 et 1,20 m de long.</p>"
         },
         {
+            "id": "Jewel‑encrusted gold altar",
+            "name": "Jewel‑encrusted gold altar (Autel en or incrusté de gemmes)",
+            "description": ""
+        },
+        {
             "id": "Feather Token (Bird)",
             "name": "Feather Token (Bird) (Plume magique (oiseau))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque plume magique semble être une simple plume d’oiseau exotique. La tige, plaquée or, porte une unique rune arcanique. Une fois activée, la plume magique se transforme en un autre objet qui s’utilise alors normalement. Chaque plume s’active une seule fois et reste généralement sous la forme de l’objet en lequel elle s’est changée.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Une fois activée, cette plume se transforme en un petit moineau qui attend sur votre doigt que vous lui transmettiez un message d’au maximum 1 min, ainsi que le nom et la localisation approximative du destinataire. Vous devez avoir déjà rencontré ce dernier et il doit se trouver en un lieu où vous êtes déjà allé. Une fois que l’oiseau a reçu le message, il s’envole pour aller le remettre. Il parcourt 45 km par heure et cherche le destinataire à l’endroit que vous lui avez indiqué. S’il le trouve, il se place à côté de lui. Vos paroles émanent alors de l’oiseau, puis il s’envole et disparaît. Il disparaît aussi s’il ne parvient pas à trouver la cible après 10 h de recherches à l’endroit indiqué.</span></p>"
@@ -2080,6 +2465,11 @@
             "id": "Survey Map",
             "name": "Survey Map (Carte d'état-major)",
             "description": "<p><span class=\"fontstyle0\">Les cartes sont peu courantes. La plupart de celles que vous trouverez sont simples et fonctionnelles. Une carte d’état-major détaille un lieu spécifique avec un niveau de détail excellent. Une de ces cartes accorde un bonus d’objet de +1 à vos tests de Survie et à tous les tests de compétence pour Se souvenir, à condition qu’ils soient liés au lieu détaillé sur la carte. Les cartes sont parfois contenues dans des atlas réunissant un certain nombre de cartes de même qualité, souvent sur des sujets similaires. Un atlas coûte cinq fois plus cher qu’une carte seule et nécessite d’utiliser ses deux mains. Le MJ détermine quelles cartes sont disponibles à un endroit donné. </span> </p>"
+        },
+        {
+            "id": "Hand mirror with decorated frame",
+            "name": "Hand mirror with decorated frame (Miroir à main au cadre décoré)",
+            "description": ""
         },
         {
             "id": "Candle of Truth",
@@ -2117,6 +2507,11 @@
             "description": "<p>Un dépôt sablonneux occupe le fond de cette fiole de potion au goût d’eau de mer. Lorsque vous la buvez, vous bénéficiez d’une Vitesse de nage égale à votre Vitesse au sol pendant 1 heure.</p>"
         },
         {
+            "id": "Illustrated book",
+            "name": "Illustrated book (Livre illustré)",
+            "description": ""
+        },
+        {
             "id": "Iron Medallion",
             "name": "Iron Medallion (Médaillon de fer)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce petit médaillon a la forme d’un bouclier. Lorsque vous l’activez, vous gagnez un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 min. Si vous obtenez un échec sur le jet qui a déclenché le talisman, vous remportez à la place un succès et si vous obtenez un échec critique, vous essuyez à la place un échec.  <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous tentez un jet de Volonté contre un effet de terreur, mais n’avez pas encore lancé le dé ; <strong>Conditions</strong>Vous êtes maître en jets de Volonté ou disposez du pou‑ voir de classe bravoure.</span></p>"
@@ -2140,6 +2535,11 @@
             "id": "Rhino Hide",
             "name": "Rhino Hide (Peau de rhinocéros)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette armure de peau de résilience +1 est faite en peau de rhinocéros. Son malus d’armure aux tests est de −1 au lieu de −3. Lorsque vous utilisez le don de classe Charge soudaine en portant cette armure, votre Frappe ajoute 1d8 dégâts de plus.&nbsp;<br><br><strong>Conditions de fabrication</strong>Les matériaux initiaux bruts doivent inclure 320 po de peau de rhinocéros (un matériau ordinaire)..</span></p>"
+        },
+        {
+            "id": "Snare Kit (Specialist)",
+            "name": "Snare Kit (Specialist) (Nécessaire de fabrication de pièges artisanaux spécialisé)",
+            "description": "<p><span class=\"fontstyle0\">Ce kit contient des outils et du matériel pour fabriquer des pièges artisanaux. Un kit de braconnage vous permet de Fabriquer des pièges artisanaux à l’aide de la compétence Artisanat. Un kit de braconnage spécialisé vous accorde un bonus d’objet de +1 au test.</span> </p>"
         },
         {
             "id": "Cold Iron Buckler (Low-Grade)",
@@ -2167,9 +2567,24 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une rune <em>anarchique</em>, asymétrique et aux bords déchiquetés, canalise de l’énergie chaotique. Une arme avec cette rune inflige 1d6 dégâts chaotiques supplémentaires aux cibles d’alignement loyal. Si vous êtes d’alignement loyal, vous êtes affaibli 2 tant que vous portez ou maniez cette arme.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous obtenez un succès critique en Frappant une créature d’alignement loyal avec cette arme, lancez 1d6. Sur un 1 ou 2, vous infligez le double des dégâts minimums ; sur un 3 ou 4, doublez les dégâts normalement ; sur un 5 ou 6, vous infligez le double des dégâts maximums. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes d’alignement chaotique.</span></p>"
         },
         {
+            "id": "Bag of Holding (Type I)",
+            "name": "Bag of Holding (Type I) (Sac sans fond (type1))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Bien que ce sac en tissu orné de panneaux de soie aux riches cou‑ leurs ou de belles broderies ait l’air ordinaire, il ouvre sur un espace extradimensionnel bien plus grand que ce que pourrait contenir son enveloppe extérieure. L’Encombrement contenu dans le sac sans fond ne change pas son Encombrement à lui. La quantité d’Encombrement qu’il peut accueillir dépend de son type. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez Interagir avec le sac sans fond pour mettre un objet dedans ou le retirer, comme avec un sac ordinaire. Le sac a une grande contenance, mais pour y stocker un objet, il faut qu’il passe par son ouverture. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si le sac est surchargé ou brisé, il se déchire et est détruit, les objets qu’il contient étant perdus à jamais. S’il est mis sur l’envers, les objets qu’il contient se répandent à terre, intacts, mais il faut le remettre sur l’endroit avant de le réutiliser. Une créature vivante placée dans le sac a assez d’air pour respirer 10 min, ensuite elle commence à suffoquer. Elle peut faire un test DD 13 pour S’échapper. Un objet contenu dans le sac n’offre aucun avantage, il faut le sortir. La magie qui détecte les choses sur le même plan que l’incantateur ne détecte pas un objet dans le sac. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Capacité</strong> 25 encombrements</span></p>"
+        },
+        {
             "id": "Backpack",
             "name": "Backpack (Sac à dos)",
             "description": "<p>Un sac à dos peut contenir des objets jusqu’à un Encombrement 4. Si vous transportez ou stockez le sac plutôt que de l’avoir sur le dos, son Encombrement devient léger à la place de négligeable. Les deux premiers Encombrements que vous rangez dans votre  sac à dos ne sont pas pris en compte dans votre limite  d’Encombrement.\n.&nbsp;</p>"
+        },
+        {
+            "id": "Zircon",
+            "name": "Zircon (Zircon)",
+            "description": ""
+        },
+        {
+            "id": "Shell",
+            "name": "Shell (Coquillage)",
+            "description": ""
         },
         {
             "id": "Fear Gem",
@@ -2180,6 +2595,11 @@
             "id": "Clothing (Winter)",
             "name": "Clothing (Winter) (Vêtement (hiver))",
             "description": "<p><span class=\"fontstyle0\">Les vêtements d’hiver annulent les dégâts dus à un froid important issu de l’environnement et de réduisent les dégâts de froid extrême à de simples dégâts de froid important. </span> </p>"
+        },
+        {
+            "id": "Aquamarine",
+            "name": "Aquamarine (Aigue-marine)",
+            "description": ""
         },
         {
             "id": "Healing Potion (Moderate)",
@@ -2223,13 +2643,18 @@
         },
         {
             "id": "Armor Potency (+3)",
-            "name": "Armor Potency (+3) (Puissance d'armure (+2))",
+            "name": "Armor Potency (+3) (Puissance d'armure (+3))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des protections magiques dévient les attaques. Augmentez de 3 le bonus d’objet à la CA de l’armure. On peut graver trois runes de propriété sur l’armure.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la <em>rune de puissance</em> déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes légendaire en Artisanat.</span></p>"
         },
         {
             "id": "Deathcap Powder",
             "name": "Deathcap Powder (Poudre d'amanite phalloïde)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">On peut faire sécher la toxique amanite phalloïde, la broyer et en faire une poudre sans goût aux effets accélérés.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 33 ;<strong>Délait</strong>10 minutes; <strong>Maximum Duration</strong> 6 minutes; <strong>Stade 1</strong> 13d6 dégâts de poison (1 min); <strong>Stade 2</strong>  17d6 dégâts de poison et malade 2 (1 min) ; <strong>Stade 3</strong>  20d6 dégâts de poison et malade 3 (1 minute<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
+            "id": "Formula Book (Blank)",
+            "name": "Formula Book (Blank) (Formulaire)",
+            "description": "<p><span class=\"fontstyle0\">Un formulaire contient les formules nécessaires pour fabriquer des objets autres que l’équipement ordinaire de ce chapitre ; les alchimistes en reçoivent généralement un gratuitement. Chaque formulaire peut contenir des formules pour un maximum de 100 objets différents. Les formules peuvent également apparaître sur des feuilles de parchemin, des tablettes et presque n’importe quel autre support ; vous n’avez pas besoin de les copier dans un livre spécifique tant que vous pouvez les garder sous la main afin de vous y référer.</span> </p>"
         },
         {
             "id": "Potion of Swimming (Moderate)",
@@ -2307,6 +2732,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet ressemble à une javeline ordinaire gravée d’éclairs. Si vous la lancez sans l’activer, elle tournoie mollement dans les airs et ne touche pas sa cible, par contre lorsque vous l’activez, ses gravures se mettent à crépiter d’électricité sur votre ordre. Vous devez ensuite la lancer. Elle se brise dès qu’elle quitte votre main et libère sa magie sous forme d’un éclair de niveau 4 partant de votre espace. Il inflige 5d12 dégâts d’électricité, avec un jet de Réflexes DD 25.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> sur ordre, interagir</span></p>"
         },
         {
+            "id": "Carved wooden game set",
+            "name": "Carved wooden game set (Pièces de jeu en bois sculpté)",
+            "description": ""
+        },
+        {
             "id": "Coyote Cloak",
             "name": "Coyote Cloak (Cape de coyote)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce manteau poussiéreux est taillé dans une miteuse fourrure de coyote brune et grise. Vous gagnez un bonus d’objet de +1 aux tests de Survie. Si vous obtenez un succès critique à votre test de Survie pour Subsister, vous doublez le nombre de créatures supplémentaires que vous pouvez nourrir. &nbsp;</span></p>\n<p>La cape confère un bonus d’objet de +2, et si vous obtenez un succès critique à un test de Survie pour Subsister, vous quadruplez le nombre de créatures supplémentaires que vous pouvez nourrir. </p>"
@@ -2317,9 +2747,19 @@
             "description": "<p><span class=\"fontstyle0\"> Cette trousse, contenant des bandages, des herbes et des outils de suture, est nécessaire aux tests de Médecine pour Prodiguer les premiers soins, Soigner une maladie, Soigner un empoisonnement ou Soigner les blessures. Les outils de guérisseur complets fournissent un bonus d’objet de +1 à de tels tests. Lorsque vous transportez ces outils d’un endroit à un autre, vous gardez la plupart des composants à portée de la main, dans vos poches ou dans vos bandoulières. </span> </p>"
         },
         {
+            "id": "Gold necklace with peridots",
+            "name": "Gold necklace with peridots (Collier en or serti de péridots)",
+            "description": ""
+        },
+        {
             "id": "Aklys",
             "name": "Aklys (Aklys)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’aklys est un gourdin de jet avec un crochet à un bout et une longue corde accrochée à l’autre bout. Bien qu’on ne trouve pas d’aklys dans la plupart des commerces, on peut en acheter un pour 5 po auprès d’un vendeur spécialisé dans les armes étranges.&nbsp;</span></p>"
+        },
+        {
+            "id": "Pearl, saltwater",
+            "name": "Pearl, saltwater (Perle d'eau salée)",
+            "description": ""
         },
         {
             "id": "Nunchaku",
