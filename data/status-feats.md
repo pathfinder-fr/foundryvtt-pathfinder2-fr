@@ -2,11 +2,11 @@
 
  * **libre**: 118
  * **officielle**: 607
- * **aucune**: 415
+ * **aucune**: 417
  * **changé**: 60
 
 
-Dernière mise à jour: 2020-06-22 20:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-23 21:57 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -61,6 +61,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-05-PncXj46fgSwTWRl6.htm](feats/ancestry-05-PncXj46fgSwTWRl6.htm)|Ankle Bite|
 |[ancestry-05-rnEfO5eyRw7Fywzb.htm](feats/ancestry-05-rnEfO5eyRw7Fywzb.htm)|Tail Spin|
 |[ancestry-05-ShH7Wl7xfJL07DZC.htm](feats/ancestry-05-ShH7Wl7xfJL07DZC.htm)|Leshy Glide|
+|[ancestry-05-ShihzR1EVobmEtaV.htm](feats/ancestry-05-ShihzR1EVobmEtaV.htm)|Fey Influence|
 |[ancestry-05-sTqdFqWVL9yxi5wt.htm](feats/ancestry-05-sTqdFqWVL9yxi5wt.htm)|Protective Sheath|
 |[ancestry-05-t3IzY8uSyFj3aGmh.htm](feats/ancestry-05-t3IzY8uSyFj3aGmh.htm)|Shed Tail|
 |[ancestry-05-U5FcfRvveTKtgebq.htm](feats/ancestry-05-U5FcfRvveTKtgebq.htm)|Torch Goblin|
@@ -383,6 +384,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-20-WAWaew53zpTFVwQM.htm](feats/class-20-WAWaew53zpTFVwQM.htm)|Synergistic Spell|
 |[class-20-xhuXpOFOxDpJgngm.htm](feats/class-20-xhuXpOFOxDpJgngm.htm)|Perfect Encore|
 |[class-20-zOK6IFSz3DIBRjEw.htm](feats/class-20-zOK6IFSz3DIBRjEw.htm)|Craft Philosopher's Stone|
+|[classfeature-00-ZyeiMuzdvfyXhINA.htm](feats/classfeature-00-ZyeiMuzdvfyXhINA.htm)|Rain of Embers Stance|
 |[general-01-N8Xz5fuW6o7GW124.htm](feats/general-01-N8Xz5fuW6o7GW124.htm)|Fast Recovery|
 |[general-03-jFmdevE4nKevovzo.htm](feats/general-03-jFmdevE4nKevovzo.htm)|Steel Your Resolve|
 |[general-05-dIIqejy4JAVuF0I8.htm](feats/general-05-dIIqejy4JAVuF0I8.htm)|Fey Influence|

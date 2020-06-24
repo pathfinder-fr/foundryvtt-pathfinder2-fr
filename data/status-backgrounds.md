@@ -1,19 +1,21 @@
 # État de la traduction (backgrounds)
 
+ * **aucune**: 25
  * **changé**: 44
- * **aucune**: 22
 
 
-Dernière mise à jour: 2020-06-22 20:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-23 21:57 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[0qrZaukJ0aIoPx3P.htm](backgrounds/0qrZaukJ0aIoPx3P.htm)|Iolite Trainee Hobgoblin|
 |[5DnDnoSyyd1UPyRV.htm](backgrounds/5DnDnoSyyd1UPyRV.htm)|Touched by Dahak|
 |[7MKHFbZitRzTwiP0.htm](backgrounds/7MKHFbZitRzTwiP0.htm)|Dreamer of the Verdant Moon|
 |[7woKMTCFU4NC06l5.htm](backgrounds/7woKMTCFU4NC06l5.htm)|Aiudara Seeker|
+|[9d5Mo7qNSpDyKWzY.htm](backgrounds/9d5Mo7qNSpDyKWzY.htm)|Finadar Leshy|
 |[DW3mWZ4wepwNVfAN.htm](backgrounds/DW3mWZ4wepwNVfAN.htm)|Rigger|
 |[FA6ADIwZ0IV1LZv1.htm](backgrounds/FA6ADIwZ0IV1LZv1.htm)|Circus Born|
 |[G4akDE6k0GpQ3dpD.htm](backgrounds/G4akDE6k0GpQ3dpD.htm)|Hermean Heritor|
@@ -30,6 +32,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Rc2l1j73EC2hPmUA.htm](backgrounds/Rc2l1j73EC2hPmUA.htm)|Refugee|
 |[sdPE9bha7IOb4O8i.htm](backgrounds/sdPE9bha7IOb4O8i.htm)|Butcher|
 |[T6nf9vQKWzHui59P.htm](backgrounds/T6nf9vQKWzHui59P.htm)|Lost and Alone|
+|[VJx0O3rGNjZ0X22p.htm](backgrounds/VJx0O3rGNjZ0X22p.htm)|Sewer Dragon|
 |[WPyDbom83vu7Fy5i.htm](backgrounds/WPyDbom83vu7Fy5i.htm)|Droskari Disciple|
 |[xKVVXEDgNeJAuIcX.htm](backgrounds/xKVVXEDgNeJAuIcX.htm)|Barker|
 |[xlhQlrfhucYxkyPD.htm](backgrounds/xlhQlrfhucYxkyPD.htm)|Raised by Belief|

@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 449
- * **libre**: 90
- * **aucune**: 770
+ * **officielle**: 450
+ * **libre**: 91
+ * **aucune**: 768
  * **changé**: 17
 
 
-Dernière mise à jour: 2020-06-22 20:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-23 21:57 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -598,7 +598,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-BlqDXtRZcevCYRNz.htm](equipment/treasure-BlqDXtRZcevCYRNz.htm)|Jeweled mithral crown|
 |[treasure-CNLt74pUxM0GGjyl.htm](equipment/treasure-CNLt74pUxM0GGjyl.htm)|Simple silver circlet|
 |[treasure-CRTNNgrmssD6bQqQ.htm](equipment/treasure-CRTNNgrmssD6bQqQ.htm)|Jet|
-|[treasure-D8gzHTvP0uFxjwyA.htm](equipment/treasure-D8gzHTvP0uFxjwyA.htm)|Bloodstone|
 |[treasure-DFNmzduKX6NSuPrT.htm](equipment/treasure-DFNmzduKX6NSuPrT.htm)|Tiger's‑eye|
 |[treasure-dloHmPtGDr8zSwJu.htm](equipment/treasure-dloHmPtGDr8zSwJu.htm)|Leather flagon with Caydenite symbol|
 |[treasure-DWzoqVeEamX118Qk.htm](equipment/treasure-DWzoqVeEamX118Qk.htm)|Jet and white gold game set|
@@ -782,7 +781,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-mlrmkpOlwpnGkw4I.htm](equipment/weapon-mlrmkpOlwpnGkw4I.htm)|Maul|
 |[weapon-nOFcCidD5AwVZWTv.htm](equipment/weapon-nOFcCidD5AwVZWTv.htm)|War Razor|
 |[weapon-nSO0Z662LkkLfa2u.htm](equipment/weapon-nSO0Z662LkkLfa2u.htm)|Shield Spikes|
-|[weapon-UfurZQK6H6SgOjqe.htm](equipment/weapon-UfurZQK6H6SgOjqe.htm)|Ranseur|
 
 ## Liste des traductions complétés
 
@@ -1182,6 +1180,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-B6B7tBWJSqOBz5zz.htm](equipment/treasure-B6B7tBWJSqOBz5zz.htm)|Gold Pieces|Pièces d'or|libre|
 |[treasure-bgswgiXV12HW0aEz.htm](equipment/treasure-bgswgiXV12HW0aEz.htm)|Simple painting|Peinture simple|libre|
 |[treasure-cSBupUqjsHJwivbp.htm](equipment/treasure-cSBupUqjsHJwivbp.htm)|Etched copper ewer|aiguière de cuivre gravée|libre|
+|[treasure-D8gzHTvP0uFxjwyA.htm](equipment/treasure-D8gzHTvP0uFxjwyA.htm)|Bloodstone|Héliotrope|libre|
 |[treasure-dBQQZUXaMhCAFkpY.htm](equipment/treasure-dBQQZUXaMhCAFkpY.htm)|Aquamarine|Aigue-marine|libre|
 |[treasure-DE4880DRtsRqax1N.htm](equipment/treasure-DE4880DRtsRqax1N.htm)|Lapis lazuli|Lapis lazuli|libre|
 |[treasure-Ds8GJEQyRYamRIiB.htm](equipment/treasure-Ds8GJEQyRYamRIiB.htm)|Malachite|Malachite|libre|
@@ -1333,6 +1332,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-Tt4Qw64fwrxhr5gT.htm](equipment/weapon-Tt4Qw64fwrxhr5gT.htm)|Dart|Fléchette|officielle|
 |[weapon-UCH4myuFnokGv0vF.htm](equipment/weapon-UCH4myuFnokGv0vF.htm)|Sling|Fronde|officielle|
 |[weapon-UcLqR32mNaGdNkUk.htm](equipment/weapon-UcLqR32mNaGdNkUk.htm)|Fist|Poing|libre|
+|[weapon-UfurZQK6H6SgOjqe.htm](equipment/weapon-UfurZQK6H6SgOjqe.htm)|Ranseur|Corsèque|officielle|
 |[weapon-UX71GkWBL9g41VwM.htm](equipment/weapon-UX71GkWBL9g41VwM.htm)|Greatsword|Épée à deux mains|officielle|
 |[weapon-V2upqRKTOeYjJoWR.htm](equipment/weapon-V2upqRKTOeYjJoWR.htm)|Club|Gourdin|libre|
 |[weapon-vlnzTSsRmWeSkt9O.htm](equipment/weapon-vlnzTSsRmWeSkt9O.htm)|Glaive|Coutille|officielle|

@@ -82,6 +82,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le pourtour de cet élégant anneau de cuivre est gravé de minuscules images d’oiseaux chanteurs. Vous gagnez un bonus d’objet de +1 aux tests de Duperie.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> TVous faites tourner l’anneau sur votre doigt pour projeter votre voix par magie en produisant les effets du sort ventriloquie (DD 19).</span></p>"
         },
         {
+            "id": "Bloodstone",
+            "name": "Héliotrope",
+            "description": ""
+        },
+        {
             "id": "Chest",
             "name": "Coffre",
             "description": "<p><span class=\"fontstyle0\">Un coffre en bois peut contenir des objets jusqu’à un Encombrement 8.</span></p>"
@@ -1305,6 +1310,11 @@
             "id": "Oil of Mending",
             "name": "Huile de réparation",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">On dirait que d’innombrables filaments translucides flottent dans une fiole d’huile de réparation. Si on applique cette huile sur un objet, il bénéficie des effets de réparation niveau 2.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> 1 min (Interagir)</span></p>"
+        },
+        {
+            "id": "Ranseur",
+            "name": "Corsèque",
+            "description": "<p>Cette arme d’hast est un long trident avec une branche centrale plus longue que les deux autres.</p>"
         },
         {
             "id": "Healing Potion (Greater)",
