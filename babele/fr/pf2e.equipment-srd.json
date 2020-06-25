@@ -79,7 +79,7 @@
         {
             "id": "Ventriloquist's Ring",
             "name": "Anneau de ventriloquie",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le pourtour de cet élégant anneau de cuivre est gravé de minuscules images d’oiseaux chanteurs. Vous gagnez un bonus d’objet de +1 aux tests de Duperie.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> TVous faites tourner l’anneau sur votre doigt pour projeter votre voix par magie en produisant les effets du sort ventriloquie (DD 19).</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le pourtour de cet élégant anneau de cuivre est gravé de minuscules images d’oiseaux chanteurs. Vous gagnez un bonus d’objet de +1 aux tests de Duperie.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous faites tourner l’anneau sur votre doigt pour projeter votre voix par magie en produisant les effets du sort @Compendium[pf2e.spells-srd.yV7Ouzaoe7DHLESI]{ventriloquie} (DD 19).</span></p>"
         },
         {
             "id": "Bloodstone",
@@ -532,6 +532,11 @@
             "description": "<p>En buvant cette potion argentée, vous bénéficiez des effets de rapidité pendant 1 min.</p>"
         },
         {
+            "id": "Staff of Fire",
+            "name": "Bâton de feu",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bâton ressemble à une branche de bois cendreux, brûlé et noirci. Il sent un peu la suie et luit comme de la braise. Vous pouvez effec‑ tuer l’action Interagir pour allumer une torche, de l’amadou ou une substance inflammable en le touchant avec l’extrémité du bâton. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort ; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication.</strong> Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</span></p>\n<ul>\n<li><strong>Tour de magie</strong> Flammes @Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Produce Flame}</li>\n<li><strong>Niveau 1</strong>Mains brûlantes @Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]{Burning Hands}</li>\n</ul>"
+        },
+        {
             "id": "Brass statuette of a bull",
             "name": "Statuette de taureau en laiton",
             "description": ""
@@ -554,7 +559,7 @@
         {
             "id": "Winged Boots",
             "name": "Bottes ailées",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Confectionnées dans du cuir souple et dotées de délicates ailes blanches au niveau du talon, ces bottes sont enchantées avec une puissante magie de l’air. Chaque fois que vous chutez alors que vous portez ces bottes, celles‑ci lancent automatiquement feuille morte sur vous. Cet avantage ne peut se déclencher qu’une fois par période de 10 min. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> command, Interact; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Vous prononcez le mot de commande et claquez les talons l’un contre l’autre pour que les ailes s’animent et battent rapidement, ce qui vous confère une Vitesse de vol de 9 m pendant 10 min.</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Confectionnées dans du cuir souple et dotées de délicates ailes blanches au niveau du talon, ces bottes sont enchantées avec une puissante magie de l’air. Chaque fois que vous chutez alors que vous portez ces bottes, celles‑ci lancent automatiquement @Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{feuille morte} sur vous. Cet avantage ne peut se déclencher qu’une fois par période de 10 min. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Sur ordre, Intéragir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Vous prononcez le mot de commande et claquez les talons l’un contre l’autre pour que les ailes s’animent et battent rapidement, ce qui vous confère une Vitesse de vol de 9 m pendant 10 min.</span></p>"
         },
         {
             "id": "Torch",
@@ -620,11 +625,6 @@
             "id": "Mummified Bat",
             "name": "Chauve-souris mommifiée",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce talisman est un cadavre de minuscule chauve‑souris traité par magie et enroulé dans un papyrus. Lorsque vous l’activez, l’arme support détecte les vibrations autour de vous et guide vos sens. Vous profitez du don de classe de guerrier Combat en aveugle (p. 149) pendant 1 min. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous disposez déjà du don Combat en aveugle, vous gagnez écholocalisation imprécise dans un rayon de 9 m pendant 1 min. Grâce à cela, les créatures qui devraient être non détectées parce que vous ne les voyez pas sont simplement cachées pour vous.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Conditions</strong> Vous êtes maître en Perception.</span></p>"
-        },
-        {
-            "id": "Everburning Torch",
-            "name": "Torche éternelle",
-            "description": ""
         },
         {
             "id": "Feather Token (Holly Bush)",
@@ -1039,7 +1039,7 @@
         {
             "id": "Reflecting Shield",
             "name": "Bouclier réfléchissant",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La surface de cette targe en argent de haute qualité (Solidité 6, 24 PV, SR 12) reflète comme un miroir tellement elle est polie. Le bouclier fonctionne comme un bouclier gardesort (voir ci‑après) qui peut également renvoyer des sorts. <br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Frequency</strong> 1/jour; <strong>Déclencheur</strong> Vous êtes la cible d’un sort ; <strong>Conditions</strong> Le <em>bouclier réfléchissant</em> est levé ;  <strong>Effet</strong> Vous tentez de renvoyer le sort sur son incantateur, avec les effets d’un renvoi de sorts de niveau 9 et un modificateur de contre de +40.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>renvoi de sorts</em> et les matières premières initiales doivent inclure au moins 2 750 po d’argent.\n</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La surface de cette targe en argent de haute qualité (Solidité 6, 24 PV, SR 12) reflète comme un miroir tellement elle est polie. Le bouclier fonctionne comme un bouclier gardesort (voir ci‑après) qui peut également renvoyer des sorts. <br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Frequency</strong> 1/jour; <strong>Déclencheur</strong> Vous êtes la cible d’un sort ; <strong>Conditions</strong> Le <em>bouclier réfléchissant</em> est levé ;  <strong>Effet</strong> Vous tentez de renvoyer le sort sur son incantateur, avec les effets d’un @Compendium[pf2e.spells-srd.OOELvfkTedBMlWtq]{renvoi de sorts} de niveau 9 et un modificateur de contre de +40.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>renvoi de sorts</em> et les matières premières initiales doivent inclure au moins 2 750 po d’argent.\n</span></p>"
         },
         {
             "id": "Kama",
@@ -1624,11 +1624,6 @@
         {
             "id": "Jasper",
             "name": "Jaspe",
-            "description": ""
-        },
-        {
-            "id": "Bracelets of Dashing",
-            "name": "Bracelet de fougue",
             "description": ""
         },
         {

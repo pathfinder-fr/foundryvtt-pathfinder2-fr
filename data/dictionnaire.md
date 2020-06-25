@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-06-23 21:57 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-25 18:06 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -1298,7 +1298,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Staff of Evocation](equipment/weapon-06-96VBd7CV8NQyv3lP.htm)||`@Compendium[pf2e.equipment-srd.96VBd7CV8NQyv3lP]`|
 |[Staff of Evocation (Greater)](equipment/weapon-10-RCQ4DzDh34ZBiTxI.htm)||`@Compendium[pf2e.equipment-srd.RCQ4DzDh34ZBiTxI]`|
 |[Staff of Evocation (Major)](equipment/weapon-14-kNvo4FNaiQRnZfO7.htm)||`@Compendium[pf2e.equipment-srd.kNvo4FNaiQRnZfO7]`|
-|[Staff of Fire](equipment/weapon-03-opfpl1JmKgrfds9P.htm)||`@Compendium[pf2e.equipment-srd.opfpl1JmKgrfds9P]`|
+|[Staff of Fire](equipment/weapon-03-opfpl1JmKgrfds9P.htm)|Bâton de feu|`@Compendium[pf2e.equipment-srd.opfpl1JmKgrfds9P]`|
 |[Staff of Fire (Greater)](equipment/weapon-08-KcjaeMgrsBGgwUWL.htm)||`@Compendium[pf2e.equipment-srd.KcjaeMgrsBGgwUWL]`|
 |[Staff of Fire (Major)](equipment/weapon-12-qx4Cq99vng6GhzEh.htm)||`@Compendium[pf2e.equipment-srd.qx4Cq99vng6GhzEh]`|
 |[Staff of Healing](equipment/weapon-04-3OkOKxCee9WruGU5.htm)|Bâton de guérison|`@Compendium[pf2e.equipment-srd.3OkOKxCee9WruGU5]`|
@@ -2780,7 +2780,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Charming Touch](spells/enc-01-ut9IhJ9jSZSHDUop.htm)|Contact charmeur|`@Compendium[pf2e.spells-srd.ut9IhJ9jSZSHDUop]`|
 |[Charming Words](spells/enc-01-KMFRKzNCq7hVNH7H.htm)|Paroles charmeuses|`@Compendium[pf2e.spells-srd.KMFRKzNCq7hVNH7H]`|
 |[Chill Touch](spells/nec-00-mAMEt4FFbdqoRnkN.htm)|Contact glacial|`@Compendium[pf2e.spells-srd.mAMEt4FFbdqoRnkN]`|
-|[Chilling Darkness](spells/evo-03-sRfSBHWHdbIa0aGc.htm)||`@Compendium[pf2e.spells-srd.sRfSBHWHdbIa0aGc]`|
+|[Chilling Darkness](spells/evo-03-sRfSBHWHdbIa0aGc.htm)|Ténèbres glaciales|`@Compendium[pf2e.spells-srd.sRfSBHWHdbIa0aGc]`|
 |[Chilling Spray](spells/evo-01-8TQiFzGf4feoHeH0.htm)||`@Compendium[pf2e.spells-srd.8TQiFzGf4feoHeH0]`|
 |[Chromatic Wall](spells/abj-05-forsqeofEszBNtLq.htm)||`@Compendium[pf2e.spells-srd.forsqeofEszBNtLq]`|
 |[Circle of Protection](spells/abj-03-mpGCMTldMVa0pWYs.htm)|Cercle de protection|`@Compendium[pf2e.spells-srd.mpGCMTldMVa0pWYs]`|
@@ -2930,7 +2930,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fire Ray](spells/evo-01-oJKZi8OQgmVXHOc0.htm)|Rayon de feu|`@Compendium[pf2e.spells-srd.oJKZi8OQgmVXHOc0]`|
 |[Fire Seeds](spells/evo-06-kuoYff1csM5eAcAP.htm)||`@Compendium[pf2e.spells-srd.kuoYff1csM5eAcAP]`|
 |[Fire Shield](spells/evo-04-YrzBLPLd3r9m6t1p.htm)||`@Compendium[pf2e.spells-srd.YrzBLPLd3r9m6t1p]`|
-|[Fireball](spells/evo-03-sxQZ6yqTn0czJxVd.htm)||`@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]`|
+|[Fireball](spells/evo-03-sxQZ6yqTn0czJxVd.htm)|Boule de feu|`@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]`|
 |[Flame Barrier](spells/abj-04-y7Tusv3CieZktkkV.htm)||`@Compendium[pf2e.spells-srd.y7Tusv3CieZktkkV]`|
 |[Flame Strike](spells/evo-05-E3X2RbzWHCdz7gsk.htm)||`@Compendium[pf2e.spells-srd.E3X2RbzWHCdz7gsk]`|
 |[Flaming Sphere](spells/evo-02-2ZdHjnpEQJuqOYSG.htm)|Sphère de feu|`@Compendium[pf2e.spells-srd.2ZdHjnpEQJuqOYSG]`|
@@ -2992,7 +2992,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Hydraulic Torrent](spells/evo-04-Y3G6Y6EDgCY0s3fq.htm)||`@Compendium[pf2e.spells-srd.Y3G6Y6EDgCY0s3fq]`|
 |[Hypercognition](spells/div-03-ZYoC630tNGutgbE0.htm)|Hypercognition|`@Compendium[pf2e.spells-srd.ZYoC630tNGutgbE0]`|
 |[Hyperfocus](spells/div-01-XhgMx9WC6NfXd9RP.htm)||`@Compendium[pf2e.spells-srd.XhgMx9WC6NfXd9RP]`|
-|[Hypnotic Pattern](spells/ill-03-K2WpC3FFoHrqX9Q5.htm)||`@Compendium[pf2e.spells-srd.K2WpC3FFoHrqX9Q5]`|
+|[Hypnotic Pattern](spells/ill-03-K2WpC3FFoHrqX9Q5.htm)|Lueurs hypnotiques|`@Compendium[pf2e.spells-srd.K2WpC3FFoHrqX9Q5]`|
 |[Ill Omen](spells/div-01-6ZIKB0151LUR19Rw.htm)||`@Compendium[pf2e.spells-srd.6ZIKB0151LUR19Rw]`|
 |[Illusory Creature](spells/ill-02-f8SBoXiXQjlCKqly.htm)|Créature illusoire|`@Compendium[pf2e.spells-srd.f8SBoXiXQjlCKqly]`|
 |[Illusory Disguise](spells/ill-01-i35dpZFI7jZcRoBo.htm)|Déguisement illusoire|`@Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]`|
@@ -3011,7 +3011,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Inveigle](spells/enc-02-5pwK2FZX6QwgtfqX.htm)||`@Compendium[pf2e.spells-srd.5pwK2FZX6QwgtfqX]`|
 |[Invisibility](spells/ill-02-XXqE1eY3w3z6xJCB.htm)|Invisibilité|`@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]`|
 |[Invisibility Cloak](spells/ill-04-Nun72GTmb31YqSKh.htm)||`@Compendium[pf2e.spells-srd.Nun72GTmb31YqSKh]`|
-|[Invisibility Sphere](spells/ill-03-I0j56TNRmGcTyoqJ.htm)||`@Compendium[pf2e.spells-srd.I0j56TNRmGcTyoqJ]`|
+|[Invisibility Sphere](spells/ill-03-I0j56TNRmGcTyoqJ.htm)|Sphère d'invisibilité|`@Compendium[pf2e.spells-srd.I0j56TNRmGcTyoqJ]`|
 |[Invoke the Crimson Oath](spells/evo-02-AsKLseOo8hwv5Jha.htm)||`@Compendium[pf2e.spells-srd.AsKLseOo8hwv5Jha]`|
 |[Iron Gut](spells/trs-02-IhwREVWG0OzzrbWA.htm)||`@Compendium[pf2e.spells-srd.IhwREVWG0OzzrbWA]`|
 |[Item Facade](spells/ill-01-4ZGte0i9YbLh4dRi.htm)|Façade|`@Compendium[pf2e.spells-srd.4ZGte0i9YbLh4dRi]`|
@@ -3027,12 +3027,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lament](spells/enc-01-T90ij2uu6ZaBaSXV.htm)||`@Compendium[pf2e.spells-srd.T90ij2uu6ZaBaSXV]`|
 |[Lay on Hands](spells/nec-01-zNN9212H2FGfM7VS.htm)|Imposition des mains|`@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]`|
 |[Legend Lore](spells/div-07-hp6Q64dl7xbdn4gQ.htm)||`@Compendium[pf2e.spells-srd.hp6Q64dl7xbdn4gQ]`|
-|[Levitate](spells/evo-03-fI20AVwOzJMHXRdo.htm)||`@Compendium[pf2e.spells-srd.fI20AVwOzJMHXRdo]`|
+|[Levitate](spells/evo-03-fI20AVwOzJMHXRdo.htm)|Lévitation|`@Compendium[pf2e.spells-srd.fI20AVwOzJMHXRdo]`|
 |[Liberating Command](spells/enc-01-0Dcd4iEXqCrkm4Jn.htm)||`@Compendium[pf2e.spells-srd.0Dcd4iEXqCrkm4Jn]`|
 |[Life Siphon](spells/nec-04-zvvHOQV78WKUB33l.htm)||`@Compendium[pf2e.spells-srd.zvvHOQV78WKUB33l]`|
 |[Light](spells/evo-00-WBmvzNDfpwka3qT4.htm)|Lumière|`@Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]`|
 |[Light of Revelation](spells/div-02-ou56ShiFH7GWF8hX.htm)||`@Compendium[pf2e.spells-srd.ou56ShiFH7GWF8hX]`|
-|[Lightning Bolt](spells/evo-03-9AAkVUCwF6WVNNY2.htm)||`@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]`|
+|[Lightning Bolt](spells/evo-03-9AAkVUCwF6WVNNY2.htm)|Eclair|`@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]`|
 |[Lingering Composition](spells/enc-01-irTdhxTixU9u9YUm.htm)|Composition prolongée|`@Compendium[pf2e.spells-srd.irTdhxTixU9u9YUm]`|
 |[Litany against Sloth](spells/evo-05-2mVW1KT3AjW2pvDO.htm)||`@Compendium[pf2e.spells-srd.2mVW1KT3AjW2pvDO]`|
 |[Litany against Wrath](spells/evo-03-X1b9ollVMSLXDN9o.htm)|Litanie contre la colère|`@Compendium[pf2e.spells-srd.X1b9ollVMSLXDN9o]`|
@@ -3191,8 +3191,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Scouring Sand](spells/evo-01-HGmBY8KjgLV97nUp.htm)||`@Compendium[pf2e.spells-srd.HGmBY8KjgLV97nUp]`|
 |[Scrying](spells/div-06-r784cIz17eWujtQj.htm)||`@Compendium[pf2e.spells-srd.r784cIz17eWujtQj]`|
 |[Sea Surge](spells/evo-02-cf7Jkm39uEjUFtHt.htm)||`@Compendium[pf2e.spells-srd.cf7Jkm39uEjUFtHt]`|
-|[Searing Light](spells/evo-03-DyiD239dNS7RIxZE.htm)||`@Compendium[pf2e.spells-srd.DyiD239dNS7RIxZE]`|
-|[Secret Page](spells/ill-03-VVAZPCvd4d90qVA1.htm)||`@Compendium[pf2e.spells-srd.VVAZPCvd4d90qVA1]`|
+|[Searing Light](spells/evo-03-DyiD239dNS7RIxZE.htm)|Lumière brûlante|`@Compendium[pf2e.spells-srd.DyiD239dNS7RIxZE]`|
+|[Secret Page](spells/ill-03-VVAZPCvd4d90qVA1.htm)|Page secrète|`@Compendium[pf2e.spells-srd.VVAZPCvd4d90qVA1]`|
 |[See Invisibility](spells/div-02-jwK43yKsHTkJQvQ9.htm)|Détection de l'invisibilité|`@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]`|
 |[Sending](spells/div-05-R9xqCBblkS5KE4y7.htm)|Communication à distance|`@Compendium[pf2e.spells-srd.R9xqCBblkS5KE4y7]`|
 |[Shadow Blast](spells/evo-05-IqJ9URobmJ9L9UBG.htm)||`@Compendium[pf2e.spells-srd.IqJ9URobmJ9L9UBG]`|
@@ -3300,6 +3300,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Time Stop](spells/trs-10-1dsahW4g1ggXtypx.htm)||`@Compendium[pf2e.spells-srd.1dsahW4g1ggXtypx]`|
 |[Tireless Worker](spells/nec-04-gzvRDpM6EvcfYHeu.htm)||`@Compendium[pf2e.spells-srd.gzvRDpM6EvcfYHeu]`|
 |[Tongues](spells/div-05-SwUiVavHKMWG7t5K.htm)||`@Compendium[pf2e.spells-srd.SwUiVavHKMWG7t5K]`|
+|[Touch of Corruption](spells/nec-03-FUUHRgqSzTKAbw4a.htm)||`@Compendium[pf2e.spells-srd.FUUHRgqSzTKAbw4a]`|
 |[Touch of Idiocy](spells/enc-02-CQb8HtQ1BPeZmu9h.htm)|Idiotie|`@Compendium[pf2e.spells-srd.CQb8HtQ1BPeZmu9h]`|
 |[Touch of Obedience](spells/enc-01-MmQiEc7aM9PDLO2J.htm)|Obéissance|`@Compendium[pf2e.spells-srd.MmQiEc7aM9PDLO2J]`|
 |[Touch of Undeath](spells/nec-01-GYI4xloAgkm6tTrT.htm)|Bénédiction de la non-mort|`@Compendium[pf2e.spells-srd.GYI4xloAgkm6tTrT]`|
@@ -3346,7 +3347,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Wall of Ice](spells/evo-05-R5FHRv7VqyRnxg2t.htm)||`@Compendium[pf2e.spells-srd.R5FHRv7VqyRnxg2t]`|
 |[Wall of Stone](spells/con-05-kOa055FIrO9Smnya.htm)||`@Compendium[pf2e.spells-srd.kOa055FIrO9Smnya]`|
 |[Wall of Thorns](spells/con-03-KsWhliKfUs3IpW3c.htm)|Mur d'épines|`@Compendium[pf2e.spells-srd.KsWhliKfUs3IpW3c]`|
-|[Wall of Wind](spells/evo-03-it4ZsAi6XgvGcodc.htm)||`@Compendium[pf2e.spells-srd.it4ZsAi6XgvGcodc]`|
+|[Wall of Wind](spells/evo-03-it4ZsAi6XgvGcodc.htm)|Mur de vent|`@Compendium[pf2e.spells-srd.it4ZsAi6XgvGcodc]`|
 |[Wanderer's Guide](spells/div-03-ppA1StEigPLKEQqR.htm)||`@Compendium[pf2e.spells-srd.ppA1StEigPLKEQqR]`|
 |[Warp Mind](spells/enc-07-8kJbiBEjMWG4VUjs.htm)||`@Compendium[pf2e.spells-srd.8kJbiBEjMWG4VUjs]`|
 |[Warped Terrain](spells/ill-01-fXdADBwxmBsU9xPk.htm)|Terrain déformé|`@Compendium[pf2e.spells-srd.fXdADBwxmBsU9xPk]`|
@@ -3384,71 +3385,154 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Acrobat](backgrounds/yikXQI2YVWcmGV2N.htm)|Acrobate|`@Compendium[pf2e.backgrounds.yikXQI2YVWcmGV2N]`|
 |[Aerialist](backgrounds/hQiyj0YTMNqMNf1x.htm)||`@Compendium[pf2e.backgrounds.hQiyj0YTMNqMNf1x]`|
 |[Aiudara Seeker](backgrounds/7woKMTCFU4NC06l5.htm)||`@Compendium[pf2e.backgrounds.7woKMTCFU4NC06l5]`|
+|[Alkenstar Tinker](backgrounds/y6Df6HCrzc5kuLAJ.htm)||`@Compendium[pf2e.backgrounds.y6Df6HCrzc5kuLAJ]`|
 |[Animal Whisperer](backgrounds/dcArzJ4ylKFshbbp.htm)|Dresseur|`@Compendium[pf2e.backgrounds.dcArzJ4ylKFshbbp]`|
 |[Animal Wrangler](backgrounds/lMF9dnqUeCDED0TG.htm)||`@Compendium[pf2e.backgrounds.lMF9dnqUeCDED0TG]`|
 |[Artisan](backgrounds/f3S14uBriv8enmMQ.htm)|Artisan|`@Compendium[pf2e.backgrounds.f3S14uBriv8enmMQ]`|
 |[Artist](backgrounds/64WHEiUYl5Bp9Rmo.htm)|Artiste|`@Compendium[pf2e.backgrounds.64WHEiUYl5Bp9Rmo]`|
+|[Aspiring Free Captain](backgrounds/H1yku00yjYxnNU3p.htm)||`@Compendium[pf2e.backgrounds.H1yku00yjYxnNU3p]`|
+|[Aspiring River Monarch](backgrounds/3w6cSTa3Zc4z2ygu.htm)||`@Compendium[pf2e.backgrounds.3w6cSTa3Zc4z2ygu]`|
+|[Atteran Rancher](backgrounds/QjEpaKn5x9INfcfY.htm)||`@Compendium[pf2e.backgrounds.QjEpaKn5x9INfcfY]`|
 |[Barkeep](backgrounds/pcuLoIrIjMos8k1z.htm)|Tavernier|`@Compendium[pf2e.backgrounds.pcuLoIrIjMos8k1z]`|
 |[Barker](backgrounds/xKVVXEDgNeJAuIcX.htm)||`@Compendium[pf2e.backgrounds.xKVVXEDgNeJAuIcX]`|
 |[Barrister](backgrounds/5eB5SefI6OlARL7q.htm)|Avocat|`@Compendium[pf2e.backgrounds.5eB5SefI6OlARL7q]`|
+|[Bekyar Restorer](backgrounds/MWJHfS2bsYTvdroc.htm)||`@Compendium[pf2e.backgrounds.MWJHfS2bsYTvdroc]`|
+|[Belkzen Slayer](backgrounds/gBPUW9JAARw3lsdr.htm)||`@Compendium[pf2e.backgrounds.gBPUW9JAARw3lsdr]`|
+|[Bellflower Agent](backgrounds/JfOPdd8V2CuN9I9a.htm)||`@Compendium[pf2e.backgrounds.JfOPdd8V2CuN9I9a]`|
+|[Black Market Smuggler](backgrounds/VOI91rOapoBqgUv7.htm)||`@Compendium[pf2e.backgrounds.VOI91rOapoBqgUv7]`|
 |[Blow-In](backgrounds/HqrzcYujcS4UeJxJ.htm)||`@Compendium[pf2e.backgrounds.HqrzcYujcS4UeJxJ]`|
+|[Bonuwat Wavetouched](backgrounds/YS8l22rXhnLnyBqb.htm)||`@Compendium[pf2e.backgrounds.YS8l22rXhnLnyBqb]`|
 |[Bounty Hunter](backgrounds/ckPq968bni6JxpA6.htm)|Chasseur de primes|`@Compendium[pf2e.backgrounds.ckPq968bni6JxpA6]`|
+|[Bright Lion](backgrounds/skqghxn3svID1dyU.htm)||`@Compendium[pf2e.backgrounds.skqghxn3svID1dyU]`|
 |[Butcher](backgrounds/sdPE9bha7IOb4O8i.htm)||`@Compendium[pf2e.backgrounds.sdPE9bha7IOb4O8i]`|
 |[Charlatan](backgrounds/UDmScyDHUYMFbr7n.htm)|Charlatan|`@Compendium[pf2e.backgrounds.UDmScyDHUYMFbr7n]`|
+|[Chelish Rebel](backgrounds/oH5Uagjkc58AHozy.htm)||`@Compendium[pf2e.backgrounds.oH5Uagjkc58AHozy]`|
+|[Child of Westcrown](backgrounds/fAibW4s5hrHEaLrT.htm)||`@Compendium[pf2e.backgrounds.fAibW4s5hrHEaLrT]`|
+|[Child of the Puddles](backgrounds/5KrCZHHMZmaM3FUl.htm)||`@Compendium[pf2e.backgrounds.5KrCZHHMZmaM3FUl]`|
 |[Circus Born](backgrounds/FA6ADIwZ0IV1LZv1.htm)||`@Compendium[pf2e.backgrounds.FA6ADIwZ0IV1LZv1]`|
 |[Clown](backgrounds/kH8lJq7NCoMlyOUj.htm)||`@Compendium[pf2e.backgrounds.kH8lJq7NCoMlyOUj]`|
 |[Criminal](backgrounds/R3z7yfqV0OyODRK8.htm)|Criminel|`@Compendium[pf2e.backgrounds.R3z7yfqV0OyODRK8]`|
+|[Cursed Family](backgrounds/5PsnYGatgMEYy9xH.htm)||`@Compendium[pf2e.backgrounds.5PsnYGatgMEYy9xH]`|
+|[Demon Slayer](backgrounds/MgMERnqmXRZcXHLH.htm)||`@Compendium[pf2e.backgrounds.MgMERnqmXRZcXHLH]`|
+|[Desert Tracker](backgrounds/G2o8mCXdYKl1tbXP.htm)||`@Compendium[pf2e.backgrounds.G2o8mCXdYKl1tbXP]`|
 |[Detective](backgrounds/Vuzq4NkLghj6dy2c.htm)|Détective|`@Compendium[pf2e.backgrounds.Vuzq4NkLghj6dy2c]`|
+|[Diobel Pearl Diver](backgrounds/2PfqXmTTdwWAJNoc.htm)||`@Compendium[pf2e.backgrounds.2PfqXmTTdwWAJNoc]`|
 |[Dragon Scholar](backgrounds/y73tZ9iU3w84NrIG.htm)|Spécialiste des dragons|`@Compendium[pf2e.backgrounds.y73tZ9iU3w84NrIG]`|
 |[Dreamer of the Verdant Moon](backgrounds/7MKHFbZitRzTwiP0.htm)||`@Compendium[pf2e.backgrounds.7MKHFbZitRzTwiP0]`|
 |[Droskari Disciple](backgrounds/WPyDbom83vu7Fy5i.htm)||`@Compendium[pf2e.backgrounds.WPyDbom83vu7Fy5i]`|
+|[Early Explorer](backgrounds/gpB6yH1lvLiU03eJ.htm)||`@Compendium[pf2e.backgrounds.gpB6yH1lvLiU03eJ]`|
 |[Emancipated](backgrounds/3ljseFp6UbDGmCNn.htm)|Émancipé|`@Compendium[pf2e.backgrounds.3ljseFp6UbDGmCNn]`|
 |[Emissary](backgrounds/yphbsrQe9KmQefU9.htm)|Émissaire|`@Compendium[pf2e.backgrounds.yphbsrQe9KmQefU9]`|
 |[Entertainer](backgrounds/dKML9xcgWbrkguGd.htm)|Bateleur|`@Compendium[pf2e.backgrounds.dKML9xcgWbrkguGd]`|
+|[Faction Opportunist](backgrounds/gad0K8Kvxk4auPwM.htm)||`@Compendium[pf2e.backgrounds.gad0K8Kvxk4auPwM]`|
 |[Farmhand](backgrounds/Y6qKcSXLEyBfW3lS.htm)|Ouvrier agricole|`@Compendium[pf2e.backgrounds.Y6qKcSXLEyBfW3lS]`|
 |[Field Medic](backgrounds/VnoaNi40DBN0ZV8y.htm)|Médecin militaire|`@Compendium[pf2e.backgrounds.VnoaNi40DBN0ZV8y]`|
 |[Finadar Leshy](backgrounds/9d5Mo7qNSpDyKWzY.htm)||`@Compendium[pf2e.backgrounds.9d5Mo7qNSpDyKWzY]`|
+|[Final Blade Survivor](backgrounds/SbAaSeBHTmQ3xU8X.htm)||`@Compendium[pf2e.backgrounds.SbAaSeBHTmQ3xU8X]`|
+|[Former Aspis Agent](backgrounds/TDmwsOqt37L35nx6.htm)||`@Compendium[pf2e.backgrounds.TDmwsOqt37L35nx6]`|
 |[Fortune Teller](backgrounds/lGMSYgWqZrg2SaTH.htm)|Voyant|`@Compendium[pf2e.backgrounds.lGMSYgWqZrg2SaTH]`|
+|[Freed Slave of Absalom](backgrounds/8p0gfy5xzpFZRyaG.htm)||`@Compendium[pf2e.backgrounds.8p0gfy5xzpFZRyaG]`|
 |[Gambler](backgrounds/Ih6KKS2DEzXxiJpX.htm)|Parieur|`@Compendium[pf2e.backgrounds.Ih6KKS2DEzXxiJpX]`|
+|[Geb Crusader](backgrounds/CMswLSRLQ72tbu0u.htm)||`@Compendium[pf2e.backgrounds.CMswLSRLQ72tbu0u]`|
 |[Gladiator](backgrounds/huFMFGKbBoPB4bRc.htm)|Gladiateur|`@Compendium[pf2e.backgrounds.huFMFGKbBoPB4bRc]`|
+|[Goblinblood Orphan](backgrounds/qhY96No3S3ulObtQ.htm)||`@Compendium[pf2e.backgrounds.qhY96No3S3ulObtQ]`|
+|[Grand Council Bureaucrat](backgrounds/hcC58ohDMUOgmuZp.htm)||`@Compendium[pf2e.backgrounds.hcC58ohDMUOgmuZp]`|
 |[Guard](backgrounds/5vym5sPIxlDEEjGc.htm)|Garde|`@Compendium[pf2e.backgrounds.5vym5sPIxlDEEjGc]`|
 |[Haunting Vision](backgrounds/SMqKFHj0Ut6j3NNo.htm)|Hanté par une vision|`@Compendium[pf2e.backgrounds.SMqKFHj0Ut6j3NNo]`|
 |[Hellknight Historian](backgrounds/oFFk7lsMwXgxgQhI.htm)|Historien des chevaliers infernaux|`@Compendium[pf2e.backgrounds.oFFk7lsMwXgxgQhI]`|
 |[Herbalist](backgrounds/AbPoIrl7CUSenbL8.htm)|Herboriste|`@Compendium[pf2e.backgrounds.AbPoIrl7CUSenbL8]`|
+|[Hermean Expatriate](backgrounds/EvMNfrutZkTjUHVW.htm)||`@Compendium[pf2e.backgrounds.EvMNfrutZkTjUHVW]`|
 |[Hermean Heritor](backgrounds/G4akDE6k0GpQ3dpD.htm)||`@Compendium[pf2e.backgrounds.G4akDE6k0GpQ3dpD]`|
 |[Hermit](backgrounds/tSzyLCQbf8T7l0xt.htm)|Ermite|`@Compendium[pf2e.backgrounds.tSzyLCQbf8T7l0xt]`|
 |[Hunter](backgrounds/Rik6ZXovORQAfhPR.htm)|Chasseur|`@Compendium[pf2e.backgrounds.Rik6ZXovORQAfhPR]`|
+|[Inlander](backgrounds/HmC4y8ENahNKp5Tl.htm)||`@Compendium[pf2e.backgrounds.HmC4y8ENahNKp5Tl]`|
 |[Iolite Trainee Hobgoblin](backgrounds/0qrZaukJ0aIoPx3P.htm)||`@Compendium[pf2e.backgrounds.0qrZaukJ0aIoPx3P]`|
+|[Issian Partisan](backgrounds/JNSg5UvBKdIgLNJ6.htm)||`@Compendium[pf2e.backgrounds.JNSg5UvBKdIgLNJ6]`|
+|[Kalistrade Follower](backgrounds/PG0jDgRCfzuv8mrF.htm)||`@Compendium[pf2e.backgrounds.PG0jDgRCfzuv8mrF]`|
+|[Kyonin Emissary](backgrounds/y9fqolddlRWRQsWl.htm)||`@Compendium[pf2e.backgrounds.y9fqolddlRWRQsWl]`|
 |[Laborer](backgrounds/byu7FHvqmhAwYZFf.htm)|Manoeuvre|`@Compendium[pf2e.backgrounds.byu7FHvqmhAwYZFf]`|
+|[Lastwall Survivor](backgrounds/hDUQWHMVi4pRh2D7.htm)||`@Compendium[pf2e.backgrounds.hDUQWHMVi4pRh2D7]`|
 |[Legendary Parents](backgrounds/GAWMi5F6MXXWqOpR.htm)||`@Compendium[pf2e.backgrounds.GAWMi5F6MXXWqOpR]`|
 |[Lesser Scion](backgrounds/ngzWTz11vCUI3h7i.htm)||`@Compendium[pf2e.backgrounds.ngzWTz11vCUI3h7i]`|
 |[Local Scion](backgrounds/R8tx1XfofmjUhCYG.htm)|Enfant du pays|`@Compendium[pf2e.backgrounds.R8tx1XfofmjUhCYG]`|
 |[Lost and Alone](backgrounds/T6nf9vQKWzHui59P.htm)||`@Compendium[pf2e.backgrounds.T6nf9vQKWzHui59P]`|
+|[Lumber Consortium Laborer](backgrounds/EZ8J6yKeCICf6Oi7.htm)||`@Compendium[pf2e.backgrounds.EZ8J6yKeCICf6Oi7]`|
+|[Magaambya Academic](backgrounds/Tqyybb0eKpwRHYwj.htm)||`@Compendium[pf2e.backgrounds.Tqyybb0eKpwRHYwj]`|
+|[Mammoth Speaker](backgrounds/8uc1ABJWOJ3gVCFD.htm)||`@Compendium[pf2e.backgrounds.8uc1ABJWOJ3gVCFD]`|
+|[Mana Wastes Refugee](backgrounds/XC86jXYUicUqkoQY.htm)||`@Compendium[pf2e.backgrounds.XC86jXYUicUqkoQY]`|
+|[Mantis Scion](backgrounds/O23kJuciAtakDENn.htm)||`@Compendium[pf2e.backgrounds.O23kJuciAtakDENn]`|
 |[Martial Disciple](backgrounds/TdEwgAZfOZ6fKGVM.htm)|Disciple martial|`@Compendium[pf2e.backgrounds.TdEwgAZfOZ6fKGVM]`|
+|[Menagerie Dung Sweeper](backgrounds/ecmPA86bz6221BWZ.htm)||`@Compendium[pf2e.backgrounds.ecmPA86bz6221BWZ]`|
+|[Merabite Prodigy](backgrounds/U4VWN83sV1tT12Yf.htm)||`@Compendium[pf2e.backgrounds.U4VWN83sV1tT12Yf]`|
 |[Merchant](backgrounds/9wfKz4tokaTWmHJg.htm)|Marchand|`@Compendium[pf2e.backgrounds.9wfKz4tokaTWmHJg]`|
 |[Miner](backgrounds/At7irukB3d0jzzad.htm)|Mineur|`@Compendium[pf2e.backgrounds.At7irukB3d0jzzad]`|
 |[Missionary](backgrounds/GBvUIdUFCkBpZdp0.htm)||`@Compendium[pf2e.backgrounds.GBvUIdUFCkBpZdp0]`|
+|[Molthuni Mercenary](backgrounds/pvqejr2ADrs9EoBM.htm)||`@Compendium[pf2e.backgrounds.pvqejr2ADrs9EoBM]`|
 |[Mystic Seer](backgrounds/LPZmM7UnWddi80gB.htm)||`@Compendium[pf2e.backgrounds.LPZmM7UnWddi80gB]`|
+|[Nexian Mystic](backgrounds/O4BXvhZpMvpmQEUs.htm)||`@Compendium[pf2e.backgrounds.O4BXvhZpMvpmQEUs]`|
+|[Nirmathi Guerrilla](backgrounds/EcjUeihqNUB1KGhk.htm)||`@Compendium[pf2e.backgrounds.EcjUeihqNUB1KGhk]`|
 |[Noble](backgrounds/tPKeIokrWhzzf8jg.htm)|Noble|`@Compendium[pf2e.backgrounds.tPKeIokrWhzzf8jg]`|
 |[Nomad](backgrounds/BZ0Myq87KqoyTOEP.htm)|Nomade|`@Compendium[pf2e.backgrounds.BZ0Myq87KqoyTOEP]`|
+|[Oenopion Ooze-Tender](backgrounds/NEM45HOKdrp1PiDX.htm)||`@Compendium[pf2e.backgrounds.NEM45HOKdrp1PiDX]`|
+|[Onyx Trader](backgrounds/hgHxXEuwmNSrXD9J.htm)||`@Compendium[pf2e.backgrounds.hgHxXEuwmNSrXD9J]`|
+|[Osirionologist](backgrounds/shwAcaWydDHBqR1X.htm)||`@Compendium[pf2e.backgrounds.shwAcaWydDHBqR1X]`|
 |[Out-of-Towner](backgrounds/JH77p9uU187caJxX.htm)|De passage|`@Compendium[pf2e.backgrounds.JH77p9uU187caJxX]`|
+|[Pathfinder Hopeful](backgrounds/H859zofQzmGngQ2d.htm)||`@Compendium[pf2e.backgrounds.H859zofQzmGngQ2d]`|
+|[Perfection Seeker](backgrounds/Gj9PhLYrZCQxvuwh.htm)||`@Compendium[pf2e.backgrounds.Gj9PhLYrZCQxvuwh]`|
+|[Press-Ganged](backgrounds/ekEBKpFNZ0QVwywW.htm)||`@Compendium[pf2e.backgrounds.ekEBKpFNZ0QVwywW]`|
 |[Prisoner](backgrounds/LY8vRo3Pyn7FxWNj.htm)|Prisonnier|`@Compendium[pf2e.backgrounds.LY8vRo3Pyn7FxWNj]`|
+|[Purveyor of the Bizzare](backgrounds/XnDdzNHhA17xRZ22.htm)||`@Compendium[pf2e.backgrounds.XnDdzNHhA17xRZ22]`|
+|[Quick](backgrounds/c4Gcdcz5vDOc5NCk.htm)||`@Compendium[pf2e.backgrounds.c4Gcdcz5vDOc5NCk]`|
 |[Raised by Belief](backgrounds/xlhQlrfhucYxkyPD.htm)||`@Compendium[pf2e.backgrounds.xlhQlrfhucYxkyPD]`|
-|[Raised by Belief](backgrounds/NgtOrtXyIPtn38XG.htm)||`@Compendium[pf2e.backgrounds.NgtOrtXyIPtn38XG]`|
+|[Razmiran Faithful](backgrounds/1zyrJ5dQPKedoSfP.htm)||`@Compendium[pf2e.backgrounds.1zyrJ5dQPKedoSfP]`|
 |[Refugee](backgrounds/Rc2l1j73EC2hPmUA.htm)||`@Compendium[pf2e.backgrounds.Rc2l1j73EC2hPmUA]`|
 |[Reputation Seeker](backgrounds/ltRrwn4OZcc5FC1G.htm)|En quête de renommée|`@Compendium[pf2e.backgrounds.ltRrwn4OZcc5FC1G]`|
 |[Returning Descendant](backgrounds/cxgUge0LLCMoI70S.htm)|Descendant de retour|`@Compendium[pf2e.backgrounds.cxgUge0LLCMoI70S]`|
 |[Rigger](backgrounds/DW3mWZ4wepwNVfAN.htm)||`@Compendium[pf2e.backgrounds.DW3mWZ4wepwNVfAN]`|
+|[Rivethun Adherent](backgrounds/H1tJhj6ZbkLxmK8a.htm)||`@Compendium[pf2e.backgrounds.H1tJhj6ZbkLxmK8a]`|
+|[Rostland Partisan](backgrounds/0EIhRniun8jfdPeN.htm)||`@Compendium[pf2e.backgrounds.0EIhRniun8jfdPeN]`|
+|[Ruby Phoenix Enthusiast](backgrounds/Vu7pydxrARfYD67B.htm)||`@Compendium[pf2e.backgrounds.Vu7pydxrARfYD67B]`|
 |[Sailor](backgrounds/uEoo4fcZvXj1IC39.htm)|Marin|`@Compendium[pf2e.backgrounds.uEoo4fcZvXj1IC39]`|
+|[Sarkorian Reclaimer](backgrounds/oZC6fev9xw72O3vA.htm)||`@Compendium[pf2e.backgrounds.oZC6fev9xw72O3vA]`|
+|[Sarkorian Survivor](backgrounds/O6Cd575MzIqYbvOR.htm)||`@Compendium[pf2e.backgrounds.O6Cd575MzIqYbvOR]`|
+|[Savior of Air](backgrounds/dPjFZlQG4dg13irs.htm)||`@Compendium[pf2e.backgrounds.dPjFZlQG4dg13irs]`|
 |[Scholar](backgrounds/rm9HYArb07JFDwjv.htm)|Érudit|`@Compendium[pf2e.backgrounds.rm9HYArb07JFDwjv]`|
+|[Scholar of the Ancients](backgrounds/TtRmN9qYJnqbrfeV.htm)||`@Compendium[pf2e.backgrounds.TtRmN9qYJnqbrfeV]`|
+|[Scholar of the Sky Key](backgrounds/iPjaDshFtGP3uMO8.htm)||`@Compendium[pf2e.backgrounds.iPjaDshFtGP3uMO8]`|
 |[Scout](backgrounds/HOlyT1Y0fXS85u0j.htm)|Éclaireur|`@Compendium[pf2e.backgrounds.HOlyT1Y0fXS85u0j]`|
+|[Secular Medic](backgrounds/5u7FKCHuWmscNe5i.htm)||`@Compendium[pf2e.backgrounds.5u7FKCHuWmscNe5i]`|
+|[Senghor Sailor](backgrounds/ijldm5oRi8hNyoyP.htm)||`@Compendium[pf2e.backgrounds.ijldm5oRi8hNyoyP]`|
 |[Sewer Dragon](backgrounds/VJx0O3rGNjZ0X22p.htm)||`@Compendium[pf2e.backgrounds.VJx0O3rGNjZ0X22p]`|
+|[Shadow Haunted](backgrounds/nhsqxxBfkcOMZBTp.htm)||`@Compendium[pf2e.backgrounds.nhsqxxBfkcOMZBTp]`|
+|[Shadow Lodge Defector](backgrounds/xLDNoWnNxtJceEwJ.htm)||`@Compendium[pf2e.backgrounds.xLDNoWnNxtJceEwJ]`|
+|[Shadow War Survivor](backgrounds/WRbpRTHJesfbjIS5.htm)||`@Compendium[pf2e.backgrounds.WRbpRTHJesfbjIS5]`|
+|[Shoanti Name Bearer](backgrounds/At7nhCMEu2i2bKj9.htm)||`@Compendium[pf2e.backgrounds.At7nhCMEu2i2bKj9]`|
+|[Shory Seeker](backgrounds/q0hK6ih6h42fL4yD.htm)||`@Compendium[pf2e.backgrounds.q0hK6ih6h42fL4yD]`|
+|[Sodden Scavenger](backgrounds/psz1WHMGUNFOPG37.htm)||`@Compendium[pf2e.backgrounds.psz1WHMGUNFOPG37]`|
+|[Storm Survivor](backgrounds/u13zJhBdawMYLGTk.htm)||`@Compendium[pf2e.backgrounds.u13zJhBdawMYLGTk]`|
 |[Street Urchin](backgrounds/QoE4PIIVn60tRxF4.htm)|Enfant des rues|`@Compendium[pf2e.backgrounds.QoE4PIIVn60tRxF4]`|
+|[Taldan Schemer](backgrounds/NDhkBcdxy5J8M6Wx.htm)||`@Compendium[pf2e.backgrounds.NDhkBcdxy5J8M6Wx]`|
+|[Tapestry Refugee](backgrounds/aiiZdNhGey0Ov8Lb.htm)||`@Compendium[pf2e.backgrounds.aiiZdNhGey0Ov8Lb]`|
 |[Teamster](backgrounds/gGHi0N5bZNbGbxB4.htm)||`@Compendium[pf2e.backgrounds.gGHi0N5bZNbGbxB4]`|
+|[Thassilonian Delver](backgrounds/98YK8hpUVuDZCoAH.htm)||`@Compendium[pf2e.backgrounds.98YK8hpUVuDZCoAH]`|
+|[Thassilonian Traveler](backgrounds/vBj8pruBbClwdEZG.htm)||`@Compendium[pf2e.backgrounds.vBj8pruBbClwdEZG]`|
+|[Thrune Loyalist](backgrounds/NiuVJNmAe7TdI3mv.htm)||`@Compendium[pf2e.backgrounds.NiuVJNmAe7TdI3mv]`|
+|[Thuvian Unifier](backgrounds/UcQP3PBk7Ag7shxT.htm)||`@Compendium[pf2e.backgrounds.UcQP3PBk7Ag7shxT]`|
 |[Tinker](backgrounds/Gcn19QCeblDvsrdv.htm)|Bricoleur|`@Compendium[pf2e.backgrounds.Gcn19QCeblDvsrdv]`|
 |[Touched by Dahak](backgrounds/5DnDnoSyyd1UPyRV.htm)||`@Compendium[pf2e.backgrounds.5DnDnoSyyd1UPyRV]`|
+|[Trade Consortium Underling](backgrounds/8MoCaPm2wHF3r1yt.htm)||`@Compendium[pf2e.backgrounds.8MoCaPm2wHF3r1yt]`|
 |[Truth Seeker](backgrounds/gxl5BXQ6LPfMnC6o.htm)|En quête de vérité|`@Compendium[pf2e.backgrounds.gxl5BXQ6LPfMnC6o]`|
+|[Ulfen Raider](backgrounds/RsBbawZlgqkMh4Un.htm)||`@Compendium[pf2e.backgrounds.RsBbawZlgqkMh4Un]`|
+|[Undersea Enthusiast](backgrounds/w7kXY9PTVrF2YvTW.htm)||`@Compendium[pf2e.backgrounds.w7kXY9PTVrF2YvTW]`|
+|[Ustalavic Academic](backgrounds/IRh6qlZtN7OBKrek.htm)||`@Compendium[pf2e.backgrounds.IRh6qlZtN7OBKrek]`|
+|[Varisian Wanderer](backgrounds/PKVDSZaBcflUL1Za.htm)||`@Compendium[pf2e.backgrounds.PKVDSZaBcflUL1Za]`|
+|[Vidrian Reformer](backgrounds/YYGaSpcfC3XBnyg1.htm)||`@Compendium[pf2e.backgrounds.YYGaSpcfC3XBnyg1]`|
 |[Warrior](backgrounds/FeYe3gQtkUsxpW1I.htm)|Homme d'armes|`@Compendium[pf2e.backgrounds.FeYe3gQtkUsxpW1I]`|
+|[Whispering Way Scion](backgrounds/K12klGJogLLgGLIw.htm)||`@Compendium[pf2e.backgrounds.K12klGJogLLgGLIw]`|
+|[Wildwood Local](backgrounds/RnH0Uo9vIJM68jZv.htm)||`@Compendium[pf2e.backgrounds.RnH0Uo9vIJM68jZv]`|
+|[Winter's Child](backgrounds/6gFzKv1eBQJ1xaH9.htm)||`@Compendium[pf2e.backgrounds.6gFzKv1eBQJ1xaH9]`|
+|[Witch Wary](backgrounds/nqyKrbSd2AdQxjNh.htm)||`@Compendium[pf2e.backgrounds.nqyKrbSd2AdQxjNh]`|
+|[Wonder Taster](backgrounds/JV5GjNjPuFWyTbw0.htm)||`@Compendium[pf2e.backgrounds.JV5GjNjPuFWyTbw0]`|
 
 
 ## Ascendances

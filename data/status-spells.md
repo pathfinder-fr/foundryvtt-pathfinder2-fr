@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **officielle**: 193
- * **aucune**: 430
+ * **officielle**: 202
+ * **aucune**: 422
  * **libre**: 1
  * **changé**: 48
 
 
-Dernière mise à jour: 2020-06-23 21:57 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-25 18:06 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -232,13 +232,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-02-zK0e9d9DSnxC4eAD.htm](spells/evo-02-zK0e9d9DSnxC4eAD.htm)|Sudden Bolt|
 |[evo-03-06pzGkKTyPE3tHR8.htm](spells/evo-03-06pzGkKTyPE3tHR8.htm)|Gravity Well|
 |[evo-03-57ulIxg3Of2wCbEh.htm](spells/evo-03-57ulIxg3Of2wCbEh.htm)|Electrified Crystal Ward|
-|[evo-03-9AAkVUCwF6WVNNY2.htm](spells/evo-03-9AAkVUCwF6WVNNY2.htm)|Lightning Bolt|
-|[evo-03-DyiD239dNS7RIxZE.htm](spells/evo-03-DyiD239dNS7RIxZE.htm)|Searing Light|
 |[evo-03-eIPIZp2FUbFcLNdj.htm](spells/evo-03-eIPIZp2FUbFcLNdj.htm)|Pillar of Water|
-|[evo-03-fI20AVwOzJMHXRdo.htm](spells/evo-03-fI20AVwOzJMHXRdo.htm)|Levitate|
-|[evo-03-it4ZsAi6XgvGcodc.htm](spells/evo-03-it4ZsAi6XgvGcodc.htm)|Wall of Wind|
-|[evo-03-sRfSBHWHdbIa0aGc.htm](spells/evo-03-sRfSBHWHdbIa0aGc.htm)|Chilling Darkness|
-|[evo-03-sxQZ6yqTn0czJxVd.htm](spells/evo-03-sxQZ6yqTn0czJxVd.htm)|Fireball|
 |[evo-03-TT9owkeMBXJxcERB.htm](spells/evo-03-TT9owkeMBXJxcERB.htm)|Unseasonable Squall|
 |[evo-03-tvO6Kmc2pQve9DC5.htm](spells/evo-03-tvO6Kmc2pQve9DC5.htm)|Unfolding Wind Rush|
 |[evo-03-ytboJsyZEbE1MLeV.htm](spells/evo-03-ytboJsyZEbE1MLeV.htm)|Unbreaking Wave Advance|
@@ -294,9 +288,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-10-wLIvH0AT1u7oa64N.htm](spells/evo-10-wLIvH0AT1u7oa64N.htm)|Cataclysm|
 |[ill-00-PEfSofHm73IT3Khc.htm](spells/ill-00-PEfSofHm73IT3Khc.htm)|House of Imaginary Walls|
 |[ill-01-znMvKqcRDilIVMwA.htm](spells/ill-01-znMvKqcRDilIVMwA.htm)|Exchange Image|
-|[ill-03-I0j56TNRmGcTyoqJ.htm](spells/ill-03-I0j56TNRmGcTyoqJ.htm)|Invisibility Sphere|
-|[ill-03-K2WpC3FFoHrqX9Q5.htm](spells/ill-03-K2WpC3FFoHrqX9Q5.htm)|Hypnotic Pattern|
-|[ill-03-VVAZPCvd4d90qVA1.htm](spells/ill-03-VVAZPCvd4d90qVA1.htm)|Secret Page|
 |[ill-04-HBJPsonQnWcC3qdX.htm](spells/ill-04-HBJPsonQnWcC3qdX.htm)|Hallucinatory Terrain|
 |[ill-04-HisaZTk67YAxLGBq.htm](spells/ill-04-HisaZTk67YAxLGBq.htm)|Ephemeral Hazards|
 |[ill-04-hkfH9Z53hPzcOwNB.htm](spells/ill-04-hkfH9Z53hPzcOwNB.htm)|Veil|
@@ -332,6 +323,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-02-siU9xRlqWXeKT0mH.htm](spells/nec-02-siU9xRlqWXeKT0mH.htm)|Feast of Ashes|
 |[nec-02-X3dYByf3YmkcdwG0.htm](spells/nec-02-X3dYByf3YmkcdwG0.htm)|Slough Skin|
 |[nec-03-10siFBMF4pIDhVmf.htm](spells/nec-03-10siFBMF4pIDhVmf.htm)|Cup of Dust|
+|[nec-03-FUUHRgqSzTKAbw4a.htm](spells/nec-03-FUUHRgqSzTKAbw4a.htm)|Touch of Corruption|
 |[nec-03-GUeRTriJkMlMlVrk.htm](spells/nec-03-GUeRTriJkMlMlVrk.htm)|Bind Undead|
 |[nec-03-N1Z1oLPdBxaSgrEE.htm](spells/nec-03-N1Z1oLPdBxaSgrEE.htm)|Vampiric Touch|
 |[nec-03-RneiyehRO6f7LP44.htm](spells/nec-03-RneiyehRO6f7LP44.htm)|Remove Disease|
@@ -598,10 +590,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-02-mrDi3v933gsmnw25.htm](spells/evo-02-mrDi3v933gsmnw25.htm)|Telekinetic Manuever|Manoeuvre télékinésique|officielle|
 |[evo-02-wzLkNU3AAqOSKFPR.htm](spells/evo-02-wzLkNU3AAqOSKFPR.htm)|Sound Burst|Cacophonie|officielle|
 |[evo-02-ynm8JIU3sc3qUMpa.htm](spells/evo-02-ynm8JIU3sc3qUMpa.htm)|Continual Flame|Flamme éternelle|officielle|
+|[evo-03-9AAkVUCwF6WVNNY2.htm](spells/evo-03-9AAkVUCwF6WVNNY2.htm)|Lightning Bolt|Eclair|officielle|
 |[evo-03-B8aCUMCHCIMUCEVK.htm](spells/evo-03-B8aCUMCHCIMUCEVK.htm)|Elemental Motion|Mobilité élémentaire|officielle|
+|[evo-03-DyiD239dNS7RIxZE.htm](spells/evo-03-DyiD239dNS7RIxZE.htm)|Searing Light|Lumière brûlante|officielle|
+|[evo-03-fI20AVwOzJMHXRdo.htm](spells/evo-03-fI20AVwOzJMHXRdo.htm)|Levitate|Lévitation|officielle|
+|[evo-03-it4ZsAi6XgvGcodc.htm](spells/evo-03-it4ZsAi6XgvGcodc.htm)|Wall of Wind|Mur de vent|officielle|
 |[evo-03-JcobNl4iE9HmMYtE.htm](spells/evo-03-JcobNl4iE9HmMYtE.htm)|Dragon Breath|Souffle de dragon|officielle|
 |[evo-03-kRsmUlSWhi6PJvZ7.htm](spells/evo-03-kRsmUlSWhi6PJvZ7.htm)|Angelic Wings|Ailes d'ange|officielle|
 |[evo-03-oo7YcRC2gcez81PV.htm](spells/evo-03-oo7YcRC2gcez81PV.htm)|Ki Blast|Explosion Ki|officielle|
+|[evo-03-sRfSBHWHdbIa0aGc.htm](spells/evo-03-sRfSBHWHdbIa0aGc.htm)|Chilling Darkness|Ténèbres glaciales|officielle|
+|[evo-03-sxQZ6yqTn0czJxVd.htm](spells/evo-03-sxQZ6yqTn0czJxVd.htm)|Fireball|Boule de feu|officielle|
 |[evo-03-X1b9ollVMSLXDN9o.htm](spells/evo-03-X1b9ollVMSLXDN9o.htm)|Litany against Wrath|Litanie contre la colère|officielle|
 |[ill-00-atlgGNI1E1Ox3O3a.htm](spells/ill-00-atlgGNI1E1Ox3O3a.htm)|Ghost Sound|Son imaginaire|officielle|
 |[ill-00-vLzFcIaSXs7YTIqJ.htm](spells/ill-00-vLzFcIaSXs7YTIqJ.htm)|Message|Message|officielle|
@@ -625,6 +623,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ill-02-Mkbq9xlAUxHUHyR2.htm](spells/ill-02-Mkbq9xlAUxHUHyR2.htm)|Paranoia|Paranoïa|officielle|
 |[ill-02-XXqE1eY3w3z6xJCB.htm](spells/ill-02-XXqE1eY3w3z6xJCB.htm)|Invisibility|Invisibilité|officielle|
 |[ill-03-aZg3amDcrXz3cLCz.htm](spells/ill-03-aZg3amDcrXz3cLCz.htm)|Horrific Visage|Visage terrifiant|officielle|
+|[ill-03-I0j56TNRmGcTyoqJ.htm](spells/ill-03-I0j56TNRmGcTyoqJ.htm)|Invisibility Sphere|Sphère d'invisibilité|officielle|
+|[ill-03-K2WpC3FFoHrqX9Q5.htm](spells/ill-03-K2WpC3FFoHrqX9Q5.htm)|Hypnotic Pattern|Lueurs hypnotiques|officielle|
+|[ill-03-VVAZPCvd4d90qVA1.htm](spells/ill-03-VVAZPCvd4d90qVA1.htm)|Secret Page|Page secrète|officielle|
 |[nec-00-kcelf6IHl3L9VXXg.htm](spells/nec-00-kcelf6IHl3L9VXXg.htm)|Disrupt Undead|Destruction de mort-vivant|changé|
 |[nec-00-mAMEt4FFbdqoRnkN.htm](spells/nec-00-mAMEt4FFbdqoRnkN.htm)|Chill Touch|Contact glacial|changé|
 |[nec-00-SnjhtQYexDtNDdEg.htm](spells/nec-00-SnjhtQYexDtNDdEg.htm)|Stabilize|Stabilisation|changé|

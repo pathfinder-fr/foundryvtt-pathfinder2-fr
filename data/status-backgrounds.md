@@ -1,41 +1,124 @@
 # État de la traduction (backgrounds)
 
- * **aucune**: 25
+ * **aucune**: 108
  * **changé**: 44
 
 
-Dernière mise à jour: 2020-06-23 21:57 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-25 18:06 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[0EIhRniun8jfdPeN.htm](backgrounds/0EIhRniun8jfdPeN.htm)|Rostland Partisan|
 |[0qrZaukJ0aIoPx3P.htm](backgrounds/0qrZaukJ0aIoPx3P.htm)|Iolite Trainee Hobgoblin|
+|[1zyrJ5dQPKedoSfP.htm](backgrounds/1zyrJ5dQPKedoSfP.htm)|Razmiran Faithful|
+|[2PfqXmTTdwWAJNoc.htm](backgrounds/2PfqXmTTdwWAJNoc.htm)|Diobel Pearl Diver|
+|[3w6cSTa3Zc4z2ygu.htm](backgrounds/3w6cSTa3Zc4z2ygu.htm)|Aspiring River Monarch|
 |[5DnDnoSyyd1UPyRV.htm](backgrounds/5DnDnoSyyd1UPyRV.htm)|Touched by Dahak|
+|[5KrCZHHMZmaM3FUl.htm](backgrounds/5KrCZHHMZmaM3FUl.htm)|Child of the Puddles|
+|[5PsnYGatgMEYy9xH.htm](backgrounds/5PsnYGatgMEYy9xH.htm)|Cursed Family|
+|[5u7FKCHuWmscNe5i.htm](backgrounds/5u7FKCHuWmscNe5i.htm)|Secular Medic|
+|[6gFzKv1eBQJ1xaH9.htm](backgrounds/6gFzKv1eBQJ1xaH9.htm)|Winter's Child|
 |[7MKHFbZitRzTwiP0.htm](backgrounds/7MKHFbZitRzTwiP0.htm)|Dreamer of the Verdant Moon|
 |[7woKMTCFU4NC06l5.htm](backgrounds/7woKMTCFU4NC06l5.htm)|Aiudara Seeker|
+|[8MoCaPm2wHF3r1yt.htm](backgrounds/8MoCaPm2wHF3r1yt.htm)|Trade Consortium Underling|
+|[8p0gfy5xzpFZRyaG.htm](backgrounds/8p0gfy5xzpFZRyaG.htm)|Freed Slave of Absalom|
+|[8uc1ABJWOJ3gVCFD.htm](backgrounds/8uc1ABJWOJ3gVCFD.htm)|Mammoth Speaker|
+|[98YK8hpUVuDZCoAH.htm](backgrounds/98YK8hpUVuDZCoAH.htm)|Thassilonian Delver|
 |[9d5Mo7qNSpDyKWzY.htm](backgrounds/9d5Mo7qNSpDyKWzY.htm)|Finadar Leshy|
+|[aiiZdNhGey0Ov8Lb.htm](backgrounds/aiiZdNhGey0Ov8Lb.htm)|Tapestry Refugee|
+|[At7nhCMEu2i2bKj9.htm](backgrounds/At7nhCMEu2i2bKj9.htm)|Shoanti Name Bearer|
+|[c4Gcdcz5vDOc5NCk.htm](backgrounds/c4Gcdcz5vDOc5NCk.htm)|Quick|
+|[CMswLSRLQ72tbu0u.htm](backgrounds/CMswLSRLQ72tbu0u.htm)|Geb Crusader|
+|[dPjFZlQG4dg13irs.htm](backgrounds/dPjFZlQG4dg13irs.htm)|Savior of Air|
 |[DW3mWZ4wepwNVfAN.htm](backgrounds/DW3mWZ4wepwNVfAN.htm)|Rigger|
+|[EcjUeihqNUB1KGhk.htm](backgrounds/EcjUeihqNUB1KGhk.htm)|Nirmathi Guerrilla|
+|[ecmPA86bz6221BWZ.htm](backgrounds/ecmPA86bz6221BWZ.htm)|Menagerie Dung Sweeper|
+|[ekEBKpFNZ0QVwywW.htm](backgrounds/ekEBKpFNZ0QVwywW.htm)|Press-Ganged|
+|[EvMNfrutZkTjUHVW.htm](backgrounds/EvMNfrutZkTjUHVW.htm)|Hermean Expatriate|
+|[EZ8J6yKeCICf6Oi7.htm](backgrounds/EZ8J6yKeCICf6Oi7.htm)|Lumber Consortium Laborer|
 |[FA6ADIwZ0IV1LZv1.htm](backgrounds/FA6ADIwZ0IV1LZv1.htm)|Circus Born|
+|[fAibW4s5hrHEaLrT.htm](backgrounds/fAibW4s5hrHEaLrT.htm)|Child of Westcrown|
+|[G2o8mCXdYKl1tbXP.htm](backgrounds/G2o8mCXdYKl1tbXP.htm)|Desert Tracker|
 |[G4akDE6k0GpQ3dpD.htm](backgrounds/G4akDE6k0GpQ3dpD.htm)|Hermean Heritor|
+|[gad0K8Kvxk4auPwM.htm](backgrounds/gad0K8Kvxk4auPwM.htm)|Faction Opportunist|
 |[GAWMi5F6MXXWqOpR.htm](backgrounds/GAWMi5F6MXXWqOpR.htm)|Legendary Parents|
+|[gBPUW9JAARw3lsdr.htm](backgrounds/gBPUW9JAARw3lsdr.htm)|Belkzen Slayer|
 |[GBvUIdUFCkBpZdp0.htm](backgrounds/GBvUIdUFCkBpZdp0.htm)|Missionary|
 |[gGHi0N5bZNbGbxB4.htm](backgrounds/gGHi0N5bZNbGbxB4.htm)|Teamster|
+|[Gj9PhLYrZCQxvuwh.htm](backgrounds/Gj9PhLYrZCQxvuwh.htm)|Perfection Seeker|
+|[gpB6yH1lvLiU03eJ.htm](backgrounds/gpB6yH1lvLiU03eJ.htm)|Early Explorer|
+|[H1tJhj6ZbkLxmK8a.htm](backgrounds/H1tJhj6ZbkLxmK8a.htm)|Rivethun Adherent|
+|[H1yku00yjYxnNU3p.htm](backgrounds/H1yku00yjYxnNU3p.htm)|Aspiring Free Captain|
+|[H859zofQzmGngQ2d.htm](backgrounds/H859zofQzmGngQ2d.htm)|Pathfinder Hopeful|
+|[hcC58ohDMUOgmuZp.htm](backgrounds/hcC58ohDMUOgmuZp.htm)|Grand Council Bureaucrat|
+|[hDUQWHMVi4pRh2D7.htm](backgrounds/hDUQWHMVi4pRh2D7.htm)|Lastwall Survivor|
+|[hgHxXEuwmNSrXD9J.htm](backgrounds/hgHxXEuwmNSrXD9J.htm)|Onyx Trader|
+|[HmC4y8ENahNKp5Tl.htm](backgrounds/HmC4y8ENahNKp5Tl.htm)|Inlander|
 |[hQiyj0YTMNqMNf1x.htm](backgrounds/hQiyj0YTMNqMNf1x.htm)|Aerialist|
 |[HqrzcYujcS4UeJxJ.htm](backgrounds/HqrzcYujcS4UeJxJ.htm)|Blow-In|
+|[ijldm5oRi8hNyoyP.htm](backgrounds/ijldm5oRi8hNyoyP.htm)|Senghor Sailor|
+|[iPjaDshFtGP3uMO8.htm](backgrounds/iPjaDshFtGP3uMO8.htm)|Scholar of the Sky Key|
+|[IRh6qlZtN7OBKrek.htm](backgrounds/IRh6qlZtN7OBKrek.htm)|Ustalavic Academic|
+|[JfOPdd8V2CuN9I9a.htm](backgrounds/JfOPdd8V2CuN9I9a.htm)|Bellflower Agent|
+|[JNSg5UvBKdIgLNJ6.htm](backgrounds/JNSg5UvBKdIgLNJ6.htm)|Issian Partisan|
+|[JV5GjNjPuFWyTbw0.htm](backgrounds/JV5GjNjPuFWyTbw0.htm)|Wonder Taster|
+|[K12klGJogLLgGLIw.htm](backgrounds/K12klGJogLLgGLIw.htm)|Whispering Way Scion|
 |[kH8lJq7NCoMlyOUj.htm](backgrounds/kH8lJq7NCoMlyOUj.htm)|Clown|
 |[lMF9dnqUeCDED0TG.htm](backgrounds/lMF9dnqUeCDED0TG.htm)|Animal Wrangler|
 |[LPZmM7UnWddi80gB.htm](backgrounds/LPZmM7UnWddi80gB.htm)|Mystic Seer|
-|[NgtOrtXyIPtn38XG.htm](backgrounds/NgtOrtXyIPtn38XG.htm)|Raised by Belief|
+|[MgMERnqmXRZcXHLH.htm](backgrounds/MgMERnqmXRZcXHLH.htm)|Demon Slayer|
+|[MWJHfS2bsYTvdroc.htm](backgrounds/MWJHfS2bsYTvdroc.htm)|Bekyar Restorer|
+|[NDhkBcdxy5J8M6Wx.htm](backgrounds/NDhkBcdxy5J8M6Wx.htm)|Taldan Schemer|
+|[NEM45HOKdrp1PiDX.htm](backgrounds/NEM45HOKdrp1PiDX.htm)|Oenopion Ooze-Tender|
 |[ngzWTz11vCUI3h7i.htm](backgrounds/ngzWTz11vCUI3h7i.htm)|Lesser Scion|
+|[nhsqxxBfkcOMZBTp.htm](backgrounds/nhsqxxBfkcOMZBTp.htm)|Shadow Haunted|
+|[NiuVJNmAe7TdI3mv.htm](backgrounds/NiuVJNmAe7TdI3mv.htm)|Thrune Loyalist|
+|[nqyKrbSd2AdQxjNh.htm](backgrounds/nqyKrbSd2AdQxjNh.htm)|Witch Wary|
+|[O23kJuciAtakDENn.htm](backgrounds/O23kJuciAtakDENn.htm)|Mantis Scion|
+|[O4BXvhZpMvpmQEUs.htm](backgrounds/O4BXvhZpMvpmQEUs.htm)|Nexian Mystic|
+|[O6Cd575MzIqYbvOR.htm](backgrounds/O6Cd575MzIqYbvOR.htm)|Sarkorian Survivor|
+|[oH5Uagjkc58AHozy.htm](backgrounds/oH5Uagjkc58AHozy.htm)|Chelish Rebel|
+|[oZC6fev9xw72O3vA.htm](backgrounds/oZC6fev9xw72O3vA.htm)|Sarkorian Reclaimer|
+|[PG0jDgRCfzuv8mrF.htm](backgrounds/PG0jDgRCfzuv8mrF.htm)|Kalistrade Follower|
+|[PKVDSZaBcflUL1Za.htm](backgrounds/PKVDSZaBcflUL1Za.htm)|Varisian Wanderer|
+|[psz1WHMGUNFOPG37.htm](backgrounds/psz1WHMGUNFOPG37.htm)|Sodden Scavenger|
+|[pvqejr2ADrs9EoBM.htm](backgrounds/pvqejr2ADrs9EoBM.htm)|Molthuni Mercenary|
+|[q0hK6ih6h42fL4yD.htm](backgrounds/q0hK6ih6h42fL4yD.htm)|Shory Seeker|
+|[qhY96No3S3ulObtQ.htm](backgrounds/qhY96No3S3ulObtQ.htm)|Goblinblood Orphan|
+|[QjEpaKn5x9INfcfY.htm](backgrounds/QjEpaKn5x9INfcfY.htm)|Atteran Rancher|
 |[Rc2l1j73EC2hPmUA.htm](backgrounds/Rc2l1j73EC2hPmUA.htm)|Refugee|
+|[RnH0Uo9vIJM68jZv.htm](backgrounds/RnH0Uo9vIJM68jZv.htm)|Wildwood Local|
+|[RsBbawZlgqkMh4Un.htm](backgrounds/RsBbawZlgqkMh4Un.htm)|Ulfen Raider|
+|[SbAaSeBHTmQ3xU8X.htm](backgrounds/SbAaSeBHTmQ3xU8X.htm)|Final Blade Survivor|
 |[sdPE9bha7IOb4O8i.htm](backgrounds/sdPE9bha7IOb4O8i.htm)|Butcher|
+|[shwAcaWydDHBqR1X.htm](backgrounds/shwAcaWydDHBqR1X.htm)|Osirionologist|
+|[skqghxn3svID1dyU.htm](backgrounds/skqghxn3svID1dyU.htm)|Bright Lion|
 |[T6nf9vQKWzHui59P.htm](backgrounds/T6nf9vQKWzHui59P.htm)|Lost and Alone|
+|[TDmwsOqt37L35nx6.htm](backgrounds/TDmwsOqt37L35nx6.htm)|Former Aspis Agent|
+|[Tqyybb0eKpwRHYwj.htm](backgrounds/Tqyybb0eKpwRHYwj.htm)|Magaambya Academic|
+|[TtRmN9qYJnqbrfeV.htm](backgrounds/TtRmN9qYJnqbrfeV.htm)|Scholar of the Ancients|
+|[u13zJhBdawMYLGTk.htm](backgrounds/u13zJhBdawMYLGTk.htm)|Storm Survivor|
+|[U4VWN83sV1tT12Yf.htm](backgrounds/U4VWN83sV1tT12Yf.htm)|Merabite Prodigy|
+|[UcQP3PBk7Ag7shxT.htm](backgrounds/UcQP3PBk7Ag7shxT.htm)|Thuvian Unifier|
+|[vBj8pruBbClwdEZG.htm](backgrounds/vBj8pruBbClwdEZG.htm)|Thassilonian Traveler|
 |[VJx0O3rGNjZ0X22p.htm](backgrounds/VJx0O3rGNjZ0X22p.htm)|Sewer Dragon|
+|[VOI91rOapoBqgUv7.htm](backgrounds/VOI91rOapoBqgUv7.htm)|Black Market Smuggler|
+|[Vu7pydxrARfYD67B.htm](backgrounds/Vu7pydxrARfYD67B.htm)|Ruby Phoenix Enthusiast|
+|[w7kXY9PTVrF2YvTW.htm](backgrounds/w7kXY9PTVrF2YvTW.htm)|Undersea Enthusiast|
 |[WPyDbom83vu7Fy5i.htm](backgrounds/WPyDbom83vu7Fy5i.htm)|Droskari Disciple|
+|[WRbpRTHJesfbjIS5.htm](backgrounds/WRbpRTHJesfbjIS5.htm)|Shadow War Survivor|
+|[XC86jXYUicUqkoQY.htm](backgrounds/XC86jXYUicUqkoQY.htm)|Mana Wastes Refugee|
 |[xKVVXEDgNeJAuIcX.htm](backgrounds/xKVVXEDgNeJAuIcX.htm)|Barker|
+|[xLDNoWnNxtJceEwJ.htm](backgrounds/xLDNoWnNxtJceEwJ.htm)|Shadow Lodge Defector|
 |[xlhQlrfhucYxkyPD.htm](backgrounds/xlhQlrfhucYxkyPD.htm)|Raised by Belief|
+|[XnDdzNHhA17xRZ22.htm](backgrounds/XnDdzNHhA17xRZ22.htm)|Purveyor of the Bizzare|
+|[y6Df6HCrzc5kuLAJ.htm](backgrounds/y6Df6HCrzc5kuLAJ.htm)|Alkenstar Tinker|
+|[y9fqolddlRWRQsWl.htm](backgrounds/y9fqolddlRWRQsWl.htm)|Kyonin Emissary|
+|[YS8l22rXhnLnyBqb.htm](backgrounds/YS8l22rXhnLnyBqb.htm)|Bonuwat Wavetouched|
+|[YYGaSpcfC3XBnyg1.htm](backgrounds/YYGaSpcfC3XBnyg1.htm)|Vidrian Reformer|
 
 ## Liste des traductions complétés
 
