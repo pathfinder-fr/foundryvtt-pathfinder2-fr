@@ -97,6 +97,11 @@
             "description": "<p><span class=\"fontstyle0\">Cette hache possède une lame barbue et dentelée idéale pour séparer l’os du tendon et du cartilage. </span> </p>"
         },
         {
+            "id": "Katar",
+            "name": "Katar (Katar)",
+            "description": "<p>Egalement connu sous le nom de poignard de perforation, le katar se caractérise par sa poignée en forme de H qui permet à la lame de déborder des articulations des doigts. </p>"
+        },
+        {
             "id": "Cat's Eye Elixir",
             "name": "Cat's Eye Elixir (Elixir d'oeil de chat)",
             "description": "Une fois que vous avez bu cet élixir, votre vue devient plus perçante et vous repérez les mouvements les plus infimes. Pendant la minute qui suit, vous réduisez à 5 le DD du test nu pour viser une créature cachée et vous n’avez pas besoin de faire de test nu pour viser une créature masquée. Ces avantages s’appliquent uniquement aux créatures situées dans un rayon de 9 m."
@@ -262,6 +267,11 @@
             "description": "<p><span class=\"fontstyle0\">Lorsque vous avez fabriqué un grand nombre de déguisements à partir d'un Kit de déguisement, vous pouvez reconstituer votre stock de cosmétiques avec des cosmétiques de rechange adapté au type de votre kit de déguisement.</span> </p>"
         },
         {
+            "id": "Gloom Blade",
+            "name": "Gloom Blade (Lame obscure)",
+            "description": "<p>Aussi noire que le charbon, cette lame gagne en puissance dans l’obscurité. Dans une zone de lumière vive, elle fonctionne comme une épée courte +1 et ne semble émettre aucune aura magique si on l’examine avec une détection de la magie ou des sorts similaires, sauf si ces sorts sont de niveau 4 ou plus.&nbsp;&nbsp;</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Dans une zone de ténèbres ou de lumière faible, la lame obscure devient une épée courte de frappe +2. Chaque fois que vous utilisez la lame obscure pour attaquer une créature vis‑à‑vis de laquelle vous êtes non détecté, vous infligez 1d6 dégâts de précision supplémentaires. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Pour améliorer les runes fondamentales de la lame obscure, commen‑ cez par l’épée courte +1 de base, mais si vous l’améliorez au‑delà d’une épée courte de frappe +2, les runes s’appliquent égale‑ ment dans une zone de ténèbres ou de lumière faibles.</span></p>"
+        },
+        {
             "id": "Alchemist Goggles",
             "name": "Alchemist Goggles (Lunettes d'alchimiste)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces lunettes aux montures de bronze gravées de motifs de flamme sont dotées de verres lourds et épais. Une fois portées, elles vous confèrent un bonus d’objet de +1 aux tests d’Artisanat pour Fabriquer des objets alchimiques et un bonus d’ob‑ jet de +1 aux jets d’attaques avec des bombes alchimiques. Vous pouvez également ignorer les abris partiels quand vous eff&nbsp;</span></p>"
@@ -315,6 +325,11 @@
             "id": "Alabaster idol",
             "name": "Alabaster idol (idôle en albâtre)",
             "description": ""
+        },
+        {
+            "id": "Greatclub",
+            "name": "Greatclub (Massue)",
+            "description": "<p>Beaucoup de massues sont finement sculptées, tandis que d’autres ne sont guère plus qu’une branche d’arbre robuste. Ces massues imposantes sont trop lourdes pour pouvoir les manier d’une seule main</p>"
         },
         {
             "id": "Spellbook (Blank)",
@@ -482,6 +497,11 @@
             "description": "<p><span class=\"fontstyle0\">Une longue-vue typique vous permet de voir huit fois plus loin que la normale. Une belle longue-vue ajoute un bonus d’objet de +1 au test de Perception pour remarquer des détails à distance. </span> </p>"
         },
         {
+            "id": "Maul",
+            "name": "Maul (Maillet)",
+            "description": "<p>Le maillet est un marteau de guerre massif qu’il faut balancer à deux mains.</p>"
+        },
+        {
             "id": "Feather Token (Swan Boat)",
             "name": "Feather Token (Swan Boat) (Plume magique (bateau cygne))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque plume magique semble être une simple plume d’oiseau exotique. La tige, plaquée or, porte une unique rune arcanique. Une fois activée, la plume magique se transforme en un autre objet qui s’utilise alors normalement. Chaque plume s’active une seule fois et reste généralement sous la forme de l’objet en lequel elle s’est changée.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette plume s’active uniquement si vous la lan‑ cez dans une grande étendue d’eau, telle qu’un lac ou une large rivière. Elle se change en un ba‑ teau en forme de cygne capable de transporter jusqu’à 32 créatures de taille Moyenne ou 8 de Grande taille ou 2 de Très Grande taille. Le bateau se déplace sur l’eau à une Vitesse de 15 m et dure 1 jour. &nbsp;</span></p>"
@@ -557,6 +577,11 @@
             "description": "<p>Cette arme d’hast possède un manche relativement court de 1,5 m. Son extrémité dangereuse est une longue pointe attachée avec une lame de hache.</p>"
         },
         {
+            "id": "Staff of Fire (Greater)",
+            "name": "Staff of Fire (Greater) (Bâton de feu (supérieur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bâton ressemble à une branche de bois cendreux, brûlé et noirci. Il sent un peu la suie et luit comme de la braise. Vous pouvez effec‑ tuer l’action Interagir pour allumer une torche, de l’amadou ou une substance inflammable en le touchant avec l’extrémité du bâton. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication.</strong>  Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</span></p>\n<ul>\n<li><strong>Tour de magie</strong>Flammes @Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Produce Flame}</li>\n<li><strong>Niveau 1</strong> Mains brûlantes @Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]{Burning Hands}</li>1\n<li><strong>Niveau 2</strong> Mains brûlantes, sphère de feu  @Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]{Burning Hands} @Compendium[pf2e.spells-srd.2ZdHjnpEQJuqOYSG]{Flaming Sphere}</li>\n<li><strong>Niveau 3</strong> Boule de feu, sphère de feu @Compendium[pf2e.spells-srd.2ZdHjnpEQJuqOYSG]{Flaming Sphere} @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}</li>\n</ul>"
+        },
+        {
             "id": "Winged Boots",
             "name": "Winged Boots (Bottes ailées)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Confectionnées dans du cuir souple et dotées de délicates ailes blanches au niveau du talon, ces bottes sont enchantées avec une puissante magie de l’air. Chaque fois que vous chutez alors que vous portez ces bottes, celles‑ci lancent automatiquement @Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{feuille morte} sur vous. Cet avantage ne peut se déclencher qu’une fois par période de 10 min. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Sur ordre, Intéragir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Vous prononcez le mot de commande et claquez les talons l’un contre l’autre pour que les ailes s’animent et battent rapidement, ce qui vous confère une Vitesse de vol de 9 m pendant 10 min.</span></p>"
@@ -590,6 +615,11 @@
             "id": "Shortbow",
             "name": "Shortbow (Arc court)",
             "description": "<p><span class=\"fontstyle0\">Ce petit arc est fait d’une seule pièce de bois et est prisé des tirailleurs et des cavaliers. </span></p>"
+        },
+        {
+            "id": "Wolfsbane",
+            "name": "Wolfsbane (Aconit)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’aconit figure dans le folklore à cause de son lien avec les garous. Si vous êtes affecté par la lycanthropie et survivez au stade 3 de l’aconit, vous êtes immédiatement guéri de cette lycanthropie.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong>  Vigueur DD 30; <strong>Délai</strong>10 minutes; <strong>Durée maximum</strong> 6 minutes; <strong>Stade 1</strong>  12d6 dégâts de poison (1 min);  <strong>Stade 2</strong>  16d6 dégâts de poison (1 min) ; <strong>Stade 3</strong>  20d6 dégâts de poison (1 min)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
             "id": "Thunderstone (Lesser)",
@@ -690,6 +720,11 @@
             "id": "Mirror",
             "name": "Mirror (Miroir)",
             "description": ""
+        },
+        {
+            "id": "Javelin",
+            "name": "Javelin (Javeline)",
+            "description": "<p><span class=\"fontstyle0\">Cette fine lance est bien équilibrée pour les lancers, mais n’est pas conçue pour être utilisée au corps à corps.</span><br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
         },
         {
             "id": "Leaper's Elixir (Greater)",
@@ -960,6 +995,11 @@
             "id": "Acrobat's Staff",
             "name": "Acrobat's Staff (Bâton de l'Acrobate)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce @Compendium[pf2e.equipment-srd.hMYdSFmMWzidzHih]{bô} de <em>frappe +1 </em> est particulièrement long, lui permettant d'agir comme un balancier. Lorsque vous le tenez, le bâton d'acrobate relâche de la craie pour rendre votre prise plus sûre, vous accordant un bonus de circonstance de +1 à votre DD de Réflexes contre les tests visant à vous en @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> @Compendium[pf2e.actionspf2e.d9FgLxjxKGep2ug7]{Sur ordre} ; <strong>Déclencheur</strong> Vous obtenez un échec ou un échec critique à un test d'Acrobatics pour garder l'équilibre et vous faire chuter ; <strong>Effet</strong> Relancer le test d'Acrobaties et conserver le meilleur résultat.</span></p>"
+        },
+        {
+            "id": "Luck Blade (Wishing)",
+            "name": "Luck Blade (Wishing) (Lame chanceuse de souhait)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La chance est souvent du côté de celui qui manie cette épée courte de frappe supérieure +3. Les lames chanceuses sont forgées dans divers styles, mais leur garde ou leur lame sont souvent ornées de symboles de chance, comme des trèfles à quatre feuilles, des fers à cheval, des poissons, des coccinelles ou autres. <br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> imaginer; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous ratez une Frappe avec la lame chanceuse; <strong>Effet</strong>  Refaites le jet d’attaque déclencheur et appliquez le nouveau résultat. Il s’agit d’un effet de fortune. </p>\n<p>Certaines lames chanceuses contiennent un souhait @Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Wish}  lorsqu’elles sont forgées. Vous pouvez lancer ce sort comme un sort inné arcanique lorsque vous maniez la <em>lame chanceuse</em>, ce qui dépense le sort. Un incantateur qui peut lancer souhait peut placer un nouveau souhait dans la lame en dépensant 8 000 po et en y consacrant 4 jours d’intermède. Une <em>lame chanceuse</em> de souhait ne peut pas contenir plus d’un souhait à la fois. </p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>souhait</em>.</span></p>"
         },
         {
             "id": "Panacea",
@@ -1427,6 +1467,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide, les dégâts persistants et les dégâts d’éclaboussure d’acide indiqués.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +3 aux jets d’attaque. La fiole inflige 4d6 dégâts persistants d’acide et 4 dégâts d’éclaboussure d’acide.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Frapper</span></p>"
         },
         {
+            "id": "Staff of Fire (Major)",
+            "name": "Staff of Fire (Major) (Bâton de feu (majeur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bâton ressemble à une branche de bois cendreux, brûlé et noirci. Il sent un peu la suie et luit comme de la braise. Vous pouvez effec‑ tuer l’action Interagir pour allumer une torche, de l’amadou ou une substance inflammable en le touchant avec l’extrémité du bâton.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort ; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.\n</span></p>\n<ul>\n<li><strong>Tour de magie</strong> Flammes @Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Produce Flame}</li>\n<li><strong>Niveau 1</strong> Mains brûlantes @Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]{Burning Hands}</li>\n<li><strong>Niveau 2</strong> Mains brûlantes, sphère de feu &nbsp;@Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]{Burning Hands} @Compendium[pf2e.spells-srd.2ZdHjnpEQJuqOYSG]{Flaming Sphere}</li>\n<li><strong>Niveau 3</strong> Boule de feu, sphère de feu &nbsp;@Compendium[pf2e.spells-srd.2ZdHjnpEQJuqOYSG]{Flaming Sphere}&nbsp;@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}</li>\n<li><strong>Niveau 4</strong> Bouclier de feu, boule de feu, mur de feu @Compendium[pf2e.spells-srd.YrzBLPLd3r9m6t1p]{Fire Shield}, @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball} @Compendium[pf2e.spells-srd.IarZrgCeaiUqOuRu]{Wall of Fire}</li>\n<li><strong>Niveau 5</strong> Boule de feu, mur de feu &nbsp;@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball} @Compendium[pf2e.spells-srd.IarZrgCeaiUqOuRu]{Wall of Fire}</li>\n</ul>"
+        },
+        {
             "id": "Tanglefoot Bag (Lesser)",
             "name": "Tanglefoot Bag (Lesser) (Sacoche immobilisante (inférieur))",
             "description": "<p>Une sacoche immobilisante regorge de substances collantes. Lorsque vous touchez une créature avec un tel objet, elle subit un malus de statut à la Vitesse pendant 1 min. Plusieurs types de sacoches donnent un bonus d’objet aux jets d’attaque.</p>\n<p>Sur un coup critique, une créature en contact avec une surface solide reste collée à elle, immobilisée pendant 1 round. Une créature qui vole grâce à des ailes voient ces dernières enchevêtrées et tombe à terre, sans se blesser, incapable de Voler pendant 1 round. La sacoche immobilisante est inefficace sur les créatures dans l’eau.</p>\n<p>La cible peut mettre un terme à l’effet en S’échappant ou en passant un total de 3 actions d’Interaction à éliminer soigneusement la substance collante. Ces Interactions ne sont pas obligatoirement consécutives et peuvent émaner d’autres créatures.</p>\n<p>La cible subit un malus de −3 m. Le DD pour S’échapper est de 17.</p>"
@@ -1752,6 +1797,11 @@
             "description": "Vos traits deviennent séduisants et votre voix musicale et autoritaire, en revanche, les faits et les chiffres deviennent flous et l’émotion obs‑ curcit votre raisonnement. Le bonus est de +2 et la durée de 10 min."
         },
         {
+            "id": "Shield Spikes",
+            "name": "Shield Spikes (Pointes de bouclier)",
+            "description": "<p>Ces pointes en métal sont placées de manière stratégique sur le côté défensif du bouclier, afin d’infliger des dégâts perforants avec un coup de bouclier. </p>"
+        },
+        {
             "id": "Gold dragon statuette",
             "name": "Gold dragon statuette (Statuette de dragon en or)",
             "description": ""
@@ -1862,6 +1912,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 17, 136 PV et un SR de 68.&nbsp;</span></p>"
         },
         {
+            "id": "Luck Blade",
+            "name": "Luck Blade (Lame chanceuse)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La chance est souvent du côté de celui qui manie cette épée courte de frappe supérieure +3. Les lames chanceuses sont forgées dans divers styles, mais leur garde ou leur lame sont souvent ornées de symboles de chance, comme des trèfles à quatre feuilles, des fers à cheval, des poissons, des coccinelles ou autres.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> imaginer; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous ra‑ tez une Frappe avec la lame chanceuse; <strong>Effet</strong> Refaites le jet d’attaque déclencheur et appliquez le nouveau résultat. Il s’agit d’un effet de fortune.&nbsp;</span></p>"
+        },
+        {
             "id": "Cookware",
             "name": "Cookware (Batterie de cuisine)",
             "description": ""
@@ -1955,6 +2010,11 @@
             "id": "Aeon Stone (Pink Rhomboid)",
             "name": "Aeon Stone (Pink Rhomboid) (Pierre d'éternité (Rhombe rose vif))",
             "description": "<p>Quand vous investissez cette pierre, vous gagnez 15 points de vie temporaires. Si les effets de la pierre sont réprimés, vous perdez tous les éventuels points de vie temporaires restants jusqu’à ce que la pierre retrouve ses effets. Les points de vie temporaires se renouvellent lors de vos préparatifs quotidiens ; ils ne se renouvellent pas si, avant cela, vous réinvestissez la pierre ou si vous investissez une autre pierre d’éternité rhombe rose vif.</p>\n<p>Le pouvoir de résonance vous permet de lancer le tour de magie @Compendium[pf2e.spells-srd.SnjhtQYexDtNDdEg]{stabilisation} comme un sort inné divin</p>"
+        },
+        {
+            "id": "Dwarven Thrower",
+            "name": "Dwarven Thrower (Marteau de lancer nain)",
+            "description": "<p>Ce marteau de guerre de frappe +2 est incrusté de métaux précieux et orné de motifs géométriques d’inspiration naine. Si vous êtes nain, un marteau de lancer nain fonctionne pour vous comme un marteau de guerre boomerang de frappe supérieure +2 avec le trait de jet 9 m, et vos attaques avec le marteau infligent 1d8 dégâts supplémentaires aux géants.</p>"
         },
         {
             "id": "Elixir of Life (True)",
@@ -2080,6 +2140,11 @@
             "id": "Shrinking Potion",
             "name": "Shrinking Potion (Potion de rétrécissement (standard))",
             "description": "<p>Cette potion au goût de champignon agit comme rétrécir pour rapetis‑ ser votre personne et votre équipement. Une fois le délai écoulé, vous restez petit pendant 10 min.</p>\n<p><strong>Délai</strong> 1 minute</p>"
+        },
+        {
+            "id": "Mentalist's Staff",
+            "name": "Mentalist's Staff (Bâton du mentaliste)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bâton de bois ciré est orné d’un motif bosselé ressemblant aux plis d’un cerveau. Lorsque vous le maniez, vous bénéficiez d’un bo‑ nus de circonstances de +2 aux tests pour identifier la magie mentale.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Cast a Spell; <strong>Effect</strong> You expend a number of charges from the staff to cast a spell from its list.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>Conditions de fabrication Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués</span></p>\n<ul>\n<li><strong>Tour de magiep</strong> @Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{Daze}</li>\n<li><strong>Niveau 1</strong>   douleur fantôme, lien mental @Compendium[pf2e.spells-srd.D442XMADp01qJ7Cs]{Mindlink} @Compendium[pf2e.spells-srd.R8bqnYiThB6MYTxD]{Phantom Pain}</li>\n</ul>"
         },
         {
             "id": "Moonstone",
@@ -2285,6 +2350,11 @@
             "id": "Silk ceremonial armor",
             "name": "Silk ceremonial armor (Armure de soie cérémonielle)",
             "description": ""
+        },
+        {
+            "id": "Gallows Tooth",
+            "name": "Gallows Tooth (Dent du gibet)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette macabre molaire est suspendue à un fil passé dans un petit trou à l’extrémité de sa racine desséchée à nue. Lorsque vous l’activez, la créature que vous attaquez est prise au dépourvu jusqu’à la fin du tour en cours.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> Interagir; <strong>Déclencheur</strong> Vous attaquez une créa‑ ture adjacente, mais n’avez pas encore lancé le dé pour l’attaque; <strong>Condition</strong> Vous êtes maître en Intimidation</span></p>"
         },
         {
             "id": "Kukri",
