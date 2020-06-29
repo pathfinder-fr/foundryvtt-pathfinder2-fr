@@ -277,6 +277,11 @@
             "description": "<p>Que vous tentiez de conserver l’équilibre ou que vous entrepreniez une ascension difficile, vos pieds velus et calleux vous permettent de trouver plus facilement des prises. Si vous obtenez un succès à un test d’Acrobaties pour Garder l’équilibre ou à un test d’Athlétisme pour Escalader, vous obtenez un succès critique à la place. Vous n’êtes pas pris au dépourvu quand vous tentez de Garder l’équilibre ou d’Escalader.</p>"
         },
         {
+            "id": "Accursed Clay Fist",
+            "name": "Accursed Clay Fist",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> @Compendium[pf2e.archetypes.XATPzPTZ9Je89erT]{Greffeur de Golem}</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> dévouement de Greffeur de Golem, expert en attaques à mains nues<br></span></p>\n<hr>\n<p>Vous avez remplacé un de vos avant bras avec un autre fait de glaise et avez imprégné de magie arcanique maudite. Lorsque vous portez une Frappe à mains nues avec votre poing de glaise et touchez, votre cible subit une pénalité de statut de –2 aux jets de sauvegarde contre les effets de malédiction pendant 1 heure.</p>\n<p><strong>Spécial</strong> Le dé de dégâts de votre poing de glaise est de 1d8 et il perd les traits agile et finesse d'un poing typique.</p>"
+        },
+        {
             "id": "Diehard",
             "name": "Diehard",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Il en faut plus pour vous tuer que la plupart des gens. Vous mourez de l’état mourant à mourant 5 plutôt qu’à mourant 4.&nbsp;</span></p>"
@@ -295,6 +300,11 @@
             "id": "Acute Vision",
             "name": "Acute Vision",
             "description": "<p>Quand vous êtes enragé, votre vision s’améliore et vous gagnez vision dans le noir.</p>"
+        },
+        {
+            "id": "Blade of Justice",
+            "name": "Blade of Justice",
+            "description": "<p><strong>Prérequis</strong> cause du paladin</p>\n<hr>\n<p>Vous invoquez la puissance divine et faites une Frappe avec une arme ou à mains nues contre un adversaire que vous avez vu blesser un allié ou un innocent. La Frappe inflige deux dés de dégâts d’arme supplémentaires si la cible est d’alignement mauvais. Que la cible soit d’alignement mauvais ou non, la Frappe produit tous les effets qui s’appliquent normalement en cas de Frappe punitive (tel que ceux d’un châtiment divin) et vous pouvez convertir la totalité des dégâts physiques de l’attaque en dégâts bons.</p>"
         },
         {
             "id": "Dread Striker",
@@ -357,6 +367,11 @@
             "description": "<p>Vous vous préparez au combat en gravant minutieusement une image sacrée sur un objet physique. Vous pouvez passer dix minutes à blasonner une arme ou un bouclier d’un symbole de votre divinité. Le symbole ne disparaît qu’au bout d’un an, mais si vous utilisez Arsenal blasonné sur un objet, tout symbole que vous avez précédemment gravé et tout symbole déjà gravé sur cet objet disparaît instantanément. L’objet devient un symbole religieux de votre divinité ; il peut être utilisé comme focaliseur divin tant qu’il reste blasonné, et bénéficie d’un autre avantage déterminé par le type d’objet. Seuls les fidèles de la divinité correspondant au symbole représenté peuvent en bénéficier.</p>\n<p>• <strong>Bouclier</strong> Le bouclier bénéficie d’un bonus de statut de +1 à sa Solidité (il réduit ainsi plus de dégâts lorsqu’on effectue la réaction Blocage au bouclier).</p>\n<p>• <strong>Arme</strong>  L’utilisateur de l’arme bénéficie d’un bonus de statut de +1 aux jets de dégâts.</p>"
         },
         {
+            "id": "Armiger's Mobility",
+            "name": "Armiger's Mobility",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> expert en armure lourde, Dévouement de'Écuyer Chevalier infernal<br></span></p>\n<hr>\n<p>Vous avez appris à vous déplacer au mieux en armure lourde. Lorsque vous portez une armure lourde, si vous remplissez la condition de Force, au lieu de réduire la pénalité de déplacement de 1,5 m, vous la réduisez de 3 m (typiquement en réduisant la pénalité à 0). Si vous êtes un nain avec le don @Compendium[pf2e.feats-srd.C1R4wd6G46CAVIn7]{Fer allégé}, augmentez votre Vitesse de déplacement de 1,5 m.&nbsp;</p>"
+        },
+        {
             "id": "Arcane Sense",
             "name": "Arcane Sense",
             "description": "<p><strong>Prérequis</strong> Qualifié en Arcanes</p>\n<hr>\n<p>Votre apprentissage de la magie vous permet de sentir instinctivement sa présence. Vous pouvez incanter détection de la magie niveau 1 à volonté comme si c’était un sort inné arcanique. Si vous êtes un maître en Arcanes, le sort est intensifié au niveau 3. Si vous êtes légendaire, il est intensifié au niveau 4.</p>"
@@ -365,6 +380,11 @@
             "id": "Ornate Tattoo",
             "name": "Ornate Tattoo",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Tatouages arcanique<br></span></p>\n<hr>\n<p>Vous étendez vos tatouages pour inclure une magie supérieure. Choisissez un sort de la tradition <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=1\">arcanique</a> de 1er niveau de la même école que vos Tatouages arcaniques, soit un sort commun, soit un sort auquel vous avez accès. Vous pouvez lancer ce sort une fois par jour comme un sort inné.&nbsp;</p>"
+        },
+        {
+            "id": "Aura of Life",
+            "name": "Aura of Life",
+            "description": "<p><strong>Conditions</strong> Serment de lumière</p>\n<hr>\n<p>Votre aura protège contre les effets nécromantiques. Vous et tous les alliés dans un rayon de 4,50 m gagnez une résistance 5 contre l’énergie négative et un bonus de statut de +1 aux jets de sauvegarde contre les effets de nécromancie.</p>"
         },
         {
             "id": "Everstand Stance",
@@ -440,6 +460,11 @@
             "id": "Advantageous Assault",
             "name": "Advantageous Assault",
             "description": "<p>Quand le déplacement d’un ennemi est compromis, vous lui assénez un coup encore plus violent. Faites une Frappe contre une créature empoignée, à terre ou entravée. Vous bénéficiez d’un bonus de circonstances aux dégâts sur cette Frappe égal au nombre de dés de dégâts d’arme, ou à ce nombre + 2 si vous maniez l’arme à deux mains. Cette Frappe obtient l’effet d’échec suivant.</p>\n<p><strong>Échec</strong> Vous infligez à la créature un montant de dégâts égal au nombre de dés de dégâts d’arme, ou à ce nombre + 2 si vous maniez l’arme à deux mains. Le type de ces dégâts est identique à celui de l’arme.</p>"
+        },
+        {
+            "id": "Cascade Bearer's Flexibility",
+            "name": "Cascade Bearer's Flexibility",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fréquence</strong> une fois par jour<br><strong>Prérequis</strong> Dévouement de Gardien de Magaambya, Affiliation des Détenteurs des flots<br><strong>Conditions</strong> Vous n'avez pas encore agi à votre tour.<br></span></p>\n<hr>\n<p>Vous invoquez votre entraînement de Détenteur des Flots pour vous aider à ajuster un sort à la situation actuelle. Jusqu'à la fin de votre tour, vous obtenez un unique don de métamagie de la classe de druide ou de magicien qui a une condition de niveau ne dépassant pas la moitié de votre niveau.&nbsp;</p>"
         },
         {
             "id": "Inspire Defense",
@@ -575,6 +600,11 @@
             "id": "Channel Smite",
             "name": "Channel Smite",
             "description": "<p><strong>Prérequis</strong> source de mise à mal ou de guérison</p>\n<p><strong>Coût</strong> Dépensez un sort de mise à mal ou guérison.</p>\n<hr>\n<p>Vous siphonnez la puissance destructrice de l’énergie positive ou négative que vous injectez ensuite dans votre adversaire par le biais d’une attaque au corps à corps. Effectuez une Frappe au corps à corps et ajoutez les dégâts du sort à ceux de la Frappe. Ce sont des dégâts négatifs si vous dépensez une mise à mal ou des dégâts positifs si vous dépensez une guérison. Le sort est dépensé sans produire d’effet si votre Frappe échoue ou touche une créature qui ne peut pas être blessée par le type d’énergie en question (si vous réussissez à frapper une créature autre qu’un mort‑vivant avec le sort guérison, par exemple).</p>"
+        },
+        {
+            "id": "Battle Prayer",
+            "name": "Battle Prayer",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequisites</strong> maître en Religion, vous suivez une divinité<br></span></p>\n<hr>\n<p>En faisant appel à votre divinité, vous récitez des écritures pour blesser un adversaire. Lorsque vous obtenez ce don, choisissez bien, chaos, loi ou mal. Votre choix doit correspondre à une des composantes d’alignement de votre divinité. Cette action possède le trait correspondant à l’alignement choisi.<br><br>Faites un test de Religion contre le DD de Volonté d’un adversaire à 9 m. L’adversaire est alors temporairement immunisé aux prières de bataille de votre divinité pendant 1 journée.<br><br><strong> Succès critique</strong> Vous infligez 2d6 dégâts du type de l’alignement choisi ou 6d6 dégâts si vous êtes légendaire en Religion.<br><strong>Succès</strong> Vous infligez 1d6 dégâts du type de l’alignement choisi or 3d6 dégâts si vous êtes légendaire en Religion.<br><strong>Échec</strong> Il n’y a pas d’effet.<br><strong>Éhec critique </strong> Le contrecoup de la volonté de votre ennemi contre votre prière vous empêche d’utiliser Prière de bataille de nouveau pendant 10 minutes.</p>"
         },
         {
             "id": "Read Lips",
@@ -747,6 +777,11 @@
             "description": "<p><strong>Prérequis</strong> Dévouement du barbare</p>\n<hr>\n<p>Vous gagnez le pouvoir d’instinct pour l’instinct que vous avez choisi dans le cadre du Dévouement du barbare.</p>"
         },
         {
+            "id": "Allegro",
+            "name": "Allegro",
+            "description": "Vous pouvez augmenter la rapidité de vos alliés grâce à une représentation au rythme effréné. Vous apprenez le tour de magie de composition @Compendium[pf2e.spells-srd.IQchIYUwbsVTa9Mc]{allégro}."
+        },
+        {
             "id": "Hellknight Signifer Dedication",
             "name": "Hellknight Signifer Dedication",
             "description": "<div><strong>Archétype </strong>@Compendium[pf2e.archetypes.GwItivMACzBmW82g]{Signifer}</div>\n<div><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> capacité de lancer des sorts, Dévouement d'Écuyer chevalier infernal, alignement loyal, membre d'un ordre de Chevalier infernal, avoir réussi le test de Chevalier infernal<br></span></div>\n<hr>\n<p>Vous avez renforcé votre force de volonté avec le pouvoir de la Mesure et de la Chaîne. Au cours de votre initiation, vous recevez un masque de signifer, souvent démuni de trou pour les yeux et de toute fioriture décorative. Le masque ne vous empêche pas de voir, bien qu'il rende impossible pour les autres de voir vos yeux. Lorsque vous portez votre masque de signifer, vous obtenez un bonus de circonstance de +1 aux test de Duperie pour Mentir, d'Intimidation et au DD de Duperie pour Discerner vos intentions. Vous devenez expert en Intimidation (ou, si vous l'étiez déjà, dans une autre compétence dans laquelle vous étiez déjà qualifié) ainsi qu'à votre choix dans celle d'Arcanes, de Nature, d'Occultisme ou de Religion.</p>\n<div><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype Signifer ou de celui d'@Compendium[pf2e.archetypes.LYYDozZfXok19VYW]{Écuyer Chevalier infernal}.&nbsp;</div>"
@@ -837,6 +872,11 @@
             "description": "<p><strong>Prérequis</strong> Superstition orque</p>\n<hr>\n<p>Vous êtes tellement baigné de superstitions orques que votre pratique des exercices mentaux de vos ancêtres vous aide à ignorer les effets de la magie. Vous bénéficiez d’un bonus de circonstances de +1 à vos jets de sauvegarde contre les sorts et les effets magiques en toutes circonstances.</p>"
         },
         {
+            "id": "Apex Companion",
+            "name": "Apex Companion",
+            "description": "<p><strong>Prérequis</strong> Compagnon animal</p>\n<hr />\n<p>Vous pouvez faire appel à l'essence même de chaque animal individuel d'une espèce particulière pour transformer temporairement votre animal en une archétype de son espèce. Vous apprenez le sort d'ordre Apogée du compagnon. Augmentez de 1 le nombre de points de focalisation de votre réservede focalisation.</p>"
+        },
+        {
             "id": "Vivacious Conduit",
             "name": "Vivacious Conduit",
             "description": "<p>Votre connexion avec le Premier Monde s’est renforcée et les énergies positives qui en proviennent affluent en vous rapidement. Si vous vous reposez pendant 10 min, vous gagnez une quantité de points de vie égale à votre modificateur de Constitution × la moitié de votre niveau. Cet effet se cumule avec toute forme de soins reçus grâce à la compétence Soigner les blessures.<p>"
@@ -879,7 +919,7 @@
         {
             "id": "Ankle Bite",
             "name": "Ankle Bite",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis </strong> Aiguiseur de crocs ou ascendance gobelin dentd'rasoir<br><strong>Décelncheur</strong> Un adversaire vous inflige la condition <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Conditions.aspx?ID=20\">empoigné</a> ou <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Conditions.aspx?ID=33\">entravé</a> en utilisant une partie de son corps.<br></span></p>\n<hr>\n<p>Lorsque quelqu'un vous empoigne, vous le mordez instinctivement très fort. Quelques fois, cela vous permet de partir, d'autres fois, cela les met juste plus fort en colère, mais dans les deux cas, cela vous satisfait et c'est goûtu. Faites une Frappe de morsurecontre l'adversaire qui déclenche cette réaction. Sur un cou critique, vous n'êtes plus empoigné. Cette Frappe n'est pas prise en compte pour les pénalités d'attaques multiples et votre pénalité d'attaque multiple ne s'applique pas à cette Frappe.&nbsp;</p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis </strong> Aiguiseur de crocs ou ascendance gobelin dentd'rasoir<br><strong>Décelncheur</strong> Un adversaire vous inflige la condition @Compendium[pf2e.conditionspf2e.kWc1fhmv9LBiTuei]{empoigné} ou @Compendium[pf2e.conditionspf2e.VcDeM8A5oI6VqhbM]{entravé} en utilisant une partie de son corps.<br></span></p>\n<hr>\n<p>Lorsque quelqu'un vous empoigne, vous le mordez instinctivement très fort. Quelques fois, cela vous permet de partir, d'autres fois, cela les met juste plus fort en colère, mais dans les deux cas, cela vous satisfait et c'est goûtu. Faites une Frappe de morsurecontre l'adversaire qui déclenche cette réaction. Sur un cou critique, vous n'êtes plus empoigné. Cette Frappe n'est pas prise en compte pour les pénalités d'attaques multiples et votre pénalité d'attaque multiple ne s'applique pas à cette Frappe.&nbsp;</p>"
         },
         {
             "id": "Raging Intimidation",
@@ -1152,6 +1192,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Duelliste Aldori<br><strong>Déclencheur</strong> Vous obtenez un succès critique sur une Frappe ou un Désarmement avec votre épée de duel Aldori.<br></span></p>\n<hr>\n<p>Votre incroyable compétence avec votre lame perturbe vos adversaires. Vous tentez de <a href=\"https://2e.aonprd.com/Actions.aspx?ID=53\">Démoraliser</a> la cible de votre Frappe ou du <a href=\"https://2e.aonprd.com/Actions.aspx?ID=41\">Désarmement</a>. Cette tentative de Démoralisation n'a pas le trait <a href=\"https://2e.aonprd.com/Traits.aspx?ID=16\">audible</a> et vous ne subissez pas de pénalité au test si la cible ne comprend pas votre langue.&nbsp;</p>"
         },
         {
+            "id": "Attunement to Stone",
+            "name": "Attunement to Stone",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> rituel de la Pierre Ka<br></span></p>\n<hr>\n<p>Vous êtes en harmonie avec la pierre qui vous entoure. Lorsque vous êtes en contact avec une surface en pierre, vous obtenez perception des vibrations (imprécis) 1,5 m le long de sa surface et vous pouvez activer votre <em>pierree ka</em> pour lancer @Compendium[pf2e.spells-srd.vh1RpbWfqdNC4L3P]{fusion dans la pierre}.&nbsp;</p>"
+        },
+        {
             "id": "Empty Body",
             "name": "Empty Body",
             "description": "<p><strong>Prérequis</strong> sorts ki</p>\n<hr>\n<p>Vous transformez votre corps qui devient éthéré. Vous obtenez le sort ki désertion de l’âme (page 396). Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>"
@@ -1237,6 +1282,11 @@
             "description": "<p>Vous bondissez sur un ennemi. Faites un Bond ou tentez un Saut en hauteur ou en longueur. À la fin du saut, si vous êtes adjacent à un adversaire, vous pouvez immédiatement le Frapper à mains nues, même s’il est dans les airs. Vous tombez par terre après la Frappe. Si vous chutez d’une distance inférieure ou égale à la hauteur de votre saut, vous ne subissez aucun dégât et retombez sur vos pieds.</p>"
         },
         {
+            "id": "Bloodline Wellspring",
+            "name": "Bloodline Wellspring",
+            "description": "<p><strong>Prérequis</strong> Focalisation du lignage</p>\n<hr>\n<p>Le pouvoir qui imprègne votre sang régénère votre focalisation. Si vous avez dépensé au moins 3 points de focalisation depuis votre dernière Refocalisation, vous récupérez 3 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.</p>"
+        },
+        {
             "id": "Nameless Anonymity",
             "name": "Nameless Anonymity",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Guerrier magique<br></span></p>\n<hr>\n<p>Votre masque vous protège davantage contre la divination. Une fois par jour, vous pouvez lancer <a href=\"https://2e.aonprd.com/Spells.aspx?ID=209\"><em>anti-détection</em></a> sur vous-même, intensifié au plus haut niveau de sort que vous pouvez lancer ; le sort se termine immédiatement si votre masque est retiré, même pour un moment.&nbsp;</p>"
@@ -1245,6 +1295,11 @@
             "id": "Basic Wizard Spellcasting",
             "name": "Basic Wizard Spellcasting",
             "description": "<p><strong>Prérequis</strong> Dévouement du magicien</p>\n<hr />\n<p>Vous gagnez les avantages d’incantation basique (page 219). Chaque fois que vous obtenez, avec l’archétype magicien, un emplacement de sort d’un nouveau niveau, ajoutez à votre grimoire deux sorts ordinaires de ce niveau.</p>"
+        },
+        {
+            "id": "Boaster's Challenge",
+            "name": "Boaster's Challenge",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prerequisites</strong> expert en Duperie, Diplomatie ou Intimidation; Dévouement de Trublion vantard<br></span></p>\n<hr>\n<p>Vous interpellez un adversaire, provoquant son agitation et le rendant plus facile à battre. Choisissez une créature que vous pouvez voir et à qui vous pouvez lancer un défi. Pour votre défi, tentez un test de Duperie, de Diplomatie ou d'Intimidation contre le DD de Volonté de cette créature. Votre défi doit inclure une composante linguistique, audible ou visuelle et obtien le trait correspondant. Si vous obtenez une réussite, vous gagnez un bonus de statut de +2 aux dégâts de Frappe avec votre arme ou votre attaque à mains nues contre cet adversaire jusqu'à la fin de votre prochain tour ; si vous êtes maître dans la compétence que vous avez utilisé, vous obtenez un bonus de statut de +4 à la place et si vous êtes légendaire, vous obtenez un bonus de statut de +6. Su un succès critique, le bonus de statut dure 3 rounds à la place. Que vous réussissiez ou échouez, les créatures qui ont été témoin de votre défi obtiennent un bonus de circonstance de +4 à leur DD de Volonté contre vos tentatives de les défier pendant 1 minute.&nbsp;</p>"
         },
         {
             "id": "Cremate Undead",
@@ -1290,6 +1345,11 @@
             "id": "Domain Wellspring",
             "name": "Domain Wellspring",
             "description": "<p><strong>Prérequis</strong> Focalisation du domaine</p>\n<hr>\n<p>L’intensité de votre focalisation provient de votre investissement dans l’étude de vos domaines. Si vous avez dépensé au moins 3 points de focalisation depuis votre dernière Refocalisation, vous récupérez 3 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.</p>"
+        },
+        {
+            "id": "Blade of the Crimson Oath",
+            "name": "Blade of the Crimson Oath",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement du Chevalier Récupérateur<br></span></p>\n<hr>\n<p>Vous invoquez le Serment écarlate pour chatier les morts-vivants  et portez une Frappe avec une arme ou à mains nues contre un mort-vivant. La Frappe inflige deux dés de dégâts d’arme supplémentaires et vous pouvez convertir la totalité des dégâts physiques de l’attaque en dégâts d'énergie positive.</p>"
         },
         {
             "id": "Mountain Stance",
@@ -1350,6 +1410,11 @@
             "id": "Halfling Luck",
             "name": "Halfling Luck",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur.</strong> Vous échouez à un test de compétence ou à un jet desauvegarde.</p>\n<hr>\n<p>Votre nature insouciante donne l’impression que la malchance vous évite et, dans une certaine mesure, c’est peut-être bien le cas. Vous pouvez relancer le test qui déclenche ce pouvoir, mais vous devez alors utiliser le nouveau résultat, même s’il est moins bon que le premier.</p>"
+        },
+        {
+            "id": "Blade of Law",
+            "name": "Blade of Law",
+            "description": "<p>Vous invoquez la puissance de la loi et faites une Frappe avec une arme ou à mains nues contre un adversaire que vous avez vu violer ou ne pas respecter la Loi ou agir de manière désordonnée. La Frappe inflige deux dés de dégâts d’arme supplémentaires si la cible est d’alignement chaotique. Que la cible soit d’alignement chaotique ou non, vous pouvez convertir la totalité des dégâts physiques de l’attaque en dégâts de loi.</p>"
         },
         {
             "id": "Careful Explorer",
@@ -1722,6 +1787,11 @@
             "description": "<p>Quand vous avez désespérément besoin de mettre un terme à un combat, vous concentrez toute votre rage dans un dernier coup. Effectuez une Frappe. Si elle réussit, vous obtenez un bonus de circonstances aux dégâts égal au nombre de rounds de Rage que vous avez encore (avec un maximum de 10). Après cette Frappe, votre Rage prend immédiatement fin et vous êtes dans l’état fatigué jusqu’à ce que vous vous reposiez au moins 10 min.</p>"
         },
         {
+            "id": "Aura of Unbreakable Virtue",
+            "name": "Aura of Unbreakable Virtue",
+            "description": "<p><strong>Prérequis</strong> principes du bien</p>\n<hr>\n<p>Vous êtes le parangon de tout ce qui est bon, votre aura surpuissante provoquant la fuite de ceux qui commettent le mal. Toutes les créatures mauvaises dans les 4,5 m de vous subissent une pénalité de statut de –1 aux tests et aux DD qui vous ciblent vous ou vos alliés. Cette pénalité est de –2 contre les créatures contre lesquelles vous avez  prêté serment (comme les dragon si vous avez prêté le serment du fléau des Dragons). Vous pouvez choisir de supprimer ou de réactiver cette aura par une action qui possède le trait concentration.</p>"
+        },
+        {
             "id": "Triple Shot",
             "name": "Triple Shot",
             "description": "<p><strong>Prérequis</strong> Double tir</p>\n<hr>\n<p>Vous avez amélioré la maîtrise de votre arme, ce qui vous permet d’effectuer plusieurs tirs très rapidement. Quand vous utilisez Double tir, vous pouvez effectuer les attaques contre la même cible. Vous pouvez ajouter une action au Double tir afin de faire trois Frappes à distance au lieu de deux. Le cas échéant, le malus s’élève à −4. Toutes les attaques comptent dans le calcul de votre malus d’attaques multiples mais le malus n’augmente qu’après les avoir toutes effectuées.</p>"
@@ -1775,6 +1845,11 @@
             "id": "Crystal Keeper Dedication",
             "name": "Crystal Keeper Dedication",
             "description": "<p><strong>Archétype</strong> @Compendium[pf2e.archetypes.xNzNpPjeNSrXE7WG]{Gardien du cristal}</p>\n<p><strong>Prérequis</strong> qualifié en Connaissance des elfes ou en Société</p>\n<hr>\n<p>Vous pouvez utiliser Arcanes, Occultisme, Religion ou Société pour Déchiffrer un écrit en méditant devant un cristal, quel que soit le type d'écrit. Lorsque vous Déchiffrez un écrit et obtenez un échec critique, vous considérez qu'il s'agit d'un échec à la place, et lorsque vous Déchiffrez un écrit et obtenez une réussite, vous considérez qu'il s'agit d'un succès critique à la place.</p>\n<p>De plus, vous gagnez une résistance de 10 aux dégâts des pièges associés à des cristaux.</p>\n<p><strong>Spécial</strong> Vous ne pouvez sélectionner un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype de Gardien du cristal.</p>"
+        },
+        {
+            "id": "Stone Communion",
+            "name": "Stone Communion",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis </strong> Rituel de la pierre Ka<br></span></p>\n<hr>\n<p>Vous obtenez une communion unique avec la terre et les pierres. Vous apprenez la langue Terreux et vous pouvez activer votre <em>pierre ka </em> avec une activation de 10 minutes (imaginer) pour lancer @Compendium[pf2e.spells-srd.YIMampGpij4Y30yE]{Pierre commère}.&nbsp;</p>"
         },
         {
             "id": "Spell Penetration",
@@ -1900,6 +1975,11 @@
             "id": "Snare Crafting",
             "name": "Snare Crafting",
             "description": "<p><strong>Prérequis</strong> qualifié en Artisanat</p>\n<hr>\n<p>Vous pouvez utiliser l’activité Artisanat pour créer des pièges, en utilisant les règles de la page 242. Quand vous sélectionnez ce don, vous ajoutez immédiatement les formules de quatre pièges ordinaires à votre formulaire.</p>"
+        },
+        {
+            "id": "Bravo's Determination",
+            "name": "Bravo's Determination",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> expert en Duperie, dévouement de trublion vantard<br><strong>déclencheur</strong> La Frappe d'un adversaire vous réduit à 0 Points de vie ; vous n'étiez pas à 1 point de vie et vous ne voudriez pas être tué.<br></span></p>\n<hr>\n<p>Votre confiance frôle l'a self-delusion'auto persuasion, mais elle vous garde contre les destins les plus tragiques. Faites un test de Duperie contre le DD de l'attaque de la Frappe déclencheuse. Vous subissez une pénalité à ce test égale à deux fois votre valeur blessé si vous en avec une. Si l'attaque déclencheuse était un coup critique, utilisez le résultat un degré de succès pire que celle que vous avez obtenue.<br><br><strong>Succès critique</strong> Vous évitez d'être assomé et restez à 1 Point de vie.<br><strong>Succès</strong> Vous évitez d'être assomé et restez à 1 Point de vie, mais vous augmentez vontre valeur de @Compendium[pf2e.conditionspf2e.Yl48xTdMh3aeQYL2]{Blessé} de 1.&nbsp;</p>"
         },
         {
             "id": "Opportune Throw",
@@ -2292,6 +2372,11 @@
             "description": "<p>Vous avez touché à de nombreux domaines et avez ainsi acquis des pouvoirs mineurs dans une tradition magique. Choisissez une des traditions magiques suivantes, dans laquelle vous gagnez deux tours de magie sélectionnés dans la liste des tours de magie communs : arcanique, divine,occulte ou primordiale. Vous utilisez le Charisme comme caractéristique essentielle d’incantation. Vous êtes formé aux DD et aux jets d’attaque de sorts issus de la tradition des tours de magie que vous avez choisis.</p>"
         },
         {
+            "id": "Camouflage",
+            "name": "Camouflage",
+            "description": "<p><strong>Prérequis</strong> maître en Discrétion</p>\n<hr>\n<p>Vous modifiez votre apparence pour vous fondre dans la nature. Dans un environnement naturel, vous pouvez Être furtif, même si l’on vous observe.</p>"
+        },
+        {
             "id": "Burrow Elocutionist",
             "name": "Burrow Elocutionist",
             "description": "<p>Vous savez identifier le babil des créatures souterraines comme un langage. Vous pouvez ainsi poser des questions, obtenir des réponses et utiliser la compétence Diplomatie quand vous vous adressez à des animaux qui ont une Vitesse de creusement comme les blaireaux, les écureuils terrestres, les taupes et les chiens de prairie. Le MJ détermine avec quels animaux vous pouvez utiliser ce pouvoir.</p>"
@@ -2330,6 +2415,11 @@
             "id": "Hefty Hauler",
             "name": "Hefty Hauler",
             "description": "<p><strong>Prérequis</strong> qualifié en Athlétisme</p>\n<hr>\n<p>Vous pouvez transporter plus que ne le suggère votre carrure. Augmentez de 2 vos limites d’Encombrement et Surchargé.</p>"
+        },
+        {
+            "id": "Studious Capacity",
+            "name": "Studious Capacity",
+            "description": "<p><strong>Prerequisites</strong> muse touche-à-tout, légendaire en Occultisme</p>\n<hr>\n<p>Vos études soutenues de la magie occulte ont augmenté vos capacités magiques qui vous permettent à présent de lancer des sorts, même quand cela semble impossible. Vous pouvez lancer un sort chaque jour, même lorsque vous n’avez plus aucun emplacement de sort du niveau approprié, mais vous ne pouvez pas utiliser ce don pour lancer un sort du niveau le plus élevé que vous savez lancer.</p>"
         },
         {
             "id": "Legendary Linguist",
@@ -2602,6 +2692,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequisites</strong> Dévouement de Guerrier magique<br></span></p>\n<hr>\n<p>Vous pouvez pleinement vous transformer en l'animal que votre masque représente. Vous obtenez le sort de focalisation de <a href=\"https://2e.aonprd.com/Spells.aspx?ID=548\"><em>transformation de guerrier magique</em></a>.&nbsp;</p>"
         },
         {
+            "id": "Alchemical Scholar",
+            "name": "Alchemical Scholar",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous apprenez des formules plus facilement. Vous obtenez quatre formules alchimiques ordinaires de niveau  1 lorsque vous prenez ce don et chaque fois que  vous obtenez un niveau, vous obtenez une formule commune d'alchimie de ce niveau. Vous avez toujours besoin d'@Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique} pour fabriquer des objets alchimiques.<br><br><strong>Spécial</strong> Vous pouvez prendre ce don seulement au niveau 1 et ne pouvez pas utiliser réapprentissage pour obtenir ou perdre ce don.&nbsp;</span></p>"
+        },
+        {
             "id": "Reflexive Catch",
             "name": "Reflexive Catch",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=36\">Jongleur</a></u><br><strong>Prérequis</strong> expert en Acrobaties, dévoument de Jongleur<br><strong>Conditions</strong> L'objet ou l'arme de jet est d'un encombrement avec lequel vous pouvez <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1199\">Jongler</a>. Si le déclencheur était une attaque avec une arme de jet qui vous a cible, vous ne pouvez être <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Conditions.aspx?ID=16\">pris au dépourvu</a> contre cette attaque. Si vous étiez déjà en train de Jongler, vous ne pouvez l'attraper que si vous ne jongliez pas déjà avec le nombre maximum d'objets.<br><strong>Déclencheur</strong> Un objet chute à votre portée ou un attaquant manque son jet d'attaque pour vous touhcer ou pour toucher une créature à votre portée avec une arme de jet.<br></span></p>\n<hr>\n<p>Vous attrapez l'objet déclencheur. Si vous étiez en train de Jongler, vous pouvez immédiatement l'ajouter aux objets avec lesquels vous êtes en train de jongler par une action libre, laquelle a les traits <a href=\"https://2e.aonprd.com/Traits.aspx?ID=32\">concentration</a> et <a href=\"https://2e.aonprd.com/Traits.aspx?ID=104\">manipulation</a>.&nbsp;</p>"
@@ -2630,6 +2725,11 @@
             "id": "Cleave",
             "name": "Cleave",
             "description": "<p><strong>Déclencheur.</strong> Vous portez une Frappe au corps à corps qui tue une créature ou lui fait perdre connaissance et un autre adversaire se trouve dans un espace adjacent à cette créature</p>\n<hr>\n<p>Votre coup traverse un adversaire et en frappe un autre. Faites une Frappe au corps à corps contre le second adversaire.</p>"
+        },
+        {
+            "id": "Bonded Focus",
+            "name": "Bonded Focus",
+            "description": "<p>Votre lien avec votre objet lié augmente votre réserve de focalisation. Si vous avez dépensé au moins 2 points de focalisation depuis votre dernière Refocalisation et que votre objet lié est en votre possession, vous récupérez 2 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.</p>"
         },
         {
             "id": "Dwarven Weapon Expertise",
@@ -2867,6 +2967,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> ethnie Mihrini<br></span></p>\n<hr>\n<p>On vous a donné des noeuds à défaire, des serrures à ouvrir et des puzzles de forgeron depuis que vous êtes enffant pour vous occuper les mains à faire quelque chose. Vous êtes qualifié en Vol (ou une compétence de votre choix, si vous étiez déjà qualifié en Vol). Si vous obtenez un succès sur un test de Vol à un test pour @Compendium[pf2e.actionspf2e.2EE4aF4SZpYf0R6H]{Crocheter une serrure}, vous obtenez un succès critique à la place.&nbsp;</p>"
         },
         {
+            "id": "Battle Cry",
+            "name": "Battle Cry",
+            "description": "<p><strong>Prérequis</strong> maître en Intimidation</p>\n<hr />\n<p>Quand vous effectuez un jet d’initiative, vous pouvez pousser un puissant cri de guerre et Démoraliser un ennemi observé par une action gratuite. Si vous êtes légendaire en Intimidation, vous pouvez utiliser une réaction pour @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} votre ennemi quand vous obtenez un succès critique sur un jet d’attaque.</p>"
+        },
+        {
             "id": "Cleric Dedication",
             "name": "Cleric Dedication",
             "description": "<p><strong>Prérequis</strong> Sagesse 14</p>\n<hr>\n<p>Vous lancez des sorts comme un prêtre. Vous accédez à l’activité Lancer un sort. Vous pouvez préparer quotidiennement deux tours de magie ordinaires à partir de la liste des sorts divins de cet ouvrage ou de tout autre tour de magie que vous apprenez ou découvrez. Vous êtes qualifié dans les jets d’attaque de sorts et les DD de sorts pour les sorts divins. Votre caractéristique essentielle d’incantation pour les sorts de l’archétype prêtre est la Sagesse, et ce sont des sorts de prêtre divins. Choisissez une divinité comme si vous étiez un prêtre. Vous devenez lié par l’anathème de cette divinité. Vous devenez qualifié en Religion et dans les compétences associées à votre divinité ; pour chacune de ces compétences dans lesquelles vous étiez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous ne gagnez aucune autre capacité venant du choix de votre divinité.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype prêtre.</p>"
@@ -2900,6 +3005,11 @@
             "id": "Adaptive Adept",
             "name": "Adaptive Adept",
             "description": "<p><strong>Prérequis</strong> Tour de magie adapté, capacité de lancer des sorts de niveau 3</p>\n<hr>\n<p>Vous avez continué d’adapter votre magie pour mélanger votre tradition de classe et votre tradition adaptée. Choisissez un tour de magie ou un sort de niveau 1, tiré de la même tradition que le tour de magie que vous avez gagné par Tour de magie adapté. Vous gagnez ce sort et l’ajoutez à votre répertoire de sorts, votre grimoire ou vos sorts préparés comme le tour de magie du don Tour de magie adapté. Vous pouvez lancer ce sort comme un sort de la tradition magique de votre classe. Si vous avez choisi un sort de niveau 1, vous n’avez pas accès aux versions intensifiées de ce sort, ce qui signifie que vous ne pouvez pas les préparer quand vous préparez vos sorts, que vous ne pouvez pas les apprendre et que vous ne pouvez pas faire de ce sort un sort emblématique si vous utilisez un répertoire de sorts. </p>"
+        },
+        {
+            "id": "Anchoring Aura",
+            "name": "Anchoring Aura",
+            "description": "<p><strong>Conditions</strong> Serment de fléau des fiélons</p>\n<hr>\n<p>Votre aura perturbe la téléportation des fiélons. Votre aura tente de contrer les sorts de téléportation lancés par des fiélons dans un rayon de 4,50 m, en utilisant le niveau de sort et le DD de vos sorts de dévotion.</p>"
         },
         {
             "id": "Duelist's Edge",
@@ -2975,6 +3085,11 @@
             "id": "Hunter's Aim",
             "name": "Hunter's Aim",
             "description": "<p>Quand vous vous concentrez pour viser, votre attaque gagne en précision. Faites une Frappe d’arme à distance contre votre proie. Pour cette Frappe, vous bénéficiez d’un bonus de circonstances de +2 au jet d’attaque et ignorez l’état masqué de votre proie.</p>"
+        },
+        {
+            "id": "Bless Toxin",
+            "name": "Bless Toxin",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> maître en Artisanat, divinité qui accorde la source de <em>mise à mal</em><br></span></p>\n<hr>\n<p>Vous emplissez d'énergie négative les toxines que vous créez pour affaiblir davantage vos cibles. Lorsque vous @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquez} un poison alchimique (plutôt que de le créer avec alchimie avancée, Alchimie rapide ou d'autres moyens), il devient un poison alchimique béni et obtient le trait <a href=\"https://2e.aonprd.com/Traits.aspx?ID=118\">négatif</a>. Lorsqu'une créature est affligée avec un poison alchimique béni, pendant 1 round, tou Point de Vie qu'il regagnerait d'un effet positif sont réduits de  5 ou de 10 si vous êtes légendaire en Artisanat.&nbsp;</p>"
         },
         {
             "id": "Esteemed Visitor",
@@ -3130,6 +3245,11 @@
             "id": "Stand Still",
             "name": "Stand Still",
             "description": "<p><strong>Déclencheur</strong> Une créature à portée utilise une action de déplacement ou quitte une case lors d’une action de déplacement qu’elle entreprend.</p>\n<hr>\n<p>Vous attaquez quand l’adversaire tente de fuir. Vous faites une Frappe au corps à corps contre la créature qui a déclenché ce pouvoir. Si vous obtenez un coup critique et que le déclencheur était une action de déplacement, vous interrompez cette action.</p>"
+        },
+        {
+            "id": "Adaptive Mask Familiar",
+            "name": "Adaptive Mask Familiar",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Familier masque<br></span></p>\n<hr>\n<p>Votre familier masque adapte rapidement une forme matérielle, lui permettant d'obtenir plus de capacités de familier et de maître. Vous choisissez quatre capacités de maître et de familer chaque jour au lieu de deux.&nbsp;</p>"
         },
         {
             "id": "Practiced Guidance",
@@ -3377,6 +3497,11 @@
             "description": "<p><strong>Prérequis</strong> Dévouement du moine, expert dans au moins un jet de sauvegarde</p>\n<hr>\n<p>Choisissez un jet de sauvegarde (Vigueur, Réflexes ou Volonté) dans lequel vous êtes expert. Votre rang de maîtrise dans ce jet de sauvegarde passe à maître.</p>"
         },
         {
+            "id": "Battleforger",
+            "name": "Battleforger",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> maître en Artisanat<br></span></p>\n<hr>\n<p>Vous pouvez affûter les armes, polir les armures et appliquer des techniques spéciales pour obtenir temporairement de meilleurs effets de votre armement. En dépensant 1 heure de travail sur une arme ou une armure, vous pouvez lui accorder les effets d'une rune de  <em>puissance +1</em> jusqu'à vos prochains préparatifs quotidiens, obtenant un bonus d'objet de +1 aux tests d'attaque pour une arme ou en augmentant le bonus d'objet de l'armure à la CA de 1. Cela n'a pas d'effet si l'arme ou l'armure possède déjà une rune de <em>puissance</em>.&nbsp;</p>"
+        },
+        {
             "id": "Arcane Evolution",
             "name": "Arcane Evolution",
             "description": "<p><strong>Prérequis</strong>  lignage qui accorde des sorts arcaniques</p>\n<hr>\n<p>Votre héritage arcanique vous a permis de développer une aptitude exceptionnelle en matière de recherches intellectuelles et académiques. Vous devenez qualifié dans une compétence de votre choix. De plus, vous possédez un livre de sorts arcaniques similaire au grimoire des magiciens. Vous inscrivez gratuitement tous les sorts de votre répertoire dans ce livre et vous pouvez ajouter d’autres sorts arcaniques dans ce livre en réglant le coût approprié et en utilisant votre compétence Arcanes, comme le fait un magicien lorsqu’il Apprend des sorts en les inscrivant dans son grimoire. Lors de vos préparatifs quotidiens, choisissez l’un des sorts de votre livre de sorts arcaniques. S’il n’est pas dans votre répertoire, ajoutez‑le à votre répertoire jusqu’à vos prochains préparatifs. Si ce sort est déjà dans votre répertoire, vous pouvez le considérer comme un sort emblématique supplémentaire pour la journée.</p>"
@@ -3385,6 +3510,11 @@
             "id": "Charming Liar",
             "name": "Charming Liar",
             "description": "<p><strong>Prérequis</strong> qualifié en Duperie</p>\n<hr>\n<p>Votre charme vous permet de convaincre ceux à qui vous mentez. Quand vous obtenez un succès critique en utilisant l’action Mentir, l’attitude de la cible envers vous augmente d’un échelon, comme si vous aviez réussi en utilisant Diplomatie pour Faire bonne impression. Cela fonctionne seulement une fois par conversation, et si vous obtenez un succès critique contre plusieurs cibles en utilisant le même résultat, vous choisissez l’attitude à améliorer d’une créature. Vous devez mentir pour transmettre des informations apparemment importantes, rehausser votre statut ou vous faire bien voir, alors que vous ne pourriez pas y parvenir avec des mensonges triviaux ou non pertinents.</p>"
+        },
+        {
+            "id": "Archwizard's Might",
+            "name": "Archwizard's Might",
+            "description": "<p><strong>Prérequis</strong> art magique de l'archimage</p>\n<hr>\n<p>Vous maîtrisez les plus grands secrets de la magie arcanique. Vous gagnez un emplacement de sort de niveau 10 de plus.</p>"
         },
         {
             "id": "Steady Spellcasting",
@@ -3410,6 +3540,11 @@
             "id": "Juggler Dedication",
             "name": "Juggler Dedication",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=36\">Jongleur</a></u><br><strong>Prérequis</strong> Dextérité 14<br></span></p>\n<hr>\n<p>Vous devenez qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=12\">Représentation</a>; si vous l'étiez déjà, vous devenez qualifié dans une compétence de votre choix. Vous obtenez aussi le don de compétence <a href=\"https://2e.aonprd.com/Feats.aspx?ID=1199\">Jonglage</a>, même si vous n'en remplissez pas les conditions.</p>\n<p><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Jongleur.</p>"
+        },
+        {
+            "id": "Bless Tonic",
+            "name": "Bless Tonic",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> maître en Artisanat, divinité qui accorde source de <em>guérison</em><br></span></p>\n<hr>\n<p>Vous canalisez l'énergie positive dans des fortifiants qui vous protègent contre les maux. Lorsque vous @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquez} un objet alchimique qui restaure des Points de vie (plutôt que de le créer avec @Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{Alchimie avancée}, @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Alchimie rapide} ou d'autres moyens), il devient un objet alchimique béniet obtient le trait positif. Par exemple, un @Compendium[pf2e.equipment-srd.hDLbR56Id2OtU318]{Élixir de vie} va devenir un élixir de vie béni. Lorsqu'une créature regagne des Points de vie en utilisant un objet alchimique béni, l'énergie débordante vous accorde résistance à l'énergie négative 5 pendant 1 round, ou résistance à l'énergie négative 10 si vous êtes légendaire en Artisanat.&nbsp;</p>"
         },
         {
             "id": "Stonewalker",
@@ -3477,6 +3612,11 @@
             "description": "<p><strong>Prérequis</strong> allié divin (lame)</p>\n<hr>\n<p>Votre allié lame devient un outil encore plus puissant contre les scélérats. Désignez un adversaire dans votre champ de vision. Jusqu’à la fin de votre prochain tour, vos Frappes contre cet adversaire, avec l’arme dans laquelle votre allié lame est logé, infligent 4 dégâts bons supplémentaires, 6 si vous êtes un maître avec cette arme. Si l’adversaire attaque l’un de vos alliés, la durée se prolonge jusqu’à la fin du prochain tour de l’adversaire. Si l’adversaire continue d’attaquer vos alliés chaque tour, la durée se prolonge à chaque fois.</p>"
         },
         {
+            "id": "Stealthy Companion",
+            "name": "Stealthy Companion",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.qqe5VmcO1s8iTOfd]{Camouflage}</p>\n<hr>\n<p>Vous avez dressé votre compagnon animal pour qu’il se fonde dans le décor. Votre compagnon animal bénéficie des avantages du don Camouflage. Si votre compagnon est un embusqueur spécialisé, son rang de maîtrise en Discrétion passe à maître (ou légendaire s’il était déjà maître).</p>"
+        },
+        {
             "id": "Exacting Strike",
             "name": "Exacting Strike",
             "description": "<p>Vous faites une attaque contrôlée pour parfaitement maîtriser l’élan de votre coup. Effectuez une Frappe. Cette Frappe obtient l’effet d’échec suivant.</p>\n<p><strong>Échec</strong> Cette attaque n’est pas comptée dans le calcul de votre malus d’attaques multiples.</p>"
@@ -3490,6 +3630,11 @@
             "id": "Align Armament",
             "name": "Align Armament",
             "description": "<p><strong>Prérequis</strong> divinité bonne, chaotique, loyale ou mauvaise</p>\n<p><strong>Fréquence</strong> une fois par round</p>\n<hr>\n<p>Vous harmonisez une arme pour l’accorder aux préceptes de votre divinité. Quand vous choisissez ce don, choisissez également l’alignement bon, chaotique, loyal ou mauvais. Votre choix doit correspondre à l’un des composants de l’alignement de votre divinité. Cette action a le trait correspondant au composant d’alignement choisi.</p>\n<p>Quand vous effectuez cette action, vous touchez une arme. Pendant un round, cette arme inflige 1d6 dégâts supplémentaires du type choisi aux créatures à l’alignement opposé. Par exemple, si vous choisissez l’alignement bon, l’arme inflige 1d6 dégâts bons supplémentaires aux créatures d’alignement mauvais. Si vous utilisez de nouveau Arsenal aligné, toute arme précédemment alignée n’inflige plus ces dégâts supplémentaires</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don une deuxième fois, en choisissant l’autre composant de l’alignement de votre divinité. Quand vous utilisez Arsenal aligné, vous pouvez choisir l’un ou l’autre des composants d’alignement.</p>"
+        },
+        {
+            "id": "Absorb Spell",
+            "name": "Absorb Spell",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fréquence</strong> une fois par 10 minutes<br><strong>Prérequis</strong> dévouement de maître des sorts, répertoire de sort ou capacité à préparer des sorts<br><strong>Déclencheur</strong> Vous avez obtenu un succès critique à un jet de sauvegarde contre le sort d'un adversaire et ce sort est d'un niveau que vous pouvez normalement lancer.<br></span></p>\n<hr>\n<p>Vous absorbez un sort et l'emmagasinez dans votre corps. Si vous êtes un lanceur de sort spontané, vous pouvez lancer le sort déclencheur une fois au cours des 10 prochaines minutes, même s'il n'est pas sur votre liste de sort comme s'il figurait dans votre répoertoire. Si vous êtes un incantateur préparé, vous pouvez remplacer un des sorts que vous avez préparé du même niveau avec le sort absorbé, mais vous devez le lancer dans les 10 minutes ou vous perdez cet emplacement de sort pour cette journée. Vous lancez le sort au même niveau de sort que le sort que vous avez absorbé, mais le sort est de votre tradition magique et utilise le DD de vos sorts, votre jet d'attaque de sort et les autres statistiques pour déterminer ses effecs.&nbsp;</p>"
         },
         {
             "id": "Primal Evolution",
@@ -3807,6 +3952,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> ethnie Varisienne ou originaire du Nouveau Thassilon<br></span></p>\n<hr>\n<p>Vous avez des tatouages sur le corps correspondant à une des anciennes écoles Thassiloniennes de magie. Choisissez une des écoles de magie suivantes : abjuration (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=280\"><em>bouclier</em></a>), invocation (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=330\"><em>entrave</em></a>), enchantement (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=61\"><em>hébétement</em></a>), évocation (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=97\"><em>arc électrique</em></a>), illusion (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=132\"><em>son imaginaire</em></a>), nécromancie (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=35\"><em>contact glacial</em></a>) ou transmutation (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=286\"><em>symbole</em></a>). Vous pouvez lancer le tour de magie associé (listé entre parenthèses) comme un sort arcanique inné à volonté.&nbsp;&nbsp;</p>"
         },
         {
+            "id": "Bloodline Focus",
+            "name": "Bloodline Focus",
+            "description": "<p><strong>Prérequis</strong> sort de lignage</p>\n<hr>\n<p>Votre focalisation se régénère plus rapidement. Si vous avez dépensé au moins 2 points de focalisation depuis votre dernière Refocalisation, vous récupérez 2 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.</p>"
+        },
+        {
             "id": "Multilingual",
             "name": "Multilingual",
             "description": "<p><strong>Prérequis</strong> qualifié en Société</p>\n<hr>\n<p>Vous assimilez rapidement de nouvelles langues. Vous apprenez deux nouvelles langues parmi les langues courantes et peu courantes, et toutes celles auxquelles vous avez accès. Vous apprenez une langue supplémentaire si vous êtes ou devenez maître en Société et encore une de plus si vous êtes ou devenez légendaire.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, vous apprenez des langues supplémentaires.</p>"
@@ -3832,9 +3982,19 @@
             "description": "<p><strong>Prérequis</strong> qualifié en Athlétisme</p>\n<hr>\n<p>Vous pouvez Sauter en hauteur ou en longueur par une action unique au lieu de 2 actions. Dans ce cas, vous n’avez pas besoin de Marcher rapidement au préalable (et vous n’échouez pas si vous ne Marcher pas rapidement sur 3 m).</p>"
         },
         {
+            "id": "Auspicious Mount",
+            "name": "Auspicious Mount",
+            "description": "<p><strong>Prérequis</strong> allié divin (monture), Destrier imposant</p>\n<hr>\n<p>Grâce à vos soins permanents, votre destrier a développé des compétences et une intelligence incroyable. La monture que vous avez obtenue grâce à la capacité de classe allié divin est à présent un compagnon animal spécialisé (page 217). Vous pouvez choisir l’une des spécialisations courantes ou la spécialisation auspice. Les montures d’auspice bénéficient des avantages suivants : votre compagnon porte une marque représentant le symbole religieux de votre divinité, ce qui fait d’elle une créature sacrée de votre divinité. Son rang de maîtrise en Religion passe à expert, elle sait parler la langue associée aux serviteurs de votre divinité (céleste pour les champions qui suivent les principes du bien), son modificateur d’Intelligence augmente de 2 et son modificateur de Sagesse de 1.</p>"
+        },
+        {
             "id": "Counterspell (Spontaneous)",
             "name": "Counterspell (Spontaneous)",
             "description": "<p><strong>Déclencheur.</strong> Une créature Lance un sort que vous avez dans votre répertoire.</p>\n<p><strong>Conditions.</strong> Il vous reste un emplacement de sort utilisable pour lancer le sort déclencheur</p>\n<hr>\n<p>Quand un ennemi Lance un sort et que vous voyez sa manifestation, vous pouvez recourir à votre propre magie pour l’interrompre. Quand une créature lance un sort qui se trouve également dans votre répertoire, vous pouvez dépenser l’un de vos emplacements de sorts pour le contrer. Vous perdez votre emplacement de sort comme si vous aviez lancé le sort déclencheur. Vous tentez ensuite de contrer ce sort (p. 459).</p>\n<p><strong>Spécial</strong> Ce don a le trait correspondant à votre tradition magique (arcanique, divine, primordiale ou occulte</p>"
+        },
+        {
+            "id": "Brutal Finish",
+            "name": "Brutal Finish",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme de corps à corps à deux mains.</p>\n<hr>\n<p>Votre ultime coup peut être impactant, même s’il est dévié par les défenses de votre adversaire. Effectuez une Frappe avec l’arme requise. Votre tour se termine après la Frappe. La Frappe inflige un dé de dégâts d’arme supplémentaire, ou deux dés si vous êtes de niveau 18 au moins. La Frappe a également l’effet d’échec suivant.</p>\n<p><strong>Échec</strong>  Vous infligez un montant de dégâts égal à un dé de dégâts de l’arme requise. Ces dégâts s’élèvent à deux dés si vous êtes de niveau 18 au moins.</p>"
         },
         {
             "id": "Crushing Grab",
@@ -3860,6 +4020,11 @@
             "id": "Subtle Theft",
             "name": "Subtle Theft",
             "description": "<p><strong>Prérequis</strong> qualifié en Vol</p>\n<hr>\n<p>Quand vous réussissez à Voler quelque chose, les observateurs (les créatures autres que la créature que vous avez volée) subissent un malus de circonstances de −2 à leurs DD de Perception pour détecter votre larcin. De plus, si vous commencez par Faire diversion en utilisant Duperie, effectuer une seule action pour Escamoter un objet ou Voler ne met pas fin à votre état non détecté.</p>"
+        },
+        {
+            "id": "Bloodline Metamorphosis",
+            "name": "Bloodline Metamorphosis",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à manipuler le pouvoir inné de votre lignage et l'adaptez à vos besoins. Lorsque vous faites vos préparatifs quotidiens, vous pouvez échanger un unique sort du niveau 9 ou inférieur pour un autre sort de ce même niveau. Vous ne pouvez pas changer les sorts accordés spécifiquement par votre lignage.&nbsp;</span></p>"
         },
         {
             "id": "Scout's Warning",
