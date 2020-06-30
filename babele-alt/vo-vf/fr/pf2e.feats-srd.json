@@ -128,7 +128,7 @@
         },
         {
             "id": "Counterspell (Prepared)",
-            "name": "Counterspell (Prepared) (Contresort)",
+            "name": "Counterspell (Prepared) (Contresort (Préparé))",
             "description": "<p><strong>Déclencheur</strong> Une créature Lance un sort que vous avez préparé.</p>\n<hr>\n<p>Quand un ennemi Lance un sort et que vous voyez sa manifestation, vous pouvez recourir à votre propre magie pour l’interrompre. Vous dépensez un sort préparé pour contrer l’incantation du même sort lancé par une autre créature. Vous perdez votre emplacement de sort comme si vous aviez lancé le sort déclencheur. Vous tentez ensuite de contrer ce sort (p. 459).</p>"
         },
         {
@@ -205,6 +205,11 @@
             "id": "Hazard Finder",
             "name": "Hazard Finder (Dénicheur de dangers)",
             "description": "<p>Vous percevez instinctivement le danger. Vous gagnez un bonus de circonstances de +1 à vos tests de Perception pour trouver des pièges et des dangers, à votre CA contre leurs attaques et aux jets de sauvegarde contre leurs effets. Vous pouvez trouver des dangers qui nécessitent normalement une Fouille de votre part, même si vous ne Fouillez pas.</p>"
+        },
+        {
+            "id": "Come and Get Me",
+            "name": "Come and Get Me (Je t'attends)",
+            "description": "<p>Vous invitez les attaques pour pouvoir y répondre de manière appropriée. Jusqu’à la fin de votre rage, vous êtes pris au dépourvu et les jets de dégâts contre vous bénéficient d’un bonus de circonstances de +2. Si une créature vous frappe, vous la considérez comme prise au dépourvu jusqu’à la fin de votre prochain tour. Si vous la frappez avant la fin de votre prochain tour, vous gagnez une quantité de points de vie temporaires égale à votre modificateur de Constitution, ou le double sur un coup critique. Ces points de vie temporaires persistent jusqu’à la fin de votre rage.</p>"
         },
         {
             "id": "Terrifying Howl",
@@ -375,6 +380,11 @@
             "id": "Arcane Sense",
             "name": "Arcane Sense (Sens arcanique)",
             "description": "<p><strong>Prérequis</strong> Qualifié en Arcanes</p>\n<hr>\n<p>Votre apprentissage de la magie vous permet de sentir instinctivement sa présence. Vous pouvez incanter détection de la magie niveau 1 à volonté comme si c’était un sort inné arcanique. Si vous êtes un maître en Arcanes, le sort est intensifié au niveau 3. Si vous êtes légendaire, il est intensifié au niveau 4.</p>"
+        },
+        {
+            "id": "Cascade Bearer's Spellcasting",
+            "name": "Cascade Bearer's Spellcasting (Incantation des Détenteurs des flots)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Gardien de Magaambya, affiliation aux Détenteurs des flots<br></span></p>\n<hr>\n<p>Votre entraînement de Détenteur des flots vous permet d'élargir les horizons de vos sorts paisibles plus loin que la plupart des magiciens de Magaambya, en maniant la magie de l'esprit. Vous pouvez chisir vos sorts paisibles à partir des listes des sorts divins ou occultes en plus des listes arcanique ou primodiale, bien qu'il s'agisse toujours de sorts de magie paisible (ainsi vous choisissez au moment de les lancer s'il s'agit de sorts primordiaux ou arcaniques). Vous obtenez un tour de magie paisible et un sort de magie paisible de niveau 1.&nbsp;</p>"
         },
         {
             "id": "Ornate Tattoo",
@@ -597,6 +607,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez étudié les exercices et techniques traditionnels hobgobelins qui ont tous une tournure militaire. Vous êtes qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=3\">Athlétisme</a> et <a href=\"https://2e.aonprd.com/Skills.aspx?ID=4\">Artisanat</a>. Pour chacune de ces compétences dans laquelle vous étiez déjà qualifié, vous devenez qualifié dans une compétence de votre choix. Vous êtes également qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> hobgobeline.&nbsp;</span></p>"
         },
         {
+            "id": "Bloodline Breadth",
+            "name": "Bloodline Breadth (Amplitude de lignage)",
+            "description": "<p><strong>Prérequis</strong> Incantation de l'ensorceleur basique</p>\n<hr>\n<p>Votre répertoire se développe et vous pouvez lancer quotidiennement davantage de sorts issus de la tradition de votre lignage. Augmentez le nombre de sorts de votre répertoire et le nombre d’emplacements de sorts que vous gagnez grâce aux dons de l’archétype ensorceleur de 1 pour chaque niveau de sort autre que vos deux niveaux de sort les plus élevés.</p>"
+        },
+        {
             "id": "Channel Smite",
             "name": "Channel Smite (Châtiment canalisé)",
             "description": "<p><strong>Prérequis</strong> source de mise à mal ou de guérison</p>\n<p><strong>Coût</strong> Dépensez un sort de mise à mal ou guérison.</p>\n<hr>\n<p>Vous siphonnez la puissance destructrice de l’énergie positive ou négative que vous injectez ensuite dans votre adversaire par le biais d’une attaque au corps à corps. Effectuez une Frappe au corps à corps et ajoutez les dégâts du sort à ceux de la Frappe. Ce sont des dégâts négatifs si vous dépensez une mise à mal ou des dégâts positifs si vous dépensez une guérison. Le sort est dépensé sans produire d’effet si votre Frappe échoue ou touche une créature qui ne peut pas être blessée par le type d’énergie en question (si vous réussissez à frapper une créature autre qu’un mort‑vivant avec le sort guérison, par exemple).</p>"
@@ -767,6 +782,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Charisme 16, Dévouement de Trublion vantard<br></span></p>\n<hr>\n<p>Votre vantardise est particulièrement efficace. Si vous obtenez un Succès lorsque vous vous Vantez, vous pouvez tenter une grande vantardise à propos de cette même compétence en utilisant l'action de votre Dévouement de Trublion vantard au cours de la même action pendant la durée du bonus de circonstance de votre vantardise originelle ; c'est une exception à la règle selon laquelle vous ne pouvez faire une autre vantardise lors de la même action jusqu'à vos prochains préparatifs quotidiens. Une grande vantardise utilise l'action de dévouement du Trublion vantard, sauf que si vous obtenez un Succès, votre bouns de circonstance passe à +2 et dure pendant 1 heure. Si vous obtenez un échec avec la grande vantardise, vous subissez une pénalité de circonstance de –2 pour tenter la même action pendant 4 heures. Une fois que vous déclarez une grande vantardise à propos d'une action particulière, vous ne pouvez plus declarer une grande vantardise concernant la même action jusqu'à ce que vous fassiez vos préparatifs quotidiens, et ce que vous ayez obtenu un échec ou une réussite. Le minimum de la tâche à accomplir pour une grande vantardise est une qui comporte au moins un DD difficile pour votre niveau.&nbsp;</p>"
         },
         {
+            "id": "Ankle Bite",
+            "name": "Ankle Bite (Morsure à la cheville)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis </strong> Aiguiseur de crocs ou ascendance gobelin dentd'rasoir<br><strong>Décelncheur</strong> Un adversaire vous inflige la condition @Compendium[pf2e.conditionspf2e.kWc1fhmv9LBiTuei]{empoigné} ou @Compendium[pf2e.conditionspf2e.VcDeM8A5oI6VqhbM]{entravé} en utilisant une partie de son corps.<br></span></p>\n<hr>\n<p>Lorsque quelqu'un vous empoigne, vous le mordez instinctivement très fort. Quelques fois, cela vous permet de partir, d'autres fois, cela les met juste plus fort en colère, mais dans les deux cas, cela vous satisfait et c'est goûtu. Faites une Frappe de morsurecontre l'adversaire qui déclenche cette réaction. Sur un cou critique, vous n'êtes plus empoigné. Cette Frappe n'est pas prise en compte pour les pénalités d'attaques multiples et votre pénalité d'attaque multiple ne s'applique pas à cette Frappe.&nbsp;</p>"
+        },
+        {
             "id": "Goblin Lore",
             "name": "Goblin Lore (Connaissance des gobelins)",
             "description": "<p>Vous avez appris des compétences et entendu des contes dans votre communauté gobeline. Vous gagnez le rang de maîtrise qualifié en Nature et en Discrétion. Si vous êtes déjà automatiquement qualifié dans l’une de ces compétences (grâce à votre historique ou à votre classe, par exemple), vous devenez alors qualifié dans une compétence de votre choix. Vous devenez également qualifié en Connaissance des gobelins</p>"
@@ -785,6 +805,11 @@
             "id": "Hellknight Signifer Dedication",
             "name": "Hellknight Signifer Dedication (Dévouement du Signifer)",
             "description": "<div><strong>Archétype </strong>@Compendium[pf2e.archetypes.GwItivMACzBmW82g]{Signifer}</div>\n<div><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> capacité de lancer des sorts, Dévouement d'Écuyer chevalier infernal, alignement loyal, membre d'un ordre de Chevalier infernal, avoir réussi le test de Chevalier infernal<br></span></div>\n<hr>\n<p>Vous avez renforcé votre force de volonté avec le pouvoir de la Mesure et de la Chaîne. Au cours de votre initiation, vous recevez un masque de signifer, souvent démuni de trou pour les yeux et de toute fioriture décorative. Le masque ne vous empêche pas de voir, bien qu'il rende impossible pour les autres de voir vos yeux. Lorsque vous portez votre masque de signifer, vous obtenez un bonus de circonstance de +1 aux test de Duperie pour Mentir, d'Intimidation et au DD de Duperie pour Discerner vos intentions. Vous devenez expert en Intimidation (ou, si vous l'étiez déjà, dans une autre compétence dans laquelle vous étiez déjà qualifié) ainsi qu'à votre choix dans celle d'Arcanes, de Nature, d'Occultisme ou de Religion.</p>\n<div><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype Signifer ou de celui d'@Compendium[pf2e.archetypes.LYYDozZfXok19VYW]{Écuyer Chevalier infernal}.&nbsp;</div>"
+        },
+        {
+            "id": "Cloud Jump",
+            "name": "Cloud Jump (Saut plané)",
+            "description": "<p><strong>Prérequis</strong> légendaire en Athlétisme</p>\n<hr>\n<p>Votre habilité athlétique sans pareille vous permet de sauter sur des distances impossibles. Triplez la distance que vous @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Sautez en longueur} (vous pouvez donc sauter sur 18m avec un test DD 20 réussi). Quand vous @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Sautez en hauteur}, utilisez le mode de calcul pour un Saut en longueur, mais ne triplez pas la distance. Quand vous Sautez en longueur ou en hauteur, vous pouvez aussi augmenter le nombre d’actions que vous utilisez (jusqu’au nombre d’actions restantes pour votre tour) pour sauter encore plus loin. Pour chaque action supplémentaire, ajoutez votre Vitesse à la distance maximum que vous sautez.</p>"
         },
         {
             "id": "Order Explorer",
@@ -870,6 +895,11 @@
             "id": "Pervasive Superstition",
             "name": "Pervasive Superstition (Superstition omniprésente)",
             "description": "<p><strong>Prérequis</strong> Superstition orque</p>\n<hr>\n<p>Vous êtes tellement baigné de superstitions orques que votre pratique des exercices mentaux de vos ancêtres vous aide à ignorer les effets de la magie. Vous bénéficiez d’un bonus de circonstances de +1 à vos jets de sauvegarde contre les sorts et les effets magiques en toutes circonstances.</p>"
+        },
+        {
+            "id": "Charlatan",
+            "name": "Charlatan (Charlatan)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequisites</strong> qualifié en Duperie<br></span></p>\n<hr>\n<p>Vous avez appris à imiter les capacités des lanceurs de sort en étudiant leur gestuelle et leurs mots. Lorsque vous activez un objet magique pour générer un effet de sort, faites un test de Duperie. Si vous réussissez à battre le DD de Perception du spectateur, à ses yeux, vous apparaissez Lancer ce sort. Les spectateurs qui réussissent à Reconnaître le sort réalisent que vous avez employé un objet magique, alors que ceux qui réussissent après coup à Identifier la Magie ne peuvent toujours déterminer que la source de l'effet était un objet magique.&nbsp;&nbsp;</p>"
         },
         {
             "id": "Apex Companion",
@@ -1025,6 +1055,11 @@
             "id": "Enduring Alchemy",
             "name": "Enduring Alchemy (Alchimie durable)",
             "description": "<p>Vous avez appris à mieux utiliser votre énergie afin d’allonger légèrement l’effet de vos décoctions éphémères. Quand vous utilisez Alchimie rapide pour créer un outil ou un élixir alchimique, l’efficacité de cet outil ou élixir persiste jusqu’à la fin de votre prochain tour, au lieu du début de votre prochain tour.</p>"
+        },
+        {
+            "id": "Cobble Dancer",
+            "name": "Cobble Dancer (Danseur des pavés)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous savez comment prendre avantage sur des ennemis déséquilibrés par un sol instable, des pavés disjoints ou des  obstacles de même nature. Lorsque vous êtes dans un environnement extérieur urbain, vous pouvez Faire un pas sur un terrain difficiles et les ennemis qui se trouvent sur un terrain difficile sont pris au dépourvu en ce qui vous concerne.&nbsp;</span></p>"
         },
         {
             "id": "Ki Rush",
@@ -1185,6 +1220,11 @@
             "id": "Form Control",
             "name": "Form Control (Contrôle de la forme)",
             "description": "<p><strong>Prérequis</strong> Force 14, Morphologie sauvage</p>\n<hr>\n<p>Avec des efforts et des précautions supplémentaires, vous pouvez prolonger la durée de vos transformations. Si votre prochaine action consiste à lancer morphologie sauvage, le niveau de ce sort est réduit de 2 par rapport à son niveau normal (niveau 1 au minimum), mais vous pouvez rester transformé pendant un maximum d’une heure ou pendant toute la durée indiquée (selon la durée la plus longue). Vous pouvez toujours Révoquer la forme dès que vous le souhaitez, comme l’autorise le sort.</p>"
+        },
+        {
+            "id": "Chosen of Lamashtu",
+            "name": "Chosen of Lamashtu (Élu de Lamashtu)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> adorateur de Lamashtu<br></span></p>\n<hr>\n<p>Vous portez la faveur et les bénédictions de @Compendium [pf2e.deities.aipkJQxP4GBsTaGq] {Lamashtu}, la mère des monstres. Elle vous a conféré une mutation, vous accordant les bienfaits d'un autre héritage. Choisissez un héritage gobelin que vous n'avez pas déjà; vous gagnez ce patrimoine et ses avantages.</p>"
         },
         {
             "id": "Unnerving Prowess",
@@ -1422,6 +1462,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de l'éclaireur<br></span></p>\n<hr>\n<p>Vous avez exploré suffisament de tombes poussiéreuses et de salles secrètes cachées pour acquérir un sixième sens lors de la détection des pièges, et vous les remarquez parfois même quand vous n'essayez pas de le faire. Même si vous n'êtes pas en mode exploration, vous détectez automatiquement les pièges qui vous obligent normalement à les rechercher. Vous devez néanmoins satisfaire à d'autres prérequis pour détecter le piège.&nbsp;</p>"
         },
         {
+            "id": "Clan's Edge",
+            "name": "Clan's Edge (Avantage du clan)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié avec une @Compendium[pf2e.equipment-srd.kJJvKm80KwWXPukV]{Dague de clan}<br></span></p>\n<hr>\n<p>En bougeant votre dague de clan avec une précision rapide, vous pouvez vous protéger vous-même de manière plus effective. Faires deux Frappes de dague de clan contre différentes cibles. Vos pénalités d'attaques multiples s'appliquent normalement à ces Frappes. Vous utilisez alors une action Interagir pour obtenir un bonus de circonstance de +1 à votre CA lié au trait parade de votre dague de clan.&nbsp;</p>"
+        },
+        {
             "id": "Brutal Critical",
             "name": "Brutal Critical (Critique brutal)",
             "description": "<p>Vos coups critiques sont particulièrement dévastateurs. Sur un coup critique avec une Frappe au corps à corps, ajoutez un dé de dégâts de plus. Il s’ajoute aux autres dés supplémentaires que vous gagnez si votre arme possède les traits mortelle ou fatale. La cible subit également une quantité de dégâts de saignement persistants égale à deux dés de dégâts.</p>"
@@ -1467,6 +1512,11 @@
             "description": "<p><strong>Prérequisites</strong> Manoeuvre basique</p>\n<hr>\n<p>Vous gagnez un don de guerrier. Afin de remplir ses prérequis, votre niveau de guerrier est égal à la moitié du niveau de votre personnage</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don de guerrier.</p>"
         },
         {
+            "id": "Champion's Sacrifice",
+            "name": "Champion's Sacrifice (Sacrifice du Champion)",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.classfeatures.nxZYP3KGfTSkaW6J]{principes du bien}</p>\n<hr>\n<p>Vous endurez les souffrances d’autrui pour qu’ils puissent vivre. Vous pouvez lancer le sort de dévotion @Compendium[pf2e.spells-srd.USM530HlzZ1RMd99]{sacrifice du champion}. Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>"
+        },
+        {
             "id": "Brutal Bully",
             "name": "Brutal Bully (Cogneur brutal)",
             "description": "<p>Vous malmenez vos adversaires et ils ne risquent pas de l’oublier. Quand vous êtes enragé et que vous réussissez à Désarmer, Saisir, Pousser, ou faire un Croc‑en‑jambe à un adversaire, vous lui infligez une quantité de dégâts contondants égale à votre modificateur de Force ; vous ajoutez ces dégâts à ceux que vous infligez en cas de succès critique à un Croc‑en‑jambe.</p>"
@@ -1485,6 +1535,11 @@
             "id": "Eye of Ozem",
             "name": "Eye of Ozem (Œil d'Ozem)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Sentinelle de dernier-Rempart, expert en Perception<br></span></p>\n<hr>\n<p>Vous avez appris à percevoir le danger à distance, vous permettant de servir comme sentinelle avec facilité. Vous obtenez un bonus de circonstance de +2 aux tests d'initiative lorsque vous utilisez Perception et lorsque vous partez en Reconnaissance, vous faites bénéficier vos alliés d'un bonus de circonstance de +2 au lieu de +1.&nbsp;</p>"
+        },
+        {
+            "id": "Collateral Thrash",
+            "name": "Collateral Thrash (Maltraitance collatérale)",
+            "description": "<p><strong>Prerequisites</strong> @Compendium[pf2e.feats-srd.rMPL11JRcmlutvRi]{Maltraitance}</p>\n<hr>\n<p>Quand vous Maltraitez un adversaire empoigné, vous le projetez contre un autre ennemi à proximité. Un autre adversaire adjacent à celui que vous avez empoigné subit également vos dégâts de Maltraitance, et bénéficie d’un jet de Réflexes basique contre votre DD de classe.</p>"
         },
         {
             "id": "Devoted Focus",
@@ -1595,6 +1650,11 @@
             "id": "False Faith",
             "name": "False Faith (Foi de façade)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> suivant de Droskar<br></span></p>\n<hr>\n<p>Droskar sait que vous pouvez avoir besoin de vous déguiser vous-mêmes dans les sociétés qui s'opposent à son culte. Après avoir passé une heure à prier Droskar, vous pouvez lancer des sorts en utilisant un symbole religieux qu'une divinité différente comme focalisateur divin et vous pouvez addresser des prières verbales à cette divinité. Droskar intercepte vos prières et y répond sans que la divinité nommée ne le sache.</p>\n<p>Cette capacité ne s'applique qu'au symbole religieux d'une unique divinité à la fois au même moment et dédier un autre symbole religieux à une autre divinité différente nécessite une autre heure de prière et le précédent symbole cesse de fonctionner. Vous pouvez toujours utiliser un symbole religieux de Droskar sans affecter cette capacité.</p>"
+        },
+        {
+            "id": "Shared Luck",
+            "name": "Shared Luck (Chance partagée)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.ZbRVqf14RTJJIZXG]{Chance halfeline}<br /></span></p>\n<hr />\n<p>Vous êtes la preuve qu'il est chanceux de voyager avec un lafelin. Vous pouvez utiliser @Compendium[pf2e.feats-srd.ZbRVqf14RTJJIZXG]{Chance halfeline} lorsqu'un allié dans les 9 mmanque un test de compétence ou un jet de sauvegarde pour permettre à l'allier de relancer le test déclencheur au lieu de vous permettre de relancer votre propre test échoué. Comme d'habitude, votre allié doit utiliser le nouveau résultat, même s'il est pire que leur premier lancer. Si vous possédez @Compendium[pf2e.feats-srd.k0sXAn4PPq5nW9al]{Chance directrice}, vous ne pouvez pas utiliser l'effet de chance directrice qui s'applique aux jets d'attaque et aux test de Perception en utilisant Chance partagée pour en faire bénéficier un allié.&nbsp;</p>"
         },
         {
             "id": "Stonecunning",
@@ -1797,6 +1857,11 @@
             "description": "<p><strong>Prérequis</strong> Double tir</p>\n<hr>\n<p>Vous avez amélioré la maîtrise de votre arme, ce qui vous permet d’effectuer plusieurs tirs très rapidement. Quand vous utilisez Double tir, vous pouvez effectuer les attaques contre la même cible. Vous pouvez ajouter une action au Double tir afin de faire trois Frappes à distance au lieu de deux. Le cas échéant, le malus s’élève à −4. Toutes les attaques comptent dans le calcul de votre malus d’attaques multiples mais le malus n’augmente qu’après les avoir toutes effectuées.</p>"
         },
         {
+            "id": "Charged Creation",
+            "name": "Charged Creation (Création chargée)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Création persistante<br></span></p>\n<hr>\n<p>Votre magie est tirée de vos créations persistantes. Tant que vous vous trouvez à moins de 9 mètres et que vous avez une ligne d'effet sur votre création persistante, vous pouvez l'utiliser comme point d'origine pour vos sorts de ligne ou de cône. Par exemple, un @Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{éclair} pourrait provenir de la création persistante plutôt que de vous.</p>"
+        },
+        {
             "id": "Powerful Leap",
             "name": "Powerful Leap (Bond puissant)",
             "description": "<p><strong>Prérequis</strong> expert en Athlétisme</p>\n<hr>\n<p>Quand vous Bondissez, vous pouvez sauter 1,5 m avec un Bond vertical, et vous augmentez la distance que vous pouvez sauter horizontalement de 1,5 m.</p>"
@@ -1890,6 +1955,11 @@
             "id": "Master Druid Spellcasting",
             "name": "Master Druid Spellcasting (Incantation du druide maître)",
             "description": "<p><strong>Prérequis</strong> Incantation du druide expert, légendaire en Nature</p>\n<hr>\n<p>Vous gagnez les avantages d’Incantation maître (page 219).</p>"
+        },
+        {
+            "id": "Combat Reflexes",
+            "name": "Combat Reflexes (Attaque réflexe)",
+            "description": "<p>Vous êtes particulièrement prompt à punir les adversaires dès qu’ils baissent leurs gardes. Au début de chacun de vos tours quand vous récupérez vos actions, vous disposez d’une réaction supplémentaire que vous pouvez utiliser uniquement pour faire une Attaque d’opportunité.</p>"
         },
         {
             "id": "Expert Sorcerer Spellcasting",
@@ -2220,6 +2290,11 @@
             "id": "Opportunist",
             "name": "Opportunist (Opportuniste)",
             "description": "<p><strong>Prérequis.</strong> Dévouement du guerrier</p>\n<hr>\n<p>Vous gagnez la réaction Attaque d’opportunité, décrite p. 142.</p>"
+        },
+        {
+            "id": "Celestial Form",
+            "name": "Celestial Form (Forme Céleste)",
+            "description": "<p><Strong>Prérequis</Strong>@Compendium[pf2e.classfeatures.nxZYP3KGfTSkaW6J]{principes du bien}</p>\n<hr>\n<p>Vous prenez l’apparence et la contenance de l’un des types de célestes au service de votre divinité ; par exemple, si vous prenez l’apparence d’un ange, vous obtenez un halo et des ailes de plumes. Vous gagnez une Vitesse de vol égale à votre Vitesse. Vous gagnez vision dans le noir si vous ne l’avez pas déjà, ainsi que le trait céleste et celui correspondant au type de serviteur dont vous avez pris la forme (archon, ange ou azata, par exemple).</p>"
         },
         {
             "id": "Bardic Lore",
@@ -2567,6 +2642,11 @@
             "description": "<p><strong>Prérequis</strong> Dévouement de l'ensorceleur</p>\n<hr>\n<p>Vous gagnez le sort de lignage initial de votre lignage. Si vous n’en avez pas déjà une, vous gagnez également une réserve de focalisation d’une valeur de 1 point de focalisation, que vous pouvez Refocaliser sans effort particulier (pour plus d’informations sur les sorts de lignage, voir page 132).</p>"
         },
         {
+            "id": "Contagious Rage",
+            "name": "Contagious Rage (Rage contagieuse)",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.vayNZR1bTzU1oUa3]{Rage partagée}</p>\n<hr>\n<p>Vous pouvez déclencher un état de frénésie chez tous vos alliés et leur faire bénéficier d’incroyables avantages. Vous pouvez ignorer les conditions d’utilisation de Rage partagée et l’utiliser plusieurs fois au cours d’une même Rage. Les alliés affectés par Rage partagée qui acceptent votre anathème pour la durée de la Rage gagnent votre pouvoir d’instinct et le pouvoir de spécialisation associé lié à la spécialisation martiale, mais pas à la spécialisation martiale supérieure.</p>"
+        },
+        {
             "id": "Basic Dogma",
             "name": "Basic Dogma (Dogme basique)",
             "description": "<p><strong>Prérequis</strong> Dévouement du prêtre</p>\n<hr />\n<p>Vous gagnez un don de prêtre de niveau 1 ou 2.</p>"
@@ -2595,6 +2675,11 @@
             "id": "Basic Blood Potency",
             "name": "Basic Blood Potency (Pouvoir du sang basique)",
             "description": "<p><strong> Prérequis. </strong> Dévouement de l’ensorceleur </p>\n<hr>\n<p> Vous gagnez un don d’ensorceleur de niveau 1 ou 2.</p>"
+        },
+        {
+            "id": "Clan Protector",
+            "name": "Clan Protector (Protecteur de clan)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre @Compendium[pf2e.equipment-srd.kJJvKm80KwWXPukV]{Dague de clan} peut protéger vos alliés aussi facilement que vous. Lorsque vous utilisez une action Interaction pour gagner un bonus de circonstance à la CA grâce au trait parade de votre dague de clan, vous pouvez accorder le bonus de circonstance à un allié adjacent au lieu de l'obtenir vous-même. Vous pouvez utiliser plusieurs actions d'Interaction pour protéger plusieurs alliés ou pour vous protéger et protéger un allié. L'allié ne bénéficie du bonus à la CA que lorsqu'il vous est adjacent.&nbsp;</span></p>"
         },
         {
             "id": "Aura of Courage",
@@ -3097,6 +3182,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos manières policées et votre capacité naturelle à mettre à l'aisee les autres vous rend plus simple de faire tomber les barrières culturelles et gagner la confiance des étrangers. Lorsque vous êtes dans une communauté, lorque vous obtenez un échec critique sur un test de <a href=\"https://2e.aonprd.com/Skills.aspx?ID=6\">Diplomatie</a> pour <a href=\"https://2e.aonprd.com/Actions.aspx?ID=49\">Recueillir des informations</a> ou <a href=\"https://2e.aonprd.com/Actions.aspx?ID=50\">Faire Impression</a>, vous obtenez un échec à la place.&nbsp;</span></p>"
         },
         {
+            "id": "Certain Strike",
+            "name": "Certain Strike (Frappe Certaine)",
+            "description": "<p>Lorsque vous ne touchez pas franchement votre cible, vous parvenez quand même à infliger des dégâts superficiels. Effectuez une Frappe au corps à corps. Elle obtient l’effet d’échec suivant.</p>\n<p><stong>Échec</stong>Votre attaque inflige les dégâts qu’elle devrait normalement in‑ fliger en cas de succès, en enlevant tous les dés de dégâts (vous re‑ tirez ainsi les dés de dégâts conférés par les runes d’arme, les sorts, les pouvoirs spéciaux, en plus des dés de dégâts d’arme).</p>"
+        },
+        {
             "id": "Blessed Blood",
             "name": "Blessed Blood (Sang béni)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> lignage qui vous accorde des sorts divins, suivre une divinité<br></span></p>\n<hr>\n<p>Les bénédictions de votre divinité se manifestent au travers du pouvoir de votre lignage de naissance. Ajoutez jusqu'à trois des sorts de votre divinité (les sorts que votre divinité accorde à ses prêtres) à votre liste de sorts. Ils ne sont pas automatiquement ajoutés à votre répertoire, mais vous pouvez les choisir comme vous pourriez normalement le faire pour les sorts divins de votre liste.&nbsp;</p>"
@@ -3110,6 +3200,11 @@
             "id": "Irrepressible",
             "name": "Irrepressible (Irrépressible)",
             "description": "<p>Vous pouvez facilement faire fi des tentatives de jouer sur vos peurs et vos émotions. Si vous obtenez un succès à un jet de sauvegarde contre un effet d’émotion, vous obtenez à la place un succès critique. En outre, si votre héritage est halfelin flegmatique, quand vous obtenez un échec critique à un jet de sauvegarde contre un effet d’émotion, vous obtenez à la place un échec simple.</p>"
+        },
+        {
+            "id": "Cloud Step",
+            "name": "Cloud Step (Pas nuageux)",
+            "description": "<p><strong>Prérequis</strong> légendaire en Acrobaties</p>\n<hr>\n<p>Vos fantastiques talents d’acrobate vous permettent de parcourir de courtes distances sur des surfaces qui ne sont pas solides. Quand vous Marchez rapidement, vous pouvez ainsi vous déplacer sur l’eau, sur l’air, et sur des surfaces solides qui ne peuvent supporter qu’un poids réduit comme s’il s’agissait d’un sol normal. Si vous Marchez rapidement sur un piège sensible à la pression, vous ne le déclenchez pas. À la fin de votre tour, vous coulez, chutez, traversez les surfaces fragiles ou déclenchez les pièges normalement en fonction de l’endroit où vous vous trouvez.</p>"
         },
         {
             "id": "Leyline Conduit",
@@ -3255,6 +3350,11 @@
             "id": "Practiced Guidance",
             "name": "Practiced Guidance (Guide Exercé)",
             "description": "<p><strong>Archétype</strong> Laboureur de la Campanule</p>\n<p><strong>Conditions</strong> Dévouement de la Campanule</p>\n<hr>\n<p>Rendre le chemin vers la sécurité plus sûr peut être éprouvant mais vous êtes rompu à l'exercice consistant à aider les autres à trouver leur chemin. Lorsque vous obtenez un succès dans l'action Aider un membre de votre \"récolte\", vous considérez qu'il s'agit d'un Succès critique.</p>"
+        },
+        {
+            "id": "Castigating Weapon",
+            "name": "Castigating Weapon (Arme Punitive)",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.142QRyK2aPIrJu48]{Punition sacrée}</p>\n<hr>\n<p>La force punitive de votre divinité renforce votre corps pour que vous puissiez abattre les créatures malfaisantes. Après avoir blessé un fiélon avec une guérison, vos Frappes avec une arme ou à mains nues infligent aux fiélons, jusqu’à la fin de votre prochain tour, un montant de dégâts bons supplémentaires égal à la moitié du niveau de la guérison. Ces dégâts se cumulent avec les éventuels dégâts bons que l’arme inflige déjà (avec une rune sainte, par exemple).</p>"
         },
         {
             "id": "Bloodline Resistance",
@@ -3657,6 +3757,11 @@
             "description": "<p>Lorsque vous invoquez la puissance divine, vous pouvez empêcher certains ennemis d’en bénéficier ou certains alliés d’être blessés. Quand vous lancez une version de mise à mal ou de guérison qui affecte une zone, vous pouvez désigner un nombre de créatures égal à votre modificateur de Charisme (une au minimum) pour qu’elles ne soient pas les cibles du sort.</p>"
         },
         {
+            "id": "Cognitive Loophole",
+            "name": "Cognitive Loophole (Échappatoire cognitive)",
+            "description": "<p><strong>Trigger</strong> Votre tour se termine.</p>\n<p><strong>Conditions</strong> Vous êtes actuellement sous un effet mental causé par l’échec (mais pas un échec critique) à un jet de sauvegarde.</p>\n<p>Vous pouvez trouver une issue à l’effet mental afin d’y échapper temporairement. Jusqu’à la fin de votre prochain tour, vous ignorez un effet mental qui répond aux conditions de ce pouvoir. Vous ne pouvez échapper à un effet donné grâce à l’Échappatoire cognitive qu’une seule fois</p>\n<p><strong>Spécial</strong> Vous pouvez utiliser cette réaction même si l’effet mental vous empêche d’utiliser des réactions.</p>"
+        },
+        {
             "id": "Sign Language",
             "name": "Sign Language (Langue des signes)",
             "description": "<p><strong>Prérequis</strong> qualifié en Société</p>\n<hr>\n<p>Vous apprenez les langues des signes associées aux langues que vous connaissez, vous permettant de les pratiquer et de les comprendre. Les langues des signes nécessitent généralement les deux mains pour exprimer des concepts plus complexes, et elles sont visuelles au lieu d’audibles. Les langues des signes sont difficiles à comprendre pendant les combats à cause du niveau d’attention requis, contrairement aux gestes élémentaires tels que pointer un ennemi pour suggérer une cible. Les langues des signes sont difficiles à utiliser dans des zones de faible visibilité, de la même façon que parler est difficile dans un environnement bruyant.</p>"
@@ -3988,7 +4093,7 @@
         },
         {
             "id": "Counterspell (Spontaneous)",
-            "name": "Counterspell (Spontaneous) (Contresort)",
+            "name": "Counterspell (Spontaneous) (Contresort (Spontané))",
             "description": "<p><strong>Déclencheur.</strong> Une créature Lance un sort que vous avez dans votre répertoire.</p>\n<p><strong>Conditions.</strong> Il vous reste un emplacement de sort utilisable pour lancer le sort déclencheur</p>\n<hr>\n<p>Quand un ennemi Lance un sort et que vous voyez sa manifestation, vous pouvez recourir à votre propre magie pour l’interrompre. Quand une créature lance un sort qui se trouve également dans votre répertoire, vous pouvez dépenser l’un de vos emplacements de sorts pour le contrer. Vous perdez votre emplacement de sort comme si vous aviez lancé le sort déclencheur. Vous tentez ensuite de contrer ce sort (p. 459).</p>\n<p><strong>Spécial</strong> Ce don a le trait correspondant à votre tradition magique (arcanique, divine, primordiale ou occulte</p>"
         },
         {

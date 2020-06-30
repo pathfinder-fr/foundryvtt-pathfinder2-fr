@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **officielle**: 266
- * **aucune**: 359
+ * **officielle**: 269
+ * **aucune**: 356
  * **libre**: 1
  * **changé**: 47
 
 
-Dernière mise à jour: 2020-06-29 17:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-06-30 17:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -26,11 +26,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-03-VBNevVovTCpn04vL.htm](spells/abj-03-VBNevVovTCpn04vL.htm)|Unblinking Flame Revelation|
 |[abj-04-2BV2yYPfVJ5zirZt.htm](spells/abj-04-2BV2yYPfVJ5zirZt.htm)|Stoneskin|
 |[abj-04-7Fd4lxozd11MQ55N.htm](spells/abj-04-7Fd4lxozd11MQ55N.htm)|Atone|
-|[abj-04-aqRYNoSvxsVfqglH.htm](spells/abj-04-aqRYNoSvxsVfqglH.htm)|Freedom of Movement|
 |[abj-04-caehfpQz7yp9yNzz.htm](spells/abj-04-caehfpQz7yp9yNzz.htm)|Dutiful Challenge|
 |[abj-04-GoKkejPj5yWJPIPK.htm](spells/abj-04-GoKkejPj5yWJPIPK.htm)|Adaptive Ablation|
-|[abj-04-JOdOpbPDl7nqvJUm.htm](spells/abj-04-JOdOpbPDl7nqvJUm.htm)|Globe of Invulnerability|
-|[abj-04-ksLCg62cLOojw3gN.htm](spells/abj-04-ksLCg62cLOojw3gN.htm)|Dimensional Anchor|
 |[abj-04-Mv5L4201uk8hnAtD.htm](spells/abj-04-Mv5L4201uk8hnAtD.htm)|Reflective Scales|
 |[abj-04-onjZCEHs3JJJRTD0.htm](spells/abj-04-onjZCEHs3JJJRTD0.htm)|Private Sanctum|
 |[abj-04-qJQADktwD0x8kLAy.htm](spells/abj-04-qJQADktwD0x8kLAy.htm)|Resilient Sphere|
@@ -405,8 +402,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-03-y3jlOfgsQH1JjkJE.htm](spells/abj-03-y3jlOfgsQH1JjkJE.htm)|Sanctified Ground|Zone sanctifiée|officielle|
 |[abj-04-2jB9eyX7YekwoCvA.htm](spells/abj-04-2jB9eyX7YekwoCvA.htm)|Word of Freedom|Mot de liberté|officielle|
 |[abj-04-8ifpNZkaxrbs3dBJ.htm](spells/abj-04-8ifpNZkaxrbs3dBJ.htm)|Perfected Form|Forme parfaite|officielle|
+|[abj-04-aqRYNoSvxsVfqglH.htm](spells/abj-04-aqRYNoSvxsVfqglH.htm)|Freedom of Movement|Liberté de mouvement|officielle|
 |[abj-04-DH9Y3RQGWO0GzXGU.htm](spells/abj-04-DH9Y3RQGWO0GzXGU.htm)|Protector's Sphere|Sphère du protecteur|officielle|
 |[abj-04-eG1fBodYwolaXK98.htm](spells/abj-04-eG1fBodYwolaXK98.htm)|Enduring Might|Puissance protectrice|officielle|
+|[abj-04-JOdOpbPDl7nqvJUm.htm](spells/abj-04-JOdOpbPDl7nqvJUm.htm)|Globe of Invulnerability|Globe d'invulnérabilité|officielle|
+|[abj-04-ksLCg62cLOojw3gN.htm](spells/abj-04-ksLCg62cLOojw3gN.htm)|Dimensional Anchor|Ancre dimensionnelle|officielle|
 |[abj-04-LoBjvguamA12iyW0.htm](spells/abj-04-LoBjvguamA12iyW0.htm)|Energy Absorption|Absorption d'énergie|officielle|
 |[abj-04-OsrtOeG0TvDNnEFH.htm](spells/abj-04-OsrtOeG0TvDNnEFH.htm)|Safeguard Secret|Secret bien gardé|officielle|
 |[abj-04-SSsUC7rZo0CwayPn.htm](spells/abj-04-SSsUC7rZo0CwayPn.htm)|Retributive Pain|Souffrance vengeresse|officielle|

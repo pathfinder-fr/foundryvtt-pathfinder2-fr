@@ -237,6 +237,11 @@
             "description": "<p>Vous saupoudrez la zone du sort de poussière magique, pour tromper plus facilement ceux qui s’y trouvent. Chaque créature dans la zone doit faire un jet de Volonté. Pour chaque action supplémentaire que vous utilisez pour Lancer le sort, le rayon de l’explosion augmente de 1,50 m.</p>\n<p><strong>Succès.</strong> La créature n’est pas affectée.</p>\n<p><strong> Échec </strong> La créature ne peut pas utiliser de réactions et subit un malus de statut de −2 aux tests de Perception et aux jets de Volonté.</p>\n<p><strong>Échec critique</strong> Comme un échec, et la créature subit également un malus de statut de −1 aux tests de Perception et aux jets de Volonté pendant 1 min. </p>\n<hr>\n<p><strong> Intensifié (+3)</strong> Le rayon initial augmente de 1,50 m. </p>"
         },
         {
+            "id": "Freedom of Movement",
+            "name": "Freedom of Movement",
+            "description": "<p>Vous repoussez les effets qui gênent ou ralentissent les mouvements de la cible. Tant qu’elle est sous l’effet de ce sort, elle ignore les effets qui lui donnent un malus de circonstances à la Vitesse. Quand elle tente de S’échapper d’un effet visant à l’immobiliser, l’empoigner ou l’entraver, elle y parvient automatiquement, à moins que l’effet ne soit magique et d’un niveau supérieur à celui de liberté de mouvement.</p>"
+        },
+        {
             "id": "Undetectable Alignment",
             "name": "Undetectable Alignment",
             "description": "<p>Vous enveloppez une créature dans des protections qui cachent son alignement. La cible semble être neutre vis-à-vis de tous les effets permettant de détecter son alignement.</p>"
@@ -395,6 +400,11 @@
             "id": "Crisis of Faith",
             "name": "Crisis of Faith",
             "description": "<p>Vous vous attaquez à la foi de votre cible, la plongeant dans le doute et les tourments intellectuels, ce qui lui inflige 6d6 dégâts mentaux ou 6d8 dégâts mentaux si elle peut lancer des sorts divins. L’effet est déterminé par son jet de Volonté.</p>\n<p>Pour nombre de divinités, il est anathème de lancer ce sort sur un fidèle de la même religion que soi sans une excellente raison.</p>\n<hr>\n<p><strong>Succès critique.</strong> La cible n’est pas affectée.</p>\n<p><strong>Succès.</strong> La cible reçoit la moitié des dégâts.</p>\n<p><strong>Échec.</strong> La cible reçoit la totalité des dégâts. Si elle peut lancer des sorts divins, elle est stupéfiée 1 pendant 1 round.</p>\n<p><strong>Échec critique.</strong> La cible reçoit le double des dégâts, est stupéfiée 1 pendant 1 round et ne peut pas lancer de sorts divins pendant 1 round.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 2d6 (ou de 2d8 si la cible est un incantateur divin).</p>"
+        },
+        {
+            "id": "Globe of Invulnerability",
+            "name": "Globe of Invulnerability",
+            "description": "<p>Vous créez un globe mobile autour de vous qui tente de contrer tout sort venant de l’extérieur dont la zone ou la cible se trouve dans le globe, comme si ce dernier était @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{dissipation de la magie}, avec un niveau de moins que le globe.</p>\n<p>Si le contre est un succès, le globe bloque uniquement la portion de sort qui devrait entrer en son sein (si le sort a des cibles en dehors du globe ou si une partie de la zone du sort se trouve à l’extérieur du globe, il les affecte normalement).</p>\n<p>Vous devez former la sphère dans un espace ouvert ininterrompu, son enveloppe ne doit donc pas traverser une créature ni un objet sinon le sort est perdu (bien que des créatures puissent entrer dans le globe une fois le sort lancé).</p>"
         },
         {
             "id": "Death Knell",
@@ -1140,6 +1150,11 @@
             "id": "Knock",
             "name": "Knock",
             "description": "<p>La cible est plus facile à ouvrir grâce à ce sort. Déblocage confère un bonus de statut de +4 aux créatures qui tentent d’ouvrir la porte, la serrure ou le contenant ciblé avec un test d’Athlétisme ou de Vol. Vous pouvez effectuer un test de Vol pour ouvrir la cible lorsque vous lancez déblocage et vous ajoutez votre niveau même si vous êtes inexpérimenté. </p>\n<p>Déblocage contre verrouillage.</p>"
+        },
+        {
+            "id": "Dimensional Anchor",
+            "name": "Dimensional Anchor",
+            "description": "<p>Vous interférez avec les pouvoirs de téléportation et de voyage entre les dimensions de la cible. Ancre dimensionnelle tente de contrer tout effet de téléportation et tout effet qui emporterait la cible vers un autre plan. La durée est déterminée par le jet de Volonté de la cible.</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée.</p>\n<p>\n<b>Succès</b> L’effet dure 1 min.</p>\n<p>\n<b>Échec</b> L’effet dure 10 min.</p>\n<p>\n<b>Échec critique</b> L’effet dure 1 h.</p>"
         },
         {
             "id": "Electric Arc",

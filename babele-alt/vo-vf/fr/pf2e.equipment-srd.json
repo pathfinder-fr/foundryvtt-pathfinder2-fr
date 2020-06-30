@@ -12,6 +12,11 @@
             "description": ""
         },
         {
+            "id": "Triton's Conch",
+            "name": "Triton's Conch (Conque de triton)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous portez cette grande conque opalescente à votre oreille, vous entendrez le rugissement des vagues s’écrasant sur le rivage.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir (audible); <strong>Effet</strong>  Vous portez la conque à votre bouche et soufflez une longue note grave. Pendant la minute qui suit, vous et vos alliés dans un rayon de 9 m au moment où vous avez activé la conque gagnez un bonus d’objet de +2 aux tests d’Athlétisme pour Nager et vous respirez sous l’eau.</span></p>"
+        },
+        {
             "id": "Snare Kit",
             "name": "Snare Kit (Nécessaire de fabrication de pièges artisanaux :)",
             "description": "<p><span class=\"fontstyle0\"> ce kit contient des outils et du matériel pour fabriquer des pièges artisanaux. Un kit de braconnage vous permet de Fabriquer des pièges artisanaux à l’aide de la compétence Artisanat.</span> </p>"
@@ -227,6 +232,11 @@
             "description": "Une faible brume émane de votre peau et vous masque pendant la durée indiquée. Comme d’ordinaire quand vous êtes masqué, mais que votre position est évidente, vous ne pouvez pas en profiter pour Vous cacher ni Être furtif. La durée est de 5 min."
         },
         {
+            "id": "Bag of Holding (Type IV)",
+            "name": "Bag of Holding (Type IV) (Sac sans fond (Type 4))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Bien que ce sac en tissu orné de panneaux de soie aux riches cou‑ leurs ou de belles broderies ait l’air ordinaire, il ouvre sur un espace extradimensionnel bien plus grand que ce que pourrait contenir son enveloppe extérieure. L’Encombrement contenu dans le sac sans fond ne change pas son Encombrement à lui. La quantité d’Encombrement qu’il peut accueillir dépend de son type.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez Interagir avec le sac sans fond pour mettre un objet dedans ou le retirer, comme avec un sac ordinaire. Le sac a une grande contenance, mais pour y stocker un objet, il faut qu’il passe par son ouverture.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si le sac est surchargé ou brisé, il se déchire et est détruit, les objets qu’il contient étant perdus à jamais. S’il est mis sur l’envers, les objets qu’il contient se répandent à terre, intacts, mais il faut le remettre sur l’endroit avant de le réutiliser. Une créature vivante placée dans le sac a assez d’air pour respirer 10 min, ensuite elle commence à suffoquer. Elle peut faire un test DD 13 pour S’échapper. Un objet contenu dans \n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Capacité</strong> 150 encombrements&nbsp;</span></p>"
+        },
+        {
             "id": "Enormous tapestry of a major battle",
             "name": "Enormous tapestry of a major battle (Tapisserie immense représentant une bataille majeure)",
             "description": ""
@@ -320,6 +330,11 @@
             "id": "Antimagic Oil",
             "name": "Antimagic Oil (Huile antimagie)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette huile contient une énergie qui repousse presque tous les types de magie. Quand vous l’appliquez sur une armure, la créature qui porte cette armure est immunisée contre tous les sorts, effets magiques (les siens et ceux d’autrui) et les effets dotés du trait magique pendant 1 min. L’huile n’affecte ni la magie de l’armure, ni les runes fondamentales des armes qui attaquent son porteur. Les effets magiques issus d’une source de niveau 20 ou plus, comme une divinité, fonctionnent sur le détenteur de l’armure<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
+            "id": "Broom of Flying",
+            "name": "Broom of Flying (Balais volant)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le lien qui unit ce balais à la gravité est ténu et le balais a ten‑ dance à flotter même quand il est rangé. Vous pouvez monter sur le balais en le guidant d’une main, sachant qu’il peut aussi accueillir un passager. Il se déplace à une Vitesse de vol de 6 m. Le balais ne peut pas porter plus de poids et subit un malus de −3 m à la Vitesse s’il supporte plus de 20 Encombrements. Si sa charge dépasse les 30 Encombrements, il s’écrase au sol.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> sur ordre, Interagir; <strong>Effet</strong> Vous annoncez une destination sur le même plan que vous et le balais s’y rend à une Vitesse de vol de 12 m. Vous devez soit chevaucher le balais en le tenant à deux mains, soit le lâcher pour qu’il voyage sans cavalier. Si vous n’avez pas une idée précise de l’emplacement, de la disposition et de la direction générale de la destination ou si elle se trouve sur un autre plan, le balais erre et finit par revenir à son point de départ au bout de 30 min.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si le balais a un cavalier, l’activation dure jusqu’à ce que 4 h se soient écoulées (généralement 24 km), que le balais arrive à destination ou que vous Révoquiez l’activation. Si le balais n’a pas de cavalier, l’activation dure jusqu’à ce qu’il arrive à destination. Lorsque l’activation se termine, le balais flotte jusqu’au sol et ne peut plus s’activer pendant 1 h.</span></p>"
         },
         {
             "id": "Horsechopper",
@@ -445,6 +460,11 @@
             "id": "Azurite",
             "name": "Azurite (Azurite)",
             "description": ""
+        },
+        {
+            "id": "Traveler's Any-Tool",
+            "name": "Traveler's Any-Tool (Outil multifonction de baroudeur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Tant qu’il n’est pas activé, cet objet ressemble à un sceptre de frêne ferré aux deux extrémités. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir, imaginer; <strong>Effet</strong> Vous imaginez un ou‑ til simple et l’outil multifonction prend sa forme (en général, vous pouvez choisir un outil du chapitre 6). La partie en bois se change en manche et la partie métallique en pelle, tête de marteau ou autre, adoptant la forme de la plupart des outils basiques, mais rien de plus complexe. Il suffit d’une action Interagir pour rendre au sceptre sa forme initiale </span></p>"
         },
         {
             "id": "Illuminated manuscript",
@@ -627,6 +647,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’aconit figure dans le folklore à cause de son lien avec les garous. Si vous êtes affecté par la lycanthropie et survivez au stade 3 de l’aconit, vous êtes immédiatement guéri de cette lycanthropie.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong>  Vigueur DD 30; <strong>Délai</strong>10 minutes; <strong>Durée maximum</strong> 6 minutes; <strong>Stade 1</strong>  12d6 dégâts de poison (1 min);  <strong>Stade 2</strong>  16d6 dégâts de poison (1 min) ; <strong>Stade 3</strong>  20d6 dégâts de poison (1 min)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
+            "id": "Rod of Negation",
+            "name": "Rod of Negation (Sceptre de négation)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce lourd et long sceptre de plomb peut interrompre la magie.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Effet</strong> Le sceptre émet un mince rayon gris qui annule la magie d’un sort ou d’un objet magique en lançant dissipation de la magie au niveau 6 avec un modificateur de contre de +23. Une fois activé, il faut attendre 2d6 heures avant de pouvoir le réactiver.</span></p>"
+        },
+        {
             "id": "Thunderstone (Lesser)",
             "name": "Thunderstone (Lesser) (Pierre à tonnerre (inférieur))",
             "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant. Elle inflige les dégâts de son et d’éclaboussure de son indiqués. Chaque créature dans un rayon de 3 m autour de l’espace où elle a explosé doit réussir un jet de Vigueur contre le DD indiqué ou être sourde jusqu’à la fin de son prochain tour. Plusieurs types de pierre donnent un bonus d’objet aux jets d’attaque. La bombe inflige 1d4 dégâts de son et 1 dégât d’éclaboussure de son. Le DD est de 17.</p>"
@@ -660,6 +685,11 @@
             "id": "Mummified Bat",
             "name": "Mummified Bat (Chauve-souris mommifiée)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce talisman est un cadavre de minuscule chauve‑souris traité par magie et enroulé dans un papyrus. Lorsque vous l’activez, l’arme support détecte les vibrations autour de vous et guide vos sens. Vous profitez du don de classe de guerrier Combat en aveugle (p. 149) pendant 1 min. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous disposez déjà du don Combat en aveugle, vous gagnez écholocalisation imprécise dans un rayon de 9 m pendant 1 min. Grâce à cela, les créatures qui devraient être non détectées parce que vous ne les voyez pas sont simplement cachées pour vous.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Conditions</strong> Vous êtes maître en Perception.</span></p>"
+        },
+        {
+            "id": "Everburning Torch",
+            "name": "Everburning Torch (Torche éternelle)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La torche éternelle est l’un des exemples de magie permanente les plus courants. Elle émet de la lumière en permanence, même en l’absence d’oxygène et ne génère pas de chaleur. On peut cou‑ vrir ou cacher la flamme, mais pas l’étouffer ni l’éteindre avec de l’eau.&nbsp;</span></p>"
         },
         {
             "id": "Feather Token (Holly Bush)",
@@ -750,6 +780,11 @@
             "id": "Musical Instrument (Handheld)",
             "name": "Musical Instrument (Handheld) (Instruments de musique (portatifs))",
             "description": "<p><span class=\"fontstyle0\">Les instruments portatifs comprennent les cornemuses, le petit carillon, les petits tambours, les violons et violes, les flûtes traversières et les flûtes à bec, les petites harpes, les luths, les trompettes et instruments de taille similaire. Le MJ peut décider qu’un instrument portatif particulièrement volumineux (comme le tuba) a un Encombrement plus important. Les instruments lourds tels que les gros tambours, un carillon complet et les instruments à clavier sont beaucoup moins portatifs et se jouent généralement immobilisés. Un instrument virtuose accorde un bonus d’objet de +1 aux tests de Représentation.</span> </p>"
+        },
+        {
+            "id": "Bottled Air",
+            "name": "Bottled Air (Air en bouteille)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet ressemble à une banale bouteille fermée par un bouchon de liège, mais elle contient une quantité illimitée d’air respirable. Vous devez déboucher la bouteille avec l’action Interagir avant de l’activer. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Effet</strong> Vous aspirez une bouffée d’air à la bouteille. Cela vous permet de respirer, même dans un environnement toxique ou privé d’air. L’air ne s’échappe pas du goulot, ainsi un environnement privé d’air ne change pas même si la bouteille reste ouverte.</span></p>"
         },
         {
             "id": "Eye of Apprehension",
@@ -1012,6 +1047,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La chance est souvent du côté de celui qui manie cette épée courte de frappe supérieure +3. Les lames chanceuses sont forgées dans divers styles, mais leur garde ou leur lame sont souvent ornées de symboles de chance, comme des trèfles à quatre feuilles, des fers à cheval, des poissons, des coccinelles ou autres. <br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> imaginer; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous ratez une Frappe avec la lame chanceuse; <strong>Effet</strong>  Refaites le jet d’attaque déclencheur et appliquez le nouveau résultat. Il s’agit d’un effet de fortune. </p>\n<p>Certaines lames chanceuses contiennent un souhait @Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Wish}  lorsqu’elles sont forgées. Vous pouvez lancer ce sort comme un sort inné arcanique lorsque vous maniez la <em>lame chanceuse</em>, ce qui dépense le sort. Un incantateur qui peut lancer souhait peut placer un nouveau souhait dans la lame en dépensant 8 000 po et en y consacrant 4 jours d’intermède. Une <em>lame chanceuse</em> de souhait ne peut pas contenir plus d’un souhait à la fois. </p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>souhait</em>.</span></p>"
         },
         {
+            "id": "Horn of Blasting",
+            "name": "Horn of Blasting (Cor de dévastation)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un cor de dévastation est une sorte de trompette en airain. On peut en jouer comme d’un instrument qui accorde un bonus d’objet de +2 au test de Représentation.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Frequency</strong> 1/tour; <strong>Effet</strong>  Lorsque vous activez le cor en soufflant dedans avec des intentions destructrices, il émet une note dévastatrice qui vise une créature ou un objet dans un rayon de 9 m. La note inflige 3d6 dégâts de son (jet de Vigueur basique DD 28).<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> Interagir; <strong>Frequency</strong> 1/jour; <strong>Effet</strong> Vous pouvez souffler encore plus fort pour créer une onde destructrice dans un cône de 9 m qui inflige 8d6 dégâts de son. Chaque créature de la zone fait un jet de Vigueur DD 28 avec les conséquences suivantes. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès critique</strong> La créature ne reçoit pas de dégât.<br /><strong>Succès</strong> La créature subit la moitié des dégâts.<br /><strong>Echec</strong>  La créature reçoit la totalité des dégâts et est sourde pendant 2d6 rounds.</span></p>"
+        },
+        {
             "id": "Panacea",
             "name": "Panacea (Panacée)",
             "description": "<p>Cette potion semble changer de couleur et il n’y a pas deux personnes pour la décrire de la même manière. Une fois bue, elle tente de contrer les malédictions et maladies qui vous affectent, ainsi que les états aveugle et sourd issus de sorts vous affectant. La potion a un niveau de 7 pour contrer et un modificateur de +20 au jet.\n</p>"
@@ -1167,6 +1207,16 @@
             "description": "<p><span class=\"fontstyle0\">cet arc de 1,5 m de longueur, généralement constitué d’un seul morceau d’orme, de noyer blanc ou d’if, a un tir puissant et excelle à propulser des flèches avec une grande force et à une distance extrême. Vous devez utiliser deux mains pour tirer avec un arc long, et vous ne pouvez pas l’utiliser lorsque vous êtes sur une monture. </span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
         },
         {
+            "id": "Maestro's Instrument (Lesser)",
+            "name": "Maestro's Instrument (Lesser) (Instrument du maestro (inférieur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un instrument du maestro se fabrique sous la forme de n’importe quel instrument de musique que l’on peut tenir en main. Il donne un bonus d’objet de +1 aux tests de Représentation lorsque l’on en joue.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interact; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>Vous pouvez jouer de l’instrument pour produire les effets du sort charme. <br><br><strong>Conditions de fabrication.</strong>  Fournir une incantation de <em>charme</em> du niveau approprié.&nbsp;</span></p>"
+        },
+        {
+            "id": "Salve of Antiparalysis",
+            "name": "Salve of Antiparalysis (Baume antiparalysie)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce baume laiteux aide une créature à vaincre la paralysie si elle en est enduite. Elle bénéficie des effets du sort délivrance de la paralysie niveau 3. &nbsp;<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
             "id": "Sard",
             "name": "Sard (Sardoine)",
             "description": ""
@@ -1260,6 +1310,11 @@
             "id": "Spear",
             "name": "Spear (Lance)",
             "description": "<p>Long manche métallique se terminant par une pointe en métal, la lance peut être utilisée d’une seule main comme arme de corps à corps, mais aussi lancée. </p>"
+        },
+        {
+            "id": "Immovable Rod",
+            "name": "Immovable Rod (Sceptre inamovible)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette barre de fer plate est tout à fait quelconque si l’on omet le petit bouton métallique à sa surface.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interact; <strong>Effet</strong>  Vous appuyez sur le bouton pour fixer le sceptre. Il ne bouge plus, défiant la gra‑ vité s’il le faut. Si vous appuyez de nouveau sur le bouton, le sceptre se désactive et sa magie de fixation se dissipe. Une fois fixé, il bouge uniquement si on lui applique une pression de 4 tonnes ou si une créature utilise Athlétisme DD 40 pour l’Ouvrir de force (bien qu’une créature intel‑ ligente ait juste besoin d’appuyer sur le bouton pour déplacer le sceptre).</span></p>"
         },
         {
             "id": "Garnet",
@@ -1522,6 +1577,11 @@
             "description": ""
         },
         {
+            "id": "Aligned Oil",
+            "name": "Aligned Oil (Huile alignée)",
+            "description": "<p>L’huile emplit une arme de la puissance cosmique d’un alignement. Chaque huile d’alignement est fabriquée avec l’un d’eux : chaos, mal, bien ou loi (par exemple une huile d’alignement bon). Une arme enduite de cette huile gagne l’effet de la rune de propriété associée à son alignement : anarchique (chaos), axiomatique (loi), sainte (bien) ou impie (mal). Cela dure 1 min.</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">  Interagir</span></p>"
+        },
+        {
             "id": "Hand Crossbow",
             "name": "Hand Crossbow (Arbalète de poing)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Parfois appelée arc des ruelles par les roublards et les voyous, cette petite arbalète lance de petits carreaux quelquefois utilisés pour délivrer du poison à la cible. Elle est suffisamment petite pour que l’on puisse tirer avec d’une seule main – mais il faut tout de même la recharger à deux mains. &nbsp;</span></p>"
@@ -1732,6 +1792,11 @@
             "description": ""
         },
         {
+            "id": "Maestro's Instrument (Moderate)",
+            "name": "Maestro's Instrument (Moderate) (Instrument de maestro (modéré))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un instrument du maestro se fabrique sous la forme de n’importe quel instrument de musique que l’on peut tenir en main. Il donne un bonus d’objet de +1 aux tests de Représentation lorsque l’on en joue.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interact; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>Vous pouvez jouer de l’instrument pour produire les effets du sort charme. <br><br><strong>Conditions de fabrication.</strong>  Fournir une incantation de <em>charme</em> du niveau approprié.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bonus d’objet est de +2 et charme de niveau 4.</span></p>"
+        },
+        {
             "id": "Indestructible Shield",
             "name": "Indestructible Shield (Bouclier indestructible)",
             "description": "<p>Un bouclier indestructible est un bouclier en adamantium de haute qualité (Solidité 13, 90 PV) capable de résister à tous les dégâts. Seul le sort désintégration peut l’endommager (déterminez les dégâts comme s’il était lancé contre une créature qui a raté son jet de sauvegarde) ou un artefact associé à la destruction, tel qu’une sphère d’annihilation.</p>\n<hr />\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Les matières premières initiales doivent in‑ clure au moins 4 400 po d’adamantium.</span></p>"
@@ -1822,6 +1887,11 @@
             "description": ""
         },
         {
+            "id": "Bag of Holding (Type III)",
+            "name": "Bag of Holding (Type III) (Sac sans fond (Type 3))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Bien que ce sac en tissu orné de panneaux de soie aux riches cou‑ leurs ou de belles broderies ait l’air ordinaire, il ouvre sur un espace extradimensionnel bien plus grand que ce que pourrait contenir son enveloppe extérieure. L’Encombrement contenu dans le sac sans fond ne change pas son Encombrement à lui. La quantité d’Encombrement qu’il peut accueillir dépend de son type.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez Interagir avec le sac sans fond pour mettre un objet dedans ou le retirer, comme avec un sac ordinaire. Le sac a une grande contenance, mais pour y stocker un objet, il faut qu’il passe par son ouverture.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si le sac est surchargé ou brisé, il se déchire et est détruit, les objets qu’il contient étant perdus à jamais. S’il est mis sur l’envers, les objets qu’il contient se répandent à terre, intacts, mais il faut le remettre sur l’endroit avant de le réutiliser. Une créature vivante placée dans le sac a assez d’air pour respirer 10 min, ensuite elle commence à suffoquer. Elle peut faire un test DD 13 pour S’échapper. Un objet contenu dans \n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Capacité</strong> 100 encombrements&nbsp;</span></p>"
+        },
+        {
             "id": "Infiltrator's Elixir",
             "name": "Infiltrator's Elixir (Elixir d'infiltration)",
             "description": "Cet elixir très apprécié des espions et des escrocs sert à modifier votre apparence. Une fois bu, il vous donne la forme d'un humanoïde de votre taille, mais assez différent de vous pour que personne ne vous reconnaisse. Si vous n’êtes pas humanoïde, vous prenez une forme si‑ milaire à la vôtre si le MJ accepte. C’est au créateur de l’élixir de décider des détails de l’apparence que vous revêtez en buvant l’élixir, comme la couleur des yeux, de la peau et des cheveux. Cet élixir ne peut pas vous donner l’apparence d’une personne précise. Une fois la transformation effectuée, elle persiste pendant 10 min. Boire cet élixir revient à porter un déguisement en ce qui concerne l’action Se déguiser. Vous gagnez un bonus de sta‑ tut de +4 au DD de Duperie pour éviter qu’autrui ne perce votre déguisement à jour et vous ajoutez votre niveau à ce DD même si vous êtes inexpérimenté."
@@ -1910,6 +1980,11 @@
             "id": "Antidote (Moderate)",
             "name": "Antidote (Moderate) (Antidote (modéré))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’antidote vous protège contre les toxines. Lorsque vous le buvez, vous recevez un bonus d’objet aux jets de Vigueur contre les poisons pen‑ dant 6 h. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +3.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>"
+        },
+        {
+            "id": "Chime of Opening",
+            "name": "Chime of Opening (Carillon d'ouverture)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce tube de mithral creux fait une trentaine de centimètres de long. Il est orné de gravures représentant des cadenas ouverts et des chaînes brisées. Il s’active dix fois avant de se fissurer et de devenir inutile. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Effet</strong> Vous visez un récipient, une porte ou une serrure que vous voulez ouvrir avec le carillon et le faites tinter. Il envoie des vibrations magiques qui tentent un test de Vol contre le DD de la serrure, avec un bonus de Vol de +13. Cela affecte seulement une serrure ou un lien à la fois, vous devrez donc activer le carillon à plusieurs reprises pour ouvrir une cible dotée de plusieurs protections.</span></p>"
         },
         {
             "id": "Extra Ink and Paper",
@@ -2010,6 +2085,11 @@
             "id": "Marble altar",
             "name": "Marble altar (Autel en marbre)",
             "description": ""
+        },
+        {
+            "id": "Rod of Wonder",
+            "name": "Rod of Wonder (Sceptre merveilleux)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce curieux sceptre est aussi étrange qu’imprévisible. À chaque fois qu’il est activé, il produit un de ses nombreux effets au hasard.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> command, Interagir; <strong>Effet</strong> Choisissez une créature dans un rayon de 18 m et lan‑ cez un d100 dans le tableau pour déterminer l’effet du sceptre. Si une entrée indique uniquement le nom d’un sort, le sceptre lance ce sort à son niveau le plus bas. Sauf indication contraire, c’est à vous de prendre toutes les décisions liées au sort que lance le sceptre, mais il vise forcément la créature que vous avez choisie ou la prend forcément comme centre de la zone d’effet si le sort affecte une zone et non une cible. Si la portée du sort est inférieure à 18 m, passez‑la à 18 m.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Tout DD du sort est de 27 et tout jet d’attaque de sort est à +17. Si le sceptre lance le sort sur vous, vous n’avez pas droit à un jet de sauvegarde ou une autre défense contre lui.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Une fois activé, il faut attendre 1d4 heures avant de pouvoir le réactiver.</span></p>\n<p>Jeter les dés dans la table @Compendium[pf2e.rollable-tables.uYDzWM5ji52r4mSD]{Rod of Wonder}  pour déterminer l'effet&nbsp;</p>"
         },
         {
             "id": "Salamander Elixir (Moderate)",
@@ -2362,6 +2442,11 @@
             "description": "<p>Les fontes vont par paire. Chacune peut contenir des objets jusqu’à un Encombrement 3. La valeur d’Encombrement indiquée correspond aux fontes portées par une monture. Si vous transportez ou stockez des fontes, elles comptent pour un Encombrement 1 au lieu de léger. </p>"
         },
         {
+            "id": "Possibility Tome",
+            "name": "Possibility Tome (Livre des possibilités)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des pierres semi‑précieuses sont serties dans la couverture de cuivre et d’argent de cet épais et lourd volume. Si vous l’ouvrez avant de l’ac‑ tiver, ses pages de vélin sont vierges et immaculées, mais une fois activé, des mots dansent sur les pages.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> 10 min (imaginer, Interagir) ; <strong>Effet</strong> Vous pensez à un sujet assez vaste sur lequel vous désirez en savoir plus tout en feuilletant le livre. Choisissez une compétence : Arcanes, Artisanat, Médecine, Nature, Occultisme, Religion, Société ou une sous‑catégo‑ rie de Connaissances. Les pages du livre se remplissent d’informa‑ tions sur cette compétence, mais vous êtes le seul à les voir. Tant que les pages sont noires d’écriture, vous pouvez dépenser une ac‑ tion Interagir en parcourant le livre juste avant de faire un test de Se souvenir associé à la compétence choisie. Cela vous donne un bonus d’objet de +3 au test et, si vous essuyez un échec critique, il se transforme en simple échec. Les informations notées dans le livre disparaissent au bout de 24 heures ou si le livre est activé de nouveau.</span></p>"
+        },
+        {
             "id": "Religious Symbol (Wooden)",
             "name": "Religious Symbol (Wooden) (Symbole religieux (bois))",
             "description": "<p><span class=\"fontstyle0\">Ce morceau de bois ou d’argent est décoré de la représentation d’une divinité. Certains incantateurs divins, tels que les prêtres, peuvent utiliser un symbole religieux de leur divinité comme focaliseur divin pour utiliser certaines capacités et lancer des sorts. Un symbole religieux doit être tenu dans une main pour pouvoir être utilisé.</span> </p>"
@@ -2517,6 +2602,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque plume magique semble être une simple plume d’oiseau exotique. La tige, plaquée or, porte une unique rune arcanique. Une fois activée, la plume magique se transforme en un autre objet qui s’utilise alors normalement. Chaque plume s’active une seule fois et reste généralement sous la forme de l’objet en lequel elle s’est changée.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">À son activation, cette plume se transforme en <em>fouet @Compendium[pf2e.equipment-srd.DCPsilr8wbPXxTUv]{dansant} de frappe +1</em>. Il saute immédiatement hors de votre main et attaque vos ennemis pendant 1 min ou jusqu’à ce qu’il rate son test nu pour danser. Il disparaît alors. Si la cible du fouet n’est pas à terre, il utilise ses actions pour lui faire un Croc‑en‑Jambe au lieu de Frapper. Le modificateur d’attaque total du fouet pour Frapper ou faire un Croc‑en‑Jambe est de +18 au lieu du modificateur habituel des armes <em>dansantes</em>.&nbsp;</span></p>"
         },
         {
+            "id": "Maestro's Instrument (Greater)",
+            "name": "Maestro's Instrument (Greater) (Instrument de maestro (supérieur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un instrument du maestro se fabrique sous la forme de n’importe quel instrument de musique que l’on peut tenir en main. Il donne un bonus d’objet de +1 aux tests de Représentation lorsque l’on en joue.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interact; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>Vous pouvez jouer de l’instrument pour produire les effets du sort charme. <br><br><strong>Conditions de fabrication.</strong>  Fournir une incantation de <em>charme</em> du niveau approprié.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bonus d’objet est de +3 et charme de niveau 8.</span></p>"
+        },
+        {
             "id": "Antiplague (Greater)",
             "name": "Antiplague (Greater) (Antimaladie (supérieur))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’antimaladie renforce les défenses du corps contre les maladies. Lorsque vous le buvez, vous recevez un bonus d’objet aux jets de Vigueur contre les maladies pendant 24 h. Cela s’applique aussi à vos jets de sauvegarde contre la progression d’une maladie. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +4</span></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
@@ -2642,6 +2732,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette armure de peau de résilience +1 est faite en peau de rhinocéros. Son malus d’armure aux tests est de −1 au lieu de −3. Lorsque vous utilisez le don de classe Charge soudaine en portant cette armure, votre Frappe ajoute 1d8 dégâts de plus.&nbsp;<br><br><strong>Conditions de fabrication</strong>Les matériaux initiaux bruts doivent inclure 320 po de peau de rhinocéros (un matériau ordinaire)..</span></p>"
         },
         {
+            "id": "Bag of Holding (Type II)",
+            "name": "Bag of Holding (Type II) (Sac sans fond (Type 2))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Bien que ce sac en tissu orné de panneaux de soie aux riches cou‑ leurs ou de belles broderies ait l’air ordinaire, il ouvre sur un espace extradimensionnel bien plus grand que ce que pourrait contenir son enveloppe extérieure. L’Encombrement contenu dans le sac sans fond ne change pas son Encombrement à lui. La quantité d’Encombrement qu’il peut accueillir dépend de son type.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez Interagir avec le sac sans fond pour mettre un objet dedans ou le retirer, comme avec un sac ordinaire. Le sac a une grande contenance, mais pour y stocker un objet, il faut qu’il passe par son ouverture.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si le sac est surchargé ou brisé, il se déchire et est détruit, les objets qu’il contient étant perdus à jamais. S’il est mis sur l’envers, les objets qu’il contient se répandent à terre, intacts, mais il faut le remettre sur l’endroit avant de le réutiliser. Une créature vivante placée dans le sac a assez d’air pour respirer 10 min, ensuite elle commence à suffoquer. Elle peut faire un test DD 13 pour S’échapper. Un objet contenu dans \n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Capacité</strong> 50 encombrements&nbsp;</span></p>"
+        },
+        {
             "id": "Snare Kit (Specialist)",
             "name": "Snare Kit (Specialist) (Nécessaire de fabrication de pièges artisanaux spécialisé)",
             "description": "<p><span class=\"fontstyle0\">Ce kit contient des outils et du matériel pour fabriquer des pièges artisanaux. Un kit de braconnage vous permet de Fabriquer des pièges artisanaux à l’aide de la compétence Artisanat. Un kit de braconnage spécialisé vous accorde un bonus d’objet de +1 au test.</span> </p>"
@@ -2680,6 +2775,11 @@
             "id": "Backpack",
             "name": "Backpack (Sac à dos)",
             "description": "<p>Un sac à dos peut contenir des objets jusqu’à un Encombrement 4. Si vous transportez ou stockez le sac plutôt que de l’avoir sur le dos, son Encombrement devient léger à la place de négligeable. Les deux premiers Encombrements que vous rangez dans votre  sac à dos ne sont pas pris en compte dans votre limite  d’Encombrement.\n.&nbsp;</p>"
+        },
+        {
+            "id": "Salve of Antiparalysis (Greater)",
+            "name": "Salve of Antiparalysis (Greater) (Baume antiparalysie (supérieur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le baume antiparalysie supérieur peut dissiper la pétrification. La créa‑ ture enduite bénéficie des effets de délivrance de la paralysie niveau 6 et pierre en chair.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
             "id": "Zircon",
@@ -2880,6 +2980,11 @@
             "id": "Murderer's Knot",
             "name": "Murderer's Knot (Noeud du meurtier)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce lien de cuir noir est noué de manière à ressembler à un nœud de paix lorsque l’arme est au fourreau, mais il n’empêche pas de la tirer. Lorsque vous activez le nœud, la créature que vous blessez subit 1d6 dégâts de saignement persistants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous possédez le don Remuer le couteau, le talisman inflige à la place des dégâts de saignement persistants égaux à vos dégâts d’at‑ taque sournoise.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> sur ordre; <strong>Déclencheur</strong> Vous blessez une créature prise au dépourvu avec une Frappe de l’arme support ; <strong>Conditions</strong> Vous êtes expert avec l’arme support.</span></p>"
+        },
+        {
+            "id": "Decanter of Endless Water",
+            "name": "Decanter of Endless Water (Carafe intarissable)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet ressemble à une carafe en verre ordinaire remplie d’eau. Il est impossible d’enlever le bouchon à moins de pro‑ noncer l’un des trois mots de commande de l’objet, chacun d’eux faisant couler l’eau d’une manière donnée. Si vous tirez le bouchon pour l’enlever, la carafe produit de l’eau potable, si vous le faites tourner, elle produit de l’eau salée. Tout effet de la carafe se pour‑ suit jusqu’à ce qu’elle soit rebouchée (avec son bouchon, un doigt ou autre). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre, Interagir ; <strong>Effet</strong>  En disant « ruisseau », vous faites couler de l’eau au rythme de 4 L par round. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre, Interagir ;<strong>Effet</strong>  En disant « fontaine », vous faites couler de l’eau en un jet de 1,5 m de long au rythme de 20 L par round. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre, Interagir ;; <strong>Effet</strong>  En disant « geyser », vous faites jaillir l’eau en un puissant déluge de 60 L par round. Vous pouvez diriger le flot vers une créature pour la soumettre aux effets de poussée hydraulique (jet d’attaque de sort +15). Vous pouvez répéter cela une fois par round tant que le geyser continue de jaillir en dépensant une action Interagir à chaque fois pour diriger le geyser.</span></p>"
         },
         {
             "id": "Dust of Disappearance",

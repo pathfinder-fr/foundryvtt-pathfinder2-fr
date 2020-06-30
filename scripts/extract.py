@@ -103,7 +103,7 @@ for F in FILES:
         existing[id]['nameEN'] = source['name']
         existing[id]['descrEN'] = source['desc']
         
-        if existing[id]['status'] != "aucune" and existing[id]['oldstatus'] != "changé":
+        if existing[id]['status'] != "aucune" and existing[id]['status'] != "changé":
           existing[id]['oldstatus'] = existing[id]['status']
           existing[id]['status'] = "changé"
           
