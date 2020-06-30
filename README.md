@@ -42,3 +42,5 @@ Les erreurs dans les textes en vo peuvent être remontées sur le projet de Hook
 * equipment-4ftXXUCBHcf4b0MH Alchemist's tools -> wrong text replace by This mobile collection of vials and chemicals can be used for simple alchemical tasks.
 *  equipment-jJZbdMHMdh8UL2j8 Clothing (fine) -> a part of the text is missing.
 *  equipment-w4Hd6nunVVqw3GWj Basic Crafter's Book -> modify the sentence "for Crafting (the) common items (in this chapter)"
+*  feat ankle bite x 2
+*  feat Charlatan x 2
