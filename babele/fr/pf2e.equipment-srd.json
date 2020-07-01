@@ -137,6 +137,11 @@
             "description": "Une fois que vous avez bu cet élixir, votre vue devient plus perçante dans les ténèbres. Vous gagnez vision dans le noir pour la durée indiquée. La durée est de 24 h."
         },
         {
+            "id": "Returning",
+            "name": "Boomerang (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous faites une Frappe de jet avec cette arme, celle‑ci revient dans votre main en volant une fois la Frappe accomplie. Si vos mains sont pleines quand l’arme revient, celle‑ci tombe par terre dans votre espace.&nbsp;</span></p>"
+        },
+        {
             "id": "Dancing Scarf",
             "name": "Echarpe dansante",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette longue écharpe ondoyante est généralement confectionnée dans de la soie ou dans du tissu extra‑fin et ornée de clochettes et autres breloques de métal étincelant. Elle confère un bonus d’objet de +1 aux tests de Représentation pour danser.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Conditions</strong> On your most recent action, you succeeded at a Performance check to dance; <strong>Effet</strong> Vous devenez masqué jusqu’au début de votre prochain tour</span></p>"
@@ -175,6 +180,11 @@
             "id": "Diamond, large",
             "name": "Diamant, gros",
             "description": ""
+        },
+        {
+            "id": "Frost",
+            "name": "Froid (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La glace et le froid donnent à cette arme son pouvoir. Elle inflige 1d6 dégâts de froid supplémentaires en cas de Frappe réussie. En cas de coup critique, la cible est également ralentie 1 jusqu’à la fin de votre prochain tour, à moins qu’elle ne réussisse un jet de Vigueur DD 24.</span></p>"
         },
         {
             "id": "Disguise Kit (Elite)",
@@ -322,6 +332,11 @@
             "description": "<p><span class=\"fontstyle0\">Cette épée à large lame, parfois appelée épée à une-main-et-demie, a une prise plus longue et peut donc être tenue d’une main ou utilisée à deux mains pour fournir une puissance perforante ou tranchante supplémentaire.</span></p>\n<p>&nbsp;</p>"
         },
         {
+            "id": "Nightmare Vapor",
+            "name": "Vapeur de chauchemar",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">On dit que la vapeur de cauchemar vient de contrées étranges, mais elle se fabrique d’ordinaire en faisant bouillir la sueur récoltée sur des humanoïdes en proie à d’horribles cauchemars. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegard</strong> Vigueur DD 36; <strong>Délai</strong>1 round; <strong> Durée maximum </strong> 6 rounds; <strong>Stade 1</strong> confus (1 round); <strong>Stade 2</strong>confus et pris au dépourvu (1 round) ;  <strong>Stade 3</strong> cconfus, pris au dépourvu et stupéfié 2 (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir&nbsp;</span></p>"
+        },
+        {
             "id": "Axiomatic",
             "name": "Axiomatique",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Complexe et symétrique, une rune axiomatique imprègne une arme d’énergie loyale. Une arme avec cette rune inflige 1d6 dégâts loyaux supplémentaires aux cibles d’alignement chaotique. Si vous êtes d’alignement chaotique, vous êtes affaibli 2 tant que vous portez ou ma‑\nniez cette arme. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous obtenez un coup critique sur un jet d’attaque avec cette arme contre une créature d’alignement chaotique, au lieu de faire un jet de dégâts, considérez que chaque dé de dégâts de l’arme donne un résultat moyen arrondi au supérieur (3 pour un d4, 4 pour un d6, 5 pour un d8, 7 pour un d12).<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de favrication</strong> Vous êtes d'alignement loyal.</span></p>"
@@ -347,9 +362,19 @@
             "description": ""
         },
         {
+            "id": "Hunting Spider Venom",
+            "name": "Venin d'araignée chasseresse",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce venin érode les défenses de la victime, aidant l’araignée à la maîtriser.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong>  Vigueur DD 21 DC; <strong>Durée maximum</strong> 6 rounds; <strong>Stade 1</strong> 1d10 dégâts de poison et pris au dépourvu (1 round) ; <strong>Stade 2</strong>1d12 dégâts de poison, maladroit 1 et pris au dépourvu (1 round) ;<strong>Stade 3</strong> 2d6 dégâts de poison, maladroit 2 et pris au dépourvu (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
+        },
+        {
             "id": "Greatclub",
             "name": "Massue",
             "description": "<p>Beaucoup de massues sont finement sculptées, tandis que d’autres ne sont guère plus qu’une branche d’arbre robuste. Ces massues imposantes sont trop lourdes pour pouvoir les manier d’une seule main</p>"
+        },
+        {
+            "id": "Corrosive",
+            "name": "Corrosive (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">De l’acide grésille à la surface de l’arme. Quand vous réussissez une attaque avec l’arme, ajoutez 1d6 dégâts d’acide aux dégâts infligés. De plus, en cas de coup critique, l’armure de la cible (si elle en porte une) subit 3d6 dégâts d’acide (avant d’appliquer la Solidité) ; si la cible a un bouclier levé, celui‑ci subit ces dégâts à la place.</span></p>"
         },
         {
             "id": "Spellbook (Blank)",
@@ -388,7 +413,7 @@
         },
         {
             "id": "Dancing",
-            "name": "Dansante",
+            "name": "Dansante (rune)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une arme dansante vole de manière autonome et frappe vos ennemis. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> sur ordre, Interagir ; <strong>Effet</strong>Vous lâchez l’arme qui se met à danser dans les airs en combattant de manière indépendante le dernier ennemi que vous avez attaqué ou celui le plus proche si votre cible est vaincue. Chaque round, à la fin de votre tour, l’arme peut Voler à sa Vitesse de vol de 12 m et elle peut ensuite Voler à nouveau ou Frapper une créature à portée.<br /><br />L’arme occupe un espace de 1,50 m mais elle ne bloque pas ou ne gêne pas les ennemis qui tentent de traverser son espace. Elle ne peut pas non plus prendre un ennemi en tenaille ni bénéficier d’une prise en tenaille. L’arme ne peut pas traverser l’espace occupé par un ennemi. Elle ne peut pas utiliser de réactions et ses actions Voler ne déclenchent aucune réaction. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Tant qu’elle est activée, une arme dansante effectue des Frappes avec un modificateur d’attaque de +24 plus son bonus d’objet aux jets d’at‑ taque. Elle inflige les dégâts normaux de l’arme mais a un modificateur de Force de +0. Les pouvoirs de l’arme qui se déclenchent automatiquement en cas de coup normal ou critique fonctionnent toujours mais l’arme ne peut pas être activée ou bénéficier de vos pouvoirs lorsqu’elle danse. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque round, effectuez un test nu DD 6 quand l’arme a fini d’utiliser ses actions. En cas d’échec, l’activation se termine et l’arme tombe par terre. Vous devez attendre dix minutes avant de pouvoir réactiver l’objet.</span></p>"
         },
         {
@@ -410,6 +435,11 @@
             "id": "Shining Ammunition",
             "name": "Munition luisante",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une<em>munition luisante</em>  émet une faible lueur. Une fois tirée, elle émet une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà) pendant 10 min. Si elle touche une cible, elle s’y colle, la cible émettant donc de la lumière dans le même rayon. Une créature peut retirer la munition avec l’action Interagir, mais la munition conti‑ nue de briller pour le reste de la durée ou jusqu’à sa destruction. &nbsp;</span></p>"
+        },
+        {
+            "id": "Refined Pesh",
+            "name": "Pesh raffiné",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsqu'il est mangé ou fumé, le pesh donne aux utilisateurs un sentiment de bien-être, parfois accompagné d'hallucinations, d'agressivité et d'épuisement.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 12; <strong>Délai</strong> 1 minute; <strong>Durée maximum</strong> 6 heures; <strong>Stade 1</strong> stupefié 1 et bonus d'objet +2 aux jets de sauvegarde contre la peur (1 minute); <strong>Stade 2</strong> 1 point de vie temporaire par niveau (La première fois, vous atteignez seulement ce stade), bonus d'objet +2 aux jets de sauvegarde contre la peur (1 minute), étourdi 1 et stupefié 1 (1 minute); <strong>Stage 3</strong> étourdi 2 et stupefié 2 (1 heure)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
             "id": "Candle",
@@ -587,9 +617,19 @@
             "description": ""
         },
         {
+            "id": "Striking",
+            "name": "Frappe (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une <em>rune de frappe</em> contient la magie destructrice de l’arme, ce qui permet à l’arme d’infliger deux dés de dégâts au lieu d’un seul. Par exemple, une dague de frappe +1 inflige 2d4 dégâts au lieu de 1d4.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la <em>rune de frappe</em> déjà gravée sur une arme en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la for‑ mule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>"
+        },
+        {
             "id": "Heavy Crossbow",
             "name": "Arbalète lourde",
             "description": "<p><span class=\"fontstyle0\">Cette grande arbalète est plus difficile à charger et plus conséquente qu’une arbalète classique, mais elle a davantage de puissance. </span> </p>"
+        },
+        {
+            "id": "Mindfog Mist",
+            "name": "Brumentale",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La brumentale sert à handicaper les incantateurs car elle possède un effet aussi puissant que rapide sur les facultés mentales de sa victime. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 35; <strong>Délai</strong>1 round; <strong> Durée maximum </strong> 6 rounds; <strong>Stade 1</strong> stupéfié 2 (1 round);  <strong>Stade 2</strong>  confus et stupéfié 3 (1 round);  <strong>Stade 3</strong> confus et stupéfié 4 (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
             "id": "Light Mace",
@@ -655,6 +695,11 @@
             "id": "Thunderstone (Lesser)",
             "name": "Pierre à tonnerre (inférieur)",
             "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant. Elle inflige les dégâts de son et d’éclaboussure de son indiqués. Chaque créature dans un rayon de 3 m autour de l’espace où elle a explosé doit réussir un jet de Vigueur contre le DD indiqué ou être sourde jusqu’à la fin de son prochain tour. Plusieurs types de pierre donnent un bonus d’objet aux jets d’attaque. La bombe inflige 1d4 dégâts de son et 1 dégât d’éclaboussure de son. Le DD est de 17.</p>"
+        },
+        {
+            "id": "Spider Root",
+            "name": "Racine arachnide",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La racine arachnide est une pâte fabriquée à partir de minces racines de certaines plantes grimpantes et rend sa victime maladroite et gauche.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 28 ;  <strong>Délai</strong>1 minute; <strong>Maximum Duration</strong> 6 minutes; <strong>Stade 1</strong>  8d6 dégâts de poison et maladroit 1 (1 min) ;  <strong>Stade 2</strong> 9d6 dégâts de poison et maladroit 2 (1 min); <strong>Stade 3</strong>  10d6 dégâts de poison et maladroit 3 (1 min)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir&nbsp;</span></p>"
         },
         {
             "id": "Bladed Scarf",
@@ -892,6 +937,16 @@
             "description": "<p><span class=\"fontstyle0\">Ce kit comprend une canne à pêche démontable, des hameçons, une ligne, des leurres et un filet de pêche. Les articles de pêche professionnels confèrent un bonus d’objet de +1 aux tests pour pêcher. </span> </p>"
         },
         {
+            "id": "Purple Worm Venom",
+            "name": "Venin de ver pourpre",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le venin des énormes vers pourpres affaiblit sa victime.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 32; <strong> Durée maximum </strong> 6 rounds; <strong>Stade 1</strong>  5d6 dégâts de poison et affaibli 2 (1 round) ; <strong>Stade 2</strong>  6d6 dégâts de poison et affaibli 2 (1 round) ; <strong>Stade 3</strong>  8d6 dégâts de poison et affaibli 2 (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activate</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
+        },
+        {
+            "id": "Smokestick (Lesser)",
+            "name": "Bâton fumigène (inférieur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">D’un mouvement sec, vous faites sortir de l’objet un épais écran de fumée opaque qui occupe une explosion centrée sur un angle de votre espace. Toutes les créatures au sein de cette zone sont masquées et les autres sont masquées à leurs yeux. La fumée persiste 1 min ou jusqu’à être dispersée par un vent fort.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><span id=\"ctl00_MainContent_DetailedOutput\">L’explosion a un rayon de 1,5 m.</span></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
             "id": "Writing Set",
             "name": "Nécessaire d'écriture",
             "description": "<p><span class=\"fontstyle0\">à l’aide d’un nécessaire d’écriture, vous pouvez rédiger une correspondance et des parchemins. Un nécessaire comprend des articles de papeterie, notamment du papier et du parchemin, ainsi que de l’encre, une plume ou un stylo-plume, de la cire à cacheter et un sceau simple. Si vous avez écrit une grande quantité de texte, vous pouvez recharger votre nécessaire avec de l’encre et du papier supplémentaires. </span></p>"
@@ -957,6 +1012,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque plume magique semble être une simple plume d’oiseau exotique. La tige, plaquée or, porte une unique rune arcanique. Une fois activée, la plume magique se transforme en un autre objet qui s’utilise alors normalement. Chaque plume s’active une seule fois et reste généralement sous la forme de l’objet en lequel elle s’est changée.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette plume s’active uniquement à bord d’un bateau. Elle se trans‑ forme alors en ancre massive qui arrête immédiatement l’embarca‑ tion. Elle disparaît au bout d’un jour et le bateau peut reprendre sa course. L’ancre est fixée au navire par une chaîne de force magique que l’on peut éliminer avec dissipation de la magie ou briser (Solidité 30, 40 PV). &nbsp;</span></p>"
         },
         {
+            "id": "Hemlock",
+            "name": "Cigüe",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La ciguë concentrée est une toxine redoutable qui entrave l’action des muscles, y compris du cœur.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 40; <strong>Délai</strong>30 minutes; <strong>Durée maximum</strong> 60 minutes; <strong>Stade 1</strong> 1 17d6 dégâts de poison et affaibli 2 (10 min);  <strong>Stade 2</strong> 21d6 dégâts de poison et affaibli 3 (10 min); <strong>Stade 3</strong> 26d6 dégâts de poison et affaibli 4 (10 min)  <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
             "id": "Aeon Stone (Lavender and Green Ellipsoid)",
             "name": "Pierre d'éternité (ellipsoïde vert et lavande)",
             "description": "<p>Cette pierre fonctionne comme une pierre d’éternité ellipsoïde lavande mais elle lance une dissipation de la magie de niveau 8 avec un modificateur de contre de +31.</p>\n<p>Le pouvoir de résonance vous permet de lancer à volonté @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{détection de la magie} et @Compendium[pf2e.spells-srd.OhD2Z6rIGGD5ocZA]{lecture de l’aura} comme des sorts innés arcaniques.</p>"
@@ -970,6 +1030,11 @@
             "id": "Chandelier crafted from dreams",
             "name": "Chandelier confectionné à partir de songes",
             "description": ""
+        },
+        {
+            "id": "Brimstone Fumes",
+            "name": "Fumées sulfureuses",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les fumées des forges des Enfers drainent la santé et sapent les forces. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 36;  <strong>Délai</strong>1 round; <strong>Durée maximum</strong> 6 rounds; <strong>Stade 1</strong> 7d6 dégâts de poison et affaibli 1 (1 round); <strong>Stade 2</strong>  8d6 dégâts de poison et affaibli 2 (1 round);<strong>Stade 3</strong> 10d6 dégâts de poison et affaibli 3 (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interact&nbsp;</span></p>"
         },
         {
             "id": "Staff of Healing",
@@ -1032,6 +1097,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette armure de peau <em> +1</em> cousue à partir de lambeaux de peau de goule vous donne un bonus d’objet de +1 aux jets de sauvegarde contre la maladie et la paralysie et vous immunise contre la paralysie des goules. <em>Une peau de goule</em> améliorée avec <em>une rune de résilience</em> augmente le bonus d’objet de la rune de résilience aux jets de sauvegarde contre la maladie et la paralysie de 1 (+4 au maximum).</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><em>La peau de goule</em> émet un sifflement haineux dès qu’elle entre en contact avec un elfe. Si elle est portée par une créature dotée du trait elfique, elle gagne le trait bruyante&nbsp;&nbsp;</span></p>"
         },
         {
+            "id": "Weapon Potency (+2)",
+            "name": "Puissance d'arme +2 (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Grâce aux améliorations magiques de cette rune, l’arme atteint plus souvent ses cibles. Les jets d’attaques avec cette arme bénéficient d’un bonus d’objet de +1 et on peut graver une rune de propriété sur l’arme.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la rune de puissance d’arme déjà gravée sur une arme en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bonus d’objet aux jets d’attaque est de +2 et on peut graver deux runes de propriété sur l’arme. <br /><strong>Conditions de fabrication</strong> Vous êtes un maître en Artisanat</span></p>"
+        },
+        {
             "id": "Light Hammer",
             "name": "Marteau léger",
             "description": "<p>Cette version plus petite du marteau de guerre possède un manche en bois ou en métal se terminant par une tête métallique. Contrairement à son cousin plus lourd, il est suffisamment léger pour pouvoir être lancé.</p>"
@@ -1092,9 +1162,19 @@
             "description": "<p><span class=\"fontstyle0\"> les instruments portatifs comprennent les cornemuses, le petit carillon, les petits tambours, les violons et violes, les flûtes traversières et les flûtes à bec, les petites harpes, les luths, les trompettes et instruments de taille similaire. Le MJ peut décider qu’un instrument portatif particulièrement volumineux (comme le tuba) a un Encombrement plus important. Les instruments lourds tels que les gros tambours, un carillon complet et les instruments à clavier sont beaucoup moins portatifs et se jouent généralement immobilisés. Un instrument virtuose accorde un bonus d’objet de +1 aux tests de Représentation.</span> </p>"
         },
         {
+            "id": "Frost (Greater)",
+            "name": "Froid supérieure (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La glace et le froid donnent à cette arme son pouvoir. Elle inflige 1d6 dégâts de froid supplémentaires en cas de Frappe réussie. En cas de coup critique, la cible est également ralentie 1 jusqu’à la fin de votre prochain tour, à moins qu’elle ne réussisse un jet de Vigueur DD 34. .&nbsp;</span> Les dégâts de froid infligés par cette arme ignorent la résistance au froid de la cible.&nbsp;</p>"
+        },
+        {
             "id": "Bloodseeker Beak",
             "name": "Trompe de cherchesang",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Du sang continue de perler au bout de ce long proboscis creux récupéré sur le célèbre cherchesang. Lorsque vous activez le bec, vous infligez 1d4 dégâts de précision supplémentaires lors de votre jet de dégâts. Si vous infligez des dégâts d’attaque sour‑ noise à la cible, elle subit également 1d4 dégâts de saignement persistants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous touchez une créature prise au dépourvu avec l’arme support. </span></p>"
+        },
+        {
+            "id": "Wounding",
+            "name": "Sanglante (rune)",
+            "description": "<p>On raconte que les armes gravées d’une rune sanglante sont assoiffées de sang. Quand vous touchez une créature avec une arme sanglante, vous infli‑ gez 1d6 dégâts de saignement persistants supplémentaires. En cas de coup critique, l’arme inflige à la place 1d12 dégâts de saignement persistants.</p>"
         },
         {
             "id": "Aeon Stone (Gold Nodule)",
@@ -1105,6 +1185,11 @@
             "id": "Belladonna",
             "name": "Belladone",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Parfois appelée « cerise du diable », la belladone est une toxine facile à se procurer produite par une plante apparentée à la tomate.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegard</strong>Vigueur DD 19 ; <strong>Délai</strong>10 minutes; <strong>Durée maximum</strong> 30 minutes; <strong>Stade 1</strong> ébloui (10 min) ; <strong>Stade 2</strong> 1d6 dégâts de poison et malade 1 (10 min); <strong>Stade 3</strong> 1d6 dégâts de poison, confus et malade 1 (1 minute)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
+        },
+        {
+            "id": "Flaming (Greater)",
+            "name": "Enflamée supérieure (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une flamme vacillante donne à cette arme son pouvoir. L’arme inflige 1d6 dégâts de feu supplémentaires en cas de Frappe réussie, plus 2d10 dégâts de feu persistants en cas de coup critique. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"> Les dégâts de feu infligés par cette arme (y compris les dégâts de feu per‑ sistants) ignorent la résistance au feu de la cible.</span></p>"
         },
         {
             "id": "Sturdy Shield (Moderate)",
@@ -1120,6 +1205,11 @@
             "id": "Potion of Resistance (Lesser)",
             "name": "Potion de résistance (inférieur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre). Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié. &nbsp;</span></p>"
+        },
+        {
+            "id": "Spell-Storing",
+            "name": "Stockage de sort (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une rune de stockage de sort crée un réservoir d’énergie magique à l’intérieur de l’arme gravée. Un incantateur peut passer une minute à lancer un sort de niveau 3 ou moins dans l’arme. Le sort doit avoir une incantation de 2 actions ou moins et doit pouvoir cibler une créature autre que l’incantateur. Le sort ne produit aucun effet immédiat — il est stocké à la place pour une utilisation ultérieure. Quand vous maniez une arme de stockage de sort, vous connaissez immédiatement le nom et le niveau du sort stocké. Une arme de stockage de sort trouvée en guise de trésor a 50 % de chances de contenir un sort choisi par le MJ.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Conditions</strong> Lors de votre action précé‑ dente ce tour, vous touchez et infligez des dégâts à une créature avec cette arme; <strong>Effect</strong> Vous libérez le sort stocké qui prend pour cible la créature que vous venez d’attaquer et de blesser. L’arme ne contient ensuite plus aucun sort et on peut en incanter un nouveau pour le stoc‑ ker dans l’arme. Si le sort nécessite un jet d’attaque de sort, le résultat de votre jet d’attaque avec l’arme détermine le degré de succès du sort, et si le sort nécessite un jet de sauvegarde, le DD est de 30. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Effet</strong> Permet de dépenser le sort stocké de manière inoffensive. Ceci permet de vider l’arme pour incanter un nouveau sort et le stocker à l’intérieur.</span></p>"
         },
         {
             "id": "Adventurer's pack",
@@ -1192,9 +1282,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des protections magiques dévient les attaques. Augmentez de 1 le bonus d’objet à la CA de l’armure. On peut graver une rune de propriété sur l’armure.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la <em>rune de puissance</em> déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes un expert en Artisanat.</span></p>"
         },
         {
+            "id": "Giant Wasp Venom",
+            "name": "Venin de guèpe géante",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le venin de guêpe géante interfère avec les mouvements d’une victime. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 25 ; <strong>Durée maximum</strong> 6 rounds; <strong>Stade 1</strong>  2d6 dégâts de poison et maladroit 1 (1 round) ;<strong>Stade 2</strong> 3d6 dégâts de poison et maladroit 2 (1 round) ;<strong>Stade 3</strong> 4d6 dégâts de poison et maladroit 2 (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
+        },
+        {
             "id": "Cognitive Mutagen (Lesser)",
             "name": "Mutagène cognitif",
             "description": "Votre esprit devient limpide et rien n’entrave vos facultés intellectuelles, mais la matière physique vous semble éphémère. Le bonus est de +1 et la durée de 1 min.\nAvantage. Vous gagnez un bonus d’objet aux tests d’Arcanes, d’Artisanat, de Connaissances, d’Occultisme et de Société, ainsi qu’à tous les tests pour Se souvenir. Vos échecs critiques aux tests de Se souvenir deviennent de simples échecs. \nInconvénient. Vous subissez un malus de −2 aux jets d’attaque avec une arme ou à mains nues, ainsi qu’aux tests d’Athlétisme et d’Acrobaties. Vous êtes surchargé à partir de 2 Encombrements de moins que d’ordinaire et le maximum d’Encombrements que vous pouvez porter est réduit de 4."
+        },
+        {
+            "id": "Giant Scorpion Venom",
+            "name": "Venin de scorpion géant",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le venin de scorpion est extrêmement douloureux et possède des ef‑ fets affaiblissants<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 22 ;<strong>Durée maximum</strong> 6 rounds; <strong>Stade 1</strong> 1d10 dégâts de poison et affaibli 1 (1 round); <strong>Stade 2</strong> 2d10 dégâts de poison et affaibli 1 (1 round) ;<strong>Stade 3</strong>  2d10 dégâts de poison et affaibli 2 (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
         },
         {
             "id": "Alchemist's Fire (Lesser)",
@@ -1300,6 +1400,11 @@
             "id": "Belt Pouch",
             "name": "Bourse",
             "description": "<p><span class=\"fontstyle0\">Une bourse peut contenir jusqu’à quatre objets d’Encombrement léger.</span> </p>"
+        },
+        {
+            "id": "Shock (Greater)",
+            "name": "Foudre supérieure (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des arcs électriques crépitent sur cette arme, infligeant 1d6 dégâts d’électricité supplémentaires en cas d’attaque réussie. Sur un coup critique, des arcs électriques plus importants infligent un montant iden‑ tique de dégâts d’électricité à une ou deux autres créatures de votre choix situées à 3 m ou moins de la cible&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Les dégâts d’électricité infligés par cette arme ignorent la résistance à l’électricité de la cible (et celles des autres créatures en cas de coup critique).</span></p>"
         },
         {
             "id": "Elixir of Life (Major)",
@@ -1422,6 +1527,11 @@
             "description": "<p>Cette arme d’hast est un long trident avec une branche centrale plus longue que les deux autres.</p>"
         },
         {
+            "id": "Nettleweed Residue",
+            "name": "Résidu de lierrortie",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La sève concentrée de plantes urticantes donne un poison efficace.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 27; <strong>Délai</strong>1 minute; <strong>Maximum Duration</strong> 6 minutes; <strong>Stade 1</strong>  8d6 dégâts de poison (1 min); <strong>Stade 2</strong> 10d6 dégâts de poison (1 min) ; <strong>Stade 3</strong>  13d6 dégâts de poison (1 min)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
             "id": "Healing Potion (Greater)",
             "name": "Potion de guérison (supérieur)",
             "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué.La potion rend 6d8+20 points de vie.</p>"
@@ -1502,6 +1612,11 @@
             "description": "<p><span class=\"fontstyle0\">Ce type d’armure est constitué d’une cotte de mailles renforcée de plates métalliques souples s’emboîtant les unes dans les autres, localisées généralement sur le torse, les bras et les jambes du porteur. Une telle armure inclut une sous-couche d’armure matelassée (voir ci-dessus) et une paire de gantelets (page 285).</span> </p>"
         },
         {
+            "id": "Speed",
+            "name": "Rapide (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les attaques effectuées avec une arme <em>rapide</em> sont incroyablement fulgurantes. Tant que vous maniez une arme <em>rapide</em>, vous obtenez l’état accéléré mais vous ne pouvez utiliser l’action supplémentaire qu’elle confère que pour Frapper avec l’arme gravée.&nbsp;</span></p>"
+        },
+        {
             "id": "Hampering Snare",
             "name": "Piège artisanal ralentisseur",
             "description": "<p>Vous assemblez des ronces, du fil de fer, de la matière gluante et col‑ lante, et d’autres matériaux de manière à gêner les déplacements d’une créature. La case contenant ce piège artisanal, ainsi que les trois cases adjacentes (pour former une zone de 3 m de côté), deviennent un ter‑ rain difficile quand la première créature y pénètre. Le terrain difficile affecte immédiatement le déplacement de la créature, y compris son déplacement dans la case qui déclenche le piège, et il persiste pendant 1d4 rounds après son déclenchement. Une créature peut effectuer une action Interagir pour débarrasser une unique case de ce terrain difficile avant la fin de sa durée.&nbsp;&nbsp;</p>"
@@ -1525,6 +1640,16 @@
             "id": "Cognitive Mutagen (Greater)",
             "name": "Mutagène cognitif (supérieur)",
             "description": "<p>Votre esprit devient limpide et rien n’entrave vos facultés intel‑ lectuelles, mais la matière physique vous semble éphémère..&nbsp;<span id=\"ctl00_MainContent_DetailedOutput\">Le bonus est de +3 et la durée de 1 h. Vous êtes qualifié dans une compétence basée sur l’Intelligence, à choisir à la création de l’élixir. </span></p>"
+        },
+        {
+            "id": "Weapon Potency (+3)",
+            "name": "Puissance d'arme +3 (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Grâce aux améliorations magiques de cette rune, l’arme atteint plus souvent ses cibles. Les jets d’attaques avec cette arme bénéficient d’un bonus d’objet de +1 et on peut graver une rune de propriété sur l’arme.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la rune de puissance d’arme déjà gravée sur une arme en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bonus d’objet aux jets d’attaque est de +3 et on peut graver trois runes de propriété sur l’arme. <br /><strong>Conditions de fabrication</strong> Vous êtes légendaire en Artisanat.</span></p>"
+        },
+        {
+            "id": "Shock",
+            "name": "Foudre (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des arcs électriques crépitent sur cette arme, infligeant 1d6 dégâts d’électricité supplémentaires en cas d’attaque réussie. Sur un coup cri‑ tique, des arcs électriques plus importants infligent un montant iden‑ tique de dégâts d’électricité à une ou deux autres créatures de votre choix situées à 3 m ou moins de la cible&nbsp;</span></p>"
         },
         {
             "id": "Copper and spinel puzzle box",
@@ -1657,6 +1782,11 @@
             "description": ""
         },
         {
+            "id": "Resilient",
+            "name": "Résilience (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les runes de <em>résilience</em> confèrent aux armures une magie protectrice supplémentaire. Celle‑ci octroie au porteur de l’armure un bonus d’objet de +1 aux jets de sauvegarde. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la rune de résilience déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes. </span></p>"
+        },
+        {
             "id": "Amethyst",
             "name": "Amethyste",
             "description": ""
@@ -1717,6 +1847,11 @@
             "description": ""
         },
         {
+            "id": "Black Adder Venom",
+            "name": "Venin de vipère noire",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le venin de vipère est un moyen simple, mais efficace d’améliorer une arme.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde </strong>Vigueur DD 18; <strong>Durée maximum</strong> 3 rounds; <strong>Stade 1</strong> 1d8 dégâts de poison (1 round)<strong>Stade&nbsp;2</strong>  1d10 dégâts de poison (1 round) ;<strong>Stade 3</strong> 2d6 dégâts de poison (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
+        },
+        {
             "id": "Oil of Weightlessness (Greater)",
             "name": "Huile d'apesanteur (supérieure)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez enduire un objet d’Encombrement 1 ou moins avec cette huile scintillante pour qu’il paraisse ne rien peser. Son Encombrement devient négligeable pendant 1 h. Cette huile peut affecter un objet de 2 Encombrements ou moins et dure 8 h.&nbsp;</span></p>"
@@ -1757,9 +1892,19 @@
             "description": "<p><span class=\"fontstyle0\">vous pouvez menotter une personne volontaire ou à votre merci comme une activité d’exploration prenant 10 à 30 secondes, en fonction de la taille de la créature et du nombre de menottes que vous utilisez. Une créature bipède ayant ces membres attachés subit un malus de circonstance de –4,5 m à sa Vitesse, et une créature à deux mains ayant les poignets attachés doit réussir un test nu DD 5 chaque fois qu’elle utilise une action de manipulation ou que cette action échoue. Ce DD peut être plus élevé en fonction de la force avec laquelle les menottes contraignent les mains. Une créature attachée à un objet immobile est elle-même immobilisée. Dans le cas de créatures ayant plus ou moins de membres, le MJ détermine l’effet éventuel des menottes. Libérer une créature de menottes médiocres nécessite de réussir deux tests de Vol DD 17, des menottes simples exigent de leur côté trois succès DD 22, des menottes intermédiaires quatre succès DD 27, de bonnes menottes cinq succès DD 32 et des menottes supérieures six succès DD 42. </span></p>"
         },
         {
+            "id": "Weapon Potency (+1)",
+            "name": "Puissance d'arme +1 (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Grâce aux améliorations magiques de cette rune, l’arme atteint plus souvent ses cibles. Les jets d’attaques avec cette arme bénéficient d’un bonus d’objet de +1 et on peut graver une rune de propriété sur l’arme.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la  de <em>puissance d’arme</em>  déjà gravée sur une arme en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes un expert en Artisanat.</span></p>"
+        },
+        {
             "id": "Antiplague (Major)",
             "name": "Antimaladie (majeur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’antimaladie renforce les défenses du corps contre les maladies. Lorsque vous le buvez, vous recevez un bonus d’objet aux jets de Vigueur contre les maladies pendant 24 h. Cela s’applique aussi à vos jets de sauvegarde contre la progression d’une maladie.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +4 et, lorsque vous buvez l’anti‑maladie, vous pouvez faire de suite un jet de sauvegarde contre une maladie de niveau 14 ou moins qui vous affecte. En cas de succès, vous êtes guéri.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
+            "id": "Shifting",
+            "name": "Changeante (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En manipulant l’arme un bref instant, vous pouvez la transformer en une arme différente mais de forme similaire.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Effet</strong>  L’arme prend la forme d’une autre arme de corps à corps nécessitant le même nombre de mains pour la manier. Les runes de l’arme et les éventuels matériaux précieux dont elle est faite s’appliquent à sa nouvelle forme. Les éventuelles runes de propriété qui ne peuvent pas s’appliquer à la nouvelle forme sont répri‑ mées jusqu’à ce que l’objet adopte une forme autorisant leur application.</span></p>"
         },
         {
             "id": "War Flail",
@@ -1775,6 +1920,11 @@
             "id": "Potion of Flying (Standard)",
             "name": "Potion de vol (standard)",
             "description": "<p>Une fois que vous avez bu cette décoction effervescente, vous gagnez une Vitesse de vol de 12 m pendant 1 min.</p>"
+        },
+        {
+            "id": "Ghost Touch",
+            "name": "Spectrale (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’arme peut blesser les créatures dénuées de forme physique. Une arme spectrale est particulièrement efficace contre les créatures intan‑ gibles dont la plupart ont toujours une faiblesse particulière aux armes spectrales. Les créatures intangibles peuvent toucher, tenir et manier des armes spectrales (au contraire de la plupart des objets physiques).&nbsp;</span></p>"
         },
         {
             "id": "Rations",
@@ -1875,6 +2025,11 @@
             "id": "Silvertongue Mutagen (Moderate)",
             "name": "Mutagène de langue dorée (modéré)",
             "description": "Vos traits deviennent séduisants et votre voix musicale et autoritaire, en revanche, les faits et les chiffres deviennent flous et l’émotion obs‑ curcit votre raisonnement. Le bonus est de +2 et la durée de 10 min."
+        },
+        {
+            "id": "Unholy",
+            "name": "Impie (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une rune <em>impie</em> injecte de l’énergie fiélone dans l’arme gravée. Une arme avec cette rune inflige 1d6 dégâts mauvais supplémentaires quand elle touche une cible d’alignement bon. Si vous êtes d’alignement bon, vous êtes affaibli 2 tant que vous portez ou maniez cette arme. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong>  Vous ob‑ tenez un succès critique sur un jet d’attaque avec cette arme contre une créature d’alignement bon; <strong>Effet</strong> La cible subit un montant de dégâts de saignement persistants égal à 1d8 par dé de dégâts d’arme de l’arme gravée.</span></p>"
         },
         {
             "id": "Shield Spikes",
@@ -1987,6 +2142,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce tube de mithral creux fait une trentaine de centimètres de long. Il est orné de gravures représentant des cadenas ouverts et des chaînes brisées. Il s’active dix fois avant de se fissurer et de devenir inutile. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Effet</strong> Vous visez un récipient, une porte ou une serrure que vous voulez ouvrir avec le carillon et le faites tinter. Il envoie des vibrations magiques qui tentent un test de Vol contre le DD de la serrure, avec un bonus de Vol de +13. Cela affecte seulement une serrure ou un lien à la fois, vous devrez donc activer le carillon à plusieurs reprises pour ouvrir une cible dotée de plusieurs protections.</span></p>"
         },
         {
+            "id": "King's Sleep",
+            "name": "Sommeil du roi",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le sommeil du roi est un poison insidieux qui agit sur le long terme et passe pour une maladie ou même une mort naturelle chez un sujet âgé. L’état drainé dû au sommeil du roi est cumulatif à chaque jet de sauvegarde raté et ne peut être dissipé tant que le poison persiste dans l’organisme. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 41 ; <strong>Délai</strong> 1 jour; <strong>Stade 1</strong>  drainé 1 (1 jour) ; ; <strong>Stade 2</strong>  drainé 1 (1 jour) ; <strong>Stade 3</strong>  drainé 2 (1 jour) ; <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
             "id": "Extra Ink and Paper",
             "name": "Encre eet papier supplémentaires",
             "description": "<p><span class=\"fontstyle0\">Vous pouvez recharger votre nécessaire d'écriture avec de l’encre et du papier supplémentaires.</span></p>"
@@ -2010,6 +2170,11 @@
             "id": "Cookware",
             "name": "Batterie de cuisine",
             "description": ""
+        },
+        {
+            "id": "Resilient (Major)",
+            "name": "Résilience majeure (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les runes de résilience confèrent aux armures une magie protectrice supplémentaire. L’armure confère un bonus d’objet de +3 aux jets de sauvegarde.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la rune de résilience déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes. </span></p>"
         },
         {
             "id": "Owlbear Claw",
@@ -2057,6 +2222,11 @@
             "description": ""
         },
         {
+            "id": "Wyvern Poison",
+            "name": "Poison de vouivre",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Correctement récolté et conservé, le poison du dard de la vouivre est efficace et rapide.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegard</strong> Vigueur DD 26 ;  <strong>Durée maximum </strong> 6 rounds; <strong>Stade 1</strong>  5d6 dégâts de poison (1 round); <strong>Stade 2</strong>  6d6 dégâts de poison (1 round); <strong>Stade 3</strong> 8d6 dégâts de poison (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
+        },
+        {
             "id": "Tent (Four-Person)",
             "name": "Tente (4 personnes)",
             "description": ""
@@ -2092,6 +2262,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce curieux sceptre est aussi étrange qu’imprévisible. À chaque fois qu’il est activé, il produit un de ses nombreux effets au hasard.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> command, Interagir; <strong>Effet</strong> Choisissez une créature dans un rayon de 18 m et lan‑ cez un d100 dans le tableau pour déterminer l’effet du sceptre. Si une entrée indique uniquement le nom d’un sort, le sceptre lance ce sort à son niveau le plus bas. Sauf indication contraire, c’est à vous de prendre toutes les décisions liées au sort que lance le sceptre, mais il vise forcément la créature que vous avez choisie ou la prend forcément comme centre de la zone d’effet si le sort affecte une zone et non une cible. Si la portée du sort est inférieure à 18 m, passez‑la à 18 m.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Tout DD du sort est de 27 et tout jet d’attaque de sort est à +17. Si le sceptre lance le sort sur vous, vous n’avez pas droit à un jet de sauvegarde ou une autre défense contre lui.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Une fois activé, il faut attendre 1d4 heures avant de pouvoir le réactiver.</span></p>\n<p>Jeter les dés dans la table @Compendium[pf2e.rollable-tables.uYDzWM5ji52r4mSD]{Rod of Wonder}  pour déterminer l'effet&nbsp;</p>"
         },
         {
+            "id": "Tears of Death",
+            "name": "Larmes de la mort",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les larmes de la mort font partie des poisons alchimiques les plus puissants et sont distillées à partir d’extraits de cinq autres poisons mortels selon un dosage précis.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegard</strong> Vigueur DD 46; <strong>Délai</strong>1 minute; <strong>Durée maximum</strong> 10 minutes; <strong>Stade 1</strong> 18d6 dégâts de poison et paralysé (1 round); <strong>Stade 2</strong>  25d6 dégâts de poison et paralysé (1 min) ; <strong>Stade 3</strong>  30d6 dégâts de poison et paralysé (1 min)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interact</span></p>"
+        },
+        {
             "id": "Salamander Elixir (Moderate)",
             "name": "Elixir de la salamandre (modéré)",
             "description": "Cet élixir distillé à partir d’écailles de salamandre permet de résister au feu. Pendant 24 h, vous êtes protégé contre les effets d’une chaleur importante. Vous êtes aussi protégé contre la chaleur extrême."
@@ -2115,6 +2290,11 @@
             "id": "Dwarven Thrower",
             "name": "Marteau de lancer nain",
             "description": "<p>Ce marteau de guerre de frappe +2 est incrusté de métaux précieux et orné de motifs géométriques d’inspiration naine. Si vous êtes nain, un marteau de lancer nain fonctionne pour vous comme un marteau de guerre boomerang de frappe supérieure +2 avec le trait de jet 9 m, et vos attaques avec le marteau infligent 1d8 dégâts supplémentaires aux géants.</p>"
+        },
+        {
+            "id": "Dragon Bile",
+            "name": "Bile de dragon",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un mélange de sucs digestifs et de glandes à poison de dragon vert écœure la victime tandis que ses chairs sont digérées de l’intérieur.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong>  Vigueur DD 35; <strong>ODélai</strong>1 minute; <strong> Durée maximum</strong> 6 rounds; <strong>Stade 1</strong> 6d6 dégâts de poison et malade 2 (1 round) ;  <strong>Stade 2</strong> 7d6 dégâts de poison et malade 3 (1 round)  <strong>Stade 3</strong>  9d6 dégâts de poison et malade 4 (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
             "id": "Elixir of Life (True)",
@@ -2292,6 +2472,11 @@
             "description": "<p>Vous n’avez plus besoin de manger ou de boire tant que vous investissez cette pierre d’éternité. Elle ne fonctionne pas tant que vous ne l’avez pas portée en permanence pendant une semaine, en l’ayant investie chaque jour de cette semaine. Si elle est investie par quelqu’un d’autre, il faut reprendre cette période depuis le début</p>\n<p>Le pouvoir de résonance vous permet de lancer @Compendium[pf2e.spells-srd.W69zswpj0Trdy5rj]{bulle d’air} comme un sort inné primordial une fois par jour. .&nbsp;</p>"
         },
         {
+            "id": "Blightburn Resin",
+            "name": "Résine de champibrûle",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette résine poisseuse solidifiée est recueillie sur des arbres contaminés par un champignon puis exposée à une flamme nue. <br><br><strong>Jet de sauvegarde</strong> Vigueur DD 31 ;<strong>Délai</strong>1 minute; <strong>Durée maximum </strong> 6 rounds; <strong>Stade 1</strong>  8d6 dégâts de poison (1 round); <strong>Stade 2</strong>  10d6 dégâts de poison (1 round) ; <strong>Stade 3</strong>  15d6 dégâts de poison (1 round)<br><br><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir&nbsp;</span></p>"
+        },
+        {
             "id": "Eagle Eye Elixir (Greater)",
             "name": "Elixir d'oeil de faucon (supérieur)",
             "description": "Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet aux tests de Perception. Il est plus important si vous tentez de repérer une porte ou une trappe secrètes. Le bonus est de +3 ou de +4 pour trouver une porte ou une trappe secrètes"
@@ -2345,6 +2530,11 @@
             "id": "Scythe",
             "name": "Faux",
             "description": "<p>Issue d’un outil agricole servant à faucher de longs grains et céréales, cette arme possède un long manche en bois avec des poignées saillantes, et est coiffée d’une lame courbe installée perpendiculairement. </p>"
+        },
+        {
+            "id": "Resilient (Greater)",
+            "name": "Résilience supérieure (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les runes de résilience confèrent aux armures une magie protectrice supplémentaire.L’armure confère un bonus d’objet de +2 aux jets de sauvegarde.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la rune de résilience déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes. </span></p>"
         },
         {
             "id": "Bandolier",
@@ -2420,6 +2610,16 @@
             "id": "Mail of Luck",
             "name": "Maille chanceuse",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce clibanion de résilience +2 est serti d’une gemme verte bien visible<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> Imaginer; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong>Vous êtes touché par une attaque qui se solde par un coup ou un coup critique, mais les dégâts n’ont pas encore été lancés ; <strong>Effet</strong> Vous obligez l’assaillant à relancer le jet d’attaque et conserver le pire résultat. Cet effet a le trait infortune.&nbsp;<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">En activant l’armure, la gemme devient grise et inerte. Vous ne pouvez plus activer l’armure tant que la pierre n’a pas repris sa couleur verte originelle. La gemme redevient verte au bout d’une semaine ou si un adversaire notable réussit un succès critique sur un jet d’attaque contre vous (si un ennemi réussit un succès critique sur un jet d’attaque contre vous et que vous l’obligez à relancer le succès critique, ce dernier ne recharge pas la maille chanceuse). Même si le pouvoir de l’armure revient avant qu’une semaine se soit écoulée, il ne peut pas s’activer plus d’une fois par jour.&nbsp;</span></p>"
+        },
+        {
+            "id": "Slumber Wine",
+            "name": "Vin soporifique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le vin soporifique sert surtout lors d’intrigue où une absence cause plus de torts qu’une blessure. Il est impossible de réveiller un person‑ nage inconscient à cause du vin soporifique tant que le poison fait effet. La victime n’a pas besoin de boire ni de manger tant qu’elle est inconsciente et semble décédée depuis peu, à moins que celui qui l’exa‑ mine ne réussisse un test de Médecine DD 40.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde </strong> Vigueur DD 32; <strong>Délai</strong>1 hour; <strong> Durée maximum </strong> 7 jours; <strong>Stade 1</strong>  inconscient (1 jour) ; <strong>Stade 2</strong> inconscient (2 jours)  <strong>Stade 3</strong> inconscient (3 jours) .<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
+            "id": "Lich Dust",
+            "name": "Poussière de liche",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La poussière récupérée sur les restes d’une liche détruite a des proprié‑ tés paralysantes qui en font un précieux poison. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 28; <strong>Délai</strong>10 minutes; <strong>Durée maximum</strong> 6 minutes; <strong>Stade 1</strong> fatigué (1 minute); <strong>Stade&nbsp;2</strong>  5d6 dégâts de poison et fatigué (1 min); <strong>Stade 3</strong>  5d6 dégâts de poison, fatigué et paralysé (1 min)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
             "id": "Truth Potion",
@@ -2577,6 +2777,11 @@
             "description": ""
         },
         {
+            "id": "Smokestick (Greater)",
+            "name": "Bâton fumigène (supérieur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">D’un mouvement sec, vous faites sortir de l’objet un épais écran de fumée opaque qui occupe une explosion centrée sur un angle de votre espace. Toutes les créatures au sein de cette zone sont masquées et les autres sont masquées à leurs yeux. La fumée persiste 1 min ou jusqu’à être dispersée par un vent fort.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><span id=\"ctl00_MainContent_DetailedOutput\">L’explosion a un rayon de 6 m.</span></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
             "id": "Lantern (Hooded)",
             "name": "Lanterne à capote",
             "description": "<p><span class=\"fontstyle0\">Une lanterne diffuse une lumière vive et nécessite 0,5 litre d’huile pour fonctionner pendant 6 heures. Une lanterne à capote émet sa lumière avec un cône de 18 m (et une lumière faible les 18 m au-delà). Une lanterne sourde émet sa lumière dans un rayon de 9 m (et une lumière faible les 9 m au-delà) et est équipée de volets que vous pouvez fermer pour bloquer la luminosité. Fermer ou ouvrir les volets nécessite une action Interagir.</span> </p>"
@@ -2585,6 +2790,11 @@
             "id": "Thieves' Tools",
             "name": "Outils de voleur",
             "description": "<p>Vous avez besoin d’outils de voleur pour @Compendium[pf2e.actionspf2e.2EE4aF4SZpYf0R6H]{Crocheter des serrures} ou @Compendium[pf2e.actionspf2e.cYdz2grcOcRt4jk6]{Désamorcer des dispositifs} (de certains types) à l’aide de la compétence Vol. Les outils de voleur d’infiltration ajoutent un bonus d’objet de +1 aux tests pour Crocheter des serrures et Désamorcer des dispositifs. Si vos outils de voleur sont brisés, vous pouvez les réparer en remplaçant les crochets par des crochets de rechange adaptés à vos outils ; cela ne nécessite pas l’utilisation de l’action @Compendium[pf2e.actionspf2e.bT3skovyLUtP22ME]{Réparer}.&nbsp;</p>"
+        },
+        {
+            "id": "Meteor Hammer",
+            "name": "Marteau météore",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme est constituée d'une longue chaîne reliée à un poids lourd à une extrémité. Lorsqu'un manieur fait balancer le poids par la chaîne, celle-ci prend de l'élan et peut servir de matraque mortelle d'une portée incroyable.&nbsp;</span></p>"
         },
         {
             "id": "Feather Token (Fan)",
@@ -2628,7 +2838,7 @@
         },
         {
             "id": "Flaming",
-            "name": "Enflammée",
+            "name": "Enflammée (rune)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une flamme vacillante donne à cette arme son pouvoir. L’arme inflige 1d6 dégâts de feu supplémentaires en cas de Frappe réussie, plus 1d10 dégâts de feu persistants en cas de coup critique</span></p>"
         },
         {
@@ -2717,9 +2927,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des protections magiques dévient les attaques. Augmentez de 2 le bonus d’objet à la CA de l’armure. On peut graver deux runes de propriété sur l’armure.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la <em>rune de puissance</em> déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes un maître en Artisanat.</span></p>"
         },
         {
+            "id": "Disrupting",
+            "name": "Pertubatrice (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une arme <em>perturbatrice</em> bouillonne d’énergie positive en infligeant 1d6 dé‑ gâts positifs supplémentaires aux morts‑vivants. En cas de coup critique, le mort‑vivant est également affaibli 1 jusqu’à la fin de votre prochain tour. </span></p>"
+        },
+        {
             "id": "Sturdy Shield (Minor)",
             "name": "Bouclier renforcé (mineure)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 8, 64 PV et un SR de 32..&nbsp;</span></p>"
+        },
+        {
+            "id": "Keen",
+            "name": "Acérée (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le fil d’une arme acérée est incroyablement aiguisé. Les attaques avec cette arme donnent un coup critique sur un 19 au dé, à condition que ce résultat soit un succès. Cette propriété ne produit aucun effet sur un 19 si le résultat est un échec.&nbsp;</span></p>"
         },
         {
             "id": "Class Kit (Sorcerer)",
@@ -2882,6 +3102,11 @@
             "description": "Cette teinture vous aide à localiser vos ennemis. Pendant les 5 min qui suivent, vos Frappes avec des bombes alchimiques réduisent le bonus de circonstances à la CA que vos cibles obtiennent grâce à un abri. Réduisez le bonus de circonstances de la cible de 1."
         },
         {
+            "id": "Grievous",
+            "name": "Douloureuse (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand votre jet d’attaque avec cette arme donne un coup critique et permet d’appliquer l’effet critique spécialisé, vous gagnez un avantage supplémentaire en fonction du groupe auquel appartient l’arme. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Hache</strong> Vous pouvez infliger des dégâts à une troisième créature, en appliquant les mêmes restrictions. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Arc</strong> Le test d’Athlétisme pour retirer le projectile se fait contre un DD 20. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Pugilat</strong> La cible subit un malus de circonstances de −4 à son jet de sauvegarde.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Gourdin</strong> Vous pouvez repousser la cible jusqu’à une distance de 4,50 m.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fléchette</strong> Les dégâts de saignement persistants de base passent à 2d6.  <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fléau d’armes</strong Vous déplacez la cible de 1,50 m. Vous pouvez la dépla‑ cer dans la direction de votre choix sans l’éloigner de vous. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Marteau</strong>  Vous pouvez également repousser la cible de 1,50 m. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Couteau</strong> La cible subit un malus de statut de −1,50 m à sa Vitesse tant qu’elle subit les dégâts de saignement persistants. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Pic de guerre</strong> Les dégâts supplémentaires infligés par l’effet critique spécialisé passent à 4 par dé de dégâts de l’arme <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Arme d’hast</strong> Vous pouvez déplacer la cible jusqu’à une distance de 3 m. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Bouclier</strong> Vous pouvez repousser la cible jusqu’à une distance de 3 m.  <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fronde</strong> La cible subit également un malus de statut de −3 m à sa Vitesse pendant 1 round si elle rate le jet de sauvegarde. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Lance</strong> L’état maladroit dure 2 rounds. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Épée</strong> La cible est prise au dépourvu jusqu’à la fin de votre prochain tour.</span></p>"
+        },
+        {
             "id": "Leaper's Elixir (Lesser)",
             "name": "Élixir du sauteur (inférieur)",
             "description": "Ce liquide acidulé augmente l’élasticité et la contraction des muscles des jambes. Pendant 1 min après l’avoir bu, vous pouvez Sauter en hauteur ou Sauter en longueur par une action unique au lieu de deux actions. Dans ce cas, vous n’avez pas besoin de Marcher rapidement au préalable (et vous n’échouez pas si vous ne Marcher pas rapidement sur 3 m)."
@@ -2895,6 +3120,11 @@
             "id": "Hammer",
             "name": "Marteau",
             "description": ""
+        },
+        {
+            "id": "Corrosive (Greater)",
+            "name": "Corrosive supérieure (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">De l’acide grésille à la surface de l’arme. Quand vous réussissez une attaque avec l’arme, ajoutez 1d6 dégâts d’acide aux dégâts infligés. De plus, en cas de coup critique, l’armure de la cible (si elle en porte une) subit 6d6 dégâts d’acide (avant d’appliquer la Solidité) ; si la cible a un bouclier levé, celui‑ci subit ces dégâts à la place. &nbsp;</span>Les dégâts d’acide infligés par cette arme ignorent la résistance à l’acide de la cible. Les dégâts d’acide infligés à l’armure ou au bouclier en cas de coup critique passent à 6d6.</p>"
         },
         {
             "id": "Composite Longbow",
@@ -2932,6 +3162,11 @@
             "description": "<p><span class=\"fontstyle0\">Une lanterne diffuse une lumière vive et nécessite 0,5 litre d’huile pour fonctionner pendant 6 heures. Une lanterne à capote émet sa lumière avec un cône de 18 m (et une lumière faible les 18 m au-delà). Une lanterne sourde émet sa lumière dans un rayon de 9 m (et une lumière faible les 9 m au-delà) et est équipée de volets que vous pouvez fermer pour bloquer la luminosité. Fermer ou ouvrir les volets nécessite une action Interagir. </span> </p>"
         },
         {
+            "id": "Black Lotus Extract",
+            "name": "Extrait de lotus noir",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrait de lotus noir provoque de violentes hémorragies internes. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 42  <strong>Délai</strong>1 minute; <strong>Durée maximum</strong> 6 rounds; <strong>Stade 1</strong> 15d6 dégâts de poison et drainé 1 (1 round); <strong>Stade 2</strong> 17d6 dégâts de poison et drainé 1 (1 round);  <strong>Stade 3</strong> 20d6 dégâts de poison et drainé 2 (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
             "id": "Javelin of Lightning",
             "name": "Javeline de foudre",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet ressemble à une javeline ordinaire gravée d’éclairs. Si vous la lancez sans l’activer, elle tournoie mollement dans les airs et ne touche pas sa cible. Par contre lorsque vous l’activez, ses gravures se mettent à crépiter d’électricité sur votre ordre. Vous devez ensuite la lancer. Elle se brise dès qu’elle quitte votre main et libère sa magie sous forme d’un @Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{éclair} de niveau 4 partant de votre espace. Il inflige 5d12 dégâts d’électricité, et possède un jet de Réflexes DD 25.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> sur ordre, interagir</span></p>"
@@ -2940,6 +3175,11 @@
             "id": "Carved wooden game set",
             "name": "Pièces de jeu en bois sculpté",
             "description": ""
+        },
+        {
+            "id": "Disrupting (Greater)",
+            "name": "Pertubatrice supérieure (rune)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une arme perturbatrice bouillonne d’énergie positive en infligeant 1d6 dégâts positifs supplémentaires aux morts‑vivants. En cas de coup critique, le mort‑vivant est également affaibli 1 jusqu’à la fin de votre prochain tour. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Les dégâts supplémentaires passent à 2d6. En cas de coup critique, au lieu d’être affaibli 1, le mort‑vivant doit faire un jet de Vigueur DD 34 avec les effets suivants. Il s’agit d’un effet de mise hors de combat.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès critique.</strong>  Il est affaibli 1 jusqu’à la fin de votre prochain tour. <br /><strong>Succès</strong>. Il est affaibli 2 jusqu’à la fin de votre prochain tour. <br /><strong>Echec</strong>  Il est affaibli 3 jusqu’à la fin de votre prochain tour.<br /><strong>Échec critique.</strong> Il est détruit.</span></p>"
         },
         {
             "id": "Coyote Cloak",
