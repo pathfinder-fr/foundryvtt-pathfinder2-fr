@@ -97,6 +97,10 @@ def fileToData(filepath):
     print("Invalid path: %s" % filepath)
     exit(1)
   
+  if not 'nameEN' in data or not 'descrEN' in data:
+    print("Invalid data: %s" % filepath)
+    exit(1)
+  
   return data
 
 #
