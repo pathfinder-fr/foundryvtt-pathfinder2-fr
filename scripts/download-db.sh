@@ -8,3 +8,5 @@ curl -s https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/stat
 curl -s https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/static/packs/equipment.db > ../packs/equipment.db
 curl -s https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/static/packs/classfeatures.db > ../packs/classfeatures.db
 curl -s https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/static/packs/conditionspf2e.db > ../packs/conditions.db
+curl -s https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/static/packs/hazards.db > ../packs/hazards.db
+curl -s https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/static/packs/archetypes.db > ../packs/archetypes.db
