@@ -52,6 +52,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque vous appliquez cette épaisse huile visqueuse sur une arme ou une armure non magique, elle devient magique. Si c’est une arme, elle devient temporairement une arme de frappe +1, si c’est une armure elle devient temporairement une armure de résilience +1. Cela dure 1 min.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
+            "id": "Wand of Slaying (8th-Level Spell)",
+            "name": "Baguette tueuse (sort de niveau 8) (Wand of Slaying (8th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette noire et lustrée a une gemme verte à son extrémité et quiconque regarde à l’intérieur voit le reflet d’un crâne grimaçant au lieu de son visage.<br></span></p>\n<p><strong>Activation</strong> (Lancer un sort); <strong>Fréquence</strong>  1/jour, plus surcharger;  <strong>Effet</strong> Vous Lancez  @Compendium[pf2e.spells-srd.Z9OrRXKgAPv6Hn5l]{Finger of Death} au niveau indiqué. Si le sort tue sa cible, le cadavre libère de l’énergie négative dans une émanation de 6 m en infligeant un montant de dégâts négatifs égal au double du niveau du sort. </p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de <em>doigt de mort</em> du niveau approprié.</span></p>"
+        },
+        {
             "id": "Falchion",
             "name": "Cimeterre à deux mains (Falchion)",
             "description": "<p><span class=\"fontstyle0\">cette arme est une version plus lourde, à deux mains, du cimeterre à lame courbe. Il est lesté vers l’extrémité de la lame, ce qui en fait une puissante arme tranchante.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
@@ -87,6 +92,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le pourtour de cet élégant anneau de cuivre est gravé de minuscules images d’oiseaux chanteurs. Vous gagnez un bonus d’objet de +1 aux tests de Duperie.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous faites tourner l’anneau sur votre doigt pour projeter votre voix par magie en produisant les effets du sort @Compendium[pf2e.spells-srd.yV7Ouzaoe7DHLESI]{ventriloquie} (DD 19).</span></p>"
         },
         {
+            "id": "Wand of Continuation (4th-Level Spell)",
+            "name": "Baguette de prolongation (sort de niveau 4) (Wand of Continuation (4th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette augmente la durée d’un sort. Des braises jaunes dé‑ crivent des spirales sur sa surface jusqu’à la fin du sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> once per day, plus overcharge; the activation takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> to cast, or <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">; <strong>Effet</strong>  Vous Lancez le sort et sa durée est augmentée de moitié.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation d’un sort du ni‑ veau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> et une durée comprise entre 10 min et 1 h.</span></p>"
+        },
+        {
             "id": "Bloodstone",
             "name": "Héliotrope (Bloodstone)",
             "description": ""
@@ -95,6 +105,16 @@
             "id": "Chest",
             "name": "Coffre (Chest)",
             "description": "<p><span class=\"fontstyle0\">Un coffre en bois peut contenir des objets jusqu’à un Encombrement 8.</span></p>"
+        },
+        {
+            "id": "Wondrous Figurine (Marble Elephant)",
+            "name": "Figurine merveilleuse (Elephant de marbre) (Wondrous Figurine (Marble Elephant))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet éléphant luisant sculpté dans un bloc de marbre massif se change en véritable éléphant (Bestiaire Pathfinder p. 154) une fois activé. Vous pouvez l’appeler au maximum quatre fois par mois. Il reste 24 h par activation tant qu’il est utilisé comme bête de somme ou monture. S’il tente une attaque ou participe à un combat, il redevient une statuette au bout de 1d4 rounds.</span></p>"
+        },
+        {
+            "id": "Striking (Greater)",
+            "name": "Frappe supérieure (rune) (Striking (Greater))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une rune de frappe contient la magie destructrice de l’arme, ce qui permet à l’arme d’infliger trois dés de dégâts au lieu d’un seul. Par exemple, une dague de frappe +1 inflige 3d4 dégâts au lieu de 1d4. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la rune de frappe déjà gravée sur une arme en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la for‑ mule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">L’arme inflige trois dés de dégâts d’arme</span></p>"
         },
         {
             "id": "Orc Necksplitter",
@@ -167,6 +187,11 @@
             "description": "<p><span class=\"fontstyle0\">Ce manuscrit contient les écritures d’une religion spécifique. Certains incantateurs divins, tels que les prêtres, peuvent utiliser un texte religieux comme focaliseur divin pour utiliser certaines capacités et lancer des sorts. Un texte religieux doit être tenu dans une main pour pouvoir être utilisé.</span> </p>"
         },
         {
+            "id": "Wand of Continuation (7th-Level Spell)",
+            "name": "Baguette de prolongation (sort de niveau 7) (Wand of Continuation (7th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette augmente la durée d’un sort. Des braises jaunes dé‑ crivent des spirales sur sa surface jusqu’à la fin du sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> once per day, plus overcharge; the activation takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> to cast, or <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">; <strong>Effet</strong>  Vous Lancez le sort et sa durée est augmentée de moitié.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation d’un sort du ni‑ veau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> et une durée comprise entre 10 min et 1 h.</span></p>"
+        },
+        {
             "id": "Salamander Elixir (Lesser)",
             "name": "Elixir de la salamandre (inférieur) (Salamander Elixir (Lesser))",
             "description": "Cet élixir distillé à partir d’écailles de salamandre permet de résister au feu. Pendant 24 h, vous êtes protégé contre les effets d’une chaleur importante."
@@ -195,6 +220,16 @@
             "id": "Peridot",
             "name": "Péridot (Peridot)",
             "description": ""
+        },
+        {
+            "id": "Thurible of Revelation (Moderate)",
+            "name": "Encensoir de révélation (modéré) (Thurible of Revelation (Moderate))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet encensoir de bronze pend sur une chaîne. Il est généralement orné de textes ondulants en céleste, mais certaines versions sont en fer et possèdent des inscriptions en infernal ou en abyssal. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagit; <strong>Coût</strong> encens d’une valeur de 5 po; <strong>Effet</strong> Vous allumez l’encens dans l’encensoir. Il brûle pendant 1 h. Pendant ce temps, tant que vous le tenez en main, vous gagnez un bonus d’objet de +1 aux tests de Religion et tous les échecs critiques essuyés lorsque vous Déchiffrez un texte religieux se muent en simples échecs. </span></p>\n<p>L’encensoir confère un bonus de +2. Une fois par jour, lorsque vous l’activez, ses révélations s’améliorent. Lors de cette activation, vous pouvez le lever à hauteur de vos yeux avec une action Interagir pour bénéficier de détection de l’invisibilité pendant 1 round en regardant au travers de la fumée. </p>"
+        },
+        {
+            "id": "Invisibility",
+            "name": "Invisibilité (rune) (Invisibility)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La lumière semble partiellement traverser cette armure. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Frequence</strong> 1/jour; <strong>Effet</strong> En murmurant le mot de commande, vous devenez invisible pendant une minute, ce qui vous permet de bénéficier des effets d’une invisibilité de niveau 2. @Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’<em>invisibilité</em>.</span></p>"
         },
         {
             "id": "Spiked Chain",
@@ -287,6 +322,11 @@
             "description": "<div><strong>Armure</strong>  armure de cuir clouté</div>\n<div><strong>Armes</strong> dague, fronde avec 20 billes de fronde</div>\n<div><strong>Equipement</strong> pack d’aventurier, outils d’alchimiste, bandoulière,</div>\n<div>livre d’artisan basique, 2 jeux de chausse‑trappes, gaine</div>\n<div><strong>Options</strong> kit de réparation (2 po)</div>"
         },
         {
+            "id": "Thurible of Revelation (Lesser)",
+            "name": "Encensoir de révélation (inférieur) (Thurible of Revelation (Lesser))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet encensoir de bronze pend sur une chaîne. Il est généralement orné de textes ondulants en céleste, mais certaines versions sont en fer et possèdent des inscriptions en infernal ou en abyssal. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagit; <strong>Coût</strong> encens d’une valeur de 5 po; <strong>Effet</strong> Vous allumez l’encens dans l’encensoir. Il brûle pendant 1 h. Pendant ce temps, tant que vous le tenez en main, vous gagnez un bonus d’objet de +1 aux tests de Religion et tous les échecs critiques essuyés lorsque vous Déchiffrez un texte religieux se muent en simples échecs. </span></p>"
+        },
+        {
             "id": "Disguise Kit (Replacement Cosmetics)",
             "name": "Kit de déguisement (Stock de cosmétiques) (Disguise Kit (Replacement Cosmetics))",
             "description": "<p><span class=\"fontstyle0\">Lorsque vous avez fabriqué un grand nombre de déguisements à partir d'un Kit de déguisement, vous pouvez reconstituer votre stock de cosmétiques avec des cosmétiques de rechange adapté au type de votre kit de déguisement.</span> </p>"
@@ -315,6 +355,11 @@
             "id": "Shortsword",
             "name": "Épée courte (Shortsword)",
             "description": "<p> ces lames se présentent dans toute une variété de formes et de styles, mais elles mesurent généralement 60 cm de long.</p>"
+        },
+        {
+            "id": "Shadow",
+            "name": "Ombre (rune) (Shadow)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une armure avec cette rune devient noire et indistincte. Vous béné‑ ficiez d’un bonus d’objet de +1 aux tests de Discrétion lorsque vous portez l’armure.&nbsp;&nbsp;</span></p>"
         },
         {
             "id": "Coral idol of an elemental lord",
@@ -432,6 +477,11 @@
             "description": "<p><span class=\"fontstyle0\"> cette entrée est un fourre-tout réunissant les outils manuels de base qui n’ont pas d’objectif spécifique pour l’aventure. Une houe, une pelle ou une masse est un outil long, tandis qu’un foret à main, un crochet à glace ou une truelle est un outil court. Un outil peut en général être utilisé comme une arme improvisée, infligeant 1d4 dégâts pour un outil court ou 1d6 pour un outil long. Le MJ détermine le type de dégâts approprié ou l’adapte si nécessaire. </span> </p>"
         },
         {
+            "id": "Wand of Continuation (6th-Level Spell)",
+            "name": "Baguette de prolongation (sort de niveau 6) (Wand of Continuation (6th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette augmente la durée d’un sort. Des braises jaunes dé‑ crivent des spirales sur sa surface jusqu’à la fin du sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> once per day, plus overcharge; the activation takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> to cast, or <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">; <strong>Effet</strong>  Vous Lancez le sort et sa durée est augmentée de moitié.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation d’un sort du ni‑ veau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> et une durée comprise entre 10 min et 1 h.</span></p>"
+        },
+        {
             "id": "Shining Ammunition",
             "name": "Munition luisante (Shining Ammunition)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une<em>munition luisante</em>  émet une faible lueur. Une fois tirée, elle émet une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà) pendant 10 min. Si elle touche une cible, elle s’y colle, la cible émettant donc de la lumière dans le même rayon. Une créature peut retirer la munition avec l’action Interagir, mais la munition conti‑ nue de briller pour le reste de la durée ou jusqu’à sa destruction. &nbsp;</span></p>"
@@ -447,9 +497,19 @@
             "description": "<p><span class=\"fontstyle0\">Une bougie allumée diffuse une lumière tamisée dans un rayon de 3 m.&nbsp;</span></p>"
         },
         {
+            "id": "Shadow (Major)",
+            "name": "Ombre majeure (rune) (Shadow (Major))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une armure avec cette rune devient noire et indistincte. Vous béné‑ ficiez d’un bonus d’objet de +3 aux tests de Discrétion lorsque vous portez l’armure.&nbsp;&nbsp;</span></p>"
+        },
+        {
             "id": "Arsenic",
             "name": "Arsenic (Arsenic)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette toxine est un composé d’arsenic et d’autres substances. Vous ne pouvez pas réduire l’état malade tant que vous êtes affecté.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 18; <strong>Délai</strong> 10 minutes; <strong>Durée maximum</strong> 5 minutes; <strong>Stade 1</strong> 1d4 dégâts de poison et malade 1 (1 min); <strong>Stade 2</strong>  1d6 dégâts de poison et malade 2 (1 min) ; <strong>Stade 3</strong>  2d6 dégâts de poison et malade 3 (1 minute)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
+            "id": "Magic Wand (7th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 7) (Magic Wand (7th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Crossbow",
@@ -527,6 +587,11 @@
             "description": ""
         },
         {
+            "id": "Wand of Widening (1st-Level Spell)",
+            "name": "Baguette d'élargissement (sort de niveau 1) (Wand of Widening (1st-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
+        },
+        {
             "id": "Class Kit (Champion)",
             "name": "Kit de classe (Champion) (Class Kit (Champion))",
             "description": "<div><strong>Armure </strong> armure de peau </div>\n<div><strong>Armes</strong>  dague, 4 javelines </div>\n<div><strong>Equipementr</strong>  pack d’aventurier, pied‑de‑biche, grappin, gaine</div>\n<div><strong>Options </strong>l’arme préférée de votre divinité (voir les entrées concernant les divinités</div>\n<div>aux pages 437 à 441 ; utilisez le prix indiqué dans ce chapitre)</div>"
@@ -562,6 +627,16 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque plume magique semble être une simple plume d’oiseau exotique. La tige, plaquée or, porte une unique rune arcanique. Une fois activée, la plume magique se transforme en un autre objet qui s’utilise alors normalement. Chaque plume s’active une seule fois et reste généralement sous la forme de l’objet en lequel elle s’est changée.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette plume s’active uniquement si vous la lan‑ cez dans une grande étendue d’eau, telle qu’un lac ou une large rivière. Elle se change en un ba‑ teau en forme de cygne capable de transporter jusqu’à 32 créatures de taille Moyenne ou 8 de Grande taille ou 2 de Très Grande taille. Le bateau se déplace sur l’eau à une Vitesse de 15 m et dure 1 jour. &nbsp;</span></p>"
         },
         {
+            "id": "Magic Wand (3rd-Level Spell)",
+            "name": "Baguette magique (sort de niveau 3) (Magic Wand (3rd-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
+        },
+        {
+            "id": "Wand of Continuation (1st-Level Spell)",
+            "name": "Baguette de prolongation (sort de niveau 1) (Wand of Continuation (1st-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette augmente la durée d’un sort. Des braises jaunes dé‑ crivent des spirales sur sa surface jusqu’à la fin du sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> once per day, plus overcharge; the activation takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> to cast, or <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">; <strong>Effet</strong>  Vous Lancez le sort et sa durée est augmentée de moitié.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation d’un sort du ni‑ veau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> et une durée comprise entre 10 min et 1 h.</span></p>"
+        },
+        {
             "id": "Magic Wand (1st-Level Spell)",
             "name": "Baguette magique (sort de 1er niveau) (Magic Wand (1st-Level Spell))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort.Son aspect physique est généralement en rapport avec le sort qu’elle contient.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong>  1/jour, plus surcharger<strong>Effet</strong> vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
@@ -585,6 +660,11 @@
             "id": "Dagger",
             "name": "Dague (Dagger)",
             "description": "<p><span class=\"fontstyle0\">Cette petite arme à lame se tient d’une main et est utilisée pour poignarder une créature en combat rapproché. Elle peut aussi être lancée.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
+        },
+        {
+            "id": "Primeval Mistletoe (Greater)",
+            "name": "Gui primitif (supérieure) (Primeval Mistletoe (Greater))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouquet de houx et de gui constellé de baies ne se fane pas et ne pourrit pas. Il peut servir de focaliseur primordial et donne un bonus d’objet de +2 aux tests de Nature à celui qui le tient.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/10 minutes; <strong>Effet</strong>  Vous pressez une baie et étalez son jus sur un bâton ou un gourdin non magique pour lui lancer gourdin magique @Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]{Shillelagh}.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>Vous pouvez nouer le bouquet autour de votre poignet et toucher un arbre pour lancer morphologie d’arbre   @Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Tree Shape} sur vous‑ même, sauf que vous devenez une plante grimpante sur l’arbre touché et non un arbre.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interact; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Vous plantez le bouquet de gui primitif dans une zone de terre ou de roche naturelle. Il recouvre alors la zone de buissons de houx qui ne gênent pas les déplacements et vibrent d’énergie positive, reproduisant les effets d’un champ de vie @Compendium[pf2e.spells-srd.x5rGOmhDRDVQPrnW]{Field of Life}. Tant que vous Maintenez l’activation, cela dure jusqu’à 1 min. Lorsque la magie se termine, les buissons de houx redeviennent du <em>gui primitif</em>.&nbsp;</span></p>"
         },
         {
             "id": "Breastplate of Command",
@@ -702,6 +782,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La racine arachnide est une pâte fabriquée à partir de minces racines de certaines plantes grimpantes et rend sa victime maladroite et gauche.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 28 ;  <strong>Délai</strong>1 minute; <strong>Maximum Duration</strong> 6 minutes; <strong>Stade 1</strong>  8d6 dégâts de poison et maladroit 1 (1 min) ;  <strong>Stade 2</strong> 9d6 dégâts de poison et maladroit 2 (1 min); <strong>Stade 3</strong>  10d6 dégâts de poison et maladroit 3 (1 min)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir&nbsp;</span></p>"
         },
         {
+            "id": "Skeleton Key",
+            "name": "Passe-partout (Skeleton Key)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un crâne ricanant couronne la tige de cette clef macabre. Elle remplace les outils de voleur pour Crocheter une serrure et donne un bonus d’objet de +1 aux tests de Vol. Si le passe-partout se brise suite à un échec critique sur le test, il fonctionne comme des outils de voleur normaux et perd ses avantages jusqu’à ce qu’il soit réparé.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong>  Vous tentez de Crocheter une serrure mais n’avez pas encore lancé le dé; <strong>Effet</strong> La clef lance @Compendium[pf2e.spells-srd.6Ot4N22t5tPD51BO]{Knock} sur la serrure que vous tentez de crocheter.</span></p>"
+        },
+        {
             "id": "Bladed Scarf",
             "name": "Écharpe à lame (Bladed Scarf)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les fines plaques de métal entrelacées tout le long de cette longue écharpe transforme cet accessoire de mode en une arme mortelle.&nbsp;</span></p>"
@@ -710,6 +795,11 @@
             "id": "Chrysoberyl symbol of an evil eye",
             "name": "Symbole de mauvais œil en chrysobéryl (Chrysoberyl symbol of an evil eye)",
             "description": ""
+        },
+        {
+            "id": "Wand of Widening (2nd-Level Spell)",
+            "name": "Baguette d'élargissement (sort de niveau 2) (Wand of Widening (2nd-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
         },
         {
             "id": "Sturdy Shield (Greater)",
@@ -777,6 +867,11 @@
             "description": "<p><span class=\"fontstyle0\"> ce bâton solide, mais mince, est effilé aux extrémités et bien équilibré. Il est conçu pour pouvoir être une arme à la fois offensive et défensive. </span></p>"
         },
         {
+            "id": "Thundering",
+            "name": "Tonnerre (rune) (Thundering)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme émet un grondement de tonnerre lorsqu’elle touche, infli‑ geant 1d6 dégâts de son supplémentaires en cas de Frappe réussie. En cas de coup critique, la cible doit réussir un jet de Vigueur DD 24 ou être sourde pendant une minute (ou une heure en cas d’échec critique). &nbsp;</span></p>"
+        },
+        {
             "id": "Grappling Hook",
             "name": "Grappin (Grappling Hook)",
             "description": "<p><span class=\"fontstyle0\">Vous pouvez lancer un grappin avec une corde attachée à celui-ci pour faciliter votre escalade. Pour fixer un grappin, vous effectuez un jet d’attaque avec le trait secret contre un DD en fonction de la cible, généralement au moins DD 20. En cas de succès, votre grappin a atteint une prise ferme, tandis qu’en cas d’échec critique, il semble pouvoir tenir, mais tombe en réalité lorsque vous vous trouvez à mi-chemin.</span> </p>"
@@ -785,6 +880,11 @@
             "id": "Greataxe",
             "name": "Grande hache (Greataxe)",
             "description": "<p>Cette grande hache d’armes est trop lourde pour pouvoir être maniée d’une seule main. Beaucoup de grandes haches comprennent deux lames et sont souvent « barbues », avec un crochet au bout pour augmenter la force de leur pouvoir tranchant. </p>"
+        },
+        {
+            "id": "Thurible of Revelation (Greater)",
+            "name": "Encensoir de révélation (supérieure) (Thurible of Revelation (Greater))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet encensoir de bronze pend sur une chaîne. Il est généralement orné de textes ondulants en céleste, mais certaines versions sont en fer et possèdent des inscriptions en infernal ou en abyssal. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagit; <strong>Coût</strong> encens d’une valeur de 5 po; <strong>Effet</strong> Vous allumez l’encens dans l’encensoir. Il brûle pendant 1 h. Pendant ce temps, tant que vous le tenez en main, vous gagnez un bonus d’objet de +1 aux tests de Religion et tous les échecs critiques essuyés lorsque vous Déchiffrez un texte religieux se muent en simples échecs. </span></p>\n<p>L’encensoir confère un bonus de +3. La version supérieure possède la révélation améliorée de la version moyenne, mais vous bénéficiez de vision lucide quand vous regardez au travers de la fumée.</p>"
         },
         {
             "id": "Ogre Hook",
@@ -852,6 +952,16 @@
             "description": "<p>&nbsp;Cette arme possède un manche court se terminant par une boule en métal hérissée de pointes.</p>"
         },
         {
+            "id": "Ring of Wizardry (Type I)",
+            "name": "Anneau des arcanes (Type I) (Ring of Wizardry (Type I))",
+            "description": "<p>Cet anneau est forgé dans le platine le plus pur et gravé de symboles arcaniques ésotériques. Il ne sert à rien si vous n’avez pas la capacité de classe incantation de la tradition arcanique. Lorsque vous portez l’anneau des arcanes, vous bénéficiez d’un bonus d’objet de +1 aux tests d’Arcanes et disposez chaque jour de deux emplacements de sort de niveau 1 supplémentaires. Vous préparez des sorts dans ces emplacements ou lancez des sorts de manière spontanée avec ces emplacements, comme vous le feriez normalement.  </p>\n<p>Vous perdez les emplacements de sort supplémentaires si vous ne portez plus l’anneau, quelles qu’en soient les raisons. Vous ne pou‑ vez pas gagner les emplacements de sorts conférés par plus d’un anneau des arcanes et un seul anneau des arcanes ne peut pas conférer des emplacements de sort plus d’une fois par jour. </p>\n<p>Si vous pouvez lancer des sorts arcaniques par dif‑ férents moyens (si vous êtes un ensorceleur au lignage draconique avec l’archétype de multiclassage de ma‑ gicien), vous pouvez répartir les emplacements de sort comme vous le souhaitez parmi vos diverses sources de sorts arcaniques. </p>\n<p><strong>Conditions de fabrication.</strong> . Vous avez la capacité de classe incantation de la tradition arcanique.</p>"
+        },
+        {
+            "id": "Wand of Widening (3rd-Level Spell)",
+            "name": "Baguette d'élargissement (sort de niveau 3) (Wand of Widening (3rd-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
+        },
+        {
             "id": "Club",
             "name": "Gourdin (Club)",
             "description": "<p><span class=\"fontstyle0\"> il s’agit d’un morceau de bois robuste façonné ou reconverti pour matraquer un ennemi. les gourdins peuvent être des pièces d’art martial finement sculptées ou être aussi simples qu’une branche d’arbre ou un morceau de bois. </span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
@@ -882,8 +992,13 @@
             "description": "Cette flasque de bière mousseuse redonne du courage. Pendant une heure après l’avoir bue, vous gagnez un bonus d’objet aux jet de Volonté, plus important lors de jets de Volonté contre la terreur. Le bonus aux jets de Volonté est de +3 ou +4 contre la terreur. Si vous obtenez un succès sur un jet de sauvegarde contre un effet de terreur, il est transformé en succès critique."
         },
         {
+            "id": "Wand of Widening (8th-Level Spell)",
+            "name": "Baguette d'élargissement (sort de niveau 8) (Wand of Widening (8th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
+        },
+        {
             "id": "Ethereal",
-            "name": "Ethérée (Ethereal)",
+            "name": "Ethérée (rune) (Ethereal)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une<em>rune éthérée</em>  duplique l’armure sur le plan éthéré. <br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">  sur ordre ; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous bénéficiez des effets du sort forme éthérée. Ceci ne nécessite aucune concentra‑ tion et dure dix minutes ou jusqu’à ce que vous décidiez de reprendre forme matérielle par une action gratuite.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions</strong> Fournir une incantation de forme éthérée de niveau 9.</span></p>"
         },
         {
@@ -905,6 +1020,11 @@
             "id": "Bi-Resonant Wayfinder",
             "name": "Guide à double résonance (Bi-Resonant Wayfinder)",
             "description": "<p>Comme un guide standard, mais une fois par jour vous pouvez l'activer pour lancer @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{guérison} sur une créature autre que vous-même, en utilisant soit la version à une action soit la version à deux actions de guérison comme un sort de niveau 1.&nbsp;</p>"
+        },
+        {
+            "id": "Slick",
+            "name": "Glissante (rune) (Slick)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette propriété rend glissante l’armure, comme si elle était recouverte d’une fine couche d’huile. Vous bénéficiez d’un bonus d’objet de +1 aux tests d’Acrobaties pour Vous échapper et Vous faufiler.&nbsp;</span></p>"
         },
         {
             "id": "Antidote (Major)",
@@ -987,6 +1107,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous créez un système d’alarme en reliant un ou plusieurs objets bruyants à un fil de détente ou à une plaque de pression. Quand vous créez une alarme, vous désignez une portée entre 30 et 150 m qui in‑ dique jusqu’où on peut l’entendre. Quand une créature de Petite taille ou plus grande entre dans la case, le piège artisanal fait suffisamment de bruit pour que toutes les créatures à portée l’entendent.&nbsp;</span></p>"
         },
         {
+            "id": "Magic Wand (8th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 8) (Magic Wand (8th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
+        },
+        {
             "id": "Vine Arrow",
             "name": "Flèche de lierre (Vine Arrow)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des vrilles feuillues dépassent du fût de cette flèche rustique. Quand une flèche de lierre activée touche sa cible, le fût se fend et se met à pousser, l’enveloppant de ses tiges rampantes. La cible subit un malus de circonstances de −3 m à la Vitesse, pendant 2d4 rounds ou jusqu’à ce qu’elle S’échappe (DD 19). Sur un coup critique, la cible est aussi immobilisée jusqu’à ce qu’elle S’échappe.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Sur ordre</span></p>"
@@ -995,6 +1120,16 @@
             "id": "Manacles (Poor)",
             "name": "Menottes (médiocre) (Manacles (Poor))",
             "description": "<p><span class=\"fontstyle0\">Vous pouvez menotter une personne volontaire ou à votre merci comme une activité d’exploration prenant 10 à 30 secondes, en fonction de la taille de la créature et du nombre de menottes que vous utilisez. Une créature bipède ayant ces membres attachés subit un malus de circonstance de –4,5 m à sa Vitesse, et une créature à deux mains ayant les poignets attachés doit réussir un test nu DD 5 chaque fois qu’elle utilise une action de manipulation ou que cette action échoue. Ce DD peut être plus élevé en fonction de la force avec laquelle les menottes contraignent les mains. Une créature attachée à un objet immobile est elle-même immobilisée. Dans le cas de créatures ayant plus ou moins de membres, le MJ détermine l’effet éventuel des menottes. Libérer une créature de menottes médiocres nécessite de réussir deux tests de Vol DD 17, des menottes simples exigent de leur côté trois succès DD 22, des menottes intermédiaires quatre succès DD 27, de bonnes menottes cinq succès DD 32 et des menottes supérieures six succès DD 42. </span></p>"
+        },
+        {
+            "id": "Crystal Ball (Clear Quartz)",
+            "name": "Boule de cristal (Crystal Ball (Clear Quartz))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette sphère de cristal poli améliore la magie de scrutation. Toute in‑ formation visuelle reçue via un sort doté du trait scrutation lancé à l’aide de la boule de cristal apparaît en son sein, et toute information audible émane de sa surface. Lorsque vous lancez un sort de scrutation par un autre moyen alors que vous tenez la boule, vous pouvez relayer les informations reçues de la même manière, ce qui permet à un tiers de voir ou entendre la cible du sort. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La boule de cristal de base est une sphère de quartz transparent, mais il existe d’autres versions dans des pierres différentes.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> 1 min (sur ordre, imaginer, Interagir) ;<strong>Fréquence</strong> 1/heure; <strong>Effet</strong> La <em>boule de cristal</em> lance clairvoyance selon vos instructions. @Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance} .<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> 10 min (sur ordre, imaginer, Interagir) ; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> La <em>boule de cristal</em> lance <em><scrutation/em> DD 33 selon vos instructions</span></p>"
+        },
+        {
+            "id": "Energy-Resistant",
+            "name": "Résistance à l'énergie (rune) (Energy-Resistant)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces symboles canalisent les forces protectrices des plans élémen‑ taires. Vous bénéficiez d’une résistance 5 à l’acide, à l’électricité, au feu ou au froid. Le fabricant choisit le type de dégâts lorsqu’il créé la rune. On peut graver plusieurs runes de résistance à l’énergie sur une armure ; au lieu d’utiliser l’effet dont le niveau est le plus élevé, chacune doit fournir une résistance à un type de dégâts différent. Par exemple, une cuirasse de résistance au feu supérieure et de résistance à l’acide +2 vous confère une résistance à l’acide de 5 et une résistance au feu de 10. </span></p>"
         },
         {
             "id": "Tack",
@@ -1015,6 +1150,11 @@
             "id": "Hemlock",
             "name": "Cigüe (Hemlock)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La ciguë concentrée est une toxine redoutable qui entrave l’action des muscles, y compris du cœur.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 40; <strong>Délai</strong>30 minutes; <strong>Durée maximum</strong> 60 minutes; <strong>Stade 1</strong> 1 17d6 dégâts de poison et affaibli 2 (10 min);  <strong>Stade 2</strong> 21d6 dégâts de poison et affaibli 3 (10 min); <strong>Stade 3</strong> 26d6 dégâts de poison et affaibli 4 (10 min)  <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
+            "id": "Wand of Smoldering Fireballs (3rd-Level Spell)",
+            "name": "Baguette de boules de feu incendiaires (Sort de niveau 3) (Wand of Smoldering Fireballs (3rd-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette noircie et carbonisée émet une faible odeur de guano de chauve‑souris.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> 1/jour,  plus surcharger; <strong>Effet</strong> Vous lancez boule de feu  @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball} au niveau indiqué. Chaque créature qui rate son jet de sauvegarde subit des dégâts de feu persistants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>boule de feu</em> du niveau approprié.</span></p>"
         },
         {
             "id": "Aeon Stone (Lavender and Green Ellipsoid)",
@@ -1137,6 +1277,11 @@
             "description": "<p><span class=\"fontstyle0\">Cette arme de jet est plus large qu’une flèche, mais plus courte qu’un javelot. Elle a généralement une courte tige de bois se terminant par une pointe en métal et est parfois stabilisée par des plumes ou de la fourrure.</span> </p>"
         },
         {
+            "id": "Ring of Sustenance",
+            "name": "Anneau de subsistance (Ring of Sustenance)",
+            "description": "<p>Cet anneau de bois ciré revigore constamment votre corps et votre esprit. Vous n’avez plus besoin de manger ou de boire tant que vous le portez et vous n’avez besoin que de deux heures de sommeil par jour pour profiter des avantages d’un repos de huit heures. Un anneau de subsistance ne fonctionne pas avant d’avoir été porté et investi pen‑ dant une semaine sans interruption. Cette période est réinitialisée dès que l’anneau n’est plus porté.&nbsp;</p>"
+        },
+        {
             "id": "Wolf Fang",
             "name": "Croc de loup (Wolf Fang)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette canine de loup est attachée sur un lien de cuir fixé sur une boucle ou une lanière d’armure. Lorsque vous l’activez, vous infligez des dégâts contondants égaux à votre modificateur de Force à la cible de votre Croc‑en‑Jambe. Si ce Croc‑en‑Jambe devrait déjà inclure des dégâts physiques ne compre‑ nant pas de modificateur de caractéristique, ajoutez‑leur votre modificateur de Force.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\" /> Imaginer; <strong>Déclencheur</strong> Votre Croc‑en‑Jambe est couronné de succès ;<strong>Conditions</strong> Vous êtes qualifié en Athlétisme. </span></p>"
@@ -1175,6 +1320,11 @@
             "id": "Wounding",
             "name": "Sanglante (rune) (Wounding)",
             "description": "<p>On raconte que les armes gravées d’une rune sanglante sont assoiffées de sang. Quand vous touchez une créature avec une arme sanglante, vous infli‑ gez 1d6 dégâts de saignement persistants supplémentaires. En cas de coup critique, l’arme inflige à la place 1d12 dégâts de saignement persistants.</p>"
+        },
+        {
+            "id": "Invisibility (Greater)",
+            "name": "Invisibilité supérieure (rune) (Invisibility (Greater))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La lumière semble partiellement traverser cette armure. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Frequence</strong> 3/jour; <strong>Effet</strong> En murmurant le mot de commande, vous devenez invisible pendant une minute, ce qui vous permet de bénéficier des effets d’une invisibilité de niveau 2. @Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’<em>invisibilité</em>.</span></p>"
         },
         {
             "id": "Aeon Stone (Gold Nodule)",
@@ -1222,6 +1372,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La surface de cette targe en argent de haute qualité (Solidité 6, 24 PV, SR 12) reflète comme un miroir tellement elle est polie. Le bouclier fonctionne comme un bouclier gardesort (voir ci‑après) qui peut également renvoyer des sorts. <br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Frequency</strong> 1/jour; <strong>Déclencheur</strong> Vous êtes la cible d’un sort ; <strong>Conditions</strong> Le <em>bouclier réfléchissant</em> est levé ;  <strong>Effet</strong> Vous tentez de renvoyer le sort sur son incantateur, avec les effets d’un @Compendium[pf2e.spells-srd.OOELvfkTedBMlWtq]{renvoi de sorts} de niveau 9 et un modificateur de contre de +40.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>renvoi de sorts</em> et les matières premières initiales doivent inclure au moins 2 750 po d’argent.\n</span></p>"
         },
         {
+            "id": "Wondrous Figurine (Onyx Dog)",
+            "name": "Figurine merveilleuse (Chien d'onyx) (Wondrous Figurine (Onyx Dog))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chacune de ces statuettes fait 2,5 cm de haut. Elles sont sculptées dans des matériaux spécifiques et repré‑ sentent des animaux.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, Interagir <strong>Effet</strong> YVous activez une figurine en la posant sur une surface solide et en prononçant son nom. Elle se transforme alors en une ou plusieurs créa‑ tures. Sous forme de créature, la figurine adopte le trait sbire. Elle comprend votre langue et fait de son mieux pour vous obéir lorsque vous utilisez une action pour lui donner un ordre. Les par‑ ticularités de chaque créature et la fréquence d’activation de chaque statuette (le cas échéant) figurent dans son entrée.<br></span></p>\n<p>Si la figurine est tuée sous forme animale, elle redevient une statue et ne peut plus s’activer avant une semaine. Si elle est détruite sous forme de statue, elle vole en éclats et sa magie disparaît</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette statuette d’onyx toute simple se change en chien de garde (Bestiaire Pathfinder p. 102). Le chien possède un bonus de circons‑ tances de +4 aux tests de Survie pour Pister et dispose de vision dans le noir. Lorsque le chien détecte à l’odorat une créature cachée, elle est à la place observée et masquée. Le chien s’active au plus une fois par semaine et reste sous forme animale pendant un maximum de 6h.&nbsp;</span></p>"
+        },
+        {
             "id": "Kama",
             "name": "Kama (Kama)",
             "description": "<p><span class=\"fontstyle0\">Semblable à une faucille et utilisé dans certaines régions pour récolter le grain, le kama possède une lame courte et légèrement incurvée, et un manche en bois. </span> </p>"
@@ -1232,9 +1387,19 @@
             "description": "<p>Cette collection de fioles et de produits chimiques permet d’accomplir des tâches alchimiques simples.&nbsp;</p>"
         },
         {
+            "id": "Wondrous Figurine (Jade Serpent)",
+            "name": "Figurine merveilleuse (Serpent de jade) (Wondrous Figurine (Jade Serpent))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chacune de ces statuettes fait 2,5 cm de haut. Elles sont sculptées dans des matériaux spécifiques et repré‑ sentent des animaux.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, Interagir <strong>Effet</strong> YVous activez une figurine en la posant sur une surface solide et en prononçant son nom. Elle se transforme alors en une ou plusieurs créa‑ tures. Sous forme de créature, la figurine adopte le trait sbire. Elle comprend votre langue et fait de son mieux pour vous obéir lorsque vous utilisez une action pour lui donner un ordre. Les par‑ ticularités de chaque créature et la fréquence d’activation de chaque statuette (le cas échéant) figurent dans son entrée.<br></span></p>\n<p>Si la figurine est tuée sous forme animale, elle redevient une statue et ne peut plus s’activer avant une semaine. Si elle est détruite sous forme de statue, elle vole en éclats et sa magie disparaît</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette statuette semble être un simple bloc de jade, mais de plus près, on remarque qu’il s’agit d’un corps ophidien enroulé. Une fois activée, elle devient une vipère géante (Bestiaire Pathfinder p. 303). Vous pou‑ vez utiliser la figurine une fois par jour. Elle reste sous forme animale 10 min au maximum. &nbsp;</span></p>"
+        },
+        {
             "id": "Silvertongue Mutagen (Lesser)",
             "name": "Mutagène de langue dorée (inférieur) (Silvertongue Mutagen (Lesser))",
             "description": "Vos traits deviennent séduisants et votre voix musicale et autoritaire, en revanche, les faits et les chiffres deviennent flous et l’émotion obscurcit votre raisonnement. Le bonus est de +1 et la durée de 1 min.\nAvantage. Vous gagnez un bonus d’objet aux tests de Duperie, Diplomatie, Intimidation et Représentation. Vos échecs critiques dans ces compétences deviennent de simples échecs. \nInconvénient. Vous subissez un malus de −2 aux tests d’Arcanes, Artisanat, Connaissances, Occultisme et Société. Choisissez une compétence dans laquelle vous êtes qualifié : pendant toute la durée, vous devenez inexpérimenté. Tous vos échecs aux tests de Se souvenir deviennent des échecs critiques."
+        },
+        {
+            "id": "Striking (Major)",
+            "name": "Frappe majeure (rune) (Striking (Major))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une rune de frappe contient la magie destructrice de l’arme, ce qui permet à l’arme d’infliger deux dés de dégâts au lieu d’un seul. Par exemple, une dague de frappe +1 inflige 2d4 dégâts au lieu de 2d4.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la rune de frappe déjà gravée sur une arme en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la for‑ mule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">L’arme inflige quatre dés de dégâts d’arme.</span></p>"
         },
         {
             "id": "Berserker's Cloak",
@@ -1357,6 +1522,11 @@
             "description": "<section class=\"content\">\n<p>Cette armure d’écailles en adamantium de fortification de résilience supérieure +2 est faite d’écailles noires et lustrées en adamantium de qualité standard qui se chevauchent et semblent s’épaissir momenta‑ nément au point d’impact lorsqu’elle encaisse un coup. Quand la rune de fortification remporte un succès en transformant un coup critique en coup normal, l’une des écailles devient violette. Vous gagnez une résistance aux dégâts physiques égale au nombre d’écailles violettes, sans dépasser 8.</p>\n<p>Chaque jour à l’aube, toutes les écailles violettes redeviennent normales.</p>\n<hr></section>\n<section class=\"content extra\">\n<p><strong>Conditions de fabrication</strong> Les matériaux initiaux bruts doivent inclure 1 600 po d’adamantium.</p>\n</section>"
         },
         {
+            "id": "Staff of Abjuration",
+            "name": "Bâton d'abjuration (Staff of Abjuration)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bâton de bois recouvert de gravures complexes est chaud au tou‑ cher et l’énergie qu’il contient le fait vibrer. Lorsque vous le maniez, vous bénéficiez d’un bonus de circonstances de +2 aux tests pour iden‑ tifier la magie d’abjuration.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Cast a Spell; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</span></p>\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Shield}</li>\n<li><strong>Niveau 1</strong> @Compendium[pf2e.spells-srd.4WAib3GichxLjp5p]{Alarm}, @Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{Feather Fall}</li>\n<li><strong>Niveau 2</strong> @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}, @Compendium[pf2e.spells-srd.5esP2GVzvxWsMgaX]{Endure Elements}, @Compendium[pf2e.spells-srd.Fr58LDSrbndgld9n]{Resist Energy}</li>\n</ul>"
+        },
+        {
             "id": "Padded Armor",
             "name": "Armure matelassée (Padded Armor)",
             "description": "<p><span class=\"fontstyle0\">Cette armure est simplement formée d’une couche de tissu épais et matelassé ; elle est parfois utilisée à cause de son coût peu élevé. Les armures matelassées sont plus faciles à endommager et à détruire que les autres types d’armures. Une armure lourde comporte en plus une sous-couche d’armure matelassée incluse dans son prix, mais elle perd alors son trait confort. Vous pouvez porter seulement la sous-couche de votre armure matelassée pour dormir,  si votre armure lourde est détruite ou si vous ne portez pas l’armure lourde complète. Cela vous permet de garder l’armure investie et de bénéficier du pouvoir des runes se trouvant  sur l’armure lourde associée, mais personne d’autre ne peut  porter votre armure lourde sans la sous-couche matelassée.</span> </p>"
@@ -1430,6 +1600,11 @@
             "id": "Ten-Foot Pole",
             "name": "Perche de 3 m (Ten-Foot Pole)",
             "description": "<p><span class=\"fontstyle0\">Lorsque vous utilisez cette perche, vous pouvez utiliser Chercher pour fouiller une case jusqu’à 3 m. La perche n’est cependant pas assez solide pour qu’on puisse l’utiliser comme une arme.</span></p>"
+        },
+        {
+            "id": "Wand of Manifold Missiles (3rd-Level Spell)",
+            "name": "Baguette de projectiles multiples (sort de niveau 3) (Wand of Manifold Missiles (3rd-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette est ornée d’une tête de dragon à son extrémité et d’une sphère de métal poli au milieu. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Cast a Spell; <strong>Fréquence</strong> 1/jour, plus surchar‑ ger ;<strong>Effet</strong> Vous Lancez projectile magique au niveau indiqué. Après avoir lancé le sort, la baguette tire un ou plusieurs projectiles supplémentaires au début de chacun de vos tours, comme si vous lanciez la version à 1 action de projectile magique. Désignez chaque fois les cibles. Ceci dure 1 min, jusqu’à ce que vous ne teniez plus la baguette en main ou que vous tentiez de l’activer à nouveau.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Supply a casting of <em>magic missile</em> of the appropriate levelFournir une incantation de <em>projectile magique</em> du niveau approprié..</span></p>"
         },
         {
             "id": "Class Kit (Fighter)",
@@ -1562,6 +1737,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. Chaque potion de résistance est créée pour protéger contre les dégâts d’acide, de froid, d’électricité, de feu ou de son (et s’appelle une potion de résistance au feu inférieure et autre).</em>&nbsp;is created to defend against acid, cold, electricity, fire, or sonic damage (and is called a&nbsp;<em>lesser potion of fire resistance</em>&nbsp;or the like).</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous bénéficiez d’une résistance 5 contre le type d’énergie approprié</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interagir</span></p>"
         },
         {
+            "id": "Wand of Manifold Missiles (1st-Level Spell)",
+            "name": "Baguette de projectiles multiples (sort de niveau 1) (Wand of Manifold Missiles (1st-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette est ornée d’une tête de dragon à son extrémité et d’une sphère de métal poli au milieu. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Cast a Spell; <strong>Fréquence</strong> 1/jour, plus surchar‑ ger ;<strong>Effet</strong> Vous Lancez projectile magique au niveau indiqué. Après avoir lancé le sort, la baguette tire un ou plusieurs projectiles supplémentaires au début de chacun de vos tours, comme si vous lanciez la version à 1 action de projectile magique. Désignez chaque fois les cibles. Ceci dure 1 min, jusqu’à ce que vous ne teniez plus la baguette en main ou que vous tentiez de l’activer à nouveau.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Supply a casting of <em>magic missile</em> of the appropriate levelFournir une incantation de <em>projectile magique</em> du niveau approprié..</span></p>"
+        },
+        {
             "id": "Sap",
             "name": "Matraque (Sap)",
             "description": "<p>Une matraque est constituée d’un gainage souple fixé autour d’un noyau plus dense, en général une gaine en cuir autour d’une tige de plomb. Sa tête est plus large que sa poignée, pour disperser la force du coup, l’arme ayant pour but d’assommer la victime plutôt que d’en faire couler le sang. </p>"
@@ -1582,6 +1762,11 @@
             "description": "Cette teinture vous aide à localiser vos ennemis. Pendant les 5 min qui suivent, vos Frappes avec des bombes alchimiques réduisent le bonus de circonstances à la CA que vos cibles obtiennent grâce à un abri.Réduisez le bonus de circonstances de la cible de 2."
         },
         {
+            "id": "Storm Flash",
+            "name": "Eclair d'orage (Storm Flash)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette rapière de foudre et de frappe supérieure +2 a une lame dorée et des petits arcs électriques parcourent sa garde lorsque quelqu’un la manie. Quand elle est dégainée sous un ciel bleu, la lame provoque la lente accumulation de nuages orageux dans le ciel. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, imaginer;  <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous lancez un éclair de niveau 6 (DD 33).  <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Fréquence</strong>  une fois toutes les 10 min; <strong>Déclencheur</strong> Un effet d’électricité prend pour cible votre personne ou une créature à 3 m ou moins de vous, ou vous ou une créature à &nbsp;</span></p>"
+        },
+        {
             "id": "Class Kit (Ranger)",
             "name": "Kit de classe (Rôdeur) (Class Kit (Ranger))",
             "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes</strong>  dague, arc long avec 20 flèches</div>\n<div><strong>Equipement</strong> pack d’aventurier, gaine</div>"
@@ -1590,6 +1775,11 @@
             "id": "Brass scepter with amethyst head",
             "name": "Sceptre de laiton à pommeau d'améthyste (Brass scepter with amethyst head)",
             "description": ""
+        },
+        {
+            "id": "Magic Wand (5th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 5) (Magic Wand (5th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Iron Cudgel",
@@ -1682,6 +1872,11 @@
             "description": "L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez le nombre de points de vie indiqué et gagnez un bonus d’objet aux jets de sauvegarde contre la maladie et le poison pendant 10 min. L’élixir restaure 1d6 points de vie, le bonus est de +1."
         },
         {
+            "id": "Energy-Resistant (Greater)",
+            "name": "Résistance à l'énergie supérieure (rune) (Energy-Resistant (Greater))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces symboles canalisent les forces protectrices des plans élémen‑ taires. Vous bénéficiez d’une résistance 5 à l’acide, à l’électricité, au feu ou au froid. Le fabricant choisit le type de dégâts lorsqu’il créé la rune. On peut graver plusieurs runes de résistance à l’énergie sur une armure ; au lieu d’utiliser l’effet dont le niveau est le plus élevé, chacune doit fournir une résistance à un type de dégâts différent. Par exemple, une cuirasse de résistance au feu supérieure et de résistance à l’acide +2 vous confère une résistance à l’acide de 5 et une résistance au feu de 10. Supérieure : Vous bénéficiez d’une résistance 10 à un type de dégâts spécifique</span></p>"
+        },
+        {
             "id": "Coral",
             "name": "Corail (Coral)",
             "description": ""
@@ -1715,6 +1910,11 @@
             "id": "Clothing (Explorer's)",
             "name": "Vêtement (d'explorateur) (Clothing (Explorer's))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les vêtements ordinaires sont des habits fonctionnels à la confection basique, comme les vêtements des paysans, les robes des moines ou les vêtements de travail. Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure. Pour plus d’informations sur les vêtements d’explorateur, reportez-vous à la page 276. &nbsp;</span></p>"
+        },
+        {
+            "id": "Channel Protection Amulet",
+            "name": "Amulette de protection canalisée (Channel Protection Amulet)",
+            "description": "<p>Cette pépite de tectite brillante est logée dans une cage de fil de fer tressé enfilée sur une cordelette de soie. Quand vous portez cette amulette, vous bénéficiez d’une résistance 5 contre les dégâts du sort mise à mal si vous êtes vivant, ou contre les dégâts du sort guérison si vous êtes mort‑vivant.&nbsp;</p>"
         },
         {
             "id": "Caltrop Snare",
@@ -1812,6 +2012,11 @@
             "description": "<p> Une créature sur une monture utilise cette arme semblable à une lance pour infliger de nombreux dégâts. </p>"
         },
         {
+            "id": "Vorpal",
+            "name": "Vorpale (rune) (Vorpal)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Créées à l’origine pour tuer le légendaire jabberwock, les armes vorpales s’avèrent tout aussi efficaces contre la plupart des créatures do‑ tées d’une tête.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> imaginer (mise hors d’état, mort); <strong>Déclencheur</strong> Vous obtenez un 20 naturel lors d’une Frappe avec l’arme, un suc‑ cès critique, et infligez des dégâts tranchants. La cible doit avoir une tête ; <strong>Effet</strong>  La cible doit réussir un jet de Vigueur DD 37 ou être décapitée. Ce coup tue tous types de créatures, sauf celles dont la tête n’est pas indispensable pour survivre. Dans le cas de créatures avec plusieurs têtes, ce coup la tue uniquement si vous tranchez sa dernière tête.</span></p>"
+        },
+        {
             "id": "Scale Mail",
             "name": "Armure d'écailles (Scale Mail)",
             "description": "<p><span class=\"fontstyle0\">L’armure d’écailles est composée de nombreuses écailles en métal cousues sur un support en cuir renforcé, souvent sous la forme d’une longue chemise protégeant le torse, les bras et les jambes.</span> </p>"
@@ -1885,6 +2090,11 @@
             "id": "Boots of Elvenkind",
             "name": "Bottes elfiques (Boots of Elvenkind)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces bottes hautes aux extrémités pointues sont confection‑ nées dans du cuir souple et soyeux, noir ou vert, et ornées d’une élégante bordure et de boucles en or. Lorsque vous les portez, elles vous permettent d’augmenter l’agilité de vos mouvements, en vous conférant un bonus d’objet de +1 aux tests d’Acrobaties. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Fréquence</strong> 1/heure; <strong>Effet</strong>  Jusqu’à la fin de votre tour, vous ignorez les terrains difficiles quand vous vous déplacez sur le sol. Si vous portez une cape elfique, vous béné‑ ficiez également d’un bonus de statut de +1,50 m à votre Vitesse au sol jusqu’à la fin de votre tour. &nbsp;</span></p>"
+        },
+        {
+            "id": "Glamered",
+            "name": "Mimétisme (rune) (Glamered)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">On peut changer l’aspect de cette armure d’une simple pensée.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> imaginer; <strong>Effet</strong>  Vous changez la forme et l’as‑ pect de cette armure pour qu’elle ressemble aux vêtements beaux ou ordinaires que vous imaginez. Les statistiques de l’armure ne changent pas. Seule une créature qui bénéficie d’une vision lucide ou d’un effet similaire peut tenter de discerner l’illusion contre un DD de 25.</span></p>"
         },
         {
             "id": "Manacles (Simple)",
@@ -1967,6 +2177,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Composée de plaques d’argent et d’or imbriquées, cette lourde cein‑ ture est ornée d’images miniatures stylisées représentant cinq rois nains. Vous bénéficiez d’un bonus de circonstances de +1 aux tests de Diplomatie pour Faire bonne impression auprès de nains ou pour Solliciter des nains. Vous bénéficiez également d’un bonus de circons‑ tances de +1 aux tests d’Intimidation contre les géants et les orcs.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La ceinture vous confère aussi la vision dans le noir et vous permet de comprendre, parler et écrire le nain.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Conditions</strong> Vous êtes un nain; <strong>Effet</strong>  Vous resserrez la ceinture d’un cran pour gagner un nombre de points de vie temporaires égal à votre niveau et pour confé‑ rer la vision dans le noir aux alliés situés à 6 m ou moins de vous. Ces deux effets durent dix minutes.</span></p>"
         },
         {
+            "id": "Wand of Slaying (7th-Level Spell)",
+            "name": "Baguette tueuse (sort de niveau 7) (Wand of Slaying (7th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette noire et lustrée a une gemme verte à son extrémité et quiconque regarde à l’intérieur voit le reflet d’un crâne grimaçant au lieu de son visage.<br></span></p>\n<p><strong>Activation</strong> (Lancer un sort); <strong>Fréquence</strong>  1/jour, plus surcharger;  <strong>Effet</strong> Vous Lancez  @Compendium[pf2e.spells-srd.Z9OrRXKgAPv6Hn5l]{Finger of Death} au niveau indiqué. Si le sort tue sa cible, le cadavre libère de l’énergie négative dans une émanation de 6 m en infligeant un montant de dégâts négatifs égal au double du niveau du sort. </p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de <em>doigt de mort</em> du niveau approprié.</span></p>"
+        },
+        {
             "id": "Truesight Potion",
             "name": "Potion de vision lucide (Truesight Potion)",
             "description": "<p>En buvant cette potion claire et rafraîchissante, vous voyez les choses telles qu’elles sont réellement. Vous gagnez les avantages du sort vision lucide au niveau 7 avec un modificateur de contre de +25.</p>"
@@ -1975,6 +2190,11 @@
             "id": "Acid Flask (Moderate)",
             "name": "Fiole d'acide (Modéré) (Acid Flask (Moderate))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide, les dégâts persistants et les dégâts d’éclaboussure d’acide indiqués. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +1 aux jets d’attaque. La fiole inflige 2d6 dégâts persistants d’acide et 2 dégâts d’éclaboussure d’acide.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Frapper</span></p>"
+        },
+        {
+            "id": "Wand of Continuation (8th-Level Spell)",
+            "name": "Baguette de prolongation (sort de niveau 8) (Wand of Continuation (8th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette augmente la durée d’un sort. Des braises jaunes dé‑ crivent des spirales sur sa surface jusqu’à la fin du sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> once per day, plus overcharge; the activation takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> to cast, or <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">; <strong>Effet</strong>  Vous Lancez le sort et sa durée est augmentée de moitié.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation d’un sort du ni‑ veau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> et une durée comprise entre 10 min et 1 h.</span></p>"
         },
         {
             "id": "Mesmerizing Opal",
@@ -1992,6 +2212,16 @@
             "description": ""
         },
         {
+            "id": "Ring of the Ram",
+            "name": "Anneau du bélier (Ring of the Ram)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce lourd anneau de fer a la forme d’une tête de bélier aux cornes enroulées.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> or more (Interact); <strong>Frequency</strong> once per minute; <strong>Effect</strong> A ram-shaped blast of force slams into one foe that you can see within 60 feet. The number of actions you spend to Activate this Item (from 1 to 3) determines the intensity of the force. The blow deals 2d6 force damage per action spent and pushes the target 5 feet per action spent. The target must attempt a DC 22 Fortitude save.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès critique</strong> La cible n’est pas affectée <br><strong>Succès</strong>  La cible subit la moitié des dégâts et elle est repoussée deux fois moins loin. <br><strong>Echec</strong>  La cible subit la totalité des dégâts et elle est repoussée de la distance normale. <br><strong>Échec critique</strong>  La cible subit le double des dégâts et elle est repoussée deux fois plus loin. </span></p>"
+        },
+        {
+            "id": "Antimagic",
+            "name": "Antimagie (rune) (Antimagic)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette rune complexe repousse l’énergie magique, ce qui vous octroie un bonus de statut de +1 aux jets de sauvegarde contre les effets magiques. <br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous êtes la cible d’un sort ou vous êtes dans la zone d’un sort; <strong>Effet</strong> L’armure tente de contrer le sort déclencheur en produisant l’effet d’une dissipation de la magie @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic} de niveau 7 avec un modificateur de contre de +26. </p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de <em>dissipation de la magie</em>.</span></p>"
+        },
+        {
             "id": "Breastplate",
             "name": "Cuirasse (Breastplate)",
             "description": "<p><span class=\"fontstyle0\">Bien que désigné sous le nom de cuirasse, ce type d’armure est constitué de plusieurs éléments de harnois ou d’armure de plates (page 275),  qui protègent le torse, la poitrine, le cou et parfois les  hanches et le bas des jambes. Elle accorde stratégiquement une partie de la protection du harnois tout en permettant plus de souplesse et de rapidité.</span></p>"
@@ -2005,6 +2235,11 @@
             "id": "Class Kit (Barbarian)",
             "name": "Kit de classe (Barbare) (Class Kit (Barbarian))",
             "description": "<div><strong>Armure</strong> armure de peau<br><strong>Armes</strong> 4 javelines<br><strong>Equipement</strong>  pack d’aventurier, grappin, 2 gaines<br><strong>Options</strong>  grande hache (2 po), massue (1 po), épée à deux mains<br>(2 po), ou hache d’armes et bouclier en acier (3 po)</div>"
+        },
+        {
+            "id": "Wand of Continuation (5th-Level Spell)",
+            "name": "Baguette de prolongation (sort de niveau 5) (Wand of Continuation (5th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette augmente la durée d’un sort. Des braises jaunes dé‑ crivent des spirales sur sa surface jusqu’à la fin du sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> once per day, plus overcharge; the activation takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> to cast, or <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">; <strong>Effet</strong>  Vous Lancez le sort et sa durée est augmentée de moitié.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation d’un sort du ni‑ veau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> et une durée comprise entre 10 min et 1 h.</span></p>"
         },
         {
             "id": "Magnifying Glass",
@@ -2045,6 +2280,11 @@
             "id": "Bag of Holding (Type III)",
             "name": "Sac sans fond (Type 3) (Bag of Holding (Type III))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Bien que ce sac en tissu orné de panneaux de soie aux riches cou‑ leurs ou de belles broderies ait l’air ordinaire, il ouvre sur un espace extradimensionnel bien plus grand que ce que pourrait contenir son enveloppe extérieure. L’Encombrement contenu dans le sac sans fond ne change pas son Encombrement à lui. La quantité d’Encombrement qu’il peut accueillir dépend de son type.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez Interagir avec le sac sans fond pour mettre un objet dedans ou le retirer, comme avec un sac ordinaire. Le sac a une grande contenance, mais pour y stocker un objet, il faut qu’il passe par son ouverture.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si le sac est surchargé ou brisé, il se déchire et est détruit, les objets qu’il contient étant perdus à jamais. S’il est mis sur l’envers, les objets qu’il contient se répandent à terre, intacts, mais il faut le remettre sur l’endroit avant de le réutiliser. Une créature vivante placée dans le sac a assez d’air pour respirer 10 min, ensuite elle commence à suffoquer. Elle peut faire un test DD 13 pour S’échapper. Un objet contenu dans \n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Capacité</strong> 100 encombrements&nbsp;</span></p>"
+        },
+        {
+            "id": "Wand of Smoldering Fireballs (9th-Level Spell)",
+            "name": "Baguette de boules de feu incendiaires (Sort de niveau 9) (Wand of Smoldering Fireballs (9th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette noircie et carbonisée émet une faible odeur de guano de chauve‑souris.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> 1/jour,  plus surcharger; <strong>Effet</strong> Vous lancez boule de feu  @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball} au niveau indiqué. Chaque créature qui rate son jet de sauvegarde subit des 4d6 de dégâts de feu persistants. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>boule de feu</em> du niveau approprié.</span></p>"
         },
         {
             "id": "Infiltrator's Elixir",
@@ -2095,6 +2335,11 @@
             "id": "Flail",
             "name": "Fléau (Flail)",
             "description": "<p>Cette arme consiste en une poignée de bois attachée à une boule ou à un cylindre à pointes au moyen d’une chaîne, d’une corde ou d’une lanière de cuir.</p>"
+        },
+        {
+            "id": "Horn of Fog",
+            "name": "Corne de brume (Horn of Fog)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette grande corne de bélier est toujours recouverte de gouttelettes d’eau, comme de la condensation. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/heure; <strong>Effet</strong> Vous activez la corne en soufflant fort dedans. Elle émet alors une puissante note grave et lance brume de dissimulation au niveau 2 @Compendium[pf2e.spells-srd.9XHmC2JgTUIQ1CCm]{Obscuring Mist}. Vous pouvez Révoquer la brume quand bon vous semble en soufflant une seconde note en utilisant l’action Interagir.</span></p>"
         },
         {
             "id": "Scimitar",
@@ -2227,6 +2472,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Correctement récolté et conservé, le poison du dard de la vouivre est efficace et rapide.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegard</strong> Vigueur DD 26 ;  <strong>Durée maximum </strong> 6 rounds; <strong>Stade 1</strong>  5d6 dégâts de poison (1 round); <strong>Stade 2</strong>  6d6 dégâts de poison (1 round); <strong>Stade 3</strong> 8d6 dégâts de poison (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
         },
         {
+            "id": "Wand of Widening (7th-Level Spell)",
+            "name": "Baguette d'élargissement (sort de niveau 7) (Wand of Widening (7th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
+        },
+        {
             "id": "Tent (Four-Person)",
             "name": "Tente (4 personnes) (Tent (Four-Person))",
             "description": ""
@@ -2272,6 +2522,16 @@
             "description": "Cet élixir distillé à partir d’écailles de salamandre permet de résister au feu. Pendant 24 h, vous êtes protégé contre les effets d’une chaleur importante. Vous êtes aussi protégé contre la chaleur extrême."
         },
         {
+            "id": "Wand of Manifold Missiles (5th-Level Spell)",
+            "name": "Baguette de projectiles multiples (sort de niveau 5) (Wand of Manifold Missiles (5th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette est ornée d’une tête de dragon à son extrémité et d’une sphère de métal poli au milieu. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Cast a Spell; <strong>Fréquence</strong> 1/jour, plus surchar‑ ger ;<strong>Effet</strong> Vous Lancez projectile magique au niveau indiqué. Après avoir lancé le sort, la baguette tire un ou plusieurs projectiles supplémentaires au début de chacun de vos tours, comme si vous lanciez la version à 1 action de projectile magique. Désignez chaque fois les cibles. Ceci dure 1 min, jusqu’à ce que vous ne teniez plus la baguette en main ou que vous tentiez de l’activer à nouveau.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Supply a casting of <em>magic missile</em> of the appropriate levelFournir une incantation de <em>projectile magique</em> du niveau approprié..</span></p>"
+        },
+        {
+            "id": "Wand of Widening (9th-Level Spell)",
+            "name": "Baguette d'élargissement (sort de niveau 9) (Wand of Widening (9th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
+        },
+        {
             "id": "Scourge",
             "name": "Fléau (Scourge)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">cette arme consiste en une poignée de bois attachée à une boule ou à un cylindre à pointes au moyen d’une chaîne, d’une corde ou d’une\nlanière de cuir..&nbsp;</span></p>"
@@ -2285,6 +2545,11 @@
             "id": "Aeon Stone (Pink Rhomboid)",
             "name": "Pierre d'éternité (Rhombe rose vif) (Aeon Stone (Pink Rhomboid))",
             "description": "<p>Quand vous investissez cette pierre, vous gagnez 15 points de vie temporaires. Si les effets de la pierre sont réprimés, vous perdez tous les éventuels points de vie temporaires restants jusqu’à ce que la pierre retrouve ses effets. Les points de vie temporaires se renouvellent lors de vos préparatifs quotidiens ; ils ne se renouvellent pas si, avant cela, vous réinvestissez la pierre ou si vous investissez une autre pierre d’éternité rhombe rose vif.</p>\n<p>Le pouvoir de résonance vous permet de lancer le tour de magie @Compendium[pf2e.spells-srd.SnjhtQYexDtNDdEg]{stabilisation} comme un sort inné divin</p>"
+        },
+        {
+            "id": "Wand of Smoldering Fireballs (5th-Level Spell)",
+            "name": "Baguette de boules de feu incendiaires (Sort de niveau 5) (Wand of Smoldering Fireballs (5th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette noircie et carbonisée émet une faible odeur de guano de chauve‑souris.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> 1/jour,  plus surcharger; <strong>Effet</strong> Vous lancez boule de feu  @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball} au niveau indiqué. Chaque créature qui rate son jet de sauvegarde subit des 2d6 de dégâts de feu persistants. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>boule de feu</em> du niveau approprié.</span></p>"
         },
         {
             "id": "Dwarven Thrower",
@@ -2350,6 +2615,11 @@
             "id": "Material Component Pouch",
             "name": "Bourse de composants matériels (Material Component Pouch)",
             "description": "<p>Cette bourse contient des composants matériels pour les sorts qui les requièrent. Ces composants s’épuisent au fil du temps, mais vous pouvez en recharger le stock au cours de vos préparatifs quotidiens.</p>"
+        },
+        {
+            "id": "Wand of Continuation (3rd-Level Spell)",
+            "name": "Baguette de prolongation (sort de niveau 3) (Wand of Continuation (3rd-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette augmente la durée d’un sort. Des braises jaunes dé‑ crivent des spirales sur sa surface jusqu’à la fin du sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> once per day, plus overcharge; the activation takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> to cast, or <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">; <strong>Effet</strong>  Vous Lancez le sort et sa durée est augmentée de moitié.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation d’un sort du ni‑ veau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> et une durée comprise entre 10 min et 1 h.</span></p>"
         },
         {
             "id": "Feather Step Stone",
@@ -2427,6 +2697,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bâton de bois ciré est orné d’un motif bosselé ressemblant aux plis d’un cerveau. Lorsque vous le maniez, vous bénéficiez d’un bo‑ nus de circonstances de +2 aux tests pour identifier la magie mentale.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Cast a Spell; <strong>Effect</strong> You expend a number of charges from the staff to cast a spell from its list.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>Conditions de fabrication Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués</span></p>\n<ul>\n<li><strong>Tour de magiep</strong> @Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{Daze}</li>\n<li><strong>Niveau 1</strong>   douleur fantôme, lien mental @Compendium[pf2e.spells-srd.D442XMADp01qJ7Cs]{Mindlink} @Compendium[pf2e.spells-srd.R8bqnYiThB6MYTxD]{Phantom Pain}</li>\n</ul>"
         },
         {
+            "id": "Wand of Continuation (2nd-Level Spell)",
+            "name": "Baguette de prolongation (sort de niveau 2) (Wand of Continuation (2nd-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette augmente la durée d’un sort. Des braises jaunes dé‑ crivent des spirales sur sa surface jusqu’à la fin du sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> once per day, plus overcharge; the activation takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> to cast, or <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">; <strong>Effet</strong>  Vous Lancez le sort et sa durée est augmentée de moitié.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation d’un sort du ni‑ veau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> et une durée comprise entre 10 min et 1 h.</span></p>"
+        },
+        {
             "id": "Moonstone",
             "name": "Pierre de lune (Moonstone)",
             "description": ""
@@ -2480,6 +2755,11 @@
             "id": "Eagle Eye Elixir (Greater)",
             "name": "Elixir d'oeil de faucon (supérieur) (Eagle Eye Elixir (Greater))",
             "description": "Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet aux tests de Perception. Il est plus important si vous tentez de repérer une porte ou une trappe secrètes. Le bonus est de +3 ou de +4 pour trouver une porte ou une trappe secrètes"
+        },
+        {
+            "id": "Fortification",
+            "name": "Fortification (rune) (Fortification)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une rune de <em>fortification</em> protège contre les attaques les plus mortelles. Chaque fois que vous êtes victime d’un coup critique et que vous por‑ tez l’armure gravée, effectuez un test nu DD 17. En cas de succès, le coup devient normal. Cette propriété épaissit l’armure en augmentant de 1 son Encombrement et de 2 la Force nécessaire pour réduire ses malus. </span></p>"
         },
         {
             "id": "Aeon Stone (Orange Prism)",
@@ -2567,6 +2847,11 @@
             "description": "<p><span class=\"fontstyle0\">Cette lourde lame est prisée des gardiens de sites religieux. Elle possède une lame distinctive en forme de croissant, qui ressemble à un mélange entre une faucille et une épée. Il y a souvent des trous percés dans la lame ou le pommeau afin que des cloches ou d’autres objets sacrés puissent être apposés sur l’arme comme aide à la prière ou à la médiation. </span></p>"
         },
         {
+            "id": "Magic Wand (2nd-Level Spell)",
+            "name": "Baguette magique (sort de niveau 2) (Magic Wand (2nd-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
+        },
+        {
             "id": "Chain Mail",
             "name": "Cotte de mailles (Chain Mail)",
             "description": "<p><span class=\"fontstyle0\">Une cotte de mailles est composée de plusieurs pièces d’armure constituées de petits anneaux en métal reliés entre eux par un maillage protecteur. Elle comprend généralement une chemise de mailles, des jambières, deux bras et une coiffe pour la tête, protégeant conjointement la plus grande partie du corps.</span> </p>"
@@ -2605,6 +2890,16 @@
             "id": "Mistform Elixir (Moderate)",
             "name": "Elixir de brumeforme (modéré) (Mistform Elixir (Moderate))",
             "description": "Une faible brume émane de votre peau et vous masque pendant la durée indiquée. Comme d’ordinaire quand vous êtes masqué,mais que votre position est évidente, vous ne pouvez pas en profiter pour Vous cacher ni Être furtif. La durée est de 1 min."
+        },
+        {
+            "id": "Sky Hammer",
+            "name": "Marteau céleste (Sky Hammer)",
+            "description": "<p>La tête en acier massive de ce marteau de guerre en orichalque de foudre enflammé de frappe majeure +3 a la forme d’une comète flamboyante. </p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Déclencheur</strong>Votre jet d’attaque avec le marteau céleste est un succès critique; <strong>Effet</strong> Une @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}  boule de feu de niveau 6 explose, centrée sur le marteau céleste. Le DD du sort est de 45. Vous êtes immunisé contre l’effet de la boule de feu, mais pas vos alliés. </p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de boule de feu (niveau 6) et les matières premières initiales doivent inclure au moins 12 375 po d’orichalque.</span></p>"
+        },
+        {
+            "id": "Magic Wand (4th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 4) (Magic Wand (4th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Mail of Luck",
@@ -2677,6 +2972,11 @@
             "description": "<p><span class=\"fontstyle0\">La lame de ce couteau long de 30 cm se courbe et n’a pas de garde au niveau de la poignée.</span> </p>"
         },
         {
+            "id": "Wand of Manifold Missiles (7th-Level Spell)",
+            "name": "Baguette de projectiles multiples (sort de niveau 7) (Wand of Manifold Missiles (7th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette est ornée d’une tête de dragon à son extrémité et d’une sphère de métal poli au milieu. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Cast a Spell; <strong>Fréquence</strong> 1/jour, plus surchar‑ ger ;<strong>Effet</strong> Vous Lancez projectile magique au niveau indiqué. Après avoir lancé le sort, la baguette tire un ou plusieurs projectiles supplémentaires au début de chacun de vos tours, comme si vous lanciez la version à 1 action de projectile magique. Désignez chaque fois les cibles. Ceci dure 1 min, jusqu’à ce que vous ne teniez plus la baguette en main ou que vous tentiez de l’activer à nouveau.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Supply a casting of <em>magic missile</em> of the appropriate levelFournir une incantation de <em>projectile magique</em> du niveau approprié..</span></p>"
+        },
+        {
             "id": "Amber",
             "name": "Ambre (Amber)",
             "description": ""
@@ -2705,6 +3005,11 @@
             "id": "Salamander Elixir (Greater)",
             "name": "Elixir de la salamandre (supérieur) (Salamander Elixir (Greater))",
             "description": "Cet élixir distillé à partir d’écailles de salamandre permet de résister au feu. Pendant 24 h, vous êtes protégé contre les effets d’une chaleur importante. Vous êtes aussi protégé contre la chaleur extrême et extraordinaire."
+        },
+        {
+            "id": "Ring of Swimming",
+            "name": "Anneau de nage (Ring of Swimming)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet anneau de métal bleuté vous confère une Vitesse de nage égale à la moitié de votre Vitesse au sol. Les malus à votre Vitesse (y compris ceux que vous im‑ pose votre armure) s’appliquent avant de la diviser par deux.&nbsp;</span></p>"
         },
         {
             "id": "Compass",
@@ -2760,6 +3065,11 @@
             "id": "Dragonplate",
             "name": "Harnois du dragon (Dragonplate)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"></span></p>\n<p>Ce harnois en peau de dragon de résilience supérieure +2 vous donne l’air d’un terrifiant dragon. Il se décline en dix variétés, chacune corres‑ pondant à l’un des dix types de dragons ordinaires, bien qu’il en existe sûrement d’autres. </p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous soufflez comme un dragon, la forme, le type de dégâts et le jet de sauvegarde du souffle dépendant du type de dragon ayant servi à fabriquer l’ar‑ mure (voir le tableau suivant). Le souffle inflige 14d6 dégâts ; chaque créature de la zone devant faire un jet de sauvegarde basique DD 36.</span></p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Les matériaux initiaux bruts doivent inclure 1 250 po de peau de dragon.</span></p>"
+        },
+        {
+            "id": "Doubling Rings",
+            "name": "Anneau de doublement (Doubling Rings)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet se compose de deux anneaux magiquement liés ; un anneau effilé d’or étincelant orné d’un rubis taillé en carré et un épais anneau de fer simple. Quand vous maniez une arme de corps à corps dans la main qui porte l’anneau d’or, les runes fondamentales de l’arme sont dupliquées sur l’éventuelle arme de corps à corps que vous maniez dans la main qui porte l’anneau de fer (les runes fondamentales sont celles de puissance d’arme et de frappe, qui confèrent respectivement un bonus d’objet aux jets d’attaque et ajoutent un ou plusieurs dé(s) de dégâts d’armes). Les éventuelles runes fondamentales sur l’arme dans la main portant l’anneau de fer sont réprimées. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La reproduction fonctionne uniquement si vous portez les deux anneaux et prend fin dès que vous cessez de manier une arme de corps à corps dans l’une de vos mains. Par conséquent, l’avantage ne s’applique pas aux attaques de jet ou si vous tenez une arme mais que vous ne la maniez pas (comme quand vous tenez une arme dans une main qui nécessite deux mains pour la manier). </span></p>"
         },
         {
             "id": "Quicksilver Mutagen (Lesser)",
@@ -2827,6 +3137,11 @@
             "description": ""
         },
         {
+            "id": "Wondrous Figurine (Golden Lions)",
+            "name": "Figurine merveilleuse (Lions dorés) (Wondrous Figurine (Golden Lions))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chacune de ces statuettes fait 2,5 cm de haut. Elles sont sculptées dans des matériaux spécifiques et repré‑ sentent des animaux.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, Interagir <strong>Effet</strong> YVous activez une figurine en la posant sur une surface solide et en prononçant son nom. Elle se transforme alors en une ou plusieurs créa‑ tures. Sous forme de créature, la figurine adopte le trait sbire. Elle comprend votre langue et fait de son mieux pour vous obéir lorsque vous utilisez une action pour lui donner un ordre. Les par‑ ticularités de chaque créature et la fréquence d’activation de chaque statuette (le cas échéant) figurent dans son entrée.<br></span></p>\n<p>Si la figurine est tuée sous forme animale, elle redevient une statue et ne peut plus s’activer avant une semaine. Si elle est détruite sous forme de statue, elle vole en éclats et sa magie disparaît</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette statuette représente un couple de lions dorés. Activée, elle se change en deux lions adultes (Bestiaire Pathfinder p. 52). Vous pou‑ vez appeler les lions une seule fois par jour et ils restent sous forme animale 1 h au maximum. Si l’un des lions se fait tuer, il ne peut plus être convoqué avant qu’une semaine se soit écoulé, mais cela ne vous empêche pas d’appeler l’autre.  &nbsp;</span></p>"
+        },
+        {
             "id": "Infiltrator Thieves' Tools",
             "name": "Outils de voleur d'infiltration (Infiltrator Thieves' Tools)",
             "description": "<p> Les outils de voleur d’infiltration ajoutent un bonus d’objet de +1 aux tests pour Crocheter des serrures et Désamorcer des dispositifs. Si vos outils de voleur sont brisés, vous pouvez les réparer en remplaçant les crochets par des crochets de rechange adaptés à vos outils ; cela ne nécessite pas l’utilisation de l’action Réparer. </p>"
@@ -2882,6 +3197,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce cierge effilé possède une mèche dorée qui brûle d’une flamme blanche. Il s’active lorsqu’on l’allume. Les créatures dans un rayon de 3 m ont alors du mal à mentir. Elles subissent un malus de statut de −4 pour Mentir.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">De plus, quand une créature (vous y compris) entre dans la zone pour la première fois, elle doit réussir un jet de Volonté DD 26, sans quoi elle est incapable de dire un mensonge délibéré tant qu’elle se trouve dans un rayon de 3 m autour de la chandelle allumée. L’effet dure tant que le cierge brûle. Une fois allumé, il brûle pendant 10 min et il est impossible de l’éteindre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>"
         },
         {
+            "id": "Wand of Widening (5th-Level Spell)",
+            "name": "Baguette d'élargissement (sort de niveau 5) (Wand of Widening (5th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
+        },
+        {
             "id": "Sapphire",
             "name": "Saphir (Sapphire)",
             "description": ""
@@ -2910,6 +3230,11 @@
             "id": "Potion of Swimming (Greater)",
             "name": "Potion de nage (supérieur) (Potion of Swimming (Greater))",
             "description": "<p>Un dépôt sablonneux occupe le fond de cette fiole de potion au goût d’eau de mer. Lorsque vous la buvez, vous bénéficiez d’une Vitesse de nage égale à votre Vitesse au sol pendant 1 heure.</p>"
+        },
+        {
+            "id": "Holy Prayer Beads",
+            "name": "Chapelet sacré (Holy Prayer Beads)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce chapelet à l’air ordinaire se met à luire et tiédit au toucher lorsque vous lancez un sort divin en le tenant pour la première fois. Il s’harmonise alors avec votre divinité, changeant de forme et d’iconographie pour afficher les symboles religieux et l’iconographie de celle‑ci. Le chapelet ne se transforme pas et ne fonctionne pas avec un lanceur de sorts mauvais. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque vous lancez un sort divin issu de l’un de vos emplacements de sort en tenant le chapelet, vous récupérez 1 PV. C’est un effet d’énergie positive. Si le sort que vous avez lancé est un sort de guéri‑ son, vous pouvez accorder cet effet de guérison supplémentaire à l’un des bénéficiaires du sort au lieu de vous.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  Lancer un sort <strong>Effet</strong> lance bénédiction ou guérison chacun une fois par jour.  @Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bless} - @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Vous avez la capacité de classe incantation de la tradition divine.</span></p>"
         },
         {
             "id": "Illustrated book",
@@ -2942,6 +3267,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le fil d’une arme acérée est incroyablement aiguisé. Les attaques avec cette arme donnent un coup critique sur un 19 au dé, à condition que ce résultat soit un succès. Cette propriété ne produit aucun effet sur un 19 si le résultat est un échec.&nbsp;</span></p>"
         },
         {
+            "id": "Wand of Widening (4th-Level Spell)",
+            "name": "Baguette d'élargissement (sort de niveau 4) (Wand of Widening (4th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
+        },
+        {
             "id": "Class Kit (Sorcerer)",
             "name": "Kit de classe (Ensorceleur) (Class Kit (Sorcerer))",
             "description": "<div><strong>Armes</strong> dague, fronde avec 20 billes </div>\n<div><strong>Equipement</strong>  pack d’aventurier, bandoulière, 2 jeux de chausse‑trappes, gaine</div>"
@@ -2962,9 +3292,24 @@
             "description": "<p><span class=\"fontstyle0\">Ce kit contient des outils et du matériel pour fabriquer des pièges artisanaux. Un kit de braconnage vous permet de Fabriquer des pièges artisanaux à l’aide de la compétence Artisanat. Un kit de braconnage spécialisé vous accorde un bonus d’objet de +1 au test.</span> </p>"
         },
         {
+            "id": "Ventriloquist's Ring (Greater)",
+            "name": "Anneau de ventriloquie (supérieure) (Ventriloquist's Ring (Greater))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le pourtour de cet élégant anneau de cuivre est gravé de minuscules images d’oiseaux chanteurs. Vous gagnez un bonus d’objet de +1 aux tests de Duperie. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> aVous pouvez activer l’anneau autant de fois que vous le voulez par jour; <strong>Effet</strong> L’anneau confère un bonus de +2. Quand vous activez l’anneau, vous bénéficiez des effets d’une ventriloquie de niveau 2  @Compendium[pf2e.spells-srd.yV7Ouzaoe7DHLESI]{Ventriloquism} (DD 27). </span></p>\n<p>&nbsp;</p>"
+        },
+        {
             "id": "Cold Iron Buckler (Low-Grade)",
             "name": "Targe en fer froid de (basse qualité) (Cold Iron Buckler (Low-Grade))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en fer froid ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 3, 12 PV et un SR de 6.<br><strong>Conditions de fabrication</strong> au moins 15 pa de fer froid &nbsp;</span></p>"
+        },
+        {
+            "id": "Magic Wand (9th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 9) (Magic Wand (9th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
+        },
+        {
+            "id": "Marvelous Medicines",
+            "name": "Remèdes merveilleux (Marvelous Medicines)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette trousse de guérisseur semble contenir une réserve inépuisable de bandages, d’herbes et d’objets curatifs d’une qualité irréprochable qui vous accordent un bonus de +2 aux tests de Médecine. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Soigner un empoisonnement ou 8 h (Soigner une maladie) ; <strong>Effet</strong> Vous pouvez activez la trousse lorsque vous l’uti‑ lisez pour Soigner un empoisonnement afin de produire l’effet de neutralisation du poison ou lorsque vous Soigner une maladie pour produire l’effet de délivrance des maladies. Une fois les remèdes utilisés pour soigner l’empoisonnement ou la maladie d’un patient, vous ne pouvez pas les réutiliser pour soigner la même affliction chez ce patient.&nbsp;</span></p>"
         },
         {
             "id": "Sneaky Key",
@@ -3027,6 +3372,11 @@
             "description": ""
         },
         {
+            "id": "Primeval Mistletoe",
+            "name": "Gui primitif (Primeval Mistletoe)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouquet de houx et de gui constellé de baies ne se fane pas et ne pourrit pas. Il peut servir de focaliseur primordial et donne un bonus d’objet de +1 aux tests de Nature à celui qui le tient.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/10 minutes; <strong>Effet</strong>  Vous pressez une baie et étalez son jus sur un bâton ou un gourdin non magique pour lui lancer gourdin magique @Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]{Shillelagh}.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>Vous pouvez nouer le bouquet autour de votre poignet et toucher un arbre pour lancer morphologie d’arbre   @Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Tree Shape} sur vous‑ même, sauf que vous devenez une plante grimpante sur l’arbre touché et non un arbre.</span></p>"
+        },
+        {
             "id": "Healing Potion (Moderate)",
             "name": "Potion de guérison (modéré) (Healing Potion (Moderate))",
             "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué. La potion rend 3d8+10 points de vie. </p>"
@@ -3035,6 +3385,11 @@
             "id": "Sickle",
             "name": "Serpe (Sickle)",
             "description": "<p>à l’origine un outil agricole utilisé pour faucher le grain, cette arme à une main possède un court manche en bois se terminant par une lame incurvée, parfois affûtée des deux côtés.</p>"
+        },
+        {
+            "id": "Wand of Smoldering Fireballs (7th-Level Spell)",
+            "name": "Baguette de boules de feu incendiaires (Sort de niveau 7) (Wand of Smoldering Fireballs (7th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette noircie et carbonisée émet une faible odeur de guano de chauve‑souris.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> 1/jour,  plus surcharger; <strong>Effet</strong> Vous lancez boule de feu  @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball} au niveau indiqué. Chaque créature qui rate son jet de sauvegarde subit des 3d6 de dégâts de feu persistants. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>boule de feu</em> du niveau approprié.</span></p>"
         },
         {
             "id": "Adamantine Ingot",
@@ -3092,6 +3447,16 @@
             "description": "<p>Cinq pointes barbelées ornent la surface de ce bouclier en acier (Solidité 6, 24 PV, SR 12). Ce sont des pointes de bouclier de frappe +1. Quand vous effectuez l’action Blocage au bouclier avec ce bouclier, les dégâts sont infligés aux pointes avant le bouclier. Quand le bouclier devrait subir des dégâts (après application de la Solidité), une pointe se casse par tranche de 6 dégâts, ce qui réduit les dégâts de 6. Le bouclier subit les éventuels dégâts restants. Le bouclier subit les dégâts comme à l’accoutumée quand toutes les pointes sont cassées</p>\n<p>Quand il ne reste plus aucune pointe, il ne vous est plus possible d’attaquer avec elles tant qu’elles ne se sont pas régénérées le lendemain.</p>\n<p><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;<strong>Interagir</strong>; Effet Vous projetez l’une des pointes du bouclier sur une cible. Une pointe projetée utilise les statistiques des pointes mais c’est une arme de guerre à dis‑ tance avec un facteur de portée de 36 m.</p>"
         },
         {
+            "id": "Wondrous Figurine (Obsidian Steed)",
+            "name": "Figurine merveilleuse (Destrier d'obsidienne) (Wondrous Figurine (Obsidian Steed))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette sinistre statuette noire ressemble à un cheval cabré. Une fois activée, elle devient un destrier noir (Bestiaire Pathfinder p. 244). Vous pouvez l’appeler une fois par semaine pour une période de 24 h, mais il n’utilise pas changement de plan ni ses autres pouvoirs pour son cava‑ lier. Il a beau être mauvais, il se laisse monter par des créatures de tout alignement. Cependant, une créature bonne doit faire un test nu DD 3. <br />Sur un échec, le destrier noir utilise changement de plan pour l’empor‑ ter en un lieu aléatoire des Abysses. Il reprend de suite sa forme de fi‑ gurine et laisse son cavalier perdu dans cet endroit cauchemardesque.</span></p>"
+        },
+        {
+            "id": "Holy Prayer Beads (Greater)",
+            "name": "Chapelet sacré (supérieur) (Holy Prayer Beads (Greater))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce chapelet à l’air ordinaire se met à luire et tiédit au toucher lorsque vous lancez un sort divin en le tenant pour la première fois. Il s’harmonise alors avec votre divinité, changeant de forme et d’iconographie pour afficher les symboles religieux et l’iconographie de celle‑ci. Le chapelet ne se transforme pas et ne fonctionne pas avec un lanceur de sorts mauvais. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous récupérez 1d4 PV au lieu de 1 PV lorsque vous lancez un sort divin depuis l’un de vos emplacements de sort. Changez la liste de sorts du chapelet qui lance maintenant les versions de niveau 4 de bénédiction, colère divine (basée sur l’un des composants d’alignement de votre divinité), guérison, neutralisation du poison et délivrance des maladies. Vous pouvez lancer chacun de ces sorts une fois par jour. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  Lancer un sort <strong>Effet</strong> lance bénédiction ou guérison chacun une fois par jour.  @Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bless} - @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Vous avez la capacité de classe incantation de la tradition divine.</span></p>"
+        },
+        {
             "id": "Warhammer",
             "name": "Marteau de guerre (Warhammer)",
             "description": "<p>cette arme possède un manche en bois se terminant par une lourde tête en métal. La tête du marteau peut être à simple face ou à double face, mais elle est toujours capable de délivrer de puissants coups contondants.\n</p>"
@@ -3147,9 +3512,29 @@
             "description": "<div><strong>Armes</strong> pique, bâton</div>\n<div><strong>Equipement</strong>pack d’aventurier, bandoulière, kit d’escalade</div>\n<div>, grappin, bâton fumigène inférieur</div>"
         },
         {
+            "id": "Thundering (Greater)",
+            "name": "Tonnerre supérieure (rune) (Thundering (Greater))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme émet un grondement de tonnerre lorsqu’elle touche, infli‑ geant 1d6 dégâts de son supplémentaires en cas de Frappe réussie. En cas de coup critique, la cible doit réussir un jet de Vigueur DD 34 ou être sourde pendant une minute (ou une heure en cas d’échec critique).</span>Les dégâts de son infligés par cette arme ignorent la résistance au son de la cible. </p>"
+        },
+        {
             "id": "Shield Boss",
             "name": "Ombon (Shield Boss)",
             "description": "<p>Morceau métallique généralement épais et rond, convexe ou conique, fixé au centre d’un bouclier, l’ombon augmente les dégâts contondants d’un coup de bouclier.</p>"
+        },
+        {
+            "id": "Marvelous Medicines (Greater)",
+            "name": "Remèdes merveilleux (supérieur) (Marvelous Medicines (Greater))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette trousse de guérisseur semble contenir une réserve inépuisable de bandages, d’herbes et d’objets curatifs d’une qualité irréprochable qui vous accordent un bonus de +3 aux tests de Médecine. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">  Soigner un empoisonnement ou 8 h (Soigner une maladie); <strong>Effet</strong>Vous pouvez activez la trousse lorsque vous l’utilisez pour Soigner un empoisonnement afin de produire l’effet de neutralisation du poison de niveau 6 @Compendium[pf2e.spells-srd.SUKaxVZW2TlM8lu0]{Neutralize Poison} ou lorsque vous Soigner une maladie pour produire l’effet de délivrance des maladies de niveau 6 @Compendium[pf2e.spells-srd.RneiyehRO6f7LP44]{Remove Disease}. Une fois les remèdes utilisés pour soigner l’empoisonnement ou la maladie d’un patient, vous ne pouvez pas les réutiliser pour soigner la même affliction chez ce patient. &nbsp;</p>"
+        },
+        {
+            "id": "Wand of Slaying (9th-Level Spell)",
+            "name": "Baguette tueuse (sort de niveau 9) (Wand of Slaying (9th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette noire et lustrée a une gemme verte à son extrémité et quiconque regarde à l’intérieur voit le reflet d’un crâne grimaçant au lieu de son visage.<br></span></p>\n<p><strong>Activation</strong> (Lancer un sort); <strong>Fréquence</strong>  1/jour, plus surcharger;  <strong>Effet</strong> Vous Lancez  @Compendium[pf2e.spells-srd.Z9OrRXKgAPv6Hn5l]{Finger of Death} au niveau indiqué. Si le sort tue sa cible, le cadavre libère de l’énergie négative dans une émanation de 6 m en infligeant un montant de dégâts négatifs égal au double du niveau du sort. </p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de <em>doigt de mort</em> du niveau approprié.</span></p>"
+        },
+        {
+            "id": "Wand of Widening (6th-Level Spell)",
+            "name": "Baguette d'élargissement (sort de niveau 6) (Wand of Widening (6th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
         },
         {
             "id": "Animal Staff (Major)",
@@ -3167,6 +3552,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrait de lotus noir provoque de violentes hémorragies internes. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 42  <strong>Délai</strong>1 minute; <strong>Durée maximum</strong> 6 rounds; <strong>Stade 1</strong> 15d6 dégâts de poison et drainé 1 (1 round); <strong>Stade 2</strong> 17d6 dégâts de poison et drainé 1 (1 round);  <strong>Stade 3</strong> 20d6 dégâts de poison et drainé 2 (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
+            "id": "Shadow (Greater)",
+            "name": "Ombre supérieure (rune) (Shadow (Greater))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une armure avec cette rune devient noire et indistincte. Vous béné‑ ficiez d’un bonus d’objet de +2 aux tests de Discrétion lorsque vous portez l’armure.&nbsp;&nbsp;</span></p>"
+        },
+        {
             "id": "Javelin of Lightning",
             "name": "Javeline de foudre (Javelin of Lightning)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet ressemble à une javeline ordinaire gravée d’éclairs. Si vous la lancez sans l’activer, elle tournoie mollement dans les airs et ne touche pas sa cible. Par contre lorsque vous l’activez, ses gravures se mettent à crépiter d’électricité sur votre ordre. Vous devez ensuite la lancer. Elle se brise dès qu’elle quitte votre main et libère sa magie sous forme d’un @Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{éclair} de niveau 4 partant de votre espace. Il inflige 5d12 dégâts d’électricité, et possède un jet de Réflexes DD 25.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> sur ordre, interagir</span></p>"
@@ -3180,6 +3570,11 @@
             "id": "Disrupting (Greater)",
             "name": "Pertubatrice supérieure (rune) (Disrupting (Greater))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une arme perturbatrice bouillonne d’énergie positive en infligeant 1d6 dégâts positifs supplémentaires aux morts‑vivants. En cas de coup critique, le mort‑vivant est également affaibli 1 jusqu’à la fin de votre prochain tour. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Les dégâts supplémentaires passent à 2d6. En cas de coup critique, au lieu d’être affaibli 1, le mort‑vivant doit faire un jet de Vigueur DD 34 avec les effets suivants. Il s’agit d’un effet de mise hors de combat.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès critique.</strong>  Il est affaibli 1 jusqu’à la fin de votre prochain tour. <br /><strong>Succès</strong>. Il est affaibli 2 jusqu’à la fin de votre prochain tour. <br /><strong>Echec</strong>  Il est affaibli 3 jusqu’à la fin de votre prochain tour.<br /><strong>Échec critique.</strong> Il est détruit.</span></p>"
+        },
+        {
+            "id": "Magic Wand (6th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 6) (Magic Wand (6th-Level Spell))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Coyote Cloak",
@@ -3230,6 +3625,11 @@
             "id": "Dust of Disappearance",
             "name": "Poudre de disparition (Dust of Disappearance)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette poudre scintille comme mille particules de lumière. La poudre s’active quand vous la saupoudrez sur vous ou une créature à portée. Elle lance alors @Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{invisibilité} au niveau 4 pendant 1 minute sur la créature recouverte. Il est impossible d’annuler cette invisibilité ou de voir au travers avec un sort de niveau 3 ou moins ou avec un objet de niveau 5 ou moins.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>"
+        },
+        {
+            "id": "Skeleton Key (Greater)",
+            "name": "Passe_partout (supérieur) (Skeleton Key (Greater))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un crâne ricanant couronne la tige de cette clef macabre. Elle remplace les outils de voleur pour Crocheter une serrure et donne un bonus d’objet de +2 aux tests de Vol. Si le passe-partout se brise suite à un échec critique sur le test, il fonctionne comme des outils de voleur normaux et perd ses avantages jusqu’à ce qu’il soit réparé. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> Interagir; <strong>Fréquence</strong> 1/heure; <strong> Déclencheur</strong> Vous tentez de Crocheter une serrure mais n’avez pas encore lancé le dé;<strong>Effet</strong>  La clef lance déblocage  @Compendium[pf2e.spells-srd.6Ot4N22t5tPD51BO]{Knock} on the&nbsp;lock you’re trying to pick.</span></p>"
         }
     ]
 }

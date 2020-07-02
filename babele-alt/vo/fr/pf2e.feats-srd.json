@@ -57,11 +57,6 @@
             "description": "<p><strong>Prérequis</strong> ordre de l’animal</p>\n<hr>\n<p>Vous obtenez les services d’un jeune compagnon animal qui vous accompagne lors de vos aventures et obéit de son mieux aux ordres simples que vous lui donnez. Voir Les compagnons animaux en page 214 pour plus d’informations</p>"
         },
         {
-            "id": "Pickpocket",
-            "name": "Pickpocket",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié en Vol<br></span></p>\n<hr>\n<p>Vous pouvez Voler ou Escamoter un objet étroitement gardé, tel que dans une poche, sans subir le malus de −5. Vous ne pouvez pas voler d’objets qui seraient extrêmement visibles ou qui prendraient du temps à retirer (tels que des chaussures ou une armure portées ou des objets activement utilisés). Si vous êtes maître en Vol, vous pouvez tenter de Voler une créature en combat ou sous surveillance. Quand vous le faites, Voler nécessite 2 actions de manipulation au lieu de 1, et vous subissez un malus de −5.&nbsp;</p>"
-        },
-        {
             "id": "Hellknight Armiger Dedication",
             "name": "Hellknight Armiger Dedication",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> membre d'un ordre de Chevalier infernal, qualifié en armure lourde et dans l'arme favorie de votre ordre <br><strong>Accès</strong> Vous êtes originaire de l'Ancien Chéliax.<br></span></p>\n<hr>\n<p>Votre entraînement de Chevalier infernal vous enseigne à terroriser les autres pour en obtenir l'obéissance, mais aussi à étudier la structure et la hiérarchie de l'Enfer. Vous devez survivre des tests douloureux pour votre corps et votre âme appelés ordalies, qui renforcent votre esprit contre toutes sortes de trauma. Vous obtenez une résistance aux dégâts mentaux égale à  1 + votre nombre de dons classe de l'archétype d'Écuyer Chevalier infernel et d'autres Archétypes de Chevalier infernal. Vous devenez qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=7\">Intimidation</a> et <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> de l'Enfer ; si vous étiez déjà qualifié, vous devenez expert à la place.<br><br><strong>Spécial</strong> Vous ne pouvez sélectionner un autre don de dévouement à l'exception de dons de positions supérieures parmi les Chevaliers infernaux  jusqu'à ce que vous obteniez deux autres dons de l'archétype Écuyer Chevalier infernal.&nbsp;</p>"
@@ -735,6 +730,11 @@
             "id": "Channeled Succor",
             "name": "Channeled Succor",
             "description": "<p><strong>Prérequis</strong> source de guérison</p>\n<hr>\n<p>La grâce divine vous permet de supprimer des états nuisibles. Vous pouvez sacrifier une guérison préparée dans vos emplacements de sort supplémentaires conférés par la source de guérison pour lancer l’un des sorts suivants à la place : délivrance des malédictions, délivrance des maladies, délivrance de la paralysie ou restauration. Le sort est in  tensifié jusqu’au même niveau que celui de la guérison que vous avez sacrifiée.</p>"
+        },
+        {
+            "id": "Pickpocket",
+            "name": "Pickpocket",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié en Vol<br></span></p>\n<hr>\n<p>Vous pouvez Voler ou Escamoter un objet étroitement gardé, tel que dans une poche, sans subir le malus de −5. Vous ne pouvez pas voler d’objets qui seraient extrêmement visibles ou qui prendraient du temps à retirer (tels que des chaussures ou une armure portées ou des objets activement utilisés). Si vous êtes maître en Vol, vous pouvez tenter de Voler une créature en combat ou sous surveillance. Quand vous le faites, Voler nécessite 2 actions de manipulation au lieu de 1, et vous subissez un malus de −5.&nbsp;</p>"
         },
         {
             "id": "Triple Threat",
