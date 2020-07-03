@@ -2,11 +2,11 @@
 
  * **libre**: 105
  * **changé**: 102
- * **officielle**: 632
- * **aucune**: 362
+ * **officielle**: 669
+ * **aucune**: 325
 
 
-Dernière mise à jour: 2020-07-02 18:16 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-03 07:25 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -137,33 +137,24 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-08-9EqUTnbV8WHE2aKm.htm](feats/class-08-9EqUTnbV8WHE2aKm.htm)|Dualistic Synergy|
 |[class-08-Ar6W97iun6yYI8Df.htm](feats/class-08-Ar6W97iun6yYI8Df.htm)|Delay Trap|
 |[class-08-BFgrPAK2v3GSKQ5e.htm](feats/class-08-BFgrPAK2v3GSKQ5e.htm)|Lore Seeker|
-|[class-08-c9rhGmKft1BVT4JO.htm](feats/class-08-c9rhGmKft1BVT4JO.htm)|Skill Mastery|
 |[class-08-fHWYICk6cSePr30c.htm](feats/class-08-fHWYICk6cSePr30c.htm)|Surreptitious Spellcaster|
 |[class-08-L9aBLPG2veBkVow9.htm](feats/class-08-L9aBLPG2veBkVow9.htm)|Persistent Creation|
-|[class-08-niKCBA11zzgGT1PU.htm](feats/class-08-niKCBA11zzgGT1PU.htm)|Primal Breadth|
 |[class-08-oHra9QanDFpAZ4hh.htm](feats/class-08-oHra9QanDFpAZ4hh.htm)|Warden's Boon|
-|[class-08-TGFbFyv0AUi5gAGO.htm](feats/class-08-TGFbFyv0AUi5gAGO.htm)|Monk Moves|
-|[class-08-XRIWWrXfghsQce4S.htm](feats/class-08-XRIWWrXfghsQce4S.htm)|Divine Breadth|
 |[class-08-YeyOqNFKaeuOTiJr.htm](feats/class-08-YeyOqNFKaeuOTiJr.htm)|Impassable Wall Stance|
 |[class-08-yvwjL1ahuKqQpJsk.htm](feats/class-08-yvwjL1ahuKqQpJsk.htm)|Reactive Shield|
-|[class-08-Yvxr1Q2TslWiKqqi.htm](feats/class-08-Yvxr1Q2TslWiKqqi.htm)|Occult Breadth|
 |[class-10-2OYJOFaEkhc8dFbl.htm](feats/class-10-2OYJOFaEkhc8dFbl.htm)|Knockback Strike|
 |[class-10-aMef2VM4mSxl0pmy.htm](feats/class-10-aMef2VM4mSxl0pmy.htm)|Replenishment of War|
 |[class-10-aplC8nEos2z5cCFx.htm](feats/class-10-aplC8nEos2z5cCFx.htm)|Quickened Casting (Wizard)|
-|[class-10-bBORql3kKsSyXllk.htm](feats/class-10-bBORql3kKsSyXllk.htm)|Monk's Flurry|
-|[class-10-cznEQ1W61MSaXW0u.htm](feats/class-10-cznEQ1W61MSaXW0u.htm)|Great Cleave|
 |[class-10-dutiFC41YFllm8fM.htm](feats/class-10-dutiFC41YFllm8fM.htm)|House of Imaginary Walls|
 |[class-10-E1WXnYE2QwhHQxQb.htm](feats/class-10-E1WXnYE2QwhHQxQb.htm)|Sleeper Hold|
 |[class-10-GJIAecRq1bD2r8O0.htm](feats/class-10-GJIAecRq1bD2r8O0.htm)|Twin Riposte (Fighter)|
 |[class-10-gSc4ZUXkesN5vKrm.htm](feats/class-10-gSc4ZUXkesN5vKrm.htm)|Debilitating Shot|
-|[class-10-gyVcJfZTmBytLsXq.htm](feats/class-10-gyVcJfZTmBytLsXq.htm)|Expanded Splash|
 |[class-10-h5ksUZlrVGBjq6p4.htm](feats/class-10-h5ksUZlrVGBjq6p4.htm)|Radiant Blade Spirit|
 |[class-10-HgBksiMTUibPK36M.htm](feats/class-10-HgBksiMTUibPK36M.htm)|Halcyon Spellcasting Initiated|
 |[class-10-j5Xjr8vZuBhCixIr.htm](feats/class-10-j5Xjr8vZuBhCixIr.htm)|Side by Side (Druid)|
 |[class-10-kQEIPYoKTt69yXxV.htm](feats/class-10-kQEIPYoKTt69yXxV.htm)|Mirror Shield|
 |[class-10-KR78kinMmAZQHeoa.htm](feats/class-10-KR78kinMmAZQHeoa.htm)|Heroic Recovery|
 |[class-10-MgLUbsvAkIA4fsZW.htm](feats/class-10-MgLUbsvAkIA4fsZW.htm)|Gaze of Veracity|
-|[class-10-Mvw3ZFrdwMHedAxY.htm](feats/class-10-Mvw3ZFrdwMHedAxY.htm)|Merciful Elixir|
 |[class-10-n0693gmx3k9wvb1N.htm](feats/class-10-n0693gmx3k9wvb1N.htm)|Demanding Challenge|
 |[class-10-nobsCgNmsDX6aKR5.htm](feats/class-10-nobsCgNmsDX6aKR5.htm)|Rain-Scribe Mobility|
 |[class-10-O1C6pMTOxIrWBO3G.htm](feats/class-10-O1C6pMTOxIrWBO3G.htm)|Daring Flourish|
@@ -187,50 +178,36 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-10-YZaLXuFO3bbqC05L.htm](feats/class-10-YZaLXuFO3bbqC05L.htm)|Quickened Casting (Sorcerer)|
 |[class-10-z2ptq23nNBOeEI7H.htm](feats/class-10-z2ptq23nNBOeEI7H.htm)|Quickened Casting (Bard)|
 |[class-10-zt5CWn3UrPViwaB3.htm](feats/class-10-zt5CWn3UrPViwaB3.htm)|Vicious Debilitations|
-|[class-12-0RB3f3J7gOEv3fni.htm](feats/class-12-0RB3f3J7gOEv3fni.htm)|Expert Bard Spellcasting|
 |[class-12-1JTEWgonWlmeCE3w.htm](feats/class-12-1JTEWgonWlmeCE3w.htm)|Liberating Stride|
 |[class-12-56BMXlQlZtg39SMV.htm](feats/class-12-56BMXlQlZtg39SMV.htm)|Lasting Doubt|
 |[class-12-6DkylvU5RF1O6DTT.htm](feats/class-12-6DkylvU5RF1O6DTT.htm)|Daredevil's Gambit|
 |[class-12-9u0uW1vZThRayXk2.htm](feats/class-12-9u0uW1vZThRayXk2.htm)|Shaped Contaminant|
 |[class-12-a2Owk9WI4pjSPuHf.htm](feats/class-12-a2Owk9WI4pjSPuHf.htm)|Educated Assessment|
-|[class-12-aFUxNGur3Hma8DKy.htm](feats/class-12-aFUxNGur3Hma8DKy.htm)|Predator's Pounce|
-|[class-12-asRbkgW59DZUpvAq.htm](feats/class-12-asRbkgW59DZUpvAq.htm)|Extend Elixir|
 |[class-12-AYXherMu9gFTyXjp.htm](feats/class-12-AYXherMu9gFTyXjp.htm)|Deadly Poison Weapon|
-|[class-12-bqZkAFS6eq9TKXMO.htm](feats/class-12-bqZkAFS6eq9TKXMO.htm)|Dragon's Rage Wings|
 |[class-12-d1jQ0HyIOyUdCCaN.htm](feats/class-12-d1jQ0HyIOyUdCCaN.htm)|Spring Attack|
 |[class-12-d1ktdX1Fk37dG5ms.htm](feats/class-12-d1ktdX1Fk37dG5ms.htm)|Defensive Recovery|
 |[class-12-d6Vb8D9yOX93mdUI.htm](feats/class-12-d6Vb8D9yOX93mdUI.htm)|Flinging Shove|
 |[class-12-emjWa77ltL5FytvA.htm](feats/class-12-emjWa77ltL5FytvA.htm)|Spring from the Shadows|
-|[class-12-f6k9lIrIS4SfnCnG.htm](feats/class-12-f6k9lIrIS4SfnCnG.htm)|Master Alchemy|
 |[class-12-fCDC53WOOYrsyVIR.htm](feats/class-12-fCDC53WOOYrsyVIR.htm)|Incredible Ricochet|
 |[class-12-fcFrxvqbIX6k71os.htm](feats/class-12-fcFrxvqbIX6k71os.htm)|Meditative Focus|
 |[class-12-FYz5eQeTox9IDkSd.htm](feats/class-12-FYz5eQeTox9IDkSd.htm)|Dueling Dance|
-|[class-12-gO729iC9b5ypes2K.htm](feats/class-12-gO729iC9b5ypes2K.htm)|Spirit's Wrath|
 |[class-12-hPanopG3TbXKr52O.htm](feats/class-12-hPanopG3TbXKr52O.htm)|Pesh Skin|
-|[class-12-hpCBELEKGA4ynYv4.htm](feats/class-12-hpCBELEKGA4ynYv4.htm)|Expert Wizard Spellcasting|
 |[class-12-hPDerDCYmag3s0dP.htm](feats/class-12-hPDerDCYmag3s0dP.htm)|Paragon's Guard|
 |[class-12-iFEecf9o6uhJxWcG.htm](feats/class-12-iFEecf9o6uhJxWcG.htm)|Hellknight Order Cross-Training|
 |[class-12-J5s7NeFHYuFSdhrX.htm](feats/class-12-J5s7NeFHYuFSdhrX.htm)|Hell's Armaments|
 |[class-12-jNeIaFUFSGUXoSON.htm](feats/class-12-jNeIaFUFSGUXoSON.htm)|Divine Wall|
-|[class-12-jPBqvEH2jLlvDr6M.htm](feats/class-12-jPBqvEH2jLlvDr6M.htm)|Juggernaut's Fortitude|
 |[class-12-LI9VtCaL5ZRk0Wo8.htm](feats/class-12-LI9VtCaL5ZRk0Wo8.htm)|Stance Savant (Monk)|
 |[class-12-lPTcPIshChHWz4J6.htm](feats/class-12-lPTcPIshChHWz4J6.htm)|Critical Debilitation|
 |[class-12-lwyXTHucvBYqSNtL.htm](feats/class-12-lwyXTHucvBYqSNtL.htm)|Magic Sense (Sorcerer)|
 |[class-12-mgs7vxq6d3hQoswa.htm](feats/class-12-mgs7vxq6d3hQoswa.htm)|Improved Dueling Riposte|
 |[class-12-mTkbgFOHJUBl0Qwg.htm](feats/class-12-mTkbgFOHJUBl0Qwg.htm)|Shared Replenishment|
 |[class-12-mZcI1NKtQhteAQLn.htm](feats/class-12-mZcI1NKtQhteAQLn.htm)|Silver's Refrain|
-|[class-12-nI67dTzKYg5kKMsd.htm](feats/class-12-nI67dTzKYg5kKMsd.htm)|Titan's Stature|
 |[class-12-Oa41bfBRO36lf1aE.htm](feats/class-12-Oa41bfBRO36lf1aE.htm)|Shoulder Catastrophe|
 |[class-12-OrNcWu1Y7c2O5zU6.htm](feats/class-12-OrNcWu1Y7c2O5zU6.htm)|Lightning Snares|
 |[class-12-P13ZhZcR67Ev0vrS.htm](feats/class-12-P13ZhZcR67Ev0vrS.htm)|Disrupt Ki|
-|[class-12-PLTOCEAvqBS05pZu.htm](feats/class-12-PLTOCEAvqBS05pZu.htm)|Expert Cleric Spellcasting|
 |[class-12-RSUmrIiFBEchdM8B.htm](feats/class-12-RSUmrIiFBEchdM8B.htm)|Primal Focus|
-|[class-12-rW1q7x5CMf9Rh1bi.htm](feats/class-12-rW1q7x5CMf9Rh1bi.htm)|Master Spotter|
-|[class-12-saEwTvJuiemEIfLm.htm](feats/class-12-saEwTvJuiemEIfLm.htm)|Expert Druid Spellcasting|
-|[class-12-uAh31Hnp1EZSjd40.htm](feats/class-12-uAh31Hnp1EZSjd40.htm)|Invincible Mutagen|
 |[class-12-UIRcjHxuSedoDOj4.htm](feats/class-12-UIRcjHxuSedoDOj4.htm)|Inspirational Focus|
 |[class-12-UqA9GdO2pGQwg9cd.htm](feats/class-12-UqA9GdO2pGQwg9cd.htm)|Flexible Halcyon Spellcasting|
-|[class-12-VD446AflrQ3kO1al.htm](feats/class-12-VD446AflrQ3kO1al.htm)|Evasiveness|
 |[class-12-vVhgYkOU9mPTGTxF.htm](feats/class-12-vVhgYkOU9mPTGTxF.htm)|Domain Focus|
 |[class-12-vwBD55BRDOatp4ZV.htm](feats/class-12-vwBD55BRDOatp4ZV.htm)|Green Tongue|
 |[class-12-wDo5dsSmyJqfmPgj.htm](feats/class-12-wDo5dsSmyJqfmPgj.htm)|Signifer Armor Expertise|
@@ -244,12 +221,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-14-ewbt80Yin18k6oLq.htm](feats/class-14-ewbt80Yin18k6oLq.htm)|Tangled Forest Rake|
 |[class-14-fEtg6plBdHU5AIze.htm](feats/class-14-fEtg6plBdHU5AIze.htm)|Reflect Spell (Sorcerer)|
 |[class-14-hO4sKslTrSQMLbGx.htm](feats/class-14-hO4sKslTrSQMLbGx.htm)|Mountain Quake|
-|[class-14-jEq4JcZb0LpKOZy1.htm](feats/class-14-jEq4JcZb0LpKOZy1.htm)|Diverse Armor Expert|
 |[class-14-jwQERVkjtnlFp3Ec.htm](feats/class-14-jwQERVkjtnlFp3Ec.htm)|Fast Channel|
 |[class-14-LDv6RVuDXJ9nOfhj.htm](feats/class-14-LDv6RVuDXJ9nOfhj.htm)|Halcyon Spellcasting Adept|
 |[class-14-LmdOWCDffhBiyzM3.htm](feats/class-14-LmdOWCDffhBiyzM3.htm)|Soothing Ballad|
-|[class-14-MFqFvuiYDAoADcft.htm](feats/class-14-MFqFvuiYDAoADcft.htm)|Giant's Lunge|
-|[class-14-QpnZwabXOVICJL5i.htm](feats/class-14-QpnZwabXOVICJL5i.htm)|Greater Merciful Elixir|
 |[class-14-RbHacJSoe6XHT8Ks.htm](feats/class-14-RbHacJSoe6XHT8Ks.htm)|Litany of Righteousness|
 |[class-14-si0igRag2IIUMHVt.htm](feats/class-14-si0igRag2IIUMHVt.htm)|Sense the Unseen (Rogue)|
 |[class-14-t3unBu3PX6AO0uIW.htm](feats/class-14-t3unBu3PX6AO0uIW.htm)|Swift Banishment|
@@ -264,12 +238,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-16-Dr6h8WRW6xnLRfxr.htm](feats/class-16-Dr6h8WRW6xnLRfxr.htm)|Resurrectionist|
 |[class-16-fEfEabn53bubYVVT.htm](feats/class-16-fEfEabn53bubYVVT.htm)|Improved Reflexive Shield|
 |[class-16-g1wBP9Z5HRqDe9FE.htm](feats/class-16-g1wBP9Z5HRqDe9FE.htm)|Quivering Palm|
-|[class-16-giOEclnMp8txkRSU.htm](feats/class-16-giOEclnMp8txkRSU.htm)|Eternal Elixir|
 |[class-16-h08Vfel5iIAARWdy.htm](feats/class-16-h08Vfel5iIAARWdy.htm)|Instrument of Zeal|
-|[class-16-hr9maYUbtrNxpBPw.htm](feats/class-16-hr9maYUbtrNxpBPw.htm)|Exploitive Bomb|
 |[class-16-kMLvQnx2vY7F3bjI.htm](feats/class-16-kMLvQnx2vY7F3bjI.htm)|Eternal Blessing|
-|[class-16-lgEihn7deZwHczGE.htm](feats/class-16-lgEihn7deZwHczGE.htm)|Dragon Transformation|
-|[class-16-mj1pVVFtqGLKgCQM.htm](feats/class-16-mj1pVVFtqGLKgCQM.htm)|Genius Mutagen|
 |[class-16-MjhCcwGKyI5dpNIY.htm](feats/class-16-MjhCcwGKyI5dpNIY.htm)|Perfect Distraction|
 |[class-16-ND3nKsXCDBShUgYc.htm](feats/class-16-ND3nKsXCDBShUgYc.htm)|Greater Vital Evolution|
 |[class-16-nmHlv1SADzhc49wq.htm](feats/class-16-nmHlv1SADzhc49wq.htm)|Effortless Concentration (Wizard)|
@@ -282,9 +252,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-16-xjLbabfyQzBNT4y1.htm](feats/class-16-xjLbabfyQzBNT4y1.htm)|Twinned Defense|
 |[class-16-XpZkzUV9PwUHvmyq.htm](feats/class-16-XpZkzUV9PwUHvmyq.htm)|Fulminating Synergy|
 |[class-18-a1TSGGsA6b5gjP3H.htm](feats/class-18-a1TSGGsA6b5gjP3H.htm)|Reprepare Spell|
-|[class-18-bc6tcXSzakyCbQsS.htm](feats/class-18-bc6tcXSzakyCbQsS.htm)|Master Cleric Spellcasting|
 |[class-18-doD3jZylVXZ0oHWO.htm](feats/class-18-doD3jZylVXZ0oHWO.htm)|Greater Crossblooded Evolution|
-|[class-18-eJNzP21lFPV3zWkm.htm](feats/class-18-eJNzP21lFPV3zWkm.htm)|Master Bard Spellcasting|
 |[class-18-f1acyuIGYVp2BpKc.htm](feats/class-18-f1acyuIGYVp2BpKc.htm)|Shadow Hunter|
 |[class-18-fLrwddS607eRFfHA.htm](feats/class-18-fLrwddS607eRFfHA.htm)|Implausible Infiltration|
 |[class-18-Hzzf7bi8xBMi6DCL.htm](feats/class-18-Hzzf7bi8xBMi6DCL.htm)|Powerful Sneak|
@@ -293,12 +261,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-18-k4gqtbL1CjLROcuu.htm](feats/class-18-k4gqtbL1CjLROcuu.htm)|Impossible Volley (Ranger)|
 |[class-18-L5n4PvQYhpl2WM9e.htm](feats/class-18-L5n4PvQYhpl2WM9e.htm)|Impossible Polymath|
 |[class-18-LAHiW98iPJKplFyK.htm](feats/class-18-LAHiW98iPJKplFyK.htm)|Infinite Possibilities|
-|[class-18-m2pHkmyGvkwqfSSN.htm](feats/class-18-m2pHkmyGvkwqfSSN.htm)|Miracle Worker|
 |[class-18-mCXoiMLAbGHGsZS3.htm](feats/class-18-mCXoiMLAbGHGsZS3.htm)|Improved Swift Banishment|
-|[class-18-nnsoFOtuHnpz2QHc.htm](feats/class-18-nnsoFOtuHnpz2QHc.htm)|Improbable Elixirs|
 |[class-18-NY2AkQscVIHEC8hQ.htm](feats/class-18-NY2AkQscVIHEC8hQ.htm)|Impossible Volley (Fighter)|
 |[class-18-OqHfUQQorVBkx34j.htm](feats/class-18-OqHfUQQorVBkx34j.htm)|Impossible Flurry|
-|[class-18-PMckhnGYMyiwUNiL.htm](feats/class-18-PMckhnGYMyiwUNiL.htm)|Master Wizard Spellcasting|
 |[class-18-Rb16bcCiovwRqVgN.htm](feats/class-18-Rb16bcCiovwRqVgN.htm)|Ultimate Mercy|
 |[class-18-SzWeWBuzg3e0k98A.htm](feats/class-18-SzWeWBuzg3e0k98A.htm)|Primal Wellspring|
 |[class-18-T4Xm8vYtnGMOM0Cw.htm](feats/class-18-T4Xm8vYtnGMOM0Cw.htm)|Echoing Channel|
@@ -319,7 +284,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-20-l0Qy74a7CILdE4Th.htm](feats/class-20-l0Qy74a7CILdE4Th.htm)|Metamagic Channel|
 |[class-20-LDIZtE7saDLSBduG.htm](feats/class-20-LDIZtE7saDLSBduG.htm)|Reactive Distraction|
 |[class-20-mGzPR7M9H733j2wN.htm](feats/class-20-mGzPR7M9H733j2wN.htm)|True Shapeshifter|
-|[class-20-mMMIHLVSr8fyvVQL.htm](feats/class-20-mMMIHLVSr8fyvVQL.htm)|Mega Bomb|
 |[class-20-mSqzGGttJvj4LxK9.htm](feats/class-20-mSqzGGttJvj4LxK9.htm)|Impossible Striker|
 |[class-20-nGiQmZZnqaXa6mny.htm](feats/class-20-nGiQmZZnqaXa6mny.htm)|Metamagic Mastery (Wizard)|
 |[class-20-oAGJXMRkRp1sqCDp.htm](feats/class-20-oAGJXMRkRp1sqCDp.htm)|Spell Mastery|
@@ -334,7 +298,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-20-VSyuTWRuxdmgq2HS.htm](feats/class-20-VSyuTWRuxdmgq2HS.htm)|Invulnerable Juggernaut|
 |[class-20-WAWaew53zpTFVwQM.htm](feats/class-20-WAWaew53zpTFVwQM.htm)|Synergistic Spell|
 |[class-20-xhuXpOFOxDpJgngm.htm](feats/class-20-xhuXpOFOxDpJgngm.htm)|Perfect Encore|
-|[class-20-zOK6IFSz3DIBRjEw.htm](feats/class-20-zOK6IFSz3DIBRjEw.htm)|Craft Philosopher's Stone|
 |[classfeature-00-ZyeiMuzdvfyXhINA.htm](feats/classfeature-00-ZyeiMuzdvfyXhINA.htm)|Rain of Embers Stance|
 |[general-01-N8Xz5fuW6o7GW124.htm](feats/general-01-N8Xz5fuW6o7GW124.htm)|Fast Recovery|
 |[general-03-jFmdevE4nKevovzo.htm](feats/general-03-jFmdevE4nKevovzo.htm)|Steel Your Resolve|
@@ -935,6 +898,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-08-Ad0XBuETAkMD6doj.htm](feats/class-08-Ad0XBuETAkMD6doj.htm)|Felling Strike|Tir renversant|officielle|
 |[class-08-AgMFfp6fdNZ1mAxn.htm](feats/class-08-AgMFfp6fdNZ1mAxn.htm)|Order Training|Entraînement de l'Ordre|libre|
 |[class-08-BkKWTt3ufaCN2ZdI.htm](feats/class-08-BkKWTt3ufaCN2ZdI.htm)|Sudden Leap (Barbarian)|Bond soudain|officielle|
+|[class-08-c9rhGmKft1BVT4JO.htm](feats/class-08-c9rhGmKft1BVT4JO.htm)|Skill Mastery|Maîtrise des compétences|officielle|
 |[class-08-cA1IIy6UEsgETXiX.htm](feats/class-08-cA1IIy6UEsgETXiX.htm)|Furious Bully|Cogneur brutal|officielle|
 |[class-08-CIRseixX8dr36ZQK.htm](feats/class-08-CIRseixX8dr36ZQK.htm)|Inspirational Performance|Représentation inspirante|officielle|
 |[class-08-CL9pFxxMXqzIyg4j.htm](feats/class-08-CL9pFxxMXqzIyg4j.htm)|Wild Winds Initiate|Initié des vents violents|officielle|
@@ -954,6 +918,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-08-Le30algCdKIsxmeK.htm](feats/class-08-Le30algCdKIsxmeK.htm)|Ferocious Shape|Morphologie féroce|officielle|
 |[class-08-LnSMRHjMArCkE4w1.htm](feats/class-08-LnSMRHjMArCkE4w1.htm)|Heal Mount|Guérison de destrier|officielle|
 |[class-08-mf2cdCRV8uowOMOm.htm](feats/class-08-mf2cdCRV8uowOMOm.htm)|Dueling Riposte|Riposte en duel|officielle|
+|[class-08-niKCBA11zzgGT1PU.htm](feats/class-08-niKCBA11zzgGT1PU.htm)|Primal Breadth|Amplitude primordiale|officielle|
 |[class-08-nLTTph2tgwcQghVq.htm](feats/class-08-nLTTph2tgwcQghVq.htm)|Cremate Undead|Incinération de morts-vivants|officielle|
 |[class-08-pRqcm5P2ZFihSpVI.htm](feats/class-08-pRqcm5P2ZFihSpVI.htm)|Quick Shield Block|Blocage au bouclier éclair|officielle|
 |[class-08-PuyvasWeofGMrhpu.htm](feats/class-08-PuyvasWeofGMrhpu.htm)|Opportune Backstab|Coup de poignard opportuniste|officielle|
@@ -962,6 +927,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-08-rMPL11JRcmlutvRi.htm](feats/class-08-rMPL11JRcmlutvRi.htm)|Thrash|Maltraitance|officielle|
 |[class-08-rpxFVUp8BuF31DYg.htm](feats/class-08-rpxFVUp8BuF31DYg.htm)|Universal Versatility|Polyvalence universelle|officielle|
 |[class-08-TEH73yqZBqByO624.htm](feats/class-08-TEH73yqZBqByO624.htm)|Positioning Assault|Assaut de positionnement|officielle|
+|[class-08-TGFbFyv0AUi5gAGO.htm](feats/class-08-TGFbFyv0AUi5gAGO.htm)|Monk Moves|Déplacement du moine|officielle|
 |[class-08-TOyqtUUnOkOLl1Pm.htm](feats/class-08-TOyqtUUnOkOLl1Pm.htm)|Eclectic Skill|Compétence éclectique|officielle|
 |[class-08-UfuYHdozZD586RWd.htm](feats/class-08-UfuYHdozZD586RWd.htm)|Bloodline Breadth|Amplitude de lignage|officielle|
 |[class-08-uR44wELN9OlU68cL.htm](feats/class-08-uR44wELN9OlU68cL.htm)|Advanced Domain|Domaine avancé|officielle|
@@ -973,8 +939,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-08-wNHUryoRzlfDCFAd.htm](feats/class-08-wNHUryoRzlfDCFAd.htm)|Soaring Shape|Morphologie volante|officielle|
 |[class-08-wpGDf6z3rmxzxdKH.htm](feats/class-08-wpGDf6z3rmxzxdKH.htm)|Nimble Roll|Roulade agile|officielle|
 |[class-08-x9cYkB8DrUBBwqJd.htm](feats/class-08-x9cYkB8DrUBBwqJd.htm)|Ironblood Stance|Posture du sang-de-fer|officielle|
+|[class-08-XRIWWrXfghsQce4S.htm](feats/class-08-XRIWWrXfghsQce4S.htm)|Divine Breadth|Amplitude divine|officielle|
 |[class-08-xtXWw3cUnVB25XSV.htm](feats/class-08-xtXWw3cUnVB25XSV.htm)|Align Armament|Arsenal aligné|officielle|
 |[class-08-YTZhLWtrEnV9Pjf2.htm](feats/class-08-YTZhLWtrEnV9Pjf2.htm)|Bravo's Determination|Détermination du bravache|libre|
+|[class-08-Yvxr1Q2TslWiKqqi.htm](feats/class-08-Yvxr1Q2TslWiKqqi.htm)|Occult Breadth|Amplitude occulte|officielle|
 |[class-08-zf6Poru1jNmrO3kk.htm](feats/class-08-zf6Poru1jNmrO3kk.htm)|Bloodline Resistance|Résistance du lignage|officielle|
 |[class-08-zXKfKKOxht0b0XNL.htm](feats/class-08-zXKfKKOxht0b0XNL.htm)|Sticky Bomb|Bombe collante|officielle|
 |[class-10-07jxXvRZ8nD3JLF4.htm](feats/class-10-07jxXvRZ8nD3JLF4.htm)|Imposing Destrier|Destrier imposant|officielle|
@@ -987,15 +955,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-10-8d3QxoKmqSkB9Mcj.htm](feats/class-10-8d3QxoKmqSkB9Mcj.htm)|Endure Death's Touch|Endurer le contact de la mort|libre|
 |[class-10-8NQaqtHheeMUNGYr.htm](feats/class-10-8NQaqtHheeMUNGYr.htm)|Shared Synergy|Synergie partagée|libre|
 |[class-10-A0ZQpGSB7pvIDiou.htm](feats/class-10-A0ZQpGSB7pvIDiou.htm)|Improved Command Undead|Contrôle des morts-vivants amélioré|officielle|
+|[class-10-bBORql3kKsSyXllk.htm](feats/class-10-bBORql3kKsSyXllk.htm)|Monk's Flurry|Déluge de coups du moine|officielle|
 |[class-10-BJKTUGplI9nwhJxg.htm](feats/class-10-BJKTUGplI9nwhJxg.htm)|Agile Grace|Agilité gracieuse|officielle|
+|[class-10-cznEQ1W61MSaXW0u.htm](feats/class-10-cznEQ1W61MSaXW0u.htm)|Great Cleave|Grand coup tranchant|officielle|
 |[class-10-DpRMdytpPiCypmkJ.htm](feats/class-10-DpRMdytpPiCypmkJ.htm)|Greater Bloodline|Lignage supérieur|officielle|
 |[class-10-F0MYBfiyOD8YHq5t.htm](feats/class-10-F0MYBfiyOD8YHq5t.htm)|Elemental Shape|Morphologie élémentaire|officielle|
 |[class-10-FIsMdgvGji5Nci8l.htm](feats/class-10-FIsMdgvGji5Nci8l.htm)|Devoted Focus|Focalisation dévouée|officielle|
 |[class-10-FLQWJ2CIv9mCfSAx.htm](feats/class-10-FLQWJ2CIv9mCfSAx.htm)|Elastic Mutagen|Mutagène élastique|officielle|
 |[class-10-FWIQ3m5KZDWzDg47.htm](feats/class-10-FWIQ3m5KZDWzDg47.htm)|Wind Jump|Saut du vent|officielle|
+|[class-10-gyVcJfZTmBytLsXq.htm](feats/class-10-gyVcJfZTmBytLsXq.htm)|Expanded Splash|Éclaboussure élargie|officielle|
 |[class-10-h5DzKmKDADGhvmF9.htm](feats/class-10-h5DzKmKDADGhvmF9.htm)|Certain Strike|Frappe Certaine|officielle|
 |[class-10-HjinlKihkadhkQ4Z.htm](feats/class-10-HjinlKihkadhkQ4Z.htm)|Terrifying Howl|Hurlement terrifiant|officielle|
 |[class-10-I9rSWQyueWHQyNxe.htm](feats/class-10-I9rSWQyueWHQyNxe.htm)|Plant Shape|Morphologie végétales|officielle|
+|[class-10-Mvw3ZFrdwMHedAxY.htm](feats/class-10-Mvw3ZFrdwMHedAxY.htm)|Merciful Elixir|Élixir miséricordieux|officielle|
 |[class-10-nrI4WNozPQozuMzU.htm](feats/class-10-nrI4WNozPQozuMzU.htm)|Overwhelming Energy (Wizard)|Énergie écrasante (Magicien)|officielle|
 |[class-10-oD4JyvTJj4kwe5vb.htm](feats/class-10-oD4JyvTJj4kwe5vb.htm)|Warden's Step|Foulée du protecteur|changé|
 |[class-10-otBBb0ndASgPdAXW.htm](feats/class-10-otBBb0ndASgPdAXW.htm)|Penetrating Shot|Tir pénétrant|officielle|
@@ -1005,6 +977,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-10-rzaoi5Roef9zO22G.htm](feats/class-10-rzaoi5Roef9zO22G.htm)|Combat Reflexes|Attaque réflexe|officielle|
 |[class-10-tSmd0cxq9wokSCh4.htm](feats/class-10-tSmd0cxq9wokSCh4.htm)|Castigating Weapon|Arme Punitive|officielle|
 |[class-10-Z9gzWFk3qom2z904.htm](feats/class-10-Z9gzWFk3qom2z904.htm)|Come and Get Me|Je t'attends|officielle|
+|[class-12-0RB3f3J7gOEv3fni.htm](feats/class-12-0RB3f3J7gOEv3fni.htm)|Expert Bard Spellcasting|Incantation du Barde expert|officielle|
 |[class-12-1k5PZAYth8u4Fqyr.htm](feats/class-12-1k5PZAYth8u4Fqyr.htm)|Expert Sorcerer Spellcasting|Incantation de l'ensorceleur expert|officielle|
 |[class-12-1ZbLYY5m2YALrrgA.htm](feats/class-12-1ZbLYY5m2YALrrgA.htm)|Perfection's Path|Voie de la perfection|changé|
 |[class-12-5YcnoTYKvEtkWiHh.htm](feats/class-12-5YcnoTYKvEtkWiHh.htm)|Side by Side (Ranger)|Côte à côte (Rôdeur)|officielle|
@@ -1012,22 +985,35 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-12-7sFhBYoz5GSBFNbY.htm](feats/class-12-7sFhBYoz5GSBFNbY.htm)|Aura of Faith|Aura de foi|officielle|
 |[class-12-7sso1g3AAejpZ8ar.htm](feats/class-12-7sso1g3AAejpZ8ar.htm)|Dueling Parry|Parade en duel|officielle|
 |[class-12-ADVrDjp75fr2BYMa.htm](feats/class-12-ADVrDjp75fr2BYMa.htm)|Charged Creation|Création chargée|libre|
+|[class-12-aFUxNGur3Hma8DKy.htm](feats/class-12-aFUxNGur3Hma8DKy.htm)|Predator's Pounce|Bond de prédateur|officielle|
+|[class-12-asRbkgW59DZUpvAq.htm](feats/class-12-asRbkgW59DZUpvAq.htm)|Extend Elixir|Élixir étendu|officielle|
 |[class-12-BQrhDpLIp9zjbjEP.htm](feats/class-12-BQrhDpLIp9zjbjEP.htm)|Distracting Shot|Tir déroutant|officielle|
+|[class-12-bqZkAFS6eq9TKXMO.htm](feats/class-12-bqZkAFS6eq9TKXMO.htm)|Dragon's Rage Wings|Ailes de rage du dragon|officielle|
 |[class-12-COe0bYyVCyC78rzP.htm](feats/class-12-COe0bYyVCyC78rzP.htm)|Second Sting|Second dard|officielle|
+|[class-12-f6k9lIrIS4SfnCnG.htm](feats/class-12-f6k9lIrIS4SfnCnG.htm)|Master Alchemy|Alchimie maître|officielle|
 |[class-12-GMrJdGwajADbL1y5.htm](feats/class-12-GMrJdGwajADbL1y5.htm)|Diamond Soul|Âme de diamant|officielle|
+|[class-12-gO729iC9b5ypes2K.htm](feats/class-12-gO729iC9b5ypes2K.htm)|Spirit's Wrath|Colère de l'esprit|officielle|
+|[class-12-hpCBELEKGA4ynYv4.htm](feats/class-12-hpCBELEKGA4ynYv4.htm)|Expert Wizard Spellcasting|Incantation du magicien expert|officielle|
 |[class-12-I00uuseTfPypVgLQ.htm](feats/class-12-I00uuseTfPypVgLQ.htm)|Primal Summons|Convocations primordiales|officielle|
 |[class-12-Ij6BBPzZvOFZ3prs.htm](feats/class-12-Ij6BBPzZvOFZ3prs.htm)|Felling Shot|Tir renversant|officielle|
 |[class-12-IMPP5pa8AmvCby4W.htm](feats/class-12-IMPP5pa8AmvCby4W.htm)|Clever Counterspell|Contresort astucieux|officielle|
+|[class-12-jPBqvEH2jLlvDr6M.htm](feats/class-12-jPBqvEH2jLlvDr6M.htm)|Juggernaut's Fortitude|Vigueur du juggernaut|officielle|
 |[class-12-KvKg9pBOpk2oLeO1.htm](feats/class-12-KvKg9pBOpk2oLeO1.htm)|Advanced Order Training|Entraînement de l'Ordre avancé|libre|
+|[class-12-nI67dTzKYg5kKMsd.htm](feats/class-12-nI67dTzKYg5kKMsd.htm)|Titan's Stature|Stature de titan|officielle|
 |[class-12-nsFnOLqYSkGWFhLD.htm](feats/class-12-nsFnOLqYSkGWFhLD.htm)|Affliction Mercy|Soulagement d'affliction|officielle|
 |[class-12-NtaOLg9meDYfg8aV.htm](feats/class-12-NtaOLg9meDYfg8aV.htm)|Blade of Justice|Lame de justice|officielle|
 |[class-12-p0jZhb8PSswUsZaz.htm](feats/class-12-p0jZhb8PSswUsZaz.htm)|Dragon Shape|Morphologie draconique|officielle|
 |[class-12-pbD4lfAPkK1NNag0.htm](feats/class-12-pbD4lfAPkK1NNag0.htm)|Double Prey|Deux proies|officielle|
+|[class-12-PLTOCEAvqBS05pZu.htm](feats/class-12-PLTOCEAvqBS05pZu.htm)|Expert Cleric Spellcasting|Incantantation du prêtre expert|officielle|
 |[class-12-pu1U9ZWVVG1Lc94t.htm](feats/class-12-pu1U9ZWVVG1Lc94t.htm)|Diverse Weapon Expert|Armes diverses expert|officielle|
 |[class-12-qI5ZyuNVME95iXhJ.htm](feats/class-12-qI5ZyuNVME95iXhJ.htm)|Fantastic Leap|Bond fantastique|officielle|
+|[class-12-rW1q7x5CMf9Rh1bi.htm](feats/class-12-rW1q7x5CMf9Rh1bi.htm)|Master Spotter|Dénicheur maître|officielle|
+|[class-12-saEwTvJuiemEIfLm.htm](feats/class-12-saEwTvJuiemEIfLm.htm)|Expert Druid Spellcasting|Incantation du druide expert|officielle|
 |[class-12-tBfalnbUZLkG9gs1.htm](feats/class-12-tBfalnbUZLkG9gs1.htm)|Blade of Law|Lame de la Loi|libre|
 |[class-12-tGXJU6yx7bYuyLvd.htm](feats/class-12-tGXJU6yx7bYuyLvd.htm)|Brutal Finish|Final brutal|officielle|
 |[class-12-U4AoJMBhJaFq5O1S.htm](feats/class-12-U4AoJMBhJaFq5O1S.htm)|Champion's Sacrifice|Sacrifice du Champion|officielle|
+|[class-12-uAh31Hnp1EZSjd40.htm](feats/class-12-uAh31Hnp1EZSjd40.htm)|Invincible Mutagen|Mutagène invincible|officielle|
+|[class-12-VD446AflrQ3kO1al.htm](feats/class-12-VD446AflrQ3kO1al.htm)|Evasiveness|Dérobade|officielle|
 |[class-12-Zn2ySapQ2gtgyWgW.htm](feats/class-12-Zn2ySapQ2gtgyWgW.htm)|Aegis of Arnisant|Égide d'Arnisant|changé|
 |[class-12-zSTPB1FFWMfA1JPi.htm](feats/class-12-zSTPB1FFWMfA1JPi.htm)|Bloodline Focus|Focalisation du lignage|officielle|
 |[class-14-0kkiE74cyHyxdPe6.htm](feats/class-14-0kkiE74cyHyxdPe6.htm)|Vengeful Strike|Frappe vindicative|officielle|
@@ -1052,10 +1038,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-14-HxkAhxcGvua6SkfS.htm](feats/class-14-HxkAhxcGvua6SkfS.htm)|Glib Mutagen|Mutagène de bagou|officielle|
 |[class-14-Ice8oNOTbPFXyOww.htm](feats/class-14-Ice8oNOTbPFXyOww.htm)|Aura of Vengeance|Aura de vengeance|officielle|
 |[class-14-IqDbNiwHQH1xApo9.htm](feats/class-14-IqDbNiwHQH1xApo9.htm)|Ironblood Surge|Afflux de sang de fer|officielle|
+|[class-14-jEq4JcZb0LpKOZy1.htm](feats/class-14-jEq4JcZb0LpKOZy1.htm)|Diverse Armor Expert|Armures diverses expert|officielle|
+|[class-14-MFqFvuiYDAoADcft.htm](feats/class-14-MFqFvuiYDAoADcft.htm)|Giant's Lunge|Fente de géant|officielle|
 |[class-14-MwozkE6aj42WZ7Z1.htm](feats/class-14-MwozkE6aj42WZ7Z1.htm)|Stealthy Companion|Compagnon furtif|officielle|
 |[class-14-nvPxCUOCMaYdhLp1.htm](feats/class-14-nvPxCUOCMaYdhLp1.htm)|Desperate Finisher|Coup de grâce désespéré|officielle|
 |[class-14-orjVLLoziFTmf1mz.htm](feats/class-14-orjVLLoziFTmf1mz.htm)|Verdant Metamorphosis|Métamorphose verdoyante|officielle|
 |[class-14-QC2ecMZ57MRJlxco.htm](feats/class-14-QC2ecMZ57MRJlxco.htm)|Bonded Focus|Focalisateur lié|officielle|
+|[class-14-QpnZwabXOVICJL5i.htm](feats/class-14-QpnZwabXOVICJL5i.htm)|Greater Merciful Elixir|Élixir miséricordieux supérieur|officielle|
 |[class-14-roSUwsI1w13uVQbh.htm](feats/class-14-roSUwsI1w13uVQbh.htm)|Whirlwind Strike (Fighter)|Frappe tourbillonante (Guerrier)|officielle|
 |[class-14-rOx7r8ygmPHPC6qF.htm](feats/class-14-rOx7r8ygmPHPC6qF.htm)|Allegro|Allégro|officielle|
 |[class-14-YawVDUc9uzREIAnO.htm](feats/class-14-YawVDUc9uzREIAnO.htm)|Aura of Life|Aura de vie|officielle|
@@ -1069,7 +1058,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-16-Cgk4By6gEomD2bJ0.htm](feats/class-16-Cgk4By6gEomD2bJ0.htm)|Improved Twin Riposte (Ranger)|Riposte jumelée améliorée|officielle|
 |[class-16-E4xubBMtj81kX5Bk.htm](feats/class-16-E4xubBMtj81kX5Bk.htm)|Shattering Strike|Frappe fracassante|officielle|
 |[class-16-Fai5VMyrtOrYC5JL.htm](feats/class-16-Fai5VMyrtOrYC5JL.htm)|Specialized Companion (Ranger)|Compagnon spécialisé (Rodeur)|officielle|
+|[class-16-giOEclnMp8txkRSU.htm](feats/class-16-giOEclnMp8txkRSU.htm)|Eternal Elixir|Élixir éternel|officielle|
 |[class-16-GKP2dHkgQw1o0k8g.htm](feats/class-16-GKP2dHkgQw1o0k8g.htm)|Persistent Mutagen|Mutagène persistant|officielle|
+|[class-16-hr9maYUbtrNxpBPw.htm](feats/class-16-hr9maYUbtrNxpBPw.htm)|Exploitive Bomb|Bombe d'érosion|officielle|
+|[class-16-lgEihn7deZwHczGE.htm](feats/class-16-lgEihn7deZwHczGE.htm)|Dragon Transformation|Transformation en dragon|officielle|
+|[class-16-mj1pVVFtqGLKgCQM.htm](feats/class-16-mj1pVVFtqGLKgCQM.htm)|Genius Mutagen|Mutagène de génie|officielle|
 |[class-16-pzmob1HqVKZfL0BY.htm](feats/class-16-pzmob1HqVKZfL0BY.htm)|Eternal Bane|Imprécation éternelle|officielle|
 |[class-16-QGpcyvIezLMgmTia.htm](feats/class-16-QGpcyvIezLMgmTia.htm)|Studious Capacity|Grande capacité d'étude|officielle|
 |[class-16-qX9ZtfaAj6rxrVA7.htm](feats/class-16-qX9ZtfaAj6rxrVA7.htm)|Master of Many Styles|Maître des multiples postures|officielle|
@@ -1082,13 +1075,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-18-6GUl9WG7OKvfVQo4.htm](feats/class-18-6GUl9WG7OKvfVQo4.htm)|Empty Body|Désertion de l'âme|officielle|
 |[class-18-7nvftPewR6eR42Zv.htm](feats/class-18-7nvftPewR6eR42Zv.htm)|Trickster's Ace|Atout du trompeur|changé|
 |[class-18-AwxJcaIrutqMcUC8.htm](feats/class-18-AwxJcaIrutqMcUC8.htm)|Masterful Companion|Compagnon magistral|officielle|
+|[class-18-bc6tcXSzakyCbQsS.htm](feats/class-18-bc6tcXSzakyCbQsS.htm)|Master Cleric Spellcasting|Incantation du prêtre maître|officielle|
 |[class-18-C9nb7H5u2ElBXvCR.htm](feats/class-18-C9nb7H5u2ElBXvCR.htm)|Mindblank Mutagen|Mutagène d’esprit vide|officielle|
 |[class-18-Dcr63tofZUome1Ze.htm](feats/class-18-Dcr63tofZUome1Ze.htm)|Manifold Edge|Avantages multiples|officielle|
+|[class-18-eJNzP21lFPV3zWkm.htm](feats/class-18-eJNzP21lFPV3zWkm.htm)|Master Bard Spellcasting|Incantation du barde maître|officielle|
 |[class-18-HBhLR980Q0cb2rxp.htm](feats/class-18-HBhLR980Q0cb2rxp.htm)|Perfect Debilitation|Neutralisation parfaite|officielle|
 |[class-18-IxggfXunfldeVOsQ.htm](feats/class-18-IxggfXunfldeVOsQ.htm)|Swift River|Libre comme l’eau|officielle|
+|[class-18-m2pHkmyGvkwqfSSN.htm](feats/class-18-m2pHkmyGvkwqfSSN.htm)|Miracle Worker|Fabricateur de miracles|officielle|
+|[class-18-nnsoFOtuHnpz2QHc.htm](feats/class-18-nnsoFOtuHnpz2QHc.htm)|Improbable Elixirs|Élixirs improbables|officielle|
 |[class-18-oNHmfpe8ezZ3eKDD.htm](feats/class-18-oNHmfpe8ezZ3eKDD.htm)|Brutal Critical|Critique brutal|officielle|
 |[class-18-ouKDey5RHQKN9YBT.htm](feats/class-18-ouKDey5RHQKN9YBT.htm)|Domain Wellspring|Source du domaine|officielle|
 |[class-18-phD0PbElkEeldZ2U.htm](feats/class-18-phD0PbElkEeldZ2U.htm)|Master Sorcerer Spellcasting|Incantation de l'ensorceleur maître|officielle|
+|[class-18-PMckhnGYMyiwUNiL.htm](feats/class-18-PMckhnGYMyiwUNiL.htm)|Master Wizard Spellcasting|Incantation du magicien maître|officielle|
 |[class-18-VAbfepohLNtubfi3.htm](feats/class-18-VAbfepohLNtubfi3.htm)|Celestial Form|Forme Céleste|officielle|
 |[class-18-yUuvixlhM4mcjKMb.htm](feats/class-18-yUuvixlhM4mcjKMb.htm)|Bloodline Wellspring|Source du lignage|officielle|
 |[class-20-0208T5UrkTY2ombM.htm](feats/class-20-0208T5UrkTY2ombM.htm)|Perfect Mutagen|Mutagène parfait|officielle|
@@ -1108,10 +1106,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-20-HLCeP87w7qEy8PUH.htm](feats/class-20-HLCeP87w7qEy8PUH.htm)|To the Ends of the Earth|Jusqu’aux confins du monde|officielle|
 |[class-20-IMArawT1Sc2PTcYM.htm](feats/class-20-IMArawT1Sc2PTcYM.htm)|Boundless Reprisals|Représailles illimitées|officielle|
 |[class-20-JEFPufbvaCeiA0Zo.htm](feats/class-20-JEFPufbvaCeiA0Zo.htm)|Weapon Supremacy|Suprématie martiale|officielle|
+|[class-20-mMMIHLVSr8fyvVQL.htm](feats/class-20-mMMIHLVSr8fyvVQL.htm)|Mega Bomb|Mégabombe|officielle|
 |[class-20-nJe8eQUrIpKWLXh5.htm](feats/class-20-nJe8eQUrIpKWLXh5.htm)|Contagious Rage|Rage contagieuse|officielle|
 |[class-20-opeP0JF9WGmNG0pb.htm](feats/class-20-opeP0JF9WGmNG0pb.htm)|Avatar's Audience|Audience de l'avatar|officielle|
 |[class-20-p353WH847errsNvh.htm](feats/class-20-p353WH847errsNvh.htm)|Apex Companion|Apogée du compagnon|libre|
 |[class-20-tP26mgaFPpr6df1i.htm](feats/class-20-tP26mgaFPpr6df1i.htm)|Archwizard's Might|Puissance de l'archimage|officielle|
+|[class-20-zOK6IFSz3DIBRjEw.htm](feats/class-20-zOK6IFSz3DIBRjEw.htm)|Craft Philosopher's Stone|Fabrication de la pierre philosophale|officielle|
 |[general-01-2kwXTUjYYhoAGySr.htm](feats/general-01-2kwXTUjYYhoAGySr.htm)|Incredible Initiative|Initiative extraordinaire|officielle|
 |[general-01-aJUXbe9HJVvv0Mxa.htm](feats/general-01-aJUXbe9HJVvv0Mxa.htm)|Breath Control|Contrôle de la respiration|officielle|
 |[general-01-AmP0qu7c5dlBSath.htm](feats/general-01-AmP0qu7c5dlBSath.htm)|Toughness|Robustesse|officielle|

@@ -172,6 +172,11 @@
             "description": "<p><strong>Prérequis</strong> qualifié en Intimidation</p>\n<p><strong>Déclencheur.</strong> Vous réduisez un ennemi à 0 point de vie</p>\n<hr>\n<p>Après avoir abattu un adversaire, vous rappelez d’un ton menaçant à un autre qu’il est le prochain sur votre liste. Vous faites un test d’Intimidation avec un bonus de circonstances de +2 pour Démoraliser une unique créature que vous pouvez voir et qui peut vous voir. Si vous possédez le rang de maîtrise légendaire en Intimidation, vous pouvez utiliser ce pouvoir comme une action gratuite avec le même déclencheur.</p>"
         },
         {
+            "id": "Greater Merciful Elixir",
+            "name": "Élixir miséricordieux supérieur",
+            "description": "<p><strong>Prérequis</strong> Élixir miséricordieux</p>\n<hr>\n<p>Vos additifs contiennent des panacées qui peuvent soigner une pléthore de maladies. Quand vous utilisez Élixir miséricordieux, votre élixir peut à la place tenter de contrer les effets des états @Compendium[pf2e.conditionspf2e.XgEqL1kFApUbl5Z2]{aveugle}, @Compendium[pf2e.conditionspf2e.9PR9y0bi4JPKnHPR]{sourd}, @Compendium[pf2e.conditionspf2e.fesd1n5eVhpCSS18]{malade} ou @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralenti}.</p>"
+        },
+        {
             "id": "Shielded Stride",
             "name": "Marche au bouclier",
             "description": "<p>Quand votre bouclier est levé, les coups de vos ennemis ne peuvent pas vous toucher. Quand votre bouclier est levé, vous pouvez Marcher rapidement d’une distance maximale égale à la moitié de votre Vitesse sans déclencher les réactions que votre déplacement devrait normalement déclencher (comme des Attaques d’opportunité). Vous pouvez utiliser Marche au bouclier quand vous Volez ou Nagez au lieu de Marcher rapidement si vous avez le type de déplacement correspondant.</p>"
@@ -400,6 +405,11 @@
             "id": "Occult Evolution",
             "name": "Évolution occulte",
             "description": "<p><strong>Prérequis</strong> lignage qui accorde des sorts occultes</p>\n<hr>\n<p>Vos pouvoirs sont dus à la révélation de fragments de secrets obscurs sur l’univers. Vous devenez qualifié dans une compétence de votre choix. De plus, une fois par jour, vous pouvez passer une minute à choisir un sort mental occulte que vous ne connaissez pas et que vous ajoutez à votre répertoire. Vous perdez ce sort temporaire lors de vos prochains préparatifs quotidiens (mais vous pouvez utiliser ce pouvoir ultérieurement pour l’ajouter de nouveau à votre répertoire). </p>"
+        },
+        {
+            "id": "Monk's Flurry",
+            "name": "Déluge de coups du moine",
+            "description": "<p><strong>Prérequis</strong> Dévouement du moine</p>\n<hr>\n<p>Vous bénéficiez de l’action Déluge de coups (page 168).</p>"
         },
         {
             "id": "Dispelling Slice",
@@ -672,6 +682,11 @@
             "description": "<p><strong>Prérequis</strong> Dévouement de l'ensorceleur</p>\n<hr>\n<p>Vous gagnez les avantages d’incantation basique (page 219). Chaque fois que vous obtenez, de l’archétype ensorceleur, un emplacement de sort d’un nouveau niveau, vous ajoutez un sort du niveau approprié à votre répertoire : un sort ordinaire de la tradition de votre lignage, un des sorts conférés à votre lignée, ou un autre sort que vous avez appris ou découvert.</p>"
         },
         {
+            "id": "Miracle Worker",
+            "name": "Fabricateur de miracles",
+            "description": "<p><strong>Fréquence</strong> une fois toutes les 10 min</p>\n<hr>\n<p>Votre maîtrise de l’alchimie vous permet de ressusciter des morts récents. Vous pouvez administrer un élixir de vie ultime à une créature qui n’est pas morte depuis plus de 2 rounds. Quand vous effectuez cela, la créature revient immédiatement à la vie avec 1 point de vie et se trouve dans l’état @Compendium[pf2e.conditionspf2e.Yl48xTdMh3aeQYL2]{blessé} 1.</p>"
+        },
+        {
             "id": "Knockdown (Fighter)",
             "name": "Renversement (Guerrier)",
             "description": "<p><strong>Prérequis</strong> qualifié en Athlétisme</p>\n<hr>\n<p>Vous portez une attaque pour déséquilibrer un adversaire et enchaînez avec un balayage pour le faire tomber. Effectuez une Frappe au corps à corps. Si elle touche et inflige des dégâts, vous pouvez faire un test d’Athlétisme pour faire un Croc‑en‑jambe sur la créature touchée. Si vous maniez une arme de corps à corps à deux mains, vous ignorez la condition du Croc‑en‑jambe nécessitant une main libre. Les deux attaques comptent dans le calcul de votre malus d’attaques multiples mais le malus n’augmente qu’après avoir effectué ces deux attaques.</p>"
@@ -927,6 +942,11 @@
             "description": "<p><strong>Prérequis</strong> expert dans une compétence avec l’action Se souvenir, Assurance dans cette compétence</p>\n<hr>\n<p>Vous connaissez des faits de base par coeur. Choisissez une compétence dans laquelle vous êtes expert, qui possède l’action Se souvenir et pour laquelle vous possédez le don Assurance. Vous pouvez utiliser l’action Se souvenir avec cette compétence comme un action gratuite une fois par round. Si vous le faites, vous devez utiliser Assurance au test de compétence.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois en choisissant une nouvelle compétence à chaque fois. Vous pouvez utiliser Savoir automatique avec toutes les compétences que vous avez choisies, mais vous ne pouvez toujours utiliser Savoir automatique qu’une seule fois par round.</p>"
         },
         {
+            "id": "Genius Mutagen",
+            "name": "Mutagène de génie",
+            "description": "<p>Des ajustements précis aux formules qui accentuent votre génie renforcent considérablement les avantages conférés par vos mutagènes cognitifs. Quand vous êtes sous l’effet d’un mutagène cognitif, vous bénéficiez du bonus d’objet du mutagène pour vos tests de Duperie, Diplomatie, Intimidation, Médecine, Nature, Représentation, Religion et Survie. En outre, vous pouvez communiquer par télépathie avec des créatures qui se trouvent dans un rayon de 18 m et avec lesquelles vous partagez une langue. Cette communication est à double sens une fois que vous l’avez initiée. La créature ciblée peut donc vous répondre.</p>"
+        },
+        {
             "id": "Overwhelming Energy (Wizard)",
             "name": "Énergie écrasante (Magicien)",
             "description": "<p>D’un geste complexe, vous modifiez l’énergie de votre sort pour surmonter les résistances. Si votre prochaine action consiste à Lancer un sort, ce dernier ignore chez la cible un nombre de points de résistance à l’acide, au froid, à l’électricité, au feu ou au son égal à votre niveau. Cela s’applique à tous les dégâts qu’inflige le sort, y compris les dégâts persistants et ceux causés par un effet continu du sort, comme le mur de mur de feu. Cela n’affecte pas les immunités d’une créature.</p>"
@@ -1167,6 +1187,11 @@
             "description": "<p><strong>Prérequis</strong> Orateur des terriers</p>\n<hr>\n<p>À vos oreilles, les sons émis par les animaux forment des conversations et non pas des bruits incohérents, et vous pouvez leur répondre de la même manière. Vous pouvez parler à tous les animaux, pas seulement ceux qui ont une Vitesse de creusement. Vous gagnez un bonus de circonstances de +1 pour Faire bonne impression sur les animaux (ce qui fait généralement appel à la compétence Diplomatie).</p>"
         },
         {
+            "id": "Improbable Elixirs",
+            "name": "Élixirs improbables",
+            "description": "<p>Votre maîtrise de l’alchimie et de ses secrets vous permet de reproduire des effets que la plupart des gens associent seulement à la magie. Choisissez une quantité de potions égale à votre modificateur d’Intelligence (avec un minimum de 1) et d’un niveau inférieur ou égal à 9. Vous obtenez des formules pour créer ces potions sous forme d’objets alchimiques dotés du trait élixir. Lorsque vous fabriquez ces élixirs alchimiques, vous pouvez subsister des réactifs alchimiques aux composants magiques (pour une valeur égale) et utiliser des outils d’alchimiste (pour Alchimie rapide) ou un laboratoire d’alchimie (pour l’activité Artisanat) au lieu des outils habituellement requis). La formule reste sinon la même. Une fois que vous avez choisi les formules des potions que vous souhaitez apprendre, vous ne pouvez plus en changer.</p>"
+        },
+        {
             "id": "Mortification",
             "name": "Mortification",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement d'Écuyer Chevalier infernal<br></span></p>\n<hr>\n<p>Les ordalies auxquelles vous avez été soumis ont préparé votre corps aux punitions physiques. Choisissez un type de dégâts contondant, perforant ou tranchant, basé sur la nature des ordalies physiques. Vous obtenez une résistance contre le type de dégâts vhoisi égal à votre nombre de dons de classe de l'archétype Écuyer Chevalier inferna et des autres archétypes de Chevalier infernal.&nbsp;</p>"
@@ -1185,6 +1210,16 @@
             "id": "Smoke Bomb",
             "name": "Bombe fumigène",
             "description": "<p><strong>Fréquence </strong> une fois par round</p>\n<p><strong>Déclencheur</strong> Vous utilisez Alchimie rapide pour fabriquer une  bombe alchimique d’un niveau inférieur à votre niveau d’alchimie avancée.</p>\n<hr>\n<p>La bombe crée un épais nuage de fumée en plus de ses effets normaux. Quand vous avez lancé la bombe, il s’en dégage un nuage de fumée sur un rayon de 3 m. Vous choisissez dans quel coin de l’espace de la cible (ou de l’espace dans lequel atterrit la bombe) le nuage est centré. Les créatures au sein de cette zone se trouvent dans l’état masqué et toutes les autres créatures sont masquées à leurs yeux. La fumée persiste 1 min ou jusqu’à ce qu’elle soit dissipée par un vent fort.</p>"
+        },
+        {
+            "id": "Extend Elixir",
+            "name": "Élixir étendu",
+            "description": "<p>La part de votre énergie que vous intégrez dans vos élixirs étend la durée de leurs effets quand vous les buvez. Quand vous consommez l’un de vos objets alchimiques qui possède les traits élixir et imprégné et a une durée supérieure ou égale à 1 min, vous doublez la durée de cet élixir.</p>"
+        },
+        {
+            "id": "Occult Breadth",
+            "name": "Amplitude occulte",
+            "description": "<p><strong>Prérequis</strong> Incantation du barde basique</p>\n<hr>\n<p>Votre répertoire s’étend et vous pouvez lancer chaque jour davantage de sorts occultes. Augmentez de 1 le nombre de sorts de votre répertoire et le nombre d’emplacements de sorts que vous gagnez grâce aux dons d’archétype barde pour chaque niveau de sort en dehors de vos deux niveaux de sort les plus élevés.</p>"
         },
         {
             "id": "Crystal Ward Spells",
@@ -1262,6 +1297,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> ethnie ulfe<br></span></p>\n<hr>\n<p>Vous vous être entraîné avec des boucliers et des armes dès que vous avez été capable de les tenir, soucieux de gagner de l'honneur et de la gloire par vous-même. Vous obtenez la réaction <a href=\"https://2e.aonprd.com/Feats.aspx?ID=839\">Blocage au bouclier</a> et êtes qualifié, à votre choix, avec la hache bataille ou l'épée longue.&nbsp;</p>"
         },
         {
+            "id": "Dragon's Rage Wings",
+            "name": "Ailes de rage du dragon",
+            "description": "<p><strong>Prérequis</strong> Instinct du dragon</p>\n<hr>\n<p>Des ailes de dragon de la même couleur que le dragon que vous avez choisi surgissent soudain de votre dos. Tant que vous êtes enragé, vous gagnez une Vitesse de vol égale à votre Vitesse au sol. Si vous êtes en train de voler au moment où votre rage prend fin, vous commencez de chuter, mais la transformation ne prend fin qu’au dernier instant, ce qui vous permet de ne pas subir de dégâts de chute et d’atterrir sur vos pieds.</p>"
+        },
+        {
             "id": "Directional Bombs",
             "name": "Bombes directionnelles",
             "description": "<p>Vous pouvez lancer vos bombes avec une telle force et une telle précision que leur zone d’éclaboussure prend la forme d’un cône unidirectionnel. Quand vous lancez une bombe alchimique qui possède le trait éclaboussure, au lieu d’éclabousser toutes les cases adjacentes à la cible, vous pouvez considérer que l’espace occupé par votre cible est la première case affectée d’un cône de 4,50 m qui s’éloigne de vous. Vous pouvez ainsi réduire les risques de toucher vos alliés et peut‑être pénétrer plus avant les lignes ennemies. Si la cible occupe plus d’une seule case, la case la plus proche de vous est alors la première case affectée par le cône.</p>"
@@ -1315,6 +1355,11 @@
             "id": "Dubious Knowledge",
             "name": "Savoir douteux",
             "description": "<p><strong>Prérequis</strong> qualifié dans une compétence avec l'action Se souvenir</p>\n<hr>\n<p>Vous êtes une mine d’informations, mais toutes ne proviennent pas de sources fiables. Quand vous ratez un test pour Vous souvenir en utilisant n’importe quelle compétence, vous apprenez une partie d’information vraie et une partie d’information erronée, mais vous n’avez aucun moyen de différencier laquelle est quoi.</p>"
+        },
+        {
+            "id": "Expert Cleric Spellcasting",
+            "name": "Incantantation du prêtre expert",
+            "description": "<p><strong>Prérequis</strong> Incantation du prêtre basique, maître en Religion</p>\n<hr>\n<p>Vous gagnez les avantages d’incantation expert (page 219).</p>"
         },
         {
             "id": "Flying Kick",
@@ -1390,6 +1435,11 @@
             "id": "Blade of the Crimson Oath",
             "name": "Lame du Serment écarlate",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement du Chevalier Récupérateur<br></span></p>\n<hr>\n<p>Vous invoquez le Serment écarlate pour chatier les morts-vivants  et portez une Frappe avec une arme ou à mains nues contre un mort-vivant. La Frappe inflige deux dés de dégâts d’arme supplémentaires et vous pouvez convertir la totalité des dégâts physiques de l’attaque en dégâts d'énergie positive.</p>"
+        },
+        {
+            "id": "Exploitive Bomb",
+            "name": "Bombe d'érosion",
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Déclencheur</strong> Vous utilisez Alchimie rapide pour fabriquer une bombe alchimique qui est inférieure d’au moins 2 niveaux à votre niveau d’alchimie avancée.</p>\n<hr>\n<p>Vous ajoutez à votre bombe une substance qui sape les résistances de vos ennemis. La bombe réduit toute résistance de l’ennemi à son type de dégâts d’une valeur égale à votre niveau, mais seulement pour cette attaque.</p>"
         },
         {
             "id": "Mountain Stance",
@@ -1477,6 +1527,11 @@
             "description": "<p>Vous avez fortifié votre corps et votre esprit pour qu’ils résistent aux effets surnaturels. Vous bénéficiez d’un bonus de statut de +1 aux jets de sauvegarde contre la magie.</p>"
         },
         {
+            "id": "Expert Bard Spellcasting",
+            "name": "Incantation du Barde expert",
+            "description": "<p><strong>Prérequis</strong> Incantation du barde basique, maître en Occultisme</p>\n<hr>\n<p>Vous gagnez les avantages d’incantation expert (page 219)</p>"
+        },
+        {
             "id": "Staff Sweep",
             "name": "Balayage au bâton",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=37\"> Funambule</a></u><br><strong>Prérequis</strong> Dévouement du Funambule<br><strong>Conditions</strong> Vous maniez votre bâton .<br></span></p>\n<hr>\n<p>Avec votre bâton, vous effectuez un balayage de vos ennemis. Lancez un test d'Athlétisme pour <a href=\"https://2e.aonprd.com/Actions.aspx?ID=38\">Pousser</a> ou faire un <a href=\"https://2e.aonprd.com/Actions.aspx?ID=40\">Croc-en-jambe</a> et comparez le résultatx aux DD appropriées de jusqu'à deux créatures, chacune d'entre elle devant être dans votre allonge et pas à plus de 1,5 m l'une de l'autre.&nbsp;</p>"
@@ -1539,7 +1594,7 @@
         {
             "id": "Collateral Thrash",
             "name": "Maltraitance collatérale",
-            "description": "<p><strong>Prerequisites</strong> @Compendium[pf2e.feats-srd.rMPL11JRcmlutvRi]{Maltraitance}</p>\n<hr>\n<p>Quand vous Maltraitez un adversaire empoigné, vous le projetez contre un autre ennemi à proximité. Un autre adversaire adjacent à celui que vous avez empoigné subit également vos dégâts de Maltraitance, et bénéficie d’un jet de Réflexes basique contre votre DD de classe.</p>"
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.rMPL11JRcmlutvRi]{Maltraitance}</p>\n<hr>\n<p>Quand vous Maltraitez un adversaire empoigné, vous le projetez contre un autre ennemi à proximité. Un autre adversaire adjacent à celui que vous avez empoigné subit également vos dégâts de Maltraitance, et bénéficie d’un jet de Réflexes basique contre votre DD de classe.</p>"
         },
         {
             "id": "Devoted Focus",
@@ -1555,6 +1610,11 @@
             "id": "Hierophant's Power",
             "name": "Puissance de l’Hiérophante",
             "description": "<p><strong>Prérequis</strong> légendaire en Nature</p>\n<hr>\n<p>Vous êtes étroitement lié au monde naturel et sa pleine puissance s’écoule à travers vous. Vous gagnez un emplacement de sort de niveau 10 de plus.</p>"
+        },
+        {
+            "id": "Expert Druid Spellcasting",
+            "name": "Incantation du druide expert",
+            "description": "<p><strong>Prérequis</strong>Incantation du druide basique, maître en Nature</p>\n<hr>\n<p>Vous gagnez les avantages d’incantation expert (page 219).</p>"
         },
         {
             "id": "Furious Sprint",
@@ -1752,6 +1812,11 @@
             "description": "<p><strong>Prérequis</strong> Parade en duel</p>\n<p><strong>Déclencheur</strong> Une créature à portée obtient un échec critique en effectuant une Frappe contre vous.</p>\n<p><strong>Conditions</strong> Vous bénéficiez des avantages de Parade en duel.</p>\n<hr>\n<p>Vous ripostez contre la créature qui a échoué. Effectuez une Frappe au corps à corps ou tenter de Désarmer la créature à l’origine du déclenchement.</p>"
         },
         {
+            "id": "Giant's Lunge",
+            "name": "Fente de géant",
+            "description": "<p><strong>Prérequis</strong> Instinct de géant</p>\n<hr>\n<p>Vous vous grandissez et vous préparez à attaquer des ennemis qui se trouvent hors de votre portée normale. Jusqu’à la fin de votre rage, toutes vos armes de corps à corps et attaques à mains nues gagnent une allonge de 3 m. Ce pouvoir n’affecte pas l’allonge des armes et attaques à mains nues qui possèdent déjà le trait allonge, mais se combine avec les autres pouvoirs qui améliorent votre allonge en vous faisant grandir, comme Stature de géant.</p>"
+        },
+        {
             "id": "Crossblooded Evolution",
             "name": "Évolution métisée",
             "description": "<p>D’étranges interactions avec votre lignage vous octroient des sorts inattendus. Vous pouvez avoir dans votre répertoire un sort issu d’une tradition différente de celle associée à votre lignage. Vous lancez ce sort comme s’il était issu de la tradition de votre lignage. Vous pouvez remplacer ce sort par un autre d’une tradition différente comme vous le feriez avec les sorts d’ensorceleur, mais vous ne pouvez pas avoir plus d’un sort d’une autre tradition dans votre répertoire à la fois en utilisant ce don.</p>"
@@ -1775,6 +1840,11 @@
             "id": "Multitalented",
             "name": "Multiples talents",
             "description": "<p>Vous avez appris à partager votre attention entre plusieurs classes à la fois avec une certaine aise. Vous gagnez un don de dévouement multiclasse de niveau 2 (pour en savoir plus sur les archétypes multiclasses, rendez-vous en page 219), même si vous ne pouvez pas normalement gagner d’autre don de dévouement avant de choisir plus de dons dans votre archétype actuel. Si vous êtes un demi-elfe, vous n’avez pas besoin de posséder les valeurs de caractéristiques prérequises de ce don</p>"
+        },
+        {
+            "id": "Master Cleric Spellcasting",
+            "name": "Incantation du prêtre maître",
+            "description": "<p><strong>Prérequis</strong> Incantation du prêtre expert, légendaire en</p>\n<p>Religion</p>\n<hr>\n<p>Vous gagnez les avantages d’Incantation maître (page 219).</p>"
         },
         {
             "id": "Revealing Stab",
@@ -1840,6 +1910,11 @@
             "id": "Terrain Stalker",
             "name": "Traqueur de terrain",
             "description": "<p><strong>Prérequis</strong> qualifié en Discrétion</p>\n<hr>\n<p>Sélectionnez un type de terrain difficile dans la liste suivante : décombres, neige ou sous-bois. Tout en étant non détecté par tous les non-alliés dans ce type de terrain, vous pouvez Être furtif sans tenter de test de Discrétion tant que vous ne vous déplacez pas de plus de 1,5 m et que vous ne vous déplacez pas à moins de 3 m d’un ennemi pendant votre déplacement. Cela vous permet aussi d’approcher automatiquement des créatures à moins de 4,5 m pendant que vous Échappez aux regards durant l’exploration, tant qu’elles ne sont pas activement en train de Faire des recherches ou sur leurs gardes..</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez un type de terrain différent</p>"
+        },
+        {
+            "id": "Great Cleave",
+            "name": "Grand coup tranchant",
+            "description": "<p><strong>Prérequis</strong> Coup tranchant</p>\n<hr>\n<p>Votre furie propulse votre arme à travers plusieurs adversaires. Quand vous portez un Coup tranchant, si votre Frappe tue ou fait perdre connaissance à votre cible, vous pouvez continuez de porter des Frappes au corps à corps jusqu’à ce que l’une d’elles ne tue pas ou ne fasse pas perdre connaissance à une créature, ou jusqu’à ce qu’il n’y ait plus de créature adjacente à la dernière créature que vous avez attaquée avec votre Coup tranchant.</p>"
         },
         {
             "id": "Furious Finish",
@@ -2152,6 +2227,11 @@
             "description": "<p><strong>Prérequis </strong>un compagnon animal</p>\n<hr>\n<p>Vous pouvez pousser votre compagnon à faire le maximum. Vous pouvez dépenser 2 actions au lieu de 1 pour Diriger un animal quand vous donnez un ordre à votre compagnon animal. Le cas échéant, celui‑ci peut faire une action supplémentaire.</p>"
         },
         {
+            "id": "Master Spotter",
+            "name": "Dénicheur maître",
+            "description": "<p><strong>Prérequis</strong> Dévouement du rôdeur, expert en Perception</p>\n<hr>\n<p>Votre rang de maîtrise en Perception passe à maître.</p>"
+        },
+        {
             "id": "Fighter Dedication",
             "name": "Dévouement de guerrier",
             "description": "<p><strong>Prérequis</strong> Force 14, Dextérité 14</p>\n<hr>\n<p>Vous devenez qualifié dans les armes simples et les armes de guerre. Vous devenez qualifié dans votre choix en Acrobatie ou en Athlétisme ; si vous êtes déjà qualifié dans ces deux compétences, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe de guerrier.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype guerrier</p>"
@@ -2262,6 +2342,11 @@
             "description": "<p><strong>Conditions</strong> Vous maniez une arme de corps à corps à deux mains</p>\n<hr>\n<p>En lançant tout votre poids lors de l’attaque, vous frappez votre adversaire suffisamment fort pour qu’il recule en titubant. Effectuez une Frappe avec une arme de corps à corps à deux mains. Si vous touchez une cible d’une taille égale ou inférieure à la vôtre, celle‑ci est prise au dépourvu jusqu’à la fin de votre tour actuel et vous pouvez automatiquement la Pousser en produisant les mêmes effets que l’action Pousser (y compris celui du succès critique si votre Frappe aboutit à un coup critique). Si vous vous déplacez pour suivre la cible, votre déplacement ne déclenche aucune réaction. Cette Frappe a l’effet d’échec suivant.</p>\n<p><strong>Échec</strong> La cible est prise au dépourvu jusqu’à la fin de votre tour actuel.</p>"
         },
         {
+            "id": "Diverse Armor Expert",
+            "name": "Armures diverses expert",
+            "description": "<p><strong>Prérequis</strong> Dévouement du champion, expert en défense sans armure ou avec un ou plusieurs types d’armures</p>\n<hr>\n<p>Vos rangs de maîtrise dans les armures légères, moyennes, lourdes et les défenses sans armures passent à expert.</p>"
+        },
+        {
             "id": "Arrow Snatching",
             "name": "Capture de projectiles",
             "description": "<p><strong>Prérequis</strong> Parade de projectiles</p>\n<hr>\n<p>Vous saisissez les projectiles en plein vol et les projetez vers ceux qui les ont tirés. Quand vous réussissez à parer une attaque avec Parade de projectiles, dans le cadre de cette réaction, vous pouvez immédiatement faire une Frappe à distance contre l’attaquant en utilisant le projectile que vous venez de parer. C’est une arme de jet avec le même facteur de portée et le même effet en cas de réussite que l’attaque à l’origine du déclenchement.</p>"
@@ -2320,6 +2405,11 @@
             "id": "Fleet",
             "name": "Vélocité",
             "description": "<p>Vous vous déplacez beaucoup plus rapidement à pied. Votre Vitesse augmente de 1,50 m.</p>"
+        },
+        {
+            "id": "Primal Breadth",
+            "name": "Amplitude primordiale",
+            "description": "<p><strong>Prérequis</strong> Incantation du druide basique</p>\n<hr>\n<p>Augmentez de 1 les emplacements de sort obtenus par les dons de l’archétype druide pour chaque niveau de sort autre que vos deux niveaux de sort les plus élevés.</p>"
         },
         {
             "id": "Courtly Graces",
@@ -2507,6 +2597,11 @@
             "description": "<p><strong>Prérequis</strong> sort de lignage</p>\n<hr>\n<p>Une communion plus poussée avec l’héritage de votre lignage vous a permis de percer des secrets plus importants. Vous gagnez le sort de lignage supérieur associé à votre lignage. Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>"
         },
         {
+            "id": "Craft Philosopher's Stone",
+            "name": "Fabrication de la pierre philosophale",
+            "description": "<p>Vos recherches ont porté leurs fruits et vous avez découvert la légendaire pierre philosophale. Vous apprenez la formule de la pierre philosophale (page 587) et vous pouvez l’ajouter à votre formulaire.</p>"
+        },
+        {
             "id": "Unassuming Dedication",
             "name": "Acharnement sans prétention",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> Ethnie Uhlam<br></span></p>\n<hr>\n<p>Votre famille a instillé en vous des valeurs de soin et de patience depuis votre plus jeune âge. Vous obtenez un bonus de circonstance de +1 aux tests pour accomplir une activité d'intermède.&nbsp;</p>"
@@ -2632,6 +2727,11 @@
             "description": "<p><strong>Prérequis</strong> Longévité experte</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<hr>\n<p>Vous avez perfectionné votre capacité à entretenir les compétences que vous avez apprises au cours de votre longue vie et vous ne vous trouvez ainsi jamais véritablement inexpérimenté dans une compétence. En méditant sur votre existence, vous pouvez modifier les compétences que vous avez sélectionnées dans le cadre des dons Longévité ancestrale et Longévité experte.</p>"
         },
         {
+            "id": "Predator's Pounce",
+            "name": "Bond de prédateur",
+            "description": "<p><strong>Prérequis</strong> Instinct animal</p>\n<p><strong>Conditions</strong> Vous ne portez pas d’armure ou seulement une armure légère</p>\n<hr>\n<p>Vous vous rapprochez de votre proie à toute vitesse et lui bondissez dessus avant qu’elle puisse réagir. Vous Marchez rapidement en pouvant utiliser la totalité de votre Vitesse et Frappez à la fin de votre déplacement.</p>"
+        },
+        {
             "id": "Emblazon Energy",
             "name": "Énergie blasonnée",
             "description": "<p><strong>Prérequis</strong> Arsenal blasonné</p>\n<hr>\n<p>Vous augmentez la puissance des symboles que vous blasonnez avec des forces élémentaires. Quand vous utilisez Arsenal blasonné, vous pouvez choisir l’un des effets suivants au lieu de ceux de ce don. Ces effets imposent les mêmes restrictions que les options de base.</p>\n<ul>\n<li><strong>Arme.</strong> Choisissez l’acide, l’électricité, le feu, le froid ou le son. L’arme inflige 1d4 dégâts supplémentaires de ce type. Ces dégâts passent à 1d6 si vous avez un sort de domaine avec un trait correspondant à ce type (feu, par exemple).</li>\n<li><strong>Bouclier.</strong> Choisissez l’acide, l’électricité, le feu, le froid ou le son. Le porteur du bouclier bénéficie du bonus de circonstances du bouclier à ses jets de sauvegarde contre ce type de dégâts et peut effectuer un Blocage au bouclier contre les dégâts de ce type. Le bouclier gagne également une résistance contre ce type de dégâts égale à la moitié de votre niveau si vous avez un sort de domaine avec un trait correspondant à ce type (feu, par exemple).</li>\n</ul>"
@@ -2700,6 +2800,11 @@
             "id": "Levering Strike",
             "name": "Frappe levier",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=37\">Funambule</a></u><br><strong>Prérequis</strong> Dévouement du Funambule<br><strong>Conditions</strong> Vous maniez votre bâton.<br></span></p>\n<hr>\n<p>Faites une Frappe avec votre bâton. Tant que vous n'obtenez pas d'échec critique, la cible devient <a href=\"https://2e.aonprd.com/Conditions.aspx?ID=16\">prise au dépourvu</a> et subit une pénalité de circonstance de –2 à son DD contre les tentatives pour la <a href=\"https://2e.aonprd.com/Actions.aspx?ID=38\">Pousser</a>, lui faire un <a href=\"https://2e.aonprd.com/Actions.aspx?ID=40\">Croc-en-jambe</a> et de <a href=\"https://2e.aonprd.com/Actions.aspx?ID=29\">Déplacement acrobatique</a> jusqu'au début de votre prochain tour.&nbsp;</p>"
+        },
+        {
+            "id": "Expert Wizard Spellcasting",
+            "name": "Incantation du magicien expert",
+            "description": "<p><strong>Prérequis</strong> Incantation du magicien basique, maître en Arcanes</p>\n<hr>\n<p>Vous gagnez les avantages d’incantation expert (page 219).</p>"
         },
         {
             "id": "Lost in the Crowd",
@@ -2845,6 +2950,11 @@
             "id": "Versatile Signature",
             "name": "Polyvalence des sorts emblématiques",
             "description": "<p><strong>Prérequis</strong> muse touche-à-tout</p>\n<hr>\n<p>La plupart des bardes se forgent une réputation grâce à leurs représentations et sorts emblématiques, mais en ce qui vous concerne, vous avez toujours tendance à ajuster votre répertoire de sorts disponibles. Quand vous faites vos préparatifs quotidiens, vous pouvez remplacer l’un de vos sorts emblématiques par un sort différent mais de même niveau de votre répertoire.</p>"
+        },
+        {
+            "id": "Merciful Elixir",
+            "name": "Élixir miséricordieux",
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Déclencheur</strong> Vous fabriquez un élixir de vie à l’aide d’Alchimie rapide, qui est inférieur d’au moins 2 niveaux à votre niveau d’alchimie avancée</p>\n<hr>\n<p>Vous ajoutez une substance spéciale dans votre élixir qui calme le corps et l’esprit de celui qui le consomme. L’élixir de vie tente de contrer un effet de @Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]{terreur} ou un effet causant l’état @Compendium[pf2e.spells-srd.DCQHaLrYXMI37dvW]{paralysé}.</p>"
         },
         {
             "id": "Turn Undead",
@@ -3192,6 +3302,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> lignage qui vous accorde des sorts divins, suivre une divinité<br></span></p>\n<hr>\n<p>Les bénédictions de votre divinité se manifestent au travers du pouvoir de votre lignage de naissance. Ajoutez jusqu'à trois des sorts de votre divinité (les sorts que votre divinité accorde à ses prêtres) à votre liste de sorts. Ils ne sont pas automatiquement ajoutés à votre répertoire, mais vous pouvez les choisir comme vous pourriez normalement le faire pour les sorts divins de votre liste.&nbsp;</p>"
         },
         {
+            "id": "Expanded Splash",
+            "name": "Éclaboussure élargie",
+            "description": "<p><strong>Prérequis</strong> Éclaboussure calculée</p>\n<hr>\n<p>Les composés très volatils que vous avez intégrés à vos bombes sont à l’origine d’explosions particulièrement étendues et puissantes. Quand vous lancez une bombe alchimique et que celle-ci possède le trait éclaboussure, vous pouvez ajouter votre modificateur d’Intelligence aux dégâts d’éclaboussure normaux de la bombe, qui inflige alors des dégâts d’éclaboussure à toutes les créatures dans un rayon de 3 m autour de la cible.</p>"
+        },
+        {
             "id": "Ranged Reprisal",
             "name": "Représailles à distance",
             "description": "<p><strong>Prérequis</strong> cause du paladin</p>\n<hr>\n<p>Vous pouvez utiliser Frappe punitive avec une arme à distance. De plus, si l’adversaire ayant déclenché votre réaction se trouve à 1,50 m ou moins de votre allonge sans être à portée, vous pouvez Faire un pas au cours de votre réaction pour placer l’adversaire à portée de votre allonge avant d’effectuer une Frappe punitive au corps à corps.</p>"
@@ -3222,6 +3337,11 @@
             "description": "<p><strong>Déclencheur</strong> Vous tentez un jet de sauvegarde contre un sort ou un effet magique, avant de lancer les dés</p>\n<hr>\n<p>Vous vous préservez de la magie en vous reposant sur des techniques héritées de superstitions culturelles orques. Vous gagnez un bonus de circonstances de +1 à votre jet de sauvegarde contre le sort ou l’effet magique déclencheur</p>"
         },
         {
+            "id": "Monk Moves",
+            "name": "Déplacement du moine",
+            "description": "<p><strong>Prérequis</strong> Dévouement du moine</p>\n<hr>\n<p>Vous gagnez un bonus de statut de +3 m à votre vitesse lorsque vous ne portez pas d’armure.</p>"
+        },
+        {
             "id": "Mature Animal Companion (Druid)",
             "name": "Compagnon animal adulte (Druide)",
             "description": "<p><strong>Prérequis</strong> Compagnon animal</p>\n<hr>\n<p>Votre compagnon animal grandit et il est à présent adulte, ce qui lui confère des capacités supplémentaires. Voir Les compagnons animaux en page 214 pour plus d’informations. Votre compagnon animal est mieux dressé que la plupart. Lors d’une rencontre, même si vous n’effectuez pas l’action Diriger un animal, votre compagnon animal peut toujours effectuer une action à votre tour pour Marcher rapidement ou Frapper.</p>"
@@ -3240,6 +3360,11 @@
             "id": "Knockback",
             "name": "Repousser",
             "description": "<p><strong>Conditions</strong> Votre dernière action est une Frappe réussie</p>\n<hr>\n<p>La puissance de votre coup fait reculer votre ennemi. Vous repoussez votre ennemi de 1,50 m, avec les mêmes effets que si vous l’aviez Poussé. Vous pouvez alors suivre l’ennemi, comme si vous aviez réussi à le Pousser.</p>"
+        },
+        {
+            "id": "Master Bard Spellcasting",
+            "name": "Incantation du barde maître",
+            "description": "<p><strong>Prérequis</strong> Incantation du barde expert, légendaire en Occultisme</p>\n<hr>\n<p>Vous gagnez les avantages d’Incantation maître (page 219).</p>"
         },
         {
             "id": "Improved Twin Riposte (Ranger)",
@@ -3350,6 +3475,11 @@
             "id": "Practiced Guidance",
             "name": "Guide Exercé",
             "description": "<p><strong>Archétype</strong> Laboureur de la Campanule</p>\n<p><strong>Conditions</strong> Dévouement de la Campanule</p>\n<hr>\n<p>Rendre le chemin vers la sécurité plus sûr peut être éprouvant mais vous êtes rompu à l'exercice consistant à aider les autres à trouver leur chemin. Lorsque vous obtenez un succès dans l'action Aider un membre de votre \"récolte\", vous considérez qu'il s'agit d'un Succès critique.</p>"
+        },
+        {
+            "id": "Master Alchemy",
+            "name": "Alchimie maître",
+            "description": "<p><strong>Prérequis</strong> Alchimie expert, maître en Artisanat</p>\n<hr>\n<p>Votre niveau d’alchimie avancée passe à 7. Pour chaque niveau obtenu au-delà du niveau 12, votre niveau d’alchimie avancée augmente de 1.</p>"
         },
         {
             "id": "Castigating Weapon",
@@ -3522,14 +3652,29 @@
             "description": "<p><strong>Prérequis</strong> légendaire en Diplomatie</p>\n<hr>\n<p>Vous pouvez négocier incroyablement rapidement dans des situations défavorables. Vous tentez de Faire bonne impression puis de Solliciter votre adversaire de cesser son activité actuelle et de s’engager dans les négociations. Vous subissez un malus de −5 à votre test de Diplomatie.Le MJ détermine le DD de la Sollicitation en fonction des circonstances – c’est généralement au moins un DD très difficile du niveau de la créature. Certaines créatures pourraient simplement refuser, et même celles qui acceptent les pourparlers pourraient finalement trouver vos arguments faibles et retourner à la violence.</p>"
         },
         {
+            "id": "Divine Breadth",
+            "name": "Amplitude divine",
+            "description": "<p><strong>Prérequis</strong> Incantation du prêtre basique</p>\n<hr>\n<p>Vous pouvez lancer quotidiennement davantage de sorts divins. Augmentez de 1 les emplacements de sort obtenus par les dons d’archétype prêtre pour chaque niveau de sort autre que vos deux niveaux de sort les plus élevés.</p>"
+        },
+        {
             "id": "Healing Touch",
             "name": "Contact guérisseur",
             "description": "<p><strong>Prérequis</strong> Dévouement du champion</p>\n<hr>\n<p>Vous obtenez le sort de dévotion approprié à votre cause (imposition des mains pour le paladin, le rédempteur et le libérateur). Si vous n’en avez pas déjà une, vous obtenez une réserve de focalisation d’une valeur de 1 point de focalisation, que vous pouvez Refocaliser en priant ou en servant votre divinité (pour plus d’informations sur les sorts de dévotion, voir page 108).</p>"
         },
         {
+            "id": "Mega Bomb",
+            "name": "Mégabombe",
+            "description": "<p><strong>Prérequis</strong> Éclaboussure élargie</p>\n<p><strong>Conditions</strong> Vous tenez en main une bombe alchimique imprégnée que vous avez fabriquée et qui est inférieure d’au moins 3 niveaux à votre niveau d’alchimie avancée</p>\n<hr>\n<p>Vous ajoutez une substance incroyablement puissante à votre bombe et créez une mégabombe à la zone d’effet et à la puissance démultipliées. Vous utilisez l’action Interagir au lieu de Frapper pour lancer la mégabombe et vous ne faites pas de jet d’attaque. La mégabombe affecte les créatures qui se trouvent dans une zone d’effet de 9 m de rayon et dont le centre se situe dans un rayon de 18 m autour de vous. La bombe inflige des dégâts aux créatures comme si chacune était la cible principale, avec un jet de Réflexes basique. Sur un échec, une créature subit également tous les effets supplémentaires qui toucheraient une cible principale (comme l’état pris au dépourvu résultant d’une foudre en bouteille). Dans la mesure où toutes les créatures qui se trouvent dans la zone subissent les dégâts d’éclaboussure comme si elles étaient la cible principale, il n’y a pas d’éclaboussures au-delà de cette zone. Si l’action que vous faites juste après avoir créé une mégabombe n’est pas une Interaction qui permet de la lancer, elle se dénature et perd tous ses effets.</p>"
+        },
+        {
             "id": "Unburdened Iron",
             "name": "Fer allégé",
             "description": "<p>Vous avez appris des techniques découvertes par vos ancêtres lors d’anciennes guerres, qui vous permettent de porter plus facilement de lourdes armures. Vous ignorez la réduction de Vitesse de l’armure que vous portez. En outre, à chaque fois qu’une autre source vous inflige un malus affectant votre Vitesse (si vous vous trouvez dans l’état surchargé ou\nsous l’effet d’un sort), vous réduisez ce malus de 1,50 m. Par exemple, l’état surchargé, qui vous infligerait normalement un malus de Vitesse de -3 m, ne vous inflige qu’un malus de -1,50 m. Si plusieurs effets vous infligent des malus de Vitesse,  choisissez-en un dont vous réduirez l’intensité.</p>"
+        },
+        {
+            "id": "Evasiveness",
+            "name": "Dérobade",
+            "description": "<p><strong>Prérequis</strong> Dévouement du roublard, expert en jet de Réflexes</p>\n<hr>\n<p>Votre rang de maîtrise pour les jets de Réflexes passe à maître.</p>"
         },
         {
             "id": "Monk Dedication",
@@ -3627,6 +3772,11 @@
             "description": "<p><strong>Prérequis</strong> qualifié en Occultisme</p>\n<hr>\n<p>Vous avez un don pour les sorts qui torturent l’esprit ou révèlent des secrets. Vous gagnez un bonus de circonstances de +2 aux tests d’Occultisme pour Identifier la magie avec les traits mental, possession, prédiction ou scrutation.</p>"
         },
         {
+            "id": "Invincible Mutagen",
+            "name": "Mutagène invincible",
+            "description": "<p>Les substances fortifiantes que vous avez ajoutées à vos mutagènes rendent votre forme de juggernaut plus résistante. À chaque fois que vous êtes sous l’effet d’un mutagène de juggernaut, vous gagnez une résistance à tous les dégâts physiques égale à votre modificateur d’Intelligence (avec un minimum de 0).</p>"
+        },
+        {
             "id": "Syncretism",
             "name": "Syncrétisme",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> vous suiviez une divinité<br></span></p>\n<hr>\n<p>Vous avez découvert des recoupements entre les enseignements de deux divinités. Choisissez une seconde divinité. Vous devez remplir les conditions d'alignement et vous êtes sujet à leurs édits et anathèmes. Si vous êtes un prêtre cloîtré, sélectionnez un des domaines de cette divinité, en obtenant les bénéfices du don <a href=\"https://2e.aonprd.com/Feats.aspx?ID=1172\">Initié du domaine</a> avec ce domaine. Si vous êtes un prêtre combattant, vous obtenez l'arme de prédilection de cette divinité comme seconde arme de prédilection et obtenez les bénéfices des dons et capacités que vous possédez qui affectent l'arme de prédilection de votre divinité, telles que <a href=\"https://2e.aonprd.com/Feats.aspx?ID=264\">Simplicité mortelle</a>. Si vous suivez une doctrine différente que celle de prêtre cloîtré ou prêtre combattant, soit vous appliquez celle de ces deux options qui est la plus appropriée à votre doctrine, soit, si le MJ le souhaite, vous ajoutez un bénéfice de la seconde divinité plus directement liée à votre doctrine.&nbsp;</p>"
@@ -3702,6 +3852,11 @@
             "description": "<p>Vous êtes un véritable conduit d’énergie positive et, lorsque vous la canalisez, elle soigne certaines de vos blessures mineures. Quand vous lancez le sort guérison pour soigner une unique créature autre que vous‑même, vous récupérez un nombre de points de vie égal au niveau du sort.</p>"
         },
         {
+            "id": "Dragon Transformation",
+            "name": "Transformation en dragon",
+            "description": "<p><strong>Prérequis</strong> Instinct du dragon, Ailes de rage du dragon</p>\n<hr>\n<p>Vous vous métamorphosez en un dragon Grand et féroce et bénéficiez des effets du sort de niveau 6 forme de dragon, mais vous continuez d’utiliser votre CA et votre modificateur d’attaque. Vous appliquez également vos dégâts supplémentaires de Rage. L’action permettant de Révoquer la transformation gagne le trait rage. Le DD du souffle est égal à votre DD de classe.</p>\n<p>Au niveau 18, vous gagnez un bonus de statut de +6 m à votre Vitesse de vol, votre bonus de dégâts avec vos Frappes de dragon devient +12, et vous gagnez un bonus de statut de +14 aux dégâts infligés par votre souffle.</p>"
+        },
+        {
             "id": "Incredible Aim",
             "name": "Visée extraordinaire",
             "description": "<p>En passant un court instant à vous concentrer, vous veillez à ce que votre attaque fasse mouche. Effectuez une Frappe avec une arme à distance. Pour cette Frappe, vous bénéficiez d’un bonus de circonstances de +2 au jet d’attaque et vous ignorez l’état masqué de la cible.</p>"
@@ -3745,6 +3900,11 @@
             "id": "Invoke Disaster",
             "name": "Invocation de désastre",
             "description": "<p><strong>Prérequis</strong> Celui qui appelle le vent</p>\n<hr>\n<p>Vous pouvez invoquer la fureur de la nature pour qu’elle s’abatte sur vos ennemis. Vous obtenez le sort d’ordre seigneur des tempêtes. Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>"
+        },
+        {
+            "id": "Titan's Stature",
+            "name": "Stature de titan",
+            "description": "<p><strong>Prérequis</strong> Instinct de géant, Stature de géant</p>\n<hr>\n<p>Vous grandissez encore plus. Quand vous utilisez votre Stature de géant, vous pouvez maintenant devenir Très Grand (vous augmentez alors votre allonge de 3 m si vous étiez de taille Moyenne ou inférieure) pendant que vous êtres enragé. Vous êtes dans l’état @Compendium[pf2e.conditionspf2e.i3OJZU2nk64Df3xm]{maladroit} 1 (page 622) tant que vous êtes Très Grand.</p>"
         },
         {
             "id": "Improvisational Defender",
@@ -3882,6 +4042,11 @@
             "description": "<p><strong>Prérequis</strong> Familiarité avec les armes naines</p>\n<hr>\n<p>Vous avez appris des techniques qui vous permettent de tirer le meilleur parti de vos armes naines. Quand vous réussissez un coup critique avec une hache d’armes, un pic de guerre ou un marteau de guerre nain, vous appliquez l’effet critique spécialisé de cette arme.</p>"
         },
         {
+            "id": "Spirit's Wrath",
+            "name": "Colère de l'esprit",
+            "description": "<p><strong>Prérequis</strong> Instinct spirituel</p>\n<hr>\n<p>Vous invoquez une apparition éphémère, généralement le fantôme d’un ancêtre ou un esprit de la nature qui prend la forme d’un feu follet. Ce feu follet spirituel se précipite pour faire une attaque de corps à corps à mains nues contre un ennemi qui se trouve dans un rayon de 36 m de vous. Le modificateur d’attaque du feu follet est égal à votre bonus de maîtrise avec les armes de guerre plus votre modificateur de Force plus un bonus d’objet de +2, et il est soumis aux mêmes bonus et malus de circonstances et de statut que vous. S’il réussit à toucher sa cible, le feu follet inflige une quantité de dégâts égale à 4d8 plus votre modificateur de Constitution. Vous décidez si ces dégâts sont positifs ou négatifs ; vous ne leur ajoutez pas vos dégâts de rage ou de spécialisation martiale, mais les bonus et malus de circonstances et de statut qui affectent les dégâts du feu follet s’appliquent. Si la Frappe de votre feu follet est un coup critique, la cible devient effrayée 1. Cette attaque est soumise à votre malus d’attaques multiples et s’ajoute à celui-ci, comme si vous étiez celui qui attaque.</p>"
+        },
+        {
             "id": "Basic Hunter's Trick",
             "name": "Astuce du chasseur basique",
             "description": "<p><strong>Prérequis</strong> Dévouement du rôdeur</p>\n<hr>\n<p>Vous gagnez un don de rôdeur de niveau 1 ou 2.</p>"
@@ -3915,6 +4080,11 @@
             "id": "Courteous Comeback",
             "name": "Retour courtois",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> nationalité Keleshite<br><strong>Conditions</strong> Vous êtes dans un village ou une communauté et vous n'avez pas utilisé Retour courtois dans cette localité au cours du mois précédent.<br><strong>Déclencheur</strong> Vous faites un échec critique à un test de Dilpplomatie.<br></span></p>\n<hr>\n<p>Vous avez été élevé au sein du fier empire du Padishah, où lême les insultes les plus grave ont une certaine tournure poétique. Relances le test de Diplomatique qui l'a déclenché en utilisant le second résultat.</p>"
+        },
+        {
+            "id": "Eternal Elixir",
+            "name": "Élixir éternel",
+            "description": "<p><strong>Prérequis</strong> Élixir étendu</p>\n<hr>\n<p>Votre corps accepte et conserve bien volontiers les modifications mineures. Quand vous consommez l’un de vos objets alchimiques qui possède les traits élixir et imprégné et a une durée supérieure ou égale à 1 min, vous pouvez rendre la durée de cet élixir indéfinie. Vous ne pouvez appliquer ce pouvoir qu’à un élixir dont le niveau est inférieur ou égal à la moitié de votre niveau. Si vous consommez ultérieurement un élixir différent et rendez sa durée indéfinie, l’effet du précédent élixir indéfini prend fin.</p>"
         },
         {
             "id": "Healing Hands",
@@ -3962,6 +4132,11 @@
             "description": "<p>Vous avez appris à lancer à plus grande distance. Quand vous lancez une bombe alchimique, celle-ci a un facteur de portée de 9 m au lieu des 6 m habituels.</p>"
         },
         {
+            "id": "Skill Mastery",
+            "name": "Maîtrise des compétences",
+            "description": "<p><strong>Prérequis</strong> Dévouement du roublard, qualifié dans au moins une compétence et expert dans au moins une autre</p>\n<hr>\n<p>Faites passer, dans l’une de vos compétences, votre rang de maîtrise d’expert à maître, et dans une autre de vos compétences, de qualifié à expert. Vous gagnez un don de compétence associé à l’une des compétences que vous avez choisies.&nbsp;</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don jusqu’à cinq fois.</p>"
+        },
+        {
             "id": "Dragon Roar",
             "name": "Rugissement du dragon",
             "description": "<p><strong>Prérequis</strong> Posture du dragon</p>\n<p><strong>Conditions</strong> Vous êtes dans la Posture du dragon</p>\n<hr>\n<p>Vous poussez un rugissement qui terrorise vos ennemis. Les ennemis dans une émanation de 4,50 m doivent chacun réussir un jet de Volonté contre votre DD d’Intimidation ou être effrayés 1 (ou effrayés 2 en cas d’échec critique). Quand une créature effrayée par le rugissement commence son tour adjacent à vous, elle ne peut réduire l’intensité de son état effrayé en dessous de 1 lors de ce tour. Votre première attaque qui touche une créature effrayée après votre rugissement et avant la fin de votre prochain tour bénéficie d’un bonus de circonstances de +4 aux dégâts. Après avoir utilisé Rugissement du dragon, vous ne pouvez plus le faire pendant 1d4 rounds. Ses effets prennent immédiatement fin si vous quittez la Posture du dragon. Les créatures dans la zone de votre rugissement sont ensuite temporairement immunisées aux effets de ce don pendant une minute.</p>"
@@ -3975,6 +4150,11 @@
             "id": "Ward Medic",
             "name": "Infirmier",
             "description": "<p><strong>Prérequis</strong> expert en Médecine</p>\n<hr>\n<p>Vous avez étudié dans de grands services médicaux, traitant plusieurs patients à la fois et répondant à tous leurs besoins. Quand vous utilisez Soigner une maladie ou Soigner les blessures, vous pouvez traiter jusqu’à deux cibles. SI vous êtes un maître en Médecine, vous pouvez traiter jusqu’à quatre cibles, et jusqu’à huit si vous êtes légendaire.</p>"
+        },
+        {
+            "id": "Juggernaut's Fortitude",
+            "name": "Vigueur du juggernaut",
+            "description": "<p><strong>Prérequis</strong> Dévouement du barbare, expert en jets de Vigueur</p>\n<hr>\n<p>Votre rang de maîtrise en jets de Vigueur passe à maître.</p>"
         },
         {
             "id": "Specialized Companion (Druid)",
@@ -4130,6 +4310,11 @@
             "id": "Bloodline Metamorphosis",
             "name": "Métamorphose du lignage",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à manipuler le pouvoir inné de votre lignage et l'adaptez à vos besoins. Lorsque vous faites vos préparatifs quotidiens, vous pouvez échanger un unique sort du niveau 9 ou inférieur pour un autre sort de ce même niveau. Vous ne pouvez pas changer les sorts accordés spécifiquement par votre lignage.&nbsp;</span></p>"
+        },
+        {
+            "id": "Master Wizard Spellcasting",
+            "name": "Incantation du magicien maître",
+            "description": "<p><strong>Prérequis</strong> Incantation du magicien expert, légendaire en Arcanes</p>\n<hr>\n<p>Vous gagnez les avantages d’Incantation maître (page 219).</p>"
         },
         {
             "id": "Scout's Warning",

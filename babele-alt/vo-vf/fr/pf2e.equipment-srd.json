@@ -37,6 +37,11 @@
             "description": ""
         },
         {
+            "id": "Headband of Inspired Wisdom",
+            "name": "Headband of Inspired Wisdom (Bandreau d'inspiration)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce simple bandeau de tissu reste toujours propre et immaculé, quelles que soient les circonstances. Quand vous investissez le bandeau, soit vous augmentez de 2 votre valeur de Sagesse, soit vous l’augmentez à 18, selon ce qui vous procure la valeur la plus élevée. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> imaginer;<strong>Fréquence</strong> 1/heue; <strong>Effet</strong> Quand vous réfléchissez à un plan d’action, votre instinct vous indique s’il est judicieux ou non. Vous bénéficiez des effets d’un augure, sauf que c’est votre instinct qui vous trans‑ met le résultat et non une source extérieure. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> imaginer (fortune); <strong>Fréquence</strong> 1/heure; <strong>Déclencheur</strong> Vous ratez un jet de sauvegarde contre un effet qui vous rend confus, fasciné ou stupéfié ;  <strong>Effet</strong>  Le <em>bandeau d’inspiration</em> vous clarifie l’esprit. Vous pouvez refaire le jet de sauvegarde et vous conservez le meilleur résultat.</span></p>"
+        },
+        {
             "id": "Acid Flask (Lesser)",
             "name": "Acid Flask (Lesser) (Fiole d’acide (Inférieur))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide, les dégâts persistants et les dégâts d’éclaboussure d’acide indiqués.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La fiole inflige 1d6 dégâts d’acide persistants et 1 dégât d’éclaboussure d’acide.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Frapper</span></p>"
@@ -532,6 +537,11 @@
             "description": ""
         },
         {
+            "id": "Armbands of Athleticism (Greater)",
+            "name": "Armbands of Athleticism (Greater) (Brassards d'athlète (supérieurs))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des images représentant un haltérophile musclé sont poinçonnées avec talent sur ces bandes de cuir superpo‑ sées, ce qui vous confère une endurance et une maîtrise supérieures lorsque vous accomplissez des exercices d’athlétisme. Lorsqu’ils sont enroulés autour de vos biceps, les brassards vous confèrent un bonus d’objet de +3 aux tests d’Athlétisme. De plus, chaque fois que vous effectuez une action pour Escalader ou Nager et que vous réussissez le test d’Athlétisme, ajoutez un bonus d’objet de +3 m à la distance que vous parcourez. </span></p>"
+        },
+        {
             "id": "Cold Iron Shield (Standard-Grade)",
             "name": "Cold Iron Shield (Standard-Grade) (Bouclier en fer froid (qualité standard))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en fer froid ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p>Le bouclier a une Solidité de 7, 28 PV et un SR de 14</p>\n<p><strong>Conditions de fabrication</strong>  au moins 425 pa de fer froid</p>"
@@ -567,6 +577,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité supérieure de ce bâton est gravée de têtes de monstres et d’animaux. Lorsque vous le maniez, vous bénéficiez d’un bonus de circonstances de +2 aux tests de Nature pour identifier des animaux<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Effet</strong> You expend a number of charges from the staff to cast a spell from its list.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Craft Requirements</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.</span></p>\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.tXa5vOu5giBNCjdR]{repérage} </li>\n<li><strong>Niveau 1&nbsp;</strong> @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{convocation d’animal}, @Compendium[pf2e.spells-srd.EE7Q5BHIrfWNCPtT]{morsure magique}</li>\n</ul>"
         },
         {
+            "id": "Collar of Inconspicuousness",
+            "name": "Collar of Inconspicuousness (Collier de modération)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’aspect usé, presque en lambeaux, de ce collier de cuir cache sa nature magique. Quand votre compagnon porte et investit le collier, vous pouvez changer son apparence d’animal féroce pour la remplacer par celle d’une forme plus discrète. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> imaginer; <strong>Effet</strong> Vous touchez votre compagnon animal pour le transformer en une Très Petite créature peu ef‑ frayante apparentée ou de la même famille (par exemple, un chat domestique au lieu d’un tigre ou un chiot au lieu d’un loup). Ce pouvoir produit les effets de forme de nuisible (niveau 2, ou ni‑ veau 4 si votre compagnon sait voler) et dure jusqu’à ce que vous le Révoquiez.</span></p>"
+        },
+        {
             "id": "Force Shield",
             "name": "Force Shield (Bouclier de force)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">De minuscules tuiles de verre agencées en mosaïque ornent les bords de ce bouclier en acier aux gravures élaborées (Solidité 8, 32 PV, SR 16). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Le bouclier créé une bulle de force autour de vous qui vous protège des coups en vous octroyant une résistance 5 aux dégâts physiques pendant une mi‑ nute. La bulle disparaît si vous ne tenez plus le bouclier</span></p>"
@@ -575,6 +590,11 @@
             "id": "Winter Wolf Elixir (Greater)",
             "name": "Winter Wolf Elixir (Greater) (Elixir de loup arctique (supérieur))",
             "description": "Cet élixir vous réchauffe et améliore votre circulation. Pendant 24 h, vous êtes protégé contre les effets du froid important. Vous êtes aussi protégé contre le froid extrême et extraordinaire."
+        },
+        {
+            "id": "Horseshoes of Speed",
+            "name": "Horseshoes of Speed (Fers à cheval de vitesse)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous posez ces simples fers à cheval sur les sabots d’un cheval ordinaire ou d’un compagnon animal quadrupède et que celui‑ci les investit, il bénéficie d’un bonus d’objet de +1,50 m à sa Vitesse au sol et un bonus d’objet de +2 aux tests d’Athlétisme pour Sauter en hauteur et Sauter en longueur. De plus, quand il Bondit, il peut ajouter 1,50 m à la longueur ou 90 cm à la hauteur de son saut</span></p>"
         },
         {
             "id": "Boots of Elvenkind (Greater)",
@@ -685,6 +705,11 @@
             "id": "Potion of Quickness",
             "name": "Potion of Quickness (Potion de rapidité)",
             "description": "<p>En buvant cette potion argentée, vous bénéficiez des effets de rapidité pendant 1 min.</p>"
+        },
+        {
+            "id": "Belt of Giant Strength",
+            "name": "Belt of Giant Strength (Ceinture de force de géant)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette ceinture de cuir épais est ornée d’une boucle en forme de poing sculptée dans du quartz étincelant. Vous bénéficiez d’un bonus d’objet de +3 aux tests d’Athlétisme et un bonus de circonstances de +2 aux tests d’Athlétisme pour soulever des objets lourds, S’échapper et Ouvrir de force. Quand vous investissez la ceinture, soit vous augmen‑ tez de 2 votre valeur de Force, soit vous l’augmentez à 18, selon ce qui vous procure la valeur la plus élevée. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> Interagir; <strong>Déclencheur</strong> Vous êtes la cible d’une attaque de lancer de rocher ou un rocher est sur le point de tomber sur vous  <strong>Effet</strong> Faites un test d’Athlétisme pour attraper le rocher déclen‑ cheur. Utilisez le DD d’Athlétisme de la créature qui lance le rocher, du danger ou de l’effet en question, ou DD 35 si aucun autre DD n’est applicable. Vous devez avoir une main de libre pour attraper le rocher mais vous pouvez Relâcher ce que vous tenez dans une main au cours de cette réaction.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès</strong> Vous attrapez le rocher sans subir de dégâts et vous le tenez maintenant en main. <br><strong>Echec</strong> Vous subissez la moitié des dégâts. <br><strong>Échec critique</strong> Vous subissez la totalité des dégâts.</span></p>"
         },
         {
             "id": "Staff of Fire",
@@ -817,6 +842,11 @@
             "description": ""
         },
         {
+            "id": "Brooch of Shielding",
+            "name": "Brooch of Shielding (Broche de défense)",
+            "description": "<p>Ce bijou en argent ou en or est orné d’images miniatures représentant des écus et on peut l’utiliser pour fermer une cape ou un manteau. La broche absorbe automatiquement les projectiles magiques dont vous êtes la cible. Une broche de défense peut absorber jusqu’à trente projectiles magiques avant de fondre et de devenir inutilisable. Parfois, quand on trouve une broche de défense, celle‑ci a déjà absorbé un certain nombre de projectiles.</p>"
+        },
+        {
             "id": "Mummified Bat",
             "name": "Mummified Bat (Chauve-souris mommifiée)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce talisman est un cadavre de minuscule chauve‑souris traité par magie et enroulé dans un papyrus. Lorsque vous l’activez, l’arme support détecte les vibrations autour de vous et guide vos sens. Vous profitez du don de classe de guerrier Combat en aveugle (p. 149) pendant 1 min. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous disposez déjà du don Combat en aveugle, vous gagnez écholocalisation imprécise dans un rayon de 9 m pendant 1 min. Grâce à cela, les créatures qui devraient être non détectées parce que vous ne les voyez pas sont simplement cachées pour vous.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Conditions</strong> Vous êtes maître en Perception.</span></p>"
@@ -945,6 +975,11 @@
             "id": "Disguise Kit",
             "name": "Disguise Kit (Kit de déguisement)",
             "description": "<p><span class=\"fontstyle0\">Cette petite boîte en bois contient des produits de beauté, de fausses barbes, de la colle à postiche et quelques perruques simples. Vous avez généralement besoin d’un kit de déguisement pour créer un déguisement afin de vous faire passer pour quelqu’un à l’aide de la compétence Duperie. Un kit de déguisement d’élite ajoute un bonus d’objet de +1 aux tests concernés. Si vous avez fabriqué un grand nombre de déguisements, vous pouvez reconstituer votre stock de cosmétiques avec des cosmétiques de rechange adaptés au type de votre kit de déguisement.</span> </p>"
+        },
+        {
+            "id": "Ring of Energy Resistance (Greater)",
+            "name": "Ring of Energy Resistance (Greater) (Anneau de résistance aux énergies (supérieure))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet anneau vous confère une résistance 10 contre un type de dégâts d’énergie : acide, électricité, feu, froid ou son. Chaque anneau est conçu pour protéger contre un type de dégâts d’énergie en particulier et son apparence est censée représenter d’une façon ou d’une autre le type d’énergie contre lequel il protège. Par exemple, un anneau de résistance au feu pourrait être orné d’un rubis et un anneau de résistance au froid d’un saphir.</span></p>"
         },
         {
             "id": "Morningstar",
@@ -1297,6 +1332,11 @@
             "description": ""
         },
         {
+            "id": "Inexplicable Apparatus",
+            "name": "Inexplicable Apparatus (Appareil inexplicable)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce harnais étrange et complexe s’ajuste à la taille du torse de son por‑ teur. Une fois que vous avez investi l’appareil, de nombreux membres artificiels dotés de divers outils, pinces et loupes se mettent à bouger en tous sens en obéissant sans peine à vos ordres mentaux. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous utilisez cet appareil, vous bénéficiez d’un bonus d’objet de +3 aux tests d’Artisanat pour Fabriquer, Gagner de l’argent et Réparer, et vous réduisez à un jour le temps minimum nécessaire pour Fabriquer un objet. Si vous réussissez votre test d’Artisanat et que vous consacrez davantage de temps d’intermède sur l’objet après le nombre minimum de jours, chaque jour que vous consacrez à la fabrication réduit le reste des matières premières à régler d’un montant correspondant à votre niveau + 1 et votre rang de maîtrise en Artisanat ; en cas de succès critique, chaque jour réduit le reste des matières premières à régler d’un montant correspondant à votre niveau + 2 et votre rang de maîtrise. Si vous êtes de niveau 20, en cas de succès critique, vos progrès s’élèvent à 50 po si vous êtes qualifié, 100 po si vous êtes expert, 200 po si vous êtes un maître ou 350 po si vous êtes légendaire. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous ordonnez à l’appareil de réparer par magie un objet que vous tenez en main ou qui se trouve à 1,50 m ou moins de vous. L’objet est réparé, comme avec une réparation de niveau 3. L’effet dure dix minutes, après quoi l’objet reprend son mauvais état précédent, à moins que vous ne l’ayez Réparé entre‑temps.</span></p>"
+        },
+        {
             "id": "Sawtooth Saber",
             "name": "Sawtooth Saber (Sabre dentelé)",
             "description": "<p><span class=\"fontstyle0\">Arme emblématique des assassins des Mantes rouges, cette lame incurvée est dentelée comme une scie, d’où son nom</span> </p>"
@@ -1542,6 +1582,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le venin de mille-pattes géant cause une forte raideur dans les muscles.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 17; <strong>Durée maximum</strong> 6 rounds; <strong>Stade 1</strong> 1d6 dégâts de poison (1 round); <strong>Stade&nbsp;2</strong> 1d8 dégâts de poison et pris au dépourvu (1 round); <strong>Stade 3</strong> 1d12 dégâts de poison, maladroit 1 et pris au dépourvu (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activate</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interact</span></p>"
         },
         {
+            "id": "Clandestine Cloak",
+            "name": "Clandestine Cloak (Cape de clandestinité)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous rabattez la capuche de cette cape grise et quel‑ conque sur votre tête (une action Interagir), vous devenez terne et sans intérêt, ce qui vous confère un bonus d’objet de +1 aux tests de Discrétion et aux tests de Duperie pour Se déguiser en un personnage secondaire et ordinaire, tel qu’un domestique, mais en subissant également un malus d’objet de −1 aux tests de Diplomatie et d’Intimidation. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> imaginer, Interagir ;  <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous rabattez la capuche de la cape sur votre tête et bé‑ néficiez des avantages d’une antidétection pendant une heure ou jusqu’à ce que vous retiriez la capuche de votre tête, selon ce qu’il advient en premier.</span></p>"
+        },
+        {
             "id": "Gnome Flickmace",
             "name": "Gnome Flickmace (Masse-yoyo gnome)",
             "description": "<p><span class=\"fontstyle0\">Plus fléau que masse, cette arme possède un manche court attaché à une chaîne avec une boule au bout. Cette dernière est propulsée sur sa distance d’allonge grâce à un coup de poignet, qui la ramène au porteur après la frappe. </span> </p>"
@@ -1740,6 +1785,11 @@
             "id": "Wand of Manifold Missiles (1st-Level Spell)",
             "name": "Wand of Manifold Missiles (1st-Level Spell) (Baguette de projectiles multiples (sort de niveau 1))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette est ornée d’une tête de dragon à son extrémité et d’une sphère de métal poli au milieu. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Cast a Spell; <strong>Fréquence</strong> 1/jour, plus surchar‑ ger ;<strong>Effet</strong> Vous Lancez projectile magique au niveau indiqué. Après avoir lancé le sort, la baguette tire un ou plusieurs projectiles supplémentaires au début de chacun de vos tours, comme si vous lanciez la version à 1 action de projectile magique. Désignez chaque fois les cibles. Ceci dure 1 min, jusqu’à ce que vous ne teniez plus la baguette en main ou que vous tentiez de l’activer à nouveau.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Supply a casting of <em>magic missile</em> of the appropriate levelFournir une incantation de <em>projectile magique</em> du niveau approprié..</span></p>"
+        },
+        {
+            "id": "Messenger's Ring (Greater)",
+            "name": "Messenger's Ring (Greater) (Anneau du messager (supérieur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette chevalière en argent change pour montrer l’insigne du seigneur ou de l’organisation que vous servez (ou votre propre visage si vous n’êtes au service de personne). Il vous confère un bonus d’objet de +2 aux tests de Diplomatie et vous permet de lancer message à volonté @Compendium[pf2e.spells-srd.vLzFcIaSXs7YTIqJ]{Message} , comme un sort inné arcanique.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> 1 minute (imaginer); <strong>Fréquence</strong>1/jour; <strong>Effet</strong> L’anneau lance messager animal selon vos instructions. L’animal est une créature magique qui surgit hors de l’anneau et son apparence correspond à l’iconographie ou l’héraldique du seigneur ou de l’organisation représenté sur l’anneau. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> sur ordre; <strong>Fréquencé</strong> 1/heure; <strong>Effet</strong>  L’anneau lance communication à distance @Compendium[pf2e.spells-srd.R9xqCBblkS5KE4y7]{Sending} selon vos instructions.</span></p>"
         },
         {
             "id": "Sap",
@@ -2037,6 +2087,11 @@
             "description": ""
         },
         {
+            "id": "Ring of Lies",
+            "name": "Ring of Lies (Anneau de mensonges)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’éclat de cet anneau d’argent simple est presque huileux. Tant que vous portez l’anneau, vous bénéficiez d’un bonus d’objet de +2 aux tests de Duperie. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Effet</strong> Vous claquez des doigts avec la main portant l’anneau pour que celui‑ci lance bagou sur vous sans produire de signes visuels indiquant qu’un sort est en train d’être lancé</span></p>"
+        },
+        {
             "id": "Oil of Repulsion",
             "name": "Oil of Repulsion (Huile de répulsion)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette huile contient de la limaille de fer aimantée, repoussée de part et d’autre de la fiole. Pendant 1 min après application de cette huile sur une armure, toute créature qui vous touche avec une Frappe au corps à corps doit faire un jet de Vigueur DD 28 avec l’effet suivant. Succès. La créature n’est pas affectée<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès</strong> La créature n’est pas affectée.<br><strong>Echec</strong> La créature est repoussée de 3 m loin de vous (le MJ détermine au hasard dans quelle direction).<br><strong>Echec critique</strong> Comme l’échec et la créature est aussi jetée à terre.</span></p>"
@@ -2080,6 +2135,11 @@
             "id": "Ladder (10-foot)",
             "name": "Ladder (10-foot) (Échelle (3 m))",
             "description": ""
+        },
+        {
+            "id": "Belt of Regeneration",
+            "name": "Belt of Regeneration (Ceinture de régénération)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette ceinture est confectionnée dans de la peau de troll caoutchouteuse de couleur verte et orange. Vous gagnez 15 points de vie temporaires la première fois que vous investissez la ceinture lors d’une journée. Quand vous investissez la ceinture, soit vous augmentez de 2 votre valeur de Constitution, soit vous l’augmentez à 18, selon ce qui vous procure la valeur la plus élevée. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous resserrez la ceinture d’un cran pour bénéficier de l’effet de régénération. Pendant 2d4 rounds, au début de votre tour chaque round, vous récupérez 15 points de vie, à moins que vous n’ayez subi des dégâts d’acide ou de feu depuis le début de votre tour précédent.</span></p>"
         },
         {
             "id": "Jasper",
@@ -2135,6 +2195,11 @@
             "id": "Ghost Touch",
             "name": "Ghost Touch (Spectrale (rune))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’arme peut blesser les créatures dénuées de forme physique. Une arme spectrale est particulièrement efficace contre les créatures intan‑ gibles dont la plupart ont toujours une faiblesse particulière aux armes spectrales. Les créatures intangibles peuvent toucher, tenir et manier des armes spectrales (au contraire de la plupart des objets physiques).&nbsp;</span></p>"
+        },
+        {
+            "id": "Collar of Empathy",
+            "name": "Collar of Empathy (Collier d'empathie)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce joli collier de lanières de cuir entrelacées aux couleurs contrastées va de pair avec un bracelet de même composition. Quand vous portez et investissez le bracelet et que votre compagnon porte et investit le collier, la relation entre vous deux se renforce. Vous pouvez toujours ressentir les états émotionnels, les besoins et les désirs basiques de votre compagnon, et vice versa. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> imaginer; <strong>Effet</strong> Vous percevez par le biais des sens de votre compagnon animal, et non plus par les vôtres. Vous pouvez Maintenir l’activation. Vous n’êtes plus conscient de votre propre environnement tant que vous utilisez les sens de votre compagnon animal. En plus de l’utilité évidente de ce pouvoir lorsque vous êtes séparé de votre compagnon, il peut également vous permettre d’entendre des bruits, de sentir des odeurs et de percevoir d’autres stimulus que seuls les sens de votre compagnon peuvent percevoir et non les vôtres.</span></p>"
         },
         {
             "id": "Rations",
@@ -2280,6 +2345,11 @@
             "id": "Bag of Holding (Type III)",
             "name": "Bag of Holding (Type III) (Sac sans fond (Type 3))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Bien que ce sac en tissu orné de panneaux de soie aux riches cou‑ leurs ou de belles broderies ait l’air ordinaire, il ouvre sur un espace extradimensionnel bien plus grand que ce que pourrait contenir son enveloppe extérieure. L’Encombrement contenu dans le sac sans fond ne change pas son Encombrement à lui. La quantité d’Encombrement qu’il peut accueillir dépend de son type.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez Interagir avec le sac sans fond pour mettre un objet dedans ou le retirer, comme avec un sac ordinaire. Le sac a une grande contenance, mais pour y stocker un objet, il faut qu’il passe par son ouverture.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si le sac est surchargé ou brisé, il se déchire et est détruit, les objets qu’il contient étant perdus à jamais. S’il est mis sur l’envers, les objets qu’il contient se répandent à terre, intacts, mais il faut le remettre sur l’endroit avant de le réutiliser. Une créature vivante placée dans le sac a assez d’air pour respirer 10 min, ensuite elle commence à suffoquer. Elle peut faire un test DD 13 pour S’échapper. Un objet contenu dans \n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Capacité</strong> 100 encombrements&nbsp;</span></p>"
+        },
+        {
+            "id": "Ring of Counterspells",
+            "name": "Ring of Counterspells (Anneau de contresort)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet anneau d’argent est orné de deux motifs géomé‑ triques opposés composés de pierres précieuses aux couleurs vives très tranchées. Un incantateur peut lan‑ cer un sort unique dans cet anneau tant qu’il ne contient aucun autre sort ; il doit pour cela y consacrer le temps normal, régler les coûts, etc. pour Lancer le sort. Le sort ne produit aucun effet ; au lieu de cela, son énergie est stockée dans l’anneau. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous investissez un anneau de contresort, vous connaissez immédiatement le nom et le niveau de l’éventuel sort stocké à l’intérieur. Il y a 50 % de chances qu’un anneau de contresort trouvé en guise de trésor contienne déjà un sort. Le MJ détermine ce sort.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\" /> imaginer; <strong>Déclencheur</strong> Vous êtes pris pour cible ou vous trouvez dans la zone d’effet du même sort que celui stocké dans l’anneau ;  <strong>Effet</strong> Vous pouvez tenter de contrer le sort déclencheur en utilisant le niveau du sort stocké dans l’anneau, avec un modificateur de contre de +19. Une fois ceci fait, l’énergie du sort stockée est dépensée et l’anneau est vide. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> sur ordre; <strong>Effet</strong>Vous dépensez le sort stocké sans qu’il produise son effet et vous videz l’anneau pour pouvoir lancer un autre sort en le stockant à l’intérieur.</span></p>"
         },
         {
             "id": "Wand of Smoldering Fireballs (9th-Level Spell)",
@@ -2462,6 +2532,16 @@
             "description": ""
         },
         {
+            "id": "Ring of Energy Resistance (Major)",
+            "name": "Ring of Energy Resistance (Major) (Anneau de résistance aux énergies (majeur))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet anneau vous confère une résistance 15 contre un type de dégâts d’énergie : acide, électricité, feu, froid ou son. Chaque anneau est conçu pour protéger contre un type de dégâts d’énergie en particulier et son apparence est censée représenter d’une façon ou d’une autre le type d’énergie contre lequel il protège. Par exemple, un anneau de résistance au feu pourrait être orné d’un rubis et un anneau de résistance au froid d’un saphir.</span></p>"
+        },
+        {
+            "id": "Armbands of Athleticism",
+            "name": "Armbands of Athleticism (Brassards d'athlète)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des images représentant un haltérophile musclé sont poinçonnées avec talent sur ces bandes de cuir superposées, ce qui vous confère une endurance et une maîtrise supérieures lorsque vous accomplissez des exercices d’athlétisme. Lorsqu’ils sont enroulés autour de vos biceps, les brassards vous confèrent un bonus d’objet de +2 aux tests d’Athlétisme. De plus, chaque fois que vous effectuez une action pour Escalader ou Nager et que vous réus‑ sissez le test d’Athlétisme, ajoutez un bonus d’objet de +1,50 m à la distance que vous parcourez.</span></p>"
+        },
+        {
             "id": "Amphora with lavish scenes",
             "name": "Amphora with lavish scenes (Amphore portant des scènes somptueuses)",
             "description": ""
@@ -2567,6 +2647,11 @@
             "description": "L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez le nombre de points de vie indiqué et gagnez un bonus d’objet aux jets de sauvegarde contre la maladie et le poison pendant 10 min. L’élixir restaure 10d6+27 points de vie, le bonus est de +4."
         },
         {
+            "id": "Barding of the Zephyr",
+            "name": "Barding of the Zephyr (Barde du zéphir)",
+            "description": "<p>Des motifs de vent stylisés sont gravés sur cette barde légère. Quand vous l’installez sur votre compagnon animal, la barde s’adapte à sa taille, quelle que soit sa forme. </p>\n<p>Quand votre compagnon chute, le vent le rattrape par en dessous ; il bénéficie des effets d’une feuille morte.  @Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{Feather Fall}.</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous parcourez du doigt les motifs de vent sur la barde, ce qui confère à votre compa‑ gnon qui la porte une Vitesse de vol de 9 m pendant 10 min. Même si le compagnon n’a pas le pouvoir spécial monture, il peut toujours Voler lorsqu’on le chevauche.</span></p>"
+        },
+        {
             "id": "Blowgun Darts",
             "name": "Blowgun Darts (Fléchettes de sabacane)",
             "description": "<p><span class=\"fontstyle0\">Ces fléchettes minces et légères sont généralement réalisées en bois dur et stabilisées avec un empennage de duvet ou de fourrure. Elles sont souvent creuses pour pouvoir délivrer du poison.</span> </p>"
@@ -2595,6 +2680,11 @@
             "id": "Buckler",
             "name": "Buckler (Targe)",
             "description": "<p><span class=\"fontstyle0\">Ce très petit bouclier est le favori des duellistes et des guerriers rapides dotés d’armures légères. Il est généralement fabriqué en acier et attaché à votre avant-bras. Vous  pouvez Lever un bouclier avec votre targe tant que vous avez cette main libre ou que vous tenez dans cette main un objet léger qui n’est pas une arme.</span></p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">6</td>\n<td style=\"height: 17px; width: 116px;\">3</td>\n</tr>\n</tbody>\n</table>"
+        },
+        {
+            "id": "Ring of Energy Resistance",
+            "name": "Ring of Energy Resistance (Anneau de résistance aux énergies)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet anneau vous confère une résistance 5 contre un type de dégâts d’énergie : acide, électricité, feu, froid ou son. Chaque anneau est conçu pour protéger contre un type de dégâts d’énergie en particulier et son apparence est censée représenter d’une façon ou d’une autre le type d’énergie contre lequel il protège. Par exemple, un anneau de résistance au feu pourrait être orné d’un rubis et un anneau de résistance au froid d’un saphir. &nbsp;</span></p>"
         },
         {
             "id": "Elixir of Life (Moderate)",
@@ -2805,6 +2895,11 @@
             "id": "Bronze Bull Pendant",
             "name": "Bronze Bull Pendant (Pendentif de taureau de bronze)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce pendentif est forgé dans un acier granuleux et représente une tête de taureau renâclant. Il faut le fixer sur l’armure sur la zone du torse ou sur une épaulière. Lorsque vous activez ce pendentif, vous gagnez un bonus de statut de +2 aux tests d’Athlétisme pour Pousser et, si vous obtenez un échec critique au test, il est remplacé par un simple échec.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong> Déclencheur</strong> Vous tentez un test d’Athlé‑ tisme pour Pousser, mais n’avez pas encore lancé le dé ; <strong> Conditions</strong> Vous êtes qualifié en Athlétisme. </span></p>"
+        },
+        {
+            "id": "Diadem of Intellect",
+            "name": "Diadem of Intellect (Diadème d'intellect)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une jolie pierre précieuse colorée, taillée en motif géométrique com‑ plexe, est incrustée dans un fin bandeau métallique dont la taille s’ajuste à celle de votre front. Vous bénéficiez d’un bonus d’objet de +3 aux tests pour Se souvenir, quelle que soit la compétence. Quand vous investissez le diadème, soit vous augmentez de 2 votre valeur d’Intelligence, soit vous l’augmentez à 18, selon ce qui vous procure la valeur la plus élevée. Ceci vous confère des langues et des compétences quali‑ fiées supplémentaires, comme à l’accoutumée lorsque votre valeur d’Intelligence augmente. Vous devez sélectionner les compétences et les langues la première fois que vous investis‑ sez l’objet, et chaque fois que vous investissez le même diadème d’intellect, vous obtenez les mêmes langues et compé‑ tences que vous avez choisies la première fois.  <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> imaginer; <strong>Fréquence</strong> 1/heure; <strong>Effet</strong> Vous bénéficiez des effets du sort hypercognition. </span></p>"
         },
         {
             "id": "Scythe",
@@ -3087,6 +3182,11 @@
             "description": ""
         },
         {
+            "id": "Horseshoes of Speed (Greater)",
+            "name": "Horseshoes of Speed (Greater) (Fers à cheval de vitesse (supérieurs))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous posez ces simples fers à cheval sur les sabots d’un cheval ordinaire ou d’un compagnon animal quadrupède et que celui‑ci les investit, il bénéficie d’un bonus d’objet de +3 m à sa Vitesse au sol et un bonus d’objet de +3 aux tests d’Athlétisme pour Sauter en hauteur et Sauter en longueur. De plus, quand il Bondit, il peut ajouter 3 m à la longueur ou 90 cm à la hauteur de son saut</span></p>"
+        },
+        {
             "id": "Smokestick (Greater)",
             "name": "Smokestick (Greater) (Bâton fumigène (supérieur))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">D’un mouvement sec, vous faites sortir de l’objet un épais écran de fumée opaque qui occupe une explosion centrée sur un angle de votre espace. Toutes les créatures au sein de cette zone sont masquées et les autres sont masquées à leurs yeux. La fumée persiste 1 min ou jusqu’à être dispersée par un vent fort.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><span id=\"ctl00_MainContent_DetailedOutput\">L’explosion a un rayon de 6 m.</span></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
@@ -3115,6 +3215,11 @@
             "id": "Chain Shirt",
             "name": "Chain Shirt (Chemise de mailles)",
             "description": "<p><span class=\"fontstyle0\">Parfois appelé haubert, c’est une longue chemise constituée des mêmes anneaux en métal que la cotte de mailles. Cependant, elle est beaucoup plus légère que cette dernière et ne protège que le torse, les bras et les cuisses de son porteur. </span> </p>"
+        },
+        {
+            "id": "Messenger's Ring",
+            "name": "Messenger's Ring (Anneau du messager)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette chevalière en argent change pour montrer l’insigne du seigneur ou de l’organisation que vous servez (ou votre propre visage si vous n’êtes au service de personne). Il vous confère un bonus d’objet de +2 aux tests de Diplomatie et vous permet de lancer message à volonté, comme un sort inné arcanique. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> 1 minute (imaginer); <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> L’anneau lance messager animal selon vos instructions. L’animal est une créature magique qui surgit hors de l’anneau et son apparence correspond à l’iconographie ou l’héraldique du seigneur ou de l’organisation représenté sur l’anneau. </span></p>"
         },
         {
             "id": "Feather Token (Whip)",
@@ -3222,6 +3327,11 @@
             "description": "<p><span class=\"fontstyle0\">La rapière est une longue et fine lame perforante, avec une garde en coupe. Elle est prisée de beaucoup en tant qu’arme de duel. </span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
         },
         {
+            "id": "Circlet of Persuasion",
+            "name": "Circlet of Persuasion (Serre-tête de persuasion)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet élégant bandeau d’argent ressemble à des feuilles de figuier cor‑ nées et s’adapte à la taille de votre front. Vous bénéficiez d’un bonus d’objet de +2 aux tests de Diplomatie et de Duperie. Quand vous investissez le diadème, soit vous augmentez de 2 votre valeur de Charisme, soit vous l’augmentez à 18, selon ce qui vous procure la valeur la plus élevée. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> imaginer; <strong>Frequenc</strong> 1/heure; <strong>Effet</strong> Vous lancez un charme de niveau 4 (DD 38)  @Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charm}.</span></p>"
+        },
+        {
             "id": "Greatpick",
             "name": "Greatpick (Grand pic de guerre)",
             "description": "<p>Ce pic de guerre possède un manche plus long et une tête plus large qu’un pic de guerre ordinaire. Il est trop lourd pour pouvoir être manié d’une seule main.</p>"
@@ -3275,6 +3385,11 @@
             "id": "Class Kit (Sorcerer)",
             "name": "Class Kit (Sorcerer) (Kit de classe (Ensorceleur))",
             "description": "<div><strong>Armes</strong> dague, fronde avec 20 billes </div>\n<div><strong>Equipement</strong>  pack d’aventurier, bandoulière, 2 jeux de chausse‑trappes, gaine</div>"
+        },
+        {
+            "id": "Dread Blindfold",
+            "name": "Dread Blindfold (Bandreau d'effroi)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous l’utilisez pour vous bander les yeux, ce bandeau de lin noir en lambeaux vous confère la vision dans le noir et un bonus d’objet de +3 aux tests d’Intimidation. Vous pouvez voir à travers le bandeau mais seulement en utilisant la vision dans le noir. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La première fois qu’une créature donnée vous voit lors d’une jour‑ née, elle doit réussir un jet de Volonté DD 37 ou être effrayée 1. Il s’agit d’un effet mental de terreur et d’émotion contre lequel vos alliés de‑ viennent immunisés au bout d’une semaine environ. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> sur ordre; <strong>Fréquence</strong> 1/minute; <strong> Déclencheur</strong> Vous blessez une créature en la Frappant; <strong>Effet</strong> Votre cible est saisie par la peur. Cet effet reproduit celui d’un assassin imaginaire DD 37 mais il s’agit d’un enchantement au lieu d’une illusion. Ensuite, la créature est temporairement immunisée pendant 24 h.</span></p>"
         },
         {
             "id": "Rhino Hide",
@@ -3462,6 +3577,11 @@
             "description": "<p>cette arme possède un manche en bois se terminant par une lourde tête en métal. La tête du marteau peut être à simple face ou à double face, mais elle est toujours capable de délivrer de puissants coups contondants.\n</p>"
         },
         {
+            "id": "Ring of Maniacal Devices",
+            "name": "Ring of Maniacal Devices (Anneau d'objets déments)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet anneau semble être en simple laiton terni mais il attise votre curiosité quand des pièges ou des dispositifs de toutes sortes sont concer‑ nés. Vous pouvez effectuer une action Interagir pour extirper des outils de voleur de l’anneau. Ces outils apparaissent dans votre main et retournent dans l’anneau dès que vous n’en avez plus besoin. Ils vous confèrent un bonus d’objet de +2 aux tests de Vol pour Désamorcer un dispositif et Crocheter une serrure, et les conseils qu’il vous transmet vous confèrent le même bonus aux tests d’Artisanat pour Fabriquer et Réparer des pièges classiques et artisanaux.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> 10 minutes (Interagir); <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous créez un glyphe de garde de niveau 4 @Compendium[pf2e.spells-srd.o0l57UfBm9ScEUMW]{Glyph of Warding} contenant une boule de feu @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}. Il ne peut exister qu’un seul glyphe de garde actif et créé par un <em>anneau d’objets déments</em> à la fois, même si vous possédez plusieurs anneaux, et le sort prend fin si vous n’investissez plus l’anneau. </span></p>"
+        },
+        {
             "id": "Bomber's Eye Elixir (Lesser)",
             "name": "Bomber's Eye Elixir (Lesser) (Elixir d'oeil du mitrailleur (inférieure))",
             "description": "Cette teinture vous aide à localiser vos ennemis. Pendant les 5 min qui suivent, vos Frappes avec des bombes alchimiques réduisent le bonus de circonstances à la CA que vos cibles obtiennent grâce à un abri. Réduisez le bonus de circonstances de la cible de 1."
@@ -3547,6 +3667,11 @@
             "description": "<p><span class=\"fontstyle0\">Une lanterne diffuse une lumière vive et nécessite 0,5 litre d’huile pour fonctionner pendant 6 heures. Une lanterne à capote émet sa lumière avec un cône de 18 m (et une lumière faible les 18 m au-delà). Une lanterne sourde émet sa lumière dans un rayon de 9 m (et une lumière faible les 9 m au-delà) et est équipée de volets que vous pouvez fermer pour bloquer la luminosité. Fermer ou ouvrir les volets nécessite une action Interagir. </span> </p>"
         },
         {
+            "id": "Anklets of Alacrity",
+            "name": "Anklets of Alacrity (Chaines de chevilles d'alacrité)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces chaînes incrustées de pierres précieuses vous confèrent un bonus d’objet de +3 aux tests d’Acrobaties. Quand vous investissez les chaînes de cheville, soit vous augmentez de 2 votre valeur de Dextérité, soit vous l’augmentez à 18, selon ce qui vous procure la valeur la plus élevée. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous claquez les chaînes l’une contre l’autre pour gagner un bonus de statut de +6 m à toutes vos Vitesses et les effets d’une marche sur l’eau pendant les dix prochaines minutes.</span></p>"
+        },
+        {
             "id": "Black Lotus Extract",
             "name": "Black Lotus Extract (Extrait de lotus noir)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrait de lotus noir provoque de violentes hémorragies internes. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 42  <strong>Délai</strong>1 minute; <strong>Durée maximum</strong> 6 rounds; <strong>Stade 1</strong> 15d6 dégâts de poison et drainé 1 (1 round); <strong>Stade 2</strong> 17d6 dégâts de poison et drainé 1 (1 round);  <strong>Stade 3</strong> 20d6 dégâts de poison et drainé 2 (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
@@ -3570,6 +3695,11 @@
             "id": "Disrupting (Greater)",
             "name": "Disrupting (Greater) (Pertubatrice supérieure (rune))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une arme perturbatrice bouillonne d’énergie positive en infligeant 1d6 dégâts positifs supplémentaires aux morts‑vivants. En cas de coup critique, le mort‑vivant est également affaibli 1 jusqu’à la fin de votre prochain tour. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Les dégâts supplémentaires passent à 2d6. En cas de coup critique, au lieu d’être affaibli 1, le mort‑vivant doit faire un jet de Vigueur DD 34 avec les effets suivants. Il s’agit d’un effet de mise hors de combat.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès critique.</strong>  Il est affaibli 1 jusqu’à la fin de votre prochain tour. <br /><strong>Succès</strong>. Il est affaibli 2 jusqu’à la fin de votre prochain tour. <br /><strong>Echec</strong>  Il est affaibli 3 jusqu’à la fin de votre prochain tour.<br /><strong>Échec critique.</strong> Il est détruit.</span></p>"
+        },
+        {
+            "id": "Philosopher's Stone",
+            "name": "Philosopher's Stone (Pierre philosophale)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un alchimiste doté du done pierre philosophale @Compendium[pf2e.feats-srd.zOK6IFSz3DIBRjEw]{Craft Philosopher's Stone} par mois en dépensant un lot de réactifs infusés lors de ses préparatifs quotidiens grâce au pouvoir de classe alchimie avancée. C’est le seul moyen de créer une pierre philosophale.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Au premier abord, cette dernière semble être un morceau de roche charbonneuse ordinaire. Si on la brise avec l’action Ouvrir de force (DD 35), on découvre une cavité en son centre. Elle est tapissée d’un type de vif‑argent très rare capable de transmuter les métaux ba‑ siques en métaux précieux ou de créer un élixir de jouvence (p. 580). &nbsp;<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Pour utiliser le vif‑argent, vous devez être légendaire en Artisanat et disposer du don Artisanat alchimique. Vous pouvez alors utiliser le vif‑argent de la pierre pour produire l’un de ces deux effets :  </span></p>\n<ul>\n<li> Vous pouvez utiliser l’action Interagir pour l’appliquer sur un élixir de vie ultime infusé. L’élixir devient instantanément un élixir de jouvence infusé, sans nécessiter de matériaux supplémentaires ni demander de temps de fabrication</li>\n<li>Vous pouvez passer jusqu’à un mois d’intermède à appliquer le vif‑argent sur du fer pour créer de l’argent ou sur du plomb pour créer de l’or. Cela fonctionne comme une tâche de niveau 20 pour Gagner de l’argent avec l’Artisanat, sauf que vous créez 500 po du métal choisi par jour en cas de succès ou 750 po par jour pour un succès critique.</li>\n</ul>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir ou 1 jour ou plus ; voir plus loin</p>"
         },
         {
             "id": "Magic Wand (6th-Level Spell)",
@@ -3605,6 +3735,11 @@
             "id": "Nunchaku",
             "name": "Nunchaku (Nunchaku)",
             "description": "<p><span class=\"fontstyle0\">le nunchaku est constitué de deux barres en bois ou en métal reliées par une corde ou une chaîne courte.</span> </p>"
+        },
+        {
+            "id": "Ring of Spell Turning",
+            "name": "Ring of Spell Turning (Anneau de renvoi de sorts)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Trois diamants sont incrustés sur le pourtour de cet anneau d’or. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> imaginer; <strong> Déclencheur</strong>  Vous êtes la cible d’un sort;  <strong>Effet</strong> L’anneau duplique les effets d’un renvoi de sorts de niveau 8 avec un modificateur de contre de +35 qui peut potentiellement renvoyer le sort déclencheur vers son incantateur. L’anneau ne peut pas ren‑ voyer un total de plus de 9 niveaux de sorts par jour. Si vous activez l’anneau pour renvoyer un sort qui dépasse cette limite, la tentative échoue mais l’utilisation de l’anneau n’est pas comptée dans la limite quotidienne</span></p>"
         },
         {
             "id": "Arrow-Catching Shield",
