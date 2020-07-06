@@ -549,7 +549,7 @@
         {
             "id": "Basic Crafter's Book",
             "name": "Livre d’artisan basique (Basic Crafter's Book)",
-            "description": "<p><span class=\"fontstyle0\">Ce livre contient les formules pour @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} les objets ordinaires.</span></p>"
+            "description": "<p><span class=\"fontstyle0\">Ce livre contient les formules pour @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} les objets communs.</span></p>"
         },
         {
             "id": "Invisibility Potion",
@@ -589,7 +589,7 @@
         {
             "id": "Shadow (Major)",
             "name": "Ombre majeure (rune) (Shadow (Major))",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une armure avec cette rune devient noire et indistincte. Vous béné‑ ficiez d’un bonus d’objet de +3 aux tests de Discrétion lorsque vous portez l’armure.&nbsp;&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une armure avec cette rune devient noire et indistincte. Vous bénéficiez d’un bonus d’objet de +3 aux tests de Discrétion lorsque vous portez l’armure.&nbsp;&nbsp;</span></p>"
         },
         {
             "id": "Arsenic",
@@ -1464,7 +1464,7 @@
         {
             "id": "Clothing (Fine)",
             "name": "Vêtements (beaux) (Clothing (Fine))",
-            "description": "<p><span class=\"fontstyle0\">Les beaux vêtements, qui conviennent aux nobles et aux membres des familles royales, sont fabriqués dans des tissus coûteux, accompagnés de métaux précieux et de motifs complexes. Vous gagnez un bonus de +1 aux tests de @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire impression} à la noblesse ou autres personnes des classes supérieures lorsque vous portez de beaux vêtements confectionnés en haute couture.</span> </p>"
+            "description": "<p>Les beaux vêtements, qui conviennent aux nobles et aux membres des familles royales, sont fabriqués dans des tissus coûteux, accompagnés de métaux précieux et de motifs complexes.</p>\n<p> Vous gagnez un bonus de +1 aux tests de @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire impression} à la noblesse ou autres personnes des classes supérieures lorsque vous portez de beaux vêtements confectionnés en haute couture.</p>"
         },
         {
             "id": "Etched copper ewer",
@@ -2204,7 +2204,7 @@
         {
             "id": "Necklace of Fireballs II",
             "name": "Collier à boules de feu II (Necklace of Fireballs II)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce collier de perles se compose d’une ficelle de chanvre sur laquelle sont enfilées des perles chatoyantes rouges. Quand il est activé, il ap‑ paraît brièvement sous sa véritable forme : une chaîne d’or ornée de sphères d’or attachées avec du fil fin.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Il existe toute une variété de colliers à boules de feu. Chacun a un DD du jet de Réflexes basique différent et se compose d’une combinaison de sphères qui infligent un montant de dégâts différent, comme indiqué pour chaque type de collier ci‑après. Quand toutes les perles ont été utilisées, le collier n’est plus qu’un morceau de ficelle en chanvre non magique. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Effet</strong>  Vous détachez une sphère du collier et celle‑ci commence à émettre une lueur orangée. Après avoir activé une sphère, si vous ou quelqu’un d’autre la lance (une action Interagir avec le trait à distance), elle explose comme une boule de feu là où elle retombe. Votre lancer peut placer le centre de la boule de feu où vous le souhaitez à 21 m ou moins de vous, mais le MJ peut vous demander de faire un jet d’attaque si le lancer est particulièrement difficile. Si personne ne lance la sphère avant le début de votre prochain tour, celle‑ci devient une perle rouge non magique.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Une à 8d6, une à 6d6, deux à 4d6 (DD 25)</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce collier de perles se compose d’une ficelle de chanvre sur laquelle sont enfilées des perles chatoyantes rouges. Quand il est activé, il apparaît brièvement sous sa véritable forme : une chaîne d’or ornée de sphères d’or attachées avec du fil fin.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Il existe toute une variété de colliers à boules de feu. Chacun a un DD du jet de Réflexes basique différent et se compose d’une combinaison de sphères qui infligent un montant de dégâts différent, comme indiqué pour chaque type de collier ci‑après. Quand toutes les perles ont été utilisées, le collier n’est plus qu’un morceau de ficelle en chanvre non magique. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Effet</strong>  Vous détachez une sphère du collier et celle‑ci commence à émettre une lueur orangée. Après avoir activé une sphère, si vous ou quelqu’un d’autre la lance (une action Interagir avec le trait à distance), elle explose comme une boule de feu là où elle retombe. Votre lancer peut placer le centre de la boule de feu où vous le souhaitez à 21 m ou moins de vous, mais le MJ peut vous demander de faire un jet d’attaque si le lancer est particulièrement difficile. Si personne ne lance la sphère avant le début de votre prochain tour, celle‑ci devient une perle rouge non magique.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Une à 8d6, une à 6d6, deux à 4d6 (DD 25)</span></p>"
         },
         {
             "id": "Acid Flask (Major)",
@@ -2919,7 +2919,7 @@
         {
             "id": "Ring of Energy Resistance (Major)",
             "name": "Anneau de résistance aux énergies (majeur) (Ring of Energy Resistance (Major))",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet anneau vous confère une résistance 15 contre un type de dégâts d’énergie : acide, électricité, feu, froid ou son. Chaque anneau est conçu pour protéger contre un type de dégâts d’énergie en particulier et son apparence est censée représenter d’une façon ou d’une autre le type d’énergie contre lequel il protège. Par exemple, un anneau de résistance au feu pourrait être orné d’un rubis et un anneau de résistance au froid d’un saphir.</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet anneau vous confère une résistance 15 contre un type de dégâts d’énergie : acide, électricité, feu, froid ou son. Chaque anneau est conçu pour protéger contre un type de dégâts d’énergie en particulier et son apparence est censée représenter d’une façon ou d’une autre le type d’énergie contre lequel il protège. Par exemple, un <em>anneau de résistance au feu</em> pourrait être orné d’un rubis et un <em>anneau de résistance au froid</em> d’un saphir.</span></p>"
         },
         {
             "id": "Armbands of Athleticism",

@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 755
+ * **officielle**: 760
  * **libre**: 94
  * **aucune**: 461
- * **changé**: 16
+ * **changé**: 11
 
 
-Dernière mise à jour: 2020-07-06 10:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-06 18:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -992,7 +992,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-14-oVrVzML63VFvVfKk.htm](equipment/equipment-14-oVrVzML63VFvVfKk.htm)|Disrupting (Greater)|Pertubatrice supérieure (rune)|officielle|
 |[equipment-14-RM3SR1omNZfppZGl.htm](equipment/equipment-14-RM3SR1omNZfppZGl.htm)|Crystal Ball (Clear Quartz)|Boule de cristal|officielle|
 |[equipment-14-t0pzdb54KD2JQcEa.htm](equipment/equipment-14-t0pzdb54KD2JQcEa.htm)|Horseshoes of Speed (Greater)|Fers à cheval de vitesse (supérieurs)|officielle|
-|[equipment-14-zyAzx6fLsPurRFQO.htm](equipment/equipment-14-zyAzx6fLsPurRFQO.htm)|Ring of Energy Resistance (Major)|Anneau de résistance aux énergies (majeur)|changé|
+|[equipment-14-zyAzx6fLsPurRFQO.htm](equipment/equipment-14-zyAzx6fLsPurRFQO.htm)|Ring of Energy Resistance (Major)|Anneau de résistance aux énergies (majeur)|officielle|
 |[equipment-15-35rLqxDWgiDIkL8e.htm](equipment/equipment-15-35rLqxDWgiDIkL8e.htm)|Wand of Continuation (6th-Level Spell)|Baguette de prolongation (sort de niveau 6)|officielle|
 |[equipment-15-Lb7F2BR9X9TF1vjX.htm](equipment/equipment-15-Lb7F2BR9X9TF1vjX.htm)|Thundering (Greater)|Tonnerre supérieure (rune)|officielle|
 |[equipment-15-nmXPj9zuMRQBNT60.htm](equipment/equipment-15-nmXPj9zuMRQBNT60.htm)|Magic Wand (7th-Level Spell)|Baguette magique (sort de niveau 7)|officielle|
@@ -1010,7 +1010,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-16-YR8IAV94fPo0kfBz.htm](equipment/equipment-16-YR8IAV94fPo0kfBz.htm)|Wand of Smoldering Fireballs (7th-Level Spell)|Baguette de boules de feu incendiaires (Sort de niveau 7)|officielle|
 |[equipment-17-0yeM77XLNrB0a0LF.htm](equipment/equipment-17-0yeM77XLNrB0a0LF.htm)|Circlet of Persuasion|Serre-tête de persuasion|officielle|
 |[equipment-17-1FKDq4Gfev5GObDT.htm](equipment/equipment-17-1FKDq4Gfev5GObDT.htm)|Diadem of Intellect|Diadème d'intellect|officielle|
-|[equipment-17-2FjdEflsVldnuebM.htm](equipment/equipment-17-2FjdEflsVldnuebM.htm)|Shadow (Major)|Ombre majeure (rune)|changé|
+|[equipment-17-2FjdEflsVldnuebM.htm](equipment/equipment-17-2FjdEflsVldnuebM.htm)|Shadow (Major)|Ombre majeure (rune)|officielle|
 |[equipment-17-6xaxxKfvXED6LfIY.htm](equipment/equipment-17-6xaxxKfvXED6LfIY.htm)|Vorpal|Vorpale (rune)|officielle|
 |[equipment-17-7utuH8VJjKEzKtNw.htm](equipment/equipment-17-7utuH8VJjKEzKtNw.htm)|Belt of Giant Strength|Ceinture de force de géant|officielle|
 |[equipment-17-9IwSktj0Xj7A2Ruh.htm](equipment/equipment-17-9IwSktj0Xj7A2Ruh.htm)|Anklets of Alacrity|Chaines de chevilles d'alacrité|officielle|
@@ -1047,7 +1047,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-3tOyV4VZEZhwnAMO.htm](equipment/equipment-3tOyV4VZEZhwnAMO.htm)|Fishing Tackle|Articles de pêche|officielle|
 |[equipment-3yLu12TCwN8utY0u.htm](equipment/equipment-3yLu12TCwN8utY0u.htm)|Extra Ink and Paper|Encre eet papier supplémentaires|officielle|
 |[equipment-44F1mfJei4GY8f2X.htm](equipment/equipment-44F1mfJei4GY8f2X.htm)|Crowbar|Pied-de-biche|officielle|
-|[equipment-4ftXXUCBHcf4b0MH.htm](equipment/equipment-4ftXXUCBHcf4b0MH.htm)|Alchemist's Tools|Outils d'alchimiste|changé|
+|[equipment-4ftXXUCBHcf4b0MH.htm](equipment/equipment-4ftXXUCBHcf4b0MH.htm)|Alchemist's Tools|Outils d'alchimiste|officielle|
 |[equipment-5j5KyZsGOfbrJNUZ.htm](equipment/equipment-5j5KyZsGOfbrJNUZ.htm)|Ladder (10-foot)|Échelle (3 m)|officielle|
 |[equipment-6cyw0yK91cNsbvSK.htm](equipment/equipment-6cyw0yK91cNsbvSK.htm)|Mirror|Miroir|officielle|
 |[equipment-6DCy7tEF1cxaIJMy.htm](equipment/equipment-6DCy7tEF1cxaIJMy.htm)|Grappling Hook|Grappin|officielle|
@@ -1066,7 +1066,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-fyYnQf1NAx9fWFaS.htm](equipment/equipment-fyYnQf1NAx9fWFaS.htm)|Rope|Corde|officielle|
 |[equipment-h7gsRKv6rORYgsv0.htm](equipment/equipment-h7gsRKv6rORYgsv0.htm)|Snare Kit|Nécessaire de fabrication de pièges artisanaux :|officielle|
 |[equipment-ilbLQNy6TbBPW7sQ.htm](equipment/equipment-ilbLQNy6TbBPW7sQ.htm)|Clothing (Ordinary)|Vêtements (ordinaire)|officielle|
-|[equipment-jJZbdMHMdh8UL2j8.htm](equipment/equipment-jJZbdMHMdh8UL2j8.htm)|Clothing (Fine)|Vêtements (beaux)|changé|
+|[equipment-jJZbdMHMdh8UL2j8.htm](equipment/equipment-jJZbdMHMdh8UL2j8.htm)|Clothing (Fine)|Vêtements (beaux)|officielle|
 |[equipment-Jvp0x2Sc82WVpExT.htm](equipment/equipment-Jvp0x2Sc82WVpExT.htm)|Disguise Kit|Kit de déguisement|officielle|
 |[equipment-ML0GR2cIEdMn2hoD.htm](equipment/equipment-ML0GR2cIEdMn2hoD.htm)|Hammer|Marteau|officielle|
 |[equipment-MPv5Yx4w7scZGj2Y.htm](equipment/equipment-MPv5Yx4w7scZGj2Y.htm)|Musical Instrument (Handheld)|Instruments de musique (portatifs)|officielle|
@@ -1089,7 +1089,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-VHxXMvBeBTq2FSdf.htm](equipment/equipment-VHxXMvBeBTq2FSdf.htm)|Material Component Pouch|Bourse de composants matériels|officielle|
 |[equipment-vLGDUFrg4yGzpTQX.htm](equipment/equipment-vLGDUFrg4yGzpTQX.htm)|Repair Kit|Kit de réparation|officielle|
 |[equipment-VnPh324pKwd2ZB66.htm](equipment/equipment-VnPh324pKwd2ZB66.htm)|Waterskin|Outre|officielle|
-|[equipment-w4Hd6nunVVqw3GWj.htm](equipment/equipment-w4Hd6nunVVqw3GWj.htm)|Basic Crafter's Book|Livre d’artisan basique|changé|
+|[equipment-w4Hd6nunVVqw3GWj.htm](equipment/equipment-w4Hd6nunVVqw3GWj.htm)|Basic Crafter's Book|Livre d’artisan basique|officielle|
 |[equipment-WAsQ6WuMYUB77Uh0.htm](equipment/equipment-WAsQ6WuMYUB77Uh0.htm)|Hourglass|Sablier|officielle|
 |[equipment-wob6DB1FFdWs0mbp.htm](equipment/equipment-wob6DB1FFdWs0mbp.htm)|Compass|Boussole|officielle|
 |[equipment-wrpI5z7iWB8XvflQ.htm](equipment/equipment-wrpI5z7iWB8XvflQ.htm)|Long Tool|Outil|officielle|
