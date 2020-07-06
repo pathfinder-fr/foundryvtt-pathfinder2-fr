@@ -1,19 +1,18 @@
 # État de la traduction (spells)
 
- * **officielle**: 309
- * **aucune**: 316
- * **libre**: 1
- * **changé**: 47
+ * **officielle**: 308
+ * **libre**: 2
+ * **aucune**: 315
+ * **changé**: 48
 
 
-Dernière mise à jour: 2020-07-03 07:25 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-06 10:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[abj-00-xM35hJacTM1BSXUl.htm](spells/abj-00-xM35hJacTM1BSXUl.htm)|Silver's Refrain|
 |[abj-01-0cF9HvHzzWSbCFBP.htm](spells/abj-01-0cF9HvHzzWSbCFBP.htm)|Empty Inside|
 |[abj-01-0uRpypf1Hi7ahvTl.htm](spells/abj-01-0uRpypf1Hi7ahvTl.htm)|Shattering Gem|
 |[abj-01-3wmX7htzOXiHLdAn.htm](spells/abj-01-3wmX7htzOXiHLdAn.htm)|Delay Consequence|
@@ -336,6 +335,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[abj-00-RA7VKcen3p56rVyZ.htm](spells/abj-00-RA7VKcen3p56rVyZ.htm)|Forbidding Ward|Sceau d'interdiction|officielle|
 |[abj-00-TVKNbcgTee19PXZR.htm](spells/abj-00-TVKNbcgTee19PXZR.htm)|Shield|Boulier|officielle|
+|[abj-00-xM35hJacTM1BSXUl.htm](spells/abj-00-xM35hJacTM1BSXUl.htm)|Silver's Refrain|Refrain d'argent|libre|
 |[abj-01-0fKHBh5goe2eiFYL.htm](spells/abj-01-0fKHBh5goe2eiFYL.htm)|Negate Aroma|Supprimer l’arôme|officielle|
 |[abj-01-4WAib3GichxLjp5p.htm](spells/abj-01-4WAib3GichxLjp5p.htm)|Alarm|Alarme|officielle|
 |[abj-01-8xRzLhwGL7Dgy3EZ.htm](spells/abj-01-8xRzLhwGL7Dgy3EZ.htm)|Sanctuary|Sanctuaire|officielle|
@@ -534,7 +534,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-02-f8hRqLJaxBVhF1u0.htm](spells/evo-02-f8hRqLJaxBVhF1u0.htm)|Acid Arrow|Flèche acide|officielle|
 |[evo-02-Fq9yCbqI2RDt6Orw.htm](spells/evo-02-Fq9yCbqI2RDt6Orw.htm)|Spiritual Weapon|Arme spirituelle|officielle|
 |[evo-02-HRb2doyaLtaoCfi3.htm](spells/evo-02-HRb2doyaLtaoCfi3.htm)|Faerie Fire|Lueurs féériques|officielle|
-|[evo-02-mrDi3v933gsmnw25.htm](spells/evo-02-mrDi3v933gsmnw25.htm)|Telekinetic Manuever|Manoeuvre télékinésique|officielle|
+|[evo-02-mrDi3v933gsmnw25.htm](spells/evo-02-mrDi3v933gsmnw25.htm)|Telekinetic Maneuver|Manoeuvre télékinésique|changé|
 |[evo-02-wzLkNU3AAqOSKFPR.htm](spells/evo-02-wzLkNU3AAqOSKFPR.htm)|Sound Burst|Cacophonie|officielle|
 |[evo-02-ynm8JIU3sc3qUMpa.htm](spells/evo-02-ynm8JIU3sc3qUMpa.htm)|Continual Flame|Flamme éternelle|officielle|
 |[evo-03-9AAkVUCwF6WVNNY2.htm](spells/evo-03-9AAkVUCwF6WVNNY2.htm)|Lightning Bolt|Eclair|officielle|

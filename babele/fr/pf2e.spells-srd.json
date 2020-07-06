@@ -807,7 +807,7 @@
             "description": "<p>Vous utilisez vos connaissances occultes et la puissance de votre esprit pour manipuler le multivers spirituel, avec l’un des effets suivants :</p>\n<ul>\n<li>Vous dupliquez un sort occulte de niveau 9 ou inférieur.</li>\n<li>Vous dupliquez un sort non occulte de niveau 7 ou inférieur</li>\n<li>Vous produisez un effet dont la puissance équivaut à celle d’un sort occulte de niveau 9 ou inférieur ou d’un sort non occulte de niveau 7 ou inférieur. </li>\n<li>Vous inversez certains effets se référant au sort souhait</li>\n</ul>\n<p>Si le MJ accepte, vous pouvez essayer de reproduire des effets encore plus puissants, mais c’est dangereux et le sort peut avoir un effet partiel seulement.</p>\n<p>&nbsp;</p>"
         },
         {
-            "id": "Telekinetic Manuever",
+            "id": "Telekinetic Maneuver",
             "name": "Manoeuvre télékinésique",
             "description": "<p>Grâce à une montée de pouvoir télékinésique, vous déplacez un ennemi ou une chose qu’il transporte. Vous pouvez tenter de Désarmer, Pousser ou de faire un Croc-en-jambe à la cible en utilisant un jet d’attaque de sort au lieu d’un test d’Athlétisme.</p>"
         },
@@ -1520,6 +1520,11 @@
             "id": "Fear",
             "name": "Terreur",
             "description": "<p>Vous semez la terreur dans le coeur de la cible qui doit faire un jet de Volonté.</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée.</p>\n<p>\n<b> Succès </b> La cible est effrayée 1 @JournalEntry[Frightened] 1.</p>\n<p>\n<b> Échec </b> La cible est effrayée 2 @JournalEntry[Frightened] 2.</p>\n<p>\n<b> Échec critique </b> La cible est effrayée 3 @JournalEntry[Frightened] 3 et en fuite pendant 1 round @JournalEntry[Fleeing] for 1 round</p>\n<p>\n<hr><b>Intensifié (3e)</b> Vous pouvez cibler jusqu’à 5 créatures.</p>"
+        },
+        {
+            "id": "Silver's Refrain",
+            "name": "Refrain d'argent",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La “Chanson d'Argent” était une chanson enchantée utilisée par les Corbeaux d'argent pour battre les forces diaboliques. Vous en tirez des morceaux choisis pour répliquer de manière temporaire certains des avantages légendaires de la chanson, même si c'est à une échelle beaucoup plus petite.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Les attaques avec une arme et à mains nues par vos alliés dans la zone sont traitées comme si elles étaient en argent. En plus, ce sort essaie automatiquement un contresort contre toute @Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}&nbsp;lancée par un diable essayant d'entrer dans la zone en utilisant <em>porte dimensionnelle</em>. Si un diable essaie de rentrer dans la zone en utilisant <em>porte dimensionnelle</em> et que le sort est contré, le diable reste à la place d'où il est parti.</span></p>"
         },
         {
             "id": "Calm Emotions",
