@@ -68,7 +68,9 @@ for F in FILES:
   # ==========================
   # read all available entries
   # ==========================
-  existing = readFolder("%sdata/%s/" % (ROOT, F['id']))
+  folderData = readFolder("%sdata/%s/" % (ROOT, F['id']))
+  existing = folderData[0]
+  existingByName = folderData[1]
   
   # ========================
   # create or update entries
@@ -114,15 +116,27 @@ for F in FILES:
         del existing[id]['oldstatus']
         dataToFile(existing[id], filepath)
       
-    # file doesn't exist => create new
+    # file doesn't exist
     else:
-      data = { 
-        'nameEN': source['name'],
-        'nameFR': "",
-        'status': 'aucune',
-        'descrEN': source['desc'],
-        'descrFR': "" }
-      dataToFile(data, filepath)
+      
+      # check if other entry exists with same name => means that ID has changed for the same element
+      if source['name'] in existingByName:
+        oldEntry = existingByName[source['name']]
+        # rename file
+        pathFrom = "%sdata/%s/%s" % (ROOT, F['id'], oldEntry['filename'])
+        pathTo = "%sdata/%s/%s" % (ROOT, F['id'], filename)
+        del existing[oldEntry['id']]
+        os.rename(pathFrom, pathTo)
+      
+      # create new
+      else:
+        data = { 
+          'nameEN': source['name'],
+          'nameFR': "",
+          'status': 'aucune',
+          'descrEN': source['desc'],
+          'descrFR': "" }
+        dataToFile(data, filepath)
     
     continue
   

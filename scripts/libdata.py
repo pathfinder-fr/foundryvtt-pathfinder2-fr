@@ -136,7 +136,8 @@ def isValid(data):
 #
 def readFolder(path):
   
-  result = {}
+  resultById = {}
+  resultByName = {}
   all_files = os.listdir(path)
   
   # read all files in folder
@@ -145,14 +146,15 @@ def readFolder(path):
     data = fileToData(path + fpath)
     data['filename'] = fpath
     
-    if data['id'] in result:
-      print("Duplicate data %s %s" % (path + result[data['id']]['filename'], path + data['filename']))
+    if data['id'] in resultById:
+      print("Duplicate data %s %s" % (path + resultById[data['id']]['filename'], path + data['filename']))
       print("Please fix it manually!")
       exit(1)
       
-    result[data['id']] = data
+    resultById[data['id']] = data
+    resultByName[data['nameEN']] = data
     
-  return result
+  return [resultById, resultByName]
     
     
     
