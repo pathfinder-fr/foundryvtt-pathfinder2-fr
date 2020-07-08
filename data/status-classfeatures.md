@@ -2,11 +2,18 @@
 
  * **officielle**: 254
  * **libre**: 1
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2020-07-06 18:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-08 17:30 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[wizard-00-S6WW4Yyg4XonXGHD.htm](classfeatures/wizard-00-S6WW4Yyg4XonXGHD.htm)|Arcane Spellcasting|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

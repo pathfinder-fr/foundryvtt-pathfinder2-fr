@@ -257,6 +257,11 @@
             "description": "<p>Vous avez été témoin de la sénescence et de la mort de vos amis, ce qui vous a empli d’une morosité qui vous protège des émotions douloureuses. Vous gagnez un bonus de circonstances de +1 à vos jets de sauvegarde contre les effets des émotions. Si vous remportez un succès sur un jet de sauvegarde contre l’effet d’une émotion, il est transformé en succès critique.</p>"
         },
         {
+            "id": "Defensive Roll",
+            "name": "Roulade défensive",
+            "description": "<p><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<p><strong>déclencheur</strong> Une attaque physique qui va vous réduire à 0 point de vie.</p>\n<hr>\n<p>Vous vous laissez tomber et roulez pour atténuer la force du coup, ce qui vous permet d’échapper à une attaque mortelle et de rester conscient. Vous subissez la moitié des dégâts de l’attaque déclencheur.</p>"
+        },
+        {
             "id": "Axe Thrower",
             "name": "Lanceur de haches",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=40\"> Bûcheron de Turpin Rowe</a></u><br><strong>Prérequis</strong> Dévouement de Bûcheron de Turpin Rowe<br></span></p>\n<hr>\n<p>Vous avez maîtrisé le poids et l'équilibre d'une grande variété de haches et pouvez les lancer avec facilité. Toute hache à une main que vous maniez a le trait <a href=\"https://2e.aonprd.com/Traits.aspx?ID=195\">jet</a> avec une portée de 3 m. Pour les haches qui ont déjà ce trait, le facteur de portée augmente de 3 m. Lorsque vous obtenez un succès critique sur un jet d'attaque avec une hache que vous lancez, vous appliquez l'effet de critique de spécialisation de l'arme.&nbsp;</p>"
@@ -462,9 +467,19 @@
             "description": "<p><strong>Prérequis</strong> instinct animal</p>\n<hr>\n<p>Vous vous transformez en votre animal. Vous gagnez les effets du sort de niveau 3 forme animale, mais vous utilisez vos propres statistiques, points de vie temporaires et attaques à mains nues au lieu des statistiques conférées par forme animale. Vous conservez également les pouvoirs constants de votre équipement. Si votre animal est une grenouille, l’allonge de votre langue atteint 4,50 m. L’action permettant de Révoquer la transformation gagne le trait rage.</p>"
         },
         {
+            "id": "Diabolic Certitude",
+            "name": "Certitude diabolique",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> Écuyer Chevalier infernal<br><strong>Prérequis</strong> Dévouement de Chevalier infernal<br><strong>Déclencheur</strong> Votre tour commence et vous pouvez observer un diable.<br></span></p>\n<hr>\n<p>Votre entraînement de Chevalier infernal vous a inculqué des détails sur les habitants des enfers profondément dans votre esprit. Faites un test pour Vous Souvenir à propos d'un diable que vous êtes en train d'observer. Si vous obtenez un échec criitique à ce test, vous obtenez un échec à la place.&nbsp;</p>"
+        },
+        {
             "id": "Fascinating Performance",
             "name": "Représentation fascinante",
             "description": "<p><strong>Prérequis</strong> qualifié en Représentation</p>\n<hr>\n<p>Quand vous Vous produisez, comparez votre résultat au DD de Volonté d’un observateur. Si vous réussissez, vous fascinez la cible pendant 1 round. Si l’observateur est dans une situation qui nécessite une attention immédiate, telle qu’un combat, vous devez obtenir un succès critique pour le fasciner et l’action Représentation gagne le trait mise hors de combat. Vous devez choisir quelle créature vous tentez de fasciner avant d’effectuer votre test, et la cible est ensuite temporairement immunisée pendant 1 heure. Si vous êtes un expert en Représentation, vous pouvez fasciner jusqu’à quatre observateurs. Si vous êtes un maître, vous pouvez fasciner jusqu’à dix observateurs, et si vous êtes légendaire, vous pouvez fasciner n’importe quel nombre d’observateurs en même temps.</p>"
+        },
+        {
+            "id": "Hobgoblin Weapon Familiarity",
+            "name": "Familiarité avec les armes hobgobelines",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié avec les arcs courts, les arcs courts composites, les arcs longs, les arcs longs composites,  les coutilles, les hallebardes, les épées courtes, les épées longues, les lances et les piques. En outre, vous avez accès aux armes peu courantes des hobgobelins. Afin de déterminer votre maîtrise, vous considérez les armes de guerre hobgobelines comme des armes simples et les armes hobgobelines évoluées comme des armes de guerre.&nbsp;</span></p>"
         },
         {
             "id": "Swordmaster Dedication",
@@ -475,6 +490,11 @@
             "id": "Greater Mental Evolution",
             "name": "Évolution mentale supérieure",
             "description": "<p><strong>Prérequis</strong> Évolution arcanique ou Évolution occulte</p>\n<hr>\n<p>La relation étroite de votre lignage avec l’essence mentale diversifie grandement votre répertoire de sorts. Ajoutez un sort dans votre répertoire de chaque niveau que vous savez lancer.</p>"
+        },
+        {
+            "id": "Hobgoblin Weapon Expertise",
+            "name": "Expertise avec les armes hobgobelines",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Familiarité avec les armes hobgobelines<br></span></p>\n<hr>\n<p>Vous augmentez votre entraînement avec les armes des champs de batailles. Lorsque vous obtenez une capacité de classe qui vous accorde un maniement expert ou supérieur avec certaines armes, vous obtenez aussi ce rang de maîtrise avec toutes les armes pour lesquelles vous êtes qualifié grâce au don Familiarité avec les armes hobgobelines.&nbsp;</p>"
         },
         {
             "id": "Multifarious Muse",
@@ -1047,6 +1067,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=40\">Bûcheron de Turpin Rowe</a></u><br><strong>Conditions</strong> trained in Survival<br><strong>Access</strong> You must befriend at least one Turpin Rowe logger.<br></span></p>\n<hr>\n<p>Votre entraînement dans l'abattage des troncs vous a rendu intimement familier avec tous les aspects de la forêt et vous a entraîné à entourer les troncs et à utiliser leur stature à votre avantage. Vous devenez qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance des scieries</a> et Connaissance de la Forêt ou expert si vous étiez auparavant déjà qualifié. Vous pouvez toujours vous <a href=\"https://2e.aonprd.com/Actions.aspx?ID=90\">Mettre à l'abri</a> lorsque vous vous trouvez sur un terrain forestier pour obtenir un abri, même si vous n'êtes pas à proximité d'un obstacle derrière lequel vous pouvez vous mettre à l'abri. En outre, tout adversaire qui se met à l'abri derrière un arbre ne bénéficie que d'un abri partiel contre vos attaques (ou d'un abri standard si l'ennemi obtient autrement un abri important).</p>\n<p><strong>Special</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype Bûcheron de Turpin Rowe.</p>"
         },
         {
+            "id": "Defensive Recovery",
+            "name": "Récupération défensive",
+            "description": "<p><strong>Prérequis</strong> source de mise à mal ou de guérison</p>\n<hr>\n<p>Votre foi vous offre une protection supplémentaire en plus de vous soigner. Si la prochaine action que vous effectuez consiste à lancer mise à mal ou guérison sur une unique cible et que celle‑ci récupère des points de vie grâce au sort, elle bénéficie également d’un bonus de statut de +2 à la CA et aux jets de sauvegarde pendant un round.</p>"
+        },
+        {
             "id": "Scarecrow",
             "name": "Épouvantail",
             "description": "<p><strong>Archetype</strong> Bellflower Tiller</p>\n<p><strong>Prérequis</strong> Dévouement du Campanule</p>\n<hr>\n<p>Vous combattez fièrement pour protéger votre récolte. Lorsque vous touchez une créature qui est adjacente à deux ou plus des membres de votre récolte avec une attaque à mains nues ou avec une arme, vous obtenez un bonus de circonstance aux dégâts égal au nombre de dés de dégâts de l'arme. Lorsque vous touchez une créature qui a empoigné un membre de votre récolte, ce membre peut essayer de lui @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper} en utilisant une réaction.</p>"
@@ -1195,6 +1220,11 @@
             "id": "Deflect Arrow",
             "name": "Parade de projectiles",
             "description": "<p><strong>Déclencheur</strong> Vous êtes la cible d'une attaque à distance physique.</p>\n<p><strong>Conditions</strong> Vous êtes conscient de l'attaque, vous n'êtes pas pris au dépourvu contre elle et vous avez une main de libre.</p>\n<hr>\n<p>Vous bénéficiez d’un bonus de circonstances de +4 à la CA contre l’attaque à l’origine du déclenchement. Si l’attaque rate, c’est que vous l’avez parée. Vous ne pouvez pas utiliser ce don pour parer des projectiles particulièrement gros (tels que des rochers ou des carreaux de baliste).</p>"
+        },
+        {
+            "id": "Disrupt Ki",
+            "name": "Perturbation du ki",
+            "description": "<p>Faites une Frappe à mains nues. Si elle inflige des dégâts à une créature vivante, vous bloquez sa force vitale. La créature subit 2d6 dégâts négatifs persistants et elle est @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{affaiblie} 1 tant que persistent ces dégâts. Si vous êtes de niveau 18 ou plus, cette Frappe inflige 3d6 dégâts négatifs persistants à la place.</p>"
         },
         {
             "id": "Barbarian Resiliency",
@@ -1595,6 +1625,11 @@
             "id": "Expert Bard Spellcasting",
             "name": "Incantation du Barde expert",
             "description": "<p><strong>Prérequis</strong> Incantation du barde basique, maître en Occultisme</p>\n<hr>\n<p>Vous gagnez les avantages d’incantation expert (page 219)</p>"
+        },
+        {
+            "id": "Tree Climber",
+            "name": "Grimpeur aux arbres",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> ascendance gobelin à queue ou gobelin habitant des arbres<br></span></p>\n<hr>\n<p>Le temps passé en forêt ou dans les canopées des jungles vous a appris à crapahuter dans les branches avec un pied assuré. Vous gagnez une vitesse d'escalade de 3 m. si vous avez aussi le don d'héritage @Compendium[pf2e.feats-srd.bo4JG09pkoS7ywSZ]{Grimpeur des cavernes}, votre vitesse d'escalade augmente pour atteindre votre vitesse de déplacement lorsque vous grimpez aux arbres.&nbsp;</p>"
         },
         {
             "id": "Staff Sweep",
@@ -2117,6 +2152,11 @@
             "description": "<p><strong>Archétype</strong> @Compendium[pf2e.archetypes.gw4J1pXYED71TPWx]{Laboureur de la Campanule}</p>\n<p><strong>Prérequis</strong> Charisme 14, expert en Discrétion et en Survie, membre du réseau Campanule</p>\n<hr>\n<p>Vous avez dédié votre vie à libérer les esclaves et à les escorter vers la liberté. Vous obtenez un bonus de statut de 1,5 m à votre Vitesse. Choisissez jusqu'à six autres personnes pour former votre \"récolte\". Les membres de votre récolte peuvent utiliser votre Vitesse pour voyager si elle est plus haute que la leur. Les membres à plus de 18 m de vous perdent ce bénéfice (de ce don ou de tout autre don de Laboureur de la Campanule) de faire partie de votre récolte, mais le regagnent immédiatement lorsqu'ils y rentrent de nouveau. Vous pouvez ajouter ou retirer quelqu'un de votre récolte en passant 10 minutes en conversation avec eux.</p>\n<p><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons de l'archétype Laboureur de la Campanule.</p>"
         },
         {
+            "id": "Debilitating Shot",
+            "name": "Tir incapacitant",
+            "description": "<p>Vous visez le point faible d’un adversaire et tirez précisément à cet endroit pour le ralentir. Effectuez une Frappe avec une arme à distance. Si elle touche et inflige des dégâts, la cible est @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralentie} 1 jusqu’à la fin de son prochain tour.</p>"
+        },
+        {
             "id": "Imposing Destrier",
             "name": "Destrier imposant",
             "description": "<p><strong>Prérequis</strong> allié divin (destrier), Cheval de guerre fidèle</p>\n<hr>\n<p>La monture dont vous prenez soin peut à présent exploiter son plein potentiel. La monture que vous obtenez grâce à la capacité de classe allié divin est à présent un compagnon animal sauvage ou agile (page 214). Lors d’une rencontre, même si vous n’effectuez pas l’action Diriger un animal, votre monture peut toujours effectuer une action à votre tour pour Marcher rapidement ou Frapper</p>"
@@ -2180,6 +2220,11 @@
             "id": "Boundless Reprisals",
             "name": "Représailles illimitées",
             "description": "<p>Grâce à votre sixième sens en combat, vous pouvez réagir rapidement et de manière appropriée à toutes les situations. Au début du tour de chaque ennemi, vous disposez d’une réaction que vous pouvez utiliser uniquement durant ce tour.</p>"
+        },
+        {
+            "id": "Natural Performer",
+            "name": "Réprésentation naturelle",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L'animation vous vient naturellement. Vous devenez qualifié en Représentation et obtenez un don de compétence de Représentation de niveau 1.&nbsp;</span></p>"
         },
         {
             "id": "Basic Wilding",
@@ -2297,6 +2342,11 @@
             "description": "<p><strong>Prérequis</strong> Soulagement</p>\n<hr>\n<p>La grâce divine qui vous traverse vous permet de soulager quelqu’un d’une affliction. Quand vous utilisez Soulagement, votre pouvez à la place tenter de contrer une malédiction, une maladie ou un poison.</p>"
         },
         {
+            "id": "Divine Wall",
+            "name": "Mur divin",
+            "description": "<p><strong>Conditions</strong> Vous maniez un bouclier.</p>\n<hr>\n<p>Vous utilisez votre bouclier pour harceler vos ennemis, en les empêchant de s’éloigner ou de vous contourner. Tous les espaces adjacents à vous sont du terrain diffcile pour vos ennemis.</p>"
+        },
+        {
             "id": "Celestial Mount",
             "name": "Monture céleste",
             "description": "<p><strong>Prérequis</strong>  allié divin (destrier), principes du bien</p>\n<hr>\n<p>Votre divinité octroie de formidables pouvoirs célestes à votre destrier. Il gagne vision dans le noir, son maximum de points de vie augmente de 40 et il obtient une faiblesse 10 aux dégâts mauvais. De plus, des ailes similaires à celles d’un serviteur de votre divinité (des ailes métalliques pour un archon, par exemple) poussent sur son corps, ce qui lui confère une Vitesse de vol égale à sa Vitesse. Il obtient le trait céleste et celui correspondant au type de serviteur qu’il est devenu (archon, ange ou azata, par exemple).</p>"
@@ -2345,6 +2395,11 @@
             "id": "Fighter Dedication",
             "name": "Dévouement de guerrier",
             "description": "<p><strong>Prérequis</strong> Force 14, Dextérité 14</p>\n<hr>\n<p>Vous devenez qualifié dans les armes simples et les armes de guerre. Vous devenez qualifié dans votre choix en Acrobatie ou en Athlétisme ; si vous êtes déjà qualifié dans ces deux compétences, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe de guerrier.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype guerrier</p>"
+        },
+        {
+            "id": "Torch Goblin",
+            "name": "Gobelin torche",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> ascendance gobelin peaud'charbon<br></span></p>\n<hr>\n<p>Vous avez passé tellement de temps en feu que vous savez comment l'utiliser à votre avantage. Vous pouvez vous enflammer complètement avec une torche tenue, une bouteille de feu grégeois ou un moyen incendiaire semblable, vous infligeant à vous-même 1d6 dégâts de feu persistants. Tant que vous subissez des dégâts de feu persistants, toutes les attaques au corps-à-corps contre des créatures adjacentes infligent 1 dégât de feu supplémentaire par dé de dégât d'arme. Toute créature qui réussit à vous @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Empoigner}, à vous @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} ou à vous faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} subit 1d6 dégât de feu ; si elle utilise une arme pour cette action, l'arme subit les dégâts à la place. Vous devez toujours tenter un test nu pour retirer les dégâts de feu persistants chaque round, comme d'ordinaire.&nbsp;</p>"
         },
         {
             "id": "Whirlwind Strike (Barbarian)",
@@ -2542,6 +2597,11 @@
             "description": "<p>Au cours de vos aventures, vous avez affiné votre capacité à vous adapter à la culture de l’ascendance qui prédomine dans votre entourage. Vous gagnez le don général Ascendance adoptive, ainsi qu’un don ancestral de niveau 1 tiré de la liste de dons de l’ascendance que vous avez choisie avec Ascendance adoptive.</p>"
         },
         {
+            "id": "Tail Spin",
+            "name": "Queue renversante",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> ascendance Gobelin à queue, Queue dure <br></span></p>\n<hr>\n<p>Vous excellez dans l'utilisation de votre queue comme d'une arme pour renverser vos adversaires. Faites un unique test d'Athlétisme pour faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} à jusqu'à deux créatures adjacentes. Si vous obtenez un succès contre une cible, vous obtenez un succès critique contre cette cible à la place.&nbsp;</p>"
+        },
+        {
             "id": "Quick Identification",
             "name": "Identification rapide",
             "description": "<p><strong>Prérequis</strong> qualifié en Arcanes, Nature, Occultisme ou Religion</p>\n<hr>\n<p>Vous pouvez Identifier la magie rapidement. Quand vous utilisez Identifier la magie, vous ne mettez que 1 min pour déterminer les propriétés d’un objet, d’un effet en cours ou d’un lieu, au lieu de 10 min. Si vous êtes un maître, cela prend une activité de 3 actions, et si vous êtes légendaire, cela prend 1 action.</p>"
@@ -2585,6 +2645,11 @@
             "id": "Armor Proficiency",
             "name": "Maîtrise d’armure",
             "description": "<p>Vous devenez qualifié en armures légères. Si vous êtes déjà qualifié en armures légères, vous gagnez la qualification en armures moyennes. Si vous êtes qualifié pour les deux, vous devenez qualifié en armures lourdes.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. Chaque fois, vous devenez qualifié dans le type d’armure supérieur.</p>"
+        },
+        {
+            "id": "Dueling Dance",
+            "name": "Danse en duel",
+            "description": "<p><strong>Prérequis</strong> Parade en duel</p>\n<p><strong>Conditions</strong> Vous maniez seulement une unique arme de corps à corps à une main et votre autre main ou vos autres mains sont libres.</p>\n<hr>\n<p>En utilisant votre main libre comme pivot pour vous équilibrer, vous parvenez à attaquer et à défendre avec votre arme. Tant que vous êtes dans cette posture, vous bénéficiez constamment de @Compendium[pf2e.feats-srd.7sso1g3AAejpZ8ar]{Parade en duel.}</p>"
         },
         {
             "id": "Golem Grafter Dedication",
@@ -3047,6 +3112,11 @@
             "description": "<p>D’un tir rapide, vous gênez un adversaire en combat. Vous pouvez effectuer l’action Aider avec une arme à distance que vous maniez. Au lieu de se trouver à portée de votre allonge, la cible doit se trouver à une distance égale ou inférieure à la portée maximale de l’arme que vous maniez. Un Tir de soutien utilise des munitions et impose des malus comme toutes les autres attaques.</p>"
         },
         {
+            "id": "Dragon Prince",
+            "name": "Prince dragon",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Crachat du dragon<br></span></p>\n<hr>\n<p>Le sang des Rois dragons est puissant dans vos veines. Votre ascendance draconique est clairement visible, avec ds cheveux presque complètement écarlates, bleu azur ou équivalent, et qui brillent comme les écailles d'un dragon. Vous pouvez Lancer le sort de lignage d'ensorceleur @Compendium[pf2e.spells-srd.JcobNl4iE9HmMYtE]{Souffle de dragon} comme un sort arcanique inné une fois par jour, mais vous ne pouvez utiliser que le seul souffle de dragon associé avec votre ascendance et qui doit correspondre au type d'énergie de votre don @Compendium[pf2e.feats-srd.UsJtnrqWOs7puRZa]{Crachat du dragon}. Au niveau 12 et tous les 3 niveaux subséquents, le sort est intensifié par un niveau de sort supplémentaire.&nbsp;</p>"
+        },
+        {
             "id": "Cleave",
             "name": "Coup tranchant",
             "description": "<p><strong>Déclencheur.</strong> Vous portez une Frappe au corps à corps qui tue une créature ou lui fait perdre connaissance et un autre adversaire se trouve dans un espace adjacent à cette créature</p>\n<hr>\n<p>Votre coup traverse un adversaire et en frappe un autre. Faites une Frappe au corps à corps contre le second adversaire.</p>"
@@ -3120,6 +3190,16 @@
             "id": "Quick Juggler",
             "name": "Jongleur rapide",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong> <u><a href=\"https://2e.aonprd.com/Archetypes.aspx?ID=36\">Jongleur</a></u><br><strong>Prérequis</strong> expert en Représentation, Dévouement de Jongleur<br></span></p>\n<hr>\n<p>Lorsque vous commencez à <a href=\"https://2e.aonprd.com/Feats.aspx?ID=1199\">Jongler</a> ou que vous ajoutez un autre objet à ceux avec lesquels vous êtes en train de Jongler, vous ajoutez deux objets au lieu d'un. Augmentez le nombre maximum d'objets avec lesquels vous pouvez Jongler de un.&nbsp;</p>"
+        },
+        {
+            "id": "Demanding Challenge",
+            "name": "Défi exigeant",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Défi de vantardise<br></span></p>\n<hr>\n<p>Si votre test de compétence pour défier un adversaire est un succès, la cible de votre défi subit une pénalité de circonstance de –1 à ses jets d'attaque (ou –2 si vous obtenez une réussite critique) jusqu'à la fin de votre prochain tour.&nbsp;</p>"
+        },
+        {
+            "id": "Echoing Channel",
+            "name": "Canalisation répétée",
+            "description": "<p>Quand vous maniez l’énergie positive ou négative, vous créez également une poche plus petite de la même énergie. Si la prochaine action que vous effectuez consiste à lancer la version à 2 actions d’une mise à mal ou d’une guérison pour soigner ou blesser une unique créature, désignez une créature supplémentaire adjacente à vous ou à votre cible. Ciblez cette créature avec la version à 1 action du même sort. Ce sort a le même niveau que la mise à mal ou la guérison à 2 actions que vous lancez et ne vous coûte aucun emplacement de sort.</p>"
         },
         {
             "id": "Shield Block",
@@ -3287,6 +3367,11 @@
             "description": "<p>Vous avez appris à gérer les situations qui vous dépassent. Vous gagnez le don général Improvisation inexpérimentée. En outre, vous pouvez entreprendre des actions de compétences qui vous demandent normalement de posséder le rang de maîtrise qualifié, même si vous êtes inexpérimenté.</p>"
         },
         {
+            "id": "Delay Trap",
+            "name": "Retardement de piège",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Déclencheur</strong> Un piège qui se trouve à portée est déclenché.<br></span></p>\n<hr>\n<div>Vous pouvez bloquer le mécanisme du piège pour retarder ses effets. Vous tentez un test de Vol pour Désamorcer un dispositif en ciblant le piège. Le DD est augmenté de 5 et les effets sont les suivants.<br><br><strong>Succès critique</strong> Vous empêchez que le piège se déclenche ou vous retardez son activation jusqu’au début ou à la fin de votre prochain tour (vous décidez).<br><strong>Succès</strong> Vous empêchez que le piège se déclenche, ou vous retardez son activation jusqu’à la fin de votre prochain tour (la situation la moins avantageuse pour vous ; au choix du MJ). <br><strong>Échec</strong> Aucun effet.<br><strong>Échec critique</strong> Vous êtes @Compendium[pf2e.conditionspf2e.AJh5ex99aV6VTggg]{pris au dépourvu} jusqu’au début de votre prochain tour.</div>"
+        },
+        {
             "id": "Goblin Weapon Frenzy",
             "name": "Frénésie avec les armes gobelines",
             "description": "<p><strong>Prérequis</strong> Familiarité avec les armes gobelines</p>\n<hr>\n<p>Vous savez manier les cruelles armes de votre peuple. À chaque fois que vous réussissez un coup critique avec une arme gobeline, vous appliquez l’effet critique spécialisé de cette arme..</p>"
@@ -3407,6 +3492,11 @@
             "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Déclencheur</strong>Vous utilisez Alchimie rapide pour fabriquer un objet alchimique qui possède le trait élixir et qui est inférieur d’au moins 2 niveaux à votre niveau d’alchimie avancée.</p>\n<hr>\n<p>Vous avez découvert comment mélanger deux élixirs pour en faire une seule décoction hybride. Vous pouvez utiliser deux lots supplémentaires de réactifs imprégnés pour ajouter un second élixir à celui que vous êtes en train de préparer. Ce second élixir doit également être inférieur d’au moins 2 niveaux à votre niveau d’alchimie avancée. Le mélange des deux élixirs forme un objet alchimique de 2 niveaux supérieurs à l’élixir de plus haut niveau parmi les deux élixirs de départ. Quand le mélange des deux élixirs est consommé, les effets des deux élixirs constitutifs deviennent actifs. Par exemple, vous pouvez mélanger deux élixirs de vie pour créer un élixir qui guérit deux fois plus que la normale, ou mélanger un élixir de vision dans le noir inférieur et un élixir d’œil de faucon inférieur pour gagner vision dans le noir et trouver des portes dérobées plus facilement.</p>"
         },
         {
+            "id": "Easily Dismissed",
+            "name": "Facilement négligé",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> nationalité Chelaxienne<br></span></p>\n<hr>\n<p>Vous avez suffisamment de pratique pour vous fondre à l'arrière plan dans les rues et les salons de gens plus importants que vous pour parvenir à faire en sorte d'être considéré comme quantité négligeable. Lorsque vous vous trouvez dans une foule ou dans un zone urbaine assez empruntée, vous pouvez essayer de vous @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Cacher} ou d'être @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Furtif}, même lorsque vous êtes observé. En cas de succès, vous n'êtes ni caché ni non-détecté, mais les autres créatures ne font simplement pas attention à vous, même si elles peuvent vous voir. Vous ne pouvez utiliser cette capacité face à des observateurs qui vous ont déjà vu accomplir des actions importunes ou notables. Si vous accomplissez une action autre que vous Cacher ou être Furtif ou que vous entreprenez une autre action saillante (à l'appréciation du MJ), les observateurs vous remarquent alors.&nbsp;</p>"
+        },
+        {
             "id": "Alchemical Savant",
             "name": "Savant alchimiste",
             "description": "<p><strong>Prérequis</strong> qualifié en Artisanat</p>\n<hr>\n<p>Vous pouvez rapidement identifier des objets alchimiques. Quand vous utilisez la compétence Artisanat pour Identifier l’alchimie sur un objet alchimique que vous tenez, vous pouvez effectuer ceci comme une action unique avec les traits concentration et manipulation au lieu d’y consacrer 10 min. Si vous connaissez la formule de l’objet que vous cherchez à identifier, vous gagnez un bonus de circonstances de +2 à votre test et, si vous obtenez un échec critique, celui-ci se transforme en échec simple.</p>"
@@ -3497,6 +3587,11 @@
             "description": "<p><strong>Prérequis</strong> Dévouement du moine</p>\n<hr>\n<p>Vous gagnez un bonus de statut de +3 m à votre vitesse lorsque vous ne portez pas d’armure.</p>"
         },
         {
+            "id": "Educated Assessment",
+            "name": "Évaluation érudite",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement d'Éclaireur<br></span></p>\n<hr>\n<p>Vous tentez de vous Souvenir de connaissances au sujet d'une créature et le MJ utilise le résultat du même test secret contre le DD de Duperie ou de Discrétion de la créature que celui vous donnant l'information lors d'une @Compendium[pf2e.feats-srd.B6jXVgfPuPWWLx2K]{Évaluation martiale}. Vous pourriez obtenir un degré différent de succès au test pour vous Souvenir que celui que vous avez obtenu lors de l'Évaluation martiale.<p></p>Si vous avez le don Évaluation martiale, vous obtenez les effets d'Évaluation érudite lorsque vous vous Souvenez (comme avec le don @Compendium[pf2e.feats-srd.H3I2X0f7v4EzwxuN]{Savoir automatique}).&nbsp;&nbsp;</p>"
+        },
+        {
             "id": "Mature Animal Companion (Druid)",
             "name": "Compagnon animal adulte (Druide)",
             "description": "<p><strong>Prérequis</strong> Compagnon animal</p>\n<hr>\n<p>Votre compagnon animal grandit et il est à présent adulte, ce qui lui confère des capacités supplémentaires. Voir Les compagnons animaux en page 214 pour plus d’informations. Votre compagnon animal est mieux dressé que la plupart. Lors d’une rencontre, même si vous n’effectuez pas l’action Diriger un animal, votre compagnon animal peut toujours effectuer une action à votre tour pour Marcher rapidement ou Frapper.</p>"
@@ -3515,6 +3610,11 @@
             "id": "Knockback",
             "name": "Repousser",
             "description": "<p><strong>Conditions</strong> Votre dernière action est une Frappe réussie</p>\n<hr>\n<p>La puissance de votre coup fait reculer votre ennemi. Vous repoussez votre ennemi de 1,50 m, avec les mêmes effets que si vous l’aviez Poussé. Vous pouvez alors suivre l’ennemi, comme si vous aviez réussi à le Pousser.</p>"
+        },
+        {
+            "id": "Determination",
+            "name": "Détermination",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr>\n<p>Votre entraînement vous permet d’ignorer les sorts de vos ennemis et les états qu’ils vous infligent quand la situation est désespérée. Choisissez un unique sort ou état non permanent qui vous affecte. Si vous choisissez un état, l’effet qu’il produit sur vous disparaît. Si vous choisissez un sort, tentez de le contrer (votre niveau de contre est égal à votre niveau et vous faites un jet de Volonté en guise de test de contre). Cette action ne provoque pas la disparition des dégâts sous forme de points de vie normalement infligés par le sort ou l’état et elle n’empêche pas le sort ou l’effet nuisible d’affecter vos alliés ou votre environnement. Elle ne permet pas non plus d’éliminer une affliction aux effets continus ou d’empêcher une telle affliction de vous infliger des états par la suite. Elle ne permet pas d’éliminer des états provoqués par la situation (tel que à terre ou pris en tenaille). Si l’effet provient d’une créature, d’un danger ou d’un objet de niveau 20 ou plus, vous ne pouvez pas utiliser Détermination pour éliminer l’effet qu’il produit sur vous.</p>"
         },
         {
             "id": "Master Bard Spellcasting",
@@ -3577,6 +3677,11 @@
             "description": "<p><strong>Prérequis</strong> Posture de la montagne</p>\n<p><strong>Conditions</strong> Vous êtes dans la Posture de la montagne</p>\n<hr>\n<p>Vous vous concentrez sur votre lien avec la terre et suppliez la montagne qu’elle bloque les attaques qui vous sont destinées. Vous bénéficiez d’un bonus de circonstances de +2 à la CA jusqu’au début de votre prochain tour.</p>"
         },
         {
+            "id": "First World Magic",
+            "name": "Magie du Premier monde",
+            "description": "<p>Votre lien avec le Premier monde vous accorde le bénéfice d'un tour de magie arcanique primordial inné, ressembalant beaucoup à ceux des fées. Choisissez un tour de magie de la liste des sorts primordiaux. Vous pouvez lancer ce sort comme un sort inné primordial à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>"
+        },
+        {
             "id": "Mature Animal Companion (Ranger)",
             "name": "Compagnon animal adulte (Rodeur)",
             "description": "<p><strong>Prérequis</strong> Compagnon animal</p>\n<hr>\n<p>Votre compagnon animal a grandi et c’est à présent un adulte, ce qui lui confère des capacités supplémentaires (page 214). Si vous connaissez l’action Chasser une proie, votre compagnon animal attaque votre proie sans qu’il soit nécessaire de lui en donner l’ordre. Lors d’une rencontre, même si vous n’effectuez pas l’action Diriger un animal, votre compagnon animal peut toujours effectuer une action à votre tour pour Marcher rapidement vers votre proie ou pour la Frapper</p>"
@@ -3605,6 +3710,11 @@
             "id": "Swipe (Barbarian)",
             "name": "Frappe transversale (Barbare)",
             "description": "<p>Vous portez un coup transversal ample. Vous portez une unique Frappe au corps à corps et comparez le résultat de votre jet d’attaque à la CA de deux adversaires (au maximum), qui doivent se trouver tous les deux à portée de votre attaque de corps à corps et dans des cases adjacentes l’un à l’autre. Vous lancez une seule fois les dégâts et les appliquez à toutes les créatures que vous avez touchées. Une Frappe transversale compte comme deux attaques pour votre malus d’attaques multiples. Si vous utilisez une arme qui possède le trait balayage, son modificateur s’applique à toutes vos attaques de Frappe transversale.</p>"
+        },
+        {
+            "id": "Domain Focus",
+            "name": "Focalisation du domaine",
+            "description": "<p><strong>Prérequis</strong> un ou plus sorts de domaine</p>\n<hr>\n<p>Votre dévotion envers les domaines de votre divinité grandit en même temps que la puissance qui vous est conférée. Si vous avez dépensé au moins 2 points de focalisation depuis votre dernière Refocalisation, vous récupérez 2 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.</p>"
         },
         {
             "id": "Snap Shot",
@@ -4077,6 +4187,11 @@
             "description": "<p><strong>Prérequis</strong> Celui qui appelle le vent</p>\n<hr>\n<p>Vous pouvez invoquer la fureur de la nature pour qu’elle s’abatte sur vos ennemis. Vous obtenez le sort d’ordre seigneur des tempêtes. Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>"
         },
         {
+            "id": "Disruptive Stance",
+            "name": "Posture perturbatrice",
+            "description": "<p>La moindre distraction vous met en rage et vous êtes toujours prêt à contrecarrer les actions de vos ennemis. Tant que vous gardez cette posture, vous pouvez faire une Attaque d’opportunité contre une créature à portée qui utilise une action de concentration, en plus des actions de manipulation ou de déplacement. De plus, vous interrompez l’action de concentration ou de manipulation à l’origine du déclenchement si votre Frappe est un succès (et pas seulement en cas de coup critique).</p>"
+        },
+        {
             "id": "Titan's Stature",
             "name": "Stature de titan",
             "description": "<p><strong>Prérequis</strong> Instinct de géant, Stature de géant</p>\n<hr>\n<p>Vous grandissez encore plus. Quand vous utilisez votre Stature de géant, vous pouvez maintenant devenir Très Grand (vous augmentez alors votre allonge de 3 m si vous étiez de taille Moyenne ou inférieure) pendant que vous êtres enragé. Vous êtes dans l’état @Compendium[pf2e.conditionspf2e.i3OJZU2nk64Df3xm]{maladroit} 1 (page 622) tant que vous êtes Très Grand.</p>"
@@ -4180,6 +4295,11 @@
             "id": "Uzunjati Storytelling",
             "name": "Narration Uzunjati",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Gardien de Magaambya, Affiliation Uzunjati, maître dans une compétence permettant de Se souvenir<br></span></p>\n<hr>\n<p>Vous racontez une brève histoire ou commencez à narrer un conte. C'est plus utile lorsque vous voulez faire la démonstration de votre crédibilité en tant qu'érudit ou pour impressionner quelqu'un rapidement. Faites un test avec une compétence qui peut être utilisée pour Vous souvenir dans laquelle vous avez un rang d'expert, en utilisant l'entrée de l'action Représentation. Comme Donner une représentation, l'action de Conter a raremement un effet en elle-même, mais pourrait avoir une incidence sur les DD de tests de Diplomatie subséquents contre les observateurs — voire changer leurs attitudes — si le MJ pense que c'est approprié. Cette action n'est pas une Représentation et ne peut être utilisée à sa place pour tout ce qui requiert que vous fassiez une Représentation.&nbsp;&nbsp;</p>"
+        },
+        {
+            "id": "Divine Guidance",
+            "name": "Assistance divine",
+            "description": "<p><strong>Prérequis</strong> légendaire en Religion</p>\n<hr>\n<p>Vous êtes tellement immergé dans les écritures divines que vous trouvez signification et conseil dans vos textes en toutes situations. Passez 10 minutes à Déchiffrer un texte d’écritures religieuses de votre déité ou philosophie pendant que vous pensez à un problème particulier ou une énigme que vous rencontrez, puis tentez un test de Religion (dont le DD est déterminé par le MJ). Si vous réussissez, vous découvrez un passage pertinent, une parabole ou un aphorisme qui peut vous aider à avancer ou à changer votre façon de penser pour vous aider à résoudre votre énigme. Par exemple, le MJ peut vous fournir un poème ou un indice cryptique qui peut vous guider jusqu’à la prochaine étape de résolution de votre problème.</p>"
         },
         {
             "id": "Quick Repair",
@@ -4355,6 +4475,11 @@
             "id": "Advanced Fury",
             "name": "Furie avancée",
             "description": "<p><strong>Prérequis</strong> Furie Basique</p>\n<hr>\n<p>Vous gagnez un don de barbare. Afin de remplir ses prérequis, votre niveau de barbare est égal à la moitié du niveau de votre personnage.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois. À chaque fois, vous gagnez un nouveau don de barbare.</p>"
+        },
+        {
+            "id": "Diamond Fists",
+            "name": "Poings de diamant",
+            "description": "<p>Vous corps se solidifie au fur et à mesure de vos attaques et vos derniers coups infligent ainsi plus de dégâts. Vos attaques à mains nues obtiennent le trait percutant. Celles qui possèdent déjà ce trait augmentent à la place d’un échelon leurs dés de dégâts d’arme.</p>"
         },
         {
             "id": "Advanced Blood Potency",
@@ -4560,6 +4685,11 @@
             "id": "Fatal Aria",
             "name": "Aria fatale",
             "description": "<p><strong>Prérequis</strong> réserve de focalisation</p>\n<hr>\n<p>Vos chants font naître chez la cible une émotion accablante et insoutenable, susceptible de provoquer sa mort brutale. Vous apprenez le sort de composition aria fatale (page 386). Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>"
+        },
+        {
+            "id": "Dig Quickly",
+            "name": "creuser rapidement",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions</strong> Vous vous trouvez sur des détritus, du sable, de la neige ou des matériaux de composition du même ordre.<br></span></p>\n<hr>\n<p>Vos mains travaillent aussi efficacement que des pelles lorsque vous creusez un trou rapidement. Vous excavez un puits peu profond dans l'espace que vous occupez actuellement, faisant de cette case un terrain difficile (même pour vous). En outren, vous répandez dans les airs un nuage empanaché dans une direction de votre choix. ce nuage éteint les petits feux non magiques et non tenus et aide à ralentir les flammes sur les créatures enflammées situées dans le cône ; les créatures dans ce cône qui subissent des @Compendium[pf2e.conditionspf2e.lDVqvLKA6eF3Df60]{dégâts de feu persistants} peuvent immédiatement faire un test supplémentaire contre un DD nu de 15 pour mettre un terme aux dégâts persistants.&nbsp;</p>"
         },
         {
             "id": "Sly Striker",

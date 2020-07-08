@@ -507,6 +507,11 @@
             "description": "<p><span class=\"fontstyle0\">Un grimoire contient les connaissances écrites nécessaires pour apprendre et préparer divers sorts, une nécessité pour les magiciens (qui en obtiennent généralement un gratuitement) et un luxe utile pour les autres incantateurs qui souhaitent apprendre des sorts supplémentaires. Chaque grimoire peut contenir jusqu’à 100 sorts. Le prix indiqué correspond à un grimoire vierge.</span> </p>"
         },
         {
+            "id": "Lapis lazuli pendant",
+            "name": "Lapis lazuli pendant (Pendentif en lapis lazuli)",
+            "description": ""
+        },
+        {
             "id": "Citrine",
             "name": "Citrine (Citrine)",
             "description": ""
@@ -555,6 +560,11 @@
             "id": "Invisibility Potion",
             "name": "Invisibility Potion (Potion d'invisibilité)",
             "description": "<p>Une potion d’invisibilité est incolore et étonnamment légère. En la bu‑ vant, vous gagnez les effets du sort invisibilité niveau 2.</p>"
+        },
+        {
+            "id": "Simple sculpture",
+            "name": "Simple sculpture (Sculpture simple)",
+            "description": ""
         },
         {
             "id": "Long Tool",
@@ -712,6 +722,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous posez ces simples fers à cheval sur les sabots d’un cheval ordinaire ou d’un compagnon animal quadrupède et que celui‑ci les investit, il bénéficie d’un bonus d’objet de +1,50 m à sa Vitesse au sol et un bonus d’objet de +2 aux tests d’Athlétisme pour Sauter en hauteur et Sauter en longueur. De plus, quand il Bondit, il peut ajouter 1,50 m à la longueur ou 90 cm à la hauteur de son saut</span></p>"
         },
         {
+            "id": "Spinel, deep blue",
+            "name": "Spinel, deep blue (Spinelle, bleu profond)",
+            "description": ""
+        },
+        {
             "id": "Boots of Elvenkind (Greater)",
             "name": "Boots of Elvenkind (Greater) (Bottes elfiques (supérieures))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces bottes hautes aux extrémités pointues sont confection‑ nées dans du cuir souple et soyeux, noir ou vert, et ornées d’une élégante bordure et de boucles en or. Lorsque vous les portez, elles vous permettent d’augmenter l’agilité de vos mouvements, en vous conférant un bonus d’objet de +1 aux tests d’Acrobaties. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Frequence</strong> 1/heure; <strong>Effet</strong> Jusqu’à la fin de votre tour, vous ignorez les terrains difficiles quand vous vous déplacez sur le sol. Si vous portez une cape elfique, vous béné‑ ficiez également d’un bonus de statut de +1,50 m à votre Vitesse au sol jusqu’à la fin de votre tour. Les bottes confèrent un bonus de +2. Si vous portez aus‑ si une cape elfique, les bottes elfiques supérieures vous confèrent en permanence les effets d’un passage sans trace (DD 30) dans les environnements boisés.</span></p>\n<p>&nbsp;</p>"
@@ -770,6 +785,11 @@
             "id": "Magic Wand (3rd-Level Spell)",
             "name": "Magic Wand (3rd-Level Spell) (Baguette magique (sort de niveau 3))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
+        },
+        {
+            "id": "Scrimshaw whale bone",
+            "name": "Scrimshaw whale bone (Gravure en os de baleine)",
+            "description": ""
         },
         {
             "id": "Wand of Continuation (1st-Level Spell)",
@@ -917,6 +937,11 @@
             "description": "<p><span class=\"fontstyle0\">Une sacoche peut contenir des objets jusqu’à un Encombrement 2. Si vous transportez ou stockez une sacoche au lieu de la porter sur votre épaule, elle compte comme un Encombrement léger au lieu de négligeable.</span> </p>"
         },
         {
+            "id": "Silk fan decorated with turquoise",
+            "name": "Silk fan decorated with turquoise (Éventail en soie rehaussé de turquoises)",
+            "description": ""
+        },
+        {
             "id": "Savior Spike",
             "name": "Savior Spike (Pointe salvatrice)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette pointe de forme pyramidale se fixe sur le torse d’une armure. Lorsque vous l’activez, elle envoie un rayon de force pour vous aider à trouver une prise. Si vous obtenez un succès sur la tentative déclencheur, vous obtenez à la place un succès critique (si vous obtenez un échec critique, vous obtenez à la place un échec)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> sur ordre; <strong>Déclencheur</strong>  Vous tentez de Vous raccro‑ cher in extremis, mais n’avez pas encore lancé le dé ;  <strong>Conditions</strong> Vous êtes expert en Réflexes. </span></p>"
@@ -1027,6 +1052,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce morceau de pierre plate et solide a été spécialement préparé pour graver une rune fondamentale ou une rune de propriété magique. Vous ne pouvez graver qu’une seule rune par pierre. Une fois la pierre gravée, elle adopte le trait de l’école de magie de la rune tracée. Lorsqu’une rune est transférée de la pierre runique à un autre objet, la pierre se fend et se détruit. Le prix indiqué corres‑ pond à une rune vierge, si elle est gravée, il faut lui ajouter le prix de la rune.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque cette plume est activée, elle se transforme en buisson de houx vivant qui emplit une case. Il offre un abri standard et possède 2d4 baies rouge vif. Bien que les baies du houx soient normalement empoisonnées, celles‑ci sont imprégnées d’une magie bénéfique. Vous pouvez en cueillir une et la manger avec l’action Interagir pour récupérer 1 PV. Une fois cueillie, la baie perd sa magie en quelques secondes, elle ne vous soigne donc pas si vous ne la mangez pas dans le laps de temps de l’action Interagir. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si la plume est activée sur une terre fertile, le buisson continue de pousser (bien qu’il ne produise pas d’autres baies curatives). Si elle est activée ailleurs, il se flétrit et meurt en 1d4 jours. &nbsp;</span></p>"
         },
         {
+            "id": "Jet",
+            "name": "Jet (Jais)",
+            "description": ""
+        },
+        {
             "id": "Adamantine Buckler (High-Grade)",
             "name": "Adamantine Buckler (High-Grade) (Targe en adamantium (Haute qualité))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</span></p>\n<p>La targe a une Solidité de 11, 44 PV et un SR de 22.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 4&nbsp;000 po d’adamantium.&nbsp;</span></p>"
@@ -1080,6 +1110,11 @@
             "id": "Thurible of Revelation (Greater)",
             "name": "Thurible of Revelation (Greater) (Encensoir de révélation (supérieure))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet encensoir de bronze pend sur une chaîne. Il est généralement orné de textes ondulants en céleste, mais certaines versions sont en fer et possèdent des inscriptions en infernal ou en abyssal. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagit; <strong>Coût</strong> encens d’une valeur de 5 po; <strong>Effet</strong> Vous allumez l’encens dans l’encensoir. Il brûle pendant 1 h. Pendant ce temps, tant que vous le tenez en main, vous gagnez un bonus d’objet de +1 aux tests de Religion et tous les échecs critiques essuyés lorsque vous Déchiffrez un texte religieux se muent en simples échecs. </span></p>\n<p>L’encensoir confère un bonus de +3. La version supérieure possède la révélation améliorée de la version moyenne, mais vous bénéficiez de vision lucide quand vous regardez au travers de la fumée.</p>"
+        },
+        {
+            "id": "Silver and jade censer",
+            "name": "Silver and jade censer (Encensoir d'argent et de jade)",
+            "description": ""
         },
         {
             "id": "Ogre Hook",
@@ -1847,6 +1882,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le venin de mille-pattes géant cause une forte raideur dans les muscles.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 17; <strong>Durée maximum</strong> 6 rounds; <strong>Stade 1</strong> 1d6 dégâts de poison (1 round); <strong>Stade&nbsp;2</strong> 1d8 dégâts de poison et pris au dépourvu (1 round); <strong>Stade 3</strong> 1d12 dégâts de poison, maladroit 1 et pris au dépourvu (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activate</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interact</span></p>"
         },
         {
+            "id": "Longspear",
+            "name": "Longspear (Pique)",
+            "description": "<p><span class=\"fontstyle0\">cette très longue lance est destinée à l’estoc plutôt qu’au lancer. Utilisée par de nombreux soldats et gardes des villes pour contrôler la foule et se défendre contre les attaques ennemies, elle doit être utilisée à deux mains.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
+        },
+        {
             "id": "Clandestine Cloak",
             "name": "Clandestine Cloak (Cape de clandestinité)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous rabattez la capuche de cette cape grise et quel‑ conque sur votre tête (une action Interagir), vous devenez terne et sans intérêt, ce qui vous confère un bonus d’objet de +1 aux tests de Discrétion et aux tests de Duperie pour Se déguiser en un personnage secondaire et ordinaire, tel qu’un domestique, mais en subissant également un malus d’objet de −1 aux tests de Diplomatie et d’Intimidation. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> imaginer, Interagir ;  <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous rabattez la capuche de la cape sur votre tête et bé‑ néficiez des avantages d’une antidétection pendant une heure ou jusqu’à ce que vous retiriez la capuche de votre tête, selon ce qu’il advient en premier.</span></p>"
@@ -1940,6 +1980,11 @@
             "id": "Gnome Hooked Hammer",
             "name": "Gnome Hooked Hammer (Marteau-piolet gnome)",
             "description": "<p><span class=\"fontstyle0\">Cet outil et arme gnome se caractérise par un marteau à une extrémité et une pointe de pioche incurvée de l’autre. C’est une arme tellement étrange et peu commode que les autres races estiment que les gnomes montrent une certaine excentricité à l’utiliser. </span> </p>"
+        },
+        {
+            "id": "Set of six ivory dice",
+            "name": "Set of six ivory dice (Jeu de dés à six faces en ivoire)",
+            "description": ""
         },
         {
             "id": "Bestial Mutagen (Greater)",
@@ -2467,6 +2512,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette ceinture est confectionnée dans de la peau de troll caoutchouteuse de couleur verte et orange. Vous gagnez 15 points de vie temporaires la première fois que vous investissez la ceinture lors d’une journée. Quand vous investissez la ceinture, soit vous augmentez de 2 votre valeur de Constitution, soit vous l’augmentez à 18, selon ce qui vous procure la valeur la plus élevée. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous resserrez la ceinture d’un cran pour bénéficier de l’effet de régénération. Pendant 2d4 rounds, au début de votre tour chaque round, vous récupérez 15 points de vie, à moins que vous n’ayez subi des dégâts d’acide ou de feu depuis le début de votre tour précédent.</span></p>"
         },
         {
+            "id": "Plain brass censer",
+            "name": "Plain brass censer (Encensoir en laiton massif)",
+            "description": ""
+        },
+        {
             "id": "Jasper",
             "name": "Jasper (Jaspe)",
             "description": ""
@@ -2495,6 +2545,11 @@
             "id": "Antiplague (Major)",
             "name": "Antiplague (Major) (Antimaladie (majeur))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’antimaladie renforce les défenses du corps contre les maladies. Lorsque vous le buvez, vous recevez un bonus d’objet aux jets de Vigueur contre les maladies pendant 24 h. Cela s’applique aussi à vos jets de sauvegarde contre la progression d’une maladie.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +4 et, lorsque vous buvez l’anti‑maladie, vous pouvez faire de suite un jet de sauvegarde contre une maladie de niveau 14 ou moins qui vous affecte. En cas de succès, vous êtes guéri.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+        },
+        {
+            "id": "Spinel, red or green",
+            "name": "Spinel, red or green (Spinelle, rouge ou verte)",
+            "description": ""
         },
         {
             "id": "Shifting",
@@ -2727,6 +2782,11 @@
             "description": "Cet elixir très apprécié des espions et des escrocs sert à modifier votre apparence. Une fois bu, il vous donne la forme d'un humanoïde de votre taille, mais assez différent de vous pour que personne ne vous reconnaisse. Si vous n’êtes pas humanoïde, vous prenez une forme si‑ milaire à la vôtre si le MJ accepte. C’est au créateur de l’élixir de décider des détails de l’apparence que vous revêtez en buvant l’élixir, comme la couleur des yeux, de la peau et des cheveux. Cet élixir ne peut pas vous donner l’apparence d’une personne précise. Une fois la transformation effectuée, elle persiste pendant 10 min. Boire cet élixir revient à porter un déguisement en ce qui concerne l’action Se déguiser. Vous gagnez un bonus de sta‑ tut de +4 au DD de Duperie pour éviter qu’autrui ne perce votre déguisement à jour et vous ajoutez votre niveau à ce DD même si vous êtes inexpérimenté."
         },
         {
+            "id": "Silk mask decorated with citrines",
+            "name": "Silk mask decorated with citrines (Masque en soie décoré de citrines)",
+            "description": ""
+        },
+        {
             "id": "Knapsack of Halflingkind",
             "name": "Knapsack of Halflingkind (Besace halfeline)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’intérieur de cette sacoche de cuir robuste se compose de trois com‑ partiments fermés avec de grandes boucles. Le premier compartiment est doublé de satin bleu et contient un espace extradimensionnel qui fonctionne comme un sac sans fond de type II.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le deuxième compartiment n’a pas de doublure. Vous pouvez en sor‑ tir toute une batterie de cuisine, ainsi que divers ustensiles. Une fois utilisés pour préparer un repas, les objets se transforment en assiettes et couverts qui disparaissent une fois le repas terminé en emportant avec eux tous les restes. Les ustensiles de cuisine réapparaissent propres dans le compartiment une heure plus tard. Le compartiment ne fournit que des ustensiles de cuisine et aucune nourriture.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le troisième compartiment est doublé de ve‑ lours violet et contient des tartes aux fruits rouges enveloppées dans du parchemin. Une créature peut enlever le parchemin et manger une tarte avec une action Interagir pour récupérer 2d8+4 points de vie. La be‑ sace produit quatre tartes par jour qui ap‑ paraissent à l’heure du petit‑déjeuner. Les tartes non consommées à la fin de la journée disparaissent.</span></p>"
@@ -2770,6 +2830,11 @@
             "id": "Flail",
             "name": "Flail (Fléau)",
             "description": "<p>Cette arme consiste en une poignée de bois attachée à une boule ou à un cylindre à pointes au moyen d’une chaîne, d’une corde ou d’une lanière de cuir.</p>"
+        },
+        {
+            "id": "Star sapphire",
+            "name": "Star sapphire (Saphir étoilé)",
+            "description": ""
         },
         {
             "id": "Horn of Fog",
@@ -3122,6 +3187,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette pierre d’ordinaire taillée en cabochon est un morceau d’ambre renfermant un fragment de plume ou un insecte volant. Lorsque vous l’activez, vous ignorez les effets du terrain difficile et du terrain très difficile que vous traversez jusqu’à la fin de votre tour.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous Marchez rapidement ou Faites un pas ;  <strong>Conditions</strong>  Vous êtes maître en Discrétion.</span></p>"
         },
         {
+            "id": "Silver statuette of a raven",
+            "name": "Silver statuette of a raven (Statuette de corbeau en argent)",
+            "description": ""
+        },
+        {
             "id": "Bottled Lightning (Lesser)",
             "name": "Bottled Lightning (Lesser) (Foudre en bouteille (inférieur))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La foudre en bouteille déborde de réactifs volatiles qui créent une décharge électrique une fois exposés à l’air. Elle inflige les dégâts d’électricité, les dégâts d’électricité persistants et les dégâts d’éclaboussure d’électricité indiqués. Une cible touchée est prise au dépourvu jusqu’au début de votre prochain tour. Plusieurs types de bombes donnent un bonus d’objet aux jets d’attaque.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La bombe inflige 1d6 dégâts d’électricité et 1 dégât d’éclaboussure d’électricité.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activate</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Strike</span></p>"
@@ -3175,6 +3245,11 @@
             "id": "Feather Token (Ladder)",
             "name": "Feather Token (Ladder) (Plume magique (échelle))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce morceau de pierre plate et solide a été spécialement préparé pour graver une rune fondamentale ou une rune de propriété magique. Vous ne pouvez graver qu’une seule rune par pierre. Une fois la pierre gravée, elle adopte le trait de l’école de magie de la rune tracée. Lorsqu’une rune est transférée de la pierre runique à un autre objet, la pierre se fend et se détruit. Le prix indiqué corres‑ pond à une rune vierge, si elle est gravée, il faut lui ajouter le prix de la rune.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Une fois activée, cette plume se change définitivement en échelle de bois de 6 m de long.</span></p>"
+        },
+        {
+            "id": "Engraved copper ring",
+            "name": "Engraved copper ring (Anneau de cuivre gravé)",
+            "description": ""
         },
         {
             "id": "Diplomat's Badge",
@@ -3877,6 +3952,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce petit médaillon a la forme d’un bouclier. Lorsque vous l’activez, vous gagnez un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 min. Si vous obtenez un échec sur le jet qui a déclenché le talisman, vous remportez à la place un succès et si vous obtenez un échec critique, vous essuyez à la place un échec.  <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous tentez un jet de Volonté contre un effet de terreur, mais n’avez pas encore lancé le dé ; <strong>Conditions</strong>Vous êtes maître en jets de Volonté ou disposez du pou‑ voir de classe bravoure.</span></p>"
         },
         {
+            "id": "Star sapphire necklace",
+            "name": "Star sapphire necklace (Collier de saphirs étoilés)",
+            "description": ""
+        },
+        {
             "id": "Armor Potency (+2)",
             "name": "Armor Potency (+2) (Puissance d'armure (+2))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des protections magiques dévient les attaques. Augmentez de 2 le bonus d’objet à la CA de l’armure. On peut graver deux runes de propriété sur l’armure.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la <em>rune de puissance</em> déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes un maître en Artisanat.</span></p>"
@@ -4022,6 +4102,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouquet de houx et de gui constellé de baies ne se fane pas et ne pourrit pas. Il peut servir de focaliseur primordial et donne un bonus d’objet de +1 aux tests de Nature à celui qui le tient.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/10 minutes; <strong>Effet</strong>  Vous pressez une baie et étalez son jus sur un bâton ou un gourdin non magique pour lui lancer gourdin magique @Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]{Shillelagh}.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>Vous pouvez nouer le bouquet autour de votre poignet et toucher un arbre pour lancer morphologie d’arbre   @Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Tree Shape} sur vous‑ même, sauf que vous devenez une plante grimpante sur l’arbre touché et non un arbre.</span></p>"
         },
         {
+            "id": "Pearl, irregular freshwater",
+            "name": "Pearl, irregular freshwater (Perle d'eau douce irrégulière)",
+            "description": ""
+        },
+        {
             "id": "Healing Potion (Moderate)",
             "name": "Healing Potion (Moderate) (Potion de guérison (modéré))",
             "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué. La potion rend 3d8+10 points de vie. </p>"
@@ -4055,6 +4140,11 @@
             "id": "Potion of Undetectability",
             "name": "Potion of Undetectability (Potion de détection impossible)",
             "description": "<p>En buvant cette potion d’un noir mat, vous échappez à toute tentative de divination. Cet effet est le même qu’avec esprit impénétrable, mais sans les bonus contre les effets mentaux. Vous gagnez aussi les effets du sort invisibilité au niveau 4 qui vous protège contre détection de l’invisibilité de niveau 8 ou moins et possède un DD de 36 contre vision lucide. L’effet de la potion dure 10 min. </p>"
+        },
+        {
+            "id": "Tiger's‑eye",
+            "name": "Tiger's‑eye (Oeil de tigre)",
+            "description": ""
         },
         {
             "id": "Bravo's Brew (Moderate)",
@@ -4247,6 +4337,11 @@
             "description": ""
         },
         {
+            "id": "Pathfinder's Pouch",
+            "name": "Pathfinder's Pouch (Bourse d'Éclaireur)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette bourse discrète est populaire parmi les Éclaireurs qui opèrent dans des lieux où la Société n'est pas la bienvenue. Elle est constamment sous le effets d'un sort ' 3rd-level'@Compendium[pf2e.spells-srd.PRrZ7anETWPm90YY]{Aura Magique} de niveau 3 pour apparaître comme non magique. L'espace normal dele bourse contient autant qu'une bourse ordinaire, mais elle possède aussi un petit espace extradimensionnel qui contient jusqu'à des objets jusqu'à 1 Encombrement. Une créature inspectant activement la bourse sous sa forme ordinaire ne découvre l'existence de l'espace extradimensionnel qu'en cas de succès critique pour Inspecter la bourse (voir l'action Dissimuler un objet de la compétence Discrétion), bien que lorsque l'espace extradimensionnel est actif, il devienne évident pour quiconque examine la bourse qu'elle est davantage que ce qu'elle semble être.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Effet</strong> Vous activez la bourse pour permettre un accès à son espace extradimensionnel au lieu de son espace normal, ou vice versa. Cela dure jusqu'à ce que vous l'activiez de nouveau. Les objets dans l'autre espace sont inaccessibles et difficiles à trouver jusqu'à ce que vous activiez de nouveau la bourse.</span></p>"
+        },
+        {
             "id": "Disrupting (Greater)",
             "name": "Disrupting (Greater) (Pertubatrice supérieure (rune))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une arme perturbatrice bouillonne d’énergie positive en infligeant 1d6 dégâts positifs supplémentaires aux morts‑vivants. En cas de coup critique, le mort‑vivant est également affaibli 1 jusqu’à la fin de votre prochain tour. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Les dégâts supplémentaires passent à 2d6. En cas de coup critique, au lieu d’être affaibli 1, le mort‑vivant doit faire un jet de Vigueur DD 34 avec les effets suivants. Il s’agit d’un effet de mise hors de combat.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès critique.</strong>  Il est affaibli 1 jusqu’à la fin de votre prochain tour. <br /><strong>Succès</strong>. Il est affaibli 2 jusqu’à la fin de votre prochain tour. <br /><strong>Echec</strong>  Il est affaibli 3 jusqu’à la fin de votre prochain tour.<br /><strong>Échec critique.</strong> Il est détruit.</span></p>"
@@ -4310,6 +4405,11 @@
             "id": "Decanter of Endless Water",
             "name": "Decanter of Endless Water (Carafe intarissable)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet ressemble à une carafe en verre ordinaire remplie d’eau. Il est impossible d’enlever le bouchon à moins de pro‑ noncer l’un des trois mots de commande de l’objet, chacun d’eux faisant couler l’eau d’une manière donnée. Si vous tirez le bouchon pour l’enlever, la carafe produit de l’eau potable, si vous le faites tourner, elle produit de l’eau salée. Tout effet de la carafe se pour‑ suit jusqu’à ce qu’elle soit rebouchée (avec son bouchon, un doigt ou autre). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre, Interagir ; <strong>Effet</strong>  En disant « ruisseau », vous faites couler de l’eau au rythme de 4 L par round. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre, Interagir ;<strong>Effet</strong>  En disant « fontaine », vous faites couler de l’eau en un jet de 1,5 m de long au rythme de 20 L par round. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre, Interagir ;; <strong>Effet</strong>  En disant « geyser », vous faites jaillir l’eau en un puissant déluge de 60 L par round. Vous pouvez diriger le flot vers une créature pour la soumettre aux effets de poussée hydraulique (jet d’attaque de sort +15). Vous pouvez répéter cela une fois par round tant que le geyser continue de jaillir en dépensant une action Interagir à chaque fois pour diriger le geyser.</span></p>"
+        },
+        {
+            "id": "Silver mirror with gilded frame",
+            "name": "Silver mirror with gilded frame (Miroir en argent avec un cadre doré)",
+            "description": ""
         },
         {
             "id": "Fade Band",

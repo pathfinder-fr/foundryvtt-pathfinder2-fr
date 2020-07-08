@@ -7,24 +7,14 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre ouïe surdéveloppée vous permet de détecter les bruits les plus infimes. Tant que vous pouvez entendre normalement, vous pouvez utiliser l’action Chercher pour sentir la présence de créatures non détectées qui se trouvent dans un cône de 18 m au lieu d’un cône de 9 m. Quand vous utilisez l’action Chercher, vous bénéficiez également d’un bonus de circonstances de +2 pour localiser des créatures non détectées que vous pouvez entendre et qui se trouvent dans un cône de 9 m.&nbsp;</span></p>"
         },
         {
-            "id": "Gutsy Halfling",
-            "name": "Halfelin flegmatique (Gutsy Halfling)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre lignée, réputée pour garder la tête froide et résister à la panique dans les pires situations, a donné naissance à de sages dirigeants et même quelques héros. Si vous obtenez un succès à un jet de sauvegarde contre un effet d’émotion, vous obtenez à la place un succès critique.&nbsp;</span></p>"
-        },
-        {
-            "id": "Half-Orc",
-            "name": "Demi-orc (Half-Orc)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Soit l’un de vos parents était un orc, soit les deux étaient des demi-orcs. Votre peau aux nuances verdâtres et d’autres signes trahissent votre ascendance orque. Vous gagnez le trait orc et le pouvoir vision nocturne. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des orcs, des demi-orcs et des humains..&nbsp;</span></p>"
-        },
-        {
-            "id": "Leaf Leshy",
-            "name": "Léchi feuillu (Leaf Leshy)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre corps est principalement fait de feuillage naturel, et comme une feuille tombant d'un arbre, vous aterrissez avec une grace particulière lorsque vous chutez. Vous ne subissez pas de dégâts en cas de chute, quelle que soit la distance de cette dernière.&nbsp;</span></p>"
-        },
-        {
             "id": "Razortooth Goblin",
             "name": "Gobelin Dent’rasoir (Razortooth Goblin)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les dents que vous avez héritées de votre famille constituent une arme formidable. Vous gagnez une attaque à mains nues de mâchoires qui inflige 1d6 dégâts perforants. Vos mâchoires font partie du groupe pugilat et possèdent les traits finesse et mains nues.&nbsp;</span></p>"
+        },
+        {
+            "id": "Forge Dwarf",
+            "name": "Nain des forges (Forge Dwarf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres vivaient dans des déserts torrides ou dans des chambres volcaniques souterraines et ils vous ont transmis leur remarquable capacité d’adaptation aux environnements chauds. Vous bénéficiez ainsi d’une résistance au feu égale à la moitié de votre niveau (avec un minimum de 1) et vous subissez tous les effets environnementaux liés à la chaleur comme si leur intensité était réduite d’un rang (la chaleur extraordinaire devient extrême, la chaleur extrême devient grande, etc.).&nbsp;</span></p>"
         },
         {
             "id": "Sandstrider Lizardfolk",
@@ -32,19 +22,14 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos écailles épaisses vous aident à retenir l'eau et à combattre la brûlure du soleil. Vous obtenez une résistance au feu égale à la moitié de votre niveau (minimum 1). Les effets de chaleur de votre environnement sont d'un rang moins extrèmes pour vous et vous pouvez tenir 10 fois plus longtemps que la normale avant d'être affecté par la faim ou la soif. Quoi qu'il en soit, à moins de protéger un équipement protecteur ou de trouver refuge, les effets de froid dus à votre environnement sont un rang plus extrême pour vous.&nbsp;</span></p>"
         },
         {
+            "id": "Desert Elf",
+            "name": "Elfe du désert (Desert Elf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vivez sous la chaleur brûlante du désert, ce qui vous confère une résistance incroyable aux environnements chauds. Vous obtenez une résistance au feu égale à la moitié de votre niveau (minimum 1), et les effets liés à la chaleur de l'environnement sont d'un rang moins extrême pour ce qui vous concerne (une chaleur incroyable devient extrême, une chaleur extrême devient sévère, etc).&nbsp;</span></p>"
+        },
+        {
             "id": "Warrenbred Hobgoblin",
             "name": "Hobgobelin Terrierné (Warrenbred Hobgoblin)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancètres vivianet sous terre. Vos oreilles sont plus grandes que celles des autres hobgobelins et sensibles aux échos. Lorsque vous êtes sous terre, vous pouvez utiliser l'action Chercher pour repérer des créature non détectées dans une émanation de 9 m au lieu de 4,5 m. En plus, si vous obtenez un succès sur un test d'Acrobatie pour vous Faufiler, vous obtenez un succès critique à la place.&nbsp;</span></p>"
-        },
-        {
-            "id": "Gourd Leshy",
-            "name": "Léchi calebasse (Gourd Leshy)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez une grosse calebasse au lieu et place d'un crâne. Votre connaissance vient de votre spiritualité intérieure, et non de votre cerveau physique et vous avez trouvé une utilisation plus utile à l'espace intérieur de votre tête. Vous pouvez emmagasiner une collection d'objets qui vont jusqu'à un encombrement 1 à l'intérieur de votre tête. Le DD des tests pour Voler des objets qui s'y trouvent augmente de 4. De plus, si vous emmagasinez un unique objet à l'intérieur de votre tête, vous pouvez le retirer sans effort de votre main comme partie d'une autre action pour utiliser l'objet. Retirer l'objet donne à cette autre action le trait manipulation.&nbsp;</span></p>"
-        },
-        {
-            "id": "Claws",
-            "name": "Griffes (Claws)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos griffes aiguisées vous offrent une alternative aux poings que d'autres humanoïdes utilisent pour se battre. Vous disposez d'une attaque à mains nues de griffe qui inflige 1d4 dégâts tranchants et possède les traits agile et finesse.&nbsp;</span></p>"
         },
         {
             "id": "Runtboss Hobgoblin",
@@ -52,14 +37,34 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous descendez d'une longue lignée d'hobgobelins qui ont commandé des gobelins. Vous êtes plus petits que les autres hobgobelins, mais les gobelins écoutent toujours chacun des ordres que vous beuglez. Vous obtenez le don de compétence Contraindre un groupe. Si vous obtenez un Succès sur un test d'Intimidation pour Contraindre un gobelin (mais pas les autres créatures avec le trait gobelin), vous obtenez un succès critique à la place ; si vous obtenez un échec critique, vous obtenez un échec à la place.&nbsp;</span></p>"
         },
         {
+            "id": "Aquatic Adaptation",
+            "name": "Adaptation aquatique (Aquatic Adaptation)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre biologie reptilienne vous permet de retenir votre souffle pendant très longtemps. Vous obtenez le don général @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Contrôle de la respiration} comme don supplémentaire.</span></p>"
+        },
+        {
             "id": "Chameleon Gnome",
             "name": "Gnome Caméléon (Chameleon Gnome)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La couleur de vos cheveux et de votre peau peut changer, peut-être grâce à une magie latente qui coule dans vos veines. Vous pouvez ainsi lentement en modifier l’éclat et la couleur exacte. Cette coloration n’est pas nécessairement uniforme et vous pouvez créer des motifs ou des dessins colorés sur votre corps. Vous devez utiliser une action unique pour effectuer des changements mineurs sur votre corps, ou consacrer une heure aux changements importants qui affectent tout votre corps. Quand vous dormez, ces couleurs changent naturellement en fonction de vos rêves et vous vous réveillez chaque matin avec un coloris inattendu. Quand vous vous trouvez dans un endroit où votre coloration est proche de la couleur de votre environnement (par exemple, un vert végétal dans une forêt), vous pouvez utiliser une action unique pour faire des modifications mineures et localisées qui vous permettront de mieux vous fondre dans votre environnement. Vous gagnez ainsi un bonus de circonstances de +2 à vos tests de Discrétion jusqu’à ce quevotre environnement change de couleur ou de motifs.&nbsp;</span></p>"
         },
         {
-            "id": "Keen Eyes",
-            "name": "Yeux perçants (Keen Eyes)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre vue perçante vous permet de distinguer des détails concernant des créatures masquées ou invisibles que d’autres pourraient ne pas remarquer. Vous gagnez un bonus de circonstances de +2 quand vous utilisez l’action Chercher pour trouver des créatures cachées ou non détectées dans un rayon de 9 m autour de vous. Quand vous prenez pour cible un adversaire masqué ou caché, réduisez le DD du test nu à 3 pour une cible masquée ou à 9 pour une cible cachée.&nbsp;</span></p>"
+            "id": "Ancient-Blooded Dwarf",
+            "name": "Nain sang-ancien (Ancient-Blooded Dwarf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les héros nains de l’ancien temps étaient capables de balayer la magie de leurs ennemis du revers de la main. Vous avez hérité d’une partie de cette résistance. Vous gagnez la réaction Appel du sang ancien.</span></p>\n @Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]{Appel du sang ancien}"
+        },
+        {
+            "id": "Ancient Elf",
+            "name": "Elfe ancien (Ancient Elf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Dans votre longue vie, vous avez emprunté de nombreux chemins et de nombreux styles. Choisissez une classe autre que la vôtre. Vous obtenez le don de dévouement de multiclassage pour cette classe, même si vous n'en remplissez pas les conditions de niveau. Vous devez toujours remplir les autres prérequis pour obtenir le don.&nbsp;</span></p>"
+        },
+        {
+            "id": "Arctic Elf",
+            "name": "Elfe arctique (Arctic Elf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vivez dans les profondeurs glacées du Nord et avez développé une incroyable endurance aux environnements froids, qui vous confère une résistance au froid égale à la moitié de votre niveau (avec un minimum de 1). Vous subissez tous les effets environnementaux liés au froid comme si leur intensité était réduite d’un rang (le froid extraordinaire devient extrême, le froid extrême devient grand, etc.).&nbsp;</span></p>"
+        },
+        {
+            "id": "Gourd Leshy",
+            "name": "Léchi calebasse (Gourd Leshy)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez une grosse calebasse au lieu et place d'un crâne. Votre connaissance vient de votre spiritualité intérieure, et non de votre cerveau physique et vous avez trouvé une utilisation plus utile à l'espace intérieur de votre tête. Vous pouvez emmagasiner une collection d'objets qui vont jusqu'à un encombrement 1 à l'intérieur de votre tête. Le DD des tests pour Voler des objets qui s'y trouvent augmente de 4. De plus, si vous emmagasinez un unique objet à l'intérieur de votre tête, vous pouvez le retirer sans effort de votre main comme partie d'une autre action pour utiliser l'objet. Retirer l'objet donne à cette autre action le trait manipulation.&nbsp;</span></p>"
         },
         {
             "id": "Unseen Lizardfolk",
@@ -70,11 +75,6 @@
             "id": "Umbral Gnome",
             "name": "Gnome ombral (Umbral Gnome)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes capable de voir dans les ténèbres les plus totales. Vous tenez peut-être ce pouvoir d’un lien avec les fées sombres ou les fées des ombres, avec les gnomes des profondeurs (aussi appelés les svirfneblins) qui vivent sous terre, ou il vous vient d’une autre origine. Vous gagnez vision dans le noir.&nbsp;</span></p>"
-        },
-        {
-            "id": "Elfbane Hobgoblin",
-            "name": "Hobgobelin fléau elfique (Elfbane Hobgoblin)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les Hobgobelins furent conçus il y a longtemps à partir des gobelins féconds mais peu fiables, pour servir d'armée contre les elfes. Bien que les elfes aient libéré les hobgobelins de leur lien, certains hobgobelins ont conservé leur résistance ancestrale à la magie, à laquelle ils se réfèrent comme la “magie elfique.” Vous obtenez la réaction Résister à la magie elfique.</span></p>\n @Compendium[pf2e.actionspf2e.On5CQjX4euWqToly]{Resister à la magie elfique}"
         },
         {
             "id": "Charhide Goblin",
@@ -92,14 +92,24 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le sang des fées coule avec une telle pureté dans vos veines que vous êtes véritablement l’une d’elles. Vous gagnez le trait fée en plus des traits gnome et humanoïde. Choisissez un tour de magie dans la liste des sorts primordiaux. Vous pouvez lancer ce tour de magie comme un sort inné primordial à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur. Vous pouvez échanger ce tour de magie contre un autre choisi dans la même liste une fois par jour, en méditant pour vous réaligner avec le Premier Monde ; il s’agit d’une activité d’une durée de 10 min qui possède le trait concentration.&nbsp;</span></p>"
         },
         {
-            "id": "Forge Dwarf",
-            "name": "Nain des forges (Forge Dwarf)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres vivaient dans des déserts torrides ou dans des chambres volcaniques souterraines et ils vous ont transmis leur remarquable capacité d’adaptation aux environnements chauds. Vous bénéficiez ainsi d’une résistance au feu égale à la moitié de votre niveau (avec un minimum de 1) et vous subissez tous les effets environnementaux liés à la chaleur comme si leur intensité était réduite d’un rang (la chaleur extraordinaire devient extrême, la chaleur extrême devient grande, etc.).&nbsp;</span></p>"
+            "id": "Keen Eyes",
+            "name": "Yeux perçants (Keen Eyes)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre vue perçante vous permet de distinguer des détails concernant des créatures masquées ou invisibles que d’autres pourraient ne pas remarquer. Vous gagnez un bonus de circonstances de +2 quand vous utilisez l’action Chercher pour trouver des créatures cachées ou non détectées dans un rayon de 9 m autour de vous. Quand vous prenez pour cible un adversaire masqué ou caché, réduisez le DD du test nu à 3 pour une cible masquée ou à 9 pour une cible cachée.&nbsp;</span></p>"
+        },
+        {
+            "id": "Hillock Halfling",
+            "name": "Halfelin des collines (Hillock Halfling)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Habitué à la vie calme des collines, vous tirez un bénéfice particulièrement important du repos et de la relaxation, notamment quand vous profitez des joies du confort matériel. Quand vous regagnez des points de vie pendant la nuit, ajoutez-y votre niveau. Quand quelqu’un fait appel à la compétence Médecine pour Soigner vos blessures, vous pouvez manger un en-cas pour ajouter votre niveau à la quantité de points de vie que vous gagnez grâce à ces soins.&nbsp;</span></p>"
         },
         {
             "id": "Vine Leshy",
             "name": "Léchi à liane (Vine Leshy)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les lianes préhensiles qui sont liées à votre corps vous accorde une compétence inégalée pour Escalader. Vous n'avez pas besoin d'avoir chacune de vos mains libres pour Escalader. De plus, si vous obtenez un Succès à un test d'Athlétisme pour Escalader, vous obtenez un succès critique à la place.&nbsp;</span></p>"
+        },
+        {
+            "id": "Gutsy Halfling",
+            "name": "Halfelin flegmatique (Gutsy Halfling)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre lignée, réputée pour garder la tête froide et résister à la panique dans les pires situations, a donné naissance à de sages dirigeants et même quelques héros. Si vous obtenez un succès à un jet de sauvegarde contre un effet d’émotion, vous obtenez à la place un succès critique.&nbsp;</span></p>"
         },
         {
             "id": "Unbreakable Goblin",
@@ -122,11 +132,6 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous êtes acclimaté à la vie dans les terres glacées. Votre carnation se situe entre le bleu clair et le bleu marine. Vous êtes également couvert d’une fourrure bleue. Vous gagnez une résistance au froid égale à la moitié de votre niveau (avec un minimum de 1). Vous subissez tous les effets environnementaux liés au froid comme si leur intensité était réduite d’un rang (le froid extraordinaire devient extrême, le froid extrême devient grand, etc.).&nbsp;</span></p>"
         },
         {
-            "id": "Half-Elf",
-            "name": "Demi-elfe (Half-Elf)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Soit l’un de vos parents était un elfe, soit les deux étaient des demi-elfes. Vos oreilles pointues et d’autres signes trahissent votre ascendance elfique. Vous gagnez le trait elfe et le pouvoir vision nocturne. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des elfes, des demi-elfes et des humains.&nbsp;</span></p>"
-        },
-        {
             "id": "Low-Light Vision",
             "name": "Vision nocturne (Low-Light Vision)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez voir dans la lumière faible comme s’il s’agissait de lumière vive. Vous ignorez ainsi l’état masqué dû à la lumière faible.&nbsp;</span></p>"
@@ -137,14 +142,9 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous disposez d'une queue puissante, sans doute parce que vous descendez d'une communauté de singes gobelins. Vous bénéficiez d'un bonus de circonstance de +2 aux tests d'Athlétisme pour Escalader, vous obtenez Combattant grimpeur comme don supplémentaire et vous réduisez de une le nombre de mains libres nécessaires pour Escalader ou faire un Croc-en-jambe.&nbsp;</span></p>"
         },
         {
-            "id": "Fungus Leshy",
-            "name": "Léchi fongique (Fungus Leshy)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre corps a été fait de champignon qui grandit dans l'ombre des grottes et des arbres et vous êtes chez vous dans les cavernes sombres et les terriers. Vous obtenez vision dans le noir.&nbsp;</span></p>"
-        },
-        {
-            "id": "Ancient Elf",
-            "name": "Elfe ancien (Ancient Elf)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Dans votre longue vie, vous avez emprunté de nombreux chemins et de nombreux styles. Choisissez une classe autre que la vôtre. Vous obtenez le don de dévouement de multiclassage pour cette classe, même si vous n'en remplissez pas les conditions de niveau. Vous devez toujours remplir les autres prérequis pour obtenir le don.&nbsp;</span></p>"
+            "id": "Frilled Lizardfolk",
+            "name": "Homme-lézard à colerette (Frilled Lizardfolk)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez gonflez votre colerette au tour du cou et tordre votre épine dorsale pour Démoraliser vos ennemis. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous essayez de démoraliser une créature qui ne comprend pas votre langue. Vous obtenez également l'action Approche menaçante.</span></p>\n @Compendium[pf2e.actionspf2e.W4M8L9WepGLamlHs]{Approche menaçante}"
         },
         {
             "id": "Cavern Elf",
@@ -152,24 +152,29 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes né ou avez passé de nombreuses années dans des tunnels souterrains ou des cavernes, dans un environnement très sombre. Vous gagnez vision dans le noir.&nbsp;</span></p>"
         },
         {
+            "id": "Claws",
+            "name": "Griffes (Claws)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos griffes aiguisées vous offrent une alternative aux poings que d'autres humanoïdes utilisent pour se battre. Vous disposez d'une attaque à mains nues de griffe qui inflige 1d4 dégâts tranchants et possède les traits agile et finesse.&nbsp;</span></p>"
+        },
+        {
+            "id": "Half-Elf",
+            "name": "Demi-elfe (Half-Elf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Soit l’un de vos parents était un elfe, soit les deux étaient des demi-elfes. Vos oreilles pointues et d’autres signes trahissent votre ascendance elfique. Vous gagnez le trait elfe et le pouvoir vision nocturne. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des elfes, des demi-elfes et des humains.&nbsp;</span></p>"
+        },
+        {
             "id": "Nomadic Halfling",
             "name": "Halfelin nomade (Nomadic Halfling)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres parcourent les routes depuis des générations, sans jamais avoir ressenti la nécessité de s’installer quelque part. Vous gagnez deux langues de votre choix parmi les langues courantes et peu courantes auxquelles vous avez accès et, à chaque fois que vous choisissez le don @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte}, vous gagnez une langue supplémentaire.&nbsp;</span></p>"
         },
         {
-            "id": "Desert Elf",
-            "name": "Elfe du désert (Desert Elf)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vivez sous la chaleur brûlante du désert, ce qui vous confère une résistance incroyable aux environnements chauds. Vous obtenez une résistance au feu égale à la moitié de votre niveau (minimum 1), et les effets liés à la chaleur de l'environnement sont d'un rang moins extrême pour ce qui vous concerne (une chaleur incroyable devient extrême, une chaleur extrême devient sévère, etc).&nbsp;</span></p>"
-        },
-        {
-            "id": "Death Warden Dwarf",
-            "name": "Nain gardemort (Death Warden Dwarf)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres ont passé des générations à garder des tombeaux et ils vous ont transmis les pouvoirs qu’ils ont cultivés pour se garder de la nécromancie. Si vous obtenez un succès sur un jet de sauvegarde contre un effet de nécromancie, il est transformé en succès critique.&nbsp;</span></p>"
-        },
-        {
             "id": "Treedweller Goblin",
             "name": "Gobelin habitant des arbres (Treedweller Goblin)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous êtes adapté particulièrement bien en vivant dans les environnements forestiers. tant que vous vous trouvez dans une forêt ou une jungle, vous obtenez un bonus de circonstance de +2 aux tests de Discrétion pour vous Cacher et Être furtif, aux tests de Survie pour Subsister et à votre DD de Survie pour Couvrir vos traces.&nbsp;</span></p>"
+        },
+        {
+            "id": "Elfbane Hobgoblin",
+            "name": "Hobgobelin fléau elfique (Elfbane Hobgoblin)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les Hobgobelins furent conçus il y a longtemps à partir des gobelins féconds mais peu fiables, pour servir d'armée contre les elfes. Bien que les elfes aient libéré les hobgobelins de leur lien, certains hobgobelins ont conservé leur résistance ancestrale à la magie, à laquelle ils se réfèrent comme la “magie elfique.” Vous obtenez la réaction Résister à la magie elfique.</span></p>\n @Compendium[pf2e.actionspf2e.On5CQjX4euWqToly]{Resister à la magie elfique}"
         },
         {
             "id": "Seer Elf",
@@ -182,11 +187,6 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres étaient de fameux pisteurs et vous portez dans votre sang ce même don pour la chasse. Vous obtenez un sens spécial : odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre sens de l'odorat pour déterminer la localisation d'une créature, mais elle reste @Compendium[pf2e.conditionspf2e.iU0fEDdBp3rXpTMC]{Cachée}. de plus, vous obtenez un bonus de circonstance de +2 aux tests de Survie faits pour @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Pister} les créatures que vous avez préalablement senti avec votre sens de l'odorat.</span></p>"
         },
         {
-            "id": "Elemental Heart Dwarf",
-            "name": "Nain Coeurélémentaire (Elemental Heart Dwarf)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Que ce soit au travers d'un lien avec la forge de Torag, des azers du plan du Feu ou d'une autre source, vous pouvez exsuder une émanation d'énergie. Les nains Mbe’ke et Taralu du Mwangi pensent que cette ascendance est un don des dragons ou des esprits élémentaires. Choisissez un des types de dégâts suivants : acide, électricité, feu ou froid. Une fois choisi, il ne peut être modifié. Vous obtenez l'activité Émanation énergétique.</span></p>\n @Compendium[pf2e.actionspf2e.7qjfYsLNTr17Aftf]{Émanation énergétique}"
-        },
-        {
             "id": "Darkvision",
             "name": "Vision dans le noir (Darkvision)",
             "description": "<p><span class=\"fontstyle0\">Vous voyez dans les ténèbres et dans la lumière faible aussi bien que dans la lumière vive. Par contre, quand vous êtes dans les ténèbres, vous voyez en noir et blanc.</span> </p>"
@@ -197,24 +197,9 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres profitaient du couvert du crépuscule pour accomplir de nombreuses actions, bonnes ou mauvaises, en secret et ils ont fini par développer la capacité de voir dans la lumière crépusculaire avec plus d’acuité que les autres halfelins. Vous gagnez vision nocturne.&nbsp;</span></p>"
         },
         {
-            "id": "Aquatic Adaptation",
-            "name": "Adaptation aquatique (Aquatic Adaptation)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre biologie reptilienne vous permet de retenir votre souffle pendant très longtemps. Vous obtenez le don général @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Contrôle de la respiration} comme don supplémentaire.</span></p>"
-        },
-        {
-            "id": "Arctic Elf",
-            "name": "Elfe arctique (Arctic Elf)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vivez dans les profondeurs glacées du Nord et avez développé une incroyable endurance aux environnements froids, qui vous confère une résistance au froid égale à la moitié de votre niveau (avec un minimum de 1). Vous subissez tous les effets environnementaux liés au froid comme si leur intensité était réduite d’un rang (le froid extraordinaire devient extrême, le froid extrême devient grand, etc.).&nbsp;</span></p>"
-        },
-        {
             "id": "Wintertouched Human",
             "name": "Humain touché par l'hiver (Wintertouched Human)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le pouvoir de l'hiver coule à travers vous. Cette ascendance est plus commune parmi les Jadwiga d'Irrisen, car ils descendent de Baba Yaga et de certains Erutaki touchés par les esprits. Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1) et vous traitez les effets liés à un environnement froid comme s'il était d'un rang moins extrême (incroyablement froid devient extrême, froid extrême devient sévère, etc).&nbsp;</span></p>"
-        },
-        {
-            "id": "Irongut Goblin",
-            "name": "Gobelin Boyaud’fer (Irongut Goblin)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez vous nourrir d’aliments que la plupart des gens considéreraient comme avariés. Quand vous vous trouvez dans une agglomération, vous pouvez vous nourrir convenablement avec des repas peu consistants aussi longtemps que vous avez accès à des ordures et sans avoir à vous lancer dans l’activité d’intermède Subsister. Vous pouvez manger et boire même quand vous êtes malade.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus de circonstances de +2 à vos jets de sauvegarde contre les afflictions, contre l’état malade, et pour guérir de l’état malade. Quand vous obtenez un succès sur un jet de Vigueur affecté par ce bonus, celui-ci est transformé en succès critique. Vous ne bénéficiez de ces avantages que quand l’affliction ou l’état qui vous affecte est le résultat de quelque chose que vous avez ingéré.</span></p>"
         },
         {
             "id": "Anvil Dwarf",
@@ -222,14 +207,24 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes le descendant d'un artisan réputé et possédez votre propre incroyable talent. Les autres nains pourraient considérer que c'est la bénédiction de vos ancètres ou du P^ère de la forge lui-même, en fonction de l'endroit où vous avez été élevé. Vous êtes qualifié en Artisanat (ou une autre compétence si vous étiez déjà qualifié en Artisanat) et vous obtenez le don de compétence Artisanat spécialisé, sauf que vous pouvez choisir deux spécialités à la place d'une seule.&nbsp;</span></p>"
         },
         {
+            "id": "Death Warden Dwarf",
+            "name": "Nain gardemort (Death Warden Dwarf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres ont passé des générations à garder des tombeaux et ils vous ont transmis les pouvoirs qu’ils ont cultivés pour se garder de la nécromancie. Si vous obtenez un succès sur un jet de sauvegarde contre un effet de nécromancie, il est transformé en succès critique.&nbsp;</span></p>"
+        },
+        {
             "id": "Fishseeker Shoony",
             "name": "Shoony Traquepoisson (Fishseeker Shoony)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes issu d'une longue lignée de ptêcheurs et avez hérité des réflexes rapides nécessaires pour ferrer et ramener  les grosses prises. Si vous obtene un succès sur une tentative de @Compendium[pf2e.actionspf2e.3yoajuKjwHZ9ApUY]{Se raccrocher in extremis}, vous obtenez un Succès critique à la place ; si vous obtenez un échac critique, vous obtenez un échec à la place. Une créature qui obtient un échec sur un test pour vous @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer} obtient un échec critique à la place.&nbsp;&nbsp;</span></p>"
         },
         {
-            "id": "Ancient-Blooded Dwarf",
-            "name": "Nain sang-ancien (Ancient-Blooded Dwarf)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les héros nains de l’ancien temps étaient capables de balayer la magie de leurs ennemis du revers de la main. Vous avez hérité d’une partie de cette résistance. Vous gagnez la réaction Appel du sang ancien.</span></p>\n @Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]{Appel du sang ancien}"
+            "id": "Fungus Leshy",
+            "name": "Léchi fongique (Fungus Leshy)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre corps a été fait de champignon qui grandit dans l'ombre des grottes et des arbres et vous êtes chez vous dans les cavernes sombres et les terriers. Vous obtenez vision dans le noir.&nbsp;</span></p>"
+        },
+        {
+            "id": "Leaf Leshy",
+            "name": "Léchi feuillu (Leaf Leshy)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre corps est principalement fait de feuillage naturel, et comme une feuille tombant d'un arbre, vous aterrissez avec une grace particulière lorsque vous chutez. Vous ne subissez pas de dégâts en cas de chute, quelle que soit la distance de cette dernière.&nbsp;</span></p>"
         },
         {
             "id": "Thickcoat Shoony",
@@ -237,19 +232,14 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes une espèce rare de shoony qui vient des climats les plus froids. Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1) et vous traitez les effets d'un environnement froid comme si ils étaient d'un degré moins extrême (un froid incroyable devient extrême, un froid extrême devient sévère, etc). Vous n'avez pas besoin dobtenir un un succès à un test nu pour cibler une créature si elle n'est masquée que par la neige. À moins que vous ne portiez un équipement protecteur ou que vous ne vous mettiez à l'abri, les effets environnementaux liés à la châleur sont d'un degré plus extrême pour ce qui vous concerne.&nbsp;</span></p>"
         },
         {
-            "id": "Hillock Halfling",
-            "name": "Halfelin des collines (Hillock Halfling)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Habitué à la vie calme des collines, vous tirez un bénéfice particulièrement important du repos et de la relaxation, notamment quand vous profitez des joies du confort matériel. Quand vous regagnez des points de vie pendant la nuit, ajoutez-y votre niveau. Quand quelqu’un fait appel à la compétence Médecine pour Soigner vos blessures, vous pouvez manger un en-cas pour ajouter votre niveau à la quantité de points de vie que vous gagnez grâce à ces soins.&nbsp;</span></p>"
-        },
-        {
-            "id": "Frilled Lizardfolk",
-            "name": "Homme-lézard à colerette (Frilled Lizardfolk)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez gonflez votre colerette au tour du cou et tordre votre épine dorsale pour Démoraliser vos ennemis. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous essayez de démoraliser une créature qui ne comprend pas votre langue. Vous obtenez également l'action Approche menaçante.</span></p>\n @Compendium[pf2e.actionspf2e.W4M8L9WepGLamlHs]{Approche menaçante}"
-        },
-        {
             "id": "Strong-Blooded Dwarf",
             "name": "Nain sang-fort (Strong-Blooded Dwarf)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre sang, vigoureux et tonique, vous permet de mieux résister aux toxines. Vous gagnez une résistance au poison égale à la moitié de votre niveau (avec un minimum de 1) et, à chaque fois que vous obtenez un succès à un jet de sauvegarde contre un poison, vous réduisez son stade de 2, ou de 1 s’il s’agit d’un poison virulent. Chaque succès critique contre un poison qui est en train de vous affecter réduit son stade de 3, ou de 2 s’il s’agit d’un poison virulent.&nbsp;</span></p>"
+        },
+        {
+            "id": "Irongut Goblin",
+            "name": "Gobelin Boyaud’fer (Irongut Goblin)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez vous nourrir d’aliments que la plupart des gens considéreraient comme avariés. Quand vous vous trouvez dans une agglomération, vous pouvez vous nourrir convenablement avec des repas peu consistants aussi longtemps que vous avez accès à des ordures et sans avoir à vous lancer dans l’activité d’intermède Subsister. Vous pouvez manger et boire même quand vous êtes malade.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus de circonstances de +2 à vos jets de sauvegarde contre les afflictions, contre l’état malade, et pour guérir de l’état malade. Quand vous obtenez un succès sur un jet de Vigueur affecté par ce bonus, celui-ci est transformé en succès critique. Vous ne bénéficiez de ces avantages que quand l’affliction ou l’état qui vous affecte est le résultat de quelque chose que vous avez ingéré.</span></p>"
         },
         {
             "id": "Wellspring Gnome",
@@ -292,6 +282,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En grandissant, vous n'avez jamais cherché à mentir pour obtenir ce que vous désiriez et même lorsque cela a été nécessaire, mentir vous a mis mal à l'aise. Les membres particulièrement croyants ont même pu penser que vous avez été béni par le dieu nain du devoir, Kols. Vous obtenez un bonus de circonstance de +1 aux tests de Perception pour Deviner les intentions et au DD de Perception contre les tentatives de vous mentir. De plus, vous obtenez un bonus de circonstance de +2 aux tests de Diplomatie pour convaincre les autres que vous dites la véritélorsque vous la dites et vous subissez une pénalité de circonstance de –4 pour Mentir et a votre test de Duperie contre une tentative pour Deviner vos Intentions.&nbsp;</span></p>"
         },
         {
+            "id": "Elemental Heart Dwarf",
+            "name": "Nain Coeurélémentaire (Elemental Heart Dwarf)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Que ce soit au travers d'un lien avec la forge de Torag, des azers du plan du Feu ou d'une autre source, vous pouvez exsuder une émanation d'énergie. Les nains Mbe’ke et Taralu du Mwangi pensent que cette ascendance est un don des dragons ou des esprits élémentaires. Choisissez un des types de dégâts suivants : acide, électricité, feu ou froid. Une fois choisi, il ne peut être modifié. Vous obtenez l'activité Émanation énergétique.</span></p>\n @Compendium[pf2e.actionspf2e.7qjfYsLNTr17Aftf]{Émanation énergétique}"
+        },
+        {
             "id": "Wetlander Lizardfolk",
             "name": "Homme-lézard des terres humides (Wetlander Lizardfolk)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre famille descend du plus commun des héritages des hommes-lézards et vous êtes accoutumé aux environnements aquatiques. Vous obtenez une Vitesse de Nage de 4,5 m.&nbsp;</span></p>"
@@ -310,6 +305,11 @@
             "id": "Smokeworker Hobgoblin",
             "name": "Hobgobelin travailleur de fumée (Smokeworker Hobgoblin)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre famille a été alchimiste, ingénieur et scientifique depuis des générations, sur des projets qui apporte fûmée et feu sur le champ de bataille. Vous obtenez une résistance au feu égal à la moitié de votre niveau (minimum 1). Vous obtenez automatiquement un Succès sur un test nu de DD 5 pour cibler une créature camouflée si cette créature n'est camouflée que par la fumée.&nbsp;</span></p>"
+        },
+        {
+            "id": "Half-Orc",
+            "name": "Demi-orc (Half-Orc)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Soit l’un de vos parents était un orc, soit les deux étaient des demi-orcs. Votre peau aux nuances verdâtres et d’autres signes trahissent votre ascendance orque. Vous gagnez le trait orc et le pouvoir vision nocturne. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des orcs, des demi-orcs et des humains..&nbsp;</span></p>"
         },
         {
             "id": "Plant Nourishment",
