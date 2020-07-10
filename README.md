@@ -38,9 +38,4 @@ Pour appliquer les traductions, il faut installer le module Babele et pointer ve
 ## Bugs de la vo
 Les erreurs dans les textes en vo peuvent être remontées sur le projet de Hooking en créant une "issue". Le mieux est de donner le numéro du fichier, suivie de sa traduction et indiquer en quoi il est incorrect
 
-* iaWOyuRf0iO4EYS9 Aeon Stone (Tourmaline Sphere) wrong text -> replace by : When you would die from the dying condition (typically at dying 4), this aeon stone automatically activates and reduces your dying value to 1 less than would normally kill you (typically to dying 3). The stone then permanently turns into a dull gray aeon stone. You can benefit from this ability only once per day, even if you have multiple such stones. The resonant power allows you to cast 1st-level heal as a divine innate spell once per day.
-* equipment-4ftXXUCBHcf4b0MH Alchemist's tools -> wrong text replace by This mobile collection of vials and chemicals can be used for simple alchemical tasks.
-*  equipment-jJZbdMHMdh8UL2j8 Clothing (fine) -> a part of the text is missing.
-*  equipment-w4Hd6nunVVqw3GWj Basic Crafter's Book -> modify the sentence "for Crafting (the) common items (in this chapter)"
-*  feat ankle bite x 2
-*  feat Charlatan x 2
+À jour au 10 juillet 2020
