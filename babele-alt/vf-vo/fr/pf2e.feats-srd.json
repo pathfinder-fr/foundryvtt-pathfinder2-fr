@@ -308,7 +308,7 @@
         },
         {
             "id": "Effortless Concentration (Bard)",
-            "name": "Concentration aisée (Effortless Concentration (Bard))",
+            "name": "Concentration aisée (Barde) (Effortless Concentration (Bard))",
             "description": "<p><strong>Conditions</strong> Vous n’avez pas encore agi à votre tour</p>\n<hr>\n<p>Vous maintenez un sort presque sans y penser. Vous bénéficiez immédiatement des effets de l’action Maintenir un sort, ce qui vous permet de rallonger la durée de l’un de vos sorts de barde actif.</p>"
         },
         {
@@ -485,6 +485,11 @@
             "id": "Swordmaster Dedication",
             "name": "Dévouement de Maître des épées (Swordmaster Dedication)",
             "description": "<div><strong>Archétype </strong>@Compendium[pf2e.archetypes.bi1SeBS7Af3ZisIA]{Maître des épées}</div>\n<div><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Force, Dextérité ou Constitution 14 ; membre de la Société des Éclaireurs affilié à l'École des 2pées<br></span></div>\n<hr>\n<p>Votre entrainement aux Épées vous ont appris à ne jamais relâcher votre prise sur votre arme. Vous obtenez un bonus de circonstance de +2 à votre DD de Réflexes lorsque des adversaires essaiende  vous @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}. Si vous avez le don @Compendium[pf2e.feats-srd.8pmd9gMl3TamFx3u]{Coopération adroite} et obtenez un succès critique au test pour @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} un allié sur un jet d'attaque ou un test de compétence, vous obtenez un bonus de circonstance de +2 Coopération adroite (au lieu d'un bonus de +1) à la première tentative faite pour porter une attaque ou tenter un test de compétence auquel le bonus devrait s'appliquer.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas obtenir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype Maître des épées.&nbsp;</p>"
+        },
+        {
+            "id": "Enduring Debilitation",
+            "name": "Incapacité persistante (Enduring Debilitation)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fréquence</strong> une fois par minute<br><strong>Prérequis</strong> @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Frappe incapacitante}<br><strong>Déclencheur</strong> Vous appliquez un handicap à une créature.<br></span></p>\n<hr>\n<p>Vous pouvez faire en sorte que le handicap dure pendant un temps exceptionnellement long. Le handicap déclencheur dure pendant 1 minute au lieu de durer jusqu'à la fin de votre prochain tour.&nbsp;</p>"
         },
         {
             "id": "Greater Mental Evolution",
@@ -1322,6 +1327,11 @@
             "description": "<p><strong>Archétype</strong> Gardien de Cristal</p>\n<p><strong>Prerequisites</strong> dévouement de Gardien du Cristal</p>\n<hr>\n<p>Votre étude des cristaux et des énergies contenues dans les facettes des gemmes vous permet d'accéder à des sorts arcaniques de garde particuliers, lesquels font partie des sorts focalisés. Cela vous coûte 1 Point de Focalisation de lancer un sort focalisé et vous commencez avec une réserve de focalisation de 1 point. Vous la remplissez lorsque vous accomplissez vos préparatifs quotidiens et vous pouvez regagner 1 Point de focalisation en passant 10 minutes en utilisant l'activité Refocaliser pour rechercher et mémoriser les propriétées des gemmes.</p>\n<p>Les sorts focalisés sont automatiquement intensifiés à la moitié de votre niveau arrondi au niveau supérieur. Certains dons peuvent vous donner plus de sorts de focalisation et augmenter la taille de votre réserve de focalisation, bien qu'elle ne puisse jamais dépasser 3 points de Focalisation. Vous obtenez le sort focalisé Garde de cristal électrifiée et vous êtes qualifié en attaque de sort arcanique et en DD de sort. Votre caractéristique d'incantation est l'Intelligence.</p>"
         },
         {
+            "id": "Enlightened Presence",
+            "name": "Présence éclairée (Enlightened Presence)",
+            "description": "<p>Vous diffusez une aura de résolution. Vous et vos alliées à 4,50 m ou moins bénéficiez d’un bonus de statut de +2 aux jets de Volonté contre les effets mentaux.</p>"
+        },
+        {
             "id": "Shake it Off",
             "name": "Reprends-toi (Shake it Off)",
             "description": "<p> ous vous concentrez sur votre rage afin de surmonter vos peurs et les effets des maladies. Vous réduisez la valeur de l’état effrayé de 1 et faites un jet de Vigueur pour tenter de vous remettre de l’état malade, comme si vous aviez utilisé une action pour vomir ; vous réduisez la valeur de votre état malade de 1 sur un échec (mais pas sur un échec critique), de 2 sur un succès et de 3 sur un succès critique. &nbsp;&nbsp;</p>"
@@ -1370,6 +1380,11 @@
             "id": "Empty Body",
             "name": "Désertion de l'âme (Empty Body)",
             "description": "<p><strong>Prérequis</strong> sorts ki</p>\n<hr>\n<p>Vous transformez votre corps qui devient éthéré. Vous obtenez le sort ki désertion de l’âme (page 396). Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>"
+        },
+        {
+            "id": "Enduring Quickness",
+            "name": "Rapidité persistante (Enduring Quickness)",
+            "description": "<p>Vous vous déplacez aussi vite et aussi haut que le vent. Vous êtes accéléré en permanence. Vous pouvez effectuer votre action supplémentaire pour @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marcher rapidement} ou @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bondir} ou pour fournir l’une des actions nécessaires pour @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Sauter en hauteur} ou @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{en longueur}.</p>"
         },
         {
             "id": "Attack of Opportunity (Champion)",
@@ -1540,6 +1555,11 @@
             "id": "Mountain Stance",
             "name": "Posture de la montagne (Mountain Stance)",
             "description": "<p><strong>Conditions.</strong> Vous ne portez aucune armure et vous êtes en contact avec le sol</p>\n<hr>\n<p>Vous prenez la posture implacable d’une montagne, une technique découverte par des moines nains, ce qui vous permet de frapper aussi violemment qu’une avalanche. Les seules Frappes que vous pouvez faire sont des attaques à mains nues de chute de pierre. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits mains nues, non létal et percutant. Tant que vous gardez cette posture, vous bénéficiez d’un bonus de statut de +4 à la CA et d’un bonus de circonstances de +2 à vos défenses si l’on tente de vous Pousser ou de vous faire un Croc-en-jambe. Vous avez toutefois un bonus de Dextérité maximal à votre CA de +0, ce qui signifie que vous n’ajoutez pas votre modificateur de Dextérité à votre CA et vos Vitesses sont toutes réduites de 1,50 m.</p>"
+        },
+        {
+            "id": "Elemental Wrath",
+            "name": "Courroux élémentaire (Elemental Wrath)",
+            "description": "<p>Vous êtes tellement harmonisé à la nature que vous pouvez faire appel à un éclair d'énergie provenant des environs. Lorsque vous obtenez ce don, choisissez entre acide, électricité, feu ou froid. Vous pouvez alors faire appel à la nature pour lancer le tour de magie @Compendium[pf2e.spells-srd.gISYsBFby1TiXfBt]{Aspersion acide} comme un sort inné primordial à volonté, séuf que le sort n'a qu'une composante verbale et inflige le type de dégâts que vous avez hoisi à la place de dégâts d'acide ; le sort prend le trait appropri à celui de ses dégâts au lieu du trait acide. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au niveau supérieur.&nbsp;</p>"
         },
         {
             "id": "Familiar (Sorcerer)",
@@ -2277,6 +2297,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> expert en Duperie, dévouement de trublion vantard<br><strong>déclencheur</strong> La Frappe d'un adversaire vous réduit à 0 Points de vie ; vous n'étiez pas à 1 point de vie et vous ne voudriez pas être tué.<br></span></p>\n<hr>\n<p>Votre confiance frôle l'a self-delusion'auto persuasion, mais elle vous garde contre les destins les plus tragiques. Faites un test de Duperie contre le DD de l'attaque de la Frappe déclencheuse. Vous subissez une pénalité à ce test égale à deux fois votre valeur blessé si vous en avec une. Si l'attaque déclencheuse était un coup critique, utilisez le résultat un degré de succès pire que celle que vous avez obtenue.<br><br><strong>Succès critique</strong> Vous évitez d'être assomé et restez à 1 Point de vie.<br><strong>Succès</strong> Vous évitez d'être assomé et restez à 1 Point de vie, mais vous augmentez vontre valeur de @Compendium[pf2e.conditionspf2e.Yl48xTdMh3aeQYL2]{Blessé} de 1.&nbsp;</p>"
         },
         {
+            "id": "Energy Blessed",
+            "name": "Énergie bénie (Energy Blessed)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequisites</strong> ascendance Nain coeurélémentaire<br></span></p>\n<hr>\n<p>L'énergie circule dans votre sang plus puissamment. Lorsque vous utiliser  @Compendium[pf2e.actionspf2e.7qjfYsLNTr17Aftf]{Émanation élémentaire}, vous pouvez créer une émanation de 1,5 m, 3 m ou de 4,5 m. Les dégâts passent à 6d6 plus 1d6 supplémentaire pour chacun de vos niveaux au dessus du 9ème, au lieu d'1d6 plus 1d6 supplémentaire tous les 2 niveaux au-dessus du premier.&nbsp;</p>"
+        },
+        {
             "id": "Gloomseer",
             "name": "Voyant pénombral (Gloomseer)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> ethnie nidalaise<br></span></p>\n<hr>\n<p>La pénombre recèle peu de terreurs en ce qui vous concerne et la chappe de noirceur sur le Nidal vous a habitué à une lumière atténuée. Vous obtenez la <a href=\"https://2e.aonprd.com/Rules.aspx?ID=416\">vision nocturne</a>.&nbsp;</p>"
@@ -2455,6 +2480,11 @@
             "id": "Advanced Domain",
             "name": "Domaine avancé (Advanced Domain)",
             "description": "<p><strong>Prérequis</strong> Initié du domaine</p>\n<hr>\n<p>Vos études et prières vous ont permis de percer des secrets plus intimes du domaine de votre divinité. Vous gagnez un sort de domaine avancé de l’un de vos domaines (comme indiqué dans le tableau 8–2 : Les domaines, en page 441). Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, vous devez choisir un sort de domaine avancé différent, issu d’un domaine dont vous possédez déjà le sort initial</p>"
+        },
+        {
+            "id": "Encouraging Words",
+            "name": "Paroles encourageantes (Encouraging Words)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié en Diplomatie<br><strong>Conditions</strong> LA cible alliée a perdu des points d'Endurance au cours du dernier round.<br></span></p>\n<hr>\n<p>Vous donnez à un allié dans les 9 m un bref discours d'encouragement, les aidant à récupérer. Faites un test deDiplomatie. Le DD est habituellement de 15, bien que le MJ puisse l'ajuster en fonction des circonstances. Si vous êtes expert en Diplomatie, vous pouvez faire un test contre un DD 20 pour augmenter le nombre de points d'Endurance récupérés de 5 ; si vous êtes maître, vous pouvez tenter un test contre un DD 30 pour augmenter le nombre de points d'Endurance de 15 ; si vous êtes légendaire, vous pouvez faire un test contre un DD 40 pour augmenter les points d'Endurance de 25. Quel que soit le résultat, l'allié est temporairement immunisé aux Paroles d'encouragement jusqu'à ce qu'il aient soit @Compendium[pf2e.actionspf2e.qc0VsZ0UesnurUUB]{Repris leursouffle} ou se soit reposés au cours de la journée. <br><br><strong>Succès critique</strong> L'allié récupère 2d8 points d'Endurance.<br><strong>Succès</strong> L'allié récupère 1d8 Points d'Endurance.<br><strong>Échec critique</strong> L'allié subit 1d8 dégâts mentaux, mais cela ne peut que réduire les Points d'Endurance, jamais les Points de Vie.&nbsp;</p>"
         },
         {
             "id": "Crimson Shroud",
@@ -2727,6 +2757,11 @@
             "description": "<p>Vous savez identifier le babil des créatures souterraines comme un langage. Vous pouvez ainsi poser des questions, obtenir des réponses et utiliser la compétence Diplomatie quand vous vous adressez à des animaux qui ont une Vitesse de creusement comme les blaireaux, les écureuils terrestres, les taupes et les chiens de prairie. Le MJ détermine avec quels animaux vous pouvez utiliser ce pouvoir.</p>"
         },
         {
+            "id": "Emblazon Antimagic",
+            "name": "Antimagie blasonnée (Emblazon Antimagic)",
+            "description": "<p><strong>Prérequisites</strong> Arsenal Blasonné</p>\n<hr>\n<p>Le symbole de votre divinité offre une protection contre la magie offensive. Quand vous utilisez Arsenal blasonné, vous pouvez choisir l’un des effets suivants au lieu de ceux de ce don. Ces effets imposent les mêmes restrictions que les options de base.</p>\n<p>• <strong>Bouclier</strong> Quand l’utilisateur a son bouclier levé, il ajoute le bonus de circonstances du bouclier aux jets de sauvegarde contre la magie et il peut utiliser Blocage au bouclier contre les dégâts des sorts ennemis.</p>\n<p>• <strong>Arme</strong> Quand une créature obtient un coup critique en maniant l’arme, elle peut tenter de contrer un sort sur sa cible, en utilisant son niveau en guise de niveau du contre. Le cas échéant, le symbole blasonné disparaît immédiatement.</p>"
+        },
+        {
             "id": "Basic Concoction",
             "name": "Concoction basique (Basic Concoction)",
             "description": "<p><strong>Prérequis</strong> dévouement d'alchimiste</p>\n<hr>\n<p>Vous gagnez un don d’alchimiste de niveau 1 ou 2</p>"
@@ -2997,6 +3032,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Lame du Lion<br></span></p>\n<hr>\n<p>Vous avez appris à vous fondre dans la foule et à vous cacher en son sein, disparaissant dans une rue bonée en un clin d'oeil. Vous vous déplacez à votre vitesse habituelle dans la foule et pouvez trouver un abri au sein d'une foule dans laquelle vous pouvez vous Cacher ou être Furtif, obtenant un bonus de circonstance de +2 à vos tests de Discrétion lorsque vous êtes dans un groupe d'au moins 10 créatures et de +4 lorsque la foule en comprend au moins 100.&nbsp;</p>"
         },
         {
+            "id": "Emblazon Divinity",
+            "name": "Divinité blasonnée (Emblazon Divinity)",
+            "description": "<p><strong>Prérequis</strong> Arsenal blasonné</p>\n<hr>\n<p>Vos inscriptions sacrées remplissent les objets de pouvoir. Cela vous prend seulement 1 minute de blasonner un symbole en utilisant @Compendium[pf2e.feats-srd.7RFjTTzznsdPcaYB]{Arsenal blasonné} et vous pouvez avoir jusqu'à quatre symboles blasonnés en même temps. Chaque objet ne peut toujours recevoir qu'un seul symbole blasonné et si vous dépassez la limite de quatre, le plus ancien des symboles disparait. Ces symboles peuvent accorder leur avantage même à ceux qui ne sont pas des fidèles de votre divinité, pourvu qu'ils n'y soient pas directement opposés (à l'appréciation du MJ).</p>\n<p>Vous pouvez choisir un avantage différent pour chaque symbole blasonné, parmi ceux que vous avez obtenu par le biais d'Arsenal blasonné ou d'autres dons comme @Compendium[pf2e.feats-srd.xAFdoKl7aOP9rVkl]{Antimagie blasonnée} ou @Compendium[pf2e.feats-srd.rKZE8BA9IQHSSWoW]{Énergie blasonnée}.</p>"
+        },
+        {
             "id": "Sorcerer Dedication",
             "name": "Dévouement de l'ensorceleur (Sorcerer Dedication)",
             "description": "<p><strong>Prérequis</strong> Charisme 14</p>\n<hr>\n<p>Choisissez un lignage. Vous devenez qualifié dans deux compétences de ce lignage ; pour chacune de ces compétences dans laquelle vous étiez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous obtenez l'accès à l'activité Lancer un sort. Vous gagnez un répertoire de sorts avec deux tours de magie communs issus de la liste de sorts associée à votre lignage, issus des sorts accordés par votre lignage ou que vous avez découverts ou appris et qui appartiennent à cette tradition. Vous êtes qualifié dans les jets d’attaque de sorts et les DD de sorts pour les sorts de votre tradition. Votre caractéristique essentielle d’incantation pour les sorts de l’archétype ensorceleur est le Charisme et il s’agit de sorts d’ensorceleur de la tradition de votre lignage. Vous ne gagnez aucune autre capacité venant du choix de votre lignage.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype ensorceleur.</p>"
@@ -3025,6 +3065,11 @@
             "id": "Crane Flutter",
             "name": "Battement d'aile de la grue (Crane Flutter)",
             "description": "<p><strong>Prérequis</strong> Posture de la grue</p>\n<p><strong>Déclencheur</strong> Vous êtes attaqué au corps à corps par une créature que vous pouvez voir.</p>\n<p><strong>Conditions</strong> Vous êtes dans la Posture de la grue.</p>\n<hr>\n<p>Vous placez votre bras entre vous et votre adversaire. Votre bonus de circonstances à la CA conféré par la Posture de la grue passe à +3 contre l’attaque à l’origine du déclenchement. Si l’attaque vous rate, vous pouvez immédiatement effectuer une Frappe d’aile de grue contre l’attaquant avec un malus de −2, même s’il est hors de votre allonge.</p>"
+        },
+        {
+            "id": "Elven Lore",
+            "name": "Connaissance des elfes (Elven Lore)",
+            "description": "<p>Vous avez étudié les arts elfiques traditionnels et vous avez reçu des enseignements sur la magie arcanique et le monde qui vous entoure. Vous gagnez le rang de maîtrise qualifié en Arcanes et en Nature. Si vous êtes déjà automatiquement qualifié dans l’une de ces compétences (grâce à votre historique ou à votre classe, par exemple), vous devenez alors qualifié dans une compétence de votre choix. Vous devenez également qualifié en Connaissance des elfes.</p>"
         },
         {
             "id": "Druid Dedication",
@@ -4172,6 +4217,11 @@
             "description": "<p><strong>Prérequis</strong> divinité bonne, chaotique, loyale ou mauvaise</p>\n<p><strong>Fréquence</strong> une fois par round</p>\n<hr>\n<p>Vous harmonisez une arme pour l’accorder aux préceptes de votre divinité. Quand vous choisissez ce don, choisissez également l’alignement bon, chaotique, loyal ou mauvais. Votre choix doit correspondre à l’un des composants de l’alignement de votre divinité. Cette action a le trait correspondant au composant d’alignement choisi.</p>\n<p>Quand vous effectuez cette action, vous touchez une arme. Pendant un round, cette arme inflige 1d6 dégâts supplémentaires du type choisi aux créatures à l’alignement opposé. Par exemple, si vous choisissez l’alignement bon, l’arme inflige 1d6 dégâts bons supplémentaires aux créatures d’alignement mauvais. Si vous utilisez de nouveau Arsenal aligné, toute arme précédemment alignée n’inflige plus ces dégâts supplémentaires</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don une deuxième fois, en choisissant l’autre composant de l’alignement de votre divinité. Quand vous utilisez Arsenal aligné, vous pouvez choisir l’un ou l’autre des composants d’alignement.</p>"
         },
         {
+            "id": "Envenom Fangs",
+            "name": "Crocs empoisonnés (Envenom Fangs)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fréquence</strong> un nombre de fois par jour égal à votre niveau<br><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.6oJ1EdANHgYCfCeF]{Crocs aiguisés}<br></span></p>\n<hr>\n<p>Vous empoisonnez vos crocs. Si la prochaine Frappe avec vos crocs portée avant la fin de votre tour touche et inflige des dégâts, la Frappe inflige 1d6 points de dégâts de poison. Sur un échec critique, le poison est gâché, comme c'est habituellement le cas.&nbsp;</p>"
+        },
+        {
             "id": "Absorb Spell",
             "name": "Absorption de sort (Absorb Spell)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fréquence</strong> une fois par 10 minutes<br><strong>Prérequis</strong> dévouement de maître des sorts, répertoire de sort ou capacité à préparer des sorts<br><strong>Déclencheur</strong> Vous avez obtenu un succès critique à un jet de sauvegarde contre le sort d'un adversaire et ce sort est d'un niveau que vous pouvez normalement lancer.<br></span></p>\n<hr>\n<p>Vous absorbez un sort et l'emmagasinez dans votre corps. Si vous êtes un lanceur de sort spontané, vous pouvez lancer le sort déclencheur une fois au cours des 10 prochaines minutes, même s'il n'est pas sur votre liste de sort comme s'il figurait dans votre répoertoire. Si vous êtes un incantateur préparé, vous pouvez remplacer un des sorts que vous avez préparé du même niveau avec le sort absorbé, mais vous devez le lancer dans les 10 minutes ou vous perdez cet emplacement de sort pour cette journée. Vous lancez le sort au même niveau de sort que le sort que vous avez absorbé, mais le sort est de votre tradition magique et utilise le DD de vos sorts, votre jet d'attaque de sort et les autres statistiques pour déterminer ses effecs.&nbsp;</p>"
@@ -4333,7 +4383,7 @@
         },
         {
             "id": "Esoteric Polymath",
-            "name": "Tout-à-tout ésotérique (Esoteric Polymath)",
+            "name": "Touche-à-tout ésotérique (Esoteric Polymath)",
             "description": "<p><strong>Prérequis</strong> muse touche-à-tout</p>\n<hr>\n<p>Vous possédez un livre de sorts occultes semblable à un grimoire de magicien et vous pouvez utiliser les sorts qu’il contient en plus de ceux de votre répertoire. Inscrivez gratuitement tous les sorts de votre répertoire dans ce livre. Vous pouvez utiliser la compétence Occultisme pour Apprendre des sorts (page 234) et les ajoutez à votre grimoire en payant les coûts appropriés, de la même façon qu’un magicien. Lors de vos préparatifs quotidiens, choisissez l’un des sorts de votre livre de sorts occultes. Si ce sort est déjà dans votre répertoire, vous pouvez le considérer comme un sort emblématique supplémentaire pour la journée. S’il n’est pas dans votre répertoire, considérez qu’il l’est jusqu’à vos prochains préparatifs quotidiens.</p>"
         },
         {

@@ -57,9 +57,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque vous appliquez cette épaisse huile visqueuse sur une arme ou une armure non magique, elle devient magique. Si c’est une arme, elle devient temporairement une arme de frappe +1, si c’est une armure elle devient temporairement une armure de résilience +1. Cela dure 1 min.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
+            "id": "Flame Tongue (Greater)",
+            "name": "Flame Tongue (Greater) (Épée ardente (supérieure))",
+            "description": "<p><span>C’est une épée longue enflammée de frappe supérieure +3. Quand vous activez l’épée pour lancer flammes, le sort est de niveau 9. Quand vous la maniez, la lame émet une lumière scintillante semblable à celle d’un feu qui diffuse une lumière faible sur un rayon de 3 m<br /></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/TwoActions.png\" alt=\"Two Actions\" />  sur ordre, Interagir; <strong>Effet</strong> Vous lancez le tour de magie flammes @Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Produce Flame}  par le biais de l’épée comme un sort arcanique de niveau 7, en utilisant votre modificateur d’attaque au corps à corps en guise de modificateur d’attaque de sort avec l’épée ardente. &nbsp;</span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/OneAction.png\" alt=\"Single Action\" /> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Une émanation de feu de 3 m irradie de l’épée ardente supérieure pendant 1 min. Toutes les attaques d’arme ou à mains nues que vous et vos alliés effectuez dans la zone bénéficient de l’effet de la rune de propriété enflammée.</span></p>"
+        },
+        {
             "id": "Spellstrike Ammunition (Type V)",
             "name": "Spellstrike Ammunition (Type V) (Munition de frappe magique (Type V))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des remous mystiques créent un réservoir magique dans cette munition. Vous activez la munition de frappe magique en lui Lançant un sort. Il doit être d’un niveau que la munition peut absorber et capable de viser une créature autre que son incantateur. Une créature touchée par la munition de frappe magique activée est visée par le sort. Si elle ne représente pas une cible valide pour lui, il est perdu.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La munition affecte uniquement la cible touchée, même si le sort devrait normalement affecter plusieurs cibles. Si le sort exige un jet d’attaque de sort, utilisez le résultat de votre jet d’attaque à distance avec la munition pour déterminer le degré de succès du sort. Si le sort autorise un jet de sauvegarde, la cible l’effectue contre le DD de votre sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce sont le niveau d’objet et le prix de la munition qui déterminent le niveau de sort maximum qu’elle peut contenir.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Lancer un sort</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Niveau de sort maximum 5</span></p>"
+        },
+        {
+            "id": "Robe of Eyes",
+            "name": "Robe of Eyes (Robe de vision totale)",
+            "description": "<p><span>Ce vêtement ressemble à une robe ordinaire jusqu’à ce qu’on l’enfile, auquel cas de nombreux yeux aux formes et aux couleurs inhabituelles et étranges s’ouvrent et clignent sur toute sa surface. Lorsque vous portez la robe, vous bénéficiez d’un bonus d’objet de +3 aux tests de Perception et vous profitez en permanence des effets d’une détection de l’invisibilité de niveau 2. @Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}<br></span></p>\n<p><span>Vous pouvez également voir les puissantes auras magiques. L’aura magique au niveau le plus élevé à 9 m ou moins de vous produit une lueur dont la couleur vous révèle son école et vous permet de déterminer d’où provient l’effet. Vous pouvez réduire le point d’origine de l’effet à un cube de 1,50 m de côté, sans être plus précis que ça<br></span></p>\n<p><span>L’utilisation de la robe de vision totale n’est pas sans danger. Si un sort avec le trait lumière est lancé sur vous ou votre case alors que vous portez la robe, vous êtes aveugle pendant un nombre de rounds égal au niveau du sort, à moins que vous ne réussissiez un jet de Vigueur contre le DD du sort.<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Effet</strong> Vous arrachez un œil de la robe et le lancez en l’air ; il devient alors invisible et flotte vers une destination de votre choix en produisant le même effet qu’un œil indiscret de niveau 5 @Compendium[pf2e.spells-srd.Ek5XI0aEdZhBgm21]{Prying Eye}. Vous pouvez Maintenir l’activation de la même façon que vous Maintenez un sort. &nbsp;</span></p>"
         },
         {
             "id": "Wand of Slaying (8th-Level Spell)",
@@ -167,6 +177,11 @@
             "description": ""
         },
         {
+            "id": "Salve of Slipperiness",
+            "name": "Salve of Slipperiness (Onguent d'insaisissabilité)",
+            "description": "<p><span>Cette graisse verdâtre tenace s’applique sur une armure pour la rendre extrêmement glissante pendant 8 h, offrant à son porteur un bonus d’objet de +2 aux tests d’Acrobaties pour S’échapper ou Se faufiler.<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/OneAction.png\" alt=\"Single Action\">  Interagir</span></p>"
+        },
+        {
             "id": "Elven Curve Blade",
             "name": "Elven Curve Blade (Lame courbe elfique)",
             "description": "<p><span class=\"fontstyle0\">Version essentiellement plus longue du cimeterre, cette arme elfique traditionnelle possède une lame plus fine que celle de son \ncousin.</span> </p>"
@@ -235,6 +250,11 @@
             "id": "Frost",
             "name": "Frost (Froid (rune))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La glace et le froid donnent à cette arme son pouvoir. Elle inflige 1d6 dégâts de froid supplémentaires en cas de Frappe réussie. En cas de coup critique, la cible est également ralentie 1 jusqu’à la fin de votre prochain tour, à moins qu’elle ne réussisse un jet de Vigueur DD 24.</span></p>"
+        },
+        {
+            "id": "Manacles (Average)",
+            "name": "Manacles (Average) (Menottes (Moyennes))",
+            "description": "<p><span class=\"fontstyle0\">vous pouvez menotter une personne volontaire ou à votre merci comme une activité d’exploration prenant 10 à 30 secondes, en fonction de la taille de la créature et du nombre de menottes que vous utilisez. Une créature bipède ayant ces membres attachés subit un malus de circonstance de –4,5 m à sa Vitesse, et une créature à deux mains ayant les poignets attachés doit réussir un test nu DD 5 chaque fois qu’elle utilise une action de manipulation ou que cette action échoue. Ce DD peut être plus élevé en fonction de la force avec laquelle les menottes contraignent les mains. Une créature attachée à un objet immobile est elle-même immobilisée. Dans le cas de créatures ayant plus ou moins de membres, le MJ détermine l’effet éventuel des menottes. Libérer une créature de menottes médiocres nécessite de réussir deux tests de Vol DD 17, des menottes simples exigent de leur côté trois succès DD 22, des menottes intermédiaires quatre succès DD 27, de bonnes menottes cinq succès DD 32 et des menottes supérieures six succès DD 42</span></p>"
         },
         {
             "id": "Disguise Kit (Elite)",
@@ -370,6 +390,11 @@
             "id": "Dagger of Venom",
             "name": "Dagger of Venom (Dague venimeuse)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La lame dentelée de cette dague de <em>frappe +1</em> a des reflets ver‑ dâtres et la poignée est sculptée en forme de tête de serpent sur le point de mordre. Quand vous obtenez un succès critique à un jet d’attaque avec la dague venimeuse, la cible devient malade 1 jusqu’à ce qu’elle réussisse un jet de Vigueur DD 19. Il s’agit d’un effet de poison. De plus, vous pouvez activer la dague pour qu’elle inocule un poison plus puissant à une créature.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous blessez une créature avec la dague venimeuse; <strong>Effet</strong> Vous empoi‑ sonnez la créature que vous frappez avec le poison de la dague.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Dague venimeuse</strong> (poison); <strong>Jet de sauvegarde</strong> Vigueur DD 21; <strong>Durée maximum</strong> 4 rounds. <strong>Stade 1</strong> e 1 1d8 dégâts de poison et affaibli 1.\n&nbsp;</span></p>"
+        },
+        {
+            "id": "Holy Avenger",
+            "name": "Holy Avenger (Épée de la justice)",
+            "description": "<section class=\"content\">\n<p><span>L’épée de justice étincelante est l’arme emblématique des redoutables paladins. La garde de cette épée longue en fer froid sainte de frappe supérieure +2 est forgée en forme d’ailes d’ange. D’après la tradition, ceux qui regardent leur refet dans la lame extrêmement polie d’une épée de justice voient leurs fautes révélées. Si vous êtes d’alignement mauvais, vous êtes affaibli 2 tant que vous portez ou maniez cette arme<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, Interagir;  <strong>Fréquence</strong> 1/heure ; <strong>Effet</strong> Vous prononcez le mot de commande de l’épée et la pointez sur une créature dans votre champ de vision. L’épée lance détection de l’alignement @Compendium[pf2e.spells-srd.QnTtGCAvdWRU4spv]{Detect Alignment} pour détecter le mal, en ne ciblant que la créature désignée au lieu de détecter dans une zone<br></span></p>\n<p><span><strong>Maniée par un paladin</strong> Si vous êtes un champion de la cause du paladin, vous bénéficiez également des deux avantages suivants : </span></p>\n<ul>\n<li>Quand vous obtenez un coup critique sur une créature d’alignement mauvais avec l’<em>épée de justice</em>, la créature est ralentie 1 et affaiblie 2 pendant 1 round</li>\n<li>Vous pouvez activer l’épée de la façon suivante :</li>\n</ul>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Fréquence</strong> 1/joury; <strong>Conditions</strong> Vous avez réussi à frapper une créature avec l’épée de justice lors de votre action précédente ; <strong>Effet</strong>  Vous lancez dissipation de la magie  @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic} au même niveau que les sorts focalisés de votre champion. Elle doit cibler une illusion que la créature que vous avez frappée a créée, un sort qui affecte la créature que vous avez frappée ou un objet que la créature que vous avez frappée porte ou transporte. Le sort ou l’objet que vous tentez de contrer doit se trouver à 36 m ou moins de vous.</p>\n<hr>\n<p><strong>Conditions de fabrication</strong> Vous êtes un champion de la cause du paladin ; fournir une incantation de <em>détection de l’alignement</em> et de <em>dissipation de la magie</em>. Les matières premières initiales doivent inclure 120 po de fer froid.</p>\n</section>"
         },
         {
             "id": "Gold Pieces",
@@ -557,9 +582,19 @@
             "description": "<p><span class=\"fontstyle0\">Ce livre contient les formules pour @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} les objets communs.</span></p>"
         },
         {
+            "id": "Bracers of Armor II",
+            "name": "Bracers of Armor II (Protège-bras d'armure II)",
+            "description": "<p><span>Ces protège-bras de cuir rigide vous confèrent un bonus d’objet de +2 à la CA et aux jets de sauvegarde, ainsi qu’un modificateur de Dextérité maximum de +5. Vous pouvez fixer des talismans sur des protège-bras d’armure comme s’ils étaient une armure légère&nbsp;</span></p>"
+        },
+        {
             "id": "Invisibility Potion",
             "name": "Invisibility Potion (Potion d'invisibilité)",
             "description": "<p>Une potion d’invisibilité est incolore et étonnamment légère. En la bu‑ vant, vous gagnez les effets du sort invisibilité niveau 2.</p>"
+        },
+        {
+            "id": "Viper Arrow",
+            "name": "Viper Arrow (Flèche vipère)",
+            "description": "<p><span>Le fût de cette flèche est couvert de fines écailles vertes et sa tête en fer se termine par deux pointes rappelant des crochets. Quand une flèche vipère activée touche sa cible, elle se change en vipère (Bestiaire Pathfinder p. 302). La cible est affectée par le venin de la vipère, comme si elle avait été mordue. La vipère tombe ensuite dans un espace dégagé adjacent à la cible <br></span></p>\n<p><span>Elle possède le trait convoqué et agit à la fin de votre tour, même si vous n’avez pas utilisé l’action Maintenir un sort. Elle est sous le contrôle du MJ, mais attaque généralement la créature que la flèche a touchée. La vipère disparaît au bout de 1 min ou une fois tuée.<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/OneAction.png\" alt=\"Single Action\"> Command<br></span></p>\n<p><span><strong>Conditions de fabrication</strong>  Fournir une incantation de convocation d’animal @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Summon Animal}</span></p>"
         },
         {
             "id": "Simple sculpture",
@@ -645,6 +680,11 @@
             "id": "Bronze brazier with Asmodean artwork",
             "name": "Bronze brazier with Asmodean artwork (Braséro en bronze de style asmodéen)",
             "description": ""
+        },
+        {
+            "id": "Manacles (Good)",
+            "name": "Manacles (Good) (Menottes (bonnes))",
+            "description": "<p><span class=\"fontstyle0\">vous pouvez menotter une personne volontaire ou à votre merci comme une activité d’exploration prenant 10 à 30 secondes, en fonction de la taille de la créature et du nombre de menottes que vous utilisez. Une créature bipède ayant ces membres attachés subit un malus de circonstance de –4,5 m à sa Vitesse, et une créature à deux mains ayant les poignets attachés doit réussir un test nu DD 5 chaque fois qu’elle utilise une action de manipulation ou que cette action échoue. Ce DD peut être plus élevé en fonction de la force avec laquelle les menottes contraignent les mains. Une créature attachée à un objet immobile est elle-même immobilisée. Dans le cas de créatures ayant plus ou moins de membres, le MJ détermine l’effet éventuel des menottes. Libérer une créature de menottes médiocres nécessite de réussir deux tests de Vol DD 17, des menottes simples exigent de leur côté trois succès DD 22, des menottes intermédiaires quatre succès DD 27, de bonnes menottes cinq succès DD 32 et des menottes supérieures six succès DD 42</span></p>"
         },
         {
             "id": "Armbands of Athleticism (Greater)",
@@ -830,6 +870,11 @@
             "id": "Dagger",
             "name": "Dagger (Dague)",
             "description": "<p><span class=\"fontstyle0\">Cette petite arme à lame se tient d’une main et est utilisée pour poignarder une créature en combat rapproché. Elle peut aussi être lancée.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
+        },
+        {
+            "id": "Pendant of the Occult (Greater)",
+            "name": "Pendant of the Occult (Greater) (Pendentif des sciences occultes (supérieur))",
+            "description": "<p>Cette amulette en forme d’œil aux paupières ouvertes est creuse. Le creux contient le plus souvent un fragment de texte occulte. Lorsque vous portez le pendentif, vous bénéficiez d’un bonus d’objet de +1 aux tests d’Occultisme et vous pouvez lancer le tour de magie assistance divine comme un sort occulte inné&nbsp;</p>\n<p><span>Le pendentif confère un bonus d’objet de +2 et peut être activé.<br></span></p>\n<p><span><strong>Activation</strong> 10 min (Lancer un sort); <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous lancez un message onirique de niveau 4 @Compendium[pf2e.spells-srd.yM3KTTSAIHhyuP14]{Dream Message}.</span></p>"
         },
         {
             "id": "Primeval Mistletoe (Greater)",
@@ -1047,6 +1092,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La torche éternelle est l’un des exemples de magie permanente les plus courants. Elle émet de la lumière en permanence, même en l’absence d’oxygène et ne génère pas de chaleur. On peut cou‑ vrir ou cacher la flamme, mais pas l’étouffer ni l’éteindre avec de l’eau.&nbsp;</span></p>"
         },
         {
+            "id": "Pathfinder Chronicle",
+            "name": "Pathfinder Chronicle (Chronique de l'éclaireur)",
+            "description": "<p><span>Il existe de nombreux volumes et éditions des Chroniques de l'éclaireur, chacun cataloguant des aventures différentes. Les chroniques des éclaireurs sont un type de revue scientifique qui se consacre spécifiquement aux sujets des découvertes de l'éclaireur, plutôt qu'à des sujets académiques plus théoriques. Comme les éclaireurs ont un meilleur accès à ces chroniques que les autres revues scientifiques, elles sont particulièrement courantes parmi la société des Éclaireurs, constituant une bibliothèque de textes de référence.</span></p>"
+        },
+        {
             "id": "Feather Token (Holly Bush)",
             "name": "Feather Token (Holly Bush) (Plume magique (buisson de houx))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce morceau de pierre plate et solide a été spécialement préparé pour graver une rune fondamentale ou une rune de propriété magique. Vous ne pouvez graver qu’une seule rune par pierre. Une fois la pierre gravée, elle adopte le trait de l’école de magie de la rune tracée. Lorsqu’une rune est transférée de la pierre runique à un autre objet, la pierre se fend et se détruit. Le prix indiqué corres‑ pond à une rune vierge, si elle est gravée, il faut lui ajouter le prix de la rune.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque cette plume est activée, elle se transforme en buisson de houx vivant qui emplit une case. Il offre un abri standard et possède 2d4 baies rouge vif. Bien que les baies du houx soient normalement empoisonnées, celles‑ci sont imprégnées d’une magie bénéfique. Vous pouvez en cueillir une et la manger avec l’action Interagir pour récupérer 1 PV. Une fois cueillie, la baie perd sa magie en quelques secondes, elle ne vous soigne donc pas si vous ne la mangez pas dans le laps de temps de l’action Interagir. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si la plume est activée sur une terre fertile, le buisson continue de pousser (bien qu’il ne produise pas d’autres baies curatives). Si elle est activée ailleurs, il se flétrit et meurt en 1d4 jours. &nbsp;</span></p>"
@@ -1167,6 +1217,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet ressemble à une banale bouteille fermée par un bouchon de liège, mais elle contient une quantité illimitée d’air respirable. Vous devez déboucher la bouteille avec l’action Interagir avant de l’activer. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Effet</strong> Vous aspirez une bouffée d’air à la bouteille. Cela vous permet de respirer, même dans un environnement toxique ou privé d’air. L’air ne s’échappe pas du goulot, ainsi un environnement privé d’air ne change pas même si la bouteille reste ouverte.</span></p>"
         },
         {
+            "id": "Phylactery of Faithfulness (Greater)",
+            "name": "Phylactery of Faithfulness (Greater) (Phylactère du croyant (Supérieur))",
+            "description": "<p><span>Cette minuscule boîte contient un fragment de texte religieux consacré à une divinité en particulier. La boîte est attachée à un cordon de cuir, lui-même noué autour de votre tête en plaçant la boîte au milieu de votre front. Vous ne profitez pas des avantages que confère le phylactère vous ne vouez aucun culte à la divinité affiliée. Le phylactère vous confère une sagesse toute religieuse qui se manifeste par un bonus d’objet de +3 aux tests de Religion. Juste avant que vous n’accomplissiez une action que la divinité du phylactère condamne, l’objet vous avertit de votre transgression potentielle pour que vous ayez l’occasion de changer d’avis.s<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/OneAction.png\" alt=\"Single Action\"> imaginer; <strong>Fréquence</strong> Toutes les 30 minutes; <strong>Effet</strong> Vous demandez conseil à propos d’un plan d’action particulier en bénéficiant des effets du sort augure. @Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augury}.</span></p>"
+        },
+        {
             "id": "Eye of Apprehension",
             "name": "Eye of Apprehension (Oeil d'appréhension)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une inclusion soyeuse donne à cette cymophane ronde l’air d’un œil de chat. Une fois fixée, elle vous rend nerveux. Lorsque vous l’acti‑ vez, lancez deux fois le dé pour la Perception et conservez le meilleur résultat.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\" />&nbsp;imaginer;&nbsp;<strong>Déclencheur</strong>&nbsp;Vous êtes sur le point de lancer le dé pour l’initiative, mais ne l’avez pas encore fait ; &nbsp;<strong>Conditions</strong>&nbsp;Vous êtes maître en Perception. </span></p>"
@@ -1215,6 +1270,11 @@
             "id": "Cytillesh Oil",
             "name": "Cytillesh Oil (Hule de Cytillesh)",
             "description": "<p>Cette épaisse substance est distillée à partir d’un champignon voleur d’esprit, le cytillesh, mais ne modifie pas les souvenirs.</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong>Vigueur DD 19; <strong>Durée maximum</strong> 4 rounds; <strong>Stade 1</strong> 1d10 dégâts de poison (1 round) ; <strong>Stade 2</strong> 1d12 dégâts de poison (1 round) ;<strong>Stade 3</strong>  2d10 dégâts de poison (1 round);<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
+        },
+        {
+            "id": "Caterwaul Sling",
+            "name": "Caterwaul Sling (Fronde qui feule)",
+            "description": "<p>Cette fronde de frappe +1 en cuir brun lustré a un unique fil blanc entrelacé dans sa cordelette&nbsp;</p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/TwoActions.png\" alt=\"Two Actions\">  Interagir (son); <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous extirpez le fil blanc puis faites tournoyer très vite la fronde. Elle émet une vague de son assourdissante. Chaque créature dans un cône de 9 m subit 4d6 dégâts de son (jet de Vigueur basique DD 21). Une créature qui rate son jet de sauvegarde est assourdie pendant 1 round ou pendant une heure en cas d’échec critique.&nbsp;&nbsp;</span></p>"
         },
         {
             "id": "Pyrite",
@@ -1347,6 +1407,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un fouet à scorpion est muni d'une série de lames aiguisées comme des rasoirs, placées à son extrémité. Contrairement aux fouets ordinaires, le fouet scorpion n'a pas le trait non létal, ce qui le rend plus mortel au combat mais moins efficace lorsque le manieur cherche à ramener ses ennemis vivants.&nbsp;</span></p>"
         },
         {
+            "id": "Bracers of Missile Deflection",
+            "name": "Bracers of Missile Deflection (Protège-bras de déviation de projectiles)",
+            "description": "<p><span>Ces protège-bras se composent de plaques de mithral solides qui étincellent comme un soleil d’été. <br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/Reaction.png\" alt=\"Reaction\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Une attaque d’arme à distance vous touche mais n’est pas un coup critique ; <strong>Conditions</strong> Vous êtes conscient de l’attaque et n’êtes pas pris au dépour‑ vu; <strong>Effet</strong> Les protège-bras dévient le projectile. Vous bénéficiez d’un bonus de circonstances de +2 à la CA contre l’attaque qui déclenche l’effet. Si ce bonus provoque l’échec de l’attaque, celle-ci vous rate</span></p>"
+        },
+        {
             "id": "Nectar of Purification",
             "name": "Nectar of Purification (Nectar de purification)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le nectar de purification est un liquide scintillant que l’on stocke gé‑ néralement dans une bouteille semblable à celles utilisées pour le vinaigre. Elle lance purifier la nourriture et la boisson niveau 1 sur la nourriture ou la boisson sur laquelle on la verse. Le nectar s’évapore en faisant effet, laissant intact la texture et le goût des denrées.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
@@ -1402,6 +1467,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces symboles canalisent les forces protectrices des plans élémen‑ taires. Vous bénéficiez d’une résistance 5 à l’acide, à l’électricité, au feu ou au froid. Le fabricant choisit le type de dégâts lorsqu’il créé la rune. On peut graver plusieurs runes de résistance à l’énergie sur une armure ; au lieu d’utiliser l’effet dont le niveau est le plus élevé, chacune doit fournir une résistance à un type de dégâts différent. Par exemple, une cuirasse de résistance au feu supérieure et de résistance à l’acide +2 vous confère une résistance à l’acide de 5 et une résistance au feu de 10. </span></p>"
         },
         {
+            "id": "Retribution Axe",
+            "name": "Retribution Axe (Hâche de représailles)",
+            "description": "<p><span>La lame de cette grande hache +1 est ornée d’un motif de crâne humain. Chaque fois qu’une créature vous blesse avec une attaque, le crâne change pour prendre l’apparence du visage de cette créature. Vous bénéficiez d’un bonus de circonstances de +2 à votre prochain jet de dégâts contre celle-ci avant la fin de votre prochain tour. Étant donné que le visage change d’aspect chaque fois que vous êtes blessé, vous infligez les dégâts supplémentaires uniquement si vous attaquez la créature qui vous a blessé le plus récemment.&nbsp;</span></p>"
+        },
+        {
             "id": "Tack",
             "name": "Tack (Sellerie)",
             "description": "<p><span class=\"fontstyle0\">La sellerie comprend tout le matériel nécessaire pour équiper une monture, dont une selle, un mors et une bride, ainsi que des étriers si nécessaire. Les animaux particulièrement gros ou de forme irrégulière peuvent nécessiter des selles spéciales. Elles peuvent être plus coûteuses ou difficiles à trouver, comme déterminé par le MJ. La valeur d’Encombrement indiquée correspond à une sellerie portée par une créature. Si vous la transportez vous-mêmes, l’Encombrement augmente à 2.</span></p>"
@@ -1425,6 +1495,11 @@
             "id": "Verdant Staff",
             "name": "Verdant Staff (Bâton verdoyant)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des feuilles poussent sur cette branche de chêne au printemps, elles changent de couleur en automne et tombent en hiver. Lorsque vous le maniez, vous bénéficiez d’un bonus de circonstances de +2 aux tests de Nature pour identifier des plantes.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  Lancer un sort; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</span></p>\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.uZK2BYzPnxUBnDjr]{Tanglefoot}</li>\n<li><strong>Niveau 1</strong> @Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]{Shillelagh} (can target the verdant staff)</li>\n<li><strong>Niveau 2</strong> @Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]{Barkskin}, @Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]{Entangle}, @Compendium[pf2e.spells-srd.CXICME10TkEJxz0P]{Shape Wood}, @Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Tree Shape}</li>\n</ul>"
+        },
+        {
+            "id": "Bleeding Spines Snare",
+            "name": "Bleeding Spines Snare (Piège artisanal à pointes barbelées)",
+            "description": "<p>Quand une créature entre dans la case, des pointes barbelées surgissent pour la transpercer en lui infligeant 8d8 dégâts perforants et 2d8 dégâts de saignement persistants. La créature doit faire un jet de Réflexes basique DD 31. Après le déclenchement initial, les pointes se rétractent et resurgissent pendant une minute, ce qui force les créatures qui entrent dans l’espace ou terminent leur tour dans celui-ci à faire un jet de Réflexes contre les dégâts des pointes</p>"
         },
         {
             "id": "Hemlock",
@@ -1617,6 +1692,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Du sang continue de perler au bout de ce long proboscis creux récupéré sur le célèbre cherchesang. Lorsque vous activez le bec, vous infligez 1d4 dégâts de précision supplémentaires lors de votre jet de dégâts. Si vous infligez des dégâts d’attaque sour‑ noise à la cible, elle subit également 1d4 dégâts de saignement persistants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous touchez une créature prise au dépourvu avec l’arme support. </span></p>"
         },
         {
+            "id": "Disintegration Bolt",
+            "name": "Disintegration Bolt (Carreau de désintégration)",
+            "description": "<p><span>Le fût de ce carreau est calciné et vous couvre les doigts d’une poussière noire dès que vous le saisissez. Quand un carreau de désintégration activé touche une cible, elle est soumise au sort désintégration et doit faire un jet de Vigueur DD 34. Comme avec le sort, un coup critique sur le jet d’attaque fait que le résultat du jet de sauvegarde de la cible est considéré comme d’un degré moins bon qu’en réalité<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/OneAction.png\" alt=\"Single Action\"> Interagir<br></span></p>\n<p><span><strong>Conditions de fabrication.</strong> Fournir une incantation de <em>désintégration</em>.</span></p>"
+        },
+        {
             "id": "Wounding",
             "name": "Wounding (Sanglante (rune))",
             "description": "<p>On raconte que les armes gravées d’une rune sanglante sont assoiffées de sang. Quand vous touchez une créature avec une arme sanglante, vous infli‑ gez 1d6 dégâts de saignement persistants supplémentaires. En cas de coup critique, l’arme inflige à la place 1d12 dégâts de saignement persistants.</p>"
@@ -1705,6 +1785,11 @@
             "id": "Alchemist's Tools",
             "name": "Alchemist's Tools (Outils d'alchimiste)",
             "description": "<p>Cette collection de fioles et de produits chimiques permet d’accomplir des tâches alchimiques simples.&nbsp;</p>"
+        },
+        {
+            "id": "Phylactery of Faithfulness",
+            "name": "Phylactery of Faithfulness (Phylactère du croyant)",
+            "description": "<p><span>Cette minuscule boîte contient un fragment de texte religieux consacré à une divinité en particulier. La boîte est attachée à un cordon de cuir, lui-même noué autour de votre tête en plaçant la boîte au milieu de votre front. Vous ne profitez pas des avantages que confère le phylactère si vous ne vouez aucun culte à la divinité affiliée. Le phylactère vous confère une sagesse toute religieuse qui se manifeste par un bonus d’objet de +2 aux tests de Religion. Juste avant que vous n’accomplissiez une action que la divinité du phylactère condamne, l’objet vous avertit de votre transgression potentielle pour que vous ayez l’occasion de changer d’avis<br /></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/OneAction.png\" alt=\"Single Action\" />  imaginer; <strong>Fréquence</strong> 1/joury; <strong>Effet</strong> Vous demandez conseil à propos d’un plan d’action particulier en bénéficiant des effets du sort augure @Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augury}.</span></p>"
         },
         {
             "id": "Wondrous Figurine (Jade Serpent)",
@@ -2022,6 +2107,11 @@
             "description": "<p>En buvant cette épaisse potion fortifiante, vous gagnez une résistance contre un type de dégâts pendant 1 h. &nbsp;</p>"
         },
         {
+            "id": "Lock (Simple)",
+            "name": "Lock (Simple) (Serrure (simple))",
+            "description": "<p><span class=\"fontstyle0\"> crocheter une serrure de qualité médiocre nécessite de réussir deux tests de Vol DD 15, une serrure simple requiert de réussir trois tests de Vol DD 20, une serrure intermédiaire exige quatre succès à DD 25, une bonne serrure cinq succès à DD 30 et une serrure supérieure six succès à DD 40.</p></span>"
+        },
+        {
             "id": "Hand of the Mage",
             "name": "Hand of the Mage (Main du mage)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette main d’elfe momifiée est accrochée à une chaîne en or, ses doigts tordus figés dans une position particulière. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">  sur ordre, imaginer; <strong>Effet</strong> Vous lancez manipulation à distance.</span></p>"
@@ -2247,6 +2337,11 @@
             "description": ""
         },
         {
+            "id": "Lock (Superior)",
+            "name": "Lock (Superior) (Serrure (Supérieure))",
+            "description": "<p><span class=\"fontstyle0\"> crocheter une serrure de qualité médiocre nécessite de réussir deux tests de Vol DD 15, une serrure simple requiert de réussir trois tests de Vol DD 20, une serrure intermédiaire exige quatre succès à DD 25, une bonne serrure cinq succès à DD 30 et une serrure supérieure six succès à DD 40.</p></span>"
+        },
+        {
             "id": "Necklace of Fireballs II",
             "name": "Necklace of Fireballs II (Collier à boules de feu II)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce collier de perles se compose d’une ficelle de chanvre sur laquelle sont enfilées des perles chatoyantes rouges. Quand il est activé, il apparaît brièvement sous sa véritable forme : une chaîne d’or ornée de sphères d’or attachées avec du fil fin.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Il existe toute une variété de colliers à boules de feu. Chacun a un DD du jet de Réflexes basique différent et se compose d’une combinaison de sphères qui infligent un montant de dégâts différent, comme indiqué pour chaque type de collier ci‑après. Quand toutes les perles ont été utilisées, le collier n’est plus qu’un morceau de ficelle en chanvre non magique. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Effet</strong>  Vous détachez une sphère du collier et celle‑ci commence à émettre une lueur orangée. Après avoir activé une sphère, si vous ou quelqu’un d’autre la lance (une action Interagir avec le trait à distance), elle explose comme une boule de feu là où elle retombe. Votre lancer peut placer le centre de la boule de feu où vous le souhaitez à 21 m ou moins de vous, mais le MJ peut vous demander de faire un jet d’attaque si le lancer est particulièrement difficile. Si personne ne lance la sphère avant le début de votre prochain tour, celle‑ci devient une perle rouge non magique.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Une à 8d6, une à 6d6, deux à 4d6 (DD 25)</span></p>"
@@ -2282,6 +2377,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces symboles canalisent les forces protectrices des plans élémen‑ taires. Vous bénéficiez d’une résistance 5 à l’acide, à l’électricité, au feu ou au froid. Le fabricant choisit le type de dégâts lorsqu’il créé la rune. On peut graver plusieurs runes de résistance à l’énergie sur une armure ; au lieu d’utiliser l’effet dont le niveau est le plus élevé, chacune doit fournir une résistance à un type de dégâts différent. Par exemple, une cuirasse de résistance au feu supérieure et de résistance à l’acide +2 vous confère une résistance à l’acide de 5 et une résistance au feu de 10. Supérieure : Vous bénéficiez d’une résistance 10 à un type de dégâts spécifique</span></p>"
         },
         {
+            "id": "Biting Snare",
+            "name": "Biting Snare (Piège artisanal à mâchoires)",
+            "description": "<p><span>Les mâchoires de ce piège se referment sur la jambe d’une créature qui pose le pied dessus. Elles infligent 5d6 dégâts perforants à la première créature qui entre dans la case ; celle-ci doit effectuer un jet de Réflexes DD 18.&nbsp;<br></span></p>\n<p><span><strong>Succès critique</strong>&nbsp; La créature n’est pas affectée.<br><strong>Succès</strong>&nbsp;La créature subit la moitié des dégâts.<br><strong>Echec</strong>&nbsp;La créature subit la totalité des dégâts.<br><strong>Echec critique</strong>&nbsp;La créature subit le double des dégâts et un malus de statut de −3 m à sa Vitesse jusqu’à ce qu’elle récupère au moins 1 point de vie&nbsp;</span></p>"
+        },
+        {
             "id": "Coral",
             "name": "Coral (Corail)",
             "description": ""
@@ -2297,6 +2397,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le symbole religieux de Torag, le dieu de la forge — un marteau orné de conception naine — pare la face avant de ce bouclier en acier (Solidité 6, 24 PV, SR 12). Le bouclier est un symbole religieux de Torag.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous et tous les alliés adjacents avez une résistance au feu 5 tant que vous levez le bouclier. Lorsqu’il est utilisé pour un Blocage au bou‑ clier, le gardien de la forge produit le son d’un coup de marteau contre une enclume et le symbole se met à luire comme si le feu d’une four‑ naise l’avait embrasé.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\" /> sur ordre (feu) ;  <strong>Déclencheur</strong> Vous utilisez le gardien de la forge pour Bloquer au bouclier l’attaque d’une créature adjacente et le bouclier subit des dégâts ; <strong>Effet</strong>  La créature attaquante subit 2d6 dégâts de feu.</span></p>"
         },
         {
+            "id": "Flame Tongue",
+            "name": "Flame Tongue (Épée ardente)",
+            "description": "<p><span>Cette épée longue enflammée de frappe supérieure +2 est dotée d’une garde de bronze ornée et d’une lame en forme de flammes stylisées. Quand vous la maniez, la lame émet une lumière scintillante semblable à celle d’un feu qui diffuse une lumière faible sur un rayon de 3 m.<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, Interagir; <strong>Effet</strong>Vous lancez le tour de magie flammes par le biais de l’épée comme un sort arcanique de niveau 7, en utilisant votre modificateur d’attaque au corps à corps en guise de modificateur d’attaque de sort avec l’épée ardente.</span></p>"
+        },
+        {
             "id": "Emerald",
             "name": "Emerald (Émeraude)",
             "description": ""
@@ -2305,6 +2410,11 @@
             "id": "Aligned Oil",
             "name": "Aligned Oil (Huile alignée)",
             "description": "<p>L’huile emplit une arme de la puissance cosmique d’un alignement. Chaque huile d’alignement est fabriquée avec l’un d’eux : chaos, mal, bien ou loi (par exemple une huile d’alignement bon). Une arme enduite de cette huile gagne l’effet de la rune de propriété associée à son alignement : anarchique (chaos), axiomatique (loi), sainte (bien) ou impie (mal). Cela dure 1 min.</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">  Interagir</span></p>"
+        },
+        {
+            "id": "Bracers of Missile Deflection (Greater)",
+            "name": "Bracers of Missile Deflection (Greater) (Protège-bras de déviation de projectiles (supérieurs))",
+            "description": "<p><span>Ces protège-bras se composent de plaques de mithral solides qui étincellent comme un soleil d’été. <br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/Reaction.png\" alt=\"Reaction\"> Interagir; <strong>Fréquence</strong> toutes les dix minutes; <strong>Déclencheur</strong> Une attaque d’arme à distance vous touche mais n’est pas un coup critique ; <strong>Conditions</strong> Vous êtes conscient de l’attaque et n’êtes pas pris au dépour‑ vu; <strong>Effet</strong> Les protège-bras dévient le projectile. Vous bénéficiez d’un bonus de circonstances de +2 à la CA contre l’attaque qui déclenche l’effet. Si ce bonus provoque l’échec de l’attaque, celle-ci vous rate</span></p>"
         },
         {
             "id": "Bottled Lightning (Greater)",
@@ -2395,6 +2505,11 @@
             "id": "Resilient",
             "name": "Resilient (Résilience (rune))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les runes de <em>résilience</em> confèrent aux armures une magie protectrice supplémentaire. Celle‑ci octroie au porteur de l’armure un bonus d’objet de +1 aux jets de sauvegarde. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez améliorer la rune de résilience déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes. </span></p>"
+        },
+        {
+            "id": "Fighter's Fork",
+            "name": "Fighter's Fork (Fourche de guerre)",
+            "description": "<p>Ce trident +1, le plus souvent orné d’un motif ornemental ressemblant à des écailles de poisson, est une arme courante chez les guerriers d’ascendance aquatique</p>\n<p>Interagir; <strong>Effet</strong> Vous augmentez ou diminuez la longueur du manche du trident. Quand vous l’augmentez, il faut manier le trident à deux mains et celui-ci obtient le trait allonge mais perd le trait de jet.&nbsp;</p>"
         },
         {
             "id": "Amethyst",
@@ -2527,9 +2642,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces bottes hautes aux extrémités pointues sont confection‑ nées dans du cuir souple et soyeux, noir ou vert, et ornées d’une élégante bordure et de boucles en or. Lorsque vous les portez, elles vous permettent d’augmenter l’agilité de vos mouvements, en vous conférant un bonus d’objet de +1 aux tests d’Acrobaties. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Fréquence</strong> 1/heure; <strong>Effet</strong>  Jusqu’à la fin de votre tour, vous ignorez les terrains difficiles quand vous vous déplacez sur le sol. Si vous portez une cape elfique, vous béné‑ ficiez également d’un bonus de statut de +1,50 m à votre Vitesse au sol jusqu’à la fin de votre tour. &nbsp;</span></p>"
         },
         {
+            "id": "Lock (Average)",
+            "name": "Lock (Average) (Serrure (Intermédiaire))",
+            "description": "<p><span class=\"fontstyle0\"> crocheter une serrure de qualité médiocre nécessite de réussir deux tests de Vol DD 15, une serrure simple requiert de réussir trois tests de Vol DD 20, une serrure intermédiaire exige quatre succès à DD 25, une bonne serrure cinq succès à DD 30 et une serrure supérieure six succès à DD 40.</p></span>"
+        },
+        {
             "id": "Glamered",
             "name": "Glamered (Mimétisme (rune))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">On peut changer l’aspect de cette armure d’une simple pensée.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> imaginer; <strong>Effet</strong>  Vous changez la forme et l’as‑ pect de cette armure pour qu’elle ressemble aux vêtements beaux ou ordinaires que vous imaginez. Les statistiques de l’armure ne changent pas. Seule une créature qui bénéficie d’une vision lucide ou d’un effet similaire peut tenter de discerner l’illusion contre un DD de 25.</span></p>"
+        },
+        {
+            "id": "Cassock of Devotion",
+            "name": "Cassock of Devotion (Soutane de dévotion)",
+            "description": "<p><span>Chaque soutane de dévotion est ornée de scènes associées aux domaines d’une divinité en particulier. Elle fait office de symbole religieux de cette divinité et il ne faut pas nécessairement la brandir pour l’utiliser comme tel. Vous bénéficiez d’un bonus d’objet de +2 aux tests de Religion et un bonus d’objet de +1 à la compétence divine de la divinité à laquelle la soutane est dédiée (comme indiqué en pages 437 à 440)<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Fréquence</strong>1/jour; <strong>Effet</strong> Vous gagnez 1 point de focalisation que vous pouvez dépenser uniquement pour lancer un sort de domaine de prêtre dont le domaine est associé à la divinité à laquelle la soutane est dédiée. Ce point de focalisation est perdu si vous ne le dépensez pas avant la fin de ce tour.<br></span></p>\n<p><span><strong>Conditions de fabrication</strong> Vous êtes un prêtre qui vénère la divinité à laquelle la soutane est dédiée.</span></p>"
         },
         {
             "id": "Manacles (Simple)",
@@ -2585,6 +2710,11 @@
             "id": "Collar of Empathy",
             "name": "Collar of Empathy (Collier d'empathie)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce joli collier de lanières de cuir entrelacées aux couleurs contrastées va de pair avec un bracelet de même composition. Quand vous portez et investissez le bracelet et que votre compagnon porte et investit le collier, la relation entre vous deux se renforce. Vous pouvez toujours ressentir les états émotionnels, les besoins et les désirs basiques de votre compagnon, et vice versa. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> imaginer; <strong>Effet</strong> Vous percevez par le biais des sens de votre compagnon animal, et non plus par les vôtres. Vous pouvez Maintenir l’activation. Vous n’êtes plus conscient de votre propre environnement tant que vous utilisez les sens de votre compagnon animal. En plus de l’utilité évidente de ce pouvoir lorsque vous êtes séparé de votre compagnon, il peut également vous permettre d’entendre des bruits, de sentir des odeurs et de percevoir d’autres stimulus que seuls les sens de votre compagnon peuvent percevoir et non les vôtres.</span></p>"
+        },
+        {
+            "id": "Eyes of the Eagle",
+            "name": "Eyes of the Eagle (Yeux d'aigle)",
+            "description": "<p><span>Ces lentilles de cristal ambré se posent sur vos yeux en s’ajustant à leur taille. Elles vous confèrent la vision nocturne et un bonus d’objet de +2 aux tests de Perception visuelle.&nbsp;</span></p>"
         },
         {
             "id": "Rations",
@@ -2722,6 +2852,11 @@
             "description": "Votre esprit devient limpide et rien n’entrave vos facultés intel‑ lectuelles, mais la matière physique vous semble éphémère.Le bonus est de +2 et la durée de 10 min."
         },
         {
+            "id": "Warning Snare",
+            "name": "Warning Snare (Piège artisanal avertisseur)",
+            "description": "<p>En vous servant d’éléments de votre environnement immédiat, vous reliez un composant bruyant à un fil de détente ou à une plaque de pression. Ce piège est comme un piège artisanal d’alarme mais le son léger qu’il produit est indiscernable du fond sonore. Vous pouvez entendre ce son tant que vous vous trouvez à 300 m ou moins du piège et que rien ne vous empêche de l’entendre. D’autres créatures à portée qui fouillent peuvent entendre le son si le résultat de leur test de Perception est supérieur ou égal à votre DD d’Artisanat</p>"
+        },
+        {
             "id": "Acid Flask (Greater)",
             "name": "Acid Flask (Greater) (Fiole d'acide (Supérieur))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide, les dégâts persistants et les dégâts d’éclaboussure d’acide indiqués.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +2 aux jets d’attaque. La fiole inflige 3d6 dégâts persistants d’acide et 3 dégâts d’éclaboussure d’acide.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Frapper</span></p>"
@@ -2740,6 +2875,11 @@
             "id": "Unholy",
             "name": "Unholy (Impie (rune))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une rune <em>impie</em> injecte de l’énergie fiélone dans l’arme gravée. Une arme avec cette rune inflige 1d6 dégâts mauvais supplémentaires quand elle touche une cible d’alignement bon. Si vous êtes d’alignement bon, vous êtes affaibli 2 tant que vous portez ou maniez cette arme. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong>  Vous ob‑ tenez un succès critique sur un jet d’attaque avec cette arme contre une créature d’alignement bon; <strong>Effet</strong> La cible subit un montant de dégâts de saignement persistants égal à 1d8 par dé de dégâts d’arme de l’arme gravée.</span></p>"
+        },
+        {
+            "id": "Bracers of Armor I",
+            "name": "Bracers of Armor I (Protège-bras d'armure I)",
+            "description": "<p><span>Ces protège-bras de cuir rigide vous confèrent un bonus d’objet de +1 à la CA et aux jets de sauvegarde, ainsi qu’un modificateur de Dextérité maximum de +5. Vous pouvez fixer des talismans sur des protège-bras d’armure comme s’ils étaient une armure légère&nbsp;</span></p>"
         },
         {
             "id": "Shield Spikes",
@@ -2802,6 +2942,11 @@
             "description": "<div><strong>Armure </strong>armure de cuir clouté </div>\n<div><strong>Armes</strong> dague, rapière, fronde avec 20 billes de fronde</div>\n<div><strong>Equipement</strong>  pack d’aventurier, bandoulière, </div>\n<div>instrument portatif, gaine</div>"
         },
         {
+            "id": "Robe of the Archmagi (Greater)",
+            "name": "Robe of the Archmagi (Greater) (Robe de l'archimage (supérieure))",
+            "description": "<p><spanDes motifs arcaniques ornés sont brodés au fil d’argent fin sur ces robes qui existent en trois couleurs différentes en fonction de l’alignement avec lequel chacune est harmonisée. Les robes harmonisées à l’alignement bon sont blanches, celles harmonisées à l’alignement neutre sont grises et celles harmonisées à l’alignement mauvais sont noires. Une robe d’alignement mauvais ou bon obtient le trait correspondant. Les robes profitent uniquement aux personnages capables de lancer des sorts arcaniques et dont l’alignement sur l’axe bon-mauvais correspond à celui de la robe. Si votre alignement ne correspond pas à celui de la robe ou si vous n’êtes pas un incantateur arcanique, vous êtes stupéfié 2 à la place tant que vous portez une robe d’archimage. Cet état est impossible à retirer tant que vous portez la robe.<br /></span></p>\n<p><span>Les robes sont des vêtements d’explorateur de résilience supérieure +2 qui confèrent un bonus de circonstances de +1 aux jets de sauvegarde contre les sorts arcaniques et une résistance 10 aux dégâts des sorts arcaniques. <br /></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/Reaction.png\" alt=\"Reaction\" /> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous pouvez activer la robe quand vous ou un allié à 9 m ou moins faites un jet de sauvegarde contre un sort arcanique ; <strong>Effet</strong>  la robe confère à vous ou à l’allié un succès au jet de sauvegarde déclencheur .</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> Vous êtes un incantateur arcanique.</span></p>"
+        },
+        {
             "id": "Antiplague (Lesser)",
             "name": "Antiplague (Lesser) (Antimaladie)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’antimaladie renforce les défenses du corps contre les maladies. Lorsque vous le buvez, vous recevez un bonus d’objet aux jets de Vigueur contre les maladies pendant 24 h. Cela s’applique aussi à vos jets de sauvegarde contre la progression d’une maladie.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +2.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activate</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interact</span></p>"
@@ -2825,6 +2970,11 @@
             "id": "Tent (Pavilion)",
             "name": "Tent (Pavilion) (Tente pour 4 personnes)",
             "description": ""
+        },
+        {
+            "id": "Pendant of the Occult",
+            "name": "Pendant of the Occult (Pendentif des sciences occultes)",
+            "description": "<p>Cette amulette en forme d’œil aux paupières ouvertes est creuse. Le creux contient le plus souvent un fragment de texte occulte. Lorsque vous portez le pendentif, vous bénéficiez d’un bonus d’objet de +1 aux tests d’Occultisme et vous pouvez lancer le tour de magie assistance divine comme un sort occulte inné&nbsp;</p>"
         },
         {
             "id": "Flail",
@@ -3072,6 +3222,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
         },
         {
+            "id": "Bracers of Armor III",
+            "name": "Bracers of Armor III (Protège-bras d'armure III)",
+            "description": "<p><span>Ces protège-bras de cuir rigide vous confèrent un bonus d’objet de +3 à la CA et aux jets de sauvegarde, ainsi qu’un modificateur de Dextérité maximum de +5. Vous pouvez fixer des talismans sur des protège-bras d’armure comme s’ils étaient une armure légère&nbsp;</span></p>"
+        },
+        {
             "id": "Scourge",
             "name": "Scourge (Fléau)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">cette arme consiste en une poignée de bois attachée à une boule ou à un cylindre à pointes au moyen d’une chaîne, d’une corde ou d’une\nlanière de cuir..&nbsp;</span></p>"
@@ -3227,6 +3382,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Il vous faut un laboratoire d’alchimie pour créer des objets alchimiques lors d’un intermède. Un laboratoire d’alchimie complet vous donne un bonus d’objet de +1 aux tests d’Artisanat pour fabriquer des objets alchimiques.&nbsp;</span></p>"
         },
         {
+            "id": "Third Eye",
+            "name": "Third Eye (Troisième oeil)",
+            "description": "<p><span></span>Quand vous l’investissez, cette couronne ornée et sa pierre précieuse incandescente fusionnent avec votre tête et prennent la forme d’un tatouage. Ceci vous confère une vision surnaturelle et vous permet de lire les auras. Personne à part vous ne peut manipuler le <em>troisième œil</em> tant que vous l’investissez. Vos sens améliorés et votre capacité à percevoir les auras émotionnelles vous confèrent un bonus d’objet de +3 aux tests de Perception.<br>Vous voyez de manière continue les auras magiques, comme avec une détection de la magie de niveau 9, sauf que vous voyez l’emplacement de toutes les auras à 9 m ou moins et pas simplement la plus puissante. Si vous effectuez l’action Chercher pour observer une créature dans votre champ de vision, vous percevez une aura qui vous informe sur son état de santé, notamment la totalité de ses états et afflictions et un pourcentage approximatif des points de vie qui lui restent<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/TwoActions.png\" alt=\"Two Actions\"> imaginer, sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Vous bénéficiez des effets d’une vision lucide de niveau 8. @Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{True Seeing}.</span></p>"
+        },
+        {
             "id": "Clothing (Ordinary)",
             "name": "Clothing (Ordinary) (Vêtements (ordinaire))",
             "description": "<p>Les vêtements ordinaires sont fonctionnels avec une confection de base, comme les vêtements de paysan, les robes de moine ou les vêtements de travail.</p>\n<p>&nbsp;</p>"
@@ -3327,6 +3487,11 @@
             "description": "<p>Vous n’avez plus besoin de manger ou de boire tant que vous investissez cette pierre d’éternité. Elle ne fonctionne pas tant que vous ne l’avez pas portée en permanence pendant une semaine, en l’ayant investie chaque jour de cette semaine. Si elle est investie par quelqu’un d’autre, il faut reprendre cette période depuis le début</p>\n<p>Le pouvoir de résonance vous permet de lancer @Compendium[pf2e.spells-srd.W69zswpj0Trdy5rj]{bulle d’air} comme un sort inné primordial une fois par jour. .&nbsp;</p>"
         },
         {
+            "id": "Instant Evisceration Snare",
+            "name": "Instant Evisceration Snare (Piège artisanal d'éviscération instantanée)",
+            "description": "<p><span>Quand une créature entre dans la case du piège artisanal, celui-ci déclenche un incroyable déluge de lames qui infligent 24d8 dégâts perforants (Réflexes basique DD 45).&nbsp;</span></p>"
+        },
+        {
             "id": "Blightburn Resin",
             "name": "Blightburn Resin (Résine de champibrûle)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette résine poisseuse solidifiée est recueillie sur des arbres contaminés par un champignon puis exposée à une flamme nue. <br><br><strong>Jet de sauvegarde</strong> Vigueur DD 31 ;<strong>Délai</strong>1 minute; <strong>Durée maximum </strong> 6 rounds; <strong>Stade 1</strong>  8d6 dégâts de poison (1 round); <strong>Stade 2</strong>  10d6 dégâts de poison (1 round) ; <strong>Stade 3</strong>  15d6 dégâts de poison (1 round)<br><br><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir&nbsp;</span></p>"
@@ -3395,6 +3560,11 @@
             "id": "Marking Snare",
             "name": "Marking Snare (Piège artisanal marqueur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce piège artisanal est souvent utilisé pour marquer les intrus afin de pouvoir les pister ou les identifier par la suite. Quand vous fa‑ briquez ce piège artisanal, vous devez décider si vous créez de la teinture ou une odeur en guise de marqueur. L’un ou l’autre de ces marqueurs confère un bonus de circonstances de +2 pour Pister la créature pendant un maximum de vingt‑quatre heures ou jusqu’à ce que la teinture ou l’odeur soit nettoyée (ce qui nécessite au moins cinq litres d’eau et dix minutes de récurage). Une créature qui entre dans une case contenant le piège artisanal doit faire un jet de Réflexes DD 17.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès</strong>&nbsp;La créature n’est pas affectée.<br><strong>Echec</strong>&nbsp;Le piège artisanal marque la créature.<br><strong>Échec critique</strong>&nbsp;Le piège marque la créature et celle‑ci est aveugle jusqu’à la fin de son prochain tour.&nbsp;</span></p>"
+        },
+        {
+            "id": "Robe of the Archmagi",
+            "name": "Robe of the Archmagi (Robe d'Archimage)",
+            "description": "<p><spanDes motifs arcaniques ornés sont brodés au fil d’argent fin sur ces robes qui existent en trois couleurs différentes en fonction de l’alignement avec lequel chacune est harmonisée. Les robes harmonisées à l’alignement bon sont blanches, celles harmonisées à l’alignement neutre sont grises et celles harmonisées à l’alignement mauvais sont noires. Une robe d’alignement mauvais ou bon obtient le trait correspondant. Les robes profitent uniquement aux personnages capables de lancer des sorts arcaniques et dont l’alignement sur l’axe bon-mauvais correspond à celui de la robe. Si votre alignement ne correspond pas à celui de la robe ou si vous n’êtes pas un incantateur arcanique, vous êtes stupéfié 2 à la place tant que vous portez une robe d’archimage. Cet état est impossible à retirer tant que vous portez la robe.<br /></span></p>\n<p><span>Les robes sont des vêtements d’explorateur de résilience supérieure +2 qui confèrent un bonus de circonstances de +1 aux jets de sauvegarde contre les sorts arcaniques et une résistance 5 aux dégâts des sorts arcaniques. <br /></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/Reaction.png\" alt=\"Reaction\" /> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous devez faire un jet de sauvegarde contre un sort arcanique mais vous n’avez pas encore lancé le dé ; <strong>Effet</strong>  Vous réussissez automatiquement votre jet de sauvegarde contre le sort arcanique déclencheur.</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> Vous êtes un incantateur arcanique.</span></p>"
         },
         {
             "id": "Gorget of the Primal Roar",
@@ -3473,13 +3643,18 @@
         },
         {
             "id": "Healing Potion (Minor)",
-            "name": "Healing Potion (Minor) (Potion de guérison)",
-            "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué. </p>"
+            "name": "Healing Potion (Minor) (Potion de guérison (Mineure))",
+            "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué. La potion rend 1d8 points de vie </p>"
         },
         {
             "id": "Graveroot",
             "name": "Graveroot (Racine des tombes)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La sève d’un blanc opaque de la racine des tombes embrume l’esprit.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong>  Vigueur DD 19; <strong>Durée maximum </strong> 4 rounds; <strong>Stade 1</strong>  1d10 dégâts de poison (1 round) ;  <strong>Stade 2</strong> 2 1d12 dégâts de poison et stupéfié 1 (1 round) ; <strong>Stade 3</strong>  2d6 dégâts de poison et stupéfié 2 (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
+        },
+        {
+            "id": "Lock (Good)",
+            "name": "Lock (Good) (Serrure (Bonne))",
+            "description": "<p><span class=\"fontstyle0\"> crocheter une serrure de qualité médiocre nécessite de réussir deux tests de Vol DD 15, une serrure simple requiert de réussir trois tests de Vol DD 20, une serrure intermédiaire exige quatre succès à DD 25, une bonne serrure cinq succès à DD 30 et une serrure supérieure six succès à DD 40.</p></span>"
         },
         {
             "id": "Cheetah's Elixir (Greater)",
@@ -3700,6 +3875,11 @@
             "id": "Moonlit Chain",
             "name": "Moonlit Chain (Maille lunaire)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette <em>chemise de mailles en argent +1</em> possède un col cousu d’images de la lune à ses différentes phases. Vous voyez au clair de lune comme si vous disposiez de vision nocturne.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" />&nbsp;Interagir;&nbsp;<strong>Fréquence</strong>&nbsp;1/j;&nbsp;<strong>Effet</strong>&nbsp;En touchant l’image de la nouvelle lune sur le col de l’armure, vous supprimez l’état ébloui pendant 1 min.&nbsp;<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>&nbsp;Les matériaux initiaux bruts doivent inclure 33 po d’argent.</span></p>"
+        },
+        {
+            "id": "Manacles (Superior)",
+            "name": "Manacles (Superior) (Menottes (Supérieures))",
+            "description": "<p><span class=\"fontstyle0\">vous pouvez menotter une personne volontaire ou à votre merci comme une activité d’exploration prenant 10 à 30 secondes, en fonction de la taille de la créature et du nombre de menottes que vous utilisez. Une créature bipède ayant ces membres attachés subit un malus de circonstance de –4,5 m à sa Vitesse, et une créature à deux mains ayant les poignets attachés doit réussir un test nu DD 5 chaque fois qu’elle utilise une action de manipulation ou que cette action échoue. Ce DD peut être plus élevé en fonction de la force avec laquelle les menottes contraignent les mains. Une créature attachée à un objet immobile est elle-même immobilisée. Dans le cas de créatures ayant plus ou moins de membres, le MJ détermine l’effet éventuel des menottes. Libérer une créature de menottes médiocres nécessite de réussir deux tests de Vol DD 17, des menottes simples exigent de leur côté trois succès DD 22, des menottes intermédiaires quatre succès DD 27, de bonnes menottes cinq succès DD 32 et des menottes supérieures six succès DD 42</span></p>"
         },
         {
             "id": "Armored Skirt",
@@ -4120,6 +4300,11 @@
             "id": "Wand of Smoldering Fireballs (7th-Level Spell)",
             "name": "Wand of Smoldering Fireballs (7th-Level Spell) (Baguette de boules de feu incendiaires (Sort de niveau 7))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette noircie et carbonisée émet une faible odeur de guano de chauve‑souris.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> 1/jour,  plus surcharger; <strong>Effet</strong> Vous lancez boule de feu  @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball} au niveau indiqué. Chaque créature qui rate son jet de sauvegarde subit des 3d6 de dégâts de feu persistants. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>boule de feu</em> du niveau approprié.</span></p>"
+        },
+        {
+            "id": "Frost Brand",
+            "name": "Frost Brand (Epée de givre)",
+            "description": "<p><span>La lame de cette épée à deux mains de froid supérieur et de frappe supérieure +2 ne semble composée que d’éclats de glace. L’épée de givre éteint automatiquement les feux non magiques dans une émanation de 6 m. Quand vous la maniez, vous bénéficiez d’une résistance au feu 5. <br></span></p>\n<p><span><strong>Activaionte</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, Interagir; <strong>Effet</strong> Vous brandissez l’<em>épée de givre</em> dans la zone d’un feu magique en cours et la lame tente de le contrer avec un modificateur de contre de +27. Si elle rate, elle ne peut pas retenter de contrer le même feu.&nbsp;</span></p>"
         },
         {
             "id": "Adamantine Ingot",

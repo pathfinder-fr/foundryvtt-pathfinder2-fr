@@ -29,7 +29,7 @@
         {
             "id": "Warrenbred Hobgoblin",
             "name": "Warrenbred Hobgoblin (Hobgobelin Terrierné)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancètres vivianet sous terre. Vos oreilles sont plus grandes que celles des autres hobgobelins et sensibles aux échos. Lorsque vous êtes sous terre, vous pouvez utiliser l'action Chercher pour repérer des créature non détectées dans une émanation de 9 m au lieu de 4,5 m. En plus, si vous obtenez un succès sur un test d'Acrobatie pour vous Faufiler, vous obtenez un succès critique à la place.&nbsp;</span></p>"
+            "description": "<p>Vos ancètres vivianet sous terre. Vos oreilles sont plus grandes que celles des autres hobgobelins et sensibles aux échos. Lorsque vous êtes sous terre, vous pouvez utiliser l'action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour repérer des créature @Compendium[pf2e.conditionspf2e.VRSef5y1LmL2Hkjf]{non détectées} dans une émanation de 9 m au lieu de 4,5 m. En plus, si vous obtenez un succès sur un test d'Acrobatie pour vous @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Faufiler}, vous obtenez un succès critique à la place.&nbsp;</p>"
         },
         {
             "id": "Runtboss Hobgoblin",
@@ -254,7 +254,7 @@
         {
             "id": "Skilled Heritage",
             "name": "Skilled Heritage (Héritage talentueux)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre sagacité vous permet d’être formé à de nombreuses compétences. Vous devenez qualifié dans une compétence de votre choix. Au niveau 5, vous atteignez le rang de maîtrise expert dans cette compétence.&nbsp;</span></p>"
+            "description": "<p>Votre sagacité vous permet d’être formé à de nombreuses compétences. Vous devenez qualifié dans une compétence de votre choix. Au niveau 5, vous atteignez le rang de maîtrise expert dans cette compétence.&nbsp;</p>"
         },
         {
             "id": "Sensate Gnome",
@@ -284,7 +284,7 @@
         {
             "id": "Elemental Heart Dwarf",
             "name": "Elemental Heart Dwarf (Nain Coeurélémentaire)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Que ce soit au travers d'un lien avec la forge de Torag, des azers du plan du Feu ou d'une autre source, vous pouvez exsuder une émanation d'énergie. Les nains Mbe’ke et Taralu du Mwangi pensent que cette ascendance est un don des dragons ou des esprits élémentaires. Choisissez un des types de dégâts suivants : acide, électricité, feu ou froid. Une fois choisi, il ne peut être modifié. Vous obtenez l'activité Émanation énergétique.</span></p>\n @Compendium[pf2e.actionspf2e.7qjfYsLNTr17Aftf]{Émanation énergétique}"
+            "description": "<p>Que ce soit au travers d'un lien avec la forge de @Compendium[pf2e.deities.sZrdzh0ANQnZGXJb]{Torag}, des azers du plan du Feu ou d'une autre source, vous pouvez exsuder une émanation d'énergie. Les nains Mbe’ke et Taralu du Mwangi pensent que cette ascendance est un don des dragons ou des esprits élémentaires. Choisissez un des types de dégâts suivants : acide, électricité, feu ou froid. Une fois choisi, il ne peut être modifié. Vous obtenez l'activité @Compendium[pf2e.actionspf2e.7qjfYsLNTr17Aftf]{Émanation énergétique}.</p>"
         },
         {
             "id": "Wetlander Lizardfolk",
