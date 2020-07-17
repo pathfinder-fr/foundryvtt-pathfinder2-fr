@@ -31,8 +31,10 @@ def getValue(obj, path, exitOnError = True):
   elif isinstance(element, int):
     return "%02d" % element
   elif isinstance(element, list):
-    if len(element) != 1:
-      print("List has more than 1 element! %s" % element)
+    if len(element) == 0:
+      return None
+    if len(element) > 1:
+      print("List has more than 1 element for '%s'! %s" % (element, path))
       exit(1)
     return element[0]
   elif element.isdigit():
