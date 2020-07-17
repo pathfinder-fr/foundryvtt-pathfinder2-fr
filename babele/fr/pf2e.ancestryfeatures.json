@@ -94,12 +94,17 @@
         {
             "id": "Keen Eyes",
             "name": "Yeux perçants",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre vue perçante vous permet de distinguer des détails concernant des créatures masquées ou invisibles que d’autres pourraient ne pas remarquer. Vous gagnez un bonus de circonstances de +2 quand vous utilisez l’action Chercher pour trouver des créatures cachées ou non détectées dans un rayon de 9 m autour de vous. Quand vous prenez pour cible un adversaire masqué ou caché, réduisez le DD du test nu à 3 pour une cible masquée ou à 9 pour une cible cachée.&nbsp;</span></p>"
+            "description": "<p><span>Votre vue perçante vous permet de distinguer des détails concernant des créatures masquées ou invisibles que d’autres pourraient ne pas remarquer. Vous gagnez un bonus de circonstances de +2 quand vous utilisez l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour trouver des créatures @Compendium[pf2e.conditionspf2e.iU0fEDdBp3rXpTMC]{cachées} ou @Compendium[pf2e.conditionspf2e.VRSef5y1LmL2Hkjf]{non détectées} dans un rayon de 9 m autour de vous. Quand vous prenez pour cible un adversaire @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{masqué} ou @Compendium[pf2e.conditionspf2e.iU0fEDdBp3rXpTMC]{caché}, réduisez le DD du test nu à 3 pour une cible masquée ou à 9 pour une cible cachée.&nbsp;</span></p>"
         },
         {
             "id": "Hillock Halfling",
             "name": "Halfelin des collines",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Habitué à la vie calme des collines, vous tirez un bénéfice particulièrement important du repos et de la relaxation, notamment quand vous profitez des joies du confort matériel. Quand vous regagnez des points de vie pendant la nuit, ajoutez-y votre niveau. Quand quelqu’un fait appel à la compétence Médecine pour Soigner vos blessures, vous pouvez manger un en-cas pour ajouter votre niveau à la quantité de points de vie que vous gagnez grâce à ces soins.&nbsp;</span></p>"
+        },
+        {
+            "id": "Blunt Snout",
+            "name": "Museau court",
+            "description": "<p>Votre museau court et le système labyrinthique de vos sinus vous rendent résistant aux phénomènes qui assaillent vos narines. Lorsque vous lancez un jet de sauvegarde contre les menaces inhalées (comme les poisons inhalés) et les effets olfactifs (comme la puanteur des xulgath), vous obtenez un degrée de réussite de mieux que le résultat obtenu sur votre jet de sauvegarde.</p>"
         },
         {
             "id": "Vine Leshy",

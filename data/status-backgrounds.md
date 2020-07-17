@@ -1,10 +1,11 @@
 # État de la traduction (backgrounds)
 
- * **aucune**: 108
+ * **aucune**: 117
  * **changé**: 44
+ * **libre**: 1
 
 
-Dernière mise à jour: 2020-07-12 09:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-17 15:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -16,6 +17,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[1zyrJ5dQPKedoSfP.htm](backgrounds/1zyrJ5dQPKedoSfP.htm)|Razmiran Faithful|
 |[2PfqXmTTdwWAJNoc.htm](backgrounds/2PfqXmTTdwWAJNoc.htm)|Diobel Pearl Diver|
 |[3w6cSTa3Zc4z2ygu.htm](backgrounds/3w6cSTa3Zc4z2ygu.htm)|Aspiring River Monarch|
+|[4cYU0lSu5lDM9Qfc.htm](backgrounds/4cYU0lSu5lDM9Qfc.htm)|Harbor Guard Moonlighter|
 |[5DnDnoSyyd1UPyRV.htm](backgrounds/5DnDnoSyyd1UPyRV.htm)|Touched by Dahak|
 |[5KrCZHHMZmaM3FUl.htm](backgrounds/5KrCZHHMZmaM3FUl.htm)|Child of the Puddles|
 |[5PsnYGatgMEYy9xH.htm](backgrounds/5PsnYGatgMEYy9xH.htm)|Cursed Family|
@@ -30,6 +32,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9d5Mo7qNSpDyKWzY.htm](backgrounds/9d5Mo7qNSpDyKWzY.htm)|Finadar Leshy|
 |[aiiZdNhGey0Ov8Lb.htm](backgrounds/aiiZdNhGey0Ov8Lb.htm)|Tapestry Refugee|
 |[At7nhCMEu2i2bKj9.htm](backgrounds/At7nhCMEu2i2bKj9.htm)|Shoanti Name Bearer|
+|[BtTJJZ84ffpYHebV.htm](backgrounds/BtTJJZ84ffpYHebV.htm)|Post Guard of All Trades|
 |[c4Gcdcz5vDOc5NCk.htm](backgrounds/c4Gcdcz5vDOc5NCk.htm)|Quick|
 |[CMswLSRLQ72tbu0u.htm](backgrounds/CMswLSRLQ72tbu0u.htm)|Geb Crusader|
 |[dPjFZlQG4dg13irs.htm](backgrounds/dPjFZlQG4dg13irs.htm)|Savior of Air|
@@ -41,6 +44,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[EZ8J6yKeCICf6Oi7.htm](backgrounds/EZ8J6yKeCICf6Oi7.htm)|Lumber Consortium Laborer|
 |[FA6ADIwZ0IV1LZv1.htm](backgrounds/FA6ADIwZ0IV1LZv1.htm)|Circus Born|
 |[fAibW4s5hrHEaLrT.htm](backgrounds/fAibW4s5hrHEaLrT.htm)|Child of Westcrown|
+|[FjIDq4tzApEUhAeQ.htm](backgrounds/FjIDq4tzApEUhAeQ.htm)|Learned Guard Prodigy|
 |[G2o8mCXdYKl1tbXP.htm](backgrounds/G2o8mCXdYKl1tbXP.htm)|Desert Tracker|
 |[G4akDE6k0GpQ3dpD.htm](backgrounds/G4akDE6k0GpQ3dpD.htm)|Hermean Heritor|
 |[gad0K8Kvxk4auPwM.htm](backgrounds/gad0K8Kvxk4auPwM.htm)|Faction Opportunist|
@@ -50,6 +54,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[gGHi0N5bZNbGbxB4.htm](backgrounds/gGHi0N5bZNbGbxB4.htm)|Teamster|
 |[Gj9PhLYrZCQxvuwh.htm](backgrounds/Gj9PhLYrZCQxvuwh.htm)|Perfection Seeker|
 |[gpB6yH1lvLiU03eJ.htm](backgrounds/gpB6yH1lvLiU03eJ.htm)|Early Explorer|
+|[gRh3Scs2RvtJM8wq.htm](backgrounds/gRh3Scs2RvtJM8wq.htm)|Undercover Lotus Guard|
 |[H1tJhj6ZbkLxmK8a.htm](backgrounds/H1tJhj6ZbkLxmK8a.htm)|Rivethun Adherent|
 |[H1yku00yjYxnNU3p.htm](backgrounds/H1yku00yjYxnNU3p.htm)|Aspiring Free Captain|
 |[H859zofQzmGngQ2d.htm](backgrounds/H859zofQzmGngQ2d.htm)|Pathfinder Hopeful|
@@ -66,7 +71,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[JNSg5UvBKdIgLNJ6.htm](backgrounds/JNSg5UvBKdIgLNJ6.htm)|Issian Partisan|
 |[JV5GjNjPuFWyTbw0.htm](backgrounds/JV5GjNjPuFWyTbw0.htm)|Wonder Taster|
 |[K12klGJogLLgGLIw.htm](backgrounds/K12klGJogLLgGLIw.htm)|Whispering Way Scion|
+|[KbPsIOy2v6c7H87i.htm](backgrounds/KbPsIOy2v6c7H87i.htm)|Political Scion|
 |[kH8lJq7NCoMlyOUj.htm](backgrounds/kH8lJq7NCoMlyOUj.htm)|Clown|
+|[KUcgqmbOnKiNdKru.htm](backgrounds/KUcgqmbOnKiNdKru.htm)|Grizzled Muckrucker|
+|[l1yFuSDrHiylStW1.htm](backgrounds/l1yFuSDrHiylStW1.htm)|Sally Guard Neophyte|
 |[lMF9dnqUeCDED0TG.htm](backgrounds/lMF9dnqUeCDED0TG.htm)|Animal Wrangler|
 |[LPZmM7UnWddi80gB.htm](backgrounds/LPZmM7UnWddi80gB.htm)|Mystic Seer|
 |[MgMERnqmXRZcXHLH.htm](backgrounds/MgMERnqmXRZcXHLH.htm)|Demon Slayer|
@@ -87,6 +95,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[psz1WHMGUNFOPG37.htm](backgrounds/psz1WHMGUNFOPG37.htm)|Sodden Scavenger|
 |[pvqejr2ADrs9EoBM.htm](backgrounds/pvqejr2ADrs9EoBM.htm)|Molthuni Mercenary|
 |[q0hK6ih6h42fL4yD.htm](backgrounds/q0hK6ih6h42fL4yD.htm)|Shory Seeker|
+|[qHj5VrGgd0Gze9LL.htm](backgrounds/qHj5VrGgd0Gze9LL.htm)|Sleepless Suns Star|
 |[qhY96No3S3ulObtQ.htm](backgrounds/qhY96No3S3ulObtQ.htm)|Goblinblood Orphan|
 |[QjEpaKn5x9INfcfY.htm](backgrounds/QjEpaKn5x9INfcfY.htm)|Atteran Rancher|
 |[Rc2l1j73EC2hPmUA.htm](backgrounds/Rc2l1j73EC2hPmUA.htm)|Refugee|
@@ -97,7 +106,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[shwAcaWydDHBqR1X.htm](backgrounds/shwAcaWydDHBqR1X.htm)|Osirionologist|
 |[skqghxn3svID1dyU.htm](backgrounds/skqghxn3svID1dyU.htm)|Bright Lion|
 |[T6nf9vQKWzHui59P.htm](backgrounds/T6nf9vQKWzHui59P.htm)|Lost and Alone|
+|[Ta0rSeD79D62uXy2.htm](backgrounds/Ta0rSeD79D62uXy2.htm)|Godless Graycloack|
 |[TDmwsOqt37L35nx6.htm](backgrounds/TDmwsOqt37L35nx6.htm)|Former Aspis Agent|
+|[tkA82BeDl8NJO8nF.htm](backgrounds/tkA82BeDl8NJO8nF.htm)|Ex-Con Token Guard|
 |[Tqyybb0eKpwRHYwj.htm](backgrounds/Tqyybb0eKpwRHYwj.htm)|Magaambya Academic|
 |[TtRmN9qYJnqbrfeV.htm](backgrounds/TtRmN9qYJnqbrfeV.htm)|Scholar of the Ancients|
 |[u13zJhBdawMYLGTk.htm](backgrounds/u13zJhBdawMYLGTk.htm)|Storm Survivor|
@@ -117,7 +128,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[XnDdzNHhA17xRZ22.htm](backgrounds/XnDdzNHhA17xRZ22.htm)|Purveyor of the Bizzare|
 |[y6Df6HCrzc5kuLAJ.htm](backgrounds/y6Df6HCrzc5kuLAJ.htm)|Alkenstar Tinker|
 |[y9fqolddlRWRQsWl.htm](backgrounds/y9fqolddlRWRQsWl.htm)|Kyonin Emissary|
-|[YS8l22rXhnLnyBqb.htm](backgrounds/YS8l22rXhnLnyBqb.htm)|Bonuwat Wavetouched|
 |[YYGaSpcfC3XBnyg1.htm](backgrounds/YYGaSpcfC3XBnyg1.htm)|Vidrian Reformer|
 
 ## Liste des traductions complétés
@@ -168,3 +178,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[y73tZ9iU3w84NrIG.htm](backgrounds/y73tZ9iU3w84NrIG.htm)|Dragon Scholar|Spécialiste des dragons|changé|
 |[yikXQI2YVWcmGV2N.htm](backgrounds/yikXQI2YVWcmGV2N.htm)|Acrobat|Acrobate|changé|
 |[yphbsrQe9KmQefU9.htm](backgrounds/yphbsrQe9KmQefU9.htm)|Emissary|Émissaire|changé|
+|[YS8l22rXhnLnyBqb.htm](backgrounds/YS8l22rXhnLnyBqb.htm)|Bonuwat Wavetouched|Bonuwat Touché par les vagues|libre|

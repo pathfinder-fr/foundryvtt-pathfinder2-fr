@@ -1,13 +1,21 @@
 # État de la traduction (actions)
 
- * **officielle**: 30
- * **changé**: 85
- * **libre**: 1
+ * **officielle**: 40
+ * **changé**: 74
+ * **aucune**: 2
+ * **libre**: 2
 
 
-Dernière mise à jour: 2020-07-12 09:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-17 15:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[7N5hR1oJ2bH8W5xH.htm](actions/7N5hR1oJ2bH8W5xH.htm)|Call Upon the Brightness|
+|[OSefkMgojBLqmRDh.htm](actions/OSefkMgojBLqmRDh.htm)|Refocus|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -49,7 +57,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[d9gbpiQjChYDYA2L.htm](actions/d9gbpiQjChYDYA2L.htm)|Decipher Writing|Déchiffrer un texte|changé|
 |[DCb62iCBrJXy0Ik6.htm](actions/DCb62iCBrJXy0Ik6.htm)|Request|Solliciter|changé|
 |[dLgAMt3TbkmLkUqE.htm](actions/dLgAMt3TbkmLkUqE.htm)|Ready|Préparer|officielle|
-|[Dt6B1slsBy8ipJu9.htm](actions/Dt6B1slsBy8ipJu9.htm)|Disarm|Désarmer|officielle|
+|[Dt6B1slsBy8ipJu9.htm](actions/Dt6B1slsBy8ipJu9.htm)|Disarm|Désarmer|changé|
 |[DXIZ4DHGxhZiWNWb.htm](actions/DXIZ4DHGxhZiWNWb.htm)|Long Term Rest|Repos long|officielle|
 |[EA5vuSgJfiHH7plD.htm](actions/EA5vuSgJfiHH7plD.htm)|Track|Pister|changé|
 |[EAP98XaChJEbgKcK.htm](actions/EAP98XaChJEbgKcK.htm)|Retributive Strike|Frappe punitive|changé|
@@ -89,7 +97,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[plBGdZhqq5JBl1D8.htm](actions/plBGdZhqq5JBl1D8.htm)|Gather Information|Recueillir des informations|changé|
 |[PM5jvValFkbFH3TV.htm](actions/PM5jvValFkbFH3TV.htm)|Mount|Se mettre en selle|changé|
 |[PMbdMWc2QroouFGD.htm](actions/PMbdMWc2QroouFGD.htm)|Grapple|Saisir|changé|
-|[pprgrYQ1QnIDGZiy.htm](actions/pprgrYQ1QnIDGZiy.htm)|Climb|Escalader|officielle|
+|[pprgrYQ1QnIDGZiy.htm](actions/pprgrYQ1QnIDGZiy.htm)|Climb|Escalader|changé|
 |[pvQ5rY2zrtPI614F.htm](actions/pvQ5rY2zrtPI614F.htm)|Interact|Interagir|officielle|
 |[Q4kdWVOf2ztIBFg1.htm](actions/Q4kdWVOf2ztIBFg1.htm)|Identify Alchemy|Identifier l'alchimie|changé|
 |[Q5iIYCFdqJFM31GW.htm](actions/Q5iIYCFdqJFM31GW.htm)|Learn a Spell|Apprendre un sort|changé|
@@ -106,25 +114,25 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[SB7cMECVtE06kByk.htm](actions/SB7cMECVtE06kByk.htm)|Cover Tracks|Dissimuler des traces|changé|
 |[SeUolRoPzorFUAaI.htm](actions/SeUolRoPzorFUAaI.htm)|Recall Knowledge (Medicine)|Se souvenir (Médecine)|changé|
 |[SjmKHgI7a5Z9JzBx.htm](actions/SjmKHgI7a5Z9JzBx.htm)|Force Open|Ouvrir de force|officielle|
-|[SkZAQRkLLkmBQNB9.htm](actions/SkZAQRkLLkmBQNB9.htm)|Escape|S'échapper|changé|
-|[sn2hIy1iIJX9Vpgj.htm](actions/sn2hIy1iIJX9Vpgj.htm)|Point Out|Signaler|changé|
+|[SkZAQRkLLkmBQNB9.htm](actions/SkZAQRkLLkmBQNB9.htm)|Escape|S'échapper|officielle|
+|[sn2hIy1iIJX9Vpgj.htm](actions/sn2hIy1iIJX9Vpgj.htm)|Point Out|Signaler|officielle|
 |[TC7OcDa7JlWbqMaN.htm](actions/TC7OcDa7JlWbqMaN.htm)|Treat Disease|Soigner une maladie|officielle|
 |[tfa4Sh7wcxCEqL29.htm](actions/tfa4Sh7wcxCEqL29.htm)|Follow the Expert|Suivre l'expert|officielle|
-|[tHCqgwjtQtzNqVvd.htm](actions/tHCqgwjtQtzNqVvd.htm)|Coerce|Contraindre|changé|
+|[tHCqgwjtQtzNqVvd.htm](actions/tHCqgwjtQtzNqVvd.htm)|Coerce|Contraindre|officielle|
 |[TiNDYUGlMmxzxBYU.htm](actions/TiNDYUGlMmxzxBYU.htm)|Search|Fouiller|officielle|
-|[Tj055UcNm6UEgtCg.htm](actions/Tj055UcNm6UEgtCg.htm)|Crawl|Ramper|changé|
-|[tuZnRWHixLArvaIf.htm](actions/tuZnRWHixLArvaIf.htm)|Glimpse of Redemption|Lueur de rédemption|changé|
+|[Tj055UcNm6UEgtCg.htm](actions/Tj055UcNm6UEgtCg.htm)|Crawl|Ramper|officielle|
+|[tuZnRWHixLArvaIf.htm](actions/tuZnRWHixLArvaIf.htm)|Glimpse of Redemption|Lueur de rédemption|officielle|
 |[UAaQk93a30nx0nYY.htm](actions/UAaQk93a30nx0nYY.htm)|Affix a Talisman|Fixer un talisman|officielle|
-|[UHpkTuCtyaPqiCAB.htm](actions/UHpkTuCtyaPqiCAB.htm)|Step|Faire un pas|changé|
-|[ust1jJSCZQUhBZIz.htm](actions/ust1jJSCZQUhBZIz.htm)|Take Cover|Mise à l'abri|officielle|
+|[UHpkTuCtyaPqiCAB.htm](actions/UHpkTuCtyaPqiCAB.htm)|Step|Faire un pas|officielle|
+|[ust1jJSCZQUhBZIz.htm](actions/ust1jJSCZQUhBZIz.htm)|Take Cover|Mise à l'abri|changé|
 |[UWdRX1VelipCzrCg.htm](actions/UWdRX1VelipCzrCg.htm)|Avert Gaze|Détourner le regard|officielle|
-|[v82XtjAVN4ffgVVR.htm](actions/v82XtjAVN4ffgVVR.htm)|Drain Bonded Item|Drain d'objet lié|changé|
-|[VjxZFuUXrCU94MWR.htm](actions/VjxZFuUXrCU94MWR.htm)|Strike|Frapper|changé|
-|[VMozDqMMuK5kpoX4.htm](actions/VMozDqMMuK5kpoX4.htm)|Sneak|Être furtif|changé|
-|[W4M8L9WepGLamlHs.htm](actions/W4M8L9WepGLamlHs.htm)|Threatening Approach|Approche menaçante|changé|
+|[v82XtjAVN4ffgVVR.htm](actions/v82XtjAVN4ffgVVR.htm)|Drain Bonded Item|Drain d'objet lié|officielle|
+|[VjxZFuUXrCU94MWR.htm](actions/VjxZFuUXrCU94MWR.htm)|Strike|Frapper|officielle|
+|[VMozDqMMuK5kpoX4.htm](actions/VMozDqMMuK5kpoX4.htm)|Sneak|Être furtif|officielle|
+|[W4M8L9WepGLamlHs.htm](actions/W4M8L9WepGLamlHs.htm)|Threatening Approach|Approche menaçante|libre|
 |[wQYmDStjdjn0I26t.htm](actions/wQYmDStjdjn0I26t.htm)|Release|Relâcher|officielle|
-|[xjGwis0uaC2305pm.htm](actions/xjGwis0uaC2305pm.htm)|Raise a Shield|Lever un bouclier|changé|
-|[XMcnh4cSI32tljXa.htm](actions/XMcnh4cSI32tljXa.htm)|Hide|Se cacher|changé|
-|[XSGlLjI80LDCimAP.htm](actions/XSGlLjI80LDCimAP.htm)|Sustain an Activation|Maintenir une activation|changé|
+|[xjGwis0uaC2305pm.htm](actions/xjGwis0uaC2305pm.htm)|Raise a Shield|Lever un bouclier|officielle|
+|[XMcnh4cSI32tljXa.htm](actions/XMcnh4cSI32tljXa.htm)|Hide|Se cacher|officielle|
+|[XSGlLjI80LDCimAP.htm](actions/XSGlLjI80LDCimAP.htm)|Sustain an Activation|Maintenir une activation|officielle|
 |[Yb0C1uLzeHrVLl7a.htm](actions/Yb0C1uLzeHrVLl7a.htm)|Detect Magic|Détection de la magie|officielle|
-|[yzNJgwzV9XqEhKc6.htm](actions/yzNJgwzV9XqEhKc6.htm)|Quick Alchemy|Alchimie rapide|changé|
+|[yzNJgwzV9XqEhKc6.htm](actions/yzNJgwzV9XqEhKc6.htm)|Quick Alchemy|Alchimie rapide|officielle|

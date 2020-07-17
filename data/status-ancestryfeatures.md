@@ -1,25 +1,18 @@
 # État de la traduction (ancestryfeatures)
 
- * **changé**: 60
- * **libre**: 2
- * **aucune**: 1
- * **officielle**: 1
+ * **officielle**: 2
+ * **libre**: 3
+ * **changé**: 59
 
 
-Dernière mise à jour: 2020-07-12 09:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-17 15:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[feat-01-dtNsRAhCRfteA1ev.htm](ancestryfeatures/feat-01-dtNsRAhCRfteA1ev.htm)|Blunt Snout|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[feat-00-y1EmCv2cEb5hXBwx.htm](ancestryfeatures/feat-00-y1EmCv2cEb5hXBwx.htm)|Keen Eyes|Yeux perçants|changé|
+|[feat-00-y1EmCv2cEb5hXBwx.htm](ancestryfeatures/feat-00-y1EmCv2cEb5hXBwx.htm)|Keen Eyes|Yeux perçants|officielle|
 |[feat-01-0vaeOoECfVD5EGbq.htm](ancestryfeatures/feat-01-0vaeOoECfVD5EGbq.htm)|Warrenbred Hobgoblin|Hobgobelin Terrierné|libre|
 |[feat-01-1dYDucCIaZpCJqBc.htm](ancestryfeatures/feat-01-1dYDucCIaZpCJqBc.htm)|Arctic Elf|Elfe arctique|changé|
 |[feat-01-1wVDYY9Wue0G5R9Q.htm](ancestryfeatures/feat-01-1wVDYY9Wue0G5R9Q.htm)|Whisper Elf|Elfe des murmures|changé|
@@ -39,6 +32,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-dJeiekfqGQ8dkwsO.htm](ancestryfeatures/feat-01-dJeiekfqGQ8dkwsO.htm)|Wetlander Lizardfolk|Homme-lézard des terres humides|changé|
 |[feat-01-dQqurQys37aJYb26.htm](ancestryfeatures/feat-01-dQqurQys37aJYb26.htm)|Leaf Leshy|Léchi feuillu|changé|
 |[feat-01-DRtaqOHXTRtGRIUT.htm](ancestryfeatures/feat-01-DRtaqOHXTRtGRIUT.htm)|Low-Light Vision|Vision nocturne|changé|
+|[feat-01-dtNsRAhCRfteA1ev.htm](ancestryfeatures/feat-01-dtNsRAhCRfteA1ev.htm)|Blunt Snout|Museau court|libre|
 |[feat-01-EEvA4uj8h3zDiAfP.htm](ancestryfeatures/feat-01-EEvA4uj8h3zDiAfP.htm)|Treedweller Goblin|Gobelin habitant des arbres|changé|
 |[feat-01-Eq42wZ5OTweJLnLU.htm](ancestryfeatures/feat-01-Eq42wZ5OTweJLnLU.htm)|Gutsy Halfling|Halfelin flegmatique|changé|
 |[feat-01-etkuQkjkNLPLnjkA.htm](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Wellspring Gnome|Gnome source|changé|

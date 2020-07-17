@@ -1,10 +1,9 @@
 # État de la traduction (classes)
 
- * **changé**: 11
- * **officielle**: 1
+ * **changé**: 12
 
 
-Dernière mise à jour: 2020-07-12 09:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-17 15:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -14,7 +13,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6M4DO9lY25F8n6Li.htm](classes/6M4DO9lY25F8n6Li.htm)|Rogue|Roublard|changé|
 |[8KGkzwIFYFHAdw2H.htm](classes/8KGkzwIFYFHAdw2H.htm)|Monk|Moine|changé|
 |[8l1uexxIX7m6LUUv.htm](classes/8l1uexxIX7m6LUUv.htm)|Bard|Barde|changé|
-|[Hp9n82T1VdG5fb9e.htm](classes/Hp9n82T1VdG5fb9e.htm)|Barbarian|Barbare|officielle|
+|[Hp9n82T1VdG5fb9e.htm](classes/Hp9n82T1VdG5fb9e.htm)|Barbarian|Barbare|changé|
 |[JSkS9iLsebH2HUSY.htm](classes/JSkS9iLsebH2HUSY.htm)|Druid|Druide|changé|
 |[O6rpIOJQM78U9eyU.htm](classes/O6rpIOJQM78U9eyU.htm)|Wizard|Magicien|changé|
 |[Oia1kqkF4KwdVVaw.htm](classes/Oia1kqkF4KwdVVaw.htm)|Cleric|Prêtre|changé|

@@ -3327,6 +3327,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en fer froid ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La targe a une Solidité de 5, 20 PV et un SR de 10..<br><strong>Conditions de fabrication</strong> au moins 375 pa de fer froid&nbsp;</span></p>"
         },
         {
+            "id": "Abadar's Flawless Scale",
+            "name": "Balance sans défaut d'Abadar (Abadar's Flawless Scale)",
+            "description": "<p><span>Cette balance de marchand dorée immaculée est considérée comme un instrument divin parmi les fidèles les plus croyants d'Abadar. Contrairement à la plupart des balances, celle-ci n'a qu'un unique plateau pour placer de petits objets et calculer leur valeur plutôt que leur poids. de l'autre côté de l'aiguille, une flèche d'acier indique de sa pointe plusieurs nombres gravés sur le côté de la balance. En plaçant un object d'Encombrement léger sur le plateau, vous pouvez déterminer sa valeur en pièces d'or sur le marché pour lequel la balance a été faite (la plupart de ces balances sont fabriquées au Katapesh ou à Absalom), en fonction de sa composition et de la qualité de sa fabrication. Par example, après avoir placé une gemme sur le plateau, la balance indiquera le prix convenable (prix moyen, dans la plupart des cas) que vous pouvez attendre d'en tirer sur le marché auquel la balance est calibrée mais la balance ne pourra jamais prendre en compte son éventuelle signification historique ou ses propriétés magiques. <em>La balance sans défaut d'Abadar</em> peut être recalibrée sur un marché différent en accomplissant un rituel d'une heure à proximité de ce marché.&nbsp;</span></p>"
+        },
+        {
             "id": "Material Component Pouch",
             "name": "Bourse de composants matériels (Material Component Pouch)",
             "description": "<p>Cette bourse contient des composants matériels pour les sorts qui les requièrent. Ces composants s’épuisent au fil du temps, mais vous pouvez en recharger le stock au cours de vos préparatifs quotidiens.</p>"

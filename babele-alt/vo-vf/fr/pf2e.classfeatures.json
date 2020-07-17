@@ -868,7 +868,7 @@
         },
         {
             "id": "Alertness (Sorcerer)",
-            "name": "Alertness (Sorcerer) (Vigilance (ensorceleur))",
+            "name": "Alertness (Sorcerer) (Vigilance (Ensorceleur))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous restez à l’affût des menaces alentour. Votre rang de maîtrise en Perception passe à expert.&nbsp;</span></p>"
         },
         {
@@ -1075,6 +1075,11 @@
             "id": "Lightning Reflexes (Bard)",
             "name": "Lightning Reflexes (Bard) (Réflexes éclair (Barde))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos réflexes sont fulgurants. Votre rang de maîtrise pour les jets de Réflexes passe à expert.</span></p>"
+        },
+        {
+            "id": "Arcane Spellcasting",
+            "name": "Arcane Spellcasting (Incantation arcanique)",
+            "description": "<p>À force d’études et de pratique, vous pouvez puiser dans la puissance arcanique pour lancer des sorts. Vous lancez des\nsorts arcaniques avec l’activité @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} et pouvez fournir des composants matériels, somatiques et verbaux lors de l’incantation (voir Lancer des sorts p. 302)</p>\n<p>Au niveau 1, vous pouvez préparer chaque matin jusqu’à deux sorts de niveau 1 et cinq tours de magie issus de votre grimoire , plus un tour de magie et un sort de votre école de prédilection de chaque niveau que vous pouvez lancer si vous êtes un magicien spécialisé. Vos sorts restent à votre disposition jusqu’à ce que vous les lanciez ou que vous les prépariez de nouveau. Le nombre de sorts que vous pouvez préparer est représenté par vos emplacements de sort.</p>\n<p>Quand vous gagnez des niveaux en tant que magicien, votre nombre d’emplacements de sort et le niveau maximal des sorts à lancer depuis ces emplacements augmentent, comme indiqué dans le tableau 3-19 : Les sorts de magicien quotidiens, p. 157.</p>"
         },
         {
             "id": "Master Spellcaster (Sorcerer)",

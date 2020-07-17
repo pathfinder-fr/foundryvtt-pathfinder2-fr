@@ -1,9 +1,10 @@
 # État de la traduction (conditions)
 
- * **changé**: 42
+ * **changé**: 41
+ * **officielle**: 1
 
 
-Dernière mise à jour: 2020-07-12 09:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-17 15:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -33,7 +34,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[I1ffBVISxLr2gC4u.htm](conditions/I1ffBVISxLr2gC4u.htm)|Unfriendly|Inamical|changé|
 |[i3OJZU2nk64Df3xm.htm](conditions/i3OJZU2nk64Df3xm.htm)|Clumsy|Maladroit|changé|
 |[iU0fEDdBp3rXpTMC.htm](conditions/iU0fEDdBp3rXpTMC.htm)|Hidden|caché|changé|
-|[j91X7x0XSomq8d60.htm](conditions/j91X7x0XSomq8d60.htm)|Prone|à terre|changé|
+|[j91X7x0XSomq8d60.htm](conditions/j91X7x0XSomq8d60.htm)|Prone|À terre|officielle|
 |[kWc1fhmv9LBiTuei.htm](conditions/kWc1fhmv9LBiTuei.htm)|Grabbed|Empoigné|changé|
 |[lDVqvLKA6eF3Df60.htm](conditions/lDVqvLKA6eF3Df60.htm)|Persistent Damage|Dégâts persistants|changé|
 |[MIRkyAjyBeXivMa7.htm](conditions/MIRkyAjyBeXivMa7.htm)|Enfeebled|affaibli|changé|
