@@ -1,20 +1,21 @@
 # État de la traduction (actions)
 
- * **officielle**: 40
+ * **officielle**: 41
  * **changé**: 74
- * **aucune**: 2
- * **libre**: 2
+ * **libre**: 3
+ * **aucune**: 3
 
 
-Dernière mise à jour: 2020-07-17 15:12 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-20 18:34 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[7N5hR1oJ2bH8W5xH.htm](actions/7N5hR1oJ2bH8W5xH.htm)|Call Upon the Brightness|
-|[OSefkMgojBLqmRDh.htm](actions/OSefkMgojBLqmRDh.htm)|Refocus|
+|[D2PNfIw7U6Ks0VY4.htm](actions/D2PNfIw7U6Ks0VY4.htm)|Steel your Resolve|
+|[e2ePMDa7ixbLRryj.htm](actions/e2ePMDa7ixbLRryj.htm)|Encouraging Words|
+|[xJEkXFJgEfEida27.htm](actions/xJEkXFJgEfEida27.htm)|Rally|
 
 ## Liste des traductions complétés
 
@@ -34,6 +35,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[49y9Ec4bDii8pcD3.htm](actions/49y9Ec4bDii8pcD3.htm)|Subsist|Subsister|changé|
 |[74iat04PtfG8gn2Q.htm](actions/74iat04PtfG8gn2Q.htm)|Mighty Rage|Rage formidable|changé|
 |[7blmbDrQFNfdT731.htm](actions/7blmbDrQFNfdT731.htm)|Shove|Pousser|changé|
+|[7N5hR1oJ2bH8W5xH.htm](actions/7N5hR1oJ2bH8W5xH.htm)|Call Upon the Brightness|Faire appel à la lumière|libre|
 |[7qjfYsLNTr17Aftf.htm](actions/7qjfYsLNTr17Aftf.htm)|Energy Emanation|Émanation énergétique|changé|
 |[8w6esW689NNbbq3i.htm](actions/8w6esW689NNbbq3i.htm)|Call on Ancient Blood|Appel du sang ancien|changé|
 |[A72nHGUtNXgY5Ey9.htm](actions/A72nHGUtNXgY5Ey9.htm)|Delay|Retarder|changé|
@@ -93,6 +95,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[OizxuPb44g3eHPFh.htm](actions/OizxuPb44g3eHPFh.htm)|Borrow an Arcane Spell|Emprunter un sort arcanique|changé|
 |[On5CQjX4euWqToly.htm](actions/On5CQjX4euWqToly.htm)|Resist Elf Magic﻿|Résister à la magie elfique|changé|
 |[OQaFzDtVEOMWizJJ.htm](actions/OQaFzDtVEOMWizJJ.htm)|Repeat a Spell|Répéter un sort|officielle|
+|[OSefkMgojBLqmRDh.htm](actions/OSefkMgojBLqmRDh.htm)|Refocus|Refocaliser|officielle|
 |[OX4fy22hQgUHDr0q.htm](actions/OX4fy22hQgUHDr0q.htm)|Make an Impression|Faire bonne impression|changé|
 |[plBGdZhqq5JBl1D8.htm](actions/plBGdZhqq5JBl1D8.htm)|Gather Information|Recueillir des informations|changé|
 |[PM5jvValFkbFH3TV.htm](actions/PM5jvValFkbFH3TV.htm)|Mount|Se mettre en selle|changé|

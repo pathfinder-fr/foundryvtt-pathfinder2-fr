@@ -162,9 +162,19 @@
             "description": "<p>Vous calmez les peurs d’une créature en la touchant. Vous pouvez tenter de contrer un (et un seul) effet de terreur dont souffre la cible. Il permet d’apaiser la cible et seulement elle, pas les autres éventuelles créatures sous l’effet de terreur.</p>\n<hr>\n<p><strong>Intensifié (6th)</strong> La portée passe à 9 m et vous pouvez cibler jusqu’à 10 créatures.</p>"
         },
         {
+            "id": "Shadow Siphon",
+            "name": "Siphon d'ombre",
+            "description": "<p><strong>Déclencheur </strong>Un sort ou un effet magique inflige des dégâts.</p>\n<hr />\n<p>En échangeant l'énergie matérielle avec celle du plan de l'Ombre, vous transformez l'effet déclencheur en une version partiellement illusoire de lui-même. Tentez de contrer le sort cible. Si c'est une réussite, chacune des créatures qui aurait dû être blessée par le sort subit seulement la moitié des dégâts, mais le sort fonctionne pour le reste de manière habituelle. Traiter le niveau pour contrer du siphon d'ombre comme s'il était de 2 niveaux de plus pour cette tentative.</p>"
+        },
+        {
             "id": "Ghost Sound",
             "name": "Son imaginaire",
             "description": "<p>Vous créez l’illusion auditive de bruits simples d’un volume maximal égal à quatre humains en train de crier. Le bruit émane d’une case à portée de votre choix. Vous ne pouvez pas créer de mots intelligibles ou de sons complexes, comme de la musique.</p>\n<hr>\n<p><strong>Intensifié (3e)</strong> La portée du sort passe à 18 m.</p>\n<p><strong>Intensifié (5e)</strong> La portée du sort passe à 36 m.</p>"
+        },
+        {
+            "id": "Untwisting Iron Buffer",
+            "name": "Empreinte du Fer impliable",
+            "description": "<p><span>Vous envoyez des courants de ki protecteurs à la surface de votre corps qui vous protège des blessures, au moins jusqu'à ce que vos ennemis les dissipe. Vous obtenez 15 Points de vie temporaires, qui dure jusqu'à 3 rounds.</span></p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les Points de Vie temporaires augmentent de 5.&nbsp;</p>"
         },
         {
             "id": "Web",
@@ -310,6 +320,11 @@
             "id": "Shape Stone",
             "name": "Façonnage de la pierre",
             "description": "<p>Vous façonnez la pierre en une forme brute de votre choix. Le processus de façonnage est trop rudimentaire pour produire des pièces complexes, des détails précis, des pièces mobiles ou autres. Toute créature se tenant sur la pierre quand vous la refaçonnez doit effectuer un jet de Réflexes ou un test d’Acrobaties.</p>\n<p>\n<hr><b>Succès</b> La créature n’est pas affectée.</p>\n<p>\n<b>Échec</b> La créature tombe @Compendium[pf2e.conditionspf2e.j91X7x0XSomq8d60]{à terre} au sommet de la pierre.</p>\n<p>\n<b>Échec critique</b> La créature tombe de la pierre (si possible) et atterrit @Compendium[pf2e.conditionspf2e.j91X7x0XSomq8d60]{à terre}.</p>"
+        },
+        {
+            "id": "Unblinking Flame Revelation",
+            "name": "Révélation de la flamme immobile",
+            "description": "<p><span>Vous illuminez votre adversaire avec une flamme révélatrice. Le MJ tente un test secret qui contre chaque illusion qui affecte la créature ; sur un succès, vous supprimez l'illusion pendant sa durée, plutôt que d'en terminer l'effet.&nbsp;</span></p>"
         },
         {
             "id": "Touch of Obedience",
@@ -700,6 +715,11 @@
             "id": "Fly",
             "name": "Vol",
             "description": "<p>La cible peut s’élever dans les airs. Elle gagne une Vitesse de vol égale à sa Vitesse ou à 6 m (prendre la plus grande).</p>\n<hr>\n<p><strong>Intensifié (7th)</strong> La durée passe à 1 h.</p>"
+        },
+        {
+            "id": "Unfolding Wind Rush",
+            "name": "Ruée du vent déroulé",
+            "description": "<p><span>Vous voyagez sur un vent puissant. Faites deux déplacements : deux Marches rapides, deux Pas ou une Marche rapide et un Pas (dans ln'importe quel ordre). Vous pouvez Marcher rapidement ou Faire un pas dans les airs pendant ce mouvement, vous déplaçant vers le haut avec un angle de 45 degrés au plus ; si vous terminez votre mouvement dans les airs, vous chutez après avoir fait une action ou lrosque votre tour se termine, ce qui vient en premier . Un @Compendium[pf2e.spells-srd.it4ZsAi6XgvGcodc]{Mur de vent} apparaît dans tous les espaces quittés au cours de ce mouvement, sui dure pendant 1 round.&nbsp;</span></p>\n<hr>\n<p><strong>Intensifié (niveau 5)</strong> Le <em>mur de vent</em> dure 3 rounds.&nbsp;</p>"
         },
         {
             "id": "Protector's Sphere",
@@ -1359,7 +1379,7 @@
         {
             "id": "Augury",
             "name": "Augure",
-            "description": "<p>Vous apercevez une brève vision du futur. Lors de l’incantation de ce sort, vous demandez quel sera le résultat d’un certain plan d’action. Le sort prédit des résultats dans un futur de trente minutes et révèle ce que le MJ pense être l’issue la plus probable entre :</p>\n<ul>\n<li><strong>Bonheur</strong> Le résultat sera positif.</li>\n<li><strong>Malheur</strong> Le résultat sera négatif</li>\n<li><strong>Bonheur et malheur</strong> Le résultat aura du positif et du négatif.</li>\n<li><strong>Rien</strong>  Le résultat ne sera pas particulièrement positif ou négatif.</li>\n</ul>\n<p>Le MJ fait un test nu DD 6 en secret. Sur un échec, le résultat est toujours « rien ». Il est donc impossible de savoir si « rien » reflète la vérité. Si quelqu’un pose une question sur le même sujet que lors de la première incantation d’augure lors d’une autre incantation du sort, le MJ utilise le résultat secret de la première. Cependant, il est possible d’obtenir un résultat différent si les circonstances ont changé.</p>"
+            "description": "<p>Vous apercevez une brève vision du futur. Lors de l’incantation de ce sort, vous demandez quel sera le résultat d’un certain plan d’action. Le sort prédit des résultats dans un futur de trente minutes et révèle ce que le MJ pense être l’issue la plus probable entre :</p>\n<ul>\n<li><strong>Bonheur</strong> Le résultat sera positif.</li>\n<li><strong>Malheur</strong> Le résultat sera négatif.</li>\n<li><strong>Bonheur et malheur</strong> Le résultat aura du positif et du négatif.</li>\n<li><strong>Rien</strong>  Le résultat ne sera pas particulièrement positif ou négatif.</li>\n</ul>\n<p>Le MJ fait un test nu DD 6 en secret. Sur un échec, le résultat est toujours « rien ». Il est donc impossible de savoir si « rien » reflète la vérité. Si quelqu’un pose une question sur le même sujet que lors de la première incantation d’augure lors d’une autre incantation du sort, le MJ utilise le résultat secret de la première. Cependant, il est possible d’obtenir un résultat différent si les circonstances ont changé.</p>"
         },
         {
             "id": "Mage Armor",
@@ -1850,6 +1870,11 @@
             "id": "Longstrider",
             "name": "Grande foulée",
             "description": "<p>Vous allongez votre foulée au-delà de ce qu’il est possible de faire. Vous\ngagnez un bonus de statut de +3 m à votre Vitesse.</p>\n<hr>\n<p><strong>Intensifié (2e)</strong> La durée passe à 8 h.</p>"
+        },
+        {
+            "id": "Unbreaking Wave Advance",
+            "name": "Avancée de la vague incassable",
+            "description": "<p><span>Vous lâchez une puissante vague de votre main qui tamponne le dos de vos cibles. Chaque créature dans la zone doit tenter un test de Vigueur. Si une créature poussée par l'<em>l'avancée de la vague incassable</em> devait être poussé contre une barrière solide ou une autre créature, elle s'arrête à ce point et subit 3d6 dégâts.<br><br><strong>Succès</strong> La créature n'est pas affectée.<br><strong>Échec</strong> La créature est poussé de 3m<br><strong>Échec critique </strong> La créature est poussé de 6m.</span></p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les dégâts pour pousser une créature contre une barrière solide augmente de 1d6.&nbsp;</p>"
         },
         {
             "id": "Obscuring Mist",

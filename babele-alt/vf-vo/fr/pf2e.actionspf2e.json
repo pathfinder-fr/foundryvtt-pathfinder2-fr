@@ -97,6 +97,11 @@
             "description": "<p><span><strong>Conditions</strong> Vous êtes à terre et votre Vitesse est d'au moins 3 mètres.</span></p>\n<hr>\n<p>Vous vous déplacez de 1,50 mètres en rampant, en restant à terre.&nbsp;</p>"
         },
         {
+            "id": "Refocus",
+            "name": "Refocaliser (Refocus)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions</strong>  Vous disposez d’une réserve de focalisation et vous avez dépensé au moins 1 point de focalisation depuis la dernière fois que vous avez récupéré vos points de focalisation.</span></p>\n<hr>\n<p>Vous passez 10 min à accomplir des actes permettant de restaurer votre connexion magique, ce qui rend 1 point de focalisation à votre réserve. Ces actes sont décrits avec la classe ou le pouvoir qui vous a donné vos sorts focalisés. Ils se recoupent souvent avec d’autres tâches liées à l’origine de vos sorts focalisés. Par exemple, un prêtre qui reçoit ses sorts focalisés de la part d’une divinité bonne peut généralement utiliser Refocaliser pendant qu’il soigne les plaies de ses alliés tandis qu’un magicien de l’école de l’illusion pourrait se Refocaliser en tentant d’Identifier de la magie issue de l’école de l’illusion</p>"
+        },
+        {
             "id": "Investigate",
             "name": "Enquêter (Investigate)",
             "description": "<p>Vous cherchez à obtenir des informations sur votre environnement en voyageant à la moitié de votre vitesse. Vous utilisez Se souvenir comme test secret pour découvrir des indices parmi les diverses choses que vous voyez et dont vous croisez le chemin au cours de votre voyage. Vous pouvez utiliser n’importe quelle compétence à laquelle est liée l’action Se souvenir pendant que vous Enquêtez, mais le MJ déterminera si la compétence est adaptée aux indices que vous pouvez trouver.</p>"
@@ -135,6 +140,11 @@
             "id": "Treat Poison",
             "name": "Soigner un empoisonnement (Treat Poison)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions</strong> Vous avez des @Compendium[pf2e.equipment-srd.s1vB3HdXjMigYAnY]{instruments de guérisseur}</span></p>\n<hr />\n<p>Vous soignez un patient empoisonné pour stopper la propagation du poison. Faites un test de Médecine contre le DD du poison. Après avoir tenté de soigner une créature empoisonnée, vous ne pouvez pas faire d’autres tentatives tant que la créature n’a pas encore fait son prochain jet de sauvegarde contre le poison<br /><br /><strong>Succès critique</strong> Vous conférez un bonus de circonstances de +4 à son prochain jet de sauvegarde contre le poison.<br /><strong>Succès</strong> Vous conférez un bonus de circonstances de +2 à son prochain jet de sauvegarde contre le poison.<br /><strong>Échec critique</strong> Vos efforts imposent un malus de circonstances de −2 à son prochain jet de sauvegarde contre le poison.</p>"
+        },
+        {
+            "id": "Call Upon the Brightness",
+            "name": "Faire appel à la lumière (Call Upon the Brightness)",
+            "description": "<p><strong>Déclencheur </strong>Vous faites un jet d'attaque, un test de compétence ou un jet de sauvegarde en accomplissant le plan d'action de votre incantation du sort @Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{augure}, mais vous n'avez pas encore lancé le dé.</p>\n<p><strong>Effet</strong>&nbsp;Vous obtenez un bonus de statut de +1 au jet déclencheur un de +2 si le résultat de l'augure était “malheur” mais que vous avez néanmoins persisté.</p>"
         },
         {
             "id": "Decipher Writing",

@@ -1,11 +1,11 @@
 # État de la traduction (ancestryfeatures)
 
  * **officielle**: 2
- * **libre**: 3
- * **changé**: 59
+ * **libre**: 4
+ * **changé**: 58
 
 
-Dernière mise à jour: 2020-07-17 15:12 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-20 18:34 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -58,7 +58,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-N36ZR4lh9eCazDaN.htm](ancestryfeatures/feat-01-N36ZR4lh9eCazDaN.htm)|Half-Elf|Demi-elfe|changé|
 |[feat-01-Nd9hdX8rdYyRozw8.htm](ancestryfeatures/feat-01-Nd9hdX8rdYyRozw8.htm)|Ancient Elf|Elfe ancien|changé|
 |[feat-01-NfIAGatB1KIzt8G7.htm](ancestryfeatures/feat-01-NfIAGatB1KIzt8G7.htm)|Cavern Elf|Elfe des cavernes|changé|
-|[feat-01-NfkxFWUeG6g41e8w.htm](ancestryfeatures/feat-01-NfkxFWUeG6g41e8w.htm)|Claws|Griffes|changé|
+|[feat-01-NfkxFWUeG6g41e8w.htm](ancestryfeatures/feat-01-NfkxFWUeG6g41e8w.htm)|Claws|Griffes|libre|
 |[feat-01-nW1gi13E62Feto2w.htm](ancestryfeatures/feat-01-nW1gi13E62Feto2w.htm)|Woodland Elf|Elfe des bois|changé|
 |[feat-01-OoUqJJB77VfWbWRM.htm](ancestryfeatures/feat-01-OoUqJJB77VfWbWRM.htm)|Cliffscale Lizardfolk|Homme-lézard écaille de falaise|changé|
 |[feat-01-Sm3tKetM6kddTio3.htm](ancestryfeatures/feat-01-Sm3tKetM6kddTio3.htm)|Plant Nourishment|Alimentation des plantes|changé|

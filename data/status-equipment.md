@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
+ * **officielle**: 327
  * **changé**: 496
- * **officielle**: 325
- * **aucune**: 416
- * **libre**: 102
+ * **aucune**: 409
+ * **libre**: 108
 
 
-Dernière mise à jour: 2020-07-17 15:12 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-20 18:34 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -33,7 +33,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-16-EKXRigmEZgqmFA62.htm](equipment/armor-16-EKXRigmEZgqmFA62.htm)|Nethysian Bulwark|
 |[armor-16-LVixPROPOwIfHgEK.htm](equipment/armor-16-LVixPROPOwIfHgEK.htm)|Dragonhide Shield (High-Grade)|
 |[armor-16-R1I1MEKwDYtCfZr3.htm](equipment/armor-16-R1I1MEKwDYtCfZr3.htm)|Dragonhide Buckler (High-Grade)|
-|[armor-16-rA1hULhhqOP2u4Ze.htm](equipment/armor-16-rA1hULhhqOP2u4Ze.htm)|Adamantine Shield (High-Grade)|
 |[armor-16-sRHR4cEo8WnowjU3.htm](equipment/armor-16-sRHR4cEo8WnowjU3.htm)|Darkwood Buckler (High-Grade)|
 |[armor-16-V4kbHwiODxwJOJga.htm](equipment/armor-16-V4kbHwiODxwJOJga.htm)|Darkwood Shield (High-Grade)|
 |[armor-16-ZZrCiVcoKinA5wyu.htm](equipment/armor-16-ZZrCiVcoKinA5wyu.htm)|Mithral Buckler (High-Grade)|
@@ -246,7 +245,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-09-M1fRjN7E3P55zvmc.htm](equipment/equipment-09-M1fRjN7E3P55zvmc.htm)|Inspiring Spotlight|
 |[equipment-09-MBF9bZCwkJp2RZoN.htm](equipment/equipment-09-MBF9bZCwkJp2RZoN.htm)|Bountiful Cauldron|
 |[equipment-09-XWWosdDg34KZhrEi.htm](equipment/equipment-09-XWWosdDg34KZhrEi.htm)|Dreadsmoke Thurible|
-|[equipment-09-yhw1mr4oDhzMQc3D.htm](equipment/equipment-09-yhw1mr4oDhzMQc3D.htm)|Heartstone|
 |[equipment-10-2tSDgHfSkkaX4CA4.htm](equipment/equipment-10-2tSDgHfSkkaX4CA4.htm)|Ring of Wizardry (Type II)|
 |[equipment-10-3nv4JcajPAxDgGMb.htm](equipment/equipment-10-3nv4JcajPAxDgGMb.htm)|Grail of Twisted Desires|
 |[equipment-10-8E7qXnNOSm51UwsG.htm](equipment/equipment-10-8E7qXnNOSm51UwsG.htm)|Miter of Communion|
@@ -267,6 +265,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-12-otCgznS0L14Z46rf.htm](equipment/equipment-12-otCgznS0L14Z46rf.htm)|Ring of Wizardry (Type III)|
 |[equipment-13-1n22FbWdDNC7tLT6.htm](equipment/equipment-13-1n22FbWdDNC7tLT6.htm)|Rock-Braced|
 |[equipment-13-f8AI23xzAHyuU35m.htm](equipment/equipment-13-f8AI23xzAHyuU35m.htm)|Poisonous Cloak Type III|
+|[equipment-13-Jp9K5Q9t9ZiDGSaI.htm](equipment/equipment-13-Jp9K5Q9t9ZiDGSaI.htm)|Skarja's Heartstone|
 |[equipment-13-keFeNqSR7W35aCeT.htm](equipment/equipment-13-keFeNqSR7W35aCeT.htm)|Blightburn Ward|
 |[equipment-13-MxYpGSOtyvYGjsXk.htm](equipment/equipment-13-MxYpGSOtyvYGjsXk.htm)|Greater Bloodbane|
 |[equipment-13-oSltacqbeotmzLNJ.htm](equipment/equipment-13-oSltacqbeotmzLNJ.htm)|Ring of the Ram (Greater)|
@@ -316,21 +315,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-aGJJwRpFRMgneROG.htm](equipment/treasure-aGJJwRpFRMgneROG.htm)|Quality sculpture by an unknown|
 |[treasure-aqhEATP0vu4kx15I.htm](equipment/treasure-aqhEATP0vu4kx15I.htm)|Saint's bone with lost scriptures|
 |[treasure-BlqDXtRZcevCYRNz.htm](equipment/treasure-BlqDXtRZcevCYRNz.htm)|Jeweled mithral crown|
-|[treasure-CNLt74pUxM0GGjyl.htm](equipment/treasure-CNLt74pUxM0GGjyl.htm)|Simple silver circlet|
 |[treasure-dloHmPtGDr8zSwJu.htm](equipment/treasure-dloHmPtGDr8zSwJu.htm)|Leather flagon with Caydenite symbol|
 |[treasure-DWzoqVeEamX118Qk.htm](equipment/treasure-DWzoqVeEamX118Qk.htm)|Jet and white gold game set|
 |[treasure-eUXQTjezsuJ6EB4u.htm](equipment/treasure-eUXQTjezsuJ6EB4u.htm)|Towering sculpture by a master|
-|[treasure-F4YgvB74p8kwif1t.htm](equipment/treasure-F4YgvB74p8kwif1t.htm)|Ceremonial shortsword with spinels|
-|[treasure-FI8PLxBFmHF6o0pH.htm](equipment/treasure-FI8PLxBFmHF6o0pH.htm)|Silver flagon inscribed with fields|
 |[treasure-GgwlIaNPJVsyRwzz.htm](equipment/treasure-GgwlIaNPJVsyRwzz.htm)|Parade armor with flourishes|
-|[treasure-Gi4vx84LhppOQAxr.htm](equipment/treasure-Gi4vx84LhppOQAxr.htm)|Silver coronet with peridots|
 |[treasure-hEBNs4mYaVWz3UsX.htm](equipment/treasure-hEBNs4mYaVWz3UsX.htm)|Jeweled orrery of the planes|
 |[treasure-HIxtCuH5YXNqit0W.htm](equipment/treasure-HIxtCuH5YXNqit0W.htm)|Tankard owned by Cayden Cailean|
 |[treasure-HMdfNM7ibp1XtcVT.htm](equipment/treasure-HMdfNM7ibp1XtcVT.htm)|Platinum dragon statuette|
 |[treasure-iz7Mv2xGwqyicNiA.htm](equipment/treasure-iz7Mv2xGwqyicNiA.htm)|Quality painting by an unknown|
 |[treasure-JECXvZ0bKTDr79mo.htm](equipment/treasure-JECXvZ0bKTDr79mo.htm)|Porcelain vase inlaid with gold|
 |[treasure-K44zDGRTSecRjEv0.htm](equipment/treasure-K44zDGRTSecRjEv0.htm)|Gilded scepter with sapphire|
-|[treasure-K7KzNh3YsXBrDlyj.htm](equipment/treasure-K7KzNh3YsXBrDlyj.htm)|Inscribed crocodile skull|
 |[treasure-laXnb43oznxeSLT9.htm](equipment/treasure-laXnb43oznxeSLT9.htm)|Previously lost volume from a legendary author|
 |[treasure-LJxNB3Yy2sTJaUbd.htm](equipment/treasure-LJxNB3Yy2sTJaUbd.htm)|Splendid lyre of world‑famous lyrist|
 |[treasure-LzHxy9YPEaCueLB9.htm](equipment/treasure-LzHxy9YPEaCueLB9.htm)|Platinum image of a fey noble with a bit of orichalcum|
@@ -353,7 +347,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-x46wlAbSDKFEumvg.htm](equipment/treasure-x46wlAbSDKFEumvg.htm)|Fine gold spyglass|
 |[treasure-YeMi3otmwQ34W2we.htm](equipment/treasure-YeMi3otmwQ34W2we.htm)|Iron cauldron with gargoyle faces|
 |[treasure-yrVJKmpBS0mqFuO1.htm](equipment/treasure-yrVJKmpBS0mqFuO1.htm)|Jeweled gold puzzle box|
-|[treasure-yv7OfuEaXTm6YCAc.htm](equipment/treasure-yv7OfuEaXTm6YCAc.htm)|Small cold iron cauldron with onyx|
 |[treasure-YZsZ6stG0i9GBCZw.htm](equipment/treasure-YZsZ6stG0i9GBCZw.htm)|Iron and rock crystal brazier|
 |[treasure-z84EQt8kcPf0RXwx.htm](equipment/treasure-z84EQt8kcPf0RXwx.htm)|Porcelain doll with amber eyes|
 |[treasure-zdiHlKtd4Fy1aIPC.htm](equipment/treasure-zdiHlKtd4Fy1aIPC.htm)|Life‑size sculpture by an expert|
@@ -434,7 +427,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[armor-00-dDIPA1WE9ESF67EB.htm](equipment/armor-00-dDIPA1WE9ESF67EB.htm)|Clothing (Explorer's)|Vêtement (d'explorateur)|changé|
+|[armor-00-dDIPA1WE9ESF67EB.htm](equipment/armor-00-dDIPA1WE9ESF67EB.htm)|Clothing (Explorer's)|Vêtements (d'explorateur)|officielle|
 |[armor-00-ewQZ0VeL38v3qFnN.htm](equipment/armor-00-ewQZ0VeL38v3qFnN.htm)|Studded Leather Armor|Armure de cuir clouté|officielle|
 |[armor-00-zBYEU9E7034ENCmh.htm](equipment/armor-00-zBYEU9E7034ENCmh.htm)|Padded Armor|Armure matelassée|officielle|
 |[armor-01-6AhDKX1dwRwFpQsU.htm](equipment/armor-01-6AhDKX1dwRwFpQsU.htm)|Splint Mail|Clibanion|officielle|
@@ -479,6 +472,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-16-3xsQ1AA4dyMHLxpw.htm](equipment/armor-16-3xsQ1AA4dyMHLxpw.htm)|Dragonplate|Harnois du dragon|changé|
 |[armor-16-AbYyx61j1K4F27tC.htm](equipment/armor-16-AbYyx61j1K4F27tC.htm)|Adamantine Buckler (High-Grade)|Targe en adamantium (Haute qualité)|changé|
 |[armor-16-BWQzaHbGVqlBuMww.htm](equipment/armor-16-BWQzaHbGVqlBuMww.htm)|Sturdy Shield (Major)|Bouclier renforcé (majeure)|changé|
+|[armor-16-rA1hULhhqOP2u4Ze.htm](equipment/armor-16-rA1hULhhqOP2u4Ze.htm)|Adamantine Shield (High-Grade)|Bouclier en adamantium (Haute qualité)|officielle|
 |[armor-16-uAs0hUUgROrndceD.htm](equipment/armor-16-uAs0hUUgROrndceD.htm)|Floating Shield (Greater)|Bouclier flottant (supérieur)|changé|
 |[armor-17-aLA7pikfeNIAAGLw.htm](equipment/armor-17-aLA7pikfeNIAAGLw.htm)|Impenetrable Scale|Armure impénétrable|officielle|
 |[armor-18-La9qYc5NHsg423Jb.htm](equipment/armor-18-La9qYc5NHsg423Jb.htm)|Reflecting Shield|Bouclier réfléchissant|changé|
@@ -907,6 +901,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-09-WAMDYE9tt3W8obzr.htm](equipment/equipment-09-WAMDYE9tt3W8obzr.htm)|Horn of Blasting|Cor de dévastation|changé|
 |[equipment-09-wI4Tj8bNwpZHequC.htm](equipment/equipment-09-wI4Tj8bNwpZHequC.htm)|Armbands of Athleticism|Brassards d'athlète|changé|
 |[equipment-09-YCjVrQnHfOtpmjYW.htm](equipment/equipment-09-YCjVrQnHfOtpmjYW.htm)|Belt of the Five Kings|Ceinture des cinq rois|changé|
+|[equipment-09-yhw1mr4oDhzMQc3D.htm](equipment/equipment-09-yhw1mr4oDhzMQc3D.htm)|Heartstone|Cardioline|changé|
 |[equipment-10-3mprh9aZ670HfNhT.htm](equipment/equipment-10-3mprh9aZ670HfNhT.htm)|Maestro's Instrument (Moderate)|Instrument de maestro (modéré)|changé|
 |[equipment-10-6jRXUXzYKIpm2uNp.htm](equipment/equipment-10-6jRXUXzYKIpm2uNp.htm)|Clandestine Cloak (Greater)|Cape de clandestinité (supérieure)|changé|
 |[equipment-10-aKoMqPDmVzPI7Q20.htm](equipment/equipment-10-aKoMqPDmVzPI7Q20.htm)|Winged Boots|Bottes ailées|changé|
@@ -1116,6 +1111,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-AgsZScsqv3puTmZx.htm](equipment/treasure-AgsZScsqv3puTmZx.htm)|Sardonyx|Sardonyx|libre|
 |[treasure-B6B7tBWJSqOBz5zz.htm](equipment/treasure-B6B7tBWJSqOBz5zz.htm)|Gold Pieces|Pièces d'or|libre|
 |[treasure-bgswgiXV12HW0aEz.htm](equipment/treasure-bgswgiXV12HW0aEz.htm)|Simple painting|Peinture simple|libre|
+|[treasure-CNLt74pUxM0GGjyl.htm](equipment/treasure-CNLt74pUxM0GGjyl.htm)|Simple silver circlet|Bandeau simple en argent|libre|
 |[treasure-CRTNNgrmssD6bQqQ.htm](equipment/treasure-CRTNNgrmssD6bQqQ.htm)|Jet|Jais|libre|
 |[treasure-cSBupUqjsHJwivbp.htm](equipment/treasure-cSBupUqjsHJwivbp.htm)|Etched copper ewer|aiguière de cuivre gravée|libre|
 |[treasure-D8gzHTvP0uFxjwyA.htm](equipment/treasure-D8gzHTvP0uFxjwyA.htm)|Bloodstone|Héliotrope|libre|
@@ -1127,10 +1123,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-e6arpbDxMlmogfee.htm](equipment/treasure-e6arpbDxMlmogfee.htm)|Gold and aquamarine diadem|Diadème d'or serti d'aigue-marines|libre|
 |[treasure-EKgLX0TCyFik3gPS.htm](equipment/treasure-EKgLX0TCyFik3gPS.htm)|Coral idol of an elemental lord|Idole en corail d'un seigneur élémentaire|libre|
 |[treasure-epTuWsVDuPzUXMk9.htm](equipment/treasure-epTuWsVDuPzUXMk9.htm)|Amethyst|Amethyste|officielle|
+|[treasure-F4YgvB74p8kwif1t.htm](equipment/treasure-F4YgvB74p8kwif1t.htm)|Ceremonial shortsword with spinels|épée courte cérémonielle avec des spinelles|libre|
+|[treasure-FI8PLxBFmHF6o0pH.htm](equipment/treasure-FI8PLxBFmHF6o0pH.htm)|Silver flagon inscribed with fields|Chope en argent gravée de champs|libre|
 |[treasure-fUENXLX3tzi33CcB.htm](equipment/treasure-fUENXLX3tzi33CcB.htm)|Silk ceremonial armor|Armure de soie cérémonielle|libre|
 |[treasure-FW1AEh214U1mMWh7.htm](equipment/treasure-FW1AEh214U1mMWh7.htm)|Chrysoprase|Chrysoprase|libre|
 |[treasure-FwYqacDEAmXk5jB5.htm](equipment/treasure-FwYqacDEAmXk5jB5.htm)|Star sapphire necklace|Collier de saphirs étoilés|libre|
 |[treasure-G5WuYX1ghrZcJ1J1.htm](equipment/treasure-G5WuYX1ghrZcJ1J1.htm)|Illustrated book|Livre illustré|libre|
+|[treasure-Gi4vx84LhppOQAxr.htm](equipment/treasure-Gi4vx84LhppOQAxr.htm)|Silver coronet with peridots|Diadème d'argent avec des péridots|libre|
 |[treasure-H8BXvZ1DUg3uJ53K.htm](equipment/treasure-H8BXvZ1DUg3uJ53K.htm)|Gold urn with scenes of judgment|Urne doré portant des scènes de jugement|libre|
 |[treasure-hhJfZgLhPaPh5V7e.htm](equipment/treasure-hhJfZgLhPaPh5V7e.htm)|Pearl, black|Perle noire|libre|
 |[treasure-hJc0dOcHJ2nkJcik.htm](equipment/treasure-hJc0dOcHJ2nkJcik.htm)|Spinel, deep blue|Spinelle, bleu profond|libre|
@@ -1143,6 +1142,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-JP7G2gOS3OuMNzeE.htm](equipment/treasure-JP7G2gOS3OuMNzeE.htm)|Hand mirror with decorated frame|Miroir à main au cadre décoré|libre|
 |[treasure-JuNPeK5Qm1w6wpb4.htm](equipment/treasure-JuNPeK5Qm1w6wpb4.htm)|Platinum Pieces|Pièce de platine|officielle|
 |[treasure-JYxnuXg9MV6y1gpQ.htm](equipment/treasure-JYxnuXg9MV6y1gpQ.htm)|Amphora with lavish scenes|Amphore portant des scènes somptueuses|officielle|
+|[treasure-K7KzNh3YsXBrDlyj.htm](equipment/treasure-K7KzNh3YsXBrDlyj.htm)|Inscribed crocodile skull|Crâne de crcodile inscrit|libre|
 |[treasure-l6Eifu4DScg0OBxb.htm](equipment/treasure-l6Eifu4DScg0OBxb.htm)|Brass scepter with amethyst head|Sceptre de laiton à pommeau d'améthyste|libre|
 |[treasure-l8dFZIYYngDOIYHb.htm](equipment/treasure-l8dFZIYYngDOIYHb.htm)|Illuminated manuscript|Manuscrit enluminé|libre|
 |[treasure-L8IzHSz2jYGFpp4N.htm](equipment/treasure-L8IzHSz2jYGFpp4N.htm)|Elegant cloth doll|Poupée de chiffon élégante|libre|
@@ -1193,6 +1193,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-xzmYwmvj61br2bRp.htm](equipment/treasure-xzmYwmvj61br2bRp.htm)|Carved wooden game set|Pièces de jeu en bois sculpté|libre|
 |[treasure-YFokzLQ0HK74Vf6n.htm](equipment/treasure-YFokzLQ0HK74Vf6n.htm)|Pyrite|Pyrite|libre|
 |[treasure-yTYPPB7WrhanBPbu.htm](equipment/treasure-yTYPPB7WrhanBPbu.htm)|Sapphire|Saphir|officielle|
+|[treasure-yv7OfuEaXTm6YCAc.htm](equipment/treasure-yv7OfuEaXTm6YCAc.htm)|Small cold iron cauldron with onyx|petit chaudron en fer froid avec des onyx|libre|
 |[treasure-z3PT7OgX34TQKAwH.htm](equipment/treasure-z3PT7OgX34TQKAwH.htm)|Diamond, small|Diamant, petit|libre|
 |[treasure-zRsMLEqh2t2hqSw4.htm](equipment/treasure-zRsMLEqh2t2hqSw4.htm)|Jewel‑encrusted gold altar|Autel en or incrusté de gemmes|libre|
 |[weapon-00-1U7Laa7Yt7i3G77L.htm](equipment/weapon-00-1U7Laa7Yt7i3G77L.htm)|Gnome Hooked Hammer|Marteau-piolet gnome|officielle|

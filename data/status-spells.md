@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
  * **officielle**: 352
- * **libre**: 2
- * **aucune**: 274
+ * **libre**: 7
+ * **aucune**: 269
  * **changé**: 45
 
 
-Dernière mise à jour: 2020-07-17 15:12 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-20 18:34 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -20,9 +20,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-01-MVrxZarUTnJxAUN8.htm](spells/abj-01-MVrxZarUTnJxAUN8.htm)|Tether|
 |[abj-02-fWU7Qjp1JiX9g6eg.htm](spells/abj-02-fWU7Qjp1JiX9g6eg.htm)|Animus Mine|
 |[abj-02-Y8cSjhU33oUqccxJ.htm](spells/abj-02-Y8cSjhU33oUqccxJ.htm)|Brand the Impenitent|
-|[abj-03-FPnkOYyWIaOzkmqn.htm](spells/abj-03-FPnkOYyWIaOzkmqn.htm)|Untwisting Iron Buffer|
 |[abj-03-k9x6bXXpIgAXMDsx.htm](spells/abj-03-k9x6bXXpIgAXMDsx.htm)|Whirling Scarves|
-|[abj-03-VBNevVovTCpn04vL.htm](spells/abj-03-VBNevVovTCpn04vL.htm)|Unblinking Flame Revelation|
 |[abj-04-7Fd4lxozd11MQ55N.htm](spells/abj-04-7Fd4lxozd11MQ55N.htm)|Atone|
 |[abj-04-caehfpQz7yp9yNzz.htm](spells/abj-04-caehfpQz7yp9yNzz.htm)|Dutiful Challenge|
 |[abj-04-GoKkejPj5yWJPIPK.htm](spells/abj-04-GoKkejPj5yWJPIPK.htm)|Adaptive Ablation|
@@ -160,8 +158,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-03-57ulIxg3Of2wCbEh.htm](spells/evo-03-57ulIxg3Of2wCbEh.htm)|Electrified Crystal Ward|
 |[evo-03-eIPIZp2FUbFcLNdj.htm](spells/evo-03-eIPIZp2FUbFcLNdj.htm)|Pillar of Water|
 |[evo-03-TT9owkeMBXJxcERB.htm](spells/evo-03-TT9owkeMBXJxcERB.htm)|Unseasonable Squall|
-|[evo-03-tvO6Kmc2pQve9DC5.htm](spells/evo-03-tvO6Kmc2pQve9DC5.htm)|Unfolding Wind Rush|
-|[evo-03-ytboJsyZEbE1MLeV.htm](spells/evo-03-ytboJsyZEbE1MLeV.htm)|Unbreaking Wave Advance|
 |[evo-04-KG7amdeXWc7MjGXe.htm](spells/evo-04-KG7amdeXWc7MjGXe.htm)|Asterism|
 |[evo-04-VUwpDY4Z91s9QCg0.htm](spells/evo-04-VUwpDY4Z91s9QCg0.htm)|Bottle the Storm|
 |[evo-04-wjJW9hWY5CkkMvY5.htm](spells/evo-04-wjJW9hWY5CkkMvY5.htm)|Diamond Dust|
@@ -194,7 +190,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ill-05-RCbLd7dfquHnuvrZ.htm](spells/ill-05-RCbLd7dfquHnuvrZ.htm)|False Vision|
 |[ill-05-scTRIrTfXquVYHGw.htm](spells/ill-05-scTRIrTfXquVYHGw.htm)|Drop Dead|
 |[ill-05-TCk2MDwf5L5OYjFC.htm](spells/ill-05-TCk2MDwf5L5OYjFC.htm)|Cloak of Colors|
-|[ill-05-tcwT97RWKxsJiefG.htm](spells/ill-05-tcwT97RWKxsJiefG.htm)|Shadow Siphon|
 |[ill-05-U58aQWJ47VrI36yP.htm](spells/ill-05-U58aQWJ47VrI36yP.htm)|Hallucination|
 |[ill-05-Ucf8eynbZMfUucjE.htm](spells/ill-05-Ucf8eynbZMfUucjE.htm)|Illusory Scene|
 |[ill-06-0XP2XOxT9VSiXFDr.htm](spells/ill-06-0XP2XOxT9VSiXFDr.htm)|Phantasmal Calamity|
@@ -316,8 +311,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-02-FzAtX8yXBjTaisJK.htm](spells/abj-02-FzAtX8yXBjTaisJK.htm)|Undetectable Alignment|Alignement indétectable|officielle|
 |[abj-02-YWrfKetOqDwVFut7.htm](spells/abj-02-YWrfKetOqDwVFut7.htm)|Barkskin|Peau d'écorce|officielle|
 |[abj-03-EoKBlgf6Smt8opaU.htm](spells/abj-03-EoKBlgf6Smt8opaU.htm)|Nondetection|Antidétection|officielle|
+|[abj-03-FPnkOYyWIaOzkmqn.htm](spells/abj-03-FPnkOYyWIaOzkmqn.htm)|Untwisting Iron Buffer|Empreinte du Fer impliable|libre|
 |[abj-03-mpGCMTldMVa0pWYs.htm](spells/abj-03-mpGCMTldMVa0pWYs.htm)|Circle of Protection|Cercle de protection|officielle|
 |[abj-03-o0l57UfBm9ScEUMW.htm](spells/abj-03-o0l57UfBm9ScEUMW.htm)|Glyph of Warding|Glyphe de garde|officielle|
+|[abj-03-VBNevVovTCpn04vL.htm](spells/abj-03-VBNevVovTCpn04vL.htm)|Unblinking Flame Revelation|Révélation de la flamme immobile|libre|
 |[abj-03-y3jlOfgsQH1JjkJE.htm](spells/abj-03-y3jlOfgsQH1JjkJE.htm)|Sanctified Ground|Zone sanctifiée|officielle|
 |[abj-04-2BV2yYPfVJ5zirZt.htm](spells/abj-04-2BV2yYPfVJ5zirZt.htm)|Stoneskin|Peau de pierre|officielle|
 |[abj-04-2jB9eyX7YekwoCvA.htm](spells/abj-04-2jB9eyX7YekwoCvA.htm)|Word of Freedom|Mot de liberté|officielle|
@@ -526,7 +523,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-03-oo7YcRC2gcez81PV.htm](spells/evo-03-oo7YcRC2gcez81PV.htm)|Ki Blast|Explosion Ki|officielle|
 |[evo-03-sRfSBHWHdbIa0aGc.htm](spells/evo-03-sRfSBHWHdbIa0aGc.htm)|Chilling Darkness|Ténèbres glaciales|officielle|
 |[evo-03-sxQZ6yqTn0czJxVd.htm](spells/evo-03-sxQZ6yqTn0czJxVd.htm)|Fireball|Boule de feu|officielle|
+|[evo-03-tvO6Kmc2pQve9DC5.htm](spells/evo-03-tvO6Kmc2pQve9DC5.htm)|Unfolding Wind Rush|Ruée du vent déroulé|libre|
 |[evo-03-X1b9ollVMSLXDN9o.htm](spells/evo-03-X1b9ollVMSLXDN9o.htm)|Litany against Wrath|Litanie contre la colère|officielle|
+|[evo-03-ytboJsyZEbE1MLeV.htm](spells/evo-03-ytboJsyZEbE1MLeV.htm)|Unbreaking Wave Advance|Avancée de la vague incassable|libre|
 |[evo-04-2SYq0ZTsOtJEigFx.htm](spells/evo-04-2SYq0ZTsOtJEigFx.htm)|Mystic Beacon|Phare mystique|officielle|
 |[evo-04-7d4DUTDIlzDa8OvX.htm](spells/evo-04-7d4DUTDIlzDa8OvX.htm)|Destructive Aura|Aura destructrice|officielle|
 |[evo-04-8M03UxGXjYyDFAoy.htm](spells/evo-04-8M03UxGXjYyDFAoy.htm)|Weapon Storm|Tempête d'armes|officielle|
@@ -584,6 +583,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ill-04-Uqj344bezBq3ESdq.htm](spells/ill-04-Uqj344bezBq3ESdq.htm)|Nightmare|Cauchemar|officielle|
 |[ill-04-ZhLYJlOZzUB1OKoe.htm](spells/ill-04-ZhLYJlOZzUB1OKoe.htm)|Trickster's Twin|Jumeau du trompeur|officielle|
 |[ill-05-DdXKfIjDtORUtUvY.htm](spells/ill-05-DdXKfIjDtORUtUvY.htm)|Fey Glamour|Enchetement féerique|officielle|
+|[ill-05-tcwT97RWKxsJiefG.htm](spells/ill-05-tcwT97RWKxsJiefG.htm)|Shadow Siphon|Siphon d'ombre|libre|
 |[nec-00-kcelf6IHl3L9VXXg.htm](spells/nec-00-kcelf6IHl3L9VXXg.htm)|Disrupt Undead|Destruction de mort-vivant|changé|
 |[nec-00-mAMEt4FFbdqoRnkN.htm](spells/nec-00-mAMEt4FFbdqoRnkN.htm)|Chill Touch|Contact glacial|changé|
 |[nec-00-SnjhtQYexDtNDdEg.htm](spells/nec-00-SnjhtQYexDtNDdEg.htm)|Stabilize|Stabilisation|changé|

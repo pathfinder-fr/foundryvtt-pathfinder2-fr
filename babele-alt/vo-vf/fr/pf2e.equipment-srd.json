@@ -337,6 +337,11 @@
             "description": "<p><span class=\"fontstyle0\">Guère plus qu’un bol en cuir fixé à une paire de lanières, la fronde peut être utilisée pour lancer à distance des pierres lisses ou des billes de fronde.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
         },
         {
+            "id": "Ceremonial shortsword with spinels",
+            "name": "Ceremonial shortsword with spinels (épée courte cérémonielle avec des spinelles)",
+            "description": ""
+        },
+        {
             "id": "Explosive Ammunition (Greater)",
             "name": "Explosive Ammunition (Greater) (Munition explosive (supérieure))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette munition est enduite d’une suie noire. Quand une munition explosive activée touche sa cible, elle explose dans un rayon de 3 m, infligeant 10d6 dégâts de feu à toutes les créatures de la zone (y compris la cible). Chacune fait un jet de Réflexes basique DD 30.<br><br><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir&nbsp;</span></p>"
@@ -1227,6 +1232,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une inclusion soyeuse donne à cette cymophane ronde l’air d’un œil de chat. Une fois fixée, elle vous rend nerveux. Lorsque vous l’acti‑ vez, lancez deux fois le dé pour la Perception et conservez le meilleur résultat.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\" />&nbsp;imaginer;&nbsp;<strong>Déclencheur</strong>&nbsp;Vous êtes sur le point de lancer le dé pour l’initiative, mais ne l’avez pas encore fait ; &nbsp;<strong>Conditions</strong>&nbsp;Vous êtes maître en Perception. </span></p>"
         },
         {
+            "id": "Heartstone",
+            "name": "Heartstone (Cardioline)",
+            "description": "<p><span>Cette gemme octroie au porteur un bonus d’objet de +2 aux jets de sauvegarde.<br></span></p>\n<p><span>Chaque <em>cardioline</em>  est alimentée par l’esprit d’une guenaude noire spécifique. Si elle en est séparée pendant 24 h (ou si la guenaude est morte depuis 24 h), la cardioline devient une pierre précieuse non magique. Une cardioline permet à la guenaude d’utiliser des sorts innés occultes supplémentaires : @Compendium[pf2e.spells-srd.D2nPKbIS67m9199U]{forme éthérée} (au niveau 9) et @Compendium[pf2e.spells-srd.GYmXvS9NJ7QwfWGg]{âme prisonnière} à volonté et @Compendium[pf2e.spells-srd.IqJ9URobmJ9L9UBG]{explosion d’ombre} deux fois par jour.<br></span></p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> sur ordre; <strong>Conditions</strong> Vous devez toucher la <em>cardioline</em>.; <strong>Effet</strong> La <em>cardioline</em>  tente de\ncontrer une maladie qui vous affecte (niveau de contre 5, modificateur de contre +18).<br><br><strong>Conditions de fabrication</strong> Vous devez être une guenaude noire.</span></p>"
+        },
+        {
             "id": "Clan Dagger",
             "name": "Clan Dagger (Dague de clan)",
             "description": "<p>Cette large dague est portée par les nains à la fois comme une arme, un outil et pour désigner un clan. Perdre ou devoir rendre une dague de clan est considéré comme une honte pour la plupart des nains. </p>"
@@ -1465,6 +1475,11 @@
             "id": "Energy-Resistant",
             "name": "Energy-Resistant (Résistance à l'énergie (rune))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces symboles canalisent les forces protectrices des plans élémen‑ taires. Vous bénéficiez d’une résistance 5 à l’acide, à l’électricité, au feu ou au froid. Le fabricant choisit le type de dégâts lorsqu’il créé la rune. On peut graver plusieurs runes de résistance à l’énergie sur une armure ; au lieu d’utiliser l’effet dont le niveau est le plus élevé, chacune doit fournir une résistance à un type de dégâts différent. Par exemple, une cuirasse de résistance au feu supérieure et de résistance à l’acide +2 vous confère une résistance à l’acide de 5 et une résistance au feu de 10. </span></p>"
+        },
+        {
+            "id": "Silver coronet with peridots",
+            "name": "Silver coronet with peridots (Diadème d'argent avec des péridots)",
+            "description": ""
         },
         {
             "id": "Retribution Axe",
@@ -1745,6 +1760,11 @@
             "id": "Hat of the Magi (Greater)",
             "name": "Hat of the Magi (Greater) (Couvre-chef de thaumaturge (supérieur))",
             "description": "<p>Ces couvre‑chefs existent sous de nombreuses formes : ça peut être un turban de couleur ou un chapeau pointu à large bord, sur lesquels sont inscrits des symboles ou des runes. Il vous confère un bonus d’objet de +1 aux tests d’Arcanes et vous permet de lancer le tour de magie prestidigitation comme un sort inné arcanique.&nbsp;</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce couvre‑chef plus grand et plus sophistiqué confère un bonus de +2 et on peut l’activer.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> Lancer un sort; <strong>Frequence</strong> 1/jour; <strong>Effet</strong> Vous lancez le sort arcanique convocation d’élémentaire @Compendium[pf2e.spells-srd.lpT6LotUaQPfinjj]{Summon Elemental} de niveau 4.</span></p>"
+        },
+        {
+            "id": "Simple silver circlet",
+            "name": "Simple silver circlet (Bandeau simple en argent)",
+            "description": ""
         },
         {
             "id": "Aeon Stone (Tourmaline Sphere)",
@@ -2428,8 +2448,8 @@
         },
         {
             "id": "Clothing (Explorer's)",
-            "name": "Clothing (Explorer's) (Vêtement (d'explorateur))",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les vêtements ordinaires sont des habits fonctionnels à la confection basique, comme les vêtements des paysans, les robes des moines ou les vêtements de travail. Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure. Pour plus d’informations sur les vêtements d’explorateur, reportez-vous à la page 276. &nbsp;</span></p>"
+            "name": "Clothing (Explorer's) (Vêtements (d'explorateur))",
+            "description": "<p><span>Les vêtements ordinaires sont des habits fonctionnels à la confection basique, comme les vêtements des paysans, les robes des moines ou les vêtements de travail. Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure. Pour plus d’informations sur les vêtements d’explorateur, reportez-vous à la page 276. &nbsp;</span></p>"
         },
         {
             "id": "Channel Protection Amulet",
@@ -3320,6 +3340,11 @@
             "id": "Dragonslayer's Shield",
             "name": "Dragonslayer's Shield (Bouclier du pourfendeur de dragons)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier du pourfendeur de dragons est un bouclier en acier recouvert de la peau d’un certain type de dragon, ce qui distingue chaque bouclier des autres. Lorsqu’il est levé, ce bouclier en acier (Solidité 8,32 PV, SR 16) confère son bonus de circonstances aux jets de Réflexes contre les effets de zone (ainsi qu’à la CA, comme à l’accoutumée). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque vous le tenez en main, il vous confère également un bonus de circonstances de +2 aux jets de Volonté contre le pouvoir présence terrifiante d’un dragon. Le bouclier a une résistance 10 contre le type de dégâts associé à celui du dragon dont la peau a été utilisée pour sa fabrication (voir Peau de dragon en page 575). Cette résistance s’applique après réduction des dégâts due à la Solidité. Ainsi, quand vous utilisez Blocage au bouclier, le bouclier du pourfendeur de dragons subit 18 dégâts de moins des attaques infligeant ce type de dégâts. Vous pouvez utiliser Blocage au bouclier contre les attaques qui infligent des dégâts de ce type.</span></p>"
+        },
+        {
+            "id": "Inscribed crocodile skull",
+            "name": "Inscribed crocodile skull (Crâne de crcodile inscrit)",
+            "description": ""
         },
         {
             "id": "Cold Iron Buckler (Standard-Grade)",
@@ -4387,6 +4412,11 @@
             "description": "<p>cette arme possède un manche en bois se terminant par une lourde tête en métal. La tête du marteau peut être à simple face ou à double face, mais elle est toujours capable de délivrer de puissants coups contondants.\n</p>"
         },
         {
+            "id": "Silver flagon inscribed with fields",
+            "name": "Silver flagon inscribed with fields (Chope en argent gravée de champs)",
+            "description": ""
+        },
+        {
             "id": "Ring of Maniacal Devices",
             "name": "Ring of Maniacal Devices (Anneau d'objets déments)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet anneau semble être en simple laiton terni mais il attise votre curiosité quand des pièges ou des dispositifs de toutes sortes sont concer‑ nés. Vous pouvez effectuer une action Interagir pour extirper des outils de voleur de l’anneau. Ces outils apparaissent dans votre main et retournent dans l’anneau dès que vous n’en avez plus besoin. Ils vous confèrent un bonus d’objet de +2 aux tests de Vol pour Désamorcer un dispositif et Crocheter une serrure, et les conseils qu’il vous transmet vous confèrent le même bonus aux tests d’Artisanat pour Fabriquer et Réparer des pièges classiques et artisanaux.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> 10 minutes (Interagir); <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous créez un glyphe de garde de niveau 4 @Compendium[pf2e.spells-srd.o0l57UfBm9ScEUMW]{Glyph of Warding} contenant une boule de feu @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}. Il ne peut exister qu’un seul glyphe de garde actif et créé par un <em>anneau d’objets déments</em> à la fois, même si vous possédez plusieurs anneaux, et le sort prend fin si vous n’investissez plus l’anneau. </span></p>"
@@ -4512,9 +4542,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette peau d’ours comporte la tête et les crocs de la puissante créature sur laquelle on l’a prélevée. Une fois portée, la cape recouvre votre tête et vos épaules en vous insufflant la férocité d’un ours. Si vous pouvez faire l’action Rage et que vous êtes en rage, des crocs qui infligent 1d10 dégâts perforants poussent dans votre bouche et des griffes qui infligent 1d6 dégâts tranchants et qui ont le trait agile poussent sur vos mains. Il s’agit d’un effet de transformation et les crocs comme les griffes sont des attaques à mains nues du groupe d’armes de pugilat. Vous bénéficiez des avan‑ tages d’une rune de puissance d’arme +1 et d’une rune de frappe avec ces attaques (ce qui vous confère un bonus d’objet de +1 aux jets d’attaque et augmente de 1 le nombre de dés de dégâts d’arme). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous avez un instinct animal (voir le barbare en page 82) et le pouvoir d’instinct rage bestiale, au lieu d’obtenir ces attaques à mains nues, les attaques à mains nues que vous faites grâce à la rage, vous bénéficiez des avantages d’une rune de puissance d’arme +2 et d’une rune de frappe supérieure, ou d’une rune de puissance d’arme +3 et d’une rune de frappe majeure si vous avez un instinct animal et le pouvoir d’instinct rage bestiale. .<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes un barbare avec l’instinct animal.</span></p>"
         },
         {
+            "id": "Small cold iron cauldron with onyx",
+            "name": "Small cold iron cauldron with onyx (petit chaudron en fer froid avec des onyx)",
+            "description": ""
+        },
+        {
             "id": "Shadow (Greater)",
             "name": "Shadow (Greater) (Ombre supérieure (rune))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une armure avec cette rune devient noire et indistincte. Vous béné‑ ficiez d’un bonus d’objet de +2 aux tests de Discrétion lorsque vous portez l’armure.&nbsp;&nbsp;</span></p>"
+        },
+        {
+            "id": "Adamantine Shield (High-Grade)",
+            "name": "Adamantine Shield (High-Grade) (Bouclier en adamantium (Haute qualité))",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 13, 52 PV et un SR de 26.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 4&nbsp;400 po d’adamantium.&nbsp;</span></p>"
         },
         {
             "id": "Javelin of Lightning",
