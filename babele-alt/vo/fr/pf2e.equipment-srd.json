@@ -397,6 +397,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La lame dentelée de cette dague de <em>frappe +1</em> a des reflets ver‑ dâtres et la poignée est sculptée en forme de tête de serpent sur le point de mordre. Quand vous obtenez un succès critique à un jet d’attaque avec la dague venimeuse, la cible devient malade 1 jusqu’à ce qu’elle réussisse un jet de Vigueur DD 19. Il s’agit d’un effet de poison. De plus, vous pouvez activer la dague pour qu’elle inocule un poison plus puissant à une créature.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous blessez une créature avec la dague venimeuse; <strong>Effet</strong> Vous empoi‑ sonnez la créature que vous frappez avec le poison de la dague.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Dague venimeuse</strong> (poison); <strong>Jet de sauvegarde</strong> Vigueur DD 21; <strong>Durée maximum</strong> 4 rounds. <strong>Stade 1</strong> e 1 1d8 dégâts de poison et affaibli 1.\n&nbsp;</span></p>"
         },
         {
+            "id": "Artisan's Tools (Sterling)",
+            "name": "Artisan's Tools (Sterling)",
+            "description": "<p>Vous avez besoin de ces outils pour créer, au moyen de la compétence Artisanat, des objets à partir de matériaux. Les outils d’artisan excellents accordent un bonus d'objet de +1 à votre test. Il faut des jeux d’outils différents pour effectuer différents travaux, tels que déterminés par le MJ ; ainsi, les outils de forgeron diffèrent des outils de menuisier. &nbsp;</p>"
+        },
+        {
             "id": "Holy Avenger",
             "name": "Holy Avenger",
             "description": "<section class=\"content\">\n<p><span>L’épée de justice étincelante est l’arme emblématique des redoutables paladins. La garde de cette épée longue en fer froid sainte de frappe supérieure +2 est forgée en forme d’ailes d’ange. D’après la tradition, ceux qui regardent leur refet dans la lame extrêmement polie d’une épée de justice voient leurs fautes révélées. Si vous êtes d’alignement mauvais, vous êtes affaibli 2 tant que vous portez ou maniez cette arme<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, Interagir;  <strong>Fréquence</strong> 1/heure ; <strong>Effet</strong> Vous prononcez le mot de commande de l’épée et la pointez sur une créature dans votre champ de vision. L’épée lance détection de l’alignement @Compendium[pf2e.spells-srd.QnTtGCAvdWRU4spv]{Detect Alignment} pour détecter le mal, en ne ciblant que la créature désignée au lieu de détecter dans une zone<br></span></p>\n<p><span><strong>Maniée par un paladin</strong> Si vous êtes un champion de la cause du paladin, vous bénéficiez également des deux avantages suivants : </span></p>\n<ul>\n<li>Quand vous obtenez un coup critique sur une créature d’alignement mauvais avec l’<em>épée de justice</em>, la créature est ralentie 1 et affaiblie 2 pendant 1 round</li>\n<li>Vous pouvez activer l’épée de la façon suivante :</li>\n</ul>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Fréquence</strong> 1/joury; <strong>Conditions</strong> Vous avez réussi à frapper une créature avec l’épée de justice lors de votre action précédente ; <strong>Effet</strong>  Vous lancez dissipation de la magie  @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic} au même niveau que les sorts focalisés de votre champion. Elle doit cibler une illusion que la créature que vous avez frappée a créée, un sort qui affecte la créature que vous avez frappée ou un objet que la créature que vous avez frappée porte ou transporte. Le sort ou l’objet que vous tentez de contrer doit se trouver à 36 m ou moins de vous.</p>\n<hr>\n<p><strong>Conditions de fabrication</strong> Vous êtes un champion de la cause du paladin ; fournir une incantation de <em>détection de l’alignement</em> et de <em>dissipation de la magie</em>. Les matières premières initiales doivent inclure 120 po de fer froid.</p>\n</section>"
@@ -910,6 +915,11 @@
             "id": "Potion of Quickness",
             "name": "Potion of Quickness",
             "description": "<p>En buvant cette potion argentée, vous bénéficiez des effets de rapidité pendant 1 min.</p>"
+        },
+        {
+            "id": "Parade armor with flourishes",
+            "name": "Parade armor with flourishes",
+            "description": ""
         },
         {
             "id": "Belt of Giant Strength",
@@ -2272,6 +2282,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette rapière de foudre et de frappe supérieure +2 a une lame dorée et des petits arcs électriques parcourent sa garde lorsque quelqu’un la manie. Quand elle est dégainée sous un ciel bleu, la lame provoque la lente accumulation de nuages orageux dans le ciel. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, imaginer;  <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous lancez un éclair de niveau 6 (DD 33).  <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Fréquence</strong>  une fois toutes les 10 min; <strong>Déclencheur</strong> Un effet d’électricité prend pour cible votre personne ou une créature à 3 m ou moins de vous, ou vous ou une créature à &nbsp;</span></p>"
         },
         {
+            "id": "Platinum dragon statuette",
+            "name": "Platinum dragon statuette",
+            "description": ""
+        },
+        {
             "id": "Class Kit (Ranger)",
             "name": "Class Kit (Ranger)",
             "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes</strong>  dague, arc long avec 20 flèches</div>\n<div><strong>Equipement</strong> pack d’aventurier, gaine</div>"
@@ -2677,6 +2692,11 @@
             "description": "<p><span>Chaque soutane de dévotion est ornée de scènes associées aux domaines d’une divinité en particulier. Elle fait office de symbole religieux de cette divinité et il ne faut pas nécessairement la brandir pour l’utiliser comme tel. Vous bénéficiez d’un bonus d’objet de +2 aux tests de Religion et un bonus d’objet de +1 à la compétence divine de la divinité à laquelle la soutane est dédiée (comme indiqué en pages 437 à 440)<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Fréquence</strong>1/jour; <strong>Effet</strong> Vous gagnez 1 point de focalisation que vous pouvez dépenser uniquement pour lancer un sort de domaine de prêtre dont le domaine est associé à la divinité à laquelle la soutane est dédiée. Ce point de focalisation est perdu si vous ne le dépensez pas avant la fin de ce tour.<br></span></p>\n<p><span><strong>Conditions de fabrication</strong> Vous êtes un prêtre qui vénère la divinité à laquelle la soutane est dédiée.</span></p>"
         },
         {
+            "id": "Jeweled mithral crown",
+            "name": "Jeweled mithral crown",
+            "description": ""
+        },
+        {
             "id": "Manacles (Simple)",
             "name": "Manacles (Simple)",
             "description": "<p><span class=\"fontstyle0\">vous pouvez menotter une personne volontaire ou à votre merci comme une activité d’exploration prenant 10 à 30 secondes, en fonction de la taille de la créature et du nombre de menottes que vous utilisez. Une créature bipède ayant ces membres attachés subit un malus de circonstance de –4,5 m à sa Vitesse, et une créature à deux mains ayant les poignets attachés doit réussir un test nu DD 5 chaque fois qu’elle utilise une action de manipulation ou que cette action échoue. Ce DD peut être plus élevé en fonction de la force avec laquelle les menottes contraignent les mains. Une créature attachée à un objet immobile est elle-même immobilisée. Dans le cas de créatures ayant plus ou moins de membres, le MJ détermine l’effet éventuel des menottes. Libérer une créature de menottes médiocres nécessite de réussir deux tests de Vol DD 17, des menottes simples exigent de leur côté trois succès DD 22, des menottes intermédiaires quatre succès DD 27, de bonnes menottes cinq succès DD 32 et des menottes supérieures six succès DD 42. </span></p>"
@@ -2895,6 +2915,11 @@
             "id": "Unholy",
             "name": "Unholy",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une rune <em>impie</em> injecte de l’énergie fiélone dans l’arme gravée. Une arme avec cette rune inflige 1d6 dégâts mauvais supplémentaires quand elle touche une cible d’alignement bon. Si vous êtes d’alignement bon, vous êtes affaibli 2 tant que vous portez ou maniez cette arme. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong>  Vous ob‑ tenez un succès critique sur un jet d’attaque avec cette arme contre une créature d’alignement bon; <strong>Effet</strong> La cible subit un montant de dégâts de saignement persistants égal à 1d8 par dé de dégâts d’arme de l’arme gravée.</span></p>"
+        },
+        {
+            "id": "Saint's bone with lost scriptures",
+            "name": "Saint's bone with lost scriptures",
+            "description": ""
         },
         {
             "id": "Bracers of Armor I",
@@ -3399,7 +3424,7 @@
         {
             "id": "Artisan's Tools",
             "name": "Artisan's Tools",
-            "description": "<p>Vous avez besoin de ces outils pour créer, au moyen de la compétence Artisanat, des objets à partir de matériaux. Les outils d’artisan excellents accordent un bonus d'objet de +1 à votre test. Il faut des jeux d’outils différents pour effectuer différents travaux, tels que déterminés par le MJ ; ainsi, les outils de forgeron diffèrent des outils de menuisier. &nbsp;</p>"
+            "description": "<p>Vous avez besoin de ces outils pour créer, au moyen de la compétence Artisanat, des objets à partir de matériaux. Il faut des jeux d’outils différents pour effectuer différents travaux, tels que déterminés par le MJ ; ainsi, les outils de forgeron diffèrent des outils de menuisier. &nbsp;</p>"
         },
         {
             "id": "Bravo's Brew (Lesser)",
@@ -4645,6 +4670,11 @@
             "id": "Fade Band",
             "name": "Fade Band",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce mince fil d’argent s’enroule autour de votre armure. Lorsque vous l’activez, il lance invisibilité sur vous au niveau 2.@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility} .<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Une attaque vous rate; <strong>Conditions</strong> Vous êtes maître en Discrétion/span></p>"
+        },
+        {
+            "id": "Colorful velvet half mask",
+            "name": "Colorful velvet half mask",
+            "description": ""
         },
         {
             "id": "Dust of Disappearance",

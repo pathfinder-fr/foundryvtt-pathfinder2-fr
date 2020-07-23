@@ -2,11 +2,11 @@
 
  * **officielle**: 327
  * **changé**: 496
- * **aucune**: 409
- * **libre**: 108
+ * **aucune**: 403
+ * **libre**: 114
 
 
-Dernière mise à jour: 2020-07-20 18:34 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-23 19:50 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -188,7 +188,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-02-EuEH4f3oDUQ4YFZS.htm](equipment/equipment-02-EuEH4f3oDUQ4YFZS.htm)|Stone of Weight|
 |[equipment-02-hyMbJb2MRF5beIaU.htm](equipment/equipment-02-hyMbJb2MRF5beIaU.htm)|Archaic Wayfinder|
 |[equipment-02-sZxPKnLtspXPRDNb.htm](equipment/equipment-02-sZxPKnLtspXPRDNb.htm)|Pathfinder's Coin|
-|[equipment-03-0QgniSjpzksm5riV.htm](equipment/equipment-03-0QgniSjpzksm5riV.htm)|Artisan's Tools (Sterling)|
 |[equipment-03-1M4SSDuTv2SwBltC.htm](equipment/equipment-03-1M4SSDuTv2SwBltC.htm)|Survey Map (Atlas)|
 |[equipment-03-2EOeljZiUdNVf8s2.htm](equipment/equipment-03-2EOeljZiUdNVf8s2.htm)|Bullhook|
 |[equipment-03-4kz3vhkKPUuXBpxk.htm](equipment/equipment-03-4kz3vhkKPUuXBpxk.htm)|Crowbar (Levered)|
@@ -311,17 +310,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-28-mH3LImCgJAkfKAA3.htm](equipment/equipment-28-mH3LImCgJAkfKAA3.htm)|Philosopher's Extractor|
 |[treasure-0b6BUtoFD4DotZHR.htm](equipment/treasure-0b6BUtoFD4DotZHR.htm)|Gilded ceremonial armor|
 |[treasure-5CqtgygdvqecMoRU.htm](equipment/treasure-5CqtgygdvqecMoRU.htm)|Thought lens of astral essence|
-|[treasure-Ab8yDhtYDJnFrjI4.htm](equipment/treasure-Ab8yDhtYDJnFrjI4.htm)|Colorful velvet half mask|
 |[treasure-aGJJwRpFRMgneROG.htm](equipment/treasure-aGJJwRpFRMgneROG.htm)|Quality sculpture by an unknown|
-|[treasure-aqhEATP0vu4kx15I.htm](equipment/treasure-aqhEATP0vu4kx15I.htm)|Saint's bone with lost scriptures|
-|[treasure-BlqDXtRZcevCYRNz.htm](equipment/treasure-BlqDXtRZcevCYRNz.htm)|Jeweled mithral crown|
 |[treasure-dloHmPtGDr8zSwJu.htm](equipment/treasure-dloHmPtGDr8zSwJu.htm)|Leather flagon with Caydenite symbol|
 |[treasure-DWzoqVeEamX118Qk.htm](equipment/treasure-DWzoqVeEamX118Qk.htm)|Jet and white gold game set|
 |[treasure-eUXQTjezsuJ6EB4u.htm](equipment/treasure-eUXQTjezsuJ6EB4u.htm)|Towering sculpture by a master|
-|[treasure-GgwlIaNPJVsyRwzz.htm](equipment/treasure-GgwlIaNPJVsyRwzz.htm)|Parade armor with flourishes|
 |[treasure-hEBNs4mYaVWz3UsX.htm](equipment/treasure-hEBNs4mYaVWz3UsX.htm)|Jeweled orrery of the planes|
 |[treasure-HIxtCuH5YXNqit0W.htm](equipment/treasure-HIxtCuH5YXNqit0W.htm)|Tankard owned by Cayden Cailean|
-|[treasure-HMdfNM7ibp1XtcVT.htm](equipment/treasure-HMdfNM7ibp1XtcVT.htm)|Platinum dragon statuette|
 |[treasure-iz7Mv2xGwqyicNiA.htm](equipment/treasure-iz7Mv2xGwqyicNiA.htm)|Quality painting by an unknown|
 |[treasure-JECXvZ0bKTDr79mo.htm](equipment/treasure-JECXvZ0bKTDr79mo.htm)|Porcelain vase inlaid with gold|
 |[treasure-K44zDGRTSecRjEv0.htm](equipment/treasure-K44zDGRTSecRjEv0.htm)|Gilded scepter with sapphire|
@@ -773,7 +767,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-rEz9WYhlx2Pm0gKk.htm](equipment/equipment-00-rEz9WYhlx2Pm0gKk.htm)|Cold Iron Chunk|Morceau de fer froid|changé|
 |[equipment-00-Wc9og4mTKZDH3xmz.htm](equipment/equipment-00-Wc9og4mTKZDH3xmz.htm)|Tent (Pup)|Tente (petite)|libre|
 |[equipment-00-xyzmQa3nhU8HxfUL.htm](equipment/equipment-00-xyzmQa3nhU8HxfUL.htm)|Tent (Pavilion)|Tente pour 4 personnes|libre|
-|[equipment-00-y34yjumCFakrbtdw.htm](equipment/equipment-00-y34yjumCFakrbtdw.htm)|Artisan's Tools|Outils d'artisan|officielle|
+|[equipment-00-y34yjumCFakrbtdw.htm](equipment/equipment-00-y34yjumCFakrbtdw.htm)|Artisan's Tools|Outils d'artisan|libre|
 |[equipment-00-YOgUBjv2YHzPFKUb.htm](equipment/equipment-00-YOgUBjv2YHzPFKUb.htm)|Orichalcum Chunk|Morceau d'orichalque|changé|
 |[equipment-00-Zo5MZWVBKssVPEcv.htm](equipment/equipment-00-Zo5MZWVBKssVPEcv.htm)|Adamantine Chunk|Morceau d'adamantium|changé|
 |[equipment-00-ZPY2dOaMYciIJv1Q.htm](equipment/equipment-00-ZPY2dOaMYciIJv1Q.htm)|Manacles (Poor)|Menottes (médiocre)|officielle|
@@ -786,6 +780,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-02-gbwr57aT9ou8yKWT.htm](equipment/equipment-02-gbwr57aT9ou8yKWT.htm)|Wayfinder|Guide|changé|
 |[equipment-02-r1hgg2rweqGL1LBl.htm](equipment/equipment-02-r1hgg2rweqGL1LBl.htm)|Hand of the Mage|Main du mage|changé|
 |[equipment-02-TmQalYKNNRuEdoTh.htm](equipment/equipment-02-TmQalYKNNRuEdoTh.htm)|Brooch of Shielding|Broche de défense|officielle|
+|[equipment-03-0QgniSjpzksm5riV.htm](equipment/equipment-03-0QgniSjpzksm5riV.htm)|Artisan's Tools (Sterling)|Outils d'artisan (excellents)|officielle|
 |[equipment-03-1r6StS0irdvi5JHY.htm](equipment/equipment-03-1r6StS0irdvi5JHY.htm)|Ventriloquist's Ring|Anneau de ventriloquie|changé|
 |[equipment-03-3ld14dsn2RLu9owg.htm](equipment/equipment-03-3ld14dsn2RLu9owg.htm)|Musical Instrument (Virtuoso handheld)|Instruments de musique (Virtuose)|officielle|
 |[equipment-03-3vxoffA4slKHXtj2.htm](equipment/equipment-03-3vxoffA4slKHXtj2.htm)|Channel Protection Amulet|Amulette de protection canalisée|officielle|
@@ -1108,9 +1103,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-8P87jwOAC3zMuzoF.htm](equipment/treasure-8P87jwOAC3zMuzoF.htm)|Scrimshaw whale bone|Gravure en os de baleine|libre|
 |[treasure-8RH0e9UqXIxAPJJG.htm](equipment/treasure-8RH0e9UqXIxAPJJG.htm)|Silk mask decorated with citrines|Masque en soie décoré de citrines|libre|
 |[treasure-9FsyNDq3VOsFumhz.htm](equipment/treasure-9FsyNDq3VOsFumhz.htm)|Gold rapier with amethysts|rapière en or avec des améthystes|libre|
+|[treasure-Ab8yDhtYDJnFrjI4.htm](equipment/treasure-Ab8yDhtYDJnFrjI4.htm)|Colorful velvet half mask|Loup de velours coloré (loup = demi-masque)|libre|
 |[treasure-AgsZScsqv3puTmZx.htm](equipment/treasure-AgsZScsqv3puTmZx.htm)|Sardonyx|Sardonyx|libre|
+|[treasure-aqhEATP0vu4kx15I.htm](equipment/treasure-aqhEATP0vu4kx15I.htm)|Saint's bone with lost scriptures|Os de saint avec des écritures perdues|libre|
 |[treasure-B6B7tBWJSqOBz5zz.htm](equipment/treasure-B6B7tBWJSqOBz5zz.htm)|Gold Pieces|Pièces d'or|libre|
 |[treasure-bgswgiXV12HW0aEz.htm](equipment/treasure-bgswgiXV12HW0aEz.htm)|Simple painting|Peinture simple|libre|
+|[treasure-BlqDXtRZcevCYRNz.htm](equipment/treasure-BlqDXtRZcevCYRNz.htm)|Jeweled mithral crown|Couronne de mithril avec des joyaux|libre|
 |[treasure-CNLt74pUxM0GGjyl.htm](equipment/treasure-CNLt74pUxM0GGjyl.htm)|Simple silver circlet|Bandeau simple en argent|libre|
 |[treasure-CRTNNgrmssD6bQqQ.htm](equipment/treasure-CRTNNgrmssD6bQqQ.htm)|Jet|Jais|libre|
 |[treasure-cSBupUqjsHJwivbp.htm](equipment/treasure-cSBupUqjsHJwivbp.htm)|Etched copper ewer|aiguière de cuivre gravée|libre|
@@ -1129,10 +1127,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-FW1AEh214U1mMWh7.htm](equipment/treasure-FW1AEh214U1mMWh7.htm)|Chrysoprase|Chrysoprase|libre|
 |[treasure-FwYqacDEAmXk5jB5.htm](equipment/treasure-FwYqacDEAmXk5jB5.htm)|Star sapphire necklace|Collier de saphirs étoilés|libre|
 |[treasure-G5WuYX1ghrZcJ1J1.htm](equipment/treasure-G5WuYX1ghrZcJ1J1.htm)|Illustrated book|Livre illustré|libre|
+|[treasure-GgwlIaNPJVsyRwzz.htm](equipment/treasure-GgwlIaNPJVsyRwzz.htm)|Parade armor with flourishes|Armure de parade avec des fioritures|libre|
 |[treasure-Gi4vx84LhppOQAxr.htm](equipment/treasure-Gi4vx84LhppOQAxr.htm)|Silver coronet with peridots|Diadème d'argent avec des péridots|libre|
 |[treasure-H8BXvZ1DUg3uJ53K.htm](equipment/treasure-H8BXvZ1DUg3uJ53K.htm)|Gold urn with scenes of judgment|Urne doré portant des scènes de jugement|libre|
 |[treasure-hhJfZgLhPaPh5V7e.htm](equipment/treasure-hhJfZgLhPaPh5V7e.htm)|Pearl, black|Perle noire|libre|
 |[treasure-hJc0dOcHJ2nkJcik.htm](equipment/treasure-hJc0dOcHJ2nkJcik.htm)|Spinel, deep blue|Spinelle, bleu profond|libre|
+|[treasure-HMdfNM7ibp1XtcVT.htm](equipment/treasure-HMdfNM7ibp1XtcVT.htm)|Platinum dragon statuette|Statuette de dragon en platine|libre|
 |[treasure-hMIG86aqKcVYJGsg.htm](equipment/treasure-hMIG86aqKcVYJGsg.htm)|Emerald|Émeraude|officielle|
 |[treasure-hnzNKdD5hjQc1NUx.htm](equipment/treasure-hnzNKdD5hjQc1NUx.htm)|Alabaster and obsidian game set|pièces d'un jeu en albâtre et en obsidienne|officielle|
 |[treasure-I3KlOUruQ2CZdcJ6.htm](equipment/treasure-I3KlOUruQ2CZdcJ6.htm)|Bronze bowl with wave imagery|Bol en bronze avec des motifs de vagues|libre|
