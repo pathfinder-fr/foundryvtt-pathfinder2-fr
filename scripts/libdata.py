@@ -16,7 +16,7 @@ SUPPORTED = {
   "archetypes":                     { 'transl': "Archétypes", "paths": { 'name': "name", 'desc': "content" } },
   #"pathfinder-bestiary":            { 'transl': "Bestiaire", "paths": { 'name': "name", 'desc': "content" } },
   #"pathfinder-bestiary-2":          { 'transl': "Bestiaire 2", "paths": { 'name': "name", 'desc': "content" } },
-  #"hazards":                        { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
+  "hazards":                        { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "data.details.description" } },
   #"age-of-ashes-bestiary":          { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
   #"extinction-curse-bestiary":      { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
   #"fall-of-plaguestone-bestiary":   { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },

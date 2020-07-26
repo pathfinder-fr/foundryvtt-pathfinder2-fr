@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-07-26 15:28 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-26 15:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -14,6 +14,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
  * [Bénédictions et malédictions](#bénédictions-et-malédictions)
  * [Capacités de classe](#capacités-de-classe)
  * [Classes](#classes)
+ * [Dangers](#dangers)
  * [Dons](#dons)
  * [Guide du MJ](#guide-du-mj)
  * [Sorts](#sorts)
@@ -879,6 +880,58 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Rogue](classes/6M4DO9lY25F8n6Li.htm)|Roublard|`@Compendium[pf2e.classes.6M4DO9lY25F8n6Li]`|
 |[Sorcerer](classes/WpMQGtgz46Cc5onF.htm)|Ensorceleur|`@Compendium[pf2e.classes.WpMQGtgz46Cc5onF]`|
 |[Wizard](classes/O6rpIOJQM78U9eyU.htm)|Magicien|`@Compendium[pf2e.classes.O6rpIOJQM78U9eyU]`|
+
+
+## Dangers
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Armageddon Orb](hazards/BsZ6o2YrwVovKfNh.htm)||`@Compendium[pf2e.hazards.BsZ6o2YrwVovKfNh]`|
+|[Banshee's Symphony](hazards/mMXHyWdmmAN0GPvG.htm)||`@Compendium[pf2e.hazards.mMXHyWdmmAN0GPvG]`|
+|[Bloodthirsty Urge](hazards/su4TRBOoso4vjkoK.htm)||`@Compendium[pf2e.hazards.su4TRBOoso4vjkoK]`|
+|[Bottomless Pit](hazards/xkqjwu1ox0pQLOnb.htm)||`@Compendium[pf2e.hazards.xkqjwu1ox0pQLOnb]`|
+|[Brown Mold](hazards/Q8bXKgDm8eguqThB.htm)||`@Compendium[pf2e.hazards.Q8bXKgDm8eguqThB]`|
+|[Confounding Betrayal](hazards/sFaAWmy1szDRmFtk.htm)||`@Compendium[pf2e.hazards.sFaAWmy1szDRmFtk]`|
+|[Dance Of Death](hazards/ZUCGvc2dTJUlM9dC.htm)||`@Compendium[pf2e.hazards.ZUCGvc2dTJUlM9dC]`|
+|[Darkside Mirror](hazards/4jJxLlimyQaIVXlt.htm)||`@Compendium[pf2e.hazards.4jJxLlimyQaIVXlt]`|
+|[Drowning Pit](hazards/OekigjNLNp9XENjx.htm)||`@Compendium[pf2e.hazards.OekigjNLNp9XENjx]`|
+|[Electric Latch Rune](hazards/491qhVbjsHnOuMZW.htm)||`@Compendium[pf2e.hazards.491qhVbjsHnOuMZW]`|
+|[Eternal Flame](hazards/O0qA1ElCOgYGEBtL.htm)||`@Compendium[pf2e.hazards.O0qA1ElCOgYGEBtL]`|
+|[Fireball Rune](hazards/2GAOUxDfoA48uCWP.htm)||`@Compendium[pf2e.hazards.2GAOUxDfoA48uCWP]`|
+|[Flensing Blades](hazards/g9HovYB4pfHgIML9.htm)||`@Compendium[pf2e.hazards.g9HovYB4pfHgIML9]`|
+|[Frozen Moment](hazards/8gAoSgBJN8QqzP1R.htm)||`@Compendium[pf2e.hazards.8gAoSgBJN8QqzP1R]`|
+|[Ghostly Choir](hazards/d3YklujLpBFC5HfB.htm)||`@Compendium[pf2e.hazards.d3YklujLpBFC5HfB]`|
+|[Grasp Of The Damned](hazards/siylw0zIh1g4VnCW.htm)||`@Compendium[pf2e.hazards.siylw0zIh1g4VnCW]`|
+|[Green Slime](hazards/LLPsEKLoVmoPleJS.htm)||`@Compendium[pf2e.hazards.LLPsEKLoVmoPleJS]`|
+|[Hallucination Powder Trap](hazards/uEZ4Jv2wNyukJTRL.htm)||`@Compendium[pf2e.hazards.uEZ4Jv2wNyukJTRL]`|
+|[Hammer Of Forbiddance](hazards/tbwGr6FIr5WpvQ6l.htm)||`@Compendium[pf2e.hazards.tbwGr6FIr5WpvQ6l]`|
+|[Hampering Web](hazards/98rS64gLzy1ReXoR.htm)||`@Compendium[pf2e.hazards.98rS64gLzy1ReXoR]`|
+|[Hidden Pit](hazards/BHq5wpQU8hQEke8D.htm)||`@Compendium[pf2e.hazards.BHq5wpQU8hQEke8D]`|
+|[Jealous Abjurer](hazards/inUlZWE1isqnTRc5.htm)||`@Compendium[pf2e.hazards.inUlZWE1isqnTRc5]`|
+|[Lava Flume Tube](hazards/oNLgR1iq6MVvNRWo.htm)||`@Compendium[pf2e.hazards.oNLgR1iq6MVvNRWo]`|
+|[Perilous Flash Flood](hazards/lgyGhpyPosriQUzE.htm)||`@Compendium[pf2e.hazards.lgyGhpyPosriQUzE]`|
+|[Pharaoh's Ward](hazards/m4PRYxFq9ojcwesh.htm)||`@Compendium[pf2e.hazards.m4PRYxFq9ojcwesh]`|
+|[Planar Rift](hazards/yM4G2LvMwvkIRx0G.htm)||`@Compendium[pf2e.hazards.yM4G2LvMwvkIRx0G]`|
+|[Plummeting Doom](hazards/gB9WkJtH88jJQa5Z.htm)||`@Compendium[pf2e.hazards.gB9WkJtH88jJQa5Z]`|
+|[Poisoned Dart Gallery](hazards/lVqVDjXnHboMif7F.htm)||`@Compendium[pf2e.hazards.lVqVDjXnHboMif7F]`|
+|[Poisoned Lock](hazards/v2xIxZ9ZZ6fJyATF.htm)||`@Compendium[pf2e.hazards.v2xIxZ9ZZ6fJyATF]`|
+|[Polymorph Trap](hazards/H8CPGJn81JSTCRNx.htm)||`@Compendium[pf2e.hazards.H8CPGJn81JSTCRNx]`|
+|[Quicksand](hazards/C6nFe8SCWJ8FmLOT.htm)||`@Compendium[pf2e.hazards.C6nFe8SCWJ8FmLOT]`|
+|[Scythe Blades](hazards/7VqibTAEXXX6PIhh.htm)||`@Compendium[pf2e.hazards.7VqibTAEXXX6PIhh]`|
+|[Second Chance](hazards/8ewUvJlvn6LVjoXJ.htm)||`@Compendium[pf2e.hazards.8ewUvJlvn6LVjoXJ]`|
+|[Shrieker](hazards/vTdWEBzJzltMM6r4.htm)||`@Compendium[pf2e.hazards.vTdWEBzJzltMM6r4]`|
+|[Slamming Door](hazards/4O7wKZdeAemTEbvG.htm)||`@Compendium[pf2e.hazards.4O7wKZdeAemTEbvG]`|
+|[Snowfall](hazards/VA4VL3kVUxBYbwRf.htm)||`@Compendium[pf2e.hazards.VA4VL3kVUxBYbwRf]`|
+|[Spear Launcher](hazards/vlMuFskctUvjJe8X.htm)||`@Compendium[pf2e.hazards.vlMuFskctUvjJe8X]`|
+|[Spectral Reflection](hazards/Uw2iVgbbeyn3mOjt.htm)||`@Compendium[pf2e.hazards.Uw2iVgbbeyn3mOjt]`|
+|[Spinning Blade Pillar](hazards/HnPd9Vqh5NHKEdRq.htm)||`@Compendium[pf2e.hazards.HnPd9Vqh5NHKEdRq]`|
+|[Summoning Rune](hazards/nO4osrBRnpWKFCMP.htm)||`@Compendium[pf2e.hazards.nO4osrBRnpWKFCMP]`|
+|[Telekinetic Swarm Trap](hazards/AM3YY2Zfe2ChJHd7.htm)||`@Compendium[pf2e.hazards.AM3YY2Zfe2ChJHd7]`|
+|[Titanic Flytrap](hazards/6In2S3lDnxNgZ2np.htm)||`@Compendium[pf2e.hazards.6In2S3lDnxNgZ2np]`|
+|[Treacherous Scree](hazards/gFt2nzQrVgXM9tmJ.htm)||`@Compendium[pf2e.hazards.gFt2nzQrVgXM9tmJ]`|
+|[Vorpal Executioner](hazards/J4YChuob7MIPT5Mq.htm)||`@Compendium[pf2e.hazards.J4YChuob7MIPT5Mq]`|
+|[Wheel Of Misery](hazards/H2GX04CQXLPQHT8h.htm)||`@Compendium[pf2e.hazards.H2GX04CQXLPQHT8h]`|
+|[Yellow Mold](hazards/A93flWUsot3FmC7t.htm)||`@Compendium[pf2e.hazards.A93flWUsot3FmC7t]`|
 
 
 ## Dons
