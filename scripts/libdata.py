@@ -32,7 +32,7 @@ SUPPORTED = {
   #"criticaldeck":                   { 'transl': "Critiques", "paths": { 'name': "name", 'desc': "content" } },
   #"pf2e-macros":                    { 'transl': "Macros PF2e", "paths": { 'name': "name", 'desc': "content" } },
   "bestiary-ability-glossary-srd":  { 'transl': "Aptitudes du Bestiaire", "paths": { 'name': "name", 'desc': "data.description.value" } },
-  #"pathfinder-society-boons":       { 'transl': "Macros PF2e", "paths": { 'name': "name", 'desc': "content" } },
+  "pathfinder-society-boons":       { 'transl': "Macros PF2e", "paths": { 'name': "name", 'desc': "data.description.value" } },
   "boons-and-curses":               { 'transl': "Bénédictions et malédictions", "paths": { 'name': "name", 'desc': "data.description.value" } },
 }
 

@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-07-26 15:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-26 15:35 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -17,6 +17,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
  * [Dangers](#dangers)
  * [Dons](#dons)
  * [Guide du MJ](#guide-du-mj)
+ * [Macros PF2e](#macros-pf2e)
  * [Sorts](#sorts)
  * [Équipement](#équipement)
 
@@ -2247,6 +2248,122 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Wasteland Survivors](gmg-srd/bRQz8uVlYtQ1cwwI.htm)||`@Compendium[pf2e.gmg-srd.bRQz8uVlYtQ1cwwI]`|
 |[Witnessed War](gmg-srd/oDhTOO1WjEZk1qfD.htm)||`@Compendium[pf2e.gmg-srd.oDhTOO1WjEZk1qfD]`|
 |[Won a Competition](gmg-srd/YsY9euHOGCGc3mTE.htm)||`@Compendium[pf2e.gmg-srd.YsY9euHOGCGc3mTE]`|
+
+
+## Macros PF2e
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Academic Conference](pathfinder-society-boons/XoamInggkxLh6Zo0.htm)||`@Compendium[pf2e.pathfinder-society-boons.XoamInggkxLh6Zo0]`|
+|[Adversary Lore](pathfinder-society-boons/XBf4Uz3n0AwSmpXx.htm)||`@Compendium[pf2e.pathfinder-society-boons.XBf4Uz3n0AwSmpXx]`|
+|[Beginnings and Endings](pathfinder-society-boons/rdY0vyXfrIlkQgqd.htm)||`@Compendium[pf2e.pathfinder-society-boons.rdY0vyXfrIlkQgqd]`|
+|[Bequethal](pathfinder-society-boons/GRiNBy8yv4sWp1ua.htm)||`@Compendium[pf2e.pathfinder-society-boons.GRiNBy8yv4sWp1ua]`|
+|[Bring Them Back Alive](pathfinder-society-boons/SI37oVZxjwXew3E4.htm)||`@Compendium[pf2e.pathfinder-society-boons.SI37oVZxjwXew3E4]`|
+|[Charitable Adventure](pathfinder-society-boons/bMp6W5kPNyqBoOxm.htm)||`@Compendium[pf2e.pathfinder-society-boons.bMp6W5kPNyqBoOxm]`|
+|[Consummate Dabbler](pathfinder-society-boons/5tWlPSGW5AEk10GJ.htm)||`@Compendium[pf2e.pathfinder-society-boons.5tWlPSGW5AEk10GJ]`|
+|[Crafter's Workshop](pathfinder-society-boons/gdkQ04RgMJZ0QxbZ.htm)||`@Compendium[pf2e.pathfinder-society-boons.gdkQ04RgMJZ0QxbZ]`|
+|[Curse Breaker](pathfinder-society-boons/oOB1uKvoBMGj7ykZ.htm)||`@Compendium[pf2e.pathfinder-society-boons.oOB1uKvoBMGj7ykZ]`|
+|[Eager Protege](pathfinder-society-boons/0zhQQK3gvu75ac1Q.htm)||`@Compendium[pf2e.pathfinder-society-boons.0zhQQK3gvu75ac1Q]`|
+|[Envoy's Alliance Champion](pathfinder-society-boons/jzJ575vAsw2MaRgo.htm)||`@Compendium[pf2e.pathfinder-society-boons.jzJ575vAsw2MaRgo]`|
+|[Envoy's Alliance Champion, Improved](pathfinder-society-boons/l8WNWPFUdxcqEG6e.htm)||`@Compendium[pf2e.pathfinder-society-boons.l8WNWPFUdxcqEG6e]`|
+|[Exemplary Recruiter](pathfinder-society-boons/ocS6B3AV1n7yHFd5.htm)||`@Compendium[pf2e.pathfinder-society-boons.ocS6B3AV1n7yHFd5]`|
+|[Exotic Edge](pathfinder-society-boons/UWZfORgk1yVNV0RF.htm)||`@Compendium[pf2e.pathfinder-society-boons.UWZfORgk1yVNV0RF]`|
+|[FoP - Fiery Companion](pathfinder-society-boons/2QzXBsURLO7xECxO.htm)||`@Compendium[pf2e.pathfinder-society-boons.2QzXBsURLO7xECxO]`|
+|[FoP - Noala's Lessons](pathfinder-society-boons/4lLhGgG30TMu8tIx.htm)||`@Compendium[pf2e.pathfinder-society-boons.4lLhGgG30TMu8tIx]`|
+|[Grand Archive Champion](pathfinder-society-boons/8fbBYNkFQgU3IQV0.htm)||`@Compendium[pf2e.pathfinder-society-boons.8fbBYNkFQgU3IQV0]`|
+|[Grand Archive Champion, Improved](pathfinder-society-boons/Tmqa8Q9zaYr0uj6F.htm)||`@Compendium[pf2e.pathfinder-society-boons.Tmqa8Q9zaYr0uj6F]`|
+|[Heroic Defiance](pathfinder-society-boons/hghR0f5IetZBvyDR.htm)||`@Compendium[pf2e.pathfinder-society-boons.hghR0f5IetZBvyDR]`|
+|[Heroic Hustle](pathfinder-society-boons/Wz2F0qk4rxZeH311.htm)||`@Compendium[pf2e.pathfinder-society-boons.Wz2F0qk4rxZeH311]`|
+|[Heroic Inspiration](pathfinder-society-boons/0QRG6TAVwCWL2Zr8.htm)||`@Compendium[pf2e.pathfinder-society-boons.0QRG6TAVwCWL2Zr8]`|
+|[Heroic Intervention](pathfinder-society-boons/En3RdoXDAtyXdNKq.htm)||`@Compendium[pf2e.pathfinder-society-boons.En3RdoXDAtyXdNKq]`|
+|[Heroic Recall](pathfinder-society-boons/wkgBg5UD3bChfl4b.htm)||`@Compendium[pf2e.pathfinder-society-boons.wkgBg5UD3bChfl4b]`|
+|[Heroic Resurgence](pathfinder-society-boons/UNlaVxb0pDov3efw.htm)||`@Compendium[pf2e.pathfinder-society-boons.UNlaVxb0pDov3efw]`|
+|[Hireling](pathfinder-society-boons/sBXsfT0uYltF8TFE.htm)||`@Compendium[pf2e.pathfinder-society-boons.sBXsfT0uYltF8TFE]`|
+|[Hireling, Expert](pathfinder-society-boons/1VWMLe12ZFqF9jah.htm)||`@Compendium[pf2e.pathfinder-society-boons.1VWMLe12ZFqF9jah]`|
+|[Hireling, Master](pathfinder-society-boons/ca869lJo8E51WcW4.htm)||`@Compendium[pf2e.pathfinder-society-boons.ca869lJo8E51WcW4]`|
+|[Hireling, Professional](pathfinder-society-boons/mrlQrZd0yBwOj2lk.htm)||`@Compendium[pf2e.pathfinder-society-boons.mrlQrZd0yBwOj2lk]`|
+|[Home Region](pathfinder-society-boons/KXO4CUklzuJ0tZnw.htm)||`@Compendium[pf2e.pathfinder-society-boons.KXO4CUklzuJ0tZnw]`|
+|[Horizon Hunters Champion](pathfinder-society-boons/ph7CO8ong1sZmrNc.htm)||`@Compendium[pf2e.pathfinder-society-boons.ph7CO8ong1sZmrNc]`|
+|[Horizon Hunters Champion, Improved](pathfinder-society-boons/Sc9gT40T28tFhSzq.htm)||`@Compendium[pf2e.pathfinder-society-boons.Sc9gT40T28tFhSzq]`|
+|[Leader By Example](pathfinder-society-boons/hy1gMMpRmujuw8i4.htm)||`@Compendium[pf2e.pathfinder-society-boons.hy1gMMpRmujuw8i4]`|
+|[Leshy Companion](pathfinder-society-boons/Mu5GQ9ZEz3geAYxK.htm)||`@Compendium[pf2e.pathfinder-society-boons.Mu5GQ9ZEz3geAYxK]`|
+|[Mentor, Combat](pathfinder-society-boons/vYSA5M9fgBdYiGLT.htm)||`@Compendium[pf2e.pathfinder-society-boons.vYSA5M9fgBdYiGLT]`|
+|[Mentor, Magical](pathfinder-society-boons/95R55tdobViU7ZWe.htm)||`@Compendium[pf2e.pathfinder-society-boons.95R55tdobViU7ZWe]`|
+|[Mentor, Protective](pathfinder-society-boons/PXtBhRVHM28angjV.htm)||`@Compendium[pf2e.pathfinder-society-boons.PXtBhRVHM28angjV]`|
+|[Mentor, Rugged](pathfinder-society-boons/DkqU67wxvbDu0Qrs.htm)||`@Compendium[pf2e.pathfinder-society-boons.DkqU67wxvbDu0Qrs]`|
+|[Mentor, Skillful](pathfinder-society-boons/J1hUP5SI4MJvlK36.htm)||`@Compendium[pf2e.pathfinder-society-boons.J1hUP5SI4MJvlK36]`|
+|[Mentor, Worldly](pathfinder-society-boons/9w8TdCsGEpttXYuy.htm)||`@Compendium[pf2e.pathfinder-society-boons.9w8TdCsGEpttXYuy]`|
+|[Meticulous Appraisal](pathfinder-society-boons/MN3MlIx7djj7WDNY.htm)||`@Compendium[pf2e.pathfinder-society-boons.MN3MlIx7djj7WDNY]`|
+|[Multicultural Training](pathfinder-society-boons/bcsusUErwGQYHj6d.htm)||`@Compendium[pf2e.pathfinder-society-boons.bcsusUErwGQYHj6d]`|
+|[Naturalist](pathfinder-society-boons/0FwLrQb5EeQDAUNW.htm)||`@Compendium[pf2e.pathfinder-society-boons.0FwLrQb5EeQDAUNW]`|
+|[Off-Hours Study](pathfinder-society-boons/XkNW2dq5hwWOViYg.htm)||`@Compendium[pf2e.pathfinder-society-boons.XkNW2dq5hwWOViYg]`|
+|[Practiced Medic](pathfinder-society-boons/awcOD618fuXZN3rh.htm)||`@Compendium[pf2e.pathfinder-society-boons.awcOD618fuXZN3rh]`|
+|[Preserve](pathfinder-society-boons/WGjcz2mkgGB1qCWw.htm)||`@Compendium[pf2e.pathfinder-society-boons.WGjcz2mkgGB1qCWw]`|
+|[Promotional Accessory](pathfinder-society-boons/aG5cua0K2SlurXxw.htm)||`@Compendium[pf2e.pathfinder-society-boons.aG5cua0K2SlurXxw]`|
+|[Promotional Service Award](pathfinder-society-boons/cjjRFoOE1GtjEA3F.htm)||`@Compendium[pf2e.pathfinder-society-boons.cjjRFoOE1GtjEA3F]`|
+|[Promotional Vestments](pathfinder-society-boons/SDDbh7KmDn5HUbst.htm)||`@Compendium[pf2e.pathfinder-society-boons.SDDbh7KmDn5HUbst]`|
+|[Radiant Oath Champion](pathfinder-society-boons/M8cJ8qOwWj7XN6h1.htm)||`@Compendium[pf2e.pathfinder-society-boons.M8cJ8qOwWj7XN6h1]`|
+|[Radiant Oath Champion, Improved](pathfinder-society-boons/qaSlz43CHPiCoIOC.htm)||`@Compendium[pf2e.pathfinder-society-boons.qaSlz43CHPiCoIOC]`|
+|[Resist Corruption](pathfinder-society-boons/rFgWvC1UADsavY5J.htm)||`@Compendium[pf2e.pathfinder-society-boons.rFgWvC1UADsavY5J]`|
+|[Resurrection Plan](pathfinder-society-boons/M2lGGGaPIOimeA31.htm)||`@Compendium[pf2e.pathfinder-society-boons.M2lGGGaPIOimeA31]`|
+|[S1-00 - Nexian Researcher](pathfinder-society-boons/YVpNrVBLRrHjaR4C.htm)||`@Compendium[pf2e.pathfinder-society-boons.YVpNrVBLRrHjaR4C]`|
+|[S1-01 - Engraved Wayfinder](pathfinder-society-boons/P1sdPHrbAfqrEAM3.htm)||`@Compendium[pf2e.pathfinder-society-boons.P1sdPHrbAfqrEAM3]`|
+|[S1-01 - Society Connections](pathfinder-society-boons/ig06ikA6rnNP1JUb.htm)||`@Compendium[pf2e.pathfinder-society-boons.ig06ikA6rnNP1JUb]`|
+|[S1-02 - Cryptid Scholar](pathfinder-society-boons/632pDmCtbQxBlE3d.htm)||`@Compendium[pf2e.pathfinder-society-boons.632pDmCtbQxBlE3d]`|
+|[S1-03 - Team Player](pathfinder-society-boons/1welewgoB0z86Nms.htm)||`@Compendium[pf2e.pathfinder-society-boons.1welewgoB0z86Nms]`|
+|[S1-04 - A Thorny Situation](pathfinder-society-boons/6oTXrz56Evik64Fy.htm)||`@Compendium[pf2e.pathfinder-society-boons.6oTXrz56Evik64Fy]`|
+|[S1-04 - Touched by the Storm](pathfinder-society-boons/XybjaZJlmBFFztwJ.htm)||`@Compendium[pf2e.pathfinder-society-boons.XybjaZJlmBFFztwJ]`|
+|[S1-05 - Experienced Mountaineer](pathfinder-society-boons/GIdtqEFKKgwPmDBq.htm)||`@Compendium[pf2e.pathfinder-society-boons.GIdtqEFKKgwPmDBq]`|
+|[S1-06 - Traveler of the Spirit Road](pathfinder-society-boons/WVOP420jZ4jSTYI8.htm)||`@Compendium[pf2e.pathfinder-society-boons.WVOP420jZ4jSTYI8]`|
+|[S1-07 - Blast from the Past](pathfinder-society-boons/0izXWwYqRGQq74mG.htm)||`@Compendium[pf2e.pathfinder-society-boons.0izXWwYqRGQq74mG]`|
+|[S1-07 - To Seal and Protect](pathfinder-society-boons/T7gyK9LV14wI7Xdy.htm)||`@Compendium[pf2e.pathfinder-society-boons.T7gyK9LV14wI7Xdy]`|
+|[S1-08 - River Kingdoms Politician](pathfinder-society-boons/lJ1lNwGxV0IrsN2z.htm)||`@Compendium[pf2e.pathfinder-society-boons.lJ1lNwGxV0IrsN2z]`|
+|[S1-09 - Ally of the Iruxi](pathfinder-society-boons/ZtLTqT4G5q8SLJCT.htm)||`@Compendium[pf2e.pathfinder-society-boons.ZtLTqT4G5q8SLJCT]`|
+|[S1-09 - Iruxi Bane](pathfinder-society-boons/wdjRk8JaZGP1mjqD.htm)||`@Compendium[pf2e.pathfinder-society-boons.wdjRk8JaZGP1mjqD]`|
+|[S1-10 - Tarnbreaker Champions](pathfinder-society-boons/giyLRNefaC3IsFay.htm)||`@Compendium[pf2e.pathfinder-society-boons.giyLRNefaC3IsFay]`|
+|[S1-11 - Devil's Keep](pathfinder-society-boons/ePZOmPbGXzrEaXXs.htm)||`@Compendium[pf2e.pathfinder-society-boons.ePZOmPbGXzrEaXXs]`|
+|[S1-11 - Diggen the Liar](pathfinder-society-boons/fTndDUqUDSVXM0Qm.htm)||`@Compendium[pf2e.pathfinder-society-boons.fTndDUqUDSVXM0Qm]`|
+|[S1-12 - Valais's Assurance](pathfinder-society-boons/XOVDOCsvNBX5LS8j.htm)||`@Compendium[pf2e.pathfinder-society-boons.XOVDOCsvNBX5LS8j]`|
+|[S1-13 - Convention Hero](pathfinder-society-boons/xVMouu7E7Xy7AGER.htm)||`@Compendium[pf2e.pathfinder-society-boons.xVMouu7E7Xy7AGER]`|
+|[S1-14 - Big Game Hunter](pathfinder-society-boons/JznxnYTs38GYpW1p.htm)||`@Compendium[pf2e.pathfinder-society-boons.JznxnYTs38GYpW1p]`|
+|[S1-15 - Finadar Leshy](pathfinder-society-boons/hxp0fDMrB7BT3y3T.htm)||`@Compendium[pf2e.pathfinder-society-boons.hxp0fDMrB7BT3y3T]`|
+|[S1-16 - Blood Offering](pathfinder-society-boons/DcMAGJWq2G5kGRWn.htm)||`@Compendium[pf2e.pathfinder-society-boons.DcMAGJWq2G5kGRWn]`|
+|[S1-17 - Fey Influence](pathfinder-society-boons/taUqYoHuWH9uEbsn.htm)||`@Compendium[pf2e.pathfinder-society-boons.taUqYoHuWH9uEbsn]`|
+|[S1-18 - Light in the Dark](pathfinder-society-boons/Y69ZRmuoj0XK9AZm.htm)||`@Compendium[pf2e.pathfinder-society-boons.Y69ZRmuoj0XK9AZm]`|
+|[S1-18 - Narsen's Web](pathfinder-society-boons/tX2vxY8RSdcBayEu.htm)||`@Compendium[pf2e.pathfinder-society-boons.tX2vxY8RSdcBayEu]`|
+|[S1-19 - Iolite Trainee Hobgoblin](pathfinder-society-boons/p8TKPInhya6oab1w.htm)||`@Compendium[pf2e.pathfinder-society-boons.p8TKPInhya6oab1w]`|
+|[S1-20 - Waters of Warlock's Barrow](pathfinder-society-boons/YVOyEfO8tTx4jj2q.htm)||`@Compendium[pf2e.pathfinder-society-boons.YVOyEfO8tTx4jj2q]`|
+|[S1-21 - Maze Walker](pathfinder-society-boons/ZZvIzyH6SwyVkEYm.htm)||`@Compendium[pf2e.pathfinder-society-boons.ZZvIzyH6SwyVkEYm]`|
+|[S1-Q01 - Sand Slide](pathfinder-society-boons/WYHPJyza1BJgtFq4.htm)||`@Compendium[pf2e.pathfinder-society-boons.WYHPJyza1BJgtFq4]`|
+|[S1-Q02 - One-Who-Waits](pathfinder-society-boons/6gVFdrqhs0mihRao.htm)||`@Compendium[pf2e.pathfinder-society-boons.6gVFdrqhs0mihRao]`|
+|[S1-Q02 - Student of the Unforgiving Fire](pathfinder-society-boons/y8sk7Q4uAtacYdR2.htm)||`@Compendium[pf2e.pathfinder-society-boons.y8sk7Q4uAtacYdR2]`|
+|[S1-Q03 - Legacy of the Gorget](pathfinder-society-boons/NR19RYJLveHrFYvf.htm)||`@Compendium[pf2e.pathfinder-society-boons.NR19RYJLveHrFYvf]`|
+|[S1-Q04 - Fane's Friend](pathfinder-society-boons/prHShOQxNpLXwlss.htm)||`@Compendium[pf2e.pathfinder-society-boons.prHShOQxNpLXwlss]`|
+|[S1-Q04 - Stella's Associate](pathfinder-society-boons/RGSw5tAc4ALp97Qe.htm)||`@Compendium[pf2e.pathfinder-society-boons.RGSw5tAc4ALp97Qe]`|
+|[S1-Q06 - Secrets of the Jistkan Alchemists](pathfinder-society-boons/MLn6UbZsU4PphXLE.htm)||`@Compendium[pf2e.pathfinder-society-boons.MLn6UbZsU4PphXLE]`|
+|[S1-Q07 - Amateur Adjuster](pathfinder-society-boons/DD1mlAEaXdM1pBze.htm)||`@Compendium[pf2e.pathfinder-society-boons.DD1mlAEaXdM1pBze]`|
+|[S1-Q08 - Numerian Archaeologist](pathfinder-society-boons/yNTePhAPVMguqUVA.htm)||`@Compendium[pf2e.pathfinder-society-boons.yNTePhAPVMguqUVA]`|
+|[S1-Q09 - Wayfinder Connections](pathfinder-society-boons/RJYIefY9Skx8CAgw.htm)||`@Compendium[pf2e.pathfinder-society-boons.RJYIefY9Skx8CAgw]`|
+|[S1-Q10 - Sewer Dragon Recruit](pathfinder-society-boons/MuhZZkLR8y9eEndN.htm)||`@Compendium[pf2e.pathfinder-society-boons.MuhZZkLR8y9eEndN]`|
+|[Secondary Initiation](pathfinder-society-boons/opaFl76Nbz1dITLz.htm)||`@Compendium[pf2e.pathfinder-society-boons.opaFl76Nbz1dITLz]`|
+|[Sellback Plan](pathfinder-society-boons/3lHqim7ttvoMmVXW.htm)||`@Compendium[pf2e.pathfinder-society-boons.3lHqim7ttvoMmVXW]`|
+|[Society Recruiter](pathfinder-society-boons/KZrXvKlAVcpLgGF8.htm)||`@Compendium[pf2e.pathfinder-society-boons.KZrXvKlAVcpLgGF8]`|
+|[Storied Talent](pathfinder-society-boons/M1flDLvjKBH9QPcx.htm)||`@Compendium[pf2e.pathfinder-society-boons.M1flDLvjKBH9QPcx]`|
+|[Swift Traveler](pathfinder-society-boons/K21KQsrR3RMcJ1du.htm)||`@Compendium[pf2e.pathfinder-society-boons.K21KQsrR3RMcJ1du]`|
+|[Translator](pathfinder-society-boons/rddlbymeG9KbQYQM.htm)||`@Compendium[pf2e.pathfinder-society-boons.rddlbymeG9KbQYQM]`|
+|[Unparalleled Scholarship](pathfinder-society-boons/CW73M2apBaQh6wLm.htm)||`@Compendium[pf2e.pathfinder-society-boons.CW73M2apBaQh6wLm]`|
+|[Untarnished Reputation](pathfinder-society-boons/Gmzby7whs5O0wuYC.htm)||`@Compendium[pf2e.pathfinder-society-boons.Gmzby7whs5O0wuYC]`|
+|[Vault Delver](pathfinder-society-boons/G0hv2CI7TKcUcSVs.htm)||`@Compendium[pf2e.pathfinder-society-boons.G0hv2CI7TKcUcSVs]`|
+|[Verdant Wheel Champion](pathfinder-society-boons/1FWpmtZHOLRvEIdp.htm)||`@Compendium[pf2e.pathfinder-society-boons.1FWpmtZHOLRvEIdp]`|
+|[Verdant Wheel Champion, Improved](pathfinder-society-boons/cyrntY2zgDyzxQGO.htm)||`@Compendium[pf2e.pathfinder-society-boons.cyrntY2zgDyzxQGO]`|
+|[Vigilant Seal Champion](pathfinder-society-boons/6frkVrsCgTgFhMjl.htm)||`@Compendium[pf2e.pathfinder-society-boons.6frkVrsCgTgFhMjl]`|
+|[Vigilant Seal Champion, Improved](pathfinder-society-boons/CLRt3iFqWlMwCNVl.htm)||`@Compendium[pf2e.pathfinder-society-boons.CLRt3iFqWlMwCNVl]`|
+|[Wayfinder](pathfinder-society-boons/SxUBWlQj6BT5g4Rw.htm)||`@Compendium[pf2e.pathfinder-society-boons.SxUBWlQj6BT5g4Rw]`|
+|[Wayfinder, Adamant](pathfinder-society-boons/BEaLe5M23Q7LKTLL.htm)||`@Compendium[pf2e.pathfinder-society-boons.BEaLe5M23Q7LKTLL]`|
+|[Wayfinder, Esoteric](pathfinder-society-boons/SujEcE3H5n9kx1PI.htm)||`@Compendium[pf2e.pathfinder-society-boons.SujEcE3H5n9kx1PI]`|
+|[Wayfinder, Harmonic](pathfinder-society-boons/4O3qxD3I4LUjl2Vq.htm)||`@Compendium[pf2e.pathfinder-society-boons.4O3qxD3I4LUjl2Vq]`|
+|[Wayfinder, Rugged](pathfinder-society-boons/U6QqFDstHNjEeOUS.htm)||`@Compendium[pf2e.pathfinder-society-boons.U6QqFDstHNjEeOUS]`|
+|[World Traveller](pathfinder-society-boons/CPcMqEd4H5yIVl3i.htm)||`@Compendium[pf2e.pathfinder-society-boons.CPcMqEd4H5yIVl3i]`|
 
 
 ## Sorts
