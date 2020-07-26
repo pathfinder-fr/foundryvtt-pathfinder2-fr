@@ -14,7 +14,7 @@ SUPPORTED = {
   "conditions":                     { 'transl': "Conditions", "paths": { 'name': "name", 'desc': "content" } },
   "actions":                        { 'transl': "Actions", "paths": { 'name': "name", 'desc': "data.description.value" } },
   "archetypes":                     { 'transl': "Archétypes", "paths": { 'name': "name", 'desc': "content" } },
-  #"pathfinder-bestiary":            { 'transl': "Bestiaire", "paths": { 'name': "name", 'desc': "content" } },
+  "pathfinder-bestiary":            { 'transl': "Bestiaire", "paths": { 'name': "name", 'desc': "data.details.flavorText" } },
   #"pathfinder-bestiary-2":          { 'transl': "Bestiaire 2", "paths": { 'name': "name", 'desc': "content" } },
   "hazards":                        { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "data.details.description" } },
   #"age-of-ashes-bestiary":          { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
