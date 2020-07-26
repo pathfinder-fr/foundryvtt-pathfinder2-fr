@@ -584,7 +584,7 @@
         {
             "id": "Ravening's Desperation",
             "name": "Énergie du désespoir (Ravening's Desperation)",
-            "description": "<p><span><strong>Prérequis</strong> qualifié en Connaissance de Zevgavizeb<br></span></p>\n<hr>\n<p>Votre étude de la <a href=\"https://2e.aonprd.com/Deities.aspx?ID=82\">Bête de Gloutonnoir</a> vous a enseigné comment faire dans les circonstances les plus difficiles au lieu de succomber à la faiblesse. Tant que votre montant actuel de Points de Vie est inférieur à la moitié de votre maximum de Points de vie, vous obtenez un bonus de circonstance de +1 en Survi et aux tests de Discrétion. Si votre montant actuel de Points de vie est de moins d'un quart de votre maximum de Points de Vie, le bonus de circonstance est de +2 à la place.&nbsp;</p>"
+            "description": "<p><span><strong>Prérequis</strong> qualifié en Connaissance de Zevgavizeb<br></span></p>\n<hr>\n<p>Votre étude de la <a href=\"https://2e.aonprd.com/Deities.aspx?ID=82\">Bête de Gloutonnoir</a> vous a enseigné comment faire dans les circonstances les plus difficiles au lieu de succomber à la faiblesse. Tant que votre montant actuel de Points de Vie est inférieur à la moitié de votre maximum de Points de vie, vous obtenez un bonus de circonstance de +1 en Survie et aux tests de Discrétion. Si votre montant actuel de Points de Vie est de moins d'un quart de votre maximum de Points de Vie, le bonus de circonstance est de +2 à la place.&nbsp;</p>"
         },
         {
             "id": "Interweave Dispel",
@@ -2112,6 +2112,11 @@
             "description": "<p><strong>Prérequis</strong> sort de lignage</p>\n<hr>\n<p>Vous avez fait des recherches sur votre lignage pour apprendre les secrets de sa magie. Vous gagnez le sort de lignage avancé associé à votre lignage. Augmentez de 1 le nombre de points de focalisation de votre réserve</p>"
         },
         {
+            "id": "Sow Rumor",
+            "name": "Semer des rumeurs (Sow Rumor)",
+            "description": "<p><span><strong>Prérequis</strong> expert en Duperie<br></span></p>\n<hr>\n<p>Vous répandez des rumeurs qui peuvent ou non être vraies sur un sujet spécifique. Si le sujet de votre rumeur n'est pas actuellement le sujet de rumeurs contradictoires, cela prend aussi longtemps qu'il vous en faudrait normalement pour @Compendium[pf2e.actionspf2e.plBGdZhqq5JBl1D8]{Recueillir des informations} (typiquement 2 heures) au terme desquelles le MJ fait un test secret de Duperie pour voir comment se répand la rumeur. Si votre rumeur correspond à n'importe quelle rumeur actuelle sur le sujet, il faut moins de temps pour la répandre alors que si vous tentez de surpasser une rumeur particulièrement populaire  contradictoire, il vous faut beaucoup plus longtemps et cela pourrait être impossible. Le DD augmente ou décroît de la même manière selon le caractère plus ou moins plausible de votre rumeur.<br><br><strong>Succès critique</strong> Votre rumeur se répand comme un feu de paille. Quiconque réussit un test pour Recueillir des Informations sur le sujet spécifique apprend votre rumeur de préférence aux autres rumeurs sur le sujet. Votre rumeur persiste pendant 1 mois.<br><strong>Succès</strong> Vous répandez avec succès la rumeur. Quiconque réussit un test pour Recueillir des informations sur le sujet spécifique ajoute votre rumeur à la liste des rumeurs qu'il pourrait apprendre sur le sujet. Votre rumeur persiste pendant 1 semaine.<br><strong>Échec</strong> Votre rumeur s'éteint, ne devenant pas assez populaire pour que d'autres gens l'apprennent en Recueillant des informations.<br><strong>Échec critique</strong> Vous êtes incapable de répandre cette rumeur et subissez une pénalité de circonstance de –4 aux tests de Duperie pour Semer des rumeurs sur le même sujet dans la même région pendant 1 semaine. De plus, une rumeur se répand à propos de quelqu'un essayant de répandre de fausses rumeurs sur le sujet.&nbsp;</p>"
+        },
+        {
             "id": "Furious Bully",
             "name": "Cogneur brutal (Furious Bully)",
             "description": "<p><strong>Prérequis</strong> expert en Athlétisme</p>\n<hr>\n<p>Vous malmenez vos adversaires et ils ne risquent pas de l’oublier. Quand vous êtes enragé et que vous réussissez à Désarmer, Saisir, Pousser, ou faire un Croc-en-jambe à un adversaire, vous lui infligez une quantité de dégâts contondants égale à votre modificateur de Force ; vous ajoutez ces dégâts à ceux que vous infligez en cas de succès critique à un Croc-en-jambe.</p>"
@@ -2273,8 +2278,8 @@
         },
         {
             "id": "Goblin Scuttle",
-            "name": "Gobelin décampeur (Goblin Scuttle)",
-            "description": "<p><strong>Déclencheur</strong> Un allié termine un déplacement en étant adjacent à vous.</p>\n<hr>\n<p>Vous prenez avantage du mouvement de votre allié pour ajuster votre position. Vous @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faites un pas}.</p>"
+            "name": "Précipitation gobeline (Goblin Scuttle)",
+            "description": "<p><strong>Déclencheur</strong>  Un allié termine une action de déplacement sur une case adjacente à la vôtre.</p>\n<hr>\n<p>Vous profitez du déplacement de votre allié pour ajuster votre position. Vous @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faites un pas}.</p>"
         },
         {
             "id": "False Faith",
@@ -4617,6 +4622,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Il est difficile de remarquer votre passage à travers les zones sauvages. Tant que vous n'êtes pas dans un  environnement urbain, vous êtes toujours considéré comme <a href=\"https://2e.aonprd.com/Actions.aspx?ID=65\">Dissimuler les traces</a>, même si vous choisissez une activité différente en mode exploration.&nbsp;</span></p>"
         },
         {
+            "id": "Song of the Fallen",
+            "name": "Chanson des morts au combat (Song of the Fallen)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> réserve de focalisation<br></span></p>\n<hr>\n<p>Le pouvoir de déplacement de vos chansons peut conduire l'esprit des morts à se lever une fois de plus et combattre à vos côtés. Vous apprenez le sort de composition @Compendium[pf2e.spells-srd.IGXGs9PlqUCvODcH]{chanson des morts au combat}. Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.</p>"
+        },
+        {
             "id": "Second Sting",
             "name": "Second dard (Second Sting)",
             "description": "<p><strong>Conditions</strong> Vous maniez deux armes de corps à corps, une dans chaque main</p>\n<hr>\n<p>Vous anticipez les mouvements de votre proie et les ouvertures qu’elle offre pour que vos coups ratés avec une arme permettent des coups superficiels avec l’autre. Faites une Frappe au corps à corps contre votre proie avec l’une des armes requises. Cette Frappe obtient l’effet d’échec suivant.</p>\n<p><strong>Échec:</strong> Votre attaque inflige les dégâts qu’elle devrait normalement infliger en cas de succès, en enlevant tous les dés de dégâts (vous retirez ainsi les dés de dégâts conférés par les runes d’arme, les sorts, les pouvoirs spéciaux, en plus des dés de dégâts de l’arme).</p>"
@@ -4990,6 +5000,11 @@
             "id": "Harming Hands",
             "name": "Mains blessantes (Harming Hands)",
             "description": "<p><strong>Prérequis</strong> source de mise à mal</p>\n<hr>\n<p>La puissante morsure de votre énergie négative augmente. Quand vous lancez mise à mal, vous lancez des d10 et non plus des d8.</p>"
+        },
+        {
+            "id": "Steadfast Ally",
+            "name": "Allié inébranlable (Steadfast Ally)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Empathe Loyal<br></span></p>\n<hr>\n<p>Votre seule présence est suffisante pour fournir à vos alliés un support émotionnel. Vous pouvez utiliser la réaction @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} pour accorder un bonus aux tests de Volonté d'une autre créature même si vous ne vous étiez pas préparé à le faire.&nbsp;</p>"
         },
         {
             "id": "Flicker",

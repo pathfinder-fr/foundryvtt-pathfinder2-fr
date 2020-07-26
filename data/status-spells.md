@@ -6,7 +6,7 @@
  * **changé**: 45
 
 
-Dernière mise à jour: 2020-07-23 19:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-26 00:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -288,7 +288,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[abj-00-RA7VKcen3p56rVyZ.htm](spells/abj-00-RA7VKcen3p56rVyZ.htm)|Forbidding Ward|Sceau d'interdiction|officielle|
-|[abj-00-TVKNbcgTee19PXZR.htm](spells/abj-00-TVKNbcgTee19PXZR.htm)|Shield|Boulier|officielle|
+|[abj-00-TVKNbcgTee19PXZR.htm](spells/abj-00-TVKNbcgTee19PXZR.htm)|Shield|Bouclier|officielle|
 |[abj-00-xM35hJacTM1BSXUl.htm](spells/abj-00-xM35hJacTM1BSXUl.htm)|Silver's Refrain|Refrain d'argent|libre|
 |[abj-01-0fKHBh5goe2eiFYL.htm](spells/abj-01-0fKHBh5goe2eiFYL.htm)|Negate Aroma|Supprimer l’arôme|officielle|
 |[abj-01-4WAib3GichxLjp5p.htm](spells/abj-01-4WAib3GichxLjp5p.htm)|Alarm|Alarme|officielle|

@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 327
+ * **officielle**: 331
  * **changé**: 496
- * **aucune**: 403
- * **libre**: 114
+ * **aucune**: 339
+ * **libre**: 174
 
 
-Dernière mise à jour: 2020-07-23 19:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-26 00:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -308,70 +308,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-27-B4DnQNcGl6nFVKHl.htm](equipment/equipment-27-B4DnQNcGl6nFVKHl.htm)|Sphere of Annihilation|
 |[equipment-28-kwo4VKC9Qkplusxs.htm](equipment/equipment-28-kwo4VKC9Qkplusxs.htm)|Essence Prism|
 |[equipment-28-mH3LImCgJAkfKAA3.htm](equipment/equipment-28-mH3LImCgJAkfKAA3.htm)|Philosopher's Extractor|
-|[treasure-0b6BUtoFD4DotZHR.htm](equipment/treasure-0b6BUtoFD4DotZHR.htm)|Gilded ceremonial armor|
-|[treasure-5CqtgygdvqecMoRU.htm](equipment/treasure-5CqtgygdvqecMoRU.htm)|Thought lens of astral essence|
-|[treasure-aGJJwRpFRMgneROG.htm](equipment/treasure-aGJJwRpFRMgneROG.htm)|Quality sculpture by an unknown|
-|[treasure-dloHmPtGDr8zSwJu.htm](equipment/treasure-dloHmPtGDr8zSwJu.htm)|Leather flagon with Caydenite symbol|
-|[treasure-DWzoqVeEamX118Qk.htm](equipment/treasure-DWzoqVeEamX118Qk.htm)|Jet and white gold game set|
-|[treasure-eUXQTjezsuJ6EB4u.htm](equipment/treasure-eUXQTjezsuJ6EB4u.htm)|Towering sculpture by a master|
-|[treasure-hEBNs4mYaVWz3UsX.htm](equipment/treasure-hEBNs4mYaVWz3UsX.htm)|Jeweled orrery of the planes|
-|[treasure-HIxtCuH5YXNqit0W.htm](equipment/treasure-HIxtCuH5YXNqit0W.htm)|Tankard owned by Cayden Cailean|
-|[treasure-iz7Mv2xGwqyicNiA.htm](equipment/treasure-iz7Mv2xGwqyicNiA.htm)|Quality painting by an unknown|
-|[treasure-JECXvZ0bKTDr79mo.htm](equipment/treasure-JECXvZ0bKTDr79mo.htm)|Porcelain vase inlaid with gold|
-|[treasure-K44zDGRTSecRjEv0.htm](equipment/treasure-K44zDGRTSecRjEv0.htm)|Gilded scepter with sapphire|
-|[treasure-laXnb43oznxeSLT9.htm](equipment/treasure-laXnb43oznxeSLT9.htm)|Previously lost volume from a legendary author|
-|[treasure-LJxNB3Yy2sTJaUbd.htm](equipment/treasure-LJxNB3Yy2sTJaUbd.htm)|Splendid lyre of world‑famous lyrist|
-|[treasure-LzHxy9YPEaCueLB9.htm](equipment/treasure-LzHxy9YPEaCueLB9.htm)|Platinum image of a fey noble with a bit of orichalcum|
-|[treasure-Mp6StcWjlKCpD8Jx.htm](equipment/treasure-Mp6StcWjlKCpD8Jx.htm)|Moonstone and onyx game set|
-|[treasure-nBY7ueX18tcSiica.htm](equipment/treasure-nBY7ueX18tcSiica.htm)|Platinum‑framed monocle|
-|[treasure-NLcnptEjjiY9teq7.htm](equipment/treasure-NLcnptEjjiY9teq7.htm)|Intricate silver and gold music box|
-|[treasure-noLtrW7wFfRFxSUt.htm](equipment/treasure-noLtrW7wFfRFxSUt.htm)|Colorful pastoral tapestry|
-|[treasure-nzT4kWzAdLMcESWl.htm](equipment/treasure-nzT4kWzAdLMcESWl.htm)|Virtuoso silver flute|
-|[treasure-Oru7cHMGULLXRLV3.htm](equipment/treasure-Oru7cHMGULLXRLV3.htm)|Original manuscript from a world‑famous author|
-|[treasure-PGlNIOpo8yedgTFR.htm](equipment/treasure-PGlNIOpo8yedgTFR.htm)|Quartz, milky, rose, or smoky|
 |[treasure-PzWETSKeVKisKCyl.htm](equipment/treasure-PzWETSKeVKisKCyl.htm)|Living flame shaped into a phoenix|
 |[treasure-q72jL8PRcjw3DVoF.htm](equipment/treasure-q72jL8PRcjw3DVoF.htm)|Phasing ether silk tapestry|
 |[treasure-qnK4cIHZ2irCV4BL.htm](equipment/treasure-qnK4cIHZ2irCV4BL.htm)|Quartz, rock crystal|
-|[treasure-rIhvmrRVr51VgfKa.htm](equipment/treasure-rIhvmrRVr51VgfKa.htm)|Solidified moment of time|
-|[treasure-RKX4vLWyczPwfsKS.htm](equipment/treasure-RKX4vLWyczPwfsKS.htm)|Set of decorated ceramic plates|
-|[treasure-rVfFUBb0r423IPg8.htm](equipment/treasure-rVfFUBb0r423IPg8.htm)|Set of decorated porcelain plates|
-|[treasure-s6wRFNG5lVEkGGdJ.htm](equipment/treasure-s6wRFNG5lVEkGGdJ.htm)|Wide landscape by an expert|
-|[treasure-SmN0vRjkPaSaAJZt.htm](equipment/treasure-SmN0vRjkPaSaAJZt.htm)|Divine art piece created by Shelyn|
-|[treasure-uAQKNkgub7KNOHoR.htm](equipment/treasure-uAQKNkgub7KNOHoR.htm)|Brass anklet|
-|[treasure-x46wlAbSDKFEumvg.htm](equipment/treasure-x46wlAbSDKFEumvg.htm)|Fine gold spyglass|
-|[treasure-YeMi3otmwQ34W2we.htm](equipment/treasure-YeMi3otmwQ34W2we.htm)|Iron cauldron with gargoyle faces|
-|[treasure-yrVJKmpBS0mqFuO1.htm](equipment/treasure-yrVJKmpBS0mqFuO1.htm)|Jeweled gold puzzle box|
-|[treasure-YZsZ6stG0i9GBCZw.htm](equipment/treasure-YZsZ6stG0i9GBCZw.htm)|Iron and rock crystal brazier|
-|[treasure-z84EQt8kcPf0RXwx.htm](equipment/treasure-z84EQt8kcPf0RXwx.htm)|Porcelain doll with amber eyes|
-|[treasure-zdiHlKtd4Fy1aIPC.htm](equipment/treasure-zdiHlKtd4Fy1aIPC.htm)|Life‑size sculpture by an expert|
-|[treasure-ZQXCEq8IyGf3WnEj.htm](equipment/treasure-ZQXCEq8IyGf3WnEj.htm)|Diamond ring with platinum band|
-|[weapon-00-0lCXehyFlXdYxDfA.htm](equipment/weapon-00-0lCXehyFlXdYxDfA.htm)|Bladed Diabolo|
-|[weapon-00-76AqNZB5xuFWxgJI.htm](equipment/weapon-00-76AqNZB5xuFWxgJI.htm)|Fighting Fan|
-|[weapon-00-FuS6F91Rhd4m3T6d.htm](equipment/weapon-00-FuS6F91Rhd4m3T6d.htm)|Fauchard|
-|[weapon-00-IEA7M6GGv4rnGLdW.htm](equipment/weapon-00-IEA7M6GGv4rnGLdW.htm)|Bladed Hoop|
-|[weapon-00-IF6qUrR3i030v0dH.htm](equipment/weapon-00-IF6qUrR3i030v0dH.htm)|Shears|
-|[weapon-00-k8V3wTG1gMU5ksUr.htm](equipment/weapon-00-k8V3wTG1gMU5ksUr.htm)|Rhoka Sword|
-|[weapon-00-MeA0g9xvWCbGxf2g.htm](equipment/weapon-00-MeA0g9xvWCbGxf2g.htm)|Mambele|
-|[weapon-00-NApB2Fl7i8wzp7RX.htm](equipment/weapon-00-NApB2Fl7i8wzp7RX.htm)|Gaff|
-|[weapon-00-NufKswitJjxDCX8f.htm](equipment/weapon-00-NufKswitJjxDCX8f.htm)|Naginata|
-|[weapon-00-O7IZBvVoe7W2XnBa.htm](equipment/weapon-00-O7IZBvVoe7W2XnBa.htm)|Machete|
-|[weapon-00-PnFfW5u24xZV6mOH.htm](equipment/weapon-00-PnFfW5u24xZV6mOH.htm)|Poi|
-|[weapon-00-rfP9e1fnwjnIQSJK.htm](equipment/weapon-00-rfP9e1fnwjnIQSJK.htm)|Fire Poi|
-|[weapon-00-RhfhVSfiH23v4U7k.htm](equipment/weapon-00-RhfhVSfiH23v4U7k.htm)|Juggling Club|
-|[weapon-00-Sarxo8kSrJs2qJEw.htm](equipment/weapon-00-Sarxo8kSrJs2qJEw.htm)|Urumi|
-|[weapon-00-uM0OlCC1Sh6OLdNn.htm](equipment/weapon-00-uM0OlCC1Sh6OLdNn.htm)|Throwing Knife|
-|[weapon-00-vsJ0zvYZzduP7rtD.htm](equipment/weapon-00-vsJ0zvYZzduP7rtD.htm)|Tekko-kagi|
-|[weapon-00-YLb6XnT7OxAVGL5m.htm](equipment/weapon-00-YLb6XnT7OxAVGL5m.htm)|Khopesh|
-|[weapon-00-znIsDYwM5rLK2aVD.htm](equipment/weapon-00-znIsDYwM5rLK2aVD.htm)|Nine-Ring Sword|
-|[weapon-01-c124j3cpv8rl5MLp.htm](equipment/weapon-01-c124j3cpv8rl5MLp.htm)|Peshpine Grenade (Lesser)|
-|[weapon-01-vRCH0cQJMllWvpfU.htm](equipment/weapon-01-vRCH0cQJMllWvpfU.htm)|Polytool|
 |[weapon-01-WS78LUHzlpeONMRo.htm](equipment/weapon-01-WS78LUHzlpeONMRo.htm)|Scrollstaff|
-|[weapon-01-xZFT5JdEvDi7q467.htm](equipment/weapon-01-xZFT5JdEvDi7q467.htm)|Dwarven Daisy (Lesser)|
-|[weapon-02-FNDq4NFSN0g2HKWO.htm](equipment/weapon-02-FNDq4NFSN0g2HKWO.htm)|Handwraps of Mighty Blows (+1)|
-|[weapon-03-AvGZqDfalwwbYFvA.htm](equipment/weapon-03-AvGZqDfalwwbYFvA.htm)|Peshpine Grenade (Moderate)|
-|[weapon-03-Do4rJuA1nhr2TTiF.htm](equipment/weapon-03-Do4rJuA1nhr2TTiF.htm)|Dwarven Daisy (Moderate)|
 |[weapon-04-k5P9YZO4ARlE4By3.htm](equipment/weapon-04-k5P9YZO4ARlE4By3.htm)|Crimson Brand|
-|[weapon-04-UHCl9FOXbDiyl8vA.htm](equipment/weapon-04-UHCl9FOXbDiyl8vA.htm)|Handwraps of Mighty Blows (+1 Striking)|
 |[weapon-05-1S3RgLWa1DBitB9V.htm](equipment/weapon-05-1S3RgLWa1DBitB9V.htm)|Dagger of Eternal Sleep|
 |[weapon-05-Dti9PZZoty6We8OV.htm](equipment/weapon-05-Dti9PZZoty6We8OV.htm)|Cinderclaw Gauntlet|
 |[weapon-05-OKAR7GIyJac8dmsi.htm](equipment/weapon-05-OKAR7GIyJac8dmsi.htm)|Singing Sword|
@@ -388,7 +329,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-11-rvxphQJrycwqejMW.htm](equipment/weapon-11-rvxphQJrycwqejMW.htm)|Rat-Catcher Trident|
 |[weapon-11-tE2IarA29mYsgrxj.htm](equipment/weapon-11-tE2IarA29mYsgrxj.htm)|Spore Sap|
 |[weapon-11-ud3pqCquYA5UecaS.htm](equipment/weapon-11-ud3pqCquYA5UecaS.htm)|Stoneraiser Javelin|
-|[weapon-11-ZVhSxudgfnSO4AMd.htm](equipment/weapon-11-ZVhSxudgfnSO4AMd.htm)|Peshpine Grenade (Greater)|
 |[weapon-12-ED3By5mICaJeiQYo.htm](equipment/weapon-12-ED3By5mICaJeiQYo.htm)|Staff of the Black Desert|
 |[weapon-12-VwFPM9vjmLqUyHcp.htm](equipment/weapon-12-VwFPM9vjmLqUyHcp.htm)|Handwraps of Mighty Blows (+2 Greater Striking)|
 |[weapon-12-wWBi79jkzYGWD6uC.htm](equipment/weapon-12-wWBi79jkzYGWD6uC.htm)|Greater Ringmaster's Staff|
@@ -397,14 +337,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-14-7aLpTxRVmoNQTqvJ.htm](equipment/weapon-14-7aLpTxRVmoNQTqvJ.htm)|Staff of Conjuration (Major)|
 |[weapon-14-gG4IUEzqD253s7nx.htm](equipment/weapon-14-gG4IUEzqD253s7nx.htm)|Staff of Illusion (Major)|
 |[weapon-14-J5It6yq3ZkN059zP.htm](equipment/weapon-14-J5It6yq3ZkN059zP.htm)|Glaive of the Artist|
-|[weapon-16-4y6JQEvbbe8Gx6Qe.htm](equipment/weapon-16-4y6JQEvbbe8Gx6Qe.htm)|Handwraps of Mighty Blows (+3 Greater Striking)|
 |[weapon-16-Ri09KBg9DG0aapLw.htm](equipment/weapon-16-Ri09KBg9DG0aapLw.htm)|Staff of the Black Desert (Greater)|
 |[weapon-17-b1gx7ZhuFJAyJOo8.htm](equipment/weapon-17-b1gx7ZhuFJAyJOo8.htm)|Peshpine Grenade (Major)|
 |[weapon-17-fLqRH3XpvDZEMxOO.htm](equipment/weapon-17-fLqRH3XpvDZEMxOO.htm)|Radiant Lance|
 |[weapon-18-1gi4mdZYNgPrzWHc.htm](equipment/weapon-18-1gi4mdZYNgPrzWHc.htm)|Life's Last Breath|
 |[weapon-18-i9mxfSIBTTOwsSlx.htm](equipment/weapon-18-i9mxfSIBTTOwsSlx.htm)|Storm Flash (Greater)|
 |[weapon-18-Kmrkm1sHKkGXiJlr.htm](equipment/weapon-18-Kmrkm1sHKkGXiJlr.htm)|Torag's Silver Anvil|
-|[weapon-19-oCpuXPp6t9CLWwlm.htm](equipment/weapon-19-oCpuXPp6t9CLWwlm.htm)|Handwraps of Mighty Blows (+3 Major Striking)|
 |[weapon-20-dh4FEXlA0FxTfnpY.htm](equipment/weapon-20-dh4FEXlA0FxTfnpY.htm)|Staff of Sieges|
 |[weapon-20-nI9shR1EG3P09I8r.htm](equipment/weapon-20-nI9shR1EG3P09I8r.htm)|Staff of the Magi|
 |[weapon-20-O6he0J7l1uQgsama.htm](equipment/weapon-20-O6he0J7l1uQgsama.htm)|Piereta|
@@ -414,8 +352,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-23-emGyagWNmjvtjiGK.htm](equipment/weapon-23-emGyagWNmjvtjiGK.htm)|Serithtial|
 |[weapon-25-o9IErbpmItz9NZT3.htm](equipment/weapon-25-o9IErbpmItz9NZT3.htm)|Blackaxe|
 |[weapon-26-tPwYYwxNqdGQp2nW.htm](equipment/weapon-26-tPwYYwxNqdGQp2nW.htm)|Axe of the Dwarven Lords|
-|[weapon-fekB8qxXkSlr3QKr.htm](equipment/weapon-fekB8qxXkSlr3QKr.htm)|Alchemical Crossbow|
-|[weapon-nOFcCidD5AwVZWTv.htm](equipment/weapon-nOFcCidD5AwVZWTv.htm)|War Razor|
 
 ## Liste des traductions complétés
 
@@ -1080,6 +1016,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-zvLyCVD8g2PdHJAc.htm](equipment/equipment-zvLyCVD8g2PdHJAc.htm)|Thieves' Tools|Outils de voleur|officielle|
 |[equipment-Zycu6zaGvDsqLH5g.htm](equipment/equipment-Zycu6zaGvDsqLH5g.htm)|Sheath|Gaine|officielle|
 |[treasure-02sF1QlxEx6H6zEP.htm](equipment/treasure-02sF1QlxEx6H6zEP.htm)|Hematite|Hématite|libre|
+|[treasure-0b6BUtoFD4DotZHR.htm](equipment/treasure-0b6BUtoFD4DotZHR.htm)|Gilded ceremonial armor|Armure cérémonielle dorée|libre|
 |[treasure-0zVMeeklYZ7hcgXw.htm](equipment/treasure-0zVMeeklYZ7hcgXw.htm)|Emerald, brilliant green|Émeraude, vert brillant|libre|
 |[treasure-2MPfYdRWfUNnt5JK.htm](equipment/treasure-2MPfYdRWfUNnt5JK.htm)|Gold dragon statuette|Statuette de dragon en or|libre|
 |[treasure-2PXwkWD3ymM7s0Ul.htm](equipment/treasure-2PXwkWD3ymM7s0Ul.htm)|Ivory|Ivoire|libre|
@@ -1087,6 +1024,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-2T33bWTWXj1v2J03.htm](equipment/treasure-2T33bWTWXj1v2J03.htm)|Simple sculpture|Sculpture simple|libre|
 |[treasure-3l30rcsNpDM7moKu.htm](equipment/treasure-3l30rcsNpDM7moKu.htm)|Onyx|Onyx|libre|
 |[treasure-3UOS4sien8IQbPNV.htm](equipment/treasure-3UOS4sien8IQbPNV.htm)|Ruby, large|rubis, gros|libre|
+|[treasure-5CqtgygdvqecMoRU.htm](equipment/treasure-5CqtgygdvqecMoRU.htm)|Thought lens of astral essence|Lentille de pensée d'essence astrale|libre|
 |[treasure-5dibOpDYOhJY6Ssn.htm](equipment/treasure-5dibOpDYOhJY6Ssn.htm)|Silver mirror with gilded frame|Miroir en argent avec un cadre doré|libre|
 |[treasure-5Ew82vBF9YfaiY9f.htm](equipment/treasure-5Ew82vBF9YfaiY9f.htm)|Silver Pieces|Pièces d'argent|libre|
 |[treasure-5EYlhm8ZbR6dLUHF.htm](equipment/treasure-5EYlhm8ZbR6dLUHF.htm)|Silver statuette of a raven|Statuette de corbeau en argent|libre|
@@ -1104,6 +1042,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-8RH0e9UqXIxAPJJG.htm](equipment/treasure-8RH0e9UqXIxAPJJG.htm)|Silk mask decorated with citrines|Masque en soie décoré de citrines|libre|
 |[treasure-9FsyNDq3VOsFumhz.htm](equipment/treasure-9FsyNDq3VOsFumhz.htm)|Gold rapier with amethysts|rapière en or avec des améthystes|libre|
 |[treasure-Ab8yDhtYDJnFrjI4.htm](equipment/treasure-Ab8yDhtYDJnFrjI4.htm)|Colorful velvet half mask|Loup de velours coloré (loup = demi-masque)|libre|
+|[treasure-aGJJwRpFRMgneROG.htm](equipment/treasure-aGJJwRpFRMgneROG.htm)|Quality sculpture by an unknown|Sculpture de qualité (artiste inconnu)|libre|
 |[treasure-AgsZScsqv3puTmZx.htm](equipment/treasure-AgsZScsqv3puTmZx.htm)|Sardonyx|Sardonyx|libre|
 |[treasure-aqhEATP0vu4kx15I.htm](equipment/treasure-aqhEATP0vu4kx15I.htm)|Saint's bone with lost scriptures|Os de saint avec des écritures perdues|libre|
 |[treasure-B6B7tBWJSqOBz5zz.htm](equipment/treasure-B6B7tBWJSqOBz5zz.htm)|Gold Pieces|Pièces d'or|libre|
@@ -1116,11 +1055,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-dBQQZUXaMhCAFkpY.htm](equipment/treasure-dBQQZUXaMhCAFkpY.htm)|Aquamarine|Aigue-marine|libre|
 |[treasure-DE4880DRtsRqax1N.htm](equipment/treasure-DE4880DRtsRqax1N.htm)|Lapis lazuli|Lapis lazuli|libre|
 |[treasure-DFNmzduKX6NSuPrT.htm](equipment/treasure-DFNmzduKX6NSuPrT.htm)|Tiger's‑eye|Oeil de tigre|libre|
+|[treasure-dloHmPtGDr8zSwJu.htm](equipment/treasure-dloHmPtGDr8zSwJu.htm)|Leather flagon with Caydenite symbol|Gourde en cuir avec un symbole de Cayden|libre|
 |[treasure-Ds8GJEQyRYamRIiB.htm](equipment/treasure-Ds8GJEQyRYamRIiB.htm)|Malachite|Malachite|libre|
+|[treasure-DWzoqVeEamX118Qk.htm](equipment/treasure-DWzoqVeEamX118Qk.htm)|Jet and white gold game set|Pièces de jeu en or blanc et en jais|libre|
 |[treasure-dzsJfE1JIWUMCiK4.htm](equipment/treasure-dzsJfE1JIWUMCiK4.htm)|Plain brass censer|Encensoir en laiton massif|libre|
 |[treasure-e6arpbDxMlmogfee.htm](equipment/treasure-e6arpbDxMlmogfee.htm)|Gold and aquamarine diadem|Diadème d'or serti d'aigue-marines|libre|
 |[treasure-EKgLX0TCyFik3gPS.htm](equipment/treasure-EKgLX0TCyFik3gPS.htm)|Coral idol of an elemental lord|Idole en corail d'un seigneur élémentaire|libre|
 |[treasure-epTuWsVDuPzUXMk9.htm](equipment/treasure-epTuWsVDuPzUXMk9.htm)|Amethyst|Amethyste|officielle|
+|[treasure-eUXQTjezsuJ6EB4u.htm](equipment/treasure-eUXQTjezsuJ6EB4u.htm)|Towering sculpture by a master|Sculpture monumentale (par un maître)|libre|
 |[treasure-F4YgvB74p8kwif1t.htm](equipment/treasure-F4YgvB74p8kwif1t.htm)|Ceremonial shortsword with spinels|épée courte cérémonielle avec des spinelles|libre|
 |[treasure-FI8PLxBFmHF6o0pH.htm](equipment/treasure-FI8PLxBFmHF6o0pH.htm)|Silver flagon inscribed with fields|Chope en argent gravée de champs|libre|
 |[treasure-fUENXLX3tzi33CcB.htm](equipment/treasure-fUENXLX3tzi33CcB.htm)|Silk ceremonial armor|Armure de soie cérémonielle|libre|
@@ -1130,55 +1072,76 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-GgwlIaNPJVsyRwzz.htm](equipment/treasure-GgwlIaNPJVsyRwzz.htm)|Parade armor with flourishes|Armure de parade avec des fioritures|libre|
 |[treasure-Gi4vx84LhppOQAxr.htm](equipment/treasure-Gi4vx84LhppOQAxr.htm)|Silver coronet with peridots|Diadème d'argent avec des péridots|libre|
 |[treasure-H8BXvZ1DUg3uJ53K.htm](equipment/treasure-H8BXvZ1DUg3uJ53K.htm)|Gold urn with scenes of judgment|Urne doré portant des scènes de jugement|libre|
+|[treasure-hEBNs4mYaVWz3UsX.htm](equipment/treasure-hEBNs4mYaVWz3UsX.htm)|Jeweled orrery of the planes|Planétaire des plans composé de gemmes|libre|
 |[treasure-hhJfZgLhPaPh5V7e.htm](equipment/treasure-hhJfZgLhPaPh5V7e.htm)|Pearl, black|Perle noire|libre|
+|[treasure-HIxtCuH5YXNqit0W.htm](equipment/treasure-HIxtCuH5YXNqit0W.htm)|Tankard owned by Cayden Cailean|Chope ayant appartenu à Cayden Cailean|libre|
 |[treasure-hJc0dOcHJ2nkJcik.htm](equipment/treasure-hJc0dOcHJ2nkJcik.htm)|Spinel, deep blue|Spinelle, bleu profond|libre|
 |[treasure-HMdfNM7ibp1XtcVT.htm](equipment/treasure-HMdfNM7ibp1XtcVT.htm)|Platinum dragon statuette|Statuette de dragon en platine|libre|
 |[treasure-hMIG86aqKcVYJGsg.htm](equipment/treasure-hMIG86aqKcVYJGsg.htm)|Emerald|Émeraude|officielle|
 |[treasure-hnzNKdD5hjQc1NUx.htm](equipment/treasure-hnzNKdD5hjQc1NUx.htm)|Alabaster and obsidian game set|pièces d'un jeu en albâtre et en obsidienne|officielle|
 |[treasure-I3KlOUruQ2CZdcJ6.htm](equipment/treasure-I3KlOUruQ2CZdcJ6.htm)|Bronze bowl with wave imagery|Bol en bronze avec des motifs de vagues|libre|
 |[treasure-ilnc82SKDYHcoEMH.htm](equipment/treasure-ilnc82SKDYHcoEMH.htm)|Opal|Opale|libre|
+|[treasure-iz7Mv2xGwqyicNiA.htm](equipment/treasure-iz7Mv2xGwqyicNiA.htm)|Quality painting by an unknown|Peinture de qualité (auteur inconnu)|libre|
 |[treasure-j4DU62QY4lJ4WEPQ.htm](equipment/treasure-j4DU62QY4lJ4WEPQ.htm)|Jasper|Jaspe|libre|
 |[treasure-ja5rYjVRwwUXWtOd.htm](equipment/treasure-ja5rYjVRwwUXWtOd.htm)|Bronze chalice with bloodstones|Calice en bronze avec des héliotropes|libre|
+|[treasure-JECXvZ0bKTDr79mo.htm](equipment/treasure-JECXvZ0bKTDr79mo.htm)|Porcelain vase inlaid with gold|Vase de porcelaine incrusté d'or|libre|
 |[treasure-JP7G2gOS3OuMNzeE.htm](equipment/treasure-JP7G2gOS3OuMNzeE.htm)|Hand mirror with decorated frame|Miroir à main au cadre décoré|libre|
 |[treasure-JuNPeK5Qm1w6wpb4.htm](equipment/treasure-JuNPeK5Qm1w6wpb4.htm)|Platinum Pieces|Pièce de platine|officielle|
 |[treasure-JYxnuXg9MV6y1gpQ.htm](equipment/treasure-JYxnuXg9MV6y1gpQ.htm)|Amphora with lavish scenes|Amphore portant des scènes somptueuses|officielle|
+|[treasure-K44zDGRTSecRjEv0.htm](equipment/treasure-K44zDGRTSecRjEv0.htm)|Gilded scepter with sapphire|Sceptre doré surmonté d'un saphir|libre|
 |[treasure-K7KzNh3YsXBrDlyj.htm](equipment/treasure-K7KzNh3YsXBrDlyj.htm)|Inscribed crocodile skull|Crâne de crcodile inscrit|libre|
 |[treasure-l6Eifu4DScg0OBxb.htm](equipment/treasure-l6Eifu4DScg0OBxb.htm)|Brass scepter with amethyst head|Sceptre de laiton à pommeau d'améthyste|libre|
 |[treasure-l8dFZIYYngDOIYHb.htm](equipment/treasure-l8dFZIYYngDOIYHb.htm)|Illuminated manuscript|Manuscrit enluminé|libre|
 |[treasure-L8IzHSz2jYGFpp4N.htm](equipment/treasure-L8IzHSz2jYGFpp4N.htm)|Elegant cloth doll|Poupée de chiffon élégante|libre|
+|[treasure-laXnb43oznxeSLT9.htm](equipment/treasure-laXnb43oznxeSLT9.htm)|Previously lost volume from a legendary author|Ouvrage perdu (auteur légandaire)|libre|
 |[treasure-LEfLVcrbhZPmyUyI.htm](equipment/treasure-LEfLVcrbhZPmyUyI.htm)|Famous portrait by a master|Portrait fameux par un maître peintre|libre|
+|[treasure-LJxNB3Yy2sTJaUbd.htm](equipment/treasure-LJxNB3Yy2sTJaUbd.htm)|Splendid lyre of world‑famous lyrist|Lyre splendide (luthier mondialement connu)|libre|
 |[treasure-lvrvCGrmnMmE4TxU.htm](equipment/treasure-lvrvCGrmnMmE4TxU.htm)|Bronze brazier with Asmodean artwork|Braséro en bronze de style asmodéen|libre|
 |[treasure-LyQQvO7COYAvFRNw.htm](equipment/treasure-LyQQvO7COYAvFRNw.htm)|Jade|Jade|officielle|
+|[treasure-LzHxy9YPEaCueLB9.htm](equipment/treasure-LzHxy9YPEaCueLB9.htm)|Platinum image of a fey noble with a bit of orichalcum|Image en platine d'une noble fée avec un morceau d'orichalque|libre|
 |[treasure-lzJ8AVhRcbFul5fh.htm](equipment/treasure-lzJ8AVhRcbFul5fh.htm)|Copper Pieces|Pièces de cuivre|officielle|
 |[treasure-m26FikfAdZouHzhq.htm](equipment/treasure-m26FikfAdZouHzhq.htm)|Tourmaline|Tourmaline|libre|
 |[treasure-mixyMNYUClKfqURh.htm](equipment/treasure-mixyMNYUClKfqURh.htm)|Sard|Sardoine|libre|
 |[treasure-MK6nnMZNWHmChAXZ.htm](equipment/treasure-MK6nnMZNWHmChAXZ.htm)|Chandelier crafted from dreams|Chandelier confectionné à partir de songes|libre|
 |[treasure-Mm3xgz27Q94wZhti.htm](equipment/treasure-Mm3xgz27Q94wZhti.htm)|Engraved copper ring|Anneau de cuivre gravé|libre|
+|[treasure-Mp6StcWjlKCpD8Jx.htm](equipment/treasure-Mp6StcWjlKCpD8Jx.htm)|Moonstone and onyx game set|Pièces de jeu en onyx et orichalque|libre|
+|[treasure-nBY7ueX18tcSiica.htm](equipment/treasure-nBY7ueX18tcSiica.htm)|Platinum‑framed monocle|Monocle à la monture de platine|libre|
 |[treasure-nIlx1IQhYJfQtpVF.htm](equipment/treasure-nIlx1IQhYJfQtpVF.htm)|Alabaster|Albâtre|officielle|
+|[treasure-NLcnptEjjiY9teq7.htm](equipment/treasure-NLcnptEjjiY9teq7.htm)|Intricate silver and gold music box|Boîte à musique chargée d'or et d'argent|libre|
+|[treasure-noLtrW7wFfRFxSUt.htm](equipment/treasure-noLtrW7wFfRFxSUt.htm)|Colorful pastoral tapestry|Tapisserie pastorale colorée|libre|
 |[treasure-NuX85j3bYLYVcINr.htm](equipment/treasure-NuX85j3bYLYVcINr.htm)|Garnet|Grenat|officielle|
+|[treasure-nzT4kWzAdLMcESWl.htm](equipment/treasure-nzT4kWzAdLMcESWl.htm)|Virtuoso silver flute|Flute en argent de virtuose|libre|
 |[treasure-oH7dJGkgAB0Y2Mad.htm](equipment/treasure-oH7dJGkgAB0Y2Mad.htm)|Obsidian|Obsidienne|libre|
 |[treasure-ony7u60cfBMtLG8F.htm](equipment/treasure-ony7u60cfBMtLG8F.htm)|Gold chalice with black pearls|Calice en or serti de perles noires|libre|
+|[treasure-Oru7cHMGULLXRLV3.htm](equipment/treasure-Oru7cHMGULLXRLV3.htm)|Original manuscript from a world‑famous author|Manuscrit original (auteur mondialement connu)|libre|
 |[treasure-oyGXxUmS6QcthfRc.htm](equipment/treasure-oyGXxUmS6QcthfRc.htm)|Topaz|Topaze|libre|
 |[treasure-OzxNhgRFEgdTybFl.htm](equipment/treasure-OzxNhgRFEgdTybFl.htm)|Major painting by a legend|Peinture majeure de grande renommée|libre|
 |[treasure-oZYu6GMIIoOYW2Nh.htm](equipment/treasure-oZYu6GMIIoOYW2Nh.htm)|Peridot|Péridot|libre|
 |[treasure-P2MIJxEQiIWJmV8n.htm](equipment/treasure-P2MIJxEQiIWJmV8n.htm)|Carnelian|Cornaline|libre|
 |[treasure-p3mg6gK5KhpS7plo.htm](equipment/treasure-p3mg6gK5KhpS7plo.htm)|Zircon|Zircon|libre|
 |[treasure-P7jMpOYmusKse1Yu.htm](equipment/treasure-P7jMpOYmusKse1Yu.htm)|Gold and garnet ring|Anneau d'or avec un grenat|libre|
+|[treasure-PGlNIOpo8yedgTFR.htm](equipment/treasure-PGlNIOpo8yedgTFR.htm)|Quartz, milky, rose, or smoky|Quartz rose, laiteux ou fumé|libre|
 |[treasure-PNnmcBhEwZmAKsq9.htm](equipment/treasure-PNnmcBhEwZmAKsq9.htm)|Copper and spinel puzzle box|boîte de puzzle en cuivre ornée de spinelles|libre|
 |[treasure-PTkTPYtxrPwgCzeq.htm](equipment/treasure-PTkTPYtxrPwgCzeq.htm)|Darkwood violin by a legend|Violon en ébénite d'un facteur légendaire|libre|
 |[treasure-qFkhYAeCxYci8jgk.htm](equipment/treasure-qFkhYAeCxYci8jgk.htm)|Amber|Ambre|officielle|
 |[treasure-qgKOCdtdybxwmiEv.htm](equipment/treasure-qgKOCdtdybxwmiEv.htm)|Chrysoberyl symbol of an evil eye|Symbole de mauvais œil en chrysobéryl|libre|
 |[treasure-r7QGx0YFZCR0W5iu.htm](equipment/treasure-r7QGx0YFZCR0W5iu.htm)|Alabaster idol|idôle en albâtre|officielle|
 |[treasure-rgPjAtKt6J1AZ1Pj.htm](equipment/treasure-rgPjAtKt6J1AZ1Pj.htm)|Enormous chryselephantine sculpture by a legend|Sculpture chryséléphantine énorme par un sculpteur légendaire|libre|
+|[treasure-rIhvmrRVr51VgfKa.htm](equipment/treasure-rIhvmrRVr51VgfKa.htm)|Solidified moment of time|Moment de temps solidifié|libre|
 |[treasure-rjHqUOFqUeyTQyin.htm](equipment/treasure-rjHqUOFqUeyTQyin.htm)|Lapis lazuli pendant|Pendentif en lapis lazuli|libre|
+|[treasure-RKX4vLWyczPwfsKS.htm](equipment/treasure-RKX4vLWyczPwfsKS.htm)|Set of decorated ceramic plates|Collection d'assiettes en céramique décorées|libre|
 |[treasure-RLFxTy0TjMkN6rM2.htm](equipment/treasure-RLFxTy0TjMkN6rM2.htm)|Pearl, irregular freshwater|Perle d'eau douce irrégulière|libre|
 |[treasure-RNnVb83lRRUXg8hG.htm](equipment/treasure-RNnVb83lRRUXg8hG.htm)|Azurite|Azurite|libre|
 |[treasure-rOMPvaCeLqNvT6rJ.htm](equipment/treasure-rOMPvaCeLqNvT6rJ.htm)|Brass statuette of a bull|Statuette de taureau en laiton|libre|
+|[treasure-rVfFUBb0r423IPg8.htm](equipment/treasure-rVfFUBb0r423IPg8.htm)|Set of decorated porcelain plates|Collection d'assiettes en porcelaine décorées|libre|
+|[treasure-s6wRFNG5lVEkGGdJ.htm](equipment/treasure-s6wRFNG5lVEkGGdJ.htm)|Wide landscape by an expert|Large paysage (par un expert)|libre|
+|[treasure-SmN0vRjkPaSaAJZt.htm](equipment/treasure-SmN0vRjkPaSaAJZt.htm)|Divine art piece created by Shelyn|Oeuvre d'art divine (par Shélyn)|libre|
 |[treasure-svhZ61CaSgatn5by.htm](equipment/treasure-svhZ61CaSgatn5by.htm)|Crystallized dragon heart|Cœur de dragon cristallisé|libre|
 |[treasure-tcP4ZKGZr5i4586v.htm](equipment/treasure-tcP4ZKGZr5i4586v.htm)|Gold mask of a high priest|Masque en or d'un haut prêtre|libre|
 |[treasure-tMMYXdHps9QakCVn.htm](equipment/treasure-tMMYXdHps9QakCVn.htm)|Silver and jade censer|Encensoir d'argent et de jade|libre|
 |[treasure-TTuRgoLxVR2c6NEx.htm](equipment/treasure-TTuRgoLxVR2c6NEx.htm)|Marble altar|Autel en marbre|libre|
 |[treasure-u7YrZzA2yem780cP.htm](equipment/treasure-u7YrZzA2yem780cP.htm)|Coral|Corail|officielle|
+|[treasure-uAQKNkgub7KNOHoR.htm](equipment/treasure-uAQKNkgub7KNOHoR.htm)|Brass anklet|Chaine de cheville en laiton|libre|
 |[treasure-ugOCvoAZnVyEuIiN.htm](equipment/treasure-ugOCvoAZnVyEuIiN.htm)|Crystal dinner set, fine silverware|Couverts d'argenterie fine et verres en cristal|libre|
 |[treasure-Ujaoyu3WE6V7Y8Vg.htm](equipment/treasure-Ujaoyu3WE6V7Y8Vg.htm)|Rhodochrosite|Rhodochrosite|libre|
 |[treasure-uMxXncL2bQI04GZ9.htm](equipment/treasure-uMxXncL2bQI04GZ9.htm)|Chrysoberyl|Chrysoberyl|libre|
@@ -1188,47 +1151,78 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-wBoGy4DfKHAvqAko.htm](equipment/treasure-wBoGy4DfKHAvqAko.htm)|Spinel, red or green|Spinelle, rouge ou verte|libre|
 |[treasure-WEnrPya5A8CKi91A.htm](equipment/treasure-WEnrPya5A8CKi91A.htm)|Citrine|Citrine|libre|
 |[treasure-WuW89GD0TG7RYTLF.htm](equipment/treasure-WuW89GD0TG7RYTLF.htm)|Ruby, small|Rubis, petit|libre|
+|[treasure-x46wlAbSDKFEumvg.htm](equipment/treasure-x46wlAbSDKFEumvg.htm)|Fine gold spyglass|Belle longue vue en or|libre|
 |[treasure-x7rEpjFkUNTqmt1t.htm](equipment/treasure-x7rEpjFkUNTqmt1t.htm)|Gold and opal bracelet|Bracelet en or avec des opales|libre|
 |[treasure-xXo7KXnhp1TfvxRc.htm](equipment/treasure-xXo7KXnhp1TfvxRc.htm)|Copper statuette of a salamander|Statuette de salamandre en cuivre|libre|
 |[treasure-xzmYwmvj61br2bRp.htm](equipment/treasure-xzmYwmvj61br2bRp.htm)|Carved wooden game set|Pièces de jeu en bois sculpté|libre|
+|[treasure-YeMi3otmwQ34W2we.htm](equipment/treasure-YeMi3otmwQ34W2we.htm)|Iron cauldron with gargoyle faces|Chaudron en fer avec des visages de gargouille|libre|
 |[treasure-YFokzLQ0HK74Vf6n.htm](equipment/treasure-YFokzLQ0HK74Vf6n.htm)|Pyrite|Pyrite|libre|
+|[treasure-yrVJKmpBS0mqFuO1.htm](equipment/treasure-yrVJKmpBS0mqFuO1.htm)|Jeweled gold puzzle box|Boîte de puzzle en or ornée de gemmes|libre|
 |[treasure-yTYPPB7WrhanBPbu.htm](equipment/treasure-yTYPPB7WrhanBPbu.htm)|Sapphire|Saphir|officielle|
 |[treasure-yv7OfuEaXTm6YCAc.htm](equipment/treasure-yv7OfuEaXTm6YCAc.htm)|Small cold iron cauldron with onyx|petit chaudron en fer froid avec des onyx|libre|
+|[treasure-YZsZ6stG0i9GBCZw.htm](equipment/treasure-YZsZ6stG0i9GBCZw.htm)|Iron and rock crystal brazier|Brasero en fer et en cristal de roche|libre|
 |[treasure-z3PT7OgX34TQKAwH.htm](equipment/treasure-z3PT7OgX34TQKAwH.htm)|Diamond, small|Diamant, petit|libre|
+|[treasure-z84EQt8kcPf0RXwx.htm](equipment/treasure-z84EQt8kcPf0RXwx.htm)|Porcelain doll with amber eyes|Poupée de porcelaine avec des yeux d'ambre|libre|
+|[treasure-zdiHlKtd4Fy1aIPC.htm](equipment/treasure-zdiHlKtd4Fy1aIPC.htm)|Life‑size sculpture by an expert|Sculpture à l'échelle (par un expert)|libre|
+|[treasure-ZQXCEq8IyGf3WnEj.htm](equipment/treasure-ZQXCEq8IyGf3WnEj.htm)|Diamond ring with platinum band|Anneau de platine avec un diamant|libre|
 |[treasure-zRsMLEqh2t2hqSw4.htm](equipment/treasure-zRsMLEqh2t2hqSw4.htm)|Jewel‑encrusted gold altar|Autel en or incrusté de gemmes|libre|
+|[weapon-00-0lCXehyFlXdYxDfA.htm](equipment/weapon-00-0lCXehyFlXdYxDfA.htm)|Bladed Diabolo|Diabolo à lames|libre|
 |[weapon-00-1U7Laa7Yt7i3G77L.htm](equipment/weapon-00-1U7Laa7Yt7i3G77L.htm)|Gnome Hooked Hammer|Marteau-piolet gnome|officielle|
+|[weapon-00-76AqNZB5xuFWxgJI.htm](equipment/weapon-00-76AqNZB5xuFWxgJI.htm)|Fighting Fan|Éventail de combat|libre|
 |[weapon-00-CVTgOpNuRE7hsnc1.htm](equipment/weapon-00-CVTgOpNuRE7hsnc1.htm)|Filcher's Fork|Fourchette du chapardeur|changé|
 |[weapon-00-DV4qelKHrviM0O5i.htm](equipment/weapon-00-DV4qelKHrviM0O5i.htm)|Halfling Sling Staff|Fustibale de halfelin|officielle|
 |[weapon-00-fjkwYZ0hRmBztwBG.htm](equipment/weapon-00-fjkwYZ0hRmBztwBG.htm)|Shuriken|Shuriken|officielle|
+|[weapon-00-FuS6F91Rhd4m3T6d.htm](equipment/weapon-00-FuS6F91Rhd4m3T6d.htm)|Fauchard|Fauchard|libre|
 |[weapon-00-I5DJUbAFGMwa6qCz.htm](equipment/weapon-00-I5DJUbAFGMwa6qCz.htm)|Scourge|Fléau|changé|
 |[weapon-00-iCdvNfzvsTZ0s5vg.htm](equipment/weapon-00-iCdvNfzvsTZ0s5vg.htm)|Bladed Scarf|Écharpe à lame|changé|
+|[weapon-00-IEA7M6GGv4rnGLdW.htm](equipment/weapon-00-IEA7M6GGv4rnGLdW.htm)|Bladed Hoop|Cerceau à lames|libre|
+|[weapon-00-IF6qUrR3i030v0dH.htm](equipment/weapon-00-IF6qUrR3i030v0dH.htm)|Shears|Cisailles|libre|
 |[weapon-00-J6H5UbLVsSXShoTs.htm](equipment/weapon-00-J6H5UbLVsSXShoTs.htm)|Orc Necksplitter|Coupecou orc|officielle|
+|[weapon-00-k8V3wTG1gMU5ksUr.htm](equipment/weapon-00-k8V3wTG1gMU5ksUr.htm)|Rhoka Sword|Épée rhoka|libre|
 |[weapon-00-LA8wwpQBi6tylE6z.htm](equipment/weapon-00-LA8wwpQBi6tylE6z.htm)|Nunchaku|Nunchaku|officielle|
+|[weapon-00-MeA0g9xvWCbGxf2g.htm](equipment/weapon-00-MeA0g9xvWCbGxf2g.htm)|Mambele|Mambele (Hunga munga)|libre|
 |[weapon-00-mgrabKkyLmvxgLBK.htm](equipment/weapon-00-mgrabKkyLmvxgLBK.htm)|Elven Curve Blade|Lame courbe elfique|officielle|
 |[weapon-00-MYnh7w7EL3AcQT41.htm](equipment/weapon-00-MYnh7w7EL3AcQT41.htm)|Dwarven War Axe|Hache de guerre naine|officielle|
+|[weapon-00-NApB2Fl7i8wzp7RX.htm](equipment/weapon-00-NApB2Fl7i8wzp7RX.htm)|Gaff|Gaffe|libre|
 |[weapon-00-NIsxR5zXtVa3PuyU.htm](equipment/weapon-00-NIsxR5zXtVa3PuyU.htm)|Temple Sword|Épée du temple|officielle|
+|[weapon-00-NufKswitJjxDCX8f.htm](equipment/weapon-00-NufKswitJjxDCX8f.htm)|Naginata|Naginata|libre|
+|[weapon-00-O7IZBvVoe7W2XnBa.htm](equipment/weapon-00-O7IZBvVoe7W2XnBa.htm)|Machete|Machette|libre|
 |[weapon-00-Oiq3QgLrM4i3W5Hg.htm](equipment/weapon-00-Oiq3QgLrM4i3W5Hg.htm)|Ogre Hook|Crochet ogre|changé|
 |[weapon-00-olwngGXM3hpgoLEP.htm](equipment/weapon-00-olwngGXM3hpgoLEP.htm)|Dogslicer|Tranchechien|officielle|
 |[weapon-00-oSQET5hKn9q4xlrl.htm](equipment/weapon-00-oSQET5hKn9q4xlrl.htm)|Gnome Flickmace|Masse-yoyo gnome|officielle|
+|[weapon-00-PnFfW5u24xZV6mOH.htm](equipment/weapon-00-PnFfW5u24xZV6mOH.htm)|Poi|Poï|libre|
+|[weapon-00-rfP9e1fnwjnIQSJK.htm](equipment/weapon-00-rfP9e1fnwjnIQSJK.htm)|Fire Poi|Poï enflammé|libre|
+|[weapon-00-RhfhVSfiH23v4U7k.htm](equipment/weapon-00-RhfhVSfiH23v4U7k.htm)|Juggling Club|Massue de jongleur|libre|
 |[weapon-00-sAjzLXgA2LnIwpBM.htm](equipment/weapon-00-sAjzLXgA2LnIwpBM.htm)|Orc Knuckle Dagger|Dague de poing orque|officielle|
+|[weapon-00-Sarxo8kSrJs2qJEw.htm](equipment/weapon-00-Sarxo8kSrJs2qJEw.htm)|Urumi|Urumi|libre|
 |[weapon-00-TDrO7Xdyn7juFy3c.htm](equipment/weapon-00-TDrO7Xdyn7juFy3c.htm)|Kukri|Kukri|officielle|
 |[weapon-00-u2u6dkr01AB34tyA.htm](equipment/weapon-00-u2u6dkr01AB34tyA.htm)|Sai|Saï|officielle|
+|[weapon-00-uM0OlCC1Sh6OLdNn.htm](equipment/weapon-00-uM0OlCC1Sh6OLdNn.htm)|Throwing Knife|Couteau de lancer|libre|
 |[weapon-00-UXjKXqsfWYiayeMD.htm](equipment/weapon-00-UXjKXqsfWYiayeMD.htm)|Scorpion Whip|Fouet scorpion|changé|
+|[weapon-00-vsJ0zvYZzduP7rtD.htm](equipment/weapon-00-vsJ0zvYZzduP7rtD.htm)|Tekko-kagi|Tekko-kagi|libre|
 |[weapon-00-wkzxLpSe7LN6c5Ld.htm](equipment/weapon-00-wkzxLpSe7LN6c5Ld.htm)|Sawtooth Saber|Sabre dentelé|officielle|
 |[weapon-00-xu3azdMCIa53Oe1f.htm](equipment/weapon-00-xu3azdMCIa53Oe1f.htm)|Meteor Hammer|Marteau météore|changé|
 |[weapon-00-Y1dkRsRd1Z7Jf2y6.htm](equipment/weapon-00-Y1dkRsRd1Z7Jf2y6.htm)|Katana|Katana|officielle|
+|[weapon-00-YLb6XnT7OxAVGL5m.htm](equipment/weapon-00-YLb6XnT7OxAVGL5m.htm)|Khopesh|Khopesh|libre|
 |[weapon-00-YnPYSKCQBLIOtm0J.htm](equipment/weapon-00-YnPYSKCQBLIOtm0J.htm)|Aklys|Aklys|changé|
 |[weapon-00-YnwEttFE1bJacLDh.htm](equipment/weapon-00-YnwEttFE1bJacLDh.htm)|Horsechopper|Coupecheval|officielle|
 |[weapon-00-zi9ovfoRp2fMhfpO.htm](equipment/weapon-00-zi9ovfoRp2fMhfpO.htm)|Spiked Chain|Chaîne cloutée|officielle|
+|[weapon-00-znIsDYwM5rLK2aVD.htm](equipment/weapon-00-znIsDYwM5rLK2aVD.htm)|Nine-Ring Sword|Épée aux neufs anneaux|libre|
 |[weapon-00-zSAoyzcf3nSeZCiF.htm](equipment/weapon-00-zSAoyzcf3nSeZCiF.htm)|Kama|Kama|officielle|
 |[weapon-01-AFR01HVd7DcZvkpP.htm](equipment/weapon-01-AFR01HVd7DcZvkpP.htm)|Bottled Lightning (Lesser)|Foudre en bouteille (inférieur)|officielle|
+|[weapon-01-c124j3cpv8rl5MLp.htm](equipment/weapon-01-c124j3cpv8rl5MLp.htm)|Peshpine Grenade (Lesser)|Grenade d'épines de pesh (Inférieure)|libre|
 |[weapon-01-EpxmUtLpCkE8R6KJ.htm](equipment/weapon-01-EpxmUtLpCkE8R6KJ.htm)|Frost Vial (Lesser)|Fiole givrée (inférieur)|officielle|
 |[weapon-01-iSceAVMkVv1uKK7t.htm](equipment/weapon-01-iSceAVMkVv1uKK7t.htm)|Aldori Dueling Sword|Épée de duel aldori|changé|
 |[weapon-01-M1k5QQc1qQLxzyCK.htm](equipment/weapon-01-M1k5QQc1qQLxzyCK.htm)|Acid Flask (Lesser)|Fiole d’acide (Inférieur)|changé|
 |[weapon-01-T6Appwwl6nUl56Xj.htm](equipment/weapon-01-T6Appwwl6nUl56Xj.htm)|Tanglefoot Bag (Lesser)|Sacoche immobilisante (inférieur)|officielle|
+|[weapon-01-vRCH0cQJMllWvpfU.htm](equipment/weapon-01-vRCH0cQJMllWvpfU.htm)|Polytool|Outil universel|libre|
 |[weapon-01-Xnqglykl3Cif8rN9.htm](equipment/weapon-01-Xnqglykl3Cif8rN9.htm)|Thunderstone (Lesser)|Pierre à tonnerre (inférieur)|officielle|
+|[weapon-01-xZFT5JdEvDi7q467.htm](equipment/weapon-01-xZFT5JdEvDi7q467.htm)|Dwarven Daisy (Lesser)|Fleur de mort naine (inférieure)|libre|
 |[weapon-01-yd3kEK21YknZLlcT.htm](equipment/weapon-01-yd3kEK21YknZLlcT.htm)|Alchemist's Fire (Lesser)|Feu Grégeois (Inférieur)|changé|
+|[weapon-02-FNDq4NFSN0g2HKWO.htm](equipment/weapon-02-FNDq4NFSN0g2HKWO.htm)|Handwraps of Mighty Blows (+1)|Bandelettes de coups puissants (+1)|officielle|
 |[weapon-03-97QyNEOAyYLdGaYc.htm](equipment/weapon-03-97QyNEOAyYLdGaYc.htm)|Bottled Lightning (Moderate)|Foudre en bouteille (modéré)|officielle|
+|[weapon-03-AvGZqDfalwwbYFvA.htm](equipment/weapon-03-AvGZqDfalwwbYFvA.htm)|Peshpine Grenade (Moderate)|Grenade d'épines de pesh (Modérée)|libre|
+|[weapon-03-Do4rJuA1nhr2TTiF.htm](equipment/weapon-03-Do4rJuA1nhr2TTiF.htm)|Dwarven Daisy (Moderate)|Fleur de mort naine (moyenne)|libre|
 |[weapon-03-evBPzM1VsuYcoenn.htm](equipment/weapon-03-evBPzM1VsuYcoenn.htm)|Tanglefoot Bag (Moderate)|Sacoche immobilisante (modéré)|officielle|
 |[weapon-03-gWr4q4HiyGhETA8H.htm](equipment/weapon-03-gWr4q4HiyGhETA8H.htm)|Alchemist's Fire (Moderate)|Feu grégeois (modéré)|changé|
 |[weapon-03-JOaELkzLWTywhn5Z.htm](equipment/weapon-03-JOaELkzLWTywhn5Z.htm)|Thunderstone (Moderate)|Pierre à tonnerre (modéré)|officielle|
@@ -1238,6 +1232,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-03-q6ZvspNDkzJSP6dg.htm](equipment/weapon-03-q6ZvspNDkzJSP6dg.htm)|Retribution Axe|Hâche de représailles|officielle|
 |[weapon-03-SgtqZxt26BdjUmEB.htm](equipment/weapon-03-SgtqZxt26BdjUmEB.htm)|Acid Flask (Moderate)|Fiole d'acide (Modéré)|changé|
 |[weapon-04-3OkOKxCee9WruGU5.htm](equipment/weapon-04-3OkOKxCee9WruGU5.htm)|Staff of Healing|Bâton de guérison|changé|
+|[weapon-04-UHCl9FOXbDiyl8vA.htm](equipment/weapon-04-UHCl9FOXbDiyl8vA.htm)|Handwraps of Mighty Blows (+1 Striking)|Bandelettes de coups puissants (de frappe +1)|officielle|
 |[weapon-04-WcuknnE3xYfSdbhm.htm](equipment/weapon-04-WcuknnE3xYfSdbhm.htm)|Animal Staff|Bâton animal|changé|
 |[weapon-04-xwiZBOjispKVZzGA.htm](equipment/weapon-04-xwiZBOjispKVZzGA.htm)|Mentalist's Staff|Bâton du mentaliste|changé|
 |[weapon-05-2KNAip9W6IoBrfIU.htm](equipment/weapon-05-2KNAip9W6IoBrfIU.htm)|Caterwaul Sling|Fronde qui feule|changé|
@@ -1269,6 +1264,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-11-jC8GmH0Un6vDxdMj.htm](equipment/weapon-11-jC8GmH0Un6vDxdMj.htm)|Acid Flask (Greater)|Fiole d'acide (Supérieur)|changé|
 |[weapon-11-n5yTlTs63o53n3k6.htm](equipment/weapon-11-n5yTlTs63o53n3k6.htm)|Alchemist's Fire (Greater)|Feu grégeois (supérieur)|changé|
 |[weapon-11-r2iTRbt1zpkAqHj2.htm](equipment/weapon-11-r2iTRbt1zpkAqHj2.htm)|Bottled Lightning (Greater)|Foudre en bouteille (supérieur)|officielle|
+|[weapon-11-ZVhSxudgfnSO4AMd.htm](equipment/weapon-11-ZVhSxudgfnSO4AMd.htm)|Peshpine Grenade (Greater)|Grenades d'épines de pesh (supérieure)|libre|
 |[weapon-12-DTIBj6Yhy73G5P6j.htm](equipment/weapon-12-DTIBj6Yhy73G5P6j.htm)|Mentalist's Staff (Major)|Bâton du mentaliste (majeur)|changé|
 |[weapon-12-FTVap8IjoKgCexH7.htm](equipment/weapon-12-FTVap8IjoKgCexH7.htm)|Staff of Healing (Major)|Bâton de guérison (majeur)|changé|
 |[weapon-12-Oo7IpJQDSTmzUyzG.htm](equipment/weapon-12-Oo7IpJQDSTmzUyzG.htm)|Animal Staff (Major)|Bâton animal (majeur)|changé|
@@ -1284,6 +1280,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-14-OIs6WPuCRh2UJTOe.htm](equipment/weapon-14-OIs6WPuCRh2UJTOe.htm)|Holy Avenger|Épée de la justice|changé|
 |[weapon-14-Za5Mnae009cDCwuN.htm](equipment/weapon-14-Za5Mnae009cDCwuN.htm)|Storm Flash|Eclair d'orage|changé|
 |[weapon-14-ZSt2PxZVik7UHGG3.htm](equipment/weapon-14-ZSt2PxZVik7UHGG3.htm)|Staff of Abjuration (Major)|Bâton d'abjuration (majeur)|changé|
+|[weapon-16-4y6JQEvbbe8Gx6Qe.htm](equipment/weapon-16-4y6JQEvbbe8Gx6Qe.htm)|Handwraps of Mighty Blows (+3 Greater Striking)|Bandelettres de coups puissants (de frappe supérieure +3)|officielle|
 |[weapon-16-6m9niDjhA6tBfp5x.htm](equipment/weapon-16-6m9niDjhA6tBfp5x.htm)|Staff of Power|Bâton de surpuissance|changé|
 |[weapon-16-87IvbaQnkUOBgdD0.htm](equipment/weapon-16-87IvbaQnkUOBgdD0.htm)|Frost Brand|Epée de givre|changé|
 |[weapon-16-WbcQqXrUytXkCMK3.htm](equipment/weapon-16-WbcQqXrUytXkCMK3.htm)|Staff of Healing (True)|Bâton de guérison (ultime)|changé|
@@ -1296,6 +1293,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-17-pvxRcuBexbFawjCg.htm](equipment/weapon-17-pvxRcuBexbFawjCg.htm)|Flame Tongue (Greater)|Épée ardente (supérieure)|changé|
 |[weapon-17-rpbbfkexLhtadBDV.htm](equipment/weapon-17-rpbbfkexLhtadBDV.htm)|Bottled Lightning (Major)|Foudre en bouteille (majeur)|officielle|
 |[weapon-19-C3vAFRWoeGbMQTAH.htm](equipment/weapon-19-C3vAFRWoeGbMQTAH.htm)|Luck Blade (Wishing)|Lame chanceuse de souhait|changé|
+|[weapon-19-oCpuXPp6t9CLWwlm.htm](equipment/weapon-19-oCpuXPp6t9CLWwlm.htm)|Handwraps of Mighty Blows (+3 Major Striking)|Bandelettes de coups puissants (de frappe majeure +3)|officielle|
 |[weapon-19-WCWdJmR5tYO7Aulb.htm](equipment/weapon-19-WCWdJmR5tYO7Aulb.htm)|Mattock of the Titans|Pioche des titans|changé|
 |[weapon-20-ANvbi1zKF1So8bON.htm](equipment/weapon-20-ANvbi1zKF1So8bON.htm)|Sky Hammer|Marteau céleste|changé|
 |[weapon-3Zv5hSXXtlaDatUv.htm](equipment/weapon-3Zv5hSXXtlaDatUv.htm)|Greatpick|Grand pic de guerre|officielle|
@@ -1312,6 +1310,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-dUC8Fsa6FZtVikS3.htm](equipment/weapon-dUC8Fsa6FZtVikS3.htm)|Composite Longbow|Arc long composite|officielle|
 |[weapon-e4NwsnPnpQKbDZ9F.htm](equipment/weapon-e4NwsnPnpQKbDZ9F.htm)|Composite Shortbow|Arc court composite|officielle|
 |[weapon-f1gwoTkf3Nn0v3PN.htm](equipment/weapon-f1gwoTkf3Nn0v3PN.htm)|Whip|Fouet|officielle|
+|[weapon-fekB8qxXkSlr3QKr.htm](equipment/weapon-fekB8qxXkSlr3QKr.htm)|Alchemical Crossbow|Arbalète alchimique|libre|
 |[weapon-Fg3GkCDkszj5WtgQ.htm](equipment/weapon-Fg3GkCDkszj5WtgQ.htm)|Katar|Katar|officielle|
 |[weapon-FibwLZ12EIEwLGhw.htm](equipment/weapon-FibwLZ12EIEwLGhw.htm)|Light Hammer|Marteau léger|officielle|
 |[weapon-FJrsDoaIXksVjld9.htm](equipment/weapon-FJrsDoaIXksVjld9.htm)|Trident|Trident|officielle|
@@ -1333,6 +1332,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-Mv2I6M70bagbaBPn.htm](equipment/weapon-Mv2I6M70bagbaBPn.htm)|Starknife|Lamétoile|officielle|
 |[weapon-MVAWttmT0QDa7LsV.htm](equipment/weapon-MVAWttmT0QDa7LsV.htm)|Longbow|Arc long|officielle|
 |[weapon-mVxA9E2ernBL6fM6.htm](equipment/weapon-mVxA9E2ernBL6fM6.htm)|War Flail|Fléau de guerre|officielle|
+|[weapon-nOFcCidD5AwVZWTv.htm](equipment/weapon-nOFcCidD5AwVZWTv.htm)|War Razor|Rasoir de combat|libre|
 |[weapon-nSO0Z662LkkLfa2u.htm](equipment/weapon-nSO0Z662LkkLfa2u.htm)|Shield Spikes|Pointes de bouclier|officielle|
 |[weapon-OPMzQdM9rZznMGhW.htm](equipment/weapon-OPMzQdM9rZznMGhW.htm)|Lance|Lance d'arçon|officielle|
 |[weapon-RbM4HvPyrZ4YJxRc.htm](equipment/weapon-RbM4HvPyrZ4YJxRc.htm)|Light Pick|Pic de guerre léger|officielle|

@@ -1,39 +1,17 @@
 # État de la traduction (backgrounds)
 
- * **aucune**: 117
+ * **libre**: 23
  * **changé**: 44
- * **libre**: 1
+ * **aucune**: 95
 
 
-Dernière mise à jour: 2020-07-23 19:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-26 00:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[0EIhRniun8jfdPeN.htm](backgrounds/0EIhRniun8jfdPeN.htm)|Rostland Partisan|
-|[0qrZaukJ0aIoPx3P.htm](backgrounds/0qrZaukJ0aIoPx3P.htm)|Iolite Trainee Hobgoblin|
-|[1zyrJ5dQPKedoSfP.htm](backgrounds/1zyrJ5dQPKedoSfP.htm)|Razmiran Faithful|
-|[2PfqXmTTdwWAJNoc.htm](backgrounds/2PfqXmTTdwWAJNoc.htm)|Diobel Pearl Diver|
-|[3w6cSTa3Zc4z2ygu.htm](backgrounds/3w6cSTa3Zc4z2ygu.htm)|Aspiring River Monarch|
-|[4cYU0lSu5lDM9Qfc.htm](backgrounds/4cYU0lSu5lDM9Qfc.htm)|Harbor Guard Moonlighter|
-|[5DnDnoSyyd1UPyRV.htm](backgrounds/5DnDnoSyyd1UPyRV.htm)|Touched by Dahak|
-|[5KrCZHHMZmaM3FUl.htm](backgrounds/5KrCZHHMZmaM3FUl.htm)|Child of the Puddles|
-|[5PsnYGatgMEYy9xH.htm](backgrounds/5PsnYGatgMEYy9xH.htm)|Cursed Family|
-|[5u7FKCHuWmscNe5i.htm](backgrounds/5u7FKCHuWmscNe5i.htm)|Secular Medic|
-|[6gFzKv1eBQJ1xaH9.htm](backgrounds/6gFzKv1eBQJ1xaH9.htm)|Winter's Child|
-|[7MKHFbZitRzTwiP0.htm](backgrounds/7MKHFbZitRzTwiP0.htm)|Dreamer of the Verdant Moon|
-|[7woKMTCFU4NC06l5.htm](backgrounds/7woKMTCFU4NC06l5.htm)|Aiudara Seeker|
-|[8MoCaPm2wHF3r1yt.htm](backgrounds/8MoCaPm2wHF3r1yt.htm)|Trade Consortium Underling|
-|[8p0gfy5xzpFZRyaG.htm](backgrounds/8p0gfy5xzpFZRyaG.htm)|Freed Slave of Absalom|
-|[8uc1ABJWOJ3gVCFD.htm](backgrounds/8uc1ABJWOJ3gVCFD.htm)|Mammoth Speaker|
-|[98YK8hpUVuDZCoAH.htm](backgrounds/98YK8hpUVuDZCoAH.htm)|Thassilonian Delver|
-|[9d5Mo7qNSpDyKWzY.htm](backgrounds/9d5Mo7qNSpDyKWzY.htm)|Finadar Leshy|
-|[aiiZdNhGey0Ov8Lb.htm](backgrounds/aiiZdNhGey0Ov8Lb.htm)|Tapestry Refugee|
-|[At7nhCMEu2i2bKj9.htm](backgrounds/At7nhCMEu2i2bKj9.htm)|Shoanti Name Bearer|
-|[BtTJJZ84ffpYHebV.htm](backgrounds/BtTJJZ84ffpYHebV.htm)|Post Guard of All Trades|
-|[c4Gcdcz5vDOc5NCk.htm](backgrounds/c4Gcdcz5vDOc5NCk.htm)|Quick|
 |[CMswLSRLQ72tbu0u.htm](backgrounds/CMswLSRLQ72tbu0u.htm)|Geb Crusader|
 |[dPjFZlQG4dg13irs.htm](backgrounds/dPjFZlQG4dg13irs.htm)|Savior of Air|
 |[DW3mWZ4wepwNVfAN.htm](backgrounds/DW3mWZ4wepwNVfAN.htm)|Rigger|
@@ -134,15 +112,37 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[0EIhRniun8jfdPeN.htm](backgrounds/0EIhRniun8jfdPeN.htm)|Rostland Partisan|Partisan du Rost|libre|
+|[0qrZaukJ0aIoPx3P.htm](backgrounds/0qrZaukJ0aIoPx3P.htm)|Iolite Trainee Hobgoblin|Recrue iolite|libre|
+|[1zyrJ5dQPKedoSfP.htm](backgrounds/1zyrJ5dQPKedoSfP.htm)|Razmiran Faithful|Croyant du Razmir|libre|
+|[2PfqXmTTdwWAJNoc.htm](backgrounds/2PfqXmTTdwWAJNoc.htm)|Diobel Pearl Diver|Pêcheur de perles de Diobel|libre|
 |[3ljseFp6UbDGmCNn.htm](backgrounds/3ljseFp6UbDGmCNn.htm)|Emancipated|Émancipé|changé|
+|[3w6cSTa3Zc4z2ygu.htm](backgrounds/3w6cSTa3Zc4z2ygu.htm)|Aspiring River Monarch|Aspirant Monarque du Fleuve|libre|
+|[4cYU0lSu5lDM9Qfc.htm](backgrounds/4cYU0lSu5lDM9Qfc.htm)|Harbor Guard Moonlighter|Noctambule de la Garde du port|libre|
+|[5DnDnoSyyd1UPyRV.htm](backgrounds/5DnDnoSyyd1UPyRV.htm)|Touched by Dahak|Touché par Dahak|libre|
 |[5eB5SefI6OlARL7q.htm](backgrounds/5eB5SefI6OlARL7q.htm)|Barrister|Avocat|changé|
+|[5KrCZHHMZmaM3FUl.htm](backgrounds/5KrCZHHMZmaM3FUl.htm)|Child of the Puddles|Marmot des flaques|libre|
+|[5PsnYGatgMEYy9xH.htm](backgrounds/5PsnYGatgMEYy9xH.htm)|Cursed Family|Famille maudite|libre|
+|[5u7FKCHuWmscNe5i.htm](backgrounds/5u7FKCHuWmscNe5i.htm)|Secular Medic|Médecin séculier|libre|
 |[5vym5sPIxlDEEjGc.htm](backgrounds/5vym5sPIxlDEEjGc.htm)|Guard|Garde|changé|
 |[64WHEiUYl5Bp9Rmo.htm](backgrounds/64WHEiUYl5Bp9Rmo.htm)|Artist|Artiste|changé|
+|[6gFzKv1eBQJ1xaH9.htm](backgrounds/6gFzKv1eBQJ1xaH9.htm)|Winter's Child|Enfant de l'Hiver|libre|
+|[7MKHFbZitRzTwiP0.htm](backgrounds/7MKHFbZitRzTwiP0.htm)|Dreamer of the Verdant Moon|Rêveur de la lune verdoyante|libre|
+|[7woKMTCFU4NC06l5.htm](backgrounds/7woKMTCFU4NC06l5.htm)|Aiudara Seeker|Chercheur d'aiudara|libre|
+|[8MoCaPm2wHF3r1yt.htm](backgrounds/8MoCaPm2wHF3r1yt.htm)|Trade Consortium Underling|Subalterne de consortium marchand|libre|
+|[8p0gfy5xzpFZRyaG.htm](backgrounds/8p0gfy5xzpFZRyaG.htm)|Freed Slave of Absalom|Esclave libéré d'Absalom|libre|
+|[8uc1ABJWOJ3gVCFD.htm](backgrounds/8uc1ABJWOJ3gVCFD.htm)|Mammoth Speaker|Porte parole mammouth|libre|
+|[98YK8hpUVuDZCoAH.htm](backgrounds/98YK8hpUVuDZCoAH.htm)|Thassilonian Delver|Fouilleur du thassilon|libre|
+|[9d5Mo7qNSpDyKWzY.htm](backgrounds/9d5Mo7qNSpDyKWzY.htm)|Finadar Leshy|Léchi de Finadar|libre|
 |[9wfKz4tokaTWmHJg.htm](backgrounds/9wfKz4tokaTWmHJg.htm)|Merchant|Marchand|changé|
 |[AbPoIrl7CUSenbL8.htm](backgrounds/AbPoIrl7CUSenbL8.htm)|Herbalist|Herboriste|changé|
+|[aiiZdNhGey0Ov8Lb.htm](backgrounds/aiiZdNhGey0Ov8Lb.htm)|Tapestry Refugee|Réfugié de la Tapisserie|libre|
 |[At7irukB3d0jzzad.htm](backgrounds/At7irukB3d0jzzad.htm)|Miner|Mineur|changé|
+|[At7nhCMEu2i2bKj9.htm](backgrounds/At7nhCMEu2i2bKj9.htm)|Shoanti Name Bearer|Porteur de nom Shoanti|libre|
+|[BtTJJZ84ffpYHebV.htm](backgrounds/BtTJJZ84ffpYHebV.htm)|Post Guard of All Trades|Garde du poste touche-à-tout|libre|
 |[byu7FHvqmhAwYZFf.htm](backgrounds/byu7FHvqmhAwYZFf.htm)|Laborer|Manoeuvre|changé|
 |[BZ0Myq87KqoyTOEP.htm](backgrounds/BZ0Myq87KqoyTOEP.htm)|Nomad|Nomade|changé|
+|[c4Gcdcz5vDOc5NCk.htm](backgrounds/c4Gcdcz5vDOc5NCk.htm)|Quick|Rapide|libre|
 |[ckPq968bni6JxpA6.htm](backgrounds/ckPq968bni6JxpA6.htm)|Bounty Hunter|Chasseur de primes|changé|
 |[cxgUge0LLCMoI70S.htm](backgrounds/cxgUge0LLCMoI70S.htm)|Returning Descendant|Descendant de retour|changé|
 |[dcArzJ4ylKFshbbp.htm](backgrounds/dcArzJ4ylKFshbbp.htm)|Animal Whisperer|Dresseur|changé|

@@ -1,19 +1,20 @@
 # État de la traduction (conditions)
 
- * **changé**: 41
- * **officielle**: 1
+ * **libre**: 1
+ * **officielle**: 3
+ * **changé**: 38
 
 
-Dernière mise à jour: 2020-07-23 19:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-26 00:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[1wQY3JYyhMYeeV2G.htm](conditions/1wQY3JYyhMYeeV2G.htm)|Observed|Observé|changé|
-|[3uh1r86TzbQvosxv.htm](conditions/3uh1r86TzbQvosxv.htm)|Doomed|Condamné|changé|
-|[4D2KBtexWXa6oUMR.htm](conditions/4D2KBtexWXa6oUMR.htm)|Drained|Drainé|changé|
+|[1wQY3JYyhMYeeV2G.htm](conditions/1wQY3JYyhMYeeV2G.htm)|Observed|Observé|libre|
+|[3uh1r86TzbQvosxv.htm](conditions/3uh1r86TzbQvosxv.htm)|Doomed|Condamné|officielle|
+|[4D2KBtexWXa6oUMR.htm](conditions/4D2KBtexWXa6oUMR.htm)|Drained|Drainé|officielle|
 |[6dNUvdb1dhToNDj3.htm](conditions/6dNUvdb1dhToNDj3.htm)|Broken|brisé|changé|
 |[6uEgoh53GbXuHpTF.htm](conditions/6uEgoh53GbXuHpTF.htm)|Paralyzed|Paralysé|changé|
 |[9evPzg9E6muFcoSk.htm](conditions/9evPzg9E6muFcoSk.htm)|Unnoticed|Inaperçu|changé|
