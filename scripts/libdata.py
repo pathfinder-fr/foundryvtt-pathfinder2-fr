@@ -27,11 +27,11 @@ SUPPORTED = {
   #"rollable-tables":                { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
   "backgrounds":                    { 'transl': "Backgrounds", "paths": { 'name': "name", 'desc': "content" } },
   #"deities":                        { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "content" } },
-  #"gmg-srd":                        { 'transl': "Guide du MJ", "paths": { 'name': "name", 'desc': "content" } },
+  "gmg-srd":                        { 'transl': "Guide du MJ", "paths": { 'name': "name", 'desc': "content" } },
   "classes":                        { 'transl': "Classes", "paths": { 'name': "name", 'desc': "content" } },
   #"criticaldeck":                   { 'transl': "Critiques", "paths": { 'name': "name", 'desc': "content" } },
   #"pf2e-macros":                    { 'transl': "Macros PF2e", "paths": { 'name': "name", 'desc': "content" } },
-  "bestiary-ability-glossary-srd":  { 'transl': "Bestiaire (aptitudes)", "paths": { 'name': "name", 'desc': "data.description.value" } },
+  "bestiary-ability-glossary-srd":  { 'transl': "Aptitudes du Bestiaire", "paths": { 'name': "name", 'desc': "data.description.value" } },
   #"pathfinder-society-boons":       { 'transl': "Macros PF2e", "paths": { 'name': "name", 'desc': "content" } },
   "boons-and-curses":               { 'transl': "Bénédictions et malédictions", "paths": { 'name': "name", 'desc': "data.description.value" } },
 }

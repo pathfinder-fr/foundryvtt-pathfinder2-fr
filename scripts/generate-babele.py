@@ -7,40 +7,6 @@ import datetime
 
 from libdata import *
 
-
-#TRANSL={
-  #'pf2e.spells-srd': { 'label': "Sorts" },
-  #'pf2e.feats-srd': { 'label': "Dons" },
-  #'pf2e.equipment-srd': { 'label': "Équipement" },
-  #'pf2e.conditionspf2e': { 'label': "Conditions" },
-  #'pf2e.actionspf2e': { 'label': "Actions" },
-  #'pf2e.archetypes': { 'label': "Archétypes" },
-  ##'pf2e.pathfinder-bestiary': { 'label': "Bestiaire" },
-  ##'pf2e.pathfinder-bestiary-2': { 'label': "Bestiaire 2" },
-  ##'pf2e.hazards': { 'label': "Dangers" },
-  ##'pf2e.age-of-ashes-bestiary': { 'label': "Bestiaire AoA" },
-  ##'pf2e.extinction-curse-bestiary': { 'label': "Bestiaire EC" },
-  ##'pf2e.fall-of-plaguestone-bestiary': { 'label': "Bestiaire FoP" },
-  ##'pf2e.iconics': { 'label': "Personnages prétirés iconiques" },
-  ##'pf2e.iconics': { 'label': "Personnages prétirés iconiques" },
-  ##'pf2e.npc-gallery': { 'label': "Gallerie NPJ" },
-  #'pf2e.ancestryfeatures': { 'label': "Ascendances" },
-  #'pf2e.classfeatures': { 'label': "Capacités de classe" },
-  ##'pf2e.rollable-tables': { 'label': "Tables aléatoires" },
-  #'pf2e.backgrounds': { 'label': "Backgrounds" },
-  ##'pf2e.deities': { 'label': "Divinités" },
-  ##'pf2e.gmg-srd': { 'label': "Guide du MJ" },
-  ##'pf2e.gmg-srd': { 'label': "Guide du MJ" },
-  #'pf2e.classes': { 'label': "Classes" },
-  ##'pf2e.criticaldeck': { 'label': "Critiques" },
-  ##'pf2e.pf2e-macros': { 'label': "Macros PF2e" },
-  #'pf2e.bestiary-ability-glossary-srd': { 'label': "Bestiaires (aptitudes)" },
-  ##'pf2e.pathfinder-society-boons': { 'label': "Aubaines de société" },
-  #'pf2e.boons-and-curses': { 'label': "Bénédictions et malédications" },
-#}
-
-
-
 BABELE="../babele/fr/"
 BABELE_VF_VO="../babele-alt/vf-vo/fr/"
 BABELE_VO_VF="../babele-alt/vo-vf/fr/"

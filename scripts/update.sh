@@ -3,8 +3,7 @@
 set -e
 
 echo "Downloading latest packs..."
-rm ../packs/*
-./download-db.sh
+./download-db.py
 
 echo "Extracting data and updating translation files"
 ./extract.py
