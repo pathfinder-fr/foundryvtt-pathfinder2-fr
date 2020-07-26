@@ -7,26 +7,14 @@ import os
 import re
 
 from libdata import *
-
-FILES = [
-  {'id': "classes", 'name': "name", 'desc': "content" },
-  {'id': "actions", 'name': "name", 'desc': "data.description.value" },
-  {'id': "equipment", 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" },
-  {'id': "feats",   'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" },
-  {'id': "spells", 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" },
-  {'id': "backgrounds", 'name': "name", 'desc': "content" },
-  {'id': "ancestryfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" },
-  {'id': "classfeatures", 'name': "name", 'desc': "data.description.value", 'type1': "data.traits.value", 'type2': "data.level.value" },
-  {'id': "conditions", 'name': "name", 'desc': "content" },
-  {'id': "archetypes", 'name': "name", 'desc': "content" },
-]
   
 ROOT="../"
 
+packs = getPacks()
 
-for F in FILES:
-  FILE=ROOT + "packs/" + F['id'] + ".db"
-
+for p in packs:
+  
+  FILE=ROOT + "packs/" + p["id"] + ".db"
   entries = {}
 
   # =================================
@@ -48,10 +36,10 @@ for F in FILES:
       continue
     
     entries[obj['_id']] = { 
-      'name': getValue(obj, F['name']), 
-      'desc': getValue(obj, F['desc']), 
-      'type1': getValue(obj, F['type1']) if 'type1' in F else None,
-      'type2': getValue(obj, F['type2'], False) if 'type2' in F else None
+      'name': getValue(obj, p['name']), 
+      'desc': getValue(obj, p['desc']), 
+      'type1': getValue(obj, p['type1']) if 'type1' in p else None,
+      'type2': getValue(obj, p['type2'], False) if 'type2' in p else None
     }
   
   # ==============================
@@ -68,7 +56,7 @@ for F in FILES:
   # ==========================
   # read all available entries
   # ==========================
-  folderData = readFolder("%sdata/%s/" % (ROOT, F['id']))
+  folderData = readFolder("%sdata/%s/" % (ROOT, p["id"]))
   existing = folderData[0]
   existingByName = folderData[1]
   
@@ -86,15 +74,15 @@ for F in FILES:
       filename = "%s-%s-%s" % (source['type1'], source['type2'], filename)
     elif source['type1']:
       filename = "%s-%s" % (source['type1'], filename)
-    filepath = "%sdata/%s/%s" % (ROOT, F['id'], filename)
+    filepath = "%sdata/%s/%s" % (ROOT, p["id"], filename)
     
     # data exists for id
     if id in existing:
 
       # rename file if filepath not the same
       if existing[id]['filename'] != filename:
-        pathFrom = "%sdata/%s/%s" % (ROOT, F['id'], existing[id]['filename'])
-        pathTo = "%sdata/%s/%s" % (ROOT, F['id'], filename)
+        pathFrom = "%sdata/%s/%s" % (ROOT, p["id"], existing[id]['filename'])
+        pathTo = "%sdata/%s/%s" % (ROOT, p["id"], filename)
         os.rename(pathFrom, pathTo)
       
       # check status from existing file
@@ -123,8 +111,8 @@ for F in FILES:
       if source['name'] in existingByName:
         oldEntry = existingByName[source['name']]
         # rename file
-        pathFrom = "%sdata/%s/%s" % (ROOT, F['id'], oldEntry['filename'])
-        pathTo = "%sdata/%s/%s" % (ROOT, F['id'], filename)
+        pathFrom = "%sdata/%s/%s" % (ROOT, p["id"], oldEntry['filename'])
+        pathTo = "%sdata/%s/%s" % (ROOT, p["id"], filename)
         del existing[oldEntry['id']]
         os.rename(pathFrom, pathTo)
       
@@ -146,7 +134,7 @@ for F in FILES:
   # =======================
   for id in existing:
     if not id in entries:
-      filename = "%sdata/%s/%s" % (ROOT, F['id'], existing[id]['filename'])
+      filename = "%sdata/%s/%s" % (ROOT, p["id"], existing[id]['filename'])
       if existing[id]['status'] != 'aucune':
         print("File cannot be safely removed! %s" % filename)
         print("Please fix manually!")
