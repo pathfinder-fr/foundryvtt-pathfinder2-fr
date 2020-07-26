@@ -1,23 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-BABELE="../babele/fr/"
-BABELE_VF_VO="../babele-alt/vf-vo/fr/"
-BABELE_VO_VF="../babele-alt/vo-vf/fr/"
-BABELE_VO="../babele-alt/vo/fr/"
-
-TRANSL={
-  'pf2e.actionspf2e': { 'label': "Actions", 'path': "../data/actions/" },
-  'pf2e.classes': { 'label': "Classes", 'path': "../data/classes/" },
-  'pf2e.equipment-srd': { 'label': "Équipement", 'path': "../data/equipment/" },
-  'pf2e.feats-srd': { 'label': "Dons", 'path': "../data/feats/" },
-  'pf2e.spells-srd': { 'label': "Sorts", 'path': "../data/spells/" },
-  'pf2e.backgrounds': { 'label': "Backgrounds", 'path': "../data/backgrounds/" },
-  'pf2e.ancestryfeatures': { 'label': "Ascendances", 'path': "../data/ancestryfeatures/" },
-  'pf2e.classfeatures': { 'label': "Capacités de classe", 'path': "../data/classfeatures/" },
-  'pf2e.conditionspf2e': { 'label': "Conditions", 'path': "../data/conditions/" },
-}
-
 import json
 import os            
 import datetime
@@ -25,17 +8,62 @@ import datetime
 from libdata import *
 
 
-for key in TRANSL:   
-  path = TRANSL[key]['path']
+#TRANSL={
+  #'pf2e.spells-srd': { 'label': "Sorts" },
+  #'pf2e.feats-srd': { 'label': "Dons" },
+  #'pf2e.equipment-srd': { 'label': "Équipement" },
+  #'pf2e.conditionspf2e': { 'label': "Conditions" },
+  #'pf2e.actionspf2e': { 'label': "Actions" },
+  #'pf2e.archetypes': { 'label': "Archétypes" },
+  ##'pf2e.pathfinder-bestiary': { 'label': "Bestiaire" },
+  ##'pf2e.pathfinder-bestiary-2': { 'label': "Bestiaire 2" },
+  ##'pf2e.hazards': { 'label': "Dangers" },
+  ##'pf2e.age-of-ashes-bestiary': { 'label': "Bestiaire AoA" },
+  ##'pf2e.extinction-curse-bestiary': { 'label': "Bestiaire EC" },
+  ##'pf2e.fall-of-plaguestone-bestiary': { 'label': "Bestiaire FoP" },
+  ##'pf2e.iconics': { 'label': "Personnages prétirés iconiques" },
+  ##'pf2e.iconics': { 'label': "Personnages prétirés iconiques" },
+  ##'pf2e.npc-gallery': { 'label': "Gallerie NPJ" },
+  #'pf2e.ancestryfeatures': { 'label': "Ascendances" },
+  #'pf2e.classfeatures': { 'label': "Capacités de classe" },
+  ##'pf2e.rollable-tables': { 'label': "Tables aléatoires" },
+  #'pf2e.backgrounds': { 'label': "Backgrounds" },
+  ##'pf2e.deities': { 'label': "Divinités" },
+  ##'pf2e.gmg-srd': { 'label': "Guide du MJ" },
+  ##'pf2e.gmg-srd': { 'label': "Guide du MJ" },
+  #'pf2e.classes': { 'label': "Classes" },
+  ##'pf2e.criticaldeck': { 'label': "Critiques" },
+  ##'pf2e.pf2e-macros': { 'label': "Macros PF2e" },
+  #'pf2e.bestiary-ability-glossary-srd': { 'label': "Bestiaires (aptitudes)" },
+  ##'pf2e.pathfinder-society-boons': { 'label': "Aubaines de société" },
+  #'pf2e.boons-and-curses': { 'label': "Bénédictions et malédications" },
+#}
+
+
+
+BABELE="../babele/fr/"
+BABELE_VF_VO="../babele-alt/vf-vo/fr/"
+BABELE_VO_VF="../babele-alt/vo-vf/fr/"
+BABELE_VO="../babele-alt/vo/fr/"
+
+packs = getPacks()
+translations = {}
+
+for p in packs:   
+  
+  key = "%s.%s" % (p["module"],p["name"])  
+  translations[p["id"]] = []
+  packName = p["transl"]
+  
+  path = "../data/%s/" % p["id"]
   all_files = os.listdir(path)
 
-  babele     = { 'label': TRANSL[key]['label'], 'entries': [] }
-  babeleVfVo = { 'label': TRANSL[key]['label'], 'entries': [] }
-  babeleVoVf = { 'label': TRANSL[key]['label'], 'entries': [] }
-  babeleVo   = { 'label': TRANSL[key]['label'], 'entries': [] }
+  babele     = { 'label': packName, 'entries': [] }
+  babeleVfVo = { 'label': packName, 'entries': [] }
+  babeleVoVf = { 'label': packName, 'entries': [] }
+  babeleVo   = { 'label': packName, 'entries': [] }
 
   count = { "aucune": 0, "libre": 0, "officielle": 0, "changé": 0, "doublon": 0 }
-  TRANSL[key]['data'] = []  
   
   # read all files in folder
   for fpath in all_files:
@@ -49,7 +77,7 @@ for key in TRANSL:
       print("Invalid filename %s" % path + fpath)
       exit(1)
       
-    TRANSL[key]['data'].append({ 
+    translations[p["id"]].append({ 
       'file': match.group(1),
       'name': data['nameEN'], 
       'nom': data['nameFR'] if 'nameFR' in data else "-",
@@ -85,7 +113,7 @@ for key in TRANSL:
     json.dump(babeleVo, f, ensure_ascii=False, indent=4)
 
 
-  print("Statistiques: " + TRANSL[key]['label']);
+  print("Statistiques: " + packName);
   print(" - Traduits: %d (officielle) %d (libre)" % (count["officielle"], count["libre"]));
   print(" - Changé: %d" % count["changé"]);
   print(" - Non-traduits: %d" % count["aucune"]);
@@ -99,16 +127,20 @@ content = "# Bibliothèque\n\n"
 content += "\n\nDernière mise à jour: %s *(heure de Canada/Montréal)*" % datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
 content += "\n\nCe fichier est généré automatiquement. NE PAS MODIFIER!\n\n"
 
-for key in TRANSL:
-  content += " * [%s](#%s)\n" % (TRANSL[key]['label'], TRANSL[key]['label'].lower().replace(' ', '-'))
+packs = sorted(packs, key=lambda k: k['transl'])
+
+for p in packs:
+  packName = p["transl"]
+  content += " * [%s](#%s)\n" % (packName, packName.lower().replace(' ', '-'))
 
   
-for key in TRANSL: 
-  content += "\n\n## %s\n\n" % TRANSL[key]['label']
+for p in packs: 
+  packName = p["transl"]
+  content += "\n\n## %s\n\n" % packName
   content += "| Nom (EN)   | Nom (FR)    | Lien compendium |\n"
   content += "|------------|-------------|-----------------|\n"
   
-  sortedList = sorted(TRANSL[key]['data'], key=lambda k: k['name'])
+  sortedList = sorted(translations[p["id"]], key=lambda k: k['name'])
   for el in sortedList:
     content += "|[%s](%s)|%s|`%s`|\n" % (el['name'], el['file'], el['nom'], el['link'])
   

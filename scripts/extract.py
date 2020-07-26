@@ -36,10 +36,10 @@ for p in packs:
       continue
     
     entries[obj['_id']] = { 
-      'name': getValue(obj, p['name']), 
-      'desc': getValue(obj, p['desc']), 
-      'type1': getValue(obj, p['type1']) if 'type1' in p else None,
-      'type2': getValue(obj, p['type2'], False) if 'type2' in p else None
+      'name': getValue(obj, p['paths']['name']), 
+      'desc': getValue(obj, p['paths']['desc']), 
+      'type1': getValue(obj, p['paths']['type1']) if 'type1' in p['paths'] else None,
+      'type2': getValue(obj, p['paths']['type2'], False) if 'type2' in p['paths'] else None
     }
   
   # ==============================
