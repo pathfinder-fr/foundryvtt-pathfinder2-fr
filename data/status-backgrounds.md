@@ -1,47 +1,20 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 23
- * **changé**: 44
- * **aucune**: 95
+ * **libre**: 51
+ * **officielle**: 2
+ * **changé**: 42
+ * **aucune**: 67
 
 
-Dernière mise à jour: 2020-07-26 00:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-26 15:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[CMswLSRLQ72tbu0u.htm](backgrounds/CMswLSRLQ72tbu0u.htm)|Geb Crusader|
-|[dPjFZlQG4dg13irs.htm](backgrounds/dPjFZlQG4dg13irs.htm)|Savior of Air|
-|[DW3mWZ4wepwNVfAN.htm](backgrounds/DW3mWZ4wepwNVfAN.htm)|Rigger|
-|[EcjUeihqNUB1KGhk.htm](backgrounds/EcjUeihqNUB1KGhk.htm)|Nirmathi Guerrilla|
-|[ecmPA86bz6221BWZ.htm](backgrounds/ecmPA86bz6221BWZ.htm)|Menagerie Dung Sweeper|
-|[ekEBKpFNZ0QVwywW.htm](backgrounds/ekEBKpFNZ0QVwywW.htm)|Press-Ganged|
-|[EvMNfrutZkTjUHVW.htm](backgrounds/EvMNfrutZkTjUHVW.htm)|Hermean Expatriate|
-|[EZ8J6yKeCICf6Oi7.htm](backgrounds/EZ8J6yKeCICf6Oi7.htm)|Lumber Consortium Laborer|
-|[FA6ADIwZ0IV1LZv1.htm](backgrounds/FA6ADIwZ0IV1LZv1.htm)|Circus Born|
-|[fAibW4s5hrHEaLrT.htm](backgrounds/fAibW4s5hrHEaLrT.htm)|Child of Westcrown|
-|[FjIDq4tzApEUhAeQ.htm](backgrounds/FjIDq4tzApEUhAeQ.htm)|Learned Guard Prodigy|
-|[G2o8mCXdYKl1tbXP.htm](backgrounds/G2o8mCXdYKl1tbXP.htm)|Desert Tracker|
-|[G4akDE6k0GpQ3dpD.htm](backgrounds/G4akDE6k0GpQ3dpD.htm)|Hermean Heritor|
-|[gad0K8Kvxk4auPwM.htm](backgrounds/gad0K8Kvxk4auPwM.htm)|Faction Opportunist|
-|[GAWMi5F6MXXWqOpR.htm](backgrounds/GAWMi5F6MXXWqOpR.htm)|Legendary Parents|
-|[gBPUW9JAARw3lsdr.htm](backgrounds/gBPUW9JAARw3lsdr.htm)|Belkzen Slayer|
-|[GBvUIdUFCkBpZdp0.htm](backgrounds/GBvUIdUFCkBpZdp0.htm)|Missionary|
-|[gGHi0N5bZNbGbxB4.htm](backgrounds/gGHi0N5bZNbGbxB4.htm)|Teamster|
-|[Gj9PhLYrZCQxvuwh.htm](backgrounds/Gj9PhLYrZCQxvuwh.htm)|Perfection Seeker|
-|[gpB6yH1lvLiU03eJ.htm](backgrounds/gpB6yH1lvLiU03eJ.htm)|Early Explorer|
-|[gRh3Scs2RvtJM8wq.htm](backgrounds/gRh3Scs2RvtJM8wq.htm)|Undercover Lotus Guard|
-|[H1tJhj6ZbkLxmK8a.htm](backgrounds/H1tJhj6ZbkLxmK8a.htm)|Rivethun Adherent|
-|[H1yku00yjYxnNU3p.htm](backgrounds/H1yku00yjYxnNU3p.htm)|Aspiring Free Captain|
-|[H859zofQzmGngQ2d.htm](backgrounds/H859zofQzmGngQ2d.htm)|Pathfinder Hopeful|
-|[hcC58ohDMUOgmuZp.htm](backgrounds/hcC58ohDMUOgmuZp.htm)|Grand Council Bureaucrat|
 |[hDUQWHMVi4pRh2D7.htm](backgrounds/hDUQWHMVi4pRh2D7.htm)|Lastwall Survivor|
-|[hgHxXEuwmNSrXD9J.htm](backgrounds/hgHxXEuwmNSrXD9J.htm)|Onyx Trader|
-|[HmC4y8ENahNKp5Tl.htm](backgrounds/HmC4y8ENahNKp5Tl.htm)|Inlander|
 |[hQiyj0YTMNqMNf1x.htm](backgrounds/hQiyj0YTMNqMNf1x.htm)|Aerialist|
-|[HqrzcYujcS4UeJxJ.htm](backgrounds/HqrzcYujcS4UeJxJ.htm)|Blow-In|
 |[ijldm5oRi8hNyoyP.htm](backgrounds/ijldm5oRi8hNyoyP.htm)|Senghor Sailor|
 |[iPjaDshFtGP3uMO8.htm](backgrounds/iPjaDshFtGP3uMO8.htm)|Scholar of the Sky Key|
 |[IRh6qlZtN7OBKrek.htm](backgrounds/IRh6qlZtN7OBKrek.htm)|Ustalavic Academic|
@@ -116,7 +89,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[0qrZaukJ0aIoPx3P.htm](backgrounds/0qrZaukJ0aIoPx3P.htm)|Iolite Trainee Hobgoblin|Recrue iolite|libre|
 |[1zyrJ5dQPKedoSfP.htm](backgrounds/1zyrJ5dQPKedoSfP.htm)|Razmiran Faithful|Croyant du Razmir|libre|
 |[2PfqXmTTdwWAJNoc.htm](backgrounds/2PfqXmTTdwWAJNoc.htm)|Diobel Pearl Diver|Pêcheur de perles de Diobel|libre|
-|[3ljseFp6UbDGmCNn.htm](backgrounds/3ljseFp6UbDGmCNn.htm)|Emancipated|Émancipé|changé|
+|[3ljseFp6UbDGmCNn.htm](backgrounds/3ljseFp6UbDGmCNn.htm)|Emancipated|Émancipé|officielle|
 |[3w6cSTa3Zc4z2ygu.htm](backgrounds/3w6cSTa3Zc4z2ygu.htm)|Aspiring River Monarch|Aspirant Monarque du Fleuve|libre|
 |[4cYU0lSu5lDM9Qfc.htm](backgrounds/4cYU0lSu5lDM9Qfc.htm)|Harbor Guard Moonlighter|Noctambule de la Garde du port|libre|
 |[5DnDnoSyyd1UPyRV.htm](backgrounds/5DnDnoSyyd1UPyRV.htm)|Touched by Dahak|Touché par Dahak|libre|
@@ -144,14 +117,42 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BZ0Myq87KqoyTOEP.htm](backgrounds/BZ0Myq87KqoyTOEP.htm)|Nomad|Nomade|changé|
 |[c4Gcdcz5vDOc5NCk.htm](backgrounds/c4Gcdcz5vDOc5NCk.htm)|Quick|Rapide|libre|
 |[ckPq968bni6JxpA6.htm](backgrounds/ckPq968bni6JxpA6.htm)|Bounty Hunter|Chasseur de primes|changé|
+|[CMswLSRLQ72tbu0u.htm](backgrounds/CMswLSRLQ72tbu0u.htm)|Geb Crusader|Croisé du Geb|libre|
 |[cxgUge0LLCMoI70S.htm](backgrounds/cxgUge0LLCMoI70S.htm)|Returning Descendant|Descendant de retour|changé|
 |[dcArzJ4ylKFshbbp.htm](backgrounds/dcArzJ4ylKFshbbp.htm)|Animal Whisperer|Dresseur|changé|
 |[dKML9xcgWbrkguGd.htm](backgrounds/dKML9xcgWbrkguGd.htm)|Entertainer|Bateleur|changé|
+|[dPjFZlQG4dg13irs.htm](backgrounds/dPjFZlQG4dg13irs.htm)|Savior of Air|Sauveur de l'air|libre|
+|[DW3mWZ4wepwNVfAN.htm](backgrounds/DW3mWZ4wepwNVfAN.htm)|Rigger|Gréeur|libre|
+|[EcjUeihqNUB1KGhk.htm](backgrounds/EcjUeihqNUB1KGhk.htm)|Nirmathi Guerrilla|Escarmoucheur Nirmathi|libre|
+|[ecmPA86bz6221BWZ.htm](backgrounds/ecmPA86bz6221BWZ.htm)|Menagerie Dung Sweeper|Balayeur de fumier de la Ménagerie|libre|
+|[ekEBKpFNZ0QVwywW.htm](backgrounds/ekEBKpFNZ0QVwywW.htm)|Press-Ganged|Forçat|libre|
+|[EvMNfrutZkTjUHVW.htm](backgrounds/EvMNfrutZkTjUHVW.htm)|Hermean Expatriate|Expatrié d'Herméa|libre|
+|[EZ8J6yKeCICf6Oi7.htm](backgrounds/EZ8J6yKeCICf6Oi7.htm)|Lumber Consortium Laborer|Ouvrier du Consortium du Bois|libre|
 |[f3S14uBriv8enmMQ.htm](backgrounds/f3S14uBriv8enmMQ.htm)|Artisan|Artisan|changé|
+|[FA6ADIwZ0IV1LZv1.htm](backgrounds/FA6ADIwZ0IV1LZv1.htm)|Circus Born|Circadien|libre|
+|[fAibW4s5hrHEaLrT.htm](backgrounds/fAibW4s5hrHEaLrT.htm)|Child of Westcrown|Enfant de Couronne d'Ouest|libre|
 |[FeYe3gQtkUsxpW1I.htm](backgrounds/FeYe3gQtkUsxpW1I.htm)|Warrior|Homme d'armes|changé|
+|[FjIDq4tzApEUhAeQ.htm](backgrounds/FjIDq4tzApEUhAeQ.htm)|Learned Guard Prodigy|Prodige de la Garde Instruite|libre|
+|[G2o8mCXdYKl1tbXP.htm](backgrounds/G2o8mCXdYKl1tbXP.htm)|Desert Tracker|Pisteur du désert|libre|
+|[G4akDE6k0GpQ3dpD.htm](backgrounds/G4akDE6k0GpQ3dpD.htm)|Hermean Heritor|Héritier d'Herméa|libre|
+|[gad0K8Kvxk4auPwM.htm](backgrounds/gad0K8Kvxk4auPwM.htm)|Faction Opportunist|Opportuniste des Factions|libre|
+|[GAWMi5F6MXXWqOpR.htm](backgrounds/GAWMi5F6MXXWqOpR.htm)|Legendary Parents|Parents légendaires|libre|
+|[gBPUW9JAARw3lsdr.htm](backgrounds/gBPUW9JAARw3lsdr.htm)|Belkzen Slayer|Tueur du Belkzen|libre|
+|[GBvUIdUFCkBpZdp0.htm](backgrounds/GBvUIdUFCkBpZdp0.htm)|Missionary|Missionnaire|libre|
 |[Gcn19QCeblDvsrdv.htm](backgrounds/Gcn19QCeblDvsrdv.htm)|Tinker|Bricoleur|changé|
+|[gGHi0N5bZNbGbxB4.htm](backgrounds/gGHi0N5bZNbGbxB4.htm)|Teamster|Conducteur d'attelages|libre|
+|[Gj9PhLYrZCQxvuwh.htm](backgrounds/Gj9PhLYrZCQxvuwh.htm)|Perfection Seeker|À la recherche de la Perfection|libre|
+|[gpB6yH1lvLiU03eJ.htm](backgrounds/gpB6yH1lvLiU03eJ.htm)|Early Explorer|Explorateur précoce|libre|
+|[gRh3Scs2RvtJM8wq.htm](backgrounds/gRh3Scs2RvtJM8wq.htm)|Undercover Lotus Guard|Garde Lotus sous couverture|libre|
 |[gxl5BXQ6LPfMnC6o.htm](backgrounds/gxl5BXQ6LPfMnC6o.htm)|Truth Seeker|En quête de vérité|changé|
+|[H1tJhj6ZbkLxmK8a.htm](backgrounds/H1tJhj6ZbkLxmK8a.htm)|Rivethun Adherent|Adhérent du Rivethun|libre|
+|[H1yku00yjYxnNU3p.htm](backgrounds/H1yku00yjYxnNU3p.htm)|Aspiring Free Captain|Aspirant capitaine libre|libre|
+|[H859zofQzmGngQ2d.htm](backgrounds/H859zofQzmGngQ2d.htm)|Pathfinder Hopeful|Éclaireur plein d'espoir|libre|
+|[hcC58ohDMUOgmuZp.htm](backgrounds/hcC58ohDMUOgmuZp.htm)|Grand Council Bureaucrat|Bureaucrate du Grand Conseil|libre|
+|[hgHxXEuwmNSrXD9J.htm](backgrounds/hgHxXEuwmNSrXD9J.htm)|Onyx Trader|Marchand d'Onyx|libre|
+|[HmC4y8ENahNKp5Tl.htm](backgrounds/HmC4y8ENahNKp5Tl.htm)|Inlander|Habitant de l'intérieur des terres|libre|
 |[HOlyT1Y0fXS85u0j.htm](backgrounds/HOlyT1Y0fXS85u0j.htm)|Scout|Éclaireur|changé|
+|[HqrzcYujcS4UeJxJ.htm](backgrounds/HqrzcYujcS4UeJxJ.htm)|Blow-In|Nouveau-venu|libre|
 |[huFMFGKbBoPB4bRc.htm](backgrounds/huFMFGKbBoPB4bRc.htm)|Gladiator|Gladiateur|changé|
 |[Ih6KKS2DEzXxiJpX.htm](backgrounds/Ih6KKS2DEzXxiJpX.htm)|Gambler|Parieur|changé|
 |[JH77p9uU187caJxX.htm](backgrounds/JH77p9uU187caJxX.htm)|Out-of-Towner|De passage|changé|
@@ -177,5 +178,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Y6qKcSXLEyBfW3lS.htm](backgrounds/Y6qKcSXLEyBfW3lS.htm)|Farmhand|Ouvrier agricole|changé|
 |[y73tZ9iU3w84NrIG.htm](backgrounds/y73tZ9iU3w84NrIG.htm)|Dragon Scholar|Spécialiste des dragons|changé|
 |[yikXQI2YVWcmGV2N.htm](backgrounds/yikXQI2YVWcmGV2N.htm)|Acrobat|Acrobate|changé|
-|[yphbsrQe9KmQefU9.htm](backgrounds/yphbsrQe9KmQefU9.htm)|Emissary|Émissaire|changé|
+|[yphbsrQe9KmQefU9.htm](backgrounds/yphbsrQe9KmQefU9.htm)|Emissary|Émissaire|officielle|
 |[YS8l22rXhnLnyBqb.htm](backgrounds/YS8l22rXhnLnyBqb.htm)|Bonuwat Wavetouched|Bonuwat Touché par les vagues|libre|

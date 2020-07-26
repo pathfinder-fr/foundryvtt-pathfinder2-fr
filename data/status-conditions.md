@@ -5,7 +5,7 @@
  * **changé**: 38
 
 
-Dernière mise à jour: 2020-07-26 00:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-26 15:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés

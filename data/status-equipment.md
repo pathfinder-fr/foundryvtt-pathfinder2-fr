@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 331
+ * **officielle**: 367
  * **changé**: 496
- * **aucune**: 339
- * **libre**: 174
+ * **aucune**: 297
+ * **libre**: 180
 
 
-Dernière mise à jour: 2020-07-26 00:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-26 15:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -50,7 +50,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-CeKPffF0FaEyhLMp.htm](equipment/consumable-01-CeKPffF0FaEyhLMp.htm)|Spear Frog Poison|
 |[consumable-01-iHw3qYBHTa5icO2X.htm](equipment/consumable-01-iHw3qYBHTa5icO2X.htm)|Energy Mutagen (Lesser)|
 |[consumable-01-PNwgGnN081l0cETR.htm](equipment/consumable-01-PNwgGnN081l0cETR.htm)|Blood Sap|
-|[consumable-01-RjuupS9xyXDLgyIr.htm](equipment/consumable-01-RjuupS9xyXDLgyIr.htm)|Scroll of 1st-level Spell|
 |[consumable-01-VeCNWhvEr82ZNoSV.htm](equipment/consumable-01-VeCNWhvEr82ZNoSV.htm)|Lastwall Soup|
 |[consumable-01-xBZCVHAa1SnR8Xul.htm](equipment/consumable-01-xBZCVHAa1SnR8Xul.htm)|Snake Oil|
 |[consumable-01-y4WJY8rCbY6d1MET.htm](equipment/consumable-01-y4WJY8rCbY6d1MET.htm)|Sunrod|
@@ -67,7 +66,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-03-Oip645RjC5y57wFa.htm](equipment/consumable-03-Oip645RjC5y57wFa.htm)|Violet Venom|
 |[consumable-03-rfyWXgrVD2lm91CC.htm](equipment/consumable-03-rfyWXgrVD2lm91CC.htm)|Blue Dragonfly Poison|
 |[consumable-03-UfoaNXFA7AWZiXxI.htm](equipment/consumable-03-UfoaNXFA7AWZiXxI.htm)|Shiver|
-|[consumable-03-Y7UD64foDbDMV9sx.htm](equipment/consumable-03-Y7UD64foDbDMV9sx.htm)|Scroll of 2nd-level Spell|
 |[consumable-04-0lhh2l4kh3QrwYH9.htm](equipment/consumable-04-0lhh2l4kh3QrwYH9.htm)|Hobbling Snare|
 |[consumable-04-aQ4Q8Rq6ntWaHcIv.htm](equipment/consumable-04-aQ4Q8Rq6ntWaHcIv.htm)|Fortifying Pebble|
 |[consumable-04-dwaF9zHPK9823COa.htm](equipment/consumable-04-dwaF9zHPK9823COa.htm)|Dreamtime Tea|
@@ -81,27 +79,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-05-iUOcC9vFboSFI8fU.htm](equipment/consumable-05-iUOcC9vFboSFI8fU.htm)|False Death|
 |[consumable-05-rjUJEY424jyG9dGn.htm](equipment/consumable-05-rjUJEY424jyG9dGn.htm)|Cytillesh|
 |[consumable-05-tL71CWSzUfvMdjQx.htm](equipment/consumable-05-tL71CWSzUfvMdjQx.htm)|Stone Body Mutagen (Lesser)|
-|[consumable-05-ZmefGBXGJF3CFDbn.htm](equipment/consumable-05-ZmefGBXGJF3CFDbn.htm)|Scroll of 3nd-level Spell|
 |[consumable-06-sAMzkU7kzUZfqTPV.htm](equipment/consumable-06-sAMzkU7kzUZfqTPV.htm)|Extended Deteriorating Dust|
 |[consumable-07-4tnPWyApPZP1P1yO.htm](equipment/consumable-07-4tnPWyApPZP1P1yO.htm)|Swift Block Cabochon|
 |[consumable-07-d5aCuFS1dhKXhsZ0.htm](equipment/consumable-07-d5aCuFS1dhKXhsZ0.htm)|Addlebrain|
 |[consumable-07-ktRGlgegUBZcr0aJ.htm](equipment/consumable-07-ktRGlgegUBZcr0aJ.htm)|Saints' Balm|
 |[consumable-07-LBhzIWBH9TJ8A2K5.htm](equipment/consumable-07-LBhzIWBH9TJ8A2K5.htm)|Invisible Net|
-|[consumable-07-qNIv0owESzOzo1s0.htm](equipment/consumable-07-qNIv0owESzOzo1s0.htm)|Black Dragon's Breath Potion (Young)|
-|[consumable-07-QSQZJ5BC3DeHv153.htm](equipment/consumable-07-QSQZJ5BC3DeHv153.htm)|Scroll of 4th-level Spell|
 |[consumable-07-TqX34x9CijryfrlM.htm](equipment/consumable-07-TqX34x9CijryfrlM.htm)|Brass Dragon's Breath Potion (Young)|
-|[consumable-07-TzXNMv7tnFy1FYgg.htm](equipment/consumable-07-TzXNMv7tnFy1FYgg.htm)|Bronze Dragon's Breath Potion (Young)|
-|[consumable-07-vPcDIowg3LAqZYAE.htm](equipment/consumable-07-vPcDIowg3LAqZYAE.htm)|Copper Dragon's Breath Potion (Young)|
-|[consumable-07-vvgCQzWkScCzte7K.htm](equipment/consumable-07-vvgCQzWkScCzte7K.htm)|Green Dragon's Breath Potion (Young)|
 |[consumable-07-VwzIiWAtbJCgGOEz.htm](equipment/consumable-07-VwzIiWAtbJCgGOEz.htm)|Isolation Draught|
-|[consumable-07-xpVHMxLcwgXzL39e.htm](equipment/consumable-07-xpVHMxLcwgXzL39e.htm)|Blue Dragon's Breath Potion (Young)|
-|[consumable-07-xRrMmFzpa0WU9uV4.htm](equipment/consumable-07-xRrMmFzpa0WU9uV4.htm)|White Dragon's Breath Potion (Young)|
 |[consumable-08-6KdYdFovFBivwI8M.htm](equipment/consumable-08-6KdYdFovFBivwI8M.htm)|Striking Snare|
 |[consumable-08-8BDBsf55gP0UW07Y.htm](equipment/consumable-08-8BDBsf55gP0UW07Y.htm)|Scour|
 |[consumable-08-axU0I9xIm4xm2VPH.htm](equipment/consumable-08-axU0I9xIm4xm2VPH.htm)|Bomb Snare|
 |[consumable-08-TFnr9Gq7VXPJu0GQ.htm](equipment/consumable-08-TFnr9Gq7VXPJu0GQ.htm)|Grasping Snare|
 |[consumable-09-GXH1PSioEkxTDceK.htm](equipment/consumable-09-GXH1PSioEkxTDceK.htm)|Caustic Deteriorating Dust|
-|[consumable-09-tjLvRWklAylFhBHQ.htm](equipment/consumable-09-tjLvRWklAylFhBHQ.htm)|Scroll of 5th-level Spell|
 |[consumable-10-3IknuOpIV1OSNl98.htm](equipment/consumable-10-3IknuOpIV1OSNl98.htm)|Lucky Rabbit's Foot|
 |[consumable-10-dzfmP3WsA15puenS.htm](equipment/consumable-10-dzfmP3WsA15puenS.htm)|Potion of Resistance (Moderate)|
 |[consumable-10-evdDpgFpiFZt9UyA.htm](equipment/consumable-10-evdDpgFpiFZt9UyA.htm)|Potion of Cold Resistance (Moderate)|
@@ -113,26 +102,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-10-yG6Za8FaG3hpXUGh.htm](equipment/consumable-10-yG6Za8FaG3hpXUGh.htm)|Potion of Acid Resistance (Moderate)|
 |[consumable-11-1DHjXJEdJ7GlGSzg.htm](equipment/consumable-11-1DHjXJEdJ7GlGSzg.htm)|Oil of Keen Edges|
 |[consumable-11-34R4Rp3qaaFImgIe.htm](equipment/consumable-11-34R4Rp3qaaFImgIe.htm)|Energy Mutagen (Greater)|
-|[consumable-11-4sGIy77COooxhQuC.htm](equipment/consumable-11-4sGIy77COooxhQuC.htm)|Scroll of 6th-level Spell|
 |[consumable-11-JgK7xOBYPIUS1tFS.htm](equipment/consumable-11-JgK7xOBYPIUS1tFS.htm)|Serene Mutagen (Greater)|
 |[consumable-11-PyDPubnK2KN3lVTs.htm](equipment/consumable-11-PyDPubnK2KN3lVTs.htm)|Juggernaut Mutagen (Greater)|
-|[consumable-12-2VC7FLItVrFWNe4L.htm](equipment/consumable-12-2VC7FLItVrFWNe4L.htm)|Copper Dragon's Breath Potion (Adult)|
 |[consumable-12-8uyRlAkWdEyfOziq.htm](equipment/consumable-12-8uyRlAkWdEyfOziq.htm)|Mage Bane|
 |[consumable-12-a2XaerM1KkPyLIPM.htm](equipment/consumable-12-a2XaerM1KkPyLIPM.htm)|Stunning Snare|
-|[consumable-12-Bn1o5foPq1kqZKf0.htm](equipment/consumable-12-Bn1o5foPq1kqZKf0.htm)|Red Dragon's Breath Potion (Adult)|
 |[consumable-12-eCajM9kjLAZZRLrV.htm](equipment/consumable-12-eCajM9kjLAZZRLrV.htm)|Stone Body Mutagen (Moderate)|
-|[consumable-12-eV0owvv0lYQph0nn.htm](equipment/consumable-12-eV0owvv0lYQph0nn.htm)|Green Dragon's Breath Potion (Adult)|
 |[consumable-12-KVrmsNbro6mJ9wuT.htm](equipment/consumable-12-KVrmsNbro6mJ9wuT.htm)|Oil of Animation|
 |[consumable-12-mWXaROc9ytjdGVVP.htm](equipment/consumable-12-mWXaROc9ytjdGVVP.htm)|Scything Blade Snare|
-|[consumable-12-NqNwLeqto2isVWNL.htm](equipment/consumable-12-NqNwLeqto2isVWNL.htm)|Gold Dragon's Breath Potion (Adult)|
-|[consumable-12-rOQlcAV4m8Zaebue.htm](equipment/consumable-12-rOQlcAV4m8Zaebue.htm)|Brass Dragon's Breath Potion (Adult)|
-|[consumable-12-t9wFCiFkCRcSLtaG.htm](equipment/consumable-12-t9wFCiFkCRcSLtaG.htm)|Silver Dragon's Breath Potion (Adult)|
-|[consumable-12-vXLZfi5iCSKb96tW.htm](equipment/consumable-12-vXLZfi5iCSKb96tW.htm)|Bronze Dragon's Breath Potion (Adult)|
-|[consumable-12-WwWssHoEhyh7Yrrw.htm](equipment/consumable-12-WwWssHoEhyh7Yrrw.htm)|White Dragon's Breath Potion (Adult)|
-|[consumable-12-x04huvOBBXmExTDl.htm](equipment/consumable-12-x04huvOBBXmExTDl.htm)|Black Dragon's Breath Potion (Adult)|
-|[consumable-12-zQnidYCmLCBPfdii.htm](equipment/consumable-12-zQnidYCmLCBPfdii.htm)|Blue Dragon's Breath Potion (Adult)|
 |[consumable-13-BxzwmwQ5O4fewa4w.htm](equipment/consumable-13-BxzwmwQ5O4fewa4w.htm)|Purple Worm Repellent|
-|[consumable-13-fomEZZ4MxVVK3uVu.htm](equipment/consumable-13-fomEZZ4MxVVK3uVu.htm)|Scroll of 7th-level Spell|
 |[consumable-13-QImdOdyolrMWwuxD.htm](equipment/consumable-13-QImdOdyolrMWwuxD.htm)|Gorgon's Breath|
 |[consumable-14-1OJxRnPs0viJVrZq.htm](equipment/consumable-14-1OJxRnPs0viJVrZq.htm)|Potion of Fire Resistance (Greater)|
 |[consumable-14-ClKb4YQn8TfPIclE.htm](equipment/consumable-14-ClKb4YQn8TfPIclE.htm)|Dazing Coil|
@@ -144,7 +121,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-14-ywYt2SyZaV95KcZH.htm](equipment/consumable-14-ywYt2SyZaV95KcZH.htm)|Potion of Resistance (Greater)|
 |[consumable-15-4ZHaNxDgGFFYyHrI.htm](equipment/consumable-15-4ZHaNxDgGFFYyHrI.htm)|Stone Body Mutagen (Greater)|
 |[consumable-15-E999hL7XlAlfZhjK.htm](equipment/consumable-15-E999hL7XlAlfZhjK.htm)|Potion of Flying (Greater)|
-|[consumable-15-iPki3yuoucnj7bIt.htm](equipment/consumable-15-iPki3yuoucnj7bIt.htm)|Scroll of 8th-level Spell|
 |[consumable-15-QD5rDuk0OHadPGuh.htm](equipment/consumable-15-QD5rDuk0OHadPGuh.htm)|Obfuscation Oil|
 |[consumable-15-R4UPjbSDwDEmDJBA.htm](equipment/consumable-15-R4UPjbSDwDEmDJBA.htm)|Azure Worm Repellent|
 |[consumable-16-7p3C9xf3XgUbvKHL.htm](equipment/consumable-16-7p3C9xf3XgUbvKHL.htm)|Frenzy Oil|
@@ -152,20 +128,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-16-mGIJCGFkBQLkzhTg.htm](equipment/consumable-16-mGIJCGFkBQLkzhTg.htm)|Dispelling Sliver|
 |[consumable-16-Odl2SyKw8Zg6ckKb.htm](equipment/consumable-16-Odl2SyKw8Zg6ckKb.htm)|Hail of Arrows Snare|
 |[consumable-16-tnCKwIsRsKj3FtG6.htm](equipment/consumable-16-tnCKwIsRsKj3FtG6.htm)|Omnidirectional Spear Snare|
-|[consumable-17-2JXUER4xY8s36HUv.htm](equipment/consumable-17-2JXUER4xY8s36HUv.htm)|Copper Dragon's Breath Potion (Wyrm)|
 |[consumable-17-a7oQuwoUrMmJK0GO.htm](equipment/consumable-17-a7oQuwoUrMmJK0GO.htm)|Silvertongue Mutagen (Major)|
-|[consumable-17-cFHomF3tty8Wi1e5.htm](equipment/consumable-17-cFHomF3tty8Wi1e5.htm)|Scroll of 9th-level Spell|
-|[consumable-17-d2sU6nOtBdIVJMVI.htm](equipment/consumable-17-d2sU6nOtBdIVJMVI.htm)|Red Dragon's Breath Potion (Wyrm)|
-|[consumable-17-idtIMGkFmIe958Et.htm](equipment/consumable-17-idtIMGkFmIe958Et.htm)|Brass Dragon's Breath Potion (Wyrm)|
 |[consumable-17-JKQkjJAmZ34aWeil.htm](equipment/consumable-17-JKQkjJAmZ34aWeil.htm)|Serene Mutagen (Major)|
 |[consumable-17-Ks818imo0UrCtfmN.htm](equipment/consumable-17-Ks818imo0UrCtfmN.htm)|Cognitive Mutagen (Major)|
-|[consumable-17-KZbAqbt7qxJPPkii.htm](equipment/consumable-17-KZbAqbt7qxJPPkii.htm)|Gold Dragon's Breath Potion (Wyrm)|
-|[consumable-17-lJTl2SuUaluMzPBl.htm](equipment/consumable-17-lJTl2SuUaluMzPBl.htm)|Bronze Dragon's Breath Potion (Wyrm)|
-|[consumable-17-LR7Ke2V8vHjQYBni.htm](equipment/consumable-17-LR7Ke2V8vHjQYBni.htm)|Black Dragon's Breath Potion (Wyrm)|
-|[consumable-17-ltILKAEnrZ8vKwY0.htm](equipment/consumable-17-ltILKAEnrZ8vKwY0.htm)|Blue Dragon's Breath Potion (Wyrm)|
-|[consumable-17-OiQDcUMrlrYXDgEf.htm](equipment/consumable-17-OiQDcUMrlrYXDgEf.htm)|White Dragon's Breath Potion (Wyrm)|
-|[consumable-17-OJvCWeJPHEc7GpFG.htm](equipment/consumable-17-OJvCWeJPHEc7GpFG.htm)|Green Dragon's Breath Potion (Wyrm)|
-|[consumable-17-PW3H8TnouiLaTC8G.htm](equipment/consumable-17-PW3H8TnouiLaTC8G.htm)|Silver Dragon's Breath Potion (Wyrm)|
 |[consumable-17-qvAtAv211cVqktgU.htm](equipment/consumable-17-qvAtAv211cVqktgU.htm)|Green Gut|
 |[consumable-17-RJQYJmgZHwF2s8EN.htm](equipment/consumable-17-RJQYJmgZHwF2s8EN.htm)|Energy Mutagen (Major)|
 |[consumable-17-tIOPgWPa2ESOtJ6k.htm](equipment/consumable-17-tIOPgWPa2ESOtJ6k.htm)|Juggernaut Mutagen (Major)|
@@ -173,14 +138,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-19-5hGJ6CZi0A9OjMd4.htm](equipment/consumable-19-5hGJ6CZi0A9OjMd4.htm)|Oblivion Essence|
 |[consumable-19-9WenEIQrBV8POQU1.htm](equipment/consumable-19-9WenEIQrBV8POQU1.htm)|Panacea Fruit|
 |[consumable-19-gn5ITN5GILHKxGA4.htm](equipment/consumable-19-gn5ITN5GILHKxGA4.htm)|Ambrosia of Undying Hope|
-|[consumable-19-o1XIHJ4MJyroAHfF.htm](equipment/consumable-19-o1XIHJ4MJyroAHfF.htm)|Scroll of 10th-level Spell|
 |[consumable-20-dRi775Uhzqgn7aBs.htm](equipment/consumable-20-dRi775Uhzqgn7aBs.htm)|Nightmare Salt|
 |[consumable-20-FB7qAHjiiHTGhRnn.htm](equipment/consumable-20-FB7qAHjiiHTGhRnn.htm)|Celestial Hair|
 |[consumable-20-P9dhnMcr3lbHBn2E.htm](equipment/consumable-20-P9dhnMcr3lbHBn2E.htm)|Sun Orchid Elixir|
 |[consumable-20-qvfO0jFIvIM8hReG.htm](equipment/consumable-20-qvfO0jFIvIM8hReG.htm)|Flying Blade Wheel Snare|
 |[equipment-00-3MGQ8KxH7HNA8THZ.htm](equipment/equipment-00-3MGQ8KxH7HNA8THZ.htm)|Jellyfish Lamp|
 |[equipment-00-Gyi4IVrAVJRPJF2s.htm](equipment/equipment-00-Gyi4IVrAVJRPJF2s.htm)|Deck of Many Things|
-|[equipment-00-KIpkxwuPWt0rOGT1.htm](equipment/equipment-00-KIpkxwuPWt0rOGT1.htm)|Swim Fins|
 |[equipment-00-n0OsTQFXFz6dDAr6.htm](equipment/equipment-00-n0OsTQFXFz6dDAr6.htm)|Flayleaf|
 |[equipment-01-GnBZ7lauimjQtCtU.htm](equipment/equipment-01-GnBZ7lauimjQtCtU.htm)|Dust Pods|
 |[equipment-02-9uhJ7OB65ZTdUc8b.htm](equipment/equipment-02-9uhJ7OB65ZTdUc8b.htm)|Necklace of Knives|
@@ -203,14 +166,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-03-SGkOHFyBbzWdBk8D.htm](equipment/equipment-03-SGkOHFyBbzWdBk8D.htm)|Expanded Healer's Tools|
 |[equipment-03-xVhd8NF9KQ6VWfMu.htm](equipment/equipment-03-xVhd8NF9KQ6VWfMu.htm)|Compass (Lensatic)|
 |[equipment-03-yw1kPxsdCoDUzOaE.htm](equipment/equipment-03-yw1kPxsdCoDUzOaE.htm)|Musical Instrument (Virtuoso heavy)|
-|[equipment-04-9zdm3EyEQXgMox8b.htm](equipment/equipment-04-9zdm3EyEQXgMox8b.htm)|Divine Scroll Case of Simplicity|
-|[equipment-04-EGYcFO9eYfajGKEf.htm](equipment/equipment-04-EGYcFO9eYfajGKEf.htm)|Occult Scroll Case of Simplicity|
 |[equipment-04-JCGsj7iY88o9uTP5.htm](equipment/equipment-04-JCGsj7iY88o9uTP5.htm)|Hunter's Arrowhead|
 |[equipment-04-LmIpYZ1lS2UDGXvU.htm](equipment/equipment-04-LmIpYZ1lS2UDGXvU.htm)|Mortar of Hidden Meaning|
-|[equipment-04-mqOjTuUHv4cRdt2N.htm](equipment/equipment-04-mqOjTuUHv4cRdt2N.htm)|Primal Scroll Case of Simplicity|
 |[equipment-04-oC4ZMEdBJ3ia4ALm.htm](equipment/equipment-04-oC4ZMEdBJ3ia4ALm.htm)|Cloak of Repute|
 |[equipment-04-PhjutBgR1egCuHvY.htm](equipment/equipment-04-PhjutBgR1egCuHvY.htm)|Wayfinder of Rescue|
-|[equipment-04-vxBcsWCjWd6DZ0Jz.htm](equipment/equipment-04-vxBcsWCjWd6DZ0Jz.htm)|Arcane Scroll Case of Simplicity|
 |[equipment-04-WKdmAhoji9Y9RC7D.htm](equipment/equipment-04-WKdmAhoji9Y9RC7D.htm)|Marvelous Calliope|
 |[equipment-04-y0ngvQ7ArcUuoEHT.htm](equipment/equipment-04-y0ngvQ7ArcUuoEHT.htm)|Blessed Tattoo|
 |[equipment-04-z6eQdPTgSxTLR1Qr.htm](equipment/equipment-04-z6eQdPTgSxTLR1Qr.htm)|Shining Wayfinder|
@@ -311,7 +270,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-PzWETSKeVKisKCyl.htm](equipment/treasure-PzWETSKeVKisKCyl.htm)|Living flame shaped into a phoenix|
 |[treasure-q72jL8PRcjw3DVoF.htm](equipment/treasure-q72jL8PRcjw3DVoF.htm)|Phasing ether silk tapestry|
 |[treasure-qnK4cIHZ2irCV4BL.htm](equipment/treasure-qnK4cIHZ2irCV4BL.htm)|Quartz, rock crystal|
-|[weapon-01-WS78LUHzlpeONMRo.htm](equipment/weapon-01-WS78LUHzlpeONMRo.htm)|Scrollstaff|
 |[weapon-04-k5P9YZO4ARlE4By3.htm](equipment/weapon-04-k5P9YZO4ARlE4By3.htm)|Crimson Brand|
 |[weapon-05-1S3RgLWa1DBitB9V.htm](equipment/weapon-05-1S3RgLWa1DBitB9V.htm)|Dagger of Eternal Sleep|
 |[weapon-05-Dti9PZZoty6We8OV.htm](equipment/weapon-05-Dti9PZZoty6We8OV.htm)|Cinderclaw Gauntlet|
@@ -468,6 +426,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-OIirLySQDLZgT15S.htm](equipment/consumable-01-OIirLySQDLZgT15S.htm)|Arsenic|Arsenic|changé|
 |[consumable-01-oplQpQSTyTvHDDtq.htm](equipment/consumable-01-oplQpQSTyTvHDDtq.htm)|Marking Snare|Piège artisanal marqueur|changé|
 |[consumable-01-qoM7Va5GqcLLBzgu.htm](equipment/consumable-01-qoM7Va5GqcLLBzgu.htm)|Owlbear Claw|Griffe d'hibours|changé|
+|[consumable-01-RjuupS9xyXDLgyIr.htm](equipment/consumable-01-RjuupS9xyXDLgyIr.htm)|Scroll of 1st-level Spell|Parchemin de sort de niveau 1|officielle|
 |[consumable-01-txmX5ghhPS72GKXy.htm](equipment/consumable-01-txmX5ghhPS72GKXy.htm)|Giant Centipede Venom|Venin de mille-pattes géant|changé|
 |[consumable-01-tyt6rFtv32MZ4DT9.htm](equipment/consumable-01-tyt6rFtv32MZ4DT9.htm)|Cheetah's Elixir (Lesser)|Elixir du guépard (inférieur)|officielle|
 |[consumable-01-uG3xtNrs26scOVgW.htm](equipment/consumable-01-uG3xtNrs26scOVgW.htm)|Leaper's Elixir (Lesser)|Élixir du sauteur (inférieur)|officielle|
@@ -517,6 +476,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-03-taAjenWKjBJpQyrE.htm](equipment/consumable-03-taAjenWKjBJpQyrE.htm)|Beacon Shot|Signal lumineux|changé|
 |[consumable-03-WQhnfj1LbrEzvh8z.htm](equipment/consumable-03-WQhnfj1LbrEzvh8z.htm)|Potion of Water Breathing|Potion de respiration aquatique|officielle|
 |[consumable-03-XQx6QIQY4sNGlFzY.htm](equipment/consumable-03-XQx6QIQY4sNGlFzY.htm)|Juggernaut Mutagen (Moderate)|Mutagène de juggernaut|officielle|
+|[consumable-03-Y7UD64foDbDMV9sx.htm](equipment/consumable-03-Y7UD64foDbDMV9sx.htm)|Scroll of 2nd-level Spell|Parchemin de sort de niveau 2|officielle|
 |[consumable-04-3Fmbw9wJkqZBV9De.htm](equipment/consumable-04-3Fmbw9wJkqZBV9De.htm)|Feather Token (Fan)|Plume magique (éventail)|changé|
 |[consumable-04-9EZb1hmSKOGrU4Cf.htm](equipment/consumable-04-9EZb1hmSKOGrU4Cf.htm)|Biting Snare|Piège artisanal à mâchoires|officielle|
 |[consumable-04-bikFUFRLwfdvX2x2.htm](equipment/consumable-04-bikFUFRLwfdvX2x2.htm)|Invisibility Potion|Potion d'invisibilité|officielle|
@@ -545,6 +505,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-05-Tj4uaNw2lgevxGl7.htm](equipment/consumable-05-Tj4uaNw2lgevxGl7.htm)|Shark Tooth Charm|Charme en dent de requin|changé|
 |[consumable-05-TZUskLT7yvP7N2co.htm](equipment/consumable-05-TZUskLT7yvP7N2co.htm)|Elixir of Life (Lesser)|Élixir de vie|officielle|
 |[consumable-05-zcJgT5RS8p2MEbOB.htm](equipment/consumable-05-zcJgT5RS8p2MEbOB.htm)|Sea Touch Elixir (Lesser)|Elixir de caresse marine (inférieur)|officielle|
+|[consumable-05-ZmefGBXGJF3CFDbn.htm](equipment/consumable-05-ZmefGBXGJF3CFDbn.htm)|Scroll of 3nd-level Spell|Parchemin de sort de niveau 3|officielle|
 |[consumable-05-zrZ1FaaqW6VIajj7.htm](equipment/consumable-05-zrZ1FaaqW6VIajj7.htm)|Tiger Menuki|Menuki du tigre|changé|
 |[consumable-06-4owFeOy4zxy8rv7W.htm](equipment/consumable-06-4owFeOy4zxy8rv7W.htm)|Feather Token (Tree)|Plume magique (arbre)|changé|
 |[consumable-06-8iGmSwTTUdj6gqN5.htm](equipment/consumable-06-8iGmSwTTUdj6gqN5.htm)|Dust of Appearance|Poudre d'apparition|changé|
@@ -565,20 +526,27 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-06-u1gZaIZHnEfZDc1o.htm](equipment/consumable-06-u1gZaIZHnEfZDc1o.htm)|Potion of Acid Resistance (Lesser)|Potion de résistance à l'acide (inférieur)|changé|
 |[consumable-06-V2TUEoiDwJ125qzN.htm](equipment/consumable-06-V2TUEoiDwJ125qzN.htm)|Potion of Resistance (Lesser)|Potion de résistance (inférieur)|changé|
 |[consumable-06-ZEKmCg8K2hUHbmnT.htm](equipment/consumable-06-ZEKmCg8K2hUHbmnT.htm)|Salve of Antiparalysis|Baume antiparalysie|changé|
-|[consumable-07-3fSc2e5xRjJ7w4g3.htm](equipment/consumable-07-3fSc2e5xRjJ7w4g3.htm)|Gold Dragon's Breath Potion (Young)|Potion de souffle de dragon d'or (jeune)|officielle|
+|[consumable-07-3fSc2e5xRjJ7w4g3.htm](equipment/consumable-07-3fSc2e5xRjJ7w4g3.htm)|Gold Dragon's Breath Potion (Young)|Potion de souffle du jeune dragon d'or|officielle|
 |[consumable-07-6eQvHNHf1IC2X5Rx.htm](equipment/consumable-07-6eQvHNHf1IC2X5Rx.htm)|Leaper's Elixir (Greater)|Elixir du sauteur (supérieur)|officielle|
 |[consumable-07-76T49dJYfxIrPvQe.htm](equipment/consumable-07-76T49dJYfxIrPvQe.htm)|Malyass Root Paste|Pâte de racine de malyasse|changé|
 |[consumable-07-9ignmYCACjfzkxDQ.htm](equipment/consumable-07-9ignmYCACjfzkxDQ.htm)|Serum of Sex Shift|Sérum de changement de sexe|officielle|
 |[consumable-07-aBOPYlfHAcXUmhF7.htm](equipment/consumable-07-aBOPYlfHAcXUmhF7.htm)|Giant Wasp Venom|Venin de guèpe géante|changé|
 |[consumable-07-eEIWjTvZyKsKhYaz.htm](equipment/consumable-07-eEIWjTvZyKsKhYaz.htm)|Grim Trophy|Sinistre trophée|changé|
 |[consumable-07-ehss8yPTXxiUdVlJ.htm](equipment/consumable-07-ehss8yPTXxiUdVlJ.htm)|Smokestick (Greater)|Bâton fumigène (supérieur)|changé|
-|[consumable-07-fkGHYeGVK6O2VW1s.htm](equipment/consumable-07-fkGHYeGVK6O2VW1s.htm)|Red Dragon's Breath Potion (Young)|Potion de souffle de dragon rouge (jeune)|officielle|
+|[consumable-07-fkGHYeGVK6O2VW1s.htm](equipment/consumable-07-fkGHYeGVK6O2VW1s.htm)|Red Dragon's Breath Potion (Young)|Potion de souffle de jeune dragon rouge|officielle|
 |[consumable-07-iaWOyuRf0iO4EYS9.htm](equipment/consumable-07-iaWOyuRf0iO4EYS9.htm)|Aeon Stone (Tourmaline Sphere)|Pierre d'éternité (sphère tourmaline)|changé|
-|[consumable-07-LKwI47eeJC0Y4hGu.htm](equipment/consumable-07-LKwI47eeJC0Y4hGu.htm)|Silver Dragon's Breath Potion (Young)|Potion de souffle de dragon d'argent (jeune)|officielle|
+|[consumable-07-LKwI47eeJC0Y4hGu.htm](equipment/consumable-07-LKwI47eeJC0Y4hGu.htm)|Silver Dragon's Breath Potion (Young)|Potion de souffle du jeune dragon d'argent|officielle|
 |[consumable-07-MfG8FABCgjLNoUVL.htm](equipment/consumable-07-MfG8FABCgjLNoUVL.htm)|Aeon Stone (Clear Spindle)|Pierre d'éternité (fuseau translucide)|officielle|
 |[consumable-07-mz0GbCF2WT1DSYac.htm](equipment/consumable-07-mz0GbCF2WT1DSYac.htm)|Spellstrike Ammunition (Type III)|Munition de frappe magique (Type III)|changé|
 |[consumable-07-OcBPjVplvy2GbQ8P.htm](equipment/consumable-07-OcBPjVplvy2GbQ8P.htm)|Comprehension Elixir (Greater)|Elixir de compréhension (supérieur)|officielle|
+|[consumable-07-qNIv0owESzOzo1s0.htm](equipment/consumable-07-qNIv0owESzOzo1s0.htm)|Black Dragon's Breath Potion (Young)|Potion de souffle de jeune dragon noir|officielle|
+|[consumable-07-QSQZJ5BC3DeHv153.htm](equipment/consumable-07-QSQZJ5BC3DeHv153.htm)|Scroll of 4th-level Spell|Parchemin de sort de niveau 4|officielle|
+|[consumable-07-TzXNMv7tnFy1FYgg.htm](equipment/consumable-07-TzXNMv7tnFy1FYgg.htm)|Bronze Dragon's Breath Potion (Young)|Potion de souffle du jeune dragon de bronze|officielle|
+|[consumable-07-vPcDIowg3LAqZYAE.htm](equipment/consumable-07-vPcDIowg3LAqZYAE.htm)|Copper Dragon's Breath Potion (Young)|Potion de souffle du jeune dragon de cuivre|officielle|
+|[consumable-07-vvgCQzWkScCzte7K.htm](equipment/consumable-07-vvgCQzWkScCzte7K.htm)|Green Dragon's Breath Potion (Young)|Potion de souffle du jeune dragon vert|officielle|
 |[consumable-07-VvljzRwthKMgqUR3.htm](equipment/consumable-07-VvljzRwthKMgqUR3.htm)|Feather Token (Anchor)|Plume magique (ancre)|officielle|
+|[consumable-07-xpVHMxLcwgXzL39e.htm](equipment/consumable-07-xpVHMxLcwgXzL39e.htm)|Blue Dragon's Breath Potion (Young)|Potion de souffle d'un jeune dragon bleu|officielle|
+|[consumable-07-xRrMmFzpa0WU9uV4.htm](equipment/consumable-07-xRrMmFzpa0WU9uV4.htm)|White Dragon's Breath Potion (Young)|Potion de souffle du jeune dragon blanc|officielle|
 |[consumable-07-YGaO4HyH6jn3P731.htm](equipment/consumable-07-YGaO4HyH6jn3P731.htm)|Murderer's Knot|Noeud du meurtier|changé|
 |[consumable-08-5xsfj30uXMKINxnk.htm](equipment/consumable-08-5xsfj30uXMKINxnk.htm)|Shrinking Potion (Greater)|Potion de rétrécissement|officielle|
 |[consumable-08-61mFRFnaCLHDtvdv.htm](equipment/consumable-08-61mFRFnaCLHDtvdv.htm)|Candle of Truth|Cierge de vérité|changé|
@@ -598,6 +566,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-09-rKknk8odXDBpON5l.htm](equipment/consumable-09-rKknk8odXDBpON5l.htm)|Explosive Ammunition|Munition explosive|changé|
 |[consumable-09-RpvH9EDquO0jS3Jz.htm](equipment/consumable-09-RpvH9EDquO0jS3Jz.htm)|Storm Arrow|Flèche d'orage|changé|
 |[consumable-09-t4X6GDybqLmt7UkN.htm](equipment/consumable-09-t4X6GDybqLmt7UkN.htm)|Cheetah's Elixir (Greater)|Elixir du guépard (supérieur)|officielle|
+|[consumable-09-tjLvRWklAylFhBHQ.htm](equipment/consumable-09-tjLvRWklAylFhBHQ.htm)|Scroll of 5th-level Spell|Parchemin de sort de niveau 5|officielle|
 |[consumable-09-wDhqRxuXPQfyD0eX.htm](equipment/consumable-09-wDhqRxuXPQfyD0eX.htm)|Javelin of Lightning|Javeline de foudre|changé|
 |[consumable-09-WSZl9S0Nui7pTMa8.htm](equipment/consumable-09-WSZl9S0Nui7pTMa8.htm)|Spellstrike Ammunition (Type IV)|Munition de frappe magique (Type IV)|changé|
 |[consumable-09-XAuWVlZYGgCguzwz.htm](equipment/consumable-09-XAuWVlZYGgCguzwz.htm)|Feather Token (Whip)|Plume magique (fouet)|changé|
@@ -612,6 +581,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-10-xWCdsGSwLLTeX6tQ.htm](equipment/consumable-10-xWCdsGSwLLTeX6tQ.htm)|Eagle Eye Elixir (Greater)|Elixir d'oeil de faucon (supérieur)|officielle|
 |[consumable-10-XWkeL34yJK6t5qUE.htm](equipment/consumable-10-XWkeL34yJK6t5qUE.htm)|Antidote (Greater)|Antidote (supérieur)|changé|
 |[consumable-11-3FuKNBhL8HoLQlDx.htm](equipment/consumable-11-3FuKNBhL8HoLQlDx.htm)|Silvertongue Mutagen (Greater)|Mutagène de langue dorée (supérieur)|officielle|
+|[consumable-11-4sGIy77COooxhQuC.htm](equipment/consumable-11-4sGIy77COooxhQuC.htm)|Scroll of 6th-level Spell|Parchemin de sort de niveau 6|officielle|
 |[consumable-11-Cc4SokzVBoBCkHId.htm](equipment/consumable-11-Cc4SokzVBoBCkHId.htm)|Blightburn Resin|Résine de champibrûle|changé|
 |[consumable-11-Cf2OfHLLDbSvZhpF.htm](equipment/consumable-11-Cf2OfHLLDbSvZhpF.htm)|Bestial Mutagen (Greater)|Mutagène bestial (supérieur)|changé|
 |[consumable-11-E3VBIIRY3Vv7Cf6z.htm](equipment/consumable-11-E3VBIIRY3Vv7Cf6z.htm)|Quicksilver Mutagen (Greater)|Mutagène vif-argent (supérieur)|officielle|
@@ -621,19 +591,30 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-11-XyrFcBF5ygIFFGes.htm](equipment/consumable-11-XyrFcBF5ygIFFGes.htm)|Spellstrike Ammunition (Type V)|Munition de frappe magique (Type V)|changé|
 |[consumable-12-2hc1EEcb3pfr7Hac.htm](equipment/consumable-12-2hc1EEcb3pfr7Hac.htm)|Sea Touch Elixir (Moderate)|Elixir de caresse marine (modéré)|officielle|
 |[consumable-12-2prxM8Q0F4sdSwPx.htm](equipment/consumable-12-2prxM8Q0F4sdSwPx.htm)|Winter Wolf Elixir (Moderate)|Elixir du loup arctique (modéré)|officielle|
+|[consumable-12-2VC7FLItVrFWNe4L.htm](equipment/consumable-12-2VC7FLItVrFWNe4L.htm)|Copper Dragon's Breath Potion (Adult)|Potion de souffle du dragon de cuivre adulte|officielle|
 |[consumable-12-9Kk6P7idLGRhZJ2q.htm](equipment/consumable-12-9Kk6P7idLGRhZJ2q.htm)|Bleeding Spines Snare|Piège artisanal à pointes barbelées|officielle|
+|[consumable-12-Bn1o5foPq1kqZKf0.htm](equipment/consumable-12-Bn1o5foPq1kqZKf0.htm)|Red Dragon's Breath Potion (Adult)|Potion de souffle du dragon rouge adulte|officielle|
 |[consumable-12-cxOf1V1kN9tnj1g9.htm](equipment/consumable-12-cxOf1V1kN9tnj1g9.htm)|Eye of Apprehension|Oeil d'appréhension|changé|
 |[consumable-12-drxEWZl8mqMOZ23E.htm](equipment/consumable-12-drxEWZl8mqMOZ23E.htm)|Potion of Tongues|Potion de don des langues|officielle|
 |[consumable-12-EEJiqzU89Ofk7dr6.htm](equipment/consumable-12-EEJiqzU89Ofk7dr6.htm)|Salamander Elixir (Moderate)|Elixir de la salamandre (modéré)|officielle|
+|[consumable-12-eV0owvv0lYQph0nn.htm](equipment/consumable-12-eV0owvv0lYQph0nn.htm)|Green Dragon's Breath Potion (Adult)|Potion de souffle du dragon vert adulte|officielle|
 |[consumable-12-FrbvejTNfS5fep9f.htm](equipment/consumable-12-FrbvejTNfS5fep9f.htm)|Fade Band|Fil de disparition|changé|
 |[consumable-12-KrtZmC3qfZIGXu76.htm](equipment/consumable-12-KrtZmC3qfZIGXu76.htm)|Iron Equalizer|Fer d'équilibrage|changé|
 |[consumable-12-md1dz6D2EEEHVS6M.htm](equipment/consumable-12-md1dz6D2EEEHVS6M.htm)|Aeon Stone (Pink Rhomboid)|Pierre d'éternité (Rhombe rose vif)|officielle|
 |[consumable-12-mQtp7DJpq1ZE5xTT.htm](equipment/consumable-12-mQtp7DJpq1ZE5xTT.htm)|Aeon Stone (Black Pearl)|Pierre d'éternité (noir perle)|changé|
+|[consumable-12-NqNwLeqto2isVWNL.htm](equipment/consumable-12-NqNwLeqto2isVWNL.htm)|Gold Dragon's Breath Potion (Adult)|Potion de souffle du dragon d'or adulte|officielle|
+|[consumable-12-rOQlcAV4m8Zaebue.htm](equipment/consumable-12-rOQlcAV4m8Zaebue.htm)|Brass Dragon's Breath Potion (Adult)|Potion de souffle du dragon d'airain adulte|officielle|
+|[consumable-12-t9wFCiFkCRcSLtaG.htm](equipment/consumable-12-t9wFCiFkCRcSLtaG.htm)|Silver Dragon's Breath Potion (Adult)|Potion de souffle du dragon d'argent adulte|officielle|
 |[consumable-12-tOg1nt08dBTZbkwR.htm](equipment/consumable-12-tOg1nt08dBTZbkwR.htm)|Penetrating Ammunition|Munition pénétrante|changé|
 |[consumable-12-TSrbwHW8zm0mhkwb.htm](equipment/consumable-12-TSrbwHW8zm0mhkwb.htm)|Healing Potion (Greater)|Potion de guérison (supérieur)|officielle|
+|[consumable-12-vXLZfi5iCSKb96tW.htm](equipment/consumable-12-vXLZfi5iCSKb96tW.htm)|Bronze Dragon's Breath Potion (Adult)|Potion de souffle du dragon de bronze adulte|officielle|
+|[consumable-12-WwWssHoEhyh7Yrrw.htm](equipment/consumable-12-WwWssHoEhyh7Yrrw.htm)|White Dragon's Breath Potion (Adult)|Potion de souffle du dragon blanc adulte|officielle|
+|[consumable-12-x04huvOBBXmExTDl.htm](equipment/consumable-12-x04huvOBBXmExTDl.htm)|Black Dragon's Breath Potion (Adult)|Potion de souffle du dragon noir adulte|officielle|
 |[consumable-12-ybu2BMu2oWj74wl8.htm](equipment/consumable-12-ybu2BMu2oWj74wl8.htm)|Salve of Antiparalysis (Greater)|Baume antiparalysie (supérieur)|changé|
 |[consumable-12-z7eOUqVwyht6tj11.htm](equipment/consumable-12-z7eOUqVwyht6tj11.htm)|Slumber Wine|Vin soporifique|changé|
+|[consumable-12-zQnidYCmLCBPfdii.htm](equipment/consumable-12-zQnidYCmLCBPfdii.htm)|Blue Dragon's Breath Potion (Adult)|Potion de souffle du dragon bleu adulte|officielle|
 |[consumable-13-87AzvRja9uQOLJCC.htm](equipment/consumable-13-87AzvRja9uQOLJCC.htm)|Deathcap Powder|Poudre d'amanite phalloïde|changé|
+|[consumable-13-fomEZZ4MxVVK3uVu.htm](equipment/consumable-13-fomEZZ4MxVVK3uVu.htm)|Scroll of 7th-level Spell|Parchemin de sort de niveau 7|officielle|
 |[consumable-13-g27kK39Nzqphl1Tb.htm](equipment/consumable-13-g27kK39Nzqphl1Tb.htm)|Explosive Ammunition (Greater)|Munition explosive (supérieure)|changé|
 |[consumable-13-H2oEVh06TMhrN9qg.htm](equipment/consumable-13-H2oEVh06TMhrN9qg.htm)|Aeon Stone (Pale Lavender Ellipsoid)|Pierre d'éternité (ellipsoïde lavande pâle)|changé|
 |[consumable-13-iRDCa4OVSTGUD3vi.htm](equipment/consumable-13-iRDCa4OVSTGUD3vi.htm)|Purple Worm Venom|Venin de ver pourpre|changé|
@@ -652,6 +633,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-15-Gfew65lwkzZc3mUV.htm](equipment/consumable-15-Gfew65lwkzZc3mUV.htm)|Disintegration Bolt|Carreau de désintégration|changé|
 |[consumable-15-GMi5tw0cbMx3ZQPg.htm](equipment/consumable-15-GMi5tw0cbMx3ZQPg.htm)|Mindfog Mist|Brumentale|changé|
 |[consumable-15-i4D4B7tpYv9vMvQY.htm](equipment/consumable-15-i4D4B7tpYv9vMvQY.htm)|Sea Touch Elixir (Greater)|Elixir de caresse marine (supérieur)|officielle|
+|[consumable-15-iPki3yuoucnj7bIt.htm](equipment/consumable-15-iPki3yuoucnj7bIt.htm)|Scroll of 8th-level Spell|Parchemin de sort de niveau 8|officielle|
 |[consumable-15-sWPkbSlWAEAStBqD.htm](equipment/consumable-15-sWPkbSlWAEAStBqD.htm)|Bravo's Brew (Greater)|Breuvage de bravoure (supérieure)|officielle|
 |[consumable-15-WearPqN56FQofpF6.htm](equipment/consumable-15-WearPqN56FQofpF6.htm)|Spellstrike Ammunition (Type VII)|Munition de frappe magique (Type VII)|changé|
 |[consumable-15-wTVBD8XHPG810rlH.htm](equipment/consumable-15-wTVBD8XHPG810rlH.htm)|Stone Bullet|Bille de pierre|changé|
@@ -664,14 +646,26 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-16-kicNrnZz1KjJYRVI.htm](equipment/consumable-16-kicNrnZz1KjJYRVI.htm)|Eagle Eye Elixir (Major)|Elixir d'oeil de faucon (majeur)|officielle|
 |[consumable-16-X6vNtRjyHIuN7vqj.htm](equipment/consumable-16-X6vNtRjyHIuN7vqj.htm)|Nightmare Vapor|Vapeur de chauchemar|changé|
 |[consumable-16-XMuLrJYL6fxv4YNA.htm](equipment/consumable-16-XMuLrJYL6fxv4YNA.htm)|Salamander Elixir (Greater)|Elixir de la salamandre (supérieur)|officielle|
+|[consumable-17-2JXUER4xY8s36HUv.htm](equipment/consumable-17-2JXUER4xY8s36HUv.htm)|Copper Dragon's Breath Potion (Wyrm)|Potion de souffle de dracosire de cuivre|officielle|
 |[consumable-17-6CIaYDLlTEA7ngLa.htm](equipment/consumable-17-6CIaYDLlTEA7ngLa.htm)|Bestial Mutagen (Major)|Mutagène bestial (Majeur)|changé|
+|[consumable-17-cFHomF3tty8Wi1e5.htm](equipment/consumable-17-cFHomF3tty8Wi1e5.htm)|Scroll of 9th-level Spell|Parchemin de sort de niveau 9|officielle|
+|[consumable-17-d2sU6nOtBdIVJMVI.htm](equipment/consumable-17-d2sU6nOtBdIVJMVI.htm)|Red Dragon's Breath Potion (Wyrm)|Potion de souffle de dracosire rouge|officielle|
+|[consumable-17-idtIMGkFmIe958Et.htm](equipment/consumable-17-idtIMGkFmIe958Et.htm)|Brass Dragon's Breath Potion (Wyrm)|Potion de souffle de dracosire d'airain|officielle|
+|[consumable-17-KZbAqbt7qxJPPkii.htm](equipment/consumable-17-KZbAqbt7qxJPPkii.htm)|Gold Dragon's Breath Potion (Wyrm)|Potion de souffle de dracosire d'or|officielle|
+|[consumable-17-lJTl2SuUaluMzPBl.htm](equipment/consumable-17-lJTl2SuUaluMzPBl.htm)|Bronze Dragon's Breath Potion (Wyrm)|Potion de souffle de dracosire de bronze|officielle|
+|[consumable-17-LR7Ke2V8vHjQYBni.htm](equipment/consumable-17-LR7Ke2V8vHjQYBni.htm)|Black Dragon's Breath Potion (Wyrm)|Potion de souffle de dracosire noir|officielle|
+|[consumable-17-ltILKAEnrZ8vKwY0.htm](equipment/consumable-17-ltILKAEnrZ8vKwY0.htm)|Blue Dragon's Breath Potion (Wyrm)|Potion de souffle de dracosire bleu|officielle|
 |[consumable-17-MP7updiiSct04vno.htm](equipment/consumable-17-MP7updiiSct04vno.htm)|Hemlock|Cigüe|changé|
+|[consumable-17-OiQDcUMrlrYXDgEf.htm](equipment/consumable-17-OiQDcUMrlrYXDgEf.htm)|White Dragon's Breath Potion (Wyrm)|Potion de souffle de dracosire blanc|officielle|
+|[consumable-17-OJvCWeJPHEc7GpFG.htm](equipment/consumable-17-OJvCWeJPHEc7GpFG.htm)|Green Dragon's Breath Potion (Wyrm)|Potion de souffle de dracosire vert|officielle|
 |[consumable-17-oqiC4Mc5qKNCl88e.htm](equipment/consumable-17-oqiC4Mc5qKNCl88e.htm)|Spellstrike Ammunition (Type VIII)|Munition de frappe magique (Type VIII)|changé|
+|[consumable-17-PW3H8TnouiLaTC8G.htm](equipment/consumable-17-PW3H8TnouiLaTC8G.htm)|Silver Dragon's Breath Potion (Wyrm)|Potion de souffle de dracosire d'argent|officielle|
 |[consumable-17-Y6uI3U0913hc31jq.htm](equipment/consumable-17-Y6uI3U0913hc31jq.htm)|Quicksilver Mutagen (Major)|Mutagène vif-argent (majeur)|officielle|
 |[consumable-18-p3ppzFSsZXFRe3H8.htm](equipment/consumable-18-p3ppzFSsZXFRe3H8.htm)|Healing Potion (Major)|Potion de guérison (majeure)|officielle|
 |[consumable-18-RkI3jKKrCozvEvfr.htm](equipment/consumable-18-RkI3jKKrCozvEvfr.htm)|King's Sleep|Sommeil du roi|changé|
 |[consumable-18-UblsH5cGyUdXypek.htm](equipment/consumable-18-UblsH5cGyUdXypek.htm)|Potion of Undetectability|Potion de détection impossible|officielle|
 |[consumable-19-aAGjV3wkopQ44VX3.htm](equipment/consumable-19-aAGjV3wkopQ44VX3.htm)|Spellstrike Ammunition (Type IX)|Munition de frappe magique (Type IX)|changé|
+|[consumable-19-o1XIHJ4MJyroAHfF.htm](equipment/consumable-19-o1XIHJ4MJyroAHfF.htm)|Scroll of 10th-level Spell|Parchemin de sort de niveau 10|officielle|
 |[consumable-19-qK964kZz1ALcysOa.htm](equipment/consumable-19-qK964kZz1ALcysOa.htm)|Elixir of Life (True)|Elixir de vie (ultime)|officielle|
 |[consumable-19-tHUo3a0g20LR8a23.htm](equipment/consumable-19-tHUo3a0g20LR8a23.htm)|Aeon Stone (Lavender and Green Ellipsoid)|Pierre d'éternité (ellipsoïde vert et lavande)|officielle|
 |[consumable-19-xQS1MSqGQz44FWUh.htm](equipment/consumable-19-xQS1MSqGQz44FWUh.htm)|Black Lotus Extract|Extrait de lotus noir|changé|
@@ -695,6 +689,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-jerA2fFiK5wb32r5.htm](equipment/equipment-00-jerA2fFiK5wb32r5.htm)|Silver Ingot|Lingot d'argent|changé|
 |[equipment-00-JlClrm1WfJ45oWcS.htm](equipment/equipment-00-JlClrm1WfJ45oWcS.htm)|Tent (Four-Person)|Tente (4 personnes)|officielle|
 |[equipment-00-k6xZkDUpF7E1Totd.htm](equipment/equipment-00-k6xZkDUpF7E1Totd.htm)|Alchemist's Lab|Laboratoire d’alchimie|changé|
+|[equipment-00-KIpkxwuPWt0rOGT1.htm](equipment/equipment-00-KIpkxwuPWt0rOGT1.htm)|Swim Fins|Nageoires de natation|libre|
 |[equipment-00-L9ZV076913otGtiB.htm](equipment/equipment-00-L9ZV076913otGtiB.htm)|Rations|Rations|officielle|
 |[equipment-00-Ld8duhvwTQ5lCQmF.htm](equipment/equipment-00-Ld8duhvwTQ5lCQmF.htm)|Silver Chunk|Morceau d'argent|changé|
 |[equipment-00-PBlxTrEyr3qXFBqq.htm](equipment/equipment-00-PBlxTrEyr3qXFBqq.htm)|Lock (Poor)|Serrure (médiocre)|officielle|
@@ -749,10 +744,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-03-zPhqmCvWyHO8i9ws.htm](equipment/equipment-03-zPhqmCvWyHO8i9ws.htm)|Pendant of the Occult|Pendentif des sciences occultes|officielle|
 |[equipment-04-2gYZiUw9yjtb0yJY.htm](equipment/equipment-04-2gYZiUw9yjtb0yJY.htm)|Demon Mask|Masque du démon|changé|
 |[equipment-04-7JVgLiNTAs4clEW8.htm](equipment/equipment-04-7JVgLiNTAs4clEW8.htm)|Alchemist Goggles|Lunettes d'alchimiste|changé|
+|[equipment-04-9zdm3EyEQXgMox8b.htm](equipment/equipment-04-9zdm3EyEQXgMox8b.htm)|Divine Scroll Case of Simplicity|Étui à parchemin de simplicité divine|libre|
 |[equipment-04-DxCuJKynlnMQZHgp.htm](equipment/equipment-04-DxCuJKynlnMQZHgp.htm)|Striking|Frappe (rune)|changé|
+|[equipment-04-EGYcFO9eYfajGKEf.htm](equipment/equipment-04-EGYcFO9eYfajGKEf.htm)|Occult Scroll Case of Simplicity|Étui à parchemin de cimplicité occulte|libre|
 |[equipment-04-g2oaOGSpttfH1q6W.htm](equipment/equipment-04-g2oaOGSpttfH1q6W.htm)|Lifting Belt|Ceinture de levée|changé|
 |[equipment-04-JQdwHECogcTzdd8R.htm](equipment/equipment-04-JQdwHECogcTzdd8R.htm)|Ghost Touch|Spectrale (rune)|changé|
+|[equipment-04-mqOjTuUHv4cRdt2N.htm](equipment/equipment-04-mqOjTuUHv4cRdt2N.htm)|Primal Scroll Case of Simplicity|Étui à parchemin de simplicité primordiale|libre|
 |[equipment-04-o1zKhvYUUc1hE2AE.htm](equipment/equipment-04-o1zKhvYUUc1hE2AE.htm)|Healer's Gloves|Gants du guérisseur|changé|
+|[equipment-04-vxBcsWCjWd6DZ0Jz.htm](equipment/equipment-04-vxBcsWCjWd6DZ0Jz.htm)|Arcane Scroll Case of Simplicity|Étui à parchemin de simplicité arcanique|libre|
 |[equipment-04-Zw3BKaJYxxxzNZ0f.htm](equipment/equipment-04-Zw3BKaJYxxxzNZ0f.htm)|Wand of Widening (1st-Level Spell)|Baguette d'élargissement (sort de niveau 1)|changé|
 |[equipment-05-6cV9Kpwc7aiuhqbH.htm](equipment/equipment-05-6cV9Kpwc7aiuhqbH.htm)|Necklace of Fireballs I|Collier à boules de feu I|changé|
 |[equipment-05-a60NH7OztaEaGlU8.htm](equipment/equipment-05-a60NH7OztaEaGlU8.htm)|Wand of Continuation (1st-Level Spell)|Baguette de prolongation (sort de niveau 1)|changé|
@@ -1216,6 +1215,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-01-M1k5QQc1qQLxzyCK.htm](equipment/weapon-01-M1k5QQc1qQLxzyCK.htm)|Acid Flask (Lesser)|Fiole d’acide (Inférieur)|changé|
 |[weapon-01-T6Appwwl6nUl56Xj.htm](equipment/weapon-01-T6Appwwl6nUl56Xj.htm)|Tanglefoot Bag (Lesser)|Sacoche immobilisante (inférieur)|officielle|
 |[weapon-01-vRCH0cQJMllWvpfU.htm](equipment/weapon-01-vRCH0cQJMllWvpfU.htm)|Polytool|Outil universel|libre|
+|[weapon-01-WS78LUHzlpeONMRo.htm](equipment/weapon-01-WS78LUHzlpeONMRo.htm)|Scrollstaff|Bâton-parchemin|libre|
 |[weapon-01-Xnqglykl3Cif8rN9.htm](equipment/weapon-01-Xnqglykl3Cif8rN9.htm)|Thunderstone (Lesser)|Pierre à tonnerre (inférieur)|officielle|
 |[weapon-01-xZFT5JdEvDi7q467.htm](equipment/weapon-01-xZFT5JdEvDi7q467.htm)|Dwarven Daisy (Lesser)|Fleur de mort naine (inférieure)|libre|
 |[weapon-01-yd3kEK21YknZLlcT.htm](equipment/weapon-01-yd3kEK21YknZLlcT.htm)|Alchemist's Fire (Lesser)|Feu Grégeois (Inférieur)|changé|
