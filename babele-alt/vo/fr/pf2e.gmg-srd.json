@@ -1,4 +1,20 @@
 {
     "label": "Guide du MJ",
-    "entries": []
+    "entries": [
+        {
+            "id": "Metropolis",
+            "name": "Metropolis",
+            "description": "<p>Vous avez grandi dans une des Cités les plus grandes du monde, comme Absalom ou Couronne d'Ouest.</p>\n<p>Ajoutez Connaissance de l'Architecture, Connaissance des Gladiateurs, Connaissance d'une Guilde, Connaissance des Lois et Connaissance du théâtre à vos options d'historique.</p>"
+        },
+        {
+            "id": "Trained by a Mentor",
+            "name": "Trained by a Mentor",
+            "description": "<p>Un mentor ou un patron a trouvé un intérêt dans votre développement et s'est porté volontaire pour vous entraîner ou vous sponsoriser. </span></p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.sMm0UfYxEPpq2Yzd]{Professionnel expérimenté} aux options de votre historique.</p>"
+        },
+        {
+            "id": "Underground",
+            "name": "Underground",
+            "description": "<p>Vous avez été élevé dans un région partiellement ou totalement souterraine, comme une vlle minière humaine, un terrier gobelin ou une grotte tenue par des nains.</p>\n<p>Ajouter Connaissance de l'ingénierie, Connaissance du travail et Connaissance de la mine à vos options d'historique.</p>"
+        }
+    ]
 }

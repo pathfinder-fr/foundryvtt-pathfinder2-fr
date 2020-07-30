@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-07-26 15:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-30 17:55 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -159,7 +159,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aquatic Ambush](bestiary-ability-glossary-srd/HBrBrUzjfvj2gDXB.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.HBrBrUzjfvj2gDXB]`|
 |[At-Will Spells](bestiary-ability-glossary-srd/2YRDYVnC1eljaXKK.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.2YRDYVnC1eljaXKK]`|
 |[Attack of Opportunity](bestiary-ability-glossary-srd/hFtNbo1LKYCoDy2O.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.hFtNbo1LKYCoDy2O]`|
-|[Aura](bestiary-ability-glossary-srd/v61oEQaDdcRpaZ9X.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]`|
+|[Aura](bestiary-ability-glossary-srd/v61oEQaDdcRpaZ9X.htm)|Aura|`@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]`|
 |[Buck](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.nZMQh4AaBr291TUf]`|
 |[Catch Rock](bestiary-ability-glossary-srd/uG0Z8PsyZtsYuvGR.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.uG0Z8PsyZtsYuvGR]`|
 |[Change Shape](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.eQM5hQ1W3d1uen97]`|
@@ -309,9 +309,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |------------|-------------|-----------------|
 |[Acolyte](backgrounds/VoWlFBfksysrf8zY.htm)|Acolyte|`@Compendium[pf2e.backgrounds.VoWlFBfksysrf8zY]`|
 |[Acrobat](backgrounds/yikXQI2YVWcmGV2N.htm)|Acrobate|`@Compendium[pf2e.backgrounds.yikXQI2YVWcmGV2N]`|
-|[Aerialist](backgrounds/hQiyj0YTMNqMNf1x.htm)||`@Compendium[pf2e.backgrounds.hQiyj0YTMNqMNf1x]`|
+|[Aerialist](backgrounds/hQiyj0YTMNqMNf1x.htm)|Trapéziste|`@Compendium[pf2e.backgrounds.hQiyj0YTMNqMNf1x]`|
 |[Aiudara Seeker](backgrounds/7woKMTCFU4NC06l5.htm)|Chercheur d'aiudara|`@Compendium[pf2e.backgrounds.7woKMTCFU4NC06l5]`|
-|[Alkenstar Tinker](backgrounds/y6Df6HCrzc5kuLAJ.htm)||`@Compendium[pf2e.backgrounds.y6Df6HCrzc5kuLAJ]`|
+|[Alkenstar Tinker](backgrounds/y6Df6HCrzc5kuLAJ.htm)|Bricoleur d'Alkenstar|`@Compendium[pf2e.backgrounds.y6Df6HCrzc5kuLAJ]`|
 |[Animal Whisperer](backgrounds/dcArzJ4ylKFshbbp.htm)|Dresseur|`@Compendium[pf2e.backgrounds.dcArzJ4ylKFshbbp]`|
 |[Animal Wrangler](backgrounds/lMF9dnqUeCDED0TG.htm)||`@Compendium[pf2e.backgrounds.lMF9dnqUeCDED0TG]`|
 |[Artisan](backgrounds/f3S14uBriv8enmMQ.htm)|Artisan|`@Compendium[pf2e.backgrounds.f3S14uBriv8enmMQ]`|
@@ -432,10 +432,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Savior of Air](backgrounds/dPjFZlQG4dg13irs.htm)|Sauveur de l'air|`@Compendium[pf2e.backgrounds.dPjFZlQG4dg13irs]`|
 |[Scholar](backgrounds/rm9HYArb07JFDwjv.htm)|Érudit|`@Compendium[pf2e.backgrounds.rm9HYArb07JFDwjv]`|
 |[Scholar of the Ancients](backgrounds/TtRmN9qYJnqbrfeV.htm)||`@Compendium[pf2e.backgrounds.TtRmN9qYJnqbrfeV]`|
-|[Scholar of the Sky Key](backgrounds/iPjaDshFtGP3uMO8.htm)||`@Compendium[pf2e.backgrounds.iPjaDshFtGP3uMO8]`|
+|[Scholar of the Sky Key](backgrounds/iPjaDshFtGP3uMO8.htm)|Étudiant de la Clé du Ciel|`@Compendium[pf2e.backgrounds.iPjaDshFtGP3uMO8]`|
 |[Scout](backgrounds/HOlyT1Y0fXS85u0j.htm)|Éclaireur|`@Compendium[pf2e.backgrounds.HOlyT1Y0fXS85u0j]`|
 |[Secular Medic](backgrounds/5u7FKCHuWmscNe5i.htm)|Médecin séculier|`@Compendium[pf2e.backgrounds.5u7FKCHuWmscNe5i]`|
-|[Senghor Sailor](backgrounds/ijldm5oRi8hNyoyP.htm)||`@Compendium[pf2e.backgrounds.ijldm5oRi8hNyoyP]`|
+|[Senghor Sailor](backgrounds/ijldm5oRi8hNyoyP.htm)|Marin de Senghor|`@Compendium[pf2e.backgrounds.ijldm5oRi8hNyoyP]`|
 |[Sewer Dragon](backgrounds/VJx0O3rGNjZ0X22p.htm)||`@Compendium[pf2e.backgrounds.VJx0O3rGNjZ0X22p]`|
 |[Shadow Haunted](backgrounds/nhsqxxBfkcOMZBTp.htm)||`@Compendium[pf2e.backgrounds.nhsqxxBfkcOMZBTp]`|
 |[Shadow Lodge Defector](backgrounds/xLDNoWnNxtJceEwJ.htm)||`@Compendium[pf2e.backgrounds.xLDNoWnNxtJceEwJ]`|
@@ -2322,7 +2322,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Know-It-All](feats/class-08-1qJCMbs3zcPMWDux.htm)|Je-sais-tout|`@Compendium[pf2e.feats-srd.1qJCMbs3zcPMWDux]`|
 |[Lasting Coercion](feats/skill-02-6vnbC90UQ3I57RrQ.htm)|Contrainte durable|`@Compendium[pf2e.feats-srd.6vnbC90UQ3I57RrQ]`|
 |[Lasting Doubt](feats/class-12-56BMXlQlZtg39SMV.htm)|Doute Tenace|`@Compendium[pf2e.feats-srd.56BMXlQlZtg39SMV]`|
-|[Lastwall Sentry Dedication](feats/archetype-02-bWYnjNa2RknMoibg.htm)|Dévouement de Sentinelle de Dernier Rempart|`@Compendium[pf2e.feats-srd.bWYnjNa2RknMoibg]`|
+|[Lastwall Sentry Dedication](feats/archetype-02-bWYnjNa2RknMoibg.htm)|Dévouement de Sentinelle de Dernier-Rempart|`@Compendium[pf2e.feats-srd.bWYnjNa2RknMoibg]`|
 |[Lastwall Warden](feats/archetype-10-V5Y9r31BCTaCiNzi.htm)|Gardien de Dernier-rempart|`@Compendium[pf2e.feats-srd.V5Y9r31BCTaCiNzi]`|
 |[Leave an Opening](feats/class-14-5dAFkOYPz8PPdFrw.htm)|Laisser une ouverture|`@Compendium[pf2e.feats-srd.5dAFkOYPz8PPdFrw]`|
 |[Leech-Clipper](feats/ancestry-01-OZtoTusMmCJymObT.htm)|Coupe-limace|`@Compendium[pf2e.feats-srd.OZtoTusMmCJymObT]`|
@@ -2940,7 +2940,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Matter of Might](gmg-srd/652cIWAXc8zAxkac.htm)||`@Compendium[pf2e.gmg-srd.652cIWAXc8zAxkac]`|
 |[Mercantile Expertise](gmg-srd/7qsQBWD5sSGz7Fik.htm)||`@Compendium[pf2e.gmg-srd.7qsQBWD5sSGz7Fik]`|
 |[Met a Fantastic Creature](gmg-srd/xmgvqyfwYPBXVELo.htm)||`@Compendium[pf2e.gmg-srd.xmgvqyfwYPBXVELo]`|
-|[Metropolis](gmg-srd/3Uwfn0ui7tS277iE.htm)||`@Compendium[pf2e.gmg-srd.3Uwfn0ui7tS277iE]`|
+|[Metropolis](gmg-srd/3Uwfn0ui7tS277iE.htm)|Métropolitain|`@Compendium[pf2e.gmg-srd.3Uwfn0ui7tS277iE]`|
 |[Missing Child](gmg-srd/upnKpiEflAhhFLNQ.htm)||`@Compendium[pf2e.gmg-srd.upnKpiEflAhhFLNQ]`|
 |[Moon](gmg-srd/c8bBOo2RPxStZozM.htm)||`@Compendium[pf2e.gmg-srd.c8bBOo2RPxStZozM]`|
 |[Patron of the Arts](gmg-srd/rDbdifseYxfEWgKg.htm)||`@Compendium[pf2e.gmg-srd.rDbdifseYxfEWgKg]`|
@@ -2988,8 +2988,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Throne](gmg-srd/IJ3nFDu2YcoP6ynd.htm)||`@Compendium[pf2e.gmg-srd.IJ3nFDu2YcoP6ynd]`|
 |[Timely Cure](gmg-srd/BbgtR5LmB9ZdPpx1.htm)||`@Compendium[pf2e.gmg-srd.BbgtR5LmB9ZdPpx1]`|
 |[Trade Town](gmg-srd/OdD3NuxI5hNAEOVx.htm)||`@Compendium[pf2e.gmg-srd.OdD3NuxI5hNAEOVx]`|
-|[Trained by a Mentor](gmg-srd/2cyhXgGkmoFe3Phw.htm)||`@Compendium[pf2e.gmg-srd.2cyhXgGkmoFe3Phw]`|
-|[Underground](gmg-srd/AL562TPAhLCFX62S.htm)||`@Compendium[pf2e.gmg-srd.AL562TPAhLCFX62S]`|
+|[Trained by a Mentor](gmg-srd/2cyhXgGkmoFe3Phw.htm)|Entraîné par un Mentor|`@Compendium[pf2e.gmg-srd.2cyhXgGkmoFe3Phw]`|
+|[Underground](gmg-srd/AL562TPAhLCFX62S.htm)|Sous-terrain|`@Compendium[pf2e.gmg-srd.AL562TPAhLCFX62S]`|
 |[Vizier](gmg-srd/cIlNXxPJuy8MtaDM.htm)||`@Compendium[pf2e.gmg-srd.cIlNXxPJuy8MtaDM]`|
 |[Wasteland Survivors](gmg-srd/bRQz8uVlYtQ1cwwI.htm)||`@Compendium[pf2e.gmg-srd.bRQz8uVlYtQ1cwwI]`|
 |[Witnessed War](gmg-srd/oDhTOO1WjEZk1qfD.htm)||`@Compendium[pf2e.gmg-srd.oDhTOO1WjEZk1qfD]`|

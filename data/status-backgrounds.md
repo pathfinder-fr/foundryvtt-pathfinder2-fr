@@ -1,22 +1,18 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 51
+ * **libre**: 56
  * **officielle**: 2
  * **changé**: 42
- * **aucune**: 67
+ * **aucune**: 62
 
 
-Dernière mise à jour: 2020-07-26 15:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-07-30 17:55 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[hDUQWHMVi4pRh2D7.htm](backgrounds/hDUQWHMVi4pRh2D7.htm)|Lastwall Survivor|
-|[hQiyj0YTMNqMNf1x.htm](backgrounds/hQiyj0YTMNqMNf1x.htm)|Aerialist|
-|[ijldm5oRi8hNyoyP.htm](backgrounds/ijldm5oRi8hNyoyP.htm)|Senghor Sailor|
-|[iPjaDshFtGP3uMO8.htm](backgrounds/iPjaDshFtGP3uMO8.htm)|Scholar of the Sky Key|
 |[IRh6qlZtN7OBKrek.htm](backgrounds/IRh6qlZtN7OBKrek.htm)|Ustalavic Academic|
 |[JfOPdd8V2CuN9I9a.htm](backgrounds/JfOPdd8V2CuN9I9a.htm)|Bellflower Agent|
 |[JNSg5UvBKdIgLNJ6.htm](backgrounds/JNSg5UvBKdIgLNJ6.htm)|Issian Partisan|
@@ -77,7 +73,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[xLDNoWnNxtJceEwJ.htm](backgrounds/xLDNoWnNxtJceEwJ.htm)|Shadow Lodge Defector|
 |[xlhQlrfhucYxkyPD.htm](backgrounds/xlhQlrfhucYxkyPD.htm)|Raised by Belief|
 |[XnDdzNHhA17xRZ22.htm](backgrounds/XnDdzNHhA17xRZ22.htm)|Purveyor of the Bizzare|
-|[y6Df6HCrzc5kuLAJ.htm](backgrounds/y6Df6HCrzc5kuLAJ.htm)|Alkenstar Tinker|
 |[y9fqolddlRWRQsWl.htm](backgrounds/y9fqolddlRWRQsWl.htm)|Kyonin Emissary|
 |[YYGaSpcfC3XBnyg1.htm](backgrounds/YYGaSpcfC3XBnyg1.htm)|Vidrian Reformer|
 
@@ -149,12 +144,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[H1yku00yjYxnNU3p.htm](backgrounds/H1yku00yjYxnNU3p.htm)|Aspiring Free Captain|Aspirant capitaine libre|libre|
 |[H859zofQzmGngQ2d.htm](backgrounds/H859zofQzmGngQ2d.htm)|Pathfinder Hopeful|Éclaireur plein d'espoir|libre|
 |[hcC58ohDMUOgmuZp.htm](backgrounds/hcC58ohDMUOgmuZp.htm)|Grand Council Bureaucrat|Bureaucrate du Grand Conseil|libre|
+|[hDUQWHMVi4pRh2D7.htm](backgrounds/hDUQWHMVi4pRh2D7.htm)|Lastwall Survivor|Survivant de Dernier-Rempart|libre|
 |[hgHxXEuwmNSrXD9J.htm](backgrounds/hgHxXEuwmNSrXD9J.htm)|Onyx Trader|Marchand d'Onyx|libre|
 |[HmC4y8ENahNKp5Tl.htm](backgrounds/HmC4y8ENahNKp5Tl.htm)|Inlander|Habitant de l'intérieur des terres|libre|
 |[HOlyT1Y0fXS85u0j.htm](backgrounds/HOlyT1Y0fXS85u0j.htm)|Scout|Éclaireur|changé|
+|[hQiyj0YTMNqMNf1x.htm](backgrounds/hQiyj0YTMNqMNf1x.htm)|Aerialist|Trapéziste|libre|
 |[HqrzcYujcS4UeJxJ.htm](backgrounds/HqrzcYujcS4UeJxJ.htm)|Blow-In|Nouveau-venu|libre|
 |[huFMFGKbBoPB4bRc.htm](backgrounds/huFMFGKbBoPB4bRc.htm)|Gladiator|Gladiateur|changé|
 |[Ih6KKS2DEzXxiJpX.htm](backgrounds/Ih6KKS2DEzXxiJpX.htm)|Gambler|Parieur|changé|
+|[ijldm5oRi8hNyoyP.htm](backgrounds/ijldm5oRi8hNyoyP.htm)|Senghor Sailor|Marin de Senghor|libre|
+|[iPjaDshFtGP3uMO8.htm](backgrounds/iPjaDshFtGP3uMO8.htm)|Scholar of the Sky Key|Étudiant de la Clé du Ciel|libre|
 |[JH77p9uU187caJxX.htm](backgrounds/JH77p9uU187caJxX.htm)|Out-of-Towner|De passage|changé|
 |[lGMSYgWqZrg2SaTH.htm](backgrounds/lGMSYgWqZrg2SaTH.htm)|Fortune Teller|Voyant|changé|
 |[ltRrwn4OZcc5FC1G.htm](backgrounds/ltRrwn4OZcc5FC1G.htm)|Reputation Seeker|En quête de renommée|changé|
@@ -175,6 +174,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VnoaNi40DBN0ZV8y.htm](backgrounds/VnoaNi40DBN0ZV8y.htm)|Field Medic|Médecin militaire|changé|
 |[VoWlFBfksysrf8zY.htm](backgrounds/VoWlFBfksysrf8zY.htm)|Acolyte|Acolyte|changé|
 |[Vuzq4NkLghj6dy2c.htm](backgrounds/Vuzq4NkLghj6dy2c.htm)|Detective|Détective|changé|
+|[y6Df6HCrzc5kuLAJ.htm](backgrounds/y6Df6HCrzc5kuLAJ.htm)|Alkenstar Tinker|Bricoleur d'Alkenstar|libre|
 |[Y6qKcSXLEyBfW3lS.htm](backgrounds/Y6qKcSXLEyBfW3lS.htm)|Farmhand|Ouvrier agricole|changé|
 |[y73tZ9iU3w84NrIG.htm](backgrounds/y73tZ9iU3w84NrIG.htm)|Dragon Scholar|Spécialiste des dragons|changé|
 |[yikXQI2YVWcmGV2N.htm](backgrounds/yikXQI2YVWcmGV2N.htm)|Acrobat|Acrobate|changé|
