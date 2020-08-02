@@ -9,11 +9,9 @@ import datetime
 from libdata import *
 
 
-DIRS = ["actions", "classes", "equipment", "feats", "spells", "backgrounds", "ancestryfeatures", "classfeatures", "conditions", "archetypes"]
 ROOT=".."
 
-
-for D in DIRS:
+for D in SUPPORTED:
   dirpath= "%s/data/%s" % (ROOT, D)
 
   statusContentOK = "| Fichier   | Nom (EN)    | Nom (FR)    | État |\n" + "|-----------|-------------|-------------|:----:|\n"
