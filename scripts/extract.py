@@ -37,7 +37,7 @@ for p in packs:
     
     entries[obj['_id']] = { 
       'name': getValue(obj, p['paths']['name']), 
-      'desc': getValue(obj, p['paths']['desc']), 
+      'desc': getValue(obj, p['paths']['desc'], False, ""), 
       'type1': getValue(obj, p['paths']['type1']) if 'type1' in p['paths'] else None,
       'type2': getValue(obj, p['paths']['type2'], False) if 'type2' in p['paths'] else None
     }
@@ -108,12 +108,14 @@ for p in packs:
     else:
       
       # check if other entry exists with same name => means that ID has changed for the same element
-      if source['name'] in existingByName:
+      if source['name'] in existingByName and not source['name'] in ("Shattering Strike", "Chilling Spray"):
         oldEntry = existingByName[source['name']]
         # rename file
         pathFrom = "%sdata/%s/%s" % (ROOT, p["id"], oldEntry['filename'])
         pathTo = "%sdata/%s/%s" % (ROOT, p["id"], filename)
-        del existing[oldEntry['id']]
+
+        if oldEntry['id'] in existing:
+          del existing[oldEntry['id']]
         os.rename(pathFrom, pathTo)
       
       # create new
@@ -126,7 +128,7 @@ for p in packs:
           'descrFR': "" }
         dataToFile(data, filepath)
     
-    continue
+    
   
 
   # =======================

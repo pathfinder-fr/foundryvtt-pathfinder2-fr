@@ -1,11 +1,21 @@
 # État de la traduction (classes)
 
+ * **aucune**: 4
  * **changé**: 12
 
 
-Dernière mise à jour: 2020-08-02 09:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-03 19:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[03ga5t1V5GsvCGUi.htm](classes/03ga5t1V5GsvCGUi.htm)|Witch|
+|[lifEnSfGjmeKcH8Y.htm](classes/lifEnSfGjmeKcH8Y.htm)|Swashbuckler|
+|[tagRpjQsoYlO8Aj4.htm](classes/tagRpjQsoYlO8Aj4.htm)|Oracle|
+|[WreDTLuWC5Kqsglb.htm](classes/WreDTLuWC5Kqsglb.htm)|Investigator|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

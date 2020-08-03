@@ -1,20 +1,35 @@
 # État de la traduction (backgrounds)
 
  * **libre**: 56
+ * **aucune**: 87
  * **officielle**: 2
  * **changé**: 42
- * **aucune**: 62
 
 
-Dernière mise à jour: 2020-08-02 09:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-03 19:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[1bd25sY8k1moRcca.htm](backgrounds/1bd25sY8k1moRcca.htm)|Root Worker|
+|[76WshSVCoyTq3SRF.htm](backgrounds/76WshSVCoyTq3SRF.htm)|Cultist|
+|[8YFofTyVgpmNQpbz.htm](backgrounds/8YFofTyVgpmNQpbz.htm)|Ward|
+|[Axidv6oBgolUazAt.htm](backgrounds/Axidv6oBgolUazAt.htm)|Pilgrim|
+|[BvtKgDDIKsue17uU.htm](backgrounds/BvtKgDDIKsue17uU.htm)|Haunted|
+|[d3Wsm7KdS5NBsMwf.htm](backgrounds/d3Wsm7KdS5NBsMwf.htm)|Barber|
+|[DboMU7sSqrkSsZgI.htm](backgrounds/DboMU7sSqrkSsZgI.htm)|Scavenger|
+|[eBg1vNMc8uITswo0.htm](backgrounds/eBg1vNMc8uITswo0.htm)|Cursed|
+|[ekypFYXEQvaw8dpG.htm](backgrounds/ekypFYXEQvaw8dpG.htm)|Bookkeeper|
+|[elfIp8j9Z2oLqAL9.htm](backgrounds/elfIp8j9Z2oLqAL9.htm)|Teacher|
+|[ERpM6zFyJOFB31is.htm](backgrounds/ERpM6zFyJOFB31is.htm)|Outrider|
+|[g5pva9jnXA5ZCRjC.htm](backgrounds/g5pva9jnXA5ZCRjC.htm)|Servant|
+|[hTTc1cWinSbtAdh1.htm](backgrounds/hTTc1cWinSbtAdh1.htm)|Refugee (APG)|
 |[IRh6qlZtN7OBKrek.htm](backgrounds/IRh6qlZtN7OBKrek.htm)|Ustalavic Academic|
+|[j9k6UFTgWs0c97R0.htm](backgrounds/j9k6UFTgWs0c97R0.htm)|Feybound|
 |[JfOPdd8V2CuN9I9a.htm](backgrounds/JfOPdd8V2CuN9I9a.htm)|Bellflower Agent|
+|[JNCNUsussLP4NZfC.htm](backgrounds/JNCNUsussLP4NZfC.htm)|Returned|
 |[JNSg5UvBKdIgLNJ6.htm](backgrounds/JNSg5UvBKdIgLNJ6.htm)|Issian Partisan|
 |[JV5GjNjPuFWyTbw0.htm](backgrounds/JV5GjNjPuFWyTbw0.htm)|Wonder Taster|
 |[K12klGJogLLgGLIw.htm](backgrounds/K12klGJogLLgGLIw.htm)|Whispering Way Scion|
@@ -25,6 +40,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[lMF9dnqUeCDED0TG.htm](backgrounds/lMF9dnqUeCDED0TG.htm)|Animal Wrangler|
 |[LPZmM7UnWddi80gB.htm](backgrounds/LPZmM7UnWddi80gB.htm)|Mystic Seer|
 |[MgMERnqmXRZcXHLH.htm](backgrounds/MgMERnqmXRZcXHLH.htm)|Demon Slayer|
+|[mO0VwDSEZJUg3jhf.htm](backgrounds/mO0VwDSEZJUg3jhf.htm)|Insurgent|
 |[MWJHfS2bsYTvdroc.htm](backgrounds/MWJHfS2bsYTvdroc.htm)|Bekyar Restorer|
 |[NDhkBcdxy5J8M6Wx.htm](backgrounds/NDhkBcdxy5J8M6Wx.htm)|Taldan Schemer|
 |[NEM45HOKdrp1PiDX.htm](backgrounds/NEM45HOKdrp1PiDX.htm)|Oenopion Ooze-Tender|
@@ -38,16 +54,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oH5Uagjkc58AHozy.htm](backgrounds/oH5Uagjkc58AHozy.htm)|Chelish Rebel|
 |[oZC6fev9xw72O3vA.htm](backgrounds/oZC6fev9xw72O3vA.htm)|Sarkorian Reclaimer|
 |[PG0jDgRCfzuv8mrF.htm](backgrounds/PG0jDgRCfzuv8mrF.htm)|Kalistrade Follower|
+|[pi2azTcLFMq8IWo8.htm](backgrounds/pi2azTcLFMq8IWo8.htm)|Feral Child|
 |[PKVDSZaBcflUL1Za.htm](backgrounds/PKVDSZaBcflUL1Za.htm)|Varisian Wanderer|
+|[PS2WiHDmJ9RWq0eJ.htm](backgrounds/PS2WiHDmJ9RWq0eJ.htm)|Bandit|
+|[Psg1l8hEesyT3Wri.htm](backgrounds/Psg1l8hEesyT3Wri.htm)|Courier|
 |[psz1WHMGUNFOPG37.htm](backgrounds/psz1WHMGUNFOPG37.htm)|Sodden Scavenger|
 |[pvqejr2ADrs9EoBM.htm](backgrounds/pvqejr2ADrs9EoBM.htm)|Molthuni Mercenary|
 |[q0hK6ih6h42fL4yD.htm](backgrounds/q0hK6ih6h42fL4yD.htm)|Shory Seeker|
 |[qHj5VrGgd0Gze9LL.htm](backgrounds/qHj5VrGgd0Gze9LL.htm)|Sleepless Suns Star|
 |[qhY96No3S3ulObtQ.htm](backgrounds/qhY96No3S3ulObtQ.htm)|Goblinblood Orphan|
 |[QjEpaKn5x9INfcfY.htm](backgrounds/QjEpaKn5x9INfcfY.htm)|Atteran Rancher|
-|[Rc2l1j73EC2hPmUA.htm](backgrounds/Rc2l1j73EC2hPmUA.htm)|Refugee|
+|[qxvr3Hbv9Olk1EZF.htm](backgrounds/qxvr3Hbv9Olk1EZF.htm)|Squire|
+|[Rc2l1j73EC2hPmUA.htm](backgrounds/Rc2l1j73EC2hPmUA.htm)|Refugee (Fall of Plaguestone)|
 |[RnH0Uo9vIJM68jZv.htm](backgrounds/RnH0Uo9vIJM68jZv.htm)|Wildwood Local|
 |[RsBbawZlgqkMh4Un.htm](backgrounds/RsBbawZlgqkMh4Un.htm)|Ulfen Raider|
+|[s3QsxcuSmGTjMTZN.htm](backgrounds/s3QsxcuSmGTjMTZN.htm)|Amnesiac|
 |[SbAaSeBHTmQ3xU8X.htm](backgrounds/SbAaSeBHTmQ3xU8X.htm)|Final Blade Survivor|
 |[sdPE9bha7IOb4O8i.htm](backgrounds/sdPE9bha7IOb4O8i.htm)|Butcher|
 |[shwAcaWydDHBqR1X.htm](backgrounds/shwAcaWydDHBqR1X.htm)|Osirionologist|
@@ -61,10 +82,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[u13zJhBdawMYLGTk.htm](backgrounds/u13zJhBdawMYLGTk.htm)|Storm Survivor|
 |[U4VWN83sV1tT12Yf.htm](backgrounds/U4VWN83sV1tT12Yf.htm)|Merabite Prodigy|
 |[UcQP3PBk7Ag7shxT.htm](backgrounds/UcQP3PBk7Ag7shxT.htm)|Thuvian Unifier|
+|[uDcJtxd6j47m1knn.htm](backgrounds/uDcJtxd6j47m1knn.htm)|Tax Collector|
 |[vBj8pruBbClwdEZG.htm](backgrounds/vBj8pruBbClwdEZG.htm)|Thassilonian Traveler|
 |[VJx0O3rGNjZ0X22p.htm](backgrounds/VJx0O3rGNjZ0X22p.htm)|Sewer Dragon|
 |[VOI91rOapoBqgUv7.htm](backgrounds/VOI91rOapoBqgUv7.htm)|Black Market Smuggler|
 |[Vu7pydxrARfYD67B.htm](backgrounds/Vu7pydxrARfYD67B.htm)|Ruby Phoenix Enthusiast|
+|[vWVQYrsqSr1VZKkv.htm](backgrounds/vWVQYrsqSr1VZKkv.htm)|Cook|
+|[VZzp5l7WX5v64XRk.htm](backgrounds/VZzp5l7WX5v64XRk.htm)|Blessed|
 |[w7kXY9PTVrF2YvTW.htm](backgrounds/w7kXY9PTVrF2YvTW.htm)|Undersea Enthusiast|
 |[WPyDbom83vu7Fy5i.htm](backgrounds/WPyDbom83vu7Fy5i.htm)|Droskari Disciple|
 |[WRbpRTHJesfbjIS5.htm](backgrounds/WRbpRTHJesfbjIS5.htm)|Shadow War Survivor|
@@ -74,6 +98,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[xlhQlrfhucYxkyPD.htm](backgrounds/xlhQlrfhucYxkyPD.htm)|Raised by Belief|
 |[XnDdzNHhA17xRZ22.htm](backgrounds/XnDdzNHhA17xRZ22.htm)|Purveyor of the Bizzare|
 |[y9fqolddlRWRQsWl.htm](backgrounds/y9fqolddlRWRQsWl.htm)|Kyonin Emissary|
+|[ybCJZK6D4yY7AyVj.htm](backgrounds/ybCJZK6D4yY7AyVj.htm)|Royalty|
 |[YYGaSpcfC3XBnyg1.htm](backgrounds/YYGaSpcfC3XBnyg1.htm)|Vidrian Reformer|
 
 ## Liste des traductions complétés

@@ -68,7 +68,7 @@ def equals(val1, val2):
 # cette fonction tente une extraction d'une valeur dans un objet
 # Ex: data.level.value => obj["data"]["level"]["value"]
 #
-def getValue(obj, path, exitOnError = True):
+def getValue(obj, path, exitOnError = True, defaultValue = None):
   element = obj
   for p in path.split('.'):
     if p in element:
@@ -77,15 +77,16 @@ def getValue(obj, path, exitOnError = True):
       print("Error with path %s in %s" % (path, obj))
       exit(1)
     else:
-      return None
+      print("Path %s not found for %s!" % (path, obj['name']))
+      return defaultValue
   
   if element is None:
-    return None
+    return defaultValue
   elif isinstance(element, int):
     return "%02d" % element
   elif isinstance(element, list):
     if len(element) == 0:
-      return None
+      return defaultValue
     if len(element) > 1:
       print("List has more than 1 element for '%s'! %s" % (element, path))
       exit(1)

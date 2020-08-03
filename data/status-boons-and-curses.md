@@ -1,9 +1,9 @@
 # État de la traduction (boons-and-curses)
 
- * **aucune**: 123
+ * **aucune**: 114
 
 
-Dernière mise à jour: 2020-08-02 09:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-03 19:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -33,11 +33,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[aOVXhHVkLw9dLCdR.htm](boons-and-curses/aOVXhHVkLw9dLCdR.htm)|Zon-Kuthon - Moderate Curse|
 |[aV1I9VmMQBaFU9M9.htm](boons-and-curses/aV1I9VmMQBaFU9M9.htm)|Asmodeus - Moderate Boon|
 |[AvjRCVzLmxapFOLV.htm](boons-and-curses/AvjRCVzLmxapFOLV.htm)|Gozreh - Moderate Boon|
-|[bYvGE2FZf7vEww1u.htm](boons-and-curses/bYvGE2FZf7vEww1u.htm)|Minor Boon (Abadar)|
-|[BZ4FVJnz8Y67r6Wy.htm](boons-and-curses/BZ4FVJnz8Y67r6Wy.htm)|Abadar - Moderate Boon|
 |[c2wwILmpgyXIjlfe.htm](boons-and-curses/c2wwILmpgyXIjlfe.htm)|Torag - Major Curse|
 |[C6Ercv1ugcTsbVA9.htm](boons-and-curses/C6Ercv1ugcTsbVA9.htm)|Erastil - Major Curse|
-|[cbWXBgtIIYGxOfoo.htm](boons-and-curses/cbWXBgtIIYGxOfoo.htm)|Major Boon (Abadar)|
 |[cFz09CWKzff2cC73.htm](boons-and-curses/cFz09CWKzff2cC73.htm)|Rovagug - Major Boon|
 |[CjRUOscsOwCmai8D.htm](boons-and-curses/CjRUOscsOwCmai8D.htm)|Desna - Moderate Curse|
 |[CL8lLQJWd4N89QIm.htm](boons-and-curses/CL8lLQJWd4N89QIm.htm)|Erastil - Moderate Boon|
@@ -57,9 +54,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[eVRjDKt0N0qSmpCn.htm](boons-and-curses/eVRjDKt0N0qSmpCn.htm)|Urgathoa - Major Curse|
 |[FeCcooyIb1JDQhd7.htm](boons-and-curses/FeCcooyIb1JDQhd7.htm)|Calistra - Major Boon|
 |[fLBNXULLPalAKlYe.htm](boons-and-curses/fLBNXULLPalAKlYe.htm)|Cayden Cailean - Minor Curse|
-|[FO7sbNOeKDBNnGjg.htm](boons-and-curses/FO7sbNOeKDBNnGjg.htm)|Abadar - Moderate Curse|
 |[fsKVskUhWwMgvUaT.htm](boons-and-curses/fsKVskUhWwMgvUaT.htm)|Cayden Cailean - Moderate Boon|
-|[FSVPlrWyVaBiC17I.htm](boons-and-curses/FSVPlrWyVaBiC17I.htm)|Saranrae - Moderate Curse|
 |[fV0t8xagcbqwvTpQ.htm](boons-and-curses/fV0t8xagcbqwvTpQ.htm)|Asmodeus - Minor Boon|
 |[fV940VM5RCsNwUvA.htm](boons-and-curses/fV940VM5RCsNwUvA.htm)|Calistra - Major Curse|
 |[fXEeTSVINdWaKHhw.htm](boons-and-curses/fXEeTSVINdWaKHhw.htm)|Abadar - Minor Boon|
@@ -86,7 +81,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[m33aOQij1BDcArN9.htm](boons-and-curses/m33aOQij1BDcArN9.htm)|Abadar - Major Boon|
 |[M78A7uQaa4Ig8pGU.htm](boons-and-curses/M78A7uQaa4Ig8pGU.htm)|Gorum - Major Curse|
 |[mcVlGufQ8rQRe61Y.htm](boons-and-curses/mcVlGufQ8rQRe61Y.htm)|Desna - Major Boon|
-|[MJshyusaSSYIAKLW.htm](boons-and-curses/MJshyusaSSYIAKLW.htm)|Abadar - Major Curse|
 |[N29LCwYfRWHtEqrS.htm](boons-and-curses/N29LCwYfRWHtEqrS.htm)|Urgathoa - Moderate Boon|
 |[n5p8QfZdptRZp0ii.htm](boons-and-curses/n5p8QfZdptRZp0ii.htm)|Abadar - Moderate Curse|
 |[NeAA1BHGGkRAmBDe.htm](boons-and-curses/NeAA1BHGGkRAmBDe.htm)|Abadar - Minor Curse|
@@ -102,15 +96,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[qTmjEC528YnvPgXE.htm](boons-and-curses/qTmjEC528YnvPgXE.htm)|Iomedae - Moderate Boon|
 |[QVEkEdxCnoGxMo9l.htm](boons-and-curses/QVEkEdxCnoGxMo9l.htm)|Zon-Kuthon - Moderate Boon|
 |[rA7ZM6WGnJNrWTmo.htm](boons-and-curses/rA7ZM6WGnJNrWTmo.htm)|Iomedae - Moderate Curse|
-|[RP7uCnEfxLHYHxl6.htm](boons-and-curses/RP7uCnEfxLHYHxl6.htm)|Moderate Boon (Abadar)|
 |[S1qGyGG25YImRhmS.htm](boons-and-curses/S1qGyGG25YImRhmS.htm)|Saranrae - Moderate Boon|
 |[SaiJX9KBN3lC0RUy.htm](boons-and-curses/SaiJX9KBN3lC0RUy.htm)|Zon-Kuthon - Major Curse|
-|[SNpaXrWFRIhhsWab.htm](boons-and-curses/SNpaXrWFRIhhsWab.htm)|Minor Boon (Abadar)|
 |[sy5UyOvxitqX244D.htm](boons-and-curses/sy5UyOvxitqX244D.htm)|Asmodeus - Major Boon|
 |[tFnPBYcAZ0X3GbI5.htm](boons-and-curses/tFnPBYcAZ0X3GbI5.htm)|Lamashtu - Moderate Boon|
 |[tilqIbJZLqeknTYo.htm](boons-and-curses/tilqIbJZLqeknTYo.htm)|Shelyn - Minor Boon|
 |[U7ZJfuPLQPyoaj4M.htm](boons-and-curses/U7ZJfuPLQPyoaj4M.htm)|Pharasma - Major Boon|
-|[uGE6DExTJbbycJGa.htm](boons-and-curses/uGE6DExTJbbycJGa.htm)|Minor Boon (Abadar)|
 |[Up7nUIT42zwhgZf4.htm](boons-and-curses/Up7nUIT42zwhgZf4.htm)|Desna - Minor Curse|
 |[uVZrqxtOOutr4Ss9.htm](boons-and-curses/uVZrqxtOOutr4Ss9.htm)|Gozreh - Minor Boon|
 |[V7FYIgphCCkYsEXF.htm](boons-and-curses/V7FYIgphCCkYsEXF.htm)|Saranrae - Moderate Curse|

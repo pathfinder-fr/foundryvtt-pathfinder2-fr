@@ -3,11 +3,49 @@
  * **officielle**: 2
  * **libre**: 4
  * **changé**: 58
+ * **aucune**: 32
 
 
-Dernière mise à jour: 2020-08-02 09:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-03 19:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[feat-01-1lv7RMp7t5iqeUFT.htm](ancestryfeatures/feat-01-1lv7RMp7t5iqeUFT.htm)|Hunting Catfolk|
+|[feat-01-1oLMOmLpurfWTTff.htm](ancestryfeatures/feat-01-1oLMOmLpurfWTTff.htm)|Aasimar|
+|[feat-01-35k2aujXYvqUCSS1.htm](ancestryfeatures/feat-01-35k2aujXYvqUCSS1.htm)|Cavern Kobold|
+|[feat-01-6dMd4JG0ndrObEUj.htm](ancestryfeatures/feat-01-6dMd4JG0ndrObEUj.htm)|Winter Catfolk|
+|[feat-01-7p9HtLzWBHc18JDW.htm](ancestryfeatures/feat-01-7p9HtLzWBHc18JDW.htm)|Deep Rat|
+|[feat-01-7vHLPleFpSqKAjWG.htm](ancestryfeatures/feat-01-7vHLPleFpSqKAjWG.htm)|Stormtossed Tengu|
+|[feat-01-8Gsa8KFsHizEwSHU.htm](ancestryfeatures/feat-01-8Gsa8KFsHizEwSHU.htm)|Badlands Orc|
+|[feat-01-bLhIBwqdjTiVJ5qm.htm](ancestryfeatures/feat-01-bLhIBwqdjTiVJ5qm.htm)|Clawed Catfolk|
+|[feat-01-dwKCwwtWetvPmJks.htm](ancestryfeatures/feat-01-dwKCwwtWetvPmJks.htm)|Rainfall Orc|
+|[feat-01-eFsD7W6hnK33jlDQ.htm](ancestryfeatures/feat-01-eFsD7W6hnK33jlDQ.htm)|Sewer Rat|
+|[feat-01-egpiSWBrNBb1Fmig.htm](ancestryfeatures/feat-01-egpiSWBrNBb1Fmig.htm)|Draconic Exemplar|
+|[feat-01-EKY9v7SF1hVsUdbH.htm](ancestryfeatures/feat-01-EKY9v7SF1hVsUdbH.htm)|Changeling|
+|[feat-01-fROPRHGyUn4PgcER.htm](ancestryfeatures/feat-01-fROPRHGyUn4PgcER.htm)|Longsnout Rat|
+|[feat-01-g4FRxyuHndZu4KTo.htm](ancestryfeatures/feat-01-g4FRxyuHndZu4KTo.htm)|Jinxed Tengu|
+|[feat-01-G9Gwfi8ZIva52uGp.htm](ancestryfeatures/feat-01-G9Gwfi8ZIva52uGp.htm)|Jinxed Halfling|
+|[feat-01-hOPOyyt7qZXYYCOU.htm](ancestryfeatures/feat-01-hOPOyyt7qZXYYCOU.htm)|Nine Lives Catfolk|
+|[feat-01-HpqQ5VQ0w4HqYgVC.htm](ancestryfeatures/feat-01-HpqQ5VQ0w4HqYgVC.htm)|Jungle Catfolk|
+|[feat-01-m9rrlchS10xHFA2G.htm](ancestryfeatures/feat-01-m9rrlchS10xHFA2G.htm)|Venomtail Kobold|
+|[feat-01-MTTU2t7x6TjvUDnE.htm](ancestryfeatures/feat-01-MTTU2t7x6TjvUDnE.htm)|Hold-Scarred Orc|
+|[feat-01-nF5NUinK23fOLn5u.htm](ancestryfeatures/feat-01-nF5NUinK23fOLn5u.htm)|Dragonscaled Kobold|
+|[feat-01-ptpK6H1rM4Bu3ry4.htm](ancestryfeatures/feat-01-ptpK6H1rM4Bu3ry4.htm)|Mountainkeeper Tengu|
+|[feat-01-qM566kCXljkOpocA.htm](ancestryfeatures/feat-01-qM566kCXljkOpocA.htm)|Taloned Tengu|
+|[feat-01-rKV11HWREwjjMIum.htm](ancestryfeatures/feat-01-rKV11HWREwjjMIum.htm)|Skyborn Tengu|
+|[feat-01-sL1hHxrHdMNIZVAd.htm](ancestryfeatures/feat-01-sL1hHxrHdMNIZVAd.htm)|Land on Your Feet|
+|[feat-01-tarfuEXmi0E0Enfy.htm](ancestryfeatures/feat-01-tarfuEXmi0E0Enfy.htm)|Shadow Rat|
+|[feat-01-twayjFuXbsvyHUwy.htm](ancestryfeatures/feat-01-twayjFuXbsvyHUwy.htm)|Desert Rat|
+|[feat-01-UaD5VDoFlILEmbyz.htm](ancestryfeatures/feat-01-UaD5VDoFlILEmbyz.htm)|Dhampir|
+|[feat-01-VRyX00OuPGsJSurM.htm](ancestryfeatures/feat-01-VRyX00OuPGsJSurM.htm)|Spellscale Kobold|
+|[feat-01-WaCn0mcivFv1omNK.htm](ancestryfeatures/feat-01-WaCn0mcivFv1omNK.htm)|Strongjaw Kobold|
+|[feat-01-wGMVflH4t1UXrNn5.htm](ancestryfeatures/feat-01-wGMVflH4t1UXrNn5.htm)|Tiefling|
+|[feat-01-wn4EbYk1QN3tyFhh.htm](ancestryfeatures/feat-01-wn4EbYk1QN3tyFhh.htm)|Deep Orc|
+|[feat-01-ZZKZkeSP5TuT62IA.htm](ancestryfeatures/feat-01-ZZKZkeSP5TuT62IA.htm)|Duskwalker|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

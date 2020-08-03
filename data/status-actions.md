@@ -2,12 +2,44 @@
 
  * **officielle**: 43
  * **changé**: 72
+ * **aucune**: 26
  * **libre**: 6
 
 
-Dernière mise à jour: 2020-08-02 09:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-03 19:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[25WDi1cVUrW92sUj.htm](actions/25WDi1cVUrW92sUj.htm)|Clue In|
+|[7pdG8l9POMK76Lf2.htm](actions/7pdG8l9POMK76Lf2.htm)|Warding Sign|
+|[8kGpUUUSX1sB2OqQ.htm](actions/8kGpUUUSX1sB2OqQ.htm)|Call Companion|
+|[dCuvfq3r2K9wXY9g.htm](actions/dCuvfq3r2K9wXY9g.htm)|Basic Finisher|
+|[DS9sDOWkXrz2xmHi.htm](actions/DS9sDOWkXrz2xmHi.htm)|Eldritch Shot|
+|[EfjoIuDmtUn4yiow.htm](actions/EfjoIuDmtUn4yiow.htm)|Opportune Riposte|
+|[EHa0owz6mccnmSBf.htm](actions/EHa0owz6mccnmSBf.htm)|Final Surge|
+|[enQieRrITuEQZxx2.htm](actions/enQieRrITuEQZxx2.htm)|Selfish Shield|
+|[ev8OHpBO3xq3Zt08.htm](actions/ev8OHpBO3xq3Zt08.htm)|Tail Toxin|
+|[F0JgJR2rXKOg9k1z.htm](actions/F0JgJR2rXKOg9k1z.htm)|Upstage|
+|[FkfWKq9jhhPzKAbb.htm](actions/FkfWKq9jhhPzKAbb.htm)|Rampaging Ferocity|
+|[hFRHPBj6wjAayNtW.htm](actions/hFRHPBj6wjAayNtW.htm)|Jinx|
+|[jftNJjBNxp2cleoi.htm](actions/jftNJjBNxp2cleoi.htm)|Expeditious Inspection|
+|[K878asDgf1EF0B9S.htm](actions/K878asDgf1EF0B9S.htm)|Confident Finisher|
+|[m0f2B7G9eaaTmhFL.htm](actions/m0f2B7G9eaaTmhFL.htm)|Devise a Strategem|
+|[M8RCbthRhB4bxO9t.htm](actions/M8RCbthRhB4bxO9t.htm)|Iron Command|
+|[mVscmsZWWcVACdU5.htm](actions/mVscmsZWWcVACdU5.htm)|Soaring Flight|
+|[orjJjLdm4XNAcFi8.htm](actions/orjJjLdm4XNAcFi8.htm)|Mark for Death|
+|[QHFMeJGzFWj2QczA.htm](actions/QHFMeJGzFWj2QczA.htm)|Quick Tincture|
+|[r5Uth6yvCoE4tr9z.htm](actions/r5Uth6yvCoE4tr9z.htm)|Destructive Vengeance|
+|[rSpCV0leurp2Bg2d.htm](actions/rSpCV0leurp2Bg2d.htm)|Instinctive Obfuscation|
+|[TMBXArwICQRJdwT6.htm](actions/TMBXArwICQRJdwT6.htm)|Fey's Fortune|
+|[UEkGL7uAGYDPFNfK.htm](actions/UEkGL7uAGYDPFNfK.htm)|Fire in the Hole|
+|[vZltxwRNvF5khf9a.htm](actions/vZltxwRNvF5khf9a.htm)|Boarding Assault|
+|[xccOiNL2W1EtfUYl.htm](actions/xccOiNL2W1EtfUYl.htm)|Pointed Question|
+|[xTK2zsWFyxSJvYbX.htm](actions/xTK2zsWFyxSJvYbX.htm)|Pursue a Lead|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

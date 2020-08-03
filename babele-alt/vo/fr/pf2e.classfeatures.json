@@ -97,8 +97,8 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à infliger des blessures graves avec les armes que vous savez manier. Vous infligez 2 dégâts de plus avec les armes et les attaques à mains nues pour lesquelles vous êtes expert. Ces dégâts passent à 3 si vous êtes maître et à 4 si vous êtes légendaire.&nbsp;</span></p>"
         },
         {
-            "id": "Greater Resolve",
-            "name": "Greater Resolve",
+            "id": "Greater Resolve (Bard)",
+            "name": "Greater Resolve (Bard)",
             "description": "<p>Vos entraînements poussés vous ont permis de développer une incroyable résistance mentale. Votre rang de maîtrise des jets de sauvegarde de Volonté devient légendaire. Quand vous obtenez un succès à un jet de Volonté, vous remportez à la place un succès critique. Quand vous obtenez un échec critique à un jet de Volonté, celui-ci se transforme en échec. Lorsque vous obtenez un échec sur le jet de Volonté contre un effet qui vous inflige des dégâts, vous ne subissez que la moitié des dégâts.&nbsp;</p>"
         },
         {
@@ -657,8 +657,8 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Antidote et anti-maladie moyens.&nbsp;</span></p>"
         },
         {
-            "id": "Maestro",
-            "name": "Maestro",
+            "id": "Maestro (Bard Muse)",
+            "name": "Maestro (Bard Muse)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre muse est un virtuose qui vous pousse à vous surpasser. Si c’est une créature, ce peut être une entité qui aime les représentations artistiques, comme un ange choral ou une azata lillende, ou peut-être @Compendium[pf2e.deities.gxwmzxUWBOhdgFSN]{Shélyn} si c’est une divinité. En tant que barde avec une muse virtuose, vous êtes convaincu de l’efficacité de vos capacités oratoires et musicales, ainsi qu’une véritable source d’inspiration pour vos alliés. Vous obtenez le don Représentation prolongée @Compendium[pf2e.feats-srd.sVjATEo8eqkAosNp]{Représentation prolongée} et ajoutez @Compendium[pf2e.spells-srd.szIyEsvihc5e1w8n]{Apaiser} à votre répertoire de sorts.&nbsp;</span></p>"
         },
         {
@@ -852,8 +852,8 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"> Quand vous utilisez alchimie avancée pour faire des mutagènes lors de vos préparatifs quotidiens, vous pouvez utiliser un lot de réactifs pour créer trois mutagènes de n’importe quel type au lieu de deux mutagènes d’un seul type.&nbsp;</span></p>"
         },
         {
-            "id": "Enigma",
-            "name": "Enigma",
+            "id": "Enigma (Bard Muse)",
+            "name": "Enigma (Bard Muse)",
             "description": "<p>Votre muse est un mystère qui vous pousse à percer les secrets bien gardés du multivers. Si votre muse est une créature, ce peut être un dragon ou une entité d’outre-monde, ou peut-être Irori ou Néthys si c’est une divinité. Vous obtenez le don @Compendium[pf2e.feats-srd.uVXEZblPRuCyPRua]{Connaissance bardique}  et ajoutez @Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{coup au but} à votre répertoire de sorts.&nbsp;</p>"
         },
         {
@@ -947,8 +947,8 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre rage s’intensifie et vous passez à l’action. Votre rang de maîtrise pour le DD de classe de barbare devient expert. Vous gagnez l’action gratuite Rage formidable.&nbsp;</span></p>"
         },
         {
-            "id": "Polymath",
-            "name": "Polymath",
+            "id": "Polymath (Bard Muse)",
+            "name": "Polymath (Bard Muse)",
             "description": "<p>Votre muse est un touche-à-tout aussi actif que talentueux. Si c’est une créature, ce peut être un être éclectique tel qu’une fée, ou peut être Desna ou Calistria si c’est une divinité. En tant que barde avec une muse touche-à-tout, la plupart des sujets vous intéressent mais vous évitez de vous spécialiser et avez souvent du mal à vous décider car tout attise votre curiosité. Vous obtenez le don @Compendium[pf2e.feats-srd.jBp91q4uzwd4FeSX]{Polyvalence artistique} et ajoutez @Compendium[pf2e.spells-srd.xqmHD8JIjak15lRk]{serviteur invisible} à votre répertoire de sorts.&nbsp;</p>"
         },
         {
@@ -1007,8 +1007,8 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quelque chose au-delà des étoiles ou dans les tréfonds de la terre s’adresse à vous. Cette influence étrangère, ancienne et inconnue, s’immisce dans vos pensées.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Liste de sorts</strong> <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=3\"><u>occulte</u></a><br><strong>Compétences de lignage</strong> <a href=\"https://2e.aonprd.com/Skills.aspx?ID=7\"><u>Intimidation</u></a>, <a href=\"https://2e.aonprd.com/Skills.aspx?ID=11\"><u>Occultisme</u></a><br><strong>Sorts accordés</strong> tour de magie @Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{hébétement}, 1er: @Compendium[pf2e.spells-srd.DYdvMZ8G2LiSLVWw]{Morsure d'araignée}, 2ème: @Compendium[pf2e.spells-srd.CQb8HtQ1BPeZmu9h]{Idiotie}, 3ème: @Compendium[pf2e.spells-srd.N1Z1oLPdBxaSgrEE]{contact vampirique}, 4ème: @Compendium[pf2e.spells-srd.LiGbewa9pO0yjbsY]{Confusion}, 5ème: @Compendium[pf2e.spells-srd.2w4OpAGihn1JSHFD]{tentacules noirs}, 6ème: @Compendium[pf2e.spells-srd.5BbU1V6wGSGbrmRD]{débilité}, 7ème: @Compendium[pf2e.spells-srd.8kJbiBEjMWG4VUjs]{déformer l'esprit}, 8ème: @Compendium[pf2e.spells-srd.Jvyy6oVIQsD34MHB]{danse incontrôlable}, 9ème: @Compendium[pf2e.spells-srd.Ht35SDf9PDStJfoC]{chant énigmatique}<strong>Sorts de lignage</strong> initial : @Compendium[pf2e.spells-srd.Ht35SDf9PDStJfoC]{membres tentaculaires}, avancé : @Compendium[pf2e.spells-srd.qhJfRnkCRrMI4G1O]{murmures aberrants}, supérieur : @Compendium[pf2e.spells-srd.ddKBoCjmSyPSHcws]{étrange anatomie}<br><strong> Magie du sang</strong> Les murmures aberrants protègent l’esprit d’une cible ou le vôtre en conférant un bonus de statut de +2 aux jets de Volonté pendant 1 round.</span></p>"
         },
         {
-            "id": "Weapon Expertise",
-            "name": "Weapon Expertise",
+            "id": "Weapon Expertise (Champion)",
+            "name": "Weapon Expertise (Champion)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous consacrez à l’apprentissage approfondi du maniement de vos armes. Votre rang de maîtrise avec les armes simples, les attaques à mains nues et les armes de guerre passe à expert.&nbsp;</span></p>"
         },
         {
@@ -1132,8 +1132,8 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une guenaude a maudit votre famille il y a longtemps ou vous êtes le descendant d’une guenaude ou d’une changelin, et leur malédiction corruptrice contamine votre sang et votre âme.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Liste de sorts</strong> <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=3\"><u>occultes</u></a><br><strong>Compétences de lignage</strong> <a href=\"https://2e.aonprd.com/Skills.aspx?ID=5\"><u>Duperie</u></a>, <a href=\"https://2e.aonprd.com/Skills.aspx?ID=11\"><u>Occultisme</u></a><br><strong>Sorts accordés</strong> tour de magie @Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{hébétement}, 1st: @Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{déguisement illusoire}, 2nd: @Compendium[pf2e.spells-srd.CQb8HtQ1BPeZmu9h]{idiotie}, 3rd: @Compendium[pf2e.spells-srd.VosLNn2M8S7JH67D]{cécité}, 4th: @Compendium[pf2e.spells-srd.KSAEhNfZyXMO7Z7V]{malédiction du paria}, 5th: @Compendium[pf2e.spells-srd.z2mfh3oPnfYqXflY]{ malédiction du marin}, 6th: @Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{métamorphose funeste}, 7th: @Compendium[pf2e.spells-srd.8kJbiBEjMWG4VUjs]{déformer l’esprit}, 8th: @Compendium[pf2e.spells-srd.MS60WhVifb45qORJ]{épidémie spirituelle}, 9th: @Compendium[pf2e.spells-srd.Tc5NLaMu71vrGTJQ]{hostilité naturelle}<br><strong>Sorts de lignage</strong> initial: @Compendium[pf2e.spells-srd.kvm68hVtmADiIvN4]{maléfice de jalousie}, avancé: @Compendium[pf2e.spells-srd.aZg3amDcrXz3cLCz]{visage terrifiant}, supérieur: @Compendium[pf2e.spells-srd.x2LALaHXO7644GQA]{tu es à moi}<br><strong>Magie du sang</strong> Vous maudissez vos ennemis avec véhémence. La première créature qui vous inflige des dégâts avant la fin de votre prochain tour subit 2 dégâts mentaux par niveau de sort et doit effectuer un jet de Volonté basique.</span></p>"
         },
         {
-            "id": "Divine Spellcasting",
-            "name": "Divine Spellcasting",
+            "id": "Divine Spellcasting (Cleric)",
+            "name": "Divine Spellcasting (Cleric)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre divinité vous accorde le pouvoir de lancer des sorts divins. Vous lancez des sorts divins avec l’activité Lancer un sort et pouvez fournir des composants matériels, somatiques et verbaux lors de l’incantation (voir Lancer des sorts p. 302). Étant donné que vous êtes un prêtre, vous pouvez normalement brandir un focaliseur divin (tel qu’un symbole religieux) pour lancer les sorts nécessitant des composants matériels au lieu d’utiliser une bourse de composants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Au niveau 1, vous pouvez chaque matin préparer deux sorts de niveau 1 et cinq tours de magie que vous choisissez parmi les sorts ordinaires de la liste des sorts divins de ce livre (page 309) ou parmi les autres sorts divins auxquels vous avez accès. Vos sorts restent à votre disposition jusqu’à ce que vous les lanciez ou que vous les prépariez de nouveau. Le nombre de sorts que vous pouvez préparer est représenté par vos emplacements de sort. Au fur et à mesure que vous gagnez des niveaux de prêtre, le nombre de sorts que vous pouvez préparer chaque jour augmente, tout comme le niveau de sort le plus élevé que vous pouvez lancer, comme indiqué dans le tableau 3–9 : Sorts de prêtre quotidiens, p. 182.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Certains sorts exigent un jet d’attaque de sort pour déterminer leur efficacité ou obligent vos ennemis à faire un jet contre le DD de votre sort (en général un jet de sauvegarde). Comme la Sagesse est votre caractéristique essentielle, vos jets d’attaque de sort et le DD de vos sorts utilisent votre modificateur de Sagesse. Les détails permettant de calculer ces statistiques figurent p. 447.</span></p>"
         },
         {
