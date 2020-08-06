@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-08-03 19:00 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-06 17:54 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -16,6 +16,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
  * [Bénédictions et malédictions](#bénédictions-et-malédictions)
  * [Capacités de classe](#capacités-de-classe)
  * [Classes](#classes)
+ * [Conditions](#conditions)
  * [Dangers](#dangers)
  * [Dons](#dons)
  * [Guide du MJ](#guide-du-mj)
@@ -1873,6 +1874,54 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Swashbuckler](classes/lifEnSfGjmeKcH8Y.htm)||`@Compendium[pf2e.classes.lifEnSfGjmeKcH8Y]`|
 |[Witch](classes/03ga5t1V5GsvCGUi.htm)||`@Compendium[pf2e.classes.03ga5t1V5GsvCGUi]`|
 |[Wizard](classes/O6rpIOJQM78U9eyU.htm)|Magicien|`@Compendium[pf2e.classes.O6rpIOJQM78U9eyU]`|
+
+
+## Conditions
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Blinded](conditionspf2e/XgEqL1kFApUbl5Z2.htm)|aveuglé|`@Compendium[pf2e.conditionspf2e.XgEqL1kFApUbl5Z2]`|
+|[Broken](conditionspf2e/6dNUvdb1dhToNDj3.htm)|brisé|`@Compendium[pf2e.conditionspf2e.6dNUvdb1dhToNDj3]`|
+|[Clumsy](conditionspf2e/i3OJZU2nk64Df3xm.htm)|Maladroit|`@Compendium[pf2e.conditionspf2e.i3OJZU2nk64Df3xm]`|
+|[Concealed](conditionspf2e/DmAIPqOBomZ7H95W.htm)|Masqué|`@Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]`|
+|[Confused](conditionspf2e/yblD8fOR1J8rDwEQ.htm)|confus|`@Compendium[pf2e.conditionspf2e.yblD8fOR1J8rDwEQ]`|
+|[Controlled](conditionspf2e/9qGBRpbX9NEwtAAr.htm)|Contrôlé|`@Compendium[pf2e.conditionspf2e.9qGBRpbX9NEwtAAr]`|
+|[Dazzled](conditionspf2e/TkIyaNPgTZFBCCuh.htm)|Ébloui|`@Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]`|
+|[Deafened](conditionspf2e/9PR9y0bi4JPKnHPR.htm)|Sourd|`@Compendium[pf2e.conditionspf2e.9PR9y0bi4JPKnHPR]`|
+|[Doomed](conditionspf2e/3uh1r86TzbQvosxv.htm)|Condamné|`@Compendium[pf2e.conditionspf2e.3uh1r86TzbQvosxv]`|
+|[Drained](conditionspf2e/4D2KBtexWXa6oUMR.htm)|Drainé|`@Compendium[pf2e.conditionspf2e.4D2KBtexWXa6oUMR]`|
+|[Dying](conditionspf2e/yZRUzMqrMmfLu0V1.htm)|Mourant|`@Compendium[pf2e.conditionspf2e.yZRUzMqrMmfLu0V1]`|
+|[Encumbered](conditionspf2e/D5mg6Tc7Jzrj6ro7.htm)|Surchargé|`@Compendium[pf2e.conditionspf2e.D5mg6Tc7Jzrj6ro7]`|
+|[Enfeebled](conditionspf2e/MIRkyAjyBeXivMa7.htm)|affaibli|`@Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]`|
+|[Fascinated](conditionspf2e/AdPVz7rbaVSRxHFg.htm)|Fasciné|`@Compendium[pf2e.conditionspf2e.AdPVz7rbaVSRxHFg]`|
+|[Fatigued](conditionspf2e/HL2l2VRSaQHu9lUw.htm)|Fatigué|`@Compendium[pf2e.conditionspf2e.HL2l2VRSaQHu9lUw]`|
+|[Flat-Footed](conditionspf2e/AJh5ex99aV6VTggg.htm)|Pris au dépourvu|`@Compendium[pf2e.conditionspf2e.AJh5ex99aV6VTggg]`|
+|[Fleeing](conditionspf2e/sDPxOjQ9kx2RZE8D.htm)|En fuite|`@Compendium[pf2e.conditionspf2e.sDPxOjQ9kx2RZE8D]`|
+|[Friendly](conditionspf2e/v66R7FdOf11l94im.htm)|amical|`@Compendium[pf2e.conditionspf2e.v66R7FdOf11l94im]`|
+|[Frightened](conditionspf2e/TBSHQspnbcqxsmjL.htm)|Effrayé|`@Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]`|
+|[Grabbed](conditionspf2e/kWc1fhmv9LBiTuei.htm)|Empoigné|`@Compendium[pf2e.conditionspf2e.kWc1fhmv9LBiTuei]`|
+|[Helpful](conditionspf2e/v44P3WUcU1j0115l.htm)|Serviable|`@Compendium[pf2e.conditionspf2e.v44P3WUcU1j0115l]`|
+|[Hidden](conditionspf2e/iU0fEDdBp3rXpTMC.htm)|caché|`@Compendium[pf2e.conditionspf2e.iU0fEDdBp3rXpTMC]`|
+|[Hostile](conditionspf2e/ud7gTLwPeklzYSXG.htm)|Hostile|`@Compendium[pf2e.conditionspf2e.ud7gTLwPeklzYSXG]`|
+|[Immobilized](conditionspf2e/eIcWbB5o3pP6OIMe.htm)|Immobilisé|`@Compendium[pf2e.conditionspf2e.eIcWbB5o3pP6OIMe]`|
+|[Indifferent](conditionspf2e/fuG8dgthlDWfWjIA.htm)|Indifférent|`@Compendium[pf2e.conditionspf2e.fuG8dgthlDWfWjIA]`|
+|[Invisible](conditionspf2e/zJxUflt9np0q4yML.htm)|Invisible|`@Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]`|
+|[Observed](conditionspf2e/1wQY3JYyhMYeeV2G.htm)|Observé|`@Compendium[pf2e.conditionspf2e.1wQY3JYyhMYeeV2G]`|
+|[Paralyzed](conditionspf2e/6uEgoh53GbXuHpTF.htm)|Paralysé|`@Compendium[pf2e.conditionspf2e.6uEgoh53GbXuHpTF]`|
+|[Persistent Damage](conditionspf2e/lDVqvLKA6eF3Df60.htm)|Dégâts persistants|`@Compendium[pf2e.conditionspf2e.lDVqvLKA6eF3Df60]`|
+|[Petrified](conditionspf2e/dTwPJuKgBQCMxixg.htm)|Pétrifié|`@Compendium[pf2e.conditionspf2e.dTwPJuKgBQCMxixg]`|
+|[Prone](conditionspf2e/j91X7x0XSomq8d60.htm)|À terre|`@Compendium[pf2e.conditionspf2e.j91X7x0XSomq8d60]`|
+|[Quickened](conditionspf2e/nlCjDvLMf2EkV2dl.htm)|accéléré|`@Compendium[pf2e.conditionspf2e.nlCjDvLMf2EkV2dl]`|
+|[Restrained](conditionspf2e/VcDeM8A5oI6VqhbM.htm)|Entravé|`@Compendium[pf2e.conditionspf2e.VcDeM8A5oI6VqhbM]`|
+|[Sickened](conditionspf2e/fesd1n5eVhpCSS18.htm)|Malade|`@Compendium[pf2e.conditionspf2e.fesd1n5eVhpCSS18]`|
+|[Slowed](conditionspf2e/xYTAsEpcJE1Ccni3.htm)|Ralenti|`@Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]`|
+|[Stunned](conditionspf2e/dfCMdR4wnpbYNTix.htm)|Étourdi|`@Compendium[pf2e.conditionspf2e.dfCMdR4wnpbYNTix]`|
+|[Stupefied](conditionspf2e/e1XGnhKNSQIm5IXg.htm)|Stupéfié|`@Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]`|
+|[Unconscious](conditionspf2e/fBnFDH2MTzgFijKf.htm)|Inconscient|`@Compendium[pf2e.conditionspf2e.fBnFDH2MTzgFijKf]`|
+|[Undetected](conditionspf2e/VRSef5y1LmL2Hkjf.htm)|Non détecté|`@Compendium[pf2e.conditionspf2e.VRSef5y1LmL2Hkjf]`|
+|[Unfriendly](conditionspf2e/I1ffBVISxLr2gC4u.htm)|Inamical|`@Compendium[pf2e.conditionspf2e.I1ffBVISxLr2gC4u]`|
+|[Unnoticed](conditionspf2e/9evPzg9E6muFcoSk.htm)|Inaperçu|`@Compendium[pf2e.conditionspf2e.9evPzg9E6muFcoSk]`|
+|[Wounded](conditionspf2e/Yl48xTdMh3aeQYL2.htm)|blessé|`@Compendium[pf2e.conditionspf2e.Yl48xTdMh3aeQYL2]`|
 
 
 ## Dangers

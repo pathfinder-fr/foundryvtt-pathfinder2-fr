@@ -11,7 +11,7 @@ SUPPORTED = {
   "spells":                         { 'transl': "Sorts", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" } },
   "feats":                          { 'transl': "Dons",  "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" } },
   "equipment":                      { 'transl': "Équipement", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" } },
-  "conditions":                     { 'transl': "Conditions", "paths": { 'name': "name", 'desc': "content" } },
+  "conditionspf2e":                 { 'transl': "Conditions", "paths": { 'name': "name", 'desc': "content" } },
   "actions":                        { 'transl': "Actions", "paths": { 'name': "name", 'desc': "data.description.value" } },
   "archetypes":                     { 'transl': "Archétypes", "paths": { 'name': "name", 'desc': "content" } },
   "pathfinder-bestiary":            { 'transl': "Bestiaire", "paths": { 'name': "name", 'desc': "data.details.flavorText" } },
