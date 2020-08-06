@@ -1,20 +1,11 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **officielle**: 409
- * **aucune**: 3
+ * **officielle**: 412
 
 
-Dernière mise à jour: 2020-08-03 19:00 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-06 17:55 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[k9fM0vufbdsDPQul.htm](pathfinder-bestiary/k9fM0vufbdsDPQul.htm)|Fire Mephit|
-|[kFQorgvvyozQVSKi.htm](pathfinder-bestiary/kFQorgvvyozQVSKi.htm)|Balisse|
-|[zUvgAbgeQH5t6DWs.htm](pathfinder-bestiary/zUvgAbgeQH5t6DWs.htm)|Choral|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -228,12 +219,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[jVZRROs0GzDjVrgi.htm](pathfinder-bestiary/jVZRROs0GzDjVrgi.htm)|Goblin Warrior|Guerrier gobelin|officielle|
 |[Jy2va0NTTbaUH1zP.htm](pathfinder-bestiary/Jy2va0NTTbaUH1zP.htm)|War Horse|Cheval de bataille|officielle|
 |[k3Lt3bWBadXvlIbG.htm](pathfinder-bestiary/k3Lt3bWBadXvlIbG.htm)|Poltergeist|Poltergeist|officielle|
+|[k9fM0vufbdsDPQul.htm](pathfinder-bestiary/k9fM0vufbdsDPQul.htm)|Fire Mephit|Méphite du feu|officielle|
 |[K9Hw43co8fhwmKkM.htm](pathfinder-bestiary/K9Hw43co8fhwmKkM.htm)|Grothlut|Grothlut|officielle|
 |[KclNszYZ7sjwE9nX.htm](pathfinder-bestiary/KclNszYZ7sjwE9nX.htm)|Hobgoblin Archer|Arbalétrier hobgobelin|officielle|
 |[KDRlxdIUADWHI6Vr.htm](pathfinder-bestiary/KDRlxdIUADWHI6Vr.htm)|Air Mephit|Méphite d'air|officielle|
 |[keCgklXcy4HZgQIL.htm](pathfinder-bestiary/keCgklXcy4HZgQIL.htm)|Adamantine Golem|Golem d’adamantium|officielle|
 |[kfeL172Ix3x1YRc9.htm](pathfinder-bestiary/kfeL172Ix3x1YRc9.htm)|Mummy Pharaoh|Momie pharaon|officielle|
 |[KFf6pJmFmzj7HH9i.htm](pathfinder-bestiary/KFf6pJmFmzj7HH9i.htm)|Water Mephit|Méphite de l'eau|officielle|
+|[kFQorgvvyozQVSKi.htm](pathfinder-bestiary/kFQorgvvyozQVSKi.htm)|Balisse|Balisse|officielle|
 |[kkFVngQUGTACeggf.htm](pathfinder-bestiary/kkFVngQUGTACeggf.htm)|Medusa|Méduse|officielle|
 |[kNmRn3WfiWLsuwoe.htm](pathfinder-bestiary/kNmRn3WfiWLsuwoe.htm)|Gelugon|Gélugon|officielle|
 |[kPBSSOuR8n8vZHXB.htm](pathfinder-bestiary/kPBSSOuR8n8vZHXB.htm)|Otyugh|Otyugh|officielle|
@@ -424,6 +417,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[zRNHsSxi1g3IFYFu.htm](pathfinder-bestiary/zRNHsSxi1g3IFYFu.htm)|Living Wildfire|Incendie vivant|officielle|
 |[ZsduIlmluQe4ZxFy.htm](pathfinder-bestiary/ZsduIlmluQe4ZxFy.htm)|Dero Strangler|Étrangleur dero|officielle|
 |[ZSQ4M8qeAv4dkLq1.htm](pathfinder-bestiary/ZSQ4M8qeAv4dkLq1.htm)|Skum|Skum|officielle|
+|[zUvgAbgeQH5t6DWs.htm](pathfinder-bestiary/zUvgAbgeQH5t6DWs.htm)|Choral|Chœur|officielle|
 |[Zv6eaumsdz4HdxRV.htm](pathfinder-bestiary/Zv6eaumsdz4HdxRV.htm)|Hyena|Hyène|officielle|
 |[ZXbr1ke1vF0ZFKY3.htm](pathfinder-bestiary/ZXbr1ke1vF0ZFKY3.htm)|Roper|Enlaceur|officielle|
 |[zXi6UhZ0mXWpKk4A.htm](pathfinder-bestiary/zXi6UhZ0mXWpKk4A.htm)|Adult Green Dragon|Dragon vert adulte|officielle|

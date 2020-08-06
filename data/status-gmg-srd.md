@@ -1,10 +1,10 @@
 # État de la traduction (gmg-srd)
 
- * **libre**: 3
- * **aucune**: 95
+ * **libre**: 5
+ * **aucune**: 93
 
 
-Dernière mise à jour: 2020-08-03 19:00 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-06 17:55 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -22,7 +22,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[amEb5dGmSvvAJz7J.htm](gmg-srd/amEb5dGmSvvAJz7J.htm)|Balance|
 |[BAs1fCaUTmvRjvVT.htm](gmg-srd/BAs1fCaUTmvRjvVT.htm)|Dullard|
 |[BbgtR5LmB9ZdPpx1.htm](gmg-srd/BbgtR5LmB9ZdPpx1.htm)|Timely Cure|
-|[bNmSwKSFk6SWWrlj.htm](gmg-srd/bNmSwKSFk6SWWrlj.htm)|Abandoned in a Distant Land|
 |[bRQz8uVlYtQ1cwwI.htm](gmg-srd/bRQz8uVlYtQ1cwwI.htm)|Wasteland Survivors|
 |[bvhckAGjcCJVs0jn.htm](gmg-srd/bvhckAGjcCJVs0jn.htm)|Claimed an Inheritance|
 |[C4KgMYzmyWVpe721.htm](gmg-srd/C4KgMYzmyWVpe721.htm)|Fool|
@@ -103,7 +102,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[y4quheEoo2bcmM6g.htm](gmg-srd/y4quheEoo2bcmM6g.htm)|Seeking Accolades|
 |[yqCZWcX9e3iwmvSS.htm](gmg-srd/yqCZWcX9e3iwmvSS.htm)|Social Maneuvering|
 |[YR0uxB5CPPueFjBs.htm](gmg-srd/YR0uxB5CPPueFjBs.htm)|The Relative|
-|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|
 |[yZUZDw8TXX1MvZ4P.htm](gmg-srd/yZUZDw8TXX1MvZ4P.htm)|Called Before Judges|
 |[ziWhyyygUG3Lemdu.htm](gmg-srd/ziWhyyygUG3Lemdu.htm)|The Academic|
 
@@ -114,3 +112,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2cyhXgGkmoFe3Phw.htm](gmg-srd/2cyhXgGkmoFe3Phw.htm)|Trained by a Mentor|Entraîné par un Mentor|libre|
 |[3Uwfn0ui7tS277iE.htm](gmg-srd/3Uwfn0ui7tS277iE.htm)|Metropolis|Métropolitain|libre|
 |[AL562TPAhLCFX62S.htm](gmg-srd/AL562TPAhLCFX62S.htm)|Underground|Sous-terrain|libre|
+|[bNmSwKSFk6SWWrlj.htm](gmg-srd/bNmSwKSFk6SWWrlj.htm)|Abandoned in a Distant Land|Abandonné sur un territoire éloigné|libre|
+|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|Vainqueur d'une compétition|libre|

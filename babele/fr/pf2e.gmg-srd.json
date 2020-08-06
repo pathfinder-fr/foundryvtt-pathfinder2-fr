@@ -7,6 +7,11 @@
             "description": "<p>Vous avez grandi dans une des Cités les plus grandes du monde, comme Absalom ou Couronne d'Ouest.</p>\n<p>Ajoutez Connaissance de l'Architecture, Connaissance des Gladiateurs, Connaissance d'une Guilde, Connaissance des Lois et Connaissance du théâtre à vos options d'historique.</p>"
         },
         {
+            "id": "Abandoned in a Distant Land",
+            "name": "Abandonné sur un territoire éloigné",
+            "description": "<p><span>À cause de quelque malchance (comme vous égarer au cours d'un voyage ou être enlevé pour servir à bord d'un bateau au long cours), vous avez dû survivre sur une terre éloignée pendant un moment. Ajoutez le don de compétence @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte} à vos options d'historique.</span></p>"
+        },
+        {
             "id": "Trained by a Mentor",
             "name": "Entraîné par un Mentor",
             "description": "<p>Un mentor ou un patron a trouvé un intérêt dans votre développement et s'est porté volontaire pour vous entraîner ou vous sponsoriser. </span></p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.sMm0UfYxEPpq2Yzd]{Professionnel expérimenté} aux options de votre historique.</p>"
@@ -15,6 +20,11 @@
             "id": "Underground",
             "name": "Sous-terrain",
             "description": "<p>Vous avez été élevé dans un région partiellement ou totalement souterraine, comme une vlle minière humaine, un terrier gobelin ou une grotte tenue par des nains.</p>\n<p>Ajouter Connaissance de l'ingénierie, Connaissance du travail et Connaissance de la mine à vos options d'historique.</p>"
+        },
+        {
+            "id": "Won a Competition",
+            "name": "Vainqueur d'une compétition",
+            "description": "<p><span>Vous vous êtes distingué très tôt lorsque vous avez gagné une compétition. Clea pourrait avoir été un concours de lutte, une démonstration d'apprentis magiciens, de paris aux enjeux élevés ou quelque chose de plus ordinaire, comme un concours de gros mangeur.<br></span></p>\n<p><span>Ajoutez @Compendium[pf2e.feats-srd.7LB00jkh6JaJr3vS]{Représentation fascinante} à vos options d'historique.</span></p>"
         }
     ]
 }

@@ -437,6 +437,11 @@
             "description": "Les dragons d’or sont la quintessence des dragons métalliques, des créatures à la force et à la sagesse inégalées. Ils imposent un respect indéfectible aux autres dragons métalliques qui les considèrent comme leurs chefs et leurs conseillers. Les dragons d’or ont une puissance brute comparable à celle des dragons rouges au grand dam de leurs cousins chromatiques et les deux espèces sont souvent considérées comme des rivales acharnées. Mais malgré leur incroyable puissance, les dragons d’or aiment discourir et préfèrent résoudre les problèmes en négociant et en parlant plutôt qu’en ayant recours à la force brute. Dotés d’une longue espérance de vie, ils ont nécessairement une vision à long terme de toutes les situations et n’agissent jamais sans prendre en compte toutes les options et toutes les conséquences. À cause de cela, les dragons d’or sont disposés à dialoguer avec toute créature qui leur en fait la demande, même les dragons chromatiques maléfiques. Les mortels peuvent trouver cette attitude étrange étant donnée la guerre prolongée entre les espèces métalliques et chromatiques, mais les dragons savent que les situations désespérées nécessitent parfois des alliances improbables. Et bien que les dragons d’or puissent envisager de brèves trêves avec leurs cousins chromatiques face à une menace cataclysmique, ils savent aussi quand ces trêves doivent s’achever.<br><br> Quand un autre dragon métallique est confronté à un problème ou à un adversaire qu’il ne peut surmonter, sa meilleure option est souvent d’aller demander conseil aux dragons d’or à la sagesse éternelle et à la glorieuse vertu. Localiser ces êtres légendaires n’est pas chose aisée, cependant, car ils sont connus pour être reclus. Leur intelligence et leur sagesse sont telles qu’ils préfèrent s’isoler pour réfléchir aux grandes questions de la vie ; et c’est en vivant retirés du monde qu’ils peuvent imaginer des solutions aux problèmes les plus urgents du monde. En conséquence, les dragons d’or sont parfois absents quand les autres dragons métalliques se réunissent ou ne se présentent pas dans les tribunaux alors que leurs conseils seraient bénéfiques. Les dragons les plus impatients reprochent parfois aux dragons d’or ce manque de fiabilité apparent mais ces reproches sont souvent motivés par la jalousie et sont rarement une véritable critique ; au fond d’eux, les autres dragons savent que peu de dragons d’or s’excluent délibérément des questions vraiment importantes.<br><br> L’incroyable clairvoyance des dragons d’or et leur incomparable sagesse signifient qu’il est peu probable qu’ils interfèrent dans les affaires des mortels. Cependant, les rares individus qui attirent leur attention sont chanceux car il existe peu d’entités dans le cosmos qui peuvent offrir des conseils aussi avisés et prudents. Il est plus facile pour les souverains et les autres puissants d’obtenir l’aide des dragons d’or ; plus d’un conflit a été évité à la dernière minute grâce à leur médiation.<br><br> On trouve souvent ces dragons dans des savanes ou des prairies chaudes, des terres où ils peuvent savourer de longs vols méditatifs sans attirer l’attention d’ennemis potentiels. Ils ont tendance à dormir à l’extérieur dans des lieux retirés et déserts ou à l’abri d’une tanière secrète ou fortifiée comme une doline oubliée ou un labyrinthe de cavernes d’un gouffre terrestre. Les dragons d’or peuvent solliciter des serviteurs ou des alliés de confiance pour protéger leur tanière mais ils sont nombreux à vivre seuls préférant protéger leurs trésors avec des pièges non mortels et des protections magiques.<br><br>"
         },
         {
+            "id": "Choral",
+            "name": "Choral (Chœur)",
+            "description": ""
+        },
+        {
             "id": "Quatoid",
             "name": "Quatoid (Quatoid)",
             "description": "Les quatoïdes sont de bizarres et mystérieux élémentaires originaires du plan de l’eau qui ressemblent à des pieuvres à quatre tentacules avec d’étranges visages humanoïdes sur leur manteau.<br><br>"
@@ -922,6 +927,11 @@
             "description": "Ces masses amorphes constituées de l’immonde limon des égouts et d’autres détritus rôdent dans les conduits dégoûtants qui courent sous les grandes et petites villes."
         },
         {
+            "id": "Fire Mephit",
+            "name": "Fire Mephit (Méphite du feu)",
+            "description": ""
+        },
+        {
             "id": "Gimmerling",
             "name": "Gimmerling (Gimmerling)",
             "description": "Les gimmerlings sont des petites fées métamorphes qui tendent des embuscades pour apaiser leur faim perpétuelle et leur avarice immature. Ces fées curieuses et cruelles sont obsédées par la fabrication de pièges bizarres et d’armes sadiques. Rien ne les amuse plus que de voir ces pièges se déclencher ou de tester ces armes. Sur le plan matériel, on les rencontre le plus souvent dans des zones urbaines, surtout dans les taudis ou dans d’autres parties de la ville où elles peuvent passer facilement inaperçues, et où le choix de victimes est plus important.<br><br> Un gimmerling typique prend l’aspect d’un enfant en danger en espérant inciter des créatures à se rapprocher suffisamment pour les dépouiller. Le gimmerling simule le danger avec un piège, une créature artificielle ou un complice allié, voire avec un monstre contraint, tel qu’un bonnet rouge (page 44). <br><br> Il arrive que les gimmerlings troquent leurs techniques de piégeur et de forgeur contre des choses qui satisfont leur curiosité, leur avarice ou leur faim. C’est pour cette raison qu’elles sont parfois adorées comme des dieux mineurs de la forge. Certains gimmerlings plus disciplinés deviennent des artisans honorés, des gardes d’élite ou des espions au service des demi-dieux appelés les Aînés qui vivent dans les tréfonds du Premier Monde."
@@ -989,7 +999,7 @@
         {
             "id": "Imp",
             "name": "Imp (Diablotin)",
-            "description": "Les diablotins sont des infiltrés et des corrupteurs qui, malgré leur petite taille, sont plus que capables d’influencer subtilement des individus à la volonté faible pour qu’ils commettent des actes de plus en plus maléfiques. Un diablotin acceptera souvent de servir un mortel et se comportera docilement et loyalement dans l’optique à long terme de condamner l’âme de son maître aux Enfers. Les diablotins sont directement engendrés par les Enfers, et non pas les âmes des mortels, aussi ils servent en dehors de la hiérarchie diabolique habituelle ce qui leur octroie une grande latitude pour agir. Malgré une taille de 60 cm, ils peuvent être des combattants féroces, s’envolant hors de portée et devenant invisibles pour s’échapper si les choses tournent mal pour eux."
+            "description": "Les diablotins sont des infiltrés et des corrupteurs qui, malgré leur petite taille, sont plus que capables d’influencer subtilement des individus à la volonté faible pour qu’ils commettent des actes de plus en plus maléfiques. Un diablotin acceptera souvent de servir un mortel et se comportera docilement et loyalement dans l’optique à long terme de condamner l’âme de son maître aux Enfers. Les diablotins sont directement engendrés par les Enfers, et non pas les âmes des mortels, aussi ils servent en dehors de la hiérarchie diabolique habituelle ce qui leur octroie une grande latitude pour agir. Malgré une taille de 60 cm, ils peuvent être des combattants féroces, s’envolant hors de portée et devenant invisibles pour s’échapper si les choses tournent mal pour eux.<br><br>"
         },
         {
             "id": "Nosoi",
@@ -1605,6 +1615,11 @@
             "id": "Duskwalker Ghost Hunter",
             "name": "Duskwalker Ghost Hunter (Chasseur de fantômes crépusculaire)",
             "description": "Les crépusculaires sont imprégnés des mêmes énergies que les psychopompes. Ces héritiers des cendres renaissent sur le plan matériel pour servir de gardiens du cycle de la vie et de la mort.<br><br>"
+        },
+        {
+            "id": "Balisse",
+            "name": "Balisse (Balisse)",
+            "description": ""
         },
         {
             "id": "Goblin Pyro",
