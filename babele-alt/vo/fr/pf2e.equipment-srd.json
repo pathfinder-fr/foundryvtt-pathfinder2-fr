@@ -187,6 +187,11 @@
             "description": "Une fois que vous avez bu cet élixir, votre vue devient plus perçante et vous repérez les mouvements les plus infimes. Pendant la minute qui suit, vous réduisez à 5 le DD du test nu pour viser une créature cachée et vous n’avez pas besoin de faire de test nu pour viser une créature masquée. Ces avantages s’appliquent uniquement aux créatures situées dans un rayon de 9 m."
         },
         {
+            "id": "Class Kit (Alchemist)",
+            "name": "Class Kit (Alchemist)",
+            "description": "<div><strong>Armure</strong>  armure de cuir clouté</div>\n<div><strong>Armes</strong> dague, fronde avec 20 billes de fronde</div>\n<div><strong>Equipement</strong> pack d’aventurier, outils d’alchimiste, bandoulière,</div>\n<div>livre d’artisan basique, 2 jeux de chausse‑trappes, gaine</div>\n<div><strong>Options</strong> kit de réparation (2 po)</div>"
+        },
+        {
             "id": "Staff of Transmutation",
             "name": "Staff of Transmutation",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un orbe de verre au sommet de ce bâton métallique contient du sable fin et ondoyant. Lorsque vous le maniez, vous bénéficiez d’un bonus de circonstances de +2 aux tests pour identifier la magie de transmutation. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</span></p>\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]{Sigil}</li>\n<li><strong>Niveau 1</strong> @Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]{Fleet Step}, @Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Jump}</li>\n<li><strong>Niveau 2</strong> @Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Enlarge}, @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Humanoid Form}</li>\n</ul>"
@@ -462,11 +467,6 @@
             "description": "Vous devenez fin et anguleux. Vous êtes plus rapide et plus agile, mais votre corps se fragilise. Le bonus aux jets de dés est de +1, celui à la Vitesse de +1,5 m et la durée est de 1 min.\nAvantage. Vous gagnez un bonus d’objet aux tests d’Acrobaties, de Discrétion et de Vol, aux jets de Réflexes et aux jets d’attaque à distance et vous gagnez le bonus indiqué à la Vitesse.\nInconvénient. Vous subissez un montant de dégâts égal au double de votre niveau. Vous ne pouvez pas récupérer les points de vie ainsi perdus tant que le mutagène fait effet. Vous subissez un malus de −2 aux jets de Vigueur."
         },
         {
-            "id": "Class Kit (Alchemist)",
-            "name": "Class Kit (Alchemist)",
-            "description": "<div><strong>Armure</strong>  armure de cuir clouté</div>\n<div><strong>Armes</strong> dague, fronde avec 20 billes de fronde</div>\n<div><strong>Equipement</strong> pack d’aventurier, outils d’alchimiste, bandoulière,</div>\n<div>livre d’artisan basique, 2 jeux de chausse‑trappes, gaine</div>\n<div><strong>Options</strong> kit de réparation (2 po)</div>"
-        },
-        {
             "id": "Demon Mask",
             "name": "Demon Mask",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce masque terrifiant représente le visage d’un démon grimaçant et confère un bonus d’objet de +1 aux tests d’Intimidation. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Le masque lance le sort terreur  @Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]{Fear} avec un DD de 20. </span></p>"
@@ -612,11 +612,6 @@
             "description": "<p><span class=\"fontstyle0\">Un kit de réparation vous permet d’effectuer des réparations simples lorsque vous vous voyagez. Il contient une enclume portable, des pinces, des outils de menuiserie, une pierre à aiguiser et des huiles pour le conditionnement du cuir et du bois. Vous pouvez utiliser un kit de réparation pour Réparer des objets à l’aide de la compétence Artisanat. Un kit de réparation superbe accorde un bonus de +1 à votre test. </span> </p>"
         },
         {
-            "id": "Leather Armor",
-            "name": "Leather Armor",
-            "description": "<p><span class=\"fontstyle0\"> la seconde peau épaisse de cette armure disperse la force du choc afin de réduire les dégâts causés par des coups contondants. Vous gagnez une résistance aux dégâts contondants égale à 1 + la valeur de la rune de puissance de l’armure pour une armure intermédiaire, ou 2 + la valeur de la rune de puissance de l’armure pour une armure lourde. </span> </p>"
-        },
-        {
             "id": "Alabaster",
             "name": "Alabaster",
             "description": ""
@@ -685,6 +680,11 @@
             "id": "Candle",
             "name": "Candle",
             "description": "<p><span class=\"fontstyle0\">Une bougie allumée diffuse une lumière tamisée dans un rayon de 3 m.&nbsp;</span></p>"
+        },
+        {
+            "id": "Satchel",
+            "name": "Satchel",
+            "description": "<p><span class=\"fontstyle0\">Une sacoche peut contenir des objets jusqu’à un Encombrement 2. Si vous transportez ou stockez une sacoche au lieu de la porter sur votre épaule, elle compte comme un Encombrement léger au lieu de négligeable.</span> </p>"
         },
         {
             "id": "Shadow (Major)",
@@ -777,6 +777,11 @@
             "description": "<p><span class=\"fontstyle0\">une gaine ou fourreau vous permet de porter facilement une arme sur vous.</span> </p>"
         },
         {
+            "id": "Adventurer's Pack",
+            "name": "Adventurer's Pack",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet est le kit de départ pour un aventurier. Il contient les objets essentiels à l’exploration et à la survie. La valeur d’Encombrement concerne la totalité du pack, mais reportez-vous si nécessaire à la description de chaque objet. </span></p>\n<p>Le pack d’aventurier contient les objets suivants : sac à dos (contenant les autres objets), sac de couchage, deux bourses, 10 morceaux de craie, silex et amorce, corde de 15 m, rations pour 2 semaines, savon, 5 torches et une outre. </p>"
+        },
+        {
             "id": "Azurite",
             "name": "Azurite",
             "description": ""
@@ -865,11 +870,6 @@
             "id": "Wand of Widening (1st-Level Spell)",
             "name": "Wand of Widening (1st-Level Spell)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
-        },
-        {
-            "id": "Class Kit (Champion)",
-            "name": "Class Kit (Champion)",
-            "description": "<div><strong>Armure </strong> armure de peau </div>\n<div><strong>Armes</strong>  dague, 4 javelines </div>\n<div><strong>Equipementr</strong>  pack d’aventurier, pied‑de‑biche, grappin, gaine</div>\n<div><strong>Options </strong>l’arme préférée de votre divinité (voir les entrées concernant les divinités</div>\n<div>aux pages 437 à 441 ; utilisez le prix indiqué dans ce chapitre)</div>"
         },
         {
             "id": "Lion's Shield",
@@ -1102,11 +1102,6 @@
             "description": "<p><span class=\"fontstyle0\">Cet arc court est composé de corne, de bois et de tendon collés ensemble pour augmenter la puissance de sa traction et de son projectile. Sa taille compacte et sa puissance en font le favori des archers montés. Chaque fois qu’une capacité est spécifiquement limitée à un arc court, elle s’applique également aux arcs courts composites, sauf indication contraire. </span> </p>"
         },
         {
-            "id": "Satchel",
-            "name": "Satchel",
-            "description": "<p><span class=\"fontstyle0\">Une sacoche peut contenir des objets jusqu’à un Encombrement 2. Si vous transportez ou stockez une sacoche au lieu de la porter sur votre épaule, elle compte comme un Encombrement léger au lieu de négligeable.</span> </p>"
-        },
-        {
             "id": "Savior Spike",
             "name": "Savior Spike",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette pointe de forme pyramidale se fixe sur le torse d’une armure. Lorsque vous l’activez, elle envoie un rayon de force pour vous aider à trouver une prise. Si vous obtenez un succès sur la tentative déclencheur, vous obtenez à la place un succès critique (si vous obtenez un échec critique, vous obtenez à la place un échec)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> sur ordre; <strong>Déclencheur</strong>  Vous tentez de Vous raccro‑ cher in extremis, mais n’avez pas encore lancé le dé ;  <strong>Conditions</strong> Vous êtes expert en Réflexes. </span></p>"
@@ -1175,6 +1170,11 @@
             "id": "Bladed Scarf",
             "name": "Bladed Scarf",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les fines plaques de métal entrelacées tout le long de cette longue écharpe transforme cet accessoire de mode en une arme mortelle.&nbsp;</span></p>"
+        },
+        {
+            "id": "Class Kit (Champion)",
+            "name": "Class Kit (Champion)",
+            "description": "<div><strong>Armure </strong> armure de peau </div>\n<div><strong>Armes</strong>  dague, 4 javelines </div>\n<div><strong>Equipementr</strong>  pack d’aventurier, pied‑de‑biche, grappin, gaine</div>\n<div><strong>Options </strong>l’arme préférée de votre divinité (voir les entrées concernant les divinités</div>\n<div>aux pages 437 à 441 ; utilisez le prix indiqué dans ce chapitre)</div>"
         },
         {
             "id": "Wand of Widening (2nd-Level Spell)",
@@ -1265,11 +1265,6 @@
             "id": "Peshpine Grenade (Moderate)",
             "name": "Peshpine Grenade (Moderate)",
             "description": "<p><span>Les grenades d'épines de pesh sont des bombes explosives enveloppées d'aiguilles traitées alchimiquement à partir de cactus de pesh. Une grenade d'épines de pesh inflige les dégâts perforants indiqués et des dégâts d'éclaboussure. Si elle atteint sa cible, cette dernière subit la condition @Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]{stupefiée} jusqu'à la fin de son prochain tour.<br></span></p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">Une </span> Frappe</span></p>\n<p>Vous obtenez un bonus d'objet de +1 au jet d'attaque. La bombe inflige 2d6 dégâts perforants et 2 dégâts perforants d'éclaboussure et la cible est stupéfiée 1.</p>"
-        },
-        {
-            "id": "Class Kit (Druid)",
-            "name": "Class Kit (Druid)",
-            "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes </strong>4 javelines, pique</div>\n<div><strong>Equipement</strong> pack aventurier, bandoulière, houx et gui</div>\n<div><strong>Options</strong> outils de guérisseur (5 po)</div>"
         },
         {
             "id": "Potion of Cold Resistance (Lesser)",
@@ -1465,11 +1460,6 @@
             "id": "Engraved copper ring",
             "name": "Engraved copper ring",
             "description": ""
-        },
-        {
-            "id": "Club",
-            "name": "Club",
-            "description": "<p><span class=\"fontstyle0\"> il s’agit d’un morceau de bois robuste façonné ou reconverti pour matraquer un ennemi. les gourdins peuvent être des pièces d’art martial finement sculptées ou être aussi simples qu’une branche d’arbre ou un morceau de bois. </span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
         },
         {
             "id": "Bolts",
@@ -2037,11 +2027,6 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une rune de stockage de sort crée un réservoir d’énergie magique à l’intérieur de l’arme gravée. Un incantateur peut passer une minute à lancer un sort de niveau 3 ou moins dans l’arme. Le sort doit avoir une incantation de 2 actions ou moins et doit pouvoir cibler une créature autre que l’incantateur. Le sort ne produit aucun effet immédiat — il est stocké à la place pour une utilisation ultérieure. Quand vous maniez une arme de stockage de sort, vous connaissez immédiatement le nom et le niveau du sort stocké. Une arme de stockage de sort trouvée en guise de trésor a 50 % de chances de contenir un sort choisi par le MJ.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Conditions</strong> Lors de votre action précé‑ dente ce tour, vous touchez et infligez des dégâts à une créature avec cette arme; <strong>Effect</strong> Vous libérez le sort stocké qui prend pour cible la créature que vous venez d’attaquer et de blesser. L’arme ne contient ensuite plus aucun sort et on peut en incanter un nouveau pour le stoc‑ ker dans l’arme. Si le sort nécessite un jet d’attaque de sort, le résultat de votre jet d’attaque avec l’arme détermine le degré de succès du sort, et si le sort nécessite un jet de sauvegarde, le DD est de 30. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Effet</strong> Permet de dépenser le sort stocké de manière inoffensive. Ceci permet de vider l’arme pour incanter un nouveau sort et le stocker à l’intérieur.</span></p>"
         },
         {
-            "id": "Adventurer's pack",
-            "name": "Adventurer's pack",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cet objet est le kit de départ pour un aventurier. Il contient les objets essentiels à l’exploration et à la survie. La valeur d’Encombrement concerne la totalité du pack, mais reportez-vous si nécessaire à la description de chaque objet. </span></p>\n<p>Le pack d’aventurier contient les objets suivants : sac à dos (contenant les autres objets), sac de couchage, deux bourses, 10 morceaux de craie, silex et amorce, corde de 15 m, rations pour 2 semaines, savon, 5 torches et une outre. </p>"
-        },
-        {
             "id": "Reflecting Shield",
             "name": "Reflecting Shield",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La surface de cette targe en argent de haute qualité (Solidité 6, 24 PV, SR 12) reflète comme un miroir tellement elle est polie. Le bouclier fonctionne comme un bouclier gardesort (voir ci‑après) qui peut également renvoyer des sorts. <br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Frequency</strong> 1/jour; <strong>Déclencheur</strong> Vous êtes la cible d’un sort ; <strong>Conditions</strong> Le <em>bouclier réfléchissant</em> est levé ;  <strong>Effet</strong> Vous tentez de renvoyer le sort sur son incantateur, avec les effets d’un @Compendium[pf2e.spells-srd.OOELvfkTedBMlWtq]{renvoi de sorts} de niveau 9 et un modificateur de contre de +40.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>renvoi de sorts</em> et les matières premières initiales doivent inclure au moins 2 750 po d’argent.\n</span></p>"
@@ -2357,11 +2342,6 @@
             "description": ""
         },
         {
-            "id": "Class Kit (Fighter)",
-            "name": "Class Kit (Fighter)",
-            "description": "<div><strong>Armure</strong> armure de peau</div>\n<div><strong>Armes</strong> dague</div>\n<div><strong>Equipement</strong> pack d’aventurier, grappin, gaine</div>\n<div><strong>Options</strong> épée à deux mains (2 po), arc long avec 20 flèches</div>\n<div>(6 po, 2 pa) ou épée longue et bouclier en acier (3 po)</div>"
-        },
-        {
             "id": "Sai",
             "name": "Sai",
             "description": "<p><span class=\"fontstyle0\">Cette dague perforante possède une fine lame flanquée d’une paire de griffes pouvant servir à bloquer l’arme de l’ennemi. </span></p>"
@@ -2502,6 +2482,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Peu d'armures au sein de la Région de la Mer Intérieure sont aussi mémorables que l'iconique Armure de plaques d'un Chevalier infernal. WBien que chaque ordre dispose de ses propres ornementations, l'armure de Chevalier infernal est instantanément reconnaissable pour n'importe qui a connaissance de l'existence des Chevaliers infernaux. Les Chevaliers infernaux prennent des mesures extrèmes pour punir les non Chevaliers infernaux qui mettent la main sur une armure de Chevalier infernal et cette récompense ne vaut souvent pas qu'on prenne ce risque, car pour ceux qui ne sont pas Chevaliers infernaux, l'armure fonctionne de manière similaire à une @Compendium[pf2e.equipment-srd.Gq1cZWSKOtJhKd2p]{armure de plaque}.&nbsp;</span></p>"
         },
         {
+            "id": "Class Kit (Fighter)",
+            "name": "Class Kit (Fighter)",
+            "description": "<div><strong>Armure</strong> armure de peau</div>\n<div><strong>Armes</strong> dague</div>\n<div><strong>Equipement</strong> pack d’aventurier, grappin, gaine</div>\n<div><strong>Options</strong> épée à deux mains (2 po), arc long avec 20 flèches</div>\n<div>(6 po, 2 pa) ou épée longue et bouclier en acier (3 po)</div>"
+        },
+        {
             "id": "Leather flagon with Caydenite symbol",
             "name": "Leather flagon with Caydenite symbol",
             "description": ""
@@ -2567,6 +2552,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bâton est effilé à une extrémité, l’autre étant taillée en forme de torsade ornée de pierres précieuses. Lorsque vous le maniez, vous bénéficiez d’un bonus de circonstances de +2 aux tests pour iden‑ tifier la magie d’évocation. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</span></p>\n<ul>\n<li><strong>Tour de magie  </strong>@Compendium[pf2e.spells-srd.gYjPm7YwGtEa1oxh]{Ray of Frost}</li>\n<li><strong>Niveau 1 </strong>@Compendium[pf2e.spells-srd.gKKqvLohtrSJj3BM]{Magic Missile}, @Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]{Shocking Grasp}</li>\n<li><strong>Niveau 2 </strong>@Compendium[pf2e.spells-srd.f8hRqLJaxBVhF1u0]{Acid Arrow}, @Compendium[pf2e.spells-srd.0qaqksrGGDj74HXE]{Glitterdust}</li>\n<li><strong>Niveau 3 </strong> @Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Lightning Bolt}, @Compendium[pf2e.spells-srd.gKKqvLohtrSJj3BM]{Magic Missile}</li>\n<li><strong>Niveau 4 </strong> @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}, @Compendium[pf2e.spells-srd.8M03UxGXjYyDFAoy]{Weapon Storm}</li>\n</ul>"
         },
         {
+            "id": "Class Kit (Sorcerer)",
+            "name": "Class Kit (Sorcerer)",
+            "description": "<div><strong>Armes</strong> dague, fronde avec 20 billes </div>\n<div><strong>Equipement</strong>  pack d’aventurier, bandoulière, 2 jeux de chausse‑trappes, gaine</div>"
+        },
+        {
             "id": "Arrows",
             "name": "Arrows",
             "description": "<p><span class=\"fontstyle0\">Ces projectiles sont les munitions des arcs. Le fût d’une flèche est en bois. La flèche est stabilisée en vol grâce à un empennage fixé à une extrémité et arbore une tête en métal de l’autre. </span> </p>"
@@ -2590,11 +2580,6 @@
             "id": "Storm Flash",
             "name": "Storm Flash",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette rapière de foudre et de frappe supérieure +2 a une lame dorée et des petits arcs électriques parcourent sa garde lorsque quelqu’un la manie. Quand elle est dégainée sous un ciel bleu, la lame provoque la lente accumulation de nuages orageux dans le ciel. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, imaginer;  <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Vous lancez un éclair de niveau 6 (DD 33).  <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Fréquence</strong>  une fois toutes les 10 min; <strong>Déclencheur</strong> Un effet d’électricité prend pour cible votre personne ou une créature à 3 m ou moins de vous, ou vous ou une créature à &nbsp;</span></p>"
-        },
-        {
-            "id": "Class Kit (Ranger)",
-            "name": "Class Kit (Ranger)",
-            "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes</strong>  dague, arc long avec 20 flèches</div>\n<div><strong>Equipement</strong> pack d’aventurier, gaine</div>"
         },
         {
             "id": "Magic Wand (5th-Level Spell)",
@@ -2797,11 +2782,6 @@
             "description": ""
         },
         {
-            "id": "Class Kit (Rogue)",
-            "name": "Class Kit (Rogue)",
-            "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes</strong> dague, rapière</div>\n<div><strong>Equipement</strong> pack d’aventurier, kit d’escalade, gaine</div>\n<div><strong>Options</strong> outils de voleur (3 po)</div>"
-        },
-        {
             "id": "Slippers of Spider Climbing",
             "name": "Slippers of Spider Climbing",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces chaussons souples sont en soie grise de qualité. Si les chaussons ne sont pas portés pendant un certain temps, ils ont tendance à attirer les araignées qui aiment nicher à l’intérieur. <br><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Fréquencé</strong> 1/heure; <strong>Effet</strong> De minuscules poils recouvrent les semelles des chaussons, ce qui vous permet de marcher sur des surfaces verticales ou même de vous déplacer sur des plafonds la tête en bas. Pendant une minute, vous obtenez une Vitesse d’escalade de 6 m et vous n’avez plus besoin de vos mains pour Escalader. Les chaussons doivent toute‑ fois suffisamment adhérer à un mur si vous souhaitez marcher dessus et ils sont donc inefficaces si vous vous déplacez le long de surfaces recouvertes de graisse, de glace ou d’huile.</span></p>"
@@ -2975,6 +2955,11 @@
             "id": "Copper Dragon's Breath Potion (Young)",
             "name": "Copper Dragon's Breath Potion (Young)",
             "description": "<p>Ce liquide contient du sang d’un jeune dragon de cuivre. Pendant 1 h après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait feu. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte une ligne de 9m de dégâts d'acide. Le souffle d'un jeune dragon de bronze inflige 4d6 dégâts d'acide et chaque créature dans la zone touchée doit faire un jet de réflexes basique DD 23. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds. </p>"
+        },
+        {
+            "id": "Club",
+            "name": "Club",
+            "description": "<p><span class=\"fontstyle0\"> il s’agit d’un morceau de bois robuste façonné ou reconverti pour matraquer un ennemi. les gourdins peuvent être des pièces d’art martial finement sculptées ou être aussi simples qu’une branche d’arbre ou un morceau de bois. </span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
         },
         {
             "id": "Boots of Elvenkind",
@@ -3197,11 +3182,6 @@
             "description": "<p>Cette arme à trois dents en forme de lance possède en général un manche de 1,20 m de long. Comme une lance, le trident peut être brandi d’une main ou lancé. </p>"
         },
         {
-            "id": "Class Kit (Barbarian)",
-            "name": "Class Kit (Barbarian)",
-            "description": "<div><strong>Armure</strong> armure de peau<br><strong>Armes</strong> 4 javelines<br><strong>Equipement</strong>  pack d’aventurier, grappin, 2 gaines<br><strong>Options</strong>  grande hache (2 po), massue (1 po), épée à deux mains<br>(2 po), ou hache d’armes et bouclier en acier (3 po)</div>"
-        },
-        {
             "id": "Gold Dragon's Breath Potion (Adult)",
             "name": "Gold Dragon's Breath Potion (Adult)",
             "description": "<p>Ce liquide contient du sang d’un dragon d'or adulte. Pendant 1 h après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait feu. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte un cône de 4,5m de dégâts de feu. Le souffle d'un dragon d'or adulte inflige 6d6 dégâts de feu et chaque créature dans la zone touchée doit faire un jet de réflexes basique DD 29. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds. </p>"
@@ -3295,11 +3275,6 @@
             "id": "Signal Whistle",
             "name": "Signal Whistle",
             "description": "<p><span class=\"fontstyle0\"> lorsqu’il retentit, son signal s’entend jusqu’à 750 m sur un terrain dégagé.</span> </p>"
-        },
-        {
-            "id": "Class Kit (Bard)",
-            "name": "Class Kit (Bard)",
-            "description": "<div><strong>Armure </strong>armure de cuir clouté </div>\n<div><strong>Armes</strong> dague, rapière, fronde avec 20 billes de fronde</div>\n<div><strong>Equipement</strong>  pack d’aventurier, bandoulière, </div>\n<div>instrument portatif, gaine</div>"
         },
         {
             "id": "Robe of the Archmagi (Greater)",
@@ -3582,6 +3557,11 @@
             "description": "Après avoir bu ce mutagène, votre corps devient plus imposant et robuste. Vous rayonnez de santé, mais vous devenez lourdaud et peu observateur. Le bonus est de +2, vous gagnez 10 points de vie temporaires et la durée est de 10 min."
         },
         {
+            "id": "Class Kit (Cleric)",
+            "name": "Class Kit (Cleric)",
+            "description": "<div><strong>Equipement</strong> pack d’aventurier, bandoulière,</div>\n<div>2 jeux de chausse‑ trappes, symbole religieux (en bois) </div>\n<div><strong>Options</strong>  l’arme préférée de votre divinité (voir les</div>\n<div>entrées concernant les divinités aux pages 437 à 441 ; utilisez le prix</div>\n<div>indiqué dans ce chapitre), armure de peau (2 po)</div>"
+        },
+        {
             "id": "Salamander Elixir (Moderate)",
             "name": "Salamander Elixir (Moderate)",
             "description": "Cet élixir distillé à partir d’écailles de salamandre permet de résister au feu. Pendant 24 h, vous êtes protégé contre les effets d’une chaleur importante. Vous êtes aussi protégé contre la chaleur extrême."
@@ -3700,6 +3680,16 @@
             "id": "Spellstrike Ammunition (Type I)",
             "name": "Spellstrike Ammunition (Type I)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des remous mystiques créent un réservoir magique dans cette munition. Vous activez la munition de frappe magique en lui Lançant un sort. Il doit être d’un niveau que la munition peut absorber et capable de viser une créature autre que son incantateur. Une créature touchée par la munition de frappe magique activée est visée par le sort. Si elle ne représente pas une cible valide pour lui, il est perdu.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La munition affecte uniquement la cible touchée, même si le sort devrait normalement affecter plusieurs cibles. Si le sort exige un jet d’attaque de sort, utilisez le résultat de votre jet d’attaque à distance avec la munition pour déterminer le degré de succès du sort. Si le sort autorise un jet de sauvegarde, la cible l’effectue contre le DD de votre sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce sont le niveau d’objet et le prix de la munition qui déterminent le niveau de sort maximum qu’elle peut contenir.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Lancer un sort</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Niveau de sort maximum 1</span></p>"
+        },
+        {
+            "id": "Class Kit (Wizard)",
+            "name": "Class Kit (Wizard)",
+            "description": "<div><strong>Armes </strong>Bâton</div>\n<div><strong>Equipementr</strong>Pack d’aventurier, bourse de composants matériels, nécessaire d’écriture</div>\n<div><strong>Options</strong> arbalète avec 20 carreaux (3 po, 2 pa) </div>"
+        },
+        {
+            "id": "Class Kit (Rogue)",
+            "name": "Class Kit (Rogue)",
+            "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes</strong> dague, rapière</div>\n<div><strong>Equipement</strong> pack d’aventurier, kit d’escalade, gaine</div>\n<div><strong>Options</strong> outils de voleur (3 po)</div>"
         },
         {
             "id": "Elixir of Life (Moderate)",
@@ -3882,6 +3872,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des motifs d’aile sont souvent gravés sur un <em>bouclier flottan</em>t. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiative<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Le bouclier se détache de votre bras et flotte à vos côtés en vous conférant auto‑ matiquement son bonus, comme si vous aviez Levé le bouclier. Étant donné que vous ne maniez pas le bouclier, vous ne pouvez pas utiliser de réactions telles que Blocage au bouclier avec lui mais vous profitez de ses avantages, même si vous utilisez déjà vos deux mains. Au bout d’une minute, le bouclier tombe au sol, ce qui met fin à l’effet flottant. Tant que le bouclier est adjacent à vous, vous pouvez Interagir pour vous en emparer, ce qui met fin prématurément à son effet flottant. </span></p>"
         },
         {
+            "id": "Alchemical Crossbow",
+            "name": "Alchemical Crossbow",
+            "description": "<p>Cette arbalète peut délivrer des carreaux alchimiquement imprégnés. L'arme étrange possède un crochet métallique monté sur le côté de la crosse près de l'encoche. Avec une action, vous pouvez charger une unique bombe alchimique mineure sur le crochet ; cette bombe doit être d'un type qui inflige des dégâts d'énegie (comme une flasque d'acide, du feu grégeois, de l'éclair en bouteille, une fiole givrée ou une pierre à tonerre).</p>\n<p>Les trois prochaines attaques que vous faites en utilisant l'arbalète infligent 1d6 dégâts correspondant aux dégâts de la bombe en plus des dégâts normaux de l'arbalète. Si la deuxième et la troisième attaques ne sont pas faites dans la minute qui suit la première attaque, l'énergie de la bombe est gâchée. Ces attaques n'infligent jamais de dégâts d'éclaboussure ou autres effets spéciaux de la  bombe et ne sont pas modifiés par des capacités qui ajoutent ou modifient l'effet d'une bombe.</p>\n<p>L'ajout du crochet a pour effet de déséquilibrer l'arme, réduisant sa portée à 9m. Elle fonctionne autrement comme une arbalète  (lorsqu'il s'agit de déterminer les dégâts, le rechargement, etc). Les créatures utilisent leur niveau de maîtrise martiale de l'arbalète lorsqu'elles utilisent l'arbalète alchimique.</p>"
+        },
+        {
             "id": "Aeon Stone (Clear Spindle)",
             "name": "Aeon Stone (Clear Spindle)",
             "description": "<p>Vous n’avez plus besoin de manger ou de boire tant que vous investissez cette pierre d’éternité. Elle ne fonctionne pas tant que vous ne l’avez pas portée en permanence pendant une semaine, en l’ayant investie chaque jour de cette semaine. Si elle est investie par quelqu’un d’autre, il faut reprendre cette période depuis le début</p>\n<p>Le pouvoir de résonance vous permet de lancer @Compendium[pf2e.spells-srd.W69zswpj0Trdy5rj]{bulle d’air} comme un sort inné primordial une fois par jour. .&nbsp;</p>"
@@ -4022,6 +4017,11 @@
             "description": "<p><span class=\"fontstyle0\">Cette lourde lame est prisée des gardiens de sites religieux. Elle possède une lame distinctive en forme de croissant, qui ressemble à un mélange entre une faucille et une épée. Il y a souvent des trous percés dans la lame ou le pommeau afin que des cloches ou d’autres objets sacrés puissent être apposés sur l’arme comme aide à la prière ou à la médiation. </span></p>"
         },
         {
+            "id": "Class Kit (Ranger)",
+            "name": "Class Kit (Ranger)",
+            "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes</strong>  dague, arc long avec 20 flèches</div>\n<div><strong>Equipement</strong> pack d’aventurier, gaine</div>"
+        },
+        {
             "id": "Magic Wand (2nd-Level Spell)",
             "name": "Magic Wand (2nd-Level Spell)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
@@ -4087,6 +4087,11 @@
             "description": ""
         },
         {
+            "id": "Class Kit (Bard)",
+            "name": "Class Kit (Bard)",
+            "description": "<div><strong>Armure </strong>armure de cuir clouté </div>\n<div><strong>Armes</strong> dague, rapière, fronde avec 20 billes de fronde</div>\n<div><strong>Equipement</strong>  pack d’aventurier, bandoulière, </div>\n<div>instrument portatif, gaine</div>"
+        },
+        {
             "id": "Magic Wand (4th-Level Spell)",
             "name": "Magic Wand (4th-Level Spell)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
@@ -4110,11 +4115,6 @@
             "id": "Truth Potion",
             "name": "Truth Potion",
             "description": "<p>Pendant 10 min après avoir bu cette potion astringente, vous ne pou‑ vez plus mentir intentionnellement et vous êtes obligé de dire la vérité. Faites un jet de Volonté DD 19 lorsque vous buvez cette potion. Vous pouvez faire un échec ou un échec critique volontairement. </p>\n<p><strong>Succès</strong>  La potion ne vous affecte pas</p>\n<p><strong>Echec</strong> Lorsque vous parlez, vous devez dire la vérité.</p>\n<p><strong>Echec critique</strong> Comme l’échec. Quand quelqu’un vous pose une question, vous devez faire un autre jet de Volonté DD 19. En cas d’échec, vous devez répondre honnêtement à la question si possible, en cas de succès vous êtes temporairement immunisé contre cette question pendant toute la durée de la potion. </p>"
-        },
-        {
-            "id": "Class Kit (Cleric)",
-            "name": "Class Kit (Cleric)",
-            "description": "<div><strong>Equipement</strong> pack d’aventurier, bandoulière,</div>\n<div>2 jeux de chausse‑ trappes, symbole religieux (en bois) </div>\n<div><strong>Options</strong>  l’arme préférée de votre divinité (voir les</div>\n<div>entrées concernant les divinités aux pages 437 à 441 ; utilisez le prix</div>\n<div>indiqué dans ce chapitre), armure de peau (2 po)</div>"
         },
         {
             "id": "Gilded scepter with sapphire",
@@ -4167,6 +4167,11 @@
             "description": ""
         },
         {
+            "id": "Leather Armor",
+            "name": "Leather Armor",
+            "description": "<p><span class=\"fontstyle0\"> la seconde peau épaisse de cette armure disperse la force du choc afin de réduire les dégâts causés par des coups contondants. Vous gagnez une résistance aux dégâts contondants égale à 1 + la valeur de la rune de puissance de l’armure pour une armure intermédiaire, ou 2 + la valeur de la rune de puissance de l’armure pour une armure lourde. </span> </p>"
+        },
+        {
             "id": "Goggles of Night (Major)",
             "name": "Goggles of Night (Major)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les verres de cristal opaque de ces élégantes lu‑ nettes ne bloquent pas la vision, elles l’améliorent même. Tant que vous portez les lunettes, vous bénéficiez d’un bonus d’objet de +3 aux tests de Perception visuelle. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Tourner les verres de 90 degrés permet d’obtenir la vision dans le noir  jusqu’à ce que vous tourniez les verres dans l’autre sens ou que vous n’investis‑ siez plus l’objet, selon ce qui se produit en premier. &nbsp;</span></p>"
@@ -4197,6 +4202,11 @@
             "description": "<p><span class=\"fontstyle0\">La lame de ce couteau long de 30 cm se courbe et n’a pas de garde au niveau de la poignée.</span> </p>"
         },
         {
+            "id": "Class Kit (Barbarian)",
+            "name": "Class Kit (Barbarian)",
+            "description": "<div><strong>Armure</strong> armure de peau<br><strong>Armes</strong> 4 javelines<br><strong>Equipement</strong>  pack d’aventurier, grappin, 2 gaines<br><strong>Options</strong>  grande hache (2 po), massue (1 po), épée à deux mains<br>(2 po), ou hache d’armes et bouclier en acier (3 po)</div>"
+        },
+        {
             "id": "Wand of Manifold Missiles (7th-Level Spell)",
             "name": "Wand of Manifold Missiles (7th-Level Spell)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette est ornée d’une tête de dragon à son extrémité et d’une sphère de métal poli au milieu. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Cast a Spell; <strong>Fréquence</strong> 1/jour, plus surchar‑ ger ;<strong>Effet</strong> Vous Lancez projectile magique au niveau indiqué. Après avoir lancé le sort, la baguette tire un ou plusieurs projectiles supplémentaires au début de chacun de vos tours, comme si vous lanciez la version à 1 action de projectile magique. Désignez chaque fois les cibles. Ceci dure 1 min, jusqu’à ce que vous ne teniez plus la baguette en main ou que vous tentiez de l’activer à nouveau.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Supply a casting of <em>magic missile</em> of the appropriate levelFournir une incantation de <em>projectile magique</em> du niveau approprié..</span></p>"
@@ -4210,11 +4220,6 @@
             "id": "Set of decorated ceramic plates",
             "name": "Set of decorated ceramic plates",
             "description": ""
-        },
-        {
-            "id": "Class Kit (Wizard)",
-            "name": "Class Kit (Wizard)",
-            "description": "<div><strong>Armes </strong>Bâton</div>\n<div><strong>Equipementr</strong>Pack d’aventurier, bourse de composants matériels, nécessaire d’écriture</div>\n<div><strong>Options</strong> arbalète avec 20 carreaux (3 po, 2 pa) </div>"
         },
         {
             "id": "Breastplate of Command (Greater)",
@@ -4457,6 +4462,11 @@
             "description": "<p>Votre esprit devient limpide et rien n’entrave vos facultés intel‑ lectuelles, mais la matière physique vous semble éphémère..&nbsp;<span id=\"ctl00_MainContent_DetailedOutput\">Le bonus est de +3 et la durée de 1 h. Vous êtes qualifié dans une compétence basée sur l’Intelligence, à choisir à la création de l’élixir. </span></p>"
         },
         {
+            "id": "Class Kit (Druid)",
+            "name": "Class Kit (Druid)",
+            "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes </strong>4 javelines, pique</div>\n<div><strong>Equipement</strong> pack aventurier, bandoulière, houx et gui</div>\n<div><strong>Options</strong> outils de guérisseur (5 po)</div>"
+        },
+        {
             "id": "Wondrous Figurine (Golden Lions)",
             "name": "Wondrous Figurine (Golden Lions)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chacune de ces statuettes fait 2,5 cm de haut. Elles sont sculptées dans des matériaux spécifiques et repré‑ sentent des animaux.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, Interagir <strong>Effet</strong> YVous activez une figurine en la posant sur une surface solide et en prononçant son nom. Elle se transforme alors en une ou plusieurs créa‑ tures. Sous forme de créature, la figurine adopte le trait sbire. Elle comprend votre langue et fait de son mieux pour vous obéir lorsque vous utilisez une action pour lui donner un ordre. Les par‑ ticularités de chaque créature et la fréquence d’activation de chaque statuette (le cas échéant) figurent dans son entrée.<br></span></p>\n<p>Si la figurine est tuée sous forme animale, elle redevient une statue et ne peut plus s’activer avant une semaine. Si elle est détruite sous forme de statue, elle vole en éclats et sa magie disparaît</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette statuette représente un couple de lions dorés. Activée, elle se change en deux lions adultes (Bestiaire Pathfinder p. 52). Vous pou‑ vez appeler les lions une seule fois par jour et ils restent sous forme animale 1 h au maximum. Si l’un des lions se fait tuer, il ne peut plus être convoqué avant qu’une semaine se soit écoulé, mais cela ne vous empêche pas d’appeler l’autre.  &nbsp;</span></p>"
@@ -4582,11 +4592,6 @@
             "description": "<p>Ce pic de guerre possède un manche plus long et une tête plus large qu’un pic de guerre ordinaire. Il est trop lourd pour pouvoir être manié d’une seule main.</p>"
         },
         {
-            "id": "Alchemical Crossbow",
-            "name": "Alchemical Crossbow",
-            "description": "<p>Cette arbalète peut délivrer des carreaux alchimiquement imprégnés. L'arme étrange possède un crochet métallique monté sur le côté de la crosse près de l'encoche. Avec une action, vous pouvez charger une unique bombe alchimique mineure sur le crochet ; cette bombe doit être d'un type qui inflige des dégâts d'énegie (comme une flasque d'acide, du feu grégeois, de l'éclair en bouteille, une fiole givrée ou une pierre à tonerre).</p>\n<p>Les trois prochaines attaques que vous faites en utilisant l'arbalète infligent 1d6 dégâts correspondant aux dégâts de la bombe en plus des dégâts normaux de l'arbalète. Si la deuxième et la troisième attaques ne sont pas faites dans la minute qui suit la première attaque, l'énergie de la bombe est gâchée. Ces attaques n'infligent jamais de dégâts d'éclaboussure ou autres effets spéciaux de la  bombe et ne sont pas modifiés par des capacités qui ajoutent ou modifient l'effet d'une bombe.</p>\n<p>L'ajout du crochet a pour effet de déséquilibrer l'arme, réduisant sa portée à 9m. Elle fonctionne autrement comme une arbalète  (lorsqu'il s'agit de déterminer les dégâts, le rechargement, etc). Les créatures utilisent leur niveau de maîtrise martiale de l'arbalète lorsqu'elles utilisent l'arbalète alchimique.</p>"
-        },
-        {
             "id": "Potion of Swimming (Greater)",
             "name": "Potion of Swimming (Greater)",
             "description": "<p>Un dépôt sablonneux occupe le fond de cette fiole de potion au goût d’eau de mer. Lorsque vous la buvez, vous bénéficiez d’une Vitesse de nage égale à votre Vitesse au sol pendant 1 heure.</p>"
@@ -4655,11 +4660,6 @@
             "id": "Wand of Widening (4th-Level Spell)",
             "name": "Wand of Widening (4th-Level Spell)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
-        },
-        {
-            "id": "Class Kit (Sorcerer)",
-            "name": "Class Kit (Sorcerer)",
-            "description": "<div><strong>Armes</strong> dague, fronde avec 20 billes </div>\n<div><strong>Equipement</strong>  pack d’aventurier, bandoulière, 2 jeux de chausse‑trappes, gaine</div>"
         },
         {
             "id": "White Dragon's Breath Potion (Wyrm)",
@@ -4992,14 +4992,14 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le fût de ce carreau est enveloppé d’une fine ficelle. Quand le carreau frappe une surface solide, la ficelle se déroule et s’agrandit pour for‑ mer une corde de 15 m de long solidement fixée sur la surface qu’a touchée le carreau. Elle se décroche avec l’action Interagir et un test d’Athlétisme DD 20.&nbsp;</span></p>"
         },
         {
-            "id": "Class Kit (Monk)",
-            "name": "Class Kit (Monk)",
-            "description": "<div><strong>Armes</strong> pique, bâton</div>\n<div><strong>Equipement</strong>pack d’aventurier, bandoulière, kit d’escalade</div>\n<div>, grappin, bâton fumigène inférieur</div>"
-        },
-        {
             "id": "Thundering (Greater)",
             "name": "Thundering (Greater)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme émet un grondement de tonnerre lorsqu’elle touche, infli‑ geant 1d6 dégâts de son supplémentaires en cas de Frappe réussie. En cas de coup critique, la cible doit réussir un jet de Vigueur DD 34 ou être sourde pendant une minute (ou une heure en cas d’échec critique).</span>Les dégâts de son infligés par cette arme ignorent la résistance au son de la cible. </p>"
+        },
+        {
+            "id": "Class Kit (Monk)",
+            "name": "Class Kit (Monk)",
+            "description": "<div><strong>Armes</strong> pique, bâton</div>\n<div><strong>Equipement</strong>pack d’aventurier, bandoulière, kit d’escalade</div>\n<div>, grappin, bâton fumigène inférieur</div>"
         },
         {
             "id": "Shield Boss",

@@ -332,6 +332,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres ont passé des générations à garder des tombeaux et ils vous ont transmis les pouvoirs qu’ils ont cultivés pour se garder de la nécromancie. Si vous obtenez un succès sur un jet de sauvegarde contre un effet de nécromancie, il est transformé en succès critique.&nbsp;</span></p>"
         },
         {
+            "id": "Deep Orc",
+            "name": "Deep Orc (Orque des profondeurs)",
+            "description": "<p>Vos mains calleuses et vos yeux rouges évoquent une vie passée dans les ténèbres profondes des cavernes des montagnes, où vous avez appris à combattre sur les falaises rocheuses et à survivre avec un minimum de ressources. Vous obtenez le don @Compendium[pf2e.feats-srd.4tTkRyOQ0VuRBac3]{Expertise du terrain} pour les souterrains et de don de compétence @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur}.</p>"
+        },
+        {
             "id": "Fishseeker Shoony",
             "name": "Fishseeker Shoony (Shoony Traquepoisson)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes issu d'une longue lignée de ptêcheurs et avez hérité des réflexes rapides nécessaires pour ferrer et ramener  les grosses prises. Si vous obtene un succès sur une tentative de @Compendium[pf2e.actionspf2e.3yoajuKjwHZ9ApUY]{Se raccrocher in extremis}, vous obtenez un Succès critique à la place ; si vous obtenez un échac critique, vous obtenez un échec à la place. Une créature qui obtient un échec sur un test pour vous @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer} obtient un échec critique à la place.&nbsp;&nbsp;</span></p>"
@@ -440,6 +445,11 @@
             "id": "Paddler Shoony",
             "name": "Paddler Shoony (Shoony Pagayeur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous venez d'une lignée de shoony qui ont vécu depuis longtemps parmi les herbes et les roseaux des marais et marécages et qui se sont adaptées aux défis de vivre près de zones détrempées. Vous ignorez les terrains difficiles et très difficiles liés aux tourbières. Lorsque vous obtenez un succès pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous considérez qu'il s'agit d'un succès critique à la place.&nbsp;</span></p>"
+        },
+        {
+            "id": "Duskwalker",
+            "name": "Duskwalker (Crépusculaire)",
+            "description": "<p><span class=\"fontstyle0\">Suite à un ancien marché, votre âme a été réincarnée comme un crépusculaire, un enfant planaire avec un lien à l'égad des psychopompes et du Cimetière. Vous obtenez le trait crépusculaire en plus des traits de votre héritage. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre héritge bénéficie déjà de vision nocturne. Ni votre corps, ni votre âme ne peuvent jamais devenir mort-vivant. Vous pouvez choisir vos dons d'héritage parmi les dons de crépusculaire ou ceux de votre autre héritage lorsque vous obtenez un don d'héritage.</span></p>"
         },
         {
             "id": "Vivacious Gnome",

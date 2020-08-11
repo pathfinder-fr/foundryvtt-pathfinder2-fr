@@ -457,6 +457,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions</strong>  L’une de vos mains au moins est libre. Votre cible ne peut pas être de plus d’une catégorie de taille supérieure à vous.</span></p>\n<hr>\n<p>Vous tentez de saisir un adversaire avec votre main libre. Effectuez un test d’Athlétisme contre son DD de Vigueur. Vous pouvez également Saisir pour maintenir votre prise sur une créature que vous avez déjà empoignée.</p>\n<p><strong>Succès critique</strong> Votre adversaire est entravé jusqu’à la fin de votre prochain tour, sauf si vous vous déplacez ou si votre adversaire S’échappe (page 471).<br><strong>Succès</strong> Votre adversaire est empoigné jusqu’à la fin de votre prochain tour, sauf si vous vous déplacez ou si votre adversaire S’échappe (page 471).<br><strong>Échec</strong> Vous ne parvenez pas à saisir votre adversaire. Si vous avez déjà empoigné ou entravé votre adversaire en utilisant l’action Saisir, ces états sur cet adversaire disparaissent.<br><strong>Échec critique</strong> Si vous avez déjà empoigné ou entravé votre adversaire, il se libère. Votre cible peut vous saisir, comme si elle avait réussi à effectuer l’action Saisir contre vous, ou vous obliger à tomber à terre.</p>"
         },
         {
+            "id": "Basic Finisher",
+            "name": "Coup final de base",
+            "description": "<p>Vous exécutez une attaque gracieuse et mortelle. Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} ; si vous touchez et que votre arme permet une @Compendium[pf2e.classfeatures.RQH6vigvhmiYKKjg]{Frappe précise}, vous infligez le totalité des dégâts du d6 de frappe précise.</p>"
+        },
+        {
             "id": "Flurry of Blows",
             "name": "Déluge de coups",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Faites deux Frappes à mains nues. Si les deux touchent la même créature, faites la somme de leurs dégâts avant d’appliquer les résistances et les faiblesses. Vous appliquez votre malus d’attaques multiples à ces Frappes comme à l’accoutumée. Étant donné que déluge de coups a le trait sophistication, vous ne pouvez l’utiliser qu’une seule fois par tour.&nbsp;</span></p>"

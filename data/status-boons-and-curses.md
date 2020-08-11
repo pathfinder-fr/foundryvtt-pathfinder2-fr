@@ -1,9 +1,9 @@
 # État de la traduction (boons-and-curses)
 
- * **aucune**: 114
+ * **aucune**: 120
 
 
-Dernière mise à jour: 2020-08-06 17:55 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-11 19:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -45,6 +45,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dL6r0VfFIWlAazDW.htm](boons-and-curses/dL6r0VfFIWlAazDW.htm)|Saranrae - Major Boon|
 |[dLudHCFcj4p7KG3j.htm](boons-and-curses/dLudHCFcj4p7KG3j.htm)|Asmodeus - Minor Curse|
 |[DnlAmlrrKv3jwaOq.htm](boons-and-curses/DnlAmlrrKv3jwaOq.htm)|Pharasma - Major Curse|
+|[DSfHCm8PDL5hLzZ0.htm](boons-and-curses/DSfHCm8PDL5hLzZ0.htm)|Irori - Minor Curse|
 |[dTJP2Hg4ZJu4Ck2y.htm](boons-and-curses/dTJP2Hg4ZJu4Ck2y.htm)|Iomedae - Minor Boon|
 |[DuGA57MDiwEKp7Y1.htm](boons-and-curses/DuGA57MDiwEKp7Y1.htm)|Saranrae - Major Curse|
 |[dZU3HdI2oO8LFjGq.htm](boons-and-curses/dZU3HdI2oO8LFjGq.htm)|Urgathoa - Major Boon|
@@ -56,6 +57,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fLBNXULLPalAKlYe.htm](boons-and-curses/fLBNXULLPalAKlYe.htm)|Cayden Cailean - Minor Curse|
 |[fsKVskUhWwMgvUaT.htm](boons-and-curses/fsKVskUhWwMgvUaT.htm)|Cayden Cailean - Moderate Boon|
 |[fV0t8xagcbqwvTpQ.htm](boons-and-curses/fV0t8xagcbqwvTpQ.htm)|Asmodeus - Minor Boon|
+|[fV0Xa1Bd3BoWACgT.htm](boons-and-curses/fV0Xa1Bd3BoWACgT.htm)|Irori - Minor Boon|
 |[fV940VM5RCsNwUvA.htm](boons-and-curses/fV940VM5RCsNwUvA.htm)|Calistra - Major Curse|
 |[fXEeTSVINdWaKHhw.htm](boons-and-curses/fXEeTSVINdWaKHhw.htm)|Abadar - Minor Boon|
 |[gDBa72Y2jokr8Zzg.htm](boons-and-curses/gDBa72Y2jokr8Zzg.htm)|Lamashtu - Moderate Curse|
@@ -68,6 +70,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[jfWeNqYj3rn9EysM.htm](boons-and-curses/jfWeNqYj3rn9EysM.htm)|Urgathoa - Minor Boon|
 |[jhixjUJZlCetNRjH.htm](boons-and-curses/jhixjUJZlCetNRjH.htm)|Shelyn - Minor Curse|
 |[jVeuBZsa4iFg0wC6.htm](boons-and-curses/jVeuBZsa4iFg0wC6.htm)|Nethys - Minor Boon|
+|[kCCrjskDIbG0e74O.htm](boons-and-curses/kCCrjskDIbG0e74O.htm)|Irori - Major Boon|
 |[kEAw5PMLdX2gHlwR.htm](boons-and-curses/kEAw5PMLdX2gHlwR.htm)|Gozreh - Major Curse|
 |[KjPTFfxMAqCngQFB.htm](boons-and-curses/KjPTFfxMAqCngQFB.htm)|Nethys - Minor Curse|
 |[Ks1HaYEuSRybaq8U.htm](boons-and-curses/Ks1HaYEuSRybaq8U.htm)|Calistra - Moderate Boon|
@@ -93,6 +96,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[pwmFrNkLscXrDSPN.htm](boons-and-curses/pwmFrNkLscXrDSPN.htm)|Erastil - Minor Curse|
 |[py9v5HfCIzCoyC0C.htm](boons-and-curses/py9v5HfCIzCoyC0C.htm)|Lamashtu - Major Curse|
 |[QGUFWuz9uF49EIhy.htm](boons-and-curses/QGUFWuz9uF49EIhy.htm)|Cayden Cailean - Major Curse|
+|[qhVfbZCxZJS8NmB3.htm](boons-and-curses/qhVfbZCxZJS8NmB3.htm)|Irori - Moderate Curse|
 |[qTmjEC528YnvPgXE.htm](boons-and-curses/qTmjEC528YnvPgXE.htm)|Iomedae - Moderate Boon|
 |[QVEkEdxCnoGxMo9l.htm](boons-and-curses/QVEkEdxCnoGxMo9l.htm)|Zon-Kuthon - Moderate Boon|
 |[rA7ZM6WGnJNrWTmo.htm](boons-and-curses/rA7ZM6WGnJNrWTmo.htm)|Iomedae - Moderate Curse|
@@ -108,6 +112,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vfQ7TsScMBTNiznn.htm](boons-and-curses/vfQ7TsScMBTNiznn.htm)|Gozreh - Major Boon|
 |[vU5leGDNAZSfPgTz.htm](boons-and-curses/vU5leGDNAZSfPgTz.htm)|Shelyn - Moderate Curse|
 |[VZodqtMF3qrMl8a7.htm](boons-and-curses/VZodqtMF3qrMl8a7.htm)|Saranrae - Minor Curse|
+|[wEqPbkQMuqlL2TPn.htm](boons-and-curses/wEqPbkQMuqlL2TPn.htm)|Irori - Major Curse|
 |[wIjqVRP0Hm2bIfyc.htm](boons-and-curses/wIjqVRP0Hm2bIfyc.htm)|Calistra - Minor Curse|
 |[wlBiDpWvjKiw9k2z.htm](boons-and-curses/wlBiDpWvjKiw9k2z.htm)|Zon-Kuthon - Minor Boon|
 |[wREsKC8CTifEyj6v.htm](boons-and-curses/wREsKC8CTifEyj6v.htm)|Norgorber - Major Curse|
@@ -115,6 +120,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[XFd7rnb9cchNw0WN.htm](boons-and-curses/XFd7rnb9cchNw0WN.htm)|Norgorber - Minor Curse|
 |[XFiI9qC4MNX4WUdh.htm](boons-and-curses/XFiI9qC4MNX4WUdh.htm)|Lamashtu - Major Boon|
 |[XfMZ83VA7dtF7fL5.htm](boons-and-curses/XfMZ83VA7dtF7fL5.htm)|Urgathoa - Minor Curse|
+|[xrczhivVmi7MrEfz.htm](boons-and-curses/xrczhivVmi7MrEfz.htm)|Irori - Moderate Boon|
 |[xrSgGobm5QtTcABQ.htm](boons-and-curses/xrSgGobm5QtTcABQ.htm)|Pharasma - Moderate Boon|
 |[XYM7v72doPR3LwgA.htm](boons-and-curses/XYM7v72doPR3LwgA.htm)|Gozreh - Minor Curse|
 |[y9DNpX7krUiOq0YI.htm](boons-and-curses/y9DNpX7krUiOq0YI.htm)|Asmodeus - Moderate Curse|

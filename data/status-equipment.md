@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 350
- * **changé**: 510
- * **aucune**: 380
- * **libre**: 179
+ * **officielle**: 342
+ * **changé**: 519
+ * **aucune**: 382
+ * **libre**: 178
 
 
-Dernière mise à jour: 2020-08-06 17:55 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-11 19:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -40,10 +40,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-17-OKo8ub6D11ztZc2V.htm](equipment/armor-17-OKo8ub6D11ztZc2V.htm)|Orichalcum Buckler (High-Grade)|
 |[armor-17-PeS3J9r4ss7gNytK.htm](equipment/armor-17-PeS3J9r4ss7gNytK.htm)|Orichalcum Shield (High-Grade)|
 |[armor-20-PlYr5AhYwHIztMw2.htm](equipment/armor-20-PlYr5AhYwHIztMw2.htm)|Shield of the Unified Legion|
-|[backpack-00-6ZZMnNFmPbDsNBpz.htm](equipment/backpack-00-6ZZMnNFmPbDsNBpz.htm)|Class Kit (Swashbuckler)|
-|[backpack-00-BKd5b2shbykeZCGv.htm](equipment/backpack-00-BKd5b2shbykeZCGv.htm)|Class Kit (Witch)|
-|[backpack-00-QHwdC5gO7wIak5cG.htm](equipment/backpack-00-QHwdC5gO7wIak5cG.htm)|Class Kit (Investigator)|
-|[backpack-00-xNzAU2wP0VpbOonl.htm](equipment/backpack-00-xNzAU2wP0VpbOonl.htm)|Class Kit (Oracle)|
 |[backpack-04-W5znRDeklmWEGzFY.htm](equipment/backpack-04-W5znRDeklmWEGzFY.htm)|Bag of Weasels|
 |[backpack-07-MN8SF2sArQhJg6QG.htm](equipment/backpack-07-MN8SF2sArQhJg6QG.htm)|Bag of Devouring Type I|
 |[backpack-11-EIBmADRICTyYzxik.htm](equipment/backpack-11-EIBmADRICTyYzxik.htm)|Bag of Devouring Type II|
@@ -105,7 +101,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-06-qasFfdiZKIczoZ9p.htm](equipment/consumable-06-qasFfdiZKIczoZ9p.htm)|Bloodhound Mask (Moderate)|
 |[consumable-06-sAMzkU7kzUZfqTPV.htm](equipment/consumable-06-sAMzkU7kzUZfqTPV.htm)|Extended Deteriorating Dust|
 |[consumable-07-4tnPWyApPZP1P1yO.htm](equipment/consumable-07-4tnPWyApPZP1P1yO.htm)|Swift Block Cabochon|
-|[consumable-07-7IrQPyMm76nLVoXx.htm](equipment/consumable-07-7IrQPyMm76nLVoXx.htm)|Soverign Glue|
+|[consumable-07-7IrQPyMm76nLVoXx.htm](equipment/consumable-07-7IrQPyMm76nLVoXx.htm)|Sovereign Glue|
 |[consumable-07-d5aCuFS1dhKXhsZ0.htm](equipment/consumable-07-d5aCuFS1dhKXhsZ0.htm)|Addlebrain|
 |[consumable-07-FgAPV0iLE6R1QMJ5.htm](equipment/consumable-07-FgAPV0iLE6R1QMJ5.htm)|Skinstitch Salve|
 |[consumable-07-ktRGlgegUBZcr0aJ.htm](equipment/consumable-07-ktRGlgegUBZcr0aJ.htm)|Saints' Balm|
@@ -329,13 +325,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-27-B4DnQNcGl6nFVKHl.htm](equipment/equipment-27-B4DnQNcGl6nFVKHl.htm)|Sphere of Annihilation|
 |[equipment-28-kwo4VKC9Qkplusxs.htm](equipment/equipment-28-kwo4VKC9Qkplusxs.htm)|Essence Prism|
 |[equipment-28-mH3LImCgJAkfKAA3.htm](equipment/equipment-28-mH3LImCgJAkfKAA3.htm)|Philosopher's Extractor|
+|[kit-5WT7gdzHNb5BG1J0.htm](equipment/kit-5WT7gdzHNb5BG1J0.htm)|Class Kit (Witch)|
+|[kit-9RxYSGp86HKtK8R8.htm](equipment/kit-9RxYSGp86HKtK8R8.htm)|Class Kit (Swashbuckler)|
+|[kit-Ac0BSiDJhtMmPnge.htm](equipment/kit-Ac0BSiDJhtMmPnge.htm)|Class Kit (Oracle)|
+|[kit-zcNBG8cMnILqXMFd.htm](equipment/kit-zcNBG8cMnILqXMFd.htm)|Class Kit (Investigator)|
 |[treasure-00-PzWETSKeVKisKCyl.htm](equipment/treasure-00-PzWETSKeVKisKCyl.htm)|Living flame shaped into a phoenix|
 |[treasure-00-q72jL8PRcjw3DVoF.htm](equipment/treasure-00-q72jL8PRcjw3DVoF.htm)|Phasing ether silk tapestry|
 |[treasure-00-qnK4cIHZ2irCV4BL.htm](equipment/treasure-00-qnK4cIHZ2irCV4BL.htm)|Quartz, rock crystal|
 |[weapon-00-6qJkA6fnHHiF4CEV.htm](equipment/weapon-00-6qJkA6fnHHiF4CEV.htm)|Tengu Gale Blade|
 |[weapon-00-fvvfZxfGV9i3urkd.htm](equipment/weapon-00-fvvfZxfGV9i3urkd.htm)|Claw Blade|
 |[weapon-00-KgKSX95uVSg8iBBA.htm](equipment/weapon-00-KgKSX95uVSg8iBBA.htm)|Khakkara|
+|[weapon-00-R2mDnYVqewmx3dV0.htm](equipment/weapon-00-R2mDnYVqewmx3dV0.htm)|Exquisite Sword Cane Sheath|
 |[weapon-00-RN3m5Hb5LPbdZGoO.htm](equipment/weapon-00-RN3m5Hb5LPbdZGoO.htm)|Daikyu|
+|[weapon-00-RN6rEc8eSkruNLPW.htm](equipment/weapon-00-RN6rEc8eSkruNLPW.htm)|Exquisite Sword Cane|
 |[weapon-00-VitLIpdIAmKlGb7i.htm](equipment/weapon-00-VitLIpdIAmKlGb7i.htm)|Sword Cane|
 |[weapon-00-YOpopjoWgU7bkmwh.htm](equipment/weapon-00-YOpopjoWgU7bkmwh.htm)|Wakizashi|
 |[weapon-01-ds0OdA989ZZw9km1.htm](equipment/weapon-01-ds0OdA989ZZw9km1.htm)|Dread Ampoule (Lesser)|
@@ -452,29 +454,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-19-7Z8XXGiUiyyisKOD.htm](equipment/armor-19-7Z8XXGiUiyyisKOD.htm)|Sturdy Shield (Supreme)|Bouclier renforcé (ultime)|changé|
 |[armor-1k3AsSW7lpU0kEpY.htm](equipment/armor-1k3AsSW7lpU0kEpY.htm)|Buckler|Targe|officielle|
 |[armor-20-PuqdH7DmNsN79HyE.htm](equipment/armor-20-PuqdH7DmNsN79HyE.htm)|Elven Chain (High-Grade)|Maille elfique (haute qualité)|changé|
+|[armor-4tIVTg9wj56RrveA.htm](equipment/armor-4tIVTg9wj56RrveA.htm)|Leather Armor|Armure de cuir|changé|
 |[armor-AnwzlOs0njF9Jqnr.htm](equipment/armor-AnwzlOs0njF9Jqnr.htm)|Hide|Armure de peau|officielle|
 |[armor-ezVp13Uw8cWW08Da.htm](equipment/armor-ezVp13Uw8cWW08Da.htm)|Wooden Shield|Bouclier en bois|officielle|
 |[armor-Kf4eJEXnFPuAsseP.htm](equipment/armor-Kf4eJEXnFPuAsseP.htm)|Chain Mail|Cotte de mailles|officielle|
 |[armor-ltundBNFAnP7bgPr.htm](equipment/armor-ltundBNFAnP7bgPr.htm)|Tower Shield|Pavois|officielle|
-|[armor-M8z72tZUYe7KPclQ.htm](equipment/armor-M8z72tZUYe7KPclQ.htm)|Leather Armor|Armure de cuir|officielle|
 |[armor-MPcM4Wt6KmWE2kGL.htm](equipment/armor-MPcM4Wt6KmWE2kGL.htm)|Chain Shirt|Chemise de mailles|officielle|
 |[armor-r0ifJfoz8aqf0mwk.htm](equipment/armor-r0ifJfoz8aqf0mwk.htm)|Breastplate|Cuirasse|officielle|
 |[armor-YMQr577asquZIP65.htm](equipment/armor-YMQr577asquZIP65.htm)|Scale Mail|Armure d'écailles|officielle|
 |[armor-Yr9yCuJiAlFh3QEB.htm](equipment/armor-Yr9yCuJiAlFh3QEB.htm)|Steel Shield|Bouclier en acier|officielle|
-|[backpack-00-09iZbcSifVqwVpWh.htm](equipment/backpack-00-09iZbcSifVqwVpWh.htm)|Class Kit (Wizard)|Kit de classe (Magicien)|officielle|
-|[backpack-00-0f3l3Dq2xJek2UMZ.htm](equipment/backpack-00-0f3l3Dq2xJek2UMZ.htm)|Class Kit (Monk)|Kit de classe (moine)|officielle|
 |[backpack-00-3lgwjrFEsQVKzhh7.htm](equipment/backpack-00-3lgwjrFEsQVKzhh7.htm)|Backpack|Sac à dos|officielle|
-|[backpack-00-A1gRqfmEx2zdhd6J.htm](equipment/backpack-00-A1gRqfmEx2zdhd6J.htm)|Class Kit (Bard)|Kit de classe (Barde)|officielle|
-|[backpack-00-AbxSVrDbnHS0hU3S.htm](equipment/backpack-00-AbxSVrDbnHS0hU3S.htm)|Class Kit (Champion)|Kit de classe (Champion)|officielle|
-|[backpack-00-edXxkkY3tgX7GLGI.htm](equipment/backpack-00-edXxkkY3tgX7GLGI.htm)|Class Kit (Sorcerer)|Kit de classe (Ensorceleur)|officielle|
-|[backpack-00-f1l10jVFkdWqiXRB.htm](equipment/backpack-00-f1l10jVFkdWqiXRB.htm)|Class Kit (Cleric)|Kit de classe (Prêtre)|officielle|
-|[backpack-00-hkMG8iNdSgofrPve.htm](equipment/backpack-00-hkMG8iNdSgofrPve.htm)|Class Kit (Ranger)|Kit de classe (Rôdeur)|officielle|
-|[backpack-00-MARsStNVQdc4DRCV.htm](equipment/backpack-00-MARsStNVQdc4DRCV.htm)|Class Kit (Rogue)|Kit de classe (Roublard)|officielle|
-|[backpack-00-ms8FwuEvsUzwT8q0.htm](equipment/backpack-00-ms8FwuEvsUzwT8q0.htm)|Class Kit (Barbarian)|Kit de classe (Barbare)|officielle|
 |[backpack-00-OdVDPN9vIpu3Zud3.htm](equipment/backpack-00-OdVDPN9vIpu3Zud3.htm)|Chest|Coffre|officielle|
-|[backpack-00-qHVFOTVFHEK662E0.htm](equipment/backpack-00-qHVFOTVFHEK662E0.htm)|Class Kit (Druid)|Kit de classe (Druide)|officielle|
-|[backpack-00-rdHcMXw4DMOL8IYu.htm](equipment/backpack-00-rdHcMXw4DMOL8IYu.htm)|Class Kit (Alchemist)|Kit de classe (Alchimiste)|officielle|
-|[backpack-00-yE959HPiyGw9FxAM.htm](equipment/backpack-00-yE959HPiyGw9FxAM.htm)|Class Kit (Fighter)|Kit de classe (Guerrier)|officielle|
+|[backpack-00-tYBW8TBF8WOAp3x0.htm](equipment/backpack-00-tYBW8TBF8WOAp3x0.htm)|Satchel|Sacoche|changé|
 |[backpack-04-jaEEvuQ32GjAa8jy.htm](equipment/backpack-04-jaEEvuQ32GjAa8jy.htm)|Bag of Holding (Type I)|Sac sans fond (type1)|changé|
 |[backpack-06-0c7zLY9c88K2n0GC.htm](equipment/backpack-06-0c7zLY9c88K2n0GC.htm)|Pathfinder's Pouch|Bourse d'Éclaireur|changé|
 |[backpack-07-JBMBaN9dZLytfFLQ.htm](equipment/backpack-07-JBMBaN9dZLytfFLQ.htm)|Bag of Holding (Type II)|Sac sans fond (Type 2)|changé|
@@ -486,7 +477,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[backpack-eFqKVKrf62XOGWUw.htm](equipment/backpack-eFqKVKrf62XOGWUw.htm)|Belt Pouch|Bourse|officielle|
 |[backpack-HamOU17sqb5ljiB5.htm](equipment/backpack-HamOU17sqb5ljiB5.htm)|Bandolier|Bandoulière|officielle|
 |[backpack-mBziC8v2eOtTs0f5.htm](equipment/backpack-mBziC8v2eOtTs0f5.htm)|Saddlebags|Fontes|officielle|
-|[backpack-rxXT8KPBXa08feFD.htm](equipment/backpack-rxXT8KPBXa08feFD.htm)|Adventurer's pack|Pack d'aventurier|changé|
 |[consumable-00-UMAXLDpI6YLSfYX1.htm](equipment/consumable-00-UMAXLDpI6YLSfYX1.htm)|Alcohol|Alcool|changé|
 |[consumable-01-2RuepCemJhrpKKao.htm](equipment/consumable-01-2RuepCemJhrpKKao.htm)|Healing Potion (Minor)|Potion de guérison (Mineure)|officielle|
 |[consumable-01-3cWko20JPnjeoofV.htm](equipment/consumable-01-3cWko20JPnjeoofV.htm)|Feather Token (Ladder)|Plume magique (échelle)|changé|
@@ -1053,7 +1043,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-aDsdYMPpVc8hOnM5.htm](equipment/equipment-aDsdYMPpVc8hOnM5.htm)|Repair Kit (Superb)|Kit de réparation (Superbe)|officielle|
 |[equipment-Bu2xT8NfB6xaeTJa.htm](equipment/equipment-Bu2xT8NfB6xaeTJa.htm)|Tack|Sellerie|officielle|
 |[equipment-ccsgob2TZ7WqTrp7.htm](equipment/equipment-ccsgob2TZ7WqTrp7.htm)|Ten-Foot Pole|Perche de 3 m|officielle|
-|[equipment-d0gJh9Kzi8ItawSb.htm](equipment/equipment-d0gJh9Kzi8ItawSb.htm)|Satchel|Sacoche|officielle|
 |[equipment-dIRZ0LL7G31fJNYz.htm](equipment/equipment-dIRZ0LL7G31fJNYz.htm)|Lantern (Hooded)|Lanterne à capote|officielle|
 |[equipment-fagzYdmfYyMQ6J77.htm](equipment/equipment-fagzYdmfYyMQ6J77.htm)|Bedroll|Sac de couchage|libre|
 |[equipment-FOWF5f0tCaApv9RE.htm](equipment/equipment-FOWF5f0tCaApv9RE.htm)|Spellbook (Blank)|Grimoire|officielle|
@@ -1097,6 +1086,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-Zr4PwTEuBLE30kkn.htm](equipment/equipment-Zr4PwTEuBLE30kkn.htm)|Short Tool|Outil|officielle|
 |[equipment-zvLyCVD8g2PdHJAc.htm](equipment/equipment-zvLyCVD8g2PdHJAc.htm)|Thieves' Tools|Outils de voleur|officielle|
 |[equipment-Zycu6zaGvDsqLH5g.htm](equipment/equipment-Zycu6zaGvDsqLH5g.htm)|Sheath|Gaine|officielle|
+|[kit-2req0jGaxz8hScdB.htm](equipment/kit-2req0jGaxz8hScdB.htm)|Adventurer's Pack|Pack d'aventurier|changé|
+|[kit-7E3sWotW56biNttA.htm](equipment/kit-7E3sWotW56biNttA.htm)|Class Kit (Ranger)|Kit de classe (Rôdeur)|officielle|
+|[kit-adNgRqqmkDDKhMRT.htm](equipment/kit-adNgRqqmkDDKhMRT.htm)|Class Kit (Barbarian)|Kit de classe (Barbare)|changé|
+|[kit-asQAvJXm3DSzPQtA.htm](equipment/kit-asQAvJXm3DSzPQtA.htm)|Class Kit (Bard)|Kit de classe (Barde)|officielle|
+|[kit-bJKgKrIQ5puuifcz.htm](equipment/kit-bJKgKrIQ5puuifcz.htm)|Class Kit (Sorcerer)|Kit de classe (Ensorceleur)|officielle|
+|[kit-cozhl69heIF0vjUt.htm](equipment/kit-cozhl69heIF0vjUt.htm)|Class Kit (Fighter)|Kit de classe (Guerrier)|changé|
+|[kit-drY7DJ9rMQEP0et8.htm](equipment/kit-drY7DJ9rMQEP0et8.htm)|Class Kit (Monk)|Kit de classe (moine)|officielle|
+|[kit-gB4kCTgR3b6SJw7n.htm](equipment/kit-gB4kCTgR3b6SJw7n.htm)|Class Kit (Champion)|Kit de classe (Champion)|officielle|
+|[kit-gCvGa77UZjhsbuOJ.htm](equipment/kit-gCvGa77UZjhsbuOJ.htm)|Class Kit (Druid)|Kit de classe (Druide)|changé|
+|[kit-iKnFPR1X8mOAeVCV.htm](equipment/kit-iKnFPR1X8mOAeVCV.htm)|Class Kit (Cleric)|Kit de classe (Prêtre)|officielle|
+|[kit-KVXcrw446rzYRdpy.htm](equipment/kit-KVXcrw446rzYRdpy.htm)|Class Kit (Alchemist)|Kit de classe (Alchimiste)|changé|
+|[kit-nPGrNslTdc6VBuCB.htm](equipment/kit-nPGrNslTdc6VBuCB.htm)|Class Kit (Rogue)|Kit de classe (Roublard)|changé|
+|[kit-tHWnYpDZlscldOX0.htm](equipment/kit-tHWnYpDZlscldOX0.htm)|Class Kit (Wizard)|Kit de classe (Magicien)|changé|
 |[treasure-00-02sF1QlxEx6H6zEP.htm](equipment/treasure-00-02sF1QlxEx6H6zEP.htm)|Hematite|Hématite|libre|
 |[treasure-00-0b6BUtoFD4DotZHR.htm](equipment/treasure-00-0b6BUtoFD4DotZHR.htm)|Gilded ceremonial armor|Armure cérémonielle dorée|libre|
 |[treasure-00-0zVMeeklYZ7hcgXw.htm](equipment/treasure-00-0zVMeeklYZ7hcgXw.htm)|Emerald, brilliant green|Émeraude, vert brillant|libre|
@@ -1252,7 +1254,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-76AqNZB5xuFWxgJI.htm](equipment/weapon-00-76AqNZB5xuFWxgJI.htm)|Fighting Fan|Éventail de combat|libre|
 |[weapon-00-CVTgOpNuRE7hsnc1.htm](equipment/weapon-00-CVTgOpNuRE7hsnc1.htm)|Filcher's Fork|Fourchette du chapardeur|changé|
 |[weapon-00-DV4qelKHrviM0O5i.htm](equipment/weapon-00-DV4qelKHrviM0O5i.htm)|Halfling Sling Staff|Fustibale de halfelin|officielle|
-|[weapon-00-fekB8qxXkSlr3QKr.htm](equipment/weapon-00-fekB8qxXkSlr3QKr.htm)|Alchemical Crossbow|Arbalète alchimique|libre|
 |[weapon-00-fjkwYZ0hRmBztwBG.htm](equipment/weapon-00-fjkwYZ0hRmBztwBG.htm)|Shuriken|Shuriken|officielle|
 |[weapon-00-FuS6F91Rhd4m3T6d.htm](equipment/weapon-00-FuS6F91Rhd4m3T6d.htm)|Fauchard|Fauchard|libre|
 |[weapon-00-I5DJUbAFGMwa6qCz.htm](equipment/weapon-00-I5DJUbAFGMwa6qCz.htm)|Scourge|Fléau|changé|
@@ -1262,6 +1263,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-J6H5UbLVsSXShoTs.htm](equipment/weapon-00-J6H5UbLVsSXShoTs.htm)|Orc Necksplitter|Coupecou orc|officielle|
 |[weapon-00-k8V3wTG1gMU5ksUr.htm](equipment/weapon-00-k8V3wTG1gMU5ksUr.htm)|Rhoka Sword|Épée rhoka|libre|
 |[weapon-00-LA8wwpQBi6tylE6z.htm](equipment/weapon-00-LA8wwpQBi6tylE6z.htm)|Nunchaku|Nunchaku|officielle|
+|[weapon-00-loueS11Tfa9WD320.htm](equipment/weapon-00-loueS11Tfa9WD320.htm)|Alchemical Crossbow|Arbalète alchimique|libre|
 |[weapon-00-MeA0g9xvWCbGxf2g.htm](equipment/weapon-00-MeA0g9xvWCbGxf2g.htm)|Mambele|Mambele (Hunga munga)|libre|
 |[weapon-00-mgrabKkyLmvxgLBK.htm](equipment/weapon-00-mgrabKkyLmvxgLBK.htm)|Elven Curve Blade|Lame courbe elfique|officielle|
 |[weapon-00-MYnh7w7EL3AcQT41.htm](equipment/weapon-00-MYnh7w7EL3AcQT41.htm)|Dwarven War Axe|Hache de guerre naine|officielle|
@@ -1386,6 +1388,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-8COlYvHe6hKCXY8x.htm](equipment/weapon-8COlYvHe6hKCXY8x.htm)|Greataxe|Grande hache|officielle|
 |[weapon-9iDqOLNFKxiTcFKE.htm](equipment/weapon-9iDqOLNFKxiTcFKE.htm)|Mace|Masse d'armes|officielle|
 |[weapon-aXuJh4i8HqSu6NYV.htm](equipment/weapon-aXuJh4i8HqSu6NYV.htm)|Longspear|Pique|officielle|
+|[weapon-c58wczIzH2gzeXQL.htm](equipment/weapon-c58wczIzH2gzeXQL.htm)|Club|Gourdin|changé|
 |[weapon-dfum7DpOEkwxwTsT.htm](equipment/weapon-dfum7DpOEkwxwTsT.htm)|Shield Boss|Ombon|officielle|
 |[weapon-dgWxsYm0DWHb27h6.htm](equipment/weapon-dgWxsYm0DWHb27h6.htm)|Halberd|Hallebarde|officielle|
 |[weapon-dUC8Fsa6FZtVikS3.htm](equipment/weapon-dUC8Fsa6FZtVikS3.htm)|Composite Longbow|Arc long composite|officielle|
@@ -1427,7 +1430,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-UcLqR32mNaGdNkUk.htm](equipment/weapon-UcLqR32mNaGdNkUk.htm)|Fist|Poing|libre|
 |[weapon-UfurZQK6H6SgOjqe.htm](equipment/weapon-UfurZQK6H6SgOjqe.htm)|Ranseur|Corsèque|officielle|
 |[weapon-UX71GkWBL9g41VwM.htm](equipment/weapon-UX71GkWBL9g41VwM.htm)|Greatsword|Épée à deux mains|officielle|
-|[weapon-V2upqRKTOeYjJoWR.htm](equipment/weapon-V2upqRKTOeYjJoWR.htm)|Club|Gourdin|libre|
 |[weapon-vlnzTSsRmWeSkt9O.htm](equipment/weapon-vlnzTSsRmWeSkt9O.htm)|Glaive|Coutille|officielle|
 |[weapon-War0uyLBx1jA0Ge7.htm](equipment/weapon-War0uyLBx1jA0Ge7.htm)|Battle Axe|Hache d'armes|officielle|
 |[weapon-x1TOpwH755Ami5bC.htm](equipment/weapon-x1TOpwH755Ami5bC.htm)|Light Mace|Masse d'armes légère|officielle|
