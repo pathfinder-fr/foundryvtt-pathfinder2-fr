@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 224
- * **aucune**: 126
- * **changé**: 31
+ * **officielle**: 223
+ * **aucune**: 127
+ * **changé**: 32
  * **libre**: 2
 
 
-Dernière mise à jour: 2020-08-11 19:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-19 19:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -123,6 +123,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[witch-01-qf12ubZ07Q0z0NcN.htm](classfeatures/witch-01-qf12ubZ07Q0z0NcN.htm)|Winter Patron|
 |[witch-01-qMZiTugiLCEmkg8h.htm](classfeatures/witch-01-qMZiTugiLCEmkg8h.htm)|Fate Patron|
 |[witch-01-SOan0fqyFTrkqJLV.htm](classfeatures/witch-01-SOan0fqyFTrkqJLV.htm)|Witch Lessons|
+|[witch-01-VVMMJdIWL7fAsQf3.htm](classfeatures/witch-01-VVMMJdIWL7fAsQf3.htm)|Baba Yaga Patron|
 |[witch-01-x2gzQMPvLwHWDdAC.htm](classfeatures/witch-01-x2gzQMPvLwHWDdAC.htm)|Wild Patron|
 |[witch-01-XFTWJO6txmLNRLae.htm](classfeatures/witch-01-XFTWJO6txmLNRLae.htm)|Night Patron|
 |[witch-01-yksPhweBZYVCsE1A.htm](classfeatures/witch-01-yksPhweBZYVCsE1A.htm)|Familiar (Witch)|
@@ -243,7 +244,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-00-UV1HlClbWCNcaKBZ.htm](classfeatures/cleric-00-UV1HlClbWCNcaKBZ.htm)|Anathema (Cleric)|Anathème (Prêtre)|changé|
 |[cleric-01-0Aocw3igLwna9cjp.htm](classfeatures/cleric-01-0Aocw3igLwna9cjp.htm)|Warpriest|Prêtre combattant|officielle|
 |[cleric-01-AvNbdGSOTWNRgcxs.htm](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Divine Spellcasting (Cleric)|Incantation divine|changé|
-|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|officielle|
+|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|changé|
 |[cleric-01-ZZzLMOUAtBVgV1DF.htm](classfeatures/cleric-01-ZZzLMOUAtBVgV1DF.htm)|Cloistered Cleric|Prêtre cloîtré|officielle|
 |[cleric-05-EiD3tYJQAO4OhWc6.htm](classfeatures/cleric-05-EiD3tYJQAO4OhWc6.htm)|Alertness (Cleric)|Vigilance (Prêtre)|officielle|
 |[cleric-09-Ye6ixydYMNzCZllo.htm](classfeatures/cleric-09-Ye6ixydYMNzCZllo.htm)|Resolve (Cleric)|Résolution (Champion)|officielle|

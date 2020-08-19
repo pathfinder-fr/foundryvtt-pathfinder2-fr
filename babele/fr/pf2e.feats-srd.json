@@ -262,6 +262,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié en Arcanes<br><strong>Accès</strong> Vous êtes originaire des Terres des Sagas.<br></span></p>\n<hr>\n<p>Que ce soit lié à votre sang (si vous êtes Varisien, Shoanti ou issu du Nouveau Thassilon) ou du fait d'une exposition à la magie des runes, vous vous êtes fait marquer le corps avec des runes visibles et brillantes sous la forme de tatouages ou de cicatrices. Vous pourriez avoir possédé ces marques avant de prendre l'archétype, mais vous n'êtes devenu réellement un Marqué de runes que lorsque vous avez choisi d'étudier et de puiser dans le pouvoir des runes. Vous devenez expert en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=2\">Arcanes</a> et vous devenez aussi qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> du Thassilon ou expert en Connaissance du Thassilon Lore si vous étiez déjà qualifié.<br><br>Choisissez un tour de magie de la liste de la tradition <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=1\">arcanique</a>. Une des runes de votre corps correspond à ce tour de magie choisi et vous pouvez lancer le tour de magie choisi comme un sort innée arcanique.<br><br><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement jusqu'à ce que vous obteniez deux autres dons de l'archétype Marqué de runes.&nbsp;</p>"
         },
         {
+            "id": "Eye For Treasure",
+            "name": "Œil appréciateur",
+            "description": "<p>Vous savez reconnaître le bon artisanat lorsque vous le voyez et pouvez partir dans des envolées poétiques à propos des techniques artisanales et des formes.</p>\n<p>Vous êtes qualifié en Artisanat et obtenez un bonus de circonstance de +1 à tous les tests d'Artisanat faits pour @Compendium[pf2e.actionspf2e.B0Eu3EfwIa9kyDEA]{vous Souvenir}. Si vous devriez automatiquement être qualifié en Artisanat (par le biais de votre historique ou de votre classe, par exemple), vous êtes qualifié dans une autre compétence de votre choix à la place.</p>\n<p>De plus, vous obtenez le don de compétence @Compendium[world.feats-apg-data-entry.54QgGnYbgw6hM3Uc]{Évaluation artisanale}, vous permettant d'identifier les objets magiques en utilisant la compétence Artisanat.</p>"
+        },
+        {
             "id": "Lastwall Warden",
             "name": "Gardien de Dernier-rempart",
             "description": "<p><span><strong>Prérequis</strong> dévouement de Sentinelle de Dernier-Rempart<br></span></p>\n<hr>\n<p>Vous utilisez votre bouclier pour protéger vos alliés et non simplement vous-mêmes contre les attaques des morts-vivants. Lorsque vous tenez votre bouclier levé, vous pouvez utiliser votre réaction @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier} lorsqu'une attaque est faite contre un allié qui vous est adjacent, en plus de son déclencheur habituel. Si vous le faites, le bouclier empêche que cet allié subisse des dégâts plutôt que vous, en suivant les règles normales d'un blocage au bouclier.<br><br>Si un mort-vivant fait une attaque contre un allié qui se trouve dans les 3m de vous, vous pouvez @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faire un pas} pour être adjacent à votre allié avant d'utiliser Blocage au bouclier au cours de la même réaction.&nbsp;</p>"
@@ -1252,6 +1257,11 @@
             "description": "<p>Vous avez consciencieusement appris à conserver votre équilibre et à rester en sûreté dans les ombres, des compétences vitales transmises de génération en génération de halfelins. Vous gagnez le rang de maîtrise qualifié en Acrobaties et en Discrétion. Si vous êtes déjà automatiquement qualifié dans l’une de ces compétences (grâce à votre historique ou à votre classe, par exemple), vous devenez alors qualifié dans une compétence de votre choix. Vous devenez également qualifié en Connaissance des halfelins.</p>"
         },
         {
+            "id": "Ratfolk Lore",
+            "name": "Connaissance des Hommes-rats",
+            "description": "<p>Des années d'expérience parmi les communautés d'hommes-rats vous ont rendu agile et vous avez appris à courir et vous cacher lorsque les ennemis menacent.</p>\n<p>Vous êtes qualifié en Acrobaties et en Discration. Si vous devriez être automatiquement dans une de ces compétences (par le biais de votre historique ou de votre classe, par exemple), vous êtes qualifié dans une autre compétence de votre choix à la place. Vous êtes aussi qualifié en Connaissance des Hommes-rats.</p>"
+        },
+        {
             "id": "Woodcraft",
             "name": "Forestier",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez une familiarité innée avec les zones forestières. Lorque vous êtes en forêt ou dans une jungle, si vous obtenez un échec critique sur un test de compétence de <a href=\"https://2e.aonprd.com/Skills.aspx?ID=16\">Survie</a> pour Déterminer la direction, Subsister ou Effacer vos traces, vous obtenez un échec à la place et si vous obtenez un succès, vous considérez qu'il s'agit d'un succès critique à la place.&nbsp;</span></p>"
@@ -1260,6 +1270,11 @@
             "id": "Fast Recovery",
             "name": "Récupération rapide",
             "description": "<p><span><strong>Prérequis</strong> Constitution 14<br></span></p>\n<hr>\n<p>Votre corps se remet rapidement des afflictions. Vous récupérez deux fois plus de Points de vie en vous reposant. Chaque fois que vous réussissez un jet de sauvegarde de Vigueur contre une maladie ou un poison qui est en train de vous infecter, vous réduisez son stade de 2, ou de 1 contre une maladie ou un poison virulent. Chaque succès critique contre une maladie ou un poison qui est en train de vous affecter réduit son stade de 3, ou de 2 s’il s’agit d’une maladie ou d’un poison virulent. De plus, vous réduisez de 2 la gravité de votre état drainé quand vous vous reposez pendant une nuit au lieu de 1. </p>"
+        },
+        {
+            "id": "Schooled In Secrets",
+            "name": "Éduqué dans les secrets",
+            "description": "<p><strong>Prérequis </strong>qualifié en Occultisme</p>\n<hr>\n<p>Vous remarquez les signes et les symboles que les membres de cultes mystérieux et d'autres sociétés secrètes utilisent pour déclarer leur affiliation à des camarades membres.</p>\n<p>Vous pouvez utiliser Occultisme au lieu de Diplomatie pour @Compendium[pf2e.actionspf2e.plBGdZhqq5JBl1D8]{recueillir des Informations} sur de tels groupes. Si vous appartenez à une société secrète, à une loge, une secte ou à une organisation similaire, vous reconnaissez automatiquement les membres de votre groupe à moins qu'ils n'essaient spécifiquement de vous camoufler leur présence.</p>"
         },
         {
             "id": "Fast Channel",
@@ -1795,6 +1810,11 @@
             "id": "Spell Tinker",
             "name": "Bricolage de sort",
             "description": "<p>Vous avez appris à modifier les choix que vous avez faits lorsque vous lancez un sort sur vous‑même. Une fois que vous avez lancé sur vous-même uniquement un sort qui offre plusieurs choix quant à ses effets (comme résistance à l’énergie, immunité contre les sorts ou un sort de métamorphose qui offre plusieurs formes potentielles), vous pouvez modifier le choix fait lorsque vous avez Lancé le sort (par exemple en choisissant un autre type de dégâts pour résistance à l’énergie). Cependant, vos modifications affaiblissent l’intégrité du sort, réduisant sa durée de moitié. Vous ne pouvez pas vous servir de ce don si les avantages du sort ont déjà été utilisés ou si les effets de votre premier choix persistaient après la modification (par exemple si l’un des choix consiste à créer un consommable que vous avez utilisé ou à vous soigner) ou encore si le don créait un effet plus puissant que celui du sort de base. Le MJ reste juge de ce qu’il est possible de faire ou non avec Bricolage de sort.</p>"
+        },
+        {
+            "id": "Grimspawn",
+            "name": "Rejeton sombre",
+            "description": "<p>Votre lignage remonte à celui d'un daemon, une des manifestations  de forme horrible de la mort qui dévore les âmes au sein du royaume dément d'Abaddon. Il en résulte que vous vous cramponnez avec ténacité aux derniers lambeaux de votre force vitale.</p>\n<p>Vous obtenez le don @Compendium[pf2e.feats-srd.I0BhPWqYf1bbzEYg]{Dur à cuir}.</p>"
         },
         {
             "id": "Nimble Elf",
@@ -4447,6 +4467,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Archétype</strong>&nbsp;Dresseur d'animal&nbsp;<br><strong>Prérequis</strong> Maître en Nature,Dévouement de Dresseur d'animal <br></span></p>\n<hr>\n<p>Lorsque vous obtenez un succès pour @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Diriger un animal}, vous obtenez un succès critique ; si vous obtenez un échec critique , vous obtenez un échec.&nbsp;</p>"
         },
         {
+            "id": "Crafter’s Appraisal",
+            "name": "Évaluation artisanale",
+            "description": "<p><strong>Prérequis </strong>qualifié en Artisanat</p>\n<hr>\n<p>Votre connaissance de la conception des objets vous permet de discerner également leurs effets magiques. Vous pouvez utiliser Artisanat au lieu d'une compétence associée à une tradition magique pour @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifier la magie} sur les objets magiques, mais pas l'utiliser sur toute autre sorte de magie.</p>"
+        },
+        {
             "id": "Persistent Creation",
             "name": "Création persistante",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement d'Orateur paisible<br></span></p>\n<hr>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.TUj8eugNqAvB1vVR]{Création} comme un sort inné à volonté, choisissant s'il est arcanique ou primordial à chaque fois. L'objet créé dure jusqu'à ce que vous passiez 1 heure sans être dans son voisinage immédiat ou jusqu'à ce qu'il soit détruit. De tels objecs sont appelés des créations persistantes. Si vous lancez <em>création</em> de nouveau, toute création persistante que vous avez précédemment créée avec le sort se désintègre immédiatement.&nbsp;</p>"
@@ -4630,6 +4655,11 @@
             "id": "Combat Grab",
             "name": "Empoignade en combat",
             "description": "<p><strong>Conditions</strong> Vous avez une main libre et votre cible est à portée de cette main.</p>\n<hr>\n<p>Vous frappez votre adversaire et l’empoignez avec l’autre main. Effectuez une Frappe au corps à corps en gardant une main libre. Si la Frappe touche, vous empoignez la cible avec la main libre. La créature reste empoignée jusqu’à la fin de votre prochain tour ou jusqu’à ce qu’elle S’échappe, selon ce qui se produit en premier.</p>"
+        },
+        {
+            "id": "Know Your Own",
+            "name": "Connaître vos semblables",
+            "description": "<p>Vous avez passé des heures innombrables à étudier l'histoire des elfes de votre monde et même au-delà et êtes un savant expert des manière de votre peuple.</p>\n<p>Si vous obtenez un échec critique pour vous Souvenir à propos des elfes, de la société elfique ou de l'histoire elfique, vous obtenez un échec à la place.</p>"
         },
         {
             "id": "Advanced Dogma",
@@ -4972,7 +5002,7 @@
             "description": "<p>La force considérable de vos coups brise tout aussi bien les objets que les défenses. Faites une Frappe à mains nues. Elle ignore les résistances de la cible. Si la cible possède une Solidité, on considère que sa valeur est réduite de moitié en ce qui concerne cette Frappe.</p>"
         },
         {
-            "id": "Knight Vigilant",
+            "id": "Knight Vigilant Dedication",
             "name": "Chevalier vigilant",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> qualifié en Religion, n'importe que alignement Bon, membre des Chevaliers de Dernier Rempart<br></span></p>\n<hr>\n<p>Vous êtes dévoué à la cause des Sentinelles étincelantes. Vous devenez expert dans la compétence <a href=\"https://2e.aonprd.com/Skills.aspx?ID=13\">Religion</a>. Lorsque vous êtes placé entre un allié et un ennemi et que vous pourriez procurer un abri partiel à votre allié contre les attaques de cet adversaire, vous vous contorsionnez de manière à devenir encore plus gênant, lui procurant un abri normal à la place.<br><br><strong>Spécial</strong>  Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype Chevalier Vigilant.&nbsp;</p>"
         },
@@ -5852,6 +5882,11 @@
             "description": "<p><strong>Prérequis</strong> Élixir étendu</p>\n<hr>\n<p>Vous vous êtes entraîné à stabiliser votre forme physique dans un état altéré. Une fois par jour, quand vous consommez un objet alchimique et qui possède les traits imprégné et mutagène, vous pouvez conserver ses effets jusqu’à vos préparatifs quotidiens suivants au lieu du terme de sa durée normale.</p>"
         },
         {
+            "id": "Empathetic Plea",
+            "name": "Supplique empathique",
+            "description": "<p><strong>Prérequis </strong>qualifié en Diplomatie</p>\n<p><strong>Déclencheur</strong> Vous êtes attaqué par une créature contre laquelle vous ne vous êtes pas encore montré hostile. Vous devez utiliser cette réaction avant que la créature ne fasse son attaque.</p>\n<hr>\n<p>La manière dont vous vous êtes entraîné à vous tasser ou à faire les yeux doux provoque une réponse empathique de la part de votre agresseur. Faites un test de Diplomatie contre le DD de Volonté de l'agresseur.</p>\n<p><strong>Succès critique</strong> La créature retient sont attaque , gâchant cette action et ne peut utiliser d'action hostile à votre encontre  jusqu'au début de son prochain tour.</p>\n<p><strong>Succès</strong> La créature subit une pénalité de circonstance de –2 aux dégâts de l'attaque qui l'a déclenchée et à toutes les Frappes contre vous jusq'au début de son prochain tour. La pénalité est de –4 si vous êtes un expert en Diplomatie, de –6 si vous êtes un maître et de –8 si vous êtes légendaire.</p>\n<p><strong>Échec</strong> L'attaque de la créature n'est pas affectée et la créature est temporairement immunisée à votre supplique empathique pendant 24 heures.</p>"
+        },
+        {
             "id": "Halcyon Speaker Dedication",
             "name": "Dévouement de l'Orateur paisible",
             "description": "<div><strong>Archétype </strong>@Compendium[pf2e.archetypes.Qsmzm6w1ZNpHX7GD]{Orateur paisible}</div>\n<div><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement du Gardien de Magaambya, membre de l'Académie de Magaambya avec un rang de maître<br></span></div>\n<hr>\n<p>Vous consacrez une grande part de vos études à la magie paisible (halcyon). Vous obtenez l'accès à deux tours de magie communs paisibles (Halcyon) et à deux sorts halcyon de 1er niveau. En plus d'être capable de lancer vos sorts halcyon spells par le biais de vos emplacements de sorts arcaniques ou primordiaux, vous obtenez un emplacement de sort paisible de 1er niveau. Vous pouvez utiliser vos emplacement de sorts (paisibles) pour lancer de manière spontanée vos sorts paisibles.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'orateur paisible.&nbsp;</p>"
@@ -5985,6 +6020,11 @@
             "id": "Incredible Investiture",
             "name": "Investiture extraordinaire",
             "description": "<p><strong>Prérequis</strong> Charisme 16</p>\n<hr>\n<p>Vous avez une incroyable capacité à investir plus d’objets magiques. Augmentez la limite d’objets investis de 10 à 12.</p>"
+        },
+        {
+            "id": "Fiendish Lore",
+            "name": "Connaissance des fiélons",
+            "description": "<p>Vous avez été élevé par un fiélon ou un connaisseur de fiélon ou vous vous êtes dévoué à la recherche des secrets des royaumes fiélons.</p>\n<p>Vous êtes qualifié en Intimidation et en Religion. Si vous devriez automatiquement être qualifié en une de ces compétences (par le biais de votre historique ou de votre classe, par example), vous êtes qualifié dans une compétence de votre choix.</p>\n<p>Vous êtes aussi qulifié dans une Connaissance en liens avec le plan d'où provient votre lignage (habituellement Connaissance de l'Abaddon, Connaissance des Abysses ou Connaissance des Enfers).</p>"
         },
         {
             "id": "Arcane Tattoos",

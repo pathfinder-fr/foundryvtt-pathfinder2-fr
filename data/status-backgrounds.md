@@ -1,20 +1,18 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 56
- * **aucune**: 87
+ * **libre**: 58
  * **officielle**: 2
  * **changé**: 42
+ * **aucune**: 85
 
 
-Dernière mise à jour: 2020-08-11 19:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-19 19:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[1bd25sY8k1moRcca.htm](backgrounds/1bd25sY8k1moRcca.htm)|Root Worker|
-|[76WshSVCoyTq3SRF.htm](backgrounds/76WshSVCoyTq3SRF.htm)|Cultist|
 |[8YFofTyVgpmNQpbz.htm](backgrounds/8YFofTyVgpmNQpbz.htm)|Ward|
 |[Axidv6oBgolUazAt.htm](backgrounds/Axidv6oBgolUazAt.htm)|Pilgrim|
 |[BvtKgDDIKsue17uU.htm](backgrounds/BvtKgDDIKsue17uU.htm)|Haunted|
@@ -107,6 +105,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[0EIhRniun8jfdPeN.htm](backgrounds/0EIhRniun8jfdPeN.htm)|Rostland Partisan|Partisan du Rost|libre|
 |[0qrZaukJ0aIoPx3P.htm](backgrounds/0qrZaukJ0aIoPx3P.htm)|Iolite Trainee Hobgoblin|Recrue iolite|libre|
+|[1bd25sY8k1moRcca.htm](backgrounds/1bd25sY8k1moRcca.htm)|Root Worker|Chasseur de racines|libre|
 |[1zyrJ5dQPKedoSfP.htm](backgrounds/1zyrJ5dQPKedoSfP.htm)|Razmiran Faithful|Croyant du Razmir|libre|
 |[2PfqXmTTdwWAJNoc.htm](backgrounds/2PfqXmTTdwWAJNoc.htm)|Diobel Pearl Diver|Pêcheur de perles de Diobel|libre|
 |[3ljseFp6UbDGmCNn.htm](backgrounds/3ljseFp6UbDGmCNn.htm)|Emancipated|Émancipé|officielle|
@@ -120,6 +119,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[5vym5sPIxlDEEjGc.htm](backgrounds/5vym5sPIxlDEEjGc.htm)|Guard|Garde|changé|
 |[64WHEiUYl5Bp9Rmo.htm](backgrounds/64WHEiUYl5Bp9Rmo.htm)|Artist|Artiste|changé|
 |[6gFzKv1eBQJ1xaH9.htm](backgrounds/6gFzKv1eBQJ1xaH9.htm)|Winter's Child|Enfant de l'Hiver|libre|
+|[76WshSVCoyTq3SRF.htm](backgrounds/76WshSVCoyTq3SRF.htm)|Cultist|Cultiste|libre|
 |[7MKHFbZitRzTwiP0.htm](backgrounds/7MKHFbZitRzTwiP0.htm)|Dreamer of the Verdant Moon|Rêveur de la lune verdoyante|libre|
 |[7woKMTCFU4NC06l5.htm](backgrounds/7woKMTCFU4NC06l5.htm)|Aiudara Seeker|Chercheur d'aiudara|libre|
 |[8MoCaPm2wHF3r1yt.htm](backgrounds/8MoCaPm2wHF3r1yt.htm)|Trade Consortium Underling|Subalterne de consortium marchand|libre|
@@ -163,7 +163,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[gGHi0N5bZNbGbxB4.htm](backgrounds/gGHi0N5bZNbGbxB4.htm)|Teamster|Conducteur d'attelages|libre|
 |[Gj9PhLYrZCQxvuwh.htm](backgrounds/Gj9PhLYrZCQxvuwh.htm)|Perfection Seeker|À la recherche de la Perfection|libre|
 |[gpB6yH1lvLiU03eJ.htm](backgrounds/gpB6yH1lvLiU03eJ.htm)|Early Explorer|Explorateur précoce|libre|
-|[gRh3Scs2RvtJM8wq.htm](backgrounds/gRh3Scs2RvtJM8wq.htm)|Undercover Lotus Guard|Garde Lotus sous couverture|libre|
+|[gRh3Scs2RvtJM8wq.htm](backgrounds/gRh3Scs2RvtJM8wq.htm)|Undercover Lotus Guard|Garde Lotus infiltré|libre|
 |[gxl5BXQ6LPfMnC6o.htm](backgrounds/gxl5BXQ6LPfMnC6o.htm)|Truth Seeker|En quête de vérité|changé|
 |[H1tJhj6ZbkLxmK8a.htm](backgrounds/H1tJhj6ZbkLxmK8a.htm)|Rivethun Adherent|Adhérent du Rivethun|libre|
 |[H1yku00yjYxnNU3p.htm](backgrounds/H1yku00yjYxnNU3p.htm)|Aspiring Free Captain|Aspirant capitaine libre|libre|

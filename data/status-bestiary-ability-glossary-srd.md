@@ -1,10 +1,10 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
- * **officielle**: 40
- * **libre**: 2
+ * **officielle**: 39
+ * **libre**: 3
 
 
-Dernière mise à jour: 2020-08-11 19:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-19 19:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -28,7 +28,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HBrBrUzjfvj2gDXB.htm](bestiary-ability-glossary-srd/HBrBrUzjfvj2gDXB.htm)|Aquatic Ambush|Embuscade aquatique|officielle|
 |[hFtNbo1LKYCoDy2O.htm](bestiary-ability-glossary-srd/hFtNbo1LKYCoDy2O.htm)|Attack of Opportunity|Attaque d'opportunité|officielle|
 |[I0HYG0ctCLP5JRsW.htm](bestiary-ability-glossary-srd/I0HYG0ctCLP5JRsW.htm)|Light Blindness|Aveuglé par la lumière|officielle|
-|[i18TlebMzwONyPhI.htm](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Inproved Grab|Improved grab|officielle|
+|[i18TlebMzwONyPhI.htm](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Inproved Grab|Empoignade/agrippement amélioré|officielle|
 |[IQtb58p4EaeUzTN1.htm](bestiary-ability-glossary-srd/IQtb58p4EaeUzTN1.htm)|Retributive Strike|Frappe punitive|officielle|
 |[j2wsK6IsW5yMW1jW.htm](bestiary-ability-glossary-srd/j2wsK6IsW5yMW1jW.htm)|Tremorsense|Perception des vibrations|officielle|
 |[kakyXBG5WA8c6Zfd.htm](bestiary-ability-glossary-srd/kakyXBG5WA8c6Zfd.htm)|Constant Spells|Sorts constants|officielle|
@@ -44,7 +44,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rqfnQ5VHT5hxm25r.htm](bestiary-ability-glossary-srd/rqfnQ5VHT5hxm25r.htm)|Scent|Odorat|officielle|
 |[sebk9XseMCRkDqRg.htm](bestiary-ability-glossary-srd/sebk9XseMCRkDqRg.htm)|Lifesense|Sens de la vie|officielle|
 |[t6cx9FOODmeZQNYl.htm](bestiary-ability-glossary-srd/t6cx9FOODmeZQNYl.htm)|Push|Bousculade|officielle|
-|[Tkd8sH4pwFIPzqTr.htm](bestiary-ability-glossary-srd/Tkd8sH4pwFIPzqTr.htm)|Grab|Empoignade|officielle|
+|[Tkd8sH4pwFIPzqTr.htm](bestiary-ability-glossary-srd/Tkd8sH4pwFIPzqTr.htm)|Grab|Empoignade/agrippement|libre|
 |[TTCw5NusiSSkJU1x.htm](bestiary-ability-glossary-srd/TTCw5NusiSSkJU1x.htm)|Negative Healing|Soins négatifs|libre|
 |[uG0Z8PsyZtsYuvGR.htm](bestiary-ability-glossary-srd/uG0Z8PsyZtsYuvGR.htm)|Catch Rock|Interception de rochers|officielle|
 |[uJSseLa57HZYSMUu.htm](bestiary-ability-glossary-srd/uJSseLa57HZYSMUu.htm)|Swallow Whole|Gober|officielle|

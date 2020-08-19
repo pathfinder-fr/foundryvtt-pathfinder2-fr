@@ -1,9 +1,9 @@
 # État de la traduction (archetypes)
 
- * **aucune**: 71
+ * **aucune**: 72
 
 
-Dernière mise à jour: 2020-08-11 19:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-19 19:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -22,6 +22,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[7BNWl18efHJ93hke.htm](archetypes/7BNWl18efHJ93hke.htm)|Assassin|
 |[8vuL2hCPrcG2duLt.htm](archetypes/8vuL2hCPrcG2duLt.htm)|Juggler|
 |[akmaoP0StWvIv3jb.htm](archetypes/akmaoP0StWvIv3jb.htm)|Oracle|
+|[bDP7kO6bnQh6no0C.htm](archetypes/bDP7kO6bnQh6no0C.htm)|Bright Lion|
 |[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|
 |[Bl0KM29OOlwBegCi.htm](archetypes/Bl0KM29OOlwBegCi.htm)|Familiar Master|
 |[Buptz08MArCtY41w.htm](archetypes/Buptz08MArCtY41w.htm)|Investigator|
