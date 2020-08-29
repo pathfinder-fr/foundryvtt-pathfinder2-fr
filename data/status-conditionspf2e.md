@@ -1,11 +1,11 @@
 # État de la traduction (conditionspf2e)
 
- * **libre**: 7
- * **officielle**: 28
- * **changé**: 7
+ * **libre**: 9
+ * **officielle**: 31
+ * **changé**: 2
 
 
-Dernière mise à jour: 2020-08-19 19:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-29 17:47 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -15,7 +15,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[1wQY3JYyhMYeeV2G.htm](conditionspf2e/1wQY3JYyhMYeeV2G.htm)|Observed|Observé|libre|
 |[3uh1r86TzbQvosxv.htm](conditionspf2e/3uh1r86TzbQvosxv.htm)|Doomed|Condamné|officielle|
 |[4D2KBtexWXa6oUMR.htm](conditionspf2e/4D2KBtexWXa6oUMR.htm)|Drained|Drainé|officielle|
-|[6dNUvdb1dhToNDj3.htm](conditionspf2e/6dNUvdb1dhToNDj3.htm)|Broken|brisé|officielle|
+|[6dNUvdb1dhToNDj3.htm](conditionspf2e/6dNUvdb1dhToNDj3.htm)|Broken|Brisé|officielle|
 |[6uEgoh53GbXuHpTF.htm](conditionspf2e/6uEgoh53GbXuHpTF.htm)|Paralyzed|Paralysé|officielle|
 |[9evPzg9E6muFcoSk.htm](conditionspf2e/9evPzg9E6muFcoSk.htm)|Unnoticed|Inaperçu|officielle|
 |[9PR9y0bi4JPKnHPR.htm](conditionspf2e/9PR9y0bi4JPKnHPR.htm)|Deafened|Sourd|officielle|
@@ -34,7 +34,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HL2l2VRSaQHu9lUw.htm](conditionspf2e/HL2l2VRSaQHu9lUw.htm)|Fatigued|Fatigué|officielle|
 |[I1ffBVISxLr2gC4u.htm](conditionspf2e/I1ffBVISxLr2gC4u.htm)|Unfriendly|Inamical|officielle|
 |[i3OJZU2nk64Df3xm.htm](conditionspf2e/i3OJZU2nk64Df3xm.htm)|Clumsy|Maladroit|officielle|
-|[iU0fEDdBp3rXpTMC.htm](conditionspf2e/iU0fEDdBp3rXpTMC.htm)|Hidden|caché|officielle|
+|[iU0fEDdBp3rXpTMC.htm](conditionspf2e/iU0fEDdBp3rXpTMC.htm)|Hidden|Caché|officielle|
 |[j91X7x0XSomq8d60.htm](conditionspf2e/j91X7x0XSomq8d60.htm)|Prone|À terre|officielle|
 |[kWc1fhmv9LBiTuei.htm](conditionspf2e/kWc1fhmv9LBiTuei.htm)|Grabbed|Agrippé/empoigné|libre|
 |[lDVqvLKA6eF3Df60.htm](conditionspf2e/lDVqvLKA6eF3Df60.htm)|Persistent Damage|Dégâts persistants|officielle|
@@ -47,10 +47,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[v44P3WUcU1j0115l.htm](conditionspf2e/v44P3WUcU1j0115l.htm)|Helpful|Serviable|libre|
 |[v66R7FdOf11l94im.htm](conditionspf2e/v66R7FdOf11l94im.htm)|Friendly|Amical|libre|
 |[VcDeM8A5oI6VqhbM.htm](conditionspf2e/VcDeM8A5oI6VqhbM.htm)|Restrained|Entravé|libre|
-|[VRSef5y1LmL2Hkjf.htm](conditionspf2e/VRSef5y1LmL2Hkjf.htm)|Undetected|Non détecté|changé|
-|[XgEqL1kFApUbl5Z2.htm](conditionspf2e/XgEqL1kFApUbl5Z2.htm)|Blinded|aveuglé|changé|
-|[xYTAsEpcJE1Ccni3.htm](conditionspf2e/xYTAsEpcJE1Ccni3.htm)|Slowed|Ralenti|changé|
-|[yblD8fOR1J8rDwEQ.htm](conditionspf2e/yblD8fOR1J8rDwEQ.htm)|Confused|confus|changé|
-|[Yl48xTdMh3aeQYL2.htm](conditionspf2e/Yl48xTdMh3aeQYL2.htm)|Wounded|blessé|changé|
+|[VRSef5y1LmL2Hkjf.htm](conditionspf2e/VRSef5y1LmL2Hkjf.htm)|Undetected|Non détecté|officielle|
+|[XgEqL1kFApUbl5Z2.htm](conditionspf2e/XgEqL1kFApUbl5Z2.htm)|Blinded|Aveuglé|officielle|
+|[xYTAsEpcJE1Ccni3.htm](conditionspf2e/xYTAsEpcJE1Ccni3.htm)|Slowed|Ralenti|libre|
+|[yblD8fOR1J8rDwEQ.htm](conditionspf2e/yblD8fOR1J8rDwEQ.htm)|Confused|Confus|officielle|
+|[Yl48xTdMh3aeQYL2.htm](conditionspf2e/Yl48xTdMh3aeQYL2.htm)|Wounded|Blessé|libre|
 |[yZRUzMqrMmfLu0V1.htm](conditionspf2e/yZRUzMqrMmfLu0V1.htm)|Dying|Mourant|changé|
 |[zJxUflt9np0q4yML.htm](conditionspf2e/zJxUflt9np0q4yML.htm)|Invisible|Invisible|changé|

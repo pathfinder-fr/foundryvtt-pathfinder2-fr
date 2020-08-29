@@ -332,6 +332,11 @@
             "description": "<p><strong>Prérequis</strong> Dévouement de l'alchimiste</p>\n<hr>\n<p>Vous gagnez l'action Alchimie rapide (page 72).</p>"
         },
         {
+            "id": "Express Rider",
+            "name": "Express Rider (Chevaucheur rapide)",
+            "description": "<p><strong>Prérequis </strong>qualifié en Nature</p>\n<hr>\n<p>Vous savez comment encourager votre monture à parcourir des distances rapidement.</p>\n<p>Lorsque vous calculez votre vitesse de voyage pendant la journée à dos de cheval, vous pouvez tenter un test de  Nature pour @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Diriger un animal} pour augmenter la vitesse de déplacement de votre monture. Le DD est déterminé par le MJ mais il est typiquement fonction du niveau de la monture ou de la difficulté de l'environnement, le plus difficile des deux.</p>\n<p>Sur un succès, augmentez la vitesse de déplacement de votre monture de moitié. Cela n'a pas d'effet sur la vitesse de votre monture lors des rencontres.</p>"
+        },
+        {
             "id": "Perfect Ki Adept",
             "name": "Perfect Ki Adept (Adepte parfait du ki)",
             "description": "<div><strong>Archétype </strong>@Compendium[pf2e.archetypes.JiRqSMv1STETLwSP]{Étudiant de la Perfection}</div>\n<div><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement d'Étudiant de la perfection<br></span></div>\n<hr>\n<p>Vous obtenez le sort de ki de votre École de la Perfection: @Compendium[pf2e.spells-srd.VBNevVovTCpn04vL]{révélation de la flamme immobile} pour celle de la Flamme immobile, @Compendium[pf2e.spells-srd.ytboJsyZEbE1MLeV]{avancée de la vague incassable} pour celle des Vagues incassables, @Compendium[pf2e.spells-srd.tvO6Kmc2pQve9DC5]{ruée du vent déroulé} pour celle du Vent déroulé ou @Compendium[pf2e.spells-srd.FPnkOYyWIaOzkmqn]{empreinte du fer impliable} pour celle du Fer impliable. Augmentez le nombre de Points de focalisation de votre réserve de 1.&nbsp;</p>"
@@ -2404,7 +2409,7 @@
         {
             "id": "Elven Verve",
             "name": "Elven Verve (Verve elfique)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Alors que tous les elfes sont immunisés au contact paralysant des <a href=\"https://2e.aonprd.com/MonsterFamilies.aspx?ID=52\">goules</a>, vous pouvez vous débarrasser de toutes les sortes d'effets de la magie engourdissant la chair . Vous obtenez un bonus de circonstance de +1 aux jets contre les effets qui devraient vous imposer la condition <a href=\"https://2e.aonprd.com/Conditions.aspx?ID=24\">immobilisé</a>, <a href=\"https://2e.aonprd.com/Conditions.aspx?ID=28\">paralysé</a> ou <a href=\"https://2e.aonprd.com/Conditions.aspx?ID=35\">ralenti</a>. Lorsque vous devriez être immobilisé, paralysé ou ralenti pendant au moins 2 rounds, vous réduisez cette durée de 1 round.&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Alors que tous les elfes sont immunisés au contact paralysant des goules, vous pouvez vous débarrasser de toutes les sortes d'effets magiques engourdissant la chair. Vous obtenez un bonus de circonstance de +1 aux jets contre les effets qui devraient vous imposer la condition @Compendium[pf2e.conditionspf2e.eIcWbB5o3pP6OIMe]{Immobilisé}, @Compendium[pf2e.conditionspf2e.6uEgoh53GbXuHpTF]{Paralysé} ou @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{Ralenti}. Lorsque vous devriez être Immobilisé, Paralysé ou Ralenti pendant au moins 2 rounds, vous réduisez cette durée de 1 round.&nbsp;</span></p>"
         },
         {
             "id": "Double Prey",
@@ -2419,7 +2424,7 @@
         {
             "id": "Desperate Finisher",
             "name": "Desperate Finisher (Coup de grâce désespéré)",
-            "description": "<p><strong>Déclencheur</strong> Vous achevez la dernière action de votre tour mais celui‑ci n’est pas encore terminé.</p>\n<p><strong>Conditions</strong> Vous remplissez les conditions pour utiliser une action avec le trait persévérer.</p>\n<hr>\n<p>Vous consacrez toute votre énergie dans une dernière manœuvre persévérante. Faites une action unique dans le cadre du Coup de grâce désespéré. Cette action doit avoir le trait persévérer et vous devez savoir la faire. Vous renoncez à effectuer des réactions jusqu’au début de votre prochain tour.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous achevez la dernière action de votre tour mais celui‑ci n’est pas encore terminé.</p>\n<p><strong>Conditions</strong> Vous remplissez les conditions pour utiliser une action avec le trait persévérer.</p>\n<hr>\n<p>Vous donnez tout pour pouvoir enchaîner une dernière manœuvre. Faites une action unique dans le cadre du Coup de grâce désespéré. Cette action doit avoir le trait persévérer et vous devez savoir la faire. Vous renoncez à effectuer des réactions jusqu’au début de votre prochain tour.</p>"
         },
         {
             "id": "Heroes' Call",
@@ -4164,7 +4169,7 @@
         {
             "id": "Fang Sharpener",
             "name": "Fang Sharpener (Aiguiseur de crocs)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> héritage gobelin boyaud'fer ou gobelin dentd'rasoir<br></span></p>\n<hr>\n<p>Vous avez effilé vos dents en forme de pointes acérées et possédez une mâchoire  inhabituellement puissante, faisant de votre bouche une arme dangereuse. Si vous êtes un gobelin boyaud'fer, vous obtenez une attaque à mains nues de mâchoire qui inflige 1d4 dégâts perforants et si vous êtes un gobelin dentd'rasoir, votre attaque à mains nues de mâchoire inflige 1d8 dégâts perforants et perd le trait finesse. Lorsque vous obtenez un coup critique avec votre attaque à mains nues de mâchoire, votre cible subit 1 dégâts de saingement <a href=\"https://2e.aonprd.com/Conditions.aspx?ID=29\">persistant</a> par dé de dégât de l'arme.&nbsp;</p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> héritage gobelin boyaud'fer ou gobelin dentd'rasoir<br></span></p>\n<hr>\n<p>Vous avez effilé vos dents en forme de pointes acérées et possédez une mâchoire inhabituellement puissante, faisant de votre bouche une arme dangereuse. Si vous êtes un gobelin boyaud'fer, vous obtenez une attaque à mains nues de mâchoire qui inflige 1d4 dégâts perforants et si vous êtes un gobelin dentd'rasoir, votre attaque à mains nues de mâchoire inflige 1d8 dégâts perforants et perd le trait finesse. Lorsque vous obtenez un coup critique avec votre attaque à mains nues de mâchoire, votre cible subit 1 dégâts de saignement @Compendium[pf2e.conditionspf2e.lDVqvLKA6eF3Df60]{persistant} par dé de dégât de l'arme.&nbsp;</p>"
         },
         {
             "id": "Quick Juggler",
@@ -4694,7 +4699,7 @@
         {
             "id": "Esteemed Visitor",
             "name": "Esteemed Visitor (Visiteur estimé)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos manières policées et votre capacité naturelle à mettre à l'aisee les autres vous rend plus simple de faire tomber les barrières culturelles et gagner la confiance des étrangers. Lorsque vous êtes dans une communauté, lorque vous obtenez un échec critique sur un test de <a href=\"https://2e.aonprd.com/Skills.aspx?ID=6\">Diplomatie</a> pour <a href=\"https://2e.aonprd.com/Actions.aspx?ID=49\">Recueillir des informations</a> ou <a href=\"https://2e.aonprd.com/Actions.aspx?ID=50\">Faire Impression</a>, vous obtenez un échec à la place.&nbsp;</span></p>"
+            "description": "<p>Vos manières policées et votre capacité naturelle à mettre à l'aisee les autres vous rend plus simple de faire tomber les barrières culturelles et gagner la confiance des étrangers. Lorsque vous êtes dans une communauté, lorque vous obtenez un échec critique sur un test de @Compendium[pf2e.actionspf2e.plBGdZhqq5JBl1D8]{Recueillir des informations} ou @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression}, vous obtenez un échec à la place.&nbsp;</p>"
         },
         {
             "id": "Trickster's Ace",
@@ -5469,7 +5474,7 @@
         {
             "id": "Avenge in Glory",
             "name": "Avenge in Glory (Revanche dans la gloire)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fréquence</strong> Une fois par jour<br><strong>Access</strong> ethnie nain des montagnes<br><strong>Déclencheur</strong> Un allié dans les 9 m obtient la condition <a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Conditions.aspx?ID=11\">mourant</a>.<br></span></p>\n<hr>\n<p>Vous honorez le sacrifice de votre allié, en obtenant des points de vie temporaires en nombre égal à votre niveau pendant 1 minute. tant que vous les conservez, vous obtenez un bonus de circonstance de +1 à vos jets d'attaque et de dégâts.&nbsp;</p>"
+            "description": "<p><strong>Fréquence</strong> Une fois par jour<br><strong>Accès</strong> ethnie nain des montagnes<br><strong>Déclencheur</strong> Un allié dans les 9 m est affecté par la condition @Compendium[pf2e.conditionspf2e.yZRUzMqrMmfLu0V1]{Mourant}.<br></p>\n<hr>\n<p>Vous honorez le sacrifice de votre allié, en obtenant des points de vie temporaires en nombre égal à votre niveau pendant 1 minute. tant que vous les conservez, vous obtenez un bonus de circonstance de +1 à vos jets d'attaque et de dégâts.&nbsp;</p>"
         },
         {
             "id": "Shadow Pact",
@@ -6029,7 +6034,7 @@
         {
             "id": "Arcane Tattoos",
             "name": "Arcane Tattoos (Tatouages arcaniques)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> ethnie Varisienne ou originaire du Nouveau Thassilon<br></span></p>\n<hr>\n<p>Vous avez des tatouages sur le corps correspondant à une des anciennes écoles Thassiloniennes de magie. Choisissez une des écoles de magie suivantes : abjuration (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=280\"><em>bouclier</em></a>), invocation (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=330\"><em>entrave</em></a>), enchantement (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=61\"><em>hébétement</em></a>), évocation (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=97\"><em>arc électrique</em></a>), illusion (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=132\"><em>son imaginaire</em></a>), nécromancie (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=35\"><em>contact glacial</em></a>) ou transmutation (<a href=\"https://2e.aonprd.com/Spells.aspx?ID=286\"><em>symbole</em></a>). Vous pouvez lancer le tour de magie associé (listé entre parenthèses) comme un sort arcanique inné à volonté.&nbsp;&nbsp;</p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> ethnie Varisienne ou originaire du Nouveau Thassilon<br></span></p>\n<hr>\n<p>Vous avez des tatouages sur le corps correspondant à une des anciennes écoles Thassiloniennes de magie. Choisissez une des écoles de magie suivantes : abjuration (@Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{bouclier}), invocation (@Compendium[pf2e.spells-srd.uZK2BYzPnxUBnDjr]{entrave}), enchantement (@Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{hébétement}), évocation (@Compendium[pf2e.spells-srd.kBhaPuzLUSwS6vVf]{arc électrique}), illusion (@Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{son imaginaire}), nécromancie (@Compendium[pf2e.spells-srd.mAMEt4FFbdqoRnkN]{contact glacial}) ou transmutation (@Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]{symbole}). Vous pouvez lancer le tour de magie associé (listé entre parenthèses) comme un sort arcanique inné à volonté.&nbsp;&nbsp;</p>"
         },
         {
             "id": "Ultimate Mercy",

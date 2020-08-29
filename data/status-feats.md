@@ -1,12 +1,12 @@
 # État de la traduction (feats)
 
- * **libre**: 327
- * **officielle**: 802
- * **changé**: 118
- * **aucune**: 874
+ * **libre**: 333
+ * **officielle**: 801
+ * **changé**: 114
+ * **aucune**: 873
 
 
-Dernière mise à jour: 2020-08-19 19:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-29 17:47 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -832,7 +832,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-01-BqceQIKE0lwIS98s.htm](feats/skill-01-BqceQIKE0lwIS98s.htm)|Pilgrim’s Token|
 |[skill-01-f0faBEUPtspdutKx.htm](feats/skill-01-f0faBEUPtspdutKx.htm)|Acrobatic Performer|
 |[skill-01-f4HG7vKj4WGxlqG2.htm](feats/skill-01-f4HG7vKj4WGxlqG2.htm)|Battle Medicine (Forensic Medicine)|
-|[skill-01-gArdEleFCvUHtdGk.htm](feats/skill-01-gArdEleFCvUHtdGk.htm)|Express Rider|
 |[skill-01-Lc4dJZivRwU3QEmT.htm](feats/skill-01-Lc4dJZivRwU3QEmT.htm)|Armor Assist|
 |[skill-01-r7cgrrHh75R8UEqN.htm](feats/skill-01-r7cgrrHh75R8UEqN.htm)|Deceptive Worship|
 |[skill-01-sMCpihnBEpx18GBD.htm](feats/skill-01-sMCpihnBEpx18GBD.htm)|Inoculation|
@@ -945,7 +944,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-01-E1sjYRb4zsZVrzrN.htm](feats/ancestry-01-E1sjYRb4zsZVrzrN.htm)|Innocuous|Inoffensif|libre|
 |[ancestry-01-ecJms2jtd6cZ5rQK.htm](feats/ancestry-01-ecJms2jtd6cZ5rQK.htm)|Round Ears|Oreilles arrondies|libre|
 |[ancestry-01-eCWQU16hRLfN1KaX.htm](feats/ancestry-01-eCWQU16hRLfN1KaX.htm)|Ancestral Linguistics|Linguistique ancestrale|libre|
-|[ancestry-01-eD3KZJV8ACLt2xns.htm](feats/ancestry-01-eD3KZJV8ACLt2xns.htm)|Elven Verve|Verve elfique|changé|
+|[ancestry-01-eD3KZJV8ACLt2xns.htm](feats/ancestry-01-eD3KZJV8ACLt2xns.htm)|Elven Verve|Verve elfique|libre|
 |[ancestry-01-ED58GzldWb82yc2q.htm](feats/ancestry-01-ED58GzldWb82yc2q.htm)|Animal Accomplice|Complice animal|officielle|
 |[ancestry-01-EFhh3AenX7wtAmrs.htm](feats/ancestry-01-EFhh3AenX7wtAmrs.htm)|Orc Superstition|Superstition Orque|officielle|
 |[ancestry-01-ehvHedIwPcxq9cRt.htm](feats/ancestry-01-ehvHedIwPcxq9cRt.htm)|Sure Feet|Pied assuré|officielle|
@@ -955,17 +954,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-01-EXVHePH8alsTZ5TB.htm](feats/ancestry-01-EXVHePH8alsTZ5TB.htm)|Hellspawn|rejeton infernal|libre|
 |[ancestry-01-Ffi8L4EDO5OH5tpA.htm](feats/ancestry-01-Ffi8L4EDO5OH5tpA.htm)|Nimble Hooves|Sabots agiles|libre|
 |[ancestry-01-FhCsnHjdIUyKteCM.htm](feats/ancestry-01-FhCsnHjdIUyKteCM.htm)|Lizardfolk Lore|Connaissance des hommes-lézards|libre|
-|[ancestry-01-FnGOkNyLF4w3FyqZ.htm](feats/ancestry-01-FnGOkNyLF4w3FyqZ.htm)|Fang Sharpener|Aiguiseur de crocs|changé|
+|[ancestry-01-FnGOkNyLF4w3FyqZ.htm](feats/ancestry-01-FnGOkNyLF4w3FyqZ.htm)|Fang Sharpener|Aiguiseur de crocs|libre|
 |[ancestry-01-FWCULKnVXhSPL0ST.htm](feats/ancestry-01-FWCULKnVXhSPL0ST.htm)|Fey Fellowship|Camaraderie féerique|officielle|
 |[ancestry-01-fYVFBnv9aVHv1UNg.htm](feats/ancestry-01-fYVFBnv9aVHv1UNg.htm)|Leshy Superstition|Superstition léchi|libre|
 |[ancestry-01-g388ImzpenYBoiEF.htm](feats/ancestry-01-g388ImzpenYBoiEF.htm)|City Scavenger|Charognard urbain|officielle|
 |[ancestry-01-g3oJlWGHc74qX2z5.htm](feats/ancestry-01-g3oJlWGHc74qX2z5.htm)|Lawbringer|Porteur de loi|libre|
 |[ancestry-01-G8WgbujrrnMQUQ8E.htm](feats/ancestry-01-G8WgbujrrnMQUQ8E.htm)|Share Thoughts|Partager les pensées|libre|
-|[ancestry-01-gC5EnlP38t1vTlWt.htm](feats/ancestry-01-gC5EnlP38t1vTlWt.htm)|Esteemed Visitor|Visiteur estimé|changé|
+|[ancestry-01-gC5EnlP38t1vTlWt.htm](feats/ancestry-01-gC5EnlP38t1vTlWt.htm)|Esteemed Visitor|Visiteur estimé|libre|
 |[ancestry-01-GEvaoKgQteMrd4ub.htm](feats/ancestry-01-GEvaoKgQteMrd4ub.htm)|Reptile Speaker|Locuteur reptilien|libre|
 |[ancestry-01-GF9kkULUYowgjEWM.htm](feats/ancestry-01-GF9kkULUYowgjEWM.htm)|Rough Rider|Cavalier farouche|officielle|
 |[ancestry-01-GjQZMmw2sz8OyLxj.htm](feats/ancestry-01-GjQZMmw2sz8OyLxj.htm)|Tengu Lore|Connaissance des Tengu|libre|
-|[ancestry-01-gKDRnsBPBdhJB0FI.htm](feats/ancestry-01-gKDRnsBPBdhJB0FI.htm)|Avenge in Glory|Revanche dans la gloire|changé|
+|[ancestry-01-gKDRnsBPBdhJB0FI.htm](feats/ancestry-01-gKDRnsBPBdhJB0FI.htm)|Avenge in Glory|Revanche dans la gloire|libre|
 |[ancestry-01-gxQheZ4xuDWwyzy4.htm](feats/ancestry-01-gxQheZ4xuDWwyzy4.htm)|Pitborn|Né de la fosse|libre|
 |[ancestry-01-GYdLf1LhvSUeu95Y.htm](feats/ancestry-01-GYdLf1LhvSUeu95Y.htm)|Harmlessly Cute|Inoffensivement mignon|libre|
 |[ancestry-01-hc4lWhWekIVb0wjL.htm](feats/ancestry-01-hc4lWhWekIVb0wjL.htm)|Pack Rat|Rat empaqueteur|libre|
@@ -1843,7 +1842,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-14-LmdOWCDffhBiyzM3.htm](feats/class-14-LmdOWCDffhBiyzM3.htm)|Soothing Ballad|Ballade apaisante|officielle|
 |[class-14-MFqFvuiYDAoADcft.htm](feats/class-14-MFqFvuiYDAoADcft.htm)|Giant's Lunge|Fente de géant|officielle|
 |[class-14-MwozkE6aj42WZ7Z1.htm](feats/class-14-MwozkE6aj42WZ7Z1.htm)|Stealthy Companion|Compagnon furtif|officielle|
-|[class-14-nvPxCUOCMaYdhLp1.htm](feats/class-14-nvPxCUOCMaYdhLp1.htm)|Desperate Finisher|Coup de grâce désespéré|officielle|
+|[class-14-nvPxCUOCMaYdhLp1.htm](feats/class-14-nvPxCUOCMaYdhLp1.htm)|Desperate Finisher|Coup de grâce désespéré|libre|
 |[class-14-orjVLLoziFTmf1mz.htm](feats/class-14-orjVLLoziFTmf1mz.htm)|Verdant Metamorphosis|Métamorphose verdoyante|officielle|
 |[class-14-QC2ecMZ57MRJlxco.htm](feats/class-14-QC2ecMZ57MRJlxco.htm)|Bonded Focus|Focalisateur lié|officielle|
 |[class-14-QpnZwabXOVICJL5i.htm](feats/class-14-QpnZwabXOVICJL5i.htm)|Greater Merciful Elixir|Élixir miséricordieux supérieur|officielle|
@@ -2032,6 +2031,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-01-d8AjCqU30z7IOpos.htm](feats/skill-01-d8AjCqU30z7IOpos.htm)|Ravening's Desperation|Énergie du désespoir|libre|
 |[skill-01-DMetdzt1VJL2Y62i.htm](feats/skill-01-DMetdzt1VJL2Y62i.htm)|Snare Crafting|Fabrication de pièges artisanaux|officielle|
 |[skill-01-Dvz54d6aPhjsmUux.htm](feats/skill-01-Dvz54d6aPhjsmUux.htm)|Lie To Me|Détecteur de mensonges|officielle|
+|[skill-01-gArdEleFCvUHtdGk.htm](feats/skill-01-gArdEleFCvUHtdGk.htm)|Express Rider|Chevaucheur rapide|libre|
 |[skill-01-gUqvezs2zzoTXFAI.htm](feats/skill-01-gUqvezs2zzoTXFAI.htm)|Group Coercion|Contraindre un groupe|officielle|
 |[skill-01-hDGosy2ZTwnyctEP.htm](feats/skill-01-hDGosy2ZTwnyctEP.htm)|Oddity Identification|Identification de bizarreries|officielle|
 |[skill-01-HEBXaS656MZTiWFu.htm](feats/skill-01-HEBXaS656MZTiWFu.htm)|Lengthy Diversion|Diversion interminable|officielle|

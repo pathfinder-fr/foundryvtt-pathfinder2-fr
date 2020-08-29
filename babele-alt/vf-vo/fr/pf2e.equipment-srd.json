@@ -859,7 +859,7 @@
         {
             "id": "Club",
             "name": "Gourdin (Club)",
-            "description": "<p><span class=\"fontstyle0\"> il s’agit d’un morceau de bois robuste façonné ou reconverti pour matraquer un ennemi. les gourdins peuvent être des pièces d’art martial finement sculptées ou être aussi simples qu’une branche d’arbre ou un morceau de bois. </span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\"><br></p>"
+            "description": "<p>Il s’agit d’un morceau de bois robuste façonné ou reconverti pour matraquer un ennemi. les gourdins peuvent être des pièces d’art martial finement sculptées ou être aussi simples qu’une branche d’arbre ou un morceau de bois.</p>"
         },
         {
             "id": "Lion's Shield",
@@ -4314,7 +4314,7 @@
         {
             "id": "Crossbow",
             "name": "Arbalète (Crossbow)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme à distance est faite de l’assemblage d’un arc monté sur un cadre à poignée appelé arbrier. L’arbrier possède un mécanisme pour bloquer la corde attachée à un mécanisme de déclenchement, qui relâche la tension et lâche un carreau..&nbsp;</span></p>"
+            "description": "<p><span>Cette arme à distance est faite de l’assemblage d’un arc monté sur un cadre à poignée appelé arbrier. L’arbrier possède un mécanisme pour bloquer la corde attachée à un mécanisme de déclenchement, qui relâche la tension et lâche un carreau..&nbsp;</span></p>"
         },
         {
             "id": "Citrine",

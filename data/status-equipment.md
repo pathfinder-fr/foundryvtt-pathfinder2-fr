@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 315
- * **changé**: 555
- * **aucune**: 532
- * **libre**: 188
+ * **officielle**: 316
+ * **changé**: 553
+ * **aucune**: 527
+ * **libre**: 189
 
 
-Dernière mise à jour: 2020-08-19 19:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-08-29 17:47 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -68,7 +68,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-jTfacZ4SRuQd7Avh.htm](equipment/consumable-01-jTfacZ4SRuQd7Avh.htm)|Potion of Expeditious Retreat|
 |[consumable-01-mbrwudO35tItsldq.htm](equipment/consumable-01-mbrwudO35tItsldq.htm)|Energy Mutagen (Lesser)|
 |[consumable-01-PNwgGnN081l0cETR.htm](equipment/consumable-01-PNwgGnN081l0cETR.htm)|Blood Sap|
-|[consumable-01-pq4wj6HQKajyCDDT.htm](equipment/consumable-01-pq4wj6HQKajyCDDT.htm)|Potion of Retalitation (Minor)|
 |[consumable-01-qnvq3PSTiejQTSi9.htm](equipment/consumable-01-qnvq3PSTiejQTSi9.htm)|Ghost Ink|
 |[consumable-01-SNMggNsvgPoAYjpU.htm](equipment/consumable-01-SNMggNsvgPoAYjpU.htm)|Addiction Suppressant (Lesser)|
 |[consumable-01-ugIxgGIkJh2aXE2N.htm](equipment/consumable-01-ugIxgGIkJh2aXE2N.htm)|Potion of Fire Retalitation (Minor)|
@@ -105,7 +104,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-03-omRmCbkQoK5YmCGv.htm](equipment/consumable-03-omRmCbkQoK5YmCGv.htm)|Potion of Acid Retalitation (Lesser)|
 |[consumable-03-pGnoCqFy0ESPbuGv.htm](equipment/consumable-03-pGnoCqFy0ESPbuGv.htm)|Aurifying Salts|
 |[consumable-03-R0gsYr0jD1giTzpx.htm](equipment/consumable-03-R0gsYr0jD1giTzpx.htm)|Olfactory Obfuscator (Lesser)|
-|[consumable-03-r1auSJC8aJVFOqto.htm](equipment/consumable-03-r1auSJC8aJVFOqto.htm)|Potion of Retalitation (Lesser)|
 |[consumable-03-rfyWXgrVD2lm91CC.htm](equipment/consumable-03-rfyWXgrVD2lm91CC.htm)|Blue Dragonfly Poison|
 |[consumable-03-SLJTJwyIRjuWjfuK.htm](equipment/consumable-03-SLJTJwyIRjuWjfuK.htm)|Energy Mutagen (Moderate)|
 |[consumable-03-TG4SnQCGOsgQfrE1.htm](equipment/consumable-03-TG4SnQCGOsgQfrE1.htm)|Potion of Electricity Retalitation (Lesser)|
@@ -140,7 +138,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-05-xAEbIQTNonVjCg38.htm](equipment/consumable-05-xAEbIQTNonVjCg38.htm)|Oily Button|
 |[consumable-05-Xnmx6SJ6OkJOfYxF.htm](equipment/consumable-05-Xnmx6SJ6OkJOfYxF.htm)|Freezing Ammunition|
 |[consumable-06-AgBIZtwciSsCZeNN.htm](equipment/consumable-06-AgBIZtwciSsCZeNN.htm)|Potion of Fire Retalitation (Moderate)|
-|[consumable-06-BArTKgoEJYzSAwFy.htm](equipment/consumable-06-BArTKgoEJYzSAwFy.htm)|Potion of Retalitation (Moderate)|
 |[consumable-06-cWYa0i1BqhbEruD6.htm](equipment/consumable-06-cWYa0i1BqhbEruD6.htm)|Addiction Suppressant (Moderate)|
 |[consumable-06-HilBL7oeSSXqDor7.htm](equipment/consumable-06-HilBL7oeSSXqDor7.htm)|Vaccine (Moderate)|
 |[consumable-06-M6pES1Nck1S6SWX9.htm](equipment/consumable-06-M6pES1Nck1S6SWX9.htm)|Potion of Cold Retalitation (Moderate)|
@@ -212,7 +209,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-12-RhOx5wenvlljzOku.htm](equipment/consumable-12-RhOx5wenvlljzOku.htm)|Oil of Unlife (Greater)|
 |[consumable-12-tW2rmGSanKQlUkiU.htm](equipment/consumable-12-tW2rmGSanKQlUkiU.htm)|Potion of Cold Retalitation (Greater)|
 |[consumable-12-vMs9n8oXlZttcJkX.htm](equipment/consumable-12-vMs9n8oXlZttcJkX.htm)|Focus Cathartic (Greater)|
-|[consumable-12-Xku744kZw9CzzVTr.htm](equipment/consumable-12-Xku744kZw9CzzVTr.htm)|Potion of Retalitation (Greater)|
 |[consumable-13-1YROvQsCdq8WFWRj.htm](equipment/consumable-13-1YROvQsCdq8WFWRj.htm)|Time Shield Potion|
 |[consumable-13-BxzwmwQ5O4fewa4w.htm](equipment/consumable-13-BxzwmwQ5O4fewa4w.htm)|Purple Worm Repellent|
 |[consumable-13-QImdOdyolrMWwuxD.htm](equipment/consumable-13-QImdOdyolrMWwuxD.htm)|Gorgon's Breath|
@@ -254,7 +250,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-18-TalLb1YlvXzutuPc.htm](equipment/consumable-18-TalLb1YlvXzutuPc.htm)|Potion of Fire Retalitation (Major)|
 |[consumable-18-vTEWlRBUD4VzVwxK.htm](equipment/consumable-18-vTEWlRBUD4VzVwxK.htm)|Applereed Mutagen (Greater)|
 |[consumable-18-YIgIF1845n5UBFnE.htm](equipment/consumable-18-YIgIF1845n5UBFnE.htm)|Sinew-Shock Serum (Major)|
-|[consumable-18-YRHpJeMQ6eDVHpK5.htm](equipment/consumable-18-YRHpJeMQ6eDVHpK5.htm)|Potion of Retalitation (Major)|
 |[consumable-19-5hGJ6CZi0A9OjMd4.htm](equipment/consumable-19-5hGJ6CZi0A9OjMd4.htm)|Oblivion Essence|
 |[consumable-19-9WenEIQrBV8POQU1.htm](equipment/consumable-19-9WenEIQrBV8POQU1.htm)|Panacea Fruit|
 |[consumable-19-gn5ITN5GILHKxGA4.htm](equipment/consumable-19-gn5ITN5GILHKxGA4.htm)|Ambrosia of Undying Hope|
@@ -1414,7 +1409,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-1U7Laa7Yt7i3G77L.htm](equipment/weapon-00-1U7Laa7Yt7i3G77L.htm)|Gnome Hooked Hammer|Marteau-piolet gnome|officielle|
 |[weapon-00-3Zv5hSXXtlaDatUv.htm](equipment/weapon-00-3Zv5hSXXtlaDatUv.htm)|Greatpick|Grand pic de guerre|officielle|
 |[weapon-00-5fu6dCtqhdBnHNqh.htm](equipment/weapon-00-5fu6dCtqhdBnHNqh.htm)|Morningstar|Morgenstern|officielle|
-|[weapon-00-62nnVQvGhoVLLl2K.htm](equipment/weapon-00-62nnVQvGhoVLLl2K.htm)|Crossbow|Arbalète|changé|
+|[weapon-00-62nnVQvGhoVLLl2K.htm](equipment/weapon-00-62nnVQvGhoVLLl2K.htm)|Crossbow|Arbalète|officielle|
 |[weapon-00-6I4YJAQUbTAqbpsI.htm](equipment/weapon-00-6I4YJAQUbTAqbpsI.htm)|Pick|Pic de guerre|officielle|
 |[weapon-00-6KWYmeRMxsQfWhhJ.htm](equipment/weapon-00-6KWYmeRMxsQfWhhJ.htm)|Bastard Sword|Épée bâtarde|officielle|
 |[weapon-00-6qJkA6fnHHiF4CEV.htm](equipment/weapon-00-6qJkA6fnHHiF4CEV.htm)|Tengu Gale Blade|Lame tempête Tengu|libre|
@@ -1423,7 +1418,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-8COlYvHe6hKCXY8x.htm](equipment/weapon-00-8COlYvHe6hKCXY8x.htm)|Greataxe|Grande hache|officielle|
 |[weapon-00-9iDqOLNFKxiTcFKE.htm](equipment/weapon-00-9iDqOLNFKxiTcFKE.htm)|Mace|Masse d'armes|officielle|
 |[weapon-00-aXuJh4i8HqSu6NYV.htm](equipment/weapon-00-aXuJh4i8HqSu6NYV.htm)|Longspear|Pique|officielle|
-|[weapon-00-c58wczIzH2gzeXQL.htm](equipment/weapon-00-c58wczIzH2gzeXQL.htm)|Club|Gourdin|changé|
+|[weapon-00-c58wczIzH2gzeXQL.htm](equipment/weapon-00-c58wczIzH2gzeXQL.htm)|Club|Gourdin|libre|
 |[weapon-00-CVTgOpNuRE7hsnc1.htm](equipment/weapon-00-CVTgOpNuRE7hsnc1.htm)|Filcher's Fork|Fourchette du chapardeur|changé|
 |[weapon-00-dfum7DpOEkwxwTsT.htm](equipment/weapon-00-dfum7DpOEkwxwTsT.htm)|Shield Boss|Ombon|officielle|
 |[weapon-00-dgWxsYm0DWHb27h6.htm](equipment/weapon-00-dgWxsYm0DWHb27h6.htm)|Halberd|Hallebarde|officielle|
