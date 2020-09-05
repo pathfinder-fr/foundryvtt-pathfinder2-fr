@@ -1,11 +1,10 @@
 # État de la traduction (conditionspf2e)
 
  * **libre**: 9
- * **officielle**: 31
- * **changé**: 2
+ * **officielle**: 33
 
 
-Dernière mise à jour: 2020-08-29 17:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-05 17:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -52,5 +51,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[xYTAsEpcJE1Ccni3.htm](conditionspf2e/xYTAsEpcJE1Ccni3.htm)|Slowed|Ralenti|libre|
 |[yblD8fOR1J8rDwEQ.htm](conditionspf2e/yblD8fOR1J8rDwEQ.htm)|Confused|Confus|officielle|
 |[Yl48xTdMh3aeQYL2.htm](conditionspf2e/Yl48xTdMh3aeQYL2.htm)|Wounded|Blessé|libre|
-|[yZRUzMqrMmfLu0V1.htm](conditionspf2e/yZRUzMqrMmfLu0V1.htm)|Dying|Mourant|changé|
-|[zJxUflt9np0q4yML.htm](conditionspf2e/zJxUflt9np0q4yML.htm)|Invisible|Invisible|changé|
+|[yZRUzMqrMmfLu0V1.htm](conditionspf2e/yZRUzMqrMmfLu0V1.htm)|Dying|Mourant|officielle|
+|[zJxUflt9np0q4yML.htm](conditionspf2e/zJxUflt9np0q4yML.htm)|Invisible|Invisible|officielle|

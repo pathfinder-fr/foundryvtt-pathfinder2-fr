@@ -1,9 +1,9 @@
 # État de la traduction (archetypes)
 
- * **aucune**: 72
+ * **aucune**: 74
 
 
-Dernière mise à jour: 2020-08-29 17:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-05 17:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -58,10 +58,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[OmEG0nhQgeKnAUsn.htm](archetypes/OmEG0nhQgeKnAUsn.htm)|Magic Warrior|
 |[pHTnfVHOzsgfZ9E2.htm](archetypes/pHTnfVHOzsgfZ9E2.htm)|Scout|
 |[PlPc4w1XG9VOpDgn.htm](archetypes/PlPc4w1XG9VOpDgn.htm)|Pirate|
+|[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|
 |[Qsmzm6w1ZNpHX7GD.htm](archetypes/Qsmzm6w1ZNpHX7GD.htm)|Halcyon Speaker|
 |[R0ORjHAeQ0auxl2j.htm](archetypes/R0ORjHAeQ0auxl2j.htm)|Vigilante|
 |[RvjlaAPa2Wkdhrms.htm](archetypes/RvjlaAPa2Wkdhrms.htm)|Horizon Walker|
 |[RyjrUkqSIg52Mjl8.htm](archetypes/RyjrUkqSIg52Mjl8.htm)|Runescarred|
+|[s7kWIaeCdj3IFte9.htm](archetypes/s7kWIaeCdj3IFte9.htm)|Jalmeri Heavenseeker|
 |[SAyPnVRucJa8k4MN.htm](archetypes/SAyPnVRucJa8k4MN.htm)|Witch|
 |[SbvhfCo5gFVt1DgD.htm](archetypes/SbvhfCo5gFVt1DgD.htm)|Acrobat|
 |[SJi2cicLd7R2FInl.htm](archetypes/SJi2cicLd7R2FInl.htm)|Viking|

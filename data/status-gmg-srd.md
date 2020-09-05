@@ -4,7 +4,7 @@
  * **aucune**: 93
 
 
-Dernière mise à jour: 2020-08-29 17:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-05 17:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire

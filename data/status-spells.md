@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **officielle**: 351
+ * **officielle**: 352
  * **libre**: 7
- * **aucune**: 435
+ * **aucune**: 441
  * **changé**: 46
 
 
-Dernière mise à jour: 2020-08-29 17:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-05 17:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -45,8 +45,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-06-pZc8ZwtsyWnxUUW0.htm](spells/abj-06-pZc8ZwtsyWnxUUW0.htm)|Primal Call|
 |[abj-06-yrZA4k2VAqEP8xx7.htm](spells/abj-06-yrZA4k2VAqEP8xx7.htm)|Repulsion|
 |[abj-07-bVtkBJvGLP69qVGI.htm](spells/abj-07-bVtkBJvGLP69qVGI.htm)|Unfettered Pack|
-|[abj-07-m2xFMNyQiUKQDRaj.htm](spells/abj-07-m2xFMNyQiUKQDRaj.htm)|Energy Aegis|
 |[abj-07-OOELvfkTedBMlWtq.htm](spells/abj-07-OOELvfkTedBMlWtq.htm)|Spell Turning|
+|[abj-07-qOeBQyC1z7OScHvP.htm](spells/abj-07-qOeBQyC1z7OScHvP.htm)|Maze of Locked Doors|
 |[abj-07-WG91Z5TiR6oO5FOw.htm](spells/abj-07-WG91Z5TiR6oO5FOw.htm)|Contingency|
 |[abj-07-XZE4BawIlTf88Yl9.htm](spells/abj-07-XZE4BawIlTf88Yl9.htm)|Dimensional Lock|
 |[abj-08-4ddJSjC9Zz5DX0oG.htm](spells/abj-08-4ddJSjC9Zz5DX0oG.htm)|Freedom|
@@ -70,6 +70,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[con-01-tsKnoBuBbKMXkiz5.htm](spells/con-01-tsKnoBuBbKMXkiz5.htm)|Abyssal Pact|
 |[con-01-Vpohy4XH1DaH95hT.htm](spells/con-01-Vpohy4XH1DaH95hT.htm)|Daemonic Pact|
 |[con-02-3VxVbZqIRvpKkg3O.htm](spells/con-02-3VxVbZqIRvpKkg3O.htm)|Fungal Infestation|
+|[con-03-2ZPqcM9wNoVnpwkK.htm](spells/con-03-2ZPqcM9wNoVnpwkK.htm)|Magical Fetters|
 |[con-03-g4MAIQodRDVfNp1B.htm](spells/con-03-g4MAIQodRDVfNp1B.htm)|Personal Blizzard|
 |[con-03-mwPfoYfVGSMAaUec.htm](spells/con-03-mwPfoYfVGSMAaUec.htm)|Cozy Cabin|
 |[con-03-oUDNCArkQTdhllxD.htm](spells/con-03-oUDNCArkQTdhllxD.htm)|Aqueous Orb|
@@ -151,6 +152,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[div-06-UJmKPm1FC6pf6txP.htm](spells/div-06-UJmKPm1FC6pf6txP.htm)|Halcyon Infusion|
 |[div-06-uqlxMQQeSGWEVjki.htm](spells/div-06-uqlxMQQeSGWEVjki.htm)|True Seeing|
 |[div-06-XULNb8ItUsfupxqH.htm](spells/div-06-XULNb8ItUsfupxqH.htm)|Dread Secret|
+|[div-06-Zvg0FWzClGbzucFd.htm](spells/div-06-Zvg0FWzClGbzucFd.htm)|Speaking Sky|
 |[div-07-AlbpWWN87yGegoAF.htm](spells/div-07-AlbpWWN87yGegoAF.htm)|True Target|
 |[div-07-G56DJkxlUjFv0C4Z.htm](spells/div-07-G56DJkxlUjFv0C4Z.htm)|Time Beacon|
 |[div-07-hp6Q64dl7xbdn4gQ.htm](spells/div-07-hp6Q64dl7xbdn4gQ.htm)|Legend Lore|
@@ -262,6 +264,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-05-9BGEf9Sv5rgNBCk0.htm](spells/evo-05-9BGEf9Sv5rgNBCk0.htm)|Dance of Darkness|
 |[evo-05-HMTloW1hvRFJ5Z2D.htm](spells/evo-05-HMTloW1hvRFJ5Z2D.htm)|Consuming Darkness|
 |[evo-05-JyT346VmGtRLsDnV.htm](spells/evo-05-JyT346VmGtRLsDnV.htm)|Lightning Storm|
+|[evo-05-zoY0fQYTF1NzezTg.htm](spells/evo-05-zoY0fQYTF1NzezTg.htm)|Steal the Sky|
 |[evo-05-ZW8ovbu1etdfMre3.htm](spells/evo-05-ZW8ovbu1etdfMre3.htm)|Acid Storm|
 |[evo-05-ZyREiMaul0VhDYh3.htm](spells/evo-05-ZyREiMaul0VhDYh3.htm)|Glacial Heart|
 |[evo-06-7Iela4GgVeO3LfAo.htm](spells/evo-06-7Iela4GgVeO3LfAo.htm)|Wall of Force|
@@ -325,6 +328,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-01-7tp97g0UCJ9wOrd5.htm](spells/nec-01-7tp97g0UCJ9wOrd5.htm)|Withering Grasp|
 |[nec-01-9u6X9ykhzG11NK1n.htm](spells/nec-01-9u6X9ykhzG11NK1n.htm)|Magic Stone|
 |[nec-01-9WGeBwIIbbUuWKq0.htm](spells/nec-01-9WGeBwIIbbUuWKq0.htm)|Animate Dead|
+|[nec-01-CxpFy4HJHf4ACbxF.htm](spells/nec-01-CxpFy4HJHf4ACbxF.htm)|Putrefy Food and Drink|
 |[nec-01-D6T17BdazhNy3KPm.htm](spells/nec-01-D6T17BdazhNy3KPm.htm)|Soul Siphon|
 |[nec-01-fAlzXtQAASaJx0mY.htm](spells/nec-01-fAlzXtQAASaJx0mY.htm)|Life Boost|
 |[nec-01-FedTjedva2rYk33r.htm](spells/nec-01-FedTjedva2rYk33r.htm)|Undeath's Blessing|
@@ -333,6 +337,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-01-KIV2LqzS5KtqOItV.htm](spells/nec-01-KIV2LqzS5KtqOItV.htm)|Heal Companion|
 |[nec-01-NkeLctXo9FLGnDhi.htm](spells/nec-01-NkeLctXo9FLGnDhi.htm)|Divine Plagues|
 |[nec-01-rVhHaWqUsVUO4GuY.htm](spells/nec-01-rVhHaWqUsVUO4GuY.htm)|Eject Soul|
+|[nec-01-uToa7ksKAzmEpkKC.htm](spells/nec-01-uToa7ksKAzmEpkKC.htm)|Admonishing Ray|
 |[nec-01-zJQnkKEKbJqGB3iB.htm](spells/nec-01-zJQnkKEKbJqGB3iB.htm)|Goblin Pox|
 |[nec-02-c3b6LdLlQDPngNIb.htm](spells/nec-02-c3b6LdLlQDPngNIb.htm)|Create Undead|
 |[nec-02-dxOF7d5kAWusLKWF.htm](spells/nec-02-dxOF7d5kAWusLKWF.htm)|Reaper’s Lantern|
@@ -432,6 +437,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[trs-06-5c692cCcTDXjSEzk.htm](spells/trs-06-5c692cCcTDXjSEzk.htm)|Dragon Form|
 |[trs-06-dN8QBNuTiaBHCKUe.htm](spells/trs-06-dN8QBNuTiaBHCKUe.htm)|Baleful Polymorph|
 |[trs-06-MMCQsh12TPaDdPbV.htm](spells/trs-06-MMCQsh12TPaDdPbV.htm)|Righteous Might|
+|[trs-06-NCUXsaj2yFxOVhrK.htm](spells/trs-06-NCUXsaj2yFxOVhrK.htm)|Create Skinstitch|
 |[trs-06-Pr1ruNTbzGn3H9w5.htm](spells/trs-06-Pr1ruNTbzGn3H9w5.htm)|Stone to Flesh|
 |[trs-06-xEjGEBvTfDJECSki.htm](spells/trs-06-xEjGEBvTfDJECSki.htm)|Ancestral Form|
 |[trs-06-zhqnMOVPzVvWSUbC.htm](spells/trs-06-zhqnMOVPzVvWSUbC.htm)|Tempest Form|
@@ -504,6 +510,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-05-jQdm301h6e8hIY4U.htm](spells/abj-05-jQdm301h6e8hIY4U.htm)|Spiritual Guardian|Gardien spirituel|officielle|
 |[abj-05-YvXKGlHOt7mdW2jZ.htm](spells/abj-05-YvXKGlHOt7mdW2jZ.htm)|Death Ward|Protection contre la mort|officielle|
 |[abj-06-USM530HlzZ1RMd99.htm](spells/abj-06-USM530HlzZ1RMd99.htm)|Champion's Sacrifice|Sacrifice du Champion|officielle|
+|[abj-07-m2xFMNyQiUKQDRaj.htm](spells/abj-07-m2xFMNyQiUKQDRaj.htm)|Energy Aegis|Égide énergétique|officielle|
 |[con-00-uZK2BYzPnxUBnDjr.htm](spells/con-00-uZK2BYzPnxUBnDjr.htm)|Tanglefoot|Entrave|officielle|
 |[con-01-4YnON9JHYqtLzccu.htm](spells/con-01-4YnON9JHYqtLzccu.htm)|Summon Animal|Convocation d'animal|officielle|
 |[con-01-hs7h8f4Z1ZNdUt3s.htm](spells/con-01-hs7h8f4Z1ZNdUt3s.htm)|Summon Fey|Convocation de fée|officielle|

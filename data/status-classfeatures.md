@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 223
- * **aucune**: 127
- * **changé**: 32
- * **libre**: 2
+ * **officielle**: 225
+ * **aucune**: 63
+ * **changé**: 30
+ * **libre**: 66
 
 
-Dernière mise à jour: 2020-08-29 17:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-05 17:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -20,7 +20,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-13-tnqyQrhrZeDtDvcO.htm](classfeatures/alchemist-13-tnqyQrhrZeDtDvcO.htm)|Greater Field Discovery (Toxicologist)|
 |[alchemist-17-3R19zS7gERhEX87F.htm](classfeatures/alchemist-17-3R19zS7gERhEX87F.htm)|Perpetual Perfection (Toxicologist)|
 |[barbarian-01-SCYSjUbMmw8JD9P9.htm](classfeatures/barbarian-01-SCYSjUbMmw8JD9P9.htm)|Superstition Instinct|
-|[bard-01-N03BtRvjX9TeHRa4.htm](classfeatures/bard-01-N03BtRvjX9TeHRa4.htm)|Warrior (Bard Muse)|
 |[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator [Neutral Evil]|
 |[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin [Chaotic Evil]|
 |[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant [Lawful Evil]|
@@ -33,59 +32,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[investigator-01-UIHUNNYZyQ3p4Vmo.htm](classfeatures/investigator-01-UIHUNNYZyQ3p4Vmo.htm)|Interrogation Methodology|
 |[investigator-03-dmK1wya8GBi9MmCB.htm](classfeatures/investigator-03-dmK1wya8GBi9MmCB.htm)|Skillful Lessons|
 |[investigator-03-DZWQspPi4IkfXV2E.htm](classfeatures/investigator-03-DZWQspPi4IkfXV2E.htm)|Keen Recollection|
-|[investigator-05-zmgJoO03w6MFoHWm.htm](classfeatures/investigator-05-zmgJoO03w6MFoHWm.htm)|Weapon Expertise (Investigator)|
-|[investigator-07-K1R079i5x3Aw4qs8.htm](classfeatures/investigator-07-K1R079i5x3Aw4qs8.htm)|Weapon Specialization (Investigator)|
-|[investigator-07-ZZ85PGb2REtS1qFg.htm](classfeatures/investigator-07-ZZ85PGb2REtS1qFg.htm)|Vigilant Senses (Investigator)|
 |[investigator-09-PFvB79O2VFdiAeSj.htm](classfeatures/investigator-09-PFvB79O2VFdiAeSj.htm)|Investigator Expertise|
-|[investigator-09-SHZXbRSq8e4gwsEl.htm](classfeatures/investigator-09-SHZXbRSq8e4gwsEl.htm)|Great Fortitude (Investigator)|
-|[investigator-11-eFIfzdXf7uh9qtos.htm](classfeatures/investigator-11-eFIfzdXf7uh9qtos.htm)|Resolve (Investigator)|
 |[investigator-11-malYpr0CYL4fDGhr.htm](classfeatures/investigator-11-malYpr0CYL4fDGhr.htm)|Deductive Improvisation|
-|[investigator-13-fFV3dMR9wFWH0syt.htm](classfeatures/investigator-13-fFV3dMR9wFWH0syt.htm)|Incredible Senses (Investigator)|
-|[investigator-13-m6XdXqZ1lh3UcK2v.htm](classfeatures/investigator-13-m6XdXqZ1lh3UcK2v.htm)|Light Armor Expertise (Investigator)|
-|[investigator-13-PTYcCEMW5LvMLzxY.htm](classfeatures/investigator-13-PTYcCEMW5LvMLzxY.htm)|Weapon Mastery (Investigator)|
-|[investigator-15-lJdo5cFn2Hr0G3bc.htm](classfeatures/investigator-15-lJdo5cFn2Hr0G3bc.htm)|Evasion (Investigator)|
-|[investigator-15-zNH4fa2sHkiqUNnm.htm](classfeatures/investigator-15-zNH4fa2sHkiqUNnm.htm)|Greater Weapon Specialization (Investigator)|
-|[investigator-17-F5AhrHtGf1mociZ0.htm](classfeatures/investigator-17-F5AhrHtGf1mociZ0.htm)|Greater Resolve (Investigator)|
 |[investigator-19-flEx8eY0NinF9XZU.htm](classfeatures/investigator-19-flEx8eY0NinF9XZU.htm)|Master Detective|
-|[investigator-19-uWjVimQPVYiPViD3.htm](classfeatures/investigator-19-uWjVimQPVYiPViD3.htm)|Light Armor Mastery (Investigator)|
 |[None-00-1FPVkksuE2ncw9rF.htm](classfeatures/None-00-1FPVkksuE2ncw9rF.htm)|Ki Spells|
 |[None-00-s0VbbQJNlSgPocui.htm](classfeatures/None-00-s0VbbQJNlSgPocui.htm)|Composition Spells|
 |[None-00-T25ZLQWn6O4KchLo.htm](classfeatures/None-00-T25ZLQWn6O4KchLo.htm)|Focus Spells|
-|[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|
-|[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|
-|[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|
-|[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames Mystery|
-|[oracle-01-IaxmCkdsPlA52spu.htm](classfeatures/oracle-01-IaxmCkdsPlA52spu.htm)|Bones Mystery|
-|[oracle-01-ibX2EhKkyUtbOHLj.htm](classfeatures/oracle-01-ibX2EhKkyUtbOHLj.htm)|Oracular Curse|
-|[oracle-01-NXUOtO9NytHQurlg.htm](classfeatures/oracle-01-NXUOtO9NytHQurlg.htm)|Revelation Spells|
-|[oracle-01-o1gGG36wpn9mxeop.htm](classfeatures/oracle-01-o1gGG36wpn9mxeop.htm)|Life Mystery|
-|[oracle-01-PRJYLksQEwT39bTl.htm](classfeatures/oracle-01-PRJYLksQEwT39bTl.htm)|Mystery|
-|[oracle-01-qvRlih3u7vK3FYUR.htm](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Ancestors Mystery|
-|[oracle-01-RI2EMRBBPNSoTJXu.htm](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Cosmos Mystery|
-|[oracle-01-tZBb3Kh4nJcNoUFI.htm](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Lore Mystery|
-|[oracle-01-W9cF7wZztLDb1WGY.htm](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Tempest Mystery|
-|[oracle-03-yzLt4zF1AIFi1u6r.htm](classfeatures/oracle-03-yzLt4zF1AIFi1u6r.htm)|Signature Spells (Oracle)|
-|[oracle-07-NYQ5ZKeCYky0wZyS.htm](classfeatures/oracle-07-NYQ5ZKeCYky0wZyS.htm)|Expert Spellcaster (Oracle)|
-|[oracle-07-WSzlr8UN2JGZ6LPC.htm](classfeatures/oracle-07-WSzlr8UN2JGZ6LPC.htm)|Resolve (Oracle)|
-|[oracle-09-jugxK1UFi42N43iQ.htm](classfeatures/oracle-09-jugxK1UFi42N43iQ.htm)|Magical Fortitude (Oracle)|
-|[oracle-11-EmazNAghbeW9LxMG.htm](classfeatures/oracle-11-EmazNAghbeW9LxMG.htm)|Alertness (Oracle)|
-|[oracle-11-hLdPJs8OJ6ICnzys.htm](classfeatures/oracle-11-hLdPJs8OJ6ICnzys.htm)|Weapon Expertise (Oracle)|
-|[oracle-11-rrzItB68Er0DzKx7.htm](classfeatures/oracle-11-rrzItB68Er0DzKx7.htm)|Major Curse|
-|[oracle-13-4a8T3KTCwIQ3kFCM.htm](classfeatures/oracle-13-4a8T3KTCwIQ3kFCM.htm)|Weapon Specialization (Oracle)|
-|[oracle-13-eluiQA9hfnJi0kPW.htm](classfeatures/oracle-13-eluiQA9hfnJi0kPW.htm)|Light Armor Expertise (Oracle)|
-|[oracle-13-leddTV9aD5lzYATy.htm](classfeatures/oracle-13-leddTV9aD5lzYATy.htm)|Lightning Reflexes (Oracle)|
-|[oracle-15-u7gvhSh6OBIQPpOb.htm](classfeatures/oracle-15-u7gvhSh6OBIQPpOb.htm)|Master Spellcaster (Oracle)|
-|[oracle-17-F4brPlp1tHGUqyuI.htm](classfeatures/oracle-17-F4brPlp1tHGUqyuI.htm)|Extreme Curse|
-|[oracle-17-fAod97Mp6ZJTwG0c.htm](classfeatures/oracle-17-fAod97Mp6ZJTwG0c.htm)|Greater Resolve (Oracle)|
-|[oracle-19-571c1aGnvNVwfF6b.htm](classfeatures/oracle-19-571c1aGnvNVwfF6b.htm)|Oracular Clarity|
-|[oracle-19-VAvEZ1zv8l45X9CE.htm](classfeatures/oracle-19-VAvEZ1zv8l45X9CE.htm)|Legendary Spellcaster (Oracle)|
 |[rogue-01-D8qtAo2w4jsqjBrM.htm](classfeatures/rogue-01-D8qtAo2w4jsqjBrM.htm)|Eldritch Trickster Racket|
 |[rogue-01-RyOkmu0W9svavuAB.htm](classfeatures/rogue-01-RyOkmu0W9svavuAB.htm)|Mastermind Racket|
 |[sorcerer-01-5Wxjghw7lHuCxjZz.htm](classfeatures/sorcerer-01-5Wxjghw7lHuCxjZz.htm)|Bloodline: Nymph|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|
-|[sorcerer-01-lURKSJZAGKVD6cH9.htm](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Spell Repetoire (Sorcerer)|
 |[sorcerer-01-PpzH9tJULk5ksX9w.htm](classfeatures/sorcerer-01-PpzH9tJULk5ksX9w.htm)|Bloodline: Psychopomp|
-|[sorcerer-01-tYOMBiH3HbViNWwn.htm](classfeatures/sorcerer-01-tYOMBiH3HbViNWwn.htm)|Bloodline: Genie|
 |[sorcerer-01-uoQOm41BVdSo6pAS.htm](classfeatures/sorcerer-01-uoQOm41BVdSo6pAS.htm)|Bloodline: Shadow|
 |[swashbuckler-01-4lGhbEjlEoGP4scl.htm](classfeatures/swashbuckler-01-4lGhbEjlEoGP4scl.htm)|Wit Style|
 |[swashbuckler-01-5HoEwzLDJGTCZtFa.htm](classfeatures/swashbuckler-01-5HoEwzLDJGTCZtFa.htm)|Battledancer Style|
@@ -98,21 +55,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-03-8BOFeRE7ZfJ02N0O.htm](classfeatures/swashbuckler-03-8BOFeRE7ZfJ02N0O.htm)|Vivacious Speed|
 |[swashbuckler-03-Jtn7IugykXDlIoZq.htm](classfeatures/swashbuckler-03-Jtn7IugykXDlIoZq.htm)|Opportune Riposte|
 |[swashbuckler-03-pthjQIK9pDxnbER6.htm](classfeatures/swashbuckler-03-pthjQIK9pDxnbER6.htm)|Stylish Tricks|
-|[swashbuckler-03-TySxvlssa9YjQhjJ.htm](classfeatures/swashbuckler-03-TySxvlssa9YjQhjJ.htm)|Great Fortitude (Swashbuckler)|
-|[swashbuckler-05-F5BHEav90oOJ2LwN.htm](classfeatures/swashbuckler-05-F5BHEav90oOJ2LwN.htm)|Weapon Expertise (Swashbuckler)|
-|[swashbuckler-07-GdEYWajctNsihg1z.htm](classfeatures/swashbuckler-07-GdEYWajctNsihg1z.htm)|Weapon Specialization (Swashbuckler)|
-|[swashbuckler-07-W4iCc24gNXPY67SS.htm](classfeatures/swashbuckler-07-W4iCc24gNXPY67SS.htm)|Evasion (Swashbuckler)|
 |[swashbuckler-09-KxpaxUSuBC7hr4F7.htm](classfeatures/swashbuckler-09-KxpaxUSuBC7hr4F7.htm)|Exemplary Finisher|
 |[swashbuckler-09-U74JoAcLHTOsZG6q.htm](classfeatures/swashbuckler-09-U74JoAcLHTOsZG6q.htm)|Swashbuckler Expertise|
 |[swashbuckler-11-13QpCrR8a8XULbJa.htm](classfeatures/swashbuckler-11-13QpCrR8a8XULbJa.htm)|Continuous Flare|
 |[swashbuckler-11-6JYLXF2L3tq7aN5O.htm](classfeatures/swashbuckler-11-6JYLXF2L3tq7aN5O.htm)|Vigilant Senses (Swashbuckler)|
-|[swashbuckler-13-dfmcFY6SqPMkqbQp.htm](classfeatures/swashbuckler-13-dfmcFY6SqPMkqbQp.htm)|Weapon Mastery (Swashbuckler)|
-|[swashbuckler-13-FCWt3xFQeINVY8JW.htm](classfeatures/swashbuckler-13-FCWt3xFQeINVY8JW.htm)|Light Armor Expertise (Swashbuckler)|
-|[swashbuckler-13-oiA05VSn8Q9kiF8B.htm](classfeatures/swashbuckler-13-oiA05VSn8Q9kiF8B.htm)|Improved Evasion (Swashbuckler)|
-|[swashbuckler-15-nxV6vahBSyv7gNSc.htm](classfeatures/swashbuckler-15-nxV6vahBSyv7gNSc.htm)|Greater Weapon Specialization (Swashbuckler)|
 |[swashbuckler-15-Pk3Ht0KZyFxSeL07.htm](classfeatures/swashbuckler-15-Pk3Ht0KZyFxSeL07.htm)|Keen Flair|
-|[swashbuckler-17-7qJIXNnkFDOWVtNs.htm](classfeatures/swashbuckler-17-7qJIXNnkFDOWVtNs.htm)|Resolve (Swashbuckler)|
-|[swashbuckler-19-G0Sq4tt26TeneUs1.htm](classfeatures/swashbuckler-19-G0Sq4tt26TeneUs1.htm)|Light Armor Mastery (Swashbuckler)|
 |[swashbuckler-19-ypfT3iybew6ZSIUl.htm](classfeatures/swashbuckler-19-ypfT3iybew6ZSIUl.htm)|Eternal Confidence|
 |[witch-01-4IfYHrQMosJNM8hv.htm](classfeatures/witch-01-4IfYHrQMosJNM8hv.htm)|Fervor Patron|
 |[witch-01-9uLh5z2uPo6LDFRY.htm](classfeatures/witch-01-9uLh5z2uPo6LDFRY.htm)|Hexes|
@@ -128,18 +75,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[witch-01-XFTWJO6txmLNRLae.htm](classfeatures/witch-01-XFTWJO6txmLNRLae.htm)|Night Patron|
 |[witch-01-yksPhweBZYVCsE1A.htm](classfeatures/witch-01-yksPhweBZYVCsE1A.htm)|Familiar (Witch)|
 |[witch-01-zT6QiTMxxj8JYoN9.htm](classfeatures/witch-01-zT6QiTMxxj8JYoN9.htm)|Witch Spellcasting|
-|[witch-05-zXVHXoZKpTootce0.htm](classfeatures/witch-05-zXVHXoZKpTootce0.htm)|Magical Fortitude (Witch)|
-|[witch-07-jSw13ajIzbUdiwwA.htm](classfeatures/witch-07-jSw13ajIzbUdiwwA.htm)|Expert Spellcaster (Witch)|
-|[witch-09-uW7EyPyjgmDPL5Bg.htm](classfeatures/witch-09-uW7EyPyjgmDPL5Bg.htm)|Lightning Reflexes (Witch)|
-|[witch-11-E3dRpCVIs2daBJs1.htm](classfeatures/witch-11-E3dRpCVIs2daBJs1.htm)|Alertness (Witch)|
-|[witch-11-Vnt4Yx2Eon9n8Rgw.htm](classfeatures/witch-11-Vnt4Yx2Eon9n8Rgw.htm)|Weapon Expertise (Witch)|
-|[witch-13-8j0C9BkwO7wa125a.htm](classfeatures/witch-13-8j0C9BkwO7wa125a.htm)|Weapon Specialization (Witch)|
-|[witch-13-D21HbZu4lssomcG6.htm](classfeatures/witch-13-D21HbZu4lssomcG6.htm)|Defensive Robes (Witch)|
-|[witch-15-IDtk2iV6haZWEhQj.htm](classfeatures/witch-15-IDtk2iV6haZWEhQj.htm)|Master Spellcaster (Witch)|
-|[witch-17-hNy2K2QmKF6sHA2A.htm](classfeatures/witch-17-hNy2K2QmKF6sHA2A.htm)|Resolve (Witch)|
-|[witch-19-3NrNkKwAwnHT0zJE.htm](classfeatures/witch-19-3NrNkKwAwnHT0zJE.htm)|Legendary Spellcaster (Witch)|
 |[witch-19-cDnFXfl3i5Z2l7JP.htm](classfeatures/witch-19-cDnFXfl3i5Z2l7JP.htm)|Patron's Gift|
-|[wizard-01-Klb35AwlkNrq1gpB.htm](classfeatures/wizard-01-Klb35AwlkNrq1gpB.htm)|Arcane Thesis: Staff Nexus|
 
 ## Liste des traductions complétés
 
@@ -200,9 +136,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-17-qMtyQGUllPdgpzUo.htm](classfeatures/barbarian-17-qMtyQGUllPdgpzUo.htm)|Quick Rage|Rage rapide|officielle|
 |[barbarian-19-QTCIahokREpnAYDi.htm](classfeatures/barbarian-19-QTCIahokREpnAYDi.htm)|Armor of Fury|Armure de furie|officielle|
 |[barbarian-19-VLiT503OLOM3vaDx.htm](classfeatures/barbarian-19-VLiT503OLOM3vaDx.htm)|Devastator|Dévastateur|officielle|
-|[bard-00-YMBsi4bndRAk5CX4.htm](classfeatures/bard-00-YMBsi4bndRAk5CX4.htm)|Maestro (Bard Muse)|Virtuose|changé|
+|[bard-00-YMBsi4bndRAk5CX4.htm](classfeatures/bard-00-YMBsi4bndRAk5CX4.htm)|Maestro (Bard Muse)|Virtuose (Muse de barde)|officielle|
 |[bard-01-4ripp6EfdVpS0d60.htm](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Enigma (Bard Muse)|Énigmatique|changé|
 |[bard-01-fEOj0eOBe34qYdAa.htm](classfeatures/bard-01-fEOj0eOBe34qYdAa.htm)|Occult Spellcasting|Incantation occulte|officielle|
+|[bard-01-N03BtRvjX9TeHRa4.htm](classfeatures/bard-01-N03BtRvjX9TeHRa4.htm)|Warrior (Bard Muse)|Combattant (Muse de barde)|libre|
 |[bard-01-y0jGimYdMGDJWrEq.htm](classfeatures/bard-01-y0jGimYdMGDJWrEq.htm)|Polymath (Bard Muse)|Touche-à-tout|changé|
 |[bard-03-nw4gH2jMQN6DRv8z.htm](classfeatures/bard-03-nw4gH2jMQN6DRv8z.htm)|Signature Spells (Bard)|Sorts emblématiques (Barde)|officielle|
 |[bard-03-q00P563wwFZVYhyo.htm](classfeatures/bard-03-q00P563wwFZVYhyo.htm)|Lightning Reflexes (Bard)|Réflexes éclair (Barde)|officielle|
@@ -210,11 +147,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-09-AnZXGuP7Fa1mTiYJ.htm](classfeatures/bard-09-AnZXGuP7Fa1mTiYJ.htm)|Resolve (Bard)|Résolution (Barde)|officielle|
 |[bard-09-YdH1LNS2mT3LBVHn.htm](classfeatures/bard-09-YdH1LNS2mT3LBVHn.htm)|Great Fortitude (Bard)|Vigueur surhumaine (Barde)|officielle|
 |[bard-11-4lp8oG9A3zuqhPBS.htm](classfeatures/bard-11-4lp8oG9A3zuqhPBS.htm)|Bard Weapon Expertise|expertise avec les armes du barde|officielle|
-|[bard-11-gNoqbqe18TWpppYe.htm](classfeatures/bard-11-gNoqbqe18TWpppYe.htm)|Vigilant Senses (Bard)|Sens alerte (Barde)|officielle|
-|[bard-13-dtl8i1fYDNiumaay.htm](classfeatures/bard-13-dtl8i1fYDNiumaay.htm)|Light Armor Expertise (Bard)|Expertise avec les armures légères|officielle|
+|[bard-11-gNoqbqe18TWpppYe.htm](classfeatures/bard-11-gNoqbqe18TWpppYe.htm)|Vigilant Senses (Bard)|Sens alertes (Barde)|officielle|
+|[bard-13-dtl8i1fYDNiumaay.htm](classfeatures/bard-13-dtl8i1fYDNiumaay.htm)|Light Armor Expertise (Bard)|Expertise avec les armures légères (Barde)|officielle|
 |[bard-13-J5zCG0fMBFflfbSV.htm](classfeatures/bard-13-J5zCG0fMBFflfbSV.htm)|Weapon Specialization (Bard)|Spécialisation martiale (Barde)|officielle|
 |[bard-15-5UPkTPy5u2fZKqUW.htm](classfeatures/bard-15-5UPkTPy5u2fZKqUW.htm)|Master Spellcaster (Bard)|Maître incantateur (Barde)|officielle|
-|[bard-17-Km2CaLUuRaxn79kH.htm](classfeatures/bard-17-Km2CaLUuRaxn79kH.htm)|Greater Resolve (Bard)|Résolution accrue|changé|
+|[bard-17-Km2CaLUuRaxn79kH.htm](classfeatures/bard-17-Km2CaLUuRaxn79kH.htm)|Greater Resolve (Bard)|Résolution accrue|officielle|
 |[bard-19-NjsOpWbbzUY2Hpk3.htm](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum Opus|Magnum opus|officielle|
 |[bard-19-tmO36DHYZo64iywr.htm](classfeatures/bard-19-tmO36DHYZo64iywr.htm)|Legendary Spellcaster (Bard)|Incantateur légendaire (Barde)|officielle|
 |[champion-00-fykh5pE99O3I2sOI.htm](classfeatures/champion-00-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|changé|
@@ -227,7 +164,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|officielle|
 |[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer [Neutral Good]|Rédempteur (Neutre Bon)|changé|
 |[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|Allié divin|changé|
-|[champion-05-fC8FbGmkTwKMU8FF.htm](classfeatures/champion-05-fC8FbGmkTwKMU8FF.htm)|Weapon Expertise (Champion)|Expertise avec les armes|changé|
+|[champion-05-fC8FbGmkTwKMU8FF.htm](classfeatures/champion-05-fC8FbGmkTwKMU8FF.htm)|Weapon Expertise (Champion)|Expertise avec les armes (Champion)|officielle|
 |[champion-07-D5AABucMrk5IGOKV.htm](classfeatures/champion-07-D5AABucMrk5IGOKV.htm)|Weapon Specialization (Champion)|Spécialisation martiale (Champion)|officielle|
 |[champion-07-g0nfwT61wE4vOaOn.htm](classfeatures/champion-07-g0nfwT61wE4vOaOn.htm)|Armor Expertise (Champion)|Expertise avec les armures|officielle|
 |[champion-09-dAA1MElXsUjQ5fzw.htm](classfeatures/champion-09-dAA1MElXsUjQ5fzw.htm)|Juggernaut (Champion)|Juggernaut (Champion)|officielle|
@@ -288,6 +225,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fighter-15-W2rwudMNcAxs8VoX.htm](classfeatures/fighter-15-W2rwudMNcAxs8VoX.htm)|Improved Flexibility|Flexibilité améliorée|officielle|
 |[fighter-17-Ix6Y5Ne24mysyWts.htm](classfeatures/fighter-17-Ix6Y5Ne24mysyWts.htm)|Armor Mastery (Fighter)|Maîtrise des armures|officielle|
 |[fighter-19-0H2LxtiZTJ275pSD.htm](classfeatures/fighter-19-0H2LxtiZTJ275pSD.htm)|Versatile Legend|Légende polyvalente|officielle|
+|[investigator-05-zmgJoO03w6MFoHWm.htm](classfeatures/investigator-05-zmgJoO03w6MFoHWm.htm)|Weapon Expertise (Investigator)|Expertise martiale (Enquêteur)|libre|
+|[investigator-07-K1R079i5x3Aw4qs8.htm](classfeatures/investigator-07-K1R079i5x3Aw4qs8.htm)|Weapon Specialization (Investigator)|Spécialisation martiale (Enquêteur)|libre|
+|[investigator-07-ZZ85PGb2REtS1qFg.htm](classfeatures/investigator-07-ZZ85PGb2REtS1qFg.htm)|Vigilant Senses (Investigator)|Sens alertes (Enquêteur)|libre|
+|[investigator-09-SHZXbRSq8e4gwsEl.htm](classfeatures/investigator-09-SHZXbRSq8e4gwsEl.htm)|Great Fortitude (Investigator)|Vigueur surhumaine (Enquêteur)|libre|
+|[investigator-11-eFIfzdXf7uh9qtos.htm](classfeatures/investigator-11-eFIfzdXf7uh9qtos.htm)|Resolve (Investigator)|Résolution (Enquêteur)|libre|
+|[investigator-13-fFV3dMR9wFWH0syt.htm](classfeatures/investigator-13-fFV3dMR9wFWH0syt.htm)|Incredible Senses (Investigator)|Sens extraordinaires (Enquêteur)|libre|
+|[investigator-13-m6XdXqZ1lh3UcK2v.htm](classfeatures/investigator-13-m6XdXqZ1lh3UcK2v.htm)|Light Armor Expertise (Investigator)|Expertise avec les armures légères (Enquêteur)|libre|
+|[investigator-13-PTYcCEMW5LvMLzxY.htm](classfeatures/investigator-13-PTYcCEMW5LvMLzxY.htm)|Weapon Mastery (Investigator)|Maîtrise martiale (Enquêteur)|libre|
+|[investigator-15-lJdo5cFn2Hr0G3bc.htm](classfeatures/investigator-15-lJdo5cFn2Hr0G3bc.htm)|Evasion (Investigator)|Évasion (Enquêteur)|libre|
+|[investigator-15-zNH4fa2sHkiqUNnm.htm](classfeatures/investigator-15-zNH4fa2sHkiqUNnm.htm)|Greater Weapon Specialization (Investigator)|Spécialisation martiale supérieure (Enquêteur)|libre|
+|[investigator-17-F5AhrHtGf1mociZ0.htm](classfeatures/investigator-17-F5AhrHtGf1mociZ0.htm)|Greater Resolve (Investigator)|Résolution accrue (Enquêteur)|libre|
+|[investigator-19-uWjVimQPVYiPViD3.htm](classfeatures/investigator-19-uWjVimQPVYiPViD3.htm)|Light Armor Mastery (Investigator)|Maîtrise des armures légères (Enquêteur)|libre|
 |[monk-01-NLHHHiAcdnZ5ohc2.htm](classfeatures/monk-01-NLHHHiAcdnZ5ohc2.htm)|Flurry of Blows|Déluge de coups|officielle|
 |[monk-01-SB8UJ8rZmvbcBweJ.htm](classfeatures/monk-01-SB8UJ8rZmvbcBweJ.htm)|Powerful Fist|Poings puissants|officielle|
 |[monk-03-Cq6NjvcKZOMySBVj.htm](classfeatures/monk-03-Cq6NjvcKZOMySBVj.htm)|Incredible Movement|Déplacement extraordinaire|officielle|
@@ -306,6 +255,34 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[monk-17-5cthRUkRqRtduVvN.htm](classfeatures/monk-17-5cthRUkRqRtduVvN.htm)|Adamantine Strikes|Frappes d'adamantium|officielle|
 |[monk-17-JWDfzYub3JfuEtth.htm](classfeatures/monk-17-JWDfzYub3JfuEtth.htm)|Graceful Legend|Légende gracieuse|officielle|
 |[monk-19-KmTfg7Sg5va4yU00.htm](classfeatures/monk-19-KmTfg7Sg5va4yU00.htm)|Perfected Form|Forme parfaite|officielle|
+|[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Lancement de sorts divin (Oracle)|libre|
+|[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
+|[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|Mystère du combat|libre|
+|[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames Mystery|Mystère des flammes|libre|
+|[oracle-01-IaxmCkdsPlA52spu.htm](classfeatures/oracle-01-IaxmCkdsPlA52spu.htm)|Bones Mystery|Mystère des ossements|libre|
+|[oracle-01-ibX2EhKkyUtbOHLj.htm](classfeatures/oracle-01-ibX2EhKkyUtbOHLj.htm)|Oracular Curse|Malédiction oraculaire|libre|
+|[oracle-01-NXUOtO9NytHQurlg.htm](classfeatures/oracle-01-NXUOtO9NytHQurlg.htm)|Revelation Spells|Sorts de révélation|libre|
+|[oracle-01-o1gGG36wpn9mxeop.htm](classfeatures/oracle-01-o1gGG36wpn9mxeop.htm)|Life Mystery|Mystère de la vie|libre|
+|[oracle-01-PRJYLksQEwT39bTl.htm](classfeatures/oracle-01-PRJYLksQEwT39bTl.htm)|Mystery|Mystère|libre|
+|[oracle-01-qvRlih3u7vK3FYUR.htm](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Ancestors Mystery|Mystère des ancètres|libre|
+|[oracle-01-RI2EMRBBPNSoTJXu.htm](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Cosmos Mystery|Mystère du cosmos|libre|
+|[oracle-01-tZBb3Kh4nJcNoUFI.htm](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Lore Mystery|Mystère du savoir|libre|
+|[oracle-01-W9cF7wZztLDb1WGY.htm](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Tempest Mystery|Mystère de la tempête|libre|
+|[oracle-03-yzLt4zF1AIFi1u6r.htm](classfeatures/oracle-03-yzLt4zF1AIFi1u6r.htm)|Signature Spells (Oracle)|Sorts emblématiques (Oracle)|libre|
+|[oracle-07-NYQ5ZKeCYky0wZyS.htm](classfeatures/oracle-07-NYQ5ZKeCYky0wZyS.htm)|Expert Spellcaster (Oracle)|Incantateur expert (Oracle)|libre|
+|[oracle-07-WSzlr8UN2JGZ6LPC.htm](classfeatures/oracle-07-WSzlr8UN2JGZ6LPC.htm)|Resolve (Oracle)|Résolution (Oracle)|libre|
+|[oracle-09-jugxK1UFi42N43iQ.htm](classfeatures/oracle-09-jugxK1UFi42N43iQ.htm)|Magical Fortitude (Oracle)|Vigueur magique (Oracle)|libre|
+|[oracle-11-EmazNAghbeW9LxMG.htm](classfeatures/oracle-11-EmazNAghbeW9LxMG.htm)|Alertness (Oracle)|Vigilance (Oracle)|libre|
+|[oracle-11-hLdPJs8OJ6ICnzys.htm](classfeatures/oracle-11-hLdPJs8OJ6ICnzys.htm)|Weapon Expertise (Oracle)|Expertise martiale (Oracle)|libre|
+|[oracle-11-rrzItB68Er0DzKx7.htm](classfeatures/oracle-11-rrzItB68Er0DzKx7.htm)|Major Curse|Malédiction majeure|libre|
+|[oracle-13-4a8T3KTCwIQ3kFCM.htm](classfeatures/oracle-13-4a8T3KTCwIQ3kFCM.htm)|Weapon Specialization (Oracle)|Spécialisation martiale (Oracle)|libre|
+|[oracle-13-eluiQA9hfnJi0kPW.htm](classfeatures/oracle-13-eluiQA9hfnJi0kPW.htm)|Light Armor Expertise (Oracle)|Expertise avec les armures légères (Oracle)|libre|
+|[oracle-13-leddTV9aD5lzYATy.htm](classfeatures/oracle-13-leddTV9aD5lzYATy.htm)|Lightning Reflexes (Oracle)|réflexes éclair (Oracle)|libre|
+|[oracle-15-u7gvhSh6OBIQPpOb.htm](classfeatures/oracle-15-u7gvhSh6OBIQPpOb.htm)|Master Spellcaster (Oracle)|Maître incantateur (Oracle)|libre|
+|[oracle-17-F4brPlp1tHGUqyuI.htm](classfeatures/oracle-17-F4brPlp1tHGUqyuI.htm)|Extreme Curse|Malédiction extrême|libre|
+|[oracle-17-fAod97Mp6ZJTwG0c.htm](classfeatures/oracle-17-fAod97Mp6ZJTwG0c.htm)|Greater Resolve (Oracle)|Résolution accrue (Oracle)|libre|
+|[oracle-19-571c1aGnvNVwfF6b.htm](classfeatures/oracle-19-571c1aGnvNVwfF6b.htm)|Oracular Clarity|Clarté oraculaire|libre|
+|[oracle-19-VAvEZ1zv8l45X9CE.htm](classfeatures/oracle-19-VAvEZ1zv8l45X9CE.htm)|Legendary Spellcaster (Oracle)|Incantateur légendaire (Oracle)|libre|
 |[ranger-01-0nIOGpHQNHsKSFKT.htm](classfeatures/ranger-01-0nIOGpHQNHsKSFKT.htm)|Hunt Prey|Chasser une proie|officielle|
 |[ranger-01-6v4Rj7wWfOH1882r.htm](classfeatures/ranger-01-6v4Rj7wWfOH1882r.htm)|Hunter's Edge: Flurry|spécialité du chasseur : Déluge|officielle|
 |[ranger-01-NBHyoTrI8q62uDsU.htm](classfeatures/ranger-01-NBHyoTrI8q62uDsU.htm)|Hunter's Edge: Outwit|Spécialité du chasseur : Ruse|officielle|
@@ -323,7 +300,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ranger-11-RlwE99yKnhq8FUuy.htm](classfeatures/ranger-11-RlwE99yKnhq8FUuy.htm)|Wild Stride|Déplacement facilité en milieu naturel|officielle|
 |[ranger-13-oeGZz2WeFsAghvZ8.htm](classfeatures/ranger-13-oeGZz2WeFsAghvZ8.htm)|Weapon Mastery (Ranger)|Maîtrise martiale (Rôdeur)|officielle|
 |[ranger-15-JzZn4IwIzHMntuIE.htm](classfeatures/ranger-15-JzZn4IwIzHMntuIE.htm)|Improved Evasion (Ranger)|Évasion améliorée (Rôdeur)|officielle|
-|[ranger-15-lYmeakwbBjqKyLHI.htm](classfeatures/ranger-15-lYmeakwbBjqKyLHI.htm)|Incredible Senses (Ranger)|Sens extraordinaires|officielle|
+|[ranger-15-lYmeakwbBjqKyLHI.htm](classfeatures/ranger-15-lYmeakwbBjqKyLHI.htm)|Incredible Senses (Ranger)|Sens extraordinaires (Rôdeur)|officielle|
 |[ranger-15-ytP1RDTkFesbCLYB.htm](classfeatures/ranger-15-ytP1RDTkFesbCLYB.htm)|Greater Weapon Specialization (Ranger)|Spécialisation martiale supérieure (Rôdeur)|officielle|
 |[ranger-17-RVZC4wVy5B5W2OeS.htm](classfeatures/ranger-17-RVZC4wVy5B5W2OeS.htm)|Masterful Hunter|Maître chasseur|changé|
 |[ranger-19-bBGb1LcffXEqar0p.htm](classfeatures/ranger-19-bBGb1LcffXEqar0p.htm)|Swift Prey|Changement rapide de proie|officielle|
@@ -355,15 +332,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|Lignage : Aberrant|changé|
 |[sorcerer-01-7WBZ2kkhZ7JorWu2.htm](classfeatures/sorcerer-01-7WBZ2kkhZ7JorWu2.htm)|Bloodline: Undead|Lignage : Mort-vivant|changé|
 |[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|Lignage : Féerique|changé|
+|[sorcerer-01-lURKSJZAGKVD6cH9.htm](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Spell Repetoire (Sorcerer)|Répertoire de sort (Ensorceleur)|officielle|
 |[sorcerer-01-O0uXZRWMNliDbkxU.htm](classfeatures/sorcerer-01-O0uXZRWMNliDbkxU.htm)|Bloodline: Hag|Lignage : Guenaude|changé|
 |[sorcerer-01-o39zQMIdERWtmBSB.htm](classfeatures/sorcerer-01-o39zQMIdERWtmBSB.htm)|Bloodline: Diabolic|Lignage : Diabolique|changé|
 |[sorcerer-01-RXRnJcG4XSabZ35a.htm](classfeatures/sorcerer-01-RXRnJcG4XSabZ35a.htm)|Bloodline: Elemental|Lignage : Élémentaire|changé|
+|[sorcerer-01-tYOMBiH3HbViNWwn.htm](classfeatures/sorcerer-01-tYOMBiH3HbViNWwn.htm)|Bloodline: Genie|Lignage : Génie|libre|
 |[sorcerer-01-vhW3glAaEfq2DKrw.htm](classfeatures/sorcerer-01-vhW3glAaEfq2DKrw.htm)|Bloodline: Angelic|Lignage : Angélique|changé|
 |[sorcerer-01-w5koctOVrEcpxTIq.htm](classfeatures/sorcerer-01-w5koctOVrEcpxTIq.htm)|Bloodline: Demonic|Lignage : Démoniaque|changé|
 |[sorcerer-01-ZEtJJ5UOlV5oTWWp.htm](classfeatures/sorcerer-01-ZEtJJ5UOlV5oTWWp.htm)|Bloodline: Imperial|Lignage : Impérial|changé|
 |[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|Lignage : Draconique|changé|
-|[sorcerer-03-y2vUZSYIYBp86UJc.htm](classfeatures/sorcerer-03-y2vUZSYIYBp86UJc.htm)|Signature Spells (Sorcerer)|Sorts emblématiques (Ensorceleur)|officielle|
-|[sorcerer-05-OSq5qxRiKvrYtAlC.htm](classfeatures/sorcerer-05-OSq5qxRiKvrYtAlC.htm)|Magical Fortitude (Sorcerer)|Vigueur magique|officielle|
+|[sorcerer-03-y2vUZSYIYBp86UJc.htm](classfeatures/sorcerer-03-y2vUZSYIYBp86UJc.htm)|Signature Spells (Sorcerer)|Sorts emblématiques (Ensorceleur)|libre|
+|[sorcerer-05-OSq5qxRiKvrYtAlC.htm](classfeatures/sorcerer-05-OSq5qxRiKvrYtAlC.htm)|Magical Fortitude (Sorcerer)|Vigueur magique (Ensorceleur)|officielle|
 |[sorcerer-07-I2qauyUmyTH3coAU.htm](classfeatures/sorcerer-07-I2qauyUmyTH3coAU.htm)|Expert Spellcaster (Sorcerer)|Incantateur expert (Ensorceleur)|officielle|
 |[sorcerer-09-QqcRWjr0Xc5xWVMR.htm](classfeatures/sorcerer-09-QqcRWjr0Xc5xWVMR.htm)|Lightning Reflexes (Sorcerer)|Réflexes éclair (Ensorceleur)|officielle|
 |[sorcerer-11-4uvohEHSm17wY7gc.htm](classfeatures/sorcerer-11-4uvohEHSm17wY7gc.htm)|Simple Weapon Expertise|Expertise avec les armes simples|officielle|
@@ -375,12 +354,33 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-19-EgJFG9DNs9jNuDL9.htm](classfeatures/sorcerer-19-EgJFG9DNs9jNuDL9.htm)|Legendary Spellcaster (Sorcerer)|Incantateur légendaire (Ensorceleur)|officielle|
 |[sorcerer-19-feCnVrPPlKhl701x.htm](classfeatures/sorcerer-19-feCnVrPPlKhl701x.htm)|Bloodline Paragon|Parangon du lignage|officielle|
 |[swashbuckler-01-RQH6vigvhmiYKKjg.htm](classfeatures/swashbuckler-01-RQH6vigvhmiYKKjg.htm)|Precise Strike|Frappe précise|libre|
+|[swashbuckler-03-TySxvlssa9YjQhjJ.htm](classfeatures/swashbuckler-03-TySxvlssa9YjQhjJ.htm)|Great Fortitude (Swashbuckler)|Vigueur surhumaine (Bretteur)|libre|
+|[swashbuckler-05-F5BHEav90oOJ2LwN.htm](classfeatures/swashbuckler-05-F5BHEav90oOJ2LwN.htm)|Weapon Expertise (Swashbuckler)|Expertise martiale (Bretteur)|libre|
+|[swashbuckler-07-GdEYWajctNsihg1z.htm](classfeatures/swashbuckler-07-GdEYWajctNsihg1z.htm)|Weapon Specialization (Swashbuckler)|Spécialisation martiale (Bretteur)|libre|
+|[swashbuckler-07-W4iCc24gNXPY67SS.htm](classfeatures/swashbuckler-07-W4iCc24gNXPY67SS.htm)|Evasion (Swashbuckler)|Évasion (Bretteur)|libre|
+|[swashbuckler-13-dfmcFY6SqPMkqbQp.htm](classfeatures/swashbuckler-13-dfmcFY6SqPMkqbQp.htm)|Weapon Mastery (Swashbuckler)|Maîtrise martiale (Bretteur)|libre|
+|[swashbuckler-13-FCWt3xFQeINVY8JW.htm](classfeatures/swashbuckler-13-FCWt3xFQeINVY8JW.htm)|Light Armor Expertise (Swashbuckler)|Expertise avec les armures légères (Bretteur)|libre|
+|[swashbuckler-13-oiA05VSn8Q9kiF8B.htm](classfeatures/swashbuckler-13-oiA05VSn8Q9kiF8B.htm)|Improved Evasion (Swashbuckler)|Évasion améliorée (Bretteur)|libre|
+|[swashbuckler-15-nxV6vahBSyv7gNSc.htm](classfeatures/swashbuckler-15-nxV6vahBSyv7gNSc.htm)|Greater Weapon Specialization (Swashbuckler)|Spécialisation martiale supérieure (Bretteur)|libre|
+|[swashbuckler-17-7qJIXNnkFDOWVtNs.htm](classfeatures/swashbuckler-17-7qJIXNnkFDOWVtNs.htm)|Resolve (Swashbuckler)|Résolution (Bretteur)|libre|
+|[swashbuckler-19-G0Sq4tt26TeneUs1.htm](classfeatures/swashbuckler-19-G0Sq4tt26TeneUs1.htm)|Light Armor Mastery (Swashbuckler)|Maîtrise des armures légères (Bretteur)|libre|
+|[witch-05-zXVHXoZKpTootce0.htm](classfeatures/witch-05-zXVHXoZKpTootce0.htm)|Magical Fortitude (Witch)|Vigueur magique (Sorcière)|libre|
+|[witch-07-jSw13ajIzbUdiwwA.htm](classfeatures/witch-07-jSw13ajIzbUdiwwA.htm)|Expert Spellcaster (Witch)|Incantateur expert (Sorcière)|libre|
+|[witch-09-uW7EyPyjgmDPL5Bg.htm](classfeatures/witch-09-uW7EyPyjgmDPL5Bg.htm)|Lightning Reflexes (Witch)|Réflexes éclair (Sorcière)|libre|
+|[witch-11-E3dRpCVIs2daBJs1.htm](classfeatures/witch-11-E3dRpCVIs2daBJs1.htm)|Alertness (Witch)|Vigilance (Sorcière)|libre|
+|[witch-11-Vnt4Yx2Eon9n8Rgw.htm](classfeatures/witch-11-Vnt4Yx2Eon9n8Rgw.htm)|Weapon Expertise (Witch)|Expertise martiale (Sorcière)|libre|
+|[witch-13-8j0C9BkwO7wa125a.htm](classfeatures/witch-13-8j0C9BkwO7wa125a.htm)|Weapon Specialization (Witch)|Spécialisation martiale (Sorcière)|libre|
+|[witch-13-D21HbZu4lssomcG6.htm](classfeatures/witch-13-D21HbZu4lssomcG6.htm)|Defensive Robes (Witch)|Robes défensives (Sorcière)|libre|
+|[witch-15-IDtk2iV6haZWEhQj.htm](classfeatures/witch-15-IDtk2iV6haZWEhQj.htm)|Master Spellcaster (Witch)|Maître Incantateur (Sorcière)|libre|
+|[witch-17-hNy2K2QmKF6sHA2A.htm](classfeatures/witch-17-hNy2K2QmKF6sHA2A.htm)|Resolve (Witch)|Résolution (Sorcière)|libre|
+|[witch-19-3NrNkKwAwnHT0zJE.htm](classfeatures/witch-19-3NrNkKwAwnHT0zJE.htm)|Legendary Spellcaster (Witch)|Incantateur légendaire (Sorcière)|libre|
 |[wizard-00-S6WW4Yyg4XonXGHD.htm](classfeatures/wizard-00-S6WW4Yyg4XonXGHD.htm)|Arcane Spellcasting|Incantation arcanique|officielle|
 |[wizard-01-89zWKD2CN7nRu2xp.htm](classfeatures/wizard-01-89zWKD2CN7nRu2xp.htm)|Arcane Thesis: Metamagical Experimentation|Thèse arcanique : Expérimentation métamagique|officielle|
 |[wizard-01-au0lwQ1nAcNQwcGh.htm](classfeatures/wizard-01-au0lwQ1nAcNQwcGh.htm)|Arcane Bond|Lien arcanique|officielle|
 |[wizard-01-gCwcys8CnS102tji.htm](classfeatures/wizard-01-gCwcys8CnS102tji.htm)|Arcane School: Abjuration|École arcanique : Abjuration|officielle|
-|[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Evocation|Évocation|officielle|
+|[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Arcane School: Evocation|Évocation|changé|
 |[wizard-01-K6hG7nH8yjmbA0Q9.htm](classfeatures/wizard-01-K6hG7nH8yjmbA0Q9.htm)|Arcane School: Illusion|École arcanique : Illusion|officielle|
+|[wizard-01-Klb35AwlkNrq1gpB.htm](classfeatures/wizard-01-Klb35AwlkNrq1gpB.htm)|Arcane Thesis: Staff Nexus|Thèse arcanique : bâton nexus|libre|
 |[wizard-01-M89l9FOnjHe63wD7.htm](classfeatures/wizard-01-M89l9FOnjHe63wD7.htm)|Arcane Thesis|Thèse arcanique|officielle|
 |[wizard-01-OAcxS625AXSGrQIC.htm](classfeatures/wizard-01-OAcxS625AXSGrQIC.htm)|Arcane Thesis: Spell Blending|Thèse arcanique : Mélange de sorts|officielle|
 |[wizard-01-qczCKdg47eAmCOUD.htm](classfeatures/wizard-01-qczCKdg47eAmCOUD.htm)|Arcane School: Universalist|École arcanique : universaliste|officielle|
@@ -398,7 +398,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wizard-11-wsVAwcs3j6k8I4tP.htm](classfeatures/wizard-11-wsVAwcs3j6k8I4tP.htm)|Alertness (Wizard)|Vigilance (Magicien)|officielle|
 |[wizard-13-DbAj1y5vjxUgYLEJ.htm](classfeatures/wizard-13-DbAj1y5vjxUgYLEJ.htm)|Weapon Specialization (Wizard)|Spécialisation martiale (Magicien)|officielle|
 |[wizard-13-R0nGdOlc4KCtdJJr.htm](classfeatures/wizard-13-R0nGdOlc4KCtdJJr.htm)|Defensive Robes (Wizard)|Robes défensives (Magicien)|officielle|
-|[wizard-15-9chVicXrB0pvpUjH.htm](classfeatures/wizard-15-9chVicXrB0pvpUjH.htm)|Master Spellcaster (Wizard)|Maître incantateur|officielle|
+|[wizard-15-9chVicXrB0pvpUjH.htm](classfeatures/wizard-15-9chVicXrB0pvpUjH.htm)|Master Spellcaster (Wizard)|Maître incantateur (Magicien)|officielle|
 |[wizard-17-4WUJl1RQMpKBFaz0.htm](classfeatures/wizard-17-4WUJl1RQMpKBFaz0.htm)|Resolve (Wizard)|Résolution (Magicien)|officielle|
 |[wizard-19-ilIZDX2q7X87GraR.htm](classfeatures/wizard-19-ilIZDX2q7X87GraR.htm)|Legendary Spellcaster (Wizard)|Incantateur légendaire (Magicien)|officielle|
 |[wizard-19-ZjwJHmjPrSs6VDez.htm](classfeatures/wizard-19-ZjwJHmjPrSs6VDez.htm)|Archwizard's Spellcraft|Art magique de l'archimage|officielle|

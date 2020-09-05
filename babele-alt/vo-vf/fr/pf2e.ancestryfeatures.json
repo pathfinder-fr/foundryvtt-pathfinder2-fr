@@ -37,6 +37,11 @@
             "description": "<p>Vos ancètres vivianet sous terre. Vos oreilles sont plus grandes que celles des autres hobgobelins et sensibles aux échos. Lorsque vous êtes sous terre, vous pouvez utiliser l'action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour repérer des créature @Compendium[pf2e.conditionspf2e.VRSef5y1LmL2Hkjf]{non détectées} dans une émanation de 9 m au lieu de 4,5 m. En plus, si vous obtenez un succès sur un test d'Acrobatie pour vous @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Faufiler}, vous obtenez un succès critique à la place.&nbsp;</p>"
         },
         {
+            "id": "Taloned Tengu",
+            "name": "Taloned Tengu (Tengu à ergots)",
+            "description": "<p><span id=\"docs-internal-guid-86da5438-7fff-95ca-40da-9c43890897f2\"></span></p>\n<p dir=\"ltr\">Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque à mains nues d'ergots qui infligent deals [[/r 1d4 #slashing]] dégâts tranchants. Vos ergots font partie du groupe pugilat et possèdent les traits agile, finesse, à mains nues et polyvalent perforant.</p>"
+        },
+        {
             "id": "Runtboss Hobgoblin",
             "name": "Runtboss Hobgoblin (Hobgobelin commandant avorton)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous descendez d'une longue lignée d'hobgobelins qui ont commandé des gobelins. Vous êtes plus petits que les autres hobgobelins, mais les gobelins écoutent toujours chacun des ordres que vous beuglez. Vous obtenez le don de compétence Contraindre un groupe. Si vous obtenez un Succès sur un test d'Intimidation pour Contraindre un gobelin (mais pas les autres créatures avec le trait gobelin), vous obtenez un succès critique à la place ; si vous obtenez un échec critique, vous obtenez un échec à la place.&nbsp;</span></p>"
@@ -89,7 +94,7 @@
         {
             "id": "Arctic Elf",
             "name": "Arctic Elf (Elfe arctique)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vivez dans les profondeurs glacées du Nord et avez développé une incroyable endurance aux environnements froids, qui vous confère une résistance au froid égale à la moitié de votre niveau (avec un minimum de 1). Vous subissez tous les effets environnementaux liés au froid comme si leur intensité était réduite d’un rang (le froid extraordinaire devient extrême, le froid extrême devient grand, etc.).&nbsp;</span></p>"
+            "description": "<p>Vous vivez dans les profondeurs glacées du Nord et avez développé une incroyable endurance aux environnements froids, qui vous confère une résistance au froid égale à la moitié de votre niveau (avec un minimum de 1). Vous subissez tous les effets environnementaux liés au froid comme si leur intensité était réduite d’un rang (le froid extraordinaire devient extrême, le froid extrême devient grand, etc.).</p>"
         },
         {
             "id": "Gourd Leshy",

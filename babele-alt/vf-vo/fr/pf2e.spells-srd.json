@@ -382,6 +382,11 @@
             "description": "<p>Vous créez jusqu’à quatre lumières flottantes, qui ne doivent pas être séparées de plus de 3 m. Chacune émet autant de lumière qu’une torche. Quand vous Maintenez le sort, vous pouvez déplacer autant de lumières que vous le voulez d’au maximum 18 m. Chaque lumière doit rester dans un rayon de 36 m autour de vous et dans un rayon de 3 m autour des autres lumières, sinon elle s’éteint.</p>"
         },
         {
+            "id": "Energy Aegis",
+            "name": "Égide énergétique (Energy Aegis)",
+            "description": "<p>Vous protégez la cible avec une puissante barrière d’énergie qui persiste longtemps. La cible gagne une résistance 5 contre les dégâts d’acide, de froid, d’électricité, de feu, de force, négatifs, positifs et de son.</p>\n<hr>\n<p><strong>Intensifié (9e)</strong> Les résistances passent à 10.</p>"
+        },
+        {
             "id": "Elemental Tempest",
             "name": "Tempête élémentaire (Elemental Tempest)",
             "description": "<p>Votre incantation vous entoure d’une tempête d’énergie élémentaire. Si la prochaine action que vous faites consiste à utiliser vos emplacements de sort de magicien pour Lancer un sort d’évocation qui inflige des dégâts d’acide, de froid, d’électricité ou de feu, une émanation d’énergie de 3 m vous entoure lorsque vous lancez le sort. Les ennemis dans la zone subissent 1d6 dégâts par niveau du sort que vous venez de lancer, le type de dégâts étant identique à celui du sort (choisissez en un s’il inflige plusieurs types de dégâts). Faites la somme des dégâts de la tempête élémentaire et de l’autre sort contre les ennemis qui subissent les dégâts des deux sorts avant d’appliquer les bonus, malus, résistances, faiblesses et autres facteurs similaires.</p>"

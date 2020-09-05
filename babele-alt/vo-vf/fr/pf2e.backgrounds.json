@@ -37,6 +37,11 @@
             "description": "<p>Vous êtes le plus jeune enfant d'une noble maison (du Chéliax, de l'Isger ou de l'Andoran) et vous n'hériterez de rien de votre famille. Bien que vous possédiez un titre mineur, cela ne vous confère ni terre, ni fortune, mais cela vous a permis d'acquérir un peu de respect et de déférences durant vos voyages. Lorsque vous commencez la partie, vous chevauchez au sein d'une caravane à destination d'Almas, où un cousin vous a promis de vous permettre de rester durant un mois.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Dextérité</strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Diplomatie et en Connaissane de l'Héraldique. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.4RjDxgvNXNl5GG9d]{Animal social}.</p>"
         },
         {
+            "id": "Sodden Scavenger",
+            "name": "Sodden Scavenger (récupérateur détrempé)",
+            "description": "<p>Vous avez réussi à gagner de quoi vivre une existence dans les Terres inondées par la Tempête perpétuelle et êtes devenu expert lorsqu'il s'git de récupérer de la nourriture ou des outils.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Constitution </strong> ou de <strong>Sagesse</strong>, et l'autre est libre.</p>\n<p>Vous êtes qualifié en Survie et en Connaissances des marais. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.8qebBeOJsyRIchcu]{Glaneur}.</p>"
+        },
+        {
             "id": "Emissary",
             "name": "Emissary (Émissaire)",
             "description": "<p>Remplissant le rôle de diplomate ou de messager, vous avez énormément voyagé. Votre quotidien consistait à communiquer avec de nouvelles personnes et à former des alliances.<br /></p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Intelligence</strong> ou <strong>Charisme</strong>, et l’autre est une prime de caractéristique libre.<br /></p>\n<p>Vous êtes qualifié dans la compétence Société et une compétence de Connaissance en lien avec une cité dans laquelle vous vous êtes souvent rendu. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte}.</p>"
@@ -52,6 +57,11 @@
             "description": "<p>Toute votre vie, vous avez été hanté par d’effrayants rêves d’incendies. Ils peuvent résulter d’une expérience de mort imminente liée au feu ou n’avoir aucune source connue de vous. Récemment, vous êtes tombé par hasard sur une image, une histoire ou un autre élément représentant Dahak, le dieu draconique de la destruction, et vous avez éprouvé une inquiétante impression de déjà-vu. Vous pensez que cette divinité a quelque chose à voir avec vos rêves et depuis, vous étudiez tout ce que vous pouvez sur elle. Vos visions ont également renforcé votre foi et, même si vous ne vénérez pas de divinité particulière, vous êtes passionné par tout ce qui touche à la religion.</p>\n<p>Votre dernier rêve vous a pour la première fois montré assez de détails pour identifier son décor : vous avez vu la ville de Brèchemont en flammes. Vous avez donc décidé de répondre à l’Appel aux héros dans l’espoir de sauver la ville qui, vous le craignez fort, devrait bientôt brûler jusqu’aux fondations.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Constitution</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Religion et en Connaissance de Dahak. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.x7EMZNMavris2aHY]{Étudiant du droit canon}.</p>"
         },
         {
+            "id": "Goblinblood Orphan",
+            "name": "Goblinblood Orphan (Orphelin du sang gobelin)",
+            "description": "<p>Votre famille, qu'elle soit gobeline, hobgobeline ou humaine est morte durant les guerres du sang gobelin. Bien que vous soyez marqué par ces pertes, vous avez réussi à survivre grâce à votre ingéniosité et votre propre résilience.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Dextérité</strong> ou de <strong>Constitution</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Survie et en Connaissance des gobelins. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Assurance} appliqué à la Survie.</p>"
+        },
+        {
             "id": "Aiudara Seeker",
             "name": "Aiudara Seeker (Chercheur d'aiudara)",
             "description": "<p>L'<em>aiudara</em> de l'Anneau d'Alseta est devenue beaucoup mieux connu et vous êtes intéressé par en apprendre davantage à ce propos.<br /></p>\n<p>Choisissez deux primes de Caractéristiques. L'une doit être de <strong>Sagesse</strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Arcanes et en Connaissance des Portails. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.IlOQuCQIhjJpig3S]{Identification rapide}.</p>"
@@ -62,8 +72,18 @@
             "description": "<p>Le frisson du jeu vous a fait vous perdre dans les jeux de hasard. Il s’agissait peut-être d’un à-côté lucratif qui a perdu de son attrait comparé aux véritables risques liés à la vie d’aventurier, ou votre passion du jeu vous a mis dans une situation difficile et vous vous êtes tourné vers l’aventure avant d’être irrémédiablement pris dans l’engrenage.<br /></p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Dextérité</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre<br /></p>\n<p>Vous êtes qualifié dans les compétences Duperie et Connaissance ludique. Vous gagnez le don de compétence Détecteur de mensonges.</p>"
         },
         {
+            "id": "Sleepless Suns Star",
+            "name": "Sleepless Suns Star (Étoile des soleils sans repos)",
+            "description": "<p>Parmi vos camarades gardes qui patrouillent le Quartier étranger, vous êtes un énergumène. Votre bon travail et votre forte personnalité ont attiré suffisamment d'attention pour que l'on se soit donné le mot que vous êtes l'étoile montante parmi les chiens de garde d'Absalom. Votre popularité vous a aussi apporté la confiance de nombreux citoyens du Quartier étranger.</p>\n<p>Votre performance louable vous a permis de vous faire transférer vers la Edgewatch nouvellemenet formée dans le Quartier du précipice, où vous allez pouvoir faire bon usage de votre formidable réputation en patrouillant durant le Festival radieux et en assurant la sécurité des visiteurs les plus vulnérables d'Absalom.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <stong>Wisdom</strong> ou de <strong>Charisme</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Société, plus soit en Connaissance des gladiateurs, soit en Connaissance de la généalogie. Vous obtenez un bonus de circonstance de +1 aux tests de Diplomatie, de Duperie et d'Intimidation pour @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interagir} avec les membres des soleils sans repos et des résidents du Quartier Étranger. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte}.</p>"
+        },
+        {
+            "id": "Amnesiac",
+            "name": "Amnesiac (Amnésique)",
+            "description": "<p><strong>[Rare]</strong></p>\n<p>Votre historique est elliptique ; honnêtement, vous ne pouvez vous en souvenir ! Vous pourriez avoir de vagues idées enfouies dans votre esprit, des réminiscences d'émotions inhabituelles ou des réponses inattendues face à certaines personnes ou situations, mais en définitive, vous ne savez pas d'où vous venez. Vous pourriez être parti à l'aventure spécifiquement pour vous découvrir vous-même. Il vous appartient avec le MJ de déterminer la vérité sur l'histoire de votre personnage. Vous pouvez la laisser entièrement au MJ pour qu'elle soit secrète ou travailler ensemble, ou même choisir de la laisser pour plus tard. dans tous les cas, vous et votre MJ devriez déterminer quelques détails notables à propos de votre personnage ou ses possessions pour obtenir les premiers indices de votre passé.</p>\n<p>Vous obtenez trois primes de caractéristique. Vous en choisissez deux et le MJ en choisit une troisième basée sur les premières idées de l'histoire possible de votre personnage.</p>"
+        },
+        {
             "id": "Black Market Smuggler",
-            "name": "Black Market Smuggler (Contrebandier du MArché noir)",
+            "name": "Black Market Smuggler (Contrebandier du Marché noir)",
             "description": "<p>Vous savez comment travailler du côté moins que légal des marchés de la région et comment glisser de la contrebande sous le nez des autorités.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Sagesse</strong> ou de <strong>Charisme</strong> et l'autre est une prime de caractéritique libre.</p>\n<p>Vous êtes qualifié en Discrétion et en Connaissance de la Pègre. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.t3btih0O5RUwWynt]{Contrebandier expérimenté}.</p>"
         },
         {
@@ -105,6 +125,11 @@
             "id": "Reputation Seeker",
             "name": "Reputation Seeker (En quête de renommée)",
             "description": "<p>Vous êtes probablement de Brèchemont, mais contrairement à l’Enfant du pays, votre famille n’a pas d’héritage notable dans la région. Il se peut même que vous n’ayez pas de famille et soyez orphelin. Vous avez vu tant de gens se faire un nom que vous êtes parti et avez passé quelque temps dans les jungles ou les déserts du Garund ou dans les strates supérieures de l’Ombreterre, mais ces régions se sont avérées trop dangereuses pour que vous y restiez seul bien longtemps. Vous êtes rentré chez vous, plus prudent et mieux renseigné sur le monde qui s’étend au-delà de Brèchemont, mais toujours aussi déterminé à devenir célèbre.</p>\n<p>Vous avez décidé que le mieux pour obtenir de l’aide dans votre quête de gloire consistait à rejoindre un groupe d’aventuriers et vous répondez donc à l’Appel aux héros pour trouver des alliés.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Dextérité</strong> ou d’<strong>Intelligence</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans les compétences Survie et Connaissance de l’Ombreterre, du désert ou de la jungle. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.4tTkRyOQ0VuRBac3]{Expertise du terrain} (souterrain si vous avez Connaissance de l’Ombreterre, désert si c’est Connaissance du désert et jungle pour Connaissance de la jungle).</p>"
+        },
+        {
+            "id": "Bright Lion",
+            "name": "Bright Lion (Lion brillant)",
+            "description": "<p>Vous êtes membre des Lions brillants et cherchez à renverser le règne tyrannique de of Walkena et à libérer Mzali de ses cruels caprices. Vous avez l'expérience pour opérer sous couverture et avez eu à être prudent quand à ce que vous dites et à qui vous pouvez faire confiance, pour ne pas tomber aux mains des terribles punitions du Dieu-Roi.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Force </strong> ou de <strong>Charisme</strong>, et l'autre est libre.</p>\n<p>Vous êtes qualifié en Duperie et en Connaissances de Mzali. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.Dvz54d6aPhjsmUux]{Détecteur de mensonges}.</p>"
         },
         {
             "id": "Ward",
@@ -152,6 +177,11 @@
             "description": "<p>Vous avez probablement été emprisonné pour un crime (que vous avez commis ou non) ou asservi pendant une partie de votre jeunesse. Maintenant que vous êtes aventurier, vous profitez pleinement de votre liberté retrouvée.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Constitution</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans les compétences Discrétion et Connaissance de la pègre. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.t3btih0O5RUwWynt]{Contrebandier expérimenté}.</p>"
         },
         {
+            "id": "Shory Seeker",
+            "name": "Shory Seeker (Chercheur Shory)",
+            "description": "<p>Vous avez dédié votre vie à résoudre les secrets de l'antique Empire Shory, soit au travers de recherchess méticuleurse ou en voyageant dans des ruines dangereuses et éloignées pour retrouver la trace d'artefacts depuis longtemps perdus.</p>\n<p>Choisissez deux primes de caractéristique. La première doit être de <strong>Dextérité</strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Artisanat et en Connaissance Shory. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.RwEZCpQEN90Mkrvm]{Artisanat spécialisé}.</p>"
+        },
+        {
             "id": "Child of the Puddles",
             "name": "Child of the Puddles (Marmot des flaques)",
             "description": "<p>Vous avez grandi dans le quartier sordide et trempé d'Absalom connu sous le nom des Fllaques. Vous êtes chez vous dans les environnements bondés.</p>\n<p>Choisissez deux primess de Caractéristiques. L'une doit être de <strong>Dextérité</strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Acrobaties et en Connaissance d'Absalom'. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.CnqMJR8e9jqJR7MM]{Équilibre stable}.</p>"
@@ -160,6 +190,11 @@
             "id": "Final Blade Survivor",
             "name": "Final Blade Survivor (Survivant de la Lame finale)",
             "description": "<p>Vous avez été la proie des caprices des milices du Galt et avez été promis à l'exécution par la <em>@Compendium[pf2e.equipment-srd.5Q5MfHX43Sjm8C6Z]{Lame finale}</em>, mais par vos compétences, ou de la chance brute vous avez réussi à vous en sortir.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Charisme</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Duperie et en Connaissance de la révolution. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.B6HbYsLBWb1RR6Fx]{Menteur charismatique}.</p>"
+        },
+        {
+            "id": "Osirionologist",
+            "name": "Osirionologist (Osirionologiste)",
+            "description": "<p>Que vous soyez un étranger fasciné ou un local fier du passé historique de votre nation, vous êtes un étudiant dévoué de l'histoire de l'Osirion. Vous pourriez être un professeur en voyage, un membre d'une société comme celle des Éclaireurs ou de l'Ordre ésotérique de l'œil palatin ou même un simple pilleur de tombe faisant ses affaires sur les gloires du passé.</p>\n<p>Choisissez deux primes de caractéristique. La premieère peut être de <strong>Constitution</strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Occultisme et en Connaissance de l'Antique Osirion. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.hDGosy2ZTwnyctEP]{Identification de bizarreries}.</p>"
         },
         {
             "id": "Tapestry Refugee",
@@ -252,6 +287,11 @@
             "description": "<p>La nature a été votre seconde maison lorsque vous découvriez des sentiers et guidiez des voyageurs. C’est peut-être votre soif de voyages qui vous a poussé à partir à l’aventure, ou vous avez découvert, en servant d’éclaireur à des soldats, que vous aviez pris goût aux combats.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Dextérité</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans la compétence Survie et une compétence de Connaissance liée à un type de terrain dans lequel vous avez déjà effectué une reconnaissance (comme Connaissance des forêts ou Connaissance des cavernes). Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.8qebBeOJsyRIchcu]{Glaneur}.</p>"
         },
         {
+            "id": "Raised by Belief",
+            "name": "Raised by Belief (Élevé dans la croyance)",
+            "description": "<p>Que ce soit dans un monastère, une enclave religieuse ou juste comme une partie de votre vie quotidienne, vous avez été éduqué dans les traditions d'une foi ou d'une philosophie. Vous pouvez y rester dévoué ou avoir tourné le dos aux principes de votre enfance mais vos compétences restent toujours fondées sur votre ancienne dévotion.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être une des caractéristiques spécifiées dans l'entrée Caractéristique divine de votre divinité et l'autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans la compétence divine associée à votre divinité et vous obtenez le don @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Assurance} avec cette compétence. Vous êtes qualifié dans une compétence de Connaissance avec la sous-catégorie associée à votre divinité (Connaissance d'Abadar, par exemple).</p>"
+        },
+        {
             "id": "Tinker",
             "name": "Tinker (Bricoleur)",
             "description": "<p>Vous inventez toutes sortes de petites choses afin de satisfaire votre imagination fertile. Vos compétences en ingénierie s’expriment avec beaucoup de créativité et il est impossible de deviner ce que vous allez bien pouvoir inventer ensuite. Il s’agira peut-être d’un génial appareil qui aura un potentiel fabuleux... ou qui risquera d’exploser.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Dextérité</strong> ou d’<strong>Intelligence</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans les compétences Artisanat et Connaissance de l’ingénierie. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.RwEZCpQEN90Mkrvm]{Artisanat spécialisé}.</p>"
@@ -270,6 +310,16 @@
             "id": "Thuvian Unifier",
             "name": "Thuvian Unifier (Unificateur de Thuvie)",
             "description": "<p>Vous croyez que les Cités États de Thuvie devraient s'unir en une nation sous le règne de la Cité qui est votre foyer (la plupart du temps Aspenthar) et vous voulez faire tout ce qui doit l'être pour le réaliser.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Force</strong> ou de <strong>Charisme</strong> et l'autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Intimidation et en Connaissance de la politique. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.ar2DUlvDK4LDcH9J]{Contrainte rapide}.</p>"
+        },
+        {
+            "id": "Pilgrim",
+            "name": "Pilgrim (Pélerin)",
+            "description": "<p>Dans votre jeunesse, vous avez accompli plusieurs pélerinages vers des temples importants et des lieux saints. Vous pourriez avoir été un frère mendiant, un vendeur de reliques saintes (rélle ou frauduleuses) ou juste un simple fermier qui suit les piliers de votre foi. Quelques soient désormais les objectifs de vos errances, votre foi vous protège toujours sur la route.</p>\n<p>Choisissez deux primes de caractéristiques. Une doit être de <strong>Sagesse </strong>ou de <strong>Charisme</strong>, et l'autre est libre.</p>\n<p>Vous êtes qualifié en Religion et en Connnaissance de votre divinité patronne. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.BqceQIKE0lwIS98s]{Amulette du pélerin}.</p>"
+        },
+        {
+            "id": "Witch Wary",
+            "name": "Witch Wary (Gare aux sorcières)",
+            "description": "<p>Vous portez peu d'amour ou de confiance aux arts magiques et à ceux qui le pratiquent et vous avez développé un sens paranoïaque lorsqu'il s'agit de reconnaitre de telles pratiques. Vous êtes constamment sur vos gardes contre la magie des sorcières et avez été entraîné à repérer les signes de ceux qui ont l'esprit embrumé par la magie.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Dextérité </strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Occultisme et en Connaissance des malédictions. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.hDGosy2ZTwnyctEP]{Identification des bizarreries}.</p>"
         },
         {
             "id": "Sewer Dragon",
@@ -332,6 +382,11 @@
             "description": "<p>Votre précédente activité consistait à vendre des produits et échanger des biens, peut-être dans une boutique poussiéreuse, derrière un étal de marché, ou dans une caravane marchande. Les compétences que vous avez acquises vous servent dans votre nouvelle vocation d’aventurier, dans le cadre de laquelle votre capacité à obtenir une réduction sur le prix d’une bonne armure pourra vous sauver la vie.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>d’Intelligence</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans les compétences Diplomatie et Connaissance commerciale. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.5nc5ridFBfYpn2Om]{Chasseur de bonnes affaires}.</p>"
         },
         {
+            "id": "Molthuni Mercenary",
+            "name": "Molthuni Mercenary (Mercenaire du Molthune)",
+            "description": "<p>Que vous cherchiez à devenir citoyen ou que vous ayiez simplement besoin d'une solde stable, vous avez passé un certain temps comme mercenaire stipendié dans les froces militaires du Molthune, où vous avez combattu les ennemis du Molthune comme le Nirmathas ou la Légion du Croc de fer. De manière alternative, vous pourriez avoir travaillé sur les flots, protégeant les navires militaires et marchands du Molthune contre les pirates sur le Lac Encarthan.</p>\n<p>Choisissez deux primes de caractéristiques. Une doit être de <strong>Force </strong> ou de <strong>Constitution</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Athlétisme et en Connaissance des Mercenaires. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.sMm0UfYxEPpq2Yzd]{Professionnel expérimenté}.</p>"
+        },
+        {
             "id": "Purveyor of the Bizzare",
             "name": "Purveyor of the Bizzare (Fournisseur de Bizarreries)",
             "description": "<p>Que ce soit au Katapesh ou une des marchés animés le long de la Route du Sel, vous avez passé suffisamment de temps à acheter et vendre des objets antiques ou inhabituels pour vous donner une capacité instinctive pour rapdement repérer les babioles de valeurs parmi les autres bricoles sans intérêt.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être d'<strong>Intelligence </strong> ou de <strong>Sagesse</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Arcanes et en Connaissance des Affaires. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.IlOQuCQIhjJpig3S]{Identification rapide}.</p>"
@@ -350,6 +405,11 @@
             "id": "Root Worker",
             "name": "Root Worker (Chasseur de racines)",
             "description": "<p>Certaines affections ne peuvent être soignées seulement pas des herbes. Vous avez également appris des remèdes rituels, faisant appel aux esprits de la nature pour soulager les douleurs et préserver du mauvais œil. Partir avec des aventuriers vous a apporté de la compagnie sur la route, aussi bien qu'une protection contre ceux qui voudraient vous livrer une contrefaçon ou pire.</p>\n<p>Choisissez deux primes de caractéristiques. Une doit être d'<strong>Intelligence </strong>ou de <strong>Sagesse</strong>, et l'autre est libre.</p>\n<p>Vous êtes qualifié dans la compétence Occultisme et la Connaissance de l'herbalisme. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.22P7IFyhrF7Fbw8B]{Magie des racines}.</span></p>"
+        },
+        {
+            "id": "Thassilonian Traveler",
+            "name": "Thassilonian Traveler (Voyageur Thassilonien)",
+            "description": "<p>Vous êtes de l'Antique Thassilon, un des citoyens apparu hors du temps aux alentours de la Cité de Xin-Edasseril. Vous connaissez beaucoup de choses depuis longtemps oubliées... ains ique beaucoup de choses qui ne sont plus correctes depuis longtemps.</p>\n<p>Choiissez deux primes de caractéristiques. La première est de <strong>Constitution </strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous ête qualifié en Arcanes et en Connaissance du Thassilon. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.1Bt7uCW2WI4sM84P]{Savoir douteux}.</p>"
         },
         {
             "id": "Freed Slave of Absalom",
@@ -377,6 +437,11 @@
             "description": "<p>Vous avez été plus qu'un rebelle ; vous avez été un révolutionnaire, combattant pour la promesse d'un meilleur pays. Vous pouvez ou non toujours croire en la cause ou peut-être que la victoire ou l'exil vous ont conduit sur cette nouvelle voie pour claironner votre gloire... ou pour échapper aux conséquences de votre défaite.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Force</strong> ou de <strong>Sagesse</strong> et l’autre est libre.</p>\n<p>Vous êtes qualifié en Duperie et en Connaissance de la Guerre. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.HEBXaS656MZTiWFu]{Diversion interminable}.</p>"
         },
         {
+            "id": "Squire",
+            "name": "Squire (Écuyer)",
+            "description": "<p>Vous vous êtes entraîné aux pieds d'un Chevalier, fourbissant son équipement et l'encourageant durant les tournois ou les batailles. Maintenant vous recherchez un défi qui prouvera que vous êtes capable d'être fait à votre tour Chevalier ou vous avez repoussé la pompe et le cérémonial pour vous tester dans un combat honnête mais moins formel. </p>\n<p>Choississez deux primes de caractéristique. La première doit être de <strong>Force</strong> ou de <strong>Constitution</strong> et la seconde est libre.</p>\n<p>Vous êtes qualifié en Athlétisme et en Connaissance de l'Héraldique ou de la Guerre. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.Lc4dJZivRwU3QEmT]{Aide armure}.</span></p>"
+        },
+        {
             "id": "Vidrian Reformer",
             "name": "Vidrian Reformer (Réformateur vidrien)",
             "description": "<p>Vous savez que le seul moyen pour que votre patrie, le Vidrian, puisse rester libre des conquérants de l'extérieur, consiste à forger un gouvernement puissant et unifié. Comme tel, vous cherchez à lier vos concitoyens ensemble par le biais d'une diplomatie soigneuse et la force de personnalité ; ou, lorsque c'est necessaire, par le subterfuge et l'intrigue.</p>\n<p>Choisissez deux améliorations de caractéristiques. La première doit être de <strong>Dextérité </strong>ou de <strong>Charisme</strong> et une est libre.</p>\n<p>Vous êtes qualifié en Diplomatie et en Connaissance de la politique. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.4RjDxgvNXNl5GG9d]{Animal social}</p>"
@@ -397,6 +462,16 @@
             "description": "<p>Que vous laviez les bêtes de combat sous le plancher de l'arène de l'Irorium ou ayez pris soin des animaux mutants d'un spectacle des Flaques, vous avez l'expérience avec toutes sortes de bêtes étranges.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Constitution</strong> ou <strong>Sagesse</strong>, et l’autre est une prime de caractéristique libre.<br /></p>\n<p>Vous êtes qualifié dans la compétence Nature et une compétence de Connaissance des animaux. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.nowEaHgIyij7im8F]{Dressage animalier}.</p>"
         },
         {
+            "id": "Cook",
+            "name": "Cook (Cuisinier)",
+            "description": "<p>Vous avez été élevé dans les cuisines d'une taverne ou dans un autre établissement où l'on mange et y excellez, devenant un cuisinier extraordinaire. Pétrir, cuire, un peu de brassage à côté ; vous avez passé beaucoup de tempos hors de vue. Il et désormais temps que vous sortiez de votre cuisine pour voir les aspects du monde extérieur par vos propres yeux.</p>\n<p>Choisissez deux primes de caractéristiques. LA première doit être de <strong>Constitution</strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Survie et en connaissance de la Cuisine. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.1Eceqc6zbMj2x0q9]{Assaisonné}.</p>"
+        },
+        {
+            "id": "Storm Survivor",
+            "name": "Storm Survivor (Rescapé d'une tempête)",
+            "description": "<p>Par chance ou du fait de votre compétence, vous êtes parvenu à survivre à un désastre maritime catastrophique, tel qu'un naufrage ou après être passé par-dessus bord. Vous avez un sens aigu concernant le climat ou les situations qui sont similaires à celles dont vous avez réchappé.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Force</strong> ou de <strong>Sagesse</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Survie et en Connaissance du Climat. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.8qebBeOJsyRIchcu]{Glaneur}.</p>"
+        },
+        {
             "id": "Warrior",
             "name": "Warrior (Homme d'armes)",
             "description": "<p>Dans votre jeunesse, vous avez combattu en tant que mercenaire, guerrier défendant un peuple nomade, ou membre d’une milice ou d’une armée. Vous avez peut-être eu envie de vous affranchir de la structure hiérarchique de ces forces armées, mais vous pouvez également avoir toujours été un guerrier indépendant.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Constitution</strong> et l’autre est une prime de caractéristique libre.</p> \n<p>Vous êtes qualifié dans les compétences Intimidation et Connaissance de la guerre. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.xQMz6eDgX75WX2ce]{Regard intimidant}.</p>"
@@ -405,6 +480,11 @@
             "id": "Legendary Parents",
             "name": "Legendary Parents (Parents légendaires)",
             "description": "<p>Un au moins de vos parents (qu'il soit biologique ou adoptif) a été un des héros de la Campagne de l'Âge des Cendres. Les autres tendent à vous traiter avec un peu plus de respect ou peuvent avoir peut-être peur de vos liens avec des gens de grand pouvoir.<br><</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Dextérité</strong> ou <strong>Charisme</strong>, et l’autre est une prime de caractéristique libre.<br /></p>\n<p>Vous êtes qualifié dans la compétence Intimidation et une compétence de Connaissance de la Généalogie. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.gUqvezs2zzoTXFAI]{Contraindre un groupe}.</p>"
+        },
+        {
+            "id": "Undersea Enthusiast",
+            "name": "Undersea Enthusiast (Enthousiaste aquatique)",
+            "description": "<p>Vous aimez plonger et explorer le monde qui se trouve sous les vagues et de longues périodes de natation vous ont entraîné à vous déplacer aisément dans les eaux. Vous êtes également fasciné par les créatures sous-marines et leurs cultures and cultures ; vous pouvez même avoir une trace de l'une d'elle dans votre propre lignée.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Force</strong> ou de <strong>Constitution</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Athlétisme et en Connaissance de l'Océan. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.iOY6YfGBaOvMNAor]{Maraudeur aquatique}.&nbsp;</p>"
         },
         {
             "id": "Hermit",
@@ -462,9 +542,19 @@
             "description": "<p>En mettant en sécurité l'<em>Opale intouchable</em>, un artefact aux pouvoirs extraordinaires, la Société des Éclaireurs  endeavored pour libérer le bienveillant demi-dieu Ranginori, qui était emprisonné à l'intérieur de cette prison virtuellement incassable. Vous pourriez avoir rejoit la Société des Éclaireurs dans ses expéditions vers les Plans Élémentaires ou pourriez avoir vécu sur un de ses plans avant d'apprendre son existence par des agents Éclaireurs. Comme résultat, vous n'êtes plus étranger à devoir parcourir les terrains précaires.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Dextérité</strong> ou <strong>Charisme</strong>, et l’autre est une prime de caractéristique libre.<br /></p>\n<p>Vous êtes qualifié dans la compétence Acrobaties et soit la Connaissance des Seigneurs Élémentaires soit une Connaissance en lien avec un Plan Élémentaire (tel que le Plan de l'Air). Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.LQw0yIMDUJJkq1nD]{Chute féline}</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner cet historique seulement si vous avez obtenu du crédit pendant au moins 5 scénarios de la Première Édition de la saison 8 du jeu organisé de la Campagne de la Société des Éclaireurs.</p>"
         },
         {
+            "id": "Tax Collector",
+            "name": "Tax Collector (Percepteur)",
+            "description": "<p>Vilipendé mais nécessaire, vous avez été envoyé lorsque les impôts nesont pas réglés. Effectuer votre travail pourrait vous avoir amené à voyager et à faire preuve de persuasion à moins que vous n'ayez été responsable de la collecte des taxes sur le commerce. Quoi qu'il en soit, cela a signifié qu'il a fallu quelquefois vous salir les mains et partir à l'aventre vous a semblé la prochaine chose logique à faire.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Force</strong> ou de <strong>Charisme</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Intimidation et en Connaissance de la communauté qui vous a employé. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.ar2DUlvDK4LDcH9J]{Contrainte rapide}.</p>"
+        },
+        {
             "id": "Miner",
             "name": "Miner (Mineur)",
             "description": "<p>Vous gagniez votre vie en extrayant des minerais précieux des profondeurs obscures de la terre. Comparé à cet épuisant labeur, partir à l’aventure peut vous sembler une alternative lucrative et séduisante. Et si vous deviez retourner sous terre, vous comptez bien le faire avec une véritable arme en main et non une pioche de mineur.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans les compétences Survie et Connaissance minière. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.4tTkRyOQ0VuRBac3]{Expertise du terrain} en environnement souterrain.</p>"
+        },
+        {
+            "id": "Feral Child",
+            "name": "Feral Child (Enfant sauvage)",
+            "description": "<p><strong>[Rare]</strong></p>\n<p>Vous avez passé votre jeunesse dans les étendues sauvages, vivant à proximité ou en ayant été élevé par des animaux. Vous avez un lien proche, mystique avec ces animaux et obtenu avec eux certaines capacités, bien que cela ait aussi limité votre épanouissement mental.</p>\n<p>Choisissez une prime de caractéristique. Elle doit être de <strong>Force</strong>, de <strong>Dextérité</strong> ou de <strong>Constitution</strong>.</p>\n<p>Vous êtes qualifié en Nature et en Survie. Vous obtenez @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} (ou @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si vous possédez déjà Vision nocturne), un sens imprécis avec une portée de 9m et le don de compétence @Compendium[pf2e.feats-srd.8qebBeOJsyRIchcu]{Glaneur}.</p>"
         },
         {
             "id": "Nirmathi Guerrilla",
@@ -490,6 +580,16 @@
             "id": "Geb Crusader",
             "name": "Geb Crusader (Croisé du Geb)",
             "description": "<p>Vous avez grandi en considérant que la nation morte-vivante du Geb est une atrocité et vous êtes entraîné pour un jour prendre part à sa destruction et à donner un repos définitif à ses habitants. Comme élément de vos préparatids est une étude approfondie de Pharasma, Urgathoa et d'autres divinités en lien avec les morts-vivants et leurs philosophies.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Constitution</strong> ou <strong>Sagesse</strong>, et l’autre est une prime de caractéristique libre.<br /></p>\n<p>Vous êtes qualifié dans la compétence Religion et Connaissance des morts-vivants. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.x7EMZNMavris2aHY]{Étudiant du droit canon}.</p>"
+        },
+        {
+            "id": "Former Aspis Agent",
+            "name": "Former Aspis Agent (Ancien Agent de l'Aspis)",
+            "description": "<p>Pendant plus d'un siècle, la société des Éclaireurs s'est affronté avec l'avaricieux et fourbe Consortium de l'Aspis et il y a plusieurs années la Société a porté à son ancien rival un coup décisif. Vous pourriez petre un des quelques survivants d'une Expédition de l'Aspis condamné ou peut-tre avoir été chassé à la suite des patriques malhonnêtes du Consortium et avoir fait défection chez les Éclaireurs. Quelles que soit vos raisons, vous savez être efficace et impitoyable lorsque les circonstances l'exigent.</p>\np>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Charisme</strong> ou d'<strong>Intelligence</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Intimidation et en Connaissance du Consortium de l'Aspis. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.gUqvezs2zzoTXFAI]{Contraindre un groupe}. Vous avez accès à toute option peu commune comme si vous étiez un membre du Consortium de l'Aspis.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez sélectionner cet historique que si vous avez obtenu du crédit pendant au moins scénarios de la Saison 7 du jeu organisé de la Société des Éclaireurs.</p>"
+        },
+        {
+            "id": "Kyonin Emissary",
+            "name": "Kyonin Emissary (Émissaire du Kyonin)",
+            "description": "<p>Vous avez été formé pour devenir un ambassadeur des terres elfiques du Kyonin et vous avez été envoyé dans le large monde pour construire des alliances entre le Kyonin et les royaumes voisins.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Charisme</strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Société et en connaissance de la Politique. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte}.</p>"
         },
         {
             "id": "Hunter",
@@ -632,6 +732,11 @@
             "description": "<p>Après la levée des restrictions sur la citoyenneté d'Herméa, vous pouvez avoir fui la Ville de Promesse ou avoir passé une partie de votre enfance en compagnie de quelqu'un qui l'a fait.<br></p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Constitution</strong> ou <strong>Sagesse</strong>, et l’autre est une prime de caractéristique libre.<br /></p>\n<p>Vous êtes qualifié dans la compétence Société et Connaissance des lois. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte} ou @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Assurance}.</p>"
         },
         {
+            "id": "Barker",
+            "name": "Barker (Aboyeur)",
+            "description": "<p>Vous êtes compétent pour crier pour attirer et capter l'attention des passants. Quelques mots àbien à propos et déclamés avec force ne font pas seulement que les gens vous remarquent mais les conduisent également à vous répondre. Vous pouvez avoir précédemment travaillé comme crieur ou sous une forme plus formelle d'aboyeur pour la Ménagerie Céleste de Maîtresse Crépuscule. Quoi qu'il en soit, votre capacité à rameuter les foules est impressionnante.</p>\n<p>Choisissez deux primes de caractéristiques. La première dit être de <strong>Constitution</strong> ou de <strong>Charisme</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Intimidation et en Connassaince de la foule. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.gUqvezs2zzoTXFAI]{Contraindre un groupe}.</p>"
+        },
+        {
             "id": "Bandit",
             "name": "Bandit (Bandit)",
             "description": "<p>Votre passé n'est pas exempt d'un nombre de brigandage rural, de voyageurs volés sur la route et d'égratignures. Que votre brigandage ait été puni par un nomble local ou que vous l'ayez fait avec son accord, vous avez fini par vous faire à la vie d'aventure. Maintenant, cette aventure est votre petit commerce et les années de camping et d'escarmouches vous ont ainsi aidé.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Dextérité </strong> ou de <strong>Charisme</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Intimidation et dans une Connaissance en lien avec le terrain sur lequel vous avez évolué (tel que Connaissance du désert ou Connaissance des plaines). Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.gUqvezs2zzoTXFAI]{Contraindre un groupe}.</p>"
@@ -659,7 +764,7 @@
         {
             "id": "Scholar",
             "name": "Scholar (Érudit)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez toujours aimé étudier et vous vous êtes ainsi coupé du monde pour apprendre tout ce que vous pouviez. Vos livres vous ont permis de découvrir des choses et des lieux extraordinaires que vous avez toujours rêvé de voir en vrai. Finalement, la curiosité a pris le dessus et vous avez abandonné vos études pour partir à l’aventure.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>d’Intelligence</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes qualifié dans la compétence de votre choix parmi Arcanes, Nature, Occultisme, ou Religion. Vous gagnez le don de compétence Assurance avec cette compétence. Vous êtes également qualifié dans la compétence Connaissance universitaire.</span></p>"
+            "description": "<p>Vous avez toujours aimé étudier et vous vous êtes ainsi coupé du monde pour apprendre tout ce que vous pouviez. Vos livres vous ont permis de découvrir des choses et des lieux extraordinaires que vous avez toujours rêvé de voir en vrai. Finalement, la curiosité a pris le dessus et vous avez abandonné vos études pour partir à l’aventure.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>d’Intelligence</strong> ou de <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans la compétence de votre choix parmi Arcanes, Nature, Occultisme, ou Religion. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Assurance} avec cette compétence. Vous êtes également qualifié dans la compétence Connaissance universitaire.</p>"
         },
         {
             "id": "Criminal",
@@ -705,6 +810,16 @@
             "id": "Ruby Phoenix Enthusiast",
             "name": "Ruby Phoenix Enthusiast (Enthousiaste du Phénix de rubis)",
             "description": "<p>Nommé en référance à la légendaire ensorceleuse Hao Jin, le Tournoi du Phénix de rubis se produit une fois toutes les décennies à Goka et attire les talents extraordinaires de partout à travers le monde. Vous pourriez avoir commencé à vous entraîner pour le tournoi sans y avoir jamais participé ou peut-être y avoir participé mais perdu seulement face à la Société des Éclaireurs (et avoir voulu vous y joindre). Dans l'un ou l'autre cas, votre entraînement dédié vous a préparé aux rigueurs du style de vie aventureux.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Dextérité</strong> et l'autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Athlétisme et en Connaissance des gladiateurs. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur}. De plus, vous obtenez l'accès à une des ses armes de moines peu courante : @Compendium[pf2e.equipment-srd.zSAoyzcf3nSeZCiF]{Kama}, @Compendium[pf2e.equipment-srd.LA8wwpQBi6tylE6z]{Nunchaku}, @Compendium[pf2e.equipment-srd.u2u6dkr01AB34tyA]{Sai}, @Compendium[pf2e.equipment-srd.fjkwYZ0hRmBztwBG]{Shuriken} ou @Compendium[pf2e.equipment-srd.NIsxR5zXtVa3PuyU]{Épée du temple}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez sélectionner cet historique que si vous avez obtenu du crédit pendant au moins 5 scénarios de la Saison 3 du Jeu organisé de la Société des Éclaireurs.</p"
+        },
+        {
+            "id": "Blessed",
+            "name": "Blessed (Béni)",
+            "description": "<p><strong>[Rare]</strong></p>\n<p>Vous avez été béni par une divinité. Pour une raison inconnue, et indépendamment de vos croyances actuelles, une divinité vous a accordé un don pour l'utiliser pour le bien ou le mal. Cette bénédiction vous accorde la sagesse et l'introspection pour vous aider dans vos combats. Vous pouvez ou non connaître l'identité de l'être qui vous a béni et la bénédiction peut avoir un coût que vous découvrirez plus tard. </p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Sagesse</strong> ou de <strong>Charisme</strong> et l'autre est une prime de caractéritique libre.</p>\n<p>Vous êtes qualifié dans une Connaissance associée à la divinité qui vous a béni (comme Connaissance de Shélyn) si vous connaisser l'identité, ou une Connaissance au choix du MJ si vous ne la connaissez pas. Soit vous pouvez lancer @Compendium[pf2e.spells-srd.izcxFQFwf3woCnFs]{Assistance divine} comme sort divin inné à volonté, soit vous obtenez une bénédiction similaire déterminée par le MJ.</p>"
+        },
+        {
+            "id": "Sarkorian Reclaimer",
+            "name": "Sarkorian Reclaimer (Réclamateur du Sarkoris)",
+            "description": "<p>Que vous puissez remonter votre ascendance au Sarkoris perdu ou être un croisé essayant de redresser les torts causés par les fanatiques, vous cherchez à libérer la patrie du Sarkoris des démons qui y ont défilé.</p>\n<p>Choississez deux primes de caractéristiques. La première doit être de <strong>Constitution</strong> ou de <strong>Sagesse</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Médecine et en Connaissance des Abysses. Vous obtenez le don @Compendium[pf2e.feats-srd.wYerMk6F1RZb0Fwt]{Médecine militaire}.</p>"
         },
         {
             "id": "Political Scion",
@@ -757,9 +872,19 @@
             "description": "<p>Vous suivez la philosophies des prophéties de Kalistrade, Cherchant à faire fortune dans cette vie pour pouvoir vivre dans la prochaine selon vos propres termes.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être d'<strong>Intelligence </strong> ou de <strong>Constitution</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Diplomatie et en Connaissance de Kalistrade. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.5nc5ridFBfYpn2Om]{Chasseur de bonnes affaires}.</p"
         },
         {
+            "id": "Shadow Lodge Defector",
+            "name": "Shadow Lodge Defector (Défecteur de la Loge de l'ombre)",
+            "description": "<p>Vous avez figuré parmi les Éclaireurs recrutés par la Loge de l'ombre dévoyée, leurré par ses promesses d'argent, de réforme, de justice ou de revanche. Vous pourriez avoir combattu contre les agents loyaux à la Société, aidé à saboter la réputation de la Société dans les pays éloignés ou même avoir infiltré les loges distantes comme espion. Vous avez depuis fait la paix et rejoint la Société des Éclaireurs, bien que les réflexes acquis de fourberie et les compétences que vous avez apprises soient difficiles à oublier.</p>\n<p>Choisissez deux primes de caractéristique. La première doit être de <strong>Dextérité</strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Duperie et en Connaissance de la Pègre. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.Dvz54d6aPhjsmUux]{Détecteur de mensonges}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir cet historique que si vous avez acquis du crédit pendant au moins 5 scénarios de la Saison 2 du jeu organisé de la Société des Éclaireurs pour la première édition de Pathfinder JdR.</p>"
+        },
+        {
             "id": "Dreamer of the Verdant Moon",
             "name": "Dreamer of the Verdant Moon (Rêveur de la lune verdoyante)",
             "description": "<p>Vous avez passé vos premiers jours après les suites d'un des grands désespoirs. Vous avez survécu grâce à vos ressources intérieures et peut être aussi de la faveur de votre patron et avez été béni par l'octroi de compétences et une volonté supplémentaire après coup, mais vous devez toujours répondre à ses standards, au cas où la faim des profondeurs viendrait vous chercher un fois encore.<br /></p>\n<p>Choisissez deux primes de Caractéristiques. L'une doit être de <strong>Sagesse</strong> ou de <strong>Force</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Survie et en Connaissance de Zevgavizeb. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.d8AjCqU30z7IOpos]{Énergie du désespoir}</p>"
+        },
+        {
+            "id": "Royalty",
+            "name": "Royalty (De sang royal)",
+            "description": "<p><strong>[Rare]</strong></p>\n<p>Vous êtes un membre proéminent d'une famille royale. Vous avez embrassé la vie d'aventurier ; peutêtre êtes vous une reine déposée espérant récupérer son trône, un prince cherchant une vie plus exaltante ou une princesse chargée d'unemission secrète.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être d'<strong>Intelligence</strong> ou de <strong>Charisme</strong> et l'autre est libre. </span></p>\n<p>Vous êtes qualifié en Société. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.JtjnFsOToBLnSRO9]{Manières courtoises} et pouvez influencer les gens du peuple au sein du territoire de votre famille, ainsi que la noblesse partout ailleurs. Si vous obtenez plus tard le don de compétence @Compendium[pf2e.feats-srd.iCv8KTZ5PcF4GqeV]{Relations}, vous disposez automatiquement de relations parmi les nobles et les gens du peuple au sein de n'importe laquelle des communautés au sein du territoire de votre famille et vous disposez d'importantes relations dans les communautés de grande taille en dehors de votre territoire.</p>"
         },
         {
             "id": "Cursed",
@@ -789,7 +914,7 @@
         {
             "id": "Barkeep",
             "name": "Barkeep (Tavernier)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez cinq talents : porter des tonneaux, boire, polir des chopes, boire et boire. Vous avez travaillé dans un bar, où vous avez appris à tenir l’alcool et à vous sociabiliser bruyamment avec la clientèle.<br /><br />Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Constitution</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre. Vous êtes qualifié dans les compétences <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=6\">Diplomatie</a></u> et <u><a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a></u> des alcools. Vous gagnez le don de compétence <u><a href=\"https://2e.aonprd.com/Feats.aspx?ID=791\">Animal social</a></u>."
+            "description": "<p>Vous avez cinq talents : porter des tonneaux, boire, polir des chopes, boire et boire. Vous avez travaillé dans un bar, où vous avez appris à tenir l’alcool et à vous sociabiliser bruyamment avec la clientèle.</p>\n<p>>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Constitution</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans les compétences Diplomatie et Connaissance des alcools. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.4RjDxgvNXNl5GG9d]{Animal social}.</p>"
         },
         {
             "id": "Mystic Seer",
