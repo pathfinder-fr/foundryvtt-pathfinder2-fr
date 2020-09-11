@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **officielle**: 352
+ * **officielle**: 372
  * **libre**: 7
- * **aucune**: 441
+ * **aucune**: 421
  * **changé**: 46
 
 
-Dernière mise à jour: 2020-09-05 17:39 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-10 21:01 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -79,21 +79,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[con-04-3xD8DYrr8YDVYGg7.htm](spells/con-04-3xD8DYrr8YDVYGg7.htm)|Spike Stones|
 |[con-04-iMmexY6ZosLS4I5R.htm](spells/con-04-iMmexY6ZosLS4I5R.htm)|Door to Beyond|
 |[con-04-K1wmI4qPmRhFczmy.htm](spells/con-04-K1wmI4qPmRhFczmy.htm)|Dust Storm|
-|[con-05-115Xp9E38CJENhNS.htm](spells/con-05-115Xp9E38CJENhNS.htm)|Passwall|
-|[con-05-29ytKctjg7qSW2ff.htm](spells/con-05-29ytKctjg7qSW2ff.htm)|Summon Fiend|
-|[con-05-2w4OpAGihn1JSHFD.htm](spells/con-05-2w4OpAGihn1JSHFD.htm)|Black Tentacles|
 |[con-05-5ttAVJbWg2GVKmrN.htm](spells/con-05-5ttAVJbWg2GVKmrN.htm)|Shadow Jump|
 |[con-05-BoA00y45uDlmou07.htm](spells/con-05-BoA00y45uDlmou07.htm)|Secret Chest|
-|[con-05-e9UJoVYUd5kJWUpi.htm](spells/con-05-e9UJoVYUd5kJWUpi.htm)|Summon Giant|
-|[con-05-F1qxaqsEItmBura2.htm](spells/con-05-F1qxaqsEItmBura2.htm)|Tree Stride|
-|[con-05-i1TvBID5QLyXrUCa.htm](spells/con-05-i1TvBID5QLyXrUCa.htm)|Summon Entity|
-|[con-05-kghwmH3tQjMIhdH1.htm](spells/con-05-kghwmH3tQjMIhdH1.htm)|Summon Dragon|
-|[con-05-kOa055FIrO9Smnya.htm](spells/con-05-kOa055FIrO9Smnya.htm)|Wall of Stone|
-|[con-05-lTDixrrNKaCvLKwX.htm](spells/con-05-lTDixrrNKaCvLKwX.htm)|Summon Celestial|
 |[con-05-oXeEbcUdgJGWHGEJ.htm](spells/con-05-oXeEbcUdgJGWHGEJ.htm)|Impaling Spike|
 |[con-05-qr0HOiiuqj5LKlDt.htm](spells/con-05-qr0HOiiuqj5LKlDt.htm)|Pillars of Sand|
 |[con-05-rtA3HRGoy7PQTOhq.htm](spells/con-05-rtA3HRGoy7PQTOhq.htm)|Terrain Transposition|
-|[con-05-rxvS7EMJ7qmexAyA.htm](spells/con-05-rxvS7EMJ7qmexAyA.htm)|Shadow Walk|
 |[con-05-vgy00hnqxN9VoeoF.htm](spells/con-05-vgy00hnqxN9VoeoF.htm)|Planar Ally|
 |[con-05-yRf59eFtZ50cGlem.htm](spells/con-05-yRf59eFtZ50cGlem.htm)|Heroes' Feast|
 |[con-06-69L70wKfGDY66Mk9.htm](spells/con-06-69L70wKfGDY66Mk9.htm)|Teleport|
@@ -304,11 +294,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ill-04-HisaZTk67YAxLGBq.htm](spells/ill-04-HisaZTk67YAxLGBq.htm)|Ephemeral Hazards|
 |[ill-04-vhe9DduqaivMs8FV.htm](spells/ill-04-vhe9DduqaivMs8FV.htm)|Ghostly Transcription|
 |[ill-05-m4Mc5XbdML92BKOE.htm](spells/ill-05-m4Mc5XbdML92BKOE.htm)|Strange Geometry|
-|[ill-05-RCbLd7dfquHnuvrZ.htm](spells/ill-05-RCbLd7dfquHnuvrZ.htm)|False Vision|
-|[ill-05-scTRIrTfXquVYHGw.htm](spells/ill-05-scTRIrTfXquVYHGw.htm)|Drop Dead|
-|[ill-05-TCk2MDwf5L5OYjFC.htm](spells/ill-05-TCk2MDwf5L5OYjFC.htm)|Cloak of Colors|
-|[ill-05-U58aQWJ47VrI36yP.htm](spells/ill-05-U58aQWJ47VrI36yP.htm)|Hallucination|
-|[ill-05-Ucf8eynbZMfUucjE.htm](spells/ill-05-Ucf8eynbZMfUucjE.htm)|Illusory Scene|
 |[ill-05-xPrbxyOEwy9QaPVn.htm](spells/ill-05-xPrbxyOEwy9QaPVn.htm)|Chameleon Coat|
 |[ill-06-0XP2XOxT9VSiXFDr.htm](spells/ill-06-0XP2XOxT9VSiXFDr.htm)|Phantasmal Calamity|
 |[ill-06-EOWh6VVcSjB3WPjX.htm](spells/ill-06-EOWh6VVcSjB3WPjX.htm)|Shadow Illusion|
@@ -333,7 +318,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-01-fAlzXtQAASaJx0mY.htm](spells/nec-01-fAlzXtQAASaJx0mY.htm)|Life Boost|
 |[nec-01-FedTjedva2rYk33r.htm](spells/nec-01-FedTjedva2rYk33r.htm)|Undeath's Blessing|
 |[nec-01-gSUQlTDYoLDGAsCP.htm](spells/nec-01-gSUQlTDYoLDGAsCP.htm)|Hymn of Healing|
-|[nec-01-jFmWSIpJGGebim6y.htm](spells/nec-01-jFmWSIpJGGebim6y.htm)|Touch of Corruption|
 |[nec-01-KIV2LqzS5KtqOItV.htm](spells/nec-01-KIV2LqzS5KtqOItV.htm)|Heal Companion|
 |[nec-01-NkeLctXo9FLGnDhi.htm](spells/nec-01-NkeLctXo9FLGnDhi.htm)|Divine Plagues|
 |[nec-01-rVhHaWqUsVUO4GuY.htm](spells/nec-01-rVhHaWqUsVUO4GuY.htm)|Eject Soul|
@@ -369,16 +353,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-05-DgCS456mXKw97vNy.htm](spells/nec-05-DgCS456mXKw97vNy.htm)|Ode to Ouroboros|
 |[nec-05-ES6FkwXXqYr4ujQH.htm](spells/nec-05-ES6FkwXXqYr4ujQH.htm)|Blood Feast|
 |[nec-05-gsYEuWv04XTDxe91.htm](spells/nec-05-gsYEuWv04XTDxe91.htm)|Call Spirit|
-|[nec-05-Hnc7eGi7vyZenAIm.htm](spells/nec-05-Hnc7eGi7vyZenAIm.htm)|Breath of Life|
 |[nec-05-kqhPt9344UkcGVYO.htm](spells/nec-05-kqhPt9344UkcGVYO.htm)|Resurrect|
-|[nec-05-MlpbeZ61Euhl0d60.htm](spells/nec-05-MlpbeZ61Euhl0d60.htm)|Cloudkill|
 |[nec-05-nQS4vPm5zprqkzFZ.htm](spells/nec-05-nQS4vPm5zprqkzFZ.htm)|Curse of Death|
 |[nec-05-pCvJ4yoZJxDtgUMI.htm](spells/nec-05-pCvJ4yoZJxDtgUMI.htm)|Restorative Moment|
 |[nec-05-rnFAHvKpcsU4BJD4.htm](spells/nec-05-rnFAHvKpcsU4BJD4.htm)|Shall not Falter, Shall not Rout|
 |[nec-05-SzKkzq3Rr6vKIxbp.htm](spells/nec-05-SzKkzq3Rr6vKIxbp.htm)|Shepherd of Souls|
 |[nec-05-VDWIZuLOJqwBthHc.htm](spells/nec-05-VDWIZuLOJqwBthHc.htm)|Ravening Maw|
-|[nec-05-vJuaxTd6q11OjGqA.htm](spells/nec-05-vJuaxTd6q11OjGqA.htm)|Abyssal Plague|
-|[nec-05-z2mfh3oPnfYqXflY.htm](spells/nec-05-z2mfh3oPnfYqXflY.htm)|Mariner's Curse|
 |[nec-05-ZLLY6ThJXCCrO0rL.htm](spells/nec-05-ZLLY6ThJXCCrO0rL.htm)|Wall Of Flesh|
 |[nec-06-9kOI14Jep97TzGO7.htm](spells/nec-06-9kOI14Jep97TzGO7.htm)|Life-Giving Form|
 |[nec-06-ayRXv0wQH00TTNZe.htm](spells/nec-06-ayRXv0wQH00TTNZe.htm)|Purple Worm Sting|
@@ -539,6 +519,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[con-04-vSSKyUdrHu86E5Gk.htm](spells/con-04-vSSKyUdrHu86E5Gk.htm)|Nature's Bounty|Générosité naturelle|officielle|
 |[con-04-zjG6NncHyAKqSF7m.htm](spells/con-04-zjG6NncHyAKqSF7m.htm)|Dimensional Steps|Pas interdimensionnel|officielle|
 |[con-04-zR67Rt3UMHKC5evy.htm](spells/con-04-zR67Rt3UMHKC5evy.htm)|Blink|Clignotement|officielle|
+|[con-05-115Xp9E38CJENhNS.htm](spells/con-05-115Xp9E38CJENhNS.htm)|Passwall|Passe-muraille|officielle|
+|[con-05-29ytKctjg7qSW2ff.htm](spells/con-05-29ytKctjg7qSW2ff.htm)|Summon Fiend|Convocation de fiélon|officielle|
+|[con-05-2w4OpAGihn1JSHFD.htm](spells/con-05-2w4OpAGihn1JSHFD.htm)|Black Tentacles|Tentacules noirs|officielle|
+|[con-05-e9UJoVYUd5kJWUpi.htm](spells/con-05-e9UJoVYUd5kJWUpi.htm)|Summon Giant|Convocation de géant|officielle|
+|[con-05-F1qxaqsEItmBura2.htm](spells/con-05-F1qxaqsEItmBura2.htm)|Tree Stride|Voyage par les arbres|officielle|
+|[con-05-i1TvBID5QLyXrUCa.htm](spells/con-05-i1TvBID5QLyXrUCa.htm)|Summon Entity|Convocation d'entité|officielle|
+|[con-05-kghwmH3tQjMIhdH1.htm](spells/con-05-kghwmH3tQjMIhdH1.htm)|Summon Dragon|Convocation de dragon|officielle|
+|[con-05-kOa055FIrO9Smnya.htm](spells/con-05-kOa055FIrO9Smnya.htm)|Wall of Stone|Mur de pierre|officielle|
+|[con-05-lTDixrrNKaCvLKwX.htm](spells/con-05-lTDixrrNKaCvLKwX.htm)|Summon Celestial|Convocation de céleste|officielle|
+|[con-05-rxvS7EMJ7qmexAyA.htm](spells/con-05-rxvS7EMJ7qmexAyA.htm)|Shadow Walk|Traversée des ombres|officielle|
 |[con-06-kwlKUxEuT8T15YW6.htm](spells/con-06-kwlKUxEuT8T15YW6.htm)|Primal Summons|Convocations primordiales|officielle|
 |[con-08-oGV6YdpZLIG4G4gH.htm](spells/con-08-oGV6YdpZLIG4G4gH.htm)|Impaling Briars|Ronces empaleuses|officielle|
 |[con-09-mau1Olq58ECF0ZPi.htm](spells/con-09-mau1Olq58ECF0ZPi.htm)|Empty Body|Désertion de l'âme|officielle|
@@ -756,7 +746,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ill-04-Uqj344bezBq3ESdq.htm](spells/ill-04-Uqj344bezBq3ESdq.htm)|Nightmare|Cauchemar|officielle|
 |[ill-04-ZhLYJlOZzUB1OKoe.htm](spells/ill-04-ZhLYJlOZzUB1OKoe.htm)|Trickster's Twin|Jumeau du trompeur|officielle|
 |[ill-05-DdXKfIjDtORUtUvY.htm](spells/ill-05-DdXKfIjDtORUtUvY.htm)|Fey Glamour|Enchetement féerique|officielle|
-|[ill-05-tcwT97RWKxsJiefG.htm](spells/ill-05-tcwT97RWKxsJiefG.htm)|Shadow Siphon|Siphon d'ombre|libre|
+|[ill-05-RCbLd7dfquHnuvrZ.htm](spells/ill-05-RCbLd7dfquHnuvrZ.htm)|False Vision|Vision faussée|officielle|
+|[ill-05-scTRIrTfXquVYHGw.htm](spells/ill-05-scTRIrTfXquVYHGw.htm)|Drop Dead|Raide mort|officielle|
+|[ill-05-TCk2MDwf5L5OYjFC.htm](spells/ill-05-TCk2MDwf5L5OYjFC.htm)|Cloak of Colors|Cape colorée|officielle|
+|[ill-05-tcwT97RWKxsJiefG.htm](spells/ill-05-tcwT97RWKxsJiefG.htm)|Shadow Siphon|Siphon d'ombre|officielle|
+|[ill-05-U58aQWJ47VrI36yP.htm](spells/ill-05-U58aQWJ47VrI36yP.htm)|Hallucination|Hallucination|officielle|
+|[ill-05-Ucf8eynbZMfUucjE.htm](spells/ill-05-Ucf8eynbZMfUucjE.htm)|Illusory Scene|Scène illusoire|officielle|
 |[nec-00-kcelf6IHl3L9VXXg.htm](spells/nec-00-kcelf6IHl3L9VXXg.htm)|Disrupt Undead|Destruction de mort-vivant|changé|
 |[nec-00-mAMEt4FFbdqoRnkN.htm](spells/nec-00-mAMEt4FFbdqoRnkN.htm)|Chill Touch|Contact glacial|changé|
 |[nec-00-SnjhtQYexDtNDdEg.htm](spells/nec-00-SnjhtQYexDtNDdEg.htm)|Stabilize|Stabilisation|changé|
@@ -766,6 +761,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-01-GYI4xloAgkm6tTrT.htm](spells/nec-01-GYI4xloAgkm6tTrT.htm)|Touch of Undeath|Bénédiction de la non-mort|officielle|
 |[nec-01-HG4afO9EOGEU9bZN.htm](spells/nec-01-HG4afO9EOGEU9bZN.htm)|Death's Call|Appel de la mort|changé|
 |[nec-01-J7Y7tl0bbdz7TcCc.htm](spells/nec-01-J7Y7tl0bbdz7TcCc.htm)|Ray of Enfeeblement|Rayon affaiblissant|changé|
+|[nec-01-jFmWSIpJGGebim6y.htm](spells/nec-01-jFmWSIpJGGebim6y.htm)|Touch of Corruption|Toucher de corruption|libre|
 |[nec-01-k34hDOfIIMAxNL4a.htm](spells/nec-01-k34hDOfIIMAxNL4a.htm)|Grim Tendrils|Sinistres volutes|officielle|
 |[nec-01-kvm68hVtmADiIvN4.htm](spells/nec-01-kvm68hVtmADiIvN4.htm)|Jealous Hex|Maléfice de jalousie|changé|
 |[nec-01-qXTB7Ec9yYh5JPPV.htm](spells/nec-01-qXTB7Ec9yYh5JPPV.htm)|Purify Food and Drink|Purifier la nourriture et la boisson|officielle|
@@ -805,6 +801,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-04-zvvHOQV78WKUB33l.htm](spells/nec-04-zvvHOQV78WKUB33l.htm)|Life Siphon|Siphon de vie|officielle|
 |[nec-05-2YIr0S2Gt14PMMQp.htm](spells/nec-05-2YIr0S2Gt14PMMQp.htm)|Grasping Grave|Étreinte de la tombe|officielle|
 |[nec-05-9WlTR9JlEcjRmGiD.htm](spells/nec-05-9WlTR9JlEcjRmGiD.htm)|Celestial Brand|Marque céleste|officielle|
+|[nec-05-Hnc7eGi7vyZenAIm.htm](spells/nec-05-Hnc7eGi7vyZenAIm.htm)|Breath of Life|Souffle de vie|officielle|
+|[nec-05-MlpbeZ61Euhl0d60.htm](spells/nec-05-MlpbeZ61Euhl0d60.htm)|Cloudkill|Nuage mortel|officielle|
+|[nec-05-vJuaxTd6q11OjGqA.htm](spells/nec-05-vJuaxTd6q11OjGqA.htm)|Abyssal Plague|Peste abyssale|officielle|
+|[nec-05-z2mfh3oPnfYqXflY.htm](spells/nec-05-z2mfh3oPnfYqXflY.htm)|Mariner's Curse|Malédicition du marin|officielle|
 |[nec-08-Ovvflf5aFbmBxqq8.htm](spells/nec-08-Ovvflf5aFbmBxqq8.htm)|Quivering Palm|Paume vibratoire|officielle|
 |[nec-10-uGXWkR2h8q9MRzEM.htm](spells/nec-10-uGXWkR2h8q9MRzEM.htm)|Hero's Defiance|Défi du héros|officielle|
 |[trs-00-AUctDF2fqPZN2w4W.htm](spells/trs-00-AUctDF2fqPZN2w4W.htm)|Sigil|Symbole|officielle|

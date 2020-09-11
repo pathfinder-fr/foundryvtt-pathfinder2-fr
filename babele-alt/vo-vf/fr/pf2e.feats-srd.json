@@ -958,8 +958,8 @@
         },
         {
             "id": "Magical Trickster",
-            "name": "Magical Trickster (Trompeur magique)",
-            "description": "<p>Quand vous utilisez des objets magiques, maniez de la magie innée, ou vous essayez à l’incantation, vous pouvez glisser des sorts à travers la défense de vos ennemis aussi facilement qu’une lame. Quand vous réussissez un jet d’attaque de sort contre la CA d’un adversaire pris au dépourvu et que ce sort lui inflige des dégâts, vous pouvez ajouter vos dégâts d’attaque sournoise au jet de dégâts. Si votre sort est à l’origine de plusieurs jets de dégâts séparés, vous n’ajoutez vos dégâts d’attaque sournoise qu’une seule fois par cible.</p>"
+            "name": "Magical Trickster (Mystificateur magique)",
+            "description": "<p>Que ce soit lorsque vous utilisez des objets magiques, que vous maniez de la magie innée ou que vous bricoliez une incantation, vous pouvez passer les sorts sous les défenses de vos ennemis aussi facilement que le ferait n'importe quelle lame. Quand vous réussissez un jet d’attaque de sort contre la CA d’un adversaire pris au dépourvu et que ce sort lui inflige des dégâts, vous pouvez ajouter vos dégâts d’attaque sournoise au jet de dégâts. Si votre sort est à l’origine de plusieurs jets de dégâts séparés, vous n’ajoutez vos dégâts d’attaque sournoise qu’une seule fois par cible.</p>"
         },
         {
             "id": "Advanced Order Training",
@@ -1780,6 +1780,11 @@
             "id": "Tempest-Sun Redirection",
             "name": "Tempest-Sun Redirection (Redirection du Soleil tempétueux)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement du Gardien de Magaambya, Affiliation aux Mages du Soleil Tempétueux<br></span></p>\n<hr>\n<p>Si la prochaine action que vous utilisez est de Lancer un sort à partir de vos emplacements de sorts, vous pouvez détourner une partie de l'énergie offensive du sort, protégeant vos alliés dans la zone et augmentant vos propres défense contre certain adversaires. Sélectionner un nombre de cibles du sort et réduisez les dégâts du sort conte ces cibles d'un montant égal au niveau du sort. Jusqu'à votre prochain tour, lorsqu'une de ces cibles vous inflige des dégâts, ces derniers sont réduits d'un nombre égale à deux fois le niveau du sort.&nbsp;</p>"
+        },
+        {
+            "id": "Duskwalker Lore",
+            "name": "Duskwalker Lore (Connaissance des crépusculaires)",
+            "description": "<p>Soit vous avez trouvé un autre crépusculaire qui vous a appris les secrets de vos semblables, soit vous avez accompli de faire des recherches sur votre héritage inhabituel. Vous êtes qualifié en Médecine et en Religion. Si vous deviez être automatiquement qualifié dans un des ces compétences (par votre historique ou votre classe, par exemple), vous devenez qualifié dans une compétence de votre choix à la place. Vous êtes aussi qualifié en connaissance du Cimetière.&nbsp;</p>"
         },
         {
             "id": "Grimspawn",
@@ -2904,7 +2909,7 @@
         {
             "id": "Hard Tail",
             "name": "Hard Tail (Queue dure)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> héritage gobelin à queue<br></span></p>\n<hr>\n<p>Votre appendice caudal est beaucoup plus fort que celui de la plupart des autres gobelins et vous pouvez l'utiliser à la manière d'un fouet. Vous obtenez une attaques à mains nues avec cet appendice qui inflige 1d6 dégâts Contondants.&nbsp;</p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> héritage gobelin à queue<br></span></p>\n<hr>\n<p>Votre appendice caudal est beaucoup plus fort que celui de la plupart des autres gobelins et vous pouvez l'utiliser à la manière d'un fouet. Vous obtenez une attaques à mains nues avec cet appendice qui inflige 1d6 dégâts Contondants.</p>"
         },
         {
             "id": "Affliction Mercy",
@@ -4642,6 +4647,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.viFTJfZusRPx0G2q]{Détaler par dessous}<br></span></p>\n<hr>\n<p>Vous avez subi votre lot de coups de langue lorsque vous vous précipitiez sur le champ de bataille et savez comment vous défendre contre les attaquants opportunistes. Votre mouvement se termine seulement lorsque vous obtenez un échec critique sur un test d'Acrobaties pour effectuer un test de @Compendium[pf2e.actionspf2e.21WIfSu7Xd7uKqV8]{Déplacement acrobatique} au travers de l'espace occupé par un ennemi (ou lorsque votre Vitesse n'est pas suffisante pour passer au travers de son espace). Vous déclenchez toujours des réactions sur un échec pour votre Déplacement acrobatique mais vous obtenez un bonus de circonstance de +1 à la CA contre les attaques que vous déclenchez de cette manière.&nbsp;</p>"
         },
         {
+            "id": "Forensic Acumen",
+            "name": "Forensic Acumen (Perspicacité forensique)",
+            "description": "p><strong>Prérequis</strong> qualifié en Medicine</p>\n<hr>\n<p>Vous comprenez les principes de la médecine forensique, ce qui vous rend plus à même d’examiner un corps à la recherche des causes de la mort ou d’une blessure.</p>\n<p>Vous pouvez réaliser un examen forensique sur un corps, comme indiqué sous @Compendium[pf2e.actionspf2e.SeUolRoPzorFUAaI]{Se souvenir de connaissances} dans la compétence de Médecine, en la moitié du temps normal (avec un minimum de 5 minutes). Si vous réussissez ce test, vous pouvez effectuer immédiatement un test de Se souvenir de connaissances pour Suivre une piste que vous venez de trouver et ce, avec un bonus de circonstances de +2.</p>\n<p>Ce test correspond généralement à la cause de la mort ou de la blessure, comme un test d’Artisanat pour identifier le poison ou l’arme utilisée ou un second test de Médecine pour identifier une maladie précise. Si vous préférez, au lieu de cela, vous pouvez tenter de Vous souvenir de connaissances au sujet du type de créature dont vous venez d’examiner le corps, en utilisant la compétence correspondante et en profitant du même bonus de circonstances.</p>\n<p>Le bonus de circonstances passe à +3 si vous êtes maître en Médecine et à +4 si vous êtes légendaire.</p>"
+        },
+        {
             "id": "Improved Twin Riposte (Ranger)",
             "name": "Improved Twin Riposte (Ranger) (Riposte jumelée améliorée)",
             "description": "<p>Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour accomplir une Riposte jumelée contre votre proie. Vous pouvez utiliser cette réaction supplémentaire, même si vous ne bénéficiez pas des avantages de Parade jumelée.</p>"
@@ -5225,6 +5235,11 @@
             "id": "Oddity Identification",
             "name": "Oddity Identification (Identification de bizarreries)",
             "description": "<p><strong>Prérequis</strong> qualifié en Occultisme</p>\n<hr>\n<p>Vous avez un don pour les sorts qui torturent l’esprit ou révèlent des secrets. Vous gagnez un bonus de circonstances de +2 aux tests d’Occultisme pour Identifier la magie avec les traits mental, possession, prédiction ou scrutation.</p>"
+        },
+        {
+            "id": "Iron Repercussions",
+            "name": "Iron Repercussions (Répercussions de fer)",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.classfeatures.HiIvez0TqESbleB5]{Cause du tyran [Loyal Mauvais]} </p>\n<hr>\n<p>Désobéir à votre @Compendium[pf2e.actionspf2e.M8RCbthRhB4bxO9t]{Ordre de fer} se traduit par des conséquences durables. Si un ennemi refuse de s'agenouiller devant vous, vous pouvez lui infliger des dégâts mentaux persistants au lieu des dégâts mentaux normaux. vous devez décider si les dégâts mentaux seront persistants avant que votre ennemi choisisse de s'agenouiller ou non. Le montant des dégâts est inchangé.</p>"
         },
         {
             "id": "Invincible Mutagen",
