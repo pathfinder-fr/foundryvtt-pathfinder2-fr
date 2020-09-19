@@ -197,6 +197,11 @@
             "description": "<p>Votre lignage a été exposé à malédiction sur malédiction et maintenant elles coulents sur vos plumes comme de la pluie. Si vous réussissez un jet de sauvegarde contre un effet de malédiction ou de malchance, vous obtenez un succès critique à la place.</p>\n<p>Lorsque vous devriez obtenir la condition @Compendium[pf2e.conditionspf2e.3uh1r86TzbQvosxv]{Condamné}, faites un test nu contre un DD 17. En cas de succès, réduisez la valeur de la condition condamné qui devrait vous affecter de 1.</p>"
         },
         {
+            "id": "Sharp Beak",
+            "name": "Bec aiguisé (Sharp Beak)",
+            "description": "<p>Avec votre bec aiguisé, vous n'êtes jamais dépourvu d'une arme. Vous disposez d'une attaque à mains nues de bec qui inflige [[/r 1d6 #piercing]] dégâts perçants. Votre bec est dans le groupe d'arme pugilat et possède les traits finesse et à mains nues.</p>"
+        },
+        {
             "id": "Woodland Elf",
             "name": "Elfe des bois (Woodland Elf)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous êtes adapté à la vie en forêt ou dans la jungle et vous savez ainsi grimper aux arbres et utiliser le feuillage à votre avantage. Quand vous Escaladez des arbres, des plantes grimpantes ou d’autres frondaisons, vous vous déplacez de la moitié de votre Vitesse sur un succès et de toute votre Vitesse sur un succès critique (si vous possédez le don Escalade rapide, vous vous déplacez de toute votre Vitesse sur un succès). Ces effets sont inopérants si vous utilisez une Vitesse d’escalade.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez toujours utiliser l’action Mise à l’abri quand vous vous trouvez en forêt afin de trouver un abri, même si vous ne vous trouvez pas près d’un obstacle derrière lequel vous Mettre à l’abri.&nbsp;</span></p>"

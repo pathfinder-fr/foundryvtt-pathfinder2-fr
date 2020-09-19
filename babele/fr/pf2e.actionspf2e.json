@@ -52,6 +52,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions</strong> Vous avez des @Compendium[pf2e.equipment-srd.4ftXXUCBHcf4b0MH]{outils d'alchimiste}.</span></p>\n<hr>\n<p>Vous pouvez identifier la nature d’un objet alchimique en l’analysant pendant dix minutes avec vos outils d’alchimiste. Si votre tentative est interrompue, vous devez la reprendre depuis le début.</p>\n<p><strong>Succès</strong> Vous identifiez l'objet et découvrez la méthode pour l'activer.<br><strong>Échec</strong> Vous ne parvenez pas à identifier l'objet mais vous pouvez recommencer.<br><strong>Échec critique</strong> Vous identifiez l'objet de travers et le prenez pour un autre objet au choix du MJ.</p>"
         },
         {
+            "id": "Confident Finisher",
+            "name": "Coup final assuré",
+            "description": "<p>Vous portez une attaque incroyablement élégante qui transperce les défenses de votre ennemi. Effectuez une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} à l’aide d’une arme ou d’une attaque à mains nues qui permet d’appliquer vos dégâts de frappe précise, avec l’effet suivant en cas d’échec.&nbsp;</p>\n<p><strong>Échec</strong> Vous infligez la moitié de vos dégâts de @Compendium[pf2e.classfeatures.RQH6vigvhmiYKKjg]{Frappe précise} à la cible. Le type de ces dégâts est le même que celui de l’arme ou de l’attaque sans arme utilisée pour la Frappe.</p>"
+        },
+        {
             "id": "Identify Magic",
             "name": "Identifier la magie",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une fois que vous savez qu’un objet, un site ou un effet en cours est magique, vous pouvez passer dix minutes à tenter d’identifier ses spécificités. Si votre tentative est interrompue, vous devez la reprendre depuis le début. Le MJ fixe le DD de votre test. Les sujets maudits ou ésotériques imposent généralement des DD plus élevés ou peuvent même rendre impossibles leur identification par le biais de cette seule activité. Un sort intensifié n’augmente pas le DD pour l’identifier.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès critique</strong> Vous découvrez tous les attributs de la magie, notamment son nom (dans le cas d’un effet), ce qu’elle fait, la façon dont elle s’active (dans le cas d’un objet ou d’un site) et si elle est maudite.<br><strong>Succès</strong> Dans le cas d’un objet ou d’un site, vous avez une idée de ce qu’il fait et vous découvrez comment l’activer. Dans le cas d’un effet en cours (tel qu’un sort avec une durée), vous découvrez le nom de l’effet et ce qu’il fait. Vous ne pouvez pas faire d’autres tentatives dans l’espoir d’obtenir un succès critique.<br><strong>Échec</strong> Vous ne parvenez pas à identifier la magie et vous devez attendre une journée avant de faire une autre tentative.<br><strong>Échec critique</strong> Vous identifiez la magie de travers et croyez que c’est autre chose au choix du MJ.</span></p>"
@@ -232,6 +237,11 @@
             "description": "<p>Vous détournez le regard d’un danger. Vous gagnez un bonus de circonstances de +2 à vos jets de sauvegarde contre les pouvoirs visuels qui nécessitent que vous regardiez une créature ou un objet, comme le regard pétrifiant d’une méduse. Votre regard reste détourné jusqu’au début de votre prochain tour.</p>"
         },
         {
+            "id": "Pointed Question",
+            "name": "Question imparable",
+            "description": "<p>Vous posez une question qui charme ou provoque efficacement quelqu’un. Posez une question à une créature qui n’est pas l'un de vos alliés, que vous pouvez voir et avec laquelle vous conversez. Effectuez un test de Diplomatie contre le DD de Volonté de la créature. La créature est ensuite temporairement immunisée pendant 1 heure.</p>\n<hr>\n<p><strong>Réussite critique</strong> La cible doit répondre directement à votre question. Elle n’est pas contrainte de dire la vérité mais vous gagnez un bonus de circonstances de +4 à votre test de Perception si la créature tente de vous @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}.</p>\n<p><strong>réussite</strong> Comme une réussite critique, mais le bonus de circonstances est de +2.</p>\n<p><strong>Échec</strong> La cible peut refuser de vous répondre, comme c’est le cas normalement.</p>\n<p><strong>Échec critique</strong> La cible peut refuser de vous répondre et son attitude envers vous diminue d’un cran parce que l’attention que vous lui portez la vexe.</p>"
+        },
+        {
             "id": "Demoralize",
             "name": "Démoraliser",
             "description": "<p>Vous pouvez ébranler la détermination d’un ennemi en poussant un cri soudain, en formulant un sarcasme au moment opportun ou en lâchant une insulte mordante. Désignez une créature située à 9 m ou moins de vous et dont vous percevez la présence. Effectuez un test d’Intimidation contre le DD de Volonté de cette cible. Si elle ne comprend pas la langue que vous parlez, si vous ne parlez pas ou si elle ne peut pas vous entendre, vous subissez un malus de circonstances de −4 au test. Quel que soit le résultat, la cible est temporairement immunisée contre vos tentatives pour la Démoraliser pendant dix minutes.</p>\n<p><strong>Succès critique</strong> La cible devient effrayée 2.</p>\n<p><strong>Succès</strong> La cible devient effrayée 1.</p>"
@@ -240,6 +250,11 @@
             "id": "Sustain an Activation",
             "name": "Maintenir une activation",
             "description": "<p><span><strong>Conditions</strong> Vous avez au moins une activation d’objet magique que vous pouvez maintenir et vous n’êtes pas fatigué</span></p>\n<hr>\n<p>Choisissez une activation d’objet magique avec une durée maintenue que vous avez actuellement active. La durée de cette activation se prolonge jusqu’à la fin de votre prochain tour. Certaines activations ont un effet légèrement différent ou étendu si vous les maintenez. Maintenir une activation plus de 10 minutes (100 rounds) y met un terme et vous fatigue, à moins que la description de l’objet ne précise une durée maximale différente (comme \"maintenu jusqu’à 1 min\" ou \"maintenu jusqu’à 1 h\"). <br><br>Si l’action Maintenir une activation est interrompue, l’effet de l’objet se termine immédiatement.&nbsp;</p>"
+        },
+        {
+            "id": "Rampaging Ferocity",
+            "name": "Férocité déchaînée",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.PlhPpdwIV0rIAJ8K]{Férocité orque}</p>\n<p><strong>Déclencheur</strong> Vous utilisez férocité orque.</p>\n<hr>\n<p>Vous vous déchaînez même as lorsque vous repoussez la mort. Faites une unique @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe}au corps-à-corps. Si cette frappe amène votre adversaire à 0 Points de vie, cette activation de Férocité orque n'est pas décomptée de sa fréquence.</p>"
         },
         {
             "id": "Strike",
@@ -335,6 +350,11 @@
             "id": "Resist Elf Magic﻿",
             "name": "Résister à la magie elfique",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Déclencheur</strong> Vous effectuez un jet de sauvegarde, qui n'a pas encore été lancé, contre un effet magique.</span></p>\n<hr>\n<p>Votre résistance ancestrale à la Magie vous protège. Vous gagnez un bonus de circonstance de +1 au jet de sauvegarde déclencheur. Si l’effet déclencheur est de nature arcanique, vous gagnez un bonus de +2 à la place.&nbsp;</p>"
+        },
+        {
+            "id": "Opportune Riposte",
+            "name": "Riposte opportune",
+            "description": "<p><strong>Déclencheur</strong> Un ennemi situé à votre portée obtient un échec critique lors d’une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} contre vous.</p>\n<hr>\n<p>Vous profitez de l’ouverture provoquée par l’échec de votre ennemi. Vous pouvez soit porter une Frappe de corps à corps contre l’ennemi déclencheur ou tenter de le @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer} de l’arme qu’il a utilisée pour sa Frappe.</p>"
         },
         {
             "id": "Repeat a Spell",

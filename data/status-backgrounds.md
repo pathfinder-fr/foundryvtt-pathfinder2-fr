@@ -6,7 +6,7 @@
  * **changé**: 4
 
 
-Dernière mise à jour: 2020-09-10 21:01 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-19 09:15 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -133,7 +133,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[NiuVJNmAe7TdI3mv.htm](backgrounds/NiuVJNmAe7TdI3mv.htm)|Thrune Loyalist|Loyaliste Thrune|libre|
 |[nqyKrbSd2AdQxjNh.htm](backgrounds/nqyKrbSd2AdQxjNh.htm)|Witch Wary|Gare aux sorcières|libre|
 |[O23kJuciAtakDENn.htm](backgrounds/O23kJuciAtakDENn.htm)|Mantis Scion|Fils de la Mante|libre|
-|[O4BXvhZpMvpmQEUs.htm](backgrounds/O4BXvhZpMvpmQEUs.htm)|Nexian Mystic|Mistique Nexien|libre|
+|[O4BXvhZpMvpmQEUs.htm](backgrounds/O4BXvhZpMvpmQEUs.htm)|Nexian Mystic|Mystique Nexien|libre|
 |[O6Cd575MzIqYbvOR.htm](backgrounds/O6Cd575MzIqYbvOR.htm)|Sarkorian Survivor|Survivant du sarkoris|libre|
 |[oFFk7lsMwXgxgQhI.htm](backgrounds/oFFk7lsMwXgxgQhI.htm)|Hellknight Historian|Historien des chevaliers infernaux|officielle|
 |[oH5Uagjkc58AHozy.htm](backgrounds/oH5Uagjkc58AHozy.htm)|Chelish Rebel|Rebelle chélaxien|libre|

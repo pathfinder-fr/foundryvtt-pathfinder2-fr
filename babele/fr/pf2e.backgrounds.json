@@ -148,7 +148,7 @@
         },
         {
             "id": "Nexian Mystic",
-            "name": "Mistique Nexien",
+            "name": "Mystique Nexien",
             "description": "<p>Votre initiation dans les mystères Nexiens et aux philosophies des Seigneurs de l'Arche de Nex vous accordent une compréhension surnaturelle des fondamentaux arcaniques de l'existence.</p>\n<p>Choisissez deux primes de caractéristiques. LA première doit être d'<strong>Intelligence</strong> ou de <strong>Sagesse</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Arcanes et une compétence de connaissance en lien avec un plan de votre choix (autre que le plan matériel). Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.blMeVamjGz4ODWxq]{Sens arcanique}.</p>"
         },
         {
@@ -184,7 +184,7 @@
         {
             "id": "Child of the Puddles",
             "name": "Marmot des flaques",
-            "description": "<p>Vous avez grandi dans le quartier sordide et trempé d'Absalom connu sous le nom des Fllaques. Vous êtes chez vous dans les environnements bondés.</p>\n<p>Choisissez deux primess de Caractéristiques. L'une doit être de <strong>Dextérité</strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Acrobaties et en Connaissance d'Absalom'. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.CnqMJR8e9jqJR7MM]{Équilibre stable}.</p>"
+            "description": "<p>Vous avez grandi dans le quartier sordide et trempé d'Absalom connu sous le nom des Fllaques. Vous êtes chez vous dans les environnements bondés.</p>\n<p>Choisissez deux primes de Caractéristiques. L'une doit être de <strong>Dextérité</strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Acrobaties et en Connaissance d'Absalom. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.CnqMJR8e9jqJR7MM]{Équilibre stable}.</p>"
         },
         {
             "id": "Final Blade Survivor",
@@ -649,7 +649,7 @@
         {
             "id": "Child of Westcrown",
             "name": "Enfant de Couronne d'Ouest",
-            "description": "<p>Que vous soyez venu à de Couronne d'Ouest ou d'autre part, les valeurs du Cheliax avant l'ère des thrunes vouss sont chères. Vous dédaignez le gouvernement infernal, mais vous êtes fier de votre pays et ne vous considérez par vous-même comme un rebelle.</p>\n<p>Choose two ability boosts. One must be to <strong>Strength</strong> or <strong>Charisma</strong>, and one is a free ability boost.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Force</strong> ou <strong>Charisme</strong>, et l’autre est une prime de caractéristique libre.<br /></p>\n<p>Vous êtes qualifié dans la compétence Diplomatie et Connaissance de Couronne d'Ouest. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.KpFetnUqTiweypZk]{Bonne impression de groupe}.</p>"
+            "description": "<p>Que vous soyez venu à de Couronne d'Ouest ou d'autre part, les valeurs du Cheliax avant l'ère des thrunes vouss sont chères. Vous dédaignez le gouvernement infernal, mais vous êtes fier de votre pays et ne vous considérez par vous-même comme un rebelle.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Force</strong> ou <strong>Charisme</strong>, et l’autre est une prime de caractéristique libre.<br /></p>\n<p>Vous êtes qualifié dans la compétence Diplomatie et Connaissance de Couronne d'Ouest. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.KpFetnUqTiweypZk]{Bonne impression de groupe}.</p>"
         },
         {
             "id": "Sailor",
@@ -859,7 +859,7 @@
         {
             "id": "Inlander",
             "name": "Habitant de l'intérieur des terres",
-            "description": "<p>Vous avez grandi dans une région sauvage de l'Ile de Kortos et vous savez comment survivre dans la nature.</p>\n<p>Choisissez deux augmentations de Caractéristiques. L'une doit être de <strong>Constitution</strong> ou de <strong>sagesse</strong>, et l'autre est libre.</p>\n<p>Vous êtes qualifié en Survie et en Connaissance du type de terrain associé avec votre région natale (tel que Connaissance desCollines ou des Montagnes). Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.tGIXuk0XeWmG04CX]{Observation de la nature}.</p>"
+            "description": "<p>Vous avez grandi dans une région sauvage de l'Ile de Kortos et vous savez comment survivre dans la nature.</p>\n<p>Choisissez deux augmentations de Caractéristiques. L'une doit être de <strong>Constitution</strong> ou de <strong>sagesse</strong>, et l'autre est libre.</p>\n<p>Vous êtes qualifié en Survie et en Connaissance du type de terrain associé avec votre région natale (tel que Connaissance des Collines ou des Montagnes). Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.tGIXuk0XeWmG04CX]{Observation de la nature}.</p>"
         },
         {
             "id": "Herbalist",

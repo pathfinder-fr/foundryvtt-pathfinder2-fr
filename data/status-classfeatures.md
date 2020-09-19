@@ -1,58 +1,23 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 227
- * **libre**: 92
- * **changé**: 25
- * **aucune**: 40
+ * **officielle**: 231
+ * **libre**: 125
+ * **changé**: 23
+ * **aucune**: 5
 
 
-Dernière mise à jour: 2020-09-10 21:01 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-19 09:15 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator [Neutral Evil]|
-|[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant [Lawful Evil]|
-|[None-00-1FPVkksuE2ncw9rF.htm](classfeatures/None-00-1FPVkksuE2ncw9rF.htm)|Ki Spells|
-|[None-00-s0VbbQJNlSgPocui.htm](classfeatures/None-00-s0VbbQJNlSgPocui.htm)|Composition Spells|
 |[None-00-T25ZLQWn6O4KchLo.htm](classfeatures/None-00-T25ZLQWn6O4KchLo.htm)|Focus Spells|
-|[sorcerer-01-5Wxjghw7lHuCxjZz.htm](classfeatures/sorcerer-01-5Wxjghw7lHuCxjZz.htm)|Bloodline: Nymph|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|
-|[sorcerer-01-uoQOm41BVdSo6pAS.htm](classfeatures/sorcerer-01-uoQOm41BVdSo6pAS.htm)|Bloodline: Shadow|
-|[swashbuckler-01-4lGhbEjlEoGP4scl.htm](classfeatures/swashbuckler-01-4lGhbEjlEoGP4scl.htm)|Wit Style|
-|[swashbuckler-01-5HoEwzLDJGTCZtFa.htm](classfeatures/swashbuckler-01-5HoEwzLDJGTCZtFa.htm)|Battledancer Style|
-|[swashbuckler-01-B7RMnrHwQHlezlJT.htm](classfeatures/swashbuckler-01-B7RMnrHwQHlezlJT.htm)|Gymnast Style|
-|[swashbuckler-01-beW1OqibVQ3fBvRw.htm](classfeatures/swashbuckler-01-beW1OqibVQ3fBvRw.htm)|Swashbuckler's Style|
-|[swashbuckler-01-Jgid6Ja6Y879COlN.htm](classfeatures/swashbuckler-01-Jgid6Ja6Y879COlN.htm)|Fencer Style|
-|[swashbuckler-01-KBhwFjdptrKyN5EM.htm](classfeatures/swashbuckler-01-KBhwFjdptrKyN5EM.htm)|Braggart Style|
-|[swashbuckler-01-LzYi0OuOoypNb6jd.htm](classfeatures/swashbuckler-01-LzYi0OuOoypNb6jd.htm)|Panache|
-|[swashbuckler-01-pyo0vmxUFIFX2GNl.htm](classfeatures/swashbuckler-01-pyo0vmxUFIFX2GNl.htm)|Confident Finisher|
-|[swashbuckler-03-8BOFeRE7ZfJ02N0O.htm](classfeatures/swashbuckler-03-8BOFeRE7ZfJ02N0O.htm)|Vivacious Speed|
-|[swashbuckler-03-Jtn7IugykXDlIoZq.htm](classfeatures/swashbuckler-03-Jtn7IugykXDlIoZq.htm)|Opportune Riposte|
-|[swashbuckler-03-pthjQIK9pDxnbER6.htm](classfeatures/swashbuckler-03-pthjQIK9pDxnbER6.htm)|Stylish Tricks|
-|[swashbuckler-09-KxpaxUSuBC7hr4F7.htm](classfeatures/swashbuckler-09-KxpaxUSuBC7hr4F7.htm)|Exemplary Finisher|
-|[swashbuckler-09-U74JoAcLHTOsZG6q.htm](classfeatures/swashbuckler-09-U74JoAcLHTOsZG6q.htm)|Swashbuckler Expertise|
 |[swashbuckler-11-13QpCrR8a8XULbJa.htm](classfeatures/swashbuckler-11-13QpCrR8a8XULbJa.htm)|Continuous Flare|
 |[swashbuckler-11-6JYLXF2L3tq7aN5O.htm](classfeatures/swashbuckler-11-6JYLXF2L3tq7aN5O.htm)|Vigilant Senses (Swashbuckler)|
-|[swashbuckler-15-Pk3Ht0KZyFxSeL07.htm](classfeatures/swashbuckler-15-Pk3Ht0KZyFxSeL07.htm)|Keen Flair|
-|[swashbuckler-19-ypfT3iybew6ZSIUl.htm](classfeatures/swashbuckler-19-ypfT3iybew6ZSIUl.htm)|Eternal Confidence|
-|[witch-01-4IfYHrQMosJNM8hv.htm](classfeatures/witch-01-4IfYHrQMosJNM8hv.htm)|Fervor Patron|
-|[witch-01-9uLh5z2uPo6LDFRY.htm](classfeatures/witch-01-9uLh5z2uPo6LDFRY.htm)|Hexes|
-|[witch-01-ejmSQOJR5lJv1pzh.htm](classfeatures/witch-01-ejmSQOJR5lJv1pzh.htm)|Rune Patron|
-|[witch-01-KPtF29AaeX2sJW0K.htm](classfeatures/witch-01-KPtF29AaeX2sJW0K.htm)|Patron|
-|[witch-01-NAXRmMjj0gcyD7ie.htm](classfeatures/witch-01-NAXRmMjj0gcyD7ie.htm)|Curse Patron|
-|[witch-01-nocYmxbi4rqCC2qS.htm](classfeatures/witch-01-nocYmxbi4rqCC2qS.htm)|Patron Theme|
-|[witch-01-qf12ubZ07Q0z0NcN.htm](classfeatures/witch-01-qf12ubZ07Q0z0NcN.htm)|Winter Patron|
-|[witch-01-qMZiTugiLCEmkg8h.htm](classfeatures/witch-01-qMZiTugiLCEmkg8h.htm)|Fate Patron|
 |[witch-01-SOan0fqyFTrkqJLV.htm](classfeatures/witch-01-SOan0fqyFTrkqJLV.htm)|Witch Lessons|
-|[witch-01-VVMMJdIWL7fAsQf3.htm](classfeatures/witch-01-VVMMJdIWL7fAsQf3.htm)|Baba Yaga Patron|
-|[witch-01-x2gzQMPvLwHWDdAC.htm](classfeatures/witch-01-x2gzQMPvLwHWDdAC.htm)|Wild Patron|
-|[witch-01-XFTWJO6txmLNRLae.htm](classfeatures/witch-01-XFTWJO6txmLNRLae.htm)|Night Patron|
-|[witch-01-yksPhweBZYVCsE1A.htm](classfeatures/witch-01-yksPhweBZYVCsE1A.htm)|Familiar (Witch)|
-|[witch-01-zT6QiTMxxj8JYoN9.htm](classfeatures/witch-01-zT6QiTMxxj8JYoN9.htm)|Witch Spellcasting|
-|[witch-19-cDnFXfl3i5Z2l7JP.htm](classfeatures/witch-19-cDnFXfl3i5Z2l7JP.htm)|Patron's Gift|
 
 ## Liste des traductions complétés
 
@@ -139,11 +104,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-19-NjsOpWbbzUY2Hpk3.htm](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum Opus|Magnum opus|officielle|
 |[bard-19-tmO36DHYZo64iywr.htm](classfeatures/bard-19-tmO36DHYZo64iywr.htm)|Legendary Spellcaster (Bard)|Incantateur légendaire (Barde)|officielle|
 |[champion-00-fykh5pE99O3I2sOI.htm](classfeatures/champion-00-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|changé|
+|[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator [Neutral Evil]|Profanateur [Neutre mauvais]|libre|
 |[champion-01-ehL7mnkqxN5wIkgu.htm](classfeatures/champion-01-ehL7mnkqxN5wIkgu.htm)|Deity and Cause|Divinité et cause|officielle|
 |[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin [Chaotic Evil]|Antipaladin [Chaotique Mauvais]|libre|
 |[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator [Chaotic Good]|Libérateur (Chaotique Bon)|changé|
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|officielle|
 |[champion-01-fVVRFfc8QwTTPhKf.htm](classfeatures/champion-01-fVVRFfc8QwTTPhKf.htm)|Shield Block (Champion)|Blocage au bouclier (Champion)|officielle|
+|[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant [Lawful Evil]|Tyran [Loyal mauvais]|libre|
 |[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du bien|officielle|
 |[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin [Lawful Good]|Paladin (Loyal Bon)|changé|
 |[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|officielle|
@@ -176,7 +143,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-19-3uf31A91h3ywmlqm.htm](classfeatures/cleric-19-3uf31A91h3ywmlqm.htm)|Miraculous Spell|Sort miraculeux|officielle|
 |[druid-00-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-00-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|officielle|
 |[druid-01-acqqlYmti8D9QJi0.htm](classfeatures/druid-01-acqqlYmti8D9QJi0.htm)|Storm|Tempête|officielle|
-|[druid-01-b8pnRxGuNzG0buuh.htm](classfeatures/druid-01-b8pnRxGuNzG0buuh.htm)|Primal Spellcasting|Incantation primordiale|changé|
+|[druid-01-b8pnRxGuNzG0buuh.htm](classfeatures/druid-01-b8pnRxGuNzG0buuh.htm)|Primal Spellcasting|Incantation primordiale|officielle|
 |[druid-01-copeE8gaSFVSXRbk.htm](classfeatures/druid-01-copeE8gaSFVSXRbk.htm)|Shield Block (Druid)|Blocage au bouclier (Druide)|officielle|
 |[druid-01-d5BFFHXFJYKs5LXr.htm](classfeatures/druid-01-d5BFFHXFJYKs5LXr.htm)|Wild Empathy|Empathie sauvage|officielle|
 |[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal|Animal|officielle|
@@ -252,6 +219,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[monk-17-5cthRUkRqRtduVvN.htm](classfeatures/monk-17-5cthRUkRqRtduVvN.htm)|Adamantine Strikes|Frappes d'adamantium|officielle|
 |[monk-17-JWDfzYub3JfuEtth.htm](classfeatures/monk-17-JWDfzYub3JfuEtth.htm)|Graceful Legend|Légende gracieuse|officielle|
 |[monk-19-KmTfg7Sg5va4yU00.htm](classfeatures/monk-19-KmTfg7Sg5va4yU00.htm)|Perfected Form|Forme parfaite|officielle|
+|[None-00-1FPVkksuE2ncw9rF.htm](classfeatures/None-00-1FPVkksuE2ncw9rF.htm)|Ki Spells|Sorts de ki|officielle|
+|[None-00-s0VbbQJNlSgPocui.htm](classfeatures/None-00-s0VbbQJNlSgPocui.htm)|Composition Spells|Sorts de composition|officielle|
 |[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|libre|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|Mystère du combat|libre|
@@ -308,7 +277,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-01-RyOkmu0W9svavuAB.htm](classfeatures/rogue-01-RyOkmu0W9svavuAB.htm)|Mastermind Racket|Traffic de roublard : Cerveau|libre|
 |[rogue-01-uGuCGQvUmioFV2Bd.htm](classfeatures/rogue-01-uGuCGQvUmioFV2Bd.htm)|Rogue's Racket|Trafics de roublard|libre|
 |[rogue-01-w6rMqmGzhUahdnA7.htm](classfeatures/rogue-01-w6rMqmGzhUahdnA7.htm)|Surprise Attack|Attaque surprise|officielle|
-|[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafix de roublard : Voleur|changé|
+|[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|officielle|
 |[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Trafic de roublard : Scélérat|officielle|
 |[rogue-03-5AB9zIVADQvDG76w.htm](classfeatures/rogue-03-5AB9zIVADQvDG76w.htm)|Deny Advantage (Rogue)|Refus d'avantage (Roublard)|officielle|
 |[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|officielle|
@@ -329,6 +298,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-19-SUUdWG0t33VKa5q4.htm](classfeatures/rogue-19-SUUdWG0t33VKa5q4.htm)|Master Strike|Frappe de maître|officielle|
 |[sorcerer-01-2goYo6VNbwC6aKF1.htm](classfeatures/sorcerer-01-2goYo6VNbwC6aKF1.htm)|Bloodline|Lignages|libre|
 |[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|Lignage : Aberrant|changé|
+|[sorcerer-01-5Wxjghw7lHuCxjZz.htm](classfeatures/sorcerer-01-5Wxjghw7lHuCxjZz.htm)|Bloodline: Nymph|Lignage : Nymphe|libre|
 |[sorcerer-01-7WBZ2kkhZ7JorWu2.htm](classfeatures/sorcerer-01-7WBZ2kkhZ7JorWu2.htm)|Bloodline: Undead|Lignage : Mort-vivant|changé|
 |[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|Lignage : Féerique|changé|
 |[sorcerer-01-lURKSJZAGKVD6cH9.htm](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Spell Repetoire (Sorcerer)|Répertoire de sort (Ensorceleur)|officielle|
@@ -337,6 +307,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-PpzH9tJULk5ksX9w.htm](classfeatures/sorcerer-01-PpzH9tJULk5ksX9w.htm)|Bloodline: Psychopomp|Lignage : Psychopompe|libre|
 |[sorcerer-01-RXRnJcG4XSabZ35a.htm](classfeatures/sorcerer-01-RXRnJcG4XSabZ35a.htm)|Bloodline: Elemental|Lignage : Élémentaire|changé|
 |[sorcerer-01-tYOMBiH3HbViNWwn.htm](classfeatures/sorcerer-01-tYOMBiH3HbViNWwn.htm)|Bloodline: Genie|Lignage : Génie|libre|
+|[sorcerer-01-uoQOm41BVdSo6pAS.htm](classfeatures/sorcerer-01-uoQOm41BVdSo6pAS.htm)|Bloodline: Shadow|Lignage : Ombre|libre|
 |[sorcerer-01-vhW3glAaEfq2DKrw.htm](classfeatures/sorcerer-01-vhW3glAaEfq2DKrw.htm)|Bloodline: Angelic|Lignage : Angélique|changé|
 |[sorcerer-01-w5koctOVrEcpxTIq.htm](classfeatures/sorcerer-01-w5koctOVrEcpxTIq.htm)|Bloodline: Demonic|Lignage : Démoniaque|changé|
 |[sorcerer-01-ZEtJJ5UOlV5oTWWp.htm](classfeatures/sorcerer-01-ZEtJJ5UOlV5oTWWp.htm)|Bloodline: Imperial|Lignage : Impérial|changé|
@@ -353,17 +324,45 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-17-eC8PhLpgho84tGcD.htm](classfeatures/sorcerer-17-eC8PhLpgho84tGcD.htm)|Resolve (Sorcerer)|Résolution (Ensorceleur)|officielle|
 |[sorcerer-19-EgJFG9DNs9jNuDL9.htm](classfeatures/sorcerer-19-EgJFG9DNs9jNuDL9.htm)|Legendary Spellcaster (Sorcerer)|Incantateur légendaire (Ensorceleur)|officielle|
 |[sorcerer-19-feCnVrPPlKhl701x.htm](classfeatures/sorcerer-19-feCnVrPPlKhl701x.htm)|Bloodline Paragon|Parangon du lignage|officielle|
+|[swashbuckler-01-4lGhbEjlEoGP4scl.htm](classfeatures/swashbuckler-01-4lGhbEjlEoGP4scl.htm)|Wit Style|Style : Esprit|libre|
+|[swashbuckler-01-5HoEwzLDJGTCZtFa.htm](classfeatures/swashbuckler-01-5HoEwzLDJGTCZtFa.htm)|Battledancer Style|Style : Danseur de combat|libre|
+|[swashbuckler-01-B7RMnrHwQHlezlJT.htm](classfeatures/swashbuckler-01-B7RMnrHwQHlezlJT.htm)|Gymnast Style|Style : Gymnaste|libre|
+|[swashbuckler-01-beW1OqibVQ3fBvRw.htm](classfeatures/swashbuckler-01-beW1OqibVQ3fBvRw.htm)|Swashbuckler's Style|Style du bretteur|libre|
+|[swashbuckler-01-Jgid6Ja6Y879COlN.htm](classfeatures/swashbuckler-01-Jgid6Ja6Y879COlN.htm)|Fencer Style|Style : escrimeur|libre|
+|[swashbuckler-01-KBhwFjdptrKyN5EM.htm](classfeatures/swashbuckler-01-KBhwFjdptrKyN5EM.htm)|Braggart Style|Style : fanfaron|libre|
+|[swashbuckler-01-LzYi0OuOoypNb6jd.htm](classfeatures/swashbuckler-01-LzYi0OuOoypNb6jd.htm)|Panache|Panache|libre|
+|[swashbuckler-01-pyo0vmxUFIFX2GNl.htm](classfeatures/swashbuckler-01-pyo0vmxUFIFX2GNl.htm)|Confident Finisher|Coup final assuré|libre|
 |[swashbuckler-01-RQH6vigvhmiYKKjg.htm](classfeatures/swashbuckler-01-RQH6vigvhmiYKKjg.htm)|Precise Strike|Frappe précise|libre|
+|[swashbuckler-03-8BOFeRE7ZfJ02N0O.htm](classfeatures/swashbuckler-03-8BOFeRE7ZfJ02N0O.htm)|Vivacious Speed|Vitesse exubérante|libre|
+|[swashbuckler-03-Jtn7IugykXDlIoZq.htm](classfeatures/swashbuckler-03-Jtn7IugykXDlIoZq.htm)|Opportune Riposte|riposte opportune|libre|
+|[swashbuckler-03-pthjQIK9pDxnbER6.htm](classfeatures/swashbuckler-03-pthjQIK9pDxnbER6.htm)|Stylish Tricks|Astuces de style|libre|
 |[swashbuckler-03-TySxvlssa9YjQhjJ.htm](classfeatures/swashbuckler-03-TySxvlssa9YjQhjJ.htm)|Great Fortitude (Swashbuckler)|Vigueur surhumaine (Bretteur)|libre|
 |[swashbuckler-05-F5BHEav90oOJ2LwN.htm](classfeatures/swashbuckler-05-F5BHEav90oOJ2LwN.htm)|Weapon Expertise (Swashbuckler)|Expertise martiale (Bretteur)|libre|
 |[swashbuckler-07-GdEYWajctNsihg1z.htm](classfeatures/swashbuckler-07-GdEYWajctNsihg1z.htm)|Weapon Specialization (Swashbuckler)|Spécialisation martiale (Bretteur)|libre|
 |[swashbuckler-07-W4iCc24gNXPY67SS.htm](classfeatures/swashbuckler-07-W4iCc24gNXPY67SS.htm)|Evasion (Swashbuckler)|Évasion (Bretteur)|libre|
+|[swashbuckler-09-KxpaxUSuBC7hr4F7.htm](classfeatures/swashbuckler-09-KxpaxUSuBC7hr4F7.htm)|Exemplary Finisher|Coup final exemplaire|libre|
+|[swashbuckler-09-U74JoAcLHTOsZG6q.htm](classfeatures/swashbuckler-09-U74JoAcLHTOsZG6q.htm)|Swashbuckler Expertise|Expertise du bretteur|libre|
 |[swashbuckler-13-dfmcFY6SqPMkqbQp.htm](classfeatures/swashbuckler-13-dfmcFY6SqPMkqbQp.htm)|Weapon Mastery (Swashbuckler)|Maîtrise martiale (Bretteur)|libre|
 |[swashbuckler-13-FCWt3xFQeINVY8JW.htm](classfeatures/swashbuckler-13-FCWt3xFQeINVY8JW.htm)|Light Armor Expertise (Swashbuckler)|Expertise avec les armures légères (Bretteur)|libre|
 |[swashbuckler-13-oiA05VSn8Q9kiF8B.htm](classfeatures/swashbuckler-13-oiA05VSn8Q9kiF8B.htm)|Improved Evasion (Swashbuckler)|Évasion améliorée (Bretteur)|libre|
 |[swashbuckler-15-nxV6vahBSyv7gNSc.htm](classfeatures/swashbuckler-15-nxV6vahBSyv7gNSc.htm)|Greater Weapon Specialization (Swashbuckler)|Spécialisation martiale supérieure (Bretteur)|libre|
+|[swashbuckler-15-Pk3Ht0KZyFxSeL07.htm](classfeatures/swashbuckler-15-Pk3Ht0KZyFxSeL07.htm)|Keen Flair|Élégance aigüe|libre|
 |[swashbuckler-17-7qJIXNnkFDOWVtNs.htm](classfeatures/swashbuckler-17-7qJIXNnkFDOWVtNs.htm)|Resolve (Swashbuckler)|Résolution (Bretteur)|libre|
 |[swashbuckler-19-G0Sq4tt26TeneUs1.htm](classfeatures/swashbuckler-19-G0Sq4tt26TeneUs1.htm)|Light Armor Mastery (Swashbuckler)|Maîtrise des armures légères (Bretteur)|libre|
+|[swashbuckler-19-ypfT3iybew6ZSIUl.htm](classfeatures/swashbuckler-19-ypfT3iybew6ZSIUl.htm)|Eternal Confidence|Confiance éternelle|libre|
+|[witch-01-4IfYHrQMosJNM8hv.htm](classfeatures/witch-01-4IfYHrQMosJNM8hv.htm)|Fervor Patron|Patron : Ferveur|libre|
+|[witch-01-9uLh5z2uPo6LDFRY.htm](classfeatures/witch-01-9uLh5z2uPo6LDFRY.htm)|Hexes|Maléfices|libre|
+|[witch-01-ejmSQOJR5lJv1pzh.htm](classfeatures/witch-01-ejmSQOJR5lJv1pzh.htm)|Rune Patron|Patron : Rune|libre|
+|[witch-01-KPtF29AaeX2sJW0K.htm](classfeatures/witch-01-KPtF29AaeX2sJW0K.htm)|Patron|Patron|libre|
+|[witch-01-NAXRmMjj0gcyD7ie.htm](classfeatures/witch-01-NAXRmMjj0gcyD7ie.htm)|Curse Patron|Patron : Malédiction|libre|
+|[witch-01-nocYmxbi4rqCC2qS.htm](classfeatures/witch-01-nocYmxbi4rqCC2qS.htm)|Patron Theme|Thême de patron|libre|
+|[witch-01-qf12ubZ07Q0z0NcN.htm](classfeatures/witch-01-qf12ubZ07Q0z0NcN.htm)|Winter Patron|Patron : Hiver|libre|
+|[witch-01-qMZiTugiLCEmkg8h.htm](classfeatures/witch-01-qMZiTugiLCEmkg8h.htm)|Fate Patron|Patron : Destin|libre|
+|[witch-01-VVMMJdIWL7fAsQf3.htm](classfeatures/witch-01-VVMMJdIWL7fAsQf3.htm)|Baba Yaga Patron|Patron : Baba Yaga|libre|
+|[witch-01-x2gzQMPvLwHWDdAC.htm](classfeatures/witch-01-x2gzQMPvLwHWDdAC.htm)|Wild Patron|Patron : Sauvage|libre|
+|[witch-01-XFTWJO6txmLNRLae.htm](classfeatures/witch-01-XFTWJO6txmLNRLae.htm)|Night Patron|Patron : Nuit|libre|
+|[witch-01-yksPhweBZYVCsE1A.htm](classfeatures/witch-01-yksPhweBZYVCsE1A.htm)|Familiar (Witch)|Familier (Sorcière)|libre|
+|[witch-01-zT6QiTMxxj8JYoN9.htm](classfeatures/witch-01-zT6QiTMxxj8JYoN9.htm)|Witch Spellcasting|Incantation de sorcière|libre|
 |[witch-05-zXVHXoZKpTootce0.htm](classfeatures/witch-05-zXVHXoZKpTootce0.htm)|Magical Fortitude (Witch)|Vigueur magique (Sorcière)|libre|
 |[witch-07-jSw13ajIzbUdiwwA.htm](classfeatures/witch-07-jSw13ajIzbUdiwwA.htm)|Expert Spellcaster (Witch)|Incantateur expert (Sorcière)|libre|
 |[witch-09-uW7EyPyjgmDPL5Bg.htm](classfeatures/witch-09-uW7EyPyjgmDPL5Bg.htm)|Lightning Reflexes (Witch)|Réflexes éclair (Sorcière)|libre|
@@ -374,6 +373,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[witch-15-IDtk2iV6haZWEhQj.htm](classfeatures/witch-15-IDtk2iV6haZWEhQj.htm)|Master Spellcaster (Witch)|Maître Incantateur (Sorcière)|libre|
 |[witch-17-hNy2K2QmKF6sHA2A.htm](classfeatures/witch-17-hNy2K2QmKF6sHA2A.htm)|Resolve (Witch)|Résolution (Sorcière)|libre|
 |[witch-19-3NrNkKwAwnHT0zJE.htm](classfeatures/witch-19-3NrNkKwAwnHT0zJE.htm)|Legendary Spellcaster (Witch)|Incantateur légendaire (Sorcière)|libre|
+|[witch-19-cDnFXfl3i5Z2l7JP.htm](classfeatures/witch-19-cDnFXfl3i5Z2l7JP.htm)|Patron's Gift|Don du patron|libre|
 |[wizard-00-S6WW4Yyg4XonXGHD.htm](classfeatures/wizard-00-S6WW4Yyg4XonXGHD.htm)|Arcane Spellcasting|Incantation arcanique|officielle|
 |[wizard-01-89zWKD2CN7nRu2xp.htm](classfeatures/wizard-01-89zWKD2CN7nRu2xp.htm)|Arcane Thesis: Metamagical Experimentation|Thèse arcanique : Expérimentation métamagique|officielle|
 |[wizard-01-au0lwQ1nAcNQwcGh.htm](classfeatures/wizard-01-au0lwQ1nAcNQwcGh.htm)|Arcane Bond|Lien arcanique|officielle|

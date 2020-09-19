@@ -1,30 +1,16 @@
 # État de la traduction (boons-and-curses)
 
- * **aucune**: 120
+ * **libre**: 16
+ * **aucune**: 104
 
 
-Dernière mise à jour: 2020-09-10 21:01 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-19 09:15 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[0PMqydlsIjj8GNnl.htm](boons-and-curses/0PMqydlsIjj8GNnl.htm)|Norgorber - Moderate Curse|
-|[0vmwZrIhm5rWHkYh.htm](boons-and-curses/0vmwZrIhm5rWHkYh.htm)|Pharasma - Minor Boon|
-|[1hdWNyedYvuZgtPr.htm](boons-and-curses/1hdWNyedYvuZgtPr.htm)|Pharasma - Moderate Curse|
-|[1nALC8yWtjBDEaOC.htm](boons-and-curses/1nALC8yWtjBDEaOC.htm)|Rovagug - Minor Curse|
-|[2EKgNifq3ozzKYfI.htm](boons-and-curses/2EKgNifq3ozzKYfI.htm)|Norgorber - Minor Boon|
-|[30Xdyvplx7MfX1nA.htm](boons-and-curses/30Xdyvplx7MfX1nA.htm)|Torag - Moderate Boon|
-|[3u3vav6qfAW6hPKE.htm](boons-and-curses/3u3vav6qfAW6hPKE.htm)|Erastil - Moderate Curse|
-|[4FkVB4uQK4eHZJ6Z.htm](boons-and-curses/4FkVB4uQK4eHZJ6Z.htm)|Rovagug - Minor Boon|
-|[4m2dQ2fvVWxtokVe.htm](boons-and-curses/4m2dQ2fvVWxtokVe.htm)|Desna - Moderate Boon|
-|[4sZ9tpmPj4LIgPvU.htm](boons-and-curses/4sZ9tpmPj4LIgPvU.htm)|Nethys - Major Curse|
-|[5x0wEbgxYmXonBuN.htm](boons-and-curses/5x0wEbgxYmXonBuN.htm)|Lamashtu - Minor Curse|
-|[6f8zTNIs5XXzkhkR.htm](boons-and-curses/6f8zTNIs5XXzkhkR.htm)|Lamashtu - Minor Boon|
-|[845vvISfgkk6sei0.htm](boons-and-curses/845vvISfgkk6sei0.htm)|Torag - Minor Curse|
-|[8G0USrxM7d4B4EVI.htm](boons-and-curses/8G0USrxM7d4B4EVI.htm)|Gorum - Major Boon|
-|[8ZNtiMxoJIP1DJ9Q.htm](boons-and-curses/8ZNtiMxoJIP1DJ9Q.htm)|Nethys - Major Boon|
 |[9EMaYf6odFEyjdSr.htm](boons-and-curses/9EMaYf6odFEyjdSr.htm)|Urgathoa - Moderate Curse|
 |[a1OZtMQSzjYOm0P3.htm](boons-and-curses/a1OZtMQSzjYOm0P3.htm)|Rovagug - Moderate Boon|
 |[AdNAeWhnq5Is3AZb.htm](boons-and-curses/AdNAeWhnq5Is3AZb.htm)|Torag - Major Boon|
@@ -59,7 +45,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fV0t8xagcbqwvTpQ.htm](boons-and-curses/fV0t8xagcbqwvTpQ.htm)|Asmodeus - Minor Boon|
 |[fV0Xa1Bd3BoWACgT.htm](boons-and-curses/fV0Xa1Bd3BoWACgT.htm)|Irori - Minor Boon|
 |[fV940VM5RCsNwUvA.htm](boons-and-curses/fV940VM5RCsNwUvA.htm)|Calistra - Major Curse|
-|[fXEeTSVINdWaKHhw.htm](boons-and-curses/fXEeTSVINdWaKHhw.htm)|Abadar - Minor Boon|
 |[gDBa72Y2jokr8Zzg.htm](boons-and-curses/gDBa72Y2jokr8Zzg.htm)|Lamashtu - Moderate Curse|
 |[HdPVL76QiDhsLCA9.htm](boons-and-curses/HdPVL76QiDhsLCA9.htm)|Nethys - Moderate Boon|
 |[hrTl9kfSNrOQeNze.htm](boons-and-curses/hrTl9kfSNrOQeNze.htm)|Erastil - Minor Boon|
@@ -135,3 +120,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[0PMqydlsIjj8GNnl.htm](boons-and-curses/0PMqydlsIjj8GNnl.htm)|Norgorber - Moderate Curse|Norgorber - Malédiction modérée|libre|
+|[0vmwZrIhm5rWHkYh.htm](boons-and-curses/0vmwZrIhm5rWHkYh.htm)|Pharasma - Minor Boon|Pharasma - Bénédiction mineure|libre|
+|[1hdWNyedYvuZgtPr.htm](boons-and-curses/1hdWNyedYvuZgtPr.htm)|Pharasma - Moderate Curse|Pharasma - Malédiction modérée|libre|
+|[1nALC8yWtjBDEaOC.htm](boons-and-curses/1nALC8yWtjBDEaOC.htm)|Rovagug - Minor Curse|Rovagug - Malédiction mineure|libre|
+|[2EKgNifq3ozzKYfI.htm](boons-and-curses/2EKgNifq3ozzKYfI.htm)|Norgorber - Minor Boon|Norgorber - Bénédiction mineure|libre|
+|[30Xdyvplx7MfX1nA.htm](boons-and-curses/30Xdyvplx7MfX1nA.htm)|Torag - Moderate Boon|Torag - Bénédiction modérée|libre|
+|[3u3vav6qfAW6hPKE.htm](boons-and-curses/3u3vav6qfAW6hPKE.htm)|Erastil - Moderate Curse|Érastil - Malédiction modérée|libre|
+|[4FkVB4uQK4eHZJ6Z.htm](boons-and-curses/4FkVB4uQK4eHZJ6Z.htm)|Rovagug - Minor Boon|Rovagug - Bénédiction mineure|libre|
+|[4m2dQ2fvVWxtokVe.htm](boons-and-curses/4m2dQ2fvVWxtokVe.htm)|Desna - Moderate Boon|Desna - Bénédiction modérée|libre|
+|[4sZ9tpmPj4LIgPvU.htm](boons-and-curses/4sZ9tpmPj4LIgPvU.htm)|Nethys - Major Curse|Néthys - Malédiction majeure|libre|
+|[5x0wEbgxYmXonBuN.htm](boons-and-curses/5x0wEbgxYmXonBuN.htm)|Lamashtu - Minor Curse|Lamashtu - Malédiction mineure|libre|
+|[6f8zTNIs5XXzkhkR.htm](boons-and-curses/6f8zTNIs5XXzkhkR.htm)|Lamashtu - Minor Boon|Lamashtu - Bénédiction mineure|libre|
+|[845vvISfgkk6sei0.htm](boons-and-curses/845vvISfgkk6sei0.htm)|Torag - Minor Curse|Torag - Malédiction mineure|libre|
+|[8G0USrxM7d4B4EVI.htm](boons-and-curses/8G0USrxM7d4B4EVI.htm)|Gorum - Major Boon|Gorum - Bénédiction majeure|libre|
+|[8ZNtiMxoJIP1DJ9Q.htm](boons-and-curses/8ZNtiMxoJIP1DJ9Q.htm)|Nethys - Major Boon|Néthys - Bénédiction majeure|libre|
+|[fXEeTSVINdWaKHhw.htm](boons-and-curses/fXEeTSVINdWaKHhw.htm)|Abadar - Minor Boon|Abadar - Bénédiction mineure|libre|

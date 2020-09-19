@@ -17,6 +17,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous bénéficiez d’une constitution incroyablement robuste. Votre rang de maîtrise pour les jets de Vigueur passe à expert.&nbsp;</span></p>"
         },
         {
+            "id": "Patron Theme",
+            "name": "Patron Theme",
+            "description": "<p>Chaque patron possède un thème, quelles que soient sa nature et son identité. Ce thème décrit les forces sur lesquelles il permet à ses sorcières d’exercer leur influence; Certains patrons ont plusieurs facettes et offrent des thèmes différents et des enseignent des leçons différentes à leurs sorcières. Le thème de votre patron détermine les éléments suivants.</p>\n<ul>\n<li><strong>Liste de sorts</strong> Vous utilisez cette tradition magique et cette liste de sorts.</li>\n<li><strong>Compétence de Patron</strong> Vous devenez qualifié dans la compétence indiquée.</li>\n<li><strong>tour de magie de maléfice</strong> Vous obtenez ce tour de magie de maléfice spécifique.</li>\n<li><strong>Sort accordé</strong> Votre familier apprend automatiquement le sort indiqué ici, en plus de ceux que vous avez obtenu à travers Incantation de sorcière.</li>\n</ul>"
+        },
+        {
             "id": "Greater Resolve (Investigator)",
             "name": "Greater Resolve (Investigator)",
             "description": "<p>Votre entraînement incroyable vous a accordé une résistance mentale. Votre rang de maîtrise des jets de sauvegarde de Volonté devient légendaire. Quand vous obtenez un succès à un jet de Volonté, vous remportez à la place un succès critique. Quand vous obtenez un échec critique à un jet de Volonté, celui-ci se transforme en échec. Lorsque vous obtenez un échec sur le jet de Volonté contre un effet qui vous inflige des dégâts, vous ne subissez que la moitié des dégâts.&nbsp;</p>"
@@ -180,6 +185,11 @@
             "id": "Trackless Step",
             "name": "Trackless Step",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Il est compliqué de vous pister lorsque vous traversez des terrains naturels. Vous bénéficiez en permanence des avantages de l’action Dissimuler des traces sur de tels terrains, et ce, sans devoir vous déplacer à la moitié de votre Vitesse.&nbsp;</span></p>"
+        },
+        {
+            "id": "Desecrator [Neutral Evil]",
+            "name": "Desecrator [Neutral Evil]",
+            "description": "<p>Vous avez toujours pris ce qui vous plaisait, quel que soit celui que çà a blessé et vous répandez l'influence du mal à tout ce que vous touchez. Vous obtenez la réaction de champion @Compendium[pf2e.actionspf2e.enQieRrITuEQZxx2]{Bouclier égoïste} et le sort de dévotion @Compendium[pf2e.spells-srd.jFmWSIpJGGebim6y]{Toucher de corruption}. Après les principes du mal, ajoutez ce principe.</p>\n<p>• Minez ou corrompez tout ce qui se trouve de bon et de pur sur votre chemin et semez le doute parmi ceux qui poursuivent de tels idéaux.</p>\n<h2 class=\"title\">Châtiment divin<span style=\"float: right;\">Niveau 9</span></h2>\n<p>Votre réaction de champion s'améliore. Si votre modificateur de Charisme est de +2 ou supérieur, votre résistance contre les dégâts déclencheurs est égale à votre modificateur de Charisme + la moitié de votre niveau.</p>\n<h2 class=\"title\">Exaltation<span style=\"float: right;\">Niveau 11</span></h2>\n<p>Votre réaction de champion s'améliore de la manière suivante lorsque vous obtenez la capacité de classe exaltation au niveau 11. Cela affecte vos ennemis plutôt que vos alliés, lorsqu'ils exaltent votre divinité obscrure en apportant la douleur sur vos ennemis au lieu de peser sur vos compagnons.</p>\n<p>Lorsque vous utilisez Bouclier égoïste, chaque ennemi dans les 4,5 m de vous subit une pénalité de statut de –1 à ses jets d'attaque contre vous jusqu'au début de votre prochain tour.</p>"
         },
         {
             "id": "Alchemical Alacrity",
@@ -372,9 +382,19 @@
             "description": "<p>Vous pouvez infliger de plus graves blessures avec les armes que vous connaissez le mieux. Vous infligez 2 dégâts de plus avec les armes et les attaques à mains nues pour lesquelles vous êtes expert. Ces dégâts passent à 3 si vous êtes maître et à 4 si vous êtes légendaire.</p>"
         },
         {
+            "id": "Fervor Patron",
+            "name": "Fervor Patron",
+            "description": "<p>Votre patron représente un idéal ou un objectif important et vous accorde des pouvoirs magiques pour mener à bien cette mission ou rallier d’autres personnes à votre cause.</p>\n<p><strong>Liste de sort</strong> divine</p>\n<p><strong>Compétence de patron</strong> Religion</p>\n<p><strong>Tour de magie de maléfice</strong> @Compendium[pf2e.spells-srd.GeUbPvwdZ4B4l0up]{Enflammer les cœurs}</p>\n<p><strong>Sort accordé</strong> @Compendium[pf2e.spells-srd.aIHY2DArKFweIrpf]{Injonction}</p>"
+        },
+        {
             "id": "Toxicologist",
             "name": "Toxicologist",
             "description": "<p><strong>Découverte de domaine de recherche (Niveau 1):</strong> Vous vous spécialisez dans les toxines et les venins de toutes sortes. Vous débutez avec les formules de deux poisons aclhimiques courants dans votre livre de formules, en plus de vos autres formules. Vous pouvez appliquer un poison de blessure que vous tenez sur une arme que vous maniez par une action unique, plutôt que par une activité à 2 actions et vous pouvez changer les DD de vos poisons imprégnés jusqu'à votre DD de classe s'il est plus élevé.</p>\n<p><strong>découverte de domaine de recherche (Niveau 5): </strong>Lorsque vous utilisez alchimie avancée pour fabriquer des poisons durant vos préparatifs quotidiens, vous pouvez dépenser un lot de réactifs pour créer trois poisons de n'importe quelle sorte, au lieu de deux poisons de même sorte seulement.</p>\n<p><strong>Infusions perpétuelles (niveau 7): </strong>Choose two common&nbsp;1st-level alchemical poisons.</p>\n<p><strong>Puissance perpétuelle (niveau 11):</strong> Choisissez deux poisons courants de niveau 5 ou inférieur.</p>\n<p><strong>Découverte de domaine de recherche supérieur (niveau 15):</strong> Vous pouvez appliquer deux poisons de blessure différents sur la même arme, mais pas sur une munition. Les deux poisons doivent être de six niveaux plus faibles que votre niveau et vous ne pouvez utiliser les poisons concoctés en utilisant un lot de réactifs imprégnés par @Compendium[pf2e.classfeatures.LlZ5R50z9j8jysZL]{Infusions pérpétuelles}. Appliquer les deux poisons nécessite une action séparée pour apposer chacun des poisons.</p>\n<p>Une foix accompli, vous combinez les deux poisons sur l'arme en un poison double avec le DD le plus faible des deux. Ce poison double est virulent seulement si les deux poisons qui le composent étaient virulents et si les poisons ont un nombre différent de stades, le poison double possède un nombre de stades égal à celui du poison avec le plus faible nombre de stades. La cible subit les effets des deux poisons à son stade actuel.</p>\n<p><strong>Perfection perpétuelle (Niveau 17):</strong> Choisissez deux poisons courants de niveau 11 ou inférieurs.</p>"
+        },
+        {
+            "id": "Battledancer Style",
+            "name": "Battledancer Style",
+            "description": "<p>Pour vous, un combat est une sorte de représentation artistique et vous captez l’attention de vos ennemis par des mouvements hypnotisants.</p>\n<p>Vous êtes qualifié en Représentation et obtener le don de compétence @Compendium[pf2e.feats-srd.7LB00jkh6JaJr3vS]{représentation fascinante}. Vous obtenez du @Compendium[world.class-features-apg-data-entry.E3RUV3qhFQwcqJ77]{Panache} durant une rencontre lorsque le résultat de votre test de Représentation dépasse le DD de Volonté d'un adversaire qui vous observe même si votre ennemi n'est pas fasciné.</p>"
         },
         {
             "id": "Hunter's Edge: Precision",
@@ -382,9 +402,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">votre entraînement vous permet de viser les points faibles de votre proie. La première fois que vous touchez votre proie lors d’un round, vous infligez 1d8 dégâts de précision supplémentaires (les dégâts de précision augmentent les dégâts que vous avez déjà infligés, ils sont du même type que ceux de base mais restent inefficaces contre des créatures qui n’ont pas d’organes vitaux ou de points faibles). Au niveau 11, les dégâts de précision supplémentaires passent à 2d8, et à 3d8 au niveau 19.</span></p>\n<h2 class=\"title\">Maître chasseur<span style=\"float: right;\">Niveau 17</span></h2>\n<p>votre maîtrise martiale vous permet de toucher à multiples reprises les points vitaux de votre proie. La deuxième fois que vous touchez votre proie lors d’un même round, vous lui infligez également 1d8 dégâts de précision. Au niveau 19, votre deuxième attaque réussie contre votre proie lors d’un même round inflige 2d8 dégâts de précision, et la troisième 1d8 dégâts de précision.&nbsp;</p>"
         },
         {
+            "id": "Eternal Confidence",
+            "name": "Eternal Confidence",
+            "description": "<p>En tant que bretteur au sommet de son art, vous possédez une confiance en vous et une bravade qui paraît dans chacune de vos attaques. Votre rang de maîtrise pour le DD de classe de bretteur passe à maître.</p>\n<p>Lorsque vous faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} comme partie d'un coup final ou d'une @Compendium[pf2e.actionspf2e.EfjoIuDmtUn4yiow]{Riposte opportune}, vous pouvez donner à la Frappe l'effet d'échec du @Compendium[pf2e.classfeatures.pyo0vmxUFIFX2GNl]{Coup final assuré}, incluant l'augmentation provenant de @Compendium[pf2e.feats-srd.qeLpqH2cMSmIrILV]{Coup final précis} si vous possédez ce don. Vous ne pouvez profiter de cet avantage que si vous utilisez une arme ou une attaque sans arme pour la Frappe avec laquelle vous pouvez utiliser Coup final assuré.</p>"
+        },
+        {
             "id": "Weapon Specialization (Witch)",
             "name": "Weapon Specialization (Witch)",
             "description": "<p>Vous pouvez infliger de plus graves blessures avec les armes que vous connaissez le mieux. Vous infligez 2 dégâts de plus avec les armes et les attaques à mains nues pour lesquelles vous êtes expert. Ces dégâts passent à 3 si vous êtes maître et à 4 si vous êtes légendaire.</p>"
+        },
+        {
+            "id": "Swashbuckler's Style",
+            "name": "Swashbuckler's Style",
+            "description": "<p>En tant que bretteur, vous possédez votre propre style distinctif qui vous permet de gérer avec élégance les événements quotidiens ainsi que les situations de vie ou de mort. Choisissez un style de bretteur. Ce style détermine les actions supplémentaires que vous pouvez utiliser pour gagner du panache et vous rend entraîné dans la compétence liée à cette action.</p>\n<ul>\n<li>@Compendium[pf2e.classfeatures.5HoEwzLDJGTCZtFa]{Danseur de combat}</li>\n<li>@Compendium[pf2e.classfeatures.Jgid6Ja6Y879COlN]{Escrimeur}</li>\n<li>@Compendium[pf2e.classfeatures.4lGhbEjlEoGP4scl]{Esprit}</li>\n<li>@Compendium[pf2e.classfeatures.KBhwFjdptrKyN5EM]{Fanfaron}</li>\n<li>@Compendium[pf2e.classfeatures.B7RMnrHwQHlezlJT]{Gymnaste}</li>\n</ul>"
         },
         {
             "id": "Lightning Reflexes (Druid)",
@@ -467,6 +497,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos réflexes sont fulgurants. Votre rang de maîtrise pour les jets de Réflexes passe à expert.&nbsp;</span></p>"
         },
         {
+            "id": "Fate Patron",
+            "name": "Fate Patron",
+            "description": "<p>Grâce à votre patron, vous obtenez de brefs aperçus du futur et des intuitions de la trame temporelle constamment tissée.</p>\n<p><strong>Liste de sort</strong> occulte</p>\n<p><strong>Compétence du patron</strong> Occultisme</p>\n<p><strong>Tour de magie de maléfice</strong> @Compendium[pf2e.spells-srd.G0T1xv1FoZ23Jxvt]{Coup de pouce au destin}</p>\n<p><strong>Sort accordé</strong> @Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{Coup au but}</p>"
+        },
+        {
             "id": "Legendary Armor",
             "name": "Legendary Armor",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre foi vous protège tout aussi efficacement que l’acier. Votre rang de maîtrise avec les armures légères, intermédiaires et lourdes, ainsi qu’avec la défense sans armure, passe à légendaire.&nbsp;</span></p>"
@@ -480,6 +515,11 @@
             "id": "Perpetual Perfection (Mutagenist)",
             "name": "Perpetual Perfection (Mutagenist)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La version supérieure des mutagènes que vous avez choisis pour vos infusions perpétuelles.&nbsp;</span></p>"
+        },
+        {
+            "id": "Wit Style",
+            "name": "Wit Style",
+            "description": "<p>Vous êtes amical, intelligent et plein d’humour. Vous savez toujours quoi dire en toutes circonstances. Vos ennemis habitués à vos bons mots ne nont pas préparés face à votre talent et à la rapidité de vos attaques.&nbsp;</p>\n<p>Vous êtes qualifié en Diplomatie et obtenez le don de compétence @Compendium[pf2e.feats-srd.0GF2j54roPFIDmXf]{Bon Mot}. Vous obtenez du @Compendium[pf2e.classfeatures.LzYi0OuOoypNb6jd]{Panache} lors d'une rencontre lorsque vous réussissez un Bon Mot contre un adversaire.</p>"
         },
         {
             "id": "Arcane Thesis: Spell Substitution",
@@ -532,6 +572,16 @@
             "description": "<p>Choisissez deux formules parmi les suivantes : @Compendium[pf2e.equipment-srd.yd3kEK21YknZLlcT]{feu grégeois (inférieur)}, @Compendium[pf2e.equipment-srd.M1k5QQc1qQLxzyCK]{fiole d’acide (inférieure)}, @Compendium[pf2e.equipment-srd.EpxmUtLpCkE8R6KJ]{fiole givrée (inférieure)}, @Compendium[pf2e.equipment-srd.AFR01HVd7DcZvkpP]{foudre en bouteille (inférieure)}, @Compendium[pf2e.equipment-srd.Xnqglykl3Cif8rN9]{pierre à tonnerre (inférieure)}, @Compendium[pf2e.equipment-srd.T6Appwwl6nUl56Xj]{sacoche immobilisante (inférieure)}.</p>"
         },
         {
+            "id": "Tyrant [Lawful Evil]",
+            "name": "Tyrant [Lawful Evil]",
+            "description": "<p>Le pouvoir tient lieu de droit et vous soumettez les faibles pour les maintenir à leur place. Vous obtenez la réaction de champion  @Compendium[pf2e.actionspf2e.M8RCbthRhB4bxO9t]{Ordre de fer} et le sort de dévotion @Compendium[pf2e.spells-srd.jFmWSIpJGGebim6y]{Toucher de corruption}. Après les principes du mal, ajoutez ces principes.</p>\n<ul>\n<li>Ne laissez personne de rang inférieur avoir du pouvoir sur vous ou vous conduire.</li>\n<li>Renforcez sans pitié les hiérarchies établies des maîtres et des esclaves. Renversez ou prenez le contrôle des hiérarchies illégitimes, tels que les gouvernements démocratiques ou les arrognats échelon des plans célestes et remplissez les pouvoirs laissés vides en prenant le pouvoir pour vous-même.</li>\n<li>Obligez les faibles à vous servir. Ce principe n'implique pas que vous laissiez en vie des ennemis si vous pensez qu'ils seront déloyaux s'ils sont placés en servitude, ni ne nécessite que vous gardiez plus de serviteurs que ceux dont vous avez l'utilité ou que vous trouvez pratiques d'avoir.</li>\n</ul>\n<h2 class=\"title\">Châtiment divin<span style=\"float: right;\">Niveau 9</span></h2>\n<p>Les regrets de la désobéissance se prolongent. Si un ennemi refuse votre Ordre de fer, il subit des dégâts persistants de mal égaux à votre modificateur de Charisme.</p>\n<h2 class=\"title\">Exaltation<span style=\"float: right;\">Niveau 11</span></h2>\n<p>Votre réaction de champion s'améliore de la manière suivante lorsque vous obtenez la capacité de classe exaltation au niveau 11 ; Cela affecte vos ennemis plutôt que vos alliés, lorsqu'ils exaltent votre divinité obscrure en apportant la douleur sur vos ennemis au lieu de peser sur vos compagnons. </p>\n<p>Lorsque vous utilisez Ordre de fer, chaque ennemi dans les 4,5 m autre que la créature déclencheuse doivent aussi se mette à terre ou subir des dégâts mentaux (l'adversaire choisit). Ces créatures subissent seulement les dégâts minimum (typiquement 3 dégâts au niveau 11, 4 au niveau 12, 5au niveau 16 et 6 au niveau 19) et les effets qu'ils subissent ne peuvent être ajustés par rien qui puisse modifier votre Ordre de fer</p>\n<p>Par exemple, le don @Compendium[pf2e.feats-srd.XttSGDuAsRDTuvgS]{Répercussions de fer} ne peut rendre les dégâts en dégâts mentaux persistants pour les créatures autres que la créature déclencheuse.</p>"
+        },
+        {
+            "id": "Vivacious Speed",
+            "name": "Vivacious Speed",
+            "description": "<p>Quand vous vous êtes montré impressionnant, vous pouvez vous déplacer encore plus vite que la normale, virevoltant sur le champ de bataille à une vitesse incroyable. Augmentez votre bonus de statut à vos Vitesses quand vous possédez du panache à +3 m. Ce bonus augmente de +1,5 m aux niveaux 7, 11, 15 et 19. Quand vous ne possédez pas de panache, vous bénéficiez tout de même de la moitié de ce bonus de statut à votre Vitesse (arrondi inférieur).</p>"
+        },
+        {
             "id": "Monk Expertise",
             "name": "Monk Expertise",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre rang de maîtrise dans le DD de classe de moine passe à expert. Si vous avez des sorts ki, le rang de maîtrise de vos attaques de sort et de votre DD des sorts issus de la tradition magique que vous utilisez pour lancer des sorts ki passe à expert.&nbsp;</span></p>"
@@ -575,6 +625,11 @@
             "id": "Hunter's Edge: Outwit",
             "name": "Hunter's Edge: Outwit",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">vous vous montrez plus malin que votre proie et savez lui échapper. Vous bénéficiez d’un bonus de circonstances de +2 aux tests de Duperie, d’Intimidation, de Discrétion et à tous les tests pour Vous souvenir d’informations sur votre proie. Vous bénéficiez également d’un bonus de circonstances de +1 à la CA contre ses attaques.</span></p>\n<h2 class=\"title\">Maître chasseur<span style=\"float: right;\">Niveau 17</span></h2>\n<p>votre maîtrise des compétences vous permet de vaincre facilement votre proie. Si vous êtes un maître en Duperie, Intimidation, Discrétion ou dans la compétence que vous utilisez pour Vous souvenir d’informations sur votre proie, le bonus de circonstances lorsque vous utilisez ces compétences contre votre proie passe de +2 à +4. Si vous êtes un maître avec votre armure, le bonus de circonstances à la CA contre la proie passe de +1 à +2.&nbsp;</p>"
+        },
+        {
+            "id": "Braggart Style",
+            "name": "Braggart Style",
+            "description": "<p>Vous vous vantez, vous moquez et aiguillonnez psychologiquement vos ennemis.&nbsp;</p>\n<p>Vous êtes qualifié en Intimidation. Vous obtenez du @Compendium[pf2e.classfeatures.LzYi0OuOoypNb6jd]{Panache} au cours d'une rencontre lorsque vous réussissez à @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} un ennemi.</p>"
         },
         {
             "id": "Perpetual Perfection (Toxicologist)",
@@ -652,6 +707,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous obtenez le don général @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier}, une réaction qui vous permet de réduire les dégâts avec votre bouclier.</span></p>"
         },
         {
+            "id": "Confident Finisher",
+            "name": "Confident Finisher",
+            "description": "<p>Vous gagnez une attaque finale élégante que vous pouvez porter quand vous possédez du panache. Le trait Coup final est décrit ci-dessous. Vous gagnez l’action @Compendium[pf2e.actionspf2e.K878asDgf1EF0B9S]{Coup final assuré}.</p><hr />\n<p><strong>Coup final</strong>  Les coups finaux sont des mouvements finaux spectaculaires qui utilisent votre panache. Vous ne pouvez utiliser un coup final que si vous possédez du panache, et vous perdez votre panache immédiatement après avoir réalisé un coup final. Quand vous utilisez un coup final, vous ne pouvez plus utiliser d’action portant le trait Attaque pendant le reste de votre tour.</p>\n<p>Certaines actions possédant le trait Coup final produisent également un effet en cas d’échec. Les effets ajoutés en cas d’échec ne s’appliquent pas en cas d’échec critique. Si votre action de coup final réussit, vous pouvez toujours choisir d’appliquer l’effet d’un échec au lieu de l’effet normal. Par exemple, vous pourriez faire ce choix lorsqu'une attaque n’inflige aucun dégât à cause de la résistance.</p>"
+        },
+        {
             "id": "Fury Instinct",
             "name": "Fury Instinct",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre rage trouve sa source dans quelque chose de personnel et profondément enfoui en vous. Vous l’utilisez comme bon vous semble.</span></p>\n<h2 class=\"title\">Anathème et pouvoir d’instinct</h2>\n<p>Vous n’avez pas d’anathème ni de pouvoir d’instinct. Vous gagnez à la place un don de barbare de niveau 1 supplémentaire.</p>\n<h2 class=\"title\">Pouvoir de spécialisation</h2>\n<p>Passez les dégâts supplémentaires de Rage de 2 à 6. Si vous possédez la spécialisation martiale supérieure, vous passez à la place les dégâts supplémentaires de Rage à 12.</p>\n<h2 class=\"title\">Résistance enragée</h2>\n<p>Vous résistez aux dégâts physiques des armes, mais pas aux dégâts physiques des autres sources (comme ceux des attaques à mains nues).&nbsp;</p>"
@@ -660,6 +720,11 @@
             "id": "Weapon Specialization (Druid)",
             "name": "Weapon Specialization (Druid)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à infliger de graves blessures avec les armes que vous connaissez le mieux. Vous infligez 2 dégâts de plus avec les armes et les attaques à mains nues pour lesquelles vous êtes expert. Ces dégâts passent à 3 si vous êtes maître et à 4 si vous êtes légendaire.&nbsp;</span></p>"
+        },
+        {
+            "id": "Curse Patron",
+            "name": "Curse Patron",
+            "description": "<p>Leurrer les ennemis et miner ceux qui se dressent sur votre passage sont les outils des patrons de la malédiction.</p>\n<p><strong>Liste de sorts</strong> occulte</p>\n<p><strong>Compétence de patron</strong> Occultisme</p>\n<p><strong>Tour de magie de maléfice</strong> @Compendium[pf2e.spells-srd.f45JpY7Ph2cAJGW2]{Mauvais œil}</p>\n<p><strong>Sort accordé</strong> @Compendium[pf2e.spells-srd.J7Y7tl0bbdz7TcCc]{Rayon affaiblissant}</p>"
         },
         {
             "id": "Armor Expertise (Fighter)",
@@ -689,7 +754,7 @@
         {
             "id": "Primal Spellcasting",
             "name": "Primal Spellcasting",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La puissance primordiale de la nature sauvage s’écoule à travers vous. Vous lancez des sorts primordiaux avec l’activité Lancer un sort et pouvez fournir des composants matériels, somatiques et verbaux lors de l’incantation (voir Lancer des sorts p. 302). Étant donné que vous êtes un druide, vous pouvez normalement brandir un focaliseur primordial (tel que du gui et du houx) pour lancer les sorts nécessitant des composants matériels au lieu d’utiliser une bourse de composants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Au niveau 1, vous pouvez chaque matin préparer deux sorts de niveau 1 et cinq tours de magie que vous choisissez parmi les sorts communs de la liste des sorts primordiaux de ce livre (page 313) ou parmi les autres sorts primordiaux auxquels vous avez accès. Vos sorts restent à votre disposition jusqu’à ce que vous les lanciez ou que vous les prépariez de nouveau. Le nombre de sorts que vous pouvez préparer est représenté par vos emplacements de sort.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Au fur et à mesure que vous gagnez des niveaux de druide, le nombre de sorts que vous pouvez préparer chaque jour augmente, tout comme le niveau le plus élevé de sort que vous pouvez lancer, comme indiqué dans le tableau 3–11 : Les sorts de druide quotidiens, p. 120.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Certains sorts exigent un jet d’attaque de sort pour déterminer leur efficacité ou obligent vos ennemis à faire un jet contre leur DD (en général un jet de sauvegarde). Comme la Sagesse est votre caractéristique essentielle, vos jets d’attaque de sort et le DD de vos sorts utilisent votre modificateur de Sagesse. Les détails permettant de calculer ces statistiques figurent p. 447.&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La puissance primordiale de la nature sauvage s’écoule à travers vous. Vous lancez des sorts primordiaux avec l’activité @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} et pouvez fournir des composants matériels, somatiques et verbaux lors de l’incantation. Étant donné que vous êtes un druide, vous pouvez normalement brandir un focaliseur primordial (tel que du gui et du houx) pour lancer les sorts nécessitant des composants matériels au lieu d’utiliser une bourse de composants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Au niveau 1, vous pouvez chaque matin préparer deux sorts de niveau 1 et cinq tours de magie que vous choisissez parmi les sorts communs de la liste des sorts primordiaux ou parmi les autres sorts primordiaux auxquels vous avez accès. Vos sorts restent à votre disposition jusqu’à ce que vous les lanciez ou que vous les prépariez de nouveau. Le nombre de sorts que vous pouvez préparer est représenté par vos emplacements de sort.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Au fur et à mesure que vous gagnez des niveaux de druide, le nombre de sorts que vous pouvez préparer chaque jour augmente, tout comme le niveau le plus élevé de sort que vous pouvez lancer, comme indiqué dans le tableau 3–11 : Les sorts de druide quotidiens, p. 120.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Certains sorts exigent un jet d’attaque de sort pour déterminer leur efficacité ou obligent vos ennemis à faire un jet contre leur DD (en général un jet de sauvegarde). Comme la Sagesse est votre caractéristique essentielle, vos jets d’attaque de sort et le DD de vos sorts utilisent votre modificateur de Sagesse.</span></p>"
         },
         {
             "id": "Animal",
@@ -697,9 +762,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous entretenez une étroite relation avec les bêtes et vous vous êtes allié avec un compagnon animal. Vous êtes qualifié en Athlétisme. Vous avez également le don de druide @Compendium[pf2e.feats-srd.f2Pl5dWEL9ZvEyI1]{Compagnon animal}. Vous obtenez le sort d’ordre @Compendium[pf2e.spells-srd.Zmh4ynfnCtwKeAYl]{guérison des animaux}. Tout acte de cruauté gratuit envers des animaux ou l’abattage abusif d’animaux sont considérés comme anathèmes (il ne vous est toutefois pas interdit de vous défendre contre des animaux ou de les tuer proprement pour vous nourrir).&nbsp;</span></p>"
         },
         {
+            "id": "Baba Yaga Patron",
+            "name": "Baba Yaga Patron",
+            "description": "<p>Baba Yaga vous a appris comment transférer les esprits dans les objets et geler vos ennemis.</p>\n<p><strong>Liste de sorts</strong>&nbsp;occulte</p>\n<p><strong>Compétence du Patron</strong>nbsp;Occultisme</p>\n<p><strong>Tour de magie de maléfice </strong>@Compendium[pf2e.spells-srd.yp4w9SG4RuqRM8KD]{Animation d'objet}</p>\n<p><strong>Sort accordé</strong> @Compendium[pf2e.spells-srd.8TQiFzGf4feoHeH0]{Contact glacial}</p>"
+        },
+        {
             "id": "Legendary Spellcaster (Oracle)",
             "name": "Legendary Spellcaster (Oracle)",
             "description": "<p>Vous pouvez exploiter la magie divine à un niveau que peu d'autes atteignent. Vos rangs de maîtrise pour les jets d’attaque de sorts divins le DD des sorts divins passent à légendaire.&nbsp;</p>"
+        },
+        {
+            "id": "Patron's Gift",
+            "name": "Patron's Gift",
+            "description": "<p>Votre patron vous octroie le pouvoir de réaliser d’incroyables accomplissements magiques. Vous gagnez un unique emplacement de sort de niveau 10 et vous pouvez l’utiliser pour préparer un sort de sorcière.</p>\n<p>Contrairement aux autres emplacements de sort, celui-ci ne peut pas être utilisé pour des capacités qui vous permettent de lancer un sort sans dépenser d’emplacement de sort, ni pour les capacités qui vous donnent plus d’emplacements de sorts. Vous ne gagnez pas d’autres emplacements de sort de niveau 10 en montant de niveau mais vous pouvez prendre le don Vérité du patron pour en obtenir un second.</p>"
         },
         {
             "id": "Mystic Strikes",
@@ -715,6 +790,11 @@
             "id": "Light Armor Expertise (Rogue)",
             "name": "Light Armor Expertise (Rogue)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à esquiver tout en portant une armure légère. Votre rang de maîtrise avec les armures légères et la défense sans armure devient expert.&nbsp;</span></p>"
+        },
+        {
+            "id": "Bloodline: Shadow",
+            "name": "Bloodline: Shadow",
+            "description": "<p>Que ce soit liés aux manipulations d'un velstrac ou à une promenade qui a tourné horriblement mal, votre lignée a été imprégné par une veine d'ombre.</p>\n<p><strong>Liste de sorts</strong> occulte</p>\n<p><strong>Compétences de lignage </strong>Discrétion, Occultisme</p>\n<p><strong>Sorts accordés</strong> tour de magie: @Compendium[pf2e.spells-srd.mAMEt4FFbdqoRnkN]{Contact glacial}; 1e: @Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]{Grim Tendrils}; 2e: @Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Ténèbres}; 3e: @Compendium[pf2e.spells-srd.sRfSBHWHdbIa0aGc]{Ténèbres glaciales}; 4e: @Compendium[pf2e.spells-srd.tlcrVRqW1MSKJ5IC]{Assassin imaginaire}; 5e: @Compendium[pf2e.spells-srd.tcwT97RWKxsJiefG]{Siphon d'ombre}; 6e: @Compendium[pf2e.spells-srd.c3XygMbzrZMgV1y3]{Transposition collective}; 7e: @Compendium[pf2e.spells-srd.73rToy0v5Ra9NvL6]{Dupliquer l'ennemi}; 8e: @Compendium[pf2e.spells-srd.wfleiawxsfhpRRwf]{Disparition}; 9e: @Compendium[pf2e.spells-srd.qDjeG6dxT4aEEC6J]{Ennemi subconscient}</p>\n<p><strong>Sorts de lignage</strong> initial: @Compendium[pf2e.spells-srd.6UafOE1ZUbHamsZJ]{Diminuer la Lumière}; avancé: @Compendium[pf2e.spells-srd.0chL1b4OFIZxpN3v]{Vol d'ombre}; supérieur: @Compendium[pf2e.spells-srd.HMTloW1hvRFJ5Z2D]{Obscurité dévorante}</p>\n<p><strong>Magie du sang</strong> Les ombres sont plus profondes autour de vous ou d'une cible en accordant soit un bonus de statut de +1 à la Discrétion soit en imposant une pénalité de statut de –1 à la Perception pendant 1 round.</p>"
         },
         {
             "id": "Defensive Robes (Witch)",
@@ -932,6 +1012,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre résolution cuirasse votre esprit. Votre rang de maîtrise pour les jets de Volonté passe à maître. Quand vous obtenez un succès sur un jet de Volonté, vous remportez à la place un succès critique.&nbsp;</span></p>"
         },
         {
+            "id": "Exemplary Finisher",
+            "name": "Exemplary Finisher",
+            "description": "<p>Vous exécutez vos coups finaux avec un panache tout particulier, en ajoutant des effets spéciaux. Si une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} que vous effectuez au cours d’un coup final touche un ennemi, vous lui ajoutez un des effets suivants, en fonction de votre style de bretteur.</p>\n<ul>\n<li><strong>Danseur de combat</strong> Vous pouvez @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faire un pas de placement} en action libre immédiatement après le coup final.</li>\n<li><strong>Escrimeur</strong> L'ennemi est @Compendium[pf2e.conditionspf2e.AJh5ex99aV6VTggg]{Pris au dépourvu} jusqu'à votre prochain tour.</li>\n<li><strong>Esprit</strong> L'ennemi subit une pénalité de circonstance de –2 aux jets d'attaques contre vous jusqu'au début de votre prochain tour.</li>\n<li><strong>Fanfaron</strong> Si l’ennemi était temporairement immunisé à vos tentatives de @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoralisation}, cette immunité temporaire prend fin.</li>\n<li><strong>Gymnaste</strong> Si l’ennemi est @Compendium[pf2e.conditionspf2e.kWc1fhmv9LBiTuei]{Agrippé}, @Compendium[pf2e.conditionspf2e.VcDeM8A5oI6VqhbM]{Entravé} ou @Compendium[pf2e.conditionspf2e.j91X7x0XSomq8d60]{À terre}, vous obtenez un bonus de circonstance aux dégâts égal à deux fois le nombre de dés de dégâts de votre arme.</li>\n</ul>"
+        },
+        {
             "id": "Arcane School: Divination",
             "name": "Arcane School: Divination",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En tant que devin, vous disposez de prescience et voyez des endroits éloignés, vous découvrez des informations susceptibles de changer le cours d’une enquête, de recherches ou d’une stratégie de bataille. Vous savez que la connaissance est pouvoir. Vous ajoutez un sort de divination de niveau 1 (comme @Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{coup au but}) à votre grimoire. Vous apprenez le sort d’école @Compendium[pf2e.spells-srd.oFwmdb6LlRrh9AUT]{vision du devin}.&nbsp;</span></p>"
@@ -945,6 +1030,11 @@
             "id": "Medium Armor Expertise (Druid)",
             "name": "Medium Armor Expertise (Druid)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à mieux vous défendre. Votre rang de maîtrise avec les armures légères, les armures intermédiaires et avec la défense sans armure passe à expert.&nbsp;</span></p>"
+        },
+        {
+            "id": "Patron",
+            "name": "Patron",
+            "description": "<p>Vous n’êtes pas née avec la capacité de lancer des sorts, et vous n’avez pas non plus dévoué plusieurs années à étudier des tomes ni à approfondir votre dévotion envers des dieux ou des secrets mystiques. Vos pouvoirs proviennent d’une puissante entité qui vous a choisie comme réceptacle pour faire avancer ses objectifs dans le monde. Cette entité est généralement mystérieuse et distante et ne révèle que peu de choses à propos de son identité et de ses motivations. Elle vous octroie des sorts et d’autres pouvoirs magiques grâce à un familier qui sert d’intermédiaire pour leur pouvoir.</p>\n<p>Un patron pourrait être une divinité ou un demi-dieu, un conclave de puissantes guenaudes, un Seigneur-fée, un archidiable ou une autre entité de même niveau de puissance, voire même plusieurs entités similaires oeuvrant de concert. En acquérant de plus en plus de pouvoirs de la part de votre patron, vous pourriez en apprendre plus sur leur identité (certaines combinaisons de thèmes et de leçons suggèrent des patrons ou des objectifs spécifiques) mais les patrons accordent leurs pouvoirs à des sorcières pour des raisons secrètes qu’ils ne révèlent que très rarement en entier.</p>\n<p>Au niveau 1, choisissez le thème de votre patron, qui détermine votre tradition de lanceur de sorts, une compétence, un tour de magie spécifique que vous obtenez et un sort qui est ajouté à votre familier.</p>"
         },
         {
             "id": "Flames Mystery",
@@ -1119,12 +1209,17 @@
         {
             "id": "Deity and Cause",
             "name": "Deity and Cause",
-            "description": "<p>Les champions sont les serviteurs divins d’une divinité. Choisissez la divinité que vous souhaitez servir (pages 437 à 440) ; votre alignement doit correspondre à ceux autorisés parmi les fidèles de votre divinité. Les actions fondamentalement opposées aux idéaux de votre divinité ou de votre alignement sont condamnées par votre religion. Quelques exemples d’actions considérées comme condamnables sont donnés dans la section de chaque divinité. C’est vous et le MJ qui déterminez si d’autres actes sont condamnables ou non. Vous choisissez l’une des causes suivantes. Votre cause doit correspondre exactement à votre alignement. Elle détermine votre réaction de champion, vous confère un sort de dévotion (page 107) et définit une partie de votre code.</p>"
+            "description": "<p>Les champions sont les serviteurs divins d’une divinité. Choisissez la divinité que vous souhaitez servir ; votre alignement doit correspondre à ceux autorisés parmi les fidèles de votre divinité. Les actions fondamentalement opposées aux idéaux de votre divinité ou de votre alignement sont condamnées par votre religion. Quelques exemples d’actions considérées comme condamnables sont donnés dans la section de chaque divinité. C’est vous et le MJ qui déterminez si d’autres actes sont condamnables ou non. Vous choisissez l’une des causes. Votre cause doit correspondre exactement à votre alignement. Elle détermine votre réaction de champion, vous confère un sort de dévotion et définit une partie de votre code.</p>"
         },
         {
             "id": "Master Tricks",
             "name": "Master Tricks",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous maîtrisez les techniques de combat des roublards. Votre rang de maîtrise devient maître pour toutes les armes simples, les attaques à mains nues, ainsi que la rapière, la matraque, l’arc court et l’épée courte.&nbsp;</span></p>"
+        },
+        {
+            "id": "Familiar (Witch)",
+            "name": "Familiar (Witch)",
+            "description": "<p>Votre patron vous a envoyé un familier, une créature mystique qui vous instruit en tant que sorcière et vous permet d’utiliser des sorts. Ce familier suit les règles du Livre de base mais, comme il s’agit d’un lien direct entre vous et votre patron, il est plus puissant que les autres familiers. Votre familier gagne une aptitude de familier supplémentaire et d’autres aptitudes de familier supplémentaires aux niveaux 6, 12 et 18.</p>\n<p>Votre familier est la source et le dépositaire des sorts que votre patron vous a octroyés et vous devez communier avec votre familier pour préparer vos sorts de sorcière chaque jour. Votre familier commence en connaissant 10 tours de magie, 5 sorts de niveau 1 et un sort de plus déterminé par votre patron. Vous choisissez ces sorts dans la liste des sorts communs de la tradition déterminée par votre patron ou parmi les autres sorts de cette tradition auxquels vous avez accès.</p>\n<p>Chaque fois que vous gagnez un niveau, votre patron enseigne à votre familier deux nouveaux sorts de n’importe quel niveau que vous pouvez lancer, choisis parmi les sorts communs de votre tradition ou ceux auxquels vous avez accès. Des dons peuvent également donner à votre familier des sorts supplémentaires.</p>\n<p>Votre familier peut apprendre des nouveaux sorts indépendamment de votre patron. Il peut apprendre n’importe quel sort se trouvant sur la liste de votre tradition en consommant physiquement un parchemin de ce sort au cours d’un processus qui prend 1 heure. Vous pouvez utiliser l’activité d’exploration  @Compendium[pf2e.actionspf2e.Q5iIYCFdqJFM31GW]{Apprendre un sort} pour préparer une version écrite spéciale d’un sort, que votre familier peut ensuite consommer comme s’il s’agissait d’un parchemin. Vous et votre familier pouvez utiliser l’activité Apprendre un sort pour enseigner à votre familier un sort provenant du familier d’une autre sorcière. Les deux familiers doivent être présents pendant la totalité de l’activité, le sort doit se trouver sur la liste de votre tradition et vous devez payer le coût usuel pour cette activité, généralement sous la forme d’offrandes au patron de l’autre familier. Vous ne pouvez pas préparer de sorts provenant du familier d’une autre sorcière.</p>\n<p>Si votre familier meurt, votre patron le remplace pendant vos prochains préparatifs quotidiens. Le nouveau familier pourrait être un duplicata ou une réincarnation de votre ancien familier ou une toute nouvelle créature mais dans tous les cas, il connaît les mêmes sorts que votre familier précédent. La mort de votre familier n’affecte pas les sorts que vous avez déjà préparés.</p>"
         },
         {
             "id": "Weapon Specialization (Alchemist)",
@@ -1157,9 +1252,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous profitez que votre ennemi ne peut pas se défendre correctement pour lui infliger des dégâts supplémentaires. Si vous Frappez une créature qui se trouve dans l’état @Compendium[pf2e.conditionspf2e.AJh5ex99aV6VTggg]{pris au dépourvu} avec une arme de corps à corps agile ou de finesse, avec une attaque à mains nues agile ou de finesse, ou avec une attaque d’arme à distance, vous lui infligez 1d6 dégâts de précision supplémentaires. Pour une attaque à distance avec une arme de corps à corps que vous jetez, cette arme doit également posséder le trait agile ou finesse.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La quantité de dés de dégâts de votre attaque sournoise augmente en même temps que votre niveau de roublard. Vous augmentez cette quantité de dés de un aux niveaux 5, 11 et 17.</span></p>"
         },
         {
+            "id": "Hexes",
+            "name": "Hexes",
+            "description": "<p>Votre patron et votre familier vous enseignent des sorts spéciaux appelés maléfices. Un maléfice est un effet à court terme qui provient directement de la magie de votre patron. En tant que tel, vous ne pouvez lancer qu’un seul maléfice par tour ; si vous tentez de lancer un second maléfice ce tour-là, la tentative échoue et les actions d’incantation sont perdues.</p>\n<p>Les maléfices sont un type particulier de sorts focalisés. Lancer un sort focalisé coûte 1 Point de Focalisation et vous commencez votre carrière avec une réserve de focalisation de 1 Point de Focalisation. Vous remplissez votre réserve de focalisation au cours de vos préparatifs quotidiens et vous pouvez regagner 1 Point de Focalisation en passant 10 minutes à utiliser l’activité de Refocalisation pour communier avec votre familier.</p>\n<p>Les sorts focalisés sont automatiquement intensifiés jusqu’à la moitié de votre niveau arrondi au supérieur. Ils n’utilisent pas d’emplacement de sorts et vous ne pouvez pas les lancer en utilisant un emplacement de sorts. Certains dons vous donnent plus de sorts focalisés et augmentent la taille de votre réserve de points de focalisation mais votre réserve de focalisation ne peut jamais dépasser 3 Points de Focalisation.</p>\n<p>Vous apprenez le maléfice @Compendium[pf2e.spells-srd.rMOI8JFJ0nT2mrCF]{Déphasage de familier} que vous pouvez lancer en une réaction pour protéger votre familier contre ce qui pourrait lui causer du tort. À part cela, c’est surtout via les @Compendium[pf2e.classfeatures.SOan0fqyFTrkqJLV]{Leçons de sorcière} que vous apprenez d'autres maléfices.</p>\n<h3>Tours de magie de maléfices</h3>\n<p>Les maléfices qui sont également des tours de magie sont des maléfices spéciaux qui ne coûtent pas de Point de Focalisation, de sorte que vous pouvez les lancer à volonté, mais pour lesquels la limite d’un maléfice par round s’applique toujours. Les maléfices qui sont également des tours de magie s’ajoutent aux tours de magie que vous choisissez mais ne sont pas pris en compte dans le nombre maximal de tours de magie que vous pouvez préparer. Vos tours de magie de maléfices sont déterminés par votre @Compendium[pf2e.classfeatures.nocYmxbi4rqCC2qS]{Thème de patron}.</p>"
+        },
+        {
             "id": "Field Discovery (Mutagenist)",
             "name": "Field Discovery (Mutagenist)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"> Quand vous utilisez alchimie avancée pour faire des mutagènes lors de vos préparatifs quotidiens, vous pouvez utiliser un lot de réactifs pour créer trois mutagènes de n’importe quel type au lieu de deux mutagènes d’un seul type.&nbsp;</span></p>"
+        },
+        {
+            "id": "Night Patron",
+            "name": "Night Patron",
+            "description": "<p>Votre patron parle depuis les ombres et vous donne des pouvoirs sur les ténèbres et les rêves.</p>\n<p><strong>Liste de sorts</strong> occulte</p>\n<p><strong>Compétence de patron</strong> Occultisme</p>\n<p><strong>Tour de magie de maléfice</strong> @Compendium[pf2e.spells-srd.cE7PRAX8Up7fmYef]{Voile de nuit}</p>\n<p><strong>Sort accordé</strong> @Compendium[pf2e.spells-srd.o4lRVTwSxnOOn5vl]{Sommeil}</p>"
         },
         {
             "id": "Spell Repetoire (Sorcerer)",
@@ -1170,6 +1275,16 @@
             "id": "Enigma (Bard Muse)",
             "name": "Enigma (Bard Muse)",
             "description": "<p>Votre muse est un mystère qui vous pousse à percer les secrets bien gardés du multivers. Si votre muse est une créature, ce peut être un dragon ou une entité d’outre-monde, ou peut-être Irori ou Néthys si c’est une divinité. Vous obtenez le don @Compendium[pf2e.feats-srd.uVXEZblPRuCyPRua]{Connaissance bardique}  et ajoutez @Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{coup au but} à votre répertoire de sorts.&nbsp;</p>"
+        },
+        {
+            "id": "Witch Spellcasting",
+            "name": "Witch Spellcasting",
+            "description": "<p>En utilisant votre familier comme intermédiaire, votre patron vous accorde le pouvoir de lancer des sorts. Vous pouvez lancer des sorts en utilisant l’activité @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} et vous pouvez fournir des composantes matérielles, somatiques et verbales lors de l’incantation.</p>\n<p>Au niveau 1, vous pouvez préparer jusqu’à deux sorts de niveau 1 et cinq tours de magie chaque matin à partir des sorts que votre familier connaît. Les sorts préparés restent disponibles jusqu’à ce que vous les lanciez ou jusqu’à ce que vous prépariez vos sorts à nouveau. Le nombre de sorts que vous pouvez préparer correspond à ce qu’on appelle vos emplacements de sorts.</p>\n<p>Au fur et à mesure que vous gagnez des niveaux de sorcière, le nombre d’emplacements de sorts dont vous disposez augmente, comme indiqué sur la table suivante.</p>\n<p>Certains sorts exigent un jet d’attaque de sort pour déterminer leur efficacité ou obligent vos ennemis à faire un jet contre leur DD (en général un jet de sauvegarde). Comme l'Intelligence est votre caractéristique essentielle, vos jets d’attaque de sort et le DD de vos sorts utilisent votre modificateur d'Intelligence.</p>"
+        },
+        {
+            "id": "Swashbuckler Expertise",
+            "name": "Swashbuckler Expertise",
+            "description": "<p>Vous mettez en pratique les techniques de bretteur avec une élégance exceptionnelle qui rend plus difficile d’y résister. Votre rang de maîtrise pour votre DD de classe de bretteur passe à expert.</p>"
         },
         {
             "id": "Signature Spells (Bard)",
@@ -1185,6 +1300,11 @@
             "id": "Alertness (Sorcerer)",
             "name": "Alertness (Sorcerer)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous restez à l’affût des menaces alentour. Votre rang de maîtrise en Perception passe à expert.&nbsp;</span></p>"
+        },
+        {
+            "id": "Winter Patron",
+            "name": "Winter Patron",
+            "description": "<p>Votre patron reflète les étendues gelées du monde et est froidement cruel envers ceux qui sous-estiment son pouvoir.</p>\n<p><strong>Liste de sorts</strong> primordial</p>\n<p><strong>Compétence de patron</strong> Nature</p>\n<p><strong>Tour de magie de maléfice</strong> @Compendium[pf2e.spells-srd.MraZBLJ4Be3ogmWL]{Glace tenace}</p>\n<p><strong>Sort accordé</strong> @Compendium[pf2e.spells-srd.g8QqHpv2CWDwmIm1]{Bourrasque}</p>"
         },
         {
             "id": "Legendary Spellcaster (Witch)",
@@ -1352,9 +1472,19 @@
             "description": "<p>Choisissez le mystère divin d’où proviennent vos pouvoirs mystiques. Votre mystère pourrait représenter une dévotion panthéistique envers toutes les divinités dont le champ d’actions s’étend au sujet de votre mystère, la vénération d’un idéal spécifique, ou un lien avec de l’énergie divine à l’état brut. Quelles que soient son origine et sa nature, votre mystère détermine les sorts de révélation que vous pouvez lancer et la malédiction d’oracle qui s’empare de votre corps quand vous le faites. Vous apprenez des sorts relatifs à votre mystère, gagnez accès à un tour de magie et obtenez un avantage spécial grâce à la combinaison de vos connaissances divines et de l’expérience pratique de votre mystère.</p>\n<hr>\n<h3>Lire une description de mystère</h3>\n<p>Une description de mystère comprend les informations ci-dessous et est suivie de détails sur la malédiction du mystère.</p>\n<p><strong>Avantage de mystère</strong> L’avantage du mystère est une capacité spéciale (ou des capacités spéciales) que vous gagnez grâce à votre mystère.</p>\n<p><strong>Compétence qualifiée</strong> Vous êtes qualifié dans la compétence indiquée. Certains mystères peuvent vous qualifier dans plus d’une compétence.</p>\n<p><strong>Tour de magie accordé</strong> Vous ajoutez automatiquement ce tour de magie à votre répertoire de sorts, en plus de ceux que vous gagnez grâce à la capacité de lancement de sorts divins.</p>\n<p><strong>Sorts de révélation</strong> Vous gagnez automatiquement le sort de révélation initial de votre mystère au niveau 1 et pouvez en gagner d’autres en choisissant les dons d’oracle @Compendium[pf2e.feats-srd.FPVe3o7YctBicSQa]{Révélation avancée}, @Compendium[pf2e.feats-srd.HSW3N9pfHhM7upRB]{Révélation supérieure} et @Compendium[pf2e.feats-srd.2HeRmbcHcsRMccir]{Mystère diversifié}.</p>\n<p><strong>Domaines liés</strong> Il s’agit des domaines de prêtre qui sont associés avec votre mystère. Vous choisissez un sort de domaine initial parmi ces domaines au niveau 1 et vous pouvez le lancer en tant que sort de révélation portant le trait Malédiction oraculaire.</p>"
         },
         {
+            "id": "Fencer Style",
+            "name": "Fencer Style",
+            "description": "<p>Vous vous déplacez précautionneusement, en feintant et en créant de fausses ouvertures pour conduire vos adversaires à faire des attaques inopportunes.</p>\n<p>Vous êtes qualifié en Duperie. Vous obtenez du @Compendium[pf2e.classfeatures.LzYi0OuOoypNb6jd]{Panache} au cours d'une rencontre lorsque vous réussissez à @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter} ou à @Compendium[pf2e.actionspf2e.GkmbTGfg8KcgynOA]{Créer une diversion} face à un adversaire.</p>"
+        },
+        {
             "id": "Chirugeon",
             "name": "Chirugeon",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre alchimie vous sert essentiellement à soigner les autres. Quand vous commencez, votre formulaire contient deux formules parmi les suivantes en plus de vos autres formules : @Compendium[pf2e.equipment-srd.ktjFOp3U0wQD9t0Z]{Antidote (inférieur)}, @Compendium[pf2e.equipment-srd.UqinuuCWePTYGhVO]{anti-maladie (inférieur)} ou @Compendium[pf2e.equipment-srd.hDLbR56Id2OtU318]{élixir de vie (mineur)}.<br><br>Si votre rang de maîtrise en Médecine est qualifié ou supérieur, vous pouvez faire un test d’Artisanat au lieu d’un test de Médecine pour tous les usages qualifiés ou inexpérimentés de la compétence Médecine.</span></p>\n<h2 class=\"title\">Découverte de domaine de recherche<span style=\"float: right;\">Niveau 5</span></h2>\n<p>Quand vous utilisez alchimie avancée pour faire des élixirs de vie lors de vos préparatifs quotidiens, vous pouvez créer trois élixirs avec chaque lot de réactifs au lieu de deux.</p>\n<h2 class=\"title\">Infusions perpétuelles<span style=\"float: right;\">Niveau 7</span></h2>\n<p>Antidote inférieur et anti-maladie inférieur.</p>\n<h2 class=\"title\">Efficacité perpétuelle<span style=\"float: right;\">Niveau 11</span></h2>\n<p>Antidote et anti-maladie moyens.</p>\n<h2 class=\"title\">Découverte de domaine de recherche supérieure<span style=\"float: right;\">Niveau 13</span></h2>\n<p>Quand vous utilisez Alchimie rapide pour créer n’importe quel type d’élixir de vie, la créature qui le boit gagne le maximum de points de vie qu’il peut conférer au lieu de devoir lancer les dés pour déterminer combien de points de vie elle gagne.</p>\n<h2 class=\"title\">Perfection perpétuelle<span style=\"float: right;\">Niveau 17</span></h2>\n<p>Antidote et anti-maladie supérieurs.&nbsp;</p>"
+        },
+        {
+            "id": "Gymnast Style",
+            "name": "Gymnast Style",
+            "description": "<p>Vous vous repositionnez et vous manœuvrez sans cesse et vous déroutez vos ennemis par des exploits osés de prouesses physiques.</p>\n<p>Vous êtes qualifié en Athlétisme. Vous obtenez du @Compendium[pf2e.classfeatures.LzYi0OuOoypNb6jd]{Panache} au cours d'une rencontre lorsque vous réussissez à @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} ou à faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} à un adversaire.</p>"
         },
         {
             "id": "Bloodline: Psychopomp",
@@ -1372,9 +1502,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La magie primordiale obéit à vos ordres. Votre rang de maîtrise pour les jets d’attaque des sorts primordiaux et le DD de ces sorts passe à maître.&nbsp;</span></p>"
         },
         {
+            "id": "Wild Patron",
+            "name": "Wild Patron",
+            "description": "<p>Les endroits sauvages du monde sont sensibles à l’influence de votre patron.</p>\n<p><strong>Liste de sorts</strong> primordial</p>\n<p><strong>Compétence de Patron</strong> Nature</p>\n<p><strong>Tour de magie de maléfice</strong> @Compendium[pf2e.spells-srd.GdN5YQE47gd79k7X]{Paroles sauvages}</p>\n<p><strong>Sort accordé</strong> Vous avez le choix entre @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Convocation d'animal} ou @Compendium[pf2e.spells-srd.jSRAyd57kd4WZ4yE]{Convocation de plante ou de champignon}</p>"
+        },
+        {
             "id": "Bloodline: Aberrant",
             "name": "Bloodline: Aberrant",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quelque chose au-delà des étoiles ou dans les tréfonds de la terre s’adresse à vous. Cette influence étrangère, ancienne et inconnue, s’immisce dans vos pensées.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Liste de sorts</strong> <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=3\"><u>occulte</u></a><br><strong>Compétences de lignage</strong> <a href=\"https://2e.aonprd.com/Skills.aspx?ID=7\"><u>Intimidation</u></a>, <a href=\"https://2e.aonprd.com/Skills.aspx?ID=11\"><u>Occultisme</u></a><br><strong>Sorts accordés</strong> tour de magie @Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{hébétement}, 1er: @Compendium[pf2e.spells-srd.DYdvMZ8G2LiSLVWw]{Morsure d'araignée}, 2ème: @Compendium[pf2e.spells-srd.CQb8HtQ1BPeZmu9h]{Idiotie}, 3ème: @Compendium[pf2e.spells-srd.N1Z1oLPdBxaSgrEE]{contact vampirique}, 4ème: @Compendium[pf2e.spells-srd.LiGbewa9pO0yjbsY]{Confusion}, 5ème: @Compendium[pf2e.spells-srd.2w4OpAGihn1JSHFD]{tentacules noirs}, 6ème: @Compendium[pf2e.spells-srd.5BbU1V6wGSGbrmRD]{débilité}, 7ème: @Compendium[pf2e.spells-srd.8kJbiBEjMWG4VUjs]{déformer l'esprit}, 8ème: @Compendium[pf2e.spells-srd.Jvyy6oVIQsD34MHB]{danse incontrôlable}, 9ème: @Compendium[pf2e.spells-srd.Ht35SDf9PDStJfoC]{chant énigmatique}<strong>Sorts de lignage</strong> initial : @Compendium[pf2e.spells-srd.Ht35SDf9PDStJfoC]{membres tentaculaires}, avancé : @Compendium[pf2e.spells-srd.qhJfRnkCRrMI4G1O]{murmures aberrants}, supérieur : @Compendium[pf2e.spells-srd.ddKBoCjmSyPSHcws]{étrange anatomie}<br><strong> Magie du sang</strong> Les murmures aberrants protègent l’esprit d’une cible ou le vôtre en conférant un bonus de statut de +2 aux jets de Volonté pendant 1 round.</span></p>"
+        },
+        {
+            "id": "Ki Spells",
+            "name": "Ki Spells",
+            "description": "<h2 style=\"box-sizing: border-box; user-select: text; font-weight: 600; color: #191813; font-family: Roboto, system, -apple-system, sans-serif;\">Sorts de ki</h2>\n<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Roboto, system, -apple-system, sans-serif;\"><span id=\"ctl00_MainContent_DetailedOutput\" style=\"box-sizing: border-box; user-select: text;\">En puisant dans votre réserve personnelle d’énergie surnaturelle appelée ki, vous pouvez créer des effets magiques. Plusieurs dons vous confèrent des sorts spéciaux appelés sorts ki qui forment un type de sorts focalisés. Vous devez dépenser 1 point de focalisation pour lancer un sort focalisé. Quand vous obtenez votre premier sort ki, vous obtenez également une réserve de focalisation contenant 1 point de focalisation. Elle se remplit lors de vos préparatifs quotidiens et vous pouvez récupérer 1 point de focalisation en consacrant 10 minutes à méditer afin d’atteindre la paix intérieure, en utilisant l’activité Refocaliser<br style=\"box-sizing: border-box; user-select: text;\"></span></div>\n<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Roboto, system, -apple-system, sans-serif;\"><span id=\"ctl00_MainContent_DetailedOutput\" style=\"box-sizing: border-box; user-select: text;\">Quand vous obtenez votre premier sort ki, déterminez si vos sorts ki sont des sorts divins ou occultes. Vous devenez qualifié avec les attaques de sort et le DD des sorts de la tradition choisie. Votre caractéristique essentielle d’incantation est la Sagesse.<br style=\"box-sizing: border-box; user-select: text;\"></span></div>\n<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Roboto, system, -apple-system, sans-serif;\">&nbsp;</div>\n<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Roboto, system, -apple-system, sans-serif;\"><span id=\"ctl00_MainContent_DetailedOutput\" style=\"box-sizing: border-box; user-select: text;\">Un @Compendium[pf2e.classfeatures.T25ZLQWn6O4KchLo]{sort focalisé} est automatiquement intensifié à la moitié de votre niveau arrondi à l’entier supérieur. Certains dons accordent d’autres sorts focalisés et augmentent la taille de votre réserve de focalisation, bien que cette dernière ne puisse jamais contenir plus de 3 points.</span></div>"
         },
         {
             "id": "Weapon Expertise (Champion)",
@@ -1385,6 +1525,11 @@
             "id": "Iron Will (Ranger)",
             "name": "Iron Will (Ranger)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre entraînement a renforcé votre détermination. Votre rang de maîtrise des jets de sauvegarde de Volonté devient expert.&nbsp;</span></p>"
+        },
+        {
+            "id": "Opportune Riposte",
+            "name": "Opportune Riposte",
+            "description": "<p>Vous renversez la situation quand des ennemis font un faux pas en combat, profitant immédiatement de leur erreur. Vous gagnez la réaction @Compendium[pf2e.actionspf2e.EfjoIuDmtUn4yiow]{Riposte opportune}.</p>"
         },
         {
             "id": "Cosmos Mystery",
@@ -1442,6 +1587,11 @@
             "description": "<p>Vous évitez les dangers avec une aisance hors pair. Votre rang de maîtrise pour les jets de Réflexes devient légendaire. Lorsque vous obtenez un échec sur le jet de Réflexes, celui-ci se transforme en échec. Quand vous échouez à un jet de Réflexes contre un effet qui vous inflige des dégâts, vous ne subissez que la moitié des dégâts.&nbsp;</p>"
         },
         {
+            "id": "Keen Flair",
+            "name": "Keen Flair",
+            "description": "<p>Vous portez des attaques tout particulièrement dévastatrices même contre des adversaires bien protégés. Quand vous @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappez} avec une arme ou une attaque sans arme pour laquelle vous êtes un maître, si vous obtenez un 19 sur le dé et qu’il s’agit d’une réussite, le résultat est considéré comme une réussite critique.</p>"
+        },
+        {
             "id": "Quick Alchemy",
             "name": "Quick Alchemy",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous avez besoin d’un objet alchimique à la volée, vous pouvez utiliser vos réactifs imprégnés pour le créer rapidement grâce à l’action @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Alchimie rapide}.</span></p>"
@@ -1492,6 +1642,11 @@
             "description": "<p>Le flux de la magie et votre entraînement vous aident à éviter les attaques. Votre rang de maîtrise pour la défense sans armure passe à expert.</p>"
         },
         {
+            "id": "Rune Patron",
+            "name": "Rune Patron",
+            "description": "<p>Votre patron est lié aux sigilles et aux symboles, aux grimoires et aux textes, aux mots et à la sagesse.</p>\n<p><strong>Liste de sorts</strong> arcaniques</p>\n<p><strong>Compétence de patron</strong> Arcanes</p>\n<p><strong>Tour de magie de maléfice</strong> @Compendium[pf2e.spells-srd.UmXhuKrYZR3W16mQ]{Percevoir les secrets}</p>\n<p><strong>Sort accordé</strong> @Compendium[pf2e.spells-srd.TFitdEOpQC4SzKQQ]{Arme magique}</p>"
+        },
+        {
             "id": "Improved Evasion (Swashbuckler)",
             "name": "Improved Evasion (Swashbuckler)",
             "description": "<p>Votre capacité à éviter le danger est sans égale. Votre rang de maîtrise pour les jets de Réflexes devient légendaire. Lorsque vous obtenez un échec sur le jet de Réflexes, celui-ci se transforme en échec. Quand vous échouez à un jet de Réflexes contre un effet qui vous inflige des dégâts, vous ne subissez que la moitié des dégâts.</p>"
@@ -1532,6 +1687,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Au cours de vos aventures, vous avez développé une conscience aiguë de votre environnement et portez une grande attention aux détails. Votre rang de maîtrise en Perception passe à maître.&nbsp;</span></p>"
         },
         {
+            "id": "Stylish Tricks",
+            "name": "Stylish Tricks",
+            "description": "<p>Aux niveaux 3, 7 et 15, vous obtenez un don de compétence. Ce don doit être issu de la compétence d’Acrobaties ou de celle dans laquelle vous êtes qualifié du fait de votre style de bretteur.</p>"
+        },
+        {
             "id": "Bloodline: Hag",
             "name": "Bloodline: Hag",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une guenaude a maudit votre famille il y a longtemps ou vous êtes le descendant d’une guenaude ou d’une changelin, et leur malédiction corruptrice contamine votre sang et votre âme.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Liste de sorts</strong> <a href=\"https://2e.aonprd.com/Spells.aspx?Tradition=3\"><u>occultes</u></a><br><strong>Compétences de lignage</strong> <a href=\"https://2e.aonprd.com/Skills.aspx?ID=5\"><u>Duperie</u></a>, <a href=\"https://2e.aonprd.com/Skills.aspx?ID=11\"><u>Occultisme</u></a><br><strong>Sorts accordés</strong> tour de magie @Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{hébétement}, 1st: @Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{déguisement illusoire}, 2nd: @Compendium[pf2e.spells-srd.CQb8HtQ1BPeZmu9h]{idiotie}, 3rd: @Compendium[pf2e.spells-srd.VosLNn2M8S7JH67D]{cécité}, 4th: @Compendium[pf2e.spells-srd.KSAEhNfZyXMO7Z7V]{malédiction du paria}, 5th: @Compendium[pf2e.spells-srd.z2mfh3oPnfYqXflY]{ malédiction du marin}, 6th: @Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{métamorphose funeste}, 7th: @Compendium[pf2e.spells-srd.8kJbiBEjMWG4VUjs]{déformer l’esprit}, 8th: @Compendium[pf2e.spells-srd.MS60WhVifb45qORJ]{épidémie spirituelle}, 9th: @Compendium[pf2e.spells-srd.Tc5NLaMu71vrGTJQ]{hostilité naturelle}<br><strong>Sorts de lignage</strong> initial: @Compendium[pf2e.spells-srd.kvm68hVtmADiIvN4]{maléfice de jalousie}, avancé: @Compendium[pf2e.spells-srd.aZg3amDcrXz3cLCz]{visage terrifiant}, supérieur: @Compendium[pf2e.spells-srd.x2LALaHXO7644GQA]{tu es à moi}<br><strong>Magie du sang</strong> Vous maudissez vos ennemis avec véhémence. La première créature qui vous inflige des dégâts avant la fin de votre prochain tour subit 2 dégâts mentaux par niveau de sort et doit effectuer un jet de Volonté basique.</span></p>"
@@ -1550,6 +1710,11 @@
             "id": "Light Armor Expertise (Swashbuckler)",
             "name": "Light Armor Expertise (Swashbuckler)",
             "description": "<p>Vous avez appris à esquiver tout en portant une armure légère. Votre rang de maîtrise avec les armures légères et la défense sans armure devient expert.</p>"
+        },
+        {
+            "id": "Bloodline: Nymph",
+            "name": "Bloodline: Nymph",
+            "description": "<p>L'un de vos ancètres a été inspiré par une nymphe ou a été une nymphe et désormais la beauté de la nature vit en vous.</p>\n<p><strong>Liste de sorts</strong> primordiale</p>\n<p><strong>Compétences de lignage</strong> Diplomatie, Nature</p>\n<p><strong>Sorts accordés</strong> tour de magie : @Compendium[pf2e.spells-srd.uZK2BYzPnxUBnDjr]{Entrave}; 1er: @Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charme}; 2e : @Compendium[pf2e.spells-srd.b515AZlB0sridKSq]{Apaisement des émotions}; 3e : @Compendium[pf2e.spells-srd.1HfusQ8NDWutGvMx]{Vision animale}; 4e : @Compendium[pf2e.spells-srd.ikSb3LRGnrwXJBVX]{Fanal de vie}; 5e: @Compendium[pf2e.spells-srd.GaRQlC9Yw1BGKHfN]{Désespoir foudroyant}; 6e : @Compendium[pf2e.spells-srd.yrZA4k2VAqEP8xx7]{Répulsion}; 7e : @Compendium[pf2e.spells-srd.bVtkBJvGLP69qVGI]{Meute sans entrave}; 8e : @Compendium[pf2e.spells-srd.4MOew29Z1oCX8O28]{Instant de renouveau}; 9e: @Compendium[pf2e.spells-srd.fkDeKktdmbeplYRY]{Présence écrasante}</p>\n<p><strong>Sort de lignage</strong> initial: @Compendium[pf2e.spells-srd.pHrVvoTKygXeczVG]{Amulette de la nymphe}; avancé: @Compendium[pf2e.spells-srd.Q56HLIHVKY6bC5W3]{Beauté aveuglante}; supérieur: @Compendium[pf2e.spells-srd.XlQBVvlDWGrGlApl]{Etablir une protection}</p>\n<p><strong>Magie du sang</strong> la grâce de la nymphe accentue vos mouvements et distrait vos ennemis, soit en vous accordant un bonus de statut de +1 aux tests de Diplomatie pendant 1 round ou en imposant une pénalité de statut aux jets de volonté d'une cible pendant 1 round.</p>"
         },
         {
             "id": "Divine Spellcasting (Cleric)",
@@ -1692,6 +1857,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous repérez toujours les points faibles dans les défenses de vos ennemis quand ils se trouvent sur un terrain défavorable. On considère que vous prenez au dépourvu des ennemis lorsqu’ils se trouvent sur un terrain difficile naturel, ou sur un terrain difficile engendré par un piège artisanal.&nbsp;</span></p>"
         },
         {
+            "id": "Panache",
+            "name": "Panache",
+            "description": "<p>Pour vous, la manière d’accomplir quelque chose est aussi importante que le fait de parvenir ou non à l’accomplir. Quand vous réalisez une action avec suffisamment de bravade, vous pouvez en tirer parti pour réaliser des manoeuvres spectaculaires et mortelles. Celà s'appelle le panache et soit vous disposez de panache, soit vous n’en disposez pas.</p>\n<p>Vous gagnez du panache en réussissant à réaliser des tests de compétence associés à certaines actions spécifiques pleines d'audace, incluant @Compendium[pf2e.actionspf2e.21WIfSu7Xd7uKqV8]{Traverser un espace occupé} et des actions supplémentaires déterminées par votre style de bretteur. Au choix du MJ, après avoir réussi un test pour réaliser une action particulièrement osée comme vous balancer à un chandelier ou glisser le long d’une tenture, vous pourriez également gagner du panache si vous obtenez un résultat suffisamment élevé (généralement le DD très difficile pour votre niveau, mais le MJ peut choisir un seuil différent).</p>\n<p>Quand vous possédez du panache, vous gagnez un bonus de +1,5 m à vos Vitesses et un bonus de circonstances de +1 aux tests pour Traverser l’espace occupé par un adversaire ou pour entreprendre n’importe quelle action vous permettant de gagner du panache grâce à votre style. L’aptitude de classe de frappe précise vous permet également d’infliger des dégâts de précision supplémentaires quand vous disposez de panache. Les actions de Coup final puissant, comme Coup final assuré, ne peuvent être utilisées que quand vous disposez de panache et elles vous font perdre du panache.</p>\n<p>Normalement, vous obtenez et utilisez votre panache uniquement en combat ; quand une rencontre s'achève, vous perdez votre panache.</p>"
+        },
+        {
             "id": "Greater Weapon Specialization (Monk)",
             "name": "Greater Weapon Specialization (Monk)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les dégâts que vous infligez grâce à votre spécialisation martiale passent à 4 avec les armes et les attaques à mains nues si vous possédez le rang expert avec celles-ci, à 6 si vous possédez le rang maître et à 8 si vous possédez le rang légendaire.&nbsp;</span></p>"
@@ -1720,6 +1890,11 @@
             "id": "Incredible Senses (Investigator)",
             "name": "Incredible Senses (Investigator)",
             "description": "<p>Vous remarquez des choses pratiquement impossibles à détecter pour une personne ordinaire. Votre rang de maîtrise en Perception passe à légendaire.</p>"
+        },
+        {
+            "id": "Composition Spells",
+            "name": "Composition Spells",
+            "description": "<h2 class=\"title\" style=\"box-sizing: border-box; user-select: text; font-weight: 600; color: #191813; font-family: Roboto, system, -apple-system, sans-serif;\">Sorts de composition</h2>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Roboto, system, -apple-system, sans-serif;\">Vous pouvez injecter de la magie dans vos représentations pour créer des effets uniques appelés compositions. Les compositions forment un type spécial de sorts dont l’incantation nécessite souvent l’utilisation de la compétence Représentation. Les sorts de composition forment un type particulier de sorts focalisés. Il faut dépenser 1 point de focalisation pour lancer un sort focalisé et vous commencez avec une réserve de focalisation de 1 point. Elle se remplit lors de vos préparatifs quotidiens et vous pouvez récupérer 1 point de focalisation en utilisant l’activité Refocaliser et en consacrant dix minutes à pratiquer votre art, à créer une nouvelle œuvre ou autre.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Roboto, system, -apple-system, sans-serif;\">Vous pouvez injecter de la magie dans vos représentations pour créer des effets uniques appelés compositions. Les compositions forment un type spécial de sorts dont l’incantation nécessite souvent l’utilisation de la compétence Représentation. Les sorts de composition forment un type particulier de sorts focalisés. Il faut dépenser 1 point de focalisation pour lancer un sort focalisé et vous commencez avec une réserve de focalisation de 1 point. Elle se remplit lors de vos préparatifs quotidiens et vous pouvez récupérer 1 point de focalisation en utilisant l’activité Refocaliser et en consacrant dix minutes à pratiquer votre art, à créer une nouvelle œuvre ou autre.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Roboto, system, -apple-system, sans-serif;\">Vous apprenez le sort de composition&nbsp;<a class=\"entity-link\" style=\"box-sizing: border-box; user-select: text;\" draggable=\"true\" data-pack=\"pf2e.spells-srd\" data-id=\"WILXkjU5Yq3yw10r\">contre-représentation</a>,  qui vous protège contre les effets audibles et visuels.</p>\n<h3 class=\"title\" style=\"box-sizing: border-box; user-select: text; font-weight: 600; color: #191813; font-family: Roboto, system, -apple-system, sans-serif;\"><strong style=\"box-sizing: border-box; user-select: text;\">Tours de magie de composition</strong></h3>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Roboto, system, -apple-system, sans-serif;\">&nbsp; Les tours de magie de composition sont des sorts de compositions spéciaux qui ne coûtent aucun point de focalisation ; vous pouvez donc les utiliser autant de fois que voulu. Ces tours de magie s’ajoutent à ceux que vous sélectionnez dans la liste des tours de magie occultes. Généralement, seuls des dons peuvent vous permettre d’apprendre d’autres tours de magie de composition. Au contraire des autres tours de magie, vous ne pouvez pas remplacer les tours de magie de composition obtenus grâce à un don de barde lorsque vous montez de niveau, à moins que vous ne remplaciez ce don grâce au réapprentissage. Vous apprenez le tour de magie de composition&nbsp;<a class=\"entity-link\" style=\"box-sizing: border-box; user-select: text;\" draggable=\"true\" data-pack=\"pf2e.spells-srd\" data-id=\"IAjvwqgiDr3qGYxY\">&nbsp;Inspiration vaillante</a>&nbsp  qui améliore les attaques, les dégâts et larésistance à la terreur de vos alliés.</p>"
         }
     ]
 }

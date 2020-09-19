@@ -1,4 +1,85 @@
 {
     "label": "Bénédictions et malédictions",
-    "entries": []
+    "entries": [
+        {
+            "id": "Pharasma - Moderate Curse",
+            "name": "Pharasma - Malédiction modérée (Pharasma - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée (Quotidien)</strong> le destin se retourne contre vous et révèle de terribles présages. Les divinations telles qu'@Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure} que vous lancez ou qui vous impliquent suggèrent toujours malheur. Une fois par jour, lorsque vous faites un test, le MJ peut estimer que le résultat est un 1 naturel.</p>"
+        },
+        {
+            "id": "Lamashtu - Minor Boon",
+            "name": "Lamashtu - Bénédiction mineure (Lamashtu - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure</strong> le contact de Lamashtu a fait muter une partie de votre corps.</p>\n<p>Vous obtenez soit une attaque à mains nues qui inflige 1d6 dégâts, soit une qui inflige 1d4 dégâts et possède les traits finesse et agile.</p>\n<p>L'attaque inflige des dégâts contondants, perforants ou tranchants selon la mutation.</p>\n<p>Si l'attaque à mains nues remplace un membre, vous pouvez toujours utiliser le membre comme pour remplir ses fonctions originelles. Lamashtu choisit la forme et la fonction de votre mutation.</p>"
+        },
+        {
+            "id": "Gorum - Major Boon",
+            "name": "Gorum - Bénédiction majeure (Gorum - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Gorum vous nourrit du zèle de ses combattants invincibles, vous permetttant de tirer de votre propre vie la force de poursuivre le combat sans tomber.</p>\n<p>Lorsque vous devriez être réduit à 0 Points de Vie, vous êtes à la place soigné de la moitié de votre nombre de Points de Vie maximum et devenez @Compendium[pf2e.conditionspf2e.3uh1r86TzbQvosxv]{Condamné} 1 (ou votre condition Condamné augmente de 1).</p>"
+        },
+        {
+            "id": "Torag - Minor Curse",
+            "name": "Torag - Malédiction mineure (Torag - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> L'artisanat de mauvaise qualité finit toujours par se montrer. Lorsqu'un objet que vous utilisez subit des dégâts, il est @Compendium[pf2e.conditionspf2e.6dNUvdb1dhToNDj3]{Cassé}.</p>"
+        },
+        {
+            "id": "Rovagug - Minor Boon",
+            "name": "Rovagug - Bénédiction mineure (Rovagug - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Votre attaque devient plus destructrice. Une fois, une de vos attaques manquée ou réussie devient un coup critique et votre arme ou votre attque à mains nuesobtient le trait Mortel d12 pour cette attaque, remplaçant tout trait mortel qu'elle possèderait déjà.</p>\n<p>Rovagug accorde typiquement cette bénédiction lorsque le coup critique pourrait détruire quelque chose de précieux ou ayant une signification.</p>"
+        },
+        {
+            "id": "Norgorber - Moderate Curse",
+            "name": "Norgorber - Malédiction modérée (Norgorber - Moderate Curse)",
+            "description": "<p><strongMalédiction modérée</strong> Les poisons sont prompts à vous affaiblir. Lorsque vous obtenez un échec sur un jet de Vigueur contre un poison, vous obtenez un échec critique à la place.</p>"
+        },
+        {
+            "id": "Pharasma - Minor Boon",
+            "name": "Pharasma - Bénédiction mineure (Pharasma - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineur (Utilisation unique)</strong> Vous avez un aperçu passager et prophétique de votre destin.</p>\n<p>Une fois, vous obtenez un bonus de statut de +2 à un unique test ; vous pouvez appliquer ce bonus après que vous avez détermine le résultat et il peut potentiellement changer le degré de réussite.</p>"
+        },
+        {
+            "id": "Torag - Moderate Boon",
+            "name": "Torag - Bénédiction modérée (Torag - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Vous êtes considéré comme un membre de la famille par torags et des fidèles.</p>\n<p>Vous obtenez les effets d'un unique don d'ancètre nain du choix de Torag, même si vous n'êtes pas un nain, tant que vous bénéficiez de la bénédiction de Torag.</p>"
+        },
+        {
+            "id": "Desna - Moderate Boon",
+            "name": "Desna - Bénédiction modérée (Desna - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée (Quotidien)</strong> Desna modifie le hasard en votre faveur.</p>\n<p>Une fois par jour, après avoir déterminé le résultat d'un test, vous pouvez le relancer et prendre le nouveau résultat.</p>"
+        },
+        {
+            "id": "Abadar - Minor Boon",
+            "name": "Abadar - Bénédiction mineure (Abadar - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Unique utilisation)</strong> Abadar prévient ses favoris contre ceux qui pourrait bénéficier d'un avantage déloyal. Une fois, lorsque quelqu'un obtient une réussite sur un test de Duperie pour vous Mentir malicieusement à vous et vous seul, ils obtiennent un échec critique à la place.</p>\n<p>Abadar choisit typiquement d'accorder cette bénédiction en réponse à un mensonge aux conséquences extrêmes.</p>"
+        },
+        {
+            "id": "Nethys - Major Boon",
+            "name": "Néthys - Bénédiction majeure (Nethys - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Vous vous voyez accorder des connaissances et une maîtrise supérieure.</p>\n<p>Si vous êtes un incantateur préparé, vous pouvez changer un de vos sorts préparés pour un autre sort que vous pourriez préparer dans cet emplacement ; si vous êtes un incantateur spontané, vous pouvez changer un des sorts de votre répertoire de sorts pour un autre sort que vous auriez pu choisir pour votre répertoire à la place.</p>\n<p>dans l'un ou l'autre cas, cet échange prend une action unique qui possède le trait concentration. (Si vous n'êtes ni un incantateur préparé ou spontané, Néthys ne vous accordera pas sa bénédiction majeure.)</p>"
+        },
+        {
+            "id": "Rovagug - Minor Curse",
+            "name": "Rovagug - Malédiction mineure (Rovagug - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Lorsque vous êtes emprisonné, vous thrash and shake lorsque votre esprit se remplit de désespoir.</p>\n<p>Chaque fois que vous êtes entravé ou autrement emprisonné (comme lorsque vous êtes envoyé en prison), vous êtes aussi @Compendium[pf2e.conditionspf2e.i3OJZU2nk64Df3xm]{Maladroit} 2 et @Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]{Stupéfié} 2.</p>"
+        },
+        {
+            "id": "Norgorber - Minor Boon",
+            "name": "Norgorber - Bénédiction mineure (Norgorber - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Norgorber protège vos secrets et vos mensonges. Une fois, lorsque vous avez obtenu un échec sur un test de Duperie pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}, vous obtenez un succès critique à la place.</p>\n<p>Norgorber choisit typiquement d'accorder cette bénédiction pour protéger un mensonge extrêmement conséquent.</p>"
+        },
+        {
+            "id": "Lamashtu - Minor Curse",
+            "name": "Lamashtu - Malédiction mineure (Lamashtu - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> D'horribles visions tourmentent votre esprit, se justaposant à la réalité à des moments inopportuns. Vous traitez tout ce qui se trouve autour de vous comme si cela était @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{Masqué}.</p>"
+        },
+        {
+            "id": "Nethys - Major Curse",
+            "name": "Néthys - Malédiction majeure (Nethys - Major Curse)",
+            "description": "<p><strong>Malédiction majeure </strong> Néthys coupe votre lien avec la magie. Vous perdez toutes les capacités d'invcantation et ne pouvez obtenir aucune autre future incantation.</p>"
+        },
+        {
+            "id": "Erastil - Moderate Curse",
+            "name": "Érastil - Malédiction modérée (Erastil - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Les bêts d'Érastil ne vous aiment pas. l'attitude des animaux à votre égard est pire d'une cvatégorie (amicale au lieu de seviable, indifférente au lieu d'amicale, etc...).</p>"
+        }
+    ]
 }
