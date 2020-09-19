@@ -1,23 +1,19 @@
 # État de la traduction (classfeatures)
 
  * **officielle**: 231
- * **libre**: 125
+ * **libre**: 129
  * **changé**: 23
- * **aucune**: 5
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2020-09-19 10:16 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-19 10:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[None-00-T25ZLQWn6O4KchLo.htm](classfeatures/None-00-T25ZLQWn6O4KchLo.htm)|Focus Spells|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|
-|[swashbuckler-11-13QpCrR8a8XULbJa.htm](classfeatures/swashbuckler-11-13QpCrR8a8XULbJa.htm)|Continuous Flare|
-|[swashbuckler-11-6JYLXF2L3tq7aN5O.htm](classfeatures/swashbuckler-11-6JYLXF2L3tq7aN5O.htm)|Vigilant Senses (Swashbuckler)|
-|[witch-01-SOan0fqyFTrkqJLV.htm](classfeatures/witch-01-SOan0fqyFTrkqJLV.htm)|Witch Lessons|
 
 ## Liste des traductions complétés
 
@@ -221,6 +217,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[monk-19-KmTfg7Sg5va4yU00.htm](classfeatures/monk-19-KmTfg7Sg5va4yU00.htm)|Perfected Form|Forme parfaite|officielle|
 |[None-00-1FPVkksuE2ncw9rF.htm](classfeatures/None-00-1FPVkksuE2ncw9rF.htm)|Ki Spells|Sorts de ki|officielle|
 |[None-00-s0VbbQJNlSgPocui.htm](classfeatures/None-00-s0VbbQJNlSgPocui.htm)|Composition Spells|Sorts de composition|officielle|
+|[None-00-T25ZLQWn6O4KchLo.htm](classfeatures/None-00-T25ZLQWn6O4KchLo.htm)|Focus Spells|Sorts focalisés|libre|
 |[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|libre|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|Mystère du combat|libre|
@@ -342,6 +339,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-07-W4iCc24gNXPY67SS.htm](classfeatures/swashbuckler-07-W4iCc24gNXPY67SS.htm)|Evasion (Swashbuckler)|Évasion (Bretteur)|libre|
 |[swashbuckler-09-KxpaxUSuBC7hr4F7.htm](classfeatures/swashbuckler-09-KxpaxUSuBC7hr4F7.htm)|Exemplary Finisher|Coup final exemplaire|libre|
 |[swashbuckler-09-U74JoAcLHTOsZG6q.htm](classfeatures/swashbuckler-09-U74JoAcLHTOsZG6q.htm)|Swashbuckler Expertise|Expertise du bretteur|libre|
+|[swashbuckler-11-13QpCrR8a8XULbJa.htm](classfeatures/swashbuckler-11-13QpCrR8a8XULbJa.htm)|Continuous Flare|Élégance continuelle|libre|
+|[swashbuckler-11-6JYLXF2L3tq7aN5O.htm](classfeatures/swashbuckler-11-6JYLXF2L3tq7aN5O.htm)|Vigilant Senses (Swashbuckler)|Sens alertes (Bretteur)|libre|
 |[swashbuckler-13-dfmcFY6SqPMkqbQp.htm](classfeatures/swashbuckler-13-dfmcFY6SqPMkqbQp.htm)|Weapon Mastery (Swashbuckler)|Maîtrise martiale (Bretteur)|libre|
 |[swashbuckler-13-FCWt3xFQeINVY8JW.htm](classfeatures/swashbuckler-13-FCWt3xFQeINVY8JW.htm)|Light Armor Expertise (Swashbuckler)|Expertise avec les armures légères (Bretteur)|libre|
 |[swashbuckler-13-oiA05VSn8Q9kiF8B.htm](classfeatures/swashbuckler-13-oiA05VSn8Q9kiF8B.htm)|Improved Evasion (Swashbuckler)|Évasion améliorée (Bretteur)|libre|
@@ -358,6 +357,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[witch-01-nocYmxbi4rqCC2qS.htm](classfeatures/witch-01-nocYmxbi4rqCC2qS.htm)|Patron Theme|Thême de patron|libre|
 |[witch-01-qf12ubZ07Q0z0NcN.htm](classfeatures/witch-01-qf12ubZ07Q0z0NcN.htm)|Winter Patron|Patron : Hiver|libre|
 |[witch-01-qMZiTugiLCEmkg8h.htm](classfeatures/witch-01-qMZiTugiLCEmkg8h.htm)|Fate Patron|Patron : Destin|libre|
+|[witch-01-SOan0fqyFTrkqJLV.htm](classfeatures/witch-01-SOan0fqyFTrkqJLV.htm)|Witch Lessons|Leçons de sorcière|libre|
 |[witch-01-VVMMJdIWL7fAsQf3.htm](classfeatures/witch-01-VVMMJdIWL7fAsQf3.htm)|Baba Yaga Patron|Patron : Baba Yaga|libre|
 |[witch-01-x2gzQMPvLwHWDdAC.htm](classfeatures/witch-01-x2gzQMPvLwHWDdAC.htm)|Wild Patron|Patron : Sauvage|libre|
 |[witch-01-XFTWJO6txmLNRLae.htm](classfeatures/witch-01-XFTWJO6txmLNRLae.htm)|Night Patron|Patron : Nuit|libre|

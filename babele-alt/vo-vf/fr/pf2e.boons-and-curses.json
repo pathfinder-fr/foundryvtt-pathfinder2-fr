@@ -12,9 +12,39 @@
             "description": "<p><strong>Bénédiction mineure</strong> le contact de Lamashtu a fait muter une partie de votre corps.</p>\n<p>Vous obtenez soit une attaque à mains nues qui inflige 1d6 dégâts, soit une qui inflige 1d4 dégâts et possède les traits finesse et agile.</p>\n<p>L'attaque inflige des dégâts contondants, perforants ou tranchants selon la mutation.</p>\n<p>Si l'attaque à mains nues remplace un membre, vous pouvez toujours utiliser le membre comme pour remplir ses fonctions originelles. Lamashtu choisit la forme et la fonction de votre mutation.</p>"
         },
         {
+            "id": "Erastil - Major Curse",
+            "name": "Erastil - Major Curse (Érastil - Malédiction majeure)",
+            "description": "<p><strong>Malédiction majeure</strong> Érastil vous empêche de procréer (ou de vous reproduire ou de vous propager si vous procréez d'une autre manière). Cete malédiction affecte votre bétail, vos animaux de compagnie et vos plantations.</p>"
+        },
+        {
+            "id": "Torag - Moderate Curse",
+            "name": "Torag - Moderate Curse (Torag - Malédiction modérée)",
+            "description": "<p><strong>Malédiction modérée</strong> Vous devez avoir prouvé vos compétences en artisanat lorsque vous utilisez de l'équipement.</p>\n<p>Vous n'obtenez de bonus d'objet que si vous les avez fabriquer vous-mêmes.</p>"
+        },
+        {
+            "id": "Erastil - Moderate Boon",
+            "name": "Erastil - Moderate Boon (Érastil - Bénédiction modérée)",
+            "description": "<p><strong>Bénédiction modérée</strong> vous partagez l'œil acéré d'Érastil, vous permettant d'utiliser un arc long en toute situation.</p>\n<p>Lorsque vous attaquez avec un arc long, vous pouvez ignorer le trait volée de l'arc long et vous doublez les facteurs de portée des arcs longs.</p>"
+        },
+        {
             "id": "Gorum - Major Boon",
             "name": "Gorum - Major Boon (Gorum - Bénédiction majeure)",
             "description": "<p><strong>Bénédiction majeure</strong> Gorum vous nourrit du zèle de ses combattants invincibles, vous permetttant de tirer de votre propre vie la force de poursuivre le combat sans tomber.</p>\n<p>Lorsque vous devriez être réduit à 0 Points de Vie, vous êtes à la place soigné de la moitié de votre nombre de Points de Vie maximum et devenez @Compendium[pf2e.conditionspf2e.3uh1r86TzbQvosxv]{Condamné} 1 (ou votre condition Condamné augmente de 1).</p>"
+        },
+        {
+            "id": "Gozreh - Moderate Curse",
+            "name": "Gozreh - Moderate Curse (Gozreh - Malédiction modérée)",
+            "description": "<p><strong>Malédiction modérée</strong> Le courant des vagues vous est constamment contraire, vous plaçant dans une situation où vous pouvez vous noyer à chaque fois que vous devez nager.</p>\n<p>Vous perdez toute vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nage}  que vous pouvez posséder, à moins que ce ne soit votre seule vitesse de déplacement, auquel cas, vous subissez une pénalité de statut de –6 m  à votre vitesse denatation.</p>\n<p>Lorsque vous lancez un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous utilisez toujours le résultat d'un degré de succès inférieur au résultat que vous avez obtenu.</p>"
+        },
+        {
+            "id": "Urgathoa - Moderate Curse",
+            "name": "Urgathoa - Moderate Curse (Urgathoa - Malédiction Modérée)",
+            "description": "<p><strong>Malédictionm modérée</strong> Urgathoa vous coupe de l'énergie positive sans vous accorder la bénédiction de la mort-vivance. Vous êtes blessé par les effets positifs et ne pouvez récupérer de Points de Vie de ces effets comme si vous étiez un mort-vivant ou une guérison négative et vous êtes en outre toujours normalement blessé par les effets négatifs.</p>"
+        },
+        {
+            "id": "Desna - Moderate Curse",
+            "name": "Desna - Moderate Curse (Desna - Malédiction modérée)",
+            "description": "<p><strong>Malédiction modérée</strong> La malchance poursuit votre pas durant vos voyages et nécessite des actes de contrition ou de bienveillance pour rester au large.</p>\n<p>Vous devez toujours lancer deux fois et prendre le pire résultat lorsque vous tentez un test. C'estun effet de malchance.</p>\n<p>Vous pouvez exprimer vos remords et ignorer cet effet durant 1d4 rounds en passant une action qui a le trait concentration.</p>\n<p>Si vous accomplissez un acte de compassion véritablement désintéressé, vous ignorez cet effet pendant 1 journée.</p>"
         },
         {
             "id": "Torag - Minor Curse",
@@ -47,6 +77,11 @@
             "description": "<p><strong>Bénédiction modérée (Quotidien)</strong> Desna modifie le hasard en votre faveur.</p>\n<p>Une fois par jour, après avoir déterminé le résultat d'un test, vous pouvez le relancer et prendre le nouveau résultat.</p>"
         },
         {
+            "id": "Nethys - Moderate Curse",
+            "name": "Nethys - Moderate Curse (Néthys - Malédiction modérée)",
+            "description": "p><strong>Malédiction modérée</strong> Votre magie se combat elle-même comme les deux moitiés duales de Néthys. Lorsque vous Lancez un sort, faites un test pur contre un DD11.</p>\n<p>En cas d'échec, si votre sort devait infliger des dégâts, vous lancez à la place un sort bénéfique du même niveau sur les cibles visées et si le sort était bénéfique, vous lancez à la place un sort infligeant des dégâts du même niveau aux cibles visées.</p>\n<p>Si le sort devait bénéficier à certaines cibles et blesser les autres, vous lancez un sort de même niveau qui intervertit ceux qui devaient en bénéficier (par exemple, changer un sort de Guérison qui blesse les morts vivants et guérit les vivants en un sort de Mise à mal qui soigne les morts-vivants et blesse les vivants).</p>\n<p>Vous perdez toujours l'emplacement du sort que vous avez essayé de lancer.</p>"
+        },
+        {
             "id": "Abadar - Minor Boon",
             "name": "Abadar - Minor Boon (Abadar - Bénédiction mineure)",
             "description": "<p><strong>Bénédiction mineure (Unique utilisation)</strong> Abadar prévient ses favoris contre ceux qui pourrait bénéficier d'un avantage déloyal. Une fois, lorsque quelqu'un obtient une réussite sur un test de Duperie pour vous Mentir malicieusement à vous et vous seul, ils obtiennent un échec critique à la place.</p>\n<p>Abadar choisit typiquement d'accorder cette bénédiction en réponse à un mensonge aux conséquences extrêmes.</p>"
@@ -55,6 +90,16 @@
             "id": "Nethys - Major Boon",
             "name": "Nethys - Major Boon (Néthys - Bénédiction majeure)",
             "description": "<p><strong>Bénédiction majeure</strong> Vous vous voyez accorder des connaissances et une maîtrise supérieure.</p>\n<p>Si vous êtes un incantateur préparé, vous pouvez changer un de vos sorts préparés pour un autre sort que vous pourriez préparer dans cet emplacement ; si vous êtes un incantateur spontané, vous pouvez changer un des sorts de votre répertoire de sorts pour un autre sort que vous auriez pu choisir pour votre répertoire à la place.</p>\n<p>dans l'un ou l'autre cas, cet échange prend une action unique qui possède le trait concentration. (Si vous n'êtes ni un incantateur préparé ou spontané, Néthys ne vous accordera pas sa bénédiction majeure.)</p>"
+        },
+        {
+            "id": "Irori - Minor Curse",
+            "name": "Irori - Minor Curse (Irori - Malédiction mineure)",
+            "description": "<p>Irori vous défie de chercher à suivre un autre chemin et de de traiter chaque problème comme un clou, juste parce que vous possédez un marteau. Si vous choisissez un test pour lequel vous possédez un bonus supérieur alors qu'une autre méthode serait plus appropriée à la situation, comme utiliser la Duperie pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir} parce que c'est votre plus haut modificateur, même s'il serait mieux d'atteindre un compromis en usant de Diplomatie, vous devez lancer deux fois votre dé et prendre le plus mauvais résultat.</p>"
+        },
+        {
+            "id": "Gozreh - Moderate Boon",
+            "name": "Gozreh - Moderate Boon (Gozreh - Bénédiction modérée)",
+            "description": "<p><strong>Bénédiction modérée</strong> Vous obtenez le contact de l'océan. Vous pouvez respirer sous l'eau et obtenez une vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Natation} égale à votre vitesse de Déplacement.</p>"
         },
         {
             "id": "Rovagug - Minor Curse",
@@ -80,6 +125,11 @@
             "id": "Erastil - Moderate Curse",
             "name": "Erastil - Moderate Curse (Érastil - Malédiction modérée)",
             "description": "<p><strong>Malédiction modérée</strong> Les bêts d'Érastil ne vous aiment pas. l'attitude des animaux à votre égard est pire d'une cvatégorie (amicale au lieu de seviable, indifférente au lieu d'amicale, etc...).</p>"
+        },
+        {
+            "id": "Torag - Major Boon",
+            "name": "Torag - Major Boon (Torag - Bénédiction majeure)",
+            "description": "<p><strong>Bénédiction majeure</strong> En ce qui vous concerne, veiller ou garder un lieu est comme du repos, vous évitant d'être @Compendium[pf2e.conditionspf2e.HL2l2VRSaQHu9lUw]{Fatigué} à cause d'un manque de repos tant que vous gardez pendant au moins 6 heures par jour.</p>\n<p>Vous pouvez récupérer vos Points de focalisation (si vous en avez) en montant la garde en plus de toute autre option qui vous serait accessible.</p>\n<p>Lorsque vous êtes en garde, vous obtenez un bonus de statut de +4 à la Perception pour remarquer les embusaces ou les autres dangers en approche.</p>\n<p>Tant que vous portez un bouclier, vous êtes toujours sur vos gardes durant l'exploration sans avoir besoin de voyager à la moitié de votre vitesse de déplacement et vous pouvez accomplir une autre activité d'exploration en même temps.</p>\n<p>Lorsque vous utilisez un bouclier, sa Solidité augmente de 5.</p>"
         }
     ]
 }

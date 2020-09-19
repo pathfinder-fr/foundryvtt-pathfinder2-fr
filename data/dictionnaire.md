@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-09-19 10:16 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-19 10:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -1385,12 +1385,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Desna - Minor Boon](boons-and-curses/LOlv11WEGUQWYKna.htm)||`@Compendium[pf2e.boons-and-curses.LOlv11WEGUQWYKna]`|
 |[Desna - Minor Curse](boons-and-curses/Up7nUIT42zwhgZf4.htm)||`@Compendium[pf2e.boons-and-curses.Up7nUIT42zwhgZf4]`|
 |[Desna - Moderate Boon](boons-and-curses/4m2dQ2fvVWxtokVe.htm)|Desna - Bénédiction modérée|`@Compendium[pf2e.boons-and-curses.4m2dQ2fvVWxtokVe]`|
-|[Desna - Moderate Curse](boons-and-curses/CjRUOscsOwCmai8D.htm)||`@Compendium[pf2e.boons-and-curses.CjRUOscsOwCmai8D]`|
+|[Desna - Moderate Curse](boons-and-curses/CjRUOscsOwCmai8D.htm)|Desna - Malédiction modérée|`@Compendium[pf2e.boons-and-curses.CjRUOscsOwCmai8D]`|
 |[Erastil - Major Boon](boons-and-curses/nFrCY6tT2B8uxaO3.htm)||`@Compendium[pf2e.boons-and-curses.nFrCY6tT2B8uxaO3]`|
-|[Erastil - Major Curse](boons-and-curses/C6Ercv1ugcTsbVA9.htm)||`@Compendium[pf2e.boons-and-curses.C6Ercv1ugcTsbVA9]`|
+|[Erastil - Major Curse](boons-and-curses/C6Ercv1ugcTsbVA9.htm)|Érastil - Malédiction majeure|`@Compendium[pf2e.boons-and-curses.C6Ercv1ugcTsbVA9]`|
 |[Erastil - Minor Boon](boons-and-curses/hrTl9kfSNrOQeNze.htm)||`@Compendium[pf2e.boons-and-curses.hrTl9kfSNrOQeNze]`|
 |[Erastil - Minor Curse](boons-and-curses/pwmFrNkLscXrDSPN.htm)||`@Compendium[pf2e.boons-and-curses.pwmFrNkLscXrDSPN]`|
-|[Erastil - Moderate Boon](boons-and-curses/CL8lLQJWd4N89QIm.htm)||`@Compendium[pf2e.boons-and-curses.CL8lLQJWd4N89QIm]`|
+|[Erastil - Moderate Boon](boons-and-curses/CL8lLQJWd4N89QIm.htm)|Érastil - Bénédiction modérée|`@Compendium[pf2e.boons-and-curses.CL8lLQJWd4N89QIm]`|
 |[Erastil - Moderate Curse](boons-and-curses/3u3vav6qfAW6hPKE.htm)|Érastil - Malédiction modérée|`@Compendium[pf2e.boons-and-curses.3u3vav6qfAW6hPKE]`|
 |[Gorum - Major Boon](boons-and-curses/8G0USrxM7d4B4EVI.htm)|Gorum - Bénédiction majeure|`@Compendium[pf2e.boons-and-curses.8G0USrxM7d4B4EVI]`|
 |[Gorum - Major Curse](boons-and-curses/M78A7uQaa4Ig8pGU.htm)||`@Compendium[pf2e.boons-and-curses.M78A7uQaa4Ig8pGU]`|
@@ -1402,8 +1402,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Gozreh - Major Curse](boons-and-curses/kEAw5PMLdX2gHlwR.htm)||`@Compendium[pf2e.boons-and-curses.kEAw5PMLdX2gHlwR]`|
 |[Gozreh - Minor Boon](boons-and-curses/uVZrqxtOOutr4Ss9.htm)||`@Compendium[pf2e.boons-and-curses.uVZrqxtOOutr4Ss9]`|
 |[Gozreh - Minor Curse](boons-and-curses/XYM7v72doPR3LwgA.htm)||`@Compendium[pf2e.boons-and-curses.XYM7v72doPR3LwgA]`|
-|[Gozreh - Moderate Boon](boons-and-curses/AvjRCVzLmxapFOLV.htm)||`@Compendium[pf2e.boons-and-curses.AvjRCVzLmxapFOLV]`|
-|[Gozreh - Moderate Curse](boons-and-curses/AohWtOzgk2Qr9ADl.htm)||`@Compendium[pf2e.boons-and-curses.AohWtOzgk2Qr9ADl]`|
+|[Gozreh - Moderate Boon](boons-and-curses/AvjRCVzLmxapFOLV.htm)|Gozreh - Bénédiction modérée|`@Compendium[pf2e.boons-and-curses.AvjRCVzLmxapFOLV]`|
+|[Gozreh - Moderate Curse](boons-and-curses/AohWtOzgk2Qr9ADl.htm)|Gozreh - Malédiction modérée|`@Compendium[pf2e.boons-and-curses.AohWtOzgk2Qr9ADl]`|
 |[Iomedae - Major Boon](boons-and-curses/dHcGihuimtCf1NOs.htm)||`@Compendium[pf2e.boons-and-curses.dHcGihuimtCf1NOs]`|
 |[Iomedae - Major Curse](boons-and-curses/zWshZRICuzP7DfFV.htm)||`@Compendium[pf2e.boons-and-curses.zWshZRICuzP7DfFV]`|
 |[Iomedae - Minor Boon](boons-and-curses/dTJP2Hg4ZJu4Ck2y.htm)||`@Compendium[pf2e.boons-and-curses.dTJP2Hg4ZJu4Ck2y]`|
@@ -1413,7 +1413,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Irori - Major Boon](boons-and-curses/kCCrjskDIbG0e74O.htm)||`@Compendium[pf2e.boons-and-curses.kCCrjskDIbG0e74O]`|
 |[Irori - Major Curse](boons-and-curses/wEqPbkQMuqlL2TPn.htm)||`@Compendium[pf2e.boons-and-curses.wEqPbkQMuqlL2TPn]`|
 |[Irori - Minor Boon](boons-and-curses/fV0Xa1Bd3BoWACgT.htm)||`@Compendium[pf2e.boons-and-curses.fV0Xa1Bd3BoWACgT]`|
-|[Irori - Minor Curse](boons-and-curses/DSfHCm8PDL5hLzZ0.htm)||`@Compendium[pf2e.boons-and-curses.DSfHCm8PDL5hLzZ0]`|
+|[Irori - Minor Curse](boons-and-curses/DSfHCm8PDL5hLzZ0.htm)|Irori - Malédiction mineure|`@Compendium[pf2e.boons-and-curses.DSfHCm8PDL5hLzZ0]`|
 |[Irori - Moderate Boon](boons-and-curses/xrczhivVmi7MrEfz.htm)||`@Compendium[pf2e.boons-and-curses.xrczhivVmi7MrEfz]`|
 |[Irori - Moderate Curse](boons-and-curses/qhVfbZCxZJS8NmB3.htm)||`@Compendium[pf2e.boons-and-curses.qhVfbZCxZJS8NmB3]`|
 |[Lamashtu - Major Boon](boons-and-curses/XFiI9qC4MNX4WUdh.htm)||`@Compendium[pf2e.boons-and-curses.XFiI9qC4MNX4WUdh]`|
@@ -1427,7 +1427,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Nethys - Minor Boon](boons-and-curses/jVeuBZsa4iFg0wC6.htm)||`@Compendium[pf2e.boons-and-curses.jVeuBZsa4iFg0wC6]`|
 |[Nethys - Minor Curse](boons-and-curses/KjPTFfxMAqCngQFB.htm)||`@Compendium[pf2e.boons-and-curses.KjPTFfxMAqCngQFB]`|
 |[Nethys - Moderate Boon](boons-and-curses/HdPVL76QiDhsLCA9.htm)||`@Compendium[pf2e.boons-and-curses.HdPVL76QiDhsLCA9]`|
-|[Nethys - Moderate Curse](boons-and-curses/CmHQGVyNZ7aOmMcd.htm)||`@Compendium[pf2e.boons-and-curses.CmHQGVyNZ7aOmMcd]`|
+|[Nethys - Moderate Curse](boons-and-curses/CmHQGVyNZ7aOmMcd.htm)|Néthys - Malédiction modérée|`@Compendium[pf2e.boons-and-curses.CmHQGVyNZ7aOmMcd]`|
 |[Norgorber - Major Boon](boons-and-curses/lOIu9jYDAR2rDe4p.htm)||`@Compendium[pf2e.boons-and-curses.lOIu9jYDAR2rDe4p]`|
 |[Norgorber - Major Curse](boons-and-curses/wREsKC8CTifEyj6v.htm)||`@Compendium[pf2e.boons-and-curses.wREsKC8CTifEyj6v]`|
 |[Norgorber - Minor Boon](boons-and-curses/2EKgNifq3ozzKYfI.htm)|Norgorber - Bénédiction mineure|`@Compendium[pf2e.boons-and-curses.2EKgNifq3ozzKYfI]`|
@@ -1458,18 +1458,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Shelyn - Minor Curse](boons-and-curses/jhixjUJZlCetNRjH.htm)||`@Compendium[pf2e.boons-and-curses.jhixjUJZlCetNRjH]`|
 |[Shelyn - Moderate Boon](boons-and-curses/zoJjzir97Ie7tbp0.htm)||`@Compendium[pf2e.boons-and-curses.zoJjzir97Ie7tbp0]`|
 |[Shelyn - Moderate Curse](boons-and-curses/vU5leGDNAZSfPgTz.htm)||`@Compendium[pf2e.boons-and-curses.vU5leGDNAZSfPgTz]`|
-|[Torag - Major Boon](boons-and-curses/AdNAeWhnq5Is3AZb.htm)||`@Compendium[pf2e.boons-and-curses.AdNAeWhnq5Is3AZb]`|
+|[Torag - Major Boon](boons-and-curses/AdNAeWhnq5Is3AZb.htm)|Torag - Bénédiction majeure|`@Compendium[pf2e.boons-and-curses.AdNAeWhnq5Is3AZb]`|
 |[Torag - Major Curse](boons-and-curses/c2wwILmpgyXIjlfe.htm)||`@Compendium[pf2e.boons-and-curses.c2wwILmpgyXIjlfe]`|
 |[Torag - Minor Boon](boons-and-curses/e7Y4jKHQ3ptbSuxc.htm)||`@Compendium[pf2e.boons-and-curses.e7Y4jKHQ3ptbSuxc]`|
 |[Torag - Minor Curse](boons-and-curses/845vvISfgkk6sei0.htm)|Torag - Malédiction mineure|`@Compendium[pf2e.boons-and-curses.845vvISfgkk6sei0]`|
 |[Torag - Moderate Boon](boons-and-curses/30Xdyvplx7MfX1nA.htm)|Torag - Bénédiction modérée|`@Compendium[pf2e.boons-and-curses.30Xdyvplx7MfX1nA]`|
-|[Torag - Moderate Curse](boons-and-curses/AfuH02H6ib4KYS6C.htm)||`@Compendium[pf2e.boons-and-curses.AfuH02H6ib4KYS6C]`|
+|[Torag - Moderate Curse](boons-and-curses/AfuH02H6ib4KYS6C.htm)|Torag - Malédiction modérée|`@Compendium[pf2e.boons-and-curses.AfuH02H6ib4KYS6C]`|
 |[Urgathoa - Major Boon](boons-and-curses/dZU3HdI2oO8LFjGq.htm)||`@Compendium[pf2e.boons-and-curses.dZU3HdI2oO8LFjGq]`|
 |[Urgathoa - Major Curse](boons-and-curses/eVRjDKt0N0qSmpCn.htm)||`@Compendium[pf2e.boons-and-curses.eVRjDKt0N0qSmpCn]`|
 |[Urgathoa - Minor Boon](boons-and-curses/jfWeNqYj3rn9EysM.htm)||`@Compendium[pf2e.boons-and-curses.jfWeNqYj3rn9EysM]`|
 |[Urgathoa - Minor Curse](boons-and-curses/XfMZ83VA7dtF7fL5.htm)||`@Compendium[pf2e.boons-and-curses.XfMZ83VA7dtF7fL5]`|
 |[Urgathoa - Moderate Boon](boons-and-curses/N29LCwYfRWHtEqrS.htm)||`@Compendium[pf2e.boons-and-curses.N29LCwYfRWHtEqrS]`|
-|[Urgathoa - Moderate Curse](boons-and-curses/9EMaYf6odFEyjdSr.htm)||`@Compendium[pf2e.boons-and-curses.9EMaYf6odFEyjdSr]`|
+|[Urgathoa - Moderate Curse](boons-and-curses/9EMaYf6odFEyjdSr.htm)|Urgathoa - Malédiction Modérée|`@Compendium[pf2e.boons-and-curses.9EMaYf6odFEyjdSr]`|
 |[Zon-Kuthon - Major Boon](boons-and-curses/eibN2Uf0dsHCU5rE.htm)||`@Compendium[pf2e.boons-and-curses.eibN2Uf0dsHCU5rE]`|
 |[Zon-Kuthon - Major Curse](boons-and-curses/SaiJX9KBN3lC0RUy.htm)||`@Compendium[pf2e.boons-and-curses.SaiJX9KBN3lC0RUy]`|
 |[Zon-Kuthon - Minor Boon](boons-and-curses/wlBiDpWvjKiw9k2z.htm)||`@Compendium[pf2e.boons-and-curses.wlBiDpWvjKiw9k2z]`|
