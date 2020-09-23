@@ -2,11 +2,11 @@
 
  * **officielle**: 262
  * **changé**: 608
- * **aucune**: 533
- * **libre**: 188
+ * **aucune**: 532
+ * **libre**: 189
 
 
-Dernière mise à jour: 2020-09-19 10:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-23 17:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -268,7 +268,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-T8EopYZLT137CsdW.htm](equipment/equipment-00-T8EopYZLT137CsdW.htm)|Net|
 |[equipment-00-TWv2EeDJaCjtmGUN.htm](equipment/equipment-00-TWv2EeDJaCjtmGUN.htm)|Climbing Kit (Extreme)|
 |[equipment-00-xuTO0Lbu999HnBhK.htm](equipment/equipment-00-xuTO0Lbu999HnBhK.htm)|Sovereign Steel Ingot|
-|[equipment-01-CVTbxCY85nLoHYuw.htm](equipment/equipment-01-CVTbxCY85nLoHYuw.htm)|Aeon Stone (Dull Grey)|
 |[equipment-01-FABVnBeYtGXshlwm.htm](equipment/equipment-01-FABVnBeYtGXshlwm.htm)|Ring of Discretion|
 |[equipment-01-ZIQAzOavTXJCcCMD.htm](equipment/equipment-01-ZIQAzOavTXJCcCMD.htm)|Predictable Silver Piece|
 |[equipment-01-Zmz2M2u7mGOCbUf4.htm](equipment/equipment-01-Zmz2M2u7mGOCbUf4.htm)|Walking Cauldron|
@@ -982,6 +981,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-zvLyCVD8g2PdHJAc.htm](equipment/equipment-00-zvLyCVD8g2PdHJAc.htm)|Thieves' Tools|Outils de voleur|changé|
 |[equipment-00-Zycu6zaGvDsqLH5g.htm](equipment/equipment-00-Zycu6zaGvDsqLH5g.htm)|Sheath|Gaine|officielle|
 |[equipment-01-ckGYDocGEaelHfXF.htm](equipment/equipment-01-ckGYDocGEaelHfXF.htm)|Manacles (Simple)|Menottes (simple)|changé|
+|[equipment-01-CVTbxCY85nLoHYuw.htm](equipment/equipment-01-CVTbxCY85nLoHYuw.htm)|Aeon Stone (Dull Grey)|Pierre d'éternité (gris terne)|libre|
 |[equipment-01-JZXCTwoIWoGKjMX6.htm](equipment/equipment-01-JZXCTwoIWoGKjMX6.htm)|Lock (Simple)|Serrure (simple)|changé|
 |[equipment-01-mRz8Jmk4Q06SsZpC.htm](equipment/equipment-01-mRz8Jmk4Q06SsZpC.htm)|Everburning Torch|Torche éternelle|changé|
 |[equipment-02-BANLXq8FhwqsDu0v.htm](equipment/equipment-02-BANLXq8FhwqsDu0v.htm)|Wondrous Figurine (Onyx Dog)|Figurine merveilleuse (Chien d'onyx)|changé|

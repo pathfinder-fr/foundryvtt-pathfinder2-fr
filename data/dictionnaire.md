@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-09-19 10:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-23 17:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -233,78 +233,78 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
 |[Acrobat](archetypes/SbvhfCo5gFVt1DgD.htm)|Acrobate|`@Compendium[pf2e.archetypes.SbvhfCo5gFVt1DgD]`|
-|[Aldori Duelist](archetypes/cnsq5cXgQu4FXnoZ.htm)||`@Compendium[pf2e.archetypes.cnsq5cXgQu4FXnoZ]`|
+|[Aldori Duelist](archetypes/cnsq5cXgQu4FXnoZ.htm)|Duelliste Aldori|`@Compendium[pf2e.archetypes.cnsq5cXgQu4FXnoZ]`|
 |[Animal Trainer](archetypes/kisnuKPMGheORROU.htm)|Dompteur|`@Compendium[pf2e.archetypes.kisnuKPMGheORROU]`|
-|[Archaeologist](archetypes/myvFp45VnA2FPOvG.htm)||`@Compendium[pf2e.archetypes.myvFp45VnA2FPOvG]`|
+|[Archaeologist](archetypes/myvFp45VnA2FPOvG.htm)|Archéologue|`@Compendium[pf2e.archetypes.myvFp45VnA2FPOvG]`|
 |[Archer](archetypes/MJ2EBeAVkc61mznR.htm)||`@Compendium[pf2e.archetypes.MJ2EBeAVkc61mznR]`|
-|[Assassin](archetypes/7BNWl18efHJ93hke.htm)||`@Compendium[pf2e.archetypes.7BNWl18efHJ93hke]`|
-|[Bastion](archetypes/UsT8XqN5LwfbBMzp.htm)||`@Compendium[pf2e.archetypes.UsT8XqN5LwfbBMzp]`|
-|[Beastmaster](archetypes/ZvIreFl9TXgrj52Q.htm)||`@Compendium[pf2e.archetypes.ZvIreFl9TXgrj52Q]`|
+|[Assassin](archetypes/7BNWl18efHJ93hke.htm)|Assassin|`@Compendium[pf2e.archetypes.7BNWl18efHJ93hke]`|
+|[Bastion](archetypes/UsT8XqN5LwfbBMzp.htm)|Bastion|`@Compendium[pf2e.archetypes.UsT8XqN5LwfbBMzp]`|
+|[Beastmaster](archetypes/ZvIreFl9TXgrj52Q.htm)|Maître des bêtes|`@Compendium[pf2e.archetypes.ZvIreFl9TXgrj52Q]`|
 |[Bellflower Tiller](archetypes/gw4J1pXYED71TPWx.htm)|Laboureur de la Campanule|`@Compendium[pf2e.archetypes.gw4J1pXYED71TPWx]`|
-|[Blessed One](archetypes/5zILvODoiQC34tWU.htm)||`@Compendium[pf2e.archetypes.5zILvODoiQC34tWU]`|
-|[Bounty Hunter](archetypes/GCoO342NLbrmEer1.htm)||`@Compendium[pf2e.archetypes.GCoO342NLbrmEer1]`|
-|[Bright Lion](archetypes/bDP7kO6bnQh6no0C.htm)||`@Compendium[pf2e.archetypes.bDP7kO6bnQh6no0C]`|
-|[Cavalier](archetypes/hLFBAs2NpyGjQiDA.htm)||`@Compendium[pf2e.archetypes.hLFBAs2NpyGjQiDA]`|
-|[Celebrity](archetypes/ThxMkphglPJuweXB.htm)||`@Compendium[pf2e.archetypes.ThxMkphglPJuweXB]`|
+|[Blessed One](archetypes/5zILvODoiQC34tWU.htm)|Béni des dieux|`@Compendium[pf2e.archetypes.5zILvODoiQC34tWU]`|
+|[Bounty Hunter](archetypes/GCoO342NLbrmEer1.htm)|Chasseur de primes|`@Compendium[pf2e.archetypes.GCoO342NLbrmEer1]`|
+|[Bright Lion](archetypes/bDP7kO6bnQh6no0C.htm)|Lion Brillant|`@Compendium[pf2e.archetypes.bDP7kO6bnQh6no0C]`|
+|[Cavalier](archetypes/hLFBAs2NpyGjQiDA.htm)|Cavalier|`@Compendium[pf2e.archetypes.hLFBAs2NpyGjQiDA]`|
+|[Celebrity](archetypes/ThxMkphglPJuweXB.htm)|Célébrité|`@Compendium[pf2e.archetypes.ThxMkphglPJuweXB]`|
 |[Crystal Keeper](archetypes/xNzNpPjeNSrXE7WG.htm)|Gardien du cristal|`@Compendium[pf2e.archetypes.xNzNpPjeNSrXE7WG]`|
-|[Dandy](archetypes/5cbEwgPLlMWGGVxN.htm)||`@Compendium[pf2e.archetypes.5cbEwgPLlMWGGVxN]`|
-|[Dragon Disciple](archetypes/lsU4NQEei111OetM.htm)||`@Compendium[pf2e.archetypes.lsU4NQEei111OetM]`|
-|[Dual-Weapon Warrior](archetypes/K1mmFJ3QSjNkHm2L.htm)||`@Compendium[pf2e.archetypes.K1mmFJ3QSjNkHm2L]`|
-|[Duelist](archetypes/DYJfhMcLlP05oMDD.htm)||`@Compendium[pf2e.archetypes.DYJfhMcLlP05oMDD]`|
-|[Edgewatch Detective](archetypes/Q3VydQ6b5Mxm1c41.htm)||`@Compendium[pf2e.archetypes.Q3VydQ6b5Mxm1c41]`|
-|[Eldrich Archer](archetypes/z5yvyY2HfIRgwGnO.htm)||`@Compendium[pf2e.archetypes.z5yvyY2HfIRgwGnO]`|
-|[Familiar Master](archetypes/Bl0KM29OOlwBegCi.htm)||`@Compendium[pf2e.archetypes.Bl0KM29OOlwBegCi]`|
+|[Dandy](archetypes/5cbEwgPLlMWGGVxN.htm)|Dandy|`@Compendium[pf2e.archetypes.5cbEwgPLlMWGGVxN]`|
+|[Dragon Disciple](archetypes/lsU4NQEei111OetM.htm)|Disciple draconique|`@Compendium[pf2e.archetypes.lsU4NQEei111OetM]`|
+|[Dual-Weapon Warrior](archetypes/K1mmFJ3QSjNkHm2L.htm)|Combattant à deux armes|`@Compendium[pf2e.archetypes.K1mmFJ3QSjNkHm2L]`|
+|[Duelist](archetypes/DYJfhMcLlP05oMDD.htm)|Duelliste|`@Compendium[pf2e.archetypes.DYJfhMcLlP05oMDD]`|
+|[Edgewatch Detective](archetypes/Q3VydQ6b5Mxm1c41.htm)|Officier d'Edgewatch|`@Compendium[pf2e.archetypes.Q3VydQ6b5Mxm1c41]`|
+|[Eldrich Archer](archetypes/z5yvyY2HfIRgwGnO.htm)|Archer mystique|`@Compendium[pf2e.archetypes.z5yvyY2HfIRgwGnO]`|
+|[Familiar Master](archetypes/Bl0KM29OOlwBegCi.htm)|Maître familier|`@Compendium[pf2e.archetypes.Bl0KM29OOlwBegCi]`|
 |[Firebrand Braggart](archetypes/YBvXmJ5e9MThdws0.htm)|Trublion vantard|`@Compendium[pf2e.archetypes.YBvXmJ5e9MThdws0]`|
-|[Gladiator](archetypes/IU0WKnP9qciXztOC.htm)||`@Compendium[pf2e.archetypes.IU0WKnP9qciXztOC]`|
+|[Gladiator](archetypes/IU0WKnP9qciXztOC.htm)|Gladiateur|`@Compendium[pf2e.archetypes.IU0WKnP9qciXztOC]`|
 |[Golem Grafter](archetypes/XATPzPTZ9Je89erT.htm)|Greffeur de golem|`@Compendium[pf2e.archetypes.XATPzPTZ9Je89erT]`|
 |[Halcyon Speaker](archetypes/Qsmzm6w1ZNpHX7GD.htm)|Orateur paisible|`@Compendium[pf2e.archetypes.Qsmzm6w1ZNpHX7GD]`|
 |[Hellknight](archetypes/2Wol7CpOBJjVT3aP.htm)|Chevalier infernal|`@Compendium[pf2e.archetypes.2Wol7CpOBJjVT3aP]`|
 |[Hellknight Armiger](archetypes/LYYDozZfXok19VYW.htm)|Écuyer chevalier infernal|`@Compendium[pf2e.archetypes.LYYDozZfXok19VYW]`|
 |[Hellknight Signifer](archetypes/GwItivMACzBmW82g.htm)|Signifer|`@Compendium[pf2e.archetypes.GwItivMACzBmW82g]`|
-|[Herbalist](archetypes/cEiMI4QGqjv69pJ6.htm)||`@Compendium[pf2e.archetypes.cEiMI4QGqjv69pJ6]`|
-|[Horizon Walker](archetypes/RvjlaAPa2Wkdhrms.htm)||`@Compendium[pf2e.archetypes.RvjlaAPa2Wkdhrms]`|
-|[Investigator](archetypes/Buptz08MArCtY41w.htm)||`@Compendium[pf2e.archetypes.Buptz08MArCtY41w]`|
-|[Jalmeri Heavenseeker](archetypes/s7kWIaeCdj3IFte9.htm)||`@Compendium[pf2e.archetypes.s7kWIaeCdj3IFte9]`|
+|[Herbalist](archetypes/cEiMI4QGqjv69pJ6.htm)|Herboriste|`@Compendium[pf2e.archetypes.cEiMI4QGqjv69pJ6]`|
+|[Horizon Walker](archetypes/RvjlaAPa2Wkdhrms.htm)|Arpenteur d'horizon|`@Compendium[pf2e.archetypes.RvjlaAPa2Wkdhrms]`|
+|[Investigator](archetypes/Buptz08MArCtY41w.htm)|Enquêteur|`@Compendium[pf2e.archetypes.Buptz08MArCtY41w]`|
+|[Jalmeri Heavenseeker](archetypes/s7kWIaeCdj3IFte9.htm)|Chercheur de paradis du Jalmeray|`@Compendium[pf2e.archetypes.s7kWIaeCdj3IFte9]`|
 |[Juggler](archetypes/8vuL2hCPrcG2duLt.htm)|Jongleur|`@Compendium[pf2e.archetypes.8vuL2hCPrcG2duLt]`|
 |[Knight Reclaimant](archetypes/WrQ2Qpv958C6cfD0.htm)|chevalier récupérateur|`@Compendium[pf2e.archetypes.WrQ2Qpv958C6cfD0]`|
 |[Knight Vigilant](archetypes/l4sKdl0ub0UGBwsb.htm)|Chevalier vigilant|`@Compendium[pf2e.archetypes.l4sKdl0ub0UGBwsb]`|
 |[Lastwall Sentry](archetypes/Utxq3fo8AoPyfh4K.htm)|Sentinelle de Dernier-Rempart|`@Compendium[pf2e.archetypes.Utxq3fo8AoPyfh4K]`|
-|[Linguist](archetypes/TdoPhja8JA9C2Itm.htm)||`@Compendium[pf2e.archetypes.TdoPhja8JA9C2Itm]`|
+|[Linguist](archetypes/TdoPhja8JA9C2Itm.htm)|Linguiste|`@Compendium[pf2e.archetypes.TdoPhja8JA9C2Itm]`|
 |[Lion Blade](archetypes/678FjGfCmxuNbNhe.htm)|Lame du Lion|`@Compendium[pf2e.archetypes.678FjGfCmxuNbNhe]`|
 |[Living Monolith](archetypes/4xzvjFVytFA0LIYj.htm)|Monolithe vivant|`@Compendium[pf2e.archetypes.4xzvjFVytFA0LIYj]`|
-|[Loremaster](archetypes/DMsE43xgf1gHPl8o.htm)||`@Compendium[pf2e.archetypes.DMsE43xgf1gHPl8o]`|
+|[Loremaster](archetypes/DMsE43xgf1gHPl8o.htm)|Maître du savoir|`@Compendium[pf2e.archetypes.DMsE43xgf1gHPl8o]`|
 |[Magaambyan Attendant](archetypes/yvb2pY3Qb7Jl35hk.htm)|Gardien de Magaambya|`@Compendium[pf2e.archetypes.yvb2pY3Qb7Jl35hk]`|
 |[Magic Warrior](archetypes/OmEG0nhQgeKnAUsn.htm)|Guerrier magique|`@Compendium[pf2e.archetypes.OmEG0nhQgeKnAUsn]`|
-|[Marshal](archetypes/zv31F34JgUesREuz.htm)||`@Compendium[pf2e.archetypes.zv31F34JgUesREuz]`|
-|[Martial Artist](archetypes/Ld3wizivrctmoHhy.htm)||`@Compendium[pf2e.archetypes.Ld3wizivrctmoHhy]`|
-|[Mauler](archetypes/UOhVrWvuaAVtQHEo.htm)||`@Compendium[pf2e.archetypes.UOhVrWvuaAVtQHEo]`|
-|[Medic](archetypes/CA22ZhzFPjahrO4W.htm)||`@Compendium[pf2e.archetypes.CA22ZhzFPjahrO4W]`|
-|[Oozemorph](archetypes/GADKhvTRWCqlI9vy.htm)||`@Compendium[pf2e.archetypes.GADKhvTRWCqlI9vy]`|
-|[Oracle](archetypes/akmaoP0StWvIv3jb.htm)||`@Compendium[pf2e.archetypes.akmaoP0StWvIv3jb]`|
+|[Marshal](archetypes/zv31F34JgUesREuz.htm)|Porte étendard|`@Compendium[pf2e.archetypes.zv31F34JgUesREuz]`|
+|[Martial Artist](archetypes/Ld3wizivrctmoHhy.htm)|Artiste martial|`@Compendium[pf2e.archetypes.Ld3wizivrctmoHhy]`|
+|[Mauler](archetypes/UOhVrWvuaAVtQHEo.htm)|Combattant à deux mains|`@Compendium[pf2e.archetypes.UOhVrWvuaAVtQHEo]`|
+|[Medic](archetypes/CA22ZhzFPjahrO4W.htm)|Médecin|`@Compendium[pf2e.archetypes.CA22ZhzFPjahrO4W]`|
+|[Oozemorph](archetypes/GADKhvTRWCqlI9vy.htm)|Vasemorphe|`@Compendium[pf2e.archetypes.GADKhvTRWCqlI9vy]`|
+|[Oracle](archetypes/akmaoP0StWvIv3jb.htm)|Oracle|`@Compendium[pf2e.archetypes.akmaoP0StWvIv3jb]`|
 |[Pathfinder Agent](archetypes/o3C85NHW08Y2inAN.htm)|Éclaireur|`@Compendium[pf2e.archetypes.o3C85NHW08Y2inAN]`|
-|[Pirate](archetypes/PlPc4w1XG9VOpDgn.htm)||`@Compendium[pf2e.archetypes.PlPc4w1XG9VOpDgn]`|
-|[Poisoner](archetypes/fjyB6HdS95xHEQn0.htm)||`@Compendium[pf2e.archetypes.fjyB6HdS95xHEQn0]`|
+|[Pirate](archetypes/PlPc4w1XG9VOpDgn.htm)|Pirate|`@Compendium[pf2e.archetypes.PlPc4w1XG9VOpDgn]`|
+|[Poisoner](archetypes/fjyB6HdS95xHEQn0.htm)|Empoisonneur|`@Compendium[pf2e.archetypes.fjyB6HdS95xHEQn0]`|
 |[Red Mantis Assassin](archetypes/DeixUOfwL7Bruad5.htm)|Assassin des Mantes rouges|`@Compendium[pf2e.archetypes.DeixUOfwL7Bruad5]`|
-|[Ritualist](archetypes/IoDeWTPMoa7LNLWD.htm)||`@Compendium[pf2e.archetypes.IoDeWTPMoa7LNLWD]`|
-|[Runescarred](archetypes/RyjrUkqSIg52Mjl8.htm)||`@Compendium[pf2e.archetypes.RyjrUkqSIg52Mjl8]`|
-|[Scout](archetypes/pHTnfVHOzsgfZ9E2.htm)||`@Compendium[pf2e.archetypes.pHTnfVHOzsgfZ9E2]`|
-|[Scroll Trickster](archetypes/xFjXKdIkA574QRkv.htm)||`@Compendium[pf2e.archetypes.xFjXKdIkA574QRkv]`|
+|[Ritualist](archetypes/IoDeWTPMoa7LNLWD.htm)|Ritualiste|`@Compendium[pf2e.archetypes.IoDeWTPMoa7LNLWD]`|
+|[Runescarred](archetypes/RyjrUkqSIg52Mjl8.htm)|Marqué de runes|`@Compendium[pf2e.archetypes.RyjrUkqSIg52Mjl8]`|
+|[Scout](archetypes/pHTnfVHOzsgfZ9E2.htm)|Guide|`@Compendium[pf2e.archetypes.pHTnfVHOzsgfZ9E2]`|
+|[Scroll Trickster](archetypes/xFjXKdIkA574QRkv.htm)|Mystique des parchemins|`@Compendium[pf2e.archetypes.xFjXKdIkA574QRkv]`|
 |[Scrollmaster](archetypes/2eAiIynDWTMKTGDU.htm)|Maître des sorts|`@Compendium[pf2e.archetypes.2eAiIynDWTMKTGDU]`|
-|[Scrounger](archetypes/eEyxTQ3oHfthdg0e.htm)||`@Compendium[pf2e.archetypes.eEyxTQ3oHfthdg0e]`|
-|[Sentinel](archetypes/e2KCqgD3zt8yvxGg.htm)||`@Compendium[pf2e.archetypes.e2KCqgD3zt8yvxGg]`|
-|[Shadowdancer](archetypes/70DYBk9gZCH9uSUs.htm)||`@Compendium[pf2e.archetypes.70DYBk9gZCH9uSUs]`|
-|[Snarecrafter](archetypes/uKoay1d62vRae3z1.htm)||`@Compendium[pf2e.archetypes.uKoay1d62vRae3z1]`|
+|[Scrounger](archetypes/eEyxTQ3oHfthdg0e.htm)|Bricoleur|`@Compendium[pf2e.archetypes.eEyxTQ3oHfthdg0e]`|
+|[Sentinel](archetypes/e2KCqgD3zt8yvxGg.htm)|Sentinelle|`@Compendium[pf2e.archetypes.e2KCqgD3zt8yvxGg]`|
+|[Shadowdancer](archetypes/70DYBk9gZCH9uSUs.htm)|Danseur de l'ombre|`@Compendium[pf2e.archetypes.70DYBk9gZCH9uSUs]`|
+|[Snarecrafter](archetypes/uKoay1d62vRae3z1.htm)|Fabricant de pièges|`@Compendium[pf2e.archetypes.uKoay1d62vRae3z1]`|
 |[Spellmaster](archetypes/25NJcH5SkWh1Tol7.htm)|Maître des épées|`@Compendium[pf2e.archetypes.25NJcH5SkWh1Tol7]`|
 |[Staff Acrobat](archetypes/XZwGLLgC1sIKlR1c.htm)|Funambule|`@Compendium[pf2e.archetypes.XZwGLLgC1sIKlR1c]`|
 |[Student of Perfection](archetypes/JiRqSMv1STETLwSP.htm)|Étudiant de la Perfection|`@Compendium[pf2e.archetypes.JiRqSMv1STETLwSP]`|
-|[Swashbuckler](archetypes/GQn5HfP1Jg5qO0Dz.htm)||`@Compendium[pf2e.archetypes.GQn5HfP1Jg5qO0Dz]`|
-|[Swordmaster](archetypes/bi1SeBS7Af3ZisIA.htm)||`@Compendium[pf2e.archetypes.bi1SeBS7Af3ZisIA]`|
-|[Talisman Dabbler](archetypes/3jceS1GfWcSQ3tMY.htm)||`@Compendium[pf2e.archetypes.3jceS1GfWcSQ3tMY]`|
+|[Swashbuckler](archetypes/GQn5HfP1Jg5qO0Dz.htm)|Bretteur|`@Compendium[pf2e.archetypes.GQn5HfP1Jg5qO0Dz]`|
+|[Swordmaster](archetypes/bi1SeBS7Af3ZisIA.htm)|Maître des épées|`@Compendium[pf2e.archetypes.bi1SeBS7Af3ZisIA]`|
+|[Talisman Dabbler](archetypes/3jceS1GfWcSQ3tMY.htm)|Amateur de talismans|`@Compendium[pf2e.archetypes.3jceS1GfWcSQ3tMY]`|
 |[Turpin Rowe Lumberjack](archetypes/VRUYc3QyRjjOjppc.htm)|Bûcheron de Turpin Rowe|`@Compendium[pf2e.archetypes.VRUYc3QyRjjOjppc]`|
-|[Vigilante](archetypes/R0ORjHAeQ0auxl2j.htm)||`@Compendium[pf2e.archetypes.R0ORjHAeQ0auxl2j]`|
-|[Viking](archetypes/SJi2cicLd7R2FInl.htm)||`@Compendium[pf2e.archetypes.SJi2cicLd7R2FInl]`|
-|[Weapon Improviser](archetypes/NGrKVIaZJx3r3In4.htm)||`@Compendium[pf2e.archetypes.NGrKVIaZJx3r3In4]`|
-|[Witch](archetypes/SAyPnVRucJa8k4MN.htm)||`@Compendium[pf2e.archetypes.SAyPnVRucJa8k4MN]`|
+|[Vigilante](archetypes/R0ORjHAeQ0auxl2j.htm)|Justicier|`@Compendium[pf2e.archetypes.R0ORjHAeQ0auxl2j]`|
+|[Viking](archetypes/SJi2cicLd7R2FInl.htm)|Viking|`@Compendium[pf2e.archetypes.SJi2cicLd7R2FInl]`|
+|[Weapon Improviser](archetypes/NGrKVIaZJx3r3In4.htm)|Improvisateur d'arme|`@Compendium[pf2e.archetypes.NGrKVIaZJx3r3In4]`|
+|[Witch](archetypes/SAyPnVRucJa8k4MN.htm)|Sorcière|`@Compendium[pf2e.archetypes.SAyPnVRucJa8k4MN]`|
 |[Zephyr Guard](archetypes/Lr108TWazbuxxUzP.htm)|Garde Zéphyr|`@Compendium[pf2e.archetypes.Lr108TWazbuxxUzP]`|
 
 
@@ -1520,7 +1520,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Arcane Thesis: Metamagical Experimentation](classfeatures/wizard-01-89zWKD2CN7nRu2xp.htm)|Thèse arcanique : Expérimentation métamagique|`@Compendium[pf2e.classfeatures.89zWKD2CN7nRu2xp]`|
 |[Arcane Thesis: Spell Blending](classfeatures/wizard-01-OAcxS625AXSGrQIC.htm)|Thèse arcanique : Mélange de sorts|`@Compendium[pf2e.classfeatures.OAcxS625AXSGrQIC]`|
 |[Arcane Thesis: Spell Substitution](classfeatures/wizard-01-QzWXMCSGNfvvpYgF.htm)|Thèse arcanique : Substitution de sort|`@Compendium[pf2e.classfeatures.QzWXMCSGNfvvpYgF]`|
-|[Arcane Thesis: Staff Nexus](classfeatures/wizard-01-Klb35AwlkNrq1gpB.htm)|Thèse arcanique : bâton nexus|`@Compendium[pf2e.classfeatures.Klb35AwlkNrq1gpB]`|
+|[Arcane Thesis: Staff Nexus](classfeatures/wizard-01-Klb35AwlkNrq1gpB.htm)|Thèse arcanique : Bâton nexus|`@Compendium[pf2e.classfeatures.Klb35AwlkNrq1gpB]`|
 |[Archwizard's Spellcraft](classfeatures/wizard-19-ZjwJHmjPrSs6VDez.htm)|Art magique de l'archimage|`@Compendium[pf2e.classfeatures.ZjwJHmjPrSs6VDez]`|
 |[Armor Expertise (Champion)](classfeatures/champion-07-g0nfwT61wE4vOaOn.htm)|Expertise avec les armures|`@Compendium[pf2e.classfeatures.g0nfwT61wE4vOaOn]`|
 |[Armor Expertise (Fighter)](classfeatures/fighter-11-1AR2xYvG6SHLy3Pk.htm)|Expertise avec les armures (Guerrier)|`@Compendium[pf2e.classfeatures.1AR2xYvG6SHLy3Pk]`|
@@ -1621,7 +1621,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Flames Mystery](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Mystère des flammes|`@Compendium[pf2e.classfeatures.GTSvbFb36InvuH0w]`|
 |[Flurry of Blows](classfeatures/monk-01-NLHHHiAcdnZ5ohc2.htm)|Déluge de coups|`@Compendium[pf2e.classfeatures.NLHHHiAcdnZ5ohc2]`|
 |[Focus Spells](classfeatures/None-00-T25ZLQWn6O4KchLo.htm)|Sorts focalisés|`@Compendium[pf2e.classfeatures.T25ZLQWn6O4KchLo]`|
-|[Forensic Medicine Methodology](classfeatures/investigator-01-O3IX7rTxXWWvDVM3.htm)|Méthodologie (Médecine forensique)|`@Compendium[pf2e.classfeatures.O3IX7rTxXWWvDVM3]`|
+|[Forensic Medicine Methodology](classfeatures/investigator-01-O3IX7rTxXWWvDVM3.htm)|Méthodologie : Médecine forensique|`@Compendium[pf2e.classfeatures.O3IX7rTxXWWvDVM3]`|
 |[Fury Instinct](classfeatures/barbarian-01-k7M9jedvt31AJ5ZR.htm)|Instinct de la furie|`@Compendium[pf2e.classfeatures.k7M9jedvt31AJ5ZR]`|
 |[Giant Instinct](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Instinct de géant|`@Compendium[pf2e.classfeatures.JuKD6k7nDwfO0Ckv]`|
 |[Graceful Legend](classfeatures/monk-17-JWDfzYub3JfuEtth.htm)|Légende gracieuse|`@Compendium[pf2e.classfeatures.JWDfzYub3JfuEtth]`|
@@ -1636,7 +1636,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Greater Field Discovery (Mutagenist)](classfeatures/alchemist-13-1BKdOJ0HNL6Eg3xw.htm)|Découverte de domaine de recherche supérieure (Mutagèniste)|`@Compendium[pf2e.classfeatures.1BKdOJ0HNL6Eg3xw]`|
 |[Greater Field Discovery (Toxicologist)](classfeatures/alchemist-13-tnqyQrhrZeDtDvcO.htm)|Découverte de domaine de recherche supérieure (Toxicologiste)|`@Compendium[pf2e.classfeatures.tnqyQrhrZeDtDvcO]`|
 |[Greater Juggernaut](classfeatures/barbarian-13-TuL0UfqH14MtqYVh.htm)|Juggernaut supérieur|`@Compendium[pf2e.classfeatures.TuL0UfqH14MtqYVh]`|
-|[Greater Resolve (Bard)](classfeatures/bard-17-Km2CaLUuRaxn79kH.htm)|Résolution accrue|`@Compendium[pf2e.classfeatures.Km2CaLUuRaxn79kH]`|
+|[Greater Resolve (Bard)](classfeatures/bard-17-Km2CaLUuRaxn79kH.htm)|Résolution accrue (Barde)|`@Compendium[pf2e.classfeatures.Km2CaLUuRaxn79kH]`|
 |[Greater Resolve (Investigator)](classfeatures/investigator-17-F5AhrHtGf1mociZ0.htm)|Résolution accrue (Enquêteur)|`@Compendium[pf2e.classfeatures.F5AhrHtGf1mociZ0]`|
 |[Greater Resolve (Oracle)](classfeatures/oracle-17-fAod97Mp6ZJTwG0c.htm)|Résolution accrue (Oracle)|`@Compendium[pf2e.classfeatures.fAod97Mp6ZJTwG0c]`|
 |[Greater Weapon Specialization (Barbarian)](classfeatures/barbarian-15-7JjhxMFo8DMwpGx0.htm)|Spécialisation martiale supérieure (Barbare)|`@Compendium[pf2e.classfeatures.7JjhxMFo8DMwpGx0]`|
@@ -1665,7 +1665,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Incredible Senses (Rogue)](classfeatures/rogue-13-OqKMPnEbCKgvQgZM.htm)|Sens extraordinaires (Roublard)|`@Compendium[pf2e.classfeatures.OqKMPnEbCKgvQgZM]`|
 |[Indomitable Will](classfeatures/barbarian-15-BZnqKnqKVImjSIFE.htm)|Volonté indomptable|`@Compendium[pf2e.classfeatures.BZnqKnqKVImjSIFE]`|
 |[Infused Reagents](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Réactifs imprégnés|`@Compendium[pf2e.classfeatures.wySB9VHOW1v3TX1L]`|
-|[Interrogation Methodology](classfeatures/investigator-01-UIHUNNYZyQ3p4Vmo.htm)|Méthodologie de l'interrogatoire|`@Compendium[pf2e.classfeatures.UIHUNNYZyQ3p4Vmo]`|
+|[Interrogation Methodology](classfeatures/investigator-01-UIHUNNYZyQ3p4Vmo.htm)|Méthodologie : Interrogatoire|`@Compendium[pf2e.classfeatures.UIHUNNYZyQ3p4Vmo]`|
 |[Investigator Expertise](classfeatures/investigator-09-PFvB79O2VFdiAeSj.htm)|Expertise de l'enquêteur|`@Compendium[pf2e.classfeatures.PFvB79O2VFdiAeSj]`|
 |[Iron Will (Alchemist)](classfeatures/alchemist-07-V761X63x7CZ7pnUG.htm)|Volonté de fer (Alchimiste)|`@Compendium[pf2e.classfeatures.V761X63x7CZ7pnUG]`|
 |[Iron Will (Ranger)](classfeatures/ranger-03-hUl69qjTUBe0uGMA.htm)|Volonté de fer (Rôdeur)|`@Compendium[pf2e.classfeatures.hUl69qjTUBe0uGMA]`|
@@ -1702,7 +1702,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lightning Reflexes (Champion)](classfeatures/champion-09-rl3b7Nv5N13UL9VC.htm)|Réflexes éclair (Champion)|`@Compendium[pf2e.classfeatures.rl3b7Nv5N13UL9VC]`|
 |[Lightning Reflexes (Cleric)](classfeatures/cleric-11-ffC40m5ebeeXkzhC.htm)|Réflexes éclair (Prêtre)|`@Compendium[pf2e.classfeatures.ffC40m5ebeeXkzhC]`|
 |[Lightning Reflexes (Druid)](classfeatures/druid-05-71djVINXSPTHO4xX.htm)|Réflexes éclair (Druide)|`@Compendium[pf2e.classfeatures.71djVINXSPTHO4xX]`|
-|[Lightning Reflexes (Oracle)](classfeatures/oracle-13-leddTV9aD5lzYATy.htm)|réflexes éclair (Oracle)|`@Compendium[pf2e.classfeatures.leddTV9aD5lzYATy]`|
+|[Lightning Reflexes (Oracle)](classfeatures/oracle-13-leddTV9aD5lzYATy.htm)|Réflexes éclair (Oracle)|`@Compendium[pf2e.classfeatures.leddTV9aD5lzYATy]`|
 |[Lightning Reflexes (Sorcerer)](classfeatures/sorcerer-09-QqcRWjr0Xc5xWVMR.htm)|Réflexes éclair (Ensorceleur)|`@Compendium[pf2e.classfeatures.QqcRWjr0Xc5xWVMR]`|
 |[Lightning Reflexes (Witch)](classfeatures/witch-09-uW7EyPyjgmDPL5Bg.htm)|Réflexes éclair (Sorcière)|`@Compendium[pf2e.classfeatures.uW7EyPyjgmDPL5Bg]`|
 |[Lightning Reflexes (Wizard)](classfeatures/wizard-05-8QQxWTxbkae0fJCI.htm)|Réflexes éclair (Magicien)|`@Compendium[pf2e.classfeatures.8QQxWTxbkae0fJCI]`|
@@ -1879,9 +1879,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cleric](classes/Oia1kqkF4KwdVVaw.htm)|Prêtre|`@Compendium[pf2e.classes.Oia1kqkF4KwdVVaw]`|
 |[Druid](classes/JSkS9iLsebH2HUSY.htm)|Druide|`@Compendium[pf2e.classes.JSkS9iLsebH2HUSY]`|
 |[Fighter](classes/p5zBqyyeNY1HTAV1.htm)|Guerrier|`@Compendium[pf2e.classes.p5zBqyyeNY1HTAV1]`|
-|[Investigator](classes/WreDTLuWC5Kqsglb.htm)||`@Compendium[pf2e.classes.WreDTLuWC5Kqsglb]`|
+|[Investigator](classes/WreDTLuWC5Kqsglb.htm)|Enquêteur|`@Compendium[pf2e.classes.WreDTLuWC5Kqsglb]`|
 |[Monk](classes/8KGkzwIFYFHAdw2H.htm)|Moine|`@Compendium[pf2e.classes.8KGkzwIFYFHAdw2H]`|
-|[Oracle](classes/tagRpjQsoYlO8Aj4.htm)||`@Compendium[pf2e.classes.tagRpjQsoYlO8Aj4]`|
+|[Oracle](classes/tagRpjQsoYlO8Aj4.htm)|Oracle|`@Compendium[pf2e.classes.tagRpjQsoYlO8Aj4]`|
 |[Ranger](classes/zk0K5exx506ukJns.htm)|Rôdeur|`@Compendium[pf2e.classes.zk0K5exx506ukJns]`|
 |[Rogue](classes/6M4DO9lY25F8n6Li.htm)|Roublard|`@Compendium[pf2e.classes.6M4DO9lY25F8n6Li]`|
 |[Sorcerer](classes/WpMQGtgz46Cc5onF.htm)|Ensorceleur|`@Compendium[pf2e.classes.WpMQGtgz46Cc5onF]`|
@@ -5253,7 +5253,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Adventurer's Pack](equipment/kit-2req0jGaxz8hScdB.htm)|Pack d'aventurier|`@Compendium[pf2e.equipment-srd.2req0jGaxz8hScdB]`|
 |[Aeon Stone (Black Pearl)](equipment/equipment-12-J7vQowV531Sz73Gw.htm)|Pierre d'éternité (noir perle)|`@Compendium[pf2e.equipment-srd.J7vQowV531Sz73Gw]`|
 |[Aeon Stone (Clear Spindle)](equipment/equipment-07-M2CPAgSAoEL4oawq.htm)|Pierre d'éternité (fuseau translucide)|`@Compendium[pf2e.equipment-srd.M2CPAgSAoEL4oawq]`|
-|[Aeon Stone (Dull Grey)](equipment/equipment-01-CVTbxCY85nLoHYuw.htm)||`@Compendium[pf2e.equipment-srd.CVTbxCY85nLoHYuw]`|
+|[Aeon Stone (Dull Grey)](equipment/equipment-01-CVTbxCY85nLoHYuw.htm)|Pierre d'éternité (gris terne)|`@Compendium[pf2e.equipment-srd.CVTbxCY85nLoHYuw]`|
 |[Aeon Stone (Gold Nodule)](equipment/equipment-06-odSvUKzphdwvDqgE.htm)|Pierre d'éternité (nodule doré)|`@Compendium[pf2e.equipment-srd.odSvUKzphdwvDqgE]`|
 |[Aeon Stone (Lavender and Green Ellipsoid)](equipment/equipment-19-5sMAAIymln2yIl4q.htm)|Pierre d'éternité (ellipsoïde vert et lavande)|`@Compendium[pf2e.equipment-srd.5sMAAIymln2yIl4q]`|
 |[Aeon Stone (Orange Prism)](equipment/equipment-16-MO8J2IcBhiTnm9D8.htm)|Pierre d'éternité (prisme orange)|`@Compendium[pf2e.equipment-srd.MO8J2IcBhiTnm9D8]`|

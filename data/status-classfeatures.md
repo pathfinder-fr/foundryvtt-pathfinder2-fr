@@ -6,7 +6,7 @@
  * **aucune**: 1
 
 
-Dernière mise à jour: 2020-09-19 10:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-23 17:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -96,7 +96,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-13-dtl8i1fYDNiumaay.htm](classfeatures/bard-13-dtl8i1fYDNiumaay.htm)|Light Armor Expertise (Bard)|Expertise avec les armures légères (Barde)|officielle|
 |[bard-13-J5zCG0fMBFflfbSV.htm](classfeatures/bard-13-J5zCG0fMBFflfbSV.htm)|Weapon Specialization (Bard)|Spécialisation martiale (Barde)|officielle|
 |[bard-15-5UPkTPy5u2fZKqUW.htm](classfeatures/bard-15-5UPkTPy5u2fZKqUW.htm)|Master Spellcaster (Bard)|Maître incantateur (Barde)|officielle|
-|[bard-17-Km2CaLUuRaxn79kH.htm](classfeatures/bard-17-Km2CaLUuRaxn79kH.htm)|Greater Resolve (Bard)|Résolution accrue|officielle|
+|[bard-17-Km2CaLUuRaxn79kH.htm](classfeatures/bard-17-Km2CaLUuRaxn79kH.htm)|Greater Resolve (Bard)|Résolution accrue (Barde)|officielle|
 |[bard-19-NjsOpWbbzUY2Hpk3.htm](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum Opus|Magnum opus|officielle|
 |[bard-19-tmO36DHYZo64iywr.htm](classfeatures/bard-19-tmO36DHYZo64iywr.htm)|Legendary Spellcaster (Bard)|Incantateur légendaire (Barde)|officielle|
 |[champion-00-fykh5pE99O3I2sOI.htm](classfeatures/champion-00-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|changé|
@@ -178,8 +178,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[investigator-01-g3mNzNphtVxyR9Xr.htm](classfeatures/investigator-01-g3mNzNphtVxyR9Xr.htm)|Empiricism Methology|Méthodologie : empirisme|libre|
 |[investigator-01-lgo65ldX7WkXC8Ir.htm](classfeatures/investigator-01-lgo65ldX7WkXC8Ir.htm)|Devise a Strategem|Concevoir un stratagème|libre|
 |[investigator-01-ln2Y1a4SxlU9sizX.htm](classfeatures/investigator-01-ln2Y1a4SxlU9sizX.htm)|Alchemical Sciences Methodology|Méthodologie : Sciences alchimiques|libre|
-|[investigator-01-O3IX7rTxXWWvDVM3.htm](classfeatures/investigator-01-O3IX7rTxXWWvDVM3.htm)|Forensic Medicine Methodology|Méthodologie (Médecine forensique)|libre|
-|[investigator-01-UIHUNNYZyQ3p4Vmo.htm](classfeatures/investigator-01-UIHUNNYZyQ3p4Vmo.htm)|Interrogation Methodology|Méthodologie de l'interrogatoire|libre|
+|[investigator-01-O3IX7rTxXWWvDVM3.htm](classfeatures/investigator-01-O3IX7rTxXWWvDVM3.htm)|Forensic Medicine Methodology|Méthodologie : Médecine forensique|libre|
+|[investigator-01-UIHUNNYZyQ3p4Vmo.htm](classfeatures/investigator-01-UIHUNNYZyQ3p4Vmo.htm)|Interrogation Methodology|Méthodologie : Interrogatoire|libre|
 |[investigator-03-dmK1wya8GBi9MmCB.htm](classfeatures/investigator-03-dmK1wya8GBi9MmCB.htm)|Skillful Lessons|Leçons accomplies|libre|
 |[investigator-03-DZWQspPi4IkfXV2E.htm](classfeatures/investigator-03-DZWQspPi4IkfXV2E.htm)|Keen Recollection|Souvenirs affûtés|libre|
 |[investigator-05-zmgJoO03w6MFoHWm.htm](classfeatures/investigator-05-zmgJoO03w6MFoHWm.htm)|Weapon Expertise (Investigator)|Expertise martiale (Enquêteur)|libre|
@@ -240,7 +240,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-11-rrzItB68Er0DzKx7.htm](classfeatures/oracle-11-rrzItB68Er0DzKx7.htm)|Major Curse|Malédiction majeure|libre|
 |[oracle-13-4a8T3KTCwIQ3kFCM.htm](classfeatures/oracle-13-4a8T3KTCwIQ3kFCM.htm)|Weapon Specialization (Oracle)|Spécialisation martiale (Oracle)|libre|
 |[oracle-13-eluiQA9hfnJi0kPW.htm](classfeatures/oracle-13-eluiQA9hfnJi0kPW.htm)|Light Armor Expertise (Oracle)|Expertise avec les armures légères (Oracle)|libre|
-|[oracle-13-leddTV9aD5lzYATy.htm](classfeatures/oracle-13-leddTV9aD5lzYATy.htm)|Lightning Reflexes (Oracle)|réflexes éclair (Oracle)|libre|
+|[oracle-13-leddTV9aD5lzYATy.htm](classfeatures/oracle-13-leddTV9aD5lzYATy.htm)|Lightning Reflexes (Oracle)|Réflexes éclair (Oracle)|libre|
 |[oracle-15-u7gvhSh6OBIQPpOb.htm](classfeatures/oracle-15-u7gvhSh6OBIQPpOb.htm)|Master Spellcaster (Oracle)|Maître incantateur (Oracle)|libre|
 |[oracle-17-F4brPlp1tHGUqyuI.htm](classfeatures/oracle-17-F4brPlp1tHGUqyuI.htm)|Extreme Curse|Malédiction extrême|libre|
 |[oracle-17-fAod97Mp6ZJTwG0c.htm](classfeatures/oracle-17-fAod97Mp6ZJTwG0c.htm)|Greater Resolve (Oracle)|Résolution accrue (Oracle)|libre|
@@ -380,7 +380,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wizard-01-gCwcys8CnS102tji.htm](classfeatures/wizard-01-gCwcys8CnS102tji.htm)|Arcane School: Abjuration|École arcanique : Abjuration|officielle|
 |[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Arcane School: Evocation|Évocation|officielle|
 |[wizard-01-K6hG7nH8yjmbA0Q9.htm](classfeatures/wizard-01-K6hG7nH8yjmbA0Q9.htm)|Arcane School: Illusion|École arcanique : Illusion|officielle|
-|[wizard-01-Klb35AwlkNrq1gpB.htm](classfeatures/wizard-01-Klb35AwlkNrq1gpB.htm)|Arcane Thesis: Staff Nexus|Thèse arcanique : bâton nexus|libre|
+|[wizard-01-Klb35AwlkNrq1gpB.htm](classfeatures/wizard-01-Klb35AwlkNrq1gpB.htm)|Arcane Thesis: Staff Nexus|Thèse arcanique : Bâton nexus|libre|
 |[wizard-01-M89l9FOnjHe63wD7.htm](classfeatures/wizard-01-M89l9FOnjHe63wD7.htm)|Arcane Thesis|Thèse arcanique|libre|
 |[wizard-01-OAcxS625AXSGrQIC.htm](classfeatures/wizard-01-OAcxS625AXSGrQIC.htm)|Arcane Thesis: Spell Blending|Thèse arcanique : Mélange de sorts|officielle|
 |[wizard-01-qczCKdg47eAmCOUD.htm](classfeatures/wizard-01-qczCKdg47eAmCOUD.htm)|Arcane School: Universalist|École arcanique : universaliste|officielle|

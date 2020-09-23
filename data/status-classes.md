@@ -1,10 +1,11 @@
 # État de la traduction (classes)
 
- * **aucune**: 4
+ * **aucune**: 3
  * **changé**: 12
+ * **libre**: 1
 
 
-Dernière mise à jour: 2020-09-19 10:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-23 17:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,7 +15,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03ga5t1V5GsvCGUi.htm](classes/03ga5t1V5GsvCGUi.htm)|Witch|
 |[lifEnSfGjmeKcH8Y.htm](classes/lifEnSfGjmeKcH8Y.htm)|Swashbuckler|
 |[tagRpjQsoYlO8Aj4.htm](classes/tagRpjQsoYlO8Aj4.htm)|Oracle|
-|[WreDTLuWC5Kqsglb.htm](classes/WreDTLuWC5Kqsglb.htm)|Investigator|
 
 ## Liste des traductions complétés
 
@@ -31,4 +31,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[QzgMYQWYdQZMIChe.htm](classes/QzgMYQWYdQZMIChe.htm)|Champion|Champion|changé|
 |[rieRSsMMpae94H7b.htm](classes/rieRSsMMpae94H7b.htm)|Alchemist|Alchimiste|changé|
 |[WpMQGtgz46Cc5onF.htm](classes/WpMQGtgz46Cc5onF.htm)|Sorcerer|Ensorceleur|changé|
+|[WreDTLuWC5Kqsglb.htm](classes/WreDTLuWC5Kqsglb.htm)|Investigator|Enquêteur|libre|
 |[zk0K5exx506ukJns.htm](classes/zk0K5exx506ukJns.htm)|Ranger|Rôdeur|changé|

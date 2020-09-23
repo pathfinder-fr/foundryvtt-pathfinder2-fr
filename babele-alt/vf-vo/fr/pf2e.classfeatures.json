@@ -38,7 +38,7 @@
         },
         {
             "id": "Arcane Thesis: Staff Nexus",
-            "name": "Thèse arcanique : bâton nexus (Arcane Thesis: Staff Nexus)",
+            "name": "Thèse arcanique : Bâton nexus (Arcane Thesis: Staff Nexus)",
             "description": "<p>Votre thèse soutient qu'une adoption du bâton très tôt et intense depuis les premiers jours détude peut créer un lien symbiotique entre le lanceur de sort et un @Compendium[pf2e.equipment-srd.FVjTuBCIefAgloUU]{Bâton}, leur permettant de créer ensemble une magie remarquable. Vous avez formé une telle connection avec un bâton de fortune que vous avez fabriqué et vous êtes prêt à imprégner tout bâton que vous rencontrerez avec un pouvoir encore plus grand.</p>\n<p>Vous commencez le jeu avec un bâton de fortune de votre propre invention. Il contient un tour de magie et un sort de niveau 1, tous deux issus de votre grimoire, mais il n'obtient aucune charge durant vos préparatifs quotidiens ; vous devez dépenser un emplacement de niveau pour le charger de la même manière que si vous deviez ajouter des charges supplémentaires à un bâton magique normal (Livre de base p.553). Vous pouvez @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} votre bâton de fortune  men tout autre type de bâton au prix du coût du nouveau bâton, ajoutant les deux sorts originels choisis au bâton que vous fabriquez.</p>\n<p>Au niveau 8, vous pouvez dépenser deux sorts au lieu d'un en préparant votre bâton, ajoutant des charges supplémentaires égales aux niveaux combinés des sorts dépensés. Au niveau 16, vous pouvez dépenser jusqu'à trois sorts au lieu d'un en préparant votre bâton, ajoutant des charges supplémentaires égales aux niveaux combinés des trois sorts dépensés.</p>"
         },
         {
@@ -163,7 +163,7 @@
         },
         {
             "id": "Greater Resolve (Bard)",
-            "name": "Résolution accrue (Greater Resolve (Bard))",
+            "name": "Résolution accrue (Barde) (Greater Resolve (Bard))",
             "description": "<p>Vos entraînements poussés vous ont permis de développer une incroyable résistance mentale. Votre rang de maîtrise des jets de sauvegarde de Volonté devient légendaire. Quand vous obtenez un succès à un jet de Volonté, vous remportez à la place un succès critique. Quand vous obtenez un échec critique à un jet de Volonté, celui-ci se transforme en échec. Lorsque vous obtenez un échec sur le jet de Volonté contre un effet qui vous inflige des dégâts, vous ne subissez que la moitié des dégâts.&nbsp;</p>"
         },
         {
@@ -228,7 +228,7 @@
         },
         {
             "id": "Forensic Medicine Methodology",
-            "name": "Méthodologie (Médecine forensique) (Forensic Medicine Methodology)",
+            "name": "Méthodologie : Médecine forensique (Forensic Medicine Methodology)",
             "description": "<p>Vous avez appris que, dans la plupart des cas, et plus particulièrement les meurtres, les criminels ont tendance à laisser derrière eux plus de traces qu’ils ne le pensent. Les informations provenant d'hématomes, d’os fracturés, d’éclaboussures de sang ou même du cycle de vie des insectes charognards peuvent procurer des indices très précieux qui aident à reconstituer la scène.</p>\n<p>Vous êtes qualifié en Médecine et obtenez les dons de compétence @Compendium[pf2e.feats-srd.Ws9JlysHcFoz6WAQ]{Perspicacité forensique} et @Compendium[pf2e.feats-srd.wYerMk6F1RZb0Fwt]{M2decine militaire}. Lorsque vous utilisez Médecine militaire, en cas de réussite,  la cible récupère un nombre de Points de Vie supplémentaires égal à votre niveau et la cible n'est immunisée temporairement que pendant seulement 1 heure et pas un jour.</p>"
         },
         {
@@ -283,7 +283,7 @@
         },
         {
             "id": "Interrogation Methodology",
-            "name": "Méthodologie de l'interrogatoire (Interrogation Methodology)",
+            "name": "Méthodologie : Interrogatoire (Interrogation Methodology)",
             "description": "<p>Les gens ne peuvent s'empêcher de vous faire confiance, que ce soit grâce à votre capacité intrinsèque à vous faire apprécier ou par votre ferme insistance à les confronter à la vérité. Vous avez une manière de rendre les gens volubiles et vous avez développé des techniques d'interrogatoire pour vous aider à obtenir la vérité au fil de vos enquêtes.</p>\n<p>Vous êtes qualifié en Diplomatie. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.6ON8DjFXSMITZleX]{Pas besoin de s'alarmer}. Vous pouvez aussi @Compendium[pf2e.actionspf2e.xTK2zsWFyxSJvYbX]{Suivre une piste} au cours d'une conversation plutôt que de dépenser le temps requis à en chercher une, pourvu que cette conversation dure au moins 1 minute. Par exemple, lorsque vous tentez de @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression}, vous pourriez considérez que la créature avec laquelle vous avez conversé est la Piste que vous Suivez et vous pourriez Suivre la piste d'un objet lorsque quelqu'un vous donne des informations à propos de cet objet. Vous obtenez aussi l'action @Compendium[pf2e.actionspf2e.xccOiNL2W1EtfUYl]{Question pointue}.</p>"
         },
         {
@@ -1473,7 +1473,7 @@
         },
         {
             "id": "Lightning Reflexes (Oracle)",
-            "name": "réflexes éclair (Oracle) (Lightning Reflexes (Oracle))",
+            "name": "Réflexes éclair (Oracle) (Lightning Reflexes (Oracle))",
             "description": "<p>Vos réflexes sont fulgurants. Votre rang de maîtrise pour les jets de Réflexes passe à expert.</p>"
         },
         {
