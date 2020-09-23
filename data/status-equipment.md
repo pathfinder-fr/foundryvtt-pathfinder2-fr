@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 262
- * **changé**: 608
+ * **officielle**: 261
+ * **changé**: 609
  * **aucune**: 532
  * **libre**: 189
 
 
-Dernière mise à jour: 2020-09-23 17:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-23 17:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -235,7 +235,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-17-ccrdVliTNBh2mNZf.htm](equipment/consumable-17-ccrdVliTNBh2mNZf.htm)|Serene Mutagen (Major)|
 |[consumable-17-KsoofB7FCppaBTdK.htm](equipment/consumable-17-KsoofB7FCppaBTdK.htm)|Celestial Peach (Rejuvination)|
 |[consumable-17-M4ZOHOlne43ArjOC.htm](equipment/consumable-17-M4ZOHOlne43ArjOC.htm)|Drakeheart Mutagen (Major)|
-|[consumable-17-qvAtAv211cVqktgU.htm](equipment/consumable-17-qvAtAv211cVqktgU.htm)|Green Gut|
+|[consumable-17-qvAtAv211cVqktgU.htm](equipment/consumable-17-qvAtAv211cVqktgU.htm)|Greengut|
 |[consumable-17-uD5vRYVOXNJ53sEE.htm](equipment/consumable-17-uD5vRYVOXNJ53sEE.htm)|Silvertongue Mutagen (Major)|
 |[consumable-17-VBK9i74dry8yf8f0.htm](equipment/consumable-17-VBK9i74dry8yf8f0.htm)|Cognitive Mutagen (Major)|
 |[consumable-18-1LKJvK9ofzIIkQX3.htm](equipment/consumable-18-1LKJvK9ofzIIkQX3.htm)|Sun Orchid Poultice|
@@ -613,7 +613,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-18-XKON66YXYLXlGPPg.htm](equipment/armor-18-XKON66YXYLXlGPPg.htm)|Breastplate of Command (Greater)|Cuirasse de commandement (supérieur)|changé|
 |[armor-19-7Z8XXGiUiyyisKOD.htm](equipment/armor-19-7Z8XXGiUiyyisKOD.htm)|Sturdy Shield (Supreme)|Bouclier renforcé (ultime)|changé|
 |[armor-20-PuqdH7DmNsN79HyE.htm](equipment/armor-20-PuqdH7DmNsN79HyE.htm)|Elven Chain (High-Grade)|Maille elfique (haute qualité)|changé|
-|[backpack-00-3lgwjrFEsQVKzhh7.htm](equipment/backpack-00-3lgwjrFEsQVKzhh7.htm)|Backpack|Sac à dos|officielle|
+|[backpack-00-3lgwjrFEsQVKzhh7.htm](equipment/backpack-00-3lgwjrFEsQVKzhh7.htm)|Backpack|Sac à dos|changé|
 |[backpack-00-DujblC14ytJEZMaz.htm](equipment/backpack-00-DujblC14ytJEZMaz.htm)|Sack|Sac|officielle|
 |[backpack-00-eFqKVKrf62XOGWUw.htm](equipment/backpack-00-eFqKVKrf62XOGWUw.htm)|Belt Pouch|Bourse|officielle|
 |[backpack-00-HamOU17sqb5ljiB5.htm](equipment/backpack-00-HamOU17sqb5ljiB5.htm)|Bandolier|Bandoulière|officielle|

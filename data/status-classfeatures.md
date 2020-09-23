@@ -1,18 +1,21 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 231
- * **libre**: 129
- * **changé**: 23
- * **aucune**: 1
+ * **aucune**: 4
+ * **officielle**: 230
+ * **libre**: 126
+ * **changé**: 27
 
 
-Dernière mise à jour: 2020-09-23 17:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-23 17:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[alchemical-01-1eWDNcWSlNoU0L67.htm](classfeatures/alchemical-01-1eWDNcWSlNoU0L67.htm)|Formula Book (Alchemist)|
+|[bard-01-6FsusoMYxxjyIkVh.htm](classfeatures/bard-01-6FsusoMYxxjyIkVh.htm)|Spell Repertoire (Bard)|
+|[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|
 
 ## Liste des traductions complétés
@@ -27,6 +30,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-01-tvdb1jkjl2bRZjSp.htm](classfeatures/alchemist-01-tvdb1jkjl2bRZjSp.htm)|Mutagenist|Mutagèniste|officielle|
 |[alchemist-01-wySB9VHOW1v3TX1L.htm](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Infused Reagents|Réactifs imprégnés|officielle|
 |[alchemist-05-6zo2PJGYoig7nFpR.htm](classfeatures/alchemist-05-6zo2PJGYoig7nFpR.htm)|Field Discovery (Toxicologist)|Découverte de domaine de recherche (Toxicologiste)|libre|
+|[alchemist-05-8QAFgy9U8PxEa7Dw.htm](classfeatures/alchemist-05-8QAFgy9U8PxEa7Dw.htm)|Field Discovery (Bomber)|Découverte de domaine de recherche (Artificier)|officielle|
 |[alchemist-05-qC0Iz6SlG2i9gv6g.htm](classfeatures/alchemist-05-qC0Iz6SlG2i9gv6g.htm)|Field Discovery (Chirurgeon)|Découverte de domaine de recherche (Chirurgien)|changé|
 |[alchemist-05-V4Jt7eDnJBLv5bDj.htm](classfeatures/alchemist-05-V4Jt7eDnJBLv5bDj.htm)|Field Discovery (Mutagenist)|Découverte de domaine de recherche (Mutagèniste)|officielle|
 |[alchemist-07-4ocPy4O0OCLY0XCM.htm](classfeatures/alchemist-07-4ocPy4O0OCLY0XCM.htm)|Alchemical Weapon Expertise|Expertise avec les armes alchimiques|officielle|
@@ -45,7 +49,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-11-VS5vkqUQu4n7E28Y.htm](classfeatures/alchemist-11-VS5vkqUQu4n7E28Y.htm)|Perpetual Potency (Chirurgeon)|Efficacité perpétuelle (Chirurgien)|officielle|
 |[alchemist-13-1BKdOJ0HNL6Eg3xw.htm](classfeatures/alchemist-13-1BKdOJ0HNL6Eg3xw.htm)|Greater Field Discovery (Mutagenist)|Découverte de domaine de recherche supérieure (Mutagèniste)|officielle|
 |[alchemist-13-1orZOFZgAiSmm9RL.htm](classfeatures/alchemist-13-1orZOFZgAiSmm9RL.htm)|Weapon Specialization (Alchemist)|Spécialisation martiale (Alchimiste)|officielle|
-|[alchemist-13-8QAFgy9U8PxEa7Dw.htm](classfeatures/alchemist-13-8QAFgy9U8PxEa7Dw.htm)|Field Discovery (Bomber)|Découverte de domaine de recherche (Artificier)|officielle|
 |[alchemist-13-JJcaVijwRt9dsnac.htm](classfeatures/alchemist-13-JJcaVijwRt9dsnac.htm)|Greater Field Discovery (Chirurgeon)|Découverte de domaine de recherche supérieure (Chirurgien)|officielle|
 |[alchemist-13-OKUowbhHDzJUo4xz.htm](classfeatures/alchemist-13-OKUowbhHDzJUo4xz.htm)|Light Armor Expertise (Alchemist)|Expertise avec les armures légères (Alchimiste)|officielle|
 |[alchemist-13-RGs4uR3CAvgbtBAA.htm](classfeatures/alchemist-13-RGs4uR3CAvgbtBAA.htm)|Greater Field Discovery (Bomber)|Découverte de domaine de recherche supérieure (Artificier)|officielle|
@@ -175,7 +178,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fighter-19-0H2LxtiZTJ275pSD.htm](classfeatures/fighter-19-0H2LxtiZTJ275pSD.htm)|Versatile Legend|Légende polyvalente|officielle|
 |[investigator-01-2Fe4YZCvAr9Yf6w7.htm](classfeatures/investigator-01-2Fe4YZCvAr9Yf6w7.htm)|Strategic Strike|Frappe stratégique|libre|
 |[investigator-01-6FasgIXUJ1X8ekRn.htm](classfeatures/investigator-01-6FasgIXUJ1X8ekRn.htm)|On the Case|Sur l'affaire|libre|
-|[investigator-01-g3mNzNphtVxyR9Xr.htm](classfeatures/investigator-01-g3mNzNphtVxyR9Xr.htm)|Empiricism Methology|Méthodologie : empirisme|libre|
+|[investigator-01-g3mNzNphtVxyR9Xr.htm](classfeatures/investigator-01-g3mNzNphtVxyR9Xr.htm)|Empiricism Methodology|Méthodologie : empirisme|changé|
 |[investigator-01-lgo65ldX7WkXC8Ir.htm](classfeatures/investigator-01-lgo65ldX7WkXC8Ir.htm)|Devise a Strategem|Concevoir un stratagème|libre|
 |[investigator-01-ln2Y1a4SxlU9sizX.htm](classfeatures/investigator-01-ln2Y1a4SxlU9sizX.htm)|Alchemical Sciences Methodology|Méthodologie : Sciences alchimiques|libre|
 |[investigator-01-O3IX7rTxXWWvDVM3.htm](classfeatures/investigator-01-O3IX7rTxXWWvDVM3.htm)|Forensic Medicine Methodology|Méthodologie : Médecine forensique|libre|
@@ -219,7 +222,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-00-s0VbbQJNlSgPocui.htm](classfeatures/None-00-s0VbbQJNlSgPocui.htm)|Composition Spells|Sorts de composition|officielle|
 |[None-00-T25ZLQWn6O4KchLo.htm](classfeatures/None-00-T25ZLQWn6O4KchLo.htm)|Focus Spells|Sorts focalisés|libre|
 |[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|libre|
-|[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
+|[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|changé|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|Mystère du combat|libre|
 |[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames Mystery|Mystère des flammes|libre|
 |[oracle-01-IaxmCkdsPlA52spu.htm](classfeatures/oracle-01-IaxmCkdsPlA52spu.htm)|Bones Mystery|Mystère des ossements|libre|
@@ -298,7 +301,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-5Wxjghw7lHuCxjZz.htm](classfeatures/sorcerer-01-5Wxjghw7lHuCxjZz.htm)|Bloodline: Nymph|Lignage : Nymphe|libre|
 |[sorcerer-01-7WBZ2kkhZ7JorWu2.htm](classfeatures/sorcerer-01-7WBZ2kkhZ7JorWu2.htm)|Bloodline: Undead|Lignage : Mort-vivant|changé|
 |[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|Lignage : Féerique|changé|
-|[sorcerer-01-lURKSJZAGKVD6cH9.htm](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Spell Repetoire (Sorcerer)|Répertoire de sort (Ensorceleur)|officielle|
+|[sorcerer-01-lURKSJZAGKVD6cH9.htm](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Spell Repertoire (Sorcerer)|Répertoire de sort (Ensorceleur)|changé|
 |[sorcerer-01-O0uXZRWMNliDbkxU.htm](classfeatures/sorcerer-01-O0uXZRWMNliDbkxU.htm)|Bloodline: Hag|Lignage : Guenaude|changé|
 |[sorcerer-01-o39zQMIdERWtmBSB.htm](classfeatures/sorcerer-01-o39zQMIdERWtmBSB.htm)|Bloodline: Diabolic|Lignage : Diabolique|changé|
 |[sorcerer-01-PpzH9tJULk5ksX9w.htm](classfeatures/sorcerer-01-PpzH9tJULk5ksX9w.htm)|Bloodline: Psychopomp|Lignage : Psychopompe|libre|
@@ -339,7 +342,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-07-W4iCc24gNXPY67SS.htm](classfeatures/swashbuckler-07-W4iCc24gNXPY67SS.htm)|Evasion (Swashbuckler)|Évasion (Bretteur)|libre|
 |[swashbuckler-09-KxpaxUSuBC7hr4F7.htm](classfeatures/swashbuckler-09-KxpaxUSuBC7hr4F7.htm)|Exemplary Finisher|Coup final exemplaire|libre|
 |[swashbuckler-09-U74JoAcLHTOsZG6q.htm](classfeatures/swashbuckler-09-U74JoAcLHTOsZG6q.htm)|Swashbuckler Expertise|Expertise du bretteur|libre|
-|[swashbuckler-11-13QpCrR8a8XULbJa.htm](classfeatures/swashbuckler-11-13QpCrR8a8XULbJa.htm)|Continuous Flare|Élégance continuelle|libre|
+|[swashbuckler-11-13QpCrR8a8XULbJa.htm](classfeatures/swashbuckler-11-13QpCrR8a8XULbJa.htm)|Continuous Flair|Élégance continuelle|changé|
 |[swashbuckler-11-6JYLXF2L3tq7aN5O.htm](classfeatures/swashbuckler-11-6JYLXF2L3tq7aN5O.htm)|Vigilant Senses (Swashbuckler)|Sens alertes (Bretteur)|libre|
 |[swashbuckler-13-dfmcFY6SqPMkqbQp.htm](classfeatures/swashbuckler-13-dfmcFY6SqPMkqbQp.htm)|Weapon Mastery (Swashbuckler)|Maîtrise martiale (Bretteur)|libre|
 |[swashbuckler-13-FCWt3xFQeINVY8JW.htm](classfeatures/swashbuckler-13-FCWt3xFQeINVY8JW.htm)|Light Armor Expertise (Swashbuckler)|Expertise avec les armures légères (Bretteur)|libre|

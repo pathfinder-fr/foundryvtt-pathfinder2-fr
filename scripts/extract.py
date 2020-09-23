@@ -140,7 +140,8 @@ for p in packs:
       if existing[id]['status'] != 'aucune':
         print("File cannot be safely removed! %s" % filename)
         print("Please fix manually!")
-        exit(1)
+        #exit(1)
+        os.remove(filename)
       else:
         os.remove(filename)
   

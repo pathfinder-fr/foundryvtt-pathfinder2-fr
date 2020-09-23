@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-09-23 17:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-23 17:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -1327,6 +1327,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vrykolakas Master](pathfinder-bestiary-2/j43O2vBu8eu2wC5z.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.j43O2vBu8eu2wC5z]`|
 |[Vrykolakas Spawn](pathfinder-bestiary-2/8IyfadYYpYXBvlXN.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.8IyfadYYpYXBvlXN]`|
 |[Water Orm](pathfinder-bestiary-2/64sdDzjLWu2W2R2e.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.64sdDzjLWu2W2R2e]`|
+|[Water Yai](pathfinder-bestiary-2/R0dyG06kbNYiCqRW.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.R0dyG06kbNYiCqRW]`|
 |[Wereboar](pathfinder-bestiary-2/vjEHKCgMunMHKl7r.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.vjEHKCgMunMHKl7r]`|
 |[Weretiger](pathfinder-bestiary-2/SYaC46yrqcyp16Dq.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.SYaC46yrqcyp16Dq]`|
 |[Witchfire](pathfinder-bestiary-2/6xioRweZ0T4o4X9e.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.6xioRweZ0T4o4X9e]`|
@@ -1562,7 +1563,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Combat Flexibility](classfeatures/fighter-09-8g6HzARbhfcgilP8.htm)|Flexibilité martiale|`@Compendium[pf2e.classfeatures.8g6HzARbhfcgilP8]`|
 |[Composition Spells](classfeatures/None-00-s0VbbQJNlSgPocui.htm)|Sorts de composition|`@Compendium[pf2e.classfeatures.s0VbbQJNlSgPocui]`|
 |[Confident Finisher](classfeatures/swashbuckler-01-pyo0vmxUFIFX2GNl.htm)|Coup final assuré|`@Compendium[pf2e.classfeatures.pyo0vmxUFIFX2GNl]`|
-|[Continuous Flare](classfeatures/swashbuckler-11-13QpCrR8a8XULbJa.htm)|Élégance continuelle|`@Compendium[pf2e.classfeatures.13QpCrR8a8XULbJa]`|
+|[Continuous Flair](classfeatures/swashbuckler-11-13QpCrR8a8XULbJa.htm)|Élégance continuelle|`@Compendium[pf2e.classfeatures.13QpCrR8a8XULbJa]`|
 |[Cosmos Mystery](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Mystère du cosmos|`@Compendium[pf2e.classfeatures.RI2EMRBBPNSoTJXu]`|
 |[Curse Patron](classfeatures/witch-01-NAXRmMjj0gcyD7ie.htm)|Patron : Malédiction|`@Compendium[pf2e.classfeatures.NAXRmMjj0gcyD7ie]`|
 |[Debilitating Strikes](classfeatures/rogue-09-9SruVg2lZpNaYLOB.htm)|Frappes incapacitantes|`@Compendium[pf2e.classfeatures.9SruVg2lZpNaYLOB]`|
@@ -1590,7 +1591,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Druid Weapon Expertise](classfeatures/druid-11-Ra32tlqBxHzT6fzN.htm)|Expertise avec les armes de druide|`@Compendium[pf2e.classfeatures.Ra32tlqBxHzT6fzN]`|
 |[Druidic Language](classfeatures/druid-01-RiAGlnnp4S21BAG3.htm)|Le druidique|`@Compendium[pf2e.classfeatures.RiAGlnnp4S21BAG3]`|
 |[Eldritch Trickster Racket](classfeatures/rogue-01-D8qtAo2w4jsqjBrM.htm)|Traffic de roublard : Mystificateur|`@Compendium[pf2e.classfeatures.D8qtAo2w4jsqjBrM]`|
-|[Empiricism Methology](classfeatures/investigator-01-g3mNzNphtVxyR9Xr.htm)|Méthodologie : empirisme|`@Compendium[pf2e.classfeatures.g3mNzNphtVxyR9Xr]`|
+|[Empiricism Methodology](classfeatures/investigator-01-g3mNzNphtVxyR9Xr.htm)|Méthodologie : empirisme|`@Compendium[pf2e.classfeatures.g3mNzNphtVxyR9Xr]`|
 |[Enigma (Bard Muse)](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Énigmatique|`@Compendium[pf2e.classfeatures.4ripp6EfdVpS0d60]`|
 |[Eternal Confidence](classfeatures/swashbuckler-19-ypfT3iybew6ZSIUl.htm)|Confiance éternelle|`@Compendium[pf2e.classfeatures.ypfT3iybew6ZSIUl]`|
 |[Evasion (Alchemist)](classfeatures/alchemist-15-N9qTieoFl1nXXlsl.htm)|Évasion (Alchimiste)|`@Compendium[pf2e.classfeatures.N9qTieoFl1nXXlsl]`|
@@ -1612,7 +1613,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fate Patron](classfeatures/witch-01-qMZiTugiLCEmkg8h.htm)|Patron : Destin|`@Compendium[pf2e.classfeatures.qMZiTugiLCEmkg8h]`|
 |[Fencer Style](classfeatures/swashbuckler-01-Jgid6Ja6Y879COlN.htm)|Style : escrimeur|`@Compendium[pf2e.classfeatures.Jgid6Ja6Y879COlN]`|
 |[Fervor Patron](classfeatures/witch-01-4IfYHrQMosJNM8hv.htm)|Patron : Ferveur|`@Compendium[pf2e.classfeatures.4IfYHrQMosJNM8hv]`|
-|[Field Discovery (Bomber)](classfeatures/alchemist-13-8QAFgy9U8PxEa7Dw.htm)|Découverte de domaine de recherche (Artificier)|`@Compendium[pf2e.classfeatures.8QAFgy9U8PxEa7Dw]`|
+|[Field Discovery (Bomber)](classfeatures/alchemist-05-8QAFgy9U8PxEa7Dw.htm)|Découverte de domaine de recherche (Artificier)|`@Compendium[pf2e.classfeatures.8QAFgy9U8PxEa7Dw]`|
 |[Field Discovery (Chirurgeon)](classfeatures/alchemist-05-qC0Iz6SlG2i9gv6g.htm)|Découverte de domaine de recherche (Chirurgien)|`@Compendium[pf2e.classfeatures.qC0Iz6SlG2i9gv6g]`|
 |[Field Discovery (Mutagenist)](classfeatures/alchemist-05-V4Jt7eDnJBLv5bDj.htm)|Découverte de domaine de recherche (Mutagèniste)|`@Compendium[pf2e.classfeatures.V4Jt7eDnJBLv5bDj]`|
 |[Field Discovery (Toxicologist)](classfeatures/alchemist-05-6zo2PJGYoig7nFpR.htm)|Découverte de domaine de recherche (Toxicologiste)|`@Compendium[pf2e.classfeatures.6zo2PJGYoig7nFpR]`|
@@ -1622,6 +1623,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Flurry of Blows](classfeatures/monk-01-NLHHHiAcdnZ5ohc2.htm)|Déluge de coups|`@Compendium[pf2e.classfeatures.NLHHHiAcdnZ5ohc2]`|
 |[Focus Spells](classfeatures/None-00-T25ZLQWn6O4KchLo.htm)|Sorts focalisés|`@Compendium[pf2e.classfeatures.T25ZLQWn6O4KchLo]`|
 |[Forensic Medicine Methodology](classfeatures/investigator-01-O3IX7rTxXWWvDVM3.htm)|Méthodologie : Médecine forensique|`@Compendium[pf2e.classfeatures.O3IX7rTxXWWvDVM3]`|
+|[Formula Book (Alchemist)](classfeatures/alchemical-01-1eWDNcWSlNoU0L67.htm)||`@Compendium[pf2e.classfeatures.1eWDNcWSlNoU0L67]`|
 |[Fury Instinct](classfeatures/barbarian-01-k7M9jedvt31AJ5ZR.htm)|Instinct de la furie|`@Compendium[pf2e.classfeatures.k7M9jedvt31AJ5ZR]`|
 |[Giant Instinct](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Instinct de géant|`@Compendium[pf2e.classfeatures.JuKD6k7nDwfO0Ckv]`|
 |[Graceful Legend](classfeatures/monk-17-JWDfzYub3JfuEtth.htm)|Légende gracieuse|`@Compendium[pf2e.classfeatures.JWDfzYub3JfuEtth]`|
@@ -1802,8 +1804,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Slippery Mind](classfeatures/rogue-17-xmZ7oeTDcQVXegUP.htm)|Esprit fuyant|`@Compendium[pf2e.classfeatures.xmZ7oeTDcQVXegUP]`|
 |[Sneak Attack](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Attaque sournoise|`@Compendium[pf2e.classfeatures.j1JE61quDxdge4mg]`|
 |[Sorcerer Spellcasting](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)||`@Compendium[pf2e.classfeatures.gmnx7e1g08bppbqt]`|
+|[Spell Repertoire (Bard)](classfeatures/bard-01-6FsusoMYxxjyIkVh.htm)||`@Compendium[pf2e.classfeatures.6FsusoMYxxjyIkVh]`|
 |[Spell Repertoire (Oracle)](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Répertoire de sorts (Oracle)|`@Compendium[pf2e.classfeatures.cFe6vFb3gSDyNeS9]`|
-|[Spell Repetoire (Sorcerer)](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Répertoire de sort (Ensorceleur)|`@Compendium[pf2e.classfeatures.lURKSJZAGKVD6cH9]`|
+|[Spell Repertoire (Sorcerer)](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Répertoire de sort (Ensorceleur)|`@Compendium[pf2e.classfeatures.lURKSJZAGKVD6cH9]`|
 |[Spirit Instinct](classfeatures/barbarian-01-TQqv9Q5mB4PW6LH9.htm)|Instinct spirituel|`@Compendium[pf2e.classfeatures.TQqv9Q5mB4PW6LH9]`|
 |[Storm](classfeatures/druid-01-acqqlYmti8D9QJi0.htm)|Tempête|`@Compendium[pf2e.classfeatures.acqqlYmti8D9QJi0]`|
 |[Strategic Strike](classfeatures/investigator-01-2Fe4YZCvAr9Yf6w7.htm)|Frappe stratégique|`@Compendium[pf2e.classfeatures.2Fe4YZCvAr9Yf6w7]`|
@@ -1814,6 +1817,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Swashbuckler's Style](classfeatures/swashbuckler-01-beW1OqibVQ3fBvRw.htm)|Style du bretteur|`@Compendium[pf2e.classfeatures.beW1OqibVQ3fBvRw]`|
 |[Swift Prey](classfeatures/ranger-19-bBGb1LcffXEqar0p.htm)|Changement rapide de proie|`@Compendium[pf2e.classfeatures.bBGb1LcffXEqar0p]`|
 |[Tempest Mystery](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Mystère de la tempête|`@Compendium[pf2e.classfeatures.W9cF7wZztLDb1WGY]`|
+|[The Tenets of Evil](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)||`@Compendium[pf2e.classfeatures.JiY2ZB4FkK8RJm4T]`|
 |[The Tenets of Good](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|Les principes du bien|`@Compendium[pf2e.classfeatures.nxZYP3KGfTSkaW6J]`|
 |[Thief Racket](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Trafic de roublard : Voleur|`@Compendium[pf2e.classfeatures.wAh2riuFRzz0edPl]`|
 |[Third Path to Perfection](classfeatures/monk-15-1m401NddgIh9llnJ.htm)|Troisème voie vers la Perfection|`@Compendium[pf2e.classfeatures.1m401NddgIh9llnJ]`|
@@ -3666,7 +3670,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sense Good](feats/class-08-bPqRneuJPqeXc65G.htm)||`@Compendium[pf2e.feats-srd.bPqRneuJPqeXc65G]`|
 |[Sense The Unseen](feats/class-14-DM9rjXZrmx2MFX7k.htm)||`@Compendium[pf2e.feats-srd.DM9rjXZrmx2MFX7k]`|
 |[Sense Thoughts](feats/ancestry-09-LRBzEzpS19z3Eghd.htm)|Perception des pensées|`@Compendium[pf2e.feats-srd.LRBzEzpS19z3Eghd]`|
-|[Sense the Unseen](feats/class-14-5Df6b9d0QGYVSCX0.htm)|Sentir l’invisible (Rôdeur)|`@Compendium[pf2e.feats-srd.5Df6b9d0QGYVSCX0]`|
 |[Sentinel Dedication](feats/archetype-02-8foxmfC6FFT3oYpV.htm)||`@Compendium[pf2e.feats-srd.8foxmfC6FFT3oYpV]`|
 |[Settlement Scholastics](feats/skill-04-R7BO8br4BjCmpjit.htm)||`@Compendium[pf2e.feats-srd.R7BO8br4BjCmpjit]`|
 |[Shadow Hunter](feats/class-18-f1acyuIGYVp2BpKc.htm)|Chasseur de l'ombre|`@Compendium[pf2e.feats-srd.f1acyuIGYVp2BpKc]`|
@@ -5861,7 +5864,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Green Dragon's Breath Potion (Adult)](equipment/consumable-12-eV0owvv0lYQph0nn.htm)|Potion de souffle du dragon vert adulte|`@Compendium[pf2e.equipment-srd.eV0owvv0lYQph0nn]`|
 |[Green Dragon's Breath Potion (Wyrm)](equipment/consumable-17-OJvCWeJPHEc7GpFG.htm)|Potion de souffle de dracosire vert|`@Compendium[pf2e.equipment-srd.OJvCWeJPHEc7GpFG]`|
 |[Green Dragon's Breath Potion (Young)](equipment/consumable-07-vvgCQzWkScCzte7K.htm)|Potion de souffle du jeune dragon vert|`@Compendium[pf2e.equipment-srd.vvgCQzWkScCzte7K]`|
-|[Green Gut](equipment/consumable-17-qvAtAv211cVqktgU.htm)||`@Compendium[pf2e.equipment-srd.qvAtAv211cVqktgU]`|
+|[Greengut](equipment/consumable-17-qvAtAv211cVqktgU.htm)||`@Compendium[pf2e.equipment-srd.qvAtAv211cVqktgU]`|
 |[Grievous](equipment/equipment-09-qUnDHEXteUQGE8yp.htm)|Douloureuse (rune)|`@Compendium[pf2e.equipment-srd.qUnDHEXteUQGE8yp]`|
 |[Grim Trophy](equipment/consumable-07-eEIWjTvZyKsKhYaz.htm)|Sinistre trophée|`@Compendium[pf2e.equipment-srd.eEIWjTvZyKsKhYaz]`|
 |[Grinning Pugwampi](equipment/consumable-14-mJSCOIJllj2GtACC.htm)||`@Compendium[pf2e.equipment-srd.mJSCOIJllj2GtACC]`|

@@ -1,9 +1,9 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **aucune**: 322
+ * **aucune**: 323
 
 
-Dernière mise à jour: 2020-09-23 17:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-23 17:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -216,6 +216,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[qjAtPDIi7OyUGsNy.htm](pathfinder-bestiary-2/qjAtPDIi7OyUGsNy.htm)|Bythos|
 |[QLY246Z6hP41LnCF.htm](pathfinder-bestiary-2/QLY246Z6hP41LnCF.htm)|Belker|
 |[QR3AC4mkpfz6KPSh.htm](pathfinder-bestiary-2/QR3AC4mkpfz6KPSh.htm)|Cythnigot|
+|[R0dyG06kbNYiCqRW.htm](pathfinder-bestiary-2/R0dyG06kbNYiCqRW.htm)|Water Yai|
 |[R0YrD0izubtQYbTU.htm](pathfinder-bestiary-2/R0YrD0izubtQYbTU.htm)|Leprechaun|
 |[r3yLNfqS00g8sdrT.htm](pathfinder-bestiary-2/r3yLNfqS00g8sdrT.htm)|Duneshaker Solifugid|
 |[r5i3MkSNgNBYa5Cm.htm](pathfinder-bestiary-2/r5i3MkSNgNBYa5Cm.htm)|Filth Fire|

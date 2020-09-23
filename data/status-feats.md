@@ -2,11 +2,11 @@
 
  * **libre**: 146
  * **changé**: 443
- * **officielle**: 632
+ * **officielle**: 631
  * **aucune**: 892
 
 
-Dernière mise à jour: 2020-09-23 17:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-23 17:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -1821,7 +1821,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-14-3r5rg0BCqSh5RBNS.htm](feats/class-14-3r5rg0BCqSh5RBNS.htm)|Specialized Companion (Druid)|Compagnon spécialisé (Druide)|officielle|
 |[class-14-5cxkVY3mBsbYWd5K.htm](feats/class-14-5cxkVY3mBsbYWd5K.htm)|Timeless Body|Éternelle jeunesse|officielle|
 |[class-14-5dAFkOYPz8PPdFrw.htm](feats/class-14-5dAFkOYPz8PPdFrw.htm)|Leave an Opening|Laisser une ouverture|changé|
-|[class-14-5Df6b9d0QGYVSCX0.htm](feats/class-14-5Df6b9d0QGYVSCX0.htm)|Sense the Unseen|Sentir l’invisible (Rôdeur)|changé|
 |[class-14-5NyX1WnXEO40yEaT.htm](feats/class-14-5NyX1WnXEO40yEaT.htm)|Wyrmbane Aura|Aura anti-draconique|officielle|
 |[class-14-6gtm0YCaDFpyVy35.htm](feats/class-14-6gtm0YCaDFpyVy35.htm)|Warden's Guidance|Directive du protecteur|changé|
 |[class-14-9t6Kfk8Yw8WJYY8Z.htm](feats/class-14-9t6Kfk8Yw8WJYY8Z.htm)|Guiding Finish|Final directif|officielle|
@@ -1982,7 +1981,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[classfeature-01-rbiMK71SvGZGRLJ1.htm](feats/classfeature-01-rbiMK71SvGZGRLJ1.htm)|Rain of Embers Stance|Posture de la pluie de charbons ardents|changé|
 |[general-01-2kwXTUjYYhoAGySr.htm](feats/general-01-2kwXTUjYYhoAGySr.htm)|Incredible Initiative|Initiative extraordinaire|officielle|
 |[general-01-aJUXbe9HJVvv0Mxa.htm](feats/general-01-aJUXbe9HJVvv0Mxa.htm)|Breath Control|Contrôle de la respiration|officielle|
-|[general-01-AmP0qu7c5dlBSath.htm](feats/general-01-AmP0qu7c5dlBSath.htm)|Toughness|Robustesse|officielle|
+|[general-01-AmP0qu7c5dlBSath.htm](feats/general-01-AmP0qu7c5dlBSath.htm)|Toughness|Robustesse|changé|
 |[general-01-BStw1cANwx5baL6d.htm](feats/general-01-BStw1cANwx5baL6d.htm)|Armor Proficiency|Maîtrise d’armure|officielle|
 |[general-01-c9fHUSI5lRdXu1Ic.htm](feats/general-01-c9fHUSI5lRdXu1Ic.htm)|Feather Step|Pas de plume|officielle|
 |[general-01-I0BhPWqYf1bbzEYg.htm](feats/general-01-I0BhPWqYf1bbzEYg.htm)|Diehard|Dur à cuir|changé|
