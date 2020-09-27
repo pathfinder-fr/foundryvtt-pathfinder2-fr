@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **officielle**: 393
+ * **officielle**: 394
  * **libre**: 9
- * **aucune**: 398
+ * **aucune**: 397
  * **changé**: 46
 
 
-Dernière mise à jour: 2020-09-23 17:58 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-27 13:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -193,7 +193,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-10-6s0UW4bujggma9TC.htm](spells/enc-10-6s0UW4bujggma9TC.htm)|Fabricated Truth|
 |[enc-10-Um0aaJotqMKGmAlR.htm](spells/enc-10-Um0aaJotqMKGmAlR.htm)|Pied Piping|
 |[evo-00-cE7PRAX8Up7fmYef.htm](spells/evo-00-cE7PRAX8Up7fmYef.htm)|Shroud of Night|
-|[evo-00-qwZBXN6zBoB9BHXE.htm](spells/evo-00-qwZBXN6zBoB9BHXE.htm)|Divine Lance|
 |[evo-01-1meVElIu1CEVYWkv.htm](spells/evo-01-1meVElIu1CEVYWkv.htm)|Noxious Vapors|
 |[evo-01-6UafOE1ZUbHamsZJ.htm](spells/evo-01-6UafOE1ZUbHamsZJ.htm)|Dim the Light|
 |[evo-01-7CUgqHunmHfW2lC5.htm](spells/evo-01-7CUgqHunmHfW2lC5.htm)|Parch|
@@ -636,6 +635,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-00-O9w7r4BKgPogYDDe.htm](spells/evo-00-O9w7r4BKgPogYDDe.htm)|Produce Flame|Flammes|changé|
 |[evo-00-pwzdSlJgYqN7bs2w.htm](spells/evo-00-pwzdSlJgYqN7bs2w.htm)|Mage Hand|Manipulation à distance|officielle|
 |[evo-00-Qw3fnUlaUbnn7ipC.htm](spells/evo-00-Qw3fnUlaUbnn7ipC.htm)|Prestidigitation|Prestidigitation|officielle|
+|[evo-00-qwZBXN6zBoB9BHXE.htm](spells/evo-00-qwZBXN6zBoB9BHXE.htm)|Divine Lance|Lance divine|officielle|
 |[evo-00-WBmvzNDfpwka3qT4.htm](spells/evo-00-WBmvzNDfpwka3qT4.htm)|Light|Lumière|officielle|
 |[evo-01-0H1ozccQGGFLUwFI.htm](spells/evo-01-0H1ozccQGGFLUwFI.htm)|Cry of Destruction|Cri de destruction|officielle|
 |[evo-01-0JUOgbbFCapp3HlW.htm](spells/evo-01-0JUOgbbFCapp3HlW.htm)|Elemental Toss|Projectile élémentaire|officielle|

@@ -1212,6 +1212,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.LLQ5SO2c44uXDFJk]{Queue fouet}<br><strong>Requirements</strong> Vous avez une queue complètement poussée.<br><strong>Déclencheur</strong> Vous devenez @Compendium[pf2e.conditionspf2e.kWc1fhmv9LBiTuei]{empoigné}.<br></span></p>\n<hr>\n<p>Vous pouvez abandonner votre queue pour pouvoir vous échapper. Vous cessez d'être empoigné, puis @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} sans déclencher la moindre réaction de la part de la créature qui vous a empoigné. Il faut 1 semaine pour que votre queue repousse complètement. Jusqu'à ce que ce soit le cas, vous ne pouvez plus faire d'attaques à mains nues avec votre queue et vous subissez une pénalité de circonstance de –2 sur les tests pour @Compendium[pf2e.actionspf2e.M76ycLAqHoAgbcej]{Garder l'équilibre}.&nbsp;</p>"
         },
         {
+            "id": "Energy Fusion",
+            "name": "Energy Fusion",
+            "description": "<p>Vous fusionnez deux sorts ensemble, en combinant leurs types d'énergie.</p>\n<p>Si la prochaine action que vous utilisez consiste à Lancer un sort qui inflige des dégâts d'acide, de froid, d'électricité, de feu ou de son, sélectionnez dans votre répertoire de sorts un sort qui n'est pas un tour de magie et qui inflige un type de dégâts d'énergie différent de celui de cette liste et dépensez un emplacement supplémentaire du même niveau que ce second sort.</p>\n<p>Le sort que vous lancez inflige des dégâts supplémentaires égaux au niveau de l'emplacement du second sort utilisé. Le total des dégâts du sort est divisé de manière égale entre le type d'énergie du sort que vous lancez et le type d'énergie du deuxième sort.</p>"
+        },
+        {
             "id": "Automatic Knowledge",
             "name": "Automatic Knowledge",
             "description": "<p><strong>Prérequis</strong> expert dans une compétence avec l’action Se souvenir, Assurance dans cette compétence</p>\n<hr>\n<p>Vous connaissez des faits de base par coeur. Choisissez une compétence dans laquelle vous êtes expert, qui possède l’action Se souvenir et pour laquelle vous possédez le don Assurance. Vous pouvez utiliser l’action Se souvenir avec cette compétence comme un action gratuite une fois par round. Si vous le faites, vous devez utiliser Assurance au test de compétence.</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois en choisissant une nouvelle compétence à chaque fois. Vous pouvez utiliser Savoir automatique avec toutes les compétences que vous avez choisies, mais vous ne pouvez toujours utiliser Savoir automatique qu’une seule fois par round.</p>"
@@ -1424,7 +1429,7 @@
         {
             "id": "Ki Rush",
             "name": "Ki Rush",
-            "description": "<p>Vous pouvez utiliser le ki pour vous déplacer à une vitesse incroyable et pour compliquer la tâche de ceux qui veulent vous frapper. Vous obtenez le sort ki ruée ki et une réserve contenant 1 point de focalisation. Les règles sur les sorts ki sont résumées dans l’encadré de la page 169 et les règles complètes sur les sorts focalisés à la page 300.</p>"
+            "description": "<p>Vous pouvez utiliser le ki pour vous déplacer à une vitesse incroyable et pour compliquer la tâche de ceux qui veulent vous frapper. Vous obtenez le sort ki ruée ki et une réserve contenant 1 point de focalisation.</p>"
         },
         {
             "id": "Natural Medicine",
@@ -1480,6 +1485,11 @@
             "id": "Ironblood Surge",
             "name": "Ironblood Surge",
             "description": "<p><strong>Prérequis</strong> Ironblood Stance</p>\n<p><strong>Conditions.</strong> Vous êtes dans la Posture du sang-de-fer</p>\n<hr>\n<p>Vous vous cuirassez en vous apprêtant à encaisser des attaques imminentes et à utiliser vos muscles pour absorber les impacts. Vous bénéficiez des avantages du trait parade de votre balayage de fer (qui vous confère un bonus de circonstances de +1 à la CA jusqu’au début de votre prochain tour) et la résistance conférée par la Posture du sang-de-fer est à présent égale à votre modificateur de Force (s’il est plus élevé) pendant la même durée.</p>"
+        },
+        {
+            "id": "Consume Spell",
+            "name": "Consume Spell",
+            "description": "p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.deoHKUzpzT7iwWhL]{Contresort}</p>\n<hr />\n<p>Lorsque vous réussissez à contrer un sort de la tradition qui correspond à votre lignage, vous le consommez, en vous réapprovisionnant en énergie. Vous êtes alors nourri comme si vous aviez mangé un repas et vous gagnez des points de vie correspondant au double du niveau du sort contré.</p>"
         },
         {
             "id": "Halcyon Spellcasting Initiated",
@@ -1762,6 +1772,11 @@
             "description": "<div><strong>Archétype </strong>@Compendium[pf2e.archetypes.bi1SeBS7Af3ZisIA]{Maître des épées}</div>\n<div><span><strong>Prérequis</strong> dévouement de Maître des épées <br><strong>déclencheur</strong> Un ennemi obtient un Succès critique avec une Frappe portée contre un allié adjacent.<br></span></div>\n<hr>\n<p>Vous vous êtes entraîné à protéger vos alliés en détournant les pires attaques sur vous-même. L'ennemi ne double pas les dégâts de la Frappe qui déclenche mais applique seulement les dégâts normaux à la fois à vous et à votre allié. L'un comme l'autre subissez tout effet qui découle de cette Frappe qui inflige des dégâts, comme le poison, mais aucun d'entre vous n'est sujet à des effets qui surviendraient seulement sur un succès critique.</p>"
         },
         {
+            "id": "Ancestral Mage",
+            "name": "Ancestral Mage",
+            "description": "<p><strong>Prérequis </strong>@Compendium[pf2e.feats-srd.avCmIwmwJH7d7gri]{Magie du sang ancestral}</p>\n<hr>\n<p>La magie de vos ancêtres et de votre lignage ne font qu'une. Ajoute tous les sorts innés issu d'une acsendance ou d'un don d'héritage à votre répertoire de sort, ce qui vous permet de les lancer en utilisant vos emplacements de sort.</p>"
+        },
+        {
             "id": "Directional Bombs",
             "name": "Directional Bombs",
             "description": "<p>Vous pouvez lancer vos bombes avec une telle force et une telle précision que leur zone d’éclaboussure prend la forme d’un cône unidirectionnel. Quand vous lancez une bombe alchimique qui possède le trait éclaboussure, au lieu d’éclabousser toutes les cases adjacentes à la cible, vous pouvez considérer que l’espace occupé par votre cible est la première case affectée d’un cône de 4,50 m qui s’éloigne de vous. Vous pouvez ainsi réduire les risques de toucher vos alliés et peut‑être pénétrer plus avant les lignes ennemies. Si la cible occupe plus d’une seule case, la case la plus proche de vous est alors la première case affectée par le cône.</p>"
@@ -1917,6 +1932,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Fréquence</strong> une fois par jour<br><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.tFgsBRsEo9ZEA5fU]{Perception des illusions}<br><strong>Déclencheur</strong> Votre tour commence.<br></span></p>\n<hr>\n<p>La magie d'illusion vous vient si naturellement que vous pouvez sans effort maintenir vos ruses magiques. Vous obtenez immédiatement les effets de l'action @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Maintenir un sort} pour étendre la durée d'un de vos sorts d'illusion actifs.&nbsp;</p>"
         },
         {
+            "id": "Bloodline Mutation",
+            "name": "Bloodline Mutation",
+            "description": "<p><strong>Prérequis</strong> un lignage basé sur un type de créature spécifique</p>\n<p>Vous mutez de façon permanente pour ressembler davantage aux créatures de votre lignage. Vous obtenez le ou les traits appropriés pour ce type de créatures (aberration pour aberrant, ange et céleste pour angélique, psychopompe pour psychopompe et ainsi de suite).</p>\n<p>Vous obtenez la vision nocturne ou la vision dans le noir, si cela est approprié pour les créatures possédant ces traits.</p>\n<p>Choisissez l'une des options suivantes.</p>\n<ul>\n<li>Si les créatures associées à votre lignage ont la capacité de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Voler}, vous gagnez une Vitesse de vol égale à votre Vitesse.</li>\n<li>Si les créatures associées à votre lignage sont aquatiques ou amphibiennes, vous devenez amphibien, capable de respirer aussi bien sous l'eau qu'à l'air libre, et vous gagnez une Vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{nage} égale à votre Vitesse.</p>\n<li>Si les créatures associées à votre lignage ont une résistance ou une immunité à l'acide, au froid, à l'électricité, au feu, au effets négatifs ou au son, choisissez un type d'énergie contre lequel votre lignage est immunisée ou résistant et obtenez une résistance 20 contre ce type d'énergie.</li>\n</ul>"
+        },
+        {
             "id": "Skirmish Strike",
             "name": "Skirmish Strike",
             "description": "<p>Vos pieds et vos armes bougent de concert. Vous avez le choix entre Faire un pas puis Frapper, ou Frapper puis Faire un pas.</p>"
@@ -1982,6 +2002,11 @@
             "description": "<p><strong>Prérequis </strong> Vision perçante ou vision dans le noir</p>\n<hr>\n<p>Quand vous êtes enragé, votre odorat s’affine. Vous gagnez odorat imprécis avec une portée de 9 m</p>"
         },
         {
+            "id": "Scintillating Spell",
+            "name": "Scintillating Spell",
+            "description": "<p>Vos sorts se transforment en éclats de lumière et de couleur.</p>\n<p>Si votre prochaine action consiste à Lancer un sort qui n'a pas le trait ténèbres, qui n'a pas de durée et qui oblige les créatures à tenter un jet de sauvegarde de Réflexes, le sort explose en un jet de lumières scintillantes, en plus de ses autres effets.</p>\n</p>Chaque créature qui a échoué à son jet de sauvegarde de Réflexes contre le sort est @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{Éblouie} pendant un tour et celles qui ont échoué de manière critique sont @Compendium[pf2e.conditionspf2e.XgEqL1kFApUbl5Z2]{Aveuglées} pendant un tour.</p>"
+        },
+        {
             "id": "Primal Wellspring",
             "name": "Primal Wellspring",
             "description": "<p><strong>Prérequis</strong> Focalisation primordiale</p>\n<hr>\n<p>Votre réserve de points de focalisation est une source abondante. Si vous avez dépensé au moins 3 points de focalisation depuis votre dernière Refocalisation, vous récupérez 3 points de focalisation au lieu de 1 lorsque vous vous Refocalisez</p>"
@@ -2030,6 +2055,11 @@
             "id": "Diamond Soul",
             "name": "Diamond Soul",
             "description": "<p>Vous avez fortifié votre corps et votre esprit pour qu’ils résistent aux effets surnaturels. Vous bénéficiez d’un bonus de statut de +1 aux jets de sauvegarde contre la magie.</p>"
+        },
+        {
+            "id": "Entreat With Forebears",
+            "name": "Entreat With Forebears",
+            "description": "<p><strong>Prérequis </strong>un lignage qui correspond à un trait de créature</p>\n<hr>\n<p>Quelque chose en vous fait que les créatures de votre lignage, consciemment ou non, vous reconnaissent comme l'un des leurs et vous\nêtes immunisé à leurs ruses.</p>\n<p>Vous gagnez un bonus de circonstances de +1 aux tests de Diplomatie, de Duperie et d'Intimidation lorsque vous interagissez avec des créatures qui ont le trait correspondant à votre lignage, et vous gagnez un bonus de circonstances de +1 aux tests de Perception et aux\njets de sauvegarde contre ces créatures. Par exemple, un sorcier du lignage Aberrant obtiendrait ce bonus contre les créatures ayant le trait Aberration. Le MJ détermine quelles créatures correspondent à votre lignage.</p>"
         },
         {
             "id": "Golden Body",
@@ -2352,6 +2382,16 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Déclencheur</strong> Vous tentez un jet de sauvegarde contre un sort ou un effet magique, mais n'avez pas encore lancé le dé.<br></span></p>\n<hr>\n<p>Vous remarquez des esprits qui habitent les objets, apprenant à distinguer entre ceux qui apportent la chance ou la malchance. Vous vous concentrez sur le pouvoir d'un objet chanceux, ce qui vous fait bénéficier d'un bonus de circonstance de +1 à votre jet de rpotection contre l'effet déclencheur.&nbsp;</p>"
         },
         {
+            "id": "Greater Physical Evolution",
+            "name": "Greater Physical Evolution",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.qxh4evekG28Gt1vj]{Évolution arcanique} ou @Compendium[pf2e.feats-srd.K3TasgeZLJQ84qtZ]{Évolution primordiale}</p>\n<hr>\n<p>Vous avez une compréhension fondamentale des structures innées du monde physique et vous pouvez imposer votre volonté à cette structure en ce qui concerne votre propre sang.</p>\n<p>Une fois par jour, vous pouvez utiliser un emplacement de sort d'ensorceleur pour lancer n'importe quel sort de métamorphose de forme de combat commun d'un niveau de l'emplacement de sort comme s'il s'agissait d'un sort emblématique de votre répertoire.</p>\n<p> Si vous disposez de l'Évolution Arcanique, vous pouvez également choisir n'importe quel sort de forme de combat de votre livre de sorts.</p>\n<p>Si vous avez l'Évolution Primordiale, vous pouvez Lancer un sort gurant dans ce don en utilisant l'emplacement de sort supplémentaire que le don vous accorde (au lieu d'un emplacement de sort d'ensorceleur).</p>"
+        },
+        {
+            "id": "Greater Spiritual Evolution",
+            "name": "Greater Spiritual Evolution",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.WHOCaVobY7N3UTtA]{Évolution divine} ou @Compendium[pf2e.feats-srd.lL2fQJ2oRyBgga8Q]{Évolution occulte}</p>\n<hr>\n<p>Votre sang magique est riche en essence spirituelle et cette imprégnation permet à vos sorts d'être pleinement efficaces contre les créatures incorporelles, les esprits et les créatures du Plan Éthéré.</p>\n<p>Vos sorts ont les effets d'une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale}. Ils peuvent cibler ou affecter une créature utilisant projetant sa conscience (comme avec @Compendium[pf2e.spells-srd.0873MWM0qKDDv81O]{Projection d'image}) ou possédant une autre créature, même si son corps est ailleurs, bien que vous deviez savoir que la créature est possédé ou de la projection et choisir de procéder de la sorte. Vos sorts peuvent affecter les créatures sur le Plan Éthéré, mais cela ne vous donne aucune capacité particulière pour les localiser.</p>"
+        },
+        {
             "id": "Darkseer",
             "name": "Darkseer",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Voyant pénombral<br></span></p>\n<hr>\n<p>@Compendium[pf2e.deities.ZfN7jkK6boU1FuiS]{Zon-Kuthon} vous sourit — même si vous maudissez son nom — et vous accorde des yeux complètement noirs qui vous permettent de voir dans les ombres et l'obscurité. Vous obtenez <a href=\"https://2e.aonprd.com/Rules.aspx?ID=415\">vision dans le noir</a>.&nbsp;</p>"
@@ -2370,6 +2410,16 @@
             "id": "Improved Knockdown",
             "name": "Improved Knockdown",
             "description": "<p><strong>Prérequis</strong> Renversement</p>\n<hr>\n<p>Vous pouvez vous jeter contre votre adversaire et le renverser d’un seul coup. Quand vous utilisez Renversement, au lieu de faire une Frappe suivie d’un Croc-en-jambe, vous pouvez effectuer une seule et unique Frappe. Le cas échéant, et si votre Frappe touche, vous appliquez également l’effet de succès critique d’un Croc-en-jambe. Si vous avez utilisé une arme de corps à corps à deux mains pour Frapper, vous pouvez utiliser la taille du dé de dégâts de l’arme au lieu de celle du dé normalement utilisé pour déterminer les dégâts d’un Croc-en-jambe critique.</p>"
+        },
+        {
+            "id": "Energy Ward",
+            "name": "Energy Ward",
+            "description": "<p><strong>Fréquence</strong> une fois par tour</p>\n<p><strong>Conditions</strong> Votre dernière action a consisté à lancer un sort qui n'est pas un tour de magie qui inflige des dégâts d'énergie.</p>\n<hr>\n<p>Vous emprisonnez de l'énergie du dernier sort que vous lancez au sein de votre corps, appliquant sur votre peau une couche de protection. Jusqu'au début de votre prochain tour, vous obtenez une résistance 5 contre le type d'énergie infligé par le sort que vous venez de lancer.</p>"
+        },
+        {
+            "id": "Terraforming Spell",
+            "name": "Terraforming Spell",
+            "description": "<p>Vous capturez des fragments de magie transformatrice pour les projeter dans le sol, créant ainsi une onde de choc qui modifie votre\nenvironnement.</p>\n<p>Si votre prochaine action consiste à Lancer un sort de transmutation autre qu'un tour de magie, soit chaque espace adjacent à vous devient un terrain difficile, soit chaque espace adjacent à vous n'est plus un terrain diffcile. Cela n'a aucun effet sur les terrains très difficiles et n'élimine pas les effets néfastes des terrains dangereux.</p>"
         },
         {
             "id": "Incredible Companion (Ranger)",
@@ -2522,6 +2572,11 @@
             "description": "<p><strong>Prérequis</strong> légendaire en Duperie</p>\n<hr>\n<p>Vous utilisez la ruse pour duper vos adversaires pendant que vous vous esquivez discrètement. Vous partez Furtivement en laissant un leurre derrière vous. Le leurre se comporte comme le sort double illusoire, mais vous n’êtes pas invisible, seulement non détecté. Comme dans le cadre du sort, vous pouvez continuer de vous concentrer pour diriger votre leurre, que vous restiez ou non caché pendant la durée de l’existence du leurre. Une fois que vous avez utilisé Diversion parfaite, vous devez passer 10 min à préparer un nouveau leurre avant de pouvoir l’utiliser de nouveau.</p>"
         },
         {
+            "id": "Elaborate Flourish",
+            "name": "Elaborate Flourish",
+            "description": "<p>Vous embellissez vos sorts avec des fioritures envoûtantes et de grandes déclamations, ce qui les rend plus diciles à identifier ou à contrer</p>\n<p>Si la prochaine action que vous utilisez consiste à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort}, les créatures disposant de la capacité de Lancer ce sort ne savent pas automatiquement quel est le sort.</p>\n<p>De plus, les créatures qui sont témoins du lancement de votre sort subissent une pénalité de circonstance de -2 pour les tests pour  @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir} et aux test pour contrer le sort lors de son incantation (comme avec @Compendium[pf2e.feats-srd.EpBG4CFMNSZQx7vI]{Contresort}).</p>"
+        },
+        {
             "id": "Second Wind",
             "name": "Second Wind",
             "description": "<p>Vous pouvez entrer en rage une deuxième fois, mais vous devrez ensuite prendre le temps de souffler. Vous pouvez entrer en Rage sans attendre 1 min après la fin de votre précédente Rage (ou 1 round avec rage rapide), mais quand cette seconde Rage prend fin, vous êtes dans l’état fatigué jusqu’à ce que vous vous reposiez pendant au moins 10 min.</p>"
@@ -2605,6 +2660,11 @@
             "id": "Goblin Song",
             "name": "Goblin Song",
             "description": "<p>Vous entonnez d’agaçants chants gobelins aux paroles stupides et répétitives qui déconcentrent vos adversaires. Faites un test de Représentation contre le DD de Volonté d’un unique ennemi qui se trouve dans un rayon de 9 m. Ce test possède tous les traits et restrictions normalement associés à un test de Représentation. Vous pouvez affecter jusqu’à deux cibles à portée si vous possédez le rang de maîtrise expert en Représentation, quatre si vous possédez le rang maître et huit si vous possédez le rang légendaire.</p>\n<p><strong>Succès critique.</strong> La cible subit un malus de −1 à ses tests de Perception et à ses jets de sauvegarde de Volonté pendant 1 min.</p>\n<p><strong>Succès.</strong> La cible subit un malus de −1 à ses tests de Perception et à ses jets de sauvegarde de Volonté pendant 1 round.</p>\n<p><strong>Échec critique</strong> La cible est temporairement immunisée à vos tentatives d’utiliser le Chant gobelin pendant 1 h.</p>"
+        },
+        {
+            "id": "Soulsight",
+            "name": "Soulsight",
+            "description": "<p><strong>Prérequis (Barde)</strong>&nbsp;None</p>\n<p><strong>Prerequis (Ensorceleur)</strong> Lignage qui donne accès aux sorts divins ou occultes</p>\n<hr>\n<p>(Barde) Votre muse a ouvert vos sens au monde au-delà. </p>\n<p>Vous obtenez sens spirituel comme sens imprécis avec une portée de 18 m.</p>\n<p>(Ensorceleur) L'essence spirituelle de votre sens a ouvert vos sens au monde au-delà. Vous obtenez sens spirituel avec une portée de 18 m.</p>\n<hr>\n<p>Sens spirituel vous permet de sentir les esprits des créatures, incluant les créatures vivantes, la plupart des morts vivants intelligents et les apparitions dans la portée indiqués. Comme avec l'udition et les autres sens imprécis, Vous avez toujours besoin de @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} pour localiser une créature non détectée.</p>\n<p>Comme vision spirituelle détecte l'essence spirituelle et non les corps physiques, elle peut détecter les esprits projetés par des sorts comme @Compendium[pf2e.spells-srd.0873MWM0qKDDv81O]{Projection d'image} ou possédant les objets autrement inanimés. Elle ne peut  détecter les corps sans âme, les créatures artificielles ou les objets et comme la plupart des sens, elle ne peut passer au travers des objets solides.</p>"
         },
         {
             "id": "Litany Against Sloth",
@@ -3417,6 +3477,11 @@
             "description": "<p>Vous êtes parmi les plus communs des changelins - ceux nés d'une guenaude verte - et un oeil vert vif marque cette parenté. La nature manipulatrice de votre mère nature et sa voix polyvalente vous donne l'avantage pour duper les autres.</p>\n<p>Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.B6HbYsLBWb1RR6Fx]{Menteur charismatique}. Si vous lancez un test de Duperie pour déterminer l'initiative, les adversaires dans cette rencontre qui n'ont pas agi avant vous sont @Compendium[pf2e.conditionspf2e.AJh5ex99aV6VTggg]{Pris au dépourvu} pour ce qui vous concerne.</p>"
         },
         {
+            "id": "Energetic Resonance",
+            "name": "Energetic Resonance",
+            "description": "<p><strong>Déclencheur</strong> Vous devriez subir des dégâts d'acide, de froid, d'électricité, de feu ou de son d'un sort</p>\n<p><strong>Conditions</strong> Vous disposez d'un emplacement de sorts non utilisé d'un niveau égal ou supérieur à celui du sort déclencheur</p>\n<hr>\n<p>Votre sang résonne d'une énergie magique, atténuant les effets des sorts nuisibles.</p>\n<p>Dépensez l'un de vos emplacements de sort d'un niveau égal ou supérieur à celui du sort déclencheur. Vous gagnez une résistance à l'un des types de dégâts de l'effet déclencheur égale à deux fois le niveau de l'emplacement de sort dépensé.</p>"
+        },
+        {
             "id": "Fey Influence",
             "name": "Fey Influence",
             "description": "<p><span>Vous avez été exposé à une puissante magie féérique. Vous devenez qualifié en DD primordiaux et aux attaques de sort. Vous obtenez le trait fée et une des capacités suivantes qui vous accorde un sort primordial inné qui peut être utilisé une fois par jour. </span></p>\n<ul>\n<li><strong>Fourmilier</strong> Vous pouvez projeter votre langue devant vous pour effectuer une attaquee mortelle, obtenant @Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]{Sinistres volutes}.</li>\n<li><strong>Dryade</strong> Votre corps est couvert de vrilles élégantes,vous accordant @Compendium[pf2e.spells-srd.jSRAyd57kd4WZ4yE]{Convocation de plante ou de champignon}</li>\n<li><strong>Gremlin</strong> Vous avez de longues oreille comme une chauve souris et obtenez @Compendium[pf2e.spells-srd.7ZinJNzxq0XF0oMx]{Imprécation}</li>\n<li><strong>Monarque</strong> vous avez des vestiges de trais d'insecte et obtenez @Compendium[pf2e.spells-srd.DYdvMZ8G2LiSLVWw]{Morsure d'araignée}.</li>\n</ul>\n<p>&nbsp;Ce don obtient le trait approprié à votre ascendance (humain pour human, gobelin pour gobelin, etc.)</p>"
@@ -3782,6 +3847,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Accès</strong> nationalité Taldorienne<br><strong>Déclencheur</strong> Vous êtes affecté par un effet d'<a style=\"text-decoration: underline;\" href=\"https://2e.aonprd.com/Traits.aspx?ID=60\">émotion</a>.<br></span></p>\n<hr>\n<p>La fierté taldorienne signifie que vous ne pouvez jamais montrer la moindre faiblesse. Lancez un test de <a href=\"https://2e.aonprd.com/Skills.aspx?ID=5\">Duperie</a> et comparez son résultat au DD de Perception des créatures qui vous observent. Sur une réussite, cette créature pense que vous n'avez pas été affecté par l'effet d'émotion. Une créature trompée de cette manière ne peut bénéficier de l'effet d'émotion et ne peut utiliser les capacitésqui nécessitent que vous soyez sous cet effet d'émotion ; par exemple, si vous parvenez à utiliser cette capacité pour tromper un feu-folletde manière à lui faire croire que vous n'êtes pas sous un effet de <a href=\"https://2e.aonprd.com/Traits.aspx?ID=68\">peur</a>, il ne pourra pas utiliser sa capacité de se Nourrir de la peursur vous.&nbsp;</p>"
         },
         {
+            "id": "Echoing Spell",
+            "name": "Echoing Spell",
+            "description": "<p>Vous chronométrez les composantes de votre sort avec une précision extrême, en créant une résonance qui reproduit les effets du sort.</p>\n<p>Si votre prochaine action consiste à Lancer un sort de niveau 4 ou inférieur qui n'a pas de durée, l'énergie du sort se répercute et résonne. Vous pouvez Lancer le sort une seconde fois avant la fin de votre prochain tour sans avoir à dépenser un emplacement pour le sort.</p>"
+        },
+        {
             "id": "Light Step",
             "name": "Light Step",
             "description": "<p>Vous n’avez aucun mal à vous déplacer sur un sol inégal. Quand vous Marchez rapidement ou Faites un pas, vous pouvez ignorer le terrain difficile.</p>"
@@ -3870,6 +3940,11 @@
             "id": "Round Ears",
             "name": "Round Ears",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre ascendance elfique est si subtile que vous semblez à peine différent des autres humains et vous avez appris à utiliser cela à votre avantage. Vous obtenez le rang qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=5\">Duperie</a> (ou une autre compéteence de votre choix, si vous étiez déjà qualifié en Duperie). Vous obtenez un bonus de circonstance de +4 aux test pour vous Déguiser et prétendre que vous n'êtes pas un demi-elfe. Les observataure ne se voient jamais accorder de bonus de circonstance aux test de Perception liés au fait que vous vous Déguisez en un humain et vous ne subissez jamais de pénalités de circonstance liées au fait que vous vous Déguisez en un humain.<br><br><strong>Spécial</strong> Vous ne pouvez prendre ce don qu'au premier niveau et vous ne pouvez jamais utiliser le réapprentissage pour abandonner ce don au profit d'un autre.&nbsp;</span></p>"
+        },
+        {
+            "id": "Split Shot",
+            "name": "Split Shot",
+            "description": "<p>Vous fragmentez un sort à distance en une paire de plus petits tirs. Si votre prochaine action consiste à <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"aBQ8ajvEBByv45yz\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Lancer un sort</a> sans durée qui nécessite un jet d'attaque contre une seule cible et qui n'a pas d'autre effet que de causer des dégâts, vous lancez un seul jet d'attaque et vous comparez le résultat aux CA de deux cibles à portée du sort. Le sort n'inige que la moitié des dégâts habituels à chaque cible.</p>\n<p> Cela compte comme une attaque pour votre pénalité d'attaque multiple.</p>"
         },
         {
             "id": "Shining Oath",
@@ -4010,6 +4085,11 @@
             "id": "Bard Dedication",
             "name": "Bard Dedication",
             "description": "<p><strong>Prérequis</strong> Charisme 14</p>\n<hr>\n<p>Vous lancez des sorts comme un barde et gagnez l’activité Lancer un sort. Vous obtenez un répertoire de sorts avec deux tours de magie ordinaires issus de la liste des sorts occultes ou tout autre tour de magie que vous apprenez ou découvrez. Vous êtes qualifié dans les jets d’attaque de sorts et les DD pour les sorts occultes. Votre caractéristique d’incantation essentielle pour les sorts d’archétype barde est le Charisme, et il s’agit de sorts de barde occultes. Vous devenez qualifié en Occultisme et en Représentation ; pour chacune de ces compétences dans lesquelles vous seriez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Choisissez une muse comme vous le feriez si vous étiez un barde. Vous avez cette muse dans tous les cas de figure, ce qui vous permet de prendre les dons de cette muse, sans obtenir par ailleurs aucune des autres capacités qu’elle confère.</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Spécial</strong> Vous ne pouvez pas gagner un autre don de dévouement avant d’avoir acquis deux autres dons de l’archétype barde.</span></p>"
+        },
+        {
+            "id": "Anoint Ally",
+            "name": "Anoint Ally",
+            "description": "<p>Vous forgez une connexion mystique avec un allié en utilisant votre corps comme focalisateur, lui permettant de bénécier de votre magie. Vous placez une rune de sang sur un allié adjacent qui dure 1 minute. Lorsque vous obtenez un effet de Magie du sang, vous pouvez y renoncer et l'accorder à votre allié à la place. Vous ne pouvez oindre qu'un seul allié à la fois ; si vous placez une autre rune, votre rune précédente prend fin</p>"
         },
         {
             "id": "Relentless Stalker",
@@ -4425,6 +4505,11 @@
             "id": "To the Ends of the Earth",
             "name": "To the Ends of the Earth",
             "description": "<p><strong>Prérequis</strong> légendaire en Survie</p>\n<hr>\n<p>Votre capacité à traquer votre proie dépasse le champ du possible et vous permet de remonter sa trace et de prévoir avec facilité où elle se trouve. Quand vous utilisez Chasser votre proie sur une créature à 30 m ou moins, vous pouvez suivre ses déplacements, ce qui vous permet de savoir précisément où elle se trouve, quelle que soit la distance qui vous sépare, tant qu’elle reste votre proie. Vous devez être légendaire en Nature pour connaître l’endroit où se trouve votre proie après qu’elle s’est téléportée ou après qu’elle a utilisé un voyage planaire. Ce don obtient les traits détection, divination et primordial si vous êtes légendaire en Nature.</p>"
+        },
+        {
+            "id": "Spell Relay",
+            "name": "Spell Relay",
+            "description": "<p><strong>Déclencheur</strong> Un allié <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"aBQ8ajvEBByv45yz\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Lance un sort</a> et vous êtes dans la portée de ce sort</p>\n<hr>\n<p>Vous ouvrez le pouvoir de votre sang aux sorts de vos alliés, en utilisant votre magie pour augmenter leur portée. Votre allié peut vous utiliser comme point d'origine pour son sort, en calculant la portée et la zone en partant de votre case au lieu de la sienne.</p>"
         },
         {
             "id": "Fuse Stance",
@@ -4867,6 +4952,11 @@
             "description": "<p><strong>Prérequis</strong> Dévouement du moine</p>\n<hr>\n<p>Vous gagnez un don de moine de niveau 1 ou 2.</p>"
         },
         {
+            "id": "Blood Component Substitution",
+            "name": "Blood Component Substitution",
+            "description": "<p>Vous pouvez contourner la nécessité de faire des gestes et d'incanter en puisant de l'énergie directement dans votre sang, ce qui provoque de briller de la couleur de votre sang et de crépiter d'énergie magique. Lorsque vous @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancez un sort}, vous pouvez remplacer tous les éléments verbaux, matériels ou somatiques du sort par un élément sanguin.</p>\n<p>Pour utiliser un composant sanguin, vous perdez un nombre de points de vie égal au double du niveau du sort car l'énergie épuise  votre sang et vous ne pouvez pas diminuer les points de vie perdus de quelque manière que ce soit.</p>\n<p>Comme d'habitude lorsqu'il s'agit de modifier des composants, cela n'a aucun effet sur le nombre d'actions qui sont nécessaires pour lancer le sort et votre activité Lancer un sort gagne le trait de concentration mais pas le trait manipulation. Vous ne pouvez pas utiliser de composantes sanguines pour remplacer une partie du coût d'un sort.</p>"
+        },
+        {
             "id": "Rogue Dedication",
             "name": "Rogue Dedication",
             "description": "<p><strong>Prérequis</strong> Dextérité 14</p>\n<hr>\n<p>Vous gagnez un don de compétence et la capacité de classe attaque surprise du roublard. Vous devenez qualifié en armures légères. En outre, vous devenez qualifié en Discrétion ou en Vol, plus une compétence de votre choix ; si vous êtes déjà qualifié en Discrétion et en Vol, vous devenez à la place qualifié dans une compétence supplémentaire de votre choix. Vous devenez qualifié dans le DD de classe de roublard</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas gagner un autre don de dévouement avant d’avoir acquis deux autres dons de l’archétype roublard.</p>"
@@ -5134,7 +5224,7 @@
         {
             "id": "Divine Grace",
             "name": "Divine Grace",
-            "description": "<p><strong>Déclencheur.</strong> Vous êtes sur le point de faire un jet de sauvegarde contre un sort mais n’avez pas encore lancé le dé</p>\n<hr>\n<p>You Vous implorez la grâce de votre divinité qui vous confère un bonus de circonstances de +2 au jet de sauvegarde.</p>"
+            "description": "<p><strong>Déclencheur.</strong> Vous êtes sur le point de faire un jet de sauvegarde contre un sort mais n’avez pas encore lancé le dé</p>\n<hr>\n<p>Vous implorez la grâce de votre divinité qui vous confère un bonus de circonstances de +2 au jet de sauvegarde.</p>"
         },
         {
             "id": "Fearsome Brute",
@@ -5762,6 +5852,11 @@
             "description": "<p><strong>Prérequis </strong>qualifié en Diplomatie</p>\n<p><strong>Déclencheur</strong> Vous êtes attaqué par une créature contre laquelle vous ne vous êtes pas encore montré hostile. Vous devez utiliser cette réaction avant que la créature ne fasse son attaque.</p>\n<hr>\n<p>La manière dont vous vous êtes entraîné à vous tasser ou à faire les yeux doux provoque une réponse empathique de la part de votre agresseur. Faites un test de Diplomatie contre le DD de Volonté de l'agresseur.</p>\n<p><strong>Succès critique</strong> La créature retient sont attaque , gâchant cette action et ne peut utiliser d'action hostile à votre encontre  jusqu'au début de son prochain tour.</p>\n<p><strong>Succès</strong> La créature subit une pénalité de circonstance de –2 aux dégâts de l'attaque qui l'a déclenchée et à toutes les Frappes contre vous jusq'au début de son prochain tour. La pénalité est de –4 si vous êtes un expert en Diplomatie, de –6 si vous êtes un maître et de –8 si vous êtes légendaire.</p>\n<p><strong>Échec</strong> L'attaque de la créature n'est pas affectée et la créature est temporairement immunisée à votre supplique empathique pendant 24 heures.</p>"
         },
         {
+            "id": "Safeguarded Spell",
+            "name": "Safeguarded Spell",
+            "description": "<p>Vous synchronisez les longueurs d'ondes magiques de votre sort avec celles produites par votre propre corps. Si votre prochaine action consiste à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} sur une zone, vous ne serez pas affecté par le sort, même si vous vous trouvez dans cette zone.</p>"
+        },
+        {
             "id": "Halcyon Speaker Dedication",
             "name": "Halcyon Speaker Dedication",
             "description": "<div><strong>Archétype </strong>@Compendium[pf2e.archetypes.Qsmzm6w1ZNpHX7GD]{Orateur paisible}</div>\n<div><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement du Gardien de Magaambya, membre de l'Académie de Magaambya avec un rang de maître<br></span></div>\n<hr>\n<p>Vous consacrez une grande part de vos études à la magie paisible (halcyon). Vous obtenez l'accès à deux tours de magie communs paisibles (Halcyon) et à deux sorts halcyon de 1er niveau. En plus d'être capable de lancer vos sorts halcyon spells par le biais de vos emplacements de sorts arcaniques ou primordiaux, vous obtenez un emplacement de sort paisible de 1er niveau. Vous pouvez utiliser vos emplacement de sorts (paisibles) pour lancer de manière spontanée vos sorts paisibles.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'orateur paisible.&nbsp;</p>"
@@ -5965,6 +6060,11 @@
             "id": "Catfolk Lore",
             "name": "Catfolk Lore",
             "description": "<p>Être élevé parmi les hommes-félins vous a appris les valeurs traditionnelles de liberté de voyager, d'administration des terres et des rapides réactions lorsque votre curiosity est source de vos problèmes.</p>\n<p>Vous obtenez le rang qualifié en Acrobaties et en Survie. Si vous devriez déjà être qualifié dans l'une de ces compétences (par le biais de votre historique ou de votre classe, par exemple), vous êtes qualifié aavec une compétence de votre choix. Vous êtes aussi qualifié en Connaissance des Hommes-félins.</p>"
+        },
+        {
+            "id": "Diverting Vortex",
+            "name": "Diverting Vortex",
+            "description": "<p><strong>Conditions</strong> Votre plus récente action était de lancer un sort qui n'est pas un tour de magie.</p>\n<hr>\n<p>Vous transférez des vestiges d'énergie magique dans l'air qui vous entoure, créant ainsi un vortex qui dévie les attaques à distance. Jusqu'au début de votre prochain tour, vous obtenez un bonus de statut de +1 à votre CA contre les attaques à distance par arme et les attaques physiques à mains nues à distance.</p>"
         },
         {
             "id": "Harrying Strike",

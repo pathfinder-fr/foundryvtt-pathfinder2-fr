@@ -727,6 +727,11 @@
             "description": "<p>Vous modifiez l’aura magique d’un objet ou d’une créature pour qu’elle ressemble à celle d’un ou d’une autre. Vous désignez une cible principale et une cible secondaire. Les effets qui devraient normalement détecter les auras sur la cible principale détectent à la place les mêmes types d’auras que ceux sur la cible secondaire. Une créature qui lit les auras peut tenter de discerner l’illusion. Vous pouvez Révoquer le sort jusqu’à une distance de 1,5 km.</p>"
         },
         {
+            "id": "Divine Lance",
+            "name": "Lance divine",
+            "description": "<p>Vous libérez un rayon d’énergie divine. Choisissez un alignement que possède votre divinité (chaotique, mauvais, bon ou loyal). Vous ne pouvez pas lancer ce sort si vous n’avez pas de divinité\nou si elle est neutre strict. Faites une attaque de sort à distance contre la CA de la cible. Si vous touchez, elle subit des dégâts de l’alignement choisi d’un montant de 1d4 + votre modificateur de caractéristique d’incantation (les points de dégâts sont doublés sur un coup critique). Ce sort adopte le trait de l’alignement que vous avez choisi.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d4.</p>"
+        },
+        {
             "id": "Lay on Hands",
             "name": "Imposition des mains",
             "description": "<p>Vos mains s’imprègnent d’une énergie positive, soignant une créature vivante ou blessant une créature morte-vivante que vous touchez. Si vous utilisez imposition des mains sur une cible vivante consentante, vous restaurez 6 points de vie ; si la cible est l’un de vos alliés, elle gagne également un bonus de statut de +2 à la CA pendant 1 round. Contre une cible morte-vivante, vous infligez 1d6 dégâts et elle doit effectuer un jet de Vigueur basique ; si elle échoue, elle subit également un malus de statut de −2 à la CA pendant 1 round.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Le montant de guérison augmente de 6 et les dégâts à une cible morte-vivante augmentent de 1d6.</p>"

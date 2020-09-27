@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **aucune**: 4
+ * **aucune**: 3
  * **officielle**: 230
- * **libre**: 126
+ * **libre**: 127
  * **changé**: 27
 
 
-Dernière mise à jour: 2020-09-23 17:58 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-09-27 13:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -15,7 +15,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[alchemical-01-1eWDNcWSlNoU0L67.htm](classfeatures/alchemical-01-1eWDNcWSlNoU0L67.htm)|Formula Book (Alchemist)|
 |[bard-01-6FsusoMYxxjyIkVh.htm](classfeatures/bard-01-6FsusoMYxxjyIkVh.htm)|Spell Repertoire (Bard)|
-|[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|
 
 ## Liste des traductions complétés
@@ -110,6 +109,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|officielle|
 |[champion-01-fVVRFfc8QwTTPhKf.htm](classfeatures/champion-01-fVVRFfc8QwTTPhKf.htm)|Shield Block (Champion)|Blocage au bouclier (Champion)|officielle|
 |[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant [Lawful Evil]|Tyran [Loyal mauvais]|libre|
+|[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|Les préceptes du Mal|libre|
 |[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du bien|officielle|
 |[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin [Lawful Good]|Paladin (Loyal Bon)|changé|
 |[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|officielle|
@@ -291,7 +291,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-13-LzNbksQx5DeDJESv.htm](classfeatures/rogue-13-LzNbksQx5DeDJESv.htm)|Light Armor Expertise (Rogue)|Expertise avec les armures légères (Roublard)|officielle|
 |[rogue-13-myvcir1LEkaVxOlE.htm](classfeatures/rogue-13-myvcir1LEkaVxOlE.htm)|Master Tricks|Astuces de maître|officielle|
 |[rogue-13-OqKMPnEbCKgvQgZM.htm](classfeatures/rogue-13-OqKMPnEbCKgvQgZM.htm)|Incredible Senses (Rogue)|Sens extraordinaires (Roublard)|officielle|
-|[rogue-15-qQyKAktcAyfaiUm5.htm](classfeatures/rogue-15-qQyKAktcAyfaiUm5.htm)|Greater Weapon Specialization (Rogue)|Spécialisation martiale supérieure|officielle|
+|[rogue-15-qQyKAktcAyfaiUm5.htm](classfeatures/rogue-15-qQyKAktcAyfaiUm5.htm)|Greater Weapon Specialization (Rogue)|Spécialisation martiale supérieure (Roublard)|officielle|
 |[rogue-15-W1FkMHYVDg3yTU5r.htm](classfeatures/rogue-15-W1FkMHYVDg3yTU5r.htm)|Double Debilitation|Double handicap|officielle|
 |[rogue-17-xmZ7oeTDcQVXegUP.htm](classfeatures/rogue-17-xmZ7oeTDcQVXegUP.htm)|Slippery Mind|Esprit fuyant|officielle|
 |[rogue-19-51nIcXq8qPefb9vm.htm](classfeatures/rogue-19-51nIcXq8qPefb9vm.htm)|Light Armor Mastery (Rogue)|Maîtrise des armures légères (Roublard)|officielle|
