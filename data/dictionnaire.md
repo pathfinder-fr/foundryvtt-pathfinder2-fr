@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-10-04 08:01 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-10-04 08:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -30,7 +30,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
-|[Absorb into the Aegis](actions/S9PZFOVe7zhORkUc.htm)||`@Compendium[pf2e.actionspf2e.S9PZFOVe7zhORkUc]`|
+|[Absorb into the Aegis](actions/S9PZFOVe7zhORkUc.htm)|Absorber dans l'égide|`@Compendium[pf2e.actionspf2e.S9PZFOVe7zhORkUc]`|
 |[Administer First Aid](actions/MHLuKy4nQO2Z4Am1.htm)|Prodiguer les premiers soins|`@Compendium[pf2e.actionspf2e.MHLuKy4nQO2Z4Am1]`|
 |[Affix a Talisman](actions/UAaQk93a30nx0nYY.htm)|Fixer un talisman|`@Compendium[pf2e.actionspf2e.UAaQk93a30nx0nYY]`|
 |[Aid](actions/HCl3pzVefiv9ZKQW.htm)|Aider|`@Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]`|
@@ -2402,7 +2402,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cobra Stance](feats/class-04-AkV4Jyllo6nlK2Sl.htm)||`@Compendium[pf2e.feats-srd.AkV4Jyllo6nlK2Sl]`|
 |[Cognitive Loophole](feats/class-16-wPJFEUOXwf7y5jN3.htm)|Échappatoire cognitive|`@Compendium[pf2e.feats-srd.wPJFEUOXwf7y5jN3]`|
 |[Collateral Thrash](feats/class-16-WY7CjISdz6uwXwIb.htm)|Maltraitance collatérale|`@Compendium[pf2e.feats-srd.WY7CjISdz6uwXwIb]`|
-|[Combat Assessment](feats/class-01-5FyvwI24mnROzh61.htm)||`@Compendium[pf2e.feats-srd.5FyvwI24mnROzh61]`|
+|[Combat Assessment](feats/class-01-5FyvwI24mnROzh61.htm)|Évaluation martiale|`@Compendium[pf2e.feats-srd.5FyvwI24mnROzh61]`|
 |[Combat Climber](feats/skill-01-09PurtIanNUPfNRq.htm)|Combattant-grimpeur|`@Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]`|
 |[Combat Grab](feats/class-02-dF1HR6TqyMz03o6F.htm)|Empoignade en combat|`@Compendium[pf2e.feats-srd.dF1HR6TqyMz03o6F]`|
 |[Combat Reading](feats/class-04-kqW6d3Dfk4nApd7y.htm)||`@Compendium[pf2e.feats-srd.kqW6d3Dfk4nApd7y]`|
@@ -2579,7 +2579,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dracomancer](feats/ancestry-09-lbiFj4At5BxotaNY.htm)||`@Compendium[pf2e.feats-srd.lbiFj4At5BxotaNY]`|
 |[Draconic Arrogance](feats/class-01-EOmTf95t03y4IGdp.htm)||`@Compendium[pf2e.feats-srd.EOmTf95t03y4IGdp]`|
 |[Draconic Scent](feats/archetype-04-2UKf5IiUbpUbOC9a.htm)||`@Compendium[pf2e.feats-srd.2UKf5IiUbpUbOC9a]`|
-|[Dragging Strike](feats/class-02-yAgFDUU8HfVK4KTy.htm)||`@Compendium[pf2e.feats-srd.yAgFDUU8HfVK4KTy]`|
+|[Dragging Strike](feats/class-02-yAgFDUU8HfVK4KTy.htm)|Frappe entraînante|`@Compendium[pf2e.feats-srd.yAgFDUU8HfVK4KTy]`|
 |[Dragon Arcana](feats/archetype-04-gMPnLWLlHoNU9Lqv.htm)||`@Compendium[pf2e.feats-srd.gMPnLWLlHoNU9Lqv]`|
 |[Dragon Disciple Dedication](feats/archetype-02-oo34CloLefFRi72w.htm)||`@Compendium[pf2e.feats-srd.oo34CloLefFRi72w]`|
 |[Dragon Prince](feats/ancestry-09-Q1lGguNI4SqPwgVn.htm)|Prince dragon|`@Compendium[pf2e.feats-srd.Q1lGguNI4SqPwgVn]`|

@@ -794,7 +794,7 @@
         {
             "id": "Hobgoblin Lore",
             "name": "Hobgoblin Lore (Connaissance hobgobeline)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez étudié les exercices et techniques traditionnels hobgobelins qui ont tous une tournure militaire. Vous êtes qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=3\">Athlétisme</a> et <a href=\"https://2e.aonprd.com/Skills.aspx?ID=4\">Artisanat</a>. Pour chacune de ces compétences dans laquelle vous étiez déjà qualifié, vous devenez qualifié dans une compétence de votre choix. Vous êtes également qualifié en <a href=\"https://2e.aonprd.com/Skills.aspx?ID=8\">Connaissance</a> hobgobeline.&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez étudié les exercices et techniques traditionnels hobgobelins qui ont tous une tournure militaire. Vous êtes qualifié en Athlétisme et Artisanat. Pour chacune de ces compétences dans laquelle vous étiez déjà qualifié, vous devenez qualifié dans une compétence de votre choix. Vous êtes également qualifié en Connaissance.&nbsp;</span></p>"
         },
         {
             "id": "Channel Smite",
@@ -1674,7 +1674,7 @@
         {
             "id": "Aegis of Arnisant",
             "name": "Aegis of Arnisant (Égide d'Arnisant)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis </strong> Chevalier Vigilant, Blocage au bouclier, maître en Religion<br><strong>Conditions</strong> Vous maniez un bouclier.<br></span></p>\n<hr>\n<p>Inspiré par la légende d'Arnisant, vous transformez votre bouclier en protection magique. Jusqu'au début de votre prochain tour, vous obtenez la réaction suivante :</p>\n<h3 class=\"title\"><a href=\"https://2e.aonprd.com/Actions.aspx?ID=321\">Absorber dans l'égide</a> <img style=\"height: 15px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"></h3>\n<p><strong>Déclencheur</strong> Un ennemi lance un sort qui vous prend pour cible ou un allié dans les 4,5 m de vous</p>\n<hr>\n<p>Vous interposez la protection de votre bouclier contre le sort. Tentez un test de contresort, en utilisant votre modificateur de Religion comme modificateur de contresort. Sur un succès, le sort est contré et votre bouclier subit des dégâts à hauteur de quatre fois le niveau du sort lorsqu'il absorbe et disperse l'énergie magique. Sur un échec, le bouclier subit des dégâts égaux à deux fois le niveau du sort.</p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis </strong> Chevalier Vigilant, Blocage au bouclier, maître en Religion<br><strong>Conditions</strong> Vous maniez un bouclier.<br></span></p>\n<hr>\n<p>Inspiré par la légende d'Arnisant, vous transformez votre bouclier en protection magique. Jusqu'au début de votre prochain tour, vous obtenez la réaction @Compendium[pf2e.actionspf2e.S9PZFOVe7zhORkUc]{Absorber dans l'égide}</p>"
         },
         {
             "id": "Basic Cleric Spellcasting",
@@ -1890,6 +1890,11 @@
             "id": "Nameless Anonymity",
             "name": "Nameless Anonymity (Anonymat indicible)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Prérequis</strong> Dévouement de Guerrier magique<br></span></p>\n<hr>\n<p>Votre masque vous protège davantage contre la divination. Une fois par jour, vous pouvez lancer <a href=\"https://2e.aonprd.com/Spells.aspx?ID=209\"><em>anti-détection</em></a> sur vous-même, intensifié au plus haut niveau de sort que vous pouvez lancer ; le sort se termine immédiatement si votre masque est retiré, même pour un moment.&nbsp;</p>"
+        },
+        {
+            "id": "Dragging Strike",
+            "name": "Dragging Strike (Frappe entraînante)",
+            "description": "<p>Vous faites en sorte de viser avec votre arme de manière à accrocher l'armure, les vêtements ou la chair d'un ennemi avant de le\nrapprocher.</p>\n<p>Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe de mêlée}. Si vous touchez une cible de votre taille ou plus petite, cette créature est @Compendium[pf2e.conditionspf2e.AJh5ex99aV6VTggg]{prise au dépourvu} jusqu'à la fin de votre tour actuel et vous pouvez la rapprocher de vous de 1,5 mètre. Lorsque vous déplacez la créature, vous pouvez vous déplacer de la même distance dans la même direction qu'elle, même si vous êtes adjacent à la cible. Ce mouvement ne déclenche pas de réactions. \n<p>Cette frappe a l'effet d'échec suivant.</p>\n<p><strong>Échec</strong> La cible devient prise au dépourvu jusqu'à la fin de votre tour actuel.</p>"
         },
         {
             "id": "Advanced Maneuver",
@@ -2449,7 +2454,7 @@
         {
             "id": "Folksy Patter",
             "name": "Folksy Patter (Boniment campagnard)",
-            "description": "<p>Vous avez l'habitude de déguiser des messages codés sous la forme d'idiomes rustiques. Utilisant le slang, les blagues, les emprunts à la langue hlafeline et autres procédés du même tonneau, vous faites passer un message simple consistant en trois mots de base (tels que “Danger assassin fuyez” or “rencontre moi lune”).</p>\n<p>Votre auditeur délibéré peut tenter un test de Perception pour discerner le message (DD 20 si c'est un allié, DD15 si c'est un halfelin allié, DD 10 si c'est un halfelin allié qui possède Boniment campagnard).</p>\n<p>ceux qui écoutent peuvent aussi tenter un test de Perception contre votre DD de Duperie pour discerner la signification. Tous bonus ou pénalités applicables au tests de Perception pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions} s'appliquent.</p>"
+            "description": "<p>Vous avez l'habitude de déguiser des messages codés sous la forme d'idiomes rustiques. Utilisant le slang, les blagues, les emprunts à la langue hlafeline et autres procédés du même tonneau, vous faites passer un message simple consistant en trois mots de base (tels que “Danger assassin fuyez” or “rencontre moi lune”).</p>\n<p>Votre auditeur délibéré peut tenter un test de Perception pour discerner le message (DD 20 si c'est un allié, DD15 si c'est un halfelin allié, DD 10 si c'est un halfelin allié qui possède Boniment campagnard).</p>\n<p>ceux qui écoutent peuvent aussi tenter un test de Perception contre votre DD de Duperie pour discerner la signification. Tous bonus ou pénalités applicables au tests de Perception pour <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"1xRFPTFtWtGJ9ELw\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Deviner les intentions}</a> s'appliquent.</p>"
         },
         {
             "id": "Survey Wildlife",
@@ -2520,6 +2525,11 @@
             "id": "Sharp Fangs",
             "name": "Sharp Fangs (Crocs aiguisés)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos dents sont des armes formidables. Vous gagnez une attaque de dents qui infligent 1d8 dégâts perforants.&nbsp;</span></p>"
+        },
+        {
+            "id": "Combat Assessment",
+            "name": "Combat Assessment (Évaluation martiale)",
+            "description": "<p>Vous faites une attaque téléphonée pour en apprendre davantage sur vore cible.</p>\n<p>Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} de mêlée. Si vous touchez, vous pouvez immédiatement tenter un test pour @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Vous souvenir} à propos de votre cible. Sur un coup critique, vous obtenez un bonus de circonstance de +2 circumstance au test pour Vous souvenir.</p>\n<p>La cible est immunisée temporairement à Évaluation martiale pendant 1 journée.</p>"
         },
         {
             "id": "Titan Wrestler",
@@ -5919,7 +5929,7 @@
         {
             "id": "Undaunted",
             "name": "Undaunted (Téméraire)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre esprit a surmonté beaucoup d'épreuves au cours de sa longue existence et vous êtes certain de pouvoir surmonter n'importe quelle difficulté que la vie placera sur votre passage. Vous obtenez un bonus de circomstance de +1 aux jets de protection contre les effets d'<a href=\"https://2e.aonprd.com/Traits.aspx?ID=60\">émotion</a>. Si vous obtenez un succès à votre jet de sauvegarde contre un effet d'émotion, vous considérez à la place que vous avez obtenu un succès critique.&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre esprit a surmonté beaucoup d'épreuves au cours de sa longue existence et vous êtes certain de pouvoir surmonter n'importe quelle difficulté que la vie placera sur votre passage. Vous obtenez un bonus de circomstance de +1 aux jets de protection contre les effets d'émotion. Si vous obtenez un succès à votre jet de sauvegarde contre un effet d'émotion, vous considérez à la place que vous avez obtenu un succès critique.&nbsp;</span></p>"
         },
         {
             "id": "Quickened Casting",

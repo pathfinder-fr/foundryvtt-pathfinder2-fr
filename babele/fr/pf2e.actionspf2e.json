@@ -237,6 +237,11 @@
             "description": "<p>Vous détournez le regard d’un danger. Vous gagnez un bonus de circonstances de +2 à vos jets de sauvegarde contre les pouvoirs visuels qui nécessitent que vous regardiez une créature ou un objet, comme le regard pétrifiant d’une méduse. Votre regard reste détourné jusqu’au début de votre prochain tour.</p>"
         },
         {
+            "id": "Absorb into the Aegis",
+            "name": "Absorber dans l'égide",
+            "description": "<p><strong>Déclencheur</strong> Un ennemi lance un sort qui vous prend pour cible ou un allié situé à 4,5 m de vous</p>\n<hr>\n<p>Vous interposez la protection de votre bouclier contre le sort. Tentez un test de contresort, en utilisant votre modificateur de Religion comme modificateur de contresort. Sur un succès, le sort est contré et votre bouclier subit des dégâts à hauteur de quatre fois le niveau du sort lorsqu'il absorbe et disperse l'énergie magique. Sur un échec, le bouclier subit des dégâts égaux à deux fois le niveau du sort.</p>"
+        },
+        {
             "id": "Pointed Question",
             "name": "Question imparable",
             "description": "<p>Vous posez une question qui charme ou provoque efficacement quelqu’un. Posez une question à une créature qui n’est pas l'un de vos alliés, que vous pouvez voir et avec laquelle vous conversez. Effectuez un test de Diplomatie contre le DD de Volonté de la créature. La créature est ensuite temporairement immunisée pendant 1 heure.</p>\n<hr>\n<p><strong>Réussite critique</strong> La cible doit répondre directement à votre question. Elle n’est pas contrainte de dire la vérité mais vous gagnez un bonus de circonstances de +4 à votre test de Perception si la créature tente de vous @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}.</p>\n<p><strong>réussite</strong> Comme une réussite critique, mais le bonus de circonstances est de +2.</p>\n<p><strong>Échec</strong> La cible peut refuser de vous répondre, comme c’est le cas normalement.</p>\n<p><strong>Échec critique</strong> La cible peut refuser de vous répondre et son attitude envers vous diminue d’un cran parce que l’attention que vous lui portez la vexe.</p>"
