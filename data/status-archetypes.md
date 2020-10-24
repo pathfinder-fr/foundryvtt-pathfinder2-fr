@@ -1,9 +1,9 @@
 # État de la traduction (archetypes)
 
- * **aucune**: 74
+ * **aucune**: 75
 
 
-Dernière mise à jour: 2020-10-04 08:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-10-24 19:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -80,6 +80,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[xNzNpPjeNSrXE7WG.htm](archetypes/xNzNpPjeNSrXE7WG.htm)|Crystal Keeper|
 |[XZwGLLgC1sIKlR1c.htm](archetypes/XZwGLLgC1sIKlR1c.htm)|Staff Acrobat|
 |[YBvXmJ5e9MThdws0.htm](archetypes/YBvXmJ5e9MThdws0.htm)|Firebrand Braggart|
+|[YJQJxskQf8VqDt8G.htm](archetypes/YJQJxskQf8VqDt8G.htm)|Provocator|
 |[yvb2pY3Qb7Jl35hk.htm](archetypes/yvb2pY3Qb7Jl35hk.htm)|Magaambyan Attendant|
 |[z5yvyY2HfIRgwGnO.htm](archetypes/z5yvyY2HfIRgwGnO.htm)|Eldrich Archer|
 |[zv31F34JgUesREuz.htm](archetypes/zv31F34JgUesREuz.htm)|Marshal|

@@ -97,6 +97,11 @@
             "description": "<p>Vous prononcez des phrases dans une langue inconnue qui agressent l’esprit de ceux à proximité. Chaque cible doit faire un jet de Volonté. Quel que soit le résultat de ce jet de sauvegarde, la cible est ensuite temporairement immunisée pendant 1 min. Vous pouvez augmenter le nombre d’actions nécessaires pour Lancer le sort (jusqu’à un total maximum de 3 actions). Pour chaque action supplémentaire, augmentez le rayon de l’émanation de 1,50 m, jusqu’à un maximum de 3 m supplémentaires pour 3 actions.</p>\n<p>\n<hr><b>Succès</b> La cible n’est pas affectée.</p>\n<p>\n<b>Échec</b> La cible est @Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]{stupéfiée} 2.</p>\n<p>\n<b>Échec critique</b> La cible est @Compendium[pf2e.conditionspf2e.yblD8fOR1J8rDwEQ]{confuse}.</p>\n<p>\n<hr><b>Intensifié (+3)</b> Le rayon initial augmente de 1,50 m.</p>"
         },
         {
+            "id": "Song of Strength",
+            "name": "Chanson de force",
+            "description": "<p>Vous renforcez la force physique de vos alliés avec une exhoration vigoureuse. Vous et vos alliés obtenez un bonus de statut de +1 aux tests d'Athlétisme et à leur DD contre des actions de compétence d'Athlétisme telles que @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} and @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Mettre à terre}.</p>\n<hr>\n<p><strong>Spécial</strong> Si vous avec le sort de composition @Compendium[pf2e.spells-srd.kF0rs9mCPvJGfAZE]{Inspiration Héroïque}, vous pouvez utiliser cette composition pour améliorer le bonus accordé par Chanson de force de la même manière qu'@Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspiration vaillante} ou qu'@Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{Inspiration Défensive}.</p>"
+        },
+        {
             "id": "Crushing Despair",
             "name": "Désespoir foudroyant",
             "description": "<p>Vous plongez les créatures de la zone dans le désespoir. L’effet pour chaque créature est déterminé par son jet de Volonté.</p>\n<p>\n<hr><b>Succès critique</b> La créature n’est pas affectée.</p>\n<p>\n<b>Success</b>  Pendant 1 round, la créature ne peut pas faire de réaction et doit faire un autre jet de sauvegarde au début de son tour. Si elle échoue, elle est @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralentie} 1 pendant ce tour, secouée de sanglots incontrôlables.</p>\n<p>\n<b>Échec</b> Pendant 1 round, la créature ne peut pas faire de réaction et doit faire un autre jet de sauvegarde au début de son tour. Si elle échoue, elle est @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralentie} 1 pendant 1mn, secouée de sanglots incontrôlables.</p>\n<p>\n<b>Échec critique</b>  Comme l’échec, mais la créature est automatiquement @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralentie} pendant 1 min.</p>\n<p>\n<hr><b>Intensifié (7th)</b> La zone devient un cône de 18 m.</p>"
@@ -165,6 +170,11 @@
             "id": "Suggestion",
             "name": "Suggestion",
             "description": "<p>Les créatures ne résistent pas à vos mots mielleux. Vous suggérez un plan d’action à la cible, qui doit être formulé de façon à lui sembler être un plan d’action logique qui ne peut pas être autodestructeur ou à l’évidence contre ses propres intérêts. La cible doit faire un jet de Volonté.</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée et sait que vous avez tenté de la contrôler.</p>\n<p>\n<b>Succès</b>La cible n’est pas affectée et pense que vous lui avez parlé normalement, sans lui lancer de sort.</p>\n<p>\n<b>Échec</b> La cible suit immédiatement votre suggestion. Le sort prend fin au bout d’1 minute ou quand la cible a complètement achevé la suggestion ou si la suggestion devient autodestructrice ou a d’autres effets négatifs évidents.</p>\n<p>\n<b>Échec critique</b>Comme l’échec, mais la durée de base est de 1 h.</p>\n<p>\n<hr><b>Intensifié (8th)</b> Vous pouvez cibler jusqu’à 10 créatures.</p>"
+        },
+        {
+            "id": "Vampiric Exsanguination",
+            "name": "Saignée du vampire",
+            "description": "<p>Vous puisez dans le sang et l’énergie vitale d’autres créatures à travers vos bras tendus. Vous infligez 12d6 dégâts négatifs aux créatures vivantes dans la zone. Vous gagnez un nombre de points de vie temporaires égal à la moitié des dégâts qu’une seule créature subit de ce sort ; calculez ces points de vie temporaires en utilisant la créature ayant reçu le plus de dégâts. Vous perdez tout point de vie temporaire restant après 1 min.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 2d6.</p>"
         },
         {
             "id": "Drop Dead",
@@ -602,6 +612,11 @@
             "description": "<p>Vous jouez si parfaitement de la musique que la cible peut mourir de joie ou de tristesse. Une fois ciblée, la créature est temporairement immunisée pendant 1 min. L’effet du sort dépend du niveau de la cible et de ses points de vie actuels. </p>\n<p>\n<hr><b>16 ou moins</b> La cible meurt instantanément. </p>\n<p>\n<b>17</b> Si la cible a 50 points de vie ou moins, elle meurt instantanément ; sinon, elle est réduite à 0 point de vie et devient @Compendium[pf2e.conditionspf2e.yZRUzMqrMmfLu0V1]{mourante} 1.</p>\n<p>\n<b>18 ou plus</b> La cible subit 50 points de dégâts. Si cela la réduit à 0 point de vie, elle meurt instantanément.</p>"
         },
         {
+            "id": "Raise Dead",
+            "name": "Rappel à la vie",
+            "description": "<p>Vous tentez de rappeler l’âme d’une créature morte, ce qui nécessite la présence de son corps relativement intact. La créature doit être morte depuis 3 jours au maximum. Si Pharasma a décidé que le temps de la créature était venu (à la discrétion du MJ) ou si la créature ne souhaite pas revenir à la vie, ce sort rate automatiquement mais les diamants ne sont pas consommés par l’incantation.</p>\n<p>Si le sort est réussi, la créature revient à la vie avec 1 point de vie, aucun sort préparé ou aucun emplacement de sort disponible, aucun point dans aucune réserve, aucunes autres ressources quotidiennes et avec toujours les mêmes affaiblissements à long terme dont souffrait son ancien corps. Le temps passé dans le Cimetière affaiblit temporairement la cible, et celle-ci est donc @Compendium[pf2e.conditionspf2e.i3OJZU2nk64Df3xm]{maladroite} 1, @Compendium[pf2e.conditionspf2e.4D2KBtexWXa6oUMR]{drainée} 2, et @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{affaiblie} 2 pendant une semaine ; aucun moyen ne peut supprimer ou réduire ces états tant que la semaine ne s’est pas écoulée. La créature est également et définitivement changée par cette période dans l’après-vie, sa personnalité peut ainsi quelque peu changer, une mèche de cheveux blancs peut apparaître dans sa chevelure ou une marque étrange sur son corps.</p>\n<hr>\n<p><strong>Intensifié (7th)</strong> Le niveau maximum de la cible passe à 15. Le coût passe à niveau de la cible (1 au minimum) × 400 po.</p>\n<p><strong>Intensifié (8th)</strong> Le niveau maximum de la cible passe à 17. Le coût passe à niveau de la cible (1 au minimum) × 800 po.</p>\n<p><strong>Intensifié (9th)</strong> Le niveau maximum de la cible passe à 19. Le coût passe à niveau de la cible (1 au minimum) × 1600 po.</p>\n<p><strong>Intensifié (10th)</strong> Le niveau maximum de la cible passe à 21. Le coût passe à niveau de la cible (1 au minimum) × 3200 po.</p>"
+        },
+        {
             "id": "Safeguard Secret",
             "name": "Secret bien gardé",
             "description": "<p>Vous garantissez qu’un secret restera bien gardé des espions indiscrets. Choisissez un élément d’information que certaines cibles au moins connaissent ; vous pouvez cibler une créature uniquement si elle reste dans la portée pendant toute la minute durant laquelle vous Lancez le sort. Le sort octroie à ceux qui détiennent l’élément de connaissance que vous avez choisi un bonus de statut de +4 aux tests de compétences (généralement les tests de Duperie) pour masquer cette connaissance et aux jets de sauvegarde contre les sorts qui tentent spécifiquement de l’obtenir auprès d’eux et contre les effets qui les forceraient à la révéler.</p>\n<p>Si vous Lancez de nouveau ce sort, tout secret bien gardé que vous avez précédemment lancé prend fin.</p>"
@@ -787,6 +802,11 @@
             "description": "<p>Vous devenez @Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{invisible} et ignorez les terrains difficiles naturels (tels que les taillis). Toute action hostile que vous effectuez met fin à cette invisibilité mais vous continuez d’ignorer les terrains difficiles naturels.</p>\n<hr>\n<p><strong>Intensifié (5th)</strong> L’invisibilité n’est pas rompue si vous faites une action hostile.</p>"
         },
         {
+            "id": "Righteous Might",
+            "name": "Force du colosse",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous concentrez votre énergie divine et vous vous transformez en une forme de combat de taille Moyenne, similaire à votre forme normale mais armée de puissants armements divins accordés par votre divinité. Sous cette forme, vous gagnez les statistiques et caractéristiques listées ci-dessous. La forme de combat possède des mains et vous autorise des actions de manipulation. Vous pouvez Révoquer le sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez les statistiques et pouvoirs suivants:&nbsp;</span></p>\n<ul>\n<li>CA = 20 + votre niveau. Ignore votre malus d’armure aux tests et votre réduction de Vitesse.</li>\n<li>10 points de vie temporaires.</li>\n<li>Vitesse 12 m.</li>\n<li>Résistance 3 contre les dégâts physiques.</li>\n<li>Vision dans le noir.</li>\n<li>Une attaque spéciale avec une version d’armement vertueuse de votre arme de prédilection, qui est la seule attaque que vous pouvez utiliser. Votre modificateur d’attaque avec l’arme spéciale est de +21, et votre bonus aux dégâts est de +8 (ou +6 pour une attaque à distance). Si votre modificateur d’attaque avec l’arme de prédilection de votre divinité est supérieur, vous pouvez l’utiliser à la place. Vous infligez trois dés de dégâts normaux de votre arme, ou trois dés de dégâts d’une taille supérieure si votre arme est une arme simple avec un dé de dégâts d4 ou d6. L’arme possède l’une des propriétés suivantes qui correspond à l’alignement de votre divinité : <em>anarchique</em>, <em>axiomatique</em>, <em>sainte</em>, <em>impie</em>. Si votre divinité est neutre stricte, vous infligez à la place 1d6 dégâts de précision supplémentaires.</li>\n<li>Modificateur d’Athlétisme de +23, sauf si le vôtre est supérieur.</li>\n</ul>\n<hr>\n<p><strong>Intensifié (8th)</strong>  Votre forme de combat est de Grande taille, et votre attaque a une allonge de 3 m, ou 1,5 m si l’arme de prédilection de votre divinité a une allonge. Vous devez avoir assez de place pour vous dilater, sinon le sort est perdu. À la place vous gagnez CA = 21 + votre niveau, 15 PV temporaires, résistance 4 contre les dégâts physiques, modificateur d’attaque +28, bonus aux dégâts +15 (+12 pour une attaque à distance), et Athlétisme +29.</p>"
+        },
+        {
             "id": "Enduring Might",
             "name": "Puissance protectrice",
             "description": "<p><strong>Déclencheur&nbsp;</strong> Une attaque ou un effet qui devrait vous infliger des dégâts.</p>\n<hr>\n<p>Votre propre puissance se mêle au pouvoir divin pour vous protéger. Vous gagnez une résistance égale à 8 plus votre modificateur de Force contre tous les dégâts issus de l’attaque ou effet déclencheur.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> La résistance augmente de 2.</p>"
@@ -837,6 +857,11 @@
             "description": "<p>Vous changez la cible en quelque chose de délicieux, transformant l’eau en bon vin ou en une autre boisson de qualité ou améliorant le goût et les ingrédients d’un repas pour en faire un menu de gourmet.</p>\n<p>Avant cette transformation, le sort tente de contrer tout poison contenu dans la nourriture ou la boisson. L’eau et les aliments redeviennent normaux s’ils ne sont pas consommés avant que le sort n’expire, mais les poisons contrés ne réapparaissent pas.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Le nombre de litres d’eau que vous pouvez cibler augmente de 3,5 ou le nombre de kilos de nourriture de 2,5.</p>"
         },
         {
+            "id": "Field of Life",
+            "name": "Champ de vie",
+            "description": "<p>Un champ d’énergie positive emplit la zone. Il dégage une douce chaleur et régénère ceux qu’il englobe. Chaque créature vivante qui commence son tour dans la zone récupère 1d8 points de vie et tout mort-vivant qui y commence son tour subit 1d8 dégâts positifs.</p>\n<hr>\n<p><strong>Intensifié (8th)</strong> La guérison et les dégâts passent à 1d10.</p>\n<p><strong>Intensifié (9th)</strong> La guérison et les dégâts passent à 1d12.</p>"
+        },
+        {
             "id": "Celestial Brand",
             "name": "Marque céleste",
             "description": "<p>Un symbole éclatant apparaît sur la cible pour clairement indiquer qu’elle est sous le coup de la justice divine. Vous et vos alliés bénéficiez d’un bonus de statut de +1 aux jets d’attaques et tests de compétence contre elle. Dès qu’une créature d’alignement bon lui inflige des dégâts, elle lui inflige 1d4 dégâts bons supplémentaires. Ensuite, la cible est temporairement immunisée pendant 1 min.</p>\n<hr>\n<p><strong>Intensifié (+2)</strong> Les dégâts bons augmentent de 1.</p>"
@@ -880,6 +905,11 @@
             "id": "Fire Seeds",
             "name": "Germe de feu",
             "description": "<p>Quatre glands à la peau striée de motifs pulsant rouges et orange poussent dans votre main. Vous ou toute personne tenant l’un des glands pouvez le lancer jusqu’à 9 m avec l’action Interagir. Il provoque une explosion de 1,5 m qui inflige 4d6 dégâts de feu. Le jet de sauvegarde utilise votre DD de sort, même si c’est un tiers qui lance le gland. Des flammes continuent de brûler au sol dans l’explosion pendant 1 min, infligeant 2d6 dégâts de feu à toute créature qui entre dans le brasier ou y termine son tour. Une créature reçoit des dégâts des flammes persistantes une fois par round seulement, même si elle se trouve dans des zones de flammes superposées émanant de plusieurs glands. Quand le sort se termine, tous les glands restants pourrissent et se transforment en humus ordinaire</p>\n<hr>\n<p><strong>Intensifié (8th)</strong> Les dégâts de l’explosion passent à 5d6 et ceux des flammes persistantes passent à 3d6.</p>\n<p><strong>Intensifié (9th)</strong> Les dégâts de l’explosion passent à 6d6 et ceux des flammes persistantes passent à 3d6.</p>"
+        },
+        {
+            "id": "Flesh to Stone",
+            "name": "Chair en pierre",
+            "description": "<p>Vous tentez de changer la chair de la cible en pierre. La cible doit faire un jet de Vigueur.</p>\n<p><strong>Succès critique</strong> La cible n’est pas affectée.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralentie} 1 pendant 1 round.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralentie} 1 et doit faire un jet de Vigueur à la fin de chacun de ses tours. Ce jet de sauvegarde continu possède le trait mise hors de combat. Sur un échec, l’état @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralenti} augmente de 1 (ou de 2 pour un échec critique). Un succès réduit l’état @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralenti} de 1. Quand une créature est incapable d’agir à cause de l’état @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralenti} issu de chair en pierre, elle est définitivement @Compendium[pf2e.conditionspf2e.dTwPJuKgBQCMxixg]{pétrifiée}. Le sort se termine quand la créature est @Compendium[pf2e.conditionspf2e.dTwPJuKgBQCMxixg]{pétrifiée} ou débarrassée de l’état @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralenti}.</p>\n<p><strong>Échec critique</strong> Comme l’échec, mais la cible est initialement @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralentie} 2.</p>"
         },
         {
             "id": "Magic Mouth",
@@ -955,6 +985,11 @@
             "id": "Barkskin",
             "name": "Peau d'écorce",
             "description": "<p>La peau de la cible se couvre d’écorce, lui donnant une résistance 2 aux dégâts contondants et perforants et une faiblesse 3 au feu. Une fois que la cible a subi des dégâts de feu, elle peut Révoquer le sort par une action gratuite déclenchée par les dégâts, bien que cela ne les réduise pas.</p>\n<hr>\n<p><strong>Intensifié (+2)</strong> La résistance augmente de 2 et la faiblesse de 3.</p>"
+        },
+        {
+            "id": "Hymn of Healing",
+            "name": "Hymne de guérison",
+            "description": "<p>Votre chanson divine referment les blessures et procurent un répit temporaire contre les blessures. La cible obtient guérison accélérée 2. Lorsque vous @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer ce sort} et chaque fois que vous  @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Maintenez ce sort}, la cible obtient 2 Points de vie temporaires qui durent pendant 1 round.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> la guérison accélérée et les points de vie temporaires augmentent chacun de 2.</p>"
         },
         {
             "id": "Produce Flame",
@@ -1402,6 +1437,11 @@
             "description": "<p> Vous transpercez la cible de votre énergie. Vous lui infligez 1d6 dégâts positifs plus votre modificateur de caractéristique d’incantation. La cible doit faire un jet de Vigueur basique. En cas d’échec critique, elle est également étourdie@JournalEntry[Enfeebled] 1 pendant 1 round..</p>\n<hr>\n<p><strong> Intensifié (+1)</strong>&nbsp; Les dégâts augmentent de 1d6.</p>"
         },
         {
+            "id": "Stone to Flesh",
+            "name": "Pierre en chair",
+            "description": "<p>En manipulant les particules fondamentales de la matière, vous transformez la pierre en chair et en sang. Vous ramenez une créature @Compendium[pf2e.conditionspf2e.dTwPJuKgBQCMxixg]{pétrifiée} à son état normal ou transformez un objet de pierre en une masse de chair inerte (sans la Solidité de la pierre) ayant à peu près la même forme.</p>"
+        },
+        {
             "id": "Unity",
             "name": "Unité",
             "description": "<p><strong>Déclencheur</strong> Vous et 1 allié ou plus à portée êtes la cible d’un sort ou d’un pouvoir qui autorise un jet de sauvegarde.</p>\n<hr>\n<p>Vous opposez une défense conjointe. Chaque allié peut utiliser votre modificateur au jet de sauvegarde au lieu du sien contre le sort déclencheur. Chaque allié décide quel modificateur il souhaite utiliser.</p>"
@@ -1647,6 +1687,11 @@
             "description": "<p>Vous vous entourez d’une aura angélique qui améliore la récupération des alliés bénéficiant du sort @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{guérison}. Les sorts guérison bénéficient d’un bonus de statut de +2 aux points de vie récupérés par vos alliés dans la zone.</p>\n<p>\n<p><strong>Intensifié (+1)</strong> Le bonus de statut augmente de 2.</p>"
         },
         {
+            "id": "Spirit Blast",
+            "name": "Coup spirituel",
+            "description": "<p>Vous concentrez de l’énergie éthérée et attaquez l’esprit d’une créature, infligeant 16d6 dégâts de force. Comme coup spirituel affecte l’esprit de la créature, il peut infliger des dégâts à une cible projetant sa conscience (par exemple à l’aide de projection d’image) ou possédant une autre créature même si le corps de la cible est ailleurs. La créature possédée n’est pas blessée par le coup. Le coup ne blesse pas les créatures qui n’ont pas d’esprit, telles les créatures artificielles.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 2d6.</p>"
+        },
+        {
             "id": "Soothing Words",
             "name": "Paroles apaisantes",
             "description": "<p>Vous tentez de calmer la cible en prononçant des mots apaisants d’un ton calme et uniforme. La cible gagne un bonus de statut de +1 aux jets de sauvegarde de Volonté. Ce bonus augmente à +2 contre les effets d’émotion.</p>\n<p>De plus, quand vous Lancez ce sort, vous pouvez tenter de contrer un effet d’émotion sur la cible</p>\n<hr>\n<p><strong>Intensifié (5e)</strong> Le bonus aux jets de sauvegarde augmente à +2 ou +3 contre les effets d’émotion</p>"
@@ -1820,6 +1865,11 @@
             "id": "Hideous Laughter",
             "name": "Fou rire",
             "description": "<p>La cible est prise d’un fou rire incontrôlable. Elle doit faire un jet de Volonté.</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée.</p>\n<p>\n<b>Succès</b> La cible est prise d’un fou rire incontrôlable. Elle ne peut plus faire de réactions.</p>\n<p>\n<b>Échec</b> La cible est @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralentie} 1 et ne peut plus faire de réactions.</p>\n<p>\n<b>Échec critique</b> La cible tombe @Compendium[pf2e.conditionspf2e.j91X7x0XSomq8d60]{à terre} et ne peut plus faire d’actions ou de réactions pendant un round. Elle subit ensuite les effets de l’échec.</p>"
+        },
+        {
+            "id": "Purple Worm Sting",
+            "name": "Dard du ver pourpre",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous attaquez comme un redoutable ver pourpre. Vous infligez 6d6 dégâts perforants à la créature touchée et lui inoculez du venin de ver pourpre. La cible doit faire un jet de Vigueur.<br /></span></p>\n<p><strong>Succès critique</strong> La cible n’est pas affectée.<br /><strong>Succès</strong> La cible subit 3d6 dégâts de poison.<br /><strong>Échec</strong> La cible est contaminée par le venin de ver pourpre au stade 1.<br /><strong>Échec critique</strong> La cible est contaminée par le venin de ver pourpre au stade 2.</p>\n<hr />\n<p><strong>Venin de ver pourpre</strong>&nbsp;(poison);&nbsp;<strong>Niveau</strong>&nbsp;11;&nbsp;<strong>Durée maximum</strong>&nbsp;6 rounds.&nbsp;<strong>Stade 1</strong>&nbsp;3d6 dégâts de poison et @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{affaibli} 2 (1 round);&nbsp;<strong>Stade 2</strong>&nbsp;4d6 dégâts de poison et @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{affaibli} 2 (1 round);&nbsp;<strong>Stade 3</strong>&nbsp;6d6 dégâts de poison et @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{affaibli} 2 (1 round).</p>"
         },
         {
             "id": "Cloak of Colors",

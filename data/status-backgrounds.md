@@ -1,19 +1,24 @@
 # État de la traduction (backgrounds)
 
  * **libre**: 142
- * **officielle**: 40
- * **aucune**: 1
- * **changé**: 4
+ * **officielle**: 39
+ * **aucune**: 6
+ * **changé**: 5
 
 
-Dernière mise à jour: 2020-10-04 08:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-10-24 19:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[45DuRopZt9dTJo3a.htm](backgrounds/45DuRopZt9dTJo3a.htm)|Translator|
+|[lGXKBZYzT2IM69Yj.htm](backgrounds/lGXKBZYzT2IM69Yj.htm)|Pathfinder Recruiter|
+|[RuQNK9zaRqpe45H9.htm](backgrounds/RuQNK9zaRqpe45H9.htm)|Trailblazer|
+|[sPar7gD7KpbKcZLJ.htm](backgrounds/sPar7gD7KpbKcZLJ.htm)|Spell Seeker|
 |[tkA82BeDl8NJO8nF.htm](backgrounds/tkA82BeDl8NJO8nF.htm)|Ex-Con Token Guard|
+|[YYgcTGfA8UIJwv3Y.htm](backgrounds/YYgcTGfA8UIJwv3Y.htm)|Archaeologist|
 
 ## Liste des traductions complétés
 
@@ -183,7 +188,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VJx0O3rGNjZ0X22p.htm](backgrounds/VJx0O3rGNjZ0X22p.htm)|Sewer Dragon|Dragon des égoûts|libre|
 |[VnoaNi40DBN0ZV8y.htm](backgrounds/VnoaNi40DBN0ZV8y.htm)|Field Medic|Médecin militaire|officielle|
 |[VOI91rOapoBqgUv7.htm](backgrounds/VOI91rOapoBqgUv7.htm)|Black Market Smuggler|Contrebandier du Marché noir|libre|
-|[VoWlFBfksysrf8zY.htm](backgrounds/VoWlFBfksysrf8zY.htm)|Acolyte|Acolyte|officielle|
+|[VoWlFBfksysrf8zY.htm](backgrounds/VoWlFBfksysrf8zY.htm)|Acolyte|Acolyte|changé|
 |[Vu7pydxrARfYD67B.htm](backgrounds/Vu7pydxrARfYD67B.htm)|Ruby Phoenix Enthusiast|Enthousiaste du Phénix de rubis|libre|
 |[Vuzq4NkLghj6dy2c.htm](backgrounds/Vuzq4NkLghj6dy2c.htm)|Detective|Détective|officielle|
 |[vWVQYrsqSr1VZKkv.htm](backgrounds/vWVQYrsqSr1VZKkv.htm)|Cook|Cuisinier|libre|

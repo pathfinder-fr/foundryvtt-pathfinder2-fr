@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
  * **aucune**: 3
- * **officielle**: 230
+ * **officielle**: 231
  * **libre**: 127
- * **changé**: 27
+ * **changé**: 26
 
 
-Dernière mise à jour: 2020-10-04 08:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-10-24 19:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -24,7 +24,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|officielle|
 |[alchemist-01-eNZnx4LISDNftbx2.htm](classfeatures/alchemist-01-eNZnx4LISDNftbx2.htm)|Chirugeon|Chirurgien|officielle|
 |[alchemist-01-P9quO9XZi3OWFe1k.htm](classfeatures/alchemist-01-P9quO9XZi3OWFe1k.htm)|Toxicologist|Toxicologiste|libre|
-|[alchemist-01-Pe0zmIqyTBc2Td0I.htm](classfeatures/alchemist-01-Pe0zmIqyTBc2Td0I.htm)|Advanced Alchemy|Alchimie avancée|changé|
+|[alchemist-01-Pe0zmIqyTBc2Td0I.htm](classfeatures/alchemist-01-Pe0zmIqyTBc2Td0I.htm)|Advanced Alchemy|Alchimie avancée|officielle|
 |[alchemist-01-sPtl05wwTpqFI0lL.htm](classfeatures/alchemist-01-sPtl05wwTpqFI0lL.htm)|Quick Alchemy|Alchimie rapide|officielle|
 |[alchemist-01-tvdb1jkjl2bRZjSp.htm](classfeatures/alchemist-01-tvdb1jkjl2bRZjSp.htm)|Mutagenist|Mutagèniste|officielle|
 |[alchemist-01-wySB9VHOW1v3TX1L.htm](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Infused Reagents|Réactifs imprégnés|officielle|
@@ -282,7 +282,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-03-5AB9zIVADQvDG76w.htm](classfeatures/rogue-03-5AB9zIVADQvDG76w.htm)|Deny Advantage (Rogue)|Refus d'avantage (Roublard)|officielle|
 |[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|officielle|
 |[rogue-07-CeELxQ9E4dAyHmCX.htm](classfeatures/rogue-07-CeELxQ9E4dAyHmCX.htm)|Evasion (Rogue)|Évasion (Roublard)|officielle|
-|[rogue-07-u6OsJxNFVpEs9aDK.htm](classfeatures/rogue-07-u6OsJxNFVpEs9aDK.htm)|Weapon Specialization (Rogue)|Spécialisation martiale (Rôdeur)|officielle|
+|[rogue-07-u6OsJxNFVpEs9aDK.htm](classfeatures/rogue-07-u6OsJxNFVpEs9aDK.htm)|Weapon Specialization (Rogue)|Spécialisation martiale (Roublard)|officielle|
 |[rogue-07-ujJcCezhvLkbaOvb.htm](classfeatures/rogue-07-ujJcCezhvLkbaOvb.htm)|Vigilant Senses (Rogue)|Sens alertes (Roublard)|officielle|
 |[rogue-09-9SruVg2lZpNaYLOB.htm](classfeatures/rogue-09-9SruVg2lZpNaYLOB.htm)|Debilitating Strikes|Frappes incapacitantes|officielle|
 |[rogue-09-YfiiuhyXONCya73i.htm](classfeatures/rogue-09-YfiiuhyXONCya73i.htm)|Great Fortitude (Rogue)|Vigueur surhumaine (Roublard)|officielle|

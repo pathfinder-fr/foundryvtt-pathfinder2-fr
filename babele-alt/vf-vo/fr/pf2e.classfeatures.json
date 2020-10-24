@@ -823,7 +823,7 @@
         },
         {
             "id": "Weapon Specialization (Rogue)",
-            "name": "Spécialisation martiale (Rôdeur) (Weapon Specialization (Rogue))",
+            "name": "Spécialisation martiale (Roublard) (Weapon Specialization (Rogue))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à infliger de graves blessures avec les armes que vous connaissez le mieux. Vous infligez 2 dégâts de plus avec les armes et les attaques à mains nues pour lesquelles vous êtes expert. Ces dégâts passent à 3 si vous êtes maître et à 4 si vous êtes légendaire.&nbsp;</span></p>"
         },
         {
@@ -1684,7 +1684,7 @@
         {
             "id": "Advanced Alchemy",
             "name": "Alchimie avancée (Advanced Alchemy)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Au cours de vos préparatifs quotidiens, vous créez de nouveaux réactifs imprégnés que vous pouvez utiliser pour créer des objets alchimiques imprégnés. Pour accomplir ceci, vous n’avez pas besoin de faire de test d’Artisanat et vous ne tenez pas compte de la durée en jours nécessaire pour fabriquer ces objets ni des réactifs alchimiques demandés. Votre niveau d’alchimie avancée est égal à votre niveau. Pour chaque lot de réactifs imprégnés utilisé, choisissez un objet alchimique dont le niveau est inférieur ou égal à votre niveau d’alchimie avancée et qui se trouve dans votre formulaire. Vous fabriquez alors un lot de deux objets de ce type. Ces objets ont le trait imprégné et sont efficaces pendant une durée maximum de 24 heures ou jusqu’à vos prochains préparatifs quotidiens..&nbsp;</span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Au cours de vos préparatifs quotidiens, vous créez de nouveaux réactifs imprégnés que vous pouvez utiliser pour créer des objets alchimiques imprégnés. Pour accomplir ceci, vous n’avez pas besoin de faire de test d’Artisanat et vous ne tenez pas compte de la durée en jours nécessaire pour fabriquer ces objets ni des réactifs alchimiques demandés. Votre niveau d’alchimie avancée est égal à votre niveau. Pour chaque lot de réactifs imprégnés utilisé, choisissez un objet alchimique dont le niveau est inférieur ou égal à votre niveau d’alchimie avancée et qui se trouve dans votre formulaire. Vous fabriquez alors un lot de deux objets de ce type. Ces objets ont le trait imprégné et sont efficaces pendant une durée maximum de 24 heures ou jusqu’à vos prochains préparatifs quotidiens.&nbsp;</span></p>"
         },
         {
             "id": "Light Armor Expertise (Bard)",

@@ -3027,7 +3027,7 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette poudre stockée dans un petit roseau ressemble à une fine pous‑ sière métallique. Lorsque vous la lancez dans les airs, elle se colle sur toutes les créatures dans une explosion de 3 m de rayon centrée sur un point à 1,5 m ou moins de vous. Pendant 1 min, les créatures recouvertes ne peuvent pas être masquées ni invisibles, ni bénéficier d’@Compendium[pf2e.spells-srd.j8vIoIEWElvpwkcI]{image miroir} ou de pouvoirs similaires créant des doubles illusoires. Toutes les illusions de niveau 3 ou moins de la zone sont révélées, bien que cela ne dissipe pas leur effet.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>"
         },
         {
-            "id": "Potion of Flying (Lesser)",
+            "id": "Potion of Flying (Standard)",
             "name": "Potion de vol (standard)",
             "description": "<p>Une fois que vous avez bu cette décoction effervescente, vous gagnez une Vitesse de vol de 12 m pendant 1 min.</p>"
         },
