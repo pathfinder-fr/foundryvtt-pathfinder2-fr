@@ -1,4 +1,10 @@
 {
     "label": "Archétypes",
-    "entries": []
+    "entries": [
+        {
+            "id": "Provocator",
+            "name": "Provocator",
+            "description": ""
+        }
+    ]
 }

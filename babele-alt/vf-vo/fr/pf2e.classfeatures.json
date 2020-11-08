@@ -28,7 +28,7 @@
         },
         {
             "id": "Arcane School: Evocation",
-            "name": "Évocation (Arcane School: Evocation)",
+            "name": "École arcanique : Évocation (Arcane School: Evocation)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En tant qu’évocateur, vous baignez dans la puissance brute de la magie et l’utilisez pour créer ou détruire aisément. Vous faites appel aux éléments, à la force ou à l’énergie pour dévaster vos ennemis ou vous aider. Vous savez que l’approche la plus directe est la plus élégante. Vous ajoutez un sort d’évocation de niveau 1 (comme @Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]{décharge électrique}) à votre grimoire. Vous apprenez le sort d’école @Compendium[pf2e.spells-srd.Hu38hoAUSYeFpkVa]{trait de force}.</span></p>"
         },
         {
@@ -1293,8 +1293,8 @@
         },
         {
             "id": "Enigma (Bard Muse)",
-            "name": "Énigmatique (Enigma (Bard Muse))",
-            "description": "<p>Votre muse est un mystère qui vous pousse à percer les secrets bien gardés du multivers. Si votre muse est une créature, ce peut être un dragon ou une entité d’outre-monde, ou peut-être Irori ou Néthys si c’est une divinité. Vous obtenez le don @Compendium[pf2e.feats-srd.uVXEZblPRuCyPRua]{Connaissance bardique}  et ajoutez @Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{coup au but} à votre répertoire de sorts.&nbsp;</p>"
+            "name": "Énigmatique (Muse de barde) (Enigma (Bard Muse))",
+            "description": "<p>Votre muse est un mystère qui vous pousse à percer les secrets bien gardés du multivers. Si votre muse est une créature, ce peut être un dragon ou une entité d’outre-monde, ou peut-être Irori ou Néthys si c’est une divinité. Vous obtenez le don @Compendium[pf2e.feats-srd.uVXEZblPRuCyPRua]{Connaissance bardique}  et ajoutez @Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{Coup au but} à votre répertoire de sorts.&nbsp;</p>"
         },
         {
             "id": "Witch Spellcasting",

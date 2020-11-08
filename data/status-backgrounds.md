@@ -1,12 +1,12 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 142
+ * **libre**: 143
  * **officielle**: 39
- * **aucune**: 6
+ * **aucune**: 5
  * **changé**: 5
 
 
-Dernière mise à jour: 2020-10-24 19:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-08 10:16 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -18,7 +18,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[RuQNK9zaRqpe45H9.htm](backgrounds/RuQNK9zaRqpe45H9.htm)|Trailblazer|
 |[sPar7gD7KpbKcZLJ.htm](backgrounds/sPar7gD7KpbKcZLJ.htm)|Spell Seeker|
 |[tkA82BeDl8NJO8nF.htm](backgrounds/tkA82BeDl8NJO8nF.htm)|Ex-Con Token Guard|
-|[YYgcTGfA8UIJwv3Y.htm](backgrounds/YYgcTGfA8UIJwv3Y.htm)|Archaeologist|
 
 ## Liste des traductions complétés
 
@@ -210,3 +209,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[yphbsrQe9KmQefU9.htm](backgrounds/yphbsrQe9KmQefU9.htm)|Emissary|Émissaire|officielle|
 |[YS8l22rXhnLnyBqb.htm](backgrounds/YS8l22rXhnLnyBqb.htm)|Bonuwat Wavetouched|Bonuwat Touché par les vagues|libre|
 |[YYGaSpcfC3XBnyg1.htm](backgrounds/YYGaSpcfC3XBnyg1.htm)|Vidrian Reformer|Réformateur vidrien|libre|
+|[YYgcTGfA8UIJwv3Y.htm](backgrounds/YYgcTGfA8UIJwv3Y.htm)|Archaeologist|Archéologue|libre|

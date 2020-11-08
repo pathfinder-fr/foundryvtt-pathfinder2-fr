@@ -242,6 +242,11 @@
             "description": "<p>Ce liquide contient du sang d’un dragon blanc adulte. Pendant 1 h après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait froid. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte un cône de 4,5m de dégâts de froid. Le souffle d'un dragon blanc adulte inflige 6d6 dégâts de froid et chaque créature dans la zone touchée doit faire un jet de réflexes basique DD 29. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds. </p>"
         },
         {
+            "id": "Class Kit (Witch)",
+            "name": "Kit de classe (sorcière)",
+            "description": "<div><strong>Armes</strong> faucille, fronde avec 20 billes, bâton</div>\n<div><strong>Equipement </strong> pack de l'aventurier, vêtement d'explorateur, poche de composants matériels</div>\n<div><strong>Options</strong> <a class=\"entity-link\" data-pack=\"pf2e.equipment-srd\" data-id=\"Yf7maiRDmmHAyF82\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Articles de cuisine</a> (1 gp), <a class=\"entity-link\" data-pack=\"pf2e.equipment-srd\" data-id=\"s1vB3HdXjMigYAnY\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Outils de guérisseur</a> (5 gp)</div>"
+        },
+        {
             "id": "Serene Mutagen (Moderate)",
             "name": "Mutagène de sérénité (modéré)",
             "description": "Vous gagnez en sérénité intérieure, vous concentrant sur les détails et renforçant votre esprit contre les assauts mentaux, mais la violence vous rebute. Le bonus est de +2 ou +3 contre les effets mentaux et la durée de 10 min."
@@ -390,6 +395,11 @@
             "id": "Adamantine Buckler (Standard-Grade)",
             "name": "Targe en adamantium (qualité standard)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</span></p>\n<p>La targe a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 50 po d’adamantium.&nbsp;</span></p>"
+        },
+        {
+            "id": "Crystal Shards (Greater)",
+            "name": "Éclats de crystal (supérieur)",
+            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>&nbsp;Attaquer</p>\n<hr>\n<p>Cette bouteille contient un gaz rouge-brun sous pression parsemé de morceaux de cristal sublimé. Vous gagnez le bonus d'objet listé pour les jets d'attaque. Lorsque la bombe explose, la cible subit les dégâts perçant et d'éclaboussure énumérés ci-après, car le mélange se transforme soudainement en cristaux solides volant à grande vitesse.</p>\n<p>Les surfaces dans la zone d'éclaboussures deviennent fragiles, des cristaux rouges luisants s'éffritant en poussière après 1 minute. Les cristaux sur les surfaces planes agissent alors comme des <a class=\"entity-link\" data-pack=\"pf2e.equipment-srd\" data-id=\"7fSnvJ2xoSfa6JXD\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> chasse-trappes</a> (Core Rulebook 287). Les cristaux sur les surfaces verticales peuvent être utilisés brièvement comme poignées, ce qui permet d'accorder le bonus de l'article énuméré au prochain test d'athlétisme pour escalader<a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"pprgrYQ1QnIDGZiy\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> escalader</a>. Les cristaux de chaque espace s'effritent après le départ de la créature, qu'elle soit en train de grimper ou de se déplacer dans les chasse-trappes.</p>\n<p>Le bonus d'objet est de +2. La bombe fait 3d4 de dégâts perçants et 5 points de dégâts d'éclaboussures perçantes.</p>"
         },
         {
             "id": "Mistform Elixir (Greater)",
@@ -557,6 +567,11 @@
             "description": ""
         },
         {
+            "id": "Dread Ampoule (Moderate)",
+            "name": "Ampoule d'effroi (modérée)",
+            "description": "<p><strong>Usage</strong> Tenir dans une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>&nbsp;Attaquer</p>\n<hr>\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas de coup, la cible devient @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayé} 1, ou effrayé 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>Vous gagnez un bonus d'objet de +1 sur le jet d'attaque. La bombe cause 2d6 de dommages psychologiques et 2 de dommage d'éclaboussure</p>"
+        },
+        {
             "id": "Hunting Spider Venom",
             "name": "Venin d'araignée chasseresse",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce venin érode les défenses de la victime, aidant l’araignée à la maîtriser.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong>  Vigueur DD 21 DC; <strong>Durée maximum</strong> 6 rounds; <strong>Stade 1</strong> 1d10 dégâts de poison et pris au dépourvu (1 round) ; <strong>Stade 2</strong>1d12 dégâts de poison, maladroit 1 et pris au dépourvu (1 round) ;<strong>Stade 3</strong> 2d6 dégâts de poison, maladroit 2 et pris au dépourvu (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir</span></p>"
@@ -635,6 +650,11 @@
             "id": "Wand of Continuation (6th-Level Spell)",
             "name": "Baguette de prolongation (sort de niveau 6)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette augmente la durée d’un sort. Des braises jaunes dé‑ crivent des spirales sur sa surface jusqu’à la fin du sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> once per day, plus overcharge; the activation takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> to cast, or <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">; <strong>Effet</strong>  Vous Lancez le sort et sa durée est augmentée de moitié.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation d’un sort du ni‑ veau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> et une durée comprise entre 10 min et 1 h.</span></p>"
+        },
+        {
+            "id": "Ghost Ink",
+            "name": "Encre sympathique",
+            "description": "<p><strong>Activation</strong>&nbsp;10 minutes (Interaction)</p>\n<p>Cette encre bleu pâle sèche rapidement, devenant totalement transparente 1 minute après application. L'encre devient rouge lorsqu'elle est exposéée à la châleur, comme celle d'une torche ou d'une flamme. Cette brillance dure tant que l'encre est exposée à la châleur, après quoi l'encre redevient invisible. Le fabriquant de l'encre sypathique peut légèrement altérer la formule pour à la palace rendre l'encre sensibleà la lumière du soleil, celle des étoires , une lumière magique ou une lumière sans châleur créée par un effet alchimique comme celui d'un bâton éclairant.</p>\n<p>Lorsque le texte ne brille pas, une créature examinant de près une surface marquée d'encre sympathique peut détecter la présence de l'encre en réussissant un test de Perception DD 25. En cas de succès critique, il peut apercevoir suffisamment l'encre pour faire usage de Société pour @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Déchiffrer l'écriture}. Une fiole d'encre sympathique est suffisante pour écrire la valeur d'une page de texte.</p>"
         },
         {
             "id": "Shining Ammunition",
@@ -850,6 +870,11 @@
             "id": "Wayfinder",
             "name": "Guide",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette boussole compacte recycle une ancienne technologie pour acti‑ ver les fantastiques pouvoirs des mystérieux objets magiques appelés pierres d’éternité. Il sert d’insigne d’office pour les agents de la Société des Éclaireurs et de symbole de statut pour les aventuriers de tous bords. Un guide fonctionne comme une boussole.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">On peut insérer une unique pierre d’éternité (page 600) dans une petite encoche au milieu du guide. L’insertion d’une pierre d’éternité dans l’encoche vous confère tous les avantages de la pierre d’éternité, comme si elle tournait autour de votre tête, mais le guide la protège en la camouflant et en compliquant les tentatives de ceux qui voudraient s’en emparer. Vous investissez un guide et la pierre d’éternité insérée à l’intérieur simultané‑ ment, et ils comptent comme un seul objet en ce qui concerne votre limite d’investiture. Une pierre d’éternité investie et insérée dans un guide vous confère également son pouvoir de résonance.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous avez sur vous plus d’un guide avec une pierre d’éternité investie, les interférences destructrices engendrées par leur résonance vous em‑ pêchent de bénéficier des avantages de toutes ces pierres. Vous pouvez toujours profiter des avantages que confèrent les éventuelles pierres d’éternité qui tournent autour de votre tête, mais pas de celles insérées dans les <em>guides</em>.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre ; <strong>Effet</strong> Le <em>guide</em> est la cible du sort lumière de niveau 1.</span></p>"
+        },
+        {
+            "id": "Blight Bomb (Moderate)",
+            "name": "Bombe fléau (modérée)",
+            "description": "<p><strong>Usage</strong> Tenir dans une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Attaque</p>\n<p>Les bombes anti-maladie contiennent des produits chimiques toxiques volatils qui pourrissent la chair. A\nLa bombe fléeau modérée cause 2d6 de dommage de poison, 2d4 de dommage de poison persistant et 2 point de dégat d'éclaboussure.Vous obtenez un bonus de +1 au jet d'attaque.</p>"
         },
         {
             "id": "Rhodochrosite",
@@ -1272,6 +1297,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les ogres sont connus pour utiliser d’immenses pics de guerre incurvés appelés des crochets d’ogre.&nbsp;</span></p>"
         },
         {
+            "id": "Dread Ampoule (Greater)",
+            "name": "Ampoule d'effroi (supérieure)",
+            "description": "<p><strong>Usage</strong> Tenir dans une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>&nbsp;Attaquer</p>\n<hr>\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas de coup, la cible devient @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayé} 1, ou effrayé 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>Vous gagnez un bonus d'objet de +2 sur le jet d'attaque. La bombe cause 3d6 de dommages psychologiques et 3 de dommage d'éclaboussure</p>"
+        },
+        {
             "id": "Mace",
             "name": "Masse d'armes",
             "description": "<p>Avec un solide manche et une lourde tête en métal, une masse d’armes est robuste et permet à celui qui la manie de porter des coups puissants et de cabosser une armure.</p>"
@@ -1582,6 +1612,11 @@
             "description": ""
         },
         {
+            "id": "Tindertwig",
+            "name": "Brindille d'amadou",
+            "description": "<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>&nbsp;Interagir</p>\n<pUne substance alchimique appliquée à une extrémité de ce petit bâton en bois s'enflamme lorsqu'elle est frappée contre une surface rugueuse. Créer une flamme avec une brindille d'amadou est beaucoup plus rapide que créer une flamme avec du silex et de l'acier. Vous pouvez allumer le tindertwig et le toucher à un objet inflammable dans le cadre de la même action d'interaction.</p>\n<p>&nbsp;</p>"
+        },
+        {
             "id": "Orichalcum Chunk",
             "name": "Morceau d'orichalque",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’orichalque est le plus rare et le plus précieux des métaux célestes et il est très recherché pour ses incroyables propriétés magiques liées au passage du temps. Ce métal cuivré terne n’est pas aussi résistant que l’adamantium, mais sa capacité à modifier le temps le protège et lui donne une Solidité et des points de vie supérieurs. Si un objet en orichalque subit des dégâts, mais n’est pas détruit, il se répare complètement en 24 h.&nbsp;</span></p>\n<p>&nbsp;</p>\n<h2>Objets en orichalque</h2>\n<table style=\"width: 381px; user-select: text; color: #191813; font-size: 13px; height: 197px;\" border=\"1\">\n<tbody style=\"box-sizing: border-box; user-select: text;\">\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; color: white; height: 32px; width: 220px; background-color: #522e2c; text-align: center;\">\n<h3><span id=\"ctl00_MainContent_DetailedOutput\">Orichalque</span><span id=\"ctl00_MainContent_DetailedOutput\"><strong>&nbsp;Objets</strong></span></h3>\n</td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 74px; text-align: center; background-color: #522e2c; height: 32px;\">\n<h3><strong style=\"box-sizing: border-box; user-select: text;\"><strong>Solidité</strong>&nbsp;</strong></h3>\n</td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 41px; text-align: center; background-color: #522e2c; height: 32px;\">\n<h3>PV</h3>\n</td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 45px; text-align: center; background-color: #522e2c; height: 32px;\">\n<h3>SR</h3>\n</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 25px; width: 220px; text-align: center; background-color: #f6f1e1;\"><strong>Objet fin</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 25px; width: 220px; text-align: center; background-color: #eee5c8;\">Haute qualité</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #eee5c8; height: 25px;\">16</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #eee5c8; height: 25px;\">64</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #eee5c8; height: 25px;\">32</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; height: 25px; width: 220px; text-align: center; background-color: #f6f1e1;\"><strong>Objets</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #eee5c8; height: 25px;\">Haute qualité<strong><br></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #eee5c8; height: 25px;\">18</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #eee5c8; height: 25px;\">72</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #eee5c8; height: 25px;\">36</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #f6f1e1; height: 25px;\"><strong>Structure</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #f6f1e1; height: 25px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 220px; text-align: center; background-color: #eee5c8; height: 25px;\">Haute qualité<strong><br></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 74px; text-align: center; background-color: #eee5c8; height: 25px;\">35</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 41px; text-align: center; background-color: #eee5c8; height: 25px;\">140</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 45px; text-align: center; background-color: #eee5c8; height: 25px;\">70</td>\n</tr>\n</tbody>\n</table>"
@@ -1630,6 +1665,11 @@
             "id": "Sickle",
             "name": "Serpe",
             "description": "<p>à l’origine un outil agricole utilisé pour faucher le grain, cette arme à une main possède un court manche en bois se terminant par une lame incurvée, parfois affûtée des deux côtés.</p>"
+        },
+        {
+            "id": "Ration Tonic",
+            "name": "Ration énergisante",
+            "description": "<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">1</span> Interagir</p>\n<p>Cette fiole élancée semble contenir une eau propre et claire au parfum légèrement fruité. Boire un tonique de rationnement vous nourrit comme par magie avec l'équivalent d'une journée de nourriture et d'eau. Le tonique a un goût subtil et agréable, dont les caractéristiques ont été choisies lors de la création de la potion.</p>"
         },
         {
             "id": "Magic Wand (8th-Level Spell)",
@@ -1882,6 +1922,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette cape d’un vert profond avec une large capuche est ornée de broderies au fil d’or et de symboles culturels importants pour les elfes. La cape vous permet de lancer le tour de magie son imaginaire comme un sort inné arcanique. Quand vous rajustez le fermoir de la cape (une action Interagir), celle‑ci change d’apparence pour s’adapter à votre environnement et étouffe les bruits que vous faites, ce qui vous confère un bonus d’objet de +1 aux tests de Discrétion.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Frequency</strong> 1/jour; <strong>Effet</strong>  Vous rabattez la capuche sur votre tête et bénéficiez des effets d’une invisibilité pendant la durée normale du sort ou jusqu’à ce que vous retiriez la capuche de votre tête, selon ce qu’il advient en premier. Si vous portez également des bottes elfiques  @Compendium[pf2e.equipment-srd.T00Xa9aDwHxd60Zh]{Boots of Elvenkind}, vous pouvez activer ce pouvoir deux fois par jour. </span></p>"
         },
         {
+            "id": "Sunrod",
+            "name": "Bâton éclairant",
+            "description": "<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">Une</span>&nbsp;Interaction</p>\n<p>Ce bâton d'une trentaine de centimètres de long au bout doré brille lorsqu'il est frappé contre une surface solide. Pendant les 6 prochaines heures, il génère une lumière brillante dans un rayon de 6 m (et une lumière faible dans les 12 m suivants).</p>\n<p>&nbsp;</p>"
+        },
+        {
             "id": "Aldori Dueling Sword",
             "name": "Épée de duel aldori",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une épée de duel Aldori est une lame de duel fine à tranchant unique formant une légère courbe et disposant d'une pointe aguisée et renforcée.&nbsp;</span></p>"
@@ -1972,9 +2017,19 @@
             "description": "<p><span class=\"fontstyle0\">Une torche émet une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà). Elle peut être utilisée comme une arme improvisée, infligeant 1d4 dégâts contondants plus 1 dégât de feu. </span> </p>"
         },
         {
+            "id": "Dread Ampoule (Major)",
+            "name": "Ampoule d'effroi (majeure)",
+            "description": "<p><strong>Usage</strong> Tenir dans une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>&nbsp;Attaquer</p>\n<hr>\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas de coup, la cible devient @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayé} 1, ou effrayé 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>Vous gagnez un bonus d'objet de +3 sur le jet d'attaque. La bombe cause 4d6 de dommages psychologiques et 4 de dommage d'éclaboussure</p>"
+        },
+        {
             "id": "Lantern (Hooded)",
             "name": "Lanterne à capote",
             "description": "<p><span class=\"fontstyle0\">Une lanterne diffuse une lumière vive et nécessite 0,5 litre d’huile pour fonctionner pendant 6 heures. Une lanterne à capote émet sa lumière avec un cône de 18 m (et une lumière faible les 18 m au-delà). Une lanterne sourde émet sa lumière dans un rayon de 9 m (et une lumière faible les 9 m au-delà) et est équipée de volets que vous pouvez fermer pour bloquer la luminosité. Fermer ou ouvrir les volets nécessite une action Interagir.</span> </p>"
+        },
+        {
+            "id": "Dust Pods",
+            "name": "Sachet de poussière",
+            "description": "<p>Vous cachez de fragiles sachets de pollen ou d'autres poudres qui s'accrochent et qui se retrouvent dans les yeux de la première créature qui entre dans le carré du piège. La créature doit tenter un lancer de sauvetage DC 17 Reflex. Une créature éblouie par le pollen peut utiliser une action Interact pour tenter un DC 5 flat check afin d'éliminer la condition.</p>\n<p><strong>Succès critique</strong>&nbsp;La créature n'est pas affectée.<br><strong>Succès</strong>&nbsp;La créature est éblouie pendant 1 tour. <br><strong>Echec</strong>&nbsp;La créature est éblouie pendant 10 minutes.<br><strong>Echec critique</strong>&nbsp;La créature est aveuglée pendant 1 round et éblouie pendant 10 minutes après.</p>"
         },
         {
             "id": "Mentalist's Staff (Greater)",
@@ -2302,6 +2357,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les verres de cristal opaque de ces élégantes lu‑ nettes ne bloquent pas la vision, elles l’améliorent même. Tant que vous portez les lunettes, vous béné‑ ficiez d’un bonus d’objet de +2 aux tests de Perception visuelle.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> Tourner les verres de 90 degrés permet d’obtenir la vision dans le noir  jusqu’à ce que vous tourniez les verres dans l’autre sens ou que vous n’investissiez plus l’objet, selon ce qui se produit en premier. .&nbsp;</span></p>"
         },
         {
+            "id": "Jellyfish Lamp",
+            "name": "Lampe méduse",
+            "description": "<p><span>Ces méduses bioluminescentes sont aussi brillantes que des bougies, existent en différentes couleurs et peuvent agir comme des lanternes vivantes. Elles se dessèchent et meurent si elles sont retirées de l'eau pendant plus d'une heure, mais tant qu'elles ont accès à l'eau de mer, elles peuvent généralement survivre jusqu'à un an en se nourrissant de micronutriments. Rarement, une lampe à méduses bien traitée peut vivre plus longtemps et développer une lumière plus forte ou des capacités supplémentaires.&nbsp;</span></p>"
+        },
+        {
             "id": "Primal Scroll Case of Simplicity",
             "name": "Étui à parchemin de simplicité primordiale",
             "description": "<p>Les quatre types différents d'<em>étuis à parchemin de simplicité</em> portent souvent des décorations appropriés à leur tradition magique, comme des ailes d'ange ou des lettres mystiques. Sur l'intérieur, des spirales de diagrammes runiques entourent le parchemin contenu à l'intérieur. Un parchemin placé dans cet étui peut être converti en énergie pour lancer systématiquement des sorts utiles en fonction de son type. Vous devez être capable de lancer des sorts de la tradition donnée pour utiliser un <em>étui à parchemin de la simplicité</em> du type correspondant.<br /></span></p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">Une action </span> Interagir ; <strong>Conditions</strong> L'étui à parchemin contient un unique parchemin du niveau 1 ; <strong>Effet</strong> Vous transférez l'énergie du parchemin dans l'étui à parchemin, consumant le parchemin et vous pouvez immédiatement lancer un des sorts de l'étui à parchemin. Si vous utilisez une action quelconque autre que Lancer un sort de l'étui à parchemin après avoir activer l'<em>étui à parchemin de la simplicité</em>, la parchemin et l'énergie sont perdus.</span></p>\n<p>L'étui à parchemin peut être utilisé pour lancer @Compendium[pf2e.spells-srd.KcLVELhCUcKXxiKE]{grande foulée} ou @Compendium[pf2e.spells-srd.zlnXpME1T2uvn8Lr]{passage sans trace}</p>"
@@ -2322,6 +2382,11 @@
             "description": ""
         },
         {
+            "id": "Talisman Cord (Lesser)",
+            "name": "Corde de talisman (inférieur)",
+            "description": "<p>Cette fine corde de cuir porte de délicates marques runiques et se faufile à travers un objet pouvant porter des talismans apposés.</p>\n<p>Lorsque vous fixez un talisman à cet objet, vous pouvez l'enfiler sur le cordon, ce qui active les effets de préservation du cordon. Le cordon est accordé à une école de magie particulière, choisie lors de la création du cordon. Il acquiert le trait correspondant à cette école. Lorsque vous activez un talisman enfilé sur un cordon ayant le même trait d'école magique que celui du cordon ou un trait inférieur, essayez de faire un test DC 16 basique. En cas de succès, ce talisman n'est pas consommé et peut être réutilisé."
+        },
+        {
             "id": "Sai",
             "name": "Saï",
             "description": "<p><span class=\"fontstyle0\">Cette dague perforante possède une fine lame flanquée d’une paire de griffes pouvant servir à bloquer l’arme de l’ennemi. </span></p>"
@@ -2340,6 +2405,11 @@
             "id": "Ruby, large",
             "name": "rubis, gros",
             "description": ""
+        },
+        {
+            "id": "Boarding Pike",
+            "name": "Pique d'abordage",
+            "description": "<p>Prenant la forme d'une pique avec un bout formé d'une barre transversale ou d'un crochet, une pique d'abordage fournit à son porteur un moyen particulièrement pratique aussi bien pour repousser les ennemis qui abordent que pour faciliter l'abordage d'autres vaisseaux. C'est une arme martiale de mêlée.</p>"
         },
         {
             "id": "Wooden Shield",
@@ -2540,6 +2610,11 @@
             "id": "Silver Buckler (Standard-Grade)",
             "name": "Targe en argent (qualité standard)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en argent ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 3, 12 PV et un SR de 6<br><strong>Conditions de fabrication</strong> au moins 375 pa d’argen&nbsp;</span></p>"
+        },
+        {
+            "id": "Detective's Kit",
+            "name": "Kit de l'investigateur",
+            "description": "<p>Cette sacoche en cuir contient des flacons vides, une paire de pinces, une réserve de petits chiffons de lin, un jeu de pieds à coulisse en laiton et une ficelle à nœuds pour mesurer les distances, plusieurs morceaux de craie, un stylo et un carnet vierge pour prendre des notes. Chaque élément d'un kit de détective est de qualité supérieure, et donc un kit de détective ajoute un bonus de +1 article aux contrôles pour enquêter sur une scène de crime, un indice ou des détails similaires.</p>"
         },
         {
             "id": "Formula Book (Blank)",
@@ -2752,6 +2827,16 @@
             "description": ""
         },
         {
+            "id": "Ghost Charge (Lesser)",
+            "name": "Charge fantôme (inférieure)",
+            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\"></span>&nbsp;Attaquer</p>\n<hr>\n<p>Ces boîtes métalliques à ressort contiennent un mélange de produits chimiques et de sels qui drainent et désintègrent les créatures mortes-vivantes à proximité. Une charge fantôme occasionne des dégâts positifs et des dégâts d'éclaboussures énumérés ci-après, bien que comme d'habitude pour les dégâts positifs, ces dégâts ne nuisent qu'aux morts-vivants et aux créatures à guérison négative. Les charges fantômes sont conçues pour exploser même au contact d'une substance spirituelle, ce qui les rend idéales pour endommager les morts-vivants intangibles. Une cible  qui subit des dégâts d'une charge fantôme devient @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{affaibli} 1 jusqu'au début de votre prochain tour. De nombreux types accordent un bonus d'objet aux jets d'attaque.</p>\n<p>La bombe occasionne 1d8 dégâts et 1 point de dégât d'éclaboussure positive et la cible est affaiblie 1 jusqu'au début de votre prochain tour. </p>\n\n\n\n\n\n\n\n\n\n\n\n."
+        },
+        {
+            "id": "Snake Oil",
+            "name": "Huile de serpent",
+            "description": "<p><strong>Activation</strong>&nbsp;<span style=\"font-family : 'Pathfinder2eActions' ; font-size : 1.8em ; display : inline ;\">A</span>&nbsp;Interagir</p>\n<p>Vous pouvez appliquer de l'huile de serpent sur une blessure ou tout autre symptôme extérieur d'une affection ou d'une condition (comme les plaies d'une maladie ou la décoloration d'un poison). Pendant l'heure qui suit, le symptôme disparaît et la créature blessée ou affligée n'a pas l'impression d'avoir encore la blessure ou l'affliction, bien que tous les effets demeurent. Une créature peut découvrir la ruse en réussissant un contrôle de perception DC 17, mais seulement si elle utilise une action \"rechercher\" pour examiner spécifiquement les effets de l'huile de serpent.</p>\n<p>&nbsp;</p>"
+        },
+        {
             "id": "Bottled Lightning (Greater)",
             "name": "Foudre en bouteille (supérieur)",
             "description": "La foudre en bouteille déborde de réactifs volatiles qui créent une décharge électrique une fois exposés à l’air. Elle inflige les dégâts d’électricité, les dégâts d’électricité persistants et les dégâts d’éclaboussure d’électricité indiqués. Une cible touchée est prise au dépourvu jusqu’au début de votre prochain tour. Plusieurs types de bombes donnent un bonus d’objet aux jets d’attaque. Vous gagnez un bonus d’objet de +2 aux jets d’attaque. La bombe inflige 3d6 dégâts d’électricité et 3 dégâts d’éclaboussure d’électricité."
@@ -2800,6 +2885,11 @@
             "id": "Slippers of Spider Climbing",
             "name": "Chaussons de l'araignée",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces chaussons souples sont en soie grise de qualité. Si les chaussons ne sont pas portés pendant un certain temps, ils ont tendance à attirer les araignées qui aiment nicher à l’intérieur. <br><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> sur ordre; <strong>Fréquencé</strong> 1/heure; <strong>Effet</strong> De minuscules poils recouvrent les semelles des chaussons, ce qui vous permet de marcher sur des surfaces verticales ou même de vous déplacer sur des plafonds la tête en bas. Pendant une minute, vous obtenez une Vitesse d’escalade de 6 m et vous n’avez plus besoin de vos mains pour Escalader. Les chaussons doivent toute‑ fois suffisamment adhérer à un mur si vous souhaitez marcher dessus et ils sont donc inefficaces si vous vous déplacez le long de surfaces recouvertes de graisse, de glace ou d’huile.</span></p>"
+        },
+        {
+            "id": "Forensic Dye",
+            "name": "Teinture forensique",
+            "description": "<p>Activer cette fiole de liquide transparent nécessite d'insérer un petit peu d'une autre substance chimique ou un matériau, tel que du sang ou de la boue. La fiole réagit rapidement, se transformant en une substance boueuse terre de sienne.</p>\n<p>Une fois activée, la teinture reste puissante pendant 10 minutes, temps durant lequel vous pouvez passer 1 minute à la brosser sur un unique objet jusqu'à 1 Encombrement ou sur le sol dans une case de 1,5 m. Là où la teinture rentre en contact avec l'exacte matière qui a servi à l'activer, elle prend une nuance bleue brillante, tout en restant transparente dans les zones où il n'y a pas de composant d'activation présent.</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">1</span>&nbsp;Interaction</p>"
         },
         {
             "id": "Buckler",
@@ -2977,6 +3067,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">On peut changer l’aspect de cette armure d’une simple pensée.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> imaginer; <strong>Effet</strong>  Vous changez la forme et l’as‑ pect de cette armure pour qu’elle ressemble aux vêtements beaux ou ordinaires que vous imaginez. Les statistiques de l’armure ne changent pas. Seule une créature qui bénéficie d’une vision lucide ou d’un effet similaire peut tenter de discerner l’illusion contre un DD de 25.</span></p>"
         },
         {
+            "id": "Blight Bomb (Greater)",
+            "name": "Bombe fléau (supérieure)",
+            "description": "<p><strong>Usage</strong> Tenir dans une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Attaque</p>\n<p>Les bombes anti-maladie contiennent des produits chimiques toxiques volatils qui pourrissent la chair. A\nLa bombe fléau supérieure cause 3d6 de dommage de poison, 3d4 de dommage de poison persistant et 2 point de dégat d'éclaboussure.Vous obtenez un bonus de +2 au jet d'attaque.</p>"
+        },
+        {
             "id": "Clothing (Ordinary)",
             "name": "Vêtements (ordinaire)",
             "description": "<p>Les vêtements ordinaires sont fonctionnels avec une confection de base, comme les vêtements de paysan, les robes de moine ou les vêtements de travail.</p>\n<p>&nbsp;</p>"
@@ -3117,6 +3212,11 @@
             "description": "<p>En buvant cette potion claire et rafraîchissante, vous voyez les choses telles qu’elles sont réellement. Vous gagnez les avantages du sort vision lucide au niveau 7 avec un modificateur de contre de +25.</p>"
         },
         {
+            "id": "Grappling Arrow",
+            "name": "Flèche grappin",
+            "description": "<p>Ce petit grappin est conçu pour être attaché à une corde et tiré à partir d'un arc. Lorsqu'il est tiré, il a la moitié de l'augmentation de portée normale de l'arme.</p>"
+        },
+        {
             "id": "Snare Kit (Specialist)",
             "name": "Nécessaire de fabrication de pièges artisanaux spécialisé",
             "description": "<p><span class=\"fontstyle0\">Ce kit contient des outils et du matériel pour fabriquer des pièges artisanaux. Un kit de braconnage vous permet de Fabriquer des pièges artisanaux à l’aide de la compétence Artisanat. Un kit de braconnage spécialisé vous accorde un bonus d’objet de +1 au test.</span> </p>"
@@ -3255,6 +3355,11 @@
             "id": "Clan Dagger",
             "name": "Dague de clan",
             "description": "<p>Cette large dague est portée par les nains à la fois comme une arme, un outil et pour désigner un clan. Perdre ou devoir rendre une dague de clan est considéré comme une honte pour la plupart des nains. </p>"
+        },
+        {
+            "id": "Addiction Suppressant (Lesser)",
+            "name": "Suppreseur d'addiction (inférieur)",
+            "description": "<p><strong>Activation</strong>&nbsp;<span style=\"font-family : 'Pathfinder2eActions' ; font-size : 1.8em ; display : inline ;\">A</span>&nbsp;Interagir</p>\n<p>Quand vous utilisez une dose de suppresseur d'addication', elle supprime les effets de cette dépendance pendant 1 jour, comme si vous aviez pris une dose réelle de la drogue mais sans aucun de ses effets, et elle n'augmente pas la DC de la dépendance. Vous bénéficiez également d'un bonus de +1 élément par rapport à la réduction de la dépendance à la drogue en cours, selon le type de suppresseur d(addiction). Pour créer un suppresseur de dépendance, vous devez commencer par une dose de la drogue à supprimer, puis utiliser des réactifs alchimiques pour générer un élixir qui peut être utilisé pour combattre la dépendance à cette drogue. Pour être efficace, un suppresseur d('addiction') doit avoir un niveau plus élevé que la drogue qu'il est censé supprimer.</p>"
         },
         {
             "id": "Bag of Holding (Type III)",
@@ -3437,6 +3542,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 17, 136 PV et un SR de 68.&nbsp;</span></p>"
         },
         {
+            "id": "Ring of Truth",
+            "name": "Anneau de vérité",
+            "description": "<p><span>Cette bague semble être un anneau de mensonges, mais lorsqu'elle est investie, une enquête approfondie révèle des ailes angéliques et des créatures divines cachées sur la face de la bague. Lorsque vous investissez l'anneau, vous devenez incapable de dire un mensonge délibéré, que ce soit en paroles ou par écrit. Si vous tentez d'omettre la vérité ou de formuler des choses de façon véridique mais trompeuse, faites un test DC 11 ; en cas d'échec, l'anneau lui-même fait éclater toute la vérité (telle que vous la croyez) en guise de réponse. Garder le silence n'active pas la malédiction de l'anneau. Une fois que la malédiction s'est activée pour la première fois, l'anneau fusionne avec vous.</span></p>"
+        },
+        {
             "id": "Luck Blade",
             "name": "Lame chanceuse",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La chance est souvent du côté de celui qui manie cette épée courte de frappe supérieure +3. Les lames chanceuses sont forgées dans divers styles, mais leur garde ou leur lame sont souvent ornées de symboles de chance, comme des trèfles à quatre feuilles, des fers à cheval, des poissons, des coccinelles ou autres.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> imaginer; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous ra‑ tez une Frappe avec la lame chanceuse; <strong>Effet</strong> Refaites le jet d’attaque déclencheur et appliquez le nouveau résultat. Il s’agit d’un effet de fortune.&nbsp;</span></p>"
@@ -3605,6 +3715,11 @@
             "id": "Wand of Manifold Missiles (5th-Level Spell)",
             "name": "Baguette de projectiles multiples (sort de niveau 5)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette est ornée d’une tête de dragon à son extrémité et d’une sphère de métal poli au milieu. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Cast a Spell; <strong>Fréquence</strong> 1/jour, plus surchar‑ ger ;<strong>Effet</strong> Vous Lancez projectile magique au niveau indiqué. Après avoir lancé le sort, la baguette tire un ou plusieurs projectiles supplémentaires au début de chacun de vos tours, comme si vous lanciez la version à 1 action de projectile magique. Désignez chaque fois les cibles. Ceci dure 1 min, jusqu’à ce que vous ne teniez plus la baguette en main ou que vous tentiez de l’activer à nouveau.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Supply a casting of <em>magic missile</em> of the appropriate levelFournir une incantation de <em>projectile magique</em> du niveau approprié..</span></p>"
+        },
+        {
+            "id": "Blight Bomb (Major)",
+            "name": "Bombe fléau (majeure)",
+            "description": "<p><strong>Usage</strong> Tenir dans une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Attaque</p>\n<p>Les bombes anti-maladie contiennent des produits chimiques toxiques volatils qui pourrissent la chair. A\nLa bombe fléeau majeure cause 4d6 de dommage de poison, 4d4 de dommage de poison persistant et 4 point de dégat d'éclaboussure.Vous obtenez un bonus de +3 au jet d'attaque.</p>"
         },
         {
             "id": "Gilded ceremonial armor",
@@ -4012,6 +4127,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de ce bâton de bois renforcé par magie est ornée de sym‑ boles runiques magiques sculptés dans l’argent. Quand il est utilisé comme une arme, un bâton de surpuissance est un bâton de frappe supérieure +2.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Détruire sciemment un bâton de surpuissance provoque une formidable explosion d’énergie. Quand vous maniez le bâton, vous pouvez Interagir pour le briser. Ceci provoque une déflagration magique en forme d’explosion de 9 m centrée sur le bâton. Elle inflige 2d8 dégâts de force par charge restante dans le bâton (jet de Réflexes basique DD 40). Vous obtenez automatique‑ ment un échec critique à votre jet de sauvegarde. Une créature réduite à 0 point de vie suite à ces dégâts meurt sur‑le‑champ ; il s’agit d’un effet de mort. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort ; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste. </span></p>\n<ul>\n<li><strong>Niveau 1</strong> @Compendium[pf2e.spells-srd.J7Y7tl0bbdz7TcCc]{Ray of Enfeeblement} </li>\n<li><strong>Niveau 2</strong> @Compendium[pf2e.spells-srd.ynm8JIU3sc3qUMpa]{Continual Flame}</li>\n<li><strong>Niveau 3</strong> @Compendium[pf2e.spells-srd.fI20AVwOzJMHXRdo]{Levitate}</li>\n<li><strong>Niveau 4</strong> @Compendium[pf2e.spells-srd.JOdOpbPDl7nqvJUm]{Globe of Invulnerability}, @Compendium[pf2e.spells-srd.DCQHaLrYXMI37dvW]{Paralyze}</li>\n<li><strong>Niveau 5</strong> @Compendium[pf2e.spells-srd.gKKqvLohtrSJj3BM]{Magic Missile}</li>\n<li><strong>Niveau 6</strong> @Compendium[pf2e.spells-srd.7Iela4GgVeO3LfAo]{Wall of Force}</li>\n<li><strong>Niveau 7</strong> @Compendium[pf2e.spells-srd.3puDanGfpEt6jK5k]{Cone of Cold}, @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}, @Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Lightning Bolt} </li>\n</ul>\n<hr>\n<p><strong>Conditions de fabrication</strong> Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués..</p>"
         },
         {
+            "id": "Dread Ampoule (Lesser)",
+            "name": "Ampoule d'effroi (inférieure)",
+            "description": "<p><strong>Usage</strong> Tenir dans une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>&nbsp;Attaquer</p>\n<hr>\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas de coup, la cible devient @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayé} 1, ou effrayé 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>La bombe cause 1d6 de dommages psychologiques et 1 de dommage d'éclaboussure</p>"
+        },
+        {
             "id": "Darkwood Buckler (Standard-Grade)",
             "name": "Targe en ébénite (qualité standard)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1,sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 3, 12 PV et un SR de 6</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 50 po d’ébénite&nbsp;</span></p>"
@@ -4245,6 +4365,16 @@
             "id": "Dazing Coil",
             "name": "Anneaux d'étourdissement",
             "description": "<p><span>Ce nœud de fils de cuivre prend une nouvelle forme à chaque fois que son arme support inflige des dégâts. Lorsque vous l’activez, la créature\nblessée doit réussir un jet de Volonté DD 31, sinon elle est étourdie 1. En cas d’échec critique, elle est étourdie 2<br></span></p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\"></span> Imaginer; <strong>Déclencheur</strong> Vous infligez des dégâts à une créature prise au dépourvu à l’aide de l’arme support.</span></p>"
+        },
+        {
+            "id": "Grappling Bolt",
+            "name": "Flèche grappin",
+            "description": "<p>Ce petit grappin est conçu pour être attaché à une corde et tiré à partir d'un arc. Lorsqu'il est tiré, il a la moitié de l'augmentation de portée normale de l'arme.</p>"
+        },
+        {
+            "id": "Blight Bomb (Lesser)",
+            "name": "Bombe fléau (inférieure)",
+            "description": "<p><strong>Usage</strong> Tenir dans une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Attaque</p>\n<p>Les bombes anti-maladie contiennent des produits chimiques toxiques volatils qui pourrissent la chair. A\nLa bombe fléeau inférieure cause 1d6 de dommage de poison, 1d4 de dommage de poison persistant et 1 point de dégat d'éclaboussure.</p>"
         },
         {
             "id": "Breastplate of Command (Greater)",
@@ -4580,6 +4710,11 @@
             "id": "Spellstrike Ammunition (Type VI)",
             "name": "Munition de frappe magique (Type VI)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des remous mystiques créent un réservoir magique dans cette munition. Vous activez la munition de frappe magique en lui Lançant un sort. Il doit être d’un niveau que la munition peut absorber et capable de viser une créature autre que son incantateur. Une créature touchée par la munition de frappe magique activée est visée par le sort. Si elle ne représente pas une cible valide pour lui, il est perdu.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La munition affecte uniquement la cible touchée, même si le sort devrait normalement affecter plusieurs cibles. Si le sort exige un jet d’attaque de sort, utilisez le résultat de votre jet d’attaque à distance avec la munition pour déterminer le degré de succès du sort. Si le sort autorise un jet de sauvegarde, la cible l’effectue contre le DD de votre sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce sont le niveau d’objet et le prix de la munition qui déterminent le niveau de sort maximum qu’elle peut contenir.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Lancer un sort</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Niveau de sort maximum 6</span></p>"
+        },
+        {
+            "id": "Crystal Shards (Moderate)",
+            "name": "Éclats de  crystal (modéré)",
+            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>&nbsp;Attaquer</p>\n<hr>\n<p>Cette bouteille contient un gaz rouge-brun sous pression parsemé de morceaux de cristal sublimé. Vous gagnez le bonus d'objet listé pour les jets d'attaque. Lorsque la bombe explose, la cible subit les dégâts perçant et d'éclaboussure énumérés ci-après, car le mélange se transforme soudainement en cristaux solides volant à grande vitesse.</p>\n<p>Les surfaces dans la zone d'éclaboussures deviennent fragiles, des cristaux rouges luisants s'éffritant en poussière après 1 minute. Les cristaux sur les surfaces planes agissent alors comme des <a class=\"entity-link\" data-pack=\"pf2e.equipment-srd\" data-id=\"7fSnvJ2xoSfa6JXD\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> chasse-trappes</a> (Core Rulebook 287). Les cristaux sur les surfaces verticales peuvent être utilisés brièvement comme poignées, ce qui permet d'accorder le bonus de l'article énuméré au prochain test d'athlétisme pour escalader<a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"pprgrYQ1QnIDGZiy\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> escalader</a>. Les cristaux de chaque espace s'effritent après le départ de la créature, qu'elle soit en train de grimper ou de se déplacer dans les chasse-trappes.</p>\n<p>Le bonus d'objet est de +1. La bombe fait 2d4 de dégâts perçants et 4 éclaboussures perçantes.</p>"
         },
         {
             "id": "Chandelier crafted from dreams",
@@ -5097,6 +5232,21 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette trousse de guérisseur semble contenir une réserve inépuisable de bandages, d’herbes et d’objets curatifs d’une qualité irréprochable qui vous accordent un bonus de +3 aux tests de Médecine. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">  Soigner un empoisonnement ou 8 h (Soigner une maladie); <strong>Effet</strong>Vous pouvez activez la trousse lorsque vous l’utilisez pour Soigner un empoisonnement afin de produire l’effet de neutralisation du poison de niveau 6 @Compendium[pf2e.spells-srd.SUKaxVZW2TlM8lu0]{Neutralize Poison} ou lorsque vous Soigner une maladie pour produire l’effet de délivrance des maladies de niveau 6 @Compendium[pf2e.spells-srd.RneiyehRO6f7LP44]{Remove Disease}. Une fois les remèdes utilisés pour soigner l’empoisonnement ou la maladie d’un patient, vous ne pouvez pas les réutiliser pour soigner la même affliction chez ce patient. &nbsp;</p>"
         },
         {
+            "id": "Knapsack of Halflingkind (Greater)",
+            "name": "Besace Halfeline (supérieure)",
+            "description": "<p><span>L’intérieur de cette sacoche de cuir robuste se compose de cind compartiments fermés avec de grandes boucles. Le premier compartiment est doublé de satin bleu et contient un espace extradimensionnel qui fonctionne comme un sac sans fond de type II.<br></span></p>\n<p><span>Le deuxième compartiment n’a pas de doublure. Vous pouvez en sortir toute une batterie de cuisine, ainsi que divers ustensiles. Une fois\nutilisés pour préparer un repas, les objets se transforment en assiettes et couverts qui disparaissent une fois le repas terminé en emportant\navec eux tous les restes. Les ustensiles de cuisine réapparaissent propres dans le compartiment une heure plus tard. Le compartiment ne fournit que\ndes ustensiles de cuisine et aucune nourriture.<br></span></p> <p><span>Le troisième compartiment est doublé de velours violet et contient des tartes aux fruits rouges enveloppées dans du parchemin. Une créature peut enlever le parchemin et manger une tarte avec une action Interagir pour récupérer 2d8+4 points de vie. La besace produit quatre tartes par jour qui apparaissent à l’heure du petit-déjeuner. Les tartes non consommées à la fin de la journée disparaissent.<br></span></p>\n<p><span>Chaque tarte aux fruits rouges permet de récupérer 4d8+8 points de vie, et le sac contient deux compartiments supplémentaires et on peut activer chacun d’eux avec une action Interagir.<br></span></p> <p><span> Le quatrième compartiment est doublé de velours doré. Une\nfois par jour, vous pouvez sortir de ce compartiment une bille de fronde magique porte-bonheur. Si vous attaquez avec cette bille de\nfronde, vous faites deux jets d’attaque et deux jets de dégâts et vous conservez à chaque fois le meilleur résultat. Il s’agit d’un effet\nde fortune. La bille devient non magique si elle n’est pas utilisée à la fin de votre tour. Une fois activé, le compartiment se referme\navec plusieurs solides points de couture pour ne s’ouvrir que le lendemain.<br></span></p>\n<p><span>Le cinquième compartiment est doublé de laine noire. Une fois par jour, vous pouvez déplier ce compartiment sur le sol pour former un portail de 1,50 m de diamètre. La première personne qui fait un pas dans le portail depuis une case adjacente est téléportée au loin. L’effet est le même que celui d’une porte dimensionnelle de niveau 5, sauf que la créature affectée emporte la besace avec elle. Quand le portail est utilisé, ou au début de votre prochain tour s’il n’a pas été utilisé, le compartiment se referme automatiquement et il faut attendre le lendemain pour pouvoir le déplier à nouveau.\n<br></span></p>"
+        },
+        {
+            "id": "Monkey Pin",
+            "name": "Broche de singe",
+            "description": "<p><span>Cette petite épingle en laiton a la forme d'un singe grimpant à un arbre. Lorsque vous activez ce talisman, utilisez une action Escalader. Si vous y parvenez, vous déplacez toute votre vitesse pendant l'ascension. Si vous obtenez un échec critique, vous obtenez un échec à la place.<br></span></p>\n<p><span><strong>Activation</strong> <span style=\"font-family : 'Pathfinder2eActions' ; font-size : 1.8em ; display : inline ;\"></span> Escalader ; <strong>Prérequis</strong> Vous êtes formé en athlétisme</span></p>"
+        },
+        {
+            "id": "Talisman Cord",
+            "name": "Corde de talisman",
+            "description": "<p>Cette fine corde de cuir porte de délicates marques runiques et se faufile à travers un objet pouvant porter des talismans apposés.</p>\n<p>Lorsque vous fixez un talisman à cet objet, vous pouvez l'enfiler sur le cordon, ce qui active les effets de préservation du cordon. Le cordon est accordé à deux écoles de magie particulières, choisies lors de la création du cordon. Il acquiert le trait correspondant à cette école. Lorsque vous activez un talisman enfilé sur un cordon ayant le même trait d'école magique que celui du cordon ou un trait inférieur, essayez de faire un test DC 16 à plat. En cas de succès, ce talisman n'est pas consommé et peut être réutilisé.</p>"
+        },
+        {
             "id": "Bronze Dragon's Breath Potion (Wyrm)",
             "name": "Potion de souffle de dracosire de bronze",
             "description": "<p>Ce liquide contient du sang d’un dracosire de bronze. Pendant 1 h après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait électricité. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte une ligne de 9m de dégâts de feu. Le souffle d'un dracosire de bronze inflige 10d6 dégâts de feu et chaque créature dans la zone touchée doit faire un jet de réflexes basique DD 37. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds. </p>"
@@ -5290,6 +5440,11 @@
             "id": "Dust of Disappearance",
             "name": "Poudre de disparition",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette poudre scintille comme mille particules de lumière. La poudre s’active quand vous la saupoudrez sur vous ou une créature à portée. Elle lance alors @Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{invisibilité} au niveau 4 pendant 1 minute sur la créature recouverte. Il est impossible d’annuler cette invisibilité ou de voir au travers avec un sort de niveau 3 ou moins ou avec un objet de niveau 5 ou moins.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir</span></p>"
+        },
+        {
+            "id": "Class Kit (Oracle)",
+            "name": "Kit de classe (oracle)",
+            "description": "<div><strong>Armure</strong> studded leather armor</div>\n<div><strong>Armes</strong> Masse, fronde avec 20 billes</div>\n<div><strong>Equipement</strong> pack de l'aventurier</div>\n<div><strong>Options</strong> <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.equipment-srd\" data-id=\"Yr9yCuJiAlFh3QEB\"><i class=\"fas fa-suitcase\"></i> Bouclier d'acier</a> (2 gp), <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.equipment-srd\" data-id=\"s1vB3HdXjMigYAnY\"><i class=\"fas fa-suitcase\"></i> Outils de guérisseur</a> (5 gp)</div>"
         },
         {
             "id": "Skeleton Key (Greater)",

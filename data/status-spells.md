@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **officielle**: 401
- * **libre**: 11
- * **aucune**: 391
+ * **officielle**: 447
+ * **libre**: 18
+ * **aucune**: 338
  * **changé**: 47
 
 
-Dernière mise à jour: 2020-10-24 19:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-08 10:16 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -37,21 +37,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-04-yY1H5zhO5dHmD8lz.htm](spells/abj-04-yY1H5zhO5dHmD8lz.htm)|Font of Serenity|
 |[abj-05-VrhCpCIQB8PFax77.htm](spells/abj-05-VrhCpCIQB8PFax77.htm)|Spellmaster's Ward|
 |[abj-05-XlQBVvlDWGrGlApl.htm](spells/abj-05-XlQBVvlDWGrGlApl.htm)|Establish Ward|
-|[abj-05-ZAX0OOcKtYMQlquR.htm](spells/abj-05-ZAX0OOcKtYMQlquR.htm)|Symphony of the Unfettered Heart|
 |[abj-06-2ykmAVKrsAWcazcC.htm](spells/abj-06-2ykmAVKrsAWcazcC.htm)|Planar Binding|
 |[abj-06-9W2Qv0wXLg6tQg3y.htm](spells/abj-06-9W2Qv0wXLg6tQg3y.htm)|Scintillating Safeguard|
 |[abj-06-Er9XNUlL0wB0PM36.htm](spells/abj-06-Er9XNUlL0wB0PM36.htm)|Ward Domain|
 |[abj-06-pZc8ZwtsyWnxUUW0.htm](spells/abj-06-pZc8ZwtsyWnxUUW0.htm)|Primal Call|
-|[abj-07-bVtkBJvGLP69qVGI.htm](spells/abj-07-bVtkBJvGLP69qVGI.htm)|Unfettered Pack|
 |[abj-07-OOELvfkTedBMlWtq.htm](spells/abj-07-OOELvfkTedBMlWtq.htm)|Spell Turning|
 |[abj-07-qOeBQyC1z7OScHvP.htm](spells/abj-07-qOeBQyC1z7OScHvP.htm)|Maze of Locked Doors|
-|[abj-07-WG91Z5TiR6oO5FOw.htm](spells/abj-07-WG91Z5TiR6oO5FOw.htm)|Contingency|
-|[abj-07-XZE4BawIlTf88Yl9.htm](spells/abj-07-XZE4BawIlTf88Yl9.htm)|Dimensional Lock|
 |[abj-08-4ddJSjC9Zz5DX0oG.htm](spells/abj-08-4ddJSjC9Zz5DX0oG.htm)|Freedom|
-|[abj-08-C2w3YfBKjIRS07DP.htm](spells/abj-08-C2w3YfBKjIRS07DP.htm)|Mind Blank|
-|[abj-08-iL6TujgTCtRRa0Y0.htm](spells/abj-08-iL6TujgTCtRRa0Y0.htm)|Prismatic Wall|
-|[abj-08-My7FvAoLYgGDDBzy.htm](spells/abj-08-My7FvAoLYgGDDBzy.htm)|Antimagic Field|
-|[abj-08-nsQvjNyg4Whw2mek.htm](spells/abj-08-nsQvjNyg4Whw2mek.htm)|Divine Aura|
 |[abj-09-ihbRf964JDXztcy3.htm](spells/abj-09-ihbRf964JDXztcy3.htm)|Disjunction|
 |[abj-09-PngDCmU0MXZkbu0v.htm](spells/abj-09-PngDCmU0MXZkbu0v.htm)|Prismatic Sphere|
 |[abj-10-UG0SmRYSdbrx2rTA.htm](spells/abj-10-UG0SmRYSdbrx2rTA.htm)|Indestructibility|
@@ -85,13 +77,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[con-05-vgy00hnqxN9VoeoF.htm](spells/con-05-vgy00hnqxN9VoeoF.htm)|Planar Ally|
 |[con-05-yRf59eFtZ50cGlem.htm](spells/con-05-yRf59eFtZ50cGlem.htm)|Heroes' Feast|
 |[con-06-In2A7GCyxxaqZdPI.htm](spells/con-06-In2A7GCyxxaqZdPI.htm)|Moonlight Bridge|
-|[con-07-5bTt2CvYHPvaR7QQ.htm](spells/con-07-5bTt2CvYHPvaR7QQ.htm)|Plane Shift|
 |[con-07-5ZW1w9f4gWlSIuWA.htm](spells/con-07-5ZW1w9f4gWlSIuWA.htm)|Teleportation Circle|
-|[con-07-73rToy0v5Ra9NvL6.htm](spells/con-07-73rToy0v5Ra9NvL6.htm)|Duplicate Foe|
-|[con-07-D2nPKbIS67m9199U.htm](spells/con-07-D2nPKbIS67m9199U.htm)|Ethereal Jaunt|
 |[con-07-nzbnTqHgNKiGZkrZ.htm](spells/con-07-nzbnTqHgNKiGZkrZ.htm)|Word of Recall|
-|[con-07-vPWMEyVTreMOoFnm.htm](spells/con-07-vPWMEyVTreMOoFnm.htm)|Magnificent Mansion|
-|[con-08-Oj1PJBMQD9vuwCv7.htm](spells/con-08-Oj1PJBMQD9vuwCv7.htm)|Maze|
 |[con-08-ZwwIUavMbEwcZz35.htm](spells/con-08-ZwwIUavMbEwcZz35.htm)|Create Demiplane|
 |[con-09-KPDHmmjJiw7PhTYF.htm](spells/con-09-KPDHmmjJiw7PhTYF.htm)|Resplendent Mansion|
 |[con-10-dMKP4fkWx8V2cqAy.htm](spells/con-10-dMKP4fkWx8V2cqAy.htm)|Remake|
@@ -137,12 +124,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[div-06-UJmKPm1FC6pf6txP.htm](spells/div-06-UJmKPm1FC6pf6txP.htm)|Halcyon Infusion|
 |[div-06-XULNb8ItUsfupxqH.htm](spells/div-06-XULNb8ItUsfupxqH.htm)|Dread Secret|
 |[div-06-Zvg0FWzClGbzucFd.htm](spells/div-06-Zvg0FWzClGbzucFd.htm)|Speaking Sky|
-|[div-07-AlbpWWN87yGegoAF.htm](spells/div-07-AlbpWWN87yGegoAF.htm)|True Target|
 |[div-07-G56DJkxlUjFv0C4Z.htm](spells/div-07-G56DJkxlUjFv0C4Z.htm)|Time Beacon|
 |[div-07-hp6Q64dl7xbdn4gQ.htm](spells/div-07-hp6Q64dl7xbdn4gQ.htm)|Legend Lore|
-|[div-07-rsZ5c0AUyywe5yoK.htm](spells/div-07-rsZ5c0AUyywe5yoK.htm)|Retrocognition|
-|[div-08-CeSh8QcVnqP5OlLj.htm](spells/div-08-CeSh8QcVnqP5OlLj.htm)|Discern Location|
-|[div-08-y2cQYLr5mljDSu1G.htm](spells/div-08-y2cQYLr5mljDSu1G.htm)|Unrelenting Observation|
 |[div-09-qsNeG9KZpODSACMq.htm](spells/div-09-qsNeG9KZpODSACMq.htm)|Foresight|
 |[div-10-6dDtGIUerazSHIOu.htm](spells/div-10-6dDtGIUerazSHIOu.htm)|Wish|
 |[div-10-MLNeD5sAunV0E23j.htm](spells/div-10-MLNeD5sAunV0E23j.htm)|Primal Phenomenon|
@@ -150,7 +133,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-00-f45JpY7Ph2cAJGW2.htm](spells/enc-00-f45JpY7Ph2cAJGW2.htm)|Evil Eye|
 |[enc-00-GdN5YQE47gd79k7X.htm](spells/enc-00-GdN5YQE47gd79k7X.htm)|Wilding Word|
 |[enc-00-GeUbPvwdZ4B4l0up.htm](spells/enc-00-GeUbPvwdZ4B4l0up.htm)|Stoke the Heart|
-|[enc-00-LTUaK3smfm5eDiFK.htm](spells/enc-00-LTUaK3smfm5eDiFK.htm)|Song of Marching|
 |[enc-01-0Dcd4iEXqCrkm4Jn.htm](spells/enc-01-0Dcd4iEXqCrkm4Jn.htm)|Liberating Command|
 |[enc-01-4c1c6eNzU1PFGkAy.htm](spells/enc-01-4c1c6eNzU1PFGkAy.htm)|Endure|
 |[enc-01-aEitTTb9PnOyidRf.htm](spells/enc-01-aEitTTb9PnOyidRf.htm)|Needle of Vengeance|
@@ -177,14 +159,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-04-LX4pCagYLpc9hEji.htm](spells/enc-04-LX4pCagYLpc9hEji.htm)|Aromatic Lure|
 |[enc-04-MLdMUOdwSKegOGlo.htm](spells/enc-04-MLdMUOdwSKegOGlo.htm)|Dull Ambition|
 |[enc-04-S7ylpCJyq0CYkux9.htm](spells/enc-04-S7ylpCJyq0CYkux9.htm)|Clownish Curse|
-|[enc-05-mm3hZ6jgaJaKK16n.htm](spells/enc-05-mm3hZ6jgaJaKK16n.htm)|Litany of Self-Interest|
 |[enc-06-NhGXgmI3AjkkwnPk.htm](spells/enc-06-NhGXgmI3AjkkwnPk.htm)|Blinding Fury|
-|[enc-07-8kJbiBEjMWG4VUjs.htm](spells/enc-07-8kJbiBEjMWG4VUjs.htm)|Warp Mind|
 |[enc-07-Vw2CNwlRRKABsuZi.htm](spells/enc-07-Vw2CNwlRRKABsuZi.htm)|Entrancing Eyes|
-|[enc-07-Yk3t4ekEiFIoEz9c.htm](spells/enc-07-Yk3t4ekEiFIoEz9c.htm)|Power Word Blind|
-|[enc-08-7PJSqUeKxTqOVrPk.htm](spells/enc-08-7PJSqUeKxTqOVrPk.htm)|Power Word Stun|
-|[enc-08-Jvyy6oVIQsD34MHB.htm](spells/enc-08-Jvyy6oVIQsD34MHB.htm)|Uncontrollable Dance|
-|[enc-08-KtTGLbLG9nqMbUYL.htm](spells/enc-08-KtTGLbLG9nqMbUYL.htm)|Divine Inspiration|
 |[enc-09-fkDeKktdmbeplYRY.htm](spells/enc-09-fkDeKktdmbeplYRY.htm)|Overwhelming Presence|
 |[enc-09-FmNDwqMEjeTEGPrY.htm](spells/enc-09-FmNDwqMEjeTEGPrY.htm)|Unfathomable Song|
 |[enc-09-ItZgGznUBhgWBwFG.htm](spells/enc-09-ItZgGznUBhgWBwFG.htm)|Telepathic Demand|
@@ -192,7 +168,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-09-Tc5NLaMu71vrGTJQ.htm](spells/enc-09-Tc5NLaMu71vrGTJQ.htm)|Nature's Enmity|
 |[enc-09-xFY9RtDE4DQKlWNR.htm](spells/enc-09-xFY9RtDE4DQKlWNR.htm)|Crusade|
 |[enc-10-6s0UW4bujggma9TC.htm](spells/enc-10-6s0UW4bujggma9TC.htm)|Fabricated Truth|
-|[enc-10-Um0aaJotqMKGmAlR.htm](spells/enc-10-Um0aaJotqMKGmAlR.htm)|Pied Piping|
 |[evo-00-cE7PRAX8Up7fmYef.htm](spells/evo-00-cE7PRAX8Up7fmYef.htm)|Shroud of Night|
 |[evo-01-1meVElIu1CEVYWkv.htm](spells/evo-01-1meVElIu1CEVYWkv.htm)|Noxious Vapors|
 |[evo-01-6UafOE1ZUbHamsZJ.htm](spells/evo-01-6UafOE1ZUbHamsZJ.htm)|Dim the Light|
@@ -248,19 +223,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-05-ZW8ovbu1etdfMre3.htm](spells/evo-05-ZW8ovbu1etdfMre3.htm)|Acid Storm|
 |[evo-05-ZyREiMaul0VhDYh3.htm](spells/evo-05-ZyREiMaul0VhDYh3.htm)|Glacial Heart|
 |[evo-06-bynT1UKaDqr8dLNM.htm](spells/evo-06-bynT1UKaDqr8dLNM.htm)|Flaming Fusillade|
-|[evo-07-37ESlJzUvVbOudOT.htm](spells/evo-07-37ESlJzUvVbOudOT.htm)|Reverse Gravity|
-|[evo-07-a3aQxCpoj1q1NQxC.htm](spells/evo-07-a3aQxCpoj1q1NQxC.htm)|Sunburst|
-|[evo-07-d6o52BnjViNz7Gub.htm](spells/evo-07-d6o52BnjViNz7Gub.htm)|Prismatic Spray|
 |[evo-07-HES5jvGiNZZnJycK.htm](spells/evo-07-HES5jvGiNZZnJycK.htm)|Force Cage|
 |[evo-07-n8eEXXAtguoErW0y.htm](spells/evo-07-n8eEXXAtguoErW0y.htm)|Shadow's Web|
-|[evo-07-O7ZEqWjwdKyo2CUv.htm](spells/evo-07-O7ZEqWjwdKyo2CUv.htm)|Volcanic Eruption|
 |[evo-07-oahqARSgOGDRybBQ.htm](spells/evo-07-oahqARSgOGDRybBQ.htm)|Control Sand|
-|[evo-07-sX2o0HH4RjJDAZ8C.htm](spells/evo-07-sX2o0HH4RjJDAZ8C.htm)|Divine Decree|
-|[evo-07-tYP8unoR0a5Dq9EA.htm](spells/evo-07-tYP8unoR0a5Dq9EA.htm)|Litany of Depravity|
 |[evo-08-2CNqkt2s2IYkVnv6.htm](spells/evo-08-2CNqkt2s2IYkVnv6.htm)|Imprisonment|
-|[evo-08-BKIet436snMNcnez.htm](spells/evo-08-BKIet436snMNcnez.htm)|Polar Ray|
 |[evo-08-wi405lBjPcbF1DeR.htm](spells/evo-08-wi405lBjPcbF1DeR.htm)|Punishing Winds|
-|[evo-08-x7SPrsRxGb2Vy2nu.htm](spells/evo-08-x7SPrsRxGb2Vy2nu.htm)|Earthquake|
 |[evo-08-XkDCzMIyc0YOjw05.htm](spells/evo-08-XkDCzMIyc0YOjw05.htm)|Control Weather|
 |[evo-09-4WS7HrFjwNvTn8T2.htm](spells/evo-09-4WS7HrFjwNvTn8T2.htm)|Implosion|
 |[evo-09-jrBa9deU2ULFWvSl.htm](spells/evo-09-jrBa9deU2ULFWvSl.htm)|Meteor Swarm|
@@ -281,12 +248,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ill-05-xPrbxyOEwy9QaPVn.htm](spells/ill-05-xPrbxyOEwy9QaPVn.htm)|Chameleon Coat|
 |[ill-06-EOWh6VVcSjB3WPjX.htm](spells/ill-06-EOWh6VVcSjB3WPjX.htm)|Shadow Illusion|
 |[ill-06-m34WOIGZCEg1h76G.htm](spells/ill-06-m34WOIGZCEg1h76G.htm)|Blanket Of Stars|
-|[ill-07-0873MWM0qKDDv81O.htm](spells/ill-07-0873MWM0qKDDv81O.htm)|Project Image|
-|[ill-07-jBGAYmR0BkkbpJvG.htm](spells/ill-07-jBGAYmR0BkkbpJvG.htm)|Visions of Danger|
-|[ill-07-O6VQC1Bs4aSYDa6R.htm](spells/ill-07-O6VQC1Bs4aSYDa6R.htm)|Mask of Terror|
-|[ill-08-rwCh2qTYPA44KEoK.htm](spells/ill-08-rwCh2qTYPA44KEoK.htm)|Dream Council|
-|[ill-08-uEyfLoFQsRKBRIcB.htm](spells/ill-08-uEyfLoFQsRKBRIcB.htm)|Scintillating Pattern|
-|[ill-08-wfleiawxsfhpRRwf.htm](spells/ill-08-wfleiawxsfhpRRwf.htm)|Disappearance|
 |[ill-09-nA0XlPsnMNrQMpio.htm](spells/ill-09-nA0XlPsnMNrQMpio.htm)|Fantastic Facade|
 |[ill-09-qDjeG6dxT4aEEC6J.htm](spells/ill-09-qDjeG6dxT4aEEC6J.htm)|Weird|
 |[nec-00-yp4w9SG4RuqRM8KD.htm](spells/nec-00-yp4w9SG4RuqRM8KD.htm)|Spirit Object|
@@ -300,7 +261,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-01-KIV2LqzS5KtqOItV.htm](spells/nec-01-KIV2LqzS5KtqOItV.htm)|Heal Companion|
 |[nec-01-NkeLctXo9FLGnDhi.htm](spells/nec-01-NkeLctXo9FLGnDhi.htm)|Divine Plagues|
 |[nec-01-rVhHaWqUsVUO4GuY.htm](spells/nec-01-rVhHaWqUsVUO4GuY.htm)|Eject Soul|
-|[nec-01-uToa7ksKAzmEpkKC.htm](spells/nec-01-uToa7ksKAzmEpkKC.htm)|Admonishing Ray|
 |[nec-01-zJQnkKEKbJqGB3iB.htm](spells/nec-01-zJQnkKEKbJqGB3iB.htm)|Goblin Pox|
 |[nec-02-c3b6LdLlQDPngNIb.htm](spells/nec-02-c3b6LdLlQDPngNIb.htm)|Create Undead|
 |[nec-02-dxOF7d5kAWusLKWF.htm](spells/nec-02-dxOF7d5kAWusLKWF.htm)|Reaper’s Lantern|
@@ -329,7 +289,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-04-QE9f3OxvvBThymD4.htm](spells/nec-04-QE9f3OxvvBThymD4.htm)|Ectoplasmic Interstice|
 |[nec-04-ZhJ8d9Uk4lwIx86b.htm](spells/nec-04-ZhJ8d9Uk4lwIx86b.htm)|Plant Growth|
 |[nec-05-59NR1hA2jPSgg2sW.htm](spells/nec-05-59NR1hA2jPSgg2sW.htm)|Blister|
-|[nec-05-DgCS456mXKw97vNy.htm](spells/nec-05-DgCS456mXKw97vNy.htm)|Ode to Ouroboros|
 |[nec-05-ES6FkwXXqYr4ujQH.htm](spells/nec-05-ES6FkwXXqYr4ujQH.htm)|Blood Feast|
 |[nec-05-gsYEuWv04XTDxe91.htm](spells/nec-05-gsYEuWv04XTDxe91.htm)|Call Spirit|
 |[nec-05-kqhPt9344UkcGVYO.htm](spells/nec-05-kqhPt9344UkcGVYO.htm)|Resurrect|
@@ -342,16 +301,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-06-9kOI14Jep97TzGO7.htm](spells/nec-06-9kOI14Jep97TzGO7.htm)|Life-Giving Form|
 |[nec-06-GzN9bG6cKZ96YC6l.htm](spells/nec-06-GzN9bG6cKZ96YC6l.htm)|Claim Undead|
 |[nec-06-yUM5OYeMY8971b2S.htm](spells/nec-06-yUM5OYeMY8971b2S.htm)|Terminate Bloodline|
-|[nec-07-0jadeyQIItIuRgeH.htm](spells/nec-07-0jadeyQIItIuRgeH.htm)|Eclipse Burst|
-|[nec-07-2Vkd1IxylPceUAAF.htm](spells/nec-07-2Vkd1IxylPceUAAF.htm)|Regenerate|
 |[nec-07-u3pdkfmy0AWICdoM.htm](spells/nec-07-u3pdkfmy0AWICdoM.htm)|Ravenous Reanimation|
-|[nec-07-wU6hNzK8Yfqdmc8m.htm](spells/nec-07-wU6hNzK8Yfqdmc8m.htm)|Possession|
-|[nec-07-Z9OrRXKgAPv6Hn5l.htm](spells/nec-07-Z9OrRXKgAPv6Hn5l.htm)|Finger of Death|
-|[nec-08-4MOew29Z1oCX8O28.htm](spells/nec-08-4MOew29Z1oCX8O28.htm)|Moment of Renewal|
 |[nec-08-gtWxTfMbIN5RHQw6.htm](spells/nec-08-gtWxTfMbIN5RHQw6.htm)|All is One, One is All|
-|[nec-08-Ht35SDf9PDStJfoC.htm](spells/nec-08-Ht35SDf9PDStJfoC.htm)|Spirit Song|
-|[nec-08-M0jQlpQYUr0pp2Sv.htm](spells/nec-08-M0jQlpQYUr0pp2Sv.htm)|Horrid Wilting|
-|[nec-08-MS60WhVifb45qORJ.htm](spells/nec-08-MS60WhVifb45qORJ.htm)|Spiritual Epidemic|
 |[nec-09-10VcmSYNBrvBphu1.htm](spells/nec-09-10VcmSYNBrvBphu1.htm)|Massacre|
 |[nec-09-FEsuyf203wTNE2et.htm](spells/nec-09-FEsuyf203wTNE2et.htm)|Wail of the Banshee|
 |[nec-09-GYmXvS9NJ7QwfWGg.htm](spells/nec-09-GYmXvS9NJ7QwfWGg.htm)|Bind Soul|
@@ -392,10 +343,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[trs-06-NCUXsaj2yFxOVhrK.htm](spells/trs-06-NCUXsaj2yFxOVhrK.htm)|Create Skinstitch|
 |[trs-06-xEjGEBvTfDJECSki.htm](spells/trs-06-xEjGEBvTfDJECSki.htm)|Ancestral Form|
 |[trs-06-zhqnMOVPzVvWSUbC.htm](spells/trs-06-zhqnMOVPzVvWSUbC.htm)|Tempest Form|
-|[trs-07-hiVL8qsnTJtpouw0.htm](spells/trs-07-hiVL8qsnTJtpouw0.htm)|Divine Vessel|
-|[trs-07-XS7Wyh5YC0NWeWyB.htm](spells/trs-07-XS7Wyh5YC0NWeWyB.htm)|Fiery Body|
-|[trs-08-8AMvNVOUEtxBCDvJ.htm](spells/trs-08-8AMvNVOUEtxBCDvJ.htm)|Monstrosity Form|
-|[trs-08-U0hL0LLaprcnAyzC.htm](spells/trs-08-U0hL0LLaprcnAyzC.htm)|Wind Walk|
 |[trs-08-wTYxxYJWN348oV15.htm](spells/trs-08-wTYxxYJWN348oV15.htm)|Medusa's Wrath|
 |[trs-09-pswdik31kuHEvdno.htm](spells/trs-09-pswdik31kuHEvdno.htm)|Shapechange|
 |[trs-09-YDMOqndvYFu3OjA6.htm](spells/trs-09-YDMOqndvYFu3OjA6.htm)|Ki Form|
@@ -460,10 +407,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-05-h47yv6j6x1pUtzlr.htm](spells/abj-05-h47yv6j6x1pUtzlr.htm)|Arcane Countermeasure|Contre-mesure arcanique|officielle|
 |[abj-05-jQdm301h6e8hIY4U.htm](spells/abj-05-jQdm301h6e8hIY4U.htm)|Spiritual Guardian|Gardien spirituel|officielle|
 |[abj-05-YvXKGlHOt7mdW2jZ.htm](spells/abj-05-YvXKGlHOt7mdW2jZ.htm)|Death Ward|Protection contre la mort|officielle|
+|[abj-05-ZAX0OOcKtYMQlquR.htm](spells/abj-05-ZAX0OOcKtYMQlquR.htm)|Symphony of the Unfettered Heart|Symphonie du cœur affranchi|libre|
 |[abj-06-8Umt1AzYfFbC4fui.htm](spells/abj-06-8Umt1AzYfFbC4fui.htm)|Spellwrack|Ravages magiques|officielle|
 |[abj-06-USM530HlzZ1RMd99.htm](spells/abj-06-USM530HlzZ1RMd99.htm)|Champion's Sacrifice|Sacrifice du Champion|officielle|
 |[abj-06-yrZA4k2VAqEP8xx7.htm](spells/abj-06-yrZA4k2VAqEP8xx7.htm)|Repulsion|Répulsion|officielle|
+|[abj-07-bVtkBJvGLP69qVGI.htm](spells/abj-07-bVtkBJvGLP69qVGI.htm)|Unfettered Pack|Meute sans entrave|officielle|
 |[abj-07-m2xFMNyQiUKQDRaj.htm](spells/abj-07-m2xFMNyQiUKQDRaj.htm)|Energy Aegis|Égide énergétique|officielle|
+|[abj-07-WG91Z5TiR6oO5FOw.htm](spells/abj-07-WG91Z5TiR6oO5FOw.htm)|Contingency|Contingence|officielle|
+|[abj-07-XZE4BawIlTf88Yl9.htm](spells/abj-07-XZE4BawIlTf88Yl9.htm)|Dimensional Lock|Verrou dimensionnel|officielle|
+|[abj-08-C2w3YfBKjIRS07DP.htm](spells/abj-08-C2w3YfBKjIRS07DP.htm)|Mind Blank|Esprit impénétrable|officielle|
+|[abj-08-iL6TujgTCtRRa0Y0.htm](spells/abj-08-iL6TujgTCtRRa0Y0.htm)|Prismatic Wall|Mur prismatique|officielle|
+|[abj-08-My7FvAoLYgGDDBzy.htm](spells/abj-08-My7FvAoLYgGDDBzy.htm)|Antimagic Field|Champ d'antimagie|officielle|
+|[abj-08-nsQvjNyg4Whw2mek.htm](spells/abj-08-nsQvjNyg4Whw2mek.htm)|Divine Aura|Aura divine|officielle|
 |[con-00-uZK2BYzPnxUBnDjr.htm](spells/con-00-uZK2BYzPnxUBnDjr.htm)|Tanglefoot|Entrave|officielle|
 |[con-01-4YnON9JHYqtLzccu.htm](spells/con-01-4YnON9JHYqtLzccu.htm)|Summon Animal|Convocation d'animal|officielle|
 |[con-01-hs7h8f4Z1ZNdUt3s.htm](spells/con-01-hs7h8f4Z1ZNdUt3s.htm)|Summon Fey|Convocation de fée|officielle|
@@ -506,7 +461,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[con-06-c3XygMbzrZMgV1y3.htm](spells/con-06-c3XygMbzrZMgV1y3.htm)|Collective Transposition|Transposition collective|officielle|
 |[con-06-JbAcSLu62TU1OgNF.htm](spells/con-06-JbAcSLu62TU1OgNF.htm)|Tangling Creepers|Entraves végétales|officielle|
 |[con-06-kwlKUxEuT8T15YW6.htm](spells/con-06-kwlKUxEuT8T15YW6.htm)|Primal Summons|Convocations primordiales|officielle|
+|[con-07-5bTt2CvYHPvaR7QQ.htm](spells/con-07-5bTt2CvYHPvaR7QQ.htm)|Plane Shift|Changement de plan|officielle|
+|[con-07-73rToy0v5Ra9NvL6.htm](spells/con-07-73rToy0v5Ra9NvL6.htm)|Duplicate Foe|Dupliquer l'ennemi|officielle|
+|[con-07-D2nPKbIS67m9199U.htm](spells/con-07-D2nPKbIS67m9199U.htm)|Ethereal Jaunt|Forme éthérée|officielle|
+|[con-07-vPWMEyVTreMOoFnm.htm](spells/con-07-vPWMEyVTreMOoFnm.htm)|Magnificent Mansion|Manoir somptueux|officielle|
 |[con-08-oGV6YdpZLIG4G4gH.htm](spells/con-08-oGV6YdpZLIG4G4gH.htm)|Impaling Briars|Ronces empaleuses|officielle|
+|[con-08-Oj1PJBMQD9vuwCv7.htm](spells/con-08-Oj1PJBMQD9vuwCv7.htm)|Maze|Dédale|officielle|
 |[con-09-mau1Olq58ECF0ZPi.htm](spells/con-09-mau1Olq58ECF0ZPi.htm)|Empty Body|Désertion de l'âme|officielle|
 |[div-00-gpzpAAAJ1Lza2JVl.htm](spells/div-00-gpzpAAAJ1Lza2JVl.htm)|Detect Magic|Détection de la magie|officielle|
 |[div-00-izcxFQFwf3woCnFs.htm](spells/div-00-izcxFQFwf3woCnFs.htm)|Guidance|Assistance divine|officielle|
@@ -555,6 +515,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[div-05-SwUiVavHKMWG7t5K.htm](spells/div-05-SwUiVavHKMWG7t5K.htm)|Tongues|Don des langues|officielle|
 |[div-06-r784cIz17eWujtQj.htm](spells/div-06-r784cIz17eWujtQj.htm)|Scrying|Scrutation|officielle|
 |[div-06-uqlxMQQeSGWEVjki.htm](spells/div-06-uqlxMQQeSGWEVjki.htm)|True Seeing|Vision lucide|officielle|
+|[div-07-AlbpWWN87yGegoAF.htm](spells/div-07-AlbpWWN87yGegoAF.htm)|True Target|Cible verrouillée|officielle|
+|[div-07-rsZ5c0AUyywe5yoK.htm](spells/div-07-rsZ5c0AUyywe5yoK.htm)|Retrocognition|Rétrocognition|officielle|
+|[div-08-CeSh8QcVnqP5OlLj.htm](spells/div-08-CeSh8QcVnqP5OlLj.htm)|Discern Location|Localisation suprême|officielle|
+|[div-08-y2cQYLr5mljDSu1G.htm](spells/div-08-y2cQYLr5mljDSu1G.htm)|Unrelenting Observation|Observation implacable|officielle|
 |[div-10-h8zxY9hTeHtWsBVW.htm](spells/div-10-h8zxY9hTeHtWsBVW.htm)|Alter Reality|Altérer la réalité|officielle|
 |[enc-00-1xLVcA8Y1onw7toT.htm](spells/enc-00-1xLVcA8Y1onw7toT.htm)|Dirge of Doom|Chant funeste|changé|
 |[enc-00-4gBIw4IDrSfFHik4.htm](spells/enc-00-4gBIw4IDrSfFHik4.htm)|Daze|Hébétement|officielle|
@@ -563,6 +527,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-00-f0Z5mqGA6Yu79B8x.htm](spells/enc-00-f0Z5mqGA6Yu79B8x.htm)|Inspire Competence|Inspiration talentueuse|officielle|
 |[enc-00-IAjvwqgiDr3qGYxY.htm](spells/enc-00-IAjvwqgiDr3qGYxY.htm)|Inspire Courage|Inspiration vaillante|officielle|
 |[enc-00-IQchIYUwbsVTa9Mc.htm](spells/enc-00-IQchIYUwbsVTa9Mc.htm)|Allegro|Allégro|officielle|
+|[enc-00-LTUaK3smfm5eDiFK.htm](spells/enc-00-LTUaK3smfm5eDiFK.htm)|Song of Marching|Chanson de marche|libre|
 |[enc-00-Xxdwkt0EEDgP1LGc.htm](spells/enc-00-Xxdwkt0EEDgP1LGc.htm)|Song of Strength|Chanson de force|libre|
 |[enc-01-4koZzrnMXhhosn0D.htm](spells/enc-01-4koZzrnMXhhosn0D.htm)|Fear|Terreur|officielle|
 |[enc-01-7ZinJNzxq0XF0oMx.htm](spells/enc-01-7ZinJNzxq0XF0oMx.htm)|Bane|Imprécation|officielle|
@@ -615,13 +580,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-05-BilnTGuXrof9Dt9D.htm](spells/enc-05-BilnTGuXrof9Dt9D.htm)|Synaptic Pulse|Pulsation synaptique|officielle|
 |[enc-05-GaRQlC9Yw1BGKHfN.htm](spells/enc-05-GaRQlC9Yw1BGKHfN.htm)|Crushing Despair|Désespoir foudroyant|officielle|
 |[enc-05-GP3wewkQXEPrLxYj.htm](spells/enc-05-GP3wewkQXEPrLxYj.htm)|Subconscious Suggestion|Suggestion subconsciente|officielle|
+|[enc-05-mm3hZ6jgaJaKK16n.htm](spells/enc-05-mm3hZ6jgaJaKK16n.htm)|Litany of Self-Interest|Litanie d'égoïsme|libre|
 |[enc-05-x2LALaHXO7644GQA.htm](spells/enc-05-x2LALaHXO7644GQA.htm)|You're Mine|Tu es à moi|officielle|
 |[enc-05-y0Vy7iNL3ET8K00C.htm](spells/enc-05-y0Vy7iNL3ET8K00C.htm)|Dreaming Potential|Potentiel onirique|officielle|
 |[enc-06-5BbU1V6wGSGbrmRD.htm](spells/enc-06-5BbU1V6wGSGbrmRD.htm)|Feeblemind|Débilité|officielle|
 |[enc-06-GYD0XZ4t3tQq6shc.htm](spells/enc-06-GYD0XZ4t3tQq6shc.htm)|Zealous Conviction|Conviction zélée|officielle|
 |[enc-06-OsOhx3TGIZ7AhD0P.htm](spells/enc-06-OsOhx3TGIZ7AhD0P.htm)|Dominate|Domination|officielle|
 |[enc-07-0JigNJDRwevZOyjI.htm](spells/enc-07-0JigNJDRwevZOyjI.htm)|Soothing Ballad|Ballade apaisante|officielle|
+|[enc-07-8kJbiBEjMWG4VUjs.htm](spells/enc-07-8kJbiBEjMWG4VUjs.htm)|Warp Mind|Déformer l'esprit|officielle|
+|[enc-07-Yk3t4ekEiFIoEz9c.htm](spells/enc-07-Yk3t4ekEiFIoEz9c.htm)|Power Word Blind|Mot de pouvoir aveuglant|officielle|
+|[enc-08-7PJSqUeKxTqOVrPk.htm](spells/enc-08-7PJSqUeKxTqOVrPk.htm)|Power Word Stun|Mot de pouvoir étourdissant|officielle|
+|[enc-08-Jvyy6oVIQsD34MHB.htm](spells/enc-08-Jvyy6oVIQsD34MHB.htm)|Uncontrollable Dance|Danse incontrôlable|officielle|
+|[enc-08-KtTGLbLG9nqMbUYL.htm](spells/enc-08-KtTGLbLG9nqMbUYL.htm)|Divine Inspiration|Inspiration divine|officielle|
 |[enc-10-lyJDBD9OFW11vLyT.htm](spells/enc-10-lyJDBD9OFW11vLyT.htm)|Fatal Aria|Aria fatale|officielle|
+|[enc-10-Um0aaJotqMKGmAlR.htm](spells/enc-10-Um0aaJotqMKGmAlR.htm)|Pied Piping|Flûte de Hamelin|libre|
 |[evo-00-60sgbuMWN0268dB7.htm](spells/evo-00-60sgbuMWN0268dB7.htm)|Telekinetic Projectile|Projectile télékinésique|changé|
 |[evo-00-gISYsBFby1TiXfBt.htm](spells/evo-00-gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|changé|
 |[evo-00-gYjPm7YwGtEa1oxh.htm](spells/evo-00-gYjPm7YwGtEa1oxh.htm)|Ray of Frost|Rayon de givre|officielle|
@@ -700,7 +672,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-06-r7ihOgKv19eJQnik.htm](spells/evo-06-r7ihOgKv19eJQnik.htm)|Disintegrate|Désintégration|officielle|
 |[evo-06-TDNlDWbYb58Y55Da.htm](spells/evo-06-TDNlDWbYb58Y55Da.htm)|Chain Lightning|Eclairs multiples|officielle|
 |[evo-06-YIMampGpij4Y30yE.htm](spells/evo-06-YIMampGpij4Y30yE.htm)|Stone Tell|Pierre commère|officielle|
+|[evo-07-37ESlJzUvVbOudOT.htm](spells/evo-07-37ESlJzUvVbOudOT.htm)|Reverse Gravity|Inversion de la gravité|officielle|
+|[evo-07-a3aQxCpoj1q1NQxC.htm](spells/evo-07-a3aQxCpoj1q1NQxC.htm)|Sunburst|Explosion de lumière|officielle|
+|[evo-07-d6o52BnjViNz7Gub.htm](spells/evo-07-d6o52BnjViNz7Gub.htm)|Prismatic Spray|Rayon prismatique|officielle|
 |[evo-07-n3b3pDmA6L5YRTyq.htm](spells/evo-07-n3b3pDmA6L5YRTyq.htm)|Litany of Righteousness|Litanie de vertu|officielle|
+|[evo-07-O7ZEqWjwdKyo2CUv.htm](spells/evo-07-O7ZEqWjwdKyo2CUv.htm)|Volcanic Eruption|Eruption volcanique|officielle|
+|[evo-07-sX2o0HH4RjJDAZ8C.htm](spells/evo-07-sX2o0HH4RjJDAZ8C.htm)|Divine Decree|Décret divin|officielle|
+|[evo-07-tYP8unoR0a5Dq9EA.htm](spells/evo-07-tYP8unoR0a5Dq9EA.htm)|Litany of Depravity|Litanie de dépravation|libre|
+|[evo-08-BKIet436snMNcnez.htm](spells/evo-08-BKIet436snMNcnez.htm)|Polar Ray|Rayon polaire|officielle|
+|[evo-08-x7SPrsRxGb2Vy2nu.htm](spells/evo-08-x7SPrsRxGb2Vy2nu.htm)|Earthquake|Tremblement de terre|officielle|
 |[evo-09-XYhU3Wi94n1RKxTa.htm](spells/evo-09-XYhU3Wi94n1RKxTa.htm)|Storm Lord|Seigneur des tempêtes|officielle|
 |[ill-00-atlgGNI1E1Ox3O3a.htm](spells/ill-00-atlgGNI1E1Ox3O3a.htm)|Ghost Sound|Son imaginaire|officielle|
 |[ill-00-PEfSofHm73IT3Khc.htm](spells/ill-00-PEfSofHm73IT3Khc.htm)|House of Imaginary Walls|Demeure aux murs imaginaires|officielle|
@@ -744,6 +724,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ill-06-0XP2XOxT9VSiXFDr.htm](spells/ill-06-0XP2XOxT9VSiXFDr.htm)|Phantasmal Calamity|Calamité imaginaire|officielle|
 |[ill-06-RQjSQVZRG497cJhX.htm](spells/ill-06-RQjSQVZRG497cJhX.htm)|Vibrant Pattern|Motif éclatant|officielle|
 |[ill-06-WPXzPl7YbMEIGWfi.htm](spells/ill-06-WPXzPl7YbMEIGWfi.htm)|Mislead|Double illusoire|officielle|
+|[ill-07-0873MWM0qKDDv81O.htm](spells/ill-07-0873MWM0qKDDv81O.htm)|Project Image|Projection d'image|officielle|
+|[ill-07-jBGAYmR0BkkbpJvG.htm](spells/ill-07-jBGAYmR0BkkbpJvG.htm)|Visions of Danger|Dangereuses visions|officielle|
+|[ill-07-O6VQC1Bs4aSYDa6R.htm](spells/ill-07-O6VQC1Bs4aSYDa6R.htm)|Mask of Terror|Masque terrifiant|officielle|
+|[ill-08-rwCh2qTYPA44KEoK.htm](spells/ill-08-rwCh2qTYPA44KEoK.htm)|Dream Council|Conseil onirique|officielle|
+|[ill-08-uEyfLoFQsRKBRIcB.htm](spells/ill-08-uEyfLoFQsRKBRIcB.htm)|Scintillating Pattern|Motif scintillant|officielle|
+|[ill-08-wfleiawxsfhpRRwf.htm](spells/ill-08-wfleiawxsfhpRRwf.htm)|Disappearance|Disparition|officielle|
 |[nec-00-kcelf6IHl3L9VXXg.htm](spells/nec-00-kcelf6IHl3L9VXXg.htm)|Disrupt Undead|Destruction de mort-vivant|changé|
 |[nec-00-mAMEt4FFbdqoRnkN.htm](spells/nec-00-mAMEt4FFbdqoRnkN.htm)|Chill Touch|Contact glacial|changé|
 |[nec-00-SnjhtQYexDtNDdEg.htm](spells/nec-00-SnjhtQYexDtNDdEg.htm)|Stabilize|Stabilisation|changé|
@@ -762,6 +748,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-01-rfZpqmj0AIIdkVIs.htm](spells/nec-01-rfZpqmj0AIIdkVIs.htm)|Heal|Guérison|officielle|
 |[nec-01-rhJyqB9g3ziImQgM.htm](spells/nec-01-rhJyqB9g3ziImQgM.htm)|Healer's Blessing|Bénédiction du guérisseur|officielle|
 |[nec-01-SdXFiQ4Py8761sNO.htm](spells/nec-01-SdXFiQ4Py8761sNO.htm)|Glutton's Jaw|Mâchoires gloutonnes|officielle|
+|[nec-01-uToa7ksKAzmEpkKC.htm](spells/nec-01-uToa7ksKAzmEpkKC.htm)|Admonishing Ray|Rayon d'admonestation|libre|
 |[nec-01-vQuwLqtFFYt0K15N.htm](spells/nec-01-vQuwLqtFFYt0K15N.htm)|Goodberry|Baie nourricière|officielle|
 |[nec-01-wdA52JJnsuQWeyqz.htm](spells/nec-01-wdA52JJnsuQWeyqz.htm)|Harm|Mise à mal|officielle|
 |[nec-01-yHujiDQPdtXW797e.htm](spells/nec-01-yHujiDQPdtXW797e.htm)|Spirit Link|Lien spirituel|officielle|
@@ -795,6 +782,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-04-zvvHOQV78WKUB33l.htm](spells/nec-04-zvvHOQV78WKUB33l.htm)|Life Siphon|Siphon de vie|officielle|
 |[nec-05-2YIr0S2Gt14PMMQp.htm](spells/nec-05-2YIr0S2Gt14PMMQp.htm)|Grasping Grave|Étreinte de la tombe|officielle|
 |[nec-05-9WlTR9JlEcjRmGiD.htm](spells/nec-05-9WlTR9JlEcjRmGiD.htm)|Celestial Brand|Marque céleste|officielle|
+|[nec-05-DgCS456mXKw97vNy.htm](spells/nec-05-DgCS456mXKw97vNy.htm)|Ode to Ouroboros|Ode à Ouroboros|libre|
 |[nec-05-Hnc7eGi7vyZenAIm.htm](spells/nec-05-Hnc7eGi7vyZenAIm.htm)|Breath of Life|Souffle de vie|officielle|
 |[nec-05-MlpbeZ61Euhl0d60.htm](spells/nec-05-MlpbeZ61Euhl0d60.htm)|Cloudkill|Nuage mortel|officielle|
 |[nec-05-vJuaxTd6q11OjGqA.htm](spells/nec-05-vJuaxTd6q11OjGqA.htm)|Abyssal Plague|Peste abyssale|officielle|
@@ -804,6 +792,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-06-IkGYwHRLhkuoGReG.htm](spells/nec-06-IkGYwHRLhkuoGReG.htm)|Raise Dead|Rappel à la vie|officielle|
 |[nec-06-PHVHBbdHeQRfjLmE.htm](spells/nec-06-PHVHBbdHeQRfjLmE.htm)|Spirit Blast|Coup spirituel|officielle|
 |[nec-06-x5rGOmhDRDVQPrnW.htm](spells/nec-06-x5rGOmhDRDVQPrnW.htm)|Field of Life|Champ de vie|officielle|
+|[nec-07-0jadeyQIItIuRgeH.htm](spells/nec-07-0jadeyQIItIuRgeH.htm)|Eclipse Burst|Eclipse soudaine|officielle|
+|[nec-07-2Vkd1IxylPceUAAF.htm](spells/nec-07-2Vkd1IxylPceUAAF.htm)|Regenerate|Régénération|officielle|
+|[nec-07-wU6hNzK8Yfqdmc8m.htm](spells/nec-07-wU6hNzK8Yfqdmc8m.htm)|Possession|Possession|officielle|
+|[nec-07-Z9OrRXKgAPv6Hn5l.htm](spells/nec-07-Z9OrRXKgAPv6Hn5l.htm)|Finger of Death|Doigt de mort|officielle|
+|[nec-08-4MOew29Z1oCX8O28.htm](spells/nec-08-4MOew29Z1oCX8O28.htm)|Moment of Renewal|Instant de renouveau|officielle|
+|[nec-08-Ht35SDf9PDStJfoC.htm](spells/nec-08-Ht35SDf9PDStJfoC.htm)|Spirit Song|Chant spirituel|officielle|
+|[nec-08-M0jQlpQYUr0pp2Sv.htm](spells/nec-08-M0jQlpQYUr0pp2Sv.htm)|Horrid Wilting|Flétrissure|officielle|
+|[nec-08-MS60WhVifb45qORJ.htm](spells/nec-08-MS60WhVifb45qORJ.htm)|Spiritual Epidemic|Épidémie spirituelle|officielle|
 |[nec-08-Ovvflf5aFbmBxqq8.htm](spells/nec-08-Ovvflf5aFbmBxqq8.htm)|Quivering Palm|Paume vibratoire|officielle|
 |[nec-10-uGXWkR2h8q9MRzEM.htm](spells/nec-10-uGXWkR2h8q9MRzEM.htm)|Hero's Defiance|Défi du héros|officielle|
 |[trs-00-AUctDF2fqPZN2w4W.htm](spells/trs-00-AUctDF2fqPZN2w4W.htm)|Sigil|Symbole|officielle|
@@ -868,3 +864,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[trs-06-MMCQsh12TPaDdPbV.htm](spells/trs-06-MMCQsh12TPaDdPbV.htm)|Righteous Might|Force du colosse|officielle|
 |[trs-06-Pr1ruNTbzGn3H9w5.htm](spells/trs-06-Pr1ruNTbzGn3H9w5.htm)|Stone to Flesh|Pierre en chair|officielle|
 |[trs-06-znv4ECL7ZtuiagtA.htm](spells/trs-06-znv4ECL7ZtuiagtA.htm)|Flesh to Stone|Chair en pierre|officielle|
+|[trs-07-hiVL8qsnTJtpouw0.htm](spells/trs-07-hiVL8qsnTJtpouw0.htm)|Divine Vessel|Réceptacle divin|officielle|
+|[trs-07-XS7Wyh5YC0NWeWyB.htm](spells/trs-07-XS7Wyh5YC0NWeWyB.htm)|Fiery Body|Corps enflammé|officielle|
+|[trs-08-8AMvNVOUEtxBCDvJ.htm](spells/trs-08-8AMvNVOUEtxBCDvJ.htm)|Monstrosity Form|Forme monstrueuse|officielle|
+|[trs-08-U0hL0LLaprcnAyzC.htm](spells/trs-08-U0hL0LLaprcnAyzC.htm)|Wind Walk|Voyage venteux|officielle|

@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
  * **aucune**: 3
- * **officielle**: 231
+ * **officielle**: 232
  * **libre**: 127
- * **changé**: 26
+ * **changé**: 25
 
 
-Dernière mise à jour: 2020-10-24 19:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-08 10:16 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -84,7 +84,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-19-QTCIahokREpnAYDi.htm](classfeatures/barbarian-19-QTCIahokREpnAYDi.htm)|Armor of Fury|Armure de furie|officielle|
 |[barbarian-19-VLiT503OLOM3vaDx.htm](classfeatures/barbarian-19-VLiT503OLOM3vaDx.htm)|Devastator|Dévastateur|officielle|
 |[bard-00-YMBsi4bndRAk5CX4.htm](classfeatures/bard-00-YMBsi4bndRAk5CX4.htm)|Maestro (Bard Muse)|Virtuose (Muse de barde)|officielle|
-|[bard-01-4ripp6EfdVpS0d60.htm](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Enigma (Bard Muse)|Énigmatique|changé|
+|[bard-01-4ripp6EfdVpS0d60.htm](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Enigma (Bard Muse)|Énigmatique (Muse de barde)|officielle|
 |[bard-01-fEOj0eOBe34qYdAa.htm](classfeatures/bard-01-fEOj0eOBe34qYdAa.htm)|Occult Spellcasting|Incantation occulte|officielle|
 |[bard-01-N03BtRvjX9TeHRa4.htm](classfeatures/bard-01-N03BtRvjX9TeHRa4.htm)|Warrior (Bard Muse)|Combattant (Muse de barde)|libre|
 |[bard-01-y0jGimYdMGDJWrEq.htm](classfeatures/bard-01-y0jGimYdMGDJWrEq.htm)|Polymath (Bard Muse)|Touche-à-tout|changé|
@@ -381,7 +381,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wizard-01-89zWKD2CN7nRu2xp.htm](classfeatures/wizard-01-89zWKD2CN7nRu2xp.htm)|Arcane Thesis: Metamagical Experimentation|Thèse arcanique : Expérimentation métamagique|officielle|
 |[wizard-01-au0lwQ1nAcNQwcGh.htm](classfeatures/wizard-01-au0lwQ1nAcNQwcGh.htm)|Arcane Bond|Lien arcanique|officielle|
 |[wizard-01-gCwcys8CnS102tji.htm](classfeatures/wizard-01-gCwcys8CnS102tji.htm)|Arcane School: Abjuration|École arcanique : Abjuration|officielle|
-|[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Arcane School: Evocation|Évocation|officielle|
+|[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Arcane School: Evocation|École arcanique : Évocation|officielle|
 |[wizard-01-K6hG7nH8yjmbA0Q9.htm](classfeatures/wizard-01-K6hG7nH8yjmbA0Q9.htm)|Arcane School: Illusion|École arcanique : Illusion|officielle|
 |[wizard-01-Klb35AwlkNrq1gpB.htm](classfeatures/wizard-01-Klb35AwlkNrq1gpB.htm)|Arcane Thesis: Staff Nexus|Thèse arcanique : Bâton nexus|libre|
 |[wizard-01-M89l9FOnjHe63wD7.htm](classfeatures/wizard-01-M89l9FOnjHe63wD7.htm)|Arcane Thesis|Thèse arcanique|libre|
