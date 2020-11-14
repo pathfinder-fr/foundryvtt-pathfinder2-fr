@@ -6,7 +6,7 @@
  * **changé**: 5
 
 
-Dernière mise à jour: 2020-11-08 10:16 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-14 09:15 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -150,7 +150,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Psg1l8hEesyT3Wri.htm](backgrounds/Psg1l8hEesyT3Wri.htm)|Courier|Garçon de course|libre|
 |[psz1WHMGUNFOPG37.htm](backgrounds/psz1WHMGUNFOPG37.htm)|Sodden Scavenger|récupérateur détrempé|libre|
 |[pvqejr2ADrs9EoBM.htm](backgrounds/pvqejr2ADrs9EoBM.htm)|Molthuni Mercenary|Mercenaire du Molthune|libre|
-|[q0hK6ih6h42fL4yD.htm](backgrounds/q0hK6ih6h42fL4yD.htm)|Shory Seeker|Chercheur Shory|libre|
+|[q0hK6ih6h42fL4yD.htm](backgrounds/q0hK6ih6h42fL4yD.htm)|Shory Seeker|Chercheur Rivain|libre|
 |[qHj5VrGgd0Gze9LL.htm](backgrounds/qHj5VrGgd0Gze9LL.htm)|Sleepless Suns Star|Étoile des soleils sans repos|libre|
 |[qhY96No3S3ulObtQ.htm](backgrounds/qhY96No3S3ulObtQ.htm)|Goblinblood Orphan|Orphelin du sang gobelin|libre|
 |[QjEpaKn5x9INfcfY.htm](backgrounds/QjEpaKn5x9INfcfY.htm)|Atteran Rancher|Rancher Atteran|libre|
