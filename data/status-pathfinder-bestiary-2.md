@@ -1,9 +1,9 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **aucune**: 323
+ * **aucune**: 335
 
 
-Dernière mise à jour: 2020-11-14 09:15 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-16 19:02 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -61,7 +61,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aa652cDdKTani3DY.htm](pathfinder-bestiary-2/Aa652cDdKTani3DY.htm)|Scythe Tree|
 |[aATQbGnSA0KOWG53.htm](pathfinder-bestiary-2/aATQbGnSA0KOWG53.htm)|Anancus|
 |[ABMn623izSLHA0sx.htm](pathfinder-bestiary-2/ABMn623izSLHA0sx.htm)|Glass Golem|
+|[ABrzFoOqQohQqU6C.htm](pathfinder-bestiary-2/ABrzFoOqQohQqU6C.htm)|Yamaraj|
 |[ACIqdW6VsFA1TCpN.htm](pathfinder-bestiary-2/ACIqdW6VsFA1TCpN.htm)|Manta Ray|
+|[aFRGgQWWCDIiBlUl.htm](pathfinder-bestiary-2/aFRGgQWWCDIiBlUl.htm)|D'ziriak|
 |[aMIb3Xm64NzRj8YP.htm](pathfinder-bestiary-2/aMIb3Xm64NzRj8YP.htm)|Mandragora|
 |[ARw4pyNmuQxoZDke.htm](pathfinder-bestiary-2/ARw4pyNmuQxoZDke.htm)|Steam Mephit|
 |[aVf2IojxU9ZZ64M5.htm](pathfinder-bestiary-2/aVf2IojxU9ZZ64M5.htm)|Fetchling Scout|
@@ -76,6 +78,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BSlvgDdLkTXU9hRF.htm](pathfinder-bestiary-2/BSlvgDdLkTXU9hRF.htm)|Ancient Umbral Dragon|
 |[BTQ2ARKulg5Egueg.htm](pathfinder-bestiary-2/BTQ2ARKulg5Egueg.htm)|Augur|
 |[Bz5wgKEVsHAyaYEx.htm](pathfinder-bestiary-2/Bz5wgKEVsHAyaYEx.htm)|Sunflower Leshy|
+|[c4uQKZaRWv9n9IHo.htm](pathfinder-bestiary-2/c4uQKZaRWv9n9IHo.htm)|Solar|
 |[C7LvY2Xxzm2xRL1M.htm](pathfinder-bestiary-2/C7LvY2Xxzm2xRL1M.htm)|Giant Solifugid|
 |[cd2IaNGpdmHHZnrN.htm](pathfinder-bestiary-2/cd2IaNGpdmHHZnrN.htm)|Xill|
 |[cijMuXBk8YUw2RoB.htm](pathfinder-bestiary-2/cijMuXBk8YUw2RoB.htm)|Caligni Slayer|
@@ -104,10 +107,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[eD1kydftMIp4CL2K.htm](pathfinder-bestiary-2/eD1kydftMIp4CL2K.htm)|Sard|
 |[EOiOqs1vHCxZAj3T.htm](pathfinder-bestiary-2/EOiOqs1vHCxZAj3T.htm)|Scarecrow|
 |[ePUTKSr45H7S5dQs.htm](pathfinder-bestiary-2/ePUTKSr45H7S5dQs.htm)|Veranallia|
+|[Et2784TVZOXIbtM1.htm](pathfinder-bestiary-2/Et2784TVZOXIbtM1.htm)|Interlocutor|
 |[EWoJAp5LJeL1Qfye.htm](pathfinder-bestiary-2/EWoJAp5LJeL1Qfye.htm)|Giant Frog|
 |[EXeR2HC4xsvHcf6K.htm](pathfinder-bestiary-2/EXeR2HC4xsvHcf6K.htm)|Monadic Deva|
 |[F5QibbbxUeO8A3Kj.htm](pathfinder-bestiary-2/F5QibbbxUeO8A3Kj.htm)|Grimstalker|
 |[FERUCyMwvy4Nejou.htm](pathfinder-bestiary-2/FERUCyMwvy4Nejou.htm)|Hellcat|
+|[FHnWzK7DsniqZWzG.htm](pathfinder-bestiary-2/FHnWzK7DsniqZWzG.htm)|Nereid|
 |[FJr7Rc9MQEwxjAcz.htm](pathfinder-bestiary-2/FJr7Rc9MQEwxjAcz.htm)|Urdefhan Tormentor|
 |[FMU6L5vbiUxa1ZF7.htm](pathfinder-bestiary-2/FMU6L5vbiUxa1ZF7.htm)|Kelpie|
 |[FnLuqlzLl4zCE9pJ.htm](pathfinder-bestiary-2/FnLuqlzLl4zCE9pJ.htm)|Adult Magma Dragon|
@@ -133,8 +138,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[hFbfXmjMkGEzMkQ1.htm](pathfinder-bestiary-2/hFbfXmjMkGEzMkQ1.htm)|Raven|
 |[HhSoTr6mpwV09Y4k.htm](pathfinder-bestiary-2/HhSoTr6mpwV09Y4k.htm)|Irnakurse|
 |[HI7SecILsRTmOtky.htm](pathfinder-bestiary-2/HI7SecILsRTmOtky.htm)|Shocker Lizard|
+|[hIWzgjW2E2K6ImPA.htm](pathfinder-bestiary-2/hIWzgjW2E2K6ImPA.htm)|Bog Mummy|
 |[HjmqeJuWdmY5imiz.htm](pathfinder-bestiary-2/HjmqeJuWdmY5imiz.htm)|Triton|
 |[HmeEHIXL46rBQWAa.htm](pathfinder-bestiary-2/HmeEHIXL46rBQWAa.htm)|Frost Troll|
+|[hmnNDCNV425MisdA.htm](pathfinder-bestiary-2/hmnNDCNV425MisdA.htm)|Eremite|
 |[HNEUSYnInffvGPHK.htm](pathfinder-bestiary-2/HNEUSYnInffvGPHK.htm)|Specter|
 |[Ho1Dx2dXlQZYLApP.htm](pathfinder-bestiary-2/Ho1Dx2dXlQZYLApP.htm)|Sylph Sneak|
 |[hvKRgNiQtQJhHk9u.htm](pathfinder-bestiary-2/hvKRgNiQtQJhHk9u.htm)|Imentesh|
@@ -144,7 +151,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HzeOxVy3VXxaJmC5.htm](pathfinder-bestiary-2/HzeOxVy3VXxaJmC5.htm)|Adult Umbral Dragon|
 |[i8C4jqI3VdozylBL.htm](pathfinder-bestiary-2/i8C4jqI3VdozylBL.htm)|Cornugon|
 |[iLZpGlyBWxS4Idbi.htm](pathfinder-bestiary-2/iLZpGlyBWxS4Idbi.htm)|Emperor Cobra|
+|[iW6WKMVV3Ug8sa2q.htm](pathfinder-bestiary-2/iW6WKMVV3Ug8sa2q.htm)|Thanadaemon|
 |[j43O2vBu8eu2wC5z.htm](pathfinder-bestiary-2/j43O2vBu8eu2wC5z.htm)|Vrykolakas Master|
+|[jCF9HjF42SPXTptP.htm](pathfinder-bestiary-2/jCF9HjF42SPXTptP.htm)|Marrmora|
 |[jCJUvzs1FaL6PAkq.htm](pathfinder-bestiary-2/jCJUvzs1FaL6PAkq.htm)|Bodak|
 |[JCoILqEvwovT7tkj.htm](pathfinder-bestiary-2/JCoILqEvwovT7tkj.htm)|Chupacabra|
 |[JgePINrFINmlsvn3.htm](pathfinder-bestiary-2/JgePINrFINmlsvn3.htm)|Hound Of Tindalos|
@@ -197,6 +206,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[O69kXMo6shkA606k.htm](pathfinder-bestiary-2/O69kXMo6shkA606k.htm)|Choker|
 |[O9LzsedLTUVFtOix.htm](pathfinder-bestiary-2/O9LzsedLTUVFtOix.htm)|Black Scorpion|
 |[OaKx1ZaU25i3cypS.htm](pathfinder-bestiary-2/OaKx1ZaU25i3cypS.htm)|Theletos|
+|[OaNtHZAraCrVLuSo.htm](pathfinder-bestiary-2/OaNtHZAraCrVLuSo.htm)|Mohrg|
 |[OERK0GGnaEOthcdV.htm](pathfinder-bestiary-2/OERK0GGnaEOthcdV.htm)|Cave Fisher|
 |[OFHr8UhsBOOgj0ef.htm](pathfinder-bestiary-2/OFHr8UhsBOOgj0ef.htm)|Intellect Devourer|
 |[oKogG9AwUZ9iBsm3.htm](pathfinder-bestiary-2/oKogG9AwUZ9iBsm3.htm)|Derghodaemon|
@@ -272,6 +282,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[V6OBYa51VcehPj22.htm](pathfinder-bestiary-2/V6OBYa51VcehPj22.htm)|Gray Ooze|
 |[Va2LUALLnnfWX3wq.htm](pathfinder-bestiary-2/Va2LUALLnnfWX3wq.htm)|Vrolikai|
 |[veyyE0brfjIoQK1q.htm](pathfinder-bestiary-2/veyyE0brfjIoQK1q.htm)|Icicle Snake|
+|[vg3nE7p855SXkXbz.htm](pathfinder-bestiary-2/vg3nE7p855SXkXbz.htm)|Bebilith|
 |[vHTvuteLd2kYX3ib.htm](pathfinder-bestiary-2/vHTvuteLd2kYX3ib.htm)|Flytrap Leshy|
 |[VHXsmfnOBRBXB6TL.htm](pathfinder-bestiary-2/VHXsmfnOBRBXB6TL.htm)|Megalania|
 |[vjEHKCgMunMHKl7r.htm](pathfinder-bestiary-2/vjEHKCgMunMHKl7r.htm)|Wereboar|
@@ -281,7 +292,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VYEPG1G64OaCQmwf.htm](pathfinder-bestiary-2/VYEPG1G64OaCQmwf.htm)|Elasmosaurus|
 |[W1OXnXGF22uybovO.htm](pathfinder-bestiary-2/W1OXnXGF22uybovO.htm)|Taiga Giant|
 |[W2gd0emEVbD8EGmf.htm](pathfinder-bestiary-2/W2gd0emEVbD8EGmf.htm)|Marsh Giant|
-|[wBGUIPJMm9Van9GQ.htm](pathfinder-bestiary-2/wBGUIPJMm9Van9GQ.htm)|Frost Yai|
+|[wBGUIPJMm9Van9GQ.htm](pathfinder-bestiary-2/wBGUIPJMm9Van9GQ.htm)|Ice Yai|
 |[wByXwxI5r7YRlkAK.htm](pathfinder-bestiary-2/wByXwxI5r7YRlkAK.htm)|Shoggti|
 |[wCsfRovcZMZxSdGm.htm](pathfinder-bestiary-2/wCsfRovcZMZxSdGm.htm)|Zebub|
 |[WjZCNuHNKfeeHCQS.htm](pathfinder-bestiary-2/WjZCNuHNKfeeHCQS.htm)|Worm That Walks Cultist|
@@ -299,6 +310,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Xb0uY2tg1Cd3kZd0.htm](pathfinder-bestiary-2/Xb0uY2tg1Cd3kZd0.htm)|Jyoti|
 |[XCNRztCxn6EbJ0gr.htm](pathfinder-bestiary-2/XCNRztCxn6EbJ0gr.htm)|Norn|
 |[xdIHvCBspeSXRL6A.htm](pathfinder-bestiary-2/xdIHvCBspeSXRL6A.htm)|Ghonhatine|
+|[xfcFXLbadD3KdlHW.htm](pathfinder-bestiary-2/xfcFXLbadD3KdlHW.htm)|Lerritan|
 |[xIvv8vKBa0YsTEzt.htm](pathfinder-bestiary-2/xIvv8vKBa0YsTEzt.htm)|Korred|
 |[xjV0TmPNfKR7UcKu.htm](pathfinder-bestiary-2/xjV0TmPNfKR7UcKu.htm)|Osyluth|
 |[xrAx0xj0UsM4DG5T.htm](pathfinder-bestiary-2/xrAx0xj0UsM4DG5T.htm)|Oread Guard|

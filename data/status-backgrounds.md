@@ -2,11 +2,11 @@
 
  * **libre**: 143
  * **officielle**: 39
- * **aucune**: 5
+ * **aucune**: 6
  * **changé**: 5
 
 
-Dernière mise à jour: 2020-11-14 09:15 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-16 19:02 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,6 +14,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[45DuRopZt9dTJo3a.htm](backgrounds/45DuRopZt9dTJo3a.htm)|Translator|
+|[CFdKZFcCcBEPjG5v.htm](backgrounds/CFdKZFcCcBEPjG5v.htm)|Harrow-Led|
 |[lGXKBZYzT2IM69Yj.htm](backgrounds/lGXKBZYzT2IM69Yj.htm)|Pathfinder Recruiter|
 |[RuQNK9zaRqpe45H9.htm](backgrounds/RuQNK9zaRqpe45H9.htm)|Trailblazer|
 |[sPar7gD7KpbKcZLJ.htm](backgrounds/sPar7gD7KpbKcZLJ.htm)|Spell Seeker|

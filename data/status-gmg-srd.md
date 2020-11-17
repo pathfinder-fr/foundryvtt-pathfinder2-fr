@@ -1,10 +1,11 @@
 # État de la traduction (gmg-srd)
 
- * **libre**: 5
+ * **changé**: 3
  * **aucune**: 93
+ * **libre**: 2
 
 
-Dernière mise à jour: 2020-11-14 09:15 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-16 19:02 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -109,8 +110,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[2cyhXgGkmoFe3Phw.htm](gmg-srd/2cyhXgGkmoFe3Phw.htm)|Trained by a Mentor|Entraîné par un Mentor|libre|
+|[2cyhXgGkmoFe3Phw.htm](gmg-srd/2cyhXgGkmoFe3Phw.htm)|Trained by a Mentor|Entraîné par un Mentor|changé|
 |[3Uwfn0ui7tS277iE.htm](gmg-srd/3Uwfn0ui7tS277iE.htm)|Metropolis|Métropolitain|libre|
 |[AL562TPAhLCFX62S.htm](gmg-srd/AL562TPAhLCFX62S.htm)|Underground|Sous-terrain|libre|
-|[bNmSwKSFk6SWWrlj.htm](gmg-srd/bNmSwKSFk6SWWrlj.htm)|Abandoned in a Distant Land|Abandonné sur un territoire éloigné|libre|
-|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|Vainqueur d'une compétition|libre|
+|[bNmSwKSFk6SWWrlj.htm](gmg-srd/bNmSwKSFk6SWWrlj.htm)|Abandoned in a Distant Land|Abandonné sur un territoire éloigné|changé|
+|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|Vainqueur d'une compétition|changé|

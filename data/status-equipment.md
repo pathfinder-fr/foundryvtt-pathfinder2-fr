@@ -2,11 +2,11 @@
 
  * **officielle**: 227
  * **changé**: 648
- * **aucune**: 589
+ * **aucune**: 610
  * **libre**: 220
 
 
-Dernière mise à jour: 2020-11-14 09:15 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-16 19:02 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -155,6 +155,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-07-FgAPV0iLE6R1QMJ5.htm](equipment/consumable-07-FgAPV0iLE6R1QMJ5.htm)|Skinstitch Salve|
 |[consumable-07-HUPCdlFkJQC7Krim.htm](equipment/consumable-07-HUPCdlFkJQC7Krim.htm)|Starshot Arrow (Lesser)|
 |[consumable-07-ktRGlgegUBZcr0aJ.htm](equipment/consumable-07-ktRGlgegUBZcr0aJ.htm)|Saints' Balm|
+|[consumable-07-kzfRjSrq4JNZlc32.htm](equipment/consumable-07-kzfRjSrq4JNZlc32.htm)|Whisper Briolette|
 |[consumable-07-LBhzIWBH9TJ8A2K5.htm](equipment/consumable-07-LBhzIWBH9TJ8A2K5.htm)|Invisible Net|
 |[consumable-07-TqX34x9CijryfrlM.htm](equipment/consumable-07-TqX34x9CijryfrlM.htm)|Brass Dragon's Breath Potion (Young)|
 |[consumable-07-TSbuKm91qmqdqQW3.htm](equipment/consumable-07-TSbuKm91qmqdqQW3.htm)|Putrescent Glob|
@@ -175,6 +176,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-09-jnCP2zYJamUeZsJC.htm](equipment/consumable-09-jnCP2zYJamUeZsJC.htm)|Cold Iron Blanch (Moderate)|
 |[consumable-09-rzRI8taFlNY8lbkl.htm](equipment/consumable-09-rzRI8taFlNY8lbkl.htm)|Body Recovery Kit|
 |[consumable-09-vL6AtFbcxbipGvtf.htm](equipment/consumable-09-vL6AtFbcxbipGvtf.htm)|Basilisk Eye|
+|[consumable-09-xvJ2jzqipBNrwZ2w.htm](equipment/consumable-09-xvJ2jzqipBNrwZ2w.htm)|Sight-Theft Grit|
 |[consumable-10-3IknuOpIV1OSNl98.htm](equipment/consumable-10-3IknuOpIV1OSNl98.htm)|Lucky Rabbit's Foot|
 |[consumable-10-7TT0XIb8ovLFOP2e.htm](equipment/consumable-10-7TT0XIb8ovLFOP2e.htm)|Honeyscent|
 |[consumable-10-dzfmP3WsA15puenS.htm](equipment/consumable-10-dzfmP3WsA15puenS.htm)|Potion of Resistance (Moderate)|
@@ -184,11 +186,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-10-m99u0zXVbyPdK8Mf.htm](equipment/consumable-10-m99u0zXVbyPdK8Mf.htm)|Potion of Fire Resistance (Moderate)|
 |[consumable-10-MBL8rOfvokYmUvwc.htm](equipment/consumable-10-MBL8rOfvokYmUvwc.htm)|Olfactory Obfuscator (Greater)|
 |[consumable-10-MHoghQhxbvZRyyaB.htm](equipment/consumable-10-MHoghQhxbvZRyyaB.htm)|Potion of Electricity Resistance (Moderate)|
+|[consumable-10-RH1fNsslZ1wdeqy2.htm](equipment/consumable-10-RH1fNsslZ1wdeqy2.htm)|Fearweed|
 |[consumable-10-SV7W0lC2d8mfYuhy.htm](equipment/consumable-10-SV7W0lC2d8mfYuhy.htm)|Serrating|
 |[consumable-10-Wjkw0lEUOhypYvzo.htm](equipment/consumable-10-Wjkw0lEUOhypYvzo.htm)|Shadow Essence|
 |[consumable-10-yG6Za8FaG3hpXUGh.htm](equipment/consumable-10-yG6Za8FaG3hpXUGh.htm)|Potion of Acid Resistance (Moderate)|
 |[consumable-10-ZOOrK4yEW6rFpPJ1.htm](equipment/consumable-10-ZOOrK4yEW6rFpPJ1.htm)|Addiction Suppressant (Greater)|
 |[consumable-11-2x8F5s3PyKzYsRrZ.htm](equipment/consumable-11-2x8F5s3PyKzYsRrZ.htm)|Bloodhound Mask (Greater)|
+|[consumable-11-8GEsRsQAdDljRT1s.htm](equipment/consumable-11-8GEsRsQAdDljRT1s.htm)|Hunger Oil|
 |[consumable-11-ieVRS2BjiWqauly6.htm](equipment/consumable-11-ieVRS2BjiWqauly6.htm)|Sixfingers Elixir (Moderate)|
 |[consumable-11-ThX0ntpTqonGqguT.htm](equipment/consumable-11-ThX0ntpTqonGqguT.htm)|Potion of Disguise (Greater)|
 |[consumable-11-TMtQnY6yvIRCpK9v.htm](equipment/consumable-11-TMtQnY6yvIRCpK9v.htm)|Juggernaut Mutagen (Greater)|
@@ -214,16 +218,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-12-tW2rmGSanKQlUkiU.htm](equipment/consumable-12-tW2rmGSanKQlUkiU.htm)|Potion of Cold Retalitation (Greater)|
 |[consumable-12-vMs9n8oXlZttcJkX.htm](equipment/consumable-12-vMs9n8oXlZttcJkX.htm)|Focus Cathartic (Greater)|
 |[consumable-12-WvDbdESFJY6Be2u1.htm](equipment/consumable-12-WvDbdESFJY6Be2u1.htm)|Blackfinger Blight|
+|[consumable-12-YScPBPwB4t9sydp0.htm](equipment/consumable-12-YScPBPwB4t9sydp0.htm)|Spell-Eating Pitch|
 |[consumable-13-1YROvQsCdq8WFWRj.htm](equipment/consumable-13-1YROvQsCdq8WFWRj.htm)|Time Shield Potion|
+|[consumable-13-6vyr3drpizIrd5PS.htm](equipment/consumable-13-6vyr3drpizIrd5PS.htm)|Daylight Vapor|
 |[consumable-13-BxzwmwQ5O4fewa4w.htm](equipment/consumable-13-BxzwmwQ5O4fewa4w.htm)|Purple Worm Repellent|
+|[consumable-13-C0Zhu7Vwy9Aipwoh.htm](equipment/consumable-13-C0Zhu7Vwy9Aipwoh.htm)|Spectral Nightshade|
 |[consumable-13-dyvwp4EHgJDzVjJh.htm](equipment/consumable-13-dyvwp4EHgJDzVjJh.htm)|Metalmist Sphere (Greater)|
 |[consumable-13-QImdOdyolrMWwuxD.htm](equipment/consumable-13-QImdOdyolrMWwuxD.htm)|Gorgon's Breath|
 |[consumable-14-4dwBcqeuXePd89qW.htm](equipment/consumable-14-4dwBcqeuXePd89qW.htm)|Starshot Arrow (Greater)|
+|[consumable-14-8qUja4YdvewN4es0.htm](equipment/consumable-14-8qUja4YdvewN4es0.htm)|Death Knell Powder|
 |[consumable-14-DIQg2Tml1wWjSC1q.htm](equipment/consumable-14-DIQg2Tml1wWjSC1q.htm)|Engulfing Snare|
 |[consumable-14-j77uu6eFlsYoZApx.htm](equipment/consumable-14-j77uu6eFlsYoZApx.htm)|Ruby String|
 |[consumable-14-mJSCOIJllj2GtACC.htm](equipment/consumable-14-mJSCOIJllj2GtACC.htm)|Grinning Pugwampi|
+|[consumable-14-vAEQsYQbOYmqfIc0.htm](equipment/consumable-14-vAEQsYQbOYmqfIc0.htm)|Liar's Demise|
 |[consumable-14-ywYt2SyZaV95KcZH.htm](equipment/consumable-14-ywYt2SyZaV95KcZH.htm)|Potion of Resistance (Greater)|
 |[consumable-15-cqTCg6C0lvYUKQmx.htm](equipment/consumable-15-cqTCg6C0lvYUKQmx.htm)|Stone Body Mutagen (Greater)|
+|[consumable-15-cSrCTi2zE5OU5ylH.htm](equipment/consumable-15-cSrCTi2zE5OU5ylH.htm)|Lifeblight Residue|
 |[consumable-15-E999hL7XlAlfZhjK.htm](equipment/consumable-15-E999hL7XlAlfZhjK.htm)|Potion of Flying (Greater)|
 |[consumable-15-R4UPjbSDwDEmDJBA.htm](equipment/consumable-15-R4UPjbSDwDEmDJBA.htm)|Azure Worm Repellent|
 |[consumable-16-7p3C9xf3XgUbvKHL.htm](equipment/consumable-16-7p3C9xf3XgUbvKHL.htm)|Frenzy Oil|
@@ -235,6 +245,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-16-Odl2SyKw8Zg6ckKb.htm](equipment/consumable-16-Odl2SyKw8Zg6ckKb.htm)|Hail of Arrows Snare|
 |[consumable-16-tnCKwIsRsKj3FtG6.htm](equipment/consumable-16-tnCKwIsRsKj3FtG6.htm)|Omnidirectional Spear Snare|
 |[consumable-16-WAUq4TB4Q9FDxWFz.htm](equipment/consumable-16-WAUq4TB4Q9FDxWFz.htm)|Candle of Invocation|
+|[consumable-16-ws3OXRgAawwYIKK6.htm](equipment/consumable-16-ws3OXRgAawwYIKK6.htm)|Repulsion Resin|
 |[consumable-16-WXnGIl4d62detRlf.htm](equipment/consumable-16-WXnGIl4d62detRlf.htm)|Cold Iron Blanch (Greater)|
 |[consumable-16-yPFHTY1GH3rdWwds.htm](equipment/consumable-16-yPFHTY1GH3rdWwds.htm)|Dust of Corpse Animation (Greater)|
 |[consumable-17-1kNp6yOS0aZPBPzZ.htm](equipment/consumable-17-1kNp6yOS0aZPBPzZ.htm)|Juggernaut Mutagen (Major)|
@@ -272,6 +283,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-7HHKalX0yYJSHROS.htm](equipment/equipment-00-7HHKalX0yYJSHROS.htm)|Depth Gauge|
 |[equipment-00-937vrPcl9rpzdtJw.htm](equipment/equipment-00-937vrPcl9rpzdtJw.htm)|Clockwork Dial|
 |[equipment-00-AnJiuDSgJ1uBYRaZ.htm](equipment/equipment-00-AnJiuDSgJ1uBYRaZ.htm)|Snowshoes|
+|[equipment-00-B3aJa0csNZOGXLXT.htm](equipment/equipment-00-B3aJa0csNZOGXLXT.htm)|Harrow Deck (Common)|
+|[equipment-00-C1j0Zs26TPVjplbs.htm](equipment/equipment-00-C1j0Zs26TPVjplbs.htm)|Harrow Deck (Simple)|
 |[equipment-00-csfJtggwGCF28U2j.htm](equipment/equipment-00-csfJtggwGCF28U2j.htm)|Musical Instrument (Heavy)|
 |[equipment-00-DA3HgyEBGEbtRNOo.htm](equipment/equipment-00-DA3HgyEBGEbtRNOo.htm)|Dueling Cape|
 |[equipment-00-DAqI0GwKuRwBagz5.htm](equipment/equipment-00-DAqI0GwKuRwBagz5.htm)|False Manacles|
@@ -281,6 +294,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-iYiA6CMR1N2E2Ny2.htm](equipment/equipment-00-iYiA6CMR1N2E2Ny2.htm)|Earplugs|
 |[equipment-00-kDrlBnkDMVxPrahI.htm](equipment/equipment-00-kDrlBnkDMVxPrahI.htm)|Water Purifier|
 |[equipment-00-M91ye9B7IdxDIDsS.htm](equipment/equipment-00-M91ye9B7IdxDIDsS.htm)|Brass Ear|
+|[equipment-00-OP1TkZ9ugn86W4Br.htm](equipment/equipment-00-OP1TkZ9ugn86W4Br.htm)|Harrow Deck (Fine)|
+|[equipment-00-P4hCmpeuBochkxsJ.htm](equipment/equipment-00-P4hCmpeuBochkxsJ.htm)|Harrow Carrying Case|
 |[equipment-00-Q4KkKGGXq4bNGHh2.htm](equipment/equipment-00-Q4KkKGGXq4bNGHh2.htm)|Marked Playing Cards|
 |[equipment-00-QFAHoE7FJ9TPCGWL.htm](equipment/equipment-00-QFAHoE7FJ9TPCGWL.htm)|Rubbing Set|
 |[equipment-00-T8EopYZLT137CsdW.htm](equipment/equipment-00-T8EopYZLT137CsdW.htm)|Net|
@@ -290,6 +305,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-xE2CGurZp4eHc1Oc.htm](equipment/equipment-00-xE2CGurZp4eHc1Oc.htm)|Familiar Satchel|
 |[equipment-00-xuTO0Lbu999HnBhK.htm](equipment/equipment-00-xuTO0Lbu999HnBhK.htm)|Sovereign Steel Ingot|
 |[equipment-00-XV2EHt1RWHqzPeUT.htm](equipment/equipment-00-XV2EHt1RWHqzPeUT.htm)|Shield Sconce|
+|[equipment-00-Ze64YjceQqnwRCsU.htm](equipment/equipment-00-Ze64YjceQqnwRCsU.htm)|Harrow Mat|
 |[equipment-01-2mt15LcfMArk7JqT.htm](equipment/equipment-01-2mt15LcfMArk7JqT.htm)|Ganjay Book (1 bulk book)|
 |[equipment-01-FABVnBeYtGXshlwm.htm](equipment/equipment-01-FABVnBeYtGXshlwm.htm)|Ring of Discretion|
 |[equipment-01-i2JwyZJpVZhlOObL.htm](equipment/equipment-01-i2JwyZJpVZhlOObL.htm)|Waterproof Journal|
@@ -340,6 +356,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-04-LmIpYZ1lS2UDGXvU.htm](equipment/equipment-04-LmIpYZ1lS2UDGXvU.htm)|Mortar of Hidden Meaning|
 |[equipment-04-oC4ZMEdBJ3ia4ALm.htm](equipment/equipment-04-oC4ZMEdBJ3ia4ALm.htm)|Cloak of Repute|
 |[equipment-04-PhjutBgR1egCuHvY.htm](equipment/equipment-04-PhjutBgR1egCuHvY.htm)|Wayfinder of Rescue|
+|[equipment-04-Rwx6I3CDdOeOl5xW.htm](equipment/equipment-04-Rwx6I3CDdOeOl5xW.htm)|Poisoner's Staff|
 |[equipment-04-TxMFNfkoccirCitP.htm](equipment/equipment-04-TxMFNfkoccirCitP.htm)|Thieves' Tools (Concealable Picks)|
 |[equipment-04-WKdmAhoji9Y9RC7D.htm](equipment/equipment-04-WKdmAhoji9Y9RC7D.htm)|Marvelous Calliope|
 |[equipment-04-y0ngvQ7ArcUuoEHT.htm](equipment/equipment-04-y0ngvQ7ArcUuoEHT.htm)|Blessed Tattoo|
@@ -384,11 +401,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-07-qzgi4PCcvpH0QPVj.htm](equipment/equipment-07-qzgi4PCcvpH0QPVj.htm)|Ethersight Ring|
 |[equipment-07-tf69NMnUoUAYrWtj.htm](equipment/equipment-07-tf69NMnUoUAYrWtj.htm)|Wand of the Spider (2nd-Level Spell)|
 |[equipment-07-YO2X0EE3txascuuP.htm](equipment/equipment-07-YO2X0EE3txascuuP.htm)|Wondrous Figurine (Rubber Bear)|
+|[equipment-08-10CiChAgeSExN7Ie.htm](equipment/equipment-08-10CiChAgeSExN7Ie.htm)|Poisoner's Staff (Greater)|
 |[equipment-08-8x8zqH4pJKJRlyAj.htm](equipment/equipment-08-8x8zqH4pJKJRlyAj.htm)|Moonstone Diadem|
 |[equipment-08-C9wOlvuVCjVbz1YQ.htm](equipment/equipment-08-C9wOlvuVCjVbz1YQ.htm)|Bloodbane|
 |[equipment-08-dPQhe0tAa5LkPFoW.htm](equipment/equipment-08-dPQhe0tAa5LkPFoW.htm)|Swarmeater's Clasp|
 |[equipment-08-k9BYXA4b7Z4Hy6lZ.htm](equipment/equipment-08-k9BYXA4b7Z4Hy6lZ.htm)|Deafening Music Box|
 |[equipment-08-LiJMupjynmkM5Mld.htm](equipment/equipment-08-LiJMupjynmkM5Mld.htm)|Slick (Greater)|
+|[equipment-08-lL50lfx5tBosb1s3.htm](equipment/equipment-08-lL50lfx5tBosb1s3.htm)|Poisoner's Staff (Major)|
 |[equipment-08-NmhKGflbT5NnKduz.htm](equipment/equipment-08-NmhKGflbT5NnKduz.htm)|Wand of Crackling Lightning (3rd-Level Spell)|
 |[equipment-08-nZE16PtiyY7DWlzd.htm](equipment/equipment-08-nZE16PtiyY7DWlzd.htm)|Lover's Gloves|
 |[equipment-08-QDYPr19De3TBIysx.htm](equipment/equipment-08-QDYPr19De3TBIysx.htm)|Sinister Knight|
@@ -579,7 +598,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-14-gG4IUEzqD253s7nx.htm](equipment/weapon-14-gG4IUEzqD253s7nx.htm)|Staff of Illusion (Major)|
 |[weapon-14-J5It6yq3ZkN059zP.htm](equipment/weapon-14-J5It6yq3ZkN059zP.htm)|Glaive of the Artist|
 |[weapon-14-jE5H6jmDJEzxGvSP.htm](equipment/weapon-14-jE5H6jmDJEzxGvSP.htm)|Deepdread Claw|
+|[weapon-14-qtlkftQXfO4wuCVu.htm](equipment/weapon-14-qtlkftQXfO4wuCVu.htm)|Hardened Harrow Deck|
 |[weapon-14-U8vVCE2ePjyca666.htm](equipment/weapon-14-U8vVCE2ePjyca666.htm)|Staff of Providence (Major)|
+|[weapon-15-APZJC0A469gBozf1.htm](equipment/weapon-15-APZJC0A469gBozf1.htm)|Blade of the Rabbit Prince|
 |[weapon-15-fLqRH3XpvDZEMxOO.htm](equipment/weapon-15-fLqRH3XpvDZEMxOO.htm)|Radiant Lance|
 |[weapon-15-tD4ZNDutHoCGIFQn.htm](equipment/weapon-15-tD4ZNDutHoCGIFQn.htm)|Blade of the Black Soverign|
 |[weapon-16-oT4pyqLKpJVXDb46.htm](equipment/weapon-16-oT4pyqLKpJVXDb46.htm)|Staff of Impossible Visions (Major)|

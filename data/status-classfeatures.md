@@ -6,7 +6,7 @@
  * **changé**: 24
 
 
-Dernière mise à jour: 2020-11-14 09:15 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-16 19:02 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -272,9 +272,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ranger-19-bBGb1LcffXEqar0p.htm](classfeatures/ranger-19-bBGb1LcffXEqar0p.htm)|Swift Prey|Changement rapide de proie|officielle|
 |[ranger-19-phwQ2MrDZ13D2HxC.htm](classfeatures/ranger-19-phwQ2MrDZ13D2HxC.htm)|Second Skin|Seconde peau|officielle|
 |[rogue-01-3KPZ7svIO6kmmEKH.htm](classfeatures/rogue-01-3KPZ7svIO6kmmEKH.htm)|Ruffian Racket|Trafic de roublard : Voyou|changé|
-|[rogue-01-D8qtAo2w4jsqjBrM.htm](classfeatures/rogue-01-D8qtAo2w4jsqjBrM.htm)|Eldritch Trickster Racket|Traffic de roublard : Mystificateur|libre|
+|[rogue-01-D8qtAo2w4jsqjBrM.htm](classfeatures/rogue-01-D8qtAo2w4jsqjBrM.htm)|Eldritch Trickster Racket|Trafic de roublard : Mystificateur|libre|
 |[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|officielle|
-|[rogue-01-RyOkmu0W9svavuAB.htm](classfeatures/rogue-01-RyOkmu0W9svavuAB.htm)|Mastermind Racket|Traffic de roublard : Cerveau|libre|
+|[rogue-01-RyOkmu0W9svavuAB.htm](classfeatures/rogue-01-RyOkmu0W9svavuAB.htm)|Mastermind Racket|Trafic de roublard : Cerveau|libre|
 |[rogue-01-uGuCGQvUmioFV2Bd.htm](classfeatures/rogue-01-uGuCGQvUmioFV2Bd.htm)|Rogue's Racket|Trafics de roublard|libre|
 |[rogue-01-w6rMqmGzhUahdnA7.htm](classfeatures/rogue-01-w6rMqmGzhUahdnA7.htm)|Surprise Attack|Attaque surprise|officielle|
 |[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|officielle|

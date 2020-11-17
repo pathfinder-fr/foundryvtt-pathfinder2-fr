@@ -123,7 +123,7 @@
         },
         {
             "id": "Mastermind Racket",
-            "name": "Mastermind Racket (Traffic de roublard : Cerveau)",
+            "name": "Mastermind Racket (Trafic de roublard : Cerveau)",
             "description": "<p>Là où les autres pourraient utiliser utiliser des tours de passe passe ou une langue mielleuse pour atteindre leurs objectifs, vous comptez sur votre intellect supérieur pour échaffauder des plans complexes. Vous voyez vos opérations comme un jeu d'échec, planifiant toujours 10 coups d'avance là où les autres pourraient en avoir trois. Vous pourriez être un détective cherchant à résoudre des crimes ou un espion au service d'une puissnte famille ou d'une nation. Si vous opérez en dehors de la Loi, vous pourriez être un aspirant seigneur du crime ou un informateur, excellent à diriger les autres vers des emplois appropriés.</p>\n<p>Si vous réussissez à identifier une créature en utilisant @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Se souvenir}, cette créature est @Compendium[pf2e.conditionspf2e.AJh5ex99aV6VTggg]{Prise au dépourvu} contre vos attaques jusqu'au début de votre prochain tour; si vous obtenez une réussite critique, elle est prise au dépourvu contre vos attaques pendant 1 minute.</p>\n<p>Vous êtes qualifié en Société et une des compétences suivantes de votre choix : Arcanes, Nature, Occultisme ou Religion.&nbsp;Vous pouvez choisir comme caractéristique clé l'Intelligence.</p>"
         },
         {
@@ -1693,7 +1693,7 @@
         },
         {
             "id": "Eldritch Trickster Racket",
-            "name": "Eldritch Trickster Racket (Traffic de roublard : Mystificateur)",
+            "name": "Eldritch Trickster Racket (Trafic de roublard : Mystificateur)",
             "description": "<p>Lorsque s'organise un gros coup, chaque roublard qui a de la jugeotte sait que la magie peut contrecarrer les plans méticuleux en un désastre, soit sous la forme de protections arcaniques ou des divinations enquinantes.&nbsp;</p>\n<p>Vous tâtez en magie juste assez pour aider à passer ces problèmes en bricolant les sorts et en mettant un peu de votre propre magie dans le mélange. Vous pourriez être un voleur solitaire, accomplissant des cambriolages qui ne peuvent être expliqués par la seule compétence ou un spécialiste auxquels d'autres voleurs font appel pour s'occuper des mesures de sécurité magiques. Vous pourriez même aller de succès en succès, embauché pour tester des défenses magiques ou même les construire vous-mêmes.&nbsp;</p>\n<p>Choisissez un archétype de multiclassage qui possède le don incantation basique, incatation experte et incantation de maître. Vous obtenez ce don de dévouement d'archétype comme don supplémentaire même si vous n'en remplissez pas son prérequis de niveau, bien que vous deviez remplir les autres prérequis. Pour vous, le don de voleur @Compendium[pf2e.feats-srd.mxO7u59ms58q7zyj]{Mystificateur magique} a un prérequis de niveau 2 au lieu de niveau 4. Vous pouvez choisir le score de la caractéristique clé pour l'archétype de multiclassage comme score de caractéristique clé.</p>"
         },
         {

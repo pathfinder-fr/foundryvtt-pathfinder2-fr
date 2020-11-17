@@ -352,8 +352,8 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous dissimulez un petit objet sur vous (tel qu’une arme dont l’Encombrement est léger). Quand vous tentez de camoufler un objet sur vous pour que personne ne le remarque, le MJ effectue votre test de Discrétion et compare le résultat au DD de Perception de l’observateur passif. Une fois que le MJ a fait votre test pour un objet dissimulé, ce même résultat est utilisé, quel que soit le nombre d’observateurs passifs qui passent à votre proximité. Si une créature vous fouille pour trouver un objet, elle peut effectuer un test de Perception contre votre DD de Discrétion (l’objet est trouvé en cas de réussite).<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez également dissimuler un objet ailleurs que sur vous, dans un buisson ou dans un compartiment secret à l’intérieur d’un meuble, par exemple. Dans ce cas, les personnes qui Cherchent dans l’endroit où l’objet est dissimulé comparent le résultat de leur test de Perception à votre DD de Discrétion pour déterminer s’ils le trouvent.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès</strong> L'objet n'est pas trouvé.<br><strong>Échec</strong> La créature qui cherche trouve l'objet.</span></p>"
         },
         {
-            "id": "Resist Elf Magic﻿",
-            "name": "Resist Elf Magic﻿ (Résister à la magie elfique)",
+            "id": "Resist Elf Magic",
+            "name": "Resist Elf Magic (Résister à la magie elfique)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Déclencheur</strong> Vous effectuez un jet de sauvegarde, qui n'a pas encore été lancé, contre un effet magique.</span></p>\n<hr>\n<p>Votre résistance ancestrale à la Magie vous protège. Vous gagnez un bonus de circonstance de +1 au jet de sauvegarde déclencheur. Si l’effet déclencheur est de nature arcanique, vous gagnez un bonus de +2 à la place.&nbsp;</p>"
         },
         {
@@ -519,7 +519,7 @@
         {
             "id": "Hunt Prey",
             "name": "Hunt Prey (Chasser une proie)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous désignez une unique créature qui devient votre proie et vous focalisez vos attaques sur celle‑ci. Vous devez voir ou entendre la proie, ou vous devez être en train de la pister pendant l’exploration.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous bénéficiez d’un bonus de circonstances de +2 aux tests de Perception quand vous Cherchez votre proie et aux tests de Survie quand vous la Pistez. Vous ignorez également le malus si la proie que vous chassez se trouve dans le deuxième facteur de portée de votre arme à distance.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous ne pouvez désigner qu’une créature comme proie à la fois. Si vous utilisez Chasser une proie pour désigner une autre créature alors que vous avez déjà une créature désignée comme proie, la précédente est remplacée par la dernière qui devient votre nouvelle proie. Cette désignation dure jusqu’à vos prochains préparatifs quotidiens.&nbsp;</span></p>"
+            "description": "<p>Vous désignez une unique créature qui devient votre proie et vous focalisez vos attaques sur celle‑ci. Vous devez voir ou entendre la proie, ou vous devez être en train de la pister pendant l’exploration.</p>\n<p>Vous bénéficiez d’un bonus de circonstances de +2 aux tests de Perception quand vous Cherchez votre proie et aux tests de Survie quand vous la Pistez. Vous ignorez également le malus si la proie que vous chassez se trouve dans le deuxième facteur de portée de votre arme à distance.</p>\n<p>Vous ne pouvez désigner qu’une créature comme proie à la fois. Si vous utilisez Chasser une proie pour désigner une autre créature alors que vous avez déjà une créature désignée comme proie, la précédente est remplacée par la dernière qui devient votre nouvelle proie. Cette désignation dure jusqu’à vos prochains préparatifs quotidiens.</p>"
         },
         {
             "id": "Follow the Expert",
@@ -619,7 +619,7 @@
         {
             "id": "Debilitating Strike",
             "name": "Debilitating Strike (Frappe incapacitante)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Déclencheur</strong> Vous réussissez une Frappe contre une créature prise au dépourvu et lui infligez des dégâts.</span></p>\n<hr>\n<p>La créature reçoit l’un des handicaps suivants, qui dure jusqu’à la fin de votre prochain tour.</p>\n<p><strong>Handicap</strong> La cible reçoit un malus de statut de -3 mètres à ses Vitesses.</p>\n<p><strong>Handicap</strong> La cible devient affaiblie 1.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous réussissez une Frappe contre une créature prise au dépourvu et lui infligez des dégâts.</p>\n<hr>\n<p>La créature reçoit l’un des handicaps suivants, qui dure jusqu’à la fin de votre prochain tour.</p>\n<p><strong>Handicap</strong> La cible reçoit un malus de statut de -3 mètres à ses Vitesses.</p>\n<p><strong>Handicap</strong> La cible devient @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{Affaiblie} 1.</p>"
         },
         {
             "id": "Sustain a Spell",

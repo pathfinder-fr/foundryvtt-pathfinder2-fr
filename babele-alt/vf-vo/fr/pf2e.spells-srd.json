@@ -112,6 +112,11 @@
             "description": "<p>Une poussière scintillante dessine les contours des créatures de la zone. Chacune fait un jet de Réflexes. Si ce sort annule l’invisibilité d’une créature, elle est @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{masquée} au lieu d’être @Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{invisible}. Cela fonctionne si la créature était déjà invisible ou si elle bénéficie d’un effet d’@Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{invisibilité} avant la fin de la négation d’invisibilité de ce sort.</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée.</p>\n<p>\n<b>Succès</b> L’invisibilité de la cible est annulée pour 2 rounds.</p>\n<p>\n<b>Échec</b> La cible est @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{éblouie} pendant 1 min et son invisibilité annulée pendant 1 min.</p>\n<p>\n<b>Échec critique</b> La créature est @Compendium[pf2e.conditionspf2e.XgEqL1kFApUbl5Z2]{aveuglée} pour 1 round et @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{éblouie} pendant 10 min. Son invisibilité est annulée pendant 10 min.</p>"
         },
         {
+            "id": "Vision of Weakness",
+            "name": "Vision de faiblesse (Vision of Weakness)",
+            "description": "<p><span id=\"docs-internal-guid-ef065df2-7fff-c7ff-e86b-f0409bf9f954\">Vous concentrez votre regard sur une créature et obtenez un flash d'intuition divine de sa nature. Si la créature possède n'importe quelle faiblesse, vous l'apprenez ainsi que celui de ses trois modificateurs aux jets de sauvegarde qui est le plus faible. Vous obtenez aussi une compréhension inhérente de ses déplacements et obtenez un bonus de statut de +2 à votre prochain jet d'attaque (ou test de compétence effectué lors d'une action d'attaque) contre cet ennemi avant la fin de votre tour. La cible est alors temporairement immunisée à <em>Vision de faiblesse</em> pendant 1 jour.</span></p>"
+        },
+        {
             "id": "Aberrant Whispers",
             "name": "Murmures aberrants (Aberrant Whispers)",
             "description": "<p>Vous prononcez des phrases dans une langue inconnue qui agressent l’esprit de ceux à proximité. Chaque cible doit faire un jet de Volonté. Quel que soit le résultat de ce jet de sauvegarde, la cible est ensuite temporairement immunisée pendant 1 min. Vous pouvez augmenter le nombre d’actions nécessaires pour Lancer le sort (jusqu’à un total maximum de 3 actions). Pour chaque action supplémentaire, augmentez le rayon de l’émanation de 1,50 m, jusqu’à un maximum de 3 m supplémentaires pour 3 actions.</p>\n<p>\n<hr><b>Succès</b> La cible n’est pas affectée.</p>\n<p>\n<b>Échec</b> La cible est @Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]{stupéfiée} 2.</p>\n<p>\n<b>Échec critique</b> La cible est @Compendium[pf2e.conditionspf2e.yblD8fOR1J8rDwEQ]{confuse}.</p>\n<p>\n<hr><b>Intensifié (+3)</b> Le rayon initial augmente de 1,50 m.</p>"
@@ -150,6 +155,11 @@
             "id": "Banishment",
             "name": "Bannissement (Banishment)",
             "description": "<p>Vous renvoyez la cible sur son plan natal. La cible doit faire un jet de Volonté. Lorsque vous Lancez ce sort, vous pouvez dépenser une action supplémentaire et ajouter un composant matériel afin d’imposer un malus de circonstances de –2 à la cible. Ce composant est un objet récupéré spécialement. Il doit être anathème pour la créature et ne pas provenir d’une bourse de composants. Le sort échoue si vous le lancez alors que vous n’êtes pas sur votre plan natal</p>\n<p>\n<hr><b>Succès critique</b> La cible résiste au bannissement et vous êtes @Compendium[pf2e.conditionspf2e.dfCMdR4wnpbYNTix]{étourdi} 1.</p>\n<p>\n<b>Succès</b> La cible résiste au bannissement.</p>\n<p>\n<b>Échec</b> La cible est bannie.</p>\n<p>\n<b>Échec critique</b> La cible est bannie et ne peut pas revenir sur le plan d’où elle a été chassée pendant 1 semaine, quels que soient les moyens employés.</p>\n<p>\n<hr><b>Intensifié (9th)</b>Vous pouvez viser jusqu’à 10 créatures. Le composant matériel supplémentaire affecte les cibles pour lesquelles il est anathème.</p>"
+        },
+        {
+            "id": "Hunter's Vision",
+            "name": "Vision du chasseur (Hunter's Vision)",
+            "description": "<p>Votre cible brille d'une aura magique qui n'est visible que de vous et de ceux qui suivent vos directives. Votre cible est visible pour vous et ceux qui partagent les avantages de @Compendium[pf2e.classfeatures.0nIOGpHQNHsKSFKT]{Chasser une proie} même si elle ne  devrait pas l'être à cause de la lumière ou des conditions @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{Masquée} ou @Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{Invisible}, bien qu'un abri provoqué par des objets opaques bloque toujours cette vision. Vous ingorez le test nu contre la cible lorsqu'il est lié à la condition Masquée et la cible n'est pas automatiquement @Compendium[pf2e.conditionspf2e.iU0fEDdBp3rXpTMC]{Cachée} à cause de l'obscurité ou du fait d'être Invisible.</p>"
         },
         {
             "id": "Neutralize Poison",
@@ -240,6 +250,11 @@
             "id": "Time Stop",
             "name": "Arrêt du temps (Time Stop)",
             "description": "<p>Vous arrêtez temporairement le temps pour tout sauf vous-même, vous permettant d’utiliser plusieurs actions dans ce qui apparaît aux autres n’être qu’une fraction de seconde. Immédiatement après avoir incanté arrêt du temps, vous pouvez utiliser jusqu’à 9 actions en 3 séries de 3 actions chacune.</p>\n<p> Après chaque série d’actions, 1 round s’écoule, mais seulement pour vous, les effets vous ciblant ou vous affectant en particulier et les effets que vous créez pendant l’arrêt. Toutes les autres créatures et objets sont invulnérables à vos attaques, et vous ne pouvez pas les cibler ni les affecter de quelque façon que ce soit.</p>\n<p>Une fois que vous avez achevé vos actions, le temps recommence à s’écouler pour le reste du monde. Si vous créez un effet avec une durée qui s’étend au-delà de celle d’arrêt du temps, comme avec mur de feu, il affecte de nouveau immédiatement les autres, mais n’a aucun des effets qui se produisent uniquement quand vous lancez le sort pour la première fois.</p>"
+        },
+        {
+            "id": "Snare Hopping",
+            "name": "Piège bondissant (Snare Hopping)",
+            "description": "<p>Vous pouvez ne pas avoir placé vos pièges artisanaux à la bonne place, mais vous pouvez magiquement les y déplacer. Vous téléportez le piège artisanal cible dans un autre lieu à portée.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> La portée du sort augmente de 3 m.</p>"
         },
         {
             "id": "Untwisting Iron Buffer",
@@ -1027,6 +1042,11 @@
             "description": "<p>Vous pouvez poser des questions et recevoir des réponses des plantes, mais le sort ne les rend ni plus amicales ni plus intelligentes qu’à la normale. La plupart des plantes normales ont un point de vue particulier du monde qui les entoure, elles ne reconnaissent donc pas les détails des créatures et ne connaissent pas le monde au-delà de leur environnement immédiat. Les monstres végétaux rusés risquent d’être laconiques et évasifs, tandis que les moins intelligents font souvent des commentaires dénués de sens.</p>"
         },
         {
+            "id": "Enlarge Companion",
+            "name": "Compagnon aggrandi (Enlarge Companion)",
+            "description": "<p>Votre compagnon animal devient beaucoup plus grand, regardant ses ennemis de haut dans la bataille. Votre compagnon animal devient Très Grand, obtenant les effets du sort de niveau 4 @Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Aggrandissement}.</p>"
+        },
+        {
             "id": "Purify Food and Drink",
             "name": "Purifier la nourriture et la boisson (Purify Food and Drink)",
             "description": "<p>Vous éliminez les toxines et contaminations de la nourriture et des boissons pour pouvoir les consommer en toute sécurité. Ce sort n’empêche pas d’éventuelles contaminations, pourrissement naturel ou détériorations ordinaires ultérieurs. Trente centimètres cubes de liquide correspondent à quarante litres environ.</p>"
@@ -1055,6 +1075,11 @@
             "id": "Positive Luminance",
             "name": "Luminosité positive (Positive Luminance)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Puisant votre propre force vitale, vous devenez un phare d’énergie positive. Vous émettez une lumière vive dans une émanation de 3 m et vous gagnez une réserve de lumière interne appelée réservoir de luminance, qui commence avec une valeur de 4. Au début de chacun de vos tours, vous pouvez utiliser une action gratuite pour augmenter le réservoir de luminance de 4. Si vous le faites, le rayon de votre lumière augmente de 3 m.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si une créature morte-vivante vous inflige des dégâts avec une attaque ou un sort alors qu’elle se trouve dans la zone de votre lumière, elle subit des dégâts positifs égaux à la moitié de la valeur de votre réservoir de luminance. Elle subit ces dégâts uniquement la première fois qu’elle vous inflige des dégâts lors d’un round.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez Révoquer ce sort. Quand vous le faites, vous pouvez cibler une créature située dans votre lumière et diriger l’énergie positive vers elle. La cible doit être une créature vivante consentante ou une créature morte-vivante. Cela guérit une cible vivante ou endommage une cible morte-vivante d’un montant égal à la valeur de votre réservoir de luminance.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous lancez luminosité positive, tout autre sort de luminosité positive que vous avez déjà activé prend fin.</span></p>\n<hr>\n<p><strong>Intensifié (+1)</strong>  La valeur initiale de votre réservoir de luminance et le montant que vous gagnez à chaque tour augmentent de 1.</p>"
+        },
+        {
+            "id": "Hunter's Luck",
+            "name": "Chance du chasseur (Hunter's Luck)",
+            "description": "<p><strong>Déclencheur</strong> Vous effectuez un test pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Vouss souvenir} à propos d'une créature, mais n'avez pas encore lancé votre dé.</p>\n<hr>\n<p>Vous avez une faculté quasi-surnaturelle pour vous remémorer des détails à propos de vos ennemis. Lancez le jet déclencheurr deux fois et utilisez le meilleur résultat.</p>"
         },
         {
             "id": "You're Mine",
@@ -1292,6 +1317,11 @@
             "description": "<p>À partir de votre essence, vous créez une main semi-corporelle qui délivre des sorts de contact pour vous. Chaque fois que vous Lancez un sort avec une portée de contact, vous pouvez demander à la main de ramper vers une cible située à portée, la toucher puis ramper de nouveau vers vous. Quand vous lancez une attaque de sort de corps à corps avec la main, vous utilisez vos bonus normaux. La main peut se déplacer aussi loin que nécessaire dans la portée. La main a votre CA et vos sauvegardes, mais tout dégât qui lui est infligé la détruit et vous fait subir 1d6 dégâts</p>"
         },
         {
+            "id": "Ephemeral Tracking",
+            "name": "Pistage éphémère (Ephemeral Tracking)",
+            "description": "<p>Vous pouvez percevoir les courants dans l'air et l'eau et voir des traces que vous pouvez suivre juste comme si vous étiez sur la terre. Vous pouvez utiliser Survie pour @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Pister} à la fois à travers l'air et l'eau, remarquant des \"traces\" aquatiques de toutes les créatures qui sont passées à proximité au cours de la dernière heure. Il est plus difficile de Pister de cette manière : le DD pour Pister à travers l'air ou l'eau est toujours d'au moins 30 ou plus après des précipitations ou du vent (dans l'air) ou des marées hautes ou des courants (dans l'eau). Il est possible de @Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]{Dissimuler des traces} contre ce sort, mais les créatures pourraient ne pas réaliser qu'elles ont besoin de le faire.</p>"
+        },
+        {
             "id": "Abyssal Plague",
             "name": "Peste abyssale (Abyssal Plague)",
             "description": "<p>Votre contact transmet la peste abyssale à votre cible, ce qui emporte des fragments de son âme pour nourrir les Abysses. L’effet dépend du jet de Vigueur de la cible.</p>\n<p><strong>Succès critique</strong> La cible n’est pas affectée.</p>\n<p><strong>Succès</strong>  La cible subit 2 dégâts mauvais par niveau de sort et subit un malus de statut aux jets de sauvegarde contre la peste abyssale pendant un jour ou jusqu’à ce qu’elle contracte cette peste, selon ce qui se produit en premier.</p>\n<p><strong>Échec</strong>  La cible est contaminée par la peste abyssale au premier stade.</p>\n<p><strong>Échec critique</strong> La cible est contaminée par la peste abyssale au second stade.</p>\n<hr />\n<p><strong>Peste abyssale</strong> (maladie) <strong>niveau 9</strong>. La cible ne peut pas se remettre de l’état drainé lié à la peste abyssale tant que la maladie n’est pas soignée; <strong>Stade 1</strong> @Compendium[pf2e.conditionspf2e.4D2KBtexWXa6oUMR]{drainé} 1 (1 jour); <strong>Stade 2</strong> @Compendium[pf2e.conditionspf2e.4D2KBtexWXa6oUMR]{drainé} augmente de 2 (1 jour).</p>"
@@ -1380,6 +1410,16 @@
             "id": "Mirror Image",
             "name": "Image miroir (Mirror Image)",
             "description": "<p>Trois images illusoires de vous-même tournent autour de vous dans votre espace et ceux qui vous attaquent peuvent potentiellement frapper l’une d’elles au lieu de vous. Quand une attaque devrait normalement vous toucher, on détermine aléatoirement si elle touche à la place l’une de vos images. Si les trois images sont encore présentes, il y a 1 chance sur 4 que l’attaque vous touche (1 sur 1d4). S’il reste deux images, il y a 1 chance sur 3 qu’elle vous touche (1 ou 2 sur 1d6). S’il ne reste qu’une image, il y a 1 chance sur 2 qu’elle vous touche (1 à 3 sur 1d6).</p>\n<p>Une image est détruite lorsqu’elle est frappée. Si le résultat du jet d’attaque rate en étant inférieur à votre CA mais n’aboutit pas à un échec critique, l’attaque détruit une image sans effet additionnel (même si l’attaque devrait normalement produire un effet en cas d’échec). Si le résultat d’un jet d’attaque aboutit à un succès critique et devrait toucher l’une des images, l’une d’elles est détruite et le jet d’attaque est considéré comme un succès contre vous. Le sort se termine une fois toutes les images détruites.</p>"
+        },
+        {
+            "id": "Debilitating Dichotomy",
+            "name": "Dichotomie débilitante (Debilitating Dichotomy)",
+            "description": "<p>Vous révélez à un autre un aperçu des terribles conflits de l'anathème divin qui se cache derrière votre malédiction, vous forçant à prendre connaissance des conflits qui agitent l'autre également. Vous et la cible subissez chacun [[/r 9d6 #mental]] dégâts mentaux avec un jet de sauvegarde basique et la cible est @Compendium[pf2e.conditionspf2e.dfCMdR4wnpbYNTix]{Étourdie} 1 si elle obtient un échec critique à son jet de sauvegarde. Vous obtenez un degré de succès de plus que celui que vous avez obtenu au dé à votre jet de sauvegarde.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de [[/r 3d6 #mental]].</p>"
+        },
+        {
+            "id": "Gravity Weapon",
+            "name": "Arme pesante (Gravity Weapon)",
+            "description": "<p>Vous renforcez la force de  gravité et la canalisez dans vos coups, permettant de plus puissantes attaques avec les lames comme les arcs. Sur votre première @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} d'arme à chaque round, vous obtenez un bonus de statut aux dégats égal au nombre de dés de l'arme.</p>"
         },
         {
             "id": "Comprehend Language",
@@ -1587,6 +1627,11 @@
             "description": "<p>Vous lancez une arme que vous tenez, et elle se multiplie magiquement en copies qui frappent toutes les créatures dans le cône ou l’émanation. Ce tourbillon inflige quatre dés de dégâts aux créatures dans la zone. Ces dégâts sont du même type que l’arme et utilisent la même taille de dés. Déterminez la taille des dés comme si vous aviez attaqué avec l’arme ; par exemple, si vous teniez une arme à deux mains avec vos deux mains, vous utilisez ses dés de dégâts à deux mains.</p>\n<p>\n<hr><b>Succès critique</b> La créature n’est pas affectée.</p>\n<p>\n<b>Succès</b> La cible reçoit la moitié des dégâts.</p>\n<p>\n<b>Échec</b>La cible subit la totalité des dégâts.</p>\n<p>\n<b>Échec critique</b>La cible subit le double des dégâts et est soumise à l’effet critique spécialisé de l’arme.</p>\n<p>\n<hr><b>Intensifié (+1)</b> Ajouter un dé de dégâts supplémentaire.</p>"
         },
         {
+            "id": "Animal Feature",
+            "name": "Trait animal (Animal Feature)",
+            "description": "<p>Sans transformer totalement votre corps, vous obtenez un trait animal, que vous sélectionnez dans la liste ci-dessous chaque fois que vous @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancez le sort}.</p>\n<ul>\n<li><strong>Yeux du chat</strong> Vous obtenez @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne}.</li>\n<li><strong>Griffes</strong> Vous obtenez une attaque de griffe qui inflige [[/r 1d6 #tranchant]] dégâts tranchants et possède les traits à mains nues, agile et finesse.</li>\n<li><strong>Mâchoire</strong> Vous obtenez une attaque de mâchoire qui inflige [[/r 1d8 #perçants]] dégâts perçants possède ltrait à mains nues.</li>\n</ul>\n<hr>\n<p><strong>Intensifié (4ème)</strong> Ajoutez les options suivantes à la liste dans laquelle vous pouvez effectuer votre choix.</p>\n<ul>\n<li><strong>Queue de poisson</strong> Vous obtenez une vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nage} égale à votre Vitesse au sol.</li>\n<li><strong>Yeux de chouette</strong> Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</li>\n<li><strong>Ailes</strong> Vous obtenez une vitesse de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Vol} égale à votre Vitesse au sol.</li>\n</ul>"
+        },
+        {
             "id": "Vampiric Touch",
             "name": "Contact vampirique (Vampiric Touch)",
             "description": "<p>Votre contact aspire la force vitale d’une cible pour vous renforcer. Vous infligez 6d6 dégâts négatifs à la cible. Vous gagnez un nombre de points de vie temporaires égal à la moitié des dégâts négatifs subis par la cible (après avoir appliqué les résistances et autres). Vous perdez tout point de vie temporaire restant après 1 min.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 2d6.</p>"
@@ -1777,6 +1822,11 @@
             "description": "<p>Votre litanie s’oppose au péché de paresse, interférant avec la capacité de réaction de la cible. La cible doit faire un jet de Volonté. Une créature particulièrement paresseuse, tel un démon paresseux, utilise le résultat final avec un degré de réussite inférieur au résultat de son jet de sauvegarde. La cible est temporairement immunisée à toutes vos litanies pendant 1 min.</p>\n<p><strong>Succès critique</strong> La cible n’est pas affectée.</p>\n<p><strong>Succès</strong> La cible ne peut pas utiliser de réaction.</p>\n<p><strong>Échec</strong> La cible ne peut pas utiliser de réaction et est @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralentie} 1.</p>\n<p><strong>Échec critique</strong> La cible ne peut pas utiliser de réaction et est @Compendium[pf2e.conditionspf2e.xYTAsEpcJE1Ccni3]{ralentie} 2.</p>"
         },
         {
+            "id": "Heal Companion",
+            "name": "Guérison de compagnon (Heal Companion)",
+            "description": "<p>Vous exploitez l'énergie positive pour soigner les blessures de votre compagnon animal. Vous restaurez [[/r 1d10]] Points de Vie à votre compagnon animal. Le nombre d'actions que vous passez à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer ce sort} détermine la portée et les autres paramètres.</p>\n<p><strong>[une action]</strong> (somatique) Le sort possède une portée de contact.</p>\n<p><strong>[deux actions]</strong> (verbal) Le sort a une portée de 9 m et permet de récupérer 8 Points de vie supplémentaires à la cible.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Le montant des soins augment de [[/r 1d10]] et les soins supplémentaires pour la version à 2 actions version augmente de 8.</p>"
+        },
+        {
             "id": "Ray of Frost",
             "name": "Rayon de givre (Ray of Frost)",
             "description": "<p>Vous projetez un rayon de froid glacial. Effectuez un jet d’attaque de sort. Le rayon inflige des dégâts de froid d’un montant égal à 1d4 + votre modificateur de caractéristique d’incantation.</p>\n<hr>\n<p><strong>Succès critique</strong>&nbsp; La cible subit le double des dégâts et un malus de\nstatut de −3 m à ses Vitesses pendant 1 round.<br><strong>Succès.&nbsp;</strong>La cible reçoit les dégâts normaux.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong>&nbsp; Les dégâts augmentent de 1d4.</p>"
@@ -1830,6 +1880,11 @@
             "id": "Lock",
             "name": "Verrouillage (Lock)",
             "description": "<p>Le mécanisme de verrouillage de la cible se verrouille et des entraves magiques invisibles le maintiennent fermement verrouillé. Quand vous verrouillez par magie une cible, vous déterminez le DD d’Athlétisme ou de Vol pour l’ouvrir qui est égal à votre DD des sorts ou au DD de base du verrou (le plus élevé des deux), avec un bonus de statut de +4. L’éventuelle clef ou combinaison qui permet d’ouvrir un verrou affecté par ce sort ne fonctionne plus pendant toute la durée du sort, mais elles confèrent un bonus de circonstances de +4 aux tests effectués pour ouvrir la cible.</p>\n<p>Le sort se termine si la cible est ouverte. En supposant que la cible n’est pas barrée ou verrouillée par un dispositif supplémentaire, vous pouvez la déverrouiller et l’ouvrir avec une action Interagir pendant laquelle vous touchez la cible. Ceci ne met pas fin au sort. Vous pouvez Révoquer ce sort quand vous le souhaitez à n’importe quelle distance.</p>\n<hr>\n<p><strong>Intensifié (2e)</strong> La durée passe à illimitée mais vous devez dépenser pour cela de la poussière d’or d’une valeur de 6 po.</p>"
+        },
+        {
+            "id": "Terrain Transposition",
+            "name": "Transposition de terrain (Terrain Transposition)",
+            "description": "<p>Vous transposez mystiquement votre lieu actuel avec un autre. Lorsque vous êtes dans l'environnement naturel, vous vous transportez vous-même et les objets que vous portez vers une case libre que vous pouvez voir à portée. Si vous avez @Compendium[pf2e.feats-srd.sgo7J9BVofBqwlsF]{Environnement de prédilection} et que vos deux destinations de départ et d'arrivée sont sur votre terrain de prédilection, la portée passe à 30 m. Si vous possédez un compagnon animalet qu'il vous est adjacent, vous pouvez le transporteravec vous sur une case adjacente libre, mais si ce sort vous permet d'emmener toute autre créature avec vous, même si elle se trouve dans un contenant extradimensionnel, le sort est perdu.</p>"
         },
         {
             "id": "Summon Fiend",
@@ -2052,6 +2107,11 @@
             "description": "<p>Vous modifiez les souvenirs de la cible en les effaçant, en améliorant leur clarté ou en ajoutant de faux souvenirs. La cible a droit à un jet de Volonté pour résister au sort.</p>\n<hr>\n<p><strong>Succès critique</strong> La cible n’est pas affectée et sait que vous avez tenté de modifier ses souvenirs.</p>\n<p><strong>Succès</strong>La cible n’est pas affectée mais pense que votre sort était quelque chose d’inoffensif et non modification de mémoire, sauf si elle identifie le sort.</p>\n<p><strong>Échec</strong> Pendant les cinq premières minutes de la durée du sort, vous pouvez Maintenir le sort pour modifier un souvenir une fois par round. Le cas échéant, vous imaginez jusqu’à six secondes du souvenir que vous modifiez, pour un total maximum de cinq minutes ininterrompues.</p>\n<p>Les souvenirs que vous avez modifiés le restent tant que le sort est actif. Si la cible sort de la portée du sort avant l’écoulement des cinq minutes, vous ne pouvez plus altérer ses souvenirs.</p>\n<hr>\n<p><strong>Intensifié (6th)</strong>Vous lancez le sort sur une cible consentante pour supprimer tous ses souvenirs sur un sujet particulier que l’on peut décrire en 50 mots ou moins. L’effet est permanent et la suppression est remplacée par un souvenir flou et indistinct.</p>"
         },
         {
+            "id": "Soothing Mist",
+            "name": "Brume apaisante (Soothing Mist)",
+            "description": "<p>Vous invoquez une brume magique d'énergie positive qui enveloppe une créature. La brume restaure [[/r 2d8]] Points de Vie à une cible vivante et mettez un terme à une source de dégâts persistants d'acide, de saignement, de feu, négatifs ou de poison l'affectant. Si la créature a subi des dégâts persistants de sources multiples, vous sélectionnez laquelle cesse. Contre une cible morte-vivante, vous lui infligez [[/r 2d8 #positifs]] dégâts positifs (jet de Vigueur basique) ; s'il manque le jet de sauvegarde, il subit aussi [[/r 2 #positifs persistants]] dégâts positifs persistants.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Le montant des soins (ou des dégâts aux cibles mortes-vivantes) augmente de [[/r 1d8]] et les dégâts d'énergie positive persistants à la créature morte-vivante augment de [[/r 1]].</p>"
+        },
+        {
             "id": "Breath of Life",
             "name": "Souffle de vie (Breath of Life)",
             "description": "<p><strong>Déclencheur </strong>Une créature vivante à portée qui devrait mourir</p>\n<hr>\n<p>Votre bénédiction ramène une créature à la vie à l’instant de sa mort. Vous empêchez la cible de<a class=\"entity-link\" data-pack=\"pf2e.conditionspf2e\" data-id=\"yZRUzMqrMmfLu0V1\" draggable=\"true\"><i class=\"fas fa-book-open\"></i> mourir</a>  et lui rendez un nombre de points de\nvie égal à 4d8 plus votre modificateur de caractéristique d’incantation. Vous ne pouvez pas utiliser souffle de vie si l’effet déclencheur est désintégration ou un effet de mort.</p>"
@@ -2160,6 +2220,11 @@
             "id": "Summon Elemental",
             "name": "Convocation d'élémentaire (Summon Elemental)",
             "description": "<p>Vous conjurez un élémentaire qui se bat pour vous. Cela fonctionne comme convocation d’animal, excepté que vous convoquez une créature ordinaire qui a le trait élémentaire et dont le niveau est de 1 ou inférieur.</p>\n<hr>\n<p><strong>Intensifié (3rd)</strong> Niveau 2</p>\n<p><strong>Intensifié (4th)</strong> Niveau 3</p>\n<p><strong>Intensifié (5th)</strong> Niveau 5</p>\n<p><strong>Intensifié (6th)</strong> Niveau 7</p>\n<p><strong>Intensifié (7th)</strong> Niveau 9</p>\n<p><strong>Intensifié (8th)</strong> Niveau 11</p>\n<p><strong>Intensifié (9th)</strong> Niveau 13</p>\n<p><strong>Intensifié (10th)</strong> Niveau 15</p>"
+        },
+        {
+            "id": "Ranger's Bramble",
+            "name": "Roncier du rôdeur (Ranger's Bramble)",
+            "description": "<p>Vous provoquez la croissance des plantes de la zone pour enchevêtrer vos adversaires, avec les effets de @Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]{Enchevêtrement}.</p>\n<p>Une créature qui a obtenu un échec critique au jet de sauvegarde subit [[/r 2d4 #saignement persistant]] dégâts de saignement persisttants en plus d'être @Compendium[pf2e.conditionspf2e.eIcWbB5o3pP6OIMe]{Immobilisé}. S'@Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper} de votre roncier ne met pas un terme aux dégâts de saignement.</p>\n<hr>\n<p><strong>Intensifié (+1)</strong> Les dégâts de saignement en cas d'échec critique augmente de [[/r 1d4 #saignement persistant]].</p>"
         },
         {
             "id": "Feet to Fins",
