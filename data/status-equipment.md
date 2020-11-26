@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 227
- * **changé**: 648
+ * **officielle**: 224
+ * **changé**: 651
  * **aucune**: 610
  * **libre**: 220
 
 
-Dernière mise à jour: 2020-11-16 19:02 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-26 18:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -695,7 +695,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[backpack-00-DujblC14ytJEZMaz.htm](equipment/backpack-00-DujblC14ytJEZMaz.htm)|Sack|Sac|officielle|
 |[backpack-00-eFqKVKrf62XOGWUw.htm](equipment/backpack-00-eFqKVKrf62XOGWUw.htm)|Belt Pouch|Bourse|officielle|
 |[backpack-00-HamOU17sqb5ljiB5.htm](equipment/backpack-00-HamOU17sqb5ljiB5.htm)|Bandolier|Bandoulière|officielle|
-|[backpack-00-mBziC8v2eOtTs0f5.htm](equipment/backpack-00-mBziC8v2eOtTs0f5.htm)|Saddlebags|Fontes|officielle|
+|[backpack-00-mBziC8v2eOtTs0f5.htm](equipment/backpack-00-mBziC8v2eOtTs0f5.htm)|Saddlebags|Fontes|changé|
 |[backpack-00-OdVDPN9vIpu3Zud3.htm](equipment/backpack-00-OdVDPN9vIpu3Zud3.htm)|Chest|Coffre|officielle|
 |[backpack-00-tYBW8TBF8WOAp3x0.htm](equipment/backpack-00-tYBW8TBF8WOAp3x0.htm)|Satchel|Sacoche|changé|
 |[backpack-04-jaEEvuQ32GjAa8jy.htm](equipment/backpack-04-jaEEvuQ32GjAa8jy.htm)|Bag of Holding (Type I)|Sac sans fond (type1)|changé|
@@ -704,7 +704,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[backpack-09-rdF2RKgFK0vOlaeV.htm](equipment/backpack-09-rdF2RKgFK0vOlaeV.htm)|Knapsack of Halflingkind|Besace halfeline|changé|
 |[backpack-11-jkb2WNby4mjcYqq9.htm](equipment/backpack-11-jkb2WNby4mjcYqq9.htm)|Bag of Holding (Type III)|Sac sans fond (Type 3)|changé|
 |[backpack-13-34DA4rFy7bduRAld.htm](equipment/backpack-13-34DA4rFy7bduRAld.htm)|Bag of Holding (Type IV)|Sac sans fond (Type 4)|changé|
-|[backpack-13-9cK0QVSjNd8tQtiQ.htm](equipment/backpack-13-9cK0QVSjNd8tQtiQ.htm)|Knapsack of Halflingkind (Greater)|Besace Halfeline (supérieure)|officielle|
+|[backpack-13-9cK0QVSjNd8tQtiQ.htm](equipment/backpack-13-9cK0QVSjNd8tQtiQ.htm)|Knapsack of Halflingkind (Greater)|Besace Halfeline (supérieure)|changé|
 |[backpack-17-LRSIRUERqBAJ1HGT.htm](equipment/backpack-17-LRSIRUERqBAJ1HGT.htm)|Voyager's Pack|Sac à dos du voyageur|changé|
 |[consumable-00-AITVZmakiu3RgfKo.htm](equipment/consumable-00-AITVZmakiu3RgfKo.htm)|Bolts|Carreau(x)|officielle|
 |[consumable-00-Du05UxCyCM0ZWH8z.htm](equipment/consumable-00-Du05UxCyCM0ZWH8z.htm)|Oil (1 pint)|Huile|officielle|
@@ -1348,7 +1348,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kit-Ac0BSiDJhtMmPnge.htm](equipment/kit-Ac0BSiDJhtMmPnge.htm)|Class Kit (Oracle)|Kit de classe (oracle)|libre|
 |[kit-adNgRqqmkDDKhMRT.htm](equipment/kit-adNgRqqmkDDKhMRT.htm)|Class Kit (Barbarian)|Kit de classe (Barbare)|changé|
 |[kit-asQAvJXm3DSzPQtA.htm](equipment/kit-asQAvJXm3DSzPQtA.htm)|Class Kit (Bard)|Kit de classe (Barde)|changé|
-|[kit-bJKgKrIQ5puuifcz.htm](equipment/kit-bJKgKrIQ5puuifcz.htm)|Class Kit (Sorcerer)|Kit de classe (Ensorceleur)|officielle|
+|[kit-bJKgKrIQ5puuifcz.htm](equipment/kit-bJKgKrIQ5puuifcz.htm)|Class Kit (Sorcerer)|Kit de classe (Ensorceleur)|changé|
 |[kit-cozhl69heIF0vjUt.htm](equipment/kit-cozhl69heIF0vjUt.htm)|Class Kit (Fighter)|Kit de classe (Guerrier)|changé|
 |[kit-drY7DJ9rMQEP0et8.htm](equipment/kit-drY7DJ9rMQEP0et8.htm)|Class Kit (Monk)|Kit de classe (moine)|changé|
 |[kit-gB4kCTgR3b6SJw7n.htm](equipment/kit-gB4kCTgR3b6SJw7n.htm)|Class Kit (Champion)|Kit de classe (Champion)|changé|

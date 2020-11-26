@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **aucune**: 3
- * **officielle**: 233
- * **libre**: 127
- * **changé**: 24
+ * **aucune**: 4
+ * **officielle**: 226
+ * **libre**: 126
+ * **changé**: 32
 
 
-Dernière mise à jour: 2020-11-16 19:02 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-26 18:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -15,6 +15,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[alchemical-01-1eWDNcWSlNoU0L67.htm](classfeatures/alchemical-01-1eWDNcWSlNoU0L67.htm)|Formula Book (Alchemist)|
 |[bard-01-6FsusoMYxxjyIkVh.htm](classfeatures/bard-01-6FsusoMYxxjyIkVh.htm)|Spell Repertoire (Bard)|
+|[ranger-01-w3HysrCgDs5uFXKX.htm](classfeatures/ranger-01-w3HysrCgDs5uFXKX.htm)|Warden Spells|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|
 
 ## Liste des traductions complétés
@@ -34,8 +35,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-05-V4Jt7eDnJBLv5bDj.htm](classfeatures/alchemist-05-V4Jt7eDnJBLv5bDj.htm)|Field Discovery (Mutagenist)|Découverte de domaine de recherche (Mutagèniste)|officielle|
 |[alchemist-07-4ocPy4O0OCLY0XCM.htm](classfeatures/alchemist-07-4ocPy4O0OCLY0XCM.htm)|Alchemical Weapon Expertise|Expertise avec les armes alchimiques|officielle|
 |[alchemist-07-DFQDtT1Van4fFEHi.htm](classfeatures/alchemist-07-DFQDtT1Van4fFEHi.htm)|Perpetual Infusions (Bomber)|Infusions perpétuelles (Artificier)|officielle|
-|[alchemist-07-Dug1oaVYejLmYEFt.htm](classfeatures/alchemist-07-Dug1oaVYejLmYEFt.htm)|Perpetual Infusions (Mutagenist)|Infusions perpétuelles (Mutagèniste)|officielle|
-|[alchemist-07-fzvIe6FwwCuIdnjX.htm](classfeatures/alchemist-07-fzvIe6FwwCuIdnjX.htm)|Perpetual Infusions (Chirurgeon)|Infusions perpétuelles (Chirurgien)|officielle|
+|[alchemist-07-Dug1oaVYejLmYEFt.htm](classfeatures/alchemist-07-Dug1oaVYejLmYEFt.htm)|Perpetual Infusions (Mutagenist)|Infusions perpétuelles (Mutagèniste)|changé|
+|[alchemist-07-fzvIe6FwwCuIdnjX.htm](classfeatures/alchemist-07-fzvIe6FwwCuIdnjX.htm)|Perpetual Infusions (Chirurgeon)|Infusions perpétuelles (Chirurgien)|changé|
 |[alchemist-07-LlZ5R50z9j8jysZL.htm](classfeatures/alchemist-07-LlZ5R50z9j8jysZL.htm)|Perpetual Infusions (Toxicologist)|Infusions perpétuelles (Toxicologiste)|libre|
 |[alchemist-07-V761X63x7CZ7pnUG.htm](classfeatures/alchemist-07-V761X63x7CZ7pnUG.htm)|Iron Will (Alchemist)|Volonté de fer (Alchimiste)|officielle|
 |[alchemist-09-3e1PlMXmlSwKoc6d.htm](classfeatures/alchemist-09-3e1PlMXmlSwKoc6d.htm)|Alchemical Expertise|Expertise alchimique|officielle|
@@ -76,7 +77,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-11-88Q33X2a0iYPkbzd.htm](classfeatures/barbarian-11-88Q33X2a0iYPkbzd.htm)|Mighty Rage|Rage formidable|officielle|
 |[barbarian-13-ejP4jVQkS48uKRFz.htm](classfeatures/barbarian-13-ejP4jVQkS48uKRFz.htm)|Weapon Fury|Fureur armée|officielle|
 |[barbarian-13-TjHt63k8LykkANf2.htm](classfeatures/barbarian-13-TjHt63k8LykkANf2.htm)|Medium Armor Expertise (Barbarian)|Expertise avec les armures intermédiaires (Barbare)|officielle|
-|[barbarian-13-TuL0UfqH14MtqYVh.htm](classfeatures/barbarian-13-TuL0UfqH14MtqYVh.htm)|Greater Juggernaut|Juggernaut supérieur|officielle|
+|[barbarian-13-TuL0UfqH14MtqYVh.htm](classfeatures/barbarian-13-TuL0UfqH14MtqYVh.htm)|Greater Juggernaut|Juggernaut supérieur|changé|
 |[barbarian-15-7JjhxMFo8DMwpGx0.htm](classfeatures/barbarian-15-7JjhxMFo8DMwpGx0.htm)|Greater Weapon Specialization (Barbarian)|Spécialisation martiale supérieure (Barbare)|officielle|
 |[barbarian-15-BZnqKnqKVImjSIFE.htm](classfeatures/barbarian-15-BZnqKnqKVImjSIFE.htm)|Indomitable Will|Volonté indomptable|officielle|
 |[barbarian-17-7MhzrbOyue5GQsck.htm](classfeatures/barbarian-17-7MhzrbOyue5GQsck.htm)|Heightened Senses|Sens aiguisés|officielle|
@@ -139,7 +140,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-11-ffC40m5ebeeXkzhC.htm](classfeatures/cleric-11-ffC40m5ebeeXkzhC.htm)|Lightning Reflexes (Cleric)|Réflexes éclair (Prêtre)|officielle|
 |[cleric-13-0mJTp4LdEHBLInoe.htm](classfeatures/cleric-13-0mJTp4LdEHBLInoe.htm)|Divine Defense|Défense divine|officielle|
 |[cleric-13-tga0Gdns1uA6jirb.htm](classfeatures/cleric-13-tga0Gdns1uA6jirb.htm)|Weapon Specialization (Cleric)|Spécialisation martiale (Prêtre)|officielle|
-|[cleric-19-3uf31A91h3ywmlqm.htm](classfeatures/cleric-19-3uf31A91h3ywmlqm.htm)|Miraculous Spell|Sort miraculeux|officielle|
+|[cleric-19-3uf31A91h3ywmlqm.htm](classfeatures/cleric-19-3uf31A91h3ywmlqm.htm)|Miraculous Spell|Sort miraculeux|changé|
 |[druid-00-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-00-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|officielle|
 |[druid-01-acqqlYmti8D9QJi0.htm](classfeatures/druid-01-acqqlYmti8D9QJi0.htm)|Storm|Tempête|officielle|
 |[druid-01-b8pnRxGuNzG0buuh.htm](classfeatures/druid-01-b8pnRxGuNzG0buuh.htm)|Primal Spellcasting|Incantation primordiale|officielle|
@@ -158,7 +159,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-13-38LFTCPYmVzjOb5t.htm](classfeatures/druid-13-38LFTCPYmVzjOb5t.htm)|Weapon Specialization (Druid)|Spécialisation martiale (Druide)|officielle|
 |[druid-13-6uOx7W6I7u5Jv5Lg.htm](classfeatures/druid-13-6uOx7W6I7u5Jv5Lg.htm)|Medium Armor Expertise (Druid)|Expertise avec les armures intermédiaires (Druide)|officielle|
 |[druid-15-nlOj4yFnTbw7oNDj.htm](classfeatures/druid-15-nlOj4yFnTbw7oNDj.htm)|Master Spellcaster (Druid)|Maître incantateur (Druide)|officielle|
-|[druid-19-nzgb43mQmLgaqDoQ.htm](classfeatures/druid-19-nzgb43mQmLgaqDoQ.htm)|Primal Hierophant|Hiérophante primordial|officielle|
+|[druid-19-nzgb43mQmLgaqDoQ.htm](classfeatures/druid-19-nzgb43mQmLgaqDoQ.htm)|Primal Hierophant|Hiérophante primordial|changé|
 |[druid-19-OdnfSYitJ5FfXGYW.htm](classfeatures/druid-19-OdnfSYitJ5FfXGYW.htm)|Legendary Spellcaster (Druid)|Incantateur légendaire (Druide)|officielle|
 |[fighter-01-hmShTfPOcTaKgbf4.htm](classfeatures/fighter-01-hmShTfPOcTaKgbf4.htm)|Attack of Opportunity|Attaque d’opportunité|officielle|
 |[fighter-01-OPlu94V5ibX5pr9u.htm](classfeatures/fighter-01-OPlu94V5ibX5pr9u.htm)|Shield Block (Fighter)|Blocage au bouclier (Guerrier)|officielle|
@@ -179,7 +180,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[investigator-01-2Fe4YZCvAr9Yf6w7.htm](classfeatures/investigator-01-2Fe4YZCvAr9Yf6w7.htm)|Strategic Strike|Frappe stratégique|libre|
 |[investigator-01-6FasgIXUJ1X8ekRn.htm](classfeatures/investigator-01-6FasgIXUJ1X8ekRn.htm)|On the Case|Sur l'affaire|libre|
 |[investigator-01-g3mNzNphtVxyR9Xr.htm](classfeatures/investigator-01-g3mNzNphtVxyR9Xr.htm)|Empiricism Methodology|Méthodologie : empirisme|changé|
-|[investigator-01-lgo65ldX7WkXC8Ir.htm](classfeatures/investigator-01-lgo65ldX7WkXC8Ir.htm)|Devise a Strategem|Concevoir un stratagème|libre|
+|[investigator-01-lgo65ldX7WkXC8Ir.htm](classfeatures/investigator-01-lgo65ldX7WkXC8Ir.htm)|Devise a Stratagem|Concevoir un stratagème|changé|
 |[investigator-01-ln2Y1a4SxlU9sizX.htm](classfeatures/investigator-01-ln2Y1a4SxlU9sizX.htm)|Alchemical Sciences Methodology|Méthodologie : Sciences alchimiques|libre|
 |[investigator-01-O3IX7rTxXWWvDVM3.htm](classfeatures/investigator-01-O3IX7rTxXWWvDVM3.htm)|Forensic Medicine Methodology|Méthodologie : Médecine forensique|libre|
 |[investigator-01-UIHUNNYZyQ3p4Vmo.htm](classfeatures/investigator-01-UIHUNNYZyQ3p4Vmo.htm)|Interrogation Methodology|Méthodologie : Interrogatoire|libre|
@@ -260,7 +261,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ranger-07-PnGcwyEiYdaCp8B9.htm](classfeatures/ranger-07-PnGcwyEiYdaCp8B9.htm)|Weapon Specialization (Ranger)|Spécialisation martiale (Rôdeur)|officielle|
 |[ranger-07-Y7aYlSls1RWOre1c.htm](classfeatures/ranger-07-Y7aYlSls1RWOre1c.htm)|Vigilant Senses (Ranger)|Sens alertes (Rôdeur)|officielle|
 |[ranger-09-5likl5SAxQPrQ3KF.htm](classfeatures/ranger-09-5likl5SAxQPrQ3KF.htm)|Ranger Expertise|Expertise du rôdeur|officielle|
-|[ranger-09-j2R64kwUgEJ1TudD.htm](classfeatures/ranger-09-j2R64kwUgEJ1TudD.htm)|Nature's Edge|Avantage naturel|officielle|
+|[ranger-09-j2R64kwUgEJ1TudD.htm](classfeatures/ranger-09-j2R64kwUgEJ1TudD.htm)|Nature's Edge|Avantage naturel|changé|
 |[ranger-11-18eLwCcdjwikfGsx.htm](classfeatures/ranger-11-18eLwCcdjwikfGsx.htm)|Juggernaut (Ranger)|Juggernaut (Rôdeur)|officielle|
 |[ranger-11-cyGbjGdWLZOp4lCp.htm](classfeatures/ranger-11-cyGbjGdWLZOp4lCp.htm)|Medium Armor Expertise (Ranger)|Expertise avec les armures intermédiaires (Rôdeur)|officielle|
 |[ranger-11-RlwE99yKnhq8FUuy.htm](classfeatures/ranger-11-RlwE99yKnhq8FUuy.htm)|Wild Stride|Déplacement facilité en milieu naturel|officielle|
@@ -404,4 +405,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wizard-15-9chVicXrB0pvpUjH.htm](classfeatures/wizard-15-9chVicXrB0pvpUjH.htm)|Master Spellcaster (Wizard)|Maître incantateur (Magicien)|officielle|
 |[wizard-17-4WUJl1RQMpKBFaz0.htm](classfeatures/wizard-17-4WUJl1RQMpKBFaz0.htm)|Resolve (Wizard)|Résolution (Magicien)|officielle|
 |[wizard-19-ilIZDX2q7X87GraR.htm](classfeatures/wizard-19-ilIZDX2q7X87GraR.htm)|Legendary Spellcaster (Wizard)|Incantateur légendaire (Magicien)|officielle|
-|[wizard-19-ZjwJHmjPrSs6VDez.htm](classfeatures/wizard-19-ZjwJHmjPrSs6VDez.htm)|Archwizard's Spellcraft|Art magique de l'archimage|officielle|
+|[wizard-19-ZjwJHmjPrSs6VDez.htm](classfeatures/wizard-19-ZjwJHmjPrSs6VDez.htm)|Archwizard's Spellcraft|Art magique de l'archimage|changé|

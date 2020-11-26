@@ -14,7 +14,7 @@
         {
             "id": "Attack of Opportunity",
             "name": "Attack of Opportunity (Attaque d'opportunité)",
-            "description": "<p><strong>Déclencheur</strong> Une créature qui se trouve à portée du monstre utilise une action de manipulation ou de déplacement, fait une attaque à distance, ou quitte une case lors d’une action de déplacement qu’elle entreprend.</p>\n<p><strong>Effet</strong> Le monstre porte une frappe contre la créature déclencheur. Si l’attaque se solde par un coup critique et que le déclencheur était une action de manipulation, vous interrompez cette action. Cette Frappe n’est pas comptabilisée dans le malus d’attaques multiples du monstre et son malus d’attaques multiples ne s’applique pas à cette Frappe.</p>"
+            "description": "<p><strong>Déclencheur</strong> Une créature qui se trouve à portée du monstre utilise une action de manipulation ou de déplacement, fait une attaque à distance ou quitte une case lors d’une action de déplacement qu’elle entreprend.</p>\n<p><strong>Effet</strong> Le monstre porte une frappe contre la créature déclencheur. Si l’attaque se solde par un coup critique et que le déclencheur était une action de manipulation, vous interrompez cette action. Cette Frappe n’est pas comptabilisée dans le malus d’attaques multiples du monstre et son malus d’attaques multiples ne s’applique pas à cette Frappe.</p>"
         },
         {
             "id": "Constant Spells",

@@ -1,12 +1,12 @@
 # État de la traduction (actions)
 
- * **changé**: 129
- * **aucune**: 10
- * **libre**: 1
+ * **changé**: 128
+ * **aucune**: 11
+ * **libre**: 2
  * **officielle**: 8
 
 
-Dernière mise à jour: 2020-11-16 19:02 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-26 18:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -22,6 +22,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[orjJjLdm4XNAcFi8.htm](actions/orjJjLdm4XNAcFi8.htm)|Mark for Death|
 |[rSpCV0leurp2Bg2d.htm](actions/rSpCV0leurp2Bg2d.htm)|Instinctive Obfuscation|
 |[TMBXArwICQRJdwT6.htm](actions/TMBXArwICQRJdwT6.htm)|Fey's Fortune|
+|[VOEWhPQfN3lvHivK.htm](actions/VOEWhPQfN3lvHivK.htm)|Foresight|
 |[xTK2zsWFyxSJvYbX.htm](actions/xTK2zsWFyxSJvYbX.htm)|Pursue a Lead|
 
 ## Liste des traductions complétés
@@ -97,7 +98,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[JuqmIAnkL9hVGai8.htm](actions/JuqmIAnkL9hVGai8.htm)|Hustle|S'empresser|officielle|
 |[JUvAvruz7yRQXfz2.htm](actions/JUvAvruz7yRQXfz2.htm)|Long Jump|Sauter en longueur|changé|
 |[JYi4MnsdFu618hPm.htm](actions/JYi4MnsdFu618hPm.htm)|Hunt Prey|Chasser une proie|changé|
-|[K878asDgf1EF0B9S.htm](actions/K878asDgf1EF0B9S.htm)|Confident Finisher|Coup final assuré|changé|
+|[K878asDgf1EF0B9S.htm](actions/K878asDgf1EF0B9S.htm)|Confident Finisher|Coup final assuré|libre|
 |[KjoCEEmPGTeFE4hh.htm](actions/KjoCEEmPGTeFE4hh.htm)|Treat Poison|Soigner un empoisonnement|changé|
 |[kMcV8e5EZUxa6evt.htm](actions/kMcV8e5EZUxa6evt.htm)|Squeeze|Se faufiler|changé|
 |[KUfLlXDWTcAWhl8l.htm](actions/KUfLlXDWTcAWhl8l.htm)|Recall Knowledge (Society)|Se souvenir (Société)|changé|
@@ -105,7 +106,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[KygTSeDvsFoSO6HW.htm](actions/KygTSeDvsFoSO6HW.htm)|Recall Knowledge (Arcana)|Se souvenir (Arcanes)|changé|
 |[lvqPQDdWT2DDO0k2.htm](actions/lvqPQDdWT2DDO0k2.htm)|Invest an Item|Investir un objet|changé|
 |[LZgjpWd0pL3vK9Q1.htm](actions/LZgjpWd0pL3vK9Q1.htm)|Recall Knowledge (Religion)|Se souvenir (Religion)|changé|
-|[m0f2B7G9eaaTmhFL.htm](actions/m0f2B7G9eaaTmhFL.htm)|Devise a Strategem|Concevoir un stratagème|changé|
+|[m0f2B7G9eaaTmhFL.htm](actions/m0f2B7G9eaaTmhFL.htm)|Devise a Stratagem|Concevoir un stratagème|changé|
 |[M76ycLAqHoAgbcej.htm](actions/M76ycLAqHoAgbcej.htm)|Balance|Garder l'équilibre|changé|
 |[M8RCbthRhB4bxO9t.htm](actions/M8RCbthRhB4bxO9t.htm)|Iron Command|Ordre de fer|changé|
 |[MHLuKy4nQO2Z4Am1.htm](actions/MHLuKy4nQO2Z4Am1.htm)|Administer First Aid|Prodiguer les premiers soins|changé|

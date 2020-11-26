@@ -177,8 +177,8 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La vie en plein air et votre cuir épais vous permettent de mieux vous prémunir des dégâts. Quand vous êtes enragé, vous gagnez une résistance égale à 3 + votre modificateur de Constitution face au type de dégâts lié à votre instinct.&nbsp;</span></p>"
         },
         {
-            "id": "Devise a Strategem",
-            "name": "Devise a Strategem (Concevoir un stratagème)",
+            "id": "Devise a Stratagem",
+            "name": "Devise a Stratagem (Concevoir un stratagème)",
             "description": "<p>Vous pouvez simuler un combat dans votre esprit et utiliser votre cerveau plutôt que vos muscles pour porter une attaque.</p>\n<p>Vous obtenez l'action @Compendium[pf2e.actionspf2e.m0f2B7G9eaaTmhFL]{Concevoir un stratagème}</p>"
         },
         {
