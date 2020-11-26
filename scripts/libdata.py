@@ -90,7 +90,7 @@ def getValue(obj, path, exitOnError = True, defaultValue = None):
       return defaultValue
     if len(element) > 1:
       print("List has more than 1 element for '%s'! %s" % (element, path))
-      exit(1)
+      return element[len(element)-1]
     return element[0]
   elif element.isdigit():
     return "%02d" % int(element)
