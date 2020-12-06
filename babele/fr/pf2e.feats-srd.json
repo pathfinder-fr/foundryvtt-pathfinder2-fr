@@ -47,11 +47,6 @@
             "description": "<p><strong>Prérequis</strong> Férocité orque</p>\n<hr>\n<p>Pour peu que vous ayez eu un peu le temps de respirer après un combat au cours duquel vous avez frôlé la mort, vous pouvez ranimer votre férocité pour résister à de nouveaux coups de grâce. Vous pouvez utiliser votre Férocité orque une fois par heure plutôt qu’une fois par jour.</p>"
         },
         {
-            "id": "Awesome Blow",
-            "name": "Coup fabuleux",
-            "description": "<p><strong>Prérequis</strong> Repousser</p>\n<hr>\n<p>Vos attaques sont si puissantes qu’elles peuvent écraser vos adversaires. Quand vous utilisez Repousser, vous pouvez faire un test d’Athlétisme contre le DD de Vigueur de votre cible.</p>\n<p><strong>Succès critique</strong> DD de Vigueur de votre cible. Succès critique. La cible subit l’effet d’un succès critique avec Pousser, puis l’effet critique d’un succès critique avec un Croc-en-jambe</p>\n<p><strong>Succès.</strong> La cible subit l’effet d’un succès avec Pousser, puis l’effet critique d’un succès avec un Croc-en-jambe.</p>\n<p><strong>Échec.</strong> Vous appliquez les effets normaux de Repousser.</p>"
-        },
-        {
             "id": "Legendary Shot",
             "name": "Tir légendaire",
             "description": "<p><strong>Prérequis</strong> légendaire en Perception, maître chasseur, Tir de loin</p>\n<hr>\n<p>Vous vous focalisez sur votre proie, en analysant les angles de tir, la résistance de l’air et toutes les variables susceptibles d’affecter votre attaque à distance. Si vous êtes un maître dans le maniement de votre arme à distance, quand vous attaquez votre proie, vous ignorez le malus de distance si celle‑ci est inférieure ou égale à cinq fois le facteur de portée de votre armée.</p>"
@@ -1455,6 +1450,11 @@
             "id": "Unconventional Expertise",
             "name": "Expertise non conventionnelle",
             "description": "<p><strong>Prérequis</strong> Armement non conventionnel, qualifié avec une arme choisie avec le don Armement non conventionnel</p>\n<hr>\n<p>Vous savez mieux manier votre arme non conventionnelle. À chaque fois que vous gagnez une capacité de classe qui vous confère une maîtrise experte ou supérieure avec certaines armes, vous gagnez également cette maîtrise avec l’arme que vous avez choisie avec le don Armement non conventionnel.</p>"
+        },
+        {
+            "id": "Awesome Blow",
+            "name": "Coup fabuleux",
+            "description": "<p><strong>Prérequis</strong> Repousser</p>\n<hr>\n<p>Vos attaques sont si puissantes qu’elles peuvent écraser vos adversaires. Quand vous utilisez Repousser, vous pouvez faire un test d’Athlétisme contre le DD de Vigueur de votre cible.</p>\n<p><strong>Succès critique</strong> DD de Vigueur de votre cible. Succès critique. La cible subit l’effet d’un succès critique avec Pousser, puis l’effet critique d’un succès critique avec un Croc-en-jambe</p>\n<p><strong>Succès.</strong> La cible subit l’effet d’un succès avec Pousser, puis l’effet critique d’un succès avec un Croc-en-jambe.</p>\n<p><strong>Échec.</strong> Vous appliquez les effets normaux de Repousser.</p>"
         },
         {
             "id": "Inventive Offensive",
