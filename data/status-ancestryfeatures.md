@@ -1,18 +1,18 @@
 # État de la traduction (ancestryfeatures)
 
- * **changé**: 87
+ * **libre**: 9
+ * **changé**: 86
  * **officielle**: 2
- * **libre**: 8
 
 
-Dernière mise à jour: 2020-11-26 18:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-12-07 19:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[feat-00-qJD3PJdoSXFrZEwr.htm](ancestryfeatures/feat-00-qJD3PJdoSXFrZEwr.htm)|Sharp Beak|Bec aiguisé|changé|
+|[feat-00-qJD3PJdoSXFrZEwr.htm](ancestryfeatures/feat-00-qJD3PJdoSXFrZEwr.htm)|Sharp Beak|Bec aiguisé|libre|
 |[feat-00-y1EmCv2cEb5hXBwx.htm](ancestryfeatures/feat-00-y1EmCv2cEb5hXBwx.htm)|Keen Eyes|Yeux perçants|changé|
 |[feat-01-0vaeOoECfVD5EGbq.htm](ancestryfeatures/feat-01-0vaeOoECfVD5EGbq.htm)|Warrenbred Hobgoblin|Hobgobelin Terrierné|changé|
 |[feat-01-1dYDucCIaZpCJqBc.htm](ancestryfeatures/feat-01-1dYDucCIaZpCJqBc.htm)|Arctic Elf|Elfe arctique|officielle|

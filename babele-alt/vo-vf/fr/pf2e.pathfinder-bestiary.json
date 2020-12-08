@@ -359,7 +359,7 @@
         {
             "id": "Adult White Dragon",
             "name": "Adult White Dragon (Dragon blanc adulte)",
-            "description": "Le plus féroce et le moins intelligent des dragons chromatiques, le dragon blanc est un prédateur brutal dont la principale motivation est l’instinct de survie. Presque toutes les autres\nespèces de dragons méprisent les dragons blancs et les considèrent comme désespérément\nimpulsifs et sans intérêt ; ça ne les rend cependant pas moins dangereux, bien au contraire. Il\nest presque impossible de négocier avec des dragons blancs, non pas qu’ils n’en aient pas les\ncapacités mais tout simplement parce que cela ne les intéresse pas. Ils sont aussi difficiles à\namadouer que prompts à la colère et presque tout les enrage. Quand un dragon blanc s’exprime, il déverse un torrent de menaces, de plaisanteries insensées et de propos incohérents\njuste avant d’attaquer ; et quand se produit cette attaque, elle est sanglante et impitoyable. \nFort heureusement, ces créatures préfèrent les lieux isolés et très froids éloignés de toute\ncommunauté. Vivants sur les sommets glacials des montagnes ou dans des cavernes de\nglace sous des toundras austères, ils considèrent les terres qui les entourent comme leur\ndomaine réservé et leur territoire de chasse. Ils s’envolent pour se nourrir ou terroriser les\nautres créatures, surtout celles qui osent s’approcher de leur domaine, puis rapportent des\ntrésors dans leur tanière pour les exposer dans des niches. Ils collectionnent toutes sortes\nd’objets de valeur avec une légère préférence pour les objets très utiles, comme les outils, les\nmarchandises et la bonne nourriture, par rapport aux pièces et aux bijoux. Leur pouvoir de\nfaçonner la glace permet aux dragons blancs de transformer leur tanière à leur convenance\net ils se montrent généralement très fiers de leurs aménagements réalisés au fil des années."
+            "description": "Le plus féroce et le moins intelligent des dragons chromatiques, le dragon blanc est un prédateur brutal dont la principale motivation est l’instinct de survie. Presque toutes les autres espèces de dragons méprisent les dragons blancs et les considèrent comme désespérément impulsifs et sans intérêt ; ça ne les rend cependant pas moins dangereux, bien au contraire. Il est presque impossible de négocier avec des dragons blancs, non pas qu’ils n’en aient pas les capacités mais tout simplement parce que cela ne les intéresse pas. Ils sont aussi difficiles à amadouer que prompts à la colère et presque tout les enrage. Quand un dragon blanc s’exprime, il déverse un torrent de menaces, de plaisanteries insensées et de propos incohérents juste avant d’attaquer ; et quand se produit cette attaque, elle est sanglante et impitoyable. Fort heureusement, ces créatures préfèrent les lieux isolés et très froids éloignés de toute communauté. Vivants sur les sommets glacials des montagnes ou dans des cavernes de glace sous des toundras austères, ils considèrent les terres qui les entourent comme leur domaine réservé et leur territoire de chasse. Ils s’envolent pour se nourrir ou terroriser les autres créatures, surtout celles qui osent s’approcher de leur domaine, puis rapportent des trésors dans leur tanière pour les exposer dans des niches. Ils collectionnent toutes sortes d’objets de valeur avec une légère préférence pour les objets très utiles, comme les outils, les marchandises et la bonne nourriture, par rapport aux pièces et aux bijoux. Leur pouvoir de façonner la glace permet aux dragons blancs de transformer leur tanière à leur convenance et ils se montrent généralement très fiers de leurs aménagements réalisés au fil des années.<br><br>"
         },
         {
             "id": "Barghest",
@@ -543,7 +543,7 @@
         },
         {
             "id": "Animated Armor",
-            "name": "Animated Armor (Armure animé)",
+            "name": "Animated Armor (Armure animée)",
             "description": "Les armures animées servent aussi bien de gardiens que de partenaires d’entraînement dans des académies de combat haut de gamme qui peuvent se permettre ce genre d’extravagance On les trouve le plus souvent dans des laboratoires de magiciens ou dans d’anciens donjons.<br><br>"
         },
         {
@@ -1203,7 +1203,7 @@
         },
         {
             "id": "Young Brass Dragon",
-            "name": "Young Brass Dragon (Jeunde dragon d'airain)",
+            "name": "Young Brass Dragon (Jeune dragon d'airain)",
             "description": "Les dragons d’airain sont des farceurs particulièrement fantaisistes qui aiment l’humour et le jeu. Ils apprécient notamment les conversations avec les humains et les autres humanoïdes civilisés, se délectant des coutumes naïves de ces petites races sans se montrer pour autant hautains ou méprisants. Bien qu’ils puissent paraître simplement curieux, les dragons d’airain engagent ce genre de conversations dans le but de se tenir au courant de la politique régionale afin qu’ils puissent anticiper les futurs conflits. Parallèlement, ils créent de vastes réseaux d’informations qui commencent avec leurs propres alliés avant de s’étendre à tous les niveaux de la société humanoïde, des réseaux qu’utilisent les dragons pour aider discrètement les communautés proches de leur tanière. Contrairement aux complots et manipulations des dragons bleus, les dragons d’airain se servent de leurs réseaux d’informateurs pour faire régner la justice et l’égalité.<br><br> Insouciants, ils apprécient l’indépendance et pensent que toute créature mérite de vivre en paix tant qu’elle ne nuit pas aux autres. Ce sont des créatures émotives à la capacité d’attention réduite et parfois elles sont victimes de dépression au crépuscule de leur vie. Pour combattre ce mal être, les dragons d’airain s’entourent d’animaux familiers et de plantes dont ils peuvent s’occuper.<br><br> Bien que leur curiosité concernant les affaires des mortels puisse paraître puérile, leurs prouesses en combat ne prêtent pas à rire. Un dragon d’airain dont le territoire ou les alliés sont menacés est un adversaire terrifiant, prompt à oublier son aspect innocent pour libérer toute sa fureur contre les malfaisants.<br><br> La plupart des dragons d’airain vivent dans des climats désertiques et bien qu’ils s’assurent que leur tanière soit cachée, ils l’établissent souvent près des communautés humanoïdes.<br><br>"
         },
         {
@@ -1663,7 +1663,7 @@
         },
         {
             "id": "Orc Warchief",
-            "name": "Orc Warchief (Ched de guerre orc)",
+            "name": "Orc Warchief (Chef de guerre orc)",
             "description": "Quand les orcs effectuent des raids, le plus fort d’entre eux est choisi comme chef et il est soutenu par ses frères, ses sœurs et les autres membres de sa famille.<br><br>"
         },
         {

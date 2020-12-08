@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **aucune**: 4
+ * **aucune**: 3
  * **officielle**: 226
- * **libre**: 126
+ * **libre**: 127
  * **changé**: 32
 
 
-Dernière mise à jour: 2020-11-26 18:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-12-07 19:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -15,7 +15,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[alchemical-01-1eWDNcWSlNoU0L67.htm](classfeatures/alchemical-01-1eWDNcWSlNoU0L67.htm)|Formula Book (Alchemist)|
 |[bard-01-6FsusoMYxxjyIkVh.htm](classfeatures/bard-01-6FsusoMYxxjyIkVh.htm)|Spell Repertoire (Bard)|
-|[ranger-01-w3HysrCgDs5uFXKX.htm](classfeatures/ranger-01-w3HysrCgDs5uFXKX.htm)|Warden Spells|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|
 
 ## Liste des traductions complétés
@@ -254,6 +253,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ranger-01-6v4Rj7wWfOH1882r.htm](classfeatures/ranger-01-6v4Rj7wWfOH1882r.htm)|Hunter's Edge: Flurry|spécialité du chasseur : Déluge|officielle|
 |[ranger-01-NBHyoTrI8q62uDsU.htm](classfeatures/ranger-01-NBHyoTrI8q62uDsU.htm)|Hunter's Edge: Outwit|Spécialité du chasseur : Ruse|officielle|
 |[ranger-01-u6cBjqz2fiRBadBt.htm](classfeatures/ranger-01-u6cBjqz2fiRBadBt.htm)|Hunter's Edge: Precision|Spécialité du chasseur : Précision|officielle|
+|[ranger-01-w3HysrCgDs5uFXKX.htm](classfeatures/ranger-01-w3HysrCgDs5uFXKX.htm)|Warden Spells|Sorts de gardien|libre|
 |[ranger-03-hUl69qjTUBe0uGMA.htm](classfeatures/ranger-03-hUl69qjTUBe0uGMA.htm)|Iron Will (Ranger)|Volonté de fer (Rôdeur)|officielle|
 |[ranger-05-PeZi7E9lI4vz8EGY.htm](classfeatures/ranger-05-PeZi7E9lI4vz8EGY.htm)|Trackless Step|Absence de traces|officielle|
 |[ranger-05-QhoW8ivPvYmWzyEZ.htm](classfeatures/ranger-05-QhoW8ivPvYmWzyEZ.htm)|Ranger Weapon Expertise|Expertise avec les armes du rôdeur|officielle|

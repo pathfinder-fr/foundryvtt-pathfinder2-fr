@@ -14,7 +14,7 @@
         {
             "id": "Doomed",
             "name": "Doomed (Condamné)",
-            "description": "<p>Votre âme se trouve sous le joug d’une puissante force qui vous pousse toujours plus près de la mort. L’état condamné est toujours accompagné d’une intensité. L’intensité maximale de l’état @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} à partir de laquelle vous mourez est diminuée de l’intensité de votre état condamné. Si votre intensité maximale d'état&nbsp;@Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} est réduite à 0, vous mourez instantanément. Si vous mourez, vous perdez l’état condamné. Votre intensité d’état condamné est diminuée de 1 à chaque fois que vous vous reposez pendant une nuit complète.</span></p>"
+            "description": "<p>Votre âme se trouve sous le joug d’une puissante force qui vous pousse toujours plus près de la mort. L’état condamné est toujours accompagné d’une intensité. L’intensité maximale de l’état <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"yZRUzMqrMmfLu0V1\">Mourant</a> à partir de laquelle vous mourez est diminuée de l’intensité de votre état condamné. Si votre intensité maximale d'état Mourant est réduite à 0, vous mourez instantanément. Si vous mourez, vous perdez l’état condamné.</p>\n<p>Votre intensité d’état condamné est diminuée de 1 à chaque fois que vous vous reposez pendant une nuit complète.</p>"
         },
         {
             "id": "Petrified",
@@ -44,7 +44,7 @@
         {
             "id": "Deafened",
             "name": "Deafened (Sourd)",
-            "description": "<p>Vous ne pouvez pas entendre. Vous échouez automatiquement à tous les tests de Perception qui reposent sur votre audition. Vous subissez un malus de statut de −2 à vos tests de Perception destinés à déterminer l’initiative et aux tests en rapport avec le son et d’autres sens. Si vous accomplissez une action qui a le trait audible, vous devez réussir un test nu <strong>DD 5</strong> ou perdre l’action. Vous faites ce test après avoir dépensé l’action mais avant d’appliquer ses effets. Vous êtes immunisé contre les effets audibles.</p>"
+            "description": "<p>Vous ne pouvez pas entendre. Vous échouez automatiquement à tous les tests de Perception qui reposent sur votre audition. Vous subissez un malus de statut de −2 à vos tests de Perception destinés à déterminer l’initiative et aux tests en rapport avec le son et d’autres sens. Si vous accomplissez une action qui a le trait audible, vous devez réussir un test nu DD 5 ou perdre l’action. Vous faites ce test après avoir dépensé l’action mais avant d’appliquer ses effets. Vous êtes immunisé contre les effets audibles.</p>"
         },
         {
             "id": "Slowed",
@@ -59,7 +59,7 @@
         {
             "id": "Encumbered",
             "name": "Encumbered (Surchargé)",
-            "description": "<p>Vous transportez plus de poids que vous ne pouvez en gérer. Tant que vous êtes surchargé, vous êtes @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{maladroit} 1 et vous subissez un malus de 3 m à toutes vos Vitesses. Comme pour l’ensemble des malus infligés à votre Vitesse, cette dernière ne peut être réduite à moins de 1,5 m</span></p>"
+            "description": "<p>Vous transportez plus de poids que vous ne pouvez en gérer. Tant que vous êtes surchargé, vous êtes <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"i3OJZU2nk64Df3xm\">maladroit</a> 1 et vous subissez un malus de 3 m à toutes vos Vitesses. Comme pour l’ensemble des malus infligés à votre Vitesse, cette dernière ne peut être réduite à moins de 1,5 m.</p>"
         },
         {
             "id": "Quickened",
@@ -74,7 +74,7 @@
         {
             "id": "Broken",
             "name": "Broken (Brisé)",
-            "description": "<p>Brisé est un état affectant les objets. Un objet est brisé quand des dégâts ont réduit ses points de vie au niveau de son Seuil de rupture ou moins. On ne peut plus utiliser normalement un objet brisé, pas plus qu’il n’accorde de bonus, à l’exception d’une armure. Une armure brisée accorde toujours son bonus d’objet à la CA, mais inflige en même temps un malus de statut à la CA en fonction de sa catégorie : −1 pour une armure légère brisée, −2 pour une armure intermédiaire brisée ou −3 pour une armure lourde brisée.<br /><br /> Un objet brisé continue d’imposer les malus et les limitations normalement encourus lorsqu’on le transporte, le tient ou le porte. Par exemple, une armure brisée imposera toujours son bonus de Dextérité maximal, son malus aux tests, etc.<br /><br />Si un effet fait se briser un objet automatiquement et que celui-ci a plus de points de vie que son Seuil de rupture, cet effet réduit également les points de vie actuels de l’objet à son Seuil de rupture.</p>"
+            "description": "<p>Brisé est un état affectant les objets. Un objet est brisé quand des dégâts ont réduit ses points de vie au niveau de son Seuil de rupture ou moins. On ne peut plus utiliser normalement un objet brisé, pas plus qu’il n’accorde de bonus, à l’exception d’une armure. Une armure brisée accorde toujours son bonus d’objet à la CA, mais inflige en même temps un malus de statut à la CA en fonction de sa catégorie : −1 pour une armure légère brisée, −2 pour une armure intermédiaire brisée ou −3 pour une armure lourde brisée.<br /><br /> Un objet brisé continue d’imposer les malus et les limitations normalement encourus lorsqu’on le transporte, le tient ou le porte. Par exemple, une armure brisée imposera toujours son bonus de Dextérité maximal, son malus aux tests, etc.</p>\n<p>Si un effet fait se briser un objet automatiquement et que celui-ci a plus de points de vie que son Seuil de rupture, cet effet réduit également les points de vie actuels de l’objet à son Seuil de rupture.</p>"
         },
         {
             "id": "Prone",
@@ -94,7 +94,7 @@
         {
             "id": "Controlled",
             "name": "Controlled (Contrôlé)",
-            "description": "<p>Quelqu’un prend des décisions à votre place, en exerçant généralement un contrôle sur vous par le biais d’une injonction ou d’une domination magique. La créature qui vous contrôle décide de vos actions et peut vous faire utiliser n’importe quelle action, y compris des attaques, des réactions et même l’action @Compendium[pf2e.actionspf2e.A72nHGUtNXgY5Ey9]{Retarder}. En outre, cette créature n’a généralement pas besoin de dépenser elle-même d’action pour vous contrôler.</p>"
+            "description": "<p>Quelqu’un prend des décisions à votre place, en exerçant généralement un contrôle sur vous par le biais d’une injonction ou d’une domination magique. La créature qui vous contrôle décide de vos actions et peut vous faire utiliser n’importe quelle action, y compris des attaques, des réactions et même l’action <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"A72nHGUtNXgY5Ey9\">Retarder</a>. En outre, cette créature n’a généralement pas besoin de dépenser elle-même d’action pour vous contrôler.</p>"
         },
         {
             "id": "Hostile",
@@ -109,7 +109,7 @@
         {
             "id": "Unnoticed",
             "name": "Unnoticed (Inaperçu)",
-            "description": "<p>Si vous êtes inaperçu aux yeux d’une créature, elle n’a aucune conscience de votre présence. Quand vous êtes inaperçu par une créature, vous êtes également @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{non détecté} par elle. Cet état intervient dans le cadre de pouvoirs qui peuvent seulement être utilisés contre des cibles qui n’ont aucune conscience de votre présence.</p>"
+            "description": "<p>Si vous êtes inaperçu aux yeux d’une créature, elle n’a aucune conscience de votre présence. Quand vous êtes inaperçu par une créature, vous êtes également <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"VRSef5y1LmL2Hkjf\">Non détecté</a> par elle. Cet état intervient dans le cadre de pouvoirs qui peuvent seulement être utilisés contre des cibles qui n’ont aucune conscience de votre présence.</p>"
         },
         {
             "id": "Stunned",
@@ -149,7 +149,7 @@
         {
             "id": "Paralyzed",
             "name": "Paralyzed (Paralysé)",
-            "description": "<p>Votre corps est figé sur place. Vous êtes @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{pris au dépourvu} et ne pouvez pas agir, sauf pour  @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Vous souvenir} de quelque chose et entreprendre des actions qui font seulement appel à votre esprit (ces actions sont déterminées par le MJ). Vos sens fonctionnent toujours, mais votre perception est limitée aux zones que vous pouvez percevoir sans bouger votre corps, vous n’êtes donc pas capable de @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher}.</span></p>"
+            "description": "<p>Votre corps est figé sur place. Vous êtes <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"AJh5ex99aV6VTggg\">pris au dépourvu</a> et ne pouvez pas agir, sauf pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"1OagaWtBpVXExToo\">Vous souvenir</a> de quelque chose et entreprendre des actions qui font seulement appel à votre esprit (ces actions sont déterminées par le MJ). Vos sens fonctionnent toujours, mais votre perception est limitée aux zones que vous pouvez percevoir sans bouger votre corps, vous n’êtes donc pas capable de <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"BlAOM2X92SI6HMtJ\">Chercher</a>.</span></p>"
         },
         {
             "id": "Flat-Footed",
@@ -169,7 +169,7 @@
         {
             "id": "Observed",
             "name": "Observed (Observé)",
-            "description": "<p>Tout ce qui est dans votre ligne de mire est observé par vos soins. Si une créature prend des mesures pour éviter la détection, comme utiliser sa Discrétion pour Se cacher, elle peut devenir @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée} ou @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} à la place d'observée. Si vous disposez d'un autre sens précis au lieu de ou en plus de la vue, vous pourriez être capable d'observer une créature ou un objet en utilisant ce sens à la place. Vous pouvez observer une créature seulement avec un sens précis. Lorsque vous (@Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{cherchez} une créature en utilisant seulement des sens imprécis, elle reste caché plutôt qu'observée.</p>"
+            "description": "<p>Tout ce qui est dans votre ligne de mire est observé par vos soins. Si une créature prend des mesures pour éviter la détection, comme utiliser sa Discrétion pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"XMcnh4cSI32tljXa\">Se cacher</a>, elle peut devenir <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"iU0fEDdBp3rXpTMC\">Cachée</a> ou <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"VRSef5y1LmL2Hkjf\">Non détectée</a> à la place d'observée. Si vous disposez d'un autre sens précis au lieu de ou en plus de la vue, vous pourriez être capable d'observer une créature ou un objet en utilisant ce sens à la place. Vous pouvez observer une créature seulement avec un sens précis. Lorsque vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"BlAOM2X92SI6HMtJ\">cherchez</a> une créature en utilisant seulement des sens imprécis, elle reste cachée plutôt qu'observée.</p>"
         },
         {
             "id": "Sickened",
@@ -184,7 +184,7 @@
         {
             "id": "Drained",
             "name": "Drained (Drainé)",
-            "description": "<p>Vous vous affaiblissez quand une créature réussit à drainer votre sang ou votre force vitale. L’état drainé est toujours accompagné d’une intensité. Vous subissez un malus de statut égal à l’intensité de votre état drainé et qui s’applique à vos tests basés sur la Constitution, comme les jets de Vigueur. Vous perdez également une quantité de points de vie égale à votre niveau (avec un minimum de 1) multiplié par l’intensité de votre état drainé, et votre maximum de points de vie est réduit de ce montant. Par exemple, si vous subissez un effet qui vous inflige drainé 3 et que vous êtes un personnage de niveau 3, vous perdez 9 points de vie et réduisez votre maximum de points de vie de 9. Perdre de ces points de vie n’est pas considéré comme subir des dégâts. À chaque fois que vous vous reposez une nuit complète, l’intensité de votre état drainé décroît de 1. Votre maximum de points de vie remonte alors, mais vous ne regagnez pas immédiatement les points de vie que vous avez perdus.</p>"
+            "description": "<p>Vous vous affaiblissez quand une créature réussit à drainer votre sang ou votre force vitale. L’état drainé est toujours accompagné d’une intensité. Vous subissez un malus de statut égal à l’intensité de votre état drainé et qui s’applique à vos tests basés sur la Constitution, comme les jets de Vigueur. Vous perdez également une quantité de points de vie égale à votre niveau (avec un minimum de 1) multiplié par l’intensité de votre état drainé et votre maximum de points de vie est réduit de ce montant. Par exemple, si vous subissez un effet qui vous inflige drainé 3 et que vous êtes un personnage de niveau 3, vous perdez 9 points de vie et réduisez votre maximum de points de vie de 9. Perdre ces points de vie n’est pas considéré comme subir des dégâts.</p>\n<p>À chaque fois que vous vous reposez une nuit complète, l’intensité de votre état drainé décroît de 1. Votre maximum de points de vie remonte alors, mais vous ne regagnez pas immédiatement les points de vie que vous avez perdus.</p>"
         },
         {
             "id": "Unconscious",
@@ -204,7 +204,7 @@
         {
             "id": "Fascinated",
             "name": "Fascinated (Fasciné)",
-            "description": "<p>Votre attention est irrésistiblement attirée par quelque chose et vous ne faites plus attention à ce qui se déroule autour de vous. Vous subissez un malus de statut de −2 à vos tests de Perception et de compétences et vous ne pouvez pas entreprendre d’actions dotées du trait concentration, sauf si ces actions ou leurs conséquences sont liées à l’objet de votre fascination (avec l’accord du MJ). Par exemple, vous pourrez probablement @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} et @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Vous souvenir} de quelque chose par rapport au sujet de votre fascination, mais vous ne pourrez normalement pas lancer de sort ciblant une autre créature. Cet état prend fin si une créature entreprend une action hostile contre vous ou n’importe lequel de vos alliés.</span></p>"
+            "description": "<p>Votre attention est irrésistiblement attirée par quelque chose et vous ne faites plus attention à ce qui se déroule autour de vous. Vous subissez un malus de statut de −2 à vos tests de Perception et de compétences et vous ne pouvez pas entreprendre d’actions dotées du trait concentration, sauf si ces actions ou leurs conséquences sont liées à l’objet de votre fascination (avec l’accord du MJ). Par exemple, vous pourrez probablement <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"BlAOM2X92SI6HMtJ\">Chercher</a> et <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"1OagaWtBpVXExToo\">Vous souvenir</a> de quelque chose par rapport au sujet de votre fascination, mais vous ne pourrez normalement pas lancer de sort ciblant une autre créature. Cet état prend fin si une créature entreprend une action hostile contre vous ou n’importe lequel de vos alliés.</span></p>"
         },
         {
             "id": "Confused",

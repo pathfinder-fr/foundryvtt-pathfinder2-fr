@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **officielle**: 251
- * **changé**: 307
+ * **officielle**: 253
+ * **changé**: 305
  * **aucune**: 288
  * **libre**: 9
 
 
-Dernière mise à jour: 2020-11-26 18:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-12-07 19:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -340,7 +340,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-04-2BV2yYPfVJ5zirZt.htm](spells/abj-04-2BV2yYPfVJ5zirZt.htm)|Stoneskin|Peau de pierre|officielle|
 |[abj-04-2jB9eyX7YekwoCvA.htm](spells/abj-04-2jB9eyX7YekwoCvA.htm)|Word of Freedom|Mot de liberté|changé|
 |[abj-04-8ifpNZkaxrbs3dBJ.htm](spells/abj-04-8ifpNZkaxrbs3dBJ.htm)|Perfected Form|Forme parfaite|officielle|
-|[abj-04-aqRYNoSvxsVfqglH.htm](spells/abj-04-aqRYNoSvxsVfqglH.htm)|Freedom of Movement|Liberté de mouvement|changé|
+|[abj-04-aqRYNoSvxsVfqglH.htm](spells/abj-04-aqRYNoSvxsVfqglH.htm)|Freedom of Movement|Liberté de mouvement|officielle|
 |[abj-04-DH9Y3RQGWO0GzXGU.htm](spells/abj-04-DH9Y3RQGWO0GzXGU.htm)|Protector's Sphere|Sphère du protecteur|officielle|
 |[abj-04-eG1fBodYwolaXK98.htm](spells/abj-04-eG1fBodYwolaXK98.htm)|Enduring Might|Puissance protectrice|changé|
 |[abj-04-JOdOpbPDl7nqvJUm.htm](spells/abj-04-JOdOpbPDl7nqvJUm.htm)|Globe of Invulnerability|Globe d'invulnérabilité|officielle|
@@ -374,7 +374,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-09-PngDCmU0MXZkbu0v.htm](spells/abj-09-PngDCmU0MXZkbu0v.htm)|Prismatic Sphere|Sphère prismatique|officielle|
 |[con-00-uZK2BYzPnxUBnDjr.htm](spells/con-00-uZK2BYzPnxUBnDjr.htm)|Tanglefoot|Entrave|changé|
 |[con-01-4YnON9JHYqtLzccu.htm](spells/con-01-4YnON9JHYqtLzccu.htm)|Summon Animal|Convocation d'animal|changé|
-|[con-01-dDt8VFuLuhznT19v.htm](spells/con-01-dDt8VFuLuhznT19v.htm)|Snare Hopping|Piège bondissant|libre|
+|[con-01-dDt8VFuLuhznT19v.htm](spells/con-01-dDt8VFuLuhznT19v.htm)|Snare Hopping|Piège artisanal bondissant|libre|
 |[con-01-hs7h8f4Z1ZNdUt3s.htm](spells/con-01-hs7h8f4Z1ZNdUt3s.htm)|Summon Fey|Convocation de fée|changé|
 |[con-01-jSRAyd57kd4WZ4yE.htm](spells/con-01-jSRAyd57kd4WZ4yE.htm)|Summon Plant or Fungus|Convocation de plante ou de champignon|changé|
 |[con-01-lKcsmeOrgHtK4xQa.htm](spells/con-01-lKcsmeOrgHtK4xQa.htm)|Summon Construct|Convocation de créature artificielle|changé|
@@ -802,7 +802,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[trs-01-aEM2cttJ2eYcLssW.htm](spells/trs-01-aEM2cttJ2eYcLssW.htm)|Fleet Step|Pas rapide|officielle|
 |[trs-01-dINQzhqGmIsqGMUY.htm](spells/trs-01-dINQzhqGmIsqGMUY.htm)|Mending|Réparation|changé|
 |[trs-01-EE7Q5BHIrfWNCPtT.htm](spells/trs-01-EE7Q5BHIrfWNCPtT.htm)|Magic Fang|Morsure magique|changé|
-|[trs-01-gfPjmG6Fe6D3MFjl.htm](spells/trs-01-gfPjmG6Fe6D3MFjl.htm)|Pest Form|forme de nuisible|changé|
+|[trs-01-gfPjmG6Fe6D3MFjl.htm](spells/trs-01-gfPjmG6Fe6D3MFjl.htm)|Pest Form|Forme de nuisible|officielle|
 |[trs-01-gwOYh5zMVZB0HNcT.htm](spells/trs-01-gwOYh5zMVZB0HNcT.htm)|Unimpeded Stride|Déplacement sans réserve|changé|
 |[trs-01-i8PBZsnoCrK7IWph.htm](spells/trs-01-i8PBZsnoCrK7IWph.htm)|Tentacular Limbs|Membres tentaculaires|officielle|
 |[trs-01-K8vvrOgW4bGakXxm.htm](spells/trs-01-K8vvrOgW4bGakXxm.htm)|Dragon Claws|Griffes de dragon|changé|

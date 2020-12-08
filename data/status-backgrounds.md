@@ -1,12 +1,12 @@
 # État de la traduction (backgrounds)
 
  * **changé**: 156
- * **libre**: 12
- * **aucune**: 6
+ * **libre**: 13
+ * **aucune**: 5
  * **officielle**: 19
 
 
-Dernière mise à jour: 2020-11-26 18:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-12-07 19:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,7 +14,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[45DuRopZt9dTJo3a.htm](backgrounds/45DuRopZt9dTJo3a.htm)|Translator|
-|[CFdKZFcCcBEPjG5v.htm](backgrounds/CFdKZFcCcBEPjG5v.htm)|Harrow-Led|
 |[lGXKBZYzT2IM69Yj.htm](backgrounds/lGXKBZYzT2IM69Yj.htm)|Pathfinder Recruiter|
 |[RuQNK9zaRqpe45H9.htm](backgrounds/RuQNK9zaRqpe45H9.htm)|Trailblazer|
 |[sPar7gD7KpbKcZLJ.htm](backgrounds/sPar7gD7KpbKcZLJ.htm)|Spell Seeker|
@@ -60,6 +59,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[byu7FHvqmhAwYZFf.htm](backgrounds/byu7FHvqmhAwYZFf.htm)|Laborer|Manoeuvre|changé|
 |[BZ0Myq87KqoyTOEP.htm](backgrounds/BZ0Myq87KqoyTOEP.htm)|Nomad|Nomade|officielle|
 |[c4Gcdcz5vDOc5NCk.htm](backgrounds/c4Gcdcz5vDOc5NCk.htm)|Quick|Rapide|changé|
+|[CFdKZFcCcBEPjG5v.htm](backgrounds/CFdKZFcCcBEPjG5v.htm)|Harrow-Led|Déterminé par le Tourment|libre|
 |[ckPq968bni6JxpA6.htm](backgrounds/ckPq968bni6JxpA6.htm)|Bounty Hunter|Chasseur de primes|officielle|
 |[CMswLSRLQ72tbu0u.htm](backgrounds/CMswLSRLQ72tbu0u.htm)|Geb Crusader|Croisé du Geb|changé|
 |[cxgUge0LLCMoI70S.htm](backgrounds/cxgUge0LLCMoI70S.htm)|Returning Descendant|Descendant de retour|changé|

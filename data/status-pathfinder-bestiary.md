@@ -1,17 +1,17 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **changé**: 235
- * **officielle**: 179
+ * **officielle**: 182
+ * **changé**: 232
 
 
-Dernière mise à jour: 2020-11-26 18:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-12-07 19:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[024PqcF8yMRBrPuq.htm](pathfinder-bestiary/024PqcF8yMRBrPuq.htm)|Adult White Dragon|Dragon blanc adulte|changé|
+|[024PqcF8yMRBrPuq.htm](pathfinder-bestiary/024PqcF8yMRBrPuq.htm)|Adult White Dragon|Dragon blanc adulte|officielle|
 |[05E3kkjoLZVjFOeO.htm](pathfinder-bestiary/05E3kkjoLZVjFOeO.htm)|Brontosaurus|Brontosaure|changé|
 |[05wwpHHsBlxBbdkN.htm](pathfinder-bestiary/05wwpHHsBlxBbdkN.htm)|Giant Anaconda|Anaconda géant|changé|
 |[0FGz2eXm0SB04sJW.htm](pathfinder-bestiary/0FGz2eXm0SB04sJW.htm)|Ancient Green Dragon|Dragon vert vénérable|changé|
@@ -30,7 +30,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2IrWQjtFvsen8ioo.htm](pathfinder-bestiary/2IrWQjtFvsen8ioo.htm)|Deinonychus|Deinonychus|changé|
 |[31kXa1P0LUl38jYG.htm](pathfinder-bestiary/31kXa1P0LUl38jYG.htm)|Zaramuun|Zaramuun|officielle|
 |[3kLXBdtKpUsU8ey5.htm](pathfinder-bestiary/3kLXBdtKpUsU8ey5.htm)|Satyr|Satyre|changé|
-|[3nOBhH8j9I7ps6fC.htm](pathfinder-bestiary/3nOBhH8j9I7ps6fC.htm)|Green Hag|Guenaude verte|changé|
+|[3nOBhH8j9I7ps6fC.htm](pathfinder-bestiary/3nOBhH8j9I7ps6fC.htm)|Green Hag|Guenaude verte|officielle|
 |[3OPUMuBQThM5EXjz.htm](pathfinder-bestiary/3OPUMuBQThM5EXjz.htm)|Young White Dragon|Jeune dragon blanc|changé|
 |[3VsQFEdIN5e1uWle.htm](pathfinder-bestiary/3VsQFEdIN5e1uWle.htm)|Giant Moray Eel|Murène géante|officielle|
 |[3W2PMV6IbVdouOB1.htm](pathfinder-bestiary/3W2PMV6IbVdouOB1.htm)|Young Copper Dragon|Jeune dragon de cuivre|changé|
@@ -124,7 +124,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[CSefkWGVmA5yGxNR.htm](pathfinder-bestiary/CSefkWGVmA5yGxNR.htm)|Pteranodon|Ptéranodon|officielle|
 |[csRH8Fx0r6iMWlFc.htm](pathfinder-bestiary/csRH8Fx0r6iMWlFc.htm)|Ether Spider|Araignée de l'éther|changé|
 |[cuET2PHGcE7eL7DJ.htm](pathfinder-bestiary/cuET2PHGcE7eL7DJ.htm)|Marid|Maride|changé|
-|[cZDiyluplFqRxmGy.htm](pathfinder-bestiary/cZDiyluplFqRxmGy.htm)|Animated Armor|Armure animé|officielle|
+|[cZDiyluplFqRxmGy.htm](pathfinder-bestiary/cZDiyluplFqRxmGy.htm)|Animated Armor|Armure animée|officielle|
 |[cZsaAKlEYWZUO1CV.htm](pathfinder-bestiary/cZsaAKlEYWZUO1CV.htm)|Terotricus|Terotricus|changé|
 |[CzxQpB3p0d9hwPeR.htm](pathfinder-bestiary/CzxQpB3p0d9hwPeR.htm)|Bulette|Bulette|changé|
 |[d9W89Yv6zyvfxZuG.htm](pathfinder-bestiary/d9W89Yv6zyvfxZuG.htm)|Lillend|Lillende|changé|
@@ -345,7 +345,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[tXHUr947sanB5tdN.htm](pathfinder-bestiary/tXHUr947sanB5tdN.htm)|Wererat|Rat-garou|changé|
 |[TZcDdN5o7s4alZNE.htm](pathfinder-bestiary/TZcDdN5o7s4alZNE.htm)|Gelatinous Cube|Cube gélatineux|changé|
 |[U1L3MFKHe0sNvLoU.htm](pathfinder-bestiary/U1L3MFKHe0sNvLoU.htm)|Dezullon|Dézullone|changé|
-|[uA0cv4OT5mQnym0V.htm](pathfinder-bestiary/uA0cv4OT5mQnym0V.htm)|Young Brass Dragon|Jeunde dragon d'airain|changé|
+|[uA0cv4OT5mQnym0V.htm](pathfinder-bestiary/uA0cv4OT5mQnym0V.htm)|Young Brass Dragon|Jeune dragon d'airain|officielle|
 |[uCw15c4AnIrOy5AV.htm](pathfinder-bestiary/uCw15c4AnIrOy5AV.htm)|Merfolk Wavecaller|Implorateur des vagues homme-poisson|officielle|
 |[Upf2fOZ6QgGG3seI.htm](pathfinder-bestiary/Upf2fOZ6QgGG3seI.htm)|Stone Golem|Golem de pierre|changé|
 |[UPm2rwIevsX9Odbm.htm](pathfinder-bestiary/UPm2rwIevsX9Odbm.htm)|Grikkitog|Grikkitog|changé|
@@ -389,7 +389,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[x4mlZseBP5bWcy4H.htm](pathfinder-bestiary/x4mlZseBP5bWcy4H.htm)|Barghest|Barghest|officielle|
 |[x6wfK4UCJ6wYok9t.htm](pathfinder-bestiary/x6wfK4UCJ6wYok9t.htm)|Tor Linnorm|Linnorm des roches|changé|
 |[XbClt5wkqECrQToJ.htm](pathfinder-bestiary/XbClt5wkqECrQToJ.htm)|Ratfolk Grenadier|Grenadier homme-rat|officielle|
-|[XLqbEDjmGpIc4XoY.htm](pathfinder-bestiary/XLqbEDjmGpIc4XoY.htm)|Orc Warchief|Ched de guerre orc|officielle|
+|[XLqbEDjmGpIc4XoY.htm](pathfinder-bestiary/XLqbEDjmGpIc4XoY.htm)|Orc Warchief|Chef de guerre orc|officielle|
 |[XoXf5ExS95Vv6lNf.htm](pathfinder-bestiary/XoXf5ExS95Vv6lNf.htm)|Elemental Avalanche|Avalanche élémentaire|officielle|
 |[xqnl2eFzy5H2NZoQ.htm](pathfinder-bestiary/xqnl2eFzy5H2NZoQ.htm)|Shaitan|Shaitan|officielle|
 |[XrmHgbKgcHDi4OnK.htm](pathfinder-bestiary/XrmHgbKgcHDi4OnK.htm)|Shadow|Ombre|officielle|

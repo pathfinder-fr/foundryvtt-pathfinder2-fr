@@ -1,4 +1,225 @@
 {
     "label": "Dangers",
-    "entries": []
+    "entries": [
+        {
+            "id": "Confounding Betrayal",
+            "name": "Trahison confondante",
+            "description": "<p>Les alliés apparaissent retirer leurs déguisements et se révèlent aux-mêmes être des montres malveillants.</p>"
+        },
+        {
+            "id": "Perilous Flash Flood",
+            "name": "Inondation périlleuse rapide",
+            "description": "<p>Que ce soit à cause de l'eau qui dévale dans les rues en  transportant de dangereux débris le long de saroute ou une substance moins naturelle qui se libère, cette inondation ballotte sans répit tout ce qui se trouve sur son passage.</p>"
+        },
+        {
+            "id": "Spectral Reflection",
+            "name": "Reflet spectral",
+            "description": "<p>Le reflet dans le miroir distord et modifie subtilement, son expression reflétant un rictus de malice horripilant.</p>"
+        },
+        {
+            "id": "Hammer Of Forbiddance",
+            "name": "Marteau d'interdiction",
+            "description": "<p> Un gigantesque marteau oscille dans l’entrée d’un édifice et peut potentiellement blesser une créature qui tente d’entrer, la repousser ou l’empêcher d’accéder au bâtiment.</p>"
+        },
+        {
+            "id": "Slamming Door",
+            "name": "Claque-porte",
+            "description": "<p>Des plaques de pression dans le sol sont reliées à un bloc de pierre dissimulé dans le plafond d’un couloir.</p>"
+        },
+        {
+            "id": "Armageddon Orb",
+            "name": "Orbe de l'armageddon",
+            "description": "<p>Un orbe rouge tourbillonnant, créé à l’aide d’une goutte de sang du dieu Rovagug, fait pleuvoir le feu du ciel quand une condition précise est remplie.</p>"
+        },
+        {
+            "id": "Flensing Blades",
+            "name": "Lames dépeçantes",
+            "description": "<p>Une tornade tourbillonnante de verre et d'acier propulsée découpe tout ce qu'elle touche en tranches.</p>"
+        },
+        {
+            "id": "Eternal Flame",
+            "name": "Flamme éternelle",
+            "description": "<p>Un enfer spectral enragé se lève dans l'air fin et renforce toutes les créatures mortes-vivantes se trouvant dans la zone. Cette apparition survient le plus souvent à partir des restes carbonisés d'un groupe de trois personnes brûlées vives, soit à l'occasion d'un accident terrible, soit lors d'une exécution délibérée, et leurs âmes non véngées brûlent avec rage.</p>"
+        },
+        {
+            "id": "Pharaoh's Ward",
+            "name": "Sceau du pharaon",
+            "description": "<p>L’entrée d’un passage porte une malédiction.</p>"
+        },
+        {
+            "id": "Banshee's Symphony",
+            "name": "Symphonie d'outre-tombe",
+            "description": "<p>Une plainte d’outre-tombe que la magie rend contagieuse est contenue dans le larynx d’un elfe momifié et invisible.</p>"
+        },
+        {
+            "id": "Spear Launcher",
+            "name": "Lance épieu",
+            "description": "<p>Un compartiment dans un mur contient un épieu monté sur ressort relié à une dalle du sol dans une case de 1,50 m de côté.</p>"
+        },
+        {
+            "id": "Vorpal Executioner",
+            "name": "Bourreau vorpal",
+            "description": "<p>Une scie à la lame extrêmement aiguisée descend et traverse la pièce de part en part le long d’un complexe réseau de rainures en tentant de décapiter tous ceux qui s’y trouvent.</p>"
+        },
+        {
+            "id": "Drowning Pit",
+            "name": "Fosse de noyade",
+            "description": "<p>Une trappe recouvre une fosse de 3 m de côté, 9 m de profondeur et 1,50 m d’eau au fond. Quatre arrivées d’eau dans les murs sont reliées à des réservoirs d’eau dissimulés. Chaque arrivée d’eau est située sur un mur différent, à 15 cm en dessous du sommet de la fosse.</p>"
+        },
+        {
+            "id": "Frozen Moment",
+            "name": "Instant figé",
+            "description": "<p>Une magie protectrice tente de piéger les intrus et les voleurs dans une trame temporelle pervertie.</p>"
+        },
+        {
+            "id": "Quicksand",
+            "name": "Sables mouvants",
+            "description": "<p>Une étendue d’eau et de sable de 4,50 m de côté tente d’engloutir les créatures qui marchent dedans.</p>"
+        },
+        {
+            "id": "Lava Flume Tube",
+            "name": "Déverseur de lave",
+            "description": "<p>Quatre canaux taillés dans la pierre et fermés par des obturateurs permettent le déversement de lave dans une pièce haute de 4,50 m ; le sol peut se dérober pour que la lave solidifiée tombe dans une pièce située en dessous.</p>"
+        },
+        {
+            "id": "Poisoned Lock",
+            "name": "Serrure empoisonnée",
+            "description": "<p>. Une pointe empoisonnée montée sur ressort est cachée près du trou d’une serrure. Désamorcer ou briser le piège ne déverrouille pas et ne brise pas la serrure.</p>"
+        },
+        {
+            "id": "Polymorph Trap",
+            "name": "Piège de métamorphose",
+            "description": "<p>Un glyphe druidique tente de transformer un intrus en animal.</p>"
+        },
+        {
+            "id": "Scythe Blades",
+            "name": "Lames de faux",
+            "description": "<p>Deux lames, chacune cachée dans une rainure de 4,50 m de long au plafond, sont reliées à un fil de détente.</p>"
+        },
+        {
+            "id": "Spinning Blade Pillar",
+            "name": "Colonne de lames tournoyantes",
+            "description": "<p>Une barre métallique tournoyante, sur laquelle sont fixées trois lames aussi tranchantes qu’un rasoir, est cachée dans le sol, reliée à des plaques de pression dans un maximum de huit cases du sol et un panneau de contrôle caché à 9 m ou moins.</p>"
+        },
+        {
+            "id": "Titanic Flytrap",
+            "name": "Gobe-mouche titanesque",
+            "description": "<p>Sur la surface, un gobe-mouche titanesque semble être une plaque sur laquelle se trouvent la plante commune du gobe-mouche, mais sous les eaux troubles se cache une beaucoup plus grande paire de mâchoires, atteignant 3 m de côté et renforcées par des branches et entourées de poils paralysants.</p>"
+        },
+        {
+            "id": "Bottomless Pit",
+            "name": "Trappe sans fond",
+            "description": "<p> Une trappe de fer recouvre une fosse sans fond de 3 m de côté.</p>"
+        },
+        {
+            "id": "Electric Latch Rune",
+            "name": "Rune de loquet électrique",
+            "description": "<p>. Une rune invisible tracée sur le loquet d’une porte produit une redoutable décharge électrique.</p>"
+        },
+        {
+            "id": "Fireball Rune",
+            "name": "Rune de boule de feu",
+            "description": "<p>Une rune invisible crée un capteur magique sphérique et invisible dans un rayon de 6 m.</p>"
+        },
+        {
+            "id": "Second Chance",
+            "name": "Seconde chance",
+            "description": "<p>Une puissante magie protectrice liée à un objet ou un lieu tente de faire retomber une créature et ses alliés en enfance.</p>"
+        },
+        {
+            "id": "Summoning Rune",
+            "name": "Rune de convocation",
+            "description": "<p>Une nuée de capteurs magiques invisibles dans un rayon de 3 m entoure une rune invisible sur le mur ou le plafond, de la même taille que la créature qu’elle peut convoquer.</p>"
+        },
+        {
+            "id": "Hallucination Powder Trap",
+            "name": "Piège à poudre hallucinogène",
+            "description": "<p> un tube rempli de poudre hallucinogène doté d’une petite amorce explosive est relié à une poignée de porte ou un loquet similaire.</p>"
+        },
+        {
+            "id": "Plummeting Doom",
+            "name": "Chute tragique",
+            "description": "<p>Quatre esprits vengeurs saisissent les intrus et les font tomber du bord d'une falaise de près de 40 m de hauteur.</p>"
+        },
+        {
+            "id": "Bloodthirsty Urge",
+            "name": "Pulsion sanguinaire",
+            "description": "<p>Un objet hanté par les échos d’un esprit cruel tente de tuer la créature qui passe à proximité.</p>"
+        },
+        {
+            "id": "Poisoned Dart Gallery",
+            "name": "Couloir de fléchettes empoisonnées",
+            "description": "<p>Une multitude de trous desquels sont tirées des fléchettes empoisonnées percent les murs d’un long couloir, avec un panneau de contrôle à son extrémité.</p>"
+        },
+        {
+            "id": "Brown Mold",
+            "name": "Moisissure brune",
+            "description": "<p>Cette moisissure sans prétention aspire la châleur de l'air.</p>"
+        },
+        {
+            "id": "Jealous Abjurer",
+            "name": "Abjurateur jaloux",
+            "description": "<p>L'esprit d'un abjurateur habillé d'une robe s'élève du sol, pointant un doigt accusateur.</p>"
+        },
+        {
+            "id": "Hidden Pit",
+            "name": "Fosse dissimulée",
+            "description": "<p>Une trappe de bois recouvre une fosse de 3 m sur 3 et de 6 m de profondeur.</p>"
+        },
+        {
+            "id": "Snowfall",
+            "name": "Chute de neige",
+            "description": "<p>De la neige et de la glace se sont entassées sur une surface élevée telle que la branche d'un arbre ou d'une toiture. L'adhérence à cette surface est ténue et risque de tomber lorsque celle-ci est ébranlée.</p>"
+        },
+        {
+            "id": "Planar Rift",
+            "name": "Faille planaire",
+            "description": "<p>Une faille tente d’emporter les créatures vers un autre plan (choisi par le MJ).</p>"
+        },
+        {
+            "id": "Ghostly Choir",
+            "name": "Chœur fantômatique",
+            "description": "<p>Un chœur d'âmes perdues sort du plancher, en chantant un une chanson terrible qui terrifie ses auditeurs et ballotte leurs corps avec des murs de sons.</p>"
+        },
+        {
+            "id": "Green Slime",
+            "name": "Substance gluante verte",
+            "description": "<p>Un filet vert caustique pend au plafond au dessus, surveillant les proies qui passent en dessous.</p>"
+        },
+        {
+            "id": "Hampering Web",
+            "name": "Toile ralentissante",
+            "description": "<p>Des toiles semi-transparentes sont répandues dans un passage, prêtes à capturer des petits insectes ou à ralentir de plus grandes créatures qui passeraient au travers.</p>"
+        },
+        {
+            "id": "Dance Of Death",
+            "name": "Danse de mort",
+            "description": "<p>Un orchestre inquiétant oblige tous ceux qui l'entendent à danser jusqu'à ce qu'ils tombent de fatigue.</p>"
+        },
+        {
+            "id": "Telekinetic Swarm Trap",
+            "name": "Piège de nuée télékinésique",
+            "description": "<p>Trois éléments décoratifs quelconques imprégnés de magie télékinésique déplacent des objets et des éléments de la salle pour former des nuées de débris qui attaquent toutes les créatures dans la pièce.</p>"
+        },
+        {
+            "id": "Darkside Mirror",
+            "name": "Miroir aux sombres reflets",
+            "description": "<p>Un miroir magique remplace les personnages par des reflets maléfiques d’eux-mêmes venus d’une autre dimension.</p>"
+        },
+        {
+            "id": "Yellow Mold",
+            "name": "Moisissure jaune",
+            "description": "<p>Les spores de la moisissure empoisonnent les créatures à proximité.</p>"
+        },
+        {
+            "id": "Wheel Of Misery",
+            "name": "Roue du malheur",
+            "description": "<p>Une roue ornée fichée dans le mur, divisée en six segments, chacun gravé d’une rune colorée, est contrôlée par un capteur magique qui détecte toute créature en approche devant elle à 30 m ou moins.</p>"
+        },
+        {
+            "id": "Treacherous Scree",
+            "name": "Éboulis traître",
+            "description": "Marcher sur cette déclivité apparaît stable au premier coup d'oeil, mais les petites pierres qui la recouvrent sont assez lâches et prompts à glisser.</p>"
+        }
+    ]
 }

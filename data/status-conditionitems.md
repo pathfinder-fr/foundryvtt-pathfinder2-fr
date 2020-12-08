@@ -1,27 +1,28 @@
 # État de la traduction (conditionitems)
 
- * **changé**: 39
- * **officielle**: 3
+ * **libre**: 1
+ * **officielle**: 12
+ * **changé**: 29
 
 
-Dernière mise à jour: 2020-11-26 18:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-12-07 19:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[1wQY3JYyhMYeeV2G.htm](conditionitems/1wQY3JYyhMYeeV2G.htm)|Observed|Observé|changé|
-|[3uh1r86TzbQvosxv.htm](conditionitems/3uh1r86TzbQvosxv.htm)|Doomed|Condamné|changé|
-|[4D2KBtexWXa6oUMR.htm](conditionitems/4D2KBtexWXa6oUMR.htm)|Drained|Drainé|changé|
-|[6dNUvdb1dhToNDj3.htm](conditionitems/6dNUvdb1dhToNDj3.htm)|Broken|Brisé|changé|
-|[6uEgoh53GbXuHpTF.htm](conditionitems/6uEgoh53GbXuHpTF.htm)|Paralyzed|Paralysé|changé|
-|[9evPzg9E6muFcoSk.htm](conditionitems/9evPzg9E6muFcoSk.htm)|Unnoticed|Inaperçu|changé|
+|[1wQY3JYyhMYeeV2G.htm](conditionitems/1wQY3JYyhMYeeV2G.htm)|Observed|Observé|libre|
+|[3uh1r86TzbQvosxv.htm](conditionitems/3uh1r86TzbQvosxv.htm)|Doomed|Condamné|officielle|
+|[4D2KBtexWXa6oUMR.htm](conditionitems/4D2KBtexWXa6oUMR.htm)|Drained|Drainé|officielle|
+|[6dNUvdb1dhToNDj3.htm](conditionitems/6dNUvdb1dhToNDj3.htm)|Broken|Brisé|officielle|
+|[6uEgoh53GbXuHpTF.htm](conditionitems/6uEgoh53GbXuHpTF.htm)|Paralyzed|Paralysé|officielle|
+|[9evPzg9E6muFcoSk.htm](conditionitems/9evPzg9E6muFcoSk.htm)|Unnoticed|Inaperçu|officielle|
 |[9PR9y0bi4JPKnHPR.htm](conditionitems/9PR9y0bi4JPKnHPR.htm)|Deafened|Sourd|officielle|
-|[9qGBRpbX9NEwtAAr.htm](conditionitems/9qGBRpbX9NEwtAAr.htm)|Controlled|Contrôlé|changé|
-|[AdPVz7rbaVSRxHFg.htm](conditionitems/AdPVz7rbaVSRxHFg.htm)|Fascinated|Fasciné|changé|
-|[AJh5ex99aV6VTggg.htm](conditionitems/AJh5ex99aV6VTggg.htm)|Flat-Footed|Pris au dépourvu|changé|
-|[D5mg6Tc7Jzrj6ro7.htm](conditionitems/D5mg6Tc7Jzrj6ro7.htm)|Encumbered|Surchargé|changé|
+|[9qGBRpbX9NEwtAAr.htm](conditionitems/9qGBRpbX9NEwtAAr.htm)|Controlled|Contrôlé|officielle|
+|[AdPVz7rbaVSRxHFg.htm](conditionitems/AdPVz7rbaVSRxHFg.htm)|Fascinated|Fasciné|officielle|
+|[AJh5ex99aV6VTggg.htm](conditionitems/AJh5ex99aV6VTggg.htm)|Flat-Footed|Pris au dépourvu|officielle|
+|[D5mg6Tc7Jzrj6ro7.htm](conditionitems/D5mg6Tc7Jzrj6ro7.htm)|Encumbered|Surchargé|officielle|
 |[dfCMdR4wnpbYNTix.htm](conditionitems/dfCMdR4wnpbYNTix.htm)|Stunned|Étourdi|changé|
 |[DmAIPqOBomZ7H95W.htm](conditionitems/DmAIPqOBomZ7H95W.htm)|Concealed|Masqué|changé|
 |[dTwPJuKgBQCMxixg.htm](conditionitems/dTwPJuKgBQCMxixg.htm)|Petrified|Pétrifié|changé|
