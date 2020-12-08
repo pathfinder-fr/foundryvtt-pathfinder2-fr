@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2020-12-06 12:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-11-26 18:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -2227,7 +2227,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Avatar's Audience](feats/class-20-opeP0JF9WGmNG0pb.htm)|Audience de l'avatar|`@Compendium[pf2e.feats-srd.opeP0JF9WGmNG0pb]`|
 |[Avenge Ally](feats/ancestry-13-LTcpBbnngfuYTdB0.htm)||`@Compendium[pf2e.feats-srd.LTcpBbnngfuYTdB0]`|
 |[Avenge in Glory](feats/ancestry-01-gKDRnsBPBdhJB0FI.htm)|Revanche dans la gloire|`@Compendium[pf2e.feats-srd.gKDRnsBPBdhJB0FI]`|
-|[Awesome Blow](feats/class-14-rCnaBbk0M1gBVHjG.htm)|Coup fabuleux|`@Compendium[pf2e.feats-srd.rCnaBbk0M1gBVHjG]`|
+|[Awesome Blow](feats/class-01-rCnaBbk0M1gBVHjG.htm)|Coup fabuleux|`@Compendium[pf2e.feats-srd.rCnaBbk0M1gBVHjG]`|
 |[Axe Climber](feats/archetype-04-nAgAICjPd4BSQlAj.htm)|Escalade à la hache|`@Compendium[pf2e.feats-srd.nAgAICjPd4BSQlAj]`|
 |[Axe Thrower](feats/archetype-06-pewPAMlURmTqBqJx.htm)|Lanceur de haches|`@Compendium[pf2e.feats-srd.pewPAMlURmTqBqJx]`|
 |[Azaersi's Roads](feats/class-17-LoZY48txEgHZxewj.htm)||`@Compendium[pf2e.feats-srd.LoZY48txEgHZxewj]`|
