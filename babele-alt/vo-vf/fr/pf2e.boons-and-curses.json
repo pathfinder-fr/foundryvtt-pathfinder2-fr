@@ -32,6 +32,11 @@
             "description": "<p><strong>Bénédiction majeure</strong> Gorum vous nourrit du zèle de ses combattants invincibles, vous permetttant de tirer de votre propre vie la force de poursuivre le combat sans tomber.</p>\n<p>Lorsque vous devriez être réduit à 0 Points de Vie, vous êtes à la place soigné de la moitié de votre nombre de Points de Vie maximum et devenez @Compendium[pf2e.conditionspf2e.3uh1r86TzbQvosxv]{Condamné} 1 (ou votre condition Condamné augmente de 1).</p>"
         },
         {
+            "id": "Calistra - Major Boon",
+            "name": "Calistra - Major Boon (Calistria - Bénédiction Majeure)",
+            "description": "<p><strong>Bénédiction Majeure</strong>: Calistria vous guide vers la vengeance. Vous connaissez toujours la direction et la distance vers la créature la plus proche qui vous a fait du tort et qui est restée impunie jusqu'à présent.</p>"
+        },
+        {
             "id": "Gozreh - Moderate Curse",
             "name": "Gozreh - Moderate Curse (Gozreh - Malédiction modérée)",
             "description": "<p><strong>Malédiction modérée</strong> Le courant des vagues vous est constamment contraire, vous plaçant dans une situation où vous pouvez vous noyer à chaque fois que vous devez nager.</p>\n<p>Vous perdez toute vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nage}  que vous pouvez posséder, à moins que ce ne soit votre seule vitesse de déplacement, auquel cas, vous subissez une pénalité de statut de –6 m  à votre vitesse denatation.</p>\n<p>Lorsque vous lancez un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous utilisez toujours le résultat d'un degré de succès inférieur au résultat que vous avez obtenu.</p>"
@@ -47,6 +52,11 @@
             "description": "<p><strong>Malédiction modérée</strong> La malchance poursuit votre pas durant vos voyages et nécessite des actes de contrition ou de bienveillance pour rester au large.</p>\n<p>Vous devez toujours lancer deux fois et prendre le pire résultat lorsque vous tentez un test. C'estun effet de malchance.</p>\n<p>Vous pouvez exprimer vos remords et ignorer cet effet durant 1d4 rounds en passant une action qui a le trait concentration.</p>\n<p>Si vous accomplissez un acte de compassion véritablement désintéressé, vous ignorez cet effet pendant 1 journée.</p>"
         },
         {
+            "id": "Rovagug - Moderate Boon",
+            "name": "Rovagug - Moderate Boon (Rovagug - Bénédiction modérée)",
+            "description": "<p><strong>Bénédiction modérée</strong>: Vous pouvez tout dévorer. Votre bouche se transforme en une mâchoire horrible, circulaire entourée de grandes dents en forme d'aiguilles.</p>\n<p>Vous gagnez une attaque de morsure qui inflige 1d8 dégâts perforants.</p>\n<p>De plus, vous pouvez manger tout ce que vous pouvez mettre dans votre gueule, même des pierres ou de petits objets.</p>\n<p>Vous gagnez un bonus de statut de +4 aux jets de sauvegarde résultant de votre consommation, comme des maladies, des poisons ou d'autres effets de l'objet ingéré. Cela ne vous permet pas de digérer des objets magiques qui seraient autrement difficiles ou impossibles à détruire, tels que des objets maudits ou des artefacts.</p>"
+        },
+        {
             "id": "Torag - Minor Curse",
             "name": "Torag - Minor Curse (Torag - Malédiction mineure)",
             "description": "<p><strong>Malédiction mineure</strong> L'artisanat de mauvaise qualité finit toujours par se montrer. Lorsqu'un objet que vous utilisez subit des dégâts, il est @Compendium[pf2e.conditionspf2e.6dNUvdb1dhToNDj3]{Cassé}.</p>"
@@ -57,9 +67,24 @@
             "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Votre attaque devient plus destructrice. Une fois, une de vos attaques manquée ou réussie devient un coup critique et votre arme ou votre attque à mains nuesobtient le trait Mortel d12 pour cette attaque, remplaçant tout trait mortel qu'elle possèderait déjà.</p>\n<p>Rovagug accorde typiquement cette bénédiction lorsque le coup critique pourrait détruire quelque chose de précieux ou ayant une signification.</p>"
         },
         {
+            "id": "Zon-Kuthon - Moderate Curse",
+            "name": "Zon-Kuthon - Moderate Curse (Zon-Kuthon - Malédiction modérée)",
+            "description": "<p><strong>Malédiction modérée</strong>: Vous partagez la douleur des autres, et même des blessures mineures vous apportent une douleur incroyable.</p>\n<p>À chaque fois que vous voyez (ou sentez) qu'une créature subit des blessures, vous subissez [[/r 1d6]] de dégâts mentaux.</p>\n<p>Chaque fois que vous subissez des dégâts autrement que par la première partie de cette malédiction, vous prenez [[/r 1d6]] de\ndommages mentaux dus à une douleur accrue et êtes @Compendium[pf2e.conditionspf2e.fesd1n5eVhpCSS18]{Malade} 1. Les dommages mentaux de cette malédiction ignorent toute résistance que vous avez aux dommages mentaux.</p>"
+        },
+        {
+            "id": "Shelyn - Major Curse",
+            "name": "Shelyn - Major Curse (Shelyn - Malédiction majeure)",
+            "description": "<p><strong>Malédiction majeure</strong>: Ceux qui répandent la misère par un amour faux, font face à la plus grande malédiction de Shelyn.</p>\n<p>Vous perdez la capacité de distinguer tout être vivant d'un autre, que ce soit par son apparence, sa voix, son odeur ou des moyens sensoriels similaires. Vous pouvez seulement distinguer sa taille physique (donc vous ne confondriez pas une fourmi avec un cheval), mais rien de plus.</p>\n<p>Si vous étiez simplement superficiel, chaque créature que vous voyez a des traits génériques et fades, mais si vos actes étaient vils, vous ne voyez que les visages de ceux que vous avez lésés.</p>"
+        },
+        {
             "id": "Norgorber - Moderate Curse",
             "name": "Norgorber - Moderate Curse (Norgorber - Malédiction modérée)",
-            "description": "<p><strongMalédiction modérée</strong> Les poisons sont prompts à vous affaiblir. Lorsque vous obtenez un échec sur un jet de Vigueur contre un poison, vous obtenez un échec critique à la place.</p>"
+            "description": "<p><strong>Malédiction modérée</strong> Les poisons sont prompts à vous affaiblir. Lorsque vous obtenez un échec sur un jet de Vigueur contre un poison, vous obtenez un échec critique à la place.</p>"
+        },
+        {
+            "id": "Pharasma - Major Curse",
+            "name": "Pharasma - Major Curse (Pharasma - Malédiction majeure)",
+            "description": "<p><strong>Malédiction majeure</strong> Pharasma veut la fin de votre vie et de votre lignée. Vous devenez incapable d'avoir des enfants (ou de procréer autrement, par quelque moyen que ce soit, y compris les capacités de créer des rejetons) et êtes définitivement @Compendium[pf2e.conditionspf2e.3uh1r86TzbQvosxv]{Condamné} 2.</p>"
         },
         {
             "id": "Pharasma - Minor Boon",
@@ -70,6 +95,11 @@
             "id": "Torag - Moderate Boon",
             "name": "Torag - Moderate Boon (Torag - Bénédiction modérée)",
             "description": "<p><strong>Bénédiction modérée</strong> Vous êtes considéré comme un membre de la famille par torags et des fidèles.</p>\n<p>Vous obtenez les effets d'un unique don d'ancètre nain du choix de Torag, même si vous n'êtes pas un nain, tant que vous bénéficiez de la bénédiction de Torag.</p>"
+        },
+        {
+            "id": "Nethys - Moderate Boon",
+            "name": "Nethys - Moderate Boon (Néthys - Bénédiction modérée)",
+            "description": "<p><strong>Bénédiction modérée (Usage unique)</strong>: Nethys vous donne un aperçu des secrets de la magie. Ajoutez un sort d'une autre tradition de magie à votre liste de sorts. Vous devez toujours l'apprendre ou l'ajouter à votre répertoire normalement.</p>"
         },
         {
             "id": "Desna - Moderate Boon",
@@ -87,6 +117,11 @@
             "description": "<p><strong>Bénédiction mineure (Unique utilisation)</strong> Abadar prévient ses favoris contre ceux qui pourrait bénéficier d'un avantage déloyal. Une fois, lorsque quelqu'un obtient une réussite sur un test de Duperie pour vous Mentir malicieusement à vous et vous seul, ils obtiennent un échec critique à la place.</p>\n<p>Abadar choisit typiquement d'accorder cette bénédiction en réponse à un mensonge aux conséquences extrêmes.</p>"
         },
         {
+            "id": "Gorum - Minor Boon",
+            "name": "Gorum - Minor Boon (Gorum - Bénédiction Mineure)",
+            "description": "<p><strong>Bénédiction Mineure</strong>: Gorum vous accorde une arme à chaque fois que vous en avez besoin. Vous pouvez utiliser une action d'Interaction pour céer une arme de fer non magique de niveau 0 et cela, même si vous n'avez pas d'armes sur vous. Une telle arme ne dure que tant que vous continuez à l’utiliser pour attaquer, et elle ne peut pas être vendue, donnée, fondue pour de la ferraille ou autre.</p>"
+        },
+        {
             "id": "Nethys - Major Boon",
             "name": "Nethys - Major Boon (Néthys - Bénédiction majeure)",
             "description": "<p><strong>Bénédiction majeure</strong> Vous vous voyez accorder des connaissances et une maîtrise supérieure.</p>\n<p>Si vous êtes un incantateur préparé, vous pouvez changer un de vos sorts préparés pour un autre sort que vous pourriez préparer dans cet emplacement ; si vous êtes un incantateur spontané, vous pouvez changer un des sorts de votre répertoire de sorts pour un autre sort que vous auriez pu choisir pour votre répertoire à la place.</p>\n<p>dans l'un ou l'autre cas, cet échange prend une action unique qui possède le trait concentration. (Si vous n'êtes ni un incantateur préparé ou spontané, Néthys ne vous accordera pas sa bénédiction majeure.)</p>"
@@ -97,6 +132,11 @@
             "description": "<p>Irori vous défie de chercher à suivre un autre chemin et de de traiter chaque problème comme un clou, juste parce que vous possédez un marteau. Si vous choisissez un test pour lequel vous possédez un bonus supérieur alors qu'une autre méthode serait plus appropriée à la situation, comme utiliser la Duperie pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir} parce que c'est votre plus haut modificateur, même s'il serait mieux d'atteindre un compromis en usant de Diplomatie, vous devez lancer deux fois votre dé et prendre le plus mauvais résultat.</p>"
         },
         {
+            "id": "Saranrae - Major Curse",
+            "name": "Saranrae - Major Curse (Sarenrae - Malédiction majeure)",
+            "description": "<p><strong>Malédiction majeure</strong>: Sarenrae restreint votre capacité à nuire aux autres.</p>\n<p>Toutes les attaques que vous effectuez, les sorts que vous lancez et les autres sources de dégâts que vous infligez sont non mortels, sauf contre les démons et les morts-vivants, et vous ne pouvez pas les rendre mortels.</p>\n<p>Vous infligez un minimum de dégâts, sauf contre les démons et les morts-vivants.</p>\n<p>Toutes les créatures, à l'exception des démons et des morts-vivants, gagnent un bonus de statut de +4 à leur CA et à leurs jets de sauvegarde contre vos attaques ou autres effets.</p>"
+        },
+        {
             "id": "Gozreh - Moderate Boon",
             "name": "Gozreh - Moderate Boon (Gozreh - Bénédiction modérée)",
             "description": "<p><strong>Bénédiction modérée</strong> Vous obtenez le contact de l'océan. Vous pouvez respirer sous l'eau et obtenez une vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Natation} égale à votre vitesse de Déplacement.</p>"
@@ -105,6 +145,11 @@
             "id": "Rovagug - Minor Curse",
             "name": "Rovagug - Minor Curse (Rovagug - Malédiction mineure)",
             "description": "<p><strong>Malédiction mineure</strong> Lorsque vous êtes emprisonné, vous thrash and shake lorsque votre esprit se remplit de désespoir.</p>\n<p>Chaque fois que vous êtes entravé ou autrement emprisonné (comme lorsque vous êtes envoyé en prison), vous êtes aussi @Compendium[pf2e.conditionspf2e.i3OJZU2nk64Df3xm]{Maladroit} 2 et @Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]{Stupéfié} 2.</p>"
+        },
+        {
+            "id": "Abadar - Moderate Boon",
+            "name": "Abadar - Moderate Boon (Abadar - Bénédiction modérée)",
+            "description": "<p><strong>Bénédiction modérée</strong> Abadar bénit toutes vos entreprises, menant au succès financier car toutes vos affaires semblent toujours aboutir.</p>\n<p>Si vous faites un échec critique lors d'un test pour @Compendium[pf2e.actionspf2e.QyzlsLrqM0EEwd7j]{Gagner de l'argent}, vous obtenez un échec à la place.</p>\n<p>Si vous obtneez un succès lors d'un test pour @Compendium[pf2e.actionspf2e.QyzlsLrqM0EEwd7j]{Gagner de l'argent}, alors \nvous gagnez le double du revenu habituel.</p>"
         },
         {
             "id": "Norgorber - Minor Boon",

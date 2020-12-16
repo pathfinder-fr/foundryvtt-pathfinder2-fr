@@ -1,11 +1,11 @@
 # État de la traduction (conditionitems)
 
  * **libre**: 1
- * **officielle**: 12
- * **changé**: 29
+ * **changé**: 40
+ * **officielle**: 1
 
 
-Dernière mise à jour: 2020-12-07 19:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-12-16 18:47 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -13,16 +13,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[1wQY3JYyhMYeeV2G.htm](conditionitems/1wQY3JYyhMYeeV2G.htm)|Observed|Observé|libre|
-|[3uh1r86TzbQvosxv.htm](conditionitems/3uh1r86TzbQvosxv.htm)|Doomed|Condamné|officielle|
-|[4D2KBtexWXa6oUMR.htm](conditionitems/4D2KBtexWXa6oUMR.htm)|Drained|Drainé|officielle|
-|[6dNUvdb1dhToNDj3.htm](conditionitems/6dNUvdb1dhToNDj3.htm)|Broken|Brisé|officielle|
-|[6uEgoh53GbXuHpTF.htm](conditionitems/6uEgoh53GbXuHpTF.htm)|Paralyzed|Paralysé|officielle|
-|[9evPzg9E6muFcoSk.htm](conditionitems/9evPzg9E6muFcoSk.htm)|Unnoticed|Inaperçu|officielle|
-|[9PR9y0bi4JPKnHPR.htm](conditionitems/9PR9y0bi4JPKnHPR.htm)|Deafened|Sourd|officielle|
-|[9qGBRpbX9NEwtAAr.htm](conditionitems/9qGBRpbX9NEwtAAr.htm)|Controlled|Contrôlé|officielle|
-|[AdPVz7rbaVSRxHFg.htm](conditionitems/AdPVz7rbaVSRxHFg.htm)|Fascinated|Fasciné|officielle|
-|[AJh5ex99aV6VTggg.htm](conditionitems/AJh5ex99aV6VTggg.htm)|Flat-Footed|Pris au dépourvu|officielle|
-|[D5mg6Tc7Jzrj6ro7.htm](conditionitems/D5mg6Tc7Jzrj6ro7.htm)|Encumbered|Surchargé|officielle|
+|[3uh1r86TzbQvosxv.htm](conditionitems/3uh1r86TzbQvosxv.htm)|Doomed|Condamné|changé|
+|[4D2KBtexWXa6oUMR.htm](conditionitems/4D2KBtexWXa6oUMR.htm)|Drained|Drainé|changé|
+|[6dNUvdb1dhToNDj3.htm](conditionitems/6dNUvdb1dhToNDj3.htm)|Broken|Brisé|changé|
+|[6uEgoh53GbXuHpTF.htm](conditionitems/6uEgoh53GbXuHpTF.htm)|Paralyzed|Paralysé|changé|
+|[9evPzg9E6muFcoSk.htm](conditionitems/9evPzg9E6muFcoSk.htm)|Unnoticed|Inaperçu|changé|
+|[9PR9y0bi4JPKnHPR.htm](conditionitems/9PR9y0bi4JPKnHPR.htm)|Deafened|Sourd|changé|
+|[9qGBRpbX9NEwtAAr.htm](conditionitems/9qGBRpbX9NEwtAAr.htm)|Controlled|Contrôlé|changé|
+|[AdPVz7rbaVSRxHFg.htm](conditionitems/AdPVz7rbaVSRxHFg.htm)|Fascinated|Fasciné|changé|
+|[AJh5ex99aV6VTggg.htm](conditionitems/AJh5ex99aV6VTggg.htm)|Flat-Footed|Pris au dépourvu|changé|
+|[D5mg6Tc7Jzrj6ro7.htm](conditionitems/D5mg6Tc7Jzrj6ro7.htm)|Encumbered|Surchargé|changé|
 |[dfCMdR4wnpbYNTix.htm](conditionitems/dfCMdR4wnpbYNTix.htm)|Stunned|Étourdi|changé|
 |[DmAIPqOBomZ7H95W.htm](conditionitems/DmAIPqOBomZ7H95W.htm)|Concealed|Masqué|changé|
 |[dTwPJuKgBQCMxixg.htm](conditionitems/dTwPJuKgBQCMxixg.htm)|Petrified|Pétrifié|changé|
@@ -39,7 +39,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kWc1fhmv9LBiTuei.htm](conditionitems/kWc1fhmv9LBiTuei.htm)|Grabbed|Agrippé/empoigné|changé|
 |[lDVqvLKA6eF3Df60.htm](conditionitems/lDVqvLKA6eF3Df60.htm)|Persistent Damage|Dégâts persistants|changé|
 |[MIRkyAjyBeXivMa7.htm](conditionitems/MIRkyAjyBeXivMa7.htm)|Enfeebled|Affaibli|changé|
-|[nlCjDvLMf2EkV2dl.htm](conditionitems/nlCjDvLMf2EkV2dl.htm)|Quickened|Accéléré|officielle|
+|[nlCjDvLMf2EkV2dl.htm](conditionitems/nlCjDvLMf2EkV2dl.htm)|Quickened|Accéléré|changé|
 |[sDPxOjQ9kx2RZE8D.htm](conditionitems/sDPxOjQ9kx2RZE8D.htm)|Fleeing|En fuite|changé|
 |[TBSHQspnbcqxsmjL.htm](conditionitems/TBSHQspnbcqxsmjL.htm)|Frightened|Effrayé|changé|
 |[TkIyaNPgTZFBCCuh.htm](conditionitems/TkIyaNPgTZFBCCuh.htm)|Dazzled|Ébloui|changé|

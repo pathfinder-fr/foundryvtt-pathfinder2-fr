@@ -1,12 +1,12 @@
 # État de la traduction (backgrounds)
 
- * **changé**: 156
- * **libre**: 13
- * **aucune**: 5
- * **officielle**: 19
+ * **libre**: 25
+ * **changé**: 140
+ * **officielle**: 24
+ * **aucune**: 4
 
 
-Dernière mise à jour: 2020-12-07 19:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-12-16 18:47 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -17,41 +17,40 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[lGXKBZYzT2IM69Yj.htm](backgrounds/lGXKBZYzT2IM69Yj.htm)|Pathfinder Recruiter|
 |[RuQNK9zaRqpe45H9.htm](backgrounds/RuQNK9zaRqpe45H9.htm)|Trailblazer|
 |[sPar7gD7KpbKcZLJ.htm](backgrounds/sPar7gD7KpbKcZLJ.htm)|Spell Seeker|
-|[tkA82BeDl8NJO8nF.htm](backgrounds/tkA82BeDl8NJO8nF.htm)|Ex-Con Token Guard|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[0EIhRniun8jfdPeN.htm](backgrounds/0EIhRniun8jfdPeN.htm)|Rostland Partisan|Partisan du Rost|changé|
-|[0qrZaukJ0aIoPx3P.htm](backgrounds/0qrZaukJ0aIoPx3P.htm)|Iolite Trainee Hobgoblin|Recrue iolite hobgobeline|changé|
+|[0EIhRniun8jfdPeN.htm](backgrounds/0EIhRniun8jfdPeN.htm)|Rostland Partisan|Partisan du Rost|libre|
+|[0qrZaukJ0aIoPx3P.htm](backgrounds/0qrZaukJ0aIoPx3P.htm)|Iolite Trainee Hobgoblin|Recrue iolite hobgobeline|libre|
 |[1bd25sY8k1moRcca.htm](backgrounds/1bd25sY8k1moRcca.htm)|Root Worker|Chasseur de racines|changé|
 |[1zyrJ5dQPKedoSfP.htm](backgrounds/1zyrJ5dQPKedoSfP.htm)|Razmiran Faithful|Croyant en Razmir|libre|
-|[2PfqXmTTdwWAJNoc.htm](backgrounds/2PfqXmTTdwWAJNoc.htm)|Diobel Pearl Diver|Pêcheur de perles de Diobel|changé|
-|[3ljseFp6UbDGmCNn.htm](backgrounds/3ljseFp6UbDGmCNn.htm)|Emancipated|Émancipé|changé|
+|[2PfqXmTTdwWAJNoc.htm](backgrounds/2PfqXmTTdwWAJNoc.htm)|Diobel Pearl Diver|Pêcheur de perles de Diobel|libre|
+|[3ljseFp6UbDGmCNn.htm](backgrounds/3ljseFp6UbDGmCNn.htm)|Emancipated|Émancipé|officielle|
 |[3w6cSTa3Zc4z2ygu.htm](backgrounds/3w6cSTa3Zc4z2ygu.htm)|Aspiring River Monarch|Aspirant Monarque du Fleuve|libre|
 |[4cYU0lSu5lDM9Qfc.htm](backgrounds/4cYU0lSu5lDM9Qfc.htm)|Harbor Guard Moonlighter|Noctambule de la Garde du port|changé|
-|[5DnDnoSyyd1UPyRV.htm](backgrounds/5DnDnoSyyd1UPyRV.htm)|Touched by Dahak|Touché par Dahak|changé|
-|[5eB5SefI6OlARL7q.htm](backgrounds/5eB5SefI6OlARL7q.htm)|Barrister|Avocat|changé|
-|[5KrCZHHMZmaM3FUl.htm](backgrounds/5KrCZHHMZmaM3FUl.htm)|Child of the Puddles|Marmot des flaques|changé|
-|[5PsnYGatgMEYy9xH.htm](backgrounds/5PsnYGatgMEYy9xH.htm)|Cursed Family|Famille maudite|changé|
+|[5DnDnoSyyd1UPyRV.htm](backgrounds/5DnDnoSyyd1UPyRV.htm)|Touched by Dahak|Touché par Dahak|libre|
+|[5eB5SefI6OlARL7q.htm](backgrounds/5eB5SefI6OlARL7q.htm)|Barrister|Avocat|officielle|
+|[5KrCZHHMZmaM3FUl.htm](backgrounds/5KrCZHHMZmaM3FUl.htm)|Child of the Puddles|Marmot des flaques|libre|
+|[5PsnYGatgMEYy9xH.htm](backgrounds/5PsnYGatgMEYy9xH.htm)|Cursed Family|Famille maudite|libre|
 |[5u7FKCHuWmscNe5i.htm](backgrounds/5u7FKCHuWmscNe5i.htm)|Secular Medic|Médecin séculier|changé|
-|[5vym5sPIxlDEEjGc.htm](backgrounds/5vym5sPIxlDEEjGc.htm)|Guard|Garde|changé|
+|[5vym5sPIxlDEEjGc.htm](backgrounds/5vym5sPIxlDEEjGc.htm)|Guard|Garde|officielle|
 |[64WHEiUYl5Bp9Rmo.htm](backgrounds/64WHEiUYl5Bp9Rmo.htm)|Artist|Artiste|officielle|
 |[6gFzKv1eBQJ1xaH9.htm](backgrounds/6gFzKv1eBQJ1xaH9.htm)|Winter's Child|Enfant de l'Hiver|changé|
 |[76WshSVCoyTq3SRF.htm](backgrounds/76WshSVCoyTq3SRF.htm)|Cultist|Cultiste|changé|
 |[7MKHFbZitRzTwiP0.htm](backgrounds/7MKHFbZitRzTwiP0.htm)|Dreamer of the Verdant Moon|Rêveur de la lune verdoyante|libre|
-|[7woKMTCFU4NC06l5.htm](backgrounds/7woKMTCFU4NC06l5.htm)|Aiudara Seeker|Chercheur d'aiudara|changé|
-|[8MoCaPm2wHF3r1yt.htm](backgrounds/8MoCaPm2wHF3r1yt.htm)|Trade Consortium Underling|Subalterne de consortium marchand|changé|
-|[8p0gfy5xzpFZRyaG.htm](backgrounds/8p0gfy5xzpFZRyaG.htm)|Freed Slave of Absalom|Esclave libéré d'Absalom|changé|
+|[7woKMTCFU4NC06l5.htm](backgrounds/7woKMTCFU4NC06l5.htm)|Aiudara Seeker|Chercheur d'aiudara|libre|
+|[8MoCaPm2wHF3r1yt.htm](backgrounds/8MoCaPm2wHF3r1yt.htm)|Trade Consortium Underling|Subalterne de consortium marchand|libre|
+|[8p0gfy5xzpFZRyaG.htm](backgrounds/8p0gfy5xzpFZRyaG.htm)|Freed Slave of Absalom|Esclave libéré d'Absalom|libre|
 |[8uc1ABJWOJ3gVCFD.htm](backgrounds/8uc1ABJWOJ3gVCFD.htm)|Mammoth Speaker|Porte parole mammouth|changé|
-|[8YFofTyVgpmNQpbz.htm](backgrounds/8YFofTyVgpmNQpbz.htm)|Ward|Pupille|changé|
-|[98YK8hpUVuDZCoAH.htm](backgrounds/98YK8hpUVuDZCoAH.htm)|Thassilonian Delver|Fouilleur du thassilon|changé|
-|[9d5Mo7qNSpDyKWzY.htm](backgrounds/9d5Mo7qNSpDyKWzY.htm)|Finadar Leshy|Léchi de Finadar|changé|
+|[8YFofTyVgpmNQpbz.htm](backgrounds/8YFofTyVgpmNQpbz.htm)|Ward|Pupille|libre|
+|[98YK8hpUVuDZCoAH.htm](backgrounds/98YK8hpUVuDZCoAH.htm)|Thassilonian Delver|Fouilleur du thassilon|libre|
+|[9d5Mo7qNSpDyKWzY.htm](backgrounds/9d5Mo7qNSpDyKWzY.htm)|Finadar Leshy|Léchi de Finadar|libre|
 |[9wfKz4tokaTWmHJg.htm](backgrounds/9wfKz4tokaTWmHJg.htm)|Merchant|Marchand|officielle|
-|[AbPoIrl7CUSenbL8.htm](backgrounds/AbPoIrl7CUSenbL8.htm)|Herbalist|Herboriste|changé|
-|[aiiZdNhGey0Ov8Lb.htm](backgrounds/aiiZdNhGey0Ov8Lb.htm)|Tapestry Refugee|Réfugié de la Tapisserie|changé|
-|[At7irukB3d0jzzad.htm](backgrounds/At7irukB3d0jzzad.htm)|Miner|Mineur|changé|
+|[AbPoIrl7CUSenbL8.htm](backgrounds/AbPoIrl7CUSenbL8.htm)|Herbalist|Herboriste|officielle|
+|[aiiZdNhGey0Ov8Lb.htm](backgrounds/aiiZdNhGey0Ov8Lb.htm)|Tapestry Refugee|Réfugié de la Tapisserie|libre|
+|[At7irukB3d0jzzad.htm](backgrounds/At7irukB3d0jzzad.htm)|Miner|Mineur|officielle|
 |[At7nhCMEu2i2bKj9.htm](backgrounds/At7nhCMEu2i2bKj9.htm)|Shoanti Name Bearer|Porteur de nom Shoanti|changé|
 |[Axidv6oBgolUazAt.htm](backgrounds/Axidv6oBgolUazAt.htm)|Pilgrim|Pélerin|changé|
 |[BtTJJZ84ffpYHebV.htm](backgrounds/BtTJJZ84ffpYHebV.htm)|Post Guard of All Trades|Garde du poste touche-à-tout|changé|
@@ -59,7 +58,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[byu7FHvqmhAwYZFf.htm](backgrounds/byu7FHvqmhAwYZFf.htm)|Laborer|Manoeuvre|changé|
 |[BZ0Myq87KqoyTOEP.htm](backgrounds/BZ0Myq87KqoyTOEP.htm)|Nomad|Nomade|officielle|
 |[c4Gcdcz5vDOc5NCk.htm](backgrounds/c4Gcdcz5vDOc5NCk.htm)|Quick|Rapide|changé|
-|[CFdKZFcCcBEPjG5v.htm](backgrounds/CFdKZFcCcBEPjG5v.htm)|Harrow-Led|Déterminé par le Tourment|libre|
+|[CFdKZFcCcBEPjG5v.htm](backgrounds/CFdKZFcCcBEPjG5v.htm)|Harrow-Led|Déterminé par le Tourment|changé|
 |[ckPq968bni6JxpA6.htm](backgrounds/ckPq968bni6JxpA6.htm)|Bounty Hunter|Chasseur de primes|officielle|
 |[CMswLSRLQ72tbu0u.htm](backgrounds/CMswLSRLQ72tbu0u.htm)|Geb Crusader|Croisé du Geb|changé|
 |[cxgUge0LLCMoI70S.htm](backgrounds/cxgUge0LLCMoI70S.htm)|Returning Descendant|Descendant de retour|changé|
@@ -115,7 +114,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[j9k6UFTgWs0c97R0.htm](backgrounds/j9k6UFTgWs0c97R0.htm)|Feybound|Engagé avec les fées|changé|
 |[JfOPdd8V2CuN9I9a.htm](backgrounds/JfOPdd8V2CuN9I9a.htm)|Bellflower Agent|Agent de la Campanule|changé|
 |[JH77p9uU187caJxX.htm](backgrounds/JH77p9uU187caJxX.htm)|Out-of-Towner|De passage|changé|
-|[JNCNUsussLP4NZfC.htm](backgrounds/JNCNUsussLP4NZfC.htm)|Returned|Ressuscité|libre|
+|[JNCNUsussLP4NZfC.htm](backgrounds/JNCNUsussLP4NZfC.htm)|Returned|Ressuscité|changé|
 |[JNSg5UvBKdIgLNJ6.htm](backgrounds/JNSg5UvBKdIgLNJ6.htm)|Issian Partisan|Partisan Issien|changé|
 |[JV5GjNjPuFWyTbw0.htm](backgrounds/JV5GjNjPuFWyTbw0.htm)|Wonder Taster|Goûteur de merveilles|changé|
 |[K12klGJogLLgGLIw.htm](backgrounds/K12klGJogLLgGLIw.htm)|Whispering Way Scion|Enfant de la Voie du Murmure|changé|
@@ -153,7 +152,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[pvqejr2ADrs9EoBM.htm](backgrounds/pvqejr2ADrs9EoBM.htm)|Molthuni Mercenary|Mercenaire du Molthune|changé|
 |[q0hK6ih6h42fL4yD.htm](backgrounds/q0hK6ih6h42fL4yD.htm)|Shory Seeker|Chercheur Rivain|changé|
 |[qHj5VrGgd0Gze9LL.htm](backgrounds/qHj5VrGgd0Gze9LL.htm)|Sleepless Suns Star|Étoile des soleils sans repos|changé|
-|[qhY96No3S3ulObtQ.htm](backgrounds/qhY96No3S3ulObtQ.htm)|Goblinblood Orphan|Orphelin du sang gobelin|changé|
+|[qhY96No3S3ulObtQ.htm](backgrounds/qhY96No3S3ulObtQ.htm)|Goblinblood Orphan|Orphelin des guerres du Sang gobelin|changé|
 |[QjEpaKn5x9INfcfY.htm](backgrounds/QjEpaKn5x9INfcfY.htm)|Atteran Rancher|Rancher Atteran|changé|
 |[QoE4PIIVn60tRxF4.htm](backgrounds/QoE4PIIVn60tRxF4.htm)|Street Urchin|Enfant des rues|changé|
 |[qxvr3Hbv9Olk1EZF.htm](backgrounds/qxvr3Hbv9Olk1EZF.htm)|Squire|Écuyer|changé|
@@ -174,6 +173,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ta0rSeD79D62uXy2.htm](backgrounds/Ta0rSeD79D62uXy2.htm)|Godless Graycloack|Cape grise athée|changé|
 |[TdEwgAZfOZ6fKGVM.htm](backgrounds/TdEwgAZfOZ6fKGVM.htm)|Martial Disciple|Disciple martial|officielle|
 |[TDmwsOqt37L35nx6.htm](backgrounds/TDmwsOqt37L35nx6.htm)|Former Aspis Agent|Ancien Agent de l'Aspis|changé|
+|[tkA82BeDl8NJO8nF.htm](backgrounds/tkA82BeDl8NJO8nF.htm)|Ex-Con Token Guard|Garde des Pièces ancien taulard|libre|
 |[tPKeIokrWhzzf8jg.htm](backgrounds/tPKeIokrWhzzf8jg.htm)|Noble|Noble|changé|
 |[Tqyybb0eKpwRHYwj.htm](backgrounds/Tqyybb0eKpwRHYwj.htm)|Magaambya Academic|Étudiant de Magaambya|changé|
 |[tSzyLCQbf8T7l0xt.htm](backgrounds/tSzyLCQbf8T7l0xt.htm)|Hermit|Ermite|changé|

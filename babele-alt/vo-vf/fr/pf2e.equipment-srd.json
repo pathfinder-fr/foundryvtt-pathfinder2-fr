@@ -247,6 +247,11 @@
             "description": "<div><strong>Armes</strong> faucille, fronde avec 20 billes, bâton</div>\n<div><strong>Equipement </strong> pack de l'aventurier, vêtement d'explorateur, poche de composants matériels</div>\n<div><strong>Options</strong> <a class=\"entity-link\" data-pack=\"pf2e.equipment-srd\" data-id=\"Yf7maiRDmmHAyF82\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Articles de cuisine</a> (1 gp), <a class=\"entity-link\" data-pack=\"pf2e.equipment-srd\" data-id=\"s1vB3HdXjMigYAnY\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Outils de guérisseur</a> (5 gp)</div>"
         },
         {
+            "id": "Sun Orchid Elixir",
+            "name": "Sun Orchid Elixir (Éllixir d'orchidée solaire)",
+            "description": "<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>&nbsp;Interagir</p>\n<p>Lorsque vous buvez cet élixir, vous redevenez physiquement tel que vous étiez à l’époque de votre jeunesse que vous désirez. Votre nouveau corps est au meilleur de sa santé, quelle que soit la condition physique qui était la vôtre lorsque vous aviez réellement cet âge. Vous êtes débarrassé de toute éventuelle imperfection physique ou mentale (y compris les cicatrices et les membres perdus ainsi que les malédictions, maladies et poisons de niveau 20 ou moins) et vous récupérez la totalité de vos points de vie. Vous commencez immédiatement à vieillir normalement, votre durée de vie naturelle s’étant étendue, comme si vous n’aviez pas encore dépassé l’âge qui est à présent celui de votre corps rajeuni. Vous conservez tous vos souvenirs.</p>\n<p>Contrairement à la Fabrication de la plupart des objets, il faut un mois pour distiller l’élixir d’orchidée solaire. Une fiole d’élixir d’orchidée solaire n’est pas unique, mais sa formule si et seul Artokus Kirran de Thuvie la connaît.</p>"
+        },
+        {
             "id": "Serene Mutagen (Moderate)",
             "name": "Serene Mutagen (Moderate) (Mutagène de sérénité (modéré))",
             "description": "Vous gagnez en sérénité intérieure, vous concentrant sur les détails et renforçant votre esprit contre les assauts mentaux, mais la violence vous rebute. Le bonus est de +2 ou +3 contre les effets mentaux et la durée de 10 min."
@@ -290,6 +295,11 @@
             "id": "Alchemist's Fire (Moderate)",
             "name": "Alchemist's Fire (Moderate) (Feu grégeois (modéré))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le feu grégeois est un mélange de liquides volatiles qui s’enflamment une fois exposés à l’air. Il inflige les dégâts de feu, les dégâts de feu persistants et les dégâts d’éclaboussure indiqués. Plusieurs types de bombes donnent un bonus d’objet aux jets d’attaque. /span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez un bonus d’objet de +1 aux jets d’attaque. Cette bombe inflige 2d8 dégâts de feu, 2 dégâts de feu persistants et 2 dégâts d’éclaboussure de feu. &nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Frapper</span></p>"
+        },
+        {
+            "id": "Final Blade",
+            "name": "Final Blade (Lame finale)",
+            "description": "<p>Qu’elle soit grande ou petite, entravée ou consentante, une créature peut être exécutée par une lame finale. Puisqu’il s’agit d’un artefact, une lame finale ne peut être endommagée que par des méthodes très spécifiques.</p>\n<p><strong>Activation</strong> 1 minute (Interagir)</p>\n<p><strong>Effet</strong> Vous exécutez une créature @Compendium[pf2e.conditionspf2e.VcDeM8A5oI6VqhbM]{entravée} sous la lame. La créature exécutée subit 11d10 dégâts tranchants et doit réussir un jet de Vigueur DD 45 ou être décapitée comme si elle avait reçu un coup critique avec un 20 naturel d’une faux vorpale de frappe majeure +3. L’âme d’une créature exécutée par une lame finale est piégée et la créature ne peut être ramenée à la vie d’aucune façon, même par un @Compendium[pf2e.spells-srd.YfJTXyVGzLhM6V8U]{Miracle} ou une magie similaire. Une lame finale peut contenir un nombre infini d’âmes obtenues de cette façon et ces dernières ne peuvent être libérées que par un rituel complexe que seuls les Jardiniers gris connaissent, ou par la destruction de la lame finale.</p>"
         },
         {
             "id": "Exquisite Sword Cane Sheath",
@@ -470,6 +480,11 @@
             "id": "Gloom Blade",
             "name": "Gloom Blade (Lame obscure)",
             "description": "<p>Aussi noire que le charbon, cette lame gagne en puissance dans l’obscurité. Dans une zone de lumière vive, elle fonctionne comme une épée courte +1 et ne semble émettre aucune aura magique si on l’examine avec une détection de la magie ou des sorts similaires, sauf si ces sorts sont de niveau 4 ou plus.&nbsp;&nbsp;</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Dans une zone de ténèbres ou de lumière faible, la lame obscure devient une épée courte de frappe +2. Chaque fois que vous utilisez la lame obscure pour attaquer une créature vis‑à‑vis de laquelle vous êtes non détecté, vous infligez 1d6 dégâts de précision supplémentaires. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Pour améliorer les runes fondamentales de la lame obscure, commen‑ cez par l’épée courte +1 de base, mais si vous l’améliorez au‑delà d’une épée courte de frappe +2, les runes s’appliquent égale‑ ment dans une zone de ténèbres ou de lumière faibles.</span></p>"
+        },
+        {
+            "id": "Blessed Tattoo",
+            "name": "Blessed Tattoo (Tatouage de bénédiction)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">D</span> imaginer, Interagir</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<hr>\n<p><strong>Effet</strong> Vous gagnez l’effet de @Compendium[pf2e.spells-srd.gMODOGamz88rgHuf]{Protection} contre le mal.</p>\n<p>Vous pouvez activer le tatouage par une réaction, plutôt qu’une activité demandant deux actions, déclenchée lorsqu’un démon vous attaque ou lorsque vous faites un jet de sauvegarde contre un pouvoir de démon.</p>"
         },
         {
             "id": "Blowgun",
@@ -669,7 +684,7 @@
         {
             "id": "Refined Pesh",
             "name": "Refined Pesh (Pesh raffiné)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsqu'il est mangé ou fumé, le pesh donne aux utilisateurs un sentiment de bien-être, parfois accompagné d'hallucinations, d'agressivité et d'épuisement.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 12; <strong>Délai</strong> 1 minute; <strong>Durée maximum</strong> 6 heures; <strong>Stade 1</strong> stupefié 1 et bonus d'objet +2 aux jets de sauvegarde contre la peur (1 minute); <strong>Stade 2</strong> 1 point de vie temporaire par niveau (La première fois, vous atteignez seulement ce stade), bonus d'objet +2 aux jets de sauvegarde contre la peur (1 minute), étourdi 1 et stupefié 1 (1 minute); <strong>Stage 3</strong> étourdi 2 et stupefié 2 (1 heure)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
+            "description": "<p>Lorsqu'il est mangé ou fumé, le pesh donne aux utilisateurs un sentiment de bien-être, parfois accompagné d'hallucinations, d'agressivité et d'épuisement.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</span></p>\n<p><strong>Jet de sauvegarde</strong> Vigueur DD 12</p>\n<p><strong>Délai</strong> 1 minute/p>\n<p><strong>Durée maximum</strong> 6 heures </p>\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 1 et bonus d’objet de +2 aux jets de sauvegarde contre la terreur (1 minute)</p>\n<p><strong>Stade 2</strong> 1 point de vie temporaire par niveau (Seilement la première fois que vous atteignez ce stade), bonus d'objet +2 aux jets de sauvegarde contre la terreur (1 minute), @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 1 et Stupefié 1 (1 minute)</p>\n<p><strong>Stade 3</strong> Maladroit 2 et Stupefié 2 (1 heure)<br></span></p>"
         },
         {
             "id": "Healer's Tools",
@@ -828,8 +843,8 @@
         },
         {
             "id": "Aeon Stone (Black Pearl)",
-            "name": "Aeon Stone (Black Pearl) (Pierre d'éternité (noir perle))",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette perle noir brille à la lumière. Le pouvoir résonant vous permet de lancer @Compendium[pf2e.spells-srd.R9xqCBblkS5KE4y7]{Communication à distance} une fois par jour.&nbsp;<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> imaginer; <strong>Déclencheur</strong> Vous êtes la cible d'un effet mental ; <strong>Effet</strong> Vous recevez un bonus de statut de +4 à votre jet de sauvegarde contre l'effet déclencheur. Qu'il soit réussi ou non, la pierre d'éternité tente un test de Contresort à +30 pour renvoyer immédiatement une copie de l'effet à l'envoyeur, le ciblant en utilisant les statistiques adéquates de ce dernier mais contrôlant l'effet comme si vous l'aviez lancé. <br>Chaque fois que vous activez cette pierre d'éternité, tentez un test nu contre un DD 5. En cas d'échec, la pierre se fend et perd à jamais ses propriétés magiques.</span></p>"
+            "name": "Aeon Stone (Black Pearl) (Pierre d'éternité (Perle noire))",
+            "description": "<p>Cette perle noire est éclairée par une lumière qui la fait étinceler. Le pouvoir de résonance vous permet de lancer <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.spells-srd\" data-id=\"R9xqCBblkS5KE4y7\">communication à distance</a> une fois par jour.</p>\n<hr>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">R</span> imaginer</p>\n<p><strong>Déclencheur</strong> Vous êtes la cible d'un effet mental \n<p><strong>Effet</strong> Vous gagnez un bonus de statut de +4 à votre jet de sauvegarde contre l’effet déclencheur. Que vous réussissiez ou non votre jet, la pierre d’éternité fait un test de contre +30 pour Renvoyer immédiatement le même effet à son lanceur, et cible ce dernier en utilisant les statistiques concernées de cette créature mais en contrôlant l’effet comme si c’était vous qui l’aviez lancé.</p>\n<p>Chaque fois que vous Activez cette pierre d’éternité, faites un test nu DD 5. Si vous échouez, la pierre vole en éclats et perd ses propriétés magiques pour toujours.</p>\n<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.spell-effects\" data-id=\"p2aGtovaY1feytws\"> Effet: Pierre d'éternité (Perle noire)</a></p>"
         },
         {
             "id": "Force Shield",
@@ -1057,6 +1072,11 @@
             "description": "<p>&nbsp;Cette épée en forme d'éventail, conçue par des membres de l'héritage tengu, possède cinq larges lames qui se rejoignent au niveau du pommeau. Les marins tengu utilisent aussi des lames tempêtes comme expédients de biroutes, puisque l'épée ploie dans la direction du vent lorsqu'ils sont tenus de manière relâchée.</p>"
         },
         {
+            "id": "Silver Buckler (High-Grade)",
+            "name": "Silver Buckler (High-Grade) (targe en argent de haute qualité)",
+            "description": "<p>Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu'on les utilise pour frapper.</p>\n<hr>\n<p>Le bouclier a une Solidité de 6, 24 PV et un SR de 12.</p>\n<p><strong>Conditions de fabrication</strong> au moins 2 500 po d'argent</p>\n<p>&nbsp;</p>"
+        },
+        {
             "id": "Belt of Giant Strength",
             "name": "Belt of Giant Strength (Ceinture de force de géant)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette ceinture de cuir épais est ornée d’une boucle en forme de poing sculptée dans du quartz étincelant. Vous bénéficiez d’un bonus d’objet de +3 aux tests d’Athlétisme et un bonus de circonstances de +2 aux tests d’Athlétisme pour soulever des objets lourds, S’échapper et Ouvrir de force. Quand vous investissez la ceinture, soit vous augmen‑ tez de 2 votre valeur de Force, soit vous l’augmentez à 18, selon ce qui vous procure la valeur la plus élevée. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> Interagir; <strong>Déclencheur</strong> Vous êtes la cible d’une attaque de lancer de rocher ou un rocher est sur le point de tomber sur vous  <strong>Effet</strong> Faites un test d’Athlétisme pour attraper le rocher déclen‑ cheur. Utilisez le DD d’Athlétisme de la créature qui lance le rocher, du danger ou de l’effet en question, ou DD 35 si aucun autre DD n’est applicable. Vous devez avoir une main de libre pour attraper le rocher mais vous pouvez Relâcher ce que vous tenez dans une main au cours de cette réaction.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Succès</strong> Vous attrapez le rocher sans subir de dégâts et vous le tenez maintenant en main. <br><strong>Echec</strong> Vous subissez la moitié des dégâts. <br><strong>Échec critique</strong> Vous subissez la totalité des dégâts.</span></p>"
@@ -1110,6 +1130,11 @@
             "id": "Necklace of Fireballs I",
             "name": "Necklace of Fireballs I (Collier à boules de feu I)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce collier de perles se compose d’une ficelle de chanvre sur laquelle sont enfilées des perles chatoyantes rouges. Quand il est activé, il ap‑ paraît brièvement sous sa véritable forme : une chaîne d’or ornée de sphères d’or attachées avec du fil fin.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Il existe toute une variété de colliers à boules de feu. Chacun a un DD du jet de Réflexes basique différent et se compose d’une combinaison de sphères qui infligent un montant de dégâts différent, comme indiqué pour chaque type de collier ci‑après. Quand toutes les perles ont été utilisées, le collier n’est plus qu’un morceau de ficelle en chanvre non magique. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir; <strong>Effet</strong>  Vous détachez une sphère du collier et celle‑ci commence à émettre une lueur orangée. Après avoir activé une sphère, si vous ou quelqu’un d’autre la lance (une action Interagir avec le trait à distance), elle explose comme une boule de feu là où elle retombe. Votre lancer peut placer le centre de la boule de feu où vous le souhaitez à 21 m ou moins de vous, mais le MJ peut vous demander de faire un jet d’attaque si le lancer est particulièrement difficile. Si personne ne lance la sphère avant le début de votre prochain tour, celle‑ci devient une perle rouge non magique.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Une à 6d6, deux à 4d6 (DD 21</span></p>"
+        },
+        {
+            "id": "Darkwood Tower Shield (High-Grade)",
+            "name": "Darkwood Tower Shield (High-Grade) (pavois en ébénite de haute qualité)",
+            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr>\n<p><span><strong>Conditions de fabrication</strong> au moins 5 600 po d'ébénite</span></p>"
         },
         {
             "id": "Savior Spike",
@@ -1220,6 +1245,11 @@
             "id": "Gold urn with scenes of judgment",
             "name": "Gold urn with scenes of judgment (Urne doré portant des scènes de jugement)",
             "description": ""
+        },
+        {
+            "id": "Cold Iron Buckler (High-Grade)",
+            "name": "Cold Iron Buckler (High-Grade) (targe en fer froid de haute qualité)",
+            "description": "<p><span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu'on les utilise pour frapper.</span></p>\n<p><span><span>Le bouclier a une Solidité de 8, 32 PV et un SR de 16.&nbsp;</span><br><strong>Conditions de fabrication</strong> au moins&nbsp;</span>2500 po<span>&nbsp;de fer froid</span></p>"
         },
         {
             "id": "Silver Ingot",
@@ -1527,6 +1557,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette propriété rend glissante l’armure, comme si elle était recouverte d’une fine couche d’huile. Vous bénéficiez d’un bonus d’objet de +1 aux tests d’Acrobaties pour Vous échapper et Vous faufiler.&nbsp;</span></p>"
         },
         {
+            "id": "Cold Iron Shield (High-Grade)",
+            "name": "Cold Iron Shield (High-Grade) (bouclier en fer froid de haute qualité)",
+            "description": "<p><span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu'on les utilise pour frapper.</span></p>\n<p>Le bouclier a une Solidité de 10, 40 PV et un SR de 20.</p>\n<hr>\n<p><strong>Conditions de fabrication</strong> au moins 2 750 po de fer froid</p>"
+        },
+        {
             "id": "Fire Poi",
             "name": "Fire Poi (Poï enflammé)",
             "description": "<p><span>Ces poï particuliers sont faits d'un métal léger et rare ou de fibres retardant le feu et peuvent être allumées avant d'être maniées. Allumer une paire de poï enflammés nécessite une action @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} et 1 demi-litre @Compendium[pf2e.equipment-srd.Du05UxCyCM0ZWH8z]{d'huile}> par tranche de 10 minutes durant laquelle le poï reste allumé. Lorsqu'il est enflammé, le poï diffuse une lumière dans un rayon de 3m; en combat, ils infligent 1d4 dégâts contondants et 1d4 dégâts de feu. Sur un coup critique avec un poï de feu allumé, la cible tsubit 1 @Compendium[pf2e.conditionspf2e.lDVqvLKA6eF3Df60]{dégât Persistant} de feu. Le feu peut être éteint en utilisant l'action Interagir. Lorsqu'il n'est pas allumé, le poï inflige seulement les dégâts contondants indiqués. Qu'il soit ou non allumé, les dégâts 1d4 contondants du poï sont les dés de dégâts de l'arme, ainsi les runes <em>de frappe</em> et les autres effets n'affectent pas les dégâts de feu.&nbsp;</span></p>"
@@ -1654,12 +1689,12 @@
         {
             "id": "Alarm Snare",
             "name": "Alarm Snare (Piège artisanal d'alarme)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous créez un système d’alarme en reliant un ou plusieurs objets bruyants à un fil de détente ou à une plaque de pression. Quand vous créez une alarme, vous désignez une portée entre 30 et 150 m qui in‑ dique jusqu’où on peut l’entendre. Quand une créature de Petite taille ou plus grande entre dans la case, le piège artisanal fait suffisamment de bruit pour que toutes les créatures à portée l’entendent.&nbsp;</span></p>"
+            "description": "<p>Vous créez un système d’alarme en reliant un ou plusieurs objets bruyants à un fil de détente ou à une plaque de pression. Quand vous créez une alarme, vous désignez une portée entre 30 et 150 m qui in‑ dique jusqu’où on peut l’entendre. Quand une créature de Petite taille ou plus grande entre dans la case, le piège artisanal fait suffisamment de bruit pour que toutes les créatures à portée l’entendent</p>"
         },
         {
             "id": "Bestial Mutagen (Lesser)",
-            "name": "Bestial Mutagen (Lesser) (Mutgène bestial)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos traits prennent un air bestial et votre masse musculaire se développe, mais cette forme massive est maladroite. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Avantage.</strong> Vous gagnez un bonus d’objet aux tests d’Athlétisme et aux jets d’attaque à mains nues. Vous gagnez une attaque à mains nues de griffes avec le trait agile et une attaque à mains nues de mâchoires.Vous gagnez un bonus d’objet de +1, vos griffes infligent 1d4 dégâts tranchants, vos mâchoires 1d6 dégâts perforants et la durée est de 1 min.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Inconvénient.</strong> Vous subissez un malus de −1 à la CA et de −2 aux jets de Réflexes.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activate</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interact</span></p>"
+            "name": "Bestial Mutagen (Lesser) (Mutagène bestial (inférieur))",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<hr>Vos traits prennent un air bestial et votre masse musculaire se développe, mais cette forme massive est maladroite.</p>\n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet aux tests d’Athlétisme et aux jets d’attaque à mains nues. Vous gagnez une attaque à mains nues de griffes avec le trait agile et une attaque à mains nues de mâchoires. Vous gagnez un bonus d’objet de +1, vos griffes infligent [[/r 1d4 #tranchants]] dégâts tranchants, vos mâchoires [[/r 1d6 #perforants]] dégâts perforants et la durée est de 1 min.</p>\n<p><strong>Inconvénient.</strong> Vous subissez un malus de −1 à la CA et de −2 aux jets de Réflexes.</p>\n<p>@Compendium[pf2e.spell-effects.fIpzDpuwLdIS4tW5]{Effet: Mutagène bestial (inférieur)}</p>"
         },
         {
             "id": "Sardonyx",
@@ -1938,8 +1973,8 @@
         },
         {
             "id": "Aldori Dueling Sword",
-            "name": "Aldori Dueling Sword (Épée de duel aldori)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une épée de duel Aldori est une lame de duel fine à tranchant unique formant une légère courbe et disposant d'une pointe aguisée et renforcée.&nbsp;</span></p>"
+            "name": "Aldori Dueling Sword (Épée de duel aldorie)",
+            "description": "<p>Une épée de duel aldorie est une arme fine à un seul tranchant, légèrement courbée et dotée d’une pointe renforcée et aiguisée.</p>"
         },
         {
             "id": "Bo Staff",
@@ -2048,7 +2083,7 @@
         },
         {
             "id": "Sturdy Shield (Moderate)",
-            "name": "Sturdy Shield (Moderate) (Bouclier renfocé (modéré))",
+            "name": "Sturdy Shield (Moderate) (Bouclier renforcé (modéré))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 13, 104 PV et un SR de 52.&nbsp;</span></p>"
         },
         {
@@ -2120,6 +2155,11 @@
             "id": "Spinel, red or green",
             "name": "Spinel, red or green (Spinelle, rouge ou verte)",
             "description": ""
+        },
+        {
+            "id": "Mithral Buckler (High-Grade)",
+            "name": "Mithral Buckler (High-Grade) (targe en mithral de haute qualité)",
+            "description": "<p><span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.&nbsp;</span></p>\n<p><span>Le bouclier a une solidité de 6, 24 PV et un SR de 12.<br /><strong>Conditions de fabrication</strong> au moins 4 000 po de mithral</span></p>"
         },
         {
             "id": "Berserker's Cloak",
@@ -2373,8 +2413,8 @@
         },
         {
             "id": "Jellyfish Lamp",
-            "name": "Jellyfish Lamp (Lampe méduse)",
-            "description": "<p><span>Ces méduses bioluminescentes sont aussi brillantes que des bougies, existent en différentes couleurs et peuvent agir comme des lanternes vivantes. Elles se dessèchent et meurent si elles sont retirées de l'eau pendant plus d'une heure, mais tant qu'elles ont accès à l'eau de mer, elles peuvent généralement survivre jusqu'à un an en se nourrissant de micronutriments. Rarement, une lampe à méduses bien traitée peut vivre plus longtemps et développer une lumière plus forte ou des capacités supplémentaires.&nbsp;</span></p>"
+            "name": "Jellyfish Lamp (Méduse lumineuse)",
+            "description": "<p>Ces méduses bioluminescentes de diverses couleurs éclairent autant que des bougies et peuvent donc servir de lanternes vivantes. Elles se dessèchent et meurent si elles passent plus d’une heure en dehors de l’eau, mais du moment qu’elles ont accès à de l’eau de mer elles peuvent survivre jusqu’à un an en se nourrissant de micronutriments. Bien que cela soit rare, il est possible qu’une méduse lumineuse bien traitée vive plus longtemps et développe une lumière plus forte voire même des capacités supplémentaires.</p>"
         },
         {
             "id": "Primal Scroll Case of Simplicity",
@@ -2470,6 +2510,11 @@
             "id": "Hand of the Mage",
             "name": "Hand of the Mage (Main du mage)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette main d’elfe momifiée est accrochée à une chaîne en or, ses doigts tordus figés dans une position particulière. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">  sur ordre, imaginer; <strong>Effet</strong> Vous lancez manipulation à distance.</span></p>"
+        },
+        {
+            "id": "Darkwood Shield (High-Grade)",
+            "name": "Darkwood Shield (High-Grade) (bouclier en ébénite de haute qualité)",
+            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr>\n<p><span><strong>Conditions de fabrication</strong> au moins 4 400 po d'ébénite</span></p>"
         },
         {
             "id": "Light Hammer",
@@ -3050,6 +3095,11 @@
             "id": "Copper Dragon's Breath Potion (Young)",
             "name": "Copper Dragon's Breath Potion (Young) (Potion de souffle du jeune dragon de cuivre)",
             "description": "<p>Ce liquide contient du sang d’un jeune dragon de cuivre. Pendant 1 h après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait feu. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte une ligne de 9m de dégâts d'acide. Le souffle d'un jeune dragon de bronze inflige 4d6 dégâts d'acide et chaque créature dans la zone touchée doit faire un jet de réflexes basique DD 23. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds. </p>"
+        },
+        {
+            "id": "Archaic Wayfinder",
+            "name": "Archaic Wayfinder (Guide archaïque)",
+            "description": "<p><strong>Activation</strong> Lancer un sort</p>\n<p>Un guide archaïque fonctionne comme un compas et peut servir de réceptacle pour un tour de magie lancé sur lui. Pour remplir un guide archaïque, un incantateur doit lancer le tour de magie choisi dans l’outil vide, en payant le prix nécessaire ; le sort ne doit pas pouvoir être lancé en utilisant une action gratuite ou une réaction.</p>\n<p>L’activation d’un guide archaïque fonctionne comme l’incantation du sort concerné. Une fois le sort activé, le guide est à nouveau vide. Un guide archaïque peut contenir une pierre d’éternité et activer son pouvoir de résonance. Un guide archaïque est considéré comme un guide normal en ce qui concerne la limite maximale concernant le nombre de guides et de pierres d’éternité vous offrant leur pouvoir de résonnance.</p>"
         },
         {
             "id": "Disguise Kit (Replacement Cosmetics)",
@@ -4232,6 +4282,11 @@
             "description": "Les composés enzymatiques de cet élixir renforcent et excitent les muscles de vos jambes. Vous gagnez un bonus de statut à la Vitesse pour la durée indiquée. Le bonus est de +3 m et la durée de 1 h"
         },
         {
+            "id": "Golden Legion Epaulet",
+            "name": "Golden Legion Epaulet (Épaulette de la Légion dorée)",
+            "description": "<p>Ces épaulettes dorées étincelantes sont délivrées aux officiers des chevaliers de l’Aigle et font partie de leur uniforme. Même si elle peut être enchantée pour procurer une certaine variété d’effets, l’épaulette de la Légion dorée demeure la plus commune</p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> (sur ordre)</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Effet</strong> Vous, et tout allié à moins de 18 m qui suit l’ordre, gagnez un bonus de statut de +1 à vos jets d’attaque,\nvos jets de dégâts et vos jets de sauvegarde contre la peur jusqu’au début de votre prochain tour.</p>"
+        },
+        {
             "id": "Crying Angel Pendant",
             "name": "Crying Angel Pendant (Pendentif de l'ange en pleurs)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque vous activez ce pendentif d’albâtre, votre échec critique se mue en échec normal.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> Imaginer; <strong>Déclencheur</strong> Vous faites un échec critique en Prodiguant les premiers soins ;  <strong>Conditions</strong> Vous êtes qualifié en Médecine. </span></p>"
@@ -4550,6 +4605,11 @@
             "id": "Alchemist's Lab",
             "name": "Alchemist's Lab (Laboratoire d’alchimie)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Il vous faut un laboratoire d’alchimie pour créer des objets alchimiques lors d’un intermède. Un laboratoire d’alchimie complet vous donne un bonus d’objet de +1 aux tests d’Artisanat pour fabriquer des objets alchimiques.&nbsp;</span></p>"
+        },
+        {
+            "id": "Silver Shield (High-Grade)",
+            "name": "Silver Shield (High-Grade) (bouclier en argent de haute qualité)",
+            "description": "<p>Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu'on les utilise pour frapper.</p>\n<hr>\n<p>Le bouclier a une Solidité de 8, 32 PV et un SR de 16.</p>\n<p><strong>Conditions de fabrication</strong> au moins 2 750 po d'argent</p>"
         },
         {
             "id": "Dragonplate",
@@ -5002,6 +5062,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une rune <em>anarchique</em>, asymétrique et aux bords déchiquetés, canalise de l’énergie chaotique. Une arme avec cette rune inflige 1d6 dégâts chaotiques supplémentaires aux cibles d’alignement loyal. Si vous êtes d’alignement loyal, vous êtes affaibli 2 tant que vous portez ou maniez cette arme.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous obtenez un succès critique en Frappant une créature d’alignement loyal avec cette arme, lancez 1d6. Sur un 1 ou 2, vous infligez le double des dégâts minimums ; sur un 3 ou 4, doublez les dégâts normalement ; sur un 5 ou 6, vous infligez le double des dégâts maximums. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Vous êtes d’alignement chaotique.</span></p>"
         },
         {
+            "id": "Mithral Shield (High-Grade)",
+            "name": "Mithral Shield (High-Grade) (bouclier en mithral de haute qualité)",
+            "description": "<p><span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.&nbsp;</span></p>\n<p><span>Le bouclier a une solidité de 8, 32 PV et un SR de 16.<br><strong>Conditions de fabrication</strong> au moins 4 400 po de mithral&nbsp;</span></p>"
+        },
+        {
             "id": "Bag of Holding (Type I)",
             "name": "Bag of Holding (Type I) (Sac sans fond (type1))",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Bien que ce sac en tissu orné de panneaux de soie aux riches cou‑ leurs ou de belles broderies ait l’air ordinaire, il ouvre sur un espace extradimensionnel bien plus grand que ce que pourrait contenir son enveloppe extérieure. L’Encombrement contenu dans le sac sans fond ne change pas son Encombrement à lui. La quantité d’Encombrement qu’il peut accueillir dépend de son type. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez Interagir avec le sac sans fond pour mettre un objet dedans ou le retirer, comme avec un sac ordinaire. Le sac a une grande contenance, mais pour y stocker un objet, il faut qu’il passe par son ouverture. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si le sac est surchargé ou brisé, il se déchire et est détruit, les objets qu’il contient étant perdus à jamais. S’il est mis sur l’envers, les objets qu’il contient se répandent à terre, intacts, mais il faut le remettre sur l’endroit avant de le réutiliser. Une créature vivante placée dans le sac a assez d’air pour respirer 10 min, ensuite elle commence à suffoquer. Elle peut faire un test DD 13 pour S’échapper. Un objet contenu dans le sac n’offre aucun avantage, il faut le sortir. La magie qui détecte les choses sur le même plan que l’incantateur ne détecte pas un objet dans le sac. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Capacité</strong> 25 encombrements</span></p>"
@@ -5042,6 +5107,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouquet de houx et de gui constellé de baies ne se fane pas et ne pourrit pas. Il peut servir de focaliseur primordial et donne un bonus d’objet de +1 aux tests de Nature à celui qui le tient.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/10 minutes; <strong>Effet</strong>  Vous pressez une baie et étalez son jus sur un bâton ou un gourdin non magique pour lui lancer gourdin magique @Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]{Shillelagh}.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>Vous pouvez nouer le bouquet autour de votre poignet et toucher un arbre pour lancer morphologie d’arbre   @Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Tree Shape} sur vous‑ même, sauf que vous devenez une plante grimpante sur l’arbre touché et non un arbre.</span></p>"
         },
         {
+            "id": "Darkwood Shield (Standard-Grade)",
+            "name": "Darkwood Shield (Standard-Grade) (Bouclier en ébénite de qualité standard)",
+            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.</p>\n<hr>\n<p><span><strong>Conditions de fabrication</strong> au moins 55 po d'ébénite</span></p>"
+        },
+        {
             "id": "Healing Potion (Moderate)",
             "name": "Healing Potion (Moderate) (Potion de guérison (modéré))",
             "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez le nombre de points de vie indiqué. La potion rend 3d8+10 points de vie. </p>"
@@ -5070,6 +5140,11 @@
             "id": "Halberd",
             "name": "Halberd (Hallebarde)",
             "description": "<p>Cette arme d’hast possède un manche relativement court de 1,5 m. Son extrémité dangereuse est une longue pointe attachée avec une lame de hache.</p>"
+        },
+        {
+            "id": "Darkwood Buckler (High-Grade)",
+            "name": "Darkwood Buckler (High-Grade) (targe en ébénite de haute qualité)",
+            "description": "<p>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).</p>\n<p>Le bouclier a une Solidité de 6, 24 PV et un SR de 12.</p>\n<hr>\n<p><strong>Conditions de fabrication</strong> au moins 4 000 po d'ébénite</p>"
         },
         {
             "id": "Jet and white gold game set",
@@ -5310,6 +5385,11 @@
             "id": "Light Pick",
             "name": "Light Pick (Pic de guerre léger)",
             "description": "<p>Un pic de guerre léger est un outil minier modifié, avec un manche en bois se terminant par une tête de pioche, conçu pour perforer l’armure et la chair plutôt que briser les rochers.</p>"
+        },
+        {
+            "id": "Darkwood Tower Shield (Standard-Grade)",
+            "name": "Darkwood Tower Shield (Standard-Grade) (Pavois en ébénite de qualité standard)",
+            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.</p>\n<hr>\n<p><span><strong>Conditions de fabrication</strong> au moins 70 po d'ébénite</span></p>"
         },
         {
             "id": "Fine gold spyglass",
