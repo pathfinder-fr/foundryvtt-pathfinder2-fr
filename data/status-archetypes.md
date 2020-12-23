@@ -1,10 +1,12 @@
 # État de la traduction (archetypes)
 
- * **aucune**: 63
- * **changé**: 12
+ * **aucune**: 59
+ * **changé**: 10
+ * **libre**: 4
+ * **officielle**: 2
 
 
-Dernière mise à jour: 2020-12-16 18:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-12-23 11:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -22,7 +24,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[akmaoP0StWvIv3jb.htm](archetypes/akmaoP0StWvIv3jb.htm)|Oracle|
 |[bDP7kO6bnQh6no0C.htm](archetypes/bDP7kO6bnQh6no0C.htm)|Bright Lion|
 |[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|
-|[Bl0KM29OOlwBegCi.htm](archetypes/Bl0KM29OOlwBegCi.htm)|Familiar Master|
 |[Buptz08MArCtY41w.htm](archetypes/Buptz08MArCtY41w.htm)|Investigator|
 |[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|
 |[cEiMI4QGqjv69pJ6.htm](archetypes/cEiMI4QGqjv69pJ6.htm)|Herbalist|
@@ -56,7 +57,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[RvjlaAPa2Wkdhrms.htm](archetypes/RvjlaAPa2Wkdhrms.htm)|Horizon Walker|
 |[s7kWIaeCdj3IFte9.htm](archetypes/s7kWIaeCdj3IFte9.htm)|Jalmeri Heavenseeker|
 |[SAyPnVRucJa8k4MN.htm](archetypes/SAyPnVRucJa8k4MN.htm)|Witch|
-|[SbvhfCo5gFVt1DgD.htm](archetypes/SbvhfCo5gFVt1DgD.htm)|Acrobat|
 |[SJi2cicLd7R2FInl.htm](archetypes/SJi2cicLd7R2FInl.htm)|Viking|
 |[TdoPhja8JA9C2Itm.htm](archetypes/TdoPhja8JA9C2Itm.htm)|Linguist|
 |[ThxMkphglPJuweXB.htm](archetypes/ThxMkphglPJuweXB.htm)|Celebrity|
@@ -68,10 +68,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[XATPzPTZ9Je89erT.htm](archetypes/XATPzPTZ9Je89erT.htm)|Golem Grafter|
 |[xFjXKdIkA574QRkv.htm](archetypes/xFjXKdIkA574QRkv.htm)|Scroll Trickster|
 |[XZwGLLgC1sIKlR1c.htm](archetypes/XZwGLLgC1sIKlR1c.htm)|Staff Acrobat|
-|[YBvXmJ5e9MThdws0.htm](archetypes/YBvXmJ5e9MThdws0.htm)|Firebrand Braggart|
 |[YJQJxskQf8VqDt8G.htm](archetypes/YJQJxskQf8VqDt8G.htm)|Provocator|
 |[yvb2pY3Qb7Jl35hk.htm](archetypes/yvb2pY3Qb7Jl35hk.htm)|Magaambyan Attendant|
-|[z5yvyY2HfIRgwGnO.htm](archetypes/z5yvyY2HfIRgwGnO.htm)|Eldrich Archer|
 |[zv31F34JgUesREuz.htm](archetypes/zv31F34JgUesREuz.htm)|Marshal|
 |[ZvIreFl9TXgrj52Q.htm](archetypes/ZvIreFl9TXgrj52Q.htm)|Beastmaster|
 
@@ -82,12 +80,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4xzvjFVytFA0LIYj.htm](archetypes/4xzvjFVytFA0LIYj.htm)|Living Monolith|Monolithe vivant|changé|
 |[5zILvODoiQC34tWU.htm](archetypes/5zILvODoiQC34tWU.htm)|Blessed One|Élu divin|changé|
 |[678FjGfCmxuNbNhe.htm](archetypes/678FjGfCmxuNbNhe.htm)|Lion Blade|Lame du Lion|changé|
+|[Bl0KM29OOlwBegCi.htm](archetypes/Bl0KM29OOlwBegCi.htm)|Familiar Master|Maître familier|libre|
 |[cnsq5cXgQu4FXnoZ.htm](archetypes/cnsq5cXgQu4FXnoZ.htm)|Aldori Duelist|Duelliste Aldori|changé|
 |[DeixUOfwL7Bruad5.htm](archetypes/DeixUOfwL7Bruad5.htm)|Red Mantis Assassin|Assassin des Mantes rouges|changé|
 |[JiRqSMv1STETLwSP.htm](archetypes/JiRqSMv1STETLwSP.htm)|Student of Perfection|Étudiant en Perfection|changé|
-|[LYYDozZfXok19VYW.htm](archetypes/LYYDozZfXok19VYW.htm)|Hellknight Armiger|Écuyer des chevaliers infernaux|changé|
+|[LYYDozZfXok19VYW.htm](archetypes/LYYDozZfXok19VYW.htm)|Hellknight Armiger|Écuyer des chevaliers infernaux|officielle|
 |[MJ2EBeAVkc61mznR.htm](archetypes/MJ2EBeAVkc61mznR.htm)|Archer|Archer|changé|
 |[myvFp45VnA2FPOvG.htm](archetypes/myvFp45VnA2FPOvG.htm)|Archaeologist|Archéologue|changé|
 |[RyjrUkqSIg52Mjl8.htm](archetypes/RyjrUkqSIg52Mjl8.htm)|Runescarred|Scarifié des runes|changé|
+|[SbvhfCo5gFVt1DgD.htm](archetypes/SbvhfCo5gFVt1DgD.htm)|Acrobat|Acrobate|libre|
 |[Utxq3fo8AoPyfh4K.htm](archetypes/Utxq3fo8AoPyfh4K.htm)|Lastwall Sentry|Sentinelle du Dernier-Rempart|changé|
-|[xNzNpPjeNSrXE7WG.htm](archetypes/xNzNpPjeNSrXE7WG.htm)|Crystal Keeper|Gardien des cristaux|changé|
+|[xNzNpPjeNSrXE7WG.htm](archetypes/xNzNpPjeNSrXE7WG.htm)|Crystal Keeper|Gardien des cristaux|officielle|
+|[YBvXmJ5e9MThdws0.htm](archetypes/YBvXmJ5e9MThdws0.htm)|Firebrand Braggart|Agitateur vantard|libre|
+|[z5yvyY2HfIRgwGnO.htm](archetypes/z5yvyY2HfIRgwGnO.htm)|Eldrich Archer|Archer mystique|libre|

@@ -1,23 +1,13 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 25
+ * **libre**: 29
  * **changé**: 140
  * **officielle**: 24
- * **aucune**: 4
 
 
-Dernière mise à jour: 2020-12-16 18:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2020-12-23 11:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[45DuRopZt9dTJo3a.htm](backgrounds/45DuRopZt9dTJo3a.htm)|Translator|
-|[lGXKBZYzT2IM69Yj.htm](backgrounds/lGXKBZYzT2IM69Yj.htm)|Pathfinder Recruiter|
-|[RuQNK9zaRqpe45H9.htm](backgrounds/RuQNK9zaRqpe45H9.htm)|Trailblazer|
-|[sPar7gD7KpbKcZLJ.htm](backgrounds/sPar7gD7KpbKcZLJ.htm)|Spell Seeker|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -29,6 +19,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2PfqXmTTdwWAJNoc.htm](backgrounds/2PfqXmTTdwWAJNoc.htm)|Diobel Pearl Diver|Pêcheur de perles de Diobel|libre|
 |[3ljseFp6UbDGmCNn.htm](backgrounds/3ljseFp6UbDGmCNn.htm)|Emancipated|Émancipé|officielle|
 |[3w6cSTa3Zc4z2ygu.htm](backgrounds/3w6cSTa3Zc4z2ygu.htm)|Aspiring River Monarch|Aspirant Monarque du Fleuve|libre|
+|[45DuRopZt9dTJo3a.htm](backgrounds/45DuRopZt9dTJo3a.htm)|Translator|Traducteur|libre|
 |[4cYU0lSu5lDM9Qfc.htm](backgrounds/4cYU0lSu5lDM9Qfc.htm)|Harbor Guard Moonlighter|Noctambule de la Garde du port|changé|
 |[5DnDnoSyyd1UPyRV.htm](backgrounds/5DnDnoSyyd1UPyRV.htm)|Touched by Dahak|Touché par Dahak|libre|
 |[5eB5SefI6OlARL7q.htm](backgrounds/5eB5SefI6OlARL7q.htm)|Barrister|Avocat|officielle|
@@ -123,6 +114,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[KUcgqmbOnKiNdKru.htm](backgrounds/KUcgqmbOnKiNdKru.htm)|Grizzled Muckrucker|Fangeux grisonnant|changé|
 |[l1yFuSDrHiylStW1.htm](backgrounds/l1yFuSDrHiylStW1.htm)|Sally Guard Neophyte|Néophyte de la Garde des Percées|changé|
 |[lGMSYgWqZrg2SaTH.htm](backgrounds/lGMSYgWqZrg2SaTH.htm)|Fortune Teller|Voyant|officielle|
+|[lGXKBZYzT2IM69Yj.htm](backgrounds/lGXKBZYzT2IM69Yj.htm)|Pathfinder Recruiter|Recruteur des Éclaireurs|libre|
 |[lMF9dnqUeCDED0TG.htm](backgrounds/lMF9dnqUeCDED0TG.htm)|Animal Wrangler|Soigneur animalier|changé|
 |[LPZmM7UnWddi80gB.htm](backgrounds/LPZmM7UnWddi80gB.htm)|Mystic Seer|Voyant mystique|libre|
 |[ltRrwn4OZcc5FC1G.htm](backgrounds/ltRrwn4OZcc5FC1G.htm)|Reputation Seeker|En quête de renommée|changé|
@@ -163,12 +155,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rm9HYArb07JFDwjv.htm](backgrounds/rm9HYArb07JFDwjv.htm)|Scholar|Érudit|changé|
 |[RnH0Uo9vIJM68jZv.htm](backgrounds/RnH0Uo9vIJM68jZv.htm)|Wildwood Local|Habitué des bois|changé|
 |[RsBbawZlgqkMh4Un.htm](backgrounds/RsBbawZlgqkMh4Un.htm)|Ulfen Raider|Raider ulfe|changé|
+|[RuQNK9zaRqpe45H9.htm](backgrounds/RuQNK9zaRqpe45H9.htm)|Trailblazer|Pionnier|libre|
 |[s3QsxcuSmGTjMTZN.htm](backgrounds/s3QsxcuSmGTjMTZN.htm)|Amnesiac|Amnésique|changé|
 |[SbAaSeBHTmQ3xU8X.htm](backgrounds/SbAaSeBHTmQ3xU8X.htm)|Final Blade Survivor|Survivant de la Lame finale|changé|
 |[sdPE9bha7IOb4O8i.htm](backgrounds/sdPE9bha7IOb4O8i.htm)|Butcher|"Boucher"|changé|
 |[shwAcaWydDHBqR1X.htm](backgrounds/shwAcaWydDHBqR1X.htm)|Osirionologist|Osirionologiste|changé|
 |[skqghxn3svID1dyU.htm](backgrounds/skqghxn3svID1dyU.htm)|Bright Lion|Lion brillant|changé|
 |[SMqKFHj0Ut6j3NNo.htm](backgrounds/SMqKFHj0Ut6j3NNo.htm)|Haunting Vision|Hanté par une vision|changé|
+|[sPar7gD7KpbKcZLJ.htm](backgrounds/sPar7gD7KpbKcZLJ.htm)|Spell Seeker|Chercheur de sorts|libre|
 |[T6nf9vQKWzHui59P.htm](backgrounds/T6nf9vQKWzHui59P.htm)|Lost and Alone|Perdu et seul|changé|
 |[Ta0rSeD79D62uXy2.htm](backgrounds/Ta0rSeD79D62uXy2.htm)|Godless Graycloack|Cape grise athée|changé|
 |[TdEwgAZfOZ6fKGVM.htm](backgrounds/TdEwgAZfOZ6fKGVM.htm)|Martial Disciple|Disciple martial|officielle|
