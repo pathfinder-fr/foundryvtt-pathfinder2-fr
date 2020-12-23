@@ -39,8 +39,14 @@ for p in packs:
       'name': getValue(obj, p['paths']['name']), 
       'desc': getValue(obj, p['paths']['desc'], False, ""), 
       'type1': getValue(obj, p['paths']['type1']) if 'type1' in p['paths'] else None,
-      'type2': getValue(obj, p['paths']['type2'], False) if 'type2' in p['paths'] else None
+      'type2': getValue(obj, p['paths']['type2'], False) if 'type2' in p['paths'] else None,
+      'lists': {}
     }
+    
+    ## additional lists
+    if "lists" in p:
+      for key in p["lists"]:
+        entries[obj['_id']]['lists'][key] = getList(obj, p["lists"][key], True)
   
   # ==============================
   # search for duplicates in names
@@ -90,9 +96,10 @@ for p in packs:
         print("Status error for : %s" % filepath);
         exit(1)
         
-      if not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']):
+      if not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']):
         existing[id]['nameEN'] = source['name']
         existing[id]['descrEN'] = source['desc']
+        existing[id]['listsEN'] = source['lists']
         
         if existing[id]['status'] != "aucune" and existing[id]['status'] != "changé":
           existing[id]['oldstatus'] = existing[id]['status']
@@ -125,7 +132,9 @@ for p in packs:
           'nameFR': "",
           'status': 'aucune',
           'descrEN': source['desc'],
-          'descrFR': "" }
+          'descrFR': "",
+          'listsEN': source['lists'],
+          'listsFR': {} }
         dataToFile(data, filepath)
     
     

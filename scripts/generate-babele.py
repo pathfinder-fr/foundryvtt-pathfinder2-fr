@@ -12,6 +12,17 @@ BABELE_VF_VO="../babele-alt/vf-vo/fr/"
 BABELE_VO_VF="../babele-alt/vo-vf/fr/"
 BABELE_VO="../babele-alt/vo/fr/"
 
+
+#
+# cette fonction ajoute dynamiquement les champs de listes
+#
+def addLists(pack, data, entry):
+  if "lists" in pack and "listsFR" in data:
+    for k in pack["lists"]:
+      if len(data["listsFR"][k]) > 0:
+        entry[k.lower()] = data["listsFR"][k]
+
+
 packs = getPacks()
 translations = {}
 
@@ -24,12 +35,19 @@ for p in packs:
   path = "../data/%s/" % p["id"]
   all_files = os.listdir(path)
 
-  babele     = { 'label': packName, 'entries': [] }
-  babeleVfVo = { 'label': packName, 'entries': [] }
-  babeleVoVf = { 'label': packName, 'entries': [] }
-  babeleVo   = { 'label': packName, 'entries': [] }
+  babele     = { 'label': packName, 'entries': [], 'mapping': {} }
+  babeleVfVo = { 'label': packName, 'entries': [], 'mapping': {} }
+  babeleVoVf = { 'label': packName, 'entries': [], 'mapping': {} }
+  babeleVo   = { 'label': packName, 'entries': [], 'mapping': {} }
 
   count = { "aucune": 0, "libre": 0, "officielle": 0, "changé": 0, "doublon": 0 }
+  
+  if "lists" in p:
+    for k in p["lists"]:
+      babele['mapping'][k.lower()] = p["lists"][k]
+      babeleVfVo['mapping'][k.lower()] = p["lists"][k]
+      babeleVoVf['mapping'][k.lower()] = p["lists"][k]
+      babeleVo['mapping'][k.lower()] = p["lists"][k]
   
   # read all files in folder
   for fpath in all_files:
@@ -56,19 +74,22 @@ for p in packs:
       print("Skipping invalid entry %s" % path + fpath)
       continue
         
-    # default (all translations in french
+    # default (all translations in french)
     entry = { 'id': data['nameEN'], 'name': data['nameFR'], 'description': data['descrFR'] }
+    addLists(p, data, entry)
     babele['entries'].append(entry)
-    # vf-vo
+    # vf-vo (names in both languages, vf first)
     entry = { 'id': data['nameEN'], 'name': ("%s (%s)" % (data['nameFR'], data['nameEN'])), 'description': data['descrFR'] }
+    addLists(p, data, entry)
     babeleVfVo['entries'].append(entry)
-    # vo-vf
+    # vo-vf (names in both languages, vo first)
     entry = { 'id': data['nameEN'], 'name': ("%s (%s)" % (data['nameEN'], data['nameFR'])), 'description': data['descrFR'] }
     babeleVoVf['entries'].append(entry)
-    # vo
+    # vo (only descriptions in french)
     entry = { 'id': data['nameEN'], 'name': data['nameEN'], 'description': data['descrFR'] }
     babeleVo['entries'].append(entry)
 
+  print(BABELE + key + ".json")
   with open(BABELE + key + ".json", 'w', encoding='utf-8') as f:
     json.dump(babele, f, ensure_ascii=False, indent=4)
   with open(BABELE_VF_VO + key + ".json", 'w', encoding='utf-8') as f:
@@ -83,7 +104,6 @@ for p in packs:
   print(" - Traduits: %d (officielle) %d (libre)" % (count["officielle"], count["libre"]));
   print(" - Changé: %d" % count["changé"]);
   print(" - Non-traduits: %d" % count["aucune"]);
-
 
 
 # ==========================

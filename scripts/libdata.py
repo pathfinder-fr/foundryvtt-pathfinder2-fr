@@ -9,7 +9,7 @@ import json
 
 SUPPORTED = {
   "spells":                         { 'transl': "Sorts", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" } },
-  "feats":                          { 'transl': "Dons",  "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" } },
+  "feats":                          { 'transl': "Dons",  "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" }, "lists": { 'Prereq' : "data.prerequisites.value" } },
   "equipment":                      { 'transl': "Équipement", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" } },
   "conditionspf2e":                 { 'transl': "Conditions", "paths": { 'name': "name", 'desc': "content" } },
   "conditionitems":                 { 'transl': "Conditions", "paths": { 'name': "name", 'desc': "data.description.value" } },
@@ -53,8 +53,8 @@ def getPacks():
     
     if p['id'] in SUPPORTED:
       packs.append({ **p, **SUPPORTED[p['id']]})
-    else:
-      print("Skippping %s" % p["id"])
+#    else:
+#      print("Skippping %s" % p["id"])
       
   return packs;
 
@@ -63,13 +63,30 @@ def getPacks():
 # (ignore les retours à la ligne)
 #
 def equals(val1, val2):
-  return val1.replace('\n','').replace('\r', '').strip() == val2.replace('\n','').replace('\r', '').strip()
+  if isinstance(val1, dict) and isinstance(val2, dict):
+    keys1 = list(val1.keys())
+    keys2 = list(val2.keys())
+    if len(keys1) != len(keys2):
+      return False
+    # comparer le contenu de chaque clé
+    for k in keys1:
+      if not k in keys2:
+        return False
+      # contenu est une liste
+      # retirer les vides des listes
+      list1 = [e.strip() for e in val1[k] if len(e.strip()) > 0]
+      list2 = [e.strip() for e in val2[k] if len(e.strip()) > 0]
+      if list1 != list2:
+        return False
+    return True
+  else:
+    return val1.replace('\n','').replace('\r', '').strip() == val2.replace('\n','').replace('\r', '').strip()
 
 #
 # cette fonction tente une extraction d'une valeur dans un objet
 # Ex: data.level.value => obj["data"]["level"]["value"]
 #
-def getValue(obj, path, exitOnError = True, defaultValue = None):
+def getObject(obj, path, exitOnError = True):
   element = obj
   for p in path.split('.'):
     if p in element:
@@ -79,8 +96,13 @@ def getValue(obj, path, exitOnError = True, defaultValue = None):
       exit(1)
     else:
       print("Path %s not found for %s!" % (path, obj['name']))
-      return defaultValue
+      return None
   
+  return element
+
+
+def getValue(obj, path, exitOnError = True, defaultValue = None):
+  element = getObject(obj, path, exitOnError)
   if element is None:
     return defaultValue
   elif isinstance(element, int):
@@ -97,6 +119,18 @@ def getValue(obj, path, exitOnError = True, defaultValue = None):
   else:
     return element
 
+def getList(obj, path, exitOnError = True):
+  element = getObject(obj, path, exitOnError)
+  if element is None:
+    return []
+  elif not isinstance(element, list):
+    if exitOnError:
+      print("Element at '%s' is not a list! %s" % (path, element))
+      exit(1)
+    return []
+  else:
+    return element
+
 #
 # cette fonction extrait l'information d'un fichier
 #
@@ -109,13 +143,12 @@ def fileToData(filepath):
     with open(filepath, 'r') as f:
       content = f.readlines()
       
-    nameEN = ""
-    nameFR = ""
     descrEN = ""
     descrFR = ""
-    status = ""
     isDescEN = False  
-    isDescFR = False  
+    isDescFR = False
+    listsEN = {}
+    listsFR = {}
     
     match = re.search('(\w{16})\.htm', filepath)
     if not match:
@@ -140,15 +173,33 @@ def fileToData(filepath):
         isDescFR = True
         isDescEN = False
         continue
+      elif not isDescEN and not isDescFR and len(line.strip()) > 0:
+        sep = line.find(":")
+        if sep < 0:
+          print("Invalid data '%s' in file %s " % (line, filepath));
+          exit(1)
+        key = line[0:sep-2]
+        lang = line[sep-2:sep]
+        value = line[sep+1:].strip()
+        liste = [e.strip() for e in value.split('|')]
+        liste = [e.strip() for e in liste if len(e.strip()) > 0]
+        if lang == "EN": 
+          listsEN[key] = liste
+        elif lang == "FR":
+          listsFR[key] = liste
+        else:
+          print("Invalid key '%s' in file %s " % (key, filepath));
+          exit(1)        
       
       if isDescEN:
         descrEN += line
       elif isDescFR:
         descrFR += line
       
-      
     data['descrEN'] = descrEN.strip()
     data['descrFR'] = descrFR.strip()
+    data['listsEN'] = listsEN
+    data['listsFR'] = listsFR
     
   else:
     print("Invalid path: %s" % filepath)
@@ -168,6 +219,12 @@ def dataToFile(data, filepath):
   with open(filepath, 'w') as df:
     df.write('Name: ' + data['nameEN'] + '\n')
     df.write('Nom: ' + data['nameFR'] + '\n')
+    
+    if data['listsEN']:
+      for key in data['listsEN']:
+        df.write("%sEN: %s\n" % (key, "|".join(data['listsEN'][key])))
+        df.write("%sFR: %s\n" % (key, "|".join(data['listsFR'][key]) if key in data['listsFR'] else "" ))
+    
     df.write('État: ' + data['status'] + '\n')
     if 'oldstatus' in data:
       df.write('État d\'origine: ' + data['oldstatus'] + '\n')
