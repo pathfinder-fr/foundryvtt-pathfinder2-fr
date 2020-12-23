@@ -5826,5 +5826,6 @@
             "name": "Skeleton Key (Greater)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un crâne ricanant couronne la tige de cette clef macabre. Elle remplace les outils de voleur pour Crocheter une serrure et donne un bonus d’objet de +2 aux tests de Vol. Si le passe-partout se brise suite à un échec critique sur le test, il fonctionne comme des outils de voleur normaux et perd ses avantages jusqu’à ce qu’il soit réparé. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> Interagir; <strong>Fréquence</strong> 1/heure; <strong> Déclencheur</strong> Vous tentez de Crocheter une serrure mais n’avez pas encore lancé le dé;<strong>Effet</strong>  La clef lance déblocage  @Compendium[pf2e.spells-srd.6Ot4N22t5tPD51BO]{Knock} on the&nbsp;lock you’re trying to pick.</span></p>"
         }
-    ]
+    ],
+    "mapping": {}
 }

@@ -3016,5 +3016,6 @@
             "name": "Forme de la mante",
             "description": "<p>Vous devenez une mante. Vous gagnez les effets de @Compendium[pf2e.spells-srd.XI6Lzd2B5pernkPd]{forme d’insecte}, intensifié au niveau de forme de mante et vous pouvez vous transformer uniquement en mante.</p>"
         }
-    ]
+    ],
+    "mapping": {}
 }

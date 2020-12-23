@@ -176,5 +176,6 @@
             "name": "Torag - Bénédiction majeure (Torag - Major Boon)",
             "description": "<p><strong>Bénédiction majeure</strong> En ce qui vous concerne, veiller ou garder un lieu est comme du repos, vous évitant d'être @Compendium[pf2e.conditionspf2e.HL2l2VRSaQHu9lUw]{Fatigué} à cause d'un manque de repos tant que vous gardez pendant au moins 6 heures par jour.</p>\n<p>Vous pouvez récupérer vos Points de focalisation (si vous en avez) en montant la garde en plus de toute autre option qui vous serait accessible.</p>\n<p>Lorsque vous êtes en garde, vous obtenez un bonus de statut de +4 à la Perception pour remarquer les embusaces ou les autres dangers en approche.</p>\n<p>Tant que vous portez un bouclier, vous êtes toujours sur vos gardes durant l'exploration sans avoir besoin de voyager à la moitié de votre vitesse de déplacement et vous pouvez accomplir une autre activité d'exploration en même temps.</p>\n<p>Lorsque vous utilisez un bouclier, sa Solidité augmente de 5.</p>"
         }
-    ]
+    ],
+    "mapping": {}
 }

@@ -966,5 +966,6 @@
             "name": "Comptable",
             "description": "<p>Vous vous occupez de nombre à grande échelle, pour les besoins d'un marchand ou avec une guilde majeure de la ville. Vous gardiez trace des dépenses, des livres de paie, des profits et de tout ce qui à trait à l'argent, pour le meilleur et pour le pire. Pour le meilleur, vous pourriez être parti à l'aventure pour apprendre comment d'autres pratiquent ce métier. Si c'est pour le pire, vous pourriez fuir les conséquences prochaines, dans l'espoir que personne ne vous trouve.</p>\n<p>Choisissez deux primes de caractéristiques. L'une doit être d'<strong>Intelligence</strong> ou de <strong>Sagesse</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié dans la compétence Société et ern Connaissance de la Comptabilité. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.0N8TtGSk5enoLBZ8]{Œil pour les nombres}.</span></p>"
         }
-    ]
+    ],
+    "mapping": {}
 }

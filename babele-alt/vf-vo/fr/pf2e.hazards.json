@@ -221,5 +221,6 @@
             "name": "Éboulis traître (Treacherous Scree)",
             "description": "Marcher sur cette déclivité apparaît stable au premier coup d'oeil, mais les petites pierres qui la recouvrent sont assez lâches et prompts à glisser.</p>"
         }
-    ]
+    ],
+    "mapping": {}
 }

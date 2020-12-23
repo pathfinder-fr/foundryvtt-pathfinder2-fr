@@ -211,5 +211,6 @@
             "name": "Shield Block (Blocage au bouclier)",
             "description": "<p><strong>Déclencheur</strong> Le monstre a équipé son bouclier et il subit des dégâts infligés par une attaque physique.</p>\n<p><strong>Effet</strong> Le monstre lève vivement son bouclier afin de dévier le coup. Le bouclier permet au monstre d’éviter de subir une quantité de dégâts égale à sa Solidité. Le monstre et le bouclier subissent les dégâts restants et l’objet court le risque d’être brisé ou détruit.</p>"
         }
-    ]
+    ],
+    "mapping": {}
 }

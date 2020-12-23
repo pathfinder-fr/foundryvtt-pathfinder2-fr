@@ -26,5 +26,6 @@
             "name": "Won a Competition (Vainqueur d'une compétition)",
             "description": "<p><span>Vous vous êtes distingué très tôt lorsque vous avez gagné une compétition. Clea pourrait avoir été un concours de lutte, une démonstration d'apprentis magiciens, de paris aux enjeux élevés ou quelque chose de plus ordinaire, comme un concours de gros mangeur.<br></span></p>\n<p><span>Ajoutez @Compendium[pf2e.feats-srd.7LB00jkh6JaJr3vS]{Représentation fascinante} à vos options d'historique.</span></p>"
         }
-    ]
+    ],
+    "mapping": {}
 }

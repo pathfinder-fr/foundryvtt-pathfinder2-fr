@@ -486,5 +486,6 @@
             "name": "Aasimar (Aasimar)",
             "description": "<p>Vous descendez des célestes ou avez été touché par les royaumes célestes, obtenant une expression d'émerveillement et de grace, ainsi que des traits distincts liés à votre ascendance céleste. Vous obtenez le trait aasimar, en plus des traits de votre héritage. Vous obtenez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou vous gagnez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage avait déjà vision nocturne. Vous pouvez choisir parmi les dons d'aasimar ou parmi les dons de votre héritage lorsque vous obtenez un don d'héritage.</p>"
         }
-    ]
+    ],
+    "mapping": {}
 }

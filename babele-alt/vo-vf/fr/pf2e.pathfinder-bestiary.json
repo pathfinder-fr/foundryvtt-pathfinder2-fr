@@ -2071,5 +2071,6 @@
             "name": "Giant Animated Statue (Statue animée géante)",
             "description": "Comme pour les statues animées humanoïdes de taille Moyenne, les statues animées géantes sont utilisées pour protéger des sites importants mais leur grande taille et leur plus grande puissance font qu’elles sont plus utiles dans de grandes chambres fortes, dans des salles spacieuses et à l’extérieur. Les objets animés ayant cette force et cette taille sont parfaits pour les tâches généralement effectuées par des golems et, a priori, il n’en existe pas de plus puissants.<br><br>"
         }
-    ]
+    ],
+    "mapping": {}
 }
