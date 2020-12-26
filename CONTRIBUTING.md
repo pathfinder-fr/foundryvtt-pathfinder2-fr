@@ -14,10 +14,10 @@ S'ouvre alors un éditeur sur lequel vous trouverez un fichier comprenant plusie
 * **PrereqFR:** Ici vous devrez remplir en  indiquant les prérequis traduit. S'il y en a plusieurs, vous devre les séparer avec une barre verticale qui s'obtient en appuyant sur AltGr+6.
 **État:** S'il est inscrit aucune, c'est que le fichier n'a jamais été traduit. Si vous faites la traduction, vous remplacez aucune par libre ; si vous réemployez la traduction officielle effectuée par BBE en français, vous remplacez par officielle 
 
-* ------ Description (en) ------
+* ------ **Description (en)** ------
 suivie d'un texte en anglais, comprenant une mise en forme avec des balises de code.
 
-* ------ Description (en) ------
+* ------ **Description (en)** ------
 S'il n'existe aucune traduction, ce champ est vide et vous devrez le remplir.
 ** soit vous disposez de la traduction officielle. Alors vous la copier et replacez les balises existantes en anglais.
 ** Soit vous ne disposez pas de la traduction officielle. Alors vous traduisez en vous aidant au besoin du Dictionnaire, notamment pour les mots qui font l'objet d'une balise dans la traduction anglaise.
