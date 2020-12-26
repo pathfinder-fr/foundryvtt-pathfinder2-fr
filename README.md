@@ -6,10 +6,12 @@ Le module améliore le système pathfinder2 pour le français.
 ## Traducteurs
 
 * Les fichiers à traduire se trouvent dans le répertoire [data](data/)
+
 * Chaque fichier correspond à une entrée à traduire
-  * Pour chaque fichier, il faut inscrire le nom et la description en se basant sur les textes d'origine (en anglais)
-  * Ne pas supprimer les textes d'orgine!
+  * Pour chaque fichier, vous disposez de plusieurs champs en anglais et en français.
+  * Ne pas supprimer les textes d'origine qui doivent rester inchangés! (ils permettent la comparaison entre deux mises à jour pour prendre en compte les évolutions)
   * Voir [data/instructions.md](data/instructions.md) pour plus d'instructions concernant les fichiers de traduction
+
 * Pour voir l'état d'avancement des traductions:
   * [capacités d'héritage](data/status-ancestryfeatures.md)
   * [Historiques](data/status-backgrounds.md)
@@ -33,9 +35,9 @@ Pour appliquer les traductions, il faut installer le module Babele et pointer ve
 * Enjoy!
 
 ## Ressources utiles
-[Glossaire](https://docs.google.com/spreadsheets/d/1MmY9rB7EU1yjpPmmoDdqgawiA46fetS_NBCC0Ay7zsw/edit#gid=508492121)
+À partir des traductions, l'extraction complète au fil du temps un [Glossaire](data/dictionnaire.md) qui permet de disposer du nom en anglais, du nom en français et de l'ID (le nom du fichier qui permet d'en faire un lien réutilisable)
 
 ## Bugs de la vo
 Les erreurs dans les textes en vo peuvent être remontées sur le projet de Hooking en créant une "issue". Le mieux est de donner le numéro du fichier, suivie de sa traduction et indiquer en quoi il est incorrect
 
-À jour au 10 juillet 2020
+À jour au 26 décembre 2020
