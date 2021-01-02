@@ -1,15 +1,16 @@
 # État de la traduction (pathfinder-society-boons)
 
- * **aucune**: 110
+ * **aucune**: 115
 
 
-Dernière mise à jour: 2020-12-23 16:10 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-02 15:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[0CqkYRFUlb0tB9li.htm](pathfinder-society-boons/0CqkYRFUlb0tB9li.htm)|S1-23 - Seasoned Diplomat|
 |[0FwLrQb5EeQDAUNW.htm](pathfinder-society-boons/0FwLrQb5EeQDAUNW.htm)|Naturalist|
 |[0izXWwYqRGQq74mG.htm](pathfinder-society-boons/0izXWwYqRGQq74mG.htm)|S1-07 - Blast from the Past|
 |[0QRG6TAVwCWL2Zr8.htm](pathfinder-society-boons/0QRG6TAVwCWL2Zr8.htm)|Heroic Inspiration|
@@ -31,6 +32,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9w8TdCsGEpttXYuy.htm](pathfinder-society-boons/9w8TdCsGEpttXYuy.htm)|Mentor, Worldly|
 |[aG5cua0K2SlurXxw.htm](pathfinder-society-boons/aG5cua0K2SlurXxw.htm)|Promotional Accessory|
 |[awcOD618fuXZN3rh.htm](pathfinder-society-boons/awcOD618fuXZN3rh.htm)|Practiced Medic|
+|[B7fDgC6tcv41lcP7.htm](pathfinder-society-boons/B7fDgC6tcv41lcP7.htm)|S1-Q11 - Amateur Genealogist|
 |[bcsusUErwGQYHj6d.htm](pathfinder-society-boons/bcsusUErwGQYHj6d.htm)|Multicultural Training|
 |[BEaLe5M23Q7LKTLL.htm](pathfinder-society-boons/BEaLe5M23Q7LKTLL.htm)|Wayfinder, Adamant|
 |[bMp6W5kPNyqBoOxm.htm](pathfinder-society-boons/bMp6W5kPNyqBoOxm.htm)|Charitable Adventure|
@@ -56,6 +58,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[hxp0fDMrB7BT3y3T.htm](pathfinder-society-boons/hxp0fDMrB7BT3y3T.htm)|S1-15 - Finadar Leshy|
 |[hy1gMMpRmujuw8i4.htm](pathfinder-society-boons/hy1gMMpRmujuw8i4.htm)|Leader By Example|
 |[ig06ikA6rnNP1JUb.htm](pathfinder-society-boons/ig06ikA6rnNP1JUb.htm)|S1-01 - Society Connections|
+|[iRLU5DTWY16HIqcc.htm](pathfinder-society-boons/iRLU5DTWY16HIqcc.htm)|S1-22 - Doom Averted|
 |[J1hUP5SI4MJvlK36.htm](pathfinder-society-boons/J1hUP5SI4MJvlK36.htm)|Mentor, Skillful|
 |[jzJ575vAsw2MaRgo.htm](pathfinder-society-boons/jzJ575vAsw2MaRgo.htm)|Envoy's Alliance Champion|
 |[JznxnYTs38GYpW1p.htm](pathfinder-society-boons/JznxnYTs38GYpW1p.htm)|S1-14 - Big Game Hunter|
@@ -78,6 +81,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[opaFl76Nbz1dITLz.htm](pathfinder-society-boons/opaFl76Nbz1dITLz.htm)|Secondary Initiation|
 |[P1sdPHrbAfqrEAM3.htm](pathfinder-society-boons/P1sdPHrbAfqrEAM3.htm)|S1-01 - Engraved Wayfinder|
 |[p8TKPInhya6oab1w.htm](pathfinder-society-boons/p8TKPInhya6oab1w.htm)|S1-19 - Iolite Trainee Hobgoblin|
+|[PbEqXHWiyzii4g8T.htm](pathfinder-society-boons/PbEqXHWiyzii4g8T.htm)|S1-25 - Grand Finale|
 |[ph7CO8ong1sZmrNc.htm](pathfinder-society-boons/ph7CO8ong1sZmrNc.htm)|Horizon Hunters Champion|
 |[prHShOQxNpLXwlss.htm](pathfinder-society-boons/prHShOQxNpLXwlss.htm)|S1-Q04 - Fane's Friend|
 |[PXtBhRVHM28angjV.htm](pathfinder-society-boons/PXtBhRVHM28angjV.htm)|Mentor, Protective|
@@ -87,6 +91,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rFgWvC1UADsavY5J.htm](pathfinder-society-boons/rFgWvC1UADsavY5J.htm)|Resist Corruption|
 |[RGSw5tAc4ALp97Qe.htm](pathfinder-society-boons/RGSw5tAc4ALp97Qe.htm)|S1-Q04 - Stella's Associate|
 |[RJYIefY9Skx8CAgw.htm](pathfinder-society-boons/RJYIefY9Skx8CAgw.htm)|S1-Q09 - Wayfinder Connections|
+|[RLzWznPsb2VpbxTy.htm](pathfinder-society-boons/RLzWznPsb2VpbxTy.htm)|S1-Q12 - Fruit Basket|
 |[sBXsfT0uYltF8TFE.htm](pathfinder-society-boons/sBXsfT0uYltF8TFE.htm)|Hireling|
 |[Sc9gT40T28tFhSzq.htm](pathfinder-society-boons/Sc9gT40T28tFhSzq.htm)|Horizon Hunters Champion, Improved|
 |[SDDbh7KmDn5HUbst.htm](pathfinder-society-boons/SDDbh7KmDn5HUbst.htm)|Promotional Vestments|

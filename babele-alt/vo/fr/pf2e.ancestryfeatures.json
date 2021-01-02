@@ -39,7 +39,7 @@
         {
             "id": "Taloned Tengu",
             "name": "Taloned Tengu",
-            "description": "<p><span id=\"docs-internal-guid-86da5438-7fff-95ca-40da-9c43890897f2\"></span></p>\n<p dir=\"ltr\">Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque à mains nues d'ergots qui infligent deals [[/r 1d4 #slashing]] dégâts tranchants. Vos ergots font partie du groupe pugilat et possèdent les traits agile, finesse, à mains nues et polyvalent perforant.</p>"
+            "description": "<p>Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque à mains nues d'ergots qui infligent deals <a class=\"inline-roll roll\" title=\"tranchants\" data-mode=\"roll\" data-flavor=\"tranchants\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a> dégâts tranchants. Vos ergots font partie du groupe pugilat et possèdent les traits agile, finesse, à mains nues et polyvalent perforant.</p>"
         },
         {
             "id": "Runtboss Hobgoblin",
@@ -69,7 +69,7 @@
         {
             "id": "Ancient-Blooded Dwarf",
             "name": "Ancient-Blooded Dwarf",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les héros nains de l’ancien temps étaient capables de balayer la magie de leurs ennemis du revers de la main. Vous avez hérité d’une partie de cette résistance. Vous gagnez la réaction Appel du sang ancien.</span></p>\n @Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]{Appel du sang ancien}"
+            "description": "<p>Les héros nains de l’ancien temps étaient capables de balayer la magie de leurs ennemis du revers de la main. Vous avez hérité d’une partie de cette résistance. Vous gagnez la réaction <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"8w6esW689NNbbq3i\">Appel du sang ancien</a>.</p>"
         },
         {
             "id": "Ancient Elf",
@@ -99,7 +99,7 @@
         {
             "id": "Gourd Leshy",
             "name": "Gourd Leshy",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez une grosse calebasse au lieu et place d'un crâne. Votre connaissance vient de votre spiritualité intérieure, et non de votre cerveau physique et vous avez trouvé une utilisation plus utile à l'espace intérieur de votre tête. Vous pouvez emmagasiner une collection d'objets qui vont jusqu'à un encombrement 1 à l'intérieur de votre tête. Le DD des tests pour Voler des objets qui s'y trouvent augmente de 4. De plus, si vous emmagasinez un unique objet à l'intérieur de votre tête, vous pouvez le retirer sans effort de votre main comme partie d'une autre action pour utiliser l'objet. Retirer l'objet donne à cette autre action le trait manipulation.&nbsp;</span></p>"
+            "description": "<p>Vous avez une grosse calebasse au lieu et place d'un crâne. Votre connaissance vient de votre spiritualité intérieure, et non de votre cerveau physique et vous avez trouvé une utilisation plus utile à l'espace intérieur de votre tête. Vous pouvez emmagasiner une collection d'objets qui vont jusqu'à un encombrement 1 à l'intérieur de votre tête. Le DD des tests pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"RDXXE7wMrSPCLv5k\">Voler</a> des objets qui s'y trouvent augmente de 4. De plus, si vous emmagasinez un unique objet à l'intérieur de votre tête, vous pouvez le retirer sans effort de votre main comme partie d'une autre action pour utiliser l'objet. Retirer l'objet donne à cette autre action le trait manipulation.</p>"
         },
         {
             "id": "Rainfall Orc",
@@ -134,7 +134,7 @@
         {
             "id": "Wildwood Halfling",
             "name": "Wildwood Halfling",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous venez des profondeurs d’une jungle ou d’une forêt et avez appris à utiliser votre petite taille pour vous faufiler dans les broussailles, à travers les plantes grimpantes et pour négocier d’autres obstacles. Vous ignorez le terrain rendu difficile par les arbres, le feuillage ou les broussailles.&nbsp;</span></p>"
+            "description": "<p>Vous venez des profondeurs d’une jungle ou d’une forêt et avez appris à utiliser votre petite taille pour vous faufiler dans les broussailles, à travers les plantes grimpantes et pour négocier d’autres obstacles. Vous ignorez le terrain rendu difficile par les arbres, le feuillage ou les broussailles.</p>"
         },
         {
             "id": "Fey-Touched Gnome",
@@ -184,7 +184,7 @@
         {
             "id": "Changeling",
             "name": "Changeling",
-            "description": "<p>Votre mère était une guenaude. Vos yeux vairons sont la plus visible des marques de cette parenté mais vous pourriez avoir aussi une constitution plus maigre, une peau plus pâle et des cheveux plus noirs que la majorité des membres de votre parentèle. Vous obtenez le trait changelin. Vous obtenez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou vous obtenez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage possède déjà la vision nocturne. Vous pouvez choisir les dons d'héritage parmi les dons de changelins et parmi les dons de l'héritage de votre autre parent lorsque vous obtenez un don d'héritage.</p>"
+            "description": "<p>Votre mère était une guenaude. Vos yeux vairons sont la plus visible des marques de cette parenté mais vous pourriez avoir aussi une constitution plus maigre, une peau plus pâle et des cheveux plus noirs que la majorité des membres de votre parentèle. Vous obtenez le trait changelin. Vous obtenez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou vous obtenez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage possède déjà la Vision nocturne. Vous pouvez choisir vos dons ancestraux parmi les dons des changelins et parmi les dons de l'héritage de votre autre parent lorsque vous obtenez un don ancestral.</p>"
         },
         {
             "id": "Rock Dwarf",
@@ -204,7 +204,7 @@
         {
             "id": "Woodland Elf",
             "name": "Woodland Elf",
-            "description": "<p>Vous vous êtes adapté à la vie en forêt ou dans la jungle et vous savez ainsi grimper aux arbres et utiliser le feuillage à votre avantage. Quand vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"pprgrYQ1QnIDGZiy\">Escaladez</a> des arbres, des plantes grimpantes ou d’autres frondaisons, vous vous déplacez de la moitié de votre Vitesse sur un succès et de toute votre Vitesse sur un succès critique (si vous possédez le don Escalade rapide, vous vous déplacez de toute votre Vitesse sur un succès). Ces effets sont inopérants si vous utilisez une Vitesse d’escalade.</p>\n<p>Vous pouvez toujours utiliser l’action <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"ust1jJSCZQUhBZIz\">Mise à l’abri</a> quand vous vous trouvez en forêt afin de trouver un abri, même si vous ne vous trouvez pas près d’un obstacle derrière lequel vous Mettre à l’abri.</p>"
+            "description": "<p>Vous vous êtes adapté à la vie en forêt ou dans la jungle et vous savez ainsi grimper aux arbres et utiliser le feuillage à votre avantage. Quand vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"pprgrYQ1QnIDGZiy\">Escaladez</a> des arbres, des plantes grimpantes ou d’autres frondaisons, vous vous déplacez de la moitié de votre Vitesse sur un succès et de toute votre Vitesse sur un succès critique (si vous possédez le don <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"P04Hw8E6WAWARKHP\">Escalade rapide</a>, vous vous déplacez de toute votre Vitesse sur un succès). Ces effets sont inopérants si vous utilisez une Vitesse d’escalade.</p>\n<p>Vous pouvez toujours utiliser l’action <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"ust1jJSCZQUhBZIz\">Mise à l’abri</a> quand vous vous trouvez en forêt afin de trouver un abri, même si vous ne vous trouvez pas près d’un obstacle derrière lequel vous Mettre à l’abri.</p>"
         },
         {
             "id": "Snow Goblin",
@@ -304,7 +304,7 @@
         {
             "id": "Bloodhound Shoony",
             "name": "Bloodhound Shoony",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos ancêtres étaient de fameux pisteurs et vous portez dans votre sang ce même don pour la chasse. Vous obtenez un sens spécial : odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre sens de l'odorat pour déterminer la localisation d'une créature, mais elle reste @Compendium[pf2e.conditionspf2e.iU0fEDdBp3rXpTMC]{Cachée}. de plus, vous obtenez un bonus de circonstance de +2 aux tests de Survie faits pour @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Pister} les créatures que vous avez préalablement senti avec votre sens de l'odorat.</span></p>"
+            "description": "<p>Vos ancêtres étaient de fameux pisteurs et vous portez dans votre sang ce même don pour la chasse. Vous obtenez un sens spécial : odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre sens de l'odorat pour déterminer la localisation d'une créature, mais elle reste <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"iU0fEDdBp3rXpTMC\">Cachée</a>. de plus, vous obtenez un bonus de circonstance de +2 aux tests de Survie faits pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"EA5vuSgJfiHH7plD\">Pister</a> les créatures que vous avez préalablement senti avec votre sens de l'odorat.</p>"
         },
         {
             "id": "Darkvision",
@@ -344,7 +344,7 @@
         {
             "id": "Deep Orc",
             "name": "Deep Orc",
-            "description": "<p>Vos mains calleuses et vos yeux rouges évoquent une vie passée dans les ténèbres profondes des cavernes des montagnes, où vous avez appris à combattre sur les falaises rocheuses et à survivre avec un minimum de ressources. Vous obtenez le don @Compendium[pf2e.feats-srd.4tTkRyOQ0VuRBac3]{Expertise du terrain} pour les souterrains et de don de compétence @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur}.</p>"
+            "description": "<p>Vos mains calleuses et vos yeux rouges évoquent une vie passée dans les ténèbres profondes des cavernes des montagnes, où vous avez appris à combattre sur les falaises rocheuses et à survivre avec un minimum de ressources. Vous obtenez le don <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"4tTkRyOQ0VuRBac3\">Expertise du terrain</a> pour les souterrains et de don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"09PurtIanNUPfNRq\">Combattant-grimpeur</a>.</p>"
         },
         {
             "id": "Fishseeker Shoony",
@@ -379,12 +379,12 @@
         {
             "id": "Land on Your Feet",
             "name": "Land on Your Feet",
-            "description": "<p>Lorsque vous chutez, vous ne subissez que la moitié des dégâts normaux et vous n'atterrissez pas @Compendium[pf2e.conditionspf2e.j91X7x0XSomq8d60]{À terre}.</p>"
+            "description": "<p>Lorsque vous chutez, vous ne subissez que la moitié des dégâts normaux et vous n'atterrissez pas <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"j91X7x0XSomq8d60\">À terre</a>.</p>"
         },
         {
             "id": "Tiefling",
             "name": "Tiefling",
-            "description": "<p>Vous descendez des fiélons ou portez la marque des royaumes des fiélons, manifestant certaines particularités inhabituelles qui trahissent votre héritage, tels que des cornes ou une queue. Vous obtenez le trait tieffelin en plus des traits de votre héritage. Vous gagnez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre héritage possède déjà la vision nocturne. Vous pouvez choisir parmi les traits tieffelin et les dons de votre héritage lorsque vous obtenez un don d'héritage.</p>"
+            "description": "<p>Vous descendez des fiélons ou portez la marque des royaumes des fiélons, manifestant certaines particularités inhabituelles qui trahissent votre héritage, tels que des cornes ou une queue. Vous obtenez le trait tieffelin en plus des traits de votre héritage. Vous gagnez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou vous obtenez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage possède déjà la Vision nocturne. Vous pouvez choisir parmi les dons des tieffelins et ceux de votre héritage lorsque vous obtenez un don ancestral.</p>"
         },
         {
             "id": "Wellspring Gnome",
@@ -394,12 +394,12 @@
         {
             "id": "Dhampir",
             "name": "Dhampir",
-            "description": "<p>Vous êtes l'enfant d'un vampire, moitié vivant, moitié mort-vivant, doté d'un charme et d'une grâce extraordinaires, un teint blâfard dépourvu de sang et des incisives allongées. Vous obtenez le trait dhampir, en plus des traits de votre héritage. Vous avez la capacité @Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]{soins négatifs}, ce qui signifie que vous êtes blessé par les dégâts positifs et soignés par les effets négatifs comme si vous étiez un mort-vivant. Vous gagnez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage possède déjà vision nocturne. Vous pouvez choisir parmi les dons de dhampir et les dons de votre héritagelorsque vous obtenez un don d'héritage.</p>"
+            "description": "<p>Vous êtes l'enfant d'un vampire, moitié vivant, moitié mort-vivant, doté d'un charme et d'une grâce extraordinaires, un teint blâfard dépourvu de sang et des incisives allongées. Vous obtenez le trait dhampir, en plus des traits de votre héritage. Vous avez la capacité @Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]{soins négatifs}, ce qui signifie que vous êtes blessé par les dégâts positifs et soignés par les effets négatifs comme si vous étiez un mort-vivant. Vous gagnez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage possède déjà Vision nocturne. Vous pouvez choisir parmi les dons de dhampir et les dons de votre autre héritage lorsque vous obtenez un don ancestral.</p>"
         },
         {
             "id": "Shadow Rat",
             "name": "Shadow Rat",
-            "description": "<p>Vos ancêtres ont vécu dans des endroits sombres souterrains, vous léguant voter fourrure noire et un air vaguement non-naturel qui énerve les créatures sages et effraie les animaux. Vous devenez qualifié en Intimidation et pouvez utiliser Intimidation pour @Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]{Contraindre} les animaux. Lorsque vous @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoralisez} un animal, vous ne subissez pas de pénalité lié à l'absence de langue commune avec lui. Si vous devriez être qualifié en  Intimidation par une autre source (de votre historique ou par votre classe par exemple), vous êtes qualifié dans une autre compétence de votre choix.</p>\n<p><span class=\"fontstyle0\">L'attitude des animaux à votre égard commence à un degré inférieur à la normale, débutant comme inamical en général au lieu d'indifférent pour les animaux domestiqués et hostile plut$ot qu'inamical pour les animaux sauvages.</span></p>"
+            "description": "<p>Vos ancêtres ont vécu dans des endroits sombres souterrains, vous léguant votre fourrure noire et un air vaguement non-naturel qui énerve les créatures pensantes et effraie les animaux. Vous devenez qualifié en Intimidation et pouvez utiliser Intimidation pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"tHCqgwjtQtzNqVvd\">Contraindre</a> les animaux. Lorsque vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"2u915NdUyQan6uKF\">Démoralisez</a> un animal, vous ne subissez pas de pénalité lié à l'absence de langue commune avec lui. Si vous étiez qualifié en Intimidation du fait d'une autre source (du fait de votre historique ou de votre classe par exemple), vous êtes qualifié dans une autre compétence de votre choix.</p>\n<p>L'attitude des animaux à votre égard est d'un degré inférieur à la normale, débutant comme inamicale en général au lieu d'indifférente pour les animaux domestiqués et hostile plutôt qu'inamicale pour les animaux sauvages.</p>"
         },
         {
             "id": "Observant Halfling",
@@ -414,7 +414,7 @@
         {
             "id": "Sensate Gnome",
             "name": "Sensate Gnome",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Par rapport à vos congénères, vous voyez toutes les couleurs avec plus d’intensité, vous entendez les sons avec plus de finesse et vous pouvez identifier les innombrables nuances qui composent une odeur. Vous gagnez le sens spécial : odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre odorat pour déterminer l’emplacement exact d’une créature. Le MJ double généralement la portée de ce pouvoir si vous êtes sous le vent par rapport à cette créature, ou la divise par deux si c'est l'inverse.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">En outre, vous gagnez un bonus de circonstances de +2 à vos tests de Perception à chaque fois que vous tentez de localiser une créature non détectée qui se trouve à portée de votre odorat.</span></p>"
+            "description": "<p>Par rapport à vos congénères, vous voyez toutes les couleurs avec plus d’intensité, vous entendez les sons avec plus de finesse et vous pouvez identifier les innombrables nuances qui composent une odeur. Vous gagnez le sens spécial : odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre odorat pour déterminer l’emplacement exact d’une créature. Le MJ double généralement la portée de ce pouvoir si vous êtes sous le vent par rapport à cette créature, ou la divise par deux si c'est l'inverse.</p>\n<p>En outre, vous gagnez un bonus de circonstances de +2 à vos tests de Perception à chaque fois que vous tentez de localiser une créature non détectée qui se trouve à portée de votre odorat.</p>"
         },
         {
             "id": "Versatile Heritage",
@@ -429,7 +429,7 @@
         {
             "id": "Mountainkeeper Tengu",
             "name": "Mountainkeeper Tengu",
-            "description": "<p><span id=\"docs-internal-guid-11f12efa-7fff-e078-516e-02b4416b3602\">Vous descendez d'une ligné d'ascètes tengu, vous laissant un lien avec les esprits du monde et du Grand au-delà. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.kcelf6IHl3L9VXXg]{Destruction de mort-vivant} comme un sort primordial inné à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur. </span></p>\n<p><span id=\"docs-internal-guid-11f12efa-7fff-e078-516e-02b4416b3602\">Chaque fois que vous lancez un sort d'ascendance tengu ou lié à un don d'ascendance, vous pouvez décider s'il s'agit d'un sort divin ou priomordial.</span></p>"
+            "description": "<p>Vous descendez d'une ligné d'ascètes tengu, vous laissant un lien avec les esprits du monde et du Grand au-delà. Vous pouvez lancer le tour de magie <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.spells-srd\" data-id=\"kcelf6IHl3L9VXXg\">Destruction de mort-vivant</a> comme un sort primordial inné à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>\n<p>Chaque fois que vous lancez un sort d'ascendance tengu ou lié à un don ancestral, vous pouvez décider s'il s'agit d'un sort divin ou primordial.</p>"
         },
         {
             "id": "Cliffscale Lizardfolk",
@@ -439,7 +439,7 @@
         {
             "id": "Oathkeeper Dwarf",
             "name": "Oathkeeper Dwarf",
-            "description": "<p>En grandissant, vous n'avez jamais cherché à mentir pour obtenir ce que vous désiriez et même lorsque cela a été nécessaire, mentir vous a mis mal à l'aise. Les membres particulièrement croyants ont même pu penser que vous avez été béni par le dieu nain du devoir, <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.deities\" data-id=\"zhPhYge7VJbIlJvA\">Kols</a>. Vous obtenez un bonus de circonstance de +1 aux tests de Perception pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"1xRFPTFtWtGJ9ELw\">Deviner les intentions</a> et au DD de Perception contre les tentatives de vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"ewwCglB7XOPLUz72\">mentir</a>. De plus, vous obtenez un bonus de circonstance de +2 aux tests de Diplomatie pour convaincre les autres que vous dites la véritélorsque vous la dites et vous subissez une pénalité de circonstance de –4 pour Mentir et a votre test de Duperie contre une tentative pour Deviner vos Intentions.</p>"
+            "description": "<p>En grandissant, vous n'avez jamais cherché à mentir pour obtenir ce que vous désiriez et même lorsque cela a été nécessaire, mentir vous a mis mal à l'aise. Les membres particulièrement croyants ont même pu penser que vous avez été béni par le dieu nain du devoir, <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.deities\" data-id=\"zhPhYge7VJbIlJvA\">Kols</a>. Vous obtenez un bonus de circonstance de +1 aux tests de Perception pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"1xRFPTFtWtGJ9ELw\">Deviner les intentions</a> et au DD de Perception contre les tentatives de vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"ewwCglB7XOPLUz72\">mentir</a>. De plus, vous obtenez un bonus de circonstance de +2 aux tests de Diplomatie pour convaincre les autres que vous dites la vérité lorsque vous la dites et vous subissez une pénalité de circonstance de –4 pour Mentir et a votre test de Duperie contre une tentative pour Deviner vos Intentions.</p>"
         },
         {
             "id": "Elemental Heart Dwarf",
@@ -459,7 +459,7 @@
         {
             "id": "Duskwalker",
             "name": "Duskwalker",
-            "description": "<p><span class=\"fontstyle0\">Suite à un ancien marché, votre âme a été réincarnée comme un crépusculaire, un enfant planaire avec un lien à l'égad des psychopompes et du Cimetière. Vous obtenez le trait crépusculaire en plus des traits de votre héritage. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre héritge bénéficie déjà de vision nocturne. Ni votre corps, ni votre âme ne peuvent jamais devenir mort-vivant. Vous pouvez choisir vos dons d'héritage parmi les dons de crépusculaire ou ceux de votre autre héritage lorsque vous obtenez un don d'héritage.</span></p>"
+            "description": "<p>Suite à un ancien marché, votre âme a été réincarnée comme un crépusculaire, un enfant planaire avec un lien à l'égad des psychopompes et du Cimetière. Vous obtenez le trait crépusculaire en plus des traits de votre héritage. Vous obtenez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou vous obtenez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage bénéficie déjà de vision nocturne. Ni votre corps, ni votre âme ne peuvent jamais devenir mort-vivant. Vous pouvez choisir vos dons ancestraux parmi les dons des crépusculaire ou ceux de votre autre héritage lorsque vous obtenez un don ancestral.</p>"
         },
         {
             "id": "Vivacious Gnome",
@@ -474,7 +474,7 @@
         {
             "id": "Half-Orc",
             "name": "Half-Orc",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Soit l’un de vos parents était un orc, soit les deux étaient des demi-orcs. Votre peau aux nuances verdâtres et d’autres signes trahissent votre ascendance orque. Vous gagnez le trait orc et le pouvoir vision nocturne. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des orcs, des demi-orcs et des humains..&nbsp;</span></p>"
+            "description": "<p>Soit l’un de vos parents était un orc, soit les deux étaient des demi-orcs. Votre peau aux nuances verdâtres et d’autres signes trahissent votre ascendance orque. Vous gagnez le trait orc et le pouvoir <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a>. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des orcs, des demi-orcs et des humains.</p>"
         },
         {
             "id": "Plant Nourishment",
@@ -484,7 +484,7 @@
         {
             "id": "Aasimar",
             "name": "Aasimar",
-            "description": "<p>Vous descendez des célestes ou avez été touché par les royaumes célestes, obtenant une expression d'émerveillement et de grace, ainsi que des traits distincts liés à votre ascendance céleste. Vous obtenez le trait aasimar, en plus des traits de votre héritage. Vous obtenez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou vous gagnez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage avait déjà vision nocturne. Vous pouvez choisir parmi les dons d'aasimar ou parmi les dons de votre héritage lorsque vous obtenez un don d'héritage.</p>"
+            "description": "<p>Vous descendez des célestes ou avez été touché par les royaumes célestes, obtenant une expression d'émerveillement et de grace, ainsi que des traits distincts liés à votre héritage céleste. Vous obtenez le trait aasimar, en plus des traits de votre héritage. Vous obtenez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou vous gagnez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage avait déjà Vision nocturne. Vous pouvez choisir parmi les dons d'aasimar ou parmi les dons de votre héritage lorsque vous obtenez un don ancestral.</p>"
         }
     ],
     "mapping": {}

@@ -2,29 +2,194 @@
     "label": "Guide du MJ",
     "entries": [
         {
+            "id": "Survived a Disaster",
+            "name": "Survivant d'un désastre",
+            "description": "<p>Vous avez survécu à un grand désastre lors de votre enfance (comme un grand incendie, une inondation, un tremblement de terre, une éruption volcanique ou un ouragan) en improvisant avec les moyens du bord.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"ASy9AKEIRxPYUi5o\"><i class=\"fas fa-suitcase\"></i>Réparation rapide</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Coastal Community",
+            "name": "Communauté côtière",
+            "description": "<p> Vous avez grandi sur la rive d’un grand fleuve, dans une région très humide, au bord d’un océan ou sur une île.</p>\n<p>Ajoutez Connaissance de la pêche, Connaissance de la navigation maritime, et une Connaissance d’un type de créature marine particulière (comme Connaissance des requins) à vos options d’historique.</p>"
+        },
+        {
+            "id": "Called Before Judges",
+            "name": "Convoqué devant les juges",
+            "description": "Des informations fournies par ce personnage (intentionnellement ou non) vous ont mené à devoir vous défendre devant un groupe de bureaucrates ou de magistrats.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"KpFetnUqTiweypZk\"><i class=\"fas fa-suitcase\"></i>Bonne impression de groupe</a> à vos options d’historique.</p>"
+        },
+        {
             "id": "Metropolis",
-            "name": "Métropolitain",
-            "description": "<p>Vous avez grandi dans une des Cités les plus grandes du monde, comme Absalom ou Couronne d'Ouest.</p>\n<p>Ajoutez Connaissance de l'Architecture, Connaissance des Gladiateurs, Connaissance d'une Guilde, Connaissance des Lois et Connaissance du théâtre à vos options d'historique.</p>"
+            "name": "Métropole",
+            "description": "<p> Vous avez grandi dans l’une des plus grandes villes du monde, comme Absalom ou Couronne d’Ouest.</p>\n<p>Ajoutez Connaissance architecturale, Connaissance des gladiateurs, Connaissance des guildes, Connaissance juridique et Connaissance théâtrale à vos options d’historique.</p>"
+        },
+        {
+            "id": "The Academic",
+            "name": "Le professeur",
+            "description": "<p>L’un de vos associés avait une telle soif de savoir qu’il ne pouvait jamais se satisfaire de réponses simples. À son contact, vous avez appris à apprécier les nombres, la géométrie, la logique, le travail assidu et la résolution de problèmes.</p>\n<p>Ajoutez une prime de caractéristique à l’Intelligence à vos options d’historique.</p>"
         },
         {
             "id": "Abandoned in a Distant Land",
-            "name": "Abandonné sur un territoire éloigné",
-            "description": "<p><span>À cause de quelque malchance (comme vous égarer au cours d'un voyage ou être enlevé pour servir à bord d'un bateau au long cours), vous avez dû survivre sur une terre éloignée pendant un moment. Ajoutez le don de compétence @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte} à vos options d'historique.</span></p>"
+            "name": "Abandonné dans un pays lointain",
+            "description": "<p>Vous avez été victime de malchance (vous êtes parti vous promener et vous vous êtes perdu lors d’un voyage ou avez été recruté de force sur un navire) et vous avez dû survivre pendant quelque temps dans un pays lointain. Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"P9HCz0uR6xPHuw72\"><i class=\"fas fa-suitcase\"></i> Polyglotte</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "The Fiend",
+            "name": "Le fiélon",
+            "description": "<p>Vous avez eu affaire à un fiélon ou avez été possédé par un fiélon, qui vous a accordé du pouvoir quand vous en aviez besoin. Une part de lui se trouve encore en vous et stimule vos pulsions destructrices.</p>\n<p>Ajoutez une prime de caractéristique à la Force à vos options d’historique.</p>"
+        },
+        {
+            "id": "Jester",
+            "name": "Bouffon",
+            "description": "<p>Soit vous piochez deux autres cartes, soit vous gagnez <a class=\"inline-roll roll\" title=\"1d10*100\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"1d10*100\"><i class=\"fas fa-dice-d20\"></i> 1d10*100</a> PX. Puis cette carte disparaît à jamais.</p>"
         },
         {
             "id": "Trained by a Mentor",
-            "name": "Entraîné par un Mentor",
-            "description": "<p>Un mentor ou un patron a trouvé un intérêt dans votre développement et s'est porté volontaire pour vous entraîner ou vous sponsoriser. </span></p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.sMm0UfYxEPpq2Yzd]{Professionnel expérimenté} aux options de votre historique.</p>"
+            "name": "Formé par un Mentor",
+            "description": "<p> Vous avez été remarqué par un mentor ou un mécène, qui a proposé de prendre votre éducation en main ou de vous parrainer.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"sMm0UfYxEPpq2Yzd\"><i class=\"fas fa-suitcase\"></i>Professionnel expérimenté</p> à vos options d’historique.</p>"
+        },
+        {
+            "id": "The Mentor",
+            "name": "Le mentor",
+            "description": "<p> Un mentor vous a appris tout ce qu’il faut savoir sur la vie. Il s’agit peut-être de la personne qui a contribué à faire de vous un héros, ou simplement d’un proche qui vous a aidé à façonner votre vision du monde.</p>\n<p>Ajoutez une prime de caractéristique à la Constitution à vos options d’historique.<p>"
+        },
+        {
+            "id": "Skull",
+            "name": "Crâne",
+            "description": "<p>Vous devez immédiatement combattre une <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.pathfinder-bestiary\" data-id=\"pkNWilK2pHZ5TDsd\"><i class=\"fas fa-user\"></i>mort inférieure</a>. Si vous êtes tué au cours du combat, vous ne pouvez jamais être ramené à la vie sauf par une divinité.</p>"
+        },
+        {
+            "id": "Ruin",
+            "name": "Ruine",
+            "description": "<p>Vous perdez toutes vos possessions non magiques y compris vos objets de valeur et vos propriétés.</p>"
+        },
+        {
+            "id": "Rogue",
+            "name": "Traître",
+            "description": "<p> Un allié PNJ ressent soudain une profonde haine contre vous et devient à jamais votre ennemi. Le PNJ peut garder cette haine secrète jusqu’au moment opportun.</p>"
+        },
+        {
+            "id": "Another Ancestry's Settlement",
+            "name": "Une communauté d'une autre ascendance",
+            "description": "<p> Déterminez\naléatoirement une autre ascendance courante : vous avez grandi au milieu de membres de celle-ci. Relancez un dé dans ce tableau (avec un modificateur adapté à cette nouvelle ascendance le cas échéant) afin de déterminer le type de communauté dans laquelle vous avez grandi (par exemple si votre gnome a grandi avec des nains et obtient 3 à son jet de dé, il a alors grandi sous terre).</p>\n<p>Ajoutez le don <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"ihN8gkHSdPG9Trte\"><i class=\"fas fa-suitcase\"></i>Ascendance adoptive</a> et la compétence de Connaissance associée à votre ascendance d’adoption (comme Connaissance des nains) à vos options d’historique. Si vous sélectionnez ce don au lieu d’un don de compétence, vous n’êtes pas entraîné dans une compétence d’historique.</p>"
         },
         {
             "id": "Underground",
-            "name": "Sous-terrain",
-            "description": "<p>Vous avez été élevé dans un région partiellement ou totalement souterraine, comme une vlle minière humaine, un terrier gobelin ou une grotte tenue par des nains.</p>\n<p>Ajouter Connaissance de l'ingénierie, Connaissance du travail et Connaissance de la mine à vos options d'historique.</p>"
+            "name": "Sous terre",
+            "description": "<p>Vous avez grandi dans une région partiellement ou entièrement souterraine, comme une ville minière humaine, un terrier de gobelins ou une caverne naine.</p>\n<p>Ajoutez Connaissance de l’ingénierie, Connaissance du travail et Connaissance minière à vos options d’historique</p>"
+        },
+        {
+            "id": "The Well-Connected",
+            "name": "L'ami aux nombreuses relations",
+            "description": "<p>Dans votre cercle de proches se trouvait quelqu’un que tout le monde connaissait. Cette personne avait des contacts dans toutes les strates sociales. Grâce à elle, vous continuez de rencontrer de nombreuses personnes de toutes origines.</p>\n<p>Ajoutez une prime de caractéristique au Charisme à vos options d’historique.</p>"
+        },
+        {
+            "id": "Missing Child",
+            "name": "Enfant perdu",
+            "description": "<p>. Quand un enfant de votre famille a disparu dans un marché bondé, ce personnage vous a aidé à interroger les marchands et les clients et à retrouver l’enfant avant qu’il ne lui arrive malheur.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"4RjDxgvNXNl5GG9d\"><i class=\"fas fa-suitcase\"></i>Animal social</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Social Maneuvering",
+            "name": "Manipulations sociales",
+            "description": "<p>Vous avez toujours voulu prouver que vous étiez meilleur que ce personnage bénéficiant d’une bonne situation sociale. Jusqu’ici, vous n’avez pas obtenu de résultat décisif.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"JtjnFsOToBLnSRO9\"><i class=\"fas fa-suitcase\"></i>Manières courtoises</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Flames",
+            "name": "Flammes",
+            "description": "<p>Par colère, envie, jalousie ou pour une autre raison, vous suscitez l’hostilité d’un fiélon. Seule sa mort ou la vôtre peuvent mettre un terme à cette haine. Il vous attaque ou tente de vous contrer dans un délai de <a class=\"inline-roll roll\" title=\"1d20\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"1d20\"><i class=\"fas fa-dice-d20\"></i> 1d20</a> jours. Le MJ détermine les détails concernant ce fiélon.</p>"
+        },
+        {
+            "id": "Talons",
+            "name": "Serres",
+            "description": "<p>Tous vos objets magiques disparaissent de manière permanente à l’exception des cartes merveilleuses et tout artefact d’un niveau supérieur aux cartes.</p>"
+        },
+        {
+            "id": "The Boss",
+            "name": "Le patron",
+            "description": "<p>Vous avez été un temps au service d’un individu puissant et très influent. Quand le patron parlait, tout le monde l’écoutait. Il peut s’agir d’un commandant militaire, d’un chef de village, du responsable d’une guilde ou d’un chef de gang. Au contact de ce patron, vous avez appris à faire en sorte que les gens vous écoutent et restent dans le rang.</p>\n<p>Ajoutez une prime de caractéristique au Charisme à vos options d’historique.</p>"
+        },
+        {
+            "id": "Raided",
+            "name": "Pillage",
+            "description": "<p> Une horde de pillards a attaqué votre communauté, tuant et blessant plusieurs de vos proches. Il peut s’agir d’une bande de voleurs de grand chemin ou d’une armée d’envahisseurs. Vous avez conservé une relique de cette époque : ajoutez une armure ou un bouclier valant 15 po ou moins à vos options d’historique.</p>\n<p>Si vous choisissez cette option à la place d’un don de compétence, vous devenez qualifié en Médecine.</p>"
+        },
+        {
+            "id": "Bullied",
+            "name": "Persécuté",
+            "description": "<p>Vous avez souvent été maltraité au cours de votre jeunesse. Les mauvais traitements que vous ont fait subir ces brutes n’ont fait qu’affermir votre volonté de vous défendre et de voler au secours des autres.</p>\n<p>Ajoutez le don de compétence Regard intimidant à vos options d’historique.</p>"
+        },
+        {
+            "id": "The Relative",
+            "name": "Le parent",
+            "description": "<p> Vous étiez particulièrement proche d’un membre de votre famille dans votre enfance. À vos yeux, cette personne incarnait votre famille. Elle vous a aidé à passer à l’âge adulte et vous a appris tout ce qu’elle savait sur le monde. Vous vous efforcez de tenir une promesse ou d’être fidèle à un vœu ou à un serment que vous lui avez fait.</p>\n<p>Ajoutez une prime de caractéristique à la Constitution à vos options d’historique.</p>"
+        },
+        {
+            "id": "Fell In with a Bad Crowd",
+            "name": "Mauvaises fréquentations",
+            "description": "<p> Dans votre jeunesse, vous avez côtoyé des criminels : un gang, une guilde de voleurs ou une organisation comparable.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"t3btih0O5RUwWynt\"><i class=\"fas fa-suitcase\"></i>Contrebandier expérimenté</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Seeking Accolades",
+            "name": "Chercheur d'attention",
+            "description": "<p> Vous n’avez jamais su attirer l’attention des foules aussi facilement que ce personnage et vous avez donc dû travailler dur pour développer votre sens du spectacle.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"xqAdXRd2gSQcqp5E\"><i class=\"fas fa-suitcase\"></i>Représentation impressionnante</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Gem",
+            "name": "Gemme",
+            "description": "<p>Gagnez 25 joyaux de votre choix d’une valeur de 200 po chacun ou 50 gemmes valant chacune 100 po.</p>"
+        },
+        {
+            "id": "Patron of the Arts",
+            "name": "Bienfaiteur des arts",
+            "description": "<p> Ce personnage vous a encouragé à exceller dans votre domaine de prédilection, allant jusqu’à vous donner de quoi vivre lors des périodes difficiles.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"lFwfUvH2708rl6i3\"><i class=\"fas fa-suitcase\"></i>Artiste virtuose</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "The Pariah",
+            "name": "Le paria",
+            "description": "<p>Vous avez rencontré un exilé en disgrâce et ses mots vous ont touché. Ce qui vous semblait un temps juste, dans votre religion, société ou famille, s’est soudain mis à sonner faux et vous avez rapidement appris que vous ne deviez pas accorder votre confiance à n’importe qui.</p>\n<p>Ajoutez une prime de caractéristique à la Sagesse à vos options d’historique.</p>"
         },
         {
             "id": "Won a Competition",
             "name": "Vainqueur d'une compétition",
-            "description": "<p><span>Vous vous êtes distingué très tôt lorsque vous avez gagné une compétition. Clea pourrait avoir été un concours de lutte, une démonstration d'apprentis magiciens, de paris aux enjeux élevés ou quelque chose de plus ordinaire, comme un concours de gros mangeur.<br></span></p>\n<p><span>Ajoutez @Compendium[pf2e.feats-srd.7LB00jkh6JaJr3vS]{Représentation fascinante} à vos options d'historique.</span></p>"
+            "description": "<p>. Vous vous êtes fait remarquer en gagnant une compétition au cours de votre jeunesse. Il peut s’agir d’une compétition martiale, d’une démonstration par des apprentis magiciens, d’un tournoi de jeu de hasard, ou de quelque chose de plus commun, comme un concours du plus gros mangeur.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"7LB00jkh6JaJr3vS\"><i class=\"fas fa-suitcase\"></i>Représentation fascinante</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Accusation of Theft",
+            "name": "Accusation de vol",
+            "description": "<p>Vous avez été un jour convaincu que ce personnage vous avait volé un objet de grande valeur sentimentale. Vous étiez déterminé à le lui voler à votre tour, puis vous vous êtes rendu compte qu’il n’était pas responsable et que vous aviez seulement égaré l’objet.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"jDdOqFmZLwE4dblQ\"><i class=\"fas fa-suitcase\"></i>Vol à la tire</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Had an Ordinary Childhood",
+            "name": "Enfance ordinaire",
+            "description": "<p>Votre enfance a été très ordinaire et vous n’avez été marqué par aucune catastrophe particulière, une situation très rare chez les aventuriers.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"W6Gl9ePmItfDHji0\"><i class=\"fas fa-suitcase\"></i> Assurance</a> dans une compétence de votre choix à vos options d’historique.</p>"
+        },
+        {
+            "id": "Spy",
+            "name": "Espion",
+            "description": "<p>Par le passé, vous avez espionné ce personnage, soit pour le compte de quelqu’un d’autre, soit pour confirmer vos propres soupçons à son sujet.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"yUuU9xyotrpwpTyC\"><i class=\"fas fa-suitcase\"></i>Lire sur les lèvres</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Magician",
+            "name": "Magicien",
+            "description": "<p>Ce personnage vous a soutenu lors de votre brève incursion dans le monde de la prestidigitation, qui était pour vous une première étape avant d’apprendre la magie véritable, ou simplement un moyen de développer l’agilité de vos doigts.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"hVZbnsDuXihggylt\"><i class=\"fas fa-suitcase\"></i>Vol subtil</a> à vos options d’historique.</a>"
+        },
+        {
+            "id": "Relationship Ender",
+            "name": "Briseur de relations",
+            "description": "<p> Vous avez un jour découragé quelqu’un qui cherchait l’affection de ce personnage. Vous restez convaincu que vous lui avez rendu service, car ils n’étaient pas du tout assortis.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"ar2DUlvDK4LDcH9J\"><i class=\"fas fa-suitcase\"></i>Contrainte rapide</a> à vos options d’historique."
+        },
+        {
+            "id": "Rival Trackers",
+            "name": "Pisteurs rivaux",
+            "description": "<p>Ce personnage et vous avez un temps été rivaux dans la traque d’animaux ou de criminels en fuite.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"urQZwmzg2kS53vd5\"><i class=\"fas fa-suitcase\"></i>Pisteur expérimenté</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Religious Students",
+            "name": "Séminaristes",
+            "description": "<p>Ce personnage et vous avez tous les deux suivi une formation religieuse. Même si vous n’avez pas continué dans cette voie, vous admirez sa piété.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"x7EMZNMavris2aHY\"><i class=\"fas fa-suitcase\"></i>Étudiant du droit canon</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Met a Fantastic Creature",
+            "name": "Rencontre avec une créature fantastique",
+            "description": "<p> Votre enfance a été marquée par une rencontre avec une créature magique, comme un dragon, une licorne, un génie, une pixie, ou une autre créature de ce type.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"MjQyTcV8Jiv1Jtln\"><i class=\"fas fa-suitcase\"></i>Reconnaître des sorts</a> à vos options d’historique.</p>"
         }
     ],
     "mapping": {}

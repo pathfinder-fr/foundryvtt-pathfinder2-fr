@@ -607,6 +607,11 @@
             "description": "<p>Vous créez un capteur @Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{Invisible} en forme d’œil, comme avec le sort @Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance}. Une fois crée, cet œil doit rester dans votre ligne de mire. Quand la durée du sort se termine, vous pouvez dépenser 1 point de focalisation par une action gratuite pour prolonger la durée d’une heure. Toutefois, le sort prend normalement et immédiatement fin lors de vos prochains préparatifs quotidiens.</p>"
         },
         {
+            "id": "Steal the Sky",
+            "name": "Steal the Sky (Voler le ciel)",
+            "description": "<p>Incantation <span style=\"font-family: Pathfinder2eActions; font-size: 25.2px; display: inline;\">R </span>verbal;</p>\n<p><strong>Déclencheur</strong> Vous portez une Frappe à mains nues contre une créature volante.</p>\n<p><strong>Cible</strong> la créature que vous touchez</p>\n<p><strong>Jet de sauvegarde</strong> Vigueur</p>\n<hr />\n<p>Vous empêchez une créature volante de prendre l'air.</p>\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible descend de 18 m. Si elle touche une surface, elle subit des dégâts contondants comme si elle avait chuté.</p>\n<p><strong>Échec</strong> Comme en cas de succès. Si elle touche une surface, elle tombe @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} et ne peut plus voler, léviter ou prendre l'air pendant 1 minute.</p>\n<p><strong>Échec critique</strong> Comme en cas d'échec et la créature subit double dégâts en touchant une surface.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong>Augmentez la distance de chute de la créature de 6 m.</p>"
+        },
+        {
             "id": "Dirge of Doom",
             "name": "Dirge of Doom (Chant funeste)",
             "description": "<p>Les ennemis à l’intérieur de la zone sont @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayés} 1. Ils ne peuvent pas réduire leur valeur @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayée} au-dessous de 1 tant qu’ils restent dans la zone.</p>"
@@ -1435,6 +1440,11 @@
             "id": "Hypnotic Pattern",
             "name": "Hypnotic Pattern (Lueurs hypnotiques)",
             "description": "<p>Vous créez un motif géométrique aux couleurs changeantes en lévitation dans un nuage. Les créatures à l’intérieur du motif sont éblouies. De plus, une créature doit faire un jet de Volonté si elle se trouve à l’intérieur du motif quand vous le lancez, quand elle entre dans le motif, quand elle termine son tour à l’intérieur ou si elle effectue l’action Chercher ou Interagir avec lui. Une créature fascinée par le motif ne fait pas d’autres jets de sauvegarde.</p>\n<p>\n<hr><b>Succès</b> La cible n’est pas affectée.</p>\n<p>\n<b>Échec</b> La cible est @Compendium[pf2e.conditionspf2e.AdPVz7rbaVSRxHFg]{fascinée} par le motif.</p>\n<p>\n<b>Échec critique</b> La cible est @Compendium[pf2e.conditionspf2e.AdPVz7rbaVSRxHFg]{fascinée} par le motif. Elle ne peut plus utiliser de réactions tant qu’elle reste @Compendium[pf2e.conditionspf2e.AdPVz7rbaVSRxHFg]{fascinée}</p>"
+        },
+        {
+            "id": "Invoke the Crimson Oath",
+            "name": "Invoke the Crimson Oath (Invoquer le Serment écarlate)",
+            "description": "<p>En brandissant votre arme et en criant la dernière ligne du Serment écarlate, vous relâchez une explosion d'énergie destructrice de couleur rubis. Vous devez être en train de manier une arme de corps à corps et vous remplissez la composante somatique de ce sort en abaissant votre arme en accomplissant un arc de cercle. Vous infligez les dégâts habituels de l'arme au corps à corps à chaque créature dans la zone du sort, en y incluant tous les bonus, malus, modificateurs et propriétés applicables ; Chacune des créatures doit faire un jet de sauvegarde de Vigueur basique. Une créature qui obtient un échec critique à ce jet de sauvegarde souffre également de l'effet supplémentaire que vous lui auriez infligé avec votre arme sur un coup critique ; si la créature qui a obtenu un échec critique est aussi immunisée aux coups critiques, elle obtient seulement un échec à la place.<br><br>Vous pouvez convertir tous les dégâts physiques de ce sort en dégâts positifs contre toutes les créatures mortes-vivantes de la zone.</p>"
         },
         {
             "id": "Abyssal Wrath",
@@ -2745,6 +2755,11 @@
             "id": "Waking Nightmare",
             "name": "Waking Nightmare (Cauchemar éveillé)",
             "description": "<p>Vous implantez dans l’esprit de la créature une vision terrifiante tirée de ses cauchemars. La cible doit faire un jet de Volonté. Si la cible est @Compendium[pf2e.conditionspf2e.fBnFDH2MTzgFijKf]{inconsciente} quand vous Lancez ce sort sur elle, elle se réveille immédiatement avant de tenter son jet de sauvegarde, et si elle le rate, elle obtient l’état @Compendium[pf2e.conditionspf2e.sDPxOjQ9kx2RZE8D]{en fuite} pendant 1 round en plus des effets décrits plus haut.</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée.</p>\n<p>\n<b>Succès</b> La cible est @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayée} 1.</p>\n<p>\n<b>Échec</b> La cible est @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayée} 2.</p>\n<p>\n<b>Échec critique</b> La cible est @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayée} 3.</p>"
+        },
+        {
+            "id": "Speaking Sky",
+            "name": "Speaking Sky (Ciel parlant)",
+            "description": "<p>L'air vous parle. Vous pouvez précisément sentir tout mouvement dans les 18 m à travers les vibrations et les déplacements de l'air.</p>"
         },
         {
             "id": "Antimagic Field",

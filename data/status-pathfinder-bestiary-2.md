@@ -3,7 +3,7 @@
  * **aucune**: 335
 
 
-Dernière mise à jour: 2020-12-23 16:10 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-02 15:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire

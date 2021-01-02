@@ -1,11 +1,10 @@
 # État de la traduction (gmg-srd)
 
- * **changé**: 3
- * **aucune**: 93
- * **libre**: 2
+ * **officielle**: 38
+ * **aucune**: 60
 
 
-Dernière mise à jour: 2020-12-23 16:10 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-02 15:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -70,48 +69,48 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oDhTOO1WjEZk1qfD.htm](gmg-srd/oDhTOO1WjEZk1qfD.htm)|Witnessed War|
 |[OHKKQ7zTf61vz35h.htm](gmg-srd/OHKKQ7zTf61vz35h.htm)|Liberators|
 |[pd6ZzGL5TA58Fa3p.htm](gmg-srd/pd6ZzGL5TA58Fa3p.htm)|The Hunter|
-|[PVdcBHjBVySBchG1.htm](gmg-srd/PVdcBHjBVySBchG1.htm)|Religious Students|
-|[pwn7lPcwqyGNZyOo.htm](gmg-srd/pwn7lPcwqyGNZyOo.htm)|Survived a Disaster|
-|[qFgPiHDBVa3VSNgC.htm](gmg-srd/qFgPiHDBVa3VSNgC.htm)|Gem|
-|[QhNWhs0isjxE67lu.htm](gmg-srd/QhNWhs0isjxE67lu.htm)|The Fiend|
-|[QxQ0PheFSIJU9rfH.htm](gmg-srd/QxQ0PheFSIJU9rfH.htm)|Talons|
-|[rDbdifseYxfEWgKg.htm](gmg-srd/rDbdifseYxfEWgKg.htm)|Patron of the Arts|
-|[re8nmHRiQdU63AYk.htm](gmg-srd/re8nmHRiQdU63AYk.htm)|The Boss|
-|[Rh5XWscABJ43TLme.htm](gmg-srd/Rh5XWscABJ43TLme.htm)|The Mentor|
-|[Runwg9xhNrN79JBN.htm](gmg-srd/Runwg9xhNrN79JBN.htm)|Had an Ordinary Childhood|
-|[SbfCzPannCdZEB7c.htm](gmg-srd/SbfCzPannCdZEB7c.htm)|Jester|
-|[sHC4quiLAzdUe2uT.htm](gmg-srd/sHC4quiLAzdUe2uT.htm)|Accusation of Theft|
 |[SyEl079jcULQp7Ra.htm](gmg-srd/SyEl079jcULQp7Ra.htm)|Front Lines|
-|[TG9L9JvKpomFQUfl.htm](gmg-srd/TG9L9JvKpomFQUfl.htm)|Flames|
 |[tmrnZkUzHVC0s6D9.htm](gmg-srd/tmrnZkUzHVC0s6D9.htm)|Had Your First Kill|
-|[TNruMcXK4wizclQc.htm](gmg-srd/TNruMcXK4wizclQc.htm)|Raided|
-|[UGxZ6vhfq7vQFXTt.htm](gmg-srd/UGxZ6vhfq7vQFXTt.htm)|Magician|
-|[uK1fqqsUNk7FZsOk.htm](gmg-srd/uK1fqqsUNk7FZsOk.htm)|The Pariah|
-|[upnKpiEflAhhFLNQ.htm](gmg-srd/upnKpiEflAhhFLNQ.htm)|Missing Child|
-|[vD1y8mIHxxw7c8J1.htm](gmg-srd/vD1y8mIHxxw7c8J1.htm)|Coastal Community|
-|[VEFcfA4NnWdJSRtp.htm](gmg-srd/VEFcfA4NnWdJSRtp.htm)|Spy|
-|[vMTOwBTqs8JeE8bH.htm](gmg-srd/vMTOwBTqs8JeE8bH.htm)|Rival Trackers|
-|[VnrGXdVthTceOlXV.htm](gmg-srd/VnrGXdVthTceOlXV.htm)|Another Ancestry's Settlement|
-|[W2ccu0zeLNHDlCXe.htm](gmg-srd/W2ccu0zeLNHDlCXe.htm)|Bullied|
-|[wIGRRmXtzed74qQq.htm](gmg-srd/wIGRRmXtzed74qQq.htm)|Fell In with a Bad Crowd|
-|[WXQbdAmQM9HBjc0R.htm](gmg-srd/WXQbdAmQM9HBjc0R.htm)|Relationship Ender|
-|[x0vU6WsHcXUNY20y.htm](gmg-srd/x0vU6WsHcXUNY20y.htm)|Ruin|
-|[xe0iqQ3XSnDV4tLp.htm](gmg-srd/xe0iqQ3XSnDV4tLp.htm)|Rogue|
-|[xGkT6QZGfYE3kBqn.htm](gmg-srd/xGkT6QZGfYE3kBqn.htm)|Skull|
-|[Xi5nvMNJrzsy09ws.htm](gmg-srd/Xi5nvMNJrzsy09ws.htm)|The Well-Connected|
-|[xmgvqyfwYPBXVELo.htm](gmg-srd/xmgvqyfwYPBXVELo.htm)|Met a Fantastic Creature|
-|[y4quheEoo2bcmM6g.htm](gmg-srd/y4quheEoo2bcmM6g.htm)|Seeking Accolades|
-|[yqCZWcX9e3iwmvSS.htm](gmg-srd/yqCZWcX9e3iwmvSS.htm)|Social Maneuvering|
-|[YR0uxB5CPPueFjBs.htm](gmg-srd/YR0uxB5CPPueFjBs.htm)|The Relative|
-|[yZUZDw8TXX1MvZ4P.htm](gmg-srd/yZUZDw8TXX1MvZ4P.htm)|Called Before Judges|
-|[ziWhyyygUG3Lemdu.htm](gmg-srd/ziWhyyygUG3Lemdu.htm)|The Academic|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[2cyhXgGkmoFe3Phw.htm](gmg-srd/2cyhXgGkmoFe3Phw.htm)|Trained by a Mentor|Entraîné par un Mentor|changé|
-|[3Uwfn0ui7tS277iE.htm](gmg-srd/3Uwfn0ui7tS277iE.htm)|Metropolis|Métropolitain|libre|
-|[AL562TPAhLCFX62S.htm](gmg-srd/AL562TPAhLCFX62S.htm)|Underground|Sous-terrain|libre|
-|[bNmSwKSFk6SWWrlj.htm](gmg-srd/bNmSwKSFk6SWWrlj.htm)|Abandoned in a Distant Land|Abandonné sur un territoire éloigné|changé|
-|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|Vainqueur d'une compétition|changé|
+|[2cyhXgGkmoFe3Phw.htm](gmg-srd/2cyhXgGkmoFe3Phw.htm)|Trained by a Mentor|Formé par un Mentor|officielle|
+|[3Uwfn0ui7tS277iE.htm](gmg-srd/3Uwfn0ui7tS277iE.htm)|Metropolis|Métropole|officielle|
+|[AL562TPAhLCFX62S.htm](gmg-srd/AL562TPAhLCFX62S.htm)|Underground|Sous terre|officielle|
+|[bNmSwKSFk6SWWrlj.htm](gmg-srd/bNmSwKSFk6SWWrlj.htm)|Abandoned in a Distant Land|Abandonné dans un pays lointain|officielle|
+|[PVdcBHjBVySBchG1.htm](gmg-srd/PVdcBHjBVySBchG1.htm)|Religious Students|Séminaristes|officielle|
+|[pwn7lPcwqyGNZyOo.htm](gmg-srd/pwn7lPcwqyGNZyOo.htm)|Survived a Disaster|Survivant d'un désastre|officielle|
+|[qFgPiHDBVa3VSNgC.htm](gmg-srd/qFgPiHDBVa3VSNgC.htm)|Gem|Gemme|officielle|
+|[QhNWhs0isjxE67lu.htm](gmg-srd/QhNWhs0isjxE67lu.htm)|The Fiend|Le fiélon|officielle|
+|[QxQ0PheFSIJU9rfH.htm](gmg-srd/QxQ0PheFSIJU9rfH.htm)|Talons|Serres|officielle|
+|[rDbdifseYxfEWgKg.htm](gmg-srd/rDbdifseYxfEWgKg.htm)|Patron of the Arts|Bienfaiteur des arts|officielle|
+|[re8nmHRiQdU63AYk.htm](gmg-srd/re8nmHRiQdU63AYk.htm)|The Boss|Le patron|officielle|
+|[Rh5XWscABJ43TLme.htm](gmg-srd/Rh5XWscABJ43TLme.htm)|The Mentor|Le mentor|officielle|
+|[Runwg9xhNrN79JBN.htm](gmg-srd/Runwg9xhNrN79JBN.htm)|Had an Ordinary Childhood|Enfance ordinaire|officielle|
+|[SbfCzPannCdZEB7c.htm](gmg-srd/SbfCzPannCdZEB7c.htm)|Jester|Bouffon|officielle|
+|[sHC4quiLAzdUe2uT.htm](gmg-srd/sHC4quiLAzdUe2uT.htm)|Accusation of Theft|Accusation de vol|officielle|
+|[TG9L9JvKpomFQUfl.htm](gmg-srd/TG9L9JvKpomFQUfl.htm)|Flames|Flammes|officielle|
+|[TNruMcXK4wizclQc.htm](gmg-srd/TNruMcXK4wizclQc.htm)|Raided|Pillage|officielle|
+|[UGxZ6vhfq7vQFXTt.htm](gmg-srd/UGxZ6vhfq7vQFXTt.htm)|Magician|Magicien|officielle|
+|[uK1fqqsUNk7FZsOk.htm](gmg-srd/uK1fqqsUNk7FZsOk.htm)|The Pariah|Le paria|officielle|
+|[upnKpiEflAhhFLNQ.htm](gmg-srd/upnKpiEflAhhFLNQ.htm)|Missing Child|Enfant perdu|officielle|
+|[vD1y8mIHxxw7c8J1.htm](gmg-srd/vD1y8mIHxxw7c8J1.htm)|Coastal Community|Communauté côtière|officielle|
+|[VEFcfA4NnWdJSRtp.htm](gmg-srd/VEFcfA4NnWdJSRtp.htm)|Spy|Espion|officielle|
+|[vMTOwBTqs8JeE8bH.htm](gmg-srd/vMTOwBTqs8JeE8bH.htm)|Rival Trackers|Pisteurs rivaux|officielle|
+|[VnrGXdVthTceOlXV.htm](gmg-srd/VnrGXdVthTceOlXV.htm)|Another Ancestry's Settlement|Une communauté d'une autre ascendance|officielle|
+|[W2ccu0zeLNHDlCXe.htm](gmg-srd/W2ccu0zeLNHDlCXe.htm)|Bullied|Persécuté|officielle|
+|[wIGRRmXtzed74qQq.htm](gmg-srd/wIGRRmXtzed74qQq.htm)|Fell In with a Bad Crowd|Mauvaises fréquentations|officielle|
+|[WXQbdAmQM9HBjc0R.htm](gmg-srd/WXQbdAmQM9HBjc0R.htm)|Relationship Ender|Briseur de relations|officielle|
+|[x0vU6WsHcXUNY20y.htm](gmg-srd/x0vU6WsHcXUNY20y.htm)|Ruin|Ruine|officielle|
+|[xe0iqQ3XSnDV4tLp.htm](gmg-srd/xe0iqQ3XSnDV4tLp.htm)|Rogue|Traître|officielle|
+|[xGkT6QZGfYE3kBqn.htm](gmg-srd/xGkT6QZGfYE3kBqn.htm)|Skull|Crâne|officielle|
+|[Xi5nvMNJrzsy09ws.htm](gmg-srd/Xi5nvMNJrzsy09ws.htm)|The Well-Connected|L'ami aux nombreuses relations|officielle|
+|[xmgvqyfwYPBXVELo.htm](gmg-srd/xmgvqyfwYPBXVELo.htm)|Met a Fantastic Creature|Rencontre avec une créature fantastique|officielle|
+|[y4quheEoo2bcmM6g.htm](gmg-srd/y4quheEoo2bcmM6g.htm)|Seeking Accolades|Chercheur d'attention|officielle|
+|[yqCZWcX9e3iwmvSS.htm](gmg-srd/yqCZWcX9e3iwmvSS.htm)|Social Maneuvering|Manipulations sociales|officielle|
+|[YR0uxB5CPPueFjBs.htm](gmg-srd/YR0uxB5CPPueFjBs.htm)|The Relative|Le parent|officielle|
+|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|Vainqueur d'une compétition|officielle|
+|[yZUZDw8TXX1MvZ4P.htm](gmg-srd/yZUZDw8TXX1MvZ4P.htm)|Called Before Judges|Convoqué devant les juges|officielle|
+|[ziWhyyygUG3Lemdu.htm](gmg-srd/ziWhyyygUG3Lemdu.htm)|The Academic|Le professeur|officielle|

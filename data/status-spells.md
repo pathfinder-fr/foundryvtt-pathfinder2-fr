@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
  * **officielle**: 268
- * **libre**: 11
- * **aucune**: 252
- * **changé**: 324
+ * **libre**: 13
+ * **aucune**: 250
+ * **changé**: 325
 
 
-Dernière mise à jour: 2020-12-23 16:10 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-02 15:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -96,7 +96,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[div-06-4j0FQ1mkidBAXuQV.htm](spells/div-06-4j0FQ1mkidBAXuQV.htm)|Heroic Feat|
 |[div-06-UJmKPm1FC6pf6txP.htm](spells/div-06-UJmKPm1FC6pf6txP.htm)|Halcyon Infusion|
 |[div-06-XULNb8ItUsfupxqH.htm](spells/div-06-XULNb8ItUsfupxqH.htm)|Dread Secret|
-|[div-06-Zvg0FWzClGbzucFd.htm](spells/div-06-Zvg0FWzClGbzucFd.htm)|Speaking Sky|
 |[div-07-G56DJkxlUjFv0C4Z.htm](spells/div-07-G56DJkxlUjFv0C4Z.htm)|Time Beacon|
 |[enc-00-f45JpY7Ph2cAJGW2.htm](spells/enc-00-f45JpY7Ph2cAJGW2.htm)|Evil Eye|
 |[enc-00-GdN5YQE47gd79k7X.htm](spells/enc-00-GdN5YQE47gd79k7X.htm)|Wilding Word|
@@ -143,7 +142,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-01-rnNGALRtsjspFTws.htm](spells/evo-01-rnNGALRtsjspFTws.htm)|Acidic Burst|
 |[evo-01-S6Kkk15MWGqzC00a.htm](spells/evo-01-S6Kkk15MWGqzC00a.htm)|Draconic Barrage|
 |[evo-01-zdb8cjOIDVKYMWdr.htm](spells/evo-01-zdb8cjOIDVKYMWdr.htm)|Penumbral Shroud|
-|[evo-02-AsKLseOo8hwv5Jha.htm](spells/evo-02-AsKLseOo8hwv5Jha.htm)|Invoke the Crimson Oath|
 |[evo-02-cB17yFc9456Pyfec.htm](spells/evo-02-cB17yFc9456Pyfec.htm)|Vomit Swarm|
 |[evo-02-cf7Jkm39uEjUFtHt.htm](spells/evo-02-cf7Jkm39uEjUFtHt.htm)|Sea Surge|
 |[evo-02-pMTltbI3S3UIuFaR.htm](spells/evo-02-pMTltbI3S3UIuFaR.htm)|Sun Blade|
@@ -169,10 +167,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-05-9BGEf9Sv5rgNBCk0.htm](spells/evo-05-9BGEf9Sv5rgNBCk0.htm)|Dance of Darkness|
 |[evo-05-HMTloW1hvRFJ5Z2D.htm](spells/evo-05-HMTloW1hvRFJ5Z2D.htm)|Consuming Darkness|
 |[evo-05-JyT346VmGtRLsDnV.htm](spells/evo-05-JyT346VmGtRLsDnV.htm)|Lightning Storm|
-|[evo-05-zoY0fQYTF1NzezTg.htm](spells/evo-05-zoY0fQYTF1NzezTg.htm)|Steal the Sky|
 |[evo-05-ZW8ovbu1etdfMre3.htm](spells/evo-05-ZW8ovbu1etdfMre3.htm)|Acid Storm|
 |[evo-05-ZyREiMaul0VhDYh3.htm](spells/evo-05-ZyREiMaul0VhDYh3.htm)|Glacial Heart|
 |[evo-06-bynT1UKaDqr8dLNM.htm](spells/evo-06-bynT1UKaDqr8dLNM.htm)|Flaming Fusillade|
+|[evo-07-EgkypvUZIZkx1UlQ.htm](spells/evo-07-EgkypvUZIZkx1UlQ.htm)|Blightburn Blast|
 |[evo-07-HES5jvGiNZZnJycK.htm](spells/evo-07-HES5jvGiNZZnJycK.htm)|Force Cage|
 |[evo-07-oahqARSgOGDRybBQ.htm](spells/evo-07-oahqARSgOGDRybBQ.htm)|Control Sand|
 |[ill-01-nX85Brzax9f650aK.htm](spells/ill-01-nX85Brzax9f650aK.htm)|Invisible Item|
@@ -456,6 +454,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[div-06-l4LFwY7iuzX6sDXr.htm](spells/div-06-l4LFwY7iuzX6sDXr.htm)|Commune with Nature|Communion avec la nature|officielle|
 |[div-06-r784cIz17eWujtQj.htm](spells/div-06-r784cIz17eWujtQj.htm)|Scrying|Scrutation|officielle|
 |[div-06-uqlxMQQeSGWEVjki.htm](spells/div-06-uqlxMQQeSGWEVjki.htm)|True Seeing|Vision lucide|officielle|
+|[div-06-Zvg0FWzClGbzucFd.htm](spells/div-06-Zvg0FWzClGbzucFd.htm)|Speaking Sky|Ciel parlant|libre|
 |[div-07-AlbpWWN87yGegoAF.htm](spells/div-07-AlbpWWN87yGegoAF.htm)|True Target|Cible verrouillée|changé|
 |[div-07-hp6Q64dl7xbdn4gQ.htm](spells/div-07-hp6Q64dl7xbdn4gQ.htm)|Legend Lore|Mythes et légendes|officielle|
 |[div-07-rsZ5c0AUyywe5yoK.htm](spells/div-07-rsZ5c0AUyywe5yoK.htm)|Retrocognition|Rétrocognition|officielle|
@@ -584,6 +583,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-02-1xbFBQDRs0hT5xZ9.htm](spells/evo-02-1xbFBQDRs0hT5xZ9.htm)|Shatter|Fracassement|officielle|
 |[evo-02-2ZdHjnpEQJuqOYSG.htm](spells/evo-02-2ZdHjnpEQJuqOYSG.htm)|Flaming Sphere|Sphère de feu|changé|
 |[evo-02-4GE2ZdODgIQtg51c.htm](spells/evo-02-4GE2ZdODgIQtg51c.htm)|Darkness|Ténèbres|changé|
+|[evo-02-AsKLseOo8hwv5Jha.htm](spells/evo-02-AsKLseOo8hwv5Jha.htm)|Invoke the Crimson Oath|Invoquer le Serment écarlate|libre|
 |[evo-02-Dbd5W6G8U2vzWolN.htm](spells/evo-02-Dbd5W6G8U2vzWolN.htm)|Consecrate|consécration|changé|
 |[evo-02-f8hRqLJaxBVhF1u0.htm](spells/evo-02-f8hRqLJaxBVhF1u0.htm)|Acid Arrow|Flèche acide|changé|
 |[evo-02-Fq9yCbqI2RDt6Orw.htm](spells/evo-02-Fq9yCbqI2RDt6Orw.htm)|Spiritual Weapon|Arme spirituelle|changé|
@@ -630,6 +630,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-05-R5FHRv7VqyRnxg2t.htm](spells/evo-05-R5FHRv7VqyRnxg2t.htm)|Wall of Ice|Mur de glace|officielle|
 |[evo-05-tpLTLbJUrYcMWGld.htm](spells/evo-05-tpLTLbJUrYcMWGld.htm)|Telekinetic Haul|Transport télékinésique|officielle|
 |[evo-05-zfn5RqAdF63neqpP.htm](spells/evo-05-zfn5RqAdF63neqpP.htm)|Control Water|Contrôle de l'eau|officielle|
+|[evo-05-zoY0fQYTF1NzezTg.htm](spells/evo-05-zoY0fQYTF1NzezTg.htm)|Steal the Sky|Voler le ciel|changé|
 |[evo-06-7Iela4GgVeO3LfAo.htm](spells/evo-06-7Iela4GgVeO3LfAo.htm)|Wall of Force|Mur de force|changé|
 |[evo-06-kuoYff1csM5eAcAP.htm](spells/evo-06-kuoYff1csM5eAcAP.htm)|Fire Seeds|Germe de feu|officielle|
 |[evo-06-peCF6VArm8urfwxZ.htm](spells/evo-06-peCF6VArm8urfwxZ.htm)|Blade Barrier|Barrière de lames|officielle|

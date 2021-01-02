@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **changé**: 880
- * **officielle**: 120
- * **aucune**: 552
+ * **changé**: 882
+ * **officielle**: 131
+ * **aucune**: 540
  * **libre**: 165
 
 
-Dernière mise à jour: 2020-12-23 16:10 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-02 15:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -23,7 +23,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-13-nzQKwdUxzmmwWtzT.htm](equipment/armor-13-nzQKwdUxzmmwWtzT.htm)|Medusa's Scream|
 |[armor-13-TyW1XOWYMM2xHGaI.htm](equipment/armor-13-TyW1XOWYMM2xHGaI.htm)|Medusa's Scream (Greater)|
 |[armor-14-tLNsmY90aN668PMG.htm](equipment/armor-14-tLNsmY90aN668PMG.htm)|Glorious Plate|
-|[armor-15-aPD0z9dBsHqgiCW0.htm](equipment/armor-15-aPD0z9dBsHqgiCW0.htm)|Reforging Shield|
 |[armor-15-ed2F0L3R6UNSFUmS.htm](equipment/armor-15-ed2F0L3R6UNSFUmS.htm)|Victory Plate (Greater)|
 |[armor-16-EKXRigmEZgqmFA62.htm](equipment/armor-16-EKXRigmEZgqmFA62.htm)|Nethysian Bulwark|
 |[armor-17-COsToVFlA36UmkB7.htm](equipment/armor-17-COsToVFlA36UmkB7.htm)|Jerkin of Liberation|
@@ -122,7 +121,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-07-4tnPWyApPZP1P1yO.htm](equipment/consumable-07-4tnPWyApPZP1P1yO.htm)|Swift Block Cabochon|
 |[consumable-07-7IrQPyMm76nLVoXx.htm](equipment/consumable-07-7IrQPyMm76nLVoXx.htm)|Sovereign Glue|
 |[consumable-07-903CuhvVUhE1lmoB.htm](equipment/consumable-07-903CuhvVUhE1lmoB.htm)|Corrosive Ammunition|
-|[consumable-07-d5aCuFS1dhKXhsZ0.htm](equipment/consumable-07-d5aCuFS1dhKXhsZ0.htm)|Addlebrain|
 |[consumable-07-EkC2W5A5fohoIKSd.htm](equipment/consumable-07-EkC2W5A5fohoIKSd.htm)|Ration Tonic (Greater)|
 |[consumable-07-FgAPV0iLE6R1QMJ5.htm](equipment/consumable-07-FgAPV0iLE6R1QMJ5.htm)|Skinstitch Salve|
 |[consumable-07-HUPCdlFkJQC7Krim.htm](equipment/consumable-07-HUPCdlFkJQC7Krim.htm)|Starshot Arrow (Lesser)|
@@ -321,7 +319,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-04-Ejmv9IHGp9Ad9dgu.htm](equipment/equipment-04-Ejmv9IHGp9Ad9dgu.htm)|Thieves' Tools (Concealable)|
 |[equipment-04-f9vNVQ2v45mDI8Xr.htm](equipment/equipment-04-f9vNVQ2v45mDI8Xr.htm)|Aeon Stone (Azure Briolette)|
 |[equipment-04-g9pOZsJykSihdyrL.htm](equipment/equipment-04-g9pOZsJykSihdyrL.htm)|Sealing Chest (Lesser)|
-|[equipment-04-JCGsj7iY88o9uTP5.htm](equipment/equipment-04-JCGsj7iY88o9uTP5.htm)|Hunter's Arrowhead|
 |[equipment-04-LmIpYZ1lS2UDGXvU.htm](equipment/equipment-04-LmIpYZ1lS2UDGXvU.htm)|Mortar of Hidden Meaning|
 |[equipment-04-oC4ZMEdBJ3ia4ALm.htm](equipment/equipment-04-oC4ZMEdBJ3ia4ALm.htm)|Cloak of Repute|
 |[equipment-04-PhjutBgR1egCuHvY.htm](equipment/equipment-04-PhjutBgR1egCuHvY.htm)|Wayfinder of Rescue|
@@ -359,7 +356,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-06-yWlQQOs0A3ApEc1J.htm](equipment/equipment-06-yWlQQOs0A3ApEc1J.htm)|Wand of Teeming Ghosts (2nd-Level Spell)|
 |[equipment-06-ZJ3ahspZOXL4CK4J.htm](equipment/equipment-06-ZJ3ahspZOXL4CK4J.htm)|Wand of Hopeless Night (2nd-Level Spell)|
 |[equipment-07-31tSOy1iHCjNNd4N.htm](equipment/equipment-07-31tSOy1iHCjNNd4N.htm)|Everyneed Pack (Greater)|
-|[equipment-07-A4BhFOb4iQtJYYKq.htm](equipment/equipment-07-A4BhFOb4iQtJYYKq.htm)|Dragon's Eye Charm|
 |[equipment-07-gfBAxuitJje6NL7G.htm](equipment/equipment-07-gfBAxuitJje6NL7G.htm)|Rope of Climbing (Greater)|
 |[equipment-07-nI5x32JWjcEqYCq6.htm](equipment/equipment-07-nI5x32JWjcEqYCq6.htm)|Sealing Chest (Moderate)|
 |[equipment-07-Oudcra1CGDmUq0BH.htm](equipment/equipment-07-Oudcra1CGDmUq0BH.htm)|Unmemorable Mantle|
@@ -383,15 +379,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-09-6MIBHKMJmD8uQVam.htm](equipment/equipment-09-6MIBHKMJmD8uQVam.htm)|Chain of the Stilled Spirit|
 |[equipment-09-aR0tsZ3xi1iwr53u.htm](equipment/equipment-09-aR0tsZ3xi1iwr53u.htm)|Shoony Shovel|
 |[equipment-09-b2shhButUcNimET9.htm](equipment/equipment-09-b2shhButUcNimET9.htm)|Mask of the Banshee (Greater)|
-|[equipment-09-dJoYIbM6GF6wgX0b.htm](equipment/equipment-09-dJoYIbM6GF6wgX0b.htm)|Gourd Home|
 |[equipment-09-dRVDcmkaB2p8zPcs.htm](equipment/equipment-09-dRVDcmkaB2p8zPcs.htm)|Stole of Civility|
 |[equipment-09-e4lHxftAOoTmGXuG.htm](equipment/equipment-09-e4lHxftAOoTmGXuG.htm)|Unmemorable Mantle (Greater)|
-|[equipment-09-idw9HdfR4QvseXsc.htm](equipment/equipment-09-idw9HdfR4QvseXsc.htm)|Cursed Dreamstone|
 |[equipment-09-JhDhFq2JGBGR2lwb.htm](equipment/equipment-09-JhDhFq2JGBGR2lwb.htm)|Elemental Wayfinder (Fire)|
 |[equipment-09-kZKK4Va3e7n3p3tv.htm](equipment/equipment-09-kZKK4Va3e7n3p3tv.htm)|Earthsight Box|
-|[equipment-09-lRdrk7Dh9eVlXFHi.htm](equipment/equipment-09-lRdrk7Dh9eVlXFHi.htm)|Dreamstone|
 |[equipment-09-M1fRjN7E3P55zvmc.htm](equipment/equipment-09-M1fRjN7E3P55zvmc.htm)|Inspiring Spotlight|
-|[equipment-09-MBF9bZCwkJp2RZoN.htm](equipment/equipment-09-MBF9bZCwkJp2RZoN.htm)|Bountiful Cauldron|
 |[equipment-09-O6deRhRldwTqMP97.htm](equipment/equipment-09-O6deRhRldwTqMP97.htm)|Diviner's Nose Chain|
 |[equipment-09-PMmJ47MLUXAWmXFg.htm](equipment/equipment-09-PMmJ47MLUXAWmXFg.htm)|Elemental Wayfinder (Earth)|
 |[equipment-09-qQpcBE7ngv7TIAW3.htm](equipment/equipment-09-qQpcBE7ngv7TIAW3.htm)|Wand of Overflowing Life (3rd-Level Spell)|
@@ -422,7 +414,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-11-a5dEzZPuxsmTvlWS.htm](equipment/equipment-11-a5dEzZPuxsmTvlWS.htm)|Insistent Door Knocker (Greater)|
 |[equipment-11-A7TCZXIwyxdqYSas.htm](equipment/equipment-11-A7TCZXIwyxdqYSas.htm)|Singing Bowl of the Versatile Stance|
 |[equipment-11-DH0kB9Wbr5pDeunX.htm](equipment/equipment-11-DH0kB9Wbr5pDeunX.htm)|Holy|
-|[equipment-11-eoQRjG2RjppnbYGL.htm](equipment/equipment-11-eoQRjG2RjppnbYGL.htm)|Eye of the Wise|
 |[equipment-11-fumxKes1z2hLN2U7.htm](equipment/equipment-11-fumxKes1z2hLN2U7.htm)|Ready (Greater)|
 |[equipment-11-gRQXLqUuP4GWfDWI.htm](equipment/equipment-11-gRQXLqUuP4GWfDWI.htm)|Doubling Rings (Greater)|
 |[equipment-11-idAyVZxTkPSNLbnt.htm](equipment/equipment-11-idAyVZxTkPSNLbnt.htm)|Quill of Passage|
@@ -454,7 +445,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-14-ljZwHU5BMnFafVa3.htm](equipment/equipment-14-ljZwHU5BMnFafVa3.htm)|Wand of Noisome Acid (6th-Level Spell)|
 |[equipment-14-ut83Grf73Z8ZTaV1.htm](equipment/equipment-14-ut83Grf73Z8ZTaV1.htm)|Wand of the Snowfields (5th-Level Spell)|
 |[equipment-15-3pKIEBtZBVmSmVPl.htm](equipment/equipment-15-3pKIEBtZBVmSmVPl.htm)|Earthglide Cloak|
-|[equipment-15-bTLmJMATrrtq8NuT.htm](equipment/equipment-15-bTLmJMATrrtq8NuT.htm)|Dragonscale Amulet|
 |[equipment-15-LfiGXU03Khb1o6fs.htm](equipment/equipment-15-LfiGXU03Khb1o6fs.htm)|Heedless Spurs|
 |[equipment-15-nROnhUnxhbPW5tkG.htm](equipment/equipment-15-nROnhUnxhbPW5tkG.htm)|Infernal Health|
 |[equipment-15-oL8G6OqITPJ5Fd6A.htm](equipment/equipment-15-oL8G6OqITPJ5Fd6A.htm)|Ancestral Echoing|
@@ -467,7 +457,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-16-EXXqJp8rU6HR5Ufg.htm](equipment/equipment-16-EXXqJp8rU6HR5Ufg.htm)|Instant Fortress|
 |[equipment-16-S0IshWO7Vx29PKaq.htm](equipment/equipment-16-S0IshWO7Vx29PKaq.htm)|Crystal Ball (Moonstone)|
 |[equipment-16-sLnkcAGiRQkwQrla.htm](equipment/equipment-16-sLnkcAGiRQkwQrla.htm)|Wand of Teeming Ghosts (7th-Level Spell)|
-|[equipment-16-TGCzwDIrAqo3HUhr.htm](equipment/equipment-16-TGCzwDIrAqo3HUhr.htm)|Guiding Chisel|
 |[equipment-17-3BTIKYHck3JIAPiH.htm](equipment/equipment-17-3BTIKYHck3JIAPiH.htm)|Insistent Door Knocker (Major)|
 |[equipment-17-ByRyBRjNBcK5rwQ9.htm](equipment/equipment-17-ByRyBRjNBcK5rwQ9.htm)|Crystal Ball (Peridot)|
 |[equipment-17-grRxpX1iE3zOJA1q.htm](equipment/equipment-17-grRxpX1iE3zOJA1q.htm)|Wand of Overflowing Life (7th-Level Spell)|
@@ -508,7 +497,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-03-RapaDb10oJZOjujo.htm](equipment/weapon-03-RapaDb10oJZOjujo.htm)|Hunter's Bow|
 |[weapon-05-1S3RgLWa1DBitB9V.htm](equipment/weapon-05-1S3RgLWa1DBitB9V.htm)|Dagger of Eternal Sleep|
 |[weapon-05-6HOQwVUQNplJsrhq.htm](equipment/weapon-05-6HOQwVUQNplJsrhq.htm)|Reaper's Lancet|
-|[weapon-05-Dti9PZZoty6We8OV.htm](equipment/weapon-05-Dti9PZZoty6We8OV.htm)|Cinderclaw Gauntlet|
+|[weapon-05-AYdpUABAZeZnSA7s.htm](equipment/weapon-05-AYdpUABAZeZnSA7s.htm)|Infiltrator's Accessory|
 |[weapon-05-hK5xPjOFd2hb81mi.htm](equipment/weapon-05-hK5xPjOFd2hb81mi.htm)|Poisonous Dagger|
 |[weapon-06-2z4GSaKaVX22kzPU.htm](equipment/weapon-06-2z4GSaKaVX22kzPU.htm)|Gluttonous Spear|
 |[weapon-06-6IJZamE4JkERQumf.htm](equipment/weapon-06-6IJZamE4JkERQumf.htm)|Staff of Conjuration|
@@ -522,7 +511,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-08-2UX3tlC5vKeQjG7t.htm](equipment/weapon-08-2UX3tlC5vKeQjG7t.htm)|Spiritsight Crossbow|
 |[weapon-08-8No84rsBOCVCkXJK.htm](equipment/weapon-08-8No84rsBOCVCkXJK.htm)|Staff of Illumination|
 |[weapon-08-dfheZ5lK0thQUTVT.htm](equipment/weapon-08-dfheZ5lK0thQUTVT.htm)|Flaying Knife|
-|[weapon-08-FCA7CE4mK85SVLz3.htm](equipment/weapon-08-FCA7CE4mK85SVLz3.htm)|Eclipse|
 |[weapon-09-DXidUrzzkwWIMNMD.htm](equipment/weapon-09-DXidUrzzkwWIMNMD.htm)|Whip of Compliance|
 |[weapon-09-k5P9YZO4ARlE4By3.htm](equipment/weapon-09-k5P9YZO4ARlE4By3.htm)|Crimson Brand|
 |[weapon-10-6u14xOkKhnB9lVy0.htm](equipment/weapon-10-6u14xOkKhnB9lVy0.htm)|Staff of Illusion (Greater)|
@@ -627,11 +615,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-13-peAvz7u35GEfTXxp.htm](equipment/armor-13-peAvz7u35GEfTXxp.htm)|Elven Chain (Standard-Grade)|Maille Elfique (qualité standard)|changé|
 |[armor-13-rrnWORxT2Ch4pUFb.htm](equipment/armor-13-rrnWORxT2Ch4pUFb.htm)|Sturdy Shield (Greater)|Bouclier renforcé (supérieur)|changé|
 |[armor-14-Iic9QpNemaumfkHc.htm](equipment/armor-14-Iic9QpNemaumfkHc.htm)|Medusa Armor|Armure de la méduse|officielle|
+|[armor-15-7ynjS9llFg7tPMoj.htm](equipment/armor-15-7ynjS9llFg7tPMoj.htm)|Robe of the Archmagi (Greater)|Robe de l'archimage (supérieure)|changé|
+|[armor-15-aPD0z9dBsHqgiCW0.htm](equipment/armor-15-aPD0z9dBsHqgiCW0.htm)|Reforging Shield|Bouclier réparateur|officielle|
 |[armor-15-gp5kgCySEOuntQPF.htm](equipment/armor-15-gp5kgCySEOuntQPF.htm)|Plate Armor of the Deep|Harnois des profondeurs|changé|
 |[armor-15-kCjvkkuI3JP4TQ0t.htm](equipment/armor-15-kCjvkkuI3JP4TQ0t.htm)|Cold Iron Buckler (High-Grade)|targe en fer froid de haute qualité|changé|
 |[armor-15-LboYDYZ0IbDWuWMl.htm](equipment/armor-15-LboYDYZ0IbDWuWMl.htm)|Silver Buckler (High-Grade)|targe en argent de haute qualité|changé|
 |[armor-15-nRmGErgTLZYf6WMD.htm](equipment/armor-15-nRmGErgTLZYf6WMD.htm)|Cold Iron Shield (High-Grade)|bouclier en fer froid de haute qualité|changé|
 |[armor-15-pRzafUKQviDSMRJp.htm](equipment/armor-15-pRzafUKQviDSMRJp.htm)|Silver Shield (High-Grade)|bouclier en argent de haute qualité|changé|
+|[armor-15-Wkh5rQx3IqInEKdT.htm](equipment/armor-15-Wkh5rQx3IqInEKdT.htm)|Robe of the Archmagi|Robe d'Archimage|changé|
 |[armor-16-3xsQ1AA4dyMHLxpw.htm](equipment/armor-16-3xsQ1AA4dyMHLxpw.htm)|Dragonplate|Harnois du dragon|changé|
 |[armor-16-5dBSn9brsT9NISoR.htm](equipment/armor-16-5dBSn9brsT9NISoR.htm)|Mithral Shield (High-Grade)|bouclier en mithral de haute qualité|changé|
 |[armor-16-8gcuJ2Ev3euFyXnS.htm](equipment/armor-16-8gcuJ2Ev3euFyXnS.htm)|Darkwood Tower Shield (High-Grade)|pavois en ébénite de haute qualité|changé|
@@ -792,12 +783,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-05-lPcnDlBGz5QwCMYw.htm](equipment/consumable-05-lPcnDlBGz5QwCMYw.htm)|Eagle Eye Elixir (Moderate)|Elixir d'oeil de faucon (modéré)|changé|
 |[consumable-05-mmsuA7qPxFLLghtx.htm](equipment/consumable-05-mmsuA7qPxFLLghtx.htm)|Spellstrike Ammunition (Type II)|Munition de frappe magique (Type II)|changé|
 |[consumable-05-MobYbxEL4KgxVi63.htm](equipment/consumable-05-MobYbxEL4KgxVi63.htm)|Salve of Slipperiness|Onguent d'insaisissabilité|changé|
-|[consumable-05-rjUJEY424jyG9dGn.htm](equipment/consumable-05-rjUJEY424jyG9dGn.htm)|Cytillesh|Cytillesh|officielle|
+|[consumable-05-rjUJEY424jyG9dGn.htm](equipment/consumable-05-rjUJEY424jyG9dGn.htm)|Cytillesh|Cytillesh|changé|
 |[consumable-05-rzEQvcWfhR3T4FNd.htm](equipment/consumable-05-rzEQvcWfhR3T4FNd.htm)|Potion of Leaping|Potion de saut|changé|
 |[consumable-05-Tj4uaNw2lgevxGl7.htm](equipment/consumable-05-Tj4uaNw2lgevxGl7.htm)|Shark Tooth Charm|Charme en dent de requin|changé|
 |[consumable-05-TZUskLT7yvP7N2co.htm](equipment/consumable-05-TZUskLT7yvP7N2co.htm)|Elixir of Life (Lesser)|Élixir de vie|changé|
 |[consumable-05-zcJgT5RS8p2MEbOB.htm](equipment/consumable-05-zcJgT5RS8p2MEbOB.htm)|Sea Touch Elixir (Lesser)|Elixir de caresse marine (inférieur)|changé|
-|[consumable-05-ZmefGBXGJF3CFDbn.htm](equipment/consumable-05-ZmefGBXGJF3CFDbn.htm)|Scroll of 3nd-level Spell|Parchemin de sort de niveau 3|changé|
+|[consumable-05-ZmefGBXGJF3CFDbn.htm](equipment/consumable-05-ZmefGBXGJF3CFDbn.htm)|Scroll of 3rd-level Spell|Parchemin de sort de niveau 3|changé|
 |[consumable-05-zrZ1FaaqW6VIajj7.htm](equipment/consumable-05-zrZ1FaaqW6VIajj7.htm)|Tiger Menuki|Menuki du tigre|changé|
 |[consumable-06-4owFeOy4zxy8rv7W.htm](equipment/consumable-06-4owFeOy4zxy8rv7W.htm)|Feather Token (Tree)|Plume magique (arbre)|changé|
 |[consumable-06-8iGmSwTTUdj6gqN5.htm](equipment/consumable-06-8iGmSwTTUdj6gqN5.htm)|Dust of Appearance|Poudre d'apparition|changé|
@@ -822,6 +813,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-07-76T49dJYfxIrPvQe.htm](equipment/consumable-07-76T49dJYfxIrPvQe.htm)|Malyass Root Paste|Pâte de racine de malyasse|changé|
 |[consumable-07-9ignmYCACjfzkxDQ.htm](equipment/consumable-07-9ignmYCACjfzkxDQ.htm)|Serum of Sex Shift|Sérum de changement de sexe|changé|
 |[consumable-07-aBOPYlfHAcXUmhF7.htm](equipment/consumable-07-aBOPYlfHAcXUmhF7.htm)|Giant Wasp Venom|Venin de guèpe géante|changé|
+|[consumable-07-d5aCuFS1dhKXhsZ0.htm](equipment/consumable-07-d5aCuFS1dhKXhsZ0.htm)|Addlebrain|Brouillecervelle|changé|
 |[consumable-07-eEIWjTvZyKsKhYaz.htm](equipment/consumable-07-eEIWjTvZyKsKhYaz.htm)|Grim Trophy|Sinistre trophée|changé|
 |[consumable-07-ehss8yPTXxiUdVlJ.htm](equipment/consumable-07-ehss8yPTXxiUdVlJ.htm)|Smokestick (Greater)|Bâton fumigène (supérieur)|changé|
 |[consumable-07-fkGHYeGVK6O2VW1s.htm](equipment/consumable-07-fkGHYeGVK6O2VW1s.htm)|Red Dragon's Breath Potion (Young)|Potion de souffle de jeune dragon rouge|changé|
@@ -1102,6 +1094,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-04-DxCuJKynlnMQZHgp.htm](equipment/equipment-04-DxCuJKynlnMQZHgp.htm)|Striking|Frappe (rune)|changé|
 |[equipment-04-EGYcFO9eYfajGKEf.htm](equipment/equipment-04-EGYcFO9eYfajGKEf.htm)|Occult Scroll Case of Simplicity|Étui à parchemin de cimplicité occulte|changé|
 |[equipment-04-g2oaOGSpttfH1q6W.htm](equipment/equipment-04-g2oaOGSpttfH1q6W.htm)|Lifting Belt|Ceinture de levée|changé|
+|[equipment-04-JCGsj7iY88o9uTP5.htm](equipment/equipment-04-JCGsj7iY88o9uTP5.htm)|Hunter's Arrowhead|Pointe de flèche du chasseur|officielle|
 |[equipment-04-JQdwHECogcTzdd8R.htm](equipment/equipment-04-JQdwHECogcTzdd8R.htm)|Ghost Touch|Spectrale (rune)|changé|
 |[equipment-04-mqOjTuUHv4cRdt2N.htm](equipment/equipment-04-mqOjTuUHv4cRdt2N.htm)|Primal Scroll Case of Simplicity|Étui à parchemin de simplicité primordiale|changé|
 |[equipment-04-o1zKhvYUUc1hE2AE.htm](equipment/equipment-04-o1zKhvYUUc1hE2AE.htm)|Healer's Gloves|Gants du guérisseur|changé|
@@ -1139,6 +1132,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-07-14rbefsoClgClRQ8.htm](equipment/equipment-07-14rbefsoClgClRQ8.htm)|Ring of Sustenance|Anneau de subsistance|changé|
 |[equipment-07-5V9bgqgQY1CHLd40.htm](equipment/equipment-07-5V9bgqgQY1CHLd40.htm)|Wand of Continuation (2nd-Level Spell)|Baguette de prolongation (sort de niveau 2)|changé|
 |[equipment-07-7TQw7V1zZKl0a0Xz.htm](equipment/equipment-07-7TQw7V1zZKl0a0Xz.htm)|Bottled Air|Air en bouteille|changé|
+|[equipment-07-A4BhFOb4iQtJYYKq.htm](equipment/equipment-07-A4BhFOb4iQtJYYKq.htm)|Dragon's Eye Charm|Charme d'oeil de dragon|officielle|
 |[equipment-07-aBVrNIPoPGOYxm80.htm](equipment/equipment-07-aBVrNIPoPGOYxm80.htm)|Decanter of Endless Water|Carafe intarissable|changé|
 |[equipment-07-ecqz1iUGtyQEkZwy.htm](equipment/equipment-07-ecqz1iUGtyQEkZwy.htm)|Boots of Bounding|Bottes de saut|changé|
 |[equipment-07-faKyy6ETkDgrUnvf.htm](equipment/equipment-07-faKyy6ETkDgrUnvf.htm)|Ring of Wizardry (Type I)|Anneau des arcanes (Type I)|changé|
@@ -1177,12 +1171,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-09-bSm0Hki8N2L50OZw.htm](equipment/equipment-09-bSm0Hki8N2L50OZw.htm)|Shadow (Greater)|Ombre supérieure (rune)|changé|
 |[equipment-09-byKAxLyN7AXySmw7.htm](equipment/equipment-09-byKAxLyN7AXySmw7.htm)|Lock (Good)|Serrure (Bonne)|changé|
 |[equipment-09-cO7ANYLkcmfCn9c9.htm](equipment/equipment-09-cO7ANYLkcmfCn9c9.htm)|Collar of Empathy|Collier d'empathie|changé|
+|[equipment-09-dJoYIbM6GF6wgX0b.htm](equipment/equipment-09-dJoYIbM6GF6wgX0b.htm)|Gourd Home|Calebasse de camping|officielle|
 |[equipment-09-dLTN4FU3qBoDZ5CJ.htm](equipment/equipment-09-dLTN4FU3qBoDZ5CJ.htm)|Eyes of the Eagle|Yeux d'aigle|changé|
 |[equipment-09-dolBtAdB5lpQpQpp.htm](equipment/equipment-09-dolBtAdB5lpQpQpp.htm)|Ventriloquist's Ring (Greater)|Anneau de ventriloquie (supérieure)|changé|
 |[equipment-09-HAtj6AGCIZHpD7Nl.htm](equipment/equipment-09-HAtj6AGCIZHpD7Nl.htm)|Messenger's Ring|Anneau du messager|changé|
 |[equipment-09-Hd1AfC08ytBg67Ey.htm](equipment/equipment-09-Hd1AfC08ytBg67Ey.htm)|Hat of the Magi (Greater)|Couvre-chef de thaumaturge (supérieur)|changé|
+|[equipment-09-idw9HdfR4QvseXsc.htm](equipment/equipment-09-idw9HdfR4QvseXsc.htm)|Cursed Dreamstone|Pierre onirique maudite|officielle|
 |[equipment-09-IufO3dNPhC1c2ZcL.htm](equipment/equipment-09-IufO3dNPhC1c2ZcL.htm)|Necklace of Fireballs III|Collier à boules de feu III|changé|
 |[equipment-09-KLWjINVkWwJlOZEX.htm](equipment/equipment-09-KLWjINVkWwJlOZEX.htm)|Triton's Conch|Conque de triton|changé|
+|[equipment-09-lRdrk7Dh9eVlXFHi.htm](equipment/equipment-09-lRdrk7Dh9eVlXFHi.htm)|Dreamstone|Pierre onirique|officielle|
+|[equipment-09-MBF9bZCwkJp2RZoN.htm](equipment/equipment-09-MBF9bZCwkJp2RZoN.htm)|Bountiful Cauldron|Chaudron d'abondance|officielle|
 |[equipment-09-OYeYYJ4i66VtGY3O.htm](equipment/equipment-09-OYeYYJ4i66VtGY3O.htm)|Tracker's Goggles (Greater)|Lunettes de pisteur (supérieures)|changé|
 |[equipment-09-P5nasaE0JgvkZyZp.htm](equipment/equipment-09-P5nasaE0JgvkZyZp.htm)|Bracers of Missile Deflection (Greater)|Protège-bras de déviation de projectiles (supérieurs)|changé|
 |[equipment-09-pPl2b7fqfB6dyQwf.htm](equipment/equipment-09-pPl2b7fqfB6dyQwf.htm)|Phylactery of Faithfulness|Phylactère du croyant|changé|
@@ -1227,6 +1225,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-11-AFE073UYI0mkWuUs.htm](equipment/equipment-11-AFE073UYI0mkWuUs.htm)|Skeleton Key (Greater)|Passe_partout (supérieur)|changé|
 |[equipment-11-bCsdAkffuk29ssUg.htm](equipment/equipment-11-bCsdAkffuk29ssUg.htm)|Wand of Continuation (4th-Level Spell)|Baguette de prolongation (sort de niveau 4)|changé|
 |[equipment-11-Dr9b08JhDThUenF9.htm](equipment/equipment-11-Dr9b08JhDThUenF9.htm)|Necklace of Fireballs IV|Collier à boules de feu IV|changé|
+|[equipment-11-eoQRjG2RjppnbYGL.htm](equipment/equipment-11-eoQRjG2RjppnbYGL.htm)|Eye of the Wise|Oeil du sage|officielle|
 |[equipment-11-gmMrJREf4JSHd2dZ.htm](equipment/equipment-11-gmMrJREf4JSHd2dZ.htm)|Unholy|Impie (rune)|changé|
 |[equipment-11-JSYtBZ7XblyAEFoV.htm](equipment/equipment-11-JSYtBZ7XblyAEFoV.htm)|Crafter's Eyepiece (Greater)|Oculaire d'artisan (supérieur)|changé|
 |[equipment-11-nLvP7U50hLqz26Uy.htm](equipment/equipment-11-nLvP7U50hLqz26Uy.htm)|Ring of Maniacal Devices|Anneau d'objets déments|changé|
@@ -1271,6 +1270,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-14-t0pzdb54KD2JQcEa.htm](equipment/equipment-14-t0pzdb54KD2JQcEa.htm)|Horseshoes of Speed (Greater)|Fers à cheval de vitesse (supérieurs)|changé|
 |[equipment-14-zyAzx6fLsPurRFQO.htm](equipment/equipment-14-zyAzx6fLsPurRFQO.htm)|Ring of Energy Resistance (Major)|Anneau de résistance aux énergies (majeur)|changé|
 |[equipment-15-35rLqxDWgiDIkL8e.htm](equipment/equipment-15-35rLqxDWgiDIkL8e.htm)|Wand of Continuation (6th-Level Spell)|Baguette de prolongation (sort de niveau 6)|changé|
+|[equipment-15-bTLmJMATrrtq8NuT.htm](equipment/equipment-15-bTLmJMATrrtq8NuT.htm)|Dragonscale Amulet|Amulette en écailes de dragon|officielle|
 |[equipment-15-Lb7F2BR9X9TF1vjX.htm](equipment/equipment-15-Lb7F2BR9X9TF1vjX.htm)|Thundering (Greater)|Tonnerre supérieure (rune)|changé|
 |[equipment-15-NLF4Z7jn44Sf3RGS.htm](equipment/equipment-15-NLF4Z7jn44Sf3RGS.htm)|Necklace of Strangulation|Collier étrangleur|officielle|
 |[equipment-15-nmXPj9zuMRQBNT60.htm](equipment/equipment-15-nmXPj9zuMRQBNT60.htm)|Magic Wand (7th-Level Spell)|Baguette magique (sort de niveau 7)|changé|
@@ -1280,13 +1280,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-15-Sexud7FdxIrg50vU.htm](equipment/equipment-15-Sexud7FdxIrg50vU.htm)|Frost (Greater)|Froid supérieure (rune)|changé|
 |[equipment-15-TEa1oKZbwsOvC6TZ.htm](equipment/equipment-15-TEa1oKZbwsOvC6TZ.htm)|Shock (Greater)|Foudre supérieure (rune)|changé|
 |[equipment-15-vQUIUAFOTOWj3ohh.htm](equipment/equipment-15-vQUIUAFOTOWj3ohh.htm)|Corrosive (Greater)|Corrosive supérieure (rune)|changé|
-|[equipment-15-Wkh5rQx3IqInEKdT.htm](equipment/equipment-15-Wkh5rQx3IqInEKdT.htm)|Robe of the Archmagi|Robe d'Archimage|changé|
 |[equipment-15-ZZcIhgiKuptXRGyK.htm](equipment/equipment-15-ZZcIhgiKuptXRGyK.htm)|Necklace of Fireballs VI|Collier à boules de feu VI|changé|
 |[equipment-16-CjfBdn0fOIarWzBc.htm](equipment/equipment-16-CjfBdn0fOIarWzBc.htm)|Wand of Slaying (7th-Level Spell)|Baguette tueuse (sort de niveau 7)|changé|
 |[equipment-16-kNfdGNIGzF0fW7aq.htm](equipment/equipment-16-kNfdGNIGzF0fW7aq.htm)|Wand of Widening (7th-Level Spell)|Baguette d'élargissement (sort de niveau 7)|changé|
 |[equipment-16-KnZL0xPWDzQx9vWQ.htm](equipment/equipment-16-KnZL0xPWDzQx9vWQ.htm)|Speed|Rapide (rune)|changé|
 |[equipment-16-MO8J2IcBhiTnm9D8.htm](equipment/equipment-16-MO8J2IcBhiTnm9D8.htm)|Aeon Stone (Orange Prism)|Pierre d'éternité (prisme orange)|changé|
 |[equipment-16-rvItjGQaYT7Luwtm.htm](equipment/equipment-16-rvItjGQaYT7Luwtm.htm)|Weapon Potency (+3)|Puissance d'arme +3 (rune)|changé|
+|[equipment-16-TGCzwDIrAqo3HUhr.htm](equipment/equipment-16-TGCzwDIrAqo3HUhr.htm)|Guiding Chisel|Ciseau d'orientation|officielle|
 |[equipment-16-YR8IAV94fPo0kfBz.htm](equipment/equipment-16-YR8IAV94fPo0kfBz.htm)|Wand of Smoldering Fireballs (7th-Level Spell)|Baguette de boules de feu incendiaires (Sort de niveau 7)|changé|
 |[equipment-17-0yeM77XLNrB0a0LF.htm](equipment/equipment-17-0yeM77XLNrB0a0LF.htm)|Circlet of Persuasion|Serre-tête de persuasion|changé|
 |[equipment-17-1FKDq4Gfev5GObDT.htm](equipment/equipment-17-1FKDq4Gfev5GObDT.htm)|Diadem of Intellect|Diadème d'intellect|changé|
@@ -1325,7 +1325,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-18-wYpWQCD2IYqDtqpc.htm](equipment/equipment-18-wYpWQCD2IYqDtqpc.htm)|Marvelous Medicines (Greater)|Remèdes merveilleux (supérieur)|changé|
 |[equipment-19-5sMAAIymln2yIl4q.htm](equipment/equipment-19-5sMAAIymln2yIl4q.htm)|Aeon Stone (Lavender and Green Ellipsoid)|Pierre d'éternité (ellipsoïde vert et lavande)|changé|
 |[equipment-19-7MTjAlCVVLsNFo7w.htm](equipment/equipment-19-7MTjAlCVVLsNFo7w.htm)|Third Eye|Troisième oeil|changé|
-|[equipment-19-7ynjS9llFg7tPMoj.htm](equipment/equipment-19-7ynjS9llFg7tPMoj.htm)|Robe of the Archmagi (Greater)|Robe de l'archimage (supérieure)|changé|
 |[equipment-19-Fgv722039TVM5JTc.htm](equipment/equipment-19-Fgv722039TVM5JTc.htm)|Magic Wand (9th-Level Spell)|Baguette magique (sort de niveau 9)|changé|
 |[equipment-19-KMqHzKfpPq5H8GOo.htm](equipment/equipment-19-KMqHzKfpPq5H8GOo.htm)|Wand of Continuation (8th-Level Spell)|Baguette de prolongation (sort de niveau 8)|changé|
 |[equipment-19-OGKI8NS8Er3qumJS.htm](equipment/equipment-19-OGKI8NS8Er3qumJS.htm)|Berserker's Cloak (Greater)|Cape du berseker (supérieure)|changé|
@@ -1665,6 +1664,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-04-WcuknnE3xYfSdbhm.htm](equipment/weapon-04-WcuknnE3xYfSdbhm.htm)|Animal Staff|Bâton animal|changé|
 |[weapon-04-xwiZBOjispKVZzGA.htm](equipment/weapon-04-xwiZBOjispKVZzGA.htm)|Mentalist's Staff|Bâton du mentaliste|changé|
 |[weapon-05-2KNAip9W6IoBrfIU.htm](equipment/weapon-05-2KNAip9W6IoBrfIU.htm)|Caterwaul Sling|Fronde qui feule|changé|
+|[weapon-05-Dti9PZZoty6We8OV.htm](equipment/weapon-05-Dti9PZZoty6We8OV.htm)|Cinderclaw Gauntlet|Gantelet de griffe de braise|officielle|
 |[weapon-05-OKAR7GIyJac8dmsi.htm](equipment/weapon-05-OKAR7GIyJac8dmsi.htm)|Singing Sword|Épée chantante|officielle|
 |[weapon-05-ZvIEJCY60fHqzl6r.htm](equipment/weapon-05-ZvIEJCY60fHqzl6r.htm)|Dagger of Venom|Dague venimeuse|changé|
 |[weapon-06-17Oza88ts0ASngdw.htm](equipment/weapon-06-17Oza88ts0ASngdw.htm)|Acrobat's Staff|Bâton de l'Acrobate|changé|
@@ -1678,6 +1678,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-06-tNue4PqJe85ZEE5v.htm](equipment/weapon-06-tNue4PqJe85ZEE5v.htm)|Bloodletting Kukri|Kukri de la saignée|changé|
 |[weapon-08-0RCC0fOg1Lp7f79I.htm](equipment/weapon-08-0RCC0fOg1Lp7f79I.htm)|Mentalist's Staff (Greater)|Bâton du mentaliste (supérieur)|changé|
 |[weapon-08-bT9azgpc96DNbitA.htm](equipment/weapon-08-bT9azgpc96DNbitA.htm)|Animal Staff (Greater)|Bâton animal (supérieur)|changé|
+|[weapon-08-FCA7CE4mK85SVLz3.htm](equipment/weapon-08-FCA7CE4mK85SVLz3.htm)|Eclipse|Éclipse|officielle|
 |[weapon-08-KcjaeMgrsBGgwUWL.htm](equipment/weapon-08-KcjaeMgrsBGgwUWL.htm)|Staff of Fire (Greater)|Bâton de feu (supérieur)|changé|
 |[weapon-08-XSwEE8wjHr6UXzpw.htm](equipment/weapon-08-XSwEE8wjHr6UXzpw.htm)|Staff of Healing (Greater)|Bâton de guérison (supérieur)|changé|
 |[weapon-09-w5ZX1R3dPvuLcuRx.htm](equipment/weapon-09-w5ZX1R3dPvuLcuRx.htm)|Gloom Blade|Lame obscure|changé|

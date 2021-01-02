@@ -1,11 +1,11 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 29
- * **changé**: 140
+ * **libre**: 30
+ * **changé**: 139
  * **officielle**: 24
 
 
-Dernière mise à jour: 2020-12-23 16:10 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-02 15:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -202,6 +202,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ybCJZK6D4yY7AyVj.htm](backgrounds/ybCJZK6D4yY7AyVj.htm)|Royalty|De sang royal|changé|
 |[yikXQI2YVWcmGV2N.htm](backgrounds/yikXQI2YVWcmGV2N.htm)|Acrobat|Acrobate|officielle|
 |[yphbsrQe9KmQefU9.htm](backgrounds/yphbsrQe9KmQefU9.htm)|Emissary|Émissaire|officielle|
-|[YS8l22rXhnLnyBqb.htm](backgrounds/YS8l22rXhnLnyBqb.htm)|Bonuwat Wavetouched|Bonuwat Touché par les vagues|changé|
+|[YS8l22rXhnLnyBqb.htm](backgrounds/YS8l22rXhnLnyBqb.htm)|Bonuwat Wavetouched|Bonuwat Touché par les vagues|libre|
 |[YYGaSpcfC3XBnyg1.htm](backgrounds/YYGaSpcfC3XBnyg1.htm)|Vidrian Reformer|Réformateur vidrien|changé|
 |[YYgcTGfA8UIJwv3Y.htm](backgrounds/YYgcTGfA8UIJwv3Y.htm)|Archaeologist|Archéologue|changé|

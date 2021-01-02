@@ -809,7 +809,7 @@
         {
             "id": "Bonuwat Wavetouched",
             "name": "Bonuwat Wavetouched (Bonuwat Touché par les vagues)",
-            "description": "<p>Vous êtes un enfant du peuple Bonuwat et l'eau de mer circule dans vos veines. Vous avez appris à naviguer et à nager avec aisance, vous permettant d'obtenir le titre honorifique de Touché par les vagues.</p>\n<p>Choisissez deux améliorations de Caractéristique. L'une d'entre elles doit être de <strong>Force </strong>ou de <strong>sagesse</strong>, et l'autre prime de caractéristique est libre.</p>\n<p>Vous êtes qualifié en Athlétisme et en Connaissance de l'Océan. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.iOY6YfGBaOvMNAor]{Maraudeur aquatique}.</p>\n<p><strong>Spécial</strong> Vous pouvez choisir le don d'héritage @Compendium[pf2e.feats-srd.AcgxKcA5I3dNTWLr]{Parangon touché par les vagues} au niveau 1 au lieu du niveau 5.</p>"
+            "description": "<p>Vous êtes un enfant du peuple Bonuwat et l'eau de mer circule dans vos veines. Vous avez appris à naviguer et à nager avec aisance, vous permettant d'obtenir le titre honorifique de Touché par les vagues.</p>\n<p>Choisissez deux améliorations de Caractéristique. L'une d'entre elles doit être de <strong>Force</strong> ou de <strong>Sagesse</strong>, et l'autre prime de caractéristique est libre.</p>\n<p>Vous êtes qualifié en Athlétisme et en Connaissance de l'Océan. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.iOY6YfGBaOvMNAor]{Maraudeur aquatique}.</p>\n<p><strong>Spécial</strong> Vous pouvez choisir le don ancestral @Compendium[pf2e.feats-srd.AcgxKcA5I3dNTWLr]{Parangon touché par les vagues} au niveau 1 au lieu du niveau 5.</p>"
         },
         {
             "id": "Acrobat",
