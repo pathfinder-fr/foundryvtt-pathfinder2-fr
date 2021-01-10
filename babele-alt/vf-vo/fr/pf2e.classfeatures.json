@@ -1097,6 +1097,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous entretenez une relation spéciale avec les créatures du monde naturel qui vous permet de communiquer avec elles de manière rudimentaire. Vous pouvez utiliser Diplomatie pour Faire bonne impression sur des animaux et pour les Solliciter en leur demandant des choses très simples. Dans la plupart des cas, les animaux sauvages vous laisseront le temps d’exposer votre cas.&nbsp;</span></p>"
         },
         {
+            "id": "Powerful Alchemy",
+            "name": "Alchimie puissante (Powerful Alchemy)",
+            "description": "<p>Les objets alchimiques que vous créez à la volée sont particulièrement puissants. Lorsque vous utilisez Alchimie rapide pour créer un objet alchimique imprégné qui permet un jet de sauvegarde, vous pouvez changer son DD pour votre DD de classe.</p>"
+        },
+        {
             "id": "Debilitating Strikes",
             "name": "Frappes incapacitantes (Debilitating Strikes)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous profitez d’une ouverture, vous blessez et handicapez votre adversaire. Vous gagnez l’action gratuite @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Frappe incapacitante}.&nbsp;</span></p>"
@@ -1238,8 +1243,8 @@
         },
         {
             "id": "The Tenets of Evil",
-            "name": "Les préceptes du Mal (The Tenets of Evil)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Tous les champions d'alignement mauvais suivent cespréceptes.&nbsp;</span></p>\n<ul>\n<li>Vous ne devez jamais accomplir des actes anathèmes à votre divinité ou volontairement commettre un acte purement bon, tel que donner quelque chose seulement par charité, lancer un sort du bien ou utiliser un objet bon.</li>\n<li>Vous ne devez jamais placer les besoins d'une autre personne avant les vôtres et ne devez jamais placer vos propres besoins avant ceux de votre divinité. Bien que vous puissiez accomplir des actes que d'autres pourraient considérer comme serviable, cela doit être fait avec vomme objectif que cela vous permettra de faire avancer par la suite vos propres buts ou ceux de votre maître.</li>\n</ul>"
+            "name": "Les principes du Mal (The Tenets of Evil)",
+            "description": "<p>Tous les champions d'alignement mauvais suivent ces principes :</p>\n<ul>\n<li>Vous ne devez jamais accomplir des actes anathèmes à votre divinité ou volontairement commettre un acte purement bon, tel que donner quelque chose seulement par charité, lancer un sort du bien ou utiliser un objet bon.</li>\n<li>Vous ne devez jamais placer les besoins d'une autre personne avant les vôtres et ne devez jamais placer vos propres besoins avant ceux de votre divinité. Bien que vous puissiez accomplir des actes que d'autres pourraient considérer comme serviables, cela doit être fait dans l'objectif de vous permettre de faire avancer par la suite vos propres buts ou ceux de votre maître.</li>\n</ul>"
         },
         {
             "id": "Familiar (Witch)",
@@ -1548,7 +1553,7 @@
         },
         {
             "id": "Weapon Expertise (Champion)",
-            "name": "Expertise avec les armes (Champion) (Weapon Expertise (Champion))",
+            "name": "Expertise martiale (Champion) (Weapon Expertise (Champion))",
             "description": "<p>Vous vous consacrez à l’apprentissage approfondi du maniement de vos armes. Votre rang de maîtrise avec les armes simples, les attaques à mains nues et les armes de guerre passe à expert.</p>"
         },
         {
@@ -1584,12 +1589,12 @@
         {
             "id": "The Tenets of Good",
             "name": "Les principes du bien (The Tenets of Good)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Tous les champions d’alignement bon suivent ces principes :&nbsp;</span></p>\n<ul>\n<li>Vous ne devez jamais accomplir des actes que votre divinité condamne ou commettre sciemment un acte malveillant (commettre un meurtre, infliger des tortures ou lancer un sort du mal, entre autres).</li>\n<li>Vous ne devez jamais nuire sciemment à un innocent ou laisser un innocent se faire malmener sous vos yeux par votre inaction quand vous savez pertinemment que vous pourriez le sauver. Ce principe ne vous oblige pas à agir contre une menace potentielle envers des innocents susceptible de se manifester dans un avenir plus ou moins proche ou à sacrifier votre vie pour les protéger.&nbsp;</li>\n</ul>"
+            "description": "<p>Tous les champions d’alignement bon suivent ces principes :</p>\n<ul>\n<li>Vous ne devez jamais accomplir des actes que votre divinité condamne ou commettre sciemment un acte malveillant (commettre un meurtre, infliger des tortures ou lancer un sort du mal, entre autres).</li>\n<li>Vous ne devez jamais nuire sciemment à un innocent ou laisser un innocent se faire malmener sous vos yeux par votre inaction quand vous savez pertinemment que vous pourriez le sauver. Ce principe ne vous oblige pas à agir contre une menace potentielle envers des innocents susceptible de se manifester dans un avenir plus ou moins proche ou à sacrifier votre vie pour les protéger.&nbsp;</li>\n</ul>"
         },
         {
             "id": "Third Path to Perfection",
-            "name": "Troisème voie vers la Perfection (Third Path to Perfection)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez beaucoup progressé dans votre quête personnelle de l’illumination. Choisissez l’un des jets de sauvegarde sélectionnés avec la voie vers la perfection ou la seconde voie vers la perfection. Votre rang de maîtrise dans le jet de sauvegarde choisi passe à légendaire. Quand vous obtenez un échec critique au jet de sauvegarde choisi, celui-ci se transforme en échec. Lorsque vous obtenez un échec sur le jet de sauvegarde choisi contre un effet qui inflige des dégâts, vous ne subissez que la moitié des dégâts.&nbsp;</span></p>"
+            "name": "Troisième voie vers la Perfection (Third Path to Perfection)",
+            "description": "<p>Vous avez beaucoup progressé dans votre quête personnelle de l’illumination. Choisissez l’un des jets de sauvegarde sélectionnés avec Voie vers la perfection ou Seconde voie vers la perfection. Votre rang de maîtrise dans le jet de sauvegarde choisi passe à légendaire. Quand vous obtenez un échec critique au jet de sauvegarde choisi, celui-ci se transforme en échec. Lorsque vous obtenez un échec sur le jet de sauvegarde choisi contre un effet qui inflige des dégâts, vous ne subissez que la moitié des dégâts.</p>"
         },
         {
             "id": "Ranger Expertise",
@@ -1599,7 +1604,7 @@
         {
             "id": "Precise Strike",
             "name": "Frappe précise (Precise Strike)",
-            "description": "<p>Vous @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappez} avec flair. Lorsque vous disposez de panache et que vous Frappez avec une arme agile ou de finesse au corps à corps, vous infligez [[/r 2 #precision]] dégâts supplémentaires de précision. Si la Frappe est une partie de l'action de finition, les dégâts supplémentaires passent à [[/r 2d6 #precision]] dégâts de précision à la place.&nbsp;</p>\n<p>Lorsque votre niveau de Bretteur augmente, il en est également ainsi de vos dégâts supplémentaires de la frappe précise. Augmentez le montant des dégâts supplémentaires sur une Frappe et le nombre de dés supplémentaires sur une finition par 1 aux niveaux 5, 9, 13 et 17.</p>"
+            "description": "<p>Vous @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappez} avec élégance. Lorsque vous disposez de panache et que vous Frappez avec une arme agile ou de finesse au corps à corps, vous infligez [[/r 2 #précision]] dégâts supplémentaires de précision. Si la Frappe est une partie de l'action de finition, les dégâts supplémentaires passent à [[/r 2d6 #précision]] dégâts de précision à la place.</p>\n<p>Lorsque votre niveau de Bretteur augmente, il en est également ainsi de vos dégâts supplémentaires de Frappe précise. Augmentez le montant des dégâts supplémentaires sur une Frappe et le nombre de dés supplémentaires sur une action de finition de 1 aux niveaux 5, 9, 13 et 17.</p>"
         },
         {
             "id": "Greater Weapon Specialization (Fighter)",

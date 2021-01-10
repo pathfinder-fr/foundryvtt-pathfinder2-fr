@@ -1,20 +1,12 @@
 # État de la traduction (hazards)
 
- * **officielle**: 27
- * **libre**: 17
- * **aucune**: 2
+ * **officielle**: 30
+ * **libre**: 16
 
 
-Dernière mise à jour: 2021-01-02 15:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-09 18:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[siylw0zIh1g4VnCW.htm](hazards/siylw0zIh1g4VnCW.htm)|Grasp Of The Damned|
-|[vTdWEBzJzltMM6r4.htm](hazards/vTdWEBzJzltMM6r4.htm)|Shrieker|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -36,7 +28,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[d3YklujLpBFC5HfB.htm](hazards/d3YklujLpBFC5HfB.htm)|Ghostly Choir|Chœur fantômatique|libre|
 |[g9HovYB4pfHgIML9.htm](hazards/g9HovYB4pfHgIML9.htm)|Flensing Blades|Lames dépeçantes|libre|
 |[gB9WkJtH88jJQa5Z.htm](hazards/gB9WkJtH88jJQa5Z.htm)|Plummeting Doom|Chute tragique|libre|
-|[gFt2nzQrVgXM9tmJ.htm](hazards/gFt2nzQrVgXM9tmJ.htm)|Treacherous Scree|Éboulis traître|libre|
+|[gFt2nzQrVgXM9tmJ.htm](hazards/gFt2nzQrVgXM9tmJ.htm)|Treacherous Scree|Éboulis traître|officielle|
 |[H2GX04CQXLPQHT8h.htm](hazards/H2GX04CQXLPQHT8h.htm)|Wheel Of Misery|Roue du malheur|officielle|
 |[H8CPGJn81JSTCRNx.htm](hazards/H8CPGJn81JSTCRNx.htm)|Polymorph Trap|Piège de métamorphose|officielle|
 |[HnPd9Vqh5NHKEdRq.htm](hazards/HnPd9Vqh5NHKEdRq.htm)|Spinning Blade Pillar|Colonne de lames tournoyantes|officielle|
@@ -53,6 +45,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oNLgR1iq6MVvNRWo.htm](hazards/oNLgR1iq6MVvNRWo.htm)|Lava Flume Tube|Déverseur de lave|officielle|
 |[Q8bXKgDm8eguqThB.htm](hazards/Q8bXKgDm8eguqThB.htm)|Brown Mold|Moisissure brune|libre|
 |[sFaAWmy1szDRmFtk.htm](hazards/sFaAWmy1szDRmFtk.htm)|Confounding Betrayal|Trahison confondante|libre|
+|[siylw0zIh1g4VnCW.htm](hazards/siylw0zIh1g4VnCW.htm)|Grasp Of The Damned|Emprise des damnés|officielle|
 |[su4TRBOoso4vjkoK.htm](hazards/su4TRBOoso4vjkoK.htm)|Bloodthirsty Urge|Pulsion sanguinaire|officielle|
 |[tbwGr6FIr5WpvQ6l.htm](hazards/tbwGr6FIr5WpvQ6l.htm)|Hammer Of Forbiddance|Marteau d'interdiction|officielle|
 |[uEZ4Jv2wNyukJTRL.htm](hazards/uEZ4Jv2wNyukJTRL.htm)|Hallucination Powder Trap|Piège à poudre hallucinogène|officielle|
@@ -60,6 +53,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[v2xIxZ9ZZ6fJyATF.htm](hazards/v2xIxZ9ZZ6fJyATF.htm)|Poisoned Lock|Serrure empoisonnée|libre|
 |[VA4VL3kVUxBYbwRf.htm](hazards/VA4VL3kVUxBYbwRf.htm)|Snowfall|Chute de neige|libre|
 |[vlMuFskctUvjJe8X.htm](hazards/vlMuFskctUvjJe8X.htm)|Spear Launcher|Lance épieu|libre|
+|[vTdWEBzJzltMM6r4.htm](hazards/vTdWEBzJzltMM6r4.htm)|Shrieker|Criard|officielle|
 |[xkqjwu1ox0pQLOnb.htm](hazards/xkqjwu1ox0pQLOnb.htm)|Bottomless Pit|Trappe sans fond|officielle|
 |[yM4G2LvMwvkIRx0G.htm](hazards/yM4G2LvMwvkIRx0G.htm)|Planar Rift|Faille planaire|officielle|
 |[ZUCGvc2dTJUlM9dC.htm](hazards/ZUCGvc2dTJUlM9dC.htm)|Dance Of Death|Danse de mort|libre|

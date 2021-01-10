@@ -1,11 +1,11 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 57
+ * **libre**: 58
  * **officielle**: 24
- * **changé**: 16
+ * **changé**: 15
 
 
-Dernière mise à jour: 2021-01-02 15:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-09 18:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -62,7 +62,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-idGDjqi1q3Ft8bAZ.htm](ancestryfeatures/feat-01-idGDjqi1q3Ft8bAZ.htm)|Nomadic Halfling|Halfelin nomade|libre|
 |[feat-01-ikNJZRxUjcRLisO6.htm](ancestryfeatures/feat-01-ikNJZRxUjcRLisO6.htm)|Elfbane Hobgoblin|Hobgobelin fléau elfique|changé|
 |[feat-01-isJhIPhT4MsjJvoq.htm](ancestryfeatures/feat-01-isJhIPhT4MsjJvoq.htm)|Fishseeker Shoony|Shoony Traquepoisson|libre|
-|[feat-01-jEtVesbqYcWGbBYk.htm](ancestryfeatures/feat-01-jEtVesbqYcWGbBYk.htm)|Seer Elf|Elfe visionnaire|changé|
+|[feat-01-jEtVesbqYcWGbBYk.htm](ancestryfeatures/feat-01-jEtVesbqYcWGbBYk.htm)|Seer Elf|Elfe visionnaire|libre|
 |[feat-01-K124fCpU03SJvmeP.htm](ancestryfeatures/feat-01-K124fCpU03SJvmeP.htm)|Warmarch Hobgoblin|Hobgobelin Marchebataille|libre|
 |[feat-01-kiKxnKd7Dfegk9dM.htm](ancestryfeatures/feat-01-kiKxnKd7Dfegk9dM.htm)|Desert Elf|Elfe du désert|changé|
 |[feat-01-KO33MNyY9VqNQmbZ.htm](ancestryfeatures/feat-01-KO33MNyY9VqNQmbZ.htm)|Wintertouched Human|Humain touché par l'hiver|changé|
@@ -89,7 +89,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-Sm3tKetM6kddTio3.htm](ancestryfeatures/feat-01-Sm3tKetM6kddTio3.htm)|Plant Nourishment|Alimentation des plantes|libre|
 |[feat-01-tarfuEXmi0E0Enfy.htm](ancestryfeatures/feat-01-tarfuEXmi0E0Enfy.htm)|Shadow Rat|Rat de l'ombre|libre|
 |[feat-01-tLd8Qg82AwEbbmgX.htm](ancestryfeatures/feat-01-tLd8Qg82AwEbbmgX.htm)|Half-Orc|Demi-orc|officielle|
-|[feat-01-twayjFuXbsvyHUwy.htm](ancestryfeatures/feat-01-twayjFuXbsvyHUwy.htm)|Desert Rat|Rét des sables|libre|
+|[feat-01-twayjFuXbsvyHUwy.htm](ancestryfeatures/feat-01-twayjFuXbsvyHUwy.htm)|Desert Rat|Rat des sables|libre|
 |[feat-01-tXC5Gwn9D5x0ouJh.htm](ancestryfeatures/feat-01-tXC5Gwn9D5x0ouJh.htm)|Sensate Gnome|Gnome sensitif|officielle|
 |[feat-01-UaD5VDoFlILEmbyz.htm](ancestryfeatures/feat-01-UaD5VDoFlILEmbyz.htm)|Dhampir|Dhampir|libre|
 |[feat-01-ULj56ZoW7dWdnBvu.htm](ancestryfeatures/feat-01-ULj56ZoW7dWdnBvu.htm)|Unbreakable Goblin|Gobelin Incassable|officielle|

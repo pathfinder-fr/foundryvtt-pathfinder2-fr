@@ -1,11 +1,11 @@
 # État de la traduction (actions)
 
- * **officielle**: 77
- * **libre**: 22
- * **changé**: 50
+ * **officielle**: 84
+ * **libre**: 25
+ * **changé**: 40
 
 
-Dernière mise à jour: 2021-01-02 15:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-09 18:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -32,8 +32,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[8kGpUUUSX1sB2OqQ.htm](actions/8kGpUUUSX1sB2OqQ.htm)|Call Companion|Appeler un compagnon|libre|
 |[8w6esW689NNbbq3i.htm](actions/8w6esW689NNbbq3i.htm)|Call on Ancient Blood|Appel du sang ancien|officielle|
 |[A72nHGUtNXgY5Ey9.htm](actions/A72nHGUtNXgY5Ey9.htm)|Delay|Retarder|officielle|
-|[aBQ8ajvEBByv45yz.htm](actions/aBQ8ajvEBByv45yz.htm)|Cast a Spell|Lancer un sort|changé|
-|[Ah5g9pDwWF9b9VW9.htm](actions/Ah5g9pDwWF9b9VW9.htm)|Rage|Rage|changé|
+|[aBQ8ajvEBByv45yz.htm](actions/aBQ8ajvEBByv45yz.htm)|Cast a Spell|Lancer un sort|officielle|
+|[Ah5g9pDwWF9b9VW9.htm](actions/Ah5g9pDwWF9b9VW9.htm)|Rage|Rage|officielle|
 |[AjLSHZSWQ90exdLo.htm](actions/AjLSHZSWQ90exdLo.htm)|Dismiss|Révoquer|officielle|
 |[AJstokjdG6iDjVjE.htm](actions/AJstokjdG6iDjVjE.htm)|Impersonate|Se déguiser|officielle|
 |[B0Eu3EfwIa9kyDEA.htm](actions/B0Eu3EfwIa9kyDEA.htm)|Recall Knowledge (Crafting)|Se souvenir (Artisanat)|officielle|
@@ -41,7 +41,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bcxarzksqt9ezrs6.htm](actions/Bcxarzksqt9ezrs6.htm)|Stride|Marcher rapidement|officielle|
 |[BlAOM2X92SI6HMtJ.htm](actions/BlAOM2X92SI6HMtJ.htm)|Seek|Chercher|officielle|
 |[bp0Up04x3dzGK5bB.htm](actions/bp0Up04x3dzGK5bB.htm)|Debilitating Strike|Frappe incapacitante|changé|
-|[bT3skovyLUtP22ME.htm](actions/bT3skovyLUtP22ME.htm)|Repair|Réparer|changé|
+|[bT3skovyLUtP22ME.htm](actions/bT3skovyLUtP22ME.htm)|Repair|Réparer|officielle|
 |[c8TGiZ48ygoSPofx.htm](actions/c8TGiZ48ygoSPofx.htm)|Swim|Nager|changé|
 |[CrUPaPlsxy2bswaT.htm](actions/CrUPaPlsxy2bswaT.htm)|Mesmerizing Performance|Performance hypnotisante|libre|
 |[cS9nfDRGD83bNU1p.htm](actions/cS9nfDRGD83bNU1p.htm)|Fly|Voler|officielle|
@@ -49,32 +49,32 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cYtYKa1gDEl7y2N0.htm](actions/cYtYKa1gDEl7y2N0.htm)|Defend|Défendre|officielle|
 |[D2PNfIw7U6Ks0VY4.htm](actions/D2PNfIw7U6Ks0VY4.htm)|Steel your Resolve|Puiser dans votre résolution|libre|
 |[d5I6018Mci2SWokk.htm](actions/d5I6018Mci2SWokk.htm)|Leap|Bondir|officielle|
-|[d9gbpiQjChYDYA2L.htm](actions/d9gbpiQjChYDYA2L.htm)|Decipher Writing|Déchiffrer un texte|changé|
+|[d9gbpiQjChYDYA2L.htm](actions/d9gbpiQjChYDYA2L.htm)|Decipher Writing|Déchiffrer un texte|officielle|
 |[DCb62iCBrJXy0Ik6.htm](actions/DCb62iCBrJXy0Ik6.htm)|Request|Solliciter|officielle|
 |[dCuvfq3r2K9wXY9g.htm](actions/dCuvfq3r2K9wXY9g.htm)|Basic Finisher|Coup final de base|libre|
 |[dLgAMt3TbkmLkUqE.htm](actions/dLgAMt3TbkmLkUqE.htm)|Ready|Préparer|officielle|
 |[DS9sDOWkXrz2xmHi.htm](actions/DS9sDOWkXrz2xmHi.htm)|Eldritch Shot|Tir mystique|libre|
 |[Dt6B1slsBy8ipJu9.htm](actions/Dt6B1slsBy8ipJu9.htm)|Disarm|Désarmer|officielle|
 |[DXIZ4DHGxhZiWNWb.htm](actions/DXIZ4DHGxhZiWNWb.htm)|Long Term Rest|Repos long|officielle|
-|[e2ePMDa7ixbLRryj.htm](actions/e2ePMDa7ixbLRryj.htm)|Encouraging Words|Paroles encourageantes|changé|
+|[e2ePMDa7ixbLRryj.htm](actions/e2ePMDa7ixbLRryj.htm)|Encouraging Words|Paroles encourageantes|libre|
 |[EA5vuSgJfiHH7plD.htm](actions/EA5vuSgJfiHH7plD.htm)|Track|Pister|officielle|
 |[EAP98XaChJEbgKcK.htm](actions/EAP98XaChJEbgKcK.htm)|Retributive Strike|Frappe punitive|officielle|
 |[EEDElIyin4z60PXx.htm](actions/EEDElIyin4z60PXx.htm)|Perform|Se produire|officielle|
 |[EfjoIuDmtUn4yiow.htm](actions/EfjoIuDmtUn4yiow.htm)|Opportune Riposte|Riposte opportune|libre|
 |[EHa0owz6mccnmSBf.htm](actions/EHa0owz6mccnmSBf.htm)|Final Surge|Accélération finale|libre|
-|[enQieRrITuEQZxx2.htm](actions/enQieRrITuEQZxx2.htm)|Selfish Shield|Bouclier égoïste|changé|
+|[enQieRrITuEQZxx2.htm](actions/enQieRrITuEQZxx2.htm)|Selfish Shield|Bouclier égoïste|libre|
 |[eReSHVEPCsdkSL4G.htm](actions/eReSHVEPCsdkSL4G.htm)|Identify Magic|Identifier la magie|officielle|
-|[eT1jXYvz2YH70Ovp.htm](actions/eT1jXYvz2YH70Ovp.htm)|Recall Knowledge (Nature)|Se souvenir (Nature)|changé|
-|[ev8OHpBO3xq3Zt08.htm](actions/ev8OHpBO3xq3Zt08.htm)|Tail Toxin|Queue à toxine|changé|
+|[eT1jXYvz2YH70Ovp.htm](actions/eT1jXYvz2YH70Ovp.htm)|Recall Knowledge (Nature)|Se souvenir (Nature)|officielle|
+|[ev8OHpBO3xq3Zt08.htm](actions/ev8OHpBO3xq3Zt08.htm)|Tail Toxin|Queue à toxine|libre|
 |[EwgTZBWsc8qKaViP.htm](actions/EwgTZBWsc8qKaViP.htm)|Investigate|Enquêter|officielle|
 |[ewwCglB7XOPLUz72.htm](actions/ewwCglB7XOPLUz72.htm)|Lie|Mentir|officielle|
 |[F0JgJR2rXKOg9k1z.htm](actions/F0JgJR2rXKOg9k1z.htm)|Upstage|Surpasser|libre|
-|[fJImDBQfqfjKJOhk.htm](actions/fJImDBQfqfjKJOhk.htm)|Sense Direction|S'orienter|changé|
+|[fJImDBQfqfjKJOhk.htm](actions/fJImDBQfqfjKJOhk.htm)|Sense Direction|S'orienter|officielle|
 |[FkfWKq9jhhPzKAbb.htm](actions/FkfWKq9jhhPzKAbb.htm)|Rampaging Ferocity|Férocité déchaînée|libre|
 |[ftG89SjTSa9DYDOD.htm](actions/ftG89SjTSa9DYDOD.htm)|Create Forgery|Contrefaire|changé|
 |[GAoUxmcKx1vW3vEB.htm](actions/GAoUxmcKx1vW3vEB.htm)|Exhale Poison|Expirer le poison|libre|
 |[ge56Lu1xXVFYUnLP.htm](actions/ge56Lu1xXVFYUnLP.htm)|Trip|Croc-en-jambe|officielle|
-|[GkmbTGfg8KcgynOA.htm](actions/GkmbTGfg8KcgynOA.htm)|Create a Diversion|Faire diversion|changé|
+|[GkmbTGfg8KcgynOA.htm](actions/GkmbTGfg8KcgynOA.htm)|Create a Diversion|Faire diversion|officielle|
 |[H6v1VgowHaKHnVlG.htm](actions/H6v1VgowHaKHnVlG.htm)|Burrow|Creuser|changé|
 |[HCl3pzVefiv9ZKQW.htm](actions/HCl3pzVefiv9ZKQW.htm)|Aid|Aider|changé|
 |[hFRHPBj6wjAayNtW.htm](actions/hFRHPBj6wjAayNtW.htm)|Jinx|Maudire|changé|

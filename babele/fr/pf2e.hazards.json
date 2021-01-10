@@ -107,6 +107,11 @@
             "description": "<p>Sur la surface, un gobe-mouche titanesque semble être une plaque sur laquelle se trouvent la plante commune du gobe-mouche, mais sous les eaux troubles se cache une beaucoup plus grande paire de mâchoires, atteignant 3 m de côté et renforcées par des branches et entourées de poils paralysants.</p>"
         },
         {
+            "id": "Grasp Of The Damned",
+            "name": "Emprise des damnés",
+            "description": "<p>Ces esprits désespérés sont les échos d’individus ayant commis de grandes atrocités au nom d’une divinité maléfique. Désormais, ils ne savent qu’une seule chose, c’est que leur âme a été damnée et ils pensent pouvoir changer leur destin en offrant de puissants sacrifices à leurs maîtres fiélons.</p>"
+        },
+        {
             "id": "Bottomless Pit",
             "name": "Trappe sans fond",
             "description": "<p> Une trappe de fer recouvre une fosse sans fond de 3 m de côté.</p>"
@@ -150,6 +155,11 @@
             "id": "Poisoned Dart Gallery",
             "name": "Couloir de fléchettes empoisonnées",
             "description": "<p>Une multitude de trous desquels sont tirées des fléchettes empoisonnées percent les murs d’un long couloir, avec un panneau de contrôle à son extrémité.</p>"
+        },
+        {
+            "id": "Shrieker",
+            "name": "Criard",
+            "description": "<p>Ce champignon violet de taille humaine émet un cri perçant quand il est dérangé.</p>"
         },
         {
             "id": "Brown Mold",
@@ -219,7 +229,7 @@
         {
             "id": "Treacherous Scree",
             "name": "Éboulis traître",
-            "description": "Marcher sur cette déclivité apparaît stable au premier coup d'oeil, mais les petites pierres qui la recouvrent sont assez lâches et prompts à glisser.</p>"
+            "description": "<p>Le sol de ce terrain incliné semble stable à première vue mais les petits cailloux qui le recouvrent sont instables et peuvent glisser.</p>"
         }
     ],
     "mapping": {}

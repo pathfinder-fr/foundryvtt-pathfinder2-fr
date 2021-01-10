@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **officielle**: 268
- * **libre**: 13
- * **aucune**: 250
- * **changé**: 325
+ * **officielle**: 269
+ * **libre**: 17
+ * **aucune**: 246
+ * **changé**: 324
 
 
-Dernière mise à jour: 2021-01-02 15:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-09 18:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -59,7 +59,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[con-04-3xD8DYrr8YDVYGg7.htm](spells/con-04-3xD8DYrr8YDVYGg7.htm)|Spike Stones|
 |[con-04-iMmexY6ZosLS4I5R.htm](spells/con-04-iMmexY6ZosLS4I5R.htm)|Door to Beyond|
 |[con-04-K1wmI4qPmRhFczmy.htm](spells/con-04-K1wmI4qPmRhFczmy.htm)|Dust Storm|
-|[con-05-5ttAVJbWg2GVKmrN.htm](spells/con-05-5ttAVJbWg2GVKmrN.htm)|Shadow Jump|
 |[con-05-BoA00y45uDlmou07.htm](spells/con-05-BoA00y45uDlmou07.htm)|Secret Chest|
 |[con-05-oXeEbcUdgJGWHGEJ.htm](spells/con-05-oXeEbcUdgJGWHGEJ.htm)|Impaling Spike|
 |[con-05-qr0HOiiuqj5LKlDt.htm](spells/con-05-qr0HOiiuqj5LKlDt.htm)|Pillars of Sand|
@@ -161,10 +160,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-03-Wi2HcreCfujKiCvW.htm](spells/evo-03-Wi2HcreCfujKiCvW.htm)|Whirling Flames|
 |[evo-04-KG7amdeXWc7MjGXe.htm](spells/evo-04-KG7amdeXWc7MjGXe.htm)|Asterism|
 |[evo-04-kHyjQbibRGPNCixx.htm](spells/evo-04-kHyjQbibRGPNCixx.htm)|Ice Storm|
-|[evo-04-NxOYiKCqcuAHVRCj.htm](spells/evo-04-NxOYiKCqcuAHVRCj.htm)|Transcribe Moment|
 |[evo-04-VUwpDY4Z91s9QCg0.htm](spells/evo-04-VUwpDY4Z91s9QCg0.htm)|Bottle the Storm|
 |[evo-04-wjJW9hWY5CkkMvY5.htm](spells/evo-04-wjJW9hWY5CkkMvY5.htm)|Diamond Dust|
-|[evo-05-9BGEf9Sv5rgNBCk0.htm](spells/evo-05-9BGEf9Sv5rgNBCk0.htm)|Dance of Darkness|
 |[evo-05-HMTloW1hvRFJ5Z2D.htm](spells/evo-05-HMTloW1hvRFJ5Z2D.htm)|Consuming Darkness|
 |[evo-05-JyT346VmGtRLsDnV.htm](spells/evo-05-JyT346VmGtRLsDnV.htm)|Lightning Storm|
 |[evo-05-ZW8ovbu1etdfMre3.htm](spells/evo-05-ZW8ovbu1etdfMre3.htm)|Acid Storm|
@@ -185,7 +182,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ill-04-vhe9DduqaivMs8FV.htm](spells/ill-04-vhe9DduqaivMs8FV.htm)|Ghostly Transcription|
 |[ill-05-m4Mc5XbdML92BKOE.htm](spells/ill-05-m4Mc5XbdML92BKOE.htm)|Strange Geometry|
 |[ill-05-xPrbxyOEwy9QaPVn.htm](spells/ill-05-xPrbxyOEwy9QaPVn.htm)|Chameleon Coat|
-|[ill-06-EOWh6VVcSjB3WPjX.htm](spells/ill-06-EOWh6VVcSjB3WPjX.htm)|Shadow Illusion|
 |[ill-06-m34WOIGZCEg1h76G.htm](spells/ill-06-m34WOIGZCEg1h76G.htm)|Blanket Of Stars|
 |[ill-09-nA0XlPsnMNrQMpio.htm](spells/ill-09-nA0XlPsnMNrQMpio.htm)|Fantastic Facade|
 |[nec-00-yp4w9SG4RuqRM8KD.htm](spells/nec-00-yp4w9SG4RuqRM8KD.htm)|Spirit Object|
@@ -372,6 +368,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[con-05-115Xp9E38CJENhNS.htm](spells/con-05-115Xp9E38CJENhNS.htm)|Passwall|Passe-muraille|officielle|
 |[con-05-29ytKctjg7qSW2ff.htm](spells/con-05-29ytKctjg7qSW2ff.htm)|Summon Fiend|Convocation de fiélon|officielle|
 |[con-05-2w4OpAGihn1JSHFD.htm](spells/con-05-2w4OpAGihn1JSHFD.htm)|Black Tentacles|Tentacules noirs|changé|
+|[con-05-5ttAVJbWg2GVKmrN.htm](spells/con-05-5ttAVJbWg2GVKmrN.htm)|Shadow Jump|Saut de l'ombre|libre|
 |[con-05-e9UJoVYUd5kJWUpi.htm](spells/con-05-e9UJoVYUd5kJWUpi.htm)|Summon Giant|Convocation de géant|officielle|
 |[con-05-F1qxaqsEItmBura2.htm](spells/con-05-F1qxaqsEItmBura2.htm)|Tree Stride|Voyage par les arbres|officielle|
 |[con-05-i1TvBID5QLyXrUCa.htm](spells/con-05-i1TvBID5QLyXrUCa.htm)|Summon Entity|Convocation d'entité|officielle|
@@ -611,9 +608,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-04-8M03UxGXjYyDFAoy.htm](spells/evo-04-8M03UxGXjYyDFAoy.htm)|Weapon Storm|Tempête d'armes|officielle|
 |[evo-04-DZ9bzXYqMjAK9TzC.htm](spells/evo-04-DZ9bzXYqMjAK9TzC.htm)|Holy Cascade|Cascade bénite|officielle|
 |[evo-04-hVU9msO9yGkxKZ3J.htm](spells/evo-04-hVU9msO9yGkxKZ3J.htm)|Divine Wrath|Colère divine|changé|
-|[evo-04-IarZrgCeaiUqOuRu.htm](spells/evo-04-IarZrgCeaiUqOuRu.htm)|Wall of Fire|Mur de feu|changé|
+|[evo-04-IarZrgCeaiUqOuRu.htm](spells/evo-04-IarZrgCeaiUqOuRu.htm)|Wall of Fire|Mur de feu|officielle|
 |[evo-04-K4LXpaBWrGy6jIER.htm](spells/evo-04-K4LXpaBWrGy6jIER.htm)|Downpour|Déluge|changé|
 |[evo-04-LrhTFHUtSS9ahogL.htm](spells/evo-04-LrhTFHUtSS9ahogL.htm)|Traveler's Transit|Voyageur en transit|officielle|
+|[evo-04-NxOYiKCqcuAHVRCj.htm](spells/evo-04-NxOYiKCqcuAHVRCj.htm)|Transcribe Moment|Instant transcrit|libre|
 |[evo-04-SkarN4VlNxSJSJNw.htm](spells/evo-04-SkarN4VlNxSJSJNw.htm)|Wild Winds Stance|Posture des vents violents|changé|
 |[evo-04-uJXs4M6IeixfPBLc.htm](spells/evo-04-uJXs4M6IeixfPBLc.htm)|Clinging Shadows Stance|Posture des ombres tenaces|libre|
 |[evo-04-vfHr1N8Rf2bBpdgn.htm](spells/evo-04-vfHr1N8Rf2bBpdgn.htm)|Elemental Tempest|Tempête élémentaire|officielle|
@@ -622,6 +620,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-04-YrzBLPLd3r9m6t1p.htm](spells/evo-04-YrzBLPLd3r9m6t1p.htm)|Fire Shield|Bouclier de feu|officielle|
 |[evo-05-2mVW1KT3AjW2pvDO.htm](spells/evo-05-2mVW1KT3AjW2pvDO.htm)|Litany against Sloth|Litanie contre la paresse|changé|
 |[evo-05-3puDanGfpEt6jK5k.htm](spells/evo-05-3puDanGfpEt6jK5k.htm)|Cone of Cold|Cône de froid|officielle|
+|[evo-05-9BGEf9Sv5rgNBCk0.htm](spells/evo-05-9BGEf9Sv5rgNBCk0.htm)|Dance of Darkness|Danse de ténèbre|libre|
 |[evo-05-9LHr9SuDLTicdbXs.htm](spells/evo-05-9LHr9SuDLTicdbXs.htm)|Hellfire Plume|Volute de feu infernal|officielle|
 |[evo-05-crF4g9jRN1y84MSD.htm](spells/evo-05-crF4g9jRN1y84MSD.htm)|Abyssal Wrath|Colère abyssale|changé|
 |[evo-05-E3X2RbzWHCdz7gsk.htm](spells/evo-05-E3X2RbzWHCdz7gsk.htm)|Flame Strike|Colonne de feu|officielle|
@@ -696,6 +695,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ill-05-U58aQWJ47VrI36yP.htm](spells/ill-05-U58aQWJ47VrI36yP.htm)|Hallucination|Hallucination|changé|
 |[ill-05-Ucf8eynbZMfUucjE.htm](spells/ill-05-Ucf8eynbZMfUucjE.htm)|Illusory Scene|Scène illusoire|changé|
 |[ill-06-0XP2XOxT9VSiXFDr.htm](spells/ill-06-0XP2XOxT9VSiXFDr.htm)|Phantasmal Calamity|Calamité imaginaire|changé|
+|[ill-06-EOWh6VVcSjB3WPjX.htm](spells/ill-06-EOWh6VVcSjB3WPjX.htm)|Shadow Illusion|Illusion de l'ombre|libre|
 |[ill-06-RQjSQVZRG497cJhX.htm](spells/ill-06-RQjSQVZRG497cJhX.htm)|Vibrant Pattern|Motif éclatant|changé|
 |[ill-06-WPXzPl7YbMEIGWfi.htm](spells/ill-06-WPXzPl7YbMEIGWfi.htm)|Mislead|Double illusoire|changé|
 |[ill-07-0873MWM0qKDDv81O.htm](spells/ill-07-0873MWM0qKDDv81O.htm)|Project Image|Projection d'image|officielle|

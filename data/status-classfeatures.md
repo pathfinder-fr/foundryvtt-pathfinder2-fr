@@ -1,20 +1,13 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 13
- * **changé**: 366
- * **libre**: 9
- * **aucune**: 1
+ * **officielle**: 16
+ * **changé**: 361
+ * **libre**: 12
 
 
-Dernière mise à jour: 2021-01-02 15:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-09 18:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[alchemist-05-7JK2a1D3VeWDcObo.htm](classfeatures/alchemist-05-7JK2a1D3VeWDcObo.htm)|Powerful Alchemy|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -28,6 +21,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-01-tvdb1jkjl2bRZjSp.htm](classfeatures/alchemist-01-tvdb1jkjl2bRZjSp.htm)|Mutagenist|Mutagèniste|changé|
 |[alchemist-01-wySB9VHOW1v3TX1L.htm](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Infused Reagents|Réactifs imprégnés|changé|
 |[alchemist-05-6zo2PJGYoig7nFpR.htm](classfeatures/alchemist-05-6zo2PJGYoig7nFpR.htm)|Field Discovery (Toxicologist)|Découverte de domaine de recherche (Toxicologiste)|libre|
+|[alchemist-05-7JK2a1D3VeWDcObo.htm](classfeatures/alchemist-05-7JK2a1D3VeWDcObo.htm)|Powerful Alchemy|Alchimie puissante|libre|
 |[alchemist-05-8QAFgy9U8PxEa7Dw.htm](classfeatures/alchemist-05-8QAFgy9U8PxEa7Dw.htm)|Field Discovery (Bomber)|Découverte de domaine de recherche (Artificier)|changé|
 |[alchemist-05-qC0Iz6SlG2i9gv6g.htm](classfeatures/alchemist-05-qC0Iz6SlG2i9gv6g.htm)|Field Discovery (Chirurgeon)|Découverte de domaine de recherche (Chirurgien)|officielle|
 |[alchemist-05-V4Jt7eDnJBLv5bDj.htm](classfeatures/alchemist-05-V4Jt7eDnJBLv5bDj.htm)|Field Discovery (Mutagenist)|Découverte de domaine de recherche (Mutagèniste)|changé|
@@ -109,13 +103,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|changé|
 |[champion-01-fVVRFfc8QwTTPhKf.htm](classfeatures/champion-01-fVVRFfc8QwTTPhKf.htm)|Shield Block (Champion)|Blocage au bouclier (Champion)|officielle|
 |[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant|Tyran [Loyal mauvais]|changé|
-|[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|Les préceptes du Mal|changé|
-|[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du bien|changé|
+|[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|Les principes du Mal|libre|
+|[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du bien|officielle|
 |[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin|Paladin (Loyal Bon)|changé|
 |[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|changé|
 |[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer|Rédempteur (Neutre Bon)|changé|
 |[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|Allié divin|changé|
-|[champion-05-fC8FbGmkTwKMU8FF.htm](classfeatures/champion-05-fC8FbGmkTwKMU8FF.htm)|Weapon Expertise (Champion)|Expertise avec les armes (Champion)|changé|
+|[champion-05-fC8FbGmkTwKMU8FF.htm](classfeatures/champion-05-fC8FbGmkTwKMU8FF.htm)|Weapon Expertise (Champion)|Expertise martiale (Champion)|officielle|
 |[champion-07-D5AABucMrk5IGOKV.htm](classfeatures/champion-07-D5AABucMrk5IGOKV.htm)|Weapon Specialization (Champion)|Spécialisation martiale (Champion)|changé|
 |[champion-07-g0nfwT61wE4vOaOn.htm](classfeatures/champion-07-g0nfwT61wE4vOaOn.htm)|Armor Expertise (Champion)|Expertise avec les armures|changé|
 |[champion-09-dAA1MElXsUjQ5fzw.htm](classfeatures/champion-09-dAA1MElXsUjQ5fzw.htm)|Juggernaut (Champion)|Juggernaut (Champion)|changé|
@@ -213,7 +207,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[monk-11-0iCVX6h2RwC4mOGS.htm](classfeatures/monk-11-0iCVX6h2RwC4mOGS.htm)|Second Path to Perfection|Deuxième voie vers la Perfection|changé|
 |[monk-13-0iidKkzC2yy13lIf.htm](classfeatures/monk-13-0iidKkzC2yy13lIf.htm)|Master Strikes|Frappes de maître|changé|
 |[monk-13-95LI24ZSx0d4qfKX.htm](classfeatures/monk-13-95LI24ZSx0d4qfKX.htm)|Graceful Mastery|Maîtrise gracieuse|changé|
-|[monk-15-1m401NddgIh9llnJ.htm](classfeatures/monk-15-1m401NddgIh9llnJ.htm)|Third Path to Perfection|Troisème voie vers la Perfection|changé|
+|[monk-15-1m401NddgIh9llnJ.htm](classfeatures/monk-15-1m401NddgIh9llnJ.htm)|Third Path to Perfection|Troisième voie vers la Perfection|officielle|
 |[monk-15-KKTfV9jhuxJuI6Qz.htm](classfeatures/monk-15-KKTfV9jhuxJuI6Qz.htm)|Greater Weapon Specialization (Monk)|Spécialisation martiale supérieure (Moine)|changé|
 |[monk-17-5cthRUkRqRtduVvN.htm](classfeatures/monk-17-5cthRUkRqRtduVvN.htm)|Adamantine Strikes|Frappes d'adamantium|changé|
 |[monk-17-JWDfzYub3JfuEtth.htm](classfeatures/monk-17-JWDfzYub3JfuEtth.htm)|Graceful Legend|Légende gracieuse|changé|
@@ -334,7 +328,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-01-KBhwFjdptrKyN5EM.htm](classfeatures/swashbuckler-01-KBhwFjdptrKyN5EM.htm)|Braggart Style|Style : fanfaron|changé|
 |[swashbuckler-01-LzYi0OuOoypNb6jd.htm](classfeatures/swashbuckler-01-LzYi0OuOoypNb6jd.htm)|Panache|Panache|changé|
 |[swashbuckler-01-pyo0vmxUFIFX2GNl.htm](classfeatures/swashbuckler-01-pyo0vmxUFIFX2GNl.htm)|Confident Finisher|Coup final assuré|changé|
-|[swashbuckler-01-RQH6vigvhmiYKKjg.htm](classfeatures/swashbuckler-01-RQH6vigvhmiYKKjg.htm)|Precise Strike|Frappe précise|changé|
+|[swashbuckler-01-RQH6vigvhmiYKKjg.htm](classfeatures/swashbuckler-01-RQH6vigvhmiYKKjg.htm)|Precise Strike|Frappe précise|libre|
 |[swashbuckler-03-8BOFeRE7ZfJ02N0O.htm](classfeatures/swashbuckler-03-8BOFeRE7ZfJ02N0O.htm)|Vivacious Speed|Vitesse exubérante|changé|
 |[swashbuckler-03-Jtn7IugykXDlIoZq.htm](classfeatures/swashbuckler-03-Jtn7IugykXDlIoZq.htm)|Opportune Riposte|riposte opportune|libre|
 |[swashbuckler-03-pthjQIK9pDxnbER6.htm](classfeatures/swashbuckler-03-pthjQIK9pDxnbER6.htm)|Stylish Tricks|Astuces de style|changé|
