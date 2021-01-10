@@ -2,11 +2,12 @@
 
 
 
-Dernière mise à jour: 2021-01-09 18:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-09 19:07 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
  * [Actions](#actions)
+ * [Aptitudes des Familiers](#aptitudes-des-familiers)
  * [Aptitudes du Bestiaire](#aptitudes-du-bestiaire)
  * [Archétypes](#archétypes)
  * [Ascendances](#ascendances)
@@ -178,6 +179,43 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Tumble Through](actions/21WIfSu7Xd7uKqV8.htm)|Déplacement acrobatique|`@Compendium[pf2e.actionspf2e.21WIfSu7Xd7uKqV8]`|
 |[Upstage](actions/F0JgJR2rXKOg9k1z.htm)|Surpasser|`@Compendium[pf2e.actionspf2e.F0JgJR2rXKOg9k1z]`|
 |[Warding Sign](actions/7pdG8l9POMK76Lf2.htm)|Signe de protection|`@Compendium[pf2e.actionspf2e.7pdG8l9POMK76Lf2]`|
+
+
+## Aptitudes des Familiers
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Accompanist](familiar-abilities/01-92lgSEPFIDLvKOCF.htm)||`@Compendium[pf2e.familiar-abilities.92lgSEPFIDLvKOCF]`|
+|[Amphibious](familiar-abilities/01-A0C86V3MUECpX5jd.htm)||`@Compendium[pf2e.familiar-abilities.A0C86V3MUECpX5jd]`|
+|[Burrower](familiar-abilities/01-uy15sDBuYNK48N3v.htm)||`@Compendium[pf2e.familiar-abilities.uy15sDBuYNK48N3v]`|
+|[Climber](familiar-abilities/01-dWTfO5WbLkD5mw2H.htm)||`@Compendium[pf2e.familiar-abilities.dWTfO5WbLkD5mw2H]`|
+|[Damage Avoidance: Fortitude](familiar-abilities/01-mK3mAUWiRLZZYNdz.htm)||`@Compendium[pf2e.familiar-abilities.mK3mAUWiRLZZYNdz]`|
+|[Damage Avoidance: Reflex](familiar-abilities/01-K5OLRDsGCfPZ6mO6.htm)||`@Compendium[pf2e.familiar-abilities.K5OLRDsGCfPZ6mO6]`|
+|[Damage Avoidance: Will](familiar-abilities/01-5gwqSpkRqWzrbDDU.htm)||`@Compendium[pf2e.familiar-abilities.5gwqSpkRqWzrbDDU]`|
+|[Darkvision](familiar-abilities/01-0Xrkk46IM43iI1Fv.htm)||`@Compendium[pf2e.familiar-abilities.0Xrkk46IM43iI1Fv]`|
+|[Fast Movement: Climb](familiar-abilities/01-SxWYVgqNMsq0OijU.htm)||`@Compendium[pf2e.familiar-abilities.SxWYVgqNMsq0OijU]`|
+|[Fast Movement: Fly](familiar-abilities/01-VHQUZcjUxfC3GcJ9.htm)||`@Compendium[pf2e.familiar-abilities.VHQUZcjUxfC3GcJ9]`|
+|[Fast Movement: Land](familiar-abilities/01-BXssJhTJjKrfojwG.htm)||`@Compendium[pf2e.familiar-abilities.BXssJhTJjKrfojwG]`|
+|[Fast Movement: Swim](familiar-abilities/01-vpw2ReYdcyQBpdqn.htm)||`@Compendium[pf2e.familiar-abilities.vpw2ReYdcyQBpdqn]`|
+|[Flier](familiar-abilities/01-ZHSzNt3NxkXbj1mI.htm)||`@Compendium[pf2e.familiar-abilities.ZHSzNt3NxkXbj1mI]`|
+|[Focused Rejuvenation](familiar-abilities/01-O5TIjqXAuta8iVSz.htm)||`@Compendium[pf2e.familiar-abilities.O5TIjqXAuta8iVSz]`|
+|[Independent](familiar-abilities/01-2fiQzoEKu6YUnrU9.htm)||`@Compendium[pf2e.familiar-abilities.2fiQzoEKu6YUnrU9]`|
+|[Kinspeech](familiar-abilities/01-qTxH8mSOvc4PMzrP.htm)||`@Compendium[pf2e.familiar-abilities.qTxH8mSOvc4PMzrP]`|
+|[Lab Assistant](familiar-abilities/01-7QosmRHlyLLhU1hX.htm)||`@Compendium[pf2e.familiar-abilities.7QosmRHlyLLhU1hX]`|
+|[Manual Dexterity](familiar-abilities/01-cT5octWchU4gjrhP.htm)||`@Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]`|
+|[Master's Form](familiar-abilities/01-JRP2bdkdCdj2JDrq.htm)||`@Compendium[pf2e.familiar-abilities.JRP2bdkdCdj2JDrq]`|
+|[Partner in Crime](familiar-abilities/01-v7zE3tKQb9G6PaYU.htm)||`@Compendium[pf2e.familiar-abilities.v7zE3tKQb9G6PaYU]`|
+|[Plant Form](familiar-abilities/01-57b8u8s3fV0UCrgJ.htm)||`@Compendium[pf2e.familiar-abilities.57b8u8s3fV0UCrgJ]`|
+|[Poison Reservoir](familiar-abilities/01-8Z1UkLEWkFWIjOF8.htm)||`@Compendium[pf2e.familiar-abilities.8Z1UkLEWkFWIjOF8]`|
+|[Resistance](familiar-abilities/01-FcQQLMAJMgOLjnSv.htm)||`@Compendium[pf2e.familiar-abilities.FcQQLMAJMgOLjnSv]`|
+|[Scent](familiar-abilities/01-FlRUb8U13Crj3NaA.htm)||`@Compendium[pf2e.familiar-abilities.FlRUb8U13Crj3NaA]`|
+|[Skilled](familiar-abilities/01-jevzf9JbJJibpqaI.htm)||`@Compendium[pf2e.familiar-abilities.jevzf9JbJJibpqaI]`|
+|[Speech](familiar-abilities/01-zyMRLQnFCQVpltiR.htm)||`@Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]`|
+|[Spellcasting](familiar-abilities/01-asOhEdyF8CWFbR96.htm)||`@Compendium[pf2e.familiar-abilities.asOhEdyF8CWFbR96]`|
+|[Toolbearer](familiar-abilities/01-uUrsZ4WvhjKjFjnt.htm)||`@Compendium[pf2e.familiar-abilities.uUrsZ4WvhjKjFjnt]`|
+|[Touch Telepathy](familiar-abilities/01-XCqYnlVbLGqEGPeX.htm)||`@Compendium[pf2e.familiar-abilities.XCqYnlVbLGqEGPeX]`|
+|[Tough](familiar-abilities/01-Le8UWr5BU8rV3iBf.htm)||`@Compendium[pf2e.familiar-abilities.Le8UWr5BU8rV3iBf]`|
+|[Valet](familiar-abilities/01-9PsptrEoCC4QdM23.htm)||`@Compendium[pf2e.familiar-abilities.9PsptrEoCC4QdM23]`|
 
 
 ## Aptitudes du Bestiaire

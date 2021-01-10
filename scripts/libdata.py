@@ -35,6 +35,8 @@ SUPPORTED = {
   "bestiary-ability-glossary-srd":  { 'transl': "Aptitudes du Bestiaire", "paths": { 'name': "name", 'desc': "data.description.value" } },
   "pathfinder-society-boons":       { 'transl': "Macros PF2e", "paths": { 'name': "name", 'desc': "data.description.value" } },
   "boons-and-curses":               { 'transl': "Bénédictions et malédictions", "paths": { 'name': "name", 'desc': "data.description.value" } },
+  "familiar-abilities":             { 'transl': "Aptitudes des Familiers", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.level.value" } },
+
 }
 
 #
