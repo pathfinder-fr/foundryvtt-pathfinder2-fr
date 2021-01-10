@@ -2,13 +2,13 @@
 
 
 
-Dernière mise à jour: 2021-01-09 19:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-09 19:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
  * [Actions](#actions)
- * [Aptitudes des Familiers](#aptitudes-des-familiers)
- * [Aptitudes du Bestiaire](#aptitudes-du-bestiaire)
+ * [Aptitudes des familiers](#aptitudes-des-familiers)
+ * [Aptitudes du bestiaire](#aptitudes-du-bestiaire)
  * [Archétypes](#archétypes)
  * [Ascendances](#ascendances)
  * [Backgrounds](#backgrounds)
@@ -20,6 +20,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
  * [Conditions](#conditions)
  * [Dangers](#dangers)
  * [Dons](#dons)
+ * [Effets des sorts](#effets-des-sorts)
  * [Guide du MJ](#guide-du-mj)
  * [Macros PF2e](#macros-pf2e)
  * [Sorts](#sorts)
@@ -181,7 +182,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Warding Sign](actions/7pdG8l9POMK76Lf2.htm)|Signe de protection|`@Compendium[pf2e.actionspf2e.7pdG8l9POMK76Lf2]`|
 
 
-## Aptitudes des Familiers
+## Aptitudes des familiers
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
@@ -218,7 +219,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Valet](familiar-abilities/01-9PsptrEoCC4QdM23.htm)||`@Compendium[pf2e.familiar-abilities.9PsptrEoCC4QdM23]`|
 
 
-## Aptitudes du Bestiaire
+## Aptitudes du bestiaire
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
@@ -4236,6 +4237,118 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Wyrmbane Aura](feats/class-14-5NyX1WnXEO40yEaT.htm)|Aura anti-draconique|`@Compendium[pf2e.feats-srd.5NyX1WnXEO40yEaT]`|
 |[You're Next](feats/class-01-gjec0ts3wkFbjvHN.htm)|Tu es le suivant|`@Compendium[pf2e.feats-srd.gjec0ts3wkFbjvHN]`|
 |[Zephyr Guard Dedication](feats/archetype-02-UyyrFtPWOo0qvXOv.htm)|Dévouement de Garde Zéphyr|`@Compendium[pf2e.feats-srd.UyyrFtPWOo0qvXOv]`|
+
+
+## Effets des sorts
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Effect: Aeon Stone (Black Pearl)](spell-effects/12-p2aGtovaY1feytws.htm)||`@Compendium[pf2e.spell-effects.p2aGtovaY1feytws]`|
+|[Effect: Aeon Stone (Orange Prism) (Arcana)](spell-effects/16-yvabfuAO74pvH8hh.htm)||`@Compendium[pf2e.spell-effects.yvabfuAO74pvH8hh]`|
+|[Effect: Aeon Stone (Orange Prism) (Nature)](spell-effects/16-etJW0w4CiSFgMrWP.htm)||`@Compendium[pf2e.spell-effects.etJW0w4CiSFgMrWP]`|
+|[Effect: Aeon Stone (Orange Prism) (Occultism)](spell-effects/16-vOU4Yv2MyAfYBbmF.htm)||`@Compendium[pf2e.spell-effects.vOU4Yv2MyAfYBbmF]`|
+|[Effect: Aeon Stone (Orange Prism) (Religion)](spell-effects/16-FbFl95WRpzrrijh3.htm)||`@Compendium[pf2e.spell-effects.FbFl95WRpzrrijh3]`|
+|[Effect: Anklets of Alacrity](spell-effects/17-iK6JeCsZwm5Vakks.htm)||`@Compendium[pf2e.spell-effects.iK6JeCsZwm5Vakks]`|
+|[Effect: Antidote (Greater)](spell-effects/10-QuZ5frBMJF3gi7RY.htm)||`@Compendium[pf2e.spell-effects.QuZ5frBMJF3gi7RY]`|
+|[Effect: Antidote (Lesser)](spell-effects/01-7z1iY4AaNEAIKuAU.htm)||`@Compendium[pf2e.spell-effects.7z1iY4AaNEAIKuAU]`|
+|[Effect: Antidote (Major)](spell-effects/14-1mKjaWC65KWPuFR4.htm)||`@Compendium[pf2e.spell-effects.1mKjaWC65KWPuFR4]`|
+|[Effect: Antidote (Moderate)](spell-effects/06-mi4Md1fB2XThCand.htm)||`@Compendium[pf2e.spell-effects.mi4Md1fB2XThCand]`|
+|[Effect: Antiplague (Greater)](spell-effects/10-R106i7WCXvHLGMTu.htm)||`@Compendium[pf2e.spell-effects.R106i7WCXvHLGMTu]`|
+|[Effect: Antiplague (Lesser)](spell-effects/01-kkDbalYEavzRpYlp.htm)||`@Compendium[pf2e.spell-effects.kkDbalYEavzRpYlp]`|
+|[Effect: Antiplague (Major)](spell-effects/14-qVKrrKpTghgMIuGH.htm)||`@Compendium[pf2e.spell-effects.qVKrrKpTghgMIuGH]`|
+|[Effect: Antiplague (Moderate)](spell-effects/06-HeRHBo2NaKy5IxhU.htm)||`@Compendium[pf2e.spell-effects.HeRHBo2NaKy5IxhU]`|
+|[Effect: Applereed Mutagen (Greater)](spell-effects/18-tTBJ33UGtzXjWOJp.htm)||`@Compendium[pf2e.spell-effects.tTBJ33UGtzXjWOJp]`|
+|[Effect: Applereed Mutagen (Lesser)](spell-effects/04-xVAdPzFaSvJXPMKv.htm)||`@Compendium[pf2e.spell-effects.xVAdPzFaSvJXPMKv]`|
+|[Effect: Applereed Mutagen (Moderate)](spell-effects/12-fYjvLx9DHIdCHdDx.htm)||`@Compendium[pf2e.spell-effects.fYjvLx9DHIdCHdDx]`|
+|[Effect: Barding of the Zephyr](spell-effects/10-P7Y7pO2ulZ5wBgxU.htm)||`@Compendium[pf2e.spell-effects.P7Y7pO2ulZ5wBgxU]`|
+|[Effect: Belt of 5 Kings (Wearer)](spell-effects/09-cg5qyeMJUh6b4fta.htm)||`@Compendium[pf2e.spell-effects.cg5qyeMJUh6b4fta]`|
+|[Effect: Belt of the Five Kings (Allies)](spell-effects/09-fbSFwwp60AuDDKpK.htm)||`@Compendium[pf2e.spell-effects.fbSFwwp60AuDDKpK]`|
+|[Effect: Bestial Mutagen (Greater)](spell-effects/11-kwD0wuW5Ndkc9YXB.htm)||`@Compendium[pf2e.spell-effects.kwD0wuW5Ndkc9YXB]`|
+|[Effect: Bestial Mutagen (Lesser)](spell-effects/01-fIpzDpuwLdIS4tW5.htm)||`@Compendium[pf2e.spell-effects.fIpzDpuwLdIS4tW5]`|
+|[Effect: Bestial Mutagen (Major)](spell-effects/17-1ouUo8lLK6H79Rqh.htm)||`@Compendium[pf2e.spell-effects.1ouUo8lLK6H79Rqh]`|
+|[Effect: Bestial Mutagen (Moderate)](spell-effects/03-xFQRiVU6h8EA6Lw9.htm)||`@Compendium[pf2e.spell-effects.xFQRiVU6h8EA6Lw9]`|
+|[Effect: Bloodhound Mask (Greater)](spell-effects/11-MI5OCkF9IXmD2lPF.htm)||`@Compendium[pf2e.spell-effects.MI5OCkF9IXmD2lPF]`|
+|[Effect: Bloodhound Mask (Lesser)](spell-effects/02-S4MZzALqFoXJsr6o.htm)||`@Compendium[pf2e.spell-effects.S4MZzALqFoXJsr6o]`|
+|[Effect: Bloodhound Mask (Moderate)](spell-effects/06-wFF0SZs1Hcf87Kk1.htm)||`@Compendium[pf2e.spell-effects.wFF0SZs1Hcf87Kk1]`|
+|[Effect: Boots of Elvenkind](spell-effects/05-88kqcDmsoAEddzUt.htm)||`@Compendium[pf2e.spell-effects.88kqcDmsoAEddzUt]`|
+|[Effect: Boulderhead Bock](spell-effects/02-2C1HuKDQDGFZuv7l.htm)||`@Compendium[pf2e.spell-effects.2C1HuKDQDGFZuv7l]`|
+|[Effect: Bracelets of Dashing](spell-effects/03-lLP56tbG689TNKW5.htm)||`@Compendium[pf2e.spell-effects.lLP56tbG689TNKW5]`|
+|[Effect: Bracers of Missile Deflection](spell-effects/03-PeiuJ951kkBPTCSM.htm)||`@Compendium[pf2e.spell-effects.PeiuJ951kkBPTCSM]`|
+|[Effect: Bravo's Brew (Greater)](spell-effects/15-q1EhQ716bPSgJVnC.htm)||`@Compendium[pf2e.spell-effects.q1EhQ716bPSgJVnC]`|
+|[Effect: Bravo's Brew (Lesser)](spell-effects/02-eh7EqmDBDW30ShCu.htm)||`@Compendium[pf2e.spell-effects.eh7EqmDBDW30ShCu]`|
+|[Effect: Bravo's Brew (Moderate)](spell-effects/10-wTZnKkT0K4Tdy8mD.htm)||`@Compendium[pf2e.spell-effects.wTZnKkT0K4Tdy8mD]`|
+|[Effect: Breastplate of Command](spell-effects/10-G0lG7IIZnCZtYi6v.htm)||`@Compendium[pf2e.spell-effects.G0lG7IIZnCZtYi6v]`|
+|[Effect: Bronze Bull Pendant](spell-effects/02-Cxa7MdgMCUoMqbKm.htm)||`@Compendium[pf2e.spell-effects.Cxa7MdgMCUoMqbKm]`|
+|[Effect: Celestial Armor](spell-effects/13-gDefAEEMXVVZgqXH.htm)||`@Compendium[pf2e.spell-effects.gDefAEEMXVVZgqXH]`|
+|[Effect: Cheetah's Elixir (Greater)](spell-effects/09-PeuUz7JaabCgl6Yh.htm)||`@Compendium[pf2e.spell-effects.PeuUz7JaabCgl6Yh]`|
+|[Effect: Cheetah's Elixir (Lesser)](spell-effects/01-lNWACCNe9RYgaFxb.htm)||`@Compendium[pf2e.spell-effects.lNWACCNe9RYgaFxb]`|
+|[Effect: Cheetah's Elixir (Moderate)](spell-effects/05-j9zVZwRBVAcnpEkE.htm)||`@Compendium[pf2e.spell-effects.j9zVZwRBVAcnpEkE]`|
+|[Effect: Clandestine Cloak](spell-effects/06-Uadsb25G18pKdZ2e.htm)||`@Compendium[pf2e.spell-effects.Uadsb25G18pKdZ2e]`|
+|[Effect: Clandestine Cloak (Greater)](spell-effects/10-uXEp1rPU5fY4OiBf.htm)||`@Compendium[pf2e.spell-effects.uXEp1rPU5fY4OiBf]`|
+|[Effect: Cloak of Elvenkind](spell-effects/07-eeGWTG9ZAha4IIOY.htm)||`@Compendium[pf2e.spell-effects.eeGWTG9ZAha4IIOY]`|
+|[Effect: Cloak of Elvenkind (Greater)](spell-effects/12-viCX9fZzTWGuoO85.htm)||`@Compendium[pf2e.spell-effects.viCX9fZzTWGuoO85]`|
+|[Effect: Cloak of the Bat](spell-effects/10-ioGzmVSmMGXWWBYb.htm)||`@Compendium[pf2e.spell-effects.ioGzmVSmMGXWWBYb]`|
+|[Effect: Cognitive Mutagen (Greater)](spell-effects/11-qit1mLbJUyRTYcPU.htm)||`@Compendium[pf2e.spell-effects.qit1mLbJUyRTYcPU]`|
+|[Effect: Cognitive Mutagen (Lesser)](spell-effects/01-jaBMZKdoywOTrQvP.htm)||`@Compendium[pf2e.spell-effects.jaBMZKdoywOTrQvP]`|
+|[Effect: Cognitive Mutagen (Major)](spell-effects/17-RT1BxXrbbGgk40Ti.htm)||`@Compendium[pf2e.spell-effects.RT1BxXrbbGgk40Ti]`|
+|[Effect: Cognitive Mutagen (Moderate)](spell-effects/03-ztxW3lBPRcesF7wK.htm)||`@Compendium[pf2e.spell-effects.ztxW3lBPRcesF7wK]`|
+|[Effect: Darkvision Elixir](spell-effects/01-a3hqeAXpmMZgMWuB.htm)||`@Compendium[pf2e.spell-effects.a3hqeAXpmMZgMWuB]`|
+|[Effect: Diplomat's Badge](spell-effects/05-pAMyEbJzWBoYoGhs.htm)||`@Compendium[pf2e.spell-effects.pAMyEbJzWBoYoGhs]`|
+|[Effect: Dragon Turtle Scale](spell-effects/04-4tepFOJLhZSelPoa.htm)||`@Compendium[pf2e.spell-effects.4tepFOJLhZSelPoa]`|
+|[Effect: Drakeheart Mutagen (Greater)](spell-effects/11-qwoLV4awdezlEJ60.htm)||`@Compendium[pf2e.spell-effects.qwoLV4awdezlEJ60]`|
+|[Effect: Drakeheart Mutagen (Lesser)](spell-effects/01-GBBjw61g4ekJymT0.htm)||`@Compendium[pf2e.spell-effects.GBBjw61g4ekJymT0]`|
+|[Effect: Drakeheart Mutagen (Major)](spell-effects/17-vFOr2JAJxiVvvn2E.htm)||`@Compendium[pf2e.spell-effects.vFOr2JAJxiVvvn2E]`|
+|[Effect: Drakeheart Mutagen (Moderate)](spell-effects/03-BV8RPntjc9FUzD3g.htm)||`@Compendium[pf2e.spell-effects.BV8RPntjc9FUzD3g]`|
+|[Effect: Dueling Cape](spell-effects/00-7dLsA9PAb5ij7Bc6.htm)||`@Compendium[pf2e.spell-effects.7dLsA9PAb5ij7Bc6]`|
+|[Effect: Dueling Parry](spell-effects/01-1nCwQErK6hpkNvfw.htm)||`@Compendium[pf2e.spell-effects.1nCwQErK6hpkNvfw]`|
+|[Effect: Eagle Eye Elixir (Greater)](spell-effects/10-kgotU0sFmtAHYySB.htm)||`@Compendium[pf2e.spell-effects.kgotU0sFmtAHYySB]`|
+|[Effect: Eagle Eye Elixir (Lesser)](spell-effects/01-VCypzSu659eC6jNi.htm)||`@Compendium[pf2e.spell-effects.VCypzSu659eC6jNi]`|
+|[Effect: Eagle Eye Elixir (Major)](spell-effects/16-wyLEew86nhNUXASu.htm)||`@Compendium[pf2e.spell-effects.wyLEew86nhNUXASu]`|
+|[Effect: Eagle Eye Elixir (Moderate)](spell-effects/05-Wa4317cqU4lJ8vAQ.htm)||`@Compendium[pf2e.spell-effects.Wa4317cqU4lJ8vAQ]`|
+|[Effect: Earplugs](spell-effects/00-NE7Fm5YnUhD4ySX3.htm)||`@Compendium[pf2e.spell-effects.NE7Fm5YnUhD4ySX3]`|
+|[Effect: Elixir of Life (Greater)](spell-effects/13-Z9oPh462q82IYIZ6.htm)||`@Compendium[pf2e.spell-effects.Z9oPh462q82IYIZ6]`|
+|[Effect: Elixir of Life (Lesser)](spell-effects/05-EpB7yJPEuG6ez4z3.htm)||`@Compendium[pf2e.spell-effects.EpB7yJPEuG6ez4z3]`|
+|[Effect: Elixir of Life (Major)](spell-effects/15-PpLxndUSgzgs6dd0.htm)||`@Compendium[pf2e.spell-effects.PpLxndUSgzgs6dd0]`|
+|[Effect: Elixir of Life (Minor)](spell-effects/01-lPRuIRbu0rHBkoKY.htm)||`@Compendium[pf2e.spell-effects.lPRuIRbu0rHBkoKY]`|
+|[Effect: Elixir of Life (Moderate)](spell-effects/09-Yxssrnh9UZJAM0V7.htm)||`@Compendium[pf2e.spell-effects.Yxssrnh9UZJAM0V7]`|
+|[Effect: Elixir of Life (True)](spell-effects/19-9MeHc072G4L8AJkp.htm)||`@Compendium[pf2e.spell-effects.9MeHc072G4L8AJkp]`|
+|[Effect: Euryale (Curse) Card](spell-effects/00-8ersuvNJXX00XaIQ.htm)||`@Compendium[pf2e.spell-effects.8ersuvNJXX00XaIQ]`|
+|[Effect: Glaive of the Artist](spell-effects/14-EpNflrkmWzQ0lEb4.htm)||`@Compendium[pf2e.spell-effects.EpNflrkmWzQ0lEb4]`|
+|[Effect: Glamorous Buckler](spell-effects/02-iEkH8BKLMUa2wxLX.htm)||`@Compendium[pf2e.spell-effects.iEkH8BKLMUa2wxLX]`|
+|[Effect: Golden Legion Epaulet](spell-effects/03-bP40jr6wE6MCsRvY.htm)||`@Compendium[pf2e.spell-effects.bP40jr6wE6MCsRvY]`|
+|[Effect: Improvised Weapon](spell-effects/00-eSIYyxi6uTKiP6W5.htm)||`@Compendium[pf2e.spell-effects.eSIYyxi6uTKiP6W5]`|
+|[Effect: Inspiring Spotlight](spell-effects/09-E4B02mJmNexQLa8F.htm)||`@Compendium[pf2e.spell-effects.E4B02mJmNexQLa8F]`|
+|[Effect: Juggernaut Mutagen (Greater)](spell-effects/11-xLilBqqf34ZJYO9i.htm)||`@Compendium[pf2e.spell-effects.xLilBqqf34ZJYO9i]`|
+|[Effect: Juggernaut Mutagen (Lesser)](spell-effects/01-1l139A2Qik4lBHKO.htm)||`@Compendium[pf2e.spell-effects.1l139A2Qik4lBHKO]`|
+|[Effect: Juggernaut Mutagen (Major)](spell-effects/17-2PNo8u4wxSbz5WEs.htm)||`@Compendium[pf2e.spell-effects.2PNo8u4wxSbz5WEs]`|
+|[Effect: Juggernaut Mutagen (Moderate)](spell-effects/03-fUrZ4xcMJz0CfTyG.htm)||`@Compendium[pf2e.spell-effects.fUrZ4xcMJz0CfTyG]`|
+|[Effect: Lastwall Soup](spell-effects/01-6A8jsLR7upLGuRiv.htm)||`@Compendium[pf2e.spell-effects.6A8jsLR7upLGuRiv]`|
+|[Effect: Lover's Gloves](spell-effects/08-3O5lvuX4VHqtpCkU.htm)||`@Compendium[pf2e.spell-effects.3O5lvuX4VHqtpCkU]`|
+|[Effect: Panache](spell-effects/01-uBJsxCzNhje8m8jj.htm)||`@Compendium[pf2e.spell-effects.uBJsxCzNhje8m8jj]`|
+|[Effect: Potion of Flying](spell-effects/01-pBjryBfM3caODg6M.htm)||`@Compendium[pf2e.spell-effects.pBjryBfM3caODg6M]`|
+|[Effect: Potion of Swimming](spell-effects/01-tjrdYJLPoGdFZlNl.htm)||`@Compendium[pf2e.spell-effects.tjrdYJLPoGdFZlNl]`|
+|[Effect: Quicksilver Mutagen (Greater)](spell-effects/11-2Bds6d4UGQZqYSZM.htm)||`@Compendium[pf2e.spell-effects.2Bds6d4UGQZqYSZM]`|
+|[Effect: Quicksilver Mutagen (Lesser)](spell-effects/01-6PNLBIdlqqWNCFMy.htm)||`@Compendium[pf2e.spell-effects.6PNLBIdlqqWNCFMy]`|
+|[Effect: Quicksilver Mutagen (Major)](spell-effects/17-988f6NpOo4YzFzIr.htm)||`@Compendium[pf2e.spell-effects.988f6NpOo4YzFzIr]`|
+|[Effect: Quicksilver Mutagen (Moderate)](spell-effects/03-VPtsrpbP0AE642al.htm)||`@Compendium[pf2e.spell-effects.VPtsrpbP0AE642al]`|
+|[Effect: Serene Mutagen (Greater)](spell-effects/11-jw6Tr9FbErjLAFLQ.htm)||`@Compendium[pf2e.spell-effects.jw6Tr9FbErjLAFLQ]`|
+|[Effect: Serene Mutagen (Lesser)](spell-effects/01-5xgapIXn5DwbXHKh.htm)||`@Compendium[pf2e.spell-effects.5xgapIXn5DwbXHKh]`|
+|[Effect: Serene Mutagen (Major)](spell-effects/17-t7VUJHSUT6bkVUjg.htm)||`@Compendium[pf2e.spell-effects.t7VUJHSUT6bkVUjg]`|
+|[Effect: Serene Mutagen (Moderate)](spell-effects/03-yrbz0rZzp8aZEqbv.htm)||`@Compendium[pf2e.spell-effects.yrbz0rZzp8aZEqbv]`|
+|[Effect: Silvertongue Mutagen (Greater)](spell-effects/11-oAewXfq9c0ecaSfw.htm)||`@Compendium[pf2e.spell-effects.oAewXfq9c0ecaSfw]`|
+|[Effect: Silvertongue Mutagen (Lesser)](spell-effects/01-dpIrjd1UPY7EnWUD.htm)||`@Compendium[pf2e.spell-effects.dpIrjd1UPY7EnWUD]`|
+|[Effect: Silvertongue Mutagen (Major)](spell-effects/17-9FfFhu2kl2wMTsiI.htm)||`@Compendium[pf2e.spell-effects.9FfFhu2kl2wMTsiI]`|
+|[Effect: Silvertongue Mutagen (Moderate)](spell-effects/03-v5Ht1V4MZvRKRBjL.htm)||`@Compendium[pf2e.spell-effects.v5Ht1V4MZvRKRBjL]`|
+|[Effect: Stone Body Mutagen (Greater)](spell-effects/15-b9DTIJyBT8kvIBpj.htm)||`@Compendium[pf2e.spell-effects.b9DTIJyBT8kvIBpj]`|
+|[Effect: Stone Body Mutagen (Lesser)](spell-effects/05-PEPOd38VfVzQMKG5.htm)||`@Compendium[pf2e.spell-effects.PEPOd38VfVzQMKG5]`|
+|[Effect: Stone Body Mutagen (Moderate)](spell-effects/12-1xHHvQlW4pRR89qj.htm)||`@Compendium[pf2e.spell-effects.1xHHvQlW4pRR89qj]`|
+|[Effect: Throne Card](spell-effects/00-Zb8RYgmzCI6fQE0o.htm)||`@Compendium[pf2e.spell-effects.Zb8RYgmzCI6fQE0o]`|
+|[Spell Effect: Bless](spell-effects/Gqy7K6FnbLtwGpud.htm)||`@Compendium[pf2e.spell-effects.Gqy7K6FnbLtwGpud]`|
+|[Spell Effect: Guidance](spell-effects/01-3qHKBDF7lrHw8jFK.htm)||`@Compendium[pf2e.spell-effects.3qHKBDF7lrHw8jFK]`|
+|[Spell Effect: Heroism](spell-effects/03-l9HRQggofFGIxEse.htm)||`@Compendium[pf2e.spell-effects.l9HRQggofFGIxEse]`|
+|[Spell Effect: Inspire Courage](spell-effects/01-beReeFroAx24hj83.htm)||`@Compendium[pf2e.spell-effects.beReeFroAx24hj83]`|
+|[Spell Effect: Mage Armor](spell-effects/01-qkwb5DD3zmKwvbk0.htm)||`@Compendium[pf2e.spell-effects.qkwb5DD3zmKwvbk0]`|
+|[Spell Effect: Shield](spell-effects/01-Jemq5UknGdMO7b73.htm)||`@Compendium[pf2e.spell-effects.Jemq5UknGdMO7b73]`|
 
 
 ## Guide du MJ

@@ -32,10 +32,11 @@ SUPPORTED = {
   "classes":                        { 'transl': "Classes", "paths": { 'name': "name", 'desc': "content" } },
   #"criticaldeck":                   { 'transl': "Critiques", "paths": { 'name': "name", 'desc': "content" } },
   #"pf2e-macros":                    { 'transl': "Macros PF2e", "paths": { 'name': "name", 'desc': "content" } },
-  "bestiary-ability-glossary-srd":  { 'transl': "Aptitudes du Bestiaire", "paths": { 'name': "name", 'desc': "data.description.value" } },
+  "bestiary-ability-glossary-srd":  { 'transl': "Aptitudes du bestiaire", "paths": { 'name': "name", 'desc': "data.description.value" } },
   "pathfinder-society-boons":       { 'transl': "Macros PF2e", "paths": { 'name': "name", 'desc': "data.description.value" } },
   "boons-and-curses":               { 'transl': "Bénédictions et malédictions", "paths": { 'name': "name", 'desc': "data.description.value" } },
-  "familiar-abilities":             { 'transl': "Aptitudes des Familiers", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.level.value" } },
+  "familiar-abilities":             { 'transl': "Aptitudes des familiers", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.level.value" } },
+  "spell-effects":                  { 'transl': "Effets des sorts", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.level.value" } },
 
 }
 
