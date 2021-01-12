@@ -12,7 +12,7 @@
   * *changé* cette entrée indique que le fichier anglais d'origine dont l'extraction est reprise a évolué. Cela peut être une modification dans les liens ajoutés ou modifiés, dans le texte en vo qui a été erratisé, dans l'automatisation qui est ajoutée pour permettre de lancer les dés directement sous Foundry. Lorsque c'est le cas, cela nécessite une vérification et une reprise des modifications en français. Si on modifie le fichier pour reprendre les modifiations, il faut alors supprimer le champ ci-dessous et remplacer par l'ancienne valeur libre ou officielle trouvé dans l'État antérieur.
 * **État antérieur**: ce champ n'existe que s'il y a au dessus un état _changé_. Ce champ peut prendre l'une des deux valeurs suivantes libre ou officielle. Cela signifie qu'avant le changement, le texte provenait d'une traduction libre ou d'une traduction officielle.
 * **Description (en)**: la description d'origine en anglais. Ne pas modifier le texte ou supprimer.
-* **Description (fr)**: la description en français
+* **Description (fr)**: la description en français. Sauf si vous savez ce que vous faites et connaissez les balises, vous reprenez les balises anglaises Les balises sont les instructions données qui permettent la mise en page du texte.
 
 Exemple de fichier à traduire:
 
