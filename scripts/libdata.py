@@ -23,7 +23,7 @@ SUPPORTED = {
   #"fall-of-plaguestone-bestiary":   { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
   #"iconics":                        { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
   #"npc-gallery":                    { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
-  "ancestryfeatures":               { 'transl': "Ascendances", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" } },
+  "ancestryfeatures":               { 'transl': "Ascendances (aptitudes)", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" } },
   "classfeatures":                  { 'transl': "Capacités de classe", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.traits.value", 'type2': "data.level.value" } },
   #"rollable-tables":                { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
   "backgrounds":                    { 'transl': "Backgrounds", "paths": { 'name': "name", 'desc': "content" } },
@@ -37,6 +37,7 @@ SUPPORTED = {
   "boons-and-curses":               { 'transl': "Bénédictions et malédictions", "paths": { 'name': "name", 'desc': "data.description.value" } },
   "familiar-abilities":             { 'transl': "Aptitudes des familiers", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.level.value" } },
   "spell-effects":                  { 'transl': "Effets des sorts", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.level.value" } },
+  "ancestries":                     { 'transl': "Ascendances", "paths": { 'name': "name", 'desc': "data.description.value" } },
 
 }
 

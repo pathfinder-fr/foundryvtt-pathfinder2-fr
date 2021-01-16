@@ -1192,6 +1192,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous savez mieux esquiver les coups grâce au flux magique et à votre entraînement en matière de défense. Votre rang de maîtrise pour la défense sans armure passe à expert.&nbsp;</span></p>"
         },
         {
+            "id": "Rage",
+            "name": "Rage",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez l’action Rage qui vous permet de laisser libre cours à votre fureur..&nbsp;</span></p>"
+        },
+        {
             "id": "Juggernaut (Champion)",
             "name": "Juggernaut (Champion)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre corps s’est habitué à l’effort physique et à résister aux maladies. Votre rang de maîtrise pour les jets de Vigueur devient maître. Quand vous obtenez un succès sur un jet de Vigueur, vous remportez à la place un succès critique.&nbsp;</span></p>"
@@ -1487,11 +1492,6 @@
             "description": "<p>Vos réflexes sont fulgurants. Votre rang de maîtrise pour les jets de Réflexes passe à expert.</p>"
         },
         {
-            "id": "Rage",
-            "name": "Rage",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous gagnez l’action Rage qui vous permet de laisser libre cours à votre fureur..&nbsp;</span></p>"
-        },
-        {
             "id": "Leaf",
             "name": "Feuille",
             "description": "<p> Vous vénérez les plantes et la générosité de la nature, en vous comportant à la fois comme un jardinier et comme un gardien de la nature sauvage qui enseigne des techniques durables aux communautés et aide certaines régions à se rétablir suite à des désastres ou au développement abusif d’humanoïdes. Vous êtes qualifié en Diplomatie.&nbsp;</p>\n<p>Vous obtenez également le don de druide @Compendium[pf2e.feats-srd.7y1BCJLrdk9mKXlc]{Familier léchi}. Vous obtenez le sort d’ordre @Compendium[pf2e.spells-srd.vQuwLqtFFYt0K15N]{baie nourricière} et vous augmentez de 1 le nombre de points que contient votre réserve de focalisation. Tout acte de cruauté gratuit envers des végétaux ou l’abattage abusif de plantes sont considérés comme anathèmes&nbsp;</p>\n<p>(il ne vous est toutefois pas interdit de vous défendre contre des plantes ou de les cueillir lorsque c'est nécessaire pour vous nourrir).</p>"
@@ -1590,11 +1590,6 @@
             "id": "The Tenets of Good",
             "name": "Les principes du bien",
             "description": "<p>Tous les champions d’alignement bon suivent ces principes :</p>\n<ul>\n<li>Vous ne devez jamais accomplir des actes que votre divinité condamne ou commettre sciemment un acte malveillant (commettre un meurtre, infliger des tortures ou lancer un sort du mal, entre autres).</li>\n<li>Vous ne devez jamais nuire sciemment à un innocent ou laisser un innocent se faire malmener sous vos yeux par votre inaction quand vous savez pertinemment que vous pourriez le sauver. Ce principe ne vous oblige pas à agir contre une menace potentielle envers des innocents susceptible de se manifester dans un avenir plus ou moins proche ou à sacrifier votre vie pour les protéger.&nbsp;</li>\n</ul>"
-        },
-        {
-            "id": "Third Path to Perfection",
-            "name": "Troisième voie vers la Perfection",
-            "description": "<p>Vous avez beaucoup progressé dans votre quête personnelle de l’illumination. Choisissez l’un des jets de sauvegarde sélectionnés avec Voie vers la perfection ou Seconde voie vers la perfection. Votre rang de maîtrise dans le jet de sauvegarde choisi passe à légendaire. Quand vous obtenez un échec critique au jet de sauvegarde choisi, celui-ci se transforme en échec. Lorsque vous obtenez un échec sur le jet de sauvegarde choisi contre un effet qui inflige des dégâts, vous ne subissez que la moitié des dégâts.</p>"
         },
         {
             "id": "Ranger Expertise",
@@ -1757,11 +1752,6 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre divinité vous accorde le pouvoir de lancer des sorts divins. Vous lancez des sorts divins avec l’activité Lancer un sort et pouvez fournir des composants matériels, somatiques et verbaux lors de l’incantation (voir Lancer des sorts p. 302). Étant donné que vous êtes un prêtre, vous pouvez normalement brandir un focaliseur divin (tel qu’un symbole religieux) pour lancer les sorts nécessitant des composants matériels au lieu d’utiliser une bourse de composants.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Au niveau 1, vous pouvez chaque matin préparer deux sorts de niveau 1 et cinq tours de magie que vous choisissez parmi les sorts ordinaires de la liste des sorts divins de ce livre (page 309) ou parmi les autres sorts divins auxquels vous avez accès. Vos sorts restent à votre disposition jusqu’à ce que vous les lanciez ou que vous les prépariez de nouveau. Le nombre de sorts que vous pouvez préparer est représenté par vos emplacements de sort. Au fur et à mesure que vous gagnez des niveaux de prêtre, le nombre de sorts que vous pouvez préparer chaque jour augmente, tout comme le niveau de sort le plus élevé que vous pouvez lancer, comme indiqué dans le tableau 3–9 : Sorts de prêtre quotidiens, p. 182.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Certains sorts exigent un jet d’attaque de sort pour déterminer leur efficacité ou obligent vos ennemis à faire un jet contre le DD de votre sort (en général un jet de sauvegarde). Comme la Sagesse est votre caractéristique essentielle, vos jets d’attaque de sort et le DD de vos sorts utilisent votre modificateur de Sagesse. Les détails permettant de calculer ces statistiques figurent p. 447.</span></p>"
         },
         {
-            "id": "Path to Perfection",
-            "name": "Voie vers la perfection",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous progressez sur votre propre voie vers l’illumination. Choisissez entre votre jet de sauvegarde de Réflexes, de Vigueur ou de Volonté. Votre rang de maîtrise dans le jet de sauvegarde choisi passe à maître. Quand vous obtenez un succès au jet de sauvegarde choisi, celui-ci est transformé en succès critique.&nbsp;</span></p>"
-        },
-        {
             "id": "Divine Defense",
             "name": "Défense divine",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Votre entraînement et votre divinité vous protègent contre les coups. Votre rang de maîtrise pour la défense sans armure passe à expert.&nbsp;</span></p>"
@@ -1790,11 +1780,6 @@
             "id": "Weapon Expertise (Witch)",
             "name": "Expertise martiale (Sorcière)",
             "description": "<p>Par l'expérience, vous avez amélioré votre technique avec vos armes. Votre rang de maîtrise avec les armes simples et les attaques à mains nues passe à expert.</p>"
-        },
-        {
-            "id": "Second Path to Perfection",
-            "name": "Deuxième voie vers la Perfection",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chacune de vos réussites vous offre l’occasion de vous perfectionner. Choisissez un jet de sauvegarde différent de celui que vous avez choisi avec la voie vers la perfection. Votre rang de maîtrise dans le jet de sauvegarde choisi passe à maître. Quand vous obtenez un succès au jet de sauvegarde choisi, celui-ci est transformé en succès critique.&nbsp;</span></p>"
         },
         {
             "id": "Lightning Reflexes (Wizard)",
@@ -1899,7 +1884,7 @@
         {
             "id": "Panache",
             "name": "Panache",
-            "description": "<p>Pour vous, la manière d’accomplir quelque chose est aussi importante que le fait de parvenir ou non à l’accomplir. Quand vous réalisez une action avec suffisamment de bravade, vous pouvez en tirer parti pour réaliser des manoeuvres spectaculaires et mortelles. Celà s'appelle le panache et soit vous disposez de panache, soit vous n’en disposez pas.</p>\n<p>Vous gagnez du panache en réussissant à réaliser des tests de compétence associés à certaines actions spécifiques pleines d'audace, incluant @Compendium[pf2e.actionspf2e.21WIfSu7Xd7uKqV8]{Traverser un espace occupé} et des actions supplémentaires déterminées par votre style de bretteur. Au choix du MJ, après avoir réussi un test pour réaliser une action particulièrement osée comme vous balancer à un chandelier ou glisser le long d’une tenture, vous pourriez également gagner du panache si vous obtenez un résultat suffisamment élevé (généralement le DD très difficile pour votre niveau, mais le MJ peut choisir un seuil différent).</p>\n<p>Quand vous possédez du panache, vous gagnez un bonus de +1,5 m à vos Vitesses et un bonus de circonstances de +1 aux tests pour Traverser l’espace occupé par un adversaire ou pour entreprendre n’importe quelle action vous permettant de gagner du panache grâce à votre style. L’aptitude de classe de frappe précise vous permet également d’infliger des dégâts de précision supplémentaires quand vous disposez de panache. Les actions de Coup final puissant, comme Coup final assuré, ne peuvent être utilisées que quand vous disposez de panache et elles vous font perdre du panache.</p>\n<p>Normalement, vous obtenez et utilisez votre panache uniquement en combat ; quand une rencontre s'achève, vous perdez votre panache.</p>"
+            "description": "<p>Pour vous, la manière d’accomplir quelque chose est aussi importante que le fait de parvenir ou non à l’accomplir. Quand vous réalisez une action avec une bravade particulière, vous pouvez en tirer parti pour réaliser des manœuvres spectaculaires et mortelles. Cet état de grâce s'appelle le panache et soit vous avez du panache, soit vous n’en avez pas.</p>\n<p>Vous gagnez du panache en réussissant à réaliser des tests de compétence associés à certaines actions spécifiques pleines d'audace, incluant @Compendium[pf2e.actionspf2e.21WIfSu7Xd7uKqV8]{Traverser un espace occupé} et des actions supplémentaires déterminées par votre style de bretteur. Au choix du MJ, après avoir réussi un test pour réaliser une action particulièrement osée comme vous balancer à un chandelier ou glisser le long d’une tenture, vous pourriez également gagner du panache si vous obtenez un résultat suffisamment élevé (généralement en atteignant le DD très difficile de votre niveau, mais le MJ peut choisir un seuil différent).</p>\n<p>Quand vous possédez du panache, vous gagnez un bonus de +1,5 m à vos Vitesses et un bonus de circonstances de +1 aux tests pour Traverser l’espace occupé par un adversaire ou pour entreprendre n’importe quelle action vous permettant de gagner du panache grâce à votre style. L’aptitude de classe de Frappe précise vous permet également d’infliger des dégâts de précision supplémentaires quand vous disposez de panache. Les actions de Coup final puissant, comme Coup final assuré, ne peuvent être utilisées que quand vous disposez de panache et elles vous font perdre du panache.</p>\n<p>Normalement, vous obtenez et utilisez votre panache uniquement lors de recontres de combat ; quand une rencontre s'achève, vous perdez votre panache.</p>"
         },
         {
             "id": "Greater Weapon Specialization (Monk)",

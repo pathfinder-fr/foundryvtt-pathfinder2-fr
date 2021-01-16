@@ -1,33 +1,40 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 30
- * **changé**: 139
- * **officielle**: 24
+ * **libre**: 34
+ * **officielle**: 23
+ * **changé**: 136
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2021-01-09 19:14 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-16 10:29 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[MRXjwr1t5my8LHF8.htm](backgrounds/MRXjwr1t5my8LHF8.htm)|Deckhand|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[0EIhRniun8jfdPeN.htm](backgrounds/0EIhRniun8jfdPeN.htm)|Rostland Partisan|Partisan du Rost|libre|
 |[0qrZaukJ0aIoPx3P.htm](backgrounds/0qrZaukJ0aIoPx3P.htm)|Iolite Trainee Hobgoblin|Recrue iolite hobgobeline|libre|
-|[1bd25sY8k1moRcca.htm](backgrounds/1bd25sY8k1moRcca.htm)|Root Worker|Chasseur de racines|changé|
+|[1bd25sY8k1moRcca.htm](backgrounds/1bd25sY8k1moRcca.htm)|Root Worker|Chasseur de racines|libre|
 |[1zyrJ5dQPKedoSfP.htm](backgrounds/1zyrJ5dQPKedoSfP.htm)|Razmiran Faithful|Croyant en Razmir|libre|
 |[2PfqXmTTdwWAJNoc.htm](backgrounds/2PfqXmTTdwWAJNoc.htm)|Diobel Pearl Diver|Pêcheur de perles de Diobel|libre|
 |[3ljseFp6UbDGmCNn.htm](backgrounds/3ljseFp6UbDGmCNn.htm)|Emancipated|Émancipé|officielle|
 |[3w6cSTa3Zc4z2ygu.htm](backgrounds/3w6cSTa3Zc4z2ygu.htm)|Aspiring River Monarch|Aspirant Monarque du Fleuve|libre|
 |[45DuRopZt9dTJo3a.htm](backgrounds/45DuRopZt9dTJo3a.htm)|Translator|Traducteur|libre|
-|[4cYU0lSu5lDM9Qfc.htm](backgrounds/4cYU0lSu5lDM9Qfc.htm)|Harbor Guard Moonlighter|Noctambule de la Garde du port|changé|
+|[4cYU0lSu5lDM9Qfc.htm](backgrounds/4cYU0lSu5lDM9Qfc.htm)|Harbor Guard Moonlighter|Noctambule de la Garde du port|libre|
 |[5DnDnoSyyd1UPyRV.htm](backgrounds/5DnDnoSyyd1UPyRV.htm)|Touched by Dahak|Touché par Dahak|libre|
 |[5eB5SefI6OlARL7q.htm](backgrounds/5eB5SefI6OlARL7q.htm)|Barrister|Avocat|officielle|
 |[5KrCZHHMZmaM3FUl.htm](backgrounds/5KrCZHHMZmaM3FUl.htm)|Child of the Puddles|Marmot des flaques|libre|
 |[5PsnYGatgMEYy9xH.htm](backgrounds/5PsnYGatgMEYy9xH.htm)|Cursed Family|Famille maudite|libre|
-|[5u7FKCHuWmscNe5i.htm](backgrounds/5u7FKCHuWmscNe5i.htm)|Secular Medic|Médecin séculier|changé|
+|[5u7FKCHuWmscNe5i.htm](backgrounds/5u7FKCHuWmscNe5i.htm)|Secular Medic|Médecin séculier|libre|
 |[5vym5sPIxlDEEjGc.htm](backgrounds/5vym5sPIxlDEEjGc.htm)|Guard|Garde|officielle|
-|[64WHEiUYl5Bp9Rmo.htm](backgrounds/64WHEiUYl5Bp9Rmo.htm)|Artist|Artiste|officielle|
+|[64WHEiUYl5Bp9Rmo.htm](backgrounds/64WHEiUYl5Bp9Rmo.htm)|Artist|Artiste|changé|
 |[6gFzKv1eBQJ1xaH9.htm](backgrounds/6gFzKv1eBQJ1xaH9.htm)|Winter's Child|Enfant de l'Hiver|changé|
 |[76WshSVCoyTq3SRF.htm](backgrounds/76WshSVCoyTq3SRF.htm)|Cultist|Cultiste|changé|
 |[7MKHFbZitRzTwiP0.htm](backgrounds/7MKHFbZitRzTwiP0.htm)|Dreamer of the Verdant Moon|Rêveur de la lune verdoyante|libre|
@@ -115,7 +122,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[l1yFuSDrHiylStW1.htm](backgrounds/l1yFuSDrHiylStW1.htm)|Sally Guard Neophyte|Néophyte de la Garde des Percées|changé|
 |[lGMSYgWqZrg2SaTH.htm](backgrounds/lGMSYgWqZrg2SaTH.htm)|Fortune Teller|Voyant|officielle|
 |[lGXKBZYzT2IM69Yj.htm](backgrounds/lGXKBZYzT2IM69Yj.htm)|Pathfinder Recruiter|Recruteur des Éclaireurs|libre|
-|[lMF9dnqUeCDED0TG.htm](backgrounds/lMF9dnqUeCDED0TG.htm)|Animal Wrangler|Soigneur animalier|changé|
+|[lMF9dnqUeCDED0TG.htm](backgrounds/lMF9dnqUeCDED0TG.htm)|Animal Wrangler|Soigneur animalier|libre|
 |[LPZmM7UnWddi80gB.htm](backgrounds/LPZmM7UnWddi80gB.htm)|Mystic Seer|Voyant mystique|libre|
 |[ltRrwn4OZcc5FC1G.htm](backgrounds/ltRrwn4OZcc5FC1G.htm)|Reputation Seeker|En quête de renommée|changé|
 |[LY8vRo3Pyn7FxWNj.htm](backgrounds/LY8vRo3Pyn7FxWNj.htm)|Prisoner|Prisonnier|officielle|

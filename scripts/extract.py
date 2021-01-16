@@ -46,7 +46,7 @@ for p in packs:
     ## additional lists
     if "lists" in p:
       for key in p["lists"]:
-        entries[obj['_id']]['lists'][key] = getList(obj, p["lists"][key], True)
+        entries[obj['_id']]['lists'][key] = getList(obj, p["lists"][key], False)
   
   # ==============================
   # search for duplicates in names

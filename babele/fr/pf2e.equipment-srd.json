@@ -213,8 +213,8 @@
         },
         {
             "id": "Darkvision Elixir (Greater)",
-            "name": "Elixir de vision dans le noir (supérieur)",
-            "description": "<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p>Une fois que vous avez bu cet élixir, votre vue devient plus perçante dans les ténèbres. Vous gagnez vision dans le noir pendant 24 h.</p>"
+            "name": "Élixir de vision dans le noir (supérieur)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<p>Une fois que vous avez bu cet élixir, votre vue devient plus perçante dans les ténèbres. Vous gagnez Vision dans le noir pendant 24 heures.</p>\n<p>@Compendium[pf2e.spell-effects.a3hqeAXpmMZgMWuB]{Effet: Élixir de Vision dans le noir}</p>"
         },
         {
             "id": "Returning",
@@ -419,7 +419,7 @@
         {
             "id": "Crystal Shards (Greater)",
             "name": "Éclats de cristal (supérieur)",
-            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Frappe</p>\n<hr>\n<p>Cette bouteille contient un gaz rouge-brun sous pression parsemé de morceaux de cristal sublimé. Vous gagnez un bonus d'objet de +2 aux jets d'attaque. Lorsque la bombe explose, elle inflige [[/r 3d4 #perforants]] dégâts perforants et [[/r 5 #d'éclaboussure perforants]] d'éclaboussure perforants, car le mélange se transforme soudainement en cristaux solides volant à grande vitesse.</p>\n<p>Les surfaces dans la zone d'éclaboussure deviennent fragiles, des cristaux rouges luisants s'éffritant en poussière après 1 minute. Les cristaux sur les surfaces planes agissent alors comme des @Compendium[pf2e.equipment-srd.7fSnvJ2xoSfa6JXD]{chausse-trappes} (Core Rulebook 287). Les cristaux sur les surfaces verticales peuvent être utilisés brièvement comme poignées, ce qui permet d'accorder le bonus de l'article énuméré au prochain test d'athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader} chaque espace. Les cristaux de chaque case s'effritent après le départ de la créature, qu'elle soit en train d'Escalader ou de se déplacer dans les chausse-trappes.</p>"
+            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Frappe</p>\n<hr>\n<p>Cette bouteille contient un gaz rouge-brun sous pression parsemé de morceaux de cristal sublimé. Vous gagnez un bonus d'objet de +2 aux jets d'attaque. Lorsque la bombe explose, elle inflige [[/r 3d4 #perforants]] dégâts perforants et [[/r 5 #d'éclaboussure perforants]] d'éclaboussure perforants, car le mélange se transforme soudainement en cristaux solides volant à grande vitesse.</p>\n<p>Les surfaces dans la zone d'éclaboussure deviennent fragiles, des cristaux rouges luisants s'éffritant en poussière après 1 minute. Les cristaux sur les surfaces planes agissent alors comme des @Compendium[pf2e.equipment-srd.7fSnvJ2xoSfa6JXD]{chausse-trappes} (Livre de Base 287). Les cristaux sur les surfaces verticales peuvent être utilisés brièvement comme poignées, ce qui permet d'accorder le bonus de l'article énuméré au prochain test d'athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader} chaque espace. Les cristaux de chaque case s'effritent après le départ de la créature, qu'elle soit en train d'Escalader ou de se déplacer dans les chausse-trappes.</p>"
         },
         {
             "id": "Mistform Elixir (Greater)",
@@ -439,7 +439,7 @@
         {
             "id": "Antidote (Lesser)",
             "name": "Antidote (Inférieur)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"> L’antidote vous protège contre les toxines. Lorsque vous le buvez, vous recevez un bonus d’objet aux jets de Vigueur contre les poisons pendant 6 h.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"> Vous gagnez un bonus d’objet de +2.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activate</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;Interact</span></p>"
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<p>Un antidote vous protège contre les toxines. Lorsque vous le buvez, vous recevez un bonus d’objet de +2 aux jets de Vigueur contre les poisons pendant 6 heures.</p>\n<p>@Compendium[pf2e.spell-effects.7z1iY4AaNEAIKuAU]{Effet: Antidote (Inférieur)}</p>"
         },
         {
             "id": "Thieves' Tools",
@@ -479,7 +479,7 @@
         {
             "id": "Quicksilver Mutagen (Lesser)",
             "name": "Mutagène de Vif-argent (inférieur)",
-            "description": "Vous devenez fin et anguleux. Vous êtes plus rapide et plus agile, mais votre corps se fragilise. Le bonus aux jets de dés est de +1, celui à la Vitesse de +1,5 m et la durée est de 1 min.\nAvantage. Vous gagnez un bonus d’objet aux tests d’Acrobaties, de Discrétion et de Vol, aux jets de Réflexes et aux jets d’attaque à distance et vous gagnez le bonus indiqué à la Vitesse.\nInconvénient. Vous subissez un montant de dégâts égal au double de votre niveau. Vous ne pouvez pas récupérer les points de vie ainsi perdus tant que le mutagène fait effet. Vous subissez un malus de −2 aux jets de Vigueur."
+            "description": "<p><strong>Activate</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interact</p>\n<hr>\n<p>Vous devenez fin et anguleux. Vous êtes plus rapide et plus agile, mais votre corps se fragilise. Le bonus aux jets de dés est de +1, celui à la Vitesse de +1,5 m.</p>\n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet aux tests d’Acrobaties, de Discrétion et de Vol, aux jets de Réflexes et aux jets d’attaque à distance et vous gagnez le bonus indiqué à la Vitesse.</p>\n<p><strong>Inconvénient</strong> Vous subissez un montant de dégâts égal au double de votre niveau. Vous ne pouvez pas récupérer les points de vie ainsi perdus tant que le mutagène fait effet. Vous subissez un malus de −2 aux jets de Vigueur.</p>\n<p><strong>Durée</strong> 1 minute</p>\n<p>@Compendium[pf2e.spell-effects.6PNLBIdlqqWNCFMy]{Effet: Mutagène de vif-argent (Inférieur)}</p>"
         },
         {
             "id": "Demon Mask",
@@ -797,6 +797,11 @@
             "description": "<p><span class=\"fontstyle0\">Mélange de fourrure, de peau solide et de cuir bouilli parfois moulé, cette armure offre une protection grâce à ses différentes couches, même si son encombrement ralentit son porteur et diminue sa mobilité.</span></p>"
         },
         {
+            "id": "Potion of Flying (Greater)",
+            "name": "Potion de vol (Supérieur)",
+            "description": "<p>Une fois que vous avez bu cette décoction effervescente, vous gagnez une Vitesse de vol de 12 m pendant 1 heure.</p>\n<p>@Compendium[pf2e.spell-effects.pBjryBfM3caODg6M]{Effet: Potion de vol}</p>"
+        },
+        {
             "id": "Manacles (Good)",
             "name": "Menottes (bonnes)",
             "description": "<p><span class=\"fontstyle0\">vous pouvez menotter une personne volontaire ou à votre merci comme une activité d’exploration prenant 10 à 30 secondes, en fonction de la taille de la créature et du nombre de menottes que vous utilisez. Une créature bipède ayant ces membres attachés subit un malus de circonstance de –4,5 m à sa Vitesse, et une créature à deux mains ayant les poignets attachés doit réussir un test nu DD 5 chaque fois qu’elle utilise une action de manipulation ou que cette action échoue. Ce DD peut être plus élevé en fonction de la force avec laquelle les menottes contraignent les mains. Une créature attachée à un objet immobile est elle-même immobilisée. Dans le cas de créatures ayant plus ou moins de membres, le MJ détermine l’effet éventuel des menottes. Libérer une créature de menottes médiocres nécessite de réussir deux tests de Vol DD 17, des menottes simples exigent de leur côté trois succès DD 22, des menottes intermédiaires quatre succès DD 27, de bonnes menottes cinq succès DD 32 et des menottes supérieures six succès DD 42</span></p>"
@@ -972,6 +977,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chaque plume magique semble être une simple plume d’oiseau exotique. La tige, plaquée or, porte une unique rune arcanique. Une fois activée, la plume magique se transforme en un autre objet qui s’utilise alors normalement. Chaque plume s’active une seule fois et reste généralement sous la forme de l’objet en lequel elle s’est changée.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette plume s’active uniquement si vous la lan‑ cez dans une grande étendue d’eau, telle qu’un lac ou une large rivière. Elle se change en un ba‑ teau en forme de cygne capable de transporter jusqu’à 32 créatures de taille Moyenne ou 8 de Grande taille ou 2 de Très Grande taille. Le bateau se déplace sur l’eau à une Vitesse de 15 m et dure 1 jour. &nbsp;</span></p>"
         },
         {
+            "id": "Earplugs",
+            "name": "Bouchons d'oreilles",
+            "description": "<p>Fait à partir de coton et de cire ou de cork, les bouchons d'oreilles vous accordent un bonus d'objet de +1 aux jets de sauvegarde contre les effets ayant le trait audible. Les bouchons d'oreille rendent plus difficile d'entendre, quoi qu'il en soit, imposant une pénalité d'objet de -2 aux tests de Perception impliquant le son.</p>\n<p>Insérer ou retirer des bouchons d'oreille nécessite une action Interagir.</p>\n<p>@Compendium[pf2e.spell-effects.NE7Fm5YnUhD4ySX3]{Effet: Bouchon d'oreille}</p>"
+        },
+        {
             "id": "Sheath",
             "name": "Gaine",
             "description": "<p><span class=\"fontstyle0\">une gaine ou fourreau vous permet de porter facilement une arme sur vous.</span> </p>"
@@ -1018,7 +1028,7 @@
         },
         {
             "id": "Gold mask of a high priest",
-            "name": "Masque en or d'un haut prêtre",
+            "name": "Masque en or d'un grand prêtre",
             "description": ""
         },
         {
@@ -1197,6 +1207,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’aconit figure dans le folklore à cause de son lien avec les garous. Si vous êtes affecté par la lycanthropie et survivez au stade 3 de l’aconit, vous êtes immédiatement guéri de cette lycanthropie.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong>  Vigueur DD 30; <strong>Délai</strong>10 minutes; <strong>Durée maximum</strong> 6 minutes; <strong>Stade 1</strong>  12d6 dégâts de poison (1 min);  <strong>Stade 2</strong>  16d6 dégâts de poison (1 min) ; <strong>Stade 3</strong>  20d6 dégâts de poison (1 min)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
+            "id": "Lastwall Soup",
+            "name": "Soupe de Dernier-Rempart",
+            "description": "<p><strong>Activation</strong> 1 minute (Interaction)</p>\n<p>Les récupérateurs pourpres font cette riche soupe réconfortante en utilisant des herbes qui déconcertent les sens des morts-vivants. Un bol de soupe de Dernier-Rempart est aussi nourrissant qu'un repas complet.</p>\n<p>De plus, pendant 1 heure après avoir consommé un bol de soupe de Dernier-Rempart, vous obtenez un bonus d'objet de +2 aux tests et aux DD de Discrétion contre les morts-vivants.</p>\n<p>@Compendium[pf2e.spell-effects.6A8jsLR7upLGuRiv]{Effet: Soupe de Dernier-Rempart}</p>"
+        },
+        {
             "id": "Rod of Negation",
             "name": "Sceptre de négation",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce lourd et long sceptre de plomb peut interrompre la magie.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interagir; <strong>Effet</strong> Le sceptre émet un mince rayon gris qui annule la magie d’un sort ou d’un objet magique en lançant dissipation de la magie au niveau 6 avec un modificateur de contre de +23. Une fois activé, il faut attendre 2d6 heures avant de pouvoir le réactiver.</span></p>"
@@ -1284,7 +1299,7 @@
         {
             "id": "Serene Mutagen (Lesser)",
             "name": "Mutagène de sérénité (inférieur)",
-            "description": "Vous gagnez en sérénité intérieure, vous concentrant sur les détails et renforçant votre esprit contre les assauts mentaux, mais la violence vous rebute.Le bonus est de +1 ou +2 contre les effets mentaux et la durée de 1 min."
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<hr>\n<p>Vous gagnez en sérénité intérieure, vous concentrant sur les détails et renforçant votre esprit contre les assauts mentaux, mais la violence vous rebute.</p>\n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet de +1 aux jets de Volonté et aux tests de Perception, Médecine, Nature, Religion et Survie. . Ce bonus augmente à +2 lorsque vous faites un jet de Volonté contre les effets mentaux.</p>\n<p><strong>Inconvénient</strong> Vous subissez un malus de −1 aux jets d’attaque et au DD des sorts offensifs et un malus de −1 par dé de dégâts aux dégâts des armes, des attaques à mains nues et des sorts</p>\n<p><strong>Durée</strong> 1 minute</p>\n<p>@Compendium[pf2e.spell-effects.5xgapIXn5DwbXHKh]{Effet: Mutagène de sérénité (Inférieur)}</p>"
         },
         {
             "id": "Spellstrike Ammunition (Type VII)",
@@ -1547,11 +1562,6 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité de cette baguette n’est pas effilée mais fourchue.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong> 1/jour, plus surcharger ; l’activation nécessite <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\" /> si l’incantation du sort nécessite normalement <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />; <strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 m au rayon d’une explosion ayant normalement un rayon d’au moins 3 m ; ajoutez 1,50 m à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 m ou moins ; ou ajoutez 3 m à la longueur d’une ligne ou d’un cône plus long.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\" />, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 m ou plus), de cône ou de ligne.</span></p>"
         },
         {
-            "id": "Robe of the Archmagi (Greater)",
-            "name": "Robe de l'archimage (supérieure)",
-            "description": "<p><spanDes motifs arcaniques ornés sont brodés au fil d’argent fin sur ces robes qui existent en trois couleurs différentes en fonction de l’alignement avec lequel chacune est harmonisée. Les robes harmonisées à l’alignement bon sont blanches, celles harmonisées à l’alignement neutre sont grises et celles harmonisées à l’alignement mauvais sont noires. Une robe d’alignement mauvais ou bon obtient le trait correspondant. Les robes profitent uniquement aux personnages capables de lancer des sorts arcaniques et dont l’alignement sur l’axe bon-mauvais correspond à celui de la robe. Si votre alignement ne correspond pas à celui de la robe ou si vous n’êtes pas un incantateur arcanique, vous êtes stupéfié 2 à la place tant que vous portez une robe d’archimage. Cet état est impossible à retirer tant que vous portez la robe.<br /></span></p>\n<p><span>Les robes sont des vêtements d’explorateur de résilience supérieure +2 qui confèrent un bonus de circonstances de +1 aux jets de sauvegarde contre les sorts arcaniques et une résistance 10 aux dégâts des sorts arcaniques. <br /></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/Reaction.png\" alt=\"Reaction\" /> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous pouvez activer la robe quand vous ou un allié à 9 m ou moins faites un jet de sauvegarde contre un sort arcanique ; <strong>Effet</strong>  la robe confère à vous ou à l’allié un succès au jet de sauvegarde déclencheur .</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> Vous êtes un incantateur arcanique.</span></p>"
-        },
-        {
             "id": "Garnet",
             "name": "Grenat",
             "description": ""
@@ -1625,6 +1635,11 @@
             "id": "Staff of Healing (Greater)",
             "name": "Bâton de guérison (supérieur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les deux extrémités de ce bâton de bois blanc et lisse sont ornées d’une croix dorée et d’une multitude de cabochons de rubis. Un bâton de guérison confère un bonus d’objet aux points de vie que vous soignez chaque fois que vous lancez le sort guérison en utilisant vos propres emplacements de sort ou les charges du bâton.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bonus d’objet conféré aux sorts guérison est de +2. .&nbsp;</span></p>\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.SnjhtQYexDtNDdEg]{Stabilize}</li>\n<li><strong>Niveau 1</strong> @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</li>\n<li><strong>Niveau 2</strong> @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal} @Compendium[pf2e.spells-srd.SnaLVgxZ9ryUFmUr]{Restoration} @Compendium[pf2e.spells-srd.Et8RSCLx8w7uOLvo]{Restore Senses}</li>\n<li><strong>Niveau 3</strong> @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal} @Compendium[pf2e.spells-srd.RneiyehRO6f7LP44]{Remove Disease}</li>\n</ul>"
+        },
+        {
+            "id": "Robe of the Archmagi (Greater)",
+            "name": "Robe de l'archimage (supérieure)",
+            "description": "<p><spanDes motifs arcaniques ornés sont brodés au fil d’argent fin sur ces robes qui existent en trois couleurs différentes en fonction de l’alignement avec lequel chacune est harmonisée. Les robes harmonisées à l’alignement bon sont blanches, celles harmonisées à l’alignement neutre sont grises et celles harmonisées à l’alignement mauvais sont noires. Une robe d’alignement mauvais ou bon obtient le trait correspondant. Les robes profitent uniquement aux personnages capables de lancer des sorts arcaniques et dont l’alignement sur l’axe bon-mauvais correspond à celui de la robe. Si votre alignement ne correspond pas à celui de la robe ou si vous n’êtes pas un incantateur arcanique, vous êtes stupéfié 2 à la place tant que vous portez une robe d’archimage. Cet état est impossible à retirer tant que vous portez la robe.<br /></span></p>\n<p><span>Les robes sont des vêtements d’explorateur de résilience supérieure +2 qui confèrent un bonus de circonstances de +1 aux jets de sauvegarde contre les sorts arcaniques et une résistance 10 aux dégâts des sorts arcaniques. <br /></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/Reaction.png\" alt=\"Reaction\" /> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous pouvez activer la robe quand vous ou un allié à 9 m ou moins faites un jet de sauvegarde contre un sort arcanique ; <strong>Effet</strong>  la robe confère à vous ou à l’allié un succès au jet de sauvegarde déclencheur .</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> Vous êtes un incantateur arcanique.</span></p>"
         },
         {
             "id": "Poisonous Cloak Type III",
@@ -1784,7 +1799,7 @@
         {
             "id": "Bestial Mutagen (Lesser)",
             "name": "Mutagène bestial (inférieur)",
-            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<hr>Vos traits prennent un air bestial et votre masse musculaire se développe, mais cette forme massive est maladroite.</p>\n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet aux tests d’Athlétisme et aux jets d’attaque à mains nues. Vous gagnez une attaque à mains nues de griffes avec le trait agile et une attaque à mains nues de mâchoires. Vous gagnez un bonus d’objet de +1, vos griffes infligent [[/r 1d4 #tranchants]] dégâts tranchants, vos mâchoires [[/r 1d6 #perforants]] dégâts perforants et la durée est de 1 min.</p>\n<p><strong>Inconvénient.</strong> Vous subissez un malus de −1 à la CA et de −2 aux jets de Réflexes.</p>\n<p>@Compendium[pf2e.spell-effects.fIpzDpuwLdIS4tW5]{Effet: Mutagène bestial (inférieur)}</p>"
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<hr>Vos traits prennent un air bestial et votre masse musculaire se développe, mais cette forme massive est maladroite.</p>\n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet de +1 aux tests d’Athlétisme et aux jets d’attaque à mains nues. Vous gagnez une attaque à mains nues de griffes avec le trait agile et une attaque à mains nues de mâchoires. Vos griffes infligent [[/r 1d4 #tranchants]] dégâts tranchants, vos mâchoires [[/r 1d6 #perforants]] dégâts perforants.</p>\n<p><strong>Inconvénient</strong> Vous subissez un malus de −1 à la CA et de −2 aux jets de Réflexes.</p>\n<p><strong>Durée</strong> 1 minute.</p>\n<p>@Compendium[pf2e.spell-effects.fIpzDpuwLdIS4tW5]{Effet: Mutagène bestial (inférieur)}</p>"
         },
         {
             "id": "Sardonyx",
@@ -1928,8 +1943,8 @@
         },
         {
             "id": "Eagle Eye Elixir (Major)",
-            "name": "Elixir d'oeil de faucon (majeur)",
-            "description": "Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet aux tests de Perception. Il est plus important si vous tentez de repérer une porte ou une trappe secrètes. Le bonus est de +3 ou de +4 pour trouver une porte ou une trappe secrètes. À chaque fois que vous passez à 3 m d’une porte ou d’une trappe dérobées, le MJ fait automatiquement un test en secret pour savoir si vous la repérez."
+            "name": "Élixir d'œil de faucon (majeur)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p>Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtils. Pendant l’heure qui suit, vous gagnez un bonus d’objet de +3 aux tests de Perception. Il est de +4 si vous tentez de repérer une porte secrète et des pièges. À chaque fois que vous passez à 3 m d’une porte dérobée ou d’un piège, le MJ fait automatiquement un test en secret pour savoir si vous la repérez.</p>\n<p>@Compendium[pf2e.spell-effects.wyLEew86nhNUXASu]{Effet: Élixir d'œil du faucon (Majeur)}</p>"
         },
         {
             "id": "Brimstone Fumes",
@@ -1949,7 +1964,7 @@
         {
             "id": "Daredevil Boots",
             "name": "Bottes de casse-cou",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces bottes de couleur vive aux semelles souples vous incitent à accomplir des cascades risquées et vous confèrent l’agilité nécessaire pour cela. Les bottes vous confèrent un bonus d’objet de +2 aux tests d’Acrobaties et un bonus de circonstances de +1 aux tests pour traverser l’espace d’un ennemi en effectuant un Déplacement acrobatique. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Les bottes peuvent adhérer aux surfaces solides et vous aider à ne pas chuter, ce qui vous permet d’effectuer la réaction Se raccrocher in extremis, même si vos mains ne sont pas libres. On considère que la hauteur de vos chutes est réduite de 3 m et, si vous avez le don Chute féline, vous augmentez d’un degré votre rang de maîtrise en Acrobaties lorsqu’il s’agit de déterminer les avantages de ce don. Si vous avez le don Chute féline et que vous êtes déjà légendaire en Acrobaties, vous pouvez choisir la vitesse de votre chute, entre 18 m par round et la vitesse normale de chute. </span></p>"
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ces bottes de couleur vive aux semelles souples vous incitent à accomplir des cascades risquées et vous confèrent l’agilité nécessaire pour cela. Les bottes vous confèrent un bonus d’objet de +2 aux tests d’Acrobaties et un bonus de circonstances de +1 aux tests pour traverser l’espace d’un ennemi en effectuant un Déplacement acrobatique. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Les bottes peuvent adhérer aux surfaces solides et vous aider à ne pas chuter, ce qui vous permet d’effectuer la réaction Se raccrocher in extremis, même si vos mains ne sont pas libres. On considère que la hauteur de vos chutes est réduite de 3 m et, si vous avez le don @Compendium[pf2e.feats-srd.LQw0yIMDUJJkq1nD]{Chute féline}, vous augmentez d’un degré votre rang de maîtrise en Acrobaties lorsqu’il s’agit de déterminer les avantages de ce don. Si vous avez le don Chute féline et que vous êtes déjà légendaire en Acrobaties, vous pouvez choisir la vitesse de votre chute, entre 18 m par round et la vitesse normale de chute. </span></p>"
         },
         {
             "id": "Tiger Menuki",
@@ -1988,8 +2003,8 @@
         },
         {
             "id": "Eagle Eye Elixir (Lesser)",
-            "name": "Elixir d'oeil du faucon (mineure)",
-            "description": "Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet aux tests de Perception. Il est plus important si vous tentez de repérer une porte ou une trappe secrètes. Le bonus est de +1 ou de +2 pour trouver une porte ou une trappe secrètes."
+            "name": "Élixir d'œil du faucon (Inférieur)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p>Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet de +1 aux tests de Perception. Il est de +2 si vous tentez de repérer une porte secrète et des pièges. </p>\n<p>@Compendium[pf2e.spell-effects.VCypzSu659eC6jNi]{Effet: Élixir d'œil du faucon (Inférieur)}</p>"
         },
         {
             "id": "Aquamarine",
@@ -2492,6 +2507,11 @@
             "description": "<p>Ce liquide contient du sang d’un jeune dragon vert. Pendant 1 h après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait poison. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte un cône de 4,5m de dégâts de poison. Le souffle d'un jeune dragon vert inflige 4d6 dégâts de poison et chaque créature dans la zone touchée doit faire un jet de réflexes basique DD 23. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds. </p>"
         },
         {
+            "id": "Instant Fortress",
+            "name": "Forteresse instantanée",
+            "description": "<p>Ce cube métallique est suffisamment petit pour tenir dans le creux de la main. En le regardant de plus près, on peut voir de fines lignes dans le métal gris foncé, comme si le cube avait été plié plusieurs milliers de fois.</p>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\"></span> sur ordre, interagir</p>\n<p><strong>Effet</strong>Vous jetez le cube par terre et celui-ci se déplie immédiatement pour former une forteresse en adamantium.</p>\n<p>La forteresse est un parallélépipède de 6 m de côté et 9 m de haut avec des escaliers en adamantium qui permettent de monter vers trois séries de remparts situées à 3 m, 6 m et au sommet. Des meurtrières le long de la partie inférieure des remparts crénelés fournissent un abri standard aux créatures à l’intérieur de la forteresse. Il n’y a pas de toit, et uniquement un puits vertical de 3 m de côté au milieu de la forteresse qui traverse l’ensemble de la structure.</p>\n<p>En tant que structure magique, la forteresse a le trait structure. Étant donné que la forteresse se déploie vers l’extérieur, aucune créature ne peut se retrouver par inadvertance à l’intérieur comme dans le cas des autres structures magiques. À la place, ces créatures sont repoussées. La structure ne peut pas repousser une créature sur une surface ou un élément dangereux de cette façon et elle arrête de se déployer si cela devait arriver. La forteresse n’a qu’une seule porte au milieu d’un mur au rez-dechaussée et celle-ci apparaît directement devant vous quand vous activez la forteresse. Si vous vous trouvez à 30 m ou moins de la porte, vous pouvez provoquer son ouverture ou sa fermeture et la verrouiller en effectuant une action unique pour prononcer un ordre verbal qui a le trait audible. Le DD pour Ouvrir de force la porte ou Crocheter sa serrure est de 40. Vous pouvez instantanément redonner à la forteresse instantanée sa forme de cube en effectuant une action unique pour prononcer un ordre verbal qui a le trait audible. Une fois désactivée, il faut attendre quatre heures avant de pouvoir la réactiver. </p>\n<p>Si la forteresse est endommagée, seuls un sort recréer ou un individu légendaire en Artisanat peuvent la réparer.</p>"
+        },
+        {
             "id": "Giant Centipede Venom",
             "name": "Venin de mille-pattes géant",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Le venin de mille-pattes géant cause une forte raideur dans les muscles.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Jet de sauvegarde</strong> Vigueur DD 17; <strong>Durée maximum</strong> 6 rounds; <strong>Stade 1</strong> 1d6 dégâts de poison (1 round); <strong>Stade&nbsp;2</strong> 1d8 dégâts de poison et pris au dépourvu (1 round); <strong>Stade 3</strong> 1d12 dégâts de poison, maladroit 1 et pris au dépourvu (1 round)<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activate</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> Interact</span></p>"
@@ -2873,8 +2893,8 @@
         },
         {
             "id": "Eagle Eye Elixir (Moderate)",
-            "name": "Elixir d'oeil de faucon (modéré)",
-            "description": "Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet aux tests de Perception. Il est plus important si vous tentez de repérer une porte ou une trappe secrètes. Le bonus est de +2 ou de +3 pour trouver une porte ou une trappe secrètes."
+            "name": "Élixir d'œil de faucon (modéré)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p>Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtils. Pendant l’heure qui suit, vous gagnez un bonus d’objet de +2 aux tests de Perception. Il est de +3 si vous tentez de repérer une porte secrète et des pièges.</p>\n<p>@Compendium[pf2e.spell-effects.Wa4317cqU4lJ8vAQ]{Effet : Élixir d'œil du faucon (Modéré)}</p>"
         },
         {
             "id": "Mattock of the Titans",
@@ -2988,8 +3008,8 @@
         },
         {
             "id": "Elixir of Life (Lesser)",
-            "name": "Élixir de vie",
-            "description": "L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez le nombre de points de vie indiqué et gagnez un bonus d’objet aux jets de sauvegarde contre la maladie et le poison pendant 10 min. L’élixir restaure 1d6 points de vie, le bonus est de +1."
+            "name": "Élixir de vie (Inférieur)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p>L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez [[/r 3d6+6]] points de vie et gagnez un bonus d’objet de +1 aux jets de sauvegarde contre la maladie et le poison pendant 10 minutes.</p>\n<p>@Compendium[pf2e.spell-effects.EpB7yJPEuG6ez4z3]{Effect: Elixir of Life (Lesser)}</p>"
         },
         {
             "id": "Phasing ether silk tapestry",
@@ -3172,6 +3192,11 @@
             "description": "<p>Ces couvre‑chefs existent sous de nombreuses formes : ça peut être un turban de couleur ou un chapeau pointu à large bord, sur lesquels sont inscrits des symboles ou des runes. Il vous confère un bonus d’objet de +1 aux tests d’Arcanes et vous permet de lancer le tour de magie prestidigitation comme un sort inné arcanique.</p>"
         },
         {
+            "id": "Glamorous Buckler",
+            "name": "Targe étincelante",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">F</span> Imaginer</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous feintez</p>\n<p><strong>Condition</strong> Vous avez levé votre targe étincelante</p>\n<p><strong>Effet</strong> Lorsque vous feintez, la targe étincelante scintille puissamment. En cas de succès de la Feinte, la cible est éblouie pendant 1 round.</p>\n<hr>\n<p>Une targe étincelante (Solidité 3, PV 6, SR 3) est richement décorée avec des dorures et des pierres précieuses serties qui brillent dans la lumière. Lorsque vous l'avez levée, la targe étincelante vous accorde un bonus d'objet de +1 aux tests de Duperie pour Feinter.</p>\n<p>@Compendium[pf2e.spell-effects.iEkH8BKLMUa2wxLX]{Effet: Targe étincelante}</p>\n<hr />\n<hr />\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">6</td>\n<td style=\"height: 17px; width: 116px;\">3</td>\n</tr>\n</tbody>\n</table>"
+        },
+        {
             "id": "Khopesh",
             "name": "Khopesh",
             "description": "<p><span>Cett épée courbée comme une faucille possède un bout pointu, lui permettant d'êter balancée comme une hache ou pointée comme une épée courte. Le bout pointu d'une khopesh est habituellement crochue de manière à pouvoir désarmer un adversaire de son arme ou de son bouclier.&nbsp;</span></p>"
@@ -3287,6 +3312,11 @@
             "description": "<p><strong>Activation</strong> Lancer un sort</p>\n<p>Un guide archaïque fonctionne comme un compas et peut servir de réceptacle pour un tour de magie lancé sur lui. Pour remplir un guide archaïque, un incantateur doit lancer le tour de magie choisi dans l’outil vide, en payant le prix nécessaire ; le sort ne doit pas pouvoir être lancé en utilisant une action gratuite ou une réaction.</p>\n<p>L’activation d’un guide archaïque fonctionne comme l’incantation du sort concerné. Une fois le sort activé, le guide est à nouveau vide. Un guide archaïque peut contenir une pierre d’éternité et activer son pouvoir de résonance. Un guide archaïque est considéré comme un guide normal en ce qui concerne la limite maximale concernant le nombre de guides et de pierres d’éternité vous offrant leur pouvoir de résonnance.</p>"
         },
         {
+            "id": "Boulderhead Bock",
+            "name": "Bock têtederoc",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p>Personne n'est sûr de savoir si Gorm a brassé cette bière de malt lui-même, mais il semble qu'elle soit une des favories lorsqu'il n'est pas en service du leader de la faction des Grandes Archives. Le brassage packs un fort coup de poing=, et lorsque Gorm décourage officiellement de la boire au travail, le bock têtederoc rend le buveur plus assuré et le protège des conditions qui viendraient altérer leurs ffacultés mentales.</p>\n<p>Pendant 1 heure, vous obtenez un bonus d'objet de +1 aux jets de sauvegarde contre les effets qui vous rendraient Étourdis ou Stupéfiés. Quoi qu'il en soit, vous êtes aussi moins vigilant quant à votre environnement, vous faisant subir une pénalité d'objet de -2 à la Perception pendant 1 heure.</p>\n<p>@Compendium[pf2e.spell-effects.2C1HuKDQDGFZuv7l]{Effet: Bock têtederoc}</p>"
+        },
+        {
             "id": "Disguise Kit (Replacement Cosmetics)",
             "name": "Kit de déguisement (Stock de cosmétiques)",
             "description": "<p><span class=\"fontstyle0\">Lorsque vous avez fabriqué un grand nombre de déguisements à partir d'un Kit de déguisement, vous pouvez reconstituer votre stock de cosmétiques avec des cosmétiques de rechange adapté au type de votre kit de déguisement.</span> </p>"
@@ -3394,7 +3424,7 @@
         {
             "id": "Potion of Flying (Standard)",
             "name": "Potion de vol (standard)",
-            "description": "<p>Une fois que vous avez bu cette décoction effervescente, vous gagnez une Vitesse de vol de 12 m pendant 1 min.</p>"
+            "description": "<p>Une fois que vous avez bu cette décoction effervescente, vous gagnez une Vitesse de vol de 12 m pendant 1 minute.</p>\n<p>@Compendium[pf2e.spell-effects.pBjryBfM3caODg6M]{Effet: Potion de vol}</p>"
         },
         {
             "id": "Ghost Touch",
@@ -3522,14 +3552,19 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette petite fiole contient une poussière gris vert tirée d’un ectoplasme desséché. Lorsque vous l’activez, elle lance invisibilité sur vous au ni‑ veau 4. Cela se produit avant que vous ne vous déplaciez lors de l’action déclencheur.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong>Déclencheur</strong> Vous utilisez une action avec le trait déplacement ;  <strong>Conditions</strong> Vous êtes légendaire en Discrétion.</span></p>"
         },
         {
+            "id": "Explorer's Yurt",
+            "name": "Yourte d'explorateur",
+            "description": "<p>Avant activation, cet objet ressemble à une simple tente pliée, à peine assez grande pour abriter quatre créatures de taille Moyenne. Malgré les tentatives pour la nettoyer, la tente est toujours maculée de boue à divers endroits.</p> \n<p><strong>Activation</strong> (10 min) Interagir</p>\n<p><strong> Fréquence</strong> 1/jour</p>\n<p><strong>Effet</strong>La tente pliée se déploie pour former une yourte spacieuse abritant une fosse à feu, dix sacs de couchage, divers ustensiles de cuisine, de l’eau et de la nourriture simple.</p>\n<p>Vous pouvez vous abriter et vous nourrir dans la yourte, ainsi qu’un maximum de neuf autres créatures de taille Moyenne qui mangent à peu près autant qu’un humain ; elles n’ont pas besoin de faire un test de Survie pour Subsister quand vous utilisez la yourte. Les feux et les lumières dans la yourte n’illuminent pas les alentours extérieures de la structure et il est donc difficile de la repérer au loin.</p>\n<p>Une grande boucle de tissu rouge est accrochée à une paroi. Si on tire sur cette boucle, ce qui nécessite une action Interagir, l’ensemble\nde la yourte se replie immédiatement pour reprendre sa forme désactivée, prête à être transportée.</p>"
+        },
+        {
             "id": "Jeweled gold puzzle box",
             "name": "Boîte de puzzle en or ornée de gemmes",
             "description": ""
         },
         {
             "id": "Cognitive Mutagen (Lesser)",
-            "name": "Mutagène cognitif",
-            "description": "Votre esprit devient limpide et rien n’entrave vos facultés intellectuelles, mais la matière physique vous semble éphémère. Le bonus est de +1 et la durée de 1 min.\nAvantage. Vous gagnez un bonus d’objet aux tests d’Arcanes, d’Artisanat, de Connaissances, d’Occultisme et de Société, ainsi qu’à tous les tests pour Se souvenir. Vos échecs critiques aux tests de Se souvenir deviennent de simples échecs. \nInconvénient. Vous subissez un malus de −2 aux jets d’attaque avec une arme ou à mains nues, ainsi qu’aux tests d’Athlétisme et d’Acrobaties. Vous êtes surchargé à partir de 2 Encombrements de moins que d’ordinaire et le maximum d’Encombrements que vous pouvez porter est réduit de 4."
+            "name": "Mutagène cognitif (Inférieur)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<hr>\n<p>Votre esprit devient limpide et rien n’entrave vos facultés intellectuelles, mais la matière physique vous semble éphémère.</p>\n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet de +1 aux tests d’Arcanes, d’Artisanat, de Connaissances, d’Occultisme et de Société, ainsi qu’à tous les tests pour Se souvenir. Vos échecs critiques aux tests de Se souvenir deviennent de simples échecs.</p>\n<p><strong>Inconvénient</strong> Vous subissez un malus de −2 aux jets d’attaque avec une arme ou à mains nues, ainsi qu’aux tests d’Athlétisme et d’Acrobaties. Vous êtes surchargé à partir de 2 Encombrements de moins que d’ordinaire et le maximum d’Encombrements que vous pouvez porter est réduit de 4.</p>\n<p><strong>Durée</strong> 1 minute.</p>\n<p>@Compendium[pf2e.spell-effects.jaBMZKdoywOTrQvP]{Effet: Mutagène cognitif (Inférieur)}</p>"
         },
         {
             "id": "Agate",
@@ -3714,7 +3749,7 @@
         {
             "id": "Antiplague (Lesser)",
             "name": "Antimaladie (Inférieur)",
-            "description": "<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">Une</span> Interaction</p>\n<p>L’antimaladie renforce les défenses du corps contre les maladies. Lorsque vous le buvez, vous recevez un bonus d’objet de +2 aux jets de Vigueur contre les maladies pendant 24 h. Cela s’applique aussi à vos jets de sauvegarde contre la progression d’une maladie.</span></p>\n<p>@Compendium[pf2e.spell-effects.kkDbalYEavzRpYlp]{Effet : Antimaladie (Inférieur)}</p>"
+            "description": "<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<p>L’antimaladie renforce les défenses du corps contre les maladies. Lorsque vous le buvez, vous recevez un bonus d’objet de +2 aux jets de Vigueur contre les maladies pendant 24 h. Cela s’applique aussi à vos jets de sauvegarde contre la progression d’une maladie.</span></p>\n<p>@Compendium[pf2e.spell-effects.kkDbalYEavzRpYlp]{Effet : Antimaladie (Inférieur)}</p>"
         },
         {
             "id": "Saddlebags",
@@ -3769,7 +3804,7 @@
         {
             "id": "Elixir of Life (Minor)",
             "name": "Elixir de vie (mineur)",
-            "description": "L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez le nombre de points de vie indiqué et gagnez un bonus d’objet aux jets de sauvegarde contre la maladie et le poison pendant 10 min. L’élixir restaure 1d6 points de vie, le bonus est de +1."
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p>L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez [[/r 1d6]] points de vie et gagnez un bonus d’objet de +1 aux jets de sauvegarde contre la maladie et le poison pendant 10 minutes.</p>\n<p>@Compendium[pf2e.spell-effects.EpB7yJPEuG6ez4z3]{Effet: Élixir de vie (Mineur)}</p>"
         },
         {
             "id": "Claw Blade",
@@ -4118,8 +4153,8 @@
         },
         {
             "id": "Cheetah's Elixir (Lesser)",
-            "name": "Elixir du guépard (inférieur)",
-            "description": "Les composés enzymatiques de cet élixir renforcent et excitent les muscles de vos jambes. Le bonus est de +1,5 m et la durée de 1 min."
+            "name": "Elixir du guépard (Inférieur)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p>Les composés enzymatiques de cet élixir renforcent et excitent les muscles de vos jambes. Vous obtenez un bonus de +1,5 m à votre Vitesse pendant 1 minute.</p>\n<p>@Compendium[pf2e.spell-effects.lNWACCNe9RYgaFxb]{Effet: Élixir du guépard (Inférieur)}</p>"
         },
         {
             "id": "Ring of Energy Resistance",
@@ -4223,8 +4258,8 @@
         },
         {
             "id": "Darkvision Elixir (Moderate)",
-            "name": "Elixir de vision dans le noir (modéré)",
-            "description": "Une fois que vous avez bu cet élixir, votre vue devient plus perçante dans les ténèbres. Vous gagnez vision dans le noir pour la durée indiquée.La durée est de 1 h."
+            "name": "Élixir de vision dans le noir (modéré)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<p>Une fois que vous avez bu cet élixir, votre vue devient plus perçante dans les ténèbres. Vous gagnez Vision dans le noir pendant 1 heure.</p>\n<p>@Compendium[pf2e.spell-effects.a3hqeAXpmMZgMWuB]{Effet: Élixir de Vision dans le noir}</p>"
         },
         {
             "id": "Zircon",
@@ -4248,8 +4283,8 @@
         },
         {
             "id": "Bravo's Brew (Lesser)",
-            "name": "Breuvage de bravoure (inférieur)",
-            "description": "Cette flasque de bière mousseuse redonne du courage. Pendant une heure après l’avoir bue, vous gagnez un bonus d’objet aux jet de Volonté, plus important lors de jets de Volonté contre la terreur.Le bonus aux jets de Volonté est de +1 ou +2 contre la terreur."
+            "name": "Breuvage de bravoure (Inférieur)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p>Cette flasque de bière mousseuse redonne du courage.</p>\n<p>Pendant une heure après l’avoir bue, vous gagnez un bonus d’objet de +1 aux jets de Volonté, et de +2 lors de jets de Volonté contre la terreur.</p>\n<p>@Compendium[pf2e.spell-effects.eh7EqmDBDW30ShCu]{Effet: Breuvage de bravoure (Inférieur)}</p>"
         },
         {
             "id": "Alchemist's Lab (Expanded)",
@@ -4369,7 +4404,7 @@
         {
             "id": "Eagle Eye Elixir (Greater)",
             "name": "Elixir d'oeil de faucon (supérieur)",
-            "description": "Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtiles. Pendant l’heure qui suit, vous gagnez un bonus d’objet aux tests de Perception. Il est plus important si vous tentez de repérer une porte ou une trappe secrètes. Le bonus est de +3 ou de +4 pour trouver une porte ou une trappe secrètes"
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p>Une fois que vous avez bu cet élixir, vous remarquez des détails visuels subtils. Pendant l’heure qui suit, vous gagnez un bonus d’objet de +3 aux tests de Perception. Il est de +4 si vous tentez de repérer une porte secrète ou des pièges.</p>\n<p>@Compendium[pf2e.spell-effects.kgotU0sFmtAHYySB]{Effet: Élixir d'œil du faucon (Supérieur)}</p>"
         },
         {
             "id": "Hat of Disguise (Greater)",
@@ -4439,7 +4474,7 @@
         {
             "id": "Bronze Bull Pendant",
             "name": "Pendentif de taureau de bronze",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce pendentif est forgé dans un acier granuleux et représente une tête de taureau renâclant. Il faut le fixer sur l’armure sur la zone du torse ou sur une épaulière. Lorsque vous activez ce pendentif, vous gagnez un bonus de statut de +2 aux tests d’Athlétisme pour Pousser et, si vous obtenez un échec critique au test, il est remplacé par un simple échec.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/FreeAction.png\" alt=\"Free Action\"> imaginer; <strong> Déclencheur</strong> Vous tentez un test d’Athlé‑ tisme pour Pousser, mais n’avez pas encore lancé le dé ; <strong> Conditions</strong> Vous êtes qualifié en Athlétisme. </span></p>"
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">F</span> Imaginer</p>\n<p><strong>Déclencheur</strong> Vous faites un test d'Athltisme pour Pousser, mais vous n'avez pas encore lancé les dés</p>\n<p><strong>Conditions</strong> Vous êtes qualifié en Athlétisme</p>\n<hr>\n<p>Ce pendentif est forgé dans un acier granuleux et représente une tête de taureau renâclant. Il faut le fixer sur l’armure sur la zone du torse ou sur une épaulière. Lorsque vous activez ce pendentif, vous gagnez un bonus de statut de +2 aux tests d’Athlétisme pour Pousser et, si vous obtenez un échec critique au test, il est remplacé par un simple échec.</p>\n<p>@Compendium[pf2e.spell-effects.Cxa7MdgMCUoMqbKm]{Effet : Pendentif de taureau de bronze}</p>"
         },
         {
             "id": "Diadem of Intellect",
@@ -4480,6 +4515,11 @@
             "id": "Spike Snare",
             "name": "Piège artisanal à pointes",
             "description": "<p>Ce piège artisanal simple se compose de pointes dissi‑ mulées qui exploitent l’élan d’une créature qui entre dans la case pour la lacérer et potentiellement l’empaler en lui infligeant 2d8 dégâts perforants. La créature doit faire un jet de Réflexes basique DD 17.&nbsp;&nbsp;</p>"
+        },
+        {
+            "id": "Bloodhound Mask (Lesser)",
+            "name": "Masque du limier (Inférieur)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">1</span> Interagir</p>\n<p><strong>Durée</strong> 10 minutes</p>\n<p>Ce large masque à usage unique est conçu pour être glissé sur votre bouche et votre nez et son filtre alchimique activé, le tout avec une seule main. Une fois activé, le masque accentue les odeurs, vous donnant un odorat imprécis avec une portée de 4,5 m. Vous ne pouvez porter un autre masque tant que vous portez un masque du limier.</p>\n<p>Lorsque vous utilisez Survie pour @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Pister} une créature à l'aide de son odeur, votre bonus de maîtrise est égal à votre niveau même si vous êtes inexpérimenté et le masque vous fait bénéficier d'un bonus d'objet de +1 à votre test de Survie. Le MJ fixe le DD de  Survie en fonction de la capacité de la zone à retenir les odeurs plutôt que les indices visibles, comme d'ordinaire en utilisant odorat.</p>\n<p>@Compendium[pf2e.spell-effects.S4MZzALqFoXJsr6o]{Effet: Masque du limier (Inférieur)}</p>"
         },
         {
             "id": "Sturdy Shield (Supreme)",
@@ -4539,7 +4579,7 @@
         {
             "id": "Golden Legion Epaulet",
             "name": "Épaulette de la Légion dorée",
-            "description": "<p>Ces épaulettes dorées étincelantes sont délivrées aux officiers des chevaliers de l’Aigle et font partie de leur uniforme. Même si elle peut être enchantée pour procurer une certaine variété d’effets, l’épaulette de la Légion dorée demeure la plus commune</p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> (sur ordre)</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Effet</strong> Vous, et tout allié à moins de 18 m qui suit l’ordre, gagnez un bonus de statut de +1 à vos jets d’attaque,\nvos jets de dégâts et vos jets de sauvegarde contre la peur jusqu’au début de votre prochain tour.</p>"
+            "description": "<p>Ces épaulettes dorées étincelantes sont remises aux officiers des chevaliers de l’Aigle et font partie de leur uniforme. Même si elle peut être enchantée pour procurer une certaine variété d’effets, l’épaulette de la Légion dorée demeure la plus commune</p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> (sur ordre)</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Effet</strong> Vous, et tout allié à moins de 18 m qui suit l’ordre, gagnez un bonus de statut de +1 à vos jets d’attaque,\nvos jets de dégâts et vos jets de sauvegarde contre la peur jusqu’au début de votre prochain tour.</p>\n<p>@Compendium[pf2e.spell-effects.bP40jr6wE6MCsRvY]{Effet: Épaulette de la Légion dorée}</p>"
         },
         {
             "id": "Crying Angel Pendant",
@@ -4793,8 +4833,8 @@
         },
         {
             "id": "Bloodeye Coffee",
-            "name": "Café oeil-sanglant",
-            "description": "<p>Mélange puissant incluant plusieurs épices répandues dans l’empire padishah du Kélesh, le café œil-sanglant est la boisson matinale favorite des habitants de la mer Intérieure. Le stade d’addiction maximum de ce breuvage ne progresse jamais au-delà du stade 1.</p>\n<hr>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir(Ingéré)</p>\n<p><strong>Jet de sauvegarde</strong> Vigueur DD 14</p>\n<p><strong>Délai</strong> 10 minutes</p>\n<p><strong>Durée maximale</strong> 8 hours</p>\n<p><strong>Stade 1</strong> 1 bonus d’objet de +1 à la CA et aux jets de sauvegarde pour lesquels vous avez des malus à cause de l’état fatigué (10 min) ; @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} </p>\n<p><strong>Stade 2</strong> Stupéfié 1 (1 heure)@Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied} 1</p>\n<p><strong>Stade 3</strong> vous ne pouvez récupérer de l’état fatigué (1 jour après quoi l’effet de la drogue s’estompe)</p>\n<p></p>"
+            "name": "Café œil-sanglant",
+            "description": "<p>Mélange puissant incluant plusieurs épices répandues dans l’empire padishah du Kélesh, le café œil-sanglant est la boisson matinale favorite des habitants de la mer Intérieure. Le stade d’addiction maximum de ce breuvage ne progresse jamais au-delà du stade 1.</p>\n<hr>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir(Ingéré)</p>\n<p><strong>Jet de sauvegarde</strong> Vigueur DD 14</p>\n<p><strong>Délai</strong> 10 minutes</p>\n<p><strong>Durée maximale</strong> 8 heures</p>\n<p><strong>Stade 1</strong> 1 bonus d’objet de +1 à la CA et aux jets de sauvegarde pour lesquels vous avez des malus à cause de l’état @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} (10 minutes) </p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefié} 1 (1 heure)</p>\n<p><strong>Stade 3</strong> vous ne pouvez récupérer de l’état Fatigué (1 jour après quoi l’effet de la drogue s’estompe)</p>\n<p></p>"
         },
         {
             "id": "Elemental Gem",
@@ -4859,7 +4899,7 @@
         {
             "id": "Juggernaut Mutagen (Lesser)",
             "name": "Mutagène de Juggernaut (inférieur)",
-            "description": "Après avoir bu ce mutagène, votre corps devient plus imposant et robuste. Vous rayonnez de santé, mais vous devenez lourdaud et peu observateur. Le bonus est de +1, vous gagnez 5 points de vie temporaires et la durée est de 1 min."
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<hr>\n<p>Après avoir bu ce mutagène, votre corps devient plus imposant et robuste. Vous rayonnez de santé, mais vous devenez lourdaud et peu observateur. Le bonus est de +1, vous gagnez 5 points de vie temporaires et la durée est de 1 minute.</p>\n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet aux jets de Vigueur ainsi que le nombre de points de vie temporaires indiqué. Lorsque vous possédez votre maximum de points de vie depuis 1 minute complète, vous récupérez les points de vie temporaires.\n<p><strong>Inconvénient</strong> Vous subissez un malus de −2 aux jets de Volonté et d’initiative et aux tests de Perception. \n<p><strong>Durée</strong> 1 minute.</p>\n<p>@Compendium[pf2e.spell-effects.1l139A2Qik4lBHKO]{Effet: Mutagène de Juggernaut (Inférieur)}</p>"
         },
         {
             "id": "Cheetah's Elixir (Moderate)",
@@ -4947,6 +4987,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette chevalière en argent change pour montrer l’insigne du seigneur ou de l’organisation que vous servez (ou votre propre visage si vous n’êtes au service de personne). Il vous confère un bonus d’objet de +2 aux tests de Diplomatie et vous permet de lancer message à volonté, comme un sort inné arcanique. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> 1 minute (imaginer); <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> L’anneau lance messager animal selon vos instructions. L’animal est une créature magique qui surgit hors de l’anneau et son apparence correspond à l’iconographie ou l’héraldique du seigneur ou de l’organisation représenté sur l’anneau. </span></p>"
         },
         {
+            "id": "Drakeheart Mutagen (Lesser)",
+            "name": "Mutagène de cœur de drake (Inférieur)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<hr>\n<p>Votre peau se couvre d'écailles comme un drake, votre vision s'aiguise alors que vos pupilles sont fendues et vos membres deviennent secs et rapides, mais votre esprit et vos réflexes deviennent lents.</p>\n<p><strong>Avantage</strong> Vous obtenez un bonus d'objet de +4 à la CA, un maximum de Dextérité de +2 (comme d'habitude, vous utilisez votre plus faible maximum de Dextérité si vous en avez plus d'un) et un bonus d'objet de +1 aux tests de Perception. Si vous portez une armure, vous calculez toujours votre bonus de maîtrise à la CA en fonction de votre degré de maîtrise dans l'armure que vous portez, même si le mutagène de cœur de drake possède un bonus d'objet supérieur. Vous obtenez aussi l'action @Compendium[pf2e.actionspf2e.EHa0owz6mccnmSBf]{Impulsion finale}.</p>\n<p><strong>Inconvénient</strong> Vous subissez une pénalité de -1 aux jets de Volonté, aux jets de Réflexes et à tous les tests pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Vous souvenir}.</p>\n<p><strong>Durée</strong> 1 minute ou jusqu'à ce que vous utilisiez Impulsion finale, selon ce qui se produit en premier.</p>\n<p>@Compendium[pf2e.spell-effects.GBBjw61g4ekJymT0]{Effet: Mutagène de cœur de drake (Inférieur)}</p>"
+        },
+        {
             "id": "Gold rapier with amethysts",
             "name": "rapière en or avec des améthystes",
             "description": ""
@@ -5027,6 +5072,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Chacune de ces statuettes fait 2,5 cm de haut. Elles sont sculptées dans des matériaux spécifiques et repré‑ sentent des animaux.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> sur ordre, Interagir <strong>Effet</strong> YVous activez une figurine en la posant sur une surface solide et en prononçant son nom. Elle se transforme alors en une ou plusieurs créa‑ tures. Sous forme de créature, la figurine adopte le trait sbire. Elle comprend votre langue et fait de son mieux pour vous obéir lorsque vous utilisez une action pour lui donner un ordre. Les par‑ ticularités de chaque créature et la fréquence d’activation de chaque statuette (le cas échéant) figurent dans son entrée.<br></span></p>\n<p>Si la figurine est tuée sous forme animale, elle redevient une statue et ne peut plus s’activer avant une semaine. Si elle est détruite sous forme de statue, elle vole en éclats et sa magie disparaît</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette statuette représente un couple de lions dorés. Activée, elle se change en deux lions adultes (Bestiaire Pathfinder p. 52). Vous pou‑ vez appeler les lions une seule fois par jour et ils restent sous forme animale 1 h au maximum. Si l’un des lions se fait tuer, il ne peut plus être convoqué avant qu’une semaine se soit écoulé, mais cela ne vous empêche pas d’appeler l’autre.  &nbsp;</span></p>"
         },
         {
+            "id": "Dueling Cape",
+            "name": "Cape de duel",
+            "description": "<p>Vous pouvez tirer une cape de duel que vous portez de votre épaule et l'enrouler autour de votre bras avec une action @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interagir}.</p>\n<p>Lorsque vous maniez la cape de duel de cette manière, la cape utilise ce bras et cette main et vous ne pouvez rien tenir d'autre dans cette main.</p>\n<p>Lorsque vous le faites, vous pouvez dépenser une action pour la mettre dans une position protectrice, vous donnant un bonus de circonstance de +1 à la CA et aux tests de Duperie pour @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter} jusqu'au début de votre prochain tour.</p>\n<p>@Compendium[pf2e.spell-effects.7dLsA9PAb5ij7Bc6]{Effet: Cape de duel}</p>"
+        },
+        {
             "id": "Ghost Charge (Moderate)",
             "name": "Charge fantôme (modérée)",
             "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\"></span>&nbsp;Attaquer</p>\n<hr>\n<p>Ces boîtes métalliques à ressort contiennent un mélange de produits chimiques et de sels qui drainent et désintègrent les créatures mortes-vivantes à proximité. Une charge fantôme occasionne des dégâts positifs et des dégâts d'éclaboussures énumérés ci-après, bien que comme d'habitude pour les dégâts positifs, ces dégâts ne nuisent qu'aux morts-vivants et aux créatures à guérison négative. Les charges fantômes sont conçues pour exploser même au contact d'une substance spirituelle, ce qui les rend idéales pour endommager les morts-vivants intangibles. Une cible  qui subit des dégâts d'une charge fantôme devient @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{affaibli} 1 jusqu'au début de votre prochain tour. .</p>\n<p>Vous obtenez un bonus d'objet de +1 à votre jet d'attaque.</p>\n<p>La bombe occasionne 2d8 dégâts et 2 point de dégât d'éclaboussure positive et la cible est affaiblie 1 jusqu'au début de votre prochain tour. </p>"
@@ -5039,7 +5089,7 @@
         {
             "id": "Silvertongue Mutagen (Lesser)",
             "name": "Mutagène de langue dorée (inférieur)",
-            "description": "Vos traits deviennent séduisants et votre voix musicale et autoritaire, en revanche, les faits et les chiffres deviennent flous et l’émotion obscurcit votre raisonnement. Le bonus est de +1 et la durée de 1 min.\nAvantage. Vous gagnez un bonus d’objet aux tests de Duperie, Diplomatie, Intimidation et Représentation. Vos échecs critiques dans ces compétences deviennent de simples échecs. \nInconvénient. Vous subissez un malus de −2 aux tests d’Arcanes, Artisanat, Connaissances, Occultisme et Société. Choisissez une compétence dans laquelle vous êtes qualifié : pendant toute la durée, vous devenez inexpérimenté. Tous vos échecs aux tests de Se souvenir deviennent des échecs critiques."
+            "description": "<p><strong>Activate</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interact</p>\n<hr>\n<p>Vos traits deviennent séduisants et votre voix musicale et autoritaire, en revanche, les faits et les chiffres deviennent flous et l’émotion obscurcit votre raisonnement. </p>\n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet de +1 aux tests de Duperie, Diplomatie, Intimidation et Représentation. Vos échecs critiques dans ces compétences deviennent de simples échecs.</p>\n<p><strong>Inconvénients</strong> Vous subissez un malus de −2 aux tests d’Arcanes, Artisanat, Connaissances, Occultisme et Société. Choisissez une compétence dans laquelle vous êtes qualifié : pendant toute la durée, vous devenez inexpérimenté. Tous vos échecs aux tests de @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir} deviennent des échecs critiques.</p>\n<p><strong>Durée</strong> 1 minute.</p>\n<p>@Compendium[pf2e.spell-effects.dpIrjd1UPY7EnWUD]{Effect: Silvertongue Mutagen (Lesser)}</p>"
         },
         {
             "id": "Thieves' Tools (Infiltrator)",
@@ -5089,7 +5139,7 @@
         {
             "id": "Crystal Shards (Moderate)",
             "name": "Éclats de  cristal (modéré)",
-            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Frappe</p>\n<hr>\n<p>Cette bouteille contient un gaz rouge-brun sous pression parsemé de morceaux de cristal sublimé. Vous gagnez le bonus d'objet listé pour les jets d'attaque. Lorsque la bombe explose, la cible subit les dégâts perforants et d'éclaboussure énumérés ci-après, car le mélange se transforme soudainement en cristaux solides volant à grande vitesse.</p>\n<p>Les surfaces dans la zone d'éclaboussure deviennent fragiles, des cristaux rouges luisants s'éffritant en poussière après 1 minute. Les cristaux sur les surfaces planes agissent alors comme des <a class=\"entity-link\" data-pack=\"pf2e.equipment-srd\" data-id=\"7fSnvJ2xoSfa6JXD\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> chausse-trappes</a> (Core Rulebook 287). Les cristaux sur les surfaces verticales peuvent être utilisés brièvement comme poignées, ce qui permet d'accorder le bonus de l'article énuméré au prochain test d'athlétisme pour <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"pprgrYQ1QnIDGZiy\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Escalader</a> chaque espace. Les cristaux de chaque case s'effritent après le départ de la créature, qu'elle soit en train d'Escalader ou de se déplacer dans les chausse-trappes.</p>\n<p>Le bonus d'objet est de +1. La bombe inflige 2d4 dégâts perforants et 4 points de dégâts d'éclaboussure perforants.</p>"
+            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Frappe</p>\n<hr>\n<p>Cette bouteille contient un gaz rouge-brun sous pression parsemé de morceaux de cristal sublimé. Vous gagnez le bonus d'objet listé pour les jets d'attaque. Lorsque la bombe explose, la cible subit les dégâts perforants et d'éclaboussure énumérés ci-après, car le mélange se transforme soudainement en cristaux solides volant à grande vitesse.</p>\n<p>Les surfaces dans la zone d'éclaboussure deviennent fragiles, des cristaux rouges luisants s'éffritant en poussière après 1 minute. Les cristaux sur les surfaces planes agissent alors comme des @Compendium[pf2e.equipment-srd.7fSnvJ2xoSfa6JXD]{chausse-trappes} (Livre de Base 287). Les cristaux sur les surfaces verticales peuvent être utilisés brièvement comme poignées, ce qui permet d'accorder le bonus de l'article énuméré au prochain test d'athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader} chaque espace. Les cristaux de chaque case s'effritent après le départ de la créature, qu'elle soit en train d'Escalader ou de se déplacer dans les chausse-trappes.</p>\n<p>Le bonus d'objet est de +1. La bombe inflige 2d4 dégâts perforants et 4 points de dégâts d'éclaboussure perforants.</p>"
         },
         {
             "id": "Chandelier crafted from dreams",
@@ -5153,8 +5203,8 @@
         },
         {
             "id": "Potion of Swimming (Greater)",
-            "name": "Potion de nage (supérieur)",
-            "description": "<p>Un dépôt sablonneux occupe le fond de cette fiole de potion au goût d’eau de mer. Lorsque vous la buvez, vous bénéficiez d’une Vitesse de nage égale à votre Vitesse au sol pendant 1 heure.</p>"
+            "name": "Potion de nage (Supérieure)",
+            "description": "<p>Un dépôt sablonneux occupe le fond de cette fiole de potion au goût d’eau de mer. Lorsque vous la buvez, vous bénéficiez d’une Vitesse de nage égale à votre Vitesse au sol pendant 1 heure.</p>\n<p>@Compendium[pf2e.spell-effects.tjrdYJLPoGdFZlNl]{Effet: Potion de nage}</p>"
         },
         {
             "id": "Shell",
@@ -5458,8 +5508,8 @@
         },
         {
             "id": "Darkvision Elixir (Lesser)",
-            "name": "Elixir de vision dans le noir (mineure)",
-            "description": "Une fois que vous avez bu cet élixir, votre vue devient plus perçante dans les ténèbres. Vous gagnez vision dans le noir pour la durée indiquée. La durée est de 10 min."
+            "name": "Élixir de vision dans le noir (mineure)",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<p>Une fois que vous avez bu cet élixir, votre vue devient plus perçante dans les ténèbres. Vous gagnez Vision dans le noir pendant 10 minutes.</p>\n<p>@Compendium[pf2e.spell-effects.a3hqeAXpmMZgMWuB]{Effet: Élixir de Vision dans le noir}</p>"
         },
         {
             "id": "Potion of Undetectability",
@@ -5508,8 +5558,8 @@
         },
         {
             "id": "Potion of Swimming (Moderate)",
-            "name": "Potion de nage (modéré)",
-            "description": "<p>Un dépôt sablonneux occupe le fond de cette fiole de potion au goût d’eau de mer. Lorsque vous la buvez, vous bénéficiez d’une Vitesse de nage égale à votre Vitesse au sol pendant 10 min. </p>"
+            "name": "Potion de nage (modérée)",
+            "description": "<p>Un dépôt sablonneux occupe le fond de cette fiole de potion au goût d’eau de mer. Lorsque vous la buvez, vous bénéficiez d’une Vitesse de nage égale à votre Vitesse au sol pendant 10 minutes.</p>\n<p>@Compendium[pf2e.spell-effects.tjrdYJLPoGdFZlNl]{Effet: Potion de nage}</p>"
         },
         {
             "id": "Spined Shield",
@@ -5689,7 +5739,7 @@
         {
             "id": "Peshpine Grenade (Major)",
             "name": "Grenade d'épines de pesh (majeure)",
-            "description": "<p><span>Les grenades d'épines de pesh sont des bombes explosives enveloppées d'aiguilles traitées alchimiquement à partir de cactus de pesh. Une grenade d'épines de pesh inflige les dégâts perforants indiqués et des dégâts d'éclaboussure. Si elle atteint sa cible, cette dernière obtient la condition @Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]{stupefiée} jusqu'à la fin de son prochain tour.<br></span></p>\n<p><span>Certains types de grenade d'épines de pesh confèrent un bonus au jet d'attaque.<br></span></p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Frappe</span></p>\n<p>Vous gagnez un bonus de +3 au jet d'attaque. La bombe inflige 4d6 dégâts perforants et 4 dégâts perforants d'éclaboussure et la cible est stupéfiée 3.</p>"
+            "description": "<p><span>Les grenades d'épines de pesh sont des bombes explosives enveloppées d'aiguilles traitées alchimiquement à partir de cactus de pesh. Une grenade d'épines de pesh inflige les dégâts perforants indiqués et des dégâts d'éclaboussure. Si elle atteint sa cible, cette dernière obtient la condition @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{stupefiée} jusqu'à la fin de son prochain tour.<br></span></p>\n<p><span>Certains types de grenade d'épines de pesh confèrent un bonus au jet d'attaque.<br></span></p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Frappe</span></p>\n<p>Vous gagnez un bonus de +3 au jet d'attaque. La bombe inflige 4d6 dégâts perforants et 4 dégâts perforants d'éclaboussure et la cible est stupéfiée 3.</p>"
         },
         {
             "id": "Darkwood Tower Shield (Standard-Grade)",
@@ -5705,6 +5755,11 @@
             "id": "Exquisite Sword Cane",
             "name": "Canne épée raffinée",
             "description": "<p>Une canne épée raffinée est une épée dont la lame se range à l'intérieur d'une canne évidée, ce qui permet à cette dernière d'être utilisée comme une trique avec ou sans l'épée rangée à l'intérieur.</p>"
+        },
+        {
+            "id": "Pocket Stage",
+            "name": "Scène de poche",
+            "description": "<p><span>L’objet ressemble à la réplique miniature d’un théâtre. Il est doté d’une petite poche pleine de minuscules éléments de décor et de poupées de papier costumées.</span></p>\n<p><span><strong>Activation (1 min)</strong> sur ordre, imaginer, Interagir ; <strong>Effet</strong> Vous placez le théâtre miniature sur le sol, en le préparant avec le décor et jusqu’à six figurines de votre choix. Vous tapotez ensuite sur la miniature en rythme, ce qui provoque sa transformation en une modeste scène de 6 m de long et 4,50 m de large. Elle est décorée avec les éléments que vous avez sélectionnés et de simples mannequins portent les costumes que vous avez choisis. Un proscenium de bois entoure la scène et de simples rideaux sur les côtés dissimulent les coulisses. En tant que structure magique, la scène a le trait structure. Tous les éléments de décor de la scène sont illusoires et disparaissent si on les éloigne de plus de 6 m de la scène.<br /></span></p>\n<p><span>Les costumes sont physiques mais avec des embellissements illusoires qui disparaissent dans les mêmes conditions pour révéler de simples blouses blanches.</span></p>"
         },
         {
             "id": "Animal Staff (Major)",

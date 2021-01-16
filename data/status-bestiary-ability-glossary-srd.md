@@ -1,20 +1,20 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
- * **changé**: 31
- * **officielle**: 10
+ * **officielle**: 13
+ * **changé**: 28
  * **libre**: 1
 
 
-Dernière mise à jour: 2021-01-09 19:14 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-16 10:29 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[2YRDYVnC1eljaXKK.htm](bestiary-ability-glossary-srd/2YRDYVnC1eljaXKK.htm)|At-Will Spells|Sorts à volonté|changé|
-|[3JOi2cMcGhT3eze1.htm](bestiary-ability-glossary-srd/3JOi2cMcGhT3eze1.htm)|Rend|Éventration|changé|
-|[52CdldlWMiVTZk1F.htm](bestiary-ability-glossary-srd/52CdldlWMiVTZk1F.htm)|Coven|Cercle|changé|
+|[2YRDYVnC1eljaXKK.htm](bestiary-ability-glossary-srd/2YRDYVnC1eljaXKK.htm)|At-Will Spells|Sorts à volonté|officielle|
+|[3JOi2cMcGhT3eze1.htm](bestiary-ability-glossary-srd/3JOi2cMcGhT3eze1.htm)|Rend|Éventration|officielle|
+|[52CdldlWMiVTZk1F.htm](bestiary-ability-glossary-srd/52CdldlWMiVTZk1F.htm)|Coven|Cercle|officielle|
 |[6l7e7CHQLESlI57U.htm](bestiary-ability-glossary-srd/6l7e7CHQLESlI57U.htm)|Improved Push|Bousculade améliorée|officielle|
 |[9qV49KjZujZnSp6w.htm](bestiary-ability-glossary-srd/9qV49KjZujZnSp6w.htm)|All-Around Vision|Vision à 360°|changé|
 |[a0tx6exmB9v9CUsj.htm](bestiary-ability-glossary-srd/a0tx6exmB9v9CUsj.htm)|Throw Rock|Projection de rochers|officielle|

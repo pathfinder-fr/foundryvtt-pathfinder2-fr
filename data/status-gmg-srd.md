@@ -1,10 +1,11 @@
 # État de la traduction (gmg-srd)
 
- * **officielle**: 38
- * **aucune**: 60
+ * **officielle**: 39
+ * **aucune**: 58
+ * **changé**: 1
 
 
-Dernière mise à jour: 2021-01-09 19:14 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-16 10:29 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -49,12 +50,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HkMzwjBTGgQgsOCW.htm](gmg-srd/HkMzwjBTGgQgsOCW.htm)|Cosmopolitan City|
 |[iA9QWuYATBPB6thI.htm](gmg-srd/iA9QWuYATBPB6thI.htm)|Knight|
 |[idZxjeEv8B3x44r1.htm](gmg-srd/idZxjeEv8B3x44r1.htm)|Captured by Giants|
-|[IJ3nFDu2YcoP6ynd.htm](gmg-srd/IJ3nFDu2YcoP6ynd.htm)|Throne|
 |[Ip6kSKGhl3XHQZ93.htm](gmg-srd/Ip6kSKGhl3XHQZ93.htm)|Robbed|
 |[j9kx5CzfulaFTMOE.htm](gmg-srd/j9kx5CzfulaFTMOE.htm)|Academy Trained|
 |[JHQI2skcksaLMPqA.htm](gmg-srd/JHQI2skcksaLMPqA.htm)|Kindly Witch|
 |[jtgfTYpcv4FFpWsL.htm](gmg-srd/jtgfTYpcv4FFpWsL.htm)|Died|
-|[jVh90bfsC6w6iVyy.htm](gmg-srd/jVh90bfsC6w6iVyy.htm)|Euryale (curse)|
 |[KtkDaTrkBwwupKcE.htm](gmg-srd/KtkDaTrkBwwupKcE.htm)|The Wanderer|
 |[LekxXsOgEwMODqCS.htm](gmg-srd/LekxXsOgEwMODqCS.htm)|Animal Helpers|
 |[llfG8iMTFMzVIF9s.htm](gmg-srd/llfG8iMTFMzVIF9s.htm)|Donjon|
@@ -80,6 +79,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[3Uwfn0ui7tS277iE.htm](gmg-srd/3Uwfn0ui7tS277iE.htm)|Metropolis|Métropole|officielle|
 |[AL562TPAhLCFX62S.htm](gmg-srd/AL562TPAhLCFX62S.htm)|Underground|Sous terre|officielle|
 |[bNmSwKSFk6SWWrlj.htm](gmg-srd/bNmSwKSFk6SWWrlj.htm)|Abandoned in a Distant Land|Abandonné dans un pays lointain|officielle|
+|[IJ3nFDu2YcoP6ynd.htm](gmg-srd/IJ3nFDu2YcoP6ynd.htm)|Throne|Trône|officielle|
+|[jVh90bfsC6w6iVyy.htm](gmg-srd/jVh90bfsC6w6iVyy.htm)|Euryale (curse)|Euryale (malédiction)|officielle|
 |[PVdcBHjBVySBchG1.htm](gmg-srd/PVdcBHjBVySBchG1.htm)|Religious Students|Séminaristes|officielle|
 |[pwn7lPcwqyGNZyOo.htm](gmg-srd/pwn7lPcwqyGNZyOo.htm)|Survived a Disaster|Survivant d'un désastre|officielle|
 |[qFgPiHDBVa3VSNgC.htm](gmg-srd/qFgPiHDBVa3VSNgC.htm)|Gem|Gemme|officielle|
@@ -111,6 +112,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[y4quheEoo2bcmM6g.htm](gmg-srd/y4quheEoo2bcmM6g.htm)|Seeking Accolades|Chercheur d'attention|officielle|
 |[yqCZWcX9e3iwmvSS.htm](gmg-srd/yqCZWcX9e3iwmvSS.htm)|Social Maneuvering|Manipulations sociales|officielle|
 |[YR0uxB5CPPueFjBs.htm](gmg-srd/YR0uxB5CPPueFjBs.htm)|The Relative|Le parent|officielle|
-|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|Vainqueur d'une compétition|officielle|
+|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|Vainqueur d'une compétition|changé|
 |[yZUZDw8TXX1MvZ4P.htm](gmg-srd/yZUZDw8TXX1MvZ4P.htm)|Called Before Judges|Convoqué devant les juges|officielle|
 |[ziWhyyygUG3Lemdu.htm](gmg-srd/ziWhyyygUG3Lemdu.htm)|The Academic|Le professeur|officielle|
