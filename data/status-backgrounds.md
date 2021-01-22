@@ -1,20 +1,13 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 34
+ * **libre**: 35
  * **officielle**: 23
  * **changé**: 136
- * **aucune**: 1
 
 
-Dernière mise à jour: 2021-01-16 10:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-21 20:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[MRXjwr1t5my8LHF8.htm](backgrounds/MRXjwr1t5my8LHF8.htm)|Deckhand|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -128,6 +121,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[LY8vRo3Pyn7FxWNj.htm](backgrounds/LY8vRo3Pyn7FxWNj.htm)|Prisoner|Prisonnier|officielle|
 |[MgMERnqmXRZcXHLH.htm](backgrounds/MgMERnqmXRZcXHLH.htm)|Demon Slayer|Tueur de démons|changé|
 |[mO0VwDSEZJUg3jhf.htm](backgrounds/mO0VwDSEZJUg3jhf.htm)|Insurgent|Insurgé|changé|
+|[MRXjwr1t5my8LHF8.htm](backgrounds/MRXjwr1t5my8LHF8.htm)|Deckhand|Homme de pont|libre|
 |[MWJHfS2bsYTvdroc.htm](backgrounds/MWJHfS2bsYTvdroc.htm)|Bekyar Restorer|Restaurateur Bekyar|changé|
 |[NDhkBcdxy5J8M6Wx.htm](backgrounds/NDhkBcdxy5J8M6Wx.htm)|Taldan Schemer|Intrigant taldorien|changé|
 |[NEM45HOKdrp1PiDX.htm](backgrounds/NEM45HOKdrp1PiDX.htm)|Oenopion Ooze-Tender|Soigneur de vase d'Œnopion|changé|

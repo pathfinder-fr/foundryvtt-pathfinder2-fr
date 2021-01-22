@@ -1,11 +1,11 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 21
- * **changé**: 60
+ * **libre**: 22
+ * **changé**: 59
  * **officielle**: 16
 
 
-Dernière mise à jour: 2021-01-16 10:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-21 20:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -38,7 +38,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-CzOHITB2ihLGqMuJ.htm](ancestryfeatures/feat-01-CzOHITB2ihLGqMuJ.htm)|Runtboss Hobgoblin|Hobgobelin commandant avorton|changé|
 |[feat-01-d0bNxgGqvaCkFlhN.htm](ancestryfeatures/feat-01-d0bNxgGqvaCkFlhN.htm)|Umbral Gnome|Gnome ombral|changé|
 |[feat-01-D3hTAqgwSank8OyO.htm](ancestryfeatures/feat-01-D3hTAqgwSank8OyO.htm)|Fey-Touched Gnome|Gnome béni des fées|officielle|
-|[feat-01-dJeiekfqGQ8dkwsO.htm](ancestryfeatures/feat-01-dJeiekfqGQ8dkwsO.htm)|Wetlander Lizardfolk|Homme-lézard des terres humides|changé|
+|[feat-01-dJeiekfqGQ8dkwsO.htm](ancestryfeatures/feat-01-dJeiekfqGQ8dkwsO.htm)|Wetlander Lizardfolk|Homme-lézard des terres humides|libre|
 |[feat-01-dQqurQys37aJYb26.htm](ancestryfeatures/feat-01-dQqurQys37aJYb26.htm)|Leaf Leshy|Léchi feuillu|libre|
 |[feat-01-DRtaqOHXTRtGRIUT.htm](ancestryfeatures/feat-01-DRtaqOHXTRtGRIUT.htm)|Low-Light Vision|Vision nocturne|changé|
 |[feat-01-dtNsRAhCRfteA1ev.htm](ancestryfeatures/feat-01-dtNsRAhCRfteA1ev.htm)|Blunt Snout|Museau court|libre|
