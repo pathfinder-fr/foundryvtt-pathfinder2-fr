@@ -214,7 +214,7 @@
         {
             "id": "Mutagenic Flashback",
             "name": "Flashback du mutagène",
-            "description": "<p><strong>Fréquence</strong>un par jour</p>\n<hr>\n<p>Vous bénéficiez d’une brève résurgence d’un mutagène. Choisissez‑en un que vous avez consommé depuis vos derniers préparatifs quotidiens. Vous profitez de ses effets pendant 1 minute.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr>\n<p>Vous bénéficiez d’une brève résurgence d’un mutagène. Choisissez‑en un que vous avez consommé depuis vos derniers préparatifs quotidiens. Vous profitez de ses effets pendant 1 minute.</p>"
         },
         {
             "id": "High Jump",
@@ -459,7 +459,7 @@
         {
             "id": "Detect Magic",
             "name": "Détection de la magie",
-            "description": "<p>Vous lancez détection de la magie à intervalles réguliers. Vous vous déplacez de la moitié de votre vitesse de voyage ou plus lentement. Si vous vous déplacez à une vitesse maximale de 90 m par minute, vous n’avez aucun risque de passer accidentellement à côté d’une aura magique sans la repérer. Vous ne devez cependant pas vous déplacer à plus de 45 m par minute si vous voulez être certain de détecter des auras magiques avant que votre groupe ne pénètre dans leur zone d’influence.</p>"
+            "description": "<p>Vous lancez détection de la magie à intervalles réguliers. Vous vous déplacez de la moitié de votre vitesse de voyage ou plus lentement. Si vous vous déplacez à une vitesse maximale de 90 m par minute, vous n’avez aucun risque de passer accidentellement à côté d’une aura magique sans la repérer. Vous ne devez cependant pas vous déplacer de plus de 45 m par minute si vous voulez être certain de détecter des auras magiques avant que votre groupe ne pénètre dans leur zone d’influence.</p>"
         },
         {
             "id": "Expeditious Inspection",
@@ -534,7 +534,7 @@
         {
             "id": "Quick Alchemy",
             "name": "Alchimie rapide",
-            "description": "<p><strong>Coût</strong> 1 lots de réactifs imprégnés<br><strong>Conditions</strong> Vous avez des <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.equipment-srd\" data-id=\"4ftXXUCBHcf4b0MH\"><i class=\"fas fa-suitcase\"></i>outils alchimiques</a>, la formule de l'objet alchimique que vous créez et une main libre.</p>\n<hr>\n<p>Vous préparez rapidement un objet alchimique périssable que vous pouvez utiliser sur‑le‑champ. Vous pouvez créer un unique objet alchimique d’un niveau inférieur ou égal à votre niveau d’alchimie avancée et qui se trouve dans votre formulaire, sans avoir à dépenser le coût monétaire normal en réactifs alchimiques ou à faire de test d’Artisanat. Cet objet possède le trait imprégné, mais est seulement efficace jusqu’au début de votre prochain tour.</p>"
+            "description": "<p><strong>Coût</strong> 1 lot de réactifs imprégnés</p>\n<p><strong>Conditions</strong> Vous avez des <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.equipment-srd\" data-id=\"4ftXXUCBHcf4b0MH\"><i class=\"fas fa-suitcase\"></i>outils alchimiques</a>, la formule de l'objet alchimique que vous créez et une main libre.</p>\n<hr>\n<p>Vous préparez rapidement un objet alchimique périssable que vous pouvez utiliser sur‑le‑champ.</p>\n<p>Vous pouvez créer un unique objet alchimique d’un niveau inférieur ou égal à votre niveau d’alchimie avancée et qui se trouve dans votre formulaire, sans avoir à dépenser le coût monétaire normal en réactifs alchimiques ou à faire de test d’Artisanat. Cet objet possède le trait imprégné, mais est seulement efficace jusqu’au début de votre prochain tour.</p>"
         },
         {
             "id": "Grapple",

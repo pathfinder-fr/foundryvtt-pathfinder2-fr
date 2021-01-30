@@ -52,6 +52,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque vous appliquez cette épaisse huile visqueuse sur une arme ou une armure non magique, elle devient magique. Si c’est une arme, elle devient temporairement une arme de frappe +1, si c’est une armure elle devient temporairement une armure de résilience +1. Cela dure 1 min.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir</span></p>"
         },
         {
+            "id": "Magic Wand (7th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 7)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
+        },
+        {
             "id": "Flame Tongue (Greater)",
             "name": "Épée ardente (supérieure)",
             "description": "<p><span>C’est une épée longue enflammée de frappe supérieure +3. Quand vous activez l’épée pour lancer flammes, le sort est de niveau 9. Quand vous la maniez, la lame émet une lumière scintillante semblable à celle d’un feu qui diffuse une lumière faible sur un rayon de 3 m<br /></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/TwoActions.png\" alt=\"Two Actions\" />  sur ordre, Interagir; <strong>Effet</strong> Vous lancez le tour de magie flammes @Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Produce Flame}  par le biais de l’épée comme un sort arcanique de niveau 7, en utilisant votre modificateur d’attaque au corps à corps en guise de modificateur d’attaque de sort avec l’épée ardente. &nbsp;</span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/OneAction.png\" alt=\"Single Action\" /> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong>  Une émanation de feu de 3 m irradie de l’épée ardente supérieure pendant 1 min. Toutes les attaques d’arme ou à mains nues que vous et vos alliés effectuez dans la zone bénéficient de l’effet de la rune de propriété enflammée.</span></p>"
@@ -205,6 +210,11 @@
             "id": "Salve of Slipperiness",
             "name": "Onguent d'insaisissabilité",
             "description": "<p><span>Cette graisse verdâtre tenace s’applique sur une armure pour la rendre extrêmement glissante pendant 8 h, offrant à son porteur un bonus d’objet de +2 aux tests d’Acrobaties pour S’échapper ou Se faufiler.<br></span></p>\n<p><span><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/OneAction.png\" alt=\"Single Action\">  Interagir</span></p>"
+        },
+        {
+            "id": "Magic Wand (5th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 5)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Elven Curve Blade",
@@ -757,11 +767,6 @@
             "description": "<p>Ce liquide contient du sang d’un dragon noir adulte. Pendant 1 h après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait acide. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte une ligne de 9m de dégâts d'acide. Le souffle d'un dragon noir adulte inflige 6d6 dégâts et chaque créature dans la zone touchée doit faire un jet de réflexes basique DD 29. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds. </p>"
         },
         {
-            "id": "Magic Wand (7th-Level Spell)",
-            "name": "Baguette magique (sort de niveau 7)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
-        },
-        {
             "id": "Forgefather's Seal",
             "name": "Sceau du père des forges",
             "description": "p>Cette rune a été créée par Torag, le dieu de la forge, de la protection et de la stratégie, qui l’a partagée avec ses plus grands artisans et guerriers. Torag a créé un petit nombre de ces sceaux qu’il a offerts à des divinités bonnes alliées ; ils sont presque identiques mais ont tous un effet de sort différent quand on utilise leur activation de réaction ; par exemple, le sceau de Sarenrae incante explosion de lumière au lieu de tremblement de terre.</p>\n<p>Un sceau résonne constamment du son d’un marteau frappant une enclume quand il est gravé sur une pierre runique. Un sceau du père des forges ne peut être appliqué que sur une armure qui peut accepter au moins deux runes de propriété et il est si puissant qu’il utilise deux de ces emplacements. En portant une armure gravée du sceau du père des forges, vous gagnez résistance au feu 40. Vous ignorez les malus aux tests et à la Vitesse de l’armure (s’il y en a) ; si l’armure est légère ou intermédiaire, augmentez son bonus d’objet à la CA de 1. De plus, tout bouclier dont vous êtes équipé récupère automatiquement 10 PV au début de votre tour à chaque round.</p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\"></span> Interagir; <strong>Fréquence</strong> 1 fois par heure; <strong>Déclenchement</strong> Vous êtes touché par une attaque ; <strong>Effect</strong> Le sceau du père des forges brille et votre armure tremble en absorbant le coup. Les dégâts de l’attaque sont réduits de 100 et vous incantez tremblement de terre (DD 40) centré directement sur la créature ayant déclenché cet effet. Vous décidez de la zone du tremblement de terre quand vous Incantez le sort ; elle peut être aussi réduite que la taille de la créature et aussi grande qu’une explosion de 18 m.<br></span></p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\"></span> Interagir; <strong>Fréquence</strong> 1 fois par jour; <strong>Effet</strong> Vous faites appel aux pouvoirs restaurateurs du sceau pour réparer un objet à portée. La rune restaure immédiatement tous les points de vie de l’objet, même s’il a été détruit, en utilisant les effets d’un sort recréer tant qu’il reste la majorité des éléments de l’objet pour le reconstituer. Le sceau peut même restaurer des objets magiques et des artefacts de son niveau ou d’un niveau inférieur. Une fois que vous avez utilisé cette capacité, le pouvoir du sceau de réparer automatiquement les boucliers est inactif jusqu’à vos prochains préparatifs quotidiens.<br></span></p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\"></span> imaginer; <strong>Déclenchement</strong> Vous n’avez pas encore agi au cours de votre tour; <strong>Effet</strong> Vous en appelez à Torag pour défendre vos alliés et ceux qui vous entourent au prix de votre sacrifice. Les créatures de votre choix dans un rayon de 18 m récupèrent tous leurs points de vie. Les créatures mortes sont ramenées à la vie avec la moitié de leurs points de vie maximum. Les créatures choisies gagnent également un bonus de statut de +4 à leur CA et à leurs jets de sauvegarde ainsi que guérison accélérée 15 pendant 1 h. Vous pouvez utiliser ce pouvoir pour ramener à la vie une créature qui ne pourrait l’être que par un miracle ou une intervention divine tant que vous ne choisissez aucune autre créature dans un rayon de 18 m. Une fois que vous avez utilisé cette activation, vous êtes transformé en une statue parfaite constituée de pierre ou de métal qui vous représente dans une pose glorieuse pour honorer votre sacrifice et vous ne pourrez plus jamais être restauré. Le sceau du père des forges reste sur la statue et peut être transféré normalement sur une autre armure ou une <em>pierre runique</em>.<br></span></p>\n<p><span><strong>Destruction</strong> Utiliser le pouvoir du<em> sceau du père des forge</em> pour ramener à la vie un demi-dieu mauvais fait se briser le sceau dans une explosion violente. Le sceau est anéanti ainsi que la statue de celui qui s’est sacrifié et toute mention de l’existence de ce dernier est effacée des mémoires. Par contre, le demi-dieu mauvais est bien ramené à la vie.</span></p>"
@@ -780,6 +785,11 @@
             "id": "Simple silver circlet",
             "name": "Bandeau simple en argent",
             "description": ""
+        },
+        {
+            "id": "Magic Wand (6th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 6)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Repair Kit (Superb)",
@@ -875,6 +885,11 @@
             "id": "Silvertongue Mutagen (Moderate)",
             "name": "Mutagène de langue dorée (modéré)",
             "description": "Vos traits deviennent séduisants et votre voix musicale et autoritaire, en revanche, les faits et les chiffres deviennent flous et l’émotion obs‑ curcit votre raisonnement. Le bonus est de +2 et la durée de 10 min."
+        },
+        {
+            "id": "Magic Wand (9th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 9)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Aeon Stone (Black Pearl)",
@@ -992,19 +1007,14 @@
             "description": "<p>Ce pic de guerre possède un manche plus long et une tête plus large qu’un pic de guerre ordinaire. Il est trop lourd pour pouvoir être manié d’une seule main.</p>"
         },
         {
-            "id": "Magic Wand (3rd-Level Spell)",
-            "name": "Baguette magique (sort de niveau 3)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
-        },
-        {
             "id": "Wand of Continuation (1st-Level Spell)",
             "name": "Baguette de prolongation (sort de niveau 1)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette augmente la durée d’un sort. Des braises jaunes dé‑ crivent des spirales sur sa surface jusqu’à la fin du sort.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort); <strong>Fréquence</strong> once per day, plus overcharge; the activation takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> to cast, or <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/ThreeActions.png\" alt=\"Three Actions\"> if the spell normally takes <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">; <strong>Effet</strong>  Vous Lancez le sort et sa durée est augmentée de moitié.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation d’un sort du ni‑ veau approprié. Le sort doit avoir un temps d’incantation de <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> ou <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\"> et une durée comprise entre 10 min et 1 h.</span></p>"
         },
         {
-            "id": "Magic Wand (1st-Level Spell)",
-            "name": "Baguette magique (sort de 1er niveau)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort.Son aspect physique est généralement en rapport avec le sort qu’elle contient.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong>  1/jour, plus surcharger<strong>Effet</strong> vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
+            "id": "Pathfinder's Coin",
+            "name": "Pièce de l'éclaireur",
+            "description": "<p>Cette pièce a généralement l’apparence d’une ancienne devise. Le complexe entrelacement de fils d’or et de platine à l’intérieur de cette pièce la fait flotter de quelques centimètres et tournoyer si elle est placée sur un guide.</p>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> sur ordre; <strong>Conditions</strong> La pièce est en lévitation au dessus d’un guide @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Wayfinder}</p>\n<p><strong>Effet</strong>Vous transmettez un message de 25 mots ou moins à la pièce. Le message est répété avec votre voix la prochaine fois que la pièce lévite au dessus d’un guide. Une pièce de l’Éclaireur ne peut contenir qu’un seul message à la fois, et elle ne le reproduira qu’une seule fois.</p>"
         },
         {
             "id": "Staff of Necromancy",
@@ -1822,11 +1832,6 @@
             "description": "<p><strong>Activation</strong>&nbsp;<span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">1</span> Interagir</p>\n<p>Cette fiole élancée semble contenir une eau propre et claire au parfum légèrement fruité. Boire un tonique de rationnement vous nourrit comme par magie avec l'équivalent d'une journée de nourriture et d'eau. Le tonique a un goût subtil et agréable, dont les caractéristiques ont été choisies lors de la création de la potion.</p>"
         },
         {
-            "id": "Magic Wand (8th-Level Spell)",
-            "name": "Baguette magique (sort de niveau 8)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
-        },
-        {
             "id": "Vine Arrow",
             "name": "Flèche de lierre",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des vrilles feuillues dépassent du fût de cette flèche rustique. Quand une flèche de lierre activée touche sa cible, le fût se fend et se met à pousser, l’enveloppant de ses tiges rampantes. La cible subit un malus de circonstances de −3 m à la Vitesse, pendant 2d4 rounds ou jusqu’à ce qu’elle S’échappe (DD 19). Sur un coup critique, la cible est aussi immobilisée jusqu’à ce qu’elle S’échappe.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Sur ordre</span></p>"
@@ -1870,6 +1875,11 @@
             "id": "Retribution Axe",
             "name": "Hâche de représailles",
             "description": "<p><span>La lame de cette grande hache +1 est ornée d’un motif de crâne humain. Chaque fois qu’une créature vous blesse avec une attaque, le crâne change pour prendre l’apparence du visage de cette créature. Vous bénéficiez d’un bonus de circonstances de +2 à votre prochain jet de dégâts contre celle-ci avant la fin de votre prochain tour. Étant donné que le visage change d’aspect chaque fois que vous êtes blessé, vous infligez les dégâts supplémentaires uniquement si vous attaquez la créature qui vous a blessé le plus récemment.&nbsp;</span></p>"
+        },
+        {
+            "id": "Magic Wand (4th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 4)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Frost Vial (Major)",
@@ -2877,11 +2887,6 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette arme de jet est faite de poids reliés au bout de longues cordes, qui peuvent être utilisés comme armes contondantes contre des ennemis ou pour se prendre dans leurs jambes.&nbsp;</span></p>"
         },
         {
-            "id": "Magic Wand (5th-Level Spell)",
-            "name": "Baguette magique (sort de niveau 5)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
-        },
-        {
             "id": "Iron Cudgel",
             "name": "Gourdin de fer",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce gourdin de fer miniature est généralement fixé sur une arme par une chaîne de fer. Lorsque vous l’activez, vous utili‑ sez Final brutal, comme le don de guerrier (p. 151). Vous devez remplir les conditions habituelles, y compris à l’égard du trait persévérer. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous disposez du don Final brutal, ajoutez deux dés de dégâts supplémentaires en cas de succès ou d’échec.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Final brutal; <strong>Conditions</strong> Vous êtes maître avec l’arme support. </span></p>"
@@ -3190,6 +3195,11 @@
             "id": "Hat of the Magi",
             "name": "Couvre-chef de thaumaturge",
             "description": "<p>Ces couvre‑chefs existent sous de nombreuses formes : ça peut être un turban de couleur ou un chapeau pointu à large bord, sur lesquels sont inscrits des symboles ou des runes. Il vous confère un bonus d’objet de +1 aux tests d’Arcanes et vous permet de lancer le tour de magie prestidigitation comme un sort inné arcanique.</p>"
+        },
+        {
+            "id": "Magic Wand (2nd-Level Spell)",
+            "name": "Baguette magique (sort de niveau 2)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Glamorous Buckler",
@@ -4007,6 +4017,11 @@
             "description": ""
         },
         {
+            "id": "Magic Wand (8th-Level Spell)",
+            "name": "Baguette magique (sort de niveau 8)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
+        },
+        {
             "id": "Jade Bauble",
             "name": "Babiole de jade",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce morceau de jade est généralement taillé en forme de duelliste ou parfois de créature aux multiples bras. Lorsque vous l’activez, il attire l’attention des adversaires par magie. Jusqu’au début de votre prochain tour, les ennemis à portée de l’arme support du talisman sont pris au dépourvu.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> sur ordre; <strong>Conditions</strong> Vous êtes maître avec l’arme support. </span></p>"
@@ -4542,11 +4557,6 @@
             "description": "<div><strong>Armure</strong> armure de cuir</div>\n<div><strong>Armes</strong>  dague, arc long avec 20 flèches</div>\n<div><strong>Equipement</strong> pack d’aventurier, gaine</div>"
         },
         {
-            "id": "Magic Wand (2nd-Level Spell)",
-            "name": "Baguette magique (sort de niveau 2)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
-        },
-        {
             "id": "Red Dragon's Breath Potion (Young)",
             "name": "Potion de souffle de jeune dragon rouge",
             "description": "<p>Ce liquide contient du sang d’un jeune dragon rouge. Pendant 1 h après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait feu. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte un cône de 4,5m de dégâts de feu. Le souffle d'un jeune dragon rouge inflige 4d6 dégâts de feu et chaque créature dans la zone touchée doit faire un jet de réflexes basique DD 23. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds. </p>"
@@ -4610,11 +4620,6 @@
             "id": "Class Kit (Bard)",
             "name": "Kit de classe (Barde)",
             "description": "<div><strong>Armure </strong>armure de cuir clouté </div>\n<div><strong>Armes</strong> dague, rapière, fronde avec 20 billes de fronde</div>\n<div><strong>Equipement</strong>  pack d’aventurier, bandoulière, </div>\n<div>instrument portatif, gaine</div>"
-        },
-        {
-            "id": "Magic Wand (4th-Level Spell)",
-            "name": "Baguette magique (sort de niveau 4)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Mail of Luck",
@@ -4782,6 +4787,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des motifs d’aile sont souvent gravés sur un bouclier flottant. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiativ<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Fréquence</strong> Vous pouvez activer le bouclier autant de fois que vous le voulez par jour <strong>Effet</strong> Le bouclier se détache de votre bras et flotte à vos côtés en vous conférant automatiquement son bonus, comme si vous aviez Levé le bouclier. Étant donné que vous ne maniez pas le bouclier, vous ne pouvez pas utiliser de réactions telles que Blocage au bouclier avec lui mais vous profitez de ses avantages, même si vous utilisez déjà vos deux mains. Au bout d’une minute, le bouclier tombe au sol, ce qui met fin à l’effet flottant."
         },
         {
+            "id": "Blightburn Ward",
+            "name": "Protège fléau brûlant",
+            "description": "<p>Ce lourd collier est décoré avec de minuscules gemmes qui ressemble à des étoiles du plafond au dessus de la chambre forte du Désert noir. Tant que vous imprégnez cet objet, vous ne pouvez pas contracter la maladie du Fléau brûlant. Elle ne soigne pas la maladie du fléau brûlant si vous l'avez déjà attrapée mais le stade de la maladie ne peut plus progresser tant que vous le portez.</p>"
+        },
+        {
             "id": "Staff of Divination (Major)",
             "name": "Bâton de divination (majeur)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des pierres semi‑précieuses apparaissent à la surface de ce bâton de bois noueux, de façon apparemment aléatoire. Lorsque vous le maniez, vous bénéficiez d’un bonus de circonstances de +2 aux tests pour identifier la magie de divination. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort ; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</span></p>\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Detect Magic}</li>\n<li><strong>Niveau 1</strong> @Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{True Strike}</li>\n<li><strong>Niveau 2</strong> @Compendium[pf2e.spells-srd.vTQvfYu2llKQedmY]{Comprehend Language}, @Compendium[pf2e.spells-srd.pZTqGY1MLRjgKasV]{Darkvision}, @Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{See Invisibility}</li>\n<li><strong>Niveau 3</strong> @Compendium[pf2e.spells-srd.HXhWYJviWalN5tQ2]{Clairaudience}, @Compendium[pf2e.spells-srd.pZTqGY1MLRjgKasV]{Darkvision}</li>\n<li><strong>Niveau 4</strong> @Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance}, @Compendium[pf2e.spells-srd.vTQvfYu2llKQedmY]{Comprehend Language}, @Compendium[pf2e.spells-srd.HqTI6wRrck1YXp3F]{Telepathy}</li>\n<li><strong>Niveau 5</strong> @Compendium[pf2e.spells-srd.Ek5XI0aEdZhBgm21]{Prying Eye}, @Compendium[pf2e.spells-srd.R9xqCBblkS5KE4y7]{Sending}</li>\n<li><strong>Niveau 6</strong> @Compendium[pf2e.spells-srd.HqTI6wRrck1YXp3F]{Telepathy}, @Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{True Seeing}</li>\n</ul>"
@@ -4925,6 +4935,11 @@
             "id": "Bronze bowl with wave imagery",
             "name": "Bol en bronze avec des motifs de vagues",
             "description": ""
+        },
+        {
+            "id": "Magic Wand (1st-Level Spell)",
+            "name": "Baguette magique (sort de 1er niveau)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort.Son aspect physique est généralement en rapport avec le sort qu’elle contient.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Fréquence</strong>  1/jour, plus surcharger<strong>Effet</strong> vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Doubling Rings",
@@ -5307,6 +5322,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette armure de peau de résilience +1 est faite en peau de rhinocéros. Son malus d’armure aux tests est de −1 au lieu de −3. Lorsque vous utilisez le don de classe Charge soudaine en portant cette armure, votre Frappe ajoute 1d8 dégâts de plus.&nbsp;<br><br><strong>Conditions de fabrication</strong>Les matériaux initiaux bruts doivent inclure 320 po de peau de rhinocéros (un matériau ordinaire)..</span></p>"
         },
         {
+            "id": "Fortifying Pebble",
+            "name": "Caillou de fortification",
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\"></span> imaginer</p>\n<p><strong>Déclencheur</strong>  L’objet sur lequel il est fixé subit des dégâts.</p>\n<p>Ce petit caillou étrangement dense et résistant est relié à un objet par une robuste chaine en acier. Lorsque vous activez le caillou, l’objet auquel il est relié subit 10 dégâts de moins.</p>"
+        },
+        {
             "id": "Bag of Holding (Type II)",
             "name": "Sac sans fond (Type 2)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Bien que ce sac en tissu orné de panneaux de soie aux riches couleurs ou de belles broderies ait l’air ordinaire, il ouvre sur un espace extradimensionnel bien plus grand que ce que pourrait contenir son enveloppe extérieure. L’Encombrement contenu dans le sac sans fond ne change pas son Encombrement à lui. La quantité d’Encombrement qu’il peut accueillir dépend de son type.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez Interagir avec le sac sans fond pour mettre un objet dedans ou le retirer, comme avec un sac ordinaire. Le sac a une grande contenance, mais pour y stocker un objet, il faut qu’il passe par son ouverture.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si le sac est surchargé ou brisé, il se déchire et est détruit, les objets qu’il contient étant perdus à jamais. S’il est mis sur l’envers, les objets qu’il contient se répandent à terre, intacts, mais il faut le remettre sur l’endroit avant de le réutiliser. Une créature vivante placée dans le sac a assez d’air pour respirer 10 min, ensuite elle commence à suffoquer. Elle peut faire un test DD 13 pour S’échapper. Un objet contenu dans \n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Capacité</strong> 50 encombrements&nbsp;</span></p>"
@@ -5330,11 +5350,6 @@
             "id": "Cold Iron Buckler (Low-Grade)",
             "name": "Targe en fer froid de (basse qualité)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en fer froid ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 3, 12 PV et un SR de 6.<br><strong>Conditions de fabrication</strong> au moins 15 pa de fer froid &nbsp;</span></p>"
-        },
-        {
-            "id": "Magic Wand (9th-Level Spell)",
-            "name": "Baguette magique (sort de niveau 9)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Shears",
@@ -5430,6 +5445,11 @@
             "id": "Fear Gem",
             "name": "Gemme effrayante",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">On dirait qu’une fumée noire tournoie dans cette gemme d’obsidienne. Lorsque vous l’activez, vous faites une Frappe intimidante, comme avec le don de guerrier (p. 145). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous disposez déjà de ce don, l’intensité de l’état effrayé dé‑ coulant de cette Frappe intimidante passe à 2 ou 3 en cas de coup critique.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/TwoActions.png\" alt=\"Two Actions\">  Frappe intimidante</span></p>"
+        },
+        {
+            "id": "Magic Wand (3rd-Level Spell)",
+            "name": "Baguette magique (sort de niveau 3)",
+            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Aeon Stone (Pink Rhomboid)",
@@ -5855,11 +5875,6 @@
             "id": "Philosopher's Stone",
             "name": "Pierre philosophale",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un alchimiste doté du done pierre philosophale @Compendium[pf2e.feats-srd.zOK6IFSz3DIBRjEw]{Craft Philosopher's Stone} par mois en dépensant un lot de réactifs infusés lors de ses préparatifs quotidiens grâce au pouvoir de classe alchimie avancée. C’est le seul moyen de créer une pierre philosophale.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Au premier abord, cette dernière semble être un morceau de roche charbonneuse ordinaire. Si on la brise avec l’action Ouvrir de force (DD 35), on découvre une cavité en son centre. Elle est tapissée d’un type de vif‑argent très rare capable de transmuter les métaux ba‑ siques en métaux précieux ou de créer un élixir de jouvence (p. 580). &nbsp;<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Pour utiliser le vif‑argent, vous devez être légendaire en Artisanat et disposer du don Artisanat alchimique. Vous pouvez alors utiliser le vif‑argent de la pierre pour produire l’un de ces deux effets :  </span></p>\n<ul>\n<li> Vous pouvez utiliser l’action Interagir pour l’appliquer sur un élixir de vie ultime infusé. L’élixir devient instantanément un élixir de jouvence infusé, sans nécessiter de matériaux supplémentaires ni demander de temps de fabrication</li>\n<li>Vous pouvez passer jusqu’à un mois d’intermède à appliquer le vif‑argent sur du fer pour créer de l’argent ou sur du plomb pour créer de l’or. Cela fonctionne comme une tâche de niveau 20 pour Gagner de l’argent avec l’Artisanat, sauf que vous créez 500 po du métal choisi par jour en cas de succès ou 750 po par jour pour un succès critique.</li>\n</ul>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Interagir ou 1 jour ou plus ; voir plus loin</p>"
-        },
-        {
-            "id": "Magic Wand (6th-Level Spell)",
-            "name": "Baguette magique (sort de niveau 6)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient. <br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  (Lancer un sort) <strong>Fréquence</strong>  1/jour, plus surcharger ;  <strong>Effet</strong> Vous Lancez le sort au niveau indiqué.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</span></p>"
         },
         {
             "id": "Coyote Cloak",

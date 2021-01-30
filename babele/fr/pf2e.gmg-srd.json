@@ -7,6 +7,11 @@
             "description": "<p>Vous avez survécu à un grand désastre lors de votre enfance (comme un grand incendie, une inondation, un tremblement de terre, une éruption volcanique ou un ouragan) en improvisant avec les moyens du bord.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"ASy9AKEIRxPYUi5o\"><i class=\"fas fa-suitcase\"></i>Réparation rapide</a> à vos options d’historique.</p>"
         },
         {
+            "id": "Academic Community",
+            "name": "Communauté universitaire",
+            "description": "<p>Vous avez grandi dans ou à proximité d'une université, une academie ou un autre centre d'apprentissage.</p>\n<p>Ajoutez Connaissance universitaire, Connaissance généalogique, Connaissance des bibliothèques et Connaissance du métier de scribe à vos options d'historique.</p>"
+        },
+        {
             "id": "Coastal Community",
             "name": "Communauté côtière",
             "description": "<p> Vous avez grandi sur la rive d’un grand fleuve, dans une région très humide, au bord d’un océan ou sur une île.</p>\n<p>Ajoutez Connaissance de la pêche, Connaissance de la navigation maritime, et une Connaissance d’un type de créature marine particulière (comme Connaissance des requins) à vos options d’historique.</p>"
@@ -27,6 +32,16 @@
             "description": "<p>L’un de vos associés avait une telle soif de savoir qu’il ne pouvait jamais se satisfaire de réponses simples. À son contact, vous avez appris à apprécier les nombres, la géométrie, la logique, le travail assidu et la résolution de problèmes.</p>\n<p>Ajoutez une prime de caractéristique à l’Intelligence à vos options d’historique.</p>"
         },
         {
+            "id": "Animal Helpers",
+            "name": "Amis des animaux",
+            "description": "<p>Quand ce personnage et vous étiez jeunes, vous avez soigné ensemble des animaux malades</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"nowEaHgIyij7im8F\"><i class=\"fas fa-suitcase\"></i>Dressage animalier</a> à vos options d'historique.</p>"
+        },
+        {
+            "id": "Academy Trained",
+            "name": "Formation universitaire",
+            "description": "<p>Vous avez été admis dans une université où vous avez étudié de nombreux sujets et compétences. Vous étiez peut-étre un élève sérieux ou un tire-au-flanc. Dans tous les cas, cette université a été votre foyer pendant une bonne partie de votre jeunesse.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"BocFD2KV0qgUC76x\"><i class=\"fas fa-suitcase\"></i>Connaissance supplémentaire</a> à vos options d'historique. Si vous avez déja sélectionné Connaissance supplémentaire comme don de compétence, au lieu d'être qualifié en Connaissance, vous devenez qualifié, au choix, en Arcanes, Occultisme ou Société.</p>"
+        },
+        {
             "id": "Abandoned in a Distant Land",
             "name": "Abandonné dans un pays lointain",
             "description": "<p>Vous avez été victime de malchance (vous êtes parti vous promener et vous vous êtes perdu lors d’un voyage ou avez été recruté de force sur un navire) et vous avez dû survivre pendant quelque temps dans un pays lointain. Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"P9HCz0uR6xPHuw72\"><i class=\"fas fa-suitcase\"></i> Polyglotte</a> à vos options d’historique.</p>"
@@ -35,6 +50,11 @@
             "id": "The Fiend",
             "name": "Le fiélon",
             "description": "<p>Vous avez eu affaire à un fiélon ou avez été possédé par un fiélon, qui vous a accordé du pouvoir quand vous en aviez besoin. Une part de lui se trouve encore en vous et stimule vos pulsions destructrices.</p>\n<p>Ajoutez une prime de caractéristique à la Force à vos options d’historique.</p>"
+        },
+        {
+            "id": "Attained a Magical Gift",
+            "name": "Dépositaire d'un talent magique",
+            "description": "<p>Quand vous étiez enfant, vous avez trouvé, volé ou reçu comme cadeau un objet magique vous conférant un pouvoir extraordinaire.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"blMeVamjGz4ODWxq\"><i class=\"fas fa-suitcase\"></i>Sens arcanique</a> à vos options d'historique.</p>"
         },
         {
             "id": "Jester",
@@ -50,6 +70,11 @@
             "id": "The Mentor",
             "name": "Le mentor",
             "description": "<p> Un mentor vous a appris tout ce qu’il faut savoir sur la vie. Il s’agit peut-être de la personne qui a contribué à faire de vous un héros, ou simplement d’un proche qui vous a aidé à façonner votre vision du monde.</p>\n<p>Ajoutez une prime de caractéristique à la Constitution à vos options d’historique.<p>"
+        },
+        {
+            "id": "Captured by Giants",
+            "name": "Capturé par des géants",
+            "description": "<p>Vous avez été capturé par des géants en maraude et vous avez été forcé de vous battre pour leurs échapper.</p>\n<p>Ajoutez le don de compétence Lutte contre les titans a vos options d'historique.</p>"
         },
         {
             "id": "Skull",
@@ -142,6 +167,11 @@
             "description": "<p>Gagnez 25 joyaux de votre choix d’une valeur de 200 po chacun ou 50 gemmes valant chacune 100 po.</p>"
         },
         {
+            "id": "Betrayed",
+            "name": "Trahi",
+            "description": "<p>Un ami ou un membre de votre famille en qui vous aviez une confiance absolue vous a trahi.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"Dvz54d6aPhjsmUux\"><i class=\"fas fa-suitcase\"></i>Détecteur de mensonges</a> à vos options d'historique.</p>"
+        },
+        {
             "id": "Patron of the Arts",
             "name": "Bienfaiteur des arts",
             "description": "<p> Ce personnage vous a encouragé à exceller dans votre domaine de prédilection, allant jusqu’à vous donner de quoi vivre lors des périodes difficiles.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"lFwfUvH2708rl6i3\"><i class=\"fas fa-suitcase\"></i>Artiste virtuose</a> à vos options d’historique.</p>"
@@ -150,6 +180,16 @@
             "id": "The Pariah",
             "name": "Le paria",
             "description": "<p>Vous avez rencontré un exilé en disgrâce et ses mots vous ont touché. Ce qui vous semblait un temps juste, dans votre religion, société ou famille, s’est soudain mis à sonner faux et vous avez rapidement appris que vous ne deviez pas accorder votre confiance à n’importe qui.</p>\n<p>Ajoutez une prime de caractéristique à la Sagesse à vos options d’historique.</p>"
+        },
+        {
+            "id": "Accidental Fall",
+            "name": "Chute accidentelle",
+            "description": "<p>Ce personnage vous a poussé par inadvertance d'une corniche ou d'un balcon. Vous êtes presque sûr qu'il s'agit d'un accident, mais la chute vous a terrifié et vous vous êtes juré de ne jamais plus vous faire surprendre ainsi.</p>\n<p>Ajoutez le don de compétence  <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"LQw0yIMDUJJkq1nD\"><i class=\"fas fa-suitcase\"></i>Chute féline</a> à vos options d'historique.</p>"
+        },
+        {
+            "id": "Comet",
+            "name": "Comète",
+            "description": "<p>Si vous vainquez seul la prochaine menace faible ou le ou les ennemis hostiles plus coriaces que vous rencontrez , vous gagnez assez de PX pour atteindre le niveau suivant. Sinon, cette carte ne vous apporte rien.</p>"
         },
         {
             "id": "Won a Competition",
@@ -187,6 +227,11 @@
             "description": "<p>Ce personnage et vous avez un temps été rivaux dans la traque d’animaux ou de criminels en fuite.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"urQZwmzg2kS53vd5\"><i class=\"fas fa-suitcase\"></i>Pisteur expérimenté</a> à vos options d’historique.</p>"
         },
         {
+            "id": "Balance",
+            "name": "Balance",
+            "description": "<p>Votre alignement est changé en un alignement radicalement différent. Si vous ne respectez pas cet alignement, vous perdez un niveau et tous les avantages octroyés par ce niveau. Votre total de PX ne change pas quand vous perdez un niveau de cette manière.</p>"
+        },
+        {
             "id": "Religious Students",
             "name": "Séminaristes",
             "description": "<p>Ce personnage et vous avez tous les deux suivi une formation religieuse. Même si vous n’avez pas continué dans cette voie, vous admirez sa piété.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"x7EMZNMavris2aHY\"><i class=\"fas fa-suitcase\"></i>Étudiant du droit canon</a> à vos options d’historique.</p>"
@@ -200,6 +245,11 @@
             "id": "Met a Fantastic Creature",
             "name": "Rencontre avec une créature fantastique",
             "description": "<p> Votre enfance a été marquée par une rencontre avec une créature magique, comme un dragon, une licorne, un génie, une pixie, ou une autre créature de ce type.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"MjQyTcV8Jiv1Jtln\"><i class=\"fas fa-suitcase\"></i>Reconnaître des sorts</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Claimed an Inheritance",
+            "name": "Bénéficiaire d'un héritage",
+            "description": "<p>Vous avez reçu une grande richesse ou propriété à un jeune âge. Vous avez réussi à en conserver une partie. Ajoutez un article de matériel d'aventurier courant d'une valeur de 15 po ou moins à vos options d'historique. Si vous choisissez cet article à la place d'un don de compétence, vous devenez qualifié en Societé.</p>"
         }
     ],
     "mapping": {}

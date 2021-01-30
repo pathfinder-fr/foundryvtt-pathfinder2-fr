@@ -1,11 +1,11 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 33
- * **changé**: 5
- * **aucune**: 115
+ * **libre**: 32
+ * **changé**: 6
+ * **aucune**: 138
 
 
-Dernière mise à jour: 2021-01-21 20:46 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-30 16:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -26,6 +26,27 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[00-tPKXLtDJ3bzJcXlv.htm](spell-effects/00-tPKXLtDJ3bzJcXlv.htm)|Stance: Ironblood Stance|
 |[00-uFYvW3kFP9iyNfVX.htm](spell-effects/00-uFYvW3kFP9iyNfVX.htm)|Stance: Clinging Shadows Stance|
 |[01-16tOZk4qy329s2aK.htm](spell-effects/01-16tOZk4qy329s2aK.htm)|Effect: Shielding Salve|
+|[01-3gGBZHcUFsHLJeQH.htm](spell-effects/01-3gGBZHcUFsHLJeQH.htm)|Effect: Elemental Blood Magic (Self)|
+|[01-5Gof60StUppR2Xn9.htm](spell-effects/01-5Gof60StUppR2Xn9.htm)|Effect: Skeptic's Elixir (Lesser)|
+|[01-5IGz4iheaiUWm5KR.htm](spell-effects/01-5IGz4iheaiUWm5KR.htm)|Effect: Eye of the Arclords|
+|[01-6fb15XuSV4TNuVAT.htm](spell-effects/01-6fb15XuSV4TNuVAT.htm)|Effect: Hag Blood Magic|
+|[01-7BFd8A9HFrmg6vwL.htm](spell-effects/01-7BFd8A9HFrmg6vwL.htm)|Effect: Psychopomp Blood Magic (Self)|
+|[01-9AUcoY48H5LrVZiF.htm](spell-effects/01-9AUcoY48H5LrVZiF.htm)|Effect: Genie Blood Magic (Self)|
+|[01-aKRo5TIhUtu0kyEr.htm](spell-effects/01-aKRo5TIhUtu0kyEr.htm)|Effect: Demonic Blood Magic (Self)|
+|[01-dWbg2gACxMkSnZag.htm](spell-effects/01-dWbg2gACxMkSnZag.htm)|Spell Effect: Protective Ward|
+|[01-FNTTeJHiK6iOjrSq.htm](spell-effects/01-FNTTeJHiK6iOjrSq.htm)|Effect: Draconic Blood Magic|
+|[01-GnWkI3T3LYRlm3X8.htm](spell-effects/01-GnWkI3T3LYRlm3X8.htm)|Spell Effect: Magic Weapon|
+|[01-KVbS7AbhQdeuA0J6.htm](spell-effects/01-KVbS7AbhQdeuA0J6.htm)|Effect: Genie Blood Magic (Target)|
+|[01-n1vhmOd7aNiuR3nk.htm](spell-effects/01-n1vhmOd7aNiuR3nk.htm)|Effect: Diabolic Blood Magic (Self)|
+|[01-Nv70aqcQgCBpDYp8.htm](spell-effects/01-Nv70aqcQgCBpDYp8.htm)|Effect: Shadow Blood Magic (Perception)|
+|[01-OqH6IaeOwRWkGPrk.htm](spell-effects/01-OqH6IaeOwRWkGPrk.htm)|Effect: Shadow Blood Magic (Stealth)|
+|[01-rJpkKaPRGaH0pLse.htm](spell-effects/01-rJpkKaPRGaH0pLse.htm)|Effect: Fey Blood Magic|
+|[01-ruRAfGJnik7lRavk.htm](spell-effects/01-ruRAfGJnik7lRavk.htm)|Effect: Nymph Blood Magic (Target)|
+|[01-s1tulrmW6teTFjVd.htm](spell-effects/01-s1tulrmW6teTFjVd.htm)|Effect: Angelic Blood Magic|
+|[01-SVGW8CLKwixFlnTv.htm](spell-effects/01-SVGW8CLKwixFlnTv.htm)|Effect: Nymph Blood Magic (Self)|
+|[01-UQ7vZgmfK0VSFS8A.htm](spell-effects/01-UQ7vZgmfK0VSFS8A.htm)|Effect: Aberrant Blood Magic|
+|[01-vguxP8ukwVTWWWaA.htm](spell-effects/01-vguxP8ukwVTWWWaA.htm)|Effect: Imperial Blood Magic|
+|[01-yfbP64r4a9e5oyli.htm](spell-effects/01-yfbP64r4a9e5oyli.htm)|Effect: Demonic Blood Magic (Target)|
 |[01-z3uyCMBddrPK5umr.htm](spell-effects/01-z3uyCMBddrPK5umr.htm)|Effect: Rage|
 |[02-7UL8belWmo7U5YGM.htm](spell-effects/02-7UL8belWmo7U5YGM.htm)|Effect: Darkvision Elixir (Lesser)|
 |[03-BV8RPntjc9FUzD3g.htm](spell-effects/03-BV8RPntjc9FUzD3g.htm)|Effect: Drakeheart Mutagen (Moderate)|
@@ -57,6 +78,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[05-XrlChFETfe8avLsX.htm](spell-effects/05-XrlChFETfe8avLsX.htm)|Effect: Sixfingers Elixir (Lesser)|
 |[06-7MgpgF8tOXOiDEwv.htm](spell-effects/06-7MgpgF8tOXOiDEwv.htm)|Effect: Vaultbreaker's Harness|
 |[06-lBMhT2W2raYMa8JS.htm](spell-effects/06-lBMhT2W2raYMa8JS.htm)|Effect: Spellguard Shield|
+|[06-mG6S6zm6hxaF7Tla.htm](spell-effects/06-mG6S6zm6hxaF7Tla.htm)|Effect: Skeptic's Elixir (Moderate)|
 |[06-Uadsb25G18pKdZ2e.htm](spell-effects/06-Uadsb25G18pKdZ2e.htm)|Effect: Clandestine Cloak|
 |[06-W3xQBLj5hLOtb6Tj.htm](spell-effects/06-W3xQBLj5hLOtb6Tj.htm)|Effect: Potion of Swimming (Moderate)|
 |[06-wFF0SZs1Hcf87Kk1.htm](spell-effects/06-wFF0SZs1Hcf87Kk1.htm)|Effect: Bloodhound Mask (Moderate)|
@@ -93,6 +115,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[11-qit1mLbJUyRTYcPU.htm](spell-effects/11-qit1mLbJUyRTYcPU.htm)|Effect: Cognitive Mutagen (Greater)|
 |[11-qwoLV4awdezlEJ60.htm](spell-effects/11-qwoLV4awdezlEJ60.htm)|Effect: Drakeheart Mutagen (Greater)|
 |[11-qzRcSQ0HTTp58hV2.htm](spell-effects/11-qzRcSQ0HTTp58hV2.htm)|Effect: Sixfingers Elixir (Moderate)|
+|[11-TsWUTODTVi487SEz.htm](spell-effects/11-TsWUTODTVi487SEz.htm)|Effect: Skeptic's Elixir (Greater)|
 |[11-xLilBqqf34ZJYO9i.htm](spell-effects/11-xLilBqqf34ZJYO9i.htm)|Effect: Juggernaut Mutagen (Greater)|
 |[12-1xHHvQlW4pRR89qj.htm](spell-effects/12-1xHHvQlW4pRR89qj.htm)|Effect: Stone Body Mutagen (Moderate)|
 |[12-9keegq0GdS1eSrNr.htm](spell-effects/12-9keegq0GdS1eSrNr.htm)|Effect: Sea Touch Elixir (Moderate)|
@@ -155,7 +178,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-lNWACCNe9RYgaFxb.htm](spell-effects/01-lNWACCNe9RYgaFxb.htm)|Effect: Cheetah's Elixir (Lesser)|Effet : Élixir du Guépard (Inférieur)|libre|
 |[01-lPRuIRbu0rHBkoKY.htm](spell-effects/01-lPRuIRbu0rHBkoKY.htm)|Effect: Elixir of Life (Minor)|Effet : Élixir de vie (Mineur)|libre|
 |[01-qkwb5DD3zmKwvbk0.htm](spell-effects/01-qkwb5DD3zmKwvbk0.htm)|Spell Effect: Mage Armor|Effet : Armure du mage|libre|
-|[01-uBJsxCzNhje8m8jj.htm](spell-effects/01-uBJsxCzNhje8m8jj.htm)|Effect: Panache|Effet : Panache|libre|
+|[01-uBJsxCzNhje8m8jj.htm](spell-effects/01-uBJsxCzNhje8m8jj.htm)|Effect: Panache|Effet : Panache|changé|
 |[01-VCypzSu659eC6jNi.htm](spell-effects/01-VCypzSu659eC6jNi.htm)|Effect: Eagle Eye Elixir (Lesser)|Effet : Élixir d'œil du faucon (Inférieur)|libre|
 |[02-2C1HuKDQDGFZuv7l.htm](spell-effects/02-2C1HuKDQDGFZuv7l.htm)|Effect: Boulderhead Bock|Effet : Bock têtederoc|libre|
 |[02-Cxa7MdgMCUoMqbKm.htm](spell-effects/02-Cxa7MdgMCUoMqbKm.htm)|Effect: Bronze Bull Pendant|Effet : Pendentif de taureau de bronze|libre|

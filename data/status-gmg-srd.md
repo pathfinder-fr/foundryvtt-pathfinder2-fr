@@ -1,11 +1,11 @@
 # État de la traduction (gmg-srd)
 
- * **officielle**: 39
- * **aucune**: 58
+ * **officielle**: 49
+ * **aucune**: 48
  * **changé**: 1
 
 
-Dernière mise à jour: 2021-01-21 20:46 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-01-30 16:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -20,11 +20,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[8NKe8N5NsULPShPX.htm](gmg-srd/8NKe8N5NsULPShPX.htm)|The Dead One|
 |[a0mJO7io1hcwMAjJ.htm](gmg-srd/a0mJO7io1hcwMAjJ.htm)|Lost in the Wilderness|
 |[Alf16WU6qK8w1jmq.htm](gmg-srd/Alf16WU6qK8w1jmq.htm)|Sun|
-|[amEb5dGmSvvAJz7J.htm](gmg-srd/amEb5dGmSvvAJz7J.htm)|Balance|
 |[BAs1fCaUTmvRjvVT.htm](gmg-srd/BAs1fCaUTmvRjvVT.htm)|Dullard|
 |[BbgtR5LmB9ZdPpx1.htm](gmg-srd/BbgtR5LmB9ZdPpx1.htm)|Timely Cure|
 |[bRQz8uVlYtQ1cwwI.htm](gmg-srd/bRQz8uVlYtQ1cwwI.htm)|Wasteland Survivors|
-|[bvhckAGjcCJVs0jn.htm](gmg-srd/bvhckAGjcCJVs0jn.htm)|Claimed an Inheritance|
 |[C4KgMYzmyWVpe721.htm](gmg-srd/C4KgMYzmyWVpe721.htm)|Fool|
 |[c8bBOo2RPxStZozM.htm](gmg-srd/c8bBOo2RPxStZozM.htm)|Moon|
 |[ccG9pxYQ9Gg6262b.htm](gmg-srd/ccG9pxYQ9Gg6262b.htm)|Key|
@@ -36,32 +34,24 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[CwyYDIAAuRll2i5R.htm](gmg-srd/CwyYDIAAuRll2i5R.htm)|The Seer|
 |[dcP3oqjsl85p6R2Z.htm](gmg-srd/dcP3oqjsl85p6R2Z.htm)|Kidnapped|
 |[Dyg3vJnEnReKyYHU.htm](gmg-srd/Dyg3vJnEnReKyYHU.htm)|The Fates|
-|[e4nkDjB1Y6nqaK2G.htm](gmg-srd/e4nkDjB1Y6nqaK2G.htm)|Betrayed|
-|[eADadfrHPkGNTjEB.htm](gmg-srd/eADadfrHPkGNTjEB.htm)|Accidental Fall|
 |[eCB10E0MSvD9s008.htm](gmg-srd/eCB10E0MSvD9s008.htm)|Frontier|
 |[ejRPZwAlci3jTli9.htm](gmg-srd/ejRPZwAlci3jTli9.htm)|The Liege Lord|
 |[Erqgqv8WEtnzBtTu.htm](gmg-srd/Erqgqv8WEtnzBtTu.htm)|The Mystic|
 |[F7Tf6APgUKjnCZgv.htm](gmg-srd/F7Tf6APgUKjnCZgv.htm)|The Crafter|
-|[fojjq3VXShnNSOsZ.htm](gmg-srd/fojjq3VXShnNSOsZ.htm)|Academic Community|
-|[FOs2eLbehUzPh9p9.htm](gmg-srd/FOs2eLbehUzPh9p9.htm)|Attained a Magical Gift|
 |[G9058881e1ci9X1C.htm](gmg-srd/G9058881e1ci9X1C.htm)|Desperate Intimidation|
 |[Gm4AtuFNRgOnzsmF.htm](gmg-srd/Gm4AtuFNRgOnzsmF.htm)|Simple Village|
 |[Gr4v8ROPCxi4hvAO.htm](gmg-srd/Gr4v8ROPCxi4hvAO.htm)|Religious Community|
 |[HkMzwjBTGgQgsOCW.htm](gmg-srd/HkMzwjBTGgQgsOCW.htm)|Cosmopolitan City|
 |[iA9QWuYATBPB6thI.htm](gmg-srd/iA9QWuYATBPB6thI.htm)|Knight|
-|[idZxjeEv8B3x44r1.htm](gmg-srd/idZxjeEv8B3x44r1.htm)|Captured by Giants|
 |[Ip6kSKGhl3XHQZ93.htm](gmg-srd/Ip6kSKGhl3XHQZ93.htm)|Robbed|
-|[j9kx5CzfulaFTMOE.htm](gmg-srd/j9kx5CzfulaFTMOE.htm)|Academy Trained|
 |[JHQI2skcksaLMPqA.htm](gmg-srd/JHQI2skcksaLMPqA.htm)|Kindly Witch|
 |[jtgfTYpcv4FFpWsL.htm](gmg-srd/jtgfTYpcv4FFpWsL.htm)|Died|
 |[KtkDaTrkBwwupKcE.htm](gmg-srd/KtkDaTrkBwwupKcE.htm)|The Wanderer|
-|[LekxXsOgEwMODqCS.htm](gmg-srd/LekxXsOgEwMODqCS.htm)|Animal Helpers|
 |[llfG8iMTFMzVIF9s.htm](gmg-srd/llfG8iMTFMzVIF9s.htm)|Donjon|
 |[MCIp76IWZ2pk7dyz.htm](gmg-srd/MCIp76IWZ2pk7dyz.htm)|The Criminal|
 |[mg7oMp0cNa0GJMCS.htm](gmg-srd/mg7oMp0cNa0GJMCS.htm)|The Lover|
 |[mHocbJQKBzbHM790.htm](gmg-srd/mHocbJQKBzbHM790.htm)|The Confidante|
 |[niZPxqupDMfIXxJs.htm](gmg-srd/niZPxqupDMfIXxJs.htm)|Homelessness|
-|[NSG1YxOYAtSowNJa.htm](gmg-srd/NSG1YxOYAtSowNJa.htm)|Comet|
 |[nsZ93vUEFucsLwRz.htm](gmg-srd/nsZ93vUEFucsLwRz.htm)|Privileged Position|
 |[nzOpdMVLPhoNTxzR.htm](gmg-srd/nzOpdMVLPhoNTxzR.htm)|Comrade-in-Arms|
 |[OdD3NuxI5hNAEOVx.htm](gmg-srd/OdD3NuxI5hNAEOVx.htm)|Trade Town|
@@ -78,9 +68,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2cyhXgGkmoFe3Phw.htm](gmg-srd/2cyhXgGkmoFe3Phw.htm)|Trained by a Mentor|Formé par un Mentor|officielle|
 |[3Uwfn0ui7tS277iE.htm](gmg-srd/3Uwfn0ui7tS277iE.htm)|Metropolis|Métropole|officielle|
 |[AL562TPAhLCFX62S.htm](gmg-srd/AL562TPAhLCFX62S.htm)|Underground|Sous terre|officielle|
+|[amEb5dGmSvvAJz7J.htm](gmg-srd/amEb5dGmSvvAJz7J.htm)|Balance|Balance|officielle|
 |[bNmSwKSFk6SWWrlj.htm](gmg-srd/bNmSwKSFk6SWWrlj.htm)|Abandoned in a Distant Land|Abandonné dans un pays lointain|officielle|
+|[bvhckAGjcCJVs0jn.htm](gmg-srd/bvhckAGjcCJVs0jn.htm)|Claimed an Inheritance|Bénéficiaire d'un héritage|officielle|
+|[e4nkDjB1Y6nqaK2G.htm](gmg-srd/e4nkDjB1Y6nqaK2G.htm)|Betrayed|Trahi|officielle|
+|[eADadfrHPkGNTjEB.htm](gmg-srd/eADadfrHPkGNTjEB.htm)|Accidental Fall|Chute accidentelle|officielle|
+|[fojjq3VXShnNSOsZ.htm](gmg-srd/fojjq3VXShnNSOsZ.htm)|Academic Community|Communauté universitaire|officielle|
+|[FOs2eLbehUzPh9p9.htm](gmg-srd/FOs2eLbehUzPh9p9.htm)|Attained a Magical Gift|Dépositaire d'un talent magique|officielle|
+|[idZxjeEv8B3x44r1.htm](gmg-srd/idZxjeEv8B3x44r1.htm)|Captured by Giants|Capturé par des géants|officielle|
 |[IJ3nFDu2YcoP6ynd.htm](gmg-srd/IJ3nFDu2YcoP6ynd.htm)|Throne|Trône|officielle|
+|[j9kx5CzfulaFTMOE.htm](gmg-srd/j9kx5CzfulaFTMOE.htm)|Academy Trained|Formation universitaire|officielle|
 |[jVh90bfsC6w6iVyy.htm](gmg-srd/jVh90bfsC6w6iVyy.htm)|Euryale (curse)|Euryale (malédiction)|officielle|
+|[LekxXsOgEwMODqCS.htm](gmg-srd/LekxXsOgEwMODqCS.htm)|Animal Helpers|Amis des animaux|officielle|
+|[NSG1YxOYAtSowNJa.htm](gmg-srd/NSG1YxOYAtSowNJa.htm)|Comet|Comète|officielle|
 |[PVdcBHjBVySBchG1.htm](gmg-srd/PVdcBHjBVySBchG1.htm)|Religious Students|Séminaristes|officielle|
 |[pwn7lPcwqyGNZyOo.htm](gmg-srd/pwn7lPcwqyGNZyOo.htm)|Survived a Disaster|Survivant d'un désastre|officielle|
 |[qFgPiHDBVa3VSNgC.htm](gmg-srd/qFgPiHDBVa3VSNgC.htm)|Gem|Gemme|officielle|
