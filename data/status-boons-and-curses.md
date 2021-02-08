@@ -1,18 +1,12 @@
 # État de la traduction (boons-and-curses)
 
- * **libre**: 119
- * **aucune**: 1
+ * **libre**: 114
+ * **changé**: 6
 
 
-Dernière mise à jour: 2021-01-30 16:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-07 20:50 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[qTmjEC528YnvPgXE.htm](boons-and-curses/qTmjEC528YnvPgXE.htm)|Iomedae - Moderate Boon|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -60,12 +54,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[e9bdt8UH7ZvpRrLz.htm](boons-and-curses/e9bdt8UH7ZvpRrLz.htm)|Saranrae - Minor Boon|Sarenrae - Bénédiction mineure|libre|
 |[eibN2Uf0dsHCU5rE.htm](boons-and-curses/eibN2Uf0dsHCU5rE.htm)|Zon-Kuthon - Major Boon|Zon-Kuthon - Bénédiction majeure|libre|
 |[eVRjDKt0N0qSmpCn.htm](boons-and-curses/eVRjDKt0N0qSmpCn.htm)|Urgathoa - Major Curse|Ugathoa - Malédiction majeure|libre|
-|[FeCcooyIb1JDQhd7.htm](boons-and-curses/FeCcooyIb1JDQhd7.htm)|Calistra - Major Boon|Calistria - Bénédiction Majeure|libre|
+|[FeCcooyIb1JDQhd7.htm](boons-and-curses/FeCcooyIb1JDQhd7.htm)|Calistria - Major Boon|Calistria - Bénédiction Majeure|changé|
 |[fLBNXULLPalAKlYe.htm](boons-and-curses/fLBNXULLPalAKlYe.htm)|Cayden Cailean - Minor Curse|Cayden Cailean - Malédiction mineure|libre|
 |[fsKVskUhWwMgvUaT.htm](boons-and-curses/fsKVskUhWwMgvUaT.htm)|Cayden Cailean - Moderate Boon|Cayden Cailean - Bénédiction modérée|libre|
 |[fV0t8xagcbqwvTpQ.htm](boons-and-curses/fV0t8xagcbqwvTpQ.htm)|Asmodeus - Minor Boon|Asmodéus - Bénédiction mineure|libre|
 |[fV0Xa1Bd3BoWACgT.htm](boons-and-curses/fV0Xa1Bd3BoWACgT.htm)|Irori - Minor Boon|Irori - Bénédiction mineure|libre|
-|[fV940VM5RCsNwUvA.htm](boons-and-curses/fV940VM5RCsNwUvA.htm)|Calistra - Major Curse|Calistria - Malédiction majeure|libre|
+|[fV940VM5RCsNwUvA.htm](boons-and-curses/fV940VM5RCsNwUvA.htm)|Calistria - Major Curse|Calistria - Malédiction majeure|changé|
 |[fXEeTSVINdWaKHhw.htm](boons-and-curses/fXEeTSVINdWaKHhw.htm)|Abadar - Minor Boon|Abadar - Bénédiction mineure|libre|
 |[gDBa72Y2jokr8Zzg.htm](boons-and-curses/gDBa72Y2jokr8Zzg.htm)|Lamashtu - Moderate Curse|Lamashtu - Malédiction modérée|libre|
 |[HdPVL76QiDhsLCA9.htm](boons-and-curses/HdPVL76QiDhsLCA9.htm)|Nethys - Moderate Boon|Néthys - Bénédiction modérée|libre|
@@ -79,14 +73,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[jVeuBZsa4iFg0wC6.htm](boons-and-curses/jVeuBZsa4iFg0wC6.htm)|Nethys - Minor Boon|Néthys - Bénédiction mineure|libre|
 |[kCCrjskDIbG0e74O.htm](boons-and-curses/kCCrjskDIbG0e74O.htm)|Irori - Major Boon|Irori - Bénédiction majeure|libre|
 |[kEAw5PMLdX2gHlwR.htm](boons-and-curses/kEAw5PMLdX2gHlwR.htm)|Gozreh - Major Curse|Gozreh - Malédiction majeure|libre|
-|[KjPTFfxMAqCngQFB.htm](boons-and-curses/KjPTFfxMAqCngQFB.htm)|Nethys - Minor Curse|Néhtys  Malédiction mineure|libre|
-|[Ks1HaYEuSRybaq8U.htm](boons-and-curses/Ks1HaYEuSRybaq8U.htm)|Calistra - Moderate Boon|Calistria  Bénédiction modérée|libre|
+|[KjPTFfxMAqCngQFB.htm](boons-and-curses/KjPTFfxMAqCngQFB.htm)|Nethys - Minor Curse|Néthys - Malédiction mineure|libre|
+|[Ks1HaYEuSRybaq8U.htm](boons-and-curses/Ks1HaYEuSRybaq8U.htm)|Calistria - Moderate Boon|Calistria - Bénédiction modérée|changé|
 |[kstqMWge32n0Lfdz.htm](boons-and-curses/kstqMWge32n0Lfdz.htm)|Gorum - Moderate Boon|Gorum - Bénédiction modérée|libre|
 |[l7n8n4fAoRLIn95W.htm](boons-and-curses/l7n8n4fAoRLIn95W.htm)|Shelyn - Major Boon|Shélyn - Bénédiction majeure|libre|
 |[La6t4fVId26PkmYk.htm](boons-and-curses/La6t4fVId26PkmYk.htm)|Cayden Cailean - Minor Boon|Cayden Caylean - Bénédiction mineure|libre|
 |[lI7bDExxA2zQq1sP.htm](boons-and-curses/lI7bDExxA2zQq1sP.htm)|Zon-Kuthon - Minor Curse|Zon-Kuthon - Malédiction mineure|libre|
 |[lOIu9jYDAR2rDe4p.htm](boons-and-curses/lOIu9jYDAR2rDe4p.htm)|Norgorber - Major Boon|Norgorber - Bénédiction majeure|libre|
-|[LOlv11WEGUQWYKna.htm](boons-and-curses/LOlv11WEGUQWYKna.htm)|Desna - Minor Boon|Desna  Bénédiction mineure|libre|
+|[LOlv11WEGUQWYKna.htm](boons-and-curses/LOlv11WEGUQWYKna.htm)|Desna - Minor Boon|Desna - Bénédiction mineure|libre|
 |[lR9KS3pQ4gGKNspP.htm](boons-and-curses/lR9KS3pQ4gGKNspP.htm)|Gorum - Moderate Curse|Gorum - Malédiction modérée|libre|
 |[m33aOQij1BDcArN9.htm](boons-and-curses/m33aOQij1BDcArN9.htm)|Abadar - Major Boon|Abadar - Bénédiction majeure|libre|
 |[M78A7uQaa4Ig8pGU.htm](boons-and-curses/M78A7uQaa4Ig8pGU.htm)|Gorum - Major Curse|Gorum - Malédiction majeure|libre|
@@ -96,7 +90,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[NeAA1BHGGkRAmBDe.htm](boons-and-curses/NeAA1BHGGkRAmBDe.htm)|Abadar - Minor Curse|Abadar - Malédiction mineure|libre|
 |[nFrCY6tT2B8uxaO3.htm](boons-and-curses/nFrCY6tT2B8uxaO3.htm)|Erastil - Major Boon|Érastil - Bénédiction majeure|libre|
 |[NgwW7Wt2gO9SEwPX.htm](boons-and-curses/NgwW7Wt2gO9SEwPX.htm)|Gorum - Minor Curse|Gorum - Malédiction mineure|libre|
-|[nqOoUH4r8NEi1i2g.htm](boons-and-curses/nqOoUH4r8NEi1i2g.htm)|Calistra - Moderate Curse|Calistria - Malédiction modérée|libre|
+|[nqOoUH4r8NEi1i2g.htm](boons-and-curses/nqOoUH4r8NEi1i2g.htm)|Calistria - Moderate Curse|Calistria - Malédiction modérée|changé|
 |[OaUt41v2OrQkHpM4.htm](boons-and-curses/OaUt41v2OrQkHpM4.htm)|Abadar - Major Curse|Abadar - Malédiction majeure|libre|
 |[ParIWsb6B4fdhrHF.htm](boons-and-curses/ParIWsb6B4fdhrHF.htm)|Pharasma - Minor Curse|Pharasma - Malédiction mineure|libre|
 |[PoHos7qriDzQN7Gw.htm](boons-and-curses/PoHos7qriDzQN7Gw.htm)|Rovagug - Major Curse|Rovagug - Malédiction majeure|libre|
@@ -104,6 +98,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[py9v5HfCIzCoyC0C.htm](boons-and-curses/py9v5HfCIzCoyC0C.htm)|Lamashtu - Major Curse|Lamashtu - Malédiction majeure|libre|
 |[QGUFWuz9uF49EIhy.htm](boons-and-curses/QGUFWuz9uF49EIhy.htm)|Cayden Cailean - Major Curse|Cayden cailean - Malédiction majeure|libre|
 |[qhVfbZCxZJS8NmB3.htm](boons-and-curses/qhVfbZCxZJS8NmB3.htm)|Irori - Moderate Curse|Irori - Malédiction modérée|libre|
+|[qTmjEC528YnvPgXE.htm](boons-and-curses/qTmjEC528YnvPgXE.htm)|Iomedae - Moderate Boon|Iomedae - Bénédiction modérée|libre|
 |[QVEkEdxCnoGxMo9l.htm](boons-and-curses/QVEkEdxCnoGxMo9l.htm)|Zon-Kuthon - Moderate Boon|Zon Kuthon - Bénédiction modérée|libre|
 |[rA7ZM6WGnJNrWTmo.htm](boons-and-curses/rA7ZM6WGnJNrWTmo.htm)|Iomedae - Moderate Curse|Iomedae - Malédiction modérée|libre|
 |[S1qGyGG25YImRhmS.htm](boons-and-curses/S1qGyGG25YImRhmS.htm)|Saranrae - Moderate Boon|Sarenrae - Bénédicition modérée|libre|
@@ -111,7 +106,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sy5UyOvxitqX244D.htm](boons-and-curses/sy5UyOvxitqX244D.htm)|Asmodeus - Major Boon|Asmodéus - Bénédiction majeure|libre|
 |[tFnPBYcAZ0X3GbI5.htm](boons-and-curses/tFnPBYcAZ0X3GbI5.htm)|Lamashtu - Moderate Boon|Lamashtu - Bénédiction modérée|libre|
 |[tilqIbJZLqeknTYo.htm](boons-and-curses/tilqIbJZLqeknTYo.htm)|Shelyn - Minor Boon|Shélyn - Bénédiction mineure|libre|
-|[U7ZJfuPLQPyoaj4M.htm](boons-and-curses/U7ZJfuPLQPyoaj4M.htm)|Pharasma - Major Boon|Pharasma- Bénédiction majeure|libre|
+|[U7ZJfuPLQPyoaj4M.htm](boons-and-curses/U7ZJfuPLQPyoaj4M.htm)|Pharasma - Major Boon|Pharasma - Bénédiction majeure|libre|
 |[Up7nUIT42zwhgZf4.htm](boons-and-curses/Up7nUIT42zwhgZf4.htm)|Desna - Minor Curse|Desna - Malédiction mineure|libre|
 |[uVZrqxtOOutr4Ss9.htm](boons-and-curses/uVZrqxtOOutr4Ss9.htm)|Gozreh - Minor Boon|Gozreh - Bénédiction mineure|libre|
 |[V7FYIgphCCkYsEXF.htm](boons-and-curses/V7FYIgphCCkYsEXF.htm)|Saranrae - Moderate Curse|Sarenrae - Malédiction modérée|libre|
@@ -119,7 +114,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vU5leGDNAZSfPgTz.htm](boons-and-curses/vU5leGDNAZSfPgTz.htm)|Shelyn - Moderate Curse|Shélyn - Malédiction modérée|libre|
 |[VZodqtMF3qrMl8a7.htm](boons-and-curses/VZodqtMF3qrMl8a7.htm)|Saranrae - Minor Curse|Sarenrae - Bénédiction mineure|libre|
 |[wEqPbkQMuqlL2TPn.htm](boons-and-curses/wEqPbkQMuqlL2TPn.htm)|Irori - Major Curse|Irori - Malédiction majeure|libre|
-|[wIjqVRP0Hm2bIfyc.htm](boons-and-curses/wIjqVRP0Hm2bIfyc.htm)|Calistra - Minor Curse|Calistria - Malédiction mineure|libre|
+|[wIjqVRP0Hm2bIfyc.htm](boons-and-curses/wIjqVRP0Hm2bIfyc.htm)|Calistria - Minor Curse|Calistria - Malédiction mineure|changé|
 |[wlBiDpWvjKiw9k2z.htm](boons-and-curses/wlBiDpWvjKiw9k2z.htm)|Zon-Kuthon - Minor Boon|Zon-Kuthon - Bénédiction mineure|libre|
 |[wREsKC8CTifEyj6v.htm](boons-and-curses/wREsKC8CTifEyj6v.htm)|Norgorber - Major Curse|Norgorber - Malédiction majeure|libre|
 |[x1QrKuvZ2TbTvLUY.htm](boons-and-curses/x1QrKuvZ2TbTvLUY.htm)|Cayden Cailean - Moderate Curse|Cayden Cailean - Malédiction modérée|libre|
@@ -131,7 +126,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[XYM7v72doPR3LwgA.htm](boons-and-curses/XYM7v72doPR3LwgA.htm)|Gozreh - Minor Curse|Gozreh - Malédiction mineure|libre|
 |[y9DNpX7krUiOq0YI.htm](boons-and-curses/y9DNpX7krUiOq0YI.htm)|Asmodeus - Moderate Curse|Asmodéus - Malédiction modérée|libre|
 |[yoXU4CqZtzgKXdlB.htm](boons-and-curses/yoXU4CqZtzgKXdlB.htm)|Asmodeus - Major Curse|Asmodéus - Malédiction majeure|libre|
-|[yWASKzumwmv4TgSe.htm](boons-and-curses/yWASKzumwmv4TgSe.htm)|Calistra - Minor Boon|Calistria - Bénédiction mineure|libre|
+|[yWASKzumwmv4TgSe.htm](boons-and-curses/yWASKzumwmv4TgSe.htm)|Calistria - Minor Boon|Calistria - Bénédiction mineure|changé|
 |[z4GfG3GatAOELKyA.htm](boons-and-curses/z4GfG3GatAOELKyA.htm)|Desna - Major Curse|Desna - Malédiction majeure|libre|
 |[zoJjzir97Ie7tbp0.htm](boons-and-curses/zoJjzir97Ie7tbp0.htm)|Shelyn - Moderate Boon|Shélyn - Bénédiction modérée|libre|
 |[ZPlvqkjEv9a7J76T.htm](boons-and-curses/ZPlvqkjEv9a7J76T.htm)|Cayden Cailean - Major Boon|Cayden Cailean - Bénédiction majeure|libre|

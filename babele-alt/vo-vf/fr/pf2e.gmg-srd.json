@@ -12,14 +12,29 @@
             "description": "<p>Vous avez grandi dans ou à proximité d'une université, une academie ou un autre centre d'apprentissage.</p>\n<p>Ajoutez Connaissance universitaire, Connaissance généalogique, Connaissance des bibliothèques et Connaissance du métier de scribe à vos options d'historique.</p>"
         },
         {
+            "id": "Donjon",
+            "name": "Donjon (Donjon)",
+            "description": "<p>Vous êtes emprisonné par un rituel <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.spells-srd\" data-id=\"2CNqkt2s2IYkVnv6\"><i class=\"fas fa-suitcase\"></i>emprisonnement</a> de niveau 10. Cela utilise l'option prison et généralement vous vous retrouvez séquestré dans une région lointaine du monde. Vous perdez également tous vos objets. Vous ne piochez plus de carte.</p>"
+        },
+        {
             "id": "Coastal Community",
             "name": "Coastal Community (Communauté côtière)",
             "description": "<p> Vous avez grandi sur la rive d’un grand fleuve, dans une région très humide, au bord d’un océan ou sur une île.</p>\n<p>Ajoutez Connaissance de la pêche, Connaissance de la navigation maritime, et une Connaissance d’un type de créature marine particulière (comme Connaissance des requins) à vos options d’historique.</p>"
         },
         {
+            "id": "Fool",
+            "name": "Fool (Fou)",
+            "description": "<p>Vous perdez <a class=\"inline-roll roll\" title=\"1d10*100\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"1d10*100\"><i class=\"fas fa-dice-d20\"></i> 1d10*100</a> PX à moins de piocher deux autres cartes.</p>"
+        },
+        {
             "id": "Called Before Judges",
             "name": "Called Before Judges (Convoqué devant les juges)",
             "description": "Des informations fournies par ce personnage (intentionnellement ou non) vous ont mené à devoir vous défendre devant un groupe de bureaucrates ou de magistrats.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"KpFetnUqTiweypZk\"><i class=\"fas fa-suitcase\"></i>Bonne impression de groupe</a> à vos options d’historique.</p>"
+        },
+        {
+            "id": "Cosmopolitan City",
+            "name": "Cosmopolitan City (Cité cosmopolite)",
+            "description": "<p>Vous avez grandi dans une communauté sans ascendance prédominante. Cela peut avoir été a l'origine de tensions, mais cette diversité peut aussi avoir contribué à resserrer les liens existant entres les membres de cette communauté.</p>\n<p>Ajoutez Connaissance artistique, Connaissance des guildes, Connaissance juridiques et Connaissance de la pègre à vos options d'historique.</p>"
         },
         {
             "id": "Metropolis",
@@ -32,6 +47,11 @@
             "description": "<p>L’un de vos associés avait une telle soif de savoir qu’il ne pouvait jamais se satisfaire de réponses simples. À son contact, vous avez appris à apprécier les nombres, la géométrie, la logique, le travail assidu et la résolution de problèmes.</p>\n<p>Ajoutez une prime de caractéristique à l’Intelligence à vos options d’historique.</p>"
         },
         {
+            "id": "Comrade-in-Arms",
+            "name": "Comrade-in-Arms (Fréres d'armes)",
+            "description": "<p>Ce Personnage et vous avez autrefois servi dans la même armée et vous vous étes entraînés ensemble pour améliorer votre condition physique.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"W6Gl9ePmItfDHji0\"><i class=\"fas fa-suitcase\"></i> Assurance</a> associé a l'Athlétisme à vos options d'historique.</p>"
+        },
+        {
             "id": "Animal Helpers",
             "name": "Animal Helpers (Amis des animaux)",
             "description": "<p>Quand ce personnage et vous étiez jeunes, vous avez soigné ensemble des animaux malades</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"nowEaHgIyij7im8F\"><i class=\"fas fa-suitcase\"></i>Dressage animalier</a> à vos options d'historique.</p>"
@@ -42,6 +62,21 @@
             "description": "<p>Vous avez été admis dans une université où vous avez étudié de nombreux sujets et compétences. Vous étiez peut-étre un élève sérieux ou un tire-au-flanc. Dans tous les cas, cette université a été votre foyer pendant une bonne partie de votre jeunesse.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"BocFD2KV0qgUC76x\"><i class=\"fas fa-suitcase\"></i>Connaissance supplémentaire</a> à vos options d'historique. Si vous avez déja sélectionné Connaissance supplémentaire comme don de compétence, au lieu d'être qualifié en Connaissance, vous devenez qualifié, au choix, en Arcanes, Occultisme ou Société.</p>"
         },
         {
+            "id": "Key",
+            "name": "Key (Clef)",
+            "description": "<p>Gagnez une arme magique de niveau 12 ou supérieur. Le MJ détermine l'objet et les runes qu'il possède si nécessaire.</p>"
+        },
+        {
+            "id": "Dullard",
+            "name": "Dullard (Idiot)",
+            "description": "<p>Perdez immédiatement <a class=\"inline-roll roll\" title=\"Dullard Intelligence Decrease\" data-mode=\"roll\" data-flavor=\"Dullard Intelligence Decrease\" data-formula=\"1d4+1\"><i class=\"fas fa-dice-d20\"></i> 1d4+1</a> d'Intelligence. Vous pouvez alors piocher une carte supplémentaire et la carte de l'idiot disparaît à jamais.</p>"
+        },
+        {
+            "id": "Frontier",
+            "name": "Frontier (Confins)",
+            "description": "<p>Vous avez grandi aux confins d'une région habitée. il peut s'agir de collines isolées si vous êtes un nain, d'un ranch ou d'une ferme si vous êtes un humain, ou d'un autre type de régions isolées.</p>\n<p>Ajoutez Connaissance agricole, Connaissance de la pêche, Connaissance de la chasse, Connaissance du métier d'éclaireur et une Connaissance associée à un type de créatures qui menace régulièrement votre patrie (comme Connaissance des géants) à vos options d'historique.</p>"
+        },
+        {
             "id": "Abandoned in a Distant Land",
             "name": "Abandoned in a Distant Land (Abandonné dans un pays lointain)",
             "description": "<p>Vous avez été victime de malchance (vous êtes parti vous promener et vous vous êtes perdu lors d’un voyage ou avez été recruté de force sur un navire) et vous avez dû survivre pendant quelque temps dans un pays lointain. Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"P9HCz0uR6xPHuw72\"><i class=\"fas fa-suitcase\"></i> Polyglotte</a> à vos options d’historique.</p>"
@@ -50,6 +85,11 @@
             "id": "The Fiend",
             "name": "The Fiend (Le fiélon)",
             "description": "<p>Vous avez eu affaire à un fiélon ou avez été possédé par un fiélon, qui vous a accordé du pouvoir quand vous en aviez besoin. Une part de lui se trouve encore en vous et stimule vos pulsions destructrices.</p>\n<p>Ajoutez une prime de caractéristique à la Force à vos options d’historique.</p>"
+        },
+        {
+            "id": "Died",
+            "name": "Died (Mort)",
+            "description": "<p>Vous êtes mort, ou vous êtes passé à deux doigts de trépasser et vous vous êtes trouvé à la frontière entre la vie et la mort.</p>\n<p>Ajoutez le don <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"I0BhPWqYf1bbzEYg\"><i class=\"fas fa-suitcase\"></i>Dur à cuire</a> à vos options d'historique. Si vous sélectionnez ce don au lieu d'un don de compétence, vous n'êtes pas qualifié dans une compétence d'historique.</p>"
         },
         {
             "id": "Attained a Magical Gift",
@@ -85,6 +125,16 @@
             "id": "Ruin",
             "name": "Ruin (Ruine)",
             "description": "<p>Vous perdez toutes vos possessions non magiques y compris vos objets de valeur et vos propriétés.</p>"
+        },
+        {
+            "id": "Homelessness",
+            "name": "Homelessness (Vagabondage)",
+            "description": "<p>Vous avez tous les deux vécu dans la rue et vous avez appris à ce personnage de précieuses astuces pour survivre.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"X2jGFfLU5qI5XVot\"><i class=\"fas fa-suitcase\"></i> Savoir urbain</a> à vos options d'historique.</p>"
+        },
+        {
+            "id": "Itinerant",
+            "name": "Itinerant (Itinérant)",
+            "description": "<p>Vous n'avez jamais eu de foyer à proprement parler. Vous avez peut-être grandi dans une caravane nomade, avec un groupe de bateleurs itinérants, ou une bande de contrebandiers</p>\n<p>Ajoutez Connaissance du cirque, Connaissance de la voyance, Connaissance ludique, Connaissance du travail et Connaissance de la Pègre à vos options d'historique.</p>"
         },
         {
             "id": "Rogue",
@@ -172,6 +222,16 @@
             "description": "<p>Un ami ou un membre de votre famille en qui vous aviez une confiance absolue vous a trahi.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"Dvz54d6aPhjsmUux\"><i class=\"fas fa-suitcase\"></i>Détecteur de mensonges</a> à vos options d'historique.</p>"
         },
         {
+            "id": "Desperate Intimidation",
+            "name": "Desperate Intimidation (Intimidation désespérée)",
+            "description": "<p>Ce personnage et vous avez mis en déroute des pirates ou des esclavagistes qui cherchaient à vous capturer.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"gUqvezs2zzoTXFAI\"><i class=\"fas fa-suitcase\"></i> Contraindre un groupe</a> à vos options d'historique.</p>"
+        },
+        {
+            "id": "Had Your First Kill",
+            "name": "Had Your First Kill (Premier meurtre)",
+            "description": "<p>Vos mains ont été tachées de sang dans votre jeunesse, quand vous avez dû prendre une vie pour la première fois. Vous possédez encore l’arme que vous avez utilisée à l’époque : ajoutez une arme ordinaire d’une valeur de 15 po ou moins à vos options d’historique.</p>\n<p>Si vous choisissez cette option à la place d’un don de compétence, vous devenez qualifié en Athlétisme.</p>"
+        },
+        {
             "id": "Patron of the Arts",
             "name": "Patron of the Arts (Bienfaiteur des arts)",
             "description": "<p> Ce personnage vous a encouragé à exceller dans votre domaine de prédilection, allant jusqu’à vous donner de quoi vivre lors des périodes difficiles.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"lFwfUvH2708rl6i3\"><i class=\"fas fa-suitcase\"></i>Artiste virtuose</a> à vos options d’historique.</p>"
@@ -215,6 +275,11 @@
             "id": "Magician",
             "name": "Magician (Magicien)",
             "description": "<p>Ce personnage vous a soutenu lors de votre brève incursion dans le monde de la prestidigitation, qui était pour vous une première étape avant d’apprendre la magie véritable, ou simplement un moyen de développer l’agilité de vos doigts.</p>\n<p>Ajoutez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"hVZbnsDuXihggylt\"><i class=\"fas fa-suitcase\"></i>Vol subtil</a> à vos options d’historique.</a>"
+        },
+        {
+            "id": "Front Lines",
+            "name": "Front Lines (Ligne de Front)",
+            "description": "<p>Vous avez grandi dans une région déchirée par la guerre. Même si vous n’avez pas pris part aux combats personnellement, ceux-ci n’étaient jamais loin.</p>\n<p>Ajoutez Connaissance de l’héraldique, Connaissance du métier d’éclaireur et Connaissance de la guerre à vos options d’historique.</p>"
         },
         {
             "id": "Relationship Ender",

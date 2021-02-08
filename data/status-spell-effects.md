@@ -1,11 +1,11 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 32
- * **changé**: 6
- * **aucune**: 138
+ * **libre**: 33
+ * **changé**: 5
+ * **aucune**: 142
 
 
-Dernière mise à jour: 2021-01-30 16:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-07 20:50 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -37,6 +37,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-FNTTeJHiK6iOjrSq.htm](spell-effects/01-FNTTeJHiK6iOjrSq.htm)|Effect: Draconic Blood Magic|
 |[01-GnWkI3T3LYRlm3X8.htm](spell-effects/01-GnWkI3T3LYRlm3X8.htm)|Spell Effect: Magic Weapon|
 |[01-KVbS7AbhQdeuA0J6.htm](spell-effects/01-KVbS7AbhQdeuA0J6.htm)|Effect: Genie Blood Magic (Target)|
+|[01-Lb4q2bBAgxamtix5.htm](spell-effects/01-Lb4q2bBAgxamtix5.htm)|Effect: Treat Wounds Immunity|
 |[01-n1vhmOd7aNiuR3nk.htm](spell-effects/01-n1vhmOd7aNiuR3nk.htm)|Effect: Diabolic Blood Magic (Self)|
 |[01-Nv70aqcQgCBpDYp8.htm](spell-effects/01-Nv70aqcQgCBpDYp8.htm)|Effect: Shadow Blood Magic (Perception)|
 |[01-OqH6IaeOwRWkGPrk.htm](spell-effects/01-OqH6IaeOwRWkGPrk.htm)|Effect: Shadow Blood Magic (Stealth)|
@@ -49,6 +50,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-yfbP64r4a9e5oyli.htm](spell-effects/01-yfbP64r4a9e5oyli.htm)|Effect: Demonic Blood Magic (Target)|
 |[01-z3uyCMBddrPK5umr.htm](spell-effects/01-z3uyCMBddrPK5umr.htm)|Effect: Rage|
 |[02-7UL8belWmo7U5YGM.htm](spell-effects/02-7UL8belWmo7U5YGM.htm)|Effect: Darkvision Elixir (Lesser)|
+|[02-LXf1Cqi1zyo4DaLv.htm](spell-effects/02-LXf1Cqi1zyo4DaLv.htm)|Spell Effect: Shrink|
+|[02-sPCWrhUHqlbGhYSD.htm](spell-effects/02-sPCWrhUHqlbGhYSD.htm)|Spell Effect: Enlarge|
 |[03-BV8RPntjc9FUzD3g.htm](spell-effects/03-BV8RPntjc9FUzD3g.htm)|Effect: Drakeheart Mutagen (Moderate)|
 |[03-fUrZ4xcMJz0CfTyG.htm](spell-effects/03-fUrZ4xcMJz0CfTyG.htm)|Effect: Juggernaut Mutagen (Moderate)|
 |[03-l9HRQggofFGIxEse.htm](spell-effects/03-l9HRQggofFGIxEse.htm)|Spell Effect: Heroism|
@@ -61,6 +64,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03-xFQRiVU6h8EA6Lw9.htm](spell-effects/03-xFQRiVU6h8EA6Lw9.htm)|Effect: Bestial Mutagen (Moderate)|
 |[03-yrbz0rZzp8aZEqbv.htm](spell-effects/03-yrbz0rZzp8aZEqbv.htm)|Effect: Serene Mutagen (Moderate)|
 |[03-ztxW3lBPRcesF7wK.htm](spell-effects/03-ztxW3lBPRcesF7wK.htm)|Effect: Cognitive Mutagen (Moderate)|
+|[04-41WThj17MZBXTO2X.htm](spell-effects/04-41WThj17MZBXTO2X.htm)|Spell Effect: Enlarge (Heightened 4th)|
 |[04-4tepFOJLhZSelPoa.htm](spell-effects/04-4tepFOJLhZSelPoa.htm)|Effect: Dragon Turtle Scale|
 |[04-AMhUb42NAJ1aisZp.htm](spell-effects/04-AMhUb42NAJ1aisZp.htm)|Effect: Stone Fist Elixir|
 |[04-bcxVvIbuZWOvsKcA.htm](spell-effects/04-bcxVvIbuZWOvsKcA.htm)|Effect: Darkvision Elixir (Moderate)|
@@ -178,7 +182,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-lNWACCNe9RYgaFxb.htm](spell-effects/01-lNWACCNe9RYgaFxb.htm)|Effect: Cheetah's Elixir (Lesser)|Effet : Élixir du Guépard (Inférieur)|libre|
 |[01-lPRuIRbu0rHBkoKY.htm](spell-effects/01-lPRuIRbu0rHBkoKY.htm)|Effect: Elixir of Life (Minor)|Effet : Élixir de vie (Mineur)|libre|
 |[01-qkwb5DD3zmKwvbk0.htm](spell-effects/01-qkwb5DD3zmKwvbk0.htm)|Spell Effect: Mage Armor|Effet : Armure du mage|libre|
-|[01-uBJsxCzNhje8m8jj.htm](spell-effects/01-uBJsxCzNhje8m8jj.htm)|Effect: Panache|Effet : Panache|changé|
+|[01-uBJsxCzNhje8m8jj.htm](spell-effects/01-uBJsxCzNhje8m8jj.htm)|Effect: Panache|Effet : Panache|libre|
 |[01-VCypzSu659eC6jNi.htm](spell-effects/01-VCypzSu659eC6jNi.htm)|Effect: Eagle Eye Elixir (Lesser)|Effet : Élixir d'œil du faucon (Inférieur)|libre|
 |[02-2C1HuKDQDGFZuv7l.htm](spell-effects/02-2C1HuKDQDGFZuv7l.htm)|Effect: Boulderhead Bock|Effet : Bock têtederoc|libre|
 |[02-Cxa7MdgMCUoMqbKm.htm](spell-effects/02-Cxa7MdgMCUoMqbKm.htm)|Effect: Bronze Bull Pendant|Effet : Pendentif de taureau de bronze|libre|
