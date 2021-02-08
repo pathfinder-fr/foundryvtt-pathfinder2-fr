@@ -1,12 +1,20 @@
 # État de la traduction (hazards)
 
+ * **aucune**: 2
  * **officielle**: 30
  * **libre**: 16
 
 
-Dernière mise à jour: 2021-01-30 16:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-07 20:50 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[0dg9YrjsDi6Ap3jF.htm](hazards/0dg9YrjsDi6Ap3jF.htm)|Web Lurker Deadfall|
+|[Or0jjL8xS3GyiMq0.htm](hazards/Or0jjL8xS3GyiMq0.htm)|Web Lurker Noose|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

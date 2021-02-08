@@ -12,6 +12,11 @@
             "description": "<p><strong>Bénédiction mineure</strong> le contact de Lamashtu a fait muter une partie de votre corps.</p>\n<p>Vous obtenez soit une attaque à mains nues qui inflige 1d6 dégâts, soit une attaque qui inflige 1d4 dégâts et possède les traits finesse et agile.</p>\n<p>L'attaque inflige des dégâts contondants, perforants ou tranchants selon la mutation.</p>\n<p>Si l'attaque à mains nues remplace un membre, vous pouvez toujours utiliser le membre pour remplir ses fonctions originelles. Lamashtu choisit la forme et la fonction de votre mutation.</p>"
         },
         {
+            "id": "Iomedae - Moderate Boon",
+            "name": "Iomedae - Moderate Boon",
+            "description": "<p><strong>Bénédiction modérée (Usage unique)</strong> Voter cœur vat d'une ardeur déterminée.</p>\n<p>Une fois, Iomedae met un terme à tous les effet négatifs qui vous affectent, à moins qu'elles n'émanent d'un artefact, d'une divinité ou du'une source de puissance similaire ; elle restaure aussi tous les Points de vie perdus et remplit vos sorts, vos points de focalisation ainsi que vos autres ressources quotidiennes.</p>"
+        },
+        {
             "id": "Desna - Major Boon",
             "name": "Desna - Major Boon",
             "description": "<p><strong>Bénédiction majeure</strong> Desna vous accorde un nuage dansant de lumière qui forme une paire de merveilleuses ailes de papillon.</p>\n<p>Ces ailes vous accordent une Vitesse de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Vol} de 12 m et émettent une lumière faible avec une portée de 6 m.</p>"
@@ -37,8 +42,8 @@
             "description": "<p><strong>Malédiction modérée</stong> Irori vous défie de vous adapter à l'adversité en vue de vous perfectionner.</p>\n<p>Vous êtes accablé comme si vous portiez des poids lourds, devenant @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2 et @Compendium[pf2e.conditionitems.D5mg6Tc7Jzrj6ro7]{Surchargé} jusqu'à ce que vous ayiez accompli une tâche ardue au choix d'Irori.</p>"
         },
         {
-            "id": "Calistra - Minor Curse",
-            "name": "Calistra - Minor Curse",
+            "id": "Calistria - Minor Curse",
+            "name": "Calistria - Minor Curse",
             "description": "<p><strong>Malédiction mineure</strong> Lorsqu'une nouvelle personne cherche la vengeance contre vous, vous subissez une piqûre douloureuse et êtes affligé par du @Compendium[pf2e.equipment-srd.aBOPYlfHAcXUmhF7]{venin de Guêpe géante} au stade 1.</p>"
         },
         {
@@ -97,8 +102,8 @@
             "description": "<p><strong>Bénédiction majeure</strong> Gorum vous nourrit du zèle de ses combattants invincibles, vous permetttant de tirer de votre propre vie la force de poursuivre le combat sans tomber.</p>\n<p>Lorsque vous devriez être réduit à 0 Points de Vie, vous êtes à la place soigné de la moitié de votre nombre de Points de Vie maximum et devenez @Compendium[pf2e.conditionspf2e.3uh1r86TzbQvosxv]{Condamné} 1 (ou votre condition Condamné augmente de 1).</p>"
         },
         {
-            "id": "Calistra - Major Boon",
-            "name": "Calistra - Major Boon",
+            "id": "Calistria - Major Boon",
+            "name": "Calistria - Major Boon",
             "description": "<p><strong>Bénédiction Majeure</strong> Calistria vous guide vers la vengeance.</p>\n<p>Vous connaissez toujours la direction et la distance vers la créature la plus proche qui vous a fait du tort et qui est restée impunie jusqu'à présent.</p>"
         },
         {
@@ -257,8 +262,8 @@
             "description": "<p><strong>Malédiction mineure</strong> Les flammes d'Asmodéus vous brûlent avec une grande malice. Vous obtenez une faiblesse au feu 5.</p>"
         },
         {
-            "id": "Calistra - Moderate Curse",
-            "name": "Calistra - Moderate Curse",
+            "id": "Calistria - Moderate Curse",
+            "name": "Calistria - Moderate Curse",
             "description": "<p><strong>Malédiction modérée</strong> Les gens réagissent comme si vous les insultiez, même lorsquee vous tenez une conversation normale.</p>\n<p>Lorsque vous essayez de @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression}, le résultat obtenu est d'un degré inférieur au résultat de votre jet. Si vous conversez avec quelqu'un pendant une assez longue période de temps mais n'essayez pas de  Faire bonne impression, vous l'insultez toujours et subissez l'effet d'un échec critique pour Faire bonne impression.</p>"
         },
         {
@@ -402,8 +407,8 @@
             "description": "<p><strong>Bénédiction mineure (Unique utilisation)</strong> Abadar prévient ses favoris contre ceux qui pourrait bénéficier d'un avantage déloyal. Une fois, lorsque quelqu'un obtient une réussite sur un test de Duperie pour vous Mentir malicieusement à vous et vous seul, il obtient un échec critique à la place.</p>\n<p>Abadar choisit typiquement d'accorder cette bénédiction en réponse à un mensonge aux conséquences extrêmes.</p>"
         },
         {
-            "id": "Calistra - Minor Boon",
-            "name": "Calistra - Minor Boon",
+            "id": "Calistria - Minor Boon",
+            "name": "Calistria - Minor Boon",
             "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Calistria sourit zux duperies les plus risquées.</p>\n<p>Une fois, lorsque vous obtenez un échec à un test pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}, vous obtenez un succès critique à la place. Calistria n'accorde typiquement cette bénédiction que sur un mensonge aux importantes conséquences.</p>"
         },
         {
@@ -522,8 +527,8 @@
             "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> À ceux qui parviennent à destination, Desna fait don d'un profond sommeil.</p>\n<p>Une fois, après votre repos, vous récupérez la totalité de vos points de vie, mettez un terme à toutes les conditions négatives et vous vous libérez de n'importe quelle malédiction ou maladie.</p>"
         },
         {
-            "id": "Calistra - Major Curse",
-            "name": "Calistra - Major Curse",
+            "id": "Calistria - Major Curse",
+            "name": "Calistria - Major Curse",
             "description": "<p><strong>Malédiction majeure</strong> Vous avez fait du tort à ceux qui sont incapables d'obtenir une vengeance pour eux-mêmes et Calistria vous maudit en accordant à leur vengeance une vie propre.</p>\n<p>Lorsqu'une autre créature imagine sa vengeance sur vous mais ne peut la mettre en œuvre car vous êtes trop puissant, avez trop d'influence ou que vous êtes autrement intouchable une créature qui a approximativement votre nieau se manifeste à partir de leur imagination et accomplit leur revanche désirée.</p>\n<p>Une fois que la vengeance est accomple ou que la manifestation est détruite, la créature conjurée s'évanouit de l'existence.</p>"
         },
         {
@@ -592,8 +597,8 @@
             "description": "<p><strong>Bénédiction mineure</strong> Vous vous présentez toujours sur votre 31. Vos habits et votre personne êtes toujours propres et jamais froissé, le métal de votre lame et de votre armure brille et ne ternit pas.</p>\n<p>cela n'empêche pas d'être exposé aux maladies ou autres affections via la fièvre mais cela vous protège autant que si vous vous étiez lavé minutieusement comme il faut.</p>"
         },
         {
-            "id": "Calistra - Moderate Boon",
-            "name": "Calistra - Moderate Boon",
+            "id": "Calistria - Moderate Boon",
+            "name": "Calistria - Moderate Boon",
             "description": "<p><strong>Bénédiction modérée</strong> Une guèpe de  cm de long vous trouve et vous adopte. Elle vous sert de familier tant que vous restez dans les petits papiers de Calistria. La guêpe possède toujours les cpacités de familier fouisseur et volant.</p>"
         }
     ],
