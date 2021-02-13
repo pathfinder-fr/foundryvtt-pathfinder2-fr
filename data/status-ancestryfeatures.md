@@ -1,11 +1,11 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 21
- * **officielle**: 16
- * **changé**: 60
+ * **libre**: 32
+ * **officielle**: 17
+ * **changé**: 48
 
 
-Dernière mise à jour: 2021-02-07 20:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-13 15:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -14,23 +14,23 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[feat-00-qJD3PJdoSXFrZEwr.htm](ancestryfeatures/feat-00-qJD3PJdoSXFrZEwr.htm)|Sharp Beak|Bec aiguisé|libre|
 |[feat-00-y1EmCv2cEb5hXBwx.htm](ancestryfeatures/feat-00-y1EmCv2cEb5hXBwx.htm)|Keen Eyes|Yeux perçants|officielle|
-|[feat-01-0vaeOoECfVD5EGbq.htm](ancestryfeatures/feat-01-0vaeOoECfVD5EGbq.htm)|Warrenbred Hobgoblin|Hobgobelin Terrierné|changé|
+|[feat-01-0vaeOoECfVD5EGbq.htm](ancestryfeatures/feat-01-0vaeOoECfVD5EGbq.htm)|Warrenbred Hobgoblin|Hobgobelin Terrierné|libre|
 |[feat-01-1dYDucCIaZpCJqBc.htm](ancestryfeatures/feat-01-1dYDucCIaZpCJqBc.htm)|Arctic Elf|Elfe arctique|officielle|
-|[feat-01-1lv7RMp7t5iqeUFT.htm](ancestryfeatures/feat-01-1lv7RMp7t5iqeUFT.htm)|Hunting Catfolk|Homme-félin chasseur|changé|
-|[feat-01-1oLMOmLpurfWTTff.htm](ancestryfeatures/feat-01-1oLMOmLpurfWTTff.htm)|Aasimar|Aasimar|changé|
-|[feat-01-1wVDYY9Wue0G5R9Q.htm](ancestryfeatures/feat-01-1wVDYY9Wue0G5R9Q.htm)|Whisper Elf|Elfe des murmures|changé|
+|[feat-01-1lv7RMp7t5iqeUFT.htm](ancestryfeatures/feat-01-1lv7RMp7t5iqeUFT.htm)|Hunting Catfolk|Homme-félin chasseur|libre|
+|[feat-01-1oLMOmLpurfWTTff.htm](ancestryfeatures/feat-01-1oLMOmLpurfWTTff.htm)|Aasimar|Aasimar|libre|
+|[feat-01-1wVDYY9Wue0G5R9Q.htm](ancestryfeatures/feat-01-1wVDYY9Wue0G5R9Q.htm)|Whisper Elf|Elfe des murmures|officielle|
 |[feat-01-32oX6hHUY6K8N70Q.htm](ancestryfeatures/feat-01-32oX6hHUY6K8N70Q.htm)|Charhide Goblin|Gobelin peaud'charbon|officielle|
-|[feat-01-35k2aujXYvqUCSS1.htm](ancestryfeatures/feat-01-35k2aujXYvqUCSS1.htm)|Cavern Kobold|Kobold cavernicole|changé|
+|[feat-01-35k2aujXYvqUCSS1.htm](ancestryfeatures/feat-01-35k2aujXYvqUCSS1.htm)|Cavern Kobold|Kobold cavernicole|libre|
 |[feat-01-5CqsBKCZuGON53Hk.htm](ancestryfeatures/feat-01-5CqsBKCZuGON53Hk.htm)|Forge Dwarf|Nain des forges|officielle|
 |[feat-01-6dMd4JG0ndrObEUj.htm](ancestryfeatures/feat-01-6dMd4JG0ndrObEUj.htm)|Winter Catfolk|Homme-félin hivernal|libre|
 |[feat-01-6rIIsZg3tOyIU3g3.htm](ancestryfeatures/feat-01-6rIIsZg3tOyIU3g3.htm)|Frilled Lizardfolk|Homme-lézard à colerette|changé|
 |[feat-01-6xxXtgj3fcCi53lt.htm](ancestryfeatures/feat-01-6xxXtgj3fcCi53lt.htm)|Sandstrider Lizardfolk|Homme-lézard arpenteur des sables|libre|
-|[feat-01-7p9HtLzWBHc18JDW.htm](ancestryfeatures/feat-01-7p9HtLzWBHc18JDW.htm)|Deep Rat|Rat des profondeurs|changé|
-|[feat-01-7vHLPleFpSqKAjWG.htm](ancestryfeatures/feat-01-7vHLPleFpSqKAjWG.htm)|Stormtossed Tengu|Tengu battu par les vents|changé|
+|[feat-01-7p9HtLzWBHc18JDW.htm](ancestryfeatures/feat-01-7p9HtLzWBHc18JDW.htm)|Deep Rat|Rat des profondeurs|libre|
+|[feat-01-7vHLPleFpSqKAjWG.htm](ancestryfeatures/feat-01-7vHLPleFpSqKAjWG.htm)|Stormtossed Tengu|Tengu battu par les vents|libre|
 |[feat-01-85tRKGZUTFa6pKpG.htm](ancestryfeatures/feat-01-85tRKGZUTFa6pKpG.htm)|Oathkeeper Dwarf|Nain gardeserment|changé|
 |[feat-01-87h0jepQuzIbN7jN.htm](ancestryfeatures/feat-01-87h0jepQuzIbN7jN.htm)|Fungus Leshy|Léchi fongique|changé|
-|[feat-01-8Gsa8KFsHizEwSHU.htm](ancestryfeatures/feat-01-8Gsa8KFsHizEwSHU.htm)|Badlands Orc|Orque des badlands|changé|
-|[feat-01-8wGUh9RsMUamOKjh.htm](ancestryfeatures/feat-01-8wGUh9RsMUamOKjh.htm)|Tailed Goblin|Gobelin à queue|changé|
+|[feat-01-8Gsa8KFsHizEwSHU.htm](ancestryfeatures/feat-01-8Gsa8KFsHizEwSHU.htm)|Badlands Orc|Orc des badlands|libre|
+|[feat-01-8wGUh9RsMUamOKjh.htm](ancestryfeatures/feat-01-8wGUh9RsMUamOKjh.htm)|Tailed Goblin|Gobelin à queue|libre|
 |[feat-01-a6F2WjYU8D0suT8T.htm](ancestryfeatures/feat-01-a6F2WjYU8D0suT8T.htm)|Razortooth Goblin|Gobelin Dent’rasoir|officielle|
 |[feat-01-AzGJN1wwLFaLJIeo.htm](ancestryfeatures/feat-01-AzGJN1wwLFaLJIeo.htm)|Aquatic Adaptation|Adaptation aquatique|changé|
 |[feat-01-bLhIBwqdjTiVJ5qm.htm](ancestryfeatures/feat-01-bLhIBwqdjTiVJ5qm.htm)|Clawed Catfolk|Homme-félin griffu|libre|
@@ -105,7 +105,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-wNnsjird4OQe0s6p.htm](ancestryfeatures/feat-01-wNnsjird4OQe0s6p.htm)|Gourd Leshy|Léchi calebasse|changé|
 |[feat-01-XeXWsvcWU3Zaj5WC.htm](ancestryfeatures/feat-01-XeXWsvcWU3Zaj5WC.htm)|Chameleon Gnome|Gnome Caméléon|changé|
 |[feat-01-xtRIYizCjLg9qe1Z.htm](ancestryfeatures/feat-01-xtRIYizCjLg9qe1Z.htm)|Wildwood Halfling|Halfelin bois-sauvage|officielle|
-|[feat-01-yL6944LrPo2HNdEJ.htm](ancestryfeatures/feat-01-yL6944LrPo2HNdEJ.htm)|Ancient-Blooded Dwarf|Nain sang-ancien|changé|
-|[feat-01-z4cvqtpkkAYoFpHa.htm](ancestryfeatures/feat-01-z4cvqtpkkAYoFpHa.htm)|Bloodhound Shoony|Shoony limier|changé|
+|[feat-01-yL6944LrPo2HNdEJ.htm](ancestryfeatures/feat-01-yL6944LrPo2HNdEJ.htm)|Ancient-Blooded Dwarf|Nain sang-ancien|libre|
+|[feat-01-z4cvqtpkkAYoFpHa.htm](ancestryfeatures/feat-01-z4cvqtpkkAYoFpHa.htm)|Bloodhound Shoony|Shoony limier|libre|
 |[feat-01-zVf0Hlp5xG0Q7kmc.htm](ancestryfeatures/feat-01-zVf0Hlp5xG0Q7kmc.htm)|Skilled Heritage|Héritage talentueux|officielle|
-|[feat-01-ZZKZkeSP5TuT62IA.htm](ancestryfeatures/feat-01-ZZKZkeSP5TuT62IA.htm)|Duskwalker|Crépusculaire|changé|
+|[feat-01-ZZKZkeSP5TuT62IA.htm](ancestryfeatures/feat-01-ZZKZkeSP5TuT62IA.htm)|Duskwalker|Crépusculaire|libre|

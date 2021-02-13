@@ -1,5 +1,26 @@
 {
     "label": "Bestiaire 2",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Zomok",
+            "name": "Zomok",
+            "description": "De puissants dragons-plantes, des zomoks rôdent dans les bois, défendant leurs maisons contre les forces destructrices tout en guérissant et en restaurant les bois après les catastrophes naturelles et les intrus ravageurs. L'apparence des zomoks varie en fonction des saisons : ils deviennent vert au printemps et en été, puis prennent des couleurs automnales à l'automne et se décomposent en brun en hiver. Si les zomoks peuvent avaler leurs ennemis, et le font souvent, ils n'ont pas vraiment besoin de manger. Toute créature qu'ils avalent est généralement laissée derrière eux comme un cadavre mutilé la prochaine fois que le zomok se déplace grâce à sa capacité <em>Forest Step<em>. Les zomoks atteignent une longueur de 35 à 40 pieds et pèsent 30 tonnes.<br /><br />"
+        },
+        {
+            "id": "Leydroth",
+            "name": "Leydroth",
+            "description": "Dans les temps anciens, une cabale de primalistes imprégnait un amalgame de bêtes d'une puissance surnaturelle et d'une haine de la magie elle-même, espérant obtenir une arme puissante à utiliser contre les mystérieux lanceurs de sorts. Efficace au-delà de toute attente, les premiers leydraths se sont libérés et se sont retournés contre leurs créateurs. Pire encore, les leydraths se sont reproduits, et ces prédateurs solitaires ont survécu longtemps à leurs créateurs.<br /><br />Les Leydraths ressemblent à des félins déformés et apathiques, avec des cornes à nombreuses ramifications qui poussent à l'arrière de leur tête. Leurs membres épais et musclés se terminent par des griffes brillantes.<br /><br />"
+        },
+        {
+            "id": "Purrodaemon",
+            "name": "Purrodaemon",
+            "description": "Peu de créatures incarnent l'ampleur des effusions de sang et des pertes de vies humaines aussi profondément que les purrodémons, les diacres de guerre. Ces démons humanoïdes géants sont vêtus d'une armure noire, impie, et des armes percent leur chair à chaque ouverture. Mais loin d'être des blessures, ces armes sont l'arsenal du purrodémon. Un purrodémon peut, avec une rapidité effrayante et une facilité nauséabonde, extraire une arme de sa propre chair comme s'il tirait une épée d'un fourreau, et leur sang est tellement souillé par le mal que les armes qui en sont imprégnées deviennent de puissants outils de guerre.<br /><br />"
+        },
+        {
+            "id": "Hadrosaurid",
+            "name": "Hadrosaurid",
+            "description": "Les hadrosaures sont un large groupe de dinosaures herbivores qui partagent un museau plat caractéristique rempli de rangées de dents grinçantes bien adaptées à l'alimentation de la végétation. Également appelés \"dinosaures à bec de canard\" en raison de la forme inhabituelle de leurs mâchoires, les Hadrosaures sont des créatures encombrantes qui peuvent rivaliser avec un éléphant en termes de taille, bien qu'ils aient tendance à être beaucoup moins agressifs et à s'enfuir lorsqu'ils sont confrontés à un danger plutôt que de s'obstiner à tenir bon. De nombreuses espèces d'Hadrosaures ont des crêtes de forme unique sur la tête qui donnent à chaque espèce son profil inhabituel, ce qui les rend facilement reconnaissables, même pour un observateur amateur de dinosaures.<br /><br />Les géants et autres créatures de grande taille sont connus pour domestiquer les hadrosaures afin qu'ils servent de bétail. Malgré leur capacité à sprinter rapidement, ils ne font pas de montures particulièrement viables en raison de leur nature timide, mais dans un grand groupe, un rassemblement paniqué d'hadrosaures peut faire de gros dégâts en piétinant.<br /><br />Un Hadrosaure peut marcher sur de courtes distances sur ses pattes arrière, mais il préfère brouter et se déplacer à quatre pattes. L'Hadrosaure typique mesure de 20 à 30 pieds de long et peut peser jusqu'à 10 000 livres.<br /><br />"
+        }
+    ],
     "mapping": {}
 }

@@ -1,9 +1,10 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **aucune**: 335
+ * **aucune**: 331
+ * **libre**: 4
 
 
-Dernière mise à jour: 2021-02-07 20:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-13 15:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -124,10 +125,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fwjDIGzmuEJN81Qq.htm](pathfinder-bestiary-2/fwjDIGzmuEJN81Qq.htm)|Trollhound|
 |[g1htYgARxNKxc7MV.htm](pathfinder-bestiary-2/g1htYgARxNKxc7MV.htm)|Giant Slug|
 |[g41X4b3q2iDMLRt3.htm](pathfinder-bestiary-2/g41X4b3q2iDMLRt3.htm)|Ravener|
-|[GBBVBEAsznP8A5gv.htm](pathfinder-bestiary-2/GBBVBEAsznP8A5gv.htm)|Leydroth|
-|[Ge5Q5I7TTksf7QyN.htm](pathfinder-bestiary-2/Ge5Q5I7TTksf7QyN.htm)|Zomok|
-|[GfJLotTcrZmn6tay.htm](pathfinder-bestiary-2/GfJLotTcrZmn6tay.htm)|Purrodaemon|
-|[GnKay44MFMZkqXRi.htm](pathfinder-bestiary-2/GnKay44MFMZkqXRi.htm)|Hadrosaurid|
 |[gOjrie9YndQPomU8.htm](pathfinder-bestiary-2/gOjrie9YndQPomU8.htm)|Sand Sentry|
 |[GsrqCDf0Dc9PisEt.htm](pathfinder-bestiary-2/GsrqCDf0Dc9PisEt.htm)|Violet Fungus|
 |[gVNKimslRe1k2hdV.htm](pathfinder-bestiary-2/gVNKimslRe1k2hdV.htm)|Vaspercham|
@@ -350,3 +347,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[GBBVBEAsznP8A5gv.htm](pathfinder-bestiary-2/GBBVBEAsznP8A5gv.htm)|Leydroth|Leydrath|libre|
+|[Ge5Q5I7TTksf7QyN.htm](pathfinder-bestiary-2/Ge5Q5I7TTksf7QyN.htm)|Zomok|Zomok|libre|
+|[GfJLotTcrZmn6tay.htm](pathfinder-bestiary-2/GfJLotTcrZmn6tay.htm)|Purrodaemon|Purrodémon|libre|
+|[GnKay44MFMZkqXRi.htm](pathfinder-bestiary-2/GnKay44MFMZkqXRi.htm)|Hadrosaurid|Hadrosaure|libre|

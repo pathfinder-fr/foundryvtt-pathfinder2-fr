@@ -4,7 +4,7 @@
         {
             "id": "Whisper Elf",
             "name": "Whisper Elf",
-            "description": "<p>Votre ouïe surdéveloppée vous permet de détecter les bruits les plus infimes. Tant que vous pouvez entendre normalement, vous pouvez utiliser l’action <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"BlAOM2X92SI6HMtJ\">Chercher</a> pour sentir la présence de créatures <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"VRSef5y1LmL2Hkjf\">non détectées</a> qui se trouvent dans un cône de 18 m au lieu d’un cône de 9 m. Quand vous utilisez l’action Chercher, vous bénéficiez également d’un bonus de circonstances de +2 pour localiser des créatures non détectées que vous pouvez entendre et qui se trouvent dans un cône de 9 m.</p>"
+            "description": "<p>Votre ouïe surdéveloppée vous permet de détecter les bruits les plus infimes. Tant que vous pouvez entendre normalement, vous pouvez utiliser l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour sentir la présence de créatures @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectées} qui se trouvent dans un cône de 18 m au lieu d’un cône de 9 m. Quand vous utilisez l’action Chercher, vous bénéficiez également d’un bonus de circonstances de +2 pour localiser des créatures non détectées que vous pouvez entendre et qui se trouvent dans un cône de 9 m.</p>"
         },
         {
             "id": "Jungle Catfolk",
@@ -34,7 +34,7 @@
         {
             "id": "Warrenbred Hobgoblin",
             "name": "Warrenbred Hobgoblin",
-            "description": "<p>Vos ancètres vivianet sous terre. Vos oreilles sont plus grandes que celles des autres hobgobelins et sensibles aux échos. Lorsque vous êtes sous terre, vous pouvez utiliser l'action <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"BlAOM2X92SI6HMtJ\">Chercher</a> pour repérer des créatures <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"VRSef5y1LmL2Hkjf\">non détectée</a> dans une émanation de 9 m au lieu de 4,5 m. En plus, si vous obtenez un succès sur un test d'Acrobatie pour vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"kMcV8e5EZUxa6evt\">Faufiler</a>, vous obtenez un succès critique à la place.</p>"
+            "description": "<p>Vos ancètres vivianet sous terre. Vos oreilles sont plus grandes que celles des autres hobgobelins et sensibles aux échos. Lorsque vous êtes sous terre, vous pouvez utiliser l'action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour repérer des créatures @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} dans une émanation de 9 m au lieu de 4,5 m. En plus, si vous obtenez un succès sur un test d'Acrobatie pour vous @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Faufiler}, vous obtenez un succès critique à la place.</p>"
         },
         {
             "id": "Taloned Tengu",
@@ -69,7 +69,7 @@
         {
             "id": "Ancient-Blooded Dwarf",
             "name": "Ancient-Blooded Dwarf",
-            "description": "<p>Les héros nains de l’ancien temps étaient capables de balayer la magie de leurs ennemis du revers de la main. Vous avez hérité d’une partie de cette résistance. Vous gagnez la réaction <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"8w6esW689NNbbq3i\">Appel du sang ancien</a>.</p>"
+            "description": "<p>Les héros nains de l’ancien temps étaient capables de balayer la magie de leurs ennemis du revers de la main. Vous avez hérité d’une partie de cette résistance. Vous gagnez la réaction @Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]{Appel du sang ancien}.</p>"
         },
         {
             "id": "Ancient Elf",
@@ -129,7 +129,7 @@
         {
             "id": "Cavern Kobold",
             "name": "Cavern Kobold",
-            "description": "<p>Vous avez éclos dans un terrier parmi des tunnels étroits un grand nombre de vos semblables. Votre corps est flexible. Lorsque vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"pprgrYQ1QnIDGZiy\">Escaladez</a> des murs de roche, des stalactites et les autres caractéristiques naturelle en pierre, vous vous déplacez à la moitié de votreVitesse sur un Succès et à votre Vitesse sur un succès critique (et vous vous déplacez à votre pleine Vitesse sur un succès si vous possédez le don <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"P04Hw8E6WAWARKHP\">Escalade rapide</a>). Cela ne vous affecte pas si vous utilisez une vitesse d'Escalade. Si vous obtenez un succès sur un test d'Acrobaties pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"kMcV8e5EZUxa6evt\">vous Faufiler</a>, vous obtenez un succès critique à la place.</p>"
+            "description": "<p>Vous avez éclos dans un terrier parmi des tunnels étroits un grand nombre de vos semblables. Votre corps est flexible.</p>\n<p>Lorsque vous @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escaladez} des murs de roche, des stalactites et les autres caractéristiques naturelle en pierre, vous vous déplacez à la moitié de votreVitesse sur un Succès et à votre Vitesse sur un succès critique (et vous vous déplacez à votre pleine Vitesse sur un succès si vous possédez le don @Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{Escalade rapide}). Cela ne vous affecte pas si vous utilisez une vitesse d'Escalade. Si vous obtenez un succès sur un test d'Acrobaties pour @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{vous Faufiler}, vous obtenez un succès critique à la place.</p>"
         },
         {
             "id": "Wildwood Halfling",
@@ -219,12 +219,12 @@
         {
             "id": "Tailed Goblin",
             "name": "Tailed Goblin",
-            "description": "<p>Vous disposez d'une queue puissante, sans doute parce que vous descendez d'une communauté de singes gobelins. Vous bénéficiez d'un bonus de circonstance de +2 aux tests d'Athlétisme pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"pprgrYQ1QnIDGZiy\">Escalader</a>, vous obtenez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"09PurtIanNUPfNRq\">Combattant grimpeur</a> comme don supplémentaire et vous réduisez de une le nombre de mains libres nécessaires pour Escalader ou faire un <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"ge56Lu1xXVFYUnLP\">Croc-en-jambe</a>.</p>"
+            "description": "<p>Vous disposez d'une queue puissante, sans doute parce que vous descendez d'une communauté de singes gobelins. Vous bénéficiez d'un bonus de circonstance de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader}, vous obtenez @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant grimpeur} comme don supplémentaire et vous réduisez de une le nombre de mains libres nécessaires pour Escalader ou faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe}.</p>"
         },
         {
             "id": "Frilled Lizardfolk",
             "name": "Frilled Lizardfolk",
-            "description": "<p>Vous pouvez gonfler votre colerette au tour du cou et tordre votre épine dorsale pour Démoraliser vos ennemis. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous essayez de démoraliser une créature qui ne comprend pas votre langue. Vous obtenez également l'action <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"W4M8L9WepGLamlHs\">Approche menaçante</a>.</p>"
+            "description": "<p>Vous pouvez gonfler votre colerette au tour du cou et tordre votre épine dorsale pour Démoraliser vos ennemis. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous essayez de démoraliser une créature qui ne comprend pas votre langue. Vous obtenez également l'action @Compendium[pf2e.actionspf2e.W4M8L9WepGLamlHs]{Approche menaçante}.</p>"
         },
         {
             "id": "Spellscale Kobold",
@@ -239,7 +239,7 @@
         {
             "id": "Deep Rat",
             "name": "Deep Rat",
-            "description": "<p>Vos ancètres ont vécu plus profondément que les autres hommes-rats, vous faisant bénéficier de leur capacité de voir dans le noir. Vous obtenez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a>.</p>"
+            "description": "<p>Vos ancètres ont vécu plus profondément que les autres hommes-rats, vous faisant bénéficier de leur capacité de voir dans le noir. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
         },
         {
             "id": "Nine Lives Catfolk",
@@ -254,7 +254,7 @@
         {
             "id": "Stormtossed Tengu",
             "name": "Stormtossed Tengu",
-            "description": "<p>Que ce soit lié à une bénédiction de Hei Feng ou à l'éclosion de votre œuf durant un grain, vous êtes résistant aux tempêtes. Vous obtenez une résistance à l'électricité égale à la moitié de votre niveau (minimum 1).</p>\n<p>Vous réussissez automatiquement au test nu pour cibler une créature <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"DmAIPqOBomZ7H95W\">Masquée</a> si cette créature est masquée seulement pas la pluie ou le brouillard.</p>"
+            "description": "<p>Que ce soit lié à une bénédiction de Hei Feng ou à l'éclosion de votre œuf durant un grain, vous êtes résistant aux tempêtes. Vous obtenez une résistance à l'électricité égale à la moitié de votre niveau (minimum 1).</p>\n<p>Vous réussissez automatiquement au test nu pour cibler une créature @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} si cette créature est masquée seulement pas la pluie ou le brouillard.</p>"
         },
         {
             "id": "Claws",
@@ -294,7 +294,7 @@
         {
             "id": "Badlands Orc",
             "name": "Badlands Orc",
-            "description": "<p>Vous venez des badlands écrasées par le soleil, où vos longues jambes et une capacité à comprendre les éléments vous ont aidé à survivre. Vous pouvez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"JuqmIAnkL9hVGai8\">vous Empresser</a> deux fois plus longtemps lorsque vous êtes en exploration avant de devoir vous arrêter et vous traitez les effets des environnements chauds comme s'ils étaient d'un niveau inférieur (châleur incroyable devient extrême, châleur extrême devient sévère, etc...).</p>"
+            "description": "<p>Vous venez des badlands écrasées par le soleil, où vos longues jambes et une capacité à comprendre les éléments vous ont aidé à survivre. Vous pouvez @Compendium[pf2e.actionspf2e.JuqmIAnkL9hVGai8]{vous Empresser} deux fois plus longtemps lorsque vous êtes en exploration avant de devoir vous arrêter et vous traitez les effets des environnements chauds comme s'ils étaient d'un niveau inférieur (châleur incroyable devient extrême, châleur extrême devient sévère, etc...).</p>"
         },
         {
             "id": "Seer Elf",
@@ -304,7 +304,7 @@
         {
             "id": "Bloodhound Shoony",
             "name": "Bloodhound Shoony",
-            "description": "<p>Vos ancêtres étaient de fameux pisteurs et vous portez dans votre sang ce même don pour la chasse. Vous obtenez un sens spécial : odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre sens de l'odorat pour déterminer la localisation d'une créature, mais elle reste <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"iU0fEDdBp3rXpTMC\">Cachée</a>. de plus, vous obtenez un bonus de circonstance de +2 aux tests de Survie faits pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"EA5vuSgJfiHH7plD\">Pister</a> les créatures que vous avez préalablement senti avec votre sens de l'odorat.</p>"
+            "description": "<p>Vos ancêtres étaient de fameux pisteurs et vous portez dans votre sang ce même don pour la chasse. Vous obtenez un sens spécial : odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre sens de l'odorat pour déterminer la localisation d'une créature, mais elle reste @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée}. de plus, vous obtenez un bonus de circonstance de +2 aux tests de Survie faits pour @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Pister} les créatures que vous avez préalablement senti avec votre sens de l'odorat.</p>"
         },
         {
             "id": "Darkvision",
@@ -319,7 +319,7 @@
         {
             "id": "Hunting Catfolk",
             "name": "Hunting Catfolk",
-            "description": "<p>Vous descendez d'une longue lignée de chasseurs talentueux et de pisteurs et avez développé un sens particulièrement aigude l'odorat. Vous obtenez un odoras imprécis avec une portée de 9 m. cela signifie que vous pouvez utilisez votre sens de l'odorat pour  déterminer l'emplacement d'une créature, comme expliqué à la page 456 du Livre de base. Le MJ doublera normalement la portée si vous êtes sous le vent de la créature ou la divisera par deux si vous êtes contre le vent.</p>\n<p>de plus, vous obtenez un bonus de circonstance de +2 au test pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"EA5vuSgJfiHH7plD\">Pister</a> une créature ou un objet si vous l'avez senti auparavant.</p>"
+            "description": "<p>Vous descendez d'une longue lignée de chasseurs talentueux et de pisteurs et avez développé un sens particulièrement aigude l'odorat. Vous obtenez un odoras imprécis avec une portée de 9 m. cela signifie que vous pouvez utilisez votre sens de l'odorat pour  déterminer l'emplacement d'une créature, comme expliqué à la page 456 du Livre de base. Le MJ doublera normalement la portée si vous êtes sous le vent de la créature ou la divisera par deux si vous êtes contre le vent.</p>\n<p>de plus, vous obtenez un bonus de circonstance de +2 au test pour @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Pister} une créature ou un objet si vous l'avez senti auparavant.</p>"
         },
         {
             "id": "Wintertouched Human",
@@ -459,7 +459,7 @@
         {
             "id": "Duskwalker",
             "name": "Duskwalker",
-            "description": "<p>Suite à un ancien marché, votre âme a été réincarnée comme un crépusculaire, un enfant planaire avec un lien à l'égad des psychopompes et du Cimetière. Vous obtenez le trait crépusculaire en plus des traits de votre héritage. Vous obtenez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou vous obtenez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage bénéficie déjà de vision nocturne. Ni votre corps, ni votre âme ne peuvent jamais devenir mort-vivant. Vous pouvez choisir vos dons ancestraux parmi les dons des crépusculaire ou ceux de votre autre héritage lorsque vous obtenez un don ancestral.</p>"
+            "description": "<p>Suite à un ancien marché, votre âme a été réincarnée comme un crépusculaire, un enfant planaire avec un lien à l'égad des psychopompes et du Cimetière. Vous obtenez le trait crépusculaire en plus des traits de votre héritage. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre héritage bénéficie déjà de vision nocturne. Ni votre corps, ni votre âme ne peuvent jamais devenir mort-vivant. Vous pouvez choisir vos dons ancestraux parmi les dons des crépusculaire ou ceux de votre autre héritage lorsque vous obtenez un don ancestral.</p>"
         },
         {
             "id": "Vivacious Gnome",
@@ -484,7 +484,7 @@
         {
             "id": "Aasimar",
             "name": "Aasimar",
-            "description": "<p>Vous descendez des célestes ou avez été touché par les royaumes célestes, obtenant une expression d'émerveillement et de grace, ainsi que des traits distincts liés à votre héritage céleste. Vous obtenez le trait aasimar, en plus des traits de votre héritage. Vous obtenez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou vous gagnez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage avait déjà Vision nocturne. Vous pouvez choisir parmi les dons d'aasimar ou parmi les dons de votre héritage lorsque vous obtenez un don ancestral.</p>"
+            "description": "<p>Vous descendez des célestes ou avez été touché par les royaumes célestes, obtenant une expression d'émerveillement et de grace, ainsi que des traits distincts liés à votre héritage céleste. Vous obtenez le trait aasimar, en plus des traits de votre héritage. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous gagnez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre héritage avait déjà Vision nocturne. Vous pouvez choisir parmi les dons d'aasimar ou parmi les dons de votre héritage lorsque vous obtenez un don ancestral.</p>"
         }
     ],
     "mapping": {}

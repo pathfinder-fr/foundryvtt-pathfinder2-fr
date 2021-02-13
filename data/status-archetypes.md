@@ -1,12 +1,12 @@
 # État de la traduction (archetypes)
 
- * **aucune**: 10
- * **libre**: 3
+ * **aucune**: 8
+ * **libre**: 5
  * **changé**: 61
  * **officielle**: 2
 
 
-Dernière mise à jour: 2021-02-07 20:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-13 15:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -16,8 +16,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[25NJcH5SkWh1Tol7.htm](archetypes/25NJcH5SkWh1Tol7.htm)|Spellmaster|
 |[2eAiIynDWTMKTGDU.htm](archetypes/2eAiIynDWTMKTGDU.htm)|Scrollmaster|
 |[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|
-|[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|
-|[DYJfhMcLlP05oMDD.htm](archetypes/DYJfhMcLlP05oMDD.htm)|Duelist|
 |[gw4J1pXYED71TPWx.htm](archetypes/gw4J1pXYED71TPWx.htm)|Bellflower Tiller|
 |[NGrKVIaZJx3r3In4.htm](archetypes/NGrKVIaZJx3r3In4.htm)|Weapon Improviser|
 |[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|
@@ -42,10 +40,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bDP7kO6bnQh6no0C.htm](archetypes/bDP7kO6bnQh6no0C.htm)|Bright Lion|Lion Radieux|changé|
 |[Bl0KM29OOlwBegCi.htm](archetypes/Bl0KM29OOlwBegCi.htm)|Familiar Master|Maître familier|changé|
 |[Buptz08MArCtY41w.htm](archetypes/Buptz08MArCtY41w.htm)|Investigator|Enquêteur|changé|
+|[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|Médecin|libre|
 |[cEiMI4QGqjv69pJ6.htm](archetypes/cEiMI4QGqjv69pJ6.htm)|Herbalist|Herboriste|changé|
 |[cnsq5cXgQu4FXnoZ.htm](archetypes/cnsq5cXgQu4FXnoZ.htm)|Aldori Duelist|Duelliste Aldori|changé|
 |[DeixUOfwL7Bruad5.htm](archetypes/DeixUOfwL7Bruad5.htm)|Red Mantis Assassin|Assassin des Mantes rouges|officielle|
 |[DMsE43xgf1gHPl8o.htm](archetypes/DMsE43xgf1gHPl8o.htm)|Loremaster|Maître savant|changé|
+|[DYJfhMcLlP05oMDD.htm](archetypes/DYJfhMcLlP05oMDD.htm)|Duelist|Duelliste|libre|
 |[e2KCqgD3zt8yvxGg.htm](archetypes/e2KCqgD3zt8yvxGg.htm)|Sentinel|Sentinelle|changé|
 |[eEyxTQ3oHfthdg0e.htm](archetypes/eEyxTQ3oHfthdg0e.htm)|Scrounger|Bricoleur|changé|
 |[fjyB6HdS95xHEQn0.htm](archetypes/fjyB6HdS95xHEQn0.htm)|Poisoner|Empoisonneur|changé|

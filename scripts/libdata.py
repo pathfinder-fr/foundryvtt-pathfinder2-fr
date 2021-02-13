@@ -26,7 +26,7 @@ SUPPORTED = {
   "ancestryfeatures":               { 'transl': "Ascendances (aptitudes)", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" } },
   "classfeatures":                  { 'transl': "Capacités de classe", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.traits.value", 'type2': "data.level.value" } },
   #"rollable-tables":                { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
-  "backgrounds":                    { 'transl': "Backgrounds", "paths": { 'name': "name", 'desc': "content" } },
+  "backgrounds":                    { 'transl': "Backgrounds", "paths": { 'name': "name", 'desc': "data.description.value" } },
   #"deities":                        { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "content" } },
   "gmg-srd":                        { 'transl': "Guide du MJ", "paths": { 'name': "name", 'desc': "content" } },
   "classes":                        { 'transl': "Classes", "paths": { 'name': "name", 'desc': "content" } },

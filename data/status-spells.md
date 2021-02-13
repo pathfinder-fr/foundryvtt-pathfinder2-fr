@@ -1,81 +1,31 @@
 # État de la traduction (spells)
 
- * **changé**: 390
- * **libre**: 141
- * **officielle**: 203
- * **aucune**: 124
+ * **officielle**: 326
+ * **libre**: 204
+ * **changé**: 260
+ * **aucune**: 75
 
 
-Dernière mise à jour: 2021-02-07 20:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-13 15:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[abj-09-BI4iwu3nApyIG0zY.htm](spells/abj-09-BI4iwu3nApyIG0zY.htm)|Astral Labyrinth|
+|[abj-10-X0t0gr7S7CeCt2Q5.htm](spells/abj-10-X0t0gr7S7CeCt2Q5.htm)|Anima Invocation (Modified)|
 |[con-03-tFKJCPvOQZxKq6ON.htm](spells/con-03-tFKJCPvOQZxKq6ON.htm)|Mad Monkeys|
+|[con-09-xxhS66k68u5iIOHC.htm](spells/con-09-xxhS66k68u5iIOHC.htm)|Upheaval|
+|[div-08-pt3gEnzA159uHcJC.htm](spells/div-08-pt3gEnzA159uHcJC.htm)|Prying Survey|
 |[enc-03-Q56HLIHVKY6bC5W3.htm](spells/enc-03-Q56HLIHVKY6bC5W3.htm)|Blinding Beauty|
 |[enc-04-MLdMUOdwSKegOGlo.htm](spells/enc-04-MLdMUOdwSKegOGlo.htm)|Dull Ambition|
-|[enc-04-S7ylpCJyq0CYkux9.htm](spells/enc-04-S7ylpCJyq0CYkux9.htm)|Clownish Curse|
 |[enc-07-Vw2CNwlRRKABsuZi.htm](spells/enc-07-Vw2CNwlRRKABsuZi.htm)|Entrancing Eyes|
 |[evo-00-cE7PRAX8Up7fmYef.htm](spells/evo-00-cE7PRAX8Up7fmYef.htm)|Shroud of Night|
-|[evo-01-1meVElIu1CEVYWkv.htm](spells/evo-01-1meVElIu1CEVYWkv.htm)|Noxious Vapors|
-|[evo-01-6UafOE1ZUbHamsZJ.htm](spells/evo-01-6UafOE1ZUbHamsZJ.htm)|Dim the Light|
-|[evo-01-7CUgqHunmHfW2lC5.htm](spells/evo-01-7CUgqHunmHfW2lC5.htm)|Parch|
-|[evo-01-8TQiFzGf4feoHeH0.htm](spells/evo-01-8TQiFzGf4feoHeH0.htm)|Chilling Spray|
-|[evo-01-AspA30tzKCHFWRf0.htm](spells/evo-01-AspA30tzKCHFWRf0.htm)|Incendiary Aura|
-|[evo-01-DeNz6eAUlE0IE9U3.htm](spells/evo-01-DeNz6eAUlE0IE9U3.htm)|Winter Bolt|
-|[evo-01-dgCH2E0gMLMUgyFl.htm](spells/evo-01-dgCH2E0gMLMUgyFl.htm)|Shockwave|
-|[evo-01-EzB9i7R6aBRAtJCh.htm](spells/evo-01-EzB9i7R6aBRAtJCh.htm)|Tempest Touch|
-|[evo-01-f9uqHnNBMU0774SF.htm](spells/evo-01-f9uqHnNBMU0774SF.htm)|Elemental Betrayal|
-|[evo-01-g1eY1vN44mgluE33.htm](spells/evo-01-g1eY1vN44mgluE33.htm)|Charged Javelin|
-|[evo-01-HGmBY8KjgLV97nUp.htm](spells/evo-01-HGmBY8KjgLV97nUp.htm)|Scouring Sand|
-|[evo-01-kJKSLfCgqxmN2FY8.htm](spells/evo-01-kJKSLfCgqxmN2FY8.htm)|Personal Rain Cloud|
 |[evo-01-mlNYROcFrUF8nFgk.htm](spells/evo-01-mlNYROcFrUF8nFgk.htm)|Spray of Stars|
-|[evo-01-Rn2LkoSq1XhLsODV.htm](spells/evo-01-Rn2LkoSq1XhLsODV.htm)|Pummeling Rubble|
-|[evo-01-S6Kkk15MWGqzC00a.htm](spells/evo-01-S6Kkk15MWGqzC00a.htm)|Draconic Barrage|
-|[evo-01-zdb8cjOIDVKYMWdr.htm](spells/evo-01-zdb8cjOIDVKYMWdr.htm)|Penumbral Shroud|
-|[evo-02-cB17yFc9456Pyfec.htm](spells/evo-02-cB17yFc9456Pyfec.htm)|Vomit Swarm|
-|[evo-02-cf7Jkm39uEjUFtHt.htm](spells/evo-02-cf7Jkm39uEjUFtHt.htm)|Sea Surge|
-|[evo-02-Popa5umI3H33levx.htm](spells/evo-02-Popa5umI3H33levx.htm)|Rime Slick|
-|[evo-02-v4KzRPol5XQOOmk0.htm](spells/evo-02-v4KzRPol5XQOOmk0.htm)|Heat Metal|
-|[evo-02-Wt94cw03L77sbud7.htm](spells/evo-02-Wt94cw03L77sbud7.htm)|Breath of Drought|
-|[evo-02-x0rWq0wS06dns4G2.htm](spells/evo-02-x0rWq0wS06dns4G2.htm)|Final Sacrifice|
-|[evo-02-zK0e9d9DSnxC4eAD.htm](spells/evo-02-zK0e9d9DSnxC4eAD.htm)|Sudden Bolt|
-|[evo-03-06pzGkKTyPE3tHR8.htm](spells/evo-03-06pzGkKTyPE3tHR8.htm)|Gravity Well|
-|[evo-03-eIPIZp2FUbFcLNdj.htm](spells/evo-03-eIPIZp2FUbFcLNdj.htm)|Pillar of Water|
-|[evo-03-L37RTc7K79OUpZ7X.htm](spells/evo-03-L37RTc7K79OUpZ7X.htm)|Interstellar Void|
-|[evo-03-LFSwMtQVP05EzlZe.htm](spells/evo-03-LFSwMtQVP05EzlZe.htm)|Thunderburst|
-|[evo-03-T4QKmtYPeCgYxVGe.htm](spells/evo-03-T4QKmtYPeCgYxVGe.htm)|Crashing Wave|
-|[evo-03-TT9owkeMBXJxcERB.htm](spells/evo-03-TT9owkeMBXJxcERB.htm)|Unseasonable Squall|
-|[evo-03-vhMCd15ZwNJn0zen.htm](spells/evo-03-vhMCd15ZwNJn0zen.htm)|Malicious Shadow|
-|[evo-03-Wi2HcreCfujKiCvW.htm](spells/evo-03-Wi2HcreCfujKiCvW.htm)|Whirling Flames|
-|[evo-04-kHyjQbibRGPNCixx.htm](spells/evo-04-kHyjQbibRGPNCixx.htm)|Ice Storm|
-|[evo-04-VUwpDY4Z91s9QCg0.htm](spells/evo-04-VUwpDY4Z91s9QCg0.htm)|Bottle the Storm|
-|[evo-04-wjJW9hWY5CkkMvY5.htm](spells/evo-04-wjJW9hWY5CkkMvY5.htm)|Diamond Dust|
-|[evo-05-HMTloW1hvRFJ5Z2D.htm](spells/evo-05-HMTloW1hvRFJ5Z2D.htm)|Consuming Darkness|
-|[evo-05-JyT346VmGtRLsDnV.htm](spells/evo-05-JyT346VmGtRLsDnV.htm)|Lightning Storm|
-|[evo-05-ZyREiMaul0VhDYh3.htm](spells/evo-05-ZyREiMaul0VhDYh3.htm)|Glacial Heart|
-|[evo-06-bynT1UKaDqr8dLNM.htm](spells/evo-06-bynT1UKaDqr8dLNM.htm)|Flaming Fusillade|
 |[evo-07-HES5jvGiNZZnJycK.htm](spells/evo-07-HES5jvGiNZZnJycK.htm)|Force Cage|
-|[evo-07-oahqARSgOGDRybBQ.htm](spells/evo-07-oahqARSgOGDRybBQ.htm)|Control Sand|
-|[ill-01-nX85Brzax9f650aK.htm](spells/ill-01-nX85Brzax9f650aK.htm)|Invisible Item|
-|[ill-01-znMvKqcRDilIVMwA.htm](spells/ill-01-znMvKqcRDilIVMwA.htm)|Exchange Image|
-|[ill-02-L0GoJpHxSD0wRY5k.htm](spells/ill-02-L0GoJpHxSD0wRY5k.htm)|Phantasmal Treasure|
-|[ill-03-FrKPwgFxWIGMGgs4.htm](spells/ill-03-FrKPwgFxWIGMGgs4.htm)|Deceiver's Cloak|
-|[ill-03-HHGUBGle4OjoxvNR.htm](spells/ill-03-HHGUBGle4OjoxvNR.htm)|Sculpt Sound|
-|[ill-03-pQ3NIzZXeIIcU81C.htm](spells/ill-03-pQ3NIzZXeIIcU81C.htm)|Spirit Veil|
-|[ill-03-PVXqMko4yGgw90uo.htm](spells/ill-03-PVXqMko4yGgw90uo.htm)|Heart's Desire|
-|[ill-04-h5UqEdeqK8iTcU0J.htm](spells/ill-04-h5UqEdeqK8iTcU0J.htm)|Simulacrum|
-|[ill-04-HisaZTk67YAxLGBq.htm](spells/ill-04-HisaZTk67YAxLGBq.htm)|Ephemeral Hazards|
-|[ill-04-vhe9DduqaivMs8FV.htm](spells/ill-04-vhe9DduqaivMs8FV.htm)|Ghostly Transcription|
-|[ill-05-m4Mc5XbdML92BKOE.htm](spells/ill-05-m4Mc5XbdML92BKOE.htm)|Strange Geometry|
-|[ill-05-xPrbxyOEwy9QaPVn.htm](spells/ill-05-xPrbxyOEwy9QaPVn.htm)|Chameleon Coat|
-|[ill-09-nA0XlPsnMNrQMpio.htm](spells/ill-09-nA0XlPsnMNrQMpio.htm)|Fantastic Facade|
-|[nec-00-yp4w9SG4RuqRM8KD.htm](spells/nec-00-yp4w9SG4RuqRM8KD.htm)|Spirit Object|
-|[nec-01-2gQYrCPwBmwau26O.htm](spells/nec-01-2gQYrCPwBmwau26O.htm)|Life Link|
-|[nec-01-7tp97g0UCJ9wOrd5.htm](spells/nec-01-7tp97g0UCJ9wOrd5.htm)|Withering Grasp|
-|[nec-01-9u6X9ykhzG11NK1n.htm](spells/nec-01-9u6X9ykhzG11NK1n.htm)|Magic Stone|
+|[evo-08-8fEfjvC01gNclDKJ.htm](spells/evo-08-8fEfjvC01gNclDKJ.htm)|Deluge|
+|[ill-08-YiIOsc8T6E2iDxgh.htm](spells/ill-08-YiIOsc8T6E2iDxgh.htm)|Undermine Reality|
 |[nec-01-CxpFy4HJHf4ACbxF.htm](spells/nec-01-CxpFy4HJHf4ACbxF.htm)|Putrefy Food and Drink|
 |[nec-01-D6T17BdazhNy3KPm.htm](spells/nec-01-D6T17BdazhNy3KPm.htm)|Soul Siphon|
 |[nec-01-FedTjedva2rYk33r.htm](spells/nec-01-FedTjedva2rYk33r.htm)|Undeath's Blessing|
@@ -115,6 +65,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-06-yUM5OYeMY8971b2S.htm](spells/nec-06-yUM5OYeMY8971b2S.htm)|Terminate Bloodline|
 |[nec-07-QVMjPfXlpnmeuWKS.htm](spells/nec-07-QVMjPfXlpnmeuWKS.htm)|Leng Sting|
 |[nec-07-u3pdkfmy0AWICdoM.htm](spells/nec-07-u3pdkfmy0AWICdoM.htm)|Ravenous Reanimation|
+|[nec-08-PgLvO8UNHSj5f61m.htm](spells/nec-08-PgLvO8UNHSj5f61m.htm)|Devour Life|
 |[nec-09-pZr1xrCpaSu6qrXU.htm](spells/nec-09-pZr1xrCpaSu6qrXU.htm)|Clone|
 |[nec-09-ZMY58Yk5hnyfeE3q.htm](spells/nec-09-ZMY58Yk5hnyfeE3q.htm)|Linnorm Sting|
 |[nec-10-IGXGs9PlqUCvODcH.htm](spells/nec-10-IGXGs9PlqUCvODcH.htm)|Song of the Fallen|
@@ -142,31 +93,31 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[abj-00-RA7VKcen3p56rVyZ.htm](spells/abj-00-RA7VKcen3p56rVyZ.htm)|Forbidding Ward|Sceau d'interdiction|changé|
-|[abj-00-TVKNbcgTee19PXZR.htm](spells/abj-00-TVKNbcgTee19PXZR.htm)|Shield|Bouclier|changé|
-|[abj-00-xM35hJacTM1BSXUl.htm](spells/abj-00-xM35hJacTM1BSXUl.htm)|Silver's Refrain|Refrain d'argent|changé|
+|[abj-00-RA7VKcen3p56rVyZ.htm](spells/abj-00-RA7VKcen3p56rVyZ.htm)|Forbidding Ward|Sceau d'interdiction|officielle|
+|[abj-00-TVKNbcgTee19PXZR.htm](spells/abj-00-TVKNbcgTee19PXZR.htm)|Shield|Bouclier|officielle|
+|[abj-00-xM35hJacTM1BSXUl.htm](spells/abj-00-xM35hJacTM1BSXUl.htm)|Silver's Refrain|Refrain d'argent|libre|
 |[abj-01-0cF9HvHzzWSbCFBP.htm](spells/abj-01-0cF9HvHzzWSbCFBP.htm)|Empty Inside|Vide intérieur|libre|
-|[abj-01-0fKHBh5goe2eiFYL.htm](spells/abj-01-0fKHBh5goe2eiFYL.htm)|Negate Aroma|Supprimer l’arôme|changé|
+|[abj-01-0fKHBh5goe2eiFYL.htm](spells/abj-01-0fKHBh5goe2eiFYL.htm)|Negate Aroma|Supprimer l’arôme|officielle|
 |[abj-01-0uRpypf1Hi7ahvTl.htm](spells/abj-01-0uRpypf1Hi7ahvTl.htm)|Shattering Gem|Gemme explosive|libre|
 |[abj-01-3wmX7htzOXiHLdAn.htm](spells/abj-01-3wmX7htzOXiHLdAn.htm)|Delay Consequence|Retarder les conséquences|libre|
-|[abj-01-4WAib3GichxLjp5p.htm](spells/abj-01-4WAib3GichxLjp5p.htm)|Alarm|Alarme|changé|
-|[abj-01-8xRzLhwGL7Dgy3EZ.htm](spells/abj-01-8xRzLhwGL7Dgy3EZ.htm)|Sanctuary|Sanctuaire|changé|
+|[abj-01-4WAib3GichxLjp5p.htm](spells/abj-01-4WAib3GichxLjp5p.htm)|Alarm|Alarme|officielle|
+|[abj-01-8xRzLhwGL7Dgy3EZ.htm](spells/abj-01-8xRzLhwGL7Dgy3EZ.htm)|Sanctuary|Sanctuaire|officielle|
 |[abj-01-aAbfKn8maGjJjk2W.htm](spells/abj-01-aAbfKn8maGjJjk2W.htm)|Mage Armor|Armure du mage|officielle|
-|[abj-01-Azoh0BSoCASrA1lr.htm](spells/abj-01-Azoh0BSoCASrA1lr.htm)|Lock|Verrouillage|changé|
+|[abj-01-Azoh0BSoCASrA1lr.htm](spells/abj-01-Azoh0BSoCASrA1lr.htm)|Lock|Verrouillage|officielle|
 |[abj-01-cDFAQN7Z3es07WSA.htm](spells/abj-01-cDFAQN7Z3es07WSA.htm)|Perfected Mind|Esprit perfectionné|officielle|
 |[abj-01-cJq5NarY0eOZN74A.htm](spells/abj-01-cJq5NarY0eOZN74A.htm)|Share Burden|Partager le Fardeau|libre|
 |[abj-01-dFejDNEmVj3CwYLL.htm](spells/abj-01-dFejDNEmVj3CwYLL.htm)|Blood Ward|Protection du sang|libre|
-|[abj-01-gMODOGamz88rgHuf.htm](spells/abj-01-gMODOGamz88rgHuf.htm)|Protection|Protection|changé|
-|[abj-01-k43PIYwuQqjeJ3S3.htm](spells/abj-01-k43PIYwuQqjeJ3S3.htm)|Forced Quiet|Silence forcé|changé|
-|[abj-01-lY9fOk1qBDDhBT8s.htm](spells/abj-01-lY9fOk1qBDDhBT8s.htm)|Protective Ward|Champ protecteur|changé|
+|[abj-01-gMODOGamz88rgHuf.htm](spells/abj-01-gMODOGamz88rgHuf.htm)|Protection|Protection|officielle|
+|[abj-01-k43PIYwuQqjeJ3S3.htm](spells/abj-01-k43PIYwuQqjeJ3S3.htm)|Forced Quiet|Silence forcé|officielle|
+|[abj-01-lY9fOk1qBDDhBT8s.htm](spells/abj-01-lY9fOk1qBDDhBT8s.htm)|Protective Ward|Champ protecteur|officielle|
 |[abj-01-MVrxZarUTnJxAUN8.htm](spells/abj-01-MVrxZarUTnJxAUN8.htm)|Tether|Liens|libre|
 |[abj-01-OyiKIbWllLZC6sGz.htm](spells/abj-01-OyiKIbWllLZC6sGz.htm)|Genie's Veil|Veille du génie|libre|
-|[abj-01-P9bqJsF3WkxGAJKJ.htm](spells/abj-01-P9bqJsF3WkxGAJKJ.htm)|Sudden Shift|Déplacement soudain|changé|
-|[abj-01-rMOI8JFJ0nT2mrCF.htm](spells/abj-01-rMOI8JFJ0nT2mrCF.htm)|Phase Familiar|Déphasage de familier|changé|
+|[abj-01-P9bqJsF3WkxGAJKJ.htm](spells/abj-01-P9bqJsF3WkxGAJKJ.htm)|Sudden Shift|Déplacement soudain|officielle|
+|[abj-01-rMOI8JFJ0nT2mrCF.htm](spells/abj-01-rMOI8JFJ0nT2mrCF.htm)|Phase Familiar|Déphasage de familier|libre|
 |[abj-01-rQYob0QMJ0I1U2sU.htm](spells/abj-01-rQYob0QMJ0I1U2sU.htm)|Protector's Sacrifice|Sacrifice du protecteur|officielle|
-|[abj-01-TTwOKGqmZeKSyNMH.htm](spells/abj-01-TTwOKGqmZeKSyNMH.htm)|Feather Fall|Feuille morte|changé|
+|[abj-01-TTwOKGqmZeKSyNMH.htm](spells/abj-01-TTwOKGqmZeKSyNMH.htm)|Feather Fall|Feuille morte|officielle|
 |[abj-01-u2uSeH6YSbK1ajTy.htm](spells/abj-01-u2uSeH6YSbK1ajTy.htm)|Magic Hide|Peau magique|libre|
-|[abj-01-w3uGXDVEdbLFZVO0.htm](spells/abj-01-w3uGXDVEdbLFZVO0.htm)|Angelic Halo|Halo angélique|changé|
+|[abj-01-w3uGXDVEdbLFZVO0.htm](spells/abj-01-w3uGXDVEdbLFZVO0.htm)|Angelic Halo|Halo angélique|officielle|
 |[abj-01-Z7N5IxJCwrAdIgSg.htm](spells/abj-01-Z7N5IxJCwrAdIgSg.htm)|Message Rune|Rune messagère|changé|
 |[abj-01-zlnXpME1T2uvn8Lr.htm](spells/abj-01-zlnXpME1T2uvn8Lr.htm)|Pass Without Trace|Passage sans trace|changé|
 |[abj-02-02J0rDTk37KN2sjt.htm](spells/abj-02-02J0rDTk37KN2sjt.htm)|Quench|Éteindre|libre|
@@ -489,7 +440,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-03-yM3KTTSAIHhyuP14.htm](spells/enc-03-yM3KTTSAIHhyuP14.htm)|Dream Message|Message onirique|officielle|
 |[enc-04-4DaHIgtMBTyxebY3.htm](spells/enc-04-4DaHIgtMBTyxebY3.htm)|Commanding Lash|Fouet du maître|officielle|
 |[enc-04-7tR29sQt35NfIWqN.htm](spells/enc-04-7tR29sQt35NfIWqN.htm)|Anathematic Reprisal|Anathème et représailles|officielle|
-|[enc-04-eCniO6INHNfc9Svr.htm](spells/enc-04-eCniO6INHNfc9Svr.htm)|Overflowing Sorrow|Chagrins débordantss|libre|
+|[enc-04-eCniO6INHNfc9Svr.htm](spells/enc-04-eCniO6INHNfc9Svr.htm)|Overflowing Sorrow|Chagrins débordantss|changé|
 |[enc-04-FSu6ZKxr3xdS75wq.htm](spells/enc-04-FSu6ZKxr3xdS75wq.htm)|Roar of the Wyrm|Rugissement du Ver|libre|
 |[enc-04-i7u6gAdNcyIyyo3h.htm](spells/enc-04-i7u6gAdNcyIyyo3h.htm)|Favorable Review|Critique favorable|libre|
 |[enc-04-I8CPe9Pp7GABqOyB.htm](spells/enc-04-I8CPe9Pp7GABqOyB.htm)|Zeal for Battle|Zèle au combat|officielle|
@@ -503,91 +454,122 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-04-LX4pCagYLpc9hEji.htm](spells/enc-04-LX4pCagYLpc9hEji.htm)|Aromatic Lure|Leurre aromatique|libre|
 |[enc-04-NOB92Wpn7jXvtyVW.htm](spells/enc-04-NOB92Wpn7jXvtyVW.htm)|Competitive Edge|Avantage du compétiteur|officielle|
 |[enc-04-oXCwHBeDja4e0Mx0.htm](spells/enc-04-oXCwHBeDja4e0Mx0.htm)|Touch of the Moon|Contact lunaire|officielle|
-|[enc-04-PztLrElcZfLwRnEq.htm](spells/enc-04-PztLrElcZfLwRnEq.htm)|Dreamer's Call|Appel du rêveur|changé|
-|[enc-04-qwlh6aDgi86U3Q7H.htm](spells/enc-04-qwlh6aDgi86U3Q7H.htm)|Suggestion|Suggestion|changé|
-|[enc-04-skvgOWNTitLehL0b.htm](spells/enc-04-skvgOWNTitLehL0b.htm)|Shared Nightmare|Cauchemar partagé|changé|
-|[enc-05-BilnTGuXrof9Dt9D.htm](spells/enc-05-BilnTGuXrof9Dt9D.htm)|Synaptic Pulse|Pulsation synaptique|changé|
-|[enc-05-GaRQlC9Yw1BGKHfN.htm](spells/enc-05-GaRQlC9Yw1BGKHfN.htm)|Crushing Despair|Désespoir foudroyant|changé|
-|[enc-05-GP3wewkQXEPrLxYj.htm](spells/enc-05-GP3wewkQXEPrLxYj.htm)|Subconscious Suggestion|Suggestion subconsciente|changé|
-|[enc-05-mm3hZ6jgaJaKK16n.htm](spells/enc-05-mm3hZ6jgaJaKK16n.htm)|Litany of Self-Interest|Litanie d'égoïsme|changé|
-|[enc-05-x2LALaHXO7644GQA.htm](spells/enc-05-x2LALaHXO7644GQA.htm)|You're Mine|Tu es à moi|changé|
+|[enc-04-PztLrElcZfLwRnEq.htm](spells/enc-04-PztLrElcZfLwRnEq.htm)|Dreamer's Call|Appel du rêveur|officielle|
+|[enc-04-qwlh6aDgi86U3Q7H.htm](spells/enc-04-qwlh6aDgi86U3Q7H.htm)|Suggestion|Suggestion|officielle|
+|[enc-04-S7ylpCJyq0CYkux9.htm](spells/enc-04-S7ylpCJyq0CYkux9.htm)|Clownish Curse|Malédiction clownesque|libre|
+|[enc-04-skvgOWNTitLehL0b.htm](spells/enc-04-skvgOWNTitLehL0b.htm)|Shared Nightmare|Cauchemar partagé|officielle|
+|[enc-05-BilnTGuXrof9Dt9D.htm](spells/enc-05-BilnTGuXrof9Dt9D.htm)|Synaptic Pulse|Pulsation synaptique|officielle|
+|[enc-05-GaRQlC9Yw1BGKHfN.htm](spells/enc-05-GaRQlC9Yw1BGKHfN.htm)|Crushing Despair|Désespoir foudroyant|officielle|
+|[enc-05-GP3wewkQXEPrLxYj.htm](spells/enc-05-GP3wewkQXEPrLxYj.htm)|Subconscious Suggestion|Suggestion subconsciente|officielle|
+|[enc-05-mm3hZ6jgaJaKK16n.htm](spells/enc-05-mm3hZ6jgaJaKK16n.htm)|Litany of Self-Interest|Litanie d'égoïsme|libre|
+|[enc-05-x2LALaHXO7644GQA.htm](spells/enc-05-x2LALaHXO7644GQA.htm)|You're Mine|Tu es à moi|officielle|
 |[enc-05-y0Vy7iNL3ET8K00C.htm](spells/enc-05-y0Vy7iNL3ET8K00C.htm)|Dreaming Potential|Potentiel onirique|officielle|
-|[enc-06-5BbU1V6wGSGbrmRD.htm](spells/enc-06-5BbU1V6wGSGbrmRD.htm)|Feeblemind|Débilité|changé|
+|[enc-06-5BbU1V6wGSGbrmRD.htm](spells/enc-06-5BbU1V6wGSGbrmRD.htm)|Feeblemind|Débilité|officielle|
 |[enc-06-GYD0XZ4t3tQq6shc.htm](spells/enc-06-GYD0XZ4t3tQq6shc.htm)|Zealous Conviction|Conviction zélée|officielle|
 |[enc-06-NhGXgmI3AjkkwnPk.htm](spells/enc-06-NhGXgmI3AjkkwnPk.htm)|Blinding Fury|Furie aveuglante|libre|
-|[enc-06-OsOhx3TGIZ7AhD0P.htm](spells/enc-06-OsOhx3TGIZ7AhD0P.htm)|Dominate|Domination|changé|
-|[enc-07-0JigNJDRwevZOyjI.htm](spells/enc-07-0JigNJDRwevZOyjI.htm)|Soothing Ballad|Ballade apaisante|changé|
-|[enc-07-8kJbiBEjMWG4VUjs.htm](spells/enc-07-8kJbiBEjMWG4VUjs.htm)|Warp Mind|Déformer l'esprit|changé|
-|[enc-07-Yk3t4ekEiFIoEz9c.htm](spells/enc-07-Yk3t4ekEiFIoEz9c.htm)|Power Word Blind|Mot de pouvoir aveuglant|changé|
-|[enc-08-7PJSqUeKxTqOVrPk.htm](spells/enc-08-7PJSqUeKxTqOVrPk.htm)|Power Word Stun|Mot de pouvoir étourdissant|changé|
-|[enc-08-Jvyy6oVIQsD34MHB.htm](spells/enc-08-Jvyy6oVIQsD34MHB.htm)|Uncontrollable Dance|Danse incontrôlable|changé|
+|[enc-06-OsOhx3TGIZ7AhD0P.htm](spells/enc-06-OsOhx3TGIZ7AhD0P.htm)|Dominate|Domination|officielle|
+|[enc-07-0JigNJDRwevZOyjI.htm](spells/enc-07-0JigNJDRwevZOyjI.htm)|Soothing Ballad|Ballade apaisante|officielle|
+|[enc-07-8kJbiBEjMWG4VUjs.htm](spells/enc-07-8kJbiBEjMWG4VUjs.htm)|Warp Mind|Déformer l'esprit|officielle|
+|[enc-07-Yk3t4ekEiFIoEz9c.htm](spells/enc-07-Yk3t4ekEiFIoEz9c.htm)|Power Word Blind|Mot de pouvoir aveuglant|officielle|
+|[enc-08-7PJSqUeKxTqOVrPk.htm](spells/enc-08-7PJSqUeKxTqOVrPk.htm)|Power Word Stun|Mot de pouvoir étourdissant|officielle|
+|[enc-08-Jvyy6oVIQsD34MHB.htm](spells/enc-08-Jvyy6oVIQsD34MHB.htm)|Uncontrollable Dance|Danse incontrôlable|officielle|
 |[enc-08-KtTGLbLG9nqMbUYL.htm](spells/enc-08-KtTGLbLG9nqMbUYL.htm)|Divine Inspiration|Inspiration divine|officielle|
-|[enc-09-fkDeKktdmbeplYRY.htm](spells/enc-09-fkDeKktdmbeplYRY.htm)|Overwhelming Presence|Présence écrasante|changé|
-|[enc-09-FmNDwqMEjeTEGPrY.htm](spells/enc-09-FmNDwqMEjeTEGPrY.htm)|Unfathomable Song|Chant énigmatique|changé|
+|[enc-09-fkDeKktdmbeplYRY.htm](spells/enc-09-fkDeKktdmbeplYRY.htm)|Overwhelming Presence|Présence écrasante|officielle|
+|[enc-09-FmNDwqMEjeTEGPrY.htm](spells/enc-09-FmNDwqMEjeTEGPrY.htm)|Unfathomable Song|Chant énigmatique|officielle|
 |[enc-09-ItZgGznUBhgWBwFG.htm](spells/enc-09-ItZgGznUBhgWBwFG.htm)|Telepathic Demand|Ordre télépathique|officielle|
-|[enc-09-m3lcOFm400lQCUps.htm](spells/enc-09-m3lcOFm400lQCUps.htm)|Power Word Kill|Mot de pouvoir mortel|changé|
-|[enc-09-Tc5NLaMu71vrGTJQ.htm](spells/enc-09-Tc5NLaMu71vrGTJQ.htm)|Nature's Enmity|Hostilité naturelle|changé|
-|[enc-09-xFY9RtDE4DQKlWNR.htm](spells/enc-09-xFY9RtDE4DQKlWNR.htm)|Crusade|Croisade|changé|
-|[enc-10-6s0UW4bujggma9TC.htm](spells/enc-10-6s0UW4bujggma9TC.htm)|Fabricated Truth|Vérité fabriquée|changé|
-|[enc-10-lyJDBD9OFW11vLyT.htm](spells/enc-10-lyJDBD9OFW11vLyT.htm)|Fatal Aria|Aria fatale|changé|
-|[enc-10-Um0aaJotqMKGmAlR.htm](spells/enc-10-Um0aaJotqMKGmAlR.htm)|Pied Piping|Flûte de Hamelin|changé|
+|[enc-09-m3lcOFm400lQCUps.htm](spells/enc-09-m3lcOFm400lQCUps.htm)|Power Word Kill|Mot de pouvoir mortel|officielle|
+|[enc-09-Tc5NLaMu71vrGTJQ.htm](spells/enc-09-Tc5NLaMu71vrGTJQ.htm)|Nature's Enmity|Hostilité naturelle|officielle|
+|[enc-09-xFY9RtDE4DQKlWNR.htm](spells/enc-09-xFY9RtDE4DQKlWNR.htm)|Crusade|Croisade|officielle|
+|[enc-10-6s0UW4bujggma9TC.htm](spells/enc-10-6s0UW4bujggma9TC.htm)|Fabricated Truth|Vérité fabriquée|officielle|
+|[enc-10-lyJDBD9OFW11vLyT.htm](spells/enc-10-lyJDBD9OFW11vLyT.htm)|Fatal Aria|Aria fatale|officielle|
+|[enc-10-Um0aaJotqMKGmAlR.htm](spells/enc-10-Um0aaJotqMKGmAlR.htm)|Pied Piping|Flûte de Hamelin|libre|
 |[evo-00-60sgbuMWN0268dB7.htm](spells/evo-00-60sgbuMWN0268dB7.htm)|Telekinetic Projectile|Projectile télékinésique|changé|
 |[evo-00-gISYsBFby1TiXfBt.htm](spells/evo-00-gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|changé|
-|[evo-00-gYjPm7YwGtEa1oxh.htm](spells/evo-00-gYjPm7YwGtEa1oxh.htm)|Ray of Frost|Rayon de givre|changé|
-|[evo-00-kBhaPuzLUSwS6vVf.htm](spells/evo-00-kBhaPuzLUSwS6vVf.htm)|Electric Arc|Arc électrique|changé|
+|[evo-00-gYjPm7YwGtEa1oxh.htm](spells/evo-00-gYjPm7YwGtEa1oxh.htm)|Ray of Frost|Rayon de givre|officielle|
+|[evo-00-kBhaPuzLUSwS6vVf.htm](spells/evo-00-kBhaPuzLUSwS6vVf.htm)|Electric Arc|Arc électrique|officielle|
 |[evo-00-kl2q6JvBZwed4B6v.htm](spells/evo-00-kl2q6JvBZwed4B6v.htm)|Dancing Lights|Lumières dansantes|officielle|
 |[evo-00-O9w7r4BKgPogYDDe.htm](spells/evo-00-O9w7r4BKgPogYDDe.htm)|Produce Flame|Flammes|changé|
-|[evo-00-pwzdSlJgYqN7bs2w.htm](spells/evo-00-pwzdSlJgYqN7bs2w.htm)|Mage Hand|Manipulation à distance|changé|
-|[evo-00-Qw3fnUlaUbnn7ipC.htm](spells/evo-00-Qw3fnUlaUbnn7ipC.htm)|Prestidigitation|Prestidigitation|changé|
-|[evo-00-qwZBXN6zBoB9BHXE.htm](spells/evo-00-qwZBXN6zBoB9BHXE.htm)|Divine Lance|Lance divine|changé|
-|[evo-00-WBmvzNDfpwka3qT4.htm](spells/evo-00-WBmvzNDfpwka3qT4.htm)|Light|Lumière|changé|
-|[evo-01-0H1ozccQGGFLUwFI.htm](spells/evo-01-0H1ozccQGGFLUwFI.htm)|Cry of Destruction|Cri de destruction|changé|
-|[evo-01-0JUOgbbFCapp3HlW.htm](spells/evo-01-0JUOgbbFCapp3HlW.htm)|Elemental Toss|Projectile élémentaire|changé|
+|[evo-00-pwzdSlJgYqN7bs2w.htm](spells/evo-00-pwzdSlJgYqN7bs2w.htm)|Mage Hand|Manipulation à distance|officielle|
+|[evo-00-Qw3fnUlaUbnn7ipC.htm](spells/evo-00-Qw3fnUlaUbnn7ipC.htm)|Prestidigitation|Prestidigitation|officielle|
+|[evo-00-qwZBXN6zBoB9BHXE.htm](spells/evo-00-qwZBXN6zBoB9BHXE.htm)|Divine Lance|Lance divine|officielle|
+|[evo-00-WBmvzNDfpwka3qT4.htm](spells/evo-00-WBmvzNDfpwka3qT4.htm)|Light|Lumière|officielle|
+|[evo-01-0H1ozccQGGFLUwFI.htm](spells/evo-01-0H1ozccQGGFLUwFI.htm)|Cry of Destruction|Cri de destruction|officielle|
+|[evo-01-0JUOgbbFCapp3HlW.htm](spells/evo-01-0JUOgbbFCapp3HlW.htm)|Elemental Toss|Projectile élémentaire|officielle|
+|[evo-01-1meVElIu1CEVYWkv.htm](spells/evo-01-1meVElIu1CEVYWkv.htm)|Noxious Vapors|Vapeurs nocives|libre|
+|[evo-01-6UafOE1ZUbHamsZJ.htm](spells/evo-01-6UafOE1ZUbHamsZJ.htm)|Dim the Light|Diminuer la lumière|libre|
+|[evo-01-7CUgqHunmHfW2lC5.htm](spells/evo-01-7CUgqHunmHfW2lC5.htm)|Parch|Dessécher|libre|
+|[evo-01-8TQiFzGf4feoHeH0.htm](spells/evo-01-8TQiFzGf4feoHeH0.htm)|Chilling Spray|Aspersion de froid|libre|
+|[evo-01-AspA30tzKCHFWRf0.htm](spells/evo-01-AspA30tzKCHFWRf0.htm)|Incendiary Aura|Aura incendiaire|libre|
 |[evo-01-bSDTWUIvgXkBaEv8.htm](spells/evo-01-bSDTWUIvgXkBaEv8.htm)|Hand of the Apprentice|Main de l'apprenti|officielle|
-|[evo-01-g8QqHpv2CWDwmIm1.htm](spells/evo-01-g8QqHpv2CWDwmIm1.htm)|Gust of Wind|Bourrasque|changé|
-|[evo-01-gKKqvLohtrSJj3BM.htm](spells/evo-01-gKKqvLohtrSJj3BM.htm)|Magic Missile|Projectile magique|changé|
-|[evo-01-ho1jSoYKrHUNnM90.htm](spells/evo-01-ho1jSoYKrHUNnM90.htm)|Tempest Surge|Onde de tempête|changé|
-|[evo-01-Hu38hoAUSYeFpkVa.htm](spells/evo-01-Hu38hoAUSYeFpkVa.htm)|Force Bolt|Trait de force|changé|
-|[evo-01-iAnpxrLaBU4V6Sej.htm](spells/evo-01-iAnpxrLaBU4V6Sej.htm)|Tidal Surge|Raz-de-marée|changé|
+|[evo-01-DeNz6eAUlE0IE9U3.htm](spells/evo-01-DeNz6eAUlE0IE9U3.htm)|Winter Bolt|Décharge hivernale|libre|
+|[evo-01-dgCH2E0gMLMUgyFl.htm](spells/evo-01-dgCH2E0gMLMUgyFl.htm)|Shockwave|Onde de choc|libre|
+|[evo-01-EzB9i7R6aBRAtJCh.htm](spells/evo-01-EzB9i7R6aBRAtJCh.htm)|Tempest Touch|Toucher tempêtueux|libre|
+|[evo-01-f9uqHnNBMU0774SF.htm](spells/evo-01-f9uqHnNBMU0774SF.htm)|Elemental Betrayal|Trahison élémentaire|libre|
+|[evo-01-g1eY1vN44mgluE33.htm](spells/evo-01-g1eY1vN44mgluE33.htm)|Charged Javelin|Javelot chagé|libre|
+|[evo-01-g8QqHpv2CWDwmIm1.htm](spells/evo-01-g8QqHpv2CWDwmIm1.htm)|Gust of Wind|Bourrasque|officielle|
+|[evo-01-gKKqvLohtrSJj3BM.htm](spells/evo-01-gKKqvLohtrSJj3BM.htm)|Magic Missile|Projectile magique|officielle|
+|[evo-01-HGmBY8KjgLV97nUp.htm](spells/evo-01-HGmBY8KjgLV97nUp.htm)|Scouring Sand|Sable décapant|libre|
+|[evo-01-ho1jSoYKrHUNnM90.htm](spells/evo-01-ho1jSoYKrHUNnM90.htm)|Tempest Surge|Onde de tempête|officielle|
+|[evo-01-Hu38hoAUSYeFpkVa.htm](spells/evo-01-Hu38hoAUSYeFpkVa.htm)|Force Bolt|Trait de force|officielle|
+|[evo-01-iAnpxrLaBU4V6Sej.htm](spells/evo-01-iAnpxrLaBU4V6Sej.htm)|Tidal Surge|Raz-de-marée|officielle|
 |[evo-01-IWUe32Y5k2QFd7YQ.htm](spells/evo-01-IWUe32Y5k2QFd7YQ.htm)|Gravity Weapon|Arme pesante|libre|
-|[evo-01-jfVCuOpzC6mUrf6f.htm](spells/evo-01-jfVCuOpzC6mUrf6f.htm)|Hydraulic Push|Poussée hydraulique|changé|
-|[evo-01-oJKZi8OQgmVXHOc0.htm](spells/evo-01-oJKZi8OQgmVXHOc0.htm)|Fire Ray|Rayon de feu|changé|
-|[evo-01-pRKaEXnjGJXbPHPC.htm](spells/evo-01-pRKaEXnjGJXbPHPC.htm)|Hurtling Stone|Jet de pierre|changé|
-|[evo-01-r3NeUnsgt9mS03Sn.htm](spells/evo-01-r3NeUnsgt9mS03Sn.htm)|Shocking Grasp|Décharge électrique|changé|
-|[evo-01-rnNGALRtsjspFTws.htm](spells/evo-01-rnNGALRtsjspFTws.htm)|Acidic Burst|Explosion d'acide|changé|
-|[evo-01-SE0fbgBj7atuukdv.htm](spells/evo-01-SE0fbgBj7atuukdv.htm)|Cloak of Shadow|Manteau d'ombre|changé|
-|[evo-01-SuBtUJiU6DbSJYIw.htm](spells/evo-01-SuBtUJiU6DbSJYIw.htm)|Moonbeam|Rayon de lune|changé|
+|[evo-01-jfVCuOpzC6mUrf6f.htm](spells/evo-01-jfVCuOpzC6mUrf6f.htm)|Hydraulic Push|Poussée hydraulique|officielle|
+|[evo-01-kJKSLfCgqxmN2FY8.htm](spells/evo-01-kJKSLfCgqxmN2FY8.htm)|Personal Rain Cloud|Nuage de pluie individuel|libre|
+|[evo-01-oJKZi8OQgmVXHOc0.htm](spells/evo-01-oJKZi8OQgmVXHOc0.htm)|Fire Ray|Rayon de feu|officielle|
+|[evo-01-pRKaEXnjGJXbPHPC.htm](spells/evo-01-pRKaEXnjGJXbPHPC.htm)|Hurtling Stone|Jet de pierre|officielle|
+|[evo-01-r3NeUnsgt9mS03Sn.htm](spells/evo-01-r3NeUnsgt9mS03Sn.htm)|Shocking Grasp|Décharge électrique|officielle|
+|[evo-01-Rn2LkoSq1XhLsODV.htm](spells/evo-01-Rn2LkoSq1XhLsODV.htm)|Pummeling Rubble|Frappe de débris|libre|
+|[evo-01-rnNGALRtsjspFTws.htm](spells/evo-01-rnNGALRtsjspFTws.htm)|Acidic Burst|Explosion d'acide|libre|
+|[evo-01-S6Kkk15MWGqzC00a.htm](spells/evo-01-S6Kkk15MWGqzC00a.htm)|Draconic Barrage|Barrage draconique|libre|
+|[evo-01-SE0fbgBj7atuukdv.htm](spells/evo-01-SE0fbgBj7atuukdv.htm)|Cloak of Shadow|Manteau d'ombre|officielle|
+|[evo-01-SuBtUJiU6DbSJYIw.htm](spells/evo-01-SuBtUJiU6DbSJYIw.htm)|Moonbeam|Rayon de lune|officielle|
 |[evo-01-W37iBXLsY2trJ1rS.htm](spells/evo-01-W37iBXLsY2trJ1rS.htm)|Weapon Surge|Arme améliorée|officielle|
-|[evo-01-W6QlRwQLPoBSw6PZ.htm](spells/evo-01-W6QlRwQLPoBSw6PZ.htm)|Snowball|Boule de neige|changé|
-|[evo-01-y6rAdMK6EFlV6U0t.htm](spells/evo-01-y6rAdMK6EFlV6U0t.htm)|Burning Hands|Mains brûlantes|changé|
-|[evo-01-zul5cBTfr7NXHBZf.htm](spells/evo-01-zul5cBTfr7NXHBZf.htm)|Dazzling Flash|Éclair éblouissant|changé|
+|[evo-01-W6QlRwQLPoBSw6PZ.htm](spells/evo-01-W6QlRwQLPoBSw6PZ.htm)|Snowball|Boule de neige|officielle|
+|[evo-01-y6rAdMK6EFlV6U0t.htm](spells/evo-01-y6rAdMK6EFlV6U0t.htm)|Burning Hands|Mains brûlantes|officielle|
+|[evo-01-zdb8cjOIDVKYMWdr.htm](spells/evo-01-zdb8cjOIDVKYMWdr.htm)|Penumbral Shroud|Voile d'ombre|libre|
+|[evo-01-zul5cBTfr7NXHBZf.htm](spells/evo-01-zul5cBTfr7NXHBZf.htm)|Dazzling Flash|Éclair éblouissant|officielle|
 |[evo-02-0qaqksrGGDj74HXE.htm](spells/evo-02-0qaqksrGGDj74HXE.htm)|Glitterdust|Poussière scintillante|changé|
 |[evo-02-1xbFBQDRs0hT5xZ9.htm](spells/evo-02-1xbFBQDRs0hT5xZ9.htm)|Shatter|Fracassement|changé|
 |[evo-02-2ZdHjnpEQJuqOYSG.htm](spells/evo-02-2ZdHjnpEQJuqOYSG.htm)|Flaming Sphere|Sphère de feu|changé|
 |[evo-02-4GE2ZdODgIQtg51c.htm](spells/evo-02-4GE2ZdODgIQtg51c.htm)|Darkness|Ténèbres|changé|
 |[evo-02-AsKLseOo8hwv5Jha.htm](spells/evo-02-AsKLseOo8hwv5Jha.htm)|Invoke the Crimson Oath|Invoquer le Serment écarlate|changé|
+|[evo-02-cB17yFc9456Pyfec.htm](spells/evo-02-cB17yFc9456Pyfec.htm)|Vomit Swarm|Vomir une nuée|libre|
+|[evo-02-cf7Jkm39uEjUFtHt.htm](spells/evo-02-cf7Jkm39uEjUFtHt.htm)|Sea Surge|Onde océanique|libre|
 |[evo-02-Dbd5W6G8U2vzWolN.htm](spells/evo-02-Dbd5W6G8U2vzWolN.htm)|Consecrate|consécration|changé|
 |[evo-02-f8hRqLJaxBVhF1u0.htm](spells/evo-02-f8hRqLJaxBVhF1u0.htm)|Acid Arrow|Flèche acide|changé|
 |[evo-02-Fq9yCbqI2RDt6Orw.htm](spells/evo-02-Fq9yCbqI2RDt6Orw.htm)|Spiritual Weapon|Arme spirituelle|changé|
 |[evo-02-HRb2doyaLtaoCfi3.htm](spells/evo-02-HRb2doyaLtaoCfi3.htm)|Faerie Fire|Lueurs féériques|changé|
 |[evo-02-mrDi3v933gsmnw25.htm](spells/evo-02-mrDi3v933gsmnw25.htm)|Telekinetic Maneuver|Manoeuvre télékinésique|changé|
 |[evo-02-pMTltbI3S3UIuFaR.htm](spells/evo-02-pMTltbI3S3UIuFaR.htm)|Sun Blade|Lame solaire|libre|
+|[evo-02-Popa5umI3H33levx.htm](spells/evo-02-Popa5umI3H33levx.htm)|Rime Slick|Couche de givre|libre|
+|[evo-02-v4KzRPol5XQOOmk0.htm](spells/evo-02-v4KzRPol5XQOOmk0.htm)|Heat Metal|Métal brûlant|libre|
 |[evo-02-WqPhJNzLa8vSjrH6.htm](spells/evo-02-WqPhJNzLa8vSjrH6.htm)|Animated Assault|Assaut animé|libre|
+|[evo-02-Wt94cw03L77sbud7.htm](spells/evo-02-Wt94cw03L77sbud7.htm)|Breath of Drought|Souffle de sécheresse|libre|
 |[evo-02-wzLkNU3AAqOSKFPR.htm](spells/evo-02-wzLkNU3AAqOSKFPR.htm)|Sound Burst|Cacophonie|changé|
-|[evo-02-ynm8JIU3sc3qUMpa.htm](spells/evo-02-ynm8JIU3sc3qUMpa.htm)|Continual Flame|Flamme éternelle|changé|
+|[evo-02-x0rWq0wS06dns4G2.htm](spells/evo-02-x0rWq0wS06dns4G2.htm)|Final Sacrifice|Sacrifice final|libre|
+|[evo-02-ynm8JIU3sc3qUMpa.htm](spells/evo-02-ynm8JIU3sc3qUMpa.htm)|Continual Flame|Flamme éternelle|officielle|
+|[evo-02-zK0e9d9DSnxC4eAD.htm](spells/evo-02-zK0e9d9DSnxC4eAD.htm)|Sudden Bolt|Décharge soudaine|libre|
+|[evo-03-06pzGkKTyPE3tHR8.htm](spells/evo-03-06pzGkKTyPE3tHR8.htm)|Gravity Well|Puits de gravité|libre|
 |[evo-03-57ulIxg3Of2wCbEh.htm](spells/evo-03-57ulIxg3Of2wCbEh.htm)|Electrified Crystal Ward|Glyphe de cristal électrique|changé|
 |[evo-03-9AAkVUCwF6WVNNY2.htm](spells/evo-03-9AAkVUCwF6WVNNY2.htm)|Lightning Bolt|Éclair|officielle|
 |[evo-03-B8aCUMCHCIMUCEVK.htm](spells/evo-03-B8aCUMCHCIMUCEVK.htm)|Elemental Motion|Mobilité élémentaire|changé|
 |[evo-03-DyiD239dNS7RIxZE.htm](spells/evo-03-DyiD239dNS7RIxZE.htm)|Searing Light|Lumière brûlante|changé|
+|[evo-03-eIPIZp2FUbFcLNdj.htm](spells/evo-03-eIPIZp2FUbFcLNdj.htm)|Pillar of Water|Pilier d'eau|libre|
 |[evo-03-fI20AVwOzJMHXRdo.htm](spells/evo-03-fI20AVwOzJMHXRdo.htm)|Levitate|Lévitation|changé|
 |[evo-03-it4ZsAi6XgvGcodc.htm](spells/evo-03-it4ZsAi6XgvGcodc.htm)|Wall of Wind|Mur de vent|changé|
 |[evo-03-JcobNl4iE9HmMYtE.htm](spells/evo-03-JcobNl4iE9HmMYtE.htm)|Dragon Breath|Souffle de dragon|changé|
 |[evo-03-kRsmUlSWhi6PJvZ7.htm](spells/evo-03-kRsmUlSWhi6PJvZ7.htm)|Angelic Wings|Ailes d'ange|changé|
+|[evo-03-L37RTc7K79OUpZ7X.htm](spells/evo-03-L37RTc7K79OUpZ7X.htm)|Interstellar Void|Vide intersidéral|libre|
+|[evo-03-LFSwMtQVP05EzlZe.htm](spells/evo-03-LFSwMtQVP05EzlZe.htm)|Thunderburst|Explosion tempêtueuse|libre|
 |[evo-03-LrFUj76CHDBV0vHW.htm](spells/evo-03-LrFUj76CHDBV0vHW.htm)|Sun's Fury|Furie du soleil|libre|
 |[evo-03-oo7YcRC2gcez81PV.htm](spells/evo-03-oo7YcRC2gcez81PV.htm)|Ki Blast|Explosion Ki|changé|
 |[evo-03-sRfSBHWHdbIa0aGc.htm](spells/evo-03-sRfSBHWHdbIa0aGc.htm)|Chilling Darkness|Ténèbres glaciales|changé|
 |[evo-03-sxQZ6yqTn0czJxVd.htm](spells/evo-03-sxQZ6yqTn0czJxVd.htm)|Fireball|Boule de feu|changé|
+|[evo-03-T4QKmtYPeCgYxVGe.htm](spells/evo-03-T4QKmtYPeCgYxVGe.htm)|Crashing Wave|Vague écrasante|libre|
+|[evo-03-TT9owkeMBXJxcERB.htm](spells/evo-03-TT9owkeMBXJxcERB.htm)|Unseasonable Squall|Rafale hors saison|libre|
 |[evo-03-tvO6Kmc2pQve9DC5.htm](spells/evo-03-tvO6Kmc2pQve9DC5.htm)|Unfolding Wind Rush|Ruée du vent qui see déploie|changé|
+|[evo-03-vhMCd15ZwNJn0zen.htm](spells/evo-03-vhMCd15ZwNJn0zen.htm)|Malicious Shadow|Ombre malicieuse|libre|
+|[evo-03-Wi2HcreCfujKiCvW.htm](spells/evo-03-Wi2HcreCfujKiCvW.htm)|Whirling Flames|Flammes tourbillonantes|libre|
 |[evo-03-X1b9ollVMSLXDN9o.htm](spells/evo-03-X1b9ollVMSLXDN9o.htm)|Litany against Wrath|Litanie contre la colère|changé|
 |[evo-03-ytboJsyZEbE1MLeV.htm](spells/evo-03-ytboJsyZEbE1MLeV.htm)|Unbreaking Wave Advance|Avancée de la vague qui ne se brise pas|changé|
 |[evo-04-2SYq0ZTsOtJEigFx.htm](spells/evo-04-2SYq0ZTsOtJEigFx.htm)|Mystic Beacon|Phare mystique|officielle|
@@ -598,13 +580,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-04-IarZrgCeaiUqOuRu.htm](spells/evo-04-IarZrgCeaiUqOuRu.htm)|Wall of Fire|Mur de feu|changé|
 |[evo-04-K4LXpaBWrGy6jIER.htm](spells/evo-04-K4LXpaBWrGy6jIER.htm)|Downpour|Déluge|changé|
 |[evo-04-KG7amdeXWc7MjGXe.htm](spells/evo-04-KG7amdeXWc7MjGXe.htm)|Asterism|Étoile|libre|
+|[evo-04-kHyjQbibRGPNCixx.htm](spells/evo-04-kHyjQbibRGPNCixx.htm)|Ice Storm|Tempête de glace|libre|
 |[evo-04-LrhTFHUtSS9ahogL.htm](spells/evo-04-LrhTFHUtSS9ahogL.htm)|Traveler's Transit|Voyageur en transit|changé|
 |[evo-04-NxOYiKCqcuAHVRCj.htm](spells/evo-04-NxOYiKCqcuAHVRCj.htm)|Transcribe Moment|Instant transcrit|libre|
 |[evo-04-SkarN4VlNxSJSJNw.htm](spells/evo-04-SkarN4VlNxSJSJNw.htm)|Wild Winds Stance|Posture des vents violents|changé|
 |[evo-04-uJXs4M6IeixfPBLc.htm](spells/evo-04-uJXs4M6IeixfPBLc.htm)|Clinging Shadows Stance|Posture des ombres tenaces|changé|
 |[evo-04-vfHr1N8Rf2bBpdgn.htm](spells/evo-04-vfHr1N8Rf2bBpdgn.htm)|Elemental Tempest|Tempête élémentaire|officielle|
 |[evo-04-VmqdVWCb8zAUCW8S.htm](spells/evo-04-VmqdVWCb8zAUCW8S.htm)|Debilitating Dichotomy|Dichotomie débilitante|changé|
-|[evo-04-Y3G6Y6EDgCY0s3fq.htm](spells/evo-04-Y3G6Y6EDgCY0s3fq.htm)|Hydraulic Torrent|Torrent|changé|
+|[evo-04-VUwpDY4Z91s9QCg0.htm](spells/evo-04-VUwpDY4Z91s9QCg0.htm)|Bottle the Storm|Tempête en bouteille|libre|
+|[evo-04-wjJW9hWY5CkkMvY5.htm](spells/evo-04-wjJW9hWY5CkkMvY5.htm)|Diamond Dust|Poussière de diamant|libre|
+|[evo-04-Y3G6Y6EDgCY0s3fq.htm](spells/evo-04-Y3G6Y6EDgCY0s3fq.htm)|Hydraulic Torrent|Torrent|officielle|
 |[evo-04-YrzBLPLd3r9m6t1p.htm](spells/evo-04-YrzBLPLd3r9m6t1p.htm)|Fire Shield|Bouclier de feu|changé|
 |[evo-05-2mVW1KT3AjW2pvDO.htm](spells/evo-05-2mVW1KT3AjW2pvDO.htm)|Litany against Sloth|Litanie contre la paresse|changé|
 |[evo-05-3puDanGfpEt6jK5k.htm](spells/evo-05-3puDanGfpEt6jK5k.htm)|Cone of Cold|Cône de froid|changé|
@@ -612,94 +597,116 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-05-9LHr9SuDLTicdbXs.htm](spells/evo-05-9LHr9SuDLTicdbXs.htm)|Hellfire Plume|Volute de feu infernal|changé|
 |[evo-05-crF4g9jRN1y84MSD.htm](spells/evo-05-crF4g9jRN1y84MSD.htm)|Abyssal Wrath|Colère abyssale|changé|
 |[evo-05-E3X2RbzWHCdz7gsk.htm](spells/evo-05-E3X2RbzWHCdz7gsk.htm)|Flame Strike|Colonne de feu|changé|
-|[evo-05-IqJ9URobmJ9L9UBG.htm](spells/evo-05-IqJ9URobmJ9L9UBG.htm)|Shadow Blast|Explosion d'ombre|changé|
-|[evo-05-Qlp8G3knwLGhAxQ0.htm](spells/evo-05-Qlp8G3knwLGhAxQ0.htm)|Elemental Blast|Explosion élémentaire|changé|
-|[evo-05-R5FHRv7VqyRnxg2t.htm](spells/evo-05-R5FHRv7VqyRnxg2t.htm)|Wall of Ice|Mur de glace|changé|
+|[evo-05-HMTloW1hvRFJ5Z2D.htm](spells/evo-05-HMTloW1hvRFJ5Z2D.htm)|Consuming Darkness|Obscurité dévorante|libre|
+|[evo-05-IqJ9URobmJ9L9UBG.htm](spells/evo-05-IqJ9URobmJ9L9UBG.htm)|Shadow Blast|Explosion d'ombre|officielle|
+|[evo-05-JyT346VmGtRLsDnV.htm](spells/evo-05-JyT346VmGtRLsDnV.htm)|Lightning Storm|Tempête d'éclairs|libre|
+|[evo-05-Qlp8G3knwLGhAxQ0.htm](spells/evo-05-Qlp8G3knwLGhAxQ0.htm)|Elemental Blast|Explosion élémentaire|officielle|
+|[evo-05-R5FHRv7VqyRnxg2t.htm](spells/evo-05-R5FHRv7VqyRnxg2t.htm)|Wall of Ice|Mur de glace|officielle|
 |[evo-05-tpLTLbJUrYcMWGld.htm](spells/evo-05-tpLTLbJUrYcMWGld.htm)|Telekinetic Haul|Transport télékinésique|officielle|
 |[evo-05-zfn5RqAdF63neqpP.htm](spells/evo-05-zfn5RqAdF63neqpP.htm)|Control Water|Contrôle de l'eau|officielle|
-|[evo-05-zoY0fQYTF1NzezTg.htm](spells/evo-05-zoY0fQYTF1NzezTg.htm)|Steal the Sky|Voler le ciel|changé|
+|[evo-05-zoY0fQYTF1NzezTg.htm](spells/evo-05-zoY0fQYTF1NzezTg.htm)|Steal the Sky|Voler le ciel|libre|
 |[evo-05-ZW8ovbu1etdfMre3.htm](spells/evo-05-ZW8ovbu1etdfMre3.htm)|Acid Storm|Tempête d'acide|libre|
-|[evo-06-7Iela4GgVeO3LfAo.htm](spells/evo-06-7Iela4GgVeO3LfAo.htm)|Wall of Force|Mur de force|changé|
-|[evo-06-kuoYff1csM5eAcAP.htm](spells/evo-06-kuoYff1csM5eAcAP.htm)|Fire Seeds|Germe de feu|changé|
-|[evo-06-peCF6VArm8urfwxZ.htm](spells/evo-06-peCF6VArm8urfwxZ.htm)|Blade Barrier|Barrière de lames|changé|
-|[evo-06-r7ihOgKv19eJQnik.htm](spells/evo-06-r7ihOgKv19eJQnik.htm)|Disintegrate|Désintégration|changé|
-|[evo-06-TDNlDWbYb58Y55Da.htm](spells/evo-06-TDNlDWbYb58Y55Da.htm)|Chain Lightning|Eclairs multiples|changé|
+|[evo-05-ZyREiMaul0VhDYh3.htm](spells/evo-05-ZyREiMaul0VhDYh3.htm)|Glacial Heart|Cœur glacial|libre|
+|[evo-06-7Iela4GgVeO3LfAo.htm](spells/evo-06-7Iela4GgVeO3LfAo.htm)|Wall of Force|Mur de force|officielle|
+|[evo-06-bynT1UKaDqr8dLNM.htm](spells/evo-06-bynT1UKaDqr8dLNM.htm)|Flaming Fusillade|Fusillade enflammée|libre|
+|[evo-06-kuoYff1csM5eAcAP.htm](spells/evo-06-kuoYff1csM5eAcAP.htm)|Fire Seeds|Germe de feu|officielle|
+|[evo-06-peCF6VArm8urfwxZ.htm](spells/evo-06-peCF6VArm8urfwxZ.htm)|Blade Barrier|Barrière de lames|officielle|
+|[evo-06-r7ihOgKv19eJQnik.htm](spells/evo-06-r7ihOgKv19eJQnik.htm)|Disintegrate|Désintégration|officielle|
+|[evo-06-TDNlDWbYb58Y55Da.htm](spells/evo-06-TDNlDWbYb58Y55Da.htm)|Chain Lightning|Éclairs multiples|officielle|
 |[evo-06-YIMampGpij4Y30yE.htm](spells/evo-06-YIMampGpij4Y30yE.htm)|Stone Tell|Pierre commère|officielle|
 |[evo-07-37ESlJzUvVbOudOT.htm](spells/evo-07-37ESlJzUvVbOudOT.htm)|Reverse Gravity|Inversion de la gravité|officielle|
-|[evo-07-a3aQxCpoj1q1NQxC.htm](spells/evo-07-a3aQxCpoj1q1NQxC.htm)|Sunburst|Explosion de lumière|changé|
-|[evo-07-d6o52BnjViNz7Gub.htm](spells/evo-07-d6o52BnjViNz7Gub.htm)|Prismatic Spray|Rayon prismatique|changé|
+|[evo-07-a3aQxCpoj1q1NQxC.htm](spells/evo-07-a3aQxCpoj1q1NQxC.htm)|Sunburst|Explosion de lumière|officielle|
+|[evo-07-d6o52BnjViNz7Gub.htm](spells/evo-07-d6o52BnjViNz7Gub.htm)|Prismatic Spray|Rayon prismatique|officielle|
 |[evo-07-EgkypvUZIZkx1UlQ.htm](spells/evo-07-EgkypvUZIZkx1UlQ.htm)|Blightburn Blast|Explosion de fléau brûlant|libre|
-|[evo-07-n3b3pDmA6L5YRTyq.htm](spells/evo-07-n3b3pDmA6L5YRTyq.htm)|Litany of Righteousness|Litanie de vertu|changé|
-|[evo-07-n8eEXXAtguoErW0y.htm](spells/evo-07-n8eEXXAtguoErW0y.htm)|Shadow's Web|Toile d'ombre|changé|
-|[evo-07-O7ZEqWjwdKyo2CUv.htm](spells/evo-07-O7ZEqWjwdKyo2CUv.htm)|Volcanic Eruption|Eruption volcanique|changé|
-|[evo-07-sX2o0HH4RjJDAZ8C.htm](spells/evo-07-sX2o0HH4RjJDAZ8C.htm)|Divine Decree|Décret divin|changé|
-|[evo-07-tYP8unoR0a5Dq9EA.htm](spells/evo-07-tYP8unoR0a5Dq9EA.htm)|Litany of Depravity|Litanie de dépravation|changé|
-|[evo-08-2CNqkt2s2IYkVnv6.htm](spells/evo-08-2CNqkt2s2IYkVnv6.htm)|Imprisonment|Emprisonnement|changé|
-|[evo-08-BKIet436snMNcnez.htm](spells/evo-08-BKIet436snMNcnez.htm)|Polar Ray|Rayon polaire|changé|
+|[evo-07-n3b3pDmA6L5YRTyq.htm](spells/evo-07-n3b3pDmA6L5YRTyq.htm)|Litany of Righteousness|Litanie de vertu|officielle|
+|[evo-07-n8eEXXAtguoErW0y.htm](spells/evo-07-n8eEXXAtguoErW0y.htm)|Shadow's Web|Toile d'ombre|libre|
+|[evo-07-O7ZEqWjwdKyo2CUv.htm](spells/evo-07-O7ZEqWjwdKyo2CUv.htm)|Volcanic Eruption|Eruption volcanique|officielle|
+|[evo-07-oahqARSgOGDRybBQ.htm](spells/evo-07-oahqARSgOGDRybBQ.htm)|Control Sand|Contrôle du sable|libre|
+|[evo-07-sX2o0HH4RjJDAZ8C.htm](spells/evo-07-sX2o0HH4RjJDAZ8C.htm)|Divine Decree|Décret divin|officielle|
+|[evo-07-tYP8unoR0a5Dq9EA.htm](spells/evo-07-tYP8unoR0a5Dq9EA.htm)|Litany of Depravity|Litanie de dépravation|libre|
+|[evo-08-2CNqkt2s2IYkVnv6.htm](spells/evo-08-2CNqkt2s2IYkVnv6.htm)|Imprisonment|Emprisonnement|officielle|
+|[evo-08-BKIet436snMNcnez.htm](spells/evo-08-BKIet436snMNcnez.htm)|Polar Ray|Rayon polaire|officielle|
 |[evo-08-wi405lBjPcbF1DeR.htm](spells/evo-08-wi405lBjPcbF1DeR.htm)|Punishing Winds|Vents punitifs|officielle|
-|[evo-08-x7SPrsRxGb2Vy2nu.htm](spells/evo-08-x7SPrsRxGb2Vy2nu.htm)|Earthquake|Tremblement de terre|changé|
-|[evo-08-XkDCzMIyc0YOjw05.htm](spells/evo-08-XkDCzMIyc0YOjw05.htm)|Control Weather|Contrôle du climat|changé|
-|[evo-09-4WS7HrFjwNvTn8T2.htm](spells/evo-09-4WS7HrFjwNvTn8T2.htm)|Implosion|Implosion|changé|
-|[evo-09-jrBa9deU2ULFWvSl.htm](spells/evo-09-jrBa9deU2ULFWvSl.htm)|Meteor Swarm|Nuée de météores|changé|
-|[evo-09-r4HLQcYwB62bTayl.htm](spells/evo-09-r4HLQcYwB62bTayl.htm)|Storm of Vengeance|Tempête vengeresse|changé|
-|[evo-09-XYhU3Wi94n1RKxTa.htm](spells/evo-09-XYhU3Wi94n1RKxTa.htm)|Storm Lord|Seigneur des tempêtes|changé|
-|[evo-09-ZqmP9gijBmK7y8Xy.htm](spells/evo-09-ZqmP9gijBmK7y8Xy.htm)|Weapon of Judgement|Arme du jugement|changé|
-|[evo-10-wLIvH0AT1u7oa64N.htm](spells/evo-10-wLIvH0AT1u7oa64N.htm)|Cataclysm|Cataclysme|changé|
-|[ill-00-atlgGNI1E1Ox3O3a.htm](spells/ill-00-atlgGNI1E1Ox3O3a.htm)|Ghost Sound|Son imaginaire|changé|
-|[ill-00-PEfSofHm73IT3Khc.htm](spells/ill-00-PEfSofHm73IT3Khc.htm)|House of Imaginary Walls|Demeure aux murs imaginaires|changé|
-|[ill-00-vLzFcIaSXs7YTIqJ.htm](spells/ill-00-vLzFcIaSXs7YTIqJ.htm)|Message|Message|changé|
-|[ill-01-2oH5IufzdESuYxat.htm](spells/ill-01-2oH5IufzdESuYxat.htm)|Illusory Object|Objet illusoire|changé|
-|[ill-01-4ZGte0i9YbLh4dRi.htm](spells/ill-01-4ZGte0i9YbLh4dRi.htm)|Item Facade|Façade|changé|
-|[ill-01-fXdADBwxmBsU9xPk.htm](spells/ill-01-fXdADBwxmBsU9xPk.htm)|Warped Terrain|Terrain déformé|changé|
-|[ill-01-i35dpZFI7jZcRoBo.htm](spells/ill-01-i35dpZFI7jZcRoBo.htm)|Illusory Disguise|Déguisement illusoire|changé|
-|[ill-01-PRrZ7anETWPm90YY.htm](spells/ill-01-PRrZ7anETWPm90YY.htm)|Magic Aura|Aura magique|changé|
-|[ill-01-R8bqnYiThB6MYTxD.htm](spells/ill-01-R8bqnYiThB6MYTxD.htm)|Phantom Pain|Douleur fantôme|changé|
-|[ill-01-UKsIOWmMx4hSpafl.htm](spells/ill-01-UKsIOWmMx4hSpafl.htm)|Color Spray|Couleurs dansantes|changé|
-|[ill-01-xTpp8dHZsNMDm75B.htm](spells/ill-01-xTpp8dHZsNMDm75B.htm)|Splash of Art|Avalanche d'art|changé|
-|[ill-01-yH13KXUK2x093NUv.htm](spells/ill-01-yH13KXUK2x093NUv.htm)|Face in the Crowd|Fondu dans la foule|changé|
-|[ill-01-yV7Ouzaoe7DHLESI.htm](spells/ill-01-yV7Ouzaoe7DHLESI.htm)|Ventriloquism|Ventriloquie|changé|
-|[ill-01-ZeftDoh0nFAXBAWY.htm](spells/ill-01-ZeftDoh0nFAXBAWY.htm)|Appearance of Wealth|Richesse apparente|changé|
-|[ill-02-3JG1t3T4mWn6vTke.htm](spells/ill-02-3JG1t3T4mWn6vTke.htm)|Blur|Flou|changé|
+|[evo-08-x7SPrsRxGb2Vy2nu.htm](spells/evo-08-x7SPrsRxGb2Vy2nu.htm)|Earthquake|Tremblement de terre|officielle|
+|[evo-08-XkDCzMIyc0YOjw05.htm](spells/evo-08-XkDCzMIyc0YOjw05.htm)|Control Weather|Contrôle du climat|officielle|
+|[evo-09-4WS7HrFjwNvTn8T2.htm](spells/evo-09-4WS7HrFjwNvTn8T2.htm)|Implosion|Implosion|officielle|
+|[evo-09-jrBa9deU2ULFWvSl.htm](spells/evo-09-jrBa9deU2ULFWvSl.htm)|Meteor Swarm|Nuée de météores|officielle|
+|[evo-09-r4HLQcYwB62bTayl.htm](spells/evo-09-r4HLQcYwB62bTayl.htm)|Storm of Vengeance|Tempête vengeresse|officielle|
+|[evo-09-XYhU3Wi94n1RKxTa.htm](spells/evo-09-XYhU3Wi94n1RKxTa.htm)|Storm Lord|Seigneur des tempêtes|officielle|
+|[evo-09-ZqmP9gijBmK7y8Xy.htm](spells/evo-09-ZqmP9gijBmK7y8Xy.htm)|Weapon of Judgement|Arme du jugement|officielle|
+|[evo-10-wLIvH0AT1u7oa64N.htm](spells/evo-10-wLIvH0AT1u7oa64N.htm)|Cataclysm|Cataclysme|officielle|
+|[ill-00-atlgGNI1E1Ox3O3a.htm](spells/ill-00-atlgGNI1E1Ox3O3a.htm)|Ghost Sound|Son imaginaire|officielle|
+|[ill-00-PEfSofHm73IT3Khc.htm](spells/ill-00-PEfSofHm73IT3Khc.htm)|House of Imaginary Walls|Demeure aux murs imaginaires|officielle|
+|[ill-00-vLzFcIaSXs7YTIqJ.htm](spells/ill-00-vLzFcIaSXs7YTIqJ.htm)|Message|Message|officielle|
+|[ill-01-2oH5IufzdESuYxat.htm](spells/ill-01-2oH5IufzdESuYxat.htm)|Illusory Object|Objet illusoire|officielle|
+|[ill-01-4ZGte0i9YbLh4dRi.htm](spells/ill-01-4ZGte0i9YbLh4dRi.htm)|Item Facade|Façade|officielle|
+|[ill-01-fXdADBwxmBsU9xPk.htm](spells/ill-01-fXdADBwxmBsU9xPk.htm)|Warped Terrain|Terrain déformé|officielle|
+|[ill-01-i35dpZFI7jZcRoBo.htm](spells/ill-01-i35dpZFI7jZcRoBo.htm)|Illusory Disguise|Déguisement illusoire|officielle|
+|[ill-01-nX85Brzax9f650aK.htm](spells/ill-01-nX85Brzax9f650aK.htm)|Invisible Item|Objet invisible|libre|
+|[ill-01-PRrZ7anETWPm90YY.htm](spells/ill-01-PRrZ7anETWPm90YY.htm)|Magic Aura|Aura magique|officielle|
+|[ill-01-R8bqnYiThB6MYTxD.htm](spells/ill-01-R8bqnYiThB6MYTxD.htm)|Phantom Pain|Douleur fantôme|officielle|
+|[ill-01-UKsIOWmMx4hSpafl.htm](spells/ill-01-UKsIOWmMx4hSpafl.htm)|Color Spray|Couleurs dansantes|officielle|
+|[ill-01-xTpp8dHZsNMDm75B.htm](spells/ill-01-xTpp8dHZsNMDm75B.htm)|Splash of Art|Avalanche d'art|officielle|
+|[ill-01-yH13KXUK2x093NUv.htm](spells/ill-01-yH13KXUK2x093NUv.htm)|Face in the Crowd|Fondu dans la foule|officielle|
+|[ill-01-yV7Ouzaoe7DHLESI.htm](spells/ill-01-yV7Ouzaoe7DHLESI.htm)|Ventriloquism|Ventriloquie|officielle|
+|[ill-01-ZeftDoh0nFAXBAWY.htm](spells/ill-01-ZeftDoh0nFAXBAWY.htm)|Appearance of Wealth|Richesse apparente|officielle|
+|[ill-01-znMvKqcRDilIVMwA.htm](spells/ill-01-znMvKqcRDilIVMwA.htm)|Exchange Image|Échanger les visages|libre|
+|[ill-02-3JG1t3T4mWn6vTke.htm](spells/ill-02-3JG1t3T4mWn6vTke.htm)|Blur|Flou|officielle|
 |[ill-02-c2bTWBNO1BYX4Zfg.htm](spells/ill-02-c2bTWBNO1BYX4Zfg.htm)|Misdirection|Détection faussée|officielle|
 |[ill-02-eIQ86FOXK34HiNLs.htm](spells/ill-02-eIQ86FOXK34HiNLs.htm)|Magic Mouth|Bouche magique|officielle|
-|[ill-02-f8SBoXiXQjlCKqly.htm](spells/ill-02-f8SBoXiXQjlCKqly.htm)|Illusory Creature|Créature illusoire|changé|
-|[ill-02-gIdDLrbswTV3OBJy.htm](spells/ill-02-gIdDLrbswTV3OBJy.htm)|Silence|Silence|changé|
-|[ill-02-j8vIoIEWElvpwkcI.htm](spells/ill-02-j8vIoIEWElvpwkcI.htm)|Mirror Image|Image miroir|changé|
-|[ill-02-Mkbq9xlAUxHUHyR2.htm](spells/ill-02-Mkbq9xlAUxHUHyR2.htm)|Paranoia|Paranoïa|changé|
-|[ill-02-XXqE1eY3w3z6xJCB.htm](spells/ill-02-XXqE1eY3w3z6xJCB.htm)|Invisibility|Invisibilité|changé|
-|[ill-03-aZg3amDcrXz3cLCz.htm](spells/ill-03-aZg3amDcrXz3cLCz.htm)|Horrific Visage|Visage terrifiant|changé|
-|[ill-03-I0j56TNRmGcTyoqJ.htm](spells/ill-03-I0j56TNRmGcTyoqJ.htm)|Invisibility Sphere|Sphère d'invisibilité|changé|
-|[ill-03-K2WpC3FFoHrqX9Q5.htm](spells/ill-03-K2WpC3FFoHrqX9Q5.htm)|Hypnotic Pattern|Lueurs hypnotiques|changé|
+|[ill-02-f8SBoXiXQjlCKqly.htm](spells/ill-02-f8SBoXiXQjlCKqly.htm)|Illusory Creature|Créature illusoire|officielle|
+|[ill-02-gIdDLrbswTV3OBJy.htm](spells/ill-02-gIdDLrbswTV3OBJy.htm)|Silence|Silence|officielle|
+|[ill-02-j8vIoIEWElvpwkcI.htm](spells/ill-02-j8vIoIEWElvpwkcI.htm)|Mirror Image|Image miroir|officielle|
+|[ill-02-L0GoJpHxSD0wRY5k.htm](spells/ill-02-L0GoJpHxSD0wRY5k.htm)|Phantasmal Treasure|Trésor fantasmatique|libre|
+|[ill-02-Mkbq9xlAUxHUHyR2.htm](spells/ill-02-Mkbq9xlAUxHUHyR2.htm)|Paranoia|Paranoïa|officielle|
+|[ill-02-XXqE1eY3w3z6xJCB.htm](spells/ill-02-XXqE1eY3w3z6xJCB.htm)|Invisibility|Invisibilité|officielle|
+|[ill-03-aZg3amDcrXz3cLCz.htm](spells/ill-03-aZg3amDcrXz3cLCz.htm)|Horrific Visage|Visage terrifiant|officielle|
+|[ill-03-FrKPwgFxWIGMGgs4.htm](spells/ill-03-FrKPwgFxWIGMGgs4.htm)|Deceiver's Cloak|Cape de tromperie|libre|
+|[ill-03-HHGUBGle4OjoxvNR.htm](spells/ill-03-HHGUBGle4OjoxvNR.htm)|Sculpt Sound|Sculpter le son|libre|
+|[ill-03-I0j56TNRmGcTyoqJ.htm](spells/ill-03-I0j56TNRmGcTyoqJ.htm)|Invisibility Sphere|Sphère d'invisibilité|officielle|
+|[ill-03-K2WpC3FFoHrqX9Q5.htm](spells/ill-03-K2WpC3FFoHrqX9Q5.htm)|Hypnotic Pattern|Lueurs hypnotiques|officielle|
+|[ill-03-pQ3NIzZXeIIcU81C.htm](spells/ill-03-pQ3NIzZXeIIcU81C.htm)|Spirit Veil|Voile spirituel|libre|
+|[ill-03-PVXqMko4yGgw90uo.htm](spells/ill-03-PVXqMko4yGgw90uo.htm)|Heart's Desire|Désir du cœur|libre|
 |[ill-03-VVAZPCvd4d90qVA1.htm](spells/ill-03-VVAZPCvd4d90qVA1.htm)|Secret Page|Page secrète|officielle|
-|[ill-04-HBJPsonQnWcC3qdX.htm](spells/ill-04-HBJPsonQnWcC3qdX.htm)|Hallucinatory Terrain|Terrain hallucinatoire|changé|
-|[ill-04-hkfH9Z53hPzcOwNB.htm](spells/ill-04-hkfH9Z53hPzcOwNB.htm)|Veil|Voile|changé|
-|[ill-04-Nun72GTmb31YqSKh.htm](spells/ill-04-Nun72GTmb31YqSKh.htm)|Invisibility Cloak|Cape d'invisibilité|changé|
-|[ill-04-tlcrVRqW1MSKJ5IC.htm](spells/ill-04-tlcrVRqW1MSKJ5IC.htm)|Phantasmal Killer|Assassin imaginaire|changé|
-|[ill-04-Uqj344bezBq3ESdq.htm](spells/ill-04-Uqj344bezBq3ESdq.htm)|Nightmare|Cauchemar|changé|
-|[ill-04-ZhLYJlOZzUB1OKoe.htm](spells/ill-04-ZhLYJlOZzUB1OKoe.htm)|Trickster's Twin|Jumeau du trompeur|changé|
-|[ill-05-DdXKfIjDtORUtUvY.htm](spells/ill-05-DdXKfIjDtORUtUvY.htm)|Fey Glamour|Enchetement féerique|officielle|
+|[ill-04-h5UqEdeqK8iTcU0J.htm](spells/ill-04-h5UqEdeqK8iTcU0J.htm)|Simulacrum|Simulacrum|libre|
+|[ill-04-HBJPsonQnWcC3qdX.htm](spells/ill-04-HBJPsonQnWcC3qdX.htm)|Hallucinatory Terrain|Terrain hallucinatoire|officielle|
+|[ill-04-HisaZTk67YAxLGBq.htm](spells/ill-04-HisaZTk67YAxLGBq.htm)|Ephemeral Hazards|Dangers éphémères|libre|
+|[ill-04-hkfH9Z53hPzcOwNB.htm](spells/ill-04-hkfH9Z53hPzcOwNB.htm)|Veil|Voile|officielle|
+|[ill-04-Nun72GTmb31YqSKh.htm](spells/ill-04-Nun72GTmb31YqSKh.htm)|Invisibility Cloak|Cape d'invisibilité|officielle|
+|[ill-04-tlcrVRqW1MSKJ5IC.htm](spells/ill-04-tlcrVRqW1MSKJ5IC.htm)|Phantasmal Killer|Assassin imaginaire|officielle|
+|[ill-04-Uqj344bezBq3ESdq.htm](spells/ill-04-Uqj344bezBq3ESdq.htm)|Nightmare|Cauchemar|officielle|
+|[ill-04-vhe9DduqaivMs8FV.htm](spells/ill-04-vhe9DduqaivMs8FV.htm)|Ghostly Transcription|Transcription fantômatique|libre|
+|[ill-04-ZhLYJlOZzUB1OKoe.htm](spells/ill-04-ZhLYJlOZzUB1OKoe.htm)|Trickster's Twin|Jumeau du trompeur|officielle|
+|[ill-05-DdXKfIjDtORUtUvY.htm](spells/ill-05-DdXKfIjDtORUtUvY.htm)|Fey Glamour|Enchantement féerique|officielle|
+|[ill-05-m4Mc5XbdML92BKOE.htm](spells/ill-05-m4Mc5XbdML92BKOE.htm)|Strange Geometry|Géométrie étrange|libre|
 |[ill-05-RCbLd7dfquHnuvrZ.htm](spells/ill-05-RCbLd7dfquHnuvrZ.htm)|False Vision|Vision faussée|officielle|
-|[ill-05-scTRIrTfXquVYHGw.htm](spells/ill-05-scTRIrTfXquVYHGw.htm)|Drop Dead|Raide mort|changé|
-|[ill-05-TCk2MDwf5L5OYjFC.htm](spells/ill-05-TCk2MDwf5L5OYjFC.htm)|Cloak of Colors|Cape colorée|changé|
-|[ill-05-tcwT97RWKxsJiefG.htm](spells/ill-05-tcwT97RWKxsJiefG.htm)|Shadow Siphon|Siphon d'ombre|changé|
+|[ill-05-scTRIrTfXquVYHGw.htm](spells/ill-05-scTRIrTfXquVYHGw.htm)|Drop Dead|Raide mort|officielle|
+|[ill-05-TCk2MDwf5L5OYjFC.htm](spells/ill-05-TCk2MDwf5L5OYjFC.htm)|Cloak of Colors|Cape colorée|officielle|
+|[ill-05-tcwT97RWKxsJiefG.htm](spells/ill-05-tcwT97RWKxsJiefG.htm)|Shadow Siphon|Siphon d'ombre|officielle|
 |[ill-05-U58aQWJ47VrI36yP.htm](spells/ill-05-U58aQWJ47VrI36yP.htm)|Hallucination|Hallucination|changé|
 |[ill-05-Ucf8eynbZMfUucjE.htm](spells/ill-05-Ucf8eynbZMfUucjE.htm)|Illusory Scene|Scène illusoire|changé|
-|[ill-06-0XP2XOxT9VSiXFDr.htm](spells/ill-06-0XP2XOxT9VSiXFDr.htm)|Phantasmal Calamity|Calamité imaginaire|changé|
+|[ill-05-xPrbxyOEwy9QaPVn.htm](spells/ill-05-xPrbxyOEwy9QaPVn.htm)|Chameleon Coat|Couverture caméléon|libre|
+|[ill-06-0XP2XOxT9VSiXFDr.htm](spells/ill-06-0XP2XOxT9VSiXFDr.htm)|Phantasmal Calamity|Calamité imaginaire|officielle|
 |[ill-06-EOWh6VVcSjB3WPjX.htm](spells/ill-06-EOWh6VVcSjB3WPjX.htm)|Shadow Illusion|Illusion de l'ombre|changé|
 |[ill-06-m34WOIGZCEg1h76G.htm](spells/ill-06-m34WOIGZCEg1h76G.htm)|Blanket Of Stars|Couverture d'étoiles|libre|
-|[ill-06-RQjSQVZRG497cJhX.htm](spells/ill-06-RQjSQVZRG497cJhX.htm)|Vibrant Pattern|Motif éclatant|changé|
-|[ill-06-WPXzPl7YbMEIGWfi.htm](spells/ill-06-WPXzPl7YbMEIGWfi.htm)|Mislead|Double illusoire|changé|
+|[ill-06-RQjSQVZRG497cJhX.htm](spells/ill-06-RQjSQVZRG497cJhX.htm)|Vibrant Pattern|Motif éclatant|officielle|
+|[ill-06-WPXzPl7YbMEIGWfi.htm](spells/ill-06-WPXzPl7YbMEIGWfi.htm)|Mislead|Double illusoire|officielle|
 |[ill-07-0873MWM0qKDDv81O.htm](spells/ill-07-0873MWM0qKDDv81O.htm)|Project Image|Projection d'image|changé|
 |[ill-07-jBGAYmR0BkkbpJvG.htm](spells/ill-07-jBGAYmR0BkkbpJvG.htm)|Visions of Danger|Dangereuses visions|changé|
 |[ill-07-O6VQC1Bs4aSYDa6R.htm](spells/ill-07-O6VQC1Bs4aSYDa6R.htm)|Mask of Terror|Masque terrifiant|changé|
-|[ill-08-rwCh2qTYPA44KEoK.htm](spells/ill-08-rwCh2qTYPA44KEoK.htm)|Dream Council|Conseil onirique|changé|
-|[ill-08-uEyfLoFQsRKBRIcB.htm](spells/ill-08-uEyfLoFQsRKBRIcB.htm)|Scintillating Pattern|Motif scintillant|changé|
-|[ill-08-wfleiawxsfhpRRwf.htm](spells/ill-08-wfleiawxsfhpRRwf.htm)|Disappearance|Disparition|changé|
-|[ill-09-qDjeG6dxT4aEEC6J.htm](spells/ill-09-qDjeG6dxT4aEEC6J.htm)|Weird|Ennemi subconscient|changé|
-|[nec-00-kcelf6IHl3L9VXXg.htm](spells/nec-00-kcelf6IHl3L9VXXg.htm)|Disrupt Undead|Destruction de mort-vivant|changé|
-|[nec-00-mAMEt4FFbdqoRnkN.htm](spells/nec-00-mAMEt4FFbdqoRnkN.htm)|Chill Touch|Contact glacial|changé|
-|[nec-00-SnjhtQYexDtNDdEg.htm](spells/nec-00-SnjhtQYexDtNDdEg.htm)|Stabilize|Stabilisation|changé|
-|[nec-01-2iQKhCQBijhj5Rf3.htm](spells/nec-01-2iQKhCQBijhj5Rf3.htm)|Disrupting Weapons|Armes perturbatrices|changé|
+|[ill-08-rwCh2qTYPA44KEoK.htm](spells/ill-08-rwCh2qTYPA44KEoK.htm)|Dream Council|Conseil onirique|officielle|
+|[ill-08-uEyfLoFQsRKBRIcB.htm](spells/ill-08-uEyfLoFQsRKBRIcB.htm)|Scintillating Pattern|Motif scintillant|officielle|
+|[ill-08-wfleiawxsfhpRRwf.htm](spells/ill-08-wfleiawxsfhpRRwf.htm)|Disappearance|Disparition|officielle|
+|[ill-09-nA0XlPsnMNrQMpio.htm](spells/ill-09-nA0XlPsnMNrQMpio.htm)|Fantastic Facade|Façade fantastique|libre|
+|[ill-09-qDjeG6dxT4aEEC6J.htm](spells/ill-09-qDjeG6dxT4aEEC6J.htm)|Weird|Ennemi subconscient|officielle|
+|[nec-00-kcelf6IHl3L9VXXg.htm](spells/nec-00-kcelf6IHl3L9VXXg.htm)|Disrupt Undead|Destruction de mort-vivant|officielle|
+|[nec-00-mAMEt4FFbdqoRnkN.htm](spells/nec-00-mAMEt4FFbdqoRnkN.htm)|Chill Touch|Contact glacial|officielle|
+|[nec-00-SnjhtQYexDtNDdEg.htm](spells/nec-00-SnjhtQYexDtNDdEg.htm)|Stabilize|Stabilisation|officielle|
+|[nec-00-yp4w9SG4RuqRM8KD.htm](spells/nec-00-yp4w9SG4RuqRM8KD.htm)|Spirit Object|Animation d'objet|libre|
+|[nec-01-2gQYrCPwBmwau26O.htm](spells/nec-01-2gQYrCPwBmwau26O.htm)|Life Link|Lien vital|libre|
+|[nec-01-2iQKhCQBijhj5Rf3.htm](spells/nec-01-2iQKhCQBijhj5Rf3.htm)|Disrupting Weapons|Armes perturbatrices|officielle|
+|[nec-01-7tp97g0UCJ9wOrd5.htm](spells/nec-01-7tp97g0UCJ9wOrd5.htm)|Withering Grasp|Poigne de flétrissement|libre|
+|[nec-01-9u6X9ykhzG11NK1n.htm](spells/nec-01-9u6X9ykhzG11NK1n.htm)|Magic Stone|Pierre magique|libre|
 |[nec-01-9WGeBwIIbbUuWKq0.htm](spells/nec-01-9WGeBwIIbbUuWKq0.htm)|Animate Dead|Animation des morts|libre|
 |[nec-01-BH3sUerzMb2bWnv1.htm](spells/nec-01-BH3sUerzMb2bWnv1.htm)|Call of the Grave|Appel de la tombe|changé|
 |[nec-01-DYdvMZ8G2LiSLVWw.htm](spells/nec-01-DYdvMZ8G2LiSLVWw.htm)|Spider Sting|Morsure d'araignée|changé|

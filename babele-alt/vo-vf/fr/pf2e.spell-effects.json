@@ -2,49 +2,9 @@
     "label": "Effets des sorts",
     "entries": [
         {
-            "id": "Effect: Bravo's Brew (Lesser)",
-            "name": "Effect: Bravo's Brew (Lesser) (Effet : Breuvage de bravoure (Inférieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.zM9VX3QwM81DzDUA]{Breuvage de bravoure (Inférieur)}</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 aux jets de Volonté</li>\n<li>bonus d'objet de +2 aux jets conter la terreur</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Elixir of Life (Minor)",
-            "name": "Effect: Elixir of Life (Minor) (Effet : Élixir de vie (Mineur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.hDLbR56Id2OtU318]{Élixir de Vie (Mineur)}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 aux jets de sauvegarde contre les maladies et les poisons</li>\n</ul>\n<p>Effets non pris en compte :</p>\n<ul>\n<li>Soigne [[/r 1d6]] Points de vie</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Cognitive Mutagen (Lesser)",
-            "name": "Effect: Cognitive Mutagen (Lesser) (Effet : Mutagène cognitif (Inférieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.wbr6rkyaVYnDhdgV]{Mutagène cognitif (Inférieur)}</p>\n<p><strong>Effets pris en compte :</strong></p>\n<ul>\n<li>bonus d'objet de +1 aux tests d'Arcanes, d'Artisanat, d'Occultisme et de Société</li>\n<li>pénalité de -2 aux tests d'Athlétisme et d'Acrobaties</li>\n<li>pénalité de -2 aux attaques avec une arme et à mains nues</li>\n</ul>\n<p><strong>Effets non pris en compte :</strong></p>\n<ul>\n<li>bonus d'objet de +1 aux tests de Connaissance</li>\n<li>bonus d'objet de +1 à tous les tests pour Se souvenir</li>\n<li>Traiter les échecs critiques de Se souvenir comme des échecs</li>\n<li>Vous pouvez porter 2 encombrements de moins qu'e d'ordinaire avant de devenir surchargé</li>\n<li>Le maximum d'Encombrements que vous pouvez transporter est réduit de 4</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Antiplague (Lesser)",
-            "name": "Effect: Antiplague (Lesser) (Effet : Antimaladie (Inférieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.UqinuuCWePTYGhVO]{Antimaladie (Inférieur)}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus d'objet de +2 aux jets de Vigueur contre les maladies</li>\n</ul>"
-        },
-        {
             "id": "Spell Effect: Bless",
             "name": "Spell Effect: Bless (Effet de sort : Bénédiction)",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bénédiction}</p>\n<hr>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de statut de +1 aux jets d'attaque.</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Antiplague (Moderate)",
-            "name": "Effect: Antiplague (Moderate) (Effet : Antimaladie (Modéré))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.biRbqKo2C97XLfQ0]{Antimaladie (Modéré)}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus d'objet de +3 aux jets de Vigueur contre les maladies</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Throne Card",
-            "name": "Effect: Throne Card (Effet: Carte Trône)",
-            "description": "<p>Accordé par la carte <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.gmg-srd\" data-id=\"IJ3nFDu2YcoP6ynd\">Trône</a> des <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.equipment-srd\" data-id=\"Gyi4IVrAVJRPJF2s\">Cartes merveilleuses</a></p>\n<p>Effets automatiquement appliqués :</p>\n<ul>\n<li>un bonus de statut de +4 à la Diplomatie</li>\n</ul>\n<p>&nbsp;</p>"
-        },
-        {
-            "id": "Effect: Boulderhead Bock",
-            "name": "Effect: Boulderhead Bock (Effet : Bock têtederoc)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.I0eUrgVGl8a2ZjFc]{Bock têtederoc}.</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 aux jets de sauvegarde contre les effets qui vous rendraient Étourdi ou Stupéfié.</li>\n<li>pénalité d'objet de -2 à la Perception</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Dueling Parry",
-            "name": "Effect: Dueling Parry (Effet : Parade en duel)",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.WcY7H7mRiK2VDquV]{Parade en duel (Bretteur)} ou @Compendium[pf2e.feats-srd.n7nQQR940OvFbw7T]{Parade en duel (Guerrier)}</p>\n<p>Effet appliqué automatiquement :</p>\n<ul>\n<li>bonus de circonstance de +2 à la CA</li>\n</ul>"
         },
         {
             "id": "Spell Effect: Guidance",
@@ -57,139 +17,14 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Bouclier}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de circonstance de +1 à la CA</li>\n</ul>"
         },
         {
-            "id": "Effect: Antiplague (Major)",
-            "name": "Effect: Antiplague (Major) (Effet : Antimaladie (Majeur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.kajpTXg3oHIJStQa]{Antimaladie (Majeur)}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus d'objet de +4 aux jets de Vigueur contre les maladies</li>\n</ul>\n<p>Effet pris en compte :</p>\n<ul>\n<li>Tentative immédiate d'un jet de sauvegarde contre une maladie de niveau 14 ou inférieure qui vous affecte. Si vous obtenez un succès, vous êtes soigné  de la maladie.</li>\n</li>"
-        },
-        {
-            "id": "Effect: Antidote (Greater)",
-            "name": "Effect: Antidote (Greater) (Effet : Antidote (Supérieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.XWkeL34yJK6t5qUE]{Antidote (Supérieur)}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus d'objet de +4 aux jets de Vigueur contre les poisons</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Silvertongue Mutagen (Lesser)",
-            "name": "Effect: Silvertongue Mutagen (Lesser) (Effet : Mutagène de langue dorée (Inférieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.YwRAHWW8yUI07sy9]{Mutagène de langue dorée (Inférieur)}</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 aux tests de Duperie, de Diplomatie, d'Intimidation et de Représentation</li>\n<li>pénalité d'objet de -2 aux tests d'Arcanes, d'Artisanat, d'Occultisme et de Société</li>\n</ul>\n<p>Effets non pris en compte :</p>\n<ul>\n<li>Vos échecs critiques en Duperie, en Diplomatie, en Intimidation et en Représentation sont de simples échecs</li>\n<li>pénalité d'objet de -2 aux tests de Connaissance</li>\n<li>Devenir inexpérimenté en une compétence dans laquelle vous êtes qualifié</li>\n<li>Tous les échecs pour Vous souvenir sont considérés comme des échecs critiques</li>\n</ul>"
-        },
-        {
             "id": "Spell Effect: Inspire Courage",
             "name": "Spell Effect: Inspire Courage (Effet : Inspiration Vaillante)",
             "description": "<p>Accordé par  @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspiration Vaillante}</p>\n<p>Effet pris en compte :\n<ul>\n<li>bonus de statut de +1 aux jets d'attaque</li>\n<li>bonus de statut de +1 aux jets de dégâts</li>\n<li>bonus de statut de +1 aux jets de sauvegarde contre les effets de terreur</li>\n</ul>"
         },
         {
-            "id": "Effect: Darkvision Elixir",
-            "name": "Effect: Darkvision Elixir (Effet : Élixir de vision dans le noir)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.88pGCHV0uKMskTVO]{Élixir de Vision dans le noir}</p>\n<p>Effet pris en compte:</p>\n<ul>\n<li>Obtient Vision dans le noir</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Bloodhound Mask (Lesser)",
-            "name": "Effect: Bloodhound Mask (Lesser) (Effet : Masque du limier (Inférieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.mDJSaarQsIMX7Opi]{Masque du limier (Inférieur)}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>Obtient un odorat imprécis avec une porté de 4,5 m</li>\n<li>bonus d'objet de +1 aux tests de Survie pour pister</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Antidote (Lesser)",
-            "name": "Effect: Antidote (Lesser) (Effet : Antidote (inférieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ktjFOp3U0wQD9t0Z]{Antidote (Inférieur)}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus d'objet de +2 aux jets de Vigueur contre les poisons</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Antidote (Major)",
-            "name": "Effect: Antidote (Major) (Effet : Antidote (Majeur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ANzB9WzlGQXDn76G]{Antidote (Majeur)}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus d'objet de +4 aux jets de Vigueur contre les poisons</li>\n</ul>\n<p>Effet non pris en compte :\n<ul>\n<li>tentative immédiate d'un jet de sauvegarde contre un poison de niveau 14 ou inférieur qui vous affecte. En cas de succès, le poison est neutralisé.</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Eagle Eye Elixir (Lesser)",
-            "name": "Effect: Eagle Eye Elixir (Lesser) (Effet : Élixir d'œil du faucon (Inférieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.7Y2yOr4ltpP2tyuL]{Élixir d'œil du faucon (Inférieur)}</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 aux tests de Perception</li>\n<li>bonus d'objet de +2 aux tests de Perception pour trouver les portes secrète et les pièges</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Golden Legion Epaulet",
-            "name": "Effect: Golden Legion Epaulet (Effet : Épaulette de la légion dorée)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.CDuN9kzyxBZ4cShq]{Épaulette de la Légion dorée}.</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus de statut de +1 aux jets d'attaque</li>\n<li>bonus de statut de +1 aux jets de dégâts</li>\n<li>bonus de statut de +1 aux jets de sauvegarde contre la terreur</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Earplugs",
-            "name": "Effect: Earplugs (Bouchons d'oreilles)",
-            "description": "<p>Accordé par les @Compendium[pf2e.equipment-srd.iYiA6CMR1N2E2Ny2]{Bouchons d'oreilles}</p>\n<hr />\n<p>Effets automatiquement appliqués :</p>\n<ul>\n<li>bonus d'objet de +1 contre les effets avec le trait audible</li>\n<li>pénalité d'objet de -2 aux tests de Perception impliquant le son</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Drakeheart Mutagen (Lesser)",
-            "name": "Effect: Drakeheart Mutagen (Lesser) (Effet : Mutagène cœur de drake (Inférieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.GS4YvQieBS11JNYR]{Mutagène cœur de drake (Inférieur)}</p>\n<p><strong>effets pris en compte :</strong></p>\n<ul>\n<li>Bonus d'objet de +4 à la CA</li>\n<li>Maximum de Dextérité de +2</li>\n<li>Bonus d'objet de +1 aux tests de Perception</li>\n<li>pénalité de -1 aux jets de Volonté</li>\n<li>pénalité de -1 penalty aux jets de Réflexes</li>\n<li>pénalité de -1 à tous les tests pour Vous souvenir</li>\n</ul>\n<p><strong>Effet non pris en compte :</strong></p>\n<ul>\n<li>Obtient l'action Impulsion finale</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Antiplague (Greater)",
-            "name": "Effect: Antiplague (Greater) (Effet : Antimaladie (Supérieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ORDaAzMZLrf6Hn8A]{Antimaladie (Supérieur)}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus d'objet de +4 aux jets de Vigueur contre les maladies</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Antidote (Moderate)",
-            "name": "Effect: Antidote (Moderate) (Effet : Antidote (Modéré))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.AJ1dC7EtTIfBey0M]{Antidote (Modéré)}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus d'objet de +3 aux jets de Vigueur contre les poisons</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Lastwall Soup",
-            "name": "Effect: Lastwall Soup (Effet : Soupe de Dernier-Rempart)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.VeCNWhvEr82ZNoSV]{Soupe de Dernier-Rempart}</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +2 aux tests de Discrétion contre les morts-vivants</li>\n</ul>\n<p>Effets non pris en compte :</p>\n<ul>\n<li>bonus d'objet de +2 au DD de Discrétion contre les morts-vivants</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Serene Mutagen (Lesser)",
-            "name": "Effect: Serene Mutagen (Lesser) (Effet : Mutagène de sérénité (Inférieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.bOPQDM54W8ZDoULY]{Mutagène de sérénité (Inférieur)}</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 aux jets de Volonté</li>\n<li>bonus d'objet de +2 aux jets de Volonté contre les effets mentaux</li>\n<li>bonus d'objet de +1 sur les tests de Perception</li>\n<li>bonus d'objet de +1 aux tests de Médecine, Nature, Religion et Survie</li>\n<li>pénalité de -1 aux jets d'attaque</li>\n</ul>\n<p>Effets non pris en compte:</p>\n<ul>\n<li>pénalité de -1 aux DD des sorts offensifs</li>\n<li>pénalité de -1 par dés de dégâts de toutes les attaques avec des armes ou à mains nues et des sorts</li>\n</ul>"
-        },
-        {
             "id": "Spell Effect: Mage Armor",
             "name": "Spell Effect: Mage Armor (Effet : Armure du mage)",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Armure de mage}</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 à la CA</li>\n<li>modificateur de Dextérité maximum de +5</li>\n<li>Maîtrise sans armure pour calculer votre CA</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Euryale (Curse) Card",
-            "name": "Effect: Euryale (Curse) Card (Effet : Carte Euryale (malédiction))",
-            "description": "<p>Accordé par la <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.gmg-srd\" data-id=\"jVh90bfsC6w6iVyy\">Carte Euryale (malédiction)</a> tiré des <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.equipment-srd\" data-id=\"Gyi4IVrAVJRPJF2s\">Cartes merveilleuses</a></p>\n<p>Effet automatiquement appliqué :</p>\n<ul>\n<li>pénalité de -1 à tous les jets de sauvegarde</li>\n</ul>\n<p>&nbsp;</p>"
-        },
-        {
-            "id": "Effect: Glamorous Buckler",
-            "name": "Effect: Glamorous Buckler (Effet : Targe étincelante)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.IxuDS3POB6EH8TVN]{Targe étincelante}.</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 item aux tests de Duperie pour Feinter</li>\n</ul>\n<p>Effet non pris en compte :</p>\n<ul>\n<li>la cible est éblouie pendant 1 round en cas de succès de la feinte</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Juggernaut Mutagen (Lesser)",
-            "name": "Effect: Juggernaut Mutagen (Lesser) (Effet : Mutagène de Juggernaut (Inférieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.xE0EdDrf734l2fQH]{Mutagène de Juggernaut (Inférieur)}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +1 aux jets de Vigueur</li>\n<li>gain de 5 Points de vie temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de-2 aux tests de Perception</li>\n<li>pénalité de-2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Lorsque vous êtes au maximum de Points de vie pendant au moins 1 minute complète, vous regagnez les PV temporaires.</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Dueling Cape",
-            "name": "Effect: Dueling Cape (Effet : Cape de duel)",
-            "description": "<p>Accordé par l'utilisation de la @Compendium[pf2e.equipment-srd.DA3HgyEBGEbtRNOo]{Cape de duel}</p>\n<hr />\n<p>Effets automatiquement appliqués :</p>\n<ul>\n<li>bonus de circonstance de +1 pour Feinter</li>\n<li>bonus de circonstance de +1 à la CA</li>\n</ul>\n<p></p>"
-        },
-        {
-            "id": "Effect: Quicksilver Mutagen (Lesser)",
-            "name": "Effect: Quicksilver Mutagen (Lesser) (Effet : Mutagène vif-argent)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.5MKBwpE401uz4kNN]{Mutagène de vif-argent (Inférieur)}</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 aux tests d'Acrobaties, de Discrétion et de Vol</li>\n<li>bonus d'objet de +1 aux jets de Réflexes</li>\n<li>bonus d'objet de +1 aux jets des attaques à distance</li>\n<li>bonus de +1,5 m à la Vitesse</li>\n<li>pénalité de -2 aux jets de Vigueur</li>\n</ul>\n<p>Effets non pris en compte :</p>\n<ul>\n<li>Vous subissez des dégâts égaux à deux fois votre niveau ; vous ne pouvez pas récupérer les points de vie perdus de cette manière par aucun moyen tant que le mutagène fait effet</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Cheetah's Elixir (Lesser)",
-            "name": "Effect: Cheetah's Elixir (Lesser) (Effet : Élixir du Guépard (Inférieur))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.tyt6rFtv32MZ4DT9]{Élixir du Guépard (Inférieur)}</p>\n<p>Effet pris en compte  :</p>\n<ul>\n<li>bonus de +1,5 m à la Vitesse</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Panache",
-            "name": "Effect: Panache (Effet : Panache)",
-            "description": "<p>Accordé par la capacité @Compendium[pf2e.classfeatures.LzYi0OuOoypNb6jd]{Panache}</p>\n<p>Effets automatiquement pris en compte :</p>\n<ul>\n<li>autorise la propriété panache pour les effets de panache</li>\n<li>place l'effet sur le jeton</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Bestial Mutagen (Lesser)",
-            "name": "Effect: Bestial Mutagen (Lesser) (Effet : Mutagène bestial (Inférieur))",
-            "description": "<p>Accordé par <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.equipment-srd\" data-id=\"IQK9N2mEOyAj3iWU\">Mutagène bestial (Infférieur)</a></p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 aux tests d'Athlétisme</li>\n<li>bonus d'objet de +1 aux jets des attaques à mains nues</li>\n<li>pénalité de -1 à la CA</li>\n<li>pénalité de -2 aux jets de Réflexes</li>\n</ul>\n<p>Effets non pris en compte :</p>\n<ul>\n<li>Obtient une attaque à mains nues de griffe</li>\n<li>Obtient une attaque à mains nues de mâchoire</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Improvised Weapon",
-            "name": "Effect: Improvised Weapon (Effet : arme improvisée)",
-            "description": "<p>Effet automatiquement appliqué :</p>\n<ul>\n<li>pénalité de -2 aux jets d'attaque avec n'importe quelle arme ayant un trait improvisé</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Bronze Bull Pendant",
-            "name": "Effect: Bronze Bull Pendant (Effet : Pendentif de taureau de bronze)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.nXStoLxPrrP2b6WB]{Pendentif de taureau de bronze}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de +2 aux tests d'Athlétisme pour Pousser</li>\n</ul>"
         }
     ],
     "mapping": {}
