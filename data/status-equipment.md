@@ -1,8 +1,8 @@
 # État de la traduction (equipment)
 
- * **changé**: 942
+ * **changé**: 940
  * **aucune**: 534
- * **officielle**: 93
+ * **officielle**: 95
  * **libre**: 157
 
 
@@ -1033,7 +1033,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-UtRH6jt3iNFCgLLG.htm](equipment/equipment-00-UtRH6jt3iNFCgLLG.htm)|Spyglass|Longue-vue|changé|
 |[equipment-00-V78itAtTHI4ugy0P.htm](equipment/equipment-00-V78itAtTHI4ugy0P.htm)|Chain (10 feet)|Chaine (3 m)|libre|
 |[equipment-00-VHxXMvBeBTq2FSdf.htm](equipment/equipment-00-VHxXMvBeBTq2FSdf.htm)|Material Component Pouch|Bourse de composants matériels|officielle|
-|[equipment-00-vLGDUFrg4yGzpTQX.htm](equipment/equipment-00-vLGDUFrg4yGzpTQX.htm)|Repair Kit|Kit de réparation|changé|
+|[equipment-00-vLGDUFrg4yGzpTQX.htm](equipment/equipment-00-vLGDUFrg4yGzpTQX.htm)|Repair Kit|Kit de réparation|officielle|
 |[equipment-00-VnPh324pKwd2ZB66.htm](equipment/equipment-00-VnPh324pKwd2ZB66.htm)|Waterskin|Outre|changé|
 |[equipment-00-w4Hd6nunVVqw3GWj.htm](equipment/equipment-00-w4Hd6nunVVqw3GWj.htm)|Basic Crafter's Book|Livre d’artisan basique|changé|
 |[equipment-00-WAsQ6WuMYUB77Uh0.htm](equipment/equipment-00-WAsQ6WuMYUB77Uh0.htm)|Hourglass|Sablier|officielle|
@@ -1073,7 +1073,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-03-3ld14dsn2RLu9owg.htm](equipment/equipment-03-3ld14dsn2RLu9owg.htm)|Musical Instrument (Virtuoso handheld)|Instruments de musique (Virtuose)|changé|
 |[equipment-03-3vxoffA4slKHXtj2.htm](equipment/equipment-03-3vxoffA4slKHXtj2.htm)|Channel Protection Amulet|Amulette de protection canalisée|changé|
 |[equipment-03-6nrCxNQFycUVFOV2.htm](equipment/equipment-03-6nrCxNQFycUVFOV2.htm)|Thieves' Tools (Infiltrator)|Outils de voleur d'infiltration|changé|
-|[equipment-03-aDsdYMPpVc8hOnM5.htm](equipment/equipment-03-aDsdYMPpVc8hOnM5.htm)|Repair Kit (Superb)|Kit de réparation (Superbe)|changé|
+|[equipment-03-aDsdYMPpVc8hOnM5.htm](equipment/equipment-03-aDsdYMPpVc8hOnM5.htm)|Repair Kit (Superb)|Kit de réparation (Superbe)|officielle|
 |[equipment-03-bAfyWCvgsYDyw3ff.htm](equipment/equipment-03-bAfyWCvgsYDyw3ff.htm)|Maestro's Instrument (Lesser)|Instrument du maestro (inférieur)|changé|
 |[equipment-03-bbSc1VU1LiQqReKd.htm](equipment/equipment-03-bbSc1VU1LiQqReKd.htm)|Pathfinder Chronicle|Chronique de l'éclaireur|changé|
 |[equipment-03-BznmPaRjI4Orb0IH.htm](equipment/equipment-03-BznmPaRjI4Orb0IH.htm)|Thieves' Tools (Infiltrator Picks)|Crochets d'infiltration|changé|

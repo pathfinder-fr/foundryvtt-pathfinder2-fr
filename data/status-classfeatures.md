@@ -1,9 +1,9 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 58
- * **changé**: 230
+ * **officielle**: 61
+ * **changé**: 226
  * **aucune**: 13
- * **libre**: 49
+ * **libre**: 50
 
 
 Dernière mise à jour: 2021-02-14 18:47 *(heure de Canada/Montréal)*
@@ -53,7 +53,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-09-3e1PlMXmlSwKoc6d.htm](classfeatures/alchemist-09-3e1PlMXmlSwKoc6d.htm)|Alchemical Expertise|Expertise alchimique|changé|
 |[alchemist-09-76cwNLJEm4Yetnee.htm](classfeatures/alchemist-09-76cwNLJEm4Yetnee.htm)|Double Brew|Double préparation|changé|
 |[alchemist-09-TAIOtk5VvPZvv4nu.htm](classfeatures/alchemist-09-TAIOtk5VvPZvv4nu.htm)|Alertness (Level 9)|Vigilance (Niveau 9)|libre|
-|[alchemist-11-8rEVg03QJ71ic3PP.htm](classfeatures/alchemist-11-8rEVg03QJ71ic3PP.htm)|Perpetual Potency (Bomber)|Efficacité perpétuelle (Artificier)|changé|
+|[alchemist-11-8rEVg03QJ71ic3PP.htm](classfeatures/alchemist-11-8rEVg03QJ71ic3PP.htm)|Perpetual Potency (Bomber)|Efficacité perpétuelle (Artificier)|officielle|
 |[alchemist-11-JOdbVu14phvdjhaY.htm](classfeatures/alchemist-11-JOdbVu14phvdjhaY.htm)|Perpetual Potency (Toxicologist)|Efficacité perpétuelle (Toxicologiste)|libre|
 |[alchemist-11-mZFqRLYOQEqKA8ri.htm](classfeatures/alchemist-11-mZFqRLYOQEqKA8ri.htm)|Perpetual Potency (Mutagenist)|Efficacité perpétuelle (Mutagèniste)|changé|
 |[alchemist-11-VS5vkqUQu4n7E28Y.htm](classfeatures/alchemist-11-VS5vkqUQu4n7E28Y.htm)|Perpetual Potency (Chirurgeon)|Efficacité perpétuelle (Chirurgien)|changé|
@@ -98,7 +98,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-09-ie6xDX9GMEcA2Iuq.htm](classfeatures/barbarian-09-ie6xDX9GMEcA2Iuq.htm)|Raging Resistance|Résistance enragée|changé|
 |[barbarian-11-88Q33X2a0iYPkbzd.htm](classfeatures/barbarian-11-88Q33X2a0iYPkbzd.htm)|Mighty Rage|Rage formidable|changé|
 |[barbarian-13-ejP4jVQkS48uKRFz.htm](classfeatures/barbarian-13-ejP4jVQkS48uKRFz.htm)|Weapon Fury|Fureur armée|changé|
-|[barbarian-13-TuL0UfqH14MtqYVh.htm](classfeatures/barbarian-13-TuL0UfqH14MtqYVh.htm)|Greater Juggernaut|Juggernaut supérieur|changé|
+|[barbarian-13-TuL0UfqH14MtqYVh.htm](classfeatures/barbarian-13-TuL0UfqH14MtqYVh.htm)|Greater Juggernaut|Juggernaut supérieur|officielle|
 |[barbarian-15-7JjhxMFo8DMwpGx0.htm](classfeatures/barbarian-15-7JjhxMFo8DMwpGx0.htm)|Greater Weapon Specialization (Barbarian)|Spécialisation martiale supérieure (Barbare)|changé|
 |[barbarian-15-BZnqKnqKVImjSIFE.htm](classfeatures/barbarian-15-BZnqKnqKVImjSIFE.htm)|Indomitable Will|Volonté indomptable|changé|
 |[barbarian-17-7MhzrbOyue5GQsck.htm](classfeatures/barbarian-17-7MhzrbOyue5GQsck.htm)|Heightened Senses|Sens aiguisés|changé|
@@ -115,7 +115,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-03-TUOeATt52P43r5W0.htm](classfeatures/bard-03-TUOeATt52P43r5W0.htm)|Lightning Reflexes (Level 3)|Réflexes fulgurants (Niveau 3)|officielle|
 |[bard-11-4lp8oG9A3zuqhPBS.htm](classfeatures/bard-11-4lp8oG9A3zuqhPBS.htm)|Bard Weapon Expertise|expertise avec les armes du barde|changé|
 |[bard-19-NjsOpWbbzUY2Hpk3.htm](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum Opus|Magnum opus|officielle|
-|[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator|Profanateur [Neutre mauvais]|changé|
+|[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator|Profanateur [Neutre mauvais]|libre|
 |[champion-01-ehL7mnkqxN5wIkgu.htm](classfeatures/champion-01-ehL7mnkqxN5wIkgu.htm)|Deity and Cause|Divinité et cause|changé|
 |[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin|Antipaladin [Chaotique Mauvais]|changé|
 |[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator|Libérateur [Chaotique Bon]|officielle|
@@ -143,7 +143,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-01-DutW12WMFPHBoLTH.htm](classfeatures/cleric-01-DutW12WMFPHBoLTH.htm)|Deity|Divinité|libre|
 |[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|changé|
 |[cleric-01-tyrBwBTzo5t9Zho7.htm](classfeatures/cleric-01-tyrBwBTzo5t9Zho7.htm)|Doctrine|Doctrine|officielle|
-|[cleric-01-UV1HlClbWCNcaKBZ.htm](classfeatures/cleric-01-UV1HlClbWCNcaKBZ.htm)|Anathema (Cleric)|Anathème (Prêtre)|changé|
+|[cleric-01-UV1HlClbWCNcaKBZ.htm](classfeatures/cleric-01-UV1HlClbWCNcaKBZ.htm)|Anathema (Cleric)|Anathème (Prêtre)|officielle|
 |[cleric-01-ZZzLMOUAtBVgV1DF.htm](classfeatures/cleric-01-ZZzLMOUAtBVgV1DF.htm)|Cloistered Cleric|Prêtre cloîtré|changé|
 |[cleric-09-D2g6sZQAWaTccviQ.htm](classfeatures/cleric-09-D2g6sZQAWaTccviQ.htm)|Resolve (Level 9)|Résolution (Niveau 9)|libre|
 |[cleric-11-7PzcKaDGy6tIkQh4.htm](classfeatures/cleric-11-7PzcKaDGy6tIkQh4.htm)|Lightning Reflexes (Level 11)|Réflexes éclair (Niveau 11)|libre|

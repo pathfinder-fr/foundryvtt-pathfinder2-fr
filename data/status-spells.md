@@ -1,9 +1,9 @@
 # État de la traduction (spells)
 
- * **officielle**: 326
- * **libre**: 204
- * **changé**: 260
- * **aucune**: 75
+ * **officielle**: 364
+ * **libre**: 243
+ * **changé**: 215
+ * **aucune**: 43
 
 
 Dernière mise à jour: 2021-02-14 18:47 *(heure de Canada/Montréal)*
@@ -14,46 +14,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[abj-09-BI4iwu3nApyIG0zY.htm](spells/abj-09-BI4iwu3nApyIG0zY.htm)|Astral Labyrinth|
-|[abj-10-X0t0gr7S7CeCt2Q5.htm](spells/abj-10-X0t0gr7S7CeCt2Q5.htm)|Anima Invocation (Modified)|
-|[con-03-tFKJCPvOQZxKq6ON.htm](spells/con-03-tFKJCPvOQZxKq6ON.htm)|Mad Monkeys|
 |[con-09-xxhS66k68u5iIOHC.htm](spells/con-09-xxhS66k68u5iIOHC.htm)|Upheaval|
 |[div-08-pt3gEnzA159uHcJC.htm](spells/div-08-pt3gEnzA159uHcJC.htm)|Prying Survey|
 |[enc-03-Q56HLIHVKY6bC5W3.htm](spells/enc-03-Q56HLIHVKY6bC5W3.htm)|Blinding Beauty|
 |[enc-04-MLdMUOdwSKegOGlo.htm](spells/enc-04-MLdMUOdwSKegOGlo.htm)|Dull Ambition|
 |[enc-07-Vw2CNwlRRKABsuZi.htm](spells/enc-07-Vw2CNwlRRKABsuZi.htm)|Entrancing Eyes|
 |[evo-00-cE7PRAX8Up7fmYef.htm](spells/evo-00-cE7PRAX8Up7fmYef.htm)|Shroud of Night|
-|[evo-01-mlNYROcFrUF8nFgk.htm](spells/evo-01-mlNYROcFrUF8nFgk.htm)|Spray of Stars|
-|[evo-07-HES5jvGiNZZnJycK.htm](spells/evo-07-HES5jvGiNZZnJycK.htm)|Force Cage|
 |[evo-08-8fEfjvC01gNclDKJ.htm](spells/evo-08-8fEfjvC01gNclDKJ.htm)|Deluge|
 |[ill-08-YiIOsc8T6E2iDxgh.htm](spells/ill-08-YiIOsc8T6E2iDxgh.htm)|Undermine Reality|
-|[nec-01-CxpFy4HJHf4ACbxF.htm](spells/nec-01-CxpFy4HJHf4ACbxF.htm)|Putrefy Food and Drink|
-|[nec-01-D6T17BdazhNy3KPm.htm](spells/nec-01-D6T17BdazhNy3KPm.htm)|Soul Siphon|
-|[nec-01-FedTjedva2rYk33r.htm](spells/nec-01-FedTjedva2rYk33r.htm)|Undeath's Blessing|
-|[nec-01-NkeLctXo9FLGnDhi.htm](spells/nec-01-NkeLctXo9FLGnDhi.htm)|Divine Plagues|
-|[nec-01-rVhHaWqUsVUO4GuY.htm](spells/nec-01-rVhHaWqUsVUO4GuY.htm)|Eject Soul|
-|[nec-02-dxOF7d5kAWusLKWF.htm](spells/nec-02-dxOF7d5kAWusLKWF.htm)|Reaper's Lantern|
-|[nec-02-H4oF5szC7aogqtvw.htm](spells/nec-02-H4oF5szC7aogqtvw.htm)|Worm's Repast|
-|[nec-02-oNUyCqbpGWHifS02.htm](spells/nec-02-oNUyCqbpGWHifS02.htm)|Fungal Hyphae|
-|[nec-02-oryfsRK27jAUnziw.htm](spells/nec-02-oryfsRK27jAUnziw.htm)|Imp Sting|
-|[nec-02-siU9xRlqWXeKT0mH.htm](spells/nec-02-siU9xRlqWXeKT0mH.htm)|Feast of Ashes|
-|[nec-02-X3dYByf3YmkcdwG0.htm](spells/nec-02-X3dYByf3YmkcdwG0.htm)|Slough Skin|
-|[nec-02-XFtO4BBI22Uox2QP.htm](spells/nec-02-XFtO4BBI22Uox2QP.htm)|Sudden Blight|
-|[nec-03-0chL1b4OFIZxpN3v.htm](spells/nec-03-0chL1b4OFIZxpN3v.htm)|Steal Shadow|
-|[nec-03-10siFBMF4pIDhVmf.htm](spells/nec-03-10siFBMF4pIDhVmf.htm)|Cup of Dust|
-|[nec-03-gIVaSCrLhhBzGHQY.htm](spells/nec-03-gIVaSCrLhhBzGHQY.htm)|Reincarnate|
-|[nec-03-ziHDISWkFSwz3pmn.htm](spells/nec-03-ziHDISWkFSwz3pmn.htm)|Delay Affliction|
-|[nec-04-07xYlmGX32XtHGEt.htm](spells/nec-04-07xYlmGX32XtHGEt.htm)|Vampiric Maiden|
-|[nec-04-29p7NMY2OTpaINzt.htm](spells/nec-04-29p7NMY2OTpaINzt.htm)|Necrotic Radiation|
-|[nec-04-2RhZkHNv8ajq0yLq.htm](spells/nec-04-2RhZkHNv8ajq0yLq.htm)|Fallow Field|
-|[nec-04-4y2DMq9DV5HvmnxC.htm](spells/nec-04-4y2DMq9DV5HvmnxC.htm)|Chroma Leach|
-|[nec-04-6nTBr5XNuKOuPM5m.htm](spells/nec-04-6nTBr5XNuKOuPM5m.htm)|Foul Miasma|
-|[nec-04-eexkxcqnkXazsGfK.htm](spells/nec-04-eexkxcqnkXazsGfK.htm)|Enervation|
-|[nec-04-gfKhtVsXF3HKSdmY.htm](spells/nec-04-gfKhtVsXF3HKSdmY.htm)|Seal Fate|
-|[nec-04-gzvRDpM6EvcfYHeu.htm](spells/nec-04-gzvRDpM6EvcfYHeu.htm)|Tireless Worker|
-|[nec-04-Jli9WBjQZ2MmKJ8y.htm](spells/nec-04-Jli9WBjQZ2MmKJ8y.htm)|Spiritual Anamnesis|
-|[nec-04-LVwmAH5NGvTuuQSU.htm](spells/nec-04-LVwmAH5NGvTuuQSU.htm)|Swarming Wasp Stings|
-|[nec-04-MTNlvZ0A9xY5sOg1.htm](spells/nec-04-MTNlvZ0A9xY5sOg1.htm)|Rest Eternal|
-|[nec-04-QE9f3OxvvBThymD4.htm](spells/nec-04-QE9f3OxvvBThymD4.htm)|Ectoplasmic Interstice|
 |[nec-05-IoHxAkK0uGqrgtWl.htm](spells/nec-05-IoHxAkK0uGqrgtWl.htm)|Wyvern Sting|
 |[nec-05-nQS4vPm5zprqkzFZ.htm](spells/nec-05-nQS4vPm5zprqkzFZ.htm)|Curse of Death|
 |[nec-05-pCvJ4yoZJxDtgUMI.htm](spells/nec-05-pCvJ4yoZJxDtgUMI.htm)|Restorative Moment|
@@ -118,7 +86,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-01-TTwOKGqmZeKSyNMH.htm](spells/abj-01-TTwOKGqmZeKSyNMH.htm)|Feather Fall|Feuille morte|officielle|
 |[abj-01-u2uSeH6YSbK1ajTy.htm](spells/abj-01-u2uSeH6YSbK1ajTy.htm)|Magic Hide|Peau magique|libre|
 |[abj-01-w3uGXDVEdbLFZVO0.htm](spells/abj-01-w3uGXDVEdbLFZVO0.htm)|Angelic Halo|Halo angélique|officielle|
-|[abj-01-Z7N5IxJCwrAdIgSg.htm](spells/abj-01-Z7N5IxJCwrAdIgSg.htm)|Message Rune|Rune messagère|changé|
+|[abj-01-Z7N5IxJCwrAdIgSg.htm](spells/abj-01-Z7N5IxJCwrAdIgSg.htm)|Message Rune|Rune messagère|libre|
 |[abj-01-zlnXpME1T2uvn8Lr.htm](spells/abj-01-zlnXpME1T2uvn8Lr.htm)|Pass Without Trace|Passage sans trace|changé|
 |[abj-02-02J0rDTk37KN2sjt.htm](spells/abj-02-02J0rDTk37KN2sjt.htm)|Quench|Éteindre|libre|
 |[abj-02-5esP2GVzvxWsMgaX.htm](spells/abj-02-5esP2GVzvxWsMgaX.htm)|Endure Elements|Endurance aux éléments|changé|
@@ -190,6 +158,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-09-ihbRf964JDXztcy3.htm](spells/abj-09-ihbRf964JDXztcy3.htm)|Disjunction|Disjonction|changé|
 |[abj-09-PngDCmU0MXZkbu0v.htm](spells/abj-09-PngDCmU0MXZkbu0v.htm)|Prismatic Sphere|Sphère prismatique|officielle|
 |[abj-10-UG0SmRYSdbrx2rTA.htm](spells/abj-10-UG0SmRYSdbrx2rTA.htm)|Indestructibility|Invulnérabilité|libre|
+|[abj-10-X0t0gr7S7CeCt2Q5.htm](spells/abj-10-X0t0gr7S7CeCt2Q5.htm)|Anima Invocation (Modified)|Invocation d'anima (Modifiée)|libre|
 |[con-00-MraZBLJ4Be3ogmWL.htm](spells/con-00-MraZBLJ4Be3ogmWL.htm)|Clinging Ice|Glace tenace|libre|
 |[con-00-uZK2BYzPnxUBnDjr.htm](spells/con-00-uZK2BYzPnxUBnDjr.htm)|Tanglefoot|Entrave|changé|
 |[con-00-yvs1zN5Pai5U4CJX.htm](spells/con-00-yvs1zN5Pai5U4CJX.htm)|Summon Instrument|Convocation d'instrument|libre|
@@ -209,7 +178,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[con-01-TPI9fRCAYsDqpAe4.htm](spells/con-01-TPI9fRCAYsDqpAe4.htm)|Temporary Tool|Outil temporaire|libre|
 |[con-01-tsKnoBuBbKMXkiz5.htm](spells/con-01-tsKnoBuBbKMXkiz5.htm)|Abyssal Pact|Pacte abyssal|libre|
 |[con-01-tWzxuJdbXqvskdIo.htm](spells/con-01-tWzxuJdbXqvskdIo.htm)|Augment Summoning|Convocation améliorée|officielle|
-|[con-01-Vpohy4XH1DaH95hT.htm](spells/con-01-Vpohy4XH1DaH95hT.htm)|Daemonic Pact|PActe daemoniaque|libre|
+|[con-01-Vpohy4XH1DaH95hT.htm](spells/con-01-Vpohy4XH1DaH95hT.htm)|Daemonic Pact|Pacte daémoniaque|libre|
 |[con-01-W69zswpj0Trdy5rj.htm](spells/con-01-W69zswpj0Trdy5rj.htm)|Air Bubble|Bulle d'air|officielle|
 |[con-01-Wu0xFpewMKRK3HG8.htm](spells/con-01-Wu0xFpewMKRK3HG8.htm)|Grease|Graisse|changé|
 |[con-01-WzLKjSw6hsBhuklC.htm](spells/con-01-WzLKjSw6hsBhuklC.htm)|Create Water|Création d'eau|officielle|
@@ -228,6 +197,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[con-03-KsWhliKfUs3IpW3c.htm](spells/con-03-KsWhliKfUs3IpW3c.htm)|Wall of Thorns|Mur d'épines|changé|
 |[con-03-mwPfoYfVGSMAaUec.htm](spells/con-03-mwPfoYfVGSMAaUec.htm)|Cozy Cabin|Cabine douillette|libre|
 |[con-03-oUDNCArkQTdhllxD.htm](spells/con-03-oUDNCArkQTdhllxD.htm)|Aqueous Orb|Orbe aqueuse|libre|
+|[con-03-tFKJCPvOQZxKq6ON.htm](spells/con-03-tFKJCPvOQZxKq6ON.htm)|Mad Monkeys|Singes fous|libre|
 |[con-03-uuoPmbjEtqzWZs0v.htm](spells/con-03-uuoPmbjEtqzWZs0v.htm)|Unseen Custodians|Domestiques invisibles|libre|
 |[con-04-3xD8DYrr8YDVYGg7.htm](spells/con-04-3xD8DYrr8YDVYGg7.htm)|Spike Stones|Piques de pierre|libre|
 |[con-04-Az3PmWnlWSb5ELX9.htm](spells/con-04-Az3PmWnlWSb5ELX9.htm)|Abundant Step|Pas chassé|officielle|
@@ -515,6 +485,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-01-IWUe32Y5k2QFd7YQ.htm](spells/evo-01-IWUe32Y5k2QFd7YQ.htm)|Gravity Weapon|Arme pesante|libre|
 |[evo-01-jfVCuOpzC6mUrf6f.htm](spells/evo-01-jfVCuOpzC6mUrf6f.htm)|Hydraulic Push|Poussée hydraulique|officielle|
 |[evo-01-kJKSLfCgqxmN2FY8.htm](spells/evo-01-kJKSLfCgqxmN2FY8.htm)|Personal Rain Cloud|Nuage de pluie individuel|libre|
+|[evo-01-mlNYROcFrUF8nFgk.htm](spells/evo-01-mlNYROcFrUF8nFgk.htm)|Spray of Stars|Aspersion d'étoiles|libre|
 |[evo-01-oJKZi8OQgmVXHOc0.htm](spells/evo-01-oJKZi8OQgmVXHOc0.htm)|Fire Ray|Rayon de feu|officielle|
 |[evo-01-pRKaEXnjGJXbPHPC.htm](spells/evo-01-pRKaEXnjGJXbPHPC.htm)|Hurtling Stone|Jet de pierre|officielle|
 |[evo-01-r3NeUnsgt9mS03Sn.htm](spells/evo-01-r3NeUnsgt9mS03Sn.htm)|Shocking Grasp|Décharge électrique|officielle|
@@ -539,7 +510,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-02-f8hRqLJaxBVhF1u0.htm](spells/evo-02-f8hRqLJaxBVhF1u0.htm)|Acid Arrow|Flèche acide|changé|
 |[evo-02-Fq9yCbqI2RDt6Orw.htm](spells/evo-02-Fq9yCbqI2RDt6Orw.htm)|Spiritual Weapon|Arme spirituelle|changé|
 |[evo-02-HRb2doyaLtaoCfi3.htm](spells/evo-02-HRb2doyaLtaoCfi3.htm)|Faerie Fire|Lueurs féériques|changé|
-|[evo-02-mrDi3v933gsmnw25.htm](spells/evo-02-mrDi3v933gsmnw25.htm)|Telekinetic Maneuver|Manoeuvre télékinésique|changé|
+|[evo-02-mrDi3v933gsmnw25.htm](spells/evo-02-mrDi3v933gsmnw25.htm)|Telekinetic Maneuver|Manoeuvre télékinésique|officielle|
 |[evo-02-pMTltbI3S3UIuFaR.htm](spells/evo-02-pMTltbI3S3UIuFaR.htm)|Sun Blade|Lame solaire|libre|
 |[evo-02-Popa5umI3H33levx.htm](spells/evo-02-Popa5umI3H33levx.htm)|Rime Slick|Couche de givre|libre|
 |[evo-02-v4KzRPol5XQOOmk0.htm](spells/evo-02-v4KzRPol5XQOOmk0.htm)|Heat Metal|Métal brûlant|libre|
@@ -550,7 +521,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-02-ynm8JIU3sc3qUMpa.htm](spells/evo-02-ynm8JIU3sc3qUMpa.htm)|Continual Flame|Flamme éternelle|officielle|
 |[evo-02-zK0e9d9DSnxC4eAD.htm](spells/evo-02-zK0e9d9DSnxC4eAD.htm)|Sudden Bolt|Décharge soudaine|libre|
 |[evo-03-06pzGkKTyPE3tHR8.htm](spells/evo-03-06pzGkKTyPE3tHR8.htm)|Gravity Well|Puits de gravité|libre|
-|[evo-03-57ulIxg3Of2wCbEh.htm](spells/evo-03-57ulIxg3Of2wCbEh.htm)|Electrified Crystal Ward|Glyphe de cristal électrique|changé|
+|[evo-03-57ulIxg3Of2wCbEh.htm](spells/evo-03-57ulIxg3Of2wCbEh.htm)|Electrified Crystal Ward|Glyphe de cristal électrique|officielle|
 |[evo-03-9AAkVUCwF6WVNNY2.htm](spells/evo-03-9AAkVUCwF6WVNNY2.htm)|Lightning Bolt|Éclair|officielle|
 |[evo-03-B8aCUMCHCIMUCEVK.htm](spells/evo-03-B8aCUMCHCIMUCEVK.htm)|Elemental Motion|Mobilité élémentaire|changé|
 |[evo-03-DyiD239dNS7RIxZE.htm](spells/evo-03-DyiD239dNS7RIxZE.htm)|Searing Light|Lumière brûlante|changé|
@@ -575,8 +546,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-04-2SYq0ZTsOtJEigFx.htm](spells/evo-04-2SYq0ZTsOtJEigFx.htm)|Mystic Beacon|Phare mystique|officielle|
 |[evo-04-7d4DUTDIlzDa8OvX.htm](spells/evo-04-7d4DUTDIlzDa8OvX.htm)|Destructive Aura|Aura destructrice|changé|
 |[evo-04-8M03UxGXjYyDFAoy.htm](spells/evo-04-8M03UxGXjYyDFAoy.htm)|Weapon Storm|Tempête d'armes|changé|
-|[evo-04-DZ9bzXYqMjAK9TzC.htm](spells/evo-04-DZ9bzXYqMjAK9TzC.htm)|Holy Cascade|Cascade bénite|changé|
-|[evo-04-hVU9msO9yGkxKZ3J.htm](spells/evo-04-hVU9msO9yGkxKZ3J.htm)|Divine Wrath|Colère divine|changé|
+|[evo-04-DZ9bzXYqMjAK9TzC.htm](spells/evo-04-DZ9bzXYqMjAK9TzC.htm)|Holy Cascade|Cascade bénite|officielle|
+|[evo-04-hVU9msO9yGkxKZ3J.htm](spells/evo-04-hVU9msO9yGkxKZ3J.htm)|Divine Wrath|Colère divine|officielle|
 |[evo-04-IarZrgCeaiUqOuRu.htm](spells/evo-04-IarZrgCeaiUqOuRu.htm)|Wall of Fire|Mur de feu|changé|
 |[evo-04-K4LXpaBWrGy6jIER.htm](spells/evo-04-K4LXpaBWrGy6jIER.htm)|Downpour|Déluge|changé|
 |[evo-04-KG7amdeXWc7MjGXe.htm](spells/evo-04-KG7amdeXWc7MjGXe.htm)|Asterism|Étoile|libre|
@@ -618,6 +589,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evo-07-a3aQxCpoj1q1NQxC.htm](spells/evo-07-a3aQxCpoj1q1NQxC.htm)|Sunburst|Explosion de lumière|officielle|
 |[evo-07-d6o52BnjViNz7Gub.htm](spells/evo-07-d6o52BnjViNz7Gub.htm)|Prismatic Spray|Rayon prismatique|officielle|
 |[evo-07-EgkypvUZIZkx1UlQ.htm](spells/evo-07-EgkypvUZIZkx1UlQ.htm)|Blightburn Blast|Explosion de fléau brûlant|libre|
+|[evo-07-HES5jvGiNZZnJycK.htm](spells/evo-07-HES5jvGiNZZnJycK.htm)|Force Cage|Cage de force|libre|
 |[evo-07-n3b3pDmA6L5YRTyq.htm](spells/evo-07-n3b3pDmA6L5YRTyq.htm)|Litany of Righteousness|Litanie de vertu|officielle|
 |[evo-07-n8eEXXAtguoErW0y.htm](spells/evo-07-n8eEXXAtguoErW0y.htm)|Shadow's Web|Toile d'ombre|libre|
 |[evo-07-O7ZEqWjwdKyo2CUv.htm](spells/evo-07-O7ZEqWjwdKyo2CUv.htm)|Volcanic Eruption|Eruption volcanique|officielle|
@@ -709,59 +681,87 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nec-01-9u6X9ykhzG11NK1n.htm](spells/nec-01-9u6X9ykhzG11NK1n.htm)|Magic Stone|Pierre magique|libre|
 |[nec-01-9WGeBwIIbbUuWKq0.htm](spells/nec-01-9WGeBwIIbbUuWKq0.htm)|Animate Dead|Animation des morts|libre|
 |[nec-01-BH3sUerzMb2bWnv1.htm](spells/nec-01-BH3sUerzMb2bWnv1.htm)|Call of the Grave|Appel de la tombe|changé|
-|[nec-01-DYdvMZ8G2LiSLVWw.htm](spells/nec-01-DYdvMZ8G2LiSLVWw.htm)|Spider Sting|Morsure d'araignée|changé|
-|[nec-01-fAlzXtQAASaJx0mY.htm](spells/nec-01-fAlzXtQAASaJx0mY.htm)|Life Boost|Gain de vie|changé|
-|[nec-01-gSUQlTDYoLDGAsCP.htm](spells/nec-01-gSUQlTDYoLDGAsCP.htm)|Hymn of Healing|Hymne de guérison|changé|
-|[nec-01-GYI4xloAgkm6tTrT.htm](spells/nec-01-GYI4xloAgkm6tTrT.htm)|Touch of Undeath|Bénédiction de la non-mort|changé|
-|[nec-01-HG4afO9EOGEU9bZN.htm](spells/nec-01-HG4afO9EOGEU9bZN.htm)|Death's Call|Appel de la mort|changé|
-|[nec-01-J7Y7tl0bbdz7TcCc.htm](spells/nec-01-J7Y7tl0bbdz7TcCc.htm)|Ray of Enfeeblement|Rayon affaiblissant|changé|
-|[nec-01-jFmWSIpJGGebim6y.htm](spells/nec-01-jFmWSIpJGGebim6y.htm)|Touch of Corruption|Toucher de corruption|changé|
-|[nec-01-k34hDOfIIMAxNL4a.htm](spells/nec-01-k34hDOfIIMAxNL4a.htm)|Grim Tendrils|Sinistres volutes|changé|
-|[nec-01-KIV2LqzS5KtqOItV.htm](spells/nec-01-KIV2LqzS5KtqOItV.htm)|Heal Companion|Guérison de compagnon|changé|
-|[nec-01-kvm68hVtmADiIvN4.htm](spells/nec-01-kvm68hVtmADiIvN4.htm)|Jealous Hex|Maléfice de jalousie|changé|
+|[nec-01-CxpFy4HJHf4ACbxF.htm](spells/nec-01-CxpFy4HJHf4ACbxF.htm)|Putrefy Food and Drink|Corruption de la nourriture et de la boisson|libre|
+|[nec-01-D6T17BdazhNy3KPm.htm](spells/nec-01-D6T17BdazhNy3KPm.htm)|Soul Siphon|Siphon d'âme|libre|
+|[nec-01-DYdvMZ8G2LiSLVWw.htm](spells/nec-01-DYdvMZ8G2LiSLVWw.htm)|Spider Sting|Morsure d'araignée|officielle|
+|[nec-01-fAlzXtQAASaJx0mY.htm](spells/nec-01-fAlzXtQAASaJx0mY.htm)|Life Boost|Gain de vie|libre|
+|[nec-01-FedTjedva2rYk33r.htm](spells/nec-01-FedTjedva2rYk33r.htm)|Undeath's Blessing|Bénédiction de la mort-vivance|libre|
+|[nec-01-gSUQlTDYoLDGAsCP.htm](spells/nec-01-gSUQlTDYoLDGAsCP.htm)|Hymn of Healing|Hymne de guérison|libre|
+|[nec-01-GYI4xloAgkm6tTrT.htm](spells/nec-01-GYI4xloAgkm6tTrT.htm)|Touch of Undeath|Toucher de la non-mort|officielle|
+|[nec-01-HG4afO9EOGEU9bZN.htm](spells/nec-01-HG4afO9EOGEU9bZN.htm)|Death's Call|Appel de la mort|officielle|
+|[nec-01-J7Y7tl0bbdz7TcCc.htm](spells/nec-01-J7Y7tl0bbdz7TcCc.htm)|Ray of Enfeeblement|Rayon affaiblissant|officielle|
+|[nec-01-jFmWSIpJGGebim6y.htm](spells/nec-01-jFmWSIpJGGebim6y.htm)|Touch of Corruption|Toucher de corruption|libre|
+|[nec-01-k34hDOfIIMAxNL4a.htm](spells/nec-01-k34hDOfIIMAxNL4a.htm)|Grim Tendrils|Sinistres volutes|officielle|
+|[nec-01-KIV2LqzS5KtqOItV.htm](spells/nec-01-KIV2LqzS5KtqOItV.htm)|Heal Companion|Guérison de compagnon|libre|
+|[nec-01-kvm68hVtmADiIvN4.htm](spells/nec-01-kvm68hVtmADiIvN4.htm)|Jealous Hex|Maléfice de jalousie|officielle|
+|[nec-01-NkeLctXo9FLGnDhi.htm](spells/nec-01-NkeLctXo9FLGnDhi.htm)|Divine Plagues|Plaies divines|libre|
 |[nec-01-qXTB7Ec9yYh5JPPV.htm](spells/nec-01-qXTB7Ec9yYh5JPPV.htm)|Purify Food and Drink|Purifier la nourriture et la boisson|officielle|
-|[nec-01-rfZpqmj0AIIdkVIs.htm](spells/nec-01-rfZpqmj0AIIdkVIs.htm)|Heal|Guérison|changé|
-|[nec-01-rhJyqB9g3ziImQgM.htm](spells/nec-01-rhJyqB9g3ziImQgM.htm)|Healer's Blessing|Bénédiction du guérisseur|changé|
-|[nec-01-SdXFiQ4Py8761sNO.htm](spells/nec-01-SdXFiQ4Py8761sNO.htm)|Glutton's Jaw|Mâchoires gloutonnes|changé|
-|[nec-01-uToa7ksKAzmEpkKC.htm](spells/nec-01-uToa7ksKAzmEpkKC.htm)|Admonishing Ray|Rayon d'admonestation|changé|
-|[nec-01-vQuwLqtFFYt0K15N.htm](spells/nec-01-vQuwLqtFFYt0K15N.htm)|Goodberry|Baie nourricière|changé|
-|[nec-01-wdA52JJnsuQWeyqz.htm](spells/nec-01-wdA52JJnsuQWeyqz.htm)|Harm|Mise à mal|changé|
-|[nec-01-yHujiDQPdtXW797e.htm](spells/nec-01-yHujiDQPdtXW797e.htm)|Spirit Link|Lien spirituel|changé|
+|[nec-01-rfZpqmj0AIIdkVIs.htm](spells/nec-01-rfZpqmj0AIIdkVIs.htm)|Heal|Guérison|officielle|
+|[nec-01-rhJyqB9g3ziImQgM.htm](spells/nec-01-rhJyqB9g3ziImQgM.htm)|Healer's Blessing|Bénédiction du guérisseur|officielle|
+|[nec-01-rVhHaWqUsVUO4GuY.htm](spells/nec-01-rVhHaWqUsVUO4GuY.htm)|Eject Soul|Éjection de l'âme|libre|
+|[nec-01-SdXFiQ4Py8761sNO.htm](spells/nec-01-SdXFiQ4Py8761sNO.htm)|Glutton's Jaw|Mâchoires gloutonnes|officielle|
+|[nec-01-uToa7ksKAzmEpkKC.htm](spells/nec-01-uToa7ksKAzmEpkKC.htm)|Admonishing Ray|Rayon d'admonestation|libre|
+|[nec-01-vQuwLqtFFYt0K15N.htm](spells/nec-01-vQuwLqtFFYt0K15N.htm)|Goodberry|Baie nourricière|officielle|
+|[nec-01-wdA52JJnsuQWeyqz.htm](spells/nec-01-wdA52JJnsuQWeyqz.htm)|Harm|Mise à mal|officielle|
+|[nec-01-yHujiDQPdtXW797e.htm](spells/nec-01-yHujiDQPdtXW797e.htm)|Spirit Link|Lien spirituel|officielle|
 |[nec-01-zJQnkKEKbJqGB3iB.htm](spells/nec-01-zJQnkKEKbJqGB3iB.htm)|Goblin Pox|Variole Gobeline|officielle|
-|[nec-01-Zmh4ynfnCtwKeAYl.htm](spells/nec-01-Zmh4ynfnCtwKeAYl.htm)|Heal Animal|Guérison des animaux|changé|
-|[nec-01-zNN9212H2FGfM7VS.htm](spells/nec-01-zNN9212H2FGfM7VS.htm)|Lay on Hands|Imposition des mains|changé|
-|[nec-02-8ViwItUgwT4lOvvb.htm](spells/nec-02-8ViwItUgwT4lOvvb.htm)|False Life|Simulacre de vie|changé|
-|[nec-02-BCuHKrDeJ4eq53M6.htm](spells/nec-02-BCuHKrDeJ4eq53M6.htm)|Remove Paralysis|Délivrance de la paralysie|changé|
-|[nec-02-c3b6LdLlQDPngNIb.htm](spells/nec-02-c3b6LdLlQDPngNIb.htm)|Create Undead|Création de mort-vivant|changé|
+|[nec-01-Zmh4ynfnCtwKeAYl.htm](spells/nec-01-Zmh4ynfnCtwKeAYl.htm)|Heal Animal|Guérison des animaux|officielle|
+|[nec-01-zNN9212H2FGfM7VS.htm](spells/nec-01-zNN9212H2FGfM7VS.htm)|Lay on Hands|Imposition des mains|officielle|
+|[nec-02-8ViwItUgwT4lOvvb.htm](spells/nec-02-8ViwItUgwT4lOvvb.htm)|False Life|Simulacre de vie|officielle|
+|[nec-02-BCuHKrDeJ4eq53M6.htm](spells/nec-02-BCuHKrDeJ4eq53M6.htm)|Remove Paralysis|Délivrance de la paralysie|officielle|
+|[nec-02-c3b6LdLlQDPngNIb.htm](spells/nec-02-c3b6LdLlQDPngNIb.htm)|Create Undead|Création de mort-vivant|officielle|
 |[nec-02-d7Lwx6KAs47MtF0q.htm](spells/nec-02-d7Lwx6KAs47MtF0q.htm)|Shield Other|Protection d'autrui|officielle|
-|[nec-02-dLdRqT6UxTKlsPgp.htm](spells/nec-02-dLdRqT6UxTKlsPgp.htm)|Death Knell|Mise à mort|changé|
+|[nec-02-dLdRqT6UxTKlsPgp.htm](spells/nec-02-dLdRqT6UxTKlsPgp.htm)|Death Knell|Mise à mort|officielle|
+|[nec-02-dxOF7d5kAWusLKWF.htm](spells/nec-02-dxOF7d5kAWusLKWF.htm)|Reaper's Lantern|Lanterne de la Faucheuse|libre|
 |[nec-02-Et8RSCLx8w7uOLvo.htm](spells/nec-02-Et8RSCLx8w7uOLvo.htm)|Restore Senses|Restaurer les sens|changé|
-|[nec-02-fZPCv2VHuM2yPbC8.htm](spells/nec-02-fZPCv2VHuM2yPbC8.htm)|Deafness|Surdité|changé|
-|[nec-02-JhRuR7Jj3ViShpq7.htm](spells/nec-02-JhRuR7Jj3ViShpq7.htm)|Ghoulish Cravings|Désirs macabres|changé|
-|[nec-02-qJZZdYBdNaWRJFER.htm](spells/nec-02-qJZZdYBdNaWRJFER.htm)|Wholeness of Body|Plénitude physique|changé|
-|[nec-02-RGBZrVRIEDb2G48h.htm](spells/nec-02-RGBZrVRIEDb2G48h.htm)|Soothing Mist|Brume apaisante|changé|
+|[nec-02-fZPCv2VHuM2yPbC8.htm](spells/nec-02-fZPCv2VHuM2yPbC8.htm)|Deafness|Surdité|officielle|
+|[nec-02-H4oF5szC7aogqtvw.htm](spells/nec-02-H4oF5szC7aogqtvw.htm)|Worm's Repast|Repas du ver|libre|
+|[nec-02-JhRuR7Jj3ViShpq7.htm](spells/nec-02-JhRuR7Jj3ViShpq7.htm)|Ghoulish Cravings|Désirs macabres|officielle|
+|[nec-02-oNUyCqbpGWHifS02.htm](spells/nec-02-oNUyCqbpGWHifS02.htm)|Fungal Hyphae|Hyphe fongique|libre|
+|[nec-02-oryfsRK27jAUnziw.htm](spells/nec-02-oryfsRK27jAUnziw.htm)|Imp Sting|Dard de diablotin|libre|
+|[nec-02-qJZZdYBdNaWRJFER.htm](spells/nec-02-qJZZdYBdNaWRJFER.htm)|Wholeness of Body|Plénitude physique|officielle|
+|[nec-02-RGBZrVRIEDb2G48h.htm](spells/nec-02-RGBZrVRIEDb2G48h.htm)|Soothing Mist|Brume apaisante|libre|
 |[nec-02-rthC6dGm3nNrt1xN.htm](spells/nec-02-rthC6dGm3nNrt1xN.htm)|Spectral Hand|Main spectrale|officielle|
-|[nec-02-SnaLVgxZ9ryUFmUr.htm](spells/nec-02-SnaLVgxZ9ryUFmUr.htm)|Restoration|Restauration|changé|
+|[nec-02-siU9xRlqWXeKT0mH.htm](spells/nec-02-siU9xRlqWXeKT0mH.htm)|Feast of Ashes|Festin de cendres|libre|
+|[nec-02-SnaLVgxZ9ryUFmUr.htm](spells/nec-02-SnaLVgxZ9ryUFmUr.htm)|Restoration|Restauration|officielle|
 |[nec-02-TaaMEYdZXQXF0Sks.htm](spells/nec-02-TaaMEYdZXQXF0Sks.htm)|Blood Vendetta|Vendetta du sang|libre|
-|[nec-02-xRgU9rrhmGAgG4Rc.htm](spells/nec-02-xRgU9rrhmGAgG4Rc.htm)|Gentle Repose|Préservation des morts|changé|
-|[nec-03-cqdmSmQnM0q6wbWG.htm](spells/nec-03-cqdmSmQnM0q6wbWG.htm)|Drain Life|Drain de vie|changé|
+|[nec-02-X3dYByf3YmkcdwG0.htm](spells/nec-02-X3dYByf3YmkcdwG0.htm)|Slough Skin|Mues de peau|libre|
+|[nec-02-XFtO4BBI22Uox2QP.htm](spells/nec-02-XFtO4BBI22Uox2QP.htm)|Sudden Blight|Dégradation soudaine|libre|
+|[nec-02-xRgU9rrhmGAgG4Rc.htm](spells/nec-02-xRgU9rrhmGAgG4Rc.htm)|Gentle Repose|Préservation des morts|officielle|
+|[nec-03-0chL1b4OFIZxpN3v.htm](spells/nec-03-0chL1b4OFIZxpN3v.htm)|Steal Shadow|Vol d'ombre|libre|
+|[nec-03-10siFBMF4pIDhVmf.htm](spells/nec-03-10siFBMF4pIDhVmf.htm)|Cup of Dust|Tasse de poussière|libre|
+|[nec-03-cqdmSmQnM0q6wbWG.htm](spells/nec-03-cqdmSmQnM0q6wbWG.htm)|Drain Life|Drain de vie|officielle|
+|[nec-03-gIVaSCrLhhBzGHQY.htm](spells/nec-03-gIVaSCrLhhBzGHQY.htm)|Reincarnate|Réincarnation|libre|
 |[nec-03-GUeRTriJkMlMlVrk.htm](spells/nec-03-GUeRTriJkMlMlVrk.htm)|Bind Undead|Lier un mort-vivant|officielle|
-|[nec-03-N1Z1oLPdBxaSgrEE.htm](spells/nec-03-N1Z1oLPdBxaSgrEE.htm)|Vampiric Touch|Contact vampirique|changé|
+|[nec-03-N1Z1oLPdBxaSgrEE.htm](spells/nec-03-N1Z1oLPdBxaSgrEE.htm)|Vampiric Touch|Contact vampirique|officielle|
 |[nec-03-pSNLufPPsReKQtJR.htm](spells/nec-03-pSNLufPPsReKQtJR.htm)|Armor of Bones|Armure d'os|libre|
 |[nec-03-RneiyehRO6f7LP44.htm](spells/nec-03-RneiyehRO6f7LP44.htm)|Remove Disease|Délivrance des maladies|officielle|
 |[nec-03-SUKaxVZW2TlM8lu0.htm](spells/nec-03-SUKaxVZW2TlM8lu0.htm)|Neutralize Poison|Neutralisation du poison|officielle|
-|[nec-03-VosLNn2M8S7JH67D.htm](spells/nec-03-VosLNn2M8S7JH67D.htm)|Blindness|Cécité|changé|
-|[nec-04-4nHYSMHito1GUXlm.htm](spells/nec-04-4nHYSMHito1GUXlm.htm)|Rebuke Death|Réprimander la mort|changé|
+|[nec-03-VosLNn2M8S7JH67D.htm](spells/nec-03-VosLNn2M8S7JH67D.htm)|Blindness|Cécité|officielle|
+|[nec-03-ziHDISWkFSwz3pmn.htm](spells/nec-03-ziHDISWkFSwz3pmn.htm)|Delay Affliction|Retarder l'affliction|libre|
+|[nec-04-07xYlmGX32XtHGEt.htm](spells/nec-04-07xYlmGX32XtHGEt.htm)|Vampiric Maiden|Vierge vampirique|libre|
+|[nec-04-29p7NMY2OTpaINzt.htm](spells/nec-04-29p7NMY2OTpaINzt.htm)|Necrotic Radiation|Radiation nécrotique|libre|
+|[nec-04-2RhZkHNv8ajq0yLq.htm](spells/nec-04-2RhZkHNv8ajq0yLq.htm)|Fallow Field|Champ inactif|libre|
+|[nec-04-4nHYSMHito1GUXlm.htm](spells/nec-04-4nHYSMHito1GUXlm.htm)|Rebuke Death|Réprimander la mort|officielle|
+|[nec-04-4y2DMq9DV5HvmnxC.htm](spells/nec-04-4y2DMq9DV5HvmnxC.htm)|Chroma Leach|Filtrer les couleurs|libre|
+|[nec-04-6nTBr5XNuKOuPM5m.htm](spells/nec-04-6nTBr5XNuKOuPM5m.htm)|Foul Miasma|Miasmes infâmes|libre|
 |[nec-04-7yWXx3qC4eFNHhxD.htm](spells/nec-04-7yWXx3qC4eFNHhxD.htm)|Blight|Flétrissement végétal|officielle|
-|[nec-04-8XuNn0h0rHE24m3B.htm](spells/nec-04-8XuNn0h0rHE24m3B.htm)|Positive Luminance|Luminosité positive|changé|
-|[nec-04-FM3SmEW8N1FCRjqt.htm](spells/nec-04-FM3SmEW8N1FCRjqt.htm)|Talking Corpse|Cadavre loquace|changé|
-|[nec-04-ikSb3LRGnrwXJBVX.htm](spells/nec-04-ikSb3LRGnrwXJBVX.htm)|Vital Beacon|Fanal de vie|changé|
-|[nec-04-J5MNC4xq3CHH31qT.htm](spells/nec-04-J5MNC4xq3CHH31qT.htm)|Eradicate Undeath|Éradication de la non-mort|changé|
+|[nec-04-8XuNn0h0rHE24m3B.htm](spells/nec-04-8XuNn0h0rHE24m3B.htm)|Positive Luminance|Luminosité positive|officielle|
+|[nec-04-eexkxcqnkXazsGfK.htm](spells/nec-04-eexkxcqnkXazsGfK.htm)|Enervation|Affaiblissement|libre|
+|[nec-04-FM3SmEW8N1FCRjqt.htm](spells/nec-04-FM3SmEW8N1FCRjqt.htm)|Talking Corpse|Cadavre loquace|officielle|
+|[nec-04-gfKhtVsXF3HKSdmY.htm](spells/nec-04-gfKhtVsXF3HKSdmY.htm)|Seal Fate|Sceller le destin|libre|
+|[nec-04-gzvRDpM6EvcfYHeu.htm](spells/nec-04-gzvRDpM6EvcfYHeu.htm)|Tireless Worker|Travailleur infatigable|libre|
+|[nec-04-ikSb3LRGnrwXJBVX.htm](spells/nec-04-ikSb3LRGnrwXJBVX.htm)|Vital Beacon|Fanal de vie|officielle|
+|[nec-04-J5MNC4xq3CHH31qT.htm](spells/nec-04-J5MNC4xq3CHH31qT.htm)|Eradicate Undeath|Éradication de la non-mort|officielle|
+|[nec-04-Jli9WBjQZ2MmKJ8y.htm](spells/nec-04-Jli9WBjQZ2MmKJ8y.htm)|Spiritual Anamnesis|Anamnèse spirituelle|libre|
+|[nec-04-LVwmAH5NGvTuuQSU.htm](spells/nec-04-LVwmAH5NGvTuuQSU.htm)|Swarming Wasp Stings|Nuée de dards de guêpes|libre|
+|[nec-04-MTNlvZ0A9xY5sOg1.htm](spells/nec-04-MTNlvZ0A9xY5sOg1.htm)|Rest Eternal|Repos éternel|libre|
 |[nec-04-OyFCwQuw8XRazsNr.htm](spells/nec-04-OyFCwQuw8XRazsNr.htm)|Remove Curse|Délivrance des malédictions|officielle|
-|[nec-04-qzsQmpiQodHBBWYI.htm](spells/nec-04-qzsQmpiQodHBBWYI.htm)|Malignant Sustenance|Alimentation maléfique|changé|
-|[nec-04-ZeHeNQ5BNq6m5F1j.htm](spells/nec-04-ZeHeNQ5BNq6m5F1j.htm)|Take its Course|Suivre son cours|changé|
+|[nec-04-QE9f3OxvvBThymD4.htm](spells/nec-04-QE9f3OxvvBThymD4.htm)|Ectoplasmic Interstice|Interstice ectoplasmique|libre|
+|[nec-04-qzsQmpiQodHBBWYI.htm](spells/nec-04-qzsQmpiQodHBBWYI.htm)|Malignant Sustenance|Alimentation maléfique|officielle|
+|[nec-04-ZeHeNQ5BNq6m5F1j.htm](spells/nec-04-ZeHeNQ5BNq6m5F1j.htm)|Take its Course|Suivre son cours|officielle|
 |[nec-04-ZhJ8d9Uk4lwIx86b.htm](spells/nec-04-ZhJ8d9Uk4lwIx86b.htm)|Plant Growth|Croissance végétale|officielle|
-|[nec-04-zvvHOQV78WKUB33l.htm](spells/nec-04-zvvHOQV78WKUB33l.htm)|Life Siphon|Siphon de vie|changé|
+|[nec-04-zvvHOQV78WKUB33l.htm](spells/nec-04-zvvHOQV78WKUB33l.htm)|Life Siphon|Siphon de vie|officielle|
 |[nec-05-2YIr0S2Gt14PMMQp.htm](spells/nec-05-2YIr0S2Gt14PMMQp.htm)|Grasping Grave|Étreinte de la tombe|changé|
 |[nec-05-59NR1hA2jPSgg2sW.htm](spells/nec-05-59NR1hA2jPSgg2sW.htm)|Blister|Enveloppe|libre|
 |[nec-05-9WlTR9JlEcjRmGiD.htm](spells/nec-05-9WlTR9JlEcjRmGiD.htm)|Celestial Brand|Marque céleste|changé|

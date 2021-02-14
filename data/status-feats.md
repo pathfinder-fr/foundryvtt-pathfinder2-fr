@@ -1,8 +1,8 @@
 # État de la traduction (feats)
 
- * **libre**: 734
- * **officielle**: 272
- * **changé**: 1186
+ * **libre**: 735
+ * **officielle**: 274
+ * **changé**: 1183
  * **aucune**: 45
 
 
@@ -1149,7 +1149,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-01-w8Ycgeq2zfyshtoS.htm](feats/class-01-w8Ycgeq2zfyshtoS.htm)|Reactive Shield|Bouclier réactif|changé|
 |[class-01-WcY7H7mRiK2VDquV.htm](feats/class-01-WcY7H7mRiK2VDquV.htm)|Dueling Parry (Swashbuckler)|Parade en duel (Bretteur)|changé|
 |[class-01-WYaKRREZUSH0jel5.htm](feats/class-01-WYaKRREZUSH0jel5.htm)|Desperate Prayer|Prière désespérée|changé|
-|[class-01-xbg1scOIT7RI9Fij.htm](feats/class-01-xbg1scOIT7RI9Fij.htm)|Quick Bomber|Artificier rapide|changé|
+|[class-01-xbg1scOIT7RI9Fij.htm](feats/class-01-xbg1scOIT7RI9Fij.htm)|Quick Bomber|Artificier rapide|libre|
 |[class-01-XseJI9XhKNtZN8pv.htm](feats/class-01-XseJI9XhKNtZN8pv.htm)|Raging Intimidation|Intimidation enragée|changé|
 |[class-01-XttSGDuAsRDTuvgS.htm](feats/class-01-XttSGDuAsRDTuvgS.htm)|Iron Repercussions|Répercussions de fer|changé|
 |[class-01-yA9tsWT9uzL2REnw.htm](feats/class-01-yA9tsWT9uzL2REnw.htm)|Ki Rush|Ruée Ki|changé|
@@ -1466,7 +1466,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-06-yyt2I2lGbRndXjbc.htm](feats/class-06-yyt2I2lGbRndXjbc.htm)|Selective Energy|Énergie sélective|changé|
 |[class-06-z5fUX9jeqfAViOd8.htm](feats/class-06-z5fUX9jeqfAViOd8.htm)|Shove Down|Envoyer au tapis|changé|
 |[class-06-zbxqYhmn7KbqR2Sb.htm](feats/class-06-zbxqYhmn7KbqR2Sb.htm)|Shatter Defenses|Briser les défenses|changé|
-|[class-06-ZPclfDmiHzEqblry.htm](feats/class-06-ZPclfDmiHzEqblry.htm)|Animal Skin|Cuir animal|changé|
+|[class-06-ZPclfDmiHzEqblry.htm](feats/class-06-ZPclfDmiHzEqblry.htm)|Animal Skin|Cuir animal|officielle|
 |[class-06-zwEaXGKqnlBTllfE.htm](feats/class-06-zwEaXGKqnlBTllfE.htm)|Spell Relay|Relais de sort|changé|
 |[class-06-zZCyJhsaugHB6mZW.htm](feats/class-06-zZCyJhsaugHB6mZW.htm)|Watch Your Back|Fais attention|changé|
 |[class-08-0PcVi7eav6PMLOPl.htm](feats/class-08-0PcVi7eav6PMLOPl.htm)|Channeled Succor|Secours canalisé|changé|
@@ -2215,7 +2215,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-07-ePObIpaJDgDb9CQj.htm](feats/skill-07-ePObIpaJDgDb9CQj.htm)|Battle Cry|Cri de guerre|changé|
 |[skill-07-f5JOSyW1tKMpz6hU.htm](feats/skill-07-f5JOSyW1tKMpz6hU.htm)|Influence Nature|Influencer la nature|changé|
 |[skill-07-fvYwsHM9O1twQa5N.htm](feats/skill-07-fvYwsHM9O1twQa5N.htm)|Consult The Spirits|Consulter les esprits|changé|
-|[skill-07-gBSPbQRXdagZTUwY.htm](feats/skill-07-gBSPbQRXdagZTUwY.htm)|Kip Up|Saut carpé|changé|
+|[skill-07-gBSPbQRXdagZTUwY.htm](feats/skill-07-gBSPbQRXdagZTUwY.htm)|Kip Up|Saut carpé|officielle|
 |[skill-07-gHBdjbEnIK8clK8u.htm](feats/skill-07-gHBdjbEnIK8clK8u.htm)|Sacred Defense|Défense sacrée|changé|
 |[skill-07-hkSuxXOc9qBleJbd.htm](feats/skill-07-hkSuxXOc9qBleJbd.htm)|Disturbing Knowledge|Connaissances perturbantes|changé|
 |[skill-07-IJQJBnD5CjKvFYEx.htm](feats/skill-07-IJQJBnD5CjKvFYEx.htm)|Foil Senses|Déjouer les sens|changé|

@@ -1,7 +1,8 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **aucune**: 331
- * **libre**: 4
+ * **aucune**: 319
+ * **libre**: 14
+ * **changé**: 2
 
 
 Dernière mise à jour: 2021-02-14 18:47 *(heure de Canada/Montréal)*
@@ -103,23 +104,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[DYBZniwR1Ip4inVr.htm](pathfinder-bestiary-2/DYBZniwR1Ip4inVr.htm)|Morlock|
 |[e0PXAtnDnJo4ggFX.htm](pathfinder-bestiary-2/e0PXAtnDnJo4ggFX.htm)|Vrykolakas Ancient|
 |[e0YvEWJ5zpU946G4.htm](pathfinder-bestiary-2/e0YvEWJ5zpU946G4.htm)|Cave Scorpion|
-|[E4aJhHWyFDxgJcy9.htm](pathfinder-bestiary-2/E4aJhHWyFDxgJcy9.htm)|Peryton|
 |[e5yE4RkwLQojRYHm.htm](pathfinder-bestiary-2/e5yE4RkwLQojRYHm.htm)|Urdefhan Warrior|
 |[eD1kydftMIp4CL2K.htm](pathfinder-bestiary-2/eD1kydftMIp4CL2K.htm)|Sard|
-|[EOiOqs1vHCxZAj3T.htm](pathfinder-bestiary-2/EOiOqs1vHCxZAj3T.htm)|Scarecrow|
 |[ePUTKSr45H7S5dQs.htm](pathfinder-bestiary-2/ePUTKSr45H7S5dQs.htm)|Veranallia|
-|[Et2784TVZOXIbtM1.htm](pathfinder-bestiary-2/Et2784TVZOXIbtM1.htm)|Interlocutor|
-|[EWoJAp5LJeL1Qfye.htm](pathfinder-bestiary-2/EWoJAp5LJeL1Qfye.htm)|Giant Frog|
-|[EXeR2HC4xsvHcf6K.htm](pathfinder-bestiary-2/EXeR2HC4xsvHcf6K.htm)|Monadic Deva|
-|[F5QibbbxUeO8A3Kj.htm](pathfinder-bestiary-2/F5QibbbxUeO8A3Kj.htm)|Grimstalker|
-|[FERUCyMwvy4Nejou.htm](pathfinder-bestiary-2/FERUCyMwvy4Nejou.htm)|Hellcat|
-|[FHnWzK7DsniqZWzG.htm](pathfinder-bestiary-2/FHnWzK7DsniqZWzG.htm)|Nereid|
-|[FJr7Rc9MQEwxjAcz.htm](pathfinder-bestiary-2/FJr7Rc9MQEwxjAcz.htm)|Urdefhan Tormentor|
-|[FMU6L5vbiUxa1ZF7.htm](pathfinder-bestiary-2/FMU6L5vbiUxa1ZF7.htm)|Kelpie|
-|[FnLuqlzLl4zCE9pJ.htm](pathfinder-bestiary-2/FnLuqlzLl4zCE9pJ.htm)|Adult Magma Dragon|
 |[fpBJiCOoHDlefgpO.htm](pathfinder-bestiary-2/fpBJiCOoHDlefgpO.htm)|Thunderbird|
 |[fRLrlY25qXkOMBNG.htm](pathfinder-bestiary-2/fRLrlY25qXkOMBNG.htm)|Nuckelavee|
-|[FRTpT9rLxUBKGdin.htm](pathfinder-bestiary-2/FRTpT9rLxUBKGdin.htm)|Star Archon|
 |[fv91xoQJlogVbruW.htm](pathfinder-bestiary-2/fv91xoQJlogVbruW.htm)|Aapoph Serpentfolk|
 |[fVvRASaKa6SkQkYG.htm](pathfinder-bestiary-2/fVvRASaKa6SkQkYG.htm)|Giant Snapping Turtle|
 |[fwjDIGzmuEJN81Qq.htm](pathfinder-bestiary-2/fwjDIGzmuEJN81Qq.htm)|Trollhound|
@@ -347,7 +336,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[E4aJhHWyFDxgJcy9.htm](pathfinder-bestiary-2/E4aJhHWyFDxgJcy9.htm)|Peryton|Péryton|libre|
+|[EOiOqs1vHCxZAj3T.htm](pathfinder-bestiary-2/EOiOqs1vHCxZAj3T.htm)|Scarecrow|Épouvantail|libre|
+|[Et2784TVZOXIbtM1.htm](pathfinder-bestiary-2/Et2784TVZOXIbtM1.htm)|Interlocutor|Anatomosculptor|changé|
+|[EWoJAp5LJeL1Qfye.htm](pathfinder-bestiary-2/EWoJAp5LJeL1Qfye.htm)|Giant Frog|Grenouille Géante|libre|
+|[EXeR2HC4xsvHcf6K.htm](pathfinder-bestiary-2/EXeR2HC4xsvHcf6K.htm)|Monadic Deva|Deva Monadique (Ange des Âmes)|libre|
+|[F5QibbbxUeO8A3Kj.htm](pathfinder-bestiary-2/F5QibbbxUeO8A3Kj.htm)|Grimstalker|Sinistrogyne|libre|
+|[FERUCyMwvy4Nejou.htm](pathfinder-bestiary-2/FERUCyMwvy4Nejou.htm)|Hellcat|Chat de l'Enfer|libre|
+|[FHnWzK7DsniqZWzG.htm](pathfinder-bestiary-2/FHnWzK7DsniqZWzG.htm)|Nereid|Néréide|changé|
+|[FJr7Rc9MQEwxjAcz.htm](pathfinder-bestiary-2/FJr7Rc9MQEwxjAcz.htm)|Urdefhan Tormentor|Tortionnaire Urdefhan|libre|
+|[FMU6L5vbiUxa1ZF7.htm](pathfinder-bestiary-2/FMU6L5vbiUxa1ZF7.htm)|Kelpie|Kelpie|libre|
+|[FnLuqlzLl4zCE9pJ.htm](pathfinder-bestiary-2/FnLuqlzLl4zCE9pJ.htm)|Adult Magma Dragon|Dragon de Magma Adulte|libre|
+|[FRTpT9rLxUBKGdin.htm](pathfinder-bestiary-2/FRTpT9rLxUBKGdin.htm)|Star Archon|Archange Étoile|libre|
 |[GBBVBEAsznP8A5gv.htm](pathfinder-bestiary-2/GBBVBEAsznP8A5gv.htm)|Leydroth|Leydrath|libre|
 |[Ge5Q5I7TTksf7QyN.htm](pathfinder-bestiary-2/Ge5Q5I7TTksf7QyN.htm)|Zomok|Zomok|libre|
-|[GfJLotTcrZmn6tay.htm](pathfinder-bestiary-2/GfJLotTcrZmn6tay.htm)|Purrodaemon|Purrodémon|libre|
+|[GfJLotTcrZmn6tay.htm](pathfinder-bestiary-2/GfJLotTcrZmn6tay.htm)|Purrodaemon|Purrodaémon|libre|
 |[GnKay44MFMZkqXRi.htm](pathfinder-bestiary-2/GnKay44MFMZkqXRi.htm)|Hadrosaurid|Hadrosaure|libre|
