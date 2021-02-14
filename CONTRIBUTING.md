@@ -39,4 +39,12 @@ Au besoin, vous pouvez vous faire aider par différents membres de la communaut�
 
 ** il existe des balises qui permettent en jeu de lancer les dés. Elles ont une structure très particulière que vous ne touchez pas sauf si vous êtes capable de coder.
 
-Fait le 26 décembre 2020
+* **Quelques formules à utiliser avec les actions dans les données** 
+
+<ul>
+<li><span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">1</span>> (somatique) Le sort a une portée de contact.</li>
+<li><span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">2</span><p><strong>2 Actions </strong>(verbal, somatique) Le sort a une portée de 9 m. Si vous soignez une créature vivante, augmentez de 8 les points de vie qu’elle récupère.</li>
+<li><span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">3</span> (matériel, somatique, verbal) Vous propagez de l’énergie positive dans une émanation de 9 m. Toutes les créatures vivantes et tous les morts-vivants dans la zone sont pris pour cible.</li>
+</ul>
+
+Fait le 14 février 2021
