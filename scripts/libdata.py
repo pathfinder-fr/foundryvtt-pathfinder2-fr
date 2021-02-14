@@ -29,7 +29,7 @@ SUPPORTED = {
   "backgrounds":                    { 'transl': "Backgrounds", "paths": { 'name': "name", 'desc': "data.description.value" } },
   #"deities":                        { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "content" } },
   "gmg-srd":                        { 'transl': "Guide du MJ", "paths": { 'name': "name", 'desc': "content" } },
-  "classes":                        { 'transl': "Classes", "paths": { 'name': "name", 'desc': "content" } },
+  "classes":                        { 'transl': "Classes", "paths": { 'name': "name", 'desc': "data.description.value" } },
   #"criticaldeck":                   { 'transl': "Critiques", "paths": { 'name': "name", 'desc': "content" } },
   #"pf2e-macros":                    { 'transl': "Macros PF2e", "paths": { 'name': "name", 'desc': "content" } },
   "bestiary-ability-glossary-srd":  { 'transl': "Aptitudes du bestiaire", "paths": { 'name': "name", 'desc': "data.description.value" } },
