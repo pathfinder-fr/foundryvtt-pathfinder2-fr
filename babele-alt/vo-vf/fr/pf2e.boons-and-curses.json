@@ -13,7 +13,7 @@
         },
         {
             "id": "Iomedae - Moderate Boon",
-            "name": "Iomedae - Moderate Boon (Iomedae - Bénédiction modérée)",
+            "name": "Iomedae - Moderate Boon (Iomédae - Bénédiction modérée)",
             "description": "<p><strong>Bénédiction modérée (Usage unique)</strong> Voter cœur vat d'une ardeur déterminée.</p>\n<p>Une fois, Iomedae met un terme à tous les effet négatifs qui vous affectent, à moins qu'elles n'émanent d'un artefact, d'une divinité ou du'une source de puissance similaire ; elle restaure aussi tous les Points de vie perdus et remplit vos sorts, vos points de focalisation ainsi que vos autres ressources quotidiennes.</p>"
         },
         {
@@ -368,7 +368,7 @@
         },
         {
             "id": "Iomedae - Minor Curse",
-            "name": "Iomedae - Minor Curse (Iomedae - Malédiction mineure)",
+            "name": "Iomedae - Minor Curse (Iomédae - Malédiction mineure)",
             "description": "<p><strong>Malédiction mineure</strong> Votre lame et votre armure sont émoussés comme le plomb. Vos armes, armures et boucliers possèdent la moitié de leurs points de vie et de leur Seuil de Rupture.</p>"
         },
         {
@@ -378,12 +378,12 @@
         },
         {
             "id": "Iomedae - Moderate Curse",
-            "name": "Iomedae - Moderate Curse (Iomedae - Malédiction modérée)",
+            "name": "Iomedae - Moderate Curse (Iomédae - Malédiction modérée)",
             "description": "<p><strong>Malédiction modérée</strong> Les avantages tactiques ne semblent jamais fonctionner comme vous les avez planifiés.</p> Vous ne pouvez recevoir un bonus de circonstance à vos jets d'attaque  et vos ennemis ne subissent jamais de pénalités de circonstances à leur CA contre vos attaques.</p>"
         },
         {
             "id": "Cayden Cailean - Minor Boon",
-            "name": "Cayden Cailean - Minor Boon (Cayden Caylean - Bénédiction mineure)",
+            "name": "Cayden Cailean - Minor Boon (Cayden Cailean - Bénédiction mineure)",
             "description": "<p><strong>Bénédiction mineure</strong> Cayden Cailean vous aide à récupérer de vos nuits de bamboche.</p>\n<p>Bien que vous puissiez toujours être ivre et expérimenter les effets de l'alcool normlement, vous n'avez jamais la gueule de bois le lendemain.</p>"
         },
         {
@@ -468,7 +468,7 @@
         },
         {
             "id": "Cayden Cailean - Major Curse",
-            "name": "Cayden Cailean - Major Curse (Cayden cailean - Malédiction majeure)",
+            "name": "Cayden Cailean - Major Curse (Cayden Cailean - Malédiction majeure)",
             "description": "<p><strong>Malédiction majeure</strong> Cayden vous maudit en vous faisant souffrir en la présence de buveurs, rendant difficile pour vous de chercher à entrer dans n'importe quelle taverne.</p>\n<p>Lorsque n'importe quelle créature boit de l'alcool à moins de 30 m de vous, vous subissez tous les effets négatifs de l'alcool (mais uniquement l'alcool) à sa place. Cela ne s'applique par si la créatureobtient n'importe quel effet spécial lorsqu'elle boit l'alcool.</p>"
         },
         {
@@ -533,7 +533,7 @@
         },
         {
             "id": "Iomedae - Major Curse",
-            "name": "Iomedae - Major Curse (Iomedae - Malédiction majeure)",
+            "name": "Iomedae - Major Curse (Iomédae - Malédiction majeure)",
             "description": "<p><strong>Malédiction majeure</strong> Toutes les lames rejettent votre cœur corrompu.</p>\n<p>Toute arme que vous maniez devient automatiquement brisée lorsque vous faites une Frappe avec elle. Cette malédiction ne peut briser les artefacts ou armes puissantes similaires.</p>"
         },
         {
@@ -593,7 +593,7 @@
         },
         {
             "id": "Iomedae - Minor Boon",
-            "name": "Iomedae - Minor Boon (Iomedae - Bénédiction mineure)",
+            "name": "Iomedae - Minor Boon (Iomédae - Bénédiction mineure)",
             "description": "<p><strong>Bénédiction mineure</strong> Vous vous présentez toujours sur votre 31. Vos habits et votre personne êtes toujours propres et jamais froissé, le métal de votre lame et de votre armure brille et ne ternit pas.</p>\n<p>cela n'empêche pas d'être exposé aux maladies ou autres affections via la fièvre mais cela vous protège autant que si vous vous étiez lavé minutieusement comme il faut.</p>"
         },
         {

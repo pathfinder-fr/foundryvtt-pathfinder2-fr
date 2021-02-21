@@ -1,12 +1,12 @@
 # État de la traduction (archetypes)
 
- * **aucune**: 8
- * **libre**: 5
+ * **aucune**: 5
+ * **libre**: 8
  * **changé**: 61
  * **officielle**: 2
 
 
-Dernière mise à jour: 2021-02-14 18:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-21 15:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -17,10 +17,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2eAiIynDWTMKTGDU.htm](archetypes/2eAiIynDWTMKTGDU.htm)|Scrollmaster|
 |[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|
 |[gw4J1pXYED71TPWx.htm](archetypes/gw4J1pXYED71TPWx.htm)|Bellflower Tiller|
-|[NGrKVIaZJx3r3In4.htm](archetypes/NGrKVIaZJx3r3In4.htm)|Weapon Improviser|
 |[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|
-|[SAyPnVRucJa8k4MN.htm](archetypes/SAyPnVRucJa8k4MN.htm)|Witch|
-|[VRUYc3QyRjjOjppc.htm](archetypes/VRUYc3QyRjjOjppc.htm)|Turpin Rowe Lumberjack|
 
 ## Liste des traductions complétés
 
@@ -66,6 +63,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[LYYDozZfXok19VYW.htm](archetypes/LYYDozZfXok19VYW.htm)|Hellknight Armiger|Écuyer des chevaliers infernaux|changé|
 |[MJ2EBeAVkc61mznR.htm](archetypes/MJ2EBeAVkc61mznR.htm)|Archer|Archer|changé|
 |[myvFp45VnA2FPOvG.htm](archetypes/myvFp45VnA2FPOvG.htm)|Archaeologist|Archéologue|changé|
+|[NGrKVIaZJx3r3In4.htm](archetypes/NGrKVIaZJx3r3In4.htm)|Weapon Improviser|Improvisateur d'arme|libre|
 |[o3C85NHW08Y2inAN.htm](archetypes/o3C85NHW08Y2inAN.htm)|Pathfinder Agent|Agent des Éclaireurs|changé|
 |[OmEG0nhQgeKnAUsn.htm](archetypes/OmEG0nhQgeKnAUsn.htm)|Magic Warrior|Guerrier magique|changé|
 |[pHTnfVHOzsgfZ9E2.htm](archetypes/pHTnfVHOzsgfZ9E2.htm)|Scout|Éclaireur|changé|
@@ -75,6 +73,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[RvjlaAPa2Wkdhrms.htm](archetypes/RvjlaAPa2Wkdhrms.htm)|Horizon Walker|Arpenteur d'horizon|changé|
 |[RyjrUkqSIg52Mjl8.htm](archetypes/RyjrUkqSIg52Mjl8.htm)|Runescarred|Scarifié des runes|changé|
 |[s7kWIaeCdj3IFte9.htm](archetypes/s7kWIaeCdj3IFte9.htm)|Jalmeri Heavenseeker|Chercheur de paradis du Jalmeray|changé|
+|[SAyPnVRucJa8k4MN.htm](archetypes/SAyPnVRucJa8k4MN.htm)|Witch|Sorcière|libre|
 |[SbvhfCo5gFVt1DgD.htm](archetypes/SbvhfCo5gFVt1DgD.htm)|Acrobat|Acrobate|changé|
 |[SJi2cicLd7R2FInl.htm](archetypes/SJi2cicLd7R2FInl.htm)|Viking|Viking|changé|
 |[TdoPhja8JA9C2Itm.htm](archetypes/TdoPhja8JA9C2Itm.htm)|Linguist|Linguiste|changé|
@@ -83,6 +82,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UOhVrWvuaAVtQHEo.htm](archetypes/UOhVrWvuaAVtQHEo.htm)|Mauler|Cogneur|changé|
 |[UsT8XqN5LwfbBMzp.htm](archetypes/UsT8XqN5LwfbBMzp.htm)|Bastion|Bastion|changé|
 |[Utxq3fo8AoPyfh4K.htm](archetypes/Utxq3fo8AoPyfh4K.htm)|Lastwall Sentry|Sentinelle du Dernier-Rempart|changé|
+|[VRUYc3QyRjjOjppc.htm](archetypes/VRUYc3QyRjjOjppc.htm)|Turpin Rowe Lumberjack|Bûcheron de Turpin Rowe|libre|
 |[WrQ2Qpv958C6cfD0.htm](archetypes/WrQ2Qpv958C6cfD0.htm)|Knight Reclaimant|Chevalier récupérateur|changé|
 |[XATPzPTZ9Je89erT.htm](archetypes/XATPzPTZ9Je89erT.htm)|Golem Grafter|Greffeur de golem|changé|
 |[xFjXKdIkA574QRkv.htm](archetypes/xFjXKdIkA574QRkv.htm)|Scroll Trickster|Usurpateur de parchemins|changé|

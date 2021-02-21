@@ -1,107 +1,39 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **aucune**: 319
- * **libre**: 14
- * **changé**: 2
+ * **libre**: 122
+ * **aucune**: 210
+ * **changé**: 3
 
 
-Dernière mise à jour: 2021-02-14 18:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-21 15:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[0rhltfBkQtYkCwXd.htm](pathfinder-bestiary-2/0rhltfBkQtYkCwXd.htm)|Yellow Musk Thrall|
-|[10JbkieWjqKA5Hzc.htm](pathfinder-bestiary-2/10JbkieWjqKA5Hzc.htm)|Irlgaunt|
-|[12vyw160K7p3M3Mt.htm](pathfinder-bestiary-2/12vyw160K7p3M3Mt.htm)|Quetz Couatl|
-|[18NInoyRLIrWE0nt.htm](pathfinder-bestiary-2/18NInoyRLIrWE0nt.htm)|Chernobue|
-|[1QWZDaBoefL5rWkz.htm](pathfinder-bestiary-2/1QWZDaBoefL5rWkz.htm)|Hodag|
-|[27R4ntwgch7eIQM6.htm](pathfinder-bestiary-2/27R4ntwgch7eIQM6.htm)|Akizendri|
-|[2Kw49I6EZbKKlTtK.htm](pathfinder-bestiary-2/2Kw49I6EZbKKlTtK.htm)|Blizzardborn|
-|[32HHvah2Ji6FjJnM.htm](pathfinder-bestiary-2/32HHvah2Ji6FjJnM.htm)|Giant Squid|
-|[340AwQpRXGblw1kF.htm](pathfinder-bestiary-2/340AwQpRXGblw1kF.htm)|Sarglagon|
-|[37FAi1y5S8snofws.htm](pathfinder-bestiary-2/37FAi1y5S8snofws.htm)|Olethrodaemon|
-|[3dlupMwDA9qv1xWS.htm](pathfinder-bestiary-2/3dlupMwDA9qv1xWS.htm)|Suli Dune Dancer|
-|[3DSqfobadad3pA6O.htm](pathfinder-bestiary-2/3DSqfobadad3pA6O.htm)|Giant Fly|
-|[3MDlKPlPhHBo1DId.htm](pathfinder-bestiary-2/3MDlKPlPhHBo1DId.htm)|Vampire Squid|
-|[3u4toki9EeSRvcs2.htm](pathfinder-bestiary-2/3u4toki9EeSRvcs2.htm)|Quoppopak|
-|[3VFHZyjSjNA1jbiO.htm](pathfinder-bestiary-2/3VFHZyjSjNA1jbiO.htm)|Sportlebore Swarm|
-|[3YcsuATyahEMygNy.htm](pathfinder-bestiary-2/3YcsuATyahEMygNy.htm)|Revenant|
-|[48agy7vl9fQW1LLA.htm](pathfinder-bestiary-2/48agy7vl9fQW1LLA.htm)|Draugr|
-|[49y0g521xHESClzk.htm](pathfinder-bestiary-2/49y0g521xHESClzk.htm)|Young Magma Dragon|
-|[4Y8UO8NloCoPxJ1E.htm](pathfinder-bestiary-2/4Y8UO8NloCoPxJ1E.htm)|Umonlee|
-|[57pzXwM9qFiRTwq9.htm](pathfinder-bestiary-2/57pzXwM9qFiRTwq9.htm)|Dig-Widget|
-|[5CixyyBkCLj2VI8q.htm](pathfinder-bestiary-2/5CixyyBkCLj2VI8q.htm)|Hippopotamus|
-|[5FcYbQxHehjO4w1d.htm](pathfinder-bestiary-2/5FcYbQxHehjO4w1d.htm)|Ooze Mephit|
-|[5FGuXfg6Ub2hCBG7.htm](pathfinder-bestiary-2/5FGuXfg6Ub2hCBG7.htm)|Yellow Musk Creeper|
-|[5l0b80kz53Ie26gq.htm](pathfinder-bestiary-2/5l0b80kz53Ie26gq.htm)|Wood Giant|
-|[64sdDzjLWu2W2R2e.htm](pathfinder-bestiary-2/64sdDzjLWu2W2R2e.htm)|Water Orm|
-|[6EX8nxH3zRotLRJG.htm](pathfinder-bestiary-2/6EX8nxH3zRotLRJG.htm)|Sea Snake|
-|[6ic6oNCpWjkVAsIN.htm](pathfinder-bestiary-2/6ic6oNCpWjkVAsIN.htm)|Ember Fox|
-|[6jqnHzjmJ190G8Zj.htm](pathfinder-bestiary-2/6jqnHzjmJ190G8Zj.htm)|Yeth Hound|
-|[6Me4Q1JDupyCCnGg.htm](pathfinder-bestiary-2/6Me4Q1JDupyCCnGg.htm)|Ice Mephit|
-|[6tKVMKDdvbp0VhZD.htm](pathfinder-bestiary-2/6tKVMKDdvbp0VhZD.htm)|Slime Mold|
-|[6wpHJXze0RLxl780.htm](pathfinder-bestiary-2/6wpHJXze0RLxl780.htm)|Behir|
-|[6xioRweZ0T4o4X9e.htm](pathfinder-bestiary-2/6xioRweZ0T4o4X9e.htm)|Witchfire|
-|[6YOyTHRGqkYl2Prb.htm](pathfinder-bestiary-2/6YOyTHRGqkYl2Prb.htm)|Wolverine|
-|[73qJxJK8ES4Tbp2k.htm](pathfinder-bestiary-2/73qJxJK8ES4Tbp2k.htm)|Lurker In Light|
-|[7EppoGdIcmd0AV9B.htm](pathfinder-bestiary-2/7EppoGdIcmd0AV9B.htm)|Onidoshi|
-|[7kAbAOHJBq28FOXJ.htm](pathfinder-bestiary-2/7kAbAOHJBq28FOXJ.htm)|Dracolisk|
-|[7lL7APeHQgkVxU1B.htm](pathfinder-bestiary-2/7lL7APeHQgkVxU1B.htm)|Fire Jellyfish Swarm|
-|[7oiIDnLBDpC2r2AA.htm](pathfinder-bestiary-2/7oiIDnLBDpC2r2AA.htm)|Sacristan|
-|[7SVhYtnBn967Hy8O.htm](pathfinder-bestiary-2/7SVhYtnBn967Hy8O.htm)|Bone Prophet|
-|[7UBCht1tQfeba2Ih.htm](pathfinder-bestiary-2/7UBCht1tQfeba2Ih.htm)|Wood Golem|
-|[89isDKkB1UCbsSvU.htm](pathfinder-bestiary-2/89isDKkB1UCbsSvU.htm)|Ostiarius|
-|[8a9N2iPA5HLpkWaF.htm](pathfinder-bestiary-2/8a9N2iPA5HLpkWaF.htm)|Army Ant Swarm|
-|[8HJNH3aDTJyJi3pU.htm](pathfinder-bestiary-2/8HJNH3aDTJyJi3pU.htm)|Cockroach Swarm|
-|[8IyfadYYpYXBvlXN.htm](pathfinder-bestiary-2/8IyfadYYpYXBvlXN.htm)|Vrykolakas Spawn|
-|[8usfZlFqdD9cchPJ.htm](pathfinder-bestiary-2/8usfZlFqdD9cchPJ.htm)|Bottlenose Dolphin|
-|[8WAc7n2M4Ks00yvj.htm](pathfinder-bestiary-2/8WAc7n2M4Ks00yvj.htm)|Cavern Troll|
-|[9sUx2sV4E7Sy3vJT.htm](pathfinder-bestiary-2/9sUx2sV4E7Sy3vJT.htm)|Zelekhut|
 |[a8Ih1RIr4UUV4QCL.htm](pathfinder-bestiary-2/a8Ih1RIr4UUV4QCL.htm)|Fire Yai|
-|[Aa652cDdKTani3DY.htm](pathfinder-bestiary-2/Aa652cDdKTani3DY.htm)|Scythe Tree|
 |[aATQbGnSA0KOWG53.htm](pathfinder-bestiary-2/aATQbGnSA0KOWG53.htm)|Anancus|
-|[ABMn623izSLHA0sx.htm](pathfinder-bestiary-2/ABMn623izSLHA0sx.htm)|Glass Golem|
-|[ABrzFoOqQohQqU6C.htm](pathfinder-bestiary-2/ABrzFoOqQohQqU6C.htm)|Yamaraj|
-|[ACIqdW6VsFA1TCpN.htm](pathfinder-bestiary-2/ACIqdW6VsFA1TCpN.htm)|Manta Ray|
 |[aFRGgQWWCDIiBlUl.htm](pathfinder-bestiary-2/aFRGgQWWCDIiBlUl.htm)|D'ziriak|
 |[aMIb3Xm64NzRj8YP.htm](pathfinder-bestiary-2/aMIb3Xm64NzRj8YP.htm)|Mandragora|
-|[ARw4pyNmuQxoZDke.htm](pathfinder-bestiary-2/ARw4pyNmuQxoZDke.htm)|Steam Mephit|
 |[aVf2IojxU9ZZ64M5.htm](pathfinder-bestiary-2/aVf2IojxU9ZZ64M5.htm)|Fetchling Scout|
 |[b0jMGY65XVyuKUjf.htm](pathfinder-bestiary-2/b0jMGY65XVyuKUjf.htm)|Blink Dog|
-|[B4TJHP0yX8SXHQ4x.htm](pathfinder-bestiary-2/B4TJHP0yX8SXHQ4x.htm)|Trumpet Archon|
 |[b5b6J3TqbcXnmKyy.htm](pathfinder-bestiary-2/b5b6J3TqbcXnmKyy.htm)|Giant Dragonfly|
-|[B8dOh27iarR7rZI3.htm](pathfinder-bestiary-2/B8dOh27iarR7rZI3.htm)|Blindheim|
 |[bAaVfrdNLfFh7iHv.htm](pathfinder-bestiary-2/bAaVfrdNLfFh7iHv.htm)|Basidirond|
-|[BbIyNJDPkGKLK0Rt.htm](pathfinder-bestiary-2/BbIyNJDPkGKLK0Rt.htm)|Vexgit|
-|[BJoM8LAVP8MA5o8v.htm](pathfinder-bestiary-2/BJoM8LAVP8MA5o8v.htm)|Catoblepas|
 |[bpwaqRoO1wYo15T5.htm](pathfinder-bestiary-2/bpwaqRoO1wYo15T5.htm)|Nuglub|
-|[BSlvgDdLkTXU9hRF.htm](pathfinder-bestiary-2/BSlvgDdLkTXU9hRF.htm)|Ancient Umbral Dragon|
-|[BTQ2ARKulg5Egueg.htm](pathfinder-bestiary-2/BTQ2ARKulg5Egueg.htm)|Augur|
-|[Bz5wgKEVsHAyaYEx.htm](pathfinder-bestiary-2/Bz5wgKEVsHAyaYEx.htm)|Sunflower Leshy|
 |[c4uQKZaRWv9n9IHo.htm](pathfinder-bestiary-2/c4uQKZaRWv9n9IHo.htm)|Solar|
-|[C7LvY2Xxzm2xRL1M.htm](pathfinder-bestiary-2/C7LvY2Xxzm2xRL1M.htm)|Giant Solifugid|
 |[cd2IaNGpdmHHZnrN.htm](pathfinder-bestiary-2/cd2IaNGpdmHHZnrN.htm)|Xill|
 |[cijMuXBk8YUw2RoB.htm](pathfinder-bestiary-2/cijMuXBk8YUw2RoB.htm)|Caligni Slayer|
 |[cKu0rrZtEAFCosej.htm](pathfinder-bestiary-2/cKu0rrZtEAFCosej.htm)|Void Zombie|
 |[cmuCFkXdn1JuVTK4.htm](pathfinder-bestiary-2/cmuCFkXdn1JuVTK4.htm)|Gorgon|
 |[coNTMrHerjBIf2ig.htm](pathfinder-bestiary-2/coNTMrHerjBIf2ig.htm)|Culdewen|
 |[cPX0NmB242FqSRxa.htm](pathfinder-bestiary-2/cPX0NmB242FqSRxa.htm)|Grendel|
-|[CrAsEzLl3F2vejd3.htm](pathfinder-bestiary-2/CrAsEzLl3F2vejd3.htm)|Earthen Destrier|
 |[cu6Bl5pFByrpinxd.htm](pathfinder-bestiary-2/cu6Bl5pFByrpinxd.htm)|Planetar|
-|[CvO6MAoxDFO0J5qm.htm](pathfinder-bestiary-2/CvO6MAoxDFO0J5qm.htm)|Witchwyrd|
-|[CwrVQsRAeqlr1Vh0.htm](pathfinder-bestiary-2/CwrVQsRAeqlr1Vh0.htm)|Athach|
 |[dBUiB3Hyh0hN8Exc.htm](pathfinder-bestiary-2/dBUiB3Hyh0hN8Exc.htm)|Wooly Rhinoceros|
-|[DC9b8mG1KdyXZkLp.htm](pathfinder-bestiary-2/DC9b8mG1KdyXZkLp.htm)|Calathgar|
-|[DEo5AEY1i9s0kWYZ.htm](pathfinder-bestiary-2/DEo5AEY1i9s0kWYZ.htm)|Lunar Naga|
 |[drtCZDDoESPSUqH7.htm](pathfinder-bestiary-2/drtCZDDoESPSUqH7.htm)|Peluda|
 |[duaHanGHvRGhUtB5.htm](pathfinder-bestiary-2/duaHanGHvRGhUtB5.htm)|Viper Vine|
 |[dvZM7hGNDu8olV7A.htm](pathfinder-bestiary-2/dvZM7hGNDu8olV7A.htm)|Brood Leech Swarm|
-|[DWQzgPL1WjXfu4rV.htm](pathfinder-bestiary-2/DWQzgPL1WjXfu4rV.htm)|Assassin Vine|
 |[dwyt7e1EZPjw9KBB.htm](pathfinder-bestiary-2/dwyt7e1EZPjw9KBB.htm)|Giant Hippocampus|
-|[DxV2vH17H789bJ6y.htm](pathfinder-bestiary-2/DxV2vH17H789bJ6y.htm)|Ankou|
-|[DYBZniwR1Ip4inVr.htm](pathfinder-bestiary-2/DYBZniwR1Ip4inVr.htm)|Morlock|
 |[e0PXAtnDnJo4ggFX.htm](pathfinder-bestiary-2/e0PXAtnDnJo4ggFX.htm)|Vrykolakas Ancient|
 |[e0YvEWJ5zpU946G4.htm](pathfinder-bestiary-2/e0YvEWJ5zpU946G4.htm)|Cave Scorpion|
 |[e5yE4RkwLQojRYHm.htm](pathfinder-bestiary-2/e5yE4RkwLQojRYHm.htm)|Urdefhan Warrior|
@@ -115,92 +47,51 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[g1htYgARxNKxc7MV.htm](pathfinder-bestiary-2/g1htYgARxNKxc7MV.htm)|Giant Slug|
 |[g41X4b3q2iDMLRt3.htm](pathfinder-bestiary-2/g41X4b3q2iDMLRt3.htm)|Ravener|
 |[gOjrie9YndQPomU8.htm](pathfinder-bestiary-2/gOjrie9YndQPomU8.htm)|Sand Sentry|
-|[GsrqCDf0Dc9PisEt.htm](pathfinder-bestiary-2/GsrqCDf0Dc9PisEt.htm)|Violet Fungus|
 |[gVNKimslRe1k2hdV.htm](pathfinder-bestiary-2/gVNKimslRe1k2hdV.htm)|Vaspercham|
-|[H37tfTiLiUhpYxaS.htm](pathfinder-bestiary-2/H37tfTiLiUhpYxaS.htm)|Bastion Archon|
 |[h4SZ3U9at7aT0ASv.htm](pathfinder-bestiary-2/h4SZ3U9at7aT0ASv.htm)|Spirit Naga|
-|[H8KNSMb9uo2mJF3P.htm](pathfinder-bestiary-2/H8KNSMb9uo2mJF3P.htm)|Twigjack|
-|[HBkk9MYLomjKDKr4.htm](pathfinder-bestiary-2/HBkk9MYLomjKDKr4.htm)|Azuretzi|
 |[hFbfXmjMkGEzMkQ1.htm](pathfinder-bestiary-2/hFbfXmjMkGEzMkQ1.htm)|Raven|
-|[HhSoTr6mpwV09Y4k.htm](pathfinder-bestiary-2/HhSoTr6mpwV09Y4k.htm)|Irnakurse|
-|[HI7SecILsRTmOtky.htm](pathfinder-bestiary-2/HI7SecILsRTmOtky.htm)|Shocker Lizard|
 |[hIWzgjW2E2K6ImPA.htm](pathfinder-bestiary-2/hIWzgjW2E2K6ImPA.htm)|Bog Mummy|
-|[HjmqeJuWdmY5imiz.htm](pathfinder-bestiary-2/HjmqeJuWdmY5imiz.htm)|Triton|
-|[HmeEHIXL46rBQWAa.htm](pathfinder-bestiary-2/HmeEHIXL46rBQWAa.htm)|Frost Troll|
 |[hmnNDCNV425MisdA.htm](pathfinder-bestiary-2/hmnNDCNV425MisdA.htm)|Eremite|
-|[HNEUSYnInffvGPHK.htm](pathfinder-bestiary-2/HNEUSYnInffvGPHK.htm)|Specter|
-|[Ho1Dx2dXlQZYLApP.htm](pathfinder-bestiary-2/Ho1Dx2dXlQZYLApP.htm)|Sylph Sneak|
 |[hvKRgNiQtQJhHk9u.htm](pathfinder-bestiary-2/hvKRgNiQtQJhHk9u.htm)|Imentesh|
 |[hvoIxruNUei1auQT.htm](pathfinder-bestiary-2/hvoIxruNUei1auQT.htm)|Melody On The Wind|
-|[Hwy4YrNVVr7NnsMC.htm](pathfinder-bestiary-2/Hwy4YrNVVr7NnsMC.htm)|Mudwretch|
-|[HXWT5QxmOCn0poMt.htm](pathfinder-bestiary-2/HXWT5QxmOCn0poMt.htm)|Stingray|
-|[HzeOxVy3VXxaJmC5.htm](pathfinder-bestiary-2/HzeOxVy3VXxaJmC5.htm)|Adult Umbral Dragon|
 |[i8C4jqI3VdozylBL.htm](pathfinder-bestiary-2/i8C4jqI3VdozylBL.htm)|Cornugon|
 |[iLZpGlyBWxS4Idbi.htm](pathfinder-bestiary-2/iLZpGlyBWxS4Idbi.htm)|Emperor Cobra|
 |[iW6WKMVV3Ug8sa2q.htm](pathfinder-bestiary-2/iW6WKMVV3Ug8sa2q.htm)|Thanadaemon|
 |[j43O2vBu8eu2wC5z.htm](pathfinder-bestiary-2/j43O2vBu8eu2wC5z.htm)|Vrykolakas Master|
 |[jCF9HjF42SPXTptP.htm](pathfinder-bestiary-2/jCF9HjF42SPXTptP.htm)|Marrmora|
 |[jCJUvzs1FaL6PAkq.htm](pathfinder-bestiary-2/jCJUvzs1FaL6PAkq.htm)|Bodak|
-|[JCoILqEvwovT7tkj.htm](pathfinder-bestiary-2/JCoILqEvwovT7tkj.htm)|Chupacabra|
-|[JgePINrFINmlsvn3.htm](pathfinder-bestiary-2/JgePINrFINmlsvn3.htm)|Hound Of Tindalos|
 |[jgMFqFDNUWsrnnBH.htm](pathfinder-bestiary-2/jgMFqFDNUWsrnnBH.htm)|Tick Swarm|
 |[jhr6WpTeY8GXXwK1.htm](pathfinder-bestiary-2/jhr6WpTeY8GXXwK1.htm)|Ifrit Pyrochemist|
-|[JJKxWVExhUEno9j0.htm](pathfinder-bestiary-2/JJKxWVExhUEno9j0.htm)|Giant Leech|
-|[JKBO2qqNrRezSb7d.htm](pathfinder-bestiary-2/JKBO2qqNrRezSb7d.htm)|Ancient Magma Dragon|
 |[jpjhbGvaduK4iqwq.htm](pathfinder-bestiary-2/jpjhbGvaduK4iqwq.htm)|Spark Bat|
 |[jQ7zBVDCEhuMOOTl.htm](pathfinder-bestiary-2/jQ7zBVDCEhuMOOTl.htm)|Nabasu|
 |[kapPWNOxXOLcd4VF.htm](pathfinder-bestiary-2/kapPWNOxXOLcd4VF.htm)|Amoeba Swarm|
 |[kElZCC1zMQVftoi9.htm](pathfinder-bestiary-2/kElZCC1zMQVftoi9.htm)|Isqulug|
 |[kKH3uMHbVZQmEtxj.htm](pathfinder-bestiary-2/kKH3uMHbVZQmEtxj.htm)|Jotund Troll|
-|[Kr5LtF0bqZJAC2Wn.htm](pathfinder-bestiary-2/Kr5LtF0bqZJAC2Wn.htm)|Ogre Spider|
-|[Kw4UUxt5rorsGjsK.htm](pathfinder-bestiary-2/Kw4UUxt5rorsGjsK.htm)|Yellow Musk Brute|
 |[l3kFjH4n9Shet6bz.htm](pathfinder-bestiary-2/l3kFjH4n9Shet6bz.htm)|Fen Mosquito Swarm|
 |[l4UOJbphMT7jZ0xB.htm](pathfinder-bestiary-2/l4UOJbphMT7jZ0xB.htm)|Giant Crab|
-|[LcdQZ2NTG2eJswXA.htm](pathfinder-bestiary-2/LcdQZ2NTG2eJswXA.htm)|Sceaduinar|
 |[le7VaOJyQQnl37Wa.htm](pathfinder-bestiary-2/le7VaOJyQQnl37Wa.htm)|Giant Tick|
-|[LQL8HU6tISXZwlOw.htm](pathfinder-bestiary-2/LQL8HU6tISXZwlOw.htm)|Skaveling|
-|[LtaVzD7ADtWmBWap.htm](pathfinder-bestiary-2/LtaVzD7ADtWmBWap.htm)|Skrik Nettle|
 |[luPebMfNmwtOZcWR.htm](pathfinder-bestiary-2/luPebMfNmwtOZcWR.htm)|Thrasfyr|
 |[lUYlClIPITmhzepe.htm](pathfinder-bestiary-2/lUYlClIPITmhzepe.htm)|Two-Headed Troll|
-|[LZp7LLcFzDBlrwod.htm](pathfinder-bestiary-2/LZp7LLcFzDBlrwod.htm)|Nixie|
-|[M2BkGD9YwEmCvD9D.htm](pathfinder-bestiary-2/M2BkGD9YwEmCvD9D.htm)|Invidiak|
 |[m40M5R7wcm5DSVK2.htm](pathfinder-bestiary-2/m40M5R7wcm5DSVK2.htm)|Dust Mephit|
-|[M4mDroIJlrBYfHkM.htm](pathfinder-bestiary-2/M4mDroIJlrBYfHkM.htm)|Giant Crawling Hand|
-|[MCZgXBC0I4Oovcjd.htm](pathfinder-bestiary-2/MCZgXBC0I4Oovcjd.htm)|Giant Wolverine|
-|[MDdbC8XDUPFg4FCv.htm](pathfinder-bestiary-2/MDdbC8XDUPFg4FCv.htm)|Spriggan Warlord|
 |[mpBOeFrbtx1wMrNn.htm](pathfinder-bestiary-2/mpBOeFrbtx1wMrNn.htm)|Frost Worm|
-|[MUVc2ZjwGtlpcuX1.htm](pathfinder-bestiary-2/MUVc2ZjwGtlpcuX1.htm)|Gosreg|
 |[mZLOTDHhChme6mfh.htm](pathfinder-bestiary-2/mZLOTDHhChme6mfh.htm)|Young Crystal Dragon|
 |[mZxVXRI1Zh3HUXxn.htm](pathfinder-bestiary-2/mZxVXRI1Zh3HUXxn.htm)|Living Thunderclap|
 |[n1jTYFRCaqF1nQrf.htm](pathfinder-bestiary-2/n1jTYFRCaqF1nQrf.htm)|Titan Centipede|
-|[N3XfcwDn1Nu7milG.htm](pathfinder-bestiary-2/N3XfcwDn1Nu7milG.htm)|Icewyrm|
 |[n6cv7eCzPSs4dbHn.htm](pathfinder-bestiary-2/n6cv7eCzPSs4dbHn.htm)|Dweomercat|
-|[N7Ej1AyPPolzboex.htm](pathfinder-bestiary-2/N7Ej1AyPPolzboex.htm)|Grindylow|
-|[NAy7eUqFI8tGm3Ug.htm](pathfinder-bestiary-2/NAy7eUqFI8tGm3Ug.htm)|Taiga Linnorm|
 |[nipVBTEgG6itWJSW.htm](pathfinder-bestiary-2/nipVBTEgG6itWJSW.htm)|Shoal Linnorm|
-|[Nk3Inn5jel1VQMLt.htm](pathfinder-bestiary-2/Nk3Inn5jel1VQMLt.htm)|Radiant Warden|
-|[NlMqwcN2ZaALOVSY.htm](pathfinder-bestiary-2/NlMqwcN2ZaALOVSY.htm)|Carnivorous Blob|
 |[nOAQehZL3045YMX1.htm](pathfinder-bestiary-2/nOAQehZL3045YMX1.htm)|Young Umbral Dragon|
-|[NoCtPLRoVvloZe63.htm](pathfinder-bestiary-2/NoCtPLRoVvloZe63.htm)|Adult Cloud Dragon|
-|[NQ6qRvpD9DIwVxt3.htm](pathfinder-bestiary-2/NQ6qRvpD9DIwVxt3.htm)|Vampiric Mist|
 |[nRsH7unLIRWq0ZHC.htm](pathfinder-bestiary-2/nRsH7unLIRWq0ZHC.htm)|Akata|
 |[nSDXAfFOF2gEKmkM.htm](pathfinder-bestiary-2/nSDXAfFOF2gEKmkM.htm)|Movanic Deva|
-|[NtezcliwnH4R1tJw.htm](pathfinder-bestiary-2/NtezcliwnH4R1tJw.htm)|Thulgant|
 |[nxR3nseHT01YmOQo.htm](pathfinder-bestiary-2/nxR3nseHT01YmOQo.htm)|Piscodaemon|
 |[nzLGh9GKCk7imto3.htm](pathfinder-bestiary-2/nzLGh9GKCk7imto3.htm)|Blodeuwedd|
 |[o2IbtStBj11QCRvS.htm](pathfinder-bestiary-2/o2IbtStBj11QCRvS.htm)|Rhinoceros|
-|[O69kXMo6shkA606k.htm](pathfinder-bestiary-2/O69kXMo6shkA606k.htm)|Choker|
-|[O9LzsedLTUVFtOix.htm](pathfinder-bestiary-2/O9LzsedLTUVFtOix.htm)|Black Scorpion|
 |[OaKx1ZaU25i3cypS.htm](pathfinder-bestiary-2/OaKx1ZaU25i3cypS.htm)|Theletos|
 |[OaNtHZAraCrVLuSo.htm](pathfinder-bestiary-2/OaNtHZAraCrVLuSo.htm)|Mohrg|
-|[OERK0GGnaEOthcdV.htm](pathfinder-bestiary-2/OERK0GGnaEOthcdV.htm)|Cave Fisher|
-|[OFHr8UhsBOOgj0ef.htm](pathfinder-bestiary-2/OFHr8UhsBOOgj0ef.htm)|Intellect Devourer|
 |[oKogG9AwUZ9iBsm3.htm](pathfinder-bestiary-2/oKogG9AwUZ9iBsm3.htm)|Derghodaemon|
 |[oMZaSpBmWddKZ1KN.htm](pathfinder-bestiary-2/oMZaSpBmWddKZ1KN.htm)|Ancient Brine Dragon|
 |[oSQ3Q9tzTohksAtf.htm](pathfinder-bestiary-2/oSQ3Q9tzTohksAtf.htm)|Crawling Hand|
 |[ouGM2y2aO0yisPAs.htm](pathfinder-bestiary-2/ouGM2y2aO0yisPAs.htm)|Petitioner|
 |[OuimMwM3yFRy5tRK.htm](pathfinder-bestiary-2/OuimMwM3yFRy5tRK.htm)|Evangelist|
-|[OVRvL7fKERLsM4KP.htm](pathfinder-bestiary-2/OVRvL7fKERLsM4KP.htm)|Grodair|
 |[PAGytLw1QnAiNYC2.htm](pathfinder-bestiary-2/PAGytLw1QnAiNYC2.htm)|Coil Spy|
 |[PKAs8bMBMpnegmwq.htm](pathfinder-bestiary-2/PKAs8bMBMpnegmwq.htm)|Badger|
 |[prNJZOU8tdRIZITT.htm](pathfinder-bestiary-2/prNJZOU8tdRIZITT.htm)|Doprillu|
@@ -336,6 +227,74 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[0rhltfBkQtYkCwXd.htm](pathfinder-bestiary-2/0rhltfBkQtYkCwXd.htm)|Yellow Musk Thrall|Esclave de Jaune Musquée|libre|
+|[10JbkieWjqKA5Hzc.htm](pathfinder-bestiary-2/10JbkieWjqKA5Hzc.htm)|Irlgaunt|Irlgaunt|libre|
+|[12vyw160K7p3M3Mt.htm](pathfinder-bestiary-2/12vyw160K7p3M3Mt.htm)|Quetz Couatl|Quetzalcoatl|libre|
+|[18NInoyRLIrWE0nt.htm](pathfinder-bestiary-2/18NInoyRLIrWE0nt.htm)|Chernobue|Tchernobue|libre|
+|[1QWZDaBoefL5rWkz.htm](pathfinder-bestiary-2/1QWZDaBoefL5rWkz.htm)|Hodag|Hodag|libre|
+|[27R4ntwgch7eIQM6.htm](pathfinder-bestiary-2/27R4ntwgch7eIQM6.htm)|Akizendri|Akizendri|libre|
+|[2Kw49I6EZbKKlTtK.htm](pathfinder-bestiary-2/2Kw49I6EZbKKlTtK.htm)|Blizzardborn|NéBlizzard|libre|
+|[32HHvah2Ji6FjJnM.htm](pathfinder-bestiary-2/32HHvah2Ji6FjJnM.htm)|Giant Squid|Calamar Géant|libre|
+|[340AwQpRXGblw1kF.htm](pathfinder-bestiary-2/340AwQpRXGblw1kF.htm)|Sarglagon|Sarglagon (Diable de la Noyade)|libre|
+|[37FAi1y5S8snofws.htm](pathfinder-bestiary-2/37FAi1y5S8snofws.htm)|Olethrodaemon|Oléthrodaémon (Daémon de l'Apocalypse)|libre|
+|[3dlupMwDA9qv1xWS.htm](pathfinder-bestiary-2/3dlupMwDA9qv1xWS.htm)|Suli Dune Dancer|Danseur des Dunes Suli|libre|
+|[3DSqfobadad3pA6O.htm](pathfinder-bestiary-2/3DSqfobadad3pA6O.htm)|Giant Fly|Mouche Géante|libre|
+|[3MDlKPlPhHBo1DId.htm](pathfinder-bestiary-2/3MDlKPlPhHBo1DId.htm)|Vampire Squid|Calamar Vampire|libre|
+|[3u4toki9EeSRvcs2.htm](pathfinder-bestiary-2/3u4toki9EeSRvcs2.htm)|Quoppopak|Quoppopak|libre|
+|[3VFHZyjSjNA1jbiO.htm](pathfinder-bestiary-2/3VFHZyjSjNA1jbiO.htm)|Sportlebore Swarm|Nuée de Sportlebores|libre|
+|[3YcsuATyahEMygNy.htm](pathfinder-bestiary-2/3YcsuATyahEMygNy.htm)|Revenant|Revenant|libre|
+|[48agy7vl9fQW1LLA.htm](pathfinder-bestiary-2/48agy7vl9fQW1LLA.htm)|Draugr|Draugar|libre|
+|[49y0g521xHESClzk.htm](pathfinder-bestiary-2/49y0g521xHESClzk.htm)|Young Magma Dragon|Jeune Dragon de Magma|libre|
+|[4Y8UO8NloCoPxJ1E.htm](pathfinder-bestiary-2/4Y8UO8NloCoPxJ1E.htm)|Umonlee|Umonlee|libre|
+|[57pzXwM9qFiRTwq9.htm](pathfinder-bestiary-2/57pzXwM9qFiRTwq9.htm)|Dig-Widget|Excavateur|libre|
+|[5CixyyBkCLj2VI8q.htm](pathfinder-bestiary-2/5CixyyBkCLj2VI8q.htm)|Hippopotamus|Hippopotame|libre|
+|[5FcYbQxHehjO4w1d.htm](pathfinder-bestiary-2/5FcYbQxHehjO4w1d.htm)|Ooze Mephit|Méphite d'Exsudat|libre|
+|[5FGuXfg6Ub2hCBG7.htm](pathfinder-bestiary-2/5FGuXfg6Ub2hCBG7.htm)|Yellow Musk Creeper|Liane Jaune Musquée|libre|
+|[5l0b80kz53Ie26gq.htm](pathfinder-bestiary-2/5l0b80kz53Ie26gq.htm)|Wood Giant|Géant des Bois|libre|
+|[64sdDzjLWu2W2R2e.htm](pathfinder-bestiary-2/64sdDzjLWu2W2R2e.htm)|Water Orm|Orm d'Eau|libre|
+|[6EX8nxH3zRotLRJG.htm](pathfinder-bestiary-2/6EX8nxH3zRotLRJG.htm)|Sea Snake|Serpent de Mer|libre|
+|[6ic6oNCpWjkVAsIN.htm](pathfinder-bestiary-2/6ic6oNCpWjkVAsIN.htm)|Ember Fox|Renard de Braise|libre|
+|[6jqnHzjmJ190G8Zj.htm](pathfinder-bestiary-2/6jqnHzjmJ190G8Zj.htm)|Yeth Hound|Chien de Chasse de Yeth|libre|
+|[6Me4Q1JDupyCCnGg.htm](pathfinder-bestiary-2/6Me4Q1JDupyCCnGg.htm)|Ice Mephit|Méphite de Glace|libre|
+|[6tKVMKDdvbp0VhZD.htm](pathfinder-bestiary-2/6tKVMKDdvbp0VhZD.htm)|Slime Mold|Moisissure Visqueuse|libre|
+|[6wpHJXze0RLxl780.htm](pathfinder-bestiary-2/6wpHJXze0RLxl780.htm)|Behir|Béhir|libre|
+|[6xioRweZ0T4o4X9e.htm](pathfinder-bestiary-2/6xioRweZ0T4o4X9e.htm)|Witchfire|Feu Follet de Sorcière|libre|
+|[6YOyTHRGqkYl2Prb.htm](pathfinder-bestiary-2/6YOyTHRGqkYl2Prb.htm)|Wolverine|Glouton|libre|
+|[73qJxJK8ES4Tbp2k.htm](pathfinder-bestiary-2/73qJxJK8ES4Tbp2k.htm)|Lurker In Light|Rôdeur à la lumière|libre|
+|[7EppoGdIcmd0AV9B.htm](pathfinder-bestiary-2/7EppoGdIcmd0AV9B.htm)|Onidoshi|Onidoshi|libre|
+|[7kAbAOHJBq28FOXJ.htm](pathfinder-bestiary-2/7kAbAOHJBq28FOXJ.htm)|Dracolisk|Dracolic|libre|
+|[7lL7APeHQgkVxU1B.htm](pathfinder-bestiary-2/7lL7APeHQgkVxU1B.htm)|Fire Jellyfish Swarm|Nuée de Méduses de Feu|libre|
+|[7oiIDnLBDpC2r2AA.htm](pathfinder-bestiary-2/7oiIDnLBDpC2r2AA.htm)|Sacristan|Sacristain|libre|
+|[7SVhYtnBn967Hy8O.htm](pathfinder-bestiary-2/7SVhYtnBn967Hy8O.htm)|Bone Prophet|Prophète des Os|libre|
+|[7UBCht1tQfeba2Ih.htm](pathfinder-bestiary-2/7UBCht1tQfeba2Ih.htm)|Wood Golem|Golem de Bois|libre|
+|[89isDKkB1UCbsSvU.htm](pathfinder-bestiary-2/89isDKkB1UCbsSvU.htm)|Ostiarius|Ostiarian|libre|
+|[8a9N2iPA5HLpkWaF.htm](pathfinder-bestiary-2/8a9N2iPA5HLpkWaF.htm)|Army Ant Swarm|Nuée de Fourmis Légionnaires|libre|
+|[8HJNH3aDTJyJi3pU.htm](pathfinder-bestiary-2/8HJNH3aDTJyJi3pU.htm)|Cockroach Swarm|Nuée de Cafards|libre|
+|[8IyfadYYpYXBvlXN.htm](pathfinder-bestiary-2/8IyfadYYpYXBvlXN.htm)|Vrykolakas Spawn|Rejeton Vrykolakas|libre|
+|[8usfZlFqdD9cchPJ.htm](pathfinder-bestiary-2/8usfZlFqdD9cchPJ.htm)|Bottlenose Dolphin|Grand Dauphin|libre|
+|[8WAc7n2M4Ks00yvj.htm](pathfinder-bestiary-2/8WAc7n2M4Ks00yvj.htm)|Cavern Troll|Troll des Cavernes|libre|
+|[9sUx2sV4E7Sy3vJT.htm](pathfinder-bestiary-2/9sUx2sV4E7Sy3vJT.htm)|Zelekhut|Zèlékhut|libre|
+|[Aa652cDdKTani3DY.htm](pathfinder-bestiary-2/Aa652cDdKTani3DY.htm)|Scythe Tree|Fau Carnivore|libre|
+|[ABMn623izSLHA0sx.htm](pathfinder-bestiary-2/ABMn623izSLHA0sx.htm)|Glass Golem|Golem de Glace|libre|
+|[ABrzFoOqQohQqU6C.htm](pathfinder-bestiary-2/ABrzFoOqQohQqU6C.htm)|Yamaraj|Yamaradja|changé|
+|[ACIqdW6VsFA1TCpN.htm](pathfinder-bestiary-2/ACIqdW6VsFA1TCpN.htm)|Manta Ray|Raie Manta|libre|
+|[ARw4pyNmuQxoZDke.htm](pathfinder-bestiary-2/ARw4pyNmuQxoZDke.htm)|Steam Mephit|Méphite à Vapeur|libre|
+|[B4TJHP0yX8SXHQ4x.htm](pathfinder-bestiary-2/B4TJHP0yX8SXHQ4x.htm)|Trumpet Archon|Archange Annonciateur|libre|
+|[B8dOh27iarR7rZI3.htm](pathfinder-bestiary-2/B8dOh27iarR7rZI3.htm)|Blindheim|Aveuglèmite|libre|
+|[BbIyNJDPkGKLK0Rt.htm](pathfinder-bestiary-2/BbIyNJDPkGKLK0Rt.htm)|Vexgit|Vexgit|libre|
+|[BJoM8LAVP8MA5o8v.htm](pathfinder-bestiary-2/BJoM8LAVP8MA5o8v.htm)|Catoblepas|Catoblépas|libre|
+|[BSlvgDdLkTXU9hRF.htm](pathfinder-bestiary-2/BSlvgDdLkTXU9hRF.htm)|Ancient Umbral Dragon|Vieux Dragon de l'Ombre|libre|
+|[BTQ2ARKulg5Egueg.htm](pathfinder-bestiary-2/BTQ2ARKulg5Egueg.htm)|Augur|Augure|libre|
+|[Bz5wgKEVsHAyaYEx.htm](pathfinder-bestiary-2/Bz5wgKEVsHAyaYEx.htm)|Sunflower Leshy|Leshy Tournesol|libre|
+|[C7LvY2Xxzm2xRL1M.htm](pathfinder-bestiary-2/C7LvY2Xxzm2xRL1M.htm)|Giant Solifugid|Solifuge Géant|libre|
+|[CrAsEzLl3F2vejd3.htm](pathfinder-bestiary-2/CrAsEzLl3F2vejd3.htm)|Earthen Destrier|Destrier de Terre|libre|
+|[CvO6MAoxDFO0J5qm.htm](pathfinder-bestiary-2/CvO6MAoxDFO0J5qm.htm)|Witchwyrd|Sorcewyrd|libre|
+|[CwrVQsRAeqlr1Vh0.htm](pathfinder-bestiary-2/CwrVQsRAeqlr1Vh0.htm)|Athach|Athak|libre|
+|[DC9b8mG1KdyXZkLp.htm](pathfinder-bestiary-2/DC9b8mG1KdyXZkLp.htm)|Calathgar|Calathgar|libre|
+|[DEo5AEY1i9s0kWYZ.htm](pathfinder-bestiary-2/DEo5AEY1i9s0kWYZ.htm)|Lunar Naga|Naga Lunaire|libre|
+|[DWQzgPL1WjXfu4rV.htm](pathfinder-bestiary-2/DWQzgPL1WjXfu4rV.htm)|Assassin Vine|Vigne Assassine|libre|
+|[DxV2vH17H789bJ6y.htm](pathfinder-bestiary-2/DxV2vH17H789bJ6y.htm)|Ankou|Ankou|libre|
+|[DYBZniwR1Ip4inVr.htm](pathfinder-bestiary-2/DYBZniwR1Ip4inVr.htm)|Morlock|Morlock|libre|
 |[E4aJhHWyFDxgJcy9.htm](pathfinder-bestiary-2/E4aJhHWyFDxgJcy9.htm)|Peryton|Péryton|libre|
 |[EOiOqs1vHCxZAj3T.htm](pathfinder-bestiary-2/EOiOqs1vHCxZAj3T.htm)|Scarecrow|Épouvantail|libre|
 |[Et2784TVZOXIbtM1.htm](pathfinder-bestiary-2/Et2784TVZOXIbtM1.htm)|Interlocutor|Anatomosculptor|changé|
@@ -352,3 +311,44 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ge5Q5I7TTksf7QyN.htm](pathfinder-bestiary-2/Ge5Q5I7TTksf7QyN.htm)|Zomok|Zomok|libre|
 |[GfJLotTcrZmn6tay.htm](pathfinder-bestiary-2/GfJLotTcrZmn6tay.htm)|Purrodaemon|Purrodaémon|libre|
 |[GnKay44MFMZkqXRi.htm](pathfinder-bestiary-2/GnKay44MFMZkqXRi.htm)|Hadrosaurid|Hadrosaure|libre|
+|[GsrqCDf0Dc9PisEt.htm](pathfinder-bestiary-2/GsrqCDf0Dc9PisEt.htm)|Violet Fungus|Champignon Violet|libre|
+|[H37tfTiLiUhpYxaS.htm](pathfinder-bestiary-2/H37tfTiLiUhpYxaS.htm)|Bastion Archon|Archange Rempart|libre|
+|[H8KNSMb9uo2mJF3P.htm](pathfinder-bestiary-2/H8KNSMb9uo2mJF3P.htm)|Twigjack|Homme-Brindille|libre|
+|[HBkk9MYLomjKDKr4.htm](pathfinder-bestiary-2/HBkk9MYLomjKDKr4.htm)|Azuretzi|Azuretzi|libre|
+|[HhSoTr6mpwV09Y4k.htm](pathfinder-bestiary-2/HhSoTr6mpwV09Y4k.htm)|Irnakurse|Irnakurse|libre|
+|[HI7SecILsRTmOtky.htm](pathfinder-bestiary-2/HI7SecILsRTmOtky.htm)|Shocker Lizard|Lézard Foudre|libre|
+|[HjmqeJuWdmY5imiz.htm](pathfinder-bestiary-2/HjmqeJuWdmY5imiz.htm)|Triton|Triton|libre|
+|[HmeEHIXL46rBQWAa.htm](pathfinder-bestiary-2/HmeEHIXL46rBQWAa.htm)|Frost Troll|Troll des Glaces|libre|
+|[HNEUSYnInffvGPHK.htm](pathfinder-bestiary-2/HNEUSYnInffvGPHK.htm)|Specter|Spectre|libre|
+|[Ho1Dx2dXlQZYLApP.htm](pathfinder-bestiary-2/Ho1Dx2dXlQZYLApP.htm)|Sylph Sneak|Sylphe Furtive|libre|
+|[Hwy4YrNVVr7NnsMC.htm](pathfinder-bestiary-2/Hwy4YrNVVr7NnsMC.htm)|Mudwretch|Créature de Boue|libre|
+|[HXWT5QxmOCn0poMt.htm](pathfinder-bestiary-2/HXWT5QxmOCn0poMt.htm)|Stingray|Raie Pastenague|libre|
+|[HzeOxVy3VXxaJmC5.htm](pathfinder-bestiary-2/HzeOxVy3VXxaJmC5.htm)|Adult Umbral Dragon|Dragon de l'Ombre Adulte|libre|
+|[JCoILqEvwovT7tkj.htm](pathfinder-bestiary-2/JCoILqEvwovT7tkj.htm)|Chupacabra|Chupacabra|libre|
+|[JgePINrFINmlsvn3.htm](pathfinder-bestiary-2/JgePINrFINmlsvn3.htm)|Hound Of Tindalos|Chien de Chasse de Tindalos|libre|
+|[JJKxWVExhUEno9j0.htm](pathfinder-bestiary-2/JJKxWVExhUEno9j0.htm)|Giant Leech|Sangsue Géante|libre|
+|[JKBO2qqNrRezSb7d.htm](pathfinder-bestiary-2/JKBO2qqNrRezSb7d.htm)|Ancient Magma Dragon|Vieux Dragon de Magma|libre|
+|[Kr5LtF0bqZJAC2Wn.htm](pathfinder-bestiary-2/Kr5LtF0bqZJAC2Wn.htm)|Ogre Spider|Araignée Ogre|libre|
+|[Kw4UUxt5rorsGjsK.htm](pathfinder-bestiary-2/Kw4UUxt5rorsGjsK.htm)|Yellow Musk Brute|Brute de Jaune Musquée|libre|
+|[LcdQZ2NTG2eJswXA.htm](pathfinder-bestiary-2/LcdQZ2NTG2eJswXA.htm)|Sceaduinar|Skeduinar|libre|
+|[LQL8HU6tISXZwlOw.htm](pathfinder-bestiary-2/LQL8HU6tISXZwlOw.htm)|Skaveling|Skaveline|libre|
+|[LtaVzD7ADtWmBWap.htm](pathfinder-bestiary-2/LtaVzD7ADtWmBWap.htm)|Skrik Nettle|Skrek Urticant|libre|
+|[LZp7LLcFzDBlrwod.htm](pathfinder-bestiary-2/LZp7LLcFzDBlrwod.htm)|Nixie|Nixe|libre|
+|[M2BkGD9YwEmCvD9D.htm](pathfinder-bestiary-2/M2BkGD9YwEmCvD9D.htm)|Invidiak|Invidiak (Démon de l'Ombre)|libre|
+|[M4mDroIJlrBYfHkM.htm](pathfinder-bestiary-2/M4mDroIJlrBYfHkM.htm)|Giant Crawling Hand|Main Rampante Géante|libre|
+|[MCZgXBC0I4Oovcjd.htm](pathfinder-bestiary-2/MCZgXBC0I4Oovcjd.htm)|Giant Wolverine|Glouton Géant|libre|
+|[MDdbC8XDUPFg4FCv.htm](pathfinder-bestiary-2/MDdbC8XDUPFg4FCv.htm)|Spriggan Warlord|Seigneur de Guerre Spriggan|libre|
+|[MUVc2ZjwGtlpcuX1.htm](pathfinder-bestiary-2/MUVc2ZjwGtlpcuX1.htm)|Gosreg|Gosreg|libre|
+|[N3XfcwDn1Nu7milG.htm](pathfinder-bestiary-2/N3XfcwDn1Nu7milG.htm)|Icewyrm|Wyrm de Glace|libre|
+|[N7Ej1AyPPolzboex.htm](pathfinder-bestiary-2/N7Ej1AyPPolzboex.htm)|Grindylow|Grindylow|libre|
+|[NAy7eUqFI8tGm3Ug.htm](pathfinder-bestiary-2/NAy7eUqFI8tGm3Ug.htm)|Taiga Linnorm|Linnorm de la Taïga|libre|
+|[Nk3Inn5jel1VQMLt.htm](pathfinder-bestiary-2/Nk3Inn5jel1VQMLt.htm)|Radiant Warden|Gardien Rayonnant|libre|
+|[NlMqwcN2ZaALOVSY.htm](pathfinder-bestiary-2/NlMqwcN2ZaALOVSY.htm)|Carnivorous Blob|Blob Carnivore|libre|
+|[NoCtPLRoVvloZe63.htm](pathfinder-bestiary-2/NoCtPLRoVvloZe63.htm)|Adult Cloud Dragon|Dragon des Nuages Adulte|libre|
+|[NQ6qRvpD9DIwVxt3.htm](pathfinder-bestiary-2/NQ6qRvpD9DIwVxt3.htm)|Vampiric Mist|Brume Vampirique|libre|
+|[NtezcliwnH4R1tJw.htm](pathfinder-bestiary-2/NtezcliwnH4R1tJw.htm)|Thulgant|Thulgant|libre|
+|[O69kXMo6shkA606k.htm](pathfinder-bestiary-2/O69kXMo6shkA606k.htm)|Choker|Écharpeur|libre|
+|[O9LzsedLTUVFtOix.htm](pathfinder-bestiary-2/O9LzsedLTUVFtOix.htm)|Black Scorpion|Scorpion Noir|libre|
+|[OERK0GGnaEOthcdV.htm](pathfinder-bestiary-2/OERK0GGnaEOthcdV.htm)|Cave Fisher|Pêcheur des Cavernes|libre|
+|[OFHr8UhsBOOgj0ef.htm](pathfinder-bestiary-2/OFHr8UhsBOOgj0ef.htm)|Intellect Devourer|Dévoreur d'Intellect|libre|
+|[OVRvL7fKERLsM4KP.htm](pathfinder-bestiary-2/OVRvL7fKERLsM4KP.htm)|Grodair|Grodair|libre|

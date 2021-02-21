@@ -1,11 +1,18 @@
 # État de la traduction (classes)
 
  * **changé**: 16
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2021-02-14 18:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-21 15:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[84SZGVNLXhLKG6gL.htm](classes/84SZGVNLXhLKG6gL.htm)|_Empty Class|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

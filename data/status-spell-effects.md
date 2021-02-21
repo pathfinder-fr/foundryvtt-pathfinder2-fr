@@ -1,20 +1,37 @@
 # État de la traduction (spell-effects)
 
  * **libre**: 5
- * **aucune**: 6
+ * **aucune**: 23
 
 
-Dernière mise à jour: 2021-02-14 18:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-21 15:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[01-8adLKKzJy49USYJt.htm](spell-effects/01-8adLKKzJy49USYJt.htm)|Spell Effect: Song of Strength|
+|[01-8XaSpienzVXLmcfp.htm](spell-effects/01-8XaSpienzVXLmcfp.htm)|Spell Effect: Inspire Heroics (Strength, +3)|
+|[01-BKam63zT98iWMJH7.htm](spell-effects/01-BKam63zT98iWMJH7.htm)|Spell Effect: Inspire Heroics (Defense, +3)|
+|[01-Chol7ExtoN2T36mP.htm](spell-effects/01-Chol7ExtoN2T36mP.htm)|Spell Effect: Inspire Heroics (Defense, +2)|
+|[01-DLwTvjjnqs2sNGuG.htm](spell-effects/01-DLwTvjjnqs2sNGuG.htm)|Spell Effect: Inspire Defense|
 |[01-dWbg2gACxMkSnZag.htm](spell-effects/01-dWbg2gACxMkSnZag.htm)|Spell Effect: Protective Ward|
+|[01-Fjnm1l59KH5YJ7G9.htm](spell-effects/01-Fjnm1l59KH5YJ7G9.htm)|Spell Effect: Inspire Heroics (Strength, +2)|
 |[01-GnWkI3T3LYRlm3X8.htm](spell-effects/01-GnWkI3T3LYRlm3X8.htm)|Spell Effect: Magic Weapon|
+|[01-kZ39XWJA3RBDTnqG.htm](spell-effects/01-kZ39XWJA3RBDTnqG.htm)|Spell Effect: Inspire Heroics (Courage, +2)|
+|[01-VFereWC1agrwgzPL.htm](spell-effects/01-VFereWC1agrwgzPL.htm)|Spell Effect: Inspire Heroics (Courage, +3)|
+|[02-BT1ofB6RvRocQOWO.htm](spell-effects/02-BT1ofB6RvRocQOWO.htm)|Spell Effect: Animal Form (Bull)|
+|[02-F4DTpDXNu5IliyhJ.htm](spell-effects/02-F4DTpDXNu5IliyhJ.htm)|Spell Effect: Animal Form (Deer)|
+|[02-gQnDKDeBTtjwOWAk.htm](spell-effects/02-gQnDKDeBTtjwOWAk.htm)|Spell Effect: Animal Form (Bear)|
+|[02-j2LhQ7kEQhq3J3zZ.htm](spell-effects/02-j2LhQ7kEQhq3J3zZ.htm)|Spell Effect: Animal Form (Frog)|
+|[02-kz3mlFwb9tV9bFwu.htm](spell-effects/02-kz3mlFwb9tV9bFwu.htm)|Spell Effect: Animal Form (Snake)|
 |[02-LXf1Cqi1zyo4DaLv.htm](spell-effects/02-LXf1Cqi1zyo4DaLv.htm)|Spell Effect: Shrink|
+|[02-ptOqsN5FS0nQh7RW.htm](spell-effects/02-ptOqsN5FS0nQh7RW.htm)|Spell Effect: Animal Form (Cat)|
+|[02-qPaEEhczUWCQo6ux.htm](spell-effects/02-qPaEEhczUWCQo6ux.htm)|Spell Effect: Animal Form (Shark)|
+|[02-sN3mQ7YrPBogEJRn.htm](spell-effects/02-sN3mQ7YrPBogEJRn.htm)|Spell Effect: Animal Form (Canine)|
 |[02-sPCWrhUHqlbGhYSD.htm](spell-effects/02-sPCWrhUHqlbGhYSD.htm)|Spell Effect: Enlarge|
+|[02-tk3go5Cl6Qt130Dk.htm](spell-effects/02-tk3go5Cl6Qt130Dk.htm)|Spell Effect: Animal Form (Ape)|
 |[03-l9HRQggofFGIxEse.htm](spell-effects/03-l9HRQggofFGIxEse.htm)|Spell Effect: Heroism|
 |[04-41WThj17MZBXTO2X.htm](spell-effects/04-41WThj17MZBXTO2X.htm)|Spell Effect: Enlarge (Heightened 4th)|
 
