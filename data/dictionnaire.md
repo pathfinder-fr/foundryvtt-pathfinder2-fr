@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-02-21 15:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-25 23:21 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -48,11 +48,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Call Upon the Brightness](actions/mk6rzaAzsBBRGJnh.htm)|Faire appel à la lumière|`@Compendium[pf2e.actionspf2e.mk6rzaAzsBBRGJnh]`|
 |[Call on Ancient Blood](actions/8w6esW689NNbbq3i.htm)|Appel du sang ancien|`@Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]`|
 |[Cast a Spell](actions/aBQ8ajvEBByv45yz.htm)|Lancer un sort|`@Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]`|
+|[Change Shape (Beastkin)](actions/0b3TTeQGFOiy6ykz.htm)||`@Compendium[pf2e.actionspf2e.0b3TTeQGFOiy6ykz]`|
+|[Change Shape (Kitsune)](actions/wwvPiG2kET2rkSAG.htm)||`@Compendium[pf2e.actionspf2e.wwvPiG2kET2rkSAG]`|
 |[Climb](actions/pprgrYQ1QnIDGZiy.htm)|Escalader|`@Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]`|
 |[Clue In](actions/25WDi1cVUrW92sUj.htm)|Partager les indices|`@Compendium[pf2e.actionspf2e.25WDi1cVUrW92sUj]`|
 |[Coerce](actions/tHCqgwjtQtzNqVvd.htm)|Contraindre|`@Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]`|
 |[Command an Animal](actions/q9nbyIF0PEBqMtYe.htm)|Diriger un animal|`@Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]`|
 |[Conceal an Object](actions/qVNVSmsgpKFGk9hV.htm)|Dissimuler un objet|`@Compendium[pf2e.actionspf2e.qVNVSmsgpKFGk9hV]`|
+|[Conduct Energy](actions/BKnN9la3WNrRgZ6n.htm)||`@Compendium[pf2e.actionspf2e.BKnN9la3WNrRgZ6n]`|
 |[Confident Finisher](actions/K878asDgf1EF0B9S.htm)|Coup final assuré|`@Compendium[pf2e.actionspf2e.K878asDgf1EF0B9S]`|
 |[Cover Tracks](actions/SB7cMECVtE06kByk.htm)|Dissimuler des traces|`@Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]`|
 |[Craft](actions/rmwa3OyhTZ2i2AHl.htm)|Fabriquer|`@Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]`|
@@ -103,6 +106,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Interact](actions/pvQ5rY2zrtPI614F.htm)|Interagir|`@Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]`|
 |[Invest an Item](actions/lvqPQDdWT2DDO0k2.htm)|Investir un objet|`@Compendium[pf2e.actionspf2e.lvqPQDdWT2DDO0k2]`|
 |[Investigate](actions/EwgTZBWsc8qKaViP.htm)|Enquêter|`@Compendium[pf2e.actionspf2e.EwgTZBWsc8qKaViP]`|
+|[Invigorating Fear](actions/Ul4I0ER6pj3U5eAk.htm)||`@Compendium[pf2e.actionspf2e.Ul4I0ER6pj3U5eAk]`|
+|[Invoke Celestial Privilege](actions/Aq2mXT2hLlstFL5C.htm)||`@Compendium[pf2e.actionspf2e.Aq2mXT2hLlstFL5C]`|
 |[Iron Command](actions/M8RCbthRhB4bxO9t.htm)|Ordre de fer|`@Compendium[pf2e.actionspf2e.M8RCbthRhB4bxO9t]`|
 |[Jinx](actions/hFRHPBj6wjAayNtW.htm)|Maudire|`@Compendium[pf2e.actionspf2e.hFRHPBj6wjAayNtW]`|
 |[Leap](actions/d5I6018Mci2SWokk.htm)|Bondir|`@Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]`|
@@ -117,6 +122,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Master Strike](actions/Rlp7ND33yYfxiEWi.htm)|Frappe de maître|`@Compendium[pf2e.actionspf2e.Rlp7ND33yYfxiEWi]`|
 |[Mesmerizing Performance](actions/CrUPaPlsxy2bswaT.htm)|Performance hypnotisante|`@Compendium[pf2e.actionspf2e.CrUPaPlsxy2bswaT]`|
 |[Mighty Rage](actions/74iat04PtfG8gn2Q.htm)|Rage formidable|`@Compendium[pf2e.actionspf2e.74iat04PtfG8gn2Q]`|
+|[Mist Blending](actions/I9k9qe4gOT8UVK4e.htm)||`@Compendium[pf2e.actionspf2e.I9k9qe4gOT8UVK4e]`|
 |[Mount](actions/PM5jvValFkbFH3TV.htm)|Se mettre en selle|`@Compendium[pf2e.actionspf2e.PM5jvValFkbFH3TV]`|
 |[Mutagenic Flashback](actions/00LNVSCbwJ8pszwE.htm)|Flashback du mutagène|`@Compendium[pf2e.actionspf2e.00LNVSCbwJ8pszwE]`|
 |[Opportune Riposte](actions/EfjoIuDmtUn4yiow.htm)|Riposte opportune|`@Compendium[pf2e.actionspf2e.EfjoIuDmtUn4yiow]`|
@@ -149,6 +155,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Resist Elf Magic](actions/On5CQjX4euWqToly.htm)|Résister à la magie elfique|`@Compendium[pf2e.actionspf2e.On5CQjX4euWqToly]`|
 |[Retraining](actions/24PSsn1SKpUwYA1X.htm)|Réapprentissage|`@Compendium[pf2e.actionspf2e.24PSsn1SKpUwYA1X]`|
 |[Retributive Strike](actions/EAP98XaChJEbgKcK.htm)|Frappe punitive|`@Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]`|
+|[Salt Wound](actions/b6CanpXyUKJgxEwq.htm)||`@Compendium[pf2e.actionspf2e.b6CanpXyUKJgxEwq]`|
 |[Scout](actions/kV3XM0YJeS2KCSOb.htm)|Reconnaître|`@Compendium[pf2e.actionspf2e.kV3XM0YJeS2KCSOb]`|
 |[Search](actions/TiNDYUGlMmxzxBYU.htm)|Fouiller|`@Compendium[pf2e.actionspf2e.TiNDYUGlMmxzxBYU]`|
 |[Seek](actions/BlAOM2X92SI6HMtJ.htm)|Chercher|`@Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]`|
@@ -156,6 +163,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sense Direction](actions/fJImDBQfqfjKJOhk.htm)|S'orienter|`@Compendium[pf2e.actionspf2e.fJImDBQfqfjKJOhk]`|
 |[Sense Motive](actions/1xRFPTFtWtGJ9ELw.htm)|Deviner les intentions|`@Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]`|
 |[Shove](actions/7blmbDrQFNfdT731.htm)|Pousser|`@Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]`|
+|[Smoke Blending](actions/pTHMZLqWDJ3lkan9.htm)||`@Compendium[pf2e.actionspf2e.pTHMZLqWDJ3lkan9]`|
 |[Sneak](actions/VMozDqMMuK5kpoX4.htm)|Être furtif|`@Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]`|
 |[Soaring Flight](actions/mVscmsZWWcVACdU5.htm)|Voler haut|`@Compendium[pf2e.actionspf2e.mVscmsZWWcVACdU5]`|
 |[Squeeze](actions/kMcV8e5EZUxa6evt.htm)|Se faufiler|`@Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]`|
@@ -354,22 +362,28 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
+|[Android](ancestries/GfLwE884NoRC7cRi.htm)||`@Compendium[pf2e.ancestries.GfLwE884NoRC7cRi]`|
 |[Catfolk](ancestries/972EkpJOPv9KkQIW.htm)|Homme-félin (félide)|`@Compendium[pf2e.ancestries.972EkpJOPv9KkQIW]`|
 |[Dwarf](ancestries/BYj5ZvlXZdpaEgA6.htm)|Nain|`@Compendium[pf2e.ancestries.BYj5ZvlXZdpaEgA6]`|
 |[Elf](ancestries/PgKmsA2aKdbLU6O0.htm)|Elfe|`@Compendium[pf2e.ancestries.PgKmsA2aKdbLU6O0]`|
+|[Fetchling](ancestries/hIA3qiUsxvLZXrFP.htm)||`@Compendium[pf2e.ancestries.hIA3qiUsxvLZXrFP]`|
+|[Fleshwarp](ancestries/FXlXmNBFiiz9oasi.htm)||`@Compendium[pf2e.ancestries.FXlXmNBFiiz9oasi]`|
 |[Gnome](ancestries/CYlfsYLJcBOgqKtD.htm)|Gnome|`@Compendium[pf2e.ancestries.CYlfsYLJcBOgqKtD]`|
 |[Goblin](ancestries/sQfjTMDaZbT9DThq.htm)|Gobelin|`@Compendium[pf2e.ancestries.sQfjTMDaZbT9DThq]`|
 |[Halfling](ancestries/GgZAHbrjnzWOZy2v.htm)|Halfelin|`@Compendium[pf2e.ancestries.GgZAHbrjnzWOZy2v]`|
 |[Hobgoblin](ancestries/piNLXUrm9iaGqD2i.htm)|Hobgobelin|`@Compendium[pf2e.ancestries.piNLXUrm9iaGqD2i]`|
 |[Human](ancestries/IiG7DgeLWYrSNXuX.htm)|Humain|`@Compendium[pf2e.ancestries.IiG7DgeLWYrSNXuX]`|
+|[Kitsune](ancestries/4BL5wf1VF9feC2rY.htm)||`@Compendium[pf2e.ancestries.4BL5wf1VF9feC2rY]`|
 |[Kobold](ancestries/7oQxL6wgsokD3QXG.htm)|Kobold|`@Compendium[pf2e.ancestries.7oQxL6wgsokD3QXG]`|
 |[Leshy](ancestries/cdhgByGG1WtuaK73.htm)|Léchi|`@Compendium[pf2e.ancestries.cdhgByGG1WtuaK73]`|
 |[Lizardfolk](ancestries/HWEgF7Gmoq55VhTL.htm)|Hommes-lézard|`@Compendium[pf2e.ancestries.HWEgF7Gmoq55VhTL]`|
 |[Orc](ancestries/lSGWXjcbOa6O5fTx.htm)|Orc|`@Compendium[pf2e.ancestries.lSGWXjcbOa6O5fTx]`|
 |[Ratfolk](ancestries/P6PcVnCkh4XMdefw.htm)|Homme-rat|`@Compendium[pf2e.ancestries.P6PcVnCkh4XMdefw]`|
 |[Shoony](ancestries/q6rsqYARyOGXZA8F.htm)|Shoony|`@Compendium[pf2e.ancestries.q6rsqYARyOGXZA8F]`|
+|[Sprite](ancestries/TRqoeYfGAFjQbviF.htm)||`@Compendium[pf2e.ancestries.TRqoeYfGAFjQbviF]`|
+|[Strix](ancestries/GXcC6oVa5quzgNHD.htm)||`@Compendium[pf2e.ancestries.GXcC6oVa5quzgNHD]`|
 |[Tengu](ancestries/18xDKYPDBLEv2myX.htm)|Tengu|`@Compendium[pf2e.ancestries.18xDKYPDBLEv2myX]`|
-|[_Empty Ancestry](ancestries/mDtlRBBUWqUzYSHs.htm)||`@Compendium[pf2e.ancestries.mDtlRBBUWqUzYSHs]`|
+|[_Empty Ancestry](ancestries/mDtlRBBUWqUzYSHs.htm)|_Ascendance vierge|`@Compendium[pf2e.ancestries.mDtlRBBUWqUzYSHs]`|
 
 
 ## Ascendances (aptitudes)
@@ -380,100 +394,168 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ancient Elf](ancestryfeatures/feat-01-Nd9hdX8rdYyRozw8.htm)|Elfe ancien|`@Compendium[pf2e.ancestryfeatures.Nd9hdX8rdYyRozw8]`|
 |[Ancient-Blooded Dwarf](ancestryfeatures/feat-01-yL6944LrPo2HNdEJ.htm)|Nain sang-ancien|`@Compendium[pf2e.ancestryfeatures.yL6944LrPo2HNdEJ]`|
 |[Anvil Dwarf](ancestryfeatures/feat-01-kRDsVbhdBVeSlpBa.htm)|Nain de la forge|`@Compendium[pf2e.ancestryfeatures.kRDsVbhdBVeSlpBa]`|
+|[Aphorite](ancestryfeatures/feat-01-lj5iHaiY0IwCCptd.htm)||`@Compendium[pf2e.ancestryfeatures.lj5iHaiY0IwCCptd]`|
 |[Aquatic Adaptation](ancestryfeatures/feat-01-AzGJN1wwLFaLJIeo.htm)|Adaptation aquatique|`@Compendium[pf2e.ancestryfeatures.AzGJN1wwLFaLJIeo]`|
 |[Arctic Elf](ancestryfeatures/feat-01-1dYDucCIaZpCJqBc.htm)|Elfe arctique|`@Compendium[pf2e.ancestryfeatures.1dYDucCIaZpCJqBc]`|
+|[Artisan Android](ancestryfeatures/feat-01-VgL18yU7pysdoZZG.htm)||`@Compendium[pf2e.ancestryfeatures.VgL18yU7pysdoZZG]`|
 |[Badlands Orc](ancestryfeatures/feat-01-8Gsa8KFsHizEwSHU.htm)|Orc des badlands|`@Compendium[pf2e.ancestryfeatures.8Gsa8KFsHizEwSHU]`|
+|[Battle-Ready Orc](ancestryfeatures/feat-01-nXQxlmjH24Eb8h2Q.htm)||`@Compendium[pf2e.ancestryfeatures.nXQxlmjH24Eb8h2Q]`|
+|[Beastkin](ancestryfeatures/feat-01-GAn2cdhBE9Bqa85s.htm)||`@Compendium[pf2e.ancestryfeatures.GAn2cdhBE9Bqa85s]`|
 |[Bloodhound Shoony](ancestryfeatures/feat-01-z4cvqtpkkAYoFpHa.htm)|Shoony limier|`@Compendium[pf2e.ancestryfeatures.z4cvqtpkkAYoFpHa]`|
 |[Blunt Snout](ancestryfeatures/feat-01-dtNsRAhCRfteA1ev.htm)|Museau court|`@Compendium[pf2e.ancestryfeatures.dtNsRAhCRfteA1ev]`|
+|[Bright Fetchling](ancestryfeatures/feat-01-wHO5luJMODbDLXNi.htm)||`@Compendium[pf2e.ancestryfeatures.wHO5luJMODbDLXNi]`|
+|[Cactus Leshy](ancestryfeatures/feat-01-2cii5ZkBsJ4DYdd2.htm)||`@Compendium[pf2e.ancestryfeatures.2cii5ZkBsJ4DYdd2]`|
+|[Caveclimber Kobold](ancestryfeatures/feat-01-5A1wMPdzN1OWE4cY.htm)||`@Compendium[pf2e.ancestryfeatures.5A1wMPdzN1OWE4cY]`|
 |[Cavern Elf](ancestryfeatures/feat-01-NfIAGatB1KIzt8G7.htm)|Elfe des cavernes|`@Compendium[pf2e.ancestryfeatures.NfIAGatB1KIzt8G7]`|
 |[Cavern Kobold](ancestryfeatures/feat-01-35k2aujXYvqUCSS1.htm)|Kobold cavernicole|`@Compendium[pf2e.ancestryfeatures.35k2aujXYvqUCSS1]`|
+|[Celestial Envoy Kitsune](ancestryfeatures/feat-IFg2tqmAFFnU8UNU.htm)||`@Compendium[pf2e.ancestryfeatures.IFg2tqmAFFnU8UNU]`|
 |[Chameleon Gnome](ancestryfeatures/feat-01-XeXWsvcWU3Zaj5WC.htm)|Gnome Caméléon|`@Compendium[pf2e.ancestryfeatures.XeXWsvcWU3Zaj5WC]`|
+|[Change Shape](ancestryfeatures/feat-01-Ymg6WqeJqOyLJLEr.htm)||`@Compendium[pf2e.ancestryfeatures.Ymg6WqeJqOyLJLEr]`|
 |[Changeling](ancestryfeatures/feat-01-EKY9v7SF1hVsUdbH.htm)|Changelin|`@Compendium[pf2e.ancestryfeatures.EKY9v7SF1hVsUdbH]`|
 |[Charhide Goblin](ancestryfeatures/feat-01-32oX6hHUY6K8N70Q.htm)|Gobelin peaud'charbon|`@Compendium[pf2e.ancestryfeatures.32oX6hHUY6K8N70Q]`|
 |[Clawed Catfolk](ancestryfeatures/feat-01-bLhIBwqdjTiVJ5qm.htm)|Homme-félin griffu|`@Compendium[pf2e.ancestryfeatures.bLhIBwqdjTiVJ5qm]`|
 |[Claws](ancestryfeatures/feat-01-NfkxFWUeG6g41e8w.htm)|Griffes|`@Compendium[pf2e.ancestryfeatures.NfkxFWUeG6g41e8w]`|
 |[Cliffscale Lizardfolk](ancestryfeatures/feat-01-OoUqJJB77VfWbWRM.htm)|Homme-lézard écaille de falaise|`@Compendium[pf2e.ancestryfeatures.OoUqJJB77VfWbWRM]`|
+|[Cloudleaper Lizardfolk](ancestryfeatures/feat-01-sEnMG5zbnXdJvVPz.htm)||`@Compendium[pf2e.ancestryfeatures.sEnMG5zbnXdJvVPz]`|
+|[Constructed](ancestryfeatures/feat-01-mnhmhOKWLiOD0lev.htm)||`@Compendium[pf2e.ancestryfeatures.mnhmhOKWLiOD0lev]`|
+|[Created Fleshwarp](ancestryfeatures/feat-01-iY2CCqoMc2bRdoas.htm)||`@Compendium[pf2e.ancestryfeatures.iY2CCqoMc2bRdoas]`|
+|[Dark Fields Kitsune](ancestryfeatures/feat-01-NWbdAN5gDse0ad7C.htm)||`@Compendium[pf2e.ancestryfeatures.NWbdAN5gDse0ad7C]`|
 |[Darkvision](ancestryfeatures/feat-01-HHVQDp61ehcpdiU8.htm)|Vision dans le noir|`@Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]`|
 |[Death Warden Dwarf](ancestryfeatures/feat-01-VTtXwBxrfRUXSL38.htm)|Nain gardemort|`@Compendium[pf2e.ancestryfeatures.VTtXwBxrfRUXSL38]`|
+|[Deep Fetchling](ancestryfeatures/feat-01-UpeOPKB9b8PX6Fi2.htm)||`@Compendium[pf2e.ancestryfeatures.UpeOPKB9b8PX6Fi2]`|
 |[Deep Orc](ancestryfeatures/feat-01-wn4EbYk1QN3tyFhh.htm)|Orque des profondeurs|`@Compendium[pf2e.ancestryfeatures.wn4EbYk1QN3tyFhh]`|
 |[Deep Rat](ancestryfeatures/feat-01-7p9HtLzWBHc18JDW.htm)|Rat des profondeurs|`@Compendium[pf2e.ancestryfeatures.7p9HtLzWBHc18JDW]`|
 |[Desert Elf](ancestryfeatures/feat-01-kiKxnKd7Dfegk9dM.htm)|Elfe du désert|`@Compendium[pf2e.ancestryfeatures.kiKxnKd7Dfegk9dM]`|
 |[Desert Rat](ancestryfeatures/feat-01-twayjFuXbsvyHUwy.htm)|Rat des sables|`@Compendium[pf2e.ancestryfeatures.twayjFuXbsvyHUwy]`|
 |[Dhampir](ancestryfeatures/feat-01-UaD5VDoFlILEmbyz.htm)|Dhampir|`@Compendium[pf2e.ancestryfeatures.UaD5VDoFlILEmbyz]`|
+|[Dogtooth Tengu](ancestryfeatures/feat-01-2hLDilS6qbjHxgVS.htm)||`@Compendium[pf2e.ancestryfeatures.2hLDilS6qbjHxgVS]`|
 |[Draconic Exemplar](ancestryfeatures/feat-01-egpiSWBrNBb1Fmig.htm)|Modèle draconique|`@Compendium[pf2e.ancestryfeatures.egpiSWBrNBb1Fmig]`|
 |[Dragonscaled Kobold](ancestryfeatures/feat-01-nF5NUinK23fOLn5u.htm)|Kobold à écaille de dragon|`@Compendium[pf2e.ancestryfeatures.nF5NUinK23fOLn5u]`|
+|[Draxie](ancestryfeatures/feat-01-zcO93E8gAW1tDYKk.htm)||`@Compendium[pf2e.ancestryfeatures.zcO93E8gAW1tDYKk]`|
 |[Duskwalker](ancestryfeatures/feat-01-ZZKZkeSP5TuT62IA.htm)|Crépusculaire|`@Compendium[pf2e.ancestryfeatures.ZZKZkeSP5TuT62IA]`|
+|[Earthly Wilds Kitsune](ancestryfeatures/feat-01-Wk4HyaZtC1j221i1.htm)||`@Compendium[pf2e.ancestryfeatures.Wk4HyaZtC1j221i1]`|
 |[Elemental Heart Dwarf](ancestryfeatures/feat-01-MeMAAtUlZmFgKSMF.htm)|Nain Cœurélémentaire|`@Compendium[pf2e.ancestryfeatures.MeMAAtUlZmFgKSMF]`|
 |[Elfbane Hobgoblin](ancestryfeatures/feat-01-ikNJZRxUjcRLisO6.htm)|Hobgobelin fléau elfique|`@Compendium[pf2e.ancestryfeatures.ikNJZRxUjcRLisO6]`|
+|[Emotionally Unaware](ancestryfeatures/feat-01-uSAYmU7PO2QoOWhB.htm)||`@Compendium[pf2e.ancestryfeatures.uSAYmU7PO2QoOWhB]`|
 |[Fey-Touched Gnome](ancestryfeatures/feat-01-D3hTAqgwSank8OyO.htm)|Gnome béni des fées|`@Compendium[pf2e.ancestryfeatures.D3hTAqgwSank8OyO]`|
 |[Fishseeker Shoony](ancestryfeatures/feat-01-isJhIPhT4MsjJvoq.htm)|Shoony Traquepoisson|`@Compendium[pf2e.ancestryfeatures.isJhIPhT4MsjJvoq]`|
+|[Flexible Catfolk](ancestryfeatures/feat-01-TDc9MXLXkgEFoKdD.htm)||`@Compendium[pf2e.ancestryfeatures.TDc9MXLXkgEFoKdD]`|
 |[Forge Dwarf](ancestryfeatures/feat-01-5CqsBKCZuGON53Hk.htm)|Nain des forges|`@Compendium[pf2e.ancestryfeatures.5CqsBKCZuGON53Hk]`|
 |[Frilled Lizardfolk](ancestryfeatures/feat-01-6rIIsZg3tOyIU3g3.htm)|Homme-lézard à colerette|`@Compendium[pf2e.ancestryfeatures.6rIIsZg3tOyIU3g3]`|
+|[Frozen Wind Kitsune](ancestryfeatures/feat-01-kHT9dFJt5yTjeYoB.htm)||`@Compendium[pf2e.ancestryfeatures.kHT9dFJt5yTjeYoB]`|
+|[Fruit Leshy](ancestryfeatures/feat-01-L6zfGzLMDLHbZ7VV.htm)||`@Compendium[pf2e.ancestryfeatures.L6zfGzLMDLHbZ7VV]`|
 |[Fungus Leshy](ancestryfeatures/feat-01-87h0jepQuzIbN7jN.htm)|Léchi fongique|`@Compendium[pf2e.ancestryfeatures.87h0jepQuzIbN7jN]`|
+|[Ganzi](ancestryfeatures/feat-01-3reGfXH0S82hM7Gp.htm)||`@Compendium[pf2e.ancestryfeatures.3reGfXH0S82hM7Gp]`|
 |[Gourd Leshy](ancestryfeatures/feat-01-wNnsjird4OQe0s6p.htm)|Léchi calebasse|`@Compendium[pf2e.ancestryfeatures.wNnsjird4OQe0s6p]`|
+|[Grave Orc](ancestryfeatures/feat-01-VvEAFoxuddYNBmNc.htm)||`@Compendium[pf2e.ancestryfeatures.VvEAFoxuddYNBmNc]`|
 |[Greater Darkvision](ancestryfeatures/feat-01-vPhPgzpRjYDMT9Kq.htm)||`@Compendium[pf2e.ancestryfeatures.vPhPgzpRjYDMT9Kq]`|
+|[Grig](ancestryfeatures/feat-01-gfXSF1TafBAmZo2u.htm)||`@Compendium[pf2e.ancestryfeatures.gfXSF1TafBAmZo2u]`|
 |[Gutsy Halfling](ancestryfeatures/feat-01-Eq42wZ5OTweJLnLU.htm)|Halfelin flegmatique|`@Compendium[pf2e.ancestryfeatures.Eq42wZ5OTweJLnLU]`|
 |[Half-Elf](ancestryfeatures/feat-01-N36ZR4lh9eCazDaN.htm)|Demi-elfe|`@Compendium[pf2e.ancestryfeatures.N36ZR4lh9eCazDaN]`|
 |[Half-Orc](ancestryfeatures/feat-01-tLd8Qg82AwEbbmgX.htm)|Demi-orc|`@Compendium[pf2e.ancestryfeatures.tLd8Qg82AwEbbmgX]`|
 |[Hillock Halfling](ancestryfeatures/feat-01-Mj7uHxxVkRUlOFwJ.htm)|Halfelin des collines|`@Compendium[pf2e.ancestryfeatures.Mj7uHxxVkRUlOFwJ]`|
 |[Hold-Scarred Orc](ancestryfeatures/feat-01-MTTU2t7x6TjvUDnE.htm)|Orque scarifié|`@Compendium[pf2e.ancestryfeatures.MTTU2t7x6TjvUDnE]`|
 |[Hunting Catfolk](ancestryfeatures/feat-01-1lv7RMp7t5iqeUFT.htm)|Homme-félin chasseur|`@Compendium[pf2e.ancestryfeatures.1lv7RMp7t5iqeUFT]`|
+|[Ifrit](ancestryfeatures/feat-01-Svk2CHwvurK1QQhD.htm)||`@Compendium[pf2e.ancestryfeatures.Svk2CHwvurK1QQhD]`|
+|[Impersonator Android](ancestryfeatures/feat-01-Mmezbef0c1fbJaVV.htm)||`@Compendium[pf2e.ancestryfeatures.Mmezbef0c1fbJaVV]`|
+|[Inured Azarketi](ancestryfeatures/feat-01-7ZDCShtRg5QZggrU.htm)||`@Compendium[pf2e.ancestryfeatures.7ZDCShtRg5QZggrU]`|
 |[Irongut Goblin](ancestryfeatures/feat-01-gyoN45SVfRZwHMkk.htm)|Gobelin Boyaud’fer|`@Compendium[pf2e.ancestryfeatures.gyoN45SVfRZwHMkk]`|
 |[Jinxed Halfling](ancestryfeatures/feat-01-G9Gwfi8ZIva52uGp.htm)|Halfelin maudit|`@Compendium[pf2e.ancestryfeatures.G9Gwfi8ZIva52uGp]`|
 |[Jinxed Tengu](ancestryfeatures/feat-01-g4FRxyuHndZu4KTo.htm)|Tengu maudit|`@Compendium[pf2e.ancestryfeatures.g4FRxyuHndZu4KTo]`|
 |[Jungle Catfolk](ancestryfeatures/feat-01-HpqQ5VQ0w4HqYgVC.htm)|Homme-félin de la jungle|`@Compendium[pf2e.ancestryfeatures.HpqQ5VQ0w4HqYgVC]`|
 |[Keen Eyes](ancestryfeatures/feat-00-y1EmCv2cEb5hXBwx.htm)|Yeux perçants|`@Compendium[pf2e.ancestryfeatures.y1EmCv2cEb5hXBwx]`|
+|[Laborer Android](ancestryfeatures/feat-01-MQx7miBXUmOHycqJ.htm)||`@Compendium[pf2e.ancestryfeatures.MQx7miBXUmOHycqJ]`|
 |[Land on Your Feet](ancestryfeatures/feat-01-sL1hHxrHdMNIZVAd.htm)|Sur vos pattes|`@Compendium[pf2e.ancestryfeatures.sL1hHxrHdMNIZVAd]`|
 |[Leaf Leshy](ancestryfeatures/feat-01-dQqurQys37aJYb26.htm)|Léchi feuillu|`@Compendium[pf2e.ancestryfeatures.dQqurQys37aJYb26]`|
+|[Liminal Catfolk](ancestryfeatures/feat-01-3F5ffk7cmnrBhPcT.htm)||`@Compendium[pf2e.ancestryfeatures.3F5ffk7cmnrBhPcT]`|
+|[Liminal Fetchling](ancestryfeatures/feat-01-PwxbD5VSJ0Yroqvp.htm)||`@Compendium[pf2e.ancestryfeatures.PwxbD5VSJ0Yroqvp]`|
 |[Longsnout Rat](ancestryfeatures/feat-01-fROPRHGyUn4PgcER.htm)|Rat à long museau|`@Compendium[pf2e.ancestryfeatures.fROPRHGyUn4PgcER]`|
+|[Lotus Leshy](ancestryfeatures/feat-01-ievKYUc53q0mroGp.htm)||`@Compendium[pf2e.ancestryfeatures.ievKYUc53q0mroGp]`|
 |[Low-Light Vision](ancestryfeatures/feat-01-DRtaqOHXTRtGRIUT.htm)|Vision nocturne|`@Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]`|
+|[Luminous Sprite](ancestryfeatures/feat-01-LU4i3qXtyzeTGWZQ.htm)||`@Compendium[pf2e.ancestryfeatures.LU4i3qXtyzeTGWZQ]`|
+|[Magical Strikes](ancestryfeatures/feat-01-TRw4oBZBFZG96jKO.htm)||`@Compendium[pf2e.ancestryfeatures.TRw4oBZBFZG96jKO]`|
+|[Melixie](ancestryfeatures/feat-01-TYvzNoL5ldmB5F76.htm)||`@Compendium[pf2e.ancestryfeatures.TYvzNoL5ldmB5F76]`|
 |[Mountainkeeper Tengu](ancestryfeatures/feat-01-ptpK6H1rM4Bu3ry4.htm)|Tengu gardemontagne|`@Compendium[pf2e.ancestryfeatures.ptpK6H1rM4Bu3ry4]`|
+|[Murkeyed Azarketi](ancestryfeatures/feat-01-MtH5bq0MhaMQbJEL.htm)||`@Compendium[pf2e.ancestryfeatures.MtH5bq0MhaMQbJEL]`|
+|[Mutated Flashwarp](ancestryfeatures/feat-01-CCwTBSNTw0caN1jd.htm)||`@Compendium[pf2e.ancestryfeatures.CCwTBSNTw0caN1jd]`|
+|[Nightglider Strix](ancestryfeatures/feat-01-9mS8EGLlGUOzSAzP.htm)||`@Compendium[pf2e.ancestryfeatures.9mS8EGLlGUOzSAzP]`|
 |[Nine Lives Catfolk](ancestryfeatures/feat-01-hOPOyyt7qZXYYCOU.htm)|Homme-félin aux neuf vies|`@Compendium[pf2e.ancestryfeatures.hOPOyyt7qZXYYCOU]`|
 |[Nomadic Halfling](ancestryfeatures/feat-01-idGDjqi1q3Ft8bAZ.htm)|Halfelin nomade|`@Compendium[pf2e.ancestryfeatures.idGDjqi1q3Ft8bAZ]`|
+|[Nyktera](ancestryfeatures/feat-01-h2VKMYAlUIFAAXVG.htm)||`@Compendium[pf2e.ancestryfeatures.h2VKMYAlUIFAAXVG]`|
 |[Oathkeeper Dwarf](ancestryfeatures/feat-01-85tRKGZUTFa6pKpG.htm)|Nain gardeserment|`@Compendium[pf2e.ancestryfeatures.85tRKGZUTFa6pKpG]`|
 |[Observant Halfling](ancestryfeatures/feat-01-Lp7ywxabmm88Gei6.htm)|Halfelin observateur|`@Compendium[pf2e.ancestryfeatures.Lp7ywxabmm88Gei6]`|
+|[Oread](ancestryfeatures/feat-01-ITgkqfnAOJCbcIys.htm)||`@Compendium[pf2e.ancestryfeatures.ITgkqfnAOJCbcIys]`|
 |[Paddler Shoony](ancestryfeatures/feat-01-mnhpCk9dIwMuFegM.htm)|Shoony Pagayeur|`@Compendium[pf2e.ancestryfeatures.mnhpCk9dIwMuFegM]`|
+|[Pixie](ancestryfeatures/feat-01-KbG2BZ3Sbr3xU1sW.htm)||`@Compendium[pf2e.ancestryfeatures.KbG2BZ3Sbr3xU1sW]`|
 |[Plant Nourishment](ancestryfeatures/feat-01-Sm3tKetM6kddTio3.htm)|Alimentation des plantes|`@Compendium[pf2e.ancestryfeatures.Sm3tKetM6kddTio3]`|
+|[Polyglot Android](ancestryfeatures/feat-01-BjuZKA7lzFSjKbif.htm)||`@Compendium[pf2e.ancestryfeatures.BjuZKA7lzFSjKbif]`|
+|[Predator Strix](ancestryfeatures/feat-01-MUujYQYWg6PNVaaN.htm)||`@Compendium[pf2e.ancestryfeatures.MUujYQYWg6PNVaaN]`|
 |[Rainfall Orc](ancestryfeatures/feat-01-dwKCwwtWetvPmJks.htm)|Orque des moussons|`@Compendium[pf2e.ancestryfeatures.dwKCwwtWetvPmJks]`|
 |[Razortooth Goblin](ancestryfeatures/feat-01-a6F2WjYU8D0suT8T.htm)|Gobelin Dent’rasoir|`@Compendium[pf2e.ancestryfeatures.a6F2WjYU8D0suT8T]`|
+|[Resolute Fetchling](ancestryfeatures/feat-01-VAo6NnrCEAAOUSkc.htm)||`@Compendium[pf2e.ancestryfeatures.VAo6NnrCEAAOUSkc]`|
 |[Rock Dwarf](ancestryfeatures/feat-01-VSyOvtgJ1ZNpIVgC.htm)|Nain des roches|`@Compendium[pf2e.ancestryfeatures.VSyOvtgJ1ZNpIVgC]`|
+|[Root Leshy](ancestryfeatures/feat-01-CZx9HMmoOwcpkLY8.htm)||`@Compendium[pf2e.ancestryfeatures.CZx9HMmoOwcpkLY8]`|
 |[Runtboss Hobgoblin](ancestryfeatures/feat-01-CzOHITB2ihLGqMuJ.htm)|Hobgobelin commandant avorton|`@Compendium[pf2e.ancestryfeatures.CzOHITB2ihLGqMuJ]`|
 |[Sandstrider Lizardfolk](ancestryfeatures/feat-01-6xxXtgj3fcCi53lt.htm)|Homme-lézard arpenteur des sables|`@Compendium[pf2e.ancestryfeatures.6xxXtgj3fcCi53lt]`|
+|[Scavenger Strix](ancestryfeatures/feat-01-j0R1SyJP8k4G2Hkn.htm)||`@Compendium[pf2e.ancestryfeatures.j0R1SyJP8k4G2Hkn]`|
+|[Seaweed Leshy](ancestryfeatures/feat-01-hTl3uc6y1kTuo9ac.htm)||`@Compendium[pf2e.ancestryfeatures.hTl3uc6y1kTuo9ac]`|
 |[Seer Elf](ancestryfeatures/feat-01-jEtVesbqYcWGbBYk.htm)|Elfe visionnaire|`@Compendium[pf2e.ancestryfeatures.jEtVesbqYcWGbBYk]`|
 |[Sensate Gnome](ancestryfeatures/feat-01-tXC5Gwn9D5x0ouJh.htm)|Gnome sensitif|`@Compendium[pf2e.ancestryfeatures.tXC5Gwn9D5x0ouJh]`|
 |[Sewer Rat](ancestryfeatures/feat-01-eFsD7W6hnK33jlDQ.htm)|Rat d'égoûts|`@Compendium[pf2e.ancestryfeatures.eFsD7W6hnK33jlDQ]`|
 |[Shadow Rat](ancestryfeatures/feat-01-tarfuEXmi0E0Enfy.htm)|Rat de l'ombre|`@Compendium[pf2e.ancestryfeatures.tarfuEXmi0E0Enfy]`|
+|[Shapewrought Fleshwarp](ancestryfeatures/feat-01-uxtcKTkD62SmrUoh.htm)||`@Compendium[pf2e.ancestryfeatures.uxtcKTkD62SmrUoh]`|
 |[Sharp Beak](ancestryfeatures/feat-00-qJD3PJdoSXFrZEwr.htm)|Bec aiguisé|`@Compendium[pf2e.ancestryfeatures.qJD3PJdoSXFrZEwr]`|
+|[Sharp-Eared Catfolk](ancestryfeatures/feat-01-NWsZ0cIeghyzk9bU.htm)||`@Compendium[pf2e.ancestryfeatures.NWsZ0cIeghyzk9bU]`|
+|[Shoreline Strix](ancestryfeatures/feat-01-RxNBBMFZwPA3Vlg3.htm)||`@Compendium[pf2e.ancestryfeatures.RxNBBMFZwPA3Vlg3]`|
+|[Shortshanks Hobgoblin](ancestryfeatures/feat-01-rQJBtQ9uKUzK9ktK.htm)||`@Compendium[pf2e.ancestryfeatures.rQJBtQ9uKUzK9ktK]`|
 |[Skilled Heritage](ancestryfeatures/feat-01-zVf0Hlp5xG0Q7kmc.htm)|Héritage talentueux|`@Compendium[pf2e.ancestryfeatures.zVf0Hlp5xG0Q7kmc]`|
 |[Skyborn Tengu](ancestryfeatures/feat-01-rKV11HWREwjjMIum.htm)|Tengu des cieux|`@Compendium[pf2e.ancestryfeatures.rKV11HWREwjjMIum]`|
 |[Smokeworker Hobgoblin](ancestryfeatures/feat-01-n2eJEjA8pnOMiuCm.htm)|Hobgobelin travailleur de fumée|`@Compendium[pf2e.ancestryfeatures.n2eJEjA8pnOMiuCm]`|
 |[Snow Goblin](ancestryfeatures/feat-01-gQyPU441J3rGt8mD.htm)|Gobelin des Neiges|`@Compendium[pf2e.ancestryfeatures.gQyPU441J3rGt8mD]`|
+|[Snow Rat](ancestryfeatures/feat-01-7lFPhRMAFXQsXUP2.htm)||`@Compendium[pf2e.ancestryfeatures.7lFPhRMAFXQsXUP2]`|
+|[Songbird Strix](ancestryfeatures/feat-01-fWT7Mo2vFC10H4Wq.htm)||`@Compendium[pf2e.ancestryfeatures.fWT7Mo2vFC10H4Wq]`|
 |[Spellscale Kobold](ancestryfeatures/feat-01-VRyX00OuPGsJSurM.htm)|Kobold écaille de sort|`@Compendium[pf2e.ancestryfeatures.VRyX00OuPGsJSurM]`|
+|[Spined Azarketi](ancestryfeatures/feat-01-9Iu1gFEuvVz9zaYU.htm)||`@Compendium[pf2e.ancestryfeatures.9Iu1gFEuvVz9zaYU]`|
+|[Steelskin Hobgoblin](ancestryfeatures/feat-01-BFOsMnWfXL1oaWkY.htm)||`@Compendium[pf2e.ancestryfeatures.BFOsMnWfXL1oaWkY]`|
 |[Stormtossed Tengu](ancestryfeatures/feat-01-7vHLPleFpSqKAjWG.htm)|Tengu battu par les vents|`@Compendium[pf2e.ancestryfeatures.7vHLPleFpSqKAjWG]`|
 |[Strong-Blooded Dwarf](ancestryfeatures/feat-01-UV2sABrTC5teOXTE.htm)|Nain sang-fort|`@Compendium[pf2e.ancestryfeatures.UV2sABrTC5teOXTE]`|
 |[Strongjaw Kobold](ancestryfeatures/feat-01-WaCn0mcivFv1omNK.htm)|Kobold à forte mâchoire|`@Compendium[pf2e.ancestryfeatures.WaCn0mcivFv1omNK]`|
+|[Suli](ancestryfeatures/feat-01-RKz7Z5pefXKiv9JE.htm)||`@Compendium[pf2e.ancestryfeatures.RKz7Z5pefXKiv9JE]`|
+|[Sylph](ancestryfeatures/feat-01-G8jfMayPv4vZvAVr.htm)||`@Compendium[pf2e.ancestryfeatures.G8jfMayPv4vZvAVr]`|
+|[Tactile Azarketi](ancestryfeatures/feat-01-S1062No0sYH35AhN.htm)||`@Compendium[pf2e.ancestryfeatures.S1062No0sYH35AhN]`|
 |[Tailed Goblin](ancestryfeatures/feat-01-8wGUh9RsMUamOKjh.htm)|Gobelin à queue|`@Compendium[pf2e.ancestryfeatures.8wGUh9RsMUamOKjh]`|
 |[Taloned Tengu](ancestryfeatures/feat-01-qM566kCXljkOpocA.htm)|Tengu à ergots|`@Compendium[pf2e.ancestryfeatures.qM566kCXljkOpocA]`|
+|[Technological Fleshwarp](ancestryfeatures/feat-01-n2DKA0OQQcfvZRly.htm)||`@Compendium[pf2e.ancestryfeatures.n2DKA0OQQcfvZRly]`|
 |[Thickcoat Shoony](ancestryfeatures/feat-01-MhXHEh7utEfxBwmc.htm)|Shoony à fourrure|`@Compendium[pf2e.ancestryfeatures.MhXHEh7utEfxBwmc]`|
 |[Tiefling](ancestryfeatures/feat-01-wGMVflH4t1UXrNn5.htm)|Tieffelin|`@Compendium[pf2e.ancestryfeatures.wGMVflH4t1UXrNn5]`|
 |[Treedweller Goblin](ancestryfeatures/feat-01-EEvA4uj8h3zDiAfP.htm)|Gobelin arboricole|`@Compendium[pf2e.ancestryfeatures.EEvA4uj8h3zDiAfP]`|
+|[Tunnel Rat](ancestryfeatures/feat-01-U882U2NUUGL6u3rL.htm)||`@Compendium[pf2e.ancestryfeatures.U882U2NUUGL6u3rL]`|
+|[Tunnelflood Kobold](ancestryfeatures/feat-01-ZW8GX14n3ZGievK1.htm)||`@Compendium[pf2e.ancestryfeatures.ZW8GX14n3ZGievK1]`|
 |[Twilight Halfling](ancestryfeatures/feat-01-cCy8vsZENlwiAyZ6.htm)|Halfelin du crépuscule|`@Compendium[pf2e.ancestryfeatures.cCy8vsZENlwiAyZ6]`|
 |[Umbral Gnome](ancestryfeatures/feat-01-d0bNxgGqvaCkFlhN.htm)|Gnome ombral|`@Compendium[pf2e.ancestryfeatures.d0bNxgGqvaCkFlhN]`|
 |[Unbreakable Goblin](ancestryfeatures/feat-01-ULj56ZoW7dWdnBvu.htm)|Gobelin Incassable|`@Compendium[pf2e.ancestryfeatures.ULj56ZoW7dWdnBvu]`|
+|[Undine](ancestryfeatures/feat-01-Gmk7oNITvMVBy78Z.htm)||`@Compendium[pf2e.ancestryfeatures.Gmk7oNITvMVBy78Z]`|
 |[Unseen Lizardfolk](ancestryfeatures/feat-01-VYfpTUuXJM3iBOz0.htm)|Homme-lézard mimétique|`@Compendium[pf2e.ancestryfeatures.VYfpTUuXJM3iBOz0]`|
+|[Unusual Anatomy](ancestryfeatures/feat-01-mEDTJi7d1bTEiwUD.htm)||`@Compendium[pf2e.ancestryfeatures.mEDTJi7d1bTEiwUD]`|
 |[Venomtail Kobold](ancestryfeatures/feat-01-m9rrlchS10xHFA2G.htm)|Kobold à queue venimeuse|`@Compendium[pf2e.ancestryfeatures.m9rrlchS10xHFA2G]`|
 |[Versatile Heritage](ancestryfeatures/feat-01-hFBwsVcSnNCJoimo.htm)|Héritage polyvalent|`@Compendium[pf2e.ancestryfeatures.hFBwsVcSnNCJoimo]`|
 |[Vine Leshy](ancestryfeatures/feat-01-evXJISqyhl3fHE9u.htm)|Léchi à liane|`@Compendium[pf2e.ancestryfeatures.evXJISqyhl3fHE9u]`|
 |[Vivacious Gnome](ancestryfeatures/feat-01-ViKRoVgog172r163.htm)|Gnome vivace|`@Compendium[pf2e.ancestryfeatures.ViKRoVgog172r163]`|
 |[Warmarch Hobgoblin](ancestryfeatures/feat-01-K124fCpU03SJvmeP.htm)|Hobgobelin Marchebataille|`@Compendium[pf2e.ancestryfeatures.K124fCpU03SJvmeP]`|
 |[Warrenbred Hobgoblin](ancestryfeatures/feat-01-0vaeOoECfVD5EGbq.htm)|Hobgobelin Terrierné|`@Compendium[pf2e.ancestryfeatures.0vaeOoECfVD5EGbq]`|
+|[Warrior Android](ancestryfeatures/feat-01-RuQSx0QsirIKxwKY.htm)||`@Compendium[pf2e.ancestryfeatures.RuQSx0QsirIKxwKY]`|
+|[Wavediver Tengu](ancestryfeatures/feat-01-WEzgrxBRFBGdj8Hx.htm)||`@Compendium[pf2e.ancestryfeatures.WEzgrxBRFBGdj8Hx]`|
 |[Wellspring Gnome](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Gnome source|`@Compendium[pf2e.ancestryfeatures.etkuQkjkNLPLnjkA]`|
 |[Wetlander Lizardfolk](ancestryfeatures/feat-01-dJeiekfqGQ8dkwsO.htm)|Homme-lézard des terres humides|`@Compendium[pf2e.ancestryfeatures.dJeiekfqGQ8dkwsO]`|
 |[Whisper Elf](ancestryfeatures/feat-01-1wVDYY9Wue0G5R9Q.htm)|Elfe des murmures|`@Compendium[pf2e.ancestryfeatures.1wVDYY9Wue0G5R9Q]`|
 |[Wildwood Halfling](ancestryfeatures/feat-01-xtRIYizCjLg9qe1Z.htm)|Halfelin bois-sauvage|`@Compendium[pf2e.ancestryfeatures.xtRIYizCjLg9qe1Z]`|
+|[Wings](ancestryfeatures/feat-01-oCIO7UJqbpTkI62l.htm)||`@Compendium[pf2e.ancestryfeatures.oCIO7UJqbpTkI62l]`|
 |[Winter Catfolk](ancestryfeatures/feat-01-6dMd4JG0ndrObEUj.htm)|Homme-félin hivernal|`@Compendium[pf2e.ancestryfeatures.6dMd4JG0ndrObEUj]`|
+|[Winter Orc](ancestryfeatures/feat-01-pZ1u2ScWrBXSaAqQ.htm)||`@Compendium[pf2e.ancestryfeatures.pZ1u2ScWrBXSaAqQ]`|
 |[Wintertouched Human](ancestryfeatures/feat-01-KO33MNyY9VqNQmbZ.htm)|Humain touché par l'hiver|`@Compendium[pf2e.ancestryfeatures.KO33MNyY9VqNQmbZ]`|
+|[Wisp Fetchling](ancestryfeatures/feat-01-kHHcvJBJNiPJTuna.htm)||`@Compendium[pf2e.ancestryfeatures.kHHcvJBJNiPJTuna]`|
 |[Woodland Elf](ancestryfeatures/feat-01-nW1gi13E62Feto2w.htm)|Elfe des bois|`@Compendium[pf2e.ancestryfeatures.nW1gi13E62Feto2w]`|
+|[Woodstalker Lizardfolk](ancestryfeatures/feat-01-TQFE10VFvh9wb8zb.htm)||`@Compendium[pf2e.ancestryfeatures.TQFE10VFvh9wb8zb]`|
 
 
 ## Backgrounds
@@ -487,8 +569,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Alkenstar Tinker](backgrounds/0c9Np7Yq5JSxZ6Tb.htm)|Bricoleur d'Alkenstar|`@Compendium[pf2e.backgrounds.0c9Np7Yq5JSxZ6Tb]`|
 |[Amnesiac](backgrounds/0ZfBP7Tp2P3WN7Dp.htm)|Amnésique|`@Compendium[pf2e.backgrounds.0ZfBP7Tp2P3WN7Dp]`|
 |[Animal Whisperer](backgrounds/5RGLAPi5sLykRcmm.htm)|Dresseur|`@Compendium[pf2e.backgrounds.5RGLAPi5sLykRcmm]`|
-|[Animal Wrangler (Athletics)](backgrounds/HNp0uNsIx3BNBcr5.htm)||`@Compendium[pf2e.backgrounds.HNp0uNsIx3BNBcr5]`|
-|[Animal Wrangler (Nature)](backgrounds/TPZ0ev0Tl5sveZuM.htm)||`@Compendium[pf2e.backgrounds.TPZ0ev0Tl5sveZuM]`|
+|[Animal Wrangler (Athletics)](backgrounds/HNp0uNsIx3BNBcr5.htm)|Dresseur d'animaux (Athlétisme)|`@Compendium[pf2e.backgrounds.HNp0uNsIx3BNBcr5]`|
+|[Animal Wrangler (Nature)](backgrounds/TPZ0ev0Tl5sveZuM.htm)|Dresseur d'animal (Nature)|`@Compendium[pf2e.backgrounds.TPZ0ev0Tl5sveZuM]`|
 |[Archaeologist](backgrounds/IoBhge83aYpq0pPV.htm)|Archéologue|`@Compendium[pf2e.backgrounds.IoBhge83aYpq0pPV]`|
 |[Artisan](backgrounds/6irgRkKZ8tRZzLvs.htm)|Artisan|`@Compendium[pf2e.backgrounds.6irgRkKZ8tRZzLvs]`|
 |[Artist](backgrounds/y9OyNsxGfmjqdcP0.htm)|Artiste|`@Compendium[pf2e.backgrounds.y9OyNsxGfmjqdcP0]`|
@@ -503,7 +585,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bekyar Restorer](backgrounds/9LnXsMRwYcxi7nDO.htm)|Restaurateur Bekyar|`@Compendium[pf2e.backgrounds.9LnXsMRwYcxi7nDO]`|
 |[Belkzen Slayer](backgrounds/EJRWGsPWzAhixuvQ.htm)|Tueur du Belkzen|`@Compendium[pf2e.backgrounds.EJRWGsPWzAhixuvQ]`|
 |[Bellflower Agent](backgrounds/6K6jJkjZ2MJYqQ6h.htm)|Agent de la Campanule|`@Compendium[pf2e.backgrounds.6K6jJkjZ2MJYqQ6h]`|
-|[Bibliophile](backgrounds/xvz5F7iYBWEIjz0r.htm)||`@Compendium[pf2e.backgrounds.xvz5F7iYBWEIjz0r]`|
+|[Bibliophile](backgrounds/xvz5F7iYBWEIjz0r.htm)|Bibliophile|`@Compendium[pf2e.backgrounds.xvz5F7iYBWEIjz0r]`|
 |[Black Market Smuggler](backgrounds/I0vuIFypx8ADSJQC.htm)|Contrebandier du Marché noir|`@Compendium[pf2e.backgrounds.I0vuIFypx8ADSJQC]`|
 |[Blessed](backgrounds/9pK15dQJVypSCjzO.htm)|Béni|`@Compendium[pf2e.backgrounds.9pK15dQJVypSCjzO]`|
 |[Blow-In (Deception)](backgrounds/tsMvqxJhl6xgcDaU.htm)|Nouveau venu (Duperie)|`@Compendium[pf2e.backgrounds.tsMvqxJhl6xgcDaU]`|
@@ -534,7 +616,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dreamer of the Verdant Moon](backgrounds/vBPu7RwNXGDQ1ThL.htm)|Rêveur de la lune verdoyante|`@Compendium[pf2e.backgrounds.vBPu7RwNXGDQ1ThL]`|
 |[Droskari Disciple](backgrounds/XHY0xrSSbX0cTJKK.htm)|Disciple de Droskar|`@Compendium[pf2e.backgrounds.XHY0xrSSbX0cTJKK]`|
 |[Early Explorer](backgrounds/p27PSjFtHAWikKaw.htm)|Explorateur précoce|`@Compendium[pf2e.backgrounds.p27PSjFtHAWikKaw]`|
-|[Eldritch Anatomist](backgrounds/MiRWGXZnEdurMvVf.htm)||`@Compendium[pf2e.backgrounds.MiRWGXZnEdurMvVf]`|
+|[Eldritch Anatomist](backgrounds/MiRWGXZnEdurMvVf.htm)|Anatomiste mystique|`@Compendium[pf2e.backgrounds.MiRWGXZnEdurMvVf]`|
 |[Emancipated](backgrounds/oEm937kNrP5sXxFD.htm)|Émancipé|`@Compendium[pf2e.backgrounds.oEm937kNrP5sXxFD]`|
 |[Emissary](backgrounds/3WPo7m6rJQh9L7MN.htm)|Émissaire|`@Compendium[pf2e.backgrounds.3WPo7m6rJQh9L7MN]`|
 |[Entertainer](backgrounds/i4hN6OYv8qmi3GLW.htm)|Bateleur|`@Compendium[pf2e.backgrounds.i4hN6OYv8qmi3GLW]`|
@@ -542,7 +624,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Faction Opportunist](backgrounds/HKRcQO8Xj7xzBxAw.htm)|Opportuniste des Factions|`@Compendium[pf2e.backgrounds.HKRcQO8Xj7xzBxAw]`|
 |[Farmhand](backgrounds/SOmJyAtPOokesZoe.htm)|Ouvrier agricole|`@Compendium[pf2e.backgrounds.SOmJyAtPOokesZoe]`|
 |[Feral Child](backgrounds/Q2brdDtEoI3cmpuD.htm)|Enfant sauvage|`@Compendium[pf2e.backgrounds.Q2brdDtEoI3cmpuD]`|
-|[Feybound](backgrounds/ppBGlWl0UkBKkJgE.htm)|Engagé avec les fées|`@Compendium[pf2e.backgrounds.ppBGlWl0UkBKkJgE]`|
+|[Feybound](backgrounds/ppBGlWl0UkBKkJgE.htm)|Lié avec les fées|`@Compendium[pf2e.backgrounds.ppBGlWl0UkBKkJgE]`|
 |[Field Medic](backgrounds/FKHut73XDUGTnKkP.htm)|Médecin militaire|`@Compendium[pf2e.backgrounds.FKHut73XDUGTnKkP]`|
 |[Finadar Leshy](backgrounds/NZY0r4Csjul6eVPp.htm)|Léchi de Finadar|`@Compendium[pf2e.backgrounds.NZY0r4Csjul6eVPp]`|
 |[Final Blade Survivor](backgrounds/tQ9t7uIssRCR2y3W.htm)|Survivant de la Lame finale|`@Compendium[pf2e.backgrounds.tQ9t7uIssRCR2y3W]`|
@@ -583,13 +665,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Local Scion](backgrounds/4a2sVO0o2mMTydN8.htm)|Enfant du pays|`@Compendium[pf2e.backgrounds.4a2sVO0o2mMTydN8]`|
 |[Lost and Alone](backgrounds/wU1qd8tZNcYn43y2.htm)|Perdu et seul|`@Compendium[pf2e.backgrounds.wU1qd8tZNcYn43y2]`|
 |[Lumber Consortium Laborer](backgrounds/uJcFanGjVranEarv.htm)|Ouvrier du Consortium du Bois|`@Compendium[pf2e.backgrounds.uJcFanGjVranEarv]`|
-|[Magaambya Academic](backgrounds/dd6DbCsT67rl8va3.htm)|Étudiant de Magaambya|`@Compendium[pf2e.backgrounds.dd6DbCsT67rl8va3]`|
+|[Magaambya Academic](backgrounds/dd6DbCsT67rl8va3.htm)|Étudiant du Magaambya|`@Compendium[pf2e.backgrounds.dd6DbCsT67rl8va3]`|
 |[Mammoth Speaker](backgrounds/76RK9WizWYdyhMy5.htm)|Dresseur de mammouth|`@Compendium[pf2e.backgrounds.76RK9WizWYdyhMy5]`|
 |[Mana Wastes Refugee](backgrounds/V1RAIckpUJd2OzXi.htm)|Réfugié de la Désolation de Mana|`@Compendium[pf2e.backgrounds.V1RAIckpUJd2OzXi]`|
 |[Mantis Scion](backgrounds/4aVFnYyRajog0mNl.htm)|Fils de la Mante|`@Compendium[pf2e.backgrounds.4aVFnYyRajog0mNl]`|
-|[Market Runner](backgrounds/n2JN5Kiu7tOCAHPr.htm)||`@Compendium[pf2e.backgrounds.n2JN5Kiu7tOCAHPr]`|
-|[Martial Disciple (Acrobatics)](backgrounds/lRVYgV9zL6O6O3U4.htm)||`@Compendium[pf2e.backgrounds.lRVYgV9zL6O6O3U4]`|
-|[Martial Disciple (Athletics)](backgrounds/faHydq29Q4RP5CAK.htm)||`@Compendium[pf2e.backgrounds.faHydq29Q4RP5CAK]`|
+|[Market Runner](backgrounds/n2JN5Kiu7tOCAHPr.htm)|Coureur du marché|`@Compendium[pf2e.backgrounds.n2JN5Kiu7tOCAHPr]`|
+|[Martial Disciple (Acrobatics)](backgrounds/lRVYgV9zL6O6O3U4.htm)|Disciple martial (Acrobatie)|`@Compendium[pf2e.backgrounds.lRVYgV9zL6O6O3U4]`|
+|[Martial Disciple (Athletics)](backgrounds/faHydq29Q4RP5CAK.htm)|Disciple martial (Athlétisme)|`@Compendium[pf2e.backgrounds.faHydq29Q4RP5CAK]`|
 |[Menagerie Dung Sweeper](backgrounds/YyzIzLxn2UCFubj4.htm)|Balayeur de fumier de la Ménagerie|`@Compendium[pf2e.backgrounds.YyzIzLxn2UCFubj4]`|
 |[Merabite Prodigy](backgrounds/a45LqkSRX07ljKdW.htm)|Prodige Mérabite|`@Compendium[pf2e.backgrounds.a45LqkSRX07ljKdW]`|
 |[Merchant](backgrounds/KMv7ollLVaZ81XDV.htm)|Marchand|`@Compendium[pf2e.backgrounds.KMv7ollLVaZ81XDV]`|
@@ -601,13 +683,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Nirmathi Guerrilla](backgrounds/E2ij2Cg8oMC0W0NS.htm)|Escarmoucheur Nirmathi|`@Compendium[pf2e.backgrounds.E2ij2Cg8oMC0W0NS]`|
 |[Noble](backgrounds/Yu7Cl0Lk94LdPRi6.htm)|Noble|`@Compendium[pf2e.backgrounds.Yu7Cl0Lk94LdPRi6]`|
 |[Nomad](backgrounds/8UXahQfkP9GZ1TNW.htm)|Nomade|`@Compendium[pf2e.backgrounds.8UXahQfkP9GZ1TNW]`|
-|[Oenopion-Ooze Tender](backgrounds/iWWg16f3re1YChiD.htm)||`@Compendium[pf2e.backgrounds.iWWg16f3re1YChiD]`|
+|[Oenopion-Ooze Tender](backgrounds/iWWg16f3re1YChiD.htm)|Éleveur de vases d'œnopion|`@Compendium[pf2e.backgrounds.iWWg16f3re1YChiD]`|
 |[Onyx Trader](backgrounds/WueM94C9JXk10jPd.htm)|Marchand d'Onyx|`@Compendium[pf2e.backgrounds.WueM94C9JXk10jPd]`|
 |[Osirionologist](backgrounds/AJ41zFEYwlOUghXp.htm)|Osirionologiste|`@Compendium[pf2e.backgrounds.AJ41zFEYwlOUghXp]`|
 |[Out-Of-Towner](backgrounds/UgityMZaujmYUpil.htm)||`@Compendium[pf2e.backgrounds.UgityMZaujmYUpil]`|
 |[Outrider](backgrounds/dAvFZ5QmbAHgXcNp.htm)|Éclaireur|`@Compendium[pf2e.backgrounds.dAvFZ5QmbAHgXcNp]`|
 |[Pathfinder Hopeful](backgrounds/j9v38iHA0sVy59SR.htm)|Aspirant Éclaireur|`@Compendium[pf2e.backgrounds.j9v38iHA0sVy59SR]`|
-|[Pathfinder Recruiter](backgrounds/NXYce9NAHls2fcIf.htm)|Recruteur des Éclaireurs|`@Compendium[pf2e.backgrounds.NXYce9NAHls2fcIf]`|
+|[Pathfinder Recruiter](backgrounds/NXYce9NAHls2fcIf.htm)|Recrue des Éclaireurs|`@Compendium[pf2e.backgrounds.NXYce9NAHls2fcIf]`|
 |[Perfection Seeker](backgrounds/P65AGDPkhD2B4JtG.htm)|À la recherche de la Perfection|`@Compendium[pf2e.backgrounds.P65AGDPkhD2B4JtG]`|
 |[Pilgrim](backgrounds/r9fzNQEz33HyKTxm.htm)|Pélerin|`@Compendium[pf2e.backgrounds.r9fzNQEz33HyKTxm]`|
 |[Political Scion](backgrounds/JauSkDtMV6dhDZS8.htm)|Rejeton de politicien|`@Compendium[pf2e.backgrounds.JauSkDtMV6dhDZS8]`|
@@ -616,7 +698,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Prisoner](backgrounds/apXTV7jJx6yJpj8D.htm)|Prisonnier|`@Compendium[pf2e.backgrounds.apXTV7jJx6yJpj8D]`|
 |[Purveyor of the Bizzare](backgrounds/IfpYRxN8qyV4ym0o.htm)|Fournisseur de Bizarreries|`@Compendium[pf2e.backgrounds.IfpYRxN8qyV4ym0o]`|
 |[Quick](backgrounds/i6y4DiKvqitdE0PW.htm)|Rapide|`@Compendium[pf2e.backgrounds.i6y4DiKvqitdE0PW]`|
-|[Raised by Belief](backgrounds/RC4l6WsxPn89a1f8.htm)|Élevé dans la croyance|`@Compendium[pf2e.backgrounds.RC4l6WsxPn89a1f8]`|
+|[Raised by Belief](backgrounds/RC4l6WsxPn89a1f8.htm)|Élevé dans la Foi|`@Compendium[pf2e.backgrounds.RC4l6WsxPn89a1f8]`|
 |[Razmiran Faithful](backgrounds/9uTdwJaj27F18ZDX.htm)|Croyant en Razmir|`@Compendium[pf2e.backgrounds.9uTdwJaj27F18ZDX]`|
 |[Refugee (APG)](backgrounds/i28Z9JXhEvoc7BX5.htm)|Réfugié (MJA)|`@Compendium[pf2e.backgrounds.i28Z9JXhEvoc7BX5]`|
 |[Refugee (Fall of Plaguestone)](backgrounds/HDquvQywAZimmcFF.htm)|Réfugié (la Chute de Plaguestone)|`@Compendium[pf2e.backgrounds.HDquvQywAZimmcFF]`|
@@ -625,7 +707,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Returning Descendant](backgrounds/iaM6TjvijLCgiHeD.htm)|Descendant de retour|`@Compendium[pf2e.backgrounds.iaM6TjvijLCgiHeD]`|
 |[Rigger](backgrounds/7IrOApgShgnmp1A5.htm)|Gréeur|`@Compendium[pf2e.backgrounds.7IrOApgShgnmp1A5]`|
 |[Rivethun Adherent](backgrounds/6c0rsuiiAaVqGTu7.htm)|Adhérent du Rivethun|`@Compendium[pf2e.backgrounds.6c0rsuiiAaVqGTu7]`|
-|[Root Worker](backgrounds/ns9BOvCyjdapYhI0.htm)|Chasseur de racines|`@Compendium[pf2e.backgrounds.ns9BOvCyjdapYhI0]`|
+|[Root Worker](backgrounds/ns9BOvCyjdapYhI0.htm)|Cueilleur de racines|`@Compendium[pf2e.backgrounds.ns9BOvCyjdapYhI0]`|
 |[Rostland Partisan](backgrounds/8q4PhvpmIxZD7rsV.htm)|Partisan du Rost|`@Compendium[pf2e.backgrounds.8q4PhvpmIxZD7rsV]`|
 |[Royalty](backgrounds/uC6D2nmDTATxXrV6.htm)|De sang royal|`@Compendium[pf2e.backgrounds.uC6D2nmDTATxXrV6]`|
 |[Ruby Phoenix Enthusiast](backgrounds/7K6ZSWOoihZKSdyd.htm)|Enthousiaste du Phénix de rubis|`@Compendium[pf2e.backgrounds.7K6ZSWOoihZKSdyd]`|
@@ -647,13 +729,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Shadow Haunted](backgrounds/V31KRG7aA7xS0m8L.htm)|Ombre hantée|`@Compendium[pf2e.backgrounds.V31KRG7aA7xS0m8L]`|
 |[Shadow Lodge Defector](backgrounds/HEd2Lxgvl080nRxx.htm)|Défecteur de la Loge de l'ombre|`@Compendium[pf2e.backgrounds.HEd2Lxgvl080nRxx]`|
 |[Shadow War Survivor](backgrounds/b9EPEY09dYOVzdue.htm)|Survivant de la Guerre de l'ombre|`@Compendium[pf2e.backgrounds.b9EPEY09dYOVzdue]`|
-|[Shoanti Name-Bearer](backgrounds/H3E69w8Xg0T7rAqD.htm)||`@Compendium[pf2e.backgrounds.H3E69w8Xg0T7rAqD]`|
+|[Shoanti Name-Bearer](backgrounds/H3E69w8Xg0T7rAqD.htm)|Porteur de nom Shoanti|`@Compendium[pf2e.backgrounds.H3E69w8Xg0T7rAqD]`|
 |[Shory Seeker](backgrounds/HZ3oBBdEnsH3fWrm.htm)|Chercheur Rivain|`@Compendium[pf2e.backgrounds.HZ3oBBdEnsH3fWrm]`|
 |[Sleepless Suns Star](backgrounds/AfBCrHsw1xbRFejN.htm)|Étoile des soleils sans repos|`@Compendium[pf2e.backgrounds.AfBCrHsw1xbRFejN]`|
 |[Sodden Scavenger](backgrounds/93icIDHD4IrqI2oV.htm)|Récupérateur détrempé|`@Compendium[pf2e.backgrounds.93icIDHD4IrqI2oV]`|
 |[Spell Seeker](backgrounds/PO94ilqe62V6jtBE.htm)|Chercheur de sorts|`@Compendium[pf2e.backgrounds.PO94ilqe62V6jtBE]`|
 |[Squire](backgrounds/qbvzNG8hMjb8f66D.htm)|Écuyer|`@Compendium[pf2e.backgrounds.qbvzNG8hMjb8f66D]`|
-|[Starwatcher](backgrounds/sR3S7Xn15drU6rOF.htm)||`@Compendium[pf2e.backgrounds.sR3S7Xn15drU6rOF]`|
+|[Starwatcher](backgrounds/sR3S7Xn15drU6rOF.htm)|Observateur d'étoiles|`@Compendium[pf2e.backgrounds.sR3S7Xn15drU6rOF]`|
 |[Storm Survivor](backgrounds/UURvnfwXypRYYXBI.htm)|Rescapé d'une tempête|`@Compendium[pf2e.backgrounds.UURvnfwXypRYYXBI]`|
 |[Street Urchin](backgrounds/moVRsnpjB5THCwxE.htm)|Enfant des rues|`@Compendium[pf2e.backgrounds.moVRsnpjB5THCwxE]`|
 |[Taldan Schemer](backgrounds/PhqUBXLLkVXb6oUE.htm)|Intrigant taldorien|`@Compendium[pf2e.backgrounds.PhqUBXLLkVXb6oUE]`|
@@ -661,7 +743,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Tax Collector](backgrounds/ixluAGUDZciLEHtb.htm)|Percepteur|`@Compendium[pf2e.backgrounds.ixluAGUDZciLEHtb]`|
 |[Teacher](backgrounds/cFdndc4pMWhnRUOY.htm)|Enseignant|`@Compendium[pf2e.backgrounds.cFdndc4pMWhnRUOY]`|
 |[Teamster](backgrounds/h98cEl4DY75IL6KJ.htm)|Conducteur d'attelages|`@Compendium[pf2e.backgrounds.h98cEl4DY75IL6KJ]`|
-|[Thassilonian Delver](backgrounds/vjhB0ZTV9OZgSuSz.htm)|Fouilleur du thassilon|`@Compendium[pf2e.backgrounds.vjhB0ZTV9OZgSuSz]`|
+|[Thassilonian Delver](backgrounds/vjhB0ZTV9OZgSuSz.htm)|Fouilleur thassilonnien|`@Compendium[pf2e.backgrounds.vjhB0ZTV9OZgSuSz]`|
 |[Thassilonian Traveler](backgrounds/su8y75pGMVTUsNHK.htm)|Voyageur Thassilonien|`@Compendium[pf2e.backgrounds.su8y75pGMVTUsNHK]`|
 |[Thrune Loyalist](backgrounds/m1vRLRHTpCrgk89G.htm)|Loyaliste Thrune|`@Compendium[pf2e.backgrounds.m1vRLRHTpCrgk89G]`|
 |[Thuvian Unifier](backgrounds/MslumKt6iwJ85GKZ.htm)|Unificateur de Thuvie|`@Compendium[pf2e.backgrounds.MslumKt6iwJ85GKZ]`|
@@ -681,11 +763,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Warrior](backgrounds/r0kYIbN06Cv8eNG3.htm)|Homme d'armes|`@Compendium[pf2e.backgrounds.r0kYIbN06Cv8eNG3]`|
 |[Whispering Way Scion](backgrounds/aisuJF1A98bHfkLH.htm)|Enfant de la Voie du Murmure|`@Compendium[pf2e.backgrounds.aisuJF1A98bHfkLH]`|
 |[Wildwood Local](backgrounds/R1v4gUu8oRMoOASM.htm)|Habitué des bois|`@Compendium[pf2e.backgrounds.R1v4gUu8oRMoOASM]`|
-|[Winter's Child](backgrounds/SJ3nNOI5A8A4hK0Q.htm)|Enfant de l'Hiver|`@Compendium[pf2e.backgrounds.SJ3nNOI5A8A4hK0Q]`|
+|[Winter's Child](backgrounds/SJ3nNOI5A8A4hK0Q.htm)|Enfant de l'hiver|`@Compendium[pf2e.backgrounds.SJ3nNOI5A8A4hK0Q]`|
 |[Witch Wary](backgrounds/yAtyaKbcHZWCJlf5.htm)|Gare aux sorcières|`@Compendium[pf2e.backgrounds.yAtyaKbcHZWCJlf5]`|
-|[Witchlight Follower](backgrounds/BZhPPw9VD9U2ur6B.htm)||`@Compendium[pf2e.backgrounds.BZhPPw9VD9U2ur6B]`|
+|[Witchlight Follower](backgrounds/BZhPPw9VD9U2ur6B.htm)|Suiveur de lumière de sorcière|`@Compendium[pf2e.backgrounds.BZhPPw9VD9U2ur6B]`|
 |[Wonder Taster](backgrounds/qB7g1OiZ8v8zgvkL.htm)|Goûteur de merveilles|`@Compendium[pf2e.backgrounds.qB7g1OiZ8v8zgvkL]`|
-|[_Empty Background](backgrounds/iPuclSXdCEAVfTZ0.htm)||`@Compendium[pf2e.backgrounds.iPuclSXdCEAVfTZ0]`|
+|[_Empty Background](backgrounds/iPuclSXdCEAVfTZ0.htm)|_Historique vierge|`@Compendium[pf2e.backgrounds.iPuclSXdCEAVfTZ0]`|
 
 
 ## Bestiaire
@@ -1951,7 +2033,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Swashbuckler](classes/uJ5aCzlw34GGdWjp.htm)|Bretteur|`@Compendium[pf2e.classes.uJ5aCzlw34GGdWjp]`|
 |[Witch](classes/bYDXk9HUMKOuym9h.htm)|Sorcière|`@Compendium[pf2e.classes.bYDXk9HUMKOuym9h]`|
 |[Wizard](classes/RwjIZzIxzPpUglnK.htm)|Magicien|`@Compendium[pf2e.classes.RwjIZzIxzPpUglnK]`|
-|[_Empty Class](classes/84SZGVNLXhLKG6gL.htm)||`@Compendium[pf2e.classes.84SZGVNLXhLKG6gL]`|
+|[[Empty Class]](classes/84SZGVNLXhLKG6gL.htm)|_Classe vierge|`@Compendium[pf2e.classes.84SZGVNLXhLKG6gL]`|
 
 
 ## Conditions
@@ -2062,6 +2144,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |------------|-------------|-----------------|
 |[A Home In Every Port](feats/general-11-muMOxZyduEFv8UT6.htm)|Une maison dans chaque port|`@Compendium[pf2e.feats-srd.muMOxZyduEFv8UT6]`|
 |[Aasimar's Mercy](feats/ancestry-13-V6iJ4v15Qc8awVCH.htm)|Pitié de l'Aasimar|`@Compendium[pf2e.feats-srd.V6iJ4v15Qc8awVCH]`|
+|[Aberration Kinship](feats/ancestry-01-ClVSyZxWk5L5KVLd.htm)||`@Compendium[pf2e.feats-srd.ClVSyZxWk5L5KVLd]`|
 |[Absorb Spell](feats/archetype-14-bEdFgywri7fABhBT.htm)|Absorption de sort|`@Compendium[pf2e.feats-srd.bEdFgywri7fABhBT]`|
 |[Abundant Step](feats/class-06-65gjc5KE4ZRoocbi.htm)|Pas chassé|`@Compendium[pf2e.feats-srd.65gjc5KE4ZRoocbi]`|
 |[Accelerating Touch](feats/class-04-aiHbS8FGNYAQBF62.htm)|Contact accélérant|`@Compendium[pf2e.feats-srd.aiHbS8FGNYAQBF62]`|
@@ -2083,6 +2166,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Additional Lore](feats/skill-01-BocFD2KV0qgUC76x.htm)|Connaissances supplémentaires|`@Compendium[pf2e.feats-srd.BocFD2KV0qgUC76x]`|
 |[Additional Recollection](feats/class-06-nU0r77AZXMXIlti6.htm)|Souvenirs supplémentaires|`@Compendium[pf2e.feats-srd.nU0r77AZXMXIlti6]`|
 |[Additional Shadow Magic](feats/archetype-12-NM5a1tF0OW5mVYdR.htm)|Magie de l'ombre supplémentaire|`@Compendium[pf2e.feats-srd.NM5a1tF0OW5mVYdR]`|
+|[Adhyabhau](feats/ancestry-01-gJDTS7eeIxZws5Lr.htm)||`@Compendium[pf2e.feats-srd.gJDTS7eeIxZws5Lr]`|
 |[Adopted Ancestry](feats/general-01-ihN8gkHSdPG9Trte.htm)|Ascendance adoptive|`@Compendium[pf2e.feats-srd.ihN8gkHSdPG9Trte]`|
 |[Adrenaline Rush](feats/class-01-BBj6jrdyff7QOgjH.htm)|Montée d'adrénaline|`@Compendium[pf2e.feats-srd.BBj6jrdyff7QOgjH]`|
 |[Adroit Manipulation](feats/ancestry-01-Ugw1zZStQhg6iz8h.htm)|Manipulation adroite|`@Compendium[pf2e.feats-srd.Ugw1zZStQhg6iz8h]`|
@@ -2102,13 +2186,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Advanced General Training](feats/ancestry-13-Ht6b8H9DpA9lWzAg.htm)|Entraînement général avancé|`@Compendium[pf2e.feats-srd.Ht6b8H9DpA9lWzAg]`|
 |[Advanced Hunter's Trick](feats/archetype-06-f754txt1ZyhVWXHk.htm)|Astuce du chasseur avancées|`@Compendium[pf2e.feats-srd.f754txt1ZyhVWXHk]`|
 |[Advanced Kata](feats/archetype-06-TYP0Ee4o3p9LDodd.htm)|Kata avancé|`@Compendium[pf2e.feats-srd.TYP0Ee4o3p9LDodd]`|
-|[Advanced Maneuver](feats/archetype-06-euWpgjPNcDjeXAWQ.htm)|Manoeuvre avancés|`@Compendium[pf2e.feats-srd.euWpgjPNcDjeXAWQ]`|
+|[Advanced Maneuver](feats/archetype-06-euWpgjPNcDjeXAWQ.htm)|Manœuvre avancée|`@Compendium[pf2e.feats-srd.euWpgjPNcDjeXAWQ]`|
 |[Advanced Muse's Whispers](feats/archetype-06-eTqWgfojpvuigdvx.htm)|Murmures de la muse avancés|`@Compendium[pf2e.feats-srd.eTqWgfojpvuigdvx]`|
 |[Advanced Mysteries](feats/archetype-06-PxTRE0mFEO3tyt8h.htm)|Mystères avancés|`@Compendium[pf2e.feats-srd.PxTRE0mFEO3tyt8h]`|
 |[Advanced Order Training](feats/archetype-12-KvKg9pBOpk2oLeO1.htm)|Entraînement de l'Ordre avancé|`@Compendium[pf2e.feats-srd.KvKg9pBOpk2oLeO1]`|
 |[Advanced Red Mantis Magic](feats/archetype-06-bzKBUK6CH8tuLCfo.htm)|Magie avancée des Mantes rouges|`@Compendium[pf2e.feats-srd.bzKBUK6CH8tuLCfo]`|
 |[Advanced Revelation](feats/class-06-FPVe3o7YctBicSQa.htm)|Révélation avancée|`@Compendium[pf2e.feats-srd.FPVe3o7YctBicSQa]`|
 |[Advanced School Spell](feats/class-08-5hUj7glY8YnO5sBI.htm)|Sort d'école perfectionné|`@Compendium[pf2e.feats-srd.5hUj7glY8YnO5sBI]`|
+|[Advanced Targeting System](feats/ancestry-05-ThqMksZRxNB18ivs.htm)||`@Compendium[pf2e.feats-srd.ThqMksZRxNB18ivs]`|
 |[Advanced Trickery](feats/archetype-06-rXY2fhyteYhaQnMl.htm)|Ruse avancée|`@Compendium[pf2e.feats-srd.rXY2fhyteYhaQnMl]`|
 |[Advanced Weapon Training](feats/class-06-nDjTJq7PEbvRktnb.htm)|Formation au maniement d'armes évoluées|`@Compendium[pf2e.feats-srd.nDjTJq7PEbvRktnb]`|
 |[Advanced Wilding](feats/archetype-06-l9K62T7qMCvJXUoY.htm)|Milieu sauvage avancé|`@Compendium[pf2e.feats-srd.l9K62T7qMCvJXUoY]`|
@@ -2118,12 +2203,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aerobatics Mastery](feats/skill-07-pKnX7MGZayqZui0Z.htm)|Maître trapéziste|`@Compendium[pf2e.feats-srd.pKnX7MGZayqZui0Z]`|
 |[Affliction Mercy](feats/class-12-nsFnOLqYSkGWFhLD.htm)|Soulagement d'affliction|`@Compendium[pf2e.feats-srd.nsFnOLqYSkGWFhLD]`|
 |[After You](feats/class-02-3kH0fGOIoYvPNQsq.htm)|Après vous|`@Compendium[pf2e.feats-srd.3kH0fGOIoYvPNQsq]`|
+|[Agathion Magic](feats/ancestry-09-Q8XZYvatnYo4VlAQ.htm)||`@Compendium[pf2e.feats-srd.Q8XZYvatnYo4VlAQ]`|
 |[Ageless Patience](feats/ancestry-05-k8nWKHLYvAKMuwLd.htm)|Patience infinie|`@Compendium[pf2e.feats-srd.k8nWKHLYvAKMuwLd]`|
+|[Ageless Spirit](feats/ancestry-01-wylnETwIz32Au46y.htm)||`@Compendium[pf2e.feats-srd.wylnETwIz32Au46y]`|
 |[Aggravating Scratch](feats/ancestry-09-G6rCbMrHacYWNu1K.htm)|Grattement aggravant|`@Compendium[pf2e.feats-srd.G6rCbMrHacYWNu1K]`|
 |[Aggressive Block](feats/class-02-19OLlTrxvEtDAOHc.htm)|Blocage agressif|`@Compendium[pf2e.feats-srd.19OLlTrxvEtDAOHc]`|
 |[Agile Grace](feats/class-10-BJKTUGplI9nwhJxg.htm)|Agilité gracieuse|`@Compendium[pf2e.feats-srd.BJKTUGplI9nwhJxg]`|
 |[Agile Maneuvers](feats/class-06-Ba6SLqAghsZgqhua.htm)|Manœuvres agiles|`@Compendium[pf2e.feats-srd.Ba6SLqAghsZgqhua]`|
 |[Agonizing Rebuke](feats/ancestry-05-7hwTeZNq6Jmzmtz4.htm)|Réprimande douloureuse|`@Compendium[pf2e.feats-srd.7hwTeZNq6Jmzmtz4]`|
+|[Airy Step](feats/ancestry-13-hOD9de1ftfYRSEKn.htm)||`@Compendium[pf2e.feats-srd.hOD9de1ftfYRSEKn]`|
 |[Alchemical Crafting](feats/skill-01-is3Oz9wt11lNq62K.htm)|Artisanat alchimique|`@Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]`|
 |[Alchemical Discoveries](feats/class-04-0FNLI8APwj9NsBDa.htm)|Découvertes alchimiques|`@Compendium[pf2e.feats-srd.0FNLI8APwj9NsBDa]`|
 |[Alchemical Familiar](feats/class-01-loC0wIyIrsG43Zrd.htm)|Familier alchimique|`@Compendium[pf2e.feats-srd.loC0wIyIrsG43Zrd]`|
@@ -2138,11 +2226,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[All In My Head](feats/class-18-wqAdzjRUOvTpKFKq.htm)|Tout çà est dans ma tête|`@Compendium[pf2e.feats-srd.wqAdzjRUOvTpKFKq]`|
 |[Allegro](feats/class-14-rOx7r8ygmPHPC6qF.htm)|Allégro|`@Compendium[pf2e.feats-srd.rOx7r8ygmPHPC6qF]`|
 |[Ally's Shelter](feats/ancestry-05-j0mlvJcuYGFuMG2S.htm)|Abri de l'allié|`@Compendium[pf2e.feats-srd.j0mlvJcuYGFuMG2S]`|
+|[Alter Resistance](feats/ancestry-13-Z15QFC45psi0txWg.htm)||`@Compendium[pf2e.feats-srd.Z15QFC45psi0txWg]`|
 |[Ambushing Knockdown](feats/class-08-ffdXSxl4lVFrOvyQ.htm)|Embuscade assomante|`@Compendium[pf2e.feats-srd.ffdXSxl4lVFrOvyQ]`|
+|[Amorphous Aspect](feats/ancestry-05-aZIdjtIYlLtJJP3g.htm)||`@Compendium[pf2e.feats-srd.aZIdjtIYlLtJJP3g]`|
 |[Amplifying Touch](feats/class-12-Cy5W8U4yN9P1EvBy.htm)|Toucher amplificateur|`@Compendium[pf2e.feats-srd.Cy5W8U4yN9P1EvBy]`|
 |[Analyze Idiolect](feats/archetype-06-TZASOwBqVveGjw77.htm)|Analyser l'idiolecte|`@Compendium[pf2e.feats-srd.TZASOwBqVveGjw77]`|
+|[Analyze Information](feats/ancestry-09-RTxPL1reRcJhhYeG.htm)||`@Compendium[pf2e.feats-srd.RTxPL1reRcJhhYeG]`|
 |[Analyze Weakness](feats/class-06-3PHHiZjX16Dwyt65.htm)|Analyse de faiblesse|`@Compendium[pf2e.feats-srd.3PHHiZjX16Dwyt65]`|
+|[Anarchic Arcana](feats/ancestry-09-ngNzsvIpnj1iLfSC.htm)||`@Compendium[pf2e.feats-srd.ngNzsvIpnj1iLfSC]`|
+|[Ancestor's Transformation](feats/general-13-3X8BkDZEDWp90U4u.htm)||`@Compendium[pf2e.feats-srd.3X8BkDZEDWp90U4u]`|
 |[Ancestral Blood Magic](feats/class-01-avCmIwmwJH7d7gri.htm)|Sang magique ancestral|`@Compendium[pf2e.feats-srd.avCmIwmwJH7d7gri]`|
+|[Ancestral Insight](feats/ancestry-01-n7JXquVGxQOfrCsf.htm)||`@Compendium[pf2e.feats-srd.n7JXquVGxQOfrCsf]`|
 |[Ancestral Linguistics](feats/ancestry-01-eCWQU16hRLfN1KaX.htm)|Linguistique ancestrale|`@Compendium[pf2e.feats-srd.eCWQU16hRLfN1KaX]`|
 |[Ancestral Longevity](feats/ancestry-01-WoLh16gyDp8y9WOZ.htm)|Longévité ancestrale|`@Compendium[pf2e.feats-srd.WoLh16gyDp8y9WOZ]`|
 |[Ancestral Mage](feats/class-10-YNk0BekymS3bBvCT.htm)|Mage ancestral|`@Compendium[pf2e.feats-srd.YNk0BekymS3bBvCT]`|
@@ -2150,6 +2244,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ancestral Suspicion](feats/ancestry-05-scNrNhnGTgPIzoj7.htm)|Suspicion ancestrale|`@Compendium[pf2e.feats-srd.scNrNhnGTgPIzoj7]`|
 |[Ancestral Weaponry](feats/class-02-VQz5VypVRLCloapa.htm)|Armes ancestrales|`@Compendium[pf2e.feats-srd.VQz5VypVRLCloapa]`|
 |[Anchoring Aura](feats/class-14-b5K067Pma4Il9IeD.htm)|Aura d'ancrage|`@Compendium[pf2e.feats-srd.b5K067Pma4Il9IeD]`|
+|[Anchoring Roots](feats/ancestry-05-1miLVRtvsnZU6TTk.htm)||`@Compendium[pf2e.feats-srd.1miLVRtvsnZU6TTk]`|
+|[Ancillary Motes](feats/ancestry-09-lT2sOwC6Pi5P4Yq0.htm)||`@Compendium[pf2e.feats-srd.lT2sOwC6Pi5P4Yq0]`|
+|[Android Lore](feats/ancestry-01-1r514EjD9YrZJ5rk.htm)||`@Compendium[pf2e.feats-srd.1r514EjD9YrZJ5rk]`|
 |[Angel Of Death](feats/archetype-10-3poGYUYCBTmbeCUs.htm)|Ange de la mort|`@Compendium[pf2e.feats-srd.3poGYUYCBTmbeCUs]`|
 |[Angelic Magic](feats/ancestry-09-esKk5XrnlqRayDPG.htm)|Magie des anges|`@Compendium[pf2e.feats-srd.esKk5XrnlqRayDPG]`|
 |[Angelkin](feats/ancestry-01-ydgCsYsgqSkFWEDK.htm)|Type angélique|`@Compendium[pf2e.feats-srd.ydgCsYsgqSkFWEDK]`|
@@ -2157,9 +2254,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Animal Companion](feats/class-01-f2Pl5dWEL9ZvEyI1.htm)|Compagnon animal (Druide)|`@Compendium[pf2e.feats-srd.f2Pl5dWEL9ZvEyI1]`|
 |[Animal Elocutionist](feats/ancestry-05-evwCimenReYvcruj.htm)|Orateur animalier|`@Compendium[pf2e.feats-srd.evwCimenReYvcruj]`|
 |[Animal Feature](feats/class-04-it2i6OXfGIizokpg.htm)|Trait animal|`@Compendium[pf2e.feats-srd.it2i6OXfGIizokpg]`|
+|[Animal Magic](feats/ancestry-09-JeMGDAD5s9AXCZ2G.htm)||`@Compendium[pf2e.feats-srd.JeMGDAD5s9AXCZ2G]`|
 |[Animal Rage](feats/class-08-1VLOhyq0IFMY2rqh.htm)|Rage animale|`@Compendium[pf2e.feats-srd.1VLOhyq0IFMY2rqh]`|
+|[Animal Senses](feats/ancestry-01-AKrxQ2JuDObM8coY.htm)||`@Compendium[pf2e.feats-srd.AKrxQ2JuDObM8coY]`|
+|[Animal Shape](feats/ancestry-17-OpSHTPkoZDrqR0Mq.htm)||`@Compendium[pf2e.feats-srd.OpSHTPkoZDrqR0Mq]`|
 |[Animal Skin](feats/class-06-ZPclfDmiHzEqblry.htm)|Cuir animal|`@Compendium[pf2e.feats-srd.ZPclfDmiHzEqblry]`|
+|[Animal Speaker](feats/ancestry-05-z0Bwy7lxU3DIugpo.htm)||`@Compendium[pf2e.feats-srd.z0Bwy7lxU3DIugpo]`|
+|[Animal Swiftness](feats/ancestry-17-5Unc9AhGAAw1klFN.htm)||`@Compendium[pf2e.feats-srd.5Unc9AhGAAw1klFN]`|
 |[Animal Trainer Dedication](feats/archetype-02-m3ANSHYfBrFyFUvo.htm)|Dévouement de Dompteur|`@Compendium[pf2e.feats-srd.m3ANSHYfBrFyFUvo]`|
+|[Animalistic Resistance](feats/ancestry-05-CnKc1kBejFV5gWtN.htm)||`@Compendium[pf2e.feats-srd.CnKc1kBejFV5gWtN]`|
 |[Ankle Bite](feats/ancestry-05-PncXj46fgSwTWRl6.htm)|Morsure à la cheville|`@Compendium[pf2e.feats-srd.PncXj46fgSwTWRl6]`|
 |[Annihilating Swing](feats/class-20-7QLLwcSKNGPWdOGG.htm)|Coup annihilateur|`@Compendium[pf2e.feats-srd.7QLLwcSKNGPWdOGG]`|
 |[Annotate Composition](feats/class-10-PIVC14saumGNKWbo.htm)|Composition annotée|`@Compendium[pf2e.feats-srd.PIVC14saumGNKWbo]`|
@@ -2167,6 +2270,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Antagonize](feats/class-02-Wx12NUjqTOjFrEoW.htm)|Contrarier|`@Compendium[pf2e.feats-srd.Wx12NUjqTOjFrEoW]`|
 |[Anticipate Ambush](feats/class-06-5N6rLz4mdJg0NrQH.htm)|Embuscade anticipée|`@Compendium[pf2e.feats-srd.5N6rLz4mdJg0NrQH]`|
 |[Apex Companion](feats/class-20-p353WH847errsNvh.htm)|Apogée du compagnon|`@Compendium[pf2e.feats-srd.p353WH847errsNvh]`|
+|[Aquatic Adaptation](feats/ancestry-13-l11OWMFUixCcRYGm.htm)||`@Compendium[pf2e.feats-srd.l11OWMFUixCcRYGm]`|
+|[Aquatic Camouflage](feats/ancestry-13-hXfyIWMtvB2kAEvA.htm)||`@Compendium[pf2e.feats-srd.hXfyIWMtvB2kAEvA]`|
+|[Aquatic Conversationalist](feats/ancestry-05-ZOOP2RzRJnpVqnCr.htm)||`@Compendium[pf2e.feats-srd.ZOOP2RzRJnpVqnCr]`|
+|[Aquatic Eyes](feats/ancestry-01-Kz4MLcrfXFrdKhyS.htm)||`@Compendium[pf2e.feats-srd.Kz4MLcrfXFrdKhyS]`|
 |[Arcane Breadth](feats/archetype-08-DwU6CmK4KsH8A3hu.htm)|Amplitude arcanique|`@Compendium[pf2e.feats-srd.DwU6CmK4KsH8A3hu]`|
 |[Arcane Evolution](feats/class-04-qxh4evekG28Gt1vj.htm)|Évolution arcanique|`@Compendium[pf2e.feats-srd.qxh4evekG28Gt1vj]`|
 |[Arcane School Spell](feats/archetype-04-QrShJGrvmWPBj4oN.htm)|Sort d'école arcanique|`@Compendium[pf2e.feats-srd.QrShJGrvmWPBj4oN]`|
@@ -2181,6 +2288,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Archon Magic](feats/ancestry-09-1WheVs50iwMBi6KC.htm)|Magie des archons|`@Compendium[pf2e.feats-srd.1WheVs50iwMBi6KC]`|
 |[Archwizard's Might](feats/class-20-tP26mgaFPpr6df1i.htm)|Puissance de l'archimage|`@Compendium[pf2e.feats-srd.tP26mgaFPpr6df1i]`|
 |[Ardent Armiger](feats/archetype-04-iKOcwFCbNX1a2OFT.htm)|Fervent écuyer|`@Compendium[pf2e.feats-srd.iKOcwFCbNX1a2OFT]`|
+|[Arise, Ye Worthy!](feats/ancestry-13-YryDlMt3zARg6j7T.htm)||`@Compendium[pf2e.feats-srd.YryDlMt3zARg6j7T]`|
 |[Armiger's Mobility](feats/archetype-08-Olx796SgBbHUFeHc.htm)|Mobilité de l'Écuyer|`@Compendium[pf2e.feats-srd.Olx796SgBbHUFeHc]`|
 |[Armor Assist](feats/skill-01-Lc4dJZivRwU3QEmT.htm)|Aide armure|`@Compendium[pf2e.feats-srd.Lc4dJZivRwU3QEmT]`|
 |[Armor Proficiency](feats/general-01-BStw1cANwx5baL6d.htm)|Maîtrise d’armure|`@Compendium[pf2e.feats-srd.BStw1cANwx5baL6d]`|
@@ -2206,6 +2314,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Attack of Opportunity](feats/class-06-NMWXHGWUcZGoLDKb.htm)|Attaque d'Opportunité|`@Compendium[pf2e.feats-srd.NMWXHGWUcZGoLDKb]`|
 |[Attack of Opportunity (Fighter)](feats/class-01-O2MwufzEHbuThoGr.htm)|Attaque d’opportunité (Guerrier)|`@Compendium[pf2e.feats-srd.O2MwufzEHbuThoGr]`|
 |[Attunement to Stone](feats/archetype-10-nDNmqez9McmrjBAV.htm)|Harmonisation avec la pierre|`@Compendium[pf2e.feats-srd.nDNmqez9McmrjBAV]`|
+|[Augment Senses](feats/ancestry-13-Y5ompgSd1JGSHt0C.htm)||`@Compendium[pf2e.feats-srd.Y5ompgSd1JGSHt0C]`|
 |[Aura Of Despair](feats/class-04-wjnfdh6WzN7HbmeE.htm)|Aura de désespoir|`@Compendium[pf2e.feats-srd.wjnfdh6WzN7HbmeE]`|
 |[Aura Of Preservation](feats/class-14-z7kwVNaCB4oJs3Fe.htm)|Aura de préservation|`@Compendium[pf2e.feats-srd.z7kwVNaCB4oJs3Fe]`|
 |[Aura of Courage](feats/class-04-TIwk07T0OxSbcOpJ.htm)|Aura de courage|`@Compendium[pf2e.feats-srd.TIwk07T0OxSbcOpJ]`|
@@ -2223,7 +2332,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Awesome Blow](feats/class-14-rCnaBbk0M1gBVHjG.htm)|Coup fabuleux|`@Compendium[pf2e.feats-srd.rCnaBbk0M1gBVHjG]`|
 |[Axe Climber](feats/archetype-04-nAgAICjPd4BSQlAj.htm)|Escalade à la hache|`@Compendium[pf2e.feats-srd.nAgAICjPd4BSQlAj]`|
 |[Axe Thrower](feats/archetype-06-pewPAMlURmTqBqJx.htm)|Lanceur de haches|`@Compendium[pf2e.feats-srd.pewPAMlURmTqBqJx]`|
+|[Axiomatic Lore](feats/ancestry-01-eWUTE7Ln3MwX6uer.htm)||`@Compendium[pf2e.feats-srd.eWUTE7Ln3MwX6uer]`|
 |[Azaersi's Roads](feats/class-17-LoZY48txEgHZxewj.htm)|Routes d'Azaersi|`@Compendium[pf2e.feats-srd.LoZY48txEgHZxewj]`|
+|[Azarketi Purification](feats/ancestry-09-u94fcPT5Oukqzql5.htm)||`@Compendium[pf2e.feats-srd.u94fcPT5Oukqzql5]`|
 |[Azata Magic](feats/ancestry-09-4hFeaF4MlqIHb6gb.htm)|Magie des azatas|`@Compendium[pf2e.feats-srd.4hFeaF4MlqIHb6gb]`|
 |[Back To Back](feats/archetype-08-E7eceezD3NDmBVBb.htm)|Dos à dos|`@Compendium[pf2e.feats-srd.E7eceezD3NDmBVBb]`|
 |[Backup Disguise](feats/skill-02-7F3sTNRoNsQgD8tX.htm)|Déguisement de secours|`@Compendium[pf2e.feats-srd.7F3sTNRoNsQgD8tX]`|
@@ -2274,6 +2385,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Battleforger](feats/ancestry-09-mnH68QcFRtkMbNE0.htm)|forgeron de bataille|`@Compendium[pf2e.feats-srd.mnH68QcFRtkMbNE0]`|
 |[Beast Speaker](feats/archetype-04-J8BSHRkmP3QLknwF.htm)|Locuteur bestial|`@Compendium[pf2e.feats-srd.J8BSHRkmP3QLknwF]`|
 |[Beast Trainer](feats/ancestry-01-wtTye8OrC9cuK7YP.htm)|Dresseur|`@Compendium[pf2e.feats-srd.wtTye8OrC9cuK7YP]`|
+|[Beastbrood](feats/ancestry-01-FwMTsYc87uU2q4Ox.htm)||`@Compendium[pf2e.feats-srd.FwMTsYc87uU2q4Ox]`|
 |[Beastmaster Bond](feats/archetype-10-3R09Hl6IDMgPcSs0.htm)|Lien du Maître des bêtes|`@Compendium[pf2e.feats-srd.3R09Hl6IDMgPcSs0]`|
 |[Beastmaster Dedication](feats/archetype-02-wdmUH6hdat7jpEWt.htm)|Dévouement de Maître des bêtes|`@Compendium[pf2e.feats-srd.wdmUH6hdat7jpEWt]`|
 |[Beastmaster's Call](feats/archetype-12-5kUQuIP8N57MXhuz.htm)|Appel du Maître des bêtes|`@Compendium[pf2e.feats-srd.5kUQuIP8N57MXhuz]`|
@@ -2291,6 +2403,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Blade of the Crimson Oath](feats/archetype-12-WO23FvCo8IYVB5RF.htm)|Lame du Serment écarlate|`@Compendium[pf2e.feats-srd.WO23FvCo8IYVB5RF]`|
 |[Blank Slate](feats/class-16-05k4nkjazjjEUoGu.htm)|Page blanche|`@Compendium[pf2e.feats-srd.05k4nkjazjjEUoGu]`|
 |[Blaze Of Revelation](feats/class-18-nLidn7L2z61Ktjzk.htm)|Brasier de révélation|`@Compendium[pf2e.feats-srd.nLidn7L2z61Ktjzk]`|
+|[Blazing Aura](feats/ancestry-17-hkU92nqUYBQLQSMt.htm)||`@Compendium[pf2e.feats-srd.hkU92nqUYBQLQSMt]`|
 |[Blazing Talon Surge](feats/class-06-XYaaj872JOO9CAws.htm)|Déferlement d'ergots enflammés|`@Compendium[pf2e.feats-srd.XYaaj872JOO9CAws]`|
 |[Bleeding Finisher](feats/class-08-dxujgA0NgiEvA0H8.htm)|Botte hémorragique|`@Compendium[pf2e.feats-srd.dxujgA0NgiEvA0H8]`|
 |[Bless Tonic](feats/skill-07-UHyoXbp8O6idQ6ee.htm)|Tonique béni|`@Compendium[pf2e.feats-srd.UHyoXbp8O6idQ6ee]`|
@@ -2321,6 +2434,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bond Conservation](feats/class-08-vhHKUooXX3PYqGaU.htm)|Conservation du lien|`@Compendium[pf2e.feats-srd.vhHKUooXX3PYqGaU]`|
 |[Bonded Animal](feats/skill-02-pLjvgeqwHrYdg411.htm)|Animal lié|`@Compendium[pf2e.feats-srd.pLjvgeqwHrYdg411]`|
 |[Bonded Focus](feats/class-14-QC2ecMZ57MRJlxco.htm)|Focalisateur lié|`@Compendium[pf2e.feats-srd.QC2ecMZ57MRJlxco]`|
+|[Bone Caller](feats/ancestry-09-B53sWzd5irAoLn2U.htm)||`@Compendium[pf2e.feats-srd.B53sWzd5irAoLn2U]`|
+|[Bone Investiture](feats/ancestry-13-XuL3g2ExgadFtWbb.htm)||`@Compendium[pf2e.feats-srd.XuL3g2ExgadFtWbb]`|
+|[Bone Magic](feats/ancestry-01-fLDhS0e6fBDjiCUA.htm)||`@Compendium[pf2e.feats-srd.fLDhS0e6fBDjiCUA]`|
 |[Boneyard's Call](feats/ancestry-17-wfOGyLnuVMFo7Rwy.htm)|Appel du Cimetière|`@Compendium[pf2e.feats-srd.wfOGyLnuVMFo7Rwy]`|
 |[Boulder Roll](feats/ancestry-05-ZZxePfQkBPuTHkt1.htm)|Pas du roc|`@Compendium[pf2e.feats-srd.ZZxePfQkBPuTHkt1]`|
 |[Bounce Back](feats/ancestry-13-MR4X38qgBj5tmkMw.htm)|Rebondir|`@Compendium[pf2e.feats-srd.MR4X38qgBj5tmkMw]`|
@@ -2331,9 +2447,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Brawling Focus](feats/class-02-VeVHWTrzE3aDm3rx.htm)|Focalisation du lutteur|`@Compendium[pf2e.feats-srd.VeVHWTrzE3aDm3rx]`|
 |[Breath Control](feats/general-01-aJUXbe9HJVvv0Mxa.htm)|Contrôle de la respiration|`@Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]`|
 |[Breath Of The Dragon](feats/archetype-08-Sr75bQtqmCM6dyAM.htm)|Souffle de dragon|`@Compendium[pf2e.feats-srd.Sr75bQtqmCM6dyAM]`|
+|[Briar Battler](feats/ancestry-09-xM8IWff5yfbQGk4s.htm)||`@Compendium[pf2e.feats-srd.xM8IWff5yfbQGk4s]`|
 |[Bright Lion Dedication](feats/archetype-02-rJ1XxUEACaQA9Lyo.htm)|Dévouement de Lion radieux|`@Compendium[pf2e.feats-srd.rJ1XxUEACaQA9Lyo]`|
 |[Brightness Seeker](feats/ancestry-09-8aRa9VHoDKl9B1Z1.htm)|Aspirant à l'illumination|`@Compendium[pf2e.feats-srd.8aRa9VHoDKl9B1Z1]`|
+|[Brightsoul](feats/ancestry-01-ICLUKJc9P0LgwVyt.htm)||`@Compendium[pf2e.feats-srd.ICLUKJc9P0LgwVyt]`|
 |[Brine May](feats/ancestry-01-jEJ6AWCctirMT7p0.htm)|Vierge de saumure|`@Compendium[pf2e.feats-srd.jEJ6AWCctirMT7p0]`|
+|[Brinesoul](feats/ancestry-01-dmEMftRe8P5iPDKo.htm)||`@Compendium[pf2e.feats-srd.dmEMftRe8P5iPDKo]`|
 |[Brutal Beating](feats/class-02-DYUlMxh7TDgEh9xB.htm)|Raclée brutale|`@Compendium[pf2e.feats-srd.DYUlMxh7TDgEh9xB]`|
 |[Brutal Bully](feats/class-06-oUhwrijg4rClCplO.htm)|Cogneur brutal|`@Compendium[pf2e.feats-srd.oUhwrijg4rClCplO]`|
 |[Brutal Critical](feats/class-18-oNHmfpe8ezZ3eKDD.htm)|Critique brutal|`@Compendium[pf2e.feats-srd.oNHmfpe8ezZ3eKDD]`|
@@ -2347,16 +2466,24 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Burrow Elocutionist](feats/ancestry-01-48X3xSWxI20RPOr9.htm)|Orateur des terriers|`@Compendium[pf2e.feats-srd.48X3xSWxI20RPOr9]`|
 |[Cackle](feats/class-01-0BR61rW4JFOfO7T7.htm)|Gloussement|`@Compendium[pf2e.feats-srd.0BR61rW4JFOfO7T7]`|
 |[Cadence Call](feats/archetype-06-a9zzu4kb7vstq0HQ.htm)|Imprimer la cadence|`@Compendium[pf2e.feats-srd.a9zzu4kb7vstq0HQ]`|
+|[Calaca's Showstopper](feats/ancestry-13-Cf0CDTZvGaYDAXUN.htm)||`@Compendium[pf2e.feats-srd.Cf0CDTZvGaYDAXUN]`|
 |[Calculated Splash](feats/class-04-UjWLK86BgHxz3Itd.htm)|Éclaboussure calculée|`@Compendium[pf2e.feats-srd.UjWLK86BgHxz3Itd]`|
 |[Call And Response](feats/class-08-JOq4Xe49A04YycRz.htm)|Appel et réponse|`@Compendium[pf2e.feats-srd.JOq4Xe49A04YycRz]`|
 |[Call Bonded Item](feats/class-04-9j90iE61ZToFR8cu.htm)|Appeler l'objet lié|`@Compendium[pf2e.feats-srd.9j90iE61ZToFR8cu]`|
+|[Call Of The Green Man](feats/ancestry-13-uDFgL6uCwJsaTHi3.htm)||`@Compendium[pf2e.feats-srd.uDFgL6uCwJsaTHi3]`|
 |[Call Your Shot](feats/archetype-08-SfBXPmADMFiZIBQt.htm)|Annoncer votre coup|`@Compendium[pf2e.feats-srd.SfBXPmADMFiZIBQt]`|
+|[Call of Elysium](feats/ancestry-09-2i82PgD1BEtAVeZt.htm)||`@Compendium[pf2e.feats-srd.2i82PgD1BEtAVeZt]`|
 |[Call of the Wild](feats/class-02-ZvPgibovxwiN8Wse.htm)|Appel de la nature|`@Compendium[pf2e.feats-srd.ZvPgibovxwiN8Wse]`|
 |[Called](feats/ancestry-05-2vlQ09QIBli5u9Gz.htm)|Appelé|`@Compendium[pf2e.feats-srd.2vlQ09QIBli5u9Gz]`|
 |[Callow May](feats/ancestry-01-IFvjnLMw3ht8f84U.htm)|Vierge novice|`@Compendium[pf2e.feats-srd.IFvjnLMw3ht8f84U]`|
 |[Camouflage](feats/class-10-qqe5VmcO1s8iTOfd.htm)|Camouflage|`@Compendium[pf2e.feats-srd.qqe5VmcO1s8iTOfd]`|
 |[Canny Acumen](feats/general-01-i4yRvVwvXbGZDsD1.htm)|Perspicacité astucieuse|`@Compendium[pf2e.feats-srd.i4yRvVwvXbGZDsD1]`|
+|[Cantorian Reinforcement](feats/ancestry-01-0qshtd4mBcjFAxA8.htm)||`@Compendium[pf2e.feats-srd.0qshtd4mBcjFAxA8]`|
+|[Cantorian Rejuvenation](feats/ancestry-09-56HvICglqH7uR3AY.htm)||`@Compendium[pf2e.feats-srd.56HvICglqH7uR3AY]`|
+|[Cantorian Restoration](feats/ancestry-17-Qc9MH7wT182qasSV.htm)||`@Compendium[pf2e.feats-srd.Qc9MH7wT182qasSV]`|
 |[Cantrip Expansion](feats/class-02-A7ofsoPva0UtjqrX.htm)|Expansion de tour de magie|`@Compendium[pf2e.feats-srd.A7ofsoPva0UtjqrX]`|
+|[Can’t Fall Here](feats/ancestry-13-XJfUj2o4HdL5waZL.htm)||`@Compendium[pf2e.feats-srd.XJfUj2o4HdL5waZL]`|
+|[Captivating Curiosity](feats/ancestry-09-uOFzs058hy144rzm.htm)||`@Compendium[pf2e.feats-srd.uOFzs058hy144rzm]`|
 |[Caravan Leader](feats/general-11-5ZsmRm7HvFAw2XDZ.htm)|Chef de caravane|`@Compendium[pf2e.feats-srd.5ZsmRm7HvFAw2XDZ]`|
 |[Careful Explorer](feats/archetype-04-qQh8wnslOagixxD1.htm)|Explorateur vigilant|`@Compendium[pf2e.feats-srd.qQh8wnslOagixxD1]`|
 |[Cartwheel Dodge](feats/archetype-12-lmAuoHPxzQdaSUmN.htm)|Esquive des chars|`@Compendium[pf2e.feats-srd.lmAuoHPxzQdaSUmN]`|
@@ -2365,12 +2492,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cast Down](feats/class-06-lGCFVYjL9Lp5m9Ex.htm)|Incantation renversante|`@Compendium[pf2e.feats-srd.lGCFVYjL9Lp5m9Ex]`|
 |[Castigating Weapon](feats/class-10-tSmd0cxq9wokSCh4.htm)|Arme Punitive|`@Compendium[pf2e.feats-srd.tSmd0cxq9wokSCh4]`|
 |[Cat Fall](feats/skill-01-LQw0yIMDUJJkq1nD.htm)|Chute féline|`@Compendium[pf2e.feats-srd.LQw0yIMDUJJkq1nD]`|
+|[Cat Nap](feats/ancestry-01-zvtYsz9jk8tPvlpS.htm)||`@Compendium[pf2e.feats-srd.zvtYsz9jk8tPvlpS]`|
 |[Cat's Luck](feats/ancestry-01-7qBuzHY8kEG8SdEP.htm)|Chance féline|`@Compendium[pf2e.feats-srd.7qBuzHY8kEG8SdEP]`|
+|[Catchy Tune](feats/ancestry-05-ACXWB7a38ETc32Qj.htm)||`@Compendium[pf2e.feats-srd.ACXWB7a38ETc32Qj]`|
 |[Caterwaul](feats/ancestry-13-nePEcAp7lTL35uyx.htm)|Feuler|`@Compendium[pf2e.feats-srd.nePEcAp7lTL35uyx]`|
+|[Catfolk Dance](feats/ancestry-01-Iqv8qj7ym63YjexN.htm)||`@Compendium[pf2e.feats-srd.Iqv8qj7ym63YjexN]`|
 |[Catfolk Lore](feats/ancestry-01-eqBWab1J5Be24YAl.htm)|Connaissance des Hommes-félins|`@Compendium[pf2e.feats-srd.eqBWab1J5Be24YAl]`|
 |[Catfolk Weapon Expertise](feats/ancestry-13-dgpoTae18H4zc9fH.htm)|Expertise avec les armes des hommes-félins|`@Compendium[pf2e.feats-srd.dgpoTae18H4zc9fH]`|
 |[Catfolk Weapon Familiarity](feats/ancestry-01-bEh5qUgX5eFaQwzU.htm)|Familiarité avec les armes des hommes-félins|`@Compendium[pf2e.feats-srd.bEh5qUgX5eFaQwzU]`|
 |[Catfolk Weapon Rake](feats/ancestry-05-8Mo0fKRAz1TVbrr1.htm)|Armes griffantes des hommes-félins|`@Compendium[pf2e.feats-srd.8Mo0fKRAz1TVbrr1]`|
+|[Catrina's Presence](feats/ancestry-09-pt4oMtjAVGFQHtVw.htm)||`@Compendium[pf2e.feats-srd.pt4oMtjAVGFQHtVw]`|
 |[Cauldron](feats/class-01-zUtdBd3IbM7UX0AD.htm)|Chaudron|`@Compendium[pf2e.feats-srd.zUtdBd3IbM7UX0AD]`|
 |[Cautious Curiosity](feats/ancestry-09-ZPK2Un5ChzeNc9Dx.htm)|Curiosité précautionneuse|`@Compendium[pf2e.feats-srd.ZPK2Un5ChzeNc9Dx]`|
 |[Cautious Delver](feats/archetype-10-EpWgrMznGbm8gceW.htm)|Fouilleur précautionneux|`@Compendium[pf2e.feats-srd.EpWgrMznGbm8gceW]`|
@@ -2379,6 +2510,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cavalier's Charge](feats/archetype-04-Vab3XIirjs3KQh3t.htm)|Charge du cavalier|`@Compendium[pf2e.feats-srd.Vab3XIirjs3KQh3t]`|
 |[Cave Climber](feats/ancestry-09-bo4JG09pkoS7ywSZ.htm)|Grimpeur des cavernes|`@Compendium[pf2e.feats-srd.bo4JG09pkoS7ywSZ]`|
 |[Ceaseless Shadows](feats/ancestry-13-PfHvTR0L9ShjhWiP.htm)|Ombres incessantes|`@Compendium[pf2e.feats-srd.PfHvTR0L9ShjhWiP]`|
+|[Cel Rau](feats/ancestry-01-keMP6xVg4fMloczj.htm)||`@Compendium[pf2e.feats-srd.keMP6xVg4fMloczj]`|
 |[Celebrity Dedication](feats/archetype-02-MNArjo5Z5LUYITQm.htm)|Dévouement de Célébrité|`@Compendium[pf2e.feats-srd.MNArjo5Z5LUYITQm]`|
 |[Celestial Eyes](feats/ancestry-01-akCO62yBCJLjjCZJ.htm)|Yeux célestes|`@Compendium[pf2e.feats-srd.akCO62yBCJLjjCZJ]`|
 |[Celestial Form](feats/class-18-VAbfepohLNtubfi3.htm)|Forme Céleste|`@Compendium[pf2e.feats-srd.VAbfepohLNtubfi3]`|
@@ -2393,33 +2525,43 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Champion Resiliency](feats/archetype-04-qWb5IxkBUpJWKSLf.htm)|Résilence du champion|`@Compendium[pf2e.feats-srd.qWb5IxkBUpJWKSLf]`|
 |[Champion's Reaction](feats/archetype-06-7wk6yVM3OJdc4LEU.htm)|Réaction de champion|`@Compendium[pf2e.feats-srd.7wk6yVM3OJdc4LEU]`|
 |[Champion's Sacrifice](feats/class-12-U4AoJMBhJaFq5O1S.htm)|Sacrifice du Champion|`@Compendium[pf2e.feats-srd.U4AoJMBhJaFq5O1S]`|
+|[Chance Death](feats/ancestry-01-uiNRrdnJe0GOzy6Q.htm)||`@Compendium[pf2e.feats-srd.uiNRrdnJe0GOzy6Q]`|
 |[Changeling Lore](feats/ancestry-01-4mLlHpD41101H0Iy.htm)|Connaissance des Changelins|`@Compendium[pf2e.feats-srd.4mLlHpD41101H0Iy]`|
 |[Channel Smite](feats/class-04-o5q9FBrPsAYqEl5w.htm)|Châtiment canalisé|`@Compendium[pf2e.feats-srd.o5q9FBrPsAYqEl5w]`|
+|[Channel The Godmind](feats/ancestry-17-DYFOlJlMoDuHjrZx.htm)||`@Compendium[pf2e.feats-srd.DYFOlJlMoDuHjrZx]`|
 |[Channeled Succor](feats/class-08-0PcVi7eav6PMLOPl.htm)|Secours canalisé|`@Compendium[pf2e.feats-srd.0PcVi7eav6PMLOPl]`|
 |[Charged Creation](feats/archetype-12-ADVrDjp75fr2BYMa.htm)|Création chargée|`@Compendium[pf2e.feats-srd.ADVrDjp75fr2BYMa]`|
 |[Charlatan](feats/skill-01-lQs2i9L09MQiZSPC.htm)|Charlatan|`@Compendium[pf2e.feats-srd.lQs2i9L09MQiZSPC]`|
 |[Charmed Life](feats/class-02-DkoxNw9tsFFXrfJY.htm)|Vie chanceuse|`@Compendium[pf2e.feats-srd.DkoxNw9tsFFXrfJY]`|
 |[Charming Liar](feats/skill-01-B6HbYsLBWb1RR6Fx.htm)|Menteur charismatique|`@Compendium[pf2e.feats-srd.B6HbYsLBWb1RR6Fx]`|
+|[Charred Remains](feats/ancestry-09-zsWIZQeVhIihNw6M.htm)||`@Compendium[pf2e.feats-srd.zsWIZQeVhIihNw6M]`|
 |[Cheat Death](feats/class-12-D2KSVHPRlBEibrV8.htm)|Trompe la mort|`@Compendium[pf2e.feats-srd.D2KSVHPRlBEibrV8]`|
 |[Cheek Pouches](feats/ancestry-01-Pox93XMBaFmeLIDM.htm)|Abajoues|`@Compendium[pf2e.feats-srd.Pox93XMBaFmeLIDM]`|
 |[Chemical Contagion](feats/class-16-IA8p9oYmsCbipmhw.htm)|Contagion chimique|`@Compendium[pf2e.feats-srd.IA8p9oYmsCbipmhw]`|
 |[Chosen of Lamashtu](feats/ancestry-05-eVn6hBjNjTB4liKw.htm)|Élu de Lamashtu|`@Compendium[pf2e.feats-srd.eVn6hBjNjTB4liKw]`|
+|[Cindersoul](feats/ancestry-01-HZJqMESaEHTfefz3.htm)||`@Compendium[pf2e.feats-srd.HZJqMESaEHTfefz3]`|
 |[City Scavenger](feats/ancestry-01-g388ImzpenYBoiEF.htm)|Charognard urbain|`@Compendium[pf2e.feats-srd.g388ImzpenYBoiEF]`|
 |[Clan Protector](feats/ancestry-05-ya9YlhUA4WspUlHB.htm)|Protecteur de clan|`@Compendium[pf2e.feats-srd.ya9YlhUA4WspUlHB]`|
 |[Clan's Edge](feats/ancestry-01-X7wFUWjYjYhzpejU.htm)|Avantage du clan|`@Compendium[pf2e.feats-srd.X7wFUWjYjYhzpejU]`|
 |[Claws Of The Dragon](feats/archetype-04-uMjczqcXuteoP7lf.htm)|Griffes de dragon|`@Compendium[pf2e.feats-srd.uMjczqcXuteoP7lf]`|
+|[Cleansing Subroutine](feats/ancestry-01-EEJKztPOpy5utha9.htm)||`@Compendium[pf2e.feats-srd.EEJKztPOpy5utha9]`|
 |[Clear The Way](feats/archetype-06-goFxIDlbWd8GN0kj.htm)|Nettoyer le passage|`@Compendium[pf2e.feats-srd.goFxIDlbWd8GN0kj]`|
 |[Cleave](feats/class-06-GE96a0UGPYM74qjI.htm)|Coup tranchant|`@Compendium[pf2e.feats-srd.GE96a0UGPYM74qjI]`|
 |[Cleric Dedication](feats/archetype-02-smCDaPlpRDA47xjK.htm)|Dévouement du prêtre|`@Compendium[pf2e.feats-srd.smCDaPlpRDA47xjK]`|
 |[Clever Counterspell](feats/class-12-IMPP5pa8AmvCby4W.htm)|Contresort astucieux|`@Compendium[pf2e.feats-srd.IMPP5pa8AmvCby4W]`|
 |[Clever Gambit](feats/class-02-D1o7GUraoFFzjaub.htm)|Manœuvre intelligente|`@Compendium[pf2e.feats-srd.D1o7GUraoFFzjaub]`|
 |[Clever Improviser](feats/ancestry-05-KcbSxOPYC5CUqbZQ.htm)|Improvisateur astucieux|`@Compendium[pf2e.feats-srd.KcbSxOPYC5CUqbZQ]`|
+|[Clever Shadow](feats/ancestry-05-IsNs6hXQm9pJcXB1.htm)||`@Compendium[pf2e.feats-srd.IsNs6hXQm9pJcXB1]`|
 |[Climbing Claws](feats/ancestry-05-TlMSleKR8Bh0EuSW.htm)|Griffes du grimpeur|`@Compendium[pf2e.feats-srd.TlMSleKR8Bh0EuSW]`|
 |[Cling](feats/ancestry-09-SiedJ6hnDLEGeeBj.htm)|Cramponné|`@Compendium[pf2e.feats-srd.SiedJ6hnDLEGeeBj]`|
 |[Clinging Shadows Initiate](feats/class-08-QkKMile0qqmuVY67.htm)|Initié des ombres tenaces|`@Compendium[pf2e.feats-srd.QkKMile0qqmuVY67]`|
+|[Cloak Of Poison](feats/ancestry-13-fnMT0AsZXFW9Ppyp.htm)||`@Compendium[pf2e.feats-srd.fnMT0AsZXFW9Ppyp]`|
+|[Close Quarters](feats/ancestry-09-rU9Aw05FFLVq0MTV.htm)||`@Compendium[pf2e.feats-srd.rU9Aw05FFLVq0MTV]`|
+|[Cloud Gazer](feats/ancestry-05-SzZFmcfLoHMAS0gt.htm)||`@Compendium[pf2e.feats-srd.SzZFmcfLoHMAS0gt]`|
 |[Cloud Jump](feats/skill-15-TVFfTP9fHRidwBlW.htm)|Saut plané|`@Compendium[pf2e.feats-srd.TVFfTP9fHRidwBlW]`|
 |[Cloud Step](feats/class-16-r7FGPKl5e0xB4tuj.htm)|Pas nuageux|`@Compendium[pf2e.feats-srd.r7FGPKl5e0xB4tuj]`|
 |[Clue Them All In](feats/class-08-264KzmKMK4zqi6AR.htm)|Mise en commun des indices|`@Compendium[pf2e.feats-srd.264KzmKMK4zqi6AR]`|
+|[Coating Of Slime](feats/ancestry-09-pr7e8xzrl8OLp6U9.htm)||`@Compendium[pf2e.feats-srd.pr7e8xzrl8OLp6U9]`|
 |[Cobble Dancer](feats/ancestry-13-MII0ybm76DkDxsId.htm)|Danseur des pavés|`@Compendium[pf2e.feats-srd.MII0ybm76DkDxsId]`|
 |[Cobra Envenom](feats/class-10-xQuNswWB3eg1UM28.htm)|Posture du cobra|`@Compendium[pf2e.feats-srd.xQuNswWB3eg1UM28]`|
 |[Cobra Stance](feats/class-04-AkV4Jyllo6nlK2Sl.htm)|Posture du Cobra|`@Compendium[pf2e.feats-srd.AkV4Jyllo6nlK2Sl]`|
@@ -2444,16 +2586,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Confabulator](feats/skill-02-6Z4e3B9vePYpibcy.htm)|Affabulateur|`@Compendium[pf2e.feats-srd.6Z4e3B9vePYpibcy]`|
 |[Connect The Dots](feats/class-06-gwIgB6bMh0sruyX7.htm)|Relier les points|`@Compendium[pf2e.feats-srd.gwIgB6bMh0sruyX7]`|
 |[Connections](feats/skill-02-iCv8KTZ5PcF4GqeV.htm)|Relations|`@Compendium[pf2e.feats-srd.iCv8KTZ5PcF4GqeV]`|
+|[Consistent Surge](feats/general-13-O65q744snXtC5Uc4.htm)||`@Compendium[pf2e.feats-srd.O65q744snXtC5Uc4]`|
 |[Consult The Spirits](feats/skill-07-fvYwsHM9O1twQa5N.htm)|Consulter les esprits|`@Compendium[pf2e.feats-srd.fvYwsHM9O1twQa5N]`|
+|[Consult The Stars](feats/ancestry-01-NySPRgD0FjZY2QGs.htm)||`@Compendium[pf2e.feats-srd.NySPRgD0FjZY2QGs]`|
 |[Consume Spell](feats/class-14-d8yggbcJsKKyHip7.htm)|Consommer un sort|`@Compendium[pf2e.feats-srd.d8yggbcJsKKyHip7]`|
 |[Contagious Rage](feats/class-20-nJe8eQUrIpKWLXh5.htm)|Rage contagieuse|`@Compendium[pf2e.feats-srd.nJe8eQUrIpKWLXh5]`|
 |[Continual Recovery](feats/skill-02-c85a69mB1urW2Se2.htm)|Récupération continue|`@Compendium[pf2e.feats-srd.c85a69mB1urW2Se2]`|
+|[Continuous Assault](feats/ancestry-13-I3Md8XYhuMVSJqKI.htm)||`@Compendium[pf2e.feats-srd.I3Md8XYhuMVSJqKI]`|
 |[Contortionist](feats/archetype-04-JO3mcFvxjRp1V8XK.htm)|Contortionniste|`@Compendium[pf2e.feats-srd.JO3mcFvxjRp1V8XK]`|
 |[Convincing Illusion](feats/class-06-bSXcyu7ExWq9qUzG.htm)|Illusion convaincante|`@Compendium[pf2e.feats-srd.bSXcyu7ExWq9qUzG]`|
 |[Cooperative Nature](feats/ancestry-01-lwLcUHQMOqfaNND4.htm)|Nature coopérative|`@Compendium[pf2e.feats-srd.lwLcUHQMOqfaNND4]`|
 |[Cooperative Soul](feats/ancestry-09-Z2EiYMtGoNnwW6Tk.htm)|Âme coopérative|`@Compendium[pf2e.feats-srd.Z2EiYMtGoNnwW6Tk]`|
 |[Coordinated Charge](feats/archetype-12-KYF9e4oeSjHKgbwM.htm)|Charge Coordonnée|`@Compendium[pf2e.feats-srd.KYF9e4oeSjHKgbwM]`|
 |[Coordinated Distraction](feats/class-12-XyQpqznuO5LGFvhz.htm)|Diversion coordonnée|`@Compendium[pf2e.feats-srd.XyQpqznuO5LGFvhz]`|
+|[Corgi Mount](feats/ancestry-01-9OdLdxvH5M9FyYSm.htm)||`@Compendium[pf2e.feats-srd.9OdLdxvH5M9FyYSm]`|
+|[Cornered Fury](feats/ancestry-05-ulrGnvF0KAgEaifX.htm)||`@Compendium[pf2e.feats-srd.ulrGnvF0KAgEaifX]`|
 |[Corrupted Shield](feats/class-06-uH3ZRkXPsXi1ChO2.htm)|Bouclier corrompu|`@Compendium[pf2e.feats-srd.uH3ZRkXPsXi1ChO2]`|
 |[Counter Perform](feats/archetype-06-t5zeg3m9rEnWnYXY.htm)|Contre-représentation|`@Compendium[pf2e.feats-srd.t5zeg3m9rEnWnYXY]`|
 |[Counterspell (Prepared)](feats/class-01-EpBG4CFMNSZQx7vI.htm)|Contresort (Préparé)|`@Compendium[pf2e.feats-srd.EpBG4CFMNSZQx7vI]`|
@@ -2471,11 +2618,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Crafter's Appraisal](feats/skill-01-voYr7ygVcWmlg1f4.htm)|Évaluation artisanale|`@Compendium[pf2e.feats-srd.voYr7ygVcWmlg1f4]`|
 |[Crane Flutter](feats/class-06-S14S52HjszTgIy4l.htm)|Battement d'aile de la grue|`@Compendium[pf2e.feats-srd.S14S52HjszTgIy4l]`|
 |[Crane Stance](feats/class-01-bf7NCeKqDClaqhTR.htm)|Posture de la grue|`@Compendium[pf2e.feats-srd.bf7NCeKqDClaqhTR]`|
+|[Creative Prodigy](feats/ancestry-01-3J0NxeHcA1h9eToK.htm)||`@Compendium[pf2e.feats-srd.3J0NxeHcA1h9eToK]`|
 |[Cremate Undead](feats/class-08-nLTTph2tgwcQghVq.htm)|Incinération de morts-vivants|`@Compendium[pf2e.feats-srd.nLTTph2tgwcQghVq]`|
 |[Criminal Connections](feats/skill-02-LDUWw2TeEEH0KA6M.htm)|Réseau criminel|`@Compendium[pf2e.feats-srd.LDUWw2TeEEH0KA6M]`|
 |[Crimson Shroud](feats/archetype-06-M2V1vqAziOkWV30B.htm)|Voile pourpre|`@Compendium[pf2e.feats-srd.M2V1vqAziOkWV30B]`|
 |[Cringe](feats/ancestry-01-WoKiYMCXV27szBdy.htm)|Recroquevillé|`@Compendium[pf2e.feats-srd.WoKiYMCXV27szBdy]`|
 |[Critical Debilitation](feats/class-12-lPTcPIshChHWz4J6.htm)|Handicap critique|`@Compendium[pf2e.feats-srd.lPTcPIshChHWz4J6]`|
+|[Critter Shape](feats/ancestry-01-F6C25qZ9UNYPw7pj.htm)||`@Compendium[pf2e.feats-srd.F6C25qZ9UNYPw7pj]`|
+|[Crone's Cruelty](feats/ancestry-17-kt5UJEfTzO3LiInN.htm)||`@Compendium[pf2e.feats-srd.kt5UJEfTzO3LiInN]`|
 |[Cross the Final Horizon](feats/archetype-20-8YSwzLNlmBLoEyUj.htm)|Traverser l'horizon final|`@Compendium[pf2e.feats-srd.8YSwzLNlmBLoEyUj]`|
 |[Crossblooded Evolution](feats/class-08-CN7tu5H6wTe9ENmO.htm)|Évolution métisée|`@Compendium[pf2e.feats-srd.CN7tu5H6wTe9ENmO]`|
 |[Crossbow Ace](feats/class-01-CpjN7v1QN8TQFcvI.htm)|Arbalétrier émérite|`@Compendium[pf2e.feats-srd.CpjN7v1QN8TQFcvI]`|
@@ -2486,8 +2636,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Crushing Grab](feats/class-02-hGjmbTNBUiJqYvsE.htm)|Poigne écrasante|`@Compendium[pf2e.feats-srd.hGjmbTNBUiJqYvsE]`|
 |[Crystal Keeper Dedication](feats/archetype-04-ELdUj5ihdivlgb3H.htm)|Dévouement de Gardien du Cristal|`@Compendium[pf2e.feats-srd.ELdUj5ihdivlgb3H]`|
 |[Crystal Ward Spells](feats/archetype-04-NrZt98r47sPSQ06j.htm)|Magie des glyphes de cristal|`@Compendium[pf2e.feats-srd.NrZt98r47sPSQ06j]`|
+|[Crystalline Cloud](feats/ancestry-09-RN5aZCzEnmlYmBf5.htm)||`@Compendium[pf2e.feats-srd.RN5aZCzEnmlYmBf5]`|
+|[Crystalline Dust](feats/ancestry-05-Ewk7h9aQpKvy1RJo.htm)||`@Compendium[pf2e.feats-srd.Ewk7h9aQpKvy1RJo]`|
 |[Cultural Adaptability](feats/ancestry-05-Z56DtGBd3AcZOCeG.htm)|Adaptabilité culturelle|`@Compendium[pf2e.feats-srd.Z56DtGBd3AcZOCeG]`|
 |[Cunning Climber](feats/ancestry-09-swsMURQBMXZpjWl8.htm)|Escalade ingénieuse|`@Compendium[pf2e.feats-srd.swsMURQBMXZpjWl8]`|
+|[Cunning Hair](feats/ancestry-05-otr60veuPNygNDFY.htm)||`@Compendium[pf2e.feats-srd.otr60veuPNygNDFY]`|
 |[Current Spell](feats/class-06-ajesR7y0jWzqjAgc.htm)|Sort à contre courant|`@Compendium[pf2e.feats-srd.ajesR7y0jWzqjAgc]`|
 |[Cut From The Air](feats/class-10-6xBu4BewIkOIt9M0.htm)|Découper en l'air|`@Compendium[pf2e.feats-srd.6xBu4BewIkOIt9M0]`|
 |[Cut the Bonds](feats/archetype-12-r0twuF5nxXN5lkLk.htm)|Couper les liens|`@Compendium[pf2e.feats-srd.r0twuF5nxXN5lkLk]`|
@@ -2496,10 +2649,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dancing Leaf](feats/class-02-OWhTAowdMvBZnCrT.htm)|Feuille dansante|`@Compendium[pf2e.feats-srd.OWhTAowdMvBZnCrT]`|
 |[Dandy Dedication](feats/archetype-02-4M5zIlJ8EvjQDtg9.htm)|Dévouement du Dandy|`@Compendium[pf2e.feats-srd.4M5zIlJ8EvjQDtg9]`|
 |[Dangerous Sorcery](feats/class-01-emRfSVvU8ZAH9UdK.htm)|Sorcellerie dangereuse|`@Compendium[pf2e.feats-srd.emRfSVvU8ZAH9UdK]`|
+|[Dangle](feats/ancestry-09-AGznaQpn2cE6jz9H.htm)||`@Compendium[pf2e.feats-srd.AGznaQpn2cE6jz9H]`|
 |[Daredevil's Gambit](feats/class-12-6DkylvU5RF1O6DTT.htm)|Manœuvre téméraire|`@Compendium[pf2e.feats-srd.6DkylvU5RF1O6DTT]`|
 |[Daring Act](feats/archetype-06-cny7ouhsoiNsWJ7X.htm)|Acte culotté|`@Compendium[pf2e.feats-srd.cny7ouhsoiNsWJ7X]`|
 |[Daring Flourish](feats/archetype-10-O1C6pMTOxIrWBO3G.htm)|Sophistication culottée|`@Compendium[pf2e.feats-srd.O1C6pMTOxIrWBO3G]`|
 |[Darkseer](feats/ancestry-05-XM4zR0q9rBxjR3lG.htm)|Voyant ombral|`@Compendium[pf2e.feats-srd.XM4zR0q9rBxjR3lG]`|
+|[Daywalker](feats/ancestry-13-gwzjvKQQ6zmgVVmS.htm)||`@Compendium[pf2e.feats-srd.gwzjvKQQ6zmgVVmS]`|
 |[Dazing Blow](feats/class-06-2HoDwBAmPIAoKUVF.htm)|Coup étourdissant|`@Compendium[pf2e.feats-srd.2HoDwBAmPIAoKUVF]`|
 |[Dead Reckoning](feats/archetype-04-68Kc4UyhnP4l8mxq.htm)|Calcul de position|`@Compendium[pf2e.feats-srd.68Kc4UyhnP4l8mxq]`|
 |[Deadly Aim](feats/class-08-enPAJ1oSDutts7ic.htm)|Visée mortelle|`@Compendium[pf2e.feats-srd.enPAJ1oSDutts7ic]`|
@@ -2516,6 +2671,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Decry Thief](feats/archetype-04-4HHw2DjTxdv1jBZd.htm)|Fléau des voleurs|`@Compendium[pf2e.feats-srd.4HHw2DjTxdv1jBZd]`|
 |[Dedication to the Five](feats/bonus-00-UHejQS4uCNGRI45t.htm)||`@Compendium[pf2e.feats-srd.UHejQS4uCNGRI45t]`|
 |[Deep Lore](feats/class-18-iTtnN49D8ZJ2Ilur.htm)|Savoir approfondi|`@Compendium[pf2e.feats-srd.iTtnN49D8ZJ2Ilur]`|
+|[Deep Vision](feats/ancestry-01-qVk9htKv47niPmXS.htm)||`@Compendium[pf2e.feats-srd.qVk9htKv47niPmXS]`|
 |[Deeper Dabbler](feats/archetype-08-PTXZ2C3AV8tZf0iX.htm)|Amateur approfondi|`@Compendium[pf2e.feats-srd.PTXZ2C3AV8tZf0iX]`|
 |[Defend Mount](feats/archetype-06-sflJhnFzYfqZ2tDy.htm)|Défendre sa monture|`@Compendium[pf2e.feats-srd.sflJhnFzYfqZ2tDy]`|
 |[Defensive Coordination](feats/class-06-515N9nl9ChZwLWKR.htm)|Coordination défensive|`@Compendium[pf2e.feats-srd.515N9nl9ChZwLWKR]`|
@@ -2524,11 +2680,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Defiance Unto Death](feats/ancestry-05-5AnJTAZnuWrkL8fa.htm)|Défi jusqu'à la mort|`@Compendium[pf2e.feats-srd.5AnJTAZnuWrkL8fa]`|
 |[Deflect Arrow](feats/class-04-sgaqlDFTVC7Ryurt.htm)|Parade de projectiles|`@Compendium[pf2e.feats-srd.sgaqlDFTVC7Ryurt]`|
 |[Deft Cooperation](feats/archetype-04-8pmd9gMl3TamFx3u.htm)|Collaboration avisée|`@Compendium[pf2e.feats-srd.8pmd9gMl3TamFx3u]`|
+|[Defy Death](feats/ancestry-05-OXhrwQgnZdOi81Yi.htm)||`@Compendium[pf2e.feats-srd.OXhrwQgnZdOi81Yi]`|
 |[Defy The Darkness](feats/ancestry-05-G1BPXzTzrUE4IndV.htm)|Défier l'obscurité|`@Compendium[pf2e.feats-srd.G1BPXzTzrUE4IndV]`|
 |[Deimatic Display](feats/class-08-UFVw57jWNC4UCfyN.htm)|Intimidation déimatique|`@Compendium[pf2e.feats-srd.UFVw57jWNC4UCfyN]`|
 |[Deity's Domain](feats/class-01-FXKIALDXAzEBfj5A.htm)|Domaine de la divinité|`@Compendium[pf2e.feats-srd.FXKIALDXAzEBfj5A]`|
 |[Deity's Protection](feats/class-14-DUb1VWSbTjdsbAkQ.htm)|Protection de la divinité|`@Compendium[pf2e.feats-srd.DUb1VWSbTjdsbAkQ]`|
 |[Delay Trap](feats/class-08-Ar6W97iun6yYI8Df.htm)|Retardement de piège|`@Compendium[pf2e.feats-srd.Ar6W97iun6yYI8Df]`|
+|[Deliberate Death](feats/ancestry-01-30e9SdbmI3t5OJQE.htm)||`@Compendium[pf2e.feats-srd.30e9SdbmI3t5OJQE]`|
 |[Demanding Challenge](feats/archetype-10-n0693gmx3k9wvb1N.htm)|Défi exigeant|`@Compendium[pf2e.feats-srd.n0693gmx3k9wvb1N]`|
 |[Demolition Charge](feats/class-02-KCwXj3y7Nm4e3NbI.htm)|Explosion de démolition|`@Compendium[pf2e.feats-srd.KCwXj3y7Nm4e3NbI]`|
 |[Demon Magic](feats/ancestry-09-3N6T7AQETVKaAwiR.htm)|Magie des démons|`@Compendium[pf2e.feats-srd.3N6T7AQETVKaAwiR]`|
@@ -2543,8 +2701,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Determined Dash](feats/class-10-vgsMKjAbRDNxT5TK.htm)|Élan déterminé|`@Compendium[pf2e.feats-srd.vgsMKjAbRDNxT5TK]`|
 |[Determined Lore Seeker](feats/archetype-12-OyOpHPOXC08bffVR.htm)|Chercheur de connaissances déterminé|`@Compendium[pf2e.feats-srd.OyOpHPOXC08bffVR]`|
 |[Devil Allies](feats/bonus-00-w7dOgJvqAqyqSeSQ.htm)||`@Compendium[pf2e.feats-srd.w7dOgJvqAqyqSeSQ]`|
+|[Devil In Plain Sight](feats/ancestry-05-DSyLFBi2LcUxeORh.htm)||`@Compendium[pf2e.feats-srd.DSyLFBi2LcUxeORh]`|
 |[Devil Magic](feats/ancestry-09-DunjA0vLZeozcNxu.htm)|Magie des diables|`@Compendium[pf2e.feats-srd.DunjA0vLZeozcNxu]`|
 |[Devil's Advocate](feats/ancestry-01-8nF3r3NHW2uSRgwb.htm)|Avocat du diable|`@Compendium[pf2e.feats-srd.8nF3r3NHW2uSRgwb]`|
+|[Devilish Wiles](feats/ancestry-05-pc00hoz4ILmqUwSC.htm)||`@Compendium[pf2e.feats-srd.pc00hoz4ILmqUwSC]`|
 |[Devoted Focus](feats/class-10-FIsMdgvGji5Nci8l.htm)|Focalisation dévouée|`@Compendium[pf2e.feats-srd.FIsMdgvGji5Nci8l]`|
 |[Diabolic Certitude](feats/skill-04-WxL8NMW9JQ5igu0C.htm)|Certitude diabolique|`@Compendium[pf2e.feats-srd.WxL8NMW9JQ5igu0C]`|
 |[Diamond Fists](feats/class-18-zTulA4sVXwLRm28Z.htm)|Poings de diamant|`@Compendium[pf2e.feats-srd.zTulA4sVXwLRm28Z]`|
@@ -2553,6 +2713,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Diehard](feats/general-01-I0BhPWqYf1bbzEYg.htm)|Dur à cuir|`@Compendium[pf2e.feats-srd.I0BhPWqYf1bbzEYg]`|
 |[Different Worlds](feats/general-01-z1Z22gTp7J1VRLSR.htm)|Mondes différents|`@Compendium[pf2e.feats-srd.z1Z22gTp7J1VRLSR]`|
 |[Dig Quickly](feats/ancestry-01-PsLne80WUsD4IFa6.htm)|Creuser rapidement|`@Compendium[pf2e.feats-srd.PsLne80WUsD4IFa6]`|
+|[Dire Form](feats/general-13-X5NRdQ1W0Y5t6MFi.htm)||`@Compendium[pf2e.feats-srd.X5NRdQ1W0Y5t6MFi]`|
 |[Directed Audience](feats/class-02-ot0uyFtnC1Whz5bp.htm)|Public choisi|`@Compendium[pf2e.feats-srd.ot0uyFtnC1Whz5bp]`|
 |[Directed Channel](feats/class-04-iojlXjVdbzi1fZGt.htm)|Canalisation dirigée|`@Compendium[pf2e.feats-srd.iojlXjVdbzi1fZGt]`|
 |[Directional Bombs](feats/class-06-ozvYhY4hG1deXly8.htm)|Bombes directionnelles|`@Compendium[pf2e.feats-srd.ozvYhY4hG1deXly8]`|
@@ -2598,9 +2759,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Divine Wall](feats/class-12-jNeIaFUFSGUXoSON.htm)|Mur divin|`@Compendium[pf2e.feats-srd.jNeIaFUFSGUXoSON]`|
 |[Divine Weapon](feats/class-06-Trj5azJlaOk5jgBi.htm)|Arme divine|`@Compendium[pf2e.feats-srd.Trj5azJlaOk5jgBi]`|
 |[Diviner Sense](feats/class-12-3WUL8ExEkZDRYeBu.htm)|Sens du devin|`@Compendium[pf2e.feats-srd.3WUL8ExEkZDRYeBu]`|
+|[Djinni Magic](feats/ancestry-09-nHoRM1gLL7MtIiCS.htm)||`@Compendium[pf2e.feats-srd.nHoRM1gLL7MtIiCS]`|
 |[Doctor's Visitation](feats/archetype-04-1fBHZpM3Z3MQtzvi.htm)|Tournée du médecin|`@Compendium[pf2e.feats-srd.1fBHZpM3Z3MQtzvi]`|
 |[Dodge Away](feats/archetype-06-0qGLCpggCcOVkbtT.htm)|S'esquiver au loin|`@Compendium[pf2e.feats-srd.0qGLCpggCcOVkbtT]`|
 |[Dodging Roll](feats/class-12-nBWoZ311FXFJC8Zl.htm)|Dérobade|`@Compendium[pf2e.feats-srd.nBWoZ311FXFJC8Zl]`|
+|[Dogfang Bite](feats/ancestry-05-wigOSPSxXnapFxeh.htm)||`@Compendium[pf2e.feats-srd.wigOSPSxXnapFxeh]`|
 |[Domain Acumen](feats/class-02-qmFWCHOuubEl7VpX.htm)|Sagacité du domaine|`@Compendium[pf2e.feats-srd.qmFWCHOuubEl7VpX]`|
 |[Domain Fluency](feats/class-12-ENoRkTXtdfsbs98S.htm)|Maîtrise du domaine|`@Compendium[pf2e.feats-srd.ENoRkTXtdfsbs98S]`|
 |[Domain Focus](feats/class-12-vVhgYkOU9mPTGTxF.htm)|Focalisation du domaine|`@Compendium[pf2e.feats-srd.vVhgYkOU9mPTGTxF]`|
@@ -2613,9 +2776,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dracomancer](feats/ancestry-09-lbiFj4At5BxotaNY.htm)|Dracomancien|`@Compendium[pf2e.feats-srd.lbiFj4At5BxotaNY]`|
 |[Draconic Arrogance](feats/class-01-EOmTf95t03y4IGdp.htm)|Arrogance draconique|`@Compendium[pf2e.feats-srd.EOmTf95t03y4IGdp]`|
 |[Draconic Scent](feats/archetype-04-2UKf5IiUbpUbOC9a.htm)|Odorat draconique|`@Compendium[pf2e.feats-srd.2UKf5IiUbpUbOC9a]`|
+|[Draconic Sycophant](feats/ancestry-01-HauCZuLvIthFe2we.htm)||`@Compendium[pf2e.feats-srd.HauCZuLvIthFe2we]`|
 |[Dragging Strike](feats/class-02-yAgFDUU8HfVK4KTy.htm)|Frappe entraînante|`@Compendium[pf2e.feats-srd.yAgFDUU8HfVK4KTy]`|
 |[Dragon Arcana](feats/archetype-04-gMPnLWLlHoNU9Lqv.htm)|Arcanes de dragon|`@Compendium[pf2e.feats-srd.gMPnLWLlHoNU9Lqv]`|
 |[Dragon Disciple Dedication](feats/archetype-02-oo34CloLefFRi72w.htm)|Dévouement du Disciple draconique|`@Compendium[pf2e.feats-srd.oo34CloLefFRi72w]`|
+|[Dragon Grip](feats/ancestry-09-WSxHCapuTn8uRdLI.htm)||`@Compendium[pf2e.feats-srd.WSxHCapuTn8uRdLI]`|
 |[Dragon Prince](feats/ancestry-09-Q1lGguNI4SqPwgVn.htm)|Prince dragon|`@Compendium[pf2e.feats-srd.Q1lGguNI4SqPwgVn]`|
 |[Dragon Roar](feats/class-06-SELSj1vvVLx5cP72.htm)|Rugissement du dragon|`@Compendium[pf2e.feats-srd.SELSj1vvVLx5cP72]`|
 |[Dragon Shape](feats/class-12-p0jZhb8PSswUsZaz.htm)|Morphologie draconique|`@Compendium[pf2e.feats-srd.p0jZhb8PSswUsZaz]`|
@@ -2626,6 +2791,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dragon's Presence](feats/ancestry-01-SPyvwsiSghySIEw2.htm)|Présence draconique|`@Compendium[pf2e.feats-srd.SPyvwsiSghySIEw2]`|
 |[Dragon's Rage Breath](feats/class-06-3uavnVbCsqTvzpgt.htm)|Souffle de rage du dragon|`@Compendium[pf2e.feats-srd.3uavnVbCsqTvzpgt]`|
 |[Dragon's Rage Wings](feats/class-12-bqZkAFS6eq9TKXMO.htm)|Ailes de rage du dragon|`@Compendium[pf2e.feats-srd.bqZkAFS6eq9TKXMO]`|
+|[Dragonblood Paragon](feats/ancestry-09-4EgueMqUm0ebKV4J.htm)||`@Compendium[pf2e.feats-srd.4EgueMqUm0ebKV4J]`|
 |[Dragonslayer Oath](feats/class-02-0lZeJHgk4ASO0clU.htm)|Serment du pourfendeur de dragons|`@Compendium[pf2e.feats-srd.0lZeJHgk4ASO0clU]`|
 |[Dread Marshal Stance](feats/archetype-04-R7c4PyTNkZb0yvoT.htm)|Posture du terrible Capitaine|`@Compendium[pf2e.feats-srd.R7c4PyTNkZb0yvoT]`|
 |[Dread Striker](feats/class-04-9SYnbjFgyucjhN5e.htm)|Frappeur d'effroi|`@Compendium[pf2e.feats-srd.9SYnbjFgyucjhN5e]`|
@@ -2638,6 +2804,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dual-Weapon Blitz](feats/archetype-10-04Smj4ZsEBD8WIXv.htm)|Attaque éclair à deux armes|`@Compendium[pf2e.feats-srd.04Smj4ZsEBD8WIXv]`|
 |[Dual-Weapon Reload](feats/archetype-04-sjChYEuEWPqndCSK.htm)|Rechargement à deux armes|`@Compendium[pf2e.feats-srd.sjChYEuEWPqndCSK]`|
 |[Dual-Weapon Warrior Dedication](feats/archetype-02-YhnCjiHNlS3nCeoC.htm)|Dévouement de combattant à deux armes|`@Compendium[pf2e.feats-srd.YhnCjiHNlS3nCeoC]`|
+|[Dualborn](feats/ancestry-01-mmYAiK3x0UMcgiNv.htm)||`@Compendium[pf2e.feats-srd.mmYAiK3x0UMcgiNv]`|
 |[Dualistic Synergy](feats/class-08-9EqUTnbV8WHE2aKm.htm)|Synergie duale|`@Compendium[pf2e.feats-srd.9EqUTnbV8WHE2aKm]`|
 |[Dubious Knowledge](feats/skill-01-1Bt7uCW2WI4sM84P.htm)|Savoir douteux|`@Compendium[pf2e.feats-srd.1Bt7uCW2WI4sM84P]`|
 |[Dueling Dance (Fighter)](feats/class-12-FYz5eQeTox9IDkSd.htm)|Danse en duel (Guerrier)|`@Compendium[pf2e.feats-srd.FYz5eQeTox9IDkSd]`|
@@ -2650,6 +2817,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Duelist's Edge](feats/archetype-04-Bk07joho2dUG3lVw.htm)|Avantage du duelliste|`@Compendium[pf2e.feats-srd.Bk07joho2dUG3lVw]`|
 |[Duskwalker Lore](feats/ancestry-01-O5v8yaeCbjKeXfyi.htm)|Connaissance des crépusculaires|`@Compendium[pf2e.feats-srd.O5v8yaeCbjKeXfyi]`|
 |[Duskwalker Magic](feats/ancestry-09-PxWdf4HAhZ8fUB3R.htm)|Magie des crépusculaires|`@Compendium[pf2e.feats-srd.PxWdf4HAhZ8fUB3R]`|
+|[Dustsoul](feats/ancestry-01-yEbXxbD317IZgtsN.htm)||`@Compendium[pf2e.feats-srd.yEbXxbD317IZgtsN]`|
 |[Dwarven Doughtiness](feats/ancestry-01-UJ8AqzkkDqRCMNFW.htm)|Bravoure naine|`@Compendium[pf2e.feats-srd.UJ8AqzkkDqRCMNFW]`|
 |[Dwarven Lore](feats/ancestry-01-9bnkx6VgcO5mOk5b.htm)|Connaissance des nains|`@Compendium[pf2e.feats-srd.9bnkx6VgcO5mOk5b]`|
 |[Dwarven Reinforcement](feats/ancestry-05-FGrIFDobGRFBPOuM.htm)|Renforcement nain|`@Compendium[pf2e.feats-srd.FGrIFDobGRFBPOuM]`|
@@ -2657,6 +2825,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dwarven Weapon Expertise](feats/ancestry-13-tpkih32Ch2wCA9R5.htm)|Expertise avec les armes naines|`@Compendium[pf2e.feats-srd.tpkih32Ch2wCA9R5]`|
 |[Dwarven Weapon Familiarity](feats/ancestry-01-CXS0ryG2SODSobm9.htm)|Familiarité avec les armes naines|`@Compendium[pf2e.feats-srd.CXS0ryG2SODSobm9]`|
 |[Earned Glory](feats/ancestry-01-nfERPRCITBp970HO.htm)|Gloire méritée|`@Compendium[pf2e.feats-srd.nfERPRCITBp970HO]`|
+|[Earthsense](feats/ancestry-09-kjRMXN95lQmIi2hP.htm)||`@Compendium[pf2e.feats-srd.kjRMXN95lQmIi2hP]`|
 |[Earworm](feats/class-14-AOLf6QX068LR9L9e.htm)|Rengaine|`@Compendium[pf2e.feats-srd.AOLf6QX068LR9L9e]`|
 |[Easily Dismissed](feats/ancestry-05-ZRI1OXaaa4ZC6EK1.htm)|Facilement négligé|`@Compendium[pf2e.feats-srd.ZRI1OXaaa4ZC6EK1]`|
 |[Eat Fortune](feats/ancestry-05-rFmJVDdB313EibTs.htm)|Avaler la chance|`@Compendium[pf2e.feats-srd.rFmJVDdB313EibTs]`|
@@ -2667,28 +2836,38 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Eclectic Obsession](feats/ancestry-05-0ihK3qYItmi8eVZs.htm)|Obsession éclectique|`@Compendium[pf2e.feats-srd.0ihK3qYItmi8eVZs]`|
 |[Eclectic Polymath](feats/class-12-yaxf1Tpk5iwPCSpW.htm)|Touche-à-tout éclectique|`@Compendium[pf2e.feats-srd.yaxf1Tpk5iwPCSpW]`|
 |[Eclectic Skill](feats/class-08-TOyqtUUnOkOLl1Pm.htm)|Compétence éclectique|`@Compendium[pf2e.feats-srd.TOyqtUUnOkOLl1Pm]`|
+|[Eclectic Sword Mastery](feats/ancestry-13-DNZlWe2V28KoajoN.htm)||`@Compendium[pf2e.feats-srd.DNZlWe2V28KoajoN]`|
 |[Eclectic Sword Training](feats/ancestry-09-KRgzuwwjT30KKvV4.htm)|Entraînement éclectique à l'épée|`@Compendium[pf2e.feats-srd.KRgzuwwjT30KKvV4]`|
 |[Edgewatch Detective Dedication](feats/archetype-02-6b8DiNx4c1zPZ7RP.htm)||`@Compendium[pf2e.feats-srd.6b8DiNx4c1zPZ7RP]`|
 |[Educate Allies](feats/class-06-9cHQua33V35JPE3U.htm)|Alliés instruits|`@Compendium[pf2e.feats-srd.9cHQua33V35JPE3U]`|
 |[Educated Assessment](feats/class-12-a2Owk9WI4pjSPuHf.htm)|Évaluation érudite|`@Compendium[pf2e.feats-srd.a2Owk9WI4pjSPuHf]`|
+|[Eerie Compression](feats/ancestry-09-4cH2RoWsgXYaWIPa.htm)||`@Compendium[pf2e.feats-srd.4cH2RoWsgXYaWIPa]`|
 |[Efficient Alchemy (Alchemist)](feats/class-04-c7jNms3ZQ8eaMUqv.htm)|Alchimie efficiente|`@Compendium[pf2e.feats-srd.c7jNms3ZQ8eaMUqv]`|
 |[Efficient Alchemy (Paragon)](feats/class-20-2FBZ0apnmZ7b61ct.htm)|Alchimie efficiente|`@Compendium[pf2e.feats-srd.2FBZ0apnmZ7b61ct]`|
 |[Efficient Rituals](feats/archetype-08-jYKKnr41OqQrf7hv.htm)|Rituels efficaces|`@Compendium[pf2e.feats-srd.jYKKnr41OqQrf7hv]`|
 |[Effortless Concentration](feats/class-16-rgs6OZJYCgi5At8J.htm)|Concentration aisée|`@Compendium[pf2e.feats-srd.rgs6OZJYCgi5At8J]`|
+|[Efreeti Magic](feats/ancestry-09-AJVx3sHm6f6i8ZQW.htm)||`@Compendium[pf2e.feats-srd.AJVx3sHm6f6i8ZQW]`|
 |[Eidetic Memorization](feats/archetype-10-JwosaDYoqfPiFMYa.htm)|Mémorisation parfaite|`@Compendium[pf2e.feats-srd.JwosaDYoqfPiFMYa]`|
 |[Elaborate Flourish](feats/class-04-pCVegyXxNibF4ulp.htm)|Fioriture élaborée|`@Compendium[pf2e.feats-srd.pCVegyXxNibF4ulp]`|
 |[Elastic Mutagen](feats/class-10-FLQWJ2CIv9mCfSAx.htm)|Mutagène élastique|`@Compendium[pf2e.feats-srd.FLQWJ2CIv9mCfSAx]`|
 |[Eldritch Archer Dedication](feats/archetype-06-oyLkqhDGwGGj40ME.htm)|Dévouement d'Archer mystique|`@Compendium[pf2e.feats-srd.oyLkqhDGwGGj40ME]`|
 |[Eldritch Debilitations](feats/class-10-kUv9eiP8Zhck70WZ.htm)|Handicaps mystiques|`@Compendium[pf2e.feats-srd.kUv9eiP8Zhck70WZ]`|
 |[Eldritch Nails](feats/class-04-m4FOYkzuqNjU0ETq.htm)|Ongles mystiques|`@Compendium[pf2e.feats-srd.m4FOYkzuqNjU0ETq]`|
+|[Elemental Assault](feats/ancestry-01-OKSsFlHY5UKc4dKu.htm)||`@Compendium[pf2e.feats-srd.OKSsFlHY5UKc4dKu]`|
+|[Elemental Bulwark](feats/ancestry-05-IUVzB39pRVyBFOEx.htm)||`@Compendium[pf2e.feats-srd.IUVzB39pRVyBFOEx]`|
+|[Elemental Embellish](feats/ancestry-01-VZDJgGm5LGb1Pdck.htm)||`@Compendium[pf2e.feats-srd.VZDJgGm5LGb1Pdck]`|
+|[Elemental Eyes](feats/ancestry-01-6ENHSzqg88J6dri6.htm)||`@Compendium[pf2e.feats-srd.6ENHSzqg88J6dri6]`|
 |[Elemental Fist](feats/class-02-BU4NBIBkVZxdWLLH.htm)|Poing élémentaire|`@Compendium[pf2e.feats-srd.BU4NBIBkVZxdWLLH]`|
+|[Elemental Lore](feats/ancestry-01-RJClD7YYsAFutxNs.htm)||`@Compendium[pf2e.feats-srd.RJClD7YYsAFutxNs]`|
 |[Elemental Shape](feats/class-10-F0MYBfiyOD8YHq5t.htm)|Morphologie élémentaire|`@Compendium[pf2e.feats-srd.F0MYBfiyOD8YHq5t]`|
 |[Elemental Summons](feats/class-04-011wnYpjIwCEzFtl.htm)|Convocations élémentaires|`@Compendium[pf2e.feats-srd.011wnYpjIwCEzFtl]`|
+|[Elemental Trade](feats/ancestry-01-QsPvKvt4S1PR7kr7.htm)||`@Compendium[pf2e.feats-srd.QsPvKvt4S1PR7kr7]`|
 |[Elemental Wrath](feats/ancestry-01-yMfZulJcoSomQ6dO.htm)|Courroux élémentaire|`@Compendium[pf2e.feats-srd.yMfZulJcoSomQ6dO]`|
 |[Elf Atavism](feats/ancestry-01-7BVl9lFf0wuTjBgM.htm)|Atavisme elfique|`@Compendium[pf2e.feats-srd.7BVl9lFf0wuTjBgM]`|
 |[Elf Step](feats/ancestry-09-aIm2qi4JZerthZmF.htm)|Pas elfique|`@Compendium[pf2e.feats-srd.aIm2qi4JZerthZmF]`|
 |[Elite Dracomancer](feats/ancestry-13-I9cJYC7anz7HmpcJ.htm)|Dracomancien d'élite|`@Compendium[pf2e.feats-srd.I9cJYC7anz7HmpcJ]`|
 |[Elucidating Mercy](feats/class-10-647GZOyhWgcjw6Jg.htm)|Soulagement clarifiant|`@Compendium[pf2e.feats-srd.647GZOyhWgcjw6Jg]`|
+|[Elude Trouble](feats/ancestry-17-5qVCl5MwPcx0sS7T.htm)||`@Compendium[pf2e.feats-srd.5qVCl5MwPcx0sS7T]`|
 |[Elude the Divine](feats/archetype-08-vVyX9IG8flxg81mc.htm)|Éluder le divin|`@Compendium[pf2e.feats-srd.vVyX9IG8flxg81mc]`|
 |[Elven Aloofness](feats/ancestry-01-y7Or0CbcQBDdS9yG.htm)|Détachement elfique|`@Compendium[pf2e.feats-srd.y7Or0CbcQBDdS9yG]`|
 |[Elven Instincts](feats/ancestry-05-4M36jGbeSDfZFM38.htm)|Instincts elfiques|`@Compendium[pf2e.feats-srd.4M36jGbeSDfZFM38]`|
@@ -2697,6 +2876,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Elven Weapon Elegance](feats/ancestry-05-zc32MIxa1E6357D6.htm)|Élégance avec les armes elfiques|`@Compendium[pf2e.feats-srd.zc32MIxa1E6357D6]`|
 |[Elven Weapon Expertise](feats/ancestry-13-wruf4sMh3P7o8k1P.htm)|Expertise avec les armes elfiques|`@Compendium[pf2e.feats-srd.wruf4sMh3P7o8k1P]`|
 |[Elven Weapon Familiarity](feats/ancestry-01-4NKyZVkmWjDyyIYZ.htm)|Familiarité avec les armes elfiques|`@Compendium[pf2e.feats-srd.4NKyZVkmWjDyyIYZ]`|
+|[Ember's Eyes](feats/ancestry-01-yQZ6naE8AP6JYTSH.htm)||`@Compendium[pf2e.feats-srd.yQZ6naE8AP6JYTSH]`|
+|[Emberkin](feats/ancestry-01-tQ0FWNYJEXbmPCt7.htm)||`@Compendium[pf2e.feats-srd.tQ0FWNYJEXbmPCt7]`|
 |[Emblazon Antimagic](feats/class-12-xAFdoKl7aOP9rVkl.htm)|Antimagie blasonnée|`@Compendium[pf2e.feats-srd.xAFdoKl7aOP9rVkl]`|
 |[Emblazon Armament](feats/class-02-7RFjTTzznsdPcaYB.htm)|Arsenal blasonné|`@Compendium[pf2e.feats-srd.7RFjTTzznsdPcaYB]`|
 |[Emblazon Divinity](feats/class-20-DMECB9RwLAhY0T9o.htm)|Divinité blasonnée|`@Compendium[pf2e.feats-srd.DMECB9RwLAhY0T9o]`|
@@ -2705,6 +2886,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Emerald Boughs Accustomation](feats/archetype-06-EZ24QwnFteLCrgLg.htm)|Habitudes des Branches d'émeraude|`@Compendium[pf2e.feats-srd.EZ24QwnFteLCrgLg]`|
 |[Emerald Boughs Hideaway](feats/archetype-10-cxAvcFiZRT3ZVhie.htm)|Cachette des Branches d'Émeraude|`@Compendium[pf2e.feats-srd.cxAvcFiZRT3ZVhie]`|
 |[Emergency Medical Assistance](feats/archetype-12-9AZjpeeS824VsYv8.htm)|Assistance médical d'urgence|`@Compendium[pf2e.feats-srd.9AZjpeeS824VsYv8]`|
+|[Emotionless](feats/ancestry-01-eEVZ19G2BAnHQZpa.htm)||`@Compendium[pf2e.feats-srd.eEVZ19G2BAnHQZpa]`|
 |[Empathetic Plea](feats/ancestry-01-MS53Ds75BT379ZFm.htm)|Supplique empathique|`@Compendium[pf2e.feats-srd.MS53Ds75BT379ZFm]`|
 |[Empty Body](feats/class-18-6GUl9WG7OKvfVQo4.htm)|Désertion de l'âme|`@Compendium[pf2e.feats-srd.6GUl9WG7OKvfVQo4]`|
 |[Empyreal Blessing](feats/ancestry-05-n3CbbtK4fgBznIMf.htm)|Bénédiction empyréenne|`@Compendium[pf2e.feats-srd.n3CbbtK4fgBznIMf]`|
@@ -2717,12 +2899,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Enduring Debilitation](feats/class-20-RzfWrOqHL2GcK0rr.htm)|Incapacité persistante|`@Compendium[pf2e.feats-srd.RzfWrOqHL2GcK0rr]`|
 |[Enduring Quickness](feats/class-20-txLcSHu6kEfmrJj1.htm)|Rapidité persistante|`@Compendium[pf2e.feats-srd.txLcSHu6kEfmrJj1]`|
 |[Energetic Resonance](feats/class-06-yUpZcrQHrz4mflKQ.htm)|Résonance énergétique|`@Compendium[pf2e.feats-srd.yUpZcrQHrz4mflKQ]`|
+|[Energize Wings](feats/ancestry-09-cmhfYMEM4uzrNIiV.htm)||`@Compendium[pf2e.feats-srd.cmhfYMEM4uzrNIiV]`|
 |[Energized Font](feats/ancestry-05-NBDwiz1NDioc2eMP.htm)|Source d'énergie|`@Compendium[pf2e.feats-srd.NBDwiz1NDioc2eMP]`|
 |[Energy Ablation](feats/class-02-iS4Vc2zv7vgL5mnX.htm)|Emprunt énergétique|`@Compendium[pf2e.feats-srd.iS4Vc2zv7vgL5mnX]`|
 |[Energy Blessed](feats/ancestry-09-B5HiNholWMwYdHTC.htm)|Énergie bénie|`@Compendium[pf2e.feats-srd.B5HiNholWMwYdHTC]`|
 |[Energy Fusion](feats/class-10-MgqRwyL8PWyYvoZs.htm)|Fusion d'énergies|`@Compendium[pf2e.feats-srd.MgqRwyL8PWyYvoZs]`|
 |[Energy Ward](feats/class-10-lG4dYrnkE42IgnGG.htm)|Protection énergétique|`@Compendium[pf2e.feats-srd.lG4dYrnkE42IgnGG]`|
 |[Enforce Oath](feats/class-12-YZ138OqflDhrkqmR.htm)|Serment renforcé|`@Compendium[pf2e.feats-srd.YZ138OqflDhrkqmR]`|
+|[Enforced Order](feats/ancestry-13-AP9PXXaP4a2sMdt2.htm)||`@Compendium[pf2e.feats-srd.AP9PXXaP4a2sMdt2]`|
 |[Enhanced Familiar](feats/class-02-N7dTFxpjXGn4ddq8.htm)|Familier amélioré|`@Compendium[pf2e.feats-srd.N7dTFxpjXGn4ddq8]`|
 |[Enigma's Knowledge](feats/class-12-8cbSVw8RnVzy5USe.htm)|Connaissance de l'énigme|`@Compendium[pf2e.feats-srd.8cbSVw8RnVzy5USe]`|
 |[Enlarge Companion](feats/class-08-Tr2SnOE2WqFIIWIK.htm)|Compagnon aggrandi|`@Compendium[pf2e.feats-srd.Tr2SnOE2WqFIIWIK]`|
@@ -2742,7 +2926,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Eternal Blessing](feats/class-16-kMLvQnx2vY7F3bjI.htm)|Bénédiction éternelle|`@Compendium[pf2e.feats-srd.kMLvQnx2vY7F3bjI]`|
 |[Eternal Composition](feats/class-18-yFoBVSOCnC2R2r8s.htm)|Composition perpétuelle|`@Compendium[pf2e.feats-srd.yFoBVSOCnC2R2r8s]`|
 |[Eternal Elixir](feats/class-16-giOEclnMp8txkRSU.htm)|Élixir éternel|`@Compendium[pf2e.feats-srd.giOEclnMp8txkRSU]`|
-|[Eternal Wings](feats/ancestry-17-OWL6ZNVWMU0AFqvZ.htm)|Ailes éternelles|`@Compendium[pf2e.feats-srd.OWL6ZNVWMU0AFqvZ]`|
+|[Eternal Wings (Aasimar)](feats/ancestry-17-OWL6ZNVWMU0AFqvZ.htm)|Ailes éternelles|`@Compendium[pf2e.feats-srd.OWL6ZNVWMU0AFqvZ]`|
+|[Eternal Wings (Sylph)](feats/ancestry-17-8ZWMJYNgyH5zh1yH.htm)||`@Compendium[pf2e.feats-srd.8ZWMJYNgyH5zh1yH]`|
+|[Evade Doom](feats/ancestry-09-l4ux6Mn2fklB2cXM.htm)||`@Compendium[pf2e.feats-srd.l4ux6Mn2fklB2cXM]`|
+|[Evanescent Wings](feats/ancestry-01-ryRpqixE7cN8svwB.htm)||`@Compendium[pf2e.feats-srd.ryRpqixE7cN8svwB]`|
 |[Evangelize](feats/skill-07-YgbcLfAEdi4xxvX5.htm)|Évagélisation|`@Compendium[pf2e.feats-srd.YgbcLfAEdi4xxvX5]`|
 |[Evasiveness (Rogue)](feats/class-12-VD446AflrQ3kO1al.htm)|Dérobade|`@Compendium[pf2e.feats-srd.VD446AflrQ3kO1al]`|
 |[Evasiveness (Swashbuckler)](feats/archetype-12-BJfIGuUMItalNYet.htm)|Dérobade (Bretteur)|`@Compendium[pf2e.feats-srd.BJfIGuUMItalNYet]`|
@@ -2782,6 +2969,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Express Rider](feats/skill-01-gArdEleFCvUHtdGk.htm)|Chevaucheur rapide|`@Compendium[pf2e.feats-srd.gArdEleFCvUHtdGk]`|
 |[Extend Armament Alignment](feats/class-14-T3XFrLIBzir9IqD5.htm)|Prolongement de l'arsenal aligné|`@Compendium[pf2e.feats-srd.T3XFrLIBzir9IqD5]`|
 |[Extend Elixir](feats/class-12-asRbkgW59DZUpvAq.htm)|Élixir étendu|`@Compendium[pf2e.feats-srd.asRbkgW59DZUpvAq]`|
+|[Extinguish Light](feats/ancestry-05-SBhzem6n3buoxlG5.htm)||`@Compendium[pf2e.feats-srd.SBhzem6n3buoxlG5]`|
 |[Extra Squishy](feats/ancestry-01-2bNd89jYmEO8wSay.htm)|Extra spongieux|`@Compendium[pf2e.feats-srd.2bNd89jYmEO8wSay]`|
 |[Eye For Numbers](feats/skill-01-0N8TtGSk5enoLBZ8.htm)|Œil pour les nombres|`@Compendium[pf2e.feats-srd.0N8TtGSk5enoLBZ8]`|
 |[Eye For Treasure](feats/ancestry-01-nB8BD9rIg9hfFGns.htm)|Œil appréciateur|`@Compendium[pf2e.feats-srd.nB8BD9rIg9hfFGns]`|
@@ -2814,20 +3002,31 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fast Movement](feats/class-04-SCDSgeJU7vULvHmo.htm)|Déplacement rapide|`@Compendium[pf2e.feats-srd.SCDSgeJU7vULvHmo]`|
 |[Fast Recovery](feats/general-01-N8Xz5fuW6o7GW124.htm)|Récupération rapide|`@Compendium[pf2e.feats-srd.N8Xz5fuW6o7GW124]`|
 |[Fatal Aria](feats/class-20-3w2SktSOZdG8f6Qr.htm)|Aria fatale|`@Compendium[pf2e.feats-srd.3w2SktSOZdG8f6Qr]`|
+|[Favor Of Heaven](feats/ancestry-17-VbHuOvF1MM9ls6Tg.htm)||`@Compendium[pf2e.feats-srd.VbHuOvF1MM9ls6Tg]`|
+|[Favorable Winds](feats/ancestry-05-OK8Fm7EG8wjoYZBX.htm)||`@Compendium[pf2e.feats-srd.OK8Fm7EG8wjoYZBX]`|
 |[Favored Enemy](feats/class-04-oGu9AtUAx0SpRXy8.htm)|Ennemi juré|`@Compendium[pf2e.feats-srd.oGu9AtUAx0SpRXy8]`|
 |[Favored Terrain](feats/class-02-sgo7J9BVofBqwlsF.htm)|Environnement de prédilection|`@Compendium[pf2e.feats-srd.sgo7J9BVofBqwlsF]`|
 |[Fear No Law, Fear No One](feats/bonus-00-AxjjAoU1IZaNUGGS.htm)||`@Compendium[pf2e.feats-srd.AxjjAoU1IZaNUGGS]`|
 |[Fearsome Brute](feats/class-10-1k3H7cnARIzAVCsm.htm)|Brute effrayante|`@Compendium[pf2e.feats-srd.1k3H7cnARIzAVCsm]`|
 |[Feather Step](feats/general-01-c9fHUSI5lRdXu1Ic.htm)|Pas de plume|`@Compendium[pf2e.feats-srd.c9fHUSI5lRdXu1Ic]`|
+|[Feathered Cloak](feats/ancestry-05-zwqawaXccARDV0jL.htm)||`@Compendium[pf2e.feats-srd.zwqawaXccARDV0jL]`|
+|[Feed On Pain](feats/ancestry-05-48crF8lpg78fRdhJ.htm)||`@Compendium[pf2e.feats-srd.48crF8lpg78fRdhJ]`|
 |[Felicitous Riposte](feats/class-16-D71A2ZQfz9MVndqI.htm)|Riposte heureuse|`@Compendium[pf2e.feats-srd.D71A2ZQfz9MVndqI]`|
+|[Fell Rider](feats/ancestry-09-mXNwdRSM9kZrT2Um.htm)||`@Compendium[pf2e.feats-srd.mXNwdRSM9kZrT2Um]`|
 |[Felling Shot](feats/class-12-Ij6BBPzZvOFZ3prs.htm)|Tir renversant|`@Compendium[pf2e.feats-srd.Ij6BBPzZvOFZ3prs]`|
 |[Felling Strike](feats/class-08-Ad0XBuETAkMD6doj.htm)|Tir renversant|`@Compendium[pf2e.feats-srd.Ad0XBuETAkMD6doj]`|
 |[Feral Mutagen](feats/class-08-gQ2EvesPqLbISLQV.htm)|Mutagène sauvage|`@Compendium[pf2e.feats-srd.gQ2EvesPqLbISLQV]`|
 |[Ferocious Beasts](feats/ancestry-13-wteuGNhOXLvBudRQ.htm)|Bêtes féroces|`@Compendium[pf2e.feats-srd.wteuGNhOXLvBudRQ]`|
+|[Ferocious Gust](feats/ancestry-09-Sav50NxWdLnbaDWQ.htm)||`@Compendium[pf2e.feats-srd.Sav50NxWdLnbaDWQ]`|
 |[Ferocious Shape](feats/class-08-Le30algCdKIsxmeK.htm)|Morphologie féroce|`@Compendium[pf2e.feats-srd.Le30algCdKIsxmeK]`|
+|[Fetchling Lore](feats/ancestry-01-izuErgHfh90KctAL.htm)||`@Compendium[pf2e.feats-srd.izuErgHfh90KctAL]`|
 |[Fey Caller](feats/class-08-8rE5zLEVe4putosB.htm)|Celui qui appelle les fées|`@Compendium[pf2e.feats-srd.8rE5zLEVe4putosB]`|
+|[Fey Cantrips](feats/ancestry-01-gozOYxLVx7PQvOSj.htm)||`@Compendium[pf2e.feats-srd.gozOYxLVx7PQvOSj]`|
+|[Fey Disguise](feats/ancestry-05-GTA6QM7cH40L8H5Q.htm)||`@Compendium[pf2e.feats-srd.GTA6QM7cH40L8H5Q]`|
 |[Fey Fellowship](feats/ancestry-01-FWCULKnVXhSPL0ST.htm)|Camaraderie féerique|`@Compendium[pf2e.feats-srd.FWCULKnVXhSPL0ST]`|
 |[Fey Influence](feats/general-05-dIIqejy4JAVuF0I8.htm)|Influence féérique|`@Compendium[pf2e.feats-srd.dIIqejy4JAVuF0I8]`|
+|[Fey Magic](feats/ancestry-09-Qe9IUDVo7gsowMHq.htm)||`@Compendium[pf2e.feats-srd.Qe9IUDVo7gsowMHq]`|
+|[Fey Skin](feats/ancestry-13-hSHteYr1g1gKHcwM.htm)||`@Compendium[pf2e.feats-srd.hSHteYr1g1gKHcwM]`|
 |[Fiend's Door](feats/ancestry-13-rCajlx2KjGxzabAJ.htm)|Porte du fiélon|`@Compendium[pf2e.feats-srd.rCajlx2KjGxzabAJ]`|
 |[Fiendish Eyes](feats/ancestry-01-LUXBuTAuK1glHOkJ.htm)|Yeux fiélons|`@Compendium[pf2e.feats-srd.LUXBuTAuK1glHOkJ]`|
 |[Fiendish Form](feats/class-18-gtXy5gMNU0NDvkBL.htm)|Forme fiélone|`@Compendium[pf2e.feats-srd.gtXy5gMNU0NDvkBL]`|
@@ -2840,29 +3039,39 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fiendsbane Oath](feats/class-02-aM6eAeyk5twmxCKe.htm)|Serment du fléau des fiélons|`@Compendium[pf2e.feats-srd.aM6eAeyk5twmxCKe]`|
 |[Fighter Dedication](feats/archetype-02-mvNa9KfQooHYEXoA.htm)|Dévouement de guerrier|`@Compendium[pf2e.feats-srd.mvNa9KfQooHYEXoA]`|
 |[Fighter Resiliency](feats/archetype-04-PLz1oIEGJojVUBsW.htm)|Résilience du Guerrier|`@Compendium[pf2e.feats-srd.PLz1oIEGJojVUBsW]`|
+|[Final Form](feats/ancestry-17-xXaKiJbKhClF5eJx.htm)||`@Compendium[pf2e.feats-srd.xXaKiJbKhClF5eJx]`|
+|[Finest Trick](feats/ancestry-13-aQHB5LhxLaFRkzSt.htm)||`@Compendium[pf2e.feats-srd.aQHB5LhxLaFRkzSt]`|
 |[Finishing Follow-through](feats/class-02-DY6pNO3GzHeKSxmQ.htm)|Suivi de la botte|`@Compendium[pf2e.feats-srd.DY6pNO3GzHeKSxmQ]`|
 |[Finishing Precision](feats/archetype-04-X5gNhaYNx1xu6NoH.htm)|Finition précise|`@Compendium[pf2e.feats-srd.X5gNhaYNx1xu6NoH]`|
+|[Finned Ridges](feats/ancestry-05-LC2EnXQ4MkhDLViM.htm)||`@Compendium[pf2e.feats-srd.LC2EnXQ4MkhDLViM]`|
 |[Firebrand Braggart Dedication](feats/class-04-NagTqSLK8bAlo2nY.htm)|Dévouement d'Agitateur vantard|`@Compendium[pf2e.feats-srd.NagTqSLK8bAlo2nY]`|
+|[Firesight](feats/ancestry-05-DmYbGBC2ukp8tYD4.htm)||`@Compendium[pf2e.feats-srd.DmYbGBC2ukp8tYD4]`|
 |[First Revelation](feats/archetype-04-HdhnAm9SNfDqxRSN.htm)|Première révélation|`@Compendium[pf2e.feats-srd.HdhnAm9SNfDqxRSN]`|
 |[First World Adept](feats/ancestry-09-WUVNZoIZvr9XFv2x.htm)|Adepte du premier monde|`@Compendium[pf2e.feats-srd.WUVNZoIZvr9XFv2x]`|
 |[First World Magic](feats/ancestry-01-yJ8Ez5dEscIk1xr5.htm)|Magie du Premier monde|`@Compendium[pf2e.feats-srd.yJ8Ez5dEscIk1xr5]`|
 |[Flamboyant Athlete](feats/class-04-tmGsnUkPv8SIhBgn.htm)|Athlète flamboyant|`@Compendium[pf2e.feats-srd.tmGsnUkPv8SIhBgn]`|
 |[Flamboyant Cruelty](feats/class-08-SAOtGk9k8veaX3Ww.htm)|Cruauté flamboyante|`@Compendium[pf2e.feats-srd.SAOtGk9k8veaX3Ww]`|
 |[Flamboyant Leap](feats/class-14-TdwC9rTGgtF4CQ25.htm)|Bond flamboyant|`@Compendium[pf2e.feats-srd.TdwC9rTGgtF4CQ25]`|
+|[Flame Jump](feats/ancestry-13-1WPKV2sInXtiUaeG.htm)||`@Compendium[pf2e.feats-srd.1WPKV2sInXtiUaeG]`|
+|[Fledgling Flight](feats/ancestry-05-UuVz1QY7QXD5cnLu.htm)||`@Compendium[pf2e.feats-srd.UuVz1QY7QXD5cnLu]`|
 |[Fleet](feats/general-01-Ux73dmoF8KnavyUD.htm)|Vélocité|`@Compendium[pf2e.feats-srd.Ux73dmoF8KnavyUD]`|
 |[Fleeting Shadow](feats/archetype-06-hE6fchGuHuPIeKlO.htm)|Ombre flottante|`@Compendium[pf2e.feats-srd.hE6fchGuHuPIeKlO]`|
 |[Flensing Slice](feats/archetype-08-F6VlPyZZpqV6d2CS.htm)|Taille dépeçante|`@Compendium[pf2e.feats-srd.F6VlPyZZpqV6d2CS]`|
 |[Flexible Halcyon Spellcasting](feats/archetype-12-UqA9GdO2pGQwg9cd.htm)|Incantation paisible flexible|`@Compendium[pf2e.feats-srd.UqA9GdO2pGQwg9cd]`|
 |[Flexible Ritualist](feats/archetype-06-bmWvMfYxZbZtigDp.htm)|Ritualiste polyvalent|`@Compendium[pf2e.feats-srd.bmWvMfYxZbZtigDp]`|
 |[Flexible Studies](feats/class-01-9bgl6qYWKHzqWZj0.htm)|Études diversifiées|`@Compendium[pf2e.feats-srd.9bgl6qYWKHzqWZj0]`|
+|[Flexible Tail](feats/ancestry-05-VLCAFIXzUtiv1VuE.htm)||`@Compendium[pf2e.feats-srd.VLCAFIXzUtiv1VuE]`|
 |[Flicker](feats/archetype-12-SyxXnSk2R0AM9HSn.htm)|Image vacillante|`@Compendium[pf2e.feats-srd.SyxXnSk2R0AM9HSn]`|
 |[Flinging Blow](feats/class-16-uL6q4wtwvuP8I4po.htm)|Coup catapultant|`@Compendium[pf2e.feats-srd.uL6q4wtwvuP8I4po]`|
 |[Flinging Shove](feats/class-12-d6Vb8D9yOX93mdUI.htm)|Poussée catapulteuse|`@Compendium[pf2e.feats-srd.d6Vb8D9yOX93mdUI]`|
+|[Flourish And Ruin](feats/ancestry-17-U9nJy5suyYDE0b20.htm)||`@Compendium[pf2e.feats-srd.U9nJy5suyYDE0b20]`|
 |[Flourishing Finish](feats/archetype-12-isdTXU8bV7ZVOAuQ.htm)|Mise à mort spectaculaire|`@Compendium[pf2e.feats-srd.isdTXU8bV7ZVOAuQ]`|
+|[Fluid Contortionist](feats/ancestry-05-CdSWMqPOVWIEzyUA.htm)||`@Compendium[pf2e.feats-srd.CdSWMqPOVWIEzyUA]`|
 |[Flurry of Maneuvers](feats/class-04-wz2edbLFnDKDNWWZ.htm)|Déluges de manoeuvres|`@Compendium[pf2e.feats-srd.wz2edbLFnDKDNWWZ]`|
 |[Flying Blade](feats/class-01-qgNc5XwjsaWET0Op.htm)|Lame volante|`@Compendium[pf2e.feats-srd.qgNc5XwjsaWET0Op]`|
 |[Flying Kick](feats/class-04-wB1ONG2uO7RnD1iC.htm)|Coup de pied sauté|`@Compendium[pf2e.feats-srd.wB1ONG2uO7RnD1iC]`|
 |[Focus Ally](feats/archetype-16-zodscjgydZRUSOLO.htm)|Focalisation d'allié|`@Compendium[pf2e.feats-srd.zodscjgydZRUSOLO]`|
+|[Focused Cat Nap](feats/ancestry-05-O89mwKPRg0up0J0I.htm)||`@Compendium[pf2e.feats-srd.O89mwKPRg0up0J0I]`|
 |[Focused Fascination](feats/class-01-5GqjEM22n78Vmdpe.htm)|Fascination concentrée|`@Compendium[pf2e.feats-srd.5GqjEM22n78Vmdpe]`|
 |[Focused Juggler](feats/archetype-04-lYVAGuHU47Ixyuxy.htm)|Jongleur concentré|`@Compendium[pf2e.feats-srd.lYVAGuHU47Ixyuxy]`|
 |[Focused Shot](feats/class-12-d7DQhCJKYcLxpHen.htm)|Tir concentré|`@Compendium[pf2e.feats-srd.d7DQhCJKYcLxpHen]`|
@@ -2890,12 +3099,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Formation Master](feats/ancestry-13-QHPtlFvTpgx1GE7S.htm)|Maître du combat en formation|`@Compendium[pf2e.feats-srd.QHPtlFvTpgx1GE7S]`|
 |[Formation Training](feats/ancestry-05-qJw7zEMn0k5kp9ti.htm)|Combat en formation|`@Compendium[pf2e.feats-srd.qJw7zEMn0k5kp9ti]`|
 |[Fortified Flesh](feats/archetype-08-7vOVPzsVuyE5a3Rp.htm)|Renforcement de la chair|`@Compendium[pf2e.feats-srd.7vOVPzsVuyE5a3Rp]`|
+|[Fortify Shield](feats/ancestry-05-DidzozerKLZ2UYLx.htm)||`@Compendium[pf2e.feats-srd.DidzozerKLZ2UYLx]`|
 |[Fortutious Shift](feats/ancestry-09-Twhkz2FfzaZezVnG.htm)|Phasage fortuit|`@Compendium[pf2e.feats-srd.Twhkz2FfzaZezVnG]`|
+|[Fox Trick](feats/ancestry-09-g9AOSz4QDAlUee9M.htm)||`@Compendium[pf2e.feats-srd.g9AOSz4QDAlUee9M]`|
+|[Foxfire](feats/ancestry-01-SVSB4UlpR1FV8EIk.htm)||`@Compendium[pf2e.feats-srd.SVSB4UlpR1FV8EIk]`|
 |[Freeze It!](feats/ancestry-09-LhpE0NsfNwYP6MOz.htm)|Gêle-le !|`@Compendium[pf2e.feats-srd.LhpE0NsfNwYP6MOz]`|
 |[Fresh Ingredients](feats/skill-02-cmuvvPJvt2R16vGe.htm)|Ingrédients frais|`@Compendium[pf2e.feats-srd.cmuvvPJvt2R16vGe]`|
 |[Friendly Toss](feats/class-08-V9kShXu84NlORfcg.htm)|Lancer amical|`@Compendium[pf2e.feats-srd.V9kShXu84NlORfcg]`|
 |[Frightening Appearance](feats/archetype-12-Ano4tRq88V39eyPq.htm)|Apparition effrayante|`@Compendium[pf2e.feats-srd.Ano4tRq88V39eyPq]`|
+|[Fully Flighted](feats/ancestry-13-J2CPfHKPvu6RGfY6.htm)||`@Compendium[pf2e.feats-srd.J2CPfHKPvu6RGfY6]`|
 |[Fulminating Synergy](feats/archetype-16-XpZkzUV9PwUHvmyq.htm)|Synergie fulminante|`@Compendium[pf2e.feats-srd.XpZkzUV9PwUHvmyq]`|
+|[Fumesoul](feats/ancestry-01-vWf6uykXkQp1Li0r.htm)||`@Compendium[pf2e.feats-srd.vWf6uykXkQp1Li0r]`|
 |[Furious Bully](feats/class-08-cA1IIy6UEsgETXiX.htm)|Cogneur brutal|`@Compendium[pf2e.feats-srd.cA1IIy6UEsgETXiX]`|
 |[Furious Finish](feats/class-02-5gnBhockV7O32jTR.htm)|Final furieux|`@Compendium[pf2e.feats-srd.5gnBhockV7O32jTR]`|
 |[Furious Focus](feats/class-06-y61mDkTqk2k77b4x.htm)|Focalisation furieuse|`@Compendium[pf2e.feats-srd.y61mDkTqk2k77b4x]`|
@@ -2904,10 +3118,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Furious Vengeance](feats/class-16-Oyml3OGNy468z3XI.htm)|Vengeance furieuse|`@Compendium[pf2e.feats-srd.Oyml3OGNy468z3XI]`|
 |[Fuse Stance](feats/class-20-kceciNwoldkzAMbq.htm)|Fusion de postures|`@Compendium[pf2e.feats-srd.kceciNwoldkzAMbq]`|
 |[Gang Up](feats/class-06-XRahcvEPEAEdGUn8.htm)|Attaque groupée|`@Compendium[pf2e.feats-srd.XRahcvEPEAEdGUn8]`|
+|[Ganzi Gaze](feats/ancestry-01-tVPxq2qYCcOqvIYZ.htm)||`@Compendium[pf2e.feats-srd.tVPxq2qYCcOqvIYZ]`|
+|[Gaping Flesh](feats/ancestry-05-GZrvQo5FcoP5qocX.htm)||`@Compendium[pf2e.feats-srd.GZrvQo5FcoP5qocX]`|
 |[Garden Path](feats/archetype-08-bXoGskH0SYfdcEtJ.htm)|Chemin du jardin|`@Compendium[pf2e.feats-srd.bXoGskH0SYfdcEtJ]`|
+|[Garuda Magic](feats/ancestry-09-IHFqUHxNChCPZPml.htm)||`@Compendium[pf2e.feats-srd.IHFqUHxNChCPZPml]`|
+|[Garuda's Squall](feats/ancestry-05-scA2b141swxUPw8M.htm)||`@Compendium[pf2e.feats-srd.scA2b141swxUPw8M]`|
 |[Gaze of Veracity](feats/class-10-MgLUbsvAkIA4fsZW.htm)|Regard de véracité|`@Compendium[pf2e.feats-srd.MgLUbsvAkIA4fsZW]`|
 |[Gecko's Grip](feats/ancestry-05-kGed3uQbZ7x5SBB8.htm)|Prise du gecko|`@Compendium[pf2e.feats-srd.kGed3uQbZ7x5SBB8]`|
+|[Gemsoul](feats/ancestry-01-o6MXyjSgavTzU5AS.htm)||`@Compendium[pf2e.feats-srd.o6MXyjSgavTzU5AS]`|
 |[General Training](feats/ancestry-01-D3SuA5MaKucO1flE.htm)|Formation généraliste|`@Compendium[pf2e.feats-srd.D3SuA5MaKucO1flE]`|
+|[Genie Weapon Expertise](feats/ancestry-13-i3wSkeU7CSyHEi4Y.htm)||`@Compendium[pf2e.feats-srd.i3wSkeU7CSyHEi4Y]`|
+|[Genie Weapon Familiarity](feats/ancestry-01-8DDwqrYHie33cf6d.htm)||`@Compendium[pf2e.feats-srd.8DDwqrYHie33cf6d]`|
+|[Genie Weapon Flourish](feats/ancestry-05-2kwLzw618QaIHOap.htm)||`@Compendium[pf2e.feats-srd.2kwLzw618QaIHOap]`|
 |[Genius Mutagen](feats/class-16-mj1pVVFtqGLKgCQM.htm)|Mutagène de génie|`@Compendium[pf2e.feats-srd.mj1pVVFtqGLKgCQM]`|
 |[Ghost Hunter](feats/ancestry-01-DGtUIMliflzGXc6E.htm)|Chasseur de fantômes|`@Compendium[pf2e.feats-srd.DGtUIMliflzGXc6E]`|
 |[Ghost Hunter Dedication](feats/archetype-02-mkp6lhBbTASEmKwY.htm)|Dévouement de chasseur de fantômes|`@Compendium[pf2e.feats-srd.mkp6lhBbTASEmKwY]`|
@@ -2915,13 +3137,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Giant Snare](feats/archetype-10-SgXvw6rzk2lhTpXL.htm)|Piège artisanal géant|`@Compendium[pf2e.feats-srd.SgXvw6rzk2lhTpXL]`|
 |[Giant's Lunge](feats/class-14-MFqFvuiYDAoADcft.htm)|Fente de géant|`@Compendium[pf2e.feats-srd.MFqFvuiYDAoADcft]`|
 |[Giant's Stature](feats/class-06-W21jKAcG0GtEtBiK.htm)|Stature de géant|`@Compendium[pf2e.feats-srd.W21jKAcG0GtEtBiK]`|
+|[Gift Of The Moon](feats/ancestry-13-7Lx8rsEbBJkg6C17.htm)||`@Compendium[pf2e.feats-srd.7Lx8rsEbBJkg6C17]`|
 |[Glad-Hand](feats/skill-02-cc8O47KFsODReoBe.htm)|Cordialité forcée|`@Compendium[pf2e.feats-srd.cc8O47KFsODReoBe]`|
 |[Gladiator Dedication](feats/archetype-02-Dm0YMEvSY0qg0jA0.htm)|Dévouement du Gladiateur|`@Compendium[pf2e.feats-srd.Dm0YMEvSY0qg0jA0]`|
 |[Glean Contents](feats/skill-01-WeQGWvlWdeLeOlCN.htm)|Glaner des informations|`@Compendium[pf2e.feats-srd.WeQGWvlWdeLeOlCN]`|
 |[Glean Lore](feats/class-01-MJW4VP7PjVAX131C.htm)|Glaner le savoir|`@Compendium[pf2e.feats-srd.MJW4VP7PjVAX131C]`|
 |[Glib Mutagen](feats/class-14-HxkAhxcGvua6SkfS.htm)|Mutagène de bagou|`@Compendium[pf2e.feats-srd.HxkAhxcGvua6SkfS]`|
 |[Gloomseer](feats/ancestry-01-sL2GmYve5NXJ0wc1.htm)|Voyant pénombral|`@Compendium[pf2e.feats-srd.sL2GmYve5NXJ0wc1]`|
+|[Glory And Valor!](feats/ancestry-09-2GrlSP1xhKIz4G8B.htm)||`@Compendium[pf2e.feats-srd.2GrlSP1xhKIz4G8B]`|
 |[Glyph Expert](feats/archetype-08-qUBr1YsQw3BSNy9c.htm)|Expert des glyphes|`@Compendium[pf2e.feats-srd.qUBr1YsQw3BSNy9c]`|
+|[Gnaw](feats/ancestry-05-LNyTKhIZlM17026W.htm)||`@Compendium[pf2e.feats-srd.LNyTKhIZlM17026W]`|
 |[Gnome Obsession](feats/ancestry-01-mxhGH4FVYXJwb0BC.htm)|Obsession Gnome|`@Compendium[pf2e.feats-srd.mxhGH4FVYXJwb0BC]`|
 |[Gnome Polyglot](feats/ancestry-01-ccWf2F5DqiqFwiQ1.htm)|Polyglotte gnome|`@Compendium[pf2e.feats-srd.ccWf2F5DqiqFwiQ1]`|
 |[Gnome Weapon Expertise](feats/ancestry-13-j49fEU2TWJUaxD30.htm)|Expertise avec les armes gnomes|`@Compendium[pf2e.feats-srd.j49fEU2TWJUaxD30]`|
@@ -2940,6 +3165,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Gorilla Pound](feats/class-06-nRjyyDulHnP5OewA.htm)|Battement du gorille|`@Compendium[pf2e.feats-srd.nRjyyDulHnP5OewA]`|
 |[Gorilla Stance](feats/class-01-DqD7htz8Sd1dh3BT.htm)|Posture de gorille|`@Compendium[pf2e.feats-srd.DqD7htz8Sd1dh3BT]`|
 |[Gossip Lore](feats/archetype-04-7jqBwXq9jVsghCva.htm)|Connaissance des ragots|`@Compendium[pf2e.feats-srd.7jqBwXq9jVsghCva]`|
+|[Graceful Guidance](feats/ancestry-05-2IO2W09IvwGHvatH.htm)||`@Compendium[pf2e.feats-srd.2IO2W09IvwGHvatH]`|
 |[Graceful Leaper](feats/archetype-07-63sSYk5yqiAyZGb9.htm)|Sauteur gracieux|`@Compendium[pf2e.feats-srd.63sSYk5yqiAyZGb9]`|
 |[Graceful Poise](feats/class-16-rFaUJtB46scuAidY.htm)|Aisance gracieuse|`@Compendium[pf2e.feats-srd.rFaUJtB46scuAidY]`|
 |[Grasping Reach](feats/ancestry-01-weYZzyMmlCIC2TZt.htm)|Allonge agrippante|`@Compendium[pf2e.feats-srd.weYZzyMmlCIC2TZt]`|
@@ -2950,6 +3176,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Great Boaster](feats/archetype-08-4Ek3Kyle2DsCPQQm.htm)|Grande vantardise|`@Compendium[pf2e.feats-srd.4Ek3Kyle2DsCPQQm]`|
 |[Great Cleave](feats/class-10-cznEQ1W61MSaXW0u.htm)|Grand coup tranchant|`@Compendium[pf2e.feats-srd.cznEQ1W61MSaXW0u]`|
 |[Great Tengu Form](feats/ancestry-17-ABXUfGoeBgCyFasg.htm)|Forme du grand tengu|`@Compendium[pf2e.feats-srd.ABXUfGoeBgCyFasg]`|
+|[Greater Animal Senses](feats/ancestry-05-FayzcoNaiIdyPS2j.htm)||`@Compendium[pf2e.feats-srd.FayzcoNaiIdyPS2j]`|
 |[Greater Bloodline](feats/class-10-DpRMdytpPiCypmkJ.htm)|Lignage supérieur|`@Compendium[pf2e.feats-srd.DpRMdytpPiCypmkJ]`|
 |[Greater Crossblooded Evolution](feats/class-18-doD3jZylVXZ0oHWO.htm)|Évolution métisée supérieure|`@Compendium[pf2e.feats-srd.doD3jZylVXZ0oHWO]`|
 |[Greater Cruelty](feats/class-08-u2rvvAqZBugZgcYg.htm)|Cruauté supérieure|`@Compendium[pf2e.feats-srd.u2rvvAqZBugZgcYg]`|
@@ -2972,6 +3199,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Grievous Blow](feats/archetype-08-C3zKTQecexSbezhT.htm)|Coup douloureux|`@Compendium[pf2e.feats-srd.C3zKTQecexSbezhT]`|
 |[Grim Insight](feats/ancestry-01-zs2FFGI88zB7EaBT.htm)|Intérieur sombre|`@Compendium[pf2e.feats-srd.zs2FFGI88zB7EaBT]`|
 |[Grimspawn](feats/ancestry-01-nyhQ9xB0rkoAoNbf.htm)|Rejeton sombre|`@Compendium[pf2e.feats-srd.nyhQ9xB0rkoAoNbf]`|
+|[Gripping Limbs](feats/ancestry-09-4Ai8aNHYw7oEj7eE.htm)||`@Compendium[pf2e.feats-srd.4Ai8aNHYw7oEj7eE]`|
 |[Group Aid](feats/ancestry-09-sGdREpnSJDzEacub.htm)|Aide de groupe|`@Compendium[pf2e.feats-srd.sGdREpnSJDzEacub]`|
 |[Group Coercion](feats/skill-01-gUqvezs2zzoTXFAI.htm)|Contraindre un groupe|`@Compendium[pf2e.feats-srd.gUqvezs2zzoTXFAI]`|
 |[Group Impression](feats/skill-01-KpFetnUqTiweypZk.htm)|Bonne impression de groupe|`@Compendium[pf2e.feats-srd.KpFetnUqTiweypZk]`|
@@ -2980,6 +3208,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Guarded Movement](feats/class-04-fO1vRDEfl9pysfLU.htm)|Déplacement circonspect|`@Compendium[pf2e.feats-srd.fO1vRDEfl9pysfLU]`|
 |[Guardian's Deflection (Fighter)](feats/class-06-JdCRxwgtdQkJ1Ha6.htm)|Déviation du gardien (Guerrier)|`@Compendium[pf2e.feats-srd.JdCRxwgtdQkJ1Ha6]`|
 |[Guardian's Deflection (Swashbuckler)](feats/class-04-YJIzE2RhGRGfbt9j.htm)|Déviation du gardien (Bretteur)|`@Compendium[pf2e.feats-srd.YJIzE2RhGRGfbt9j]`|
+|[Guided By The Stars](feats/ancestry-05-s1swBWSqtfrXTJHK.htm)||`@Compendium[pf2e.feats-srd.s1swBWSqtfrXTJHK]`|
 |[Guiding Finish](feats/class-14-9t6Kfk8Yw8WJYY8Z.htm)|Final directif|`@Compendium[pf2e.feats-srd.9t6Kfk8Yw8WJYY8Z]`|
 |[Guiding Luck](feats/ancestry-09-k0sXAn4PPq5nW9al.htm)|Chance directrice|`@Compendium[pf2e.feats-srd.k0sXAn4PPq5nW9al]`|
 |[Guiding Riposte](feats/class-14-1DaSVLJEdJWYOWek.htm)|Riposte directive|`@Compendium[pf2e.feats-srd.1DaSVLJEdJWYOWek]`|
@@ -3000,23 +3229,29 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Hammer Quake](feats/archetype-14-CR9NcAIPTT4oWSEy.htm)|Séisme du Marteau|`@Compendium[pf2e.feats-srd.CR9NcAIPTT4oWSEy]`|
 |[Hand of the Apprentice](feats/class-01-pD1oDbUDkNtHadGY.htm)|Main de l'apprenti|`@Compendium[pf2e.feats-srd.pD1oDbUDkNtHadGY]`|
 |[Handy with your Paws](feats/ancestry-01-1newzNV5nkLvZ9KE.htm)|Adroit de vos pattes|`@Compendium[pf2e.feats-srd.1newzNV5nkLvZ9KE]`|
+|[Harbinger’s Caw](feats/ancestry-13-KRfZcToCc5nvcQRa.htm)||`@Compendium[pf2e.feats-srd.KRfZcToCc5nvcQRa]`|
 |[Hard Tail](feats/ancestry-01-0qeYP84FfQueggkx.htm)|Queue dure|`@Compendium[pf2e.feats-srd.0qeYP84FfQueggkx]`|
+|[Hard To Fool](feats/ancestry-01-7lXCPeGMB3RrDVdS.htm)||`@Compendium[pf2e.feats-srd.7lXCPeGMB3RrDVdS]`|
 |[Hardy Traveler](feats/ancestry-09-aznyI5mfMdEFSDr8.htm)|Voyageur robuste|`@Compendium[pf2e.feats-srd.aznyI5mfMdEFSDr8]`|
 |[Harming Hands](feats/class-01-1W0a6YCyoYv8dm4e.htm)|Mains blessantes|`@Compendium[pf2e.feats-srd.1W0a6YCyoYv8dm4e]`|
 |[Harmlessly Cute](feats/ancestry-01-GYdLf1LhvSUeu95Y.htm)|Inoffensivement mignon|`@Compendium[pf2e.feats-srd.GYdLf1LhvSUeu95Y]`|
 |[Harmonize](feats/class-06-21YWBdoXGmj60vdI.htm)|Harmoniser|`@Compendium[pf2e.feats-srd.21YWBdoXGmj60vdI]`|
 |[Harrying Strike](feats/archetype-10-fCsIyglmpb7NYwiy.htm)|Frappe harassante|`@Compendium[pf2e.feats-srd.fCsIyglmpb7NYwiy]`|
+|[Hatchling Flight](feats/ancestry-13-kBnsLuh3eBLjwGpN.htm)||`@Compendium[pf2e.feats-srd.kBnsLuh3eBLjwGpN]`|
 |[Haughty Obstinacy](feats/ancestry-01-RmiMUZlae6yGUyXY.htm)|Obstination arrogante|`@Compendium[pf2e.feats-srd.RmiMUZlae6yGUyXY]`|
 |[Hazard Finder](feats/class-08-16MOW7deoOoDwE9z.htm)|Dénicheur de dangers|`@Compendium[pf2e.feats-srd.16MOW7deoOoDwE9z]`|
 |[Head Stomp](feats/class-04-agfosPInBLQXNQfa.htm)|Piétiner la tête|`@Compendium[pf2e.feats-srd.agfosPInBLQXNQfa]`|
 |[Heal Animal](feats/archetype-04-OJxEF5FONTtEdbpP.htm)|Guérison des animaux|`@Compendium[pf2e.feats-srd.OJxEF5FONTtEdbpP]`|
 |[Heal Companion](feats/class-01-FhxkU6OftQeecpQW.htm)|Guérison du compagnon|`@Compendium[pf2e.feats-srd.FhxkU6OftQeecpQW]`|
 |[Heal Mount](feats/class-08-LnSMRHjMArCkE4w1.htm)|Guérison de destrier|`@Compendium[pf2e.feats-srd.LnSMRHjMArCkE4w1]`|
+|[Healer's Halo](feats/ancestry-05-BiPQAcvaEO0P2snr.htm)||`@Compendium[pf2e.feats-srd.BiPQAcvaEO0P2snr]`|
 |[Healing Bomb](feats/class-04-xXHwktc9SymSY8d6.htm)|Bombe de guérison|`@Compendium[pf2e.feats-srd.xXHwktc9SymSY8d6]`|
 |[Healing Hands](feats/class-01-zYhcEX4JnrZ08HfV.htm)|Mains guérisseuses|`@Compendium[pf2e.feats-srd.zYhcEX4JnrZ08HfV]`|
 |[Healing Touch](feats/archetype-04-jlLWz8e7PpLFt0Ed.htm)|Contact guérisseur|`@Compendium[pf2e.feats-srd.jlLWz8e7PpLFt0Ed]`|
 |[Healing Transformation](feats/class-10-85V3vdew0gykEtmu.htm)|Transformation curative|`@Compendium[pf2e.feats-srd.85V3vdew0gykEtmu]`|
+|[Heat Wave](feats/ancestry-05-bKc8MMFEOpOJJihb.htm)||`@Compendium[pf2e.feats-srd.bKc8MMFEOpOJJihb]`|
 |[Heaven's Thunder](feats/archetype-06-qJdbK8vgIqeHU7bu.htm)|Tonnerre du Paradis|`@Compendium[pf2e.feats-srd.qJdbK8vgIqeHU7bu]`|
+|[Hefting Shadow](feats/ancestry-09-O80QCYMqz4VZsfxT.htm)||`@Compendium[pf2e.feats-srd.O80QCYMqz4VZsfxT]`|
 |[Hefty Hauler](feats/skill-01-C0Tcelg3BAPhML6J.htm)|Portefaix|`@Compendium[pf2e.feats-srd.C0Tcelg3BAPhML6J]`|
 |[Heir of the Saoc](feats/ancestry-09-MTp2j4N4H4wj07pH.htm)|Héritier de Saoc|`@Compendium[pf2e.feats-srd.MTp2j4N4H4wj07pH]`|
 |[Hell's Armaments](feats/archetype-12-J5s7NeFHYuFSdhrX.htm)|Arsenal infernal|`@Compendium[pf2e.feats-srd.J5s7NeFHYuFSdhrX]`|
@@ -3027,6 +3262,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Hellspawn](feats/ancestry-01-EXVHePH8alsTZ5TB.htm)|Rejeton infernal|`@Compendium[pf2e.feats-srd.EXVHePH8alsTZ5TB]`|
 |[Helpful Halfling](feats/ancestry-09-gWyCNTWUhxneOBne.htm)|Halfelin utile|`@Compendium[pf2e.feats-srd.gWyCNTWUhxneOBne]`|
 |[Herbalist Dedication](feats/archetype-02-5CRt5Dy9eLv5LpRF.htm)|Dévouement d'herboriste|`@Compendium[pf2e.feats-srd.5CRt5Dy9eLv5LpRF]`|
+|[Hero's Wings](feats/ancestry-17-ZOlwVqWa4hfv44xX.htm)||`@Compendium[pf2e.feats-srd.ZOlwVqWa4hfv44xX]`|
 |[Heroes' Call](feats/ancestry-09-7cM7uKRKQDWz5eeu.htm)|Appel des héros|`@Compendium[pf2e.feats-srd.7cM7uKRKQDWz5eeu]`|
 |[Heroic Presence](feats/ancestry-17-iVwsLYjOJbfvL0Pe.htm)|Présence héroïque|`@Compendium[pf2e.feats-srd.iVwsLYjOJbfvL0Pe]`|
 |[Heroic Recovery](feats/class-10-KR78kinMmAZQHeoa.htm)|Récupération héroïque|`@Compendium[pf2e.feats-srd.KR78kinMmAZQHeoa]`|
@@ -3048,6 +3284,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Holistic Care](feats/archetype-06-1WfvvjjObPKeZyid.htm)|Soins holistiques|`@Compendium[pf2e.feats-srd.1WfvvjjObPKeZyid]`|
 |[Holy Castigation](feats/class-01-142QRyK2aPIrJu48.htm)|Punition sacrée|`@Compendium[pf2e.feats-srd.142QRyK2aPIrJu48]`|
 |[Homeward Bound](feats/ancestry-17-UKHIKipBvOGhzcSQ.htm)|Rentrer à la maison|`@Compendium[pf2e.feats-srd.UKHIKipBvOGhzcSQ]`|
+|[Hopping Stride](feats/ancestry-05-RkEvEqwc8pCBcusz.htm)||`@Compendium[pf2e.feats-srd.RkEvEqwc8pCBcusz]`|
 |[Horizon Walker Dedication](feats/archetype-02-pZMBq7gn66SEEA0n.htm)|Dévouement d'Arpenteur d'horizon|`@Compendium[pf2e.feats-srd.pZMBq7gn66SEEA0n]`|
 |[House of Imaginary Walls](feats/class-10-dutiFC41YFllm8fM.htm)|Demeure aux murs imaginaires|`@Compendium[pf2e.feats-srd.dutiFC41YFllm8fM]`|
 |[Hungry Goblin](feats/ancestry-09-DnfVQGLk3PAl8UWh.htm)|Gobelin affamé|`@Compendium[pf2e.feats-srd.DnfVQGLk3PAl8UWh]`|
@@ -3056,7 +3293,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Hunter's Luck](feats/class-04-N4TpzEzuFbInSgvz.htm)|Chance du chasseur|`@Compendium[pf2e.feats-srd.N4TpzEzuFbInSgvz]`|
 |[Hunter's Vision](feats/class-10-W7aT1UJOVFkYdQti.htm)|Vision du chasseur|`@Compendium[pf2e.feats-srd.W7aT1UJOVFkYdQti]`|
 |[Hurling Charge](feats/archetype-04-9KvsO72JJ3pfkG4U.htm)|Lancer en chargeant|`@Compendium[pf2e.feats-srd.9KvsO72JJ3pfkG4U]`|
+|[Hurricane Swing](feats/ancestry-17-iJrjzLnLJkvQgrbS.htm)||`@Compendium[pf2e.feats-srd.iJrjzLnLJkvQgrbS]`|
+|[Hybrid Form](feats/ancestry-05-OhyN9pBHdMpC126F.htm)||`@Compendium[pf2e.feats-srd.OhyN9pBHdMpC126F]`|
+|[Hydraulic Amneuvers](feats/ancestry-13-XswthL1fTc7eWZwG.htm)||`@Compendium[pf2e.feats-srd.XswthL1fTc7eWZwG]`|
+|[Hydraulic Deflection](feats/ancestry-01-kqRFoXfErUFEndIs.htm)||`@Compendium[pf2e.feats-srd.kqRFoXfErUFEndIs]`|
 |[Hymn Of Healing](feats/class-01-jGTRRCqxn1FIBxE2.htm)|Hymne de guérison|`@Compendium[pf2e.feats-srd.jGTRRCqxn1FIBxE2]`|
+|[Idyllkin](feats/ancestry-01-ZUjjUj9lVGOKrJbp.htm)||`@Compendium[pf2e.feats-srd.ZUjjUj9lVGOKrJbp]`|
 |[Illusion Sense](feats/ancestry-01-tFgsBRsEo9ZEA5fU.htm)|Perception des illusions|`@Compendium[pf2e.feats-srd.tFgsBRsEo9ZEA5fU]`|
 |[Impaling Briars](feats/class-16-urYHB6VHhqvPMSy7.htm)|Ronces empaleuses|`@Compendium[pf2e.feats-srd.urYHB6VHhqvPMSy7]`|
 |[Impaling Finisher](feats/class-04-Qfn7lmOeXfBtpG4O.htm)|Botte empalante|`@Compendium[pf2e.feats-srd.Qfn7lmOeXfBtpG4O]`|
@@ -3066,6 +3308,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Implausible Infiltration](feats/class-18-fLrwddS607eRFfHA.htm)|Infiltration invraisemblable|`@Compendium[pf2e.feats-srd.fLrwddS607eRFfHA]`|
 |[Implausible Purchase (Investigator)](feats/class-16-RqccUKf8DCPnsYXJ.htm)|Achat improbable (Enquêteur)|`@Compendium[pf2e.feats-srd.RqccUKf8DCPnsYXJ]`|
 |[Implausible Purchase (Rogue)](feats/class-18-zCASpQconMmtJKQN.htm)|Achat improbable (Roublard)|`@Compendium[pf2e.feats-srd.zCASpQconMmtJKQN]`|
+|[Impose Order](feats/ancestry-13-DIjpbE2dh5MRGiYO.htm)||`@Compendium[pf2e.feats-srd.DIjpbE2dh5MRGiYO]`|
 |[Imposing Destrier](feats/class-10-07jxXvRZ8nD3JLF4.htm)|Destrier imposant|`@Compendium[pf2e.feats-srd.07jxXvRZ8nD3JLF4]`|
 |[Impossible Flurry](feats/class-18-OqHfUQQorVBkx34j.htm)|Déluge invraisemblable|`@Compendium[pf2e.feats-srd.OqHfUQQorVBkx34j]`|
 |[Impossible Polymath](feats/class-18-L5n4PvQYhpl2WM9e.htm)|Touche-à-tout invraisemblable|`@Compendium[pf2e.feats-srd.L5n4PvQYhpl2WM9e]`|
@@ -3081,6 +3324,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Improved Command Undead](feats/class-10-A0ZQpGSB7pvIDiou.htm)|Contrôle des morts-vivants amélioré|`@Compendium[pf2e.feats-srd.A0ZQpGSB7pvIDiou]`|
 |[Improved Communal Healing](feats/class-04-IOdk7bOJ4dgYVh9I.htm)|Guérison collective améliorée|`@Compendium[pf2e.feats-srd.IOdk7bOJ4dgYVh9I]`|
 |[Improved Dueling Riposte](feats/class-12-mgs7vxq6d3hQoswa.htm)|Riposte en duel améliorée|`@Compendium[pf2e.feats-srd.mgs7vxq6d3hQoswa]`|
+|[Improved Elemental Bulwark](feats/ancestry-13-xTLy2AyVW90TrQk6.htm)||`@Compendium[pf2e.feats-srd.xTLy2AyVW90TrQk6]`|
 |[Improved Familiar (Familiar Master)](feats/archetype-06-9C6a6FXuPqWjXy8K.htm)|Familier amélioré (Maître familier)|`@Compendium[pf2e.feats-srd.9C6a6FXuPqWjXy8K]`|
 |[Improved Familiar (Witch)](feats/class-04-2VKV7jLRTxWyVjGa.htm)|Familier amélioré (Sorcière)|`@Compendium[pf2e.feats-srd.2VKV7jLRTxWyVjGa]`|
 |[Improved Knockback](feats/class-12-HPETR6zq8L6YJyi1.htm)|Repoussement amélioré|`@Compendium[pf2e.feats-srd.HPETR6zq8L6YJyi1]`|
@@ -3116,9 +3360,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Infinite Possibilities](feats/class-18-LAHiW98iPJKplFyK.htm)|Possibilités infinies|`@Compendium[pf2e.feats-srd.LAHiW98iPJKplFyK]`|
 |[Influence Nature](feats/skill-07-f5JOSyW1tKMpz6hU.htm)|Influencer la nature|`@Compendium[pf2e.feats-srd.f5JOSyW1tKMpz6hU]`|
 |[Innate Magical Intuition](feats/archetype-08-QYZovCDjOhBb1u01.htm)|Intuition magique innée|`@Compendium[pf2e.feats-srd.QYZovCDjOhBb1u01]`|
+|[Inner Breath](feats/ancestry-09-tyae2vpOiAMxXvQH.htm)||`@Compendium[pf2e.feats-srd.tyae2vpOiAMxXvQH]`|
+|[Inner Fire](feats/ancestry-01-N3xyK9keDm00oUY6.htm)||`@Compendium[pf2e.feats-srd.N3xyK9keDm00oUY6]`|
 |[Inner Strength](feats/class-06-OY1Ewg0dbCp52Hl5.htm)|Force intérieure|`@Compendium[pf2e.feats-srd.OY1Ewg0dbCp52Hl5]`|
 |[Innocuous](feats/ancestry-01-E1sjYRb4zsZVrzrN.htm)|Inoffensif|`@Compendium[pf2e.feats-srd.E1sjYRb4zsZVrzrN]`|
 |[Inoculation](feats/skill-01-sMCpihnBEpx18GBD.htm)|Vaccination|`@Compendium[pf2e.feats-srd.sMCpihnBEpx18GBD]`|
+|[Inoculation Subroutine](feats/ancestry-05-rp3mjgFXBVZYCleU.htm)||`@Compendium[pf2e.feats-srd.rp3mjgFXBVZYCleU]`|
 |[Insect Shape](feats/class-06-OWedlrKGsVZVkSnT.htm)|Morphologie d'insecte|`@Compendium[pf2e.feats-srd.OWedlrKGsVZVkSnT]`|
 |[Insistent Command](feats/archetype-08-rhVL28qFl760qJQe.htm)|Ordre insistant|`@Compendium[pf2e.feats-srd.rhVL28qFl760qJQe]`|
 |[Inspirational Focus](feats/class-12-UIRcjHxuSedoDOj4.htm)|Focalisation inspirante|`@Compendium[pf2e.feats-srd.UIRcjHxuSedoDOj4]`|
@@ -3129,17 +3376,23 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Inspire Imitation](feats/ancestry-05-pqezW5dqha1I32Ld.htm)|Exemplarité|`@Compendium[pf2e.feats-srd.pqezW5dqha1I32Ld]`|
 |[Inspired Stratagem](feats/class-08-9pTQrhbeF348bYky.htm)|Stratagème inspiré|`@Compendium[pf2e.feats-srd.9pTQrhbeF348bYky]`|
 |[Inspiring Marshal Stance](feats/archetype-04-bvOsJNeI0ewvQsFa.htm)|Posture du Capitaine inspirant|`@Compendium[pf2e.feats-srd.bvOsJNeI0ewvQsFa]`|
+|[Inspirit Hazard](feats/ancestry-13-5iHB5ZFJ25XrZHye.htm)||`@Compendium[pf2e.feats-srd.5iHB5ZFJ25XrZHye]`|
 |[Instant Opening](feats/class-14-9zH7IOsmhRBEqXAV.htm)|Ouverture instantanée|`@Compendium[pf2e.feats-srd.9zH7IOsmhRBEqXAV]`|
 |[Instinct Ability](feats/archetype-06-4T9HHOdTk3yVbeoO.htm)|Pouvoir d'instinct|`@Compendium[pf2e.feats-srd.4T9HHOdTk3yVbeoO]`|
 |[Instinctive Obfuscation](feats/ancestry-13-jatfexNkXaTs9s5Q.htm)||`@Compendium[pf2e.feats-srd.jatfexNkXaTs9s5Q]`|
 |[Instinctive Strike](feats/class-08-LVTquA3DpqCJDika.htm)|Frappe instinctive|`@Compendium[pf2e.feats-srd.LVTquA3DpqCJDika]`|
 |[Instrument Of Slaughter](feats/class-16-i98NcWSAbWmNmBik.htm)|Instrument du massacre|`@Compendium[pf2e.feats-srd.i98NcWSAbWmNmBik]`|
 |[Instrument of Zeal](feats/class-16-h08Vfel5iIAARWdy.htm)|Instrument de zèle|`@Compendium[pf2e.feats-srd.h08Vfel5iIAARWdy]`|
+|[Intercorporate](feats/ancestry-05-vdowlFFknihiz5pm.htm)||`@Compendium[pf2e.feats-srd.vdowlFFknihiz5pm]`|
+|[Internal Cohesion](feats/ancestry-01-db0RHtFGhCfMx8vT.htm)||`@Compendium[pf2e.feats-srd.db0RHtFGhCfMx8vT]`|
+|[Internal Compartment](feats/ancestry-01-upMcjxPDgNOLuu7N.htm)||`@Compendium[pf2e.feats-srd.upMcjxPDgNOLuu7N]`|
+|[Internal Respirator](feats/ancestry-09-7eyy63BkMv3enk5r.htm)||`@Compendium[pf2e.feats-srd.7eyy63BkMv3enk5r]`|
 |[Interweave Dispel](feats/class-14-bjNeSAldeTzRcEaQ.htm)|Dissipation entremêlée|`@Compendium[pf2e.feats-srd.bjNeSAldeTzRcEaQ]`|
 |[Intimidating Glare](feats/skill-01-xQMz6eDgX75WX2ce.htm)|Regard intimidant|`@Compendium[pf2e.feats-srd.xQMz6eDgX75WX2ce]`|
 |[Intimidating Prowess](feats/skill-02-XFJiGllNZp8Xebda.htm)|Prouesse intimidante|`@Compendium[pf2e.feats-srd.XFJiGllNZp8Xebda]`|
 |[Intimidating Strike](feats/class-02-lkcM4V3VDAtjlR9P.htm)|Frappe intimidante|`@Compendium[pf2e.feats-srd.lkcM4V3VDAtjlR9P]`|
 |[Intuitive Cooperation](feats/ancestry-01-AjdmoGFoSIyx1mxd.htm)|Coopération intuitive|`@Compendium[pf2e.feats-srd.AjdmoGFoSIyx1mxd]`|
+|[Intuitive Crafting](feats/general-01-XKDFgBEtFdEzCz8X.htm)||`@Compendium[pf2e.feats-srd.XKDFgBEtFdEzCz8X]`|
 |[Intuitive Illusions](feats/ancestry-05-MwjnRpVn3br88Caj.htm)|Illusions intuitives|`@Compendium[pf2e.feats-srd.MwjnRpVn3br88Caj]`|
 |[Inventive Offensive](feats/ancestry-01-SrSYEHqOLXWuj65e.htm)|Offensive inventive|`@Compendium[pf2e.feats-srd.SrSYEHqOLXWuj65e]`|
 |[Inventor](feats/skill-07-XR95taODq1sq82Du.htm)|Inventeur|`@Compendium[pf2e.feats-srd.XR95taODq1sq82Du]`|
@@ -3148,7 +3401,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Investigator's Stratagem](feats/archetype-06-7XcQ8Ygz5cubGxdC.htm)|Stratagème d'enquêteur|`@Compendium[pf2e.feats-srd.7XcQ8Ygz5cubGxdC]`|
 |[Invigorating Mercy](feats/class-06-fx50Ivl1ERxTijpT.htm)|Soulagement revigorant|`@Compendium[pf2e.feats-srd.fx50Ivl1ERxTijpT]`|
 |[Invincible Mutagen](feats/class-12-uAh31Hnp1EZSjd40.htm)|Mutagène invincible|`@Compendium[pf2e.feats-srd.uAh31Hnp1EZSjd40]`|
+|[Invisible Trickster](feats/ancestry-13-XzTklOArNQle7rQP.htm)||`@Compendium[pf2e.feats-srd.XzTklOArNQle7rQP]`|
 |[Invoke Disaster](feats/class-18-2RaDe6Fi4t7S2IDF.htm)|Invocation de désastre|`@Compendium[pf2e.feats-srd.2RaDe6Fi4t7S2IDF]`|
+|[Invoke The Elements](feats/ancestry-09-4Jwtl2FvxskruHQv.htm)||`@Compendium[pf2e.feats-srd.4Jwtl2FvxskruHQv]`|
 |[Invoke the Crimson Oath](feats/archetype-08-tH5w8vIfFCFNVP7T.htm)|Invoquer le Serment écarlate|`@Compendium[pf2e.feats-srd.tH5w8vIfFCFNVP7T]`|
 |[Invulnerable Juggernaut](feats/class-20-VSyuTWRuxdmgq2HS.htm)|Juggernaut invulnérable|`@Compendium[pf2e.feats-srd.VSyuTWRuxdmgq2HS]`|
 |[Iron Fists](feats/ancestry-01-JP5pptkl1Fx1JK4m.htm)|Poings de fer|`@Compendium[pf2e.feats-srd.JP5pptkl1Fx1JK4m]`|
@@ -3156,12 +3411,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Iron Repercussions](feats/class-01-XttSGDuAsRDTuvgS.htm)|Répercussions de fer|`@Compendium[pf2e.feats-srd.XttSGDuAsRDTuvgS]`|
 |[Ironblood Stance](feats/class-08-x9cYkB8DrUBBwqJd.htm)|Posture du sang-de-fer|`@Compendium[pf2e.feats-srd.x9cYkB8DrUBBwqJd]`|
 |[Ironblood Surge](feats/class-14-IqDbNiwHQH1xApo9.htm)|Afflux de sang de fer|`@Compendium[pf2e.feats-srd.IqDbNiwHQH1xApo9]`|
-|[Irrepressible](feats/ancestry-09-cRMUYCnkkE9lSEhh.htm)|Irrépressible|`@Compendium[pf2e.feats-srd.cRMUYCnkkE9lSEhh]`|
+|[Irrepressible (Ganzi)](feats/ancestry-01-WYEjiUZQJP3uMk4Z.htm)||`@Compendium[pf2e.feats-srd.WYEjiUZQJP3uMk4Z]`|
+|[Irrepressible (Halfling)](feats/ancestry-09-cRMUYCnkkE9lSEhh.htm)|Irrépressible|`@Compendium[pf2e.feats-srd.cRMUYCnkkE9lSEhh]`|
 |[Irriseni Ice-Witch](feats/ancestry-13-arlZTqfppOAXBhdw.htm)|Sorcière de glace Irriseni|`@Compendium[pf2e.feats-srd.arlZTqfppOAXBhdw]`|
+|[Iruxi Glide](feats/ancestry-05-yqtaAZR9jfen6gEW.htm)||`@Compendium[pf2e.feats-srd.yqtaAZR9jfen6gEW]`|
+|[Iruxi Spirit Strike](feats/ancestry-13-pivX2SxPQjKDyvHU.htm)||`@Compendium[pf2e.feats-srd.pivX2SxPQjKDyvHU]`|
 |[Iruxi Unarmed Cunning](feats/ancestry-05-5iULRBRDOryuWX6t.htm)|ruse à mains nues iruxie|`@Compendium[pf2e.feats-srd.5iULRBRDOryuWX6t]`|
 |[Iruxi Unarmed Expertise](feats/ancestry-13-Tn2iMLKvhZki1O3S.htm)|Expertise à mains nues Iruxi|`@Compendium[pf2e.feats-srd.Tn2iMLKvhZki1O3S]`|
 |[Jalmeri Heavenseeker Dedication](feats/archetype-04-Ze9vb0wlRmWWqnXC.htm)|Dévouement de Chercheur du Paradis du Jalmeray|`@Compendium[pf2e.feats-srd.Ze9vb0wlRmWWqnXC]`|
 |[Janatimo's Secret Lesson](feats/archetype-12-CQfxxsRxf1BuUH4o.htm)|Leçon secrète de Janatimo|`@Compendium[pf2e.feats-srd.CQfxxsRxf1BuUH4o]`|
+|[Janni Hospitality](feats/ancestry-09-6WwxTbX8KvU3Xxak.htm)||`@Compendium[pf2e.feats-srd.6WwxTbX8KvU3Xxak]`|
+|[Janni Magic](feats/ancestry-09-xDCtfNtbnaG166cy.htm)||`@Compendium[pf2e.feats-srd.xDCtfNtbnaG166cy]`|
+|[Jinx Glutton](feats/ancestry-13-eGfYZoWC6cDa2XWd.htm)||`@Compendium[pf2e.feats-srd.eGfYZoWC6cDa2XWd]`|
 |[Judgement of the Monolith](feats/archetype-12-YidYY7k2gvny9eSY.htm)|Jugement du Monolithe|`@Compendium[pf2e.feats-srd.YidYY7k2gvny9eSY]`|
 |[Juggernaut's Fortitude](feats/archetype-12-jPBqvEH2jLlvDr6M.htm)|Vigueur du juggernaut|`@Compendium[pf2e.feats-srd.jPBqvEH2jLlvDr6M]`|
 |[Juggle](feats/skill-02-AYb8PmGJ37HwIMwj.htm)|Jonglage|`@Compendium[pf2e.feats-srd.AYb8PmGJ37HwIMwj]`|
@@ -3169,6 +3430,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Junk Tinker](feats/ancestry-01-YMKtEoNwHKA713Cx.htm)|Bricoleur de rebuts|`@Compendium[pf2e.feats-srd.YMKtEoNwHKA713Cx]`|
 |[Just One More Thing](feats/class-10-YluQPhevo0LKdF1p.htm)|Encore une chose|`@Compendium[pf2e.feats-srd.YluQPhevo0LKdF1p]`|
 |[Just The Facts](feats/class-20-ZfycfbXlPXZlSqw5.htm)|Juste les faits|`@Compendium[pf2e.feats-srd.ZfycfbXlPXZlSqw5]`|
+|[Juvenile Flight](feats/ancestry-09-pe6cHJzzMm5Tr25G.htm)||`@Compendium[pf2e.feats-srd.pe6cHJzzMm5Tr25G]`|
 |[Ka Stone Ritual](feats/archetype-04-CZQgH17ZxoBiVXLa.htm)|Rituel de la pierre Ka|`@Compendium[pf2e.feats-srd.CZQgH17ZxoBiVXLa]`|
 |[Keen Follower](feats/general-03-fD9xjrnPfJ8aQxYA.htm)|Suivant appliqué|`@Compendium[pf2e.feats-srd.fD9xjrnPfJ8aQxYA]`|
 |[Keen Recollection](feats/archetype-06-Ig431EeRy3FKMmMq.htm)|Souvenirs affûtés|`@Compendium[pf2e.feats-srd.Ig431EeRy3FKMmMq]`|
@@ -3179,7 +3441,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ki Form](feats/class-18-oYFsw3LdgsN2QKVs.htm)|Forme ki|`@Compendium[pf2e.feats-srd.oYFsw3LdgsN2QKVs]`|
 |[Ki Rush](feats/class-01-yA9tsWT9uzL2REnw.htm)|Ruée Ki|`@Compendium[pf2e.feats-srd.yA9tsWT9uzL2REnw]`|
 |[Ki Strike](feats/class-01-3a07jkWezSuORSpS.htm)|Frappe ki|`@Compendium[pf2e.feats-srd.3a07jkWezSuORSpS]`|
+|[Killing Stone](feats/ancestry-13-93vQcuKBESXUKoH5.htm)||`@Compendium[pf2e.feats-srd.93vQcuKBESXUKoH5]`|
 |[Kip Up](feats/skill-07-gBSPbQRXdagZTUwY.htm)|Saut carpé|`@Compendium[pf2e.feats-srd.gBSPbQRXdagZTUwY]`|
+|[Kitsune Lore](feats/ancestry-01-b60ZCgKoaVDgMhBk.htm)||`@Compendium[pf2e.feats-srd.b60ZCgKoaVDgMhBk]`|
+|[Kitsune Spell Expertise](feats/ancestry-13-JlkkYedPyWLShuka.htm)||`@Compendium[pf2e.feats-srd.JlkkYedPyWLShuka]`|
+|[Kitsune Spell Familiarity](feats/ancestry-01-Zz7isE8Td2xDWqR8.htm)||`@Compendium[pf2e.feats-srd.Zz7isE8Td2xDWqR8]`|
+|[Kitsune Spell Mysteries](feats/ancestry-05-RP7TlsqNuge0dltp.htm)||`@Compendium[pf2e.feats-srd.RP7TlsqNuge0dltp]`|
 |[Kneecap](feats/ancestry-05-1muxLx8Vacn2SLHc.htm)|Rotule|`@Compendium[pf2e.feats-srd.1muxLx8Vacn2SLHc]`|
 |[Kneel for No God](feats/ancestry-09-wGzKq2cx1b2Ycl4u.htm)|Ne s'agenouiller pour aucun dieu|`@Compendium[pf2e.feats-srd.wGzKq2cx1b2Ycl4u]`|
 |[Knight Reclaimant Dedication](feats/archetype-06-H86VNC6cNWhBI8Ed.htm)|Dévouement de Chevalier récupérateur|`@Compendium[pf2e.feats-srd.H86VNC6cNWhBI8Ed]`|
@@ -3195,12 +3462,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Known Weaknesses](feats/class-01-iWvpq3uDZcXvBJj8.htm)|Faiblesses connues|`@Compendium[pf2e.feats-srd.iWvpq3uDZcXvBJj8]`|
 |[Kobold Breath](feats/ancestry-01-PPUNMjRLQYnmwQvF.htm)|Souffle de kobold|`@Compendium[pf2e.feats-srd.PPUNMjRLQYnmwQvF]`|
 |[Kobold Lore](feats/ancestry-01-IElFaS5i10MFYIvq.htm)|Connaissance des kobolds|`@Compendium[pf2e.feats-srd.IElFaS5i10MFYIvq]`|
+|[Kobold Weapon Expertise](feats/ancestry-13-j0fgquODHTyyekyO.htm)||`@Compendium[pf2e.feats-srd.j0fgquODHTyyekyO]`|
+|[Kobold Weapon Familiarity](feats/ancestry-01-OTjRxyCtwPoqNFP2.htm)||`@Compendium[pf2e.feats-srd.OTjRxyCtwPoqNFP2]`|
+|[Kobold Weapon Innovator](feats/ancestry-05-VNmmHrMAVk3Tiw1d.htm)||`@Compendium[pf2e.feats-srd.VNmmHrMAVk3Tiw1d]`|
 |[Kreighton's Cognitive Crossover](feats/skill-04-kIXFNPFBStOKunq4.htm)|Mélange cognitif de Kreighton|`@Compendium[pf2e.feats-srd.kIXFNPFBStOKunq4]`|
 |[Lab Rat](feats/ancestry-05-QE8asCPqyrdenll0.htm)|Rat de labo|`@Compendium[pf2e.feats-srd.QE8asCPqyrdenll0]`|
+|[Larcenous Tail](feats/ancestry-09-DTU4jrz9YNr7e62e.htm)||`@Compendium[pf2e.feats-srd.DTU4jrz9YNr7e62e]`|
 |[Lasting Coercion](feats/skill-02-6vnbC90UQ3I57RrQ.htm)|Contrainte durable|`@Compendium[pf2e.feats-srd.6vnbC90UQ3I57RrQ]`|
 |[Lasting Doubt](feats/class-12-56BMXlQlZtg39SMV.htm)|Doute Tenace|`@Compendium[pf2e.feats-srd.56BMXlQlZtg39SMV]`|
 |[Lastwall Sentry Dedication](feats/archetype-02-bWYnjNa2RknMoibg.htm)|Dévouement de Sentinelle de Dernier-Rempart|`@Compendium[pf2e.feats-srd.bWYnjNa2RknMoibg]`|
 |[Lastwall Warden](feats/archetype-10-V5Y9r31BCTaCiNzi.htm)|Gardien du Dernier-rempart|`@Compendium[pf2e.feats-srd.V5Y9r31BCTaCiNzi]`|
+|[Lavasoul](feats/ancestry-01-JoeepCWheQChcQ9s.htm)||`@Compendium[pf2e.feats-srd.JoeepCWheQChcQ9s]`|
 |[Lawbringer](feats/ancestry-01-g3oJlWGHc74qX2z5.htm)|Porteur de loi|`@Compendium[pf2e.feats-srd.g3oJlWGHc74qX2z5]`|
 |[Lead Climber](feats/skill-02-vjQ3VUpYlTAAIx3b.htm)|Premier de cordée|`@Compendium[pf2e.feats-srd.vjQ3VUpYlTAAIx3b]`|
 |[Lead Investigator](feats/class-18-YWRdk9oGMY6WmgIC.htm)|Enquêteur principal|`@Compendium[pf2e.feats-srd.YWRdk9oGMY6WmgIC]`|
@@ -3222,6 +3494,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Legendary Survivalist](feats/skill-15-Ta61ObC8Lk7BxTFO.htm)|Survivaliste légendaire|`@Compendium[pf2e.feats-srd.Ta61ObC8Lk7BxTFO]`|
 |[Legendary Thief](feats/skill-15-IZbjUaZI5zHTd1Vp.htm)|Voleur légendaire|`@Compendium[pf2e.feats-srd.IZbjUaZI5zHTd1Vp]`|
 |[Legs of Stone](feats/archetype-12-PeBz8f9h8Y4OFdws.htm)|Jambes de pierre|`@Compendium[pf2e.feats-srd.PeBz8f9h8Y4OFdws]`|
+|[Lemma Of Vision](feats/ancestry-01-HAMy8UiUqCGFdhrf.htm)||`@Compendium[pf2e.feats-srd.HAMy8UiUqCGFdhrf]`|
 |[Lengthy Diversion](feats/skill-01-HEBXaS656MZTiWFu.htm)|Diversion interminable|`@Compendium[pf2e.feats-srd.HEBXaS656MZTiWFu]`|
 |[Leshy Familiar](feats/class-01-7y1BCJLrdk9mKXlc.htm)|Familier léchi|`@Compendium[pf2e.feats-srd.7y1BCJLrdk9mKXlc]`|
 |[Leshy Familiar Secrets](feats/class-04-baz18CdB13DVMHV9.htm)|Secrets du familier léchi|`@Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]`|
@@ -3236,12 +3509,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lie To Me](feats/skill-01-Dvz54d6aPhjsmUux.htm)|Détecteur de mensonges|`@Compendium[pf2e.feats-srd.Dvz54d6aPhjsmUux]`|
 |[Life Leap](feats/ancestry-09-aOIZvx5fx5jVHHOO.htm)|Bond vital|`@Compendium[pf2e.feats-srd.aOIZvx5fx5jVHHOO]`|
 |[Life-Giving Magic](feats/ancestry-01-hSzNtRNwrma81Eeq.htm)|Magie de la vie|`@Compendium[pf2e.feats-srd.hSzNtRNwrma81Eeq]`|
+|[Lifeblood’s Call](feats/ancestry-13-Ih85PWZSVTwU0xkI.htm)||`@Compendium[pf2e.feats-srd.Ih85PWZSVTwU0xkI]`|
 |[Lifesense](feats/ancestry-05-iNrR4WOB1UO9iiNE.htm)|Sens de la vie|`@Compendium[pf2e.feats-srd.iNrR4WOB1UO9iiNE]`|
 |[Light From Darkness](feats/ancestry-09-IQ9C7glCXVgYecz1.htm)|De l'obscurité à la lumière|`@Compendium[pf2e.feats-srd.IQ9C7glCXVgYecz1]`|
 |[Light Paws](feats/ancestry-05-EdVMwFRNV1LX1VWh.htm)|Pattes légères|`@Compendium[pf2e.feats-srd.EdVMwFRNV1LX1VWh]`|
 |[Light Step](feats/class-06-4o9g5g12yyrfZ3Xd.htm)|Pas léger|`@Compendium[pf2e.feats-srd.4o9g5g12yyrfZ3Xd]`|
 |[Light of Revelation](feats/class-04-jQ8JntOdBFHPw5S4.htm)|Lumière de révélation|`@Compendium[pf2e.feats-srd.jQ8JntOdBFHPw5S4]`|
+|[Lightless Litheness](feats/ancestry-05-oqoftwLB6tvoLjnL.htm)||`@Compendium[pf2e.feats-srd.oqoftwLB6tvoLjnL]`|
 |[Lightning Snares](feats/class-12-OrNcWu1Y7c2O5zU6.htm)|Pose éclair de pièges artisanaux|`@Compendium[pf2e.feats-srd.OrNcWu1Y7c2O5zU6]`|
+|[Lightning Tongue](feats/ancestry-01-qzalwa2Ze3dIqIrA.htm)||`@Compendium[pf2e.feats-srd.qzalwa2Ze3dIqIrA]`|
 |[Lightslayer Oath](feats/class-02-9WzZc110jCNnjjRz.htm)|Serment de tueur de lumière|`@Compendium[pf2e.feats-srd.9WzZc110jCNnjjRz]`|
 |[Lingering Composition](feats/class-01-sVjATEo8eqkAosNp.htm)|Composition prolongée|`@Compendium[pf2e.feats-srd.sVjATEo8eqkAosNp]`|
 |[Linguist Dedication](feats/archetype-02-u6SDVWbzHnBBPNMo.htm)|Dévouement du linguiste|`@Compendium[pf2e.feats-srd.u6SDVWbzHnBBPNMo]`|
@@ -3255,6 +3531,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Living Hair](feats/class-02-XHaxSBOaFMnBbBKt.htm)|Cheveux vivants|`@Compendium[pf2e.feats-srd.XHaxSBOaFMnBbBKt]`|
 |[Living Monolith Dedication](feats/archetype-02-c4ao7b2T92fiM8jR.htm)|Dévouement de Monolithe vivant|`@Compendium[pf2e.feats-srd.c4ao7b2T92fiM8jR]`|
 |[Living Rune](feats/archetype-06-MM9NcRyXWX2LFiuF.htm)|Rune vivante|`@Compendium[pf2e.feats-srd.MM9NcRyXWX2LFiuF]`|
+|[Living Weapon](feats/ancestry-01-RRGWLuxi1gq3dU2s.htm)||`@Compendium[pf2e.feats-srd.RRGWLuxi1gq3dU2s]`|
 |[Lizardfolk Lore](feats/ancestry-01-FhCsnHjdIUyKteCM.htm)|Connaissance des hommes-lézards|`@Compendium[pf2e.feats-srd.FhCsnHjdIUyKteCM]`|
 |[Loaner Spell](feats/class-08-80DU0IvIzOIBGuUa.htm)|Sort d'emprunt|`@Compendium[pf2e.feats-srd.80DU0IvIzOIBGuUa]`|
 |[Lobbed Attack](feats/archetype-08-XkmrLhyAoxQTLnza.htm)|Attaque lobbée|`@Compendium[pf2e.feats-srd.XkmrLhyAoxQTLnza]`|
@@ -3268,6 +3545,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Loud Singer](feats/ancestry-05-7AuOURsTkkjrRekp.htm)|Chanteur puissant|`@Compendium[pf2e.feats-srd.7AuOURsTkkjrRekp]`|
 |[Loyal Empath](feats/ancestry-05-VK2vAl1SfI4Qrtkt.htm)|Empathe loyal|`@Compendium[pf2e.feats-srd.VK2vAl1SfI4Qrtkt]`|
 |[Loyal Warhorse](feats/class-06-axvGLVoAvuD9jU78.htm)|Cheval de bataille fidèle|`@Compendium[pf2e.feats-srd.axvGLVoAvuD9jU78]`|
+|[Lucky Break](feats/ancestry-05-lF5B49zbDG61sxXa.htm)||`@Compendium[pf2e.feats-srd.lF5B49zbDG61sxXa]`|
 |[Lucky Keepsake](feats/ancestry-09-zsubK6PaY58fOYCb.htm)|Grigri porte-bonheur|`@Compendium[pf2e.feats-srd.zsubK6PaY58fOYCb]`|
 |[Lunge](feats/class-02-rTkr1EqpAN6YtnAh.htm)|Fente|`@Compendium[pf2e.feats-srd.rTkr1EqpAN6YtnAh]`|
 |[Lunging Stance](feats/skill-12-ZghzLmYgeE19GqjP.htm)|Posture de fente|`@Compendium[pf2e.feats-srd.ZghzLmYgeE19GqjP]`|
@@ -3288,6 +3566,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Magical Scholastics](feats/archetype-04-AuIE19F9rY3YvXf6.htm)|Études magiques|`@Compendium[pf2e.feats-srd.AuIE19F9rY3YvXf6]`|
 |[Magical Shorthand](feats/skill-02-v7Bt6hjmzYnLFLeG.htm)|Sténographie magique|`@Compendium[pf2e.feats-srd.v7Bt6hjmzYnLFLeG]`|
 |[Magical Trickster](feats/class-04-mxO7u59ms58q7zyj.htm)|Trompeur magique|`@Compendium[pf2e.feats-srd.mxO7u59ms58q7zyj]`|
+|[Magpie Snatch](feats/ancestry-05-NBwH9wEeUfKfOg8R.htm)||`@Compendium[pf2e.feats-srd.NBwH9wEeUfKfOg8R]`|
+|[Maiden’s Mending](feats/ancestry-01-Hmgy0GJKIawAiqHE.htm)||`@Compendium[pf2e.feats-srd.Hmgy0GJKIawAiqHE]`|
 |[Major Lesson](feats/class-10-ZFkCMl63ogK55Otq.htm)|Leçon majeure|`@Compendium[pf2e.feats-srd.ZFkCMl63ogK55Otq]`|
 |[Maker of Miracles](feats/class-20-QDjpZKOrWIV1G8XJ.htm)|Faiseur de miracles|`@Compendium[pf2e.feats-srd.QDjpZKOrWIV1G8XJ]`|
 |[Makeshift Strike](feats/archetype-08-UcIyf7bTDf6RwydU.htm)|Frappe expéditive|`@Compendium[pf2e.feats-srd.UcIyf7bTDf6RwydU]`|
@@ -3295,6 +3575,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Manifold Edge](feats/class-18-Dcr63tofZUome1Ze.htm)|Avantages multiples|`@Compendium[pf2e.feats-srd.Dcr63tofZUome1Ze]`|
 |[Mantis Form](feats/archetype-08-4YeHOPzo3zOhZQCh.htm)|Forme de la mante|`@Compendium[pf2e.feats-srd.4YeHOPzo3zOhZQCh]`|
 |[Many Guises](feats/archetype-08-jZalt2bFGjK8XXcP.htm)|Aspects nombreux|`@Compendium[pf2e.feats-srd.jZalt2bFGjK8XXcP]`|
+|[Marid Magic](feats/ancestry-09-hgfRHSS5BsoyQ9Fj.htm)||`@Compendium[pf2e.feats-srd.hgfRHSS5BsoyQ9Fj]`|
+|[Marine Ally](feats/ancestry-05-rTjGshtUMHnlBUfH.htm)||`@Compendium[pf2e.feats-srd.rTjGshtUMHnlBUfH]`|
+|[Mariner’s Fire](feats/ancestry-01-TmaxLWraJrvSQOkY.htm)||`@Compendium[pf2e.feats-srd.TmaxLWraJrvSQOkY]`|
 |[Marsh Runner](feats/ancestry-01-itjTPh76mZfJCBxQ.htm)|Coureur des marais|`@Compendium[pf2e.feats-srd.itjTPh76mZfJCBxQ]`|
 |[Marshal Dedication](feats/archetype-02-MYzRfNExDYp25rro.htm)|Dévouement de Capitaine|`@Compendium[pf2e.feats-srd.MYzRfNExDYp25rro]`|
 |[Martial Artist Dedication](feats/archetype-02-zn7arorE3VJLNYsb.htm)|Dévouement d'Artiste martial|`@Compendium[pf2e.feats-srd.zn7arorE3VJLNYsb]`|
@@ -3303,6 +3586,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Martial Performance](feats/class-01-q1iP3SjAF5uceI0M.htm)|Représentation martiale|`@Compendium[pf2e.feats-srd.q1iP3SjAF5uceI0M]`|
 |[Martyr](feats/class-08-fFfRsvDavUsTBDF2.htm)|Martyr|`@Compendium[pf2e.feats-srd.fFfRsvDavUsTBDF2]`|
 |[Mask Familiar](feats/archetype-04-GByIIkeHN3JWkZIZ.htm)|Familier masque|`@Compendium[pf2e.feats-srd.GByIIkeHN3JWkZIZ]`|
+|[Mask Of Fear](feats/ancestry-13-KboQgBhYXI2WdCt8.htm)||`@Compendium[pf2e.feats-srd.KboQgBhYXI2WdCt8]`|
+|[Mask Of Pain](feats/ancestry-09-ByqxxJkJiNFtjghh.htm)||`@Compendium[pf2e.feats-srd.ByqxxJkJiNFtjghh]`|
+|[Mask Of Power](feats/ancestry-05-RrtqD8WmoUumauJD.htm)||`@Compendium[pf2e.feats-srd.RrtqD8WmoUumauJD]`|
+|[Mask Of Rejection](feats/ancestry-05-vxE9hBKB6F2ctOX3.htm)||`@Compendium[pf2e.feats-srd.vxE9hBKB6F2ctOX3]`|
 |[Masked Casting](feats/archetype-08-4xeDjt8eARzAGARP.htm)|Incantation masquée|`@Compendium[pf2e.feats-srd.4xeDjt8eARzAGARP]`|
 |[Master Alchemy](feats/archetype-12-f6k9lIrIS4SfnCnG.htm)|Alchimie maître|`@Compendium[pf2e.feats-srd.f6k9lIrIS4SfnCnG]`|
 |[Master Bard Spellcasting](feats/archetype-18-eJNzP21lFPV3zWkm.htm)|Incantation du barde maître|`@Compendium[pf2e.feats-srd.eJNzP21lFPV3zWkm]`|
@@ -3336,6 +3623,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Merciful Elixir](feats/class-10-Mvw3ZFrdwMHedAxY.htm)|Élixir miséricordieux|`@Compendium[pf2e.feats-srd.Mvw3ZFrdwMHedAxY]`|
 |[Mercy](feats/class-04-zilwynzk8lIujgZo.htm)|Soulagement|`@Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]`|
 |[Mesmerizing Gaze](feats/archetype-06-gOHBzx5Rqa6TZcrm.htm)|Regard hypnotisant|`@Compendium[pf2e.feats-srd.gOHBzx5Rqa6TZcrm]`|
+|[Metal-veined Strikes](feats/ancestry-13-OwJRuy4EW8vW09AI.htm)||`@Compendium[pf2e.feats-srd.OwJRuy4EW8vW09AI]`|
 |[Metamagic Channel](feats/class-20-l0Qy74a7CILdE4Th.htm)|Canalisation métamagique|`@Compendium[pf2e.feats-srd.l0Qy74a7CILdE4Th]`|
 |[Metamagic Mastery](feats/class-20-kKZ4gnT7okaWS6tB.htm)|Maîtrise de la métamagie (Ensorceleur)|`@Compendium[pf2e.feats-srd.kKZ4gnT7okaWS6tB]`|
 |[Methodical Debilitations](feats/class-10-CkK7WwaWnrLXK9sW.htm)|Handicaps méthodiques|`@Compendium[pf2e.feats-srd.CkK7WwaWnrLXK9sW]`|
@@ -3347,8 +3635,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Minor Magic](feats/class-02-FrlhErsjR6fEn6kX.htm)|Magie mineure|`@Compendium[pf2e.feats-srd.FrlhErsjR6fEn6kX]`|
 |[Miracle Worker](feats/class-18-m2pHkmyGvkwqfSSN.htm)|Fabricateur de miracles|`@Compendium[pf2e.feats-srd.m2pHkmyGvkwqfSSN]`|
 |[Miraculous Possibility](feats/class-18-7mGMHb7irGKZ0eQo.htm)|Possibilité miraculeuse|`@Compendium[pf2e.feats-srd.7mGMHb7irGKZ0eQo]`|
+|[Miresoul](feats/ancestry-01-xruboxaTF6nw8l7M.htm)||`@Compendium[pf2e.feats-srd.xruboxaTF6nw8l7M]`|
 |[Mirror Shield](feats/class-10-kQEIPYoKTt69yXxV.htm)|Bouclier miroir|`@Compendium[pf2e.feats-srd.kQEIPYoKTt69yXxV]`|
+|[Mischievous Tail](feats/ancestry-13-AxqnIMh5WbSah5OS.htm)||`@Compendium[pf2e.feats-srd.AxqnIMh5WbSah5OS]`|
 |[Mist Child](feats/ancestry-05-CXgTn2sE7Do11rlv.htm)|Enfant brumeux|`@Compendium[pf2e.feats-srd.CXgTn2sE7Do11rlv]`|
+|[Mist Strider](feats/ancestry-13-ZlPCQ3Qh1cgS9r87.htm)||`@Compendium[pf2e.feats-srd.ZlPCQ3Qh1cgS9r87]`|
+|[Mistsoul](feats/ancestry-01-TYoE0GDF0URwQqZI.htm)||`@Compendium[pf2e.feats-srd.TYoE0GDF0URwQqZI]`|
 |[Mixed Maneuver](feats/class-08-jCIBYryi6Y3JwmqH.htm)|Manœuvre mixte|`@Compendium[pf2e.feats-srd.jCIBYryi6Y3JwmqH]`|
 |[Mobile Finisher](feats/class-12-Px1QZY0NdO9WAQQS.htm)|Botte mobile|`@Compendium[pf2e.feats-srd.Px1QZY0NdO9WAQQS]`|
 |[Mobile Magical Combat](feats/archetype-16-AyP23H3WJkEAIEKd.htm)|Combat magique mobile|`@Compendium[pf2e.feats-srd.AyP23H3WJkEAIEKd]`|
@@ -3365,8 +3657,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Monster Warden](feats/class-02-2yq3l8e2Vzz34yRV.htm)|Garde-monstres|`@Compendium[pf2e.feats-srd.2yq3l8e2Vzz34yRV]`|
 |[Monstrosity Shape](feats/class-16-54JzsYCx3uoj7Wlz.htm)|Morphologie monstrueuse|`@Compendium[pf2e.feats-srd.54JzsYCx3uoj7Wlz]`|
 |[Monstrous Peacemaker](feats/ancestry-01-ZZzgqFTOtUgnzSLZ.htm)|Médiateur monstrueux|`@Compendium[pf2e.feats-srd.ZZzgqFTOtUgnzSLZ]`|
+|[Moon May](feats/ancestry-01-xOCmeskMkd8nCmba.htm)||`@Compendium[pf2e.feats-srd.xOCmeskMkd8nCmba]`|
+|[Morrigna's Spider Affinity](feats/ancestry-09-TPX0fm9wxndpIqpk.htm)||`@Compendium[pf2e.feats-srd.TPX0fm9wxndpIqpk]`|
 |[Mortal Healing](feats/skill-02-mEk2POFNU1Q0TQg2.htm)|Soins mortels|`@Compendium[pf2e.feats-srd.mEk2POFNU1Q0TQg2]`|
 |[Mortification](feats/archetype-04-gqQK7dDrGPkQDfQQ.htm)|Mortification|`@Compendium[pf2e.feats-srd.gqQK7dDrGPkQDfQQ]`|
+|[Mother’s Mindfulness](feats/ancestry-09-sbAb2a6BzZpcYv8y.htm)||`@Compendium[pf2e.feats-srd.sbAb2a6BzZpcYv8y]`|
 |[Mountain Quake](feats/class-14-hO4sKslTrSQMLbGx.htm)|Tremblement de la montagne|`@Compendium[pf2e.feats-srd.hO4sKslTrSQMLbGx]`|
 |[Mountain Stance](feats/class-01-ZL5UU9quCTvcWzfY.htm)|Posture de la montagne|`@Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]`|
 |[Mountain Stronghold](feats/class-06-n2hawNmzW7DBn1Lm.htm)|Bastion de la montagne|`@Compendium[pf2e.feats-srd.n2hawNmzW7DBn1Lm]`|
@@ -3382,10 +3677,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Murksight](feats/class-08-8CLbJAtgSfwxk2rk.htm)|Vision dans la brume|`@Compendium[pf2e.feats-srd.8CLbJAtgSfwxk2rk]`|
 |[Musetouched](feats/ancestry-01-eSP2938INGUG9b3w.htm)|Touché par la muse|`@Compendium[pf2e.feats-srd.eSP2938INGUG9b3w]`|
 |[Mutable Familiar](feats/archetype-08-ADgFB8hjUgcXS4bF.htm)|Familier altérable|`@Compendium[pf2e.feats-srd.ADgFB8hjUgcXS4bF]`|
+|[Mutate Weapon](feats/ancestry-05-SWNmYaj0OSPhhIqO.htm)||`@Compendium[pf2e.feats-srd.SWNmYaj0OSPhhIqO]`|
+|[Myriad Forms](feats/ancestry-05-l2JaSC3NA9S6Qq46.htm)||`@Compendium[pf2e.feats-srd.l2JaSC3NA9S6Qq46]`|
 |[Mysterious Breadth](feats/archetype-08-y4Cws9vZj3Bf9uqH.htm)|Élargissement mystérieux|`@Compendium[pf2e.feats-srd.y4Cws9vZj3Bf9uqH]`|
 |[Mysterious Repertoire](feats/class-14-Ek3nCIFRreqnSxAQ.htm)|Répertoire mystérieux|`@Compendium[pf2e.feats-srd.Ek3nCIFRreqnSxAQ]`|
 |[Mystery Conduit](feats/class-20-eIW5p8qqvsx2MFkY.htm)|Conduit mystérieux|`@Compendium[pf2e.feats-srd.eIW5p8qqvsx2MFkY]`|
 |[Nameless Anonymity](feats/archetype-06-l60Ua5Ugv85GnF9b.htm)|Anonymat|`@Compendium[pf2e.feats-srd.l60Ua5Ugv85GnF9b]`|
+|[Nanite Shroud](feats/ancestry-05-tB6V6rWv8vAFsKsX.htm)||`@Compendium[pf2e.feats-srd.tB6V6rWv8vAFsKsX]`|
+|[Nanite Surge](feats/ancestry-01-JS24EjgLYcHB9E3T.htm)||`@Compendium[pf2e.feats-srd.JS24EjgLYcHB9E3T]`|
 |[Natural Ambition](feats/ancestry-01-PodajLVxqYSAqVox.htm)|Ambition naturelle|`@Compendium[pf2e.feats-srd.PodajLVxqYSAqVox]`|
 |[Natural Illusionist](feats/ancestry-05-HKGyFj2w5dzkf3SW.htm)|Illusionniste naturel|`@Compendium[pf2e.feats-srd.HKGyFj2w5dzkf3SW]`|
 |[Natural Medicine](feats/skill-01-WC4xLBGmBsdOdHWu.htm)|Médecine naturelle|`@Compendium[pf2e.feats-srd.WC4xLBGmBsdOdHWu]`|
@@ -3395,8 +3694,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Necromantic Resistance](feats/archetype-04-MnqDDUekqd40HTZc.htm)|Résistance à la nécromancie|`@Compendium[pf2e.feats-srd.MnqDDUekqd40HTZc]`|
 |[Necromantic Tenacity](feats/archetype-08-PcDvw2vWTzBEIX7k.htm)|Ténacité contre la nécromancie|`@Compendium[pf2e.feats-srd.PcDvw2vWTzBEIX7k]`|
 |[Necrotic Infusion](feats/class-04-6erzXaxxvcXYnL9H.htm)|Injection nécrotique|`@Compendium[pf2e.feats-srd.6erzXaxxvcXYnL9H]`|
+|[Nestling Fall](feats/ancestry-01-SJbokJKkFnA6rKkJ.htm)||`@Compendium[pf2e.feats-srd.SJbokJKkFnA6rKkJ]`|
 |[Never Tire](feats/archetype-04-Btu0tA6SEBS6K1hE.htm)|Jamais fatigué|`@Compendium[pf2e.feats-srd.Btu0tA6SEBS6K1hE]`|
 |[Night Magic](feats/ancestry-09-iRpVW1DPKVxlzIzt.htm)|Magie de la nuit|`@Compendium[pf2e.feats-srd.iRpVW1DPKVxlzIzt]`|
+|[Nightvision Adaptation](feats/ancestry-01-cixf1uAQF2Y3w1Qx.htm)||`@Compendium[pf2e.feats-srd.cixf1uAQF2Y3w1Qx]`|
 |[Nimble Crawl](feats/skill-02-5I97q0FfAeXcUQhs.htm)|Ramper agilement|`@Compendium[pf2e.feats-srd.5I97q0FfAeXcUQhs]`|
 |[Nimble Dodge](feats/class-01-dNH8OHEvx3vI9NBQ.htm)|Esquive agile|`@Compendium[pf2e.feats-srd.dNH8OHEvx3vI9NBQ]`|
 |[Nimble Elf](feats/ancestry-01-kCO4r8NOm8E2T3eH.htm)|Elfe preste|`@Compendium[pf2e.feats-srd.kCO4r8NOm8E2T3eH]`|
@@ -3405,8 +3706,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Nimble Shield Hand](feats/archetype-06-sKuhYCfCbXeRWivv.htm)|Main du bouclier agile|`@Compendium[pf2e.feats-srd.sKuhYCfCbXeRWivv]`|
 |[No Cause For Alarm](feats/skill-01-6ON8DjFXSMITZleX.htm)|Pas besoin de s'alarmer|`@Compendium[pf2e.feats-srd.6ON8DjFXSMITZleX]`|
 |[No Escape](feats/class-02-lT8XlX1Ig900BblS.htm)|Pas d’échappatoire|`@Compendium[pf2e.feats-srd.lT8XlX1Ig900BblS]`|
+|[No Evidence](feats/ancestry-09-AKMx0GYKLjy7jTXl.htm)||`@Compendium[pf2e.feats-srd.AKMx0GYKLjy7jTXl]`|
+|[Nocturnal Charm](feats/ancestry-01-kJfLBPtiVi5LQu0v.htm)||`@Compendium[pf2e.feats-srd.kJfLBPtiVi5LQu0v]`|
 |[Nocturnal Sense](feats/class-06-k0NNa5Ko4XhDdBYB.htm)|Sens nocturne|`@Compendium[pf2e.feats-srd.k0NNa5Ko4XhDdBYB]`|
 |[Nonlethal Spell](feats/class-02-6QOcQ8ooP1vjQACX.htm)|Sort non létal|`@Compendium[pf2e.feats-srd.6QOcQ8ooP1vjQACX]`|
+|[Nosoi's Mask](feats/ancestry-01-wEtN2NkqW4z4GUON.htm)||`@Compendium[pf2e.feats-srd.wEtN2NkqW4z4GUON]`|
 |[Numb to Death](feats/general-07-gfMP2aMs3YGONVeB.htm)|Insensible à la mort|`@Compendium[pf2e.feats-srd.gfMP2aMs3YGONVeB]`|
 |[Observant Explorer](feats/archetype-04-3QLWe5oS9jGJ0Oq4.htm)|Éclaireur observateur|`@Compendium[pf2e.feats-srd.3QLWe5oS9jGJ0Oq4]`|
 |[Occult Breadth](feats/archetype-08-Yvxr1Q2TslWiKqqi.htm)|Amplitude occulte|`@Compendium[pf2e.feats-srd.Yvxr1Q2TslWiKqqi]`|
@@ -3414,7 +3718,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Occult Resistance](feats/ancestry-09-zPJ2NyMv97AfkN3P.htm)|Résistance occulte|`@Compendium[pf2e.feats-srd.zPJ2NyMv97AfkN3P]`|
 |[Oddity Identification](feats/skill-01-hDGosy2ZTwnyctEP.htm)|Identification de bizarreries|`@Compendium[pf2e.feats-srd.hDGosy2ZTwnyctEP]`|
 |[Ode To Ouroboros](feats/class-10-cvo3DIL0BIRrDkQ6.htm)|Ode à Ouroboros|`@Compendium[pf2e.feats-srd.cvo3DIL0BIRrDkQ6]`|
+|[Offensive Analysis](feats/ancestry-05-HCxmS8QGHL5O7LUf.htm)||`@Compendium[pf2e.feats-srd.HCxmS8QGHL5O7LUf]`|
+|[Offensive Subroutine](feats/ancestry-09-6eXffyvqxpIzig2O.htm)||`@Compendium[pf2e.feats-srd.6eXffyvqxpIzig2O]`|
+|[Old Soul](feats/ancestry-01-XXAqMjml33jnQiDO.htm)||`@Compendium[pf2e.feats-srd.XXAqMjml33jnQiDO]`|
+|[Olethros's Decree](feats/ancestry-17-cayKGa2yK7Gwvk6m.htm)||`@Compendium[pf2e.feats-srd.cayKGa2yK7Gwvk6m]`|
 |[One For All](feats/class-01-bCizH4ByTwbLcYA1.htm)|Un pour tous|`@Compendium[pf2e.feats-srd.bCizH4ByTwbLcYA1]`|
+|[One With Earth](feats/ancestry-13-T3cwVrRT0VMZIwpT.htm)||`@Compendium[pf2e.feats-srd.T3cwVrRT0VMZIwpT]`|
 |[One-Inch Punch](feats/class-06-jaAnxfXVmUQy0IKU.htm)|Coup à distance courte|`@Compendium[pf2e.feats-srd.jaAnxfXVmUQy0IKU]`|
 |[One-Millimeter Punch](feats/class-16-4caP26xpkQajkaDp.htm)|Coup à infime distance|`@Compendium[pf2e.feats-srd.4caP26xpkQajkaDp]`|
 |[One-Toed Hop](feats/ancestry-05-fD3RSV9nIkJsW6lD.htm)|Bond sur un orteil|`@Compendium[pf2e.feats-srd.fD3RSV9nIkJsW6lD]`|
@@ -3434,6 +3743,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Orc Lore](feats/ancestry-01-254C4rqrE8APDfCf.htm)|Connaissance Orque|`@Compendium[pf2e.feats-srd.254C4rqrE8APDfCf]`|
 |[Orc Sight](feats/ancestry-01-SCgqIo8VQZZKZ1Ws.htm)|Vision Orque|`@Compendium[pf2e.feats-srd.SCgqIo8VQZZKZ1Ws]`|
 |[Orc Superstition](feats/ancestry-01-EFhh3AenX7wtAmrs.htm)|Superstition Orque|`@Compendium[pf2e.feats-srd.EFhh3AenX7wtAmrs]`|
+|[Orc Warmask](feats/ancestry-01-1HsH8hE79MDsi8kK.htm)||`@Compendium[pf2e.feats-srd.1HsH8hE79MDsi8kK]`|
 |[Orc Weapon Carnage](feats/ancestry-05-Y3IUIsopvN13vEvZ.htm)|Carnage avec les armes orques|`@Compendium[pf2e.feats-srd.Y3IUIsopvN13vEvZ]`|
 |[Orc Weapon Expertise](feats/ancestry-13-g6M5mapOXVf0g9BG.htm)|Expertise avec les armes orques|`@Compendium[pf2e.feats-srd.g6M5mapOXVf0g9BG]`|
 |[Orc Weapon Familiarity](feats/ancestry-01-1tVC0mcxl8sTCg4U.htm)|Familiarité avec les armes orques|`@Compendium[pf2e.feats-srd.1tVC0mcxl8sTCg4U]`|
@@ -3454,6 +3764,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Overwhelming Breath](feats/class-12-Dwxi1q1OWB1ufFvy.htm)|Souffle surpuissant|`@Compendium[pf2e.feats-srd.Dwxi1q1OWB1ufFvy]`|
 |[Overwhelming Energy](feats/class-10-tXNfWDa6P7bCKrCt.htm)|Énergie écrasante|`@Compendium[pf2e.feats-srd.tXNfWDa6P7bCKrCt]`|
 |[Pack Rat](feats/ancestry-01-hc4lWhWekIVb0wjL.htm)|Rat empaqueteur|`@Compendium[pf2e.feats-srd.hc4lWhWekIVb0wjL]`|
+|[Pack Tactics](feats/ancestry-09-9LTBRvuQgXKZFiZc.htm)||`@Compendium[pf2e.feats-srd.9LTBRvuQgXKZFiZc]`|
 |[Pale Horse](feats/class-12-dLof0i6LPcChJSBR.htm)|Cheval pâle|`@Compendium[pf2e.feats-srd.dLof0i6LPcChJSBR]`|
 |[Panache Paragon](feats/class-20-Oo3yRbmrgqi8dmVs.htm)|Parangon de panache|`@Compendium[pf2e.feats-srd.Oo3yRbmrgqi8dmVs]`|
 |[Paradoxical Mystery](feats/class-20-fMAUsLdBd5SDoHBz.htm)|Mystère paradoxal|`@Compendium[pf2e.feats-srd.fMAUsLdBd5SDoHBz]`|
@@ -3471,6 +3782,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Peafowl Strut](feats/class-10-u2fgdFIdQDplKOS3.htm)|Pavane du paon|`@Compendium[pf2e.feats-srd.u2fgdFIdQDplKOS3]`|
 |[Peculiar Anatomy](feats/archetype-14-As8cRK5jVzf62fEd.htm)|Anatomie bizarre|`@Compendium[pf2e.feats-srd.As8cRK5jVzf62fEd]`|
 |[Peer Beyond](feats/archetype-08-aKFYL4b5Bi7qla2j.htm)|Vision de l'au-delà|`@Compendium[pf2e.feats-srd.aKFYL4b5Bi7qla2j]`|
+|[Pelagic Aptitude](feats/ancestry-01-Y8c8hAyjNAiqgxAO.htm)||`@Compendium[pf2e.feats-srd.Y8c8hAyjNAiqgxAO]`|
 |[Penetrating Projectile](feats/class-16-tBMMKWYfzD2OMD30.htm)|Projectile pénétrant|`@Compendium[pf2e.feats-srd.tBMMKWYfzD2OMD30]`|
 |[Penetrating Shot](feats/class-10-otBBb0ndASgPdAXW.htm)|Tir pénétrant|`@Compendium[pf2e.feats-srd.otBBb0ndASgPdAXW]`|
 |[Perfect Clarity](feats/class-18-JkQjKyzfhMWLr9Gs.htm)|Lucidité parfaite|`@Compendium[pf2e.feats-srd.JkQjKyzfhMWLr9Gs]`|
@@ -3486,6 +3798,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Perfection's Path](feats/archetype-12-1ZbLYY5m2YALrrgA.htm)|Voie de la perfection|`@Compendium[pf2e.feats-srd.1ZbLYY5m2YALrrgA]`|
 |[Performance Weapon Expert](feats/archetype-16-giupBd3dyOwdeoFl.htm)|Expert avec les armes de scène|`@Compendium[pf2e.feats-srd.giupBd3dyOwdeoFl]`|
 |[Performative Weapons Training](feats/archetype-06-SOG0yVNtiDsaNbIO.htm)|Entraînement aux armes de scène|`@Compendium[pf2e.feats-srd.SOG0yVNtiDsaNbIO]`|
+|[Peri Magic](feats/ancestry-09-rw4qq4qmCbO0hRfH.htm)||`@Compendium[pf2e.feats-srd.rw4qq4qmCbO0hRfH]`|
 |[Perpetual Breadth](feats/class-08-Mvay7CiSN8snJ7DK.htm)|Élargissement perpétuel|`@Compendium[pf2e.feats-srd.Mvay7CiSN8snJ7DK]`|
 |[Perpetual Scout](feats/archetype-06-eHvJqBHYqx7UjpPg.htm)|Éclaireur perpétuel|`@Compendium[pf2e.feats-srd.eHvJqBHYqx7UjpPg]`|
 |[Persistent Creation](feats/archetype-08-L9aBLPG2veBkVow9.htm)|Création persistante|`@Compendium[pf2e.feats-srd.L9aBLPG2veBkVow9]`|
@@ -3498,6 +3811,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Pick Up The Pace](feats/general-03-38uOVS8fLZxraUrg.htm)|Donner le rythme|`@Compendium[pf2e.feats-srd.38uOVS8fLZxraUrg]`|
 |[Pickpocket](feats/skill-01-jDdOqFmZLwE4dblQ.htm)|Vol à la tire|`@Compendium[pf2e.feats-srd.jDdOqFmZLwE4dblQ]`|
 |[Pied Piping](feats/class-20-UOxDJt8Y7SiCR4xq.htm)|Flûte de Hamelin|`@Compendium[pf2e.feats-srd.UOxDJt8Y7SiCR4xq]`|
+|[Pierce The Light](feats/ancestry-17-ABx8keV4c43gEmeN.htm)||`@Compendium[pf2e.feats-srd.ABx8keV4c43gEmeN]`|
 |[Pilgrim's Token](feats/skill-01-BqceQIKE0lwIS98s.htm)|Amulette du Pélerin|`@Compendium[pf2e.feats-srd.BqceQIKE0lwIS98s]`|
 |[Pin to the Spot](feats/archetype-14-ZTxiM8NExDmxHJDf.htm)|Épingler sur place|`@Compendium[pf2e.feats-srd.ZTxiM8NExDmxHJDf]`|
 |[Pinch Time](feats/ancestry-09-8ukixWL8MBJOhPbW.htm)|Temps contracté|`@Compendium[pf2e.feats-srd.8ukixWL8MBJOhPbW]`|
@@ -3507,12 +3821,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Pirate Weapon Training](feats/archetype-04-i86JRWsFRpfEJnZP.htm)|Entraînement avec les armes de pirate|`@Compendium[pf2e.feats-srd.i86JRWsFRpfEJnZP]`|
 |[Pitborn](feats/ancestry-01-gxQheZ4xuDWwyzy4.htm)|Né de la fosse|`@Compendium[pf2e.feats-srd.gxQheZ4xuDWwyzy4]`|
 |[Pivot Strike](feats/archetype-14-RnxullWsNdbU7fuH.htm)|Frappe pivotante|`@Compendium[pf2e.feats-srd.RnxullWsNdbU7fuH]`|
+|[Plague Sniffer](feats/ancestry-05-iCsHR5tdSXDHGjCv.htm)||`@Compendium[pf2e.feats-srd.iCsHR5tdSXDHGjCv]`|
 |[Planar Survival](feats/skill-07-Yj4mpROEjdCjQzMd.htm)|Survie planaire|`@Compendium[pf2e.feats-srd.Yj4mpROEjdCjQzMd]`|
 |[Plant Evidence](feats/class-01-eww9tuiXPnZFZ3DU.htm)|Placer une preuve|`@Compendium[pf2e.feats-srd.eww9tuiXPnZFZ3DU]`|
 |[Plant Shape](feats/class-10-I9rSWQyueWHQyNxe.htm)|Morphologie végétales|`@Compendium[pf2e.feats-srd.I9rSWQyueWHQyNxe]`|
 |[Play To The Crowd](feats/archetype-04-KrYvJ5n06yHCipCZ.htm)|Jouer pour la foule|`@Compendium[pf2e.feats-srd.KrYvJ5n06yHCipCZ]`|
 |[Plentiful Snares](feats/archetype-12-wGaxWwJhIXbMJft1.htm)|Pièges artisanaux nombreux|`@Compendium[pf2e.feats-srd.wGaxWwJhIXbMJft1]`|
 |[Plot The Future](feats/class-14-N7CM5CmHuZ1cylV9.htm)|Conspirer l'avenir|`@Compendium[pf2e.feats-srd.N7CM5CmHuZ1cylV9]`|
+|[Plumekith](feats/ancestry-01-6dymMIqs3dAFqnyR.htm)||`@Compendium[pf2e.feats-srd.6dymMIqs3dAFqnyR]`|
 |[Point-Blank Shot](feats/class-01-Yl2wYv24v5kw95aS.htm)|Tir à bout portant|`@Compendium[pf2e.feats-srd.Yl2wYv24v5kw95aS]`|
 |[Poison Coat](feats/archetype-06-eHkMcQQ4ejRAFJAt.htm)|Recouvert de poison|`@Compendium[pf2e.feats-srd.eHkMcQQ4ejRAFJAt]`|
 |[Poison Resistance](feats/class-02-0lieFKdwgNVXep7u.htm)|Résistance au poison|`@Compendium[pf2e.feats-srd.0lieFKdwgNVXep7u]`|
@@ -3525,6 +3841,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Potent Poisoner](feats/class-10-zKL1lRcIbFblp2M2.htm)|Empoisonneur puissant|`@Compendium[pf2e.feats-srd.zKL1lRcIbFblp2M2]`|
 |[Poultice Preparation](feats/archetype-04-4BbfHsGPRHPHfIGY.htm)|Préparation de cataplasme|`@Compendium[pf2e.feats-srd.4BbfHsGPRHPHfIGY]`|
 |[Power Attack](feats/class-01-2xk4jdwcCfmasYfT.htm)|Attaque en puissance|`@Compendium[pf2e.feats-srd.2xk4jdwcCfmasYfT]`|
+|[Powerful Guts](feats/ancestry-05-F4W5a2vkhUP7Lr4j.htm)||`@Compendium[pf2e.feats-srd.F4W5a2vkhUP7Lr4j]`|
 |[Powerful Leap](feats/skill-02-HJYQlmGTdtyGWr6a.htm)|Bond puissant|`@Compendium[pf2e.feats-srd.HJYQlmGTdtyGWr6a]`|
 |[Powerful Shove](feats/class-04-oIE88rIDEFNm83Mr.htm)|Poussée en puissance|`@Compendium[pf2e.feats-srd.oIE88rIDEFNm83Mr]`|
 |[Powerful Snares](feats/class-08-27R8yZcY2uXH6pZN.htm)|Redoutables pièges artisanaux|`@Compendium[pf2e.feats-srd.27R8yZcY2uXH6pZN]`|
@@ -3538,15 +3855,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Precise Debilitations](feats/class-10-wvJBIzgS298ZRp6w.htm)|Handicaps précis|`@Compendium[pf2e.feats-srd.wvJBIzgS298ZRp6w]`|
 |[Precise Finisher](feats/class-06-qeLpqH2cMSmIrILV.htm)|Botte précise|`@Compendium[pf2e.feats-srd.qeLpqH2cMSmIrILV]`|
 |[Predator's Pounce](feats/class-12-aFUxNGur3Hma8DKy.htm)|Bond de prédateur|`@Compendium[pf2e.feats-srd.aFUxNGur3Hma8DKy]`|
+|[Predator’s Growl](feats/ancestry-09-WQa6PxkOgyvRpaaM.htm)||`@Compendium[pf2e.feats-srd.WQa6PxkOgyvRpaaM]`|
 |[Predictable!](feats/class-04-cErltcAC7OVnIyO1.htm)|Prévisible !|`@Compendium[pf2e.feats-srd.cErltcAC7OVnIyO1]`|
 |[Predictive Purchase (Investigator)](feats/class-06-QSuwyX84U26OLzZI.htm)|Achat intuitif (Enquêteur)|`@Compendium[pf2e.feats-srd.QSuwyX84U26OLzZI]`|
 |[Predictive Purchase (Rogue)](feats/class-08-Yw0qVCDu94Y5TgxQ.htm)|Achat intuitif (Roublard)|`@Compendium[pf2e.feats-srd.Yw0qVCDu94Y5TgxQ]`|
+|[Preemptive Reconfiguration](feats/ancestry-09-NEl8G3SlwxOR9Zx1.htm)||`@Compendium[pf2e.feats-srd.NEl8G3SlwxOR9Zx1]`|
 |[Premonition Of Avoidance](feats/class-01-KYl1rWFOHe0e6VqJ.htm)|Évitement prémonitoire|`@Compendium[pf2e.feats-srd.KYl1rWFOHe0e6VqJ]`|
 |[Premonition Of Clarity](feats/class-14-2h8a6pKhXTXwpJjP.htm)|Clarté prémonitoire|`@Compendium[pf2e.feats-srd.2h8a6pKhXTXwpJjP]`|
 |[Preparation](feats/class-12-zzMugLCUkQQPa2qT.htm)|Préparation|`@Compendium[pf2e.feats-srd.zzMugLCUkQQPa2qT]`|
 |[Prescient Consumable](feats/general-07-lHFz4MmebvPqTb0A.htm)|Consommable prescient|`@Compendium[pf2e.feats-srd.lHFz4MmebvPqTb0A]`|
 |[Prescient Planner](feats/general-03-bh2jHyyYrkLMsIdX.htm)|Planificateur prescient|`@Compendium[pf2e.feats-srd.bh2jHyyYrkLMsIdX]`|
 |[Prevailing Position](feats/class-10-Xw7qG0SHepXx24vl.htm)|Position prédominante|`@Compendium[pf2e.feats-srd.Xw7qG0SHepXx24vl]`|
+|[Pride Hunter](feats/ancestry-05-uQGo33E4haaFNg6u.htm)||`@Compendium[pf2e.feats-srd.uQGo33E4haaFNg6u]`|
 |[Pride in Arms](feats/ancestry-09-CCY6VsGjp5fdmM6K.htm)|Fierté militaire|`@Compendium[pf2e.feats-srd.CCY6VsGjp5fdmM6K]`|
 |[Primal Aegis](feats/class-18-AbjVJIBdNjbQbVnV.htm)|Égide primordiale|`@Compendium[pf2e.feats-srd.AbjVJIBdNjbQbVnV]`|
 |[Primal Breadth](feats/archetype-08-niKCBA11zzgGT1PU.htm)|Amplitude primordiale|`@Compendium[pf2e.feats-srd.niKCBA11zzgGT1PU]`|
@@ -3558,13 +3878,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Project Persona](feats/ancestry-05-twnZopGlB392hmqH.htm)|Projeter un personnage|`@Compendium[pf2e.feats-srd.twnZopGlB392hmqH]`|
 |[Protect Ally](feats/archetype-08-ASWqQ6RB7cfCsUo0.htm)|Protéger un allié|`@Compendium[pf2e.feats-srd.ASWqQ6RB7cfCsUo0]`|
 |[Protective Sheath](feats/ancestry-05-sTqdFqWVL9yxi5wt.htm)|Fourreau protecteur|`@Compendium[pf2e.feats-srd.sTqdFqWVL9yxi5wt]`|
+|[Protective Subroutine](feats/ancestry-05-DP5VVZHERQlYuYTa.htm)||`@Compendium[pf2e.feats-srd.DP5VVZHERQlYuYTa]`|
 |[Provocator Dedication](feats/archetype-10-VJ3wIsfmabK02SNg.htm)|Dévouement du Provocator|`@Compendium[pf2e.feats-srd.VJ3wIsfmabK02SNg]`|
+|[Proximity Alert](feats/ancestry-01-enRKfPyCLU5FMUOX.htm)||`@Compendium[pf2e.feats-srd.enRKfPyCLU5FMUOX]`|
+|[Purge Sins](feats/ancestry-13-GndRoEYD3uWjJji3.htm)||`@Compendium[pf2e.feats-srd.GndRoEYD3uWjJji3]`|
+|[Qlippoth Magic](feats/ancestry-09-ftntYtiKGoPBpvcv.htm)||`@Compendium[pf2e.feats-srd.ftntYtiKGoPBpvcv]`|
 |[Quah Bond](feats/ancestry-01-liqDAd5xk2b3xzeE.htm)|Lien Quah|`@Compendium[pf2e.feats-srd.liqDAd5xk2b3xzeE]`|
 |[Quaking Stomp](feats/class-20-FMjihpGLn9eQ14Gw.htm)|Piétinement sismique|`@Compendium[pf2e.feats-srd.FMjihpGLn9eQ14Gw]`|
 |[Quick Alchemy](feats/archetype-04-NlEZ0piDxg9buXCL.htm)|Alchimie rapide|`@Compendium[pf2e.feats-srd.NlEZ0piDxg9buXCL]`|
 |[Quick Block](feats/class-08-DalEte4OQyLzR7nd.htm)|Blocage éclair|`@Compendium[pf2e.feats-srd.DalEte4OQyLzR7nd]`|
 |[Quick Bomber](feats/class-01-xbg1scOIT7RI9Fij.htm)|Artificier rapide|`@Compendium[pf2e.feats-srd.xbg1scOIT7RI9Fij]`|
-|[Quick Change](feats/archetype-07-v1PtAazmEFhTp6fZ.htm)|Changement rapide|`@Compendium[pf2e.feats-srd.v1PtAazmEFhTp6fZ]`|
+|[Quick Change (Beastkin)](feats/ancestry-01-DmcJtpMBSh3R5MHI.htm)||`@Compendium[pf2e.feats-srd.DmcJtpMBSh3R5MHI]`|
+|[Quick Change (Vigilante)](feats/archetype-07-v1PtAazmEFhTp6fZ.htm)|Changement rapide|`@Compendium[pf2e.feats-srd.v1PtAazmEFhTp6fZ]`|
 |[Quick Climb](feats/skill-07-P04Hw8E6WAWARKHP.htm)|Escalade rapide|`@Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]`|
 |[Quick Coercion](feats/skill-01-ar2DUlvDK4LDcH9J.htm)|Contrainte rapide|`@Compendium[pf2e.feats-srd.ar2DUlvDK4LDcH9J]`|
 |[Quick Contacts](feats/skill-02-ThoOsKjn5xCuZUqM.htm)|Contacts rapides|`@Compendium[pf2e.feats-srd.ThoOsKjn5xCuZUqM]`|
@@ -3593,15 +3918,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Quivering Palm](feats/class-16-g1wBP9Z5HRqDe9FE.htm)|Paume vibratoire|`@Compendium[pf2e.feats-srd.g1wBP9Z5HRqDe9FE]`|
 |[Radiant Blade Master](feats/class-20-jYEMVfrXJLpXS6aC.htm)|Maître lame radieux|`@Compendium[pf2e.feats-srd.jYEMVfrXJLpXS6aC]`|
 |[Radiant Blade Spirit](feats/class-10-h5ksUZlrVGBjq6p4.htm)|Esprit lame radieux|`@Compendium[pf2e.feats-srd.h5ksUZlrVGBjq6p4]`|
+|[Radiant Burst](feats/ancestry-13-9eL7W4rvs4sjhWFT.htm)||`@Compendium[pf2e.feats-srd.9eL7W4rvs4sjhWFT]`|
+|[Radiant Circuitry](feats/general-01-2XmdYW8OsAvjGDG3.htm)||`@Compendium[pf2e.feats-srd.2XmdYW8OsAvjGDG3]`|
 |[Radiant Infusion](feats/class-04-JcXzKwrdMkNszrJQ.htm)|Imprégnation irradiante|`@Compendium[pf2e.feats-srd.JcXzKwrdMkNszrJQ]`|
+|[Radiate Glory](feats/ancestry-17-Dxac0mgye7EFFVou.htm)||`@Compendium[pf2e.feats-srd.Dxac0mgye7EFFVou]`|
 |[Raging Athlete](feats/class-04-sEWYOllJ6rYoXK4K.htm)|Athlète enragé|`@Compendium[pf2e.feats-srd.sEWYOllJ6rYoXK4K]`|
 |[Raging Intimidation](feats/class-01-XseJI9XhKNtZN8pv.htm)|Intimidation enragée|`@Compendium[pf2e.feats-srd.XseJI9XhKNtZN8pv]`|
 |[Raging Thrower](feats/class-01-5pGMffGKkBTZKvjw.htm)|Lanceur enragé|`@Compendium[pf2e.feats-srd.5pGMffGKkBTZKvjw]`|
 |[Rain of Embers Stance](feats/class-01-rbiMK71SvGZGRLJ1.htm)|Posture de la pluie de charbons ardents|`@Compendium[pf2e.feats-srd.rbiMK71SvGZGRLJ1]`|
 |[Rain-Scribe Mobility](feats/archetype-10-nobsCgNmsDX6aKR5.htm)|Mobilité du Scribe de la pluie|`@Compendium[pf2e.feats-srd.nobsCgNmsDX6aKR5]`|
 |[Rain-Scribe Sustenance](feats/archetype-06-jRJqKkm6NnHcL8HO.htm)|Subsistance du Scribe de la pluie|`@Compendium[pf2e.feats-srd.jRJqKkm6NnHcL8HO]`|
+|[Rakshasa Magic](feats/ancestry-09-7RFu7EwwvjHMP0dq.htm)||`@Compendium[pf2e.feats-srd.7RFu7EwwvjHMP0dq]`|
 |[Rallying Charge](feats/archetype-06-df4cBV3qZn3qNUmP.htm)|Charge de ralliement|`@Compendium[pf2e.feats-srd.df4cBV3qZn3qNUmP]`|
+|[Rallying Cry](feats/ancestry-17-8l3qDZrfhxUGijjB.htm)||`@Compendium[pf2e.feats-srd.8l3qDZrfhxUGijjB]`|
 |[Rampaging Ferocity](feats/ancestry-17-9eaUS0jJCpxuNXO5.htm)|Férocité dévastatrice|`@Compendium[pf2e.feats-srd.9eaUS0jJCpxuNXO5]`|
+|[Rampaging Form](feats/ancestry-17-Zl6vDXJEM7Lbp8JQ.htm)||`@Compendium[pf2e.feats-srd.Zl6vDXJEM7Lbp8JQ]`|
 |[Ranged Reprisal](feats/class-01-iTdbkP07UFMOo1rI.htm)|Représailles à distance|`@Compendium[pf2e.feats-srd.iTdbkP07UFMOo1rI]`|
 |[Ranger Dedication](feats/archetype-02-R00qiDE5pBctgtyU.htm)|Dévouement du rôdeur|`@Compendium[pf2e.feats-srd.R00qiDE5pBctgtyU]`|
 |[Ranger Resiliency](feats/archetype-04-JKvP4pFHzwWsHu2n.htm)|Résilience du rôdeur|`@Compendium[pf2e.feats-srd.JKvP4pFHzwWsHu2n]`|
@@ -3612,7 +3943,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Rat Familiar](feats/ancestry-01-W2LmEXJH75tyeCSn.htm)|Familier rat|`@Compendium[pf2e.feats-srd.W2LmEXJH75tyeCSn]`|
 |[Rat Form](feats/ancestry-09-SuEmijj909yxmYOO.htm)|Forme de rat|`@Compendium[pf2e.feats-srd.SuEmijj909yxmYOO]`|
 |[Rat Magic](feats/ancestry-05-8MMYFIudSDkdo8cx.htm)|Magie du rat|`@Compendium[pf2e.feats-srd.8MMYFIudSDkdo8cx]`|
+|[Ratfolk Growth](feats/ancestry-17-BS6UoGLyJ12xVD9P.htm)||`@Compendium[pf2e.feats-srd.BS6UoGLyJ12xVD9P]`|
 |[Ratfolk Lore](feats/ancestry-01-mQYO501xyMgtIQ3W.htm)|Connaissance des Hommes-rats|`@Compendium[pf2e.feats-srd.mQYO501xyMgtIQ3W]`|
+|[Ratfolk Roll](feats/ancestry-05-969mPoiYANzV2261.htm)||`@Compendium[pf2e.feats-srd.969mPoiYANzV2261]`|
 |[Ratspeak](feats/ancestry-01-VDiMapgJoFI3CCol.htm)|Langage des rats|`@Compendium[pf2e.feats-srd.VDiMapgJoFI3CCol]`|
 |[Ravening's Desperation](feats/skill-01-d8AjCqU30z7IOpos.htm)|Énergie du désespoir|`@Compendium[pf2e.feats-srd.d8AjCqU30z7IOpos]`|
 |[Razor Claws](feats/ancestry-01-VatkAzfBYjA6z6OP.htm)|Griffes rasoir|`@Compendium[pf2e.feats-srd.VatkAzfBYjA6z6OP]`|
@@ -3626,12 +3959,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Read Disaster](feats/class-08-HLC9g1pwluDl6vy7.htm)|Lire le désastre|`@Compendium[pf2e.feats-srd.HLC9g1pwluDl6vy7]`|
 |[Read Lips](feats/skill-01-yUuU9xyotrpwpTyC.htm)|Lire sur les lèvres|`@Compendium[pf2e.feats-srd.yUuU9xyotrpwpTyC]`|
 |[Read Shibboleths](feats/archetype-07-Crd3qMecF9FYHjuH.htm)|Lire les signes distinctifs|`@Compendium[pf2e.feats-srd.Crd3qMecF9FYHjuH]`|
+|[Read The Stars](feats/ancestry-09-DhqsKns2SaGcOKO9.htm)||`@Compendium[pf2e.feats-srd.DhqsKns2SaGcOKO9]`|
 |[Reaper of Repose](feats/archetype-12-xmccXo6U7P0IMM3z.htm)|Violeur de repos|`@Compendium[pf2e.feats-srd.xmccXo6U7P0IMM3z]`|
 |[Reason Rapidly](feats/class-12-pm9PS32YNLJ2wp4o.htm)|Déduction rapide|`@Compendium[pf2e.feats-srd.pm9PS32YNLJ2wp4o]`|
 |[Rebounding Toss](feats/class-02-5SBFayX7JqKYANwa.htm)|Lancer rebondissant|`@Compendium[pf2e.feats-srd.5SBFayX7JqKYANwa]`|
 |[Reckless Abandon (Barbarian)](feats/class-16-EWeso1zDkCLGlnsW.htm)|Dangereux abandon (Barbare)|`@Compendium[pf2e.feats-srd.EWeso1zDkCLGlnsW]`|
 |[Reckless Abandon (Goblin)](feats/ancestry-17-fqw1ELaqavuKLHIj.htm)|Dangereux abandon (Gobelin)|`@Compendium[pf2e.feats-srd.fqw1ELaqavuKLHIj]`|
 |[Reclaim Spell](feats/class-20-LLrGafdJij7qiWZi.htm)|Sort Repris|`@Compendium[pf2e.feats-srd.LLrGafdJij7qiWZi]`|
+|[Recognize Ambush](feats/ancestry-05-OOBSMpdAfYuiiQqo.htm)||`@Compendium[pf2e.feats-srd.OOBSMpdAfYuiiQqo]`|
 |[Recognize Spell](feats/skill-01-MjQyTcV8Jiv1Jtln.htm)|Reconnaître des sorts|`@Compendium[pf2e.feats-srd.MjQyTcV8Jiv1Jtln]`|
 |[Recognize Threat](feats/archetype-08-5vRXZcGAbqKRoaqL.htm)|Reconnaître la menace|`@Compendium[pf2e.feats-srd.5vRXZcGAbqKRoaqL]`|
 |[Recollect Studies](feats/archetype-12-QoPooHpBjPh1sjRD.htm)|Rappel de l'enseignement|`@Compendium[pf2e.feats-srd.QoPooHpBjPh1sjRD]`|
@@ -3645,6 +3980,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Reflexive Grip](feats/archetype-08-jaekke9HomT4PZ9b.htm)|Emprise réflexive|`@Compendium[pf2e.feats-srd.jaekke9HomT4PZ9b]`|
 |[Reflexive Riposte](feats/class-10-uotQ9yqetPoAWrfW.htm)|Riposte machinale|`@Compendium[pf2e.feats-srd.uotQ9yqetPoAWrfW]`|
 |[Reflexive Shield](feats/class-06-dHUoQVzDa9Cf4QCG.htm)|Bouclier instinctif|`@Compendium[pf2e.feats-srd.dHUoQVzDa9Cf4QCG]`|
+|[Regrowth](feats/ancestry-17-ffjoPXtAoIR2Drwe.htm)||`@Compendium[pf2e.feats-srd.ffjoPXtAoIR2Drwe]`|
+|[Rehydration](feats/ancestry-13-XOudHBESJ192FBwF.htm)||`@Compendium[pf2e.feats-srd.XOudHBESJ192FBwF]`|
 |[Rejuvenating Touch](feats/class-18-xZrTjUub7V09sXZF.htm)|Toucher rajeunissant|`@Compendium[pf2e.feats-srd.xZrTjUub7V09sXZF]`|
 |[Relentless Disarm](feats/archetype-06-9E1FLGp4CNBEwiZE.htm)|Désarmement acharné|`@Compendium[pf2e.feats-srd.9E1FLGp4CNBEwiZE]`|
 |[Relentless Stalker](feats/class-02-e9NcDk6ds5YebGvb.htm)|Harceleur infatigable|`@Compendium[pf2e.feats-srd.e9NcDk6ds5YebGvb]`|
@@ -3655,8 +3992,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Remorseless Lash](feats/ancestry-01-iRztLGEK5OfjZTPg.htm)|Fouetter sans remord|`@Compendium[pf2e.feats-srd.iRztLGEK5OfjZTPg]`|
 |[Remote Trigger](feats/archetype-06-sk5HspGGnLW8b6bX.htm)|Déclenchement à distance|`@Compendium[pf2e.feats-srd.sk5HspGGnLW8b6bX]`|
 |[Renewed Vigor](feats/class-08-3hhCDWPm021hvicR.htm)|Regain de vigueur|`@Compendium[pf2e.feats-srd.3hhCDWPm021hvicR]`|
+|[Repair Module](feats/ancestry-09-ZGT7NLpcvREkJsMd.htm)||`@Compendium[pf2e.feats-srd.ZGT7NLpcvREkJsMd]`|
 |[Replenishment of War](feats/class-10-aMef2VM4mSxl0pmy.htm)|Récupération martiale|`@Compendium[pf2e.feats-srd.aMef2VM4mSxl0pmy]`|
 |[Reprepare Spell](feats/class-18-a1TSGGsA6b5gjP3H.htm)|Recyclage de sort|`@Compendium[pf2e.feats-srd.a1TSGGsA6b5gjP3H]`|
+|[Reptile Rider](feats/ancestry-01-k31sg0xBIwvkfWyg.htm)||`@Compendium[pf2e.feats-srd.k31sg0xBIwvkfWyg]`|
 |[Reptile Speaker](feats/ancestry-01-GEvaoKgQteMrd4ub.htm)|Locuteur reptilien|`@Compendium[pf2e.feats-srd.GEvaoKgQteMrd4ub]`|
 |[Rescuer's Press](feats/archetype-04-wscmghwNCXvZtKsz.htm)|Poussée du sauveteur|`@Compendium[pf2e.feats-srd.wscmghwNCXvZtKsz]`|
 |[Resilient Touch](feats/class-10-tCuMXQ0yMrCNwzqW.htm)|Toucher de résilience|`@Compendium[pf2e.feats-srd.tCuMXQ0yMrCNwzqW]`|
@@ -3668,6 +4007,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Resurrectionist](feats/class-16-Dr6h8WRW6xnLRfxr.htm)|Résurrecteur|`@Compendium[pf2e.feats-srd.Dr6h8WRW6xnLRfxr]`|
 |[Resuscitate](feats/archetype-16-lleedxE6fTDSK6og.htm)|Ressusciter|`@Compendium[pf2e.feats-srd.lleedxE6fTDSK6og]`|
 |[Retain Absorbed Spell](feats/archetype-18-S3hN7qK7aiCDTrpM.htm)|Maintien de sort absorbé|`@Compendium[pf2e.feats-srd.S3hN7qK7aiCDTrpM]`|
+|[Retractable Claws](feats/ancestry-01-J7BtszszVxpETMD7.htm)||`@Compendium[pf2e.feats-srd.J7BtszszVxpETMD7]`|
 |[Return Fire](feats/class-06-OINfbwNZGnlyMqPR.htm)|Tir retourné|`@Compendium[pf2e.feats-srd.OINfbwNZGnlyMqPR]`|
 |[Returning Throw](feats/ancestry-09-HfebybiUNW8mXOfP.htm)|Lancer retourné|`@Compendium[pf2e.feats-srd.HfebybiUNW8mXOfP]`|
 |[Reveal Beasts](feats/bonus-00-PPSH5vdf90KC95jJ.htm)||`@Compendium[pf2e.feats-srd.PPSH5vdf90KC95jJ]`|
@@ -3675,12 +4015,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Revealing Stab](feats/class-06-JHcvySfCM9uYNb9N.htm)|Perforation révélatrice|`@Compendium[pf2e.feats-srd.JHcvySfCM9uYNb9N]`|
 |[Reverberate](feats/class-12-ecV3Nljvs4FOBS27.htm)|Entrer en résonance|`@Compendium[pf2e.feats-srd.ecV3Nljvs4FOBS27]`|
 |[Reverse Engineering](feats/archetype-04-f0s3WwaJN5f2UTYY.htm)|Déduction de formule|`@Compendium[pf2e.feats-srd.f0s3WwaJN5f2UTYY]`|
+|[Revivification Protocol](feats/ancestry-13-1lpygRsa487Jto4L.htm)||`@Compendium[pf2e.feats-srd.1lpygRsa487Jto4L]`|
 |[Revivifying Mutagen](feats/class-02-2rJP5TqvfazNeNmY.htm)|Mutagène revivifiant|`@Compendium[pf2e.feats-srd.2rJP5TqvfazNeNmY]`|
 |[Ricochet Feint](feats/class-12-VIjI8PtkTFjeAA6a.htm)|Feinte de ricochet|`@Compendium[pf2e.feats-srd.VIjI8PtkTFjeAA6a]`|
 |[Ricochet Stance (Fighter)](feats/class-06-tRHjUCl0xqG97nok.htm)|Posture du ricochet (Guerrier)|`@Compendium[pf2e.feats-srd.tRHjUCl0xqG97nok]`|
 |[Ricochet Stance (Rogue)](feats/class-08-RsNvCSrCN7czHC0G.htm)|Posture du ricochet (Roublard)|`@Compendium[pf2e.feats-srd.RsNvCSrCN7czHC0G]`|
 |[Ride](feats/general-01-Rq5wkA8DtsmbzoGV.htm)|Chevaucher|`@Compendium[pf2e.feats-srd.Rq5wkA8DtsmbzoGV]`|
+|[Riftmarked](feats/ancestry-01-PMRfunXzC9YizHNZ.htm)||`@Compendium[pf2e.feats-srd.PMRfunXzC9YizHNZ]`|
 |[Righteous Resistance](feats/bonus-00-Kz4E8heU12IGcYoi.htm)||`@Compendium[pf2e.feats-srd.Kz4E8heU12IGcYoi]`|
+|[Rimesoul](feats/ancestry-01-rswkPvZvEBXISH96.htm)||`@Compendium[pf2e.feats-srd.rswkPvZvEBXISH96]`|
 |[Risky Surgery](feats/skill-01-bkZgWFSFV4cAf5Ot.htm)|Chirurgie risquée|`@Compendium[pf2e.feats-srd.bkZgWFSFV4cAf5Ot]`|
 |[Rites Of Convocation](feats/class-04-j01dM0ZAC7KzShx0.htm)|Rites de convocation|`@Compendium[pf2e.feats-srd.j01dM0ZAC7KzShx0]`|
 |[Rites Of Transfiguration](feats/class-14-wa9ZGBTlFuwOjPpH.htm)|Rites de transfiguration|`@Compendium[pf2e.feats-srd.wa9ZGBTlFuwOjPpH]`|
@@ -3690,15 +4033,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Robust Recovery](feats/skill-02-3ZerjLH8ls3JT6cD.htm)|Récupération vigoureuse|`@Compendium[pf2e.feats-srd.3ZerjLH8ls3JT6cD]`|
 |[Rock Runner](feats/ancestry-01-NIUSBGMmdqhkYtmo.htm)|Arpenteur des roches|`@Compendium[pf2e.feats-srd.NIUSBGMmdqhkYtmo]`|
 |[Rogue Dedication](feats/archetype-02-bCWieNDC1CD35tin.htm)|Dévouement du roublard|`@Compendium[pf2e.feats-srd.bCWieNDC1CD35tin]`|
+|[Rokoan Arts](feats/ancestry-09-Xwk41o4fERfM07NR.htm)||`@Compendium[pf2e.feats-srd.Xwk41o4fERfM07NR]`|
 |[Roll with It](feats/ancestry-09-ATiQDz27aiBTAt17.htm)|Roule avec çà|`@Compendium[pf2e.feats-srd.ATiQDz27aiBTAt17]`|
 |[Root Magic](feats/skill-01-22P7IFyhrF7Fbw8B.htm)|Magie des racines|`@Compendium[pf2e.feats-srd.22P7IFyhrF7Fbw8B]`|
 |[Rope Runner](feats/archetype-04-wpqKltAoJjRQgWow.htm)|Gabier éprouvé|`@Compendium[pf2e.feats-srd.wpqKltAoJjRQgWow]`|
 |[Rough Rider](feats/ancestry-01-GF9kkULUYowgjEWM.htm)|Cavalier farouche|`@Compendium[pf2e.feats-srd.GF9kkULUYowgjEWM]`|
 |[Round Ears](feats/ancestry-01-ecJms2jtd6cZ5rQK.htm)|Oreilles arrondies|`@Compendium[pf2e.feats-srd.ecJms2jtd6cZ5rQK]`|
+|[Ru-shi](feats/ancestry-01-23F2oqjL7SAMW3Ud.htm)||`@Compendium[pf2e.feats-srd.23F2oqjL7SAMW3Ud]`|
 |[Rubbery Skin](feats/archetype-10-wUHnauB3atxO1RIo.htm)|Peau caoutchouteuse|`@Compendium[pf2e.feats-srd.wUHnauB3atxO1RIo]`|
 |[Rugged Survivalist](feats/archetype-12-m7AOg13xEJRHyoTt.htm)|Survivant robuste|`@Compendium[pf2e.feats-srd.m7AOg13xEJRHyoTt]`|
 |[Runescarred Dedication](feats/archetype-02-luKAFJAvdbAgEwV7.htm)|Dévouement de scarifié des runes|`@Compendium[pf2e.feats-srd.luKAFJAvdbAgEwV7]`|
 |[Running Reload](feats/class-04-meQJfsKVar9tm6c9.htm)|Rechargement en courant|`@Compendium[pf2e.feats-srd.meQJfsKVar9tm6c9]`|
+|[Runtsage](feats/ancestry-05-qUZnrueC2a0zf95N.htm)||`@Compendium[pf2e.feats-srd.qUZnrueC2a0zf95N]`|
+|[Saber Teeth](feats/ancestry-01-AL2KD88ddEl5AetZ.htm)||`@Compendium[pf2e.feats-srd.AL2KD88ddEl5AetZ]`|
 |[Sabotage](feats/bonus-04-vDeG0N4kzTBDTC2b.htm)|Sabotage|`@Compendium[pf2e.feats-srd.vDeG0N4kzTBDTC2b]`|
 |[Sacred Defender](feats/class-20-JaBDNtNYYDfTGYad.htm)|Défenseur sacré|`@Compendium[pf2e.feats-srd.JaBDNtNYYDfTGYad]`|
 |[Sacred Defense](feats/skill-07-gHBdjbEnIK8clK8u.htm)|Défense sacrée|`@Compendium[pf2e.feats-srd.gHBdjbEnIK8clK8u]`|
@@ -3716,12 +4063,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Scalpel's Point](feats/class-04-hYu6XxARNJYdf8Qe.htm)|Pointe du scalpel|`@Compendium[pf2e.feats-srd.hYu6XxARNJYdf8Qe]`|
 |[Scamper](feats/ancestry-01-xzpMQ2ZRn9zC23XG.htm)|Détaler|`@Compendium[pf2e.feats-srd.xzpMQ2ZRn9zC23XG]`|
 |[Scamper Underfoot](feats/ancestry-01-viFTJfZusRPx0G2q.htm)|Détaler par dessous|`@Compendium[pf2e.feats-srd.viFTJfZusRPx0G2q]`|
+|[Scar-Thick Skin](feats/ancestry-05-z2z3UTayfUhcGazv.htm)||`@Compendium[pf2e.feats-srd.z2z3UTayfUhcGazv]`|
 |[Scare to Death](feats/skill-15-mZttsiWl1ql5NvrH.htm)|Mort de peur|`@Compendium[pf2e.feats-srd.mZttsiWl1ql5NvrH]`|
 |[Scarecrow](feats/archetype-08-RivbJYEBUyfLwPh7.htm)|Épouvantail|`@Compendium[pf2e.feats-srd.RivbJYEBUyfLwPh7]`|
 |[Scavenger's Search](feats/ancestry-01-zaGD9Og2p8Opa0oJ.htm)|Fouille du récupérateur|`@Compendium[pf2e.feats-srd.zaGD9Og2p8Opa0oJ]`|
+|[Scholar's Inheritance](feats/ancestry-01-KRMdfPcNCE7AVsEo.htm)||`@Compendium[pf2e.feats-srd.KRMdfPcNCE7AVsEo]`|
 |[Scholastic Identification](feats/archetype-07-g3zmkEVJJIjE32fY.htm)|Études de l'identification|`@Compendium[pf2e.feats-srd.g3zmkEVJJIjE32fY]`|
 |[Schooled In Secrets](feats/skill-01-lEgYzFHransLkSvI.htm)|Éduqué dans les secrets|`@Compendium[pf2e.feats-srd.lEgYzFHransLkSvI]`|
 |[Scintillating Spell](feats/class-16-DSmYJvCHMvZCP0aD.htm)|Sort scintillant|`@Compendium[pf2e.feats-srd.DSmYJvCHMvZCP0aD]`|
+|[Scion Transformation](feats/ancestry-17-wFtJlamwRc6rSQmj.htm)||`@Compendium[pf2e.feats-srd.wFtJlamwRc6rSQmj]`|
+|[Scorching Disarm](feats/ancestry-09-NnpUhj7d4RmfOKTE.htm)||`@Compendium[pf2e.feats-srd.NnpUhj7d4RmfOKTE]`|
 |[Scouring Rage](feats/class-06-VqVgcqmG6xmYuDbK.htm)|Rage débordante|`@Compendium[pf2e.feats-srd.VqVgcqmG6xmYuDbK]`|
 |[Scout Dedication](feats/archetype-02-qMa2fIP2nqrFzHrq.htm)|Dévouement de l'Éclaireur|`@Compendium[pf2e.feats-srd.qMa2fIP2nqrFzHrq]`|
 |[Scout's Charge](feats/archetype-04-6CE1nVGxt192AUGk.htm)|Assaut de l'Éclaireur|`@Compendium[pf2e.feats-srd.6CE1nVGxt192AUGk]`|
@@ -3732,6 +4083,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Scroll Trickster Dedication](feats/archetype-02-uxHWqFbYD0ZvkeF8.htm)|Dévouement d'Usurpateur de parchemins|`@Compendium[pf2e.feats-srd.uxHWqFbYD0ZvkeF8]`|
 |[Scrollmaster Dedication](feats/class-06-uhfZtjbfJ8pZIWrF.htm)|Dévouement du Maître des parchemins|`@Compendium[pf2e.feats-srd.uhfZtjbfJ8pZIWrF]`|
 |[Scrounger Dedication](feats/archetype-02-CaeCSWFWytWv8Fgu.htm)|Dévouement du Bricoleur|`@Compendium[pf2e.feats-srd.CaeCSWFWytWv8Fgu]`|
+|[Sculpt Shadows](feats/ancestry-09-TwAps3ewk7KFHKDv.htm)||`@Compendium[pf2e.feats-srd.TwAps3ewk7KFHKDv]`|
 |[Seasoned](feats/skill-01-1Eceqc6zbMj2x0q9.htm)|Assaisonné|`@Compendium[pf2e.feats-srd.1Eceqc6zbMj2x0q9]`|
 |[Second Ally](feats/class-08-VZczZNj3ozCj1Lzk.htm)|Deuxième allié|`@Compendium[pf2e.feats-srd.VZczZNj3ozCj1Lzk]`|
 |[Second Chance Spell](feats/class-18-XafnXTx9Bn0kN1RG.htm)|Sort de la seconde chance|`@Compendium[pf2e.feats-srd.XafnXTx9Bn0kN1RG]`|
@@ -3748,12 +4100,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sense Allies](feats/ancestry-05-m5JYglEObpWC3dhP.htm)|Perception des alliés|`@Compendium[pf2e.feats-srd.m5JYglEObpWC3dhP]`|
 |[Sense Chaos](feats/archetype-08-3XFKXB3ffeIkrQYe.htm)|Perception du chaos|`@Compendium[pf2e.feats-srd.3XFKXB3ffeIkrQYe]`|
 |[Sense Evil](feats/class-08-EnpbhZr94ZyZI4hb.htm)|Perception du mal|`@Compendium[pf2e.feats-srd.EnpbhZr94ZyZI4hb]`|
+|[Sense For Trouble](feats/ancestry-09-T8cBEhuHWkh3MqgO.htm)||`@Compendium[pf2e.feats-srd.T8cBEhuHWkh3MqgO]`|
 |[Sense Good](feats/class-08-bPqRneuJPqeXc65G.htm)|Perception du bien|`@Compendium[pf2e.feats-srd.bPqRneuJPqeXc65G]`|
 |[Sense The Unseen](feats/class-14-DM9rjXZrmx2MFX7k.htm)|Percevoir l'inaperçu|`@Compendium[pf2e.feats-srd.DM9rjXZrmx2MFX7k]`|
 |[Sense Thoughts](feats/ancestry-09-LRBzEzpS19z3Eghd.htm)|Perception des pensées|`@Compendium[pf2e.feats-srd.LRBzEzpS19z3Eghd]`|
 |[Sentinel Dedication](feats/archetype-02-8foxmfC6FFT3oYpV.htm)|Dévouement de Sentinelle|`@Compendium[pf2e.feats-srd.8foxmfC6FFT3oYpV]`|
 |[Settlement Scholastics](feats/skill-04-R7BO8br4BjCmpjit.htm)|Études d'une implantation|`@Compendium[pf2e.feats-srd.R7BO8br4BjCmpjit]`|
+|[Shackleborn](feats/ancestry-01-QygsOzswFQEYONO3.htm)||`@Compendium[pf2e.feats-srd.QygsOzswFQEYONO3]`|
 |[Shackles of Law](feats/bonus-00-AGiIjgLOFuahmwiT.htm)||`@Compendium[pf2e.feats-srd.AGiIjgLOFuahmwiT]`|
+|[Shadow Blending](feats/ancestry-01-H95Gh2nKUp9NKFuR.htm)||`@Compendium[pf2e.feats-srd.H95Gh2nKUp9NKFuR]`|
 |[Shadow Hunter](feats/class-18-f1acyuIGYVp2BpKc.htm)|Chasseur de l'ombre|`@Compendium[pf2e.feats-srd.f1acyuIGYVp2BpKc]`|
 |[Shadow Illusion](feats/archetype-12-C4m59yjuDmZLnTqu.htm)|Illusion de l'ombre|`@Compendium[pf2e.feats-srd.C4m59yjuDmZLnTqu]`|
 |[Shadow Magic](feats/archetype-10-tha0L3Z6608JrUwN.htm)|Magie de l'ombre|`@Compendium[pf2e.feats-srd.tha0L3Z6608JrUwN]`|
@@ -3762,14 +4117,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Shadow Pact](feats/ancestry-13-ACeqRSWr4CEwLZgO.htm)|Pacte d'ombre|`@Compendium[pf2e.feats-srd.ACeqRSWr4CEwLZgO]`|
 |[Shadow Power](feats/archetype-14-F7Ao9p17ocf3JVvy.htm)|Pouvoir de l'ombre|`@Compendium[pf2e.feats-srd.F7Ao9p17ocf3JVvy]`|
 |[Shadow Self](feats/ancestry-17-7YvOqcdp9Z0RALMp.htm)|Ombre de soi-même|`@Compendium[pf2e.feats-srd.7YvOqcdp9Z0RALMp]`|
+|[Shadow Sight](feats/ancestry-09-NjPZbQjJJIygS1ru.htm)||`@Compendium[pf2e.feats-srd.NjPZbQjJJIygS1ru]`|
 |[Shadow Sneak Attack](feats/archetype-10-N16lctDPZpvk9Khq.htm)|Attaque sournoise de l'ombre|`@Compendium[pf2e.feats-srd.N16lctDPZpvk9Khq]`|
 |[Shadow of the Wilds](feats/ancestry-01-kDklfrprKTuTpcEE.htm)|Ombre des étendues sauvages|`@Compendium[pf2e.feats-srd.kDklfrprKTuTpcEE]`|
 |[Shadow's Web](feats/class-14-AfTMuAln2f0Pa3Lj.htm)|Toile de l'ombre|`@Compendium[pf2e.feats-srd.AfTMuAln2f0Pa3Lj]`|
 |[Shadowdancer Dedication](feats/archetype-08-1AgirzUGkyDdmENy.htm)|Dévouement de Danseur de l'ombre|`@Compendium[pf2e.feats-srd.1AgirzUGkyDdmENy]`|
+|[Shadowy Disguise](feats/ancestry-05-oSA1Ii6gTRGobeSO.htm)||`@Compendium[pf2e.feats-srd.oSA1Ii6gTRGobeSO]`|
+|[Shadow’s Assault](feats/ancestry-13-8Qn80RunXaChOM5p.htm)||`@Compendium[pf2e.feats-srd.8Qn80RunXaChOM5p]`|
+|[Shaitan Magic](feats/ancestry-09-8buK32r3i3aGyyOR.htm)||`@Compendium[pf2e.feats-srd.8buK32r3i3aGyyOR]`|
+|[Shaitan Skin](feats/ancestry-13-3YByhZJi93ie5F45.htm)||`@Compendium[pf2e.feats-srd.3YByhZJi93ie5F45]`|
 |[Shake it Off](feats/class-02-auv1lss6LxM0q3gz.htm)|Reprends-toi|`@Compendium[pf2e.feats-srd.auv1lss6LxM0q3gz]`|
 |[Shall not Falter, Shall not Rout](feats/archetype-10-4AezsqaQRFtX024w.htm)|Tu ne faibliras pas, tu ne prendras pas la fuite|`@Compendium[pf2e.feats-srd.4AezsqaQRFtX024w]`|
 |[Shameless Request](feats/skill-07-KIK2Eza9TK47MEb2.htm)|Requête sans vergogne|`@Compendium[pf2e.feats-srd.KIK2Eza9TK47MEb2]`|
 |[Shape Of The Dragon](feats/archetype-14-eR0sifECG27CC4do.htm)|Forme de dragon|`@Compendium[pf2e.feats-srd.eR0sifECG27CC4do]`|
+|[Shapechanger's Intuition](feats/ancestry-01-nbWkPLiUxagX8dCw.htm)||`@Compendium[pf2e.feats-srd.nbWkPLiUxagX8dCw]`|
 |[Shaped Contaminant](feats/class-12-9u0uW1vZThRayXk2.htm)|Contaminant formé|`@Compendium[pf2e.feats-srd.9u0uW1vZThRayXk2]`|
 |[Share Rage](feats/class-08-vayNZR1bTzU1oUa3.htm)|Rage partagée|`@Compendium[pf2e.feats-srd.vayNZR1bTzU1oUa3]`|
 |[Share Thoughts](feats/ancestry-01-G8WgbujrrnMQUQ8E.htm)|Partager les pensées|`@Compendium[pf2e.feats-srd.G8WgbujrrnMQUQ8E]`|
@@ -3797,7 +4158,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Shield of Grace](feats/class-16-7IDFHh2ZJLaB1y59.htm)|Bouclier de grâce|`@Compendium[pf2e.feats-srd.7IDFHh2ZJLaB1y59]`|
 |[Shield of Reckoning](feats/class-10-VsTmB32x9673ONJ0.htm)|Bouclier du jugement|`@Compendium[pf2e.feats-srd.VsTmB32x9673ONJ0]`|
 |[Shielded Stride](feats/class-04-tHqlcgcxHXzqLHPZ.htm)|Marche au bouclier|`@Compendium[pf2e.feats-srd.tHqlcgcxHXzqLHPZ]`|
+|[Shifting Faces](feats/ancestry-05-qZUdGd2khS9cq4hJ.htm)||`@Compendium[pf2e.feats-srd.qZUdGd2khS9cq4hJ]`|
 |[Shining Oath](feats/class-02-vQiUYpdgYnXg0oDX.htm)|Serment de lumière|`@Compendium[pf2e.feats-srd.vQiUYpdgYnXg0oDX]`|
+|[Shinstabber](feats/ancestry-13-JQxFvMHu0ffo56RT.htm)||`@Compendium[pf2e.feats-srd.JQxFvMHu0ffo56RT]`|
+|[Shoki's Argument](feats/ancestry-05-B4e8V5nExlScjojY.htm)||`@Compendium[pf2e.feats-srd.B4e8V5nExlScjojY]`|
 |[Shoony Lore](feats/ancestry-01-yCaWcKlpbAfebqlO.htm)|Connaissance des Shoonis|`@Compendium[pf2e.feats-srd.yCaWcKlpbAfebqlO]`|
 |[Shooting Stars Stance](feats/class-02-6cQSPqXoAO6oJl0i.htm)|Posture des étoiles lancées|`@Compendium[pf2e.feats-srd.6cQSPqXoAO6oJl0i]`|
 |[Shory Aerialist](feats/ancestry-13-plhQDES7yb6xDAXL.htm)|Aérialiste Rivain|`@Compendium[pf2e.feats-srd.plhQDES7yb6xDAXL]`|
@@ -3805,6 +4169,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Shoulder Catastrophe](feats/archetype-12-Oa41bfBRO36lf1aE.htm)|Endosser la catastrophe|`@Compendium[pf2e.feats-srd.Oa41bfBRO36lf1aE]`|
 |[Shove Down](feats/class-06-z5fUX9jeqfAViOd8.htm)|Envoyer au tapis|`@Compendium[pf2e.feats-srd.z5fUX9jeqfAViOd8]`|
 |[Shoving Sweep](feats/archetype-08-7p2tNqYHsg6u05cU.htm)|Balayage repoussant|`@Compendium[pf2e.feats-srd.7p2tNqYHsg6u05cU]`|
+|[Shrouded Magic](feats/ancestry-01-gsDDw5KAb7qlPkms.htm)||`@Compendium[pf2e.feats-srd.gsDDw5KAb7qlPkms]`|
+|[Shrouded Mien](feats/ancestry-01-qxQf0HiYBh26mCMT.htm)||`@Compendium[pf2e.feats-srd.qxQf0HiYBh26mCMT]`|
 |[Side by Side (Druid)](feats/class-10-j5Xjr8vZuBhCixIr.htm)|Côte à côte (Druide)|`@Compendium[pf2e.feats-srd.j5Xjr8vZuBhCixIr]`|
 |[Side by Side (Ranger)](feats/class-12-5YcnoTYKvEtkWiHh.htm)|Côte à côte (Rôdeur)|`@Compendium[pf2e.feats-srd.5YcnoTYKvEtkWiHh]`|
 |[Sidestep](feats/class-08-5d4AyZ0Y6Ht1OwIa.htm)|Pas de côté|`@Compendium[pf2e.feats-srd.5d4AyZ0Y6Ht1OwIa]`|
@@ -3815,32 +4181,46 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Silence Heresy](feats/bonus-00-tPhhaCbaQqwenkzx.htm)||`@Compendium[pf2e.feats-srd.tPhhaCbaQqwenkzx]`|
 |[Silencing Strike](feats/class-10-Yk3QGpalWDn5MhBV.htm)|Frappe muselante|`@Compendium[pf2e.feats-srd.Yk3QGpalWDn5MhBV]`|
 |[Silent Spell](feats/class-04-JlGZFW3mCNxWPKvX.htm)|Sort silencieux|`@Compendium[pf2e.feats-srd.JlGZFW3mCNxWPKvX]`|
+|[Silent Step](feats/ancestry-09-HPW7Qi02lkVprW6V.htm)||`@Compendium[pf2e.feats-srd.HPW7Qi02lkVprW6V]`|
 |[Silver's Refrain](feats/class-12-mZcI1NKtQhteAQLn.htm)|Refrain d'argent|`@Compendium[pf2e.feats-srd.mZcI1NKtQhteAQLn]`|
 |[Simple Crystal Magic](feats/archetype-06-DpmdmRNMg6LZpNB0.htm)|Magie des cristaux basique|`@Compendium[pf2e.feats-srd.DpmdmRNMg6LZpNB0]`|
+|[Sinister Appearance](feats/ancestry-01-Hy8SPadSjukKq078.htm)||`@Compendium[pf2e.feats-srd.Hy8SPadSjukKq078]`|
 |[Siphon Power](feats/class-16-L0f3c0DkT7FLQF9W.htm)|Pouvoir siphonné|`@Compendium[pf2e.feats-srd.L0f3c0DkT7FLQF9W]`|
 |[Skill Mastery (Investigator)](feats/archetype-08-v4O6eDiSOkzQZHmT.htm)|Maîtrise des compétences (Enquêteur)|`@Compendium[pf2e.feats-srd.v4O6eDiSOkzQZHmT]`|
 |[Skill Mastery (Rogue)](feats/class-08-c9rhGmKft1BVT4JO.htm)|Maîtrise des compétences (Roublard)|`@Compendium[pf2e.feats-srd.c9rhGmKft1BVT4JO]`|
 |[Skill Training](feats/skill-01-P6icK2DbRoZ3H6kc.htm)|Compétence qualifiante|`@Compendium[pf2e.feats-srd.P6icK2DbRoZ3H6kc]`|
-|[Skillful Tail](feats/ancestry-05-aVRuchEAJIvnd70k.htm)|Queue agile|`@Compendium[pf2e.feats-srd.aVRuchEAJIvnd70k]`|
+|[Skillful Tail (Geniekin)](feats/ancestry-05-aVRuchEAJITim82y.htm)||`@Compendium[pf2e.feats-srd.aVRuchEAJITim82y]`|
+|[Skillful Tail (Tiefling)](feats/ancestry-05-aVRuchEAJIvnd70k.htm)|Queue agile|`@Compendium[pf2e.feats-srd.aVRuchEAJIvnd70k]`|
 |[Skim Scroll](feats/archetype-08-HIyuVIh2XSDz3h2j.htm)|Parchemin parcouru|`@Compendium[pf2e.feats-srd.HIyuVIh2XSDz3h2j]`|
 |[Skirmish Strike](feats/class-06-4I1Kq53Qfzrrmg2E.htm)|Frappe d'escarmouche|`@Compendium[pf2e.feats-srd.4I1Kq53Qfzrrmg2E]`|
+|[Skirt The Light](feats/ancestry-13-dor2F3g8gL2KVwX6.htm)||`@Compendium[pf2e.feats-srd.dor2F3g8gL2KVwX6]`|
 |[Skitter](feats/general-03-wPHZhgKzNw4VcCFt.htm)|Glisseur|`@Compendium[pf2e.feats-srd.wPHZhgKzNw4VcCFt]`|
 |[Skittering Scuttle](feats/ancestry-09-dtmLxbSy2H8h8e4N.htm)|Précipitation hâtive|`@Compendium[pf2e.feats-srd.dtmLxbSy2H8h8e4N]`|
+|[Skittering Sneak](feats/ancestry-13-NaY9HXeQ0yhoIorO.htm)||`@Compendium[pf2e.feats-srd.NaY9HXeQ0yhoIorO]`|
+|[Skull Creeper](feats/ancestry-01-VV7vbDzcO8vdD3OO.htm)||`@Compendium[pf2e.feats-srd.VV7vbDzcO8vdD3OO]`|
 |[Sky and Heaven Stance](feats/archetype-06-UjEeHamC2C8JfgJz.htm)|Posture du Ciel et du Paradis|`@Compendium[pf2e.feats-srd.UjEeHamC2C8JfgJz]`|
 |[Skyseeker](feats/archetype-08-gepQGtV8Ftr0JJ6O.htm)|Cherche-ciel|`@Compendium[pf2e.feats-srd.gepQGtV8Ftr0JJ6O]`|
 |[Slag May](feats/ancestry-01-xTe8lNBp76jsrhYh.htm)|Vierge crasseuse|`@Compendium[pf2e.feats-srd.xTe8lNBp76jsrhYh]`|
 |[Sleeper Hold](feats/class-10-E1WXnYE2QwhHQxQb.htm)|Prise du sommeil|`@Compendium[pf2e.feats-srd.E1WXnYE2QwhHQxQb]`|
 |[Slice and Swipe](feats/class-06-cTQMtd2IVlvgJwAn.htm)|Couper et dérober|`@Compendium[pf2e.feats-srd.cTQMtd2IVlvgJwAn]`|
+|[Slink](feats/ancestry-01-LbyNDCxFEkjp0iG7.htm)||`@Compendium[pf2e.feats-srd.LbyNDCxFEkjp0iG7]`|
+|[Slip Into Shadow](feats/ancestry-09-iXhMlT5rlLngybxX.htm)||`@Compendium[pf2e.feats-srd.iXhMlT5rlLngybxX]`|
+|[Slip The Grasp](feats/ancestry-09-O2iFrAt7hyELJlIR.htm)||`@Compendium[pf2e.feats-srd.O2iFrAt7hyELJlIR]`|
+|[Slip With The Breeze](feats/ancestry-05-mfy0nasMIiMLUm3f.htm)||`@Compendium[pf2e.feats-srd.mfy0nasMIiMLUm3f]`|
 |[Slippery Secrets](feats/skill-07-RiuZT3H4QZIIEQXJ.htm)|Secrets insaisissables|`@Compendium[pf2e.feats-srd.RiuZT3H4QZIIEQXJ]`|
+|[Slither](feats/ancestry-01-TW5TY7kSf50uaX71.htm)||`@Compendium[pf2e.feats-srd.TW5TY7kSf50uaX71]`|
 |[Sly Striker](feats/class-08-AbgHCPWOKULeXrJ2.htm)|Frappe perfide|`@Compendium[pf2e.feats-srd.AbgHCPWOKULeXrJ2]`|
 |[Smash From The Air](feats/class-18-7ATVpDUM6pRq6HOR.htm)|Fracasser en l'air|`@Compendium[pf2e.feats-srd.7ATVpDUM6pRq6HOR]`|
+|[Smashing Tail](feats/ancestry-01-8nz6gvymeTvEfdo0.htm)||`@Compendium[pf2e.feats-srd.8nz6gvymeTvEfdo0]`|
 |[Smite Evil](feats/class-06-xgvKXeTxns0gIdAn.htm)|Châtiment du mal|`@Compendium[pf2e.feats-srd.xgvKXeTxns0gIdAn]`|
 |[Smite Good](feats/class-06-T5xFirAE8VLL5Lbu.htm)|Châtiment du bien|`@Compendium[pf2e.feats-srd.T5xFirAE8VLL5Lbu]`|
 |[Smoke Bomb](feats/class-02-ODnXQHvFoK7tIVpu.htm)|Bombe fumigène|`@Compendium[pf2e.feats-srd.ODnXQHvFoK7tIVpu]`|
+|[Smokesoul](feats/ancestry-01-lqhhvDJAjPw6LZy5.htm)||`@Compendium[pf2e.feats-srd.lqhhvDJAjPw6LZy5]`|
 |[Snagging Strike](feats/class-01-mWCiu9Hl1WxajSLa.htm)|Frappe déconcertante|`@Compendium[pf2e.feats-srd.mWCiu9Hl1WxajSLa]`|
 |[Snap Out Of It! (Marshal)](feats/archetype-04-zbnL5OP4zVaNFcq8.htm)|Secoue-toi ! (Capitaine)|`@Compendium[pf2e.feats-srd.zbnL5OP4zVaNFcq8]`|
 |[Snap Out Of It! (Pathfinder Agent)](feats/archetype-08-n3vpCWPjXAInRTyR.htm)|Secoue-toi ! (Agent des Éclaireurs)|`@Compendium[pf2e.feats-srd.n3vpCWPjXAInRTyR]`|
 |[Snap Shot](feats/class-06-0UdHPOv3DX8TY9yb.htm)|Tir soudain|`@Compendium[pf2e.feats-srd.0UdHPOv3DX8TY9yb]`|
+|[Snare Commando](feats/ancestry-09-nqDhQdkgsnvebUMr.htm)||`@Compendium[pf2e.feats-srd.nqDhQdkgsnvebUMr]`|
 |[Snare Crafting](feats/skill-01-DMetdzt1VJL2Y62i.htm)|Fabrication de pièges artisanaux|`@Compendium[pf2e.feats-srd.DMetdzt1VJL2Y62i]`|
 |[Snare Genius](feats/ancestry-05-8DIzXO1YpsU3DpJw.htm)|Génie des pièges artisanaux|`@Compendium[pf2e.feats-srd.8DIzXO1YpsU3DpJw]`|
 |[Snare Hopping](feats/class-02-lIrPwGpJk9TldZ4c.htm)|Piège artisanal bondissant|`@Compendium[pf2e.feats-srd.lIrPwGpJk9TldZ4c]`|
@@ -3849,7 +4229,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Snarecrafter Dedication](feats/archetype-02-4MUbwilvb9dI0X59.htm)|Dévouement de Fabricant de pièges artisanaux|`@Compendium[pf2e.feats-srd.4MUbwilvb9dI0X59]`|
 |[Sneak Attacker](feats/archetype-04-bCAvo59b5RyW12iI.htm)|Agresseur furtif|`@Compendium[pf2e.feats-srd.bCAvo59b5RyW12iI]`|
 |[Sneak Savant](feats/class-10-2Nu4ZdKQM8hx8x5D.htm)|Science de la Furtivité|`@Compendium[pf2e.feats-srd.2Nu4ZdKQM8hx8x5D]`|
+|[Sneaky](feats/ancestry-01-augNhQ51eSlZyead.htm)||`@Compendium[pf2e.feats-srd.augNhQ51eSlZyead]`|
+|[Snow May](feats/ancestry-01-pP4pbFBg5GAgcOE9.htm)||`@Compendium[pf2e.feats-srd.pP4pbFBg5GAgcOE9]`|
 |[Soaring Flight](feats/ancestry-09-Tl8yckXeTCHnwrlM.htm)|Voler haut|`@Compendium[pf2e.feats-srd.Tl8yckXeTCHnwrlM]`|
+|[Soaring Form](feats/ancestry-17-WZC2XXQo6Pu2GQeo.htm)||`@Compendium[pf2e.feats-srd.WZC2XXQo6Pu2GQeo]`|
 |[Soaring Shape](feats/class-08-wNHUryoRzlfDCFAd.htm)|Morphologie volante|`@Compendium[pf2e.feats-srd.wNHUryoRzlfDCFAd]`|
 |[Sociable](feats/ancestry-01-tn7K5lbnF87rZ659.htm)|Sociable|`@Compendium[pf2e.feats-srd.tn7K5lbnF87rZ659]`|
 |[Social Purview](feats/archetype-04-rNPeOwFZE5Ma18JJ.htm)|Identité notoire|`@Compendium[pf2e.feats-srd.rNPeOwFZE5Ma18JJ]`|
@@ -3865,6 +4248,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Soulsight](feats/class-08-HdcGtwWGUx5hQ4Jl.htm)|Vision de l'âme|`@Compendium[pf2e.feats-srd.HdcGtwWGUx5hQ4Jl]`|
 |[Sow Rumor](feats/skill-02-sLEawQueTV1wGn0B.htm)|Semer des rumeurs|`@Compendium[pf2e.feats-srd.sLEawQueTV1wGn0B]`|
 |[Sow Spell](feats/class-14-TyWFsX9DliAdAVs8.htm)|Sort semé|`@Compendium[pf2e.feats-srd.TyWFsX9DliAdAVs8]`|
+|[Speak With Bats](feats/ancestry-01-AFXY5eM4IQuo5Ygj.htm)||`@Compendium[pf2e.feats-srd.AFXY5eM4IQuo5Ygj]`|
 |[Speak with Kindred](feats/ancestry-05-KYKK1vLqGIxXH5Tu.htm)|Parler avec ses semblables|`@Compendium[pf2e.feats-srd.KYKK1vLqGIxXH5Tu]`|
 |[Speaking Sky](feats/archetype-12-bTNgHDqzfoqOLWu3.htm)|Ciel parlant|`@Compendium[pf2e.feats-srd.bTNgHDqzfoqOLWu3]`|
 |[Specialized Beastmaster Companion](feats/archetype-14-bki36RiEM5FR4aiT.htm)|Compagnon spécialisé (Maître des bêtes)|`@Compendium[pf2e.feats-srd.bki36RiEM5FR4aiT]`|
@@ -3898,6 +4282,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spellmaster's Resilience](feats/archetype-12-dWkf6LhYBfBkeyOA.htm)|Résilience du Maître des sorts|`@Compendium[pf2e.feats-srd.dWkf6LhYBfBkeyOA]`|
 |[Spellmaster's Tenacity](feats/archetype-14-lPoP5TFfq266kR6g.htm)|Tenacité du maître des sorts|`@Compendium[pf2e.feats-srd.lPoP5TFfq266kR6g]`|
 |[Spellmaster's Ward](feats/archetype-10-YdGHQjhUrNvP18AA.htm)|Protection du maître des sorts|`@Compendium[pf2e.feats-srd.YdGHQjhUrNvP18AA]`|
+|[Spew Tentacles](feats/ancestry-13-GfpHBiOX02PQz0Pm.htm)||`@Compendium[pf2e.feats-srd.GfpHBiOX02PQz0Pm]`|
 |[Spirit Soother](feats/ancestry-05-2RmsQrLySNYQ4uIn.htm)|Pacificateur d'esprit|`@Compendium[pf2e.feats-srd.2RmsQrLySNYQ4uIn]`|
 |[Spirit Spells](feats/archetype-04-Daap4ugeDZQWoPCx.htm)|Sorts spirituels|`@Compendium[pf2e.feats-srd.Daap4ugeDZQWoPCx]`|
 |[Spirit Strikes](feats/ancestry-09-S7z1LbnSRlBep8rO.htm)|Frappes spirituelles|`@Compendium[pf2e.feats-srd.S7z1LbnSRlBep8rO]`|
@@ -3907,16 +4292,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spiritual Explorer](feats/archetype-04-pfBVx5xBfwKd1iVL.htm)|Explorateur spirituel|`@Compendium[pf2e.feats-srd.pfBVx5xBfwKd1iVL]`|
 |[Spiritual Guides](feats/class-04-cEu8BUS41dlPyPGW.htm)|Guides spirituels|`@Compendium[pf2e.feats-srd.cEu8BUS41dlPyPGW]`|
 |[Spiritual Sense](feats/class-06-HB0jvWCdim1p91q1.htm)|Sens spirituel|`@Compendium[pf2e.feats-srd.HB0jvWCdim1p91q1]`|
+|[Spiteful Rake](feats/ancestry-13-c5xHL6CDFwBqXx2a.htm)||`@Compendium[pf2e.feats-srd.c5xHL6CDFwBqXx2a]`|
 |[Splendid Companion](feats/archetype-12-AvN95M5eVLLEu2qk.htm)|Formidable compagnon|`@Compendium[pf2e.feats-srd.AvN95M5eVLLEu2qk]`|
 |[Splinter Faith](feats/class-01-dGFQvkDRmyvvf4IQ.htm)|Foi schismatique|`@Compendium[pf2e.feats-srd.dGFQvkDRmyvvf4IQ]`|
 |[Split Hex](feats/class-18-KpF7RenGBXIMMGPX.htm)|Maléfice divisé|`@Compendium[pf2e.feats-srd.KpF7RenGBXIMMGPX]`|
 |[Split Shot](feats/class-04-DS0XlHfi3ztb3ET7.htm)|Tir divisé|`@Compendium[pf2e.feats-srd.DS0XlHfi3ztb3ET7]`|
 |[Split Slot](feats/class-06-WAx7RABHDvVVcRI8.htm)|Emplacement divisé|`@Compendium[pf2e.feats-srd.WAx7RABHDvVVcRI8]`|
+|[Spore Cloud](feats/ancestry-09-a32r2n9j36khV0Cp.htm)||`@Compendium[pf2e.feats-srd.a32r2n9j36khV0Cp]`|
 |[Spot Translate](feats/archetype-04-jsXDbQAAH3yMchPU.htm)|Traduction simultanée|`@Compendium[pf2e.feats-srd.jsXDbQAAH3yMchPU]`|
 |[Spring Attack](feats/class-12-d1jQ0HyIOyUdCCaN.htm)|Attaque éclair|`@Compendium[pf2e.feats-srd.d1jQ0HyIOyUdCCaN]`|
 |[Spring from the Shadows](feats/class-12-emjWa77ltL5FytvA.htm)|Bondir depuis les ombres|`@Compendium[pf2e.feats-srd.emjWa77ltL5FytvA]`|
 |[Springing Leaper](feats/ancestry-05-3HuiLoQuJKLAh5rV.htm)|Sauteur bondissant|`@Compendium[pf2e.feats-srd.3HuiLoQuJKLAh5rV]`|
+|[Sprite's Spark](feats/ancestry-01-x31hmCxzJk0m0onR.htm)||`@Compendium[pf2e.feats-srd.x31hmCxzJk0m0onR]`|
 |[Spy's Countermeasures](feats/archetype-10-2xxFg9yRuCDpME3z.htm)|Contre-mesures d'espion|`@Compendium[pf2e.feats-srd.2xxFg9yRuCDpME3z]`|
+|[Squad Tactics](feats/ancestry-09-jzfV4lJ0721Hfzq1.htm)||`@Compendium[pf2e.feats-srd.jzfV4lJ0721Hfzq1]`|
 |[Squawk!](feats/ancestry-01-CCmiEmS7ZgyQUfhn.htm)|Croa !|`@Compendium[pf2e.feats-srd.CCmiEmS7ZgyQUfhn]`|
 |[Staff Acrobat Dedication](feats/archetype-02-LoeoiYOpxSaEkWKv.htm)|Dévouement du Funambule|`@Compendium[pf2e.feats-srd.LoeoiYOpxSaEkWKv]`|
 |[Staff Sweep](feats/archetype-06-dPmJ91qawZW2U8K3.htm)|Balayage au bâton|`@Compendium[pf2e.feats-srd.dPmJ91qawZW2U8K3]`|
@@ -3924,16 +4313,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Stance Savant (Fighter)](feats/class-14-yeSyGnYDkl2GUNmu.htm)|Maître des postures|`@Compendium[pf2e.feats-srd.yeSyGnYDkl2GUNmu]`|
 |[Stance Savant (Monk)](feats/class-12-LI9VtCaL5ZRk0Wo8.htm)|Maître des postures|`@Compendium[pf2e.feats-srd.LI9VtCaL5ZRk0Wo8]`|
 |[Stand Still](feats/class-04-Mj1KTiAwwovm7K9f.htm)|Ne bouge plus|`@Compendium[pf2e.feats-srd.Mj1KTiAwwovm7K9f]`|
-|[Startling Appearance](feats/archetype-06-qg8TlLJRgvjzW9YK.htm)|Apparition surprenante|`@Compendium[pf2e.feats-srd.qg8TlLJRgvjzW9YK]`|
+|[Star Orb](feats/ancestry-01-d1FTY5ai9KjpkX59.htm)||`@Compendium[pf2e.feats-srd.d1FTY5ai9KjpkX59]`|
+|[Startling Appearance (Fleshwarp)](feats/ancestry-01-Iqa96LHn3Bs2xEJA.htm)||`@Compendium[pf2e.feats-srd.Iqa96LHn3Bs2xEJA]`|
+|[Startling Appearance (Vigilante)](feats/archetype-06-qg8TlLJRgvjzW9YK.htm)|Apparition surprenante|`@Compendium[pf2e.feats-srd.qg8TlLJRgvjzW9YK]`|
 |[Stave off Catastrophe](feats/archetype-18-rmO7FP410nvCjFBB.htm)|Éviter la catastrophe|`@Compendium[pf2e.feats-srd.rmO7FP410nvCjFBB]`|
 |[Stay Down!](feats/class-14-2KBKXkRthBXpw48X.htm)|Reste à terre !|`@Compendium[pf2e.feats-srd.2KBKXkRthBXpw48X]`|
 |[Steadfast Ally](feats/ancestry-13-s0OqtQOeYOGkBMYG.htm)|Allié inébranlable|`@Compendium[pf2e.feats-srd.s0OqtQOeYOGkBMYG]`|
 |[Steady Balance](feats/skill-01-CnqMJR8e9jqJR7MM.htm)|Équilibre stable|`@Compendium[pf2e.feats-srd.CnqMJR8e9jqJR7MM]`|
+|[Steady On Stone](feats/ancestry-01-FZuQPFnQ5UkBWLU9.htm)||`@Compendium[pf2e.feats-srd.FZuQPFnQ5UkBWLU9]`|
 |[Steady Spellcasting](feats/class-06-uiGsVmvRfujQQRlK.htm)|Incantation fiable|`@Compendium[pf2e.feats-srd.uiGsVmvRfujQQRlK]`|
 |[Steal Essence](feats/class-20-0VUx8g8GJzuxvLSa.htm)|Essence dérobée|`@Compendium[pf2e.feats-srd.0VUx8g8GJzuxvLSa]`|
 |[Steal Spell](feats/class-16-xjwlP306nuda2z03.htm)|Sort volé|`@Compendium[pf2e.feats-srd.xjwlP306nuda2z03]`|
 |[Steal the Sky](feats/archetype-10-DFtbxytrOrmkQRfm.htm)|Voler le ciel|`@Compendium[pf2e.feats-srd.DFtbxytrOrmkQRfm]`|
 |[Stealthy Companion](feats/class-14-MwozkE6aj42WZ7Z1.htm)|Compagnon furtif|`@Compendium[pf2e.feats-srd.MwozkE6aj42WZ7Z1]`|
+|[Steam Spell](feats/ancestry-05-VFBQ1MskOascFDNf.htm)||`@Compendium[pf2e.feats-srd.VFBQ1MskOascFDNf]`|
 |[Steel Skin](feats/skill-04-uxwHHjWs3ehqtG4b.htm)|Peau d'acier|`@Compendium[pf2e.feats-srd.uxwHHjWs3ehqtG4b]`|
 |[Steel Your Resolve](feats/general-03-jFmdevE4nKevovzo.htm)|Puiser dans votre résolution|`@Compendium[pf2e.feats-srd.jFmdevE4nKevovzo]`|
 |[Steel Yourself!](feats/archetype-04-4Y7wKFogGB0LZ5ZA.htm)|Prépare toi !|`@Compendium[pf2e.feats-srd.4Y7wKFogGB0LZ5ZA]`|
@@ -3944,17 +4337,28 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Stone Blood](feats/archetype-06-CoVBrlyMToANvt2v.htm)|Sang de pierre|`@Compendium[pf2e.feats-srd.CoVBrlyMToANvt2v]`|
 |[Stone Bones](feats/ancestry-09-3Y1k2eAMqCdcCGmK.htm)|Os de pierre|`@Compendium[pf2e.feats-srd.3Y1k2eAMqCdcCGmK]`|
 |[Stone Communion](feats/archetype-14-llawV63qzdynbOkx.htm)|Communion avec la pierre|`@Compendium[pf2e.feats-srd.llawV63qzdynbOkx]`|
+|[Stone Face](feats/ancestry-01-Nn80wBZYJZxcuKsJ.htm)||`@Compendium[pf2e.feats-srd.Nn80wBZYJZxcuKsJ]`|
+|[Stone Form](feats/ancestry-17-GYvaR6ZD8ZKdQWrF.htm)||`@Compendium[pf2e.feats-srd.GYvaR6ZD8ZKdQWrF]`|
 |[Stonecunning](feats/ancestry-01-HOUHs5rahwIsQoBf.htm)|Connaissance de la pierre|`@Compendium[pf2e.feats-srd.HOUHs5rahwIsQoBf]`|
 |[Stonegate](feats/ancestry-17-UquGIEFKhutgJsEz.htm)|Passepierre|`@Compendium[pf2e.feats-srd.UquGIEFKhutgJsEz]`|
 |[Stonewalker](feats/ancestry-09-KTLdk65OOAVixqtY.htm)|Marchepierre|`@Compendium[pf2e.feats-srd.KTLdk65OOAVixqtY]`|
 |[Storm Born](feats/class-01-UpEjRfQkCJCruAfb.htm)|Enfant de la tempête|`@Compendium[pf2e.feats-srd.UpEjRfQkCJCruAfb]`|
+|[Storm Form](feats/ancestry-17-FBhBnyGX0Uje0tbJ.htm)||`@Compendium[pf2e.feats-srd.FBhBnyGX0Uje0tbJ]`|
 |[Storm Retribution](feats/class-06-F1DVDJRARfdb1Kjz.htm)|Châtiment de la tempête|`@Compendium[pf2e.feats-srd.F1DVDJRARfdb1Kjz]`|
 |[Storm's Lash](feats/ancestry-01-bWyY9NtLU5wXr03y.htm)|Fouet de la tempête|`@Compendium[pf2e.feats-srd.bWyY9NtLU5wXr03y]`|
+|[Stormsoul](feats/ancestry-01-qm1lIMLVdsQtVFT0.htm)||`@Compendium[pf2e.feats-srd.qm1lIMLVdsQtVFT0]`|
+|[Stormy Heart](feats/ancestry-17-IzJ76OXe1gl2hfbd.htm)||`@Compendium[pf2e.feats-srd.IzJ76OXe1gl2hfbd]`|
+|[Story Crooner](feats/ancestryfeature-01-Lug2p9E065L05Rhi.htm)||`@Compendium[pf2e.feats-srd.Lug2p9E065L05Rhi]`|
 |[Strategic Assessment](feats/class-04-IvgLDtXmZwzbVJj1.htm)|Évaluation stratégique|`@Compendium[pf2e.feats-srd.IvgLDtXmZwzbVJj1]`|
 |[Strategic Bypass](feats/class-14-NgUB5toKxBd8RJmm.htm)|Contournement stratégique|`@Compendium[pf2e.feats-srd.NgUB5toKxBd8RJmm]`|
 |[Straveika](feats/ancestry-01-PVkAEBlRSJHe3JCz.htm)|straveika|`@Compendium[pf2e.feats-srd.PVkAEBlRSJHe3JCz]`|
 |[Streetwise](feats/skill-01-X2jGFfLU5qI5XVot.htm)|Savoir urbain|`@Compendium[pf2e.feats-srd.X2jGFfLU5qI5XVot]`|
+|[Striking Retribution](feats/ancestry-01-TGlb3gmSKkJBZt5q.htm)||`@Compendium[pf2e.feats-srd.TGlb3gmSKkJBZt5q]`|
+|[Strix Defender](feats/ancestryfeature-01-L7fhh2RTCq4FlVSN.htm)||`@Compendium[pf2e.feats-srd.L7fhh2RTCq4FlVSN]`|
+|[Strix Lore](feats/ancestry-01-HOXxEa7sAeAxpKHb.htm)||`@Compendium[pf2e.feats-srd.HOXxEa7sAeAxpKHb]`|
+|[Strix Vengeance](feats/ancestry-05-wjhhlh82MABhfxCO.htm)||`@Compendium[pf2e.feats-srd.wjhhlh82MABhfxCO]`|
 |[Strong Arm](feats/class-02-OiY0L3WvjwlQQ4iG.htm)|Bras puissant|`@Compendium[pf2e.feats-srd.OiY0L3WvjwlQQ4iG]`|
+|[Strong Swimmer](feats/ancestry-09-UdwXT24zrLzg2ZIV.htm)||`@Compendium[pf2e.feats-srd.UdwXT24zrLzg2ZIV]`|
 |[Stubborn Persistence](feats/ancestry-13-55XNy1TVETEMc0vf.htm)|Persévérance obstinée|`@Compendium[pf2e.feats-srd.55XNy1TVETEMc0vf]`|
 |[Student Of The Dueling Arts](feats/archetype-12-gHHnMCBi1gvG5wTL.htm)|Étudiant des arts du duel|`@Compendium[pf2e.feats-srd.gHHnMCBi1gvG5wTL]`|
 |[Student of Perfection Dedication](feats/archetype-02-eHjqNXgylSuvA887.htm)|Dévouement de l'Étudiant en perfection|`@Compendium[pf2e.feats-srd.eHjqNXgylSuvA887]`|
@@ -3972,8 +4376,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Subtle Theft](feats/skill-01-hVZbnsDuXihggylt.htm)|Vol subtil|`@Compendium[pf2e.feats-srd.hVZbnsDuXihggylt]`|
 |[Sudden Charge](feats/class-01-qQt3CMrhLkUV1wCv.htm)|Charge soudaine|`@Compendium[pf2e.feats-srd.qQt3CMrhLkUV1wCv]`|
 |[Sudden Leap](feats/class-08-BkKWTt3ufaCN2ZdI.htm)|Bond soudain|`@Compendium[pf2e.feats-srd.BkKWTt3ufaCN2ZdI]`|
+|[Suli Amir](feats/ancestry-13-7bVJEZt2vwAAnILV.htm)||`@Compendium[pf2e.feats-srd.7bVJEZt2vwAAnILV]`|
+|[Suli-jann](feats/general-01-GPsYtPdkAkk710F3.htm)||`@Compendium[pf2e.feats-srd.GPsYtPdkAkk710F3]`|
+|[Summon Air Elemental](feats/ancestry-13-569SxRBvTCDiHlbW.htm)||`@Compendium[pf2e.feats-srd.569SxRBvTCDiHlbW]`|
 |[Summon Celestial Kin](feats/ancestry-13-L231BR4815B6hwKT.htm)|Convoquer un céleste apparenté|`@Compendium[pf2e.feats-srd.L231BR4815B6hwKT]`|
+|[Summon Earth Elemental](feats/ancestry-13-lrTRELs8uDpVpsk0.htm)||`@Compendium[pf2e.feats-srd.lrTRELs8uDpVpsk0]`|
 |[Summon Fiendish Kin](feats/ancestry-13-05wQPB1Z20DOy4rH.htm)|Convoquer un fiélon apparenté|`@Compendium[pf2e.feats-srd.05wQPB1Z20DOy4rH]`|
+|[Summon Fire Elemental](feats/ancestry-13-cIJfKlbfKezdDbwK.htm)||`@Compendium[pf2e.feats-srd.cIJfKlbfKezdDbwK]`|
+|[Summon Water Elemental](feats/ancestry-13-Fn8dEIcUZVxuWJgN.htm)||`@Compendium[pf2e.feats-srd.Fn8dEIcUZVxuWJgN]`|
 |[Sun Blade](feats/class-04-TNpoEG0cUEAuSju7.htm)|Lame solaire|`@Compendium[pf2e.feats-srd.TNpoEG0cUEAuSju7]`|
 |[Sun's Fury](feats/archetype-06-vqLt1qjdrflTmdsw.htm)|Furie du soleil|`@Compendium[pf2e.feats-srd.vqLt1qjdrflTmdsw]`|
 |[Sunder Enchantment](feats/class-14-RpXWOgLWQLGdx74I.htm)|Destruction d'enchantement|`@Compendium[pf2e.feats-srd.RpXWOgLWQLGdx74I]`|
@@ -4001,6 +4411,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Swashbuckler Dedication](feats/archetype-02-eAlrvPVb8qt8Lruw.htm)|Dévouement de Bretteur|`@Compendium[pf2e.feats-srd.eAlrvPVb8qt8Lruw]`|
 |[Swashbuckler's Riposte](feats/archetype-06-lZ0swL9EEUgbAuaZ.htm)|Ripose du bretteur|`@Compendium[pf2e.feats-srd.lZ0swL9EEUgbAuaZ]`|
 |[Swashbuckler's Speed](feats/archetype-08-RU86cGTryRAdaEqx.htm)|Vitesse du Bretteur|`@Compendium[pf2e.feats-srd.RU86cGTryRAdaEqx]`|
+|[Swift](feats/ancestry-01-l0VBbymCVT1Qz9t9.htm)||`@Compendium[pf2e.feats-srd.l0VBbymCVT1Qz9t9]`|
 |[Swift Banishment](feats/class-14-t3unBu3PX6AO0uIW.htm)|Bannissement rapide|`@Compendium[pf2e.feats-srd.t3unBu3PX6AO0uIW]`|
 |[Swift Elusion](feats/class-16-TqODgJL1VS3eokhX.htm)|Échappatoire rapide|`@Compendium[pf2e.feats-srd.TqODgJL1VS3eokhX]`|
 |[Swift River](feats/class-18-IxggfXunfldeVOsQ.htm)|Libre comme l’eau|`@Compendium[pf2e.feats-srd.IxggfXunfldeVOsQ]`|
@@ -4028,12 +4439,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Target Of Opportunity](feats/archetype-14-2FJwXMTJycSZY80Q.htm)|Cible d'opportunité|`@Compendium[pf2e.feats-srd.2FJwXMTJycSZY80Q]`|
 |[Targeting Finisher](feats/class-10-DLkMoVb8qb4qxnx3.htm)|Botté ciblée|`@Compendium[pf2e.feats-srd.DLkMoVb8qb4qxnx3]`|
 |[Targeting Shot](feats/class-14-HVwmYfSLhrnCksHV.htm)|Tir de ciblage|`@Compendium[pf2e.feats-srd.HVwmYfSLhrnCksHV]`|
+|[Taste Blood](feats/ancestry-05-WWSwcvIjGUQOKKuD.htm)||`@Compendium[pf2e.feats-srd.WWSwcvIjGUQOKKuD]`|
 |[Telluric Power](feats/ancestry-13-ADDOwO0QWOXAV85x.htm)|Puissance tellurique|`@Compendium[pf2e.feats-srd.ADDOwO0QWOXAV85x]`|
 |[Tempest-Sun Redirection](feats/archetype-06-FJdcQU6yjDVDBC4r.htm)|Redirection du Soleil tempétueux|`@Compendium[pf2e.feats-srd.FJdcQU6yjDVDBC4r]`|
 |[Tempest-Sun Shielding](feats/archetype-10-sTUicpQkhiFVtMK1.htm)|Protection du Soleil-tempétueux|`@Compendium[pf2e.feats-srd.sTUicpQkhiFVtMK1]`|
 |[Temporary Potions](feats/class-10-SY6bU7DOyfs22cJX.htm)|Potions temporaires|`@Compendium[pf2e.feats-srd.SY6bU7DOyfs22cJX]`|
+|[Ten Lives](feats/ancestry-17-I7S8Snq8FlrBHmbf.htm)||`@Compendium[pf2e.feats-srd.I7S8Snq8FlrBHmbf]`|
 |[Tenacious Blood Magic](feats/class-20-UlCbjWWVEmfvaf5a.htm)|Sang magique tenace|`@Compendium[pf2e.feats-srd.UlCbjWWVEmfvaf5a]`|
 |[Tenacious Toxins](feats/class-04-FdP21jbjHHGpHut1.htm)|Toxines tenaces|`@Compendium[pf2e.feats-srd.FdP21jbjHHGpHut1]`|
+|[Tengu Feather Fan](feats/ancestry-05-GAh4CwCMS3Gsl8WH.htm)||`@Compendium[pf2e.feats-srd.GAh4CwCMS3Gsl8WH]`|
 |[Tengu Lore](feats/ancestry-01-GjQZMmw2sz8OyLxj.htm)|Connaissance des Tengu|`@Compendium[pf2e.feats-srd.GjQZMmw2sz8OyLxj]`|
 |[Tengu Weapon Expertise](feats/ancestry-13-8JOLT1UX5BVG4kVY.htm)|Epertise avec les armes tengu|`@Compendium[pf2e.feats-srd.8JOLT1UX5BVG4kVY]`|
 |[Tengu Weapon Familiarity](feats/ancestry-01-AmFv3ClkAVRowHLI.htm)|Familiarité avec les armes tengu|`@Compendium[pf2e.feats-srd.AmFv3ClkAVRowHLI]`|
@@ -4058,15 +4472,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Terrified Retreat](feats/skill-07-dc8X2Mbtwq6kGp7F.htm)|Retraite terrifiée|`@Compendium[pf2e.feats-srd.dc8X2Mbtwq6kGp7F]`|
 |[Terrifying Howl](feats/class-10-HjinlKihkadhkQ4Z.htm)|Hurlement terrifiant|`@Compendium[pf2e.feats-srd.HjinlKihkadhkQ4Z]`|
 |[Terrifying Resistance](feats/skill-02-iDimfGmQHacwxeh2.htm)|Résistance terrifiante|`@Compendium[pf2e.feats-srd.iDimfGmQHacwxeh2]`|
+|[Tetraelemental Assault](feats/ancestry-09-z54Jl3KRZpA2UaZV.htm)||`@Compendium[pf2e.feats-srd.z54Jl3KRZpA2UaZV]`|
 |[That's Odd](feats/class-01-pIHjH1x0AVtiX5Tv.htm)|C'est étrange|`@Compendium[pf2e.feats-srd.pIHjH1x0AVtiX5Tv]`|
 |[The Harder They Fall](feats/class-04-k4QU2edqSoB23foo.htm)|Plus dure est la chute|`@Compendium[pf2e.feats-srd.k4QU2edqSoB23foo]`|
 |[Theoretical Acumen](feats/ancestry-01-MXkklchuimVSHZyd.htm)|Perspicacité théorique|`@Compendium[pf2e.feats-srd.MXkklchuimVSHZyd]`|
+|[Thorned Seedpod](feats/ancestry-09-TRC4DgVq07cZO65B.htm)||`@Compendium[pf2e.feats-srd.TRC4DgVq07cZO65B]`|
 |[Thorough Reports](feats/archetype-04-0Dy8RlFqrzCVOTl4.htm)|Rapports détaillés|`@Compendium[pf2e.feats-srd.0Dy8RlFqrzCVOTl4]`|
 |[Thorough Research](feats/class-06-WjEwsu4kkexNvDcN.htm)|Recherche minutieuse|`@Compendium[pf2e.feats-srd.WjEwsu4kkexNvDcN]`|
 |[Thorough Search](feats/general-03-9QQnv7nFpsNCGE89.htm)|Fouille minutieuse|`@Compendium[pf2e.feats-srd.9QQnv7nFpsNCGE89]`|
 |[Thousand Faces](feats/class-04-cxwDj2gZ7kJdP4hs.htm)|Mille visages|`@Compendium[pf2e.feats-srd.cxwDj2gZ7kJdP4hs]`|
 |[Thrash](feats/class-08-rMPL11JRcmlutvRi.htm)|Maltraitance|`@Compendium[pf2e.feats-srd.rMPL11JRcmlutvRi]`|
 |[Through Spell](feats/class-10-R40U8hF0hWyRUze8.htm)|Sort traversant|`@Compendium[pf2e.feats-srd.R40U8hF0hWyRUze8]`|
+|[Thrown Voice](feats/ancestry-05-oEvcWFvBnsZ03OGW.htm)||`@Compendium[pf2e.feats-srd.oEvcWFvBnsZ03OGW]`|
+|[Thunder God’s Fan](feats/ancestry-13-1jZ7f4TJqiFH8Ied.htm)||`@Compendium[pf2e.feats-srd.1jZ7f4TJqiFH8Ied]`|
+|[Tidal Shield](feats/ancestry-17-bPPcPUZMlJ7m5lYq.htm)||`@Compendium[pf2e.feats-srd.bPPcPUZMlJ7m5lYq]`|
+|[Tide-hardened](feats/ancestry-01-T4ulOYkFh8gq2kY9.htm)||`@Compendium[pf2e.feats-srd.T4ulOYkFh8gq2kY9]`|
 |[Tiger Slash](feats/class-06-6J2ZSGNsXPKPcJGV.htm)|Taillade du tigre|`@Compendium[pf2e.feats-srd.6J2ZSGNsXPKPcJGV]`|
 |[Tiger Stance](feats/class-01-VCjAlOvjNvFJOsG5.htm)|Posture du tigre|`@Compendium[pf2e.feats-srd.VCjAlOvjNvFJOsG5]`|
 |[Tiller's Aid](feats/archetype-10-6Hv4kpHj8IexNUey.htm)|Aide du Laboureur|`@Compendium[pf2e.feats-srd.6Hv4kpHj8IexNUey]`|
@@ -4080,6 +4500,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[To Battle!](feats/archetype-08-cU5NdcwnMkFQNPjh.htm)|Au Combat!|`@Compendium[pf2e.feats-srd.cU5NdcwnMkFQNPjh]`|
 |[To the Ends of the Earth](feats/class-20-HLCeP87w7qEy8PUH.htm)|Jusqu’aux confins du monde|`@Compendium[pf2e.feats-srd.HLCeP87w7qEy8PUH]`|
 |[Tomb-Watcher's Glare](feats/ancestry-05-oL6f86dy4yyx5N54.htm)|Regard du gardemort|`@Compendium[pf2e.feats-srd.oL6f86dy4yyx5N54]`|
+|[Tongue Disarm](feats/ancestry-05-y0Ru2hRmoRwkRsxZ.htm)||`@Compendium[pf2e.feats-srd.y0Ru2hRmoRwkRsxZ]`|
 |[Tongue of Sun and Moon](feats/class-14-ct4dJHBn1Dj4cx4B.htm)|Langue du soleil et de la lune|`@Compendium[pf2e.feats-srd.ct4dJHBn1Dj4cx4B]`|
 |[Tools Of The Trade](feats/archetype-04-mRHkGMLecd5aaj2R.htm)|Outils indispensables|`@Compendium[pf2e.feats-srd.mRHkGMLecd5aaj2R]`|
 |[Topple Foe](feats/archetype-10-7x1r2w7C7A4Uy7wG.htm)|Renverser l'adversaire|`@Compendium[pf2e.feats-srd.7x1r2w7C7A4Uy7wG]`|
@@ -4090,13 +4511,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Trailblazing Stride](feats/bonus-00-PpJURSJFEHzhutdp.htm)||`@Compendium[pf2e.feats-srd.PpJURSJFEHzhutdp]`|
 |[Train Animal](feats/skill-01-nowEaHgIyij7im8F.htm)|Dressage animalier|`@Compendium[pf2e.feats-srd.nowEaHgIyij7im8F]`|
 |[Trampling Charge](feats/archetype-10-t6sey3cyV8n7a78l.htm)|Charge piétinante|`@Compendium[pf2e.feats-srd.t6sey3cyV8n7a78l]`|
+|[Tranquil Sanctuary](feats/ancestry-05-DtazfQJaRRe46Sej.htm)||`@Compendium[pf2e.feats-srd.DtazfQJaRRe46Sej]`|
 |[Transcribe Moment](feats/archetype-08-PaUpesy5lyDLlwud.htm)|Transcrire le moment|`@Compendium[pf2e.feats-srd.PaUpesy5lyDLlwud]`|
+|[Translucent Skin](feats/ancestry-13-n82gTpAENgr6XjCM.htm)||`@Compendium[pf2e.feats-srd.n82gTpAENgr6XjCM]`|
 |[Trap Finder](feats/class-01-oA866uVEFu1OrAX0.htm)|Dénicheur de pièges|`@Compendium[pf2e.feats-srd.oA866uVEFu1OrAX0]`|
+|[Treacherous Earth](feats/ancestry-05-VQmKNh0QPHzYMmee.htm)||`@Compendium[pf2e.feats-srd.VQmKNh0QPHzYMmee]`|
 |[Treat Condition](feats/skill-04-rfnEcjxIFqwlJwJT.htm)|Soigner un état|`@Compendium[pf2e.feats-srd.rfnEcjxIFqwlJwJT]`|
 |[Tree Climber (Elf)](feats/ancestry-09-qS2VcFLez4PLOpIS.htm)|Grimpeur aux arbres (Elfe)|`@Compendium[pf2e.feats-srd.qS2VcFLez4PLOpIS]`|
 |[Tree Climber (Goblin)](feats/ancestry-05-XYtnVNKt6uPcRrdH.htm)|Grimpeur aux arbres (Gobelin)|`@Compendium[pf2e.feats-srd.XYtnVNKt6uPcRrdH]`|
 |[Triangle Shot](feats/class-18-62glnJI2o0KnHULB.htm)|Tir triangulé|`@Compendium[pf2e.feats-srd.62glnJI2o0KnHULB]`|
 |[Trick Magic Item](feats/skill-01-uR62fVC9FyQAMCO1.htm)|Usurpation d'objet magique|`@Compendium[pf2e.feats-srd.uR62fVC9FyQAMCO1]`|
+|[Trickster Tengu](feats/ancestry-17-oItG5dqlPEi8wNnR.htm)||`@Compendium[pf2e.feats-srd.oItG5dqlPEi8wNnR]`|
 |[Trickster's Ace](feats/class-18-POrE3ZgBRdBL9MsW.htm)|Atout du trompeur|`@Compendium[pf2e.feats-srd.POrE3ZgBRdBL9MsW]`|
 |[Triple Shot](feats/class-06-hkdP5tsTAoqJDR8v.htm)|Triple tir|`@Compendium[pf2e.feats-srd.hkdP5tsTAoqJDR8v]`|
 |[Triple Threat](feats/class-20-EHorYedQ8r05qAtk.htm)|Triple menace|`@Compendium[pf2e.feats-srd.EHorYedQ8r05qAtk]`|
@@ -4106,6 +4531,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[True Hypercognition](feats/class-14-Xk9inG3pln4UKbs3.htm)|Hypercognition ultime|`@Compendium[pf2e.feats-srd.Xk9inG3pln4UKbs3]`|
 |[True Perception](feats/general-19-uudiUylT09WnHN7e.htm)|Perception véritable|`@Compendium[pf2e.feats-srd.uudiUylT09WnHN7e]`|
 |[True Shapeshifter](feats/class-20-mGzPR7M9H733j2wN.htm)|Métamorphe ultime|`@Compendium[pf2e.feats-srd.mGzPR7M9H733j2wN]`|
+|[Truespeech](feats/ancestry-13-bi77bT9uyAmJXVed.htm)||`@Compendium[pf2e.feats-srd.bi77bT9uyAmJXVed]`|
 |[Tumble Behind (Rogue)](feats/class-01-YKqMuuC8j35NFh92.htm)|Passer derrière (Roublard)|`@Compendium[pf2e.feats-srd.YKqMuuC8j35NFh92]`|
 |[Tumble Behind (Swashbuckler)](feats/class-02-fU7d5P6WrfAirgip.htm)|Passer derrière (Bretteur)|`@Compendium[pf2e.feats-srd.fU7d5P6WrfAirgip]`|
 |[Tumbling Opportunist](feats/archetype-10-Yazy4gex46FLwsph.htm)|Opportuniste acrobatique|`@Compendium[pf2e.feats-srd.Yazy4gex46FLwsph]`|
@@ -4123,6 +4549,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Twin Takedown](feats/class-01-Gw0wGXikhAhiGoud.htm)|Agression jumelée|`@Compendium[pf2e.feats-srd.Gw0wGXikhAhiGoud]`|
 |[Twinned Defense (Fighter)](feats/class-16-xjLbabfyQzBNT4y1.htm)|Défense jumelée (Guerrier)|`@Compendium[pf2e.feats-srd.xjLbabfyQzBNT4y1]`|
 |[Twinned Defense (Swashbuckler)](feats/class-14-kTRGAST9J9ZxJZ4A.htm)|Défense jumelée (Bretteur)|`@Compendium[pf2e.feats-srd.kTRGAST9J9ZxJZ4A]`|
+|[Twist Healing](feats/ancestry-17-6NXlg11EeCqjOmSg.htm)||`@Compendium[pf2e.feats-srd.6NXlg11EeCqjOmSg]`|
 |[Twist the Knife](feats/class-06-5Jc2ySGLVi053qpz.htm)|Remuer le couteau|`@Compendium[pf2e.feats-srd.5Jc2ySGLVi053qpz]`|
 |[Twitchy](feats/ancestry-01-Bni2NcuQn6Z546RE.htm)|Nerveux|`@Compendium[pf2e.feats-srd.Bni2NcuQn6Z546RE]`|
 |[Two-Weapon Flurry](feats/class-14-1SvBUzVH5tp0lmn5.htm)|Déluge à deux armes|`@Compendium[pf2e.feats-srd.1SvBUzVH5tp0lmn5]`|
@@ -4137,16 +4564,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Unbalancing Sweep](feats/class-12-pmz1itHp13JtcrjW.htm)|Balayage déséquilibrant|`@Compendium[pf2e.feats-srd.pmz1itHp13JtcrjW]`|
 |[Unbreakable-er Goblin](feats/ancestry-13-99WRahrMC91D6MMe.htm)|Gobelin encore plus incassable|`@Compendium[pf2e.feats-srd.99WRahrMC91D6MMe]`|
 |[Unburdened Iron](feats/ancestry-01-C1R4wd6G46CAVIn7.htm)|Fer allégé|`@Compendium[pf2e.feats-srd.C1R4wd6G46CAVIn7]`|
+|[Uncanny Agility](feats/ancestry-01-qpVB9F9DURW4Lti1.htm)||`@Compendium[pf2e.feats-srd.qpVB9F9DURW4Lti1]`|
+|[Uncanny Awareness](feats/ancestry-05-krgoR0Ykqw59MDbg.htm)||`@Compendium[pf2e.feats-srd.krgoR0Ykqw59MDbg]`|
 |[Uncanny Bombs](feats/class-12-9Ht1eyBHsB1swpeE.htm)|Bombes incroyables|`@Compendium[pf2e.feats-srd.9Ht1eyBHsB1swpeE]`|
+|[Uncanny Cheeks](feats/ancestry-09-yYIyAbwpdkySiCMU.htm)||`@Compendium[pf2e.feats-srd.yYIyAbwpdkySiCMU]`|
 |[Uncanny Dodge](feats/archetype-10-4Cc0gQauzUqcYdLw.htm)|Esquive instinctive|`@Compendium[pf2e.feats-srd.4Cc0gQauzUqcYdLw]`|
 |[Uncanny Suction](feats/archetype-12-MD33E76f2olLnDZb.htm)|Succion étrange|`@Compendium[pf2e.feats-srd.MD33E76f2olLnDZb]`|
 |[Unconventional Expertise](feats/ancestry-13-aqTlEPtd5gzs1Lxg.htm)|Expertise non conventionnelle|`@Compendium[pf2e.feats-srd.aqTlEPtd5gzs1Lxg]`|
 |[Unconventional Weaponry](feats/ancestry-01-49mBVNF4SK6iYdJm.htm)|Armement non conventionnel|`@Compendium[pf2e.feats-srd.49mBVNF4SK6iYdJm]`|
 |[Undaunted](feats/ancestry-01-1RygexXEjCKuR3Ps.htm)|Téméraire|`@Compendium[pf2e.feats-srd.1RygexXEjCKuR3Ps]`|
+|[Undead Companion](feats/ancestry-05-espST21gwaZQFxpw.htm)||`@Compendium[pf2e.feats-srd.espST21gwaZQFxpw]`|
 |[Undead Slayer](feats/ancestry-05-ZOJsLNziWQ7Ri3x9.htm)|Tueur de morts-vivants|`@Compendium[pf2e.feats-srd.ZOJsLNziWQ7Ri3x9]`|
 |[Underground Network](feats/skill-02-gydOsP9VsdRw3Wg1.htm)|Réseau souterrain|`@Compendium[pf2e.feats-srd.gydOsP9VsdRw3Wg1]`|
 |[Underhanded Assault](feats/class-02-eoDDjIGAA67Z7rQt.htm)|Assaut sournois|`@Compendium[pf2e.feats-srd.eoDDjIGAA67Z7rQt]`|
 |[Underwater Marauder](feats/skill-01-iOY6YfGBaOvMNAor.htm)|Maraudeur aquatique|`@Compendium[pf2e.feats-srd.iOY6YfGBaOvMNAor]`|
+|[Underwater Volcano](feats/ancestry-17-UOL44Qm1rOVD5TFg.htm)||`@Compendium[pf2e.feats-srd.UOL44Qm1rOVD5TFg]`|
 |[Underworld Investigator](feats/class-01-pgIrr8xrlCXbRAeo.htm)|Enquêteur de la pègre|`@Compendium[pf2e.feats-srd.pgIrr8xrlCXbRAeo]`|
 |[Undying Ferocity](feats/ancestry-09-zZOycr00XDVTKuXa.htm)|Férocité immortelle|`@Compendium[pf2e.feats-srd.zZOycr00XDVTKuXa]`|
 |[Unexpected Shift](feats/ancestry-01-AgR1OPBHDvwV5wKD.htm)|Phasage inattendu|`@Compendium[pf2e.feats-srd.AgR1OPBHDvwV5wKD]`|
@@ -4173,6 +4605,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vacate Vision](feats/archetype-06-2nSk6oOLBXCEbAhc.htm)|Vision vide|`@Compendium[pf2e.feats-srd.2nSk6oOLBXCEbAhc]`|
 |[Vampire Lore](feats/ancestry-01-i0iyW1I7TylEgpV6.htm)|Connaissance des vampires|`@Compendium[pf2e.feats-srd.i0iyW1I7TylEgpV6]`|
 |[Vandal](feats/ancestry-05-7ZwXUlnqjj9zEYbO.htm)|Vandale|`@Compendium[pf2e.feats-srd.7ZwXUlnqjj9zEYbO]`|
+|[Vanth's Weapon Execution](feats/ancestry-05-iCzJRywykSFwLto0.htm)||`@Compendium[pf2e.feats-srd.iCzJRywykSFwLto0]`|
+|[Vanth's Weapon Expertise](feats/ancestry-13-uQpAPkJ4ygzFZcIt.htm)||`@Compendium[pf2e.feats-srd.uQpAPkJ4ygzFZcIt]`|
+|[Vanth's Weapon Familiarity](feats/ancestry-01-8rKlptZ7ArtJ6cI8.htm)||`@Compendium[pf2e.feats-srd.8rKlptZ7ArtJ6cI8]`|
+|[Veil May](feats/ancestry-01-pCck5GgKIiIPGGdy.htm)||`@Compendium[pf2e.feats-srd.pCck5GgKIiIPGGdy]`|
+|[Velstrac Magic](feats/ancestry-09-fcSzCdQ9y800BdOv.htm)||`@Compendium[pf2e.feats-srd.fcSzCdQ9y800BdOv]`|
 |[Vengeful Hatred](feats/ancestry-01-ngEd8PgsyAARuTQ9.htm)|Soif de vengeance|`@Compendium[pf2e.feats-srd.ngEd8PgsyAARuTQ9]`|
 |[Vengeful Oath](feats/class-02-Fs9ZMHZNCBo7B5Zc.htm)|Serment de vengeance|`@Compendium[pf2e.feats-srd.Fs9ZMHZNCBo7B5Zc]`|
 |[Vengeful Strike](feats/class-14-0kkiE74cyHyxdPe6.htm)|Frappe vindicative|`@Compendium[pf2e.feats-srd.0kkiE74cyHyxdPe6]`|
@@ -4185,10 +4622,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Versatile Signature](feats/class-04-toFhkS9QbObxg6cp.htm)|Polyvalence des sorts emblématiques|`@Compendium[pf2e.feats-srd.toFhkS9QbObxg6cp]`|
 |[Very Sneaky](feats/ancestry-01-oeGowXO2P6rHbZfY.htm)|Très furtif|`@Compendium[pf2e.feats-srd.oeGowXO2P6rHbZfY]`|
 |[Very, Very Sneaky](feats/ancestry-13-u0DA0gkrZxXb0Hle.htm)|Très très furtif|`@Compendium[pf2e.feats-srd.u0DA0gkrZxXb0Hle]`|
+|[Vestigial Wings](feats/ancestry-01-1MqvE1FL2mZRCnzo.htm)||`@Compendium[pf2e.feats-srd.1MqvE1FL2mZRCnzo]`|
 |[Vexing Tumble](feats/class-06-9CXQhg4YprPhqzoL.htm)|Acrobaties vexantes|`@Compendium[pf2e.feats-srd.9CXQhg4YprPhqzoL]`|
 |[Vibrant Display](feats/ancestry-01-txgCXcNMDe9kO7N8.htm)|Affichage dynamique|`@Compendium[pf2e.feats-srd.txgCXcNMDe9kO7N8]`|
 |[Vicious Debilitations](feats/class-10-zt5CWn3UrPViwaB3.htm)|Handicaps cruels|`@Compendium[pf2e.feats-srd.zt5CWn3UrPViwaB3]`|
 |[Vicious Incisors](feats/ancestry-01-QHwajD5n8P3oS9Wb.htm)|Incisives vicieuses|`@Compendium[pf2e.feats-srd.QHwajD5n8P3oS9Wb]`|
+|[Vicious Snares](feats/ancestry-13-QjHZN1uAxl2hSbej.htm)||`@Compendium[pf2e.feats-srd.QjHZN1uAxl2hSbej]`|
 |[Vicious Vengeance](feats/class-01-KaCpXuYuho3nnDUy.htm)|Vengeance vicieuse|`@Compendium[pf2e.feats-srd.KaCpXuYuho3nnDUy]`|
 |[Victorious Vigor](feats/ancestry-05-YeVDITJplindA27l.htm)|Vigueur dans la victoire|`@Compendium[pf2e.feats-srd.YeVDITJplindA27l]`|
 |[Vigil's Walls Rise Anew](feats/archetype-10-Jnhkl2BOhxxRCTpp.htm)|Les murs de Vigie se dressent de nouveau|`@Compendium[pf2e.feats-srd.Jnhkl2BOhxxRCTpp]`|
@@ -4200,6 +4639,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Viking Weapon Familiarity](feats/archetype-04-j9Rp4fOZIxizyvYy.htm)|Familiarité avec les armes vikings|`@Compendium[pf2e.feats-srd.j9Rp4fOZIxizyvYy]`|
 |[Viking Weapon Specialist](feats/archetype-06-rS8uNb0C5GBHnKHH.htm)|Spécialiste des armes viking|`@Compendium[pf2e.feats-srd.rS8uNb0C5GBHnKHH]`|
 |[Vile Desecration](feats/class-01-PqImBJ2JrPo5oFxc.htm)|Vile profanation|`@Compendium[pf2e.feats-srd.PqImBJ2JrPo5oFxc]`|
+|[Virga May](feats/ancestry-01-f6VPqhOPW9XfBKDr.htm)||`@Compendium[pf2e.feats-srd.f6VPqhOPW9XfBKDr]`|
 |[Virtue-Forged Tattoos](feats/ancestry-09-Ezk3OgfPaRlEEyAD.htm)|Tatouages vertus-forgés|`@Compendium[pf2e.feats-srd.Ezk3OgfPaRlEEyAD]`|
 |[Virtuosic Performer](feats/skill-01-lFwfUvH2708rl6i3.htm)|Artiste virtuose|`@Compendium[pf2e.feats-srd.lFwfUvH2708rl6i3]`|
 |[Virtuosic Performer (Acting)](feats/skill-01-PmUK6NQlbSqZM3aY.htm)||`@Compendium[pf2e.feats-srd.PmUK6NQlbSqZM3aY]`|
@@ -4220,6 +4660,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Wall Run](feats/class-08-7IsHNime3WneCan6.htm)|Course à la verticale|`@Compendium[pf2e.feats-srd.7IsHNime3WneCan6]`|
 |[Wandering Heart](feats/ancestry-13-ne7nVluvvVXMvuB1.htm)|Cœur vagabond|`@Compendium[pf2e.feats-srd.ne7nVluvvVXMvuB1]`|
 |[Wandering Oasis](feats/class-12-BlfgmJHjDyTVGdPs.htm)|Oasis itinérante|`@Compendium[pf2e.feats-srd.BlfgmJHjDyTVGdPs]`|
+|[War Conditioning](feats/ancestry-13-S1Z5dFAkMKkFSofk.htm)||`@Compendium[pf2e.feats-srd.S1Z5dFAkMKkFSofk]`|
 |[Ward Against Corruption](feats/ancestry-05-NFsQOa3ynthYLVj6.htm)|Protection contre la corruption|`@Compendium[pf2e.feats-srd.NFsQOa3ynthYLVj6]`|
 |[Ward Casting](feats/archetype-10-Qjn9ErWY6wuIK9z6.htm)|Incantation protégée|`@Compendium[pf2e.feats-srd.Qjn9ErWY6wuIK9z6]`|
 |[Ward Medic](feats/skill-02-8c61nOIr5AM3KxZi.htm)|Infirmier|`@Compendium[pf2e.feats-srd.8c61nOIr5AM3KxZi]`|
@@ -4232,17 +4673,23 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Warding Light](feats/archetype-04-J1MURfqf0kbxrKG9.htm)|Lumière protectrice|`@Compendium[pf2e.feats-srd.J1MURfqf0kbxrKG9]`|
 |[Warding Rune](feats/archetype-06-gZ4VdWKr3ag2BAvF.htm)|Rune de garde|`@Compendium[pf2e.feats-srd.gZ4VdWKr3ag2BAvF]`|
 |[Warren Digger](feats/ancestry-13-8H72RC7QI1i8wjJ1.htm)|Creuseur de terrier|`@Compendium[pf2e.feats-srd.8H72RC7QI1i8wjJ1]`|
+|[Warren Friend](feats/ancestry-01-jmW8aZ5JGH3m6dL6.htm)||`@Compendium[pf2e.feats-srd.jmW8aZ5JGH3m6dL6]`|
 |[Warren Navigator](feats/ancestry-01-9Orkgjgfx8AILuqD.htm)|Navigateur de terrier|`@Compendium[pf2e.feats-srd.9Orkgjgfx8AILuqD]`|
 |[Wary Disarmament](feats/skill-02-RLBYJiGMVkaGL5w9.htm)|Désarmement prudent|`@Compendium[pf2e.feats-srd.RLBYJiGMVkaGL5w9]`|
 |[Wary Skulker](feats/ancestry-09-fu1cTh93zgGweduf.htm)|Rôdeur prudent|`@Compendium[pf2e.feats-srd.fu1cTh93zgGweduf]`|
 |[Watch Your Back](feats/class-06-zZCyJhsaugHB6mZW.htm)|Fais attention|`@Compendium[pf2e.feats-srd.zZCyJhsaugHB6mZW]`|
 |[Watch and Learn](feats/archetype-04-nU8W1QoA9hl3h6nR.htm)|Regarde et apprends|`@Compendium[pf2e.feats-srd.nU8W1QoA9hl3h6nR]`|
 |[Watchful Halfling](feats/ancestry-01-zAZJpgeEf5TWvdq4.htm)|Halfelin vigilant|`@Compendium[pf2e.feats-srd.zAZJpgeEf5TWvdq4]`|
+|[Water Conjuration](feats/ancestry-05-ab7xlmUzPUOFnAl2.htm)||`@Compendium[pf2e.feats-srd.ab7xlmUzPUOFnAl2]`|
+|[Water Dancer](feats/ancestry-09-chM3Pya6H8QGnEGo.htm)||`@Compendium[pf2e.feats-srd.chM3Pya6H8QGnEGo]`|
 |[Water Sprint](feats/skill-07-MTO0spetPKyIa4sT.htm)|Courir sur l'eau|`@Compendium[pf2e.feats-srd.MTO0spetPKyIa4sT]`|
 |[Water Step](feats/class-06-6gLWr3xghsHSFwxc.htm)|Foulée sur l'eau|`@Compendium[pf2e.feats-srd.6gLWr3xghsHSFwxc]`|
+|[Water Strider](feats/ancestry-09-Q8fdMjZ2Wv3FawOI.htm)||`@Compendium[pf2e.feats-srd.Q8fdMjZ2Wv3FawOI]`|
 |[Wavetouched Paragon](feats/ancestry-05-AcgxKcA5I3dNTWLr.htm)|Parangon touché par la vague|`@Compendium[pf2e.feats-srd.AcgxKcA5I3dNTWLr]`|
+|[Waxed Feathers](feats/ancestry-01-BRGdj5leyVFRHEUM.htm)||`@Compendium[pf2e.feats-srd.BRGdj5leyVFRHEUM]`|
 |[Wayfinder Resonance Infiltrator](feats/archetype-08-o98nJriWE95xgweg.htm)|Infiltrateur de résonance de guide|`@Compendium[pf2e.feats-srd.o98nJriWE95xgweg]`|
 |[Wayfinder Resonance Tinkerer](feats/archetype-04-UyMQ1X8KLSZvm7AT.htm)|Bricoleur de résonance de guide|`@Compendium[pf2e.feats-srd.UyMQ1X8KLSZvm7AT]`|
+|[We March On](feats/ancestry-13-48z7BPYIZJIgj3x5.htm)||`@Compendium[pf2e.feats-srd.48z7BPYIZJIgj3x5]`|
 |[Weapon Improviser Dedication](feats/archetype-02-MndcBMz6I7e6SRqx.htm)|Dévouement d'improvisateur d'arme|`@Compendium[pf2e.feats-srd.MndcBMz6I7e6SRqx]`|
 |[Weapon Proficiency](feats/general-01-x9wxQ61HNkAVbDHr.htm)|Maîtrise d'arme|`@Compendium[pf2e.feats-srd.x9wxQ61HNkAVbDHr]`|
 |[Weapon Supremacy](feats/class-20-JEFPufbvaCeiA0Zo.htm)|Suprématie martiale|`@Compendium[pf2e.feats-srd.JEFPufbvaCeiA0Zo]`|
@@ -4277,10 +4724,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Wilderness Spotter (Sky)](feats/skill-02-yBZAmXr265EHPpj3.htm)||`@Compendium[pf2e.feats-srd.yBZAmXr265EHPpj3]`|
 |[Wilderness Spotter (Swamp)](feats/skill-02-XWsLzllAjrW8LYT5.htm)||`@Compendium[pf2e.feats-srd.XWsLzllAjrW8LYT5]`|
 |[Wilderness Spotter (Underground)](feats/skill-02-R07lTtA1VJzFvQ8p.htm)||`@Compendium[pf2e.feats-srd.R07lTtA1VJzFvQ8p]`|
+|[Willing Death](feats/ancestry-01-tP8pws78OOmobWjB.htm)||`@Compendium[pf2e.feats-srd.tP8pws78OOmobWjB]`|
 |[Wind Caller](feats/class-08-Jj6sVfIX81tgvSY4.htm)|Celui qui appelle le vent|`@Compendium[pf2e.feats-srd.Jj6sVfIX81tgvSY4]`|
+|[Wind God’s Fan](feats/ancestry-09-QUaSGUmRnlMbzw1P.htm)||`@Compendium[pf2e.feats-srd.QUaSGUmRnlMbzw1P]`|
 |[Wind Jump](feats/class-10-FWIQ3m5KZDWzDg47.htm)|Saut du vent|`@Compendium[pf2e.feats-srd.FWIQ3m5KZDWzDg47]`|
+|[Wind Tempered](feats/ancestry-01-arR15QoJH3xokw12.htm)||`@Compendium[pf2e.feats-srd.arR15QoJH3xokw12]`|
 |[Winding Flow](feats/class-10-vXH0HWMHzevA1Wox.htm)|Fluidité détournée|`@Compendium[pf2e.feats-srd.vXH0HWMHzevA1Wox]`|
+|[Wing Step](feats/ancestry-09-8znlUoKgr8mmLPe1.htm)||`@Compendium[pf2e.feats-srd.8znlUoKgr8mmLPe1]`|
+|[Winglets](feats/ancestry-05-juLtvliSzYPCmMa3.htm)||`@Compendium[pf2e.feats-srd.juLtvliSzYPCmMa3]`|
+|[Wings Of Air](feats/ancestry-09-FUOUyhHufNH4ri7H.htm)||`@Compendium[pf2e.feats-srd.FUOUyhHufNH4ri7H]`|
 |[Wings Of The Dragon](feats/archetype-12-Uzz7oZit3FNO9FxO.htm)|Ailes du dragon|`@Compendium[pf2e.feats-srd.Uzz7oZit3FNO9FxO]`|
+|[Winter Cat Senses](feats/ancestry-01-Ds1waj86N4Z2gCMN.htm)||`@Compendium[pf2e.feats-srd.Ds1waj86N4Z2gCMN]`|
 |[Wish Alchemy](feats/class-20-TsgW87kYudNr6Bfp.htm)|Alchimie des souhaits|`@Compendium[pf2e.feats-srd.TsgW87kYudNr6Bfp]`|
 |[Witch Dedication](feats/archetype-02-y0vdu6DGhKKElmE6.htm)|Dévouement de Sorcière|`@Compendium[pf2e.feats-srd.y0vdu6DGhKKElmE6]`|
 |[Witch Warden](feats/ancestry-01-u8gmBNHgb880vN3S.htm)|Garde-sorcière|`@Compendium[pf2e.feats-srd.u8gmBNHgb880vN3S]`|
@@ -4296,6 +4750,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Wortwitch](feats/class-01-zY6y802bOouMYYFV.htm)|Sorcière herbacée|`@Compendium[pf2e.feats-srd.zY6y802bOouMYYFV]`|
 |[Wounded Rage](feats/class-04-CLKlavik0540j5bl.htm)|Rage blessée|`@Compendium[pf2e.feats-srd.CLKlavik0540j5bl]`|
 |[Wyrmbane Aura](feats/class-14-5NyX1WnXEO40yEaT.htm)|Aura anti-draconique|`@Compendium[pf2e.feats-srd.5NyX1WnXEO40yEaT]`|
+|[Wyrmling Flight](feats/ancestry-17-hNr4OrMdCMhQLbtB.htm)||`@Compendium[pf2e.feats-srd.hNr4OrMdCMhQLbtB]`|
+|[Yamaraj's Grandeur](feats/ancestry-17-7iB1yacjF9fG6Rvn.htm)||`@Compendium[pf2e.feats-srd.7iB1yacjF9fG6Rvn]`|
 |[You're Next](feats/class-01-gjec0ts3wkFbjvHN.htm)|Tu es le suivant|`@Compendium[pf2e.feats-srd.gjec0ts3wkFbjvHN]`|
 |[Zephyr Guard Dedication](feats/archetype-02-UyyrFtPWOo0qvXOv.htm)|Dévouement de Garde Zéphyr|`@Compendium[pf2e.feats-srd.UyyrFtPWOo0qvXOv]`|
 
@@ -4314,10 +4770,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Animal Form (Shark)](spell-effects/02-qPaEEhczUWCQo6ux.htm)||`@Compendium[pf2e.spell-effects.qPaEEhczUWCQo6ux]`|
 |[Spell Effect: Animal Form (Snake)](spell-effects/02-kz3mlFwb9tV9bFwu.htm)||`@Compendium[pf2e.spell-effects.kz3mlFwb9tV9bFwu]`|
 |[Spell Effect: Bless](spell-effects/Gqy7K6FnbLtwGpud.htm)|Effet de sort : Bénédiction|`@Compendium[pf2e.spell-effects.Gqy7K6FnbLtwGpud]`|
+|[Spell Effect: Dinosaur Form (Ankylosaurus)](spell-effects/04-0Cyf07wboRp4CmcQ.htm)||`@Compendium[pf2e.spell-effects.0Cyf07wboRp4CmcQ]`|
+|[Spell Effect: Dinosaur Form (Brontosaurus)](spell-effects/04-KkDRRDuycXwKPa6n.htm)||`@Compendium[pf2e.spell-effects.KkDRRDuycXwKPa6n]`|
+|[Spell Effect: Dinosaur Form (Deinonychus)](spell-effects/04-oJbcmpBSHwmx6FD4.htm)||`@Compendium[pf2e.spell-effects.oJbcmpBSHwmx6FD4]`|
+|[Spell Effect: Dinosaur Form (Stegosaurus)](spell-effects/04-T6XnxvsgvvOrpien.htm)||`@Compendium[pf2e.spell-effects.T6XnxvsgvvOrpien]`|
+|[Spell Effect: Dinosaur Form (Triceratops)](spell-effects/04-iOKhr2El8R6cz6YI.htm)||`@Compendium[pf2e.spell-effects.iOKhr2El8R6cz6YI]`|
+|[Spell Effect: Dinosaur Form (Tyrannosaurus)](spell-effects/04-542Keo6txtq7uvqe.htm)||`@Compendium[pf2e.spell-effects.542Keo6txtq7uvqe]`|
 |[Spell Effect: Enlarge](spell-effects/02-sPCWrhUHqlbGhYSD.htm)||`@Compendium[pf2e.spell-effects.sPCWrhUHqlbGhYSD]`|
 |[Spell Effect: Enlarge (Heightened 4th)](spell-effects/04-41WThj17MZBXTO2X.htm)||`@Compendium[pf2e.spell-effects.41WThj17MZBXTO2X]`|
 |[Spell Effect: Guidance](spell-effects/01-3qHKBDF7lrHw8jFK.htm)|Effet : Assistance divine|`@Compendium[pf2e.spell-effects.3qHKBDF7lrHw8jFK]`|
 |[Spell Effect: Heroism](spell-effects/03-l9HRQggofFGIxEse.htm)||`@Compendium[pf2e.spell-effects.l9HRQggofFGIxEse]`|
+|[Spell Effect: Insect Form (Ant)](spell-effects/03-6IvTWcispcDaw88N.htm)||`@Compendium[pf2e.spell-effects.6IvTWcispcDaw88N]`|
+|[Spell Effect: Insect Form (Beetle)](spell-effects/03-amTa9jSml9ioKduN.htm)||`@Compendium[pf2e.spell-effects.amTa9jSml9ioKduN]`|
+|[Spell Effect: Insect Form (Centipede)](spell-effects/03-DENMzySYANjUBs4O.htm)||`@Compendium[pf2e.spell-effects.DENMzySYANjUBs4O]`|
+|[Spell Effect: Insect Form (Mantis)](spell-effects/03-llrOM8rPP9nxIuEN.htm)||`@Compendium[pf2e.spell-effects.llrOM8rPP9nxIuEN]`|
+|[Spell Effect: Insect Form (Scorpion)](spell-effects/03-bOjuEX3qj7XAOoDF.htm)||`@Compendium[pf2e.spell-effects.bOjuEX3qj7XAOoDF]`|
+|[Spell Effect: Insect Form (Spider)](spell-effects/03-782NyomkDHyfsUn6.htm)||`@Compendium[pf2e.spell-effects.782NyomkDHyfsUn6]`|
 |[Spell Effect: Inspire Courage](spell-effects/01-beReeFroAx24hj83.htm)|Effet : Inspiration Vaillante|`@Compendium[pf2e.spell-effects.beReeFroAx24hj83]`|
 |[Spell Effect: Inspire Defense](spell-effects/01-DLwTvjjnqs2sNGuG.htm)||`@Compendium[pf2e.spell-effects.DLwTvjjnqs2sNGuG]`|
 |[Spell Effect: Inspire Heroics (Courage, +2)](spell-effects/01-kZ39XWJA3RBDTnqG.htm)||`@Compendium[pf2e.spell-effects.kZ39XWJA3RBDTnqG]`|
@@ -4757,7 +5225,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Deceiver's Cloak](spells/ill-03-FrKPwgFxWIGMGgs4.htm)|Cape de tromperie|`@Compendium[pf2e.spells-srd.FrKPwgFxWIGMGgs4]`|
 |[Delay Affliction](spells/nec-03-ziHDISWkFSwz3pmn.htm)|Retarder l'affliction|`@Compendium[pf2e.spells-srd.ziHDISWkFSwz3pmn]`|
 |[Delay Consequence](spells/abj-01-3wmX7htzOXiHLdAn.htm)|Retarder les conséquences|`@Compendium[pf2e.spells-srd.3wmX7htzOXiHLdAn]`|
-|[Deluge](spells/evo-08-8fEfjvC01gNclDKJ.htm)||`@Compendium[pf2e.spells-srd.8fEfjvC01gNclDKJ]`|
+|[Deluge](spells/evo-08-8fEfjvC01gNclDKJ.htm)|Déluge intense|`@Compendium[pf2e.spells-srd.8fEfjvC01gNclDKJ]`|
 |[Delusional Pride](spells/enc-04-J8pL8yTshga8QOk8.htm)|Fierté illusoire|`@Compendium[pf2e.spells-srd.J8pL8yTshga8QOk8]`|
 |[Destructive Aura](spells/evo-04-7d4DUTDIlzDa8OvX.htm)|Aura destructrice|`@Compendium[pf2e.spells-srd.7d4DUTDIlzDa8OvX]`|
 |[Detect Alignment](spells/div-01-QnTtGCAvdWRU4spv.htm)|Détection de l’alignement|`@Compendium[pf2e.spells-srd.QnTtGCAvdWRU4spv]`|
@@ -4809,7 +5277,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dreamer's Call](spells/enc-04-PztLrElcZfLwRnEq.htm)|Appel du rêveur|`@Compendium[pf2e.spells-srd.PztLrElcZfLwRnEq]`|
 |[Dreaming Potential](spells/enc-05-y0Vy7iNL3ET8K00C.htm)|Potentiel onirique|`@Compendium[pf2e.spells-srd.y0Vy7iNL3ET8K00C]`|
 |[Drop Dead](spells/ill-05-scTRIrTfXquVYHGw.htm)|Raide mort|`@Compendium[pf2e.spells-srd.scTRIrTfXquVYHGw]`|
-|[Dull Ambition](spells/enc-04-MLdMUOdwSKegOGlo.htm)||`@Compendium[pf2e.spells-srd.MLdMUOdwSKegOGlo]`|
+|[Dull Ambition](spells/enc-04-MLdMUOdwSKegOGlo.htm)|Ambition insipide|`@Compendium[pf2e.spells-srd.MLdMUOdwSKegOGlo]`|
 |[Duplicate Foe](spells/con-07-73rToy0v5Ra9NvL6.htm)|Dupliquer l'ennemi|`@Compendium[pf2e.spells-srd.73rToy0v5Ra9NvL6]`|
 |[Dust Storm](spells/con-04-K1wmI4qPmRhFczmy.htm)|Tempête de poussière|`@Compendium[pf2e.spells-srd.K1wmI4qPmRhFczmy]`|
 |[Dutiful Challenge](spells/abj-04-caehfpQz7yp9yNzz.htm)|Défi respectueux|`@Compendium[pf2e.spells-srd.caehfpQz7yp9yNzz]`|
@@ -4841,7 +5309,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Enlarge Companion](spells/trs-04-8rj45fKzCFcB0fxs.htm)|Compagnon aggrandi|`@Compendium[pf2e.spells-srd.8rj45fKzCFcB0fxs]`|
 |[Entangle](spells/trs-02-J6vNvrUT3b1hx2iA.htm)|Enchevêtrement|`@Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]`|
 |[Enthrall](spells/enc-03-IihxWhRfpsBgQ5jS.htm)|Discours captivant|`@Compendium[pf2e.spells-srd.IihxWhRfpsBgQ5jS]`|
-|[Entrancing Eyes](spells/enc-07-Vw2CNwlRRKABsuZi.htm)||`@Compendium[pf2e.spells-srd.Vw2CNwlRRKABsuZi]`|
+|[Entrancing Eyes](spells/enc-07-Vw2CNwlRRKABsuZi.htm)|Yeux enchanteurs|`@Compendium[pf2e.spells-srd.Vw2CNwlRRKABsuZi]`|
 |[Ephemeral Hazards](spells/ill-04-HisaZTk67YAxLGBq.htm)|Dangers éphémères|`@Compendium[pf2e.spells-srd.HisaZTk67YAxLGBq]`|
 |[Ephemeral Tracking](spells/div-03-QpjHqxwTGdILLvjD.htm)|Pistage éphémère|`@Compendium[pf2e.spells-srd.QpjHqxwTGdILLvjD]`|
 |[Eradicate Undeath](spells/nec-04-J5MNC4xq3CHH31qT.htm)|Éradication de la non-mort|`@Compendium[pf2e.spells-srd.J5MNC4xq3CHH31qT]`|
@@ -5371,7 +5839,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Unbreaking Wave Advance](spells/evo-03-ytboJsyZEbE1MLeV.htm)|Avancée de la vague qui ne se brise pas|`@Compendium[pf2e.spells-srd.ytboJsyZEbE1MLeV]`|
 |[Uncontrollable Dance](spells/enc-08-Jvyy6oVIQsD34MHB.htm)|Danse incontrôlable|`@Compendium[pf2e.spells-srd.Jvyy6oVIQsD34MHB]`|
 |[Undeath's Blessing](spells/nec-01-FedTjedva2rYk33r.htm)|Bénédiction de la mort-vivance|`@Compendium[pf2e.spells-srd.FedTjedva2rYk33r]`|
-|[Undermine Reality](spells/ill-08-YiIOsc8T6E2iDxgh.htm)||`@Compendium[pf2e.spells-srd.YiIOsc8T6E2iDxgh]`|
+|[Undermine Reality](spells/ill-08-YiIOsc8T6E2iDxgh.htm)|Saper la réalité|`@Compendium[pf2e.spells-srd.YiIOsc8T6E2iDxgh]`|
 |[Undetectable Alignment](spells/abj-02-FzAtX8yXBjTaisJK.htm)|Alignement indétectable|`@Compendium[pf2e.spells-srd.FzAtX8yXBjTaisJK]`|
 |[Unfathomable Song](spells/enc-09-FmNDwqMEjeTEGPrY.htm)|Chant énigmatique|`@Compendium[pf2e.spells-srd.FmNDwqMEjeTEGPrY]`|
 |[Unfettered Pack](spells/abj-07-bVtkBJvGLP69qVGI.htm)|Meute sans entrave|`@Compendium[pf2e.spells-srd.bVtkBJvGLP69qVGI]`|
@@ -5469,6 +5937,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Addlebrain](equipment/consumable-07-d5aCuFS1dhKXhsZ0.htm)|Brouillecervelle|`@Compendium[pf2e.equipment-srd.d5aCuFS1dhKXhsZ0]`|
 |[Advanced Book of Translation (Tien)](equipment/equipment-05-gjjF0sQMpXf3CrTF.htm)||`@Compendium[pf2e.equipment-srd.gjjF0sQMpXf3CrTF]`|
 |[Adventurer's Pack](equipment/kit-2req0jGaxz8hScdB.htm)|Pack d'aventurier|`@Compendium[pf2e.equipment-srd.2req0jGaxz8hScdB]`|
+|[Adze](equipment/weapon-00-B3nscIocxZag4eeH.htm)||`@Compendium[pf2e.equipment-srd.B3nscIocxZag4eeH]`|
 |[Aeon Stone (Agate Ellipsoid)](equipment/equipment-05-47FmnpSOE96SJ8H4.htm)||`@Compendium[pf2e.equipment-srd.47FmnpSOE96SJ8H4]`|
 |[Aeon Stone (Azure Briolette)](equipment/equipment-04-f9vNVQ2v45mDI8Xr.htm)||`@Compendium[pf2e.equipment-srd.f9vNVQ2v45mDI8Xr]`|
 |[Aeon Stone (Black Pearl)](equipment/equipment-12-J7vQowV531Sz73Gw.htm)|Pierre d'éternité (Perle noire)|`@Compendium[pf2e.equipment-srd.J7vQowV531Sz73Gw]`|
@@ -5695,6 +6164,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bullhook](equipment/equipment-03-2EOeljZiUdNVf8s2.htm)||`@Compendium[pf2e.equipment-srd.2EOeljZiUdNVf8s2]`|
 |[Bullhook (Greater)](equipment/equipment-12-Yguqipt5N29Bkz0d.htm)||`@Compendium[pf2e.equipment-srd.Yguqipt5N29Bkz0d]`|
 |[Buoyancy Vest](equipment/equipment-00-2fVNJ23gb3dixVu8.htm)||`@Compendium[pf2e.equipment-srd.2fVNJ23gb3dixVu8]`|
+|[Buugeng](equipment/weapon-00-kj2BxskGQIMqukB4.htm)||`@Compendium[pf2e.equipment-srd.kj2BxskGQIMqukB4]`|
 |[Caltrop Snare](equipment/consumable-01-kF761P3ibBIFmLm9.htm)|Piège artisanal de chausse-trappes|`@Compendium[pf2e.equipment-srd.kF761P3ibBIFmLm9]`|
 |[Caltrops](equipment/equipment-00-7fSnvJ2xoSfa6JXD.htm)|Chausse-trappes|`@Compendium[pf2e.equipment-srd.7fSnvJ2xoSfa6JXD]`|
 |[Candle](equipment/consumable-00-Ti4gWILk69LPxKuU.htm)|Bougie|`@Compendium[pf2e.equipment-srd.Ti4gWILk69LPxKuU]`|
@@ -5806,6 +6276,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Comprehension Elixir (Greater)](equipment/consumable-07-OcBPjVplvy2GbQ8P.htm)|Elixir de compréhension (supérieur)|`@Compendium[pf2e.equipment-srd.OcBPjVplvy2GbQ8P]`|
 |[Comprehension Elixir (Lesser)](equipment/consumable-02-3Klm2gPmzOw6ntVb.htm)|Elixir de comprehension (inférieur)|`@Compendium[pf2e.equipment-srd.3Klm2gPmzOw6ntVb]`|
 |[Concealed Sheath](equipment/equipment-03-laU7xnX42wXch2Dv.htm)||`@Compendium[pf2e.equipment-srd.laU7xnX42wXch2Dv]`|
+|[Conducting](equipment/equipment-07-PkCEfwdUFHPBgsHa.htm)||`@Compendium[pf2e.equipment-srd.PkCEfwdUFHPBgsHa]`|
 |[Cookware](equipment/equipment-00-Yf7maiRDmmHAyF82.htm)|Batterie de cuisine|`@Compendium[pf2e.equipment-srd.Yf7maiRDmmHAyF82]`|
 |[Copper Dragon's Breath Potion (Adult)](equipment/consumable-12-2VC7FLItVrFWNe4L.htm)|Potion de souffle du dragon de cuivre adulte|`@Compendium[pf2e.equipment-srd.2VC7FLItVrFWNe4L]`|
 |[Copper Dragon's Breath Potion (Wyrm)](equipment/consumable-17-2JXUER4xY8s36HUv.htm)|Potion de souffle de dracosire de cuivre|`@Compendium[pf2e.equipment-srd.2JXUER4xY8s36HUv]`|
@@ -6003,6 +6474,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Familiar Satchel](equipment/equipment-00-xE2CGurZp4eHc1Oc.htm)||`@Compendium[pf2e.equipment-srd.xE2CGurZp4eHc1Oc]`|
 |[Famous portrait by a master](equipment/treasure-00-LEfLVcrbhZPmyUyI.htm)|Portrait fameux par un maître peintre|`@Compendium[pf2e.equipment-srd.LEfLVcrbhZPmyUyI]`|
 |[Fang Snare](equipment/consumable-04-YYD82q2NfAbuDmgf.htm)||`@Compendium[pf2e.equipment-srd.YYD82q2NfAbuDmgf]`|
+|[Fangwire](equipment/weapon-00-KrKo3d1gLnzOAOs4.htm)||`@Compendium[pf2e.equipment-srd.KrKo3d1gLnzOAOs4]`|
 |[Fashionable Wayfinder](equipment/equipment-03-XLGJ1bLhMtP1jc2w.htm)||`@Compendium[pf2e.equipment-srd.XLGJ1bLhMtP1jc2w]`|
 |[Fauchard](equipment/weapon-00-FuS6F91Rhd4m3T6d.htm)|Fauchard|`@Compendium[pf2e.equipment-srd.FuS6F91Rhd4m3T6d]`|
 |[Fear Gem](equipment/consumable-04-ZAtwiAPkk1zwCf82.htm)|Gemme effrayante|`@Compendium[pf2e.equipment-srd.ZAtwiAPkk1zwCf82]`|
@@ -6153,6 +6625,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Halfling Sling Staff](equipment/weapon-00-DV4qelKHrviM0O5i.htm)|Fustibale de halfelin|`@Compendium[pf2e.equipment-srd.DV4qelKHrviM0O5i]`|
 |[Hammer](equipment/equipment-00-ML0GR2cIEdMn2hoD.htm)|Marteau|`@Compendium[pf2e.equipment-srd.ML0GR2cIEdMn2hoD]`|
 |[Hampering Snare](equipment/consumable-01-Km4lSOsyrip5q6iD.htm)|Piège artisanal ralentisseur|`@Compendium[pf2e.equipment-srd.Km4lSOsyrip5q6iD]`|
+|[Hand Adze](equipment/weapon-00-BeSK3hhVEKL9Wqzj.htm)||`@Compendium[pf2e.equipment-srd.BeSK3hhVEKL9Wqzj]`|
 |[Hand Crossbow](equipment/weapon-00-XyA6PKV46aNlLXOd.htm)|Arbalète de poing|`@Compendium[pf2e.equipment-srd.XyA6PKV46aNlLXOd]`|
 |[Hand mirror with decorated frame](equipment/treasure-00-JP7G2gOS3OuMNzeE.htm)|Miroir à main au cadre décoré|`@Compendium[pf2e.equipment-srd.JP7G2gOS3OuMNzeE]`|
 |[Hand of the Mage](equipment/equipment-02-r1hgg2rweqGL1LBl.htm)|Main du mage|`@Compendium[pf2e.equipment-srd.r1hgg2rweqGL1LBl]`|
@@ -6354,7 +6827,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Marvelous Medicines](equipment/equipment-12-aZ8HzjZCOJCV7ZWh.htm)|Remèdes merveilleux|`@Compendium[pf2e.equipment-srd.aZ8HzjZCOJCV7ZWh]`|
 |[Marvelous Medicines (Greater)](equipment/equipment-18-wYpWQCD2IYqDtqpc.htm)|Remèdes merveilleux (supérieur)|`@Compendium[pf2e.equipment-srd.wYpWQCD2IYqDtqpc]`|
 |[Mask of the Banshee](equipment/equipment-09-tr2eOlJMmBKBZtI9.htm)||`@Compendium[pf2e.equipment-srd.tr2eOlJMmBKBZtI9]`|
-|[Mask of the Banshee (Greater)](equipment/equipment-09-b2shhButUcNimET9.htm)||`@Compendium[pf2e.equipment-srd.b2shhButUcNimET9]`|
+|[Mask of the Banshee (Greater)](equipment/equipment-19-b2shhButUcNimET9.htm)||`@Compendium[pf2e.equipment-srd.b2shhButUcNimET9]`|
 |[Material Component Pouch](equipment/equipment-00-VHxXMvBeBTq2FSdf.htm)|Bourse de composants matériels|`@Compendium[pf2e.equipment-srd.VHxXMvBeBTq2FSdf]`|
 |[Mattock of the Titans](equipment/weapon-19-WCWdJmR5tYO7Aulb.htm)|Pioche des titans|`@Compendium[pf2e.equipment-srd.WCWdJmR5tYO7Aulb]`|
 |[Maul](equipment/weapon-00-mlrmkpOlwpnGkw4I.htm)|Maillet|`@Compendium[pf2e.equipment-srd.mlrmkpOlwpnGkw4I]`|
@@ -6674,6 +7147,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ruby, small](equipment/treasure-00-WuW89GD0TG7RYTLF.htm)|Rubis, petit|`@Compendium[pf2e.equipment-srd.WuW89GD0TG7RYTLF]`|
 |[Ruler](equipment/equipment-00-fti8z0JYDxH63n0J.htm)||`@Compendium[pf2e.equipment-srd.fti8z0JYDxH63n0J]`|
 |[Runestone](equipment/consumable-01-ev3F9qlMNlNdCOAI.htm)|Pierre runique|`@Compendium[pf2e.equipment-srd.ev3F9qlMNlNdCOAI]`|
+|[Rungu](equipment/weapon-00-t938hkedXo9OEb3R.htm)||`@Compendium[pf2e.equipment-srd.t938hkedXo9OEb3R]`|
 |[Sack](equipment/backpack-00-DujblC14ytJEZMaz.htm)|Sac|`@Compendium[pf2e.equipment-srd.DujblC14ytJEZMaz]`|
 |[Saddlebags](equipment/backpack-00-mBziC8v2eOtTs0f5.htm)|Fontes|`@Compendium[pf2e.equipment-srd.mBziC8v2eOtTs0f5]`|
 |[Sai](equipment/weapon-00-u2u6dkr01AB34tyA.htm)|Saï|`@Compendium[pf2e.equipment-srd.u2u6dkr01AB34tyA]`|
@@ -6835,6 +7309,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Snowshoes](equipment/equipment-00-AnJiuDSgJ1uBYRaZ.htm)||`@Compendium[pf2e.equipment-srd.AnJiuDSgJ1uBYRaZ]`|
 |[Snowshoes of the Long Trek](equipment/equipment-05-aneZJVb3sbpG2fN7.htm)||`@Compendium[pf2e.equipment-srd.aneZJVb3sbpG2fN7]`|
 |[Soap](equipment/equipment-00-81aHsD27HFGnq1Nt.htm)|Savon|`@Compendium[pf2e.equipment-srd.81aHsD27HFGnq1Nt]`|
+|[Soaring](equipment/equipment-14-vuJz7Gu2UFKJ3IPx.htm)||`@Compendium[pf2e.equipment-srd.vuJz7Gu2UFKJ3IPx]`|
 |[Solidified moment of time](equipment/treasure-00-rIhvmrRVr51VgfKa.htm)|Moment de temps solidifié|`@Compendium[pf2e.equipment-srd.rIhvmrRVr51VgfKa]`|
 |[Sovereign Glue](equipment/consumable-07-7IrQPyMm76nLVoXx.htm)||`@Compendium[pf2e.equipment-srd.7IrQPyMm76nLVoXx]`|
 |[Sovereign Steel Chunk](equipment/equipment-00-f0lZf1oZYDEEeyYl.htm)||`@Compendium[pf2e.equipment-srd.f0lZf1oZYDEEeyYl]`|
@@ -6982,6 +7457,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Tanglefoot Bag (Major)](equipment/weapon-17-BxJNWWvpxacDIsdt.htm)|Sacoche immobilisante (majeur)|`@Compendium[pf2e.equipment-srd.BxJNWWvpxacDIsdt]`|
 |[Tanglefoot Bag (Moderate)](equipment/weapon-03-evBPzM1VsuYcoenn.htm)|Sacoche immobilisante (modéré)|`@Compendium[pf2e.equipment-srd.evBPzM1VsuYcoenn]`|
 |[Tankard owned by Cayden Cailean](equipment/treasure-00-HIxtCuH5YXNqit0W.htm)|Chope ayant appartenu à Cayden Cailean|`@Compendium[pf2e.equipment-srd.HIxtCuH5YXNqit0W]`|
+|[Taw Launcher](equipment/weapon-00-HbL9QGFE71GQQdco.htm)||`@Compendium[pf2e.equipment-srd.HbL9QGFE71GQQdco]`|
 |[Tears of Death](equipment/consumable-20-gDGPvobJV1QGYBPy.htm)|Larmes de la mort|`@Compendium[pf2e.equipment-srd.gDGPvobJV1QGYBPy]`|
 |[Tears of the Last Azlanti](equipment/equipment-25-2VpuNz8EyXpvUf7P.htm)||`@Compendium[pf2e.equipment-srd.2VpuNz8EyXpvUf7P]`|
 |[Tekko-kagi](equipment/weapon-00-vsJ0zvYZzduP7rtD.htm)|Tekko-kagi|`@Compendium[pf2e.equipment-srd.vsJ0zvYZzduP7rtD]`|
@@ -7002,6 +7478,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Third Eye](equipment/equipment-19-7MTjAlCVVLsNFo7w.htm)|Troisième oeil|`@Compendium[pf2e.equipment-srd.7MTjAlCVVLsNFo7w]`|
 |[Thought lens of astral essence](equipment/treasure-00-5CqtgygdvqecMoRU.htm)|Lentille de pensée d'essence astrale|`@Compendium[pf2e.equipment-srd.5CqtgygdvqecMoRU]`|
 |[Throwing Knife](equipment/weapon-00-uM0OlCC1Sh6OLdNn.htm)|Couteau de lancer|`@Compendium[pf2e.equipment-srd.uM0OlCC1Sh6OLdNn]`|
+|[Thunder Sling](equipment/weapon-00-v8J38xNiJr7iMiof.htm)||`@Compendium[pf2e.equipment-srd.v8J38xNiJr7iMiof]`|
 |[Thunder Snare](equipment/consumable-02-yUYr8j65fC7EN0NY.htm)||`@Compendium[pf2e.equipment-srd.yUYr8j65fC7EN0NY]`|
 |[Thundering](equipment/equipment-08-dTxbaa7HSiJbIuNN.htm)|Tonnerre (rune)|`@Compendium[pf2e.equipment-srd.dTxbaa7HSiJbIuNN]`|
 |[Thundering (Greater)](equipment/equipment-15-Lb7F2BR9X9TF1vjX.htm)|Tonnerre supérieure (rune)|`@Compendium[pf2e.equipment-srd.Lb7F2BR9X9TF1vjX]`|
@@ -7030,6 +7507,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Tracker's Goggles](equipment/equipment-03-ZEqAx8jEc6zhX3V1.htm)|Lunettes de pisteur|`@Compendium[pf2e.equipment-srd.ZEqAx8jEc6zhX3V1]`|
 |[Tracker's Goggles (Greater)](equipment/equipment-09-OYeYYJ4i66VtGY3O.htm)|Lunettes de pisteur (supérieures)|`@Compendium[pf2e.equipment-srd.OYeYYJ4i66VtGY3O]`|
 |[Traveler's Any-Tool](equipment/equipment-06-nNtakXnSrcXWndBV.htm)|Outil multifonction de baroudeur|`@Compendium[pf2e.equipment-srd.nNtakXnSrcXWndBV]`|
+|[Tricky Pick](equipment/weapon-00-nheGxnmwSfYRLC4k.htm)||`@Compendium[pf2e.equipment-srd.nheGxnmwSfYRLC4k]`|
 |[Trident](equipment/weapon-00-FJrsDoaIXksVjld9.htm)|Trident|`@Compendium[pf2e.equipment-srd.FJrsDoaIXksVjld9]`|
 |[Trip Snare](equipment/consumable-04-SWqzv0hYCIczICeR.htm)||`@Compendium[pf2e.equipment-srd.SWqzv0hYCIczICeR]`|
 |[Triton's Conch](equipment/equipment-09-KLWjINVkWwJlOZEX.htm)|Conque de triton|`@Compendium[pf2e.equipment-srd.KLWjINVkWwJlOZEX]`|
@@ -7149,6 +7627,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Weapon Potency (+3)](equipment/equipment-16-rvItjGQaYT7Luwtm.htm)|Puissance d'arme +3 (rune)|`@Compendium[pf2e.equipment-srd.rvItjGQaYT7Luwtm]`|
 |[Weeping Midnight](equipment/consumable-16-mamIdMfPguGM8QV7.htm)||`@Compendium[pf2e.equipment-srd.mamIdMfPguGM8QV7]`|
 |[Whip](equipment/weapon-00-f1gwoTkf3Nn0v3PN.htm)|Fouet|`@Compendium[pf2e.equipment-srd.f1gwoTkf3Nn0v3PN]`|
+|[Whip Claw](equipment/weapon-00-9O3uPHfQvCK76eIZ.htm)||`@Compendium[pf2e.equipment-srd.9O3uPHfQvCK76eIZ]`|
 |[Whip of Compliance](equipment/weapon-09-DXidUrzzkwWIMNMD.htm)||`@Compendium[pf2e.equipment-srd.DXidUrzzkwWIMNMD]`|
 |[Whisper Briolette](equipment/consumable-07-kzfRjSrq4JNZlc32.htm)||`@Compendium[pf2e.equipment-srd.kzfRjSrq4JNZlc32]`|
 |[Whisper of the First Lie](equipment/equipment-20-sKyJDfHdKacfbNOG.htm)|Murmure du mensonge originel|`@Compendium[pf2e.equipment-srd.sKyJDfHdKacfbNOG]`|
@@ -7162,6 +7641,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Winter Wolf Elixir (Greater)](equipment/consumable-16-aDn5blt2iiYJpzbe.htm)|Elixir de loup arctique (supérieur)|`@Compendium[pf2e.equipment-srd.aDn5blt2iiYJpzbe]`|
 |[Winter Wolf Elixir (Lesser)](equipment/consumable-04-n9VrmK9Us0viv20P.htm)|Elixir de loup arctique (inférieur)|`@Compendium[pf2e.equipment-srd.n9VrmK9Us0viv20P]`|
 |[Winter Wolf Elixir (Moderate)](equipment/consumable-12-2prxM8Q0F4sdSwPx.htm)|Elixir du loup arctique (modéré)|`@Compendium[pf2e.equipment-srd.2prxM8Q0F4sdSwPx]`|
+|[Wish Blade](equipment/weapon-00-UHD691Af6aQ9lk2L.htm)||`@Compendium[pf2e.equipment-srd.UHD691Af6aQ9lk2L]`|
+|[Wish Knife](equipment/weapon-00-YJoACypdmoyZhyuL.htm)||`@Compendium[pf2e.equipment-srd.YJoACypdmoyZhyuL]`|
 |[Wolf Fang](equipment/consumable-01-clyXfh0aVXgij2Hb.htm)|Croc de loup|`@Compendium[pf2e.equipment-srd.clyXfh0aVXgij2Hb]`|
 |[Wolfsbane](equipment/consumable-10-NRoA1HpA3ElPGBEQ.htm)|Aconit|`@Compendium[pf2e.equipment-srd.NRoA1HpA3ElPGBEQ]`|
 |[Wondrous Figurine (Candy Constrictor)](equipment/equipment-05-6rhind8MDhtJHlwq.htm)||`@Compendium[pf2e.equipment-srd.6rhind8MDhtJHlwq]`|
@@ -7172,6 +7653,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Wondrous Figurine (Onyx Dog)](equipment/equipment-02-BANLXq8FhwqsDu0v.htm)|Figurine merveilleuse (Chien d'onyx)|`@Compendium[pf2e.equipment-srd.BANLXq8FhwqsDu0v]`|
 |[Wondrous Figurine (Rubber Bear)](equipment/equipment-07-YO2X0EE3txascuuP.htm)||`@Compendium[pf2e.equipment-srd.YO2X0EE3txascuuP]`|
 |[Wooden Shield](equipment/armor-00-ezVp13Uw8cWW08Da.htm)|Bouclier en bois|`@Compendium[pf2e.equipment-srd.ezVp13Uw8cWW08Da]`|
+|[Wooden Taws](equipment/consumable-00-flRmVDRqMOj1Dgum.htm)||`@Compendium[pf2e.equipment-srd.flRmVDRqMOj1Dgum]`|
 |[Wounding](equipment/equipment-07-fo6Yhq5mbQXsnZs0.htm)|Sanglante (rune)|`@Compendium[pf2e.equipment-srd.fo6Yhq5mbQXsnZs0]`|
 |[Writ of Authenticity](equipment/equipment-02-YZxq8rGPiLPIKWIQ.htm)||`@Compendium[pf2e.equipment-srd.YZxq8rGPiLPIKWIQ]`|
 |[Writing Set](equipment/equipment-00-QJb8S927Yj81EgHH.htm)|Nécessaire d'écriture|`@Compendium[pf2e.equipment-srd.QJb8S927Yj81EgHH]`|

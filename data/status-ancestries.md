@@ -1,18 +1,23 @@
 # État de la traduction (ancestries)
 
- * **libre**: 6
+ * **libre**: 7
+ * **aucune**: 6
  * **officielle**: 9
- * **aucune**: 1
 
 
-Dernière mise à jour: 2021-02-21 15:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-25 23:21 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[mDtlRBBUWqUzYSHs.htm](ancestries/mDtlRBBUWqUzYSHs.htm)|_Empty Ancestry|
+|[4BL5wf1VF9feC2rY.htm](ancestries/4BL5wf1VF9feC2rY.htm)|Kitsune|
+|[FXlXmNBFiiz9oasi.htm](ancestries/FXlXmNBFiiz9oasi.htm)|Fleshwarp|
+|[GfLwE884NoRC7cRi.htm](ancestries/GfLwE884NoRC7cRi.htm)|Android|
+|[GXcC6oVa5quzgNHD.htm](ancestries/GXcC6oVa5quzgNHD.htm)|Strix|
+|[hIA3qiUsxvLZXrFP.htm](ancestries/hIA3qiUsxvLZXrFP.htm)|Fetchling|
+|[TRqoeYfGAFjQbviF.htm](ancestries/TRqoeYfGAFjQbviF.htm)|Sprite|
 
 ## Liste des traductions complétés
 
@@ -28,6 +33,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HWEgF7Gmoq55VhTL.htm](ancestries/HWEgF7Gmoq55VhTL.htm)|Lizardfolk|Hommes-lézard|officielle|
 |[IiG7DgeLWYrSNXuX.htm](ancestries/IiG7DgeLWYrSNXuX.htm)|Human|Humain|officielle|
 |[lSGWXjcbOa6O5fTx.htm](ancestries/lSGWXjcbOa6O5fTx.htm)|Orc|Orc|libre|
+|[mDtlRBBUWqUzYSHs.htm](ancestries/mDtlRBBUWqUzYSHs.htm)|_Empty Ancestry|_Ascendance vierge|libre|
 |[P6PcVnCkh4XMdefw.htm](ancestries/P6PcVnCkh4XMdefw.htm)|Ratfolk|Homme-rat|libre|
 |[PgKmsA2aKdbLU6O0.htm](ancestries/PgKmsA2aKdbLU6O0.htm)|Elf|Elfe|officielle|
 |[piNLXUrm9iaGqD2i.htm](ancestries/piNLXUrm9iaGqD2i.htm)|Hobgoblin|Hobgobelin|officielle|

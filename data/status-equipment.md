@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **changé**: 940
- * **aucune**: 538
- * **officielle**: 95
+ * **officielle**: 96
+ * **changé**: 939
+ * **aucune**: 552
  * **libre**: 157
 
 
-Dernière mise à jour: 2021-02-21 15:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-25 23:21 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -28,6 +28,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-20-PlYr5AhYwHIztMw2.htm](equipment/armor-20-PlYr5AhYwHIztMw2.htm)|Shield of the Unified Legion|
 |[backpack-13-k5y89wYu3NX1AhVI.htm](equipment/backpack-13-k5y89wYu3NX1AhVI.htm)|Bomber's Saddle|
 |[consumable-00-AqslI71DReZOzgAW.htm](equipment/consumable-00-AqslI71DReZOzgAW.htm)|Formulated Sunlight|
+|[consumable-00-flRmVDRqMOj1Dgum.htm](equipment/consumable-00-flRmVDRqMOj1Dgum.htm)|Wooden Taws|
 |[consumable-00-y2w0FsOJTri4BbRs.htm](equipment/consumable-00-y2w0FsOJTri4BbRs.htm)|Grolna|
 |[consumable-01-81XVuTsF1zD6EXmN.htm](equipment/consumable-01-81XVuTsF1zD6EXmN.htm)|Blindpepper Tube|
 |[consumable-01-apGQcVMSRprFEeKt.htm](equipment/consumable-01-apGQcVMSRprFEeKt.htm)|Potion of Acid Retaliation (Minor)|
@@ -356,6 +357,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-07-gfBAxuitJje6NL7G.htm](equipment/equipment-07-gfBAxuitJje6NL7G.htm)|Rope of Climbing (Greater)|
 |[equipment-07-nI5x32JWjcEqYCq6.htm](equipment/equipment-07-nI5x32JWjcEqYCq6.htm)|Sealing Chest (Moderate)|
 |[equipment-07-Oudcra1CGDmUq0BH.htm](equipment/equipment-07-Oudcra1CGDmUq0BH.htm)|Unmemorable Mantle|
+|[equipment-07-PkCEfwdUFHPBgsHa.htm](equipment/equipment-07-PkCEfwdUFHPBgsHa.htm)|Conducting|
 |[equipment-07-qzgi4PCcvpH0QPVj.htm](equipment/equipment-07-qzgi4PCcvpH0QPVj.htm)|Ethersight Ring|
 |[equipment-07-tf69NMnUoUAYrWtj.htm](equipment/equipment-07-tf69NMnUoUAYrWtj.htm)|Wand of the Spider (2nd-Level Spell)|
 |[equipment-07-YO2X0EE3txascuuP.htm](equipment/equipment-07-YO2X0EE3txascuuP.htm)|Wondrous Figurine (Rubber Bear)|
@@ -375,7 +377,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-09-3hv6NVC2rVu4QCNt.htm](equipment/equipment-09-3hv6NVC2rVu4QCNt.htm)|Sleeves of Storage (Greater)|
 |[equipment-09-6MIBHKMJmD8uQVam.htm](equipment/equipment-09-6MIBHKMJmD8uQVam.htm)|Chain of the Stilled Spirit|
 |[equipment-09-aR0tsZ3xi1iwr53u.htm](equipment/equipment-09-aR0tsZ3xi1iwr53u.htm)|Shoony Shovel|
-|[equipment-09-b2shhButUcNimET9.htm](equipment/equipment-09-b2shhButUcNimET9.htm)|Mask of the Banshee (Greater)|
 |[equipment-09-dRVDcmkaB2p8zPcs.htm](equipment/equipment-09-dRVDcmkaB2p8zPcs.htm)|Stole of Civility|
 |[equipment-09-e4lHxftAOoTmGXuG.htm](equipment/equipment-09-e4lHxftAOoTmGXuG.htm)|Unmemorable Mantle (Greater)|
 |[equipment-09-JhDhFq2JGBGR2lwb.htm](equipment/equipment-09-JhDhFq2JGBGR2lwb.htm)|Elemental Wayfinder (Fire)|
@@ -441,6 +442,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-14-iwC6V10pTd6Sk0ML.htm](equipment/equipment-14-iwC6V10pTd6Sk0ML.htm)|Sealing Chest (Major)|
 |[equipment-14-ljZwHU5BMnFafVa3.htm](equipment/equipment-14-ljZwHU5BMnFafVa3.htm)|Wand of Noisome Acid (6th-Level Spell)|
 |[equipment-14-ut83Grf73Z8ZTaV1.htm](equipment/equipment-14-ut83Grf73Z8ZTaV1.htm)|Wand of the Snowfields (5th-Level Spell)|
+|[equipment-14-vuJz7Gu2UFKJ3IPx.htm](equipment/equipment-14-vuJz7Gu2UFKJ3IPx.htm)|Soaring|
 |[equipment-15-3pKIEBtZBVmSmVPl.htm](equipment/equipment-15-3pKIEBtZBVmSmVPl.htm)|Earthglide Cloak|
 |[equipment-15-LfiGXU03Khb1o6fs.htm](equipment/equipment-15-LfiGXU03Khb1o6fs.htm)|Heedless Spurs|
 |[equipment-15-nROnhUnxhbPW5tkG.htm](equipment/equipment-15-nROnhUnxhbPW5tkG.htm)|Infernal Health|
@@ -465,6 +467,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-18-U28jkj5ZDl2drtEH.htm](equipment/equipment-18-U28jkj5ZDl2drtEH.htm)|Wand of Crackling Lightning (8th-Level Spell)|
 |[equipment-18-Wkm2VYPsfGjWBtQe.htm](equipment/equipment-18-Wkm2VYPsfGjWBtQe.htm)|Ring of Manical Devices (Greater)|
 |[equipment-19-0NZuvpCVr21WcQtH.htm](equipment/equipment-19-0NZuvpCVr21WcQtH.htm)|Locket of Sealed Nightmares|
+|[equipment-19-b2shhButUcNimET9.htm](equipment/equipment-19-b2shhButUcNimET9.htm)|Mask of the Banshee (Greater)|
 |[equipment-19-U1GAAGhbzX9Lynq0.htm](equipment/equipment-19-U1GAAGhbzX9Lynq0.htm)|Aeon Stone (Pale Orange Rhomboid)|
 |[equipment-19-WKdI4LbwgcNHhMdp.htm](equipment/equipment-19-WKdI4LbwgcNHhMdp.htm)|Crystal Ball (Obsidian)|
 |[equipment-19-xZFbFeJckiQS7smT.htm](equipment/equipment-19-xZFbFeJckiQS7smT.htm)|Wand of Overflowing Life (8th-Level Spell)|
@@ -483,7 +486,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kit-YQLWR9cCXQY5xaaG.htm](equipment/kit-YQLWR9cCXQY5xaaG.htm)|Cartographer's Kit|
 |[kit-zcNBG8cMnILqXMFd.htm](equipment/kit-zcNBG8cMnILqXMFd.htm)|Class Kit (Investigator)|
 |[weapon-00-80G0z7iFUCjHeYGf.htm](equipment/weapon-00-80G0z7iFUCjHeYGf.htm)|Nightstick|
+|[weapon-00-9O3uPHfQvCK76eIZ.htm](equipment/weapon-00-9O3uPHfQvCK76eIZ.htm)|Whip Claw|
+|[weapon-00-B3nscIocxZag4eeH.htm](equipment/weapon-00-B3nscIocxZag4eeH.htm)|Adze|
+|[weapon-00-BeSK3hhVEKL9Wqzj.htm](equipment/weapon-00-BeSK3hhVEKL9Wqzj.htm)|Hand Adze|
 |[weapon-00-cKbiv1dUMViikKOS.htm](equipment/weapon-00-cKbiv1dUMViikKOS.htm)|Monkey's Fist|
+|[weapon-00-HbL9QGFE71GQQdco.htm](equipment/weapon-00-HbL9QGFE71GQQdco.htm)|Taw Launcher|
+|[weapon-00-kj2BxskGQIMqukB4.htm](equipment/weapon-00-kj2BxskGQIMqukB4.htm)|Buugeng|
+|[weapon-00-KrKo3d1gLnzOAOs4.htm](equipment/weapon-00-KrKo3d1gLnzOAOs4.htm)|Fangwire|
+|[weapon-00-nheGxnmwSfYRLC4k.htm](equipment/weapon-00-nheGxnmwSfYRLC4k.htm)|Tricky Pick|
+|[weapon-00-t938hkedXo9OEb3R.htm](equipment/weapon-00-t938hkedXo9OEb3R.htm)|Rungu|
+|[weapon-00-UHD691Af6aQ9lk2L.htm](equipment/weapon-00-UHD691Af6aQ9lk2L.htm)|Wish Blade|
+|[weapon-00-v8J38xNiJr7iMiof.htm](equipment/weapon-00-v8J38xNiJr7iMiof.htm)|Thunder Sling|
+|[weapon-00-YJoACypdmoyZhyuL.htm](equipment/weapon-00-YJoACypdmoyZhyuL.htm)|Wish Knife|
 |[weapon-01-3T3ayvgw9HDn05Mz.htm](equipment/weapon-01-3T3ayvgw9HDn05Mz.htm)|Combat Grapnel|
 |[weapon-01-Hh3F4DEP6aVulwQN.htm](equipment/weapon-01-Hh3F4DEP6aVulwQN.htm)|Stiletto Pen|
 |[weapon-01-WNWnpAsmFoFUlQLK.htm](equipment/weapon-01-WNWnpAsmFoFUlQLK.htm)|Alignment Ampoule (Lesser)|
@@ -556,7 +570,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[armor-00-1k3AsSW7lpU0kEpY.htm](equipment/armor-00-1k3AsSW7lpU0kEpY.htm)|Buckler|Targe|changé|
+|[armor-00-1k3AsSW7lpU0kEpY.htm](equipment/armor-00-1k3AsSW7lpU0kEpY.htm)|Buckler|Targe|officielle|
 |[armor-00-4tIVTg9wj56RrveA.htm](equipment/armor-00-4tIVTg9wj56RrveA.htm)|Leather Armor|Armure de cuir|changé|
 |[armor-00-AnwzlOs0njF9Jqnr.htm](equipment/armor-00-AnwzlOs0njF9Jqnr.htm)|Hide|Armure de peau|changé|
 |[armor-00-dDIPA1WE9ESF67EB.htm](equipment/armor-00-dDIPA1WE9ESF67EB.htm)|Clothing (Explorer's)|Vêtements (d'explorateur)|changé|

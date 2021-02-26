@@ -1,10 +1,10 @@
 # État de la traduction (spell-effects)
 
  * **libre**: 5
- * **aucune**: 23
+ * **aucune**: 35
 
 
-Dernière mise à jour: 2021-02-21 15:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-25 23:21 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -32,8 +32,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[02-sN3mQ7YrPBogEJRn.htm](spell-effects/02-sN3mQ7YrPBogEJRn.htm)|Spell Effect: Animal Form (Canine)|
 |[02-sPCWrhUHqlbGhYSD.htm](spell-effects/02-sPCWrhUHqlbGhYSD.htm)|Spell Effect: Enlarge|
 |[02-tk3go5Cl6Qt130Dk.htm](spell-effects/02-tk3go5Cl6Qt130Dk.htm)|Spell Effect: Animal Form (Ape)|
+|[03-6IvTWcispcDaw88N.htm](spell-effects/03-6IvTWcispcDaw88N.htm)|Spell Effect: Insect Form (Ant)|
+|[03-782NyomkDHyfsUn6.htm](spell-effects/03-782NyomkDHyfsUn6.htm)|Spell Effect: Insect Form (Spider)|
+|[03-amTa9jSml9ioKduN.htm](spell-effects/03-amTa9jSml9ioKduN.htm)|Spell Effect: Insect Form (Beetle)|
+|[03-bOjuEX3qj7XAOoDF.htm](spell-effects/03-bOjuEX3qj7XAOoDF.htm)|Spell Effect: Insect Form (Scorpion)|
+|[03-DENMzySYANjUBs4O.htm](spell-effects/03-DENMzySYANjUBs4O.htm)|Spell Effect: Insect Form (Centipede)|
 |[03-l9HRQggofFGIxEse.htm](spell-effects/03-l9HRQggofFGIxEse.htm)|Spell Effect: Heroism|
+|[03-llrOM8rPP9nxIuEN.htm](spell-effects/03-llrOM8rPP9nxIuEN.htm)|Spell Effect: Insect Form (Mantis)|
+|[04-0Cyf07wboRp4CmcQ.htm](spell-effects/04-0Cyf07wboRp4CmcQ.htm)|Spell Effect: Dinosaur Form (Ankylosaurus)|
 |[04-41WThj17MZBXTO2X.htm](spell-effects/04-41WThj17MZBXTO2X.htm)|Spell Effect: Enlarge (Heightened 4th)|
+|[04-542Keo6txtq7uvqe.htm](spell-effects/04-542Keo6txtq7uvqe.htm)|Spell Effect: Dinosaur Form (Tyrannosaurus)|
+|[04-iOKhr2El8R6cz6YI.htm](spell-effects/04-iOKhr2El8R6cz6YI.htm)|Spell Effect: Dinosaur Form (Triceratops)|
+|[04-KkDRRDuycXwKPa6n.htm](spell-effects/04-KkDRRDuycXwKPa6n.htm)|Spell Effect: Dinosaur Form (Brontosaurus)|
+|[04-oJbcmpBSHwmx6FD4.htm](spell-effects/04-oJbcmpBSHwmx6FD4.htm)|Spell Effect: Dinosaur Form (Deinonychus)|
+|[04-T6XnxvsgvvOrpien.htm](spell-effects/04-T6XnxvsgvvOrpien.htm)|Spell Effect: Dinosaur Form (Stegosaurus)|
 
 ## Liste des traductions complétés
 

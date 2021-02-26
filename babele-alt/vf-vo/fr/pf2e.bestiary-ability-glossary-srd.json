@@ -14,7 +14,7 @@
         {
             "id": "Attack of Opportunity",
             "name": "Attaque d'opportunité (Attack of Opportunity)",
-            "description": "<p><strong>Déclencheur</strong> Une créature qui se trouve à portée du monstre utilise une action de manipulation ou de déplacement, fait une attaque à distance ou quitte une case lors d’une action de déplacement qu’elle entreprend.</p>\n<p><strong>Effet</strong> Le monstre porte une frappe contre la créature déclencheur. Si l’attaque se solde par un coup critique et que le déclencheur était une action de manipulation, vous interrompez cette action. Cette Frappe n’est pas comptabilisée dans le malus d’attaques multiples du monstre et son malus d’attaques multiples ne s’applique pas à cette Frappe.</p>"
+            "description": "<p><strong>Déclencheur</strong> Une créature qui se trouve à portée du monstre utilise une action de manipulation ou de déplacement, fait une attaque à distance ou quitte une case lors d’une action de déplacement qu’elle entreprend.</p>\n<p><strong>Effet</strong> Le monstre porte une frappe contre la créature déclencheuse. Si l’attaque se solde par un coup critique et que le déclencheur était une action de manipulation, vous interrompez cette action. Cette Frappe n’est pas comptabilisée dans le malus d’attaques multiples du monstre et son malus d’attaques multiples ne s’applique pas à cette Frappe.</p>"
         },
         {
             "id": "Constant Spells",
@@ -49,12 +49,12 @@
         {
             "id": "Change Shape",
             "name": "Changement de forme (Change Shape)",
-            "description": "<p> Le monstre change de forme pour une du‑\nrée indéterminée. Il peut de nouveau faire appel à cette action pour reprendre sa forme naturelle ou adopter une nouvelle forme. Sauf indication contraire, un monstre ne peut pas utiliser Changement de forme pour prendre l’apparence d’un individu précis. Le Changement de forme est considéré comme un déguisement pour @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Se déguiser} dans le cadre de la compétence Duperie. La transformation du monstre lui permet de faire échouer automatiquement les tests de Perception servant à déterminer s’il est bien un membre de l’ascendance ou du type de créature dont il a pris la forme et il gagne un bonus de statut de +4 à son DD de Duperie pour empêcher les autres de voir au travers de son déguisement. Le descriptif des pouvoirs de Changement de forme indique quelles formes le monstre peut revêtir. Le monstre ne gagne aucun des pouvoirs spéciaux de la nouvelle forme, seulement sa forme physique. Par exemple, pour chaque forme, il remplace ses Vitesses et Frappes d’origine et potentiellement ses sens ou sa taille. Tous ces changements sont indiqués dans son bloc de statistiques.</p>"
+            "description": "<p>Le monstre change de forme pour une durée indéterminée. Il peut de nouveau faire appel à cette action pour reprendre sa forme naturelle ou adopter une nouvelle forme. Sauf indication contraire, un monstre ne peut pas utiliser Changement de forme pour prendre l’apparence d’un individu précis. Le Changement de forme est considéré comme un déguisement pour @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Se déguiser} dans le cadre de la compétence Duperie. La transformation du monstre lui permet de faire échouer automatiquement les tests de Perception servant à déterminer s’il est bien un membre de l’ascendance ou du type de créature dont il a pris la forme et il gagne un bonus de statut de +4 à son DD de Duperie pour empêcher les autres de voir au travers de son déguisement. Le descriptif des pouvoirs de Changement de forme indique quelles formes le monstre peut revêtir. Le monstre ne gagne aucun des pouvoirs spéciaux de la nouvelle forme, seulement sa forme physique. Par exemple, pour chaque forme, il remplace ses Vitesses et Frappes d’origine et potentiellement ses sens ou sa taille. Tous ces changements sont indiqués dans son bloc de statistiques.</p>"
         },
         {
             "id": "Aquatic Ambush",
             "name": "Embuscade aquatique (Aquatic Ambush)",
-            "description": "<p><strong>Conditions</strong> Le monstre se cache sous l’eau et une créature qui ne l’a pas détecté se situe dans le rayon indiqué en mètres.</p>\n<p><strong>Effet</strong> Le monstre se déplace dans l’eau et sur terre d’une distance maximum égale à sa Vitesse de nage + 3 m en direction de la créature déclencheur. Le monstre Frappe la créature une fois qu’elle se trouve à portée. La créature est @Compendium[pf2e.conditionspf2e.AJh5ex99aV6VTggg]{prise au dépourvu} par la Frappe.</p>"
+            "description": "<p><strong>Conditions</strong> Le monstre se cache sous l’eau et une créature qui ne l’a pas détecté se situe dans le rayon indiqué en mètres.</p>\n<p><strong>Effet</strong> Le monstre se déplace dans l’eau et sur terre d’une distance maximum égale à sa Vitesse de nage + 3 m en direction de la créature déclencheuse. Le monstre Frappe la créature une fois qu’elle se trouve à portée. La créature est @Compendium[pf2e.conditionspf2e.AJh5ex99aV6VTggg]{Prise au dépourvu} par la Frappe.</p>"
         },
         {
             "id": "Negative Healing",
@@ -84,12 +84,12 @@
         {
             "id": "Frightful Presence",
             "name": "Présence terrifiante (Frightful Presence)",
-            "description": "<p>Une créature qui pénètre dans la zone d’effet doit faire un jet de Volonté. Quel que soit le résultat du jet de sauvegarde, la créature est temporairement immunisée contre la Présence terrifiante du monstre pendant 1 min.</p>\n<p><strong>Succès critique</strong> La créature n’est pas affectée par la présence.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayée} 1.</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayée} 2.</p>\n<p><strong>Échec critique</strong> La créature est @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{effrayée} 4.</p>"
+            "description": "<p>Une créature qui pénètre dans la zone d’effet doit faire un jet de Volonté. Quel que soit le résultat du jet de sauvegarde, la créature est temporairement immunisée contre la Présence terrifiante du monstre pendant 1 minute.</p>\n<p><strong>Succès critique</strong> La créature n’est pas affectée par la présence.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{Effrayée} 1.</p>\n<p><strong>Échec</strong> La créature est Effrayée 2.</p>\n<p><strong>Échec critique</strong> La créature est Effrayée 4.</p>"
         },
         {
             "id": "Sneak Attack",
             "name": "Attaque sournoise (Sneak Attack)",
-            "description": "<p>Quand le monstre Frappe une créature qui se trouve dans l’état pris au dépourvu avec une arme de corps à corps agile ou de finesse, avec une attaque à mains nues agile ou de finesse, ou avec une attaque d’arme à distance, il lui inflige également la quantité de dégâts de précision indiquée. Pour une attaque à distance avec une arme de jet, cette arme doit également posséder le trait agile ou finesse.</p>"
+            "description": "<p>Quand le monstre Frappe une créature qui se trouve dans l’état @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{pris au dépourvu} avec une arme de corps à corps agile ou de finesse, avec une attaque à mains nues agile ou de finesse ou avec une attaque d’arme à distance, il lui inflige également la quantité de dégâts de précision indiquée. Pour une attaque à distance avec une arme de jet, cette arme doit également posséder le trait agile ou finesse.</p>"
         },
         {
             "id": "Regeneration",
@@ -99,7 +99,7 @@
         {
             "id": "Constrict",
             "name": "Constriction (Constrict)",
-            "description": "<p> Le monstre inflige la quantité de dégâts indiquée à toutes les créatures qu’il a @Compendium[pf2e.conditionspf2e.kWc1fhmv9LBiTuei]{empoignées} ou @Compendium[pf2e.conditionspf2e.VcDeM8A5oI6VqhbM]{entravées}. Chacune d’entre elles peut faire un jet de Vigueur basique avec le DD indiqué.</p>"
+            "description": "<p>Le monstre inflige la quantité de dégâts indiquée à toutes les créatures qu’il a @Compendium[pf2e.conditionspf2e.kWc1fhmv9LBiTuei]{Empoignées} ou @Compendium[pf2e.conditionspf2e.VcDeM8A5oI6VqhbM]{Entravées}. Chacune d’entre elles peut faire un jet de Vigueur basique avec le DD indiqué.</p>"
         },
         {
             "id": "Poison",
@@ -109,7 +109,7 @@
         {
             "id": "Low-Light Vision",
             "name": "Vision nocturne (Low-Light Vision)",
-            "description": "<p>Le monstre peut voir dans la lumière faible comme s’il s’agissait de lumière vive. Il ignore ainsi l’état @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{masqué} causé par la lumière faible.</p>"
+            "description": "<p>Le monstre peut voir dans la lumière faible comme s’il s’agissait de lumière vive. Il ignore ainsi l’état @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{Masqué} causé par la lumière faible.</p>"
         },
         {
             "id": "Darkvision",
@@ -149,7 +149,7 @@
         {
             "id": "Swarm Mind",
             "name": "Esprit de la nuée (Swarm Mind)",
-            "description": "<p> Ce monstre n’est pas doté d’un esprit individuel (généralement car il est composé d’une nuée de petites créatures) et il est ainsi immunisé contre les effets mentaux qui ciblent seulement un nombre donné de créatures. Il est cependant toujours affecté par les effets mentaux qui prennent pour cible toutes les créatures qui se trouvent dans une zone.</p>"
+            "description": "<p>Ce monstre n’est pas doté d’un esprit individuel (généralement car il est composé d’une nuée de petites créatures) et il est ainsi immunisé contre les effets mentaux qui ciblent seulement un nombre donné de créatures. Il est cependant toujours affecté par les effets mentaux qui prennent pour cible toutes les créatures qui se trouvent dans une zone.</p>"
         },
         {
             "id": "Ferocity",
@@ -169,7 +169,7 @@
         {
             "id": "All-Around Vision",
             "name": "Vision à 360° (All-Around Vision)",
-            "description": "<p> Ce monstre peut voir simultanément dans toutes les directions et il ne peut donc pas être pris en tenaille.</p>"
+            "description": "<p>Ce monstre peut voir simultanément dans toutes les directions et il ne peut donc pas être pris en tenaille.</p>"
         },
         {
             "id": "Swallow Whole",
@@ -179,7 +179,7 @@
         {
             "id": "Knockdown",
             "name": "Renversement (Knockdown)",
-            "description": "<p><strong>Conditions</strong> La dernière action du monstre était une Frappe réussie possédant le trait Renversement dans l’entrée des dégâts.</p> \n<p><strong>Effet</strong> Le monstre renverse la cible à terre.</p>"
+            "description": "<p><strong>Conditions</strong> La dernière action du monstre était une Frappe réussie possédant le trait Renversement dans l’entrée des dégâts.</p> \n<p><strong>Effet</strong> Le monstre renverse la cible @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
         },
         {
             "id": "Buck",

@@ -1,11 +1,11 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
- * **officielle**: 13
- * **changé**: 28
+ * **officielle**: 23
+ * **changé**: 18
  * **libre**: 1
 
 
-Dernière mise à jour: 2021-02-21 15:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-25 23:21 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -16,18 +16,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[3JOi2cMcGhT3eze1.htm](bestiary-ability-glossary-srd/3JOi2cMcGhT3eze1.htm)|Rend|Éventration|officielle|
 |[52CdldlWMiVTZk1F.htm](bestiary-ability-glossary-srd/52CdldlWMiVTZk1F.htm)|Coven|Cercle|officielle|
 |[6l7e7CHQLESlI57U.htm](bestiary-ability-glossary-srd/6l7e7CHQLESlI57U.htm)|Improved Push|Bousculade améliorée|officielle|
-|[9qV49KjZujZnSp6w.htm](bestiary-ability-glossary-srd/9qV49KjZujZnSp6w.htm)|All-Around Vision|Vision à 360°|changé|
+|[9qV49KjZujZnSp6w.htm](bestiary-ability-glossary-srd/9qV49KjZujZnSp6w.htm)|All-Around Vision|Vision à 360°|officielle|
 |[a0tx6exmB9v9CUsj.htm](bestiary-ability-glossary-srd/a0tx6exmB9v9CUsj.htm)|Throw Rock|Projection de rochers|officielle|
-|[AWvNPE4U0kEJSL1T.htm](bestiary-ability-glossary-srd/AWvNPE4U0kEJSL1T.htm)|Sneak Attack|Attaque sournoise|changé|
-|[baA0nSMhQyFyJIia.htm](bestiary-ability-glossary-srd/baA0nSMhQyFyJIia.htm)|Swarm Mind|Esprit de la nuée|changé|
-|[BCLvAx4Pz4MLa2pu.htm](bestiary-ability-glossary-srd/BCLvAx4Pz4MLa2pu.htm)|Knockdown|Renversement|changé|
-|[eQM5hQ1W3d1uen97.htm](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)|Change Shape|Changement de forme|changé|
-|[etMnv73EIdEZrYYu.htm](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Frightful Presence|Présence terrifiante|changé|
-|[fFu2sZz4KB01fVRc.htm](bestiary-ability-glossary-srd/fFu2sZz4KB01fVRc.htm)|Low-Light Vision|Vision nocturne|changé|
+|[AWvNPE4U0kEJSL1T.htm](bestiary-ability-glossary-srd/AWvNPE4U0kEJSL1T.htm)|Sneak Attack|Attaque sournoise|officielle|
+|[baA0nSMhQyFyJIia.htm](bestiary-ability-glossary-srd/baA0nSMhQyFyJIia.htm)|Swarm Mind|Esprit de la nuée|officielle|
+|[BCLvAx4Pz4MLa2pu.htm](bestiary-ability-glossary-srd/BCLvAx4Pz4MLa2pu.htm)|Knockdown|Renversement|officielle|
+|[eQM5hQ1W3d1uen97.htm](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)|Change Shape|Changement de forme|officielle|
+|[etMnv73EIdEZrYYu.htm](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Frightful Presence|Présence terrifiante|officielle|
+|[fFu2sZz4KB01fVRc.htm](bestiary-ability-glossary-srd/fFu2sZz4KB01fVRc.htm)|Low-Light Vision|Vision nocturne|officielle|
 |[fJSNOw4zHGbIm4bZ.htm](bestiary-ability-glossary-srd/fJSNOw4zHGbIm4bZ.htm)|Fast Healing|Guérison accélérée|officielle|
-|[g26YiEIfSHCpLocV.htm](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constrict|Constriction|changé|
-|[HBrBrUzjfvj2gDXB.htm](bestiary-ability-glossary-srd/HBrBrUzjfvj2gDXB.htm)|Aquatic Ambush|Embuscade aquatique|changé|
-|[hFtNbo1LKYCoDy2O.htm](bestiary-ability-glossary-srd/hFtNbo1LKYCoDy2O.htm)|Attack of Opportunity|Attaque d'opportunité|changé|
+|[g26YiEIfSHCpLocV.htm](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constrict|Constriction|officielle|
+|[HBrBrUzjfvj2gDXB.htm](bestiary-ability-glossary-srd/HBrBrUzjfvj2gDXB.htm)|Aquatic Ambush|Embuscade aquatique|officielle|
+|[hFtNbo1LKYCoDy2O.htm](bestiary-ability-glossary-srd/hFtNbo1LKYCoDy2O.htm)|Attack of Opportunity|Attaque d'opportunité|officielle|
 |[I0HYG0ctCLP5JRsW.htm](bestiary-ability-glossary-srd/I0HYG0ctCLP5JRsW.htm)|Light Blindness|Aveuglé par la lumière|changé|
 |[i18TlebMzwONyPhI.htm](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Inproved Grab|Empoignade/agrippement amélioré|changé|
 |[IQtb58p4EaeUzTN1.htm](bestiary-ability-glossary-srd/IQtb58p4EaeUzTN1.htm)|Retributive Strike|Frappe punitive|changé|

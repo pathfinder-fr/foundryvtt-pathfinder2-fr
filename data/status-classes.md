@@ -1,18 +1,11 @@
 # État de la traduction (classes)
 
- * **changé**: 16
- * **aucune**: 1
+ * **changé**: 17
 
 
-Dernière mise à jour: 2021-02-21 15:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-25 23:21 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[84SZGVNLXhLKG6gL.htm](classes/84SZGVNLXhLKG6gL.htm)|_Empty Class|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -21,6 +14,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[3gweRQ5gn7szIWAv.htm](classes/3gweRQ5gn7szIWAv.htm)|Bard|Barde|changé|
 |[4wrSCyX6akmyo7Wj.htm](classes/4wrSCyX6akmyo7Wj.htm)|Investigator|Enquêteur|changé|
 |[7s57JDCaiYYCAdFx.htm](classes/7s57JDCaiYYCAdFx.htm)|Druid|Druide|changé|
+|[84SZGVNLXhLKG6gL.htm](classes/84SZGVNLXhLKG6gL.htm)|[Empty Class]|_Classe vierge|changé|
 |[8zn3cD6GSmoo1LW4.htm](classes/8zn3cD6GSmoo1LW4.htm)|Fighter|Guerrier|changé|
 |[bYDXk9HUMKOuym9h.htm](classes/bYDXk9HUMKOuym9h.htm)|Witch|Sorcière|changé|
 |[EizrWvUPMS67Pahd.htm](classes/EizrWvUPMS67Pahd.htm)|Cleric|Prêtre|changé|

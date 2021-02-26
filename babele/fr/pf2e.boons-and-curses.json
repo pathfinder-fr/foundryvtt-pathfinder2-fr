@@ -264,7 +264,7 @@
         {
             "id": "Calistria - Moderate Curse",
             "name": "Calistria - Malédiction modérée",
-            "description": "<p><strong>Malédiction modérée</strong> Les gens réagissent comme si vous les insultiez, même lorsquee vous tenez une conversation normale.</p>\n<p>Lorsque vous essayez de @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression}, le résultat obtenu est d'un degré inférieur au résultat de votre jet. Si vous conversez avec quelqu'un pendant une assez longue période de temps mais n'essayez pas de  Faire bonne impression, vous l'insultez toujours et subissez l'effet d'un échec critique pour Faire bonne impression.</p>"
+            "description": "<p><strong>Malédiction modérée</strong> Les gens réagissent comme si vous les insultiez, même lorsque vous tenez une conversation normale.</p>\n<p>Lorsque vous essayez de @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression}, le résultat obtenu est d'un cran inférieur au résultat obtenu sur votre jet. Si vous conversez avec quelqu'un pendant une assez longue période de temps mais n'essayez pas de  Faire bonne impression, vous l'insultez toujours et subissez l'effet d'un échec critique pour Faire bonne impression.</p>"
         },
         {
             "id": "Norgorber - Moderate Curse",
@@ -409,7 +409,7 @@
         {
             "id": "Calistria - Minor Boon",
             "name": "Calistria - Bénédiction mineure",
-            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Calistria sourit zux duperies les plus risquées.</p>\n<p>Une fois, lorsque vous obtenez un échec à un test pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}, vous obtenez un succès critique à la place. Calistria n'accorde typiquement cette bénédiction que sur un mensonge aux importantes conséquences.</p>"
+            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Calistria sourit aux duperies les plus risquées.</p>\n<p>Une fois, lorsque vous obtenez un échec à un test pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}, vous obtenez un succès critique à la place. Calistria n'accorde typiquement cette bénédiction que sur un mensonge ayant des conséquences importantes.</p>"
         },
         {
             "id": "Gorum - Minor Boon",
@@ -529,7 +529,7 @@
         {
             "id": "Calistria - Major Curse",
             "name": "Calistria - Malédiction majeure",
-            "description": "<p><strong>Malédiction majeure</strong> Vous avez fait du tort à ceux qui sont incapables d'obtenir une vengeance pour eux-mêmes et Calistria vous maudit en accordant à leur vengeance une vie propre.</p>\n<p>Lorsqu'une autre créature imagine sa vengeance sur vous mais ne peut la mettre en œuvre car vous êtes trop puissant, avez trop d'influence ou que vous êtes autrement intouchable une créature qui a approximativement votre nieau se manifeste à partir de leur imagination et accomplit leur revanche désirée.</p>\n<p>Une fois que la vengeance est accomple ou que la manifestation est détruite, la créature conjurée s'évanouit de l'existence.</p>"
+            "description": "<p><strong>Malédiction majeure</strong> Vous avez fait du tort à ceux qui sont incapables d'obtenir une vengeance pour eux-mêmes et Calistria vous maudit en accordant à leur vengeance une vie propre.</p>\n<p>Lorsqu'une autre créature imagine qu'elle se venge de vous mais qu'elle ne peut la mettre en œuvre car vous êtes trop puissant, que vous avez trop d'influence ou que vous êtes autrement intouchable, une créature qui a approximativement votre niveau se manifeste à partir de leur imagination et accomplit la revanche qu'ils désirent.</p>\n<p>Une fois que la vengeance est accomplie ou que la manifestation est détruite, la créature conjurée disparaît.</p>"
         },
         {
             "id": "Iomedae - Major Curse",
@@ -599,7 +599,7 @@
         {
             "id": "Calistria - Moderate Boon",
             "name": "Calistria - Bénédiction modérée",
-            "description": "<p><strong>Bénédiction modérée</strong> Une guèpe de  cm de long vous trouve et vous adopte. Elle vous sert de familier tant que vous restez dans les petits papiers de Calistria. La guêpe possède toujours les cpacités de familier fouisseur et volant.</p>"
+            "description": "<p><strong>Bénédiction modérée</strong> Une guèpe de 30 cm de long vous trouve et vous adopte. Elle vous sert de familier tant que vous restez dans les petits papiers de Calistria. La guêpe possède toujours les capacités de familier fouisseur et volant.</p>"
         }
     ],
     "mapping": {}

@@ -2,18 +2,86 @@
 
  * **libre**: 32
  * **officielle**: 17
+ * **aucune**: 69
  * **changé**: 48
- * **aucune**: 1
 
 
-Dernière mise à jour: 2021-02-21 15:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-25 23:21 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[feat-01-2cii5ZkBsJ4DYdd2.htm](ancestryfeatures/feat-01-2cii5ZkBsJ4DYdd2.htm)|Cactus Leshy|
+|[feat-01-2hLDilS6qbjHxgVS.htm](ancestryfeatures/feat-01-2hLDilS6qbjHxgVS.htm)|Dogtooth Tengu|
+|[feat-01-3F5ffk7cmnrBhPcT.htm](ancestryfeatures/feat-01-3F5ffk7cmnrBhPcT.htm)|Liminal Catfolk|
+|[feat-01-3reGfXH0S82hM7Gp.htm](ancestryfeatures/feat-01-3reGfXH0S82hM7Gp.htm)|Ganzi|
+|[feat-01-5A1wMPdzN1OWE4cY.htm](ancestryfeatures/feat-01-5A1wMPdzN1OWE4cY.htm)|Caveclimber Kobold|
+|[feat-01-7lFPhRMAFXQsXUP2.htm](ancestryfeatures/feat-01-7lFPhRMAFXQsXUP2.htm)|Snow Rat|
+|[feat-01-7ZDCShtRg5QZggrU.htm](ancestryfeatures/feat-01-7ZDCShtRg5QZggrU.htm)|Inured Azarketi|
+|[feat-01-9Iu1gFEuvVz9zaYU.htm](ancestryfeatures/feat-01-9Iu1gFEuvVz9zaYU.htm)|Spined Azarketi|
+|[feat-01-9mS8EGLlGUOzSAzP.htm](ancestryfeatures/feat-01-9mS8EGLlGUOzSAzP.htm)|Nightglider Strix|
+|[feat-01-BFOsMnWfXL1oaWkY.htm](ancestryfeatures/feat-01-BFOsMnWfXL1oaWkY.htm)|Steelskin Hobgoblin|
+|[feat-01-BjuZKA7lzFSjKbif.htm](ancestryfeatures/feat-01-BjuZKA7lzFSjKbif.htm)|Polyglot Android|
+|[feat-01-CCwTBSNTw0caN1jd.htm](ancestryfeatures/feat-01-CCwTBSNTw0caN1jd.htm)|Mutated Flashwarp|
+|[feat-01-CZx9HMmoOwcpkLY8.htm](ancestryfeatures/feat-01-CZx9HMmoOwcpkLY8.htm)|Root Leshy|
+|[feat-01-fWT7Mo2vFC10H4Wq.htm](ancestryfeatures/feat-01-fWT7Mo2vFC10H4Wq.htm)|Songbird Strix|
+|[feat-01-G8jfMayPv4vZvAVr.htm](ancestryfeatures/feat-01-G8jfMayPv4vZvAVr.htm)|Sylph|
+|[feat-01-GAn2cdhBE9Bqa85s.htm](ancestryfeatures/feat-01-GAn2cdhBE9Bqa85s.htm)|Beastkin|
+|[feat-01-gfXSF1TafBAmZo2u.htm](ancestryfeatures/feat-01-gfXSF1TafBAmZo2u.htm)|Grig|
+|[feat-01-Gmk7oNITvMVBy78Z.htm](ancestryfeatures/feat-01-Gmk7oNITvMVBy78Z.htm)|Undine|
+|[feat-01-h2VKMYAlUIFAAXVG.htm](ancestryfeatures/feat-01-h2VKMYAlUIFAAXVG.htm)|Nyktera|
+|[feat-01-hTl3uc6y1kTuo9ac.htm](ancestryfeatures/feat-01-hTl3uc6y1kTuo9ac.htm)|Seaweed Leshy|
+|[feat-01-ievKYUc53q0mroGp.htm](ancestryfeatures/feat-01-ievKYUc53q0mroGp.htm)|Lotus Leshy|
+|[feat-01-ITgkqfnAOJCbcIys.htm](ancestryfeatures/feat-01-ITgkqfnAOJCbcIys.htm)|Oread|
+|[feat-01-iY2CCqoMc2bRdoas.htm](ancestryfeatures/feat-01-iY2CCqoMc2bRdoas.htm)|Created Fleshwarp|
+|[feat-01-j0R1SyJP8k4G2Hkn.htm](ancestryfeatures/feat-01-j0R1SyJP8k4G2Hkn.htm)|Scavenger Strix|
+|[feat-01-KbG2BZ3Sbr3xU1sW.htm](ancestryfeatures/feat-01-KbG2BZ3Sbr3xU1sW.htm)|Pixie|
+|[feat-01-kHHcvJBJNiPJTuna.htm](ancestryfeatures/feat-01-kHHcvJBJNiPJTuna.htm)|Wisp Fetchling|
+|[feat-01-kHT9dFJt5yTjeYoB.htm](ancestryfeatures/feat-01-kHT9dFJt5yTjeYoB.htm)|Frozen Wind Kitsune|
+|[feat-01-L6zfGzLMDLHbZ7VV.htm](ancestryfeatures/feat-01-L6zfGzLMDLHbZ7VV.htm)|Fruit Leshy|
+|[feat-01-lj5iHaiY0IwCCptd.htm](ancestryfeatures/feat-01-lj5iHaiY0IwCCptd.htm)|Aphorite|
+|[feat-01-LU4i3qXtyzeTGWZQ.htm](ancestryfeatures/feat-01-LU4i3qXtyzeTGWZQ.htm)|Luminous Sprite|
+|[feat-01-mEDTJi7d1bTEiwUD.htm](ancestryfeatures/feat-01-mEDTJi7d1bTEiwUD.htm)|Unusual Anatomy|
+|[feat-01-Mmezbef0c1fbJaVV.htm](ancestryfeatures/feat-01-Mmezbef0c1fbJaVV.htm)|Impersonator Android|
+|[feat-01-mnhmhOKWLiOD0lev.htm](ancestryfeatures/feat-01-mnhmhOKWLiOD0lev.htm)|Constructed|
+|[feat-01-MQx7miBXUmOHycqJ.htm](ancestryfeatures/feat-01-MQx7miBXUmOHycqJ.htm)|Laborer Android|
+|[feat-01-MtH5bq0MhaMQbJEL.htm](ancestryfeatures/feat-01-MtH5bq0MhaMQbJEL.htm)|Murkeyed Azarketi|
+|[feat-01-MUujYQYWg6PNVaaN.htm](ancestryfeatures/feat-01-MUujYQYWg6PNVaaN.htm)|Predator Strix|
+|[feat-01-n2DKA0OQQcfvZRly.htm](ancestryfeatures/feat-01-n2DKA0OQQcfvZRly.htm)|Technological Fleshwarp|
+|[feat-01-NWbdAN5gDse0ad7C.htm](ancestryfeatures/feat-01-NWbdAN5gDse0ad7C.htm)|Dark Fields Kitsune|
+|[feat-01-NWsZ0cIeghyzk9bU.htm](ancestryfeatures/feat-01-NWsZ0cIeghyzk9bU.htm)|Sharp-Eared Catfolk|
+|[feat-01-nXQxlmjH24Eb8h2Q.htm](ancestryfeatures/feat-01-nXQxlmjH24Eb8h2Q.htm)|Battle-Ready Orc|
+|[feat-01-oCIO7UJqbpTkI62l.htm](ancestryfeatures/feat-01-oCIO7UJqbpTkI62l.htm)|Wings|
+|[feat-01-PwxbD5VSJ0Yroqvp.htm](ancestryfeatures/feat-01-PwxbD5VSJ0Yroqvp.htm)|Liminal Fetchling|
+|[feat-01-pZ1u2ScWrBXSaAqQ.htm](ancestryfeatures/feat-01-pZ1u2ScWrBXSaAqQ.htm)|Winter Orc|
+|[feat-01-RKz7Z5pefXKiv9JE.htm](ancestryfeatures/feat-01-RKz7Z5pefXKiv9JE.htm)|Suli|
+|[feat-01-rQJBtQ9uKUzK9ktK.htm](ancestryfeatures/feat-01-rQJBtQ9uKUzK9ktK.htm)|Shortshanks Hobgoblin|
+|[feat-01-RuQSx0QsirIKxwKY.htm](ancestryfeatures/feat-01-RuQSx0QsirIKxwKY.htm)|Warrior Android|
+|[feat-01-RxNBBMFZwPA3Vlg3.htm](ancestryfeatures/feat-01-RxNBBMFZwPA3Vlg3.htm)|Shoreline Strix|
+|[feat-01-S1062No0sYH35AhN.htm](ancestryfeatures/feat-01-S1062No0sYH35AhN.htm)|Tactile Azarketi|
+|[feat-01-sEnMG5zbnXdJvVPz.htm](ancestryfeatures/feat-01-sEnMG5zbnXdJvVPz.htm)|Cloudleaper Lizardfolk|
+|[feat-01-Svk2CHwvurK1QQhD.htm](ancestryfeatures/feat-01-Svk2CHwvurK1QQhD.htm)|Ifrit|
+|[feat-01-TDc9MXLXkgEFoKdD.htm](ancestryfeatures/feat-01-TDc9MXLXkgEFoKdD.htm)|Flexible Catfolk|
+|[feat-01-TQFE10VFvh9wb8zb.htm](ancestryfeatures/feat-01-TQFE10VFvh9wb8zb.htm)|Woodstalker Lizardfolk|
+|[feat-01-TRw4oBZBFZG96jKO.htm](ancestryfeatures/feat-01-TRw4oBZBFZG96jKO.htm)|Magical Strikes|
+|[feat-01-TYvzNoL5ldmB5F76.htm](ancestryfeatures/feat-01-TYvzNoL5ldmB5F76.htm)|Melixie|
+|[feat-01-U882U2NUUGL6u3rL.htm](ancestryfeatures/feat-01-U882U2NUUGL6u3rL.htm)|Tunnel Rat|
+|[feat-01-UpeOPKB9b8PX6Fi2.htm](ancestryfeatures/feat-01-UpeOPKB9b8PX6Fi2.htm)|Deep Fetchling|
+|[feat-01-uSAYmU7PO2QoOWhB.htm](ancestryfeatures/feat-01-uSAYmU7PO2QoOWhB.htm)|Emotionally Unaware|
+|[feat-01-uxtcKTkD62SmrUoh.htm](ancestryfeatures/feat-01-uxtcKTkD62SmrUoh.htm)|Shapewrought Fleshwarp|
+|[feat-01-VAo6NnrCEAAOUSkc.htm](ancestryfeatures/feat-01-VAo6NnrCEAAOUSkc.htm)|Resolute Fetchling|
+|[feat-01-VgL18yU7pysdoZZG.htm](ancestryfeatures/feat-01-VgL18yU7pysdoZZG.htm)|Artisan Android|
 |[feat-01-vPhPgzpRjYDMT9Kq.htm](ancestryfeatures/feat-01-vPhPgzpRjYDMT9Kq.htm)|Greater Darkvision|
+|[feat-01-VvEAFoxuddYNBmNc.htm](ancestryfeatures/feat-01-VvEAFoxuddYNBmNc.htm)|Grave Orc|
+|[feat-01-WEzgrxBRFBGdj8Hx.htm](ancestryfeatures/feat-01-WEzgrxBRFBGdj8Hx.htm)|Wavediver Tengu|
+|[feat-01-wHO5luJMODbDLXNi.htm](ancestryfeatures/feat-01-wHO5luJMODbDLXNi.htm)|Bright Fetchling|
+|[feat-01-Wk4HyaZtC1j221i1.htm](ancestryfeatures/feat-01-Wk4HyaZtC1j221i1.htm)|Earthly Wilds Kitsune|
+|[feat-01-Ymg6WqeJqOyLJLEr.htm](ancestryfeatures/feat-01-Ymg6WqeJqOyLJLEr.htm)|Change Shape|
+|[feat-01-zcO93E8gAW1tDYKk.htm](ancestryfeatures/feat-01-zcO93E8gAW1tDYKk.htm)|Draxie|
+|[feat-01-ZW8GX14n3ZGievK1.htm](ancestryfeatures/feat-01-ZW8GX14n3ZGievK1.htm)|Tunnelflood Kobold|
+|[feat-IFg2tqmAFFnU8UNU.htm](ancestryfeatures/feat-IFg2tqmAFFnU8UNU.htm)|Celestial Envoy Kitsune|
 
 ## Liste des traductions complétés
 
