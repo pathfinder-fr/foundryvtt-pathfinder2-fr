@@ -1,20 +1,13 @@
 # État de la traduction (backgrounds)
 
  * **libre**: 160
- * **officielle**: 44
+ * **officielle**: 45
  * **changé**: 1
- * **aucune**: 1
 
 
-Dernière mise à jour: 2021-02-25 23:21 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-28 17:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[UgityMZaujmYUpil.htm](backgrounds/UgityMZaujmYUpil.htm)|Out-Of-Towner|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -190,6 +183,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ty8FRM0k262xuHfF.htm](backgrounds/Ty8FRM0k262xuHfF.htm)|Undersea Enthusiast|Enthousiaste aquatique|libre|
 |[uC6D2nmDTATxXrV6.htm](backgrounds/uC6D2nmDTATxXrV6.htm)|Royalty|De sang royal|libre|
 |[UdOUj7i8XGTI72Zc.htm](backgrounds/UdOUj7i8XGTI72Zc.htm)|Servant|Serviteur|libre|
+|[UgityMZaujmYUpil.htm](backgrounds/UgityMZaujmYUpil.htm)|Out-Of-Towner|De passage|officielle|
 |[uJcFanGjVranEarv.htm](backgrounds/uJcFanGjVranEarv.htm)|Lumber Consortium Laborer|Ouvrier du Consortium du Bois|libre|
 |[uNhdcyhiog7YvXPT.htm](backgrounds/uNhdcyhiog7YvXPT.htm)|Varisian Wanderer|Vagabond Varisien|libre|
 |[uNvD4XK1kdvGjQVo.htm](backgrounds/uNvD4XK1kdvGjQVo.htm)|Child of Westcrown|Enfant de Couronne d'Ouest|libre|

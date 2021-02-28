@@ -7,9 +7,34 @@
             "description": "<p>Votre ouïe surdéveloppée vous permet de détecter les bruits les plus infimes. Tant que vous pouvez entendre normalement, vous pouvez utiliser l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour sentir la présence de créatures @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectées} qui se trouvent dans un cône de 18 m au lieu d’un cône de 9 m. Quand vous utilisez l’action Chercher, vous bénéficiez également d’un bonus de circonstances de +2 pour localiser des créatures non détectées que vous pouvez entendre et qui se trouvent dans un cône de 9 m.</p>"
         },
         {
+            "id": "Flexible Catfolk",
+            "name": "Homme-félin flexible",
+            "description": "<p>Vous avez hérité d'une souplesse au delà de celle de la plupart des humanoïdes. Vous ne traitez pas les espaces étroits qui ne nécessitent pas que vous vous Faufiliez comme un terrain difficile. De plus, vous obtenez un bonus de circonstance de +1 aux tests lorsque vous tentez de vous @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper}.</p>"
+        },
+        {
             "id": "Jungle Catfolk",
             "name": "Homme-félin de la jungle",
             "description": "<p>Vous descendez d'arpenteurs de la jungle et pouvez vous déplacer rapidement dans les broussailles et les sous-bois. Vous ignorez le terrain difficile des sous-bois et le terrain très difficile des sous-bois n'est qu'un terrain difficile en ce qui vous concerne.</p>"
+        },
+        {
+            "id": "Nyktera",
+            "name": "Nyctère",
+            "description": "<p>Vous avez des traits de chauve-souris, une affinité avec l'espèce des chauves-souris et une ouïe inégaléeé. Tant que vous pouvez entendre normalement, vous pouvez utiliser l'action Chercher pour percevoir les créatures @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectées}dans un cône de 18 m au lieu d'un cône de 9 m. Vous obtenez aussi un bonus de circonstance de +2 pour localiser les personnes non détectées que vous pourriez entendre dans les 9 m avec une action Chercher.</p>"
+        },
+        {
+            "id": "Wings",
+            "name": "Ailes",
+            "description": "<p>Tous les strix possèdent de puissantes ailes. Alors que tous les strix ne se concentrent pas pour exercer leurs capacités de vol, un puissant claquement d'ailes permet aux strix de parcourir de plus longues distances lorsqu'ils sautent.</p>\n<p>Lorsque vous Sautez horizontalement, vous vous déplacer de 1,5 m supplémentaires. Vous n'obtenez pas automatiquement un échec aux Saut en hauteur ou aux Sauts en longueur si vous ne Marchez pas rapidement d'au moins 3 m d'abord. de plus, lorsque vous faites un Saut en longueur, vous pouvez parcourir une distance de 3 m de plus que votre résultat au test d'Athlétisme, bien qu'il vous faille toujours la vitesse maximale normale de votre Vitesse.</p>"
+        },
+        {
+            "id": "Aphorite",
+            "name": "Aphorite",
+            "description": "<p>Vous êtes né avec un lien vers Axis, le Plan de la Loi. Vous obtenez le trait aphorite, en plus des traits de votre ascendance. vous gagnez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance dispose déjà de vision nocturne. Vous pouvez choisir parmi les dons d'aphorite et les dons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>"
+        },
+        {
+            "id": "Grig",
+            "name": "Grig",
+            "description": "<p>Vous avez l'arrière train d'un criquet et adorez l'art et la musique. Vos pattes de criquet vous accordent un bonus de circonstance de +2 aux tests d'Athlétisme pour Sauter en hauteur ou Sauter en longueur et vous obtenez le tour de magie primordial inné @Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{Son imaginaire}.</p>"
         },
         {
             "id": "Razortooth Goblin",
@@ -27,6 +52,26 @@
             "description": "<p>Vos écailles épaisses vous aident à retenir l'eau et à combattre la brûlure du soleil. Vous obtenez une résistance au feu égale à la moitié de votre niveau (minimum 1). Les effets de chaleur de votre environnement sont d'un rang moins extrèmes pour vous et vous pouvez tenir 10 fois plus longtemps que la normale avant d'être affecté par la faim ou la soif. Quoi qu'il en soit, à moins de protéger un équipement protecteur ou de trouver refuge, les effets de froid dus à votre environnement sont un rang plus extrême pour vous.</p>"
         },
         {
+            "id": "Snow Rat",
+            "name": "Rat Neige",
+            "description": "<p>Vous avez une fourrure plus épaisse et une charpente plus encombrante pour se défendre contre le froid, vous accordant une résistance au froid égale à la moitié de votre niveau (minimum 1). Vous traitez les effets environnementaux de froid comme s'ils étaient d'un degré moins extrême (le froid incroyable devient extrême, le froid extrême devient sévère, etc).</p>"
+        },
+        {
+            "id": "Songbird Strix",
+            "name": "Strix oiseauchanteur",
+            "description": "<p>Vous descendez d'une lignée talentueuse de conteurs strix. Des plus hautes montagnes et des étendues sauvages les plus vierges où vos poumons ont pu se remplir de l'air pur et glorieux, vous faites des trilles, sifflez et fredonnez des chansons mélodieuses. Alors que des sons naturels vous prédisposent à chanter, les voix vous ont prédisposé à l'imitation. Vous recevez un bonus de circonstance de +1 sur les tests de Duperie pour Déguiser une voix imitée, lorsque le son de la voix est l'unique facteur ; si vous êtes un maître en Duperie, vous obtenez un bonus de circonstance de +2 à la place. Vous gagnez aussi un bonus de circonstance de +1 aux tests de Représentation pour chanter ; si vous êtes un maître en Représentation, vous obtenez un bonus de circonstance de +2 à la place.</p>"
+        },
+        {
+            "id": "Winter Orc",
+            "name": "Orc de l'hiver",
+            "description": "<p>Vos ancètres ont survécu aux climats froids. Vous êtes qualifié en Survie et vous traitez les effets environnementaux froids comme s'ils étaient d'un cran moins extrêmes (un froid incroyable devient extrême, un froid extrême devient sévère, etc).</p>"
+        },
+        {
+            "id": "Cloudleaper Lizardfolk",
+            "name": "Homme-lézard sautenuage",
+            "description": "<p>Votre corps est léger avec des rabats de peau le long de vos membres qui captent l'air qui passe en dessous de vous. tant que vous pouvez agir et que vous avez assez de place vous pouvez ouvrir ces rabats pour ralentir toute chûte, juste assez pour éviter de subir des dégâts (déterminer si vous avez assez d'espace est laissé à la discrétion du MJ).</p>"
+        },
+        {
             "id": "Desert Elf",
             "name": "Elfe du désert",
             "description": "<p>Vous vivez sous la chaleur brûlante du désert, ce qui vous confère une résistance incroyable aux environnements chauds.</p>\n<p>Vous obtenez une résistance au feu égale à la moitié de votre niveau (minimum 1), et les effets liés à la chaleur de l'environnement sont d'un rang moins extrême pour ce qui vous concerne (une chaleur incroyable devient extrême, une chaleur extrême devient sévère, etc).</p>"
@@ -37,29 +82,49 @@
             "description": "<p>Vos ancètres vivianet sous terre. Vos oreilles sont plus grandes que celles des autres hobgobelins et sensibles aux échos. Lorsque vous êtes sous terre, vous pouvez utiliser l'action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour repérer des créatures @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} dans une émanation de 9 m au lieu de 4,5 m. En plus, si vous obtenez un succès sur un test d'Acrobatie pour vous @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Faufiler}, vous obtenez un succès critique à la place.</p>"
         },
         {
+            "id": "Laborer Android",
+            "name": "Manœuvre androïde",
+            "description": "<p>Votre corps est adapté pour endurer des épreuves physiques ou accomplir des travaux difficiles sur des longues périodes de temps. Vous êtes qualifié en Athlétisme (ou en une autre compétence qi vous étiez déjà qualifié en Athlétisme) et vous obtenez le don de compétence @Compendium[pf2e.feats-srd.C0Tcelg3BAPhML6J]{Portefaix}.</p>"
+        },
+        {
+            "id": "Resolute Fetchling",
+            "name": "Fetchelin résolu",
+            "description": "<p>Vos ancètres ont longtemps fait affaire avec l'horreur — Sur le Plan de l'ombre ou ailleurs — et vous portez leur résistance mentale. Lorsque vous obtenez un succès sur une jet de sauvegarde contre un effet d'émotion, vous obtenez un succès critique à la place.</p>"
+        },
+        {
             "id": "Taloned Tengu",
             "name": "Tengu à ergots",
-            "description": "<p>Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque à mains nues d'ergots qui infligent deals <a class=\"inline-roll roll\" title=\"tranchants\" data-mode=\"roll\" data-flavor=\"tranchants\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a> dégâts tranchants. Vos ergots font partie du groupe pugilat et possèdent les traits agile, finesse, à mains nues et polyvalent perforant.</p>"
+            "description": "<p>Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque à mains nues d'ergots qui infligent <a class=\"inline-roll roll\" title=\"tranchants\" data-mode=\"roll\" data-flavor=\"tranchants\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i>1d4</a> dégâts tranchants. Vos ergots font partie du groupe pugilat et possèdent les traits agile, finesse, à mains nues et polyvalent perforant.</p>"
         },
         {
             "id": "Runtboss Hobgoblin",
             "name": "Hobgobelin commandant avorton",
-            "description": "<p>Vous descendez d'une longue lignée d'hobgobelins qui ont commandé des gobelins. Vous êtes plus petits que les autres hobgobelins, mais les gobelins écoutent toujours chacun des ordres que vous beuglez. Vous obtenez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"gUqvezs2zzoTXFAI\">Contraindre un groupe</a>. Si vous obtenez un Succès sur un test d'Intimidation pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"tHCqgwjtQtzNqVvd\">Contraindre</a> un gobelin (mais pas les autres créatures avec le trait gobelin), vous obtenez un succès critique à la place ; si vous obtenez un échec critique, vous obtenez un échec à la place.</p>"
+            "description": "<p>Vous descendez d'une longue lignée d'hobgobelins qui ont commandé des gobelins. Vous êtes plus petits que les autres hobgobelins, mais les gobelins écoutent toujours chacun des ordres que vous beuglez. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.gUqvezs2zzoTXFAI]{Contraindre un groupe}. Si vous obtenez un Succès sur un test d'Intimidation pour @Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]{Contraindre} un gobelin (mais pas les autres créatures avec le trait gobelin), vous obtenez un succès critique à la place ; si vous obtenez un échec critique, vous obtenez un échec à la place.</p>"
+        },
+        {
+            "id": "Caveclimber Kobold",
+            "name": "Kobold grimpegrotte",
+            "description": "<p>Vous vivez dans une maison orientée verticalement et vous êtes un grimpeur consommé. Vous obtenez le don de  compétence @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur}, même si vous n'en remplissez pas les prérequis. Vous pouvez utiliser vos pieds griffus et votre queue pour Grimper, laissant vos mains libres. De plus, si vous obtenez un succès à un test d'Athlétisme pour Grimper, vous obtenez un succès critique à la place.</p>"
         },
         {
             "id": "Venomtail Kobold",
             "name": "Kobold à queue venimeuse",
-            "description": "<p><span class=\"fontstyle0\">Un éperon résiduel dans votre queue sécrète une dose de poison mortel chaque jour. Vous obtenez l'action <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"ev8OHpBO3xq3Zt08\"> Tail Toxin</a>Queue à toxine</a>.</p>"
+            "description": "<p>Un éperon résiduel dans votre queue sécrète une dose de poison mortel chaque jour. Vous obtenez l'action @Compendium[pf2e.actionspf2e.ev8OHpBO3xq3Zt08]{Queue à toxine}.</p>"
+        },
+        {
+            "id": "Lotus Leshy",
+            "name": "Léchi lotus",
+            "description": "<p>Vous flottez sans effort à la surface de l'eau. Vous pouvez marcher sur la surface des étendues immobiles d'eau et d'autres liquides qui ne causent pas de dégâts, en vous déplaçant à la moitié de votre vitesse habituelle. Vous pouvez également tenter de marcher à la surface de l'eau courante, en vous déplaçant toujours à la moitié de votre vitesse, mais procéder de la sorte nécessite un test d'Acrobaties pour vous équilibrer en utilisant le DD d'un test de natation pour se déplacer dans ces eaux ; en cas d'échec, vous tombez à l'eau. Ce test d'Acrobaties ne nécessite pas qu vous utilisiez une action.</p>"
         },
         {
             "id": "Aquatic Adaptation",
             "name": "Adaptation aquatique",
-            "description": "<p>Votre biologie reptilienne vous permet de retenir votre souffle pendant très longtemps. Vous obtenez le don général <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"aJUXbe9HJVvv0Mxa\">Contrôle de la respiration</a> comme don supplémentaire.</p>"
+            "description": "<p>Votre biologie reptilienne vous permet de retenir votre souffle pendant très longtemps. Vous obtenez le don général @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Contrôle de la respiration} comme don supplémentaire.</p>"
         },
         {
             "id": "Chameleon Gnome",
             "name": "Gnome Caméléon",
-            "description": "<p>La couleur de vos cheveux et de votre peau peut changer, peut-être grâce à une magie latente qui coule dans vos veines. Vous pouvez ainsi lentement en modifier l’éclat et la couleur exacte. Cette coloration n’est pas nécessairement uniforme et vous pouvez créer des motifs ou des dessins colorés sur votre corps. Vous devez utiliser une action unique pour effectuer des changements mineurs sur votre corps, ou consacrer une heure aux changements importants qui affectent tout votre corps. Quand vous dormez, ces couleurs changent naturellement en fonction de vos rêves et vous vous réveillez chaque matin avec un coloris inattendu. Quand vous vous trouvez dans un endroit où votre coloration est proche de la couleur de votre environnement (par exemple, un vert végétal dans une forêt), vous pouvez utiliser une action unique pour faire des modifications mineures et localisées qui vous permettront de mieux vous fondre dans votre environnement. Vous gagnez ainsi un bonus de circonstances de +2 à vos tests de Discrétion jusqu’à ce quevotre environnement change de couleur ou de motifs.</p>"
+            "description": "<p>La couleur de vos cheveux et de votre peau peut changer, peut-être grâce à une magie latente qui coule dans vos veines. Vous pouvez ainsi lentement en modifier l’éclat et la couleur exacte. Cette coloration n’est pas nécessairement uniforme et vous pouvez créer des motifs ou des dessins colorés sur votre corps. Vous devez utiliser une action unique pour effectuer des changements mineurs sur votre corps, ou consacrer une heure aux changements importants qui affectent tout votre corps. Quand vous dormez, ces couleurs changent naturellement en fonction de vos rêves et vous vous réveillez chaque matin avec un coloris inattendu.</p>\n<p>Quand vous vous trouvez dans un endroit où votre coloration est proche de la couleur de votre environnement (par exemple, un vert végétal dans une forêt), vous pouvez utiliser une action unique pour faire des modifications mineures et localisées qui vous permettront de mieux vous fondre dans votre environnement. Vous gagnez ainsi un bonus de circonstances de +2 à vos tests de Discrétion jusqu’à ce que votre environnement change de couleur ou de motifs.</p>"
         },
         {
             "id": "Skyborn Tengu",
@@ -67,9 +132,44 @@
             "description": "<p>Vos os pourraient être particulièrement légers, vous pourriez être un rare tengu possédant des ailes ou votre lien avec les esprtis du vent et du ciel pourrait être plus fort que la plupart, ralentissant votre chute au travers des airs. Vous ne subissez aucun dégâts lors d'une chute, quelle que soit la distance de laquelle vous chûtez.</p>"
         },
         {
+            "id": "Tunnel Rat",
+            "name": "Rat des tunnels",
+            "description": "<p>Vos os incroyablement petits vous permettent de compresser votre corps et de vous Faufiler à travers les trous. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.3G8xUlgCjRmRJNfP]{Se faufiler rapidement} en tant que don supplémentaire, même si vous n'êtes pas qualifié en Acrobaties. Les espaces étroits pas suffisamment étrroits pour que vous ayez à utiliser l'action se Faufiler ne sont pas des terrains difficiles pour vous.</p>"
+        },
+        {
+            "id": "Warrior Android",
+            "name": "Androïde combattant",
+            "description": "<p>Votre corps a été à l'origine créé pour fonctionner comme un officier de sécurité ou un soldat. Vous êtes naturellement un combattant doué pré-programmé pour combattre. Vous êtes qualifié avec toutes les armes simples et de guerre.</p>"
+        },
+        {
+            "id": "Beastkin",
+            "name": "Beastkin",
+            "description": "<p>Le sang d'une bête court dans vos veines vous accordant la férocité et le puissance des animaux. Seules les créatures possédant le trait humanoïde peuvent prendre l'héritage alternatif beastkin. Choisissez un type d'animal comme aigle, araignée, chauve-souris, guêpe, loup, requin ou tyrannosaure. C'est le type d'animal lié à votre héritage et connu sous le nom de votre animal intérieur. Vous obtenez les traits bête et beastkin, en plus des traits de votre ascendance.</p>\n<p>Vous obtenez la capacité @Compendium[pf2e.actionspf2e.0b3TTeQGFOiy6ykz]{Changer de forme (Beastkin)}. Vous pouvez choisir parmis les dons de beastkin et les dons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>"
+        },
+        {
             "id": "Ancient-Blooded Dwarf",
             "name": "Nain sang-ancien",
             "description": "<p>Les héros nains de l’ancien temps étaient capables de balayer la magie de leurs ennemis du revers de la main. Vous avez hérité d’une partie de cette résistance. Vous gagnez la réaction @Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]{Appel du sang ancien}.</p>"
+        },
+        {
+            "id": "Shoreline Strix",
+            "name": "Strix des falaises",
+            "description": "<p>Vous êtes le descendant de strix qui ont voyagé vers les côtes. Vos plumes sont spécialement imperméables et élégamment  inclinées pour plonger, vous permettant d'attraper du poisson et d'autres proies dans les eaux peu profondes. Vous êtes qualifié en Athlétisme et vous obtenez le don de compétence @Compendium[pf2e.feats-srd.iOY6YfGBaOvMNAor]{Maraudeur aquatique} comme don supplémentaire.</p>"
+        },
+        {
+            "id": "Inured Azarketi",
+            "name": "Azarketi endurci",
+            "description": "<p>Vos ancètres ont dû survivre dans le l'eau polluée qui a rendu chaque inspiration toxique. Vous obtenez une résistance au poison égale à la moitié de votre niveau (minimum 1). De plus, vous pouvez survivre en dehors de l'eau pendant 72 heures avant de commencer à suffoquer.</p>"
+        },
+        {
+            "id": "Created Fleshwarp",
+            "name": "Distordu créé",
+            "description": "<p>Vous avez été créé parr le biais de processus chimiques ou occultes, tel qu'un être élevé dans une cuve ou cousu à partir de parties de corps d'autres créatures par un scientifique en Ustalav. Votre corps fabriqué est durable ; Vous n'avez pas besoin de manger et ne mourrez pas de faim. Vous obtenez un bonus de circonstance de +2 aux jets de sauvegarde contre les maladies.</p>"
+        },
+        {
+            "id": "Wisp Fetchling",
+            "name": "Fetchelin volute",
+            "description": "<p>L'exposition au Plan de l'ombre de vos ancètres a entraîné d'importants changements. Vos cheveux ou votre peau apparaît parfois sans substance et vous êtes plus maigres et plus agiles que les autres fetchelins. Vous êtes de taille <strong>Petite</strong> au lieu de <strong>Moyenne</strong>. Vous obtenez le rang de maîtrise qualifié en Acrobaties Acrobatics, le don de compétence @Compendium[pf2e.feats-srd.3G8xUlgCjRmRJNfP]{Se faufiler rapidement} et un bonus de circonstance de +1 aux tests d'Acrobaties pour réaliser un @Compendium[pf2e.actionspf2e.21WIfSu7Xd7uKqV8]{Déplacement acrobatique}. Si vous devriez être automatiquement qualifié en Acrobaties (du fait de votre historique ou de votre classe par exemple), vous devenez à la place qualifié dans une compétence de votre choix.</p>"
         },
         {
             "id": "Ancient Elf",
@@ -79,7 +179,17 @@
         {
             "id": "Jinxed Halfling",
             "name": "Halfelin maudit",
-            "description": "<p>Vous êtez né avec une étrange bénédiction : à l'inverse de la chance halfeline typique, vous pouvez à la place manipuler le destin des autres. Vous ne pouvez jamais prendre le don <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"ZbRVqf14RTJJIZXG\">Chance halfeline</a>> et vous obtenez l'action <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"hFRHPBj6wjAayNtW\">Maudire</a>.</p>"
+            "description": "<p>Vous êtez né avec une étrange bénédiction : à l'inverse de la chance halfeline typique, vous pouvez à la place manipuler le destin des autres. Vous ne pouvez jamais prendre le don @Compendium[pf2e.feats-srd.ZbRVqf14RTJJIZXG]{Chance halfeline} et vous obtenez l'action @Compendium[pf2e.actionspf2e.hFRHPBj6wjAayNtW]{Maudire}.</p>"
+        },
+        {
+            "id": "Murkeyed Azarketi",
+            "name": "Azarkety Yeuxobscurs",
+            "description": "<p>Vous vivez dans les eaux sombres et vous êtes accoutumé à la vie dans un environnement à faible visibilité. Vous avez besoin seulement de réussir un test nu DD 3 lorsque vous ciblez une créature Masquée et un test nu DD 9 lorsque vous ciblez une créature Cachée.</p>"
+        },
+        {
+            "id": "Liminal Fetchling",
+            "name": "Fetchelin liminaire",
+            "description": "<p>Vous provenez d'une lignée de fetchelins disposant d'un lien plus proche avec les plans éthérés et de l'ombre et vous partagez l'affinité de ces royaumes avec l'entre-deux et l'invisible. Vous obtenez un bonus de circonstance de +1 pour localiser les créatures @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectées}dans les 18 m lorsque vous utilisez l'action Chercher. Votre test nu pour cibler les créatures @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées} se fait contre un DD 3 au lieu d'un DD 5 et votre test nu pour cibles de créatures non détectées est un DD 9 au lieu d'un DD 11.</p>"
         },
         {
             "id": "Clawed Catfolk",
@@ -87,9 +197,24 @@
             "description": "<p>Votre famille possède des griffes particulièrement longues et aiguisées capables de délivrer des blessures sanglantes avec un coup en traitre. Vous obtenez une attaque à mains nues de griffe qui inflige <a class=\"inline-roll roll\" title=\"slashing\" data-mode=\"roll\" data-flavor=\"slashing\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i> 1d6</a> dégâts tranchants. Vos griffes font partie du groupe pugilat et possèdent les traits agile, finesse et à mains nues.</p>"
         },
         {
+            "id": "Luminous Sprite",
+            "name": "Sprite lumineux",
+            "description": "<p>Vous brillez avec une luminance magique. Vous diffusez naturellement de la lumière comme une torche ; cette lumière possède les traits évocation, lumière et primordial. Vous pouvez éteindre, rallumer ou changer la couleur de cette lumière en utilisant une unique action qui possède le trait concentration.</p>"
+        },
+        {
+            "id": "Unusual Anatomy",
+            "name": "Anatomie inhabituelle",
+            "description": "<p>Votre corps non orthodoxe résiste aux agressions physiques conçus pour l'autres créatures. Vous obtenez un bonus de circonstance de +1 aux jets de sauvegarde contre les maladies et les poisons.</p>"
+        },
+        {
+            "id": "Sylph",
+            "name": "Sylphe",
+            "description": "<p>Vous descendez des élémentaires d'air ou êtes né sous l'influence des éléments. Vous obtenez le trait sylphe, en plus des traits de votre ascendance. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance avait déjà Vision nocturne. Vous pouvez choisir parmi les dons de sylphes ou parmi ceux de votre ascendance lorsque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons de descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don d'ascendance et vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons d'ascendance de descendants de génie en plus de ceux qui sont accessibles du fait de votre héritage spécifique et de votre ascendance.</p>"
+        },
+        {
             "id": "Hold-Scarred Orc",
             "name": "Orque scarifié",
-            "description": "<p>Vous êtes un membre d'une communauté orque qui pratique un rituel de scarification ou de tatouage. Les marques de votre peau montrent votre exceptionnelle robustesse et votre vitalité. Vous obtenez 12 Points de vie de votre héritage au lieu de 10. Vous obtenez aussi le don <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"I0BhPWqYf1bbzEYg\">Dur à cuir</a>.</p>"
+            "description": "<p>Vous êtes un membre d'une communauté orque qui pratique un rituel de scarification ou de tatouage. Les marques de votre peau montrent votre exceptionnelle robustesse et votre vitalité. Vous obtenez 12 Points de vie de votre héritage au lieu de 10. Vous obtenez aussi le don @Compendium[pf2e.feats-srd.I0BhPWqYf1bbzEYg]{Dur à cuir}.</p>"
         },
         {
             "id": "Arctic Elf",
@@ -99,12 +224,17 @@
         {
             "id": "Gourd Leshy",
             "name": "Léchi calebasse",
-            "description": "<p>Vous avez une grosse calebasse au lieu et place d'un crâne. Votre connaissance vient de votre spiritualité intérieure, et non de votre cerveau physique et vous avez trouvé une utilisation plus utile à l'espace intérieur de votre tête. Vous pouvez emmagasiner une collection d'objets qui vont jusqu'à un encombrement 1 à l'intérieur de votre tête. Le DD des tests pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"RDXXE7wMrSPCLv5k\">Voler</a> des objets qui s'y trouvent augmente de 4. De plus, si vous emmagasinez un unique objet à l'intérieur de votre tête, vous pouvez le retirer sans effort de votre main comme partie d'une autre action pour utiliser l'objet. Retirer l'objet donne à cette autre action le trait manipulation.</p>"
+            "description": "<p>Vous avez une grosse calebasse au lieu et place d'un crâne. Votre connaissance vient de votre spiritualité intérieure, et non de votre cerveau physique et vous avez trouvé une utilisation plus utile à l'espace intérieur de votre tête. Vous pouvez emmagasiner une collection d'objets qui vont jusqu'à un encombrement 1 à l'intérieur de votre tête. Le DD des tests pour @Compendium[pf2e.actionspf2e.RDXXE7wMrSPCLv5k]{Voler} des objets qui s'y trouvent augmente de 4. De plus, si vous emmagasinez un unique objet à l'intérieur de votre tête, vous pouvez le retirer sans effort de votre main comme partie d'une autre action pour utiliser l'objet. Retirer l'objet donne à cette autre action le trait manipulation.</p>"
+        },
+        {
+            "id": "Dogtooth Tengu",
+            "name": "Tengu Dentdechien",
+            "description": "<p>En plus d'un bec, votre bouche comporte aussi un nombre de vivieuses dents pointues. Certaines légendes clament que vos puissantes mâchoires peuvent même percer l'acier. Bien que vous ne soyez pas encore assez fort pour çà, vos crocs peuvent toujours infliger de terribles blessures. Votre attaque à mains nues de bec obtient le trait mortel d8.</p>"
         },
         {
             "id": "Rainfall Orc",
             "name": "Orque des moussons",
-            "description": "<p>Vous êtes né dans une forêt humide avec seulement des enchevêtrements d'arbres pour vous protéger des pluies torrentielles et des inondations brutales. Vous avez appris à vous déplacer de manière athlétique à travers la jungle et à résister au diverses plaies communes en milieu humide.</p>\n<p>Vous obtenez un bonus de circonstance de +2 aux tests d'Athlétisme pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"pprgrYQ1QnIDGZiy\"> Grimper</a> ou <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"c8TGiZ48ygoSPofx\">Nager</a> et un bonus de circonstance de +1 aux jets de sauvegarde contre les maladies.</p>"
+            "description": "<p>Vous êtes né dans une forêt humide avec seulement des enchevêtrements d'arbres pour vous protéger des pluies torrentielles et des inondations brutales. Vous avez appris à vous déplacer de manière athlétique à travers la jungle et à résister au diverses plaies communes en milieu humide.</p>\n<p>Vous obtenez un bonus de circonstance de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimper} ou @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} et un bonus de circonstance de +1 aux jets de sauvegarde contre les maladies.</p>"
         },
         {
             "id": "Unseen Lizardfolk",
@@ -112,19 +242,29 @@
             "description": "<p>Vous pouvez changer la couleur de votre peau pour vous fondre dans votre environnement, effectuant des changements mineurs avec une action unique et des changements importants au bout d'une heure. Lorsque vous êtes dans une zone oû votre coloration est vaguement similaire à l'environnement (par exemple, vert forêt dans une forêt), vous pouvez utilisez l'action mineure, unique de cette capacité pour opérer des changements localisés qui vous aident à vous fondre dans votre environnement, obtenant un bonus de circonstance de +2 aux tests de Discrétion jusqu'à ce que votre environnement change de coloration ou de motif.</p>"
         },
         {
+            "id": "Melixie",
+            "name": "Mélixie",
+            "description": "<p>Vous avez les traits d'une abeille, d'un papillon ou d'un autre insecte qui adore le sucré. Vous pouvez poser des questions et recevoir des réponses des arthropodes (insectes, araignées, scorpions, crabes et autres animaux invertébrés similaires) et pouvez utiliser Diplomatie pour leur Faire bonne impression et les Solliciter. La plupart des abeilles, des papillons, des phalènes et des coléoptères ont une attitude de départ @Compendium[pf2e.conditionitems.fuG8dgthlDWfWjIA]{Indifférente} ou @Compendium[pf2e.conditionitems.v66R7FdOf11l94im]{Amicale}envers vous et vous donnent le temps de faire valoir votre demande, alors que d'autres arthropodes réagissent à voter endroit de la même manière qu'à tout autre aventurier.</p>"
+        },
+        {
             "id": "Strongjaw Kobold",
             "name": "Kobold à forte mâchoire",
-            "description": "<p>Votre lignage est réputé pour leurs puissantes mâchoires et vos dents aiguisées. Vous obtenez une attaque à mains nues de mâchoires  qui inflige <a class=\"inline-roll roll\" title=\"piercing\" data-mode=\"roll\" data-flavor=\"piercing\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i> 1d6</a> dégâts perçants. Vos mâchoires font partie du groupe pugilat et possédent les trait finesse et à mains nues.</p>"
+            "description": "<p>Votre lignage est réputé pour leurs puissantes mâchoires et vos dents aiguisées. Vous obtenez une attaque à mains nues de mâchoires  qui inflige <a class=\"inline-roll roll\" title=\"perforants\" data-mode=\"roll\" data-flavor=\"perforants\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i>1d6</a> dégâts perçants. Vos mâchoires font partie du groupe pugilat et possédent les trait finesse et à mains nues.</p>"
         },
         {
             "id": "Umbral Gnome",
             "name": "Gnome ombral",
-            "description": "<p>Vous êtes capable de voir dans les ténèbres les plus totales. Vous tenez peut-être ce pouvoir d’un lien avec les fées sombres ou les fées des ombres, avec les gnomes des profondeurs (aussi appelés les svirfneblins) qui vivent sous terre ou il vous vient d’une autre origine.</p>\n<p>Vous gagnez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">vision dans le noir</a>.</p>"
+            "description": "<p>Vous êtes capable de voir dans les ténèbres les plus totales. Vous tenez peut-être ce pouvoir d’un lien avec les fées sombres ou les fées des ombres, avec les gnomes des profondeurs (aussi appelés les svirfneblins) qui vivent sous terre ou il vous vient d’une autre origine.</p>\n<p>Vous gagnez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
         },
         {
             "id": "Charhide Goblin",
             "name": "Gobelin peaud'charbon",
             "description": "<p>Vos ancêtres ont toujours eu une connexion avec le feu et une peau plus épaisse que la norme, qui vous permet de mieux résister au feu. Vous gagnez une résistance au feu égale à la moitié de votre niveau (avec un minimum de 1). Vous vous remettez également plus vite des brûlures causées par le feu. Votre test nu pour guérir des dégâts de feu persistants est d’un DD 10 au lieu de DD 15, et est réduit à un DD 5 si une autre créature utilise une action particulièrement adaptée pour vous aider.</p>"
+        },
+        {
+            "id": "Battle-Ready Orc",
+            "name": "Orc prêt pour la bataille",
+            "description": "<p>Vous descendez d'une lignée de terrifiants commandants sur le champ de bataille. Vous êtes qualifié en Intimidation et vous obtenez le don de compétence @Compendium[pf2e.feats-srd.xQMz6eDgX75WX2ce]{Regard intimidant}.</p>"
         },
         {
             "id": "Cavern Kobold",
@@ -137,6 +277,11 @@
             "description": "<p>Vous venez des profondeurs d’une jungle ou d’une forêt et avez appris à utiliser votre petite taille pour vous faufiler dans les broussailles, à travers les plantes grimpantes et pour négocier d’autres obstacles. Vous ignorez le terrain rendu difficile par les arbres, le feuillage ou les broussailles.</p>"
         },
         {
+            "id": "Scavenger Strix",
+            "name": "Strix récupérateur",
+            "description": "<p>Vos ancètres sont originaires d'une terre où la nourriture était rare et les menaces trop nombreuses. Vous êtes qualifié en Survie. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.8qebBeOJsyRIchcu]{Glaneur} comme un don supplémentaire. Votre méticulosité lorsque vous ramasser de la nourriture vous donne un bonus de circonstance de +1 aux tests de Survie pour Subsister.</p>"
+        },
+        {
             "id": "Fey-Touched Gnome",
             "name": "Gnome béni des fées",
             "description": "<p>Le sang des fées coule avec une telle pureté dans vos veines que vous êtes véritablement l’une d’elles. Vous gagnez le trait fée en plus des traits gnome et humanoïde. Choisissez un tour de magie dans la liste des sorts primordiaux. Vous pouvez Lancer ce tour de magie comme un sort inné primordial à volonté.</p>\n<p>Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur.</p>\n<p>Vous pouvez échanger ce tour de magie contre un autre choisi dans la même liste une fois par jour, en méditant pour vous réaligner avec le Premier Monde ; il s’agit d’une activité d’une durée de 10 minutes qui possède le trait concentration.</p>"
@@ -144,17 +289,17 @@
         {
             "id": "Dragonscaled Kobold",
             "name": "Kobold à écaille de dragon",
-            "description": "<p>Vos écailles sont spécifiquement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance égal à la moitié de votre niveau (minimum 1) aux dégâts du type associé avec votre <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"egpiSWBrNBb1Fmig\">Modèle draconique</a>. Doublez cette résistance contre les armes de Souffle des dragons.</p>"
+            "description": "<p>Vos écailles sont spécifiquement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance égal à la moitié de votre niveau (minimum 1) aux dégâts du type associé avec votre @Compendium[pf2e.ancestryfeatures.egpiSWBrNBb1Fmig]{Modèle draconique}. Doublez cette résistance contre les armes de Souffle des dragons.</p>"
         },
         {
             "id": "Keen Eyes",
             "name": "Yeux perçants",
-            "description": "<p>Votre vue perçante vous permet de distinguer des détails concernant des créatures masquées ou invisibles que d’autres pourraient ne pas remarquer. Vous gagnez un bonus de circonstances de +2 quand vous utilisez l’action <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"BlAOM2X92SI6HMtJ\">Chercher</a> pour trouver des créatures <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"iU0fEDdBp3rXpTMC\">Cachées</a> ou <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"VRSef5y1LmL2Hkjf\">Non détectées</a> dans un rayon de 9 m autour de vous. Quand vous prenez pour cible un adversaire <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"DmAIPqOBomZ7H95W\">Masqué</a> ou Caché, réduisez le DD du test nu à 3 pour une cible masquée ou à 9 pour une cible cachée.</p>"
+            "description": "<p>Votre vue perçante vous permet de distinguer des détails concernant des créatures masquées ou invisibles que d’autres pourraient ne pas remarquer. Vous gagnez un bonus de circonstances de +2 quand vous utilisez l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour trouver des créatures <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"iU0fEDdBp3rXpTMC\">Cachées</a> ou <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"VRSef5y1LmL2Hkjf\">Non détectées</a> dans un rayon de 9 m autour de vous. Quand vous prenez pour cible un adversaire @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} ou Caché, réduisez le DD du test nu à 3 pour une cible masquée ou à 9 pour une cible cachée.</p>"
         },
         {
             "id": "Hillock Halfling",
             "name": "Halfelin des collines",
-            "description": "<p>Habitué à la vie calme des collines, vous tirez un bénéfice particulièrement important du repos et de la relaxation, notamment quand vous profitez des joies du confort matériel. Quand vous regagnez des points de vie pendant la nuit, ajoutez-y votre niveau. Quand quelqu’un fait appel à la compétence Médecine pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"1kGNdIIhuglAjIp9\">Soigner vos blessures</a>, vous pouvez manger un en-cas pour ajouter votre niveau à la quantité de points de vie que vous gagnez grâce à ces soins.</p>"
+            "description": "<p>Habitué à la vie calme des collines, vous tirez un bénéfice particulièrement important du repos et de la relaxation, notamment quand vous profitez des joies du confort matériel. Quand vous regagnez des points de vie pendant la nuit, ajoutez-y votre niveau. Quand quelqu’un fait appel à la compétence Médecine pour @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{Soigner vos blessures}, vous pouvez manger un en-cas pour ajouter votre niveau à la quantité de points de vie que vous gagnez grâce à ces soins.</p>"
         },
         {
             "id": "Blunt Snout",
@@ -162,14 +307,29 @@
             "description": "<p>Votre museau court et le système labyrinthique de vos sinus vous rendent résistant aux phénomènes qui assaillent vos narines. Lorsque vous lancez un jet de sauvegarde contre les menaces inhalées (comme les poisons inhalés) et les effets olfactifs (comme la puanteur des xulgath), vous obtenez un degrée de réussite de mieux que le résultat obtenu sur votre jet de sauvegarde.</p>"
         },
         {
+            "id": "Fruit Leshy",
+            "name": "Léchi fruit",
+            "description": "<p>Votre corps produit continuellement des petits fruits imprégnés de magie primordiale. À l'aube de chaque jour, un nouveau fruit mûrit. Vous ou un allié pouvez retirer ce fruit par une action Interagir. Si une créature vivante qui peut se nourrir de fruit le consomme en dépensant une action Interagir au cours de l'heure suivante, elle regagne 1d8 Points de vie, plus 1d8 Points de vie supplémentaires par tranche de 2 de vos niveaux niveaux au-dessus du premier. Cet effet possède les traits guérison, nécromancie et positif.</p>"
+        },
+        {
+            "id": "Ganzi",
+            "name": "Ganzi",
+            "description": "<p>Votre sang est touché par le chaos primordial. Vous obtenez le trait ganzi en plus des traits de votre ascendance. Vous obtenez une résistance à un unique type de dégâts égal à la moitié de votre niveau ; au début de chaque jour, déterminez aléatoirement si cette résistance s'applique à l'acide, l'électricité ou aux dégâts de son. Vous obtenez aussi un bonus de circonstance de +1 aux jets de sauvegarde contre les effets qui devraient provoquer la condition @Compendium[pf2e.conditionitems.9qGBRpbX9NEwtAAr]{Contrôlé}. Vous pouvez choisir parmi les dons ganzi et les dons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>"
+        },
+        {
             "id": "Vine Leshy",
             "name": "Léchi à liane",
-            "description": "<p>Les lianes préhensiles qui sont liées à votre corps vous accorde une compétence inégalée pour Escalader. Vous n'avez pas besoin d'avoir chacune de vos mains libres pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"pprgrYQ1QnIDGZiy\">Grimper</a>. De plus, si vous obtenez un Succès à un test d'Athlétisme pour Escalader, vous considérez qu'il s'agit d'un succès critique.</p>"
+            "description": "<p>Les lianes préhensiles qui sont liées à votre corps vous accorde une compétence inégalée pour Escalader. Vous n'avez pas besoin d'avoir chacune de vos mains libres pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimper}. De plus, si vous obtenez un Succès à un test d'Athlétisme pour Grimper, vous considérez qu'il s'agit d'un succès critique.</p>"
         },
         {
             "id": "Gutsy Halfling",
             "name": "Halfelin flegmatique",
             "description": "<p>Votre lignée, réputée pour garder la tête froide et résister à la panique dans les pires situations, a donné naissance à de sages dirigeants et même quelques héros. Si vous obtenez un succès à un jet de sauvegarde contre un effet d’émotion, vous obtenez à la place un succès critique.</p>"
+        },
+        {
+            "id": "Predator Strix",
+            "name": "Strix prédateur",
+            "description": "<p>Vous provenez d'une lignée de strix avec d'exceptionnelement larges ailes et de longs ergots. Vous obtenez une attaque à mains nues d'ergots qui inflige [[/r 1d4 #tranchants]] dégâts tranchants. Vos attaques d'ergots sont dans le groupe pugilat et ont les traits agile, finesseet à mains nues.</p>"
         },
         {
             "id": "Unbreakable Goblin",
@@ -182,19 +342,29 @@
             "description": "<p>Vous descendez d'une longue lignée d'ysoki établie dans les égoûts d'une vaste métropole. Vous êtes immunisé à la maladie et à la pestilence. Chacun de vos jets de sauvegarde réussi contre une maladie ou un poison réduit son stade de 2 ou de 1 s'il s'agit d'une maladie ou d'un poison virulents. Chaque succès critique à votre jet de sauvegarde contre une maladie ou un poison réduit son stade de 3 ou de 2 pour une maladie ou un poison virulents.</p>"
         },
         {
+            "id": "Pixie",
+            "name": "Pixie",
+            "description": "<p>Vous êtes plus grand que les autres sprites. Au lieu de Minusculé, votre taille est Petite.</p>"
+        },
+        {
+            "id": "Impersonator Android",
+            "name": "Imposteur androïde",
+            "description": "<p>Votre corps a été amélioré avec des processus et une apparence dans le but de se fondre avec les humains plus facilement. Vous devenez qualifié en Duperie (ou une autre compétence si vous étiez déjà qualifié en Duperie). Vous n'avez pas besoin d'un kit de déguisement lorsque vous faites un test de Duperie pour vous déguiser en un humain. De plus, vous obtenez un bonus de circonstance de +4 pour les tests de Déguisement pour prétendre que vous êtes une version humaine de vous-meêm et non un androïde. Ce bonus ne s'applique pas aux autres tests pour vous déguiser en d'autres humains.</p>"
+        },
+        {
             "id": "Changeling",
             "name": "Changelin",
-            "description": "<p>Votre mère était une guenaude. Vos yeux vairons sont la plus visible des marques de cette parenté mais vous pourriez avoir aussi une constitution plus maigre, une peau plus pâle et des cheveux plus noirs que la majorité des membres de votre parentèle. Vous obtenez le trait changelin. Vous obtenez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou vous obtenez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage possède déjà la Vision nocturne. Vous pouvez choisir vos dons ancestraux parmi les dons des changelins et parmi les dons de l'héritage de votre autre parent lorsque vous obtenez un don ancestral.</p>"
+            "description": "<p>Votre mère était une guenaude. Vos yeux vairons sont la plus visible des marques de cette parenté mais vous pourriez avoir aussi une constitution plus maigre, une peau plus pâle et des cheveux plus noirs que la majorité des membres de votre parentèle. Vous obtenez le trait changelin. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre héritage possède déjà la Vision nocturne. Vous pouvez choisir vos dons ancestraux parmi les dons des changelins et parmi les dons de l'héritage de votre autre parent lorsque vous obtenez un don ancestral.</p>"
         },
         {
             "id": "Rock Dwarf",
             "name": "Nain des roches",
-            "description": "<p>Vos ancêtres vivaient et travaillaient au milieu des pierres vénérables qui coiffent les montagnes ou s’enfoncent sous la terre. Grâce à eux, quand vous vous dressez, vous êtes solide comme un roc. Vous gagnez un bonus de circonstances de +2 à votre DD de Vigueur ou de Réflexes contre les tentatives de vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"7blmbDrQFNfdT731\">Pousser</a> ou de vous faire un <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"ge56Lu1xXVFYUnLP\">Croc-en-jambe</a>. Ce bonus s’applique également aux jets de sauvegarde contre les sorts ou effets qui tentent de vous faire tomber <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"j91X7x0XSomq8d60\">à terre</a>.</p>\n<p>En outre, quand vous subissez un effet qui devrait vous forcer à vous déplacer de 3 m ou plus, vous ne vous déplacez que de la moitié de cette distance.</p>"
+            "description": "<p>Vos ancêtres vivaient et travaillaient au milieu des pierres vénérables qui coiffent les montagnes ou s’enfoncent sous la terre. Grâce à eux, quand vous vous dressez, vous êtes solide comme un roc. Vous gagnez un bonus de circonstances de +2 à votre DD de Vigueur ou de Réflexes contre les tentatives de vous @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} ou de vous faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe}. Ce bonus s’applique également aux jets de sauvegarde contre les sorts ou effets qui tentent de vous faire tomber @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>\n<p>En outre, quand vous subissez un effet qui devrait vous forcer à vous déplacer de 3 m ou plus, vous ne vous déplacez que de la moitié de cette distance.</p>"
         },
         {
             "id": "Jinxed Tengu",
             "name": "Tengu maudit",
-            "description": "<p>Votre lignage a été exposé à malédiction sur malédiction et maintenant elles coulent sur vos plumes comme la pluie.</p>\n<p>Si vous réussissez un jet de sauvegarde contre un effet de malédiction ou de malchance, vous obtenez un succès critique à la place.</p>\n<p>Lorsque vous devriez obtenir la condition <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"3uh1r86TzbQvosxv\">Condamné</a>, faites un test nu <a class=\"inline-roll roll\" title=\"test nu DD 17\" data-mode=\"roll\" data-flavor=\"test nu DD 17\" data-formula=\"1d20\"> 1d20</a> contre un DD 17. En cas de succès, réduisez la valeur de la condition condamné qui devrait vous affecter de 1.</p>"
+            "description": "<p>Votre lignage a été exposé à malédiction sur malédiction et maintenant elles coulent sur vos plumes comme la pluie.</p>\n<p>Si vous réussissez un jet de sauvegarde contre un effet de malédiction ou de malchance, vous obtenez un succès critique à la place.</p>\n<p>Lorsque vous devriez obtenir la condition @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné}, faites un test nu <a class=\"inline-roll roll\" title=\"test nu DD 17\" data-mode=\"roll\" data-flavor=\"test nu DD 17\" data-formula=\"1d20\"> 1d20</a> contre un DD 17. En cas de succès, réduisez la valeur de la condition condamné qui devrait vous affecter de 1.</p>"
         },
         {
             "id": "Sharp Beak",
@@ -204,7 +374,7 @@
         {
             "id": "Woodland Elf",
             "name": "Elfe des bois",
-            "description": "<p>Vous vous êtes adapté à la vie en forêt ou dans la jungle et vous savez ainsi grimper aux arbres et utiliser le feuillage à votre avantage. Quand vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"pprgrYQ1QnIDGZiy\">Escaladez</a> des arbres, des plantes grimpantes ou d’autres frondaisons, vous vous déplacez de la moitié de votre Vitesse sur un succès et de toute votre Vitesse sur un succès critique (si vous possédez le don <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"P04Hw8E6WAWARKHP\">Escalade rapide</a>, vous vous déplacez de toute votre Vitesse sur un succès). Ces effets sont inopérants si vous utilisez une Vitesse d’escalade.</p>\n<p>Vous pouvez toujours utiliser l’action <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"ust1jJSCZQUhBZIz\">Mise à l’abri</a> quand vous vous trouvez en forêt afin de trouver un abri, même si vous ne vous trouvez pas près d’un obstacle derrière lequel vous Mettre à l’abri.</p>"
+            "description": "<p>Vous vous êtes adapté à la vie en forêt ou dans la jungle et vous savez ainsi grimper aux arbres et utiliser le feuillage à votre avantage. Quand vous @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimpez} aux arbres, aux plantes grimpantes ou à d’autres frondaisons, vous vous déplacez de la moitié de votre Vitesse sur un succès et de toute votre Vitesse sur un succès critique (si vous possédez le don @Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{Escalade rapide}, vous vous déplacez de toute votre Vitesse sur un succès). Ces effets sont inopérants si vous utilisez une Vitesse d’escalade.</p>\n<p>Vous pouvez toujours utiliser l’action @Compendium[pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Mise à l’abri} quand vous vous trouvez en forêt afin de trouver un abri, même si vous ne vous trouvez pas près d’un obstacle derrière lequel vous Mettre à l’abri.</p>"
         },
         {
             "id": "Snow Goblin",
@@ -212,24 +382,54 @@
             "description": "<p>Vous vous êtes acclimaté à la vie dans les terres glacées. Votre carnation se situe entre le bleu clair et le bleu marine. Vous êtes également couvert d’une fourrure bleue. Vous gagnez une résistance au froid égale à la moitié de votre niveau (avec un minimum de 1). Vous subissez tous les effets environnementaux liés au froid comme si leur intensité était réduite d’un rang (le froid extraordinaire devient extrême, le froid extrême devient grand, etc.).</p>"
         },
         {
+            "id": "Change Shape",
+            "name": "Changer de forme",
+            "description": "<p>En tant que kitsune, vous obtenez la capcité @Compendium[pf2e.actionspf2e.wwvPiG2kET2rkSAG]{Changer de forme (Kitsune)}.</p>"
+        },
+        {
+            "id": "Earthly Wilds Kitsune",
+            "name": "Kitsune des Étendues sauvages terrestres",
+            "description": "<p>Vous être une créature du monde matériel, avec une affinité plus proches des étendues sauvages que celle de la société urbaine. Vous obtenez une attaque de mâchoires à mains nues qui inflige [[/r 1d6 #perforants]] dégâts perforants. Vos mâchoires sont dans le groupe pugilat et possèdent le trait finesse et à mains nues. Votre forme alternative est celle d'un renard, qui possède les statistique d'un sort de @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible} de niveau 1.</p>"
+        },
+        {
             "id": "Low-Light Vision",
             "name": "Vision nocturne",
-            "description": "<p>Vous pouvez voir dans la lumière faible comme s’il s’agissait de lumière vive. Vous ignorez ainsi l’état <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"DmAIPqOBomZ7H95W\">Masqué</a> dû à la lumière faible.</p>"
+            "description": "<p>Vous pouvez voir dans la lumière faible comme s’il s’agissait de lumière vive. Vous ignorez ainsi l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} dû à la lumière faible.</p>"
         },
         {
             "id": "Tailed Goblin",
             "name": "Gobelin à queue",
-            "description": "<p>Vous disposez d'une queue puissante, sans doute parce que vous descendez d'une communauté de singes gobelins. Vous bénéficiez d'un bonus de circonstance de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader}, vous obtenez @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant grimpeur} comme don supplémentaire et vous réduisez de une le nombre de mains libres nécessaires pour Escalader ou faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe}.</p>"
+            "description": "<p>Vous disposez d'une queue puissante, sans doute parce que vous descendez d'une communauté de singes gobelins. Vous bénéficiez d'un bonus de circonstance de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader}, vous obtenez @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur} comme don supplémentaire et vous réduisez de une le nombre de mains libres nécessaires pour Escalader ou faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe}.</p>"
+        },
+        {
+            "id": "Celestial Envoy Kitsune",
+            "name": "Kitsune Envoyé céleste",
+            "description": "<p>Que ce soit par la gra^ce de Daikitsu ou d'ancètres croyants, vous avez un lien fort avec le divin, vous accordant certaines protections. Vous obtenez la réaction @Compendium[pf2e.actionspf2e.Aq2mXT2hLlstFL5C]{Invoquer le privilège céleste}. Votre forme alternative est celle d'un humanoïde Moyen d'une ascendance courante prévalente où vous avez grandi (typiquement un humain), appelée une forme sans queue.</p>"
+        },
+        {
+            "id": "Suli",
+            "name": "Suli",
+            "description": "<p>Vous descendez d'un jann ou incarnez autrement une dichotomie des forces élémentaires planaires opposés. Vous obtenez le trait suli en plus des traits de votre ascendance. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance avait déjà la vision nocturne. Vous pouvez choisir parmi les dons des sulis et les dons de votre ascendance lorssque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons de descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don d'ascendance et vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons d'ascendance de descendants de génie en plus de ceux qui sont accessibles du fait de votre héritage spécifique et de votre ascendance.</p>"
+        },
+        {
+            "id": "Tactile Azarketi",
+            "name": "Azarketi tactile",
+            "description": "<p>Votre peau peut détecter les moindres changements dans les courants océaniques. Vous obtenez un sens imprécis d'une portée de 9 m vous permettant de percevoir les déplacements dans l'eau qui vous entoure. Vous obtenez aussi un bonus de circonstance de +1 aux tests de Survie pour @Compendium[pf2e.actionspf2e.fJImDBQfqfjKJOhk]{Vous orienter} dans les environnements aquatiques.</p>"
         },
         {
             "id": "Frilled Lizardfolk",
             "name": "Homme-lézard à colerette",
-            "description": "<p>Vous pouvez gonfler votre colerette au tour du cou et tordre votre épine dorsale pour Démoraliser vos ennemis. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous essayez de démoraliser une créature qui ne comprend pas votre langue. Vous obtenez également l'action @Compendium[pf2e.actionspf2e.W4M8L9WepGLamlHs]{Approche menaçante}.</p>"
+            "description": "<p>Vous pouvez gonfler votre colerette autour du cou et tordre votre épine dorsale pour Démoraliser vos ennemis. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous essayez de démoraliser une créature qui ne comprend pas votre langue. Vous obtenez également l'action @Compendium[pf2e.actionspf2e.W4M8L9WepGLamlHs]{Approche menaçante}.</p>"
+        },
+        {
+            "id": "Artisan Android",
+            "name": "Artisan androïde",
+            "description": "<p>Votre corps a été conçu por pouvoir créer des œuvres d'art, des outils complexes ou pour assurer l'entretien des machineries avancées. Vous devenez qualifié en Artisanat (ou une autre compétence si vous êtes déjà qualifié en Artisanat) et vous obtenez le don de compétence Artisanat spécialisé dans une spécialité de votre choix :</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.feats-srd.XVnpntqV6w94PoOb]{Artisanat spécialisé (Alchimie)}</li>\n<li>@Compendium[pf2e.feats-srd.59FN13nU6agKT4oa]{Artisanat spécialisé (Confection de livres)}</li>\n<li>@Compendium[pf2e.feats-srd.tbIMWrIRI9P9cubM]{Artisanat spécialisé (Construction navale)}</li>\n<li>@Compendium[pf2e.feats-srd.B06QKNvKYqxYGwPU]{Artisanat spécialisé (Couture)}</li>\n<li>@Compendium[pf2e.feats-srd.YvoiGWZhtbHH6NMF]{Artisanat spécialisé (Ébénisterie)}</li>\n<li>@Compendium[pf2e.feats-srd.S8mPrjJjuObotmjZ]{Artisanat spécialisé (Forge)}</li>\n<li>@Compendium[pf2e.feats-srd.WddEyALYHfpeUjZB]{Artisanat spécialisé (Maroquinerie)}</li>\n<li>@Compendium[pf2e.feats-srd.8XC2xJ7Y1xlr6Xor]{Artisanat spécialisé (Poterie)}</li>\n<li>@Compendium[pf2e.feats-srd.22HUfCajd6IkATOR]{Artisanat spécialisé (Sens artistique)}</li>\n<li>@Compendium[pf2e.feats-srd.TWkwy0uQvTGlgEFG]{Artisanat spécialisé (Taille de pierre)}</li>\n<li>@Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{Artisanat spécialisé (Tissage)}</li>\n<li>@Compendium[pf2e.feats-srd.YmzLnj4ojlf9INNP]{Artisanat spécialisé (Verrerie)}</li>\n</ul>"
         },
         {
             "id": "Spellscale Kobold",
             "name": "Kobold écaille de sort",
-            "description": "<p>Une trace de magie draconique coule à travers vos veines. Choisissez un tour de magie de la liste de sort arcanique. Vous pouvez @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer ce sort} comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur. Vous devenez qualifié en jets d'attaque de sorts arcanique et en DD de sort et votre caractéristique clé est le Charisme.</p>"
+            "description": "<p>Une trace de magie draconique coule à travers vos veines. Choisissez un tour de magie de la liste de sort arcanique. Vous pouvez @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer ce sort} comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur. Vous devenez qualifié en jets d'attaque de sorts arcaniques et en DD de sort et votre caractéristique essentielle est le Charisme.</p>"
         },
         {
             "id": "Winter Catfolk",
@@ -242,14 +442,24 @@
             "description": "<p>Vos ancètres ont vécu plus profondément que les autres hommes-rats, vous faisant bénéficier de leur capacité de voir dans le noir. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
         },
         {
+            "id": "Wavediver Tengu",
+            "name": "Tengu Plongevague",
+            "description": "<p>Vous êtes l'un des rares tengus qui peut fendre les vagues comme un oiseau fend les airs et vous rôdez souvent dans les rivières ou les océans où peu vous attendent. Vous obtenez une vitesse de nage de 4,5 m.</p>"
+        },
+        {
             "id": "Nine Lives Catfolk",
             "name": "Homme-félin aux neuf vies",
-            "description": "<p>Votre famille a toujours semblé se remettre d'un désastre pas tant par le biais d'une nature robuste ou d'une compétence particulière  physical mais davantage par la chance pure. Les autres hommes-félins murmurent que vous possédez neuf vies.</p>\n<p>Si vous êtes réduit à 0 Points de vie après un coup critique sur un test d'attaque vous devenez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"yZRUzMqrMmfLu0V1\">Mourant</a> 1 au lieu de Mourant 2.</p>"
+            "description": "<p>Votre famille a toujours semblé se remettre d'un désastre pas tant par le biais d'une nature robuste ou d'une compétence particulière  physical mais davantage par la chance pure. Les autres hommes-félins murmurent que vous possédez neuf vies.</p>\n<p>Si vous êtes réduit à 0 Points de vie après un coup critique sur un test d'attaque vous devenez @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} 1 au lieu de Mourant 2.</p>"
+        },
+        {
+            "id": "Woodstalker Lizardfolk",
+            "name": "Homme-lézard Arpenteur sylvestre",
+            "description": "<p>Vous vous déplacez facilement au travers des forêts épaisses et de la jungle en utilisant chaque branche ou chaque buisson. Vous pouvez toujours utiliser l'action @Compendium[pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Mise à l'abri} lorsque vous êtes n forêt ou dans la jungle pour vous obtenir un abri, même si vous n'êtes pas proche d'un obstacle qui vous permettrait normalement de vous Mettre à l'abri derrière. Vous obtenez le don @Compendium[pf2e.feats-srd.beyw5bdA5hkQbmaG]{Traqueur de terrain} même si vous n'êtes pas qualifié en Discrétion et vous devez choisir sous-bois comme votre terrain.</p>"
         },
         {
             "id": "Cavern Elf",
             "name": "Elfe des cavernes",
-            "description": "<p>Vous êtes né ou avez passé de nombreuses années dans des tunnels souterrains ou des cavernes, dans un environnement très sombre. Vous gagnez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a>.</p>"
+            "description": "<p>Vous êtes né ou avez passé de nombreuses années dans des tunnels souterrains ou des cavernes, dans un environnement très sombre. Vous gagnez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
         },
         {
             "id": "Stormtossed Tengu",
@@ -259,12 +469,22 @@
         {
             "id": "Claws",
             "name": "Griffes",
-            "description": "<p>Vos griffes aiguisées vous offrent une alternative aux poings que d'autres humanoïdes utilisent pour se battre. Vous disposez d'une attaque à mains nues de griffe qui inflige <a class=\"inline-roll roll\" title=\"slashing\" data-mode=\"roll\" data-flavor=\"slashing\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a> dégâts tranchants et possède les traits agile et finesse.</p>"
+            "description": "<p>Vos griffes aiguisées vous offrent une alternative aux poings que d'autres humanoïdes utilisent pour se battre. Vous disposez d'une attaque à mains nues de griffe qui inflige <a class=\"inline-roll roll\" title=\"slashing\" data-mode=\"roll\" data-flavor=\"slashing\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i>1d4</a> dégâts tranchants et possède les traits agile et finesse.</p>"
+        },
+        {
+            "id": "Bright Fetchling",
+            "name": "Fetchelin lumineux",
+            "description": "<p>Votre corps est la preuve que l'ombre ne peut exister sans lumière. Peut-être que vos yeux brillent plus fort ou que vos veines émettent à l'occasion de la lumière. Vous émettez une lumière faible dans les 1,5 m de vous. Vous pouvez activer ou supprimer cette faculté par une action qui possède le trait concentration. De plus, vous pouvez forcer des fragments de votre ombre à briller et à lancer @Compendium[pf2e.spells-srd.kl2q6JvBZwed4B6v]{Lumières dansantes} et @Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]{Lumière} comme des tours de magie occultes innés. Les tours de magie sont intensifiés à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>"
         },
         {
             "id": "Half-Elf",
             "name": "Demi-elfe",
-            "description": "<p>Soit l’un de vos parents était un elfe, soit les deux étaient des demi-elfes. Vos oreilles pointues et d’autres signes trahissent votre ascendance elfique. Vous gagnez le trait elfe et le pouvoir <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a>. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des elfes, des demi-elfes et des humains.</p>"
+            "description": "<p>Soit l’un de vos parents était un elfe, soit les deux étaient des demi-elfes. Vos oreilles pointues et d’autres signes trahissent votre ascendance elfique. Vous gagnez le trait elfe et le pouvoir @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne}. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des elfes, des demi-elfes et des humains.</p>"
+        },
+        {
+            "id": "Deep Fetchling",
+            "name": "Fetchelin de profondeurs",
+            "description": "<p>Vos prédécesseurs se sont enfoncés au plus profond du Plan de l'Ombre, dans les régions les plus dangereuses. Vous pouvez projeter un ombre plus dense, avoir un pouls plus lent ou vous trouver à l'aise en embrassant l'obscurité. Vous obtenez une résistance aux dégâts de froid ou négatifs égale à la moitié de votre niveau (minimum 1), choisi lorsque vous obtenez cet héritage.</p>"
         },
         {
             "id": "Desert Rat",
@@ -272,24 +492,39 @@
             "description": "<p>Vous êtes natifs des plaines arides et avez vécu en voyageant sur les routes. Vous avez une constitution plus mince que les autres hommes-rats avec des membres plus longs et une fourrure plus rase. Si vous avez vos deux mains libres, vous pouvez augmenter votre Vitesse à 9 m pour courir sur vos quatre pattes. De plus les effets environnementaux liés à la châleur sont d'un degré moins extrême pour vous et vous pouvez aller 10 fois plus loin que la normale avant d'être affecté par la faim ou la soif. Quoi qu'il en soit, à moins que vous portiez des vêtements adaptés ou que vous ne soyez abrité, les effets de frois liés à l'environnement sont d'un degré plus extrême pour ce qui vous concerne.</p>"
         },
         {
+            "id": "Steelskin Hobgoblin",
+            "name": "Hobgobelin Peaud'acier",
+            "description": "<p>Lorsque vous êtes coupé ou brûlé, votre corps répond en formant des cals costads et flexibles sur le lieu de la blessure. Au fil du temps, cela rend les sections les plus vulnérables de votre corps plus durs et plus résistant aux dégâts. Nombre d'hobgobelins Peaud'acier utilisent volontairement des lames et des flammes pour se scarifier elles-même de  schémas intriqués, bien que ce ne soit pas universel. Votre test nu pour récupérer des dégâts physiques persistants (incluant le saignement), d'énergie ou des dégâts de poison est un DD 13 (au lieu d'un DD 15) ou un DD 8 lorsque l'assistance fournie est particulièrement efficace.</p>"
+        },
+        {
+            "id": "Nightglider Strix",
+            "name": "Strix Planenuit",
+            "description": "<p>YVous êtes un oiseau nocturne dédié, conservant la veille et cassant dans les environnements les plus dépourvus de lumière. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
+        },
+        {
             "id": "Nomadic Halfling",
             "name": "Halfelin nomade",
-            "description": "<p>Vos ancêtres parcourent les routes depuis des générations, sans jamais avoir ressenti la nécessité de s’installer quelque part. Vous gagnez deux langues de votre choix parmi les langues courantes et peu courantes auxquelles vous avez accès et, à chaque fois que vous choisissez le don <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"P9HCz0uR6xPHuw72\">Polyglotte</a>, vous gagnez une langue supplémentaire.</p>"
+            "description": "<p>Vos ancêtres parcourent les routes depuis des générations, sans jamais avoir ressenti la nécessité de s’installer quelque part. Vous gagnez deux langues de votre choix parmi les langues courantes et peu courantes auxquelles vous avez accès et, à chaque fois que vous choisissez le don @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte}, vous gagnez une langue supplémentaire.</p>"
+        },
+        {
+            "id": "Undine",
+            "name": "Ondin",
+            "description": "<p>Un ancètre élémentaire d'eau influence votre lignage. Vous obtenez le trait ondin, en plus des traits de votre ascendance. Vous obtenez une vitesse de Nage de 3 m et le trait amphibie. Comme toutes les créatures avec le trait amphibie, vous pouvez respirer l'air et l'eau. Vous pouvez choisir les dons d'ondin et les dons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons de descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don d'ascendance et vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons d'ascendance de descendants de génie en plus de ceux qui sont accessibles du fait de votre héritage spécifique et de votre ascendance.</p>"
         },
         {
             "id": "Treedweller Goblin",
             "name": "Gobelin arboricole",
-            "description": "<p>Vous vous êtes adapté particulièrement bien en vivant dans les environnements forestiers. tant que vous vous trouvez dans une forêt ou une jungle, vous obtenez un bonus de circonstance de +2 aux tests de Discrétion pour vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"XMcnh4cSI32tljXa\">Cachez</a> et <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"VMozDqMMuK5kpoX4\">Être furtif</a>, aux tests de Survie pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"49y9Ec4bDii8pcD3\">Subsister</a> et à votre DD de Survie pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"SB7cMECVtE06kByk\">Couvrir vos traces</a>.</p>"
+            "description": "<p>Vous vous êtes adapté particulièrement bien en vivant dans les environnements forestiers. tant que vous vous trouvez dans une forêt ou une jungle, vous obtenez un bonus de circonstance de +2 aux tests de Discrétion pour vous @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Cachez} et @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}, aux tests de Survie pour @Compendium[pf2e.actionspf2e.49y9Ec4bDii8pcD3]{Subsister} et à votre DD de Survie pour @Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]{Couvrir vos traces}.</p>"
         },
         {
             "id": "Longsnout Rat",
             "name": "Rat à long museau",
-            "description": "<p>Le long museau qui caractérise votre famille vous donne un sens de l'odorat plus aiguisés que la plupart des hommes-rats.</p>\n<p>Vous obtenez un sens de l'odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre sens de l'odorat pour déterminer où se trouve une créature. Le MJ doublera vraisemblablement la portée de ce sens si vous êtes sous le vent par rapport à la créature ou pourra la diviser par deux lorsque vous êtes contre le vent.</p>\n<p>De plus, vous obtenez un bonus de circonstance de +2 aux tests de Perception pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"BlAOM2X92SI6HMtJ\">Chercher</a> une créature ou un objet dans la portée de votre odorat.</p>"
+            "description": "<p>Le long museau qui caractérise votre famille vous donne un sens de l'odorat plus aiguisés que la plupart des hommes-rats.</p>\n<p>Vous obtenez un sens de l'odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre sens de l'odorat pour déterminer où se trouve une créature. Le MJ doublera vraisemblablement la portée de ce sens si vous êtes sous le vent par rapport à la créature ou pourra la diviser par deux lorsque vous êtes contre le vent.</p>\n<p>De plus, vous obtenez un bonus de circonstance de +2 aux tests de Perception pour @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} une créature ou un objet dans la portée de votre odorat.</p>"
         },
         {
             "id": "Elfbane Hobgoblin",
             "name": "Hobgobelin fléau elfique",
-            "description": "<p>Les Hobgobelins furent conçus il y a longtemps à partir des gobelins féconds mais peu fiables, pour servir d'armée contre les elfes. Bien que les elfes aient libéré les hobgobelins de leur lien, certains hobgobelins ont conservé leur résistance ancestrale à la magie, à laquelle ils se réfèrent comme la “magie elfique”.</p>\n<p>Vous obtenez la réaction <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"On5CQjX4euWqToly\">Résister à la magie elfique</a>.</p>"
+            "description": "<p>Les Hobgobelins furent conçus il y a longtemps à partir des gobelins féconds mais peu fiables, pour servir d'armée contre les elfes. Bien que les elfes aient libéré les hobgobelins de leur lien, certains hobgobelins ont conservé leur résistance ancestrale à la magie, à laquelle ils se réfèrent comme la “magie elfique”.</p>\n<p>Vous obtenez la réaction @Compendium[pf2e.actionspf2e.On5CQjX4euWqToly]{Résister à la magie elfique}.</p>"
         },
         {
             "id": "Badlands Orc",
@@ -299,7 +534,7 @@
         {
             "id": "Seer Elf",
             "name": "Elfe visionnaire",
-            "description": "<p>Vous avez le pouvoir inné de détecter et comprendre les phénomènes magiques. Vous pouvez lancer le tour de magie <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.spells-srd\" data-id=\"gpzpAAAJ1Lza2JVl\">Détection de la magie</a> comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur</p>\n<p>En outre, vous gagnez un bonus de circonstance de +1 à vos tests pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"eReSHVEPCsdkSL4G\">Identifier la magie</a> et <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"d9gbpiQjChYDYA2L\">Déchiffrer un texte</a> de nature magique. Ces actions font généralement appel aux compétences Arcanes, Nature, Occultisme ou Religion.</p>"
+            "description": "<p>Vous avez le pouvoir inné de détecter et comprendre les phénomènes magiques. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie} comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur.</p>\n<p>En outre, vous gagnez un bonus de circonstance de +1 à vos tests pour @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifier la magie} et @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Déchiffrer un texte} de nature magique. Ces actions font généralement appel aux compétences Arcanes, Nature, Occultisme ou Religion.</p>"
         },
         {
             "id": "Bloodhound Shoony",
@@ -312,9 +547,14 @@
             "description": "<p>Vous voyez dans les ténèbres et dans la lumière faible aussi bien que dans la lumière vive. Par contre, quand vous êtes dans les ténèbres, vous voyez en noir et blanc.</p>"
         },
         {
+            "id": "Sharp-Eared Catfolk",
+            "name": "Homme-félin aux oreilles pointues",
+            "description": "<p>Vous êtes né avec des grandes oreilles expressives qui se meuvent en fonction de voter humeur et se redressent au moindre son inattendu. Vous obtenez un bonus de circonstance de +2 pour localiser les créatures Non détectées que vous pourriez entendre dans les 9 m avec une action Chercher. Tant que vous êtes conscient d'une créature via le son, une fois par round, vos oreilles peuvent vous aider à @Compendium[pf2e.actionspf2e.sn2hIy1iIJX9Vpgj]{Signaler} la créature à tous les alliés par une action libre.</p>"
+        },
+        {
             "id": "Twilight Halfling",
             "name": "Halfelin du crépuscule",
-            "description": "<p>Vos ancêtres profitaient du couvert du crépuscule pour accomplir de nombreuses actions, bonnes ou mauvaises, en secret et ils ont fini par développer la capacité de voir dans la lumière crépusculaire avec plus d’acuité que les autres halfelins. Vous gagnez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">vision nocturne</a>.</p>"
+            "description": "<p>Vos ancêtres profitaient du couvert du crépuscule pour accomplir de nombreuses actions, bonnes ou mauvaises, en secret et ils ont fini par développer la capacité de voir dans la lumière crépusculaire avec plus d’acuité que les autres halfelins. Vous gagnez @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne}.</p>"
         },
         {
             "id": "Hunting Catfolk",
@@ -327,6 +567,11 @@
             "description": "<p>Le pouvoir de l'hiver coule à travers vous. Cette ascendance est plus commune parmi les Jadwiga d'Irrisen, car ils descendent de Baba Yaga et de certains Erutaki touchés par les esprits.</p>\n<p>Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1) et vous traitez les effets liés à un environnement froid comme si celui-ci était d'un niveau moins extrême (incroyablement froid devient extrême, froid extrême devient sévère, etc).</p>"
         },
         {
+            "id": "Tunnelflood Kobold",
+            "name": "Kobold Tunnelinondé",
+            "description": "<p>Vous avez grandi dans un terrier traversé de passages sous l'eau, qu'ils soient naturels ou aient été creusés. Vous obtenez une Vitesse de Nage de 4,5 m.</p>"
+        },
+        {
             "id": "Draconic Exemplar",
             "name": "Modèle draconique",
             "description": "<p>Vous tirez de votre modèle draconique des pouvoirs mineurs. Choisissez un type de dragon chromatique ou métallique comme étant votre modèle. Cela détermine la couleur de vos écailles et votre apparence. Les dragons voient parfois plus favorablement ceux des kobolds qui leur ressemblent à la discrétion du MJ. Votre modèle peut aussi déterminer les détails d'autres capacités que vous possédez, en utilisant la table des modèles draconiques ci-après.</p>\n<h3><strong>Table des Modèles draconiques</strong></h3>\n<table style=\"width: 365px; height: 170px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 34px;\">\n<td style=\"width: 61px; height: 34px;\"><strong>Dragon</strong></td>\n<td style=\"width: 104px; height: 34px;\"><strong>Forme du Souffle</strong></td>\n<td style=\"width: 86px; height: 34px;\"><strong>Type de Dégâts</strong></td>\n<td style=\"width: 101px; height: 34px;\"><strong>Jet de sauvegarde</strong></td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Noir</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Acide</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Bleu</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Électricité</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Vert</td>\n<td style=\"width: 104px; height: 17px;\">Cône</td>\n<td style=\"width: 86px; height: 17px;\">Poison</td>\n<td style=\"width: 101px; height: 17px;\">Vigueur</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Rouge</td>\n<td style=\"width: 104px; height: 17px;\">Cône</td>\n<td style=\"width: 86px; height: 17px;\">Feu</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Blanc</td>\n<td style=\"width: 104px; height: 17px;\">Cône</td>\n<td style=\"width: 86px; height: 17px;\">Froid</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Airain</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Feu</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Bronze</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Électricité</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Cuivre</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Acide</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr>\n<td style=\"width: 61px;\">Or</td>\n<td style=\"width: 104px;\">Cône</td>\n<td style=\"width: 86px;\">Feu</td>\n<td style=\"width: 101px;\">Réflexes</td>\n</tr>\n<tr>\n<td style=\"width: 61px;\">Argent</td>\n<td style=\"width: 104px;\">Cône</td>\n<td style=\"width: 86px;\">Froid</td>\n<td style=\"width: 101px;\">Réflexes</td>\n</tr>\n</tbody>\n</table>"
@@ -334,7 +579,12 @@
         {
             "id": "Anvil Dwarf",
             "name": "Nain de la forge",
-            "description": "<p>Vous êtes le descendant d'un artisan réputé et possédez votre propre incroyable talent. Les autres nains pourraient considérer que c'est la bénédiction de vos ancètres ou du P^ère de la forge lui-même, en fonction de l'endroit où vous avez été élevé. Vous êtes qualifié en Artisanat (ou une autre compétence si vous étiez déjà qualifié en Artisanat) et vous obtenez le don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"RwEZCpQEN90Mkrvm\">Artisanat spécialisé</a>, sauf que vous pouvez choisir deux spécialités à la place d'une seule.</p>"
+            "description": "<p>Vous êtes le descendant d'un artisan réputé et possédez votre propre incroyable talent. Les autres nains pourraient considérer que c'est la bénédiction de vos ancètres ou du Père de la forge lui-même, en fonction de l'endroit où vous avez été élevé. Vous êtes qualifié en Artisanat (ou une autre compétence si vous étiez déjà qualifié en Artisanat) et vous obtenez le don de compétence Artisanat spécialisé, sauf que vous pouvez choisir deux spécialités à la place d'une seule.</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.feats-srd.XVnpntqV6w94PoOb]{Artisanat spécialisé (Alchimie)}</li>\n<li>@Compendium[pf2e.feats-srd.59FN13nU6agKT4oa]{Artisanat spécialisé (Confection de livres)}</li>\n<li>@Compendium[pf2e.feats-srd.tbIMWrIRI9P9cubM]{Artisanat spécialisé (Construction navale)}</li>\n<li>@Compendium[pf2e.feats-srd.B06QKNvKYqxYGwPU]{Artisanat spécialisé (Couture)}</li>\n<li>@Compendium[pf2e.feats-srd.YvoiGWZhtbHH6NMF]{Artisanat spécialisé (Ébénisterie)}</li>\n<li>@Compendium[pf2e.feats-srd.S8mPrjJjuObotmjZ]{Artisanat spécialisé (Forge)}</li>\n<li>@Compendium[pf2e.feats-srd.WddEyALYHfpeUjZB]{Artisanat spécialisé (Maroquinerie)}</li>\n<li>@Compendium[pf2e.feats-srd.8XC2xJ7Y1xlr6Xor]{Artisanat spécialisé (Poterie)}</li>\n<li>@Compendium[pf2e.feats-srd.22HUfCajd6IkATOR]{Artisanat spécialisé (Sens artistique)}</li>\n<li>@Compendium[pf2e.feats-srd.TWkwy0uQvTGlgEFG]{Artisanat spécialisé (Taille de pierre)}</li>\n<li>@Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{Artisanat spécialisé (Tissage)}</li>\n<li>@Compendium[pf2e.feats-srd.YmzLnj4ojlf9INNP]{Artisanat spécialisé (Verrerie)}</li>\n</ul>"
+        },
+        {
+            "id": "Draxie",
+            "name": "Draxie",
+            "description": "<p>Vous êtes affiliée au dragons féériques, remontant votre héritage à la mort du plus puissant dragon féérique du Premier Monde. Vous obtenez une télépathie de contact, vous permettant de communiquer silencieusement et seulement mentalement avec toute créature que vous touchez tant que vous partagez une langue commune.</p>"
         },
         {
             "id": "Death Warden Dwarf",
@@ -344,17 +594,32 @@
         {
             "id": "Deep Orc",
             "name": "Orque des profondeurs",
-            "description": "<p>Vos mains calleuses et vos yeux rouges évoquent une vie passée dans les ténèbres profondes des cavernes des montagnes, où vous avez appris à combattre sur les falaises rocheuses et à survivre avec un minimum de ressources. Vous obtenez le don <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"4tTkRyOQ0VuRBac3\">Expertise du terrain</a> pour les souterrains et de don de compétence <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"09PurtIanNUPfNRq\">Combattant-grimpeur</a>.</p>"
+            "description": "<p>Vos mains calleuses et vos yeux rouges évoquent une vie passée dans les ténèbres profondes des cavernes des montagnes, où vous avez appris à combattre sur les falaises rocheuses et à survivre avec un minimum de ressources. Vous obtenez le don @Compendium[pf2e.feats-srd.4tTkRyOQ0VuRBac3]{Expertise du terrain} pour les souterrains et de don de compétence @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur}.</p>"
+        },
+        {
+            "id": "Seaweed Leshy",
+            "name": "Léchi algue",
+            "description": "<p>Votre corps est constitué d'algues entrelacées et vous vous sentez aussi à l'aise sous l'eau qu'à la surface. Vous obtenez une vitesse de Nage de 6 m et vous pouvez toujours respirer sous l'eau. quoiqu'il en soit, votre Vitesse au sol est réduite de 1,5 m (à 6 m pour la plupart des léchis).</p>"
+        },
+        {
+            "id": "Ifrit",
+            "name": "Éfrit",
+            "description": "<p>Vous descendez des élémentaires de feu ou portez la marque des Sphères intérieures et vos traits illustrent l'influence que les élémentaires du feu ont sur vous. Vous obtenez le trai éfrit, en plus des traits de votre ascendance. Vous obtenez la résistance au feu égal à la moitié de votre niveau (minimum 1) et vous traites les effets environnementaux de chaleur comme s'ils étaient d'un cran moins sévère (la chaleur incroyable devient extrême, la chaleur extrême devient sévère, etc). Vous pouvez choisir parmi les dons d'éfrit et lesdons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons de descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don d'ascendance et vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons d'ascendance de descendants de génie en plus de ceux qui sont accessibles du fait de votre héritage spécifique et de votre ascendance.</p>"
         },
         {
             "id": "Fishseeker Shoony",
             "name": "Shoony Traquepoisson",
-            "description": "<p>Vous êtes issu d'une longue lignée de ptêcheurs et avez hérité des réflexes rapides nécessaires pour ferrer et ramener  les grosses prises. Si vous obtene un succès sur une tentative de <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"3yoajuKjwHZ9ApUY\">Se raccrocher in extremis</a>, vous obtenez un Succès critique à la place ; si vous obtenez un échac critique, vous obtenez un échec à la place. Une créature qui obtient un échec sur un test pour vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"Dt6B1slsBy8ipJu9\">Désarmer</a> obtient un échec critique à la place.</p>"
+            "description": "<p>Vous êtes issu d'une longue lignée de ptêcheurs et avez hérité des réflexes rapides nécessaires pour ferrer et ramener  les grosses prises. Si vous obtene un succès sur une tentative de @Compendium[pf2e.actionspf2e.3yoajuKjwHZ9ApUY]{Se raccrocher in extremis}, vous obtenez un Succès critique à la place ; si vous obtenez un échac critique, vous obtenez un échec à la place. Une créature qui obtient un échec sur un test pour vous @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer} obtient un échec critique à la place.</p>"
+        },
+        {
+            "id": "Oread",
+            "name": "Oréade",
+            "description": "<p>Un ancètre élémentaire d'air a influencé votre lignage et vos traits souligne cette connection planaire élémentaire. Vous pourriez avoir une peau ou des cheveux d'une teinte cristalline ou métallique, une chair rugueuse et pierreuse ou des yeux scintillants comme des pierres précieuses. Vous obtenez le trait oréade, en plus des traits de votre asccendance. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance possède déjà vision nocturne. Vous pouvez choisir parmi les dons des oréades et les dons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons de descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don d'ascendance et vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons d'ascendance de descendants de génie en plus de ceux qui sont accessibles du fait de votre héritage spécifique et de votre ascendance.</p>"
         },
         {
             "id": "Fungus Leshy",
             "name": "Léchi fongique",
-            "description": "<p>Votre corps a été fait de champignon qui grandit dans l'ombre des grottes et des arbres et vous êtes chez vous dans les cavernes sombres et les terriers. Vous obtenez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a>.</p>"
+            "description": "<p>Votre corps a été fait de champignon qui grandit dans l'ombre des grottes et des arbres et vous êtes chez vous dans les cavernes sombres et les terriers. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
         },
         {
             "id": "Leaf Leshy",
@@ -364,7 +629,12 @@
         {
             "id": "Thickcoat Shoony",
             "name": "Shoony à fourrure",
-            "description": "<p>Vous êtes une espèce rare de shoony qui vient des climats les plus froids.</p>\n<p>Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1) et vous traitez les effets d'un environnement froid comme s'ils étaient d'un degré moins extrême (un froid incroyable devient extrême, un froid extrême devient sévère, etc). Vous n'avez pas besoin d'obtenir un un succès à un test nu pour cibler une créature si elle n'est <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"DmAIPqOBomZ7H95W\">masquée</a> que par la neige. À moins que vous ne portiez un équipement protecteur ou que vous ne vous mettiez à l'abri, les effets environnementaux liés à la chaleur sont d'un degré plus extrême pour ce qui vous concerne.</p>"
+            "description": "<p>Vous êtes une espèce rare de shoony qui vient des climats les plus froids.</p>\n<p>Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1) et vous traitez les effets d'un environnement froid comme s'ils étaient d'un degré moins extrême (un froid incroyable devient extrême, un froid extrême devient sévère, etc).</p>\n<p>Vous n'avez pas besoin d'obtenir un succès à un test nu pour cibler une créature si elle n'est @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} que par la neige. À moins que vous ne portiez un équipement protecteur ou que vous ne vous mettiez à l'abri, les effets environnementaux liés à la chaleur sont d'un degré plus extrême pour ce qui vous concerne.</p>"
+        },
+        {
+            "id": "Shapewrought Fleshwarp",
+            "name": "Distordu forméforgé",
+            "description": "<p>Une victime de distorsion de la chair, vous avez des chances de porter de la chair flasque, des éperons osseux ou des traits de créatures non humaines qui sortent de votrepeau. Vous n'avez jamais réussi à surmonter le processus psychique de votre transformation en une force. Vous obtenez une résistance aux dégâts mentaux égale à la moitié de votre niveau (minimum 1).</p>"
         },
         {
             "id": "Strong-Blooded Dwarf",
@@ -374,17 +644,22 @@
         {
             "id": "Irongut Goblin",
             "name": "Gobelin Boyaud’fer",
-            "description": "<p>Vous pouvez vous nourrir d’aliments que la plupart des gens considéreraient comme avariés. Quand vous vous trouvez dans une agglomération, vous pouvez vous nourrir convenablement avec des repas peu consistants aussi longtemps que vous avez accès à des ordures et sans avoir à vous lancer dans l’activité d’intermède Subsister. Vous pouvez manger et boire même quand vous êtes <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"fesd1n5eVhpCSS18\">Malade</a>.</p>\n<p>Vous gagnez un bonus de circonstances de +2 à vos jets de sauvegarde contre les afflictions, contre l’état malade, et pour guérir de l’état malade. Quand vous obtenez un succès sur un jet de Vigueur affecté par ce bonus, celui-ci est transformé en succès critique. Vous ne bénéficiez de ces avantages que quand l’affliction ou l’état qui vous affecte est le résultat de quelque chose que vous avez ingéré.</p>"
+            "description": "<p>Vous pouvez vous nourrir d’aliments que la plupart des gens considéreraient comme avariés. Quand vous vous trouvez dans une agglomération, vous pouvez vous nourrir convenablement avec des repas peu consistants aussi longtemps que vous avez accès à des ordures et sans avoir à vous lancer dans l’activité d’intermède Subsister. Vous pouvez manger et boire même quand vous êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade}.</p>\n<p>Vous gagnez un bonus de circonstances de +2 à vos jets de sauvegarde contre les afflictions, contre l’état malade, et pour guérir de l’état malade. Quand vous obtenez un succès sur un jet de Vigueur affecté par ce bonus, celui-ci est transformé en succès critique. Vous ne bénéficiez de ces avantages que quand l’affliction ou l’état qui vous affecte est le résultat de quelque chose que vous avez ingéré.</p>"
+        },
+        {
+            "id": "Polyglot Android",
+            "name": "Androïde polyglotte",
+            "description": "<p>Vous avez été préprogrammé avec une multitude de compétences linguistiques, probablement pour agir comme un traducteur. Vous apprenez deux nouvelles langues, choisies parmi les langages courants et dans toutes les langues peu courantes auxquels vous avez accès. Ces langues prennent la même forme (signée ou parlée) que vos autres langues. Si vous choisissez le don @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte}, vous apprenez trois nouvelles langues au lieu de deux.</p>"
         },
         {
             "id": "Land on Your Feet",
             "name": "Sur vos pattes",
-            "description": "<p>Lorsque vous chutez, vous ne subissez que la moitié des dégâts normaux et vous n'atterrissez pas <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"j91X7x0XSomq8d60\">À terre</a>.</p>"
+            "description": "<p>Lorsque vous chutez, vous ne subissez que la moitié des dégâts normaux et vous n'atterrissez pas @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
         },
         {
             "id": "Tiefling",
             "name": "Tieffelin",
-            "description": "<p>Vous descendez des fiélons ou portez la marque des royaumes des fiélons, manifestant certaines particularités inhabituelles qui trahissent votre héritage, tels que des cornes ou une queue. Vous obtenez le trait tieffelin en plus des traits de votre héritage. Vous gagnez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou vous obtenez <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage possède déjà la Vision nocturne. Vous pouvez choisir parmi les dons des tieffelins et ceux de votre héritage lorsque vous obtenez un don ancestral.</p>"
+            "description": "<p>Vous descendez des fiélons ou portez la marque des royaumes des fiélons, manifestant certaines particularités inhabituelles qui trahissent votre héritage, tels que des cornes ou une queue. Vous obtenez le trait tieffelin en plus des traits de votre héritage. Vous gagnez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre héritage possède déjà la Vision nocturne. Vous pouvez choisir parmi les dons des tieffelins et ceux de votre héritage lorsque vous obtenez un don ancestral.</p>"
         },
         {
             "id": "Wellspring Gnome",
@@ -394,12 +669,22 @@
         {
             "id": "Dhampir",
             "name": "Dhampir",
-            "description": "<p>Vous êtes l'enfant d'un vampire, moitié vivant, moitié mort-vivant, doté d'un charme et d'une grâce extraordinaires, un teint blâfard dépourvu de sang et des incisives allongées. Vous obtenez le trait dhampir, en plus des traits de votre héritage. Vous avez la capacité @Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]{soins négatifs}, ce qui signifie que vous êtes blessé par les dégâts positifs et soignés par les effets négatifs comme si vous étiez un mort-vivant. Vous gagnez aussi <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a> ou <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"HHVQDp61ehcpdiU8\">Vision dans le noir</a> si votre héritage possède déjà Vision nocturne. Vous pouvez choisir parmi les dons de dhampir et les dons de votre autre héritage lorsque vous obtenez un don ancestral.</p>"
+            "description": "<p>Vous êtes l'enfant d'un vampire, moitié vivant, moitié mort-vivant, doté d'un charme et d'une grâce extraordinaires, un teint blâfard dépourvu de sang et des incisives allongées. Vous obtenez le trait dhampir, en plus des traits de votre héritage. Vous avez la capacité @Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]{soins négatifs}, ce qui signifie que vous êtes blessé par les dégâts positifs et soignés par les effets négatifs comme si vous étiez un mort-vivant. Vous gagnez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance possède déjà Vision nocturne. Vous pouvez choisir parmi les dons de dhampir et les dons de votre autre ascendance lorsque vous obtenez un don d'ascendance.</p>"
         },
         {
             "id": "Shadow Rat",
             "name": "Rat de l'ombre",
-            "description": "<p>Vos ancêtres ont vécu dans des endroits sombres souterrains, vous léguant votre fourrure noire et un air vaguement non-naturel qui énerve les créatures pensantes et effraie les animaux. Vous devenez qualifié en Intimidation et pouvez utiliser Intimidation pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"tHCqgwjtQtzNqVvd\">Contraindre</a> les animaux. Lorsque vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"2u915NdUyQan6uKF\">Démoralisez</a> un animal, vous ne subissez pas de pénalité lié à l'absence de langue commune avec lui. Si vous étiez qualifié en Intimidation du fait d'une autre source (du fait de votre historique ou de votre classe par exemple), vous êtes qualifié dans une autre compétence de votre choix.</p>\n<p>L'attitude des animaux à votre égard est d'un degré inférieur à la normale, débutant comme inamicale en général au lieu d'indifférente pour les animaux domestiqués et hostile plutôt qu'inamicale pour les animaux sauvages.</p>"
+            "description": "<p>Vos ancêtres ont vécu dans des endroits sombres souterrains, vous léguant votre fourrure noire et un air vaguement non-naturel qui énerve les créatures pensantes et effraie les animaux. Vous devenez qualifié en Intimidation et pouvez utiliser Intimidation pour @Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]{Contraindre} les animaux. Lorsque vous @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoralisez} un animal, vous ne subissez pas de pénalité lié à l'absence de langue commune avec lui. Si vous étiez qualifié en Intimidation du fait d'une autre source (du fait de votre historique ou de votre classe par exemple), vous êtes qualifié dans une autre compétence de votre choix.</p>\n<p>L'attitude des animaux à votre égard est d'un degré inférieur à la normale, débutant comme inamicale en général au lieu d'indifférente pour les animaux domestiqués et hostile plutôt qu'inamicale pour les animaux sauvages.</p>"
+        },
+        {
+            "id": "Constructed",
+            "name": "Construit",
+            "description": "<p>Votre corpss synthétique résiste aux affections mieux que les organismes purement biologiques. Vous obtenez un bonus de circonstance de +1 aux jets de sauvegarde contre les maladies, les poisons et les radiations.</p>"
+        },
+        {
+            "id": "Root Leshy",
+            "name": "Léchi racine",
+            "description": "<p>Votre corps est constitué de racines robustes qui vous attachent fermement au sol. Vous obtenez 10 Points de vi de votre ascendance au lieu de 8. Vous pouvez aller sans lumière du soleil poendant 2 semaines avant de commencer à mourir de faim. Vous obtenez un bonus de circonstance de +2 à vos DD de Vigueur et de Réflexes contre les tentatives pour vous Pousser ou vous faire un Croc-en-jambe. Ce bonus s'applique aussi aux jets de sauvegarde contre les sorts ou les effets qui tentent de vous déplacer ou de vous mettre À terre.</p>"
         },
         {
             "id": "Observant Halfling",
@@ -409,7 +694,7 @@
         {
             "id": "Skilled Heritage",
             "name": "Héritage talentueux",
-            "description": "<p>Votre sagacité vous permet d’être formé à de nombreuses compétences. Vous devenez qualifié dans une compétence de votre choix. Au niveau 5, vous atteignez le rang de maîtrise expert dans cette compétence.&nbsp;</p>"
+            "description": "<p>Votre sagacité vous permet d’être formé à de nombreuses compétences. Vous devenez qualifié dans une compétence de votre choix. Au niveau 5, vous atteignez le rang de maîtrise expert dans cette compétence.</p>"
         },
         {
             "id": "Sensate Gnome",
@@ -424,62 +709,112 @@
         {
             "id": "Warmarch Hobgoblin",
             "name": "Hobgobelin Marchebataille",
-            "description": "<p>Vous descendez d'une lignée de mercenaires errants, constamment sur en marche et récupérant de la nourriture au long du chemin. Si vous obtenez un échec, mais pas un échec critique, pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"49y9Ec4bDii8pcD3\">Subsister</a> dans les étendues sauvages, Vous parvenez toujours à vous nourrir vous-même avec des piteux repas. Lorsque vous explorez, vous pouvez vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"JuqmIAnkL9hVGai8\">Empresser</a> deux fois plus longtemps que les autres avant de devoir vous arrêter.</p>"
+            "description": "<p>Vous descendez d'une lignée de mercenaires errants, constamment sur en marche et récupérant de la nourriture au long du chemin. Si vous obtenez un échec, mais pas un échec critique, pour @Compendium[pf2e.actionspf2e.49y9Ec4bDii8pcD3]{Subsister} dans les étendues sauvages, Vous parvenez toujours à vous nourrir vous-même avec des piteux repas. Lorsque vous explorez, vous pouvez vous @Compendium[pf2e.actionspf2e.JuqmIAnkL9hVGai8]{Empresser} deux fois plus longtemps que les autres avant de devoir vous arrêter.</p>"
+        },
+        {
+            "id": "Grave Orc",
+            "name": "Orque tombal",
+            "description": "<p>Vous avez été exposé à de puissantes énergies nécromantiques qui auraient dû vous tuer — mais vous avez survécu. Votre peau est froide, humide et grise. Vous obtenez une résistance aux dégâts négatifs égale à la moitié de votre niveau (minimum 1). Vous obtenez aussi un bonus de circonstance de +1 aux jets de sauvegarde contre les effets de nécromancie.</p>"
+        },
+        {
+            "id": "Spined Azarketi",
+            "name": "Azarketi épineux",
+            "description": "<p>Vos fins masquent des épines toxiques lançables. Vous avez une attaque à mains nues à distance d'épine avec le trait à mains nues qui inflige [[/r 1d4 #poison]] dégâts de poison, possède un facteur de portée de 3 m et est dans le groupe d'armes des fléchettes.</p>"
         },
         {
             "id": "Mountainkeeper Tengu",
             "name": "Tengu gardemontagne",
-            "description": "<p>Vous descendez d'une ligné d'ascètes tengu, vous laissant un lien avec les esprits du monde et du Grand au-delà. Vous pouvez lancer le tour de magie <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.spells-srd\" data-id=\"kcelf6IHl3L9VXXg\">Destruction de mort-vivant</a> comme un sort primordial inné à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>\n<p>Chaque fois que vous lancez un sort d'ascendance tengu ou lié à un don ancestral, vous pouvez décider s'il s'agit d'un sort divin ou primordial.</p>"
+            "description": "<p>Vous descendez d'une ligné d'ascètes tengu, vous laissant un lien avec les esprits du monde et du Grand au-delà. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.kcelf6IHl3L9VXXg]{Destruction de mort-vivant} comme un sort primordial inné à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>\n<p>Chaque fois que vous lancez un sort d'ascendance tengu ou lié à un don d'ascendance, vous pouvez décider s'il s'agit d'un sort divin ou primordial.</p>"
+        },
+        {
+            "id": "Cactus Leshy",
+            "name": "Léchi cactus",
+            "description": "<p>Des épines couvrent votre corps. Vous obtenez une attaque à mains nues d'épine qui inflige [[/r 1d6 #perforants]] dégâts perforants. Vos épines sont dans le groupe pugilat et ont les traits finesse et à mains nues.</p>"
         },
         {
             "id": "Cliffscale Lizardfolk",
             "name": "Homme-lézard écaille de falaise",
-            "description": "<p>Vos orteils se sont adaptées pour agripper et escalader. Vous obtenez le don <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"09PurtIanNUPfNRq\">Combattant-grimpeur</a> comme don supplémentaire et aussi longtemps que vous ne portez rien aux pieds, vous pouvez utilisez les coussinnets collants sur vos pieds pour escalader, en gardant vos mains libres. De plus, si vous obtenez un Succès sur un test d'Athlétisme pour escalader, vous obtenez un Succès critique à la place.</p>"
+            "description": "<p>Vos orteils se sont adaptées pour agripper et escalader. Vous obtenez le don @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur} comme don supplémentaire et aussi longtemps que vous ne portez rien aux pieds, vous pouvez utilisez les coussinnets collants sur vos pieds pour escalader, en gardant vos mains libres. De plus, si vous obtenez un Succès sur un test d'Athlétisme pour escalader, vous obtenez un Succès critique à la place.</p>"
         },
         {
             "id": "Oathkeeper Dwarf",
             "name": "Nain gardeserment",
-            "description": "<p>En grandissant, vous n'avez jamais cherché à mentir pour obtenir ce que vous désiriez et même lorsque cela a été nécessaire, mentir vous a mis mal à l'aise. Les membres particulièrement croyants ont même pu penser que vous avez été béni par le dieu nain du devoir, <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.deities\" data-id=\"zhPhYge7VJbIlJvA\">Kols</a>. Vous obtenez un bonus de circonstance de +1 aux tests de Perception pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"1xRFPTFtWtGJ9ELw\">Deviner les intentions</a> et au DD de Perception contre les tentatives de vous <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"ewwCglB7XOPLUz72\">mentir</a>. De plus, vous obtenez un bonus de circonstance de +2 aux tests de Diplomatie pour convaincre les autres que vous dites la vérité lorsque vous la dites et vous subissez une pénalité de circonstance de –4 pour Mentir et a votre test de Duperie contre une tentative pour Deviner vos Intentions.</p>"
+            "description": "<p>En grandissant, vous n'avez jamais cherché à mentir pour obtenir ce que vous désiriez et même lorsque cela a été nécessaire, mentir vous a mis mal à l'aise. Les membres particulièrement croyants ont même pu penser que vous avez été béni par le dieu nain du devoir, @Compendium[pf2e.deities.zhPhYge7VJbIlJvA]{Kols}.</p>\n<p>Vous obtenez un bonus de circonstance de +1 aux tests de Perception pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions} et au DD de Perception contre les tentatives de vous @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}. De plus, vous obtenez un bonus de circonstance de +2 aux tests de Diplomatie pour convaincre les autres que vous dites la vérité lorsque vous la dites et vous subissez une pénalité de circonstance de –4 pour Mentir et a votre test de Duperie contre une tentative pour Deviner vos Intentions.</p>"
+        },
+        {
+            "id": "Greater Darkvision",
+            "name": "Vision dans le noir supérieure",
+            "description": "<p>Vous pouvez voir dans l'obscurité et dans la lumière faible juste aussi bien que dans la lumière vive, bien que votre vision dans l'obscurité soit en noir et blanc. Certaines formes d'obscurité magique tel que le sort de niveau 4 @Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Obscurité} bloque la @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}. Vous, quoi qu'il en soit, pouvez voir même au travers de ces formes d'obscurité magique.</p>"
+        },
+        {
+            "id": "Emotionally Unaware",
+            "name": "Émotionnelement non préparé",
+            "description": "<p>Vous trouvez qu'il est difficile de comprendre et d'exprimer des émotions complexes. Vous subissez une pénalité de circonstance de –1 aux tests de Diplomatie et de Représentation et aux tests de Perception pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions}.</p>"
         },
         {
             "id": "Elemental Heart Dwarf",
             "name": "Nain Cœurélémentaire",
-            "description": "<p>Que ce soit au travers d'un lien avec la forge de <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.deities\" data-id=\"sZrdzh0ANQnZGXJb\">Torag</a>, des azers du plan du Feu ou d'une autre source, vous pouvez exsuder une émanation d'énergie. Les nains Mbe’ke et Taralu du Mwangi pensent que cette ascendance est un don des dragons ou des esprits élémentaires.</p>\n<p>Choisissez un des types de dégâts suivants : acide, électricité, feu ou froid. Une fois choisi, il ne peut être modifié. Vous obtenez l'activité <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"7qjfYsLNTr17Aftf\">Émanation énergétique</a>.</p>"
+            "description": "<p>Que ce soit au travers d'un lien avec la forge de @Compendium[pf2e.deities.sZrdzh0ANQnZGXJb]{Torag}, des azers du plan du Feu ou d'une autre source, vous pouvez exsuder une émanation d'énergie. Les nains Mbe’ke et Taralu du Mwangi pensent que cette ascendance est un don des dragons ou des esprits élémentaires.</p>\n<p>Choisissez un des types de dégâts suivants : acide, électricité, feu ou froid. Une fois choisi, il ne peut être modifié. Vous obtenez l'activité @Compendium[pf2e.actionspf2e.7qjfYsLNTr17Aftf]{Émanation énergétique}.</p>"
         },
         {
             "id": "Wetlander Lizardfolk",
             "name": "Homme-lézard des terres humides",
-            "description": "<p>Votre famille descend du plus commun des héritages des hommes-lézards et vous êtes accoutumé aux environnements aquatiques. Vous obtenez une Vitesse de <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"c8TGiZ48ygoSPofx\">Nage</a> de 4,5 m.</p>"
+            "description": "<p>Votre famille descend du plus commun des héritages des hommes-lézards et vous êtes accoutumé aux environnements aquatiques. Vous obtenez une Vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nage} de 4,5 m.</p>"
         },
         {
             "id": "Paddler Shoony",
             "name": "Shoony Pagayeur",
-            "description": "<p>Vous venez d'une lignée de shoony qui ont vécu depuis longtemps parmi les herbes et les roseaux des marais et marécages et qui se sont adaptées aux défis de vivre près de zones détrempées. Vous ignorez les terrains difficiles et très difficiles liés aux tourbières. Lorsque vous obtenez un succès pour <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.actionspf2e\" data-id=\"c8TGiZ48ygoSPofx\">Nager</a>, vous considérez qu'il s'agit d'un succès critique à la place.</p>"
+            "description": "<p>Vous venez d'une lignée de shoony qui ont vécu depuis longtemps parmi les herbes et les roseaux des marais et marécages et qui se sont adaptées aux défis de vivre près de zones détrempées. Vous ignorez les terrains difficiles et très difficiles liés aux tourbières. Lorsque vous obtenez un succès pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous considérez qu'il s'agit d'un succès critique à la place.</p>"
+        },
+        {
+            "id": "Liminal Catfolk",
+            "name": "Homme-félin liminaire",
+            "description": "<p>Vous avez hérité d'une proximité avec les lointains confins du monde, où les frontières entre les dimensions deviennent fines. Vous pouvez lancer détection de la magie comme un tour de magie occulte inné intensifié à la moitié de votre niveau, arrondi au supérieur. Vous obtenez aussi un bonus de circonstance de +1 aux tests d'Occultisme pour Vous souvenir à propos des créatures qui sont étrangères au Plan matériel.</p>"
         },
         {
             "id": "Duskwalker",
             "name": "Crépusculaire",
-            "description": "<p>Suite à un ancien marché, votre âme a été réincarnée comme un crépusculaire, un enfant planaire avec un lien à l'égad des psychopompes et du Cimetière. Vous obtenez le trait crépusculaire en plus des traits de votre héritage. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre héritage bénéficie déjà de vision nocturne. Ni votre corps, ni votre âme ne peuvent jamais devenir mort-vivant. Vous pouvez choisir vos dons ancestraux parmi les dons des crépusculaire ou ceux de votre autre héritage lorsque vous obtenez un don ancestral.</p>"
+            "description": "<p>Suite à un ancien marché, votre âme a été réincarnée comme un crépusculaire, un enfant planaire avec un lien à l'égard des psychopompes et du Cimetière. Vous obtenez le trait crépusculaire en plus des traits de votre héritage. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance bénéficie déjà de vision nocturne. Ni votre corps, ni votre âme ne peuvent jamais devenir mort-vivant. Vous pouvez choisir vos dons d'ascendance parmi les dons des crépusculaires ou ceux de votre autre ascendance lorsque vous obtenez un don ancestral.</p>"
+        },
+        {
+            "id": "Magical Strikes",
+            "name": "Frappes magiques",
+            "description": "<p>Votre magie intrinsèque se répand dans votre être tout entier. Toutes vos Frappes sont magiques, qu'il s'agisse des Frappes à mains nues ou avec armes.</p>"
+        },
+        {
+            "id": "Frozen Wind Kitsune",
+            "name": "Kitsune Vent glacé",
+            "description": "<p>Vos ancètres ont traversé la Couronne du monde ou ont résidé dans les cols enneigés. Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1). Vous traitez les effets environnementaux de froid comme s'ils étaient d'un cran moins extrême (un froid incroyable devient extrême, un froid extrême devient sévère, etc). Votre forme alternative est celui d'une ascendance humanoïde de taille Moyenne prévalente où vous avez grandi (typiquement un humain), appelé une forme sans queue.</p>"
         },
         {
             "id": "Vivacious Gnome",
             "name": "Gnome vivace",
-            "description": "<p>Vous possédez un lien incroyablement fort à l'énergie positive qui coule au travers le Premier Monde, rendant plus difficile d'attaquer votre force vitale avec de l'énergie négative. Vous obtenez une résistance à l'énergie négative égale à la moitié de votre niveau (minimum 1). Lorsque vous avez la condition <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"3uh1r86TzbQvosxv\">Condamnée</a>, la condition vous affecte comme si sa valeur était inférieure de 1 qu'elle l'est actuellement (condamné 1 n'a pas d'effet, condamné 2 provoque votre mort à <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"yZRUzMqrMmfLu0V1\">mourant</a> 3, etc).</p>"
+            "description": "<p>Vous possédez un lien incroyablement fort à l'énergie positive qui coule au travers le Premier Monde, rendant plus difficile d'attaquer votre force vitale avec de l'énergie négative. Vous obtenez une résistance à l'énergie négative égale à la moitié de votre niveau (minimum 1). Lorsque vous avez la condition @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné}, la condition vous affecte comme si sa valeur était inférieure de 1 qu'elle l'est actuellement (condamné 1 n'a pas d'effet, condamné 2 provoque votre mort à @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} 3, etc).</p>"
+        },
+        {
+            "id": "Technological Fleshwarp",
+            "name": "Distordu technologique",
+            "description": "<p>Votre transformation est due à une manipulation de technologie avancée, comme celles trouvées en Numérie. Vos émotions sont ternes et difficiles à influencer. Lorsque vous lancez un succès sur un jet de sauvegarde contre un effet d'émotion, vous obtenez un succès critique à la place.</p>"
         },
         {
             "id": "Smokeworker Hobgoblin",
             "name": "Hobgobelin travailleur de fumée",
-            "description": "<p>Votre famille a été alchimiste, ingénieur et scientifique depuis des générations, sur des projets qui apporte fûmée et feu sur le champ de bataille. Vous obtenez une résistance au feu égal à la moitié de votre niveau (minimum 1). Vous obtenez automatiquement un Succès sur un test nu de DD 5 pour cibler une créature <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"DmAIPqOBomZ7H95W\">Masquée</a> si cette créature n'est camouflée que par la fumée.</p>"
+            "description": "<p>Votre famille a été alchimiste, ingénieur et scientifique depuis des générations, sur des projets qui apporte fûmée et feu sur le champ de bataille. Vous obtenez une résistance au feu égal à la moitié de votre niveau (minimum 1). Vous obtenez automatiquement un Succès sur le test nu de DD 5 pour cibler une créature @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} si cette créature n'est camouflée que par la fumée.</p>"
+        },
+        {
+            "id": "Shortshanks Hobgoblin",
+            "name": "Hobgobelin courtespattes",
+            "description": "<p>Vous avez un torse plus long et des épaules plus larges que la plupart des hobgobelins, de sorte que vos jambes semblent plus courtes en comparaison. Cela vous donne une ceinture abdominale forte et muclée et abaisse votre centre de gravité — traits qui vous aident sur une monture et à escalader — et vous êtes entraîné à utiliser une selle à un  âge particulièrement jeune. Vous obtenez le don @Compendium[pf2e.feats-srd.Rq5wkA8DtsmbzoGV]{Chevaucher}. De plus, vous n'êtes pas @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} lorsque vous Escaladez.</p>"
         },
         {
             "id": "Half-Orc",
             "name": "Demi-orc",
-            "description": "<p>Soit l’un de vos parents était un orc, soit les deux étaient des demi-orcs. Votre peau aux nuances verdâtres et d’autres signes trahissent votre ascendance orque. Vous gagnez le trait orc et le pouvoir <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.ancestryfeatures\" data-id=\"DRtaqOHXTRtGRIUT\">Vision nocturne</a>. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des orcs, des demi-orcs et des humains.</p>"
+            "description": "<p>Soit l’un de vos parents était un orc, soit les deux étaient des demi-orcs. Votre peau aux nuances verdâtres et d’autres signes trahissent votre ascendance orque. Vous gagnez le trait orc et @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne}. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des orcs, des demi-orcs et des humains.</p>"
         },
         {
             "id": "Plant Nourishment",
             "name": "Alimentation des plantes",
-            "description": "<p>Vous obtenez de quoi vous alimenter de la même manière que le font les plantes ou les champignons qui correspondent à votre type de corps, au travers d'une combinaison de photosynthèse, absorbant les minéraux avec vos racines ou en récupérant la matière en décomposition. Vous n'avez pas besoin de payer pour votre nourriture. Si vous dépendez normalement de la photosynthèse et que vous ne  voyez pas la lumière du soleil pendant une semaine, vous commencez à dépérir. Vous pouvez obtenir une alimentation de bouteilles spécialement formulé de lumière du soleil ou de lumière du soleil naturelle mais ces bouteilles coûtent 10 fois plus que des rations habituelles (ou 40 pa).</p>"
+            "description": "<p>Vous obtenez de quoi vous alimenter de la même manière que le font les plantes ou les champignons qui correspondent à votre type de corps, au travers d'une combinaison de photosynthèse, d'absorbtion des minéraux avec vos racines ou de récupération de matière en décomposition. Vous n'avez pas besoin de payer pour votre nourriture. Si vous dépendez normalement de la photosynthèse et que vous ne  voyez pas la lumière du soleil pendant une semaine, vous commencez à dépérir. Vous pouvez obtenir une alimentation à partir de bouteilles spécialement formulées à base de lumière du soleil au lieu de lumière du soleil naturelle mais ces bouteilles coûtent 10 fois plus que des rations ordinaires (ou 40 pa).</p>"
         },
         {
             "id": "Aasimar",

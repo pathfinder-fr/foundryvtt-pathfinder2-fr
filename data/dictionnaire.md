@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-02-25 23:21 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-28 17:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -49,7 +49,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Call on Ancient Blood](actions/8w6esW689NNbbq3i.htm)|Appel du sang ancien|`@Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]`|
 |[Cast a Spell](actions/aBQ8ajvEBByv45yz.htm)|Lancer un sort|`@Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]`|
 |[Change Shape (Beastkin)](actions/0b3TTeQGFOiy6ykz.htm)||`@Compendium[pf2e.actionspf2e.0b3TTeQGFOiy6ykz]`|
-|[Change Shape (Kitsune)](actions/wwvPiG2kET2rkSAG.htm)||`@Compendium[pf2e.actionspf2e.wwvPiG2kET2rkSAG]`|
+|[Change Shape (Kitsune)](actions/wwvPiG2kET2rkSAG.htm)|Changer de forme (Kitsune)|`@Compendium[pf2e.actionspf2e.wwvPiG2kET2rkSAG]`|
 |[Climb](actions/pprgrYQ1QnIDGZiy.htm)|Escalader|`@Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]`|
 |[Clue In](actions/25WDi1cVUrW92sUj.htm)|Partager les indices|`@Compendium[pf2e.actionspf2e.25WDi1cVUrW92sUj]`|
 |[Coerce](actions/tHCqgwjtQtzNqVvd.htm)|Contraindre|`@Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]`|
@@ -106,8 +106,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Interact](actions/pvQ5rY2zrtPI614F.htm)|Interagir|`@Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]`|
 |[Invest an Item](actions/lvqPQDdWT2DDO0k2.htm)|Investir un objet|`@Compendium[pf2e.actionspf2e.lvqPQDdWT2DDO0k2]`|
 |[Investigate](actions/EwgTZBWsc8qKaViP.htm)|Enquêter|`@Compendium[pf2e.actionspf2e.EwgTZBWsc8qKaViP]`|
-|[Invigorating Fear](actions/Ul4I0ER6pj3U5eAk.htm)||`@Compendium[pf2e.actionspf2e.Ul4I0ER6pj3U5eAk]`|
-|[Invoke Celestial Privilege](actions/Aq2mXT2hLlstFL5C.htm)||`@Compendium[pf2e.actionspf2e.Aq2mXT2hLlstFL5C]`|
+|[Invigorating Fear](actions/Ul4I0ER6pj3U5eAk.htm)|Peur revigorante|`@Compendium[pf2e.actionspf2e.Ul4I0ER6pj3U5eAk]`|
+|[Invoke Celestial Privilege](actions/Aq2mXT2hLlstFL5C.htm)|Invoquer le privilège céleste|`@Compendium[pf2e.actionspf2e.Aq2mXT2hLlstFL5C]`|
 |[Iron Command](actions/M8RCbthRhB4bxO9t.htm)|Ordre de fer|`@Compendium[pf2e.actionspf2e.M8RCbthRhB4bxO9t]`|
 |[Jinx](actions/hFRHPBj6wjAayNtW.htm)|Maudire|`@Compendium[pf2e.actionspf2e.hFRHPBj6wjAayNtW]`|
 |[Leap](actions/d5I6018Mci2SWokk.htm)|Bondir|`@Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]`|
@@ -362,11 +362,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
-|[Android](ancestries/GfLwE884NoRC7cRi.htm)||`@Compendium[pf2e.ancestries.GfLwE884NoRC7cRi]`|
+|[Android](ancestries/GfLwE884NoRC7cRi.htm)|Androïde|`@Compendium[pf2e.ancestries.GfLwE884NoRC7cRi]`|
 |[Catfolk](ancestries/972EkpJOPv9KkQIW.htm)|Homme-félin (félide)|`@Compendium[pf2e.ancestries.972EkpJOPv9KkQIW]`|
 |[Dwarf](ancestries/BYj5ZvlXZdpaEgA6.htm)|Nain|`@Compendium[pf2e.ancestries.BYj5ZvlXZdpaEgA6]`|
 |[Elf](ancestries/PgKmsA2aKdbLU6O0.htm)|Elfe|`@Compendium[pf2e.ancestries.PgKmsA2aKdbLU6O0]`|
-|[Fetchling](ancestries/hIA3qiUsxvLZXrFP.htm)||`@Compendium[pf2e.ancestries.hIA3qiUsxvLZXrFP]`|
+|[Fetchling](ancestries/hIA3qiUsxvLZXrFP.htm)|Fetchelin|`@Compendium[pf2e.ancestries.hIA3qiUsxvLZXrFP]`|
 |[Fleshwarp](ancestries/FXlXmNBFiiz9oasi.htm)||`@Compendium[pf2e.ancestries.FXlXmNBFiiz9oasi]`|
 |[Gnome](ancestries/CYlfsYLJcBOgqKtD.htm)|Gnome|`@Compendium[pf2e.ancestries.CYlfsYLJcBOgqKtD]`|
 |[Goblin](ancestries/sQfjTMDaZbT9DThq.htm)|Gobelin|`@Compendium[pf2e.ancestries.sQfjTMDaZbT9DThq]`|
@@ -380,8 +380,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Orc](ancestries/lSGWXjcbOa6O5fTx.htm)|Orc|`@Compendium[pf2e.ancestries.lSGWXjcbOa6O5fTx]`|
 |[Ratfolk](ancestries/P6PcVnCkh4XMdefw.htm)|Homme-rat|`@Compendium[pf2e.ancestries.P6PcVnCkh4XMdefw]`|
 |[Shoony](ancestries/q6rsqYARyOGXZA8F.htm)|Shoony|`@Compendium[pf2e.ancestries.q6rsqYARyOGXZA8F]`|
-|[Sprite](ancestries/TRqoeYfGAFjQbviF.htm)||`@Compendium[pf2e.ancestries.TRqoeYfGAFjQbviF]`|
-|[Strix](ancestries/GXcC6oVa5quzgNHD.htm)||`@Compendium[pf2e.ancestries.GXcC6oVa5quzgNHD]`|
+|[Sprite](ancestries/TRqoeYfGAFjQbviF.htm)|Esprit-follet|`@Compendium[pf2e.ancestries.TRqoeYfGAFjQbviF]`|
+|[Strix](ancestries/GXcC6oVa5quzgNHD.htm)|Strix|`@Compendium[pf2e.ancestries.GXcC6oVa5quzgNHD]`|
 |[Tengu](ancestries/18xDKYPDBLEv2myX.htm)|Tengu|`@Compendium[pf2e.ancestries.18xDKYPDBLEv2myX]`|
 |[_Empty Ancestry](ancestries/mDtlRBBUWqUzYSHs.htm)|_Ascendance vierge|`@Compendium[pf2e.ancestries.mDtlRBBUWqUzYSHs]`|
 
@@ -394,168 +394,168 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ancient Elf](ancestryfeatures/feat-01-Nd9hdX8rdYyRozw8.htm)|Elfe ancien|`@Compendium[pf2e.ancestryfeatures.Nd9hdX8rdYyRozw8]`|
 |[Ancient-Blooded Dwarf](ancestryfeatures/feat-01-yL6944LrPo2HNdEJ.htm)|Nain sang-ancien|`@Compendium[pf2e.ancestryfeatures.yL6944LrPo2HNdEJ]`|
 |[Anvil Dwarf](ancestryfeatures/feat-01-kRDsVbhdBVeSlpBa.htm)|Nain de la forge|`@Compendium[pf2e.ancestryfeatures.kRDsVbhdBVeSlpBa]`|
-|[Aphorite](ancestryfeatures/feat-01-lj5iHaiY0IwCCptd.htm)||`@Compendium[pf2e.ancestryfeatures.lj5iHaiY0IwCCptd]`|
+|[Aphorite](ancestryfeatures/feat-01-lj5iHaiY0IwCCptd.htm)|Aphorite|`@Compendium[pf2e.ancestryfeatures.lj5iHaiY0IwCCptd]`|
 |[Aquatic Adaptation](ancestryfeatures/feat-01-AzGJN1wwLFaLJIeo.htm)|Adaptation aquatique|`@Compendium[pf2e.ancestryfeatures.AzGJN1wwLFaLJIeo]`|
 |[Arctic Elf](ancestryfeatures/feat-01-1dYDucCIaZpCJqBc.htm)|Elfe arctique|`@Compendium[pf2e.ancestryfeatures.1dYDucCIaZpCJqBc]`|
-|[Artisan Android](ancestryfeatures/feat-01-VgL18yU7pysdoZZG.htm)||`@Compendium[pf2e.ancestryfeatures.VgL18yU7pysdoZZG]`|
+|[Artisan Android](ancestryfeatures/feat-01-VgL18yU7pysdoZZG.htm)|Artisan androïde|`@Compendium[pf2e.ancestryfeatures.VgL18yU7pysdoZZG]`|
 |[Badlands Orc](ancestryfeatures/feat-01-8Gsa8KFsHizEwSHU.htm)|Orc des badlands|`@Compendium[pf2e.ancestryfeatures.8Gsa8KFsHizEwSHU]`|
-|[Battle-Ready Orc](ancestryfeatures/feat-01-nXQxlmjH24Eb8h2Q.htm)||`@Compendium[pf2e.ancestryfeatures.nXQxlmjH24Eb8h2Q]`|
-|[Beastkin](ancestryfeatures/feat-01-GAn2cdhBE9Bqa85s.htm)||`@Compendium[pf2e.ancestryfeatures.GAn2cdhBE9Bqa85s]`|
+|[Battle-Ready Orc](ancestryfeatures/feat-01-nXQxlmjH24Eb8h2Q.htm)|Orc prêt pour la bataille|`@Compendium[pf2e.ancestryfeatures.nXQxlmjH24Eb8h2Q]`|
+|[Beastkin](ancestryfeatures/feat-01-GAn2cdhBE9Bqa85s.htm)|Beastkin|`@Compendium[pf2e.ancestryfeatures.GAn2cdhBE9Bqa85s]`|
 |[Bloodhound Shoony](ancestryfeatures/feat-01-z4cvqtpkkAYoFpHa.htm)|Shoony limier|`@Compendium[pf2e.ancestryfeatures.z4cvqtpkkAYoFpHa]`|
 |[Blunt Snout](ancestryfeatures/feat-01-dtNsRAhCRfteA1ev.htm)|Museau court|`@Compendium[pf2e.ancestryfeatures.dtNsRAhCRfteA1ev]`|
-|[Bright Fetchling](ancestryfeatures/feat-01-wHO5luJMODbDLXNi.htm)||`@Compendium[pf2e.ancestryfeatures.wHO5luJMODbDLXNi]`|
-|[Cactus Leshy](ancestryfeatures/feat-01-2cii5ZkBsJ4DYdd2.htm)||`@Compendium[pf2e.ancestryfeatures.2cii5ZkBsJ4DYdd2]`|
-|[Caveclimber Kobold](ancestryfeatures/feat-01-5A1wMPdzN1OWE4cY.htm)||`@Compendium[pf2e.ancestryfeatures.5A1wMPdzN1OWE4cY]`|
+|[Bright Fetchling](ancestryfeatures/feat-01-wHO5luJMODbDLXNi.htm)|Fetchelin lumineux|`@Compendium[pf2e.ancestryfeatures.wHO5luJMODbDLXNi]`|
+|[Cactus Leshy](ancestryfeatures/feat-01-2cii5ZkBsJ4DYdd2.htm)|Léchi cactus|`@Compendium[pf2e.ancestryfeatures.2cii5ZkBsJ4DYdd2]`|
+|[Caveclimber Kobold](ancestryfeatures/feat-01-5A1wMPdzN1OWE4cY.htm)|Kobold grimpegrotte|`@Compendium[pf2e.ancestryfeatures.5A1wMPdzN1OWE4cY]`|
 |[Cavern Elf](ancestryfeatures/feat-01-NfIAGatB1KIzt8G7.htm)|Elfe des cavernes|`@Compendium[pf2e.ancestryfeatures.NfIAGatB1KIzt8G7]`|
 |[Cavern Kobold](ancestryfeatures/feat-01-35k2aujXYvqUCSS1.htm)|Kobold cavernicole|`@Compendium[pf2e.ancestryfeatures.35k2aujXYvqUCSS1]`|
-|[Celestial Envoy Kitsune](ancestryfeatures/feat-IFg2tqmAFFnU8UNU.htm)||`@Compendium[pf2e.ancestryfeatures.IFg2tqmAFFnU8UNU]`|
+|[Celestial Envoy Kitsune](ancestryfeatures/feat-IFg2tqmAFFnU8UNU.htm)|Kitsune Envoyé céleste|`@Compendium[pf2e.ancestryfeatures.IFg2tqmAFFnU8UNU]`|
 |[Chameleon Gnome](ancestryfeatures/feat-01-XeXWsvcWU3Zaj5WC.htm)|Gnome Caméléon|`@Compendium[pf2e.ancestryfeatures.XeXWsvcWU3Zaj5WC]`|
-|[Change Shape](ancestryfeatures/feat-01-Ymg6WqeJqOyLJLEr.htm)||`@Compendium[pf2e.ancestryfeatures.Ymg6WqeJqOyLJLEr]`|
+|[Change Shape](ancestryfeatures/feat-01-Ymg6WqeJqOyLJLEr.htm)|Changer de forme|`@Compendium[pf2e.ancestryfeatures.Ymg6WqeJqOyLJLEr]`|
 |[Changeling](ancestryfeatures/feat-01-EKY9v7SF1hVsUdbH.htm)|Changelin|`@Compendium[pf2e.ancestryfeatures.EKY9v7SF1hVsUdbH]`|
 |[Charhide Goblin](ancestryfeatures/feat-01-32oX6hHUY6K8N70Q.htm)|Gobelin peaud'charbon|`@Compendium[pf2e.ancestryfeatures.32oX6hHUY6K8N70Q]`|
 |[Clawed Catfolk](ancestryfeatures/feat-01-bLhIBwqdjTiVJ5qm.htm)|Homme-félin griffu|`@Compendium[pf2e.ancestryfeatures.bLhIBwqdjTiVJ5qm]`|
 |[Claws](ancestryfeatures/feat-01-NfkxFWUeG6g41e8w.htm)|Griffes|`@Compendium[pf2e.ancestryfeatures.NfkxFWUeG6g41e8w]`|
 |[Cliffscale Lizardfolk](ancestryfeatures/feat-01-OoUqJJB77VfWbWRM.htm)|Homme-lézard écaille de falaise|`@Compendium[pf2e.ancestryfeatures.OoUqJJB77VfWbWRM]`|
-|[Cloudleaper Lizardfolk](ancestryfeatures/feat-01-sEnMG5zbnXdJvVPz.htm)||`@Compendium[pf2e.ancestryfeatures.sEnMG5zbnXdJvVPz]`|
-|[Constructed](ancestryfeatures/feat-01-mnhmhOKWLiOD0lev.htm)||`@Compendium[pf2e.ancestryfeatures.mnhmhOKWLiOD0lev]`|
-|[Created Fleshwarp](ancestryfeatures/feat-01-iY2CCqoMc2bRdoas.htm)||`@Compendium[pf2e.ancestryfeatures.iY2CCqoMc2bRdoas]`|
-|[Dark Fields Kitsune](ancestryfeatures/feat-01-NWbdAN5gDse0ad7C.htm)||`@Compendium[pf2e.ancestryfeatures.NWbdAN5gDse0ad7C]`|
+|[Cloudleaper Lizardfolk](ancestryfeatures/feat-01-sEnMG5zbnXdJvVPz.htm)|Homme-lézard sautenuage|`@Compendium[pf2e.ancestryfeatures.sEnMG5zbnXdJvVPz]`|
+|[Constructed](ancestryfeatures/feat-01-mnhmhOKWLiOD0lev.htm)|Construit|`@Compendium[pf2e.ancestryfeatures.mnhmhOKWLiOD0lev]`|
+|[Created Fleshwarp](ancestryfeatures/feat-01-iY2CCqoMc2bRdoas.htm)|Distordu créé|`@Compendium[pf2e.ancestryfeatures.iY2CCqoMc2bRdoas]`|
+|[Dark Fields Kitsune](ancestryfeatures/feat-01-NWbdAN5gDse0ad7C.htm)|Kitsune Champs sombres|`@Compendium[pf2e.ancestryfeatures.NWbdAN5gDse0ad7C]`|
 |[Darkvision](ancestryfeatures/feat-01-HHVQDp61ehcpdiU8.htm)|Vision dans le noir|`@Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]`|
 |[Death Warden Dwarf](ancestryfeatures/feat-01-VTtXwBxrfRUXSL38.htm)|Nain gardemort|`@Compendium[pf2e.ancestryfeatures.VTtXwBxrfRUXSL38]`|
-|[Deep Fetchling](ancestryfeatures/feat-01-UpeOPKB9b8PX6Fi2.htm)||`@Compendium[pf2e.ancestryfeatures.UpeOPKB9b8PX6Fi2]`|
+|[Deep Fetchling](ancestryfeatures/feat-01-UpeOPKB9b8PX6Fi2.htm)|Fetchelin de profondeurs|`@Compendium[pf2e.ancestryfeatures.UpeOPKB9b8PX6Fi2]`|
 |[Deep Orc](ancestryfeatures/feat-01-wn4EbYk1QN3tyFhh.htm)|Orque des profondeurs|`@Compendium[pf2e.ancestryfeatures.wn4EbYk1QN3tyFhh]`|
 |[Deep Rat](ancestryfeatures/feat-01-7p9HtLzWBHc18JDW.htm)|Rat des profondeurs|`@Compendium[pf2e.ancestryfeatures.7p9HtLzWBHc18JDW]`|
 |[Desert Elf](ancestryfeatures/feat-01-kiKxnKd7Dfegk9dM.htm)|Elfe du désert|`@Compendium[pf2e.ancestryfeatures.kiKxnKd7Dfegk9dM]`|
 |[Desert Rat](ancestryfeatures/feat-01-twayjFuXbsvyHUwy.htm)|Rat des sables|`@Compendium[pf2e.ancestryfeatures.twayjFuXbsvyHUwy]`|
 |[Dhampir](ancestryfeatures/feat-01-UaD5VDoFlILEmbyz.htm)|Dhampir|`@Compendium[pf2e.ancestryfeatures.UaD5VDoFlILEmbyz]`|
-|[Dogtooth Tengu](ancestryfeatures/feat-01-2hLDilS6qbjHxgVS.htm)||`@Compendium[pf2e.ancestryfeatures.2hLDilS6qbjHxgVS]`|
+|[Dogtooth Tengu](ancestryfeatures/feat-01-2hLDilS6qbjHxgVS.htm)|Tengu Dentdechien|`@Compendium[pf2e.ancestryfeatures.2hLDilS6qbjHxgVS]`|
 |[Draconic Exemplar](ancestryfeatures/feat-01-egpiSWBrNBb1Fmig.htm)|Modèle draconique|`@Compendium[pf2e.ancestryfeatures.egpiSWBrNBb1Fmig]`|
 |[Dragonscaled Kobold](ancestryfeatures/feat-01-nF5NUinK23fOLn5u.htm)|Kobold à écaille de dragon|`@Compendium[pf2e.ancestryfeatures.nF5NUinK23fOLn5u]`|
-|[Draxie](ancestryfeatures/feat-01-zcO93E8gAW1tDYKk.htm)||`@Compendium[pf2e.ancestryfeatures.zcO93E8gAW1tDYKk]`|
+|[Draxie](ancestryfeatures/feat-01-zcO93E8gAW1tDYKk.htm)|Draxie|`@Compendium[pf2e.ancestryfeatures.zcO93E8gAW1tDYKk]`|
 |[Duskwalker](ancestryfeatures/feat-01-ZZKZkeSP5TuT62IA.htm)|Crépusculaire|`@Compendium[pf2e.ancestryfeatures.ZZKZkeSP5TuT62IA]`|
-|[Earthly Wilds Kitsune](ancestryfeatures/feat-01-Wk4HyaZtC1j221i1.htm)||`@Compendium[pf2e.ancestryfeatures.Wk4HyaZtC1j221i1]`|
+|[Earthly Wilds Kitsune](ancestryfeatures/feat-01-Wk4HyaZtC1j221i1.htm)|Kitsune des Étendues sauvages terrestres|`@Compendium[pf2e.ancestryfeatures.Wk4HyaZtC1j221i1]`|
 |[Elemental Heart Dwarf](ancestryfeatures/feat-01-MeMAAtUlZmFgKSMF.htm)|Nain Cœurélémentaire|`@Compendium[pf2e.ancestryfeatures.MeMAAtUlZmFgKSMF]`|
 |[Elfbane Hobgoblin](ancestryfeatures/feat-01-ikNJZRxUjcRLisO6.htm)|Hobgobelin fléau elfique|`@Compendium[pf2e.ancestryfeatures.ikNJZRxUjcRLisO6]`|
-|[Emotionally Unaware](ancestryfeatures/feat-01-uSAYmU7PO2QoOWhB.htm)||`@Compendium[pf2e.ancestryfeatures.uSAYmU7PO2QoOWhB]`|
+|[Emotionally Unaware](ancestryfeatures/feat-01-uSAYmU7PO2QoOWhB.htm)|Émotionnelement non préparé|`@Compendium[pf2e.ancestryfeatures.uSAYmU7PO2QoOWhB]`|
 |[Fey-Touched Gnome](ancestryfeatures/feat-01-D3hTAqgwSank8OyO.htm)|Gnome béni des fées|`@Compendium[pf2e.ancestryfeatures.D3hTAqgwSank8OyO]`|
 |[Fishseeker Shoony](ancestryfeatures/feat-01-isJhIPhT4MsjJvoq.htm)|Shoony Traquepoisson|`@Compendium[pf2e.ancestryfeatures.isJhIPhT4MsjJvoq]`|
-|[Flexible Catfolk](ancestryfeatures/feat-01-TDc9MXLXkgEFoKdD.htm)||`@Compendium[pf2e.ancestryfeatures.TDc9MXLXkgEFoKdD]`|
+|[Flexible Catfolk](ancestryfeatures/feat-01-TDc9MXLXkgEFoKdD.htm)|Homme-félin flexible|`@Compendium[pf2e.ancestryfeatures.TDc9MXLXkgEFoKdD]`|
 |[Forge Dwarf](ancestryfeatures/feat-01-5CqsBKCZuGON53Hk.htm)|Nain des forges|`@Compendium[pf2e.ancestryfeatures.5CqsBKCZuGON53Hk]`|
 |[Frilled Lizardfolk](ancestryfeatures/feat-01-6rIIsZg3tOyIU3g3.htm)|Homme-lézard à colerette|`@Compendium[pf2e.ancestryfeatures.6rIIsZg3tOyIU3g3]`|
-|[Frozen Wind Kitsune](ancestryfeatures/feat-01-kHT9dFJt5yTjeYoB.htm)||`@Compendium[pf2e.ancestryfeatures.kHT9dFJt5yTjeYoB]`|
-|[Fruit Leshy](ancestryfeatures/feat-01-L6zfGzLMDLHbZ7VV.htm)||`@Compendium[pf2e.ancestryfeatures.L6zfGzLMDLHbZ7VV]`|
+|[Frozen Wind Kitsune](ancestryfeatures/feat-01-kHT9dFJt5yTjeYoB.htm)|Kitsune Vent glacé|`@Compendium[pf2e.ancestryfeatures.kHT9dFJt5yTjeYoB]`|
+|[Fruit Leshy](ancestryfeatures/feat-01-L6zfGzLMDLHbZ7VV.htm)|Léchi fruit|`@Compendium[pf2e.ancestryfeatures.L6zfGzLMDLHbZ7VV]`|
 |[Fungus Leshy](ancestryfeatures/feat-01-87h0jepQuzIbN7jN.htm)|Léchi fongique|`@Compendium[pf2e.ancestryfeatures.87h0jepQuzIbN7jN]`|
-|[Ganzi](ancestryfeatures/feat-01-3reGfXH0S82hM7Gp.htm)||`@Compendium[pf2e.ancestryfeatures.3reGfXH0S82hM7Gp]`|
+|[Ganzi](ancestryfeatures/feat-01-3reGfXH0S82hM7Gp.htm)|Ganzi|`@Compendium[pf2e.ancestryfeatures.3reGfXH0S82hM7Gp]`|
 |[Gourd Leshy](ancestryfeatures/feat-01-wNnsjird4OQe0s6p.htm)|Léchi calebasse|`@Compendium[pf2e.ancestryfeatures.wNnsjird4OQe0s6p]`|
-|[Grave Orc](ancestryfeatures/feat-01-VvEAFoxuddYNBmNc.htm)||`@Compendium[pf2e.ancestryfeatures.VvEAFoxuddYNBmNc]`|
-|[Greater Darkvision](ancestryfeatures/feat-01-vPhPgzpRjYDMT9Kq.htm)||`@Compendium[pf2e.ancestryfeatures.vPhPgzpRjYDMT9Kq]`|
-|[Grig](ancestryfeatures/feat-01-gfXSF1TafBAmZo2u.htm)||`@Compendium[pf2e.ancestryfeatures.gfXSF1TafBAmZo2u]`|
+|[Grave Orc](ancestryfeatures/feat-01-VvEAFoxuddYNBmNc.htm)|Orque tombal|`@Compendium[pf2e.ancestryfeatures.VvEAFoxuddYNBmNc]`|
+|[Greater Darkvision](ancestryfeatures/feat-01-vPhPgzpRjYDMT9Kq.htm)|Vision dans le noir supérieure|`@Compendium[pf2e.ancestryfeatures.vPhPgzpRjYDMT9Kq]`|
+|[Grig](ancestryfeatures/feat-01-gfXSF1TafBAmZo2u.htm)|Grig|`@Compendium[pf2e.ancestryfeatures.gfXSF1TafBAmZo2u]`|
 |[Gutsy Halfling](ancestryfeatures/feat-01-Eq42wZ5OTweJLnLU.htm)|Halfelin flegmatique|`@Compendium[pf2e.ancestryfeatures.Eq42wZ5OTweJLnLU]`|
 |[Half-Elf](ancestryfeatures/feat-01-N36ZR4lh9eCazDaN.htm)|Demi-elfe|`@Compendium[pf2e.ancestryfeatures.N36ZR4lh9eCazDaN]`|
 |[Half-Orc](ancestryfeatures/feat-01-tLd8Qg82AwEbbmgX.htm)|Demi-orc|`@Compendium[pf2e.ancestryfeatures.tLd8Qg82AwEbbmgX]`|
 |[Hillock Halfling](ancestryfeatures/feat-01-Mj7uHxxVkRUlOFwJ.htm)|Halfelin des collines|`@Compendium[pf2e.ancestryfeatures.Mj7uHxxVkRUlOFwJ]`|
 |[Hold-Scarred Orc](ancestryfeatures/feat-01-MTTU2t7x6TjvUDnE.htm)|Orque scarifié|`@Compendium[pf2e.ancestryfeatures.MTTU2t7x6TjvUDnE]`|
 |[Hunting Catfolk](ancestryfeatures/feat-01-1lv7RMp7t5iqeUFT.htm)|Homme-félin chasseur|`@Compendium[pf2e.ancestryfeatures.1lv7RMp7t5iqeUFT]`|
-|[Ifrit](ancestryfeatures/feat-01-Svk2CHwvurK1QQhD.htm)||`@Compendium[pf2e.ancestryfeatures.Svk2CHwvurK1QQhD]`|
-|[Impersonator Android](ancestryfeatures/feat-01-Mmezbef0c1fbJaVV.htm)||`@Compendium[pf2e.ancestryfeatures.Mmezbef0c1fbJaVV]`|
-|[Inured Azarketi](ancestryfeatures/feat-01-7ZDCShtRg5QZggrU.htm)||`@Compendium[pf2e.ancestryfeatures.7ZDCShtRg5QZggrU]`|
+|[Ifrit](ancestryfeatures/feat-01-Svk2CHwvurK1QQhD.htm)|Éfrit|`@Compendium[pf2e.ancestryfeatures.Svk2CHwvurK1QQhD]`|
+|[Impersonator Android](ancestryfeatures/feat-01-Mmezbef0c1fbJaVV.htm)|Imposteur androïde|`@Compendium[pf2e.ancestryfeatures.Mmezbef0c1fbJaVV]`|
+|[Inured Azarketi](ancestryfeatures/feat-01-7ZDCShtRg5QZggrU.htm)|Azarketi endurci|`@Compendium[pf2e.ancestryfeatures.7ZDCShtRg5QZggrU]`|
 |[Irongut Goblin](ancestryfeatures/feat-01-gyoN45SVfRZwHMkk.htm)|Gobelin Boyaud’fer|`@Compendium[pf2e.ancestryfeatures.gyoN45SVfRZwHMkk]`|
 |[Jinxed Halfling](ancestryfeatures/feat-01-G9Gwfi8ZIva52uGp.htm)|Halfelin maudit|`@Compendium[pf2e.ancestryfeatures.G9Gwfi8ZIva52uGp]`|
 |[Jinxed Tengu](ancestryfeatures/feat-01-g4FRxyuHndZu4KTo.htm)|Tengu maudit|`@Compendium[pf2e.ancestryfeatures.g4FRxyuHndZu4KTo]`|
 |[Jungle Catfolk](ancestryfeatures/feat-01-HpqQ5VQ0w4HqYgVC.htm)|Homme-félin de la jungle|`@Compendium[pf2e.ancestryfeatures.HpqQ5VQ0w4HqYgVC]`|
 |[Keen Eyes](ancestryfeatures/feat-00-y1EmCv2cEb5hXBwx.htm)|Yeux perçants|`@Compendium[pf2e.ancestryfeatures.y1EmCv2cEb5hXBwx]`|
-|[Laborer Android](ancestryfeatures/feat-01-MQx7miBXUmOHycqJ.htm)||`@Compendium[pf2e.ancestryfeatures.MQx7miBXUmOHycqJ]`|
+|[Laborer Android](ancestryfeatures/feat-01-MQx7miBXUmOHycqJ.htm)|Manœuvre androïde|`@Compendium[pf2e.ancestryfeatures.MQx7miBXUmOHycqJ]`|
 |[Land on Your Feet](ancestryfeatures/feat-01-sL1hHxrHdMNIZVAd.htm)|Sur vos pattes|`@Compendium[pf2e.ancestryfeatures.sL1hHxrHdMNIZVAd]`|
 |[Leaf Leshy](ancestryfeatures/feat-01-dQqurQys37aJYb26.htm)|Léchi feuillu|`@Compendium[pf2e.ancestryfeatures.dQqurQys37aJYb26]`|
-|[Liminal Catfolk](ancestryfeatures/feat-01-3F5ffk7cmnrBhPcT.htm)||`@Compendium[pf2e.ancestryfeatures.3F5ffk7cmnrBhPcT]`|
-|[Liminal Fetchling](ancestryfeatures/feat-01-PwxbD5VSJ0Yroqvp.htm)||`@Compendium[pf2e.ancestryfeatures.PwxbD5VSJ0Yroqvp]`|
+|[Liminal Catfolk](ancestryfeatures/feat-01-3F5ffk7cmnrBhPcT.htm)|Homme-félin liminaire|`@Compendium[pf2e.ancestryfeatures.3F5ffk7cmnrBhPcT]`|
+|[Liminal Fetchling](ancestryfeatures/feat-01-PwxbD5VSJ0Yroqvp.htm)|Fetchelin liminaire|`@Compendium[pf2e.ancestryfeatures.PwxbD5VSJ0Yroqvp]`|
 |[Longsnout Rat](ancestryfeatures/feat-01-fROPRHGyUn4PgcER.htm)|Rat à long museau|`@Compendium[pf2e.ancestryfeatures.fROPRHGyUn4PgcER]`|
-|[Lotus Leshy](ancestryfeatures/feat-01-ievKYUc53q0mroGp.htm)||`@Compendium[pf2e.ancestryfeatures.ievKYUc53q0mroGp]`|
+|[Lotus Leshy](ancestryfeatures/feat-01-ievKYUc53q0mroGp.htm)|Léchi lotus|`@Compendium[pf2e.ancestryfeatures.ievKYUc53q0mroGp]`|
 |[Low-Light Vision](ancestryfeatures/feat-01-DRtaqOHXTRtGRIUT.htm)|Vision nocturne|`@Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]`|
-|[Luminous Sprite](ancestryfeatures/feat-01-LU4i3qXtyzeTGWZQ.htm)||`@Compendium[pf2e.ancestryfeatures.LU4i3qXtyzeTGWZQ]`|
-|[Magical Strikes](ancestryfeatures/feat-01-TRw4oBZBFZG96jKO.htm)||`@Compendium[pf2e.ancestryfeatures.TRw4oBZBFZG96jKO]`|
-|[Melixie](ancestryfeatures/feat-01-TYvzNoL5ldmB5F76.htm)||`@Compendium[pf2e.ancestryfeatures.TYvzNoL5ldmB5F76]`|
+|[Luminous Sprite](ancestryfeatures/feat-01-LU4i3qXtyzeTGWZQ.htm)|Sprite lumineux|`@Compendium[pf2e.ancestryfeatures.LU4i3qXtyzeTGWZQ]`|
+|[Magical Strikes](ancestryfeatures/feat-01-TRw4oBZBFZG96jKO.htm)|Frappes magiques|`@Compendium[pf2e.ancestryfeatures.TRw4oBZBFZG96jKO]`|
+|[Melixie](ancestryfeatures/feat-01-TYvzNoL5ldmB5F76.htm)|Mélixie|`@Compendium[pf2e.ancestryfeatures.TYvzNoL5ldmB5F76]`|
 |[Mountainkeeper Tengu](ancestryfeatures/feat-01-ptpK6H1rM4Bu3ry4.htm)|Tengu gardemontagne|`@Compendium[pf2e.ancestryfeatures.ptpK6H1rM4Bu3ry4]`|
-|[Murkeyed Azarketi](ancestryfeatures/feat-01-MtH5bq0MhaMQbJEL.htm)||`@Compendium[pf2e.ancestryfeatures.MtH5bq0MhaMQbJEL]`|
+|[Murkeyed Azarketi](ancestryfeatures/feat-01-MtH5bq0MhaMQbJEL.htm)|Azarkety Yeuxobscurs|`@Compendium[pf2e.ancestryfeatures.MtH5bq0MhaMQbJEL]`|
 |[Mutated Flashwarp](ancestryfeatures/feat-01-CCwTBSNTw0caN1jd.htm)||`@Compendium[pf2e.ancestryfeatures.CCwTBSNTw0caN1jd]`|
-|[Nightglider Strix](ancestryfeatures/feat-01-9mS8EGLlGUOzSAzP.htm)||`@Compendium[pf2e.ancestryfeatures.9mS8EGLlGUOzSAzP]`|
+|[Nightglider Strix](ancestryfeatures/feat-01-9mS8EGLlGUOzSAzP.htm)|Strix Planenuit|`@Compendium[pf2e.ancestryfeatures.9mS8EGLlGUOzSAzP]`|
 |[Nine Lives Catfolk](ancestryfeatures/feat-01-hOPOyyt7qZXYYCOU.htm)|Homme-félin aux neuf vies|`@Compendium[pf2e.ancestryfeatures.hOPOyyt7qZXYYCOU]`|
 |[Nomadic Halfling](ancestryfeatures/feat-01-idGDjqi1q3Ft8bAZ.htm)|Halfelin nomade|`@Compendium[pf2e.ancestryfeatures.idGDjqi1q3Ft8bAZ]`|
-|[Nyktera](ancestryfeatures/feat-01-h2VKMYAlUIFAAXVG.htm)||`@Compendium[pf2e.ancestryfeatures.h2VKMYAlUIFAAXVG]`|
+|[Nyktera](ancestryfeatures/feat-01-h2VKMYAlUIFAAXVG.htm)|Nyctère|`@Compendium[pf2e.ancestryfeatures.h2VKMYAlUIFAAXVG]`|
 |[Oathkeeper Dwarf](ancestryfeatures/feat-01-85tRKGZUTFa6pKpG.htm)|Nain gardeserment|`@Compendium[pf2e.ancestryfeatures.85tRKGZUTFa6pKpG]`|
 |[Observant Halfling](ancestryfeatures/feat-01-Lp7ywxabmm88Gei6.htm)|Halfelin observateur|`@Compendium[pf2e.ancestryfeatures.Lp7ywxabmm88Gei6]`|
-|[Oread](ancestryfeatures/feat-01-ITgkqfnAOJCbcIys.htm)||`@Compendium[pf2e.ancestryfeatures.ITgkqfnAOJCbcIys]`|
+|[Oread](ancestryfeatures/feat-01-ITgkqfnAOJCbcIys.htm)|Oréade|`@Compendium[pf2e.ancestryfeatures.ITgkqfnAOJCbcIys]`|
 |[Paddler Shoony](ancestryfeatures/feat-01-mnhpCk9dIwMuFegM.htm)|Shoony Pagayeur|`@Compendium[pf2e.ancestryfeatures.mnhpCk9dIwMuFegM]`|
-|[Pixie](ancestryfeatures/feat-01-KbG2BZ3Sbr3xU1sW.htm)||`@Compendium[pf2e.ancestryfeatures.KbG2BZ3Sbr3xU1sW]`|
+|[Pixie](ancestryfeatures/feat-01-KbG2BZ3Sbr3xU1sW.htm)|Pixie|`@Compendium[pf2e.ancestryfeatures.KbG2BZ3Sbr3xU1sW]`|
 |[Plant Nourishment](ancestryfeatures/feat-01-Sm3tKetM6kddTio3.htm)|Alimentation des plantes|`@Compendium[pf2e.ancestryfeatures.Sm3tKetM6kddTio3]`|
-|[Polyglot Android](ancestryfeatures/feat-01-BjuZKA7lzFSjKbif.htm)||`@Compendium[pf2e.ancestryfeatures.BjuZKA7lzFSjKbif]`|
-|[Predator Strix](ancestryfeatures/feat-01-MUujYQYWg6PNVaaN.htm)||`@Compendium[pf2e.ancestryfeatures.MUujYQYWg6PNVaaN]`|
+|[Polyglot Android](ancestryfeatures/feat-01-BjuZKA7lzFSjKbif.htm)|Androïde polyglotte|`@Compendium[pf2e.ancestryfeatures.BjuZKA7lzFSjKbif]`|
+|[Predator Strix](ancestryfeatures/feat-01-MUujYQYWg6PNVaaN.htm)|Strix prédateur|`@Compendium[pf2e.ancestryfeatures.MUujYQYWg6PNVaaN]`|
 |[Rainfall Orc](ancestryfeatures/feat-01-dwKCwwtWetvPmJks.htm)|Orque des moussons|`@Compendium[pf2e.ancestryfeatures.dwKCwwtWetvPmJks]`|
 |[Razortooth Goblin](ancestryfeatures/feat-01-a6F2WjYU8D0suT8T.htm)|Gobelin Dent’rasoir|`@Compendium[pf2e.ancestryfeatures.a6F2WjYU8D0suT8T]`|
-|[Resolute Fetchling](ancestryfeatures/feat-01-VAo6NnrCEAAOUSkc.htm)||`@Compendium[pf2e.ancestryfeatures.VAo6NnrCEAAOUSkc]`|
+|[Resolute Fetchling](ancestryfeatures/feat-01-VAo6NnrCEAAOUSkc.htm)|Fetchelin résolu|`@Compendium[pf2e.ancestryfeatures.VAo6NnrCEAAOUSkc]`|
 |[Rock Dwarf](ancestryfeatures/feat-01-VSyOvtgJ1ZNpIVgC.htm)|Nain des roches|`@Compendium[pf2e.ancestryfeatures.VSyOvtgJ1ZNpIVgC]`|
-|[Root Leshy](ancestryfeatures/feat-01-CZx9HMmoOwcpkLY8.htm)||`@Compendium[pf2e.ancestryfeatures.CZx9HMmoOwcpkLY8]`|
+|[Root Leshy](ancestryfeatures/feat-01-CZx9HMmoOwcpkLY8.htm)|Léchi racine|`@Compendium[pf2e.ancestryfeatures.CZx9HMmoOwcpkLY8]`|
 |[Runtboss Hobgoblin](ancestryfeatures/feat-01-CzOHITB2ihLGqMuJ.htm)|Hobgobelin commandant avorton|`@Compendium[pf2e.ancestryfeatures.CzOHITB2ihLGqMuJ]`|
 |[Sandstrider Lizardfolk](ancestryfeatures/feat-01-6xxXtgj3fcCi53lt.htm)|Homme-lézard arpenteur des sables|`@Compendium[pf2e.ancestryfeatures.6xxXtgj3fcCi53lt]`|
-|[Scavenger Strix](ancestryfeatures/feat-01-j0R1SyJP8k4G2Hkn.htm)||`@Compendium[pf2e.ancestryfeatures.j0R1SyJP8k4G2Hkn]`|
-|[Seaweed Leshy](ancestryfeatures/feat-01-hTl3uc6y1kTuo9ac.htm)||`@Compendium[pf2e.ancestryfeatures.hTl3uc6y1kTuo9ac]`|
+|[Scavenger Strix](ancestryfeatures/feat-01-j0R1SyJP8k4G2Hkn.htm)|Strix récupérateur|`@Compendium[pf2e.ancestryfeatures.j0R1SyJP8k4G2Hkn]`|
+|[Seaweed Leshy](ancestryfeatures/feat-01-hTl3uc6y1kTuo9ac.htm)|Léchi algue|`@Compendium[pf2e.ancestryfeatures.hTl3uc6y1kTuo9ac]`|
 |[Seer Elf](ancestryfeatures/feat-01-jEtVesbqYcWGbBYk.htm)|Elfe visionnaire|`@Compendium[pf2e.ancestryfeatures.jEtVesbqYcWGbBYk]`|
 |[Sensate Gnome](ancestryfeatures/feat-01-tXC5Gwn9D5x0ouJh.htm)|Gnome sensitif|`@Compendium[pf2e.ancestryfeatures.tXC5Gwn9D5x0ouJh]`|
 |[Sewer Rat](ancestryfeatures/feat-01-eFsD7W6hnK33jlDQ.htm)|Rat d'égoûts|`@Compendium[pf2e.ancestryfeatures.eFsD7W6hnK33jlDQ]`|
 |[Shadow Rat](ancestryfeatures/feat-01-tarfuEXmi0E0Enfy.htm)|Rat de l'ombre|`@Compendium[pf2e.ancestryfeatures.tarfuEXmi0E0Enfy]`|
-|[Shapewrought Fleshwarp](ancestryfeatures/feat-01-uxtcKTkD62SmrUoh.htm)||`@Compendium[pf2e.ancestryfeatures.uxtcKTkD62SmrUoh]`|
+|[Shapewrought Fleshwarp](ancestryfeatures/feat-01-uxtcKTkD62SmrUoh.htm)|Distordu forméforgé|`@Compendium[pf2e.ancestryfeatures.uxtcKTkD62SmrUoh]`|
 |[Sharp Beak](ancestryfeatures/feat-00-qJD3PJdoSXFrZEwr.htm)|Bec aiguisé|`@Compendium[pf2e.ancestryfeatures.qJD3PJdoSXFrZEwr]`|
-|[Sharp-Eared Catfolk](ancestryfeatures/feat-01-NWsZ0cIeghyzk9bU.htm)||`@Compendium[pf2e.ancestryfeatures.NWsZ0cIeghyzk9bU]`|
-|[Shoreline Strix](ancestryfeatures/feat-01-RxNBBMFZwPA3Vlg3.htm)||`@Compendium[pf2e.ancestryfeatures.RxNBBMFZwPA3Vlg3]`|
-|[Shortshanks Hobgoblin](ancestryfeatures/feat-01-rQJBtQ9uKUzK9ktK.htm)||`@Compendium[pf2e.ancestryfeatures.rQJBtQ9uKUzK9ktK]`|
+|[Sharp-Eared Catfolk](ancestryfeatures/feat-01-NWsZ0cIeghyzk9bU.htm)|Homme-félin aux oreilles pointues|`@Compendium[pf2e.ancestryfeatures.NWsZ0cIeghyzk9bU]`|
+|[Shoreline Strix](ancestryfeatures/feat-01-RxNBBMFZwPA3Vlg3.htm)|Strix des falaises|`@Compendium[pf2e.ancestryfeatures.RxNBBMFZwPA3Vlg3]`|
+|[Shortshanks Hobgoblin](ancestryfeatures/feat-01-rQJBtQ9uKUzK9ktK.htm)|Hobgobelin courtespattes|`@Compendium[pf2e.ancestryfeatures.rQJBtQ9uKUzK9ktK]`|
 |[Skilled Heritage](ancestryfeatures/feat-01-zVf0Hlp5xG0Q7kmc.htm)|Héritage talentueux|`@Compendium[pf2e.ancestryfeatures.zVf0Hlp5xG0Q7kmc]`|
 |[Skyborn Tengu](ancestryfeatures/feat-01-rKV11HWREwjjMIum.htm)|Tengu des cieux|`@Compendium[pf2e.ancestryfeatures.rKV11HWREwjjMIum]`|
 |[Smokeworker Hobgoblin](ancestryfeatures/feat-01-n2eJEjA8pnOMiuCm.htm)|Hobgobelin travailleur de fumée|`@Compendium[pf2e.ancestryfeatures.n2eJEjA8pnOMiuCm]`|
 |[Snow Goblin](ancestryfeatures/feat-01-gQyPU441J3rGt8mD.htm)|Gobelin des Neiges|`@Compendium[pf2e.ancestryfeatures.gQyPU441J3rGt8mD]`|
-|[Snow Rat](ancestryfeatures/feat-01-7lFPhRMAFXQsXUP2.htm)||`@Compendium[pf2e.ancestryfeatures.7lFPhRMAFXQsXUP2]`|
-|[Songbird Strix](ancestryfeatures/feat-01-fWT7Mo2vFC10H4Wq.htm)||`@Compendium[pf2e.ancestryfeatures.fWT7Mo2vFC10H4Wq]`|
+|[Snow Rat](ancestryfeatures/feat-01-7lFPhRMAFXQsXUP2.htm)|Rat Neige|`@Compendium[pf2e.ancestryfeatures.7lFPhRMAFXQsXUP2]`|
+|[Songbird Strix](ancestryfeatures/feat-01-fWT7Mo2vFC10H4Wq.htm)|Strix oiseauchanteur|`@Compendium[pf2e.ancestryfeatures.fWT7Mo2vFC10H4Wq]`|
 |[Spellscale Kobold](ancestryfeatures/feat-01-VRyX00OuPGsJSurM.htm)|Kobold écaille de sort|`@Compendium[pf2e.ancestryfeatures.VRyX00OuPGsJSurM]`|
-|[Spined Azarketi](ancestryfeatures/feat-01-9Iu1gFEuvVz9zaYU.htm)||`@Compendium[pf2e.ancestryfeatures.9Iu1gFEuvVz9zaYU]`|
-|[Steelskin Hobgoblin](ancestryfeatures/feat-01-BFOsMnWfXL1oaWkY.htm)||`@Compendium[pf2e.ancestryfeatures.BFOsMnWfXL1oaWkY]`|
+|[Spined Azarketi](ancestryfeatures/feat-01-9Iu1gFEuvVz9zaYU.htm)|Azarketi épineux|`@Compendium[pf2e.ancestryfeatures.9Iu1gFEuvVz9zaYU]`|
+|[Steelskin Hobgoblin](ancestryfeatures/feat-01-BFOsMnWfXL1oaWkY.htm)|Hobgobelin Peaud'acier|`@Compendium[pf2e.ancestryfeatures.BFOsMnWfXL1oaWkY]`|
 |[Stormtossed Tengu](ancestryfeatures/feat-01-7vHLPleFpSqKAjWG.htm)|Tengu battu par les vents|`@Compendium[pf2e.ancestryfeatures.7vHLPleFpSqKAjWG]`|
 |[Strong-Blooded Dwarf](ancestryfeatures/feat-01-UV2sABrTC5teOXTE.htm)|Nain sang-fort|`@Compendium[pf2e.ancestryfeatures.UV2sABrTC5teOXTE]`|
 |[Strongjaw Kobold](ancestryfeatures/feat-01-WaCn0mcivFv1omNK.htm)|Kobold à forte mâchoire|`@Compendium[pf2e.ancestryfeatures.WaCn0mcivFv1omNK]`|
-|[Suli](ancestryfeatures/feat-01-RKz7Z5pefXKiv9JE.htm)||`@Compendium[pf2e.ancestryfeatures.RKz7Z5pefXKiv9JE]`|
-|[Sylph](ancestryfeatures/feat-01-G8jfMayPv4vZvAVr.htm)||`@Compendium[pf2e.ancestryfeatures.G8jfMayPv4vZvAVr]`|
-|[Tactile Azarketi](ancestryfeatures/feat-01-S1062No0sYH35AhN.htm)||`@Compendium[pf2e.ancestryfeatures.S1062No0sYH35AhN]`|
+|[Suli](ancestryfeatures/feat-01-RKz7Z5pefXKiv9JE.htm)|Suli|`@Compendium[pf2e.ancestryfeatures.RKz7Z5pefXKiv9JE]`|
+|[Sylph](ancestryfeatures/feat-01-G8jfMayPv4vZvAVr.htm)|Sylphe|`@Compendium[pf2e.ancestryfeatures.G8jfMayPv4vZvAVr]`|
+|[Tactile Azarketi](ancestryfeatures/feat-01-S1062No0sYH35AhN.htm)|Azarketi tactile|`@Compendium[pf2e.ancestryfeatures.S1062No0sYH35AhN]`|
 |[Tailed Goblin](ancestryfeatures/feat-01-8wGUh9RsMUamOKjh.htm)|Gobelin à queue|`@Compendium[pf2e.ancestryfeatures.8wGUh9RsMUamOKjh]`|
 |[Taloned Tengu](ancestryfeatures/feat-01-qM566kCXljkOpocA.htm)|Tengu à ergots|`@Compendium[pf2e.ancestryfeatures.qM566kCXljkOpocA]`|
-|[Technological Fleshwarp](ancestryfeatures/feat-01-n2DKA0OQQcfvZRly.htm)||`@Compendium[pf2e.ancestryfeatures.n2DKA0OQQcfvZRly]`|
+|[Technological Fleshwarp](ancestryfeatures/feat-01-n2DKA0OQQcfvZRly.htm)|Distordu technologique|`@Compendium[pf2e.ancestryfeatures.n2DKA0OQQcfvZRly]`|
 |[Thickcoat Shoony](ancestryfeatures/feat-01-MhXHEh7utEfxBwmc.htm)|Shoony à fourrure|`@Compendium[pf2e.ancestryfeatures.MhXHEh7utEfxBwmc]`|
 |[Tiefling](ancestryfeatures/feat-01-wGMVflH4t1UXrNn5.htm)|Tieffelin|`@Compendium[pf2e.ancestryfeatures.wGMVflH4t1UXrNn5]`|
 |[Treedweller Goblin](ancestryfeatures/feat-01-EEvA4uj8h3zDiAfP.htm)|Gobelin arboricole|`@Compendium[pf2e.ancestryfeatures.EEvA4uj8h3zDiAfP]`|
-|[Tunnel Rat](ancestryfeatures/feat-01-U882U2NUUGL6u3rL.htm)||`@Compendium[pf2e.ancestryfeatures.U882U2NUUGL6u3rL]`|
-|[Tunnelflood Kobold](ancestryfeatures/feat-01-ZW8GX14n3ZGievK1.htm)||`@Compendium[pf2e.ancestryfeatures.ZW8GX14n3ZGievK1]`|
+|[Tunnel Rat](ancestryfeatures/feat-01-U882U2NUUGL6u3rL.htm)|Rat des tunnels|`@Compendium[pf2e.ancestryfeatures.U882U2NUUGL6u3rL]`|
+|[Tunnelflood Kobold](ancestryfeatures/feat-01-ZW8GX14n3ZGievK1.htm)|Kobold Tunnelinondé|`@Compendium[pf2e.ancestryfeatures.ZW8GX14n3ZGievK1]`|
 |[Twilight Halfling](ancestryfeatures/feat-01-cCy8vsZENlwiAyZ6.htm)|Halfelin du crépuscule|`@Compendium[pf2e.ancestryfeatures.cCy8vsZENlwiAyZ6]`|
 |[Umbral Gnome](ancestryfeatures/feat-01-d0bNxgGqvaCkFlhN.htm)|Gnome ombral|`@Compendium[pf2e.ancestryfeatures.d0bNxgGqvaCkFlhN]`|
 |[Unbreakable Goblin](ancestryfeatures/feat-01-ULj56ZoW7dWdnBvu.htm)|Gobelin Incassable|`@Compendium[pf2e.ancestryfeatures.ULj56ZoW7dWdnBvu]`|
-|[Undine](ancestryfeatures/feat-01-Gmk7oNITvMVBy78Z.htm)||`@Compendium[pf2e.ancestryfeatures.Gmk7oNITvMVBy78Z]`|
+|[Undine](ancestryfeatures/feat-01-Gmk7oNITvMVBy78Z.htm)|Ondin|`@Compendium[pf2e.ancestryfeatures.Gmk7oNITvMVBy78Z]`|
 |[Unseen Lizardfolk](ancestryfeatures/feat-01-VYfpTUuXJM3iBOz0.htm)|Homme-lézard mimétique|`@Compendium[pf2e.ancestryfeatures.VYfpTUuXJM3iBOz0]`|
-|[Unusual Anatomy](ancestryfeatures/feat-01-mEDTJi7d1bTEiwUD.htm)||`@Compendium[pf2e.ancestryfeatures.mEDTJi7d1bTEiwUD]`|
+|[Unusual Anatomy](ancestryfeatures/feat-01-mEDTJi7d1bTEiwUD.htm)|Anatomie inhabituelle|`@Compendium[pf2e.ancestryfeatures.mEDTJi7d1bTEiwUD]`|
 |[Venomtail Kobold](ancestryfeatures/feat-01-m9rrlchS10xHFA2G.htm)|Kobold à queue venimeuse|`@Compendium[pf2e.ancestryfeatures.m9rrlchS10xHFA2G]`|
 |[Versatile Heritage](ancestryfeatures/feat-01-hFBwsVcSnNCJoimo.htm)|Héritage polyvalent|`@Compendium[pf2e.ancestryfeatures.hFBwsVcSnNCJoimo]`|
 |[Vine Leshy](ancestryfeatures/feat-01-evXJISqyhl3fHE9u.htm)|Léchi à liane|`@Compendium[pf2e.ancestryfeatures.evXJISqyhl3fHE9u]`|
 |[Vivacious Gnome](ancestryfeatures/feat-01-ViKRoVgog172r163.htm)|Gnome vivace|`@Compendium[pf2e.ancestryfeatures.ViKRoVgog172r163]`|
 |[Warmarch Hobgoblin](ancestryfeatures/feat-01-K124fCpU03SJvmeP.htm)|Hobgobelin Marchebataille|`@Compendium[pf2e.ancestryfeatures.K124fCpU03SJvmeP]`|
 |[Warrenbred Hobgoblin](ancestryfeatures/feat-01-0vaeOoECfVD5EGbq.htm)|Hobgobelin Terrierné|`@Compendium[pf2e.ancestryfeatures.0vaeOoECfVD5EGbq]`|
-|[Warrior Android](ancestryfeatures/feat-01-RuQSx0QsirIKxwKY.htm)||`@Compendium[pf2e.ancestryfeatures.RuQSx0QsirIKxwKY]`|
-|[Wavediver Tengu](ancestryfeatures/feat-01-WEzgrxBRFBGdj8Hx.htm)||`@Compendium[pf2e.ancestryfeatures.WEzgrxBRFBGdj8Hx]`|
+|[Warrior Android](ancestryfeatures/feat-01-RuQSx0QsirIKxwKY.htm)|Androïde combattant|`@Compendium[pf2e.ancestryfeatures.RuQSx0QsirIKxwKY]`|
+|[Wavediver Tengu](ancestryfeatures/feat-01-WEzgrxBRFBGdj8Hx.htm)|Tengu Plongevague|`@Compendium[pf2e.ancestryfeatures.WEzgrxBRFBGdj8Hx]`|
 |[Wellspring Gnome](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Gnome source|`@Compendium[pf2e.ancestryfeatures.etkuQkjkNLPLnjkA]`|
 |[Wetlander Lizardfolk](ancestryfeatures/feat-01-dJeiekfqGQ8dkwsO.htm)|Homme-lézard des terres humides|`@Compendium[pf2e.ancestryfeatures.dJeiekfqGQ8dkwsO]`|
 |[Whisper Elf](ancestryfeatures/feat-01-1wVDYY9Wue0G5R9Q.htm)|Elfe des murmures|`@Compendium[pf2e.ancestryfeatures.1wVDYY9Wue0G5R9Q]`|
 |[Wildwood Halfling](ancestryfeatures/feat-01-xtRIYizCjLg9qe1Z.htm)|Halfelin bois-sauvage|`@Compendium[pf2e.ancestryfeatures.xtRIYizCjLg9qe1Z]`|
-|[Wings](ancestryfeatures/feat-01-oCIO7UJqbpTkI62l.htm)||`@Compendium[pf2e.ancestryfeatures.oCIO7UJqbpTkI62l]`|
+|[Wings](ancestryfeatures/feat-01-oCIO7UJqbpTkI62l.htm)|Ailes|`@Compendium[pf2e.ancestryfeatures.oCIO7UJqbpTkI62l]`|
 |[Winter Catfolk](ancestryfeatures/feat-01-6dMd4JG0ndrObEUj.htm)|Homme-félin hivernal|`@Compendium[pf2e.ancestryfeatures.6dMd4JG0ndrObEUj]`|
-|[Winter Orc](ancestryfeatures/feat-01-pZ1u2ScWrBXSaAqQ.htm)||`@Compendium[pf2e.ancestryfeatures.pZ1u2ScWrBXSaAqQ]`|
+|[Winter Orc](ancestryfeatures/feat-01-pZ1u2ScWrBXSaAqQ.htm)|Orc de l'hiver|`@Compendium[pf2e.ancestryfeatures.pZ1u2ScWrBXSaAqQ]`|
 |[Wintertouched Human](ancestryfeatures/feat-01-KO33MNyY9VqNQmbZ.htm)|Humain touché par l'hiver|`@Compendium[pf2e.ancestryfeatures.KO33MNyY9VqNQmbZ]`|
-|[Wisp Fetchling](ancestryfeatures/feat-01-kHHcvJBJNiPJTuna.htm)||`@Compendium[pf2e.ancestryfeatures.kHHcvJBJNiPJTuna]`|
+|[Wisp Fetchling](ancestryfeatures/feat-01-kHHcvJBJNiPJTuna.htm)|Fetchelin volute|`@Compendium[pf2e.ancestryfeatures.kHHcvJBJNiPJTuna]`|
 |[Woodland Elf](ancestryfeatures/feat-01-nW1gi13E62Feto2w.htm)|Elfe des bois|`@Compendium[pf2e.ancestryfeatures.nW1gi13E62Feto2w]`|
-|[Woodstalker Lizardfolk](ancestryfeatures/feat-01-TQFE10VFvh9wb8zb.htm)||`@Compendium[pf2e.ancestryfeatures.TQFE10VFvh9wb8zb]`|
+|[Woodstalker Lizardfolk](ancestryfeatures/feat-01-TQFE10VFvh9wb8zb.htm)|Homme-lézard Arpenteur sylvestre|`@Compendium[pf2e.ancestryfeatures.TQFE10VFvh9wb8zb]`|
 
 
 ## Backgrounds
@@ -686,7 +686,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Oenopion-Ooze Tender](backgrounds/iWWg16f3re1YChiD.htm)|Éleveur de vases d'œnopion|`@Compendium[pf2e.backgrounds.iWWg16f3re1YChiD]`|
 |[Onyx Trader](backgrounds/WueM94C9JXk10jPd.htm)|Marchand d'Onyx|`@Compendium[pf2e.backgrounds.WueM94C9JXk10jPd]`|
 |[Osirionologist](backgrounds/AJ41zFEYwlOUghXp.htm)|Osirionologiste|`@Compendium[pf2e.backgrounds.AJ41zFEYwlOUghXp]`|
-|[Out-Of-Towner](backgrounds/UgityMZaujmYUpil.htm)||`@Compendium[pf2e.backgrounds.UgityMZaujmYUpil]`|
+|[Out-Of-Towner](backgrounds/UgityMZaujmYUpil.htm)|De passage|`@Compendium[pf2e.backgrounds.UgityMZaujmYUpil]`|
 |[Outrider](backgrounds/dAvFZ5QmbAHgXcNp.htm)|Éclaireur|`@Compendium[pf2e.backgrounds.dAvFZ5QmbAHgXcNp]`|
 |[Pathfinder Hopeful](backgrounds/j9v38iHA0sVy59SR.htm)|Aspirant Éclaireur|`@Compendium[pf2e.backgrounds.j9v38iHA0sVy59SR]`|
 |[Pathfinder Recruiter](backgrounds/NXYce9NAHls2fcIf.htm)|Recrue des Éclaireurs|`@Compendium[pf2e.backgrounds.NXYce9NAHls2fcIf]`|
@@ -2246,7 +2246,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Anchoring Aura](feats/class-14-b5K067Pma4Il9IeD.htm)|Aura d'ancrage|`@Compendium[pf2e.feats-srd.b5K067Pma4Il9IeD]`|
 |[Anchoring Roots](feats/ancestry-05-1miLVRtvsnZU6TTk.htm)||`@Compendium[pf2e.feats-srd.1miLVRtvsnZU6TTk]`|
 |[Ancillary Motes](feats/ancestry-09-lT2sOwC6Pi5P4Yq0.htm)||`@Compendium[pf2e.feats-srd.lT2sOwC6Pi5P4Yq0]`|
-|[Android Lore](feats/ancestry-01-1r514EjD9YrZJ5rk.htm)||`@Compendium[pf2e.feats-srd.1r514EjD9YrZJ5rk]`|
+|[Android Lore](feats/ancestry-01-1r514EjD9YrZJ5rk.htm)|Connaissance androïde|`@Compendium[pf2e.feats-srd.1r514EjD9YrZJ5rk]`|
 |[Angel Of Death](feats/archetype-10-3poGYUYCBTmbeCUs.htm)|Ange de la mort|`@Compendium[pf2e.feats-srd.3poGYUYCBTmbeCUs]`|
 |[Angelic Magic](feats/ancestry-09-esKk5XrnlqRayDPG.htm)|Magie des anges|`@Compendium[pf2e.feats-srd.esKk5XrnlqRayDPG]`|
 |[Angelkin](feats/ancestry-01-ydgCsYsgqSkFWEDK.htm)|Type angélique|`@Compendium[pf2e.feats-srd.ydgCsYsgqSkFWEDK]`|
@@ -2478,7 +2478,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Callow May](feats/ancestry-01-IFvjnLMw3ht8f84U.htm)|Vierge novice|`@Compendium[pf2e.feats-srd.IFvjnLMw3ht8f84U]`|
 |[Camouflage](feats/class-10-qqe5VmcO1s8iTOfd.htm)|Camouflage|`@Compendium[pf2e.feats-srd.qqe5VmcO1s8iTOfd]`|
 |[Canny Acumen](feats/general-01-i4yRvVwvXbGZDsD1.htm)|Perspicacité astucieuse|`@Compendium[pf2e.feats-srd.i4yRvVwvXbGZDsD1]`|
-|[Cantorian Reinforcement](feats/ancestry-01-0qshtd4mBcjFAxA8.htm)||`@Compendium[pf2e.feats-srd.0qshtd4mBcjFAxA8]`|
+|[Cantorian Reinforcement](feats/ancestry-01-0qshtd4mBcjFAxA8.htm)|Renfort cantorien|`@Compendium[pf2e.feats-srd.0qshtd4mBcjFAxA8]`|
 |[Cantorian Rejuvenation](feats/ancestry-09-56HvICglqH7uR3AY.htm)||`@Compendium[pf2e.feats-srd.56HvICglqH7uR3AY]`|
 |[Cantorian Restoration](feats/ancestry-17-Qc9MH7wT182qasSV.htm)||`@Compendium[pf2e.feats-srd.Qc9MH7wT182qasSV]`|
 |[Cantrip Expansion](feats/class-02-A7ofsoPva0UtjqrX.htm)|Expansion de tour de magie|`@Compendium[pf2e.feats-srd.A7ofsoPva0UtjqrX]`|
@@ -2599,7 +2599,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cooperative Soul](feats/ancestry-09-Z2EiYMtGoNnwW6Tk.htm)|Âme coopérative|`@Compendium[pf2e.feats-srd.Z2EiYMtGoNnwW6Tk]`|
 |[Coordinated Charge](feats/archetype-12-KYF9e4oeSjHKgbwM.htm)|Charge Coordonnée|`@Compendium[pf2e.feats-srd.KYF9e4oeSjHKgbwM]`|
 |[Coordinated Distraction](feats/class-12-XyQpqznuO5LGFvhz.htm)|Diversion coordonnée|`@Compendium[pf2e.feats-srd.XyQpqznuO5LGFvhz]`|
-|[Corgi Mount](feats/ancestry-01-9OdLdxvH5M9FyYSm.htm)||`@Compendium[pf2e.feats-srd.9OdLdxvH5M9FyYSm]`|
+|[Corgi Mount](feats/ancestry-01-9OdLdxvH5M9FyYSm.htm)|Monture corgi|`@Compendium[pf2e.feats-srd.9OdLdxvH5M9FyYSm]`|
 |[Cornered Fury](feats/ancestry-05-ulrGnvF0KAgEaifX.htm)||`@Compendium[pf2e.feats-srd.ulrGnvF0KAgEaifX]`|
 |[Corrupted Shield](feats/class-06-uH3ZRkXPsXi1ChO2.htm)|Bouclier corrompu|`@Compendium[pf2e.feats-srd.uH3ZRkXPsXi1ChO2]`|
 |[Counter Perform](feats/archetype-06-t5zeg3m9rEnWnYXY.htm)|Contre-représentation|`@Compendium[pf2e.feats-srd.t5zeg3m9rEnWnYXY]`|
@@ -2618,7 +2618,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Crafter's Appraisal](feats/skill-01-voYr7ygVcWmlg1f4.htm)|Évaluation artisanale|`@Compendium[pf2e.feats-srd.voYr7ygVcWmlg1f4]`|
 |[Crane Flutter](feats/class-06-S14S52HjszTgIy4l.htm)|Battement d'aile de la grue|`@Compendium[pf2e.feats-srd.S14S52HjszTgIy4l]`|
 |[Crane Stance](feats/class-01-bf7NCeKqDClaqhTR.htm)|Posture de la grue|`@Compendium[pf2e.feats-srd.bf7NCeKqDClaqhTR]`|
-|[Creative Prodigy](feats/ancestry-01-3J0NxeHcA1h9eToK.htm)||`@Compendium[pf2e.feats-srd.3J0NxeHcA1h9eToK]`|
+|[Creative Prodigy](feats/ancestry-01-3J0NxeHcA1h9eToK.htm)|Prodige créatif|`@Compendium[pf2e.feats-srd.3J0NxeHcA1h9eToK]`|
 |[Cremate Undead](feats/class-08-nLTTph2tgwcQghVq.htm)|Incinération de morts-vivants|`@Compendium[pf2e.feats-srd.nLTTph2tgwcQghVq]`|
 |[Criminal Connections](feats/skill-02-LDUWw2TeEEH0KA6M.htm)|Réseau criminel|`@Compendium[pf2e.feats-srd.LDUWw2TeEEH0KA6M]`|
 |[Crimson Shroud](feats/archetype-06-M2V1vqAziOkWV30B.htm)|Voile pourpre|`@Compendium[pf2e.feats-srd.M2V1vqAziOkWV30B]`|
@@ -2686,7 +2686,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Deity's Domain](feats/class-01-FXKIALDXAzEBfj5A.htm)|Domaine de la divinité|`@Compendium[pf2e.feats-srd.FXKIALDXAzEBfj5A]`|
 |[Deity's Protection](feats/class-14-DUb1VWSbTjdsbAkQ.htm)|Protection de la divinité|`@Compendium[pf2e.feats-srd.DUb1VWSbTjdsbAkQ]`|
 |[Delay Trap](feats/class-08-Ar6W97iun6yYI8Df.htm)|Retardement de piège|`@Compendium[pf2e.feats-srd.Ar6W97iun6yYI8Df]`|
-|[Deliberate Death](feats/ancestry-01-30e9SdbmI3t5OJQE.htm)||`@Compendium[pf2e.feats-srd.30e9SdbmI3t5OJQE]`|
+|[Deliberate Death](feats/ancestry-01-30e9SdbmI3t5OJQE.htm)|Mort délibérée|`@Compendium[pf2e.feats-srd.30e9SdbmI3t5OJQE]`|
 |[Demanding Challenge](feats/archetype-10-n0693gmx3k9wvb1N.htm)|Défi exigeant|`@Compendium[pf2e.feats-srd.n0693gmx3k9wvb1N]`|
 |[Demolition Charge](feats/class-02-KCwXj3y7Nm4e3NbI.htm)|Explosion de démolition|`@Compendium[pf2e.feats-srd.KCwXj3y7Nm4e3NbI]`|
 |[Demon Magic](feats/ancestry-09-3N6T7AQETVKaAwiR.htm)|Magie des démons|`@Compendium[pf2e.feats-srd.3N6T7AQETVKaAwiR]`|
@@ -2856,7 +2856,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Elemental Assault](feats/ancestry-01-OKSsFlHY5UKc4dKu.htm)||`@Compendium[pf2e.feats-srd.OKSsFlHY5UKc4dKu]`|
 |[Elemental Bulwark](feats/ancestry-05-IUVzB39pRVyBFOEx.htm)||`@Compendium[pf2e.feats-srd.IUVzB39pRVyBFOEx]`|
 |[Elemental Embellish](feats/ancestry-01-VZDJgGm5LGb1Pdck.htm)||`@Compendium[pf2e.feats-srd.VZDJgGm5LGb1Pdck]`|
-|[Elemental Eyes](feats/ancestry-01-6ENHSzqg88J6dri6.htm)||`@Compendium[pf2e.feats-srd.6ENHSzqg88J6dri6]`|
+|[Elemental Eyes](feats/ancestry-01-6ENHSzqg88J6dri6.htm)|Yeux élémentaires|`@Compendium[pf2e.feats-srd.6ENHSzqg88J6dri6]`|
 |[Elemental Fist](feats/class-02-BU4NBIBkVZxdWLLH.htm)|Poing élémentaire|`@Compendium[pf2e.feats-srd.BU4NBIBkVZxdWLLH]`|
 |[Elemental Lore](feats/ancestry-01-RJClD7YYsAFutxNs.htm)||`@Compendium[pf2e.feats-srd.RJClD7YYsAFutxNs]`|
 |[Elemental Shape](feats/class-10-F0MYBfiyOD8YHq5t.htm)|Morphologie élémentaire|`@Compendium[pf2e.feats-srd.F0MYBfiyOD8YHq5t]`|
@@ -3128,7 +3128,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Gemsoul](feats/ancestry-01-o6MXyjSgavTzU5AS.htm)||`@Compendium[pf2e.feats-srd.o6MXyjSgavTzU5AS]`|
 |[General Training](feats/ancestry-01-D3SuA5MaKucO1flE.htm)|Formation généraliste|`@Compendium[pf2e.feats-srd.D3SuA5MaKucO1flE]`|
 |[Genie Weapon Expertise](feats/ancestry-13-i3wSkeU7CSyHEi4Y.htm)||`@Compendium[pf2e.feats-srd.i3wSkeU7CSyHEi4Y]`|
-|[Genie Weapon Familiarity](feats/ancestry-01-8DDwqrYHie33cf6d.htm)||`@Compendium[pf2e.feats-srd.8DDwqrYHie33cf6d]`|
+|[Genie Weapon Familiarity](feats/ancestry-01-8DDwqrYHie33cf6d.htm)|Familiarité avec les armes des génies|`@Compendium[pf2e.feats-srd.8DDwqrYHie33cf6d]`|
 |[Genie Weapon Flourish](feats/ancestry-05-2kwLzw618QaIHOap.htm)||`@Compendium[pf2e.feats-srd.2kwLzw618QaIHOap]`|
 |[Genius Mutagen](feats/class-16-mj1pVVFtqGLKgCQM.htm)|Mutagène de génie|`@Compendium[pf2e.feats-srd.mj1pVVFtqGLKgCQM]`|
 |[Ghost Hunter](feats/ancestry-01-DGtUIMliflzGXc6E.htm)|Chasseur de fantômes|`@Compendium[pf2e.feats-srd.DGtUIMliflzGXc6E]`|
@@ -3231,7 +3231,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Handy with your Paws](feats/ancestry-01-1newzNV5nkLvZ9KE.htm)|Adroit de vos pattes|`@Compendium[pf2e.feats-srd.1newzNV5nkLvZ9KE]`|
 |[Harbinger’s Caw](feats/ancestry-13-KRfZcToCc5nvcQRa.htm)||`@Compendium[pf2e.feats-srd.KRfZcToCc5nvcQRa]`|
 |[Hard Tail](feats/ancestry-01-0qeYP84FfQueggkx.htm)|Queue dure|`@Compendium[pf2e.feats-srd.0qeYP84FfQueggkx]`|
-|[Hard To Fool](feats/ancestry-01-7lXCPeGMB3RrDVdS.htm)||`@Compendium[pf2e.feats-srd.7lXCPeGMB3RrDVdS]`|
+|[Hard To Fool](feats/ancestry-01-7lXCPeGMB3RrDVdS.htm)|Difficile à tromper|`@Compendium[pf2e.feats-srd.7lXCPeGMB3RrDVdS]`|
 |[Hardy Traveler](feats/ancestry-09-aznyI5mfMdEFSDr8.htm)|Voyageur robuste|`@Compendium[pf2e.feats-srd.aznyI5mfMdEFSDr8]`|
 |[Harming Hands](feats/class-01-1W0a6YCyoYv8dm4e.htm)|Mains blessantes|`@Compendium[pf2e.feats-srd.1W0a6YCyoYv8dm4e]`|
 |[Harmlessly Cute](feats/ancestry-01-GYdLf1LhvSUeu95Y.htm)|Inoffensivement mignon|`@Compendium[pf2e.feats-srd.GYdLf1LhvSUeu95Y]`|
@@ -3743,7 +3743,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Orc Lore](feats/ancestry-01-254C4rqrE8APDfCf.htm)|Connaissance Orque|`@Compendium[pf2e.feats-srd.254C4rqrE8APDfCf]`|
 |[Orc Sight](feats/ancestry-01-SCgqIo8VQZZKZ1Ws.htm)|Vision Orque|`@Compendium[pf2e.feats-srd.SCgqIo8VQZZKZ1Ws]`|
 |[Orc Superstition](feats/ancestry-01-EFhh3AenX7wtAmrs.htm)|Superstition Orque|`@Compendium[pf2e.feats-srd.EFhh3AenX7wtAmrs]`|
-|[Orc Warmask](feats/ancestry-01-1HsH8hE79MDsi8kK.htm)||`@Compendium[pf2e.feats-srd.1HsH8hE79MDsi8kK]`|
+|[Orc Warmask](feats/ancestry-01-1HsH8hE79MDsi8kK.htm)|Masque de guerre orque|`@Compendium[pf2e.feats-srd.1HsH8hE79MDsi8kK]`|
 |[Orc Weapon Carnage](feats/ancestry-05-Y3IUIsopvN13vEvZ.htm)|Carnage avec les armes orques|`@Compendium[pf2e.feats-srd.Y3IUIsopvN13vEvZ]`|
 |[Orc Weapon Expertise](feats/ancestry-13-g6M5mapOXVf0g9BG.htm)|Expertise avec les armes orques|`@Compendium[pf2e.feats-srd.g6M5mapOXVf0g9BG]`|
 |[Orc Weapon Familiarity](feats/ancestry-01-1tVC0mcxl8sTCg4U.htm)|Familiarité avec les armes orques|`@Compendium[pf2e.feats-srd.1tVC0mcxl8sTCg4U]`|
@@ -3815,7 +3815,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Pilgrim's Token](feats/skill-01-BqceQIKE0lwIS98s.htm)|Amulette du Pélerin|`@Compendium[pf2e.feats-srd.BqceQIKE0lwIS98s]`|
 |[Pin to the Spot](feats/archetype-14-ZTxiM8NExDmxHJDf.htm)|Épingler sur place|`@Compendium[pf2e.feats-srd.ZTxiM8NExDmxHJDf]`|
 |[Pinch Time](feats/ancestry-09-8ukixWL8MBJOhPbW.htm)|Temps contracté|`@Compendium[pf2e.feats-srd.8ukixWL8MBJOhPbW]`|
-|[Pinning Fire](feats/class-08-AiV2xFhYB90KHt2x.htm)|Tir clouant|`@Compendium[pf2e.feats-srd.AiV2xFhYB90KHt2x]`|
+|[Pinning Fire](feats/class-08-AiV2xFhYB90KHt2x.htm)|Tir fichant|`@Compendium[pf2e.feats-srd.AiV2xFhYB90KHt2x]`|
 |[Pinpoint Poisoner](feats/class-08-XtIPmZ3Ihq5NJHP2.htm)|Empoisonneur opportun|`@Compendium[pf2e.feats-srd.XtIPmZ3Ihq5NJHP2]`|
 |[Pirate Dedication](feats/archetype-02-l1eCHNahsBb7rUkT.htm)|Dévouement du Pirate|`@Compendium[pf2e.feats-srd.l1eCHNahsBb7rUkT]`|
 |[Pirate Weapon Training](feats/archetype-04-i86JRWsFRpfEJnZP.htm)|Entraînement avec les armes de pirate|`@Compendium[pf2e.feats-srd.i86JRWsFRpfEJnZP]`|
@@ -3828,7 +3828,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Play To The Crowd](feats/archetype-04-KrYvJ5n06yHCipCZ.htm)|Jouer pour la foule|`@Compendium[pf2e.feats-srd.KrYvJ5n06yHCipCZ]`|
 |[Plentiful Snares](feats/archetype-12-wGaxWwJhIXbMJft1.htm)|Pièges artisanaux nombreux|`@Compendium[pf2e.feats-srd.wGaxWwJhIXbMJft1]`|
 |[Plot The Future](feats/class-14-N7CM5CmHuZ1cylV9.htm)|Conspirer l'avenir|`@Compendium[pf2e.feats-srd.N7CM5CmHuZ1cylV9]`|
-|[Plumekith](feats/ancestry-01-6dymMIqs3dAFqnyR.htm)||`@Compendium[pf2e.feats-srd.6dymMIqs3dAFqnyR]`|
+|[Plumekith](feats/ancestry-01-6dymMIqs3dAFqnyR.htm)|Plumesserrées|`@Compendium[pf2e.feats-srd.6dymMIqs3dAFqnyR]`|
 |[Point-Blank Shot](feats/class-01-Yl2wYv24v5kw95aS.htm)|Tir à bout portant|`@Compendium[pf2e.feats-srd.Yl2wYv24v5kw95aS]`|
 |[Poison Coat](feats/archetype-06-eHkMcQQ4ejRAFJAt.htm)|Recouvert de poison|`@Compendium[pf2e.feats-srd.eHkMcQQ4ejRAFJAt]`|
 |[Poison Resistance](feats/class-02-0lieFKdwgNVXep7u.htm)|Résistance au poison|`@Compendium[pf2e.feats-srd.0lieFKdwgNVXep7u]`|
@@ -4039,7 +4039,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Rope Runner](feats/archetype-04-wpqKltAoJjRQgWow.htm)|Gabier éprouvé|`@Compendium[pf2e.feats-srd.wpqKltAoJjRQgWow]`|
 |[Rough Rider](feats/ancestry-01-GF9kkULUYowgjEWM.htm)|Cavalier farouche|`@Compendium[pf2e.feats-srd.GF9kkULUYowgjEWM]`|
 |[Round Ears](feats/ancestry-01-ecJms2jtd6cZ5rQK.htm)|Oreilles arrondies|`@Compendium[pf2e.feats-srd.ecJms2jtd6cZ5rQK]`|
-|[Ru-shi](feats/ancestry-01-23F2oqjL7SAMW3Ud.htm)||`@Compendium[pf2e.feats-srd.23F2oqjL7SAMW3Ud]`|
+|[Ru-shi](feats/ancestry-01-23F2oqjL7SAMW3Ud.htm)|Ru-shi|`@Compendium[pf2e.feats-srd.23F2oqjL7SAMW3Ud]`|
 |[Rubbery Skin](feats/archetype-10-wUHnauB3atxO1RIo.htm)|Peau caoutchouteuse|`@Compendium[pf2e.feats-srd.wUHnauB3atxO1RIo]`|
 |[Rugged Survivalist](feats/archetype-12-m7AOg13xEJRHyoTt.htm)|Survivant robuste|`@Compendium[pf2e.feats-srd.m7AOg13xEJRHyoTt]`|
 |[Runescarred Dedication](feats/archetype-02-luKAFJAvdbAgEwV7.htm)|Dévouement de scarifié des runes|`@Compendium[pf2e.feats-srd.luKAFJAvdbAgEwV7]`|
@@ -4211,7 +4211,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Slither](feats/ancestry-01-TW5TY7kSf50uaX71.htm)||`@Compendium[pf2e.feats-srd.TW5TY7kSf50uaX71]`|
 |[Sly Striker](feats/class-08-AbgHCPWOKULeXrJ2.htm)|Frappe perfide|`@Compendium[pf2e.feats-srd.AbgHCPWOKULeXrJ2]`|
 |[Smash From The Air](feats/class-18-7ATVpDUM6pRq6HOR.htm)|Fracasser en l'air|`@Compendium[pf2e.feats-srd.7ATVpDUM6pRq6HOR]`|
-|[Smashing Tail](feats/ancestry-01-8nz6gvymeTvEfdo0.htm)||`@Compendium[pf2e.feats-srd.8nz6gvymeTvEfdo0]`|
+|[Smashing Tail](feats/ancestry-01-8nz6gvymeTvEfdo0.htm)|Queue fouettante|`@Compendium[pf2e.feats-srd.8nz6gvymeTvEfdo0]`|
 |[Smite Evil](feats/class-06-xgvKXeTxns0gIdAn.htm)|Châtiment du mal|`@Compendium[pf2e.feats-srd.xgvKXeTxns0gIdAn]`|
 |[Smite Good](feats/class-06-T5xFirAE8VLL5Lbu.htm)|Châtiment du bien|`@Compendium[pf2e.feats-srd.T5xFirAE8VLL5Lbu]`|
 |[Smoke Bomb](feats/class-02-ODnXQHvFoK7tIVpu.htm)|Bombe fumigène|`@Compendium[pf2e.feats-srd.ODnXQHvFoK7tIVpu]`|
@@ -4418,7 +4418,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Swift Sneak](feats/skill-07-Imvu2RV2ggjJ2HZt.htm)|Furtivité rapide|`@Compendium[pf2e.feats-srd.Imvu2RV2ggjJ2HZt]`|
 |[Swift Swimmer](feats/ancestry-05-iliy0ONIb8Hw6muA.htm)|Nageur rapide|`@Compendium[pf2e.feats-srd.iliy0ONIb8Hw6muA]`|
 |[Swift Tracker](feats/class-06-c5ns35FLvvxjimuH.htm)|Pistage accéléré|`@Compendium[pf2e.feats-srd.c5ns35FLvvxjimuH]`|
-|[Swipe](feats/class-04-JbrVcOf82oFXk3mY.htm)|Frappe transversale (Barbare)|`@Compendium[pf2e.feats-srd.JbrVcOf82oFXk3mY]`|
+|[Swipe](feats/class-04-JbrVcOf82oFXk3mY.htm)|Frappe transversale|`@Compendium[pf2e.feats-srd.JbrVcOf82oFXk3mY]`|
 |[Swordmaster Dedication](feats/class-06-SHpVHkPxtQggD9Cf.htm)|Dévouement de Maître des épées|`@Compendium[pf2e.feats-srd.SHpVHkPxtQggD9Cf]`|
 |[Symphony Of Blood](feats/ancestry-17-nJRcbt72wRk5Rmc4.htm)|Symphonie de sang|`@Compendium[pf2e.feats-srd.nJRcbt72wRk5Rmc4]`|
 |[Symphony Of The Unfettered Heart](feats/class-10-VJl2xHDKr0HxTUrs.htm)|Symphonie du cœur affranchi|`@Compendium[pf2e.feats-srd.VJl2xHDKr0HxTUrs]`|
@@ -4607,7 +4607,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vandal](feats/ancestry-05-7ZwXUlnqjj9zEYbO.htm)|Vandale|`@Compendium[pf2e.feats-srd.7ZwXUlnqjj9zEYbO]`|
 |[Vanth's Weapon Execution](feats/ancestry-05-iCzJRywykSFwLto0.htm)||`@Compendium[pf2e.feats-srd.iCzJRywykSFwLto0]`|
 |[Vanth's Weapon Expertise](feats/ancestry-13-uQpAPkJ4ygzFZcIt.htm)||`@Compendium[pf2e.feats-srd.uQpAPkJ4ygzFZcIt]`|
-|[Vanth's Weapon Familiarity](feats/ancestry-01-8rKlptZ7ArtJ6cI8.htm)||`@Compendium[pf2e.feats-srd.8rKlptZ7ArtJ6cI8]`|
+|[Vanth's Weapon Familiarity](feats/ancestry-01-8rKlptZ7ArtJ6cI8.htm)|Familiarité avec les armes de Vanth|`@Compendium[pf2e.feats-srd.8rKlptZ7ArtJ6cI8]`|
 |[Veil May](feats/ancestry-01-pCck5GgKIiIPGGdy.htm)||`@Compendium[pf2e.feats-srd.pCck5GgKIiIPGGdy]`|
 |[Velstrac Magic](feats/ancestry-09-fcSzCdQ9y800BdOv.htm)||`@Compendium[pf2e.feats-srd.fcSzCdQ9y800BdOv]`|
 |[Vengeful Hatred](feats/ancestry-01-ngEd8PgsyAARuTQ9.htm)|Soif de vengeance|`@Compendium[pf2e.feats-srd.ngEd8PgsyAARuTQ9]`|
@@ -4622,7 +4622,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Versatile Signature](feats/class-04-toFhkS9QbObxg6cp.htm)|Polyvalence des sorts emblématiques|`@Compendium[pf2e.feats-srd.toFhkS9QbObxg6cp]`|
 |[Very Sneaky](feats/ancestry-01-oeGowXO2P6rHbZfY.htm)|Très furtif|`@Compendium[pf2e.feats-srd.oeGowXO2P6rHbZfY]`|
 |[Very, Very Sneaky](feats/ancestry-13-u0DA0gkrZxXb0Hle.htm)|Très très furtif|`@Compendium[pf2e.feats-srd.u0DA0gkrZxXb0Hle]`|
-|[Vestigial Wings](feats/ancestry-01-1MqvE1FL2mZRCnzo.htm)||`@Compendium[pf2e.feats-srd.1MqvE1FL2mZRCnzo]`|
+|[Vestigial Wings](feats/ancestry-01-1MqvE1FL2mZRCnzo.htm)|Ailes vestigielles|`@Compendium[pf2e.feats-srd.1MqvE1FL2mZRCnzo]`|
 |[Vexing Tumble](feats/class-06-9CXQhg4YprPhqzoL.htm)|Acrobaties vexantes|`@Compendium[pf2e.feats-srd.9CXQhg4YprPhqzoL]`|
 |[Vibrant Display](feats/ancestry-01-txgCXcNMDe9kO7N8.htm)|Affichage dynamique|`@Compendium[pf2e.feats-srd.txgCXcNMDe9kO7N8]`|
 |[Vicious Debilitations](feats/class-10-zt5CWn3UrPViwaB3.htm)|Handicaps cruels|`@Compendium[pf2e.feats-srd.zt5CWn3UrPViwaB3]`|
