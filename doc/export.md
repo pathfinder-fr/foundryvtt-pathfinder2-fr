@@ -1,17 +1,16 @@
 # Proposition système d'export
 
 Actuellement ce projet contient la traduction des données techniques du module Foundry VTT.
-On parle de donnée technique pour désigner toutes les données qui sont rangées sous forme de listes par "type" :
-Monstres, classes, archétypes, équipement, sorts, etc.
+On parle de donnée technique pour désigner toutes les données qui sont rangées sous forme de listes par "type" : monstres, classes, archétypes, équipement, sorts, etc.
 
 On souhaite générer un SRD Pathfinder 2 en utilisant les traductions techniques déjà faites pour Foundry.
-Le SRD utilise un format markdown pour le contenu + entêtes YAML (front matter) pour des données normalisées techniques.
+Le SRD utilise un format markdown pour le contenu + entêtes YAML (front matter) pour des données normalisées techniques (ex: [action deviner les intentions](https://gitlab.com/pathfinder-fr/pf2-jekyll/-/blob/master/_actions/deviner-les-intentions.md))
 
 Ce SRD aura besoin des informations textuelles, mais aussi des informations techniques de chaque élément.
 Par exemple pour les sorts on voudra connaître les différentes composantes, écoles, etc.
 Pour les actions on souhaitera connaître le type, le nombre d'actions, les prérequis, etc.
 
-Pour l'instant, le SRD utilise ses propres scripts qui récupèrent certaines informations du module anglais (données techniques) et les traduction depuis ce projet.
+Pour l'instant, le SRD utilise [ses propres scripts](https://gitlab.com/pathfinder-fr/pf2-jekyll/-/tree/master/_scripts) qui récupèrent certaines informations du module anglais (données techniques) et les traduction depuis ce projet.
 
 L'inconvénient de ce système est que ces scripts ne sont écrits qu'avec la vision du SRD.
 Si un autre projet (par exemple une adaptation de [easytools](http://www.pf2.easytool.es/) en français) souhaite voir le jour, il sera obligé de créer ses propres scripts pour générer des données pour le site.
@@ -25,7 +24,10 @@ A partir des données de traduction et des données du module anglais Foundry, o
 - Bonus : ne pas nécessiter d'intervention manuelle pour les générer
 - Bonus : fournir un fichier json de qualité, en retravaillant certaines données du json anglais
 - Ces fichiers serviront pour générer les pages du SRD
-- Ces fichiers pourront servir à tout projet souhaitant proposer un outil utilisant les traductions françaises : traduction de [easytools](http://www.pf2.easytool.es/) en français par exemple
+- Ces fichiers pourront servir à tout projet souhaitant proposer un outil utilisant les traductions françaises : traduction de [easytools](http://www.pf2.easytool.es/) en français par exemple.
+
+**Retour des traductions.** Autre considération à garder en tête : Le module Foundry pourrait souhaiter réintégrer le contenu du SRD dans le module FR. Cela permettrait de consulter les règles depuis Foundry VTT.
+Cela signifie qu'il faut aussi envisager (plus tard) un rappatriement du contenu du SRD (automatisé ?) dans ce projet, avec toutes les problématiques que cela pose : transformation inverse du markdown en HTML foundry, transformation des liens, etc.
 
 ## Exemple Actions
 
