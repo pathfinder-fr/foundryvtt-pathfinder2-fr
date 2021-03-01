@@ -278,3 +278,10 @@ Cette solution demande à la fois du travail de création et de suivi des script
 Mais une fois les scripts générés et les formats standards acceptés, il est plus facile de contribuer aux scripts pour uniquement gérer (par exemple) une nouvelle tournure de lien HTML, ou bien ajouter une propriété ou corriger une correspondance.
 
 Il y aura donc un gros travail initial de normalisation avec des compétences techniques, mais une fois ce travail effectué, il sera plus simple de contribuer à l'amélioration des scripts.
+
+En gros, si cette solution est choisie, il y aura un travail initial pour créer les premiers scripts et la tuyauterie pour que ce soit au maximum automatisé.
+
+Les scripts devront être écrits pour qu'il soit le plus simple possible aux contributeurs de modifier et améliorer ces scripts:
+
+- Documenter au maximum le code, surtout les parties dictionnaires et correspondances
+- Coder pour permettre d'améliorer facilement les algo (par exemple les regexp de transformation de l'HTML en markdown)
