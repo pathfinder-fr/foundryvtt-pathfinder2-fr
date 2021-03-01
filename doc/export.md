@@ -272,3 +272,9 @@ Inconvénients :
 - Travail de normalisation très fort à effectuer
 - Décisions à prendre
 - Travail de fourmi sur le nettoyage du HTML foundry
+
+Cette solution demande à la fois du travail de création et de suivi des scripts.
+
+Mais une fois les scripts générés et les formats standards acceptés, il est plus facile de contribuer aux scripts pour uniquement gérer (par exemple) une nouvelle tournure de lien HTML, ou bien ajouter une propriété ou corriger une correspondance.
+
+Il y aura donc un gros travail initial de normalisation avec des compétences techniques, mais une fois ce travail effectué, il sera plus simple de contribuer à l'amélioration des scripts.
