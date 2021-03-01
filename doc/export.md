@@ -24,7 +24,6 @@ A partir des données de traduction et des données du module anglais Foundry, o
 - Bonus : standardiser les descriptions pour masquer les particularités de foundry
 - Bonus : ne pas nécessiter d'intervention manuelle pour les générer
 - Bonus : fournir un fichier json de qualité, en retravaillant certaines données du json anglais
-
 - Ces fichiers serviront pour générer les pages du SRD
 - Ces fichiers pourront servir à tout projet souhaitant proposer un outil utilisant les traductions françaises : traduction de [easytools](http://www.pf2.easytool.es/) en français par exemple
 
