@@ -524,7 +524,7 @@
         {
             "id": "Shoanti Name-Bearer",
             "name": "Porteur de nom Shoanti (Shoanti Name-Bearer)",
-            "description": "<p><strong>Prérequis</strong> Région - Terres des sagas</p>\n<hr />\n<p>Vous êtes un membre d'un quah Shoanti et avez franchi la cérémonie d'entrée dans l'âge adulte, obtenant le traditionnel tatouage de votre quah et gagnant votre nom adulte.</p>\n<p>Choisissez deux primes de caractéristique. La premièer doit être de <strong>Force</strong> ou de <strong>Sagesse</strong> et l'autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Athlétisme et en Connaissance du Quah. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant grimpeur}.</p>"
+            "description": "<p><strong>Prérequis</strong> Région - Terres des sagas</p>\n<hr />\n<p>Vous êtes un membre d'un quah Shoanti et avez franchi la cérémonie d'entrée dans l'âge adulte, obtenant le traditionnel tatouage de votre quah et gagnant votre nom adulte.</p>\n<p>Choisissez deux primes de caractéristique. La premièer doit être de <strong>Force</strong> ou de <strong>Sagesse</strong> et l'autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Athlétisme et en Connaissance du Quah. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur}.</p>"
         },
         {
             "id": "Aiudara Seeker",
@@ -705,6 +705,11 @@
             "id": "Hellknight Historian",
             "name": "Historien des chevaliers infernaux (Hellknight Historian)",
             "description": "<p>Vous êtes très intrigué par les différents ordres de Chevaliers infernaux, que ce soit parce que vous souhaitez les rejoindre, parce que vous voulez vous opposer à eux ou parce qu’ils vous inspirent ou éveillent votre curiosité. Vous avez entendu dire que, lorsque les chevaliers de l’ordre de la Pointe ont abandonné la citadelle d’Altaérein, ils ont laissé derrière eux le titre de propriété de l’édifice. Toute personne assez courageuse pour explorer les ruines et braver les défenses probablement laissées en place devrait donc être en mesure de s’approprier les lieux.</p>\n<p>Vous avez répondu à l’Appel aux héros en espérant avoir l’occasion d’explorer la citadelle.</p>\n<p>Choisissez deux primes de caractéristique. Une de ces primes doit être de <strong>Force</strong> ou d’<strong>Intelligence</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans les compétences Société et Connaissance architecturale. Vous gagnez le don de compétence  @Compendium[pf2e.feats-srd.JtjnFsOToBLnSRO9]{Manières courtoises}.</p>"
+        },
+        {
+            "id": "Out-Of-Towner",
+            "name": "De passage (Out-Of-Towner)",
+            "description": "<p>Vous n’aviez jamais été à Brèchemont et vous n’avez pas de racines en ville, mais le hasard a voulu que vous passiez par là. Ce peut être au cours d’un voyage avec un ami, parce que vous rendez visite à une vieille connaissance ou simplement pour la nouveauté. Cependant, avant de venir ici, vous avez vécu des années parmi des gens d’une ascendance autre que la vôtre et cette enfance diversifiée vous a doté d’un esprit ouvert et d’une nature curieuse.</p>\n<p>Vous avez hâte de rencontrer de nouvelles personnes et cultures et l’Appel aux héros semble être un excellent moyen pour cela.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Constitution</strong> ou d’<strong></strong>Intelligence</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans la compétence Diplomatie et l’une des compétences de Connaissance suivantes dont le thème doit être associé aux membres de l’ascendance auprès de laquelle vous avez grandi : des elfes, des gnomes, des gobelins, des halfelins ou     des nains. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.4RjDxgvNXNl5GG9d]{Animal social}.</p>"
         },
         {
             "id": "Hermit",

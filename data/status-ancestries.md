@@ -1,11 +1,11 @@
 # État de la traduction (ancestries)
 
- * **libre**: 7
- * **aucune**: 6
+ * **libre**: 10
+ * **aucune**: 3
  * **officielle**: 9
 
 
-Dernière mise à jour: 2021-02-25 23:21 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-02-28 17:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,10 +14,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[4BL5wf1VF9feC2rY.htm](ancestries/4BL5wf1VF9feC2rY.htm)|Kitsune|
 |[FXlXmNBFiiz9oasi.htm](ancestries/FXlXmNBFiiz9oasi.htm)|Fleshwarp|
-|[GfLwE884NoRC7cRi.htm](ancestries/GfLwE884NoRC7cRi.htm)|Android|
-|[GXcC6oVa5quzgNHD.htm](ancestries/GXcC6oVa5quzgNHD.htm)|Strix|
 |[hIA3qiUsxvLZXrFP.htm](ancestries/hIA3qiUsxvLZXrFP.htm)|Fetchling|
-|[TRqoeYfGAFjQbviF.htm](ancestries/TRqoeYfGAFjQbviF.htm)|Sprite|
 
 ## Liste des traductions complétés
 
@@ -29,7 +26,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BYj5ZvlXZdpaEgA6.htm](ancestries/BYj5ZvlXZdpaEgA6.htm)|Dwarf|Nain|officielle|
 |[cdhgByGG1WtuaK73.htm](ancestries/cdhgByGG1WtuaK73.htm)|Leshy|Léchi|officielle|
 |[CYlfsYLJcBOgqKtD.htm](ancestries/CYlfsYLJcBOgqKtD.htm)|Gnome|Gnome|officielle|
+|[GfLwE884NoRC7cRi.htm](ancestries/GfLwE884NoRC7cRi.htm)|Android|Androïde|libre|
 |[GgZAHbrjnzWOZy2v.htm](ancestries/GgZAHbrjnzWOZy2v.htm)|Halfling|Halfelin|officielle|
+|[GXcC6oVa5quzgNHD.htm](ancestries/GXcC6oVa5quzgNHD.htm)|Strix|Strix|libre|
 |[HWEgF7Gmoq55VhTL.htm](ancestries/HWEgF7Gmoq55VhTL.htm)|Lizardfolk|Hommes-lézard|officielle|
 |[IiG7DgeLWYrSNXuX.htm](ancestries/IiG7DgeLWYrSNXuX.htm)|Human|Humain|officielle|
 |[lSGWXjcbOa6O5fTx.htm](ancestries/lSGWXjcbOa6O5fTx.htm)|Orc|Orc|libre|
@@ -39,3 +38,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[piNLXUrm9iaGqD2i.htm](ancestries/piNLXUrm9iaGqD2i.htm)|Hobgoblin|Hobgobelin|officielle|
 |[q6rsqYARyOGXZA8F.htm](ancestries/q6rsqYARyOGXZA8F.htm)|Shoony|Shoony|libre|
 |[sQfjTMDaZbT9DThq.htm](ancestries/sQfjTMDaZbT9DThq.htm)|Goblin|Gobelin|officielle|
+|[TRqoeYfGAFjQbviF.htm](ancestries/TRqoeYfGAFjQbviF.htm)|Sprite|Esprit-follet|libre|
