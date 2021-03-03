@@ -762,6 +762,11 @@
             "description": "<p>Votre famille descend du plus commun des héritages des hommes-lézards et vous êtes accoutumé aux environnements aquatiques. Vous obtenez une Vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nage} de 4,5 m.</p>"
         },
         {
+            "id": "Dark Fields Kitsune",
+            "name": "Kitsune Champs sombres (Dark Fields Kitsune)",
+            "description": "<p>Vous pouvez employer votre présence perturbante pour Démoraliser subtilement autrui. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous tentez de Démoraliser une créature qui ne comprend pas votre langue. Vous obtenez aussi la réaction @Compendium[pf2e.actionspf2e.Ul4I0ER6pj3U5eAk]{Peur revigorante}. Votre forme alternative est un renard qui possède les statistiques de @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible} au niveau 1.</p>"
+        },
+        {
             "id": "Paddler Shoony",
             "name": "Shoony Pagayeur (Paddler Shoony)",
             "description": "<p>Vous venez d'une lignée de shoony qui ont vécu depuis longtemps parmi les herbes et les roseaux des marais et marécages et qui se sont adaptées aux défis de vivre près de zones détrempées. Vous ignorez les terrains difficiles et très difficiles liés aux tourbières. Lorsque vous obtenez un succès pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous considérez qu'il s'agit d'un succès critique à la place.</p>"

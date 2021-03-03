@@ -1,11 +1,10 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 160
+ * **libre**: 161
  * **officielle**: 45
- * **changé**: 1
 
 
-Dernière mise à jour: 2021-02-28 17:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-03 18:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -67,7 +66,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ap25MWBuFGwwhYIG.htm](backgrounds/ap25MWBuFGwwhYIG.htm)|Aspiring Free-Captain|Aspirant Capitaine-libre|libre|
 |[apXTV7jJx6yJpj8D.htm](backgrounds/apXTV7jJx6yJpj8D.htm)|Prisoner|Prisonnier|officielle|
 |[aWAfj7bhTZM2oK81.htm](backgrounds/aWAfj7bhTZM2oK81.htm)|Hookclaw Digger|Creuseur crochetgriffu|libre|
-|[B8kEwzPUMIjhofUm.htm](backgrounds/B8kEwzPUMIjhofUm.htm)|Sarkorian Survivor|Survivant du sarkoris|changé|
+|[B8kEwzPUMIjhofUm.htm](backgrounds/B8kEwzPUMIjhofUm.htm)|Sarkorian Survivor|Survivant du sarkoris|libre|
 |[b9EPEY09dYOVzdue.htm](backgrounds/b9EPEY09dYOVzdue.htm)|Shadow War Survivor|Survivant de la Guerre de l'ombre|libre|
 |[BBeJA7n0xpSsBCGq.htm](backgrounds/BBeJA7n0xpSsBCGq.htm)|Lesser Scion|Benjamin|libre|
 |[bCJ9p3P5uJDAtaUI.htm](backgrounds/bCJ9p3P5uJDAtaUI.htm)|Miner|Mineur|officielle|
