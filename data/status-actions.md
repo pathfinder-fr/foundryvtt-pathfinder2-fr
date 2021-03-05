@@ -2,11 +2,11 @@
 
  * **officielle**: 63
  * **aucune**: 4
- * **libre**: 25
- * **changé**: 65
+ * **libre**: 26
+ * **changé**: 64
 
 
-Dernière mise à jour: 2021-03-03 18:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-05 18:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -154,7 +154,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[TMBXArwICQRJdwT6.htm](actions/TMBXArwICQRJdwT6.htm)|Fey's Fortune|Chance féérique|changé|
 |[tuZnRWHixLArvaIf.htm](actions/tuZnRWHixLArvaIf.htm)|Glimpse of Redemption|Lueur de rédemption|changé|
 |[UAaQk93a30nx0nYY.htm](actions/UAaQk93a30nx0nYY.htm)|Affix a Talisman|Fixer un talisman|changé|
-|[UEkGL7uAGYDPFNfK.htm](actions/UEkGL7uAGYDPFNfK.htm)|Fire in the Hole|Mise à feu !|changé|
+|[UEkGL7uAGYDPFNfK.htm](actions/UEkGL7uAGYDPFNfK.htm)|Fire in the Hole|Mise à feu !|libre|
 |[UHpkTuCtyaPqiCAB.htm](actions/UHpkTuCtyaPqiCAB.htm)|Step|Faire un pas|libre|
 |[Ul4I0ER6pj3U5eAk.htm](actions/Ul4I0ER6pj3U5eAk.htm)|Invigorating Fear|Peur revigorante|libre|
 |[ust1jJSCZQUhBZIz.htm](actions/ust1jJSCZQUhBZIz.htm)|Take Cover|Mise à l'abri|officielle|
