@@ -14,6 +14,9 @@ echo "Generating Babele file"
 echo "Updating status pages"
 ./generate-status.py
 
+echo "Updating website data",
+./generate-website.py
+
 echo "Change version"
 ./change-version.sh
 

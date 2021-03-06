@@ -97,7 +97,7 @@ for p in packs:
         exit(1)
        
       # QUICK FIX pour: https://discord.com/channels/@me/757146858828333077/815954577219780728
-      #change = False
+      change = False
       #if 'Prereq' in existing[id]['listsEN'] and len(existing[id]['listsEN']['Prereq'])!=len(existing[id]['listsFR']['Prereq']):
       #  change = True
       
