@@ -99,7 +99,7 @@ def getObject(obj, path, exitOnError = True):
       print("Error with path %s in %s" % (path, obj))
       exit(1)
     else:
-      print("Path %s not found for %s!" % (path, obj['name']))
+      #print("Path %s not found for %s!" % (path, obj['name']))
       return None
   
   return element

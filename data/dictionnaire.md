@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-03-05 18:37 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-06 11:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -55,7 +55,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Coerce](actions/tHCqgwjtQtzNqVvd.htm)|Contraindre|`@Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]`|
 |[Command an Animal](actions/q9nbyIF0PEBqMtYe.htm)|Diriger un animal|`@Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]`|
 |[Conceal an Object](actions/qVNVSmsgpKFGk9hV.htm)|Dissimuler un objet|`@Compendium[pf2e.actionspf2e.qVNVSmsgpKFGk9hV]`|
-|[Conduct Energy](actions/BKnN9la3WNrRgZ6n.htm)||`@Compendium[pf2e.actionspf2e.BKnN9la3WNrRgZ6n]`|
+|[Conduct Energy](actions/BKnN9la3WNrRgZ6n.htm)|Conduire l'énergie|`@Compendium[pf2e.actionspf2e.BKnN9la3WNrRgZ6n]`|
 |[Confident Finisher](actions/K878asDgf1EF0B9S.htm)|Coup final assuré|`@Compendium[pf2e.actionspf2e.K878asDgf1EF0B9S]`|
 |[Cover Tracks](actions/SB7cMECVtE06kByk.htm)|Dissimuler des traces|`@Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]`|
 |[Craft](actions/rmwa3OyhTZ2i2AHl.htm)|Fabriquer|`@Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]`|
@@ -122,7 +122,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Master Strike](actions/Rlp7ND33yYfxiEWi.htm)|Frappe de maître|`@Compendium[pf2e.actionspf2e.Rlp7ND33yYfxiEWi]`|
 |[Mesmerizing Performance](actions/CrUPaPlsxy2bswaT.htm)|Performance hypnotisante|`@Compendium[pf2e.actionspf2e.CrUPaPlsxy2bswaT]`|
 |[Mighty Rage](actions/74iat04PtfG8gn2Q.htm)|Rage formidable|`@Compendium[pf2e.actionspf2e.74iat04PtfG8gn2Q]`|
-|[Mist Blending](actions/I9k9qe4gOT8UVK4e.htm)||`@Compendium[pf2e.actionspf2e.I9k9qe4gOT8UVK4e]`|
+|[Mist Blending](actions/I9k9qe4gOT8UVK4e.htm)|Se fondre dans la brume|`@Compendium[pf2e.actionspf2e.I9k9qe4gOT8UVK4e]`|
 |[Mount](actions/PM5jvValFkbFH3TV.htm)|Se mettre en selle|`@Compendium[pf2e.actionspf2e.PM5jvValFkbFH3TV]`|
 |[Mutagenic Flashback](actions/00LNVSCbwJ8pszwE.htm)|Flashback du mutagène|`@Compendium[pf2e.actionspf2e.00LNVSCbwJ8pszwE]`|
 |[Opportune Riposte](actions/EfjoIuDmtUn4yiow.htm)|Riposte opportune|`@Compendium[pf2e.actionspf2e.EfjoIuDmtUn4yiow]`|
@@ -3721,7 +3721,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Offensive Analysis](feats/ancestry-05-HCxmS8QGHL5O7LUf.htm)||`@Compendium[pf2e.feats-srd.HCxmS8QGHL5O7LUf]`|
 |[Offensive Subroutine](feats/ancestry-09-6eXffyvqxpIzig2O.htm)||`@Compendium[pf2e.feats-srd.6eXffyvqxpIzig2O]`|
 |[Old Soul](feats/ancestry-01-XXAqMjml33jnQiDO.htm)||`@Compendium[pf2e.feats-srd.XXAqMjml33jnQiDO]`|
-|[Olethros's Decree](feats/ancestry-17-cayKGa2yK7Gwvk6m.htm)||`@Compendium[pf2e.feats-srd.cayKGa2yK7Gwvk6m]`|
+|[Olethros's Decree](feats/ancestry-17-cayKGa2yK7Gwvk6m.htm)|Décret d'Olethro|`@Compendium[pf2e.feats-srd.cayKGa2yK7Gwvk6m]`|
 |[One For All](feats/class-01-bCizH4ByTwbLcYA1.htm)|Un pour tous|`@Compendium[pf2e.feats-srd.bCizH4ByTwbLcYA1]`|
 |[One With Earth](feats/ancestry-13-T3cwVrRT0VMZIwpT.htm)||`@Compendium[pf2e.feats-srd.T3cwVrRT0VMZIwpT]`|
 |[One-Inch Punch](feats/class-06-jaAnxfXVmUQy0IKU.htm)|Coup à distance courte|`@Compendium[pf2e.feats-srd.jaAnxfXVmUQy0IKU]`|

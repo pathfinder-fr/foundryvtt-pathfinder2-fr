@@ -95,8 +95,13 @@ for p in packs:
       if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé"):
         print("Status error for : %s" % filepath);
         exit(1)
-        
-      if not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']):
+       
+      # QUICK FIX pour: https://discord.com/channels/@me/757146858828333077/815954577219780728
+      #change = False
+      #if 'Prereq' in existing[id]['listsEN'] and len(existing[id]['listsEN']['Prereq'])!=len(existing[id]['listsFR']['Prereq']):
+      #  change = True
+      
+      if change or not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']):
         existing[id]['nameEN'] = source['name']
         existing[id]['descrEN'] = source['desc']
         existing[id]['listsEN'] = source['lists']

@@ -3722,6 +3722,11 @@
             "description": "<p>En déplaçant votre dague de clan avec une précision rapide, vous pouvez vous protéger vous-même de manière plus effective. Faites deux Frappes de dague de clan contre différentes cibles. Vos pénalités d'attaques multiples s'appliquent normalement à ces Frappes. Vous utilisez alors une action Interagir pour obtenir un bonus de circonstance de +1 à votre CA lié au trait parade de votre dague de clan.</p>"
         },
         {
+            "id": "Olethros's Decree",
+            "name": "Olethros's Decree (Décret d'Olethro)",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous avez un lien avec les olethroses, les psychopompes énigmatiques qui ont réussi à balancer les yamaraj pour permettre la création des premiers crépusculaires. Vous placez un doigt sur les écailles du destin en enroulant de la soie autour de votre arc. La première fois au cours de ce tour que vous touchez une créature avec une Frappe en utilisant une arme du groupe des arcs que vous avez modifié de cette manière, cette créature subit [[/r 60]] dégâts supplémentaires (jet de Vigueur basique en utilisant le plus élevé entre votre DD de classe ou votre DD de sort) lorsque la flêche travaille à couper court à leur destin. Ces dégâts supplémentaires sont du même type que le type infligé par votre attaque initiale. Si vous touchez plus d'une créature en même temps, choisissez en une qui subit l'effet de votre décret.</p>"
+        },
+        {
             "id": "Master Witch Spellcasting",
             "name": "Master Witch Spellcasting (Incantation de sorcière maître)",
             "description": "<p>Vous obtenez les avantages de l'incantation maître.</p>"
