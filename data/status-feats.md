@@ -1,20 +1,18 @@
 # État de la traduction (feats)
 
- * **libre**: 1068
- * **officielle**: 439
- * **changé**: 772
- * **aucune**: 333
+ * **libre**: 1109
+ * **officielle**: 440
+ * **changé**: 770
+ * **aucune**: 293
 
 
-Dernière mise à jour: 2021-03-06 11:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-07 12:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[ancestry-01-LbyNDCxFEkjp0iG7.htm](feats/ancestry-01-LbyNDCxFEkjp0iG7.htm)|Slink|
-|[ancestry-01-lqhhvDJAjPw6LZy5.htm](feats/ancestry-01-lqhhvDJAjPw6LZy5.htm)|Smokesoul|
 |[ancestry-01-mmYAiK3x0UMcgiNv.htm](feats/ancestry-01-mmYAiK3x0UMcgiNv.htm)|Dualborn|
 |[ancestry-01-N3xyK9keDm00oUY6.htm](feats/ancestry-01-N3xyK9keDm00oUY6.htm)|Inner Fire|
 |[ancestry-01-n7JXquVGxQOfrCsf.htm](feats/ancestry-01-n7JXquVGxQOfrCsf.htm)|Ancestral Insight|
@@ -93,9 +91,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-05-GZrvQo5FcoP5qocX.htm](feats/ancestry-05-GZrvQo5FcoP5qocX.htm)|Gaping Flesh|
 |[ancestry-05-HCxmS8QGHL5O7LUf.htm](feats/ancestry-05-HCxmS8QGHL5O7LUf.htm)|Offensive Analysis|
 |[ancestry-05-iCsHR5tdSXDHGjCv.htm](feats/ancestry-05-iCsHR5tdSXDHGjCv.htm)|Plague Sniffer|
-|[ancestry-05-iCzJRywykSFwLto0.htm](feats/ancestry-05-iCzJRywykSFwLto0.htm)|Vanth's Weapon Execution|
 |[ancestry-05-IsNs6hXQm9pJcXB1.htm](feats/ancestry-05-IsNs6hXQm9pJcXB1.htm)|Clever Shadow|
-|[ancestry-05-IUVzB39pRVyBFOEx.htm](feats/ancestry-05-IUVzB39pRVyBFOEx.htm)|Elemental Bulwark|
 |[ancestry-05-juLtvliSzYPCmMa3.htm](feats/ancestry-05-juLtvliSzYPCmMa3.htm)|Winglets|
 |[ancestry-05-krgoR0Ykqw59MDbg.htm](feats/ancestry-05-krgoR0Ykqw59MDbg.htm)|Uncanny Awareness|
 |[ancestry-05-l2JaSC3NA9S6Qq46.htm](feats/ancestry-05-l2JaSC3NA9S6Qq46.htm)|Myriad Forms|
@@ -171,7 +167,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-09-DTU4jrz9YNr7e62e.htm](feats/ancestry-09-DTU4jrz9YNr7e62e.htm)|Larcenous Tail|
 |[ancestry-09-fcSzCdQ9y800BdOv.htm](feats/ancestry-09-fcSzCdQ9y800BdOv.htm)|Velstrac Magic|
 |[ancestry-09-ftntYtiKGoPBpvcv.htm](feats/ancestry-09-ftntYtiKGoPBpvcv.htm)|Qlippoth Magic|
-|[ancestry-09-FUOUyhHufNH4ri7H.htm](feats/ancestry-09-FUOUyhHufNH4ri7H.htm)|Wings Of Air|
 |[ancestry-09-g9AOSz4QDAlUee9M.htm](feats/ancestry-09-g9AOSz4QDAlUee9M.htm)|Fox Trick|
 |[ancestry-09-hgfRHSS5BsoyQ9Fj.htm](feats/ancestry-09-hgfRHSS5BsoyQ9Fj.htm)|Marid Magic|
 |[ancestry-09-HPW7Qi02lkVprW6V.htm](feats/ancestry-09-HPW7Qi02lkVprW6V.htm)|Silent Step|
@@ -194,7 +189,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-09-pe6cHJzzMm5Tr25G.htm](feats/ancestry-09-pe6cHJzzMm5Tr25G.htm)|Juvenile Flight|
 |[ancestry-09-pr7e8xzrl8OLp6U9.htm](feats/ancestry-09-pr7e8xzrl8OLp6U9.htm)|Coating Of Slime|
 |[ancestry-09-pt4oMtjAVGFQHtVw.htm](feats/ancestry-09-pt4oMtjAVGFQHtVw.htm)|Catrina's Presence|
-|[ancestry-09-Q8fdMjZ2Wv3FawOI.htm](feats/ancestry-09-Q8fdMjZ2Wv3FawOI.htm)|Water Strider|
 |[ancestry-09-Q8XZYvatnYo4VlAQ.htm](feats/ancestry-09-Q8XZYvatnYo4VlAQ.htm)|Agathion Magic|
 |[ancestry-09-Qe9IUDVo7gsowMHq.htm](feats/ancestry-09-Qe9IUDVo7gsowMHq.htm)|Fey Magic|
 |[ancestry-09-QUaSGUmRnlMbzw1P.htm](feats/ancestry-09-QUaSGUmRnlMbzw1P.htm)|Wind God’s Fan|
@@ -258,44 +252,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-13-j0fgquODHTyyekyO.htm](feats/ancestry-13-j0fgquODHTyyekyO.htm)|Kobold Weapon Expertise|
 |[ancestry-13-J2CPfHKPvu6RGfY6.htm](feats/ancestry-13-J2CPfHKPvu6RGfY6.htm)|Fully Flighted|
 |[ancestry-13-jatfexNkXaTs9s5Q.htm](feats/ancestry-13-jatfexNkXaTs9s5Q.htm)|Instinctive Obfuscation|
-|[ancestry-13-JlkkYedPyWLShuka.htm](feats/ancestry-13-JlkkYedPyWLShuka.htm)|Kitsune Spell Expertise|
-|[ancestry-13-JQxFvMHu0ffo56RT.htm](feats/ancestry-13-JQxFvMHu0ffo56RT.htm)|Shinstabber|
-|[ancestry-13-kBnsLuh3eBLjwGpN.htm](feats/ancestry-13-kBnsLuh3eBLjwGpN.htm)|Hatchling Flight|
-|[ancestry-13-KboQgBhYXI2WdCt8.htm](feats/ancestry-13-KboQgBhYXI2WdCt8.htm)|Mask Of Fear|
-|[ancestry-13-KRfZcToCc5nvcQRa.htm](feats/ancestry-13-KRfZcToCc5nvcQRa.htm)|Harbinger’s Caw|
-|[ancestry-13-l11OWMFUixCcRYGm.htm](feats/ancestry-13-l11OWMFUixCcRYGm.htm)|Aquatic Adaptation|
-|[ancestry-13-lrTRELs8uDpVpsk0.htm](feats/ancestry-13-lrTRELs8uDpVpsk0.htm)|Summon Earth Elemental|
-|[ancestry-13-n82gTpAENgr6XjCM.htm](feats/ancestry-13-n82gTpAENgr6XjCM.htm)|Translucent Skin|
-|[ancestry-13-NaY9HXeQ0yhoIorO.htm](feats/ancestry-13-NaY9HXeQ0yhoIorO.htm)|Skittering Sneak|
-|[ancestry-13-OwJRuy4EW8vW09AI.htm](feats/ancestry-13-OwJRuy4EW8vW09AI.htm)|Metal-veined Strikes|
-|[ancestry-13-pivX2SxPQjKDyvHU.htm](feats/ancestry-13-pivX2SxPQjKDyvHU.htm)|Iruxi Spirit Strike|
-|[ancestry-13-QjHZN1uAxl2hSbej.htm](feats/ancestry-13-QjHZN1uAxl2hSbej.htm)|Vicious Snares|
-|[ancestry-13-S1Z5dFAkMKkFSofk.htm](feats/ancestry-13-S1Z5dFAkMKkFSofk.htm)|War Conditioning|
-|[ancestry-13-T3cwVrRT0VMZIwpT.htm](feats/ancestry-13-T3cwVrRT0VMZIwpT.htm)|One With Earth|
-|[ancestry-13-uDFgL6uCwJsaTHi3.htm](feats/ancestry-13-uDFgL6uCwJsaTHi3.htm)|Call Of The Green Man|
-|[ancestry-13-uQpAPkJ4ygzFZcIt.htm](feats/ancestry-13-uQpAPkJ4ygzFZcIt.htm)|Vanth's Weapon Expertise|
-|[ancestry-13-XJfUj2o4HdL5waZL.htm](feats/ancestry-13-XJfUj2o4HdL5waZL.htm)|Can’t Fall Here|
-|[ancestry-13-XOudHBESJ192FBwF.htm](feats/ancestry-13-XOudHBESJ192FBwF.htm)|Rehydration|
-|[ancestry-13-XswthL1fTc7eWZwG.htm](feats/ancestry-13-XswthL1fTc7eWZwG.htm)|Hydraulic Amneuvers|
-|[ancestry-13-xTLy2AyVW90TrQk6.htm](feats/ancestry-13-xTLy2AyVW90TrQk6.htm)|Improved Elemental Bulwark|
-|[ancestry-13-XuL3g2ExgadFtWbb.htm](feats/ancestry-13-XuL3g2ExgadFtWbb.htm)|Bone Investiture|
-|[ancestry-13-XzTklOArNQle7rQP.htm](feats/ancestry-13-XzTklOArNQle7rQP.htm)|Invisible Trickster|
-|[ancestry-13-Y5ompgSd1JGSHt0C.htm](feats/ancestry-13-Y5ompgSd1JGSHt0C.htm)|Augment Senses|
-|[ancestry-13-YryDlMt3zARg6j7T.htm](feats/ancestry-13-YryDlMt3zARg6j7T.htm)|Arise, Ye Worthy!|
-|[ancestry-13-Z15QFC45psi0txWg.htm](feats/ancestry-13-Z15QFC45psi0txWg.htm)|Alter Resistance|
 |[ancestry-13-ZlPCQ3Qh1cgS9r87.htm](feats/ancestry-13-ZlPCQ3Qh1cgS9r87.htm)|Mist Strider|
-|[ancestry-17-5qVCl5MwPcx0sS7T.htm](feats/ancestry-17-5qVCl5MwPcx0sS7T.htm)|Elude Trouble|
-|[ancestry-17-5Unc9AhGAAw1klFN.htm](feats/ancestry-17-5Unc9AhGAAw1klFN.htm)|Animal Swiftness|
-|[ancestry-17-6NXlg11EeCqjOmSg.htm](feats/ancestry-17-6NXlg11EeCqjOmSg.htm)|Twist Healing|
-|[ancestry-17-7iB1yacjF9fG6Rvn.htm](feats/ancestry-17-7iB1yacjF9fG6Rvn.htm)|Yamaraj's Grandeur|
 |[ancestry-17-8l3qDZrfhxUGijjB.htm](feats/ancestry-17-8l3qDZrfhxUGijjB.htm)|Rallying Cry|
-|[ancestry-17-8ZWMJYNgyH5zh1yH.htm](feats/ancestry-17-8ZWMJYNgyH5zh1yH.htm)|Eternal Wings (Sylph)|
-|[ancestry-17-ABx8keV4c43gEmeN.htm](feats/ancestry-17-ABx8keV4c43gEmeN.htm)|Pierce The Light|
-|[ancestry-17-bPPcPUZMlJ7m5lYq.htm](feats/ancestry-17-bPPcPUZMlJ7m5lYq.htm)|Tidal Shield|
-|[ancestry-17-BS6UoGLyJ12xVD9P.htm](feats/ancestry-17-BS6UoGLyJ12xVD9P.htm)|Ratfolk Growth|
 |[ancestryfeature-01-L7fhh2RTCq4FlVSN.htm](feats/ancestryfeature-01-L7fhh2RTCq4FlVSN.htm)|Strix Defender|
 |[ancestryfeature-01-Lug2p9E065L05Rhi.htm](feats/ancestryfeature-01-Lug2p9E065L05Rhi.htm)|Story Crooner|
-|[archetype-02-6b8DiNx4c1zPZ7RP.htm](feats/archetype-02-6b8DiNx4c1zPZ7RP.htm)|Edgewatch Detective Dedication|
 |[archetype-04-iyXw5PnevT2jT8kU.htm](feats/archetype-04-iyXw5PnevT2jT8kU.htm)|Sense Alignment|
 |[archetype-06-cBYTVYqw1EFVEuzs.htm](feats/archetype-06-cBYTVYqw1EFVEuzs.htm)|Bolera's Interrogation|
 |[archetype-06-z8bozNJvUjBoKLPA.htm](feats/archetype-06-z8bozNJvUjBoKLPA.htm)|Arcane Sensitivity|
@@ -355,7 +315,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-01-0qshtd4mBcjFAxA8.htm](feats/ancestry-01-0qshtd4mBcjFAxA8.htm)|Cantorian Reinforcement|Renfort cantorien|libre|
 |[ancestry-01-0YXRPqCaOQ3G73hh.htm](feats/ancestry-01-0YXRPqCaOQ3G73hh.htm)|Folksy Patter|Boniment campagnard|libre|
 |[ancestry-01-13zaW8ZHRWnRe2pj.htm](feats/ancestry-01-13zaW8ZHRWnRe2pj.htm)|Hobgoblin Lore|Connaissance hobgobeline|libre|
-|[ancestry-01-1HsH8hE79MDsi8kK.htm](feats/ancestry-01-1HsH8hE79MDsi8kK.htm)|Orc Warmask|Masque de guerre orque|libre|
+|[ancestry-01-1HsH8hE79MDsi8kK.htm](feats/ancestry-01-1HsH8hE79MDsi8kK.htm)|Orc Warmask|Masque de guerre orc|libre|
 |[ancestry-01-1MqvE1FL2mZRCnzo.htm](feats/ancestry-01-1MqvE1FL2mZRCnzo.htm)|Vestigial Wings|Ailes vestigielles|libre|
 |[ancestry-01-1newzNV5nkLvZ9KE.htm](feats/ancestry-01-1newzNV5nkLvZ9KE.htm)|Handy with your Paws|Adroit de vos pattes|libre|
 |[ancestry-01-1r514EjD9YrZJ5rk.htm](feats/ancestry-01-1r514EjD9YrZJ5rk.htm)|Android Lore|Connaissance androïde|libre|
@@ -385,7 +345,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-01-8DDwqrYHie33cf6d.htm](feats/ancestry-01-8DDwqrYHie33cf6d.htm)|Genie Weapon Familiarity|Familiarité avec les armes des génies|libre|
 |[ancestry-01-8nF3r3NHW2uSRgwb.htm](feats/ancestry-01-8nF3r3NHW2uSRgwb.htm)|Devil's Advocate|Avocat du diable|libre|
 |[ancestry-01-8nz6gvymeTvEfdo0.htm](feats/ancestry-01-8nz6gvymeTvEfdo0.htm)|Smashing Tail|Queue fouettante|libre|
-|[ancestry-01-8rKlptZ7ArtJ6cI8.htm](feats/ancestry-01-8rKlptZ7ArtJ6cI8.htm)|Vanth's Weapon Familiarity|Familiarité avec les armes de Vanth|libre|
+|[ancestry-01-8rKlptZ7ArtJ6cI8.htm](feats/ancestry-01-8rKlptZ7ArtJ6cI8.htm)|Vanth's Weapon Familiarity|Familiarité avec les armes des vanths|libre|
 |[ancestry-01-9bnkx6VgcO5mOk5b.htm](feats/ancestry-01-9bnkx6VgcO5mOk5b.htm)|Dwarven Lore|Connaissance des nains|officielle|
 |[ancestry-01-9OdLdxvH5M9FyYSm.htm](feats/ancestry-01-9OdLdxvH5M9FyYSm.htm)|Corgi Mount|Monture corgi|libre|
 |[ancestry-01-9Orkgjgfx8AILuqD.htm](feats/ancestry-01-9Orkgjgfx8AILuqD.htm)|Warren Navigator|Navigateur de terrier|libre|
@@ -506,8 +466,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-01-KuD4Yplwcdolhjsu.htm](feats/ancestry-01-KuD4Yplwcdolhjsu.htm)|Overlooked Mastermind|Génie négligé|libre|
 |[ancestry-01-Kz4MLcrfXFrdKhyS.htm](feats/ancestry-01-Kz4MLcrfXFrdKhyS.htm)|Aquatic Eyes|Yeux Aquatiques|libre|
 |[ancestry-01-l0VBbymCVT1Qz9t9.htm](feats/ancestry-01-l0VBbymCVT1Qz9t9.htm)|Swift|Rapide|libre|
+|[ancestry-01-LbyNDCxFEkjp0iG7.htm](feats/ancestry-01-LbyNDCxFEkjp0iG7.htm)|Slink|Déplacement furtif|libre|
 |[ancestry-01-liqDAd5xk2b3xzeE.htm](feats/ancestry-01-liqDAd5xk2b3xzeE.htm)|Quah Bond|Lien Quah|libre|
 |[ancestry-01-LLQ5SO2c44uXDFJk.htm](feats/ancestry-01-LLQ5SO2c44uXDFJk.htm)|Tail Whip|Queue fouet|libre|
+|[ancestry-01-lqhhvDJAjPw6LZy5.htm](feats/ancestry-01-lqhhvDJAjPw6LZy5.htm)|Smokesoul|Âme fumante|libre|
 |[ancestry-01-LUXBuTAuK1glHOkJ.htm](feats/ancestry-01-LUXBuTAuK1glHOkJ.htm)|Fiendish Eyes|Yeux fiélons|libre|
 |[ancestry-01-lwLcUHQMOqfaNND4.htm](feats/ancestry-01-lwLcUHQMOqfaNND4.htm)|Cooperative Nature|Nature coopérative|officielle|
 |[ancestry-01-M5195FvfCN3X7gi9.htm](feats/ancestry-01-M5195FvfCN3X7gi9.htm)|Tusks (Orc)|Défenses (orc)|libre|
@@ -520,7 +482,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-01-nB8BD9rIg9hfFGns.htm](feats/ancestry-01-nB8BD9rIg9hfFGns.htm)|Eye For Treasure|Œil appréciateur|libre|
 |[ancestry-01-nfERPRCITBp970HO.htm](feats/ancestry-01-nfERPRCITBp970HO.htm)|Earned Glory|Gloire méritée|libre|
 |[ancestry-01-ngEd8PgsyAARuTQ9.htm](feats/ancestry-01-ngEd8PgsyAARuTQ9.htm)|Vengeful Hatred|Soif de vengeance|officielle|
-|[ancestry-01-NIUSBGMmdqhkYtmo.htm](feats/ancestry-01-NIUSBGMmdqhkYtmo.htm)|Rock Runner|Arpenteur des roches|changé|
+|[ancestry-01-NIUSBGMmdqhkYtmo.htm](feats/ancestry-01-NIUSBGMmdqhkYtmo.htm)|Rock Runner|Arpenteur des roches|officielle|
 |[ancestry-01-nyhQ9xB0rkoAoNbf.htm](feats/ancestry-01-nyhQ9xB0rkoAoNbf.htm)|Grimspawn|Rejeton sombre|libre|
 |[ancestry-01-nyNsIePvpovlDAws.htm](feats/ancestry-01-nyNsIePvpovlDAws.htm)|Alchemical Scholar|Étudiant alchimique|libre|
 |[ancestry-01-o4LycqplO14zn6It.htm](feats/ancestry-01-o4LycqplO14zn6It.htm)|Know Your Own|Connaître vos semblables|libre|
@@ -640,8 +602,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-05-gS9FYlD0Vt8yyZkP.htm](feats/ancestry-05-gS9FYlD0Vt8yyZkP.htm)|Grovel|Servilité|libre|
 |[ancestry-05-HKGyFj2w5dzkf3SW.htm](feats/ancestry-05-HKGyFj2w5dzkf3SW.htm)|Natural Illusionist|Illusionniste naturel|libre|
 |[ancestry-05-I3EMC4pqkEWrodpq.htm](feats/ancestry-05-I3EMC4pqkEWrodpq.htm)|Practiced Paddler|Pagayeur accompli|libre|
+|[ancestry-05-iCzJRywykSFwLto0.htm](feats/ancestry-05-iCzJRywykSFwLto0.htm)|Vanth's Weapon Execution|Exécution avec les armes des vanths|libre|
 |[ancestry-05-iliy0ONIb8Hw6muA.htm](feats/ancestry-05-iliy0ONIb8Hw6muA.htm)|Swift Swimmer|Nageur rapide|libre|
 |[ancestry-05-iNrR4WOB1UO9iiNE.htm](feats/ancestry-05-iNrR4WOB1UO9iiNE.htm)|Lifesense|Sens de la vie|libre|
+|[ancestry-05-IUVzB39pRVyBFOEx.htm](feats/ancestry-05-IUVzB39pRVyBFOEx.htm)|Elemental Bulwark|Fortification élémentaire|libre|
 |[ancestry-05-IY86Kvopp4ACuQsw.htm](feats/ancestry-05-IY86Kvopp4ACuQsw.htm)|Envenom Fangs|Crocs empoisonnés|libre|
 |[ancestry-05-j0mlvJcuYGFuMG2S.htm](feats/ancestry-05-j0mlvJcuYGFuMG2S.htm)|Ally's Shelter|Abri de l'allié|libre|
 |[ancestry-05-jNrpvEqfncdGZPak.htm](feats/ancestry-05-jNrpvEqfncdGZPak.htm)|Halfling Ingenuity|Ingénuité halfeline|libre|
@@ -724,6 +688,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-09-Ezk3OgfPaRlEEyAD.htm](feats/ancestry-09-Ezk3OgfPaRlEEyAD.htm)|Virtue-Forged Tattoos|Tatouages vertus-forgés|libre|
 |[ancestry-09-FrzskqwNWexKY5BA.htm](feats/ancestry-09-FrzskqwNWexKY5BA.htm)|Terrain Advantage|Avantage du terrain|libre|
 |[ancestry-09-fu1cTh93zgGweduf.htm](feats/ancestry-09-fu1cTh93zgGweduf.htm)|Wary Skulker|Rôdeur prudent|libre|
+|[ancestry-09-FUOUyhHufNH4ri7H.htm](feats/ancestry-09-FUOUyhHufNH4ri7H.htm)|Wings Of Air|Ailes d'air|libre|
 |[ancestry-09-G6rCbMrHacYWNu1K.htm](feats/ancestry-09-G6rCbMrHacYWNu1K.htm)|Aggravating Scratch|Grattement aggravant|libre|
 |[ancestry-09-gWyCNTWUhxneOBne.htm](feats/ancestry-09-gWyCNTWUhxneOBne.htm)|Helpful Halfling|Halfelin utile|libre|
 |[ancestry-09-h11M3QrIHKLj2ezy.htm](feats/ancestry-09-h11M3QrIHKLj2ezy.htm)|Well-Groomed|Bien entretenu|libre|
@@ -749,6 +714,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-09-ovMIxhiStlPE7tty.htm](feats/ancestry-09-ovMIxhiStlPE7tty.htm)|Divine Countermeasures|Contre mesures divines|libre|
 |[ancestry-09-PxWdf4HAhZ8fUB3R.htm](feats/ancestry-09-PxWdf4HAhZ8fUB3R.htm)|Duskwalker Magic|Magie des crépusculaires|libre|
 |[ancestry-09-Q1lGguNI4SqPwgVn.htm](feats/ancestry-09-Q1lGguNI4SqPwgVn.htm)|Dragon Prince|Prince dragon|libre|
+|[ancestry-09-Q8fdMjZ2Wv3FawOI.htm](feats/ancestry-09-Q8fdMjZ2Wv3FawOI.htm)|Water Strider|Fouleur d'eau|libre|
 |[ancestry-09-qr1E37Tla555tvIO.htm](feats/ancestry-09-qr1E37Tla555tvIO.htm)|Fade Away|Disparition|libre|
 |[ancestry-09-qS2VcFLez4PLOpIS.htm](feats/ancestry-09-qS2VcFLez4PLOpIS.htm)|Tree Climber (Elf)|Grimpeur aux arbres (Elfe)|libre|
 |[ancestry-09-RFXzsfEgz7WbDCQO.htm](feats/ancestry-09-RFXzsfEgz7WbDCQO.htm)|Unhampered Passage|Passage libre|libre|
@@ -798,34 +764,67 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-13-I9cJYC7anz7HmpcJ.htm](feats/ancestry-13-I9cJYC7anz7HmpcJ.htm)|Elite Dracomancer|Dracomancien d'élite|libre|
 |[ancestry-13-iTsLr3zEaGZ45zez.htm](feats/ancestry-13-iTsLr3zEaGZ45zez.htm)|Incredible Luck (Halfling)|Chance incroyable (Halfelin)|libre|
 |[ancestry-13-j49fEU2TWJUaxD30.htm](feats/ancestry-13-j49fEU2TWJUaxD30.htm)|Gnome Weapon Expertise|Expertise avec les armes gnomes|officielle|
+|[ancestry-13-JlkkYedPyWLShuka.htm](feats/ancestry-13-JlkkYedPyWLShuka.htm)|Kitsune Spell Expertise|Expertise des sorts kitsune|libre|
+|[ancestry-13-JQxFvMHu0ffo56RT.htm](feats/ancestry-13-JQxFvMHu0ffo56RT.htm)|Shinstabber|Se glisser dans les pattes|libre|
+|[ancestry-13-kBnsLuh3eBLjwGpN.htm](feats/ancestry-13-kBnsLuh3eBLjwGpN.htm)|Hatchling Flight|Vol de l'oisillon|libre|
+|[ancestry-13-KboQgBhYXI2WdCt8.htm](feats/ancestry-13-KboQgBhYXI2WdCt8.htm)|Mask Of Fear|Masque de terreur|libre|
+|[ancestry-13-KRfZcToCc5nvcQRa.htm](feats/ancestry-13-KRfZcToCc5nvcQRa.htm)|Harbinger’s Caw|Croassement annonciateur|libre|
+|[ancestry-13-l11OWMFUixCcRYGm.htm](feats/ancestry-13-l11OWMFUixCcRYGm.htm)|Aquatic Adaptation|Adaptation aquatique|libre|
 |[ancestry-13-L231BR4815B6hwKT.htm](feats/ancestry-13-L231BR4815B6hwKT.htm)|Summon Celestial Kin|Convoquer un céleste apparenté|libre|
 |[ancestry-13-l78KwojlT0AWvS4l.htm](feats/ancestry-13-l78KwojlT0AWvS4l.htm)|Toppling Dance|Danse renversante|libre|
+|[ancestry-13-lrTRELs8uDpVpsk0.htm](feats/ancestry-13-lrTRELs8uDpVpsk0.htm)|Summon Earth Elemental|Convoquer un élémentaire de terre|libre|
 |[ancestry-13-LTcpBbnngfuYTdB0.htm](feats/ancestry-13-LTcpBbnngfuYTdB0.htm)|Avenge Ally|Venger un allié|libre|
 |[ancestry-13-MII0ybm76DkDxsId.htm](feats/ancestry-13-MII0ybm76DkDxsId.htm)|Cobble Dancer|Danseur des pavés|libre|
 |[ancestry-13-MR4X38qgBj5tmkMw.htm](feats/ancestry-13-MR4X38qgBj5tmkMw.htm)|Bounce Back|Rebondir|libre|
+|[ancestry-13-n82gTpAENgr6XjCM.htm](feats/ancestry-13-n82gTpAENgr6XjCM.htm)|Translucent Skin|Peau translucide|libre|
+|[ancestry-13-NaY9HXeQ0yhoIorO.htm](feats/ancestry-13-NaY9HXeQ0yhoIorO.htm)|Skittering Sneak|Glissement sournois|libre|
 |[ancestry-13-ne7nVluvvVXMvuB1.htm](feats/ancestry-13-ne7nVluvvVXMvuB1.htm)|Wandering Heart|Cœur vagabond|libre|
 |[ancestry-13-nePEcAp7lTL35uyx.htm](feats/ancestry-13-nePEcAp7lTL35uyx.htm)|Caterwaul|Feuler|libre|
 |[ancestry-13-Ot1jI91ccnB2ayfk.htm](feats/ancestry-13-Ot1jI91ccnB2ayfk.htm)|Celestial Strikes|Frappes célestes|libre|
+|[ancestry-13-OwJRuy4EW8vW09AI.htm](feats/ancestry-13-OwJRuy4EW8vW09AI.htm)|Metal-veined Strikes|Frappes veines de métal|libre|
 |[ancestry-13-pedHIDAVLFzzjGO1.htm](feats/ancestry-13-pedHIDAVLFzzjGO1.htm)|Spell Devourer|Dévoreur de sort|libre|
 |[ancestry-13-PfHvTR0L9ShjhWiP.htm](feats/ancestry-13-PfHvTR0L9ShjhWiP.htm)|Ceaseless Shadows|Ombres incessantes|changé|
+|[ancestry-13-pivX2SxPQjKDyvHU.htm](feats/ancestry-13-pivX2SxPQjKDyvHU.htm)|Iruxi Spirit Strike|Frappe spirituelle iruxie|libre|
 |[ancestry-13-plhQDES7yb6xDAXL.htm](feats/ancestry-13-plhQDES7yb6xDAXL.htm)|Shory Aerialist|Aérialiste Rivain|libre|
 |[ancestry-13-QHPtlFvTpgx1GE7S.htm](feats/ancestry-13-QHPtlFvTpgx1GE7S.htm)|Formation Master|Maître du combat en formation|libre|
+|[ancestry-13-QjHZN1uAxl2hSbej.htm](feats/ancestry-13-QjHZN1uAxl2hSbej.htm)|Vicious Snares|Pièges artisanaux vicieux|libre|
 |[ancestry-13-rCajlx2KjGxzabAJ.htm](feats/ancestry-13-rCajlx2KjGxzabAJ.htm)|Fiend's Door|Porte du fiélon|libre|
 |[ancestry-13-s0OqtQOeYOGkBMYG.htm](feats/ancestry-13-s0OqtQOeYOGkBMYG.htm)|Steadfast Ally|Allié inébranlable|libre|
+|[ancestry-13-S1Z5dFAkMKkFSofk.htm](feats/ancestry-13-S1Z5dFAkMKkFSofk.htm)|War Conditioning|Conditionnement à la guerre|libre|
+|[ancestry-13-T3cwVrRT0VMZIwpT.htm](feats/ancestry-13-T3cwVrRT0VMZIwpT.htm)|One With Earth|Uni avec la terre|libre|
 |[ancestry-13-t6GBBIwX7hvvxYyV.htm](feats/ancestry-13-t6GBBIwX7hvvxYyV.htm)|Hag Magic|Magie des guenaudes|libre|
 |[ancestry-13-Tn2iMLKvhZki1O3S.htm](feats/ancestry-13-Tn2iMLKvhZki1O3S.htm)|Iruxi Unarmed Expertise|Expertise à mains nues Iruxi|libre|
 |[ancestry-13-tpkih32Ch2wCA9R5.htm](feats/ancestry-13-tpkih32Ch2wCA9R5.htm)|Dwarven Weapon Expertise|Expertise avec les armes naines|officielle|
 |[ancestry-13-u0DA0gkrZxXb0Hle.htm](feats/ancestry-13-u0DA0gkrZxXb0Hle.htm)|Very, Very Sneaky|Très très furtif|officielle|
+|[ancestry-13-uDFgL6uCwJsaTHi3.htm](feats/ancestry-13-uDFgL6uCwJsaTHi3.htm)|Call Of The Green Man|Appel de l'homme vert|libre|
+|[ancestry-13-uQpAPkJ4ygzFZcIt.htm](feats/ancestry-13-uQpAPkJ4ygzFZcIt.htm)|Vanth's Weapon Expertise|Expertise avec les armes des vanths|libre|
 |[ancestry-13-V6iJ4v15Qc8awVCH.htm](feats/ancestry-13-V6iJ4v15Qc8awVCH.htm)|Aasimar's Mercy|Pitié de l'Aasimar|libre|
 |[ancestry-13-wHxXVknciaD4X8Ch.htm](feats/ancestry-13-wHxXVknciaD4X8Ch.htm)|Unrivaled Builder|Constructeur sans rival|libre|
 |[ancestry-13-wruf4sMh3P7o8k1P.htm](feats/ancestry-13-wruf4sMh3P7o8k1P.htm)|Elven Weapon Expertise|Expertise avec les armes elfiques|officielle|
 |[ancestry-13-wteuGNhOXLvBudRQ.htm](feats/ancestry-13-wteuGNhOXLvBudRQ.htm)|Ferocious Beasts|Bêtes féroces|libre|
 |[ancestry-13-xjE123p2rPTsz1eV.htm](feats/ancestry-13-xjE123p2rPTsz1eV.htm)|Fiendish Strikes|Frappes fiélones|libre|
+|[ancestry-13-XJfUj2o4HdL5waZL.htm](feats/ancestry-13-XJfUj2o4HdL5waZL.htm)|Can’t Fall Here|Tu ne peux tomber ici|libre|
+|[ancestry-13-XOudHBESJ192FBwF.htm](feats/ancestry-13-XOudHBESJ192FBwF.htm)|Rehydration|Réhydratation|libre|
 |[ancestry-13-XPVqOtHLN6jduHYs.htm](feats/ancestry-13-XPVqOtHLN6jduHYs.htm)|Hobgoblin Weapon Expertise|Expertise avec les armes hobgobelines|libre|
+|[ancestry-13-XswthL1fTc7eWZwG.htm](feats/ancestry-13-XswthL1fTc7eWZwG.htm)|Hydraulic Amneuvers|Manœuvres hydrauliques|libre|
+|[ancestry-13-xTLy2AyVW90TrQk6.htm](feats/ancestry-13-xTLy2AyVW90TrQk6.htm)|Improved Elemental Bulwark|Fortification élémentaire améliorée|libre|
+|[ancestry-13-XuL3g2ExgadFtWbb.htm](feats/ancestry-13-XuL3g2ExgadFtWbb.htm)|Bone Investiture|Investiture d'os|libre|
+|[ancestry-13-XzTklOArNQle7rQP.htm](feats/ancestry-13-XzTklOArNQle7rQP.htm)|Invisible Trickster|Mystificateur invisible|libre|
+|[ancestry-13-Y5ompgSd1JGSHt0C.htm](feats/ancestry-13-Y5ompgSd1JGSHt0C.htm)|Augment Senses|Sens augmentés|libre|
+|[ancestry-13-YryDlMt3zARg6j7T.htm](feats/ancestry-13-YryDlMt3zARg6j7T.htm)|Arise, Ye Worthy!|Relevez vous, Valeureux !|libre|
+|[ancestry-13-Z15QFC45psi0txWg.htm](feats/ancestry-13-Z15QFC45psi0txWg.htm)|Alter Resistance|Altérer la résistance|libre|
 |[ancestry-17-2pYCGPCQDHD3o7Jz.htm](feats/ancestry-17-2pYCGPCQDHD3o7Jz.htm)|Fiendish Word|Parole fiélone|libre|
+|[ancestry-17-5qVCl5MwPcx0sS7T.htm](feats/ancestry-17-5qVCl5MwPcx0sS7T.htm)|Elude Trouble|Éviter les ennuis|libre|
+|[ancestry-17-5Unc9AhGAAw1klFN.htm](feats/ancestry-17-5Unc9AhGAAw1klFN.htm)|Animal Swiftness|Rapidité animale|libre|
+|[ancestry-17-6NXlg11EeCqjOmSg.htm](feats/ancestry-17-6NXlg11EeCqjOmSg.htm)|Twist Healing|Guérison tordue|libre|
+|[ancestry-17-7iB1yacjF9fG6Rvn.htm](feats/ancestry-17-7iB1yacjF9fG6Rvn.htm)|Yamaraj's Grandeur|Grandeur des Yamarajs|libre|
 |[ancestry-17-7YvOqcdp9Z0RALMp.htm](feats/ancestry-17-7YvOqcdp9Z0RALMp.htm)|Shadow Self|Ombre de soi-même|libre|
+|[ancestry-17-8ZWMJYNgyH5zh1yH.htm](feats/ancestry-17-8ZWMJYNgyH5zh1yH.htm)|Eternal Wings (Sylph)|Ailes éternelles (Sylphe)|libre|
 |[ancestry-17-9eaUS0jJCpxuNXO5.htm](feats/ancestry-17-9eaUS0jJCpxuNXO5.htm)|Rampaging Ferocity|Férocité dévastatrice|libre|
+|[ancestry-17-ABx8keV4c43gEmeN.htm](feats/ancestry-17-ABx8keV4c43gEmeN.htm)|Pierce The Light|Percer la lumière|libre|
 |[ancestry-17-ABXUfGoeBgCyFasg.htm](feats/ancestry-17-ABXUfGoeBgCyFasg.htm)|Great Tengu Form|Forme du grand tengu|libre|
+|[ancestry-17-bPPcPUZMlJ7m5lYq.htm](feats/ancestry-17-bPPcPUZMlJ7m5lYq.htm)|Tidal Shield|Bouclier de la marée|libre|
+|[ancestry-17-BS6UoGLyJ12xVD9P.htm](feats/ancestry-17-BS6UoGLyJ12xVD9P.htm)|Ratfolk Growth|Croissance Homme-rat|libre|
 |[ancestry-17-cayKGa2yK7Gwvk6m.htm](feats/ancestry-17-cayKGa2yK7Gwvk6m.htm)|Olethros's Decree|Décret d'Olethro|libre|
 |[ancestry-17-CuyuwFht0rVbGMca.htm](feats/ancestry-17-CuyuwFht0rVbGMca.htm)|Relentless Wings|Ailes sans repos|libre|
 |[ancestry-17-Dxac0mgye7EFFVou.htm](feats/ancestry-17-Dxac0mgye7EFFVou.htm)|Radiate Glory|Irradier la gloire|libre|
@@ -872,6 +871,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-02-5FOqVC9Q0eEKEf3w.htm](feats/archetype-02-5FOqVC9Q0eEKEf3w.htm)|Magic Warrior Dedication|Dévouement du Guerrier Magique|officielle|
 |[archetype-02-5Q69PI8jdQVkb1ZT.htm](feats/archetype-02-5Q69PI8jdQVkb1ZT.htm)|Cavalier Dedication|Dévouement de Cavalier|libre|
 |[archetype-02-5UQagWB13Z8xR5Z6.htm](feats/archetype-02-5UQagWB13Z8xR5Z6.htm)|Sorcerer Dedication|Dévouement de l'ensorceleur|officielle|
+|[archetype-02-6b8DiNx4c1zPZ7RP.htm](feats/archetype-02-6b8DiNx4c1zPZ7RP.htm)|Edgewatch Detective Dedication|Dévouement d'officier de la Garde du Précipice|libre|
 |[archetype-02-8foxmfC6FFT3oYpV.htm](feats/archetype-02-8foxmfC6FFT3oYpV.htm)|Sentinel Dedication|Dévouement de Sentinelle|libre|
 |[archetype-02-aFygWxgSv82WyCsl.htm](feats/archetype-02-aFygWxgSv82WyCsl.htm)|Acrobat Dedication|Dévouement d'Acrobate|libre|
 |[archetype-02-AimSmPyiMhJZVZRq.htm](feats/archetype-02-AimSmPyiMhJZVZRq.htm)|Mauler Dedication|Dévouement de Cogneur|libre|
@@ -1348,7 +1348,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-12-jPBqvEH2jLlvDr6M.htm](feats/archetype-12-jPBqvEH2jLlvDr6M.htm)|Juggernaut's Fortitude|Vigueur du juggernaut|officielle|
 |[archetype-12-K5pXeeJLmdE8XuvM.htm](feats/archetype-12-K5pXeeJLmdE8XuvM.htm)|Tense Negotiator|Négociateur tendu|libre|
 |[archetype-12-kKoqqXOTdRYROmVV.htm](feats/archetype-12-kKoqqXOTdRYROmVV.htm)|Blessed Denial|Déni de l'Élu|libre|
-|[archetype-12-KvKg9pBOpk2oLeO1.htm](feats/archetype-12-KvKg9pBOpk2oLeO1.htm)|Advanced Order Training|Entraînement de l'Ordre avancé|changé|
+|[archetype-12-KvKg9pBOpk2oLeO1.htm](feats/archetype-12-KvKg9pBOpk2oLeO1.htm)|Advanced Order Training|Entraînement de l'Ordre avancé|libre|
 |[archetype-12-KYF9e4oeSjHKgbwM.htm](feats/archetype-12-KYF9e4oeSjHKgbwM.htm)|Coordinated Charge|Charge Coordonnée|libre|
 |[archetype-12-lmAuoHPxzQdaSUmN.htm](feats/archetype-12-lmAuoHPxzQdaSUmN.htm)|Cartwheel Dodge|Esquive des chars|libre|
 |[archetype-12-m7AOg13xEJRHyoTt.htm](feats/archetype-12-m7AOg13xEJRHyoTt.htm)|Rugged Survivalist|Survivant robuste|libre|

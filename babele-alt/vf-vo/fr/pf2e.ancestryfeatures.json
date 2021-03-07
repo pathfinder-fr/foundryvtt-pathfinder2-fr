@@ -183,7 +183,7 @@
         },
         {
             "id": "Murkeyed Azarketi",
-            "name": "Azarkety Yeuxobscurs (Murkeyed Azarketi)",
+            "name": "Azarketi Yeuxobscurs (Murkeyed Azarketi)",
             "description": "<p>Vous vivez dans les eaux sombres et vous êtes accoutumé à la vie dans un environnement à faible visibilité. Vous avez besoin seulement de réussir un test nu DD 3 lorsque vous ciblez une créature Masquée et un test nu DD 9 lorsque vous ciblez une créature Cachée.</p>"
         },
         {
@@ -255,6 +255,11 @@
             "id": "Umbral Gnome",
             "name": "Gnome ombral (Umbral Gnome)",
             "description": "<p>Vous êtes capable de voir dans les ténèbres les plus totales. Vous tenez peut-être ce pouvoir d’un lien avec les fées sombres ou les fées des ombres, avec les gnomes des profondeurs (aussi appelés les svirfneblins) qui vivent sous terre ou il vous vient d’une autre origine.</p>\n<p>Vous gagnez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
+        },
+        {
+            "id": "Mutated Flashwarp",
+            "name": "Distordu mutant (Mutated Flashwarp)",
+            "description": "<p>Transformé par la magie incontrôlée, vous provenez de la Désolation de Mana ou d'une autre région dévastée de la même manière par la magie incontrôlée.</p>\n<p>Du fait de vos organes renforcés ou redondants, le DD des tests pour récupérer des dégâts de saignement persistants est de 10 au lieu de 15 et il est réduit à 5 au lieu de 10 si vous bénéficiez d'une assistance particulièrement efficace pour récupérer des dégâts persistants.</p>"
         },
         {
             "id": "Charhide Goblin",
@@ -404,7 +409,7 @@
         {
             "id": "Celestial Envoy Kitsune",
             "name": "Kitsune Envoyé céleste (Celestial Envoy Kitsune)",
-            "description": "<p>Que ce soit par la gra^ce de Daikitsu ou d'ancètres croyants, vous avez un lien fort avec le divin, vous accordant certaines protections. Vous obtenez la réaction @Compendium[pf2e.actionspf2e.Aq2mXT2hLlstFL5C]{Invoquer le privilège céleste}. Votre forme alternative est celle d'un humanoïde Moyen d'une ascendance courante prévalente où vous avez grandi (typiquement un humain), appelée une forme sans queue.</p>"
+            "description": "<p>Que ce soit par la grâce de Daikitsu ou d'ancètres croyants, vous avez un lien fort avec le divin, vous accordant certaines protections. Vous obtenez la réaction @Compendium[pf2e.actionspf2e.Aq2mXT2hLlstFL5C]{Invoquer le privilège céleste}. Votre forme alternative est celle d'un humanoïde Moyen d'une ascendance courante prévalente où vous avez grandi (typiquement un humain), appelée une forme sans queue.</p>"
         },
         {
             "id": "Suli",

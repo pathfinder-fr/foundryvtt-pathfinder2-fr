@@ -1,20 +1,13 @@
 # État de la traduction (actions)
 
- * **officielle**: 87
- * **libre**: 40
- * **changé**: 29
- * **aucune**: 1
+ * **officielle**: 105
+ * **libre**: 47
+ * **changé**: 5
 
 
-Dernière mise à jour: 2021-03-06 11:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-07 12:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[pTHMZLqWDJ3lkan9.htm](actions/pTHMZLqWDJ3lkan9.htm)|Smoke Blending|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -124,36 +117,37 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[PM5jvValFkbFH3TV.htm](actions/PM5jvValFkbFH3TV.htm)|Mount|Se mettre en selle|officielle|
 |[PMbdMWc2QroouFGD.htm](actions/PMbdMWc2QroouFGD.htm)|Grapple|Saisir|officielle|
 |[pprgrYQ1QnIDGZiy.htm](actions/pprgrYQ1QnIDGZiy.htm)|Climb|Escalader|officielle|
+|[pTHMZLqWDJ3lkan9.htm](actions/pTHMZLqWDJ3lkan9.htm)|Smoke Blending|Se Fondre dans la fûmée|libre|
 |[pvQ5rY2zrtPI614F.htm](actions/pvQ5rY2zrtPI614F.htm)|Interact|Interagir|officielle|
-|[Q4kdWVOf2ztIBFg1.htm](actions/Q4kdWVOf2ztIBFg1.htm)|Identify Alchemy|Identifier l'alchimie|changé|
-|[Q5iIYCFdqJFM31GW.htm](actions/Q5iIYCFdqJFM31GW.htm)|Learn a Spell|Apprendre un sort|changé|
-|[q9nbyIF0PEBqMtYe.htm](actions/q9nbyIF0PEBqMtYe.htm)|Command an Animal|Diriger un animal|changé|
-|[qc0VsZ0UesnurUUB.htm](actions/qc0VsZ0UesnurUUB.htm)|Take a Breather|Reprendre son souffle|changé|
+|[Q4kdWVOf2ztIBFg1.htm](actions/Q4kdWVOf2ztIBFg1.htm)|Identify Alchemy|Identifier l'alchimie|officielle|
+|[Q5iIYCFdqJFM31GW.htm](actions/Q5iIYCFdqJFM31GW.htm)|Learn a Spell|Apprendre un sort|officielle|
+|[q9nbyIF0PEBqMtYe.htm](actions/q9nbyIF0PEBqMtYe.htm)|Command an Animal|Diriger un animal|officielle|
+|[qc0VsZ0UesnurUUB.htm](actions/qc0VsZ0UesnurUUB.htm)|Take a Breather|Reprendre son souffle|libre|
 |[Qf1ylAbdVi1rkc8M.htm](actions/Qf1ylAbdVi1rkc8M.htm)|Maneuver in Flight|Manœuvrer en vol|changé|
-|[QHFMeJGzFWj2QczA.htm](actions/QHFMeJGzFWj2QczA.htm)|Quick Tincture|Préparation rapide|changé|
-|[qm7xptMSozAinnPS.htm](actions/qm7xptMSozAinnPS.htm)|Arrest a Fall|Arrêter une chute|changé|
-|[QNAVeNKtHA0EUw4X.htm](actions/QNAVeNKtHA0EUw4X.htm)|Feint|Feinter|changé|
+|[QHFMeJGzFWj2QczA.htm](actions/QHFMeJGzFWj2QczA.htm)|Quick Tincture|Préparation rapide|libre|
+|[qm7xptMSozAinnPS.htm](actions/qm7xptMSozAinnPS.htm)|Arrest a Fall|Arrêter une chute|officielle|
+|[QNAVeNKtHA0EUw4X.htm](actions/QNAVeNKtHA0EUw4X.htm)|Feint|Feinter|officielle|
 |[qVNVSmsgpKFGk9hV.htm](actions/qVNVSmsgpKFGk9hV.htm)|Conceal an Object|Dissimuler un objet|officielle|
 |[QyzlsLrqM0EEwd7j.htm](actions/QyzlsLrqM0EEwd7j.htm)|Earn Income|Gagner de l'argent|changé|
-|[r5Uth6yvCoE4tr9z.htm](actions/r5Uth6yvCoE4tr9z.htm)|Destructive Vengeance|Vengeance destructrice|changé|
-|[RDXXE7wMrSPCLv5k.htm](actions/RDXXE7wMrSPCLv5k.htm)|Steal|Voler|changé|
-|[Rlp7ND33yYfxiEWi.htm](actions/Rlp7ND33yYfxiEWi.htm)|Master Strike|Frappe de maître|changé|
+|[r5Uth6yvCoE4tr9z.htm](actions/r5Uth6yvCoE4tr9z.htm)|Destructive Vengeance|Vengeance destructrice|libre|
+|[RDXXE7wMrSPCLv5k.htm](actions/RDXXE7wMrSPCLv5k.htm)|Steal|Voler|officielle|
+|[Rlp7ND33yYfxiEWi.htm](actions/Rlp7ND33yYfxiEWi.htm)|Master Strike|Frappe de maître|officielle|
 |[rmwa3OyhTZ2i2AHl.htm](actions/rmwa3OyhTZ2i2AHl.htm)|Craft|Fabriquer|officielle|
-|[rSpCV0leurp2Bg2d.htm](actions/rSpCV0leurp2Bg2d.htm)|Instinctive Obfuscation|Obscurcissement instinctif|changé|
-|[S9PZFOVe7zhORkUc.htm](actions/S9PZFOVe7zhORkUc.htm)|Absorb into the Aegis|Absorber dans l'égide|changé|
-|[SB7cMECVtE06kByk.htm](actions/SB7cMECVtE06kByk.htm)|Cover Tracks|Dissimuler des traces|changé|
-|[SeUolRoPzorFUAaI.htm](actions/SeUolRoPzorFUAaI.htm)|Recall Knowledge (Medicine)|Se souvenir (Médecine)|changé|
-|[SjmKHgI7a5Z9JzBx.htm](actions/SjmKHgI7a5Z9JzBx.htm)|Force Open|Ouvrir de force|changé|
-|[SkZAQRkLLkmBQNB9.htm](actions/SkZAQRkLLkmBQNB9.htm)|Escape|S'échapper|changé|
-|[sn2hIy1iIJX9Vpgj.htm](actions/sn2hIy1iIJX9Vpgj.htm)|Point Out|Signaler|changé|
+|[rSpCV0leurp2Bg2d.htm](actions/rSpCV0leurp2Bg2d.htm)|Instinctive Obfuscation|Obscurcissement instinctif|libre|
+|[S9PZFOVe7zhORkUc.htm](actions/S9PZFOVe7zhORkUc.htm)|Absorb into the Aegis|Absorber dans l'égide|libre|
+|[SB7cMECVtE06kByk.htm](actions/SB7cMECVtE06kByk.htm)|Cover Tracks|Dissimuler des traces|officielle|
+|[SeUolRoPzorFUAaI.htm](actions/SeUolRoPzorFUAaI.htm)|Recall Knowledge (Medicine)|Se souvenir (Médecine)|officielle|
+|[SjmKHgI7a5Z9JzBx.htm](actions/SjmKHgI7a5Z9JzBx.htm)|Force Open|Ouvrir de force|officielle|
+|[SkZAQRkLLkmBQNB9.htm](actions/SkZAQRkLLkmBQNB9.htm)|Escape|S'échapper|officielle|
+|[sn2hIy1iIJX9Vpgj.htm](actions/sn2hIy1iIJX9Vpgj.htm)|Point Out|Signaler|officielle|
 |[TC7OcDa7JlWbqMaN.htm](actions/TC7OcDa7JlWbqMaN.htm)|Treat Disease|Soigner une maladie|officielle|
-|[tfa4Sh7wcxCEqL29.htm](actions/tfa4Sh7wcxCEqL29.htm)|Follow the Expert|Suivre l'expert|changé|
-|[tHCqgwjtQtzNqVvd.htm](actions/tHCqgwjtQtzNqVvd.htm)|Coerce|Contraindre|changé|
-|[TiNDYUGlMmxzxBYU.htm](actions/TiNDYUGlMmxzxBYU.htm)|Search|Fouiller|changé|
-|[Tj055UcNm6UEgtCg.htm](actions/Tj055UcNm6UEgtCg.htm)|Crawl|Ramper|changé|
-|[TMBXArwICQRJdwT6.htm](actions/TMBXArwICQRJdwT6.htm)|Fey's Fortune|Chance féérique|changé|
-|[tuZnRWHixLArvaIf.htm](actions/tuZnRWHixLArvaIf.htm)|Glimpse of Redemption|Lueur de rédemption|changé|
-|[UAaQk93a30nx0nYY.htm](actions/UAaQk93a30nx0nYY.htm)|Affix a Talisman|Fixer un talisman|changé|
+|[tfa4Sh7wcxCEqL29.htm](actions/tfa4Sh7wcxCEqL29.htm)|Follow the Expert|Suivre l'expert|officielle|
+|[tHCqgwjtQtzNqVvd.htm](actions/tHCqgwjtQtzNqVvd.htm)|Coerce|Contraindre|officielle|
+|[TiNDYUGlMmxzxBYU.htm](actions/TiNDYUGlMmxzxBYU.htm)|Search|Fouiller|officielle|
+|[Tj055UcNm6UEgtCg.htm](actions/Tj055UcNm6UEgtCg.htm)|Crawl|Ramper|officielle|
+|[TMBXArwICQRJdwT6.htm](actions/TMBXArwICQRJdwT6.htm)|Fey's Fortune|Chance féérique|libre|
+|[tuZnRWHixLArvaIf.htm](actions/tuZnRWHixLArvaIf.htm)|Glimpse of Redemption|Lueur de rédemption|officielle|
+|[UAaQk93a30nx0nYY.htm](actions/UAaQk93a30nx0nYY.htm)|Affix a Talisman|Fixer un talisman|officielle|
 |[UEkGL7uAGYDPFNfK.htm](actions/UEkGL7uAGYDPFNfK.htm)|Fire in the Hole|Mise à feu !|libre|
 |[UHpkTuCtyaPqiCAB.htm](actions/UHpkTuCtyaPqiCAB.htm)|Step|Faire un pas|libre|
 |[Ul4I0ER6pj3U5eAk.htm](actions/Ul4I0ER6pj3U5eAk.htm)|Invigorating Fear|Peur revigorante|libre|

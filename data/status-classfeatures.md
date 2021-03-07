@@ -1,41 +1,23 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 61
- * **changé**: 226
- * **aucune**: 13
- * **libre**: 50
+ * **officielle**: 74
+ * **changé**: 224
+ * **libre**: 52
 
 
-Dernière mise à jour: 2021-03-06 11:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-07 12:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[alchemist-01-cU2ofQLj7pg6wTSi.htm](classfeatures/alchemist-01-cU2ofQLj7pg6wTSi.htm)|Research Field|
-|[barbarian-01-dU7xRpg4kFd01hwZ.htm](classfeatures/barbarian-01-dU7xRpg4kFd01hwZ.htm)|Instinct|
-|[bard-01-AIOBWGOS4nkfH3kW.htm](classfeatures/bard-01-AIOBWGOS4nkfH3kW.htm)|Muses|
-|[None-00-igMHwREgpM9GsvLs.htm](classfeatures/None-00-igMHwREgpM9GsvLs.htm)|Order of the Gate|
-|[None-00-lVdfcITy5bkywW5f.htm](classfeatures/None-00-lVdfcITy5bkywW5f.htm)|Order of the Rack|
-|[None-00-t01K3DB2qHnbt1q3.htm](classfeatures/None-00-t01K3DB2qHnbt1q3.htm)|Order of the Scourge|
-|[None-00-ub9gwFXnMuKvhnPL.htm](classfeatures/None-00-ub9gwFXnMuKvhnPL.htm)|Order of the Nail|
-|[None-00-UTRDN1TAieBMjwP1.htm](classfeatures/None-00-UTRDN1TAieBMjwP1.htm)|Order of the Godclaw|
-|[None-00-YrJj8UI0XpkHv0Ho.htm](classfeatures/None-00-YrJj8UI0XpkHv0Ho.htm)|Order of the Chain|
-|[None-00-zGxO2cETUsXuvqRu.htm](classfeatures/None-00-zGxO2cETUsXuvqRu.htm)|Order of the Pyre|
-|[None-17-BJYSUbFUGcTLaPDn.htm](classfeatures/None-17-BJYSUbFUGcTLaPDn.htm)|Masterful Hunter (Precision)|
-|[None-17-JhLncIB10GSQowWL.htm](classfeatures/None-17-JhLncIB10GSQowWL.htm)|Masterful Hunter (Flurry)|
-|[None-17-vWZaLE2fEKMBw3D5.htm](classfeatures/None-17-vWZaLE2fEKMBw3D5.htm)|Masterful Hunter (Outwit)|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[alchemical-01-XPPG7nN9pxt0sjMg.htm](classfeatures/alchemical-01-XPPG7nN9pxt0sjMg.htm)|Formula Book|Formulaire|officielle|
 |[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|changé|
+|[alchemist-01-cU2ofQLj7pg6wTSi.htm](classfeatures/alchemist-01-cU2ofQLj7pg6wTSi.htm)|Research Field|Domaine de recherche|officielle|
 |[alchemist-01-eNZnx4LISDNftbx2.htm](classfeatures/alchemist-01-eNZnx4LISDNftbx2.htm)|Chirurgeon|Chirurgien|changé|
 |[alchemist-01-P9quO9XZi3OWFe1k.htm](classfeatures/alchemist-01-P9quO9XZi3OWFe1k.htm)|Toxicologist|Toxicologiste|changé|
-|[alchemist-01-Pe0zmIqyTBc2Td0I.htm](classfeatures/alchemist-01-Pe0zmIqyTBc2Td0I.htm)|Advanced Alchemy|Alchimie avancée|changé|
+|[alchemist-01-Pe0zmIqyTBc2Td0I.htm](classfeatures/alchemist-01-Pe0zmIqyTBc2Td0I.htm)|Advanced Alchemy|Alchimie avancée|officielle|
 |[alchemist-01-sPtl05wwTpqFI0lL.htm](classfeatures/alchemist-01-sPtl05wwTpqFI0lL.htm)|Quick Alchemy|Alchimie rapide|changé|
 |[alchemist-01-tvdb1jkjl2bRZjSp.htm](classfeatures/alchemist-01-tvdb1jkjl2bRZjSp.htm)|Mutagenist|Mutagèniste|changé|
 |[alchemist-01-wySB9VHOW1v3TX1L.htm](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Infused Reagents|Réactifs imprégnés|changé|
@@ -74,6 +56,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-01-3lxIGMbsPZLNEXQ7.htm](classfeatures/barbarian-01-3lxIGMbsPZLNEXQ7.htm)|Gold Dragon Instinct|Instinct du dragon - Or|libre|
 |[barbarian-01-b5rvKZQCfpgBenKJ.htm](classfeatures/barbarian-01-b5rvKZQCfpgBenKJ.htm)|Brass Dragon Instinct|Instinct du dragon - Airain|officielle|
 |[barbarian-01-CXZwt1e6ManeBaFV.htm](classfeatures/barbarian-01-CXZwt1e6ManeBaFV.htm)|Frog Animal Instinct|Instinct animal - Grenouille|officielle|
+|[barbarian-01-dU7xRpg4kFd01hwZ.htm](classfeatures/barbarian-01-dU7xRpg4kFd01hwZ.htm)|Instinct|Instinct|officielle|
 |[barbarian-01-hyHgLQCDMSrR4RfE.htm](classfeatures/barbarian-01-hyHgLQCDMSrR4RfE.htm)|Red Dragon Instinct|Instinct du dragon - Rouge|officielle|
 |[barbarian-01-IezPDYlweTtwCqkT.htm](classfeatures/barbarian-01-IezPDYlweTtwCqkT.htm)|Green Dragon Instinct|Instinct du dragon - Vert|libre|
 |[barbarian-01-JuKD6k7nDwfO0Ckv.htm](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Giant Instinct|Instinct de géant|changé|
@@ -107,6 +90,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-19-VLiT503OLOM3vaDx.htm](classfeatures/barbarian-19-VLiT503OLOM3vaDx.htm)|Devastator|Dévastateur|changé|
 |[bard-01-4ripp6EfdVpS0d60.htm](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Enigma Muse|Muse - Énigmatique|officielle|
 |[bard-01-6FsusoMYxxjyIkVh.htm](classfeatures/bard-01-6FsusoMYxxjyIkVh.htm)|Spell Repertoire (Bard)|Répertoire de sorts (Barde)|changé|
+|[bard-01-AIOBWGOS4nkfH3kW.htm](classfeatures/bard-01-AIOBWGOS4nkfH3kW.htm)|Muses|Muse|officielle|
 |[bard-01-fEOj0eOBe34qYdAa.htm](classfeatures/bard-01-fEOj0eOBe34qYdAa.htm)|Occult Spellcasting|Incantation occulte|changé|
 |[bard-01-N03BtRvjX9TeHRa4.htm](classfeatures/bard-01-N03BtRvjX9TeHRa4.htm)|Warrior Muse|Muse - Combattant|libre|
 |[bard-01-s0VbbQJNlSgPocui.htm](classfeatures/bard-01-s0VbbQJNlSgPocui.htm)|Composition Spells|Sorts de composition|changé|
@@ -214,8 +198,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[monk-17-5cthRUkRqRtduVvN.htm](classfeatures/monk-17-5cthRUkRqRtduVvN.htm)|Adamantine Strikes|Frappes d'adamantium|changé|
 |[monk-17-JWDfzYub3JfuEtth.htm](classfeatures/monk-17-JWDfzYub3JfuEtth.htm)|Graceful Legend|Légende gracieuse|changé|
 |[monk-19-KmTfg7Sg5va4yU00.htm](classfeatures/monk-19-KmTfg7Sg5va4yU00.htm)|Perfected Form|Forme parfaite|changé|
+|[None-00-igMHwREgpM9GsvLs.htm](classfeatures/None-00-igMHwREgpM9GsvLs.htm)|Order of the Gate|Ordre du portail|officielle|
+|[None-00-lVdfcITy5bkywW5f.htm](classfeatures/None-00-lVdfcITy5bkywW5f.htm)|Order of the Rack|Ordre du Chevalet|officielle|
+|[None-00-t01K3DB2qHnbt1q3.htm](classfeatures/None-00-t01K3DB2qHnbt1q3.htm)|Order of the Scourge|Ordre du fléau|officielle|
+|[None-00-ub9gwFXnMuKvhnPL.htm](classfeatures/None-00-ub9gwFXnMuKvhnPL.htm)|Order of the Nail|Ordre de la pointe|officielle|
+|[None-00-UTRDN1TAieBMjwP1.htm](classfeatures/None-00-UTRDN1TAieBMjwP1.htm)|Order of the Godclaw|Ordre du dieu griffu|libre|
+|[None-00-YrJj8UI0XpkHv0Ho.htm](classfeatures/None-00-YrJj8UI0XpkHv0Ho.htm)|Order of the Chain|Ordre des chaines|officielle|
+|[None-00-zGxO2cETUsXuvqRu.htm](classfeatures/None-00-zGxO2cETUsXuvqRu.htm)|Order of the Pyre|Ordre du bûcher|officielle|
 |[None-01-1FPVkksuE2ncw9rF.htm](classfeatures/None-01-1FPVkksuE2ncw9rF.htm)|Ki Spells|Sorts de ki|changé|
 |[None-01-T25ZLQWn6O4KchLo.htm](classfeatures/None-01-T25ZLQWn6O4KchLo.htm)|Focus Spells|Sorts focalisés|changé|
+|[None-17-BJYSUbFUGcTLaPDn.htm](classfeatures/None-17-BJYSUbFUGcTLaPDn.htm)|Masterful Hunter (Precision)|Maître chasseur (Précision)|officielle|
+|[None-17-JhLncIB10GSQowWL.htm](classfeatures/None-17-JhLncIB10GSQowWL.htm)|Masterful Hunter (Flurry)|Maître chasseur (Déluge)|officielle|
+|[None-17-vWZaLE2fEKMBw3D5.htm](classfeatures/None-17-vWZaLE2fEKMBw3D5.htm)|Masterful Hunter (Outwit)|Maître chasseur (Ruse)|libre|
 |[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|changé|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|changé|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|Mystère du combat|changé|
@@ -251,7 +245,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ranger-11-RlwE99yKnhq8FUuy.htm](classfeatures/ranger-11-RlwE99yKnhq8FUuy.htm)|Wild Stride|Déplacement facilité en milieu naturel|changé|
 |[ranger-15-6XwGONPdr9SFDtDc.htm](classfeatures/ranger-15-6XwGONPdr9SFDtDc.htm)|Improved Evasion (Level 15)|Évasion améliorée (Niveau 15)|officielle|
 |[ranger-15-iyb5FU2BpsCCan8Q.htm](classfeatures/ranger-15-iyb5FU2BpsCCan8Q.htm)|Incredible Senses (Level 15)|Sens extraordinaires (Niveau 15)|officielle|
-|[ranger-17-RVZC4wVy5B5W2OeS.htm](classfeatures/ranger-17-RVZC4wVy5B5W2OeS.htm)|Masterful Hunter|Maître chasseur|changé|
+|[ranger-17-RVZC4wVy5B5W2OeS.htm](classfeatures/ranger-17-RVZC4wVy5B5W2OeS.htm)|Masterful Hunter|Maître chasseur|officielle|
 |[ranger-19-bBGb1LcffXEqar0p.htm](classfeatures/ranger-19-bBGb1LcffXEqar0p.htm)|Swift Prey|Changement rapide de proie|changé|
 |[ranger-19-phwQ2MrDZ13D2HxC.htm](classfeatures/ranger-19-phwQ2MrDZ13D2HxC.htm)|Second Skin|Seconde peau|changé|
 |[rogue-01-3KPZ7svIO6kmmEKH.htm](classfeatures/rogue-01-3KPZ7svIO6kmmEKH.htm)|Ruffian Racket|Trafic de roublard : Voyou|changé|
@@ -363,7 +357,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wizard-11-GBsC2cARoFiqMi9V.htm](classfeatures/wizard-11-GBsC2cARoFiqMi9V.htm)|Wizard Weapon Expertise|Expertise avec les armes du magicien|changé|
 |[wizard-11-OZaJz4exCoz6vuuv.htm](classfeatures/wizard-11-OZaJz4exCoz6vuuv.htm)|Alertness (Level 11)|Vigilance (Niveau 11)|officielle|
 |[wizard-13-1NGTc0gqEtwaFqUK.htm](classfeatures/wizard-13-1NGTc0gqEtwaFqUK.htm)|Weapon Specialization (Level 13)|Spécialisation avec les armes (Niveau 13)|libre|
-|[wizard-13-gU7epgcPSm0TD1UK.htm](classfeatures/wizard-13-gU7epgcPSm0TD1UK.htm)|Defensive Robes (Level 13)|Réobes défensives (Niveau 13)|officielle|
+|[wizard-13-gU7epgcPSm0TD1UK.htm](classfeatures/wizard-13-gU7epgcPSm0TD1UK.htm)|Defensive Robes (Level 13)|Robes défensives (Niveau 13)|officielle|
 |[wizard-15-l1InYvhnQSz6Ucxc.htm](classfeatures/wizard-15-l1InYvhnQSz6Ucxc.htm)|Master Spellcaster (Level 15)|Incantateur maître (Niveau 15)|officielle|
 |[wizard-17-9WjZSliQZJlyGvUi.htm](classfeatures/wizard-17-9WjZSliQZJlyGvUi.htm)|Resolve (Level 17)|Résolution (Niveau 17)|libre|
 |[wizard-19-Hfaa7TuLn3nE8lr3.htm](classfeatures/wizard-19-Hfaa7TuLn3nE8lr3.htm)|Legendary Spellcaster (Level 19)|Incantateur légendaire (Niveau 19)|officielle|

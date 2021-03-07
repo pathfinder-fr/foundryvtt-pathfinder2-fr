@@ -1,20 +1,13 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 135
+ * **libre**: 136
  * **officielle**: 28
- * **aucune**: 1
  * **changé**: 2
 
 
-Dernière mise à jour: 2021-03-06 11:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-07 12:23 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[feat-01-CCwTBSNTw0caN1jd.htm](ancestryfeatures/feat-01-CCwTBSNTw0caN1jd.htm)|Mutated Flashwarp|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -52,6 +45,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-BFOsMnWfXL1oaWkY.htm](ancestryfeatures/feat-01-BFOsMnWfXL1oaWkY.htm)|Steelskin Hobgoblin|Hobgobelin Peaud'acier|libre|
 |[feat-01-BjuZKA7lzFSjKbif.htm](ancestryfeatures/feat-01-BjuZKA7lzFSjKbif.htm)|Polyglot Android|Androïde polyglotte|libre|
 |[feat-01-bLhIBwqdjTiVJ5qm.htm](ancestryfeatures/feat-01-bLhIBwqdjTiVJ5qm.htm)|Clawed Catfolk|Homme-félin griffu|libre|
+|[feat-01-CCwTBSNTw0caN1jd.htm](ancestryfeatures/feat-01-CCwTBSNTw0caN1jd.htm)|Mutated Flashwarp|Distordu mutant|libre|
 |[feat-01-cCy8vsZENlwiAyZ6.htm](ancestryfeatures/feat-01-cCy8vsZENlwiAyZ6.htm)|Twilight Halfling|Halfelin du crépuscule|officielle|
 |[feat-01-CzOHITB2ihLGqMuJ.htm](ancestryfeatures/feat-01-CzOHITB2ihLGqMuJ.htm)|Runtboss Hobgoblin|Hobgobelin commandant avorton|libre|
 |[feat-01-CZx9HMmoOwcpkLY8.htm](ancestryfeatures/feat-01-CZx9HMmoOwcpkLY8.htm)|Root Leshy|Léchi racine|libre|
@@ -113,7 +107,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-mnhmhOKWLiOD0lev.htm](ancestryfeatures/feat-01-mnhmhOKWLiOD0lev.htm)|Constructed|Construit|libre|
 |[feat-01-mnhpCk9dIwMuFegM.htm](ancestryfeatures/feat-01-mnhpCk9dIwMuFegM.htm)|Paddler Shoony|Shoony Pagayeur|libre|
 |[feat-01-MQx7miBXUmOHycqJ.htm](ancestryfeatures/feat-01-MQx7miBXUmOHycqJ.htm)|Laborer Android|Manœuvre androïde|libre|
-|[feat-01-MtH5bq0MhaMQbJEL.htm](ancestryfeatures/feat-01-MtH5bq0MhaMQbJEL.htm)|Murkeyed Azarketi|Azarkety Yeuxobscurs|libre|
+|[feat-01-MtH5bq0MhaMQbJEL.htm](ancestryfeatures/feat-01-MtH5bq0MhaMQbJEL.htm)|Murkeyed Azarketi|Azarketi Yeuxobscurs|libre|
 |[feat-01-MTTU2t7x6TjvUDnE.htm](ancestryfeatures/feat-01-MTTU2t7x6TjvUDnE.htm)|Hold-Scarred Orc|Orque scarifié|libre|
 |[feat-01-MUujYQYWg6PNVaaN.htm](ancestryfeatures/feat-01-MUujYQYWg6PNVaaN.htm)|Predator Strix|Strix prédateur|libre|
 |[feat-01-n2DKA0OQQcfvZRly.htm](ancestryfeatures/feat-01-n2DKA0OQQcfvZRly.htm)|Technological Fleshwarp|Distordu technologique|libre|
