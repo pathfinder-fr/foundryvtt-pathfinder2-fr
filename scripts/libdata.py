@@ -9,7 +9,7 @@ import json
 
 SUPPORTED = {
   "spells":                         { 'transl': "Sorts", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" } },
-  "feats":                          { 'transl': "Dons",  "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" }, "lists": { 'Prereq' : "data.prerequisites.value" } },
+  "feats":                          { 'transl': "Dons",  "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value", 'type2': "data.level.value" }, "lists": { 'Prereq' : "data.prerequisites" } },
   "equipment":                      { 'transl': "Équipement", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "type", 'type2': "data.level.value" } },
   "conditionspf2e":                 { 'transl': "Conditions", "paths": { 'name': "name", 'desc': "content" } },
   "conditionitems":                 { 'transl': "Conditions", "paths": { 'name': "name", 'desc': "data.description.value" } },
