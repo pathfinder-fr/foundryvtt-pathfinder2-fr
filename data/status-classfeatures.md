@@ -1,11 +1,11 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 74
- * **changé**: 224
+ * **officielle**: 76
+ * **changé**: 222
  * **libre**: 52
 
 
-Dernière mise à jour: 2021-03-07 12:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -13,9 +13,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[alchemical-01-XPPG7nN9pxt0sjMg.htm](classfeatures/alchemical-01-XPPG7nN9pxt0sjMg.htm)|Formula Book|Formulaire|officielle|
-|[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|changé|
+|[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|officielle|
 |[alchemist-01-cU2ofQLj7pg6wTSi.htm](classfeatures/alchemist-01-cU2ofQLj7pg6wTSi.htm)|Research Field|Domaine de recherche|officielle|
-|[alchemist-01-eNZnx4LISDNftbx2.htm](classfeatures/alchemist-01-eNZnx4LISDNftbx2.htm)|Chirurgeon|Chirurgien|changé|
+|[alchemist-01-eNZnx4LISDNftbx2.htm](classfeatures/alchemist-01-eNZnx4LISDNftbx2.htm)|Chirurgeon|Chirurgien|officielle|
 |[alchemist-01-P9quO9XZi3OWFe1k.htm](classfeatures/alchemist-01-P9quO9XZi3OWFe1k.htm)|Toxicologist|Toxicologiste|changé|
 |[alchemist-01-Pe0zmIqyTBc2Td0I.htm](classfeatures/alchemist-01-Pe0zmIqyTBc2Td0I.htm)|Advanced Alchemy|Alchimie avancée|officielle|
 |[alchemist-01-sPtl05wwTpqFI0lL.htm](classfeatures/alchemist-01-sPtl05wwTpqFI0lL.htm)|Quick Alchemy|Alchimie rapide|changé|

@@ -164,7 +164,7 @@
         {
             "id": "Created Fleshwarp",
             "name": "Distordu créé",
-            "description": "<p>Vous avez été créé parr le biais de processus chimiques ou occultes, tel qu'un être élevé dans une cuve ou cousu à partir de parties de corps d'autres créatures par un scientifique en Ustalav. Votre corps fabriqué est durable ; Vous n'avez pas besoin de manger et ne mourrez pas de faim. Vous obtenez un bonus de circonstance de +2 aux jets de sauvegarde contre les maladies.</p>"
+            "description": "<p>Vous avez été créé par le biais de processus chimiques ou occultes, tel qu'un être élevé dans une cuve ou cousu à partir de parties de corps d'autres créatures par un scientifique en Ustalav. Votre corps fabriqué est durable ; Vous n'avez pas besoin de manger et ne mourrez pas de faim. Vous obtenez un bonus de circonstance de +2 aux jets de sauvegarde contre les maladies.</p>"
         },
         {
             "id": "Wisp Fetchling",
@@ -213,7 +213,7 @@
         },
         {
             "id": "Hold-Scarred Orc",
-            "name": "Orque scarifié",
+            "name": "Orc scarifié",
             "description": "<p>Vous êtes un membre d'une communauté orque qui pratique un rituel de scarification ou de tatouage. Les marques de votre peau montrent votre exceptionnelle robustesse et votre vitalité. Vous obtenez 12 Points de vie de votre héritage au lieu de 10. Vous obtenez aussi le don @Compendium[pf2e.feats-srd.I0BhPWqYf1bbzEYg]{Dur à cuir}.</p>"
         },
         {
@@ -454,7 +454,7 @@
         {
             "id": "Nine Lives Catfolk",
             "name": "Homme-félin aux neuf vies",
-            "description": "<p>Votre famille a toujours semblé se remettre d'un désastre pas tant par le biais d'une nature robuste ou d'une compétence particulière  physical mais davantage par la chance pure. Les autres hommes-félins murmurent que vous possédez neuf vies.</p>\n<p>Si vous êtes réduit à 0 Points de vie après un coup critique sur un test d'attaque vous devenez @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} 1 au lieu de Mourant 2.</p>"
+            "description": "<p>Votre famille a toujours semblé se remettre d'un désastre pas tant par le biais d'une nature robuste ou d'une compétence particulière mais davantage par la chance pure. Les autres hommes-félins murmurent que vous possédez neuf vies.</p>\n<p>Si vous êtes réduit à 0 Points de vie après un coup critique sur un test d'attaque vous devenez @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} 1 au lieu de Mourant 2.</p>"
         },
         {
             "id": "Woodstalker Lizardfolk",
@@ -598,7 +598,7 @@
         },
         {
             "id": "Deep Orc",
-            "name": "Orque des profondeurs",
+            "name": "Orc des profondeurs",
             "description": "<p>Vos mains calleuses et vos yeux rouges évoquent une vie passée dans les ténèbres profondes des cavernes des montagnes, où vous avez appris à combattre sur les falaises rocheuses et à survivre avec un minimum de ressources. Vous obtenez le don @Compendium[pf2e.feats-srd.4tTkRyOQ0VuRBac3]{Expertise du terrain} pour les souterrains et de don de compétence @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur}.</p>"
         },
         {
@@ -684,7 +684,7 @@
         {
             "id": "Constructed",
             "name": "Construit",
-            "description": "<p>Votre corpss synthétique résiste aux affections mieux que les organismes purement biologiques. Vous obtenez un bonus de circonstance de +1 aux jets de sauvegarde contre les maladies, les poisons et les radiations.</p>"
+            "description": "<p>Votre corps synthétique résiste aux affections mieux que les organismes purement biologiques. Vous obtenez un bonus de circonstance de +1 aux jets de sauvegarde contre les maladies, les poisons et les radiations.</p>"
         },
         {
             "id": "Root Leshy",
@@ -718,7 +718,7 @@
         },
         {
             "id": "Grave Orc",
-            "name": "Orque tombal",
+            "name": "Orc tombal",
             "description": "<p>Vous avez été exposé à de puissantes énergies nécromantiques qui auraient dû vous tuer — mais vous avez survécu. Votre peau est froide, humide et grise. Vous obtenez une résistance aux dégâts négatifs égale à la moitié de votre niveau (minimum 1). Vous obtenez aussi un bonus de circonstance de +1 aux jets de sauvegarde contre les effets de nécromancie.</p>"
         },
         {
@@ -753,7 +753,7 @@
         },
         {
             "id": "Emotionally Unaware",
-            "name": "Émotionnelement non préparé",
+            "name": "Émotionnellement non préparé",
             "description": "<p>Vous trouvez qu'il est difficile de comprendre et d'exprimer des émotions complexes. Vous subissez une pénalité de circonstance de –1 aux tests de Diplomatie et de Représentation et aux tests de Perception pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions}.</p>"
         },
         {

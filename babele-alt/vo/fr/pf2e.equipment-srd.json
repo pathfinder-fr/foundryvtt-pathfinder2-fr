@@ -399,7 +399,7 @@
         {
             "id": "Chain Shirt",
             "name": "Chain Shirt",
-            "description": "<p><span class=\"fontstyle0\">Parfois appelé haubert, c’est une longue chemise constituée des mêmes anneaux en métal que la cotte de mailles. Cependant, elle est beaucoup plus légère que cette dernière et ne protège que le torse, les bras et les cuisses de son porteur. </span> </p>"
+            "description": "<p>Parfois appelé haubert, c’est une longue chemise constituée des mêmes anneaux en métal que la cotte de mailles. Cependant, elle est beaucoup plus légère que cette dernière et ne protège que le torse, les bras et les cuisses de son porteur.</p>"
         },
         {
             "id": "Onyx Panther",
@@ -424,7 +424,7 @@
         {
             "id": "Adamantine Buckler (Standard-Grade)",
             "name": "Adamantine Buckler (Standard-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</span></p>\n<p>La targe a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 50 po d’adamantium.&nbsp;</span></p>"
+            "description": "<p><span>Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</span></p>\n<p>La targe a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> au moins 50 po d’adamantium.</span></p>"
         },
         {
             "id": "Crystal Shards (Greater)",
@@ -434,7 +434,7 @@
         {
             "id": "Mistform Elixir (Greater)",
             "name": "Mistform Elixir (Greater)",
-            "description": "Une faible brume émane de votre peau et vous masque pendant la durée indiquée. Comme d’ordinaire quand vous êtes masqué, mais que votre position est évidente, vous ne pouvez pas en profiter pour Vous cacher ni Être furtif. La durée est de 5 min."
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<p>Une faible brume émane de votre peau et vous @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{masque} pendant 5 minutes.</p>\n<p>Comme d’ordinaire quand vous êtes masqué, mais que votre position est évidente, vous ne pouvez pas en profiter pour @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Vous cacher} ni @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}.</p>"
         },
         {
             "id": "Bag of Holding (Type IV)",
@@ -489,7 +489,7 @@
         {
             "id": "Quicksilver Mutagen (Lesser)",
             "name": "Quicksilver Mutagen (Lesser)",
-            "description": "<p><strong>Activate</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interact</p>\n<hr>\n<p>Vous devenez fin et anguleux. Vous êtes plus rapide et plus agile, mais votre corps se fragilise. Le bonus aux jets de dés est de +1, celui à la Vitesse de +1,5 m.</p>\n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet aux tests d’Acrobaties, de Discrétion et de Vol, aux jets de Réflexes et aux jets d’attaque à distance et vous gagnez le bonus indiqué à la Vitesse.</p>\n<p><strong>Inconvénient</strong> Vous subissez un montant de dégâts égal au double de votre niveau. Vous ne pouvez pas récupérer les points de vie ainsi perdus tant que le mutagène fait effet. Vous subissez un malus de −2 aux jets de Vigueur.</p>\n<p><strong>Durée</strong> 1 minute</p>\n<p>@Compendium[pf2e.spell-effects.6PNLBIdlqqWNCFMy]{Effet: Mutagène de vif-argent (Inférieur)}</p>"
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<hr />\n<p>Vous devenez fin et anguleux. Vous êtes plus rapide et plus agile, mais votre corps se fragilise. Le bonus aux jets de dés est de +1, celui à la Vitesse de +1,5 m.</p>\n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet aux tests d’Acrobaties, de Discrétion et de Vol, aux jets de Réflexes et aux jets d’attaque à distance et vous gagnez le bonus indiqué à la Vitesse.</p>\n<p><strong>Inconvénient</strong> Vous subissez un montant de dégâts égal au double de votre niveau. Vous ne pouvez pas récupérer les points de vie ainsi perdus tant que le mutagène fait effet. Vous subissez un malus de −2 aux jets de Vigueur.</p>\n<p><strong>Durée</strong> 1 minute</p>\n<p>@Compendium[pf2e.consumable-effects.6PNLBIdlqqWNCFMy]{Effet: Mutagène de vif-argent (Inférieur)}</p>"
         },
         {
             "id": "Demon Mask",
@@ -779,7 +779,7 @@
         {
             "id": "Sturdy Shield (Lesser)",
             "name": "Sturdy Shield (Lesser)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 10, 80 PV et un SR de 40.&nbsp;</span></p>"
+            "description": "<p><span>Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span>Le bouclier a une Solidité de 10, 80 PV et un SR de 40.</span></p>"
         },
         {
             "id": "Simple silver circlet",
@@ -804,7 +804,7 @@
         {
             "id": "Hide",
             "name": "Hide",
-            "description": "<p><span class=\"fontstyle0\">Mélange de fourrure, de peau solide et de cuir bouilli parfois moulé, cette armure offre une protection grâce à ses différentes couches, même si son encombrement ralentit son porteur et diminue sa mobilité.</span></p>"
+            "description": "<p>Mélange de fourrure, de peau solide et de cuir bouilli parfois moulé, cette armure offre une protection grâce à ses différentes couches, même si son encombrement ralentit son porteur et diminue sa mobilité.</p>"
         },
         {
             "id": "Potion of Flying (Greater)",
@@ -824,7 +824,7 @@
         {
             "id": "Cold Iron Shield (Standard-Grade)",
             "name": "Cold Iron Shield (Standard-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en fer froid ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p>Le bouclier a une Solidité de 7, 28 PV et un SR de 14</p>\n<p><strong>Conditions de fabrication</strong>  au moins 425 pa de fer froid</p>"
+            "description": "<p><span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p>Le bouclier a une Solidité de 7, 28 PV et un SR de 14</p>\n<p><strong>Conditions de fabrication</strong> au moins 425 pa de fer froid</p>"
         },
         {
             "id": "Choker of Elocution (Greater)",
@@ -959,7 +959,7 @@
         {
             "id": "Lion's Shield",
             "name": "Lion's Shield",
-            "description": "<p>Ce bouclier en acier (Solidité 6, 36 PV, SR 18) est forgé de façon à ressembler à une tête de lion rugissant. La tête de lion fonctionne comme un ombon de frappe +1 impossible à détacher du</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Lever un bouclier; <strong>Frequency</strong> 1/jour; <strong>Effet</strong> Vous animez la tête de lion. Vous Levez le bouclier et faites une Frappe au corps à corps avec lui au cours de la même action. La gueule du bouclier est une arme de guerre de corps à corps qui in‑ flige 2d6 dégâts perforants et a le trait mortelle 1d6 ; il est impossible de l’améliorer avec des runes. Pendant une minute, le bouclier reste animé et vous pouvez Frapper avec lui chaque fois que vous Levez le bouclier, ainsi qu’avec l’action Frapper.</span></p>"
+            "description": "<p>Ce bouclier en acier (Solidité 6, 36 PV, SR 18) est forgé de façon à ressembler à une tête de lion rugissant. La tête de lion fonctionne comme un ombon de frappe +1 impossible à détacher du bouclier.</p>\n<hr />\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Lever un bouclier;</p> <p><strong>Fréquence</strong> 1/jour;</p>\n<p><strong>Effet</strong> Vous animez la tête de lion. Vous Levez le bouclier et faites une Frappe au corps à corps avec lui au cours de la même action.</p>\n<p>La gueule du bouclier est une arme de guerre de corps à corps qui inflige 2d6 dégâts perforants et a le trait mortelle 1d6 ; il est impossible de l’améliorer avec des runes. Pendant une minute, le bouclier reste animé et vous pouvez Frapper avec lui chaque fois que vous Levez le bouclier, ainsi qu’avec l’action Frapper.</p>"
         },
         {
             "id": "Black Dragon's Breath Potion (Young)",
@@ -1054,7 +1054,7 @@
         {
             "id": "Studded Leather Armor",
             "name": "Studded Leather Armor",
-            "description": "<p><span class=\"fontstyle0\">Cette armure de cuir est renforcée par des clous métalliques et parfois par de petites plates de métal, offrant l’essentiel de la souplesse de l’armure de cuir associée à une protection plus robuste.</span> </p>"
+            "description": "<p>Cette armure de cuir est renforcée par des clous métalliques et parfois par de petites plates de métal, offrant l’essentiel de la souplesse de l’armure de cuir associée à une protection plus robuste.</p>"
         },
         {
             "id": "Pendant of the Occult (Greater)",
@@ -1209,7 +1209,7 @@
         {
             "id": "Martyr's Shield",
             "name": "Martyr's Shield",
-            "description": "<p><span><strong>Perception</strong> +12; vision précise 9 m, ouïe imprécise 9 m<br><strong>Communication</strong> parole (commun et céleste)<br><strong>Compétences</strong> Diplomacie +15, Religion +13<br><strong>Int</strong> +0, <strong>SAG</strong> +2, <strong>CHA</strong> +4<br><strong>Volonté</strong> +15</span></p>\n<p>Un bouclier du martyr est un bouclier renforcé inférieur imprégné de la compassion d’un champion dévoué à une divinité de la justice, telle que Iomédae ou Vildéïs, qui s’est sacrifié pour sauver un allié.En plus de vouloir vous convertir avec bonhomie à sa religion, le bouclier du martyr peut utiliser 1 réaction à chaque round qui, quand il est levé, est utilisée comme un Blocage au bouclier afin de protéger un allié adjacent avec les effets du don Gardien au bouclier (Livre de base p. 112). Le bouclier du martyr utilise cette réaction que vous le vouliez ou non. Il peut être amélioré en une version plus robuste du bouclier renforcé en payant la différence de coût entre son type actuel de bouclier renforcé et le nouveau type.</p>"
+            "description": "<p><span><strong>Perception</strong> +12; vision précise 9 m, ouïe imprécise 9 m<br /><strong>Communication</strong> parole (commun et céleste)<br /><strong>Compétences</strong> Diplomacie +15, Religion +13<br /><strong>Int</strong> +0, <strong>Sag</strong> +2, <strong>Cha</strong> +4<br /><strong>Volonté</strong> +15</span></p>\n<hr />\n<p>Un bouclier du martyr est un bouclier renforcé inférieur imprégné de la compassion d’un champion dévoué à une divinité de la justice, telle que Iomédae ou Vildéïs, qui s’est sacrifié pour sauver un allié. En plus de vouloir vous convertir avec bonhomie à sa religion, le bouclier du martyr peut utiliser 1 réaction à chaque round qui, quand il est levé, est utilisée comme un Blocage au bouclier afin de protéger un allié adjacent avec les effets du don Gardien au bouclier. Le bouclier du martyr utilise cette réaction que vous le vouliez ou non. Il peut être amélioré en une version plus robuste du bouclier renforcé en payant la différence de coût entre son type actuel de bouclier renforcé et le nouveau type.</p>"
         },
         {
             "id": "Wolfsbane",
@@ -1439,7 +1439,7 @@
         {
             "id": "Silver Buckler (Low-Grade)",
             "name": "Silver Buckler (Low-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en argent ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 1, 4 PV et un SR de 2.<br><strong>Conditions de fabrication</strong> au moins 15 pa d’argent &nbsp;</span></p>"
+            "description": "<p>Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.</p>\n<hr />\n<p>Le bouclier a une Solidité de 1, 4 PV et un SR de 2.</p>\n<p><strong>Conditions de fabrication</strong> au moins 15 pa d’argent</p>"
         },
         {
             "id": "Simple painting",
@@ -1609,7 +1609,7 @@
         {
             "id": "Leather Armor",
             "name": "Leather Armor",
-            "description": "<p><span class=\"fontstyle0\"> la seconde peau épaisse de cette armure disperse la force du choc afin de réduire les dégâts causés par des coups contondants. Vous gagnez une résistance aux dégâts contondants égale à 1 + la valeur de la rune de puissance de l’armure pour une armure intermédiaire, ou 2 + la valeur de la rune de puissance de l’armure pour une armure lourde. </span> </p>"
+            "description": "<p>Mélange de cuir bouilli souple et moulé, une telle armure confère une protection accompagnée d'une souplesse maximale.</p>"
         },
         {
             "id": "Bravo's Brew (Greater)",
@@ -1689,7 +1689,7 @@
         {
             "id": "Full Plate",
             "name": "Full Plate",
-            "description": "<p><span class=\"fontstyle0\">Le harnois est constitué de plates imbriquées enveloppant la quasi-totalité du corps dans une carapace en acier. Il est coûteux et lourd, et le porteur a souvent besoin d’aide pour l’enfiler correctement, mais il fournit certaines des meilleures défenses qu’une armure puisse procurer. Une telle armure comporte également </span>&nbsp; <span class=\"fontstyle0\"> une sous-couche d’armure matelassée (voir ci-dessous) et une paire de gantelets (page 285).</span> </p>"
+            "description": "<p>Le harnois est constitué de plates imbriquées enveloppant la quasi-totalité du corps dans une carapace en acier. Il est coûteux et lourd, et le porteur a souvent besoin d’aide pour l’enfiler correctement, mais il fournit certaines des meilleures défenses qu’une armure puisse procurer. Une telle armure comporte également une sous-couche d’armure matelassée et une paire de gantelets.</p>"
         },
         {
             "id": "Nine-Ring Sword",
@@ -1734,7 +1734,7 @@
         {
             "id": "Silver Shield (Low-Grade)",
             "name": "Silver Shield (Low-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 3, 12 PV et un SR de 6.<br><strong>Conditions de fabrication</strong> au moins 17 pa d’argent&nbsp;</span></p>"
+            "description": "<p>Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.</p>\n<hr />\n<p>Le bouclier a une Solidité de 3, 12 PV et un SR de 6.</p>\n<p><strong>Conditions de fabrication</strong> au moins 17 pa d’argent</p>"
         },
         {
             "id": "Greatclub",
@@ -1999,7 +1999,7 @@
         {
             "id": "Cold Iron Shield (Low-Grade)",
             "name": "Cold Iron Shield (Low-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 5, 20 PV et un SR de 10.<br /><strong>Conditions de fabrication</strong> au moins 17 pa de fer froid</span></p>"
+            "description": "<p><span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p><span>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.<br /><strong>Conditions de fabrication</strong> au moins 17 pa de fer froid</span></p>"
         },
         {
             "id": "Previously lost volume from a legendary author",
@@ -2044,7 +2044,7 @@
         {
             "id": "Ghoul Hide",
             "name": "Ghoul Hide",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette armure de peau <em> +1</em> cousue à partir de lambeaux de peau de goule vous donne un bonus d’objet de +1 aux jets de sauvegarde contre la maladie et la paralysie et vous immunise contre la paralysie des goules. <em>Une peau de goule</em> améliorée avec <em>une rune de résilience</em> augmente le bonus d’objet de la rune de résilience aux jets de sauvegarde contre la maladie et la paralysie de 1 (+4 au maximum).</p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><em>La peau de goule</em> émet un sifflement haineux dès qu’elle entre en contact avec un elfe. Si elle est portée par une créature dotée du trait elfique, elle gagne le trait bruyante&nbsp;&nbsp;</span></p>"
+            "description": "<p>Cette <em>armure de peau </em> <em>+1 </em> cousue à partir de lambeaux de peau de goule vous donne un bonus d’objet de +1 aux jets de sauvegarde contre la maladie et la paralysie et vous immunise contre la paralysie des goules. <em>Une peau de goule</em> améliorée avec <em>une rune de résilience</em> augmente le bonus d’objet de la rune de résilience aux jets de sauvegarde contre la maladie et la paralysie de 1 (+4 au maximum).</p>\n<p><em>La peau de goule</em> émet un sifflement haineux dès qu’elle entre en contact avec un elfe. Si elle est portée par une créature dotée du trait elfique, elle gagne le trait bruyante</p>\n<hr />\n<p>Effets automatiquement appliqués:</p>\n<ul>\n<li>+1 bonus d'objet aux jets de sauvegarde contre la maladie et la paralysie </li>\n</ul>\n<p></p>"
         },
         {
             "id": "Weapon Potency (+2)",
@@ -2229,7 +2229,7 @@
         {
             "id": "Dust Pods",
             "name": "Dust Pods",
-            "description": "<p>Vous cachez de fragiles sachets de pollen ou d'autres poudres qui s'accrochent et qui se retrouvent dans les yeux de la première créature qui entre dans le carré du piège. La créature doit tenter un lancer de sauvetage DC 17 Reflex. Une créature éblouie par le pollen peut utiliser une action Interact pour tenter un DC 5 flat check afin d'éliminer la condition.</p>\n<p><strong>Succès critique</strong>&nbsp;La créature n'est pas affectée.<br><strong>Succès</strong>&nbsp;La créature est éblouie pendant 1 tour. <br><strong>Echec</strong>&nbsp;La créature est éblouie pendant 10 minutes.<br><strong>Echec critique</strong>&nbsp;La créature est aveuglée pendant 1 round et éblouie pendant 10 minutes après.</p>"
+            "description": "<p>Vous cachez de fragiles sachets de pollen ou d'autres poudres qui s'accrochent et qui vont se ficher dans les yeux de la première créature qui entre dans la case du piège. La créature doit tenter un jet de Réflexes DD 17. Une créature éblouie par le pollen peut utiliser une action Interagir pour tenter un test nu DD 5 afin d'éliminer la condition.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature est Éblouie pendant 1 round.</p>\n<p><strong>Échec</strong> La créature est Éblouie pendant 10 minutes.</p>\n<p><strong>Échec critique</strong> La créature est Aveuglée pendant 1 round puis Éblouie pendant 10 minutes.</p>"
         },
         {
             "id": "Mentalist's Staff (Greater)",
@@ -2254,7 +2254,7 @@
         {
             "id": "Scale Mail",
             "name": "Scale Mail",
-            "description": "<p><span class=\"fontstyle0\">L’armure d’écailles est composée de nombreuses écailles en métal cousues sur un support en cuir renforcé, souvent sous la forme d’une longue chemise protégeant le torse, les bras et les jambes.</span> </p>"
+            "description": "<p>L’armure d’écailles est composée de nombreuses écailles en métal cousues sur un support en cuir renforcé, souvent sous la forme d’une longue chemise protégeant le torse, les bras et les jambes.</p>"
         },
         {
             "id": "Potion of Resistance (Lesser)",
@@ -2349,7 +2349,7 @@
         {
             "id": "Mithral Buckler (Standard-Grade)",
             "name": "Mithral Buckler (Standard-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef‑ fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 3, 12 PV et un SR de 6.<br><strong>Conditions de fabrication</strong> au moins 50 po de mithral</span></p>"
+            "description": "<p><span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef‑ fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.</span></p>\n<p><span>Le bouclier a une Solidité de 3, 12 PV et un SR de 6.<br /><strong>Conditions de fabrication</strong> au moins 50 po de mithral</span></p>"
         },
         {
             "id": "Flail",
@@ -2494,7 +2494,7 @@
         {
             "id": "Padded Armor",
             "name": "Padded Armor",
-            "description": "<p><span class=\"fontstyle0\">Cette armure est simplement formée d’une couche de tissu épais et matelassé ; elle est parfois utilisée à cause de son coût peu élevé. Les armures matelassées sont plus faciles à endommager et à détruire que les autres types d’armures. Une armure lourde comporte en plus une sous-couche d’armure matelassée incluse dans son prix, mais elle perd alors son trait confort. Vous pouvez porter seulement la sous-couche de votre armure matelassée pour dormir,  si votre armure lourde est détruite ou si vous ne portez pas l’armure lourde complète. Cela vous permet de garder l’armure investie et de bénéficier du pouvoir des runes se trouvant  sur l’armure lourde associée, mais personne d’autre ne peut  porter votre armure lourde sans la sous-couche matelassée.</span> </p>"
+            "description": "<p>Cette armure est simplement formée d’une couche de tissu épais et matelassé ; elle est parfois utilisée à cause de son coût peu élevé. Les armures matelassées sont plus faciles à endommager et à détruire que les autres types d’armures. Une armure lourde comporte en plus une sous-couche d’armure matelassée incluse dans son prix, mais elle perd alors son trait confort. Vous pouvez porter seulement la sous-couche de votre armure matelassée pour dormir,  si votre armure lourde est détruite ou si vous ne portez pas l’armure lourde complète. Cela vous permet de garder l’armure investie et de bénéficier du pouvoir des runes se trouvant  sur l’armure lourde associée, mais personne d’autre ne peut  porter votre armure lourde sans la sous-couche matelassée.</p>"
         },
         {
             "id": "Goggles of Night",
@@ -2549,7 +2549,7 @@
         {
             "id": "Silver Shield (Standard-Grade)",
             "name": "Silver Shield (Standard-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en argentne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.</span></p>\n<p>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.</p>\n<p><strong>Conditions de fabrication</strong> au moins 2 500 po d’argent</p>"
+            "description": "<p>Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.</p>\n<p>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.</p>\n<p><strong>Conditions de fabrication</strong> au moins 425 po d’argent</p>"
         },
         {
             "id": "Enormous chryselephantine sculpture by a legend",
@@ -2649,7 +2649,7 @@
         {
             "id": "Wooden Shield",
             "name": "Wooden Shield",
-            "description": "<p><span class=\"fontstyle0\">Même s’ils se présentent sous toute une variété de formes et de tailles, l’abri offert par les boucliers en bois provient de la robustesse des matériaux dans lesquels ils sont conçus. Le bouclier en bois est moins cher que le bouclier en acier, mais il se brise plus facilement. </span></p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">12</td>\n<td style=\"height: 17px; width: 116px;\">6</td>\n</tr>\n</tbody>\n</table>"
+            "description": "<p>Même s’ils se présentent sous toute une variété de formes et de tailles, l’abri offert par les boucliers en bois provient de la robustesse des matériaux dans lesquels ils sont conçus. Le bouclier en bois est moins cher que le bouclier en acier, mais il se brise plus facilement.</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">12</td>\n<td style=\"height: 17px; width: 116px;\">6</td>\n</tr>\n</tbody>\n</table>"
         },
         {
             "id": "Clothing (High-Fashion Fine)",
@@ -2769,7 +2769,7 @@
         {
             "id": "Hellknight Plate",
             "name": "Hellknight Plate",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Peu d'armures au sein de la Région de la Mer Intérieure sont aussi mémorables que l'iconique Armure de plaques d'un Chevalier infernal. WBien que chaque ordre dispose de ses propres ornementations, l'armure de Chevalier infernal est instantanément reconnaissable pour n'importe qui a connaissance de l'existence des Chevaliers infernaux. Les Chevaliers infernaux prennent des mesures extrèmes pour punir les non Chevaliers infernaux qui mettent la main sur une armure de Chevalier infernal et cette récompense ne vaut souvent pas qu'on prenne ce risque, car pour ceux qui ne sont pas Chevaliers infernaux, l'armure fonctionne de manière similaire à une @Compendium[pf2e.equipment-srd.Gq1cZWSKOtJhKd2p]{armure de plaque}.&nbsp;</span></p>"
+            "description": "<p><span>Peu d'armures au sein de la Région de la Mer Intérieure sont aussi mémorables que l'iconique Armure d'un Chevalier infernal. Bien que chaque ordre dispose de ses propres ornementations, l'armure de Chevalier infernal est instantanément reconnaissable pour n'importe qui a connaissance de l'existence des Chevaliers infernaux. Les Chevaliers infernaux prennent des mesures extrêmes pour punir les non Chevaliers infernaux qui mettent la main sur une armure de Chevalier infernal et cette récompense ne vaut souvent pas qu'on prenne ce risque, car pour ceux qui ne sont pas Chevaliers infernaux, l'armure fonctionne de manière similaire à un @Compendium[pf2e.equipment-srd.Gq1cZWSKOtJhKd2p]{Harnois}.</span></p>"
         },
         {
             "id": "Class Kit (Fighter)",
@@ -2854,7 +2854,7 @@
         {
             "id": "Silver Buckler (Standard-Grade)",
             "name": "Silver Buckler (Standard-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en argent ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 3, 12 PV et un SR de 6<br><strong>Conditions de fabrication</strong> au moins 375 pa d’argen&nbsp;</span></p>"
+            "description": "<p>Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.</p>\n<hr />\n<p>Le bouclier a une Solidité de 3, 12 PV et un SR de 6.</p>\n<p><strong>Conditions de fabrication</strong> au moins 375 pa d’argent</p>"
         },
         {
             "id": "Detective's Kit",
@@ -2909,7 +2909,7 @@
         {
             "id": "Splint Mail",
             "name": "Splint Mail",
-            "description": "<p><span class=\"fontstyle0\">Ce type d’armure est constitué d’une cotte de mailles renforcée de plates métalliques souples s’emboîtant les unes dans les autres, localisées généralement sur le torse, les bras et les jambes du porteur. Une telle armure inclut une sous-couche d’armure matelassée (voir ci-dessus) et une paire de gantelets (page 285).</span> </p>"
+            "description": "<p>Ce type d’armure est constitué d’une cotte de mailles renforcée de plates métalliques souples s’emboîtant les unes dans les autres, localisées généralement sur le torse, les bras et les jambes du porteur. Une telle armure inclut une sous-couche d’armure matelassée et une paire de gantelets.</p>"
         },
         {
             "id": "Speed",
@@ -3064,7 +3064,7 @@
         {
             "id": "Tower Shield",
             "name": "Tower Shield",
-            "description": "<p><span class=\"fontstyle0\">On peut utiliser ce bouclier imposant pour abriter presque la totalité du corps. En raison de sa taille, il est généralement fabriqué en bois renforcé de métal.</span> Pour bénéficier du bonus le plus élevé avec un Pavois (+4), vous devez utiliser l’action Mise à l’abri (page 471) alors que le bouclier est levé.</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">5</td>\n<td style=\"height: 17px; width: 115px;\">20</td>\n<td style=\"height: 17px; width: 116px;\">10</td>\n</tr>\n</tbody>\n</table>"
+            "description": "<p>On peut utiliser ce bouclier imposant pour abriter presque la totalité du corps. En raison de sa taille, il est généralement fabriqué en bois renforcé de métal. Pour bénéficier du bonus le plus élevé avec un Pavois (+4), vous devez utiliser l’action Mise à l’abri (page 471) alors que le bouclier est levé.</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">5</td>\n<td style=\"height: 17px; width: 115px;\">20</td>\n<td style=\"height: 17px; width: 116px;\">10</td>\n</tr>\n</tbody>\n</table>"
         },
         {
             "id": "Bracers of Missile Deflection (Greater)",
@@ -3104,7 +3104,7 @@
         {
             "id": "Clothing (Explorer's)",
             "name": "Clothing (Explorer's)",
-            "description": "<p><span>Les vêtements ordinaires sont des habits fonctionnels à la confection basique, comme les vêtements des paysans, les robes des moines ou les vêtements de travail. Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure. Pour plus d’informations sur les vêtements d’explorateur, reportez-vous à la page 276. &nbsp;</span></p>"
+            "description": "<p><span>Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure.</span></p>"
         },
         {
             "id": "Channel Protection Amulet",
@@ -3204,7 +3204,7 @@
         {
             "id": "Glamorous Buckler",
             "name": "Glamorous Buckler",
-            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">F</span> Imaginer</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous feintez</p>\n<p><strong>Condition</strong> Vous avez levé votre targe étincelante</p>\n<p><strong>Effet</strong> Lorsque vous feintez, la targe étincelante scintille puissamment. En cas de succès de la Feinte, la cible est éblouie pendant 1 round.</p>\n<hr>\n<p>Une targe étincelante (Solidité 3, PV 6, SR 3) est richement décorée avec des dorures et des pierres précieuses serties qui brillent dans la lumière. Lorsque vous l'avez levée, la targe étincelante vous accorde un bonus d'objet de +1 aux tests de Duperie pour Feinter.</p>\n<p>@Compendium[pf2e.spell-effects.iEkH8BKLMUa2wxLX]{Effet: Targe étincelante}</p>\n<hr />\n<hr />\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">6</td>\n<td style=\"height: 17px; width: 116px;\">3</td>\n</tr>\n</tbody>\n</table>"
+            "description": "<p>Une targe étincelante (Solidité 3, PV 6, SR 3) est richement décorée avec des dorures et des pierres précieuses serties qui brillent dans la lumière. Lorsque vous l'avez levée, la targe étincelante vous accorde un bonus d'objet de +1 aux tests de Duperie pour Feinter.</p>\n<p>@Compendium[pf2e.equipment-effects.iEkH8BKLMUa2wxLX]{Effet: Targe étincelante}</p>\n<hr />\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">F</span> Imaginer;</p>\n<p><strong>Fréquence</strong> une fois par jour;</p>\n<p><strong>Déclencheur</strong> Vous feintez;</p>\n<p><strong>Condition</strong> Vous avez levé votre targe étincelante;</p>\n<p><strong>Effet</strong> Lorsque vous feintez, la targe étincelante scintille puissamment. En cas de succès de la Feinte, la cible est éblouie pendant 1 round.</p>\n<hr />\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">6</td>\n<td style=\"height: 17px; width: 116px;\">3</td>\n</tr>\n</tbody>\n</table>"
         },
         {
             "id": "Khopesh",
@@ -3259,7 +3259,7 @@
         {
             "id": "Spellguard Shield",
             "name": "Spellguard Shield",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des glyphes de protection contre la magie sont gravés sur ce bouclier. Tant que vous levez ce bouclier en acier (Solidité 6, 24 PV, SR 12), vous bénéficiez de son bonus de circonstances aux jets de sauvegarde contre les sorts qui vous prennent pour cible (ainsi qu’à la CA).&nbsp;&nbsp;</span></p>"
+            "description": "<p>Des glyphes de protection contre la magie sont gravés sur ce bouclier. Tant que vous levez ce bouclier en acier (Solidité 6, 24 PV, SR 12), vous bénéficiez de son bonus de circonstances aux jets de sauvegarde contre les sorts qui vous prennent pour cible (ainsi qu’à la CA).</p>\n<p>@Compendium[pf2e.equipment-effects.lBMhT2W2raYMa8JS]{Effect: Bouclier Gardesort}</p>"
         },
         {
             "id": "Black Adder Venom",
@@ -3774,7 +3774,7 @@
         {
             "id": "Adamantine Shield (Standard-Grade)",
             "name": "Adamantine Shield (Standard-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 10, 40 PV et un SR de 20.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 55 po d’adamantium&nbsp;</span></p>"
+            "description": "<p><span>Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</span></p>\n<p>Le bouclier a une Solidité de 10, 40 PV et un SR de 20.</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> au moins 55 po d’adamantium</span></p>"
         },
         {
             "id": "Alabaster and obsidian game set",
@@ -4034,7 +4034,7 @@
         {
             "id": "Mistform Elixir (Lesser)",
             "name": "Mistform Elixir (Lesser)",
-            "description": "Une faible brume émane de votre peau et vous masque pendant la durée indiquée. Comme d’ordinaire quand vous êtes masqué, mais que votre position est évidente, vous ne pouvez pas en profiter pour Vous cacher ni Être furtif. La durée est de 10 min."
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<p>Une faible brume émane de votre peau et vous @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{masque} pendant 3 rounds.</p>\n<p>Comme d’ordinaire quand vous êtes masqué, mais que votre position est évidente, vous ne pouvez pas en profiter pour @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Vous cacher} ni @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}.</p>"
         },
         {
             "id": "Dragonhide Buckler (Standard-Grade)",
@@ -4207,6 +4207,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un orbe de verre au sommet de ce bâton métallique contient du sable fin et ondoyant. Lorsque vous le maniez, vous bénéficiez d’un bonus de circonstances de +2 aux tests pour identifier la magie de transmutation. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication.s</strong> Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</span></p>\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]{Sigil}</li>\n<li><strong>Niveau 1</strong> @Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]{Fleet Step}, @Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Jump}</li>\n<li><strong>Niveau 2</strong> @Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Enlarge}, @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Humanoid Form}</li>\n<li><strong>Niveau 3</strong> @Compendium[pf2e.spells-srd.RvBlSIJmxiqfCpR9]{Feet to Fins}, @Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Jump}</li>\n<li><strong>Niveau 4</strong> @Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]{Gaseous Form}, @Compendium[pf2e.spells-srd.McnPlLFvKtQVXNcG]{Shape Stone}</li>\n<li><strong>Niveau 5</strong> @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Humanoid Form}</li>\n<li><strong>Niveau 6</strong> @Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Baleful Polymorph}, @Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{Dragon Form}, @Compendium[pf2e.spells-srd.znv4ECL7ZtuiagtA]{Flesh to Stone}</li>\n</ul>"
         },
         {
+            "id": "Taw Launcher",
+            "name": "Taw Launcher",
+            "description": "<p>Conçus par les combattants conrasus, cet objet complexe ressemble à une arbalète et projette des petites balles de bois connues sous le nom de billes de bois. Un système de lames à l'intérieur du lanceur peut rapidement refaçonner une bille de bois au moment de son chargement, permettant au lanceur de lancer des billes de différentes formes, telles que des fléchettes.</p>"
+        },
+        {
             "id": "Dragonslayer's Shield",
             "name": "Dragonslayer's Shield",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier du pourfendeur de dragons est un bouclier en acier recouvert de la peau d’un certain type de dragon, ce qui distingue chaque bouclier des autres. Lorsqu’il est levé, ce bouclier en acier (Solidité 8,32 PV, SR 16) confère son bonus de circonstances aux jets de Réflexes contre les effets de zone (ainsi qu’à la CA, comme à l’accoutumée). <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque vous le tenez en main, il vous confère également un bonus de circonstances de +2 aux jets de Volonté contre le pouvoir présence terrifiante d’un dragon. Le bouclier a une résistance 10 contre le type de dégâts associé à celui du dragon dont la peau a été utilisée pour sa fabrication (voir Peau de dragon en page 575). Cette résistance s’applique après réduction des dégâts due à la Solidité. Ainsi, quand vous utilisez Blocage au bouclier, le bouclier du pourfendeur de dragons subit 18 dégâts de moins des attaques infligeant ce type de dégâts. Vous pouvez utiliser Blocage au bouclier contre les attaques qui infligent des dégâts de ce type.</span></p>"
@@ -4224,7 +4229,7 @@
         {
             "id": "Cold Iron Buckler (Standard-Grade)",
             "name": "Cold Iron Buckler (Standard-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en fer froid ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">La targe a une Solidité de 5, 20 PV et un SR de 10..<br><strong>Conditions de fabrication</strong> au moins 375 pa de fer froid&nbsp;</span></p>"
+            "description": "<p><span>Les targes en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p><span>La targe a une Solidité de 5, 20 PV et un SR de 10.<br /><strong>Conditions de fabrication</strong> au moins 375 pa de fer froid</span></p>"
         },
         {
             "id": "Abadar's Flawless Scale",
@@ -4524,7 +4529,7 @@
         {
             "id": "Darkwood Buckler (Standard-Grade)",
             "name": "Darkwood Buckler (Standard-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1,sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 3, 12 PV et un SR de 6</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 50 po d’ébénite&nbsp;</span></p>"
+            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1,sans effet sur un bouclier ayant normalement un Encombrement léger).</span></p>\n<p>Le bouclier a une Solidité de 3, 12 PV et un SR de 6</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> au moins 50 po d’ébénite</span></p>"
         },
         {
             "id": "Spike Snare",
@@ -4599,7 +4604,7 @@
         {
             "id": "Mistform Elixir (Moderate)",
             "name": "Mistform Elixir (Moderate)",
-            "description": "Une faible brume émane de votre peau et vous masque pendant la durée indiquée. Comme d’ordinaire quand vous êtes masqué,mais que votre position est évidente, vous ne pouvez pas en profiter pour Vous cacher ni Être furtif. La durée est de 1 min."
+            "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interaction</p>\n<p>Une faible brume émane de votre peau et vous @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{masque} pendant 1 monute.</p>\n<p>Comme d’ordinaire quand vous êtes masqué, mais que votre position est évidente, vous ne pouvez pas en profiter pour @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Vous cacher} ni @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}.</p>"
         },
         {
             "id": "Sky Hammer",
@@ -4834,7 +4839,7 @@
         {
             "id": "Half Plate",
             "name": "Half Plate",
-            "description": "<p><span class=\"fontstyle0\">Dans l’armure de plates, la plupart des plates supérieures du corps sont utilisées comme un harnois, avec une protection de plates en acier plus légère ou plus clairsemée pour les bras et les jambes. Elle fournit une partie de la protection du harnois, associée à davantage de souplesse et de rapidité.  Une telle armure comporte également une sous-couche d’armure  matelassée (voir ci-dessous) et une paire de gantelets (page 285).</span> </p>"
+            "description": "<p>Dans l’armure de plates, la plupart des plates supérieures du corps sont utilisées comme un harnois, avec une protection de plates en acier plus légère ou plus clairsemée pour les bras et les jambes. Elle fournit une partie de la protection du harnois, associée à davantage de souplesse et de rapidité.  Une telle armure comporte également une sous-couche d’armure  matelassée et une paire de gantelets.</p>"
         },
         {
             "id": "Ancient dragon skull etched with mystic sigils",
@@ -4879,7 +4884,7 @@
         {
             "id": "Moonlit Chain",
             "name": "Moonlit Chain",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette <em>chemise de mailles en argent +1</em> possède un col cousu d’images de la lune à ses différentes phases. Vous voyez au clair de lune comme si vous disposiez de vision nocturne.<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" />&nbsp;Interagir;&nbsp;<strong>Fréquence</strong>&nbsp;1/j;&nbsp;<strong>Effet</strong>&nbsp;En touchant l’image de la nouvelle lune sur le col de l’armure, vous supprimez l’état ébloui pendant 1 min.&nbsp;<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>&nbsp;Les matériaux initiaux bruts doivent inclure 33 po d’argent.</span></p>"
+            "description": "<p><span>Cette <em>chemise de mailles en argent +1</em> possède un col cousu d’images de la lune à ses différentes phases. Vous voyez au clair de lune comme si vous disposiez de vision nocturne.<br /></span></p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir;<strong>Fréquence</strong>1/j;<strong>Effet</strong>En touchant l’image de la nouvelle lune sur le col de l’armure, vous supprimez l’état ébloui pendant 1 min.<br /></span></p>\n<p><span><strong>Conditions de fabrication</strong>Les matériaux initiaux bruts doivent inclure 33 po d’argent.</span></p>"
         },
         {
             "id": "Manacles (Superior)",
@@ -4954,7 +4959,7 @@
         {
             "id": "Breastplate",
             "name": "Breastplate",
-            "description": "<p><span class=\"fontstyle0\">Bien que désigné sous le nom de cuirasse, ce type d’armure est constitué de plusieurs éléments de harnois ou d’armure de plates (page 275),  qui protègent le torse, la poitrine, le cou et parfois les  hanches et le bas des jambes. Elle accorde stratégiquement une partie de la protection du harnois tout en permettant plus de souplesse et de rapidité.</span></p>"
+            "description": "<p>Bien que désigné sous le nom de cuirasse, ce type d’armure est constitué de plusieurs éléments de harnois ou d’armure de plates,  qui protègent le torse, la poitrine, le cou et parfois les  hanches et le bas des jambes. Elle accorde stratégiquement une partie de la protection du harnois tout en permettant plus de souplesse et de rapidité.</p>"
         },
         {
             "id": "Horseshoes of Speed (Greater)",
@@ -5099,7 +5104,7 @@
         {
             "id": "Chain Mail",
             "name": "Chain Mail",
-            "description": "<p><span class=\"fontstyle0\">Une cotte de mailles est composée de plusieurs pièces d’armure constituées de petits anneaux en métal reliés entre eux par un maillage protecteur. Elle comprend généralement une chemise de mailles, des jambières, deux bras et une coiffe pour la tête, protégeant conjointement la plus grande partie du corps.</span> </p>"
+            "description": "<p>Une cotte de mailles est composée de plusieurs pièces d’armure constituées de petits anneaux en métal reliés entre eux par un maillage protecteur. Elle comprend généralement une chemise de mailles, des jambières, deux bras et une coiffe pour la tête, protégeant conjointement la plus grande partie du corps.</p>"
         },
         {
             "id": "Silvertongue Mutagen (Lesser)",
@@ -5199,7 +5204,7 @@
         {
             "id": "Mithral Shield (Standard-Grade)",
             "name": "Mithral Shield (Standard-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef‑ fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.&nbsp;</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 5, 20 PV et un SR de 10. <br><strong>Conditions de fabrication</strong> au moins 55 po de mithral &nbsp;</span></p>"
+            "description": "<p><span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.</span></p>\n<p><span>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.<br /><strong>Conditions de fabrication</strong> au moins 55 po de mithral</span></p>"
         },
         {
             "id": "Quality sculpture by an unknown",
@@ -5279,7 +5284,7 @@
         {
             "id": "Sturdy Shield (Minor)",
             "name": "Sturdy Shield (Minor)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 8, 64 PV et un SR de 32..&nbsp;</span></p>"
+            "description": "<p><span>Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span>Le bouclier a une Solidité de 8, 64 PV et un SR de 32.</span></p>"
         },
         {
             "id": "Crystal dinner set, fine silverware",
@@ -5319,7 +5324,7 @@
         {
             "id": "Rhino Hide",
             "name": "Rhino Hide",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette armure de peau de résilience +1 est faite en peau de rhinocéros. Son malus d’armure aux tests est de −1 au lieu de −3. Lorsque vous utilisez le don de classe Charge soudaine en portant cette armure, votre Frappe ajoute 1d8 dégâts de plus.&nbsp;<br><br><strong>Conditions de fabrication</strong>Les matériaux initiaux bruts doivent inclure 320 po de peau de rhinocéros (un matériau ordinaire)..</span></p>"
+            "description": "<p>Cette armure de peau de <em>résilience +1</em> est faite en peau de rhinocéros. Son malus d’armure aux tests est de −1 au lieu de −3.</p>\n<p>Lorsque vous utilisez le don de classe Charge soudaine en portant cette armure, votre Frappe ajoute 1d8 dégâts de plus. <br /><br /><strong>Conditions de fabrication</strong>Les matériaux initiaux bruts doivent inclure 320 po de peau de rhinocéros (un matériau ordinaire).</p>"
         },
         {
             "id": "Fortifying Pebble",
@@ -5349,7 +5354,7 @@
         {
             "id": "Cold Iron Buckler (Low-Grade)",
             "name": "Cold Iron Buckler (Low-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en fer froid ne produisent généralement aucun effet sup‑ plémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 3, 12 PV et un SR de 6.<br><strong>Conditions de fabrication</strong> au moins 15 pa de fer froid &nbsp;</span></p>"
+            "description": "<p><span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</span></p>\n<p><span>Le bouclier a une Solidité de 3, 12 PV et un SR de 6.<br><strong>Conditions de fabrication</strong> au moins 15 pa de fer froid</span></p>"
         },
         {
             "id": "Shears",
@@ -5412,6 +5417,11 @@
             "description": "<p><span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.&nbsp;</span></p>\n<p><span>Le bouclier a une solidité de 8, 32 PV et un SR de 16.<br><strong>Conditions de fabrication</strong> au moins 4 400 po de mithral&nbsp;</span></p>"
         },
         {
+            "id": "Wooden Taws",
+            "name": "Wooden Taws",
+            "description": "<p>Billes de bois qui sont lancés par un Lanceur de billes.</p>"
+        },
+        {
             "id": "Bag of Holding (Type I)",
             "name": "Bag of Holding (Type I)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Bien que ce sac en tissu orné de panneaux de soie aux riches couleurs ou de belles broderies ait l’air ordinaire, il ouvre sur un espace extradimensionnel bien plus grand que ce que pourrait contenir son enveloppe extérieure. L’Encombrement contenu dans le sac sans fond ne change pas son Encombrement à lui. La quantité d’Encombrement qu’il peut accueillir dépend de son type. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous pouvez Interagir avec le sac sans fond pour mettre un objet dedans ou le retirer, comme avec un sac ordinaire. Le sac a une grande contenance, mais pour y stocker un objet, il faut qu’il passe par son ouverture. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Si le sac est surchargé ou brisé, il se déchire et est détruit, les objets qu’il contient étant perdus à jamais. S’il est mis sur l’envers, les objets qu’il contient se répandent à terre, intacts, mais il faut le remettre sur l’endroit avant de le réutiliser. Une créature vivante placée dans le sac a assez d’air pour respirer 10 min, ensuite elle commence à suffoquer. Elle peut faire un test DD 13 pour S’échapper. Un objet contenu dans le sac n’offre aucun avantage, il faut le sortir. La magie qui détecte les choses sur le même plan que l’incantateur ne détecte pas un objet dans le sac. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Capacité</strong> 25 encombrements</span></p>"
@@ -5464,7 +5474,7 @@
         {
             "id": "Darkwood Shield (Standard-Grade)",
             "name": "Darkwood Shield (Standard-Grade)",
-            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.</p>\n<hr>\n<p><span><strong>Conditions de fabrication</strong> au moins 55 po d'ébénite</span></p>"
+            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).</span></p>\n<p>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> au moins 55 po d'ébénite</span></p>"
         },
         {
             "id": "Cinderclaw Gauntlet",
@@ -5584,7 +5594,7 @@
         {
             "id": "Spined Shield",
             "name": "Spined Shield",
-            "description": "<p>Cinq pointes barbelées ornent la surface de ce bouclier en acier (Solidité 6, 24 PV, SR 12). Ce sont des pointes de bouclier de frappe +1. Quand vous effectuez l’action Blocage au bouclier avec ce bouclier, les dégâts sont infligés aux pointes avant le bouclier. Quand le bouclier devrait subir des dégâts (après application de la Solidité), une pointe se casse par tranche de 6 dégâts, ce qui réduit les dégâts de 6. Le bouclier subit les éventuels dégâts restants. Le bouclier subit les dégâts comme à l’accoutumée quand toutes les pointes sont cassées</p>\n<p>Quand il ne reste plus aucune pointe, il ne vous est plus possible d’attaquer avec elles tant qu’elles ne se sont pas régénérées le lendemain.</p>\n<p><strong>Activation</strong>&nbsp;<img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\">&nbsp;<strong>Interagir</strong>; Effet Vous projetez l’une des pointes du bouclier sur une cible. Une pointe projetée utilise les statistiques des pointes mais c’est une arme de guerre à dis‑ tance avec un facteur de portée de 36 m.</p>"
+            "description": "<p>Cinq pointes barbelées ornent la surface de ce bouclier en acier (Solidité 6, 24 PV, SR 12). Ce sont des pointes de bouclier de frappe +1.</p>\n<p>Quand vous effectuez l’action Blocage au bouclier avec ce bouclier, les dégâts sont infligés aux pointes avant le bouclier. Quand le bouclier devrait subir des dégâts (après application de la Solidité), une pointe se casse par tranche de 6 dégâts, ce qui réduit les dégâts de 6. Le bouclier subit les éventuels dégâts restants. Le bouclier subit les dégâts comme à l’accoutumée quand toutes les pointes sont cassées.</p>\n<p>Quand il ne reste plus aucune pointe, il ne vous est plus possible d’attaquer avec elles tant qu’elles ne se sont pas régénérées le lendemain.</p>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p><strong>Effet</strong> Vous projetez l’une des pointes du bouclier sur une cible. Une pointe projetée utilise les statistiques des pointes mais c’est une arme de guerre à distance avec un facteur de portée de 36 m.</p>"
         },
         {
             "id": "Wondrous Figurine (Obsidian Steed)",
@@ -5764,7 +5774,7 @@
         {
             "id": "Darkwood Tower Shield (Standard-Grade)",
             "name": "Darkwood Tower Shield (Standard-Grade)",
-            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.</p>\n<hr>\n<p><span><strong>Conditions de fabrication</strong> au moins 70 po d'ébénite</span></p>"
+            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).</span></p>\n<p>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> au moins 70 po d'ébénite</span></p>"
         },
         {
             "id": "Fine gold spyglass",
@@ -5819,7 +5829,7 @@
         {
             "id": "Steel Shield",
             "name": "Steel Shield",
-            "description": "<p><span class=\"fontstyle0\">Comme les boucliers en bois, les boucliers en acier sont de formes et de tailles variées. Plus coûteux que les boucliers en bois, ils sont cependant beaucoup plus résistants. </span>&nbsp;</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">5</td>\n<td style=\"height: 17px; width: 115px;\">20</td>\n<td style=\"height: 17px; width: 116px;\">10</td>\n</tr>\n</tbody>\n</table>"
+            "description": "<p>Comme les boucliers en bois, les boucliers en acier sont de formes et de tailles variées. Plus coûteux que les boucliers en bois, ils sont cependant beaucoup plus résistants.</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">5</td>\n<td style=\"height: 17px; width: 115px;\">20</td>\n<td style=\"height: 17px; width: 116px;\">10</td>\n</tr>\n</tbody>\n</table>"
         },
         {
             "id": "Silver coronet with peridots",

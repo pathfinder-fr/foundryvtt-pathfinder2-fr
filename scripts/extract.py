@@ -46,7 +46,10 @@ for p in packs:
     ## additional lists
     if "lists" in p:
       for key in p["lists"]:
-        entries[obj['_id']]['lists'][key] = getList(obj, p["lists"][key], False)
+        list = getList(obj, p["lists"][key], False)
+        if len(list) == 0:
+          list = getList(obj, p["lists"][key] + ".value", False)
+        entries[obj['_id']]['lists'][key] = list
   
   # ==============================
   # search for duplicates in names
@@ -98,8 +101,8 @@ for p in packs:
        
       # QUICK FIX pour: https://discord.com/channels/@me/757146858828333077/815954577219780728
       change = False
-      #if 'Prereq' in existing[id]['listsEN'] and len(existing[id]['listsEN']['Prereq'])!=len(existing[id]['listsFR']['Prereq']):
-      #  change = True
+      #if p["name"] == "feats-srd":
+      #  change = True 
       
       if change or not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']):
         existing[id]['nameEN'] = source['name']
