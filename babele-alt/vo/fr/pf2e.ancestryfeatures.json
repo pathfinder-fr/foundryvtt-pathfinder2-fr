@@ -164,7 +164,7 @@
         {
             "id": "Created Fleshwarp",
             "name": "Created Fleshwarp",
-            "description": "<p>Vous avez été créé parr le biais de processus chimiques ou occultes, tel qu'un être élevé dans une cuve ou cousu à partir de parties de corps d'autres créatures par un scientifique en Ustalav. Votre corps fabriqué est durable ; Vous n'avez pas besoin de manger et ne mourrez pas de faim. Vous obtenez un bonus de circonstance de +2 aux jets de sauvegarde contre les maladies.</p>"
+            "description": "<p>Vous avez été créé par le biais de processus chimiques ou occultes, tel qu'un être élevé dans une cuve ou cousu à partir de parties de corps d'autres créatures par un scientifique en Ustalav. Votre corps fabriqué est durable ; Vous n'avez pas besoin de manger et ne mourrez pas de faim. Vous obtenez un bonus de circonstance de +2 aux jets de sauvegarde contre les maladies.</p>"
         },
         {
             "id": "Wisp Fetchling",
@@ -454,7 +454,7 @@
         {
             "id": "Nine Lives Catfolk",
             "name": "Nine Lives Catfolk",
-            "description": "<p>Votre famille a toujours semblé se remettre d'un désastre pas tant par le biais d'une nature robuste ou d'une compétence particulière  physical mais davantage par la chance pure. Les autres hommes-félins murmurent que vous possédez neuf vies.</p>\n<p>Si vous êtes réduit à 0 Points de vie après un coup critique sur un test d'attaque vous devenez @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} 1 au lieu de Mourant 2.</p>"
+            "description": "<p>Votre famille a toujours semblé se remettre d'un désastre pas tant par le biais d'une nature robuste ou d'une compétence particulière mais davantage par la chance pure. Les autres hommes-félins murmurent que vous possédez neuf vies.</p>\n<p>Si vous êtes réduit à 0 Points de vie après un coup critique sur un test d'attaque vous devenez @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} 1 au lieu de Mourant 2.</p>"
         },
         {
             "id": "Woodstalker Lizardfolk",
@@ -684,7 +684,7 @@
         {
             "id": "Constructed",
             "name": "Constructed",
-            "description": "<p>Votre corpss synthétique résiste aux affections mieux que les organismes purement biologiques. Vous obtenez un bonus de circonstance de +1 aux jets de sauvegarde contre les maladies, les poisons et les radiations.</p>"
+            "description": "<p>Votre corps synthétique résiste aux affections mieux que les organismes purement biologiques. Vous obtenez un bonus de circonstance de +1 aux jets de sauvegarde contre les maladies, les poisons et les radiations.</p>"
         },
         {
             "id": "Root Leshy",

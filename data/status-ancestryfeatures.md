@@ -1,11 +1,10 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 136
+ * **libre**: 138
  * **officielle**: 28
- * **changé**: 2
 
 
-Dernière mise à jour: 2021-03-07 12:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -76,7 +75,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-h2VKMYAlUIFAAXVG.htm](ancestryfeatures/feat-01-h2VKMYAlUIFAAXVG.htm)|Nyktera|Nyctère|libre|
 |[feat-01-hFBwsVcSnNCJoimo.htm](ancestryfeatures/feat-01-hFBwsVcSnNCJoimo.htm)|Versatile Heritage|Héritage polyvalent|officielle|
 |[feat-01-HHVQDp61ehcpdiU8.htm](ancestryfeatures/feat-01-HHVQDp61ehcpdiU8.htm)|Darkvision|Vision dans le noir|officielle|
-|[feat-01-hOPOyyt7qZXYYCOU.htm](ancestryfeatures/feat-01-hOPOyyt7qZXYYCOU.htm)|Nine Lives Catfolk|Homme-félin aux neuf vies|changé|
+|[feat-01-hOPOyyt7qZXYYCOU.htm](ancestryfeatures/feat-01-hOPOyyt7qZXYYCOU.htm)|Nine Lives Catfolk|Homme-félin aux neuf vies|libre|
 |[feat-01-HpqQ5VQ0w4HqYgVC.htm](ancestryfeatures/feat-01-HpqQ5VQ0w4HqYgVC.htm)|Jungle Catfolk|Homme-félin de la jungle|libre|
 |[feat-01-hTl3uc6y1kTuo9ac.htm](ancestryfeatures/feat-01-hTl3uc6y1kTuo9ac.htm)|Seaweed Leshy|Léchi algue|libre|
 |[feat-01-idGDjqi1q3Ft8bAZ.htm](ancestryfeatures/feat-01-idGDjqi1q3Ft8bAZ.htm)|Nomadic Halfling|Halfelin nomade|libre|
@@ -100,7 +99,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-LU4i3qXtyzeTGWZQ.htm](ancestryfeatures/feat-01-LU4i3qXtyzeTGWZQ.htm)|Luminous Sprite|Sprite lumineux|libre|
 |[feat-01-m9rrlchS10xHFA2G.htm](ancestryfeatures/feat-01-m9rrlchS10xHFA2G.htm)|Venomtail Kobold|Kobold à queue venimeuse|libre|
 |[feat-01-mEDTJi7d1bTEiwUD.htm](ancestryfeatures/feat-01-mEDTJi7d1bTEiwUD.htm)|Unusual Anatomy|Anatomie inhabituelle|libre|
-|[feat-01-MeMAAtUlZmFgKSMF.htm](ancestryfeatures/feat-01-MeMAAtUlZmFgKSMF.htm)|Elemental Heart Dwarf|Nain Cœurélémentaire|changé|
+|[feat-01-MeMAAtUlZmFgKSMF.htm](ancestryfeatures/feat-01-MeMAAtUlZmFgKSMF.htm)|Elemental Heart Dwarf|Nain Cœurélémentaire|libre|
 |[feat-01-MhXHEh7utEfxBwmc.htm](ancestryfeatures/feat-01-MhXHEh7utEfxBwmc.htm)|Thickcoat Shoony|Shoony à fourrure|libre|
 |[feat-01-Mj7uHxxVkRUlOFwJ.htm](ancestryfeatures/feat-01-Mj7uHxxVkRUlOFwJ.htm)|Hillock Halfling|Halfelin des collines|officielle|
 |[feat-01-Mmezbef0c1fbJaVV.htm](ancestryfeatures/feat-01-Mmezbef0c1fbJaVV.htm)|Impersonator Android|Imposteur androïde|libre|
@@ -108,7 +107,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-mnhpCk9dIwMuFegM.htm](ancestryfeatures/feat-01-mnhpCk9dIwMuFegM.htm)|Paddler Shoony|Shoony Pagayeur|libre|
 |[feat-01-MQx7miBXUmOHycqJ.htm](ancestryfeatures/feat-01-MQx7miBXUmOHycqJ.htm)|Laborer Android|Manœuvre androïde|libre|
 |[feat-01-MtH5bq0MhaMQbJEL.htm](ancestryfeatures/feat-01-MtH5bq0MhaMQbJEL.htm)|Murkeyed Azarketi|Azarketi Yeuxobscurs|libre|
-|[feat-01-MTTU2t7x6TjvUDnE.htm](ancestryfeatures/feat-01-MTTU2t7x6TjvUDnE.htm)|Hold-Scarred Orc|Orque scarifié|libre|
+|[feat-01-MTTU2t7x6TjvUDnE.htm](ancestryfeatures/feat-01-MTTU2t7x6TjvUDnE.htm)|Hold-Scarred Orc|Orc scarifié|libre|
 |[feat-01-MUujYQYWg6PNVaaN.htm](ancestryfeatures/feat-01-MUujYQYWg6PNVaaN.htm)|Predator Strix|Strix prédateur|libre|
 |[feat-01-n2DKA0OQQcfvZRly.htm](ancestryfeatures/feat-01-n2DKA0OQQcfvZRly.htm)|Technological Fleshwarp|Distordu technologique|libre|
 |[feat-01-n2eJEjA8pnOMiuCm.htm](ancestryfeatures/feat-01-n2eJEjA8pnOMiuCm.htm)|Smokeworker Hobgoblin|Hobgobelin travailleur de fumée|libre|
@@ -149,7 +148,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-UaD5VDoFlILEmbyz.htm](ancestryfeatures/feat-01-UaD5VDoFlILEmbyz.htm)|Dhampir|Dhampir|libre|
 |[feat-01-ULj56ZoW7dWdnBvu.htm](ancestryfeatures/feat-01-ULj56ZoW7dWdnBvu.htm)|Unbreakable Goblin|Gobelin Incassable|officielle|
 |[feat-01-UpeOPKB9b8PX6Fi2.htm](ancestryfeatures/feat-01-UpeOPKB9b8PX6Fi2.htm)|Deep Fetchling|Fetchelin de profondeurs|libre|
-|[feat-01-uSAYmU7PO2QoOWhB.htm](ancestryfeatures/feat-01-uSAYmU7PO2QoOWhB.htm)|Emotionally Unaware|Émotionnelement non préparé|libre|
+|[feat-01-uSAYmU7PO2QoOWhB.htm](ancestryfeatures/feat-01-uSAYmU7PO2QoOWhB.htm)|Emotionally Unaware|Émotionnellement non préparé|libre|
 |[feat-01-UV2sABrTC5teOXTE.htm](ancestryfeatures/feat-01-UV2sABrTC5teOXTE.htm)|Strong-Blooded Dwarf|Nain sang-fort|officielle|
 |[feat-01-uxtcKTkD62SmrUoh.htm](ancestryfeatures/feat-01-uxtcKTkD62SmrUoh.htm)|Shapewrought Fleshwarp|Distordu forméforgé|libre|
 |[feat-01-VAo6NnrCEAAOUSkc.htm](ancestryfeatures/feat-01-VAo6NnrCEAAOUSkc.htm)|Resolute Fetchling|Fetchelin résolu|libre|
@@ -159,14 +158,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-VRyX00OuPGsJSurM.htm](ancestryfeatures/feat-01-VRyX00OuPGsJSurM.htm)|Spellscale Kobold|Kobold écaille de sort|libre|
 |[feat-01-VSyOvtgJ1ZNpIVgC.htm](ancestryfeatures/feat-01-VSyOvtgJ1ZNpIVgC.htm)|Rock Dwarf|Nain des roches|officielle|
 |[feat-01-VTtXwBxrfRUXSL38.htm](ancestryfeatures/feat-01-VTtXwBxrfRUXSL38.htm)|Death Warden Dwarf|Nain gardemort|officielle|
-|[feat-01-VvEAFoxuddYNBmNc.htm](ancestryfeatures/feat-01-VvEAFoxuddYNBmNc.htm)|Grave Orc|Orque tombal|libre|
+|[feat-01-VvEAFoxuddYNBmNc.htm](ancestryfeatures/feat-01-VvEAFoxuddYNBmNc.htm)|Grave Orc|Orc tombal|libre|
 |[feat-01-VYfpTUuXJM3iBOz0.htm](ancestryfeatures/feat-01-VYfpTUuXJM3iBOz0.htm)|Unseen Lizardfolk|Homme-lézard mimétique|libre|
 |[feat-01-WaCn0mcivFv1omNK.htm](ancestryfeatures/feat-01-WaCn0mcivFv1omNK.htm)|Strongjaw Kobold|Kobold à forte mâchoire|libre|
 |[feat-01-WEzgrxBRFBGdj8Hx.htm](ancestryfeatures/feat-01-WEzgrxBRFBGdj8Hx.htm)|Wavediver Tengu|Tengu Plongevague|libre|
 |[feat-01-wGMVflH4t1UXrNn5.htm](ancestryfeatures/feat-01-wGMVflH4t1UXrNn5.htm)|Tiefling|Tieffelin|libre|
 |[feat-01-wHO5luJMODbDLXNi.htm](ancestryfeatures/feat-01-wHO5luJMODbDLXNi.htm)|Bright Fetchling|Fetchelin lumineux|libre|
 |[feat-01-Wk4HyaZtC1j221i1.htm](ancestryfeatures/feat-01-Wk4HyaZtC1j221i1.htm)|Earthly Wilds Kitsune|Kitsune des Étendues sauvages terrestres|libre|
-|[feat-01-wn4EbYk1QN3tyFhh.htm](ancestryfeatures/feat-01-wn4EbYk1QN3tyFhh.htm)|Deep Orc|Orque des profondeurs|libre|
+|[feat-01-wn4EbYk1QN3tyFhh.htm](ancestryfeatures/feat-01-wn4EbYk1QN3tyFhh.htm)|Deep Orc|Orc des profondeurs|libre|
 |[feat-01-wNnsjird4OQe0s6p.htm](ancestryfeatures/feat-01-wNnsjird4OQe0s6p.htm)|Gourd Leshy|Léchi calebasse|libre|
 |[feat-01-XeXWsvcWU3Zaj5WC.htm](ancestryfeatures/feat-01-XeXWsvcWU3Zaj5WC.htm)|Chameleon Gnome|Gnome Caméléon|officielle|
 |[feat-01-xtRIYizCjLg9qe1Z.htm](ancestryfeatures/feat-01-xtRIYizCjLg9qe1Z.htm)|Wildwood Halfling|Halfelin bois-sauvage|officielle|

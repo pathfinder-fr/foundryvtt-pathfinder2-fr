@@ -1,11 +1,11 @@
 # État de la traduction (actions)
 
- * **officielle**: 105
+ * **officielle**: 108
  * **libre**: 47
- * **changé**: 5
+ * **changé**: 2
 
 
-Dernière mise à jour: 2021-03-07 12:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -96,9 +96,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kMcV8e5EZUxa6evt.htm](actions/kMcV8e5EZUxa6evt.htm)|Squeeze|Se faufiler|officielle|
 |[KUfLlXDWTcAWhl8l.htm](actions/KUfLlXDWTcAWhl8l.htm)|Recall Knowledge (Society)|Se souvenir (Société)|changé|
 |[kV3XM0YJeS2KCSOb.htm](actions/kV3XM0YJeS2KCSOb.htm)|Scout|Reconnaître|officielle|
-|[KygTSeDvsFoSO6HW.htm](actions/KygTSeDvsFoSO6HW.htm)|Recall Knowledge (Arcana)|Se souvenir (Arcanes)|changé|
+|[KygTSeDvsFoSO6HW.htm](actions/KygTSeDvsFoSO6HW.htm)|Recall Knowledge (Arcana)|Se souvenir (Arcanes)|officielle|
 |[lvqPQDdWT2DDO0k2.htm](actions/lvqPQDdWT2DDO0k2.htm)|Invest an Item|Investir un objet|officielle|
-|[LZgjpWd0pL3vK9Q1.htm](actions/LZgjpWd0pL3vK9Q1.htm)|Recall Knowledge (Religion)|Se souvenir (Religion)|changé|
+|[LZgjpWd0pL3vK9Q1.htm](actions/LZgjpWd0pL3vK9Q1.htm)|Recall Knowledge (Religion)|Se souvenir (Religion)|officielle|
 |[m0f2B7G9eaaTmhFL.htm](actions/m0f2B7G9eaaTmhFL.htm)|Devise a Stratagem|Concevoir un stratagème|libre|
 |[M76ycLAqHoAgbcej.htm](actions/M76ycLAqHoAgbcej.htm)|Balance|Garder l'équilibre|officielle|
 |[M8RCbthRhB4bxO9t.htm](actions/M8RCbthRhB4bxO9t.htm)|Iron Command|Ordre de fer|libre|
@@ -128,7 +128,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[qm7xptMSozAinnPS.htm](actions/qm7xptMSozAinnPS.htm)|Arrest a Fall|Arrêter une chute|officielle|
 |[QNAVeNKtHA0EUw4X.htm](actions/QNAVeNKtHA0EUw4X.htm)|Feint|Feinter|officielle|
 |[qVNVSmsgpKFGk9hV.htm](actions/qVNVSmsgpKFGk9hV.htm)|Conceal an Object|Dissimuler un objet|officielle|
-|[QyzlsLrqM0EEwd7j.htm](actions/QyzlsLrqM0EEwd7j.htm)|Earn Income|Gagner de l'argent|changé|
+|[QyzlsLrqM0EEwd7j.htm](actions/QyzlsLrqM0EEwd7j.htm)|Earn Income|Gagner de l'argent|officielle|
 |[r5Uth6yvCoE4tr9z.htm](actions/r5Uth6yvCoE4tr9z.htm)|Destructive Vengeance|Vengeance destructrice|libre|
 |[RDXXE7wMrSPCLv5k.htm](actions/RDXXE7wMrSPCLv5k.htm)|Steal|Voler|officielle|
 |[Rlp7ND33yYfxiEWi.htm](actions/Rlp7ND33yYfxiEWi.htm)|Master Strike|Frappe de maître|officielle|

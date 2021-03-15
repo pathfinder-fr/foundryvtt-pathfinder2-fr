@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 98
- * **changé**: 936
- * **aucune**: 552
- * **libre**: 158
+ * **officielle**: 140
+ * **changé**: 893
+ * **aucune**: 550
+ * **libre**: 161
 
 
-Dernière mise à jour: 2021-03-07 12:23 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -28,7 +28,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-20-PlYr5AhYwHIztMw2.htm](equipment/armor-20-PlYr5AhYwHIztMw2.htm)|Shield of the Unified Legion|
 |[backpack-13-k5y89wYu3NX1AhVI.htm](equipment/backpack-13-k5y89wYu3NX1AhVI.htm)|Bomber's Saddle|
 |[consumable-00-AqslI71DReZOzgAW.htm](equipment/consumable-00-AqslI71DReZOzgAW.htm)|Formulated Sunlight|
-|[consumable-00-flRmVDRqMOj1Dgum.htm](equipment/consumable-00-flRmVDRqMOj1Dgum.htm)|Wooden Taws|
 |[consumable-00-y2w0FsOJTri4BbRs.htm](equipment/consumable-00-y2w0FsOJTri4BbRs.htm)|Grolna|
 |[consumable-01-81XVuTsF1zD6EXmN.htm](equipment/consumable-01-81XVuTsF1zD6EXmN.htm)|Blindpepper Tube|
 |[consumable-01-apGQcVMSRprFEeKt.htm](equipment/consumable-01-apGQcVMSRprFEeKt.htm)|Potion of Acid Retaliation (Minor)|
@@ -490,7 +489,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-B3nscIocxZag4eeH.htm](equipment/weapon-00-B3nscIocxZag4eeH.htm)|Adze|
 |[weapon-00-BeSK3hhVEKL9Wqzj.htm](equipment/weapon-00-BeSK3hhVEKL9Wqzj.htm)|Hand Adze|
 |[weapon-00-cKbiv1dUMViikKOS.htm](equipment/weapon-00-cKbiv1dUMViikKOS.htm)|Monkey's Fist|
-|[weapon-00-HbL9QGFE71GQQdco.htm](equipment/weapon-00-HbL9QGFE71GQQdco.htm)|Taw Launcher|
 |[weapon-00-kj2BxskGQIMqukB4.htm](equipment/weapon-00-kj2BxskGQIMqukB4.htm)|Buugeng|
 |[weapon-00-KrKo3d1gLnzOAOs4.htm](equipment/weapon-00-KrKo3d1gLnzOAOs4.htm)|Fangwire|
 |[weapon-00-nheGxnmwSfYRLC4k.htm](equipment/weapon-00-nheGxnmwSfYRLC4k.htm)|Tricky Pick|
@@ -571,49 +569,49 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[armor-00-1k3AsSW7lpU0kEpY.htm](equipment/armor-00-1k3AsSW7lpU0kEpY.htm)|Buckler|Targe|officielle|
-|[armor-00-4tIVTg9wj56RrveA.htm](equipment/armor-00-4tIVTg9wj56RrveA.htm)|Leather Armor|Armure de cuir|changé|
-|[armor-00-AnwzlOs0njF9Jqnr.htm](equipment/armor-00-AnwzlOs0njF9Jqnr.htm)|Hide|Armure de peau|changé|
-|[armor-00-dDIPA1WE9ESF67EB.htm](equipment/armor-00-dDIPA1WE9ESF67EB.htm)|Clothing (Explorer's)|Vêtements (d'explorateur)|changé|
-|[armor-00-ewQZ0VeL38v3qFnN.htm](equipment/armor-00-ewQZ0VeL38v3qFnN.htm)|Studded Leather Armor|Armure de cuir clouté|changé|
-|[armor-00-ezVp13Uw8cWW08Da.htm](equipment/armor-00-ezVp13Uw8cWW08Da.htm)|Wooden Shield|Bouclier en bois|changé|
-|[armor-00-Kf4eJEXnFPuAsseP.htm](equipment/armor-00-Kf4eJEXnFPuAsseP.htm)|Chain Mail|Cotte de mailles|changé|
-|[armor-00-ltundBNFAnP7bgPr.htm](equipment/armor-00-ltundBNFAnP7bgPr.htm)|Tower Shield|Pavois|changé|
-|[armor-00-MPcM4Wt6KmWE2kGL.htm](equipment/armor-00-MPcM4Wt6KmWE2kGL.htm)|Chain Shirt|Chemise de mailles|changé|
-|[armor-00-r0ifJfoz8aqf0mwk.htm](equipment/armor-00-r0ifJfoz8aqf0mwk.htm)|Breastplate|Cuirasse|changé|
-|[armor-00-YMQr577asquZIP65.htm](equipment/armor-00-YMQr577asquZIP65.htm)|Scale Mail|Armure d'écailles|changé|
-|[armor-00-Yr9yCuJiAlFh3QEB.htm](equipment/armor-00-Yr9yCuJiAlFh3QEB.htm)|Steel Shield|Bouclier en acier|changé|
-|[armor-00-zBYEU9E7034ENCmh.htm](equipment/armor-00-zBYEU9E7034ENCmh.htm)|Padded Armor|Armure matelassée|changé|
-|[armor-01-6AhDKX1dwRwFpQsU.htm](equipment/armor-01-6AhDKX1dwRwFpQsU.htm)|Splint Mail|Clibanion|changé|
-|[armor-01-pRoikbRo5HFW6YUB.htm](equipment/armor-01-pRoikbRo5HFW6YUB.htm)|Half Plate|Armure de plates|changé|
-|[armor-02-1xUIdz23mIlYWGPL.htm](equipment/armor-02-1xUIdz23mIlYWGPL.htm)|Silver Shield (Low-Grade)|Bouclier en argent (basse qualité)|changé|
-|[armor-02-5E6l3RheSyl99G3m.htm](equipment/armor-02-5E6l3RheSyl99G3m.htm)|Cold Iron Shield (Low-Grade)|Bouclier en fer froid (basse qualité)|changé|
-|[armor-02-aA9clnIP3deHNNjo.htm](equipment/armor-02-aA9clnIP3deHNNjo.htm)|Silver Buckler (Low-Grade)|Targe en argent (basse qualité)|changé|
-|[armor-02-ckUxr51wJVGRNAD0.htm](equipment/armor-02-ckUxr51wJVGRNAD0.htm)|Cold Iron Buckler (Low-Grade)|Targe en fer froid de (basse qualité)|changé|
-|[armor-02-Gq1cZWSKOtJhKd2p.htm](equipment/armor-02-Gq1cZWSKOtJhKd2p.htm)|Full Plate|Harnois|changé|
+|[armor-00-4tIVTg9wj56RrveA.htm](equipment/armor-00-4tIVTg9wj56RrveA.htm)|Leather Armor|Armure de cuir|officielle|
+|[armor-00-AnwzlOs0njF9Jqnr.htm](equipment/armor-00-AnwzlOs0njF9Jqnr.htm)|Hide|Armure de peau|officielle|
+|[armor-00-dDIPA1WE9ESF67EB.htm](equipment/armor-00-dDIPA1WE9ESF67EB.htm)|Clothing (Explorer's)|Vêtements (d'explorateur)|officielle|
+|[armor-00-ewQZ0VeL38v3qFnN.htm](equipment/armor-00-ewQZ0VeL38v3qFnN.htm)|Studded Leather Armor|Armure de cuir clouté|officielle|
+|[armor-00-ezVp13Uw8cWW08Da.htm](equipment/armor-00-ezVp13Uw8cWW08Da.htm)|Wooden Shield|Bouclier en bois|officielle|
+|[armor-00-Kf4eJEXnFPuAsseP.htm](equipment/armor-00-Kf4eJEXnFPuAsseP.htm)|Chain Mail|Cotte de mailles|officielle|
+|[armor-00-ltundBNFAnP7bgPr.htm](equipment/armor-00-ltundBNFAnP7bgPr.htm)|Tower Shield|Pavois|officielle|
+|[armor-00-MPcM4Wt6KmWE2kGL.htm](equipment/armor-00-MPcM4Wt6KmWE2kGL.htm)|Chain Shirt|Chemise de mailles|officielle|
+|[armor-00-r0ifJfoz8aqf0mwk.htm](equipment/armor-00-r0ifJfoz8aqf0mwk.htm)|Breastplate|Cuirasse|officielle|
+|[armor-00-YMQr577asquZIP65.htm](equipment/armor-00-YMQr577asquZIP65.htm)|Scale Mail|Armure d'écailles|officielle|
+|[armor-00-Yr9yCuJiAlFh3QEB.htm](equipment/armor-00-Yr9yCuJiAlFh3QEB.htm)|Steel Shield|Bouclier en acier|officielle|
+|[armor-00-zBYEU9E7034ENCmh.htm](equipment/armor-00-zBYEU9E7034ENCmh.htm)|Padded Armor|Armure matelassée|officielle|
+|[armor-01-6AhDKX1dwRwFpQsU.htm](equipment/armor-01-6AhDKX1dwRwFpQsU.htm)|Splint Mail|Clibanion|officielle|
+|[armor-01-pRoikbRo5HFW6YUB.htm](equipment/armor-01-pRoikbRo5HFW6YUB.htm)|Half Plate|Armure de plates|officielle|
+|[armor-02-1xUIdz23mIlYWGPL.htm](equipment/armor-02-1xUIdz23mIlYWGPL.htm)|Silver Shield (Low-Grade)|Bouclier en argent (basse qualité)|officielle|
+|[armor-02-5E6l3RheSyl99G3m.htm](equipment/armor-02-5E6l3RheSyl99G3m.htm)|Cold Iron Shield (Low-Grade)|Bouclier en fer froid (basse qualité)|officielle|
+|[armor-02-aA9clnIP3deHNNjo.htm](equipment/armor-02-aA9clnIP3deHNNjo.htm)|Silver Buckler (Low-Grade)|Targe en argent (basse qualité)|officielle|
+|[armor-02-ckUxr51wJVGRNAD0.htm](equipment/armor-02-ckUxr51wJVGRNAD0.htm)|Cold Iron Buckler (Low-Grade)|Targe en fer froid de (basse qualité)|officielle|
+|[armor-02-Gq1cZWSKOtJhKd2p.htm](equipment/armor-02-Gq1cZWSKOtJhKd2p.htm)|Full Plate|Harnois|officielle|
 |[armor-02-IxuDS3POB6EH8TVN.htm](equipment/armor-02-IxuDS3POB6EH8TVN.htm)|Glamorous Buckler|Targe étincelante|changé|
 |[armor-02-lCgXeV52eYYl5cUX.htm](equipment/armor-02-lCgXeV52eYYl5cUX.htm)|Hellknight Plate|Armure de Chevalier infernal|changé|
-|[armor-04-f9ygr5Cjrmop8LWV.htm](equipment/armor-04-f9ygr5Cjrmop8LWV.htm)|Sturdy Shield (Minor)|Bouclier renforcé (mineure)|changé|
-|[armor-06-eMDt5vCQztp7cC6B.htm](equipment/armor-06-eMDt5vCQztp7cC6B.htm)|Lion's Shield|Bouclier du lion|changé|
+|[armor-04-f9ygr5Cjrmop8LWV.htm](equipment/armor-04-f9ygr5Cjrmop8LWV.htm)|Sturdy Shield (Minor)|Bouclier renforcé (mineure)|officielle|
+|[armor-06-eMDt5vCQztp7cC6B.htm](equipment/armor-06-eMDt5vCQztp7cC6B.htm)|Lion's Shield|Bouclier du lion|officielle|
 |[armor-06-hRwnNTMj7wa8S4Ji.htm](equipment/armor-06-hRwnNTMj7wa8S4Ji.htm)|Ghoul Hide|Peau de goule|changé|
-|[armor-06-OqDAx4HJ39ojVtvg.htm](equipment/armor-06-OqDAx4HJ39ojVtvg.htm)|Spellguard Shield|Bouclier Gardesort|changé|
-|[armor-07-8DNpWWeL7X9MDG0i.htm](equipment/armor-07-8DNpWWeL7X9MDG0i.htm)|Silver Buckler (Standard-Grade)|Targe en argent (qualité standard)|changé|
-|[armor-07-HWQEGY2X0QXj2zfN.htm](equipment/armor-07-HWQEGY2X0QXj2zfN.htm)|Martyr's Shield|Bouclier du martyr|changé|
-|[armor-07-KVj9RP2qvpsHHGqE.htm](equipment/armor-07-KVj9RP2qvpsHHGqE.htm)|Silver Shield (Standard-Grade)|Bouclier en argent (qualité standard)|changé|
-|[armor-07-nDZX25OwoN0Imrq6.htm](equipment/armor-07-nDZX25OwoN0Imrq6.htm)|Sturdy Shield (Lesser)|Bouclier solide (inférieur)|changé|
-|[armor-07-p1uYtIUYXXoNdVKg.htm](equipment/armor-07-p1uYtIUYXXoNdVKg.htm)|Cold Iron Shield (Standard-Grade)|Bouclier en fer froid (qualité standard)|changé|
-|[armor-07-PsyfqGIzDbr1mX6d.htm](equipment/armor-07-PsyfqGIzDbr1mX6d.htm)|Cold Iron Buckler (Standard-Grade)|Targe en fer froid (qualité standard)|changé|
-|[armor-07-vHZSx5f093Wrivzn.htm](equipment/armor-07-vHZSx5f093Wrivzn.htm)|Moonlit Chain|Maille lunaire|changé|
-|[armor-07-WDh4fb9N86mNLfDV.htm](equipment/armor-07-WDh4fb9N86mNLfDV.htm)|Spined Shield|Bouclier de la manticore|changé|
-|[armor-08-2gMlhHlkQp3DuWw5.htm](equipment/armor-08-2gMlhHlkQp3DuWw5.htm)|Adamantine Shield (Standard-Grade)|Bouclier en adamantium (qualité standard)|changé|
-|[armor-08-4aVkppixLHPg940o.htm](equipment/armor-08-4aVkppixLHPg940o.htm)|Adamantine Buckler (Standard-Grade)|Targe en adamantium (qualité standard)|changé|
-|[armor-08-BUHV5rev5HVgCrUB.htm](equipment/armor-08-BUHV5rev5HVgCrUB.htm)|Darkwood Buckler (Standard-Grade)|Targe en ébénite (qualité standard)|changé|
-|[armor-08-CF9BCVE0ppxMmULb.htm](equipment/armor-08-CF9BCVE0ppxMmULb.htm)|Mithral Buckler (Standard-Grade)|Targe en mithral (qualité standard)|changé|
+|[armor-06-OqDAx4HJ39ojVtvg.htm](equipment/armor-06-OqDAx4HJ39ojVtvg.htm)|Spellguard Shield|Bouclier Gardesort|officielle|
+|[armor-07-8DNpWWeL7X9MDG0i.htm](equipment/armor-07-8DNpWWeL7X9MDG0i.htm)|Silver Buckler (Standard-Grade)|Targe en argent (qualité standard)|officielle|
+|[armor-07-HWQEGY2X0QXj2zfN.htm](equipment/armor-07-HWQEGY2X0QXj2zfN.htm)|Martyr's Shield|Bouclier du martyr|officielle|
+|[armor-07-KVj9RP2qvpsHHGqE.htm](equipment/armor-07-KVj9RP2qvpsHHGqE.htm)|Silver Shield (Standard-Grade)|Bouclier en argent (qualité standard)|officielle|
+|[armor-07-nDZX25OwoN0Imrq6.htm](equipment/armor-07-nDZX25OwoN0Imrq6.htm)|Sturdy Shield (Lesser)|Bouclier solide (inférieur)|officielle|
+|[armor-07-p1uYtIUYXXoNdVKg.htm](equipment/armor-07-p1uYtIUYXXoNdVKg.htm)|Cold Iron Shield (Standard-Grade)|Bouclier en fer froid (qualité standard)|officielle|
+|[armor-07-PsyfqGIzDbr1mX6d.htm](equipment/armor-07-PsyfqGIzDbr1mX6d.htm)|Cold Iron Buckler (Standard-Grade)|Targe en fer froid (qualité standard)|officielle|
+|[armor-07-vHZSx5f093Wrivzn.htm](equipment/armor-07-vHZSx5f093Wrivzn.htm)|Moonlit Chain|Maille lunaire|officielle|
+|[armor-07-WDh4fb9N86mNLfDV.htm](equipment/armor-07-WDh4fb9N86mNLfDV.htm)|Spined Shield|Bouclier de la manticore|officielle|
+|[armor-08-2gMlhHlkQp3DuWw5.htm](equipment/armor-08-2gMlhHlkQp3DuWw5.htm)|Adamantine Shield (Standard-Grade)|Bouclier en adamantium (qualité standard)|officielle|
+|[armor-08-4aVkppixLHPg940o.htm](equipment/armor-08-4aVkppixLHPg940o.htm)|Adamantine Buckler (Standard-Grade)|Targe en adamantium (qualité standard)|officielle|
+|[armor-08-BUHV5rev5HVgCrUB.htm](equipment/armor-08-BUHV5rev5HVgCrUB.htm)|Darkwood Buckler (Standard-Grade)|Targe en ébénite (qualité standard)|officielle|
+|[armor-08-CF9BCVE0ppxMmULb.htm](equipment/armor-08-CF9BCVE0ppxMmULb.htm)|Mithral Buckler (Standard-Grade)|Targe en mithral (qualité standard)|officielle|
 |[armor-08-daX1jX7XYo3mWZmP.htm](equipment/armor-08-daX1jX7XYo3mWZmP.htm)|Dragonhide Shield (Standard-Grade)|Bouclier en Peau de Dragon de Qualité Standard|changé|
-|[armor-08-ETHbpwjh8aLGrXi0.htm](equipment/armor-08-ETHbpwjh8aLGrXi0.htm)|Mithral Shield (Standard-Grade)|Bouclier en mithral (qualité standard)|changé|
-|[armor-08-Snu8yjMrUi3ockyA.htm](equipment/armor-08-Snu8yjMrUi3ockyA.htm)|Darkwood Tower Shield (Standard-Grade)|Pavois en ébénite de qualité standard|changé|
-|[armor-08-UdvSJPCtBr2Y1e22.htm](equipment/armor-08-UdvSJPCtBr2Y1e22.htm)|Darkwood Shield (Standard-Grade)|Bouclier en ébénite de qualité standard|changé|
+|[armor-08-ETHbpwjh8aLGrXi0.htm](equipment/armor-08-ETHbpwjh8aLGrXi0.htm)|Mithral Shield (Standard-Grade)|Bouclier en mithral (qualité standard)|officielle|
+|[armor-08-Snu8yjMrUi3ockyA.htm](equipment/armor-08-Snu8yjMrUi3ockyA.htm)|Darkwood Tower Shield (Standard-Grade)|Pavois en ébénite de qualité standard|officielle|
+|[armor-08-UdvSJPCtBr2Y1e22.htm](equipment/armor-08-UdvSJPCtBr2Y1e22.htm)|Darkwood Shield (Standard-Grade)|Bouclier en ébénite de qualité standard|officielle|
 |[armor-08-vfzzrp0tKXznWnhY.htm](equipment/armor-08-vfzzrp0tKXznWnhY.htm)|Dragonhide Buckler (Standard-Grade)|Taarge en peau de dragon (qualité normale)|changé|
-|[armor-09-C4XKMcHZoGzrAZBl.htm](equipment/armor-09-C4XKMcHZoGzrAZBl.htm)|Rhino Hide|Peau de rhinocéros|changé|
+|[armor-09-C4XKMcHZoGzrAZBl.htm](equipment/armor-09-C4XKMcHZoGzrAZBl.htm)|Rhino Hide|Peau de rhinocéros|officielle|
 |[armor-09-DIzZr0K20eCbNzQo.htm](equipment/armor-09-DIzZr0K20eCbNzQo.htm)|Force Shield|Bouclier de force|officielle|
 |[armor-09-Q8BscHUFiM1a86PO.htm](equipment/armor-09-Q8BscHUFiM1a86PO.htm)|Dragonslayer's Shield|Bouclier du pourfendeur de dragons|changé|
 |[armor-10-8HxM35X8DDt2gw9d.htm](equipment/armor-10-8HxM35X8DDt2gw9d.htm)|Electric Eelskin|Peau d'anguille électrique|changé|
@@ -678,6 +676,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-00-2DoUHoueAyyP4lMN.htm](equipment/consumable-00-2DoUHoueAyyP4lMN.htm)|Bloodeye Coffee|Café œil-sanglant|changé|
 |[consumable-00-AITVZmakiu3RgfKo.htm](equipment/consumable-00-AITVZmakiu3RgfKo.htm)|Bolts|Carreau(x)|changé|
 |[consumable-00-Du05UxCyCM0ZWH8z.htm](equipment/consumable-00-Du05UxCyCM0ZWH8z.htm)|Oil (1 pint)|Huile|changé|
+|[consumable-00-flRmVDRqMOj1Dgum.htm](equipment/consumable-00-flRmVDRqMOj1Dgum.htm)|Wooden Taws|Billes de bois|libre|
 |[consumable-00-IAeGh5qvu7ob4yad.htm](equipment/consumable-00-IAeGh5qvu7ob4yad.htm)|Grappling Arrow|Flèche grappin|libre|
 |[consumable-00-MKSeXwUm56c15MZa.htm](equipment/consumable-00-MKSeXwUm56c15MZa.htm)|Sling Bullets|Billes de fronde|changé|
 |[consumable-00-PTwm2NAcReBw2iUY.htm](equipment/consumable-00-PTwm2NAcReBw2iUY.htm)|Flayleaf|Éreintante|changé|
@@ -690,11 +689,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-3cWko20JPnjeoofV.htm](equipment/consumable-01-3cWko20JPnjeoofV.htm)|Feather Token (Ladder)|Plume magique (échelle)|changé|
 |[consumable-01-3V2U720YhW2nyGVx.htm](equipment/consumable-01-3V2U720YhW2nyGVx.htm)|Spike Snare|Piège artisanal à pointes|changé|
 |[consumable-01-3Wb0N7iqmTn6e2Xc.htm](equipment/consumable-01-3Wb0N7iqmTn6e2Xc.htm)|Ration Tonic|Ration énergisante|changé|
-|[consumable-01-5MKBwpE401uz4kNN.htm](equipment/consumable-01-5MKBwpE401uz4kNN.htm)|Quicksilver Mutagen (Lesser)|Mutagène de Vif-argent (inférieur)|changé|
+|[consumable-01-5MKBwpE401uz4kNN.htm](equipment/consumable-01-5MKBwpE401uz4kNN.htm)|Quicksilver Mutagen (Lesser)|Mutagène de Vif-argent (inférieur)|officielle|
 |[consumable-01-7Y2yOr4ltpP2tyuL.htm](equipment/consumable-01-7Y2yOr4ltpP2tyuL.htm)|Eagle Eye Elixir (Lesser)|Élixir d'œil du faucon (Inférieur)|changé|
 |[consumable-01-8eTGOQ9P69405jIO.htm](equipment/consumable-01-8eTGOQ9P69405jIO.htm)|Forensic Dye|Teinture forensique|changé|
 |[consumable-01-AFX1V0Go9DqPWBlN.htm](equipment/consumable-01-AFX1V0Go9DqPWBlN.htm)|Alarm Snare|Piège artisanal d'alarme|changé|
-|[consumable-01-azFpL1NLBJB7xuli.htm](equipment/consumable-01-azFpL1NLBJB7xuli.htm)|Dust Pods|Sachet de poussière|changé|
+|[consumable-01-azFpL1NLBJB7xuli.htm](equipment/consumable-01-azFpL1NLBJB7xuli.htm)|Dust Pods|Sachet de poussière|libre|
 |[consumable-01-bOPQDM54W8ZDoULY.htm](equipment/consumable-01-bOPQDM54W8ZDoULY.htm)|Serene Mutagen (Lesser)|Mutagène de sérénité (inférieur)|changé|
 |[consumable-01-clyXfh0aVXgij2Hb.htm](equipment/consumable-01-clyXfh0aVXgij2Hb.htm)|Wolf Fang|Croc de loup|changé|
 |[consumable-01-efFe4EK7ThUrH446.htm](equipment/consumable-01-efFe4EK7ThUrH446.htm)|Holy Water|Eau bénite|changé|
@@ -783,7 +782,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-04-eKpL2j1JA92wndO6.htm](equipment/consumable-04-eKpL2j1JA92wndO6.htm)|Zerk|Zerk|changé|
 |[consumable-04-FqbDpztscJfM4XMe.htm](equipment/consumable-04-FqbDpztscJfM4XMe.htm)|Shrinking Potion|Potion de rétrécissement (standard)|changé|
 |[consumable-04-GnXKCkgZQG0UmuHz.htm](equipment/consumable-04-GnXKCkgZQG0UmuHz.htm)|Dragon Turtle Scale|Écaille de tortue dragon|changé|
-|[consumable-04-GyO89RBVjAKFxsFm.htm](equipment/consumable-04-GyO89RBVjAKFxsFm.htm)|Mistform Elixir (Lesser)|Elixir de brumeforme (inférieur)|changé|
+|[consumable-04-GyO89RBVjAKFxsFm.htm](equipment/consumable-04-GyO89RBVjAKFxsFm.htm)|Mistform Elixir (Lesser)|Élixir de brumeforme (inférieur)|officielle|
 |[consumable-04-ilB279mxqXnlaSFj.htm](equipment/consumable-04-ilB279mxqXnlaSFj.htm)|Viper Arrow|Flèche vipère|changé|
 |[consumable-04-k6D64EAjcKMf8NZB.htm](equipment/consumable-04-k6D64EAjcKMf8NZB.htm)|Bloodseeker Beak|Trompe de cherchesang|changé|
 |[consumable-04-n5L7HE9H8jn8ftQy.htm](equipment/consumable-04-n5L7HE9H8jn8ftQy.htm)|Climbing Bolt|Carreau d'escalade|changé|
@@ -813,7 +812,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-06-4owFeOy4zxy8rv7W.htm](equipment/consumable-06-4owFeOy4zxy8rv7W.htm)|Feather Token (Tree)|Plume magique (arbre)|changé|
 |[consumable-06-8iGmSwTTUdj6gqN5.htm](equipment/consumable-06-8iGmSwTTUdj6gqN5.htm)|Dust of Appearance|Poudre d'apparition|changé|
 |[consumable-06-AJ1dC7EtTIfBey0M.htm](equipment/consumable-06-AJ1dC7EtTIfBey0M.htm)|Antidote (Moderate)|Antidote (modéré)|changé|
-|[consumable-06-Ax8XcBd0rRd1Z7hN.htm](equipment/consumable-06-Ax8XcBd0rRd1Z7hN.htm)|Mistform Elixir (Moderate)|Elixir de brumeforme (modéré)|changé|
+|[consumable-06-Ax8XcBd0rRd1Z7hN.htm](equipment/consumable-06-Ax8XcBd0rRd1Z7hN.htm)|Mistform Elixir (Moderate)|Élixir de brumeforme (modéré)|officielle|
 |[consumable-06-bDnk4TSzvD5BQmE5.htm](equipment/consumable-06-bDnk4TSzvD5BQmE5.htm)|Potion of Fire Resistance (Lesser)|Potion de résistance au feu (inférieure)|changé|
 |[consumable-06-biRbqKo2C97XLfQ0.htm](equipment/consumable-06-biRbqKo2C97XLfQ0.htm)|Antiplague (Moderate)|Antimaladie (modéré)|changé|
 |[consumable-06-cAyxcRSSnfscGyMa.htm](equipment/consumable-06-cAyxcRSSnfscGyMa.htm)|Potion of Electricity Resistance (Lesser)|Potion de résistance à l'électricité (inférieur)|changé|
@@ -874,7 +873,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-09-wDhqRxuXPQfyD0eX.htm](equipment/consumable-09-wDhqRxuXPQfyD0eX.htm)|Javelin of Lightning|Javeline de foudre|changé|
 |[consumable-09-WSZl9S0Nui7pTMa8.htm](equipment/consumable-09-WSZl9S0Nui7pTMa8.htm)|Spellstrike Ammunition (Type IV)|Munition de frappe magique (Type IV)|changé|
 |[consumable-09-XAuWVlZYGgCguzwz.htm](equipment/consumable-09-XAuWVlZYGgCguzwz.htm)|Feather Token (Whip)|Plume magique (fouet)|changé|
-|[consumable-10-04giYigfDL5geu5f.htm](equipment/consumable-10-04giYigfDL5geu5f.htm)|Mistform Elixir (Greater)|Elixir de brumeforme (supérieur)|changé|
+|[consumable-10-04giYigfDL5geu5f.htm](equipment/consumable-10-04giYigfDL5geu5f.htm)|Mistform Elixir (Greater)|Élixir de brumeforme (supérieur)|officielle|
 |[consumable-10-dBevXop3G2P3PGjp.htm](equipment/consumable-10-dBevXop3G2P3PGjp.htm)|Vanishing Coin|Pièce d'invisibilité|changé|
 |[consumable-10-ewzJzyJ4Vo9lZKvp.htm](equipment/consumable-10-ewzJzyJ4Vo9lZKvp.htm)|Iron Medallion|Médaillon de fer|changé|
 |[consumable-10-NRoA1HpA3ElPGBEQ.htm](equipment/consumable-10-NRoA1HpA3ElPGBEQ.htm)|Wolfsbane|Aconit|changé|
@@ -1574,6 +1573,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-giO4LwIKGzJZoaxa.htm](equipment/weapon-00-giO4LwIKGzJZoaxa.htm)|Heavy Crossbow|Arbalète lourde|changé|
 |[weapon-00-grmaV4GdoGD7sKbn.htm](equipment/weapon-00-grmaV4GdoGD7sKbn.htm)|Scimitar|Cimeterre|officielle|
 |[weapon-00-H74vYwHJ8XT4qOPI.htm](equipment/weapon-00-H74vYwHJ8XT4qOPI.htm)|Scythe|Faux|officielle|
+|[weapon-00-HbL9QGFE71GQQdco.htm](equipment/weapon-00-HbL9QGFE71GQQdco.htm)|Taw Launcher|Lanceur de billes|libre|
 |[weapon-00-hIgqLgH3YcLZBeoT.htm](equipment/weapon-00-hIgqLgH3YcLZBeoT.htm)|Shortbow|Arc court|changé|
 |[weapon-00-hMYdSFmMWzidzHih.htm](equipment/weapon-00-hMYdSFmMWzidzHih.htm)|Bo Staff|Bô|changé|
 |[weapon-00-I5DJUbAFGMwa6qCz.htm](equipment/weapon-00-I5DJUbAFGMwa6qCz.htm)|Scourge|Fléau|changé|
