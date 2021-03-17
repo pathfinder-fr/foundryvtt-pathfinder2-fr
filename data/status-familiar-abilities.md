@@ -2,11 +2,21 @@
 
  * **officielle**: 8
  * **libre**: 23
+ * **aucune**: 4
 
 
-Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[01-C16JgmeJJG249WXz.htm](familiar-abilities/01-C16JgmeJJG249WXz.htm)|Mask Freeze|
+|[04-43xB5UnexISlfRa5.htm](familiar-abilities/04-43xB5UnexISlfRa5.htm)|Purify Air|
+|[04-LUBS9csNNgRTui4p.htm](familiar-abilities/04-LUBS9csNNgRTui4p.htm)|Grasping Tendrils|
+|[04-SKIS1xexaOvrecdV.htm](familiar-abilities/04-SKIS1xexaOvrecdV.htm)|Verdant Belt|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

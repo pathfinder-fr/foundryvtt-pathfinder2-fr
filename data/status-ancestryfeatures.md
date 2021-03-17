@@ -1,12 +1,27 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 138
+ * **libre**: 135
  * **officielle**: 28
+ * **aucune**: 8
+ * **changé**: 3
 
 
-Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[feat-01-7wdeVadvchdM0aPK.htm](ancestryfeatures/feat-01-7wdeVadvchdM0aPK.htm)|Mistbreath Azarketi|
+|[feat-01-GlejQr3rBh3sn8sL.htm](ancestryfeatures/feat-01-GlejQr3rBh3sn8sL.htm)|River Azarketi|
+|[feat-01-HFHSh2RWuxa4GhhQ.htm](ancestryfeatures/feat-01-HFHSh2RWuxa4GhhQ.htm)|Benthic Azarketi|
+|[feat-01-kMgyOI4kBIEtFvhb.htm](ancestryfeatures/feat-01-kMgyOI4kBIEtFvhb.htm)|Swim|
+|[feat-01-mBH1L01kYmB8EL56.htm](ancestryfeatures/feat-01-mBH1L01kYmB8EL56.htm)|Empty Sky Kitsune|
+|[feat-01-qbWaybAX1LK7kUyY.htm](ancestryfeatures/feat-01-qbWaybAX1LK7kUyY.htm)|Thalassic Azarketi|
+|[feat-01-vt67b8uoNEbskcBv.htm](ancestryfeatures/feat-01-vt67b8uoNEbskcBv.htm)|Hydration|
+|[feat-01-zPhArF36ZVgLeVUU.htm](ancestryfeatures/feat-01-zPhArF36ZVgLeVUU.htm)|Ancient Scale Azarketi|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -44,7 +59,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-BFOsMnWfXL1oaWkY.htm](ancestryfeatures/feat-01-BFOsMnWfXL1oaWkY.htm)|Steelskin Hobgoblin|Hobgobelin Peaud'acier|libre|
 |[feat-01-BjuZKA7lzFSjKbif.htm](ancestryfeatures/feat-01-BjuZKA7lzFSjKbif.htm)|Polyglot Android|Androïde polyglotte|libre|
 |[feat-01-bLhIBwqdjTiVJ5qm.htm](ancestryfeatures/feat-01-bLhIBwqdjTiVJ5qm.htm)|Clawed Catfolk|Homme-félin griffu|libre|
-|[feat-01-CCwTBSNTw0caN1jd.htm](ancestryfeatures/feat-01-CCwTBSNTw0caN1jd.htm)|Mutated Flashwarp|Distordu mutant|libre|
+|[feat-01-CCwTBSNTw0caN1jd.htm](ancestryfeatures/feat-01-CCwTBSNTw0caN1jd.htm)|Mutated Fleshwarp|Distordu mutant|changé|
 |[feat-01-cCy8vsZENlwiAyZ6.htm](ancestryfeatures/feat-01-cCy8vsZENlwiAyZ6.htm)|Twilight Halfling|Halfelin du crépuscule|officielle|
 |[feat-01-CzOHITB2ihLGqMuJ.htm](ancestryfeatures/feat-01-CzOHITB2ihLGqMuJ.htm)|Runtboss Hobgoblin|Hobgobelin commandant avorton|libre|
 |[feat-01-CZx9HMmoOwcpkLY8.htm](ancestryfeatures/feat-01-CZx9HMmoOwcpkLY8.htm)|Root Leshy|Léchi racine|libre|
@@ -57,10 +72,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-dwKCwwtWetvPmJks.htm](ancestryfeatures/feat-01-dwKCwwtWetvPmJks.htm)|Rainfall Orc|Orque des moussons|libre|
 |[feat-01-EEvA4uj8h3zDiAfP.htm](ancestryfeatures/feat-01-EEvA4uj8h3zDiAfP.htm)|Treedweller Goblin|Gobelin arboricole|libre|
 |[feat-01-eFsD7W6hnK33jlDQ.htm](ancestryfeatures/feat-01-eFsD7W6hnK33jlDQ.htm)|Sewer Rat|Rat d'égoûts|libre|
-|[feat-01-egpiSWBrNBb1Fmig.htm](ancestryfeatures/feat-01-egpiSWBrNBb1Fmig.htm)|Draconic Exemplar|Modèle draconique|libre|
+|[feat-01-egpiSWBrNBb1Fmig.htm](ancestryfeatures/feat-01-egpiSWBrNBb1Fmig.htm)|Draconic Exemplar|Modèle draconique|changé|
 |[feat-01-EKY9v7SF1hVsUdbH.htm](ancestryfeatures/feat-01-EKY9v7SF1hVsUdbH.htm)|Changeling|Changelin|libre|
 |[feat-01-Eq42wZ5OTweJLnLU.htm](ancestryfeatures/feat-01-Eq42wZ5OTweJLnLU.htm)|Gutsy Halfling|Halfelin flegmatique|officielle|
-|[feat-01-etkuQkjkNLPLnjkA.htm](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Wellspring Gnome|Gnome source|libre|
+|[feat-01-etkuQkjkNLPLnjkA.htm](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Wellspring Gnome|Gnome source|changé|
 |[feat-01-evXJISqyhl3fHE9u.htm](ancestryfeatures/feat-01-evXJISqyhl3fHE9u.htm)|Vine Leshy|Léchi à liane|libre|
 |[feat-01-fROPRHGyUn4PgcER.htm](ancestryfeatures/feat-01-fROPRHGyUn4PgcER.htm)|Longsnout Rat|Rat à long museau|libre|
 |[feat-01-fWT7Mo2vFC10H4Wq.htm](ancestryfeatures/feat-01-fWT7Mo2vFC10H4Wq.htm)|Songbird Strix|Strix oiseauchanteur|libre|

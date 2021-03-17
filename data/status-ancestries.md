@@ -1,12 +1,20 @@
 # État de la traduction (ancestries)
 
- * **libre**: 13
+ * **libre**: 12
  * **officielle**: 9
+ * **changé**: 1
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[yFoojz6q3ZjvceFw.htm](ancestries/yFoojz6q3ZjvceFw.htm)|Azarketi|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -26,7 +34,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HWEgF7Gmoq55VhTL.htm](ancestries/HWEgF7Gmoq55VhTL.htm)|Lizardfolk|Hommes-lézard|officielle|
 |[IiG7DgeLWYrSNXuX.htm](ancestries/IiG7DgeLWYrSNXuX.htm)|Human|Humain|officielle|
 |[lSGWXjcbOa6O5fTx.htm](ancestries/lSGWXjcbOa6O5fTx.htm)|Orc|Orc|libre|
-|[mDtlRBBUWqUzYSHs.htm](ancestries/mDtlRBBUWqUzYSHs.htm)|_Empty Ancestry|_Ascendance vierge|libre|
+|[mDtlRBBUWqUzYSHs.htm](ancestries/mDtlRBBUWqUzYSHs.htm)|[Empty Ancestry]|_Ascendance vierge|changé|
 |[P6PcVnCkh4XMdefw.htm](ancestries/P6PcVnCkh4XMdefw.htm)|Ratfolk|Homme-rat|libre|
 |[PgKmsA2aKdbLU6O0.htm](ancestries/PgKmsA2aKdbLU6O0.htm)|Elf|Elfe|officielle|
 |[piNLXUrm9iaGqD2i.htm](ancestries/piNLXUrm9iaGqD2i.htm)|Hobgoblin|Hobgobelin|officielle|

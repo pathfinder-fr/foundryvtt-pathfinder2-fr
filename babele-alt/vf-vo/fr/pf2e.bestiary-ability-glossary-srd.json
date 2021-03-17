@@ -77,8 +77,8 @@
             "description": "<p> Quand il se trouve exposé à une lumière vive, le monstre est @Compendium[pf2e.conditionspf2e.XgEqL1kFApUbl5Z2]{aveuglé} jusqu’à la fin de son prochain tour. Après cette exposition initiale, la lumière n’aveugle plus le monstre tant qu’il n’a pas passé 1 h dans les ténèbres. Néanmoins, le monstre se trouve dans l’état @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{ébloui} tant qu’il reste dans une zone de lumière vive.</p>"
         },
         {
-            "id": "Inproved Grab",
-            "name": "Empoignade/agrippement amélioré (Inproved Grab)",
+            "id": "Improved Grab",
+            "name": "Empoignade/agrippement amélioré (Improved Grab)",
             "description": "<p>Le monstre peut utiliser @Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Empoignade/Agrippement}comme une action libre déclenchée par la réussite de son attaque initiale. Un monstre qui possède Empoignade/Agrippement améliorée doit toujours dépenser une action pour étendre la durée de la saisie des créatures qu’il a déjà empoignées.</p>"
         },
         {

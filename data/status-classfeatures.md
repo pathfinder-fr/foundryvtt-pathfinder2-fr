@@ -1,13 +1,37 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 76
- * **changé**: 222
- * **libre**: 52
+ * **officielle**: 73
+ * **changé**: 227
+ * **libre**: 50
+ * **aucune**: 18
 
 
-Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[cleric-01-aiwxBj5MjnafCMyn.htm](classfeatures/cleric-01-aiwxBj5MjnafCMyn.htm)|First Doctrine (Cloistered Cleric)|
+|[cleric-01-Qejo7FUWQtPTpgWH.htm](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)|First Doctrine|
+|[cleric-01-xxkszluN9icAiTO4.htm](classfeatures/cleric-01-xxkszluN9icAiTO4.htm)|First Doctrine (Warpriest)|
+|[cleric-03-D34mPo29r1J3DPaX.htm](classfeatures/cleric-03-D34mPo29r1J3DPaX.htm)|Second Doctrine (Warpriest)|
+|[cleric-03-OnfrrwCfDFCFw0tc.htm](classfeatures/cleric-03-OnfrrwCfDFCFw0tc.htm)|Second Doctrine|
+|[cleric-03-sa7BWfnyCswAvBVa.htm](classfeatures/cleric-03-sa7BWfnyCswAvBVa.htm)|Second Doctrine (Cloistered Cleric)|
+|[cleric-07-gxNxfN9OBlQ1icus.htm](classfeatures/cleric-07-gxNxfN9OBlQ1icus.htm)|Third Doctrine|
+|[cleric-07-s8WEmc4GGZSHSC7q.htm](classfeatures/cleric-07-s8WEmc4GGZSHSC7q.htm)|Third Doctrine (Cloistered Cleric)|
+|[cleric-07-Zp81uTBItG1xlH4O.htm](classfeatures/cleric-07-Zp81uTBItG1xlH4O.htm)|Third Doctrine (Warpriest)|
+|[cleric-11-o8nHreMyiLi64rZz.htm](classfeatures/cleric-11-o8nHreMyiLi64rZz.htm)|Fourth Doctrine|
+|[cleric-11-px3gVYp7zlEQIpcl.htm](classfeatures/cleric-11-px3gVYp7zlEQIpcl.htm)|Fourth Doctrine (Warpriest)|
+|[cleric-11-vxOf4LXZcqUG3P7a.htm](classfeatures/cleric-11-vxOf4LXZcqUG3P7a.htm)|Fourth Doctrine (Cloistered Cleric)|
+|[cleric-15-kmimy4VOaoEOgOiQ.htm](classfeatures/cleric-15-kmimy4VOaoEOgOiQ.htm)|Fifth Doctrine (Warpriest)|
+|[cleric-15-N1ugDqZlslxbp3Uy.htm](classfeatures/cleric-15-N1ugDqZlslxbp3Uy.htm)|Final Doctrine (Warpriest)|
+|[cleric-15-n9W8MjjRgPpUTvWf.htm](classfeatures/cleric-15-n9W8MjjRgPpUTvWf.htm)|Fifth Doctrine (Cloistered Cleric)|
+|[cleric-15-Zb7DuGbFoLEp0H1K.htm](classfeatures/cleric-15-Zb7DuGbFoLEp0H1K.htm)|Fifth Doctrine|
+|[cleric-19-DgGefatQ4v6xT6f9.htm](classfeatures/cleric-19-DgGefatQ4v6xT6f9.htm)|Final Doctrine (Cloistered Cleric)|
+|[cleric-19-urBGOPrUwBmkixAo.htm](classfeatures/cleric-19-urBGOPrUwBmkixAo.htm)|Final Doctrine|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -99,10 +123,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-03-TUOeATt52P43r5W0.htm](classfeatures/bard-03-TUOeATt52P43r5W0.htm)|Lightning Reflexes (Level 3)|Réflexes fulgurants (Niveau 3)|officielle|
 |[bard-11-4lp8oG9A3zuqhPBS.htm](classfeatures/bard-11-4lp8oG9A3zuqhPBS.htm)|Bard Weapon Expertise|expertise avec les armes du barde|changé|
 |[bard-19-NjsOpWbbzUY2Hpk3.htm](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum Opus|Magnum opus|officielle|
-|[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator|Profanateur [Neutre mauvais]|libre|
+|[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator|Profanateur [Neutre mauvais]|changé|
 |[champion-01-ehL7mnkqxN5wIkgu.htm](classfeatures/champion-01-ehL7mnkqxN5wIkgu.htm)|Deity and Cause|Divinité et cause|changé|
 |[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin|Antipaladin [Chaotique Mauvais]|changé|
-|[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator|Libérateur [Chaotique Bon]|officielle|
+|[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator|Libérateur [Chaotique Bon]|changé|
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|officielle|
 |[champion-01-fykh5pE99O3I2sOI.htm](classfeatures/champion-01-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|changé|
 |[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant|Tyran [Loyal mauvais]|changé|
@@ -140,7 +164,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-01-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-01-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|changé|
 |[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal Order|Ordre animal|officielle|
 |[druid-01-RiAGlnnp4S21BAG3.htm](classfeatures/druid-01-RiAGlnnp4S21BAG3.htm)|Druidic Language|Le druidique|changé|
-|[druid-01-u4nlOzPj2WHkIj9l.htm](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Leaf Order|Ordre de la feuille|officielle|
+|[druid-01-u4nlOzPj2WHkIj9l.htm](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Leaf Order|Ordre de la feuille|changé|
 |[druid-01-v0EjtiwdeMj8ykI0.htm](classfeatures/druid-01-v0EjtiwdeMj8ykI0.htm)|Wild Order|Ordre féroce|officielle|
 |[druid-03-D8CSi8c9XiRpVc5M.htm](classfeatures/druid-03-D8CSi8c9XiRpVc5M.htm)|Alertness (Level 3)|Vigilance (Niveau 3)|officielle|
 |[druid-11-Ra32tlqBxHzT6fzN.htm](classfeatures/druid-11-Ra32tlqBxHzT6fzN.htm)|Druid Weapon Expertise|Expertise avec les armes de druide|changé|
@@ -294,7 +318,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-01-beW1OqibVQ3fBvRw.htm](classfeatures/swashbuckler-01-beW1OqibVQ3fBvRw.htm)|Swashbuckler's Style|Style du bretteur|changé|
 |[swashbuckler-01-Jgid6Ja6Y879COlN.htm](classfeatures/swashbuckler-01-Jgid6Ja6Y879COlN.htm)|Fencer Style|Style : escrimeur|libre|
 |[swashbuckler-01-KBhwFjdptrKyN5EM.htm](classfeatures/swashbuckler-01-KBhwFjdptrKyN5EM.htm)|Braggart Style|Style : fanfaron|changé|
-|[swashbuckler-01-LzYi0OuOoypNb6jd.htm](classfeatures/swashbuckler-01-LzYi0OuOoypNb6jd.htm)|Panache|Panache|libre|
+|[swashbuckler-01-LzYi0OuOoypNb6jd.htm](classfeatures/swashbuckler-01-LzYi0OuOoypNb6jd.htm)|Panache|Panache|changé|
 |[swashbuckler-01-pyo0vmxUFIFX2GNl.htm](classfeatures/swashbuckler-01-pyo0vmxUFIFX2GNl.htm)|Confident Finisher|Coup final assuré|changé|
 |[swashbuckler-01-RQH6vigvhmiYKKjg.htm](classfeatures/swashbuckler-01-RQH6vigvhmiYKKjg.htm)|Precise Strike|Frappe précise|libre|
 |[swashbuckler-03-8BOFeRE7ZfJ02N0O.htm](classfeatures/swashbuckler-03-8BOFeRE7ZfJ02N0O.htm)|Vivacious Speed|Vitesse exubérante|changé|
@@ -360,5 +384,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wizard-13-gU7epgcPSm0TD1UK.htm](classfeatures/wizard-13-gU7epgcPSm0TD1UK.htm)|Defensive Robes (Level 13)|Robes défensives (Niveau 13)|officielle|
 |[wizard-15-l1InYvhnQSz6Ucxc.htm](classfeatures/wizard-15-l1InYvhnQSz6Ucxc.htm)|Master Spellcaster (Level 15)|Incantateur maître (Niveau 15)|officielle|
 |[wizard-17-9WjZSliQZJlyGvUi.htm](classfeatures/wizard-17-9WjZSliQZJlyGvUi.htm)|Resolve (Level 17)|Résolution (Niveau 17)|libre|
-|[wizard-19-Hfaa7TuLn3nE8lr3.htm](classfeatures/wizard-19-Hfaa7TuLn3nE8lr3.htm)|Legendary Spellcaster (Level 19)|Incantateur légendaire (Niveau 19)|officielle|
+|[wizard-19-Hfaa7TuLn3nE8lr3.htm](classfeatures/wizard-19-Hfaa7TuLn3nE8lr3.htm)|Legendary Spellcaster (Level 19)|Incantateur légendaire (Niveau 19)|changé|
 |[wizard-19-ZjwJHmjPrSs6VDez.htm](classfeatures/wizard-19-ZjwJHmjPrSs6VDez.htm)|Archwizard's Spellcraft|Art magique de l'archimage|changé|

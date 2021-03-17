@@ -1,13 +1,22 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
- * **officielle**: 23
- * **changé**: 18
+ * **aucune**: 3
+ * **officielle**: 15
+ * **changé**: 26
  * **libre**: 1
 
 
-Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[0B39GdScyZMPWalX.htm](bestiary-ability-glossary-srd/0B39GdScyZMPWalX.htm)|Power Attack|
+|[4Ho2xMPEC05aSxzr.htm](bestiary-ability-glossary-srd/4Ho2xMPEC05aSxzr.htm)|Greater Darkvision|
+|[Hrevxi3glTGgxzY6.htm](bestiary-ability-glossary-srd/Hrevxi3glTGgxzY6.htm)|Goblin Scuttle|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -18,18 +27,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6l7e7CHQLESlI57U.htm](bestiary-ability-glossary-srd/6l7e7CHQLESlI57U.htm)|Improved Push|Bousculade améliorée|officielle|
 |[9qV49KjZujZnSp6w.htm](bestiary-ability-glossary-srd/9qV49KjZujZnSp6w.htm)|All-Around Vision|Vision à 360°|officielle|
 |[a0tx6exmB9v9CUsj.htm](bestiary-ability-glossary-srd/a0tx6exmB9v9CUsj.htm)|Throw Rock|Projection de rochers|officielle|
-|[AWvNPE4U0kEJSL1T.htm](bestiary-ability-glossary-srd/AWvNPE4U0kEJSL1T.htm)|Sneak Attack|Attaque sournoise|officielle|
+|[AWvNPE4U0kEJSL1T.htm](bestiary-ability-glossary-srd/AWvNPE4U0kEJSL1T.htm)|Sneak Attack|Attaque sournoise|changé|
 |[baA0nSMhQyFyJIia.htm](bestiary-ability-glossary-srd/baA0nSMhQyFyJIia.htm)|Swarm Mind|Esprit de la nuée|officielle|
-|[BCLvAx4Pz4MLa2pu.htm](bestiary-ability-glossary-srd/BCLvAx4Pz4MLa2pu.htm)|Knockdown|Renversement|officielle|
-|[eQM5hQ1W3d1uen97.htm](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)|Change Shape|Changement de forme|officielle|
-|[etMnv73EIdEZrYYu.htm](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Frightful Presence|Présence terrifiante|officielle|
-|[fFu2sZz4KB01fVRc.htm](bestiary-ability-glossary-srd/fFu2sZz4KB01fVRc.htm)|Low-Light Vision|Vision nocturne|officielle|
+|[BCLvAx4Pz4MLa2pu.htm](bestiary-ability-glossary-srd/BCLvAx4Pz4MLa2pu.htm)|Knockdown|Renversement|changé|
+|[eQM5hQ1W3d1uen97.htm](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)|Change Shape|Changement de forme|changé|
+|[etMnv73EIdEZrYYu.htm](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Frightful Presence|Présence terrifiante|changé|
+|[fFu2sZz4KB01fVRc.htm](bestiary-ability-glossary-srd/fFu2sZz4KB01fVRc.htm)|Low-Light Vision|Vision nocturne|changé|
 |[fJSNOw4zHGbIm4bZ.htm](bestiary-ability-glossary-srd/fJSNOw4zHGbIm4bZ.htm)|Fast Healing|Guérison accélérée|officielle|
-|[g26YiEIfSHCpLocV.htm](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constrict|Constriction|officielle|
-|[HBrBrUzjfvj2gDXB.htm](bestiary-ability-glossary-srd/HBrBrUzjfvj2gDXB.htm)|Aquatic Ambush|Embuscade aquatique|officielle|
+|[g26YiEIfSHCpLocV.htm](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constrict|Constriction|changé|
+|[HBrBrUzjfvj2gDXB.htm](bestiary-ability-glossary-srd/HBrBrUzjfvj2gDXB.htm)|Aquatic Ambush|Embuscade aquatique|changé|
 |[hFtNbo1LKYCoDy2O.htm](bestiary-ability-glossary-srd/hFtNbo1LKYCoDy2O.htm)|Attack of Opportunity|Attaque d'opportunité|officielle|
 |[I0HYG0ctCLP5JRsW.htm](bestiary-ability-glossary-srd/I0HYG0ctCLP5JRsW.htm)|Light Blindness|Aveuglé par la lumière|changé|
-|[i18TlebMzwONyPhI.htm](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Inproved Grab|Empoignade/agrippement amélioré|changé|
+|[i18TlebMzwONyPhI.htm](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Improved Grab|Empoignade/agrippement amélioré|changé|
 |[IQtb58p4EaeUzTN1.htm](bestiary-ability-glossary-srd/IQtb58p4EaeUzTN1.htm)|Retributive Strike|Frappe punitive|changé|
 |[j2wsK6IsW5yMW1jW.htm](bestiary-ability-glossary-srd/j2wsK6IsW5yMW1jW.htm)|Tremorsense|Perception des vibrations|officielle|
 |[kakyXBG5WA8c6Zfd.htm](bestiary-ability-glossary-srd/kakyXBG5WA8c6Zfd.htm)|Constant Spells|Sorts constants|officielle|
@@ -41,7 +50,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[N1kstYbHScxgUQtN.htm](bestiary-ability-glossary-srd/N1kstYbHScxgUQtN.htm)|Ferocity|Férocité|changé|
 |[nZMQh4AaBr291TUf.htm](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Buck|Désarçonner|changé|
 |[OmV6E3aELvq9CkK1.htm](bestiary-ability-glossary-srd/OmV6E3aELvq9CkK1.htm)|Greater Constrict|Constriction supérieure|changé|
-|[qCCLZhnp2HhP3Ex6.htm](bestiary-ability-glossary-srd/qCCLZhnp2HhP3Ex6.htm)|Darkvision|Vision dans le noir|officielle|
+|[qCCLZhnp2HhP3Ex6.htm](bestiary-ability-glossary-srd/qCCLZhnp2HhP3Ex6.htm)|Darkvision|Vision dans le noir|changé|
 |[rqfnQ5VHT5hxm25r.htm](bestiary-ability-glossary-srd/rqfnQ5VHT5hxm25r.htm)|Scent|Odorat|officielle|
 |[sebk9XseMCRkDqRg.htm](bestiary-ability-glossary-srd/sebk9XseMCRkDqRg.htm)|Lifesense|Sens de la vie|officielle|
 |[t6cx9FOODmeZQNYl.htm](bestiary-ability-glossary-srd/t6cx9FOODmeZQNYl.htm)|Push|Bousculade|changé|

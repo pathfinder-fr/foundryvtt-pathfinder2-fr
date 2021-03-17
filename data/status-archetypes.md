@@ -1,12 +1,12 @@
 # État de la traduction (archetypes)
 
- * **aucune**: 5
+ * **aucune**: 6
  * **libre**: 8
  * **changé**: 61
  * **officielle**: 2
 
 
-Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -17,6 +17,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2eAiIynDWTMKTGDU.htm](archetypes/2eAiIynDWTMKTGDU.htm)|Scrollmaster|
 |[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|
 |[gw4J1pXYED71TPWx.htm](archetypes/gw4J1pXYED71TPWx.htm)|Bellflower Tiller|
+|[IdhIKSuKueYt6RsQ.htm](archetypes/IdhIKSuKueYt6RsQ.htm)|Eldritch Researcher|
 |[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|
 
 ## Liste des traductions complétés

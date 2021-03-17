@@ -1,17 +1,21 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 122
- * **aucune**: 210
+ * **libre**: 121
+ * **aucune**: 234
  * **changé**: 3
 
 
-Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[4x9trDSABU5dqq9w.htm](pathfinder-bestiary-2/4x9trDSABU5dqq9w.htm)|Blue Dracolisk|
+|[5l3surWoPHTgPoWY.htm](pathfinder-bestiary-2/5l3surWoPHTgPoWY.htm)|Petitioner (Abaddon)|
+|[6FltuGxvUoNH9b17.htm](pathfinder-bestiary-2/6FltuGxvUoNH9b17.htm)|Petitioner (Plane of Air)|
+|[6ZLs4H4gjVyb3yV7.htm](pathfinder-bestiary-2/6ZLs4H4gjVyb3yV7.htm)|Petitioner (Elysium)|
 |[a8Ih1RIr4UUV4QCL.htm](pathfinder-bestiary-2/a8Ih1RIr4UUV4QCL.htm)|Fire Yai|
 |[aATQbGnSA0KOWG53.htm](pathfinder-bestiary-2/aATQbGnSA0KOWG53.htm)|Anancus|
 |[aFRGgQWWCDIiBlUl.htm](pathfinder-bestiary-2/aFRGgQWWCDIiBlUl.htm)|D'ziriak|
@@ -20,6 +24,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[b0jMGY65XVyuKUjf.htm](pathfinder-bestiary-2/b0jMGY65XVyuKUjf.htm)|Blink Dog|
 |[b5b6J3TqbcXnmKyy.htm](pathfinder-bestiary-2/b5b6J3TqbcXnmKyy.htm)|Giant Dragonfly|
 |[bAaVfrdNLfFh7iHv.htm](pathfinder-bestiary-2/bAaVfrdNLfFh7iHv.htm)|Basidirond|
+|[BE5GH4dwZ76qV7rH.htm](pathfinder-bestiary-2/BE5GH4dwZ76qV7rH.htm)|Petitioner (Maelstrom)|
+|[BNizhfieKEditLGb.htm](pathfinder-bestiary-2/BNizhfieKEditLGb.htm)|Petitioner (Plane of Fire)|
 |[bpwaqRoO1wYo15T5.htm](pathfinder-bestiary-2/bpwaqRoO1wYo15T5.htm)|Nuglub|
 |[c4uQKZaRWv9n9IHo.htm](pathfinder-bestiary-2/c4uQKZaRWv9n9IHo.htm)|Solar|
 |[cd2IaNGpdmHHZnrN.htm](pathfinder-bestiary-2/cd2IaNGpdmHHZnrN.htm)|Xill|
@@ -30,6 +36,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cPX0NmB242FqSRxa.htm](pathfinder-bestiary-2/cPX0NmB242FqSRxa.htm)|Grendel|
 |[cu6Bl5pFByrpinxd.htm](pathfinder-bestiary-2/cu6Bl5pFByrpinxd.htm)|Planetar|
 |[dBUiB3Hyh0hN8Exc.htm](pathfinder-bestiary-2/dBUiB3Hyh0hN8Exc.htm)|Wooly Rhinoceros|
+|[DM5js1XSiuiPAf3t.htm](pathfinder-bestiary-2/DM5js1XSiuiPAf3t.htm)|White Dracolisk|
 |[drtCZDDoESPSUqH7.htm](pathfinder-bestiary-2/drtCZDDoESPSUqH7.htm)|Peluda|
 |[duaHanGHvRGhUtB5.htm](pathfinder-bestiary-2/duaHanGHvRGhUtB5.htm)|Viper Vine|
 |[dvZM7hGNDu8olV7A.htm](pathfinder-bestiary-2/dvZM7hGNDu8olV7A.htm)|Brood Leech Swarm|
@@ -38,7 +45,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[e0YvEWJ5zpU946G4.htm](pathfinder-bestiary-2/e0YvEWJ5zpU946G4.htm)|Cave Scorpion|
 |[e5yE4RkwLQojRYHm.htm](pathfinder-bestiary-2/e5yE4RkwLQojRYHm.htm)|Urdefhan Warrior|
 |[eD1kydftMIp4CL2K.htm](pathfinder-bestiary-2/eD1kydftMIp4CL2K.htm)|Sard|
+|[EKbnknpDZEMkZSF4.htm](pathfinder-bestiary-2/EKbnknpDZEMkZSF4.htm)|Petitioner (Positive Energy Plane)|
+|[elb0mL1cfknHxskr.htm](pathfinder-bestiary-2/elb0mL1cfknHxskr.htm)|Petitioner (Nirvana)|
 |[ePUTKSr45H7S5dQs.htm](pathfinder-bestiary-2/ePUTKSr45H7S5dQs.htm)|Veranallia|
+|[fizcFuAe2WPauA2U.htm](pathfinder-bestiary-2/fizcFuAe2WPauA2U.htm)|Petitioner (Boneyard)|
 |[fpBJiCOoHDlefgpO.htm](pathfinder-bestiary-2/fpBJiCOoHDlefgpO.htm)|Thunderbird|
 |[fRLrlY25qXkOMBNG.htm](pathfinder-bestiary-2/fRLrlY25qXkOMBNG.htm)|Nuckelavee|
 |[fv91xoQJlogVbruW.htm](pathfinder-bestiary-2/fv91xoQJlogVbruW.htm)|Aapoph Serpentfolk|
@@ -47,6 +57,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[g1htYgARxNKxc7MV.htm](pathfinder-bestiary-2/g1htYgARxNKxc7MV.htm)|Giant Slug|
 |[g41X4b3q2iDMLRt3.htm](pathfinder-bestiary-2/g41X4b3q2iDMLRt3.htm)|Ravener|
 |[gOjrie9YndQPomU8.htm](pathfinder-bestiary-2/gOjrie9YndQPomU8.htm)|Sand Sentry|
+|[GvjCh1Q6NEXnBHcD.htm](pathfinder-bestiary-2/GvjCh1Q6NEXnBHcD.htm)|Green Dracolisk|
 |[gVNKimslRe1k2hdV.htm](pathfinder-bestiary-2/gVNKimslRe1k2hdV.htm)|Vaspercham|
 |[h4SZ3U9at7aT0ASv.htm](pathfinder-bestiary-2/h4SZ3U9at7aT0ASv.htm)|Spirit Naga|
 |[hFbfXmjMkGEzMkQ1.htm](pathfinder-bestiary-2/hFbfXmjMkGEzMkQ1.htm)|Raven|
@@ -66,14 +77,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[jQ7zBVDCEhuMOOTl.htm](pathfinder-bestiary-2/jQ7zBVDCEhuMOOTl.htm)|Nabasu|
 |[kapPWNOxXOLcd4VF.htm](pathfinder-bestiary-2/kapPWNOxXOLcd4VF.htm)|Amoeba Swarm|
 |[kElZCC1zMQVftoi9.htm](pathfinder-bestiary-2/kElZCC1zMQVftoi9.htm)|Isqulug|
+|[kIzBE6VaHQbJ3kdx.htm](pathfinder-bestiary-2/kIzBE6VaHQbJ3kdx.htm)|Red Dracolisk|
 |[kKH3uMHbVZQmEtxj.htm](pathfinder-bestiary-2/kKH3uMHbVZQmEtxj.htm)|Jotund Troll|
 |[l3kFjH4n9Shet6bz.htm](pathfinder-bestiary-2/l3kFjH4n9Shet6bz.htm)|Fen Mosquito Swarm|
 |[l4UOJbphMT7jZ0xB.htm](pathfinder-bestiary-2/l4UOJbphMT7jZ0xB.htm)|Giant Crab|
 |[le7VaOJyQQnl37Wa.htm](pathfinder-bestiary-2/le7VaOJyQQnl37Wa.htm)|Giant Tick|
 |[luPebMfNmwtOZcWR.htm](pathfinder-bestiary-2/luPebMfNmwtOZcWR.htm)|Thrasfyr|
 |[lUYlClIPITmhzepe.htm](pathfinder-bestiary-2/lUYlClIPITmhzepe.htm)|Two-Headed Troll|
+|[lvvLNyZpbb4Ydz3U.htm](pathfinder-bestiary-2/lvvLNyZpbb4Ydz3U.htm)|Petitioner (Axis)|
 |[m40M5R7wcm5DSVK2.htm](pathfinder-bestiary-2/m40M5R7wcm5DSVK2.htm)|Dust Mephit|
 |[mpBOeFrbtx1wMrNn.htm](pathfinder-bestiary-2/mpBOeFrbtx1wMrNn.htm)|Frost Worm|
+|[MYE3jqYh3CrdWolX.htm](pathfinder-bestiary-2/MYE3jqYh3CrdWolX.htm)|Petitioner (Heaven)|
 |[mZLOTDHhChme6mfh.htm](pathfinder-bestiary-2/mZLOTDHhChme6mfh.htm)|Young Crystal Dragon|
 |[mZxVXRI1Zh3HUXxn.htm](pathfinder-bestiary-2/mZxVXRI1Zh3HUXxn.htm)|Living Thunderclap|
 |[n1jTYFRCaqF1nQrf.htm](pathfinder-bestiary-2/n1jTYFRCaqF1nQrf.htm)|Titan Centipede|
@@ -90,8 +104,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oKogG9AwUZ9iBsm3.htm](pathfinder-bestiary-2/oKogG9AwUZ9iBsm3.htm)|Derghodaemon|
 |[oMZaSpBmWddKZ1KN.htm](pathfinder-bestiary-2/oMZaSpBmWddKZ1KN.htm)|Ancient Brine Dragon|
 |[oSQ3Q9tzTohksAtf.htm](pathfinder-bestiary-2/oSQ3Q9tzTohksAtf.htm)|Crawling Hand|
-|[ouGM2y2aO0yisPAs.htm](pathfinder-bestiary-2/ouGM2y2aO0yisPAs.htm)|Petitioner|
 |[OuimMwM3yFRy5tRK.htm](pathfinder-bestiary-2/OuimMwM3yFRy5tRK.htm)|Evangelist|
+|[p5ZGpvIfEiBgMG2f.htm](pathfinder-bestiary-2/p5ZGpvIfEiBgMG2f.htm)|Petitioner (Ethereal Plane)|
 |[PAGytLw1QnAiNYC2.htm](pathfinder-bestiary-2/PAGytLw1QnAiNYC2.htm)|Coil Spy|
 |[PKAs8bMBMpnegmwq.htm](pathfinder-bestiary-2/PKAs8bMBMpnegmwq.htm)|Badger|
 |[prNJZOU8tdRIZITT.htm](pathfinder-bestiary-2/prNJZOU8tdRIZITT.htm)|Doprillu|
@@ -102,6 +116,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[QHNXT5bZDqKRzwEF.htm](pathfinder-bestiary-2/QHNXT5bZDqKRzwEF.htm)|Spear Frog|
 |[qjAtPDIi7OyUGsNy.htm](pathfinder-bestiary-2/qjAtPDIi7OyUGsNy.htm)|Bythos|
 |[QLY246Z6hP41LnCF.htm](pathfinder-bestiary-2/QLY246Z6hP41LnCF.htm)|Belker|
+|[QpTRWkbZ6k6xP4tR.htm](pathfinder-bestiary-2/QpTRWkbZ6k6xP4tR.htm)|Petitioner (Plane of Water)|
 |[QR3AC4mkpfz6KPSh.htm](pathfinder-bestiary-2/QR3AC4mkpfz6KPSh.htm)|Cythnigot|
 |[R0dyG06kbNYiCqRW.htm](pathfinder-bestiary-2/R0dyG06kbNYiCqRW.htm)|Water Yai|
 |[R0YrD0izubtQYbTU.htm](pathfinder-bestiary-2/R0YrD0izubtQYbTU.htm)|Leprechaun|
@@ -114,6 +129,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rpq2rHlZjy5g31xo.htm](pathfinder-bestiary-2/rpq2rHlZjy5g31xo.htm)|Grippli Scout|
 |[RqABskvexmp5sT7X.htm](pathfinder-bestiary-2/RqABskvexmp5sT7X.htm)|Giant Cockroach|
 |[RqcIiiNNEkF28ui2.htm](pathfinder-bestiary-2/RqcIiiNNEkF28ui2.htm)|Orca|
+|[Rt3lbxJ4jcwGnpF3.htm](pathfinder-bestiary-2/Rt3lbxJ4jcwGnpF3.htm)|Petitioner (Plane of Earth)|
 |[RUdP7qWg6pnKrPnh.htm](pathfinder-bestiary-2/RUdP7qWg6pnKrPnh.htm)|Striding Fire|
 |[rZdaxjM7CFVAEq2e.htm](pathfinder-bestiary-2/rZdaxjM7CFVAEq2e.htm)|Pachycephalosaurus|
 |[s0wn50S5mGxagSAa.htm](pathfinder-bestiary-2/s0wn50S5mGxagSAa.htm)|Zyss Serpentfolk|
@@ -124,6 +140,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[SfPoGbcaQqPlgJ85.htm](pathfinder-bestiary-2/SfPoGbcaQqPlgJ85.htm)|Baobhan Sith|
 |[SG8fOxo4SS7bXpav.htm](pathfinder-bestiary-2/SG8fOxo4SS7bXpav.htm)|Bog Strider|
 |[sGI1gh7EPVSRadhY.htm](pathfinder-bestiary-2/sGI1gh7EPVSRadhY.htm)|Granite Glyptodont|
+|[sHKhlvs40YywkYw4.htm](pathfinder-bestiary-2/sHKhlvs40YywkYw4.htm)|Petitioner (Dimension of Dreams)|
 |[SKooDsYDMEloMG16.htm](pathfinder-bestiary-2/SKooDsYDMEloMG16.htm)|Giant Jellyfish|
 |[sMNqIHHxcVBXG08h.htm](pathfinder-bestiary-2/sMNqIHHxcVBXG08h.htm)|Cairn Wight|
 |[SpnJQIHLeiJOjEWR.htm](pathfinder-bestiary-2/SpnJQIHLeiJOjEWR.htm)|Shadow Giant|
@@ -134,6 +151,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[T3low0wQNMO0SEtr.htm](pathfinder-bestiary-2/T3low0wQNMO0SEtr.htm)|Leucrotta|
 |[t8XwrLnvMnz3Z1al.htm](pathfinder-bestiary-2/t8XwrLnvMnz3Z1al.htm)|Catrina|
 |[T9vzmpvpRL5xjrhd.htm](pathfinder-bestiary-2/T9vzmpvpRL5xjrhd.htm)|Giant Badger|
+|[TCFurVn1aWhukqxb.htm](pathfinder-bestiary-2/TCFurVn1aWhukqxb.htm)|Petitioner (Dead Vault)|
 |[tCJEjNDUxyV1GzE3.htm](pathfinder-bestiary-2/tCJEjNDUxyV1GzE3.htm)|Hamatula|
 |[tdCyjq57rgfPezjT.htm](pathfinder-bestiary-2/tdCyjq57rgfPezjT.htm)|Carbuncle|
 |[tIDbOvltrFsgnwgf.htm](pathfinder-bestiary-2/tIDbOvltrFsgnwgf.htm)|Sea Drake|
@@ -172,6 +190,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wBGUIPJMm9Van9GQ.htm](pathfinder-bestiary-2/wBGUIPJMm9Van9GQ.htm)|Ice Yai|
 |[wByXwxI5r7YRlkAK.htm](pathfinder-bestiary-2/wByXwxI5r7YRlkAK.htm)|Shoggti|
 |[wCsfRovcZMZxSdGm.htm](pathfinder-bestiary-2/wCsfRovcZMZxSdGm.htm)|Zebub|
+|[wE9kb53ZHifUfdD8.htm](pathfinder-bestiary-2/wE9kb53ZHifUfdD8.htm)|Petitioner (Abyss)|
+|[wjcBMB7OvCHrnS39.htm](pathfinder-bestiary-2/wjcBMB7OvCHrnS39.htm)|Petitioner (Material Plane)|
 |[WjZCNuHNKfeeHCQS.htm](pathfinder-bestiary-2/WjZCNuHNKfeeHCQS.htm)|Worm That Walks Cultist|
 |[WKsogmP2X2F68Zdm.htm](pathfinder-bestiary-2/WKsogmP2X2F68Zdm.htm)|Devourer|
 |[WMiPblOVq5w2Fa1x.htm](pathfinder-bestiary-2/WMiPblOVq5w2Fa1x.htm)|Aolaz|
@@ -209,6 +229,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[YUZF9WhDmfzma3dE.htm](pathfinder-bestiary-2/YUZF9WhDmfzma3dE.htm)|Nalfeshnee|
 |[Yv0005Vym1peVKHq.htm](pathfinder-bestiary-2/Yv0005Vym1peVKHq.htm)|Ravener Husk|
 |[yvmX4J21XE1wqDar.htm](pathfinder-bestiary-2/yvmX4J21XE1wqDar.htm)|Esobok|
+|[yXP9vS35tZ5iAUix.htm](pathfinder-bestiary-2/yXP9vS35tZ5iAUix.htm)|Petitioner (Astral Plane)|
+|[YZeJRw4hvKyBrNFx.htm](pathfinder-bestiary-2/YZeJRw4hvKyBrNFx.htm)|Petitioner (Hell)|
 |[Z2v611Np3J1MBkpv.htm](pathfinder-bestiary-2/Z2v611Np3J1MBkpv.htm)|Dream Spider|
 |[z39LYFGYmOsoGVSh.htm](pathfinder-bestiary-2/z39LYFGYmOsoGVSh.htm)|Hippocampus|
 |[Z3J7uGaLmlFRfwPk.htm](pathfinder-bestiary-2/Z3J7uGaLmlFRfwPk.htm)|Magma Scorpion|
@@ -222,6 +244,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ZKTz1ABoPTtlgYIy.htm](pathfinder-bestiary-2/ZKTz1ABoPTtlgYIy.htm)|Hound Archon|
 |[ZrDGTNxlISyxNAKX.htm](pathfinder-bestiary-2/ZrDGTNxlISyxNAKX.htm)|Bralani|
 |[zXZrUTQSI0WxAsF5.htm](pathfinder-bestiary-2/zXZrUTQSI0WxAsF5.htm)|Verdurous Ooze|
+|[ZyZMJ19Ea0cfydK4.htm](pathfinder-bestiary-2/ZyZMJ19Ea0cfydK4.htm)|Petitioner (Shadow PLane)|
+|[zzu3q9m4kJzgnNfl.htm](pathfinder-bestiary-2/zzu3q9m4kJzgnNfl.htm)|Black Dracolisk|
 
 ## Liste des traductions complétés
 
@@ -262,7 +286,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6YOyTHRGqkYl2Prb.htm](pathfinder-bestiary-2/6YOyTHRGqkYl2Prb.htm)|Wolverine|Glouton|libre|
 |[73qJxJK8ES4Tbp2k.htm](pathfinder-bestiary-2/73qJxJK8ES4Tbp2k.htm)|Lurker In Light|Rôdeur à la lumière|libre|
 |[7EppoGdIcmd0AV9B.htm](pathfinder-bestiary-2/7EppoGdIcmd0AV9B.htm)|Onidoshi|Onidoshi|libre|
-|[7kAbAOHJBq28FOXJ.htm](pathfinder-bestiary-2/7kAbAOHJBq28FOXJ.htm)|Dracolisk|Dracolic|libre|
 |[7lL7APeHQgkVxU1B.htm](pathfinder-bestiary-2/7lL7APeHQgkVxU1B.htm)|Fire Jellyfish Swarm|Nuée de Méduses de Feu|libre|
 |[7oiIDnLBDpC2r2AA.htm](pathfinder-bestiary-2/7oiIDnLBDpC2r2AA.htm)|Sacristan|Sacristain|libre|
 |[7SVhYtnBn967Hy8O.htm](pathfinder-bestiary-2/7SVhYtnBn967Hy8O.htm)|Bone Prophet|Prophète des Os|libre|

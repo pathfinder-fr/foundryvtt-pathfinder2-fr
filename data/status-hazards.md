@@ -1,11 +1,11 @@
 # État de la traduction (hazards)
 
- * **aucune**: 2
+ * **aucune**: 3
  * **officielle**: 30
  * **libre**: 16
 
 
-Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -13,6 +13,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[0dg9YrjsDi6Ap3jF.htm](hazards/0dg9YrjsDi6Ap3jF.htm)|Web Lurker Deadfall|
+|[1egK7HFAFdHxMS9N.htm](hazards/1egK7HFAFdHxMS9N.htm)|Sportlebore|
 |[Or0jjL8xS3GyiMq0.htm](hazards/Or0jjL8xS3GyiMq0.htm)|Web Lurker Noose|
 
 ## Liste des traductions complétés

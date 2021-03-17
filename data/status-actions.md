@@ -1,13 +1,20 @@
 # État de la traduction (actions)
 
- * **officielle**: 108
- * **libre**: 47
- * **changé**: 2
+ * **officielle**: 83
+ * **libre**: 46
+ * **changé**: 28
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[xpsD4DsYHKXCB4ac.htm](actions/xpsD4DsYHKXCB4ac.htm)|Anchor|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -17,36 +24,36 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[1kGNdIIhuglAjIp9.htm](actions/1kGNdIIhuglAjIp9.htm)|Treat Wounds|Soigner les blessures|officielle|
 |[1OagaWtBpVXExToo.htm](actions/1OagaWtBpVXExToo.htm)|Recall Knowledge (Lore)|Se souvenir (Connaissance)|officielle|
 |[1xRFPTFtWtGJ9ELw.htm](actions/1xRFPTFtWtGJ9ELw.htm)|Sense Motive|Deviner les intentions|officielle|
-|[21WIfSu7Xd7uKqV8.htm](actions/21WIfSu7Xd7uKqV8.htm)|Tumble Through|Déplacement acrobatique|officielle|
+|[21WIfSu7Xd7uKqV8.htm](actions/21WIfSu7Xd7uKqV8.htm)|Tumble Through|Déplacement acrobatique|changé|
 |[24PSsn1SKpUwYA1X.htm](actions/24PSsn1SKpUwYA1X.htm)|Retraining|Réapprentissage|officielle|
 |[25WDi1cVUrW92sUj.htm](actions/25WDi1cVUrW92sUj.htm)|Clue In|Partager les indices|libre|
 |[2EE4aF4SZpYf0R6H.htm](actions/2EE4aF4SZpYf0R6H.htm)|Pick a Lock|Crocheter une serrure|officielle|
-|[2HJ4yuEFY1Cast4h.htm](actions/2HJ4yuEFY1Cast4h.htm)|High Jump|Sauter en hauteur|officielle|
-|[2u915NdUyQan6uKF.htm](actions/2u915NdUyQan6uKF.htm)|Demoralize|Démoraliser|officielle|
+|[2HJ4yuEFY1Cast4h.htm](actions/2HJ4yuEFY1Cast4h.htm)|High Jump|Sauter en hauteur|changé|
+|[2u915NdUyQan6uKF.htm](actions/2u915NdUyQan6uKF.htm)|Demoralize|Démoraliser|changé|
 |[3f5DMFu8fPiqHpRg.htm](actions/3f5DMFu8fPiqHpRg.htm)|Sustain a Spell|Maintenir un sort|officielle|
 |[3yoajuKjwHZ9ApUY.htm](actions/3yoajuKjwHZ9ApUY.htm)|Grab an Edge|Se raccrocher in extremis|officielle|
 |[49y9Ec4bDii8pcD3.htm](actions/49y9Ec4bDii8pcD3.htm)|Subsist|Subsister|officielle|
 |[74iat04PtfG8gn2Q.htm](actions/74iat04PtfG8gn2Q.htm)|Mighty Rage|Rage formidable|officielle|
-|[7blmbDrQFNfdT731.htm](actions/7blmbDrQFNfdT731.htm)|Shove|Pousser|officielle|
+|[7blmbDrQFNfdT731.htm](actions/7blmbDrQFNfdT731.htm)|Shove|Pousser|changé|
 |[7pdG8l9POMK76Lf2.htm](actions/7pdG8l9POMK76Lf2.htm)|Warding Sign|Signe de protection|libre|
 |[7qjfYsLNTr17Aftf.htm](actions/7qjfYsLNTr17Aftf.htm)|Energy Emanation|Émanation énergétique|libre|
 |[8kGpUUUSX1sB2OqQ.htm](actions/8kGpUUUSX1sB2OqQ.htm)|Call Companion|Appeler un compagnon|libre|
 |[8w6esW689NNbbq3i.htm](actions/8w6esW689NNbbq3i.htm)|Call on Ancient Blood|Appel du sang ancien|officielle|
 |[A72nHGUtNXgY5Ey9.htm](actions/A72nHGUtNXgY5Ey9.htm)|Delay|Retarder|officielle|
 |[aBQ8ajvEBByv45yz.htm](actions/aBQ8ajvEBByv45yz.htm)|Cast a Spell|Lancer un sort|officielle|
-|[Ah5g9pDwWF9b9VW9.htm](actions/Ah5g9pDwWF9b9VW9.htm)|Rage|Rage|officielle|
+|[Ah5g9pDwWF9b9VW9.htm](actions/Ah5g9pDwWF9b9VW9.htm)|Rage|Rage|changé|
 |[AjLSHZSWQ90exdLo.htm](actions/AjLSHZSWQ90exdLo.htm)|Dismiss|Révoquer|officielle|
-|[AJstokjdG6iDjVjE.htm](actions/AJstokjdG6iDjVjE.htm)|Impersonate|Se déguiser|officielle|
+|[AJstokjdG6iDjVjE.htm](actions/AJstokjdG6iDjVjE.htm)|Impersonate|Se déguiser|changé|
 |[Aq2mXT2hLlstFL5C.htm](actions/Aq2mXT2hLlstFL5C.htm)|Invoke Celestial Privilege|Invoquer le privilège céleste|libre|
 |[B0Eu3EfwIa9kyDEA.htm](actions/B0Eu3EfwIa9kyDEA.htm)|Recall Knowledge (Crafting)|Se souvenir (Artisanat)|officielle|
-|[B2BpIZFHoF9Kjzpx.htm](actions/B2BpIZFHoF9Kjzpx.htm)|Recall Knowledge (Occultism)|Se souvenir (Occultisme)|officielle|
+|[B2BpIZFHoF9Kjzpx.htm](actions/B2BpIZFHoF9Kjzpx.htm)|Recall Knowledge (Occultism)|Se souvenir (Occultisme)|changé|
 |[b6CanpXyUKJgxEwq.htm](actions/b6CanpXyUKJgxEwq.htm)|Salt Wound|Saler les blessures|libre|
 |[Bcxarzksqt9ezrs6.htm](actions/Bcxarzksqt9ezrs6.htm)|Stride|Marcher rapidement|officielle|
 |[BKnN9la3WNrRgZ6n.htm](actions/BKnN9la3WNrRgZ6n.htm)|Conduct Energy|Conduire l'énergie|libre|
-|[BlAOM2X92SI6HMtJ.htm](actions/BlAOM2X92SI6HMtJ.htm)|Seek|Chercher|officielle|
+|[BlAOM2X92SI6HMtJ.htm](actions/BlAOM2X92SI6HMtJ.htm)|Seek|Chercher|changé|
 |[bp0Up04x3dzGK5bB.htm](actions/bp0Up04x3dzGK5bB.htm)|Debilitating Strike|Frappe incapacitante|officielle|
 |[bT3skovyLUtP22ME.htm](actions/bT3skovyLUtP22ME.htm)|Repair|Réparer|officielle|
-|[c8TGiZ48ygoSPofx.htm](actions/c8TGiZ48ygoSPofx.htm)|Swim|Nager|officielle|
+|[c8TGiZ48ygoSPofx.htm](actions/c8TGiZ48ygoSPofx.htm)|Swim|Nager|changé|
 |[CrUPaPlsxy2bswaT.htm](actions/CrUPaPlsxy2bswaT.htm)|Mesmerizing Performance|Performance hypnotisante|libre|
 |[cS9nfDRGD83bNU1p.htm](actions/cS9nfDRGD83bNU1p.htm)|Fly|Voler|officielle|
 |[cYdz2grcOcRt4jk6.htm](actions/cYdz2grcOcRt4jk6.htm)|Disable Device|Désamorcer un dispositif|officielle|
@@ -58,7 +65,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dCuvfq3r2K9wXY9g.htm](actions/dCuvfq3r2K9wXY9g.htm)|Basic Finisher|Coup final de base|libre|
 |[dLgAMt3TbkmLkUqE.htm](actions/dLgAMt3TbkmLkUqE.htm)|Ready|Préparer|officielle|
 |[DS9sDOWkXrz2xmHi.htm](actions/DS9sDOWkXrz2xmHi.htm)|Eldritch Shot|Tir mystique|libre|
-|[Dt6B1slsBy8ipJu9.htm](actions/Dt6B1slsBy8ipJu9.htm)|Disarm|Désarmer|officielle|
+|[Dt6B1slsBy8ipJu9.htm](actions/Dt6B1slsBy8ipJu9.htm)|Disarm|Désarmer|changé|
 |[DXIZ4DHGxhZiWNWb.htm](actions/DXIZ4DHGxhZiWNWb.htm)|Long Term Rest|Repos long|officielle|
 |[e2ePMDa7ixbLRryj.htm](actions/e2ePMDa7ixbLRryj.htm)|Encouraging Words|Paroles encourageantes|libre|
 |[EA5vuSgJfiHH7plD.htm](actions/EA5vuSgJfiHH7plD.htm)|Track|Pister|officielle|
@@ -71,14 +78,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[eT1jXYvz2YH70Ovp.htm](actions/eT1jXYvz2YH70Ovp.htm)|Recall Knowledge (Nature)|Se souvenir (Nature)|officielle|
 |[ev8OHpBO3xq3Zt08.htm](actions/ev8OHpBO3xq3Zt08.htm)|Tail Toxin|Queue à toxine|libre|
 |[EwgTZBWsc8qKaViP.htm](actions/EwgTZBWsc8qKaViP.htm)|Investigate|Enquêter|officielle|
-|[ewwCglB7XOPLUz72.htm](actions/ewwCglB7XOPLUz72.htm)|Lie|Mentir|officielle|
+|[ewwCglB7XOPLUz72.htm](actions/ewwCglB7XOPLUz72.htm)|Lie|Mentir|changé|
 |[F0JgJR2rXKOg9k1z.htm](actions/F0JgJR2rXKOg9k1z.htm)|Upstage|Surpasser|libre|
 |[fJImDBQfqfjKJOhk.htm](actions/fJImDBQfqfjKJOhk.htm)|Sense Direction|S'orienter|officielle|
 |[FkfWKq9jhhPzKAbb.htm](actions/FkfWKq9jhhPzKAbb.htm)|Rampaging Ferocity|Férocité déchaînée|libre|
 |[ftG89SjTSa9DYDOD.htm](actions/ftG89SjTSa9DYDOD.htm)|Create Forgery|Contrefaire|officielle|
 |[GAoUxmcKx1vW3vEB.htm](actions/GAoUxmcKx1vW3vEB.htm)|Exhale Poison|Expirer le poison|libre|
-|[ge56Lu1xXVFYUnLP.htm](actions/ge56Lu1xXVFYUnLP.htm)|Trip|Croc-en-jambe|officielle|
-|[GkmbTGfg8KcgynOA.htm](actions/GkmbTGfg8KcgynOA.htm)|Create a Diversion|Faire diversion|officielle|
+|[ge56Lu1xXVFYUnLP.htm](actions/ge56Lu1xXVFYUnLP.htm)|Trip|Croc-en-jambe|changé|
+|[GkmbTGfg8KcgynOA.htm](actions/GkmbTGfg8KcgynOA.htm)|Create a Diversion|Faire diversion|changé|
 |[H6v1VgowHaKHnVlG.htm](actions/H6v1VgowHaKHnVlG.htm)|Burrow|Creuser|officielle|
 |[HCl3pzVefiv9ZKQW.htm](actions/HCl3pzVefiv9ZKQW.htm)|Aid|Aider|officielle|
 |[hFRHPBj6wjAayNtW.htm](actions/hFRHPBj6wjAayNtW.htm)|Jinx|Maudire|libre|
@@ -86,21 +93,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[I9k9qe4gOT8UVK4e.htm](actions/I9k9qe4gOT8UVK4e.htm)|Mist Blending|Se fondre dans la brume|libre|
 |[IE2nThCmoyhQA0Jn.htm](actions/IE2nThCmoyhQA0Jn.htm)|Avoid Notice|Échapper aux regards|officielle|
 |[ijZ0DDFpMkWqaShd.htm](actions/ijZ0DDFpMkWqaShd.htm)|Palm an Object|Escamoter un objet|officielle|
-|[IX1VlVCL5sFTptEE.htm](actions/IX1VlVCL5sFTptEE.htm)|Liberating Step|Pas libérateur|officielle|
+|[IX1VlVCL5sFTptEE.htm](actions/IX1VlVCL5sFTptEE.htm)|Liberating Step|Pas libérateur|changé|
 |[jftNJjBNxp2cleoi.htm](actions/jftNJjBNxp2cleoi.htm)|Expeditious Inspection|Inspection expéditive|libre|
 |[JuqmIAnkL9hVGai8.htm](actions/JuqmIAnkL9hVGai8.htm)|Hustle|S'empresser|officielle|
-|[JUvAvruz7yRQXfz2.htm](actions/JUvAvruz7yRQXfz2.htm)|Long Jump|Sauter en longueur|officielle|
+|[JUvAvruz7yRQXfz2.htm](actions/JUvAvruz7yRQXfz2.htm)|Long Jump|Sauter en longueur|changé|
 |[JYi4MnsdFu618hPm.htm](actions/JYi4MnsdFu618hPm.htm)|Hunt Prey|Chasser une proie|officielle|
 |[K878asDgf1EF0B9S.htm](actions/K878asDgf1EF0B9S.htm)|Confident Finisher|Coup final assuré|libre|
 |[KjoCEEmPGTeFE4hh.htm](actions/KjoCEEmPGTeFE4hh.htm)|Treat Poison|Soigner un empoisonnement|officielle|
-|[kMcV8e5EZUxa6evt.htm](actions/kMcV8e5EZUxa6evt.htm)|Squeeze|Se faufiler|officielle|
+|[kMcV8e5EZUxa6evt.htm](actions/kMcV8e5EZUxa6evt.htm)|Squeeze|Se faufiler|changé|
 |[KUfLlXDWTcAWhl8l.htm](actions/KUfLlXDWTcAWhl8l.htm)|Recall Knowledge (Society)|Se souvenir (Société)|changé|
 |[kV3XM0YJeS2KCSOb.htm](actions/kV3XM0YJeS2KCSOb.htm)|Scout|Reconnaître|officielle|
 |[KygTSeDvsFoSO6HW.htm](actions/KygTSeDvsFoSO6HW.htm)|Recall Knowledge (Arcana)|Se souvenir (Arcanes)|officielle|
 |[lvqPQDdWT2DDO0k2.htm](actions/lvqPQDdWT2DDO0k2.htm)|Invest an Item|Investir un objet|officielle|
-|[LZgjpWd0pL3vK9Q1.htm](actions/LZgjpWd0pL3vK9Q1.htm)|Recall Knowledge (Religion)|Se souvenir (Religion)|officielle|
+|[LZgjpWd0pL3vK9Q1.htm](actions/LZgjpWd0pL3vK9Q1.htm)|Recall Knowledge (Religion)|Se souvenir (Religion)|changé|
 |[m0f2B7G9eaaTmhFL.htm](actions/m0f2B7G9eaaTmhFL.htm)|Devise a Stratagem|Concevoir un stratagème|libre|
-|[M76ycLAqHoAgbcej.htm](actions/M76ycLAqHoAgbcej.htm)|Balance|Garder l'équilibre|officielle|
+|[M76ycLAqHoAgbcej.htm](actions/M76ycLAqHoAgbcej.htm)|Balance|Garder l'équilibre|changé|
 |[M8RCbthRhB4bxO9t.htm](actions/M8RCbthRhB4bxO9t.htm)|Iron Command|Ordre de fer|libre|
 |[MHLuKy4nQO2Z4Am1.htm](actions/MHLuKy4nQO2Z4Am1.htm)|Administer First Aid|Prodiguer les premiers soins|officielle|
 |[mk6rzaAzsBBRGJnh.htm](actions/mk6rzaAzsBBRGJnh.htm)|Call Upon the Brightness|Faire appel à la lumière|libre|
@@ -113,10 +120,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[orjJjLdm4XNAcFi8.htm](actions/orjJjLdm4XNAcFi8.htm)|Mark for Death|Marquer pour mort|libre|
 |[OSefkMgojBLqmRDh.htm](actions/OSefkMgojBLqmRDh.htm)|Refocus|Refocaliser|officielle|
 |[OX4fy22hQgUHDr0q.htm](actions/OX4fy22hQgUHDr0q.htm)|Make an Impression|Faire bonne impression|officielle|
-|[plBGdZhqq5JBl1D8.htm](actions/plBGdZhqq5JBl1D8.htm)|Gather Information|Recueillir des informations|officielle|
+|[plBGdZhqq5JBl1D8.htm](actions/plBGdZhqq5JBl1D8.htm)|Gather Information|Recueillir des informations|changé|
 |[PM5jvValFkbFH3TV.htm](actions/PM5jvValFkbFH3TV.htm)|Mount|Se mettre en selle|officielle|
-|[PMbdMWc2QroouFGD.htm](actions/PMbdMWc2QroouFGD.htm)|Grapple|Saisir|officielle|
-|[pprgrYQ1QnIDGZiy.htm](actions/pprgrYQ1QnIDGZiy.htm)|Climb|Escalader|officielle|
+|[PMbdMWc2QroouFGD.htm](actions/PMbdMWc2QroouFGD.htm)|Grapple|Saisir|changé|
+|[pprgrYQ1QnIDGZiy.htm](actions/pprgrYQ1QnIDGZiy.htm)|Climb|Escalader|changé|
 |[pTHMZLqWDJ3lkan9.htm](actions/pTHMZLqWDJ3lkan9.htm)|Smoke Blending|Se Fondre dans la fûmée|libre|
 |[pvQ5rY2zrtPI614F.htm](actions/pvQ5rY2zrtPI614F.htm)|Interact|Interagir|officielle|
 |[Q4kdWVOf2ztIBFg1.htm](actions/Q4kdWVOf2ztIBFg1.htm)|Identify Alchemy|Identifier l'alchimie|officielle|
@@ -126,10 +133,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Qf1ylAbdVi1rkc8M.htm](actions/Qf1ylAbdVi1rkc8M.htm)|Maneuver in Flight|Manœuvrer en vol|changé|
 |[QHFMeJGzFWj2QczA.htm](actions/QHFMeJGzFWj2QczA.htm)|Quick Tincture|Préparation rapide|libre|
 |[qm7xptMSozAinnPS.htm](actions/qm7xptMSozAinnPS.htm)|Arrest a Fall|Arrêter une chute|officielle|
-|[QNAVeNKtHA0EUw4X.htm](actions/QNAVeNKtHA0EUw4X.htm)|Feint|Feinter|officielle|
+|[QNAVeNKtHA0EUw4X.htm](actions/QNAVeNKtHA0EUw4X.htm)|Feint|Feinter|changé|
 |[qVNVSmsgpKFGk9hV.htm](actions/qVNVSmsgpKFGk9hV.htm)|Conceal an Object|Dissimuler un objet|officielle|
 |[QyzlsLrqM0EEwd7j.htm](actions/QyzlsLrqM0EEwd7j.htm)|Earn Income|Gagner de l'argent|officielle|
-|[r5Uth6yvCoE4tr9z.htm](actions/r5Uth6yvCoE4tr9z.htm)|Destructive Vengeance|Vengeance destructrice|libre|
+|[r5Uth6yvCoE4tr9z.htm](actions/r5Uth6yvCoE4tr9z.htm)|Destructive Vengeance|Vengeance destructrice|changé|
 |[RDXXE7wMrSPCLv5k.htm](actions/RDXXE7wMrSPCLv5k.htm)|Steal|Voler|officielle|
 |[Rlp7ND33yYfxiEWi.htm](actions/Rlp7ND33yYfxiEWi.htm)|Master Strike|Frappe de maître|officielle|
 |[rmwa3OyhTZ2i2AHl.htm](actions/rmwa3OyhTZ2i2AHl.htm)|Craft|Fabriquer|officielle|
@@ -137,12 +144,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[S9PZFOVe7zhORkUc.htm](actions/S9PZFOVe7zhORkUc.htm)|Absorb into the Aegis|Absorber dans l'égide|libre|
 |[SB7cMECVtE06kByk.htm](actions/SB7cMECVtE06kByk.htm)|Cover Tracks|Dissimuler des traces|officielle|
 |[SeUolRoPzorFUAaI.htm](actions/SeUolRoPzorFUAaI.htm)|Recall Knowledge (Medicine)|Se souvenir (Médecine)|officielle|
-|[SjmKHgI7a5Z9JzBx.htm](actions/SjmKHgI7a5Z9JzBx.htm)|Force Open|Ouvrir de force|officielle|
+|[SjmKHgI7a5Z9JzBx.htm](actions/SjmKHgI7a5Z9JzBx.htm)|Force Open|Ouvrir de force|changé|
 |[SkZAQRkLLkmBQNB9.htm](actions/SkZAQRkLLkmBQNB9.htm)|Escape|S'échapper|officielle|
 |[sn2hIy1iIJX9Vpgj.htm](actions/sn2hIy1iIJX9Vpgj.htm)|Point Out|Signaler|officielle|
-|[TC7OcDa7JlWbqMaN.htm](actions/TC7OcDa7JlWbqMaN.htm)|Treat Disease|Soigner une maladie|officielle|
+|[TC7OcDa7JlWbqMaN.htm](actions/TC7OcDa7JlWbqMaN.htm)|Treat Disease|Soigner une maladie|changé|
 |[tfa4Sh7wcxCEqL29.htm](actions/tfa4Sh7wcxCEqL29.htm)|Follow the Expert|Suivre l'expert|officielle|
-|[tHCqgwjtQtzNqVvd.htm](actions/tHCqgwjtQtzNqVvd.htm)|Coerce|Contraindre|officielle|
+|[tHCqgwjtQtzNqVvd.htm](actions/tHCqgwjtQtzNqVvd.htm)|Coerce|Contraindre|changé|
 |[TiNDYUGlMmxzxBYU.htm](actions/TiNDYUGlMmxzxBYU.htm)|Search|Fouiller|officielle|
 |[Tj055UcNm6UEgtCg.htm](actions/Tj055UcNm6UEgtCg.htm)|Crawl|Ramper|officielle|
 |[TMBXArwICQRJdwT6.htm](actions/TMBXArwICQRJdwT6.htm)|Fey's Fortune|Chance féérique|libre|

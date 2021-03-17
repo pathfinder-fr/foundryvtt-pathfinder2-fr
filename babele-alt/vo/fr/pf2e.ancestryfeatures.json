@@ -257,8 +257,8 @@
             "description": "<p>Vous êtes capable de voir dans les ténèbres les plus totales. Vous tenez peut-être ce pouvoir d’un lien avec les fées sombres ou les fées des ombres, avec les gnomes des profondeurs (aussi appelés les svirfneblins) qui vivent sous terre ou il vous vient d’une autre origine.</p>\n<p>Vous gagnez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
         },
         {
-            "id": "Mutated Flashwarp",
-            "name": "Mutated Flashwarp",
+            "id": "Mutated Fleshwarp",
+            "name": "Mutated Fleshwarp",
             "description": "<p>Transformé par la magie incontrôlée, vous provenez de la Désolation de Mana ou d'une autre région dévastée de la même manière par la magie incontrôlée.</p>\n<p>Du fait de vos organes renforcés ou redondants, le DD des tests pour récupérer des dégâts de saignement persistants est de 10 au lieu de 15 et il est réduit à 5 au lieu de 10 si vous bénéficiez d'une assistance particulièrement efficace pour récupérer des dégâts persistants.</p>"
         },
         {

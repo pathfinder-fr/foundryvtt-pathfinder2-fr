@@ -1,12 +1,34 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **changé**: 407
+ * **changé**: 405
+ * **aucune**: 16
  * **officielle**: 7
 
 
-Dernière mise à jour: 2021-03-14 20:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[7EpLGBoddL8Vzlha.htm](pathfinder-bestiary/7EpLGBoddL8Vzlha.htm)|Soulbound Doll (Chaotic Evil)|
+|[7ptWlh4t6oHvYOcj.htm](pathfinder-bestiary/7ptWlh4t6oHvYOcj.htm)|Soulbound Doll (Neutral Evil)|
+|[cXSTuUJct5iepH75.htm](pathfinder-bestiary/cXSTuUJct5iepH75.htm)|Pridespawn|
+|[iF5NeHC6ReqXLFmY.htm](pathfinder-bestiary/iF5NeHC6ReqXLFmY.htm)|Soulbound Doll (Neutral Good)|
+|[j0gCguJx3ILB1j9o.htm](pathfinder-bestiary/j0gCguJx3ILB1j9o.htm)|Soulbound Doll (Chaotic Good)|
+|[Pl3J94dvVY159G64.htm](pathfinder-bestiary/Pl3J94dvVY159G64.htm)|Soulbound Doll (True Neutral)|
+|[pMoAlNjMJ7DArLPh.htm](pathfinder-bestiary/pMoAlNjMJ7DArLPh.htm)|Wrathspawn|
+|[q3LrTrfnCvoUXuRz.htm](pathfinder-bestiary/q3LrTrfnCvoUXuRz.htm)|Slothspawn|
+|[QGTSPki2eoLuavif.htm](pathfinder-bestiary/QGTSPki2eoLuavif.htm)|Envyspawn|
+|[RAjbVzWcfrPBbgkK.htm](pathfinder-bestiary/RAjbVzWcfrPBbgkK.htm)|Soulbound Doll (Lawful Good)|
+|[RizAUQHtPy0YRUyt.htm](pathfinder-bestiary/RizAUQHtPy0YRUyt.htm)|Soulbound Doll (Lawful Evil)|
+|[rJgUpdXBCMBrsJFf.htm](pathfinder-bestiary/rJgUpdXBCMBrsJFf.htm)|Soulbound Doll (Lawful Neutral)|
+|[triuze3NMe4kWpdS.htm](pathfinder-bestiary/triuze3NMe4kWpdS.htm)|Gluttonyspawn|
+|[w20FfmKH7ukghczT.htm](pathfinder-bestiary/w20FfmKH7ukghczT.htm)|Greedspawn|
+|[X03lxGz9ELv8rG2w.htm](pathfinder-bestiary/X03lxGz9ELv8rG2w.htm)|Soulbound Doll (Chaotic Neutral)|
+|[x8ZWNcFOfpJYjXOw.htm](pathfinder-bestiary/x8ZWNcFOfpJYjXOw.htm)|Lustspawn|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -206,7 +228,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IXen98RbUlbxDWBD.htm](pathfinder-bestiary/IXen98RbUlbxDWBD.htm)|Gogiteth|Gogiteth|changé|
 |[J0dSbywBRgD2kf19.htm](pathfinder-bestiary/J0dSbywBRgD2kf19.htm)|Giant Wasp|Guêpe géante|changé|
 |[j1mm6bb3hZ56jSrK.htm](pathfinder-bestiary/j1mm6bb3hZ56jSrK.htm)|Grig|Grig|changé|
-|[j7GXfpAMO0LptnvM.htm](pathfinder-bestiary/j7GXfpAMO0LptnvM.htm)|Soulbound Doll|Poupée des âmes|changé|
 |[j7NNPfZwD19BwSEZ.htm](pathfinder-bestiary/j7NNPfZwD19BwSEZ.htm)|Unseen Servant|Serviteur invisible|officielle|
 |[jeAGl6OAVrrIPgu3.htm](pathfinder-bestiary/jeAGl6OAVrrIPgu3.htm)|Hell Hound|Molosse infernal|changé|
 |[Jgh0WGVetNXi5jlM.htm](pathfinder-bestiary/Jgh0WGVetNXi5jlM.htm)|Quatoid|Quatoid|changé|
@@ -399,7 +420,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[xZQIChzzIYbNIEoT.htm](pathfinder-bestiary/xZQIChzzIYbNIEoT.htm)|Young Green Dragon|Jeune dragon vert|changé|
 |[Y3T7XfC2BeiNBmuS.htm](pathfinder-bestiary/Y3T7XfC2BeiNBmuS.htm)|Desert Drake|Drake du désert|changé|
 |[yIXRooXdsKtbcw2D.htm](pathfinder-bestiary/yIXRooXdsKtbcw2D.htm)|Mammoth|Mammouth|changé|
-|[ymhcfbqpaiXrcCPW.htm](pathfinder-bestiary/ymhcfbqpaiXrcCPW.htm)|Sinspawn|Rejeton du péché|changé|
 |[ypLkUfuHHfNDsVUQ.htm](pathfinder-bestiary/ypLkUfuHHfNDsVUQ.htm)|Tiger|Tigre|changé|
 |[YPLZkAlOuaj3F3nZ.htm](pathfinder-bestiary/YPLZkAlOuaj3F3nZ.htm)|Young Silver Dragon|Jeune dragon d'argent|changé|
 |[YUk9S6caKqheRsUQ.htm](pathfinder-bestiary/YUk9S6caKqheRsUQ.htm)|Riding Pony|Poney de selle|changé|

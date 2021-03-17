@@ -22,8 +22,8 @@
             "description": "<p><strong>Prérequis</strong> Région - Terres brisées</p>\n<hr />\n<p>Vous avez grandi parmi les maisons septentrionales du Brévoy dans la vieille Issie. Imprégné par l'héritage culturel des pirates et des contrebandiers, vous comptez sur votre ruse et votre charme lorsque vous menez votre vie à travers le monde.</p>\n<p>Choisissez deux primes de caractéristiques. L'une doit être d'<strong>Intelligence </strong> ou de <strong>Charisme</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Duperie et en Connaissance de la pègre. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.B6HbYsLBWb1RR6Fx]{Menteur charismatique}.</p>"
         },
         {
-            "id": "_Empty Background",
-            "name": "_Empty Background (_Historique vierge)",
+            "id": "[Empty Background]",
+            "name": "[Empty Background] (_Historique vierge)",
             "description": "<p>Ceci est un historique vierge pour des règles maison.</p>\n<p>Ceci ne procure aucune automatisation mais peut être utilisé comme un modèle pour glisr déposer sur un acteur.</p>"
         },
         {
