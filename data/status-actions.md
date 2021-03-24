@@ -1,12 +1,12 @@
 # État de la traduction (actions)
 
- * **officielle**: 83
+ * **officielle**: 82
  * **libre**: 46
- * **changé**: 28
+ * **changé**: 29
  * **aucune**: 1
 
 
-Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-23 21:15 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -24,7 +24,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[1kGNdIIhuglAjIp9.htm](actions/1kGNdIIhuglAjIp9.htm)|Treat Wounds|Soigner les blessures|officielle|
 |[1OagaWtBpVXExToo.htm](actions/1OagaWtBpVXExToo.htm)|Recall Knowledge (Lore)|Se souvenir (Connaissance)|officielle|
 |[1xRFPTFtWtGJ9ELw.htm](actions/1xRFPTFtWtGJ9ELw.htm)|Sense Motive|Deviner les intentions|officielle|
-|[21WIfSu7Xd7uKqV8.htm](actions/21WIfSu7Xd7uKqV8.htm)|Tumble Through|Déplacement acrobatique|changé|
+|[21WIfSu7Xd7uKqV8.htm](actions/21WIfSu7Xd7uKqV8.htm)|Tumble Through|Déplacement acrobatique|officielle|
 |[24PSsn1SKpUwYA1X.htm](actions/24PSsn1SKpUwYA1X.htm)|Retraining|Réapprentissage|officielle|
 |[25WDi1cVUrW92sUj.htm](actions/25WDi1cVUrW92sUj.htm)|Clue In|Partager les indices|libre|
 |[2EE4aF4SZpYf0R6H.htm](actions/2EE4aF4SZpYf0R6H.htm)|Pick a Lock|Crocheter une serrure|officielle|
@@ -61,7 +61,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[D2PNfIw7U6Ks0VY4.htm](actions/D2PNfIw7U6Ks0VY4.htm)|Steel your Resolve|Puiser dans votre résolution|libre|
 |[d5I6018Mci2SWokk.htm](actions/d5I6018Mci2SWokk.htm)|Leap|Bondir|officielle|
 |[d9gbpiQjChYDYA2L.htm](actions/d9gbpiQjChYDYA2L.htm)|Decipher Writing|Déchiffrer un texte|officielle|
-|[DCb62iCBrJXy0Ik6.htm](actions/DCb62iCBrJXy0Ik6.htm)|Request|Solliciter|officielle|
+|[DCb62iCBrJXy0Ik6.htm](actions/DCb62iCBrJXy0Ik6.htm)|Request|Solliciter|changé|
 |[dCuvfq3r2K9wXY9g.htm](actions/dCuvfq3r2K9wXY9g.htm)|Basic Finisher|Coup final de base|libre|
 |[dLgAMt3TbkmLkUqE.htm](actions/dLgAMt3TbkmLkUqE.htm)|Ready|Préparer|officielle|
 |[DS9sDOWkXrz2xmHi.htm](actions/DS9sDOWkXrz2xmHi.htm)|Eldritch Shot|Tir mystique|libre|
@@ -119,7 +119,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[OQaFzDtVEOMWizJJ.htm](actions/OQaFzDtVEOMWizJJ.htm)|Repeat a Spell|Répéter un sort|officielle|
 |[orjJjLdm4XNAcFi8.htm](actions/orjJjLdm4XNAcFi8.htm)|Mark for Death|Marquer pour mort|libre|
 |[OSefkMgojBLqmRDh.htm](actions/OSefkMgojBLqmRDh.htm)|Refocus|Refocaliser|officielle|
-|[OX4fy22hQgUHDr0q.htm](actions/OX4fy22hQgUHDr0q.htm)|Make an Impression|Faire bonne impression|officielle|
+|[OX4fy22hQgUHDr0q.htm](actions/OX4fy22hQgUHDr0q.htm)|Make an Impression|Faire bonne impression|changé|
 |[plBGdZhqq5JBl1D8.htm](actions/plBGdZhqq5JBl1D8.htm)|Gather Information|Recueillir des informations|changé|
 |[PM5jvValFkbFH3TV.htm](actions/PM5jvValFkbFH3TV.htm)|Mount|Se mettre en selle|officielle|
 |[PMbdMWc2QroouFGD.htm](actions/PMbdMWc2QroouFGD.htm)|Grapple|Saisir|changé|

@@ -5,7 +5,7 @@
  * **changé**: 3
 
 
-Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-23 21:15 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -244,7 +244,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ZKTz1ABoPTtlgYIy.htm](pathfinder-bestiary-2/ZKTz1ABoPTtlgYIy.htm)|Hound Archon|
 |[ZrDGTNxlISyxNAKX.htm](pathfinder-bestiary-2/ZrDGTNxlISyxNAKX.htm)|Bralani|
 |[zXZrUTQSI0WxAsF5.htm](pathfinder-bestiary-2/zXZrUTQSI0WxAsF5.htm)|Verdurous Ooze|
-|[ZyZMJ19Ea0cfydK4.htm](pathfinder-bestiary-2/ZyZMJ19Ea0cfydK4.htm)|Petitioner (Shadow PLane)|
+|[ZyZMJ19Ea0cfydK4.htm](pathfinder-bestiary-2/ZyZMJ19Ea0cfydK4.htm)|Petitioner (Shadow Plane)|
 |[zzu3q9m4kJzgnNfl.htm](pathfinder-bestiary-2/zzu3q9m4kJzgnNfl.htm)|Black Dracolisk|
 
 ## Liste des traductions complétés

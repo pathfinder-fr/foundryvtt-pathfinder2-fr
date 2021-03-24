@@ -2869,7 +2869,7 @@
         {
             "id": "Light",
             "name": "Light",
-            "description": "<p>L’objet luit en émettant une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà), comme une torche. Si vous lancez ce sort une nouvelle fois sur un deuxième objet, le sort lumière sur le premier prend fin.</p>\n<hr />\n<p><strong>Intensifié (4e)</strong>&nbsp; L’objet émet une lumière vive dans un rayon de 18 m (et une lumière faible dans les 18 m au-delà).</p>"
+            "description": "<p>L’objet luit en émettant une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà), comme une torche. Si vous lancez ce sort une nouvelle fois sur un deuxième objet, le sort lumière sur le premier prend fin.</p>\n<hr />\n<p><strong>Intensifié (4e)</strong> L’objet émet une lumière vive dans un rayon de 18 m (et une lumière faible dans les 18 m au-delà).</p>"
         },
         {
             "id": "Ice Storm",
@@ -3214,7 +3214,7 @@
         {
             "id": "Litany of Self-Interest",
             "name": "Litany of Self-Interest",
-            "description": "<p>Vous vous livrez à un discours qui remplit votre cible d'une conduite la poussant à tirer son épingle du jeu à l'exclusion des autres. Une créature qui veut obtenir le bénéfice de ce sort et qui n'a cure des ses limitations peut volontairement renoncer au jet de sauvegarde. La cible devient ensuite temporairement immunisée à toutes vos litanies pendant 1 minute.</p>\n<hr />\n<p><strong>Succès</strong> La cible n'est pas affectée.</p>\n<p><strong>Échec</strong> La cible obtient un bonus de statut de +2 status à ses jets d'attaque, ses tests de Perception, ses jets de protection et ses tests de compétence. La cible ne peut @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} d'autres créatures, considérer toute créature comme son allié ou utiliser des sorts ou des capacités qui bénéficient directement à une autre créature (à l'appréciation du MJ), même s'ils bénéficient à la cible. Les autres créatures alliés à la cible su sort peuvent toujours considérez la cible comme un allié et l'affecter en conséquence.</p>\n<hr />\n<p><strong>Intensifié (8e)</strong> Le bonus de statut passe à +3.</p>"
+            "description": "<p>Vous vous livrez à un discours qui remplit votre cible d'une conduite la poussant à tirer son épingle du jeu à l'exclusion des autres. Une créature qui veut obtenir le bénéfice de ce sort et qui n'a cure des ses limitations peut volontairement renoncer au jet de sauvegarde. La cible devient ensuite temporairement immunisée à toutes vos litanies pendant 1 minute.</p>\n<hr />\n<p><strong>Succès</strong> La cible n'est pas affectée.</p>\n<p><strong>Échec</strong> La cible obtient un bonus de statut de +2 à ses jets d'attaque, ses tests de Perception, ses jets de protection et ses tests de compétence. La cible ne peut @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} d'autres créatures, considérer toute créature comme son allié ou utiliser des sorts ou des capacités qui bénéficient directement à une autre créature (à l'appréciation du MJ), même s'ils bénéficient à la cible. Les autres créatures alliés à la cible su sort peuvent toujours considérez la cible comme un allié et l'affecter en conséquence.</p>\n<hr />\n<p><strong>Intensifié (8e)</strong> Le bonus de statut passe à +3.</p>"
         },
         {
             "id": "Inspire Competence",

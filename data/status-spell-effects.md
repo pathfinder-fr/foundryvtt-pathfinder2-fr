@@ -1,10 +1,10 @@
 # État de la traduction (spell-effects)
 
- * **aucune**: 90
+ * **aucune**: 104
  * **libre**: 5
 
 
-Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-23 21:15 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -81,6 +81,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03-l9HRQggofFGIxEse.htm](spell-effects/03-l9HRQggofFGIxEse.htm)|Spell Effect: Heroism|
 |[03-llrOM8rPP9nxIuEN.htm](spell-effects/03-llrOM8rPP9nxIuEN.htm)|Spell Effect: Insect Form (Mantis)|
 |[04-0Cyf07wboRp4CmcQ.htm](spell-effects/04-0Cyf07wboRp4CmcQ.htm)|Spell Effect: Dinosaur Form (Ankylosaurus)|
+|[04-0QVufU5o3xIxiHmP.htm](spell-effects/04-0QVufU5o3xIxiHmP.htm)|Spell Effect: Aerial Form (Bird)|
 |[04-0s6YaL3IjqECmjab.htm](spell-effects/04-0s6YaL3IjqECmjab.htm)|Spell Effect: Roar of the Wyrm|
 |[04-3HEiYVhqypfc4IsP.htm](spell-effects/04-3HEiYVhqypfc4IsP.htm)|Spell Effect: Safeguard Secret|
 |[04-41WThj17MZBXTO2X.htm](spell-effects/04-41WThj17MZBXTO2X.htm)|Spell Effect: Enlarge (Heightened 4th)|
@@ -89,13 +90,26 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[04-AJkRUIdYLnt4QOOg.htm](spell-effects/04-AJkRUIdYLnt4QOOg.htm)|Spell Effect: Tempt Fate|
 |[04-iJ7TVW5tDnZG9DG8.htm](spell-effects/04-iJ7TVW5tDnZG9DG8.htm)|Spell Effect: Competitive Edge|
 |[04-iOKhr2El8R6cz6YI.htm](spell-effects/04-iOKhr2El8R6cz6YI.htm)|Spell Effect: Dinosaur Form (Triceratops)|
+|[04-jvwKRHtOiPAm4uAP.htm](spell-effects/04-jvwKRHtOiPAm4uAP.htm)|Spell Effect: Aerial Form (Bat)|
 |[04-KkDRRDuycXwKPa6n.htm](spell-effects/04-KkDRRDuycXwKPa6n.htm)|Spell Effect: Dinosaur Form (Brontosaurus)|
 |[04-nHXKK4pRXAzrLdEP.htm](spell-effects/04-nHXKK4pRXAzrLdEP.htm)|Spell Effect: Take Its Course (Affliction, Help)|
 |[04-oJbcmpBSHwmx6FD4.htm](spell-effects/04-oJbcmpBSHwmx6FD4.htm)|Spell Effect: Dinosaur Form (Deinonychus)|
 |[04-R27azQfzeFuFc48G.htm](spell-effects/04-R27azQfzeFuFc48G.htm)|Spell Effect: Take Its Course (Affliction, Hinder)|
 |[04-T6XnxvsgvvOrpien.htm](spell-effects/04-T6XnxvsgvvOrpien.htm)|Spell Effect: Dinosaur Form (Stegosaurus)|
+|[04-UjoNm3lrhlg4ctAQ.htm](spell-effects/04-UjoNm3lrhlg4ctAQ.htm)|Spell Effect: Aerial Form (Pterosaur)|
+|[04-xgZxYqjDPNtsQ3Qp.htm](spell-effects/04-xgZxYqjDPNtsQ3Qp.htm)|Spell Effect: Aerial Form (Wasp)|
+|[05-8eWLR0WCf5258z8X.htm](spell-effects/05-8eWLR0WCf5258z8X.htm)|Spell Effect: Elemental Form (Earth)|
 |[05-ceEA7nBGNmoR8Sjj.htm](spell-effects/05-ceEA7nBGNmoR8Sjj.htm)|Spell Effect: Litany of Self-Interest|
 |[05-cTBYHfiXDOA09G4b.htm](spell-effects/05-cTBYHfiXDOA09G4b.htm)|Spell Effect: Traveler's Transit (Fly)|
+|[05-DliizYpHcmBG130w.htm](spell-effects/05-DliizYpHcmBG130w.htm)|Spell Effect: Elemental Form (Air)|
+|[05-fIloZhZVH1xTnX4B.htm](spell-effects/05-fIloZhZVH1xTnX4B.htm)|Spell Effect: Plant Form (Shambler)|
+|[05-JrNHFNxJayevlv2G.htm](spell-effects/05-JrNHFNxJayevlv2G.htm)|Spell Effect: Plant Form (Flytrap)|
+|[05-kxMBdANwCcF841uA.htm](spell-effects/05-kxMBdANwCcF841uA.htm)|Spell Effect: Elemental Form (Water)|
+|[05-phIoucsDa3iplMm2.htm](spell-effects/05-phIoucsDa3iplMm2.htm)|Spell Effect: Elemental Form (Fire)|
+|[05-tu8FyCtmL3YYR2jL.htm](spell-effects/05-tu8FyCtmL3YYR2jL.htm)|Spell Effect: Plant Form (Arboreal)|
+|[08-b8bfWIICHOsGVzjp.htm](spell-effects/08-b8bfWIICHOsGVzjp.htm)|Spell Effect: Monstrosity Form (Phoenix)|
+|[08-Eik8Fj8nGo2GLcbn.htm](spell-effects/08-Eik8Fj8nGo2GLcbn.htm)|Spell Effect: Monstrosity Form (Sea Serpent)|
+|[08-rEsgDhunQ5Yx8KZx.htm](spell-effects/08-rEsgDhunQ5Yx8KZx.htm)|Spell Effect: Monstrosity Form (Purple Worm)|
 |[10-blBXnWb1Y8q8YYMh.htm](spell-effects/10-blBXnWb1Y8q8YYMh.htm)|Spell Effect: Primal Summons (Fire)|
 |[10-fwaAe71qfnK7SiOB.htm](spell-effects/10-fwaAe71qfnK7SiOB.htm)|Spell Effect: Primal Summons (Air)|
 |[10-NXzo2kdgVixIZ2T1.htm](spell-effects/10-NXzo2kdgVixIZ2T1.htm)|Spell Effect: Apex Companion|

@@ -179,7 +179,7 @@
         {
             "id": "Belt Pouch",
             "name": "Belt Pouch",
-            "description": "<p><span class=\"fontstyle0\">Une bourse peut contenir jusqu’à quatre objets d’Encombrement léger.</span> </p>"
+            "description": "<p>Une bourse peut contenir jusqu’à quatre objets d’Encombrement léger.</p>"
         },
         {
             "id": "Staff of Transmutation",
@@ -664,7 +664,7 @@
         {
             "id": "Chest",
             "name": "Chest",
-            "description": "<p><span class=\"fontstyle0\">Un coffre en bois peut contenir des objets jusqu’à un Encombrement 8.</span></p>"
+            "description": "<p>Un coffre en bois peut contenir des objets jusqu’à un Encombrement 8.</p>"
         },
         {
             "id": "Ladder (10-foot)",
@@ -724,7 +724,7 @@
         {
             "id": "Satchel",
             "name": "Satchel",
-            "description": "<p><span class=\"fontstyle0\">Une sacoche peut contenir des objets jusqu’à un Encombrement 2. Si vous transportez ou stockez une sacoche au lieu de la porter sur votre épaule, elle compte comme un Encombrement léger au lieu de négligeable.</span> </p>"
+            "description": "<p>Une sacoche peut contenir des objets jusqu’à un Encombrement 2. Si vous transportez ou stockez une sacoche au lieu de la porter sur votre épaule, elle compte comme un Encombrement léger au lieu de négligeable.</p>"
         },
         {
             "id": "Shadow (Major)",
@@ -1094,12 +1094,12 @@
         {
             "id": "Cognitive Mutagen (Moderate)",
             "name": "Cognitive Mutagen (Moderate)",
-            "description": "Votre esprit devient limpide et rien n’entrave vos facultés intel‑ lectuelles, mais la matière physique vous semble éphémère.Le bonus est de +2 et la durée de 10 min."
+            "description": "<p><strong>Activate</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<hr />\n<p>Votre esprit devient limpide et rien n’entrave vos facultés intellectuelles, mais la matière physique vous semble éphémère.Le bonus est de +2 et la durée de 10 minutes.</p>\n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet de +2 aux tests d’Arcanes, d’Artisanat, de Connaissances, d’Occultisme et de Société ainsi qu’à tous les tests pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir}. Vos échecs critiques aux tests de Se souvenir deviennent de simples échecs.</p>\n<p><strong>Inconvénient</strong> Vous subissez un malus de −2 aux jets d’attaque avec une arme ou à mains nues, ainsi qu’aux tests d’Athlétisme et d’Acrobaties. Vous êtes surchargé à partir de 2 Encombrements de moins que d’ordinaire et le maximum d’Encombrements que vous pouvez porter est réduit de 4.</p>\n<p>@Compendium[pf2e.consumable-effects.ztxW3lBPRcesF7wK]{Effet: Mutagène cognitif (modéré)}</p>"
         },
         {
             "id": "Breastplate of Command",
             "name": "Breastplate of Command",
-            "description": "<p>Cette cuirasse de résilience +1 est faite d’un bronze scintillant recouvert de panneaux de renfort dorés en forme de têtes de lion. Elle vous donne une aura d’autorité. Vous gagnez un bonus d’objet de +2 aux tests de Diplomatie, mais vous subissez un malus d’objet de −2 aux tests de Discrétion pour Vous cacher et Être furtif et aux tests de Duperie pour Se déguiser.</p>\n<p><strong>Activation</strong><span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>Sur ordre; \n<p><strong>Fréquence</strong> 1/jour;</p> \n<p><strong>Effet</strong>Vous donnez à vos alliés dans un rayon de 30 m un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 min. Lorsque vous activez ce pouvoir, chaque allié affecté réduit sa valeur d’effrayé de 1.</p>\n<p>@Compendium[pf2e.equipment-effects.G0lG7IIZnCZtYi6v]{Effect: Cuirasse de commandement}</p>\n<hr />\n<p>Effets automatiquement appliqués:</p>\n<ul>\n<li>+2 bonus d'objet aux tests de Diplomacie</li>\n<li>-2 malus d'objet aux tests de Discrétion pour Vous cacher et Être furtif</li>\n<li>-2 malus d'objet aux tests de Duperie pour Se déguiser</li>\n</ul>"
+            "description": "<p>Cette cuirasse de résilience +1 est faite d’un bronze scintillant recouvert de panneaux de renfort dorés en forme de têtes de lion. Elle vous donne une aura d’autorité. Vous gagnez un bonus d’objet de +2 aux tests de Diplomatie, mais vous subissez un malus d’objet de −2 aux tests de Discrétion pour Vous cacher et Être furtif et aux tests de Duperie pour Se déguiser.</p>\n<p><strong>Activation</strong><span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>Sur ordre;</p> \n<p><strong>Fréquence</strong> 1/jour;</p> \n<p><strong>Effet</strong>Vous donnez à vos alliés dans un rayon de 30 m un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 min. Lorsque vous activez ce pouvoir, chaque allié affecté réduit sa valeur d’effrayé de 1.</p>\n<p>@Compendium[pf2e.equipment-effects.G0lG7IIZnCZtYi6v]{Effect: Cuirasse de commandement}</p>\n<hr />\n<p>Effets automatiquement appliqués:</p>\n<ul>\n<li>+2 bonus d'objet aux tests de Diplomacie</li>\n<li>-2 malus d'objet aux tests de Discrétion pour Vous cacher et Être furtif</li>\n<li>-2 malus d'objet aux tests de Duperie pour Se déguiser</li>\n</ul>"
         },
         {
             "id": "Periscope",
@@ -1134,7 +1134,7 @@
         {
             "id": "Silver Buckler (High-Grade)",
             "name": "Silver Buckler (High-Grade)",
-            "description": "<p>Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu'on les utilise pour frapper.</p>\n<hr />\n<p>Le bouclier a une Solidité de 6, 24 PV et un SR de 12.</p>\n<p><strong>Conditions de fabrication</strong> au moins 2 500 po d'argent</p>\n<p></p>"
+            "description": "<p>Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu'on les utilise pour frapper.</p>\n<hr />\n<p>Le bouclier a une Solidité de 6, 24 PV et un SR de 12.</p>\n<p><strong>Conditions de fabrication</strong> au moins 2 500 po d'argent</p>"
         },
         {
             "id": "Belt of Giant Strength",
@@ -1199,7 +1199,7 @@
         {
             "id": "Darkwood Tower Shield (High-Grade)",
             "name": "Darkwood Tower Shield (High-Grade)",
-            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr>\n<p><span><strong>Conditions de fabrication</strong> au moins 5 600 po d'ébénite</span></p>"
+            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).</span></p>\n<p>Le bouclier a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> au moins 5 600 po d'ébénite</span></p>"
         },
         {
             "id": "Savior Spike",
@@ -1379,7 +1379,7 @@
         {
             "id": "Adamantine Buckler (High-Grade)",
             "name": "Adamantine Buckler (High-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</span></p>\n<p>La targe a une Solidité de 11, 44 PV et un SR de 22.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 4&nbsp;000 po d’adamantium.&nbsp;</span></p>"
+            "description": "<p><span>Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</span></p>\n<p>La targe a une Solidité de 11, 44 PV et un SR de 22.</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> au moins 4000 po d’adamantium.</span></p>"
         },
         {
             "id": "Peshpine Grenade (Moderate)",
@@ -1649,7 +1649,7 @@
         {
             "id": "Robe of the Archmagi (Greater)",
             "name": "Robe of the Archmagi (Greater)",
-            "description": "<p><spanDes motifs arcaniques ornés sont brodés au fil d’argent fin sur ces robes qui existent en trois couleurs différentes en fonction de l’alignement avec lequel chacune est harmonisée. Les robes harmonisées à l’alignement bon sont blanches, celles harmonisées à l’alignement neutre sont grises et celles harmonisées à l’alignement mauvais sont noires. Une robe d’alignement mauvais ou bon obtient le trait correspondant. Les robes profitent uniquement aux personnages capables de lancer des sorts arcaniques et dont l’alignement sur l’axe bon-mauvais correspond à celui de la robe. Si votre alignement ne correspond pas à celui de la robe ou si vous n’êtes pas un incantateur arcanique, vous êtes stupéfié 2 à la place tant que vous portez une robe d’archimage. Cet état est impossible à retirer tant que vous portez la robe.<br /></span></p>\n<p><span>Les robes sont des vêtements d’explorateur de résilience supérieure +2 qui confèrent un bonus de circonstances de +1 aux jets de sauvegarde contre les sorts arcaniques et une résistance 10 aux dégâts des sorts arcaniques. <br /></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"systems/pf2e/icons/actions/Reaction.png\" alt=\"Reaction\" /> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous pouvez activer la robe quand vous ou un allié à 9 m ou moins faites un jet de sauvegarde contre un sort arcanique ; <strong>Effet</strong>  la robe confère à vous ou à l’allié un succès au jet de sauvegarde déclencheur .</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> Vous êtes un incantateur arcanique.</span></p>"
+            "description": "<p>Des motifs arcaniques ornés sont brodés au fil d’argent fin sur ces robes qui existent en trois couleurs différentes en fonction de l’alignement avec lequel chacune est harmonisée. Les robes harmonisées à l’alignement bon sont blanches, celles harmonisées à l’alignement neutre sont grises et celles harmonisées à l’alignement mauvais sont noires. Une robe d’alignement mauvais ou bon obtient le trait correspondant. Les robes profitent uniquement aux personnages capables de lancer des sorts arcaniques et dont l’alignement sur l’axe bon-mauvais correspond à celui de la robe. Si votre alignement ne correspond pas à celui de la robe ou si vous n’êtes pas un incantateur arcanique, vous êtes stupéfié 2 à la place tant que vous portez une robe d’archimage. Cet état est impossible à retirer tant que vous portez la robe.</p>\n<p>Les robes sont des <em>vêtements d’explorateur de résilience supérieure +2</em> qui confèrent un bonus de circonstances de +1 aux jets de sauvegarde contre les sorts arcaniques et une résistance 10 aux dégâts des sorts arcaniques. </p>\n<hr />\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">R</span> sur ordre; </p>\n<p><strong>Fréquence</strong> 1/jour; </p>\n<p><strong>Déclencheur</strong> Vous pouvez activer la robe quand vous ou un allié à 9 m ou moins faites un jet de sauvegarde contre un sort arcanique ;</p>\n<p><strong>Effet</strong>  la robe confère à vous ou à l’allié un succès au jet de sauvegarde déclencheur .</p>\n<hr />\n<p><strong>Conditions de fabrication</strong> Vous êtes un incantateur arcanique.</p>\n<hr />\n<p>Effets automatiquement appliqués::</p>\n<ul>\n<li>+1 bonus de circonstances aux jets de sauvegarde contre les sorts arcaniques</li>\n</ul>"
         },
         {
             "id": "Poisonous Cloak Type III",
@@ -2269,7 +2269,7 @@
         {
             "id": "Reflecting Shield",
             "name": "Reflecting Shield",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La surface de cette targe en argent de haute qualité (Solidité 6, 24 PV, SR 12) reflète comme un miroir tellement elle est polie. Le bouclier fonctionne comme un bouclier gardesort (voir ci‑après) qui peut également renvoyer des sorts. <br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Frequency</strong> 1/jour; <strong>Déclencheur</strong> Vous êtes la cible d’un sort ; <strong>Conditions</strong> Le <em>bouclier réfléchissant</em> est levé ;  <strong>Effet</strong> Vous tentez de renvoyer le sort sur son incantateur, avec les effets d’un @Compendium[pf2e.spells-srd.OOELvfkTedBMlWtq]{renvoi de sorts} de niveau 9 et un modificateur de contre de +40.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>renvoi de sorts</em> et les matières premières initiales doivent inclure au moins 2 750 po d’argent.\n</span></p>"
+            "description": "<p>La surface de cette targe en argent de haute qualité (Solidité 6, 24 PV, SR 12) reflète comme un miroir tellement elle est polie. Le bouclier fonctionne comme un bouclier gardesort qui peut également renvoyer des sorts.</p>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">R</span> sur ordre;</p>\n<p><strong>Frequency</strong> 1/jour;</p>\n<p><strong>Déclencheur</strong> Vous êtes la cible d’un sort ; </p>\n<p><strong>Conditions</strong> Le <em>bouclier réfléchissant</em> est levé ;</p>\n<p><strong>Effet</strong> Vous tentez de renvoyer le sort sur son incantateur, avec les effets d’un @Compendium[pf2e.spells-srd.OOELvfkTedBMlWtq]{renvoi de sorts} de niveau 9 et un modificateur de contre de [[/r 1d20+40]].</p>\n<hr />\n<p><strong>Conditions de fabrication</strong>  Fournir une incantation de <em>renvoi de sorts</em> et les matières premières initiales doivent inclure au moins 2 750 po d’argent.</p>"
         },
         {
             "id": "Silversheen",
@@ -2319,7 +2319,7 @@
         {
             "id": "Mithral Buckler (High-Grade)",
             "name": "Mithral Buckler (High-Grade)",
-            "description": "<p><span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.&nbsp;</span></p>\n<p><span>Le bouclier a une solidité de 6, 24 PV et un SR de 12.<br /><strong>Conditions de fabrication</strong> au moins 4 000 po de mithral</span></p>"
+            "description": "<p><span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.</span></p>\n<p><span>Le bouclier a une solidité de 6, 24 PV et un SR de 12.<br /><strong>Conditions de fabrication</strong> au moins 4 000 po de mithral</span></p>"
         },
         {
             "id": "Berserker's Cloak",
@@ -2464,7 +2464,7 @@
         {
             "id": "Impenetrable Scale",
             "name": "Impenetrable Scale",
-            "description": "<section class=\"content\">\n<p>Cette armure d’écailles en adamantium de fortification de résilience supérieure +2 est faite d’écailles noires et lustrées en adamantium de qualité standard qui se chevauchent et semblent s’épaissir momenta‑ nément au point d’impact lorsqu’elle encaisse un coup. Quand la rune de fortification remporte un succès en transformant un coup critique en coup normal, l’une des écailles devient violette. Vous gagnez une résistance aux dégâts physiques égale au nombre d’écailles violettes, sans dépasser 8.</p>\n<p>Chaque jour à l’aube, toutes les écailles violettes redeviennent normales.</p>\n<hr></section>\n<section class=\"content extra\">\n<p><strong>Conditions de fabrication</strong> Les matériaux initiaux bruts doivent inclure 1 600 po d’adamantium.</p>\n</section>"
+            "description": "<section class=\"content\">\n<p>Cette armure d’écailles en adamantium de @Compendium[pf2e.equipment-srd.8buhFcGwuaJRrp0y]{Fortification} de résilience supérieure +2 est faite d’écailles noires et lustrées en adamantium de qualité standard qui se chevauchent et semblent s’épaissir momenta‑ nément au point d’impact lorsqu’elle encaisse un coup.</p>\n<p>Quand la rune de fortification remporte un succès en transformant un coup critique en coup normal, l’une des écailles devient violette. Vous gagnez une résistance aux dégâts physiques égale au nombre d’écailles violettes, sans dépasser 8.</p>\n<p>Chaque jour à l’aube, toutes les écailles violettes redeviennent normales.</p>\n<hr /></section>\n<section class=\"content extra\">\n<p><strong>Conditions de fabrication</strong> Les matériaux initiaux bruts doivent inclure 1 600 po d’adamantium.</p>\n</section>"
         },
         {
             "id": "Emerald",
@@ -2694,7 +2694,7 @@
         {
             "id": "Darkwood Shield (High-Grade)",
             "name": "Darkwood Shield (High-Grade)",
-            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr>\n<p><span><strong>Conditions de fabrication</strong> au moins 4 400 po d'ébénite</span></p>"
+            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).</span></p>\n<p>Le bouclier a une Solidité de 8, 32 PV et un SR de 16.</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> au moins 4 400 po d'ébénite</span></p>"
         },
         {
             "id": "Light Hammer",
@@ -2719,7 +2719,7 @@
         {
             "id": "Backpack",
             "name": "Backpack",
-            "description": "<p>Un sac à dos peut contenir des objets jusqu’à un Encombrement 4. Si vous transportez ou stockez le sac plutôt que de l’avoir sur le dos, son Encombrement devient léger à la place de négligeable. Les deux premiers Encombrements que vous rangez dans votre  sac à dos ne sont pas pris en compte dans votre limite  d’Encombrement.\n.&nbsp;</p>"
+            "description": "<p>Un sac à dos peut contenir des objets jusqu’à un Encombrement 4. Si vous transportez ou stockez le sac plutôt que de l’avoir sur le dos, son Encombrement devient léger à la place de négligeable. Les deux premiers Encombrements que vous rangez dans votre  sac à dos ne sont pas pris en compte dans votre limite  d’Encombrement.</p>"
         },
         {
             "id": "Gold Dragon's Breath Potion (Young)",
@@ -2949,7 +2949,7 @@
         {
             "id": "Elven Chain (High-Grade)",
             "name": "Elven Chain (High-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La maille elfique est une chemise de mailles en mithral (p. 575) qui scintille même sous une très faible lumière. Elle donne un bonus d’objet de +2 à la CA et n’a pas de malus aux tests.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Créée par des artisans elfiques à l’aide d’antiques tech‑ niques artisanales, elle est exceptionnellement silen‑ cieuse. Contrairement aux autres chemises de mailles (même en mithral), elle ne possède pas le trait bruyante. On peut la graver de runes comme toute autre chemise de mailles en mithral.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication.</strong> Les matériaux de fabrication initiaux doivent comprendre une masse de mithral d’au moins 26 000 po. &nbsp;</span></p>"
+            "description": "<p><span>La maille elfique est une chemise de mailles en mithral qui scintille même sous une très faible lumière. Elle donne un bonus d’objet de +2 à la CA et n’a pas de malus aux tests.<br></span></p>\n<p><span>Créée par des artisans elfiques à l’aide d’antiques techniques artisanales, elle est exceptionnellement silencieuse. Contrairement aux autres chemises de mailles (même en mithral), elle ne possède pas le trait bruyante. On peut la graver de runes comme toute autre chemise de mailles en mithral.</span></p>\n<p><span><strong>Conditions de fabrication.</strong> Les matériaux de fabrication initiaux doivent comprendre une masse de mithral d’au moins 26 000 po. </span></p>"
         },
         {
             "id": "Religious Symbol (Silver)",
@@ -2964,7 +2964,7 @@
         {
             "id": "Sack",
             "name": "Sack",
-            "description": "<p>Un sac peut contenir des objets jusqu’à un Encombrement 8. Un sac contenant un Encombrement 2 ou moins peut être porté sur le corps, généralement noué à la ceinture. Vous pouvez porter un sac d’une seule main, mais vous devez utiliser les deux mains pour y transférer des objets ou les en retirer. &nbsp;</p>"
+            "description": "<p>Un sac peut contenir des objets jusqu’à un Encombrement 8. Un sac contenant un Encombrement 2 ou moins peut être porté sur le corps, généralement noué à la ceinture. Vous pouvez porter un sac d’une seule main, mais vous devez utiliser les deux mains pour y transférer des objets ou les en retirer.</p>"
         },
         {
             "id": "Shock",
@@ -3489,7 +3489,7 @@
         {
             "id": "Indestructible Shield",
             "name": "Indestructible Shield",
-            "description": "<p>Un bouclier indestructible est un bouclier en adamantium de haute qualité (Solidité 13, 90 PV) capable de résister à tous les dégâts. Seul le sort désintégration peut l’endommager (déterminez les dégâts comme s’il était lancé contre une créature qui a raté son jet de sauvegarde) ou un artefact associé à la destruction, tel qu’une sphère d’annihilation.</p>\n<hr />\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Les matières premières initiales doivent in‑ clure au moins 4 400 po d’adamantium.</span></p>"
+            "description": "<p>Un bouclier indestructible est un bouclier en adamantium de haute qualité (Solidité 13, 90 PV) capable de résister à tous les dégâts. Seul le sort désintégration peut l’endommager (déterminez les dégâts comme s’il était lancé contre une créature qui a raté son jet de sauvegarde) ou un artefact associé à la destruction, tel qu’une sphère d’annihilation.</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> Les matières premières initiales doivent inclure au moins 4 400 po d’adamantium.</span></p>"
         },
         {
             "id": "Mirror of Sorshen",
@@ -3884,7 +3884,7 @@
         {
             "id": "Sturdy Shield (Major)",
             "name": "Sturdy Shield (Major)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 17, 136 PV et un SR de 68.&nbsp;</span></p>"
+            "description": "<p><span>Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span>Le bouclier a une Solidité de 17, 136 PV et un SR de 68.</span></p>"
         },
         {
             "id": "Ring of Truth",
@@ -4544,7 +4544,7 @@
         {
             "id": "Sturdy Shield (Supreme)",
             "name": "Sturdy Shield (Supreme)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Le bouclier a une Solidité de 20, 160 PV et un SR de 80&nbsp;</span></p>"
+            "description": "<p><span>Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.</span></p>\n<p><span>Le bouclier a une Solidité de 20, 160 PV et un SR de 80</span></p>"
         },
         {
             "id": "Frost Vial (Lesser)",
@@ -4784,12 +4784,12 @@
         {
             "id": "Breastplate of Command (Greater)",
             "name": "Breastplate of Command (Greater)",
-            "description": "<p><span class=\"fontstyle0\">Cette cuirasse de résilience +2 est faite d’un bronze scintillant recou‑ vert de panneaux de renfort dorés en forme de têtes de lion. Elle vous donne une aura d’autorité. Vous gagnez un bonus d’objet de +3 aux tests de Diplomatie, mais vous subissez un malus d’objet de −3 aux tests de Discrétion pour Vous cacher et Être furtif et aux tests de Duperie pour Se déguiser. </span></p>\n<p><span class=\"fontstyle0\"><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\"> Sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Effet</strong> . Vous donnez à vos alliés dans un rayon de 30 m un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 min. Lorsque vous activez ce pouvoir, chaque allié affecté réduit sa valeur d’effrayé de 1.&nbsp;</span></span></p>"
+            "description": "<p>Cette cuirasse de résilience +2 est faite d’un bronze scintillant recouvert de panneaux de renfort dorés en forme de têtes de lion. Elle vous donne une aura d’autorité. Vous gagnez un bonus d’objet de +3 aux tests de Diplomatie, mais vous subissez un malus d’objet de −3 aux tests de Discrétion pour Vous cacher et Être furtif et aux tests de Duperie pour Se déguiser. </p>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>Sur ordre; </p>\n<p><strong>Fréquence</strong> 1/jour; </p>\n<p><strong>Effet</strong> . Vous donnez à vos alliés dans un rayon de 30 m un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 min. Lorsque vous activez ce pouvoir, chaque allié affecté réduit sa valeur d’effrayé de 1.</p>\n<p>@Compendium[pf2e.equipment-effects.G0lG7IIZnCZtYi6v]{Effect: Cuirasse de commandement}</p>\n<hr />\n<p>Effets automatiquement appliqués:</p>\n<ul>\n<li>+3 bonus d'item aux tests de Diplomatie</li>\n<li>-3 malus d'item aux tests de Discrétion pour Vous cacher et Être furtif</li>\n<li>-3 malus d'item aux tests de Duperie pour Se déguiser</li>\n</ul>"
         },
         {
             "id": "Floating Shield (Greater)",
             "name": "Floating Shield (Greater)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Des motifs d’aile sont souvent gravés sur un bouclier flottant. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiativ<br /></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/OneAction.png\" alt=\"Single Action\" /> Interagir; <strong>Fréquence</strong> Vous pouvez activer le bouclier autant de fois que vous le voulez par jour <strong>Effet</strong> Le bouclier se détache de votre bras et flotte à vos côtés en vous conférant automatiquement son bonus, comme si vous aviez Levé le bouclier. Étant donné que vous ne maniez pas le bouclier, vous ne pouvez pas utiliser de réactions telles que Blocage au bouclier avec lui mais vous profitez de ses avantages, même si vous utilisez déjà vos deux mains. Au bout d’une minute, le bouclier tombe au sol, ce qui met fin à l’effet flottant."
+            "description": "<p>Des motifs d’aile sont souvent gravés sur un <em>bouclier flottant</em>. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiative</p>\n<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir;</p>\n<p><strong>Fréquence</strong> Vous pouvez activer le bouclier autant de fois que vous le voulez par jour</p>\n<p><strong>Effet</strong> Le bouclier se détache de votre bras et flotte à vos côtés en vous conférant automatiquement son bonus, comme si vous aviez Levé le bouclier. Étant donné que vous ne maniez pas le bouclier, vous ne pouvez pas utiliser de réactions telles que Blocage au bouclier avec lui mais vous profitez de ses avantages, même si vous utilisez déjà vos deux mains. Au bout d’une minute, le bouclier tombe au sol, ce qui met fin à l’effet flottant.</p>"
         },
         {
             "id": "Blightburn Ward",
@@ -5414,7 +5414,7 @@
         {
             "id": "Mithral Shield (High-Grade)",
             "name": "Mithral Shield (High-Grade)",
-            "description": "<p><span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.&nbsp;</span></p>\n<p><span>Le bouclier a une solidité de 8, 32 PV et un SR de 16.<br><strong>Conditions de fabrication</strong> au moins 4 400 po de mithral&nbsp;</span></p>"
+            "description": "<p><span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.</span></p>\n<p><span>Le bouclier a une solidité de 8, 32 PV et un SR de 16.<br /><strong>Conditions de fabrication</strong> au moins 4 400 po de mithral</span></p>"
         },
         {
             "id": "Wooden Taws",
@@ -5519,7 +5519,7 @@
         {
             "id": "Darkwood Buckler (High-Grade)",
             "name": "Darkwood Buckler (High-Grade)",
-            "description": "<p>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).</p>\n<p>Le bouclier a une Solidité de 6, 24 PV et un SR de 12.</p>\n<hr>\n<p><strong>Conditions de fabrication</strong> au moins 4 000 po d'ébénite</p>"
+            "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).</span></p>\n<p>Le bouclier a une Solidité de 6, 24 PV et un SR de 12.</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> au moins 4 000 po d'ébénite</span></p>"
         },
         {
             "id": "Jet and white gold game set",
@@ -5849,7 +5849,7 @@
         {
             "id": "Adamantine Shield (High-Grade)",
             "name": "Adamantine Shield (High-Grade)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper&nbsp;</span></p>\n<p>Le bouclier a une Solidité de 13, 52 PV et un SR de 26.</p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> au moins 4&nbsp;400 po d’adamantium.&nbsp;</span></p>"
+            "description": "<p><span>Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper</span></p>\n<p>Le bouclier a une Solidité de 13, 52 PV et un SR de 26.</p>\n<hr />\n<p><span ><strong>Conditions de fabrication</strong> au moins 4400 po d’adamantium.</span></p>"
         },
         {
             "id": "Javelin of Lightning",

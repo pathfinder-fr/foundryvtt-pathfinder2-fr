@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 146
- * **changé**: 888
+ * **officielle**: 174
+ * **changé**: 860
  * **libre**: 160
  * **aucune**: 568
 
 
-Dernière mise à jour: 2021-03-17 19:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-23 21:15 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -600,12 +600,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-00-Yr9yCuJiAlFh3QEB.htm](equipment/armor-00-Yr9yCuJiAlFh3QEB.htm)|Steel Shield|Bouclier en acier|officielle|
 |[armor-00-zBYEU9E7034ENCmh.htm](equipment/armor-00-zBYEU9E7034ENCmh.htm)|Padded Armor|Armure matelassée|officielle|
 |[armor-01-6AhDKX1dwRwFpQsU.htm](equipment/armor-01-6AhDKX1dwRwFpQsU.htm)|Splint Mail|Clibanion|officielle|
-|[armor-01-pRoikbRo5HFW6YUB.htm](equipment/armor-01-pRoikbRo5HFW6YUB.htm)|Half Plate|Armure de plates|officielle|
+|[armor-01-pRoikbRo5HFW6YUB.htm](equipment/armor-01-pRoikbRo5HFW6YUB.htm)|Half Plate|Armure de plates|changé|
 |[armor-02-1xUIdz23mIlYWGPL.htm](equipment/armor-02-1xUIdz23mIlYWGPL.htm)|Silver Shield (Low-Grade)|Bouclier en argent (basse qualité)|officielle|
 |[armor-02-5E6l3RheSyl99G3m.htm](equipment/armor-02-5E6l3RheSyl99G3m.htm)|Cold Iron Shield (Low-Grade)|Bouclier en fer froid (basse qualité)|officielle|
 |[armor-02-aA9clnIP3deHNNjo.htm](equipment/armor-02-aA9clnIP3deHNNjo.htm)|Silver Buckler (Low-Grade)|Targe en argent (basse qualité)|officielle|
 |[armor-02-ckUxr51wJVGRNAD0.htm](equipment/armor-02-ckUxr51wJVGRNAD0.htm)|Cold Iron Buckler (Low-Grade)|Targe en fer froid de (basse qualité)|officielle|
-|[armor-02-Gq1cZWSKOtJhKd2p.htm](equipment/armor-02-Gq1cZWSKOtJhKd2p.htm)|Full Plate|Harnois|officielle|
+|[armor-02-Gq1cZWSKOtJhKd2p.htm](equipment/armor-02-Gq1cZWSKOtJhKd2p.htm)|Full Plate|Harnois|changé|
 |[armor-02-IxuDS3POB6EH8TVN.htm](equipment/armor-02-IxuDS3POB6EH8TVN.htm)|Glamorous Buckler|Targe étincelante|changé|
 |[armor-02-lCgXeV52eYYl5cUX.htm](equipment/armor-02-lCgXeV52eYYl5cUX.htm)|Hellknight Plate|Armure de Chevalier infernal|libre|
 |[armor-04-f9ygr5Cjrmop8LWV.htm](equipment/armor-04-f9ygr5Cjrmop8LWV.htm)|Sturdy Shield (Minor)|Bouclier renforcé (mineure)|officielle|
@@ -635,11 +635,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-10-8HxM35X8DDt2gw9d.htm](equipment/armor-10-8HxM35X8DDt2gw9d.htm)|Electric Eelskin|Peau d'anguille électrique|changé|
 |[armor-10-NoTUhKkiTY5BQU5T.htm](equipment/armor-10-NoTUhKkiTY5BQU5T.htm)|Forge Warden|Gardien de la forge|officielle|
 |[armor-10-pNQJ9PTOEHxEZCgp.htm](equipment/armor-10-pNQJ9PTOEHxEZCgp.htm)|Sturdy Shield (Moderate)|Bouclier renforcé (modéré)|officielle|
-|[armor-10-RUEAV5LMUGFHcXcW.htm](equipment/armor-10-RUEAV5LMUGFHcXcW.htm)|Breastplate of Command|Cuirasse de commandement|changé|
-|[armor-11-9ZGkQo739t9utj37.htm](equipment/armor-11-9ZGkQo739t9utj37.htm)|Arrow-Catching Shield|Bouclier intercepteur de projectiles|changé|
+|[armor-10-RUEAV5LMUGFHcXcW.htm](equipment/armor-10-RUEAV5LMUGFHcXcW.htm)|Breastplate of Command|Cuirasse de commandement|officielle|
+|[armor-11-9ZGkQo739t9utj37.htm](equipment/armor-11-9ZGkQo739t9utj37.htm)|Arrow-Catching Shield|Bouclier intercepteur de projectiles|officielle|
 |[armor-11-ydNocKN6afzIyVh6.htm](equipment/armor-11-ydNocKN6afzIyVh6.htm)|Floating Shield|Bouclier flottant|officielle|
 |[armor-13-2uHcTZ40oZ62R9gy.htm](equipment/armor-13-2uHcTZ40oZ62R9gy.htm)|Celestial Armor|Armure céleste|officielle|
-|[armor-13-AdJgj7vVvNGvPIEj.htm](equipment/armor-13-AdJgj7vVvNGvPIEj.htm)|Mail of Luck|Maille chanceuse|changé|
+|[armor-13-AdJgj7vVvNGvPIEj.htm](equipment/armor-13-AdJgj7vVvNGvPIEj.htm)|Mail of Luck|Maille chanceuse|officielle|
 |[armor-13-hYBZK1kaGPeR85CH.htm](equipment/armor-13-hYBZK1kaGPeR85CH.htm)|Demon Armor|Armure démoniaque|officielle|
 |[armor-13-peAvz7u35GEfTXxp.htm](equipment/armor-13-peAvz7u35GEfTXxp.htm)|Elven Chain (Standard-Grade)|Maille Elfique (qualité standard)|officielle|
 |[armor-13-rrnWORxT2Ch4pUFb.htm](equipment/armor-13-rrnWORxT2Ch4pUFb.htm)|Sturdy Shield (Greater)|Bouclier renforcé (supérieur)|officielle|
@@ -647,38 +647,38 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-15-aPD0z9dBsHqgiCW0.htm](equipment/armor-15-aPD0z9dBsHqgiCW0.htm)|Reforging Shield|Bouclier réparateur|officielle|
 |[armor-15-gp5kgCySEOuntQPF.htm](equipment/armor-15-gp5kgCySEOuntQPF.htm)|Plate Armor of the Deep|Harnois des profondeurs|officielle|
 |[armor-15-kCjvkkuI3JP4TQ0t.htm](equipment/armor-15-kCjvkkuI3JP4TQ0t.htm)|Cold Iron Buckler (High-Grade)|targe en fer froid de haute qualité|changé|
-|[armor-15-LboYDYZ0IbDWuWMl.htm](equipment/armor-15-LboYDYZ0IbDWuWMl.htm)|Silver Buckler (High-Grade)|targe en argent de haute qualité|changé|
+|[armor-15-LboYDYZ0IbDWuWMl.htm](equipment/armor-15-LboYDYZ0IbDWuWMl.htm)|Silver Buckler (High-Grade)|targe en argent de haute qualité|officielle|
 |[armor-15-nRmGErgTLZYf6WMD.htm](equipment/armor-15-nRmGErgTLZYf6WMD.htm)|Cold Iron Shield (High-Grade)|bouclier en fer froid de haute qualité|officielle|
 |[armor-15-pRzafUKQviDSMRJp.htm](equipment/armor-15-pRzafUKQviDSMRJp.htm)|Silver Shield (High-Grade)|bouclier en argent de haute qualité|officielle|
 |[armor-15-Wkh5rQx3IqInEKdT.htm](equipment/armor-15-Wkh5rQx3IqInEKdT.htm)|Robe of the Archmagi|Robe d'Archimage|officielle|
 |[armor-16-3xsQ1AA4dyMHLxpw.htm](equipment/armor-16-3xsQ1AA4dyMHLxpw.htm)|Dragonplate|Harnois du dragon|officielle|
-|[armor-16-5dBSn9brsT9NISoR.htm](equipment/armor-16-5dBSn9brsT9NISoR.htm)|Mithral Shield (High-Grade)|bouclier en mithral de haute qualité|changé|
-|[armor-16-8gcuJ2Ev3euFyXnS.htm](equipment/armor-16-8gcuJ2Ev3euFyXnS.htm)|Darkwood Tower Shield (High-Grade)|pavois en ébénite de haute qualité|changé|
-|[armor-16-AbYyx61j1K4F27tC.htm](equipment/armor-16-AbYyx61j1K4F27tC.htm)|Adamantine Buckler (High-Grade)|Targe en adamantium (Haute qualité)|changé|
-|[armor-16-BWQzaHbGVqlBuMww.htm](equipment/armor-16-BWQzaHbGVqlBuMww.htm)|Sturdy Shield (Major)|Bouclier renforcé (majeure)|changé|
+|[armor-16-5dBSn9brsT9NISoR.htm](equipment/armor-16-5dBSn9brsT9NISoR.htm)|Mithral Shield (High-Grade)|bouclier en mithral de haute qualité|officielle|
+|[armor-16-8gcuJ2Ev3euFyXnS.htm](equipment/armor-16-8gcuJ2Ev3euFyXnS.htm)|Darkwood Tower Shield (High-Grade)|pavois en ébénite de haute qualité|officielle|
+|[armor-16-AbYyx61j1K4F27tC.htm](equipment/armor-16-AbYyx61j1K4F27tC.htm)|Adamantine Buckler (High-Grade)|Targe en adamantium (Haute qualité)|officielle|
+|[armor-16-BWQzaHbGVqlBuMww.htm](equipment/armor-16-BWQzaHbGVqlBuMww.htm)|Sturdy Shield (Major)|Bouclier renforcé (majeure)|officielle|
 |[armor-16-LVixPROPOwIfHgEK.htm](equipment/armor-16-LVixPROPOwIfHgEK.htm)|Dragonhide Shield (High-Grade)|Bouclier en Peau de Dragon de Haute Qualité|changé|
 |[armor-16-R1I1MEKwDYtCfZr3.htm](equipment/armor-16-R1I1MEKwDYtCfZr3.htm)|Dragonhide Buckler (High-Grade)|Targe en peau de dragon (Haute qualité)|changé|
-|[armor-16-rA1hULhhqOP2u4Ze.htm](equipment/armor-16-rA1hULhhqOP2u4Ze.htm)|Adamantine Shield (High-Grade)|Bouclier en adamantium (Haute qualité)|changé|
-|[armor-16-sRHR4cEo8WnowjU3.htm](equipment/armor-16-sRHR4cEo8WnowjU3.htm)|Darkwood Buckler (High-Grade)|targe en ébénite de haute qualité|changé|
-|[armor-16-uAs0hUUgROrndceD.htm](equipment/armor-16-uAs0hUUgROrndceD.htm)|Floating Shield (Greater)|Bouclier flottant (supérieur)|changé|
-|[armor-16-V4kbHwiODxwJOJga.htm](equipment/armor-16-V4kbHwiODxwJOJga.htm)|Darkwood Shield (High-Grade)|bouclier en ébénite de haute qualité|changé|
-|[armor-16-ZZrCiVcoKinA5wyu.htm](equipment/armor-16-ZZrCiVcoKinA5wyu.htm)|Mithral Buckler (High-Grade)|targe en mithral de haute qualité|changé|
-|[armor-17-aLA7pikfeNIAAGLw.htm](equipment/armor-17-aLA7pikfeNIAAGLw.htm)|Impenetrable Scale|Armure impénétrable|changé|
-|[armor-17-OKo8ub6D11ztZc2V.htm](equipment/armor-17-OKo8ub6D11ztZc2V.htm)|Orichalcum Buckler (High-Grade)|targe en orichalque de haute qualité|changé|
-|[armor-17-PeS3J9r4ss7gNytK.htm](equipment/armor-17-PeS3J9r4ss7gNytK.htm)|Orichalcum Shield (High-Grade)|bouclier en orichalque de haute qualité|changé|
-|[armor-18-La9qYc5NHsg423Jb.htm](equipment/armor-18-La9qYc5NHsg423Jb.htm)|Reflecting Shield|Bouclier réfléchissant|changé|
-|[armor-18-SUbYk6B1iPoGyyjh.htm](equipment/armor-18-SUbYk6B1iPoGyyjh.htm)|Indestructible Shield|Bouclier indestructible|changé|
-|[armor-18-XKON66YXYLXlGPPg.htm](equipment/armor-18-XKON66YXYLXlGPPg.htm)|Breastplate of Command (Greater)|Cuirasse de commandement (supérieur)|changé|
-|[armor-19-7ynjS9llFg7tPMoj.htm](equipment/armor-19-7ynjS9llFg7tPMoj.htm)|Robe of the Archmagi (Greater)|Robe de l'archimage (supérieure)|changé|
-|[armor-19-7Z8XXGiUiyyisKOD.htm](equipment/armor-19-7Z8XXGiUiyyisKOD.htm)|Sturdy Shield (Supreme)|Bouclier renforcé (ultime)|changé|
-|[armor-20-PuqdH7DmNsN79HyE.htm](equipment/armor-20-PuqdH7DmNsN79HyE.htm)|Elven Chain (High-Grade)|Maille elfique (haute qualité)|changé|
-|[backpack-00-3lgwjrFEsQVKzhh7.htm](equipment/backpack-00-3lgwjrFEsQVKzhh7.htm)|Backpack|Sac à dos|changé|
-|[backpack-00-DujblC14ytJEZMaz.htm](equipment/backpack-00-DujblC14ytJEZMaz.htm)|Sack|Sac|changé|
-|[backpack-00-eFqKVKrf62XOGWUw.htm](equipment/backpack-00-eFqKVKrf62XOGWUw.htm)|Belt Pouch|Bourse|changé|
-|[backpack-00-HamOU17sqb5ljiB5.htm](equipment/backpack-00-HamOU17sqb5ljiB5.htm)|Bandolier|Bandoulière|changé|
-|[backpack-00-mBziC8v2eOtTs0f5.htm](equipment/backpack-00-mBziC8v2eOtTs0f5.htm)|Saddlebags|Fontes|changé|
-|[backpack-00-OdVDPN9vIpu3Zud3.htm](equipment/backpack-00-OdVDPN9vIpu3Zud3.htm)|Chest|Coffre|changé|
-|[backpack-00-tYBW8TBF8WOAp3x0.htm](equipment/backpack-00-tYBW8TBF8WOAp3x0.htm)|Satchel|Sacoche|changé|
+|[armor-16-rA1hULhhqOP2u4Ze.htm](equipment/armor-16-rA1hULhhqOP2u4Ze.htm)|Adamantine Shield (High-Grade)|Bouclier en adamantium (Haute qualité)|officielle|
+|[armor-16-sRHR4cEo8WnowjU3.htm](equipment/armor-16-sRHR4cEo8WnowjU3.htm)|Darkwood Buckler (High-Grade)|targe en ébénite de haute qualité|officielle|
+|[armor-16-uAs0hUUgROrndceD.htm](equipment/armor-16-uAs0hUUgROrndceD.htm)|Floating Shield (Greater)|Bouclier flottant (supérieur)|officielle|
+|[armor-16-V4kbHwiODxwJOJga.htm](equipment/armor-16-V4kbHwiODxwJOJga.htm)|Darkwood Shield (High-Grade)|bouclier en ébénite de haute qualité|officielle|
+|[armor-16-ZZrCiVcoKinA5wyu.htm](equipment/armor-16-ZZrCiVcoKinA5wyu.htm)|Mithral Buckler (High-Grade)|targe en mithral de haute qualité|officielle|
+|[armor-17-aLA7pikfeNIAAGLw.htm](equipment/armor-17-aLA7pikfeNIAAGLw.htm)|Impenetrable Scale|Armure impénétrable|officielle|
+|[armor-17-OKo8ub6D11ztZc2V.htm](equipment/armor-17-OKo8ub6D11ztZc2V.htm)|Orichalcum Buckler (High-Grade)|targe en orichalque de haute qualité|officielle|
+|[armor-17-PeS3J9r4ss7gNytK.htm](equipment/armor-17-PeS3J9r4ss7gNytK.htm)|Orichalcum Shield (High-Grade)|bouclier en orichalque de haute qualité|officielle|
+|[armor-18-La9qYc5NHsg423Jb.htm](equipment/armor-18-La9qYc5NHsg423Jb.htm)|Reflecting Shield|Bouclier réfléchissant|officielle|
+|[armor-18-SUbYk6B1iPoGyyjh.htm](equipment/armor-18-SUbYk6B1iPoGyyjh.htm)|Indestructible Shield|Bouclier indestructible|officielle|
+|[armor-18-XKON66YXYLXlGPPg.htm](equipment/armor-18-XKON66YXYLXlGPPg.htm)|Breastplate of Command (Greater)|Cuirasse de commandement (supérieur)|officielle|
+|[armor-19-7ynjS9llFg7tPMoj.htm](equipment/armor-19-7ynjS9llFg7tPMoj.htm)|Robe of the Archmagi (Greater)|Robe de l'archimage (supérieure)|officielle|
+|[armor-19-7Z8XXGiUiyyisKOD.htm](equipment/armor-19-7Z8XXGiUiyyisKOD.htm)|Sturdy Shield (Supreme)|Bouclier renforcé (ultime)|officielle|
+|[armor-20-PuqdH7DmNsN79HyE.htm](equipment/armor-20-PuqdH7DmNsN79HyE.htm)|Elven Chain (High-Grade)|Maille elfique (haute qualité)|officielle|
+|[backpack-00-3lgwjrFEsQVKzhh7.htm](equipment/backpack-00-3lgwjrFEsQVKzhh7.htm)|Backpack|Sac à dos|officielle|
+|[backpack-00-DujblC14ytJEZMaz.htm](equipment/backpack-00-DujblC14ytJEZMaz.htm)|Sack|Sac|officielle|
+|[backpack-00-eFqKVKrf62XOGWUw.htm](equipment/backpack-00-eFqKVKrf62XOGWUw.htm)|Belt Pouch|Bourse|officielle|
+|[backpack-00-HamOU17sqb5ljiB5.htm](equipment/backpack-00-HamOU17sqb5ljiB5.htm)|Bandolier|Bandoulière|officielle|
+|[backpack-00-mBziC8v2eOtTs0f5.htm](equipment/backpack-00-mBziC8v2eOtTs0f5.htm)|Saddlebags|Fontes|officielle|
+|[backpack-00-OdVDPN9vIpu3Zud3.htm](equipment/backpack-00-OdVDPN9vIpu3Zud3.htm)|Chest|Coffre|officielle|
+|[backpack-00-tYBW8TBF8WOAp3x0.htm](equipment/backpack-00-tYBW8TBF8WOAp3x0.htm)|Satchel|Sacoche|officielle|
 |[backpack-04-jaEEvuQ32GjAa8jy.htm](equipment/backpack-04-jaEEvuQ32GjAa8jy.htm)|Bag of Holding (Type I)|Sac sans fond (type1)|changé|
 |[backpack-04-W5znRDeklmWEGzFY.htm](equipment/backpack-04-W5znRDeklmWEGzFY.htm)|Bag of Weasels|Sac de belettes|officielle|
 |[backpack-06-0c7zLY9c88K2n0GC.htm](equipment/backpack-06-0c7zLY9c88K2n0GC.htm)|Pathfinder's Pouch|Bourse d'Éclaireur|changé|
@@ -781,7 +781,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-03-n52BSbZsnx4Vmt2p.htm](equipment/consumable-03-n52BSbZsnx4Vmt2p.htm)|Quicksilver Mutagen (Moderate)|Mutagène de vif-argent (modéré)|changé|
 |[consumable-03-NSo0bFX7DGGjqKKl.htm](equipment/consumable-03-NSo0bFX7DGGjqKKl.htm)|Spellstrike Ammunition (Type I)|Munition de frappe magique (Type I)|changé|
 |[consumable-03-QN8UIz0nMcnLUWHu.htm](equipment/consumable-03-QN8UIz0nMcnLUWHu.htm)|Oil of Mending|Huile de réparation|changé|
-|[consumable-03-qpzL9UnTi4cDhy6J.htm](equipment/consumable-03-qpzL9UnTi4cDhy6J.htm)|Cognitive Mutagen (Moderate)|Mutagènhe cognitif (modéré)|changé|
+|[consumable-03-qpzL9UnTi4cDhy6J.htm](equipment/consumable-03-qpzL9UnTi4cDhy6J.htm)|Cognitive Mutagen (Moderate)|Mutagène cognitif (modéré)|officielle|
 |[consumable-03-qQqAY59NgGNoy2xr.htm](equipment/consumable-03-qQqAY59NgGNoy2xr.htm)|Graveroot|Racine des tombes|changé|
 |[consumable-03-RcQ4ZIzRK2xLf4G5.htm](equipment/consumable-03-RcQ4ZIzRK2xLf4G5.htm)|Sleep Arrow|Flèche soporifique|changé|
 |[consumable-03-taAjenWKjBJpQyrE.htm](equipment/consumable-03-taAjenWKjBJpQyrE.htm)|Beacon Shot|Signal lumineux|changé|
