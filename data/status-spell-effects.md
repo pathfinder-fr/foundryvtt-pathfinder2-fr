@@ -1,10 +1,10 @@
 # État de la traduction (spell-effects)
 
- * **aucune**: 104
+ * **aucune**: 114
  * **libre**: 5
 
 
-Dernière mise à jour: 2021-03-23 21:15 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-03-27 17:45 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -107,9 +107,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[05-kxMBdANwCcF841uA.htm](spell-effects/05-kxMBdANwCcF841uA.htm)|Spell Effect: Elemental Form (Water)|
 |[05-phIoucsDa3iplMm2.htm](spell-effects/05-phIoucsDa3iplMm2.htm)|Spell Effect: Elemental Form (Fire)|
 |[05-tu8FyCtmL3YYR2jL.htm](spell-effects/05-tu8FyCtmL3YYR2jL.htm)|Spell Effect: Plant Form (Arboreal)|
+|[06-8aNZhlkzRTRKlKag.htm](spell-effects/06-8aNZhlkzRTRKlKag.htm)|Spell Effect: Dragon Form (Gold)|
+|[06-DrNpuMj14wVj4bWF.htm](spell-effects/06-DrNpuMj14wVj4bWF.htm)|Spell Effect: Dragon Form (Copper)|
+|[06-ETgzIIv3M2zvclAR.htm](spell-effects/06-ETgzIIv3M2zvclAR.htm)|Spell Effect: Dragon Form (Blue)|
+|[06-H6ndYYYlADWwqVQb.htm](spell-effects/06-H6ndYYYlADWwqVQb.htm)|Spell Effect: Dragon Form (White)|
+|[06-jtW3VfI5Kktuy3GH.htm](spell-effects/06-jtW3VfI5Kktuy3GH.htm)|Spell Effect: Dragon Form (Bronze)|
+|[06-nWEx5kpkE8YlBZvy.htm](spell-effects/06-nWEx5kpkE8YlBZvy.htm)|Spell Effect: Dragon Form (Green)|
+|[06-OeCn76SB92GPOZwr.htm](spell-effects/06-OeCn76SB92GPOZwr.htm)|Spell Effect: Dragon Form (Brass)|
+|[06-TUyEeLyqdJL6PwbH.htm](spell-effects/06-TUyEeLyqdJL6PwbH.htm)|Spell Effect: Dragon Form (Silver)|
+|[06-V4a9pZHNUlddAwTA.htm](spell-effects/06-V4a9pZHNUlddAwTA.htm)|Spell Effect: Dragon Form (Red)|
 |[08-b8bfWIICHOsGVzjp.htm](spell-effects/08-b8bfWIICHOsGVzjp.htm)|Spell Effect: Monstrosity Form (Phoenix)|
 |[08-Eik8Fj8nGo2GLcbn.htm](spell-effects/08-Eik8Fj8nGo2GLcbn.htm)|Spell Effect: Monstrosity Form (Sea Serpent)|
 |[08-rEsgDhunQ5Yx8KZx.htm](spell-effects/08-rEsgDhunQ5Yx8KZx.htm)|Spell Effect: Monstrosity Form (Purple Worm)|
+|[08-rHXOZAFBdRXIlxt5.htm](spell-effects/08-rHXOZAFBdRXIlxt5.htm)|Spell Effect: Dragon Form (Black)|
 |[10-blBXnWb1Y8q8YYMh.htm](spell-effects/10-blBXnWb1Y8q8YYMh.htm)|Spell Effect: Primal Summons (Fire)|
 |[10-fwaAe71qfnK7SiOB.htm](spell-effects/10-fwaAe71qfnK7SiOB.htm)|Spell Effect: Primal Summons (Air)|
 |[10-NXzo2kdgVixIZ2T1.htm](spell-effects/10-NXzo2kdgVixIZ2T1.htm)|Spell Effect: Apex Companion|
