@@ -1,24 +1,18 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 135
+ * **libre**: 133
  * **officielle**: 28
- * **aucune**: 8
- * **changé**: 3
+ * **changé**: 11
+ * **aucune**: 2
 
 
-Dernière mise à jour: 2021-03-27 17:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-02 22:17 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[feat-01-7wdeVadvchdM0aPK.htm](ancestryfeatures/feat-01-7wdeVadvchdM0aPK.htm)|Mistbreath Azarketi|
-|[feat-01-GlejQr3rBh3sn8sL.htm](ancestryfeatures/feat-01-GlejQr3rBh3sn8sL.htm)|River Azarketi|
-|[feat-01-HFHSh2RWuxa4GhhQ.htm](ancestryfeatures/feat-01-HFHSh2RWuxa4GhhQ.htm)|Benthic Azarketi|
-|[feat-01-kMgyOI4kBIEtFvhb.htm](ancestryfeatures/feat-01-kMgyOI4kBIEtFvhb.htm)|Swim|
-|[feat-01-mBH1L01kYmB8EL56.htm](ancestryfeatures/feat-01-mBH1L01kYmB8EL56.htm)|Empty Sky Kitsune|
-|[feat-01-qbWaybAX1LK7kUyY.htm](ancestryfeatures/feat-01-qbWaybAX1LK7kUyY.htm)|Thalassic Azarketi|
 |[feat-01-vt67b8uoNEbskcBv.htm](ancestryfeatures/feat-01-vt67b8uoNEbskcBv.htm)|Hydration|
 |[feat-01-zPhArF36ZVgLeVUU.htm](ancestryfeatures/feat-01-zPhArF36ZVgLeVUU.htm)|Ancient Scale Azarketi|
 
@@ -39,7 +33,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-35k2aujXYvqUCSS1.htm](ancestryfeatures/feat-01-35k2aujXYvqUCSS1.htm)|Cavern Kobold|Kobold cavernicole|libre|
 |[feat-01-3F5ffk7cmnrBhPcT.htm](ancestryfeatures/feat-01-3F5ffk7cmnrBhPcT.htm)|Liminal Catfolk|Homme-félin liminaire|libre|
 |[feat-01-3reGfXH0S82hM7Gp.htm](ancestryfeatures/feat-01-3reGfXH0S82hM7Gp.htm)|Ganzi|Ganzi|libre|
-|[feat-01-5A1wMPdzN1OWE4cY.htm](ancestryfeatures/feat-01-5A1wMPdzN1OWE4cY.htm)|Caveclimber Kobold|Kobold grimpegrotte|libre|
+|[feat-01-5A1wMPdzN1OWE4cY.htm](ancestryfeatures/feat-01-5A1wMPdzN1OWE4cY.htm)|Caveclimber Kobold|Kobold grimpegrotte|changé|
 |[feat-01-5CqsBKCZuGON53Hk.htm](ancestryfeatures/feat-01-5CqsBKCZuGON53Hk.htm)|Forge Dwarf|Nain des forges|officielle|
 |[feat-01-6dMd4JG0ndrObEUj.htm](ancestryfeatures/feat-01-6dMd4JG0ndrObEUj.htm)|Winter Catfolk|Homme-félin hivernal|libre|
 |[feat-01-6rIIsZg3tOyIU3g3.htm](ancestryfeatures/feat-01-6rIIsZg3tOyIU3g3.htm)|Frilled Lizardfolk|Homme-lézard à colerette|libre|
@@ -47,6 +41,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-7lFPhRMAFXQsXUP2.htm](ancestryfeatures/feat-01-7lFPhRMAFXQsXUP2.htm)|Snow Rat|Rat Neige|libre|
 |[feat-01-7p9HtLzWBHc18JDW.htm](ancestryfeatures/feat-01-7p9HtLzWBHc18JDW.htm)|Deep Rat|Rat des profondeurs|libre|
 |[feat-01-7vHLPleFpSqKAjWG.htm](ancestryfeatures/feat-01-7vHLPleFpSqKAjWG.htm)|Stormtossed Tengu|Tengu battu par les vents|libre|
+|[feat-01-7wdeVadvchdM0aPK.htm](ancestryfeatures/feat-01-7wdeVadvchdM0aPK.htm)|Mistbreath Azarketi|Azarketi Soufflebrume|libre|
 |[feat-01-7ZDCShtRg5QZggrU.htm](ancestryfeatures/feat-01-7ZDCShtRg5QZggrU.htm)|Inured Azarketi|Azarketi endurci|libre|
 |[feat-01-85tRKGZUTFa6pKpG.htm](ancestryfeatures/feat-01-85tRKGZUTFa6pKpG.htm)|Oathkeeper Dwarf|Nain gardeserment|libre|
 |[feat-01-87h0jepQuzIbN7jN.htm](ancestryfeatures/feat-01-87h0jepQuzIbN7jN.htm)|Fungus Leshy|Léchi fongique|libre|
@@ -57,9 +52,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-a6F2WjYU8D0suT8T.htm](ancestryfeatures/feat-01-a6F2WjYU8D0suT8T.htm)|Razortooth Goblin|Gobelin Dent’rasoir|officielle|
 |[feat-01-AzGJN1wwLFaLJIeo.htm](ancestryfeatures/feat-01-AzGJN1wwLFaLJIeo.htm)|Aquatic Adaptation|Adaptation aquatique|libre|
 |[feat-01-BFOsMnWfXL1oaWkY.htm](ancestryfeatures/feat-01-BFOsMnWfXL1oaWkY.htm)|Steelskin Hobgoblin|Hobgobelin Peaud'acier|libre|
-|[feat-01-BjuZKA7lzFSjKbif.htm](ancestryfeatures/feat-01-BjuZKA7lzFSjKbif.htm)|Polyglot Android|Androïde polyglotte|libre|
+|[feat-01-BjuZKA7lzFSjKbif.htm](ancestryfeatures/feat-01-BjuZKA7lzFSjKbif.htm)|Polyglot Android|Androïde polyglotte|changé|
 |[feat-01-bLhIBwqdjTiVJ5qm.htm](ancestryfeatures/feat-01-bLhIBwqdjTiVJ5qm.htm)|Clawed Catfolk|Homme-félin griffu|libre|
-|[feat-01-CCwTBSNTw0caN1jd.htm](ancestryfeatures/feat-01-CCwTBSNTw0caN1jd.htm)|Mutated Fleshwarp|Distordu mutant|changé|
+|[feat-01-CCwTBSNTw0caN1jd.htm](ancestryfeatures/feat-01-CCwTBSNTw0caN1jd.htm)|Mutated Fleshwarp|Distordu mutant|libre|
 |[feat-01-cCy8vsZENlwiAyZ6.htm](ancestryfeatures/feat-01-cCy8vsZENlwiAyZ6.htm)|Twilight Halfling|Halfelin du crépuscule|officielle|
 |[feat-01-CzOHITB2ihLGqMuJ.htm](ancestryfeatures/feat-01-CzOHITB2ihLGqMuJ.htm)|Runtboss Hobgoblin|Hobgobelin commandant avorton|libre|
 |[feat-01-CZx9HMmoOwcpkLY8.htm](ancestryfeatures/feat-01-CZx9HMmoOwcpkLY8.htm)|Root Leshy|Léchi racine|libre|
@@ -75,20 +70,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-egpiSWBrNBb1Fmig.htm](ancestryfeatures/feat-01-egpiSWBrNBb1Fmig.htm)|Draconic Exemplar|Modèle draconique|changé|
 |[feat-01-EKY9v7SF1hVsUdbH.htm](ancestryfeatures/feat-01-EKY9v7SF1hVsUdbH.htm)|Changeling|Changelin|libre|
 |[feat-01-Eq42wZ5OTweJLnLU.htm](ancestryfeatures/feat-01-Eq42wZ5OTweJLnLU.htm)|Gutsy Halfling|Halfelin flegmatique|officielle|
-|[feat-01-etkuQkjkNLPLnjkA.htm](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Wellspring Gnome|Gnome source|changé|
+|[feat-01-etkuQkjkNLPLnjkA.htm](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Wellspring Gnome|Gnome source|libre|
 |[feat-01-evXJISqyhl3fHE9u.htm](ancestryfeatures/feat-01-evXJISqyhl3fHE9u.htm)|Vine Leshy|Léchi à liane|libre|
 |[feat-01-fROPRHGyUn4PgcER.htm](ancestryfeatures/feat-01-fROPRHGyUn4PgcER.htm)|Longsnout Rat|Rat à long museau|libre|
 |[feat-01-fWT7Mo2vFC10H4Wq.htm](ancestryfeatures/feat-01-fWT7Mo2vFC10H4Wq.htm)|Songbird Strix|Strix oiseauchanteur|libre|
 |[feat-01-g4FRxyuHndZu4KTo.htm](ancestryfeatures/feat-01-g4FRxyuHndZu4KTo.htm)|Jinxed Tengu|Tengu maudit|libre|
-|[feat-01-G8jfMayPv4vZvAVr.htm](ancestryfeatures/feat-01-G8jfMayPv4vZvAVr.htm)|Sylph|Sylphe|libre|
+|[feat-01-G8jfMayPv4vZvAVr.htm](ancestryfeatures/feat-01-G8jfMayPv4vZvAVr.htm)|Sylph|Sylphe|changé|
 |[feat-01-G9Gwfi8ZIva52uGp.htm](ancestryfeatures/feat-01-G9Gwfi8ZIva52uGp.htm)|Jinxed Halfling|Halfelin maudit|libre|
 |[feat-01-GAn2cdhBE9Bqa85s.htm](ancestryfeatures/feat-01-GAn2cdhBE9Bqa85s.htm)|Beastkin|Beastkin|libre|
 |[feat-01-gfXSF1TafBAmZo2u.htm](ancestryfeatures/feat-01-gfXSF1TafBAmZo2u.htm)|Grig|Grig|libre|
-|[feat-01-Gmk7oNITvMVBy78Z.htm](ancestryfeatures/feat-01-Gmk7oNITvMVBy78Z.htm)|Undine|Ondin|libre|
+|[feat-01-GlejQr3rBh3sn8sL.htm](ancestryfeatures/feat-01-GlejQr3rBh3sn8sL.htm)|River Azarketi|Azarketi fluvial|libre|
+|[feat-01-Gmk7oNITvMVBy78Z.htm](ancestryfeatures/feat-01-Gmk7oNITvMVBy78Z.htm)|Undine|Ondin|changé|
 |[feat-01-gQyPU441J3rGt8mD.htm](ancestryfeatures/feat-01-gQyPU441J3rGt8mD.htm)|Snow Goblin|Gobelin des Neiges|officielle|
 |[feat-01-gyoN45SVfRZwHMkk.htm](ancestryfeatures/feat-01-gyoN45SVfRZwHMkk.htm)|Irongut Goblin|Gobelin Boyaud’fer|officielle|
 |[feat-01-h2VKMYAlUIFAAXVG.htm](ancestryfeatures/feat-01-h2VKMYAlUIFAAXVG.htm)|Nyktera|Nyctère|libre|
 |[feat-01-hFBwsVcSnNCJoimo.htm](ancestryfeatures/feat-01-hFBwsVcSnNCJoimo.htm)|Versatile Heritage|Héritage polyvalent|officielle|
+|[feat-01-HFHSh2RWuxa4GhhQ.htm](ancestryfeatures/feat-01-HFHSh2RWuxa4GhhQ.htm)|Benthic Azarketi|Azarketi des profondeurs|changé|
 |[feat-01-HHVQDp61ehcpdiU8.htm](ancestryfeatures/feat-01-HHVQDp61ehcpdiU8.htm)|Darkvision|Vision dans le noir|officielle|
 |[feat-01-hOPOyyt7qZXYYCOU.htm](ancestryfeatures/feat-01-hOPOyyt7qZXYYCOU.htm)|Nine Lives Catfolk|Homme-félin aux neuf vies|libre|
 |[feat-01-HpqQ5VQ0w4HqYgVC.htm](ancestryfeatures/feat-01-HpqQ5VQ0w4HqYgVC.htm)|Jungle Catfolk|Homme-félin de la jungle|libre|
@@ -97,7 +94,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-ievKYUc53q0mroGp.htm](ancestryfeatures/feat-01-ievKYUc53q0mroGp.htm)|Lotus Leshy|Léchi lotus|libre|
 |[feat-01-ikNJZRxUjcRLisO6.htm](ancestryfeatures/feat-01-ikNJZRxUjcRLisO6.htm)|Elfbane Hobgoblin|Hobgobelin fléau elfique|libre|
 |[feat-01-isJhIPhT4MsjJvoq.htm](ancestryfeatures/feat-01-isJhIPhT4MsjJvoq.htm)|Fishseeker Shoony|Shoony Traquepoisson|libre|
-|[feat-01-ITgkqfnAOJCbcIys.htm](ancestryfeatures/feat-01-ITgkqfnAOJCbcIys.htm)|Oread|Oréade|libre|
+|[feat-01-ITgkqfnAOJCbcIys.htm](ancestryfeatures/feat-01-ITgkqfnAOJCbcIys.htm)|Oread|Oréade|changé|
 |[feat-01-iY2CCqoMc2bRdoas.htm](ancestryfeatures/feat-01-iY2CCqoMc2bRdoas.htm)|Created Fleshwarp|Distordu créé|libre|
 |[feat-01-j0R1SyJP8k4G2Hkn.htm](ancestryfeatures/feat-01-j0R1SyJP8k4G2Hkn.htm)|Scavenger Strix|Strix récupérateur|libre|
 |[feat-01-jEtVesbqYcWGbBYk.htm](ancestryfeatures/feat-01-jEtVesbqYcWGbBYk.htm)|Seer Elf|Elfe visionnaire|libre|
@@ -106,6 +103,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-kHHcvJBJNiPJTuna.htm](ancestryfeatures/feat-01-kHHcvJBJNiPJTuna.htm)|Wisp Fetchling|Fetchelin volute|libre|
 |[feat-01-kHT9dFJt5yTjeYoB.htm](ancestryfeatures/feat-01-kHT9dFJt5yTjeYoB.htm)|Frozen Wind Kitsune|Kitsune Vent glacé|libre|
 |[feat-01-kiKxnKd7Dfegk9dM.htm](ancestryfeatures/feat-01-kiKxnKd7Dfegk9dM.htm)|Desert Elf|Elfe du désert|libre|
+|[feat-01-kMgyOI4kBIEtFvhb.htm](ancestryfeatures/feat-01-kMgyOI4kBIEtFvhb.htm)|Swim|Nage|libre|
 |[feat-01-KO33MNyY9VqNQmbZ.htm](ancestryfeatures/feat-01-KO33MNyY9VqNQmbZ.htm)|Wintertouched Human|Humain touché par l'hiver|libre|
 |[feat-01-kRDsVbhdBVeSlpBa.htm](ancestryfeatures/feat-01-kRDsVbhdBVeSlpBa.htm)|Anvil Dwarf|Nain de la forge|libre|
 |[feat-01-L6zfGzLMDLHbZ7VV.htm](ancestryfeatures/feat-01-L6zfGzLMDLHbZ7VV.htm)|Fruit Leshy|Léchi fruit|libre|
@@ -113,6 +111,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-Lp7ywxabmm88Gei6.htm](ancestryfeatures/feat-01-Lp7ywxabmm88Gei6.htm)|Observant Halfling|Halfelin observateur|libre|
 |[feat-01-LU4i3qXtyzeTGWZQ.htm](ancestryfeatures/feat-01-LU4i3qXtyzeTGWZQ.htm)|Luminous Sprite|Sprite lumineux|libre|
 |[feat-01-m9rrlchS10xHFA2G.htm](ancestryfeatures/feat-01-m9rrlchS10xHFA2G.htm)|Venomtail Kobold|Kobold à queue venimeuse|libre|
+|[feat-01-mBH1L01kYmB8EL56.htm](ancestryfeatures/feat-01-mBH1L01kYmB8EL56.htm)|Empty Sky Kitsune|Kitsune Ciel vide|libre|
 |[feat-01-mEDTJi7d1bTEiwUD.htm](ancestryfeatures/feat-01-mEDTJi7d1bTEiwUD.htm)|Unusual Anatomy|Anatomie inhabituelle|libre|
 |[feat-01-MeMAAtUlZmFgKSMF.htm](ancestryfeatures/feat-01-MeMAAtUlZmFgKSMF.htm)|Elemental Heart Dwarf|Nain Cœurélémentaire|libre|
 |[feat-01-MhXHEh7utEfxBwmc.htm](ancestryfeatures/feat-01-MhXHEh7utEfxBwmc.htm)|Thickcoat Shoony|Shoony à fourrure|libre|
@@ -140,12 +139,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-ptpK6H1rM4Bu3ry4.htm](ancestryfeatures/feat-01-ptpK6H1rM4Bu3ry4.htm)|Mountainkeeper Tengu|Tengu gardemontagne|libre|
 |[feat-01-PwxbD5VSJ0Yroqvp.htm](ancestryfeatures/feat-01-PwxbD5VSJ0Yroqvp.htm)|Liminal Fetchling|Fetchelin liminaire|libre|
 |[feat-01-pZ1u2ScWrBXSaAqQ.htm](ancestryfeatures/feat-01-pZ1u2ScWrBXSaAqQ.htm)|Winter Orc|Orc de l'hiver|libre|
+|[feat-01-qbWaybAX1LK7kUyY.htm](ancestryfeatures/feat-01-qbWaybAX1LK7kUyY.htm)|Thalassic Azarketi|Azarketi thalassique|changé|
 |[feat-01-qM566kCXljkOpocA.htm](ancestryfeatures/feat-01-qM566kCXljkOpocA.htm)|Taloned Tengu|Tengu à ergots|libre|
 |[feat-01-rKV11HWREwjjMIum.htm](ancestryfeatures/feat-01-rKV11HWREwjjMIum.htm)|Skyborn Tengu|Tengu des cieux|libre|
-|[feat-01-RKz7Z5pefXKiv9JE.htm](ancestryfeatures/feat-01-RKz7Z5pefXKiv9JE.htm)|Suli|Suli|libre|
+|[feat-01-RKz7Z5pefXKiv9JE.htm](ancestryfeatures/feat-01-RKz7Z5pefXKiv9JE.htm)|Suli|Suli|changé|
 |[feat-01-rQJBtQ9uKUzK9ktK.htm](ancestryfeatures/feat-01-rQJBtQ9uKUzK9ktK.htm)|Shortshanks Hobgoblin|Hobgobelin courtespattes|libre|
 |[feat-01-RuQSx0QsirIKxwKY.htm](ancestryfeatures/feat-01-RuQSx0QsirIKxwKY.htm)|Warrior Android|Androïde combattant|libre|
-|[feat-01-RxNBBMFZwPA3Vlg3.htm](ancestryfeatures/feat-01-RxNBBMFZwPA3Vlg3.htm)|Shoreline Strix|Strix des falaises|libre|
+|[feat-01-RxNBBMFZwPA3Vlg3.htm](ancestryfeatures/feat-01-RxNBBMFZwPA3Vlg3.htm)|Shoreline Strix|Strix des falaises|changé|
 |[feat-01-S1062No0sYH35AhN.htm](ancestryfeatures/feat-01-S1062No0sYH35AhN.htm)|Tactile Azarketi|Azarketi tactile|libre|
 |[feat-01-sEnMG5zbnXdJvVPz.htm](ancestryfeatures/feat-01-sEnMG5zbnXdJvVPz.htm)|Cloudleaper Lizardfolk|Homme-lézard sautenuage|libre|
 |[feat-01-sL1hHxrHdMNIZVAd.htm](ancestryfeatures/feat-01-sL1hHxrHdMNIZVAd.htm)|Land on Your Feet|Sur vos pattes|libre|
@@ -154,7 +154,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-tarfuEXmi0E0Enfy.htm](ancestryfeatures/feat-01-tarfuEXmi0E0Enfy.htm)|Shadow Rat|Rat de l'ombre|libre|
 |[feat-01-TDc9MXLXkgEFoKdD.htm](ancestryfeatures/feat-01-TDc9MXLXkgEFoKdD.htm)|Flexible Catfolk|Homme-félin flexible|libre|
 |[feat-01-tLd8Qg82AwEbbmgX.htm](ancestryfeatures/feat-01-tLd8Qg82AwEbbmgX.htm)|Half-Orc|Demi-orc|officielle|
-|[feat-01-TQFE10VFvh9wb8zb.htm](ancestryfeatures/feat-01-TQFE10VFvh9wb8zb.htm)|Woodstalker Lizardfolk|Homme-lézard Arpenteur sylvestre|libre|
+|[feat-01-TQFE10VFvh9wb8zb.htm](ancestryfeatures/feat-01-TQFE10VFvh9wb8zb.htm)|Woodstalker Lizardfolk|Homme-lézard Arpenteur sylvestre|changé|
 |[feat-01-TRw4oBZBFZG96jKO.htm](ancestryfeatures/feat-01-TRw4oBZBFZG96jKO.htm)|Magical Strikes|Frappes magiques|libre|
 |[feat-01-twayjFuXbsvyHUwy.htm](ancestryfeatures/feat-01-twayjFuXbsvyHUwy.htm)|Desert Rat|Rat des sables|libre|
 |[feat-01-tXC5Gwn9D5x0ouJh.htm](ancestryfeatures/feat-01-tXC5Gwn9D5x0ouJh.htm)|Sensate Gnome|Gnome sensitif|officielle|

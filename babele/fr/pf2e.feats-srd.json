@@ -14687,7 +14687,10 @@
         {
             "id": "Quick Coercion",
             "name": "Contrainte rapide",
-            "description": "<p><strong>Prérequis</strong> qualifié en Intimidation</p>\n<hr>\n<p>Vous pouvez intimider les autres simplement par le choix de quelques\neffets. Vous pouvez Contraindre une créature après 1 round de conversation au lieu de 1 min. Vous ne pouvez toujours pas Contraindreune créature au milieu d’un combat, ni sans engager la conversation.</p>"
+            "description": "<p>Vous pouvez intimider les autres simplement par le choix de quelques\neffets. Vous pouvez Contraindre une créature après 1 round de conversation au lieu de 1 minute. Vous ne pouvez toujours pas Contraindre une créature au milieu d’un combat, ni sans engager la conversation.</p>",
+            "prereq": [
+                "qualifié en Intimidation"
+            ]
         },
         {
             "id": "Warden's Step",

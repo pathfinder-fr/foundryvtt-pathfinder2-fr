@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 73
- * **changé**: 227
+ * **officielle**: 70
+ * **changé**: 230
  * **libre**: 50
  * **aucune**: 18
 
 
-Dernière mise à jour: 2021-03-27 17:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-02 22:17 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -138,7 +138,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer|Rédempteur (Neutre Bon)|changé|
 |[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|Allié divin|changé|
 |[champion-07-x5jaCJxsmD5sx3KB.htm](classfeatures/champion-07-x5jaCJxsmD5sx3KB.htm)|Armor Expertise (Level 7)|Expertise avec les armures (Niveau 7)|officielle|
-|[champion-09-3XK573A7GH1rrLgO.htm](classfeatures/champion-09-3XK573A7GH1rrLgO.htm)|Divine Smite|Châtiment divin|officielle|
+|[champion-09-3XK573A7GH1rrLgO.htm](classfeatures/champion-09-3XK573A7GH1rrLgO.htm)|Divine Smite|Châtiment divin|changé|
 |[champion-09-VgmfNKtQLgBaNi5r.htm](classfeatures/champion-09-VgmfNKtQLgBaNi5r.htm)|Champion Expertise|Expertise du champion|changé|
 |[champion-11-uptzvOLrZ3fctrl2.htm](classfeatures/champion-11-uptzvOLrZ3fctrl2.htm)|Exalt|Éxaltation|officielle|
 |[champion-11-xygfZopqXBJ6dKBA.htm](classfeatures/champion-11-xygfZopqXBJ6dKBA.htm)|Divine Will|Résolution divine|changé|
@@ -280,7 +280,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-01-w6rMqmGzhUahdnA7.htm](classfeatures/rogue-01-w6rMqmGzhUahdnA7.htm)|Surprise Attack|Attaque surprise|changé|
 |[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|changé|
 |[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Trafic de roublard : Scélérat|changé|
-|[rogue-03-PNpmVmD21zViDtGC.htm](classfeatures/rogue-03-PNpmVmD21zViDtGC.htm)|Deny Advantage (Level 3)|Refus d'avantage (Niveau 3)|officielle|
+|[rogue-03-PNpmVmD21zViDtGC.htm](classfeatures/rogue-03-PNpmVmD21zViDtGC.htm)|Deny Advantage (Level 3)|Refus d'avantage (Niveau 3)|changé|
 |[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|changé|
 |[rogue-07-0npO4rPscGm0dX13.htm](classfeatures/rogue-07-0npO4rPscGm0dX13.htm)|Vigilant Senses (Level 7)|Vigilance (Niveau 7)|libre|
 |[rogue-09-25GSAotUcDwInYgG.htm](classfeatures/rogue-09-25GSAotUcDwInYgG.htm)|Great Fortitude (Level 9)|Vigueur supérieure (Niveau 9)|libre|
@@ -376,7 +376,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wizard-01-yobGgrHdgjs5QW5o.htm](classfeatures/wizard-01-yobGgrHdgjs5QW5o.htm)|Arcane School: Divination|École arcanique : Divination|changé|
 |[wizard-01-ZHwGACWQEy6kTzcP.htm](classfeatures/wizard-01-ZHwGACWQEy6kTzcP.htm)|Arcane School: Enchantment|École arcanique : Enchantement|changé|
 |[wizard-05-rz87RgR1crWTd7j5.htm](classfeatures/wizard-05-rz87RgR1crWTd7j5.htm)|Lightning Reflexes (Level 5)|Réflexes fulgurants (Niveau 5)|officielle|
-|[wizard-07-cD3nSupdCvONuHiE.htm](classfeatures/wizard-07-cD3nSupdCvONuHiE.htm)|Expert Spellcaster (Level 7)|Incantateur expert (Niveau 7)|officielle|
+|[wizard-07-cD3nSupdCvONuHiE.htm](classfeatures/wizard-07-cD3nSupdCvONuHiE.htm)|Expert Spellcaster (Level 7)|Incantateur expert (Niveau 7)|changé|
 |[wizard-09-MzyPNlxrNA5OKVd7.htm](classfeatures/wizard-09-MzyPNlxrNA5OKVd7.htm)|Magical Fortitude (Level 9)|Vigueur magique (Niveau 9)|officielle|
 |[wizard-11-GBsC2cARoFiqMi9V.htm](classfeatures/wizard-11-GBsC2cARoFiqMi9V.htm)|Wizard Weapon Expertise|Expertise avec les armes du magicien|changé|
 |[wizard-11-OZaJz4exCoz6vuuv.htm](classfeatures/wizard-11-OZaJz4exCoz6vuuv.htm)|Alertness (Level 11)|Vigilance (Niveau 11)|officielle|

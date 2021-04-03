@@ -23,8 +23,8 @@
         },
         {
             "id": "[Empty Background]",
-            "name": "_Historique vierge ([Empty Background])",
-            "description": "<p>Ceci est un historique vierge pour des règles maison.</p>\n<p>Ceci ne procure aucune automatisation mais peut être utilisé comme un modèle pour glisr déposer sur un acteur.</p>"
+            "name": "[Historique vierge] ([Empty Background])",
+            "description": "<p>Ceci est un historique vierge pour des règles maison.</p>\n<p>Ceci ne procure aucune automatisation mais peut être utilisé comme un modèle de base à partir duquel vous pourrez glisser déposer sur un acteur.</p>"
         },
         {
             "id": "Scavenger",
@@ -724,7 +724,7 @@
         {
             "id": "Hookclaw Digger",
             "name": "Creuseur crochetgriffu (Hookclaw Digger)",
-            "description": "<p><strong>Prérequis</strong> Ascendance kobold</p>\n<p>Vous êtes un creuseur de la tribu kobold Crochetgriffu, né sous les rues d'Absalom, avec des muscles et un esprit façonnés par les années passer à creuser des galeries à travers la roche et la terre et une confiance construite sur la fierté de votre héritage draconique.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Artisanat et en Connaissance minière et en Connaissance de l'ingénierie. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.3HChkcD1IRqv4DbA]{Outil improvisé}.</p>"
+            "description": "<p><strong>Prérequis</strong> Ascendance kobold</p>\n<hr />\n<p>Vous êtes un creuseur de la tribu kobold Crochetgriffu, né sous les rues d'Absalom, avec des muscles et un esprit façonnés par les années passées à creuser des galeries à travers la roche et la terre et une confiance construite sur la fierté de votre héritage draconique.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Artisanat et en Connaissance minière et en Connaissance de l'ingénierie. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.3HChkcD1IRqv4DbA]{Outil improvisé}.</p>"
         },
         {
             "id": "Savior of Air",

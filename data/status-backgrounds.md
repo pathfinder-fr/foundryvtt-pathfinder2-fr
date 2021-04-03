@@ -1,11 +1,10 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 158
+ * **libre**: 161
  * **officielle**: 45
- * **changé**: 3
 
 
-Dernière mise à jour: 2021-03-27 17:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-02 22:17 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -66,7 +65,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ajcpRVb5EG00l7Y4.htm](backgrounds/ajcpRVb5EG00l7Y4.htm)|Cursed Family|Famille maudite|libre|
 |[ap25MWBuFGwwhYIG.htm](backgrounds/ap25MWBuFGwwhYIG.htm)|Aspiring Free-Captain|Aspirant Capitaine-libre|libre|
 |[apXTV7jJx6yJpj8D.htm](backgrounds/apXTV7jJx6yJpj8D.htm)|Prisoner|Prisonnier|officielle|
-|[aWAfj7bhTZM2oK81.htm](backgrounds/aWAfj7bhTZM2oK81.htm)|Hookclaw Digger|Creuseur crochetgriffu|changé|
+|[aWAfj7bhTZM2oK81.htm](backgrounds/aWAfj7bhTZM2oK81.htm)|Hookclaw Digger|Creuseur crochetgriffu|libre|
 |[B8kEwzPUMIjhofUm.htm](backgrounds/B8kEwzPUMIjhofUm.htm)|Sarkorian Survivor|Survivant du sarkoris|libre|
 |[b9EPEY09dYOVzdue.htm](backgrounds/b9EPEY09dYOVzdue.htm)|Shadow War Survivor|Survivant de la Guerre de l'ombre|libre|
 |[BBeJA7n0xpSsBCGq.htm](backgrounds/BBeJA7n0xpSsBCGq.htm)|Lesser Scion|Benjamin|libre|
@@ -113,8 +112,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IFHYbU6Nu8BiTsRa.htm](backgrounds/IFHYbU6Nu8BiTsRa.htm)|Acrobat|Acrobate|officielle|
 |[IfpYRxN8qyV4ym0o.htm](backgrounds/IfpYRxN8qyV4ym0o.htm)|Purveyor of the Bizzare|Fournisseur de Bizarreries|libre|
 |[IoBhge83aYpq0pPV.htm](backgrounds/IoBhge83aYpq0pPV.htm)|Archaeologist|Archéologue|libre|
-|[IObZEUz8wneEMgR3.htm](backgrounds/IObZEUz8wneEMgR3.htm)|Deckhand|Homme de pont|changé|
-|[iPuclSXdCEAVfTZ0.htm](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Empty Background]|_Historique vierge|changé|
+|[IObZEUz8wneEMgR3.htm](backgrounds/IObZEUz8wneEMgR3.htm)|Deckhand|Homme de pont|libre|
+|[iPuclSXdCEAVfTZ0.htm](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Empty Background]|[Historique vierge]|libre|
 |[irDibuV3Wi7T43sL.htm](backgrounds/irDibuV3Wi7T43sL.htm)|Child of the Puddles|Marmot des flaques|libre|
 |[iWWg16f3re1YChiD.htm](backgrounds/iWWg16f3re1YChiD.htm)|Oenopion-Ooze Tender|Éleveur de vases d'œnopion|libre|
 |[ixluAGUDZciLEHtb.htm](backgrounds/ixluAGUDZciLEHtb.htm)|Tax Collector|Percepteur|libre|

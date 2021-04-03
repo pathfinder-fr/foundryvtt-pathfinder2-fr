@@ -7,9 +7,19 @@
             "description": "<p>Votre ouïe surdéveloppée vous permet de détecter les bruits les plus infimes. Tant que vous pouvez entendre normalement, vous pouvez utiliser l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour sentir la présence de créatures @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectées} qui se trouvent dans un cône de 18 m au lieu d’un cône de 9 m. Quand vous utilisez l’action Chercher, vous bénéficiez également d’un bonus de circonstances de +2 pour localiser des créatures non détectées que vous pouvez entendre et qui se trouvent dans un cône de 9 m.</p>"
         },
         {
+            "id": "Swim",
+            "name": "Swim",
+            "description": "<p>Les azarketi ont une vitesse de nage de 9 m.</p>"
+        },
+        {
             "id": "Flexible Catfolk",
             "name": "Flexible Catfolk",
             "description": "<p>Vous avez hérité d'une souplesse au delà de celle de la plupart des humanoïdes. Vous ne traitez pas les espaces étroits qui ne nécessitent pas que vous vous Faufiliez comme un terrain difficile. De plus, vous obtenez un bonus de circonstance de +1 aux tests lorsque vous tentez de vous @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper}.</p>"
+        },
+        {
+            "id": "Thalassic Azarketi",
+            "name": "Thalassic Azarketi",
+            "description": "<p>Vous retracez votre lignage des azarketis qui ont vécu leurs vies parmi les grands océans et les mers du monde. Vous savez comment utiliser les courants et la magie primordiale de l'eau pour guider vos attaques. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.iOY6YfGBaOvMNAor]{Maraudeur aquatique} et les facteurs de portée de vos attaques à distance perforantes ne sont pas divisés par deux lorsque vous combattez des cibles sous l'eau.</p>"
         },
         {
             "id": "Jungle Catfolk",
@@ -82,6 +92,11 @@
             "description": "<p>Vos ancètres vivianet sous terre. Vos oreilles sont plus grandes que celles des autres hobgobelins et sensibles aux échos. Lorsque vous êtes sous terre, vous pouvez utiliser l'action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour repérer des créatures @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} dans une émanation de 9 m au lieu de 4,5 m. En plus, si vous obtenez un succès sur un test d'Acrobatie pour vous @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Faufiler}, vous obtenez un succès critique à la place.</p>"
         },
         {
+            "id": "Mistbreath Azarketi",
+            "name": "Mistbreath Azarketi",
+            "description": "<p>Vous descendez des Azarketis qui ont migré vers les environnements terrestres qui peuvent supporter leur besoins d'eau. Au fil du temps, votre peuple s'est adapté à la vie sur la terre ferme culturellement et physiquement, résulant même d'azarketis nés avec des cheveux humains comme leurs ancètres azlants. Vous n'avez plus besoin de vous immergé dans l'eau toutes les 24 heures pour maintenir votre peau et pouvez à la place brumatiser ou humidifier votre peau avec de l'eau pour vivre de manière confortable. Votre vitesse est de 7,5 m, mais votre vitesse de nage est de seulement 4,5 m.</p>"
+        },
+        {
             "id": "Laborer Android",
             "name": "Laborer Android",
             "description": "<p>Votre corps est adapté pour endurer des épreuves physiques ou accomplir des travaux difficiles sur des longues périodes de temps. Vous êtes qualifié en Athlétisme (ou en une autre compétence qi vous étiez déjà qualifié en Athlétisme) et vous obtenez le don de compétence @Compendium[pf2e.feats-srd.C0Tcelg3BAPhML6J]{Portefaix}.</p>"
@@ -140,6 +155,11 @@
             "id": "Warrior Android",
             "name": "Warrior Android",
             "description": "<p>Votre corps a été à l'origine créé pour fonctionner comme un officier de sécurité ou un soldat. Vous êtes naturellement un combattant doué pré-programmé pour combattre. Vous êtes qualifié avec toutes les armes simples et de guerre.</p>"
+        },
+        {
+            "id": "Empty Sky Kitsune",
+            "name": "Empty Sky Kitsune",
+            "description": "<p>Votre esprit s'est ouvert aux secrets de l'au-delà, vous accordant un plus grand accès à la magie kitsune. Vous obtenez le don d'ascendance @Compendium[pf2e.feats-srd.Zz7isE8Td2xDWqR8]{Familiarité avec les sorts kitsunes}. Votre forme alternative est celle d'une asccendance courante d'un humanoïde de tailel moyenne là où vous avez grandi (typiquement un humain), appelé une forme sans queue.</p>"
         },
         {
             "id": "Beastkin",
@@ -567,6 +587,11 @@
             "description": "<p>Vous descendez d'une longue lignée de chasseurs talentueux et de pisteurs et avez développé un sens particulièrement aigude l'odorat. Vous obtenez un odoras imprécis avec une portée de 9 m. cela signifie que vous pouvez utilisez votre sens de l'odorat pour  déterminer l'emplacement d'une créature, comme expliqué à la page 456 du Livre de base. Le MJ doublera normalement la portée si vous êtes sous le vent de la créature ou la divisera par deux si vous êtes contre le vent.</p>\n<p>de plus, vous obtenez un bonus de circonstance de +2 au test pour @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Pister} une créature ou un objet si vous l'avez senti auparavant.</p>"
         },
         {
+            "id": "Benthic Azarketi",
+            "name": "Benthic Azarketi",
+            "description": "<p>Votre héritage remonte aux azarketis vivant dans les profondeurs de l'océan et vous pouvez supporter les profondeurs glaciales plus aisément que la plupart. Vous obtenez une résistance au froid égal à la moitié de votre niveau et vous ne traitez pas les environments froids comme d'un degré plus sévère lorsque vous êtes mouillé. Vous vous adaptez aux changements de pression en étant sous l'eau de manière automatique sans subir aucun effet néfaste.</p>"
+        },
+        {
             "id": "Wintertouched Human",
             "name": "Wintertouched Human",
             "description": "<p>Le pouvoir de l'hiver coule à travers vous. Cette ascendance est plus commune parmi les Jadwiga d'Irrisen, car ils descendent de Baba Yaga et de certains Erutaki touchés par les esprits.</p>\n<p>Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1) et vous traitez les effets liés à un environnement froid comme si celui-ci était d'un niveau moins extrême (incroyablement froid devient extrême, froid extrême devient sévère, etc).</p>"
@@ -577,9 +602,14 @@
             "description": "<p>Vous avez grandi dans un terrier traversé de passages sous l'eau, qu'ils soient naturels ou aient été creusés. Vous obtenez une Vitesse de Nage de 4,5 m.</p>"
         },
         {
+            "id": "River Azarketi",
+            "name": "River Azarketi",
+            "description": "<p>vous descendez des azarketis qui ont abandonné les océans pour l'eau douce et la vie à l'intérieur des terres. La géographie varié des rivières rend nécessaire que vous développiez des compétences physiques avancées pour nager contre les rapides, bondir dans les eaux des cascaddes et naviguers avec expertise dans les canaux peu profonds et étroits. Lorsque vous réussissez un test d'Athlétisme pour Nager, vous obtenez un succès critique à la place.</p>"
+        },
+        {
             "id": "Draconic Exemplar",
             "name": "Draconic Exemplar",
-            "description": "<p>Vous tirez de votre modèle draconique des pouvoirs mineurs. Choisissez un type de dragon chromatique ou métallique comme étant votre modèle. Cela détermine la couleur de vos écailles et votre apparence. Les dragons voient parfois plus favorablement ceux des kobolds qui leur ressemblent à la discrétion du MJ. Votre modèle peut aussi déterminer les détails d'autres capacités que vous possédez, en utilisant la table des modèles draconiques ci-après.</p>\n<h3><strong>Table des Modèles draconiques</strong></h3>\n<table style=\"width: 365px; height: 170px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 34px;\">\n<td style=\"width: 61px; height: 34px;\"><strong>Dragon</strong></td>\n<td style=\"width: 104px; height: 34px;\"><strong>Forme du Souffle</strong></td>\n<td style=\"width: 86px; height: 34px;\"><strong>Type de Dégâts</strong></td>\n<td style=\"width: 101px; height: 34px;\"><strong>Jet de sauvegarde</strong></td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Noir</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Acide</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Bleu</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Électricité</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Vert</td>\n<td style=\"width: 104px; height: 17px;\">Cône</td>\n<td style=\"width: 86px; height: 17px;\">Poison</td>\n<td style=\"width: 101px; height: 17px;\">Vigueur</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Rouge</td>\n<td style=\"width: 104px; height: 17px;\">Cône</td>\n<td style=\"width: 86px; height: 17px;\">Feu</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Blanc</td>\n<td style=\"width: 104px; height: 17px;\">Cône</td>\n<td style=\"width: 86px; height: 17px;\">Froid</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Airain</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Feu</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Bronze</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Électricité</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Cuivre</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Acide</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr>\n<td style=\"width: 61px;\">Or</td>\n<td style=\"width: 104px;\">Cône</td>\n<td style=\"width: 86px;\">Feu</td>\n<td style=\"width: 101px;\">Réflexes</td>\n</tr>\n<tr>\n<td style=\"width: 61px;\">Argent</td>\n<td style=\"width: 104px;\">Cône</td>\n<td style=\"width: 86px;\">Froid</td>\n<td style=\"width: 101px;\">Réflexes</td>\n</tr>\n</tbody>\n</table>"
+            "description": "<p>Vous tirez de votre modèle draconique des pouvoirs mineurs. Choisissez un type de dragon chromatique ou métallique comme étant votre modèle. Cela détermine la couleur de vos écailles et votre apparence. Les dragons voient parfois plus favorablement ceux des kobolds qui leur ressemblent à la discrétion du MJ. Votre modèle peut aussi déterminer les détails d'autres capacités que vous possédez, en utilisant la table des modèles draconiques ci-après.</p>\n<h3><strong>Table des Modèles draconiques</strong></h3>\n<table style=\"width: 365px; height: 170px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 34px;\">\n<td style=\"width: 61px; height: 34px;\"><strong>Dragon</strong></td>\n<td style=\"width: 104px; height: 34px;\"><strong>Forme du Souffle</strong></td>\n<td style=\"width: 86px; height: 34px;\"><strong>Type de Dégâts</strong></td>\n<td style=\"width: 101px; height: 34px;\"><strong>Jet de sauvegarde</strong></td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Airain</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Feu</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px;\">Argent</td>\n<td style=\"width: 104px;\">Cône</td>\n<td style=\"width: 86px;\">Froid</td>\n<td style=\"width: 101px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Blanc</td>\n<td style=\"width: 104px; height: 17px;\">Cône</td>\n<td style=\"width: 86px; height: 17px;\">Froid</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Bleu</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Électricité</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Bronze</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Électricité</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Cuivre</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Acide</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Noir</td>\n<td style=\"width: 104px; height: 17px;\">Ligne</td>\n<td style=\"width: 86px; height: 17px;\">Acide</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px;\">Or</td>\n<td style=\"width: 104px;\">Cône</td>\n<td style=\"width: 86px;\">Feu</td>\n<td style=\"width: 101px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Rouge</td>\n<td style=\"width: 104px; height: 17px;\">Cône</td>\n<td style=\"width: 86px; height: 17px;\">Feu</td>\n<td style=\"width: 101px; height: 17px;\">Réflexes</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Vert</td>\n<td style=\"width: 104px; height: 17px;\">Cône</td>\n<td style=\"width: 86px; height: 17px;\">Poison</td>\n<td style=\"width: 101px; height: 17px;\">Vigueur</td>\n</tr>\n</tbody>\n</table>"
         },
         {
             "id": "Anvil Dwarf",

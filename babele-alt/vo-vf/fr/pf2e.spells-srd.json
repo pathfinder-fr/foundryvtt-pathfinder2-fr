@@ -1774,7 +1774,7 @@
         {
             "id": "Object Reading",
             "name": "Object Reading (Lecture d'objet)",
-            "description": "<p>Vous placez une main sur un objet pour apprendre des informations sur un évènement émotionnel qui s'est produit impliquant l'objet au cours de la semaine passée, déterminé par le MJ. Si vous lancez <em>Lecture d'objet</em> sur le même objet à plusieurs reprises, vous pouvez soit vous concentrer sur un unique évènement pour obtenir des informations supplémentaires à propos de cet évènement ou vous pouvez obtenir d'autres informations sur un autre évènement émotionnel qui s'est produit dans le laps de temps applicable.</p>\n<hr />\n<p><strong>Intensifié (2e)</strong> Vous pouvez apprendre des inforamtions à propos d'un évènement qui s'est produit au cours du dernier mois.</p>\n<p><strong>Intensifié (4e)</strong> Vous pouvez apprendre des inforamtions à propos d'un évènement qui s'est produit au cours de la dernière année.</p>\n<p><strong>Intensifié (6e)</strong> Vous pouvez apprendre des inforamtions à propos d'un évènement qui s'est produit au cours de la dernière décennie.</p>\n<p><strong>Intensifié (8e)</strong> Vous pouvez apprendre des inforamtions à propos d'un évènement qui s'est produit au cours du dernier siècle.</p>\n<p><strong>Intensifié (9e)</strong> Vous pouvez apprendre des inforamtions à propos d'un évènement qui s'est produit durant la totalité de l'histoire de l'objet.</p>"
+            "description": "<p>Vous placez une main sur un objet pour apprendre des informations sur un évènement émotionnel qui s'est produit impliquant l'objet au cours de la semaine passée, déterminé par le MJ. Si vous lancez <em>Lecture d'objet</em> sur le même objet à plusieurs reprises, vous pouvez soit vous concentrer sur un unique évènement pour obtenir des informations supplémentaires à propos de cet évènement, soit obtenir d'autres informations sur un autre évènement émotionnel qui s'est produit durant le laps de temps applicable.</p>\n<hr />\n<p><strong>Intensifié (2e)</strong> Vous pouvez apprendre des informations à propos d'un évènement qui s'est produit au cours du mois précédent.</p>\n<p><strong>Intensifié (4e)</strong> Vous pouvez apprendre des informations à propos d'un évènement qui s'est produit au cours de l'année précédente.</p>\n<p><strong>Intensifié (6e)</strong> Vous pouvez apprendre des informations à propos d'un évènement qui s'est produit au cours de la décennie précédente.</p>\n<p><strong>Intensifié (8e)</strong> Vous pouvez apprendre des informations à propos d'un évènement qui s'est produit au cours du siècle précédent.</p>\n<p><strong>Intensifié (9e)</strong> Vous pouvez apprendre des informations à propos d'un évènement qui s'est produit au cours de la totalité de l'histoire de l'objet.</p>"
         },
         {
             "id": "Cataclysm",
@@ -2154,7 +2154,7 @@
         {
             "id": "Inspire Defense",
             "name": "Inspire Defense (Inspiration défensive)",
-            "description": "<p>Vous inspirez vos alliés pour se protéger plus efficacement.</p>\n<p>Vous et vos alliés dans la zone gagnez un bonus de statut de +1 à la CA et aux jets de sauvegarde ainsi qu’une résistance aux dégâts physiques égale à la moitié du niveau du sort.</p>"
+            "description": "<p>Vous inspirez vos alliés pour se protéger plus efficacement.</p>\n<p>Vous et vos alliés dans la zone gagnez un bonus de statut de +1 à la CA et aux jets de sauvegarde ainsi qu’une résistance aux dégâts physiques égale à la moitié du niveau du sort.</p>\n<p>@Compendium[pf2e.spell-effects.DLwTvjjnqs2sNGuG]{Effet de sort : Inspiration Défensive}</p>"
         },
         {
             "id": "Leng Sting",
@@ -3489,7 +3489,7 @@
         {
             "id": "Forbidding Ward",
             "name": "Forbidding Ward (Sceau d'interdiction)",
-            "description": "<p> Vous protégez un allié contre les attaques et les sorts hostiles de la cible ennemie.</p>\n<p>La cible alliée gagne un bonus de statut de +1 à la CA et aux jets de sauvegarde contre les attaques, les sorts et autres effets de la cible ennemie.</p>\n<hr />\n<p><strong> Intensifié (6e)</strong> Le bonus de statut passe à +2.</p>"
+            "description": "<p>Vous protégez un allié contre les attaques et les sorts hostiles de la cible ennemie.</p>\n<p>La cible alliée gagne un bonus de statut de +1 à la CA et aux jets de sauvegarde contre les attaques, les sorts et autres effets de la cible ennemie.</p>\n<p>@Compendium[pf2e.spell-effects.ctMxYPGEpstvhW9C]{Effet de sort : Sceau d'interdiction}</p>\n<hr />\n<p><strong> Intensifié (6e)</strong> Le bonus de statut passe à +2.</p>"
         },
         {
             "id": "Message",

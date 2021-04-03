@@ -1,12 +1,12 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
- * **aucune**: 3
+ * **aucune**: 5
  * **officielle**: 15
  * **changé**: 26
  * **libre**: 1
 
 
-Dernière mise à jour: 2021-03-27 17:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-02 22:17 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -16,6 +16,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[0B39GdScyZMPWalX.htm](bestiary-ability-glossary-srd/0B39GdScyZMPWalX.htm)|Power Attack|
 |[4Ho2xMPEC05aSxzr.htm](bestiary-ability-glossary-srd/4Ho2xMPEC05aSxzr.htm)|Greater Darkvision|
 |[Hrevxi3glTGgxzY6.htm](bestiary-ability-glossary-srd/Hrevxi3glTGgxzY6.htm)|Goblin Scuttle|
+|[OvqohW9YuahnFaiX.htm](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Form Up|
+|[RJbI07QSiYp0SF9A.htm](bestiary-ability-glossary-srd/RJbI07QSiYp0SF9A.htm)|Troop Defenses|
 
 ## Liste des traductions complétés
 

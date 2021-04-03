@@ -1,18 +1,19 @@
 # État de la traduction (spells)
 
- * **changé**: 349
- * **officielle**: 316
- * **libre**: 200
- * **aucune**: 10
+ * **officielle**: 311
+ * **libre**: 199
+ * **changé**: 355
+ * **aucune**: 11
 
 
-Dernière mise à jour: 2021-03-27 17:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-02 22:17 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[div-05-zaZieDHguhahmM2z.htm](spells/div-05-zaZieDHguhahmM2z.htm)|Waters of Prediction|
 |[enc-04-APDrC83QljsyHenB.htm](spells/enc-04-APDrC83QljsyHenB.htm)|Savant's Curse|
 |[enc-04-dARE6VfJ3Uoq5M53.htm](spells/enc-04-dARE6VfJ3Uoq5M53.htm)|Daydreamer's Curse|
 |[evo-03-0jWBnIDFpJjJShdQ.htm](spells/evo-03-0jWBnIDFpJjJShdQ.htm)|Dragon Breath (Blue or Bronze)|
@@ -28,7 +29,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[abj-00-RA7VKcen3p56rVyZ.htm](spells/abj-00-RA7VKcen3p56rVyZ.htm)|Forbidding Ward|Sceau d'interdiction|changé|
+|[abj-00-RA7VKcen3p56rVyZ.htm](spells/abj-00-RA7VKcen3p56rVyZ.htm)|Forbidding Ward|Sceau d'interdiction|officielle|
 |[abj-00-TVKNbcgTee19PXZR.htm](spells/abj-00-TVKNbcgTee19PXZR.htm)|Shield|Bouclier|officielle|
 |[abj-00-xM35hJacTM1BSXUl.htm](spells/abj-00-xM35hJacTM1BSXUl.htm)|Silver's Refrain|Refrain d'argent|libre|
 |[abj-01-0cF9HvHzzWSbCFBP.htm](spells/abj-01-0cF9HvHzzWSbCFBP.htm)|Empty Inside|Vide intérieur|libre|
@@ -37,7 +38,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-01-3wmX7htzOXiHLdAn.htm](spells/abj-01-3wmX7htzOXiHLdAn.htm)|Delay Consequence|Retarder les conséquences|libre|
 |[abj-01-4WAib3GichxLjp5p.htm](spells/abj-01-4WAib3GichxLjp5p.htm)|Alarm|Alarme|officielle|
 |[abj-01-8xRzLhwGL7Dgy3EZ.htm](spells/abj-01-8xRzLhwGL7Dgy3EZ.htm)|Sanctuary|Sanctuaire|changé|
-|[abj-01-aAbfKn8maGjJjk2W.htm](spells/abj-01-aAbfKn8maGjJjk2W.htm)|Mage Armor|Armure du mage|officielle|
+|[abj-01-aAbfKn8maGjJjk2W.htm](spells/abj-01-aAbfKn8maGjJjk2W.htm)|Mage Armor|Armure du mage|changé|
 |[abj-01-Azoh0BSoCASrA1lr.htm](spells/abj-01-Azoh0BSoCASrA1lr.htm)|Lock|Verrouillage|officielle|
 |[abj-01-cDFAQN7Z3es07WSA.htm](spells/abj-01-cDFAQN7Z3es07WSA.htm)|Perfected Mind|Esprit perfectionné|officielle|
 |[abj-01-cJq5NarY0eOZN74A.htm](spells/abj-01-cJq5NarY0eOZN74A.htm)|Share Burden|Partager le Fardeau|libre|
@@ -217,7 +218,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[div-00-8bdt1TvNKzsCu9Ct.htm](spells/div-00-8bdt1TvNKzsCu9Ct.htm)|Join Pasts|Joindre les passés|changé|
 |[div-00-G0T1xv1FoZ23Jxvt.htm](spells/div-00-G0T1xv1FoZ23Jxvt.htm)|Nudge Fate|Coup de pouce au destin|libre|
 |[div-00-gpzpAAAJ1Lza2JVl.htm](spells/div-00-gpzpAAAJ1Lza2JVl.htm)|Detect Magic|Détection de la magie|changé|
-|[div-00-izcxFQFwf3woCnFs.htm](spells/div-00-izcxFQFwf3woCnFs.htm)|Guidance|Assistance divine|officielle|
+|[div-00-izcxFQFwf3woCnFs.htm](spells/div-00-izcxFQFwf3woCnFs.htm)|Guidance|Assistance divine|changé|
 |[div-00-OhD2Z6rIGGD5ocZA.htm](spells/div-00-OhD2Z6rIGGD5ocZA.htm)|Read Aura|Lecture de l'aura|officielle|
 |[div-00-tXa5vOu5giBNCjdR.htm](spells/div-00-tXa5vOu5giBNCjdR.htm)|Know Direction|Repérage|officielle|
 |[div-00-UmXhuKrYZR3W16mQ.htm](spells/div-00-UmXhuKrYZR3W16mQ.htm)|Discern Secrets|Discerner les secrets|libre|
@@ -295,7 +296,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[div-05-tj86Rnq3QuQnDtG3.htm](spells/div-05-tj86Rnq3QuQnDtG3.htm)|Hunter's Vision|Vision du chasseur|libre|
 |[div-06-4j0FQ1mkidBAXuQV.htm](spells/div-06-4j0FQ1mkidBAXuQV.htm)|Heroic Feat|Don héroïque|changé|
 |[div-06-7DN13ILADW2N9Z1t.htm](spells/div-06-7DN13ILADW2N9Z1t.htm)|Commune|Communion|changé|
-|[div-06-B4dDkYsHFo1H0CIF.htm](spells/div-06-B4dDkYsHFo1H0CIF.htm)|Awaken Animal|Éveil d’animal|officielle|
+|[div-06-B4dDkYsHFo1H0CIF.htm](spells/div-06-B4dDkYsHFo1H0CIF.htm)|Awaken Animal|Éveil d’animal|changé|
 |[div-06-l4LFwY7iuzX6sDXr.htm](spells/div-06-l4LFwY7iuzX6sDXr.htm)|Commune with Nature|Communion avec la nature|officielle|
 |[div-06-r784cIz17eWujtQj.htm](spells/div-06-r784cIz17eWujtQj.htm)|Scrying|Scrutation|officielle|
 |[div-06-UJmKPm1FC6pf6txP.htm](spells/div-06-UJmKPm1FC6pf6txP.htm)|Halcyon Infusion|Infusion paisible|libre|
@@ -316,7 +317,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[div-10-YfJTXyVGzLhM6V8U.htm](spells/div-10-YfJTXyVGzLhM6V8U.htm)|Miracle|Miracle|changé|
 |[enc-00-1xLVcA8Y1onw7toT.htm](spells/enc-00-1xLVcA8Y1onw7toT.htm)|Dirge of Doom|Chant funeste|changé|
 |[enc-00-4gBIw4IDrSfFHik4.htm](spells/enc-00-4gBIw4IDrSfFHik4.htm)|Daze|Hébétement|changé|
-|[enc-00-bH0kPuf7UKxRvi2P.htm](spells/enc-00-bH0kPuf7UKxRvi2P.htm)|Inspire Defense|Inspiration défensive|changé|
+|[enc-00-bH0kPuf7UKxRvi2P.htm](spells/enc-00-bH0kPuf7UKxRvi2P.htm)|Inspire Defense|Inspiration défensive|officielle|
 |[enc-00-c8R2fpk88fBwJ1ie.htm](spells/enc-00-c8R2fpk88fBwJ1ie.htm)|Triple Time|À trois temps|officielle|
 |[enc-00-f0Z5mqGA6Yu79B8x.htm](spells/enc-00-f0Z5mqGA6Yu79B8x.htm)|Inspire Competence|Inspiration talentueuse|officielle|
 |[enc-00-f45JpY7Ph2cAJGW2.htm](spells/enc-00-f45JpY7Ph2cAJGW2.htm)|Evil Eye|Mauvais œil|changé|
@@ -357,7 +358,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-01-vLA0q0WOK2YPuJs6.htm](spells/enc-01-vLA0q0WOK2YPuJs6.htm)|Charm|Charme|changé|
 |[enc-01-WILXkjU5Yq3yw10r.htm](spells/enc-01-WILXkjU5Yq3yw10r.htm)|Counter Performance|Contre-représentation|libre|
 |[enc-01-xn0V2HDrmDWNzPEt.htm](spells/enc-01-xn0V2HDrmDWNzPEt.htm)|Savor the Sting|Savourer la douleur|officielle|
-|[enc-01-XSujb7EsSwKl19Uu.htm](spells/enc-01-XSujb7EsSwKl19Uu.htm)|Bless|Bénédiction|officielle|
+|[enc-01-XSujb7EsSwKl19Uu.htm](spells/enc-01-XSujb7EsSwKl19Uu.htm)|Bless|Bénédiction|changé|
 |[enc-01-YGRpHU5yxw73mls8.htm](spells/enc-01-YGRpHU5yxw73mls8.htm)|Soothing Words|Paroles apaisantes|changé|
 |[enc-01-YVK3JUkPVzHIeGXQ.htm](spells/enc-01-YVK3JUkPVzHIeGXQ.htm)|Cackle|Gloussement|libre|
 |[enc-02-5pwK2FZX6QwgtfqX.htm](spells/enc-02-5pwK2FZX6QwgtfqX.htm)|Inveigle|Envoûtement|changé|
@@ -372,7 +373,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-03-aewxsale5xWEPKLk.htm](spells/enc-03-aewxsale5xWEPKLk.htm)|Zone of Truth|Zone de vérité|changé|
 |[enc-03-DCQHaLrYXMI37dvW.htm](spells/enc-03-DCQHaLrYXMI37dvW.htm)|Paralyze|Paralysie|changé|
 |[enc-03-IihxWhRfpsBgQ5jS.htm](spells/enc-03-IihxWhRfpsBgQ5jS.htm)|Enthrall|Discours captivant|officielle|
-|[enc-03-KqvqNAfGIE5a9wSv.htm](spells/enc-03-KqvqNAfGIE5a9wSv.htm)|Heroism|Héroïsme|officielle|
+|[enc-03-KqvqNAfGIE5a9wSv.htm](spells/enc-03-KqvqNAfGIE5a9wSv.htm)|Heroism|Héroïsme|changé|
 |[enc-03-mBojKJatf9PTYC38.htm](spells/enc-03-mBojKJatf9PTYC38.htm)|Fey Disappearance|Disparition féerique|officielle|
 |[enc-03-nplNt08TvokZUxtR.htm](spells/enc-03-nplNt08TvokZUxtR.htm)|Agonizing Despair|Désespoir agonisant|changé|
 |[enc-03-Q56HLIHVKY6bC5W3.htm](spells/enc-03-Q56HLIHVKY6bC5W3.htm)|Blinding Beauty|Beauté aveuglante|libre|
@@ -798,7 +799,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[trs-01-gwOYh5zMVZB0HNcT.htm](spells/trs-01-gwOYh5zMVZB0HNcT.htm)|Unimpeded Stride|Déplacement sans réserve|officielle|
 |[trs-01-i8PBZsnoCrK7IWph.htm](spells/trs-01-i8PBZsnoCrK7IWph.htm)|Tentacular Limbs|Membres tentaculaires|officielle|
 |[trs-01-ifXNOhtmU4fKL68v.htm](spells/trs-01-ifXNOhtmU4fKL68v.htm)|Redact|Corriger|libre|
-|[trs-01-K8vvrOgW4bGakXxm.htm](spells/trs-01-K8vvrOgW4bGakXxm.htm)|Dragon Claws|Griffes de dragon|officielle|
+|[trs-01-K8vvrOgW4bGakXxm.htm](spells/trs-01-K8vvrOgW4bGakXxm.htm)|Dragon Claws|Griffes de dragon|changé|
 |[trs-01-KcLVELhCUcKXxiKE.htm](spells/trs-01-KcLVELhCUcKXxiKE.htm)|Longstrider|Grande foulée|officielle|
 |[trs-01-mFHQ2u4LWiejqKQG.htm](spells/trs-01-mFHQ2u4LWiejqKQG.htm)|Overstuff|Gaver|changé|
 |[trs-01-nnSipUPNd3sm5vYL.htm](spells/trs-01-nnSipUPNd3sm5vYL.htm)|Vibrant Thorns|Épines florissantes|officielle|
@@ -879,11 +880,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[trs-06-NCUXsaj2yFxOVhrK.htm](spells/trs-06-NCUXsaj2yFxOVhrK.htm)|Create Skinstitch|Création de chose de peaux recousues|libre|
 |[trs-06-Pr1ruNTbzGn3H9w5.htm](spells/trs-06-Pr1ruNTbzGn3H9w5.htm)|Stone to Flesh|Pierre en chair|officielle|
 |[trs-06-xEjGEBvTfDJECSki.htm](spells/trs-06-xEjGEBvTfDJECSki.htm)|Ancestral Form|Forme ancestrale|libre|
-|[trs-06-zhqnMOVPzVvWSUbC.htm](spells/trs-06-zhqnMOVPzVvWSUbC.htm)|Tempest Form|Forme tempêtueuse|libre|
+|[trs-06-zhqnMOVPzVvWSUbC.htm](spells/trs-06-zhqnMOVPzVvWSUbC.htm)|Tempest Form|Forme tempêtueuse|changé|
 |[trs-06-znv4ECL7ZtuiagtA.htm](spells/trs-06-znv4ECL7ZtuiagtA.htm)|Flesh to Stone|Chair en pierre|changé|
 |[trs-07-hiVL8qsnTJtpouw0.htm](spells/trs-07-hiVL8qsnTJtpouw0.htm)|Divine Vessel|Réceptacle divin|changé|
 |[trs-07-XS7Wyh5YC0NWeWyB.htm](spells/trs-07-XS7Wyh5YC0NWeWyB.htm)|Fiery Body|Corps enflammé|officielle|
-|[trs-08-8AMvNVOUEtxBCDvJ.htm](spells/trs-08-8AMvNVOUEtxBCDvJ.htm)|Monstrosity Form|Forme monstrueuse|officielle|
+|[trs-08-8AMvNVOUEtxBCDvJ.htm](spells/trs-08-8AMvNVOUEtxBCDvJ.htm)|Monstrosity Form|Forme monstrueuse|changé|
 |[trs-08-U0hL0LLaprcnAyzC.htm](spells/trs-08-U0hL0LLaprcnAyzC.htm)|Wind Walk|Voyage venteux|officielle|
 |[trs-08-wTYxxYJWN348oV15.htm](spells/trs-08-wTYxxYJWN348oV15.htm)|Medusa's Wrath|Courroux de la méduse|changé|
 |[trs-09-pswdik31kuHEvdno.htm](spells/trs-09-pswdik31kuHEvdno.htm)|Shapechange|Changement de forme|officielle|
