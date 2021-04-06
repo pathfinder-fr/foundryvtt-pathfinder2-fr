@@ -9,8 +9,9 @@ Dans les données, vous trouverez un dictionnaire.
 Il est un peu lent à charger mais il montre ce qui est traduit et ce qui ne l'est pas.
 
 Pour traduire quelque chose qui n'est pas encore traduit, il suffit de cliquer dessus. Vous trouverez la liste du travail en cours et quelques instructions dans un classeur Sheets partagé _(demandez l'accès par MP à rectulo)_ 
+
 Gitlab dispose d'un éditeur intégré.
-En appyant sur le bouton, s'ouvre alors le fichier comprenant plusieurs des champs suivants : 
+En appuyant sur le bouton, s'ouvre alors le fichier comprenant plusieurs des champs suivants : 
 
 * **Name:** C'est le nom en anglais du fichier et le nom affiché en anglais de la capacité, du don, du sort,... Vous n'y touchez pas.
 
