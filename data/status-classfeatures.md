@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 70
- * **changé**: 230
+ * **officielle**: 74
+ * **changé**: 226
  * **libre**: 50
  * **aucune**: 18
 
 
-Dernière mise à jour: 2021-04-02 22:17 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-06 07:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -227,7 +227,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-00-t01K3DB2qHnbt1q3.htm](classfeatures/None-00-t01K3DB2qHnbt1q3.htm)|Order of the Scourge|Ordre du fléau|officielle|
 |[None-00-ub9gwFXnMuKvhnPL.htm](classfeatures/None-00-ub9gwFXnMuKvhnPL.htm)|Order of the Nail|Ordre de la pointe|officielle|
 |[None-00-UTRDN1TAieBMjwP1.htm](classfeatures/None-00-UTRDN1TAieBMjwP1.htm)|Order of the Godclaw|Ordre du dieu griffu|libre|
-|[None-00-YrJj8UI0XpkHv0Ho.htm](classfeatures/None-00-YrJj8UI0XpkHv0Ho.htm)|Order of the Chain|Ordre des chaines|officielle|
+|[None-00-YrJj8UI0XpkHv0Ho.htm](classfeatures/None-00-YrJj8UI0XpkHv0Ho.htm)|Order of the Chain|Ordre des chaînes|officielle|
 |[None-00-zGxO2cETUsXuvqRu.htm](classfeatures/None-00-zGxO2cETUsXuvqRu.htm)|Order of the Pyre|Ordre du bûcher|officielle|
 |[None-01-1FPVkksuE2ncw9rF.htm](classfeatures/None-01-1FPVkksuE2ncw9rF.htm)|Ki Spells|Sorts de ki|changé|
 |[None-01-T25ZLQWn6O4KchLo.htm](classfeatures/None-01-T25ZLQWn6O4KchLo.htm)|Focus Spells|Sorts focalisés|changé|
@@ -243,7 +243,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-01-NXUOtO9NytHQurlg.htm](classfeatures/oracle-01-NXUOtO9NytHQurlg.htm)|Revelation Spells|Sorts de révélation|changé|
 |[oracle-01-o1gGG36wpn9mxeop.htm](classfeatures/oracle-01-o1gGG36wpn9mxeop.htm)|Life Mystery|Mystère de la vie|changé|
 |[oracle-01-PRJYLksQEwT39bTl.htm](classfeatures/oracle-01-PRJYLksQEwT39bTl.htm)|Mystery|Mystère|changé|
-|[oracle-01-qvRlih3u7vK3FYUR.htm](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Ancestors Mystery|Mystère des ancètres|changé|
+|[oracle-01-qvRlih3u7vK3FYUR.htm](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Ancestors Mystery|Mystère des ancêtres|changé|
 |[oracle-01-RI2EMRBBPNSoTJXu.htm](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Cosmos Mystery|Mystère du cosmos|changé|
 |[oracle-01-tZBb3Kh4nJcNoUFI.htm](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Lore Mystery|Mystère du savoir|changé|
 |[oracle-01-W9cF7wZztLDb1WGY.htm](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Tempest Mystery|Mystère de la tempête|changé|
@@ -254,10 +254,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-17-F4brPlp1tHGUqyuI.htm](classfeatures/oracle-17-F4brPlp1tHGUqyuI.htm)|Extreme Curse|Malédiction extrême|changé|
 |[oracle-19-571c1aGnvNVwfF6b.htm](classfeatures/oracle-19-571c1aGnvNVwfF6b.htm)|Oracular Clarity|Clarté oraculaire|changé|
 |[ranger-01-0nIOGpHQNHsKSFKT.htm](classfeatures/ranger-01-0nIOGpHQNHsKSFKT.htm)|Hunt Prey|Chasser une proie|changé|
-|[ranger-01-6v4Rj7wWfOH1882r.htm](classfeatures/ranger-01-6v4Rj7wWfOH1882r.htm)|Hunter's Edge: Flurry|spécialité du chasseur : Déluge|changé|
+|[ranger-01-6v4Rj7wWfOH1882r.htm](classfeatures/ranger-01-6v4Rj7wWfOH1882r.htm)|Hunter's Edge: Flurry|spécialité du chasseur : Déluge|officielle|
 |[ranger-01-mzkkj9LEWjJPBhaq.htm](classfeatures/ranger-01-mzkkj9LEWjJPBhaq.htm)|Hunter's Edge|Spécialité du Chasseur|officielle|
-|[ranger-01-NBHyoTrI8q62uDsU.htm](classfeatures/ranger-01-NBHyoTrI8q62uDsU.htm)|Hunter's Edge: Outwit|Spécialité du chasseur : Ruse|changé|
-|[ranger-01-u6cBjqz2fiRBadBt.htm](classfeatures/ranger-01-u6cBjqz2fiRBadBt.htm)|Hunter's Edge: Precision|Spécialité du chasseur : Précision|changé|
+|[ranger-01-NBHyoTrI8q62uDsU.htm](classfeatures/ranger-01-NBHyoTrI8q62uDsU.htm)|Hunter's Edge: Outwit|Spécialité du chasseur : Ruse|officielle|
+|[ranger-01-u6cBjqz2fiRBadBt.htm](classfeatures/ranger-01-u6cBjqz2fiRBadBt.htm)|Hunter's Edge: Precision|Spécialité du chasseur : Précision|officielle|
 |[ranger-01-w3HysrCgDs5uFXKX.htm](classfeatures/ranger-01-w3HysrCgDs5uFXKX.htm)|Warden Spells|Sorts de gardien|changé|
 |[ranger-03-wMyDcVNmA7xGK83S.htm](classfeatures/ranger-03-wMyDcVNmA7xGK83S.htm)|Iron Will (Level 3)|Volonté de fer (Niveau 3)|officielle|
 |[ranger-05-PeZi7E9lI4vz8EGY.htm](classfeatures/ranger-05-PeZi7E9lI4vz8EGY.htm)|Trackless Step|Absence de traces|changé|
@@ -277,7 +277,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|changé|
 |[rogue-01-RyOkmu0W9svavuAB.htm](classfeatures/rogue-01-RyOkmu0W9svavuAB.htm)|Mastermind Racket|Trafic de roublard : Cerveau|changé|
 |[rogue-01-uGuCGQvUmioFV2Bd.htm](classfeatures/rogue-01-uGuCGQvUmioFV2Bd.htm)|Rogue's Racket|Trafics de roublard|changé|
-|[rogue-01-w6rMqmGzhUahdnA7.htm](classfeatures/rogue-01-w6rMqmGzhUahdnA7.htm)|Surprise Attack|Attaque surprise|changé|
+|[rogue-01-w6rMqmGzhUahdnA7.htm](classfeatures/rogue-01-w6rMqmGzhUahdnA7.htm)|Surprise Attack|Attaque surprise|officielle|
 |[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|changé|
 |[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Trafic de roublard : Scélérat|changé|
 |[rogue-03-PNpmVmD21zViDtGC.htm](classfeatures/rogue-03-PNpmVmD21zViDtGC.htm)|Deny Advantage (Level 3)|Refus d'avantage (Niveau 3)|changé|

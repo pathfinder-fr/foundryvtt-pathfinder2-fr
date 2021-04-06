@@ -1,22 +1,12 @@
 # État de la traduction (familiar-abilities)
 
- * **officielle**: 8
- * **libre**: 23
- * **aucune**: 4
+ * **officielle**: 9
+ * **libre**: 26
 
 
-Dernière mise à jour: 2021-04-02 22:17 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-06 07:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[01-C16JgmeJJG249WXz.htm](familiar-abilities/01-C16JgmeJJG249WXz.htm)|Mask Freeze|
-|[04-43xB5UnexISlfRa5.htm](familiar-abilities/04-43xB5UnexISlfRa5.htm)|Purify Air|
-|[04-LUBS9csNNgRTui4p.htm](familiar-abilities/04-LUBS9csNNgRTui4p.htm)|Grasping Tendrils|
-|[04-SKIS1xexaOvrecdV.htm](familiar-abilities/04-SKIS1xexaOvrecdV.htm)|Verdant Belt|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -32,6 +22,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-A0C86V3MUECpX5jd.htm](familiar-abilities/01-A0C86V3MUECpX5jd.htm)|Amphibious|Amphibie|libre|
 |[01-asOhEdyF8CWFbR96.htm](familiar-abilities/01-asOhEdyF8CWFbR96.htm)|Spellcasting|Incantateur|libre|
 |[01-BXssJhTJjKrfojwG.htm](familiar-abilities/01-BXssJhTJjKrfojwG.htm)|Fast Movement: Land|Déplacement rapide : Au sol|libre|
+|[01-C16JgmeJJG249WXz.htm](familiar-abilities/01-C16JgmeJJG249WXz.htm)|Mask Freeze|Masque figé|officielle|
 |[01-cT5octWchU4gjrhP.htm](familiar-abilities/01-cT5octWchU4gjrhP.htm)|Manual Dexterity|Dextérité manuelle|officielle|
 |[01-dWTfO5WbLkD5mw2H.htm](familiar-abilities/01-dWTfO5WbLkD5mw2H.htm)|Climber|Grimpeur|officielle|
 |[01-FcQQLMAJMgOLjnSv.htm](familiar-abilities/01-FcQQLMAJMgOLjnSv.htm)|Resistance|Résistance|libre|
@@ -52,3 +43,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-XCqYnlVbLGqEGPeX.htm](familiar-abilities/01-XCqYnlVbLGqEGPeX.htm)|Touch Telepathy|Télépathie de contact|libre|
 |[01-ZHSzNt3NxkXbj1mI.htm](familiar-abilities/01-ZHSzNt3NxkXbj1mI.htm)|Flier|Volant|libre|
 |[01-zyMRLQnFCQVpltiR.htm](familiar-abilities/01-zyMRLQnFCQVpltiR.htm)|Speech|Parole|officielle|
+|[04-43xB5UnexISlfRa5.htm](familiar-abilities/04-43xB5UnexISlfRa5.htm)|Purify Air|Purificateur d'air|libre|
+|[04-LUBS9csNNgRTui4p.htm](familiar-abilities/04-LUBS9csNNgRTui4p.htm)|Grasping Tendrils|Vrilles agrippantes|libre|
+|[04-SKIS1xexaOvrecdV.htm](familiar-abilities/04-SKIS1xexaOvrecdV.htm)|Verdant Belt|Ceinture verdoyante|libre|

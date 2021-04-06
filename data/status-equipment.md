@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 188
+ * **officielle**: 194
  * **libre**: 163
  * **aucune**: 577
- * **changé**: 842
+ * **changé**: 836
 
 
-Dernière mise à jour: 2021-04-02 22:17 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-06 07:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -743,7 +743,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-txmX5ghhPS72GKXy.htm](equipment/consumable-01-txmX5ghhPS72GKXy.htm)|Giant Centipede Venom|Venin de mille-pattes géant|changé|
 |[consumable-01-tyt6rFtv32MZ4DT9.htm](equipment/consumable-01-tyt6rFtv32MZ4DT9.htm)|Cheetah's Elixir (Lesser)|Elixir du guépard (Inférieur)|changé|
 |[consumable-01-uG3xtNrs26scOVgW.htm](equipment/consumable-01-uG3xtNrs26scOVgW.htm)|Leaper's Elixir (Lesser)|Élixir du sauteur (inférieur)|changé|
-|[consumable-01-ukTlC4G83aVQEg7u.htm](equipment/consumable-01-ukTlC4G83aVQEg7u.htm)|Nectar of Purification|Nectar de purification|changé|
+|[consumable-01-ukTlC4G83aVQEg7u.htm](equipment/consumable-01-ukTlC4G83aVQEg7u.htm)|Nectar of Purification|Nectar de purification|officielle|
 |[consumable-01-uplCUQwMwBOBHz0E.htm](equipment/consumable-01-uplCUQwMwBOBHz0E.htm)|Unholy Water|Eau impie|changé|
 |[consumable-01-UqinuuCWePTYGhVO.htm](equipment/consumable-01-UqinuuCWePTYGhVO.htm)|Antiplague (Lesser)|Antimaladie (Inférieur)|changé|
 |[consumable-01-VeCNWhvEr82ZNoSV.htm](equipment/consumable-01-VeCNWhvEr82ZNoSV.htm)|Lastwall Soup|Soupe de Dernier-Rempart|changé|
@@ -780,13 +780,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-02-zM9VX3QwM81DzDUA.htm](equipment/consumable-02-zM9VX3QwM81DzDUA.htm)|Bravo's Brew (Lesser)|Breuvage de bravoure (Inférieur)|changé|
 |[consumable-02-zo0ophqfKunJFxZN.htm](equipment/consumable-02-zo0ophqfKunJFxZN.htm)|Lethargy Poison|Poison de léthargie|changé|
 |[consumable-03-0CNSvLpeSM4aIfPJ.htm](equipment/consumable-03-0CNSvLpeSM4aIfPJ.htm)|Feather Step Stone|Pierre de pas de plume|changé|
-|[consumable-03-aZm1x9tpvBAT8YCd.htm](equipment/consumable-03-aZm1x9tpvBAT8YCd.htm)|Cytillesh Oil|Hule de Cytillesh|changé|
+|[consumable-03-aZm1x9tpvBAT8YCd.htm](equipment/consumable-03-aZm1x9tpvBAT8YCd.htm)|Cytillesh Oil|Huile de Cytillesh|changé|
 |[consumable-03-Dn2KQgIeWNijaUzL.htm](equipment/consumable-03-Dn2KQgIeWNijaUzL.htm)|Feather Token (Chest)|Plume magique (coffre)|changé|
 |[consumable-03-e0vSAQfxhHauiAoD.htm](equipment/consumable-03-e0vSAQfxhHauiAoD.htm)|Healing Potion (Lesser)|Potion de guérison (inférieur)|changé|
 |[consumable-03-eEnzHpPEbdGgRETM.htm](equipment/consumable-03-eEnzHpPEbdGgRETM.htm)|Vine Arrow|Flèche de lierre|changé|
 |[consumable-03-fFq8nsGvSUgzVeND.htm](equipment/consumable-03-fFq8nsGvSUgzVeND.htm)|Feather Token (Bird)|Plume magique (oiseau)|changé|
-|[consumable-03-lIExlUFBKvBue8hb.htm](equipment/consumable-03-lIExlUFBKvBue8hb.htm)|Silvertongue Mutagen (Moderate)|Mutagène de langue dorée (modéré)|changé|
-|[consumable-03-mj9i9GeQTADByNPZ.htm](equipment/consumable-03-mj9i9GeQTADByNPZ.htm)|Juggernaut Mutagen (Moderate)|Mutagène de juggernaut|changé|
+|[consumable-03-lIExlUFBKvBue8hb.htm](equipment/consumable-03-lIExlUFBKvBue8hb.htm)|Silvertongue Mutagen (Moderate)|Mutagène de langue dorée (Modéré)|officielle|
+|[consumable-03-mj9i9GeQTADByNPZ.htm](equipment/consumable-03-mj9i9GeQTADByNPZ.htm)|Juggernaut Mutagen (Moderate)|Mutagène de juggernaut (modéré)|changé|
 |[consumable-03-n52BSbZsnx4Vmt2p.htm](equipment/consumable-03-n52BSbZsnx4Vmt2p.htm)|Quicksilver Mutagen (Moderate)|Mutagène de vif-argent (modéré)|changé|
 |[consumable-03-NSo0bFX7DGGjqKKl.htm](equipment/consumable-03-NSo0bFX7DGGjqKKl.htm)|Spellstrike Ammunition (Type I)|Munition de frappe magique (Type I)|changé|
 |[consumable-03-QN8UIz0nMcnLUWHu.htm](equipment/consumable-03-QN8UIz0nMcnLUWHu.htm)|Oil of Mending|Huile de réparation|changé|
@@ -824,7 +824,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-05-26bM70yn28MjDT9A.htm](equipment/consumable-05-26bM70yn28MjDT9A.htm)|Elven Absinthe|Absinthe elfique|changé|
 |[consumable-05-3uhaf2YL9hmix3pe.htm](equipment/consumable-05-3uhaf2YL9hmix3pe.htm)|Emerald Grasshopper|Sauterelle d'éméraude|changé|
 |[consumable-05-5RGNjhDxZ0yMhTds.htm](equipment/consumable-05-5RGNjhDxZ0yMhTds.htm)|Hunting Spider Venom|Venin d'araignée chasseresse|changé|
-|[consumable-05-AqLxu3ir4UGzdOaz.htm](equipment/consumable-05-AqLxu3ir4UGzdOaz.htm)|Cheetah's Elixir (Moderate)|Elixir du gupéard (modéré)|changé|
+|[consumable-05-AqLxu3ir4UGzdOaz.htm](equipment/consumable-05-AqLxu3ir4UGzdOaz.htm)|Cheetah's Elixir (Moderate)|Elixir du guépard (modéré)|changé|
 |[consumable-05-lPcnDlBGz5QwCMYw.htm](equipment/consumable-05-lPcnDlBGz5QwCMYw.htm)|Eagle Eye Elixir (Moderate)|Élixir d'œil de faucon (modéré)|changé|
 |[consumable-05-mmsuA7qPxFLLghtx.htm](equipment/consumable-05-mmsuA7qPxFLLghtx.htm)|Spellstrike Ammunition (Type II)|Munition de frappe magique (Type II)|changé|
 |[consumable-05-MobYbxEL4KgxVi63.htm](equipment/consumable-05-MobYbxEL4KgxVi63.htm)|Salve of Slipperiness|Onguent d'insaisissabilité|changé|
@@ -859,7 +859,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-07-76T49dJYfxIrPvQe.htm](equipment/consumable-07-76T49dJYfxIrPvQe.htm)|Malyass Root Paste|Pâte de racine de malyasse|changé|
 |[consumable-07-9ignmYCACjfzkxDQ.htm](equipment/consumable-07-9ignmYCACjfzkxDQ.htm)|Serum of Sex Shift|Sérum de changement de sexe|changé|
 |[consumable-07-aBOPYlfHAcXUmhF7.htm](equipment/consumable-07-aBOPYlfHAcXUmhF7.htm)|Giant Wasp Venom|Venin de guèpe géante|changé|
-|[consumable-07-d5aCuFS1dhKXhsZ0.htm](equipment/consumable-07-d5aCuFS1dhKXhsZ0.htm)|Addlebrain|Brouillecervelle|changé|
+|[consumable-07-d5aCuFS1dhKXhsZ0.htm](equipment/consumable-07-d5aCuFS1dhKXhsZ0.htm)|Addlebrain|Brouillecervelle|officielle|
 |[consumable-07-eEIWjTvZyKsKhYaz.htm](equipment/consumable-07-eEIWjTvZyKsKhYaz.htm)|Grim Trophy|Sinistre trophée|changé|
 |[consumable-07-ehss8yPTXxiUdVlJ.htm](equipment/consumable-07-ehss8yPTXxiUdVlJ.htm)|Smokestick (Greater)|Bâton fumigène (supérieur)|changé|
 |[consumable-07-fkGHYeGVK6O2VW1s.htm](equipment/consumable-07-fkGHYeGVK6O2VW1s.htm)|Red Dragon's Breath Potion (Young)|Potion de souffle de jeune dragon rouge|changé|
@@ -876,9 +876,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-07-xpVHMxLcwgXzL39e.htm](equipment/consumable-07-xpVHMxLcwgXzL39e.htm)|Blue Dragon's Breath Potion (Young)|Potion de souffle d'un jeune dragon bleu|changé|
 |[consumable-07-xRrMmFzpa0WU9uV4.htm](equipment/consumable-07-xRrMmFzpa0WU9uV4.htm)|White Dragon's Breath Potion (Young)|Potion de souffle du jeune dragon blanc|changé|
 |[consumable-07-YGaO4HyH6jn3P731.htm](equipment/consumable-07-YGaO4HyH6jn3P731.htm)|Murderer's Knot|Noeud du meurtier|changé|
-|[consumable-08-5xsfj30uXMKINxnk.htm](equipment/consumable-08-5xsfj30uXMKINxnk.htm)|Shrinking Potion (Greater)|Potion de rétrécissement|changé|
+|[consumable-08-5xsfj30uXMKINxnk.htm](equipment/consumable-08-5xsfj30uXMKINxnk.htm)|Shrinking Potion (Greater)|Potion de rétrécissement (Supérieur)|changé|
 |[consumable-08-61mFRFnaCLHDtvdv.htm](equipment/consumable-08-61mFRFnaCLHDtvdv.htm)|Candle of Truth|Cierge de vérité|changé|
-|[consumable-08-8BDBsf55gP0UW07Y.htm](equipment/consumable-08-8BDBsf55gP0UW07Y.htm)|Scour|Érode|changé|
+|[consumable-08-8BDBsf55gP0UW07Y.htm](equipment/consumable-08-8BDBsf55gP0UW07Y.htm)|Scour|Érode|officielle|
 |[consumable-08-cKqZe5imzxqSnzwD.htm](equipment/consumable-08-cKqZe5imzxqSnzwD.htm)|Jade Bauble|Babiole de jade|changé|
 |[consumable-08-KdeeRCrtsDCJLfgc.htm](equipment/consumable-08-KdeeRCrtsDCJLfgc.htm)|Nettleweed Residue|Résidu de lierrortie|changé|
 |[consumable-08-KlJSw919hpN6V9oK.htm](equipment/consumable-08-KlJSw919hpN6V9oK.htm)|Potion of Flying (Standard)|Potion de vol (standard)|changé|
@@ -1016,7 +1016,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-20-xqCz2vStMNJujfpp.htm](equipment/consumable-20-xqCz2vStMNJujfpp.htm)|Instant Evisceration Snare|Piège artisanal d'éviscération instantanée|changé|
 |[equipment-00-3MGQ8KxH7HNA8THZ.htm](equipment/equipment-00-3MGQ8KxH7HNA8THZ.htm)|Jellyfish Lamp|Méduse lumineuse|changé|
 |[equipment-00-3tOyV4VZEZhwnAMO.htm](equipment/equipment-00-3tOyV4VZEZhwnAMO.htm)|Fishing Tackle|Articles de pêche|changé|
-|[equipment-00-3yLu12TCwN8utY0u.htm](equipment/equipment-00-3yLu12TCwN8utY0u.htm)|Writing Set (Extra Ink and Paper)|Encre eet papier supplémentaires|changé|
+|[equipment-00-3yLu12TCwN8utY0u.htm](equipment/equipment-00-3yLu12TCwN8utY0u.htm)|Writing Set (Extra Ink and Paper)|Encre et papier supplémentaires|officielle|
 |[equipment-00-44F1mfJei4GY8f2X.htm](equipment/equipment-00-44F1mfJei4GY8f2X.htm)|Crowbar|Pied-de-biche|changé|
 |[equipment-00-4AnNkIA5Ux6ePy7r.htm](equipment/equipment-00-4AnNkIA5Ux6ePy7r.htm)|Orichalcum Ingot|Lingot d'orichalque|changé|
 |[equipment-00-4ftXXUCBHcf4b0MH.htm](equipment/equipment-00-4ftXXUCBHcf4b0MH.htm)|Alchemist's Tools|Outils d'alchimiste|officielle|
@@ -1062,7 +1062,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-plplsXJsqrdqNQVI.htm](equipment/equipment-00-plplsXJsqrdqNQVI.htm)|Religious Symbol (Wooden)|Symbole religieux (bois)|changé|
 |[equipment-00-QbOlqr4lSkeOEfty.htm](equipment/equipment-00-QbOlqr4lSkeOEfty.htm)|Holly and Mistletoe|Houx et gui|changé|
 |[equipment-00-qCEOZ6109Yo34tRx.htm](equipment/equipment-00-qCEOZ6109Yo34tRx.htm)|Formula Book (Blank)|Formulaire|changé|
-|[equipment-00-QJb8S927Yj81EgHH.htm](equipment/equipment-00-QJb8S927Yj81EgHH.htm)|Writing Set|Nécessaire d'écriture|changé|
+|[equipment-00-QJb8S927Yj81EgHH.htm](equipment/equipment-00-QJb8S927Yj81EgHH.htm)|Writing Set|Nécessaire d'écriture|officielle|
 |[equipment-00-QpP7Mo7ad5lMOTpv.htm](equipment/equipment-00-QpP7Mo7ad5lMOTpv.htm)|Mithral Ingot|Lingot de mithral|changé|
 |[equipment-00-QrNvP9SgnK9DrerA.htm](equipment/equipment-00-QrNvP9SgnK9DrerA.htm)|Lantern (Bull's Eye)|Lanterne sourde|changé|
 |[equipment-00-r9lPNhrvG69Ae88d.htm](equipment/equipment-00-r9lPNhrvG69Ae88d.htm)|Darkwood Lumber|Planche d'ébénite|changé|

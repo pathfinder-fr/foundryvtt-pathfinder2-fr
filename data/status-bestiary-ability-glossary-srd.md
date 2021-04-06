@@ -1,30 +1,28 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
- * **aucune**: 5
+ * **libre**: 5
  * **officielle**: 15
  * **changé**: 26
- * **libre**: 1
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2021-04-02 22:17 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-06 07:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[0B39GdScyZMPWalX.htm](bestiary-ability-glossary-srd/0B39GdScyZMPWalX.htm)|Power Attack|
-|[4Ho2xMPEC05aSxzr.htm](bestiary-ability-glossary-srd/4Ho2xMPEC05aSxzr.htm)|Greater Darkvision|
-|[Hrevxi3glTGgxzY6.htm](bestiary-ability-glossary-srd/Hrevxi3glTGgxzY6.htm)|Goblin Scuttle|
-|[OvqohW9YuahnFaiX.htm](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Form Up|
 |[RJbI07QSiYp0SF9A.htm](bestiary-ability-glossary-srd/RJbI07QSiYp0SF9A.htm)|Troop Defenses|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[0B39GdScyZMPWalX.htm](bestiary-ability-glossary-srd/0B39GdScyZMPWalX.htm)|Power Attack|Attaque en puissance|libre|
 |[2YRDYVnC1eljaXKK.htm](bestiary-ability-glossary-srd/2YRDYVnC1eljaXKK.htm)|At-Will Spells|Sorts à volonté|officielle|
 |[3JOi2cMcGhT3eze1.htm](bestiary-ability-glossary-srd/3JOi2cMcGhT3eze1.htm)|Rend|Éventration|officielle|
+|[4Ho2xMPEC05aSxzr.htm](bestiary-ability-glossary-srd/4Ho2xMPEC05aSxzr.htm)|Greater Darkvision|Vision dans le noir supérieure|libre|
 |[52CdldlWMiVTZk1F.htm](bestiary-ability-glossary-srd/52CdldlWMiVTZk1F.htm)|Coven|Cercle|officielle|
 |[6l7e7CHQLESlI57U.htm](bestiary-ability-glossary-srd/6l7e7CHQLESlI57U.htm)|Improved Push|Bousculade améliorée|officielle|
 |[9qV49KjZujZnSp6w.htm](bestiary-ability-glossary-srd/9qV49KjZujZnSp6w.htm)|All-Around Vision|Vision à 360°|officielle|
@@ -39,6 +37,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[g26YiEIfSHCpLocV.htm](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constrict|Constriction|changé|
 |[HBrBrUzjfvj2gDXB.htm](bestiary-ability-glossary-srd/HBrBrUzjfvj2gDXB.htm)|Aquatic Ambush|Embuscade aquatique|changé|
 |[hFtNbo1LKYCoDy2O.htm](bestiary-ability-glossary-srd/hFtNbo1LKYCoDy2O.htm)|Attack of Opportunity|Attaque d'opportunité|officielle|
+|[Hrevxi3glTGgxzY6.htm](bestiary-ability-glossary-srd/Hrevxi3glTGgxzY6.htm)|Goblin Scuttle|Carapate gobeline|libre|
 |[I0HYG0ctCLP5JRsW.htm](bestiary-ability-glossary-srd/I0HYG0ctCLP5JRsW.htm)|Light Blindness|Aveuglé par la lumière|changé|
 |[i18TlebMzwONyPhI.htm](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Improved Grab|Empoignade/agrippement amélioré|changé|
 |[IQtb58p4EaeUzTN1.htm](bestiary-ability-glossary-srd/IQtb58p4EaeUzTN1.htm)|Retributive Strike|Frappe punitive|changé|
@@ -52,6 +51,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[N1kstYbHScxgUQtN.htm](bestiary-ability-glossary-srd/N1kstYbHScxgUQtN.htm)|Ferocity|Férocité|changé|
 |[nZMQh4AaBr291TUf.htm](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Buck|Désarçonner|changé|
 |[OmV6E3aELvq9CkK1.htm](bestiary-ability-glossary-srd/OmV6E3aELvq9CkK1.htm)|Greater Constrict|Constriction supérieure|changé|
+|[OvqohW9YuahnFaiX.htm](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Form Up|Se reformer|libre|
 |[qCCLZhnp2HhP3Ex6.htm](bestiary-ability-glossary-srd/qCCLZhnp2HhP3Ex6.htm)|Darkvision|Vision dans le noir|changé|
 |[rqfnQ5VHT5hxm25r.htm](bestiary-ability-glossary-srd/rqfnQ5VHT5hxm25r.htm)|Scent|Odorat|officielle|
 |[sebk9XseMCRkDqRg.htm](bestiary-ability-glossary-srd/sebk9XseMCRkDqRg.htm)|Lifesense|Sens de la vie|officielle|

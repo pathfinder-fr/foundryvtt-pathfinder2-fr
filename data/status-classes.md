@@ -1,16 +1,17 @@
 # État de la traduction (classes)
 
- * **changé**: 17
+ * **officielle**: 1
+ * **changé**: 16
 
 
-Dernière mise à jour: 2021-04-02 22:17 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-06 07:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[15Yc1r6s9CEhSTMe.htm](classes/15Yc1r6s9CEhSTMe.htm)|Sorcerer|Ensorceleur|changé|
+|[15Yc1r6s9CEhSTMe.htm](classes/15Yc1r6s9CEhSTMe.htm)|Sorcerer|Ensorceleur|officielle|
 |[3gweRQ5gn7szIWAv.htm](classes/3gweRQ5gn7szIWAv.htm)|Bard|Barde|changé|
 |[4wrSCyX6akmyo7Wj.htm](classes/4wrSCyX6akmyo7Wj.htm)|Investigator|Enquêteur|changé|
 |[7s57JDCaiYYCAdFx.htm](classes/7s57JDCaiYYCAdFx.htm)|Druid|Druide|changé|

@@ -1,11 +1,11 @@
 # État de la traduction (ancestries)
 
- * **libre**: 7
- * **changé**: 7
+ * **libre**: 13
+ * **changé**: 1
  * **officielle**: 9
 
 
-Dernière mise à jour: 2021-04-02 22:17 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-06 07:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -19,19 +19,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BYj5ZvlXZdpaEgA6.htm](ancestries/BYj5ZvlXZdpaEgA6.htm)|Dwarf|Nain|officielle|
 |[cdhgByGG1WtuaK73.htm](ancestries/cdhgByGG1WtuaK73.htm)|Leshy|Léchi|officielle|
 |[CYlfsYLJcBOgqKtD.htm](ancestries/CYlfsYLJcBOgqKtD.htm)|Gnome|Gnome|officielle|
-|[FXlXmNBFiiz9oasi.htm](ancestries/FXlXmNBFiiz9oasi.htm)|Fleshwarp|Distordu|changé|
-|[GfLwE884NoRC7cRi.htm](ancestries/GfLwE884NoRC7cRi.htm)|Android|Androïde|changé|
+|[FXlXmNBFiiz9oasi.htm](ancestries/FXlXmNBFiiz9oasi.htm)|Fleshwarp|Distordu|libre|
+|[GfLwE884NoRC7cRi.htm](ancestries/GfLwE884NoRC7cRi.htm)|Android|Androïde|libre|
 |[GgZAHbrjnzWOZy2v.htm](ancestries/GgZAHbrjnzWOZy2v.htm)|Halfling|Halfelin|officielle|
-|[GXcC6oVa5quzgNHD.htm](ancestries/GXcC6oVa5quzgNHD.htm)|Strix|Strix|changé|
+|[GXcC6oVa5quzgNHD.htm](ancestries/GXcC6oVa5quzgNHD.htm)|Strix|Strix|libre|
 |[hIA3qiUsxvLZXrFP.htm](ancestries/hIA3qiUsxvLZXrFP.htm)|Fetchling|Fetchelin|libre|
 |[HWEgF7Gmoq55VhTL.htm](ancestries/HWEgF7Gmoq55VhTL.htm)|Lizardfolk|Hommes-lézard|officielle|
 |[IiG7DgeLWYrSNXuX.htm](ancestries/IiG7DgeLWYrSNXuX.htm)|Human|Humain|officielle|
 |[lSGWXjcbOa6O5fTx.htm](ancestries/lSGWXjcbOa6O5fTx.htm)|Orc|Orc|libre|
-|[mDtlRBBUWqUzYSHs.htm](ancestries/mDtlRBBUWqUzYSHs.htm)|[Empty Ancestry]|[Ascendance vierge]|changé|
+|[mDtlRBBUWqUzYSHs.htm](ancestries/mDtlRBBUWqUzYSHs.htm)|[Empty Ancestry]|[Ascendance vierge]|libre|
 |[P6PcVnCkh4XMdefw.htm](ancestries/P6PcVnCkh4XMdefw.htm)|Ratfolk|Homme-rat|libre|
 |[PgKmsA2aKdbLU6O0.htm](ancestries/PgKmsA2aKdbLU6O0.htm)|Elf|Elfe|officielle|
 |[piNLXUrm9iaGqD2i.htm](ancestries/piNLXUrm9iaGqD2i.htm)|Hobgoblin|Hobgobelin|officielle|
-|[q6rsqYARyOGXZA8F.htm](ancestries/q6rsqYARyOGXZA8F.htm)|Shoony|Shoony|changé|
+|[q6rsqYARyOGXZA8F.htm](ancestries/q6rsqYARyOGXZA8F.htm)|Shoony|Shoony|libre|
 |[sQfjTMDaZbT9DThq.htm](ancestries/sQfjTMDaZbT9DThq.htm)|Goblin|Gobelin|officielle|
-|[TRqoeYfGAFjQbviF.htm](ancestries/TRqoeYfGAFjQbviF.htm)|Sprite|Sprite|changé|
+|[TRqoeYfGAFjQbviF.htm](ancestries/TRqoeYfGAFjQbviF.htm)|Sprite|Sprite|libre|
 |[yFoojz6q3ZjvceFw.htm](ancestries/yFoojz6q3ZjvceFw.htm)|Azarketi|Azarketi|libre|

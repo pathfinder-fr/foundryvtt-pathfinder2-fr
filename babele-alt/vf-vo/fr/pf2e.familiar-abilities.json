@@ -42,6 +42,11 @@
             "description": "<p>Choisissez un sort dans votre répertoire ou que vous avez préparé dans la journée qui est d'au moins 5 niveaux inférieur à votre plus haut niveau d'emplacement de sort. Votre familier peut Lancer ce sort une fois par jour en utilisant votre tradition magique, votre modificateur de sort et votre DD de sort. Si le sort a un inconvénient qui affecte l'incantateur, vous êtes affectés tous les deux. Vous devez être capable de lancer des sorts de niveau 6 en utilisant des emplacements de sort pour choisir cette capacité.</p>"
         },
         {
+            "id": "Purify Air",
+            "name": "Purificateur d'air (Purify Air)",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<hr />\n<p>Votre familier recycle l'air, fournissant assez d'oxygène à une créature de taille Moyenne dans les zones avec de l'air vicié, tel qu'une chambre scellée ou un espace extradimensionnel. Si le léchi est dans la zone d'un effet de poison inhalé ou d'un effet qui compte sur l'odorat, les créatures dans une émanation de 4,5 m du léchi obtiennent un bonus de circonstances de +2 à leur jet de sauvegarde contre l'effet.</p>"
+        },
+        {
             "id": "Fast Movement: Land",
             "name": "Déplacement rapide : Au sol (Fast Movement: Land)",
             "description": "<p>Augmentez la Vitesse de votre familier de 7,5 à 12 m.</p>"
@@ -60,6 +65,11 @@
             "id": "Scent",
             "name": "Odorat (Scent)",
             "description": "<p>Votre familier gagne odorat (imprécis, 9 m).</p>"
+        },
+        {
+            "id": "Grasping Tendrils",
+            "name": "Vrilles agrippantes (Grasping Tendrils)",
+            "description": "<p>Prérequis @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<p>Votre familier peut faire pousser des lianes ou des vrilles similaires, augmentant sa portée à 4,5 m.</p>"
         },
         {
             "id": "Fast Movement: Fly",
@@ -104,7 +114,7 @@
         {
             "id": "Accompanist",
             "name": "Accompagnateur (Accompanist)",
-            "description": "<p>Votre familier aide votre représentation. Lorsque vous tentez un test de Représentation, si votre familier est à proximité et peut agir, il vous accompagne avec des gazouillements, des applaudissement ou son propre instrument miniature. Cela vous donne un bonus de circonstance de +1 ou de +2 si vous êtes maître en Représentation.</p>"
+            "description": "<p>Votre familier aide votre représentation. Lorsque vous tentez un test de Représentation, si votre familier est à proximité et peut agir, il vous accompagne avec des gazouillements, des applaudissement ou son propre instrument miniature. Cela vous donne un bonus de circonstances de +1 ou de +2 si vous êtes maître en Représentation.</p>"
         },
         {
             "id": "Flier",
@@ -125,6 +135,11 @@
             "id": "Master's Form",
             "name": "Forme du maître (Master's Form)",
             "description": "<p>Votre familier peut changer de forme par une unique action, se transformant en un humanoïde de votre héritage avec le même âge, le même genre et la même constitution que celle de sa véritable forme, bien qu'il présente toujours un reste surnaturel évident de sa nature, comme des yeux de chat ou une langue de serpent. Cette forme est toujours la même chaque fois qu'il utilise cette capacité. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Forme humanoïde}, sauf que le changement est purement cosmétique. Il apparaît seulement comme humanoïde mais ne gagne aucune capacité nouvelle. Votre familier doit avoir les capacités @Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]{dextérité manuelle} et @Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]{parole} pour pouvoir sélectionner cette capacité.</p>"
+        },
+        {
+            "id": "Verdant Belt",
+            "name": "Ceinture verdoyante (Verdant Belt)",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<p>Lorsque votre familier meurt, il relâche son énergie primordial pour lancer la version de @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} à trois actions, intensifié à un niveau de 1 moins élevé que votre plus haut emplacement de sort. Le sort <em>Guérison</em> obtient aussi un bonus de statut égal à deux fois le niveau de sort au nombre de Points de vie qu'il redonne aux plantes. Vous devez être capable de lancer les sorts de niveau 2 en utilisant des emplacements de sort pour choisir cette aptitude de familier.</p>"
         },
         {
             "id": "Amphibious",
@@ -150,6 +165,11 @@
             "id": "Burrower",
             "name": "Fouisseur (Burrower)",
             "description": "<p>Votre familier gagne une Vitesse de creusement de 1,5 m, qui lui permet de creuser des trous très Petits.</p>"
+        },
+        {
+            "id": "Mask Freeze",
+            "name": "Masque figé (Mask Freeze)",
+            "description": "<p>lorsqu’il est sous forme de masque, votre familier peut dissimuler ses évidentes capacités surnaturelles afin de passer pour un masque simple et sans prétention. Il n’a pas besoin de Se déguiser pour duper un simple coup d’œil et il gagne un bonus de circonstances de +4 à son DD de Duperie contre un observateur actif qui Cherche ou qui l’étudie.</p>"
         },
         {
             "id": "Resistance",

@@ -14,7 +14,7 @@
         {
             "id": "Spell Effect: Shield",
             "name": "Effet : Bouclier (Spell Effect: Shield)",
-            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Bouclier}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de circonstance de +1 à la CA</li>\n</ul>"
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Bouclier}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de circonstances de +1 à la CA</li>\n</ul>"
         },
         {
             "id": "Spell Effect: Inspire Courage",

@@ -2,6 +2,11 @@
     "label": "Aptitudes du bestiaire",
     "entries": [
         {
+            "id": "Form Up",
+            "name": "Form Up",
+            "description": "<p>La troupe choisit une des cases qu'elle occupe actuellement et redistribue ses cases dans n'importe quelle configuration dans laquelle toutes les cases sont contiguës et dans les 4,5 m de la case choisie. La troupe ne peut partager sa case avec d'autres créatures.</p>"
+        },
+        {
             "id": "Catch Rock",
             "name": "Catch Rock",
             "description": "<p><strong>Conditions</strong> Le monstre doit avoir une main libre, mais il peut Relâcher quelque chose qu’il est en train de tenir dans le cadre de cette réaction.</p>\n<p><strong>Déclencheur</strong> Le monstre est pris pour cible par une Frappe utilisant un rocher jeté ou un rocher est sur le point de\ntomber sur le monstre.</p>\n<p><strong>Effet</strong> Le monstre gagne un bonus de circonstances de +4 à sa CA contre l’attaque déclencheur ou à toute défense contre le rocher en train de lui tomber dessus. Si l’attaque échoue ou que le monstre réussit à se défendre du rocher en train de chuter, il rattrape alors le rocher dans sa main et ne subit pas de dégâts.</p>"
@@ -75,6 +80,11 @@
             "id": "Light Blindness",
             "name": "Light Blindness",
             "description": "<p> Quand il se trouve exposé à une lumière vive, le monstre est @Compendium[pf2e.conditionspf2e.XgEqL1kFApUbl5Z2]{aveuglé} jusqu’à la fin de son prochain tour. Après cette exposition initiale, la lumière n’aveugle plus le monstre tant qu’il n’a pas passé 1 h dans les ténèbres. Néanmoins, le monstre se trouve dans l’état @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{ébloui} tant qu’il reste dans une zone de lumière vive.</p>"
+        },
+        {
+            "id": "Power Attack",
+            "name": "Power Attack",
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Effet</strong> Le monstre effectue une Frappe au corps-à-corps. Cela compte comme deux attaques lorsque vous calculez la Pénalité d'attaque multiple du monstre. Si la Frappe touche, le monstre inflige un dé d'arme supplémentaire.</p>"
         },
         {
             "id": "Improved Grab",
@@ -185,6 +195,16 @@
             "id": "Buck",
             "name": "Buck",
             "description": "<p>La plupart des monstres qui servent de monture peuvent tenter de désarçonner des cavaliers importuns ou agaçants. Les montures n’utiliseront généralement pas cette réaction contre une créature en qui elles ont confiance, sauf si elles prennent peur ou sont maltraitées.</p>\n<p><strong>Déclencheur</strong> Une créature @Compendium[pf2e.actionspf2e.PM5jvValFkbFH3TV]{Se met en selle} ou utilise l’action @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Diriger un animal} alors qu’elle monte le monstre. </p>\n<p><strong>Effet</strong> La créature déclencheur doit réussir un jet de sauvegarde de Réflexes contre le DD indiqué ou tomber de la créature et se retrouver @Compendium[pf2e.conditionspf2e.j91X7x0XSomq8d60]{À terre}. Si le jet de sauvegarde est un échec critique, la créature déclencheur subit [[/roll 1d6]] dégâts contondants en plus des dégâts causés par la chute.</p>"
+        },
+        {
+            "id": "Greater Darkvision",
+            "name": "Greater Darkvision",
+            "description": "<p>Une créature possédant vision dans le noir supérieure peut voir parfaitement dans des zones d'obscurité et de lumière faible, bien qu'une telle vision soit seulement en noir et blanc. Certaines formes d'obscurité magique, tel qu'un sort d'@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Obscurité} au niveau 4, bloquent la @Compendium[pf2e.bestiary-ability-glossary-srd.qCCLZhnp2HhP3Ex6]{Vision dans le noir}. Une créature avec Vision dans le noir supérieure, quoi qu'il en soit, peuvent voir même au travers de ces formes d'obscurité magique.</p>"
+        },
+        {
+            "id": "Goblin Scuttle",
+            "name": "Goblin Scuttle",
+            "description": "<p><strong>Déclencheur</strong> Un allié gobelin termine une action de déplacement adjacent au combattant.</p>\n<hr />\n<p><strong>Effet</strong> Le combattant gobelin @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Fait un pas}.</p>"
         },
         {
             "id": "Trample",
