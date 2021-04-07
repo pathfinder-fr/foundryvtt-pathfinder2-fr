@@ -290,7 +290,7 @@ def dirtyTranslate(data):
   driver.get("https://translate.google.com/?sl=en&tl=fr&format=html&op=translate")
   inputer = driver.find_element_by_xpath("//textarea[@jsname='BJE2fc']")
   inputer.send_keys(data)
-  output = WebDriverWait(driver, timeout=20).until(lambda d: d.find_element_by_xpath("//div[@class='J0lOec']"))
+  output = WebDriverWait(driver, timeout=40).until(lambda d: d.find_element_by_xpath("//div[@class='J0lOec']"))
   transData = output.text
   driver.quit()
   transData = cleanTrad(transData)
