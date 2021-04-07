@@ -294,7 +294,6 @@ def dirtyTranslate(data):
   transData = output.text
   driver.quit()
   transData = cleanTrad(transData)
-  print(transData)
   return transData
 
 #
