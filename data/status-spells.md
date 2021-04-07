@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
  * **officielle**: 311
- * **libre**: 199
+ * **libre**: 201
  * **changé**: 355
- * **aucune**: 11
+ * **aucune**: 9
 
 
-Dernière mise à jour: 2021-04-06 07:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-07 18:05 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,8 +14,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[div-05-zaZieDHguhahmM2z.htm](spells/div-05-zaZieDHguhahmM2z.htm)|Waters of Prediction|
-|[enc-04-APDrC83QljsyHenB.htm](spells/enc-04-APDrC83QljsyHenB.htm)|Savant's Curse|
-|[enc-04-dARE6VfJ3Uoq5M53.htm](spells/enc-04-dARE6VfJ3Uoq5M53.htm)|Daydreamer's Curse|
 |[evo-03-0jWBnIDFpJjJShdQ.htm](spells/evo-03-0jWBnIDFpJjJShdQ.htm)|Dragon Breath (Blue or Bronze)|
 |[evo-03-6mmEz1UoTHGB7Sy9.htm](spells/evo-03-6mmEz1UoTHGB7Sy9.htm)|Dragon Breath (Copper or Black)|
 |[evo-03-bmDgIbLa5NfkP97J.htm](spells/evo-03-bmDgIbLa5NfkP97J.htm)|Dragon Breath (Silver or White)|
@@ -382,6 +380,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enc-03-yM3KTTSAIHhyuP14.htm](spells/enc-03-yM3KTTSAIHhyuP14.htm)|Dream Message|Message onirique|officielle|
 |[enc-04-4DaHIgtMBTyxebY3.htm](spells/enc-04-4DaHIgtMBTyxebY3.htm)|Commanding Lash|Fouet du maître|officielle|
 |[enc-04-7tR29sQt35NfIWqN.htm](spells/enc-04-7tR29sQt35NfIWqN.htm)|Anathematic Reprisal|Anathème et représailles|changé|
+|[enc-04-APDrC83QljsyHenB.htm](spells/enc-04-APDrC83QljsyHenB.htm)|Savant's Curse|Malédiction du savant|libre|
+|[enc-04-dARE6VfJ3Uoq5M53.htm](spells/enc-04-dARE6VfJ3Uoq5M53.htm)|Daydreamer's Curse|Malédiction du rêveur éveillé|libre|
 |[enc-04-eCniO6INHNfc9Svr.htm](spells/enc-04-eCniO6INHNfc9Svr.htm)|Overflowing Sorrow|Chagrins débordantss|changé|
 |[enc-04-FSu6ZKxr3xdS75wq.htm](spells/enc-04-FSu6ZKxr3xdS75wq.htm)|Roar of the Wyrm|Rugissement du Ver|changé|
 |[enc-04-i7u6gAdNcyIyyo3h.htm](spells/enc-04-i7u6gAdNcyIyyo3h.htm)|Favorable Review|Critique favorable|libre|
