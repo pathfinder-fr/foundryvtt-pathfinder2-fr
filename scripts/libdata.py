@@ -6,6 +6,10 @@ import re
 import requests
 import json
 
+from selenium import webdriver
+from selenium.webdriver import DesiredCapabilities
+from selenium.webdriver.support.ui import WebDriverWait
+
 
 SUPPORTED = {
   "spells":                         { 'transl': "Sorts", "paths": { 'name': "name", 'desc': "data.description.value", 'type1': "data.school.value", 'type2': "data.level.value" } },
@@ -273,6 +277,40 @@ def readFolder(path):
     resultByName[data['nameEN']] = data
     
   return [resultById, resultByName]
-    
-    
-    
+
+
+#
+# Cette fonction tente une traduction automatique 
+# sur Google Translate
+#
+def dirtyTranslate(data):
+  options = webdriver.FirefoxOptions()
+  options.add_argument("--headless")
+  driver = webdriver.Firefox(options=options)
+  driver.get("https://translate.google.com/?sl=en&tl=fr&format=html&op=translate")
+  inputer = driver.find_element_by_xpath("//textarea[@jsname='BJE2fc']")
+  inputer.send_keys(data)
+  output = WebDriverWait(driver, timeout=20).until(lambda d: d.find_element_by_xpath("//div[@class='J0lOec']"))
+  transData = output.text
+  driver.quit()
+  transData = cleanTrad(transData)
+  print(transData)
+  return transData
+
+#
+# Nettoie la traduction en corrigeant les termes mal-traduits ou
+# qui ne devaient pas être traduits
+#
+def cleanTrad(data):
+  data = data.replace("</ ", "</")
+  data = data.replace("<Strong>", "<strong>")
+  data = data.replace("</Strong>", "</strong>")
+  data = re.sub("<[f,F]+ort[e]{0,1}>", "<strong>", data)
+  data = re.sub("</[f,F]+ort[e]{0,1}>", "</strong>", data)
+  data = re.sub("[0-9]+D[0-9]+", lambda s: s.group(0).replace("D", "d"), data)
+  data = data.replace("</P>", "</p>")
+  data = data.replace("[[/ R", "[[/r")
+  data = data.replace("accroître", "Intensifié")
+  data = data.replace("#feu", "#fire")
+  data = data.replace("#acide", "#acid")
+  return data

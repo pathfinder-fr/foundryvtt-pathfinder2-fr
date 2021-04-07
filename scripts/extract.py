@@ -95,7 +95,7 @@ for p in packs:
         os.rename(pathFrom, pathTo)
       
       # check status from existing file
-      if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé"):
+      if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé", "auto-trad"):
         print("Status error for : %s" % filepath);
         exit(1)
        
@@ -135,12 +135,13 @@ for p in packs:
       
       # create new
       else:
+        tradDesc = dirtyTranslate(source['desc'])
         data = { 
           'nameEN': source['name'],
           'nameFR': "",
-          'status': 'aucune',
+          'status': 'auto-trad',
           'descrEN': source['desc'],
-          'descrFR': "",
+          'descrFR': tradDesc,
           'listsEN': source['lists'],
           'listsFR': {} }
         dataToFile(data, filepath)
