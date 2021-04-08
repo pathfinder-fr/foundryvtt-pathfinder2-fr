@@ -15,6 +15,7 @@ for D in SUPPORTED:
   dirpath= "%s/data/%s" % (ROOT, D)
 
   statusContentOK = "| Fichier   | Nom (EN)    | Nom (FR)    | État |\n" + "|-----------|-------------|-------------|:----:|\n"
+  statusContentAT = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|-------------|:----:|\n"
   statusContentNOK = "| Fichier   | Nom (EN)    |\n" + "|-----------|-------------|\n"
     
   files = [f for f in os.listdir(dirpath) if os.path.isfile(os.path.join(dirpath, f))]
@@ -31,6 +32,8 @@ for D in SUPPORTED:
     
     if data['status'] == "aucune":
       statusContentNOK += "|[%s](%s/%s)|%s|\n" % (f, D, f, data['nameEN'])
+    elif data['status'] == "auto-trad":
+      statusContentAT += "|[%s](%s/%s)|%s|%s|\n" % (f, D, f, data['nameEN'], data['status'])
     else:
       statusContentOK += "|[%s](%s/%s)|%s|%s|%s|\n" % (f, D, f, data['nameEN'], data['nameFR'], data['status'])
     
@@ -44,6 +47,9 @@ for D in SUPPORTED:
   if "aucune" in stats and stats["aucune"] > 0:
     content += "\n## Liste des traductions à faire\n\n"
     content += statusContentNOK
+  elif "auto-trad" in stats and stats["auto-trad"] > 0:
+    content += "\n## Liste des traductions automatiques à corriger/retraduire\n\n"
+    content += statusContentAT
   content += "\n## Liste des traductions complétés\n\n"
   content += statusContentOK
   
