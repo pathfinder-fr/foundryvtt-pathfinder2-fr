@@ -1,19 +1,18 @@
 # État de la traduction (equipment)
 
- * **officielle**: 194
- * **libre**: 163
- * **aucune**: 577
- * **changé**: 836
+ * **officielle**: 196
+ * **libre**: 164
+ * **aucune**: 576
+ * **changé**: 834
 
 
-Dernière mise à jour: 2021-04-06 07:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-07 18:05 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[armor-05-slQRh4FVDzP8h1wj.htm](equipment/armor-05-slQRh4FVDzP8h1wj.htm)|Exploding Shield|
 |[armor-09-Blp9Ha1YeIJOeFls.htm](equipment/armor-09-Blp9Ha1YeIJOeFls.htm)|Spangled Rider's Suit|
 |[armor-09-nVlKU2et4EeReayr.htm](equipment/armor-09-nVlKU2et4EeReayr.htm)|Victory Plate|
 |[armor-10-GDSclGF1yk0sw86V.htm](equipment/armor-10-GDSclGF1yk0sw86V.htm)|Numerian Steel Breastplate|
@@ -618,6 +617,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-02-IxuDS3POB6EH8TVN.htm](equipment/armor-02-IxuDS3POB6EH8TVN.htm)|Glamorous Buckler|Targe étincelante|libre|
 |[armor-02-lCgXeV52eYYl5cUX.htm](equipment/armor-02-lCgXeV52eYYl5cUX.htm)|Hellknight Plate|Armure de Chevalier infernal|libre|
 |[armor-04-f9ygr5Cjrmop8LWV.htm](equipment/armor-04-f9ygr5Cjrmop8LWV.htm)|Sturdy Shield (Minor)|Bouclier renforcé (mineure)|officielle|
+|[armor-05-slQRh4FVDzP8h1wj.htm](equipment/armor-05-slQRh4FVDzP8h1wj.htm)|Exploding Shield|Bouclier explosif|libre|
 |[armor-06-eMDt5vCQztp7cC6B.htm](equipment/armor-06-eMDt5vCQztp7cC6B.htm)|Lion's Shield|Bouclier du lion|officielle|
 |[armor-06-hRwnNTMj7wa8S4Ji.htm](equipment/armor-06-hRwnNTMj7wa8S4Ji.htm)|Ghoul Hide|Peau de goule|officielle|
 |[armor-06-OqDAx4HJ39ojVtvg.htm](equipment/armor-06-OqDAx4HJ39ojVtvg.htm)|Spellguard Shield|Bouclier Gardesort|officielle|
@@ -726,7 +726,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-efFe4EK7ThUrH446.htm](equipment/consumable-01-efFe4EK7ThUrH446.htm)|Holy Water|Eau bénite|changé|
 |[consumable-01-ev3F9qlMNlNdCOAI.htm](equipment/consumable-01-ev3F9qlMNlNdCOAI.htm)|Runestone|Pierre runique|changé|
 |[consumable-01-GS4YvQieBS11JNYR.htm](equipment/consumable-01-GS4YvQieBS11JNYR.htm)|Drakeheart Mutagen (Lesser)|Mutagène de cœur de drake (Inférieur)|changé|
-|[consumable-01-hDLbR56Id2OtU318.htm](equipment/consumable-01-hDLbR56Id2OtU318.htm)|Elixir of Life (Minor)|Elixir de vie (mineur)|changé|
+|[consumable-01-hDLbR56Id2OtU318.htm](equipment/consumable-01-hDLbR56Id2OtU318.htm)|Elixir of Life (Minor)|Elixir de vie (mineur)|officielle|
 |[consumable-01-IQK9N2mEOyAj3iWU.htm](equipment/consumable-01-IQK9N2mEOyAj3iWU.htm)|Bestial Mutagen (Lesser)|Mutagène bestial (inférieur)|changé|
 |[consumable-01-kF761P3ibBIFmLm9.htm](equipment/consumable-01-kF761P3ibBIFmLm9.htm)|Caltrop Snare|Piège artisanal de chausse-trappes|changé|
 |[consumable-01-Km4lSOsyrip5q6iD.htm](equipment/consumable-01-Km4lSOsyrip5q6iD.htm)|Hampering Snare|Piège artisanal ralentisseur|changé|
@@ -779,13 +779,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-02-Yew9oddFsH0KeDLh.htm](equipment/consumable-02-Yew9oddFsH0KeDLh.htm)|Hunter's Bane|Fléau du chasseur|changé|
 |[consumable-02-zM9VX3QwM81DzDUA.htm](equipment/consumable-02-zM9VX3QwM81DzDUA.htm)|Bravo's Brew (Lesser)|Breuvage de bravoure (Inférieur)|changé|
 |[consumable-02-zo0ophqfKunJFxZN.htm](equipment/consumable-02-zo0ophqfKunJFxZN.htm)|Lethargy Poison|Poison de léthargie|changé|
-|[consumable-03-0CNSvLpeSM4aIfPJ.htm](equipment/consumable-03-0CNSvLpeSM4aIfPJ.htm)|Feather Step Stone|Pierre de pas de plume|changé|
+|[consumable-03-0CNSvLpeSM4aIfPJ.htm](equipment/consumable-03-0CNSvLpeSM4aIfPJ.htm)|Feather Step Stone|Pierre de pas de plume|officielle|
 |[consumable-03-aZm1x9tpvBAT8YCd.htm](equipment/consumable-03-aZm1x9tpvBAT8YCd.htm)|Cytillesh Oil|Huile de Cytillesh|changé|
 |[consumable-03-Dn2KQgIeWNijaUzL.htm](equipment/consumable-03-Dn2KQgIeWNijaUzL.htm)|Feather Token (Chest)|Plume magique (coffre)|changé|
 |[consumable-03-e0vSAQfxhHauiAoD.htm](equipment/consumable-03-e0vSAQfxhHauiAoD.htm)|Healing Potion (Lesser)|Potion de guérison (inférieur)|changé|
 |[consumable-03-eEnzHpPEbdGgRETM.htm](equipment/consumable-03-eEnzHpPEbdGgRETM.htm)|Vine Arrow|Flèche de lierre|changé|
 |[consumable-03-fFq8nsGvSUgzVeND.htm](equipment/consumable-03-fFq8nsGvSUgzVeND.htm)|Feather Token (Bird)|Plume magique (oiseau)|changé|
-|[consumable-03-lIExlUFBKvBue8hb.htm](equipment/consumable-03-lIExlUFBKvBue8hb.htm)|Silvertongue Mutagen (Moderate)|Mutagène de langue dorée (Modéré)|officielle|
+|[consumable-03-lIExlUFBKvBue8hb.htm](equipment/consumable-03-lIExlUFBKvBue8hb.htm)|Silvertongue Mutagen (Moderate)|Mutagène de langue dorée (Modéré)|changé|
 |[consumable-03-mj9i9GeQTADByNPZ.htm](equipment/consumable-03-mj9i9GeQTADByNPZ.htm)|Juggernaut Mutagen (Moderate)|Mutagène de juggernaut (modéré)|changé|
 |[consumable-03-n52BSbZsnx4Vmt2p.htm](equipment/consumable-03-n52BSbZsnx4Vmt2p.htm)|Quicksilver Mutagen (Moderate)|Mutagène de vif-argent (modéré)|changé|
 |[consumable-03-NSo0bFX7DGGjqKKl.htm](equipment/consumable-03-NSo0bFX7DGGjqKKl.htm)|Spellstrike Ammunition (Type I)|Munition de frappe magique (Type I)|changé|
@@ -856,7 +856,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-06-ZEKmCg8K2hUHbmnT.htm](equipment/consumable-06-ZEKmCg8K2hUHbmnT.htm)|Salve of Antiparalysis|Baume antiparalysie|changé|
 |[consumable-07-3fSc2e5xRjJ7w4g3.htm](equipment/consumable-07-3fSc2e5xRjJ7w4g3.htm)|Gold Dragon's Breath Potion (Young)|Potion de souffle du jeune dragon d'or|changé|
 |[consumable-07-6eQvHNHf1IC2X5Rx.htm](equipment/consumable-07-6eQvHNHf1IC2X5Rx.htm)|Leaper's Elixir (Greater)|Elixir du sauteur (supérieur)|changé|
-|[consumable-07-76T49dJYfxIrPvQe.htm](equipment/consumable-07-76T49dJYfxIrPvQe.htm)|Malyass Root Paste|Pâte de racine de malyasse|changé|
+|[consumable-07-76T49dJYfxIrPvQe.htm](equipment/consumable-07-76T49dJYfxIrPvQe.htm)|Malyass Root Paste|Pâte de racine de malyasse|officielle|
 |[consumable-07-9ignmYCACjfzkxDQ.htm](equipment/consumable-07-9ignmYCACjfzkxDQ.htm)|Serum of Sex Shift|Sérum de changement de sexe|changé|
 |[consumable-07-aBOPYlfHAcXUmhF7.htm](equipment/consumable-07-aBOPYlfHAcXUmhF7.htm)|Giant Wasp Venom|Venin de guèpe géante|changé|
 |[consumable-07-d5aCuFS1dhKXhsZ0.htm](equipment/consumable-07-d5aCuFS1dhKXhsZ0.htm)|Addlebrain|Brouillecervelle|officielle|
@@ -1011,7 +1011,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-20-737LQfIaLXBPEzc3.htm](equipment/consumable-20-737LQfIaLXBPEzc3.htm)|Antimagic Oil|Huile antimagie|changé|
 |[consumable-20-Fv97oB3iEIFAyzTu.htm](equipment/consumable-20-Fv97oB3iEIFAyzTu.htm)|Philosopher's Stone|Pierre philosophale|changé|
 |[consumable-20-gDGPvobJV1QGYBPy.htm](equipment/consumable-20-gDGPvobJV1QGYBPy.htm)|Tears of Death|Larmes de la mort|changé|
-|[consumable-20-P9dhnMcr3lbHBn2E.htm](equipment/consumable-20-P9dhnMcr3lbHBn2E.htm)|Sun Orchid Elixir|Éllixir d'orchidée solaire|changé|
+|[consumable-20-P9dhnMcr3lbHBn2E.htm](equipment/consumable-20-P9dhnMcr3lbHBn2E.htm)|Sun Orchid Elixir|Élixir d'orchidée solaire|changé|
 |[consumable-20-UHrLqWCnFEUspSQj.htm](equipment/consumable-20-UHrLqWCnFEUspSQj.htm)|Elixir of Rejuvenation|Elixir de jouvence|changé|
 |[consumable-20-xqCz2vStMNJujfpp.htm](equipment/consumable-20-xqCz2vStMNJujfpp.htm)|Instant Evisceration Snare|Piège artisanal d'éviscération instantanée|changé|
 |[equipment-00-3MGQ8KxH7HNA8THZ.htm](equipment/equipment-00-3MGQ8KxH7HNA8THZ.htm)|Jellyfish Lamp|Méduse lumineuse|changé|

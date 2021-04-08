@@ -207,6 +207,11 @@
             "description": "<p>Une poussière scintillante dessine les contours des créatures de la zone. Chacune fait un jet de Réflexes. Si ce sort annule l’invisibilité d’une créature, elle est @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{masquée} au lieu d’être @Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{invisible}. Cela fonctionne si la créature était déjà invisible ou si elle bénéficie d’un effet d’@Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{invisibilité} avant la fin de la négation d’invisibilité de ce sort.</p>\n<p>\n<hr><b>Succès critique</b> La cible n’est pas affectée.</p>\n<p>\n<b>Succès</b> L’invisibilité de la cible est annulée pour 2 rounds.</p>\n<p>\n<b>Échec</b> La cible est @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{éblouie} pendant 1 min et son invisibilité annulée pendant 1 min.</p>\n<p>\n<b>Échec critique</b> La créature est @Compendium[pf2e.conditionspf2e.XgEqL1kFApUbl5Z2]{aveuglée} pour 1 round et @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{éblouie} pendant 10 min. Son invisibilité est annulée pendant 10 min.</p>"
         },
         {
+            "id": "Savant's Curse",
+            "name": "Savant's Curse (Malédiction du savant)",
+            "description": "<p>Vous affligez la cible avec une malédiction qui remplit l'esprit avec des distractions et une hyper-minutie, provoquant pour critiquer même des faits simples. La cible doit tenter un jet de Volonté.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affecté.</p>\n<p><strong>Succès</strong> Pendant 10 minutes, la cible doit lancer deux fois les dés et utiliser le pire résultat lorsqu'elle tente un test d'Arcanes, de Connaissance, d'Occultisme ou de Société. Si la cible réussit un test pour Se souvenir, elle obtient un bout d'information véritable et un bout de connaissance erroné, mais elle n'a aucun moyen de savoir laquelle est laquelle (cela n'a pas d'effet si la cible obtient un succès critique à un test pour Se souvenir).</p>\n<p><strong>Échec</strong> Comme en cas de succès, mais l'effet est permanent.</p>\n<p><strong>Échec critique</strong> Comme en cas d'échec et la cible traite les issues de tous ses tests pour Se souvenir comme s'il avait un degré de succès pire que le résultat obtenu (un succès critique devient un succès, un succès devient un échec et un échec devient un échec critique).</p>"
+        },
+        {
             "id": "Endure",
             "name": "Endure (Endurer)",
             "description": "<p>Vous revigorez l'esprit de la créature touchée et la pressez de se dépêcher.</p>\n<p>Vous accordez à la créature touchée de 5 Points de vie temporaires.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentez les Points de vie temporaires de 5.</p>"
@@ -1575,6 +1580,11 @@
             "id": "Speak with Plants",
             "name": "Speak with Plants (Communication avec les plantes)",
             "description": "<p>Vous pouvez poser des questions et recevoir des réponses des plantes, mais le sort ne les rend ni plus amicales ni plus intelligentes qu’à la normale.</p>\n<p>La plupart des plantes normales ont un point de vue particulier du monde qui les entoure, elles ne reconnaissent donc pas les détails des créatures et ne connaissent pas le monde au-delà de leur environnement immédiat. Les monstres végétaux rusés risquent d’être laconiques et évasifs, tandis que les moins intelligents font souvent des commentaires dénués de sens.</p>"
+        },
+        {
+            "id": "Daydreamer's Curse",
+            "name": "Daydreamer's Curse (Malédiction du rêveur éveillé)",
+            "description": "<p>Vous imposez une malédiction sur la cible qui la rend aisément distraite et incapable de concentrer ses pensées sur des tâches qui demandent de l'introspection ou du discernment. La cible doit tenter un jet de Volonté .</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> Pendant 10 minutes, la cible doit faire deux tests et utiliser le pire lorsqu'elle tente un test de Médicine, de Nature, de Perception ou de Survie. Si la cible obtient un succès critique à un test de Perception ou à un test de compétence pour accomplir une action avec le trait concentration , la cible obtient un succès à la place.</p>\n<p><strong>Échec</strong> Comme succès mais l'effet est permanent.</p>\n<p><strong>Échec critique</strong> Comme avec l'échec, sauf que la cible traite l'issue de tous les tests avec le trait concentration avec un degré de succès de moins que le résultat obtenu  (un succès critique devient un succès, un succès devient un échec et un échec devient un échec critique).</p>"
         },
         {
             "id": "Enlarge Companion",
