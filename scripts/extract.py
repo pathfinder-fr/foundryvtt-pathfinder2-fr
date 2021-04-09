@@ -5,10 +5,16 @@ import json
 import yaml
 import os
 import re
+import logging
 
 from libdata import *
+
+logging.basicConfig(filename='translation.log', level=logging.INFO)
   
 ROOT="../"
+
+# ouverture de la connexion a DeepL Translator
+driver = translator_driver()
 
 packs = getPacks()
 
@@ -135,11 +141,26 @@ for p in packs:
       
       # create new
       else:
-        tradDesc = dirtyTranslate(source['desc'])
+        try:
+          # tentative de traduction automatique avec DeepL Translator
+          tradDesc = dirtyTranslate(driver, source['desc'])
+          status = "auto-trad"
+        except Exception as e:
+          exception_name = type(e).__name__
+          logging.error("Error while translating %s : %s" % (filename, exception_name))
+          if exception_name=="TimeoutException":
+            logging.error("Fichier %s : le texte est très long et le délai pour la \
+            traduction automatique a été dépassé, ou la connexion à été bloquée \
+            à cause d'un trop grand nombre de requêtes sur un compte gratuit." % filename)
+          else: 
+            filename = name.lower().replace(" ", "-")+".json"
+            logging.error("File %s in pack %s -> %s" % (filename, p["id"], e.message))
+          tradDesc = ""
+          status = "vide"
         data = { 
           'nameEN': source['name'],
           'nameFR': "",
-          'status': 'auto-trad',
+          'status': status,
           'descrEN': source['desc'],
           'descrFR': tradDesc,
           'listsEN': source['lists'],
@@ -162,6 +183,10 @@ for p in packs:
         os.remove(filename)
       else:
         os.remove(filename)
+
+
+# fermeture de la connexion a DeepL Translator
+driver.quit()
   
   
   
