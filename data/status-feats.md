@@ -1,53 +1,13 @@
 # État de la traduction (feats)
 
- * **libre**: 1281
- * **officielle**: 438
+ * **libre**: 1297
+ * **officielle**: 456
  * **changé**: 885
- * **aucune**: 34
 
 
-Dernière mise à jour: 2021-04-07 18:05 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-08 23:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[class-18-i3hALsjbjk9FdbGN.htm](feats/class-18-i3hALsjbjk9FdbGN.htm)|Vicious Evisceration|
-|[general-01-2XmdYW8OsAvjGDG3.htm](feats/general-01-2XmdYW8OsAvjGDG3.htm)|Radiant Circuitry|
-|[general-01-GPsYtPdkAkk710F3.htm](feats/general-01-GPsYtPdkAkk710F3.htm)|Suli-jann|
-|[general-01-XKDFgBEtFdEzCz8X.htm](feats/general-01-XKDFgBEtFdEzCz8X.htm)|Intuitive Crafting|
-|[general-13-3X8BkDZEDWp90U4u.htm](feats/general-13-3X8BkDZEDWp90U4u.htm)|Ancestor's Transformation|
-|[general-13-O65q744snXtC5Uc4.htm](feats/general-13-O65q744snXtC5Uc4.htm)|Consistent Surge|
-|[general-13-X5NRdQ1W0Y5t6MFi.htm](feats/general-13-X5NRdQ1W0Y5t6MFi.htm)|Dire Form|
-|[skill-01-2hoU2p8vVM8pPHh7.htm](feats/skill-01-2hoU2p8vVM8pPHh7.htm)|Terrain Expertise (Aquatic)|
-|[skill-01-3VfFj32G1HXOUNzg.htm](feats/skill-01-3VfFj32G1HXOUNzg.htm)|Terrain Expertise (Mountain)|
-|[skill-01-Dk02ex6pScuNQUBA.htm](feats/skill-01-Dk02ex6pScuNQUBA.htm)|Terrain Expertise (Arctic)|
-|[skill-01-f3JBnLJNOkt6BFkg.htm](feats/skill-01-f3JBnLJNOkt6BFkg.htm)|Terrain Expertise (Desert)|
-|[skill-01-FmfVehPphZWyrgX1.htm](feats/skill-01-FmfVehPphZWyrgX1.htm)|Virtuosic Performer (Singing)|
-|[skill-01-LdBzrTEZlNL4m5nI.htm](feats/skill-01-LdBzrTEZlNL4m5nI.htm)|Terrain Expertise (Swamp)|
-|[skill-01-nmwk8yShqoYPW1QG.htm](feats/skill-01-nmwk8yShqoYPW1QG.htm)|Virtuosic Performer (Percussion)|
-|[skill-01-noRMXU5xs133vEFB.htm](feats/skill-01-noRMXU5xs133vEFB.htm)|Virtuosic Performer (Keyboards)|
-|[skill-01-nqaSdrxAE43lZZtI.htm](feats/skill-01-nqaSdrxAE43lZZtI.htm)|Terrain Expertise (Forest)|
-|[skill-01-PjFaiagyYzqLTQ6i.htm](feats/skill-01-PjFaiagyYzqLTQ6i.htm)|Terrain Expertise (Plains)|
-|[skill-01-PmUK6NQlbSqZM3aY.htm](feats/skill-01-PmUK6NQlbSqZM3aY.htm)|Virtuosic Performer (Acting)|
-|[skill-01-PpMybW2sh3yjfVJz.htm](feats/skill-01-PpMybW2sh3yjfVJz.htm)|Virtuosic Performer (Oratory)|
-|[skill-01-SRwYgPYcZNdtuqEZ.htm](feats/skill-01-SRwYgPYcZNdtuqEZ.htm)|Terrain Expertise (Sky)|
-|[skill-01-sYYmBpRlRtWf5Tbh.htm](feats/skill-01-sYYmBpRlRtWf5Tbh.htm)|Virtuosic Performer (Strings)|
-|[skill-01-TnF9hfOywfD8cE2v.htm](feats/skill-01-TnF9hfOywfD8cE2v.htm)|Virtuosic Performer (Dance)|
-|[skill-01-Y5ASDpZ574Pn9CEx.htm](feats/skill-01-Y5ASDpZ574Pn9CEx.htm)|Virtuosic Performer (Comedy)|
-|[skill-01-zhIaJewomiJTkKFV.htm](feats/skill-01-zhIaJewomiJTkKFV.htm)|Virtuosic Performer (Winds)|
-|[skill-01-zWOUgpeWb0oA0u7I.htm](feats/skill-01-zWOUgpeWb0oA0u7I.htm)|Terrain Expertise (Underground)|
-|[skill-02-BWTE31PHCWc1txlw.htm](feats/skill-02-BWTE31PHCWc1txlw.htm)|Wilderness Spotter (Desert)|
-|[skill-02-cA8yxrKWvxk251rq.htm](feats/skill-02-cA8yxrKWvxk251rq.htm)|Wilderness Spotter (Plains)|
-|[skill-02-EATCTjJ2tGKFmlEY.htm](feats/skill-02-EATCTjJ2tGKFmlEY.htm)|Wilderness Spotter (Arctic)|
-|[skill-02-gEkGIRX4bXbMHZ2W.htm](feats/skill-02-gEkGIRX4bXbMHZ2W.htm)|Wilderness Spotter (Aquatic)|
-|[skill-02-gjWpnUYOWvTuphET.htm](feats/skill-02-gjWpnUYOWvTuphET.htm)|Wilderness Spotter (Forest)|
-|[skill-02-pWYWXSk2ghyqRBTP.htm](feats/skill-02-pWYWXSk2ghyqRBTP.htm)|Wilderness Spotter (Mountain)|
-|[skill-02-R07lTtA1VJzFvQ8p.htm](feats/skill-02-R07lTtA1VJzFvQ8p.htm)|Wilderness Spotter (Underground)|
-|[skill-02-XWsLzllAjrW8LYT5.htm](feats/skill-02-XWsLzllAjrW8LYT5.htm)|Wilderness Spotter (Swamp)|
-|[skill-02-yBZAmXr265EHPpj3.htm](feats/skill-02-yBZAmXr265EHPpj3.htm)|Wilderness Spotter (Sky)|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -2320,6 +2280,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-18-gtXy5gMNU0NDvkBL.htm](feats/class-18-gtXy5gMNU0NDvkBL.htm)|Fiendish Form|Forme fiélone|changé|
 |[class-18-HBhLR980Q0cb2rxp.htm](feats/class-18-HBhLR980Q0cb2rxp.htm)|Perfect Debilitation|Neutralisation parfaite|changé|
 |[class-18-Hzzf7bi8xBMi6DCL.htm](feats/class-18-Hzzf7bi8xBMi6DCL.htm)|Powerful Sneak|Puissante furtivité|changé|
+|[class-18-i3hALsjbjk9FdbGN.htm](feats/class-18-i3hALsjbjk9FdbGN.htm)|Vicious Evisceration|Éviscération vicieuse|libre|
 |[class-18-iTtnN49D8ZJ2Ilur.htm](feats/class-18-iTtnN49D8ZJ2Ilur.htm)|Deep Lore|Savoir approfondi|changé|
 |[class-18-IxggfXunfldeVOsQ.htm](feats/class-18-IxggfXunfldeVOsQ.htm)|Swift River|Libre comme l’eau|changé|
 |[class-18-JkQjKyzfhMWLr9Gs.htm](feats/class-18-JkQjKyzfhMWLr9Gs.htm)|Perfect Clarity|Lucidité parfaite|changé|
@@ -2439,10 +2400,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-20-ZfycfbXlPXZlSqw5.htm](feats/class-20-ZfycfbXlPXZlSqw5.htm)|Just The Facts|Juste les faits|changé|
 |[class-20-zOK6IFSz3DIBRjEw.htm](feats/class-20-zOK6IFSz3DIBRjEw.htm)|Craft Philosopher's Stone|Fabrication de la pierre philosophale|changé|
 |[general-01-2kwXTUjYYhoAGySr.htm](feats/general-01-2kwXTUjYYhoAGySr.htm)|Incredible Initiative|Initiative extraordinaire|officielle|
+|[general-01-2XmdYW8OsAvjGDG3.htm](feats/general-01-2XmdYW8OsAvjGDG3.htm)|Radiant Circuitry|Circuiterie rayonnante|libre|
 |[general-01-aJUXbe9HJVvv0Mxa.htm](feats/general-01-aJUXbe9HJVvv0Mxa.htm)|Breath Control|Contrôle de la respiration|officielle|
 |[general-01-AmP0qu7c5dlBSath.htm](feats/general-01-AmP0qu7c5dlBSath.htm)|Toughness|Robustesse|officielle|
 |[general-01-BStw1cANwx5baL6d.htm](feats/general-01-BStw1cANwx5baL6d.htm)|Armor Proficiency|Maîtrise d’armure|changé|
 |[general-01-c9fHUSI5lRdXu1Ic.htm](feats/general-01-c9fHUSI5lRdXu1Ic.htm)|Feather Step|Pas de plume|officielle|
+|[general-01-GPsYtPdkAkk710F3.htm](feats/general-01-GPsYtPdkAkk710F3.htm)|Suli-jann|Jann-suli|libre|
 |[general-01-I0BhPWqYf1bbzEYg.htm](feats/general-01-I0BhPWqYf1bbzEYg.htm)|Diehard|Dur à cuir|officielle|
 |[general-01-i4yRvVwvXbGZDsD1.htm](feats/general-01-i4yRvVwvXbGZDsD1.htm)|Canny Acumen|Perspicacité astucieuse|officielle|
 |[general-01-ihN8gkHSdPG9Trte.htm](feats/general-01-ihN8gkHSdPG9Trte.htm)|Adopted Ancestry|Ascendance adoptive|officielle|
@@ -2451,6 +2414,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[general-01-Rq5wkA8DtsmbzoGV.htm](feats/general-01-Rq5wkA8DtsmbzoGV.htm)|Ride|Chevaucher|officielle|
 |[general-01-Ux73dmoF8KnavyUD.htm](feats/general-01-Ux73dmoF8KnavyUD.htm)|Fleet|Vélocité|changé|
 |[general-01-x9wxQ61HNkAVbDHr.htm](feats/general-01-x9wxQ61HNkAVbDHr.htm)|Weapon Proficiency|Maîtrise d'arme|changé|
+|[general-01-XKDFgBEtFdEzCz8X.htm](feats/general-01-XKDFgBEtFdEzCz8X.htm)|Intuitive Crafting|Artisanat intuitif|libre|
 |[general-01-z1Z22gTp7J1VRLSR.htm](feats/general-01-z1Z22gTp7J1VRLSR.htm)|Different Worlds|Mondes différents|libre|
 |[general-03-38uOVS8fLZxraUrg.htm](feats/general-03-38uOVS8fLZxraUrg.htm)|Pick Up The Pace|Donner la cadence|libre|
 |[general-03-9jGaBxLUtevZYcZO.htm](feats/general-03-9jGaBxLUtevZYcZO.htm)|Untrained Improvisation|Improvisation inexpérimentée|officielle|
@@ -2471,6 +2435,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[general-11-5ZsmRm7HvFAw2XDZ.htm](feats/general-11-5ZsmRm7HvFAw2XDZ.htm)|Caravan Leader|Chef de caravane|libre|
 |[general-11-aFoVHsuInMOkTZoQ.htm](feats/general-11-aFoVHsuInMOkTZoQ.htm)|Incredible Scout|Éclaireur incroyable|changé|
 |[general-11-muMOxZyduEFv8UT6.htm](feats/general-11-muMOxZyduEFv8UT6.htm)|A Home In Every Port|Une maison dans chaque port|libre|
+|[general-13-3X8BkDZEDWp90U4u.htm](feats/general-13-3X8BkDZEDWp90U4u.htm)|Ancestor's Transformation|Transformation de l'ancêtre|libre|
+|[general-13-O65q744snXtC5Uc4.htm](feats/general-13-O65q744snXtC5Uc4.htm)|Consistent Surge|Poussée consistante|libre|
+|[general-13-X5NRdQ1W0Y5t6MFi.htm](feats/general-13-X5NRdQ1W0Y5t6MFi.htm)|Dire Form|Forme sauvage|libre|
 |[general-19-uudiUylT09WnHN7e.htm](feats/general-19-uudiUylT09WnHN7e.htm)|True Perception|Perception véritable|changé|
 |[skill-01-09PurtIanNUPfNRq.htm](feats/skill-01-09PurtIanNUPfNRq.htm)|Combat Climber|Combattant-grimpeur|changé|
 |[skill-01-0GF2j54roPFIDmXf.htm](feats/skill-01-0GF2j54roPFIDmXf.htm)|Bon Mot|Bon mot|changé|
@@ -2479,8 +2446,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-01-1Eceqc6zbMj2x0q9.htm](feats/skill-01-1Eceqc6zbMj2x0q9.htm)|Seasoned|Assaisonné|changé|
 |[skill-01-22HUfCajd6IkATOR.htm](feats/skill-01-22HUfCajd6IkATOR.htm)|Specialty Crafting (Artistry)|Artisanat spécialisé (Sens artistique)|officielle|
 |[skill-01-22P7IFyhrF7Fbw8B.htm](feats/skill-01-22P7IFyhrF7Fbw8B.htm)|Root Magic|Magie des racines|changé|
+|[skill-01-2hoU2p8vVM8pPHh7.htm](feats/skill-01-2hoU2p8vVM8pPHh7.htm)|Terrain Expertise (Aquatic)|Expertise du terrain|officielle|
 |[skill-01-3G8xUlgCjRmRJNfP.htm](feats/skill-01-3G8xUlgCjRmRJNfP.htm)|Quick Squeeze|Se faufiler rapidement|changé|
 |[skill-01-3HChkcD1IRqv4DbA.htm](feats/skill-01-3HChkcD1IRqv4DbA.htm)|Improvise Tool|Outil improvisé|changé|
+|[skill-01-3VfFj32G1HXOUNzg.htm](feats/skill-01-3VfFj32G1HXOUNzg.htm)|Terrain Expertise (Mountain)|Expertise du terrain (Montagne)|officielle|
 |[skill-01-4RjDxgvNXNl5GG9d.htm](feats/skill-01-4RjDxgvNXNl5GG9d.htm)|Hobnobber|Animal social|changé|
 |[skill-01-4tTkRyOQ0VuRBac3.htm](feats/skill-01-4tTkRyOQ0VuRBac3.htm)|Terrain Expertise|Expertise du terrain|changé|
 |[skill-01-59FN13nU6agKT4oa.htm](feats/skill-01-59FN13nU6agKT4oa.htm)|Specialty Crafting (Bookmaking)|Artisanat spécialisé (Confection de livres)|officielle|
@@ -2504,11 +2473,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-01-C0Tcelg3BAPhML6J.htm](feats/skill-01-C0Tcelg3BAPhML6J.htm)|Hefty Hauler|Portefaix|officielle|
 |[skill-01-CnqMJR8e9jqJR7MM.htm](feats/skill-01-CnqMJR8e9jqJR7MM.htm)|Steady Balance|Équilibre stable|changé|
 |[skill-01-d8AjCqU30z7IOpos.htm](feats/skill-01-d8AjCqU30z7IOpos.htm)|Ravening's Desperation|Énergie du désespoir|changé|
+|[skill-01-Dk02ex6pScuNQUBA.htm](feats/skill-01-Dk02ex6pScuNQUBA.htm)|Terrain Expertise (Arctic)|Expertise du terrain (Arctique)|officielle|
 |[skill-01-DMetdzt1VJL2Y62i.htm](feats/skill-01-DMetdzt1VJL2Y62i.htm)|Snare Crafting|Fabrication de pièges artisanaux|changé|
 |[skill-01-dTjzxCy9pku5gL0F.htm](feats/skill-01-dTjzxCy9pku5gL0F.htm)|Specialty Crafting (Weaving)|Artisanat spécialisé (Tissage)|officielle|
 |[skill-01-Dvz54d6aPhjsmUux.htm](feats/skill-01-Dvz54d6aPhjsmUux.htm)|Lie To Me|Détecteur de mensonges|changé|
 |[skill-01-f0faBEUPtspdutKx.htm](feats/skill-01-f0faBEUPtspdutKx.htm)|Acrobatic Performer|Représentation acrobatique|changé|
+|[skill-01-f3JBnLJNOkt6BFkg.htm](feats/skill-01-f3JBnLJNOkt6BFkg.htm)|Terrain Expertise (Desert)|Expertise du terrain (Désert)|officielle|
 |[skill-01-f4HG7vKj4WGxlqG2.htm](feats/skill-01-f4HG7vKj4WGxlqG2.htm)|Battle Medicine (Forensic Medicine)|Médecine militaire (Médecine forensique)|changé|
+|[skill-01-FmfVehPphZWyrgX1.htm](feats/skill-01-FmfVehPphZWyrgX1.htm)|Virtuosic Performer (Singing)|Artiste virtuose (Chant)|officielle|
 |[skill-01-gArdEleFCvUHtdGk.htm](feats/skill-01-gArdEleFCvUHtdGk.htm)|Express Rider|Chevaucheur rapide|changé|
 |[skill-01-gUqvezs2zzoTXFAI.htm](feats/skill-01-gUqvezs2zzoTXFAI.htm)|Group Coercion|Contraindre un groupe|changé|
 |[skill-01-hDGosy2ZTwnyctEP.htm](feats/skill-01-hDGosy2ZTwnyctEP.htm)|Oddity Identification|Identification de bizarreries|changé|
@@ -2522,21 +2494,31 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-01-KpFetnUqTiweypZk.htm](feats/skill-01-KpFetnUqTiweypZk.htm)|Group Impression|Bonne impression de groupe|changé|
 |[skill-01-KxaYlC50zzHysJj8.htm](feats/skill-01-KxaYlC50zzHysJj8.htm)|Titan Wrestler|Lutteur contre les Titans|changé|
 |[skill-01-Lc4dJZivRwU3QEmT.htm](feats/skill-01-Lc4dJZivRwU3QEmT.htm)|Armor Assist|Aide armure|changé|
+|[skill-01-LdBzrTEZlNL4m5nI.htm](feats/skill-01-LdBzrTEZlNL4m5nI.htm)|Terrain Expertise (Swamp)|Expertise du terrain (Marais)|officielle|
 |[skill-01-lEgYzFHransLkSvI.htm](feats/skill-01-lEgYzFHransLkSvI.htm)|Schooled In Secrets|Éduqué dans les secrets|changé|
 |[skill-01-lFwfUvH2708rl6i3.htm](feats/skill-01-lFwfUvH2708rl6i3.htm)|Virtuosic Performer|Artiste virtuose|changé|
 |[skill-01-lQs2i9L09MQiZSPC.htm](feats/skill-01-lQs2i9L09MQiZSPC.htm)|Charlatan|Charlatan|changé|
 |[skill-01-LQw0yIMDUJJkq1nD.htm](feats/skill-01-LQw0yIMDUJJkq1nD.htm)|Cat Fall|Chute féline|changé|
 |[skill-01-MjQyTcV8Jiv1Jtln.htm](feats/skill-01-MjQyTcV8Jiv1Jtln.htm)|Recognize Spell|Reconnaître des sorts|changé|
+|[skill-01-nmwk8yShqoYPW1QG.htm](feats/skill-01-nmwk8yShqoYPW1QG.htm)|Virtuosic Performer (Percussion)|Artiste virtuose (Percussion)|officielle|
+|[skill-01-noRMXU5xs133vEFB.htm](feats/skill-01-noRMXU5xs133vEFB.htm)|Virtuosic Performer (Keyboards)|Artiste virtuose (Claviers)|officielle|
 |[skill-01-nowEaHgIyij7im8F.htm](feats/skill-01-nowEaHgIyij7im8F.htm)|Train Animal|Dressage animalier|changé|
+|[skill-01-nqaSdrxAE43lZZtI.htm](feats/skill-01-nqaSdrxAE43lZZtI.htm)|Terrain Expertise (Forest)|Expertise du terrain (Forêt)|officielle|
 |[skill-01-P6icK2DbRoZ3H6kc.htm](feats/skill-01-P6icK2DbRoZ3H6kc.htm)|Skill Training|Compétence qualifiante|changé|
 |[skill-01-P9HCz0uR6xPHuw72.htm](feats/skill-01-P9HCz0uR6xPHuw72.htm)|Multilingual|Polyglotte|changé|
+|[skill-01-PjFaiagyYzqLTQ6i.htm](feats/skill-01-PjFaiagyYzqLTQ6i.htm)|Terrain Expertise (Plains)|Expertise du terrain|officielle|
+|[skill-01-PmUK6NQlbSqZM3aY.htm](feats/skill-01-PmUK6NQlbSqZM3aY.htm)|Virtuosic Performer (Acting)|Artiste virtuose (Interprétation)|officielle|
+|[skill-01-PpMybW2sh3yjfVJz.htm](feats/skill-01-PpMybW2sh3yjfVJz.htm)|Virtuosic Performer (Oratory)|Artiste virtuose (Art oratoire)|officielle|
 |[skill-01-r7cgrrHh75R8UEqN.htm](feats/skill-01-r7cgrrHh75R8UEqN.htm)|Deceptive Worship|Culte trompeur|changé|
 |[skill-01-S8mPrjJjuObotmjZ.htm](feats/skill-01-S8mPrjJjuObotmjZ.htm)|Specialty Crafting (Blacksmithing)|Artisanat spécialisé (Forge)|officielle|
 |[skill-01-sMCpihnBEpx18GBD.htm](feats/skill-01-sMCpihnBEpx18GBD.htm)|Inoculation|Vaccination|changé|
 |[skill-01-sMm0UfYxEPpq2Yzd.htm](feats/skill-01-sMm0UfYxEPpq2Yzd.htm)|Experienced Professional|Professionnel expérimenté|changé|
+|[skill-01-SRwYgPYcZNdtuqEZ.htm](feats/skill-01-SRwYgPYcZNdtuqEZ.htm)|Terrain Expertise (Sky)|Expertise terrain (Ciel)|officielle|
+|[skill-01-sYYmBpRlRtWf5Tbh.htm](feats/skill-01-sYYmBpRlRtWf5Tbh.htm)|Virtuosic Performer (Strings)|Artiste virtuose (Cordes)|officielle|
 |[skill-01-t3btih0O5RUwWynt.htm](feats/skill-01-t3btih0O5RUwWynt.htm)|Experienced Smuggler|Contrebandier expérimenté|officielle|
 |[skill-01-tbIMWrIRI9P9cubM.htm](feats/skill-01-tbIMWrIRI9P9cubM.htm)|Specialty Crafting (Shipbuilding)|Artisanat spécialisé (Construction navale)|officielle|
 |[skill-01-tGIXuk0XeWmG04CX.htm](feats/skill-01-tGIXuk0XeWmG04CX.htm)|Survey Wildlife|Observation de la nature|changé|
+|[skill-01-TnF9hfOywfD8cE2v.htm](feats/skill-01-TnF9hfOywfD8cE2v.htm)|Virtuosic Performer (Dance)|Artiste virtuose (Danse)|officielle|
 |[skill-01-TWkwy0uQvTGlgEFG.htm](feats/skill-01-TWkwy0uQvTGlgEFG.htm)|Specialty Crafting (Stonemasonry)|Artisanat spécialisé (Taille de pierre)|officielle|
 |[skill-01-uR62fVC9FyQAMCO1.htm](feats/skill-01-uR62fVC9FyQAMCO1.htm)|Trick Magic Item|Usurpation d'objet magique|changé|
 |[skill-01-urQZwmzg2kS53vd5.htm](feats/skill-01-urQZwmzg2kS53vd5.htm)|Experienced Tracker|Pisteur expérimenté|changé|
@@ -2553,10 +2535,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-01-xqAdXRd2gSQcqp5E.htm](feats/skill-01-xqAdXRd2gSQcqp5E.htm)|Impressive Performance|Représentation impressionnante|changé|
 |[skill-01-xQMz6eDgX75WX2ce.htm](feats/skill-01-xQMz6eDgX75WX2ce.htm)|Intimidating Glare|Regard intimidant|changé|
 |[skill-01-XVnpntqV6w94PoOb.htm](feats/skill-01-XVnpntqV6w94PoOb.htm)|Specialty Crafting (Alchemy)|Artisanat spécialisé (Alchimie)|officielle|
+|[skill-01-Y5ASDpZ574Pn9CEx.htm](feats/skill-01-Y5ASDpZ574Pn9CEx.htm)|Virtuosic Performer (Comedy)|Artiste virtuose (Comique)|officielle|
 |[skill-01-YmzLnj4ojlf9INNP.htm](feats/skill-01-YmzLnj4ojlf9INNP.htm)|Specialty Crafting (Glassmaking)|Artisanat spécialisé (Verrerie)|officielle|
 |[skill-01-yUuU9xyotrpwpTyC.htm](feats/skill-01-yUuU9xyotrpwpTyC.htm)|Read Lips|Lire sur les lèvres|changé|
 |[skill-01-YvoiGWZhtbHH6NMF.htm](feats/skill-01-YvoiGWZhtbHH6NMF.htm)|Specialty Crafting (Woodworking)|Artisanat spécialisé (Ébénisterie)|officielle|
 |[skill-01-ZBhvJ9O8MvBFAlhq.htm](feats/skill-01-ZBhvJ9O8MvBFAlhq.htm)|Quick Jump|Saut rapide|changé|
+|[skill-01-zhIaJewomiJTkKFV.htm](feats/skill-01-zhIaJewomiJTkKFV.htm)|Virtuosic Performer (Winds)|Artiste virtuose (Vents)|officielle|
+|[skill-01-zWOUgpeWb0oA0u7I.htm](feats/skill-01-zWOUgpeWb0oA0u7I.htm)|Terrain Expertise (Underground)|Expertise du terrain (souterrain)|officielle|
 |[skill-02-3ZerjLH8ls3JT6cD.htm](feats/skill-02-3ZerjLH8ls3JT6cD.htm)|Robust Recovery|Récupération vigoureuse|officielle|
 |[skill-02-4UXyMtXLaOxuH6Js.htm](feats/skill-02-4UXyMtXLaOxuH6Js.htm)|Distracting Performance|Représentation de diversion|changé|
 |[skill-02-5I97q0FfAeXcUQhs.htm](feats/skill-02-5I97q0FfAeXcUQhs.htm)|Nimble Crawl|Ramper agilement|changé|
@@ -2566,12 +2551,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-02-8c61nOIr5AM3KxZi.htm](feats/skill-02-8c61nOIr5AM3KxZi.htm)|Ward Medic|Infirmier|changé|
 |[skill-02-AYb8PmGJ37HwIMwj.htm](feats/skill-02-AYb8PmGJ37HwIMwj.htm)|Juggle|Jonglage|changé|
 |[skill-02-BV5jpSifVJsTwoO7.htm](feats/skill-02-BV5jpSifVJsTwoO7.htm)|Wilderness Spotter|Observateur des étendues sauvages|changé|
+|[skill-02-BWTE31PHCWc1txlw.htm](feats/skill-02-BWTE31PHCWc1txlw.htm)|Wilderness Spotter (Desert)|Observateur des étendues sauvages (Désert)|libre|
 |[skill-02-c85a69mB1urW2Se2.htm](feats/skill-02-c85a69mB1urW2Se2.htm)|Continual Recovery|Récupération continue|changé|
+|[skill-02-cA8yxrKWvxk251rq.htm](feats/skill-02-cA8yxrKWvxk251rq.htm)|Wilderness Spotter (Plains)|Observateur des étendues sauvages (Plaines)|libre|
 |[skill-02-cc8O47KFsODReoBe.htm](feats/skill-02-cc8O47KFsODReoBe.htm)|Glad-Hand|Cordialité forcée|changé|
 |[skill-02-cmuvvPJvt2R16vGe.htm](feats/skill-02-cmuvvPJvt2R16vGe.htm)|Fresh Ingredients|Ingrédients frais|libre|
 |[skill-02-dUnT3HWMFD3d2eBJ.htm](feats/skill-02-dUnT3HWMFD3d2eBJ.htm)|Encouraging Words|Paroles encourageantes|changé|
 |[skill-02-e4KB4pSkx2lDBNw3.htm](feats/skill-02-e4KB4pSkx2lDBNw3.htm)|Quick Disguise|Déguisement rapide|changé|
+|[skill-02-EATCTjJ2tGKFmlEY.htm](feats/skill-02-EATCTjJ2tGKFmlEY.htm)|Wilderness Spotter (Arctic)|Observateur des étendues sauvages (Arctique)|libre|
 |[skill-02-FJK7JTLSgugRIlvS.htm](feats/skill-02-FJK7JTLSgugRIlvS.htm)|Rapid Mantel|Accroche rapide|changé|
+|[skill-02-gEkGIRX4bXbMHZ2W.htm](feats/skill-02-gEkGIRX4bXbMHZ2W.htm)|Wilderness Spotter (Aquatic)|Observateur des étendues sauvages (Aquatique)|libre|
+|[skill-02-gjWpnUYOWvTuphET.htm](feats/skill-02-gjWpnUYOWvTuphET.htm)|Wilderness Spotter (Forest)|Observateur des étendues sauvages (Forêt)|libre|
 |[skill-02-gydOsP9VsdRw3Wg1.htm](feats/skill-02-gydOsP9VsdRw3Wg1.htm)|Underground Network|Réseau souterrain|changé|
 |[skill-02-H3I2X0f7v4EzwxuN.htm](feats/skill-02-H3I2X0f7v4EzwxuN.htm)|Automatic Knowledge|Savoir automatique|changé|
 |[skill-02-HJYQlmGTdtyGWr6a.htm](feats/skill-02-HJYQlmGTdtyGWr6a.htm)|Powerful Leap|Bond puissant|changé|
@@ -2584,8 +2574,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-02-OtV7esAwza1U6Kwr.htm](feats/skill-02-OtV7esAwza1U6Kwr.htm)|Eye of the Arclords|Œil des Seigneurs de l'Arc|changé|
 |[skill-02-pekKtubQTkG9m1xK.htm](feats/skill-02-pekKtubQTkG9m1xK.htm)|Quiet Allies|Alliés silencieux|changé|
 |[skill-02-pLjvgeqwHrYdg411.htm](feats/skill-02-pLjvgeqwHrYdg411.htm)|Bonded Animal|Animal lié|changé|
+|[skill-02-pWYWXSk2ghyqRBTP.htm](feats/skill-02-pWYWXSk2ghyqRBTP.htm)|Wilderness Spotter (Mountain)|Observateur des étendues sauvages (Montagne)|libre|
 |[skill-02-QvBIYW6aAqoiyim3.htm](feats/skill-02-QvBIYW6aAqoiyim3.htm)|Exhort The Faithful|Exhorter les croyants|changé|
 |[skill-02-qvLcZGsV0HP2O0CG.htm](feats/skill-02-qvLcZGsV0HP2O0CG.htm)|Battle Planner|Planificateur de bataille|changé|
+|[skill-02-R07lTtA1VJzFvQ8p.htm](feats/skill-02-R07lTtA1VJzFvQ8p.htm)|Wilderness Spotter (Underground)|Observateur des étendues sauvages (Souterrain)|libre|
 |[skill-02-RLBYJiGMVkaGL5w9.htm](feats/skill-02-RLBYJiGMVkaGL5w9.htm)|Wary Disarmament|Désarmement prudent|changé|
 |[skill-02-sLEawQueTV1wGn0B.htm](feats/skill-02-sLEawQueTV1wGn0B.htm)|Sow Rumor|Semer des rumeurs|changé|
 |[skill-02-ThoOsKjn5xCuZUqM.htm](feats/skill-02-ThoOsKjn5xCuZUqM.htm)|Quick Contacts|Contacts rapides|changé|
@@ -2596,7 +2588,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-02-XFJiGllNZp8Xebda.htm](feats/skill-02-XFJiGllNZp8Xebda.htm)|Intimidating Prowess|Prouesse intimidante|changé|
 |[skill-02-XmF4q4rzKWg55vG4.htm](feats/skill-02-XmF4q4rzKWg55vG4.htm)|Assured Identification|Identification assurée|changé|
 |[skill-02-XvX1EyxWbbBF32NV.htm](feats/skill-02-XvX1EyxWbbBF32NV.htm)|Unmistakable Lore|Connaissances incontestables|changé|
+|[skill-02-XWsLzllAjrW8LYT5.htm](feats/skill-02-XWsLzllAjrW8LYT5.htm)|Wilderness Spotter (Swamp)|Observateur des étendues sauvages (Marais)|libre|
 |[skill-02-xWY5omyIcILNR7y1.htm](feats/skill-02-xWY5omyIcILNR7y1.htm)|Magical Crafting|Artisanat magique|changé|
+|[skill-02-yBZAmXr265EHPpj3.htm](feats/skill-02-yBZAmXr265EHPpj3.htm)|Wilderness Spotter (Sky)|Observateur des étendues sauvages (Ciel)|libre|
 |[skill-02-yTLGclKtWVFZLKIz.htm](feats/skill-02-yTLGclKtWVFZLKIz.htm)|Godless Healing|Guérison athée|changé|
 |[skill-04-kIXFNPFBStOKunq4.htm](feats/skill-04-kIXFNPFBStOKunq4.htm)|Kreighton's Cognitive Crossover|Mélange cognitif de Kreighton|changé|
 |[skill-04-mwZzcwYVcTvxbXDl.htm](feats/skill-04-mwZzcwYVcTvxbXDl.htm)|Fancy Moves|Mouvements élaborés|changé|

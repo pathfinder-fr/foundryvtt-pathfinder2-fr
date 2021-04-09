@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 196
- * **libre**: 164
+ * **officielle**: 203
+ * **libre**: 165
  * **aucune**: 576
- * **changé**: 834
+ * **changé**: 826
 
 
-Dernière mise à jour: 2021-04-07 18:05 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-08 23:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -655,11 +655,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-14-Iic9QpNemaumfkHc.htm](equipment/armor-14-Iic9QpNemaumfkHc.htm)|Medusa Armor|Armure de la méduse|officielle|
 |[armor-15-aPD0z9dBsHqgiCW0.htm](equipment/armor-15-aPD0z9dBsHqgiCW0.htm)|Reforging Shield|Bouclier réparateur|officielle|
 |[armor-15-gp5kgCySEOuntQPF.htm](equipment/armor-15-gp5kgCySEOuntQPF.htm)|Plate Armor of the Deep|Harnois des profondeurs|officielle|
-|[armor-15-kCjvkkuI3JP4TQ0t.htm](equipment/armor-15-kCjvkkuI3JP4TQ0t.htm)|Cold Iron Buckler (High-Grade)|targe en fer froid de haute qualité|changé|
+|[armor-15-kCjvkkuI3JP4TQ0t.htm](equipment/armor-15-kCjvkkuI3JP4TQ0t.htm)|Cold Iron Buckler (High-Grade)|targe en fer froid de haute qualité|officielle|
 |[armor-15-LboYDYZ0IbDWuWMl.htm](equipment/armor-15-LboYDYZ0IbDWuWMl.htm)|Silver Buckler (High-Grade)|targe en argent de haute qualité|officielle|
 |[armor-15-nRmGErgTLZYf6WMD.htm](equipment/armor-15-nRmGErgTLZYf6WMD.htm)|Cold Iron Shield (High-Grade)|bouclier en fer froid de haute qualité|officielle|
 |[armor-15-pRzafUKQviDSMRJp.htm](equipment/armor-15-pRzafUKQviDSMRJp.htm)|Silver Shield (High-Grade)|bouclier en argent de haute qualité|officielle|
-|[armor-15-Wkh5rQx3IqInEKdT.htm](equipment/armor-15-Wkh5rQx3IqInEKdT.htm)|Robe of the Archmagi|Robe d'Archimage|changé|
+|[armor-15-Wkh5rQx3IqInEKdT.htm](equipment/armor-15-Wkh5rQx3IqInEKdT.htm)|Robe of the Archmagi|Robe d'Archimage|officielle|
 |[armor-16-3xsQ1AA4dyMHLxpw.htm](equipment/armor-16-3xsQ1AA4dyMHLxpw.htm)|Dragonplate|Harnois du dragon|officielle|
 |[armor-16-5dBSn9brsT9NISoR.htm](equipment/armor-16-5dBSn9brsT9NISoR.htm)|Mithral Shield (High-Grade)|bouclier en mithral de haute qualité|officielle|
 |[armor-16-8gcuJ2Ev3euFyXnS.htm](equipment/armor-16-8gcuJ2Ev3euFyXnS.htm)|Darkwood Tower Shield (High-Grade)|pavois en ébénite de haute qualité|officielle|
@@ -678,7 +678,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-18-La9qYc5NHsg423Jb.htm](equipment/armor-18-La9qYc5NHsg423Jb.htm)|Reflecting Shield|Bouclier réfléchissant|officielle|
 |[armor-18-SUbYk6B1iPoGyyjh.htm](equipment/armor-18-SUbYk6B1iPoGyyjh.htm)|Indestructible Shield|Bouclier indestructible|officielle|
 |[armor-18-XKON66YXYLXlGPPg.htm](equipment/armor-18-XKON66YXYLXlGPPg.htm)|Breastplate of Command (Greater)|Cuirasse de commandement (supérieur)|officielle|
-|[armor-19-7ynjS9llFg7tPMoj.htm](equipment/armor-19-7ynjS9llFg7tPMoj.htm)|Robe of the Archmagi (Greater)|Robe de l'archimage (supérieure)|changé|
+|[armor-19-7ynjS9llFg7tPMoj.htm](equipment/armor-19-7ynjS9llFg7tPMoj.htm)|Robe of the Archmagi (Greater)|Robe de l'archimage (supérieure)|officielle|
 |[armor-19-7Z8XXGiUiyyisKOD.htm](equipment/armor-19-7Z8XXGiUiyyisKOD.htm)|Sturdy Shield (Supreme)|Bouclier renforcé (ultime)|officielle|
 |[armor-20-PuqdH7DmNsN79HyE.htm](equipment/armor-20-PuqdH7DmNsN79HyE.htm)|Elven Chain (High-Grade)|Maille elfique (haute qualité)|officielle|
 |[backpack-00-3lgwjrFEsQVKzhh7.htm](equipment/backpack-00-3lgwjrFEsQVKzhh7.htm)|Backpack|Sac à dos|officielle|
@@ -691,13 +691,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[backpack-04-jaEEvuQ32GjAa8jy.htm](equipment/backpack-04-jaEEvuQ32GjAa8jy.htm)|Bag of Holding (Type I)|Sac sans fond (type1)|officielle|
 |[backpack-04-W5znRDeklmWEGzFY.htm](equipment/backpack-04-W5znRDeklmWEGzFY.htm)|Bag of Weasels|Sac de belettes|officielle|
 |[backpack-06-0c7zLY9c88K2n0GC.htm](equipment/backpack-06-0c7zLY9c88K2n0GC.htm)|Pathfinder's Pouch|Bourse d'Éclaireur|libre|
-|[backpack-07-JBMBaN9dZLytfFLQ.htm](equipment/backpack-07-JBMBaN9dZLytfFLQ.htm)|Bag of Holding (Type II)|Sac sans fond (Type 2)|changé|
+|[backpack-07-JBMBaN9dZLytfFLQ.htm](equipment/backpack-07-JBMBaN9dZLytfFLQ.htm)|Bag of Holding (Type II)|Sac sans fond (Type 2)|officielle|
 |[backpack-07-MN8SF2sArQhJg6QG.htm](equipment/backpack-07-MN8SF2sArQhJg6QG.htm)|Bag of Devouring Type I|Sac dévoreur (Type I)|officielle|
 |[backpack-09-rdF2RKgFK0vOlaeV.htm](equipment/backpack-09-rdF2RKgFK0vOlaeV.htm)|Knapsack of Halflingkind|Besace halfeline|officielle|
 |[backpack-11-EIBmADRICTyYzxik.htm](equipment/backpack-11-EIBmADRICTyYzxik.htm)|Bag of Devouring Type II|Sac dévoreur (Type II)|officielle|
-|[backpack-11-jkb2WNby4mjcYqq9.htm](equipment/backpack-11-jkb2WNby4mjcYqq9.htm)|Bag of Holding (Type III)|Sac sans fond (Type 3)|changé|
-|[backpack-13-34DA4rFy7bduRAld.htm](equipment/backpack-13-34DA4rFy7bduRAld.htm)|Bag of Holding (Type IV)|Sac sans fond (Type 4)|changé|
-|[backpack-13-9cK0QVSjNd8tQtiQ.htm](equipment/backpack-13-9cK0QVSjNd8tQtiQ.htm)|Knapsack of Halflingkind (Greater)|Besace Halfeline (supérieure)|changé|
+|[backpack-11-jkb2WNby4mjcYqq9.htm](equipment/backpack-11-jkb2WNby4mjcYqq9.htm)|Bag of Holding (Type III)|Sac sans fond (Type 3)|officielle|
+|[backpack-13-34DA4rFy7bduRAld.htm](equipment/backpack-13-34DA4rFy7bduRAld.htm)|Bag of Holding (Type IV)|Sac sans fond (Type 4)|officielle|
+|[backpack-13-9cK0QVSjNd8tQtiQ.htm](equipment/backpack-13-9cK0QVSjNd8tQtiQ.htm)|Knapsack of Halflingkind (Greater)|Besace Halfeline (supérieure)|officielle|
 |[backpack-13-n3kJYoTrzXYwlYaV.htm](equipment/backpack-13-n3kJYoTrzXYwlYaV.htm)|Bag of Devouring Type III|sac dévoreur (Type III)|officielle|
 |[backpack-17-LRSIRUERqBAJ1HGT.htm](equipment/backpack-17-LRSIRUERqBAJ1HGT.htm)|Voyager's Pack|Sac à dos du voyageur|officielle|
 |[consumable-00-2DoUHoueAyyP4lMN.htm](equipment/consumable-00-2DoUHoueAyyP4lMN.htm)|Bloodeye Coffee|Café œil-sanglant|officielle|
@@ -710,7 +710,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-00-sAI6yzB11LlxisD7.htm](equipment/consumable-00-sAI6yzB11LlxisD7.htm)|Grappling Bolt|Flèche grappin|libre|
 |[consumable-00-sqhr1crb184s3Vnd.htm](equipment/consumable-00-sqhr1crb184s3Vnd.htm)|Blowgun Darts|Fléchettes de sabacane|officielle|
 |[consumable-00-Ti4gWILk69LPxKuU.htm](equipment/consumable-00-Ti4gWILk69LPxKuU.htm)|Candle|Bougie|officielle|
-|[consumable-00-UMAXLDpI6YLSfYX1.htm](equipment/consumable-00-UMAXLDpI6YLSfYX1.htm)|Alcohol|Alcool|changé|
+|[consumable-00-UMAXLDpI6YLSfYX1.htm](equipment/consumable-00-UMAXLDpI6YLSfYX1.htm)|Alcohol|Alcool|libre|
 |[consumable-00-w2ENw2VMPcsbif8g.htm](equipment/consumable-00-w2ENw2VMPcsbif8g.htm)|Arrows|Flèches|officielle|
 |[consumable-01-2RuepCemJhrpKKao.htm](equipment/consumable-01-2RuepCemJhrpKKao.htm)|Healing Potion (Minor)|Potion de guérison (Mineure)|changé|
 |[consumable-01-3cWko20JPnjeoofV.htm](equipment/consumable-01-3cWko20JPnjeoofV.htm)|Feather Token (Ladder)|Plume magique (échelle)|changé|

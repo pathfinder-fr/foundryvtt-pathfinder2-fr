@@ -31,6 +31,14 @@
             "description": "<p><strong>Prérequis</strong> légendaire en Discrétion</p>\n<p><strong>Fréquence</strong> une fois par heure</p>\n<p><strong>Déclencheur</strong> Vous avez réussi à utiliser Discrétion pour Vous cacher et être caché aux yeux de tous vos adversaires actuels, ou vous avez utilisé Discrétion pour @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif} et devenir non détecté aux yeux de ces adversaires.</p>\n<hr>\n<p>Quand vous décidez de rester hors de vue, vous disparaissez complètement. Vous devenez invisible pendant 1 minute, même si vous accomplissez une action hostile. Même @Compendium[pf2e.spells-srd.0qaqksrGGDj74HXE]{poussière scintillante}, @Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{détection de l’invisibilité} ou les effets comparables ne suffisent pas à révéler votre présence. Les créatures peuvent cependant utiliser l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour vous localiser normalement.</p>"
         },
         {
+            "id": "Wilderness Spotter (Sky)",
+            "name": "Observateur des étendues sauvages (Ciel) (Wilderness Spotter (Sky))",
+            "description": "<p>Vous pouvez utiliser Survie à la place de Perception pour déterminer l'initiative lorsque vous êtes dans les cieux dans un lieu naturel (pas une structure) même si vous n'étiez pas en train de Pister ou d'utiliser autrement Survie avant la rencontre.</p>\n<p>Vous pouvez aussi utiliser la survie au lieu de la Perception pour remarquer des pièges dans le ciel dans les endroits naturels ; si vous trouvez un piège artisanal de cette manière, vous pouvez aussi utiliser Survie au lieu de Vol pour Désamorcer le mécanisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, le don s'applique à un nouveau type de terrain.</p>",
+            "prereq": [
+                "expert en Survie"
+            ]
+        },
+        {
             "id": "Emblazon Energy",
             "name": "Énergie blasonnée (Emblazon Energy)",
             "description": "<p>Vous augmentez la puissance des symboles que vous blasonnez avec des forces élémentaires. Quand vous utilisez Arsenal blasonné, vous pouvez choisir l’un des effets suivants au lieu de ceux de ce don. Ces effets imposent les mêmes restrictions que les options de base.</p>\n<ul>\n<li><strong>Arme</strong> Choisissez l’acide, l’électricité, le feu, le froid ou le son. L’arme inflige 1d4 dégâts supplémentaires de ce type. Ces dégâts passent à 1d6 si vous avez un sort de domaine avec un trait correspondant à ce type (feu, par exemple).</li>\n<li><strong>Bouclier</strong> Choisissez l’acide, l’électricité, le feu, le froid ou le son. Le porteur du bouclier bénéficie du bonus de circonstances du bouclier à ses jets de sauvegarde contre ce type de dégâts et peut effectuer un Blocage au bouclier contre les dégâts de ce type. Le bouclier gagne également une résistance contre ce type de dégâts égale à la moitié de votre niveau si vous avez un sort de domaine avec un trait correspondant à ce type (feu, par exemple).</li>\n</ul>",
@@ -725,6 +733,11 @@
             ]
         },
         {
+            "id": "Suli-jann",
+            "name": "Jann-suli (Suli-jann)",
+            "description": "<p>Votre ancêtre élémentaire était un jann, l'un des génies qui marchent à la surface du monde mortel et incarne l'ensemble des quatre éléments pris dans leur globalité. Vous avez hérité de la nature d'un jann de vagabonder et de sa capacité à survivre dans n'importe quel type d'environnement, du plus chaud des déserts aux plus froides toundras. Vous êtes qualifié en Survie. Si vous êtes déjà qualifié en Survie (par votre historique ou votre classe par exemple), vous devenez qualifié en une autre compétence de votre choix. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.8qebBeOJsyRIchcu]{Glaneur} comme un don supplémentaire.</p>"
+        },
+        {
             "id": "Bark and Tendril",
             "name": "Écorce et liane (Bark and Tendril)",
             "description": "<p>Vous êtes un réceptacle de la magie primordiale.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]{Peau d'écorce} et @Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]{Enchevêtrement} comme sorts innés primordiaux de niveau 2 une fois par jour chacun.</p>"
@@ -1389,6 +1402,14 @@
             "prereq": [
                 "Initié de l'incantation paisible",
                 "maître soit en Arcanes ou en Nature, expert dans l'autre compétence"
+            ]
+        },
+        {
+            "id": "Virtuosic Performer (Strings)",
+            "name": "Artiste virtuose (Cordes) (Virtuosic Performer (Strings))",
+            "description": "<p>Vous avez un talent exceptionnel dans un type de Représentation. Vous gagnez un bonus de circonstances de +1 quand vous effectuez un certain type de représentation. Si vous êtes un maître en Représentation, ce bonus augmente à +2.</p>\n<hr />\n<p><strong>Exemple de représentations</strong> Violon, harpe, luth, viole</p>\n<p>S’il n’est pas évident de déterminer si la spécialité s’applique, c’est le MJ qui décide.</p>",
+            "prereq": [
+                "qualifié en Représentation"
             ]
         },
         {
@@ -2102,6 +2123,14 @@
             ]
         },
         {
+            "id": "Virtuosic Performer (Acting)",
+            "name": "Artiste virtuose (Interprétation) (Virtuosic Performer (Acting))",
+            "description": "<p>Vous avez un talent exceptionnel dans un type de Représentation. Vous gagnez un bonus de circonstances de +1 quand vous effectuez un certain type de représentation. Si vous êtes un maître en Représentation, ce bonus augmente à +2.</p>\n<hr />\n<p><strong>Exemple de représentations</strong> Drame, pantomime, marionnettes</p>\n<p>S’il n’est pas évident de déterminer si la spécialité s’applique, c’est le MJ qui décide.</p>",
+            "prereq": [
+                "qualifié en Représentation"
+            ]
+        },
+        {
             "id": "Target Of Opportunity",
             "name": "Cible d'opportunité (Target Of Opportunity)",
             "description": "<p><strong>Déclencheur</strong> Un allié réussit une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} à distance contre un adversaire au sein de votre premier facteur de portée</p>\n<p><strong>Conditions</strong> Vous avez une arme de jet ou à distance en main</p>\n<hr />\n<p>Vous capitalisez sur l'attaque de votre allié pour créer un barrage coordonné. Effectuez une Frappe à distance avec une pénalité de -2 contre l'adversaire ciblé par l'attaque déclencheuse. Cette Frappe n'est pas comptée dans votre Pénalité d'attaque multiple et votre pénalité d'attaque multiple ne s'applique pas à cette Frappe. Si la Frappe est un succès, combinez les dégâts de l'attaque avec les dégâts de l'attaque allié pour les besoins des résistances et des faiblesses.</p>",
@@ -2422,6 +2451,14 @@
             "prereq": [
                 "Allié divin (lame)",
                 "préceptes du mal"
+            ]
+        },
+        {
+            "id": "Wilderness Spotter (Mountain)",
+            "name": "Observateur des étendues sauvages (Montagne) (Wilderness Spotter (Mountain))",
+            "description": "<p>Vous pouvez utiliser Survie à la place de Perception pour déterminer l'initiative lorsque vous êtes dans les montagnes dans un lieu naturel (pas une structure) même si vous n'étiez pas en train de Pister ou d'utiliser autrement Survie avant la rencontre.</p>\n<p>Vous pouvez aussi utiliser la survie au lieu de la Perception pour remarquer des pièges dans les endroits naturels dans un environnement montagneux ; si vous trouvez un piège artisanal de cette manière, vous pouvez aussi utiliser Survie au lieu de Vol pour Désamorcer le mécanisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, le don s'applique à un nouveau type de terrain.</p>",
+            "prereq": [
+                "expert en Survie"
             ]
         },
         {
@@ -3034,6 +3071,14 @@
             "description": "<p>Le pouvoir de votre mystère jaillit de vous comme une source d'énergie divine, même lorsque votre propre magie s'épuise.</p>\n<p>Deux fois par jour, vous pouvez lancer un sort après avoir été à court d'emplacement de sorts du niveau approprié ; les deux sorts que vous lancez avec ce don doivent être de différents niveaux de sort.</p>"
         },
         {
+            "id": "Wilderness Spotter (Forest)",
+            "name": "Observateur des étendues sauvages (Forêt) (Wilderness Spotter (Forest))",
+            "description": "<p>Vous pouvez utiliser Survie à la place de Perception pour déterminer l'initiative lorsque vous êtes dans les forêts dans un lieu naturel (pas une structure) même si vous n'étiez pas en train de Pister ou d'utiliser autrement Survie avant la rencontre.</p>\n<p>Vous pouvez aussi utiliser la survie au lieu de la Perception pour remarquer des pièges dans les endroits naturels dans un environnement forestier ; si vous trouvez un piège artisanal de cette manière, vous pouvez aussi utiliser Survie au lieu de Vol pour Désamorcer le mécanisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, le don s'applique à un nouveau type de terrain.</p>",
+            "prereq": [
+                "expert en Survie"
+            ]
+        },
+        {
             "id": "Seasoned",
             "name": "Assaisonné (Seasoned)",
             "description": "<p><strong>Prérequis</strong> qualifié en Connaissance des alcools, Connaissance de la Cuisine ou Artisanat</p>\n<hr>\n<p>Vous avez maîtrisé la préparation de plusieurs types de nourriture et de boisson. Vous obtenez un bonus de circonstances de +1 aux tests d'Artisanat pour préparer de la nourriture et des boissons, y compris les potions. Si vous êtes un maître dans l'une des compétences prérequises, ce bonus passe à +2.</p>"
@@ -3610,6 +3655,14 @@
             "description": "<p>En adoptant une posture bizarre, vous faites un court bond d'un orteil à l'autre. Vous effectuez un @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Saut} vertical sans déclencher de réactions qui peuvent être déclenchées par des actions de déplacement ou en quittant ou en entrant dans une case.</p>"
         },
         {
+            "id": "Consistent Surge",
+            "name": "Poussée consistante (Consistent Surge)",
+            "description": "<p>Vos nanites sont incroyablement efficcaces, capable d'améliorer l'efficacité de votre corps régulièrement. Vous pouvez utiliser Poussée nanite avec une fréquence de une fois par tranche de 10 minutes, au lieu d'une fois par heure.</p>",
+            "prereq": [
+                "Poussé nanite"
+            ]
+        },
+        {
             "id": "Intimidating Glare",
             "name": "Regard intimidant (Intimidating Glare)",
             "description": "<p><strong>Prérequis</strong> qualifié en Intimidation</p>\n<hr>\n<p>Vous pouvez Démoraliser d’un simple regard. Quand vous le faites, Démoraliser perd le trait audible et gagne le trait visuel, et vous ne subissez pas de malus si la créature ne comprend pas votre langue.</p>"
@@ -3692,6 +3745,14 @@
             "description": "<p>Les runes de votre corps vous confèrent plusieurs pouvoirs magiques.</p>\n<p>Choisissez un sort arcanique de niveau 1. Une rune lui correspondant se dessine sur votre corps. Vous pouvez le lancer comme un sort inné une fois par jour. Au niveau 6, vous gagnez une rune de sort correspondant à un sort arcanique de niveau 2 et au niveau 8 une rune correspondant à un sort arcanique de niveau 3.</p>",
             "prereq": [
                 "Dévouement de scarifié des runes"
+            ]
+        },
+        {
+            "id": "Virtuosic Performer (Oratory)",
+            "name": "Artiste virtuose (Art oratoire) (Virtuosic Performer (Oratory))",
+            "description": "<p>Vous avez un talent exceptionnel dans un type de Représentation. Vous gagnez un bonus de circonstances de +1 quand vous effectuez un certain type de représentation. Si vous êtes un maître en Représentation, ce bonus augmente à +2.</p>\n<hr />\n<p><strong>Exemple de représentations</strong> Épopée, ode, poésie, conte</p>\n<p>S’il n’est pas évident de déterminer si la spécialité s’applique, c’est le MJ qui décide.</p>",
+            "prereq": [
+                "qualifié en Représentation"
             ]
         },
         {
@@ -5377,6 +5438,14 @@
             ]
         },
         {
+            "id": "Wilderness Spotter (Desert)",
+            "name": "Observateur des étendues sauvages (Désert) (Wilderness Spotter (Desert))",
+            "description": "<p>Vous pouvez utiliser Survie à la place de Perception pour déterminer l'initiative lorsque vous êtes dans un désert dans un lieu naturel (pas une structure) même si vous n'étiez pas en train de Pister ou d'utiliser autrement Survie avant la rencontre.</p>\n<p>Vous pouvez aussi utiliser la survie au lieu de la Perception pour remarquer des pièges dans les endroits naturels sur un terrain désertique ; si vous trouvez un piège artisanal de cette manière, vous pouvez aussi utiliser Survie au lieu de Vol pour Désamorcer le mécanisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, le don s'applique à un nouveau type de terrain.</p>",
+            "prereq": [
+                "expert en Survie"
+            ]
+        },
+        {
             "id": "Olethros's Decree",
             "name": "Décret d'Olethro (Olethros's Decree)",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous avez un lien avec les olethroses, les psychopompes énigmatiques qui ont réussi à balancer les yamaraj pour permettre la création des premiers crépusculaires. Vous placez un doigt sur les écailles du destin en enroulant de la soie autour de votre arc. La première fois au cours de ce tour que vous touchez une créature avec une Frappe en utilisant une arme du groupe des arcs que vous avez modifié de cette manière, cette créature subit [[/r 60]] dégâts supplémentaires (jet de Vigueur basique en utilisant le plus élevé entre votre DD de classe ou votre DD de sort) lorsque la flêche travaille à couper court à leur destin. Ces dégâts supplémentaires sont du même type que le type infligé par votre attaque initiale. Si vous touchez plus d'une créature en même temps, choisissez en une qui subit l'effet de votre décret.</p>"
@@ -5464,6 +5533,14 @@
             "prereq": [
                 "Dévouement de Médecin",
                 "légendaire en Médecine"
+            ]
+        },
+        {
+            "id": "Wilderness Spotter (Arctic)",
+            "name": "Observateur des étendues sauvages (Arctique) (Wilderness Spotter (Arctic))",
+            "description": "<p>Vous pouvez utiliser Survie à la place de Perception pour déterminer l'initiative lorsque vous êtes sur un terrain arctique dans un lieu naturel (pas une structure) même si vous n'étiez pas en train de Pister ou d'utiliser autrement Survie avant la rencontre.</p>\n<p>Vous pouvez aussi utiliser la survie au lieu de la Perception pour remarquer des pièges dans les endroits naturels sur un terrain arctique ; si vous trouvez un piège artisanal de cette manière, vous pouvez aussi utiliser Survie au lieu de Vol pour Désamorcer le mécanisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, le don s'applique à un nouveau type de terrain.</p>",
+            "prereq": [
+                "expert en Survie"
             ]
         },
         {
@@ -6050,6 +6127,14 @@
             "description": "<p>Votre forme est aussi changeante que le climat et s’adapte à vos besoins. Ajoutez les formes du sort @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Forme humanoïde} à la liste de celles de votre <em>morphologie sauvage</em>.</p>",
             "prereq": [
                 "Morphologie sauvage"
+            ]
+        },
+        {
+            "id": "Virtuosic Performer (Percussion)",
+            "name": "Artiste virtuose (Percussion) (Virtuosic Performer (Percussion))",
+            "description": "<p>Vous avez un talent exceptionnel dans un type de Représentation. Vous gagnez un bonus de circonstances de +1 quand vous effectuez un certain type de représentation. Si vous êtes un maître en Représentation, ce bonus augmente à +2.</p>\n<hr />\n<p><strong>Exemple de représentations</strong> Carillons, tambour, gong, xylophone</p>\n<p>S’il n’est pas évident de déterminer si la spécialité s’applique, c’est le MJ qui décide.</p>",
+            "prereq": [
+                "qualifié en Représentation"
             ]
         },
         {
@@ -6667,6 +6752,11 @@
             "id": "Dwarven Lore",
             "name": "Connaissance des nains (Dwarven Lore)",
             "description": "<p>Vous vous êtes imprégné des vieilles histoires et traditions de vos ancêtres, de vos dieux et de votre peuple, et avez étudié les sujets et les techniques transmis de génération en génération. Vous gagnez le rang de maîtrise qualifié en Artisanat et en Religion. Si vous êtes déjà automatiquement qualifié dans l’une de ces compétences (grâce à votre historique ou à votre classe, par exemple), vous devenez alors qualifié dans une compétence de votre choix. Vous devenez également qualifié en Connaissance des nains.</p>"
+        },
+        {
+            "id": "Vicious Evisceration",
+            "name": "Éviscération vicieuse (Vicious Evisceration)",
+            "description": "<p>Vous portez une frappe vicieuse qui mutile votre ennemi.</p>\n<p>FAites une Frappe au corps-à-corps. Si la Frappe touche et inflige des dégâts, la cible est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée 1} ou @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée 2} en cas de coup critique.</p>"
         },
         {
             "id": "Perfect Distraction",
@@ -7384,6 +7474,14 @@
             ]
         },
         {
+            "id": "Wilderness Spotter (Plains)",
+            "name": "Observateur des étendues sauvages (Plaines) (Wilderness Spotter (Plains))",
+            "description": "<p>Vous pouvez utiliser Survie à la place de Perception pour déterminer l'initiative lorsque vous êtes dans les plaines dans un lieu naturel (pas une structure) même si vous n'étiez pas en train de Pister ou d'utiliser autrement Survie avant la rencontre.</p>\n<p>Vous pouvez aussi utiliser la survie au lieu de la Perception pour remarquer des pièges dans les endroits naturels dans les plaines ; si vous trouvez un piège artisanal de cette manière, vous pouvez aussi utiliser Survie au lieu de Vol pour Désamorcer le mécanisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, le don s'applique à un nouveau type de terrain.</p>",
+            "prereq": [
+                "expert en Survie"
+            ]
+        },
+        {
             "id": "Mobile Magical Combat",
             "name": "Combat magique mobile (Mobile Magical Combat)",
             "description": "<p><strong>Conditions</strong> Vous maniez une arme de mêlée et avez Lancé un sort nécessitant au moins une action ce tour-ci.</p>\n<hr />\n<p>Vous traversez le champ de bataille en jetant des sorts et en faisant des attaques de mêlée avec votre arme. Faites un pas. Si vous terminez votre mouvement à portée de mêlée d'au moins un ennemi, vous pouvez effectuer une Frappe de mêlée contre cet ennemi. Vous pouvez utiliser Combat magique mobile en Creusant, en Escaladant, en Volant ou en Nageant au lieu de Marcher rapidement si vous avez le type de mouvement correspondant.</p>",
@@ -7441,6 +7539,14 @@
             "id": "Fumesoul",
             "name": "Âmevaporeuse (Fumesoul)",
             "description": "<p>L'air à l'intérieur de vous s'affirme lui-même comme un miasme toxique, vous rendant endurant à la plupart des poisons. Vous obtenez une résistance aux poisons égal à la moitié de votre niveau (minimum 1).</p>"
+        },
+        {
+            "id": "Virtuosic Performer (Winds)",
+            "name": "Artiste virtuose (Vents) (Virtuosic Performer (Winds))",
+            "description": "<p>Vous avez un talent exceptionnel dans un type de Représentation. Vous gagnez un bonus de circonstances de +1 quand vous effectuez un certain type de représentation. Si vous êtes un maître en Représentation, ce bonus augmente à +2.</p>\n<hr />\n<p><strong>Exemple de représentations</strong> Cornemuse, flûte, flûte à bec, trompette</p>\n<p>S’il n’est pas évident de déterminer si la spécialité s’applique, c’est le MJ qui décide.</p>",
+            "prereq": [
+                "qualifié en Représentations"
+            ]
         },
         {
             "id": "Shadow Sneak Attack",
@@ -9746,6 +9852,14 @@
             "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.vayNZR1bTzU1oUa3]{Rage partagée}</p>\n<hr>\n<p>Vous pouvez déclencher un état de frénésie chez tous vos alliés et leur faire bénéficier d’incroyables avantages. Vous pouvez ignorer les conditions d’utilisation de Rage partagée et l’utiliser plusieurs fois au cours d’une même Rage. Les alliés affectés par Rage partagée qui acceptent votre anathème pour la durée de la Rage gagnent votre pouvoir d’instinct et le pouvoir de spécialisation associé lié à la spécialisation martiale, mais pas à la spécialisation martiale supérieure.</p>"
         },
         {
+            "id": "Terrain Expertise (Swamp)",
+            "name": "Expertise du terrain (Marais) (Terrain Expertise (Swamp))",
+            "description": "<p>Votre expérience de l’orientation sur un certain type de terrain vous rend extrêmement confiant pour ce faire. Vous gagnez un bonus de circonstances de +1 aux tests de Survie sur le terrain <em>marécageux</em>.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois en choisissant un type de terrain différent à chaque fois.</p>",
+            "prereq": [
+                "qualifié en Survie"
+            ]
+        },
+        {
             "id": "Fear No Law, Fear No One",
             "name": "Peur d'aucune loi, ni de personne (Fear No Law, Fear No One)",
             "description": "<p>Lorsque vous obtenez un succès sur un jet de sauvegarde contre un effet de terreur, vous obtenez à la place un succès critique. De plus, à chaque fois que vous obtenez l’effet effrayé, réduisez son intensité de 1. Comme d’habitude, ce pouvoir réduit l’état initial effrayé de 1, donc si vous possédez plusieurs pouvoirs similaires, ils ne s’appliquent pas tous.</p>",
@@ -10054,6 +10168,11 @@
             "id": "Underwater Volcano",
             "name": "Volcan sous-marin (Underwater Volcano)",
             "description": "<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.O7ZEqWjwdKyo2CUv]{Éruption volcanique} comme un sort primordial inné de niveau 7 une fois par jour, sauf que vous évoquéer seulement le volcan sur le fond d'une étendue d'eau et que les effets qui s'appliquent normalement aux créatures volantes s'appliquent aux créatures qui nagent à la place.</p>"
+        },
+        {
+            "id": "Radiant Circuitry",
+            "name": "Circuiterie rayonnante (Radiant Circuitry)",
+            "description": "<p>Votre circuiterie biologique émet de la lumière comme une torche, émettant une lumière vive dans un rayon de 6 m de rayon (et une lumière faible dans les 6 m suivants). La lumière s'éteint lorsque vous entreprenez cette action de nouveau ou lorsque vous sombrez dans l'@Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscience}.</p>"
         },
         {
             "id": "Elf Atavism",
@@ -10843,6 +10962,14 @@
             ]
         },
         {
+            "id": "Virtuosic Performer (Singing)",
+            "name": "Artiste virtuose (Chant) (Virtuosic Performer (Singing))",
+            "description": "<p>Vous avez un talent exceptionnel dans un type de Représentation. Vous gagnez un bonus de circonstances de +1 quand vous effectuez un certain type de représentation. Si vous êtes un maître en Représentation, ce bonus augmente à +2.</p>\n<hr />\n<p><strong>Exemple de représentations</strong> Ballade, chant, mélodies, rimes</p>\n<p>S’il n’est pas évident de déterminer si la spécialité s’applique, c’est le MJ qui décide.</p>",
+            "prereq": [
+                "qualifié en Représentation"
+            ]
+        },
+        {
             "id": "Anoint Ally",
             "name": "Oindre un allié (Anoint Ally)",
             "description": "<p>Vous forgez une connexion mystique avec un allié en utilisant votre corps comme focalisateur, lui permettant de bénécier de votre magie.</p>\n<p>Vous placez une rune de sang sur un allié adjacent qui dure 1 minute. Lorsque vous obtenez un effet de Magie du sang, vous pouvez y renoncer et l'accorder à votre allié à la place.</p>\n<p>Vous ne pouvez oindre qu'un seul allié à la fois ; si vous placez une autre rune, votre rune précédente prend fin.</p>"
@@ -11051,6 +11178,14 @@
             "description": "<p>Stella Fane a perfectionné une technique pour utiliser des cartes à jouer comme des armes qui sont à la fois en partie de l'escamotage et en partie de la magie.</p>\n<p>Lorsque vous prenez cette posture, choisissez de traiter des cartes à jouer en votre possession, soit comme des dagues, soit comme des fléchettes ; vous pouvez manier une carte à jouer de la même manière que l'arme choisie jusqu'à ce que vous mettiez un terme à cete posture. Tant que la majorité du jeu reste en votre possession, toute carte qui est perdu ou lancée peut être trouvée après 1 minute. Autrement, les cartes restantes sont comme perdues ou détruites.</p>\n<p>Un personnage qui possède ce don peut enchanter un unique jeu de cartes à jouer, gravant les runes fondamentales et de propriété directement sur le jeu de cartes.</p>"
         },
         {
+            "id": "Terrain Expertise (Arctic)",
+            "name": "Expertise du terrain (Arctique) (Terrain Expertise (Arctic))",
+            "description": "<p>Votre expérience de l’orientation sur un certain type de terrain vous rend extrêmement confiant pour ce faire. Vous gagnez un bonus de circonstances de +1 aux tests de Survie sur le terrain <em>arctique</em>.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois en choisissant un type de terrain différent à chaque fois.</p>",
+            "prereq": [
+                "qualifié en Survie"
+            ]
+        },
+        {
             "id": "Rejuvenating Touch",
             "name": "Toucher rajeunissant (Rejuvenating Touch)",
             "description": "<p><strong>Prérequis</strong> sort de dévotion (<a class=\"entity-link\" data-pack=\"pf2e.spells-srd\" data-id=\"zNN9212H2FGfM7VS\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Imposition des mains</a>)</p>\n<hr>\n<p>Vos énergies curatrices persistent après vos incantations, procurant un bénéfice continue. Un allié qui récupère des Points de vie de votre Imposition des mains obtient 10 Points de vie temporaires au début de leur tour durant chacun des 10 prochains rounds. Cet effet s'interrompts si l'allié est rendu <a class=\"entity-link\" data-pack=\"pf2e.conditionspf2e\" data-id=\"fBnFDH2MTzgFijKf\" draggable=\"true\"><i class=\"fas fa-book-open\"></i>Inconscient</a>.</p>"
@@ -11190,6 +11325,11 @@
             "description": "<p>Vos sens avancent pour correspondre à ceux de votre aspect animal. Vous obtenez un des sens suivants acessible à votre animal intérieur : écho-localisation (imprécis) 9 m ou percepetion des vibrations (imprécis) 9 m. Si votre animal intérieur ne possède pas un type de sens spécifique, vous ne pouvez obtenir de sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plusieurs fois, soit en choisissant un sens différent ou pour améliorer un sens imprécis accordé par ce don pour en faire un sens précis.</p>"
         },
         {
+            "id": "Ancestor's Transformation",
+            "name": "Transformation de l'ancêtre (Ancestor's Transformation)",
+            "description": "<p>Vous pouvez communier avec les esprits ancestraux  pour prendre la forme d'un énorme strix primitif. Vous pouvez lancer @Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]{Forme aérienne} au niveau 5 comme un sort inné primordialune fois par jour, mais vous prenez la forme d'un strix primitif, en utilisant les statistiques d'une forme d'oiseau.</p>"
+        },
+        {
             "id": "Snagging Strike",
             "name": "Frappe déconcertante (Snagging Strike)",
             "description": "<p><strong>Conditions</strong> Vous avez une main libre et votre cible est à portée de cette main.</p>\n<hr />\n<p>Vous combinez une attaque avec de rapides prises avec la main pour déséquilibrer un ennemi tant qu’il reste à portée.</p>\n<p>Effectuez une Frappe en gardant une main libre. Si cette Frappe touche, la cible est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} jusqu’au début de votre prochain tour ou jusqu’à ce qu’elle sorte de l’allonge de votre main, selon ce qui se produit en premier.</p>"
@@ -11198,6 +11338,14 @@
             "id": "Evanescent Wings",
             "name": "Ailes évanescentes (Evanescent Wings)",
             "description": "<p>Vous manifestez des ailes qui peuvent battre pour de brefs instants. Vous n'avez pas besoin de dépenser aucune action supplémentaire pour atteindre quelque chose dans votre case qu'une créature de taille Moyenne pourrait atteindre. Par exemple, si vous voulez ouvrir une boîte de cookies située à 1,20 m du sol, vous avez seulement besoin d'une unique action d'Interaction pourle faire. Lorsque vous utilisez Ailes évanescentes pour battre vers un lieu plus haut dans votre case, votre action obtient le trait déplacement.</p>"
+        },
+        {
+            "id": "Virtuosic Performer (Comedy)",
+            "name": "Artiste virtuose (Comique) (Virtuosic Performer (Comedy))",
+            "description": "<p>Vous avez un talent exceptionnel dans un type de Représentation. Vous gagnez un bonus de circonstances de +1 quand vous effectuez un certain type de représentation. Si vous êtes un maître en Représentation, ce bonus augmente à +2.</p>\n<hr />\n<p><strong>Exemple de représentations</strong> Bouffonnerie, blagues, comptines</p>\n<p>S’il n’est pas évident de déterminer si la spécialité s’applique, c’est le MJ qui décide.</p>",
+            "prereq": [
+                "qualifié en Représentations"
+            ]
         },
         {
             "id": "Nimble Dodge",
@@ -11612,6 +11760,14 @@
             "description": "<p>Chaque mystère d'oracle touche à un domaine divin des divinités qui le nourrissent ; vous avez accès à ce pouvoir.</p>\n<p>Choisissez un des domaines associé à votre mystère pour lequel vous n'avez pas déjà un sort de domaine initial. Vous obtenez le sort de domaine initial de ce domaine, que vous pouvez lancer comme un sort de révélation. Il obtient le trait lié à une malédiction. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.</p>"
         },
         {
+            "id": "Terrain Expertise (Plains)",
+            "name": "Expertise du terrain (Terrain Expertise (Plains))",
+            "description": "<p>Votre expérience de l’orientation sur un certain type de terrain vous rend extrêmement confiant pour ce faire. Vous gagnez un bonus de circonstances de +1 aux tests de Survie dans les <em>plaines</em>.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois en choisissant un type de terrain différent à chaque fois.</p>",
+            "prereq": [
+                "qualifié en Survie"
+            ]
+        },
+        {
             "id": "Insistent Command",
             "name": "Ordre insistant (Insistent Command)",
             "description": "<p>Lorsque vous obtenez un succès pour @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Diriger un animal}, vous obtenez un succès critique ; si vous obtenez un échec critique , vous obtenez un échec.</p>",
@@ -11876,6 +12032,14 @@
             "description": "<p>Vous pouvez convoquer un allié élémentaire. Une fois par jour, vous pouvez lancer @Compendium[pf2e.spells-srd.lpT6LotUaQPfinjj]{Convocation d'élémentaires} comme un sort inné primordial de niveau 5, mais l'élémentaire convoqué doit être un élémentaire d'eau.</p>"
         },
         {
+            "id": "Terrain Expertise (Desert)",
+            "name": "Expertise du terrain (Désert) (Terrain Expertise (Desert))",
+            "description": "<p>Votre expérience de l’orientation sur un certain type de terrain vous rend extrêmement confiant pour ce faire. Vous gagnez un bonus de circonstances de +1 aux tests de Survie sur le terrain <em>désertique</em>.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois en choisissant un type de terrain différent à chaque fois.</p>",
+            "prereq": [
+                "qualifié en Survie"
+            ]
+        },
+        {
             "id": "Crude Communication",
             "name": "Ébauche de communication (Crude Communication)",
             "description": "<p>Même si vous ne pouvez pas parler la langue d'une créature, vous pouvez compter sur l'inflexion, les mots racines et le langage corporel pour faire passer une signification rudimentaire.</p>\n<p>Si vous intéragissez avec une créature pendant au moins 10 minutes et que cette créature peut parler une langue, le MJ lance un test de Société secret avec un DD approprié à la rareté de la langue.</p>\n<p>En cas de succès, vous comprenez le sens général de la signification de son discours et pouvez communiquer des concepts basiques en retour à la créature ; en cas d'échec, vous vous trompez ou communiquez des concepts incorrects.</p>\n<p>Si vous êtes légendaire en Société, vous pouvez communiquer instantanément sans avoir besoin d'un test de Société ; même si vous ne connaissiez aucun des moyens de communication que la créature utilise (parler, langage des signes, etc), vous déduisez cette information dès qu'elles essaient de communiquer.</p>",
@@ -11932,6 +12096,14 @@
             "description": "<p>Vos compagnons animaaux agile et sauvage sont devenus suffisamment malins pour se spécialiser. Chaque compagnon animal obtient une spécialisation de votre choix.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plus d'une fois. Chaque fois, ajoutez une spécialisation différente à vos compagnons agiles et sauvages. Vos compagnons animaux agiles et sauvages peuvent ainsi obtenir jusqu'à trois spécialisations chacun.</p>",
             "prereq": [
                 "Formidable compagnon (Maître des bêtes)"
+            ]
+        },
+        {
+            "id": "Virtuosic Performer (Keyboards)",
+            "name": "Artiste virtuose (Claviers) (Virtuosic Performer (Keyboards))",
+            "description": "<p>Vous avez un talent exceptionnel dans un type de Représentation. Vous gagnez un bonus de circonstances de +1 quand vous effectuez un certain type de représentation. Si vous êtes un maître en Représentation, ce bonus augmente à +2.</p>\n<hr />\n<p><strong>Exemple de représentations</strong> Clavecin, orgue, piano</p>\n<p>S’il n’est pas évident de déterminer si la spécialité s’applique, c’est le MJ qui décide.</p>",
+            "prereq": [
+                "qualifié en Représentation"
             ]
         },
         {
@@ -12335,6 +12507,14 @@
             "id": "Quaking Stomp",
             "name": "Piétinement sismique (Quaking Stomp)",
             "description": "<p><strong>Fréquence</strong> une fois toutes les 10 min</p>\n<hr>\n<p>Vous tapez du pied avec une telle force que vous créez un petit tremblement de terre avec les effets du sort tremblement de terre</p>"
+        },
+        {
+            "id": "Terrain Expertise (Underground)",
+            "name": "Expertise du terrain (souterrain) (Terrain Expertise (Underground))",
+            "description": "<p>Votre expérience de l’orientation sur un certain type de terrain vous rend extrêmement confiant pour ce faire. Vous gagnez un bonus de circonstances de +1 aux tests de Survie dans les <em>souterrains</em>.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois en choisissant un type de terrain différent à chaque fois.</p>",
+            "prereq": [
+                "qualifié en Survie"
+            ]
         },
         {
             "id": "Swift",
@@ -12777,6 +12957,14 @@
             ]
         },
         {
+            "id": "Wilderness Spotter (Swamp)",
+            "name": "Observateur des étendues sauvages (Marais) (Wilderness Spotter (Swamp))",
+            "description": "<p>Vous pouvez utiliser Survie à la place de Perception pour déterminer l'initiative lorsque vous êtes dans les marais dans un lieu naturel (pas une structure) même si vous n'étiez pas en train de Pister ou d'utiliser autrement Survie avant la rencontre.</p>\n<p>Vous pouvez aussi utiliser la survie au lieu de la Perception pour remarquer des pièges dans les endroits naturels dans un environnement marécageux ; si vous trouvez un piège artisanal de cette manière, vous pouvez aussi utiliser Survie au lieu de Vol pour Désamorcer le mécanisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, le don s'applique à un nouveau type de terrain.</p>",
+            "prereq": [
+                "expert en Survie"
+            ]
+        },
+        {
             "id": "Perfect Mutagen",
             "name": "Mutagène parfait (Perfect Mutagen)",
             "description": "<p>Vous avez amélioré les formules de vos mutagènes qui sont maintenant parfaitement harmonisés avec votre physiologie. Quand vous êtes sous l’effet d’un mutagène que vous avez fabriqué, vous ne subissez aucun de ses inconvénients.</p>"
@@ -12891,6 +13079,14 @@
             ]
         },
         {
+            "id": "Terrain Expertise (Forest)",
+            "name": "Expertise du terrain (Forêt) (Terrain Expertise (Forest))",
+            "description": "<p>Votre expérience de l’orientation sur un certain type de terrain vous rend extrêmement confiant pour ce faire. Vous gagnez un bonus de circonstances de +1 aux tests de Survie sur le terrain <em>forestier</em>.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois en choisissant un type de terrain différent à chaque fois.</p>",
+            "prereq": [
+                "qualifié en Survie"
+            ]
+        },
+        {
             "id": "Daring Flourish",
             "name": "Sophistication culottée (Daring Flourish)",
             "description": "<p>Vous savez utiliser rapidement une ouverture créée par vos cascades insensées. À la fin de votre @Compendium[pf2e.feats-srd.cny7ouhsoiNsWJ7X]{Acte culotté}, vous pouvez porter une Frappe au corps à corps contre la cible ou tenter de la @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}. La cible est @Compendium[pf2e.conditionspf2e.AJh5ex99aV6VTggg]{Prise au dépourvue} contre la Frappe que vous portez durant l'Acte culotté ainsi que celle qui la suit tentée à son encontre avant la fin de votre tour.</p>",
@@ -12914,6 +13110,14 @@
             "description": "<p>Votre temps passé dans les parties hostiles du monde vous a endurci face aux climats extrèmes.</p>\n<p>Sur votre @Compendium[pf2e.feats-srd.sgo7J9BVofBqwlsF]{Terrain de prédilection}, vous obtenez une résistance égale à la moitié de votre niveau contre tous les effets des dégâts environnementaux et êtes affecté par les effets de température comme s'ils étaient d'un degré de sévérité inférieur (une chaleur ou un froid incroyable devient extrême, une chaleur ou un froid extrême devient sévère, etc).</p>\n<p>Lorsque d'autres créatures @Compendium[pf2e.actionspf2e.tfa4Sh7wcxCEqL29]{Suivent l'expert} avec vous comme guide surr votre terrain de répdilection, ils traitent aussi les effets de température comme d'un degré moins sévère.</p>",
             "prereq": [
                 "Dévouement d'Arpenteur d'horizon"
+            ]
+        },
+        {
+            "id": "Terrain Expertise (Aquatic)",
+            "name": "Expertise du terrain (Terrain Expertise (Aquatic))",
+            "description": "<p>Votre expérience de l’orientation sur un certain type de terrain vous rend extrêmement confiant pour ce faire. Vous gagnez un bonus de circonstances de +1 aux tests de Survie sur le terrain <em>aquatique</em>.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois en choisissant un type de terrain différent à chaque fois.</p>",
+            "prereq": [
+                "qualifié en Survie"
             ]
         },
         {
@@ -13817,6 +14021,14 @@
             ]
         },
         {
+            "id": "Wilderness Spotter (Underground)",
+            "name": "Observateur des étendues sauvages (Souterrain) (Wilderness Spotter (Underground))",
+            "description": "<p>Vous pouvez utiliser Survie à la place de Perception pour déterminer l'initiative lorsque vous êtes dans un environnement souterrain dans un lieu naturel (pas une structure) même si vous n'étiez pas en train de Pister ou d'utiliser autrement Survie avant la rencontre.</p>\n<p>Vous pouvez aussi utiliser la survie au lieu de la Perception pour remarquer des pièges dans les endroits naturels dans un environnement souterrain ; si vous trouvez un piège artisanal de cette manière, vous pouvez aussi utiliser Survie au lieu de Vol pour Désamorcer le mécanisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, le don s'applique à un nouveau type de terrain.</p>",
+            "prereq": [
+                "expert en Survie"
+            ]
+        },
+        {
             "id": "Ardent Armiger",
             "name": "Fervent écuyer (Ardent Armiger)",
             "description": "<p>Vous avez été formé pour résister aux manipulations des fiélons et votre discipline de Chevalier infernal vous rend très difficile à influencer.</p>\n<p>Vous gagnez un bonus de circonstances de +1 à vos jets de sauvegarde contre les effets mentaux qui améliorent votre attitude et à votre DD de Volonté contre une personne voulant vous Contraindre, vous Démoraliser, Faire bonne impression ou vous Solliciter.</p>\n<p>Si un effet mental est censé vous contraindre à agir de manière à violer les principes de l’ordre des Chevaliers infernaux (déterminés par le MJ), vous pouvez tenter de vous libérer de cet effet par une réaction déclenchée par l’ordre concerné et vous pouvez effectuer un nouveau jet de Volonté contre cet effet. Vous ne pouvez effectuer ce nouveau jet qu’une seule fois par effet, même si vous êtes forcé de violer les principes de votre ordre plusieurs fois.</p>",
@@ -14134,6 +14346,14 @@
             "id": "Astonishing Explosion",
             "name": "Explosion époustouflante (Astonishing Explosion)",
             "description": "<p><strong>Fréquence</strong> une fois par minute</p>\n<p>><strong>Déclencheur</strong> Vous utilisez @Compendium[pf2e.feats-srd.NlEZ0piDxg9buXCL]{Alchimie rapide} pour Fabriquer une bombe alchimique qui inflige des dégâts d'éclaboussure et est au moins de 2 niveaux inférieure à votre niveau d'@Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{Alchimie avancée}.</p>\n<hr>\n<p>Votre bombbe intègre une étincelle explosive merveilleuse qui laisse les témoins interloqués. Toute cible touchée par votre Frappe avec la bombe est @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Fascinée} par vous pendant 1 round. En cas de succès critique, la cible est aussi @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie} 1.</p>"
+        },
+        {
+            "id": "Wilderness Spotter (Aquatic)",
+            "name": "Observateur des étendues sauvages (Aquatique) (Wilderness Spotter (Aquatic))",
+            "description": "<p>Vous pouvez utiliser Survie à la place de Perception pour déterminer l'initiative lorsque vous êtes sur un terrain aquatique dans un lieu naturel (pas une structure) même si vous n'étiez pas en train de Pister ou d'utiliser autrement Survie avant la rencontre.</p>\n<p>Vous pouvez aussi utiliser la survie au lieu de la Perception pour remarquer des pièges dans les endroits naturels dans un environnement aquatique ; si vous trouvez un piège artisanal de cette manière, vous pouvez aussi utiliser Survie au lieu de Vol pour Désamorcer le mécanisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, le don s'applique à un nouveau type de terrain.</p>",
+            "prereq": [
+                "expert en Survie"
+            ]
         },
         {
             "id": "Junk Tinker",
@@ -15559,6 +15779,11 @@
             "description": "<p>Vos liens animaliers vous aident à résister aux afflictions naturelles. Vous obtenez un bonus de circonstances de +2 aux jets pour résister aux maladies et aux poisons.</p>"
         },
         {
+            "id": "Intuitive Crafting",
+            "name": "Artisanat intuitif (Intuitive Crafting)",
+            "description": "<p>Votre affinité avec le processus et l'ordre fait de vous un artisan naturel. Vous êtes qualifié en Artisanat (ou une autre compétence de votre choix, si vous étiez déjà qualifié en Artisanat). Vous obtenez le don de compétence Artisanat Spécialisé dans une spécialité de votre choix.</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.feats-srd.XVnpntqV6w94PoOb]{Artisanat spécialisé (Alchimie)}</li>\n<li>@Compendium[pf2e.feats-srd.59FN13nU6agKT4oa]{Artisanat spécialisé (Confection de livres)}</li>\n<li>@Compendium[pf2e.feats-srd.tbIMWrIRI9P9cubM]{Artisanat spécialisé (Construction navale)}</li>\n<li>@Compendium[pf2e.feats-srd.B06QKNvKYqxYGwPU]{Artisanat spécialisé (Couture)}</li>\n<li>@Compendium[pf2e.feats-srd.YvoiGWZhtbHH6NMF]{Artisanat spécialisé (Ébénisterie)}</li>\n<li>@Compendium[pf2e.feats-srd.S8mPrjJjuObotmjZ]{Artisanat spécialisé (Forge)}</li>\n<li>@Compendium[pf2e.feats-srd.WddEyALYHfpeUjZB]{Artisanat spécialisé (Maroquinerie)}</li>\n<li>@Compendium[pf2e.feats-srd.8XC2xJ7Y1xlr6Xor]{Artisanat spécialisé (Poterie)}</li>\n<li>@Compendium[pf2e.feats-srd.22HUfCajd6IkATOR]{Artisanat spécialisé (Sens artistique)}</li>\n<li>@Compendium[pf2e.feats-srd.TWkwy0uQvTGlgEFG]{Artisanat spécialisé (Taille de pierre)}</li>\n<li>@Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{Artisanat spécialisé (Tissage)}</li>\n<li>@Compendium[pf2e.feats-srd.YmzLnj4ojlf9INNP]{Artisanat spécialisé (Verrerie)}</li>\n</ul>"
+        },
+        {
             "id": "Monster Warden",
             "name": "Garde-monstres (Monster Warden)",
             "description": "<p>Vous savez comment vous défendre et défendre vos alliés contre votre proie.</p>\n<p>Quand vous conférez les bonus de Chasseur de monstres, vous et chacun de vos alliés bénéficiez d’un bonus de circonstances de +1 à votre prochain jet de sauvegarde contre cette créature en particulier et à votre CA contre la prochaine attaque de la créature contre chacun de vous.</p>",
@@ -15961,6 +16186,11 @@
             ]
         },
         {
+            "id": "Dire Form",
+            "name": "Forme sauvage (Dire Form)",
+            "description": "<p>Votre forme hybride est une bête massive</p>\n<p>Sous votre forme hybride, vous obtenez les effets d'@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{AgrandissementS}.</p>"
+        },
+        {
             "id": "Boaster's Challenge",
             "name": "Défi de vantardise (Boaster's Challenge)",
             "description": "<p>Vous interpellez un adversaire, provoquant son irritation et le rendant plus facile à battre.</p>\n<p>Choisissez une créature que vous pouvez voir et à qui vous pouvez lancer un défi. Pour votre défi, faites un test de Duperie, de Diplomatie ou d'Intimidation contre le DD de Volonté de cette créature. Votre défi doit inclure une composante linguistique, audible ou visuelle et obtient le trait correspondant. Si vous obtenez un succès, vous gagnez un bonus de statut de +2 aux dégâts de Frappe avec votre arme ou avec votre attaque à mains nues contre cet adversaire jusqu'à la fin de votre prochain tour ; si vous êtes maître dans la compétence que vous avez utilisée, vous obtenez un bonus de statut de +4 à la place et si vous êtes légendaire, vous obtenez un bonus de statut de +6. Sur un succès critique, le bonus de statut dure 3 rounds à la place. En cas de succès comme en cas d'échec, les créatures qui ont été les témoins de votre défi obtiennent un bonus de circonstances de +4 à leur DD de Volonté contre vos tentatives de les défier pendant 1 minute.</p>",
@@ -16101,6 +16331,14 @@
             ]
         },
         {
+            "id": "Virtuosic Performer (Dance)",
+            "name": "Artiste virtuose (Danse) (Virtuosic Performer (Dance))",
+            "description": "<p>Vous avez un talent exceptionnel dans un type de Représentation. Vous gagnez un bonus de circonstances de +1 quand vous effectuez un certain type de représentation. Si vous êtes un maître en Représentation, ce bonus augmente à +2.</p>\n<hr />\n<p><strong>Exemple de représentations</strong> ballet, huara, gigue, macru</p>\n<p>S’il n’est pas évident de déterminer si la spécialité s’applique, c’est le MJ qui décide.</p>",
+            "prereq": [
+                "qualifié en Représentation"
+            ]
+        },
+        {
             "id": "Scout's Speed",
             "name": "Vitesse de l'Éclaireur (Scout's Speed)",
             "description": "<p>Vous vous déplacez plus vite, spécialement lorsque vous voyagez, ce qui vous permet de partir en éclaireur et de revenir sans ralentir vos alliés.</p>\n<p>Vous obtenez un bonus de statut de +3 m à votre Vitesse. Lorsque vous calculez votre vitesse de voyage, cette augmentation passe à un bonus de statut de +6 m.</p>",
@@ -16208,6 +16446,14 @@
             "id": "Catfolk Lore",
             "name": "Connaissance des Hommes-félins (Catfolk Lore)",
             "description": "<p>Être élevé parmi les hommes-félins vous a appris leurs valeurs traditionnelles que sont la liberté de voyager, l'administration des terres et les rapides réactions lorsque votre curiosité est source de problèmes.</p>\n<p>Vous obtenez le rang qualifié en Acrobaties et en Survie. Si vous devriez déjà être qualifié dans l'une de ces compétences (par le biais de votre historique ou de votre classe, par exemple), vous êtes qualifié avec une compétence de votre choix à la place. Vous êtes aussi qualifié en Connaissance des Hommes-félins.</p>"
+        },
+        {
+            "id": "Terrain Expertise (Mountain)",
+            "name": "Expertise du terrain (Montagne) (Terrain Expertise (Mountain))",
+            "description": "<p>Votre expérience de l’orientation sur un certain type de terrain vous rend extrêmement confiant pour ce faire. Vous gagnez un bonus de circonstances de +1 aux tests de Survie sur le terrain <em>montagneux</em>.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois en choisissant un type de terrain différent à chaque fois.</p>",
+            "prereq": [
+                "qualifié en Survie"
+            ]
         },
         {
             "id": "Sun's Fury",
@@ -16366,6 +16612,14 @@
             "id": "Bloodline Metamorphosis",
             "name": "Métamorphose du lignage (Bloodline Metamorphosis)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous avez appris à manipuler le pouvoir inné de votre lignage et l'adaptez à vos besoins. Lorsque vous faites vos préparatifs quotidiens, vous pouvez échanger un unique sort du niveau 9 ou inférieur pour un autre sort de ce même niveau. Vous ne pouvez pas changer les sorts accordés spécifiquement par votre lignage.&nbsp;</span></p>"
+        },
+        {
+            "id": "Terrain Expertise (Sky)",
+            "name": "Expertise terrain (Ciel) (Terrain Expertise (Sky))",
+            "description": "<p>Votre expérience de l’orientation sur un certain type de terrain vous rend extrêmement confiant pour ce faire. Vous gagnez un bonus de circonstances de +1 aux tests de Survie dans les <em>cieux</em>.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois en choisissant un type de terrain différent à chaque fois.</p>",
+            "prereq": [
+                "qualifié en Survie"
+            ]
         },
         {
             "id": "Eat Fortune",
