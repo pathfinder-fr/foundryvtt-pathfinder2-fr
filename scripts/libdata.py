@@ -334,6 +334,43 @@ def cleanTrad(data):
     return data
 
 
+#
+# Cette fonction tente une traduction automatique 
+# sur Google Translate
+#
+def dirtyGoogleTranslate(data):
+  options = webdriver.FirefoxOptions()
+  options.add_argument("--headless")
+  driver = webdriver.Firefox(options=options)
+  driver.get("https://translate.google.com/?sl=en&tl=fr&format=html&op=translate")
+  inputer = driver.find_element_by_xpath("//textarea[@jsname='BJE2fc']")
+  inputer.send_keys(data)
+  output = WebDriverWait(driver, timeout=120).until(lambda d: d.find_element_by_xpath("//div[@class='J0lOec']"))
+  transData = output.text
+  driver.quit()
+  transData = cleanTrad(transData)
+  return transData
+
+
+#
+# Nettoie la traduction en corrigeant les termes mal-traduits ou
+# qui ne devaient pas être traduits
+#
+def cleanGoogleTrad(data):
+  data = data.replace("</ ", "</")
+  data = data.replace("<Strong>", "<strong>")
+  data = data.replace("</Strong>", "</strong>")
+  data = re.sub("<[f,F]+ort[e]{0,1}>", "<strong>", data)
+  data = re.sub("</[f,F]+ort[e]{0,1}>", "</strong>", data)
+  data = re.sub("[0-9]+D[0-9]+", lambda s: s.group(0).replace("D", "d"), data)
+  data = data.replace("</P>", "</p>")
+  data = data.replace("[[/ R", "[[/r")
+  data = data.replace("accroître", "Intensifié")
+  data = data.replace("#feu", "#fire")
+  data = data.replace("#acide", "#acid")
+  return data
+
+
 class EmptyDescriptionException(Exception):
   """
   Exception levée si l'item traduit n'a pas de description
