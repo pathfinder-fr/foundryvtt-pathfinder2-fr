@@ -15,7 +15,7 @@ for D in SUPPORTED:
   dirpath= "%s/data/%s" % (ROOT, D)
 
   statusContentOK = "| Fichier   | Nom (EN)    | Nom (FR)    | État |\n" + "|-----------|-------------|-------------|:----:|\n"
-  statusContentChanged = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|:----:|\n"
+  statusContentChanged = "| Fichier   | Nom (EN)    | Nom (FR)    | État |\n" + "|-----------|-------------|-------------|:----:|\n"
   statusContentEmpty = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|:----:|\n"
   statusContentAT = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|:----:|\n"
   statusContentNOK = "| Fichier   | Nom (EN)    |\n" + "|-----------|-------------|\n"
@@ -37,7 +37,7 @@ for D in SUPPORTED:
     elif data['status'] == "auto-trad" or data['status'] == "auto-googtrad":
       statusContentAT += "|[%s](%s/%s)|%s|%s|\n" % (f, D, f, data['nameEN'], data['status'])
     elif data['status'] == "changed":
-      statusContentChanged += "|[%s](%s/%s)|%s|%s|\n" % (f, D, f, data['nameEN'], data['status'])
+      statusContentChanged += "|[%s](%s/%s)|%s|%s|%s|\n" % (f, D, f, data['nameEN'], data['nameFR'], data['status'])
     elif data['status'] == "vide":
       statusContentEmpty += "|[%s](%s/%s)|%s|%s|\n" % (f, D, f, data['nameEN'], data['status'])
     else:
