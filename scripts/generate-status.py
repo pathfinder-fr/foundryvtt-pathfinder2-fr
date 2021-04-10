@@ -50,10 +50,10 @@ for D in SUPPORTED:
   if "aucune" in stats and stats["aucune"] > 0:
     content += "\n## Liste des traductions à faire\n\n"
     content += statusContentNOK
-  elif "auto-trad" in stats and stats["auto-trad"] > 0 or "auto-googtrad" in stats and stats["auto-googtrad"] > 0:
+  if "auto-trad" in stats and stats["auto-trad"] > 0 or "auto-googtrad" in stats and stats["auto-googtrad"] > 0:
     content += "\n## Liste des traductions automatiques à corriger/retraduire\n\n"
     content += statusContentAT
-  elif "vide" in stats and stats["vide"] > 0:
+  if "vide" in stats and stats["vide"] > 0:
     content += "\n## Liste des éléments vides ne pouvant pas être traduits\n\n"
     content += statusContentEmpty
   content += "\n## Liste des traductions complétés\n\n"
