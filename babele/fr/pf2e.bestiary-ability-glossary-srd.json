@@ -12,6 +12,11 @@
             "description": "<p><strong>Conditions</strong> Le monstre doit avoir une main libre, mais il peut Relâcher quelque chose qu’il est en train de tenir dans le cadre de cette réaction.</p>\n<p><strong>Déclencheur</strong> Le monstre est pris pour cible par une Frappe utilisant un rocher jeté ou un rocher est sur le point de\ntomber sur le monstre.</p>\n<p><strong>Effet</strong> Le monstre gagne un bonus de circonstances de +4 à sa CA contre l’attaque déclencheur ou à toute défense contre le rocher en train de lui tomber dessus. Si l’attaque échoue ou que le monstre réussit à se défendre du rocher en train de chuter, il rattrape alors le rocher dans sa main et ne subit pas de dégâts.</p>"
         },
         {
+            "id": "Faithful Weapon",
+            "name": "Arme du fidèle",
+            "description": "<p>Un gardien divin manie toujours l'arme de prédilection de sa divinité protectrice. Si l'arme est une arme à distance, le gardien divin génère automatiquement de nouvelles munitions à chaque attaque. Pour un gardien divin de niveau 4 ou plus, l'arme de prédilection de la divinité gagne les effets d'une rune @Compendium[pf2e.equipment-srd.DxCuJKynlnMQZHgp]{de Frappe} tant que le gardien divin la brandit ; au niveau 12, ces effets sont ceux d'une rune de @Compendium[pf2e. equipment-srd.KCQRFvUgbyclvOGi]{Frappe supérieure} et au niveau 19, ils sont à la place ceux d'une rune de @Compendium[pf2e.equipment-srd.woxl2FrrgAcJDu0t]{Frappe majeure}.</p>"
+        },
+        {
             "id": "Throw Rock",
             "name": "Projection de rochers",
             "description": "<p>Le monstre ramasse un rocher qui se trouve à portée ou qu’il avait mis de côté et le lance en faisant une Frappe à distance.</p>"
@@ -44,7 +49,12 @@
         {
             "id": "Coven",
             "name": "Cercle",
-            "description": "<p>Ce monstre peut former un cercle avec un minimum de deux autres créatures qui possèdent également le pouvoir cercle. Ils doivent pour cela accomplir une cérémonie de 8 h en compagnie de tous les futurs membres du cercle. Après la formation du cercle, chacun de ses membres bénéficie d’ajustements d’élite et ajuste son niveau conséquence. Les membres d’un cercle peuvent savoir où se trouvent les autres membres et dans quel état ils se trouvent en dépensant une action unique qui possède le trait concentration. Ils peuvent également ressentir les mêmes choses qu’un autre membre du cercle par une activité en deux actions qui possède le trait concentration.</p>\n<p>Les cercles peuvent également faire bénéficier de sorts et de rituels à leurs membres, mais pour être lancés ceux-ci nécessitent la participation de trois membres du cercle qui ne se trouvent pas à plus de 9 m les uns des autres. Le membre d’un cercle peut contribuer à un sort de cercle grâce à une action unique d’incantation utilisant un unique composant verbal. Si deux membres d’un cercle ont contribué à ces actions au cours du dernier round, un troisième membre peut alors lancer un sort de cercle lors de son tour en accomplissant les actions d’incantation normales. Un cercle peut lancer ses sorts de cercle autant de fois qu’il le souhaite, mais il ne peut lancer qu’un seul sort de cercle par round. Tous les cercles confèrent à leurs membres le sort de niveau 8 @Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Métamorphose funeste} ainsi que tous les sorts suivants, qu’un cercle peut lancer à tous les niveaux jusqu’au niveau 5 : @Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure}, @Compendium[pf2e.spells-srd.FM3SmEW8N1FCRjqt]{Cadavre loquace}, @Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charme}, @Compendium[pf2e.spells-srd.HXhWYJviWalN5tQ2]{Clairaudience}, @Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance}, @Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{Déguisement illusoire}, @Compendium[pf2e.spells-srd.yM3KTTSAIHhyuP14]{Message onirique}, @Compendium[pf2e.spells-srd.Ek5XI0aEdZhBgm21]{Œil indiscret} et @Compendium[pf2e.spells-srd.Ucf8eynbZMfUucjE]{Scène illusoire}. Les créatures qui possèdent le pouvoir cercle confèrent également des sorts supplémentaires à tous les cercles qu’elles rejoignent. Un cercle peut également accomplir le rituel @Compendium[pf2e.spells-srd.XkDCzMIyc0YOjw05]{contrôle du climat} avec un DD de 23 au lieu du DD normal.</p> \n<p>Si le départ ou la mort d’un membre du cercle en réduit le nombre à moins de trois membres, les membres restants conservent leurs ajustements d’élite pour 24 h mais, sans assez de membres pour contribuer aux actions requises, ils ne peuvent plus lancer de sorts de cercle.</p>"
+            "description": "<p>Ce monstre peut former un cercle avec un minimum de deux autres créatures qui possèdent également le pouvoir cercle. Ils doivent pour cela accomplir une cérémonie de 8 heures en compagnie de tous les futurs membres du cercle. Après la formation du cercle, chacun de ses membres bénéficie d’ajustements d’élite et ajuste son niveau conséquence.</p>\n<p>Les membres d’un cercle peuvent savoir où se trouvent les autres membres et dans quel état ils se trouvent en dépensant une action unique qui possède le trait concentration. Ils peuvent également ressentir les mêmes choses qu’un autre membre du cercle par une activité en deux actions qui possède le trait concentration.</p>\n<p>Les cercles font également bénéficier de sorts et de rituels leurs membres mais, pour être lancés, ceux-ci nécessitent la participation de trois membres du cercle qui ne se trouvent pas à plus de 9 m les uns des autres. Le membre d’un cercle peut contribuer à un sort de cercle grâce à une action unique d’incantation utilisant un unique composant verbal. Si deux membres d’un cercle ont contribué à ces actions au cours du dernier round, un troisième membre peut alors lancer un sort de cercle lors de son tour en accomplissant les actions d’incantation normales. Un cercle peut lancer ses sorts de cercle autant de fois qu’il le souhaite, mais il ne peut lancer qu’un seul sort de cercle par round.</p>\n<p>Tous les cercles confèrent à leurs membres le sort de niveau 8 @Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Métamorphose funeste} ainsi que tous les sorts suivants, qu’un cercle peut lancer à tous les niveaux jusqu’au niveau 5 : @Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure}, @Compendium[pf2e.spells-srd.FM3SmEW8N1FCRjqt]{Cadavre loquace}, @Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charme}, @Compendium[pf2e.spells-srd.HXhWYJviWalN5tQ2]{Clairaudience}, @Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance}, @Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{Déguisement illusoire}, @Compendium[pf2e.spells-srd.yM3KTTSAIHhyuP14]{Message onirique}, @Compendium[pf2e.spells-srd.Ek5XI0aEdZhBgm21]{Œil indiscret} et @Compendium[pf2e.spells-srd.Ucf8eynbZMfUucjE]{Scène illusoire}. Les créatures qui possèdent le pouvoir cercle confèrent également des sorts supplémentaires à tous les cercles qu’elles rejoignent. Un cercle peut également accomplir le rituel @Compendium[pf2e.spells-srd.XkDCzMIyc0YOjw05]{contrôle du climat} avec un DD de 23 au lieu du DD normal.</p> \n<p>Si le départ ou la mort d’un membre du cercle en réduit le nombre à moins de trois membres, les membres restants conservent leurs ajustements d’élite pendant 24 heures mais, sans assez de membres pour contribuer aux actions requises, ils ne peuvent plus lancer de sorts de cercle.</p>"
+        },
+        {
+            "id": "Instrument of Faith",
+            "name": "Instrument de la Foi",
+            "description": "<p>Le gardien divin est un phare pour la foi de sa divinité. Un prêtre de la divinité protectrice du gardien divin peut canaliser un sort de @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} à travers un gardien divin qu'il peut voir dans un rayon de 18 mètres. Le prêtre détermine la cible ou la zone pour le sort comme s'il se tenait dans la case du gardien divin.</p>"
         },
         {
             "id": "Telepathy",
@@ -54,12 +64,12 @@
         {
             "id": "Change Shape",
             "name": "Changement de forme",
-            "description": "<p>Le monstre change de forme pour une durée indéterminée. Il peut de nouveau faire appel à cette action pour reprendre sa forme naturelle ou adopter une nouvelle forme. Sauf indication contraire, un monstre ne peut pas utiliser Changement de forme pour prendre l’apparence d’un individu précis. Le Changement de forme est considéré comme un déguisement pour @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Se déguiser} dans le cadre de la compétence Duperie. La transformation du monstre lui permet de faire échouer automatiquement les tests de Perception servant à déterminer s’il est bien un membre de l’ascendance ou du type de créature dont il a pris la forme et il gagne un bonus de statut de +4 à son DD de Duperie pour empêcher les autres de voir au travers de son déguisement. Le descriptif des pouvoirs de Changement de forme indique quelles formes le monstre peut revêtir. Le monstre ne gagne aucun des pouvoirs spéciaux de la nouvelle forme, seulement sa forme physique. Par exemple, pour chaque forme, il remplace ses Vitesses et Frappes d’origine et potentiellement ses sens ou sa taille. Tous ces changements sont indiqués dans son bloc de statistiques.</p>"
+            "description": "<p>Le monstre change de forme pour une durée indéterminée. Il peut de nouveau faire appel à cette action pour reprendre sa forme naturelle ou adopter une nouvelle forme. Sauf indication contraire, un monstre ne peut pas utiliser <em>Changement de forme</em> pour prendre l’apparence d’un individu précis.</p>\n<p>Le Changement de forme est considéré comme un déguisement pour @Compendium[pf2e.action-macros.k5nW4jGyXD0Oq9LR]{Se déguiser} dans le cadre de la compétence Duperie. La transformation du monstre lui permet de faire échouer automatiquement les tests de Perception servant à déterminer s’il est bien un membre de l’ascendance ou du type de créature dont il a pris la forme et il gagne un bonus de statut de +4 à son DD de Duperie pour empêcher les autres de voir au travers de son déguisement.</p>\n<p> Le descriptif des pouvoirs de Changement de forme indique quelles formes le monstre peut revêtir. Le monstre ne gagne aucun des pouvoirs spéciaux de la nouvelle forme, seulement sa forme physique. Par exemple, pour chaque forme, il remplace ses Vitesses et Frappes d’origine et potentiellement ses sens ou sa taille. Tous ces changements sont indiqués dans son bloc de statistiques.</p>"
         },
         {
             "id": "Aquatic Ambush",
             "name": "Embuscade aquatique",
-            "description": "<p><strong>Conditions</strong> Le monstre se cache sous l’eau et une créature qui ne l’a pas détecté se situe dans le rayon indiqué en mètres.</p>\n<p><strong>Effet</strong> Le monstre se déplace dans l’eau et sur terre d’une distance maximum égale à sa Vitesse de nage + 3 m en direction de la créature déclencheuse. Le monstre Frappe la créature une fois qu’elle se trouve à portée. La créature est @Compendium[pf2e.conditionspf2e.AJh5ex99aV6VTggg]{Prise au dépourvu} par la Frappe.</p>"
+            "description": "<p><strong>Conditions</strong> Le monstre se cache sous l’eau et une créature qui ne l’a pas détecté se situe dans le rayon indiqué en mètres.</p>\n<p><strong>Effet</strong> Le monstre se déplace dans l’eau et sur terre d’une distance maximum égale à sa Vitesse de nage + 3 m en direction de la créature déclencheuse. Le monstre Frappe la créature une fois qu’elle se trouve à portée. La créature est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} par cette Frappe.</p>"
         },
         {
             "id": "Negative Healing",
@@ -79,7 +89,12 @@
         {
             "id": "Light Blindness",
             "name": "Aveuglé par la lumière",
-            "description": "<p> Quand il se trouve exposé à une lumière vive, le monstre est @Compendium[pf2e.conditionspf2e.XgEqL1kFApUbl5Z2]{aveuglé} jusqu’à la fin de son prochain tour. Après cette exposition initiale, la lumière n’aveugle plus le monstre tant qu’il n’a pas passé 1 h dans les ténèbres. Néanmoins, le monstre se trouve dans l’état @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{ébloui} tant qu’il reste dans une zone de lumière vive.</p>"
+            "description": "<p> Quand il se trouve exposé à une lumière vive, le monstre est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglé} jusqu’à la fin de son prochain tour. Après cette exposition initiale, la lumière n’aveugle plus le monstre tant qu’il n’a pas passé 1 h dans les ténèbres. Néanmoins, le monstre se trouve dans l’état @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui} tant qu’il reste dans une zone de lumière vive.</p>"
+        },
+        {
+            "id": "Divine Destruction",
+            "name": "Destruction divine",
+            "description": "<p>Lorsque le gardien divin est réduit à 0 PV, il fait éruption d'énergie divine dans une émanation de 9 m, infligeant 1d6 points de dégâts par niveau. Ces dégâts sont positifs ou négatifs, déterminés par la source divine de sa divinité  (choisie à la création du gardien divin si la divinité offre un choix) et cette capacité gagne le trait correspondant. Chaque créature dans la zone doit tenter un test de Volonté avec les résultats suivants : </p>\n<hr />\n<p><strong>Succès critique</strong> La créature subit la moitié des dégâts.</p>\n<p><strong>Succès</strong> La créature subit la totalité des dégâts.</p>\n<p><strong>Échec</strong> La créature subit tous les dégâts et est temporairement maudite par la divinité protectrice. La créature devient @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 1} et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée 1} pendant 1 jour ; il s'agit d'un effet de malédiction qui utilise le DD de Volonté comme DD de contre.</p>\n<p><strong>Échec critique</strong> Comme en cas d'échec, sauf que la créature devient @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 2} et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée 2}.</p>"
         },
         {
             "id": "Power Attack",
@@ -89,12 +104,17 @@
         {
             "id": "Improved Grab",
             "name": "Empoignade/agrippement amélioré",
-            "description": "<p>Le monstre peut utiliser @Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Empoignade/Agrippement}comme une action libre déclenchée par la réussite de son attaque initiale. Un monstre qui possède Empoignade/Agrippement améliorée doit toujours dépenser une action pour étendre la durée de la saisie des créatures qu’il a déjà empoignées.</p>"
+            "description": "<p>Le monstre peut utiliser @Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Empoignade/Agrippement}comme une action gratuite déclenchée par la réussite de son attaque initiale. Un monstre qui possède <em>Empoignade/Agrippement amélioré</em> doit toujours dépenser une action pour augmenter la durée de la saisie des créatures qu’il a déjà empoignées.</p>"
         },
         {
             "id": "Frightful Presence",
             "name": "Présence terrifiante",
-            "description": "<p>Une créature qui pénètre dans la zone d’effet doit faire un jet de Volonté. Quel que soit le résultat du jet de sauvegarde, la créature est temporairement immunisée contre la Présence terrifiante du monstre pendant 1 minute.</p>\n<p><strong>Succès critique</strong> La créature n’est pas affectée par la présence.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{Effrayée} 1.</p>\n<p><strong>Échec</strong> La créature est Effrayée 2.</p>\n<p><strong>Échec critique</strong> La créature est Effrayée 4.</p>"
+            "description": "<p>Une créature qui pénètre dans la zone d’effet doit faire un jet de Volonté. Quel que soit le résultat du jet de sauvegarde, la créature est temporairement immunisée contre la Présence terrifiante du monstre pendant 1 minute.</p>\n<p><strong>Succès critique</strong> La créature n’est pas affectée par la présence.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 1.</p>\n<p><strong>Échec</strong> La créature est Effrayée 2.</p>\n<p><strong>Échec critique</strong> La créature est Effrayée 4.</p>"
+        },
+        {
+            "id": "Thoughtsense",
+            "name": "Perception des pensées",
+            "description": "<p>La Perception des pensées permet à un monstre de sentir toutes les créatures qui ne sont pas dénuées d'intelligence dans la portée indiquée.</p>"
         },
         {
             "id": "Sneak Attack",
@@ -104,22 +124,22 @@
         {
             "id": "Regeneration",
             "name": "Régénération",
-            "description": "<p>Ce monstre regagne la quantité indiquée de points de vie à chaque round, au début de son tour. Tant qu’il bénéficie du pouvoir régénération, l’intensité de son état @Compendium[pf2e.conditionspf2e.yZRUzMqrMmfLu0V1]{mourant} ne peut jamais dépasser mourant 3. Cependant, s’il subit des dégâts d’un des types indiqués dans l’entrée régénération, son pouvoir de régénération devient alors inactif jusqu’à la fin de son prochain tour. Vous devez désactiver ce pouvoir avant d’appliquer ces dégâts, car ils sont susceptibles de tuer le monstre en lui faisant atteindre l’état mourant 4.</p>"
+            "description": "<p>Ce monstre regagne la quantité indiquée de points de vie à chaque round, au début de son tour. Tant qu’il bénéficie du pouvoir régénération, l’intensité de son état @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} ne peut jamais dépasser mourant 3. Cependant, s’il subit des dégâts d’un des types indiqués dans l’entrée régénération, son pouvoir de régénération devient alors inactif jusqu’à la fin de son prochain tour. Vous devez désactiver ce pouvoir avant d’appliquer ces dégâts car ils sont susceptibles de tuer le monstre en lui faisant atteindre l’état mourant 4.</p>"
         },
         {
             "id": "Constrict",
             "name": "Constriction",
-            "description": "<p>Le monstre inflige la quantité de dégâts indiquée à toutes les créatures qu’il a @Compendium[pf2e.conditionspf2e.kWc1fhmv9LBiTuei]{Empoignées} ou @Compendium[pf2e.conditionspf2e.VcDeM8A5oI6VqhbM]{Entravées}. Chacune d’entre elles peut faire un jet de Vigueur basique avec le DD indiqué.</p>"
+            "description": "<p>Le monstre inflige la quantité de dégâts indiquée à toutes les créatures qu’il a @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippées/Empoignées} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravées}. Chacune d’entre elles peut faire un jet de Vigueur basique avec le DD indiqué.</p>"
         },
         {
             "id": "Poison",
             "name": "Poison",
-            "description": "<p> Quand une créature se trouve exposée au poison d’un monstre, elle doit réussir un jet de Vigueur pour éviter d’être empoisonnée. Le niveau du poison est le même que celui du monstre qui l’inocule. Les poisons suivent les règles des afflictions que vous pourrez retrouver en page 457 du Livre de base Pathfinder.</p>"
+            "description": "<p> Quand une créature se trouve exposée au poison d’un monstre, elle doit réussir un jet de Vigueur pour éviter d’être empoisonnée. Le niveau du poison est le même que celui du monstre qui l’inocule. Les poisons suivent les règles des afflictions.</p>"
         },
         {
             "id": "Low-Light Vision",
             "name": "Vision nocturne",
-            "description": "<p>Le monstre peut voir dans la lumière faible comme s’il s’agissait de lumière vive. Il ignore ainsi l’état @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{Masqué} causé par la lumière faible.</p>"
+            "description": "<p>Le monstre peut voir dans la lumière faible comme s’il s’agissait de lumière vive. Il ignore ainsi l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} causé par la lumière faible.</p>"
         },
         {
             "id": "Darkvision",
@@ -135,6 +155,11 @@
             "id": "Wavesense",
             "name": "Perception des ondes",
             "description": "<p>Ce sens permet à un monstre de ressentir les vibrations causées par un déplacement à travers un liquide. Il s’agit d’un sens imprécis avec une portée limitée (indiquée dans le descriptif du pouvoir). La perception des ondes ne fonctionne que si le monstre et le sujet se trouvent dans la même étendue de liquide et seulement si le sujet se déplace à travers ce liquide</p>"
+        },
+        {
+            "id": "Divine Innate Spells (Divine Warden)",
+            "name": "Sorts divins innés (Gardien divin)",
+            "description": "<p>Un gardien divin dont la divinité protectrice possède une composante d'alignement quelconque obtient le tour de magie inné @Compendium[pf2e.spells-srd.qwZBXN6zBoB9BHXE]{Lance divine}. Un gardien divin avec une divinité protectrice neutre obtient à la place le tour de magie inné @Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{Hébètement}.</p>"
         },
         {
             "id": "Engulf",
@@ -164,12 +189,12 @@
         {
             "id": "Ferocity",
             "name": "Férocité",
-            "description": "<p><strong>Déclencheur</strong> Le monstre est réduit à 0 PV.</p>\n<p><strong>Effet</strong> Le monstre n’est pas assommé et conserve 1 PV, mais son intensité d’état @Compendium[pf2e.conditionspf2e.Yl48xTdMh3aeQYL2]{blessé} augmente de 1. Il ne peut plus faire appel à ce pouvoir à partir de l’état blessé 3.</p>"
+            "description": "<p><strong>Déclencheur</strong> Le monstre est réduit à 0 PV.</p>\n<p><strong>Effet</strong> Le monstre n’est pas assommé et conserve 1 PV, mais l'intensité de son état @Compendium[pf2e.conditionspf2e.Yl48xTdMh3aeQYL2]{Blessé} augmente de 1. Il ne peut plus faire appel à ce pouvoir à partir de l’état Blessé 3.</p>"
         },
         {
             "id": "Fast Healing",
             "name": "Guérison accélérée",
-            "description": "<p>Un monstre qui possède ce pouvoir regagne une quantité donnée de points de vie à chaque round, au début de son tour</p>"
+            "description": "<p>Un monstre qui possède ce pouvoir regagne une quantité donnée de points de vie à chaque round, au début de son tour.</p>"
         },
         {
             "id": "At-Will Spells",
@@ -189,7 +214,7 @@
         {
             "id": "Knockdown",
             "name": "Renversement",
-            "description": "<p><strong>Conditions</strong> La dernière action du monstre était une Frappe réussie possédant le trait Renversement dans l’entrée des dégâts.</p> \n<p><strong>Effet</strong> Le monstre renverse la cible @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
+            "description": "<p><strong>Conditions</strong> La dernière action du monstre était une Frappe réussie possédant le trait Renversement dans l’entrée des dégâts.</p>\n<p><strong>Effet</strong> Le monstre renverse la cible @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
         },
         {
             "id": "Buck",
@@ -212,6 +237,11 @@
             "description": "<p>Le monstre Marche rapidement sur une distance maximale égale au double de sa Vitesse et peut traverser les espaces de créatures de la taille indiquée. Il Piétine alors chaque créature dans l’espace de laquelle il pénètre. Le monstre ne peut tenter de Piétiner une créature qu’une seule fois par utilisation de l’action Piétinement. Le monstre inflige les dégâts de la Frappe indiquée. Les créatures piétinées peuvent alors faire un jet de Réflexes basique avec le DD indiqué (aucun dégât sur un succès critique, la moitié des dégâts sur un succès, le double des dégâts sur un échec critique).</p>"
         },
         {
+            "id": "Faith Bound",
+            "name": "Lié à la Foi",
+            "description": "<p>Un gardien divin ne peut pas attaquer une créature qui porte ou affiche ouvertement le symbole religieux de sa divinité protectrice, à moins que cette créature n'utilise d'abord une action hostile contre le gardien divin. Si le gardien divin est intelligent, il peut également attaquer une créature dont il pense qu'elle n'est pas fidèle à sa divinité ou qu'elle porte le symbole religieux comme une ruse (généralement après avoir réussi un test de Perception pour Deviner les intentions).</p>"
+        },
+        {
             "id": "Lifesense",
             "name": "Sens de la vie",
             "description": "<p>La perception de la vie permet à un monstre de ressentir l’essence vitale des créatures vivantes et mortes-vivantes sur une portée donnée. Ce sens permet de différencier les énergies positives qui animent les créatures vivantes et les énergies négatives qui animent les créatures mortes-vivantes, de la même manière que la vue permet de différencier les couleurs</p>"
@@ -219,7 +249,7 @@
         {
             "id": "Retributive Strike",
             "name": "Frappe punitive",
-            "description": "<p><strong>Déclencheur</strong> Un ennemi blesse un allié du monstre et les deux créatures se trouvent dans un rayon de 4,5 m autour du monstre.</p>\n<p><strong>Effet</strong> L’allié gagne une résistance à tous les dégâts égale à 2 + le niveau du monstre contre les dégâts déclencheurs. Le monstre Frappe l’ennemi si celui-ci se trouve à portée.</p>"
+            "description": "<p><strong>Déclencheur</strong> Un ennemi blesse un allié du monstre et les deux créatures se trouvent dans un rayon de 4,5 m autour du monstre.</p>\n<p><strong>Effet</strong> L’allié gagne une résistance à tous les dégâts égale à 2 + le niveau du monstre contre les dégâts déclencheurs. Le monstre porte une Frappe au corps-à-corps àl’ennemi si celui-ci se trouve à sa portée.</p>"
         },
         {
             "id": "Greater Constrict",
@@ -229,7 +259,7 @@
         {
             "id": "Shield Block",
             "name": "Blocage au bouclier",
-            "description": "<p><strong>Déclencheur</strong> Le monstre a équipé son bouclier et il subit des dégâts infligés par une attaque physique.</p>\n<p><strong>Effet</strong> Le monstre lève vivement son bouclier afin de dévier le coup. Le bouclier permet au monstre d’éviter de subir une quantité de dégâts égale à sa Solidité. Le monstre et le bouclier subissent les dégâts restants et l’objet court le risque d’être brisé ou détruit.</p>"
+            "description": "<p><strong>Déclencheur</strong> Le monstre a équipé son bouclier et il subit des dégâts infligés par une attaque physique.</p>\n<p><strong>Effet</strong> Le monstre lève vivement son bouclier afin de dévier le coup. Le bouclier permet au monstre d’éviter de subir une quantité de dégâts égale à sa Solidité. Le monstre et le bouclier subissent les dégâts restants et le bouclier court le risque d’être brisé ou détruit.</p>"
         }
     ],
     "mapping": {}

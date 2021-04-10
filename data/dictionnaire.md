@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-04-09 20:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-10 08:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -250,12 +250,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Coven](bestiary-ability-glossary-srd/52CdldlWMiVTZk1F.htm)|Cercle|`@Compendium[pf2e.bestiary-ability-glossary-srd.52CdldlWMiVTZk1F]`|
 |[Darkvision](bestiary-ability-glossary-srd/qCCLZhnp2HhP3Ex6.htm)|Vision dans le noir|`@Compendium[pf2e.bestiary-ability-glossary-srd.qCCLZhnp2HhP3Ex6]`|
 |[Disease](bestiary-ability-glossary-srd/Z025dWgZtawbuRLI.htm)|Maladie|`@Compendium[pf2e.bestiary-ability-glossary-srd.Z025dWgZtawbuRLI]`|
-|[Divine Destruction](bestiary-ability-glossary-srd/DWG2SKI0XexURcnV.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.DWG2SKI0XexURcnV]`|
+|[Divine Destruction](bestiary-ability-glossary-srd/DWG2SKI0XexURcnV.htm)|Destruction divine|`@Compendium[pf2e.bestiary-ability-glossary-srd.DWG2SKI0XexURcnV]`|
 |[Divine Domain Spells (Divine Warden)](bestiary-ability-glossary-srd/o4EYJEBi2YwYzGov.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.o4EYJEBi2YwYzGov]`|
-|[Divine Innate Spells (Divine Warden)](bestiary-ability-glossary-srd/jzbGs5lcds384DT5.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.jzbGs5lcds384DT5]`|
+|[Divine Innate Spells (Divine Warden)](bestiary-ability-glossary-srd/jzbGs5lcds384DT5.htm)|Sorts divins innés (Gardien divin)|`@Compendium[pf2e.bestiary-ability-glossary-srd.jzbGs5lcds384DT5]`|
 |[Engulf](bestiary-ability-glossary-srd/zU3Ovaet4xQ5Gmvy.htm)|Engloutissement|`@Compendium[pf2e.bestiary-ability-glossary-srd.zU3Ovaet4xQ5Gmvy]`|
-|[Faith Bound](bestiary-ability-glossary-srd/1r7WAEsYIPvEpoRM.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.1r7WAEsYIPvEpoRM]`|
-|[Faithful Weapon](bestiary-ability-glossary-srd/fQCiK3uVBuWQmMP6.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.fQCiK3uVBuWQmMP6]`|
+|[Faith Bound](bestiary-ability-glossary-srd/1r7WAEsYIPvEpoRM.htm)|Lié à la Foi|`@Compendium[pf2e.bestiary-ability-glossary-srd.1r7WAEsYIPvEpoRM]`|
+|[Faithful Weapon](bestiary-ability-glossary-srd/fQCiK3uVBuWQmMP6.htm)|Arme du fidèle|`@Compendium[pf2e.bestiary-ability-glossary-srd.fQCiK3uVBuWQmMP6]`|
 |[Fast Healing](bestiary-ability-glossary-srd/fJSNOw4zHGbIm4bZ.htm)|Guérison accélérée|`@Compendium[pf2e.bestiary-ability-glossary-srd.fJSNOw4zHGbIm4bZ]`|
 |[Ferocity](bestiary-ability-glossary-srd/N1kstYbHScxgUQtN.htm)|Férocité|`@Compendium[pf2e.bestiary-ability-glossary-srd.N1kstYbHScxgUQtN]`|
 |[Form Up](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Se reformer|`@Compendium[pf2e.bestiary-ability-glossary-srd.OvqohW9YuahnFaiX]`|
@@ -267,7 +267,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Improved Grab](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Empoignade/agrippement amélioré|`@Compendium[pf2e.bestiary-ability-glossary-srd.i18TlebMzwONyPhI]`|
 |[Improved Knockdown](bestiary-ability-glossary-srd/LbnsT8yXchHMQT3t.htm)|Renversement amélioré|`@Compendium[pf2e.bestiary-ability-glossary-srd.LbnsT8yXchHMQT3t]`|
 |[Improved Push](bestiary-ability-glossary-srd/6l7e7CHQLESlI57U.htm)|Bousculade améliorée|`@Compendium[pf2e.bestiary-ability-glossary-srd.6l7e7CHQLESlI57U]`|
-|[Instrument of Faith](bestiary-ability-glossary-srd/Lc3HEuUklab7IMy3.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.Lc3HEuUklab7IMy3]`|
+|[Instrument of Faith](bestiary-ability-glossary-srd/Lc3HEuUklab7IMy3.htm)|Instrument de la Foi|`@Compendium[pf2e.bestiary-ability-glossary-srd.Lc3HEuUklab7IMy3]`|
 |[Knockdown](bestiary-ability-glossary-srd/BCLvAx4Pz4MLa2pu.htm)|Renversement|`@Compendium[pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]`|
 |[Lifesense](bestiary-ability-glossary-srd/sebk9XseMCRkDqRg.htm)|Sens de la vie|`@Compendium[pf2e.bestiary-ability-glossary-srd.sebk9XseMCRkDqRg]`|
 |[Light Blindness](bestiary-ability-glossary-srd/I0HYG0ctCLP5JRsW.htm)|Aveuglé par la lumière|`@Compendium[pf2e.bestiary-ability-glossary-srd.I0HYG0ctCLP5JRsW]`|
@@ -285,7 +285,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Swallow Whole](bestiary-ability-glossary-srd/uJSseLa57HZYSMUu.htm)|Gober|`@Compendium[pf2e.bestiary-ability-glossary-srd.uJSseLa57HZYSMUu]`|
 |[Swarm Mind](bestiary-ability-glossary-srd/baA0nSMhQyFyJIia.htm)|Esprit de la nuée|`@Compendium[pf2e.bestiary-ability-glossary-srd.baA0nSMhQyFyJIia]`|
 |[Telepathy](bestiary-ability-glossary-srd/kdhbPaBMK1d1fpbA.htm)|Télépathie|`@Compendium[pf2e.bestiary-ability-glossary-srd.kdhbPaBMK1d1fpbA]`|
-|[Thoughtsense](bestiary-ability-glossary-srd/JcaIJLGGmst79f1Y.htm)||`@Compendium[pf2e.bestiary-ability-glossary-srd.JcaIJLGGmst79f1Y]`|
+|[Thoughtsense](bestiary-ability-glossary-srd/JcaIJLGGmst79f1Y.htm)|Perception des pensées|`@Compendium[pf2e.bestiary-ability-glossary-srd.JcaIJLGGmst79f1Y]`|
 |[Throw Rock](bestiary-ability-glossary-srd/a0tx6exmB9v9CUsj.htm)|Projection de rochers|`@Compendium[pf2e.bestiary-ability-glossary-srd.a0tx6exmB9v9CUsj]`|
 |[Trample](bestiary-ability-glossary-srd/UNah0bxXxkcZjxO3.htm)|Piétinement|`@Compendium[pf2e.bestiary-ability-glossary-srd.UNah0bxXxkcZjxO3]`|
 |[Tremorsense](bestiary-ability-glossary-srd/j2wsK6IsW5yMW1jW.htm)|Perception des vibrations|`@Compendium[pf2e.bestiary-ability-glossary-srd.j2wsK6IsW5yMW1jW]`|
@@ -1832,7 +1832,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Divine Defense](classfeatures/cleric-13-0mJTp4LdEHBLInoe.htm)|Défense divine|`@Compendium[pf2e.classfeatures.0mJTp4LdEHBLInoe]`|
 |[Divine Font](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Source divine|`@Compendium[pf2e.classfeatures.gblTFUOgolqFS9v4]`|
 |[Divine Smite](classfeatures/champion-09-3XK573A7GH1rrLgO.htm)|Châtiment divin|`@Compendium[pf2e.classfeatures.3XK573A7GH1rrLgO]`|
-|[Divine Spellcasting (Cleric)](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Incantation divine|`@Compendium[pf2e.classfeatures.AvNbdGSOTWNRgcxs]`|
+|[Divine Spellcasting (Cleric)](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Incantation divine (Prêtre)|`@Compendium[pf2e.classfeatures.AvNbdGSOTWNRgcxs]`|
 |[Divine Spellcasting (Oracle)](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Incantation divine (Oracle)|`@Compendium[pf2e.classfeatures.7AVspOB6ITNzGFZi]`|
 |[Divine Will](classfeatures/champion-11-xygfZopqXBJ6dKBA.htm)|Résolution divine|`@Compendium[pf2e.classfeatures.xygfZopqXBJ6dKBA]`|
 |[Doctrine](classfeatures/cleric-01-tyrBwBTzo5t9Zho7.htm)|Doctrine|`@Compendium[pf2e.classfeatures.tyrBwBTzo5t9Zho7]`|
@@ -1861,25 +1861,25 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Field Discovery (Chirurgeon)](classfeatures/alchemist-05-qC0Iz6SlG2i9gv6g.htm)|Découverte de domaine de recherche (Chirurgien)|`@Compendium[pf2e.classfeatures.qC0Iz6SlG2i9gv6g]`|
 |[Field Discovery (Mutagenist)](classfeatures/alchemist-05-V4Jt7eDnJBLv5bDj.htm)|Découverte de domaine de recherche (Mutagèniste)|`@Compendium[pf2e.classfeatures.V4Jt7eDnJBLv5bDj]`|
 |[Field Discovery (Toxicologist)](classfeatures/alchemist-05-6zo2PJGYoig7nFpR.htm)|Découverte de domaine de recherche (Toxicologiste)|`@Compendium[pf2e.classfeatures.6zo2PJGYoig7nFpR]`|
-|[Fifth Doctrine](classfeatures/cleric-15-Zb7DuGbFoLEp0H1K.htm)||`@Compendium[pf2e.classfeatures.Zb7DuGbFoLEp0H1K]`|
-|[Fifth Doctrine (Cloistered Cleric)](classfeatures/cleric-15-n9W8MjjRgPpUTvWf.htm)||`@Compendium[pf2e.classfeatures.n9W8MjjRgPpUTvWf]`|
-|[Fifth Doctrine (Warpriest)](classfeatures/cleric-15-kmimy4VOaoEOgOiQ.htm)||`@Compendium[pf2e.classfeatures.kmimy4VOaoEOgOiQ]`|
+|[Fifth Doctrine](classfeatures/cleric-15-Zb7DuGbFoLEp0H1K.htm)|Doctrine : Cinquième dogme|`@Compendium[pf2e.classfeatures.Zb7DuGbFoLEp0H1K]`|
+|[Fifth Doctrine (Cloistered Cleric)](classfeatures/cleric-15-n9W8MjjRgPpUTvWf.htm)|Cinquième dogme (Prêtre cloîtré)|`@Compendium[pf2e.classfeatures.n9W8MjjRgPpUTvWf]`|
+|[Fifth Doctrine (Warpriest)](classfeatures/cleric-15-kmimy4VOaoEOgOiQ.htm)|Cinquième dogme (Prêtre combattant)|`@Compendium[pf2e.classfeatures.kmimy4VOaoEOgOiQ]`|
 |[Fighter Expertise](classfeatures/fighter-11-bAaI7h937Nr3g93U.htm)|Expertise du Guerrier|`@Compendium[pf2e.classfeatures.bAaI7h937Nr3g93U]`|
 |[Fighter Weapon Mastery](classfeatures/fighter-05-gApJtAdNb9ST4Ms9.htm)|Maîtrise martiale du guerrier|`@Compendium[pf2e.classfeatures.gApJtAdNb9ST4Ms9]`|
-|[Final Doctrine](classfeatures/cleric-19-urBGOPrUwBmkixAo.htm)||`@Compendium[pf2e.classfeatures.urBGOPrUwBmkixAo]`|
-|[Final Doctrine (Cloistered Cleric)](classfeatures/cleric-19-DgGefatQ4v6xT6f9.htm)||`@Compendium[pf2e.classfeatures.DgGefatQ4v6xT6f9]`|
-|[Final Doctrine (Warpriest)](classfeatures/cleric-15-N1ugDqZlslxbp3Uy.htm)||`@Compendium[pf2e.classfeatures.N1ugDqZlslxbp3Uy]`|
-|[First Doctrine](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)||`@Compendium[pf2e.classfeatures.Qejo7FUWQtPTpgWH]`|
-|[First Doctrine (Cloistered Cleric)](classfeatures/cleric-01-aiwxBj5MjnafCMyn.htm)||`@Compendium[pf2e.classfeatures.aiwxBj5MjnafCMyn]`|
-|[First Doctrine (Warpriest)](classfeatures/cleric-01-xxkszluN9icAiTO4.htm)||`@Compendium[pf2e.classfeatures.xxkszluN9icAiTO4]`|
+|[Final Doctrine](classfeatures/cleric-19-urBGOPrUwBmkixAo.htm)|Dernier dogme|`@Compendium[pf2e.classfeatures.urBGOPrUwBmkixAo]`|
+|[Final Doctrine (Cloistered Cleric)](classfeatures/cleric-19-DgGefatQ4v6xT6f9.htm)|Dernier dogme (Prêtre cloîtré)|`@Compendium[pf2e.classfeatures.DgGefatQ4v6xT6f9]`|
+|[Final Doctrine (Warpriest)](classfeatures/cleric-15-N1ugDqZlslxbp3Uy.htm)|Dernier dogme (Prêtre combattant)|`@Compendium[pf2e.classfeatures.N1ugDqZlslxbp3Uy]`|
+|[First Doctrine](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)|Doctrine : Premier dogme|`@Compendium[pf2e.classfeatures.Qejo7FUWQtPTpgWH]`|
+|[First Doctrine (Cloistered Cleric)](classfeatures/cleric-01-aiwxBj5MjnafCMyn.htm)|Premier dogme (Prêtre cloîtré)|`@Compendium[pf2e.classfeatures.aiwxBj5MjnafCMyn]`|
+|[First Doctrine (Warpriest)](classfeatures/cleric-01-xxkszluN9icAiTO4.htm)|Premier dogme (Prêtre combattant)|`@Compendium[pf2e.classfeatures.xxkszluN9icAiTO4]`|
 |[Flames Mystery](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Mystère des flammes|`@Compendium[pf2e.classfeatures.GTSvbFb36InvuH0w]`|
 |[Flurry of Blows](classfeatures/monk-01-NLHHHiAcdnZ5ohc2.htm)|Déluge de coups|`@Compendium[pf2e.classfeatures.NLHHHiAcdnZ5ohc2]`|
 |[Focus Spells](classfeatures/None-01-T25ZLQWn6O4KchLo.htm)|Sorts focalisés|`@Compendium[pf2e.classfeatures.T25ZLQWn6O4KchLo]`|
 |[Forensic Medicine Methodology](classfeatures/investigator-01-O3IX7rTxXWWvDVM3.htm)|Méthodologie : Médecine forensique|`@Compendium[pf2e.classfeatures.O3IX7rTxXWWvDVM3]`|
 |[Formula Book](classfeatures/alchemical-01-XPPG7nN9pxt0sjMg.htm)|Formulaire|`@Compendium[pf2e.classfeatures.XPPG7nN9pxt0sjMg]`|
-|[Fourth Doctrine](classfeatures/cleric-11-o8nHreMyiLi64rZz.htm)||`@Compendium[pf2e.classfeatures.o8nHreMyiLi64rZz]`|
-|[Fourth Doctrine (Cloistered Cleric)](classfeatures/cleric-11-vxOf4LXZcqUG3P7a.htm)||`@Compendium[pf2e.classfeatures.vxOf4LXZcqUG3P7a]`|
-|[Fourth Doctrine (Warpriest)](classfeatures/cleric-11-px3gVYp7zlEQIpcl.htm)||`@Compendium[pf2e.classfeatures.px3gVYp7zlEQIpcl]`|
+|[Fourth Doctrine](classfeatures/cleric-11-o8nHreMyiLi64rZz.htm)|Doctrine : quatrième doctrine|`@Compendium[pf2e.classfeatures.o8nHreMyiLi64rZz]`|
+|[Fourth Doctrine (Cloistered Cleric)](classfeatures/cleric-11-vxOf4LXZcqUG3P7a.htm)|Quatrième dogme (Prêtre cloîtré)|`@Compendium[pf2e.classfeatures.vxOf4LXZcqUG3P7a]`|
+|[Fourth Doctrine (Warpriest)](classfeatures/cleric-11-px3gVYp7zlEQIpcl.htm)|Quatrième dogme (Prêtre combattant)|`@Compendium[pf2e.classfeatures.px3gVYp7zlEQIpcl]`|
 |[Frog Animal Instinct](classfeatures/barbarian-01-CXZwt1e6ManeBaFV.htm)|Instinct animal - Grenouille|`@Compendium[pf2e.classfeatures.CXZwt1e6ManeBaFV]`|
 |[Fury Instinct](classfeatures/barbarian-01-k7M9jedvt31AJ5ZR.htm)|Instinct de la furie|`@Compendium[pf2e.classfeatures.k7M9jedvt31AJ5ZR]`|
 |[Giant Instinct](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Instinct de géant|`@Compendium[pf2e.classfeatures.JuKD6k7nDwfO0Ckv]`|
@@ -2024,9 +2024,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ruffian Racket](classfeatures/rogue-01-3KPZ7svIO6kmmEKH.htm)|Trafic de roublard : Voyou|`@Compendium[pf2e.classfeatures.3KPZ7svIO6kmmEKH]`|
 |[Rune Patron](classfeatures/witch-01-ejmSQOJR5lJv1pzh.htm)|Patron : Rune|`@Compendium[pf2e.classfeatures.ejmSQOJR5lJv1pzh]`|
 |[Scoundrel Racket](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Trafic de roublard : Scélérat|`@Compendium[pf2e.classfeatures.ZvfxtUMtfIOLYHyg]`|
-|[Second Doctrine](classfeatures/cleric-03-OnfrrwCfDFCFw0tc.htm)||`@Compendium[pf2e.classfeatures.OnfrrwCfDFCFw0tc]`|
-|[Second Doctrine (Cloistered Cleric)](classfeatures/cleric-03-sa7BWfnyCswAvBVa.htm)||`@Compendium[pf2e.classfeatures.sa7BWfnyCswAvBVa]`|
-|[Second Doctrine (Warpriest)](classfeatures/cleric-03-D34mPo29r1J3DPaX.htm)||`@Compendium[pf2e.classfeatures.D34mPo29r1J3DPaX]`|
+|[Second Doctrine](classfeatures/cleric-03-OnfrrwCfDFCFw0tc.htm)|Doctrine : deuxième dogme|`@Compendium[pf2e.classfeatures.OnfrrwCfDFCFw0tc]`|
+|[Second Doctrine (Cloistered Cleric)](classfeatures/cleric-03-sa7BWfnyCswAvBVa.htm)|Deuxième dogme (Prêtre cloîtré)|`@Compendium[pf2e.classfeatures.sa7BWfnyCswAvBVa]`|
+|[Second Doctrine (Warpriest)](classfeatures/cleric-03-D34mPo29r1J3DPaX.htm)|Deuxième dogme (Prêtre combattant)|`@Compendium[pf2e.classfeatures.D34mPo29r1J3DPaX]`|
 |[Second Path to Perfection (Fortitude)](classfeatures/monk-11-XZnPwZ0ohlDXlFea.htm)|Deuxième voie vers la Perfection - Vigueur|`@Compendium[pf2e.classfeatures.XZnPwZ0ohlDXlFea]`|
 |[Second Path to Perfection (Reflex)](classfeatures/monk-11-yDL9l9Klki6gE2ZD.htm)|Deuxième voie vers la Perfection -Réflexes|`@Compendium[pf2e.classfeatures.yDL9l9Klki6gE2ZD]`|
 |[Second Path to Perfection (Will)](classfeatures/monk-11-RVPhB0RqmoJg7xI6.htm)|Deuxième voie vers la Perfection - Volonté|`@Compendium[pf2e.classfeatures.RVPhB0RqmoJg7xI6]`|
@@ -2057,9 +2057,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[The Tenets of Evil](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|Les principes du Mal|`@Compendium[pf2e.classfeatures.JiY2ZB4FkK8RJm4T]`|
 |[The Tenets of Good](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|Les principes du bien|`@Compendium[pf2e.classfeatures.nxZYP3KGfTSkaW6J]`|
 |[Thief Racket](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Trafic de roublard : Voleur|`@Compendium[pf2e.classfeatures.wAh2riuFRzz0edPl]`|
-|[Third Doctrine](classfeatures/cleric-07-gxNxfN9OBlQ1icus.htm)||`@Compendium[pf2e.classfeatures.gxNxfN9OBlQ1icus]`|
-|[Third Doctrine (Cloistered Cleric)](classfeatures/cleric-07-s8WEmc4GGZSHSC7q.htm)||`@Compendium[pf2e.classfeatures.s8WEmc4GGZSHSC7q]`|
-|[Third Doctrine (Warpriest)](classfeatures/cleric-07-Zp81uTBItG1xlH4O.htm)||`@Compendium[pf2e.classfeatures.Zp81uTBItG1xlH4O]`|
+|[Third Doctrine](classfeatures/cleric-07-gxNxfN9OBlQ1icus.htm)|Doctrine : Troisième dogme|`@Compendium[pf2e.classfeatures.gxNxfN9OBlQ1icus]`|
+|[Third Doctrine (Cloistered Cleric)](classfeatures/cleric-07-s8WEmc4GGZSHSC7q.htm)|Troisième dogme (Prêtre cloîtré)|`@Compendium[pf2e.classfeatures.s8WEmc4GGZSHSC7q]`|
+|[Third Doctrine (Warpriest)](classfeatures/cleric-07-Zp81uTBItG1xlH4O.htm)|Troisième dogme (Prêtre combattant)|`@Compendium[pf2e.classfeatures.Zp81uTBItG1xlH4O]`|
 |[Third Path to Perfection (Fortitude)](classfeatures/monk-15-dUMsM0yDTCdV31p6.htm)|Troisième voie vers la perfection -|`@Compendium[pf2e.classfeatures.dUMsM0yDTCdV31p6]`|
 |[Third Path to Perfection (Reflex)](classfeatures/monk-15-8kukH9c4h82e3qjl.htm)|Troisième voie vers la perfection - Réflexes|`@Compendium[pf2e.classfeatures.8kukH9c4h82e3qjl]`|
 |[Third Path to Perfection (Will)](classfeatures/monk-15-oVNRYF0FHbH8NsJD.htm)|Troisième voie vers la perfection - Volonté|`@Compendium[pf2e.classfeatures.oVNRYF0FHbH8NsJD]`|
