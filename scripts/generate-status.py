@@ -15,9 +15,9 @@ for D in SUPPORTED:
   dirpath= "%s/data/%s" % (ROOT, D)
 
   statusContentOK = "| Fichier   | Nom (EN)    | Nom (FR)    | État |\n" + "|-----------|-------------|-------------|:----:|\n"
-  statusContentAT = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|-------------|:----:|\n"
+  statusContentAT = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|:----:|\n"
   statusContentNOK = "| Fichier   | Nom (EN)    |\n" + "|-----------|-------------|\n"
-  statusContentEmpty = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|-------------|:----:|\n"
+  statusContentEmpty = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|:----:|\n"
     
   files = [f for f in os.listdir(dirpath) if os.path.isfile(os.path.join(dirpath, f))]
   files = sorted(files, key=str.casefold)
