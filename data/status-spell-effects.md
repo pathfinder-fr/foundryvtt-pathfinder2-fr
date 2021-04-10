@@ -1,10 +1,11 @@
 # État de la traduction (spell-effects)
 
- * **auto-trad**: 114
+ * **auto-trad**: 101
  * **libre**: 5
+ * **changé**: 13
 
 
-Dernière mise à jour: 2021-04-09 20:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-09 20:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -16,10 +17,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-2SWUzp4JuNK5EX0J.htm](spell-effects/01-2SWUzp4JuNK5EX0J.htm)|Spell Effect: Adapt Self (Swim)|auto-trad|
 |[01-4iakL7fDcZ8RT6Tu.htm](spell-effects/01-4iakL7fDcZ8RT6Tu.htm)|Spell Effect: Face in the Crowd|auto-trad|
 |[01-57lnrCzGUcNUBP2O.htm](spell-effects/01-57lnrCzGUcNUBP2O.htm)|Spell Effect: Athletic Rush|auto-trad|
-|[01-6embuvXCpS3YOD5u.htm](spell-effects/01-6embuvXCpS3YOD5u.htm)|Spell Effect: Resilient Touch|auto-trad|
 |[01-8adLKKzJy49USYJt.htm](spell-effects/01-8adLKKzJy49USYJt.htm)|Spell Effect: Song of Strength|auto-trad|
 |[01-8XaSpienzVXLmcfp.htm](spell-effects/01-8XaSpienzVXLmcfp.htm)|Spell Effect: Inspire Heroics (Strength, +3)|auto-trad|
-|[01-alyNtkHLNnt98Ewz.htm](spell-effects/01-alyNtkHLNnt98Ewz.htm)|Spell Effect: Accelerating Touch|auto-trad|
 |[01-an4yZ6dyIDOFa1wa.htm](spell-effects/01-an4yZ6dyIDOFa1wa.htm)|Spell Effect: Soothing Words|auto-trad|
 |[01-B6zSwNFJV3TMafHf.htm](spell-effects/01-B6zSwNFJV3TMafHf.htm)|Spell Effect: Protection from Lawful|auto-trad|
 |[01-Bc2Bwuan3716eAyY.htm](spell-effects/01-Bc2Bwuan3716eAyY.htm)|Spell Effect: Font of Serenity|auto-trad|
@@ -30,15 +29,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-DLwTvjjnqs2sNGuG.htm](spell-effects/01-DLwTvjjnqs2sNGuG.htm)|Spell Effect: Inspire Defense|auto-trad|
 |[01-dWbg2gACxMkSnZag.htm](spell-effects/01-dWbg2gACxMkSnZag.htm)|Spell Effect: Protective Ward|auto-trad|
 |[01-Fjnm1l59KH5YJ7G9.htm](spell-effects/01-Fjnm1l59KH5YJ7G9.htm)|Spell Effect: Inspire Heroics (Strength, +2)|auto-trad|
-|[01-GhNVAYtoF5hK3AlD.htm](spell-effects/01-GhNVAYtoF5hK3AlD.htm)|Spell Effect: Touch of Corruption|auto-trad|
 |[01-GnWkI3T3LYRlm3X8.htm](spell-effects/01-GnWkI3T3LYRlm3X8.htm)|Spell Effect: Magic Weapon|auto-trad|
 |[01-hqe0hdGH1hvhcZyz.htm](spell-effects/01-hqe0hdGH1hvhcZyz.htm)|Spell Effect: Wild Morph (Wings)|auto-trad|
 |[01-I4PsUAaYSUJ8pwKC.htm](spell-effects/01-I4PsUAaYSUJ8pwKC.htm)|Spell Effect: Ray of Frost|auto-trad|
 |[01-kZ39XWJA3RBDTnqG.htm](spell-effects/01-kZ39XWJA3RBDTnqG.htm)|Spell Effect: Inspire Heroics (Courage, +2)|auto-trad|
 |[01-lpqkZkslFMirsItL.htm](spell-effects/01-lpqkZkslFMirsItL.htm)|Spell Effect: Protection from Chaotic|auto-trad|
-|[01-lyLMiauxIVUM3oF1.htm](spell-effects/01-lyLMiauxIVUM3oF1.htm)|Spell Effect: Lay on Hands|auto-trad|
 |[01-MJSoRFfEdM4j5mNG.htm](spell-effects/01-MJSoRFfEdM4j5mNG.htm)|Spell Effect: Sweet Dream (Glamour)|auto-trad|
-|[01-MjtPtndJx31q2N9R.htm](spell-effects/01-MjtPtndJx31q2N9R.htm)|Spell Effect: Amplifying Touch|auto-trad|
 |[01-N1EM3jRyT8PCG1Py.htm](spell-effects/01-N1EM3jRyT8PCG1Py.htm)|Spell Effect: Traveler's Transit (Climb)|auto-trad|
 |[01-ND1Gfo1yJZ87Ia34.htm](spell-effects/01-ND1Gfo1yJZ87Ia34.htm)|Spell Effect: Wild Morph (Wild Jaws)|auto-trad|
 |[01-nEqBnsrvJZzh8Bil.htm](spell-effects/01-nEqBnsrvJZzh8Bil.htm)|Spell Effect: Protection from Evil|auto-trad|
@@ -80,26 +76,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03-DENMzySYANjUBs4O.htm](spell-effects/03-DENMzySYANjUBs4O.htm)|Spell Effect: Insect Form (Centipede)|auto-trad|
 |[03-l9HRQggofFGIxEse.htm](spell-effects/03-l9HRQggofFGIxEse.htm)|Spell Effect: Heroism|auto-trad|
 |[03-llrOM8rPP9nxIuEN.htm](spell-effects/03-llrOM8rPP9nxIuEN.htm)|Spell Effect: Insect Form (Mantis)|auto-trad|
-|[04-0Cyf07wboRp4CmcQ.htm](spell-effects/04-0Cyf07wboRp4CmcQ.htm)|Spell Effect: Dinosaur Form (Ankylosaurus)|auto-trad|
 |[04-0QVufU5o3xIxiHmP.htm](spell-effects/04-0QVufU5o3xIxiHmP.htm)|Spell Effect: Aerial Form (Bird)|auto-trad|
 |[04-0s6YaL3IjqECmjab.htm](spell-effects/04-0s6YaL3IjqECmjab.htm)|Spell Effect: Roar of the Wyrm|auto-trad|
 |[04-3HEiYVhqypfc4IsP.htm](spell-effects/04-3HEiYVhqypfc4IsP.htm)|Spell Effect: Safeguard Secret|auto-trad|
 |[04-41WThj17MZBXTO2X.htm](spell-effects/04-41WThj17MZBXTO2X.htm)|Spell Effect: Enlarge (Heightened 4th)|auto-trad|
-|[04-542Keo6txtq7uvqe.htm](spell-effects/04-542Keo6txtq7uvqe.htm)|Spell Effect: Dinosaur Form (Tyrannosaurus)|auto-trad|
 |[04-8GUkKvCeI0xljCOk.htm](spell-effects/04-8GUkKvCeI0xljCOk.htm)|Spell Effect: Stormwind Flight|auto-trad|
 |[04-AJkRUIdYLnt4QOOg.htm](spell-effects/04-AJkRUIdYLnt4QOOg.htm)|Spell Effect: Tempt Fate|auto-trad|
 |[04-iJ7TVW5tDnZG9DG8.htm](spell-effects/04-iJ7TVW5tDnZG9DG8.htm)|Spell Effect: Competitive Edge|auto-trad|
-|[04-iOKhr2El8R6cz6YI.htm](spell-effects/04-iOKhr2El8R6cz6YI.htm)|Spell Effect: Dinosaur Form (Triceratops)|auto-trad|
 |[04-jvwKRHtOiPAm4uAP.htm](spell-effects/04-jvwKRHtOiPAm4uAP.htm)|Spell Effect: Aerial Form (Bat)|auto-trad|
-|[04-KkDRRDuycXwKPa6n.htm](spell-effects/04-KkDRRDuycXwKPa6n.htm)|Spell Effect: Dinosaur Form (Brontosaurus)|auto-trad|
 |[04-nHXKK4pRXAzrLdEP.htm](spell-effects/04-nHXKK4pRXAzrLdEP.htm)|Spell Effect: Take Its Course (Affliction, Help)|auto-trad|
-|[04-oJbcmpBSHwmx6FD4.htm](spell-effects/04-oJbcmpBSHwmx6FD4.htm)|Spell Effect: Dinosaur Form (Deinonychus)|auto-trad|
 |[04-R27azQfzeFuFc48G.htm](spell-effects/04-R27azQfzeFuFc48G.htm)|Spell Effect: Take Its Course (Affliction, Hinder)|auto-trad|
-|[04-T6XnxvsgvvOrpien.htm](spell-effects/04-T6XnxvsgvvOrpien.htm)|Spell Effect: Dinosaur Form (Stegosaurus)|auto-trad|
 |[04-UjoNm3lrhlg4ctAQ.htm](spell-effects/04-UjoNm3lrhlg4ctAQ.htm)|Spell Effect: Aerial Form (Pterosaur)|auto-trad|
 |[04-xgZxYqjDPNtsQ3Qp.htm](spell-effects/04-xgZxYqjDPNtsQ3Qp.htm)|Spell Effect: Aerial Form (Wasp)|auto-trad|
 |[05-8eWLR0WCf5258z8X.htm](spell-effects/05-8eWLR0WCf5258z8X.htm)|Spell Effect: Elemental Form (Earth)|auto-trad|
-|[05-ceEA7nBGNmoR8Sjj.htm](spell-effects/05-ceEA7nBGNmoR8Sjj.htm)|Spell Effect: Litany of Self-Interest|auto-trad|
 |[05-cTBYHfiXDOA09G4b.htm](spell-effects/05-cTBYHfiXDOA09G4b.htm)|Spell Effect: Traveler's Transit (Fly)|auto-trad|
 |[05-DliizYpHcmBG130w.htm](spell-effects/05-DliizYpHcmBG130w.htm)|Spell Effect: Elemental Form (Air)|auto-trad|
 |[05-fIloZhZVH1xTnX4B.htm](spell-effects/05-fIloZhZVH1xTnX4B.htm)|Spell Effect: Plant Form (Shambler)|auto-trad|
@@ -114,7 +103,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[06-jtW3VfI5Kktuy3GH.htm](spell-effects/06-jtW3VfI5Kktuy3GH.htm)|Spell Effect: Dragon Form (Bronze)|auto-trad|
 |[06-nWEx5kpkE8YlBZvy.htm](spell-effects/06-nWEx5kpkE8YlBZvy.htm)|Spell Effect: Dragon Form (Green)|auto-trad|
 |[06-OeCn76SB92GPOZwr.htm](spell-effects/06-OeCn76SB92GPOZwr.htm)|Spell Effect: Dragon Form (Brass)|auto-trad|
-|[06-TUyEeLyqdJL6PwbH.htm](spell-effects/06-TUyEeLyqdJL6PwbH.htm)|Spell Effect: Dragon Form (Silver)|auto-trad|
 |[06-V4a9pZHNUlddAwTA.htm](spell-effects/06-V4a9pZHNUlddAwTA.htm)|Spell Effect: Dragon Form (Red)|auto-trad|
 |[08-b8bfWIICHOsGVzjp.htm](spell-effects/08-b8bfWIICHOsGVzjp.htm)|Spell Effect: Monstrosity Form (Phoenix)|auto-trad|
 |[08-Eik8Fj8nGo2GLcbn.htm](spell-effects/08-Eik8Fj8nGo2GLcbn.htm)|Spell Effect: Monstrosity Form (Sea Serpent)|auto-trad|
@@ -131,7 +119,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[01-3qHKBDF7lrHw8jFK.htm](spell-effects/01-3qHKBDF7lrHw8jFK.htm)|Spell Effect: Guidance|Effet : Assistance divine|libre|
+|[01-6embuvXCpS3YOD5u.htm](spell-effects/01-6embuvXCpS3YOD5u.htm)|Spell Effect: Resilient Touch||changé|
+|[01-alyNtkHLNnt98Ewz.htm](spell-effects/01-alyNtkHLNnt98Ewz.htm)|Spell Effect: Accelerating Touch||changé|
 |[01-beReeFroAx24hj83.htm](spell-effects/01-beReeFroAx24hj83.htm)|Spell Effect: Inspire Courage|Effet : Inspiration Vaillante|libre|
+|[01-GhNVAYtoF5hK3AlD.htm](spell-effects/01-GhNVAYtoF5hK3AlD.htm)|Spell Effect: Touch of Corruption||changé|
 |[01-Jemq5UknGdMO7b73.htm](spell-effects/01-Jemq5UknGdMO7b73.htm)|Spell Effect: Shield|Effet : Bouclier|libre|
+|[01-lyLMiauxIVUM3oF1.htm](spell-effects/01-lyLMiauxIVUM3oF1.htm)|Spell Effect: Lay on Hands||changé|
+|[01-MjtPtndJx31q2N9R.htm](spell-effects/01-MjtPtndJx31q2N9R.htm)|Spell Effect: Amplifying Touch||changé|
 |[01-qkwb5DD3zmKwvbk0.htm](spell-effects/01-qkwb5DD3zmKwvbk0.htm)|Spell Effect: Mage Armor|Effet : Armure du mage|libre|
+|[04-0Cyf07wboRp4CmcQ.htm](spell-effects/04-0Cyf07wboRp4CmcQ.htm)|Spell Effect: Dinosaur Form (Ankylosaurus)||changé|
+|[04-542Keo6txtq7uvqe.htm](spell-effects/04-542Keo6txtq7uvqe.htm)|Spell Effect: Dinosaur Form (Tyrannosaurus)||changé|
+|[04-iOKhr2El8R6cz6YI.htm](spell-effects/04-iOKhr2El8R6cz6YI.htm)|Spell Effect: Dinosaur Form (Triceratops)||changé|
+|[04-KkDRRDuycXwKPa6n.htm](spell-effects/04-KkDRRDuycXwKPa6n.htm)|Spell Effect: Dinosaur Form (Brontosaurus)||changé|
+|[04-oJbcmpBSHwmx6FD4.htm](spell-effects/04-oJbcmpBSHwmx6FD4.htm)|Spell Effect: Dinosaur Form (Deinonychus)||changé|
+|[04-T6XnxvsgvvOrpien.htm](spell-effects/04-T6XnxvsgvvOrpien.htm)|Spell Effect: Dinosaur Form (Stegosaurus)||changé|
+|[05-ceEA7nBGNmoR8Sjj.htm](spell-effects/05-ceEA7nBGNmoR8Sjj.htm)|Spell Effect: Litany of Self-Interest||changé|
+|[06-TUyEeLyqdJL6PwbH.htm](spell-effects/06-TUyEeLyqdJL6PwbH.htm)|Spell Effect: Dragon Form (Silver)||changé|
 |[Gqy7K6FnbLtwGpud.htm](spell-effects/Gqy7K6FnbLtwGpud.htm)|Spell Effect: Bless|Effet de sort : Bénédiction|libre|

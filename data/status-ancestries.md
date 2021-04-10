@@ -1,11 +1,11 @@
 # État de la traduction (ancestries)
 
  * **libre**: 13
- * **changé**: 1
- * **officielle**: 9
+ * **changé**: 2
+ * **officielle**: 8
 
 
-Dernière mise à jour: 2021-04-09 20:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-09 20:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -16,7 +16,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4BL5wf1VF9feC2rY.htm](ancestries/4BL5wf1VF9feC2rY.htm)|Kitsune|Kitsune|changé|
 |[7oQxL6wgsokD3QXG.htm](ancestries/7oQxL6wgsokD3QXG.htm)|Kobold|Kobold|libre|
 |[972EkpJOPv9KkQIW.htm](ancestries/972EkpJOPv9KkQIW.htm)|Catfolk|Homme-félin (félide)|libre|
-|[BYj5ZvlXZdpaEgA6.htm](ancestries/BYj5ZvlXZdpaEgA6.htm)|Dwarf|Nain|officielle|
+|[BYj5ZvlXZdpaEgA6.htm](ancestries/BYj5ZvlXZdpaEgA6.htm)|Dwarf|Nain|changé|
 |[cdhgByGG1WtuaK73.htm](ancestries/cdhgByGG1WtuaK73.htm)|Leshy|Léchi|officielle|
 |[CYlfsYLJcBOgqKtD.htm](ancestries/CYlfsYLJcBOgqKtD.htm)|Gnome|Gnome|officielle|
 |[FXlXmNBFiiz9oasi.htm](ancestries/FXlXmNBFiiz9oasi.htm)|Fleshwarp|Distordu|libre|

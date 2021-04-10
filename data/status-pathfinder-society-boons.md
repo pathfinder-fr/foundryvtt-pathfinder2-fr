@@ -1,9 +1,10 @@
 # État de la traduction (pathfinder-society-boons)
 
- * **auto-trad**: 131
+ * **auto-trad**: 128
+ * **changé**: 3
 
 
-Dernière mise à jour: 2021-04-09 20:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-09 20:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -35,14 +36,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9w8TdCsGEpttXYuy.htm](pathfinder-society-boons/9w8TdCsGEpttXYuy.htm)|Mentor, Worldly|auto-trad|
 |[aG5cua0K2SlurXxw.htm](pathfinder-society-boons/aG5cua0K2SlurXxw.htm)|Promotional Accessory|auto-trad|
 |[awcOD618fuXZN3rh.htm](pathfinder-society-boons/awcOD618fuXZN3rh.htm)|Practiced Medic|auto-trad|
-|[B7fDgC6tcv41lcP7.htm](pathfinder-society-boons/B7fDgC6tcv41lcP7.htm)|S1-Q11 - Amateur Genealogist|auto-trad|
 |[bcsusUErwGQYHj6d.htm](pathfinder-society-boons/bcsusUErwGQYHj6d.htm)|Multicultural Training|auto-trad|
 |[BEaLe5M23Q7LKTLL.htm](pathfinder-society-boons/BEaLe5M23Q7LKTLL.htm)|Wayfinder, Adamant|auto-trad|
 |[bMp6W5kPNyqBoOxm.htm](pathfinder-society-boons/bMp6W5kPNyqBoOxm.htm)|Charitable Adventure|auto-trad|
 |[ca869lJo8E51WcW4.htm](pathfinder-society-boons/ca869lJo8E51WcW4.htm)|Hireling, Master|auto-trad|
 |[cjjRFoOE1GtjEA3F.htm](pathfinder-society-boons/cjjRFoOE1GtjEA3F.htm)|Promotional Service Award|auto-trad|
 |[CjW54WSPDcykzqj9.htm](pathfinder-society-boons/CjW54WSPDcykzqj9.htm)|AoA #148: Boon B - Expanded Summoning|auto-trad|
-|[CKyGNdBL8Qt4ysKt.htm](pathfinder-society-boons/CKyGNdBL8Qt4ysKt.htm)|S2-03 - Fluent in Cyclops|auto-trad|
 |[CLRt3iFqWlMwCNVl.htm](pathfinder-society-boons/CLRt3iFqWlMwCNVl.htm)|Vigilant Seal Champion, Improved|auto-trad|
 |[CPcMqEd4H5yIVl3i.htm](pathfinder-society-boons/CPcMqEd4H5yIVl3i.htm)|World Traveller|auto-trad|
 |[CW73M2apBaQh6wLm.htm](pathfinder-society-boons/CW73M2apBaQh6wLm.htm)|Unparalleled Scholarship|auto-trad|
@@ -101,7 +100,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[RGSw5tAc4ALp97Qe.htm](pathfinder-society-boons/RGSw5tAc4ALp97Qe.htm)|S1-Q04 - Stella's Associate|auto-trad|
 |[rJfATB750MbndGeP.htm](pathfinder-society-boons/rJfATB750MbndGeP.htm)|S2-08 - Baba Yaga's Tutelage|auto-trad|
 |[RJYIefY9Skx8CAgw.htm](pathfinder-society-boons/RJYIefY9Skx8CAgw.htm)|S1-Q09 - Wayfinder Connections|auto-trad|
-|[RLzWznPsb2VpbxTy.htm](pathfinder-society-boons/RLzWznPsb2VpbxTy.htm)|S1-Q12 - Fruit Basket|auto-trad|
 |[sBXsfT0uYltF8TFE.htm](pathfinder-society-boons/sBXsfT0uYltF8TFE.htm)|Hireling|auto-trad|
 |[Sc9gT40T28tFhSzq.htm](pathfinder-society-boons/Sc9gT40T28tFhSzq.htm)|Horizon Hunters Champion, Improved|auto-trad|
 |[SDDbh7KmDn5HUbst.htm](pathfinder-society-boons/SDDbh7KmDn5HUbst.htm)|Promotional Vestments|auto-trad|
@@ -146,3 +144,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[B7fDgC6tcv41lcP7.htm](pathfinder-society-boons/B7fDgC6tcv41lcP7.htm)|S1-Q11 - Amateur Genealogist||changé|
+|[CKyGNdBL8Qt4ysKt.htm](pathfinder-society-boons/CKyGNdBL8Qt4ysKt.htm)|S2-03 - Fluent in Cyclops||changé|
+|[RLzWznPsb2VpbxTy.htm](pathfinder-society-boons/RLzWznPsb2VpbxTy.htm)|S1-Q12 - Fruit Basket||changé|

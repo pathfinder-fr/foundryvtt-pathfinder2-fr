@@ -1,19 +1,27 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
  * **libre**: 5
- * **officielle**: 15
- * **changé**: 26
- * **auto-trad**: 1
+ * **auto-trad**: 9
+ * **officielle**: 14
+ * **changé**: 27
 
 
-Dernière mise à jour: 2021-04-09 20:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-09 20:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
 |-----------|-------------|-------------|:----:|
+|[1r7WAEsYIPvEpoRM.htm](bestiary-ability-glossary-srd/1r7WAEsYIPvEpoRM.htm)|Faith Bound|auto-trad|
+|[DWG2SKI0XexURcnV.htm](bestiary-ability-glossary-srd/DWG2SKI0XexURcnV.htm)|Divine Destruction|auto-trad|
+|[fQCiK3uVBuWQmMP6.htm](bestiary-ability-glossary-srd/fQCiK3uVBuWQmMP6.htm)|Faithful Weapon|auto-trad|
+|[JcaIJLGGmst79f1Y.htm](bestiary-ability-glossary-srd/JcaIJLGGmst79f1Y.htm)|Thoughtsense|auto-trad|
+|[jzbGs5lcds384DT5.htm](bestiary-ability-glossary-srd/jzbGs5lcds384DT5.htm)|Divine Innate Spells (Divine Warden)|auto-trad|
+|[Lc3HEuUklab7IMy3.htm](bestiary-ability-glossary-srd/Lc3HEuUklab7IMy3.htm)|Instrument of Faith|auto-trad|
+|[o4EYJEBi2YwYzGov.htm](bestiary-ability-glossary-srd/o4EYJEBi2YwYzGov.htm)|Divine Domain Spells (Divine Warden)|auto-trad|
 |[RJbI07QSiYp0SF9A.htm](bestiary-ability-glossary-srd/RJbI07QSiYp0SF9A.htm)|Troop Defenses|auto-trad|
+|[UzITQk56510jg5hS.htm](bestiary-ability-glossary-srd/UzITQk56510jg5hS.htm)|Wind Up|auto-trad|
 
 ## Liste des traductions complétés
 
@@ -23,7 +31,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2YRDYVnC1eljaXKK.htm](bestiary-ability-glossary-srd/2YRDYVnC1eljaXKK.htm)|At-Will Spells|Sorts à volonté|officielle|
 |[3JOi2cMcGhT3eze1.htm](bestiary-ability-glossary-srd/3JOi2cMcGhT3eze1.htm)|Rend|Éventration|officielle|
 |[4Ho2xMPEC05aSxzr.htm](bestiary-ability-glossary-srd/4Ho2xMPEC05aSxzr.htm)|Greater Darkvision|Vision dans le noir supérieure|libre|
-|[52CdldlWMiVTZk1F.htm](bestiary-ability-glossary-srd/52CdldlWMiVTZk1F.htm)|Coven|Cercle|officielle|
+|[52CdldlWMiVTZk1F.htm](bestiary-ability-glossary-srd/52CdldlWMiVTZk1F.htm)|Coven|Cercle|changé|
 |[6l7e7CHQLESlI57U.htm](bestiary-ability-glossary-srd/6l7e7CHQLESlI57U.htm)|Improved Push|Bousculade améliorée|officielle|
 |[9qV49KjZujZnSp6w.htm](bestiary-ability-glossary-srd/9qV49KjZujZnSp6w.htm)|All-Around Vision|Vision à 360°|officielle|
 |[a0tx6exmB9v9CUsj.htm](bestiary-ability-glossary-srd/a0tx6exmB9v9CUsj.htm)|Throw Rock|Projection de rochers|officielle|

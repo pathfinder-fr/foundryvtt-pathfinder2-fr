@@ -2,12 +2,12 @@
 
  * **officielle**: 205
  * **libre**: 193
- * **auto-trad**: 540
+ * **auto-trad**: 541
  * **changé**: 831
  * **aucune**: 1
 
 
-Dernière mise à jour: 2021-04-09 20:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-09 20:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -129,7 +129,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-00-2DoUHoueAyyP4lMN.htm](equipment/consumable-00-2DoUHoueAyyP4lMN.htm)|Bloodeye Coffee|Café œil-sanglant|officielle|
 |[consumable-00-AITVZmakiu3RgfKo.htm](equipment/consumable-00-AITVZmakiu3RgfKo.htm)|Bolts|Carreau(x)|officielle|
 |[consumable-00-Du05UxCyCM0ZWH8z.htm](equipment/consumable-00-Du05UxCyCM0ZWH8z.htm)|Oil (1 pint)|Huile|officielle|
-|[consumable-00-flRmVDRqMOj1Dgum.htm](equipment/consumable-00-flRmVDRqMOj1Dgum.htm)|Wooden Taws|Billes de bois|libre|
 |[consumable-00-IAeGh5qvu7ob4yad.htm](equipment/consumable-00-IAeGh5qvu7ob4yad.htm)|Grappling Arrow|Flèche grappin|libre|
 |[consumable-00-MKSeXwUm56c15MZa.htm](equipment/consumable-00-MKSeXwUm56c15MZa.htm)|Sling Bullets|Billes de fronde|officielle|
 |[consumable-00-PTwm2NAcReBw2iUY.htm](equipment/consumable-00-PTwm2NAcReBw2iUY.htm)|Flayleaf|Éreintante|officielle|
@@ -138,6 +137,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-00-Ti4gWILk69LPxKuU.htm](equipment/consumable-00-Ti4gWILk69LPxKuU.htm)|Candle|Bougie|officielle|
 |[consumable-00-UMAXLDpI6YLSfYX1.htm](equipment/consumable-00-UMAXLDpI6YLSfYX1.htm)|Alcohol|Alcool|libre|
 |[consumable-00-w2ENw2VMPcsbif8g.htm](equipment/consumable-00-w2ENw2VMPcsbif8g.htm)|Arrows|Flèches|officielle|
+|[consumable-00-YrNmw0Rn3MqT0yKP.htm](equipment/consumable-00-YrNmw0Rn3MqT0yKP.htm)|Wooden Taws|Billes de bois|libre|
 |[consumable-01-2RuepCemJhrpKKao.htm](equipment/consumable-01-2RuepCemJhrpKKao.htm)|Healing Potion (Minor)|Potion de guérison (Mineure)|changé|
 |[consumable-01-3cWko20JPnjeoofV.htm](equipment/consumable-01-3cWko20JPnjeoofV.htm)|Feather Token (Ladder)|Plume magique (échelle)|changé|
 |[consumable-01-3V2U720YhW2nyGVx.htm](equipment/consumable-01-3V2U720YhW2nyGVx.htm)|Spike Snare|Piège artisanal à pointes|changé|
@@ -1003,11 +1003,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-6qJkA6fnHHiF4CEV.htm](equipment/weapon-00-6qJkA6fnHHiF4CEV.htm)|Tengu Gale Blade|Lame tempête Tengu|changé|
 |[weapon-00-76AqNZB5xuFWxgJI.htm](equipment/weapon-00-76AqNZB5xuFWxgJI.htm)|Fighting Fan|Éventail de combat|changé|
 |[weapon-00-7tKkkF8eZ4iCLJtp.htm](equipment/weapon-00-7tKkkF8eZ4iCLJtp.htm)|Shortsword|Épée courte|officielle|
+|[weapon-00-7WRzbBTOCsJx5f7L.htm](equipment/weapon-00-7WRzbBTOCsJx5f7L.htm)|Buugeng|Buugeng|libre|
 |[weapon-00-8COlYvHe6hKCXY8x.htm](equipment/weapon-00-8COlYvHe6hKCXY8x.htm)|Greataxe|Grande hache|changé|
+|[weapon-00-8V4mgecGASsQ7fjl.htm](equipment/weapon-00-8V4mgecGASsQ7fjl.htm)|Adze|Adze|libre|
 |[weapon-00-9iDqOLNFKxiTcFKE.htm](equipment/weapon-00-9iDqOLNFKxiTcFKE.htm)|Mace|Masse d'armes|officielle|
 |[weapon-00-aXuJh4i8HqSu6NYV.htm](equipment/weapon-00-aXuJh4i8HqSu6NYV.htm)|Longspear|Pique|changé|
-|[weapon-00-B3nscIocxZag4eeH.htm](equipment/weapon-00-B3nscIocxZag4eeH.htm)|Adze|Adze|libre|
-|[weapon-00-BeSK3hhVEKL9Wqzj.htm](equipment/weapon-00-BeSK3hhVEKL9Wqzj.htm)|Hand Adze|Adze de poing|libre|
 |[weapon-00-c58wczIzH2gzeXQL.htm](equipment/weapon-00-c58wczIzH2gzeXQL.htm)|Club|Gourdin|libre|
 |[weapon-00-cKbiv1dUMViikKOS.htm](equipment/weapon-00-cKbiv1dUMViikKOS.htm)|Monkey's Fist|Poing de singe|libre|
 |[weapon-00-CVTgOpNuRE7hsnc1.htm](equipment/weapon-00-CVTgOpNuRE7hsnc1.htm)|Filcher's Fork|Fourchette du chapardeur|changé|
@@ -1017,19 +1017,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-DV4qelKHrviM0O5i.htm](equipment/weapon-00-DV4qelKHrviM0O5i.htm)|Halfling Sling Staff|Fustibale de halfelin|officielle|
 |[weapon-00-e4NwsnPnpQKbDZ9F.htm](equipment/weapon-00-e4NwsnPnpQKbDZ9F.htm)|Composite Shortbow|Arc court composite|changé|
 |[weapon-00-f1gwoTkf3Nn0v3PN.htm](equipment/weapon-00-f1gwoTkf3Nn0v3PN.htm)|Whip|Fouet|officielle|
+|[weapon-00-FbquJr6FuXL3K373.htm](equipment/weapon-00-FbquJr6FuXL3K373.htm)|Gill Hook|Harpon à branchies|libre|
 |[weapon-00-Fg3GkCDkszj5WtgQ.htm](equipment/weapon-00-Fg3GkCDkszj5WtgQ.htm)|Katar|Katar|officielle|
 |[weapon-00-FibwLZ12EIEwLGhw.htm](equipment/weapon-00-FibwLZ12EIEwLGhw.htm)|Light Hammer|Marteau léger|officielle|
 |[weapon-00-fjkwYZ0hRmBztwBG.htm](equipment/weapon-00-fjkwYZ0hRmBztwBG.htm)|Shuriken|Shuriken|changé|
 |[weapon-00-FJrsDoaIXksVjld9.htm](equipment/weapon-00-FJrsDoaIXksVjld9.htm)|Trident|Trident|officielle|
 |[weapon-00-FPwsiGqMCNPLHmjX.htm](equipment/weapon-00-FPwsiGqMCNPLHmjX.htm)|Blowgun|sarbacane|changé|
-|[weapon-00-FSkkWMarKLDFbjVL.htm](equipment/weapon-00-FSkkWMarKLDFbjVL.htm)|Gill Hook|Harpon à branchies|libre|
 |[weapon-00-FuS6F91Rhd4m3T6d.htm](equipment/weapon-00-FuS6F91Rhd4m3T6d.htm)|Fauchard|Fauchard|changé|
 |[weapon-00-FVjTuBCIefAgloUU.htm](equipment/weapon-00-FVjTuBCIefAgloUU.htm)|Staff|Bâton|officielle|
 |[weapon-00-fvvfZxfGV9i3urkd.htm](equipment/weapon-00-fvvfZxfGV9i3urkd.htm)|Claw Blade|Lames griffues|libre|
 |[weapon-00-giO4LwIKGzJZoaxa.htm](equipment/weapon-00-giO4LwIKGzJZoaxa.htm)|Heavy Crossbow|Arbalète lourde|changé|
 |[weapon-00-grmaV4GdoGD7sKbn.htm](equipment/weapon-00-grmaV4GdoGD7sKbn.htm)|Scimitar|Cimeterre|changé|
+|[weapon-00-gTTJuNgwTcNmkDx2.htm](equipment/weapon-00-gTTJuNgwTcNmkDx2.htm)|Boarding Axe|Hache d'abordage|libre|
 |[weapon-00-H74vYwHJ8XT4qOPI.htm](equipment/weapon-00-H74vYwHJ8XT4qOPI.htm)|Scythe|Faux|officielle|
-|[weapon-00-HbL9QGFE71GQQdco.htm](equipment/weapon-00-HbL9QGFE71GQQdco.htm)|Taw Launcher|Lanceur de billes|libre|
 |[weapon-00-hIgqLgH3YcLZBeoT.htm](equipment/weapon-00-hIgqLgH3YcLZBeoT.htm)|Shortbow|Arc court|changé|
 |[weapon-00-hMYdSFmMWzidzHih.htm](equipment/weapon-00-hMYdSFmMWzidzHih.htm)|Bo Staff|Bô|changé|
 |[weapon-00-I5DJUbAFGMwa6qCz.htm](equipment/weapon-00-I5DJUbAFGMwa6qCz.htm)|Scourge|Fléau|changé|
@@ -1043,13 +1043,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-k8V3wTG1gMU5ksUr.htm](equipment/weapon-00-k8V3wTG1gMU5ksUr.htm)|Rhoka Sword|Épée rhoka|changé|
 |[weapon-00-kdGqnqbrwPzQfTsm.htm](equipment/weapon-00-kdGqnqbrwPzQfTsm.htm)|Greatclub|Massue|officielle|
 |[weapon-00-KgKSX95uVSg8iBBA.htm](equipment/weapon-00-KgKSX95uVSg8iBBA.htm)|Khakkara|Khakkara|libre|
-|[weapon-00-kj2BxskGQIMqukB4.htm](equipment/weapon-00-kj2BxskGQIMqukB4.htm)|Buugeng|Buugeng|libre|
 |[weapon-00-kJJvKm80KwWXPukV.htm](equipment/weapon-00-kJJvKm80KwWXPukV.htm)|Clan Dagger|Dague de clan|officielle|
-|[weapon-00-KrKo3d1gLnzOAOs4.htm](equipment/weapon-00-KrKo3d1gLnzOAOs4.htm)|Fangwire|Filacroc|libre|
 |[weapon-00-LA8wwpQBi6tylE6z.htm](equipment/weapon-00-LA8wwpQBi6tylE6z.htm)|Nunchaku|Nunchaku|changé|
 |[weapon-00-LGgvev6AV0So8tP9.htm](equipment/weapon-00-LGgvev6AV0So8tP9.htm)|Hatchet|Hachette|officielle|
 |[weapon-00-LJdbVTOZog39EEbi.htm](equipment/weapon-00-LJdbVTOZog39EEbi.htm)|Longsword|Épée longue|changé|
 |[weapon-00-loueS11Tfa9WD320.htm](equipment/weapon-00-loueS11Tfa9WD320.htm)|Alchemical Crossbow|Arbalète alchimique|changé|
+|[weapon-00-MccX4AlmqYDjAN2J.htm](equipment/weapon-00-MccX4AlmqYDjAN2J.htm)|Hand Adze|Adze de poing|libre|
 |[weapon-00-MeA0g9xvWCbGxf2g.htm](equipment/weapon-00-MeA0g9xvWCbGxf2g.htm)|Mambele|Mambele (Hunga munga)|changé|
 |[weapon-00-mgrabKkyLmvxgLBK.htm](equipment/weapon-00-mgrabKkyLmvxgLBK.htm)|Elven Curve Blade|Lame courbe elfique|changé|
 |[weapon-00-mlrmkpOlwpnGkw4I.htm](equipment/weapon-00-mlrmkpOlwpnGkw4I.htm)|Maul|Maillet|officielle|
@@ -1058,7 +1057,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-mVxA9E2ernBL6fM6.htm](equipment/weapon-00-mVxA9E2ernBL6fM6.htm)|War Flail|Fléau de guerre|changé|
 |[weapon-00-MYnh7w7EL3AcQT41.htm](equipment/weapon-00-MYnh7w7EL3AcQT41.htm)|Dwarven War Axe|Hache de guerre naine|changé|
 |[weapon-00-NApB2Fl7i8wzp7RX.htm](equipment/weapon-00-NApB2Fl7i8wzp7RX.htm)|Gaff|Gaffe|changé|
-|[weapon-00-nheGxnmwSfYRLC4k.htm](equipment/weapon-00-nheGxnmwSfYRLC4k.htm)|Tricky Pick|Pioche trompeuse|libre|
 |[weapon-00-NIsxR5zXtVa3PuyU.htm](equipment/weapon-00-NIsxR5zXtVa3PuyU.htm)|Temple Sword|Épée du temple|changé|
 |[weapon-00-nOFcCidD5AwVZWTv.htm](equipment/weapon-00-nOFcCidD5AwVZWTv.htm)|War Razor|Rasoir de combat|changé|
 |[weapon-00-nSO0Z662LkkLfa2u.htm](equipment/weapon-00-nSO0Z662LkkLfa2u.htm)|Shield Spikes|Pointes de bouclier|officielle|
@@ -1069,7 +1067,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-OPMzQdM9rZznMGhW.htm](equipment/weapon-00-OPMzQdM9rZznMGhW.htm)|Lance|Lance d'arçon|officielle|
 |[weapon-00-oSQET5hKn9q4xlrl.htm](equipment/weapon-00-oSQET5hKn9q4xlrl.htm)|Gnome Flickmace|Masse-yoyo gnome|changé|
 |[weapon-00-PnFfW5u24xZV6mOH.htm](equipment/weapon-00-PnFfW5u24xZV6mOH.htm)|Poi|Poï|changé|
-|[weapon-00-pUL3MPFj9mhIKqJV.htm](equipment/weapon-00-pUL3MPFj9mhIKqJV.htm)|Boarding Axe|Hache d'abordage|libre|
+|[weapon-00-puQ90OZgQpVhxLRe.htm](equipment/weapon-00-puQ90OZgQpVhxLRe.htm)|Wish Blade|Lame à souhaits|libre|
 |[weapon-00-R2mDnYVqewmx3dV0.htm](equipment/weapon-00-R2mDnYVqewmx3dV0.htm)|Exquisite Sword Cane Sheath|Fourreau de canne épée raffinée|libre|
 |[weapon-00-RbM4HvPyrZ4YJxRc.htm](equipment/weapon-00-RbM4HvPyrZ4YJxRc.htm)|Light Pick|Pic de guerre léger|officielle|
 |[weapon-00-rfP9e1fnwjnIQSJK.htm](equipment/weapon-00-rfP9e1fnwjnIQSJK.htm)|Fire Poi|Poï enflammé|changé|
@@ -1080,7 +1078,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-sAjzLXgA2LnIwpBM.htm](equipment/weapon-00-sAjzLXgA2LnIwpBM.htm)|Orc Knuckle Dagger|Dague de poing orque|changé|
 |[weapon-00-Sarxo8kSrJs2qJEw.htm](equipment/weapon-00-Sarxo8kSrJs2qJEw.htm)|Urumi|Urumi|changé|
 |[weapon-00-t5FbyZtRL4qV0V7k.htm](equipment/weapon-00-t5FbyZtRL4qV0V7k.htm)|Flail|Fléau|officielle|
-|[weapon-00-t938hkedXo9OEb3R.htm](equipment/weapon-00-t938hkedXo9OEb3R.htm)|Rungu|Rungu|libre|
 |[weapon-00-TDrO7Xdyn7juFy3c.htm](equipment/weapon-00-TDrO7Xdyn7juFy3c.htm)|Kukri|Kukri|changé|
 |[weapon-00-tH5GirEy7YB3ZgCk.htm](equipment/weapon-00-tH5GirEy7YB3ZgCk.htm)|Rapier|Rapière|changé|
 |[weapon-00-TLQErnOpM9Luy7rL.htm](equipment/weapon-00-TLQErnOpM9Luy7rL.htm)|Sap|Matraque|changé|
@@ -1091,15 +1088,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-UCH4myuFnokGv0vF.htm](equipment/weapon-00-UCH4myuFnokGv0vF.htm)|Sling|Fronde|changé|
 |[weapon-00-UcLqR32mNaGdNkUk.htm](equipment/weapon-00-UcLqR32mNaGdNkUk.htm)|Fist|Poing|libre|
 |[weapon-00-UfurZQK6H6SgOjqe.htm](equipment/weapon-00-UfurZQK6H6SgOjqe.htm)|Ranseur|Corsèque|changé|
-|[weapon-00-UHD691Af6aQ9lk2L.htm](equipment/weapon-00-UHD691Af6aQ9lk2L.htm)|Wish Blade|Lame à souhaits|libre|
 |[weapon-00-uM0OlCC1Sh6OLdNn.htm](equipment/weapon-00-uM0OlCC1Sh6OLdNn.htm)|Throwing Knife|Couteau de lancer|changé|
 |[weapon-00-UX71GkWBL9g41VwM.htm](equipment/weapon-00-UX71GkWBL9g41VwM.htm)|Greatsword|Épée à deux mains|changé|
 |[weapon-00-UXjKXqsfWYiayeMD.htm](equipment/weapon-00-UXjKXqsfWYiayeMD.htm)|Scorpion Whip|Fouet scorpion|changé|
+|[weapon-00-v8C4hkqMNeUk60Db.htm](equipment/weapon-00-v8C4hkqMNeUk60Db.htm)|Rungu|Rungu|libre|
 |[weapon-00-VitLIpdIAmKlGb7i.htm](equipment/weapon-00-VitLIpdIAmKlGb7i.htm)|Sword Cane|Canne épée|libre|
 |[weapon-00-vlnzTSsRmWeSkt9O.htm](equipment/weapon-00-vlnzTSsRmWeSkt9O.htm)|Glaive|Coutille|changé|
 |[weapon-00-vsJ0zvYZzduP7rtD.htm](equipment/weapon-00-vsJ0zvYZzduP7rtD.htm)|Tekko-kagi|Tekko-kagi|changé|
 |[weapon-00-War0uyLBx1jA0Ge7.htm](equipment/weapon-00-War0uyLBx1jA0Ge7.htm)|Battle Axe|Hache d'armes|changé|
+|[weapon-00-wbJPWXKzQBKYZ74s.htm](equipment/weapon-00-wbJPWXKzQBKYZ74s.htm)|Taw Launcher|Lanceur de billes|libre|
 |[weapon-00-wkzxLpSe7LN6c5Ld.htm](equipment/weapon-00-wkzxLpSe7LN6c5Ld.htm)|Sawtooth Saber|Sabre dentelé|changé|
+|[weapon-00-wYruARP1YLfTQBsc.htm](equipment/weapon-00-wYruARP1YLfTQBsc.htm)|Fangwire|Filacroc|libre|
 |[weapon-00-x1TOpwH755Ami5bC.htm](equipment/weapon-00-x1TOpwH755Ami5bC.htm)|Light Mace|Masse d'armes légère|changé|
 |[weapon-00-XGtIUZ4ZNKuFx1uL.htm](equipment/weapon-00-XGtIUZ4ZNKuFx1uL.htm)|Falchion|Cimeterre à deux mains|changé|
 |[weapon-00-xu3azdMCIa53Oe1f.htm](equipment/weapon-00-xu3azdMCIa53Oe1f.htm)|Meteor Hammer|Marteau météore|changé|
@@ -1115,6 +1114,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-ZhxxqYpVdVx0jSMm.htm](equipment/weapon-00-ZhxxqYpVdVx0jSMm.htm)|Shield Bash|Coup de bouclier|officielle|
 |[weapon-00-zi9ovfoRp2fMhfpO.htm](equipment/weapon-00-zi9ovfoRp2fMhfpO.htm)|Spiked Chain|Chaîne cloutée|changé|
 |[weapon-00-znIsDYwM5rLK2aVD.htm](equipment/weapon-00-znIsDYwM5rLK2aVD.htm)|Nine-Ring Sword|Épée aux neufs anneaux|changé|
+|[weapon-00-zO6Fvq7ghEXpJgJR.htm](equipment/weapon-00-zO6Fvq7ghEXpJgJR.htm)|Tricky Pick|Pioche trompeuse|libre|
 |[weapon-00-zSAoyzcf3nSeZCiF.htm](equipment/weapon-00-zSAoyzcf3nSeZCiF.htm)|Kama|Kama|changé|
 |[weapon-01-AFR01HVd7DcZvkpP.htm](equipment/weapon-01-AFR01HVd7DcZvkpP.htm)|Bottled Lightning (Lesser)|Foudre en bouteille (inférieur)|changé|
 |[weapon-01-c124j3cpv8rl5MLp.htm](equipment/weapon-01-c124j3cpv8rl5MLp.htm)|Peshpine Grenade (Lesser)|Grenade d'épines de pesh (Inférieure)|changé|
@@ -1164,12 +1164,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-05-ZvIEJCY60fHqzl6r.htm](equipment/weapon-05-ZvIEJCY60fHqzl6r.htm)|Dagger of Venom|Dague venimeuse|changé|
 |[weapon-06-17Oza88ts0ASngdw.htm](equipment/weapon-06-17Oza88ts0ASngdw.htm)|Acrobat's Staff|Bâton de l'Acrobate|changé|
 |[weapon-06-2z4GSaKaVX22kzPU.htm](equipment/weapon-06-2z4GSaKaVX22kzPU.htm)|Gluttonous Spear|Lance gloutonne|libre|
-|[weapon-06-5izv7y9mzqHJmAyL.htm](equipment/weapon-06-5izv7y9mzqHJmAyL.htm)|Cooperative Blade|Lame coopérative|libre|
 |[weapon-06-6IJZamE4JkERQumf.htm](equipment/weapon-06-6IJZamE4JkERQumf.htm)|Staff of Conjuration|Bâton de conjuration|officielle|
 |[weapon-06-96VBd7CV8NQyv3lP.htm](equipment/weapon-06-96VBd7CV8NQyv3lP.htm)|Staff of Evocation|Bâton d'évocation|changé|
 |[weapon-06-c40Zn2TCRr3inIBA.htm](equipment/weapon-06-c40Zn2TCRr3inIBA.htm)|Staff of Necromancy|Bâton de nécromancie|changé|
 |[weapon-06-eaYNVLnTX9VejnaA.htm](equipment/weapon-06-eaYNVLnTX9VejnaA.htm)|Staff of Enchantment|Bâton d'enchantement|changé|
 |[weapon-06-EYRrABqjUYPrhrZr.htm](equipment/weapon-06-EYRrABqjUYPrhrZr.htm)|Staff of Abjuration|Bâton d'abjuration|changé|
+|[weapon-06-KXoJIPHbdz746Rec.htm](equipment/weapon-06-KXoJIPHbdz746Rec.htm)|Cooperative Blade|Lame coopérative|libre|
 |[weapon-06-ObmYN6I64Pjj7yEA.htm](equipment/weapon-06-ObmYN6I64Pjj7yEA.htm)|Staff of Divination|Bâton de divination|changé|
 |[weapon-06-p1pysEaGypaNxTEL.htm](equipment/weapon-06-p1pysEaGypaNxTEL.htm)|Staff of Transmutation|Bâton de transmutation|changé|
 |[weapon-06-pjUACbrAXNIy9O7S.htm](equipment/weapon-06-pjUACbrAXNIy9O7S.htm)|Twining Staff|Bâton enroulé|officielle|

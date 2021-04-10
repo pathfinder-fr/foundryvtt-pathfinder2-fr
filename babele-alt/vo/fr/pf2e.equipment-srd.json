@@ -727,6 +727,11 @@
             "description": "<p>Une sacoche peut contenir des objets jusqu’à un Encombrement 2. Si vous transportez ou stockez une sacoche au lieu de la porter sur votre épaule, elle compte comme un Encombrement léger au lieu de négligeable.</p>"
         },
         {
+            "id": "Gill Hook",
+            "name": "Gill Hook",
+            "description": "<p>Cette lance est un harpon spécialisé, qui juste avant sa pointe se garnit d'un crochet qui permet d'agripper les branchies des gros poissons. Les Azarketis l'utilisent principalement pour chasser des requins, mais elle peut aussi être utilisée pour agripper de la chair ou des armures.</p>"
+        },
+        {
             "id": "Shadow (Major)",
             "name": "Shadow (Major)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une armure avec cette rune devient noire et indistincte. Vous bénéficiez d’un bonus d’objet de +3 aux tests de Discrétion lorsque vous portez l’armure.&nbsp;&nbsp;</span></p>"
@@ -1105,11 +1110,6 @@
             "id": "Breastplate of Command",
             "name": "Breastplate of Command",
             "description": "<p>Cette cuirasse de résilience +1 est faite d’un bronze scintillant recouvert de panneaux de renfort dorés en forme de têtes de lion. Elle vous donne une aura d’autorité. Vous gagnez un bonus d’objet de +2 aux tests de Diplomatie, mais vous subissez un malus d’objet de −2 aux tests de Discrétion pour Vous cacher et Être furtif et aux tests de Duperie pour Se déguiser.</p>\n<p><strong>Activation</strong><span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span>Sur ordre;</p> \n<p><strong>Fréquence</strong> 1/jour;</p> \n<p><strong>Effet</strong>Vous donnez à vos alliés dans un rayon de 30 m un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 min. Lorsque vous activez ce pouvoir, chaque allié affecté réduit sa valeur d’effrayé de 1.</p>\n<p>@Compendium[pf2e.equipment-effects.G0lG7IIZnCZtYi6v]{Effect: Cuirasse de commandement}</p>\n<hr />\n<p>Effets automatiquement appliqués:</p>\n<ul>\n<li>+2 bonus d'objet aux tests de Diplomacie</li>\n<li>-2 malus d'objet aux tests de Discrétion pour Vous cacher et Être furtif</li>\n<li>-2 malus d'objet aux tests de Duperie pour Se déguiser</li>\n</ul>"
-        },
-        {
-            "id": "Gill Hook",
-            "name": "Gill Hook",
-            "description": "<p>Cette lance est un harpon spécialisé, qui juste avant sa pointe se garnit d'un crochet qui permet d'agripper les branchies des gros poissons. Les Azarketis l'utilisent principalement pour chasser des requins, mais elle peut aussi être utilisée pour agripper de la chair ou des armures.</p>"
         },
         {
             "id": "Periscope",
@@ -1942,6 +1942,11 @@
             "description": "<p><span class=\"fontstyle0\">Les instruments portatifs comprennent les cornemuses, le petit carillon, les petits tambours, les violons et violes, les flûtes traversières et les flûtes à bec, les petites harpes, les luths, les trompettes et instruments de taille similaire. Le MJ peut décider qu’un instrument portatif particulièrement volumineux (comme le tuba) a un Encombrement plus important. Les instruments lourds tels que les gros tambours, un carillon complet et les instruments à clavier sont beaucoup moins portatifs et se jouent généralement immobilisés. Un instrument virtuose accorde un bonus d’objet de +1 aux tests de Représentation.</span> </p>"
         },
         {
+            "id": "Boarding Axe",
+            "name": "Boarding Axe",
+            "description": "<p>Cette petite hache comporte une pointe à l'opposé de la lame qui aide pour grimper et qui est très utile pour éliminer des obstacles, comme des grééements tombés au sol.</p>"
+        },
+        {
             "id": "Bleeding Spines Snare",
             "name": "Bleeding Spines Snare",
             "description": "<p>Quand une créature entre dans la case, des pointes barbelées surgissent pour la transpercer en lui infligeant 8d8 dégâts perforants et 2d8 dégâts de saignement persistants. La créature doit faire un jet de Réflexes basique DD 31. Après le déclenchement initial, les pointes se rétractent et résurgissent pendant 1 minute, ce qui force les créatures qui entrent dans l’espace ou terminent leur tour dans celui-ci à faire un jet de Réflexes contre les dégâts des pointes</p>"
@@ -1950,11 +1955,6 @@
             "id": "Guisarme",
             "name": "Guisarme",
             "description": "<p>cette arme d’hast comporte une longue lame courbe, souvent unilatérale, avec un crochet dépassant du côté émoussé de la lame, permettant ainsi à son porteur d’effectuer à distance un croc-en-jambe à ses adversaires. Sa hampe fait généralement 2,40 m de long.</p>"
-        },
-        {
-            "id": "Wish Blade",
-            "name": "Wish Blade",
-            "description": "<p>Des rainures spécialisées allignées avec des métaux uniques traités alchimiquement et capable de contenir de l'énergie marquent l'entièreté de cette épée. Les premières lames à souhaites proviennet des forgerons génies, et la connaissance de ces armes s'est passée de génération en génération de descendants de génies, leur donnant leur nom de lames à souhaits.</p>"
         },
         {
             "id": "Hemlock",
@@ -2252,6 +2252,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Une flamme vacillante donne à cette arme son pouvoir. L’arme inflige 1d6 dégâts de feu supplémentaires en cas de Frappe réussie, plus 2d10 dégâts de feu persistants en cas de coup critique. </span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"> Les dégâts de feu infligés par cette arme (y compris les dégâts de feu per‑ sistants) ignorent la résistance au feu de la cible.</span></p>"
         },
         {
+            "id": "Rungu",
+            "name": "Rungu",
+            "description": "<p>Ce gourdin spécialisé est conçu pour être lancé et est utile pour le combar et la chasse. Bien que les gripplis ne soient pas à l'origine du rungu, beaucoup de communautés gripplis l'ont adoptée comme arme de choix pour chasser les créatures qui se cachent dans les cîmes.</p>"
+        },
+        {
             "id": "Torch",
             "name": "Torch",
             "description": "<p><span class=\"fontstyle0\">Une torche émet une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà). Elle peut être utilisée comme une arme improvisée, infligeant 1d4 dégâts contondants plus 1 dégât de feu. </span> </p>"
@@ -2335,6 +2340,11 @@
             "id": "Kama",
             "name": "Kama",
             "description": "<p><span class=\"fontstyle0\">Semblable à une faucille et utilisé dans certaines régions pour récolter le grain, le kama possède une lame courte et légèrement incurvée, et un manche en bois. </span> </p>"
+        },
+        {
+            "id": "Buugeng",
+            "name": "Buugeng",
+            "description": "<p>Lame de facture Conrasu, le Buugeng a une forme incurvée unique qui permet à un guerrier entrainé de la faire tourner avec aisance. Ce mouvement en spirale permet d'attaquer plus facilement de multiples adversaires en un coup.</p>"
         },
         {
             "id": "Phylactery of Faithfulness",
@@ -2475,11 +2485,6 @@
             "id": "Healing Potion (Major)",
             "name": "Healing Potion (Major)",
             "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez [[/r 8d8+30]] points de vie. </p>"
-        },
-        {
-            "id": "Fangwire",
-            "name": "Fangwire",
-            "description": "<p>Cette corde Kobold est fine et difficile à repérer, la rendant parfaite pour des embuscades. L'utilisateur enroule la corde autour d'un endroit vulnérable, comme le cou, puis la tord pour infliger des lacérations qui peuvent être fatales. Le nom provient de l'utilisation d'une corde similaire dans des pièges, notamment la \"croc-lente\", mais sans le mot \"lente\", car le Filacroc produit des résultats rapides.</p>"
         },
         {
             "id": "Hand Crossbow",
@@ -2797,14 +2802,14 @@
             "description": "<p>Ces lunettes aux montures de bronze gravées de motifs de flamme sont dotées de verres lourds et épais. Une fois portées, elles vous confèrent un bonus d’objet de +2 aux tests d’Artisanat pour Fabriquer des objets alchimiques et un bonus d’ob‑ jet de +1 aux jets d’attaques avec des bombes alchimiques. Vous pouvez également ignorer les abris partiels quand vous effectuez des Frappes avec des bombes alchimiques.</p>\n<hr />\n<p>effets automatiquement appliqués :</p>\n<ul>\n<li>bonus d'objet de +2 pour Fabriquer des objets alchimiques</li>\n<li>bonus d'objet de +2 pour les jets d'attaque avec les bombes</li>\n</ul>"
         },
         {
+            "id": "Cooperative Blade",
+            "name": "Cooperative Blade",
+            "description": "<p>Cette épée longue de frappe +1 possède une lame ressemblant à un miroir exempt de ternissures, bien qu'elle soit millénaire.\n En la maniant, vous gagnez un bonus d'objet de +2 pour Aider.\n Si vous êtes un expert dans la compétence ou le jet d'attaque que vous utilisez pour aider et que vous obtenez une réussite critique, vous permettez à votre allié de bénéficier un bonus de circonstance de +3 au test déclencheur au lieu d'un bonus de +2.</p>"
+        },
+        {
             "id": "Twining Staff",
             "name": "Twining Staff",
             "description": "<p>Cet objet est un petit disque plat composé de brindilles qui peut grandir et rapetisser.</p>\n<p><strong>Activation</strong><span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Interagir</p>\n<p><strong>Effet</strong>\nVous provoquez la pousse ou la contraction rapide des brindilles pour qu’elles prennent la forme d’un <em>bâton de frappe +1</em>, un <em>bo de frappe +1</em>\nou pour qu’elles reprennent leur forme de disque. Sous sa forme de disque, il a un Encombrement négligeable et il faut le tenir dans une main pour l’activer. Sous ses autres formes, il a le\nmême Encombrement qu’une arme normale de son type. Vous pouvez changer votre prise sur l’objet au cours de l’activation.\n<p>Quand vous faites grandir l’objet, vous pouvez exploiter la poussée de l’agrandissement pour Sauter en hauteur ou pour tenter d’Ouvrir de force une porte ou une chose similaire en calant le disque dans\nune fissure avant de l’activer. Le bâton fait le test d’Athlétisme avec un modificateur de [[/r 1d20+15]].</p>"
-        },
-        {
-            "id": "Rungu",
-            "name": "Rungu",
-            "description": "<p>Ce gourdin spécialisé est conçu pour être lancé et est utile pour le combar et la chasse. Bien que les gripplis ne soient pas à l'origine du rungu, beaucoup de communautés gripplis l'ont adoptée comme arme de choix pour chasser les créatures qui se cachent dans les cîmes.</p>"
         },
         {
             "id": "Scimitar",
@@ -3262,11 +3267,6 @@
             "description": "<p> Cette minuscule dague dentelé ressemble à un sabre dentelé.\n Avant activation, il est trop petit et ornemental pour être utilisé comme une arme, ce qui peut lui permettre de passer pour une décoration en forme d'arme. </p>\n<p> <strong>Activation</strong><span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</p>Interagir </p>\n<p> <strong>Effet</strong>Vous transformez la dague du sommeil éternel en une dague de frappe @Compendium[pf2e.equipment-srd.qUnDHEXteUQGE8yp]{douloureuse} +1 et Frappez une cible inconsciente avec la dague.</p>\n<p> Si vous n'êtes pas dans une rencontre ou menacé et que vous réussissez votre frappe, vous obtenez une réussite critique à la place.\n Les dommages causés par la frappe et le saignement de l'effet de spécialisation critique ne réveillent pas la cible, bien que la cible devienne temporairement immunisée contre cet effet jusqu'à la prochaine fois qu'elle se réveille, ce qui signifie qu'utiliser d'autres dagues du sommeil éternel la réveilleront.\n La dague se désintègre immédiatement après utilisation. </p>"
         },
         {
-            "id": "Adze",
-            "name": "Adze",
-            "description": "<p>Outil de découpe courant, un Adze ressemble à une hache, mais le côté aiguisé est horizontal au lieu d'être vertical. La forme de l'Adze en fait un outil très populaire parmi les travailleurs du bois et les bâtisseurs Grippli en utilisent souvent pour fabriquer leurs maisons arboricoles. Cet outil est aussi efficace comme arme, principalement à cause de l'immense force nécessaire pour l'utiliser./p>"
-        },
-        {
             "id": "Hat of the Magi",
             "name": "Hat of the Magi",
             "description": "<p>Ces couvre‑chefs existent sous de nombreuses formes : ça peut être un turban de couleur ou un chapeau pointu à large bord, sur lesquels sont inscrits des symboles ou des runes. Il vous confère un bonus d’objet de +1 aux tests d’Arcanes et vous permet de lancer le tour de magie prestidigitation comme un sort inné arcanique.</p>"
@@ -3702,6 +3702,11 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Cette rune complexe repousse l’énergie magique, ce qui vous octroie un bonus de statut de +1 aux jets de sauvegarde contre les effets magiques. <br></span></p>\n<p><strong>Activation</strong> <img class=\"actiondark\" style=\"height: 15px; padding: 0px 2px 0px 2px;\" src=\"https://2e.aonprd.com/Images/Actions/Reaction.png\" alt=\"Reaction\"> sur ordre; <strong>Fréquence</strong> 1/jour; <strong>Déclencheur</strong> Vous êtes la cible d’un sort ou vous êtes dans la zone d’un sort; <strong>Effet</strong> L’armure tente de contrer le sort déclencheur en produisant l’effet d’une dissipation de la magie @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic} de niveau 7 avec un modificateur de contre de +26. </p>\n<hr>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong> Fournir une incantation de <em>dissipation de la magie</em>.</span></p>"
         },
         {
+            "id": "Fangwire",
+            "name": "Fangwire",
+            "description": "<p>Cette corde Kobold est fine et difficile à repérer, la rendant parfaite pour des embuscades. L'utilisateur enroule la corde autour d'un endroit vulnérable, comme le cou, puis la tord pour infliger des lacérations qui peuvent être fatales. Le nom provient de l'utilisation d'une corde similaire dans des pièges, notamment la \"croc-lente\", mais sans le mot \"lente\", car le Filacroc produit des résultats rapides.</p>"
+        },
+        {
             "id": "Gold Dragon's Breath Potion (Adult)",
             "name": "Gold Dragon's Breath Potion (Adult)",
             "description": "<p>Ce liquide contient du sang d’un dragon d'or adulte. Pendant 1 heure après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait feu. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte un cône de 4,5 mètres de dégâts de feu. Le souffle d'un dragon d'or adulte inflige 6d6 dégâts de feu et chaque créature dans la zone touchée doit faire un jet de réflexes basique DD 29. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant 1d4 rounds. </p>"
@@ -3915,11 +3920,6 @@
             "id": "Claw Blade",
             "name": "Claw Blade",
             "description": "<p>Les trois lames parallèles de cette arme tenue par la main s'étendent entre les doigts pour ressembler aux griffes naturellees des amurruns qui les ont créées, pour fournir un moyen à ceux des hommes félins dépourvus de griffes naturelles de partager les coutumes martiales de leurs semblables.</p>"
-        },
-        {
-            "id": "Hand Adze",
-            "name": "Hand Adze",
-            "description": "<p>C'est une version plus petite d'un Adze, utile pour le travail du bois précis ou les projets dans des espaces restreints. Les Gripplis utilisent l'Adze de poing pour l'artisanat et comme arme de combat rapproché.</p>"
         },
         {
             "id": "Crafter's Eyepiece (Greater)",
@@ -4312,11 +4312,6 @@
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Un orbe de verre au sommet de ce bâton métallique contient du sable fin et ondoyant. Lorsque vous le maniez, vous bénéficiez d’un bonus de circonstances de +2 aux tests pour identifier la magie de transmutation. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication.s</strong> Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</span></p>\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]{Sigil}</li>\n<li><strong>Niveau 1</strong> @Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]{Fleet Step}, @Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Jump}</li>\n<li><strong>Niveau 2</strong> @Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Enlarge}, @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Humanoid Form}</li>\n<li><strong>Niveau 3</strong> @Compendium[pf2e.spells-srd.RvBlSIJmxiqfCpR9]{Feet to Fins}, @Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Jump}</li>\n<li><strong>Niveau 4</strong> @Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]{Gaseous Form}, @Compendium[pf2e.spells-srd.McnPlLFvKtQVXNcG]{Shape Stone}</li>\n<li><strong>Niveau 5</strong> @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Humanoid Form}</li>\n<li><strong>Niveau 6</strong> @Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Baleful Polymorph}, @Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{Dragon Form}, @Compendium[pf2e.spells-srd.znv4ECL7ZtuiagtA]{Flesh to Stone}</li>\n</ul>"
         },
         {
-            "id": "Taw Launcher",
-            "name": "Taw Launcher",
-            "description": "<p>Conçus par les combattants conrasus, cet objet complexe ressemble à une arbalète et projette des petites balles de bois connues sous le nom de billes de bois. Un système de lames à l'intérieur du lanceur peut rapidement refaçonner une bille de bois au moment de son chargement, permettant au lanceur de lancer des billes de différentes formes, telles que des fléchettes.</p>"
-        },
-        {
             "id": "Dragonslayer's Shield",
             "name": "Dragonslayer's Shield",
             "description": "<p><span>Un <em>bouclier du pourfendeur de dragons</em> est un bouclier en acier recouvert de la peau d’un certain type de dragon, ce qui distingue chaque bouclier des autres. Lorsqu’il est levé, ce bouclier en acier (Solidité 8,32 PV, SR 16) confère son bonus de circonstances aux jets de Réflexes contre les effets de zone (ainsi qu’à la CA, comme à l’accoutumée). <br /></span></p>\n<p><span>Lorsque vous le tenez en main, il vous confère également un bonus de circonstances de +2 aux jets de Volonté contre le pouvoir présence terrifiante d’un dragon. Le bouclier a une résistance 10 contre le type de dégâts associé à celui du dragon dont la peau a été utilisée pour sa fabrication. Cette résistance s’applique après réduction des dégâts due à la Solidité. Ainsi, quand vous utilisez Blocage au bouclier, le <em>bouclier du pourfendeur de dragons</em> subit 18 dégâts de moins des attaques infligeant ce type de dégâts. Vous pouvez utiliser Blocage au bouclier contre les attaques qui infligent des dégâts de ce type.</span></p>\n<table style=\"user-select: text; width: 368px; color: #191813; font-family: Roboto, system, -apple-system, sans-serif; font-size: 13px; height: 134px;\" border=\"1\">\n<tbody style=\"box-sizing: border-box; user-select: text;\">\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 116px; text-align: center; background-color: #522e2c; height: 17px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Type de dragon</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; color: white; width: 251px; text-align: center; background-color: #522e2c; height: 17px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Résistance</strong></td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 17px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; height: 17px; text-align: center;\">Airain, or ou rouge<br style=\"box-sizing: border-box; user-select: text;\"><span id=\"ctl00_MainContent_DetailedOutput\" style=\"box-sizing: border-box; user-select: text; display: block;\"></span></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; height: 17px; text-align: center;\">Feu</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 20px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 116px; background-color: #eee5c8; text-align: center; height: 20px;\">Argent ou blanc</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 251px; background-color: #eee5c8; text-align: center; height: 20px;\">Froid</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 20px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; text-align: center; height: 20px;\">Bleu ou bronze</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; text-align: center; height: 20px;\">Électricité</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 20px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 116px; background-color: #eee5c8; text-align: center; height: 20px;\">Noir ou cuivre</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 251px; background-color: #eee5c8; text-align: center; height: 20px;\">Acide</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 20px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; text-align: center; height: 20px;\">Vert</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; text-align: center; height: 20px;\"><span>Poison<br style=\"box-sizing: border-box; user-select: text;\"></td>\n</tr>\n</tbody>\n</table>"
@@ -4347,9 +4342,9 @@
             "description": "<p><span>Cette balance de marchand dorée immaculée est considérée comme un instrument divin parmi les fidèles les plus croyants d'Abadar. Contrairement à la plupart des balances, celle-ci n'a qu'un unique plateau pour placer de petits objets et calculer leur valeur plutôt que leur poids. de l'autre côté de l'aiguille, une flèche d'acier indique de sa pointe plusieurs nombres gravés sur le côté de la balance. En plaçant un object d'Encombrement léger sur le plateau, vous pouvez déterminer sa valeur en pièces d'or sur le marché pour lequel la balance a été faite (la plupart de ces balances sont fabriquées au Katapesh ou à Absalom), en fonction de sa composition et de la qualité de sa fabrication. Par example, après avoir placé une gemme sur le plateau, la balance indiquera le prix convenable (prix moyen, dans la plupart des cas) que vous pouvez attendre d'en tirer sur le marché auquel la balance est calibrée mais la balance ne pourra jamais prendre en compte son éventuelle signification historique ou ses propriétés magiques. <em>La balance sans défaut d'Abadar</em> peut être recalibrée sur un marché différent en accomplissant un rituel d'une heure à proximité de ce marché.&nbsp;</span></p>"
         },
         {
-            "id": "Tricky Pick",
-            "name": "Tricky Pick",
-            "description": "<p>Cette ingénieuse pioche Kobold cache plusieurs pièges, que l'utilisateur peut activer pour tromper et embrouiller ses adversaires avec une variété de lames pernicieuses et de surfaces contondantes.</p>"
+            "id": "Wish Blade",
+            "name": "Wish Blade",
+            "description": "<p>Des rainures spécialisées allignées avec des métaux uniques traités alchimiquement et capable de contenir de l'énergie marquent l'entièreté de cette épée. Les premières lames à souhaites proviennet des forgerons génies, et la connaissance de ces armes s'est passée de génération en génération de descendants de génies, leur donnant leur nom de lames à souhaits.</p>"
         },
         {
             "id": "Bladed Hoop",
@@ -4730,11 +4725,6 @@
             "id": "Golden Legion Epaulet",
             "name": "Golden Legion Epaulet",
             "description": "<p>Ces épaulettes dorées étincelantes sont remises aux officiers des chevaliers de l’Aigle et font partie de leur uniforme. Même si elle peut être enchantée pour procurer une certaine variété d’effets, l’épaulette de la Légion dorée demeure la plus commune</p>\n<p><span><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> (sur ordre)</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Effet</strong> Vous, et tout allié à moins de 18 m qui suit l’ordre, gagnez un bonus de statut de +1 à vos jets d’attaque,\nvos jets de dégâts et vos jets de sauvegarde contre la peur jusqu’au début de votre prochain tour.</p>\n<p>@Compendium[pf2e.spell-effects.bP40jr6wE6MCsRvY]{Effet: Épaulette de la Légion dorée}</p>"
-        },
-        {
-            "id": "Boarding Axe",
-            "name": "Boarding Axe",
-            "description": "<p>Cette petite hache comporte une pointe à l'opposé de la lame qui aide pour grimper et qui est très utile pour éliminer des obstacles, comme des grééements tombés au sol.</p>"
         },
         {
             "id": "Crying Angel Pendant",
@@ -5392,6 +5382,11 @@
             "description": ""
         },
         {
+            "id": "Wooden Taws",
+            "name": "Wooden Taws",
+            "description": "<p>Billes de bois qui sont lancés par un Lanceur de billes.</p>"
+        },
+        {
             "id": "Holy Prayer Beads",
             "name": "Holy Prayer Beads",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Ce chapelet à l’air ordinaire se met à luire et tiédit au toucher lorsque vous lancez un sort divin en le tenant pour la première fois. Il s’harmonise alors avec votre divinité, changeant de forme et d’iconographie pour afficher les symboles religieux et l’iconographie de celle‑ci. Le chapelet ne se transforme pas et ne fonctionne pas avec un lanceur de sorts mauvais. <br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Lorsque vous lancez un sort divin issu de l’un de vos emplacements de sort en tenant le chapelet, vous récupérez 1 PV. C’est un effet d’énergie positive. Si le sort que vous avez lancé est un sort de guéri‑ son, vous pouvez accorder cet effet de guérison supplémentaire à l’un des bénéficiaires du sort au lieu de vous.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong>  Lancer un sort <strong>Effet</strong> lance bénédiction ou guérison chacun une fois par jour.  @Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bless} - @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Conditions de fabrication</strong>  Vous avez la capacité de classe incantation de la tradition divine.</span></p>"
@@ -5445,11 +5440,6 @@
             "id": "Crystal dinner set, fine silverware",
             "name": "Crystal dinner set, fine silverware",
             "description": ""
-        },
-        {
-            "id": "Buugeng",
-            "name": "Buugeng",
-            "description": "<p>Lame de facture Conrasu, le Buugeng a une forme incurvée unique qui permet à un guerrier entrainé de la faire tourner avec aisance. Ce mouvement en spirale permet d'attaquer plus facilement de multiples adversaires en un coup.</p>"
         },
         {
             "id": "Keen",
@@ -5580,11 +5570,6 @@
             "id": "Mithral Shield (High-Grade)",
             "name": "Mithral Shield (High-Grade)",
             "description": "<p><span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.</span></p>\n<p><span>Le bouclier a une solidité de 8, 32 PV et un SR de 16.<br /><strong>Conditions de fabrication</strong> au moins 4 400 po de mithral</span></p>"
-        },
-        {
-            "id": "Wooden Taws",
-            "name": "Wooden Taws",
-            "description": "<p>Billes de bois qui sont lancés par un Lanceur de billes.</p>"
         },
         {
             "id": "Bag of Holding (Type I)",
@@ -5752,6 +5737,11 @@
             "description": "<p>Cette grande hache d’armes est trop lourde pour pouvoir être maniée d’une seule main. Beaucoup de grandes haches comprennent deux lames et sont souvent « barbues », avec un crochet au bout pour augmenter la force de leur pouvoir tranchant. </p>"
         },
         {
+            "id": "Taw Launcher",
+            "name": "Taw Launcher",
+            "description": "<p>Conçus par les combattants conrasus, cet objet complexe ressemble à une arbalète et projette des petites balles de bois connues sous le nom de billes de bois. Un système de lames à l'intérieur du lanceur peut rapidement refaçonner une bille de bois au moment de son chargement, permettant au lanceur de lancer des billes de différentes formes, telles que des fléchettes.</p>"
+        },
+        {
             "id": "Chain (10 feet)",
             "name": "Chain (10 feet)",
             "description": "<p>3m de chaînes.</p>"
@@ -5795,6 +5785,11 @@
             "id": "Clothing (Fine)",
             "name": "Clothing (Fine)",
             "description": "<p>Les beaux vêtements, qui conviennent aux nobles et aux membres des familles royales, sont fabriqués dans des tissus coûteux, accompagnés de métaux précieux et de motifs complexes.</p>\n<p> Vous gagnez un bonus de +1 aux tests de @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire impression} à la noblesse ou autres personnes des classes supérieures lorsque vous portez de beaux vêtements confectionnés en haute couture.</p>"
+        },
+        {
+            "id": "Adze",
+            "name": "Adze",
+            "description": "<p>Outil de découpe courant, un Adze ressemble à une hache, mais le côté aiguisé est horizontal au lieu d'être vertical. La forme de l'Adze en fait un outil très populaire parmi les travailleurs du bois et les bâtisseurs Grippli en utilisent souvent pour fabriquer leurs maisons arboricoles. Cet outil est aussi efficace comme arme, principalement à cause de l'immense force nécessaire pour l'utiliser./p>"
         },
         {
             "id": "Aeon Stone (Gold Nodule)",
@@ -5912,6 +5907,11 @@
             "description": "<p><strong>Activation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">A</span> Escalader</p>\n<p><span>Cette petite épingle en laiton a la forme d'un singe grimpant à un arbre. Lorsque vous activez ce talisman, utilisez une action @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader}. Si vous y parvenez, vous déplacez toute votre vitesse pendant l'ascension. Si vous obtenez un échec critique, vous obtenez un échec à la place.<br></span></p>\n<p><span><strong>Prérequis</strong> Vous êtes formé en athlétisme</span></p>"
         },
         {
+            "id": "Hand Adze",
+            "name": "Hand Adze",
+            "description": "<p>C'est une version plus petite d'un Adze, utile pour le travail du bois précis ou les projets dans des espaces restreints. Les Gripplis utilisent l'Adze de poing pour l'artisanat et comme arme de combat rapproché.</p>"
+        },
+        {
             "id": "Talisman Cord",
             "name": "Talisman Cord",
             "description": "<p>Cette fine corde de cuir porte de délicates marques runiques et se faufile à travers un objet pouvant porter des talismans apposés.</p>\n<p>Lorsque vous fixez un talisman à cet objet, vous pouvez l'enfiler sur le cordon, ce qui active les effets de préservation du cordon. Le cordon est accordé à deux écoles de magie particulières, choisies lors de la création du cordon. Il acquiert le trait correspondant à cette école. Lorsque vous activez un talisman enfilé sur un cordon ayant le même trait d'école magique que celui du cordon ou un trait inférieur, essayez de faire un test DC 16 à plat. En cas de succès, ce talisman n'est pas consommé et peut être réutilisé.</p>"
@@ -5965,6 +5965,11 @@
             "id": "Animal Staff (Major)",
             "name": "Animal Staff (Major)",
             "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">L’extrémité supérieure de ce bâton est gravée de têtes de monstres et d’animaux. Lorsque vous le maniez, vous bénéficiez d’un bonus de circonstances de +2 aux tests de Nature pour identifier des animaux<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Activation</strong> Lancer un sort; <strong>Effet</strong> You expend a number of charges from the staff to cast a spell from its list.<br></span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\"><strong>Craft Requirements</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.</span></p>\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.tXa5vOu5giBNCjdR]{repérage} </li>\n<li><strong>Niveau 1&nbsp;</strong> @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{convocation d’animal}, @Compendium[pf2e.spells-srd.EE7Q5BHIrfWNCPtT]{morsure magique}</li>\n<li><strong>Niveau 2</strong> @Compendium[pf2e.spells-srd.BBvV7qoXGdw09q1C]{communication avec les animaux}, @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{convocation d’animal}, @Compendium[pf2e.spells-srd.yhz9fF69uwRhnHix]{messager animal}</li>\n<li><strong>Niveau 3</strong> @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{convocation d’animal}, @Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]{forme animale} </li>\n<li><strong>Niveau 4</strong> @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{convocation d’animal}</li>\n<li><strong>Niveau 5</strong> @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{convocation d’animal}, @Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]{forme animale}, @Compendium[pf2e.spells-srd.YtesyvfAIwXOqISq]{frénésie lunaire}</li>\n</ul>"
+        },
+        {
+            "id": "Tricky Pick",
+            "name": "Tricky Pick",
+            "description": "<p>Cette ingénieuse pioche Kobold cache plusieurs pièges, que l'utilisateur peut activer pour tromper et embrouiller ses adversaires avec une variété de lames pernicieuses et de surfaces contondantes.</p>"
         },
         {
             "id": "Orb of Dragonkind",
@@ -6100,11 +6105,6 @@
             "id": "Murderer's Knot",
             "name": "Murderer's Knot",
             "description": "<p><strong>Activatation</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">F</span> Sur ordre</p>\n<p><span>Ce lien de cuir noir est noué de manière à ressembler à un nœud de paix lorsque l’arme est au fourreau, mais il n’empêche pas de la tirer. Lorsque vous activez le nœud, la créature que vous blessez subit 1d6 dégâts de saignement persistants.<br></span></p>\n<p><span>Si vous possédez le don @Compendium[pf2e.feats-srd.5Jc2ySGLVi053qpz]{Remuer le couteau}, le talisman inflige à la place des dégâts de saignement persistants égaux à vos dégâts d’attaque sournoise.<br></span></p>\n<p><span><strong>Déclencheur</strong> Vous blessez une créature prise au dépourvu avec une Frappe de l’arme support ; <strong>Conditions</strong> Vous êtes expert avec l’arme support.</span></p>"
-        },
-        {
-            "id": "Cooperative Blade",
-            "name": "Cooperative Blade",
-            "description": "<p>Cette épée longue de frappe +1 possède une lame ressemblant à un miroir exempt de ternissures, bien qu'elle soit millénaire.\n En la maniant, vous gagnez un bonus d'objet de +2 pour Aider.\n Si vous êtes un expert dans la compétence ou le jet d'attaque que vous utilisez pour aider et que vous obtenez une réussite critique, vous permettez à votre allié de bénéficier un bonus de circonstance de +3 au test déclencheur au lieu d'un bonus de +2.</p>"
         },
         {
             "id": "Decanter of Endless Water",
