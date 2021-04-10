@@ -11,7 +11,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
-|-----------|-------------|-------------|:----:|
+|-----------|-------------|:----:|
 |[01-0gv9D5RlrF5cKA3I.htm](spell-effects/01-0gv9D5RlrF5cKA3I.htm)|Spell Effect: Adapt Self (Darkvision)|auto-trad|
 |[01-0R42NyuEZMVALjQs.htm](spell-effects/01-0R42NyuEZMVALjQs.htm)|Spell Effect: Traveler's Transit (Swim)|auto-trad|
 |[01-2SWUzp4JuNK5EX0J.htm](spell-effects/01-2SWUzp4JuNK5EX0J.htm)|Spell Effect: Adapt Self (Swim)|auto-trad|

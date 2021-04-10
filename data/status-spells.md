@@ -12,7 +12,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
-|-----------|-------------|-------------|:----:|
+|-----------|-------------|:----:|
 |[con-01-D8cWhrzcsd43OlIX.htm](spells/con-01-D8cWhrzcsd43OlIX.htm)|Div Pact|auto-trad|
 |[con-03-u3G7KX1qpFJlSeWm.htm](spells/con-03-u3G7KX1qpFJlSeWm.htm)|Owb Pact|auto-trad|
 |[div-05-zaZieDHguhahmM2z.htm](spells/div-05-zaZieDHguhahmM2z.htm)|Waters of Prediction|auto-trad|

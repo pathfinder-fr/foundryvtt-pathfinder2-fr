@@ -10,7 +10,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
-|-----------|-------------|-------------|:----:|
+|-----------|-------------|:----:|
 |[0CqkYRFUlb0tB9li.htm](pathfinder-society-boons/0CqkYRFUlb0tB9li.htm)|S1-23 - Seasoned Diplomat|auto-trad|
 |[0FwLrQb5EeQDAUNW.htm](pathfinder-society-boons/0FwLrQb5EeQDAUNW.htm)|Naturalist|auto-trad|
 |[0izXWwYqRGQq74mG.htm](pathfinder-society-boons/0izXWwYqRGQq74mG.htm)|S1-07 - Blast from the Past|auto-trad|
