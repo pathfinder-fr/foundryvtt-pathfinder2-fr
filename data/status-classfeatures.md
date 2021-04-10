@@ -3,34 +3,34 @@
  * **officielle**: 74
  * **changé**: 226
  * **libre**: 50
- * **aucune**: 18
+ * **auto-trad**: 18
 
 
-Dernière mise à jour: 2021-04-08 23:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-09 20:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
+## Liste des traductions automatiques à corriger/retraduire
 
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[cleric-01-aiwxBj5MjnafCMyn.htm](classfeatures/cleric-01-aiwxBj5MjnafCMyn.htm)|First Doctrine (Cloistered Cleric)|
-|[cleric-01-Qejo7FUWQtPTpgWH.htm](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)|First Doctrine|
-|[cleric-01-xxkszluN9icAiTO4.htm](classfeatures/cleric-01-xxkszluN9icAiTO4.htm)|First Doctrine (Warpriest)|
-|[cleric-03-D34mPo29r1J3DPaX.htm](classfeatures/cleric-03-D34mPo29r1J3DPaX.htm)|Second Doctrine (Warpriest)|
-|[cleric-03-OnfrrwCfDFCFw0tc.htm](classfeatures/cleric-03-OnfrrwCfDFCFw0tc.htm)|Second Doctrine|
-|[cleric-03-sa7BWfnyCswAvBVa.htm](classfeatures/cleric-03-sa7BWfnyCswAvBVa.htm)|Second Doctrine (Cloistered Cleric)|
-|[cleric-07-gxNxfN9OBlQ1icus.htm](classfeatures/cleric-07-gxNxfN9OBlQ1icus.htm)|Third Doctrine|
-|[cleric-07-s8WEmc4GGZSHSC7q.htm](classfeatures/cleric-07-s8WEmc4GGZSHSC7q.htm)|Third Doctrine (Cloistered Cleric)|
-|[cleric-07-Zp81uTBItG1xlH4O.htm](classfeatures/cleric-07-Zp81uTBItG1xlH4O.htm)|Third Doctrine (Warpriest)|
-|[cleric-11-o8nHreMyiLi64rZz.htm](classfeatures/cleric-11-o8nHreMyiLi64rZz.htm)|Fourth Doctrine|
-|[cleric-11-px3gVYp7zlEQIpcl.htm](classfeatures/cleric-11-px3gVYp7zlEQIpcl.htm)|Fourth Doctrine (Warpriest)|
-|[cleric-11-vxOf4LXZcqUG3P7a.htm](classfeatures/cleric-11-vxOf4LXZcqUG3P7a.htm)|Fourth Doctrine (Cloistered Cleric)|
-|[cleric-15-kmimy4VOaoEOgOiQ.htm](classfeatures/cleric-15-kmimy4VOaoEOgOiQ.htm)|Fifth Doctrine (Warpriest)|
-|[cleric-15-N1ugDqZlslxbp3Uy.htm](classfeatures/cleric-15-N1ugDqZlslxbp3Uy.htm)|Final Doctrine (Warpriest)|
-|[cleric-15-n9W8MjjRgPpUTvWf.htm](classfeatures/cleric-15-n9W8MjjRgPpUTvWf.htm)|Fifth Doctrine (Cloistered Cleric)|
-|[cleric-15-Zb7DuGbFoLEp0H1K.htm](classfeatures/cleric-15-Zb7DuGbFoLEp0H1K.htm)|Fifth Doctrine|
-|[cleric-19-DgGefatQ4v6xT6f9.htm](classfeatures/cleric-19-DgGefatQ4v6xT6f9.htm)|Final Doctrine (Cloistered Cleric)|
-|[cleric-19-urBGOPrUwBmkixAo.htm](classfeatures/cleric-19-urBGOPrUwBmkixAo.htm)|Final Doctrine|
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|-------------|:----:|
+|[cleric-01-aiwxBj5MjnafCMyn.htm](classfeatures/cleric-01-aiwxBj5MjnafCMyn.htm)|First Doctrine (Cloistered Cleric)|auto-trad|
+|[cleric-01-Qejo7FUWQtPTpgWH.htm](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)|First Doctrine|auto-trad|
+|[cleric-01-xxkszluN9icAiTO4.htm](classfeatures/cleric-01-xxkszluN9icAiTO4.htm)|First Doctrine (Warpriest)|auto-trad|
+|[cleric-03-D34mPo29r1J3DPaX.htm](classfeatures/cleric-03-D34mPo29r1J3DPaX.htm)|Second Doctrine (Warpriest)|auto-trad|
+|[cleric-03-OnfrrwCfDFCFw0tc.htm](classfeatures/cleric-03-OnfrrwCfDFCFw0tc.htm)|Second Doctrine|auto-trad|
+|[cleric-03-sa7BWfnyCswAvBVa.htm](classfeatures/cleric-03-sa7BWfnyCswAvBVa.htm)|Second Doctrine (Cloistered Cleric)|auto-trad|
+|[cleric-07-gxNxfN9OBlQ1icus.htm](classfeatures/cleric-07-gxNxfN9OBlQ1icus.htm)|Third Doctrine|auto-trad|
+|[cleric-07-s8WEmc4GGZSHSC7q.htm](classfeatures/cleric-07-s8WEmc4GGZSHSC7q.htm)|Third Doctrine (Cloistered Cleric)|auto-trad|
+|[cleric-07-Zp81uTBItG1xlH4O.htm](classfeatures/cleric-07-Zp81uTBItG1xlH4O.htm)|Third Doctrine (Warpriest)|auto-trad|
+|[cleric-11-o8nHreMyiLi64rZz.htm](classfeatures/cleric-11-o8nHreMyiLi64rZz.htm)|Fourth Doctrine|auto-trad|
+|[cleric-11-px3gVYp7zlEQIpcl.htm](classfeatures/cleric-11-px3gVYp7zlEQIpcl.htm)|Fourth Doctrine (Warpriest)|auto-trad|
+|[cleric-11-vxOf4LXZcqUG3P7a.htm](classfeatures/cleric-11-vxOf4LXZcqUG3P7a.htm)|Fourth Doctrine (Cloistered Cleric)|auto-trad|
+|[cleric-15-kmimy4VOaoEOgOiQ.htm](classfeatures/cleric-15-kmimy4VOaoEOgOiQ.htm)|Fifth Doctrine (Warpriest)|auto-trad|
+|[cleric-15-N1ugDqZlslxbp3Uy.htm](classfeatures/cleric-15-N1ugDqZlslxbp3Uy.htm)|Final Doctrine (Warpriest)|auto-trad|
+|[cleric-15-n9W8MjjRgPpUTvWf.htm](classfeatures/cleric-15-n9W8MjjRgPpUTvWf.htm)|Fifth Doctrine (Cloistered Cleric)|auto-trad|
+|[cleric-15-Zb7DuGbFoLEp0H1K.htm](classfeatures/cleric-15-Zb7DuGbFoLEp0H1K.htm)|Fifth Doctrine|auto-trad|
+|[cleric-19-DgGefatQ4v6xT6f9.htm](classfeatures/cleric-19-DgGefatQ4v6xT6f9.htm)|Final Doctrine (Cloistered Cleric)|auto-trad|
+|[cleric-19-urBGOPrUwBmkixAo.htm](classfeatures/cleric-19-urBGOPrUwBmkixAo.htm)|Final Doctrine|auto-trad|
 
 ## Liste des traductions complétés
 

@@ -1,24 +1,24 @@
 # État de la traduction (archetypes)
 
- * **aucune**: 6
+ * **auto-trad**: 6
  * **libre**: 8
  * **changé**: 61
  * **officielle**: 2
 
 
-Dernière mise à jour: 2021-04-08 23:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-09 20:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
+## Liste des traductions automatiques à corriger/retraduire
 
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[25NJcH5SkWh1Tol7.htm](archetypes/25NJcH5SkWh1Tol7.htm)|Spellmaster|
-|[2eAiIynDWTMKTGDU.htm](archetypes/2eAiIynDWTMKTGDU.htm)|Scrollmaster|
-|[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|
-|[gw4J1pXYED71TPWx.htm](archetypes/gw4J1pXYED71TPWx.htm)|Bellflower Tiller|
-|[IdhIKSuKueYt6RsQ.htm](archetypes/IdhIKSuKueYt6RsQ.htm)|Eldritch Researcher|
-|[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|-------------|:----:|
+|[25NJcH5SkWh1Tol7.htm](archetypes/25NJcH5SkWh1Tol7.htm)|Spellmaster|auto-trad|
+|[2eAiIynDWTMKTGDU.htm](archetypes/2eAiIynDWTMKTGDU.htm)|Scrollmaster|auto-trad|
+|[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|auto-trad|
+|[gw4J1pXYED71TPWx.htm](archetypes/gw4J1pXYED71TPWx.htm)|Bellflower Tiller|auto-trad|
+|[IdhIKSuKueYt6RsQ.htm](archetypes/IdhIKSuKueYt6RsQ.htm)|Eldritch Researcher|auto-trad|
+|[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|auto-trad|
 
 ## Liste des traductions complétés
 

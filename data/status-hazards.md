@@ -1,21 +1,21 @@
 # État de la traduction (hazards)
 
- * **aucune**: 4
+ * **auto-trad**: 4
  * **officielle**: 30
  * **libre**: 16
 
 
-Dernière mise à jour: 2021-04-08 23:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-09 20:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
+## Liste des traductions automatiques à corriger/retraduire
 
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[0dg9YrjsDi6Ap3jF.htm](hazards/0dg9YrjsDi6Ap3jF.htm)|Web Lurker Deadfall|
-|[1egK7HFAFdHxMS9N.htm](hazards/1egK7HFAFdHxMS9N.htm)|Sportlebore|
-|[Or0jjL8xS3GyiMq0.htm](hazards/Or0jjL8xS3GyiMq0.htm)|Web Lurker Noose|
-|[wHUIZ5QhG37cRzSV.htm](hazards/wHUIZ5QhG37cRzSV.htm)|Gravehall Trap|
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|-------------|:----:|
+|[0dg9YrjsDi6Ap3jF.htm](hazards/0dg9YrjsDi6Ap3jF.htm)|Web Lurker Deadfall|auto-trad|
+|[1egK7HFAFdHxMS9N.htm](hazards/1egK7HFAFdHxMS9N.htm)|Sportlebore|auto-trad|
+|[Or0jjL8xS3GyiMq0.htm](hazards/Or0jjL8xS3GyiMq0.htm)|Web Lurker Noose|auto-trad|
+|[wHUIZ5QhG37cRzSV.htm](hazards/wHUIZ5QhG37cRzSV.htm)|Gravehall Trap|auto-trad|
 
 ## Liste des traductions complétés
 

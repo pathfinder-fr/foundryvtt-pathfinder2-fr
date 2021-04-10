@@ -3,17 +3,17 @@
  * **libre**: 5
  * **officielle**: 15
  * **changé**: 26
- * **aucune**: 1
+ * **auto-trad**: 1
 
 
-Dernière mise à jour: 2021-04-08 23:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-09 20:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
+## Liste des traductions automatiques à corriger/retraduire
 
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[RJbI07QSiYp0SF9A.htm](bestiary-ability-glossary-srd/RJbI07QSiYp0SF9A.htm)|Troop Defenses|
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|-------------|:----:|
+|[RJbI07QSiYp0SF9A.htm](bestiary-ability-glossary-srd/RJbI07QSiYp0SF9A.htm)|Troop Defenses|auto-trad|
 
 ## Liste des traductions complétés
 
