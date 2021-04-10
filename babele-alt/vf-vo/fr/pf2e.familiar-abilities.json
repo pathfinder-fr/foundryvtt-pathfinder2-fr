@@ -137,8 +137,8 @@
             "description": "<p>Votre familier peut changer de forme par une unique action, se transformant en un humanoïde de votre héritage avec le même âge, le même genre et la même constitution que celle de sa véritable forme, bien qu'il présente toujours un reste surnaturel évident de sa nature, comme des yeux de chat ou une langue de serpent. Cette forme est toujours la même chaque fois qu'il utilise cette capacité. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Forme humanoïde}, sauf que le changement est purement cosmétique. Il apparaît seulement comme humanoïde mais ne gagne aucune capacité nouvelle. Votre familier doit avoir les capacités @Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]{dextérité manuelle} et @Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]{parole} pour pouvoir sélectionner cette capacité.</p>"
         },
         {
-            "id": "Verdant Belt",
-            "name": "Explosion verdoyante (Verdant Belt)",
+            "id": "Verdant Burst",
+            "name": "Explosion verdoyante (Verdant Burst)",
             "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<p>Lorsque votre familier meurt, il relâche son énergie primordiale pour lancer la version de @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} à trois actions, intensifié à un niveau de 1 inférieur à votre plus haut emplacement de sort. Le sort <em>Guérison</em> obtient aussi un bonus de statut égal à deux fois le niveau de sort au nombre de Points de vie qu'il redonne aux plantes. Vous devez être capable de lancer les sorts de niveau 2 en utilisant des emplacements de sort pour choisir cette aptitude de familier.</p>"
         },
         {

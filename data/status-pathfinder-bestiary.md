@@ -1,33 +1,33 @@
 # État de la traduction (pathfinder-bestiary)
 
  * **changé**: 405
- * **aucune**: 16
+ * **auto-trad**: 16
  * **officielle**: 7
 
 
-Dernière mise à jour: 2021-04-08 23:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-10 08:57 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
+## Liste des traductions automatiques à corriger/retraduire
 
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[7EpLGBoddL8Vzlha.htm](pathfinder-bestiary/7EpLGBoddL8Vzlha.htm)|Soulbound Doll (Chaotic Evil)|
-|[7ptWlh4t6oHvYOcj.htm](pathfinder-bestiary/7ptWlh4t6oHvYOcj.htm)|Soulbound Doll (Neutral Evil)|
-|[cXSTuUJct5iepH75.htm](pathfinder-bestiary/cXSTuUJct5iepH75.htm)|Pridespawn|
-|[iF5NeHC6ReqXLFmY.htm](pathfinder-bestiary/iF5NeHC6ReqXLFmY.htm)|Soulbound Doll (Neutral Good)|
-|[j0gCguJx3ILB1j9o.htm](pathfinder-bestiary/j0gCguJx3ILB1j9o.htm)|Soulbound Doll (Chaotic Good)|
-|[Pl3J94dvVY159G64.htm](pathfinder-bestiary/Pl3J94dvVY159G64.htm)|Soulbound Doll (True Neutral)|
-|[pMoAlNjMJ7DArLPh.htm](pathfinder-bestiary/pMoAlNjMJ7DArLPh.htm)|Wrathspawn|
-|[q3LrTrfnCvoUXuRz.htm](pathfinder-bestiary/q3LrTrfnCvoUXuRz.htm)|Slothspawn|
-|[QGTSPki2eoLuavif.htm](pathfinder-bestiary/QGTSPki2eoLuavif.htm)|Envyspawn|
-|[RAjbVzWcfrPBbgkK.htm](pathfinder-bestiary/RAjbVzWcfrPBbgkK.htm)|Soulbound Doll (Lawful Good)|
-|[RizAUQHtPy0YRUyt.htm](pathfinder-bestiary/RizAUQHtPy0YRUyt.htm)|Soulbound Doll (Lawful Evil)|
-|[rJgUpdXBCMBrsJFf.htm](pathfinder-bestiary/rJgUpdXBCMBrsJFf.htm)|Soulbound Doll (Lawful Neutral)|
-|[triuze3NMe4kWpdS.htm](pathfinder-bestiary/triuze3NMe4kWpdS.htm)|Gluttonyspawn|
-|[w20FfmKH7ukghczT.htm](pathfinder-bestiary/w20FfmKH7ukghczT.htm)|Greedspawn|
-|[X03lxGz9ELv8rG2w.htm](pathfinder-bestiary/X03lxGz9ELv8rG2w.htm)|Soulbound Doll (Chaotic Neutral)|
-|[x8ZWNcFOfpJYjXOw.htm](pathfinder-bestiary/x8ZWNcFOfpJYjXOw.htm)|Lustspawn|
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|:----:|
+|[7EpLGBoddL8Vzlha.htm](pathfinder-bestiary/7EpLGBoddL8Vzlha.htm)|Soulbound Doll (Chaotic Evil)|auto-trad|
+|[7ptWlh4t6oHvYOcj.htm](pathfinder-bestiary/7ptWlh4t6oHvYOcj.htm)|Soulbound Doll (Neutral Evil)|auto-trad|
+|[cXSTuUJct5iepH75.htm](pathfinder-bestiary/cXSTuUJct5iepH75.htm)|Pridespawn|auto-trad|
+|[iF5NeHC6ReqXLFmY.htm](pathfinder-bestiary/iF5NeHC6ReqXLFmY.htm)|Soulbound Doll (Neutral Good)|auto-trad|
+|[j0gCguJx3ILB1j9o.htm](pathfinder-bestiary/j0gCguJx3ILB1j9o.htm)|Soulbound Doll (Chaotic Good)|auto-trad|
+|[Pl3J94dvVY159G64.htm](pathfinder-bestiary/Pl3J94dvVY159G64.htm)|Soulbound Doll (True Neutral)|auto-trad|
+|[pMoAlNjMJ7DArLPh.htm](pathfinder-bestiary/pMoAlNjMJ7DArLPh.htm)|Wrathspawn|auto-trad|
+|[q3LrTrfnCvoUXuRz.htm](pathfinder-bestiary/q3LrTrfnCvoUXuRz.htm)|Slothspawn|auto-trad|
+|[QGTSPki2eoLuavif.htm](pathfinder-bestiary/QGTSPki2eoLuavif.htm)|Envyspawn|auto-trad|
+|[RAjbVzWcfrPBbgkK.htm](pathfinder-bestiary/RAjbVzWcfrPBbgkK.htm)|Soulbound Doll (Lawful Good)|auto-trad|
+|[RizAUQHtPy0YRUyt.htm](pathfinder-bestiary/RizAUQHtPy0YRUyt.htm)|Soulbound Doll (Lawful Evil)|auto-trad|
+|[rJgUpdXBCMBrsJFf.htm](pathfinder-bestiary/rJgUpdXBCMBrsJFf.htm)|Soulbound Doll (Lawful Neutral)|auto-trad|
+|[triuze3NMe4kWpdS.htm](pathfinder-bestiary/triuze3NMe4kWpdS.htm)|Gluttonyspawn|auto-trad|
+|[w20FfmKH7ukghczT.htm](pathfinder-bestiary/w20FfmKH7ukghczT.htm)|Greedspawn|auto-trad|
+|[X03lxGz9ELv8rG2w.htm](pathfinder-bestiary/X03lxGz9ELv8rG2w.htm)|Soulbound Doll (Chaotic Neutral)|auto-trad|
+|[x8ZWNcFOfpJYjXOw.htm](pathfinder-bestiary/x8ZWNcFOfpJYjXOw.htm)|Lustspawn|auto-trad|
 
 ## Liste des traductions complétés
 

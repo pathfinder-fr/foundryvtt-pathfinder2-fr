@@ -1,29 +1,29 @@
 # État de la traduction (archetypes)
 
- * **aucune**: 6
- * **libre**: 8
- * **changé**: 61
+ * **auto-trad**: 5
+ * **changé**: 66
+ * **libre**: 4
  * **officielle**: 2
 
 
-Dernière mise à jour: 2021-04-08 23:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-10 08:57 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
+## Liste des traductions automatiques à corriger/retraduire
 
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[25NJcH5SkWh1Tol7.htm](archetypes/25NJcH5SkWh1Tol7.htm)|Spellmaster|
-|[2eAiIynDWTMKTGDU.htm](archetypes/2eAiIynDWTMKTGDU.htm)|Scrollmaster|
-|[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|
-|[gw4J1pXYED71TPWx.htm](archetypes/gw4J1pXYED71TPWx.htm)|Bellflower Tiller|
-|[IdhIKSuKueYt6RsQ.htm](archetypes/IdhIKSuKueYt6RsQ.htm)|Eldritch Researcher|
-|[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|:----:|
+|[25NJcH5SkWh1Tol7.htm](archetypes/25NJcH5SkWh1Tol7.htm)|Spellmaster|auto-trad|
+|[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|auto-trad|
+|[gw4J1pXYED71TPWx.htm](archetypes/gw4J1pXYED71TPWx.htm)|Bellflower Tiller|auto-trad|
+|[IdhIKSuKueYt6RsQ.htm](archetypes/IdhIKSuKueYt6RsQ.htm)|Eldritch Researcher|auto-trad|
+|[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|auto-trad|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[2eAiIynDWTMKTGDU.htm](archetypes/2eAiIynDWTMKTGDU.htm)|Scrollmaster|Maître des parchemins|changé|
 |[2TRqXfTtfMhTSIDY.htm](archetypes/2TRqXfTtfMhTSIDY.htm)|Ghost Hunter|Chasseur de Fantômes|libre|
 |[2Wol7CpOBJjVT3aP.htm](archetypes/2Wol7CpOBJjVT3aP.htm)|Hellknight|Chevalier infernal|changé|
 |[3jceS1GfWcSQ3tMY.htm](archetypes/3jceS1GfWcSQ3tMY.htm)|Talisman Dabbler|Amateur de talismans|changé|
@@ -43,7 +43,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cnsq5cXgQu4FXnoZ.htm](archetypes/cnsq5cXgQu4FXnoZ.htm)|Aldori Duelist|Duelliste Aldori|changé|
 |[DeixUOfwL7Bruad5.htm](archetypes/DeixUOfwL7Bruad5.htm)|Red Mantis Assassin|Assassin des Mantes rouges|officielle|
 |[DMsE43xgf1gHPl8o.htm](archetypes/DMsE43xgf1gHPl8o.htm)|Loremaster|Maître savant|changé|
-|[DYJfhMcLlP05oMDD.htm](archetypes/DYJfhMcLlP05oMDD.htm)|Duelist|Duelliste|libre|
+|[DYJfhMcLlP05oMDD.htm](archetypes/DYJfhMcLlP05oMDD.htm)|Duelist|Duelliste|changé|
 |[e2KCqgD3zt8yvxGg.htm](archetypes/e2KCqgD3zt8yvxGg.htm)|Sentinel|Sentinelle|changé|
 |[eEyxTQ3oHfthdg0e.htm](archetypes/eEyxTQ3oHfthdg0e.htm)|Scrounger|Bricoleur|changé|
 |[fjyB6HdS95xHEQn0.htm](archetypes/fjyB6HdS95xHEQn0.htm)|Poisoner|Empoisonneur|changé|
@@ -64,7 +64,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[LYYDozZfXok19VYW.htm](archetypes/LYYDozZfXok19VYW.htm)|Hellknight Armiger|Écuyer des chevaliers infernaux|changé|
 |[MJ2EBeAVkc61mznR.htm](archetypes/MJ2EBeAVkc61mznR.htm)|Archer|Archer|changé|
 |[myvFp45VnA2FPOvG.htm](archetypes/myvFp45VnA2FPOvG.htm)|Archaeologist|Archéologue|changé|
-|[NGrKVIaZJx3r3In4.htm](archetypes/NGrKVIaZJx3r3In4.htm)|Weapon Improviser|Improvisateur d'arme|libre|
+|[NGrKVIaZJx3r3In4.htm](archetypes/NGrKVIaZJx3r3In4.htm)|Weapon Improviser|Improvisateur d'arme|changé|
 |[o3C85NHW08Y2inAN.htm](archetypes/o3C85NHW08Y2inAN.htm)|Pathfinder Agent|Agent des Éclaireurs|changé|
 |[OmEG0nhQgeKnAUsn.htm](archetypes/OmEG0nhQgeKnAUsn.htm)|Magic Warrior|Guerrier magique|changé|
 |[pHTnfVHOzsgfZ9E2.htm](archetypes/pHTnfVHOzsgfZ9E2.htm)|Scout|Éclaireur|changé|
@@ -74,7 +74,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[RvjlaAPa2Wkdhrms.htm](archetypes/RvjlaAPa2Wkdhrms.htm)|Horizon Walker|Arpenteur d'horizon|changé|
 |[RyjrUkqSIg52Mjl8.htm](archetypes/RyjrUkqSIg52Mjl8.htm)|Runescarred|Scarifié des runes|changé|
 |[s7kWIaeCdj3IFte9.htm](archetypes/s7kWIaeCdj3IFte9.htm)|Jalmeri Heavenseeker|Chercheur de paradis du Jalmeray|changé|
-|[SAyPnVRucJa8k4MN.htm](archetypes/SAyPnVRucJa8k4MN.htm)|Witch|Sorcière|libre|
+|[SAyPnVRucJa8k4MN.htm](archetypes/SAyPnVRucJa8k4MN.htm)|Witch|Sorcière|changé|
 |[SbvhfCo5gFVt1DgD.htm](archetypes/SbvhfCo5gFVt1DgD.htm)|Acrobat|Acrobate|changé|
 |[SJi2cicLd7R2FInl.htm](archetypes/SJi2cicLd7R2FInl.htm)|Viking|Viking|changé|
 |[TdoPhja8JA9C2Itm.htm](archetypes/TdoPhja8JA9C2Itm.htm)|Linguist|Linguiste|changé|
@@ -88,7 +88,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[XATPzPTZ9Je89erT.htm](archetypes/XATPzPTZ9Je89erT.htm)|Golem Grafter|Greffeur de golem|changé|
 |[xFjXKdIkA574QRkv.htm](archetypes/xFjXKdIkA574QRkv.htm)|Scroll Trickster|Usurpateur de parchemins|changé|
 |[xNzNpPjeNSrXE7WG.htm](archetypes/xNzNpPjeNSrXE7WG.htm)|Crystal Keeper|Gardien des cristaux|changé|
-|[XZwGLLgC1sIKlR1c.htm](archetypes/XZwGLLgC1sIKlR1c.htm)|Staff Acrobat|Funambule|libre|
+|[XZwGLLgC1sIKlR1c.htm](archetypes/XZwGLLgC1sIKlR1c.htm)|Staff Acrobat|Funambule|changé|
 |[YBvXmJ5e9MThdws0.htm](archetypes/YBvXmJ5e9MThdws0.htm)|Firebrand Braggart|Agitateur vantard|changé|
 |[YJQJxskQf8VqDt8G.htm](archetypes/YJQJxskQf8VqDt8G.htm)|Provocator|Provocator|changé|
 |[yvb2pY3Qb7Jl35hk.htm](archetypes/yvb2pY3Qb7Jl35hk.htm)|Magaambyan Attendant|Gardien du Magaambya|changé|

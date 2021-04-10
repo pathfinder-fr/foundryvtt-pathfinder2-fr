@@ -1,36 +1,19 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 74
- * **changé**: 226
- * **libre**: 50
- * **aucune**: 18
+ * **officielle**: 102
+ * **changé**: 214
+ * **libre**: 51
+ * **auto-trad**: 1
 
 
-Dernière mise à jour: 2021-04-08 23:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-10 08:57 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
+## Liste des traductions automatiques à corriger/retraduire
 
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[cleric-01-aiwxBj5MjnafCMyn.htm](classfeatures/cleric-01-aiwxBj5MjnafCMyn.htm)|First Doctrine (Cloistered Cleric)|
-|[cleric-01-Qejo7FUWQtPTpgWH.htm](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)|First Doctrine|
-|[cleric-01-xxkszluN9icAiTO4.htm](classfeatures/cleric-01-xxkszluN9icAiTO4.htm)|First Doctrine (Warpriest)|
-|[cleric-03-D34mPo29r1J3DPaX.htm](classfeatures/cleric-03-D34mPo29r1J3DPaX.htm)|Second Doctrine (Warpriest)|
-|[cleric-03-OnfrrwCfDFCFw0tc.htm](classfeatures/cleric-03-OnfrrwCfDFCFw0tc.htm)|Second Doctrine|
-|[cleric-03-sa7BWfnyCswAvBVa.htm](classfeatures/cleric-03-sa7BWfnyCswAvBVa.htm)|Second Doctrine (Cloistered Cleric)|
-|[cleric-07-gxNxfN9OBlQ1icus.htm](classfeatures/cleric-07-gxNxfN9OBlQ1icus.htm)|Third Doctrine|
-|[cleric-07-s8WEmc4GGZSHSC7q.htm](classfeatures/cleric-07-s8WEmc4GGZSHSC7q.htm)|Third Doctrine (Cloistered Cleric)|
-|[cleric-07-Zp81uTBItG1xlH4O.htm](classfeatures/cleric-07-Zp81uTBItG1xlH4O.htm)|Third Doctrine (Warpriest)|
-|[cleric-11-o8nHreMyiLi64rZz.htm](classfeatures/cleric-11-o8nHreMyiLi64rZz.htm)|Fourth Doctrine|
-|[cleric-11-px3gVYp7zlEQIpcl.htm](classfeatures/cleric-11-px3gVYp7zlEQIpcl.htm)|Fourth Doctrine (Warpriest)|
-|[cleric-11-vxOf4LXZcqUG3P7a.htm](classfeatures/cleric-11-vxOf4LXZcqUG3P7a.htm)|Fourth Doctrine (Cloistered Cleric)|
-|[cleric-15-kmimy4VOaoEOgOiQ.htm](classfeatures/cleric-15-kmimy4VOaoEOgOiQ.htm)|Fifth Doctrine (Warpriest)|
-|[cleric-15-N1ugDqZlslxbp3Uy.htm](classfeatures/cleric-15-N1ugDqZlslxbp3Uy.htm)|Final Doctrine (Warpriest)|
-|[cleric-15-n9W8MjjRgPpUTvWf.htm](classfeatures/cleric-15-n9W8MjjRgPpUTvWf.htm)|Fifth Doctrine (Cloistered Cleric)|
-|[cleric-15-Zb7DuGbFoLEp0H1K.htm](classfeatures/cleric-15-Zb7DuGbFoLEp0H1K.htm)|Fifth Doctrine|
-|[cleric-19-DgGefatQ4v6xT6f9.htm](classfeatures/cleric-19-DgGefatQ4v6xT6f9.htm)|Final Doctrine (Cloistered Cleric)|
-|[cleric-19-urBGOPrUwBmkixAo.htm](classfeatures/cleric-19-urBGOPrUwBmkixAo.htm)|Final Doctrine|
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|:----:|
+|[cleric-11-o8nHreMyiLi64rZz.htm](classfeatures/cleric-11-o8nHreMyiLi64rZz.htm)|Fourth Doctrine|auto-trad|
 
 ## Liste des traductions complétés
 
@@ -146,28 +129,45 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-17-voiSCh7ZXA2ogwiC.htm](classfeatures/champion-17-voiSCh7ZXA2ogwiC.htm)|Legendary Armor|Armure légendaire|changé|
 |[champion-17-z5G0o04uV65zyxDB.htm](classfeatures/champion-17-z5G0o04uV65zyxDB.htm)|Champion Mastery|Maîtrise du Champion|changé|
 |[champion-19-LzB6X9vOaq3wq1FZ.htm](classfeatures/champion-19-LzB6X9vOaq3wq1FZ.htm)|Hero's Defiance|Défi du héros|changé|
-|[cleric-01-0Aocw3igLwna9cjp.htm](classfeatures/cleric-01-0Aocw3igLwna9cjp.htm)|Warpriest|Prêtre combattant|changé|
-|[cleric-01-AvNbdGSOTWNRgcxs.htm](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Divine Spellcasting (Cleric)|Incantation divine|changé|
+|[cleric-01-0Aocw3igLwna9cjp.htm](classfeatures/cleric-01-0Aocw3igLwna9cjp.htm)|Warpriest|Prêtre combattant|officielle|
+|[cleric-01-aiwxBj5MjnafCMyn.htm](classfeatures/cleric-01-aiwxBj5MjnafCMyn.htm)|First Doctrine (Cloistered Cleric)|Premier dogme (Prêtre cloîtré)|officielle|
+|[cleric-01-AvNbdGSOTWNRgcxs.htm](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Divine Spellcasting (Cleric)|Incantation divine (Prêtre)|officielle|
 |[cleric-01-DutW12WMFPHBoLTH.htm](classfeatures/cleric-01-DutW12WMFPHBoLTH.htm)|Deity|Divinité|libre|
-|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|changé|
+|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|officielle|
+|[cleric-01-Qejo7FUWQtPTpgWH.htm](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)|First Doctrine|Doctrine : Premier dogme|officielle|
 |[cleric-01-tyrBwBTzo5t9Zho7.htm](classfeatures/cleric-01-tyrBwBTzo5t9Zho7.htm)|Doctrine|Doctrine|officielle|
 |[cleric-01-UV1HlClbWCNcaKBZ.htm](classfeatures/cleric-01-UV1HlClbWCNcaKBZ.htm)|Anathema (Cleric)|Anathème (Prêtre)|officielle|
-|[cleric-01-ZZzLMOUAtBVgV1DF.htm](classfeatures/cleric-01-ZZzLMOUAtBVgV1DF.htm)|Cloistered Cleric|Prêtre cloîtré|changé|
+|[cleric-01-xxkszluN9icAiTO4.htm](classfeatures/cleric-01-xxkszluN9icAiTO4.htm)|First Doctrine (Warpriest)|Premier dogme (Prêtre combattant)|libre|
+|[cleric-01-ZZzLMOUAtBVgV1DF.htm](classfeatures/cleric-01-ZZzLMOUAtBVgV1DF.htm)|Cloistered Cleric|Prêtre cloîtré|officielle|
+|[cleric-03-D34mPo29r1J3DPaX.htm](classfeatures/cleric-03-D34mPo29r1J3DPaX.htm)|Second Doctrine (Warpriest)|Deuxième dogme (Prêtre combattant)|officielle|
+|[cleric-03-OnfrrwCfDFCFw0tc.htm](classfeatures/cleric-03-OnfrrwCfDFCFw0tc.htm)|Second Doctrine|Doctrine : deuxième dogme|officielle|
+|[cleric-03-sa7BWfnyCswAvBVa.htm](classfeatures/cleric-03-sa7BWfnyCswAvBVa.htm)|Second Doctrine (Cloistered Cleric)|Deuxième dogme (Prêtre cloîtré)|officielle|
+|[cleric-07-gxNxfN9OBlQ1icus.htm](classfeatures/cleric-07-gxNxfN9OBlQ1icus.htm)|Third Doctrine|Doctrine : Troisième dogme|officielle|
+|[cleric-07-s8WEmc4GGZSHSC7q.htm](classfeatures/cleric-07-s8WEmc4GGZSHSC7q.htm)|Third Doctrine (Cloistered Cleric)|Troisième dogme (Prêtre cloîtré)|officielle|
+|[cleric-07-Zp81uTBItG1xlH4O.htm](classfeatures/cleric-07-Zp81uTBItG1xlH4O.htm)|Third Doctrine (Warpriest)|Troisième dogme (Prêtre combattant)|officielle|
 |[cleric-09-D2g6sZQAWaTccviQ.htm](classfeatures/cleric-09-D2g6sZQAWaTccviQ.htm)|Resolve (Level 9)|Résolution (Niveau 9)|libre|
 |[cleric-11-7PzcKaDGy6tIkQh4.htm](classfeatures/cleric-11-7PzcKaDGy6tIkQh4.htm)|Lightning Reflexes (Level 11)|Réflexes éclair (Niveau 11)|libre|
-|[cleric-13-0mJTp4LdEHBLInoe.htm](classfeatures/cleric-13-0mJTp4LdEHBLInoe.htm)|Divine Defense|Défense divine|changé|
-|[cleric-19-3uf31A91h3ywmlqm.htm](classfeatures/cleric-19-3uf31A91h3ywmlqm.htm)|Miraculous Spell|Sort miraculeux|changé|
+|[cleric-11-px3gVYp7zlEQIpcl.htm](classfeatures/cleric-11-px3gVYp7zlEQIpcl.htm)|Fourth Doctrine (Warpriest)|Quatrième dogme (Prêtre combattant)|officielle|
+|[cleric-11-vxOf4LXZcqUG3P7a.htm](classfeatures/cleric-11-vxOf4LXZcqUG3P7a.htm)|Fourth Doctrine (Cloistered Cleric)|Quatrième dogme (Prêtre cloîtré)|officielle|
+|[cleric-13-0mJTp4LdEHBLInoe.htm](classfeatures/cleric-13-0mJTp4LdEHBLInoe.htm)|Divine Defense|Défense divine|officielle|
+|[cleric-15-kmimy4VOaoEOgOiQ.htm](classfeatures/cleric-15-kmimy4VOaoEOgOiQ.htm)|Fifth Doctrine (Warpriest)|Cinquième dogme (Prêtre combattant)|officielle|
+|[cleric-15-N1ugDqZlslxbp3Uy.htm](classfeatures/cleric-15-N1ugDqZlslxbp3Uy.htm)|Final Doctrine (Warpriest)|Dernier dogme (Prêtre combattant)|officielle|
+|[cleric-15-n9W8MjjRgPpUTvWf.htm](classfeatures/cleric-15-n9W8MjjRgPpUTvWf.htm)|Fifth Doctrine (Cloistered Cleric)|Cinquième dogme (Prêtre cloîtré)|officielle|
+|[cleric-15-Zb7DuGbFoLEp0H1K.htm](classfeatures/cleric-15-Zb7DuGbFoLEp0H1K.htm)|Fifth Doctrine|Doctrine : Cinquième dogme|officielle|
+|[cleric-19-3uf31A91h3ywmlqm.htm](classfeatures/cleric-19-3uf31A91h3ywmlqm.htm)|Miraculous Spell|Sort miraculeux|officielle|
+|[cleric-19-DgGefatQ4v6xT6f9.htm](classfeatures/cleric-19-DgGefatQ4v6xT6f9.htm)|Final Doctrine (Cloistered Cleric)|Dernier dogme (Prêtre cloîtré)|officielle|
+|[cleric-19-urBGOPrUwBmkixAo.htm](classfeatures/cleric-19-urBGOPrUwBmkixAo.htm)|Final Doctrine|Dernier dogme|officielle|
 |[druid-01-8STJEFVJISujgpMR.htm](classfeatures/druid-01-8STJEFVJISujgpMR.htm)|Druidic Order|Ordre druidique|officielle|
 |[druid-01-acqqlYmti8D9QJi0.htm](classfeatures/druid-01-acqqlYmti8D9QJi0.htm)|Storm Order|Ordre de la tempête|officielle|
-|[druid-01-b8pnRxGuNzG0buuh.htm](classfeatures/druid-01-b8pnRxGuNzG0buuh.htm)|Primal Spellcasting|Incantation primordiale|changé|
-|[druid-01-d5BFFHXFJYKs5LXr.htm](classfeatures/druid-01-d5BFFHXFJYKs5LXr.htm)|Wild Empathy|Empathie sauvage|changé|
-|[druid-01-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-01-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|changé|
+|[druid-01-b8pnRxGuNzG0buuh.htm](classfeatures/druid-01-b8pnRxGuNzG0buuh.htm)|Primal Spellcasting|Incantation primordiale|officielle|
+|[druid-01-d5BFFHXFJYKs5LXr.htm](classfeatures/druid-01-d5BFFHXFJYKs5LXr.htm)|Wild Empathy|Empathie sauvage|officielle|
+|[druid-01-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-01-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|officielle|
 |[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal Order|Ordre animal|officielle|
-|[druid-01-RiAGlnnp4S21BAG3.htm](classfeatures/druid-01-RiAGlnnp4S21BAG3.htm)|Druidic Language|Le druidique|changé|
-|[druid-01-u4nlOzPj2WHkIj9l.htm](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Leaf Order|Ordre de la feuille|changé|
+|[druid-01-RiAGlnnp4S21BAG3.htm](classfeatures/druid-01-RiAGlnnp4S21BAG3.htm)|Druidic Language|Le druidique|officielle|
+|[druid-01-u4nlOzPj2WHkIj9l.htm](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Leaf Order|Ordre de la feuille|officielle|
 |[druid-01-v0EjtiwdeMj8ykI0.htm](classfeatures/druid-01-v0EjtiwdeMj8ykI0.htm)|Wild Order|Ordre féroce|officielle|
 |[druid-03-D8CSi8c9XiRpVc5M.htm](classfeatures/druid-03-D8CSi8c9XiRpVc5M.htm)|Alertness (Level 3)|Vigilance (Niveau 3)|officielle|
-|[druid-11-Ra32tlqBxHzT6fzN.htm](classfeatures/druid-11-Ra32tlqBxHzT6fzN.htm)|Druid Weapon Expertise|Expertise avec les armes de druide|changé|
+|[druid-11-Ra32tlqBxHzT6fzN.htm](classfeatures/druid-11-Ra32tlqBxHzT6fzN.htm)|Druid Weapon Expertise|Expertise avec les armes de druide|officielle|
 |[druid-13-tzUaTqB6GHAeffOl.htm](classfeatures/druid-13-tzUaTqB6GHAeffOl.htm)|Medium Armor Expertise (Level 13)|Expertise avec les armures intermédiaires (Niveau 13)|libre|
 |[druid-19-nzgb43mQmLgaqDoQ.htm](classfeatures/druid-19-nzgb43mQmLgaqDoQ.htm)|Primal Hierophant|Hiérophante primordial|officielle|
 |[fighter-01-eZNCckLzbH3GyncH.htm](classfeatures/fighter-01-eZNCckLzbH3GyncH.htm)|Shield Block (Level 1)|Blocage au bouclier (Niveau 1)|libre|

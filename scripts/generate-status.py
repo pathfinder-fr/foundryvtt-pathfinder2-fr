@@ -15,7 +15,9 @@ for D in SUPPORTED:
   dirpath= "%s/data/%s" % (ROOT, D)
 
   statusContentOK = "| Fichier   | Nom (EN)    | Nom (FR)    | État |\n" + "|-----------|-------------|-------------|:----:|\n"
+  statusContentAT = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|:----:|\n"
   statusContentNOK = "| Fichier   | Nom (EN)    |\n" + "|-----------|-------------|\n"
+  statusContentEmpty = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|:----:|\n"
     
   files = [f for f in os.listdir(dirpath) if os.path.isfile(os.path.join(dirpath, f))]
   files = sorted(files, key=str.casefold)
@@ -31,6 +33,10 @@ for D in SUPPORTED:
     
     if data['status'] == "aucune":
       statusContentNOK += "|[%s](%s/%s)|%s|\n" % (f, D, f, data['nameEN'])
+    elif data['status'] == "auto-trad" or data['status'] == "auto-googtrad":
+      statusContentAT += "|[%s](%s/%s)|%s|%s|\n" % (f, D, f, data['nameEN'], data['status'])
+    elif data['status'] == "vide":
+      statusContentEmpty += "|[%s](%s/%s)|%s|%s|\n" % (f, D, f, data['nameEN'], data['status'])
     else:
       statusContentOK += "|[%s](%s/%s)|%s|%s|%s|\n" % (f, D, f, data['nameEN'], data['nameFR'], data['status'])
     
@@ -44,6 +50,12 @@ for D in SUPPORTED:
   if "aucune" in stats and stats["aucune"] > 0:
     content += "\n## Liste des traductions à faire\n\n"
     content += statusContentNOK
+  if "auto-trad" in stats and stats["auto-trad"] > 0 or "auto-googtrad" in stats and stats["auto-googtrad"] > 0:
+    content += "\n## Liste des traductions automatiques à corriger/retraduire\n\n"
+    content += statusContentAT
+  if "vide" in stats and stats["vide"] > 0:
+    content += "\n## Liste des éléments vides ne pouvant pas être traduits\n\n"
+    content += statusContentEmpty
   content += "\n## Liste des traductions complétés\n\n"
   content += statusContentOK
   
