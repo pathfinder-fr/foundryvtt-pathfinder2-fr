@@ -1,52 +1,52 @@
 # État de la traduction (gmg-srd)
 
  * **officielle**: 62
- * **aucune**: 35
+ * **auto-trad**: 35
  * **changé**: 1
 
 
-Dernière mise à jour: 2021-04-07 18:05 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-10 08:57 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
+## Liste des traductions automatiques à corriger/retraduire
 
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[3g3uXFsHbfcad8eA.htm](gmg-srd/3g3uXFsHbfcad8eA.htm)|The Fool|
-|[652cIWAXc8zAxkac.htm](gmg-srd/652cIWAXc8zAxkac.htm)|Matter of Might|
-|[6NOZe9gUfVEedECW.htm](gmg-srd/6NOZe9gUfVEedECW.htm)|Star|
-|[7qsQBWD5sSGz7Fik.htm](gmg-srd/7qsQBWD5sSGz7Fik.htm)|Mercantile Expertise|
-|[8NKe8N5NsULPShPX.htm](gmg-srd/8NKe8N5NsULPShPX.htm)|The Dead One|
-|[a0mJO7io1hcwMAjJ.htm](gmg-srd/a0mJO7io1hcwMAjJ.htm)|Lost in the Wilderness|
-|[Alf16WU6qK8w1jmq.htm](gmg-srd/Alf16WU6qK8w1jmq.htm)|Sun|
-|[BbgtR5LmB9ZdPpx1.htm](gmg-srd/BbgtR5LmB9ZdPpx1.htm)|Timely Cure|
-|[bRQz8uVlYtQ1cwwI.htm](gmg-srd/bRQz8uVlYtQ1cwwI.htm)|Wasteland Survivors|
-|[c8bBOo2RPxStZozM.htm](gmg-srd/c8bBOo2RPxStZozM.htm)|Moon|
-|[cD51eAUtbGlp5UKr.htm](gmg-srd/cD51eAUtbGlp5UKr.htm)|Slander|
-|[Cfd7ndT61VjR52OZ.htm](gmg-srd/Cfd7ndT61VjR52OZ.htm)|The Mercenary|
-|[CfD81LilQAtGuvyx.htm](gmg-srd/CfD81LilQAtGuvyx.htm)|The Void|
-|[cIlNXxPJuy8MtaDM.htm](gmg-srd/cIlNXxPJuy8MtaDM.htm)|Vizier|
-|[CW53y8R730XoNQSG.htm](gmg-srd/CW53y8R730XoNQSG.htm)|The Champion|
-|[CwyYDIAAuRll2i5R.htm](gmg-srd/CwyYDIAAuRll2i5R.htm)|The Seer|
-|[dcP3oqjsl85p6R2Z.htm](gmg-srd/dcP3oqjsl85p6R2Z.htm)|Kidnapped|
-|[Dyg3vJnEnReKyYHU.htm](gmg-srd/Dyg3vJnEnReKyYHU.htm)|The Fates|
-|[ejRPZwAlci3jTli9.htm](gmg-srd/ejRPZwAlci3jTli9.htm)|The Liege Lord|
-|[Erqgqv8WEtnzBtTu.htm](gmg-srd/Erqgqv8WEtnzBtTu.htm)|The Mystic|
-|[F7Tf6APgUKjnCZgv.htm](gmg-srd/F7Tf6APgUKjnCZgv.htm)|The Crafter|
-|[Gm4AtuFNRgOnzsmF.htm](gmg-srd/Gm4AtuFNRgOnzsmF.htm)|Simple Village|
-|[Gr4v8ROPCxi4hvAO.htm](gmg-srd/Gr4v8ROPCxi4hvAO.htm)|Religious Community|
-|[iA9QWuYATBPB6thI.htm](gmg-srd/iA9QWuYATBPB6thI.htm)|Knight|
-|[Ip6kSKGhl3XHQZ93.htm](gmg-srd/Ip6kSKGhl3XHQZ93.htm)|Robbed|
-|[JHQI2skcksaLMPqA.htm](gmg-srd/JHQI2skcksaLMPqA.htm)|Kindly Witch|
-|[KtkDaTrkBwwupKcE.htm](gmg-srd/KtkDaTrkBwwupKcE.htm)|The Wanderer|
-|[MCIp76IWZ2pk7dyz.htm](gmg-srd/MCIp76IWZ2pk7dyz.htm)|The Criminal|
-|[mg7oMp0cNa0GJMCS.htm](gmg-srd/mg7oMp0cNa0GJMCS.htm)|The Lover|
-|[mHocbJQKBzbHM790.htm](gmg-srd/mHocbJQKBzbHM790.htm)|The Confidante|
-|[nsZ93vUEFucsLwRz.htm](gmg-srd/nsZ93vUEFucsLwRz.htm)|Privileged Position|
-|[OdD3NuxI5hNAEOVx.htm](gmg-srd/OdD3NuxI5hNAEOVx.htm)|Trade Town|
-|[oDhTOO1WjEZk1qfD.htm](gmg-srd/oDhTOO1WjEZk1qfD.htm)|Witnessed War|
-|[OHKKQ7zTf61vz35h.htm](gmg-srd/OHKKQ7zTf61vz35h.htm)|Liberators|
-|[pd6ZzGL5TA58Fa3p.htm](gmg-srd/pd6ZzGL5TA58Fa3p.htm)|The Hunter|
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|:----:|
+|[3g3uXFsHbfcad8eA.htm](gmg-srd/3g3uXFsHbfcad8eA.htm)|The Fool|auto-trad|
+|[652cIWAXc8zAxkac.htm](gmg-srd/652cIWAXc8zAxkac.htm)|Matter of Might|auto-trad|
+|[6NOZe9gUfVEedECW.htm](gmg-srd/6NOZe9gUfVEedECW.htm)|Star|auto-trad|
+|[7qsQBWD5sSGz7Fik.htm](gmg-srd/7qsQBWD5sSGz7Fik.htm)|Mercantile Expertise|auto-trad|
+|[8NKe8N5NsULPShPX.htm](gmg-srd/8NKe8N5NsULPShPX.htm)|The Dead One|auto-trad|
+|[a0mJO7io1hcwMAjJ.htm](gmg-srd/a0mJO7io1hcwMAjJ.htm)|Lost in the Wilderness|auto-trad|
+|[Alf16WU6qK8w1jmq.htm](gmg-srd/Alf16WU6qK8w1jmq.htm)|Sun|auto-trad|
+|[BbgtR5LmB9ZdPpx1.htm](gmg-srd/BbgtR5LmB9ZdPpx1.htm)|Timely Cure|auto-trad|
+|[bRQz8uVlYtQ1cwwI.htm](gmg-srd/bRQz8uVlYtQ1cwwI.htm)|Wasteland Survivors|auto-trad|
+|[c8bBOo2RPxStZozM.htm](gmg-srd/c8bBOo2RPxStZozM.htm)|Moon|auto-trad|
+|[cD51eAUtbGlp5UKr.htm](gmg-srd/cD51eAUtbGlp5UKr.htm)|Slander|auto-trad|
+|[Cfd7ndT61VjR52OZ.htm](gmg-srd/Cfd7ndT61VjR52OZ.htm)|The Mercenary|auto-trad|
+|[CfD81LilQAtGuvyx.htm](gmg-srd/CfD81LilQAtGuvyx.htm)|The Void|auto-trad|
+|[cIlNXxPJuy8MtaDM.htm](gmg-srd/cIlNXxPJuy8MtaDM.htm)|Vizier|auto-trad|
+|[CW53y8R730XoNQSG.htm](gmg-srd/CW53y8R730XoNQSG.htm)|The Champion|auto-trad|
+|[CwyYDIAAuRll2i5R.htm](gmg-srd/CwyYDIAAuRll2i5R.htm)|The Seer|auto-trad|
+|[dcP3oqjsl85p6R2Z.htm](gmg-srd/dcP3oqjsl85p6R2Z.htm)|Kidnapped|auto-trad|
+|[Dyg3vJnEnReKyYHU.htm](gmg-srd/Dyg3vJnEnReKyYHU.htm)|The Fates|auto-trad|
+|[ejRPZwAlci3jTli9.htm](gmg-srd/ejRPZwAlci3jTli9.htm)|The Liege Lord|auto-trad|
+|[Erqgqv8WEtnzBtTu.htm](gmg-srd/Erqgqv8WEtnzBtTu.htm)|The Mystic|auto-trad|
+|[F7Tf6APgUKjnCZgv.htm](gmg-srd/F7Tf6APgUKjnCZgv.htm)|The Crafter|auto-trad|
+|[Gm4AtuFNRgOnzsmF.htm](gmg-srd/Gm4AtuFNRgOnzsmF.htm)|Simple Village|auto-trad|
+|[Gr4v8ROPCxi4hvAO.htm](gmg-srd/Gr4v8ROPCxi4hvAO.htm)|Religious Community|auto-trad|
+|[iA9QWuYATBPB6thI.htm](gmg-srd/iA9QWuYATBPB6thI.htm)|Knight|auto-trad|
+|[Ip6kSKGhl3XHQZ93.htm](gmg-srd/Ip6kSKGhl3XHQZ93.htm)|Robbed|auto-trad|
+|[JHQI2skcksaLMPqA.htm](gmg-srd/JHQI2skcksaLMPqA.htm)|Kindly Witch|auto-trad|
+|[KtkDaTrkBwwupKcE.htm](gmg-srd/KtkDaTrkBwwupKcE.htm)|The Wanderer|auto-trad|
+|[MCIp76IWZ2pk7dyz.htm](gmg-srd/MCIp76IWZ2pk7dyz.htm)|The Criminal|auto-trad|
+|[mg7oMp0cNa0GJMCS.htm](gmg-srd/mg7oMp0cNa0GJMCS.htm)|The Lover|auto-trad|
+|[mHocbJQKBzbHM790.htm](gmg-srd/mHocbJQKBzbHM790.htm)|The Confidante|auto-trad|
+|[nsZ93vUEFucsLwRz.htm](gmg-srd/nsZ93vUEFucsLwRz.htm)|Privileged Position|auto-trad|
+|[OdD3NuxI5hNAEOVx.htm](gmg-srd/OdD3NuxI5hNAEOVx.htm)|Trade Town|auto-trad|
+|[oDhTOO1WjEZk1qfD.htm](gmg-srd/oDhTOO1WjEZk1qfD.htm)|Witnessed War|auto-trad|
+|[OHKKQ7zTf61vz35h.htm](gmg-srd/OHKKQ7zTf61vz35h.htm)|Liberators|auto-trad|
+|[pd6ZzGL5TA58Fa3p.htm](gmg-srd/pd6ZzGL5TA58Fa3p.htm)|The Hunter|auto-trad|
 
 ## Liste des traductions complétés
 

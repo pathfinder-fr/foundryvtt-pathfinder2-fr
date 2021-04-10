@@ -1,10 +1,11 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 161
+ * **libre**: 159
  * **officielle**: 45
+ * **changé**: 2
 
 
-Dernière mise à jour: 2021-04-07 18:05 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-10 08:57 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -14,14 +15,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[0c9Np7Yq5JSxZ6Tb.htm](backgrounds/0c9Np7Yq5JSxZ6Tb.htm)|Alkenstar Tinker|Bricoleur d'Alkenstar|libre|
 |[0z0PSizHviOehdJF.htm](backgrounds/0z0PSizHviOehdJF.htm)|Haunting Vision|Hanté par une vision|officielle|
 |[0ZfBP7Tp2P3WN7Dp.htm](backgrounds/0ZfBP7Tp2P3WN7Dp.htm)|Amnesiac|Amnésique|libre|
-|[1VdLr4Qm8fv1m4tM.htm](backgrounds/1VdLr4Qm8fv1m4tM.htm)|Godless Graycloak|Cape grise athée|libre|
+|[1VdLr4Qm8fv1m4tM.htm](backgrounds/1VdLr4Qm8fv1m4tM.htm)|Godless Graycloak|Athéiste des Capes grises|libre|
 |[2bzqI0D4J3LUi8nq.htm](backgrounds/2bzqI0D4J3LUi8nq.htm)|Laborer|Manœuvre|officielle|
 |[2qH61dLeaqgNOdOp.htm](backgrounds/2qH61dLeaqgNOdOp.htm)|Desert Tracker|Pisteur du désert|libre|
 |[3frMfODIYFeqTl2k.htm](backgrounds/3frMfODIYFeqTl2k.htm)|Fortune Teller|Voyant|officielle|
 |[3gN09dOT2hMwGcK2.htm](backgrounds/3gN09dOT2hMwGcK2.htm)|Cook|Cuisinier|libre|
 |[3hKnDmRXtF3LGmjy.htm](backgrounds/3hKnDmRXtF3LGmjy.htm)|Blow-In (Thievery)|Nouveau venu (Vol)|libre|
 |[3kXTGUvodNMnJTxb.htm](backgrounds/3kXTGUvodNMnJTxb.htm)|Aiudara Seeker|Chercheur d'aiudara|libre|
-|[3M2FRDlunjFshzbq.htm](backgrounds/3M2FRDlunjFshzbq.htm)|Fogfen Tale-Teller|Raconteur d'histoires des marais brumeux|libre|
+|[3M2FRDlunjFshzbq.htm](backgrounds/3M2FRDlunjFshzbq.htm)|Fogfen Tale-Teller|Raconteur d'histoires des Marais brumeux|libre|
 |[3wLnNwWnZ2dHIbV4.htm](backgrounds/3wLnNwWnZ2dHIbV4.htm)|Diobel Pearl Diver|Pêcheur de perles de Diobel|libre|
 |[3WPo7m6rJQh9L7MN.htm](backgrounds/3WPo7m6rJQh9L7MN.htm)|Emissary|Émissaire|officielle|
 |[4a2sVO0o2mMTydN8.htm](backgrounds/4a2sVO0o2mMTydN8.htm)|Local Scion|Enfant du pays|officielle|
@@ -29,7 +30,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4fBIXtSVSRYn2ZGi.htm](backgrounds/4fBIXtSVSRYn2ZGi.htm)|Goblinblood Orphan|Orphelin des guerres du Sang gobelin|officielle|
 |[4naQmCXBl0007c2W.htm](backgrounds/4naQmCXBl0007c2W.htm)|Touched by Dahak|Touché par Dahak|libre|
 |[4SSKsyD72AYYpzgm.htm](backgrounds/4SSKsyD72AYYpzgm.htm)|Hermit|Ermite|officielle|
-|[4yN5miHoMvKwZIsa.htm](backgrounds/4yN5miHoMvKwZIsa.htm)|Press-Ganged|Forçat|libre|
+|[4yN5miHoMvKwZIsa.htm](backgrounds/4yN5miHoMvKwZIsa.htm)|Press-Ganged|Forçat des Mers|libre|
 |[5qUQOpdlNsJjpFVX.htm](backgrounds/5qUQOpdlNsJjpFVX.htm)|Ruin Delver|Explorateur de ruines|libre|
 |[5RGLAPi5sLykRcmm.htm](backgrounds/5RGLAPi5sLykRcmm.htm)|Animal Whisperer|Dresseur|officielle|
 |[5Z3cLEpsx9nHVwhM.htm](backgrounds/5Z3cLEpsx9nHVwhM.htm)|Hunter|Chasseur|officielle|
@@ -42,7 +43,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[76RK9WizWYdyhMy5.htm](backgrounds/76RK9WizWYdyhMy5.htm)|Mammoth Speaker|Dresseur de mammouth|libre|
 |[7AfixHrjbXgDPPkp.htm](backgrounds/7AfixHrjbXgDPPkp.htm)|Translator|Traducteur|libre|
 |[7IrOApgShgnmp1A5.htm](backgrounds/7IrOApgShgnmp1A5.htm)|Rigger|Gréeur|libre|
-|[7K6ZSWOoihZKSdyd.htm](backgrounds/7K6ZSWOoihZKSdyd.htm)|Ruby Phoenix Enthusiast|Enthousiaste du Phénix de rubis|libre|
+|[7K6ZSWOoihZKSdyd.htm](backgrounds/7K6ZSWOoihZKSdyd.htm)|Ruby Phoenix Enthusiast|Passionné du Phénix de rubis|libre|
 |[84uVpQFCqn0Atfpo.htm](backgrounds/84uVpQFCqn0Atfpo.htm)|Legendary Parents|Parents légendaires|libre|
 |[86TbxxwfpWjScwSQ.htm](backgrounds/86TbxxwfpWjScwSQ.htm)|Undercover Lotus Guard|Garde Lotus infiltré|libre|
 |[88WyCqU5x1eJ0MK2.htm](backgrounds/88WyCqU5x1eJ0MK2.htm)|Gladiator|Gladiateur|officielle|
@@ -54,7 +55,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9LnXsMRwYcxi7nDO.htm](backgrounds/9LnXsMRwYcxi7nDO.htm)|Bekyar Restorer|Restaurateur Bekyar|libre|
 |[9lVw1JGl5ser6626.htm](backgrounds/9lVw1JGl5ser6626.htm)|Criminal|Criminel|officielle|
 |[9pK15dQJVypSCjzO.htm](backgrounds/9pK15dQJVypSCjzO.htm)|Blessed|Béni|libre|
-|[9uTdwJaj27F18ZDX.htm](backgrounds/9uTdwJaj27F18ZDX.htm)|Razmiran Faithful|Croyant en Razmir|libre|
+|[9uTdwJaj27F18ZDX.htm](backgrounds/9uTdwJaj27F18ZDX.htm)|Razmiran Faithful|Fidèle de Razmir|libre|
 |[a45LqkSRX07ljKdW.htm](backgrounds/a45LqkSRX07ljKdW.htm)|Merabite Prodigy|Prodige Mérabite|libre|
 |[a5dCSuAwGE2hqQjj.htm](backgrounds/a5dCSuAwGE2hqQjj.htm)|Freed Slave of Absalom|Esclave libéré d'Absalom|libre|
 |[a8BmnIIUR7AYog5B.htm](backgrounds/a8BmnIIUR7AYog5B.htm)|Barkeep|Tavernier|officielle|
@@ -65,7 +66,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ajcpRVb5EG00l7Y4.htm](backgrounds/ajcpRVb5EG00l7Y4.htm)|Cursed Family|Famille maudite|libre|
 |[ap25MWBuFGwwhYIG.htm](backgrounds/ap25MWBuFGwwhYIG.htm)|Aspiring Free-Captain|Aspirant Capitaine-libre|libre|
 |[apXTV7jJx6yJpj8D.htm](backgrounds/apXTV7jJx6yJpj8D.htm)|Prisoner|Prisonnier|officielle|
-|[aWAfj7bhTZM2oK81.htm](backgrounds/aWAfj7bhTZM2oK81.htm)|Hookclaw Digger|Creuseur crochetgriffu|libre|
+|[aWAfj7bhTZM2oK81.htm](backgrounds/aWAfj7bhTZM2oK81.htm)|Hookclaw Digger|Creuseur Crochetgriffu|libre|
 |[B8kEwzPUMIjhofUm.htm](backgrounds/B8kEwzPUMIjhofUm.htm)|Sarkorian Survivor|Survivant du sarkoris|libre|
 |[b9EPEY09dYOVzdue.htm](backgrounds/b9EPEY09dYOVzdue.htm)|Shadow War Survivor|Survivant de la Guerre de l'ombre|libre|
 |[BBeJA7n0xpSsBCGq.htm](backgrounds/BBeJA7n0xpSsBCGq.htm)|Lesser Scion|Benjamin|libre|
@@ -113,7 +114,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IfpYRxN8qyV4ym0o.htm](backgrounds/IfpYRxN8qyV4ym0o.htm)|Purveyor of the Bizzare|Fournisseur de Bizarreries|libre|
 |[IoBhge83aYpq0pPV.htm](backgrounds/IoBhge83aYpq0pPV.htm)|Archaeologist|Archéologue|libre|
 |[IObZEUz8wneEMgR3.htm](backgrounds/IObZEUz8wneEMgR3.htm)|Deckhand|Homme de pont|libre|
-|[iPuclSXdCEAVfTZ0.htm](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Empty Background]|[Historique vierge]|libre|
+|[iPuclSXdCEAVfTZ0.htm](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Empty Background]|[Historique vierge]|changé|
 |[irDibuV3Wi7T43sL.htm](backgrounds/irDibuV3Wi7T43sL.htm)|Child of the Puddles|Marmot des flaques|libre|
 |[iWWg16f3re1YChiD.htm](backgrounds/iWWg16f3re1YChiD.htm)|Oenopion-Ooze Tender|Éleveur de vases d'œnopion|libre|
 |[ixluAGUDZciLEHtb.htm](backgrounds/ixluAGUDZciLEHtb.htm)|Tax Collector|Percepteur|libre|
@@ -192,7 +193,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[V31KRG7aA7xS0m8L.htm](backgrounds/V31KRG7aA7xS0m8L.htm)|Shadow Haunted|Ombre hantée|libre|
 |[V3nYEAhyA54RtYky.htm](backgrounds/V3nYEAhyA54RtYky.htm)|Ulfen Raider|Raider ulfe|libre|
 |[vBPu7RwNXGDQ1ThL.htm](backgrounds/vBPu7RwNXGDQ1ThL.htm)|Dreamer of the Verdant Moon|Rêveur de la lune verdoyante|libre|
-|[vE6nb2OSIXqprDXk.htm](backgrounds/vE6nb2OSIXqprDXk.htm)|Sally Guard Neophyte|Néophyte de la Garde des Percées|libre|
+|[vE6nb2OSIXqprDXk.htm](backgrounds/vE6nb2OSIXqprDXk.htm)|Sally Guard Neophyte|Néophyte de la Garde des Percées|changé|
 |[vgin9ff2sUBMpuaI.htm](backgrounds/vgin9ff2sUBMpuaI.htm)|Former Aspis Agent|Ancien Agent de l'Aspis|libre|
 |[vHeP960qjhfob4Je.htm](backgrounds/vHeP960qjhfob4Je.htm)|Scavenger|Récupérateur|libre|
 |[vjhB0ZTV9OZgSuSz.htm](backgrounds/vjhB0ZTV9OZgSuSz.htm)|Thassilonian Delver|Fouilleur thassilonnien|libre|

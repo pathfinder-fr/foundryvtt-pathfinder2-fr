@@ -40,7 +40,8 @@ for p in packs:
   babeleVoVf = { 'label': packName, 'entries': [], 'mapping': {} }
   babeleVo   = { 'label': packName, 'entries': [], 'mapping': {} }
 
-  count = { "aucune": 0, "libre": 0, "officielle": 0, "changé": 0, "doublon": 0 }
+  count = { "aucune": 0, "libre": 0, "officielle": 0, "changé": 0, "doublon": 0, 
+           "auto-trad": 0, "auto-googtrad": 0, "vide": 0 }
   
   if "lists" in p:
     for k in p["lists"]:
@@ -53,6 +54,8 @@ for p in packs:
   for fpath in all_files:
     
     data = fileToData(path + fpath)
+    if data['status'] == "auto-trad":
+      data['descFr'] = ""
     count[data['status']] += 1
     
     # prepare data
@@ -68,7 +71,7 @@ for p in packs:
       'link': "@Compendium[%s.%s]" % (key, data['id'])
     })
     
-    if data['status'] == 'aucune':
+    if data['status'] == 'aucune' or data['status'] == "auto-trad" or data['status'] == "auto-googtrad" or data['status'] == "vide":
       continue
     elif not isValid(data):
       print("Skipping invalid entry %s" % path + fpath)
@@ -103,7 +106,8 @@ for p in packs:
   print("Statistiques: " + packName);
   print(" - Traduits: %d (officielle) %d (libre)" % (count["officielle"], count["libre"]));
   print(" - Changé: %d" % count["changé"]);
-  print(" - Non-traduits: %d" % count["aucune"]);
+  print(" - Non-traduits: %d - Auto-générés: %d" % (count["aucune"], count['auto-trad']+count['auto-googtrad']));
+  print(" - Vides: %d" % count["vide"]);
 
 
 # ==========================
