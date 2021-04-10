@@ -50,12 +50,20 @@ Au besoin, vous pouvez vous faire aider par différents membres de la communaut�
 
 ** Une majuscule est utilisée uniquement sur le premier mot du nom de la capacité que vous traduisez et sur les noms propres. Ainsi : _Blocage au bouclier_
 
-** La première lettre des mots qui correspondent à un terme technique du jeu sont fréquemment en majuscule. Ainsi : _vous faites une Frappe à une créature Observée._
+** La première lettre des mots qui correspondent à un terme technique du jeu sont fréquemment en majuscule. Ainsi : _vous faites une **F**rappe à une créature **O**bservée._
 
-** Il existe des balises pour créer des liens que vous repérerez facilement car elles prennent la forme  suivante @Compendium[pf2e.feats-srd.muMOxZyduEFv8UT6]{Nom en français}. Quand vous les croisez, vous remplacez ce qui est entre les {nom affiché}. Vous pouvez alors sans souci mettre au féminin, au pluriel ou conjuguer. Les liens entre les fichiers se font par renvoi à l'ID du compendium qui est indiqué entre les [crochets]
+** on supprime les balises <span></span>.
 
-** il existe des balises qui permettent en jeu de lancer les dés. Elles ont une structure très particulière que vous ne touchez pas sauf si vous êtes capable de coder. De même, il existe des balises vers des effets qui ont un intérêt pour ceux qui utilisent Foundry. On traduit le nom de l'effet quand on en trouve.
+** On supprime toutes les références aux pages.
+
+** Quand il est indiqué des sorts "dans ce livre", on remplace par des sorts "du livre de base". Il n'y a pas de "sorts ordinaires", mais des "sorts courants"  (pb de glossaire des traducteurs de chez BBE). 
+
+** En vf on remet les listes dans l'ordre alphabétique ou par niveau si c'est classé par niveau. En cas de doute, on demande un avis.
+
+** Il existe des balises pour créer des liens que vous repérerez facilement car elles prennent la forme  suivante @Compendium[pf2e.feats-srd.muMOxZyduEFv8UT6]{Nom en français}. Quand vous les croisez, vous remplacez ce qui est entre les {nom affiché}. Vous pouvez alors sans souci mettre au féminin, au pluriel ou conjuguer. Les liens entre les fichiers se font par renvoi à l'ID du compendium qui est indiqué entre les [crochets] qui ne doit jamais être modifié.
+
+** il existe des balises qui permettent, sous Foundry, de lancer les dés à partir du fichier. Elles ont une structure très particulière que vous ne touchez pas sauf si vous êtes capable de coder. De même, il existe des balises vers des effets qui ont un intérêt pour ceux qui utilisent Foundry. On traduit le nom de l'effet quand on en trouve un.
 
 Pour obtenir de l'aide un petit MP à rectulo dans l'un ou l'autre des discord et vous devriez avoir rapidement une réponse en journée (à l'heure française).
 
-Fait le 6 avril 2021
+Fait le 10 avril 2021
