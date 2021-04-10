@@ -28,7 +28,9 @@ for p in packs:
     for fpath in all_files:
       
       data = fileToData(path + fpath)
-      if data['status'] == 'aucune' or data['status'] == "auto-trad" or data['status'] == "auto-googtrad"  or data['status'] == "vide":
+      if data['status'] == 'aucune' or data['status'] == "auto-trad" \
+        or data['status'] == "auto-googtrad"  or data['status'] == "vide" \
+          or (data['status'] == "changed" and data['descrFR'] == ""):
         continue
           
       # default (all translations in french)
