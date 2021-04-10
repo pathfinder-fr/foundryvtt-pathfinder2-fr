@@ -71,8 +71,7 @@ for p in packs:
       'link': "@Compendium[%s.%s]" % (key, data['id'])
     })
     
-    if data['status'] == 'aucune' or data['status'] == "auto-trad" 
-      or data['status'] == "auto-googtrad" or data['status'] == "vide":
+    if data['status'] == 'aucune' or data['status'] == "auto-trad" or data['status'] == "auto-googtrad" or data['status'] == "vide":
       continue
     elif not isValid(data):
       print("Skipping invalid entry %s" % path + fpath)
@@ -107,7 +106,7 @@ for p in packs:
   print("Statistiques: " + packName);
   print(" - Traduits: %d (officielle) %d (libre)" % (count["officielle"], count["libre"]));
   print(" - Changé: %d" % count["changé"]);
-  print(" - Non-traduits: %d - Auto-générés: %d" % count["aucune"], count['auto-trad']+count['auto-googtrad']);
+  print(" - Non-traduits: %d - Auto-générés: %d" % (count["aucune"], count['auto-trad']+count['auto-googtrad']));
   print(" - Vides: %d" % count["vide"]);
 
 

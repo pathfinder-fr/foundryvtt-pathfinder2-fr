@@ -3,25 +3,25 @@
  * **officielle**: 311
  * **libre**: 201
  * **changé**: 355
- * **aucune**: 9
+ * **auto-trad**: 9
 
 
-Dernière mise à jour: 2021-04-08 23:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-09 20:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
+## Liste des traductions automatiques à corriger/retraduire
 
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[div-05-zaZieDHguhahmM2z.htm](spells/div-05-zaZieDHguhahmM2z.htm)|Waters of Prediction|
-|[evo-03-0jWBnIDFpJjJShdQ.htm](spells/evo-03-0jWBnIDFpJjJShdQ.htm)|Dragon Breath (Blue or Bronze)|
-|[evo-03-6mmEz1UoTHGB7Sy9.htm](spells/evo-03-6mmEz1UoTHGB7Sy9.htm)|Dragon Breath (Copper or Black)|
-|[evo-03-bmDgIbLa5NfkP97J.htm](spells/evo-03-bmDgIbLa5NfkP97J.htm)|Dragon Breath (Silver or White)|
-|[evo-03-jupppBeFqhe6LMIb.htm](spells/evo-03-jupppBeFqhe6LMIb.htm)|Dragon Breath (Green)|
-|[evo-03-kfsv7zSHb3pr7s9v.htm](spells/evo-03-kfsv7zSHb3pr7s9v.htm)|Dragon Breath (Gold or Red)|
-|[evo-03-N0h3UodJFKdNQw1Y.htm](spells/evo-03-N0h3UodJFKdNQw1Y.htm)|Dragon Breath (Brass)|
-|[nec-01-ekGHLJSHGgWMUwkY.htm](spells/nec-01-ekGHLJSHGgWMUwkY.htm)|Touch of Corruption (Healing)|
-|[nec-01-IxyD7YdRbSSucxZp.htm](spells/nec-01-IxyD7YdRbSSucxZp.htm)|Lay on Hands (Vs. Undead)|
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|-------------|:----:|
+|[div-05-zaZieDHguhahmM2z.htm](spells/div-05-zaZieDHguhahmM2z.htm)|Waters of Prediction|auto-trad|
+|[evo-03-0jWBnIDFpJjJShdQ.htm](spells/evo-03-0jWBnIDFpJjJShdQ.htm)|Dragon Breath (Blue or Bronze)|auto-trad|
+|[evo-03-6mmEz1UoTHGB7Sy9.htm](spells/evo-03-6mmEz1UoTHGB7Sy9.htm)|Dragon Breath (Copper or Black)|auto-trad|
+|[evo-03-bmDgIbLa5NfkP97J.htm](spells/evo-03-bmDgIbLa5NfkP97J.htm)|Dragon Breath (Silver or White)|auto-trad|
+|[evo-03-jupppBeFqhe6LMIb.htm](spells/evo-03-jupppBeFqhe6LMIb.htm)|Dragon Breath (Green)|auto-trad|
+|[evo-03-kfsv7zSHb3pr7s9v.htm](spells/evo-03-kfsv7zSHb3pr7s9v.htm)|Dragon Breath (Gold or Red)|auto-trad|
+|[evo-03-N0h3UodJFKdNQw1Y.htm](spells/evo-03-N0h3UodJFKdNQw1Y.htm)|Dragon Breath (Brass)|auto-trad|
+|[nec-01-ekGHLJSHGgWMUwkY.htm](spells/nec-01-ekGHLJSHGgWMUwkY.htm)|Touch of Corruption (Healing)|auto-trad|
+|[nec-01-IxyD7YdRbSSucxZp.htm](spells/nec-01-IxyD7YdRbSSucxZp.htm)|Lay on Hands (Vs. Undead)|auto-trad|
 
 ## Liste des traductions complétés
 
