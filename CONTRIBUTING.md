@@ -52,13 +52,15 @@ Au besoin, vous pouvez vous faire aider par différents membres de la communaut�
 
 ** La première lettre des mots qui correspondent à un terme technique du jeu sont fréquemment en majuscule. Ainsi : _vous faites une **F**rappe à une créature **O**bservée._
 
-** on supprime les balises <span></span>.
+** on supprime en général les balises <span></span>.
 
-** On supprime toutes les références aux pages.
+** On supprime toutes les références aux pages des livres.
 
 ** Quand il est indiqué des sorts "dans ce livre", on remplace par des sorts "du livre de base". Il n'y a pas de "sorts ordinaires", mais des "sorts courants"  (pb de glossaire des traducteurs de chez BBE). 
 
 ** En vf on remet les listes dans l'ordre alphabétique ou par niveau si c'est classé par niveau. En cas de doute, on demande un avis.
+
+** Dans les textes descriptifs : 1/jour devient une fois par jour. 1 min. devient 1 minute. On a de la place, ce qui n'est pas le cas des traducteurs BBE qui ont besoin de réduire pour tenir la pagination.
 
 ** Il existe des balises pour créer des liens que vous repérerez facilement car elles prennent la forme  suivante @Compendium[pf2e.feats-srd.muMOxZyduEFv8UT6]{Nom en français}. Quand vous les croisez, vous remplacez ce qui est entre les {nom affiché}. Vous pouvez alors sans souci mettre au féminin, au pluriel ou conjuguer. Les liens entre les fichiers se font par renvoi à l'ID du compendium qui est indiqué entre les [crochets] qui ne doit jamais être modifié.
 
