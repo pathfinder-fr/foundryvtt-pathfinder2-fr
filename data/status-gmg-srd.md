@@ -11,7 +11,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
-|-----------|-------------|-------------|:----:|
+|-----------|-------------|:----:|
 |[3g3uXFsHbfcad8eA.htm](gmg-srd/3g3uXFsHbfcad8eA.htm)|The Fool|auto-trad|
 |[652cIWAXc8zAxkac.htm](gmg-srd/652cIWAXc8zAxkac.htm)|Matter of Might|auto-trad|
 |[6NOZe9gUfVEedECW.htm](gmg-srd/6NOZe9gUfVEedECW.htm)|Star|auto-trad|

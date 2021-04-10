@@ -12,7 +12,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
-|-----------|-------------|-------------|:----:|
+|-----------|-------------|:----:|
 |[1r7WAEsYIPvEpoRM.htm](bestiary-ability-glossary-srd/1r7WAEsYIPvEpoRM.htm)|Faith Bound|auto-trad|
 |[DWG2SKI0XexURcnV.htm](bestiary-ability-glossary-srd/DWG2SKI0XexURcnV.htm)|Divine Destruction|auto-trad|
 |[fQCiK3uVBuWQmMP6.htm](bestiary-ability-glossary-srd/fQCiK3uVBuWQmMP6.htm)|Faithful Weapon|auto-trad|

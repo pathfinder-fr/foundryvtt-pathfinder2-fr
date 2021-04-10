@@ -12,7 +12,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
-|-----------|-------------|-------------|:----:|
+|-----------|-------------|:----:|
 |[25NJcH5SkWh1Tol7.htm](archetypes/25NJcH5SkWh1Tol7.htm)|Spellmaster|auto-trad|
 |[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|auto-trad|
 |[gw4J1pXYED71TPWx.htm](archetypes/gw4J1pXYED71TPWx.htm)|Bellflower Tiller|auto-trad|
