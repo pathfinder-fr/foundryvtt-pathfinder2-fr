@@ -348,7 +348,7 @@ def dirtyGoogleTranslate(data):
   output = WebDriverWait(driver, timeout=120).until(lambda d: d.find_element_by_xpath("//div[@class='J0lOec']"))
   transData = output.text
   driver.quit()
-  transData = cleanTrad(transData)
+  transData = cleanGoogleTrad(transData)
   return transData
 
 
