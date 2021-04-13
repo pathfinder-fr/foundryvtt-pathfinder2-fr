@@ -5,7 +5,7 @@
  * **changé**: 2
 
 
-Dernière mise à jour: 2021-04-10 08:57 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-13 18:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -87,9 +87,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[EJRWGsPWzAhixuvQ.htm](backgrounds/EJRWGsPWzAhixuvQ.htm)|Belkzen Slayer|Tueur du Belkzen|libre|
 |[eYY3bX7xSH7aicqT.htm](backgrounds/eYY3bX7xSH7aicqT.htm)|Atteran Rancher|Rancher Atteran|libre|
 |[faHydq29Q4RP5CAK.htm](backgrounds/faHydq29Q4RP5CAK.htm)|Martial Disciple (Athletics)|Disciple martial (Athlétisme)|libre|
-|[ffcNsTUBsxFwbNgJ.htm](backgrounds/ffcNsTUBsxFwbNgJ.htm)|Lastwall Survivor|Survivant de Dernier-Rempart|libre|
+|[ffcNsTUBsxFwbNgJ.htm](backgrounds/ffcNsTUBsxFwbNgJ.htm)|Lastwall Survivor|Survivant du Dernier-Rempart|libre|
 |[FKHut73XDUGTnKkP.htm](backgrounds/FKHut73XDUGTnKkP.htm)|Field Medic|Médecin militaire|officielle|
-|[fML6YrXYDqQy0g7L.htm](backgrounds/fML6YrXYDqQy0g7L.htm)|Iolite Trainee Hobgoblin|Recrue iolite hobgobeline|libre|
+|[fML6YrXYDqQy0g7L.htm](backgrounds/fML6YrXYDqQy0g7L.htm)|Iolite Trainee Hobgoblin|Recrue Iolite Hobgobeline|libre|
 |[fuTLDmihr9Z9e5wa.htm](backgrounds/fuTLDmihr9Z9e5wa.htm)|Cultist|Cultiste|libre|
 |[gfklP8ub45R4wXKe.htm](backgrounds/gfklP8ub45R4wXKe.htm)|Aspiring River Monarch|Aspirant Monarque du Fleuve|libre|
 |[GNidqGnSABx1rQUQ.htm](backgrounds/GNidqGnSABx1rQUQ.htm)|Missionary|Missionnaire|libre|
@@ -98,7 +98,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[h98cEl4DY75IL6KJ.htm](backgrounds/h98cEl4DY75IL6KJ.htm)|Teamster|Conducteur d'attelages|libre|
 |[HdnmIaLadhRfZq8X.htm](backgrounds/HdnmIaLadhRfZq8X.htm)|Insurgent|Insurgé|libre|
 |[HDquvQywAZimmcFF.htm](backgrounds/HDquvQywAZimmcFF.htm)|Refugee (Fall of Plaguestone)|Réfugié (la Chute de Plaguestone)|libre|
-|[HEd2Lxgvl080nRxx.htm](backgrounds/HEd2Lxgvl080nRxx.htm)|Shadow Lodge Defector|Défecteur de la Loge de l'ombre|libre|
+|[HEd2Lxgvl080nRxx.htm](backgrounds/HEd2Lxgvl080nRxx.htm)|Shadow Lodge Defector|Défecteur de la Loge de l'Ombre|libre|
 |[HKRcQO8Xj7xzBxAw.htm](backgrounds/HKRcQO8Xj7xzBxAw.htm)|Faction Opportunist|Opportuniste des Factions|libre|
 |[HNp0uNsIx3BNBcr5.htm](backgrounds/HNp0uNsIx3BNBcr5.htm)|Animal Wrangler (Athletics)|Dresseur d'animaux (Athlétisme)|libre|
 |[hPx0xiv00GQqPWUH.htm](backgrounds/hPx0xiv00GQqPWUH.htm)|Kalistrade Follower|Suivant de Kalistrade|libre|
@@ -116,13 +116,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IObZEUz8wneEMgR3.htm](backgrounds/IObZEUz8wneEMgR3.htm)|Deckhand|Homme de pont|libre|
 |[iPuclSXdCEAVfTZ0.htm](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Empty Background]|[Historique vierge]|changé|
 |[irDibuV3Wi7T43sL.htm](backgrounds/irDibuV3Wi7T43sL.htm)|Child of the Puddles|Marmot des flaques|libre|
-|[iWWg16f3re1YChiD.htm](backgrounds/iWWg16f3re1YChiD.htm)|Oenopion-Ooze Tender|Éleveur de vases d'œnopion|libre|
+|[iWWg16f3re1YChiD.htm](backgrounds/iWWg16f3re1YChiD.htm)|Oenopion-Ooze Tender|Éleveur de vases d'Oenopion|libre|
 |[ixluAGUDZciLEHtb.htm](backgrounds/ixluAGUDZciLEHtb.htm)|Tax Collector|Percepteur|libre|
 |[IXxdCzBS0xP20ckw.htm](backgrounds/IXxdCzBS0xP20ckw.htm)|Ward|Pupille|libre|
 |[j2G71vQahw1DiWpO.htm](backgrounds/j2G71vQahw1DiWpO.htm)|Cursed|Maudit|libre|
 |[j9v38iHA0sVy59SR.htm](backgrounds/j9v38iHA0sVy59SR.htm)|Pathfinder Hopeful|Aspirant Éclaireur|officielle|
 |[JauSkDtMV6dhDZS8.htm](backgrounds/JauSkDtMV6dhDZS8.htm)|Political Scion|Rejeton de politicien|libre|
-|[JfGVkZkaoz2lnmov.htm](backgrounds/JfGVkZkaoz2lnmov.htm)|Bright Lion|Lion brillant|libre|
+|[JfGVkZkaoz2lnmov.htm](backgrounds/JfGVkZkaoz2lnmov.htm)|Bright Lion|Lion Brillant|libre|
 |[khGFmnQMBYmz2ONR.htm](backgrounds/khGFmnQMBYmz2ONR.htm)|Sarkorian Reclaimer|Réclamateur du Sarkoris|libre|
 |[kLjqmylGOXeQ5o5Y.htm](backgrounds/kLjqmylGOXeQ5o5Y.htm)|Bonuwat Wavetouched|Bonuwat Touché par les vagues|libre|
 |[KMv7ollLVaZ81XDV.htm](backgrounds/KMv7ollLVaZ81XDV.htm)|Merchant|Marchand|officielle|
@@ -136,7 +136,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[m1vRLRHTpCrgk89G.htm](backgrounds/m1vRLRHTpCrgk89G.htm)|Thrune Loyalist|Loyaliste Thrune|libre|
 |[MiRWGXZnEdurMvVf.htm](backgrounds/MiRWGXZnEdurMvVf.htm)|Eldritch Anatomist|Anatomiste mystique|libre|
 |[moVRsnpjB5THCwxE.htm](backgrounds/moVRsnpjB5THCwxE.htm)|Street Urchin|Enfant des rues|officielle|
-|[mrkgVjiEdlPjLUsN.htm](backgrounds/mrkgVjiEdlPjLUsN.htm)|Vidrian Reformer|Réformateur vidrien|libre|
+|[mrkgVjiEdlPjLUsN.htm](backgrounds/mrkgVjiEdlPjLUsN.htm)|Vidrian Reformer|Réformateur Vidrien|libre|
 |[MslumKt6iwJ85GKZ.htm](backgrounds/MslumKt6iwJ85GKZ.htm)|Thuvian Unifier|Unificateur de Thuvie|libre|
 |[mxJRdRSMsyZfBf5c.htm](backgrounds/mxJRdRSMsyZfBf5c.htm)|Hermean Heritor|Héritier d'Herméa|libre|
 |[n2JN5Kiu7tOCAHPr.htm](backgrounds/n2JN5Kiu7tOCAHPr.htm)|Market Runner|Coureur du marché|libre|

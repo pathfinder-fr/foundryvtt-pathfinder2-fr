@@ -1,22 +1,13 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
- * **libre**: 11
- * **officielle**: 30
- * **changé**: 11
- * **auto-trad**: 3
+ * **libre**: 16
+ * **officielle**: 37
+ * **changé**: 2
 
 
-Dernière mise à jour: 2021-04-10 08:57 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-13 18:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions automatiques à corriger/retraduire
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[o4EYJEBi2YwYzGov.htm](bestiary-ability-glossary-srd/o4EYJEBi2YwYzGov.htm)|Divine Domain Spells (Divine Warden)|auto-trad|
-|[RJbI07QSiYp0SF9A.htm](bestiary-ability-glossary-srd/RJbI07QSiYp0SF9A.htm)|Troop Defenses|auto-trad|
-|[UzITQk56510jg5hS.htm](bestiary-ability-glossary-srd/UzITQk56510jg5hS.htm)|Wind Up|auto-trad|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -58,18 +49,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[m4HQ2o5aPxjXf2kY.htm](bestiary-ability-glossary-srd/m4HQ2o5aPxjXf2kY.htm)|Shield Block|Blocage au bouclier|officielle|
 |[N1kstYbHScxgUQtN.htm](bestiary-ability-glossary-srd/N1kstYbHScxgUQtN.htm)|Ferocity|Férocité|officielle|
 |[nZMQh4AaBr291TUf.htm](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Buck|Désarçonner|changé|
-|[OmV6E3aELvq9CkK1.htm](bestiary-ability-glossary-srd/OmV6E3aELvq9CkK1.htm)|Greater Constrict|Constriction supérieure|changé|
+|[o4EYJEBi2YwYzGov.htm](bestiary-ability-glossary-srd/o4EYJEBi2YwYzGov.htm)|Divine Domain Spells (Divine Warden)|Sorts de domaine divin (Gardien divin)|libre|
+|[OmV6E3aELvq9CkK1.htm](bestiary-ability-glossary-srd/OmV6E3aELvq9CkK1.htm)|Greater Constrict|Constriction supérieure|officielle|
 |[OvqohW9YuahnFaiX.htm](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Form Up|Se reformer|libre|
-|[qCCLZhnp2HhP3Ex6.htm](bestiary-ability-glossary-srd/qCCLZhnp2HhP3Ex6.htm)|Darkvision|Vision dans le noir|changé|
+|[qCCLZhnp2HhP3Ex6.htm](bestiary-ability-glossary-srd/qCCLZhnp2HhP3Ex6.htm)|Darkvision|Vision dans le noir|officielle|
+|[RJbI07QSiYp0SF9A.htm](bestiary-ability-glossary-srd/RJbI07QSiYp0SF9A.htm)|Troop Defenses|Défenses des troupes|libre|
 |[rqfnQ5VHT5hxm25r.htm](bestiary-ability-glossary-srd/rqfnQ5VHT5hxm25r.htm)|Scent|Odorat|officielle|
 |[sebk9XseMCRkDqRg.htm](bestiary-ability-glossary-srd/sebk9XseMCRkDqRg.htm)|Lifesense|Sens de la vie|officielle|
-|[t6cx9FOODmeZQNYl.htm](bestiary-ability-glossary-srd/t6cx9FOODmeZQNYl.htm)|Push|Bousculade|changé|
-|[Tkd8sH4pwFIPzqTr.htm](bestiary-ability-glossary-srd/Tkd8sH4pwFIPzqTr.htm)|Grab|Empoignade/agrippement|changé|
+|[t6cx9FOODmeZQNYl.htm](bestiary-ability-glossary-srd/t6cx9FOODmeZQNYl.htm)|Push|Bousculade|officielle|
+|[Tkd8sH4pwFIPzqTr.htm](bestiary-ability-glossary-srd/Tkd8sH4pwFIPzqTr.htm)|Grab|Empoignade/agrippement|libre|
 |[TTCw5NusiSSkJU1x.htm](bestiary-ability-glossary-srd/TTCw5NusiSSkJU1x.htm)|Negative Healing|Soins négatifs|libre|
-|[uG0Z8PsyZtsYuvGR.htm](bestiary-ability-glossary-srd/uG0Z8PsyZtsYuvGR.htm)|Catch Rock|Interception de rochers|changé|
-|[uJSseLa57HZYSMUu.htm](bestiary-ability-glossary-srd/uJSseLa57HZYSMUu.htm)|Swallow Whole|Gober|changé|
+|[uG0Z8PsyZtsYuvGR.htm](bestiary-ability-glossary-srd/uG0Z8PsyZtsYuvGR.htm)|Catch Rock|Interception de rochers|officielle|
+|[uJSseLa57HZYSMUu.htm](bestiary-ability-glossary-srd/uJSseLa57HZYSMUu.htm)|Swallow Whole|Gober|libre|
 |[UNah0bxXxkcZjxO3.htm](bestiary-ability-glossary-srd/UNah0bxXxkcZjxO3.htm)|Trample|Piétinement|officielle|
-|[v61oEQaDdcRpaZ9X.htm](bestiary-ability-glossary-srd/v61oEQaDdcRpaZ9X.htm)|Aura|Aura|changé|
-|[VdSMQ6yRZ3YXNXHL.htm](bestiary-ability-glossary-srd/VdSMQ6yRZ3YXNXHL.htm)|Wavesense|Perception des ondes|changé|
-|[Z025dWgZtawbuRLI.htm](bestiary-ability-glossary-srd/Z025dWgZtawbuRLI.htm)|Disease|Maladie|changé|
+|[UzITQk56510jg5hS.htm](bestiary-ability-glossary-srd/UzITQk56510jg5hS.htm)|Wind Up|Remonter|libre|
+|[v61oEQaDdcRpaZ9X.htm](bestiary-ability-glossary-srd/v61oEQaDdcRpaZ9X.htm)|Aura|Aura|officielle|
+|[VdSMQ6yRZ3YXNXHL.htm](bestiary-ability-glossary-srd/VdSMQ6yRZ3YXNXHL.htm)|Wavesense|Perception des ondes|officielle|
+|[Z025dWgZtawbuRLI.htm](bestiary-ability-glossary-srd/Z025dWgZtawbuRLI.htm)|Disease|Maladie|officielle|
 |[zU3Ovaet4xQ5Gmvy.htm](bestiary-ability-glossary-srd/zU3Ovaet4xQ5Gmvy.htm)|Engulf|Engloutissement|changé|

@@ -6,7 +6,7 @@
  * **auto-trad**: 11
 
 
-Dernière mise à jour: 2021-04-10 08:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-13 18:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire

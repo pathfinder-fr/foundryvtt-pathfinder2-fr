@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 102
- * **changé**: 214
- * **libre**: 51
+ * **officielle**: 122
+ * **libre**: 55
+ * **changé**: 190
  * **auto-trad**: 1
 
 
-Dernière mise à jour: 2021-04-10 08:57 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-13 18:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -23,39 +23,39 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|officielle|
 |[alchemist-01-cU2ofQLj7pg6wTSi.htm](classfeatures/alchemist-01-cU2ofQLj7pg6wTSi.htm)|Research Field|Domaine de recherche|officielle|
 |[alchemist-01-eNZnx4LISDNftbx2.htm](classfeatures/alchemist-01-eNZnx4LISDNftbx2.htm)|Chirurgeon|Chirurgien|officielle|
-|[alchemist-01-P9quO9XZi3OWFe1k.htm](classfeatures/alchemist-01-P9quO9XZi3OWFe1k.htm)|Toxicologist|Toxicologiste|changé|
+|[alchemist-01-P9quO9XZi3OWFe1k.htm](classfeatures/alchemist-01-P9quO9XZi3OWFe1k.htm)|Toxicologist|Toxicologiste|libre|
 |[alchemist-01-Pe0zmIqyTBc2Td0I.htm](classfeatures/alchemist-01-Pe0zmIqyTBc2Td0I.htm)|Advanced Alchemy|Alchimie avancée|officielle|
-|[alchemist-01-sPtl05wwTpqFI0lL.htm](classfeatures/alchemist-01-sPtl05wwTpqFI0lL.htm)|Quick Alchemy|Alchimie rapide|changé|
-|[alchemist-01-tvdb1jkjl2bRZjSp.htm](classfeatures/alchemist-01-tvdb1jkjl2bRZjSp.htm)|Mutagenist|Mutagèniste|changé|
-|[alchemist-01-wySB9VHOW1v3TX1L.htm](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Infused Reagents|Réactifs imprégnés|changé|
+|[alchemist-01-sPtl05wwTpqFI0lL.htm](classfeatures/alchemist-01-sPtl05wwTpqFI0lL.htm)|Quick Alchemy|Alchimie rapide|officielle|
+|[alchemist-01-tvdb1jkjl2bRZjSp.htm](classfeatures/alchemist-01-tvdb1jkjl2bRZjSp.htm)|Mutagenist|Mutagèniste|officielle|
+|[alchemist-01-wySB9VHOW1v3TX1L.htm](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Infused Reagents|Réactifs imprégnés|officielle|
 |[alchemist-05-6zo2PJGYoig7nFpR.htm](classfeatures/alchemist-05-6zo2PJGYoig7nFpR.htm)|Field Discovery (Toxicologist)|Découverte de domaine de recherche (Toxicologiste)|libre|
 |[alchemist-05-7JK2a1D3VeWDcObo.htm](classfeatures/alchemist-05-7JK2a1D3VeWDcObo.htm)|Powerful Alchemy|Alchimie puissante|libre|
 |[alchemist-05-8QAFgy9U8PxEa7Dw.htm](classfeatures/alchemist-05-8QAFgy9U8PxEa7Dw.htm)|Field Discovery (Bomber)|Découverte de domaine de recherche (Artificier)|officielle|
 |[alchemist-05-qC0Iz6SlG2i9gv6g.htm](classfeatures/alchemist-05-qC0Iz6SlG2i9gv6g.htm)|Field Discovery (Chirurgeon)|Découverte de domaine de recherche (Chirurgien)|officielle|
-|[alchemist-05-V4Jt7eDnJBLv5bDj.htm](classfeatures/alchemist-05-V4Jt7eDnJBLv5bDj.htm)|Field Discovery (Mutagenist)|Découverte de domaine de recherche (Mutagèniste)|changé|
-|[alchemist-07-4ocPy4O0OCLY0XCM.htm](classfeatures/alchemist-07-4ocPy4O0OCLY0XCM.htm)|Alchemical Weapon Expertise|Expertise avec les armes alchimiques|changé|
-|[alchemist-07-DFQDtT1Van4fFEHi.htm](classfeatures/alchemist-07-DFQDtT1Van4fFEHi.htm)|Perpetual Infusions (Bomber)|Infusions perpétuelles (Artificier)|changé|
-|[alchemist-07-Dug1oaVYejLmYEFt.htm](classfeatures/alchemist-07-Dug1oaVYejLmYEFt.htm)|Perpetual Infusions (Mutagenist)|Infusions perpétuelles (Mutagèniste)|changé|
-|[alchemist-07-fzvIe6FwwCuIdnjX.htm](classfeatures/alchemist-07-fzvIe6FwwCuIdnjX.htm)|Perpetual Infusions (Chirurgeon)|Infusions perpétuelles (Chirurgien)|changé|
+|[alchemist-05-V4Jt7eDnJBLv5bDj.htm](classfeatures/alchemist-05-V4Jt7eDnJBLv5bDj.htm)|Field Discovery (Mutagenist)|Découverte de domaine de recherche (Mutagèniste)|officielle|
+|[alchemist-07-4ocPy4O0OCLY0XCM.htm](classfeatures/alchemist-07-4ocPy4O0OCLY0XCM.htm)|Alchemical Weapon Expertise|Expertise avec les armes alchimiques|officielle|
+|[alchemist-07-DFQDtT1Van4fFEHi.htm](classfeatures/alchemist-07-DFQDtT1Van4fFEHi.htm)|Perpetual Infusions (Bomber)|Infusions perpétuelles (Artificier)|officielle|
+|[alchemist-07-Dug1oaVYejLmYEFt.htm](classfeatures/alchemist-07-Dug1oaVYejLmYEFt.htm)|Perpetual Infusions (Mutagenist)|Infusions perpétuelles (Mutagèniste)|officielle|
+|[alchemist-07-fzvIe6FwwCuIdnjX.htm](classfeatures/alchemist-07-fzvIe6FwwCuIdnjX.htm)|Perpetual Infusions (Chirurgeon)|Infusions perpétuelles (Chirurgien)|officielle|
 |[alchemist-07-JVCxv4HuLaaFhAf4.htm](classfeatures/alchemist-07-JVCxv4HuLaaFhAf4.htm)|Iron Will (Level 7)|Volonté de fer (Niveau 7)|libre|
-|[alchemist-07-LlZ5R50z9j8jysZL.htm](classfeatures/alchemist-07-LlZ5R50z9j8jysZL.htm)|Perpetual Infusions (Toxicologist)|Infusions perpétuelles (Toxicologiste)|changé|
-|[alchemist-09-3e1PlMXmlSwKoc6d.htm](classfeatures/alchemist-09-3e1PlMXmlSwKoc6d.htm)|Alchemical Expertise|Expertise alchimique|changé|
-|[alchemist-09-76cwNLJEm4Yetnee.htm](classfeatures/alchemist-09-76cwNLJEm4Yetnee.htm)|Double Brew|Double préparation|changé|
+|[alchemist-07-LlZ5R50z9j8jysZL.htm](classfeatures/alchemist-07-LlZ5R50z9j8jysZL.htm)|Perpetual Infusions (Toxicologist)|Infusions perpétuelles (Toxicologiste)|libre|
+|[alchemist-09-3e1PlMXmlSwKoc6d.htm](classfeatures/alchemist-09-3e1PlMXmlSwKoc6d.htm)|Alchemical Expertise|Expertise alchimique|officielle|
+|[alchemist-09-76cwNLJEm4Yetnee.htm](classfeatures/alchemist-09-76cwNLJEm4Yetnee.htm)|Double Brew|Double préparation|officielle|
 |[alchemist-09-TAIOtk5VvPZvv4nu.htm](classfeatures/alchemist-09-TAIOtk5VvPZvv4nu.htm)|Alertness (Level 9)|Vigilance (Niveau 9)|libre|
 |[alchemist-11-8rEVg03QJ71ic3PP.htm](classfeatures/alchemist-11-8rEVg03QJ71ic3PP.htm)|Perpetual Potency (Bomber)|Efficacité perpétuelle (Artificier)|officielle|
 |[alchemist-11-JOdbVu14phvdjhaY.htm](classfeatures/alchemist-11-JOdbVu14phvdjhaY.htm)|Perpetual Potency (Toxicologist)|Efficacité perpétuelle (Toxicologiste)|libre|
-|[alchemist-11-mZFqRLYOQEqKA8ri.htm](classfeatures/alchemist-11-mZFqRLYOQEqKA8ri.htm)|Perpetual Potency (Mutagenist)|Efficacité perpétuelle (Mutagèniste)|changé|
-|[alchemist-11-VS5vkqUQu4n7E28Y.htm](classfeatures/alchemist-11-VS5vkqUQu4n7E28Y.htm)|Perpetual Potency (Chirurgeon)|Efficacité perpétuelle (Chirurgien)|changé|
-|[alchemist-13-1BKdOJ0HNL6Eg3xw.htm](classfeatures/alchemist-13-1BKdOJ0HNL6Eg3xw.htm)|Greater Field Discovery (Mutagenist)|Découverte de domaine de recherche supérieure (Mutagèniste)|changé|
-|[alchemist-13-JJcaVijwRt9dsnac.htm](classfeatures/alchemist-13-JJcaVijwRt9dsnac.htm)|Greater Field Discovery (Chirurgeon)|Découverte de domaine de recherche supérieure (Chirurgien)|changé|
-|[alchemist-13-RGs4uR3CAvgbtBAA.htm](classfeatures/alchemist-13-RGs4uR3CAvgbtBAA.htm)|Greater Field Discovery (Bomber)|Découverte de domaine de recherche supérieure (Artificier)|changé|
-|[alchemist-13-tnqyQrhrZeDtDvcO.htm](classfeatures/alchemist-13-tnqyQrhrZeDtDvcO.htm)|Greater Field Discovery (Toxicologist)|Découverte de domaine de recherche supérieure (Toxicologiste)|changé|
-|[alchemist-15-Eood6pNPaJxuSgD1.htm](classfeatures/alchemist-15-Eood6pNPaJxuSgD1.htm)|Alchemical Alacrity|Alacrité alchimique|changé|
+|[alchemist-11-mZFqRLYOQEqKA8ri.htm](classfeatures/alchemist-11-mZFqRLYOQEqKA8ri.htm)|Perpetual Potency (Mutagenist)|Efficacité perpétuelle (Mutagèniste)|officielle|
+|[alchemist-11-VS5vkqUQu4n7E28Y.htm](classfeatures/alchemist-11-VS5vkqUQu4n7E28Y.htm)|Perpetual Potency (Chirurgeon)|Efficacité perpétuelle (Chirurgien)|officielle|
+|[alchemist-13-1BKdOJ0HNL6Eg3xw.htm](classfeatures/alchemist-13-1BKdOJ0HNL6Eg3xw.htm)|Greater Field Discovery (Mutagenist)|Découverte de domaine de recherche supérieure (Mutagèniste)|officielle|
+|[alchemist-13-JJcaVijwRt9dsnac.htm](classfeatures/alchemist-13-JJcaVijwRt9dsnac.htm)|Greater Field Discovery (Chirurgeon)|Découverte de domaine de recherche supérieure (Chirurgien)|officielle|
+|[alchemist-13-RGs4uR3CAvgbtBAA.htm](classfeatures/alchemist-13-RGs4uR3CAvgbtBAA.htm)|Greater Field Discovery (Bomber)|Découverte de domaine de recherche supérieure (Artificier)|officielle|
+|[alchemist-13-tnqyQrhrZeDtDvcO.htm](classfeatures/alchemist-13-tnqyQrhrZeDtDvcO.htm)|Greater Field Discovery (Toxicologist)|Découverte de domaine de recherche supérieure (Toxicologiste)|libre|
+|[alchemist-15-Eood6pNPaJxuSgD1.htm](classfeatures/alchemist-15-Eood6pNPaJxuSgD1.htm)|Alchemical Alacrity|Alacrité alchimique|officielle|
 |[alchemist-17-3R19zS7gERhEX87F.htm](classfeatures/alchemist-17-3R19zS7gERhEX87F.htm)|Perpetual Perfection (Toxicologist)|Perfection perpétuelle (Toxicologiste)|libre|
-|[alchemist-17-CGetAmSbv06fW7GT.htm](classfeatures/alchemist-17-CGetAmSbv06fW7GT.htm)|Perpetual Perfection (Mutagenist)|Perfection perpétuelle (Mutagèniste)|changé|
-|[alchemist-17-eG7FBDjCdEFzW9V9.htm](classfeatures/alchemist-17-eG7FBDjCdEFzW9V9.htm)|Alchemical Mastery|Maîtrise alchimique|changé|
-|[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|Perfection perpétuelle (Artificier)|changé|
-|[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|Perfection perpétuelle (Chirurgien)|changé|
+|[alchemist-17-CGetAmSbv06fW7GT.htm](classfeatures/alchemist-17-CGetAmSbv06fW7GT.htm)|Perpetual Perfection (Mutagenist)|Perfection perpétuelle (Mutagèniste)|officielle|
+|[alchemist-17-eG7FBDjCdEFzW9V9.htm](classfeatures/alchemist-17-eG7FBDjCdEFzW9V9.htm)|Alchemical Mastery|Maîtrise alchimique|officielle|
+|[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|Perfection perpétuelle (Artificier)|officielle|
+|[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|Perfection perpétuelle (Chirurgien)|officielle|
 |[barbarian-01-0FtzFbUrN56KA67z.htm](classfeatures/barbarian-01-0FtzFbUrN56KA67z.htm)|Animal Instinct|Instinct animal|changé|
 |[barbarian-01-1ZugTzJHsa94AZRW.htm](classfeatures/barbarian-01-1ZugTzJHsa94AZRW.htm)|Copper Dragon Instinct|Instinct du Dragon - Cuivre|officielle|
 |[barbarian-01-2esqOHCn4GcZ4zYD.htm](classfeatures/barbarian-01-2esqOHCn4GcZ4zYD.htm)|White Dragon Instinct|Instinct du dragon - Blanc|officielle|
@@ -276,7 +276,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-01-D8qtAo2w4jsqjBrM.htm](classfeatures/rogue-01-D8qtAo2w4jsqjBrM.htm)|Eldritch Trickster Racket|Trafic de roublard : Mystificateur|changé|
 |[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|changé|
 |[rogue-01-RyOkmu0W9svavuAB.htm](classfeatures/rogue-01-RyOkmu0W9svavuAB.htm)|Mastermind Racket|Trafic de roublard : Cerveau|changé|
-|[rogue-01-uGuCGQvUmioFV2Bd.htm](classfeatures/rogue-01-uGuCGQvUmioFV2Bd.htm)|Rogue's Racket|Trafics de roublard|changé|
+|[rogue-01-uGuCGQvUmioFV2Bd.htm](classfeatures/rogue-01-uGuCGQvUmioFV2Bd.htm)|Rogue's Racket|Trafics de roublard|libre|
 |[rogue-01-w6rMqmGzhUahdnA7.htm](classfeatures/rogue-01-w6rMqmGzhUahdnA7.htm)|Surprise Attack|Attaque surprise|officielle|
 |[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|changé|
 |[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Trafic de roublard : Scélérat|changé|

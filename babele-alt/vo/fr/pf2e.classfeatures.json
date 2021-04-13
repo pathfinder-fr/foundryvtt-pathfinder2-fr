@@ -179,12 +179,12 @@
         {
             "id": "Alchemical Alacrity",
             "name": "Alchemical Alacrity",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous préparez des objets avec tellement de facilité que vous pouvez en créer trois à la fois. Quand vous utilisez l’action @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Alchimie rapide}, vous pouvez utiliser jusqu’à trois lots de réactifs imprégnés afin de créer trois objets alchimiques, comme indiqué dans le descriptif de cette action. Ces objets ne sont pas nécessairement identiques.&nbsp;</span></p>"
+            "description": "<p>Vous préparez des objets avec tellement de facilité que vous pouvez en créer trois à la fois. Quand vous utilisez l’action @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Alchimie rapide}, vous pouvez utiliser jusqu’à trois lots de réactifs imprégnés afin de créer trois objets alchimiques, comme indiqué dans le descriptif de cette action. Ces objets ne sont pas nécessairement identiques.</p>"
         },
         {
             "id": "Greater Field Discovery (Mutagenist)",
             "name": "Greater Field Discovery (Mutagenist)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous êtes sous l’effet d’un mutagène et que vous absorbez un autre mutagène, vous cumulez les avantages et les inconvénients de ces deux mutagènes, même s’ils possèdent tous les deux le trait métamorphose et ne pourraient normalement pas fonctionner de concert. Si, alors que vous êtes sous l’effet de deux mutagènes, vous vous trouvez sous l’effet d’un nouveau mutagène, vous perdez l’avantage de l’un des deux premiers mutagènes de votre choix, tout en conservant les inconvénients liés à l’ensemble des mutagènes absorbés. Si, alors que vous êtes sous l’effet de deux mutagènes, vous êtes affecté par un effet de métamorphose qui n’est pas lié à un mutagène, vous perdez les avantages liés aux deux mutagènes mais en conservez les inconvénients..&nbsp;</span></p>"
+            "description": "<p>Si vous êtes sous l’effet d’un mutagène et que vous absorbez un autre mutagène, vous cumulez les avantages et les inconvénients de ces deux mutagènes, même s’ils possèdent tous les deux le trait métamorphose et ne pourraient normalement pas fonctionner de concert. Si, alors que vous êtes sous l’effet de deux mutagènes, vous vous trouvez sous l’effet d’un nouveau mutagène, vous perdez l’avantage de l’un des deux premiers mutagènes de votre choix, tout en conservant les inconvénients liés à l’ensemble des mutagènes absorbés. Si, alors que vous êtes sous l’effet de deux mutagènes, vous êtes affecté par un effet de métamorphose qui n’est pas lié à un mutagène, vous perdez les avantages liés aux deux mutagènes mais en conservez les inconvénients.</p>"
         },
         {
             "id": "Forensic Medicine Methodology",
@@ -209,7 +209,7 @@
         {
             "id": "Perpetual Perfection (Bomber)",
             "name": "Perpetual Perfection (Bomber)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La version supérieure des bombes que vous avez choisies pour vos infusions perpétuelles..&nbsp;</span></p>"
+            "description": "<p>La version supérieure des bombes que vous avez choisies pour vos infusions perpétuelles.</p>"
         },
         {
             "id": "Slippery Mind",
@@ -224,7 +224,7 @@
         {
             "id": "Perpetual Infusions (Mutagenist)",
             "name": "Perpetual Infusions (Mutagenist)",
-            "description": "<p>Choisissez deux formules parmi les suivantes : @Compendium[pf2e.equipment-srd.ZR1TnC34ohP5nROX]{mutagène bestial (inférieur)}, @Compendium[pf2e.equipment-srd.zrcJMKdwxSKxxLEG]{mutagène cognitif (inférieur)}, @Compendium[pf2e.equipment-srd.iDgo3OfnikwNGyfo]{mutagène de juggernaut (inférieur)}, @Compendium[pf2e.equipment-srd.ChFYb3A94KNByRui]{mutagène de vif-argent (inférieur)}, @Compendium[pf2e.equipment-srd.bOPQDM54W8ZDoULY]{Mutagène de sérénité (inférieur)}, @Compendium[pf2e.equipment-srd.5fnEOtROEy2hkzDG]{langue dorée (inférieur)}.</p>"
+            "description": "<p>Vous avez appris à créer des infusions alchimiques perpétuelles qui vous permettent d’avoir accès à une réserve presque infinie de certains objets simples. Vous gagnez la capacité de créer deux objets alchimiques de niveau 1 en utilisant Alchimie rapide, sans avoir à dépenser un lot de réactifs imprégnés. Les objets que vous pouvez choisir dépendent de votre domaine de recherche et doivent se trouver dans votre formulaire.</p>\n<hr />\n<p>Choisissez deux formules parmi les suivantes :</p>\n<ul>\n<li>@Compendium[pf2e.equipment-srd.ZR1TnC34ohP5nROX]{mutagène bestial (inférieur)},</li>\n<li>@Compendium[pf2e.equipment-srd.zrcJMKdwxSKxxLEG]{mutagène cognitif (inférieur)},</li> \n<li>@Compendium[pf2e.equipment-srd.iDgo3OfnikwNGyfo]{mutagène de juggernaut (inférieur)},</li> \n<li>@Compendium[pf2e.equipment-srd.ChFYb3A94KNByRui]{mutagène de vif-argent (inférieur)},</li> \n<li>@Compendium[pf2e.equipment-srd.bOPQDM54W8ZDoULY]{Mutagène de sérénité (inférieur)},</li> \n<li>@Compendium[pf2e.equipment-srd.5fnEOtROEy2hkzDG]{Mutagène de langue dorée (inférieur)}.</li> \n</ul>"
         },
         {
             "id": "Lightning Reflexes (Level 9)",
@@ -279,7 +279,7 @@
         {
             "id": "Perpetual Potency (Toxicologist)",
             "name": "Perpetual Potency (Toxicologist)",
-            "description": "<p>Choisissez deux poisons courants de niveau 5 ou inférieur.</span></p>"
+            "description": "<p>Choisissez deux poisons courants de niveau 5 ou inférieur.</p>"
         },
         {
             "id": "Bloodline: Imperial",
@@ -339,7 +339,7 @@
         {
             "id": "Perpetual Potency (Mutagenist)",
             "name": "Perpetual Potency (Mutagenist)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La version moyenne des mutagènes que vous avez choisis pour vos infusions perpétuelles.&nbsp;</span></p>"
+            "description": "<p>La version moyenne des mutagènes que vous avez choisis pour vos infusions perpétuelles.</p>"
         },
         {
             "id": "Weapon Fury",
@@ -359,7 +359,7 @@
         {
             "id": "Toxicologist",
             "name": "Toxicologist",
-            "description": "<p><strong>Découverte de domaine de recherche (Niveau 1):</strong> Vous vous spécialisez dans les toxines et les venins de toutes sortes. Vous débutez avec les formules de deux poisons aclhimiques courants dans votre livre de formules, en plus de vos autres formules. Vous pouvez appliquer un poison de blessure que vous tenez sur une arme que vous maniez par une action unique, plutôt que par une activité à 2 actions et vous pouvez changer les DD de vos poisons imprégnés jusqu'à votre DD de classe s'il est plus élevé.</p>\n<p><strong>découverte de domaine de recherche (Niveau 5): </strong>Lorsque vous utilisez alchimie avancée pour fabriquer des poisons durant vos préparatifs quotidiens, vous pouvez dépenser un lot de réactifs pour créer trois poisons de n'importe quelle sorte, au lieu de deux poisons de même sorte seulement.</p>\n<p><strong>Infusions perpétuelles (niveau 7): </strong>Choose two common&nbsp;1st-level alchemical poisons.</p>\n<p><strong>Puissance perpétuelle (niveau 11):</strong> Choisissez deux poisons courants de niveau 5 ou inférieur.</p>\n<p><strong>Découverte de domaine de recherche supérieur (niveau 15):</strong> Vous pouvez appliquer deux poisons de blessure différents sur la même arme, mais pas sur une munition. Les deux poisons doivent être de six niveaux plus faibles que votre niveau et vous ne pouvez utiliser les poisons concoctés en utilisant un lot de réactifs imprégnés par @Compendium[pf2e.classfeatures.LlZ5R50z9j8jysZL]{Infusions pérpétuelles}. Appliquer les deux poisons nécessite une action séparée pour apposer chacun des poisons.</p>\n<p>Une foix accompli, vous combinez les deux poisons sur l'arme en un poison double avec le DD le plus faible des deux. Ce poison double est virulent seulement si les deux poisons qui le composent étaient virulents et si les poisons ont un nombre différent de stades, le poison double possède un nombre de stades égal à celui du poison avec le plus faible nombre de stades. La cible subit les effets des deux poisons à son stade actuel.</p>\n<p><strong>Perfection perpétuelle (Niveau 17):</strong> Choisissez deux poisons courants de niveau 11 ou inférieurs.</p>"
+            "description": "<p>Vous vous spécialisez dans les toxines et les venins de toutes sortes. Vous débutez avec les formules de deux poisons aclhimiques courants dans votre recueil de formules, en plus de vos autres formules. Vous pouvez appliquer un poison de blessure que vous tenez sur une arme que vous maniez par une action unique, plutôt que par une activité à 2 actions et vous pouvez changer les DD de vos poisons imprégnés jusqu'à votre DD de classe s'il est plus élevé.</p>\nh2 class=\"title\">Découverte de domaine de recherche<span style=\"float: right;\">Niveau 5</span></h2>\n<p>Lorsque vous utilisez alchimie avancée pour fabriquer des poisons durant vos préparatifs quotidiens, vous pouvez dépenser un lot de réactifs pour créer trois poisons de n'importe quelle sorte, au lieu de deux poisons de même sorte seulement.</p>\n<h2 class=\"title\">Infusion perpétuelle<span style=\"float: right;\">Niveau 7</span></h2>\n<p>Choisissez deux poisons courants de niveau 1.</p>\n<h2 class=\"title\">Puissance perpétuelle<span style=\"float: right;\">Niveau 11</span></h2>\n<p><strong>Choisissez deux poisons courants de niveau 5 ou inférieur.</p>\n<h2 class=\"title\">Découverte de domaine de recherche supérieur<span style=\"float: right;\">Niveau 15</span></h2>\n<p>Vous pouvez appliquer deux poisons de blessure différents sur la même arme, mais pas sur une munition. Les deux poisons doivent être de six niveaux plus faibles que votre niveau et vous ne pouvez utiliser les poisons concoctés en utilisant un lot de réactifs imprégnés par Infusions pérpétuelles. Appliquer les deux poisons nécessite une action séparée pour apposer chacun des poisons.</p>\n<p>Une fois accompli, vous combinez les deux poisons sur l'arme en un poison double avec le DD le plus faible des deux. Ce poison double est virulent seulement si les deux poisons qui le composent étaient virulents et si les poisons ont un nombre différent de stades, le poison double possède un nombre de stades égal à celui du poison avec le plus faible nombre de stades. La cible subit les effets des deux poisons à son stade actuel.</p>\n<h2 class=\"title\">Perfection perpétuelle<span style=\"float: right;\">Niveau 17</span></h2>\n<p>Choisissez deux poisons alchimiques courants de niveau 11 ou inférieurs.</p>"
         },
         {
             "id": "Battledancer Style",
@@ -419,7 +419,7 @@
         {
             "id": "Greater Field Discovery (Toxicologist)",
             "name": "Greater Field Discovery (Toxicologist)",
-            "description": "<p>Vous pouvez appliquer deux poisons de blessure différents sur la même arme, mais pas sur une munition. Les deux poisons doivent être de six niveaux plus faibles que votre niveau et vous ne pouvez utiliser les poisons concoctés en utilisant un lot de réactifs imprégnés par @Compendium[pf2e.classfeatures.LlZ5R50z9j8jysZL]{Infusions pérpétuelles}. Appliquer les deux poisons nécessite une action séparée pour apposer chacun des poisons.</p>\n<p>Une foix accompli, vous combinez les deux poisons sur l'arme en un poison double avec le DD le plus faible des deux. Ce poison double est virulent seulement si les deux poisons qui le composent étaient virulents et si les poisons ont un nombre différent de stades, le poison double possède un nombre de stades égal à celui du poison avec le plus faible nombre de stades. La cible subit les effets des deux poisons à son stade actuel.</p>"
+            "description": "<p>Vous pouvez appliquer deux poisons de blessure différents sur la même arme, mais pas sur une munition. Les deux poisons doivent être de six niveaux plus faibles que votre niveau et vous ne pouvez utiliser les poisons concoctés en utilisant un lot de réactifs imprégnés par @Compendium[pf2e.classfeatures.LlZ5R50z9j8jysZL]{Infusions pérpétuelles}. Appliquer les deux poisons nécessite une action séparée pour apposer chacun des poisons.</p>\n<p>Une fois accompli, vous combinez les deux poisons sur l'arme en un poison double avec le DD le plus faible des deux. Ce poison double est virulent seulement si les deux poisons qui le composent étaient virulents et si les poisons ont un nombre différent de stades, le poison double possède un nombre de stades égal à celui du poison avec le plus faible nombre de stades. La cible subit les effets des deux poisons à son stade actuel.</p>"
         },
         {
             "id": "Continuous Flair",
@@ -484,7 +484,7 @@
         {
             "id": "Perpetual Perfection (Mutagenist)",
             "name": "Perpetual Perfection (Mutagenist)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">La version supérieure des mutagènes que vous avez choisis pour vos infusions perpétuelles.&nbsp;</span></p>"
+            "description": "<p>La version supérieure des mutagènes que vous avez choisis pour vos infusions perpétuelles.</p>"
         },
         {
             "id": "Wit Style",
@@ -504,7 +504,7 @@
         {
             "id": "Perpetual Infusions (Toxicologist)",
             "name": "Perpetual Infusions (Toxicologist)",
-            "description": "<p>Choisissez deux poisons alchimiques courants de niveau 1.</p>"
+            "description": "<p>Vous avez appris à créer des infusions alchimiques perpétuelles qui vous permettent d’avoir accès à une réserve presque infinie de certains objets simples. Vous gagnez la capacité de créer deux objets alchimiques de niveau 1 en utilisant Alchimie rapide, sans avoir à dépenser un lot de réactifs imprégnés. Les objets que vous pouvez choisir dépendent de votre domaine de recherche et doivent se trouver dans votre formulaire.</p>\n<hr />\n<p>Choisissez deux poisons alchimiques courants de niveau 1.</p>"
         },
         {
             "id": "Third Doctrine",
@@ -539,12 +539,12 @@
         {
             "id": "Perpetual Perfection (Chirurgeon)",
             "name": "Perpetual Perfection (Chirurgeon)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Antidote et anti-maladie supérieurs.&nbsp;</span></p>"
+            "description": "<p>Antidote et anti-maladie supérieurs.</p>"
         },
         {
             "id": "Perpetual Infusions (Bomber)",
             "name": "Perpetual Infusions (Bomber)",
-            "description": "<p>Choisissez deux formules parmi les suivantes :</p>\n<ul>\n<li>@Compendium[pf2e.equipment-srd.yd3kEK21YknZLlcT]{feu grégeois (inférieur)},</li>\n<li>@Compendium[pf2e.equipment-srd.M1k5QQc1qQLxzyCK]{fiole d’acide (inférieure)},</li>\n<li>@Compendium[pf2e.equipment-srd.EpxmUtLpCkE8R6KJ]{fiole givrée (inférieure)},</li> \n<li>@Compendium[pf2e.equipment-srd.AFR01HVd7DcZvkpP]{foudre en bouteille (inférieure)},</li>\n<li>@Compendium[pf2e.equipment-srd.Xnqglykl3Cif8rN9]{pierre à tonnerre (inférieure)},</li>\n<li>@Compendium[pf2e.equipment-srd.T6Appwwl6nUl56Xj]{sacoche immobilisante (inférieure)}.</li>\n</ul>"
+            "description": "<p>Vous avez appris à créer des infusions alchimiques perpétuelles qui vous permettent d’avoir accès à une réserve presque infinie de certains objets simples. Vous gagnez la capacité de créer deux objets alchimiques de niveau 1 en utilisant Alchimie rapide, sans avoir à dépenser un lot de réactifs imprégnés. Les objets que vous pouvez choisir dépendent de votre domaine de recherche et doivent se trouver dans votre formulaire.</p>\n<hr />\n<p>Choisissez deux formules parmi les suivantes :</p>\n<ul>\n<li>@Compendium[pf2e.equipment-srd.yd3kEK21YknZLlcT]{feu grégeois (inférieur)},</li>\n<li>@Compendium[pf2e.equipment-srd.M1k5QQc1qQLxzyCK]{fiole d’acide (inférieure)},</li>\n<li>@Compendium[pf2e.equipment-srd.EpxmUtLpCkE8R6KJ]{fiole givrée (inférieure)},</li> \n<li>@Compendium[pf2e.equipment-srd.AFR01HVd7DcZvkpP]{foudre en bouteille (inférieure)},</li>\n<li>@Compendium[pf2e.equipment-srd.Xnqglykl3Cif8rN9]{pierre à tonnerre (inférieure)},</li>\n<li>@Compendium[pf2e.equipment-srd.T6Appwwl6nUl56Xj]{sacoche immobilisante (inférieure)}.</li>\n</ul>"
         },
         {
             "id": "Copper Dragon Instinct",
@@ -644,7 +644,7 @@
         {
             "id": "Alchemical Mastery",
             "name": "Alchemical Mastery",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vos décoctions alchimiques sont terriblement efficaces. Votre rang de maîtrise dans le DD de classe alchimiste devient maître.&nbsp;</span></p>"
+            "description": "<p>Vos décoctions alchimiques sont terriblement efficaces. Votre rang de maîtrise dans le DD de classe alchimiste devient maître.</p>"
         },
         {
             "id": "Arcane Thesis: Spell Blending",
@@ -749,7 +749,7 @@
         {
             "id": "Alchemical Expertise",
             "name": "Alchemical Expertise",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">À force d’utiliser l’alchimie, vous avez appris à créer des décoctions plus efficaces. Votre rang de maîtrise dans le DD de classe alchimiste devient expert.&nbsp;</span></p>"
+            "description": "<p>À force d’utiliser l’alchimie, vous avez appris à créer des décoctions plus efficaces. Votre rang de maîtrise dans le DD de la classe d'alchimiste devient expert.</p>"
         },
         {
             "id": "Light Armor Expertise (Level 13)",
@@ -809,7 +809,7 @@
         {
             "id": "Infused Reagents",
             "name": "Infused Reagents",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous imprégnez vos réactifs avec votre propre essence alchimique et êtes ainsi en mesure de créer des objets alchimiques sans coût associé. Chaque jour, lors de vos préparatifs quotidiens, vous gagnez une quantité de lots de réactifs imprégnés égale à votre niveau + votre modificateur d’Intelligence. Vous pouvez utiliser ces réactifs dans le cadre de votre alchimie avancée ou de votre Alchimie rapide, toutes deux décrites ci-dessous. L’ensemble de ces réactifs imprégnés représentent un Encombrement léger.<br><br>Dès que vous commencez vos préparatifs quotidiens en prévision d’une nouvelle journée, les réactifs imprégnés que vous avez obtenus lors de vos préparatifs de la veille sont instantanément détruits et tous les effets non permanents de vos objets imprégnés de la veille prennent immédiatement fin. Bien que vos réactifs imprégnés soient des objets physiques, ils ne peuvent pas être dupliqués, préservés ou créés autrement que dans le cadre de vos préparatifs quotidiens. Les réactifs obtenus ainsi de façon artificielle ne sont pas imprégnés et ne peuvent pas être utilisés avec l’alchimie avancée ou l’Alchimie rapide.&nbsp;</span></p>"
+            "description": "<p>Vous imprégnez vos réactifs avec votre propre essence alchimique et êtes ainsi en mesure de créer des objets alchimiques sans coût associé. Chaque jour, lors de vos préparatifs quotidiens, vous gagnez une quantité de lots de réactifs imprégnés égale à votre niveau + votre modificateur d’Intelligence. Vous pouvez utiliser ces réactifs dans le cadre de votre alchimie avancée ou de votre Alchimie rapide, toutes deux décrites ci-dessous. L’ensemble de ces réactifs imprégnés représentent un Encombrement léger.<br><br>Dès que vous commencez vos préparatifs quotidiens en prévision d’une nouvelle journée, les réactifs imprégnés que vous avez obtenus lors de vos préparatifs de la veille sont instantanément détruits et tous les effets non permanents de vos objets imprégnés de la veille prennent immédiatement fin. Bien que vos réactifs imprégnés soient des objets physiques, ils ne peuvent pas être dupliqués, préservés ou créés autrement que dans le cadre de vos préparatifs quotidiens. Les réactifs obtenus ainsi de façon artificielle ne sont pas imprégnés et ne peuvent pas être utilisés avec l’alchimie avancée ou l’Alchimie rapide.</p>"
         },
         {
             "id": "Resolve (Level 11)",
@@ -889,7 +889,7 @@
         {
             "id": "Mutagenist",
             "name": "Mutagenist",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous êtes fasciné par les bizarres transformations mutagènes qui sacrifient un des aspects physiques ou psychologiques d’une créature afin d’en renforcer un autre. Vous commencez avec les formules de deux mutagènes de niveau 1 dans votre formulaire, en plus de vos autres formules.<br><br>Vous bénéficiez de l’action gratuite suivante :</span></p>\n<h3 class=\"title\">@Item[Flaskback du mutagène]</h3>\n<p><strong> Fréquence </strong> un par jour &nbsp;</p>\n<hr>\n<p> Vous bénéficiez d’une brève résurgence d’un mutagène. Choisissez-en un que vous avez consommé depuis vos derniers préparatifs quotidiens. Vous profitez de ses effets pendant 1 min p>\n<h2 class=\"title\"> Découverte de domaine de recherche <span style=\"float: right;\">Niveau 5</span></h2>\n<p> Quand vous utilisez alchimie avancée pour faire des mutagènes lors de vos préparatifs quotidiens, vous pouvez utiliser un lot de réactifs pour créer trois mutagènes de n’importe quel type au lieu de deux mutagènes d’un seul type.</p>\n<h2 class=\"title\"> Infusions perpétuelles <span style=\"float: right;\">Niveau 7</span></h2>\n<p> Choisissez deux formules parmi les suivantes: @Compendium[pf2e.equipment-srd.ZR1TnC34ohP5nROX]{Mutagène bestial (inférieur)}, Mutagène de sérénité (inférieur), @Compendium[pf2e.equipment-srd.zrcJMKdwxSKxxLEG]{Mutagène cognitif (inférieur)}, @Compendium[pf2e.equipment-srd.iDgo3OfnikwNGyfo]{Mutagène juggernaut (inférieur)}, @Compendium[pf2e.equipment-srd.ChFYb3A94KNByRui]{Mutagène de vif-argent (inférieur)}, @Compendium[pf2e.equipment-srd.5fnEOtROEy2hkzDG]{Mutagène de langue dorée (inférieur)}.<h2 class=\"title\"> Efficacité perpétuelle <span style=\"float: right;\">Niveau 11</span></h2>\n<p> La version moyenne des mutagènes que vous avez choisis pour vos infusions perpétuelles.</p>\n<h2 class=\"title\"> Découverte de domaine de recherche supérieure <span style=\"float: right;\">Niveau 13</span></h2>\n<p> Si vous êtes sous l’effet d’un mutagène que vous avez créé et que vous absorbez un autre mutagène, vous cumulez les avantages et les inconvénients de ces deux mutagènes, même s’ils possèdent tous les deux le trait métamorphose et ne pourraient normalement pas fonctionner de concert. Si, alors que vous êtes sous l’effet de deux mutagènes, vous vous trouvez sous l’effet d’un nouveau mutagène, vous perdez l’avantage de l’un des deux premiers mutagènes de votre choix, tout en conservant les inconvénients liés à l’ensemble des mutagènes absorbés. Si, alors que vous êtes sous l’effet de deux mutagènes, vous êtes affecté par un effet de métamorphose qui n’est pas lié à un mutagène, vous perdez les avantages liés aux deux mutagènes mais en conservez les inconvénients.</p>\n<h2 class=\"title\"> Perfection perpétuelle <span style=\"float: right;\">Niveau 17</span></h2>\n<p> La version supérieure des mutagènes que vous avez choisis pour vos infusions perpétuelles.</p>"
+            "description": "<p>Vous êtes fasciné par les bizarres transformations mutagènes qui sacrifient un des aspects physiques ou psychologiques d’une créature afin d’en renforcer un autre. Vous commencez avec les formules de deux mutagènes de niveau 1 dans votre formulaire, en plus de vos autres formules.</p>\n<p>Vous bénéficiez de l’action gratuite suivante :</p>\n<h3 class=\"title\">@Compendium[pf2e.actionspf2e.00LNVSCbwJ8pszwE]{Flashback du mutagène}</h3>\n<p><strong>Fréquence </strong> un par jour &nbsp;</p>\n<hr />\n<p> Vous bénéficiez d’une brève résurgence d’un mutagène. Choisissez-en un que vous avez consommé depuis vos derniers préparatifs quotidiens. Vous profitez de ses effets pendant 1 minute.</p>\n<h2 class=\"title\">Découverte de domaine de recherche <span style=\"float: right;\">Niveau 5</span></h2>\n<p> Quand vous utilisez alchimie avancée pour faire des mutagènes lors de vos préparatifs quotidiens, vous pouvez utiliser un lot de réactifs pour créer trois mutagènes de n’importe quel type au lieu de deux mutagènes d’un seul type.</p>\n<h2 class=\"title\">Infusions perpétuelles<span style=\"float: right;\">Niveau 7</span></h2>\n<p> Choisissez deux formules parmi les suivantes: @Compendium[pf2e.equipment-srd.ZR1TnC34ohP5nROX]{Mutagène bestial (inférieur)}, Mutagène de sérénité (inférieur), @Compendium[pf2e.equipment-srd.zrcJMKdwxSKxxLEG]{Mutagène cognitif (inférieur)}, @Compendium[pf2e.equipment-srd.iDgo3OfnikwNGyfo]{Mutagène juggernaut (inférieur)}, @Compendium[pf2e.equipment-srd.ChFYb3A94KNByRui]{Mutagène de vif-argent (inférieur)}, @Compendium[pf2e.equipment-srd.5fnEOtROEy2hkzDG]{Mutagène de langue dorée (inférieur)}.\n<h2 class=\"title\"> Efficacité perpétuelle <span style=\"float: right;\">Niveau 11</span></h2>\n<p>La version moyenne des mutagènes que vous avez choisis pour vos infusions perpétuelles.</p>\n<h2 class=\"title\"> Découverte de domaine de recherche supérieure <span style=\"float: right;\">Niveau 13</span></h2>\n<p>Si vous êtes sous l’effet d’un mutagène que vous avez créé et que vous absorbez un autre mutagène, vous cumulez les avantages et les inconvénients de ces deux mutagènes, même s’ils possèdent tous les deux le trait métamorphose et ne pourraient normalement pas fonctionner de concert. Si, alors que vous êtes sous l’effet de deux mutagènes, vous vous trouvez sous l’effet d’un nouveau mutagène, vous perdez l’avantage de l’un des deux premiers mutagènes de votre choix, tout en conservant les inconvénients liés à l’ensemble des mutagènes absorbés. Si, alors que vous êtes sous l’effet de deux mutagènes, vous êtes affecté par un effet de métamorphose qui n’est pas lié à un mutagène, vous perdez les avantages liés aux deux mutagènes mais en conservez les inconvénients.</p>\n<h2 class=\"title\"> Perfection perpétuelle <span style=\"float: right;\">Niveau 17</span></h2>\n<p>La version supérieure des mutagènes que vous avez choisis pour vos infusions perpétuelles.</p>"
         },
         {
             "id": "Magical Fortitude (Level 5)",
@@ -944,7 +944,7 @@
         {
             "id": "Perpetual Potency (Chirurgeon)",
             "name": "Perpetual Potency (Chirurgeon)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Antidote et anti-maladie moyens.&nbsp;</span></p>"
+            "description": "<p>Antidote et anti-maladie modérés.</p>"
         },
         {
             "id": "Field Discovery (Toxicologist)",
@@ -1084,12 +1084,12 @@
         {
             "id": "Greater Field Discovery (Chirurgeon)",
             "name": "Greater Field Discovery (Chirurgeon)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Quand vous utilisez Alchimie rapide pour créer n’importe quel type d’élixir de vie, la créature qui le boit gagne le maximum de points de vie qu’il peut conférer au lieu de devoir lancer les dés pour déterminer combien de points de vie elle gagne.&nbsp;</span></p>"
+            "description": "<p>Quand vous utilisez Alchimie rapide pour créer n’importe quel type d’élixir de vie, la créature qui le boit gagne le maximum de points de vie qu’il peut conférer au lieu de devoir lancer les dés pour déterminer combien de points de vie elle gagne.</p>"
         },
         {
             "id": "Rogue's Racket",
             "name": "Rogue's Racket",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">En vous engageant sur la voie du roublard, vous développez votre propre style grâce auquel vous mènerez vos activités illicites. Votre trafic oriente vos techniques de roublard et la manière dont vous envisagez un coup, tout en contribuant à faire reconnaître votre talent pour un certain type de missions auprès de la pègre. Ainsi, un client fortuné qui envisage un casse pourra engager une équipe de roublards aux trafics spécialisés couvrant tous les aspects de la mission. Choisissez un trafic de roublard.</span></p>\n<p><span id=\"ctl00_MainContent_DetailedOutput\">Les trafics présentés dans cet ouvrage sont les suivants :<br></span></p>\n<h2><p><span id=\"ctl00_MainContent_DetailedOutput\">>@Compendium[pf2e.classfeatures.RyOkmu0W9svavuAB]{Cerveau} (APG)</span></h2>\n<h2><p><span id=\"ctl00_MainContent_DetailedOutput\">>@Compendium[pf2e.classfeatures.D8qtAo2w4jsqjBrM]{Mystificateur} (APG)</span></h2>\n<h2><p><span id=\"ctl00_MainContent_DetailedOutput\">>@Compendium[pf2e.classfeatures.ZvfxtUMtfIOLYHyg]{Scélérat}</span></h2>\n<h2><p><span id=\"ctl00_MainContent_DetailedOutput\">>@Compendium[pf2e.classfeatures.3KPZ7svIO6kmmEKH]{Voyou}</span></h2>\n<h2><p><span id=\"ctl00_MainContent_DetailedOutput\">>@Compendium[pf2e.classfeatures.wAh2riuFRzz0edPl]{Voleur}</span></h2>"
+            "description": "<p>En vous engageant sur la voie du roublard, vous développez votre propre style grâce auquel vous mènerez vos activités illicites. Votre trafic oriente vos techniques de roublard et la manière dont vous envisagez un coup, tout en contribuant à faire reconnaître votre talent pour un certain type de missions auprès de la pègre. Ainsi, un client fortuné qui envisage un casse pourra engager une équipe de roublards aux trafics spécialisés couvrant tous les aspects de la mission. Choisissez un trafic de roublard.</p>\n<p>Les trafics présentés dans cet ouvrage sont les suivants :</p>\n<ul>\n<li>@Compendium[pf2e.classfeatures.RyOkmu0W9svavuAB]{Cerveau}</li>\n<li>@Compendium[pf2e.classfeatures.D8qtAo2w4jsqjBrM]{Mystificateur}</li>\n<li>@Compendium[pf2e.classfeatures.ZvfxtUMtfIOLYHyg]{Scélérat}</li>\n<li>@Compendium[pf2e.classfeatures.3KPZ7svIO6kmmEKH]{Voyou}</li>\n<li>@Compendium[pf2e.classfeatures.wAh2riuFRzz0edPl]{Voleur}</li>\n</ul>"
         },
         {
             "id": "Oracular Clarity",
@@ -1204,7 +1204,7 @@
         {
             "id": "Field Discovery (Mutagenist)",
             "name": "Field Discovery (Mutagenist)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\"> Quand vous utilisez alchimie avancée pour faire des mutagènes lors de vos préparatifs quotidiens, vous pouvez utiliser un lot de réactifs pour créer trois mutagènes de n’importe quel type au lieu de deux mutagènes d’un seul type.&nbsp;</span></p>"
+            "description": "<p>Quand vous utilisez alchimie avancée pour faire des mutagènes lors de vos préparatifs quotidiens, vous pouvez utiliser un lot de réactifs pour créer trois mutagènes de n’importe quel type au lieu de deux mutagènes d’un seul type.</p>"
         },
         {
             "id": "Night Patron",
@@ -1289,7 +1289,7 @@
         {
             "id": "Formula Book",
             "name": "Formula Book",
-            "description": "<p>Un alchimiste établit un inventaire méticuleux des formules de tous les objets qu’il peut créer. Quand vous commencez, vous obtenez gratuitement un  @Compendium[pf2e.equipment-srd.qCEOZ6109Yo34tRx]{recueil de formules (vierge)} valant 10 pa ou moins. Ce formulaire\ncontient les formules de deux objets alchimiques ordinaires de niveau 1 de votre choix, en plus de celles que vous obtenez grâce à @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique} et à votre domaine de recherche. Vous trouverez la liste des objets alchimiques dans le compendium équipement. </p>\n<p>À chaque fois que vous gagnez un niveau, vous pouvez ajouter les formules de deux objets alchimiques ordinaires à votre formulaire. Vous devez choisir des formules pour des objets d’un niveau que vous pouvez créer. Vous apprenez ces nouvelles formules automatiquement, mais vous pouvez également trouver ou acheter des formules supplémentaires dans des agglomérations ou auprès d’autres alchimistes, ou encore les inventer grâce au don @Compendium[pf2e.feats-srd.XR95taODq1sq82Du]{Inventeur}.</p>"
+            "description": "<p>Un alchimiste établit un inventaire méticuleux des formules de tous les objets qu’il peut créer. Quand vous commencez, vous obtenez gratuitement un  @Compendium[pf2e.equipment-srd.qCEOZ6109Yo34tRx]{recueil de formules (vierge)} valant 10 pa ou moins. Ce formulaire contient les formules de deux objets alchimiques ordinaires de niveau 1 de votre choix, en plus de celles que vous obtenez grâce à @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique} et à votre domaine de recherche. Vous trouverez la liste des objets alchimiques dans le compendium équipement. </p>\n<p>À chaque fois que vous gagnez un niveau, vous pouvez ajouter les formules de deux objets alchimiques ordinaires à votre formulaire. Vous devez choisir des formules pour des objets d’un niveau que vous pouvez créer. Vous apprenez ces nouvelles formules automatiquement, mais vous pouvez également trouver ou acheter des formules supplémentaires dans des agglomérations ou auprès d’autres alchimistes, ou encore les inventer grâce au don @Compendium[pf2e.feats-srd.XR95taODq1sq82Du]{Inventeur}.</p>"
         },
         {
             "id": "Heightened Senses",
@@ -1379,7 +1379,7 @@
         {
             "id": "Double Brew",
             "name": "Double Brew",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous connaissez si bien vos formules que vous pouvez préparer deux objets à la fois. Quand vous utilisez l’action @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Alchimie rapide}, au lieu d’utiliser un lot de réactifs imprégnés afin de créer un seul objet, vous pouvez utiliser deux lots de réactifs imprégnés afin de créer deux objets alchimiques en suivant les règles de cette action. Ces objets ne sont pas nécessairement identiques..&nbsp;</span></p>"
+            "description": "<p>Vous connaissez si bien vos formules que vous pouvez préparer deux objets à la fois. Quand vous utilisez l’action @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Alchimie rapide}, au lieu d’utiliser un lot de réactifs imprégnés afin de créer un seul objet, vous pouvez utiliser deux lots de réactifs imprégnés afin de créer deux objets alchimiques en suivant les règles de cette action. Ces objets ne sont pas nécessairement identiques.</p>"
         },
         {
             "id": "Alertness (Level 3)",
@@ -1539,7 +1539,7 @@
         {
             "id": "Quick Alchemy",
             "name": "Quick Alchemy",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Si vous avez besoin d’un objet alchimique à la volée, vous pouvez utiliser vos réactifs imprégnés pour le créer rapidement grâce à l’action @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Alchimie rapide}.</span></p>"
+            "description": "<p>Si vous avez besoin d’un objet alchimique à la volée, vous pouvez utiliser vos réactifs imprégnés pour le créer rapidement grâce à l’action @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Alchimie rapide}.</p>"
         },
         {
             "id": "Fighter Weapon Mastery",
@@ -1734,7 +1734,7 @@
         {
             "id": "Alchemical Weapon Expertise",
             "name": "Alchemical Weapon Expertise",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Vous vous êtes entraîné à utiliser efficacement les armes qui se trouvent dans votre laboratoire. Votre rang de maîtrise avec les armes simples, les attaques à mains nues et les bombes alchimiques devient expert.&nbsp;</span></p>"
+            "description": "<p>Vous vous êtes entraîné à utiliser efficacement les armes qui se trouvent dans votre laboratoire. Votre rang de maîtrise avec les armes simples, les attaques à mains nues et les bombes alchimiques devient expert.</p>"
         },
         {
             "id": "Bloodline: Elemental",
@@ -1829,7 +1829,7 @@
         {
             "id": "Perpetual Infusions (Chirurgeon)",
             "name": "Perpetual Infusions (Chirurgeon)",
-            "description": "<p><span id=\"ctl00_MainContent_DetailedOutput\">Antidote inférieur et anti-maladie inférieur.&nbsp;</span></p>"
+            "description": "<p>Vous avez appris à créer des infusions alchimiques perpétuelles qui vous permettent d’avoir accès à une réserve presque infinie de certains objets simples. Vous gagnez la capacité de créer deux objets alchimiques de niveau 1 en utilisant Alchimie rapide, sans avoir à dépenser un lot de réactifs imprégnés. Les objets que vous pouvez choisir dépendent de votre domaine de recherche et doivent se trouver dans votre formulaire.</p>\n<hr />\n<p>@Compendium[pf2e.equipment-srd.ktjFOp3U0wQD9t0Z]{Antidote inférieur} et @Compendium[pf2e.equipment-srd.UqinuuCWePTYGhVO]{anti-maladie inférieur}.</p>"
         },
         {
             "id": "Blue Dragon Instinct",

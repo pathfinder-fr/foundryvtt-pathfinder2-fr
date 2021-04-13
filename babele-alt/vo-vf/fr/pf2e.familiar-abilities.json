@@ -69,7 +69,7 @@
         {
             "id": "Grasping Tendrils",
             "name": "Grasping Tendrils (Vrilles agrippantes)",
-            "description": "<p>Prérequis @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<p>Votre familier peut faire pousser des lianes ou des vrilles similaires, augmentant sa portée à 4,5 m.</p>"
+            "description": "<p>Prérequis @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<p>Votre familier peut faire pousser des lianes ou des vrilles similaires, augmentant son allonge à 4,5 m.</p>"
         },
         {
             "id": "Fast Movement: Fly",

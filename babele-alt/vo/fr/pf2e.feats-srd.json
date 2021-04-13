@@ -539,7 +539,7 @@
         {
             "id": "Leshy Familiar Secrets",
             "name": "Leshy Familiar Secrets",
-            "description": "<p>Les secrets de l'ordre de la feuille permettent à votre familier de tirer parti de sa forme de léchi. Vous pouvez choisir une capacité de familier supplémentaire chaque jour , qui doit être une des capacités de familier léchi suivantes. Vous ne pouvez choisir plus d'une capacité de familier léchi en même temps.</p>\n<ul>\n<li><strong>Vrilles agrippantes</strong> Votre familier peut faire pousser des lianes ou des vrilles similaires, augmentant sa portée à 4,5 m.</li>\n<li><strong>Purificateur d'Air</strong> Votre familier recycle l'air, fournissant assez d'oxygène à une créature de taille Moyenne dans les zones avec de l'air vicié, tel qu'une chambre scellée ou un espace extradimensionnel. Si le léchi est dans la zone d'un effet de poison inhalé ou d'un effet qui compte sur l'odorat, les créatures dans une émanation de 4,5 m du léchi obtiennent un bonus de circonstances de +2 à leur jet de sauvegarde contre l'effet.</li>\n<li><strong>Explosion verdoyante</strong> Lorsque votre familier meurt, il relâche son énergie primordiale pour lancer la version de @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} à trois actions, intensifié à un niveau de 1 inférieur à votre plus haut emplacement de sort. Le sort <em>Guérison</em> obtient aussi un bonus de statut égal à deux fois le niveau de sort au nombre de Points de vie qu'il redonne aux plantes. Vous devez être capable de lancer les sorts de niveau 2 en utilisant des emplacements de sort pour choisir cette aptitude de familier.</li>\n</ul>"
+            "description": "<p>Les secrets de l'ordre de la feuille permettent à votre familier de tirer parti de sa forme de léchi. Vous pouvez choisir une capacité de familier supplémentaire chaque jour , qui doit être une des capacités de familier léchi suivantes. Vous ne pouvez choisir plus d'une capacité de familier léchi en même temps.</p>\n<ul>\n<li><strong>@Compendium[pf2e.familiar-abilities.SKIS1xexaOvrecdV]{Explosion verdoyante}</strong> Lorsque votre familier meurt, il relâche son énergie primordiale pour lancer la version de @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} à trois actions, intensifié à un niveau de 1 inférieur à votre plus haut emplacement de sort. Le sort <em>Guérison</em> obtient aussi un bonus de statut égal à deux fois le niveau de sort au nombre de Points de vie qu'il redonne aux plantes. Vous devez être capable de lancer les sorts de niveau 2 en utilisant des emplacements de sort pour choisir cette aptitude de familier.</li>\n<li><strong>@Compendium[pf2e.familiar-abilities.43xB5UnexISlfRa5]{Purificateur d'Air}</strong> Votre familier recycle l'air, fournissant assez d'oxygène à une créature de taille Moyenne dans les zones avec de l'air vicié, tel qu'une chambre scellée ou un espace extradimensionnel. Si le léchi est dans la zone d'un effet de poison inhalé ou d'un effet qui compte sur l'odorat, les créatures dans une émanation de 4,5 m du léchi obtiennent un bonus de circonstances de +2 à leur jet de sauvegarde contre l'effet.</li>\n<li><strong>@Compendium[pf2e.familiar-abilities.LUBS9csNNgRTui4p]{Vrilles agrippantes}</strong> Votre familier peut faire pousser des lianes ou des vrilles similaires, augmentant son allonge à 4,5 m.</li>\n</ul>"
         },
         {
             "id": "Sturdy Bindings",
@@ -954,7 +954,7 @@
         {
             "id": "Know It All (Eldritch Researcher)",
             "name": "Know It All (Eldritch Researcher)",
-            "description": "p>Votre connaissance des sujets obscurs et sans pareille. Lorsque vous obtenez un succès à un test pour vous souvenir, vous bénéficiez une information ou un élément de contexte supplémentaire. Quand vous obtenez un succès critique à un test de Connaissance, à l’appréciation du MJ, vous pouvez obtenir davantage d’informations ou d’éléments de contexte que d’ordinaire.</p>"
+            "description": "p>Votre connaissance des sujets obscurs et sans pareil. Lorsque vous obtenez un succès à un test pour vous Souvenir, vous bénéficiez d'une information ou d'un élément de contexte supplémentaire. Quand vous obtenez un succès critique à un test de Connaissance, à l’appréciation du MJ, vous pouvez obtenir davantage d’informations ou d’éléments de contexte que d’ordinaire.</p>"
         },
         {
             "id": "Vanth's Weapon Familiarity",
@@ -1429,7 +1429,7 @@
         {
             "id": "Orc Weapon Familiarity",
             "name": "Orc Weapon Familiarity",
-            "description": "<p>Au combat, vous avez une prédilection pour les armes brutales de vos ancêtres orcs. Vous êtes qualifié avec le cimeterre à deux mains et la grande hache. En outre, vous avez accès aux armes peu courantes des orcs. En ce qui vous concerne, les armes de guerre orques sont des armes simples et les armes orques évoluées sont des armes de guerre.</p>"
+            "description": "<p>Au combat, vous avez une prédilection pour les armes brutales de vos ancêtres orcs. Vous êtes qualifié avec le @Compendium[pf2e.equipment-srd.XGtIUZ4ZNKuFx1uL]{cimeterre à deux mains} et la @Compendium[pf2e.equipment-srd.8COlYvHe6hKCXY8x]{grande hache}. En outre, vous avez accès aux armes peu courantes des orcs. En ce qui vous concerne, les armes de guerre orques sont des armes simples et les armes orques évoluées sont des armes de guerre.</p>"
         },
         {
             "id": "Far Shot",
@@ -2239,7 +2239,7 @@
         {
             "id": "Briar Battler",
             "name": "Briar Battler",
-            "description": "<p>Vous avez appris à utiliser les racines, les fissures, les sols accidentés et les sous bois denses à votre avantage. Lorsque vous êtes sur un terrain difficile du fait d'une caractéristique environnementale, vous pouvez vous Mettre à l'abri, même si ce trait ne devrait pas être suffisamment grand ordinairement pour que vous puissiez vous Mettre à l'abri.</p>"
+            "description": "<p>Vous avez appris à utiliser les racines, les fissures, les sols accidentés et les sous-bois denses à votre avantage. Lorsque vous êtes sur un terrain difficile du fait d'une caractéristique environnementale, vous pouvez vous Mettre à l'abri, même si la topographie du terrain n'est pas assez grande pour que vous puissiez vous Mettre à l'abri.</p>"
         },
         {
             "id": "Ubiquitous Snares",
@@ -3474,7 +3474,7 @@
         {
             "id": "Alghollthu Bound",
             "name": "Alghollthu Bound",
-            "description": "<p>Bien que vous puissiez même ne pas en être conscient, les alghollthus que vos ancêtres ont autrefois servi détiennent une forteresse dans les parties les plus profondes et reliés de votre esprit. Vous recevez un bonus de circonstances de +2 aux jets de Volonté contre les effets mentaux qui devraient vous contrôler et, si vous obtenez un succès contre un tel effet, vous obtenez un succès critique à la place. Quoi qu'il en soit, vous n'obtenez aucun de ces avantages contre les effets provenant des alghollthus et subissez à la place une pénalité de circonstances de –2 contre les effets mentaux des alghollthus.</p>"
+            "description": "<p>Bien que vous puissiez même ne pas en être conscient, les Alghollthus que vos ancêtres ont autrefois servi, détiennent une forteresse dans les profondeurs et cette servitude est liée à votre esprit. Vous recevez un bonus de circonstances de +2 aux jets de Volonté contre les effets mentaux qui devraient vous contrôler et, si vous obtenez un succès contre un tel effet, vous obtenez un succès critique à la place. Quoi qu'il en soit, vous n'obtenez aucun de ces avantages contre les effets provenant des Alghollthus et vous subissez à la place une pénalité de circonstances de –2 contre les effets mentaux des Alghollthus.</p>"
         },
         {
             "id": "Divine Breadth",
@@ -3629,7 +3629,7 @@
         {
             "id": "Viking Shieldbearer",
             "name": "Viking Shieldbearer",
-            "description": "<p><strong>Accès</strong> ethnie ulfe</p>\n<hr />\n<p>Vous vous être entraîné avec des boucliers et des armes dès que vous avez été capable de les tenir, soucieux de gagner de l'honneur et de la gloire par vous-même. Vous obtenez la réaction @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier} et êtes qualifié, à votre choix, avec la hache de bataille ou l'épée longue.</p>"
+            "description": "<p><strong>Accès</strong> ethnie ulfe</p>\n<hr />\n<p>Vous vous êtes entraîné au maniement des boucliers et des armes dès que vous avez été capable de les tenir, soucieux de gagner honneur et gloire. Vous obtenez la réaction @compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier} et vous êtes qualifié, au choix, avec la hache de bataille ou l'épée longue.</p>"
         },
         {
             "id": "Annihilating Swing",
@@ -4374,7 +4374,7 @@
         {
             "id": "Saoc Astrology",
             "name": "Saoc Astrology",
-            "description": "<p><strong>Fréquence</strong> 3 fois par jour</p>\n<p><strong>Accès</strong> originaire du Lirgen</p>\n<p><strong>Conditions</strong> Vous devez passer 10 minutes juste après vos préparatifs quotidiens à examiner le ciel ou consulter une carte des étoiles ou vous ne pouvez pas utiliser cette action durant cette journée.</p>\n<hr />\n<p>Les membres de l'ancienne fraternité du saoc ont été des maîtres de l'astrologie et, bien que votre connaissance ne soit plus qu'une pâle ombre de leur sagesse, elle est toujours utile. Vous sondez les étoiles en quête de prédictions à propos de votre situation actuelle. Si votre action suivante nécessite que vous tentiez des tests de compétence, lancez 1d8. Sur un résultat de 6, 7 ou 8, vous obtenez un bonus de circonstances de +2 au premier test de compétence qui suit. Sur un 3, 4 ou 5, vous obtenez un bonus de circonstances de +1. Sur un 2, vous n'obtenez rien. Sur un 1, vous subissez une pénalité de circonstance de –1 au test de compétence.</p>"
+            "description": "<p><strong>Fréquence</strong> 3 fois par jour</p>\n<p><strong>Accès</strong> originaire du Lirgen</p>\n<p><strong>Conditions</strong> Vous devez passer 10 minutes juste après vos préparatifs quotidiens à examiner le ciel ou consulter une carte des étoiles ou vous ne pouvez pas utiliser cette action durant cette journée.</p>\n<hr />\n<p>Les membres de l'ancienne Fraternité du Saoc étaient des maîtres de l'astrologie, et bien que vos connaissances ne sont plus qu'un pâle reflet de leur sagesse, elles peuvent toujours vous servir. Vous sondez les étoiles en quête de prédictions à propos de votre situation actuelle. Si votre action suivante nécessite que vous tentiez des tests de compétence, lancez 1d8. Sur un résultat de 6, 7 ou 8, vous obtenez un bonus de circonstances de +2 au premier test de compétence qui suit. Sur un 3, 4 ou 5, vous obtenez un bonus de circonstances de +1. Sur un 2, vous n'obtenez rien. Sur un 1, vous subissez une pénalité de circonstance de –1 au test de compétence.</p>"
         },
         {
             "id": "Reverse Engineering",
@@ -4659,7 +4659,7 @@
         {
             "id": "Marsh Runner",
             "name": "Marsh Runner",
-            "description": "<p>Vous êtes adepte des déplacements à travers les terrains marécageux. Lorsque vous utilisez l'action Faire un pas, vous pouvez ignorer le terrain difficile causé par les inondations, les marais ou les sables mouvants. En outre, lorsque vous utilisez la compétence Acrobaties pour Garder l'équilibre sur des surfaces étroites ou inégales sur un terrain marécageux, vous n'êtes pas Pris au dépourvu et si vous obtenez un succès sur le test d'Acrobaties, vous considérez qu'il s'agit d'un succès critique à la place.</p>"
+            "description": "<p>Vous êtes adepte des déplacements à travers les terrains marécageux. Lorsque vous utilisez l'action @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faire un pas}, vous pouvez ignorer le terrain difficile causé par les inondations, les marais ou les sables mouvants. En outre, lorsque vous utilisez la compétence Acrobaties pour @Compendium[pf2e.actionspf2e.M76ycLAqHoAgbcej]{Garder l'équilibre} sur des surfaces étroites ou inégales sur un terrain marécageux, vous n'êtes pas Pris au dépourvu et si vous obtenez un succès sur le test d'Acrobaties, vous considérez qu'il s'agit d'un succès critique à la place.</p>"
         },
         {
             "id": "Unstoppable Juggernaut",
@@ -4794,7 +4794,7 @@
         {
             "id": "Theoretical Acumen",
             "name": "Theoretical Acumen",
-            "description": "<p><<strong>Fréquence</strong> Une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous obtenez un succès à un test de connaissance pour @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Vous souvenir} pour identifier une créature.</p>\n<hr />\n<p>Vous étudiez la forme et le comportement d'une créature pour former des hypothèses sur les moyens de surpasser ses forces. Une fois avant la fin de votre prochain tour, vous pouvez utiliser le modificateur de compétence du test déclencheur au lieu de votre modificateur du jet de sauvegarde contre une des capacités de la créature, au lieu de votre modificateur de Perception pour Chercher la créature, au lieu de votre modificateur de Duperie pour Feinter la créature ou au lieu de votre modificateur d'Intimidation pour Démoraliser la créature. De manière alternative, contre l'une des attaques de la créature, vous pouvez utiliser votre DD pour la compétence utilisée dans le test déclencheur à la place de votre CA.</p>"
+            "description": "<p><<strong>Fréquence</strong> Une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous obtenez un succès à un test de connaissance pour @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Vous souvenir} pour identifier une créature.</p>\n<hr />\n<p>Vous étudiez la forme et le comportement d'une créature pour former des hypothèses sur les moyens de vaincre ses capacités. Une fois avant la fin de votre prochain tour, vous pouvez utiliser le modificateur de compétence du test déclencheur au lieu de votre modificateur du jet de sauvegarde contre une des capacités de la créature, au lieu de votre modificateur de Perception pour @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} la créature, au lieu de votre modificateur de Duperie pour @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter} la créature ou au lieu de votre modificateur d'Intimidation pour @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} la créature. De manière alternative, contre l'une des attaques de la créature, vous pouvez utiliser votre DD pour la compétence utilisée dans le test déclencheur à la place de votre CA.</p>"
         },
         {
             "id": "Trick Magic Item",
@@ -4964,7 +4964,7 @@
         {
             "id": "Leshy Superstition",
             "name": "Leshy Superstition",
-            "description": "<p><strong>Déclencheur</strong> Vous tentez un jet de sauvegarde contre un sort ou un effet magique, mais n'avez pas encore lancé le dé.</p>\n<hr />\n<p>Vous remarquez les esprits qui habitent les objets, apprenant à distinguer entre ceux qui apportent la chance ou la malchance. Vous vous vous focalisez sur le pouvoir d'un objet porteur de chance, ce qui vous fait bénéficier d'un bonus de circonstances de +1 à votre jet de sauvegarde contre l'effet déclencheur.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous tentez un jet de sauvegarde contre un sort ou un effet magique, mais n'avez pas encore lancé le dé.</p>\n<hr />\n<p>Vous remarquez les esprits qui habitent les objets, apprenant à distinguer entre ceux qui apportent la chance ou la malchance. Vous vous focalisez sur le pouvoir d'un objet porteur de chance, ce qui vous fait bénéficier d'un bonus de circonstances de +1 à votre jet de sauvegarde contre l'effet déclencheur.</p>"
         },
         {
             "id": "Greater Physical Evolution",
@@ -5724,7 +5724,7 @@
         {
             "id": "Azarketi Lore",
             "name": "Azarketi Lore",
-            "description": "<p>Vous avez appris l'histoire et les origines de votre peuple et comment vous êtes relié à la fois à votre héritage terrestre et maritime. Vous êtes qualifié en Athlétisme et en Nature. Si vous devriez être automatiquement qualifié en une des ces compétences (par votre historique ou votre classe, par exemple), vous devenez qualifié dans une compétence de votre choix. Vous devenez qualifié en Connaissance des azarketis.</p>"
+            "description": "<p>Vous avez appris l'histoire et les origines de votre peuple et comment vous êtes relié à la fois à votre héritage terrestre et maritime. Vous êtes qualifié en Athlétisme et en Nature. Si vous devriez être automatiquement qualifié en une des ces compétences (par votre historique ou votre classe, par exemple), vous devenez qualifié dans une compétence de votre choix. Vous devenez qualifié en Connaissance des Azarketis.</p>"
         },
         {
             "id": "Specialized Mount",
@@ -5904,7 +5904,7 @@
         {
             "id": "Quah Bond",
             "name": "Quah Bond",
-            "description": "<p><strong>Accès</strong> ethnie Shoanti</p>\n<hr />\n<p>Vous avez grandi parmi les tribus Shoanti, avec les esprits veillant sur vous et ils vous ont offert leurs conseils. Vous devenez qualifié dans la compétence listée pour votre quah (ou une autre compétence de votre choix, si vous êtes déjà qualifié dans cette compétence). Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Assurance} dans cette compétence, parce que l'aide des esprits guident vos actions.</p>\n<ul>\n<li><strong>Lyrune-Quah</strong> Religion</li>\n<li><strong>Shadde-Quah</strong> Athlétisme</li>\n<li><strong>Shriikirri-Quah</strong> Nature</li>\n<li><strong>Shundar-Quah</strong> Diplomatie</li>\n<li><strong>Sklar-Quah</strong> Intimidation</li>\n<li><strong>Skoan-Quah</strong> Médecine</li>\n<li><strong>Tamiir-Quah</strong> Acrobaties</li>\n</ul>"
+            "description": "<p><strong>Accès</strong> ethnie Shoanti</p>\n<hr />\n<p>Vous avez grandi parmi les tribus Shoanti, avec les esprits veillent sur vous et ils vous offrent leurs conseils. Vous devenez qualifié dans la compétence listée pour votre quah (ou une autre compétence de votre choix, si vous êtes déjà qualifié dans cette compétence). Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Assurance} dans cette compétence, parce que l'aide des esprits guident vos actions.</p>\n<ul>\n<li><strong>Lyrune-Quah</strong> Religion</li>\n<li><strong>Shadde-Quah</strong> Athlétisme</li>\n<li><strong>Shriikirri-Quah</strong> Nature</li>\n<li><strong>Shundar-Quah</strong> Diplomatie</li>\n<li><strong>Sklar-Quah</strong> Intimidation</li>\n<li><strong>Skoan-Quah</strong> Médecine</li>\n<li><strong>Tamiir-Quah</strong> Acrobaties</li>\n</ul>"
         },
         {
             "id": "Forager",
@@ -6199,7 +6199,7 @@
         {
             "id": "Advanced Seeker of Truths",
             "name": "Advanced Seeker of Truths",
-            "description": "<p>Vous avez dévérouillé des secrets plus profonds pour découvrir et accumuler la connaissance. Vous obtenez un sort de domaine avancé d'un domaine que vous avez choisi avec Chercheur de vérités. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don jusqu'à trois fois, en choisissant à chaque fois un sort de domaine avancé différent d'un domaine que vous avez choisi avec Chercheur de vérités.</p>"
+            "description": "<p>Vous avez dévérouillé les secrets les plus profonds pour découvrir et accumuler la Connaissance. Vous obtenez un sort de domaine avancé d'un domaine que vous avez choisi avec @Compendium[pf2e.feats-srd.vVqOBzWTpWirPbrK]{Chercheur de vérités}. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don jusqu'à trois fois, en choisissant à chaque fois un sort de domaine avancé différent d'un domaine que vous avez choisi avec Chercheur de vérités.</p>"
         },
         {
             "id": "Heroic Recovery",
@@ -6399,7 +6399,7 @@
         {
             "id": "Devil's Advocate",
             "name": "Devil's Advocate",
-            "description": "<p><strong>Accès</strong> nationalité Chélaxienne</p>\n<hr />\n<p>Vous en savez beaucoup sur les habitudes des diables que vous le devriez pour votre propre sécurité. Vous obtenez un bonus de circonstances de +2 aux jets de Perception contre les diables et aux jets de sauvegarde contre leurs capacités. De plus, lorsque vous rencontrez un diable dans une situation sociale, vous pouvez immédiatement essayer un jet de Diplomatie pour Faire bonne Impression sur cette créature au lieu d'attendre de converser avec elle pendant 1 minute. Vous subissez une pénalité de -5 à ce test. En cas d'échec, vous pouvez réessayer de faire un nouveau jet après 1 minute de conversation au lieu d'accepter le résultat de votre échec ou de votre échec critique.</p>\n<p><strong>Spécial</strong> Si vous avez le don de compétence @Compendium[pf2e.feats-srd.cc8O47KFsODReoBe]{Cordialité forcée}, vous ne subissez pas la pénalité à votre test immédiat de Diplomatie si la créature est un diable.</p>"
+            "description": "<p><strong>Accès</strong> nationalité Chélaxienne</p>\n<hr />\n<p>Vous en savez beaucoup plus sur les habitudes des diables que vous ne le devriez pour votre propre sécurité. Vous obtenez un bonus de circonstances de +2 aux jets de Perception contre les diables et aux jets de sauvegarde contre leurs capacités. De plus, lorsque vous rencontrez un diable dans une situation sociale, vous pouvez immédiatement essayer un jet de Diplomatie pour @compendium\\[pf2e.actionspf2e.OX4fy22hQgUHDr0q\\]{Faire bonne Impression} sur cette créature au lieu d'attendre de converser avec elle pendant 1 minute. Vous subissez une pénalité de -5 à ce test. En cas d'échec, vous pouvez réessayer de faire un nouveau jet après 1 minute de conversation au lieu d'accepter le résultat de votre échec ou de votre échec critique.</p>\n<p><strong>Spécial</strong> Si vous avez le don de compétence @Compendium[pf2e.feats-srd.cc8O47KFsODReoBe]{Cordialité forcée}, vous ne subissez pas la pénalité à votre test immédiat de Diplomatie si la créature est un diable.</p>"
         },
         {
             "id": "Flamboyant Cruelty",
@@ -6429,7 +6429,7 @@
         {
             "id": "Energize Wings",
             "name": "Energize Wings",
-            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<hr />\n<p>Vous ravivez votre magie pour énergiser vos ailes, les transformant temporairement en des formes majestueuses et  scintillantes. Pendant 1 minute, vous obtenez une vitesse de Vole de 9 m.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<hr />\n<p>Vous ravivez votre magie pour énergiser vos ailes, les transformant temporairement en des formes majestueuses et scintillantes. Pendant 1 minute, vous obtenez une vitesse de Vol de 9 mètres.</p>"
         },
         {
             "id": "Distracting Shadows",
@@ -7349,7 +7349,7 @@
         {
             "id": "Unassuming Dedication",
             "name": "Unassuming Dedication",
-            "description": "<p><strong>Accès</strong> ethnie Uhlam</p>\n<hr>\n<p>Votre famille a instillé en vous des valeurs de soin et de patience depuis votre plus jeune âge. Vous obtenez un bonus de circonstances de +1 aux tests pour accomplir une activité d'intermède.</p>"
+            "description": "<p><strong>Accès</strong> ethnie Uhlam</p>\n<hr>\n<p>Votre famille a instillé en vous des valeurs d'implication' et de patience depuis votre plus jeune âge. Vous obtenez un bonus de circonstances de +1 aux tests pour accomplir une activité d'intermède.</p>"
         },
         {
             "id": "True Hypercognition",
@@ -7574,7 +7574,7 @@
         {
             "id": "Azarketi Weapon Aptitude",
             "name": "Azarketi Weapon Aptitude",
-            "description": "<p>Vous vous familiarisez avec l'utilisation de votre arme à la fois sur et sous l'eau. Lorsque vous obtenez un copu critique en utilisant une arme azarketie ou une des armes énumérées dans le don @Compendium[pf2e.feats-srd.WUMnFrehmFbj2PIm]{Familiarité avec les armes azarketies}, vous appliquez l'effet de critique spécialisé de l'arme.</p>"
+            "description": "<p>Vous vous familiarisez avec l'utilisation de votre arme à la fois sur et sous l'eau. Lorsque vous obtenez un copu critique en utilisant une arme Azarketie ou une des armes énumérées dans le don @Compendium[pf2e.feats-srd.WUMnFrehmFbj2PIm]{Familiarité avec les armes Azarketies}, vous appliquez l'effet de critique spécialisé de l'arme.</p>"
         },
         {
             "id": "Stonegate",
@@ -7784,7 +7784,7 @@
         {
             "id": "Slip The Grasp",
             "name": "Slip The Grasp",
-            "description": "<p><strong>Conditions</strong> Vous êtes @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisi}, @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravé}.</p>\n<hr />\n<p>Vous avez une capacité qui vous permet de rapidement vous échapper des effets qui vous entravent. Faites un test pour vous Échapper. En cas de succès, vous pouvez Marchez rapidement, Faire un pas ou porter une Frappe avec une attaque à mains nues qui cible la créature à laquelle vous avez échappé. En cas d'échec, vous tentez de vous Échapper une seconde fois.</p>\n<p>Vous augmentez votre pénalité d'attaque multiple en fonction des actions que vous avez entreprises, mais seulement après avoir terminé les deux actions.</p>"
+            "description": "<p><strong>Conditions</strong> Vous êtes @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisi}, @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravé}.</p>\n<hr />\n<p>Vous avez la capacité de rapidement vous échapper des effets qui vous entravent. Faites un test pour vous Échapper. En cas de succès, vous pouvez Marchez rapidement, Faire un pas ou porter une Frappe avec une attaque à mains nues qui cible la créature à laquelle vous avez échappé. En cas d'échec, vous tentez de vous Échapper une seconde fois.</p>\n<p>Vous augmentez votre pénalité d'attaque multiple en fonction des actions que vous avez entreprises, mais seulement après avoir terminé les deux actions.</p>"
         },
         {
             "id": "Basic Sorcerer Spellcasting",
@@ -8019,7 +8019,7 @@
         {
             "id": "Keep Up Appearances",
             "name": "Keep Up Appearances",
-            "description": "<p><strong>Accès</strong> nationalité Taldorienne</p>\n<p><strong>Déclencheur</strong> Vous êtes affecté par un effet d'émotion.</p>\n<hr />\n<p>La fierté taldorienne signifie que vous ne pouvez jamais montrer la moindre faiblesse. Lancez un test de Duperie et comparez son résultat au DD de Perception des créatures qui vous observent. Sur une réussite, cette créature pense que vous n'avez pas été affecté par l'effet d'émotion. Une créature trompée de cette manière ne peut bénéficier de l'effet d'émotion et ne peut utiliser les capacitésqui nécessitent que vous soyez sous cet effet d'émotion ; par exemple, si vous parvenez à utiliser cette capacité pour tromper un feu-follet de manière à lui faire croire que vous n'êtes pas sous un effet de peur, il ne pourra pas utiliser sa capacité à se Nourrir de la peur sur vous.</p>"
+            "description": "<p><strong>Accès</strong> nationalité Taldorienne</p>\n<p><strong>Déclencheur</strong> Vous êtes affecté par un effet d'émotion.</p>\n<hr />\n<p>La fierté Taldorienne signifie que vous ne pouvez jamais montrer la moindre faiblesse. Lancez un test de Duperie et comparez son résultat au DD de Perception des créatures qui vous observent. Sur une réussite, cette créature pense que vous n'avez pas été affecté par l'effet d'émotion. Une créature trompée de cette manière ne peut bénéficier de l'effet d'émotion et ne peut utiliser les capacités qui nécessitent que vous soyez sous cet effet d'émotion ; par exemple, si vous parvenez à utiliser cette capacité pour tromper un feu-follet de manière à lui faire croire que vous n'êtes pas sous un effet de peur, il ne pourra pas utiliser sa capacité à se Nourrir de la peur sur vous.</p>"
         },
         {
             "id": "Elemental Summons",
@@ -8264,7 +8264,7 @@
         {
             "id": "Alchemical Scholar",
             "name": "Alchemical Scholar",
-            "description": "<p>Vous apprenez des formules plus facilement.</p>\n<p>Vous obtenez quatre formules alchimiques ordinaires de niveau  1 lorsque vous prenez ce don et chaque fois que  vous obtenez un niveau, vous obtenez une formule commune d'alchimie de ce niveau. Vous avez toujours besoin d' @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique} pour fabriquer des objets alchimiques.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don seulement au niveau 1 et ne pouvez pas utiliser réapprentissage pour obtenir ou perdre ce don.</p>"
+            "description": "<p>Vous apprenez des formules plus facilement.</p>\n<p>Vous obtenez quatre formules alchimiques ordinaires de niveau  1 lorsque vous prenez ce don et à chaque fois que vous obtenez un niveau, vous obtenez une formule commune d'alchimie de ce niveau. Vous avez toujours besoin d' @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique} pour fabriquer des objets alchimiques.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don seulement au niveau 1 et vous ne pourrez pas utiliser réapprentissage pour obtenir ou perdre ce don.</p>"
         },
         {
             "id": "Underworld Investigator",
@@ -8294,7 +8294,7 @@
         {
             "id": "Round Ears",
             "name": "Round Ears",
-            "description": "<p>Votre ascendance elfique est si subtile que vous semblez à peine différent des autres humains et vous avez appris à utiliser cela à votre avantage. Vous obtenez le rang qualifié en Duperie (ou une autre compétence de votre choix, si vous étiez déjà qualifié en Duperie). Vous obtenez un bonus de circonstances de +4 aux test pour vous Déguiser et prétendre que vous n'êtes pas un demi-elfe. Les observateurs ne se voient jamais accorder de bonus de circonstance aux test de Perception liés au fait que vous vous Déguisez en un humain et vous ne subissez jamais de pénalités de circonstance liées au fait que vous vous Déguisez en un humain.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez prendre ce don qu'au niveau 1 et vous ne pouvez jamais utiliser le réapprentissage pour abandonner ce don au profit d'un autre ou prendre ce don à la place d'un autre.</p>"
+            "description": "<p>Votre ascendance elfique est si subtile que vous semblez à peine différent des autres humains et vous avez appris à utiliser cela à votre avantage. Vous obtenez le rang qualifié en Duperie (ou une autre compétence de votre choix, si vous étiez déjà qualifié en Duperie). Vous obtenez un bonus de circonstances de +4 aux test pour vous @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Déguiser} et prétendre que vous n'êtes pas un demi-elfe. Les observateurs ne se voient jamais accorder de bonus de circonstance aux test de Perception liés au fait que vous vous Déguisez en un humain et vous ne subissez jamais de pénalités de circonstance liées au fait que vous vous Déguisez en un humain.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez prendre ce don qu'au niveau 1 et vous ne pouvez jamais utiliser le réapprentissage pour abandonner ce don au profit d'un autre ou prendre ce don à la place d'un autre.</p>"
         },
         {
             "id": "Forcible Energy",
@@ -8574,7 +8574,7 @@
         {
             "id": "Garuda Magic",
             "name": "Garuda Magic",
-            "description": "<p>Vous descendez des merveilleux garudas et leurs sens aiguisés se manifestent dans vos prouesses magiques. Vous pouvez lancer @Compendium[pf2e.spells-srd.3JG1t3T4mWn6vTke]{Flou} et @Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{Détection de l'invisibilité} chacun une fois par jour comme des sorts divins innés de niveau 2.</p>"
+            "description": "<p>Vous descendez des merveilleux Garudas et leurs sens aiguisés se manifestent dans vos prouesses magiques. Vous pouvez lancer @Compendium[pf2e.spells-srd.3JG1t3T4mWn6vTke]{Flou} et @Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{Détection de l'invisibilité} chacun une fois par jour comme des sorts divins innés de niveau 2.</p>"
         },
         {
             "id": "Slag May",
@@ -9239,7 +9239,7 @@
         {
             "id": "We March On",
             "name": "We March On",
-            "description": "<p>Vous vous assurez que vos alliés se poussent eux-mêmes lorsque vous voyagez. Vous obtenez les dons généraux @Compendium[pf2e.feats-srd.5ZsmRm7HvFAw2XDZ]{Chef de caravane} et @Compendium[pf2e.feats-srd.38uOVS8fLZxraUrg]{Garder la cadence}, même si vous n'en remplissez pas les prérequis.</p>"
+            "description": "<p>Vous encourage vos alliés à aller au-delà de leurs limites lorsque vous voyagez. Vous obtenez les dons généraux @Compendium[pf2e.feats-srd.5ZsmRm7HvFAw2XDZ]{Chef de caravane} et @Compendium[pf2e.feats-srd.38uOVS8fLZxraUrg]{Garder la cadence}, même si vous n'en remplissez pas les prérequis.</p>"
         },
         {
             "id": "Cleric Dedication",
@@ -9879,7 +9879,7 @@
         {
             "id": "Certain Strike",
             "name": "Certain Strike",
-            "description": "<p>Lorsque vous ne touchez pas franchement votre cible, vous parvenez quand même à infliger des dégâts superficiels. Effectuez une Frappe au corps à corps. Elle obtient l’effet d’échec suivant.</p>\n<p><stong>Échec</stong>Votre attaque inflige les dégâts qu’elle devrait normalement in‑ fliger en cas de succès, en enlevant tous les dés de dégâts (vous re‑ tirez ainsi les dés de dégâts conférés par les runes d’arme, les sorts, les pouvoirs spéciaux, en plus des dés de dégâts d’arme).</p>"
+            "description": "<p>Lorsque vous ne touchez pas franchement votre cible, vous parvenez quand même à infliger des dégâts superficiels. Effectuez une Frappe au corps à corps. Elle obtient l’effet d’échec suivant.</p>\n<p><stong>Échec</stong> Votre attaque inflige les dégâts qu’elle devrait normalement infliger en cas de succès, en enlevant tous les dés de dégâts (vous retirez ainsi les dés de dégâts conférés par les runes d’arme, les sorts, les pouvoirs spéciaux, en plus des dés de dégâts d’arme).</p>"
         },
         {
             "id": "Blessed Blood (Sorcerer)",
@@ -10029,7 +10029,7 @@
         {
             "id": "Aberration Kinship",
             "name": "Aberration Kinship",
-            "description": "<p>Votre esprit résonne des processus de pensée insondable que les aberrations inhumaines utilisent pour communiquer. Vous pouvez lancer @Compendium[pf2e.spells-srd.D442XMADp01qJ7Cs]{Lien mental} comme un sort inné occulte une fois par jour, mais vous ne pouvez cibler que des aberrations.</p>"
+            "description": "<p>Les processus de pensée insondable que les aberrations inhumaines utilisent pour communiquer résonnent dans votre esprit. Vous pouvez lancer @Compendium[pf2e.spells-srd.D442XMADp01qJ7Cs]{Lien mental} comme un sort inné occulte une fois par jour, mais vous ne pouvez cibler que des aberrations.</p>"
         },
         {
             "id": "Magpie Snatch",
@@ -10144,7 +10144,7 @@
         {
             "id": "Unexpected Shift",
             "name": "Unexpected Shift",
-            "description": "<p><strong>Déclencheur</strong> Vous devriez subir les dégâts d'une attaque, d'un sort ou d'un autre effet.</p>\n<hr />\n<p>Votre lien surnaturel est quelque fois la cause d'un déphasage avec la réalité, vous faisant disparaître quelques secondes avant de réapparaître, vous surprenant tout autant vous-même que vos ennemis. Faites un test nu contre un DD 16. Sur un succès, vous obtenez une résistance à tous les dégâts égal à votre niveau contre l'effet déclencheur, vous obtenez un bonus de circonstances de +2 aux jets de protection contre cet effet jusqu'au début de votre prochain tour et vous obtenez la condition @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{ébloui} pendant 1 round.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous devriez subir les dégâts d'une attaque, d'un sort ou d'un autre effet.</p>\n<hr />\n<p>Votre lien surnaturel est quelque fois la cause d'un déphasage avec la réalité lorsque vous êtes en danger, vous faisant disparaître quelques secondes avant de réapparaître. Vous êtes tout aussi surpris que vos ennemis. Faites un test nu contre un DD 16. Sur un succès, vous obtenez une résistance à tous les dégâts égal à votre niveau contre l'effet déclencheur, vous obtenez un bonus de circonstances de +2 aux jets de protection contre cet effet jusqu'au début de votre prochain tour et vous obtenez la condition @compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{Ebloui} pendant 1 round.</p>"
         },
         {
             "id": "Consult The Spirits",
@@ -10179,7 +10179,7 @@
         {
             "id": "Lorefinder",
             "name": "Lorefinder",
-            "description": "<p>Vous savez que le destin conspire quelques fois pour conserver les connaissances dangereuses ou des objets des yeux de ceux les plus capables de les comprendre. Vous déniez au destin la capacité de vous cacher les vérités. Vous pouvez lancer @Compendium[pf2e.spells-srd.LQzlKbYjZSMFQawP]{Localisation} comme un sort inné occulte une fois par jour.</p>\n<p>Lorsque vous atteignez le niveau 14, ce sort est intensifié au niveau 5.</p>"
+            "description": "<p>Vous savez que parfois le destin complote à cacher les connaissances ou les objets dangereux loin des yeux de ceux capables de les comprendre. Vous refusez au destin la capacité de vous cacher les vérités. Vous pouvez lancer @Compendium[pf2e.spells-srd.LQzlKbYjZSMFQawP]{Localisation} comme un sort inné occulte une fois par jour.</p>\n<p>Lorsque vous atteignez le niveau 14, ce sort est intensifié au niveau 5.</p>"
         },
         {
             "id": "Wayfinder Resonance Tinkerer",
@@ -11204,7 +11204,7 @@
         {
             "id": "Able Ritualist",
             "name": "Able Ritualist",
-            "description": "<p>Vos lectures sur les rituels ont fait de vous un participant compétent.</p>\n<p>Vous obtenez un bonus de circonstances de +2 aux tests primaires et secondaires que vous tentez faisant partie de l'incantation d'un rituel.</p>"
+            "description": "<p>Vos lectures sur les rituels ont fait de vous un participant compétent.</p>\n<p>Vous obtenez un bonus de circonstances de +2 aux tests primaires et secondaires faisant partie de l'incantation d'un rituel que vous tentez.</p>"
         },
         {
             "id": "Wild Empathy",
@@ -11699,7 +11699,7 @@
         {
             "id": "Story Crooner",
             "name": "Story Crooner",
-            "description": "<p>Vous êtes un tisseur d'histoires talentueux et utilisez votre voix efficacement. Vous êtes qualifié en Représentation. Si vous deviez déjà être qualifié automatiquement en Représentation, vous devenez qualifié en une compétence de votre choix. Vous obtenez aussi le don de compétence Représentation Impressionnante et obtenez un bonus de circonstances de +1 lorsque vous faites une Représentation pour un public de strix.</p>"
+            "description": "<p>Vous êtes un tisseur d'histoires talentueux et utilisez votre voix efficacement. Vous êtes qualifié en Représentation. Si vous deviez déjà être qualifié automatiquement en Représentation, vous devenez qualifié en une compétence de votre choix. Vous obtenez aussi le don de compétence @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Représentation Impressionnante} et obtenez un bonus de circonstances de +1 lorsque vous faites une Représentation pour un public de Strix.</p>"
         },
         {
             "id": "Impose Order",
@@ -11984,7 +11984,7 @@
         {
             "id": "Inner Fire",
             "name": "Inner Fire",
-            "description": "<p>Vous pouez invoquer le feu qui vous consume de l'intérieur dans la paume de votre main. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Flammes} comme un sort inné primordial ou arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>"
+            "description": "<p>Vous pouvez invoquer le feu intérieur qui vous consume jusque dans la paume de votre main. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Flammes} comme un sort inné primordial ou arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>"
         },
         {
             "id": "Dead Reckoning",
@@ -12644,7 +12644,7 @@
         {
             "id": "Intuitive Cooperation",
             "name": "Intuitive Cooperation",
-            "description": "<p><strong>Accès</strong> ethnie Jaric</p>\n<hr />\n<p>Vous êtes accoutumé à travailler aux côtés des autres, en comptant chacun l'un sur l'autre pour avancer. Vous obtenez un bonus de circonstances de +2 aux tests pour Aider et vos alliés obtiennent un bonus de circonstances de +2 à leurs tests pour vous aider.</p>"
+            "description": "<p><strong>Accès</strong> ethnie Jaric</p>\n<hr />\n<p>Vous êtes habitué à travailler aux côtés des autres, en comptant l'un sur l'autre pour avancer. Vous obtenez un bonus de circonstances de +2 aux tests pour Aider et vos alliés obtiennent un bonus de circonstances de +2 à leurs tests pour vous @compendium\\[pf2e.actionspf2e.HCl3pzVefiv9ZKQW\\]{Aider}.</p>"
         },
         {
             "id": "Haughty Obstinacy",
@@ -12919,7 +12919,7 @@
         {
             "id": "Genie Weapon Flourish",
             "name": "Genie Weapon Flourish",
-            "description": "<p>Lorsque vous obtenez un coup critique en utilisant une @Compendium[pf2e.equipment-srd.UfurZQK6H6SgOjqe]{Corsèque}, un @Compendium[pf2e.equipment-srd.grmaV4GdoGD7sKbn]{Cimeterre}, un @Compendium[pf2e.equipment-srd.XGtIUZ4ZNKuFx1uL]{Cimeterre à deux mains} ou un @Compendium[pf2e.equipment-srd.FJrsDoaIXksVjld9]{Trident} ou une arme de génie, vous appliquez l'effet de critique spécialisé de l'arme.</p>"
+            "description": "<p>Lorsque vous obtenez un coup critique en utilisant une @Compendium[pf2e.equipment-srd.UfurZQK6H6SgOjqe]{Corsèque}, un @Compendium[pf2e.equipment-srd.grmaV4GdoGD7sKbn]{Cimeterre}, un @Compendium[pf2e.equipment-srd.XGtIUZ4ZNKuFx1uL]{Cimeterre à deux mains} ou un @Compendium[pf2e.equipment-srd.FJrsDoaIXksVjld9]{Trident} ou une arme de Génie, vous appliquez l'effet de critique spécialisé de l'arme.</p>"
         },
         {
             "id": "Diverting Vortex",
@@ -13114,7 +13114,7 @@
         {
             "id": "Dig Quickly",
             "name": "Dig Quickly",
-            "description": "<p><strong>Conditions</strong> Vous vous trouvez sur de la terre meuble, du sable, de la neige ou sur des matériaux avec des particules du même ordre.</p>\n<hr />\n<p>Vos mains travaillent aussi efficacement que des pelles lorsque vous creusez un trou rapidement. Vous excavez un puits peu profond dans l'espace que vous occupez actuellement, faisant de cette case un terrain difficile (même pour vous). En outren, vous répandez dans les airs un nuage empanaché dans une direction de votre choix. ce nuage éteint les petits feux non magiques et non tenus et aide à ralentir les flammes sur les créatures enflammées situées dans le cône ; les créatures dans ce cône qui subissent des @Compendium[pf2e.conditionspf2e.lDVqvLKA6eF3Df60]{dégâts de feu persistants} peuvent immédiatement faire un test supplémentaire contre un DD nu de 15 pour mettre un terme aux dégâts persistants.</p>"
+            "description": "<p><strong>Conditions</strong> Vous vous trouvez sur de la terre meuble, du sable, de la neige ou sur des matériaux avec des particules du même ordre.</p>\n<hr />\n<p>Vos mains travaillent aussi efficacement que des pelles lorsque vous creusez un trou rapidement. Vous excavez un puits peu profond dans l'espace que vous occupez actuellement, faisant de cette case un terrain difficile (même pour vous). En outre, vous répandez dans les airs un nuage empanaché dans une direction de votre choix. Ce nuage éteint les petits feux non magiques et non tenus et aide à ralentir les flammes sur les créatures enflammées situées dans le cône ; les créatures dans ce cône qui subissent des @Compendium[pf2e.conditionspf2e.lDVqvLKA6eF3Df60]{dégâts de feu persistants} peuvent immédiatement faire un test supplémentaire contre un DD nu de 15 pour mettre un terme aux dégâts persistants.</p>"
         },
         {
             "id": "Project Persona",
