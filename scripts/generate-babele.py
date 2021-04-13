@@ -72,8 +72,7 @@ for p in packs:
     })
     
     if data['status'] == 'aucune' or data['status'] == "auto-trad" \
-      or data['status'] == "auto-googtrad"  or data['status'] == "vide" \
-        or (data['status'] == "changed" and data['descrFR'] == ""):
+      or data['status'] == "auto-googtrad"  or data['status'] == "vide":
       continue
     elif not isValid(data):
       print("Skipping invalid entry %s" % path + fpath)
