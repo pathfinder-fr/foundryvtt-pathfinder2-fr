@@ -23,7 +23,7 @@ for p in packs:
     for id in existing:
         filename = existing[id]["filename"]
         filepath = "%sdata/%s/%s" % (ROOT, p["id"], filename)
-        if existing[id]["status"] == "aucune":
+        if existing[id]["status"] == "aucune" or (existing[id]["status"]=="changé" and len(existing[id]["descrFR"])==0):
             name = existing[id]["nameEN"]
             logging.info("Translating "+name)
             toTrad = existing[id]['descrEN']
@@ -33,6 +33,11 @@ for p in packs:
                 existing[id]['status'] = "auto-trad"
                 dataToFile(existing[id], filepath)
                 logging.info("Success !")
+            except EmptyDescriptionException as e:
+                exception_name = type(e).__name__
+                logging.error("Error while translating %s : %s" % (filename, exception_name))
+                filename = name.lower().replace(" ", "-")+".json"
+                logging.error("File %s in pack %s -> %s" % (filename, p["id"], e.message))
             except Exception as e:
                 exception_name = type(e).__name__
                 logging.error("Error while translating %s : %s" % (filename, exception_name))
@@ -44,6 +49,7 @@ for p in packs:
                     filename = name.lower().replace(" ", "-")+".json"
                     logging.error("File %s in pack %s -> %s" % (filename, p["id"], e.message))
                 try:
+                    logging.info("Essai avec Google Trad")
                     translated = dirtyGoogleTranslate(toTrad)
                     existing[id]['descrFR'] = translated
                     existing[id]['status'] = "auto-googtrad"
