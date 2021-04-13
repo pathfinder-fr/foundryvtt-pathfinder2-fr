@@ -19,6 +19,8 @@ for D in SUPPORTED:
   statusContentEmpty = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|:----:|\n"
   statusContentAT = "| Fichier   | Nom (EN)    | État |\n" + "|-----------|-------------|:----:|\n"
   statusContentNOK = "| Fichier   | Nom (EN)    |\n" + "|-----------|-------------|\n"
+
+  longueur_initiale = len(statusContentNOK)
     
   files = [f for f in os.listdir(dirpath) if os.path.isfile(os.path.join(dirpath, f))]
   files = sorted(files, key=str.casefold)
@@ -32,7 +34,7 @@ for D in SUPPORTED:
     else:
       stats[data['status']]=1
     
-    if data['status'] == "aucune" or (data['status']=="changé" and len(data['nameFr'])==0):
+    if data['status'] == "aucune" or (data['status']=="changé" and len(data['nameFR'])==0):
       statusContentNOK += "|[%s](%s/%s)|%s|\n" % (f, D, f, data['nameEN'])
     elif data['status'] == "auto-trad" or data['status'] == "auto-googtrad":
       statusContentAT += "|[%s](%s/%s)|%s|%s|\n" % (f, D, f, data['nameEN'], data['status'])
@@ -50,7 +52,7 @@ for D in SUPPORTED:
   
   content += "\n\nDernière mise à jour: %s *(heure de Canada/Montréal)*" % datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
   content += "\n\nCe fichier est généré automatiquement. NE PAS MODIFIER!"
-  if "aucune" in stats and stats["aucune"] > 0:
+  if "aucune" in stats and stats["aucune"] > 0 or len(statusContentNOK)!=longueur_initiale:
     content += "\n## Liste des traductions à faire\n\n"
     content += statusContentNOK
   if "auto-trad" in stats and stats["auto-trad"] > 0 or "auto-googtrad" in stats and stats["auto-googtrad"] > 0:
