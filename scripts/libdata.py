@@ -330,6 +330,10 @@ def dirtyTranslate(driver, data):
 #
 def cleanTrad(data):
     data = data.replace("&gt ;", "&gt")
+    data = data.replace("Activate", "Activation")
+    data = data.replace("Interact", "Interagir")
+    data = data.replace("60 feet", "18 mètres")
+    data = data.replace("30 feet", "9 mètres")
     data = data.replace("Traduit avec www.DeepL.com/Translator (version gratuite)", "")
     return data
 
@@ -348,7 +352,7 @@ def dirtyGoogleTranslate(data):
   output = WebDriverWait(driver, timeout=120).until(lambda d: d.find_element_by_xpath("//div[@class='J0lOec']"))
   transData = output.text
   driver.quit()
-  transData = cleanTrad(transData)
+  transData = cleanGoogleTrad(transData)
   return transData
 
 
