@@ -32,11 +32,11 @@ for D in SUPPORTED:
     else:
       stats[data['status']]=1
     
-    if data['status'] == "aucune":
+    if data['status'] == "aucune" or (data['status']=="changé" and len(data['nameFr'])==0):
       statusContentNOK += "|[%s](%s/%s)|%s|\n" % (f, D, f, data['nameEN'])
     elif data['status'] == "auto-trad" or data['status'] == "auto-googtrad":
       statusContentAT += "|[%s](%s/%s)|%s|%s|\n" % (f, D, f, data['nameEN'], data['status'])
-    elif data['status'] == "changed":
+    elif data['status'] == "changé":
       statusContentChanged += "|[%s](%s/%s)|%s|%s|%s|\n" % (f, D, f, data['nameEN'], data['nameFR'], data['status'])
     elif data['status'] == "vide":
       statusContentEmpty += "|[%s](%s/%s)|%s|%s|\n" % (f, D, f, data['nameEN'], data['status'])
@@ -56,7 +56,7 @@ for D in SUPPORTED:
   if "auto-trad" in stats and stats["auto-trad"] > 0 or "auto-googtrad" in stats and stats["auto-googtrad"] > 0:
     content += "\n## Liste des traductions automatiques à corriger/retraduire\n\n"
     content += statusContentAT
-  if "changed" in stats and stats["changed"] > 0:
+  if "changé" in stats and stats["changé"] > 0:
     content += "\n## Liste des éléments changés en VO et devant être vérifiés\n\n"
     content += statusContentChanged
   if "vide" in stats and stats["vide"] > 0:
