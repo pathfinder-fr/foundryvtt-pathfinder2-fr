@@ -1,0 +1,6 @@
+image: faeeria/pf2-fr-foundry-builder:0.314
+
+essai:
+    stage: build
+    script:
+        - git status
