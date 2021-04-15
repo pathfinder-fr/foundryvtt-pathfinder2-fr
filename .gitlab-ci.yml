@@ -4,7 +4,7 @@ build:
     stage: build
     script:
         - git config --global user.email "pf2.fr.builder@gmail.com" && git config --global user.name "PF2FR Builder"
-        - ssh-agent -s && ssh-add $rsa
+        - eval "$(ssh-agent -s)" && ssh-add $rsa
         - cd / && wget -q https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/jobs/artifacts/release/raw/pf2e.zip?job=build
         - unzip -q pf2e.zip?job=build && mv pf2e/packs /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/packs
         - cd /builds/pathfinder-fr/ && git clone https://gitlab.com/pathfinder-fr/pf2-data-fr.git
