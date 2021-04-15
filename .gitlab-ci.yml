@@ -3,6 +3,9 @@ image: faeeria/pf2-fr-foundry-builder:0.3.14.15
 essai:
     stage: build
     script:
+        - wget https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/jobs/artifacts/release/raw/pf2e.zip?job=build
+        - unzip pf2e.zip
+        - mv pf2e/packs /packs
         - cd scripts
         - bash update.sh
         - git status
