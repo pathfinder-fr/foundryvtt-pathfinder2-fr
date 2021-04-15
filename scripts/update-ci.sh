@@ -18,9 +18,6 @@ echo "Updating website data",
 ./generate-website.py
 
 echo "Change version"
-./change-version.sh
-
-echo "Ready for commit"
-git add ../data ../babele* ../module.json
+./change-version-ci.sh
 
 echo "Done"
