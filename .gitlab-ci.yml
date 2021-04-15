@@ -3,4 +3,6 @@ image: faeeria/pf2-fr-foundry-builder:0.3.14.15
 essai:
     stage: build
     script:
+        - cd scripts
+        - bash update.sh
         - git status
