@@ -20,7 +20,4 @@ echo "Updating website data",
 echo "Change version"
 ./change-version.sh
 
-echo "Ready for commit"
-git add ../data ../babele* ../module.json
-
 echo "Done"
