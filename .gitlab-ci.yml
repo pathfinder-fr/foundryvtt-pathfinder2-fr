@@ -3,9 +3,9 @@ image: registry.gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr
 essai:
     stage: build
     script:
-        - wget https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/jobs/artifacts/release/raw/pf2e.zip?job=build
-        - unzip pf2e.zip?job=build
-        - mv pf2e/packs /packs
+        - pwd
+        - cd / && wget https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/jobs/artifacts/release/raw/pf2e.zip?job=build
+        - unzip pf2e.zip?job=build && mv pf2e/packs /packs
         - ls
         - cd scripts
         - bash update.sh
