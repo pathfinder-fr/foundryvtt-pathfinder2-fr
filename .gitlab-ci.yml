@@ -9,4 +9,6 @@ build:
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
         - bash update.sh
     only:
-        - merge_requests
+        changes:
+            - scripts/*
+            - .gitlab-ci.yml
