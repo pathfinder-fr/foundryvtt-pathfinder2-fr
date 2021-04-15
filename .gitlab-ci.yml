@@ -1,0 +1,10 @@
+image: registry.gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr
+
+essai:
+    stage: build
+    script:
+        - cd / && wget -q https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/jobs/artifacts/release/raw/pf2e.zip?job=build
+        - unzip -q pf2e.zip?job=build && mv pf2e/packs /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/packs
+        - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
+        - bash update.sh
+        - git status
