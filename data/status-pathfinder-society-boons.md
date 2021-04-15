@@ -4,9 +4,17 @@
  * **changé**: 3
 
 
-Dernière mise à jour: 2021-04-13 18:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-15 23:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[B7fDgC6tcv41lcP7.htm](pathfinder-society-boons/B7fDgC6tcv41lcP7.htm)|S1-Q11 - Amateur Genealogist|
+|[CKyGNdBL8Qt4ysKt.htm](pathfinder-society-boons/CKyGNdBL8Qt4ysKt.htm)|S2-03 - Fluent in Cyclops|
+|[RLzWznPsb2VpbxTy.htm](pathfinder-society-boons/RLzWznPsb2VpbxTy.htm)|S1-Q12 - Fruit Basket|
+
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
@@ -140,10 +148,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ZtLTqT4G5q8SLJCT.htm](pathfinder-society-boons/ZtLTqT4G5q8SLJCT.htm)|S1-09 - Ally of the Iruxi|auto-trad|
 |[ZZvIzyH6SwyVkEYm.htm](pathfinder-society-boons/ZZvIzyH6SwyVkEYm.htm)|S1-21 - Maze Walker|auto-trad|
 
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[B7fDgC6tcv41lcP7.htm](pathfinder-society-boons/B7fDgC6tcv41lcP7.htm)|S1-Q11 - Amateur Genealogist||changé|
-|[CKyGNdBL8Qt4ysKt.htm](pathfinder-society-boons/CKyGNdBL8Qt4ysKt.htm)|S2-03 - Fluent in Cyclops||changé|
-|[RLzWznPsb2VpbxTy.htm](pathfinder-society-boons/RLzWznPsb2VpbxTy.htm)|S1-Q12 - Fruit Basket||changé|
