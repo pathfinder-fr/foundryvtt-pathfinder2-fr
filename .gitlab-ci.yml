@@ -10,7 +10,7 @@ build:
         - unzip -q pf2e.zip?job=build && mv pf2e/packs /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/packs
         - cd /builds/pathfinder-fr/ && git clone https://gitlab.com/pathfinder-fr/pf2-data-fr.git
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
-        - bash update.sh
+        - bash update-ci.sh
     only:
         changes:
             - scripts/*
