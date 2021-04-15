@@ -1,4 +1,4 @@
-image: faeeria/pf2-fr-foundry-builder:0.3.14.15
+image: registry.gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr
 
 essai:
     stage: build
