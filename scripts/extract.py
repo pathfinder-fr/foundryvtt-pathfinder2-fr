@@ -101,7 +101,7 @@ for p in packs:
         os.rename(pathFrom, pathTo)
       
       # check status from existing file
-      if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé", "auto-trad"):
+      if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé", "auto-trad", 'auto-googtrad', "vide"):
         print("Status error for : %s" % filepath);
         exit(1)
        
