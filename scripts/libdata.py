@@ -343,6 +343,10 @@ def cleanTrad(data):
 # sur Google Translate
 #
 def dirtyGoogleTranslate(data):
+  length = len(data)
+  if (length<10):
+    raise EmptyDescriptionException()
+    return ""
   options = webdriver.FirefoxOptions()
   options.add_argument("--headless")
   driver = webdriver.Firefox(options=options)

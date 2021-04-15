@@ -142,38 +142,42 @@ for p in packs:
       # create new
       else:
         name = source["name"]
-        try:
-          # tentative de traduction automatique avec DeepL Translator
-          tradDesc = dirtyTranslate(driver, source['desc'])
-          status = "auto-trad"
-        # cas d'un fichier sans description
-        except EmptyDescriptionException as e:
-          logging.error("Error while translating %s : %s" % (filename, exception_name))
-          fname = name.lower().replace(" ", "-")+".json"
-          logging.error("File %s in pack %s -> %s" % (fname, p["id"], e.message))
-          tradDesc = ""
-          status = "vide"
-        except Exception as e:
-          exception_name = type(e).__name__
-          logging.error("Error while translating %s : %s" % (fname, exception_name))
-
-          if exception_name=="TimeoutException":
-            logging.error("Fichier %s : le texte est très long et le délai pour la \
-            traduction automatique a été dépassé, ou la connexion à été bloquée \
-            à cause d'un trop grand nombre de requêtes sur un compte gratuit." % fname)
-          else: 
-            filename = name.lower().replace(" ", "-")+".json"
-            logging.error("File %s in pack %s -> %s" % (fname, p["id"], e.message))
-
-          # si erreur, tentative de traduction automatique avec DeepL Translator
+        if len(source['desc']) > 0:
           try:
-            tradDesc = dirtyGoogleTranslate(toTrad)
-            status = "auto-googtrad"
-          except Exception as e:
-            logging.error("Error while translating %s : %s" % (fname, exception_name))
-            logging.error("Even Google Translate fails here, this file is hopeless ... ")
+            # tentative de traduction automatique avec DeepL Translator
+            tradDesc = dirtyTranslate(driver, source['desc'])
+            status = "auto-trad"
+          # cas d'un fichier sans description
+          except EmptyDescriptionException as e:
+            logging.error("Error while translating %s : %s" % (filename, exception_name))
+            fname = name.lower().replace(" ", "-")+".json"
+            logging.error("File %s in pack %s -> %s" % (fname, p["id"], e.message))
             tradDesc = ""
             status = "aucune"
+          except Exception as e:
+            exception_name = type(e).__name__
+            logging.error("Error while translating %s : %s" % (fname, exception_name))
+
+            if exception_name=="TimeoutException":
+              logging.error("Fichier %s : le texte est très long et le délai pour la \
+              traduction automatique a été dépassé, ou la connexion à été bloquée \
+              à cause d'un trop grand nombre de requêtes sur un compte gratuit." % fname)
+            else: 
+              filename = name.lower().replace(" ", "-")+".json"
+              logging.error("File %s in pack %s -> %s" % (fname, p["id"], e.message))
+
+            # si erreur, tentative de traduction automatique avec DeepL Translator
+            try:
+              tradDesc = dirtyGoogleTranslate(toTrad)
+              status = "auto-googtrad"
+            except Exception as e:
+              logging.error("Error while translating %s : %s" % (fname, exception_name))
+              logging.error("Even Google Translate fails here, this file is hopeless ... ")
+              tradDesc = ""
+              status = "aucune"
+        else:
+          tradDesc = ""
+          status = "vide"
             
         data = { 
           'nameEN': name,

@@ -38,6 +38,9 @@ for p in packs:
                 logging.error("Error while translating %s : %s" % (filename, exception_name))
                 filename = name.lower().replace(" ", "-")+".json"
                 logging.error("File %s in pack %s -> %s" % (filename, p["id"], e.message))
+                existing[id]['descrFR'] = ""
+                existing[id]['status'] = "vide"
+                dataToFile(existing[id], filepath)
             except Exception as e:
                 exception_name = type(e).__name__
                 logging.error("Error while translating %s : %s" % (filename, exception_name))
