@@ -2,19 +2,9 @@
     "label": "Effets des sorts",
     "entries": [
         {
-            "id": "Spell Effect: Bless",
-            "name": "Effet de sort : Bénédiction (Spell Effect: Bless)",
-            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bénédiction}</p>\n<hr>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de statut de +1 aux jets d'attaque.</li>\n</ul>"
-        },
-        {
-            "id": "Spell Effect: Guidance",
-            "name": "Effet : Assistance divine (Spell Effect: Guidance)",
-            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.izcxFQFwf3woCnFs]{Assistance divine}</p>\n<p>Effet appliqué :</p>\n<ul>\n<li>bonus de statut de +1 à un jet d'attaque, un test de Perception, un jet de sauvegarde ou un jet de compétence.</li>\n</ul>"
-        },
-        {
-            "id": "Spell Effect: Shield",
-            "name": "Effet : Bouclier (Spell Effect: Shield)",
-            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Bouclier}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de circonstances de +1 à la CA</li>\n</ul>"
+            "id": "Spell Effect: Mage Armor",
+            "name": "Effet : Armure du mage (Spell Effect: Mage Armor)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Armure de mage}</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 à la CA</li>\n<li>modificateur de Dextérité maximum de +5</li>\n<li>Maîtrise sans armure pour calculer votre CA</li>\n</ul>"
         },
         {
             "id": "Spell Effect: Inspire Courage",
@@ -22,9 +12,19 @@
             "description": "<p>Accordé par  @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspiration Vaillante}</p>\n<p>Effet pris en compte :\n<ul>\n<li>bonus de statut de +1 aux jets d'attaque</li>\n<li>bonus de statut de +1 aux jets de dégâts</li>\n<li>bonus de statut de +1 aux jets de sauvegarde contre les effets de terreur</li>\n</ul>"
         },
         {
-            "id": "Spell Effect: Mage Armor",
-            "name": "Effet : Armure du mage (Spell Effect: Mage Armor)",
-            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Armure de mage}</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 à la CA</li>\n<li>modificateur de Dextérité maximum de +5</li>\n<li>Maîtrise sans armure pour calculer votre CA</li>\n</ul>"
+            "id": "Spell Effect: Shield",
+            "name": "Effet : Bouclier (Spell Effect: Shield)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Bouclier}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de circonstances de +1 à la CA</li>\n</ul>"
+        },
+        {
+            "id": "Spell Effect: Guidance",
+            "name": "Effet : Assistance divine (Spell Effect: Guidance)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.izcxFQFwf3woCnFs]{Assistance divine}</p>\n<p>Effet appliqué :</p>\n<ul>\n<li>bonus de statut de +1 à un jet d'attaque, un test de Perception, un jet de sauvegarde ou un jet de compétence.</li>\n</ul>"
+        },
+        {
+            "id": "Spell Effect: Bless",
+            "name": "Effet de sort : Bénédiction (Spell Effect: Bless)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bénédiction}</p>\n<hr>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de statut de +1 aux jets d'attaque.</li>\n</ul>"
         }
     ],
     "mapping": {}
