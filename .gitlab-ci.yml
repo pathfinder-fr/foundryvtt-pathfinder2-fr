@@ -10,6 +10,7 @@ build:
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
         - bash update-ci.sh
         - cd /builds/pathfinder-fr/pf2-data-fr && git add -A && git commit -m "Automatic data update" && git push -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/pf2-data-fr.git
+        - echo "Done !"
     only:
         changes:
             - scripts/*
