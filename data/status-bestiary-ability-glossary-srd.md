@@ -5,16 +5,9 @@
  * **changé**: 2
 
 
-Dernière mise à jour: 2021-04-16 00:12 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-13 18:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[nZMQh4AaBr291TUf.htm](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Buck|Désarçonner|changé|
-|[zU3Ovaet4xQ5Gmvy.htm](bestiary-ability-glossary-srd/zU3Ovaet4xQ5Gmvy.htm)|Engulf|Engloutissement|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -55,6 +48,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[lR9R5Vld8Eu2Dha5.htm](bestiary-ability-glossary-srd/lR9R5Vld8Eu2Dha5.htm)|Regeneration|Régénération|officielle|
 |[m4HQ2o5aPxjXf2kY.htm](bestiary-ability-glossary-srd/m4HQ2o5aPxjXf2kY.htm)|Shield Block|Blocage au bouclier|officielle|
 |[N1kstYbHScxgUQtN.htm](bestiary-ability-glossary-srd/N1kstYbHScxgUQtN.htm)|Ferocity|Férocité|officielle|
+|[nZMQh4AaBr291TUf.htm](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Buck|Désarçonner|changé|
 |[o4EYJEBi2YwYzGov.htm](bestiary-ability-glossary-srd/o4EYJEBi2YwYzGov.htm)|Divine Domain Spells (Divine Warden)|Sorts de domaine divin (Gardien divin)|libre|
 |[OmV6E3aELvq9CkK1.htm](bestiary-ability-glossary-srd/OmV6E3aELvq9CkK1.htm)|Greater Constrict|Constriction supérieure|officielle|
 |[OvqohW9YuahnFaiX.htm](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Form Up|Se reformer|libre|
@@ -72,3 +66,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[v61oEQaDdcRpaZ9X.htm](bestiary-ability-glossary-srd/v61oEQaDdcRpaZ9X.htm)|Aura|Aura|officielle|
 |[VdSMQ6yRZ3YXNXHL.htm](bestiary-ability-glossary-srd/VdSMQ6yRZ3YXNXHL.htm)|Wavesense|Perception des ondes|officielle|
 |[Z025dWgZtawbuRLI.htm](bestiary-ability-glossary-srd/Z025dWgZtawbuRLI.htm)|Disease|Maladie|officielle|
+|[zU3Ovaet4xQ5Gmvy.htm](bestiary-ability-glossary-srd/zU3Ovaet4xQ5Gmvy.htm)|Engulf|Engloutissement|changé|
