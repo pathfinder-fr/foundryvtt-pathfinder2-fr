@@ -5,7 +5,7 @@
  * **changé**: 1
 
 
-Dernière mise à jour: 2021-04-16 00:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-13 18:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -47,12 +47,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oDhTOO1WjEZk1qfD.htm](gmg-srd/oDhTOO1WjEZk1qfD.htm)|Witnessed War|auto-trad|
 |[OHKKQ7zTf61vz35h.htm](gmg-srd/OHKKQ7zTf61vz35h.htm)|Liberators|auto-trad|
 |[pd6ZzGL5TA58Fa3p.htm](gmg-srd/pd6ZzGL5TA58Fa3p.htm)|The Hunter|auto-trad|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|Vainqueur d'une compétition|changé|
 
 ## Liste des traductions complétés
 
@@ -118,5 +112,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[y4quheEoo2bcmM6g.htm](gmg-srd/y4quheEoo2bcmM6g.htm)|Seeking Accolades|Chercheur d'attention|officielle|
 |[yqCZWcX9e3iwmvSS.htm](gmg-srd/yqCZWcX9e3iwmvSS.htm)|Social Maneuvering|Manipulations sociales|officielle|
 |[YR0uxB5CPPueFjBs.htm](gmg-srd/YR0uxB5CPPueFjBs.htm)|The Relative|Le parent|officielle|
+|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|Vainqueur d'une compétition|changé|
 |[yZUZDw8TXX1MvZ4P.htm](gmg-srd/yZUZDw8TXX1MvZ4P.htm)|Called Before Judges|Convoqué devant les juges|officielle|
 |[ziWhyyygUG3Lemdu.htm](gmg-srd/ziWhyyygUG3Lemdu.htm)|The Academic|Le professeur|officielle|
