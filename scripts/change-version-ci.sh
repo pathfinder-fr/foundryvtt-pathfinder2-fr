@@ -6,5 +6,5 @@ git add ../module.json
 VERSION="v-0.$NEWVER.0"
 echo "Ready for commit"
 git add ../data ../babele* ../module.json
-git commit -m \"$VERSION\" && git tag \"$VERSION\" && git push -o ci-skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git  HEAD:master && git push --tags -o ci-skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git HEAD:master
+git commit -m \"$VERSION\" && git tag \"$VERSION\" && git push -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git  HEAD:master && git push --tags -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git HEAD:master
 
