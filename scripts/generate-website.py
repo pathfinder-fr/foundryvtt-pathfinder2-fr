@@ -61,5 +61,5 @@ for p in packs:
       
     list.append(obj)
 
-  with open(WEBSITE_DATA + "actions.json", 'w') as outfile:
+  with open(WEBSITE_DATA + p['name'] + ".json", 'w') as outfile:
     json.dump(list, outfile, indent=3)
