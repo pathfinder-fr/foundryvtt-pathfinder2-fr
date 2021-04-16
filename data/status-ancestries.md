@@ -5,18 +5,23 @@
  * **officielle**: 8
 
 
-Dernière mise à jour: 2021-04-13 18:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-16 01:45 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[4BL5wf1VF9feC2rY.htm](ancestries/4BL5wf1VF9feC2rY.htm)|Kitsune|Kitsune|changé|
+|[BYj5ZvlXZdpaEgA6.htm](ancestries/BYj5ZvlXZdpaEgA6.htm)|Dwarf|Nain|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[18xDKYPDBLEv2myX.htm](ancestries/18xDKYPDBLEv2myX.htm)|Tengu|Tengu|libre|
-|[4BL5wf1VF9feC2rY.htm](ancestries/4BL5wf1VF9feC2rY.htm)|Kitsune|Kitsune|changé|
 |[7oQxL6wgsokD3QXG.htm](ancestries/7oQxL6wgsokD3QXG.htm)|Kobold|Kobold|libre|
 |[972EkpJOPv9KkQIW.htm](ancestries/972EkpJOPv9KkQIW.htm)|Catfolk|Homme-félin (félide)|libre|
-|[BYj5ZvlXZdpaEgA6.htm](ancestries/BYj5ZvlXZdpaEgA6.htm)|Dwarf|Nain|changé|
 |[cdhgByGG1WtuaK73.htm](ancestries/cdhgByGG1WtuaK73.htm)|Leshy|Léchi|officielle|
 |[CYlfsYLJcBOgqKtD.htm](ancestries/CYlfsYLJcBOgqKtD.htm)|Gnome|Gnome|officielle|
 |[FXlXmNBFiiz9oasi.htm](ancestries/FXlXmNBFiiz9oasi.htm)|Fleshwarp|Distordu|libre|
