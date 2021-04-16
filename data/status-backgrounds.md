@@ -5,16 +5,9 @@
  * **changé**: 2
 
 
-Dernière mise à jour: 2021-04-16 01:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-13 18:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[iPuclSXdCEAVfTZ0.htm](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Empty Background]|[Historique vierge]|changé|
-|[vE6nb2OSIXqprDXk.htm](backgrounds/vE6nb2OSIXqprDXk.htm)|Sally Guard Neophyte|Néophyte de la Garde des Percées|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -121,6 +114,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IfpYRxN8qyV4ym0o.htm](backgrounds/IfpYRxN8qyV4ym0o.htm)|Purveyor of the Bizzare|Fournisseur de Bizarreries|libre|
 |[IoBhge83aYpq0pPV.htm](backgrounds/IoBhge83aYpq0pPV.htm)|Archaeologist|Archéologue|libre|
 |[IObZEUz8wneEMgR3.htm](backgrounds/IObZEUz8wneEMgR3.htm)|Deckhand|Homme de pont|libre|
+|[iPuclSXdCEAVfTZ0.htm](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Empty Background]|[Historique vierge]|changé|
 |[irDibuV3Wi7T43sL.htm](backgrounds/irDibuV3Wi7T43sL.htm)|Child of the Puddles|Marmot des flaques|libre|
 |[iWWg16f3re1YChiD.htm](backgrounds/iWWg16f3re1YChiD.htm)|Oenopion-Ooze Tender|Éleveur de vases d'Oenopion|libre|
 |[ixluAGUDZciLEHtb.htm](backgrounds/ixluAGUDZciLEHtb.htm)|Tax Collector|Percepteur|libre|
@@ -199,6 +193,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[V31KRG7aA7xS0m8L.htm](backgrounds/V31KRG7aA7xS0m8L.htm)|Shadow Haunted|Ombre hantée|libre|
 |[V3nYEAhyA54RtYky.htm](backgrounds/V3nYEAhyA54RtYky.htm)|Ulfen Raider|Raider ulfe|libre|
 |[vBPu7RwNXGDQ1ThL.htm](backgrounds/vBPu7RwNXGDQ1ThL.htm)|Dreamer of the Verdant Moon|Rêveur de la lune verdoyante|libre|
+|[vE6nb2OSIXqprDXk.htm](backgrounds/vE6nb2OSIXqprDXk.htm)|Sally Guard Neophyte|Néophyte de la Garde des Percées|changé|
 |[vgin9ff2sUBMpuaI.htm](backgrounds/vgin9ff2sUBMpuaI.htm)|Former Aspis Agent|Ancien Agent de l'Aspis|libre|
 |[vHeP960qjhfob4Je.htm](backgrounds/vHeP960qjhfob4Je.htm)|Scavenger|Récupérateur|libre|
 |[vjhB0ZTV9OZgSuSz.htm](backgrounds/vjhB0ZTV9OZgSuSz.htm)|Thassilonian Delver|Fouilleur thassilonnien|libre|

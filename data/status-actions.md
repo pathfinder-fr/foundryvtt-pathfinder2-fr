@@ -2,25 +2,12 @@
 
  * **officielle**: 109
  * **libre**: 48
- * **auto-trad**: 1
  * **changé**: 1
 
 
-Dernière mise à jour: 2021-04-16 01:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-13 18:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions automatiques à corriger/retraduire
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[hV9wXLvgH2LBaBwk.htm](actions/hV9wXLvgH2LBaBwk.htm)|Shootist's Draw|auto-trad|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[rmwa3OyhTZ2i2AHl.htm](actions/rmwa3OyhTZ2i2AHl.htm)|Craft|Fabriquer|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -145,6 +132,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[r5Uth6yvCoE4tr9z.htm](actions/r5Uth6yvCoE4tr9z.htm)|Destructive Vengeance|Vengeance destructrice|libre|
 |[RDXXE7wMrSPCLv5k.htm](actions/RDXXE7wMrSPCLv5k.htm)|Steal|Voler|officielle|
 |[Rlp7ND33yYfxiEWi.htm](actions/Rlp7ND33yYfxiEWi.htm)|Master Strike|Frappe de maître|officielle|
+|[rmwa3OyhTZ2i2AHl.htm](actions/rmwa3OyhTZ2i2AHl.htm)|Craft|Fabriquer|changé|
 |[rSpCV0leurp2Bg2d.htm](actions/rSpCV0leurp2Bg2d.htm)|Instinctive Obfuscation|Obscurcissement instinctif|libre|
 |[S9PZFOVe7zhORkUc.htm](actions/S9PZFOVe7zhORkUc.htm)|Absorb into the Aegis|Absorber dans l'égide|libre|
 |[SB7cMECVtE06kByk.htm](actions/SB7cMECVtE06kByk.htm)|Cover Tracks|Dissimuler des traces|officielle|

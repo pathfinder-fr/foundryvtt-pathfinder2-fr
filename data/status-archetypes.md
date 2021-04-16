@@ -1,12 +1,12 @@
 # État de la traduction (archetypes)
 
- * **auto-trad**: 6
+ * **auto-trad**: 5
  * **changé**: 66
  * **libre**: 4
  * **officielle**: 2
 
 
-Dernière mise à jour: 2021-04-16 01:45 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-13 18:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -17,14 +17,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|auto-trad|
 |[gw4J1pXYED71TPWx.htm](archetypes/gw4J1pXYED71TPWx.htm)|Bellflower Tiller|auto-trad|
 |[IdhIKSuKueYt6RsQ.htm](archetypes/IdhIKSuKueYt6RsQ.htm)|Eldritch Researcher|auto-trad|
-|[PPmO6FXrl8Otszji.htm](archetypes/PPmO6FXrl8Otszji.htm)|Drow Shootist|auto-trad|
 |[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|auto-trad|
 
-## Liste des éléments changés en VO et devant être vérifiés
+## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[2eAiIynDWTMKTGDU.htm](archetypes/2eAiIynDWTMKTGDU.htm)|Scrollmaster|Maître des parchemins|changé|
+|[2TRqXfTtfMhTSIDY.htm](archetypes/2TRqXfTtfMhTSIDY.htm)|Ghost Hunter|Chasseur de Fantômes|libre|
 |[2Wol7CpOBJjVT3aP.htm](archetypes/2Wol7CpOBJjVT3aP.htm)|Hellknight|Chevalier infernal|changé|
 |[3jceS1GfWcSQ3tMY.htm](archetypes/3jceS1GfWcSQ3tMY.htm)|Talisman Dabbler|Amateur de talismans|changé|
 |[4xzvjFVytFA0LIYj.htm](archetypes/4xzvjFVytFA0LIYj.htm)|Living Monolith|Monolithe vivant|changé|
@@ -38,8 +38,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bDP7kO6bnQh6no0C.htm](archetypes/bDP7kO6bnQh6no0C.htm)|Bright Lion|Lion Radieux|changé|
 |[Bl0KM29OOlwBegCi.htm](archetypes/Bl0KM29OOlwBegCi.htm)|Familiar Master|Maître familier|changé|
 |[Buptz08MArCtY41w.htm](archetypes/Buptz08MArCtY41w.htm)|Investigator|Enquêteur|changé|
+|[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|Médecin|libre|
 |[cEiMI4QGqjv69pJ6.htm](archetypes/cEiMI4QGqjv69pJ6.htm)|Herbalist|Herboriste|changé|
 |[cnsq5cXgQu4FXnoZ.htm](archetypes/cnsq5cXgQu4FXnoZ.htm)|Aldori Duelist|Duelliste Aldori|changé|
+|[DeixUOfwL7Bruad5.htm](archetypes/DeixUOfwL7Bruad5.htm)|Red Mantis Assassin|Assassin des Mantes rouges|officielle|
 |[DMsE43xgf1gHPl8o.htm](archetypes/DMsE43xgf1gHPl8o.htm)|Loremaster|Maître savant|changé|
 |[DYJfhMcLlP05oMDD.htm](archetypes/DYJfhMcLlP05oMDD.htm)|Duelist|Duelliste|changé|
 |[e2KCqgD3zt8yvxGg.htm](archetypes/e2KCqgD3zt8yvxGg.htm)|Sentinel|Sentinelle|changé|
@@ -57,6 +59,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kisnuKPMGheORROU.htm](archetypes/kisnuKPMGheORROU.htm)|Animal Trainer|Dompteur|changé|
 |[l4sKdl0ub0UGBwsb.htm](archetypes/l4sKdl0ub0UGBwsb.htm)|Knight Vigilant|Chevalier vigilant|changé|
 |[Ld3wizivrctmoHhy.htm](archetypes/Ld3wizivrctmoHhy.htm)|Martial Artist|Artiste martial|changé|
+|[Lr108TWazbuxxUzP.htm](archetypes/Lr108TWazbuxxUzP.htm)|Zephyr Guard|Garde Zéphyr|officielle|
+|[lsU4NQEei111OetM.htm](archetypes/lsU4NQEei111OetM.htm)|Dragon Disciple|Disciple draconique|libre|
 |[LYYDozZfXok19VYW.htm](archetypes/LYYDozZfXok19VYW.htm)|Hellknight Armiger|Écuyer des chevaliers infernaux|changé|
 |[MJ2EBeAVkc61mznR.htm](archetypes/MJ2EBeAVkc61mznR.htm)|Archer|Archer|changé|
 |[myvFp45VnA2FPOvG.htm](archetypes/myvFp45VnA2FPOvG.htm)|Archaeologist|Archéologue|changé|
@@ -79,6 +83,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UOhVrWvuaAVtQHEo.htm](archetypes/UOhVrWvuaAVtQHEo.htm)|Mauler|Cogneur|changé|
 |[UsT8XqN5LwfbBMzp.htm](archetypes/UsT8XqN5LwfbBMzp.htm)|Bastion|Bastion|changé|
 |[Utxq3fo8AoPyfh4K.htm](archetypes/Utxq3fo8AoPyfh4K.htm)|Lastwall Sentry|Sentinelle du Dernier-Rempart|changé|
+|[VRUYc3QyRjjOjppc.htm](archetypes/VRUYc3QyRjjOjppc.htm)|Turpin Rowe Lumberjack|Bûcheron de Turpin Rowe|libre|
 |[WrQ2Qpv958C6cfD0.htm](archetypes/WrQ2Qpv958C6cfD0.htm)|Knight Reclaimant|Chevalier récupérateur|changé|
 |[XATPzPTZ9Je89erT.htm](archetypes/XATPzPTZ9Je89erT.htm)|Golem Grafter|Greffeur de golem|changé|
 |[xFjXKdIkA574QRkv.htm](archetypes/xFjXKdIkA574QRkv.htm)|Scroll Trickster|Usurpateur de parchemins|changé|
@@ -90,14 +95,3 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[z5yvyY2HfIRgwGnO.htm](archetypes/z5yvyY2HfIRgwGnO.htm)|Eldritch Archer|Archer mystique|changé|
 |[zv31F34JgUesREuz.htm](archetypes/zv31F34JgUesREuz.htm)|Marshal|Marshal|changé|
 |[ZvIreFl9TXgrj52Q.htm](archetypes/ZvIreFl9TXgrj52Q.htm)|Beastmaster|Maître des bêtes|changé|
-
-## Liste des traductions complétés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[2TRqXfTtfMhTSIDY.htm](archetypes/2TRqXfTtfMhTSIDY.htm)|Ghost Hunter|Chasseur de Fantômes|libre|
-|[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|Médecin|libre|
-|[DeixUOfwL7Bruad5.htm](archetypes/DeixUOfwL7Bruad5.htm)|Red Mantis Assassin|Assassin des Mantes rouges|officielle|
-|[Lr108TWazbuxxUzP.htm](archetypes/Lr108TWazbuxxUzP.htm)|Zephyr Guard|Garde Zéphyr|officielle|
-|[lsU4NQEei111OetM.htm](archetypes/lsU4NQEei111OetM.htm)|Dragon Disciple|Disciple draconique|libre|
-|[VRUYc3QyRjjOjppc.htm](archetypes/VRUYc3QyRjjOjppc.htm)|Turpin Rowe Lumberjack|Bûcheron de Turpin Rowe|libre|
