@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import logging
 from libdata import *
+from libselenium import *
 
 logging.basicConfig(filename='translation.log', level=logging.INFO)
 

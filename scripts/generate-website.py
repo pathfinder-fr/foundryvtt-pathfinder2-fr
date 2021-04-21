@@ -26,40 +26,86 @@ for p in packs:
   for fpath in all_files:
     
     data = fileToData(path + fpath)
+
     if data['status'] == 'aucune' or data['status'] == "auto-trad" \
       or data['status'] == "auto-googtrad"  or data['status'] == "vide":
       continue
-        
+
+    # pack id (ancestries, actionspf2e, ...)
+    data_id = data['id']
+
     # default (all translations in french)
-    translations[data['id']] = { 'name': data['nameFR'], 'description': data['descrFR'], 'status': data['status'] }
+    translation = {
+      'status': data['status'],
+      'name': data['nameFR'],
+      'description': data['descrFR']
+     }
+
+    # specific treatments by data type
+    if data_id == 'ancestries':
+      # translation['test'] = data['machin']
+      pass
+    elif data_id == 'classes':
+      # translation['test'] = data['machin']
+      pass
+
+    # store translation
+    translations[data_id] = translation
 
   #############################################
   # read original data from pf2 Foundry system
   #############################################
-  with open(PACKS + p["id"] + ".db", 'r') as f:
+  filename = PACKS + p["id"] + ".db"
+  descPathParts = p['paths']['desc'].split('.')
+
+  with open(filename, 'r', encoding='utf8') as f:
     content = f.readlines()
 
   count = 0
   for line in content:
     count += 1
     try:
-      obj = json.loads(line)
+      enJson = json.loads(line)
     except:
       print("Invalid json %s at line %d" % (FILE, count))
       continue
     
-    if '$$deleted' in obj:
+    if '$$deleted' in enJson:
       continue
+
+    # by default only id and name are copied
+    dataJson = {
+      '_id': enJson['_id'],
+      'name': enJson['name']
+    }
+    
+    # retrive description based on pack desc path
+    node = enJson
+    i = 0
+    while i < len(descPathParts) and descPathParts[i] in node:
+      node = node[descPathParts[i]]
+      i = i + 1
+    if i == len(descPathParts):
+      dataJson['description'] = node
+
+    # add custom properties based on type
+    data_id = p['id']
+
+    # ancestries
+    if data_id == 'ancestries':
+      dataJson['additionalLanguages'] = enJson['data']['additionalLanguages']['value']
+      dataJson['hp'] = enJson['data']['hp']
+      dataJson['languages'] = enJson['data']['languages']['value']
+    elif data_id == 'spells-srd':
+      dataJson['school'] = enJson['data']['school']['value']
   
-    # get translations
-    obj['translations'] = { 'fr': { 'status': 'aucune' } }
-    if obj['_id'] in translations:
-      el =  translations[obj['_id']]
-      obj['translations']['fr']['status'] = el['status']
-      obj['translations']['fr']['name'] = el['name']
-      obj['translations']['fr']['description'] = el['description']
+    # add translations
+    dataJson['translations'] = { 'fr': { 'status': 'aucune' } }
+    if dataJson['_id'] in translations:
+      frJson =  translations[dataJson['_id']]
+      dataJson['translations']['fr'] = frJson
       
-    list.append(obj)
+    list.append(dataJson)
 
   with open(WEBSITE_DATA + p['name'] + ".json", 'w') as outfile:
     json.dump(list, outfile, indent=3)
