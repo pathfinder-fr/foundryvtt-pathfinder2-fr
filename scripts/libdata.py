@@ -49,6 +49,7 @@ SUPPORTED = {
 def getPacks(): 
   response = json.loads(requests.get("https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/system.json").text)
   packs = []
+
   for p in response["packs"]:
     match = re.search('packs/([-\w]+)\.db', p['path'])
     if match:
@@ -59,10 +60,8 @@ def getPacks():
     
     if p['id'] in SUPPORTED:
       packs.append({ **p, **SUPPORTED[p['id']]})
-#    else:
-#      print("Skippping %s" % p["id"])
       
-  return packs;
+  return packs
 
 #
 # cette fonction retourn vrai si les deux textes sont identiques
@@ -281,15 +280,36 @@ def readFolder(path):
 #
 # Vérifie si la chaîne text est vide, et renvoie None si c'est le cas
 # 
-def emptyAsNull(text):
+def emptyAsNull(text: str) -> str:
+  if text is None:
+    return None
   if len(text) == 0:
     return None
   return text
 
 #
+# tente de charger un élément du dictionnaire imbriqué correspondant aux différentes propriétés données.
+# renvoie None dès qu'une clé n'est pas présente dans le dictionnaire.
+#
+# alternative aux indexeurs [''] pour ne pas planter
+#
+# ex: tryGetDict(dict, 'data', 'name', 'value')
+#     équivaut à dict['data']['name']['value'] en renvoyant None si le dictionnaire ne contient pas l'une des clés
+# 
+def tryGetDict(dict: dict, *args: str):
+  i = 0
+  node = dict
+  while i < len(args) and node is not None and args[i] in node:
+    node = node[args[i]]
+    i = i + 1
+  if i != len(args):
+    return None
+  return node
+
+#
 # ajoute un élément key de valeur value au dictionaire dict uniquement si la valeur ne vaut pas None
 #
-def addIfNotNull(dict, key, value):
+def addIfNotNull(dict: dict, key: str, value: any):
   if value is None:
     return
   dict[key] = value

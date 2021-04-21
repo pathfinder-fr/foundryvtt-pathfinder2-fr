@@ -12,7 +12,7 @@ WEBSITE_DATA = "../../pf2-data-fr/"
 
 packs = getPacks()
 
-for p in packs:   
+for pack in packs:   
   
   list = []
     
@@ -21,7 +21,7 @@ for p in packs:
   #############################################
   # read all available data for specified pack
   #############################################
-  path = "../data/%s/" % p["id"]
+  path = "../data/%s/" % pack["id"]
   all_files = os.listdir(path)
   for fpath in all_files:
     
@@ -42,8 +42,8 @@ for p in packs:
      }
 
     # specific treatments by data type
-    if p["id"] == 'feats':
-      addIfNotNull(translation, 'avantage', emptyAsNull(data['misc']['Avantage']))
+    if pack["id"] == 'feats':
+      addIfNotNull(translation, 'avantage', emptyAsNull(tryGetDict(data, 'misc', 'Avantage')))
 
     # store translation
     translations[data_id] = translation
@@ -51,8 +51,8 @@ for p in packs:
   #############################################
   # read original data from pf2 Foundry system
   #############################################
-  filename = PACKS + p["id"] + ".db"
-  descPathParts = p['paths']['desc'].split('.')
+  filename = PACKS + pack["id"] + ".db"
+  descPathParts = pack['paths']['desc'].split('.')
 
   with open(filename, 'r', encoding='utf8') as f:
     content = f.readlines()
@@ -85,15 +85,20 @@ for p in packs:
       dataJson['description'] = node
 
     # add custom properties based on type
-    data_id = p['id']
+    data_id = pack['id']
+
+    # actions
+    if data_id == 'actions':
+      dataJson['actionType'] = enJson['data']['actionType']['value']
 
     # ancestries
     if data_id == 'ancestries':
       dataJson['additionalLanguages'] = enJson['data']['additionalLanguages']['value']
       dataJson['hp'] = enJson['data']['hp']
       dataJson['languages'] = enJson['data']['languages']['value']
+
     # spells
-    elif data_id == 'spells-srd':
+    if data_id == 'spells-srd':
       dataJson['school'] = enJson['data']['school']['value']
   
     # add translations
@@ -104,5 +109,5 @@ for p in packs:
       
     list.append(dataJson)
 
-  with open(WEBSITE_DATA + p['name'] + ".json", 'w') as outfile:
+  with open(WEBSITE_DATA + pack['name'] + ".json", 'w') as outfile:
     json.dump(list, outfile, indent=3)
