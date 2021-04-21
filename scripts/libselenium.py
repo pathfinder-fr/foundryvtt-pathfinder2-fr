@@ -7,11 +7,21 @@ import requests
 import json
 import html
 import time
+import logging
 
 from selenium import webdriver
 from selenium.webdriver.support import expected_conditions as ExpectedConditions
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
+
+from dataclasses import dataclass
+
+logging.basicConfig(filename='translation.log', level=logging.INFO)
+
+@dataclass
+class TranslationData:
+    data: str
+    status: str
 
 #
 # Cette fonction crée un driver Selenium pour la connexion à DeepL Translator
@@ -30,28 +40,62 @@ def translator_driver():
         raise
 
 
+# Cette fonction tente une traduction avec DeepL puis GoogleTranslate si erreur
+#
+def full_trad(driver, data):
+    try:
+        tradDesc = dirtyTranslate(driver, data)
+        status = "auto-trad"
+        logging.info("Success !")
+    # cas d'un fichier sans description
+    except EmptyDescriptionException as e:
+        logging.error("Error while translating : EmptyDescriptionException")
+        tradDesc = ""
+        status = "vide"
+    except Exception as e:
+        exception_name = type(e).__name__
+        logging.error("Error while translating: %s" % exception_name)
+        if exception_name == "TimeoutException":
+            logging.error("Le texte est très long et le délai pour la \
+                traduction automatique a été dépassé, ou la connexion à été bloquée \
+                à cause d'un trop grand nombre de requêtes sur un compte gratuit.")
+        # si erreur, tentative de traduction automatique avec DeepL Translator
+        try:
+            tradDesc = dirtyGoogleTranslate(data)
+            status = "auto-googtrad"
+        except Exception as e:
+            logging.error("Error while translating with Google : %s" % exception_name)
+            logging.error("Even Google Translate fails here, this file is hopeless ... ")
+            tradDesc = ""
+            status = "aucune"
+    return TranslationData(tradDesc, status)
+
+
 #
 # Cette fonction tente une traduction automatique 
 # sur DeepL Translator
 #
 def dirtyTranslate(driver, data):
     length = len(data)
-    if (length<10):
-      raise EmptyDescriptionException()
-      return ""
+    if (length < 10):
+        raise EmptyDescriptionException()
+        return ""
     inputer = driver.find_element_by_class_name('lmt__source_textarea')
     inputer.clear()
     inputer.send_keys(html.escape(data))
     WebDriverWait(driver, 100).until(
-        ExpectedConditions.text_to_be_present_in_element_value((By.CLASS_NAME, 'lmt__target_textarea'), ";"))
-    if(length>8000):
-      time.sleep(82)
-    elif(length>1000):
-      time.sleep(22)
+        ExpectedConditions.text_to_be_present_in_element_value((By.CLASS_NAME, 'lmt__target_textarea'), " "))
+    if length > 8000:
+        time.sleep(82)
+    elif length > 1000:
+        time.sleep(22)
+    elif length > 50:
+        time.sleep(2)
     output = driver.find_element_by_class_name('lmt__target_textarea')
     transData = html.unescape(cleanTrad(output.get_attribute("value")))
     output.clear()
     return transData
+
 
 
 
@@ -108,3 +152,11 @@ def cleanGoogleTrad(data):
   data = data.replace("#feu", "#fire")
   data = data.replace("#acide", "#acid")
   return data
+
+class EmptyDescriptionException(Exception):
+    """
+  Exception levée si l'item traduit n'a pas de description
+  """
+
+    def __init__(self, message="There is no description in this file. Check for missing data."):
+        self.message = message
