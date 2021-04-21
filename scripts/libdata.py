@@ -289,7 +289,8 @@ def dataToFile(data, filepath):
             if not len(data['spoilers']) <= 1:
                 df.write("SpoilersEN: %s\n" % data['spoilers'])
                 spoilers = ""
-                df.write("SpoilersFR: %s\n\n" % spoilers)
+                df.write("SpoilersFR: %s\n" % spoilers)
+            df.write("\n")
         except:
             print("Pas de benefits et spoilers")
             try:
