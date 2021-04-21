@@ -101,7 +101,7 @@ for p in packs:
         os.rename(pathFrom, pathTo)
       
       # check status from existing file
-      if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé", "auto-trad", 'auto-googtrad', "vide"):
+      if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé", "auto-trad", "auto-googtrad", "vide"):
         print("Status error for : %s" % filepath);
         exit(1)
        
@@ -143,38 +143,10 @@ for p in packs:
       else:
         name = source["name"]
         if len(source['desc']) > 0:
-          try:
-            # tentative de traduction automatique avec DeepL Translator
-            tradDesc = dirtyTranslate(driver, source['desc'])
-            status = "auto-trad"
-          # cas d'un fichier sans description
-          except EmptyDescriptionException as e:
-            logging.error("Error while translating %s : %s" % (filename, exception_name))
-            fname = name.lower().replace(" ", "-")+".json"
-            logging.error("File %s in pack %s -> %s" % (fname, p["id"], e.message))
-            tradDesc = ""
-            status = "aucune"
-          except Exception as e:
-            exception_name = type(e).__name__
-            logging.error("Error while translating %s : %s" % (fname, exception_name))
-
-            if exception_name=="TimeoutException":
-              logging.error("Fichier %s : le texte est très long et le délai pour la \
-              traduction automatique a été dépassé, ou la connexion à été bloquée \
-              à cause d'un trop grand nombre de requêtes sur un compte gratuit." % fname)
-            else: 
-              filename = name.lower().replace(" ", "-")+".json"
-              logging.error("File %s in pack %s -> %s" % (fname, p["id"], e.message))
-
-            # si erreur, tentative de traduction automatique avec DeepL Translator
-            try:
-              tradDesc = dirtyGoogleTranslate(toTrad)
-              status = "auto-googtrad"
-            except Exception as e:
-              logging.error("Error while translating %s : %s" % (fname, exception_name))
-              logging.error("Even Google Translate fails here, this file is hopeless ... ")
-              tradDesc = ""
-              status = "aucune"
+          logging.info("Translating %s" % source['nameEN'])
+          translation_data = full_trad(driver, source['desc'])
+          tradDesc = translation_data.data
+          status = translation_data.status
         else:
           tradDesc = ""
           status = "vide"
