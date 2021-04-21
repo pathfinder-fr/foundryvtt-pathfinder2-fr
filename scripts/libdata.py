@@ -286,12 +286,10 @@ def dataToFile(data, filepath):
             df.write('------ Benefits and spoiler ----' + '\n')
             df.write("Benefits: %s\n" % data['benefitsEN'])
             df.write("Avantage: %s\n" % data['benefitsFR'])
-            df.write("SpoilersEN: %s\n" % data['spoilers'])
-            if len(data['spoilers']) <= 1:
-                spoilers = "—"
-            else:
+            if not len(data['spoilers']) <= 1:
+                df.write("SpoilersEN: %s\n" % data['spoilers'])
                 spoilers = ""
-            df.write("SpoilersFR: %s\n\n" % spoilers)
+                df.write("SpoilersFR: %s\n\n" % spoilers)
         except:
             print("Pas de benefits et spoilers")
             try:
