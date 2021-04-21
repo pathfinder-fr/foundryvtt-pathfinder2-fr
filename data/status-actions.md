@@ -1,20 +1,13 @@
 # État de la traduction (actions)
 
  * **officielle**: 109
- * **libre**: 48
- * **auto-trad**: 1
+ * **libre**: 49
  * **changé**: 1
 
 
-Dernière mise à jour: 2021-04-16 09:44 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-21 08:43 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions automatiques à corriger/retraduire
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[hV9wXLvgH2LBaBwk.htm](actions/hV9wXLvgH2LBaBwk.htm)|Shootist's Draw|auto-trad|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -95,6 +88,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[H6v1VgowHaKHnVlG.htm](actions/H6v1VgowHaKHnVlG.htm)|Burrow|Creuser|officielle|
 |[HCl3pzVefiv9ZKQW.htm](actions/HCl3pzVefiv9ZKQW.htm)|Aid|Aider|officielle|
 |[hFRHPBj6wjAayNtW.htm](actions/hFRHPBj6wjAayNtW.htm)|Jinx|Maudire|libre|
+|[hV9wXLvgH2LBaBwk.htm](actions/hV9wXLvgH2LBaBwk.htm)|Shootist's Draw|Rapidité du tireur|libre|
 |[HYNhdaPtF1QmQbR3.htm](actions/HYNhdaPtF1QmQbR3.htm)|Drop Prone|Se jeter à terre|officielle|
 |[I9k9qe4gOT8UVK4e.htm](actions/I9k9qe4gOT8UVK4e.htm)|Mist Blending|Se fondre dans la brume|libre|
 |[IE2nThCmoyhQA0Jn.htm](actions/IE2nThCmoyhQA0Jn.htm)|Avoid Notice|Échapper aux regards|officielle|

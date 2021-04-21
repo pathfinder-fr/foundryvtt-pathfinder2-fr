@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **officielle**: 292
+ * **officielle**: 293
  * **libre**: 201
- * **changé**: 374
+ * **changé**: 373
  * **auto-trad**: 15
 
 
-Dernière mise à jour: 2021-04-16 09:44 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-21 08:43 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -33,7 +33,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[abj-01-8xRzLhwGL7Dgy3EZ.htm](spells/abj-01-8xRzLhwGL7Dgy3EZ.htm)|Sanctuary|Sanctuaire|changé|
 |[abj-01-aAbfKn8maGjJjk2W.htm](spells/abj-01-aAbfKn8maGjJjk2W.htm)|Mage Armor|Armure du mage|changé|
 |[abj-01-gMODOGamz88rgHuf.htm](spells/abj-01-gMODOGamz88rgHuf.htm)|Protection|Protection|changé|
 |[abj-01-k43PIYwuQqjeJ3S3.htm](spells/abj-01-k43PIYwuQqjeJ3S3.htm)|Forced Quiet|Silence forcé|changé|
@@ -420,6 +419,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abj-01-0uRpypf1Hi7ahvTl.htm](spells/abj-01-0uRpypf1Hi7ahvTl.htm)|Shattering Gem|Gemme explosive|libre|
 |[abj-01-3wmX7htzOXiHLdAn.htm](spells/abj-01-3wmX7htzOXiHLdAn.htm)|Delay Consequence|Retarder les conséquences|libre|
 |[abj-01-4WAib3GichxLjp5p.htm](spells/abj-01-4WAib3GichxLjp5p.htm)|Alarm|Alarme|officielle|
+|[abj-01-8xRzLhwGL7Dgy3EZ.htm](spells/abj-01-8xRzLhwGL7Dgy3EZ.htm)|Sanctuary|Sanctuaire|officielle|
 |[abj-01-Azoh0BSoCASrA1lr.htm](spells/abj-01-Azoh0BSoCASrA1lr.htm)|Lock|Verrouillage|officielle|
 |[abj-01-cDFAQN7Z3es07WSA.htm](spells/abj-01-cDFAQN7Z3es07WSA.htm)|Perfected Mind|Esprit perfectionné|officielle|
 |[abj-01-cJq5NarY0eOZN74A.htm](spells/abj-01-cJq5NarY0eOZN74A.htm)|Share Burden|Partager le Fardeau|libre|

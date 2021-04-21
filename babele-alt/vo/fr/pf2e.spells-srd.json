@@ -709,7 +709,7 @@
         {
             "id": "Sanctuary",
             "name": "Sanctuary",
-            "description": "<p>Vous protégez une créature grâce à une énergie protectrice qui détourne les attaques ennemies. Les créatures qui tentent d’attaquer la cible doivent effectuer un jet de Volonté à chaque fois. Si la cible utilise une action hostile, le sort se termine.</p>\n<hr />\n<p><strong>Succès critique</strong> Sanctuaire prend fin.</p>\n<p><strong>Succès</strong> La créature peut tenter son attaque et n’importe quelle autre attaque contre la cible ce tour.</p>\n<p><strong>Échec</strong> La créature ne peut pas attaquer la cible et perd son action. Elle ne peut plus tenter d’attaque contre la cible ce tour.</p>\n<p><strong>Échec critique</strong> La créature perd son action et ne peut pas tenter d’attaquer la cible pour le reste de la durée de Sanctuaire.</p>"
+            "description": "<p>Vous protégez une créature grâce à une énergie protectrice qui détourne les attaques ennemies. Les créatures qui tentent d’attaquer la cible doivent effectuer un jet de Volonté à chaque fois. Si la cible utilise une action hostile, le sort se termine.</p>\n<p><strong>Succès critique</strong> Sanctuaire prend fin.</p>\n<p><strong>Succès</strong> La créature peut tenter son attaque et n’importe quelle autre attaque contre la cible ce tour.</p>\n<p><strong>Échec</strong> La créature ne peut pas attaquer la cible et perd son action. Elle ne peut plus tenter d’attaque contre la cible ce tour.</p>\n<p><strong>Échec critique</strong> La créature perd son action et ne peut pas tenter d’attaquer la cible pour le reste de la durée de Sanctuaire.</p>"
         },
         {
             "id": "Status",
