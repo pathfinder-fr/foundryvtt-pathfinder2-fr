@@ -19,7 +19,7 @@ BABELE_VO="../babele-alt/vo/fr/"
 def addLists(pack, data, entry):
   if "lists" in pack and "listsFR" in data:
     for k in pack["lists"]:
-      if len(data["listsFR"][k]) > 0:
+      if k in data["listsFR"] and len(data["listsFR"][k]) > 0:
         entry[k.lower()] = data["listsFR"][k]
 
 
