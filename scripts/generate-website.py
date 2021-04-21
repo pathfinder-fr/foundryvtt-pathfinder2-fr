@@ -87,19 +87,49 @@ for pack in packs:
     # add custom properties based on type
     data_id = pack['id']
 
-    # actions
-    if data_id == 'actions':
-      dataJson['actionType'] = enJson['data']['actionType']['value']
+    try:
+      # actions
+      if data_id == 'actions':
+        dataJson['actionType'] = enJson['data']['actionType']['value']
 
-    # ancestries
-    if data_id == 'ancestries':
-      dataJson['additionalLanguages'] = enJson['data']['additionalLanguages']['value']
-      dataJson['hp'] = enJson['data']['hp']
-      dataJson['languages'] = enJson['data']['languages']['value']
+      # ancestries
+      if data_id == 'ancestries':
+        dataJson['additionalLanguages'] = enJson['data']['additionalLanguages']['value']
+        dataJson['hp'] = enJson['data']['hp']
+        dataJson['languages'] = enJson['data']['languages']['value']
 
-    # spells
-    if data_id == 'spells-srd':
-      dataJson['school'] = enJson['data']['school']['value']
+      # ancestryfeatures
+      if data_id == 'ancestryfeatures':
+        dataJson['traits'] = enJson['data']['traits']['value']
+        # inutile à priori, car toujours identique
+        # dataJson['featType'] = enJson['data']['featType']['value']
+        # dataJson['level'] = enJson['data']['level']['value']
+        # dataJson['actionType'] = enJson['data']['actionType']['value']
+
+      # équipement
+      if data_id == 'equipment':
+        data_type = dataJson['type'] = enJson['type']
+        dataJson['price'] = enJson['data']['price']['value']
+        dataJson['traits'] = enJson['data']['traits']['value']
+        dataJson['rarity'] = enJson['data']['traits']['rarity']['value']
+        if data_type == 'armor':
+          # champs spécifiques aux armures
+          dataJson['level'] = int(enJson['data']['level']['value'])
+          dataJson['armor'] = int(enJson['data']['armor']['value'])
+          dataJson['armorType'] = enJson['data']['armorType']['value']
+          # propriétés que l'on ne souhaite pas recopier si elles n'ont pas de valeur (= 0 ou vide)
+          addIfNotNull(dataJson, 'armorMaxDex', tryIntOrNone(emptyAsNull(enJson['data']['dex']['value'], '0')))
+          addIfNotNull(dataJson, 'armorCheck', tryIntOrNone(emptyAsNull(enJson['data']['check']['value'], '0')))
+          addIfNotNull(dataJson, 'armorStrength', tryIntOrNone(emptyAsNull(enJson['data']['strength']['value'], '0')))
+          addIfNotNull(dataJson, 'armorEquippedBulk', tryIntOrNone(emptyAsNull(enJson['data']['equippedBulk']['value'])))
+          addIfNotNull(dataJson, 'armorGroup', emptyAsNull(enJson['data']['group']['value']))
+        
+
+      # spells
+      if data_id == 'spells-srd':
+        dataJson['school'] = enJson['data']['school']['value']
+    except Exception as ex:
+      print("Unable to convert data from %s at line %d : %s" % (filename, count, ex))
   
     # add translations
     dataJson['translations'] = { 'fr': { 'status': 'aucune' } }

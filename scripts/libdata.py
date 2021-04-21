@@ -281,12 +281,31 @@ def readFolder(path):
 #
 # Vérifie si la chaîne text est vide, et renvoie None si c'est le cas
 # 
-def emptyAsNull(text: str) -> str:
-  if text is None:
+def emptyAsNull(value, empty = None):
+  if value is None:
     return None
-  if len(text) == 0:
+  if empty is not None and value == empty:
     return None
-  return text
+  if isinstance(value, str) and len(value) == 0:
+    return None
+  return value
+
+#
+# Tente de convertir la valeur donnée sous forme d'entier
+# Si la conversion est impossible, renvoie la valeur telle quelle
+#
+def tryIntOrNone(value):
+  # si la valeur vaut None on renvoie None
+  if value is None:
+    return None
+
+  # si la valeur est une chaine correspondant à un nombre signe - au début puis des chiffres
+  # on la transfore en int
+  if isinstance(value, str) and re.match('-?\d+', value):
+    return int(value)
+  
+  # sinon on ne fait rien
+  return value
 
 #
 # tente de charger un élément du dictionnaire imbriqué correspondant aux différentes propriétés données.
