@@ -31,7 +31,7 @@ for p in packs:
       or data['status'] == "auto-googtrad"  or data['status'] == "vide":
       continue
 
-    # pack id (ancestries, actionspf2e, ...)
+    # item id
     data_id = data['id']
 
     # default (all translations in french)
@@ -42,12 +42,8 @@ for p in packs:
      }
 
     # specific treatments by data type
-    if data_id == 'ancestries':
-      # translation['test'] = data['machin']
-      pass
-    elif data_id == 'classes':
-      # translation['test'] = data['machin']
-      pass
+    if p["id"] == 'feats':
+      addIfNotNull(translation, 'avantage', emptyAsNull(data['misc']['Avantage']))
 
     # store translation
     translations[data_id] = translation
@@ -96,6 +92,7 @@ for p in packs:
       dataJson['additionalLanguages'] = enJson['data']['additionalLanguages']['value']
       dataJson['hp'] = enJson['data']['hp']
       dataJson['languages'] = enJson['data']['languages']['value']
+    # spells
     elif data_id == 'spells-srd':
       dataJson['school'] = enJson['data']['school']['value']
   

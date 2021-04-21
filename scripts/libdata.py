@@ -161,6 +161,7 @@ def fileToData(filepath):
       print("Invalid filename %s" % filepath)
       exit(1)
     data['id'] = match.group(1)  
+    data['misc'] = {}
     
     for line in content:
       if line.startswith("Name:"):
@@ -184,19 +185,19 @@ def fileToData(filepath):
         if sep < 0:
           print("Invalid data '%s' in file %s " % (line, filepath));
           exit(1)
-        key = line[0:sep-2]
-        lang = line[sep-2:sep]
+        key = line[0:sep]
         value = line[sep+1:].strip()
-        liste = [e.strip() for e in value.split('|')]
-        liste = [e.strip() for e in liste if len(e.strip()) > 0]
-        if lang == "EN": 
-          listsEN[key] = liste
-        elif lang == "FR":
-          listsFR[key] = liste
-        # on autorise les clés inconnues dans les fichiers
-        # else:
-        #   print("Invalid key '%s' in file %s " % (key, filepath))
-        #   exit(1)
+        if key.endswith("EN") or key.endswith("FR"):
+          lang = line[sep-2:sep]
+          liste = [e.strip() for e in value.split('|')]
+          liste = [e.strip() for e in liste if len(e.strip()) > 0]
+          if lang == "EN": 
+            listsEN[key] = liste
+          elif lang == "FR":
+            listsFR[key] = liste
+        else:
+          # on stocke toutes les clés inconnues dans une propriété 'misc' du résultat
+          data['misc'][key] = value
       
       if isDescEN:
         descrEN += line
@@ -276,6 +277,22 @@ def readFolder(path):
     resultByName[data['nameEN']] = data
     
   return [resultById, resultByName]
+
+#
+# Vérifie si la chaîne text est vide, et renvoie None si c'est le cas
+# 
+def emptyAsNull(text):
+  if len(text) == 0:
+    return None
+  return text
+
+#
+# ajoute un élément key de valeur value au dictionaire dict uniquement si la valeur ne vaut pas None
+#
+def addIfNotNull(dict, key, value):
+  if value is None:
+    return
+  dict[key] = value
 
 class EmptyDescriptionException(Exception):
   """
