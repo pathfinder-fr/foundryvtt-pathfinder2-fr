@@ -187,6 +187,7 @@ def fileToData(filepath):
         key = line[0:sep]
         value = line[sep+1:].strip()
         if key.endswith("EN") or key.endswith("FR"):
+          key = key[0:-2]
           lang = line[sep-2:sep]
           liste = [e.strip() for e in value.split('|')]
           liste = [e.strip() for e in liste if len(e.strip()) > 0]
