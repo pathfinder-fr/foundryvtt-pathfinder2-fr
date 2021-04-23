@@ -1,18 +1,27 @@
 image: registry.gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr
 
 stages:
+    - prepare
     - build
     - deploy
 
 before_script:
     - git config --global user.email "pf2.fr.builder@gmail.com" && git config --global user.name "PF2FR Builder"
 
-build:pack:
-    stage: build
+prepare:
+    state: prepare
     script:
         # download latest foundry module data into "packs" directory
         - cd / && wget -q https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/jobs/artifacts/release/raw/pf2e.zip?job=build
         - unzip -q pf2e.zip?job=build && mv pf2e/packs /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/packs
+    artifacts:
+        paths:
+            - packs
+
+build:babele:
+    stage: build
+    needs: ['prepare']
+    script:
         # run update script
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
         - bash update-ci.sh
@@ -29,7 +38,7 @@ build:pack:
 
 build:data:
     stage: build
-    needs: ['build:pack']
+    needs: ['prepare']
     script:
         # clone pf2-data-fr repository
         - cd - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/pf2-data-fr && git clone https://gitlab.com/pathfinder-fr/pf2-data-fr.git .
@@ -43,9 +52,9 @@ build:data:
         paths:
             - pf2-data-fr
 
-deploy:pack:
+deploy:babele:
     stage: deploy
-    needs: ['build:pack']
+    needs: ['build:babele']
     script:
         # update package version and commit & push changes
         - bash update-version-ci.sh
