@@ -146,6 +146,13 @@ for pack in packs:
       if data_id == 'spells-srd':
         dataJson['school'] = enJson['data']['school']['value']
 
+      # feats
+      # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/feats.db
+      if data_id == 'feats-srd':
+        dataJson['featType'] = enJson['data']['featType']['value']
+        dataJson['level'] = tryIntOrNone(enJson['data']['level']['value'])
+        dataJson['traits'] = enJson['data']['traits']['value']
+
     except Exception as ex:
       print("Unable to convert data from %s at line %d : %s" % (filename, count, ex))
   
