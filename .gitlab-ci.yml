@@ -58,7 +58,7 @@ build:data:
     needs: ['prepare']
     script:
         # clone pf2-data-fr repository
-        - cd - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/pf2-data-fr && git clone https://gitlab.com/pathfinder-fr/pf2-data-fr.git .
+        - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr && git clone https://gitlab.com/pathfinder-fr/pf2-data-fr.git
         # run update-data script    
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
         - bash update-data.sh
