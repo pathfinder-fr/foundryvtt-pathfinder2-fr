@@ -3,7 +3,6 @@ image: registry.gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr
 stages:
     - prepare
     - build
-    - deploy
 
 before_script:
     - git config --global user.email "pf2.fr.builder@gmail.com" && git config --global user.name "PF2FR Builder"
@@ -30,28 +29,12 @@ build:babele:
         # run update script
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
         - bash update-ci.sh
-    only:
-        changes:
-            # never triggered
-            - toto.sh
-    artifacts:
-        paths:
-            - babele/
-            - babele-alt/
-            - data/*.md
-            - module.json
-        expire_in: 20 minutes
-
-deploy:babele:
-    stage: deploy
-    needs: ['build:babele']
-    only:
-        changes:
-            # never triggered
-            - toto.sh
-    script:
         # update package version and commit & push changes
         - bash update-version-ci.sh
+    only:
+        changes:
+            # never triggered
+            - toto.sh
 
 build:data:
     stage: build
@@ -62,18 +45,6 @@ build:data:
         # run update-data script    
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
         - bash update-data.sh
-    only:
-        refs:
-            - pf2-data-fr
-    artifacts:
-        paths:
-            - pf2-data-fr
-        expire_in: 20 minutes
-
-deploy:data:
-    stage: deploy
-    needs: ['build:data']
-    script:    
         # commit & push changes
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/pf2-data-fr && git add -A && git commit -m "Automatic data update" && git push -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/pf2-data-fr.git
     only:
