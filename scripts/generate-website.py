@@ -8,7 +8,7 @@ import datetime
 from libdata import *
 
 PACKS        = "../packs/"
-WEBSITE_DATA = "../../pf2-data-fr/"
+WEBSITE_DATA = "../pf2-data-fr/"
 
 packs = getPacks()
 
