@@ -21,6 +21,7 @@ prepare:
         paths:
             - packs/
             - data/
+        expire_in: 20 minutes
 
 build:babele:
     stage: build
@@ -39,6 +40,18 @@ build:babele:
             - babele-alt/
             - data/*.md
             - module.json
+        expire_in: 20 minutes
+
+deploy:babele:
+    stage: deploy
+    needs: ['build:babele']
+    only:
+        changes:
+            # never triggered
+            - toto.sh
+    script:
+        # update package version and commit & push changes
+        - bash update-version-ci.sh
 
 build:data:
     stage: build
@@ -55,17 +68,7 @@ build:data:
     artifacts:
         paths:
             - pf2-data-fr
-
-deploy:babele:
-    stage: deploy
-    needs: ['build:babele']
-    only:
-        changes:
-            # never triggered
-            - toto.sh
-    script:
-        # update package version and commit & push changes
-        - bash update-version-ci.sh
+        expire_in: 20 minutes
 
 deploy:data:
     stage: deploy
