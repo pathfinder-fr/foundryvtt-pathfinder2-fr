@@ -1,17 +1,81 @@
 image: registry.gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr
 
-build:
-    stage: build
+stages:
+    - prepare
+    - build
+    - deploy
+
+before_script:
+    - git config --global user.email "pf2.fr.builder@gmail.com" && git config --global user.name "PF2FR Builder"
+
+prepare:
+    stage: prepare
     script:
-        - git config --global user.email "pf2.fr.builder@gmail.com" && git config --global user.name "PF2FR Builder"
+        # download latest foundry module data into "packs" directory
         - cd / && wget -q https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/jobs/artifacts/release/raw/pf2e.zip?job=build
         - unzip -q pf2e.zip?job=build && mv pf2e/packs /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/packs
-        - cd /builds/pathfinder-fr/ && git clone https://gitlab.com/pathfinder-fr/pf2-data-fr.git
+        # run update-prepare-ci script    
+        - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
+        - bash update-prepare-ci.sh
+    artifacts:
+        paths:
+            - packs/
+            - data/
+        expire_in: 20 minutes
+
+build:babele:
+    stage: build
+    needs: ['prepare']
+    script:
+        # run update script
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
         - bash update-ci.sh
-        - cd /builds/pathfinder-fr/pf2-data-fr && git add -A && git commit -m "Automatic data update" && git push -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/pf2-data-fr.git
-        - echo "Done !"
     only:
         changes:
-            - scripts/*
-            - .gitlab-ci.yml
+            # never triggered
+            - toto.sh
+    artifacts:
+        paths:
+            - babele/
+            - babele-alt/
+            - data/*.md
+            - module.json
+        expire_in: 20 minutes
+
+deploy:babele:
+    stage: deploy
+    needs: ['build:babele']
+    only:
+        changes:
+            # never triggered
+            - toto.sh
+    script:
+        # update package version and commit & push changes
+        - bash update-version-ci.sh
+
+build:data:
+    stage: build
+    needs: ['prepare']
+    script:
+        # clone pf2-data-fr repository
+        - cd - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/pf2-data-fr && git clone https://gitlab.com/pathfinder-fr/pf2-data-fr.git .
+        # run update-data script    
+        - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
+        - bash update-data.sh
+    only:
+        refs:
+            - pf2-data-fr
+    artifacts:
+        paths:
+            - pf2-data-fr
+        expire_in: 20 minutes
+
+deploy:data:
+    stage: deploy
+    needs: ['build:data']
+    script:    
+        # commit & push changes
+        - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/pf2-data-fr && git add -A && git commit -m "Automatic data update" && git push -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/pf2-data-fr.git
+    only:
+        refs:
+            - pf2-data-fr
