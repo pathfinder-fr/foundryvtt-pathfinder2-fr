@@ -25,6 +25,7 @@ build-pack:
             - babele/
             - babele-alt/
             - data/*.md
+            - module.json
 
 build-data:
     stage: build
