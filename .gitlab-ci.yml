@@ -55,6 +55,10 @@ build:data:
 deploy:babele:
     stage: deploy
     needs: ['build:babele']
+    only:
+        changes:
+            # never triggered
+            - toto.sh
     script:
         # update package version and commit & push changes
         - bash update-version-ci.sh
@@ -65,3 +69,6 @@ deploy:data:
     script:    
         # commit & push changes
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/pf2-data-fr && git add -A && git commit -m "Automatic data update" && git push -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/pf2-data-fr.git
+    only:
+        refs:
+            - pf2-data-fr
