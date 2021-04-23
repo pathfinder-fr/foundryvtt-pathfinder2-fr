@@ -89,16 +89,19 @@ for pack in packs:
 
     try:
       # actions
+      # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/actions.db
       if data_id == 'actions':
         dataJson['actionType'] = enJson['data']['actionType']['value']
 
       # ancestries
+      # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/ancestries.db
       if data_id == 'ancestries':
         dataJson['additionalLanguages'] = enJson['data']['additionalLanguages']['value']
         dataJson['hp'] = enJson['data']['hp']
         dataJson['languages'] = enJson['data']['languages']['value']
 
       # ancestryfeatures
+      # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/ancestryfeatures.db
       if data_id == 'ancestryfeatures':
         dataJson['traits'] = enJson['data']['traits']['value']
         # inutile à priori, car toujours identique
@@ -107,6 +110,7 @@ for pack in packs:
         # dataJson['actionType'] = enJson['data']['actionType']['value']
 
       # équipement
+      # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/equipment.db
       if data_id == 'equipment':
         data_type = dataJson['type'] = enJson['type']
         dataJson['price'] = enJson['data']['price']['value']
@@ -123,11 +127,25 @@ for pack in packs:
           addIfNotNull(dataJson, 'armorStrength', tryIntOrNone(emptyAsNull(enJson['data']['strength']['value'], '0')))
           addIfNotNull(dataJson, 'armorEquippedBulk', tryIntOrNone(emptyAsNull(enJson['data']['equippedBulk']['value'])))
           addIfNotNull(dataJson, 'armorGroup', emptyAsNull(enJson['data']['group']['value']))
-        
+
+      # classes
+      # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/classes.db
+      if data_id = 'classes':
+        # aucune propriété particulière, on préfèrera générer les pages de classes manuellement pour l'instant
+        pass
+      
+      # class features
+      # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/classfeatures.db
+      if data_id = 'classfeatures':
+        dataJson['level'] = int(enJson['data']['level']['value'])
+        dataJson['traits'] = enJson['data']['traits']['value']
+        pass
 
       # spells
+      # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/spells.db
       if data_id == 'spells-srd':
         dataJson['school'] = enJson['data']['school']['value']
+
     except Exception as ex:
       print("Unable to convert data from %s at line %d : %s" % (filename, count, ex))
   
