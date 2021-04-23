@@ -24,7 +24,7 @@ build-pack:
         paths:
             - babele/
             - babele-alt/
-            - data/status-*.md
+            - data/*.md
 
 build-data:
     stage: build
