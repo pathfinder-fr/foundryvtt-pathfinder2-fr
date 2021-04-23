@@ -130,13 +130,13 @@ for pack in packs:
 
       # classes
       # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/classes.db
-      if data_id = 'classes':
+      if data_id == 'classes':
         # aucune propriété particulière, on préfèrera générer les pages de classes manuellement pour l'instant
         pass
       
       # class features
       # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/classfeatures.db
-      if data_id = 'classfeatures':
+      if data_id == 'classfeatures':
         dataJson['level'] = int(enJson['data']['level']['value'])
         dataJson['traits'] = enJson['data']['traits']['value']
         pass
