@@ -25,7 +25,8 @@ then
     # useless ??
     git push        -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git HEAD:master 
 else
-    echo "Module deployment disabled, skipping git commands"
+    echo "Module deployment disabled, skipping git commands, outputting diff"
+    git diff --stat
 fi
 
 echo "Done"
