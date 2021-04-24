@@ -46,7 +46,7 @@ build:pf2-data-fr:
         # commit & push changes
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/pf2-data-fr
         - git add -A
-        - git commit -m "Automatic data update"
+        - git commit -m "Automatic data update" || true
         - git push -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/pf2-data-fr.git
     rules:
         # uniquement si l'on se trouve sur la branche "pf2-data-fr"
