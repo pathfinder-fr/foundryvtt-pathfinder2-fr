@@ -15,7 +15,7 @@ prepare:
         - unzip -q pf2e.zip?job=build && mv pf2e/packs /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/packs
         # run prepare script    
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
-        - python3 ./prepare.py
+        - bash build-ci-prepare.sh
     artifacts:
         paths:
             - packs/
