@@ -2,10 +2,10 @@ image: registry.gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr
 
 variables:
     CI_BUILD_MODULE:
-        value: false
+        value: "false"
         description: "Indique que le module Foundry doit être généré. Par défaut le module n'est pas généré."
     CI_DEPLOY_MODULE:
-        value: true
+        value: "true"
         description: "Indique que le module Foudry généré doit être déployé. Uniquement valide si CI_BUILD_MODULE vaut true. Utile pour tester la génération du module sans la déployer."
 
 stages:
