@@ -1,5 +1,13 @@
 image: registry.gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr
 
+variables:
+    CI_BUILD_MODULE:
+        value: "false"
+        description: "Indique si le module Foundry doit être généré. Indiquez true pour générer le module."
+    CI_DEPLOY_MODULE:
+        value: "true"
+        description: "Indique si le module Foudry généré doit être déployé. Uniquement valide si CI_BUILD_MODULE vaut true. Passez cette variable à false pour tester la génération du module sans la déployer."
+
 stages:
     - prepare
     - build
@@ -10,11 +18,10 @@ before_script:
 prepare:
     stage: prepare
     script:
-        # download latest foundry module data into "packs" directory
-        - cd / && wget -q https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/jobs/artifacts/release/raw/pf2e.zip?job=build
-        - unzip -q pf2e.zip?job=build && mv pf2e/packs /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/packs
-        # run prepare script    
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
+        # download latest foundry module data into "packs" directory
+        - bash build-ci-download.sh
+        # run prepare script    
         - bash build-ci-prepare.sh
     artifacts:
         paths:
@@ -30,8 +37,7 @@ build:module:
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
         - bash build-ci-module.sh
     rules:
-        # TEMPORAIRE uniquement si l'on se trouve sur la branche "xxx"
-        - if: '$CI_COMMIT_BRANCH == "xxx"'
+        - if: '$CI_BUILD_MODULE == "true"'
 
 build:pf2-data-fr:
     stage: build
