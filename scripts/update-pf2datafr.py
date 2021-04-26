@@ -127,6 +127,18 @@ for pack in packs:
           addIfNotNull(dataJson, 'armorStrength', tryIntOrNone(emptyAsNull(enJson['data']['strength']['value'], '0')))
           addIfNotNull(dataJson, 'armorEquippedBulk', tryIntOrNone(emptyAsNull(enJson['data']['equippedBulk']['value'])))
           addIfNotNull(dataJson, 'armorGroup', emptyAsNull(enJson['data']['group']['value']))
+        if data_type == "weapon":
+          # champs spécifiques aux armes
+          dataJson['level'] = int(enJson['data']['level']['value'])
+          dataJson['weaponType'] = enJson['data']['weaponType']['value']
+          dataJson['damage']['type'] = enJson['data']['damage']['damageType']
+          dataJson['damage']['dice'] = enJson['data']['damage']['dice']
+          dataJson['damage']['die'] = enJson['data']['damage']['die']
+          # propriétés que l'on ne souhaite pas recopier si vides
+          addIfNotNull(dataJson, 'group', tryGetDict(enJson, 'data', 'group', 'value'))
+          addIfNotNull(dataJson, 'range', tryGetDict(enJson, 'data', 'range', 'value'))
+          addIfNotNull(dataJson, 'weight', tryGetDict(enJson, 'data', 'weight', 'value'))
+          
 
       # classes
       # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/classes.db
