@@ -18,11 +18,10 @@ before_script:
 prepare:
     stage: prepare
     script:
-        # download latest foundry module data into "packs" directory
-        - cd / && wget -q https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/jobs/artifacts/release/raw/pf2e.zip?job=build
-        - unzip -q pf2e.zip?job=build && mv pf2e/packs /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/packs
-        # run prepare script    
         - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
+        # download latest foundry module data into "packs" directory
+        - bash build-ci-download.sh
+        # run prepare script    
         - bash build-ci-prepare.sh
     artifacts:
         paths:
