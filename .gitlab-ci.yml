@@ -18,7 +18,7 @@ before_script:
 prepare:
     stage: prepare
     script:
-        - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
+        - cd scripts
         # download latest foundry module data into "packs" directory
         - bash build-ci-download.sh
         # run prepare script    
@@ -34,7 +34,7 @@ build:module:
     needs: ['prepare']
     script:
         # run update-module script
-        - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
+        - cd scripts
         - bash build-ci-module.sh
     rules:
         - if: '$CI_BUILD_MODULE == "true"'
@@ -44,13 +44,13 @@ build:pf2-data-fr:
     needs: ['prepare']
     script:
         # clone pf2-data-fr repository
-        - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr
+        - cd $CI_PROJECT_DIR/..
         - git clone https://gitlab.com/pathfinder-fr/pf2-data-fr.git
         # run update-pf2-data-fr script    
-        - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
+        - cd $CI_PROJECT_DIR/scripts
         - bash build-ci-pf2datafr.sh
         # commit & push changes
-        - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/pf2-data-fr
+        - cd $CI_PROJECT_DIR/../pf2-data-fr
         - git add -A
         - git commit -m "Automatic data update" || true
         - git push -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/pf2-data-fr.git
