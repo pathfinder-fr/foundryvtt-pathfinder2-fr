@@ -131,6 +131,7 @@ for pack in packs:
           # champs spécifiques aux armes
           dataJson['level'] = int(enJson['data']['level']['value'])
           dataJson['weaponType'] = enJson['data']['weaponType']['value']
+          dataJson['damage'] = {}
           dataJson['damage']['type'] = enJson['data']['damage']['damageType']
           dataJson['damage']['dice'] = enJson['data']['damage']['dice']
           dataJson['damage']['die'] = enJson['data']['damage']['die']
