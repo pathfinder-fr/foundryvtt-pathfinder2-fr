@@ -28,7 +28,7 @@ class TranslationData:
 #
 def translator_driver():
     options = webdriver.FirefoxOptions()
-    #options.add_argument("--headless")
+    options.add_argument("--headless")
     driver = webdriver.Firefox(options=options)
     try:
         driver.get("https://www.deepl.com/en/translator#en/fr/thing")
