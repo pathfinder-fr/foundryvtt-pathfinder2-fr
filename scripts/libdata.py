@@ -317,7 +317,7 @@ def dataToFile(data, filepath):
                 df.write('------ Benefits and spoiler ----' + '\n')
                 df.write("Avantage: %s\n" % data['benefitsFR'])
             except:
-                print()
+                x=0
         df.write('------ Description (en) ------' + '\n')
         df.write(data['descrEN'] + '\n')
         df.write('------ Description (fr) ------' + '\n')
