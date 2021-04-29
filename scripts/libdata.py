@@ -281,8 +281,14 @@ def dataToFile(data, filepath):
 
         if data['listsEN']:
             for key in data['listsEN']:
-                df.write("%sEN: %s\n" % (key, "|".join(data['listsEN'][key].values())))
-                df.write("%sFR: %s\n" % (key, "|".join(data['listsFR'][key]) if key in data['listsFR'] else ""))
+                try:
+                    df.write("%sEN: %s\n" % (key, "|".join(data['listsEN'][key])))
+                except TypeError:
+                    df.write("%sEN: %s\n" % (key, "|".join(data['listsEN'][key].values())))
+                try:
+                    df.write("%sFR: %s\n" % (key, "|".join(data['listsFR'][key]) if key in data['listsFR'] else ""))
+                except TypeError:
+                    df.write("%sFR: %s\n" % (key, "|".join(data['listsFR'][key]) if key in data['listsFR'.values()] else ""))
 
         df.write('État: ' + data['status'] + '\n')
         if 'oldstatus' in data:
