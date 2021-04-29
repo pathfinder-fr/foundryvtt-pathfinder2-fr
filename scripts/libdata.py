@@ -17,7 +17,7 @@ SUPPORTED = {
                          'type2': "data.level.value"}},
     "feats": {'transl': "Dons",
               "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value",
-                        'type2': "data.level.value"}, "lists": {'Prereq': "data.prerequisites"}},
+                        'type2': "data.level.value"}, "lists": {'Prereq': "data.prerequisites.value"}},
     "equipment": {'transl': "Équipement", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "type",
                                                     'type2': "data.level.value"}},
     "conditionspf2e": {'transl': "Conditions", "paths": {'name': "name", 'desc': "content"}},
