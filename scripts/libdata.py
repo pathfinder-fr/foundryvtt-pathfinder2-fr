@@ -281,7 +281,7 @@ def dataToFile(data, filepath):
 
         if data['listsEN']:
             for key in data['listsEN']:
-                df.write("%sEN: %s\n" % (key, "|".join(data['listsEN'][key])))
+                df.write("%sEN: %s\n" % (key, "|".join(data['listsEN'][key].values())))
                 df.write("%sFR: %s\n" % (key, "|".join(data['listsFR'][key]) if key in data['listsFR'] else ""))
 
         df.write('État: ' + data['status'] + '\n')
