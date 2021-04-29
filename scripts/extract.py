@@ -145,7 +145,7 @@ for p in packs:
         name = source["name"]
         if len(source['desc']) > 0:
           # Automatic translation
-          logging.info("Translating %s" % source['nameEN'])
+          logging.info("Translating %s" % name)
           translation_data = full_trad(driver, source['desc'])
           tradDesc = translation_data.data
           status = translation_data.status
