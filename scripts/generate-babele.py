@@ -24,8 +24,7 @@ def addLists(pack, data, entry):
           json_array = []
           for item in data["listsFR"][k]:
             json_array += [{ "value": item }]
-            entry[k.lower()] = json_array
-            print(entry[k.lower()])
+          entry[k.lower()] = json_array
         else:
           entry[k.lower()] = data["listsFR"][k]
 

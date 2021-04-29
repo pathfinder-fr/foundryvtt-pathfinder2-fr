@@ -110,7 +110,7 @@ for p in packs:
       change = False
       #if p["name"] == "feats-srd":
       #  change = True 
-      
+      print(source["lists"])
       if change or not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']):
         existing[id]['nameEN'] = source['name']
         existing[id]['descrEN'] = source['desc']
@@ -143,6 +143,7 @@ for p in packs:
       # create new
       else:
         name = source["name"]
+        print(name)
         if len(source['desc']) > 0:
           # Automatic translation
           logging.info("Translating %s" % name)

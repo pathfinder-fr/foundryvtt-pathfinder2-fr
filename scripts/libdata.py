@@ -79,6 +79,9 @@ def getPacks():
       
   return packs
 
+
+
+
 #
 # cette fonction retourn vrai si les deux textes sont identiques
 # (ignore les retours à la ligne)
@@ -95,8 +98,22 @@ def equals(val1, val2):
                 return False
             # contenu est une liste
             # retirer les vides des listes
-            list1 = [e.strip() for e in val1[k] if len(e.strip()) > 0]
-            list2 = [e.strip() for e in val2[k] if len(e.strip()) > 0]
+            list1 = []
+            list2 = []
+            try:
+                list1 = [e.strip() for e in val1[k] if len(e.strip()) > 0]
+            except AttributeError:
+                for item in val1[k]:
+                    for e in item.values():
+                        if len(e.strip())>0:
+                            list1 += [e.strip()]
+            try:
+                list2 = [e.strip() for e in val2[k] if len(e.strip()) > 0]
+            except AttributeError:
+                for item in val2[k]:
+                    for e in item.values():
+                        if len(e.strip())>0:
+                            list2 += [e.strip()]
             if list1 != list2:
                 return False
         return True
@@ -257,6 +274,7 @@ def fileToData(filepath):
 # cette fonction écrit les datas avec le benefits en plus
 #
 def dataToFile(data, filepath):
+    print(data["listsEN"])
     with open(filepath, 'w') as df:
         df.write('Name: ' + data['nameEN'] + '\n')
         df.write('Nom: ' + data['nameFR'] + '\n')
