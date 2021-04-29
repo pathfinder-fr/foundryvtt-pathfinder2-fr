@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-04-23 14:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-29 20:03 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -592,6 +592,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
+|[Abadar's Avenger](backgrounds/LHk50lz5Kk5ZYTeo.htm)||`@Compendium[pf2e.backgrounds.LHk50lz5Kk5ZYTeo]`|
 |[Acolyte](backgrounds/CAjQrHZZbALE7Qjy.htm)|Acolyte|`@Compendium[pf2e.backgrounds.CAjQrHZZbALE7Qjy]`|
 |[Acrobat](backgrounds/IFHYbU6Nu8BiTsRa.htm)|Acrobate|`@Compendium[pf2e.backgrounds.IFHYbU6Nu8BiTsRa]`|
 |[Aerialist](backgrounds/qY4IUwVWIKPSFskP.htm)|Trapéziste|`@Compendium[pf2e.backgrounds.qY4IUwVWIKPSFskP]`|
@@ -606,6 +607,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Artist](backgrounds/y9OyNsxGfmjqdcP0.htm)|Artiste|`@Compendium[pf2e.backgrounds.y9OyNsxGfmjqdcP0]`|
 |[Aspiring Free-Captain](backgrounds/ap25MWBuFGwwhYIG.htm)|Aspirant Capitaine-libre|`@Compendium[pf2e.backgrounds.ap25MWBuFGwwhYIG]`|
 |[Aspiring River Monarch](backgrounds/gfklP8ub45R4wXKe.htm)|Aspirant Monarque du Fleuve|`@Compendium[pf2e.backgrounds.gfklP8ub45R4wXKe]`|
+|[Attention Addict](backgrounds/nXnaV9JwUG1N2dsg.htm)||`@Compendium[pf2e.backgrounds.nXnaV9JwUG1N2dsg]`|
 |[Atteran Rancher](backgrounds/eYY3bX7xSH7aicqT.htm)|Rancher Atteran|`@Compendium[pf2e.backgrounds.eYY3bX7xSH7aicqT]`|
 |[Bandit](backgrounds/6abqATPjYoF946LD.htm)|Bandit|`@Compendium[pf2e.backgrounds.6abqATPjYoF946LD]`|
 |[Barber](backgrounds/wudDO9OEsRjJsqhU.htm)|Barbier|`@Compendium[pf2e.backgrounds.wudDO9OEsRjJsqhU]`|
@@ -709,6 +711,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Missionary](backgrounds/GNidqGnSABx1rQUQ.htm)|Missionnaire|`@Compendium[pf2e.backgrounds.GNidqGnSABx1rQUQ]`|
 |[Molthuni Mercenary](backgrounds/lqjmBmGHYRaSiglZ.htm)|Mercenaire du Molthune|`@Compendium[pf2e.backgrounds.lqjmBmGHYRaSiglZ]`|
 |[Mystic Seer](backgrounds/Y50ssWBBKSRVBpSa.htm)|Voyant mystique|`@Compendium[pf2e.backgrounds.Y50ssWBBKSRVBpSa]`|
+|[Newcomer In Need](backgrounds/QnL7hqUi9HPenrbC.htm)||`@Compendium[pf2e.backgrounds.QnL7hqUi9HPenrbC]`|
 |[Nexian Mystic](backgrounds/Y35nOXZRryiyHjlk.htm)|Mystique Nexien|`@Compendium[pf2e.backgrounds.Y35nOXZRryiyHjlk]`|
 |[Nirmathi Guerrilla](backgrounds/E2ij2Cg8oMC0W0NS.htm)|Escarmoucheur Nirmathi|`@Compendium[pf2e.backgrounds.E2ij2Cg8oMC0W0NS]`|
 |[Noble](backgrounds/Yu7Cl0Lk94LdPRi6.htm)|Noble|`@Compendium[pf2e.backgrounds.Yu7Cl0Lk94LdPRi6]`|
@@ -741,6 +744,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Rostland Partisan](backgrounds/8q4PhvpmIxZD7rsV.htm)|Partisan du Rost|`@Compendium[pf2e.backgrounds.8q4PhvpmIxZD7rsV]`|
 |[Royalty](backgrounds/uC6D2nmDTATxXrV6.htm)|De sang royal|`@Compendium[pf2e.backgrounds.uC6D2nmDTATxXrV6]`|
 |[Ruby Phoenix Enthusiast](backgrounds/7K6ZSWOoihZKSdyd.htm)|Passionné du Phénix de rubis|`@Compendium[pf2e.backgrounds.7K6ZSWOoihZKSdyd]`|
+|[Ruby Phoenix Fanatic](backgrounds/uF9nw15tK6b1bgre.htm)||`@Compendium[pf2e.backgrounds.uF9nw15tK6b1bgre]`|
 |[Ruin Delver](backgrounds/5qUQOpdlNsJjpFVX.htm)|Explorateur de ruines|`@Compendium[pf2e.backgrounds.5qUQOpdlNsJjpFVX]`|
 |[Sailor](backgrounds/Zmwyhsxe4i6rZN75.htm)|Marin|`@Compendium[pf2e.backgrounds.Zmwyhsxe4i6rZN75]`|
 |[Sally Guard Neophyte](backgrounds/vE6nb2OSIXqprDXk.htm)|Néophyte de la Garde des Percées|`@Compendium[pf2e.backgrounds.vE6nb2OSIXqprDXk]`|
@@ -752,6 +756,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Scholar of the Ancients](backgrounds/i5G6E5dkGWiq838C.htm)|Étudiant de l'Antiquité|`@Compendium[pf2e.backgrounds.i5G6E5dkGWiq838C]`|
 |[Scholar of the Sky Key](backgrounds/UyddtAwqDGjQ1SZK.htm)|Étudiant de la Clé du Ciel|`@Compendium[pf2e.backgrounds.UyddtAwqDGjQ1SZK]`|
 |[Scout](backgrounds/o7RbsQbv5iLRvd8j.htm)|Éclaireur|`@Compendium[pf2e.backgrounds.o7RbsQbv5iLRvd8j]`|
+|[Second Chance Champion](backgrounds/wz4fDeZtCvxC4vyO.htm)||`@Compendium[pf2e.backgrounds.wz4fDeZtCvxC4vyO]`|
 |[Secular Medic](backgrounds/y0WZS51fSi6dILHq.htm)|Médecin séculier|`@Compendium[pf2e.backgrounds.y0WZS51fSi6dILHq]`|
 |[Senghor Sailor](backgrounds/lav3yRNPc7lQ7e9k.htm)|Marin de Senghor|`@Compendium[pf2e.backgrounds.lav3yRNPc7lQ7e9k]`|
 |[Servant](backgrounds/UdOUj7i8XGTI72Zc.htm)|Serviteur|`@Compendium[pf2e.backgrounds.UdOUj7i8XGTI72Zc]`|
@@ -784,6 +789,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Translator](backgrounds/7AfixHrjbXgDPPkp.htm)|Traducteur|`@Compendium[pf2e.backgrounds.7AfixHrjbXgDPPkp]`|
 |[Truth Seeker](backgrounds/TC7jpN5EA4UBIYep.htm)|En quête de vérité|`@Compendium[pf2e.backgrounds.TC7jpN5EA4UBIYep]`|
 |[Ulfen Raider](backgrounds/V3nYEAhyA54RtYky.htm)|Raider ulfe|`@Compendium[pf2e.backgrounds.V3nYEAhyA54RtYky]`|
+|[Undercover Contender](backgrounds/Am8kwC9c2GQ5bJAW.htm)||`@Compendium[pf2e.backgrounds.Am8kwC9c2GQ5bJAW]`|
 |[Undercover Lotus Guard](backgrounds/86TbxxwfpWjScwSQ.htm)|Garde Lotus infiltré|`@Compendium[pf2e.backgrounds.86TbxxwfpWjScwSQ]`|
 |[Undersea Enthusiast](backgrounds/Ty8FRM0k262xuHfF.htm)|Enthousiaste aquatique|`@Compendium[pf2e.backgrounds.Ty8FRM0k262xuHfF]`|
 |[Ustalavic Academic](backgrounds/x2y25cE98Eq4qxbu.htm)|Étudiant ustalavien|`@Compendium[pf2e.backgrounds.x2y25cE98Eq4qxbu]`|
@@ -914,7 +920,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Drow Priestess](pathfinder-bestiary/FaBHkmFGuEIqIYM1.htm)|Prêtresse drow|`@Compendium[pf2e.pathfinder-bestiary.FaBHkmFGuEIqIYM1]`|
 |[Drow Rogue](pathfinder-bestiary/VBXjZ1jYxdKf64B7.htm)|Roublard drow|`@Compendium[pf2e.pathfinder-bestiary.VBXjZ1jYxdKf64B7]`|
 |[Dryad](pathfinder-bestiary/iSwUKe7cEytclS7r.htm)|Dryade|`@Compendium[pf2e.pathfinder-bestiary.iSwUKe7cEytclS7r]`|
-|[Dryad Queen](pathfinder-bestiary/io7johJlZinrSCiH.htm)|Dryade souveraine|`@Compendium[pf2e.pathfinder-bestiary.io7johJlZinrSCiH]`|
+|[Dryad Queen](pathfinder-bestiary/io7johJlZinrSCiH.htm)|Dryade souveraine (Hamadryades)|`@Compendium[pf2e.pathfinder-bestiary.io7johJlZinrSCiH]`|
 |[Duergar Bombardier](pathfinder-bestiary/qfuoFK2GXBJusQ33.htm)|Bombardier duergar|`@Compendium[pf2e.pathfinder-bestiary.qfuoFK2GXBJusQ33]`|
 |[Duergar Sharpshooter](pathfinder-bestiary/i1HEQ6f15fMEcHQf.htm)|Tireur d’élite duergar|`@Compendium[pf2e.pathfinder-bestiary.i1HEQ6f15fMEcHQf]`|
 |[Duergar Taskmaster](pathfinder-bestiary/dEecX0AEfl32KUVN.htm)|Maître de corvée duergar|`@Compendium[pf2e.pathfinder-bestiary.dEecX0AEfl32KUVN]`|
@@ -1283,7 +1289,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Blodeuwedd](pathfinder-bestiary-2/nzLGh9GKCk7imto3.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.nzLGh9GKCk7imto3]`|
 |[Blue Dracolisk](pathfinder-bestiary-2/4x9trDSABU5dqq9w.htm)|Dracolisque bleue|`@Compendium[pf2e.pathfinder-bestiary-2.4x9trDSABU5dqq9w]`|
 |[Blue-Ringed Octopus](pathfinder-bestiary-2/WxSpfUReYJb4StxG.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.WxSpfUReYJb4StxG]`|
-|[Bodak](pathfinder-bestiary-2/jCJUvzs1FaL6PAkq.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.jCJUvzs1FaL6PAkq]`|
+|[Bodak](pathfinder-bestiary-2/jCJUvzs1FaL6PAkq.htm)|Bodak|`@Compendium[pf2e.pathfinder-bestiary-2.jCJUvzs1FaL6PAkq]`|
 |[Bog Mummy](pathfinder-bestiary-2/hIWzgjW2E2K6ImPA.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.hIWzgjW2E2K6ImPA]`|
 |[Bog Strider](pathfinder-bestiary-2/SG8fOxo4SS7bXpav.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.SG8fOxo4SS7bXpav]`|
 |[Bone Prophet](pathfinder-bestiary-2/7SVhYtnBn967Hy8O.htm)|Prophète des Os|`@Compendium[pf2e.pathfinder-bestiary-2.7SVhYtnBn967Hy8O]`|
@@ -1310,7 +1316,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cockroach Swarm](pathfinder-bestiary-2/8HJNH3aDTJyJi3pU.htm)|Nuée de cafards|`@Compendium[pf2e.pathfinder-bestiary-2.8HJNH3aDTJyJi3pU]`|
 |[Coil Spy](pathfinder-bestiary-2/PAGytLw1QnAiNYC2.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.PAGytLw1QnAiNYC2]`|
 |[Compsognathus](pathfinder-bestiary-2/XZZdG5RosoYsF237.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.XZZdG5RosoYsF237]`|
-|[Cornugon](pathfinder-bestiary-2/i8C4jqI3VdozylBL.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.i8C4jqI3VdozylBL]`|
+|[Cornugon](pathfinder-bestiary-2/i8C4jqI3VdozylBL.htm)|Cornugon|`@Compendium[pf2e.pathfinder-bestiary-2.i8C4jqI3VdozylBL]`|
 |[Crawling Hand](pathfinder-bestiary-2/oSQ3Q9tzTohksAtf.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.oSQ3Q9tzTohksAtf]`|
 |[Culdewen](pathfinder-bestiary-2/coNTMrHerjBIf2ig.htm)|Culdewen|`@Compendium[pf2e.pathfinder-bestiary-2.coNTMrHerjBIf2ig]`|
 |[Cythnigot](pathfinder-bestiary-2/QR3AC4mkpfz6KPSh.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.QR3AC4mkpfz6KPSh]`|
@@ -1331,7 +1337,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Earthen Destrier](pathfinder-bestiary-2/CrAsEzLl3F2vejd3.htm)|Destrier terreux|`@Compendium[pf2e.pathfinder-bestiary-2.CrAsEzLl3F2vejd3]`|
 |[Elasmosaurus](pathfinder-bestiary-2/VYEPG1G64OaCQmwf.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.VYEPG1G64OaCQmwf]`|
 |[Ember Fox](pathfinder-bestiary-2/6ic6oNCpWjkVAsIN.htm)|Renard de Braise|`@Compendium[pf2e.pathfinder-bestiary-2.6ic6oNCpWjkVAsIN]`|
-|[Emperor Cobra](pathfinder-bestiary-2/iLZpGlyBWxS4Idbi.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.iLZpGlyBWxS4Idbi]`|
+|[Emperor Cobra](pathfinder-bestiary-2/iLZpGlyBWxS4Idbi.htm)|Cobra empereur|`@Compendium[pf2e.pathfinder-bestiary-2.iLZpGlyBWxS4Idbi]`|
 |[Eremite](pathfinder-bestiary-2/hmnNDCNV425MisdA.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.hmnNDCNV425MisdA]`|
 |[Esobok](pathfinder-bestiary-2/yvmX4J21XE1wqDar.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.yvmX4J21XE1wqDar]`|
 |[Evangelist](pathfinder-bestiary-2/OuimMwM3yFRy5tRK.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.OuimMwM3yFRy5tRK]`|
@@ -1538,7 +1544,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Taiga Linnorm](pathfinder-bestiary-2/NAy7eUqFI8tGm3Ug.htm)|Linnorm de la Taïga|`@Compendium[pf2e.pathfinder-bestiary-2.NAy7eUqFI8tGm3Ug]`|
 |[Tatzlwyrm](pathfinder-bestiary-2/UnWr8QSMq2VZUQhX.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.UnWr8QSMq2VZUQhX]`|
 |[Tendriculos](pathfinder-bestiary-2/yBglC9GBy6p1x87t.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.yBglC9GBy6p1x87t]`|
-|[Thanadaemon](pathfinder-bestiary-2/iW6WKMVV3Ug8sa2q.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.iW6WKMVV3Ug8sa2q]`|
+|[Thanadaemon](pathfinder-bestiary-2/iW6WKMVV3Ug8sa2q.htm)|Thanadeaemon|`@Compendium[pf2e.pathfinder-bestiary-2.iW6WKMVV3Ug8sa2q]`|
 |[Theletos](pathfinder-bestiary-2/OaKx1ZaU25i3cypS.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.OaKx1ZaU25i3cypS]`|
 |[Thrasfyr](pathfinder-bestiary-2/luPebMfNmwtOZcWR.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.luPebMfNmwtOZcWR]`|
 |[Thulgant](pathfinder-bestiary-2/NtezcliwnH4R1tJw.htm)|Thulgant|`@Compendium[pf2e.pathfinder-bestiary-2.NtezcliwnH4R1tJw]`|
@@ -1567,7 +1573,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Void Zombie](pathfinder-bestiary-2/cKu0rrZtEAFCosej.htm)|Zombi du vide|`@Compendium[pf2e.pathfinder-bestiary-2.cKu0rrZtEAFCosej]`|
 |[Vrolikai](pathfinder-bestiary-2/Va2LUALLnnfWX3wq.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.Va2LUALLnnfWX3wq]`|
 |[Vrykolakas Ancient](pathfinder-bestiary-2/e0PXAtnDnJo4ggFX.htm)|Vrykolakas vénérable|`@Compendium[pf2e.pathfinder-bestiary-2.e0PXAtnDnJo4ggFX]`|
-|[Vrykolakas Master](pathfinder-bestiary-2/j43O2vBu8eu2wC5z.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.j43O2vBu8eu2wC5z]`|
+|[Vrykolakas Master](pathfinder-bestiary-2/j43O2vBu8eu2wC5z.htm)|Maître Vrykolakas|`@Compendium[pf2e.pathfinder-bestiary-2.j43O2vBu8eu2wC5z]`|
 |[Vrykolakas Spawn](pathfinder-bestiary-2/8IyfadYYpYXBvlXN.htm)|Rejeton vrykolakas|`@Compendium[pf2e.pathfinder-bestiary-2.8IyfadYYpYXBvlXN]`|
 |[Water Orm](pathfinder-bestiary-2/64sdDzjLWu2W2R2e.htm)|Orm aquatique|`@Compendium[pf2e.pathfinder-bestiary-2.64sdDzjLWu2W2R2e]`|
 |[Water Yai](pathfinder-bestiary-2/R0dyG06kbNYiCqRW.htm)||`@Compendium[pf2e.pathfinder-bestiary-2.R0dyG06kbNYiCqRW]`|
@@ -1870,7 +1876,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fighter Weapon Mastery](classfeatures/fighter-05-gApJtAdNb9ST4Ms9.htm)|Maîtrise martiale du guerrier|`@Compendium[pf2e.classfeatures.gApJtAdNb9ST4Ms9]`|
 |[Final Doctrine](classfeatures/cleric-19-urBGOPrUwBmkixAo.htm)|Dernier dogme|`@Compendium[pf2e.classfeatures.urBGOPrUwBmkixAo]`|
 |[Final Doctrine (Cloistered Cleric)](classfeatures/cleric-19-DgGefatQ4v6xT6f9.htm)|Dernier dogme (Prêtre cloîtré)|`@Compendium[pf2e.classfeatures.DgGefatQ4v6xT6f9]`|
-|[Final Doctrine (Warpriest)](classfeatures/cleric-15-N1ugDqZlslxbp3Uy.htm)|Dernier dogme (Prêtre combattant)|`@Compendium[pf2e.classfeatures.N1ugDqZlslxbp3Uy]`|
+|[Final Doctrine (Warpriest)](classfeatures/cleric-19-N1ugDqZlslxbp3Uy.htm)|Dernier dogme (Prêtre combattant)|`@Compendium[pf2e.classfeatures.N1ugDqZlslxbp3Uy]`|
 |[First Doctrine](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)|Doctrine : Premier dogme|`@Compendium[pf2e.classfeatures.Qejo7FUWQtPTpgWH]`|
 |[First Doctrine (Cloistered Cleric)](classfeatures/cleric-01-aiwxBj5MjnafCMyn.htm)|Premier dogme (Prêtre cloîtré)|`@Compendium[pf2e.classfeatures.aiwxBj5MjnafCMyn]`|
 |[First Doctrine (Warpriest)](classfeatures/cleric-01-xxkszluN9icAiTO4.htm)|Premier dogme (Prêtre combattant)|`@Compendium[pf2e.classfeatures.xxkszluN9icAiTO4]`|
@@ -2037,7 +2043,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Shield Block (Level 1)](classfeatures/fighter-01-eZNCckLzbH3GyncH.htm)|Blocage au bouclier (Niveau 1)|`@Compendium[pf2e.classfeatures.eZNCckLzbH3GyncH]`|
 |[Signature Spells (Level 3)](classfeatures/sorcerer-03-VKRjmXxBFLrJK01c.htm)|Sorts emblématiques (Niveau 3)|`@Compendium[pf2e.classfeatures.VKRjmXxBFLrJK01c]`|
 |[Silver Dragon Instinct](classfeatures/barbarian-01-Z2eWkfXblU0QxFx1.htm)|Instinct du Dragon - Argent|`@Compendium[pf2e.classfeatures.Z2eWkfXblU0QxFx1]`|
-|[Simple Weapon Expertise](classfeatures/sorcerer-11-4uvohEHSm17wY7gc.htm)|Expertise avec les armes simples|`@Compendium[pf2e.classfeatures.4uvohEHSm17wY7gc]`|
 |[Skillful Lessons](classfeatures/investigator-03-dmK1wya8GBi9MmCB.htm)|Leçons accomplies|`@Compendium[pf2e.classfeatures.dmK1wya8GBi9MmCB]`|
 |[Slippery Mind](classfeatures/rogue-17-xmZ7oeTDcQVXegUP.htm)|Esprit fuyant|`@Compendium[pf2e.classfeatures.xmZ7oeTDcQVXegUP]`|
 |[Snake Animal Instinct](classfeatures/barbarian-01-pIYWMCNnYDQfSRQh.htm)|Instinct animal - Serpent|`@Compendium[pf2e.classfeatures.pIYWMCNnYDQfSRQh]`|
@@ -2325,7 +2330,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Analyze Information](feats/ancestry-09-RTxPL1reRcJhhYeG.htm)|Analyse d'information|`@Compendium[pf2e.feats-srd.RTxPL1reRcJhhYeG]`|
 |[Analyze Weakness](feats/class-06-3PHHiZjX16Dwyt65.htm)|Analyse de faiblesse|`@Compendium[pf2e.feats-srd.3PHHiZjX16Dwyt65]`|
 |[Anarchic Arcana](feats/ancestry-09-ngNzsvIpnj1iLfSC.htm)|Arcane anarchique|`@Compendium[pf2e.feats-srd.ngNzsvIpnj1iLfSC]`|
-|[Ancestor's Transformation](feats/general-13-3X8BkDZEDWp90U4u.htm)|Transformation de l'ancêtre|`@Compendium[pf2e.feats-srd.3X8BkDZEDWp90U4u]`|
+|[Ancestor's Transformation](feats/ancestry-13-3X8BkDZEDWp90U4u.htm)|Transformation de l'ancêtre|`@Compendium[pf2e.feats-srd.3X8BkDZEDWp90U4u]`|
 |[Ancestral Blood Magic](feats/class-01-avCmIwmwJH7d7gri.htm)|Sang magique ancestral|`@Compendium[pf2e.feats-srd.avCmIwmwJH7d7gri]`|
 |[Ancestral Insight](feats/ancestry-01-n7JXquVGxQOfrCsf.htm)|Intuition ancestrale|`@Compendium[pf2e.feats-srd.n7JXquVGxQOfrCsf]`|
 |[Ancestral Linguistics](feats/ancestry-01-eCWQU16hRLfN1KaX.htm)|Linguistique ancestrale|`@Compendium[pf2e.feats-srd.eCWQU16hRLfN1KaX]`|
@@ -2681,7 +2686,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Confabulator](feats/skill-02-6Z4e3B9vePYpibcy.htm)|Affabulateur|`@Compendium[pf2e.feats-srd.6Z4e3B9vePYpibcy]`|
 |[Connect The Dots](feats/class-06-gwIgB6bMh0sruyX7.htm)|Relier les points|`@Compendium[pf2e.feats-srd.gwIgB6bMh0sruyX7]`|
 |[Connections](feats/skill-02-iCv8KTZ5PcF4GqeV.htm)|Relations|`@Compendium[pf2e.feats-srd.iCv8KTZ5PcF4GqeV]`|
-|[Consistent Surge](feats/general-13-O65q744snXtC5Uc4.htm)|Poussée consistante|`@Compendium[pf2e.feats-srd.O65q744snXtC5Uc4]`|
+|[Consistent Surge](feats/ancestry-13-O65q744snXtC5Uc4.htm)|Poussée consistante|`@Compendium[pf2e.feats-srd.O65q744snXtC5Uc4]`|
 |[Consult The Spirits](feats/skill-07-fvYwsHM9O1twQa5N.htm)|Consulter les esprits|`@Compendium[pf2e.feats-srd.fvYwsHM9O1twQa5N]`|
 |[Consult The Stars](feats/ancestry-01-NySPRgD0FjZY2QGs.htm)|Consulter les étoiles|`@Compendium[pf2e.feats-srd.NySPRgD0FjZY2QGs]`|
 |[Consume Spell](feats/class-14-d8yggbcJsKKyHip7.htm)|Consommer un sort|`@Compendium[pf2e.feats-srd.d8yggbcJsKKyHip7]`|
@@ -2809,7 +2814,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Diehard](feats/general-01-I0BhPWqYf1bbzEYg.htm)|Dur à cuir|`@Compendium[pf2e.feats-srd.I0BhPWqYf1bbzEYg]`|
 |[Different Worlds](feats/general-01-z1Z22gTp7J1VRLSR.htm)|Mondes différents|`@Compendium[pf2e.feats-srd.z1Z22gTp7J1VRLSR]`|
 |[Dig Quickly](feats/ancestry-01-PsLne80WUsD4IFa6.htm)|Creuser rapidement|`@Compendium[pf2e.feats-srd.PsLne80WUsD4IFa6]`|
-|[Dire Form](feats/general-13-X5NRdQ1W0Y5t6MFi.htm)|Forme sauvage|`@Compendium[pf2e.feats-srd.X5NRdQ1W0Y5t6MFi]`|
+|[Dire Form](feats/ancestry-13-X5NRdQ1W0Y5t6MFi.htm)|Forme sauvage|`@Compendium[pf2e.feats-srd.X5NRdQ1W0Y5t6MFi]`|
 |[Directed Audience](feats/class-02-ot0uyFtnC1Whz5bp.htm)|Public choisi|`@Compendium[pf2e.feats-srd.ot0uyFtnC1Whz5bp]`|
 |[Directed Channel](feats/class-04-iojlXjVdbzi1fZGt.htm)|Canalisation dirigée|`@Compendium[pf2e.feats-srd.iojlXjVdbzi1fZGt]`|
 |[Directional Bombs](feats/class-06-ozvYhY4hG1deXly8.htm)|Bombes directionnelles|`@Compendium[pf2e.feats-srd.ozvYhY4hG1deXly8]`|
@@ -2889,7 +2894,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dragon's Rage Breath](feats/class-06-3uavnVbCsqTvzpgt.htm)|Souffle de rage du dragon|`@Compendium[pf2e.feats-srd.3uavnVbCsqTvzpgt]`|
 |[Dragon's Rage Wings](feats/class-12-bqZkAFS6eq9TKXMO.htm)|Ailes de rage du dragon|`@Compendium[pf2e.feats-srd.bqZkAFS6eq9TKXMO]`|
 |[Dragonblood Paragon](feats/ancestry-09-4EgueMqUm0ebKV4J.htm)|Parangon sangdragon|`@Compendium[pf2e.feats-srd.4EgueMqUm0ebKV4J]`|
-|[Dragonslayer Oath](feats/class-02-0lZeJHgk4ASO0clU.htm)|Serment du pourfendeur de dragons|`@Compendium[pf2e.feats-srd.0lZeJHgk4ASO0clU]`|
+|[Dragonslayer Oath (Liberator)](feats/class-02-K3QkcNWY8qpNEJrk.htm)||`@Compendium[pf2e.feats-srd.K3QkcNWY8qpNEJrk]`|
+|[Dragonslayer Oath (Paladin)](feats/class-02-LZsTt6zPZfNyjIZl.htm)||`@Compendium[pf2e.feats-srd.LZsTt6zPZfNyjIZl]`|
+|[Dragonslayer Oath (Redeemer)](feats/class-02-85eUthbjE9TnF4fo.htm)||`@Compendium[pf2e.feats-srd.85eUthbjE9TnF4fo]`|
 |[Dread Marshal Stance](feats/archetype-04-R7c4PyTNkZb0yvoT.htm)|Posture du terrible Capitaine|`@Compendium[pf2e.feats-srd.R7c4PyTNkZb0yvoT]`|
 |[Dread Striker](feats/class-04-9SYnbjFgyucjhN5e.htm)|Frappeur d'effroi|`@Compendium[pf2e.feats-srd.9SYnbjFgyucjhN5e]`|
 |[Dream May](feats/ancestry-01-kqnFdIhToKTnOpMl.htm)|Vierge onirique|`@Compendium[pf2e.feats-srd.kqnFdIhToKTnOpMl]`|
@@ -3019,7 +3026,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Environmental Grace](feats/skill-07-u6tLp3zTBweq7CxO.htm)|Grâce environnementale|`@Compendium[pf2e.feats-srd.u6tLp3zTBweq7CxO]`|
 |[Ephemeral Tracking](feats/class-06-BBN5G6epRWXGwZHv.htm)|Pistage éphémère|`@Compendium[pf2e.feats-srd.BBN5G6epRWXGwZHv]`|
 |[Eschew Materials](feats/class-01-AD2eQu6SjLhUGD6Z.htm)|Dispense de composant matériel|`@Compendium[pf2e.feats-srd.AD2eQu6SjLhUGD6Z]`|
-|[Esoteric Oath](feats/class-02-u3qBWp8ecalSwEk4.htm)|Serment ésotérique|`@Compendium[pf2e.feats-srd.u3qBWp8ecalSwEk4]`|
+|[Esoteric Oath (Liberator)](feats/class-02-VU7aZC7L08Mk1GVA.htm)||`@Compendium[pf2e.feats-srd.VU7aZC7L08Mk1GVA]`|
+|[Esoteric Oath (Paladin)](feats/class-02-c2h9Z8exSFhraJ8j.htm)||`@Compendium[pf2e.feats-srd.c2h9Z8exSFhraJ8j]`|
+|[Esoteric Oath (Redeemer)](feats/class-02-QFFbmQ5yrBSjbAj3.htm)||`@Compendium[pf2e.feats-srd.QFFbmQ5yrBSjbAj3]`|
 |[Esoteric Polymath](feats/class-02-4HZTLPKPteEFsa7n.htm)|Touche-à-tout ésotérique|`@Compendium[pf2e.feats-srd.4HZTLPKPteEFsa7n]`|
 |[Esteemed Visitor](feats/ancestry-01-gC5EnlP38t1vTlWt.htm)|Visiteur estimé|`@Compendium[pf2e.feats-srd.gC5EnlP38t1vTlWt]`|
 |[Eternal Bane](feats/class-16-pzmob1HqVKZfL0BY.htm)|Imprécation éternelle|`@Compendium[pf2e.feats-srd.pzmob1HqVKZfL0BY]`|
@@ -3136,7 +3145,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fiendish Strikes](feats/ancestry-13-xjE123p2rPTsz1eV.htm)|Frappes fiélones|`@Compendium[pf2e.feats-srd.xjE123p2rPTsz1eV]`|
 |[Fiendish Wings](feats/ancestry-09-jNemcS5GqH8mnjV6.htm)|Ailes fiélones|`@Compendium[pf2e.feats-srd.jNemcS5GqH8mnjV6]`|
 |[Fiendish Word](feats/ancestry-17-2pYCGPCQDHD3o7Jz.htm)|Parole fiélone|`@Compendium[pf2e.feats-srd.2pYCGPCQDHD3o7Jz]`|
-|[Fiendsbane Oath](feats/class-02-aM6eAeyk5twmxCKe.htm)|Serment du fléau des fiélons|`@Compendium[pf2e.feats-srd.aM6eAeyk5twmxCKe]`|
+|[Fiendsbane Oath (Liberator)](feats/class-02-uv235v6hXCITAFej.htm)||`@Compendium[pf2e.feats-srd.uv235v6hXCITAFej]`|
+|[Fiendsbane Oath (Paladin)](feats/class-02-0NRIP8cDv9Opl5Ls.htm)||`@Compendium[pf2e.feats-srd.0NRIP8cDv9Opl5Ls]`|
+|[Fiendsbane Oath (Redeemer)](feats/class-02-J3R0vx1lszU3CLp5.htm)||`@Compendium[pf2e.feats-srd.J3R0vx1lszU3CLp5]`|
 |[Fighter Dedication](feats/archetype-02-mvNa9KfQooHYEXoA.htm)|Dévouement de guerrier|`@Compendium[pf2e.feats-srd.mvNa9KfQooHYEXoA]`|
 |[Fighter Resiliency](feats/archetype-04-PLz1oIEGJojVUBsW.htm)|Résilience du Guerrier|`@Compendium[pf2e.feats-srd.PLz1oIEGJojVUBsW]`|
 |[Final Form](feats/ancestry-17-xXaKiJbKhClF5eJx.htm)|Forme finale|`@Compendium[pf2e.feats-srd.xXaKiJbKhClF5eJx]`|
@@ -3493,7 +3504,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Intimidating Prowess](feats/skill-02-XFJiGllNZp8Xebda.htm)|Prouesse intimidante|`@Compendium[pf2e.feats-srd.XFJiGllNZp8Xebda]`|
 |[Intimidating Strike](feats/class-02-lkcM4V3VDAtjlR9P.htm)|Frappe intimidante|`@Compendium[pf2e.feats-srd.lkcM4V3VDAtjlR9P]`|
 |[Intuitive Cooperation](feats/ancestry-01-AjdmoGFoSIyx1mxd.htm)|Coopération intuitive|`@Compendium[pf2e.feats-srd.AjdmoGFoSIyx1mxd]`|
-|[Intuitive Crafting](feats/general-01-XKDFgBEtFdEzCz8X.htm)|Artisanat intuitif|`@Compendium[pf2e.feats-srd.XKDFgBEtFdEzCz8X]`|
+|[Intuitive Crafting](feats/ancestry-01-XKDFgBEtFdEzCz8X.htm)|Artisanat intuitif|`@Compendium[pf2e.feats-srd.XKDFgBEtFdEzCz8X]`|
 |[Intuitive Illusions](feats/ancestry-05-MwjnRpVn3br88Caj.htm)|Illusions intuitives|`@Compendium[pf2e.feats-srd.MwjnRpVn3br88Caj]`|
 |[Inventive Offensive](feats/ancestry-01-SrSYEHqOLXWuj65e.htm)|Offensive inventive|`@Compendium[pf2e.feats-srd.SrSYEHqOLXWuj65e]`|
 |[Inventor](feats/skill-07-XR95taODq1sq82Du.htm)|Inventeur|`@Compendium[pf2e.feats-srd.XR95taODq1sq82Du]`|
@@ -4024,7 +4035,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Radiant Blade Master](feats/class-20-jYEMVfrXJLpXS6aC.htm)|Maître lame radieux|`@Compendium[pf2e.feats-srd.jYEMVfrXJLpXS6aC]`|
 |[Radiant Blade Spirit](feats/class-10-h5ksUZlrVGBjq6p4.htm)|Esprit lame radieux|`@Compendium[pf2e.feats-srd.h5ksUZlrVGBjq6p4]`|
 |[Radiant Burst](feats/ancestry-13-9eL7W4rvs4sjhWFT.htm)|Explosion radieuse|`@Compendium[pf2e.feats-srd.9eL7W4rvs4sjhWFT]`|
-|[Radiant Circuitry](feats/general-01-2XmdYW8OsAvjGDG3.htm)|Circuiterie rayonnante|`@Compendium[pf2e.feats-srd.2XmdYW8OsAvjGDG3]`|
+|[Radiant Circuitry](feats/ancestry-01-2XmdYW8OsAvjGDG3.htm)|Circuiterie rayonnante|`@Compendium[pf2e.feats-srd.2XmdYW8OsAvjGDG3]`|
 |[Radiant Infusion](feats/class-04-JcXzKwrdMkNszrJQ.htm)|Imprégnation irradiante|`@Compendium[pf2e.feats-srd.JcXzKwrdMkNszrJQ]`|
 |[Radiate Glory](feats/ancestry-17-Dxac0mgye7EFFVou.htm)|Irradier la gloire|`@Compendium[pf2e.feats-srd.Dxac0mgye7EFFVou]`|
 |[Raging Athlete](feats/class-04-sEWYOllJ6rYoXK4K.htm)|Athlète enragé|`@Compendium[pf2e.feats-srd.sEWYOllJ6rYoXK4K]`|
@@ -4271,7 +4282,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Shield of Reckoning](feats/class-10-VsTmB32x9673ONJ0.htm)|Bouclier du jugement|`@Compendium[pf2e.feats-srd.VsTmB32x9673ONJ0]`|
 |[Shielded Stride](feats/class-04-tHqlcgcxHXzqLHPZ.htm)|Marche au bouclier|`@Compendium[pf2e.feats-srd.tHqlcgcxHXzqLHPZ]`|
 |[Shifting Faces](feats/ancestry-05-qZUdGd2khS9cq4hJ.htm)|Visages changeants|`@Compendium[pf2e.feats-srd.qZUdGd2khS9cq4hJ]`|
-|[Shining Oath](feats/class-02-vQiUYpdgYnXg0oDX.htm)|Serment de lumière|`@Compendium[pf2e.feats-srd.vQiUYpdgYnXg0oDX]`|
+|[Shining Oath (Liberator)](feats/class-02-lDfOzhKJoTCkLPtn.htm)||`@Compendium[pf2e.feats-srd.lDfOzhKJoTCkLPtn]`|
+|[Shining Oath (Paladin)](feats/class-02-CcQISNjNdD0Fsj9n.htm)||`@Compendium[pf2e.feats-srd.CcQISNjNdD0Fsj9n]`|
+|[Shining Oath (Redeemer)](feats/class-02-tdtCwmYoBMKzfhEp.htm)||`@Compendium[pf2e.feats-srd.tdtCwmYoBMKzfhEp]`|
 |[Shinstabber](feats/ancestry-13-JQxFvMHu0ffo56RT.htm)|Se glisser dans les pattes|`@Compendium[pf2e.feats-srd.JQxFvMHu0ffo56RT]`|
 |[Shoki's Argument](feats/ancestry-05-B4e8V5nExlScjojY.htm)|Argument de Shoki|`@Compendium[pf2e.feats-srd.B4e8V5nExlScjojY]`|
 |[Shoony Lore](feats/ancestry-01-yCaWcKlpbAfebqlO.htm)|Connaissance des Shoonis|`@Compendium[pf2e.feats-srd.yCaWcKlpbAfebqlO]`|
@@ -4491,7 +4504,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sudden Charge](feats/class-01-qQt3CMrhLkUV1wCv.htm)|Charge soudaine|`@Compendium[pf2e.feats-srd.qQt3CMrhLkUV1wCv]`|
 |[Sudden Leap](feats/class-08-BkKWTt3ufaCN2ZdI.htm)|Bond soudain|`@Compendium[pf2e.feats-srd.BkKWTt3ufaCN2ZdI]`|
 |[Suli Amir](feats/ancestry-13-7bVJEZt2vwAAnILV.htm)|Émir Suli|`@Compendium[pf2e.feats-srd.7bVJEZt2vwAAnILV]`|
-|[Suli-jann](feats/general-01-GPsYtPdkAkk710F3.htm)|Jann-suli|`@Compendium[pf2e.feats-srd.GPsYtPdkAkk710F3]`|
+|[Suli-jann](feats/ancestry-01-GPsYtPdkAkk710F3.htm)|Jann-suli|`@Compendium[pf2e.feats-srd.GPsYtPdkAkk710F3]`|
 |[Summon Air Elemental](feats/ancestry-13-569SxRBvTCDiHlbW.htm)|Convocation d'élementaire d'air|`@Compendium[pf2e.feats-srd.569SxRBvTCDiHlbW]`|
 |[Summon Celestial Kin](feats/ancestry-13-L231BR4815B6hwKT.htm)|Convoquer un céleste apparenté|`@Compendium[pf2e.feats-srd.L231BR4815B6hwKT]`|
 |[Summon Earth Elemental](feats/ancestry-13-lrTRELs8uDpVpsk0.htm)|Convocation d'élémentaire de terre|`@Compendium[pf2e.feats-srd.lrTRELs8uDpVpsk0]`|
@@ -4886,6 +4899,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Aerial Form (Wasp)](spell-effects/04-xgZxYqjDPNtsQ3Qp.htm)||`@Compendium[pf2e.spell-effects.xgZxYqjDPNtsQ3Qp]`|
 |[Spell Effect: Agile Feet](spell-effects/01-y9PJdDYFemhk6Z5o.htm)||`@Compendium[pf2e.spell-effects.y9PJdDYFemhk6Z5o]`|
 |[Spell Effect: Amplifying Touch](spell-effects/01-MjtPtndJx31q2N9R.htm)||`@Compendium[pf2e.spell-effects.MjtPtndJx31q2N9R]`|
+|[Spell Effect: Ancestral Form](spell-effects/06-l8HkOKfiUqd3BUwT.htm)||`@Compendium[pf2e.spell-effects.l8HkOKfiUqd3BUwT]`|
 |[Spell Effect: Animal Form (Ape)](spell-effects/02-tk3go5Cl6Qt130Dk.htm)||`@Compendium[pf2e.spell-effects.tk3go5Cl6Qt130Dk]`|
 |[Spell Effect: Animal Form (Bear)](spell-effects/02-gQnDKDeBTtjwOWAk.htm)||`@Compendium[pf2e.spell-effects.gQnDKDeBTtjwOWAk]`|
 |[Spell Effect: Animal Form (Bull)](spell-effects/02-BT1ofB6RvRocQOWO.htm)||`@Compendium[pf2e.spell-effects.BT1ofB6RvRocQOWO]`|
@@ -4899,6 +4913,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Athletic Rush](spell-effects/01-57lnrCzGUcNUBP2O.htm)||`@Compendium[pf2e.spell-effects.57lnrCzGUcNUBP2O]`|
 |[Spell Effect: Bane](spell-effects/01-UTLp7omqsiC36bso.htm)||`@Compendium[pf2e.spell-effects.UTLp7omqsiC36bso]`|
 |[Spell Effect: Bless](spell-effects/Gqy7K6FnbLtwGpud.htm)|Effet de sort : Bénédiction|`@Compendium[pf2e.spell-effects.Gqy7K6FnbLtwGpud]`|
+|[Spell Effect: Call to Arms](spell-effects/01-PNEGSVYhMKf6kQZ6.htm)||`@Compendium[pf2e.spell-effects.PNEGSVYhMKf6kQZ6]`|
 |[Spell Effect: Competitive Edge](spell-effects/04-iJ7TVW5tDnZG9DG8.htm)||`@Compendium[pf2e.spell-effects.iJ7TVW5tDnZG9DG8]`|
 |[Spell Effect: Death Ward](spell-effects/01-s6CwkSsMDGfUmotn.htm)||`@Compendium[pf2e.spell-effects.s6CwkSsMDGfUmotn]`|
 |[Spell Effect: Dinosaur Form (Ankylosaurus)](spell-effects/04-0Cyf07wboRp4CmcQ.htm)||`@Compendium[pf2e.spell-effects.0Cyf07wboRp4CmcQ]`|
@@ -4945,8 +4960,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Inspire Heroics (Defense, +3)](spell-effects/01-BKam63zT98iWMJH7.htm)||`@Compendium[pf2e.spell-effects.BKam63zT98iWMJH7]`|
 |[Spell Effect: Inspire Heroics (Strength, +2)](spell-effects/01-Fjnm1l59KH5YJ7G9.htm)||`@Compendium[pf2e.spell-effects.Fjnm1l59KH5YJ7G9]`|
 |[Spell Effect: Inspire Heroics (Strength, +3)](spell-effects/01-8XaSpienzVXLmcfp.htm)||`@Compendium[pf2e.spell-effects.8XaSpienzVXLmcfp]`|
+|[Spell Effect: Ki Strike (Air)](spell-effects/01-4CUZSDn4BiqWpvZg.htm)||`@Compendium[pf2e.spell-effects.4CUZSDn4BiqWpvZg]`|
+|[Spell Effect: Ki Strike (Chaotic)](spell-effects/02-joCQGq27FylDuY9P.htm)||`@Compendium[pf2e.spell-effects.joCQGq27FylDuY9P]`|
+|[Spell Effect: Ki Strike (Earth)](spell-effects/01-U2ekk5iBaSfZlEkp.htm)||`@Compendium[pf2e.spell-effects.U2ekk5iBaSfZlEkp]`|
+|[Spell Effect: Ki Strike (Evil)](spell-effects/02-4U9BWv0rSpGbU0wr.htm)||`@Compendium[pf2e.spell-effects.4U9BWv0rSpGbU0wr]`|
+|[Spell Effect: Ki Strike (Fire)](spell-effects/01-rnu7tqMPe3Qm0apj.htm)||`@Compendium[pf2e.spell-effects.rnu7tqMPe3Qm0apj]`|
+|[Spell Effect: Ki Strike (Force)](spell-effects/01-vLdt7vdUPv3Jdkgq.htm)||`@Compendium[pf2e.spell-effects.vLdt7vdUPv3Jdkgq]`|
+|[Spell Effect: Ki Strike (Good)](spell-effects/02-OplbQWW6i1NtMq9f.htm)||`@Compendium[pf2e.spell-effects.OplbQWW6i1NtMq9f]`|
+|[Spell Effect: Ki Strike (Lawful)](spell-effects/01-X2BGmuKdGVj4YYyp.htm)||`@Compendium[pf2e.spell-effects.X2BGmuKdGVj4YYyp]`|
+|[Spell Effect: Ki Strike (Negative)](spell-effects/01-ubT5UGReu1PoeCL0.htm)||`@Compendium[pf2e.spell-effects.ubT5UGReu1PoeCL0]`|
+|[Spell Effect: Ki Strike (Positive)](spell-effects/01-BQAb290GJQHiXtSW.htm)||`@Compendium[pf2e.spell-effects.BQAb290GJQHiXtSW]`|
+|[Spell Effect: Ki Strike (Water)](spell-effects/01-tTRy1cc24ApPnym8.htm)||`@Compendium[pf2e.spell-effects.tTRy1cc24ApPnym8]`|
 |[Spell Effect: Lay on Hands](spell-effects/01-lyLMiauxIVUM3oF1.htm)||`@Compendium[pf2e.spell-effects.lyLMiauxIVUM3oF1]`|
+|[Spell Effect: Life-Giving Form](spell-effects/06-lIl0yYdS9zojOZhe.htm)||`@Compendium[pf2e.spell-effects.lIl0yYdS9zojOZhe]`|
 |[Spell Effect: Litany of Self-Interest](spell-effects/05-ceEA7nBGNmoR8Sjj.htm)||`@Compendium[pf2e.spell-effects.ceEA7nBGNmoR8Sjj]`|
+|[Spell Effect: Longstrider](spell-effects/01-PQHP7Oph3BQX1GhF.htm)||`@Compendium[pf2e.spell-effects.PQHP7Oph3BQX1GhF]`|
 |[Spell Effect: Mage Armor](spell-effects/01-qkwb5DD3zmKwvbk0.htm)|Effet : Armure du mage|`@Compendium[pf2e.spell-effects.qkwb5DD3zmKwvbk0]`|
 |[Spell Effect: Magic Weapon](spell-effects/01-GnWkI3T3LYRlm3X8.htm)||`@Compendium[pf2e.spell-effects.GnWkI3T3LYRlm3X8]`|
 |[Spell Effect: Magic's Vessel](spell-effects/01-zpxIwEjnLUSO1B4z.htm)||`@Compendium[pf2e.spell-effects.zpxIwEjnLUSO1B4z]`|
@@ -4986,16 +5014,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Take Its Course (Affliction, Help)](spell-effects/04-nHXKK4pRXAzrLdEP.htm)||`@Compendium[pf2e.spell-effects.nHXKK4pRXAzrLdEP]`|
 |[Spell Effect: Take Its Course (Affliction, Hinder)](spell-effects/04-R27azQfzeFuFc48G.htm)||`@Compendium[pf2e.spell-effects.R27azQfzeFuFc48G]`|
 |[Spell Effect: Tanglefoot](spell-effects/01-TwtUIEyenrtAbeiX.htm)||`@Compendium[pf2e.spell-effects.TwtUIEyenrtAbeiX]`|
+|[Spell Effect: Tempest Form (Air)](spell-effects/06-b5OyBdc0bolgWZZT.htm)||`@Compendium[pf2e.spell-effects.b5OyBdc0bolgWZZT]`|
+|[Spell Effect: Tempest Form (Mist)](spell-effects/06-HDKJAUXMbtxnBdgR.htm)||`@Compendium[pf2e.spell-effects.HDKJAUXMbtxnBdgR]`|
+|[Spell Effect: Tempest Form (Water)](spell-effects/06-C3RdbEQTvawqKAhw.htm)||`@Compendium[pf2e.spell-effects.C3RdbEQTvawqKAhw]`|
 |[Spell Effect: Tempt Fate](spell-effects/04-AJkRUIdYLnt4QOOg.htm)||`@Compendium[pf2e.spell-effects.AJkRUIdYLnt4QOOg]`|
 |[Spell Effect: Touch of Corruption](spell-effects/01-GhNVAYtoF5hK3AlD.htm)||`@Compendium[pf2e.spell-effects.GhNVAYtoF5hK3AlD]`|
 |[Spell Effect: Traveler's Transit (Climb)](spell-effects/01-N1EM3jRyT8PCG1Py.htm)||`@Compendium[pf2e.spell-effects.N1EM3jRyT8PCG1Py]`|
 |[Spell Effect: Traveler's Transit (Fly)](spell-effects/05-cTBYHfiXDOA09G4b.htm)||`@Compendium[pf2e.spell-effects.cTBYHfiXDOA09G4b]`|
 |[Spell Effect: Traveler's Transit (Swim)](spell-effects/01-0R42NyuEZMVALjQs.htm)||`@Compendium[pf2e.spell-effects.0R42NyuEZMVALjQs]`|
+|[Spell Effect: Vision of Weakness](spell-effects/02-70qdCBokXBvKIUIQ.htm)||`@Compendium[pf2e.spell-effects.70qdCBokXBvKIUIQ]`|
 |[Spell Effect: Weapon Surge](spell-effects/01-qlz0sJIvqc0FdUdr.htm)||`@Compendium[pf2e.spell-effects.qlz0sJIvqc0FdUdr]`|
 |[Spell Effect: Weapon Surge (Major Striking)](spell-effects/01-W0PjCMyGOpKAuyKX.htm)||`@Compendium[pf2e.spell-effects.W0PjCMyGOpKAuyKX]`|
 |[Spell Effect: Wild Morph (Wild Claws)](spell-effects/01-Tdcv2q9zlXZBZRMT.htm)||`@Compendium[pf2e.spell-effects.Tdcv2q9zlXZBZRMT]`|
 |[Spell Effect: Wild Morph (Wild Jaws)](spell-effects/01-ND1Gfo1yJZ87Ia34.htm)||`@Compendium[pf2e.spell-effects.ND1Gfo1yJZ87Ia34]`|
 |[Spell Effect: Wild Morph (Wings)](spell-effects/01-hqe0hdGH1hvhcZyz.htm)||`@Compendium[pf2e.spell-effects.hqe0hdGH1hvhcZyz]`|
+|[Spell Effect: Wind Jump](spell-effects/05-5MI2c9IgxfSeGZQo.htm)||`@Compendium[pf2e.spell-effects.5MI2c9IgxfSeGZQo]`|
 
 
 ## Guide du MJ
@@ -5243,888 +5276,890 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
-|[Aberrant Whispers](spells/enc-03-qhJfRnkCRrMI4G1O.htm)|Murmures aberrants|`@Compendium[pf2e.spells-srd.qhJfRnkCRrMI4G1O]`|
-|[Abundant Step](spells/con-04-Az3PmWnlWSb5ELX9.htm)|Pas chassé|`@Compendium[pf2e.spells-srd.Az3PmWnlWSb5ELX9]`|
-|[Abyssal Pact](spells/con-01-tsKnoBuBbKMXkiz5.htm)|Pacte abyssal|`@Compendium[pf2e.spells-srd.tsKnoBuBbKMXkiz5]`|
-|[Abyssal Plague](spells/nec-05-vJuaxTd6q11OjGqA.htm)|Peste abyssale|`@Compendium[pf2e.spells-srd.vJuaxTd6q11OjGqA]`|
-|[Abyssal Wrath](spells/evo-05-crF4g9jRN1y84MSD.htm)|Colère abyssale|`@Compendium[pf2e.spells-srd.crF4g9jRN1y84MSD]`|
-|[Access Lore](spells/div-03-LbPLNWlLCxKCo5gF.htm)|Accès à la connaissance|`@Compendium[pf2e.spells-srd.LbPLNWlLCxKCo5gF]`|
-|[Achaekek's Clutch](spells/abj-04-IT1aaqDBAISlHDUV.htm)|Étreinte d'Achaékek|`@Compendium[pf2e.spells-srd.IT1aaqDBAISlHDUV]`|
-|[Acid Arrow](spells/evo-02-f8hRqLJaxBVhF1u0.htm)|Flèche acide|`@Compendium[pf2e.spells-srd.f8hRqLJaxBVhF1u0]`|
-|[Acid Splash](spells/evo-00-gISYsBFby1TiXfBt.htm)|Aspersion d’acide|`@Compendium[pf2e.spells-srd.gISYsBFby1TiXfBt]`|
-|[Acid Storm](spells/evo-05-ZW8ovbu1etdfMre3.htm)|Tempête d'acide|`@Compendium[pf2e.spells-srd.ZW8ovbu1etdfMre3]`|
-|[Acidic Burst](spells/evo-01-rnNGALRtsjspFTws.htm)|Explosion d'acide|`@Compendium[pf2e.spells-srd.rnNGALRtsjspFTws]`|
-|[Adapt Self](spells/trs-01-GUnw9YXaW3YyaCAU.htm)|Adaptation de soi|`@Compendium[pf2e.spells-srd.GUnw9YXaW3YyaCAU]`|
-|[Adaptive Ablation](spells/abj-04-GoKkejPj5yWJPIPK.htm)|Ablation adaptative|`@Compendium[pf2e.spells-srd.GoKkejPj5yWJPIPK]`|
-|[Admonishing Ray](spells/nec-01-uToa7ksKAzmEpkKC.htm)|Rayon d'admonestation|`@Compendium[pf2e.spells-srd.uToa7ksKAzmEpkKC]`|
-|[Aerial Form](spells/trs-04-NzXpEzcZAjuDTZjK.htm)|Forme aérienne|`@Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]`|
-|[Agile Feet](spells/trs-01-cOjlzWerBwbPWVkX.htm)|Pieds Agiles|`@Compendium[pf2e.spells-srd.cOjlzWerBwbPWVkX]`|
-|[Agitate](spells/enc-01-r8g7oSumKOHDqJsd.htm)|Agitation|`@Compendium[pf2e.spells-srd.r8g7oSumKOHDqJsd]`|
-|[Agonizing Despair](spells/enc-03-nplNt08TvokZUxtR.htm)|Désespoir agonisant|`@Compendium[pf2e.spells-srd.nplNt08TvokZUxtR]`|
-|[Air Bubble](spells/con-01-W69zswpj0Trdy5rj.htm)|Bulle d'air|`@Compendium[pf2e.spells-srd.W69zswpj0Trdy5rj]`|
-|[Air Walk](spells/trs-04-b5sGjGlBf58f8jn0.htm)|Marche dans les airs|`@Compendium[pf2e.spells-srd.b5sGjGlBf58f8jn0]`|
-|[Alarm](spells/abj-01-4WAib3GichxLjp5p.htm)|Alarme|`@Compendium[pf2e.spells-srd.4WAib3GichxLjp5p]`|
-|[All is One, One is All](spells/nec-08-gtWxTfMbIN5RHQw6.htm)|Un est tout, tout est un|`@Compendium[pf2e.spells-srd.gtWxTfMbIN5RHQw6]`|
-|[Allegro](spells/enc-00-IQchIYUwbsVTa9Mc.htm)|Allégro|`@Compendium[pf2e.spells-srd.IQchIYUwbsVTa9Mc]`|
-|[Alter Reality](spells/div-10-h8zxY9hTeHtWsBVW.htm)|Altérer la réalité|`@Compendium[pf2e.spells-srd.h8zxY9hTeHtWsBVW]`|
-|[Anathematic Reprisal](spells/enc-04-7tR29sQt35NfIWqN.htm)|Anathème et représailles|`@Compendium[pf2e.spells-srd.7tR29sQt35NfIWqN]`|
-|[Ancestral Defense](spells/abj-03-J5KrjQKCg2PrF1vz.htm)|Défense ancestrale|`@Compendium[pf2e.spells-srd.J5KrjQKCg2PrF1vz]`|
-|[Ancestral Form](spells/trs-06-xEjGEBvTfDJECSki.htm)|Forme ancestrale|`@Compendium[pf2e.spells-srd.xEjGEBvTfDJECSki]`|
-|[Ancestral Memories](spells/div-01-dtOUkMC57izf93z5.htm)|Souvenirs ancestraux|`@Compendium[pf2e.spells-srd.dtOUkMC57izf93z5]`|
-|[Ancestral Touch](spells/enc-01-d2pi7laQkzlr3wrS.htm)|Toucher ancestral|`@Compendium[pf2e.spells-srd.d2pi7laQkzlr3wrS]`|
-|[Angelic Halo](spells/abj-01-w3uGXDVEdbLFZVO0.htm)|Halo angélique|`@Compendium[pf2e.spells-srd.w3uGXDVEdbLFZVO0]`|
-|[Angelic Messenger](spells/con-01-joEruBVz31Uxczzq.htm)|Messager angélique|`@Compendium[pf2e.spells-srd.joEruBVz31Uxczzq]`|
-|[Angelic Wings](spells/evo-03-kRsmUlSWhi6PJvZ7.htm)|Ailes d'ange|`@Compendium[pf2e.spells-srd.kRsmUlSWhi6PJvZ7]`|
-|[Anima Invocation (Modified)](spells/abj-10-X0t0gr7S7CeCt2Q5.htm)|Invocation d'anima (Modifiée)|`@Compendium[pf2e.spells-srd.X0t0gr7S7CeCt2Q5]`|
-|[Animal Feature](spells/trs-02-vGEgI8e7AW6FQ3tP.htm)|Trait animal|`@Compendium[pf2e.spells-srd.vGEgI8e7AW6FQ3tP]`|
-|[Animal Form](spells/trs-02-wp09USMB3GIW1qbp.htm)|Forme animale|`@Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]`|
-|[Animal Messenger](spells/enc-02-yhz9fF69uwRhnHix.htm)|Messager animal|`@Compendium[pf2e.spells-srd.yhz9fF69uwRhnHix]`|
-|[Animal Vision](spells/div-03-1HfusQ8NDWutGvMx.htm)|Vision animale|`@Compendium[pf2e.spells-srd.1HfusQ8NDWutGvMx]`|
-|[Animate Dead](spells/nec-01-9WGeBwIIbbUuWKq0.htm)|Animation des morts|`@Compendium[pf2e.spells-srd.9WGeBwIIbbUuWKq0]`|
-|[Animate Object](spells/trs-02-sLzPzk7DJnfuORJ0.htm)|Animation d'objet|`@Compendium[pf2e.spells-srd.sLzPzk7DJnfuORJ0]`|
-|[Animate Rope](spells/trs-01-rVANhQgB8Uqi9PTl.htm)|Animation de corde|`@Compendium[pf2e.spells-srd.rVANhQgB8Uqi9PTl]`|
-|[Animated Assault](spells/evo-02-WqPhJNzLa8vSjrH6.htm)|Assaut animé|`@Compendium[pf2e.spells-srd.WqPhJNzLa8vSjrH6]`|
-|[Animus Mine](spells/abj-02-fWU7Qjp1JiX9g6eg.htm)|Mine psychique|`@Compendium[pf2e.spells-srd.fWU7Qjp1JiX9g6eg]`|
-|[Ant Haul](spells/trs-01-X9dkmh23lFwMjrYd.htm)|Charge de fourmi|`@Compendium[pf2e.spells-srd.X9dkmh23lFwMjrYd]`|
-|[Anticipate Peril](spells/div-01-EUMjrJJwSgsqNidi.htm)|Anticipation du danger|`@Compendium[pf2e.spells-srd.EUMjrJJwSgsqNidi]`|
-|[Antimagic Field](spells/abj-08-My7FvAoLYgGDDBzy.htm)|Champ d'antimagie|`@Compendium[pf2e.spells-srd.My7FvAoLYgGDDBzy]`|
-|[Apex Companion](spells/trs-10-qqQYrXaRJXr7uc4i.htm)|Compagnon alpha|`@Compendium[pf2e.spells-srd.qqQYrXaRJXr7uc4i]`|
-|[Appearance of Wealth](spells/ill-01-ZeftDoh0nFAXBAWY.htm)|Richesse apparente|`@Compendium[pf2e.spells-srd.ZeftDoh0nFAXBAWY]`|
-|[Aqueous Orb](spells/con-03-oUDNCArkQTdhllxD.htm)|Orbe aqueuse|`@Compendium[pf2e.spells-srd.oUDNCArkQTdhllxD]`|
-|[Arcane Countermeasure](spells/abj-05-h47yv6j6x1pUtzlr.htm)|Contre-mesure arcanique|`@Compendium[pf2e.spells-srd.h47yv6j6x1pUtzlr]`|
-|[Armor of Bones](spells/nec-03-pSNLufPPsReKQtJR.htm)|Armure d'os|`@Compendium[pf2e.spells-srd.pSNLufPPsReKQtJR]`|
-|[Aromatic Lure](spells/enc-04-LX4pCagYLpc9hEji.htm)|Leurre aromatique|`@Compendium[pf2e.spells-srd.LX4pCagYLpc9hEji]`|
-|[Artistic Flourish](spells/trs-04-eb4FXf62NYArTqek.htm)|Fioritures artistiques|`@Compendium[pf2e.spells-srd.eb4FXf62NYArTqek]`|
-|[Asterism](spells/evo-04-KG7amdeXWc7MjGXe.htm)|Étoile|`@Compendium[pf2e.spells-srd.KG7amdeXWc7MjGXe]`|
-|[Astral Labyrinth](spells/abj-09-BI4iwu3nApyIG0zY.htm)|Labyrinthe astral|`@Compendium[pf2e.spells-srd.BI4iwu3nApyIG0zY]`|
-|[Astral Projection](spells/div-05-4Cntq9odgW6xMpAs.htm)|Projection astrale|`@Compendium[pf2e.spells-srd.4Cntq9odgW6xMpAs]`|
-|[Athletic Rush](spells/trs-01-UGJzJRJDoonfWqqI.htm)|Athlétisme poussé|`@Compendium[pf2e.spells-srd.UGJzJRJDoonfWqqI]`|
-|[Atone](spells/abj-04-7Fd4lxozd11MQ55N.htm)|Pénitence|`@Compendium[pf2e.spells-srd.7Fd4lxozd11MQ55N]`|
-|[Augment Summoning](spells/con-01-tWzxuJdbXqvskdIo.htm)|Convocation améliorée|`@Compendium[pf2e.spells-srd.tWzxuJdbXqvskdIo]`|
-|[Augury](spells/div-02-41TZEjhO6D1nWw2X.htm)|Augure|`@Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]`|
-|[Avatar](spells/trs-10-ckUOoqOM7Kg7VqxB.htm)|Avatar|`@Compendium[pf2e.spells-srd.ckUOoqOM7Kg7VqxB]`|
-|[Awaken Animal](spells/div-06-B4dDkYsHFo1H0CIF.htm)|Éveil d’animal|`@Compendium[pf2e.spells-srd.B4dDkYsHFo1H0CIF]`|
-|[Awaken Portal](spells/con-03-AkF4yFcSCdhoULyZ.htm)|Éveiller un portail|`@Compendium[pf2e.spells-srd.AkF4yFcSCdhoULyZ]`|
-|[Baleful Polymorph](spells/trs-06-dN8QBNuTiaBHCKUe.htm)|Métamorphose funeste|`@Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]`|
-|[Bane](spells/enc-01-7ZinJNzxq0XF0oMx.htm)|Imprécation|`@Compendium[pf2e.spells-srd.7ZinJNzxq0XF0oMx]`|
-|[Banishment](spells/abj-05-bay4AfSu2iIozNNW.htm)|Bannissement|`@Compendium[pf2e.spells-srd.bay4AfSu2iIozNNW]`|
-|[Barkskin](spells/abj-02-YWrfKetOqDwVFut7.htm)|Peau d'écorce|`@Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]`|
-|[Battlefield Persistence](spells/div-03-2jWVNdVlbJq84dfT.htm)|Persévérance sur le champ de bataille|`@Compendium[pf2e.spells-srd.2jWVNdVlbJq84dfT]`|
-|[Beastmaster Trance](spells/div-03-5WM3WjshXgrkVCg6.htm)|Transe du Maître des bêtes|`@Compendium[pf2e.spells-srd.5WM3WjshXgrkVCg6]`|
-|[Befuddle](spells/enc-01-pBevG6bSQOiyflev.htm)|Embrouiller|`@Compendium[pf2e.spells-srd.pBevG6bSQOiyflev]`|
-|[Bestial Curse](spells/trs-04-VuPDHoVEPLbMfCJC.htm)|Malédiction bestiale|`@Compendium[pf2e.spells-srd.VuPDHoVEPLbMfCJC]`|
-|[Bind Soul](spells/nec-09-GYmXvS9NJ7QwfWGg.htm)|Âme prisonnière|`@Compendium[pf2e.spells-srd.GYmXvS9NJ7QwfWGg]`|
-|[Bind Undead](spells/nec-03-GUeRTriJkMlMlVrk.htm)|Lier un mort-vivant|`@Compendium[pf2e.spells-srd.GUeRTriJkMlMlVrk]`|
-|[Bit of Luck](spells/div-01-Fr2CGvWcgSyLcUi7.htm)|Un peu de chance|`@Compendium[pf2e.spells-srd.Fr2CGvWcgSyLcUi7]`|
-|[Black Tentacles](spells/con-05-2w4OpAGihn1JSHFD.htm)|Tentacules noirs|`@Compendium[pf2e.spells-srd.2w4OpAGihn1JSHFD]`|
-|[Blade Barrier](spells/evo-06-peCF6VArm8urfwxZ.htm)|Barrière de lames|`@Compendium[pf2e.spells-srd.peCF6VArm8urfwxZ]`|
-|[Blanket Of Stars](spells/ill-06-m34WOIGZCEg1h76G.htm)|Couverture d'étoiles|`@Compendium[pf2e.spells-srd.m34WOIGZCEg1h76G]`|
-|[Bless](spells/enc-01-XSujb7EsSwKl19Uu.htm)|Bénédiction|`@Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]`|
-|[Blight](spells/nec-04-7yWXx3qC4eFNHhxD.htm)|Flétrissement végétal|`@Compendium[pf2e.spells-srd.7yWXx3qC4eFNHhxD]`|
-|[Blightburn Blast](spells/evo-07-EgkypvUZIZkx1UlQ.htm)|Explosion de fléau brûlant|`@Compendium[pf2e.spells-srd.EgkypvUZIZkx1UlQ]`|
-|[Blind Ambition](spells/enc-01-Dj44lViYKvOJ8a53.htm)|Ambition aveugle|`@Compendium[pf2e.spells-srd.Dj44lViYKvOJ8a53]`|
-|[Blinding Beauty](spells/enc-03-Q56HLIHVKY6bC5W3.htm)|Beauté aveuglante|`@Compendium[pf2e.spells-srd.Q56HLIHVKY6bC5W3]`|
-|[Blinding Fury](spells/enc-06-NhGXgmI3AjkkwnPk.htm)|Furie aveuglante|`@Compendium[pf2e.spells-srd.NhGXgmI3AjkkwnPk]`|
-|[Blindness](spells/nec-03-VosLNn2M8S7JH67D.htm)|Cécité|`@Compendium[pf2e.spells-srd.VosLNn2M8S7JH67D]`|
-|[Blink](spells/con-04-zR67Rt3UMHKC5evy.htm)|Clignotement|`@Compendium[pf2e.spells-srd.zR67Rt3UMHKC5evy]`|
-|[Blister](spells/nec-05-59NR1hA2jPSgg2sW.htm)|Enveloppe|`@Compendium[pf2e.spells-srd.59NR1hA2jPSgg2sW]`|
-|[Blistering Invective](spells/enc-02-hoR6w8BqX2F35Tdx.htm)|Invective torrides|`@Compendium[pf2e.spells-srd.hoR6w8BqX2F35Tdx]`|
-|[Blood Feast](spells/nec-05-ES6FkwXXqYr4ujQH.htm)|Festin de sang|`@Compendium[pf2e.spells-srd.ES6FkwXXqYr4ujQH]`|
-|[Blood Vendetta](spells/nec-02-TaaMEYdZXQXF0Sks.htm)|Vendetta du sang|`@Compendium[pf2e.spells-srd.TaaMEYdZXQXF0Sks]`|
-|[Blood Ward](spells/abj-01-dFejDNEmVj3CwYLL.htm)|Protection du sang|`@Compendium[pf2e.spells-srd.dFejDNEmVj3CwYLL]`|
-|[Blur](spells/ill-02-3JG1t3T4mWn6vTke.htm)|Flou|`@Compendium[pf2e.spells-srd.3JG1t3T4mWn6vTke]`|
-|[Bottle the Storm](spells/evo-04-VUwpDY4Z91s9QCg0.htm)|Tempête en bouteille|`@Compendium[pf2e.spells-srd.VUwpDY4Z91s9QCg0]`|
-|[Brain Drain](spells/enc-01-k2QrUk7jWMAWozMh.htm)|Drain du cerveau|`@Compendium[pf2e.spells-srd.k2QrUk7jWMAWozMh]`|
-|[Brand the Impenitent](spells/abj-02-Y8cSjhU33oUqccxJ.htm)|Marquer l'impénitent|`@Compendium[pf2e.spells-srd.Y8cSjhU33oUqccxJ]`|
-|[Breath of Drought](spells/evo-02-Wt94cw03L77sbud7.htm)|Souffle de sécheresse|`@Compendium[pf2e.spells-srd.Wt94cw03L77sbud7]`|
-|[Breath of Life](spells/nec-05-Hnc7eGi7vyZenAIm.htm)|Souffle de vie|`@Compendium[pf2e.spells-srd.Hnc7eGi7vyZenAIm]`|
-|[Burning Hands](spells/evo-01-y6rAdMK6EFlV6U0t.htm)|Mains brûlantes|`@Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]`|
-|[Cackle](spells/enc-01-YVK3JUkPVzHIeGXQ.htm)|Gloussement|`@Compendium[pf2e.spells-srd.YVK3JUkPVzHIeGXQ]`|
-|[Call Spirit](spells/nec-05-gsYEuWv04XTDxe91.htm)|Appel d'un esprit|`@Compendium[pf2e.spells-srd.gsYEuWv04XTDxe91]`|
-|[Call The Blood](spells/nec-04-S1Msrwi990FE7uMO.htm)||`@Compendium[pf2e.spells-srd.S1Msrwi990FE7uMO]`|
-|[Call of the Grave](spells/nec-01-BH3sUerzMb2bWnv1.htm)|Appel de la tombe|`@Compendium[pf2e.spells-srd.BH3sUerzMb2bWnv1]`|
-|[Call to Arms](spells/enc-01-dqaCLzINHBiKjh4J.htm)|Appel aux armes|`@Compendium[pf2e.spells-srd.dqaCLzINHBiKjh4J]`|
-|[Calm Emotions](spells/enc-02-b515AZlB0sridKSq.htm)|Apaisement des émotions|`@Compendium[pf2e.spells-srd.b515AZlB0sridKSq]`|
-|[Captivating Adoration](spells/enc-04-jJphHQlENHFlSElH.htm)|Adoration captivante|`@Compendium[pf2e.spells-srd.jJphHQlENHFlSElH]`|
-|[Cataclysm](spells/evo-10-wLIvH0AT1u7oa64N.htm)|Cataclysme|`@Compendium[pf2e.spells-srd.wLIvH0AT1u7oa64N]`|
-|[Celestial Brand](spells/nec-05-9WlTR9JlEcjRmGiD.htm)|Marque céleste|`@Compendium[pf2e.spells-srd.9WlTR9JlEcjRmGiD]`|
-|[Chain Lightning](spells/evo-06-TDNlDWbYb58Y55Da.htm)|Éclairs multiples|`@Compendium[pf2e.spells-srd.TDNlDWbYb58Y55Da]`|
-|[Chameleon Coat](spells/ill-05-xPrbxyOEwy9QaPVn.htm)|Couverture caméléon|`@Compendium[pf2e.spells-srd.xPrbxyOEwy9QaPVn]`|
-|[Champion's Sacrifice](spells/abj-06-USM530HlzZ1RMd99.htm)|Sacrifice du Champion|`@Compendium[pf2e.spells-srd.USM530HlzZ1RMd99]`|
-|[Charged Javelin](spells/evo-01-g1eY1vN44mgluE33.htm)|Javelot chagé|`@Compendium[pf2e.spells-srd.g1eY1vN44mgluE33]`|
-|[Charitable Urge](spells/enc-02-UirEIHILQgip87qv.htm)|Désir Charitable|`@Compendium[pf2e.spells-srd.UirEIHILQgip87qv]`|
-|[Charm](spells/enc-01-vLA0q0WOK2YPuJs6.htm)|Charme|`@Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]`|
-|[Charming Touch](spells/enc-01-ut9IhJ9jSZSHDUop.htm)|Contact charmeur|`@Compendium[pf2e.spells-srd.ut9IhJ9jSZSHDUop]`|
-|[Charming Words](spells/enc-01-KMFRKzNCq7hVNH7H.htm)|Paroles charmeuses|`@Compendium[pf2e.spells-srd.KMFRKzNCq7hVNH7H]`|
-|[Chill Touch](spells/nec-00-mAMEt4FFbdqoRnkN.htm)|Contact glacial|`@Compendium[pf2e.spells-srd.mAMEt4FFbdqoRnkN]`|
-|[Chilling Darkness](spells/evo-03-sRfSBHWHdbIa0aGc.htm)|Ténèbres glaciales|`@Compendium[pf2e.spells-srd.sRfSBHWHdbIa0aGc]`|
-|[Chilling Spray](spells/evo-01-8TQiFzGf4feoHeH0.htm)|Aspersion de froid|`@Compendium[pf2e.spells-srd.8TQiFzGf4feoHeH0]`|
-|[Chroma Leach](spells/nec-04-4y2DMq9DV5HvmnxC.htm)|Filtrer les couleurs|`@Compendium[pf2e.spells-srd.4y2DMq9DV5HvmnxC]`|
-|[Chromatic Wall](spells/abj-05-forsqeofEszBNtLq.htm)|Mur chromatique|`@Compendium[pf2e.spells-srd.forsqeofEszBNtLq]`|
-|[Circle of Protection](spells/abj-03-mpGCMTldMVa0pWYs.htm)|Cercle de protection|`@Compendium[pf2e.spells-srd.mpGCMTldMVa0pWYs]`|
-|[Claim Undead](spells/nec-06-GzN9bG6cKZ96YC6l.htm)|Réclamer un mort-vivant|`@Compendium[pf2e.spells-srd.GzN9bG6cKZ96YC6l]`|
-|[Clairaudience](spells/div-03-HXhWYJviWalN5tQ2.htm)|Clairaudience|`@Compendium[pf2e.spells-srd.HXhWYJviWalN5tQ2]`|
-|[Clairvoyance](spells/div-04-zvKWclOZ7A53DObE.htm)|Clairvoyance|`@Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]`|
-|[Clinging Ice](spells/con-00-MraZBLJ4Be3ogmWL.htm)|Glace tenace|`@Compendium[pf2e.spells-srd.MraZBLJ4Be3ogmWL]`|
-|[Clinging Shadows Stance](spells/evo-04-uJXs4M6IeixfPBLc.htm)|Posture des ombres tenaces|`@Compendium[pf2e.spells-srd.uJXs4M6IeixfPBLc]`|
-|[Cloak of Colors](spells/ill-05-TCk2MDwf5L5OYjFC.htm)|Cape colorée|`@Compendium[pf2e.spells-srd.TCk2MDwf5L5OYjFC]`|
-|[Cloak of Shadow](spells/evo-01-SE0fbgBj7atuukdv.htm)|Manteau d'ombre|`@Compendium[pf2e.spells-srd.SE0fbgBj7atuukdv]`|
-|[Clone](spells/nec-09-pZr1xrCpaSu6qrXU.htm)|Clone|`@Compendium[pf2e.spells-srd.pZr1xrCpaSu6qrXU]`|
-|[Cloudkill](spells/nec-05-MlpbeZ61Euhl0d60.htm)|Nuage mortel|`@Compendium[pf2e.spells-srd.MlpbeZ61Euhl0d60]`|
-|[Clownish Curse](spells/enc-04-S7ylpCJyq0CYkux9.htm)|Malédiction clownesque|`@Compendium[pf2e.spells-srd.S7ylpCJyq0CYkux9]`|
-|[Collective Transposition](spells/con-06-c3XygMbzrZMgV1y3.htm)|Transposition collective|`@Compendium[pf2e.spells-srd.c3XygMbzrZMgV1y3]`|
-|[Color Spray](spells/ill-01-UKsIOWmMx4hSpafl.htm)|Couleurs dansantes|`@Compendium[pf2e.spells-srd.UKsIOWmMx4hSpafl]`|
-|[Command](spells/enc-01-aIHY2DArKFweIrpf.htm)|Injonction|`@Compendium[pf2e.spells-srd.aIHY2DArKFweIrpf]`|
-|[Commanding Lash](spells/enc-04-4DaHIgtMBTyxebY3.htm)|Fouet du maître|`@Compendium[pf2e.spells-srd.4DaHIgtMBTyxebY3]`|
-|[Commune](spells/div-06-7DN13ILADW2N9Z1t.htm)|Communion|`@Compendium[pf2e.spells-srd.7DN13ILADW2N9Z1t]`|
-|[Commune with Nature](spells/div-06-l4LFwY7iuzX6sDXr.htm)|Communion avec la nature|`@Compendium[pf2e.spells-srd.l4LFwY7iuzX6sDXr]`|
-|[Competitive Edge](spells/enc-04-NOB92Wpn7jXvtyVW.htm)|Avantage du compétiteur|`@Compendium[pf2e.spells-srd.NOB92Wpn7jXvtyVW]`|
-|[Comprehend Language](spells/div-02-vTQvfYu2llKQedmY.htm)|Compréhension des langues|`@Compendium[pf2e.spells-srd.vTQvfYu2llKQedmY]`|
-|[Cone of Cold](spells/evo-05-3puDanGfpEt6jK5k.htm)|Cône de froid|`@Compendium[pf2e.spells-srd.3puDanGfpEt6jK5k]`|
-|[Confusion](spells/enc-04-LiGbewa9pO0yjbsY.htm)|Confusion|`@Compendium[pf2e.spells-srd.LiGbewa9pO0yjbsY]`|
-|[Consecrate](spells/evo-02-Dbd5W6G8U2vzWolN.htm)|consécration|`@Compendium[pf2e.spells-srd.Dbd5W6G8U2vzWolN]`|
-|[Consuming Darkness](spells/evo-05-HMTloW1hvRFJ5Z2D.htm)|Obscurité dévorante|`@Compendium[pf2e.spells-srd.HMTloW1hvRFJ5Z2D]`|
-|[Contingency](spells/abj-07-WG91Z5TiR6oO5FOw.htm)|Contingence|`@Compendium[pf2e.spells-srd.WG91Z5TiR6oO5FOw]`|
-|[Continual Flame](spells/evo-02-ynm8JIU3sc3qUMpa.htm)|Flamme éternelle|`@Compendium[pf2e.spells-srd.ynm8JIU3sc3qUMpa]`|
-|[Control Sand](spells/evo-07-oahqARSgOGDRybBQ.htm)|Contrôle du sable|`@Compendium[pf2e.spells-srd.oahqARSgOGDRybBQ]`|
-|[Control Water](spells/evo-05-zfn5RqAdF63neqpP.htm)|Contrôle de l'eau|`@Compendium[pf2e.spells-srd.zfn5RqAdF63neqpP]`|
-|[Control Weather](spells/evo-08-XkDCzMIyc0YOjw05.htm)|Contrôle du climat|`@Compendium[pf2e.spells-srd.XkDCzMIyc0YOjw05]`|
-|[Counter Performance](spells/enc-01-WILXkjU5Yq3yw10r.htm)|Contre-représentation|`@Compendium[pf2e.spells-srd.WILXkjU5Yq3yw10r]`|
-|[Countless Eyes](spells/div-04-ykyKclKTCMp2SFXa.htm)|Yeux innombrables|`@Compendium[pf2e.spells-srd.ykyKclKTCMp2SFXa]`|
-|[Cozy Cabin](spells/con-03-mwPfoYfVGSMAaUec.htm)|Cabine douillette|`@Compendium[pf2e.spells-srd.mwPfoYfVGSMAaUec]`|
-|[Crashing Wave](spells/evo-03-T4QKmtYPeCgYxVGe.htm)|Vague écrasante|`@Compendium[pf2e.spells-srd.T4QKmtYPeCgYxVGe]`|
-|[Create Demiplane](spells/con-08-ZwwIUavMbEwcZz35.htm)|Création de demi-plan|`@Compendium[pf2e.spells-srd.ZwwIUavMbEwcZz35]`|
-|[Create Food](spells/con-02-Mt6ZzkVX8Q4xigFq.htm)|Création de nourriture|`@Compendium[pf2e.spells-srd.Mt6ZzkVX8Q4xigFq]`|
-|[Create Skinstitch](spells/trs-06-NCUXsaj2yFxOVhrK.htm)|Création de chose de peaux recousues|`@Compendium[pf2e.spells-srd.NCUXsaj2yFxOVhrK]`|
-|[Create Undead](spells/nec-02-c3b6LdLlQDPngNIb.htm)|Création de mort-vivant|`@Compendium[pf2e.spells-srd.c3b6LdLlQDPngNIb]`|
-|[Create Water](spells/con-01-WzLKjSw6hsBhuklC.htm)|Création d'eau|`@Compendium[pf2e.spells-srd.WzLKjSw6hsBhuklC]`|
-|[Creation](spells/con-04-TUj8eugNqAvB1vVR.htm)|Création|`@Compendium[pf2e.spells-srd.TUj8eugNqAvB1vVR]`|
-|[Crisis of Faith](spells/enc-03-3x6eUCm17n6ROzUa.htm)|Manque de foi|`@Compendium[pf2e.spells-srd.3x6eUCm17n6ROzUa]`|
-|[Crusade](spells/enc-09-xFY9RtDE4DQKlWNR.htm)|Croisade|`@Compendium[pf2e.spells-srd.xFY9RtDE4DQKlWNR]`|
-|[Crushing Despair](spells/enc-05-GaRQlC9Yw1BGKHfN.htm)|Désespoir foudroyant|`@Compendium[pf2e.spells-srd.GaRQlC9Yw1BGKHfN]`|
-|[Cry of Destruction](spells/evo-01-0H1ozccQGGFLUwFI.htm)|Cri de destruction|`@Compendium[pf2e.spells-srd.0H1ozccQGGFLUwFI]`|
-|[Cup of Dust](spells/nec-03-10siFBMF4pIDhVmf.htm)|Tasse de poussière|`@Compendium[pf2e.spells-srd.10siFBMF4pIDhVmf]`|
-|[Curse Of Lost Time](spells/trs-03-B3eLlbaPxOYHcs1o.htm)|Malédiction du temps perdu|`@Compendium[pf2e.spells-srd.B3eLlbaPxOYHcs1o]`|
-|[Curse of Death](spells/nec-05-nQS4vPm5zprqkzFZ.htm)|Malédiction de mort|`@Compendium[pf2e.spells-srd.nQS4vPm5zprqkzFZ]`|
-|[Daemonic Pact](spells/con-01-Vpohy4XH1DaH95hT.htm)|Pacte daémoniaque|`@Compendium[pf2e.spells-srd.Vpohy4XH1DaH95hT]`|
-|[Dance of Darkness](spells/evo-05-9BGEf9Sv5rgNBCk0.htm)|Danse de ténèbre|`@Compendium[pf2e.spells-srd.9BGEf9Sv5rgNBCk0]`|
-|[Dancing Lights](spells/evo-00-kl2q6JvBZwed4B6v.htm)|Lumières dansantes|`@Compendium[pf2e.spells-srd.kl2q6JvBZwed4B6v]`|
-|[Darkened Eyes](spells/trs-04-oiUhJbJ3YCKF62Fu.htm)|Assombrir le regard|`@Compendium[pf2e.spells-srd.oiUhJbJ3YCKF62Fu]`|
-|[Darkness](spells/evo-02-4GE2ZdODgIQtg51c.htm)|Ténèbres|`@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]`|
-|[Darkvision](spells/div-02-pZTqGY1MLRjgKasV.htm)|Vision dans le noir|`@Compendium[pf2e.spells-srd.pZTqGY1MLRjgKasV]`|
-|[Daydreamer's Curse](spells/enc-04-dARE6VfJ3Uoq5M53.htm)|Malédiction du rêveur éveillé|`@Compendium[pf2e.spells-srd.dARE6VfJ3Uoq5M53]`|
-|[Daze](spells/enc-00-4gBIw4IDrSfFHik4.htm)|Hébétement|`@Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]`|
-|[Dazzling Flash](spells/evo-01-zul5cBTfr7NXHBZf.htm)|Éclair éblouissant|`@Compendium[pf2e.spells-srd.zul5cBTfr7NXHBZf]`|
-|[Deafness](spells/nec-02-fZPCv2VHuM2yPbC8.htm)|Surdité|`@Compendium[pf2e.spells-srd.fZPCv2VHuM2yPbC8]`|
-|[Death Knell](spells/nec-02-dLdRqT6UxTKlsPgp.htm)|Mise à mort|`@Compendium[pf2e.spells-srd.dLdRqT6UxTKlsPgp]`|
-|[Death Ward](spells/abj-05-YvXKGlHOt7mdW2jZ.htm)|Protection contre la mort|`@Compendium[pf2e.spells-srd.YvXKGlHOt7mdW2jZ]`|
-|[Death's Call](spells/nec-01-HG4afO9EOGEU9bZN.htm)|Appel de la mort|`@Compendium[pf2e.spells-srd.HG4afO9EOGEU9bZN]`|
-|[Debilitating Dichotomy](spells/evo-04-VmqdVWCb8zAUCW8S.htm)|Dichotomie débilitante|`@Compendium[pf2e.spells-srd.VmqdVWCb8zAUCW8S]`|
-|[Deceiver's Cloak](spells/ill-03-FrKPwgFxWIGMGgs4.htm)|Cape de tromperie|`@Compendium[pf2e.spells-srd.FrKPwgFxWIGMGgs4]`|
-|[Delay Affliction](spells/nec-03-ziHDISWkFSwz3pmn.htm)|Retarder l'affliction|`@Compendium[pf2e.spells-srd.ziHDISWkFSwz3pmn]`|
-|[Delay Consequence](spells/abj-01-3wmX7htzOXiHLdAn.htm)|Retarder les conséquences|`@Compendium[pf2e.spells-srd.3wmX7htzOXiHLdAn]`|
-|[Deluge](spells/evo-08-8fEfjvC01gNclDKJ.htm)|Déluge intense|`@Compendium[pf2e.spells-srd.8fEfjvC01gNclDKJ]`|
-|[Delusional Pride](spells/enc-04-J8pL8yTshga8QOk8.htm)|Fierté illusoire|`@Compendium[pf2e.spells-srd.J8pL8yTshga8QOk8]`|
-|[Destructive Aura](spells/evo-04-7d4DUTDIlzDa8OvX.htm)|Aura destructrice|`@Compendium[pf2e.spells-srd.7d4DUTDIlzDa8OvX]`|
-|[Detect Alignment](spells/div-01-QnTtGCAvdWRU4spv.htm)|Détection de l’alignement|`@Compendium[pf2e.spells-srd.QnTtGCAvdWRU4spv]`|
-|[Detect Magic](spells/div-00-gpzpAAAJ1Lza2JVl.htm)|Détection de la magie|`@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]`|
-|[Detect Poison](spells/div-01-QqxwHeYEVylkYjsO.htm)|Détection du poison|`@Compendium[pf2e.spells-srd.QqxwHeYEVylkYjsO]`|
-|[Detect Scrying](spells/div-04-AnWCohzPgK4L9GVl.htm)|Détection de la scrutation|`@Compendium[pf2e.spells-srd.AnWCohzPgK4L9GVl]`|
-|[Devour Life](spells/nec-08-PgLvO8UNHSj5f61m.htm)|Dévorer la vie|`@Compendium[pf2e.spells-srd.PgLvO8UNHSj5f61m]`|
-|[Diabolic Edict](spells/enc-01-Vctwx1ewa8HUOA94.htm)|Édit diabolique|`@Compendium[pf2e.spells-srd.Vctwx1ewa8HUOA94]`|
-|[Diamond Dust](spells/evo-04-wjJW9hWY5CkkMvY5.htm)|Poussière de diamant|`@Compendium[pf2e.spells-srd.wjJW9hWY5CkkMvY5]`|
-|[Dim the Light](spells/evo-01-6UafOE1ZUbHamsZJ.htm)|Diminuer la lumière|`@Compendium[pf2e.spells-srd.6UafOE1ZUbHamsZJ]`|
-|[Dimension Door](spells/con-04-VlNcjmYyu95vOUe8.htm)|Porte dimensionnelle|`@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]`|
-|[Dimensional Anchor](spells/abj-04-ksLCg62cLOojw3gN.htm)|Ancre dimensionnelle|`@Compendium[pf2e.spells-srd.ksLCg62cLOojw3gN]`|
-|[Dimensional Lock](spells/abj-07-XZE4BawIlTf88Yl9.htm)|Verrou dimensionnel|`@Compendium[pf2e.spells-srd.XZE4BawIlTf88Yl9]`|
-|[Dimensional Steps](spells/con-04-zjG6NncHyAKqSF7m.htm)|Pas interdimensionnel|`@Compendium[pf2e.spells-srd.zjG6NncHyAKqSF7m]`|
-|[Dinosaur Form](spells/trs-04-KhM8MhoUgoUjBMIz.htm)|Forme de dinosaure|`@Compendium[pf2e.spells-srd.KhM8MhoUgoUjBMIz]`|
-|[Dirge of Doom](spells/enc-00-1xLVcA8Y1onw7toT.htm)|Chant funeste|`@Compendium[pf2e.spells-srd.1xLVcA8Y1onw7toT]`|
-|[Disappearance](spells/ill-08-wfleiawxsfhpRRwf.htm)|Disparition|`@Compendium[pf2e.spells-srd.wfleiawxsfhpRRwf]`|
-|[Discern Lies](spells/div-04-uNsliWpl8Q1JdFcM.htm)|Détection du mensonge|`@Compendium[pf2e.spells-srd.uNsliWpl8Q1JdFcM]`|
-|[Discern Location](spells/div-08-CeSh8QcVnqP5OlLj.htm)|Localisation suprême|`@Compendium[pf2e.spells-srd.CeSh8QcVnqP5OlLj]`|
-|[Discern Secrets](spells/div-00-UmXhuKrYZR3W16mQ.htm)|Discerner les secrets|`@Compendium[pf2e.spells-srd.UmXhuKrYZR3W16mQ]`|
-|[Disintegrate](spells/evo-06-r7ihOgKv19eJQnik.htm)|Désintégration|`@Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]`|
-|[Disjunction](spells/abj-09-ihbRf964JDXztcy3.htm)|Disjonction|`@Compendium[pf2e.spells-srd.ihbRf964JDXztcy3]`|
-|[Dismantle](spells/trs-02-jW2asKFchuoxniSH.htm)|Démanteler|`@Compendium[pf2e.spells-srd.jW2asKFchuoxniSH]`|
-|[Dispel Magic](spells/abj-02-9HpwDN4MYQJnW0LG.htm)|Dissipation de la magie|`@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]`|
-|[Disperse into Air](spells/trs-04-L8pzCOi7Jzx5ALs9.htm)|Disparition dans les airs|`@Compendium[pf2e.spells-srd.L8pzCOi7Jzx5ALs9]`|
-|[Disrupt Undead](spells/nec-00-kcelf6IHl3L9VXXg.htm)|Destruction de mort-vivant|`@Compendium[pf2e.spells-srd.kcelf6IHl3L9VXXg]`|
-|[Disrupting Weapons](spells/nec-01-2iQKhCQBijhj5Rf3.htm)|Armes perturbatrices|`@Compendium[pf2e.spells-srd.2iQKhCQBijhj5Rf3]`|
-|[Div Pact](spells/con-01-D8cWhrzcsd43OlIX.htm)||`@Compendium[pf2e.spells-srd.D8cWhrzcsd43OlIX]`|
-|[Divine Aura](spells/abj-08-nsQvjNyg4Whw2mek.htm)|Aura divine|`@Compendium[pf2e.spells-srd.nsQvjNyg4Whw2mek]`|
-|[Divine Decree](spells/evo-07-sX2o0HH4RjJDAZ8C.htm)|Décret divin|`@Compendium[pf2e.spells-srd.sX2o0HH4RjJDAZ8C]`|
-|[Divine Inspiration](spells/enc-08-KtTGLbLG9nqMbUYL.htm)|Inspiration divine|`@Compendium[pf2e.spells-srd.KtTGLbLG9nqMbUYL]`|
-|[Divine Lance](spells/evo-00-qwZBXN6zBoB9BHXE.htm)|Lance divine|`@Compendium[pf2e.spells-srd.qwZBXN6zBoB9BHXE]`|
-|[Divine Plagues](spells/nec-01-NkeLctXo9FLGnDhi.htm)|Plaies divines|`@Compendium[pf2e.spells-srd.NkeLctXo9FLGnDhi]`|
-|[Divine Vessel](spells/trs-07-hiVL8qsnTJtpouw0.htm)|Réceptacle divin|`@Compendium[pf2e.spells-srd.hiVL8qsnTJtpouw0]`|
-|[Divine Wrath](spells/evo-04-hVU9msO9yGkxKZ3J.htm)|Colère divine|`@Compendium[pf2e.spells-srd.hVU9msO9yGkxKZ3J]`|
-|[Diviner's Sight](spells/div-01-oFwmdb6LlRrh9AUT.htm)|Vision du devin|`@Compendium[pf2e.spells-srd.oFwmdb6LlRrh9AUT]`|
-|[Dominate](spells/enc-06-OsOhx3TGIZ7AhD0P.htm)|Domination|`@Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]`|
-|[Door to Beyond](spells/con-04-iMmexY6ZosLS4I5R.htm)|Porte vers l'au-delà|`@Compendium[pf2e.spells-srd.iMmexY6ZosLS4I5R]`|
-|[Downpour](spells/evo-04-K4LXpaBWrGy6jIER.htm)|Déluge|`@Compendium[pf2e.spells-srd.K4LXpaBWrGy6jIER]`|
-|[Draconic Barrage](spells/evo-01-S6Kkk15MWGqzC00a.htm)|Barrage draconique|`@Compendium[pf2e.spells-srd.S6Kkk15MWGqzC00a]`|
-|[Dragon Breath](spells/evo-03-JcobNl4iE9HmMYtE.htm)|Souffle de dragon|`@Compendium[pf2e.spells-srd.JcobNl4iE9HmMYtE]`|
-|[Dragon Breath (Blue or Bronze)](spells/evo-03-0jWBnIDFpJjJShdQ.htm)||`@Compendium[pf2e.spells-srd.0jWBnIDFpJjJShdQ]`|
-|[Dragon Breath (Brass)](spells/evo-03-N0h3UodJFKdNQw1Y.htm)||`@Compendium[pf2e.spells-srd.N0h3UodJFKdNQw1Y]`|
-|[Dragon Breath (Copper or Black)](spells/evo-03-6mmEz1UoTHGB7Sy9.htm)||`@Compendium[pf2e.spells-srd.6mmEz1UoTHGB7Sy9]`|
-|[Dragon Breath (Gold or Red)](spells/evo-03-kfsv7zSHb3pr7s9v.htm)||`@Compendium[pf2e.spells-srd.kfsv7zSHb3pr7s9v]`|
-|[Dragon Breath (Green)](spells/evo-03-jupppBeFqhe6LMIb.htm)||`@Compendium[pf2e.spells-srd.jupppBeFqhe6LMIb]`|
-|[Dragon Breath (Silver or White)](spells/evo-03-bmDgIbLa5NfkP97J.htm)||`@Compendium[pf2e.spells-srd.bmDgIbLa5NfkP97J]`|
-|[Dragon Claws](spells/trs-01-K8vvrOgW4bGakXxm.htm)|Griffes de dragon|`@Compendium[pf2e.spells-srd.K8vvrOgW4bGakXxm]`|
-|[Dragon Form](spells/trs-06-5c692cCcTDXjSEzk.htm)|Forme de dragon|`@Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]`|
-|[Dragon Wings](spells/trs-05-HWJODX2zPg5cg34F.htm)|Ailes de dragon|`@Compendium[pf2e.spells-srd.HWJODX2zPg5cg34F]`|
-|[Drain Life](spells/nec-03-cqdmSmQnM0q6wbWG.htm)|Drain de vie|`@Compendium[pf2e.spells-srd.cqdmSmQnM0q6wbWG]`|
-|[Dread Aura](spells/enc-04-KPGGkyBFbKse7KpK.htm)|Aura effroyable|`@Compendium[pf2e.spells-srd.KPGGkyBFbKse7KpK]`|
-|[Dread Secret](spells/div-06-XULNb8ItUsfupxqH.htm)|Secret effroyable|`@Compendium[pf2e.spells-srd.XULNb8ItUsfupxqH]`|
-|[Dream Council](spells/ill-08-rwCh2qTYPA44KEoK.htm)|Conseil onirique|`@Compendium[pf2e.spells-srd.rwCh2qTYPA44KEoK]`|
-|[Dream Message](spells/enc-03-yM3KTTSAIHhyuP14.htm)|Message onirique|`@Compendium[pf2e.spells-srd.yM3KTTSAIHhyuP14]`|
-|[Dreamer's Call](spells/enc-04-PztLrElcZfLwRnEq.htm)|Appel du rêveur|`@Compendium[pf2e.spells-srd.PztLrElcZfLwRnEq]`|
-|[Dreaming Potential](spells/enc-05-y0Vy7iNL3ET8K00C.htm)|Potentiel onirique|`@Compendium[pf2e.spells-srd.y0Vy7iNL3ET8K00C]`|
-|[Drop Dead](spells/ill-05-scTRIrTfXquVYHGw.htm)|Raide mort|`@Compendium[pf2e.spells-srd.scTRIrTfXquVYHGw]`|
-|[Dull Ambition](spells/enc-04-MLdMUOdwSKegOGlo.htm)|Ambition insipide|`@Compendium[pf2e.spells-srd.MLdMUOdwSKegOGlo]`|
-|[Duplicate Foe](spells/con-07-73rToy0v5Ra9NvL6.htm)|Dupliquer l'ennemi|`@Compendium[pf2e.spells-srd.73rToy0v5Ra9NvL6]`|
-|[Dust Storm](spells/con-04-K1wmI4qPmRhFczmy.htm)|Tempête de poussière|`@Compendium[pf2e.spells-srd.K1wmI4qPmRhFczmy]`|
-|[Dutiful Challenge](spells/abj-04-caehfpQz7yp9yNzz.htm)|Défi respectueux|`@Compendium[pf2e.spells-srd.caehfpQz7yp9yNzz]`|
-|[Déjà Vu](spells/enc-01-rerNA6YZsdxuJYt3.htm)|Déjà vu|`@Compendium[pf2e.spells-srd.rerNA6YZsdxuJYt3]`|
-|[Earthbind](spells/trs-03-gPvtmKMRpg9I9D7H.htm)|Cloué à terre|`@Compendium[pf2e.spells-srd.gPvtmKMRpg9I9D7H]`|
-|[Earthquake](spells/evo-08-x7SPrsRxGb2Vy2nu.htm)|Tremblement de terre|`@Compendium[pf2e.spells-srd.x7SPrsRxGb2Vy2nu]`|
-|[Eclipse Burst](spells/nec-07-0jadeyQIItIuRgeH.htm)|Eclipse soudaine|`@Compendium[pf2e.spells-srd.0jadeyQIItIuRgeH]`|
-|[Ectoplasmic Expulsion](spells/nec-05-PgDFDvX64eswapSS.htm)||`@Compendium[pf2e.spells-srd.PgDFDvX64eswapSS]`|
-|[Ectoplasmic Interstice](spells/nec-04-QE9f3OxvvBThymD4.htm)|Interstice ectoplasmique|`@Compendium[pf2e.spells-srd.QE9f3OxvvBThymD4]`|
-|[Eject Soul](spells/nec-01-rVhHaWqUsVUO4GuY.htm)|Éjection de l'âme|`@Compendium[pf2e.spells-srd.rVhHaWqUsVUO4GuY]`|
-|[Electric Arc](spells/evo-00-kBhaPuzLUSwS6vVf.htm)|Arc électrique|`@Compendium[pf2e.spells-srd.kBhaPuzLUSwS6vVf]`|
-|[Electrified Crystal Ward](spells/evo-03-57ulIxg3Of2wCbEh.htm)|Glyphe de cristal électrique|`@Compendium[pf2e.spells-srd.57ulIxg3Of2wCbEh]`|
-|[Elemental Betrayal](spells/evo-01-f9uqHnNBMU0774SF.htm)|Trahison élémentaire|`@Compendium[pf2e.spells-srd.f9uqHnNBMU0774SF]`|
-|[Elemental Blast](spells/evo-05-Qlp8G3knwLGhAxQ0.htm)|Explosion élémentaire|`@Compendium[pf2e.spells-srd.Qlp8G3knwLGhAxQ0]`|
-|[Elemental Form](spells/trs-05-1K6AYGisvo9gqdhs.htm)|Forme élémentaire|`@Compendium[pf2e.spells-srd.1K6AYGisvo9gqdhs]`|
-|[Elemental Motion](spells/evo-03-B8aCUMCHCIMUCEVK.htm)|Mobilité élémentaire|`@Compendium[pf2e.spells-srd.B8aCUMCHCIMUCEVK]`|
-|[Elemental Tempest](spells/evo-04-vfHr1N8Rf2bBpdgn.htm)|Tempête élémentaire|`@Compendium[pf2e.spells-srd.vfHr1N8Rf2bBpdgn]`|
-|[Elemental Toss](spells/evo-01-0JUOgbbFCapp3HlW.htm)|Projectile élémentaire|`@Compendium[pf2e.spells-srd.0JUOgbbFCapp3HlW]`|
-|[Embrace the Pit](spells/trs-03-ilGsyGLGjjIPHbyP.htm)|Étreinte de la fosse|`@Compendium[pf2e.spells-srd.ilGsyGLGjjIPHbyP]`|
-|[Empty Body](spells/con-09-mau1Olq58ECF0ZPi.htm)|Désertion de l'âme|`@Compendium[pf2e.spells-srd.mau1Olq58ECF0ZPi]`|
-|[Empty Inside](spells/abj-01-0cF9HvHzzWSbCFBP.htm)|Vide intérieur|`@Compendium[pf2e.spells-srd.0cF9HvHzzWSbCFBP]`|
-|[Endure](spells/enc-01-4c1c6eNzU1PFGkAy.htm)|Endurer|`@Compendium[pf2e.spells-srd.4c1c6eNzU1PFGkAy]`|
-|[Endure Elements](spells/abj-02-5esP2GVzvxWsMgaX.htm)|Endurance aux éléments|`@Compendium[pf2e.spells-srd.5esP2GVzvxWsMgaX]`|
-|[Enduring Might](spells/abj-04-eG1fBodYwolaXK98.htm)|Puissance protectrice|`@Compendium[pf2e.spells-srd.eG1fBodYwolaXK98]`|
-|[Energy Absorption](spells/abj-04-LoBjvguamA12iyW0.htm)|Absorption d'énergie|`@Compendium[pf2e.spells-srd.LoBjvguamA12iyW0]`|
-|[Energy Aegis](spells/abj-07-m2xFMNyQiUKQDRaj.htm)|Égide énergétique|`@Compendium[pf2e.spells-srd.m2xFMNyQiUKQDRaj]`|
-|[Enervation](spells/nec-04-eexkxcqnkXazsGfK.htm)|Affaiblissement|`@Compendium[pf2e.spells-srd.eexkxcqnkXazsGfK]`|
-|[Enhance Victuals](spells/trs-02-rdTEF1hfAWbN58NE.htm)|Amélioration des victuailles|`@Compendium[pf2e.spells-srd.rdTEF1hfAWbN58NE]`|
-|[Enlarge](spells/trs-02-wzctak6BxOW8xvFV.htm)|Agrandissement|`@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]`|
-|[Enlarge Companion](spells/trs-04-8rj45fKzCFcB0fxs.htm)|Compagnon aggrandi|`@Compendium[pf2e.spells-srd.8rj45fKzCFcB0fxs]`|
-|[Entangle](spells/trs-02-J6vNvrUT3b1hx2iA.htm)|Enchevêtrement|`@Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]`|
-|[Enthrall](spells/enc-03-IihxWhRfpsBgQ5jS.htm)|Discours captivant|`@Compendium[pf2e.spells-srd.IihxWhRfpsBgQ5jS]`|
-|[Entrancing Eyes](spells/enc-07-Vw2CNwlRRKABsuZi.htm)|Yeux enchanteurs|`@Compendium[pf2e.spells-srd.Vw2CNwlRRKABsuZi]`|
-|[Ephemeral Hazards](spells/ill-04-HisaZTk67YAxLGBq.htm)|Dangers éphémères|`@Compendium[pf2e.spells-srd.HisaZTk67YAxLGBq]`|
-|[Ephemeral Tracking](spells/div-03-QpjHqxwTGdILLvjD.htm)|Pistage éphémère|`@Compendium[pf2e.spells-srd.QpjHqxwTGdILLvjD]`|
-|[Eradicate Undeath](spells/nec-04-J5MNC4xq3CHH31qT.htm)|Éradication de la non-mort|`@Compendium[pf2e.spells-srd.J5MNC4xq3CHH31qT]`|
-|[Establish Ward](spells/abj-05-XlQBVvlDWGrGlApl.htm)|Établir une protection|`@Compendium[pf2e.spells-srd.XlQBVvlDWGrGlApl]`|
-|[Ethereal Jaunt](spells/con-07-D2nPKbIS67m9199U.htm)|Forme éthérée|`@Compendium[pf2e.spells-srd.D2nPKbIS67m9199U]`|
-|[Evil Eye](spells/enc-00-f45JpY7Ph2cAJGW2.htm)|Mauvais œil|`@Compendium[pf2e.spells-srd.f45JpY7Ph2cAJGW2]`|
-|[Exchange Image](spells/ill-01-znMvKqcRDilIVMwA.htm)|Échanger les visages|`@Compendium[pf2e.spells-srd.znMvKqcRDilIVMwA]`|
-|[Expeditious Excavation](spells/trs-02-aXoh6OQAL57lgh0a.htm)|Excavation expéditive|`@Compendium[pf2e.spells-srd.aXoh6OQAL57lgh0a]`|
-|[Extend Spell](spells/div-03-GxxnhRIaoGKtu1iO.htm)|Extension de durée|`@Compendium[pf2e.spells-srd.GxxnhRIaoGKtu1iO]`|
-|[Fabricated Truth](spells/enc-10-6s0UW4bujggma9TC.htm)|Vérité fabriquée|`@Compendium[pf2e.spells-srd.6s0UW4bujggma9TC]`|
-|[Face in the Crowd](spells/ill-01-yH13KXUK2x093NUv.htm)|Fondu dans la foule|`@Compendium[pf2e.spells-srd.yH13KXUK2x093NUv]`|
-|[Faerie Dust](spells/enc-01-IkS3lDGUpIOMug7v.htm)|Poussière féerique|`@Compendium[pf2e.spells-srd.IkS3lDGUpIOMug7v]`|
-|[Faerie Fire](spells/evo-02-HRb2doyaLtaoCfi3.htm)|Lueurs féériques|`@Compendium[pf2e.spells-srd.HRb2doyaLtaoCfi3]`|
-|[Fallow Field](spells/nec-04-2RhZkHNv8ajq0yLq.htm)|Champ inactif|`@Compendium[pf2e.spells-srd.2RhZkHNv8ajq0yLq]`|
-|[False Life](spells/nec-02-8ViwItUgwT4lOvvb.htm)|Simulacre de vie|`@Compendium[pf2e.spells-srd.8ViwItUgwT4lOvvb]`|
-|[False Vision](spells/ill-05-RCbLd7dfquHnuvrZ.htm)|Vision faussée|`@Compendium[pf2e.spells-srd.RCbLd7dfquHnuvrZ]`|
-|[Familiar Form](spells/trs-04-CHZQJg7O7991Vl4m.htm)|Forme de familier|`@Compendium[pf2e.spells-srd.CHZQJg7O7991Vl4m]`|
-|[Familiar's Face](spells/div-03-9GkOWDFDEMuV3hJr.htm)|Visage du familier|`@Compendium[pf2e.spells-srd.9GkOWDFDEMuV3hJr]`|
-|[Fantastic Facade](spells/ill-09-nA0XlPsnMNrQMpio.htm)|Façade fantastique|`@Compendium[pf2e.spells-srd.nA0XlPsnMNrQMpio]`|
-|[Fatal Aria](spells/enc-10-lyJDBD9OFW11vLyT.htm)|Aria fatale|`@Compendium[pf2e.spells-srd.lyJDBD9OFW11vLyT]`|
-|[Favorable Review](spells/enc-04-i7u6gAdNcyIyyo3h.htm)|Critique favorable|`@Compendium[pf2e.spells-srd.i7u6gAdNcyIyyo3h]`|
-|[Fear](spells/enc-01-4koZzrnMXhhosn0D.htm)|Terreur|`@Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]`|
-|[Fearful Feast](spells/nec-04-0qA4MfMkFklOz2Lk.htm)||`@Compendium[pf2e.spells-srd.0qA4MfMkFklOz2Lk]`|
-|[Feast of Ashes](spells/nec-02-siU9xRlqWXeKT0mH.htm)|Festin de cendres|`@Compendium[pf2e.spells-srd.siU9xRlqWXeKT0mH]`|
-|[Feather Fall](spells/abj-01-TTwOKGqmZeKSyNMH.htm)|Feuille morte|`@Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]`|
-|[Feeblemind](spells/enc-06-5BbU1V6wGSGbrmRD.htm)|Débilité|`@Compendium[pf2e.spells-srd.5BbU1V6wGSGbrmRD]`|
-|[Feet to Fins](spells/trs-03-RvBlSIJmxiqfCpR9.htm)|Pieds en nageoires|`@Compendium[pf2e.spells-srd.RvBlSIJmxiqfCpR9]`|
-|[Fey Disappearance](spells/enc-03-mBojKJatf9PTYC38.htm)|Disparition féerique|`@Compendium[pf2e.spells-srd.mBojKJatf9PTYC38]`|
-|[Fey Glamour](spells/ill-05-DdXKfIjDtORUtUvY.htm)|Enchantement féerique|`@Compendium[pf2e.spells-srd.DdXKfIjDtORUtUvY]`|
-|[Field of Life](spells/nec-06-x5rGOmhDRDVQPrnW.htm)|Champ de vie|`@Compendium[pf2e.spells-srd.x5rGOmhDRDVQPrnW]`|
-|[Fiery Body](spells/trs-07-XS7Wyh5YC0NWeWyB.htm)|Corps enflammé|`@Compendium[pf2e.spells-srd.XS7Wyh5YC0NWeWyB]`|
-|[Final Sacrifice](spells/evo-02-x0rWq0wS06dns4G2.htm)|Sacrifice final|`@Compendium[pf2e.spells-srd.x0rWq0wS06dns4G2]`|
-|[Finger of Death](spells/nec-07-Z9OrRXKgAPv6Hn5l.htm)|Doigt de mort|`@Compendium[pf2e.spells-srd.Z9OrRXKgAPv6Hn5l]`|
-|[Fire Ray](spells/evo-01-oJKZi8OQgmVXHOc0.htm)|Rayon de feu|`@Compendium[pf2e.spells-srd.oJKZi8OQgmVXHOc0]`|
-|[Fire Seeds](spells/evo-06-kuoYff1csM5eAcAP.htm)|Germe de feu|`@Compendium[pf2e.spells-srd.kuoYff1csM5eAcAP]`|
-|[Fire Shield](spells/evo-04-YrzBLPLd3r9m6t1p.htm)|Bouclier de feu|`@Compendium[pf2e.spells-srd.YrzBLPLd3r9m6t1p]`|
-|[Fireball](spells/evo-03-sxQZ6yqTn0czJxVd.htm)|Boule de feu|`@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]`|
-|[Flame Barrier](spells/abj-04-y7Tusv3CieZktkkV.htm)|Barrière de flammes|`@Compendium[pf2e.spells-srd.y7Tusv3CieZktkkV]`|
-|[Flame Strike](spells/evo-05-E3X2RbzWHCdz7gsk.htm)|Colonne de feu|`@Compendium[pf2e.spells-srd.E3X2RbzWHCdz7gsk]`|
-|[Flaming Fusillade](spells/evo-06-bynT1UKaDqr8dLNM.htm)|Fusillade enflammée|`@Compendium[pf2e.spells-srd.bynT1UKaDqr8dLNM]`|
-|[Flaming Sphere](spells/evo-02-2ZdHjnpEQJuqOYSG.htm)|Sphère de feu|`@Compendium[pf2e.spells-srd.2ZdHjnpEQJuqOYSG]`|
-|[Fleet Step](spells/trs-01-aEM2cttJ2eYcLssW.htm)|Pas rapide|`@Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]`|
-|[Flesh to Stone](spells/trs-06-znv4ECL7ZtuiagtA.htm)|Chair en pierre|`@Compendium[pf2e.spells-srd.znv4ECL7ZtuiagtA]`|
-|[Floating Disk](spells/con-01-LvezN4a3kYf1OHMg.htm)|Disque flottant|`@Compendium[pf2e.spells-srd.LvezN4a3kYf1OHMg]`|
-|[Fly](spells/trs-04-A2JfEKe6BZcTG1S8.htm)|Vol|`@Compendium[pf2e.spells-srd.A2JfEKe6BZcTG1S8]`|
-|[Font of Serenity](spells/abj-04-yY1H5zhO5dHmD8lz.htm)|Source de sérénité|`@Compendium[pf2e.spells-srd.yY1H5zhO5dHmD8lz]`|
-|[Forbidding Ward](spells/abj-00-RA7VKcen3p56rVyZ.htm)|Sceau d'interdiction|`@Compendium[pf2e.spells-srd.RA7VKcen3p56rVyZ]`|
-|[Force Bolt](spells/evo-01-Hu38hoAUSYeFpkVa.htm)|Trait de force|`@Compendium[pf2e.spells-srd.Hu38hoAUSYeFpkVa]`|
-|[Force Cage](spells/evo-07-HES5jvGiNZZnJycK.htm)|Cage de force|`@Compendium[pf2e.spells-srd.HES5jvGiNZZnJycK]`|
-|[Forced Quiet](spells/abj-01-k43PIYwuQqjeJ3S3.htm)|Silence forcé|`@Compendium[pf2e.spells-srd.k43PIYwuQqjeJ3S3]`|
-|[Foresight](spells/div-09-qsNeG9KZpODSACMq.htm)|Prémonition|`@Compendium[pf2e.spells-srd.qsNeG9KZpODSACMq]`|
-|[Forgotten Lines](spells/div-04-u0AtDZs6BhBPtjEs.htm)|Lignes oubliées|`@Compendium[pf2e.spells-srd.u0AtDZs6BhBPtjEs]`|
-|[Foul Miasma](spells/nec-04-6nTBr5XNuKOuPM5m.htm)|Miasmes infâmes|`@Compendium[pf2e.spells-srd.6nTBr5XNuKOuPM5m]`|
-|[Freedom](spells/abj-08-4ddJSjC9Zz5DX0oG.htm)|Liberté|`@Compendium[pf2e.spells-srd.4ddJSjC9Zz5DX0oG]`|
-|[Freedom of Movement](spells/abj-04-aqRYNoSvxsVfqglH.htm)|Liberté de mouvement|`@Compendium[pf2e.spells-srd.aqRYNoSvxsVfqglH]`|
-|[Fungal Hyphae](spells/nec-02-oNUyCqbpGWHifS02.htm)|Hyphe fongique|`@Compendium[pf2e.spells-srd.oNUyCqbpGWHifS02]`|
-|[Fungal Infestation](spells/con-02-3VxVbZqIRvpKkg3O.htm)|Infestation fongique|`@Compendium[pf2e.spells-srd.3VxVbZqIRvpKkg3O]`|
-|[Gaseous Form](spells/trs-04-V8wXOsoejQhe6CyG.htm)|Forme gazeuse|`@Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]`|
-|[Gate](spells/con-10-U13bC0tNgrlHoeTK.htm)|Portail|`@Compendium[pf2e.spells-srd.U13bC0tNgrlHoeTK]`|
-|[Geas](spells/enc-03-Q690d3mw3TUrKX7E.htm)|Serment rituel|`@Compendium[pf2e.spells-srd.Q690d3mw3TUrKX7E]`|
-|[Genie's Veil](spells/abj-01-OyiKIbWllLZC6sGz.htm)|Veille du génie|`@Compendium[pf2e.spells-srd.OyiKIbWllLZC6sGz]`|
-|[Gentle Repose](spells/nec-02-xRgU9rrhmGAgG4Rc.htm)|Préservation des morts|`@Compendium[pf2e.spells-srd.xRgU9rrhmGAgG4Rc]`|
-|[Ghost Sound](spells/ill-00-atlgGNI1E1Ox3O3a.htm)|Son imaginaire|`@Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]`|
-|[Ghostly Tragedy](spells/div-04-WVc30DGbM7TRLLul.htm)|Tragédie fantômatique|`@Compendium[pf2e.spells-srd.WVc30DGbM7TRLLul]`|
-|[Ghostly Transcription](spells/ill-04-vhe9DduqaivMs8FV.htm)|Transcription fantômatique|`@Compendium[pf2e.spells-srd.vhe9DduqaivMs8FV]`|
-|[Ghostly Weapon](spells/trs-03-AMEu5zzLN7uCX645.htm)|Arme fantomatique|`@Compendium[pf2e.spells-srd.AMEu5zzLN7uCX645]`|
-|[Ghoulish Cravings](spells/nec-02-JhRuR7Jj3ViShpq7.htm)|Désirs macabres|`@Compendium[pf2e.spells-srd.JhRuR7Jj3ViShpq7]`|
-|[Glacial Heart](spells/evo-05-ZyREiMaul0VhDYh3.htm)|Cœur glacial|`@Compendium[pf2e.spells-srd.ZyREiMaul0VhDYh3]`|
-|[Glibness](spells/enc-04-JyxTmqjYYn63V5LY.htm)|Bagou|`@Compendium[pf2e.spells-srd.JyxTmqjYYn63V5LY]`|
-|[Glimpse the Truth](spells/div-04-ZjbVgIIqMstmdkqP.htm)|Entrevoir la vérité|`@Compendium[pf2e.spells-srd.ZjbVgIIqMstmdkqP]`|
-|[Glitterdust](spells/evo-02-0qaqksrGGDj74HXE.htm)|Poussière scintillante|`@Compendium[pf2e.spells-srd.0qaqksrGGDj74HXE]`|
-|[Globe of Invulnerability](spells/abj-04-JOdOpbPDl7nqvJUm.htm)|Globe d'invulnérabilité|`@Compendium[pf2e.spells-srd.JOdOpbPDl7nqvJUm]`|
-|[Glutton's Jaw](spells/nec-01-SdXFiQ4Py8761sNO.htm)|Mâchoires gloutonnes|`@Compendium[pf2e.spells-srd.SdXFiQ4Py8761sNO]`|
-|[Glyph of Warding](spells/abj-03-o0l57UfBm9ScEUMW.htm)|Glyphe de garde|`@Compendium[pf2e.spells-srd.o0l57UfBm9ScEUMW]`|
-|[Goblin Pox](spells/nec-01-zJQnkKEKbJqGB3iB.htm)|Variole Gobeline|`@Compendium[pf2e.spells-srd.zJQnkKEKbJqGB3iB]`|
-|[Goodberry](spells/nec-01-vQuwLqtFFYt0K15N.htm)|Baie nourricière|`@Compendium[pf2e.spells-srd.vQuwLqtFFYt0K15N]`|
-|[Grasping Grave](spells/nec-05-2YIr0S2Gt14PMMQp.htm)|Étreinte de la tombe|`@Compendium[pf2e.spells-srd.2YIr0S2Gt14PMMQp]`|
-|[Gravity Weapon](spells/evo-01-IWUe32Y5k2QFd7YQ.htm)|Arme pesante|`@Compendium[pf2e.spells-srd.IWUe32Y5k2QFd7YQ]`|
-|[Gravity Well](spells/evo-03-06pzGkKTyPE3tHR8.htm)|Puits de gravité|`@Compendium[pf2e.spells-srd.06pzGkKTyPE3tHR8]`|
-|[Grease](spells/con-01-Wu0xFpewMKRK3HG8.htm)|Graisse|`@Compendium[pf2e.spells-srd.Wu0xFpewMKRK3HG8]`|
-|[Grim Tendrils](spells/nec-01-k34hDOfIIMAxNL4a.htm)|Sinistres volutes|`@Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]`|
-|[Grisly Growths](spells/trs-05-d9sBzPOXX3KT8uTu.htm)|Horribles excroissances|`@Compendium[pf2e.spells-srd.d9sBzPOXX3KT8uTu]`|
-|[Guidance](spells/div-00-izcxFQFwf3woCnFs.htm)|Assistance divine|`@Compendium[pf2e.spells-srd.izcxFQFwf3woCnFs]`|
-|[Gust of Wind](spells/evo-01-g8QqHpv2CWDwmIm1.htm)|Bourrasque|`@Compendium[pf2e.spells-srd.g8QqHpv2CWDwmIm1]`|
-|[Halcyon Infusion](spells/div-06-UJmKPm1FC6pf6txP.htm)|Infusion paisible|`@Compendium[pf2e.spells-srd.UJmKPm1FC6pf6txP]`|
-|[Hallucination](spells/ill-05-U58aQWJ47VrI36yP.htm)|Hallucination|`@Compendium[pf2e.spells-srd.U58aQWJ47VrI36yP]`|
-|[Hallucinatory Terrain](spells/ill-04-HBJPsonQnWcC3qdX.htm)|Terrain hallucinatoire|`@Compendium[pf2e.spells-srd.HBJPsonQnWcC3qdX]`|
-|[Hand of the Apprentice](spells/evo-01-bSDTWUIvgXkBaEv8.htm)|Main de l'apprenti|`@Compendium[pf2e.spells-srd.bSDTWUIvgXkBaEv8]`|
-|[Harm](spells/nec-01-wdA52JJnsuQWeyqz.htm)|Mise à mal|`@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]`|
-|[Haste](spells/trs-03-o6YCGx4lycsYpww4.htm)|Rapidité|`@Compendium[pf2e.spells-srd.o6YCGx4lycsYpww4]`|
-|[Heal](spells/nec-01-rfZpqmj0AIIdkVIs.htm)|Guérison|`@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]`|
-|[Heal Animal](spells/nec-01-Zmh4ynfnCtwKeAYl.htm)|Guérison des animaux|`@Compendium[pf2e.spells-srd.Zmh4ynfnCtwKeAYl]`|
-|[Heal Companion](spells/nec-01-KIV2LqzS5KtqOItV.htm)|Guérison de compagnon|`@Compendium[pf2e.spells-srd.KIV2LqzS5KtqOItV]`|
-|[Healer's Blessing](spells/nec-01-rhJyqB9g3ziImQgM.htm)|Bénédiction du guérisseur|`@Compendium[pf2e.spells-srd.rhJyqB9g3ziImQgM]`|
-|[Heart's Desire](spells/ill-03-PVXqMko4yGgw90uo.htm)|Désir du cœur|`@Compendium[pf2e.spells-srd.PVXqMko4yGgw90uo]`|
-|[Heartbond](spells/abj-02-dZV8nZUKRhGIr6g9.htm)|Lien du cœur|`@Compendium[pf2e.spells-srd.dZV8nZUKRhGIr6g9]`|
-|[Heat Metal](spells/evo-02-v4KzRPol5XQOOmk0.htm)|Métal brûlant|`@Compendium[pf2e.spells-srd.v4KzRPol5XQOOmk0]`|
-|[Hellfire Plume](spells/evo-05-9LHr9SuDLTicdbXs.htm)|Volute de feu infernal|`@Compendium[pf2e.spells-srd.9LHr9SuDLTicdbXs]`|
-|[Hero's Defiance](spells/nec-10-uGXWkR2h8q9MRzEM.htm)|Défi du héros|`@Compendium[pf2e.spells-srd.uGXWkR2h8q9MRzEM]`|
-|[Heroes' Feast](spells/con-05-yRf59eFtZ50cGlem.htm)|Festin des héros|`@Compendium[pf2e.spells-srd.yRf59eFtZ50cGlem]`|
-|[Heroic Feat](spells/div-06-4j0FQ1mkidBAXuQV.htm)|Don héroïque|`@Compendium[pf2e.spells-srd.4j0FQ1mkidBAXuQV]`|
-|[Heroism](spells/enc-03-KqvqNAfGIE5a9wSv.htm)|Héroïsme|`@Compendium[pf2e.spells-srd.KqvqNAfGIE5a9wSv]`|
-|[Hideous Laughter](spells/enc-02-tlSE7Ly8vi1Dgddv.htm)|Fou rire|`@Compendium[pf2e.spells-srd.tlSE7Ly8vi1Dgddv]`|
-|[Holy Cascade](spells/evo-04-DZ9bzXYqMjAK9TzC.htm)|Cascade bénite|`@Compendium[pf2e.spells-srd.DZ9bzXYqMjAK9TzC]`|
-|[Horrid Wilting](spells/nec-08-M0jQlpQYUr0pp2Sv.htm)|Flétrissure|`@Compendium[pf2e.spells-srd.M0jQlpQYUr0pp2Sv]`|
-|[Horrific Visage](spells/ill-03-aZg3amDcrXz3cLCz.htm)|Visage terrifiant|`@Compendium[pf2e.spells-srd.aZg3amDcrXz3cLCz]`|
-|[House of Imaginary Walls](spells/ill-00-PEfSofHm73IT3Khc.htm)|Demeure aux murs imaginaires|`@Compendium[pf2e.spells-srd.PEfSofHm73IT3Khc]`|
-|[Humanoid Form](spells/trs-02-2qGqa33E4GPUCbMV.htm)|Forme humanoïde|`@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]`|
-|[Hunter's Luck](spells/div-02-GfrKNJ9pNeATiKCc.htm)|Chance du chasseur|`@Compendium[pf2e.spells-srd.GfrKNJ9pNeATiKCc]`|
-|[Hunter's Vision](spells/div-05-tj86Rnq3QuQnDtG3.htm)|Vision du chasseur|`@Compendium[pf2e.spells-srd.tj86Rnq3QuQnDtG3]`|
-|[Hurtling Stone](spells/evo-01-pRKaEXnjGJXbPHPC.htm)|Jet de pierre|`@Compendium[pf2e.spells-srd.pRKaEXnjGJXbPHPC]`|
-|[Hydraulic Push](spells/evo-01-jfVCuOpzC6mUrf6f.htm)|Poussée hydraulique|`@Compendium[pf2e.spells-srd.jfVCuOpzC6mUrf6f]`|
-|[Hydraulic Torrent](spells/evo-04-Y3G6Y6EDgCY0s3fq.htm)|Torrent|`@Compendium[pf2e.spells-srd.Y3G6Y6EDgCY0s3fq]`|
-|[Hymn of Healing](spells/nec-01-gSUQlTDYoLDGAsCP.htm)|Hymne de guérison|`@Compendium[pf2e.spells-srd.gSUQlTDYoLDGAsCP]`|
-|[Hypercognition](spells/div-03-ZYoC630tNGutgbE0.htm)|Hypercognition|`@Compendium[pf2e.spells-srd.ZYoC630tNGutgbE0]`|
-|[Hyperfocus](spells/div-01-XhgMx9WC6NfXd9RP.htm)|Hyperfocalisation|`@Compendium[pf2e.spells-srd.XhgMx9WC6NfXd9RP]`|
-|[Hypnotic Pattern](spells/ill-03-K2WpC3FFoHrqX9Q5.htm)|Lueurs hypnotiques|`@Compendium[pf2e.spells-srd.K2WpC3FFoHrqX9Q5]`|
-|[Ice Storm](spells/evo-04-kHyjQbibRGPNCixx.htm)|Tempête de glace|`@Compendium[pf2e.spells-srd.kHyjQbibRGPNCixx]`|
-|[Ill Omen](spells/div-01-6ZIKB0151LUR19Rw.htm)|Mauvais présage|`@Compendium[pf2e.spells-srd.6ZIKB0151LUR19Rw]`|
-|[Illusory Creature](spells/ill-02-f8SBoXiXQjlCKqly.htm)|Créature illusoire|`@Compendium[pf2e.spells-srd.f8SBoXiXQjlCKqly]`|
-|[Illusory Disguise](spells/ill-01-i35dpZFI7jZcRoBo.htm)|Déguisement illusoire|`@Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]`|
-|[Illusory Object](spells/ill-01-2oH5IufzdESuYxat.htm)|Objet illusoire|`@Compendium[pf2e.spells-srd.2oH5IufzdESuYxat]`|
-|[Illusory Scene](spells/ill-05-Ucf8eynbZMfUucjE.htm)|Scène illusoire|`@Compendium[pf2e.spells-srd.Ucf8eynbZMfUucjE]`|
-|[Imp Sting](spells/nec-02-oryfsRK27jAUnziw.htm)|Dard de diablotin|`@Compendium[pf2e.spells-srd.oryfsRK27jAUnziw]`|
-|[Impaling Briars](spells/con-08-oGV6YdpZLIG4G4gH.htm)|Ronces empaleuses|`@Compendium[pf2e.spells-srd.oGV6YdpZLIG4G4gH]`|
-|[Impaling Spike](spells/con-05-oXeEbcUdgJGWHGEJ.htm)|Pique empaleuse|`@Compendium[pf2e.spells-srd.oXeEbcUdgJGWHGEJ]`|
-|[Implosion](spells/evo-09-4WS7HrFjwNvTn8T2.htm)|Implosion|`@Compendium[pf2e.spells-srd.4WS7HrFjwNvTn8T2]`|
-|[Imprint Message](spells/div-01-WJOQryAODgYmrL6g.htm)|Imprimer un message|`@Compendium[pf2e.spells-srd.WJOQryAODgYmrL6g]`|
-|[Imprisonment](spells/evo-08-2CNqkt2s2IYkVnv6.htm)|Emprisonnement|`@Compendium[pf2e.spells-srd.2CNqkt2s2IYkVnv6]`|
-|[Incendiary Aura](spells/evo-01-AspA30tzKCHFWRf0.htm)|Aura incendiaire|`@Compendium[pf2e.spells-srd.AspA30tzKCHFWRf0]`|
-|[Indestructibility](spells/abj-10-UG0SmRYSdbrx2rTA.htm)|Invulnérabilité|`@Compendium[pf2e.spells-srd.UG0SmRYSdbrx2rTA]`|
-|[Infernal Pact](spells/con-01-30BBep9U4BDV0EgQ.htm)|Pacte infernal|`@Compendium[pf2e.spells-srd.30BBep9U4BDV0EgQ]`|
-|[Insect Form](spells/trs-03-XI6Lzd2B5pernkPd.htm)|Forme d'insecte|`@Compendium[pf2e.spells-srd.XI6Lzd2B5pernkPd]`|
-|[Inspire Competence](spells/enc-00-f0Z5mqGA6Yu79B8x.htm)|Inspiration talentueuse|`@Compendium[pf2e.spells-srd.f0Z5mqGA6Yu79B8x]`|
-|[Inspire Courage](spells/enc-00-IAjvwqgiDr3qGYxY.htm)|Inspiration vaillante|`@Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]`|
-|[Inspire Defense](spells/enc-00-bH0kPuf7UKxRvi2P.htm)|Inspiration défensive|`@Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]`|
-|[Inspire Heroics](spells/enc-04-kF0rs9mCPvJGfAZE.htm)|Inspiration héroïque|`@Compendium[pf2e.spells-srd.kF0rs9mCPvJGfAZE]`|
-|[Interstellar Void](spells/evo-03-L37RTc7K79OUpZ7X.htm)|Vide intersidéral|`@Compendium[pf2e.spells-srd.L37RTc7K79OUpZ7X]`|
-|[Inveigle](spells/enc-02-5pwK2FZX6QwgtfqX.htm)|Envoûtement|`@Compendium[pf2e.spells-srd.5pwK2FZX6QwgtfqX]`|
-|[Invisibility](spells/ill-02-XXqE1eY3w3z6xJCB.htm)|Invisibilité|`@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]`|
-|[Invisibility Cloak](spells/ill-04-Nun72GTmb31YqSKh.htm)|Cape d'invisibilité|`@Compendium[pf2e.spells-srd.Nun72GTmb31YqSKh]`|
-|[Invisibility Sphere](spells/ill-03-I0j56TNRmGcTyoqJ.htm)|Sphère d'invisibilité|`@Compendium[pf2e.spells-srd.I0j56TNRmGcTyoqJ]`|
-|[Invisible Item](spells/ill-01-nX85Brzax9f650aK.htm)|Objet invisible|`@Compendium[pf2e.spells-srd.nX85Brzax9f650aK]`|
-|[Invoke the Crimson Oath](spells/evo-02-AsKLseOo8hwv5Jha.htm)|Invoquer le Serment écarlate|`@Compendium[pf2e.spells-srd.AsKLseOo8hwv5Jha]`|
-|[Iron Gut](spells/trs-02-IhwREVWG0OzzrbWA.htm)|Boyaux de fer|`@Compendium[pf2e.spells-srd.IhwREVWG0OzzrbWA]`|
-|[Item Facade](spells/ill-01-4ZGte0i9YbLh4dRi.htm)|Façade|`@Compendium[pf2e.spells-srd.4ZGte0i9YbLh4dRi]`|
-|[Jealous Hex](spells/nec-01-kvm68hVtmADiIvN4.htm)|Maléfice de jalousie|`@Compendium[pf2e.spells-srd.kvm68hVtmADiIvN4]`|
-|[Join Pasts](spells/div-00-8bdt1TvNKzsCu9Ct.htm)|Joindre les passés|`@Compendium[pf2e.spells-srd.8bdt1TvNKzsCu9Ct]`|
-|[Jump](spells/trs-01-Q7QQ91vQtyi1Ux36.htm)|Saut|`@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]`|
-|[Ki Blast](spells/evo-03-oo7YcRC2gcez81PV.htm)|Explosion Ki|`@Compendium[pf2e.spells-srd.oo7YcRC2gcez81PV]`|
-|[Ki Form](spells/trs-09-YDMOqndvYFu3OjA6.htm)|Forme ki|`@Compendium[pf2e.spells-srd.YDMOqndvYFu3OjA6]`|
-|[Ki Rush](spells/trs-01-ps0nmhclT6aIXgd8.htm)|Ruée Ki|`@Compendium[pf2e.spells-srd.ps0nmhclT6aIXgd8]`|
-|[Ki Strike](spells/trs-01-ZL8NTvB22NeEWhVG.htm)|Frappe Ki|`@Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]`|
-|[Knock](spells/trs-02-6Ot4N22t5tPD51BO.htm)|Déblocage|`@Compendium[pf2e.spells-srd.6Ot4N22t5tPD51BO]`|
-|[Know Direction](spells/div-00-tXa5vOu5giBNCjdR.htm)|Repérage|`@Compendium[pf2e.spells-srd.tXa5vOu5giBNCjdR]`|
-|[Know the Enemy](spells/div-04-l6zjNysNedpJcmDT.htm)|Connaître son ennemi|`@Compendium[pf2e.spells-srd.l6zjNysNedpJcmDT]`|
-|[Lament](spells/enc-01-T90ij2uu6ZaBaSXV.htm)|Lamentation|`@Compendium[pf2e.spells-srd.T90ij2uu6ZaBaSXV]`|
-|[Lay on Hands](spells/nec-01-zNN9212H2FGfM7VS.htm)|Imposition des mains|`@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]`|
-|[Lay on Hands (Vs. Undead)](spells/nec-01-IxyD7YdRbSSucxZp.htm)||`@Compendium[pf2e.spells-srd.IxyD7YdRbSSucxZp]`|
-|[Legend Lore](spells/div-07-hp6Q64dl7xbdn4gQ.htm)|Mythes et légendes|`@Compendium[pf2e.spells-srd.hp6Q64dl7xbdn4gQ]`|
-|[Leng Sting](spells/nec-07-QVMjPfXlpnmeuWKS.htm)|Piqûre de Leng|`@Compendium[pf2e.spells-srd.QVMjPfXlpnmeuWKS]`|
-|[Levitate](spells/evo-03-fI20AVwOzJMHXRdo.htm)|Lévitation|`@Compendium[pf2e.spells-srd.fI20AVwOzJMHXRdo]`|
-|[Liberating Command](spells/enc-01-0Dcd4iEXqCrkm4Jn.htm)|Ordre libérateur|`@Compendium[pf2e.spells-srd.0Dcd4iEXqCrkm4Jn]`|
-|[Life Boost](spells/nec-01-fAlzXtQAASaJx0mY.htm)|Gain de vie|`@Compendium[pf2e.spells-srd.fAlzXtQAASaJx0mY]`|
-|[Life Link](spells/nec-01-2gQYrCPwBmwau26O.htm)|Lien vital|`@Compendium[pf2e.spells-srd.2gQYrCPwBmwau26O]`|
-|[Life Siphon](spells/nec-04-zvvHOQV78WKUB33l.htm)|Siphon de vie|`@Compendium[pf2e.spells-srd.zvvHOQV78WKUB33l]`|
-|[Life-Giving Form](spells/nec-06-9kOI14Jep97TzGO7.htm)|Forme génératrice de vie|`@Compendium[pf2e.spells-srd.9kOI14Jep97TzGO7]`|
-|[Lift Nature's Caul](spells/ill-01-6GjJtLJnwC18Y0aZ.htm)||`@Compendium[pf2e.spells-srd.6GjJtLJnwC18Y0aZ]`|
-|[Light](spells/evo-00-WBmvzNDfpwka3qT4.htm)|Lumière|`@Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]`|
-|[Light of Revelation](spells/div-02-ou56ShiFH7GWF8hX.htm)|Lumière de révélation|`@Compendium[pf2e.spells-srd.ou56ShiFH7GWF8hX]`|
-|[Lightning Bolt](spells/evo-03-9AAkVUCwF6WVNNY2.htm)|Éclair|`@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]`|
-|[Lightning Storm](spells/evo-05-JyT346VmGtRLsDnV.htm)|Tempête d'éclairs|`@Compendium[pf2e.spells-srd.JyT346VmGtRLsDnV]`|
-|[Lingering Composition](spells/enc-01-irTdhxTixU9u9YUm.htm)|Composition prolongée|`@Compendium[pf2e.spells-srd.irTdhxTixU9u9YUm]`|
-|[Linnorm Sting](spells/nec-09-ZMY58Yk5hnyfeE3q.htm)|Piqûre de linnorm|`@Compendium[pf2e.spells-srd.ZMY58Yk5hnyfeE3q]`|
-|[Litany against Sloth](spells/evo-05-2mVW1KT3AjW2pvDO.htm)|Litanie contre la paresse|`@Compendium[pf2e.spells-srd.2mVW1KT3AjW2pvDO]`|
-|[Litany against Wrath](spells/evo-03-X1b9ollVMSLXDN9o.htm)|Litanie contre la colère|`@Compendium[pf2e.spells-srd.X1b9ollVMSLXDN9o]`|
-|[Litany of Depravity](spells/evo-07-tYP8unoR0a5Dq9EA.htm)|Litanie de dépravation|`@Compendium[pf2e.spells-srd.tYP8unoR0a5Dq9EA]`|
-|[Litany of Righteousness](spells/evo-07-n3b3pDmA6L5YRTyq.htm)|Litanie de vertu|`@Compendium[pf2e.spells-srd.n3b3pDmA6L5YRTyq]`|
-|[Litany of Self-Interest](spells/enc-05-mm3hZ6jgaJaKK16n.htm)|Litanie d'égoïsme|`@Compendium[pf2e.spells-srd.mm3hZ6jgaJaKK16n]`|
-|[Localized Quake](spells/trs-04-cBUuG1yJHGeKffpg.htm)|Séisme localisé|`@Compendium[pf2e.spells-srd.cBUuG1yJHGeKffpg]`|
-|[Locate](spells/div-03-LQzlKbYjZSMFQawP.htm)|Localisation|`@Compendium[pf2e.spells-srd.LQzlKbYjZSMFQawP]`|
-|[Lock](spells/abj-01-Azoh0BSoCASrA1lr.htm)|Verrouillage|`@Compendium[pf2e.spells-srd.Azoh0BSoCASrA1lr]`|
-|[Longstrider](spells/trs-01-KcLVELhCUcKXxiKE.htm)|Grande foulée|`@Compendium[pf2e.spells-srd.KcLVELhCUcKXxiKE]`|
-|[Loremaster's Etude](spells/div-01-5Pc55FGGqVpIAJ62.htm)|Étude du maître savant|`@Compendium[pf2e.spells-srd.5Pc55FGGqVpIAJ62]`|
-|[Lucky Break](spells/div-04-7OwZHalOdRCRnFmZ.htm)|Répit chanceux|`@Compendium[pf2e.spells-srd.7OwZHalOdRCRnFmZ]`|
-|[Mad Monkeys](spells/con-03-tFKJCPvOQZxKq6ON.htm)|Singes fous|`@Compendium[pf2e.spells-srd.tFKJCPvOQZxKq6ON]`|
-|[Mage Armor](spells/abj-01-aAbfKn8maGjJjk2W.htm)|Armure du mage|`@Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]`|
-|[Mage Hand](spells/evo-00-pwzdSlJgYqN7bs2w.htm)|Manipulation à distance|`@Compendium[pf2e.spells-srd.pwzdSlJgYqN7bs2w]`|
-|[Magic Aura](spells/ill-01-PRrZ7anETWPm90YY.htm)|Aura magique|`@Compendium[pf2e.spells-srd.PRrZ7anETWPm90YY]`|
-|[Magic Fang](spells/trs-01-EE7Q5BHIrfWNCPtT.htm)|Morsure magique|`@Compendium[pf2e.spells-srd.EE7Q5BHIrfWNCPtT]`|
-|[Magic Hide](spells/abj-01-u2uSeH6YSbK1ajTy.htm)|Peau magique|`@Compendium[pf2e.spells-srd.u2uSeH6YSbK1ajTy]`|
-|[Magic Missile](spells/evo-01-gKKqvLohtrSJj3BM.htm)|Projectile magique|`@Compendium[pf2e.spells-srd.gKKqvLohtrSJj3BM]`|
-|[Magic Mouth](spells/ill-02-eIQ86FOXK34HiNLs.htm)|Bouche magique|`@Compendium[pf2e.spells-srd.eIQ86FOXK34HiNLs]`|
-|[Magic Stone](spells/nec-01-9u6X9ykhzG11NK1n.htm)|Pierre magique|`@Compendium[pf2e.spells-srd.9u6X9ykhzG11NK1n]`|
-|[Magic Warrior Aspect](spells/trs-02-b6UnLNikoq2Std1f.htm)|Aspect du Guerrier Magique|`@Compendium[pf2e.spells-srd.b6UnLNikoq2Std1f]`|
-|[Magic Warrior Transformation](spells/trs-02-tp4K7mYDL5MRHvJc.htm)|Transformation du Guerrier magique|`@Compendium[pf2e.spells-srd.tp4K7mYDL5MRHvJc]`|
-|[Magic Weapon](spells/trs-01-TFitdEOpQC4SzKQQ.htm)|Arme magique|`@Compendium[pf2e.spells-srd.TFitdEOpQC4SzKQQ]`|
-|[Magic's Vessel](spells/enc-01-u4FGIUQgruLjml7J.htm)|Réceptacle magique|`@Compendium[pf2e.spells-srd.u4FGIUQgruLjml7J]`|
-|[Magical Fetters](spells/con-03-2ZPqcM9wNoVnpwkK.htm)|Entraves magiques|`@Compendium[pf2e.spells-srd.2ZPqcM9wNoVnpwkK]`|
-|[Magnificent Mansion](spells/con-07-vPWMEyVTreMOoFnm.htm)|Manoir somptueux|`@Compendium[pf2e.spells-srd.vPWMEyVTreMOoFnm]`|
-|[Malicious Shadow](spells/evo-03-vhMCd15ZwNJn0zen.htm)|Ombre malicieuse|`@Compendium[pf2e.spells-srd.vhMCd15ZwNJn0zen]`|
-|[Malignant Sustenance](spells/nec-04-qzsQmpiQodHBBWYI.htm)|Alimentation maléfique|`@Compendium[pf2e.spells-srd.qzsQmpiQodHBBWYI]`|
-|[Mantis Form](spells/trs-04-bKDsmKVosexwJ80i.htm)|Forme de la mante|`@Compendium[pf2e.spells-srd.bKDsmKVosexwJ80i]`|
-|[Mariner's Curse](spells/nec-05-z2mfh3oPnfYqXflY.htm)|Malédicition du marin|`@Compendium[pf2e.spells-srd.z2mfh3oPnfYqXflY]`|
-|[Mask of Terror](spells/ill-07-O6VQC1Bs4aSYDa6R.htm)|Masque terrifiant|`@Compendium[pf2e.spells-srd.O6VQC1Bs4aSYDa6R]`|
-|[Massacre](spells/nec-09-10VcmSYNBrvBphu1.htm)|Massacre|`@Compendium[pf2e.spells-srd.10VcmSYNBrvBphu1]`|
-|[Maze](spells/con-08-Oj1PJBMQD9vuwCv7.htm)|Dédale|`@Compendium[pf2e.spells-srd.Oj1PJBMQD9vuwCv7]`|
-|[Maze of Locked Doors](spells/abj-07-qOeBQyC1z7OScHvP.htm)|Dédale de portes fermées|`@Compendium[pf2e.spells-srd.qOeBQyC1z7OScHvP]`|
-|[Medusa's Wrath](spells/trs-08-wTYxxYJWN348oV15.htm)|Courroux de la méduse|`@Compendium[pf2e.spells-srd.wTYxxYJWN348oV15]`|
-|[Meld into Stone](spells/trs-03-vh1RpbWfqdNC4L3P.htm)|Fusion dans la pierre|`@Compendium[pf2e.spells-srd.vh1RpbWfqdNC4L3P]`|
-|[Mending](spells/trs-01-dINQzhqGmIsqGMUY.htm)|Réparation|`@Compendium[pf2e.spells-srd.dINQzhqGmIsqGMUY]`|
-|[Message](spells/ill-00-vLzFcIaSXs7YTIqJ.htm)|Message|`@Compendium[pf2e.spells-srd.vLzFcIaSXs7YTIqJ]`|
-|[Message Rune](spells/abj-01-Z7N5IxJCwrAdIgSg.htm)|Rune messagère|`@Compendium[pf2e.spells-srd.Z7N5IxJCwrAdIgSg]`|
-|[Meteor Swarm](spells/evo-09-jrBa9deU2ULFWvSl.htm)|Nuée de météores|`@Compendium[pf2e.spells-srd.jrBa9deU2ULFWvSl]`|
-|[Mind Blank](spells/abj-08-C2w3YfBKjIRS07DP.htm)|Esprit impénétrable|`@Compendium[pf2e.spells-srd.C2w3YfBKjIRS07DP]`|
-|[Mind Probe](spells/div-05-9BnhadUO8FMLmeZ3.htm)|Sonde mentale|`@Compendium[pf2e.spells-srd.9BnhadUO8FMLmeZ3]`|
-|[Mind Reading](spells/div-03-KHnhPHL4x1AQHfbC.htm)|Lecture des pensées|`@Compendium[pf2e.spells-srd.KHnhPHL4x1AQHfbC]`|
-|[Mindlink](spells/div-01-D442XMADp01qJ7Cs.htm)|Lien mental|`@Compendium[pf2e.spells-srd.D442XMADp01qJ7Cs]`|
-|[Miracle](spells/div-10-YfJTXyVGzLhM6V8U.htm)|Miracle|`@Compendium[pf2e.spells-srd.YfJTXyVGzLhM6V8U]`|
-|[Mirror Image](spells/ill-02-j8vIoIEWElvpwkcI.htm)|Image miroir|`@Compendium[pf2e.spells-srd.j8vIoIEWElvpwkcI]`|
-|[Misdirection](spells/ill-02-c2bTWBNO1BYX4Zfg.htm)|Détection faussée|`@Compendium[pf2e.spells-srd.c2bTWBNO1BYX4Zfg]`|
-|[Mislead](spells/ill-06-WPXzPl7YbMEIGWfi.htm)|Double illusoire|`@Compendium[pf2e.spells-srd.WPXzPl7YbMEIGWfi]`|
-|[Modify Memory](spells/div-04-FhOaQDTSnsY7tiam.htm)|Modification de mémoire|`@Compendium[pf2e.spells-srd.FhOaQDTSnsY7tiam]`|
-|[Moment of Renewal](spells/nec-08-4MOew29Z1oCX8O28.htm)|Instant de renouveau|`@Compendium[pf2e.spells-srd.4MOew29Z1oCX8O28]`|
-|[Monstrosity Form](spells/trs-08-8AMvNVOUEtxBCDvJ.htm)|Forme monstrueuse|`@Compendium[pf2e.spells-srd.8AMvNVOUEtxBCDvJ]`|
-|[Moon Frenzy](spells/trs-05-YtesyvfAIwXOqISq.htm)|Frénésie lunaire|`@Compendium[pf2e.spells-srd.YtesyvfAIwXOqISq]`|
-|[Moonbeam](spells/evo-01-SuBtUJiU6DbSJYIw.htm)|Rayon de lune|`@Compendium[pf2e.spells-srd.SuBtUJiU6DbSJYIw]`|
-|[Moonlight Bridge](spells/con-06-In2A7GCyxxaqZdPI.htm)|Pont de Lumière lunaire|`@Compendium[pf2e.spells-srd.In2A7GCyxxaqZdPI]`|
-|[Mystic Beacon](spells/evo-04-2SYq0ZTsOtJEigFx.htm)|Phare mystique|`@Compendium[pf2e.spells-srd.2SYq0ZTsOtJEigFx]`|
-|[Nature Incarnate](spells/trs-10-ZXwxs5tRjEGrjAJT.htm)|Incarnation de la nature|`@Compendium[pf2e.spells-srd.ZXwxs5tRjEGrjAJT]`|
-|[Nature's Bounty](spells/con-04-vSSKyUdrHu86E5Gk.htm)|Générosité naturelle|`@Compendium[pf2e.spells-srd.vSSKyUdrHu86E5Gk]`|
-|[Nature's Enmity](spells/enc-09-Tc5NLaMu71vrGTJQ.htm)|Hostilité naturelle|`@Compendium[pf2e.spells-srd.Tc5NLaMu71vrGTJQ]`|
-|[Necrotic Radiation](spells/nec-04-29p7NMY2OTpaINzt.htm)|Radiation nécrotique|`@Compendium[pf2e.spells-srd.29p7NMY2OTpaINzt]`|
-|[Needle of Vengeance](spells/enc-01-aEitTTb9PnOyidRf.htm)|Aiguille de la vengeance|`@Compendium[pf2e.spells-srd.aEitTTb9PnOyidRf]`|
-|[Negate Aroma](spells/abj-01-0fKHBh5goe2eiFYL.htm)|Supprimer l’arôme|`@Compendium[pf2e.spells-srd.0fKHBh5goe2eiFYL]`|
-|[Neutralize Poison](spells/nec-03-SUKaxVZW2TlM8lu0.htm)|Neutralisation du poison|`@Compendium[pf2e.spells-srd.SUKaxVZW2TlM8lu0]`|
-|[Nightmare](spells/ill-04-Uqj344bezBq3ESdq.htm)|Cauchemar|`@Compendium[pf2e.spells-srd.Uqj344bezBq3ESdq]`|
-|[Nondetection](spells/abj-03-EoKBlgf6Smt8opaU.htm)|Antidétection|`@Compendium[pf2e.spells-srd.EoKBlgf6Smt8opaU]`|
-|[Noxious Vapors](spells/evo-01-1meVElIu1CEVYWkv.htm)|Vapeurs nocives|`@Compendium[pf2e.spells-srd.1meVElIu1CEVYWkv]`|
-|[Nudge Fate](spells/div-00-G0T1xv1FoZ23Jxvt.htm)|Coup de pouce au destin|`@Compendium[pf2e.spells-srd.G0T1xv1FoZ23Jxvt]`|
-|[Nymph's Token](spells/enc-01-pHrVvoTKygXeczVG.htm)|Amulette de la nymphe|`@Compendium[pf2e.spells-srd.pHrVvoTKygXeczVG]`|
-|[Oathkeeper's Insignia](spells/con-01-cokeXkDHUAo4zHsw.htm)|Insigne du gardien du serment|`@Compendium[pf2e.spells-srd.cokeXkDHUAo4zHsw]`|
-|[Object Memory](spells/div-01-RztmhJrLLQWoGVdB.htm)|Mémoire de l'objet|`@Compendium[pf2e.spells-srd.RztmhJrLLQWoGVdB]`|
-|[Object Reading](spells/div-01-5LYi9Efs6cko4GGL.htm)|Lecture d'objet|`@Compendium[pf2e.spells-srd.5LYi9Efs6cko4GGL]`|
-|[Obscuring Mist](spells/con-02-9XHmC2JgTUIQ1CCm.htm)|Brume de dissimulation|`@Compendium[pf2e.spells-srd.9XHmC2JgTUIQ1CCm]`|
-|[Ode to Ouroboros](spells/nec-05-DgCS456mXKw97vNy.htm)|Ode à Ouroboros|`@Compendium[pf2e.spells-srd.DgCS456mXKw97vNy]`|
-|[Outcast's Curse](spells/enc-04-KSAEhNfZyXMO7Z7V.htm)|Malédiction du paria|`@Compendium[pf2e.spells-srd.KSAEhNfZyXMO7Z7V]`|
-|[Overflowing Sorrow](spells/enc-04-eCniO6INHNfc9Svr.htm)|Chagrins débordantss|`@Compendium[pf2e.spells-srd.eCniO6INHNfc9Svr]`|
-|[Overstuff](spells/trs-01-mFHQ2u4LWiejqKQG.htm)|Gaver|`@Compendium[pf2e.spells-srd.mFHQ2u4LWiejqKQG]`|
-|[Overwhelming Presence](spells/enc-09-fkDeKktdmbeplYRY.htm)|Présence écrasante|`@Compendium[pf2e.spells-srd.fkDeKktdmbeplYRY]`|
-|[Owb Pact](spells/con-03-u3G7KX1qpFJlSeWm.htm)||`@Compendium[pf2e.spells-srd.u3G7KX1qpFJlSeWm]`|
-|[Paralyze](spells/enc-03-DCQHaLrYXMI37dvW.htm)|Paralysie|`@Compendium[pf2e.spells-srd.DCQHaLrYXMI37dvW]`|
-|[Paranoia](spells/ill-02-Mkbq9xlAUxHUHyR2.htm)|Paranoïa|`@Compendium[pf2e.spells-srd.Mkbq9xlAUxHUHyR2]`|
-|[Parch](spells/evo-01-7CUgqHunmHfW2lC5.htm)|Dessécher|`@Compendium[pf2e.spells-srd.7CUgqHunmHfW2lC5]`|
-|[Pass Without Trace](spells/abj-01-zlnXpME1T2uvn8Lr.htm)|Passage sans trace|`@Compendium[pf2e.spells-srd.zlnXpME1T2uvn8Lr]`|
-|[Passwall](spells/con-05-115Xp9E38CJENhNS.htm)|Passe-muraille|`@Compendium[pf2e.spells-srd.115Xp9E38CJENhNS]`|
-|[Penumbral Shroud](spells/evo-01-zdb8cjOIDVKYMWdr.htm)|Voile d'ombre|`@Compendium[pf2e.spells-srd.zdb8cjOIDVKYMWdr]`|
-|[Perfect Strike](spells/div-02-GQopUYTuhmtb7WMG.htm)|Coup parfait|`@Compendium[pf2e.spells-srd.GQopUYTuhmtb7WMG]`|
-|[Perfected Form](spells/abj-04-8ifpNZkaxrbs3dBJ.htm)|Forme parfaite|`@Compendium[pf2e.spells-srd.8ifpNZkaxrbs3dBJ]`|
-|[Perfected Mind](spells/abj-01-cDFAQN7Z3es07WSA.htm)|Esprit perfectionné|`@Compendium[pf2e.spells-srd.cDFAQN7Z3es07WSA]`|
-|[Perseis's Precautions](spells/div-03-ovx7O2FHvkjXhMcA.htm)|Précautions de Perséis|`@Compendium[pf2e.spells-srd.ovx7O2FHvkjXhMcA]`|
-|[Personal Blizzard](spells/con-03-g4MAIQodRDVfNp1B.htm)|Blizzard personnel|`@Compendium[pf2e.spells-srd.g4MAIQodRDVfNp1B]`|
-|[Personal Rain Cloud](spells/evo-01-kJKSLfCgqxmN2FY8.htm)|Nuage de pluie individuel|`@Compendium[pf2e.spells-srd.kJKSLfCgqxmN2FY8]`|
-|[Pest Form](spells/trs-01-gfPjmG6Fe6D3MFjl.htm)|Forme de nuisible|`@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]`|
-|[Pet Cache](spells/con-01-F1nlmqOIucch3Cmt.htm)|Cachette de l'animal de compagnie|`@Compendium[pf2e.spells-srd.F1nlmqOIucch3Cmt]`|
-|[Phantasmal Calamity](spells/ill-06-0XP2XOxT9VSiXFDr.htm)|Calamité imaginaire|`@Compendium[pf2e.spells-srd.0XP2XOxT9VSiXFDr]`|
-|[Phantasmal Killer](spells/ill-04-tlcrVRqW1MSKJ5IC.htm)|Assassin imaginaire|`@Compendium[pf2e.spells-srd.tlcrVRqW1MSKJ5IC]`|
-|[Phantasmal Treasure](spells/ill-02-L0GoJpHxSD0wRY5k.htm)|Trésor fantasmatique|`@Compendium[pf2e.spells-srd.L0GoJpHxSD0wRY5k]`|
-|[Phantom Pain](spells/ill-01-R8bqnYiThB6MYTxD.htm)|Douleur fantôme|`@Compendium[pf2e.spells-srd.R8bqnYiThB6MYTxD]`|
-|[Phantom Steed](spells/con-02-WPKJOhEihhcIm2uQ.htm)|Coursier fantôme|`@Compendium[pf2e.spells-srd.WPKJOhEihhcIm2uQ]`|
-|[Phase Familiar](spells/abj-01-rMOI8JFJ0nT2mrCF.htm)|Déphasage de familier|`@Compendium[pf2e.spells-srd.rMOI8JFJ0nT2mrCF]`|
-|[Physical Boost](spells/trs-01-1lmzILdCFENln8Cy.htm)|Amélioration physique|`@Compendium[pf2e.spells-srd.1lmzILdCFENln8Cy]`|
-|[Pied Piping](spells/enc-10-Um0aaJotqMKGmAlR.htm)|Flûte de Hamelin|`@Compendium[pf2e.spells-srd.Um0aaJotqMKGmAlR]`|
-|[Pillar of Water](spells/evo-03-eIPIZp2FUbFcLNdj.htm)|Pilier d'eau|`@Compendium[pf2e.spells-srd.eIPIZp2FUbFcLNdj]`|
-|[Pillars of Sand](spells/con-05-qr0HOiiuqj5LKlDt.htm)|Piliers de sable|`@Compendium[pf2e.spells-srd.qr0HOiiuqj5LKlDt]`|
-|[Planar Ally](spells/con-05-vgy00hnqxN9VoeoF.htm)|Allié planaire|`@Compendium[pf2e.spells-srd.vgy00hnqxN9VoeoF]`|
-|[Planar Binding](spells/abj-06-2ykmAVKrsAWcazcC.htm)|Contrat planaire|`@Compendium[pf2e.spells-srd.2ykmAVKrsAWcazcC]`|
-|[Plane Shift](spells/con-07-5bTt2CvYHPvaR7QQ.htm)|Changement de plan|`@Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]`|
-|[Plant Form](spells/trs-05-zCcfPS4y5SrZzU2x.htm)|Forme de plante|`@Compendium[pf2e.spells-srd.zCcfPS4y5SrZzU2x]`|
-|[Plant Growth](spells/nec-04-ZhJ8d9Uk4lwIx86b.htm)|Croissance végétale|`@Compendium[pf2e.spells-srd.ZhJ8d9Uk4lwIx86b]`|
-|[Polar Ray](spells/evo-08-BKIet436snMNcnez.htm)|Rayon polaire|`@Compendium[pf2e.spells-srd.BKIet436snMNcnez]`|
-|[Positive Luminance](spells/nec-04-8XuNn0h0rHE24m3B.htm)|Luminosité positive|`@Compendium[pf2e.spells-srd.8XuNn0h0rHE24m3B]`|
-|[Possession](spells/nec-07-wU6hNzK8Yfqdmc8m.htm)|Possession|`@Compendium[pf2e.spells-srd.wU6hNzK8Yfqdmc8m]`|
-|[Power Word Blind](spells/enc-07-Yk3t4ekEiFIoEz9c.htm)|Mot de pouvoir aveuglant|`@Compendium[pf2e.spells-srd.Yk3t4ekEiFIoEz9c]`|
-|[Power Word Kill](spells/enc-09-m3lcOFm400lQCUps.htm)|Mot de pouvoir mortel|`@Compendium[pf2e.spells-srd.m3lcOFm400lQCUps]`|
-|[Power Word Stun](spells/enc-08-7PJSqUeKxTqOVrPk.htm)|Mot de pouvoir étourdissant|`@Compendium[pf2e.spells-srd.7PJSqUeKxTqOVrPk]`|
-|[Practice Makes Perfect](spells/div-01-HOj2YsTpkoMpYJH9.htm)|En forgeant on devient forgeron|`@Compendium[pf2e.spells-srd.HOj2YsTpkoMpYJH9]`|
-|[Precious Metals](spells/trs-04-APTMURAW1N0Wpk4w.htm)|Métaux précieux|`@Compendium[pf2e.spells-srd.APTMURAW1N0Wpk4w]`|
-|[Prestidigitation](spells/evo-00-Qw3fnUlaUbnn7ipC.htm)|Prestidigitation|`@Compendium[pf2e.spells-srd.Qw3fnUlaUbnn7ipC]`|
-|[Primal Call](spells/abj-06-pZc8ZwtsyWnxUUW0.htm)|Appel primordial|`@Compendium[pf2e.spells-srd.pZc8ZwtsyWnxUUW0]`|
-|[Primal Herd](spells/trs-10-pmP8HhXvvEKP3LqU.htm)|Troupeau primitif|`@Compendium[pf2e.spells-srd.pmP8HhXvvEKP3LqU]`|
-|[Primal Phenomenon](spells/div-10-MLNeD5sAunV0E23j.htm)|Phénomène primordial|`@Compendium[pf2e.spells-srd.MLNeD5sAunV0E23j]`|
-|[Primal Summons](spells/con-06-kwlKUxEuT8T15YW6.htm)|Convocations primordiales|`@Compendium[pf2e.spells-srd.kwlKUxEuT8T15YW6]`|
-|[Prismatic Sphere](spells/abj-09-PngDCmU0MXZkbu0v.htm)|Sphère prismatique|`@Compendium[pf2e.spells-srd.PngDCmU0MXZkbu0v]`|
-|[Prismatic Spray](spells/evo-07-d6o52BnjViNz7Gub.htm)|Rayon prismatique|`@Compendium[pf2e.spells-srd.d6o52BnjViNz7Gub]`|
-|[Prismatic Wall](spells/abj-08-iL6TujgTCtRRa0Y0.htm)|Mur prismatique|`@Compendium[pf2e.spells-srd.iL6TujgTCtRRa0Y0]`|
-|[Private Sanctum](spells/abj-04-onjZCEHs3JJJRTD0.htm)|Sanctuaire secret|`@Compendium[pf2e.spells-srd.onjZCEHs3JJJRTD0]`|
-|[Produce Flame](spells/evo-00-O9w7r4BKgPogYDDe.htm)|Flammes|`@Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]`|
-|[Project Image](spells/ill-07-0873MWM0qKDDv81O.htm)|Projection d'image|`@Compendium[pf2e.spells-srd.0873MWM0qKDDv81O]`|
-|[Protection](spells/abj-01-gMODOGamz88rgHuf.htm)|Protection|`@Compendium[pf2e.spells-srd.gMODOGamz88rgHuf]`|
-|[Protective Ward](spells/abj-01-lY9fOk1qBDDhBT8s.htm)|Champ protecteur|`@Compendium[pf2e.spells-srd.lY9fOk1qBDDhBT8s]`|
-|[Protector's Sacrifice](spells/abj-01-rQYob0QMJ0I1U2sU.htm)|Sacrifice du protecteur|`@Compendium[pf2e.spells-srd.rQYob0QMJ0I1U2sU]`|
-|[Protector's Sphere](spells/abj-04-DH9Y3RQGWO0GzXGU.htm)|Sphère du protecteur|`@Compendium[pf2e.spells-srd.DH9Y3RQGWO0GzXGU]`|
-|[Prying Eye](spells/div-05-Ek5XI0aEdZhBgm21.htm)|Œil indiscret|`@Compendium[pf2e.spells-srd.Ek5XI0aEdZhBgm21]`|
-|[Prying Survey](spells/div-08-pt3gEnzA159uHcJC.htm)|Surveillance fouineuse|`@Compendium[pf2e.spells-srd.pt3gEnzA159uHcJC]`|
-|[Pulse of the City](spells/div-04-ivKnEtI1z4UqEKIA.htm)|Pouls de la ville|`@Compendium[pf2e.spells-srd.ivKnEtI1z4UqEKIA]`|
-|[Pummeling Rubble](spells/evo-01-Rn2LkoSq1XhLsODV.htm)|Frappe de débris|`@Compendium[pf2e.spells-srd.Rn2LkoSq1XhLsODV]`|
-|[Punishing Winds](spells/evo-08-wi405lBjPcbF1DeR.htm)|Vents punitifs|`@Compendium[pf2e.spells-srd.wi405lBjPcbF1DeR]`|
-|[Purify Food and Drink](spells/nec-01-qXTB7Ec9yYh5JPPV.htm)|Purifier la nourriture et la boisson|`@Compendium[pf2e.spells-srd.qXTB7Ec9yYh5JPPV]`|
-|[Purple Worm Sting](spells/nec-06-ayRXv0wQH00TTNZe.htm)|Dard du ver pourpre|`@Compendium[pf2e.spells-srd.ayRXv0wQH00TTNZe]`|
-|[Pushing Gust](spells/con-01-myC2EIrsjmB8xosi.htm)|Bourrasque agressive|`@Compendium[pf2e.spells-srd.myC2EIrsjmB8xosi]`|
-|[Putrefy Food and Drink](spells/nec-01-CxpFy4HJHf4ACbxF.htm)|Corruption de la nourriture et de la boisson|`@Compendium[pf2e.spells-srd.CxpFy4HJHf4ACbxF]`|
-|[Pyrotechnics](spells/trs-03-TUbXnR4RAuYzRx1u.htm)|Pyrotechnie|`@Compendium[pf2e.spells-srd.TUbXnR4RAuYzRx1u]`|
-|[Quench](spells/abj-02-02J0rDTk37KN2sjt.htm)|Éteindre|`@Compendium[pf2e.spells-srd.02J0rDTk37KN2sjt]`|
-|[Quivering Palm](spells/nec-08-Ovvflf5aFbmBxqq8.htm)|Paume vibratoire|`@Compendium[pf2e.spells-srd.Ovvflf5aFbmBxqq8]`|
-|[Raise Dead](spells/nec-06-IkGYwHRLhkuoGReG.htm)|Rappel à la vie|`@Compendium[pf2e.spells-srd.IkGYwHRLhkuoGReG]`|
-|[Ranger's Bramble](spells/trs-03-KktHf7zIAWOr499h.htm)|Roncier du rôdeur|`@Compendium[pf2e.spells-srd.KktHf7zIAWOr499h]`|
-|[Ravening Maw](spells/nec-05-VDWIZuLOJqwBthHc.htm)|Mâchoire dévorante|`@Compendium[pf2e.spells-srd.VDWIZuLOJqwBthHc]`|
-|[Ravenous Reanimation](spells/nec-07-u3pdkfmy0AWICdoM.htm)|Réanimation vorace|`@Compendium[pf2e.spells-srd.u3pdkfmy0AWICdoM]`|
-|[Ray of Enfeeblement](spells/nec-01-J7Y7tl0bbdz7TcCc.htm)|Rayon affaiblissant|`@Compendium[pf2e.spells-srd.J7Y7tl0bbdz7TcCc]`|
-|[Ray of Frost](spells/evo-00-gYjPm7YwGtEa1oxh.htm)|Rayon de givre|`@Compendium[pf2e.spells-srd.gYjPm7YwGtEa1oxh]`|
-|[Read Aura](spells/div-00-OhD2Z6rIGGD5ocZA.htm)|Lecture de l'aura|`@Compendium[pf2e.spells-srd.OhD2Z6rIGGD5ocZA]`|
-|[Read Fate](spells/div-01-Vvxgn7saUPW2bJhb.htm)|Lire le destin|`@Compendium[pf2e.spells-srd.Vvxgn7saUPW2bJhb]`|
-|[Read Omens](spells/div-04-pkcOby5prOausy1k.htm)|Lire les présages|`@Compendium[pf2e.spells-srd.pkcOby5prOausy1k]`|
-|[Reaper's Lantern](spells/nec-02-dxOF7d5kAWusLKWF.htm)|Lanterne de la Faucheuse|`@Compendium[pf2e.spells-srd.dxOF7d5kAWusLKWF]`|
-|[Rebounding Barrier](spells/abj-04-5p8naLYjFcG13OkU.htm)|Barrière rebondissante|`@Compendium[pf2e.spells-srd.5p8naLYjFcG13OkU]`|
-|[Rebuke Death](spells/nec-04-4nHYSMHito1GUXlm.htm)|Réprimander la mort|`@Compendium[pf2e.spells-srd.4nHYSMHito1GUXlm]`|
-|[Redact](spells/trs-01-ifXNOhtmU4fKL68v.htm)|Corriger|`@Compendium[pf2e.spells-srd.ifXNOhtmU4fKL68v]`|
-|[Reflective Scales](spells/abj-04-Mv5L4201uk8hnAtD.htm)|Écailles réfléchisantes|`@Compendium[pf2e.spells-srd.Mv5L4201uk8hnAtD]`|
-|[Regenerate](spells/nec-07-2Vkd1IxylPceUAAF.htm)|Régénération|`@Compendium[pf2e.spells-srd.2Vkd1IxylPceUAAF]`|
-|[Reincarnate](spells/nec-03-gIVaSCrLhhBzGHQY.htm)|Réincarnation|`@Compendium[pf2e.spells-srd.gIVaSCrLhhBzGHQY]`|
-|[Remake](spells/con-10-dMKP4fkWx8V2cqAy.htm)|Recréer|`@Compendium[pf2e.spells-srd.dMKP4fkWx8V2cqAy]`|
-|[Remember the Lost](spells/div-04-nrW6lGV4xDMqLS3P.htm)|Souvenez vous des pertes|`@Compendium[pf2e.spells-srd.nrW6lGV4xDMqLS3P]`|
-|[Remove Curse](spells/nec-04-OyFCwQuw8XRazsNr.htm)|Délivrance des malédictions|`@Compendium[pf2e.spells-srd.OyFCwQuw8XRazsNr]`|
-|[Remove Disease](spells/nec-03-RneiyehRO6f7LP44.htm)|Délivrance des maladies|`@Compendium[pf2e.spells-srd.RneiyehRO6f7LP44]`|
-|[Remove Fear](spells/enc-02-EfFMLVbmkBWmzoLF.htm)|Délivrance de la peur|`@Compendium[pf2e.spells-srd.EfFMLVbmkBWmzoLF]`|
-|[Remove Paralysis](spells/nec-02-BCuHKrDeJ4eq53M6.htm)|Délivrance de la paralysie|`@Compendium[pf2e.spells-srd.BCuHKrDeJ4eq53M6]`|
-|[Repulsion](spells/abj-06-yrZA4k2VAqEP8xx7.htm)|Répulsion|`@Compendium[pf2e.spells-srd.yrZA4k2VAqEP8xx7]`|
-|[Resilient Sphere](spells/abj-04-qJQADktwD0x8kLAy.htm)|Sphère d'isolement|`@Compendium[pf2e.spells-srd.qJQADktwD0x8kLAy]`|
-|[Resist Energy](spells/abj-02-Fr58LDSrbndgld9n.htm)|Résistance à l'énergie|`@Compendium[pf2e.spells-srd.Fr58LDSrbndgld9n]`|
-|[Resplendent Mansion](spells/con-09-KPDHmmjJiw7PhTYF.htm)|Manoir resplendissant|`@Compendium[pf2e.spells-srd.KPDHmmjJiw7PhTYF]`|
-|[Rest Eternal](spells/nec-04-MTNlvZ0A9xY5sOg1.htm)|Repos éternel|`@Compendium[pf2e.spells-srd.MTNlvZ0A9xY5sOg1]`|
-|[Restoration](spells/nec-02-SnaLVgxZ9ryUFmUr.htm)|Restauration|`@Compendium[pf2e.spells-srd.SnaLVgxZ9ryUFmUr]`|
-|[Restorative Moment](spells/nec-05-pCvJ4yoZJxDtgUMI.htm)|Moment restauratif|`@Compendium[pf2e.spells-srd.pCvJ4yoZJxDtgUMI]`|
-|[Restore Senses](spells/nec-02-Et8RSCLx8w7uOLvo.htm)|Restaurer les sens|`@Compendium[pf2e.spells-srd.Et8RSCLx8w7uOLvo]`|
-|[Resurrect](spells/nec-05-kqhPt9344UkcGVYO.htm)|Résurrection|`@Compendium[pf2e.spells-srd.kqhPt9344UkcGVYO]`|
-|[Retributive Pain](spells/abj-04-SSsUC7rZo0CwayPn.htm)|Souffrance vengeresse|`@Compendium[pf2e.spells-srd.SSsUC7rZo0CwayPn]`|
-|[Retrocognition](spells/div-07-rsZ5c0AUyywe5yoK.htm)|Rétrocognition|`@Compendium[pf2e.spells-srd.rsZ5c0AUyywe5yoK]`|
-|[Reverse Gravity](spells/evo-07-37ESlJzUvVbOudOT.htm)|Inversion de la gravité|`@Compendium[pf2e.spells-srd.37ESlJzUvVbOudOT]`|
-|[Revival](spells/nec-10-HpIJTVqgXorH9X0L.htm)|Vivifier|`@Compendium[pf2e.spells-srd.HpIJTVqgXorH9X0L]`|
-|[Righteous Might](spells/trs-06-MMCQsh12TPaDdPbV.htm)|Force du colosse|`@Compendium[pf2e.spells-srd.MMCQsh12TPaDdPbV]`|
-|[Rime Slick](spells/evo-02-Popa5umI3H33levx.htm)|Couche de givre|`@Compendium[pf2e.spells-srd.Popa5umI3H33levx]`|
-|[Roar of the Wyrm](spells/enc-04-FSu6ZKxr3xdS75wq.htm)|Rugissement du Ver|`@Compendium[pf2e.spells-srd.FSu6ZKxr3xdS75wq]`|
-|[Rope Trick](spells/con-04-GzdgM0m7wXKuFSho.htm)|Corde enchantée|`@Compendium[pf2e.spells-srd.GzdgM0m7wXKuFSho]`|
-|[Rusting Grasp](spells/trs-04-0fYE64odlKqISzft.htm)|Poigne oxydante|`@Compendium[pf2e.spells-srd.0fYE64odlKqISzft]`|
-|[Safe Passage](spells/abj-03-IFuEzfmmWyNwVbhY.htm)|Passage sûr|`@Compendium[pf2e.spells-srd.IFuEzfmmWyNwVbhY]`|
-|[Safeguard Secret](spells/abj-04-OsrtOeG0TvDNnEFH.htm)|Secret bien gardé|`@Compendium[pf2e.spells-srd.OsrtOeG0TvDNnEFH]`|
-|[Sanctified Ground](spells/abj-03-y3jlOfgsQH1JjkJE.htm)|Zone sanctifiée|`@Compendium[pf2e.spells-srd.y3jlOfgsQH1JjkJE]`|
-|[Sanctuary](spells/abj-01-8xRzLhwGL7Dgy3EZ.htm)|Sanctuaire|`@Compendium[pf2e.spells-srd.8xRzLhwGL7Dgy3EZ]`|
-|[Savant's Curse](spells/enc-04-APDrC83QljsyHenB.htm)|Malédiction du savant|`@Compendium[pf2e.spells-srd.APDrC83QljsyHenB]`|
-|[Savor the Sting](spells/enc-01-xn0V2HDrmDWNzPEt.htm)|Savourer la douleur|`@Compendium[pf2e.spells-srd.xn0V2HDrmDWNzPEt]`|
-|[Scholarly Recollection](spells/div-01-dXIRotMLsABDQQSB.htm)|Souvenirs érudits|`@Compendium[pf2e.spells-srd.dXIRotMLsABDQQSB]`|
-|[Scintillating Pattern](spells/ill-08-uEyfLoFQsRKBRIcB.htm)|Motif scintillant|`@Compendium[pf2e.spells-srd.uEyfLoFQsRKBRIcB]`|
-|[Scintillating Safeguard](spells/abj-06-9W2Qv0wXLg6tQg3y.htm)|Précaution scintillante|`@Compendium[pf2e.spells-srd.9W2Qv0wXLg6tQg3y]`|
-|[Scouring Sand](spells/evo-01-HGmBY8KjgLV97nUp.htm)|Sable décapant|`@Compendium[pf2e.spells-srd.HGmBY8KjgLV97nUp]`|
-|[Scrying](spells/div-06-r784cIz17eWujtQj.htm)|Scrutation|`@Compendium[pf2e.spells-srd.r784cIz17eWujtQj]`|
-|[Sculpt Sound](spells/ill-03-HHGUBGle4OjoxvNR.htm)|Sculpter le son|`@Compendium[pf2e.spells-srd.HHGUBGle4OjoxvNR]`|
-|[Sea Surge](spells/evo-02-cf7Jkm39uEjUFtHt.htm)|Onde océanique|`@Compendium[pf2e.spells-srd.cf7Jkm39uEjUFtHt]`|
-|[Seal Fate](spells/nec-04-gfKhtVsXF3HKSdmY.htm)|Sceller le destin|`@Compendium[pf2e.spells-srd.gfKhtVsXF3HKSdmY]`|
-|[Searing Light](spells/evo-03-DyiD239dNS7RIxZE.htm)|Lumière brûlante|`@Compendium[pf2e.spells-srd.DyiD239dNS7RIxZE]`|
-|[Secret Chest](spells/con-05-BoA00y45uDlmou07.htm)|Coffre secret|`@Compendium[pf2e.spells-srd.BoA00y45uDlmou07]`|
-|[Secret Page](spells/ill-03-VVAZPCvd4d90qVA1.htm)|Page secrète|`@Compendium[pf2e.spells-srd.VVAZPCvd4d90qVA1]`|
-|[See Invisibility](spells/div-02-jwK43yKsHTkJQvQ9.htm)|Détection de l'invisibilité|`@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]`|
-|[Sending](spells/div-05-R9xqCBblkS5KE4y7.htm)|Communication à distance|`@Compendium[pf2e.spells-srd.R9xqCBblkS5KE4y7]`|
-|[Sepulchral Mask](spells/div-01-3mINzPzup2m9qzFU.htm)|Masque sépucral|`@Compendium[pf2e.spells-srd.3mINzPzup2m9qzFU]`|
-|[Shadow Blast](spells/evo-05-IqJ9URobmJ9L9UBG.htm)|Explosion d'ombre|`@Compendium[pf2e.spells-srd.IqJ9URobmJ9L9UBG]`|
-|[Shadow Illusion](spells/ill-06-EOWh6VVcSjB3WPjX.htm)|Illusion de l'ombre|`@Compendium[pf2e.spells-srd.EOWh6VVcSjB3WPjX]`|
-|[Shadow Jump](spells/con-05-5ttAVJbWg2GVKmrN.htm)|Saut de l'ombre|`@Compendium[pf2e.spells-srd.5ttAVJbWg2GVKmrN]`|
-|[Shadow Siphon](spells/ill-05-tcwT97RWKxsJiefG.htm)|Siphon d'ombre|`@Compendium[pf2e.spells-srd.tcwT97RWKxsJiefG]`|
-|[Shadow Walk](spells/con-05-rxvS7EMJ7qmexAyA.htm)|Traversée des ombres|`@Compendium[pf2e.spells-srd.rxvS7EMJ7qmexAyA]`|
-|[Shadow's Web](spells/evo-07-n8eEXXAtguoErW0y.htm)|Toile d'ombre|`@Compendium[pf2e.spells-srd.n8eEXXAtguoErW0y]`|
-|[Shall not Falter, Shall not Rout](spells/nec-05-rnFAHvKpcsU4BJD4.htm)|Tu ne faibliras pas, tu ne prendras pas la fuite|`@Compendium[pf2e.spells-srd.rnFAHvKpcsU4BJD4]`|
-|[Shape Stone](spells/trs-04-McnPlLFvKtQVXNcG.htm)|Façonnage de la pierre|`@Compendium[pf2e.spells-srd.McnPlLFvKtQVXNcG]`|
-|[Shape Wood](spells/trs-02-CXICME10TkEJxz0P.htm)|Façonnage du bois|`@Compendium[pf2e.spells-srd.CXICME10TkEJxz0P]`|
-|[Shapechange](spells/trs-09-pswdik31kuHEvdno.htm)|Changement de forme|`@Compendium[pf2e.spells-srd.pswdik31kuHEvdno]`|
-|[Share Burden](spells/abj-01-cJq5NarY0eOZN74A.htm)|Partager le Fardeau|`@Compendium[pf2e.spells-srd.cJq5NarY0eOZN74A]`|
-|[Share Lore](spells/div-01-nXmC2Xx9WmS5NsAo.htm)|Connaissance partagée|`@Compendium[pf2e.spells-srd.nXmC2Xx9WmS5NsAo]`|
-|[Shared Nightmare](spells/enc-04-skvgOWNTitLehL0b.htm)|Cauchemar partagé|`@Compendium[pf2e.spells-srd.skvgOWNTitLehL0b]`|
-|[Shatter](spells/evo-02-1xbFBQDRs0hT5xZ9.htm)|Fracassement|`@Compendium[pf2e.spells-srd.1xbFBQDRs0hT5xZ9]`|
-|[Shattering Gem](spells/abj-01-0uRpypf1Hi7ahvTl.htm)|Gemme explosive|`@Compendium[pf2e.spells-srd.0uRpypf1Hi7ahvTl]`|
-|[Shepherd of Souls](spells/nec-05-SzKkzq3Rr6vKIxbp.htm)|Berger des âmes|`@Compendium[pf2e.spells-srd.SzKkzq3Rr6vKIxbp]`|
-|[Shield](spells/abj-00-TVKNbcgTee19PXZR.htm)|Bouclier|`@Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]`|
-|[Shield Other](spells/nec-02-d7Lwx6KAs47MtF0q.htm)|Protection d'autrui|`@Compendium[pf2e.spells-srd.d7Lwx6KAs47MtF0q]`|
-|[Shifting Form](spells/trs-04-SDkIFrrO1PsE02Kd.htm)|Forme changeante|`@Compendium[pf2e.spells-srd.SDkIFrrO1PsE02Kd]`|
-|[Shifting Sand](spells/trs-03-HcIAQZjNXHemoXSU.htm)|Sable mouvant|`@Compendium[pf2e.spells-srd.HcIAQZjNXHemoXSU]`|
-|[Shillelagh](spells/trs-01-s3abwDbTV43pGFFW.htm)|Gourdin magique|`@Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]`|
-|[Shocking Grasp](spells/evo-01-r3NeUnsgt9mS03Sn.htm)|Décharge électrique|`@Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]`|
-|[Shockwave](spells/evo-01-dgCH2E0gMLMUgyFl.htm)|Onde de choc|`@Compendium[pf2e.spells-srd.dgCH2E0gMLMUgyFl]`|
-|[Show the Way](spells/div-03-ThE5zPYKF4weiljj.htm)|Montrer le chemin|`@Compendium[pf2e.spells-srd.ThE5zPYKF4weiljj]`|
-|[Shrink](spells/trs-02-PjhUmyKnq6K5uDby.htm)|Rétrécir|`@Compendium[pf2e.spells-srd.PjhUmyKnq6K5uDby]`|
-|[Shrink Item](spells/trs-03-kWh8sJH7yawidMyW.htm)|Rétrécir un objet|`@Compendium[pf2e.spells-srd.kWh8sJH7yawidMyW]`|
-|[Shroud of Night](spells/evo-00-cE7PRAX8Up7fmYef.htm)|Voile de nuit|`@Compendium[pf2e.spells-srd.cE7PRAX8Up7fmYef]`|
-|[Sigil](spells/trs-00-AUctDF2fqPZN2w4W.htm)|Symbole|`@Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]`|
-|[Silence](spells/ill-02-gIdDLrbswTV3OBJy.htm)|Silence|`@Compendium[pf2e.spells-srd.gIdDLrbswTV3OBJy]`|
-|[Silver's Refrain](spells/abj-00-xM35hJacTM1BSXUl.htm)|Refrain d'argent|`@Compendium[pf2e.spells-srd.xM35hJacTM1BSXUl]`|
-|[Simulacrum](spells/ill-04-h5UqEdeqK8iTcU0J.htm)|Simulacrum|`@Compendium[pf2e.spells-srd.h5UqEdeqK8iTcU0J]`|
-|[Sleep](spells/enc-01-o4lRVTwSxnOOn5vl.htm)|Sommeil|`@Compendium[pf2e.spells-srd.o4lRVTwSxnOOn5vl]`|
-|[Slough Skin](spells/nec-02-X3dYByf3YmkcdwG0.htm)|Mues de peau|`@Compendium[pf2e.spells-srd.X3dYByf3YmkcdwG0]`|
-|[Slow](spells/trs-03-WsUwpfmhKrKwoIe3.htm)|Lenteur|`@Compendium[pf2e.spells-srd.WsUwpfmhKrKwoIe3]`|
-|[Snare Hopping](spells/con-01-dDt8VFuLuhznT19v.htm)|Piège artisanal bondissant|`@Compendium[pf2e.spells-srd.dDt8VFuLuhznT19v]`|
-|[Snowball](spells/evo-01-W6QlRwQLPoBSw6PZ.htm)|Boule de neige|`@Compendium[pf2e.spells-srd.W6QlRwQLPoBSw6PZ]`|
-|[Solid Fog](spells/con-04-piMJO6aYeDJbrhEo.htm)|Brouillard dense|`@Compendium[pf2e.spells-srd.piMJO6aYeDJbrhEo]`|
-|[Song of Marching](spells/enc-00-LTUaK3smfm5eDiFK.htm)|Chanson de marche|`@Compendium[pf2e.spells-srd.LTUaK3smfm5eDiFK]`|
-|[Song of Strength](spells/enc-00-Xxdwkt0EEDgP1LGc.htm)|Chanson de force|`@Compendium[pf2e.spells-srd.Xxdwkt0EEDgP1LGc]`|
-|[Song of the Fallen](spells/nec-10-IGXGs9PlqUCvODcH.htm)|Chanson des morts au combat|`@Compendium[pf2e.spells-srd.IGXGs9PlqUCvODcH]`|
-|[Soothe](spells/enc-01-szIyEsvihc5e1w8n.htm)|Apaiser|`@Compendium[pf2e.spells-srd.szIyEsvihc5e1w8n]`|
-|[Soothing Ballad](spells/enc-07-0JigNJDRwevZOyjI.htm)|Ballade apaisante|`@Compendium[pf2e.spells-srd.0JigNJDRwevZOyjI]`|
-|[Soothing Mist](spells/nec-02-RGBZrVRIEDb2G48h.htm)|Brume apaisante|`@Compendium[pf2e.spells-srd.RGBZrVRIEDb2G48h]`|
-|[Soothing Words](spells/enc-01-YGRpHU5yxw73mls8.htm)|Paroles apaisantes|`@Compendium[pf2e.spells-srd.YGRpHU5yxw73mls8]`|
-|[Soul Siphon](spells/nec-01-D6T17BdazhNy3KPm.htm)|Siphon d'âme|`@Compendium[pf2e.spells-srd.D6T17BdazhNy3KPm]`|
-|[Sound Burst](spells/evo-02-wzLkNU3AAqOSKFPR.htm)|Cacophonie|`@Compendium[pf2e.spells-srd.wzLkNU3AAqOSKFPR]`|
-|[Speak with Animals](spells/div-02-BBvV7qoXGdw09q1C.htm)|Communication avec les animaux|`@Compendium[pf2e.spells-srd.BBvV7qoXGdw09q1C]`|
-|[Speak with Plants](spells/div-04-qvwIwJ9QBihy8R0t.htm)|Communication avec les plantes|`@Compendium[pf2e.spells-srd.qvwIwJ9QBihy8R0t]`|
-|[Speaking Sky](spells/div-06-Zvg0FWzClGbzucFd.htm)|Ciel parlant|`@Compendium[pf2e.spells-srd.Zvg0FWzClGbzucFd]`|
-|[Spectral Hand](spells/nec-02-rthC6dGm3nNrt1xN.htm)|Main spectrale|`@Compendium[pf2e.spells-srd.rthC6dGm3nNrt1xN]`|
-|[Spell Immunity](spells/abj-04-tgIhRUFtgDSELpJE.htm)|Immunité contre les sorts|`@Compendium[pf2e.spells-srd.tgIhRUFtgDSELpJE]`|
-|[Spell Turning](spells/abj-07-OOELvfkTedBMlWtq.htm)|Renvoi de sorts|`@Compendium[pf2e.spells-srd.OOELvfkTedBMlWtq]`|
-|[Spellmaster's Ward](spells/abj-05-VrhCpCIQB8PFax77.htm)|Protection du Maître des sorts|`@Compendium[pf2e.spells-srd.VrhCpCIQB8PFax77]`|
-|[Spellwrack](spells/abj-06-8Umt1AzYfFbC4fui.htm)|Ravages magiques|`@Compendium[pf2e.spells-srd.8Umt1AzYfFbC4fui]`|
-|[Spider Climb](spells/trs-02-5KobTMrZeZxuXMgl.htm)|Pattes d'araignée|`@Compendium[pf2e.spells-srd.5KobTMrZeZxuXMgl]`|
-|[Spider Sting](spells/nec-01-DYdvMZ8G2LiSLVWw.htm)|Morsure d'araignée|`@Compendium[pf2e.spells-srd.DYdvMZ8G2LiSLVWw]`|
-|[Spike Stones](spells/con-04-3xD8DYrr8YDVYGg7.htm)|Piques de pierre|`@Compendium[pf2e.spells-srd.3xD8DYrr8YDVYGg7]`|
-|[Spirit Blast](spells/nec-06-PHVHBbdHeQRfjLmE.htm)|Coup spirituel|`@Compendium[pf2e.spells-srd.PHVHBbdHeQRfjLmE]`|
-|[Spirit Link](spells/nec-01-yHujiDQPdtXW797e.htm)|Lien spirituel|`@Compendium[pf2e.spells-srd.yHujiDQPdtXW797e]`|
-|[Spirit Object](spells/nec-00-yp4w9SG4RuqRM8KD.htm)|Animation d'objet|`@Compendium[pf2e.spells-srd.yp4w9SG4RuqRM8KD]`|
-|[Spirit Sense](spells/div-02-3ehSrqTAm7IPqbIZ.htm)|Perception des esprits|`@Compendium[pf2e.spells-srd.3ehSrqTAm7IPqbIZ]`|
-|[Spirit Song](spells/nec-08-Ht35SDf9PDStJfoC.htm)|Chant spirituel|`@Compendium[pf2e.spells-srd.Ht35SDf9PDStJfoC]`|
-|[Spirit Veil](spells/ill-03-pQ3NIzZXeIIcU81C.htm)|Voile spirituel|`@Compendium[pf2e.spells-srd.pQ3NIzZXeIIcU81C]`|
-|[Spiritual Anamnesis](spells/nec-04-Jli9WBjQZ2MmKJ8y.htm)|Anamnèse spirituelle|`@Compendium[pf2e.spells-srd.Jli9WBjQZ2MmKJ8y]`|
-|[Spiritual Epidemic](spells/nec-08-MS60WhVifb45qORJ.htm)|Épidémie spirituelle|`@Compendium[pf2e.spells-srd.MS60WhVifb45qORJ]`|
-|[Spiritual Guardian](spells/abj-05-jQdm301h6e8hIY4U.htm)|Gardien spirituel|`@Compendium[pf2e.spells-srd.jQdm301h6e8hIY4U]`|
-|[Spiritual Weapon](spells/evo-02-Fq9yCbqI2RDt6Orw.htm)|Arme spirituelle|`@Compendium[pf2e.spells-srd.Fq9yCbqI2RDt6Orw]`|
-|[Splash of Art](spells/ill-01-xTpp8dHZsNMDm75B.htm)|Avalanche d'art|`@Compendium[pf2e.spells-srd.xTpp8dHZsNMDm75B]`|
-|[Spray of Stars](spells/evo-01-mlNYROcFrUF8nFgk.htm)|Aspersion d'étoiles|`@Compendium[pf2e.spells-srd.mlNYROcFrUF8nFgk]`|
-|[Stabilize](spells/nec-00-SnjhtQYexDtNDdEg.htm)|Stabilisation|`@Compendium[pf2e.spells-srd.SnjhtQYexDtNDdEg]`|
-|[Stasis](spells/trs-04-cOwSsSXRsBaXUvlr.htm)|Stase|`@Compendium[pf2e.spells-srd.cOwSsSXRsBaXUvlr]`|
-|[Statuette](spells/trs-06-29AyhknPKiDBcy8s.htm)|Statuette|`@Compendium[pf2e.spells-srd.29AyhknPKiDBcy8s]`|
-|[Status](spells/div-02-HTou8cG05yuSkesj.htm)|Rapport|`@Compendium[pf2e.spells-srd.HTou8cG05yuSkesj]`|
-|[Steal Shadow](spells/nec-03-0chL1b4OFIZxpN3v.htm)|Vol d'ombre|`@Compendium[pf2e.spells-srd.0chL1b4OFIZxpN3v]`|
-|[Steal the Sky](spells/evo-05-zoY0fQYTF1NzezTg.htm)|Voler le ciel|`@Compendium[pf2e.spells-srd.zoY0fQYTF1NzezTg]`|
-|[Stinking Cloud](spells/con-03-GKpEcy9WId6NJvtx.htm)|Nuage nauséabond|`@Compendium[pf2e.spells-srd.GKpEcy9WId6NJvtx]`|
-|[Stoke the Heart](spells/enc-00-GeUbPvwdZ4B4l0up.htm)|Enflammer les cœurs|`@Compendium[pf2e.spells-srd.GeUbPvwdZ4B4l0up]`|
-|[Stone Tell](spells/evo-06-YIMampGpij4Y30yE.htm)|Pierre commère|`@Compendium[pf2e.spells-srd.YIMampGpij4Y30yE]`|
-|[Stone to Flesh](spells/trs-06-Pr1ruNTbzGn3H9w5.htm)|Pierre en chair|`@Compendium[pf2e.spells-srd.Pr1ruNTbzGn3H9w5]`|
-|[Stoneskin](spells/abj-04-2BV2yYPfVJ5zirZt.htm)|Peau de pierre|`@Compendium[pf2e.spells-srd.2BV2yYPfVJ5zirZt]`|
-|[Storm Lord](spells/evo-09-XYhU3Wi94n1RKxTa.htm)|Seigneur des tempêtes|`@Compendium[pf2e.spells-srd.XYhU3Wi94n1RKxTa]`|
-|[Storm of Vengeance](spells/evo-09-r4HLQcYwB62bTayl.htm)|Tempête vengeresse|`@Compendium[pf2e.spells-srd.r4HLQcYwB62bTayl]`|
-|[Stormwind Flight](spells/trs-04-gSFg9zKwgcNZLMEs.htm)|Vol de l'ouragan|`@Compendium[pf2e.spells-srd.gSFg9zKwgcNZLMEs]`|
-|[Strange Geometry](spells/ill-05-m4Mc5XbdML92BKOE.htm)|Géométrie étrange|`@Compendium[pf2e.spells-srd.m4Mc5XbdML92BKOE]`|
-|[Subconscious Suggestion](spells/enc-05-GP3wewkQXEPrLxYj.htm)|Suggestion subconsciente|`@Compendium[pf2e.spells-srd.GP3wewkQXEPrLxYj]`|
-|[Sudden Blight](spells/nec-02-XFtO4BBI22Uox2QP.htm)|Dégradation soudaine|`@Compendium[pf2e.spells-srd.XFtO4BBI22Uox2QP]`|
-|[Sudden Bolt](spells/evo-02-zK0e9d9DSnxC4eAD.htm)|Décharge soudaine|`@Compendium[pf2e.spells-srd.zK0e9d9DSnxC4eAD]`|
-|[Sudden Shift](spells/abj-01-P9bqJsF3WkxGAJKJ.htm)|Déplacement soudain|`@Compendium[pf2e.spells-srd.P9bqJsF3WkxGAJKJ]`|
-|[Suggestion](spells/enc-04-qwlh6aDgi86U3Q7H.htm)|Suggestion|`@Compendium[pf2e.spells-srd.qwlh6aDgi86U3Q7H]`|
-|[Summon Animal](spells/con-01-4YnON9JHYqtLzccu.htm)|Convocation d'animal|`@Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]`|
-|[Summon Celestial](spells/con-05-lTDixrrNKaCvLKwX.htm)|Convocation de céleste|`@Compendium[pf2e.spells-srd.lTDixrrNKaCvLKwX]`|
-|[Summon Construct](spells/con-01-lKcsmeOrgHtK4xQa.htm)|Convocation de créature artificielle|`@Compendium[pf2e.spells-srd.lKcsmeOrgHtK4xQa]`|
-|[Summon Dragon](spells/con-05-kghwmH3tQjMIhdH1.htm)|Convocation de dragon|`@Compendium[pf2e.spells-srd.kghwmH3tQjMIhdH1]`|
-|[Summon Elemental](spells/con-02-lpT6LotUaQPfinjj.htm)|Convocation d'élémentaire|`@Compendium[pf2e.spells-srd.lpT6LotUaQPfinjj]`|
-|[Summon Entity](spells/con-05-i1TvBID5QLyXrUCa.htm)|Convocation d'entité|`@Compendium[pf2e.spells-srd.i1TvBID5QLyXrUCa]`|
-|[Summon Fey](spells/con-01-hs7h8f4Z1ZNdUt3s.htm)|Convocation de fée|`@Compendium[pf2e.spells-srd.hs7h8f4Z1ZNdUt3s]`|
-|[Summon Fiend](spells/con-05-29ytKctjg7qSW2ff.htm)|Convocation de fiélon|`@Compendium[pf2e.spells-srd.29ytKctjg7qSW2ff]`|
-|[Summon Giant](spells/con-05-e9UJoVYUd5kJWUpi.htm)|Convocation de géant|`@Compendium[pf2e.spells-srd.e9UJoVYUd5kJWUpi]`|
-|[Summon Instrument](spells/con-00-yvs1zN5Pai5U4CJX.htm)|Convocation d'instrument|`@Compendium[pf2e.spells-srd.yvs1zN5Pai5U4CJX]`|
-|[Summon Plant or Fungus](spells/con-01-jSRAyd57kd4WZ4yE.htm)|Convocation de plante ou de champignon|`@Compendium[pf2e.spells-srd.jSRAyd57kd4WZ4yE]`|
-|[Sun Blade](spells/evo-02-pMTltbI3S3UIuFaR.htm)|Lame solaire|`@Compendium[pf2e.spells-srd.pMTltbI3S3UIuFaR]`|
-|[Sun's Fury](spells/evo-03-LrFUj76CHDBV0vHW.htm)|Furie du soleil|`@Compendium[pf2e.spells-srd.LrFUj76CHDBV0vHW]`|
-|[Sunburst](spells/evo-07-a3aQxCpoj1q1NQxC.htm)|Explosion de lumière|`@Compendium[pf2e.spells-srd.a3aQxCpoj1q1NQxC]`|
-|[Swamp of Sloth](spells/con-03-iQD8OhhkwhvD8Blw.htm)|Marais de paresse|`@Compendium[pf2e.spells-srd.iQD8OhhkwhvD8Blw]`|
-|[Swarm Form](spells/trs-04-Pd2M1XY8EXrSfWgJ.htm)|Forme de nuée|`@Compendium[pf2e.spells-srd.Pd2M1XY8EXrSfWgJ]`|
-|[Swarming Wasp Stings](spells/nec-04-LVwmAH5NGvTuuQSU.htm)|Nuée de dards de guêpes|`@Compendium[pf2e.spells-srd.LVwmAH5NGvTuuQSU]`|
-|[Swarmsense](spells/div-01-5wjl0ZwEvvUh7sor.htm)|Sens de la nuée|`@Compendium[pf2e.spells-srd.5wjl0ZwEvvUh7sor]`|
-|[Sweet Dream](spells/enc-01-BRtKFk0PKfWIlCAB.htm)|Doux rêve|`@Compendium[pf2e.spells-srd.BRtKFk0PKfWIlCAB]`|
-|[Symphony of the Unfettered Heart](spells/abj-05-ZAX0OOcKtYMQlquR.htm)|Symphonie du cœur affranchi|`@Compendium[pf2e.spells-srd.ZAX0OOcKtYMQlquR]`|
-|[Synaptic Pulse](spells/enc-05-BilnTGuXrof9Dt9D.htm)|Pulsation synaptique|`@Compendium[pf2e.spells-srd.BilnTGuXrof9Dt9D]`|
-|[Synesthesia](spells/div-05-OAt2ZEns1gIOCgrn.htm)|Synesthésie|`@Compendium[pf2e.spells-srd.OAt2ZEns1gIOCgrn]`|
-|[Take its Course](spells/nec-04-ZeHeNQ5BNq6m5F1j.htm)|Suivre son cours|`@Compendium[pf2e.spells-srd.ZeHeNQ5BNq6m5F1j]`|
-|[Talking Corpse](spells/nec-04-FM3SmEW8N1FCRjqt.htm)|Cadavre loquace|`@Compendium[pf2e.spells-srd.FM3SmEW8N1FCRjqt]`|
-|[Tanglefoot](spells/con-00-uZK2BYzPnxUBnDjr.htm)|Entrave|`@Compendium[pf2e.spells-srd.uZK2BYzPnxUBnDjr]`|
-|[Tangling Creepers](spells/con-06-JbAcSLu62TU1OgNF.htm)|Entraves végétales|`@Compendium[pf2e.spells-srd.JbAcSLu62TU1OgNF]`|
-|[Telekinetic Haul](spells/evo-05-tpLTLbJUrYcMWGld.htm)|Transport télékinésique|`@Compendium[pf2e.spells-srd.tpLTLbJUrYcMWGld]`|
-|[Telekinetic Maneuver](spells/evo-02-mrDi3v933gsmnw25.htm)|Manœuvre télékinésique|`@Compendium[pf2e.spells-srd.mrDi3v933gsmnw25]`|
-|[Telekinetic Projectile](spells/evo-00-60sgbuMWN0268dB7.htm)|Projectile télékinésique|`@Compendium[pf2e.spells-srd.60sgbuMWN0268dB7]`|
-|[Telepathic Bond](spells/div-05-gfVXAW95YWRz0pJC.htm)|Lien télépathique|`@Compendium[pf2e.spells-srd.gfVXAW95YWRz0pJC]`|
-|[Telepathic Demand](spells/enc-09-ItZgGznUBhgWBwFG.htm)|Ordre télépathique|`@Compendium[pf2e.spells-srd.ItZgGznUBhgWBwFG]`|
-|[Telepathy](spells/div-04-HqTI6wRrck1YXp3F.htm)|Télépathie|`@Compendium[pf2e.spells-srd.HqTI6wRrck1YXp3F]`|
-|[Teleport](spells/con-06-69L70wKfGDY66Mk9.htm)|Téléportation|`@Compendium[pf2e.spells-srd.69L70wKfGDY66Mk9]`|
-|[Teleportation Circle](spells/con-07-5ZW1w9f4gWlSIuWA.htm)|Cercle de téléportation|`@Compendium[pf2e.spells-srd.5ZW1w9f4gWlSIuWA]`|
-|[Tempest Form](spells/trs-06-zhqnMOVPzVvWSUbC.htm)|Forme tempêtueuse|`@Compendium[pf2e.spells-srd.zhqnMOVPzVvWSUbC]`|
-|[Tempest Surge](spells/evo-01-ho1jSoYKrHUNnM90.htm)|Onde de tempête|`@Compendium[pf2e.spells-srd.ho1jSoYKrHUNnM90]`|
-|[Tempest Touch](spells/evo-01-EzB9i7R6aBRAtJCh.htm)|Toucher tempêtueux|`@Compendium[pf2e.spells-srd.EzB9i7R6aBRAtJCh]`|
-|[Temporary Tool](spells/con-01-TPI9fRCAYsDqpAe4.htm)|Outil temporaire|`@Compendium[pf2e.spells-srd.TPI9fRCAYsDqpAe4]`|
-|[Tempt Fate](spells/div-04-GqvKSxzN7A7kuFk4.htm)|Tenter le sort|`@Compendium[pf2e.spells-srd.GqvKSxzN7A7kuFk4]`|
-|[Tentacular Limbs](spells/trs-01-i8PBZsnoCrK7IWph.htm)|Membres tentaculaires|`@Compendium[pf2e.spells-srd.i8PBZsnoCrK7IWph]`|
-|[Terminate Bloodline](spells/nec-06-yUM5OYeMY8971b2S.htm)|Lignée achevée|`@Compendium[pf2e.spells-srd.yUM5OYeMY8971b2S]`|
-|[Terrain Transposition](spells/con-05-rtA3HRGoy7PQTOhq.htm)|Transposition de terrain|`@Compendium[pf2e.spells-srd.rtA3HRGoy7PQTOhq]`|
-|[Tether](spells/abj-01-MVrxZarUTnJxAUN8.htm)|Liens|`@Compendium[pf2e.spells-srd.MVrxZarUTnJxAUN8]`|
-|[Thoughtful Gift](spells/con-01-qTr2oCgIXl703Whb.htm)|Cadeau attentionné|`@Compendium[pf2e.spells-srd.qTr2oCgIXl703Whb]`|
-|[Threefold Aspect](spells/trs-03-MNiT0dHol5fEcKlz.htm)|Triple aspect|`@Compendium[pf2e.spells-srd.MNiT0dHol5fEcKlz]`|
-|[Thunderburst](spells/evo-03-LFSwMtQVP05EzlZe.htm)|Explosion tempêtueuse|`@Compendium[pf2e.spells-srd.LFSwMtQVP05EzlZe]`|
-|[Tidal Surge](spells/evo-01-iAnpxrLaBU4V6Sej.htm)|Raz-de-marée|`@Compendium[pf2e.spells-srd.iAnpxrLaBU4V6Sej]`|
-|[Time Beacon](spells/div-07-G56DJkxlUjFv0C4Z.htm)|Repère temporel|`@Compendium[pf2e.spells-srd.G56DJkxlUjFv0C4Z]`|
-|[Time Stop](spells/trs-10-1dsahW4g1ggXtypx.htm)|Arrêt du temps|`@Compendium[pf2e.spells-srd.1dsahW4g1ggXtypx]`|
-|[Tireless Worker](spells/nec-04-gzvRDpM6EvcfYHeu.htm)|Travailleur infatigable|`@Compendium[pf2e.spells-srd.gzvRDpM6EvcfYHeu]`|
-|[Tongues](spells/div-05-SwUiVavHKMWG7t5K.htm)|Don des langues|`@Compendium[pf2e.spells-srd.SwUiVavHKMWG7t5K]`|
-|[Touch of Corruption](spells/nec-01-jFmWSIpJGGebim6y.htm)|Toucher de corruption|`@Compendium[pf2e.spells-srd.jFmWSIpJGGebim6y]`|
-|[Touch of Corruption (Healing)](spells/nec-01-ekGHLJSHGgWMUwkY.htm)||`@Compendium[pf2e.spells-srd.ekGHLJSHGgWMUwkY]`|
-|[Touch of Idiocy](spells/enc-02-CQb8HtQ1BPeZmu9h.htm)|Idiotie|`@Compendium[pf2e.spells-srd.CQb8HtQ1BPeZmu9h]`|
-|[Touch of Obedience](spells/enc-01-MmQiEc7aM9PDLO2J.htm)|Obéissance|`@Compendium[pf2e.spells-srd.MmQiEc7aM9PDLO2J]`|
-|[Touch of Undeath](spells/nec-01-GYI4xloAgkm6tTrT.htm)|Toucher de la non-mort|`@Compendium[pf2e.spells-srd.GYI4xloAgkm6tTrT]`|
-|[Touch of the Moon](spells/enc-04-oXCwHBeDja4e0Mx0.htm)|Contact lunaire|`@Compendium[pf2e.spells-srd.oXCwHBeDja4e0Mx0]`|
-|[Transcribe Moment](spells/evo-04-NxOYiKCqcuAHVRCj.htm)|Instant transcrit|`@Compendium[pf2e.spells-srd.NxOYiKCqcuAHVRCj]`|
-|[Transmute Rock And Mud](spells/trs-05-LzfrBDxxPTiuN7uL.htm)|Transmutation de la roche et de la boue|`@Compendium[pf2e.spells-srd.LzfrBDxxPTiuN7uL]`|
-|[Traveler's Transit](spells/evo-04-LrhTFHUtSS9ahogL.htm)|Voyageur en transit|`@Compendium[pf2e.spells-srd.LrhTFHUtSS9ahogL]`|
-|[Tree Shape](spells/trs-02-dileJ0Yxqg76LMvu.htm)|Morphologie d'arbre|`@Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]`|
-|[Tree Stride](spells/con-05-F1qxaqsEItmBura2.htm)|Voyage par les arbres|`@Compendium[pf2e.spells-srd.F1qxaqsEItmBura2]`|
-|[Trickster's Twin](spells/ill-04-ZhLYJlOZzUB1OKoe.htm)|Jumeau du trompeur|`@Compendium[pf2e.spells-srd.ZhLYJlOZzUB1OKoe]`|
-|[Triple Time](spells/enc-00-c8R2fpk88fBwJ1ie.htm)|À trois temps|`@Compendium[pf2e.spells-srd.c8R2fpk88fBwJ1ie]`|
-|[True Seeing](spells/div-06-uqlxMQQeSGWEVjki.htm)|Vision lucide|`@Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]`|
-|[True Strike](spells/div-01-Gb7SeieEvd0pL2Eh.htm)|Coup au but|`@Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]`|
-|[True Target](spells/div-07-AlbpWWN87yGegoAF.htm)|Cible verrouillée|`@Compendium[pf2e.spells-srd.AlbpWWN87yGegoAF]`|
-|[Unblinking Flame Revelation](spells/abj-03-VBNevVovTCpn04vL.htm)|Révélation de la flamme qui ne vacille pas|`@Compendium[pf2e.spells-srd.VBNevVovTCpn04vL]`|
-|[Unbreaking Wave Advance](spells/evo-03-ytboJsyZEbE1MLeV.htm)|Avancée de la vague qui ne se brise pas|`@Compendium[pf2e.spells-srd.ytboJsyZEbE1MLeV]`|
-|[Uncontrollable Dance](spells/enc-08-Jvyy6oVIQsD34MHB.htm)|Danse incontrôlable|`@Compendium[pf2e.spells-srd.Jvyy6oVIQsD34MHB]`|
-|[Undeath's Blessing](spells/nec-01-FedTjedva2rYk33r.htm)|Bénédiction de la mort-vivance|`@Compendium[pf2e.spells-srd.FedTjedva2rYk33r]`|
-|[Undermine Reality](spells/ill-08-YiIOsc8T6E2iDxgh.htm)|Saper la réalité|`@Compendium[pf2e.spells-srd.YiIOsc8T6E2iDxgh]`|
-|[Undetectable Alignment](spells/abj-02-FzAtX8yXBjTaisJK.htm)|Alignement indétectable|`@Compendium[pf2e.spells-srd.FzAtX8yXBjTaisJK]`|
-|[Unfathomable Song](spells/enc-09-FmNDwqMEjeTEGPrY.htm)|Chant énigmatique|`@Compendium[pf2e.spells-srd.FmNDwqMEjeTEGPrY]`|
-|[Unfettered Pack](spells/abj-07-bVtkBJvGLP69qVGI.htm)|Meute sans entrave|`@Compendium[pf2e.spells-srd.bVtkBJvGLP69qVGI]`|
-|[Unfolding Wind Rush](spells/evo-03-tvO6Kmc2pQve9DC5.htm)|Ruée du vent qui see déploie|`@Compendium[pf2e.spells-srd.tvO6Kmc2pQve9DC5]`|
-|[Unimpeded Stride](spells/trs-01-gwOYh5zMVZB0HNcT.htm)|Déplacement sans réserve|`@Compendium[pf2e.spells-srd.gwOYh5zMVZB0HNcT]`|
-|[Unity](spells/abj-04-tYLBjOTvBVn9JtRb.htm)|Unité|`@Compendium[pf2e.spells-srd.tYLBjOTvBVn9JtRb]`|
-|[Unrelenting Observation](spells/div-08-y2cQYLr5mljDSu1G.htm)|Observation implacable|`@Compendium[pf2e.spells-srd.y2cQYLr5mljDSu1G]`|
-|[Unseasonable Squall](spells/evo-03-TT9owkeMBXJxcERB.htm)|Rafale hors saison|`@Compendium[pf2e.spells-srd.TT9owkeMBXJxcERB]`|
-|[Unseen Custodians](spells/con-03-uuoPmbjEtqzWZs0v.htm)|Domestiques invisibles|`@Compendium[pf2e.spells-srd.uuoPmbjEtqzWZs0v]`|
-|[Unseen Servant](spells/con-01-xqmHD8JIjak15lRk.htm)|Serviteur invisible|`@Compendium[pf2e.spells-srd.xqmHD8JIjak15lRk]`|
-|[Untwisting Iron Buffer](spells/abj-03-FPnkOYyWIaOzkmqn.htm)|Protection du fer qui ne plie pas|`@Compendium[pf2e.spells-srd.FPnkOYyWIaOzkmqn]`|
-|[Unusual Anatomy](spells/trs-05-ddKBoCjmSyPSHcws.htm)|Étrange anatomie|`@Compendium[pf2e.spells-srd.ddKBoCjmSyPSHcws]`|
-|[Upheaval](spells/con-09-xxhS66k68u5iIOHC.htm)|Soulèvement|`@Compendium[pf2e.spells-srd.xxhS66k68u5iIOHC]`|
-|[Vampiric Exsanguination](spells/nec-06-fd31tAHSSGXyOxW6.htm)|Saignée du vampire|`@Compendium[pf2e.spells-srd.fd31tAHSSGXyOxW6]`|
-|[Vampiric Maiden](spells/nec-04-07xYlmGX32XtHGEt.htm)|Vierge vampirique|`@Compendium[pf2e.spells-srd.07xYlmGX32XtHGEt]`|
-|[Vampiric Touch](spells/nec-03-N1Z1oLPdBxaSgrEE.htm)|Contact vampirique|`@Compendium[pf2e.spells-srd.N1Z1oLPdBxaSgrEE]`|
-|[Veil](spells/ill-04-hkfH9Z53hPzcOwNB.htm)|Voile|`@Compendium[pf2e.spells-srd.hkfH9Z53hPzcOwNB]`|
-|[Veil of Confidence](spells/enc-01-Q25JQAgnJSGgFDKZ.htm)|Voile de confiance|`@Compendium[pf2e.spells-srd.Q25JQAgnJSGgFDKZ]`|
-|[Veil of Dreams](spells/enc-01-NNoKWiWKqJkdD2ln.htm)|Voile de rêves|`@Compendium[pf2e.spells-srd.NNoKWiWKqJkdD2ln]`|
-|[Ventriloquism](spells/ill-01-yV7Ouzaoe7DHLESI.htm)|Ventriloquie|`@Compendium[pf2e.spells-srd.yV7Ouzaoe7DHLESI]`|
-|[Verdant Sprout](spells/con-01-EDABphKEPUBiMmQC.htm)|Éclosion verdoyante|`@Compendium[pf2e.spells-srd.EDABphKEPUBiMmQC]`|
-|[Vibrant Pattern](spells/ill-06-RQjSQVZRG497cJhX.htm)|Motif éclatant|`@Compendium[pf2e.spells-srd.RQjSQVZRG497cJhX]`|
-|[Vibrant Thorns](spells/trs-01-nnSipUPNd3sm5vYL.htm)|Épines florissantes|`@Compendium[pf2e.spells-srd.nnSipUPNd3sm5vYL]`|
-|[Vigilant Eye](spells/div-04-4LSf04FFvDgMyDk6.htm)|Œil vigilant|`@Compendium[pf2e.spells-srd.4LSf04FFvDgMyDk6]`|
-|[Vision of Weakness](spells/div-02-NhNKzq1DvFxkvTEc.htm)|Vision de faiblesse|`@Compendium[pf2e.spells-srd.NhNKzq1DvFxkvTEc]`|
-|[Visions of Danger](spells/ill-07-jBGAYmR0BkkbpJvG.htm)|Dangereuses visions|`@Compendium[pf2e.spells-srd.jBGAYmR0BkkbpJvG]`|
-|[Vital Beacon](spells/nec-04-ikSb3LRGnrwXJBVX.htm)|Fanal de vie|`@Compendium[pf2e.spells-srd.ikSb3LRGnrwXJBVX]`|
-|[Volcanic Eruption](spells/evo-07-O7ZEqWjwdKyo2CUv.htm)|Eruption volcanique|`@Compendium[pf2e.spells-srd.O7ZEqWjwdKyo2CUv]`|
-|[Vomit Swarm](spells/evo-02-cB17yFc9456Pyfec.htm)|Vomir une nuée|`@Compendium[pf2e.spells-srd.cB17yFc9456Pyfec]`|
-|[Wail of the Banshee](spells/nec-09-FEsuyf203wTNE2et.htm)|Plainte d'outre-tombe|`@Compendium[pf2e.spells-srd.FEsuyf203wTNE2et]`|
-|[Waking Nightmare](spells/enc-01-DU5daB09xwfE1y38.htm)|Cauchemar éveillé|`@Compendium[pf2e.spells-srd.DU5daB09xwfE1y38]`|
-|[Wall Of Flesh](spells/nec-05-ZLLY6ThJXCCrO0rL.htm)|Mur de chair|`@Compendium[pf2e.spells-srd.ZLLY6ThJXCCrO0rL]`|
-|[Wall of Fire](spells/evo-04-IarZrgCeaiUqOuRu.htm)|Mur de feu|`@Compendium[pf2e.spells-srd.IarZrgCeaiUqOuRu]`|
-|[Wall of Force](spells/evo-06-7Iela4GgVeO3LfAo.htm)|Mur de force|`@Compendium[pf2e.spells-srd.7Iela4GgVeO3LfAo]`|
-|[Wall of Ice](spells/evo-05-R5FHRv7VqyRnxg2t.htm)|Mur de glace|`@Compendium[pf2e.spells-srd.R5FHRv7VqyRnxg2t]`|
-|[Wall of Stone](spells/con-05-kOa055FIrO9Smnya.htm)|Mur de pierre|`@Compendium[pf2e.spells-srd.kOa055FIrO9Smnya]`|
-|[Wall of Thorns](spells/con-03-KsWhliKfUs3IpW3c.htm)|Mur d'épines|`@Compendium[pf2e.spells-srd.KsWhliKfUs3IpW3c]`|
-|[Wall of Wind](spells/evo-03-it4ZsAi6XgvGcodc.htm)|Mur de vent|`@Compendium[pf2e.spells-srd.it4ZsAi6XgvGcodc]`|
-|[Wanderer's Guide](spells/div-03-ppA1StEigPLKEQqR.htm)|Guide du pélerin|`@Compendium[pf2e.spells-srd.ppA1StEigPLKEQqR]`|
-|[Ward Domain](spells/abj-06-Er9XNUlL0wB0PM36.htm)|Protection de domaine|`@Compendium[pf2e.spells-srd.Er9XNUlL0wB0PM36]`|
-|[Warp Mind](spells/enc-07-8kJbiBEjMWG4VUjs.htm)|Déformer l'esprit|`@Compendium[pf2e.spells-srd.8kJbiBEjMWG4VUjs]`|
-|[Warped Terrain](spells/ill-01-fXdADBwxmBsU9xPk.htm)|Terrain déformé|`@Compendium[pf2e.spells-srd.fXdADBwxmBsU9xPk]`|
-|[Water Breathing](spells/trs-02-MZGkMsPBztFN0pUO.htm)|Respiration aquatique|`@Compendium[pf2e.spells-srd.MZGkMsPBztFN0pUO]`|
-|[Water Walk](spells/trs-02-Seaah9amXg70RKw2.htm)|Marche sur l'eau|`@Compendium[pf2e.spells-srd.Seaah9amXg70RKw2]`|
-|[Waters of Prediction](spells/div-05-zaZieDHguhahmM2z.htm)||`@Compendium[pf2e.spells-srd.zaZieDHguhahmM2z]`|
-|[Weapon Storm](spells/evo-04-8M03UxGXjYyDFAoy.htm)|Tempête d'armes|`@Compendium[pf2e.spells-srd.8M03UxGXjYyDFAoy]`|
-|[Weapon Surge](spells/evo-01-W37iBXLsY2trJ1rS.htm)|Arme améliorée|`@Compendium[pf2e.spells-srd.W37iBXLsY2trJ1rS]`|
-|[Weapon of Judgement](spells/evo-09-ZqmP9gijBmK7y8Xy.htm)|Arme du jugement|`@Compendium[pf2e.spells-srd.ZqmP9gijBmK7y8Xy]`|
-|[Web](spells/con-02-9s5tqqXNzcoKamWx.htm)|Toile d'araignée|`@Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]`|
-|[Weird](spells/ill-09-qDjeG6dxT4aEEC6J.htm)|Ennemi subconscient|`@Compendium[pf2e.spells-srd.qDjeG6dxT4aEEC6J]`|
-|[Whirling Flames](spells/evo-03-Wi2HcreCfujKiCvW.htm)|Flammes tourbillonantes|`@Compendium[pf2e.spells-srd.Wi2HcreCfujKiCvW]`|
-|[Whirling Scarves](spells/abj-03-k9x6bXXpIgAXMDsx.htm)|Écharpes tourbillonnantes|`@Compendium[pf2e.spells-srd.k9x6bXXpIgAXMDsx]`|
-|[Wholeness of Body](spells/nec-02-qJZZdYBdNaWRJFER.htm)|Plénitude physique|`@Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]`|
-|[Wild Morph](spells/trs-01-0xR9vrt6uDFl0Umo.htm)|Métamorphose sauvage|`@Compendium[pf2e.spells-srd.0xR9vrt6uDFl0Umo]`|
-|[Wild Shape](spells/trs-01-8RWfKConLYFZpQ9X.htm)|Morphologie sauvage|`@Compendium[pf2e.spells-srd.8RWfKConLYFZpQ9X]`|
-|[Wild Winds Stance](spells/evo-04-SkarN4VlNxSJSJNw.htm)|Posture des vents violents|`@Compendium[pf2e.spells-srd.SkarN4VlNxSJSJNw]`|
-|[Wilding Word](spells/enc-00-GdN5YQE47gd79k7X.htm)|Paroles sauvages|`@Compendium[pf2e.spells-srd.GdN5YQE47gd79k7X]`|
-|[Wind Jump](spells/trs-05-kRxlkPPe6Gr7Du59.htm)|Saut du vent|`@Compendium[pf2e.spells-srd.kRxlkPPe6Gr7Du59]`|
-|[Wind Walk](spells/trs-08-U0hL0LLaprcnAyzC.htm)|Voyage venteux|`@Compendium[pf2e.spells-srd.U0hL0LLaprcnAyzC]`|
-|[Winter Bolt](spells/evo-01-DeNz6eAUlE0IE9U3.htm)|Décharge hivernale|`@Compendium[pf2e.spells-srd.DeNz6eAUlE0IE9U3]`|
-|[Wish](spells/div-10-6dDtGIUerazSHIOu.htm)|Souhait|`@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]`|
-|[Wish-Twisted Form](spells/trs-05-B3tbO85GBpzQ3u8l.htm)|Forme déformée par un souhait|`@Compendium[pf2e.spells-srd.B3tbO85GBpzQ3u8l]`|
-|[Withering Grasp](spells/nec-01-7tp97g0UCJ9wOrd5.htm)|Poigne de flétrissement|`@Compendium[pf2e.spells-srd.7tp97g0UCJ9wOrd5]`|
-|[Word of Freedom](spells/abj-04-2jB9eyX7YekwoCvA.htm)|Mot de liberté|`@Compendium[pf2e.spells-srd.2jB9eyX7YekwoCvA]`|
-|[Word of Recall](spells/con-07-nzbnTqHgNKiGZkrZ.htm)|Mot de Rappel|`@Compendium[pf2e.spells-srd.nzbnTqHgNKiGZkrZ]`|
-|[Word of Truth](spells/div-01-aF7RiG7c8GzSQLYt.htm)|Mot de vérité|`@Compendium[pf2e.spells-srd.aF7RiG7c8GzSQLYt]`|
-|[Worm's Repast](spells/nec-02-H4oF5szC7aogqtvw.htm)|Repas du ver|`@Compendium[pf2e.spells-srd.H4oF5szC7aogqtvw]`|
-|[Wyvern Sting](spells/nec-05-IoHxAkK0uGqrgtWl.htm)|Dard de Wyverne|`@Compendium[pf2e.spells-srd.IoHxAkK0uGqrgtWl]`|
-|[You're Mine](spells/enc-05-x2LALaHXO7644GQA.htm)|Tu es à moi|`@Compendium[pf2e.spells-srd.x2LALaHXO7644GQA]`|
-|[Zeal for Battle](spells/enc-04-I8CPe9Pp7GABqOyB.htm)|Zèle au combat|`@Compendium[pf2e.spells-srd.I8CPe9Pp7GABqOyB]`|
-|[Zealous Conviction](spells/enc-06-GYD0XZ4t3tQq6shc.htm)|Conviction zélée|`@Compendium[pf2e.spells-srd.GYD0XZ4t3tQq6shc]`|
-|[Zenith Star](spells/div-01-Yrek2Yd4k3DPC2zV.htm)|Étoile au zénith|`@Compendium[pf2e.spells-srd.Yrek2Yd4k3DPC2zV]`|
-|[Zone of Truth](spells/enc-03-aewxsale5xWEPKLk.htm)|Zone de vérité|`@Compendium[pf2e.spells-srd.aewxsale5xWEPKLk]`|
+|[Aberrant Whispers](spells/enchantment-03-qhJfRnkCRrMI4G1O.htm)|Murmures aberrants|`@Compendium[pf2e.spells-srd.qhJfRnkCRrMI4G1O]`|
+|[Abundant Step](spells/conjuration-04-Az3PmWnlWSb5ELX9.htm)|Pas chassé|`@Compendium[pf2e.spells-srd.Az3PmWnlWSb5ELX9]`|
+|[Abyssal Pact](spells/conjuration-01-tsKnoBuBbKMXkiz5.htm)|Pacte abyssal|`@Compendium[pf2e.spells-srd.tsKnoBuBbKMXkiz5]`|
+|[Abyssal Plague](spells/necromancy-05-vJuaxTd6q11OjGqA.htm)|Peste abyssale|`@Compendium[pf2e.spells-srd.vJuaxTd6q11OjGqA]`|
+|[Abyssal Wrath](spells/evocation-05-crF4g9jRN1y84MSD.htm)|Colère abyssale|`@Compendium[pf2e.spells-srd.crF4g9jRN1y84MSD]`|
+|[Access Lore](spells/divination-03-LbPLNWlLCxKCo5gF.htm)|Accès à la connaissance|`@Compendium[pf2e.spells-srd.LbPLNWlLCxKCo5gF]`|
+|[Achaekek's Clutch](spells/abjuration-04-IT1aaqDBAISlHDUV.htm)|Étreinte d'Achaékek|`@Compendium[pf2e.spells-srd.IT1aaqDBAISlHDUV]`|
+|[Acid Arrow](spells/evocation-02-f8hRqLJaxBVhF1u0.htm)|Flèche acide|`@Compendium[pf2e.spells-srd.f8hRqLJaxBVhF1u0]`|
+|[Acid Splash](spells/evocation-00-gISYsBFby1TiXfBt.htm)|Aspersion d’acide|`@Compendium[pf2e.spells-srd.gISYsBFby1TiXfBt]`|
+|[Acid Storm](spells/evocation-05-ZW8ovbu1etdfMre3.htm)|Tempête d'acide|`@Compendium[pf2e.spells-srd.ZW8ovbu1etdfMre3]`|
+|[Acidic Burst](spells/evocation-01-rnNGALRtsjspFTws.htm)|Explosion d'acide|`@Compendium[pf2e.spells-srd.rnNGALRtsjspFTws]`|
+|[Adapt Self](spells/transmutation-01-GUnw9YXaW3YyaCAU.htm)|Adaptation de soi|`@Compendium[pf2e.spells-srd.GUnw9YXaW3YyaCAU]`|
+|[Adaptive Ablation](spells/abjuration-04-GoKkejPj5yWJPIPK.htm)|Ablation adaptative|`@Compendium[pf2e.spells-srd.GoKkejPj5yWJPIPK]`|
+|[Admonishing Ray](spells/necromancy-01-uToa7ksKAzmEpkKC.htm)|Rayon d'admonestation|`@Compendium[pf2e.spells-srd.uToa7ksKAzmEpkKC]`|
+|[Aerial Form](spells/transmutation-04-NzXpEzcZAjuDTZjK.htm)|Forme aérienne|`@Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]`|
+|[Agile Feet](spells/transmutation-01-cOjlzWerBwbPWVkX.htm)|Pieds Agiles|`@Compendium[pf2e.spells-srd.cOjlzWerBwbPWVkX]`|
+|[Agitate](spells/enchantment-01-r8g7oSumKOHDqJsd.htm)|Agitation|`@Compendium[pf2e.spells-srd.r8g7oSumKOHDqJsd]`|
+|[Agonizing Despair](spells/enchantment-03-nplNt08TvokZUxtR.htm)|Désespoir agonisant|`@Compendium[pf2e.spells-srd.nplNt08TvokZUxtR]`|
+|[Air Bubble](spells/conjuration-01-W69zswpj0Trdy5rj.htm)|Bulle d'air|`@Compendium[pf2e.spells-srd.W69zswpj0Trdy5rj]`|
+|[Air Walk](spells/transmutation-04-b5sGjGlBf58f8jn0.htm)|Marche dans les airs|`@Compendium[pf2e.spells-srd.b5sGjGlBf58f8jn0]`|
+|[Alarm](spells/abjuration-01-4WAib3GichxLjp5p.htm)|Alarme|`@Compendium[pf2e.spells-srd.4WAib3GichxLjp5p]`|
+|[All is One, One is All](spells/necromancy-08-gtWxTfMbIN5RHQw6.htm)|Un est tout, tout est un|`@Compendium[pf2e.spells-srd.gtWxTfMbIN5RHQw6]`|
+|[Allegro](spells/enchantment-00-IQchIYUwbsVTa9Mc.htm)|Allégro|`@Compendium[pf2e.spells-srd.IQchIYUwbsVTa9Mc]`|
+|[Alter Reality](spells/divination-10-h8zxY9hTeHtWsBVW.htm)|Altérer la réalité|`@Compendium[pf2e.spells-srd.h8zxY9hTeHtWsBVW]`|
+|[Anathematic Reprisal](spells/enchantment-04-7tR29sQt35NfIWqN.htm)|Anathème et représailles|`@Compendium[pf2e.spells-srd.7tR29sQt35NfIWqN]`|
+|[Ancestral Defense](spells/abjuration-03-J5KrjQKCg2PrF1vz.htm)|Défense ancestrale|`@Compendium[pf2e.spells-srd.J5KrjQKCg2PrF1vz]`|
+|[Ancestral Form](spells/transmutation-06-xEjGEBvTfDJECSki.htm)|Forme ancestrale|`@Compendium[pf2e.spells-srd.xEjGEBvTfDJECSki]`|
+|[Ancestral Memories](spells/divination-01-dtOUkMC57izf93z5.htm)|Souvenirs ancestraux|`@Compendium[pf2e.spells-srd.dtOUkMC57izf93z5]`|
+|[Ancestral Touch](spells/enchantment-01-d2pi7laQkzlr3wrS.htm)|Toucher ancestral|`@Compendium[pf2e.spells-srd.d2pi7laQkzlr3wrS]`|
+|[Angelic Halo](spells/abjuration-01-w3uGXDVEdbLFZVO0.htm)|Halo angélique|`@Compendium[pf2e.spells-srd.w3uGXDVEdbLFZVO0]`|
+|[Angelic Messenger](spells/conjuration-01-joEruBVz31Uxczzq.htm)|Messager angélique|`@Compendium[pf2e.spells-srd.joEruBVz31Uxczzq]`|
+|[Angelic Wings](spells/evocation-03-kRsmUlSWhi6PJvZ7.htm)|Ailes d'ange|`@Compendium[pf2e.spells-srd.kRsmUlSWhi6PJvZ7]`|
+|[Anima Invocation (Modified)](spells/abjuration-10-X0t0gr7S7CeCt2Q5.htm)|Invocation d'anima (Modifiée)|`@Compendium[pf2e.spells-srd.X0t0gr7S7CeCt2Q5]`|
+|[Animal Feature](spells/transmutation-02-vGEgI8e7AW6FQ3tP.htm)|Trait animal|`@Compendium[pf2e.spells-srd.vGEgI8e7AW6FQ3tP]`|
+|[Animal Form](spells/transmutation-02-wp09USMB3GIW1qbp.htm)|Forme animale|`@Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]`|
+|[Animal Messenger](spells/enchantment-02-yhz9fF69uwRhnHix.htm)|Messager animal|`@Compendium[pf2e.spells-srd.yhz9fF69uwRhnHix]`|
+|[Animal Vision](spells/divination-03-1HfusQ8NDWutGvMx.htm)|Vision animale|`@Compendium[pf2e.spells-srd.1HfusQ8NDWutGvMx]`|
+|[Animate Dead](spells/necromancy-01-9WGeBwIIbbUuWKq0.htm)|Animation des morts|`@Compendium[pf2e.spells-srd.9WGeBwIIbbUuWKq0]`|
+|[Animate Object](spells/transmutation-02-sLzPzk7DJnfuORJ0.htm)|Animation d'objet|`@Compendium[pf2e.spells-srd.sLzPzk7DJnfuORJ0]`|
+|[Animate Rope](spells/transmutation-01-rVANhQgB8Uqi9PTl.htm)|Animation de corde|`@Compendium[pf2e.spells-srd.rVANhQgB8Uqi9PTl]`|
+|[Animated Assault](spells/evocation-02-WqPhJNzLa8vSjrH6.htm)|Assaut animé|`@Compendium[pf2e.spells-srd.WqPhJNzLa8vSjrH6]`|
+|[Animus Mine](spells/abjuration-02-fWU7Qjp1JiX9g6eg.htm)|Mine psychique|`@Compendium[pf2e.spells-srd.fWU7Qjp1JiX9g6eg]`|
+|[Ant Haul](spells/transmutation-01-X9dkmh23lFwMjrYd.htm)|Charge de fourmi|`@Compendium[pf2e.spells-srd.X9dkmh23lFwMjrYd]`|
+|[Anticipate Peril](spells/divination-01-EUMjrJJwSgsqNidi.htm)|Anticipation du danger|`@Compendium[pf2e.spells-srd.EUMjrJJwSgsqNidi]`|
+|[Antimagic Field](spells/abjuration-08-My7FvAoLYgGDDBzy.htm)|Champ d'antimagie|`@Compendium[pf2e.spells-srd.My7FvAoLYgGDDBzy]`|
+|[Apex Companion](spells/transmutation-10-qqQYrXaRJXr7uc4i.htm)|Compagnon alpha|`@Compendium[pf2e.spells-srd.qqQYrXaRJXr7uc4i]`|
+|[Appearance of Wealth](spells/illusion-01-ZeftDoh0nFAXBAWY.htm)|Richesse apparente|`@Compendium[pf2e.spells-srd.ZeftDoh0nFAXBAWY]`|
+|[Aqueous Orb](spells/conjuration-03-oUDNCArkQTdhllxD.htm)|Orbe aqueuse|`@Compendium[pf2e.spells-srd.oUDNCArkQTdhllxD]`|
+|[Arcane Countermeasure](spells/abjuration-05-h47yv6j6x1pUtzlr.htm)|Contre-mesure arcanique|`@Compendium[pf2e.spells-srd.h47yv6j6x1pUtzlr]`|
+|[Armor of Bones](spells/necromancy-03-pSNLufPPsReKQtJR.htm)|Armure d'os|`@Compendium[pf2e.spells-srd.pSNLufPPsReKQtJR]`|
+|[Aromatic Lure](spells/enchantment-04-LX4pCagYLpc9hEji.htm)|Leurre aromatique|`@Compendium[pf2e.spells-srd.LX4pCagYLpc9hEji]`|
+|[Artistic Flourish](spells/transmutation-04-eb4FXf62NYArTqek.htm)|Fioritures artistiques|`@Compendium[pf2e.spells-srd.eb4FXf62NYArTqek]`|
+|[Asterism](spells/evocation-04-KG7amdeXWc7MjGXe.htm)|Étoile|`@Compendium[pf2e.spells-srd.KG7amdeXWc7MjGXe]`|
+|[Astral Labyrinth](spells/abjuration-09-BI4iwu3nApyIG0zY.htm)|Labyrinthe astral|`@Compendium[pf2e.spells-srd.BI4iwu3nApyIG0zY]`|
+|[Astral Projection](spells/divination-05-4Cntq9odgW6xMpAs.htm)|Projection astrale|`@Compendium[pf2e.spells-srd.4Cntq9odgW6xMpAs]`|
+|[Athletic Rush](spells/transmutation-01-UGJzJRJDoonfWqqI.htm)|Athlétisme poussé|`@Compendium[pf2e.spells-srd.UGJzJRJDoonfWqqI]`|
+|[Atone](spells/abjuration-04-7Fd4lxozd11MQ55N.htm)|Pénitence|`@Compendium[pf2e.spells-srd.7Fd4lxozd11MQ55N]`|
+|[Augment Summoning](spells/conjuration-01-tWzxuJdbXqvskdIo.htm)|Convocation améliorée|`@Compendium[pf2e.spells-srd.tWzxuJdbXqvskdIo]`|
+|[Augury](spells/divination-02-41TZEjhO6D1nWw2X.htm)|Augure|`@Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]`|
+|[Avatar](spells/transmutation-10-ckUOoqOM7Kg7VqxB.htm)|Avatar|`@Compendium[pf2e.spells-srd.ckUOoqOM7Kg7VqxB]`|
+|[Awaken Animal](spells/divination-06-B4dDkYsHFo1H0CIF.htm)|Éveil d’animal|`@Compendium[pf2e.spells-srd.B4dDkYsHFo1H0CIF]`|
+|[Awaken Portal](spells/conjuration-03-AkF4yFcSCdhoULyZ.htm)|Éveiller un portail|`@Compendium[pf2e.spells-srd.AkF4yFcSCdhoULyZ]`|
+|[Baleful Polymorph](spells/transmutation-06-dN8QBNuTiaBHCKUe.htm)|Métamorphose funeste|`@Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]`|
+|[Bane](spells/enchantment-01-7ZinJNzxq0XF0oMx.htm)|Imprécation|`@Compendium[pf2e.spells-srd.7ZinJNzxq0XF0oMx]`|
+|[Banishment](spells/abjuration-05-bay4AfSu2iIozNNW.htm)|Bannissement|`@Compendium[pf2e.spells-srd.bay4AfSu2iIozNNW]`|
+|[Barkskin](spells/abjuration-02-YWrfKetOqDwVFut7.htm)|Peau d'écorce|`@Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]`|
+|[Battlefield Persistence](spells/divination-03-2jWVNdVlbJq84dfT.htm)|Persévérance sur le champ de bataille|`@Compendium[pf2e.spells-srd.2jWVNdVlbJq84dfT]`|
+|[Beastmaster Trance](spells/divination-03-5WM3WjshXgrkVCg6.htm)|Transe du Maître des bêtes|`@Compendium[pf2e.spells-srd.5WM3WjshXgrkVCg6]`|
+|[Befuddle](spells/enchantment-01-pBevG6bSQOiyflev.htm)|Embrouiller|`@Compendium[pf2e.spells-srd.pBevG6bSQOiyflev]`|
+|[Bestial Curse](spells/transmutation-04-VuPDHoVEPLbMfCJC.htm)|Malédiction bestiale|`@Compendium[pf2e.spells-srd.VuPDHoVEPLbMfCJC]`|
+|[Bind Soul](spells/necromancy-09-GYmXvS9NJ7QwfWGg.htm)|Âme prisonnière|`@Compendium[pf2e.spells-srd.GYmXvS9NJ7QwfWGg]`|
+|[Bind Undead](spells/necromancy-03-GUeRTriJkMlMlVrk.htm)|Lier un mort-vivant|`@Compendium[pf2e.spells-srd.GUeRTriJkMlMlVrk]`|
+|[Bit of Luck](spells/divination-01-Fr2CGvWcgSyLcUi7.htm)|Un peu de chance|`@Compendium[pf2e.spells-srd.Fr2CGvWcgSyLcUi7]`|
+|[Black Tentacles](spells/conjuration-05-2w4OpAGihn1JSHFD.htm)|Tentacules noirs|`@Compendium[pf2e.spells-srd.2w4OpAGihn1JSHFD]`|
+|[Blade Barrier](spells/evocation-06-peCF6VArm8urfwxZ.htm)|Barrière de lames|`@Compendium[pf2e.spells-srd.peCF6VArm8urfwxZ]`|
+|[Blanket Of Stars](spells/illusion-06-m34WOIGZCEg1h76G.htm)|Couverture d'étoiles|`@Compendium[pf2e.spells-srd.m34WOIGZCEg1h76G]`|
+|[Bless](spells/enchantment-01-XSujb7EsSwKl19Uu.htm)|Bénédiction|`@Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]`|
+|[Blight](spells/necromancy-04-7yWXx3qC4eFNHhxD.htm)|Flétrissement végétal|`@Compendium[pf2e.spells-srd.7yWXx3qC4eFNHhxD]`|
+|[Blightburn Blast](spells/evocation-07-EgkypvUZIZkx1UlQ.htm)|Explosion de fléau brûlant|`@Compendium[pf2e.spells-srd.EgkypvUZIZkx1UlQ]`|
+|[Blind Ambition](spells/enchantment-01-Dj44lViYKvOJ8a53.htm)|Ambition aveugle|`@Compendium[pf2e.spells-srd.Dj44lViYKvOJ8a53]`|
+|[Blinding Beauty](spells/enchantment-03-Q56HLIHVKY6bC5W3.htm)|Beauté aveuglante|`@Compendium[pf2e.spells-srd.Q56HLIHVKY6bC5W3]`|
+|[Blinding Fury](spells/enchantment-06-NhGXgmI3AjkkwnPk.htm)|Furie aveuglante|`@Compendium[pf2e.spells-srd.NhGXgmI3AjkkwnPk]`|
+|[Blindness](spells/necromancy-03-VosLNn2M8S7JH67D.htm)|Cécité|`@Compendium[pf2e.spells-srd.VosLNn2M8S7JH67D]`|
+|[Blink](spells/conjuration-04-zR67Rt3UMHKC5evy.htm)|Clignotement|`@Compendium[pf2e.spells-srd.zR67Rt3UMHKC5evy]`|
+|[Blister](spells/necromancy-05-59NR1hA2jPSgg2sW.htm)|Enveloppe|`@Compendium[pf2e.spells-srd.59NR1hA2jPSgg2sW]`|
+|[Blistering Invective](spells/enchantment-02-hoR6w8BqX2F35Tdx.htm)|Invective torrides|`@Compendium[pf2e.spells-srd.hoR6w8BqX2F35Tdx]`|
+|[Blood Feast](spells/necromancy-05-ES6FkwXXqYr4ujQH.htm)|Festin de sang|`@Compendium[pf2e.spells-srd.ES6FkwXXqYr4ujQH]`|
+|[Blood Vendetta](spells/necromancy-02-TaaMEYdZXQXF0Sks.htm)|Vendetta du sang|`@Compendium[pf2e.spells-srd.TaaMEYdZXQXF0Sks]`|
+|[Blood Ward](spells/abjuration-01-dFejDNEmVj3CwYLL.htm)|Protection du sang|`@Compendium[pf2e.spells-srd.dFejDNEmVj3CwYLL]`|
+|[Blur](spells/illusion-02-3JG1t3T4mWn6vTke.htm)|Flou|`@Compendium[pf2e.spells-srd.3JG1t3T4mWn6vTke]`|
+|[Bottle the Storm](spells/evocation-04-VUwpDY4Z91s9QCg0.htm)|Tempête en bouteille|`@Compendium[pf2e.spells-srd.VUwpDY4Z91s9QCg0]`|
+|[Brain Drain](spells/enchantment-01-k2QrUk7jWMAWozMh.htm)|Drain du cerveau|`@Compendium[pf2e.spells-srd.k2QrUk7jWMAWozMh]`|
+|[Brand the Impenitent](spells/abjuration-02-Y8cSjhU33oUqccxJ.htm)|Marquer l'impénitent|`@Compendium[pf2e.spells-srd.Y8cSjhU33oUqccxJ]`|
+|[Breath of Drought](spells/evocation-02-Wt94cw03L77sbud7.htm)|Souffle de sécheresse|`@Compendium[pf2e.spells-srd.Wt94cw03L77sbud7]`|
+|[Breath of Life](spells/necromancy-05-Hnc7eGi7vyZenAIm.htm)|Souffle de vie|`@Compendium[pf2e.spells-srd.Hnc7eGi7vyZenAIm]`|
+|[Burning Hands](spells/evocation-01-y6rAdMK6EFlV6U0t.htm)|Mains brûlantes|`@Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]`|
+|[Cackle](spells/enchantment-01-YVK3JUkPVzHIeGXQ.htm)|Gloussement|`@Compendium[pf2e.spells-srd.YVK3JUkPVzHIeGXQ]`|
+|[Call Spirit](spells/necromancy-05-gsYEuWv04XTDxe91.htm)|Appel d'un esprit|`@Compendium[pf2e.spells-srd.gsYEuWv04XTDxe91]`|
+|[Call The Blood](spells/necromancy-04-S1Msrwi990FE7uMO.htm)||`@Compendium[pf2e.spells-srd.S1Msrwi990FE7uMO]`|
+|[Call of the Grave](spells/necromancy-01-BH3sUerzMb2bWnv1.htm)|Appel de la tombe|`@Compendium[pf2e.spells-srd.BH3sUerzMb2bWnv1]`|
+|[Call to Arms](spells/enchantment-01-dqaCLzINHBiKjh4J.htm)|Appel aux armes|`@Compendium[pf2e.spells-srd.dqaCLzINHBiKjh4J]`|
+|[Calm Emotions](spells/enchantment-02-b515AZlB0sridKSq.htm)|Apaisement des émotions|`@Compendium[pf2e.spells-srd.b515AZlB0sridKSq]`|
+|[Captivating Adoration](spells/enchantment-04-jJphHQlENHFlSElH.htm)|Adoration captivante|`@Compendium[pf2e.spells-srd.jJphHQlENHFlSElH]`|
+|[Cataclysm](spells/evocation-10-wLIvH0AT1u7oa64N.htm)|Cataclysme|`@Compendium[pf2e.spells-srd.wLIvH0AT1u7oa64N]`|
+|[Celestial Brand](spells/necromancy-05-9WlTR9JlEcjRmGiD.htm)|Marque céleste|`@Compendium[pf2e.spells-srd.9WlTR9JlEcjRmGiD]`|
+|[Chain Lightning](spells/evocation-06-TDNlDWbYb58Y55Da.htm)|Éclairs multiples|`@Compendium[pf2e.spells-srd.TDNlDWbYb58Y55Da]`|
+|[Chameleon Coat](spells/illusion-05-xPrbxyOEwy9QaPVn.htm)|Couverture caméléon|`@Compendium[pf2e.spells-srd.xPrbxyOEwy9QaPVn]`|
+|[Champion's Sacrifice](spells/abjuration-06-USM530HlzZ1RMd99.htm)|Sacrifice du Champion|`@Compendium[pf2e.spells-srd.USM530HlzZ1RMd99]`|
+|[Charged Javelin](spells/evocation-01-g1eY1vN44mgluE33.htm)|Javelot chagé|`@Compendium[pf2e.spells-srd.g1eY1vN44mgluE33]`|
+|[Charitable Urge](spells/enchantment-02-UirEIHILQgip87qv.htm)|Désir Charitable|`@Compendium[pf2e.spells-srd.UirEIHILQgip87qv]`|
+|[Charm](spells/enchantment-01-vLA0q0WOK2YPuJs6.htm)|Charme|`@Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]`|
+|[Charming Touch](spells/enchantment-01-ut9IhJ9jSZSHDUop.htm)|Contact charmeur|`@Compendium[pf2e.spells-srd.ut9IhJ9jSZSHDUop]`|
+|[Charming Words](spells/enchantment-01-KMFRKzNCq7hVNH7H.htm)|Paroles charmeuses|`@Compendium[pf2e.spells-srd.KMFRKzNCq7hVNH7H]`|
+|[Chill Touch](spells/necromancy-00-mAMEt4FFbdqoRnkN.htm)|Contact glacial|`@Compendium[pf2e.spells-srd.mAMEt4FFbdqoRnkN]`|
+|[Chilling Darkness](spells/evocation-03-sRfSBHWHdbIa0aGc.htm)|Ténèbres glaciales|`@Compendium[pf2e.spells-srd.sRfSBHWHdbIa0aGc]`|
+|[Chilling Spray](spells/evocation-01-8TQiFzGf4feoHeH0.htm)|Aspersion de froid|`@Compendium[pf2e.spells-srd.8TQiFzGf4feoHeH0]`|
+|[Chroma Leach](spells/necromancy-04-4y2DMq9DV5HvmnxC.htm)|Filtrer les couleurs|`@Compendium[pf2e.spells-srd.4y2DMq9DV5HvmnxC]`|
+|[Chromatic Wall](spells/abjuration-05-forsqeofEszBNtLq.htm)|Mur chromatique|`@Compendium[pf2e.spells-srd.forsqeofEszBNtLq]`|
+|[Circle of Protection](spells/abjuration-03-mpGCMTldMVa0pWYs.htm)|Cercle de protection|`@Compendium[pf2e.spells-srd.mpGCMTldMVa0pWYs]`|
+|[Claim Undead](spells/necromancy-06-GzN9bG6cKZ96YC6l.htm)|Réclamer un mort-vivant|`@Compendium[pf2e.spells-srd.GzN9bG6cKZ96YC6l]`|
+|[Clairaudience](spells/divination-03-HXhWYJviWalN5tQ2.htm)|Clairaudience|`@Compendium[pf2e.spells-srd.HXhWYJviWalN5tQ2]`|
+|[Clairvoyance](spells/divination-04-zvKWclOZ7A53DObE.htm)|Clairvoyance|`@Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]`|
+|[Clinging Ice](spells/conjuration-00-MraZBLJ4Be3ogmWL.htm)|Glace tenace|`@Compendium[pf2e.spells-srd.MraZBLJ4Be3ogmWL]`|
+|[Clinging Shadows Stance](spells/evocation-04-uJXs4M6IeixfPBLc.htm)|Posture des ombres tenaces|`@Compendium[pf2e.spells-srd.uJXs4M6IeixfPBLc]`|
+|[Cloak of Colors](spells/illusion-05-TCk2MDwf5L5OYjFC.htm)|Cape colorée|`@Compendium[pf2e.spells-srd.TCk2MDwf5L5OYjFC]`|
+|[Cloak of Shadow](spells/evocation-01-SE0fbgBj7atuukdv.htm)|Manteau d'ombre|`@Compendium[pf2e.spells-srd.SE0fbgBj7atuukdv]`|
+|[Clone](spells/necromancy-09-pZr1xrCpaSu6qrXU.htm)|Clone|`@Compendium[pf2e.spells-srd.pZr1xrCpaSu6qrXU]`|
+|[Cloudkill](spells/necromancy-05-MlpbeZ61Euhl0d60.htm)|Nuage mortel|`@Compendium[pf2e.spells-srd.MlpbeZ61Euhl0d60]`|
+|[Clownish Curse](spells/enchantment-04-S7ylpCJyq0CYkux9.htm)|Malédiction clownesque|`@Compendium[pf2e.spells-srd.S7ylpCJyq0CYkux9]`|
+|[Collective Transposition](spells/conjuration-06-c3XygMbzrZMgV1y3.htm)|Transposition collective|`@Compendium[pf2e.spells-srd.c3XygMbzrZMgV1y3]`|
+|[Color Spray](spells/illusion-01-UKsIOWmMx4hSpafl.htm)|Couleurs dansantes|`@Compendium[pf2e.spells-srd.UKsIOWmMx4hSpafl]`|
+|[Command](spells/enchantment-01-aIHY2DArKFweIrpf.htm)|Injonction|`@Compendium[pf2e.spells-srd.aIHY2DArKFweIrpf]`|
+|[Commanding Lash](spells/enchantment-04-4DaHIgtMBTyxebY3.htm)|Fouet du maître|`@Compendium[pf2e.spells-srd.4DaHIgtMBTyxebY3]`|
+|[Commune](spells/divination-06-7DN13ILADW2N9Z1t.htm)|Communion|`@Compendium[pf2e.spells-srd.7DN13ILADW2N9Z1t]`|
+|[Commune with Nature](spells/divination-06-l4LFwY7iuzX6sDXr.htm)|Communion avec la nature|`@Compendium[pf2e.spells-srd.l4LFwY7iuzX6sDXr]`|
+|[Competitive Edge](spells/enchantment-04-NOB92Wpn7jXvtyVW.htm)|Avantage du compétiteur|`@Compendium[pf2e.spells-srd.NOB92Wpn7jXvtyVW]`|
+|[Comprehend Language](spells/divination-02-vTQvfYu2llKQedmY.htm)|Compréhension des langues|`@Compendium[pf2e.spells-srd.vTQvfYu2llKQedmY]`|
+|[Cone of Cold](spells/evocation-05-3puDanGfpEt6jK5k.htm)|Cône de froid|`@Compendium[pf2e.spells-srd.3puDanGfpEt6jK5k]`|
+|[Confusion](spells/enchantment-04-LiGbewa9pO0yjbsY.htm)|Confusion|`@Compendium[pf2e.spells-srd.LiGbewa9pO0yjbsY]`|
+|[Consecrate](spells/evocation-02-Dbd5W6G8U2vzWolN.htm)|consécration|`@Compendium[pf2e.spells-srd.Dbd5W6G8U2vzWolN]`|
+|[Consuming Darkness](spells/evocation-05-HMTloW1hvRFJ5Z2D.htm)|Obscurité dévorante|`@Compendium[pf2e.spells-srd.HMTloW1hvRFJ5Z2D]`|
+|[Contingency](spells/abjuration-07-WG91Z5TiR6oO5FOw.htm)|Contingence|`@Compendium[pf2e.spells-srd.WG91Z5TiR6oO5FOw]`|
+|[Continual Flame](spells/evocation-02-ynm8JIU3sc3qUMpa.htm)|Flamme éternelle|`@Compendium[pf2e.spells-srd.ynm8JIU3sc3qUMpa]`|
+|[Control Sand](spells/evocation-07-oahqARSgOGDRybBQ.htm)|Contrôle du sable|`@Compendium[pf2e.spells-srd.oahqARSgOGDRybBQ]`|
+|[Control Water](spells/evocation-05-zfn5RqAdF63neqpP.htm)|Contrôle de l'eau|`@Compendium[pf2e.spells-srd.zfn5RqAdF63neqpP]`|
+|[Control Weather](spells/evocation-08-XkDCzMIyc0YOjw05.htm)|Contrôle du climat|`@Compendium[pf2e.spells-srd.XkDCzMIyc0YOjw05]`|
+|[Counter Performance](spells/enchantment-01-WILXkjU5Yq3yw10r.htm)|Contre-représentation|`@Compendium[pf2e.spells-srd.WILXkjU5Yq3yw10r]`|
+|[Countless Eyes](spells/divination-04-ykyKclKTCMp2SFXa.htm)|Yeux innombrables|`@Compendium[pf2e.spells-srd.ykyKclKTCMp2SFXa]`|
+|[Cozy Cabin](spells/conjuration-03-mwPfoYfVGSMAaUec.htm)|Cabine douillette|`@Compendium[pf2e.spells-srd.mwPfoYfVGSMAaUec]`|
+|[Crashing Wave](spells/evocation-03-T4QKmtYPeCgYxVGe.htm)|Vague écrasante|`@Compendium[pf2e.spells-srd.T4QKmtYPeCgYxVGe]`|
+|[Create Demiplane](spells/conjuration-08-ZwwIUavMbEwcZz35.htm)|Création de demi-plan|`@Compendium[pf2e.spells-srd.ZwwIUavMbEwcZz35]`|
+|[Create Food](spells/conjuration-02-Mt6ZzkVX8Q4xigFq.htm)|Création de nourriture|`@Compendium[pf2e.spells-srd.Mt6ZzkVX8Q4xigFq]`|
+|[Create Skinstitch](spells/transmutation-06-NCUXsaj2yFxOVhrK.htm)|Création de chose de peaux recousues|`@Compendium[pf2e.spells-srd.NCUXsaj2yFxOVhrK]`|
+|[Create Undead](spells/necromancy-02-c3b6LdLlQDPngNIb.htm)|Création de mort-vivant|`@Compendium[pf2e.spells-srd.c3b6LdLlQDPngNIb]`|
+|[Create Water](spells/conjuration-01-WzLKjSw6hsBhuklC.htm)|Création d'eau|`@Compendium[pf2e.spells-srd.WzLKjSw6hsBhuklC]`|
+|[Creation](spells/conjuration-04-TUj8eugNqAvB1vVR.htm)|Création|`@Compendium[pf2e.spells-srd.TUj8eugNqAvB1vVR]`|
+|[Crisis of Faith](spells/enchantment-03-3x6eUCm17n6ROzUa.htm)|Manque de foi|`@Compendium[pf2e.spells-srd.3x6eUCm17n6ROzUa]`|
+|[Crusade](spells/enchantment-09-xFY9RtDE4DQKlWNR.htm)|Croisade|`@Compendium[pf2e.spells-srd.xFY9RtDE4DQKlWNR]`|
+|[Crushing Despair](spells/enchantment-05-GaRQlC9Yw1BGKHfN.htm)|Désespoir foudroyant|`@Compendium[pf2e.spells-srd.GaRQlC9Yw1BGKHfN]`|
+|[Cry of Destruction](spells/evocation-01-0H1ozccQGGFLUwFI.htm)|Cri de destruction|`@Compendium[pf2e.spells-srd.0H1ozccQGGFLUwFI]`|
+|[Cup of Dust](spells/necromancy-03-10siFBMF4pIDhVmf.htm)|Tasse de poussière|`@Compendium[pf2e.spells-srd.10siFBMF4pIDhVmf]`|
+|[Curse Of Lost Time](spells/transmutation-03-B3eLlbaPxOYHcs1o.htm)|Malédiction du temps perdu|`@Compendium[pf2e.spells-srd.B3eLlbaPxOYHcs1o]`|
+|[Curse of Death](spells/necromancy-05-nQS4vPm5zprqkzFZ.htm)|Malédiction de mort|`@Compendium[pf2e.spells-srd.nQS4vPm5zprqkzFZ]`|
+|[Daemonic Pact](spells/conjuration-01-Vpohy4XH1DaH95hT.htm)|Pacte daémoniaque|`@Compendium[pf2e.spells-srd.Vpohy4XH1DaH95hT]`|
+|[Dance of Darkness](spells/evocation-05-9BGEf9Sv5rgNBCk0.htm)|Danse de ténèbre|`@Compendium[pf2e.spells-srd.9BGEf9Sv5rgNBCk0]`|
+|[Dancing Lights](spells/evocation-00-kl2q6JvBZwed4B6v.htm)|Lumières dansantes|`@Compendium[pf2e.spells-srd.kl2q6JvBZwed4B6v]`|
+|[Darkened Eyes](spells/transmutation-04-oiUhJbJ3YCKF62Fu.htm)|Assombrir le regard|`@Compendium[pf2e.spells-srd.oiUhJbJ3YCKF62Fu]`|
+|[Darkness](spells/evocation-02-4GE2ZdODgIQtg51c.htm)|Ténèbres|`@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]`|
+|[Darkvision](spells/divination-02-pZTqGY1MLRjgKasV.htm)|Vision dans le noir|`@Compendium[pf2e.spells-srd.pZTqGY1MLRjgKasV]`|
+|[Daydreamer's Curse](spells/enchantment-04-dARE6VfJ3Uoq5M53.htm)|Malédiction du rêveur éveillé|`@Compendium[pf2e.spells-srd.dARE6VfJ3Uoq5M53]`|
+|[Daze](spells/enchantment-00-4gBIw4IDrSfFHik4.htm)|Hébétement|`@Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]`|
+|[Dazzling Flash](spells/evocation-01-zul5cBTfr7NXHBZf.htm)|Éclair éblouissant|`@Compendium[pf2e.spells-srd.zul5cBTfr7NXHBZf]`|
+|[Deafness](spells/necromancy-02-fZPCv2VHuM2yPbC8.htm)|Surdité|`@Compendium[pf2e.spells-srd.fZPCv2VHuM2yPbC8]`|
+|[Death Knell](spells/necromancy-02-dLdRqT6UxTKlsPgp.htm)|Mise à mort|`@Compendium[pf2e.spells-srd.dLdRqT6UxTKlsPgp]`|
+|[Death Ward](spells/abjuration-05-YvXKGlHOt7mdW2jZ.htm)|Protection contre la mort|`@Compendium[pf2e.spells-srd.YvXKGlHOt7mdW2jZ]`|
+|[Death's Call](spells/necromancy-01-HG4afO9EOGEU9bZN.htm)|Appel de la mort|`@Compendium[pf2e.spells-srd.HG4afO9EOGEU9bZN]`|
+|[Debilitating Dichotomy](spells/evocation-04-VmqdVWCb8zAUCW8S.htm)|Dichotomie débilitante|`@Compendium[pf2e.spells-srd.VmqdVWCb8zAUCW8S]`|
+|[Deceiver's Cloak](spells/illusion-03-FrKPwgFxWIGMGgs4.htm)|Cape de tromperie|`@Compendium[pf2e.spells-srd.FrKPwgFxWIGMGgs4]`|
+|[Delay Affliction](spells/necromancy-03-ziHDISWkFSwz3pmn.htm)|Retarder l'affliction|`@Compendium[pf2e.spells-srd.ziHDISWkFSwz3pmn]`|
+|[Delay Consequence](spells/abjuration-01-3wmX7htzOXiHLdAn.htm)|Retarder les conséquences|`@Compendium[pf2e.spells-srd.3wmX7htzOXiHLdAn]`|
+|[Deluge](spells/evocation-08-8fEfjvC01gNclDKJ.htm)|Déluge intense|`@Compendium[pf2e.spells-srd.8fEfjvC01gNclDKJ]`|
+|[Delusional Pride](spells/enchantment-04-J8pL8yTshga8QOk8.htm)|Fierté illusoire|`@Compendium[pf2e.spells-srd.J8pL8yTshga8QOk8]`|
+|[Destructive Aura](spells/evocation-04-7d4DUTDIlzDa8OvX.htm)|Aura destructrice|`@Compendium[pf2e.spells-srd.7d4DUTDIlzDa8OvX]`|
+|[Detect Alignment](spells/divination-01-QnTtGCAvdWRU4spv.htm)|Détection de l’alignement|`@Compendium[pf2e.spells-srd.QnTtGCAvdWRU4spv]`|
+|[Detect Magic](spells/divination-00-gpzpAAAJ1Lza2JVl.htm)|Détection de la magie|`@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]`|
+|[Detect Poison](spells/divination-01-QqxwHeYEVylkYjsO.htm)|Détection du poison|`@Compendium[pf2e.spells-srd.QqxwHeYEVylkYjsO]`|
+|[Detect Scrying](spells/divination-04-AnWCohzPgK4L9GVl.htm)|Détection de la scrutation|`@Compendium[pf2e.spells-srd.AnWCohzPgK4L9GVl]`|
+|[Devour Life](spells/necromancy-08-PgLvO8UNHSj5f61m.htm)|Dévorer la vie|`@Compendium[pf2e.spells-srd.PgLvO8UNHSj5f61m]`|
+|[Diabolic Edict](spells/enchantment-01-Vctwx1ewa8HUOA94.htm)|Édit diabolique|`@Compendium[pf2e.spells-srd.Vctwx1ewa8HUOA94]`|
+|[Diamond Dust](spells/evocation-04-wjJW9hWY5CkkMvY5.htm)|Poussière de diamant|`@Compendium[pf2e.spells-srd.wjJW9hWY5CkkMvY5]`|
+|[Dim the Light](spells/evocation-01-6UafOE1ZUbHamsZJ.htm)|Diminuer la lumière|`@Compendium[pf2e.spells-srd.6UafOE1ZUbHamsZJ]`|
+|[Dimension Door](spells/conjuration-04-VlNcjmYyu95vOUe8.htm)|Porte dimensionnelle|`@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]`|
+|[Dimensional Anchor](spells/abjuration-04-ksLCg62cLOojw3gN.htm)|Ancre dimensionnelle|`@Compendium[pf2e.spells-srd.ksLCg62cLOojw3gN]`|
+|[Dimensional Lock](spells/abjuration-07-XZE4BawIlTf88Yl9.htm)|Verrou dimensionnel|`@Compendium[pf2e.spells-srd.XZE4BawIlTf88Yl9]`|
+|[Dimensional Steps](spells/conjuration-04-zjG6NncHyAKqSF7m.htm)|Pas interdimensionnel|`@Compendium[pf2e.spells-srd.zjG6NncHyAKqSF7m]`|
+|[Dinosaur Form](spells/transmutation-04-KhM8MhoUgoUjBMIz.htm)|Forme de dinosaure|`@Compendium[pf2e.spells-srd.KhM8MhoUgoUjBMIz]`|
+|[Dirge of Doom](spells/enchantment-00-1xLVcA8Y1onw7toT.htm)|Chant funeste|`@Compendium[pf2e.spells-srd.1xLVcA8Y1onw7toT]`|
+|[Disappearance](spells/illusion-08-wfleiawxsfhpRRwf.htm)|Disparition|`@Compendium[pf2e.spells-srd.wfleiawxsfhpRRwf]`|
+|[Discern Lies](spells/divination-04-uNsliWpl8Q1JdFcM.htm)|Détection du mensonge|`@Compendium[pf2e.spells-srd.uNsliWpl8Q1JdFcM]`|
+|[Discern Location](spells/divination-08-CeSh8QcVnqP5OlLj.htm)|Localisation suprême|`@Compendium[pf2e.spells-srd.CeSh8QcVnqP5OlLj]`|
+|[Discern Secrets](spells/divination-00-UmXhuKrYZR3W16mQ.htm)|Discerner les secrets|`@Compendium[pf2e.spells-srd.UmXhuKrYZR3W16mQ]`|
+|[Disintegrate](spells/evocation-06-r7ihOgKv19eJQnik.htm)|Désintégration|`@Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]`|
+|[Disjunction](spells/abjuration-09-ihbRf964JDXztcy3.htm)|Disjonction|`@Compendium[pf2e.spells-srd.ihbRf964JDXztcy3]`|
+|[Dismantle](spells/transmutation-02-jW2asKFchuoxniSH.htm)|Démanteler|`@Compendium[pf2e.spells-srd.jW2asKFchuoxniSH]`|
+|[Dispel Magic](spells/abjuration-02-9HpwDN4MYQJnW0LG.htm)|Dissipation de la magie|`@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]`|
+|[Disperse into Air](spells/transmutation-04-L8pzCOi7Jzx5ALs9.htm)|Disparition dans les airs|`@Compendium[pf2e.spells-srd.L8pzCOi7Jzx5ALs9]`|
+|[Disrupt Undead](spells/necromancy-00-kcelf6IHl3L9VXXg.htm)|Destruction de mort-vivant|`@Compendium[pf2e.spells-srd.kcelf6IHl3L9VXXg]`|
+|[Disrupting Weapons](spells/necromancy-01-2iQKhCQBijhj5Rf3.htm)|Armes perturbatrices|`@Compendium[pf2e.spells-srd.2iQKhCQBijhj5Rf3]`|
+|[Div Pact](spells/conjuration-01-D8cWhrzcsd43OlIX.htm)||`@Compendium[pf2e.spells-srd.D8cWhrzcsd43OlIX]`|
+|[Divine Aura](spells/abjuration-08-nsQvjNyg4Whw2mek.htm)|Aura divine|`@Compendium[pf2e.spells-srd.nsQvjNyg4Whw2mek]`|
+|[Divine Decree](spells/evocation-07-sX2o0HH4RjJDAZ8C.htm)|Décret divin|`@Compendium[pf2e.spells-srd.sX2o0HH4RjJDAZ8C]`|
+|[Divine Inspiration](spells/enchantment-08-KtTGLbLG9nqMbUYL.htm)|Inspiration divine|`@Compendium[pf2e.spells-srd.KtTGLbLG9nqMbUYL]`|
+|[Divine Lance](spells/evocation-00-qwZBXN6zBoB9BHXE.htm)|Lance divine|`@Compendium[pf2e.spells-srd.qwZBXN6zBoB9BHXE]`|
+|[Divine Plagues](spells/necromancy-01-NkeLctXo9FLGnDhi.htm)|Plaies divines|`@Compendium[pf2e.spells-srd.NkeLctXo9FLGnDhi]`|
+|[Divine Vessel](spells/transmutation-07-hiVL8qsnTJtpouw0.htm)|Réceptacle divin|`@Compendium[pf2e.spells-srd.hiVL8qsnTJtpouw0]`|
+|[Divine Wrath](spells/evocation-04-hVU9msO9yGkxKZ3J.htm)|Colère divine|`@Compendium[pf2e.spells-srd.hVU9msO9yGkxKZ3J]`|
+|[Diviner's Sight](spells/divination-01-oFwmdb6LlRrh9AUT.htm)|Vision du devin|`@Compendium[pf2e.spells-srd.oFwmdb6LlRrh9AUT]`|
+|[Dominate](spells/enchantment-06-OsOhx3TGIZ7AhD0P.htm)|Domination|`@Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]`|
+|[Door to Beyond](spells/conjuration-04-iMmexY6ZosLS4I5R.htm)|Porte vers l'au-delà|`@Compendium[pf2e.spells-srd.iMmexY6ZosLS4I5R]`|
+|[Downpour](spells/evocation-04-K4LXpaBWrGy6jIER.htm)|Déluge|`@Compendium[pf2e.spells-srd.K4LXpaBWrGy6jIER]`|
+|[Draconic Barrage](spells/evocation-01-S6Kkk15MWGqzC00a.htm)|Barrage draconique|`@Compendium[pf2e.spells-srd.S6Kkk15MWGqzC00a]`|
+|[Dragon Breath](spells/evocation-03-JcobNl4iE9HmMYtE.htm)|Souffle de dragon|`@Compendium[pf2e.spells-srd.JcobNl4iE9HmMYtE]`|
+|[Dragon Breath (Blue or Bronze)](spells/evocation-03-0jWBnIDFpJjJShdQ.htm)||`@Compendium[pf2e.spells-srd.0jWBnIDFpJjJShdQ]`|
+|[Dragon Breath (Brass)](spells/evocation-03-N0h3UodJFKdNQw1Y.htm)||`@Compendium[pf2e.spells-srd.N0h3UodJFKdNQw1Y]`|
+|[Dragon Breath (Copper or Black)](spells/evocation-03-6mmEz1UoTHGB7Sy9.htm)||`@Compendium[pf2e.spells-srd.6mmEz1UoTHGB7Sy9]`|
+|[Dragon Breath (Gold or Red)](spells/evocation-03-kfsv7zSHb3pr7s9v.htm)||`@Compendium[pf2e.spells-srd.kfsv7zSHb3pr7s9v]`|
+|[Dragon Breath (Green)](spells/evocation-03-jupppBeFqhe6LMIb.htm)||`@Compendium[pf2e.spells-srd.jupppBeFqhe6LMIb]`|
+|[Dragon Breath (Silver or White)](spells/evocation-03-bmDgIbLa5NfkP97J.htm)||`@Compendium[pf2e.spells-srd.bmDgIbLa5NfkP97J]`|
+|[Dragon Claws](spells/transmutation-01-K8vvrOgW4bGakXxm.htm)|Griffes de dragon|`@Compendium[pf2e.spells-srd.K8vvrOgW4bGakXxm]`|
+|[Dragon Form](spells/transmutation-06-5c692cCcTDXjSEzk.htm)|Forme de dragon|`@Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]`|
+|[Dragon Wings](spells/transmutation-05-HWJODX2zPg5cg34F.htm)|Ailes de dragon|`@Compendium[pf2e.spells-srd.HWJODX2zPg5cg34F]`|
+|[Drain Life](spells/necromancy-03-cqdmSmQnM0q6wbWG.htm)|Drain de vie|`@Compendium[pf2e.spells-srd.cqdmSmQnM0q6wbWG]`|
+|[Dread Aura](spells/enchantment-04-KPGGkyBFbKse7KpK.htm)|Aura effroyable|`@Compendium[pf2e.spells-srd.KPGGkyBFbKse7KpK]`|
+|[Dread Secret](spells/divination-06-XULNb8ItUsfupxqH.htm)|Secret effroyable|`@Compendium[pf2e.spells-srd.XULNb8ItUsfupxqH]`|
+|[Dream Council](spells/illusion-08-rwCh2qTYPA44KEoK.htm)|Conseil onirique|`@Compendium[pf2e.spells-srd.rwCh2qTYPA44KEoK]`|
+|[Dream Message](spells/enchantment-03-yM3KTTSAIHhyuP14.htm)|Message onirique|`@Compendium[pf2e.spells-srd.yM3KTTSAIHhyuP14]`|
+|[Dreamer's Call](spells/enchantment-04-PztLrElcZfLwRnEq.htm)|Appel du rêveur|`@Compendium[pf2e.spells-srd.PztLrElcZfLwRnEq]`|
+|[Dreaming Potential](spells/enchantment-05-y0Vy7iNL3ET8K00C.htm)|Potentiel onirique|`@Compendium[pf2e.spells-srd.y0Vy7iNL3ET8K00C]`|
+|[Drop Dead](spells/illusion-05-scTRIrTfXquVYHGw.htm)|Raide mort|`@Compendium[pf2e.spells-srd.scTRIrTfXquVYHGw]`|
+|[Dull Ambition](spells/enchantment-04-MLdMUOdwSKegOGlo.htm)|Ambition insipide|`@Compendium[pf2e.spells-srd.MLdMUOdwSKegOGlo]`|
+|[Duplicate Foe](spells/conjuration-07-73rToy0v5Ra9NvL6.htm)|Dupliquer l'ennemi|`@Compendium[pf2e.spells-srd.73rToy0v5Ra9NvL6]`|
+|[Dust Storm](spells/conjuration-04-K1wmI4qPmRhFczmy.htm)|Tempête de poussière|`@Compendium[pf2e.spells-srd.K1wmI4qPmRhFczmy]`|
+|[Dutiful Challenge](spells/abjuration-04-caehfpQz7yp9yNzz.htm)|Défi respectueux|`@Compendium[pf2e.spells-srd.caehfpQz7yp9yNzz]`|
+|[Déjà Vu](spells/enchantment-01-rerNA6YZsdxuJYt3.htm)|Déjà vu|`@Compendium[pf2e.spells-srd.rerNA6YZsdxuJYt3]`|
+|[Earthbind](spells/transmutation-03-gPvtmKMRpg9I9D7H.htm)|Cloué à terre|`@Compendium[pf2e.spells-srd.gPvtmKMRpg9I9D7H]`|
+|[Earthquake](spells/evocation-08-x7SPrsRxGb2Vy2nu.htm)|Tremblement de terre|`@Compendium[pf2e.spells-srd.x7SPrsRxGb2Vy2nu]`|
+|[Eclipse Burst](spells/necromancy-07-0jadeyQIItIuRgeH.htm)|Eclipse soudaine|`@Compendium[pf2e.spells-srd.0jadeyQIItIuRgeH]`|
+|[Ectoplasmic Expulsion](spells/necromancy-05-PgDFDvX64eswapSS.htm)||`@Compendium[pf2e.spells-srd.PgDFDvX64eswapSS]`|
+|[Ectoplasmic Interstice](spells/necromancy-04-QE9f3OxvvBThymD4.htm)|Interstice ectoplasmique|`@Compendium[pf2e.spells-srd.QE9f3OxvvBThymD4]`|
+|[Eject Soul](spells/necromancy-01-rVhHaWqUsVUO4GuY.htm)|Éjection de l'âme|`@Compendium[pf2e.spells-srd.rVhHaWqUsVUO4GuY]`|
+|[Electric Arc](spells/evocation-00-kBhaPuzLUSwS6vVf.htm)|Arc électrique|`@Compendium[pf2e.spells-srd.kBhaPuzLUSwS6vVf]`|
+|[Electrified Crystal Ward](spells/evocation-03-57ulIxg3Of2wCbEh.htm)|Glyphe de cristal électrique|`@Compendium[pf2e.spells-srd.57ulIxg3Of2wCbEh]`|
+|[Elemental Betrayal](spells/evocation-01-f9uqHnNBMU0774SF.htm)|Trahison élémentaire|`@Compendium[pf2e.spells-srd.f9uqHnNBMU0774SF]`|
+|[Elemental Blast](spells/evocation-05-Qlp8G3knwLGhAxQ0.htm)|Explosion élémentaire|`@Compendium[pf2e.spells-srd.Qlp8G3knwLGhAxQ0]`|
+|[Elemental Form](spells/transmutation-05-1K6AYGisvo9gqdhs.htm)|Forme élémentaire|`@Compendium[pf2e.spells-srd.1K6AYGisvo9gqdhs]`|
+|[Elemental Motion](spells/evocation-03-B8aCUMCHCIMUCEVK.htm)|Mobilité élémentaire|`@Compendium[pf2e.spells-srd.B8aCUMCHCIMUCEVK]`|
+|[Elemental Tempest](spells/evocation-04-vfHr1N8Rf2bBpdgn.htm)|Tempête élémentaire|`@Compendium[pf2e.spells-srd.vfHr1N8Rf2bBpdgn]`|
+|[Elemental Toss](spells/evocation-01-0JUOgbbFCapp3HlW.htm)|Projectile élémentaire|`@Compendium[pf2e.spells-srd.0JUOgbbFCapp3HlW]`|
+|[Embrace the Pit](spells/transmutation-03-ilGsyGLGjjIPHbyP.htm)|Étreinte de la fosse|`@Compendium[pf2e.spells-srd.ilGsyGLGjjIPHbyP]`|
+|[Empty Body](spells/conjuration-09-mau1Olq58ECF0ZPi.htm)|Désertion de l'âme|`@Compendium[pf2e.spells-srd.mau1Olq58ECF0ZPi]`|
+|[Empty Inside](spells/abjuration-01-0cF9HvHzzWSbCFBP.htm)|Vide intérieur|`@Compendium[pf2e.spells-srd.0cF9HvHzzWSbCFBP]`|
+|[Endure](spells/enchantment-01-4c1c6eNzU1PFGkAy.htm)|Endurer|`@Compendium[pf2e.spells-srd.4c1c6eNzU1PFGkAy]`|
+|[Endure Elements](spells/abjuration-02-5esP2GVzvxWsMgaX.htm)|Endurance aux éléments|`@Compendium[pf2e.spells-srd.5esP2GVzvxWsMgaX]`|
+|[Enduring Might](spells/abjuration-04-eG1fBodYwolaXK98.htm)|Puissance protectrice|`@Compendium[pf2e.spells-srd.eG1fBodYwolaXK98]`|
+|[Energy Absorption](spells/abjuration-04-LoBjvguamA12iyW0.htm)|Absorption d'énergie|`@Compendium[pf2e.spells-srd.LoBjvguamA12iyW0]`|
+|[Energy Aegis](spells/abjuration-07-m2xFMNyQiUKQDRaj.htm)|Égide énergétique|`@Compendium[pf2e.spells-srd.m2xFMNyQiUKQDRaj]`|
+|[Enervation](spells/necromancy-04-eexkxcqnkXazsGfK.htm)|Affaiblissement|`@Compendium[pf2e.spells-srd.eexkxcqnkXazsGfK]`|
+|[Enhance Victuals](spells/transmutation-02-rdTEF1hfAWbN58NE.htm)|Amélioration des victuailles|`@Compendium[pf2e.spells-srd.rdTEF1hfAWbN58NE]`|
+|[Enlarge](spells/transmutation-02-wzctak6BxOW8xvFV.htm)|Agrandissement|`@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]`|
+|[Enlarge Companion](spells/transmutation-04-8rj45fKzCFcB0fxs.htm)|Compagnon aggrandi|`@Compendium[pf2e.spells-srd.8rj45fKzCFcB0fxs]`|
+|[Entangle](spells/transmutation-02-J6vNvrUT3b1hx2iA.htm)|Enchevêtrement|`@Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]`|
+|[Enthrall](spells/enchantment-03-IihxWhRfpsBgQ5jS.htm)|Discours captivant|`@Compendium[pf2e.spells-srd.IihxWhRfpsBgQ5jS]`|
+|[Entrancing Eyes](spells/enchantment-07-Vw2CNwlRRKABsuZi.htm)|Yeux enchanteurs|`@Compendium[pf2e.spells-srd.Vw2CNwlRRKABsuZi]`|
+|[Ephemeral Hazards](spells/illusion-04-HisaZTk67YAxLGBq.htm)|Dangers éphémères|`@Compendium[pf2e.spells-srd.HisaZTk67YAxLGBq]`|
+|[Ephemeral Tracking](spells/divination-03-QpjHqxwTGdILLvjD.htm)|Pistage éphémère|`@Compendium[pf2e.spells-srd.QpjHqxwTGdILLvjD]`|
+|[Eradicate Undeath](spells/necromancy-04-J5MNC4xq3CHH31qT.htm)|Éradication de la non-mort|`@Compendium[pf2e.spells-srd.J5MNC4xq3CHH31qT]`|
+|[Establish Ward](spells/abjuration-05-XlQBVvlDWGrGlApl.htm)|Établir une protection|`@Compendium[pf2e.spells-srd.XlQBVvlDWGrGlApl]`|
+|[Ethereal Jaunt](spells/conjuration-07-D2nPKbIS67m9199U.htm)|Forme éthérée|`@Compendium[pf2e.spells-srd.D2nPKbIS67m9199U]`|
+|[Evil Eye](spells/enchantment-00-f45JpY7Ph2cAJGW2.htm)|Mauvais œil|`@Compendium[pf2e.spells-srd.f45JpY7Ph2cAJGW2]`|
+|[Exchange Image](spells/illusion-01-znMvKqcRDilIVMwA.htm)|Échanger les visages|`@Compendium[pf2e.spells-srd.znMvKqcRDilIVMwA]`|
+|[Expeditious Excavation](spells/transmutation-02-aXoh6OQAL57lgh0a.htm)|Excavation expéditive|`@Compendium[pf2e.spells-srd.aXoh6OQAL57lgh0a]`|
+|[Extend Spell](spells/divination-03-GxxnhRIaoGKtu1iO.htm)|Extension de durée|`@Compendium[pf2e.spells-srd.GxxnhRIaoGKtu1iO]`|
+|[Fabricated Truth](spells/enchantment-10-6s0UW4bujggma9TC.htm)|Vérité fabriquée|`@Compendium[pf2e.spells-srd.6s0UW4bujggma9TC]`|
+|[Face in the Crowd](spells/illusion-01-yH13KXUK2x093NUv.htm)|Fondu dans la foule|`@Compendium[pf2e.spells-srd.yH13KXUK2x093NUv]`|
+|[Faerie Dust](spells/enchantment-01-IkS3lDGUpIOMug7v.htm)|Poussière féerique|`@Compendium[pf2e.spells-srd.IkS3lDGUpIOMug7v]`|
+|[Faerie Fire](spells/evocation-02-HRb2doyaLtaoCfi3.htm)|Lueurs féériques|`@Compendium[pf2e.spells-srd.HRb2doyaLtaoCfi3]`|
+|[Fallow Field](spells/necromancy-04-2RhZkHNv8ajq0yLq.htm)|Champ inactif|`@Compendium[pf2e.spells-srd.2RhZkHNv8ajq0yLq]`|
+|[False Life](spells/necromancy-02-8ViwItUgwT4lOvvb.htm)|Simulacre de vie|`@Compendium[pf2e.spells-srd.8ViwItUgwT4lOvvb]`|
+|[False Vision](spells/illusion-05-RCbLd7dfquHnuvrZ.htm)|Vision faussée|`@Compendium[pf2e.spells-srd.RCbLd7dfquHnuvrZ]`|
+|[Familiar Form](spells/transmutation-04-CHZQJg7O7991Vl4m.htm)|Forme de familier|`@Compendium[pf2e.spells-srd.CHZQJg7O7991Vl4m]`|
+|[Familiar's Face](spells/divination-03-9GkOWDFDEMuV3hJr.htm)|Visage du familier|`@Compendium[pf2e.spells-srd.9GkOWDFDEMuV3hJr]`|
+|[Fantastic Facade](spells/illusion-09-nA0XlPsnMNrQMpio.htm)|Façade fantastique|`@Compendium[pf2e.spells-srd.nA0XlPsnMNrQMpio]`|
+|[Fatal Aria](spells/enchantment-10-lyJDBD9OFW11vLyT.htm)|Aria fatale|`@Compendium[pf2e.spells-srd.lyJDBD9OFW11vLyT]`|
+|[Favorable Review](spells/enchantment-04-i7u6gAdNcyIyyo3h.htm)|Critique favorable|`@Compendium[pf2e.spells-srd.i7u6gAdNcyIyyo3h]`|
+|[Fear](spells/enchantment-01-4koZzrnMXhhosn0D.htm)|Terreur|`@Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]`|
+|[Fearful Feast](spells/necromancy-04-0qA4MfMkFklOz2Lk.htm)||`@Compendium[pf2e.spells-srd.0qA4MfMkFklOz2Lk]`|
+|[Feast of Ashes](spells/necromancy-02-siU9xRlqWXeKT0mH.htm)|Festin de cendres|`@Compendium[pf2e.spells-srd.siU9xRlqWXeKT0mH]`|
+|[Feather Fall](spells/abjuration-01-TTwOKGqmZeKSyNMH.htm)|Feuille morte|`@Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]`|
+|[Feeblemind](spells/enchantment-06-5BbU1V6wGSGbrmRD.htm)|Débilité|`@Compendium[pf2e.spells-srd.5BbU1V6wGSGbrmRD]`|
+|[Feet to Fins](spells/transmutation-03-RvBlSIJmxiqfCpR9.htm)|Pieds en nageoires|`@Compendium[pf2e.spells-srd.RvBlSIJmxiqfCpR9]`|
+|[Fey Disappearance](spells/enchantment-03-mBojKJatf9PTYC38.htm)|Disparition féerique|`@Compendium[pf2e.spells-srd.mBojKJatf9PTYC38]`|
+|[Fey Glamour](spells/illusion-05-DdXKfIjDtORUtUvY.htm)|Enchantement féerique|`@Compendium[pf2e.spells-srd.DdXKfIjDtORUtUvY]`|
+|[Field of Life](spells/necromancy-06-x5rGOmhDRDVQPrnW.htm)|Champ de vie|`@Compendium[pf2e.spells-srd.x5rGOmhDRDVQPrnW]`|
+|[Fiery Body](spells/transmutation-07-XS7Wyh5YC0NWeWyB.htm)|Corps enflammé|`@Compendium[pf2e.spells-srd.XS7Wyh5YC0NWeWyB]`|
+|[Final Sacrifice](spells/evocation-02-x0rWq0wS06dns4G2.htm)|Sacrifice final|`@Compendium[pf2e.spells-srd.x0rWq0wS06dns4G2]`|
+|[Finger of Death](spells/necromancy-07-Z9OrRXKgAPv6Hn5l.htm)|Doigt de mort|`@Compendium[pf2e.spells-srd.Z9OrRXKgAPv6Hn5l]`|
+|[Fire Ray](spells/evocation-01-oJKZi8OQgmVXHOc0.htm)|Rayon de feu|`@Compendium[pf2e.spells-srd.oJKZi8OQgmVXHOc0]`|
+|[Fire Seeds](spells/evocation-06-kuoYff1csM5eAcAP.htm)|Germe de feu|`@Compendium[pf2e.spells-srd.kuoYff1csM5eAcAP]`|
+|[Fire Shield](spells/evocation-04-YrzBLPLd3r9m6t1p.htm)|Bouclier de feu|`@Compendium[pf2e.spells-srd.YrzBLPLd3r9m6t1p]`|
+|[Fireball](spells/evocation-03-sxQZ6yqTn0czJxVd.htm)|Boule de feu|`@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]`|
+|[Flame Barrier](spells/abjuration-04-y7Tusv3CieZktkkV.htm)|Barrière de flammes|`@Compendium[pf2e.spells-srd.y7Tusv3CieZktkkV]`|
+|[Flame Strike](spells/evocation-05-E3X2RbzWHCdz7gsk.htm)|Colonne de feu|`@Compendium[pf2e.spells-srd.E3X2RbzWHCdz7gsk]`|
+|[Flaming Fusillade](spells/evocation-06-bynT1UKaDqr8dLNM.htm)|Fusillade enflammée|`@Compendium[pf2e.spells-srd.bynT1UKaDqr8dLNM]`|
+|[Flaming Sphere](spells/evocation-02-2ZdHjnpEQJuqOYSG.htm)|Sphère de feu|`@Compendium[pf2e.spells-srd.2ZdHjnpEQJuqOYSG]`|
+|[Fleet Step](spells/transmutation-01-aEM2cttJ2eYcLssW.htm)|Pas rapide|`@Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]`|
+|[Flesh to Stone](spells/transmutation-06-znv4ECL7ZtuiagtA.htm)|Chair en pierre|`@Compendium[pf2e.spells-srd.znv4ECL7ZtuiagtA]`|
+|[Floating Disk](spells/conjuration-01-LvezN4a3kYf1OHMg.htm)|Disque flottant|`@Compendium[pf2e.spells-srd.LvezN4a3kYf1OHMg]`|
+|[Fly](spells/transmutation-04-A2JfEKe6BZcTG1S8.htm)|Vol|`@Compendium[pf2e.spells-srd.A2JfEKe6BZcTG1S8]`|
+|[Font of Serenity](spells/abjuration-04-yY1H5zhO5dHmD8lz.htm)|Source de sérénité|`@Compendium[pf2e.spells-srd.yY1H5zhO5dHmD8lz]`|
+|[Forbidding Ward](spells/abjuration-00-RA7VKcen3p56rVyZ.htm)|Sceau d'interdiction|`@Compendium[pf2e.spells-srd.RA7VKcen3p56rVyZ]`|
+|[Force Bolt](spells/evocation-01-Hu38hoAUSYeFpkVa.htm)|Trait de force|`@Compendium[pf2e.spells-srd.Hu38hoAUSYeFpkVa]`|
+|[Force Cage](spells/evocation-07-HES5jvGiNZZnJycK.htm)|Cage de force|`@Compendium[pf2e.spells-srd.HES5jvGiNZZnJycK]`|
+|[Forced Quiet](spells/abjuration-01-k43PIYwuQqjeJ3S3.htm)|Silence forcé|`@Compendium[pf2e.spells-srd.k43PIYwuQqjeJ3S3]`|
+|[Foresight](spells/divination-09-qsNeG9KZpODSACMq.htm)|Prémonition|`@Compendium[pf2e.spells-srd.qsNeG9KZpODSACMq]`|
+|[Forgotten Lines](spells/divination-04-u0AtDZs6BhBPtjEs.htm)|Lignes oubliées|`@Compendium[pf2e.spells-srd.u0AtDZs6BhBPtjEs]`|
+|[Foul Miasma](spells/necromancy-04-6nTBr5XNuKOuPM5m.htm)|Miasmes infâmes|`@Compendium[pf2e.spells-srd.6nTBr5XNuKOuPM5m]`|
+|[Freedom](spells/abjuration-08-4ddJSjC9Zz5DX0oG.htm)|Liberté|`@Compendium[pf2e.spells-srd.4ddJSjC9Zz5DX0oG]`|
+|[Freedom of Movement](spells/abjuration-04-aqRYNoSvxsVfqglH.htm)|Liberté de mouvement|`@Compendium[pf2e.spells-srd.aqRYNoSvxsVfqglH]`|
+|[Fungal Hyphae](spells/necromancy-02-oNUyCqbpGWHifS02.htm)|Hyphe fongique|`@Compendium[pf2e.spells-srd.oNUyCqbpGWHifS02]`|
+|[Fungal Infestation](spells/conjuration-02-3VxVbZqIRvpKkg3O.htm)|Infestation fongique|`@Compendium[pf2e.spells-srd.3VxVbZqIRvpKkg3O]`|
+|[Gaseous Form](spells/transmutation-04-V8wXOsoejQhe6CyG.htm)|Forme gazeuse|`@Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]`|
+|[Gate](spells/conjuration-10-U13bC0tNgrlHoeTK.htm)|Portail|`@Compendium[pf2e.spells-srd.U13bC0tNgrlHoeTK]`|
+|[Geas](spells/enchantment-03-Q690d3mw3TUrKX7E.htm)|Serment rituel|`@Compendium[pf2e.spells-srd.Q690d3mw3TUrKX7E]`|
+|[Genie's Veil](spells/abjuration-01-OyiKIbWllLZC6sGz.htm)|Veille du génie|`@Compendium[pf2e.spells-srd.OyiKIbWllLZC6sGz]`|
+|[Gentle Repose](spells/necromancy-02-xRgU9rrhmGAgG4Rc.htm)|Préservation des morts|`@Compendium[pf2e.spells-srd.xRgU9rrhmGAgG4Rc]`|
+|[Ghost Sound](spells/illusion-00-atlgGNI1E1Ox3O3a.htm)|Son imaginaire|`@Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]`|
+|[Ghostly Tragedy](spells/divination-04-WVc30DGbM7TRLLul.htm)|Tragédie fantômatique|`@Compendium[pf2e.spells-srd.WVc30DGbM7TRLLul]`|
+|[Ghostly Transcription](spells/illusion-04-vhe9DduqaivMs8FV.htm)|Transcription fantômatique|`@Compendium[pf2e.spells-srd.vhe9DduqaivMs8FV]`|
+|[Ghostly Weapon](spells/transmutation-03-AMEu5zzLN7uCX645.htm)|Arme fantomatique|`@Compendium[pf2e.spells-srd.AMEu5zzLN7uCX645]`|
+|[Ghoulish Cravings](spells/necromancy-02-JhRuR7Jj3ViShpq7.htm)|Désirs macabres|`@Compendium[pf2e.spells-srd.JhRuR7Jj3ViShpq7]`|
+|[Glacial Heart](spells/evocation-05-ZyREiMaul0VhDYh3.htm)|Cœur glacial|`@Compendium[pf2e.spells-srd.ZyREiMaul0VhDYh3]`|
+|[Glibness](spells/enchantment-04-JyxTmqjYYn63V5LY.htm)|Bagou|`@Compendium[pf2e.spells-srd.JyxTmqjYYn63V5LY]`|
+|[Glimpse the Truth](spells/divination-04-ZjbVgIIqMstmdkqP.htm)|Entrevoir la vérité|`@Compendium[pf2e.spells-srd.ZjbVgIIqMstmdkqP]`|
+|[Glitterdust](spells/evocation-02-0qaqksrGGDj74HXE.htm)|Poussière scintillante|`@Compendium[pf2e.spells-srd.0qaqksrGGDj74HXE]`|
+|[Globe of Invulnerability](spells/abjuration-04-JOdOpbPDl7nqvJUm.htm)|Globe d'invulnérabilité|`@Compendium[pf2e.spells-srd.JOdOpbPDl7nqvJUm]`|
+|[Glutton's Jaw](spells/necromancy-01-SdXFiQ4Py8761sNO.htm)|Mâchoires gloutonnes|`@Compendium[pf2e.spells-srd.SdXFiQ4Py8761sNO]`|
+|[Glyph of Warding](spells/abjuration-03-o0l57UfBm9ScEUMW.htm)|Glyphe de garde|`@Compendium[pf2e.spells-srd.o0l57UfBm9ScEUMW]`|
+|[Goblin Pox](spells/necromancy-01-zJQnkKEKbJqGB3iB.htm)|Variole Gobeline|`@Compendium[pf2e.spells-srd.zJQnkKEKbJqGB3iB]`|
+|[Goodberry](spells/necromancy-01-vQuwLqtFFYt0K15N.htm)|Baie nourricière|`@Compendium[pf2e.spells-srd.vQuwLqtFFYt0K15N]`|
+|[Grasping Grave](spells/necromancy-05-2YIr0S2Gt14PMMQp.htm)|Étreinte de la tombe|`@Compendium[pf2e.spells-srd.2YIr0S2Gt14PMMQp]`|
+|[Gravity Weapon](spells/evocation-01-IWUe32Y5k2QFd7YQ.htm)|Arme pesante|`@Compendium[pf2e.spells-srd.IWUe32Y5k2QFd7YQ]`|
+|[Gravity Well](spells/evocation-03-06pzGkKTyPE3tHR8.htm)|Puits de gravité|`@Compendium[pf2e.spells-srd.06pzGkKTyPE3tHR8]`|
+|[Grease](spells/conjuration-01-Wu0xFpewMKRK3HG8.htm)|Graisse|`@Compendium[pf2e.spells-srd.Wu0xFpewMKRK3HG8]`|
+|[Grim Tendrils](spells/necromancy-01-k34hDOfIIMAxNL4a.htm)|Sinistres volutes|`@Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]`|
+|[Grisly Growths](spells/transmutation-05-d9sBzPOXX3KT8uTu.htm)|Horribles excroissances|`@Compendium[pf2e.spells-srd.d9sBzPOXX3KT8uTu]`|
+|[Guidance](spells/divination-00-izcxFQFwf3woCnFs.htm)|Assistance divine|`@Compendium[pf2e.spells-srd.izcxFQFwf3woCnFs]`|
+|[Gust of Wind](spells/evocation-01-g8QqHpv2CWDwmIm1.htm)|Bourrasque|`@Compendium[pf2e.spells-srd.g8QqHpv2CWDwmIm1]`|
+|[Halcyon Infusion](spells/divination-06-UJmKPm1FC6pf6txP.htm)|Infusion paisible|`@Compendium[pf2e.spells-srd.UJmKPm1FC6pf6txP]`|
+|[Hallucination](spells/illusion-05-U58aQWJ47VrI36yP.htm)|Hallucination|`@Compendium[pf2e.spells-srd.U58aQWJ47VrI36yP]`|
+|[Hallucinatory Terrain](spells/illusion-04-HBJPsonQnWcC3qdX.htm)|Terrain hallucinatoire|`@Compendium[pf2e.spells-srd.HBJPsonQnWcC3qdX]`|
+|[Hand of the Apprentice](spells/evocation-01-bSDTWUIvgXkBaEv8.htm)|Main de l'apprenti|`@Compendium[pf2e.spells-srd.bSDTWUIvgXkBaEv8]`|
+|[Harm](spells/necromancy-01-wdA52JJnsuQWeyqz.htm)|Mise à mal|`@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]`|
+|[Haste](spells/transmutation-03-o6YCGx4lycsYpww4.htm)|Rapidité|`@Compendium[pf2e.spells-srd.o6YCGx4lycsYpww4]`|
+|[Heal](spells/necromancy-01-rfZpqmj0AIIdkVIs.htm)|Guérison|`@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]`|
+|[Heal Animal](spells/necromancy-01-Zmh4ynfnCtwKeAYl.htm)|Guérison des animaux|`@Compendium[pf2e.spells-srd.Zmh4ynfnCtwKeAYl]`|
+|[Heal Companion](spells/necromancy-01-KIV2LqzS5KtqOItV.htm)|Guérison de compagnon|`@Compendium[pf2e.spells-srd.KIV2LqzS5KtqOItV]`|
+|[Healer's Blessing](spells/necromancy-01-rhJyqB9g3ziImQgM.htm)|Bénédiction du guérisseur|`@Compendium[pf2e.spells-srd.rhJyqB9g3ziImQgM]`|
+|[Heart's Desire](spells/illusion-03-PVXqMko4yGgw90uo.htm)|Désir du cœur|`@Compendium[pf2e.spells-srd.PVXqMko4yGgw90uo]`|
+|[Heartbond](spells/abjuration-02-dZV8nZUKRhGIr6g9.htm)|Lien du cœur|`@Compendium[pf2e.spells-srd.dZV8nZUKRhGIr6g9]`|
+|[Heat Metal](spells/evocation-02-v4KzRPol5XQOOmk0.htm)|Métal brûlant|`@Compendium[pf2e.spells-srd.v4KzRPol5XQOOmk0]`|
+|[Hellfire Plume](spells/evocation-05-9LHr9SuDLTicdbXs.htm)|Volute de feu infernal|`@Compendium[pf2e.spells-srd.9LHr9SuDLTicdbXs]`|
+|[Hero's Defiance](spells/necromancy-10-uGXWkR2h8q9MRzEM.htm)|Défi du héros|`@Compendium[pf2e.spells-srd.uGXWkR2h8q9MRzEM]`|
+|[Heroes' Feast](spells/conjuration-05-yRf59eFtZ50cGlem.htm)|Festin des héros|`@Compendium[pf2e.spells-srd.yRf59eFtZ50cGlem]`|
+|[Heroic Feat](spells/divination-06-4j0FQ1mkidBAXuQV.htm)|Don héroïque|`@Compendium[pf2e.spells-srd.4j0FQ1mkidBAXuQV]`|
+|[Heroism](spells/enchantment-03-KqvqNAfGIE5a9wSv.htm)|Héroïsme|`@Compendium[pf2e.spells-srd.KqvqNAfGIE5a9wSv]`|
+|[Hideous Laughter](spells/enchantment-02-tlSE7Ly8vi1Dgddv.htm)|Fou rire|`@Compendium[pf2e.spells-srd.tlSE7Ly8vi1Dgddv]`|
+|[Holy Cascade](spells/evocation-04-DZ9bzXYqMjAK9TzC.htm)|Cascade bénite|`@Compendium[pf2e.spells-srd.DZ9bzXYqMjAK9TzC]`|
+|[Horrid Wilting](spells/necromancy-08-M0jQlpQYUr0pp2Sv.htm)|Flétrissure|`@Compendium[pf2e.spells-srd.M0jQlpQYUr0pp2Sv]`|
+|[Horrific Visage](spells/illusion-03-aZg3amDcrXz3cLCz.htm)|Visage terrifiant|`@Compendium[pf2e.spells-srd.aZg3amDcrXz3cLCz]`|
+|[House of Imaginary Walls](spells/illusion-00-PEfSofHm73IT3Khc.htm)|Demeure aux murs imaginaires|`@Compendium[pf2e.spells-srd.PEfSofHm73IT3Khc]`|
+|[Humanoid Form](spells/transmutation-02-2qGqa33E4GPUCbMV.htm)|Forme humanoïde|`@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]`|
+|[Hunter's Luck](spells/divination-02-GfrKNJ9pNeATiKCc.htm)|Chance du chasseur|`@Compendium[pf2e.spells-srd.GfrKNJ9pNeATiKCc]`|
+|[Hunter's Vision](spells/divination-05-tj86Rnq3QuQnDtG3.htm)|Vision du chasseur|`@Compendium[pf2e.spells-srd.tj86Rnq3QuQnDtG3]`|
+|[Hurtling Stone](spells/evocation-01-pRKaEXnjGJXbPHPC.htm)|Jet de pierre|`@Compendium[pf2e.spells-srd.pRKaEXnjGJXbPHPC]`|
+|[Hydraulic Push](spells/evocation-01-jfVCuOpzC6mUrf6f.htm)|Poussée hydraulique|`@Compendium[pf2e.spells-srd.jfVCuOpzC6mUrf6f]`|
+|[Hydraulic Torrent](spells/evocation-04-Y3G6Y6EDgCY0s3fq.htm)|Torrent|`@Compendium[pf2e.spells-srd.Y3G6Y6EDgCY0s3fq]`|
+|[Hymn of Healing](spells/necromancy-01-gSUQlTDYoLDGAsCP.htm)|Hymne de guérison|`@Compendium[pf2e.spells-srd.gSUQlTDYoLDGAsCP]`|
+|[Hypercognition](spells/divination-03-ZYoC630tNGutgbE0.htm)|Hypercognition|`@Compendium[pf2e.spells-srd.ZYoC630tNGutgbE0]`|
+|[Hyperfocus](spells/divination-01-XhgMx9WC6NfXd9RP.htm)|Hyperfocalisation|`@Compendium[pf2e.spells-srd.XhgMx9WC6NfXd9RP]`|
+|[Hypnotic Pattern](spells/illusion-03-K2WpC3FFoHrqX9Q5.htm)|Lueurs hypnotiques|`@Compendium[pf2e.spells-srd.K2WpC3FFoHrqX9Q5]`|
+|[Ice Storm](spells/evocation-04-kHyjQbibRGPNCixx.htm)|Tempête de glace|`@Compendium[pf2e.spells-srd.kHyjQbibRGPNCixx]`|
+|[Ill Omen](spells/divination-01-6ZIKB0151LUR19Rw.htm)|Mauvais présage|`@Compendium[pf2e.spells-srd.6ZIKB0151LUR19Rw]`|
+|[Illusory Creature](spells/illusion-02-f8SBoXiXQjlCKqly.htm)|Créature illusoire|`@Compendium[pf2e.spells-srd.f8SBoXiXQjlCKqly]`|
+|[Illusory Disguise](spells/illusion-01-i35dpZFI7jZcRoBo.htm)|Déguisement illusoire|`@Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]`|
+|[Illusory Object](spells/illusion-01-2oH5IufzdESuYxat.htm)|Objet illusoire|`@Compendium[pf2e.spells-srd.2oH5IufzdESuYxat]`|
+|[Illusory Scene](spells/illusion-05-Ucf8eynbZMfUucjE.htm)|Scène illusoire|`@Compendium[pf2e.spells-srd.Ucf8eynbZMfUucjE]`|
+|[Imp Sting](spells/necromancy-02-oryfsRK27jAUnziw.htm)|Dard de diablotin|`@Compendium[pf2e.spells-srd.oryfsRK27jAUnziw]`|
+|[Impaling Briars](spells/conjuration-08-oGV6YdpZLIG4G4gH.htm)|Ronces empaleuses|`@Compendium[pf2e.spells-srd.oGV6YdpZLIG4G4gH]`|
+|[Impaling Spike](spells/conjuration-05-oXeEbcUdgJGWHGEJ.htm)|Pique empaleuse|`@Compendium[pf2e.spells-srd.oXeEbcUdgJGWHGEJ]`|
+|[Implosion](spells/evocation-09-4WS7HrFjwNvTn8T2.htm)|Implosion|`@Compendium[pf2e.spells-srd.4WS7HrFjwNvTn8T2]`|
+|[Imprint Message](spells/divination-01-WJOQryAODgYmrL6g.htm)|Imprimer un message|`@Compendium[pf2e.spells-srd.WJOQryAODgYmrL6g]`|
+|[Imprisonment](spells/evocation-08-2CNqkt2s2IYkVnv6.htm)|Emprisonnement|`@Compendium[pf2e.spells-srd.2CNqkt2s2IYkVnv6]`|
+|[Incendiary Aura](spells/evocation-01-AspA30tzKCHFWRf0.htm)|Aura incendiaire|`@Compendium[pf2e.spells-srd.AspA30tzKCHFWRf0]`|
+|[Indestructibility](spells/abjuration-10-UG0SmRYSdbrx2rTA.htm)|Invulnérabilité|`@Compendium[pf2e.spells-srd.UG0SmRYSdbrx2rTA]`|
+|[Infernal Pact](spells/conjuration-01-30BBep9U4BDV0EgQ.htm)|Pacte infernal|`@Compendium[pf2e.spells-srd.30BBep9U4BDV0EgQ]`|
+|[Insect Form](spells/transmutation-03-XI6Lzd2B5pernkPd.htm)|Forme d'insecte|`@Compendium[pf2e.spells-srd.XI6Lzd2B5pernkPd]`|
+|[Inspire Competence](spells/enchantment-00-f0Z5mqGA6Yu79B8x.htm)|Inspiration talentueuse|`@Compendium[pf2e.spells-srd.f0Z5mqGA6Yu79B8x]`|
+|[Inspire Courage](spells/enchantment-00-IAjvwqgiDr3qGYxY.htm)|Inspiration vaillante|`@Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]`|
+|[Inspire Defense](spells/enchantment-00-bH0kPuf7UKxRvi2P.htm)|Inspiration défensive|`@Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]`|
+|[Inspire Heroics](spells/enchantment-04-kF0rs9mCPvJGfAZE.htm)|Inspiration héroïque|`@Compendium[pf2e.spells-srd.kF0rs9mCPvJGfAZE]`|
+|[Interstellar Void](spells/evocation-03-L37RTc7K79OUpZ7X.htm)|Vide intersidéral|`@Compendium[pf2e.spells-srd.L37RTc7K79OUpZ7X]`|
+|[Inveigle](spells/enchantment-02-5pwK2FZX6QwgtfqX.htm)|Envoûtement|`@Compendium[pf2e.spells-srd.5pwK2FZX6QwgtfqX]`|
+|[Invisibility](spells/illusion-02-XXqE1eY3w3z6xJCB.htm)|Invisibilité|`@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]`|
+|[Invisibility Cloak](spells/illusion-04-Nun72GTmb31YqSKh.htm)|Cape d'invisibilité|`@Compendium[pf2e.spells-srd.Nun72GTmb31YqSKh]`|
+|[Invisibility Sphere](spells/illusion-03-I0j56TNRmGcTyoqJ.htm)|Sphère d'invisibilité|`@Compendium[pf2e.spells-srd.I0j56TNRmGcTyoqJ]`|
+|[Invisible Item](spells/illusion-01-nX85Brzax9f650aK.htm)|Objet invisible|`@Compendium[pf2e.spells-srd.nX85Brzax9f650aK]`|
+|[Invoke the Crimson Oath](spells/evocation-02-AsKLseOo8hwv5Jha.htm)|Invoquer le Serment écarlate|`@Compendium[pf2e.spells-srd.AsKLseOo8hwv5Jha]`|
+|[Iron Gut](spells/transmutation-02-IhwREVWG0OzzrbWA.htm)|Boyaux de fer|`@Compendium[pf2e.spells-srd.IhwREVWG0OzzrbWA]`|
+|[Item Facade](spells/illusion-01-4ZGte0i9YbLh4dRi.htm)|Façade|`@Compendium[pf2e.spells-srd.4ZGte0i9YbLh4dRi]`|
+|[Jealous Hex](spells/necromancy-01-kvm68hVtmADiIvN4.htm)|Maléfice de jalousie|`@Compendium[pf2e.spells-srd.kvm68hVtmADiIvN4]`|
+|[Join Pasts](spells/divination-00-8bdt1TvNKzsCu9Ct.htm)|Joindre les passés|`@Compendium[pf2e.spells-srd.8bdt1TvNKzsCu9Ct]`|
+|[Jump](spells/transmutation-01-Q7QQ91vQtyi1Ux36.htm)|Saut|`@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]`|
+|[Ki Blast](spells/evocation-03-oo7YcRC2gcez81PV.htm)|Explosion Ki|`@Compendium[pf2e.spells-srd.oo7YcRC2gcez81PV]`|
+|[Ki Form](spells/transmutation-09-YDMOqndvYFu3OjA6.htm)|Forme ki|`@Compendium[pf2e.spells-srd.YDMOqndvYFu3OjA6]`|
+|[Ki Rush](spells/transmutation-01-ps0nmhclT6aIXgd8.htm)|Ruée Ki|`@Compendium[pf2e.spells-srd.ps0nmhclT6aIXgd8]`|
+|[Ki Strike](spells/transmutation-01-ZL8NTvB22NeEWhVG.htm)|Frappe Ki|`@Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]`|
+|[Knock](spells/transmutation-02-6Ot4N22t5tPD51BO.htm)|Déblocage|`@Compendium[pf2e.spells-srd.6Ot4N22t5tPD51BO]`|
+|[Know Direction](spells/divination-00-tXa5vOu5giBNCjdR.htm)|Repérage|`@Compendium[pf2e.spells-srd.tXa5vOu5giBNCjdR]`|
+|[Know the Enemy](spells/divination-04-l6zjNysNedpJcmDT.htm)|Connaître son ennemi|`@Compendium[pf2e.spells-srd.l6zjNysNedpJcmDT]`|
+|[Lament](spells/enchantment-01-T90ij2uu6ZaBaSXV.htm)|Lamentation|`@Compendium[pf2e.spells-srd.T90ij2uu6ZaBaSXV]`|
+|[Lay on Hands](spells/necromancy-01-zNN9212H2FGfM7VS.htm)|Imposition des mains|`@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]`|
+|[Lay on Hands (Vs. Undead)](spells/necromancy-01-IxyD7YdRbSSucxZp.htm)||`@Compendium[pf2e.spells-srd.IxyD7YdRbSSucxZp]`|
+|[Legend Lore](spells/divination-07-hp6Q64dl7xbdn4gQ.htm)|Mythes et légendes|`@Compendium[pf2e.spells-srd.hp6Q64dl7xbdn4gQ]`|
+|[Leng Sting](spells/necromancy-07-QVMjPfXlpnmeuWKS.htm)|Piqûre de Leng|`@Compendium[pf2e.spells-srd.QVMjPfXlpnmeuWKS]`|
+|[Levitate](spells/evocation-03-fI20AVwOzJMHXRdo.htm)|Lévitation|`@Compendium[pf2e.spells-srd.fI20AVwOzJMHXRdo]`|
+|[Liberating Command](spells/enchantment-01-0Dcd4iEXqCrkm4Jn.htm)|Ordre libérateur|`@Compendium[pf2e.spells-srd.0Dcd4iEXqCrkm4Jn]`|
+|[Life Boost](spells/necromancy-01-fAlzXtQAASaJx0mY.htm)|Gain de vie|`@Compendium[pf2e.spells-srd.fAlzXtQAASaJx0mY]`|
+|[Life Link](spells/necromancy-01-2gQYrCPwBmwau26O.htm)|Lien vital|`@Compendium[pf2e.spells-srd.2gQYrCPwBmwau26O]`|
+|[Life Siphon](spells/necromancy-04-zvvHOQV78WKUB33l.htm)|Siphon de vie|`@Compendium[pf2e.spells-srd.zvvHOQV78WKUB33l]`|
+|[Life-Giving Form](spells/necromancy-06-9kOI14Jep97TzGO7.htm)|Forme génératrice de vie|`@Compendium[pf2e.spells-srd.9kOI14Jep97TzGO7]`|
+|[Lift Nature's Caul](spells/illusion-01-6GjJtLJnwC18Y0aZ.htm)||`@Compendium[pf2e.spells-srd.6GjJtLJnwC18Y0aZ]`|
+|[Light](spells/evocation-00-WBmvzNDfpwka3qT4.htm)|Lumière|`@Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]`|
+|[Light of Revelation](spells/divination-02-ou56ShiFH7GWF8hX.htm)|Lumière de révélation|`@Compendium[pf2e.spells-srd.ou56ShiFH7GWF8hX]`|
+|[Lightning Bolt](spells/evocation-03-9AAkVUCwF6WVNNY2.htm)|Éclair|`@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]`|
+|[Lightning Storm](spells/evocation-05-JyT346VmGtRLsDnV.htm)|Tempête d'éclairs|`@Compendium[pf2e.spells-srd.JyT346VmGtRLsDnV]`|
+|[Lingering Composition](spells/enchantment-01-irTdhxTixU9u9YUm.htm)|Composition prolongée|`@Compendium[pf2e.spells-srd.irTdhxTixU9u9YUm]`|
+|[Linnorm Sting](spells/necromancy-09-ZMY58Yk5hnyfeE3q.htm)|Piqûre de linnorm|`@Compendium[pf2e.spells-srd.ZMY58Yk5hnyfeE3q]`|
+|[Litany against Sloth](spells/evocation-05-2mVW1KT3AjW2pvDO.htm)|Litanie contre la paresse|`@Compendium[pf2e.spells-srd.2mVW1KT3AjW2pvDO]`|
+|[Litany against Wrath](spells/evocation-03-X1b9ollVMSLXDN9o.htm)|Litanie contre la colère|`@Compendium[pf2e.spells-srd.X1b9ollVMSLXDN9o]`|
+|[Litany of Depravity](spells/evocation-07-tYP8unoR0a5Dq9EA.htm)|Litanie de dépravation|`@Compendium[pf2e.spells-srd.tYP8unoR0a5Dq9EA]`|
+|[Litany of Righteousness](spells/evocation-07-n3b3pDmA6L5YRTyq.htm)|Litanie de vertu|`@Compendium[pf2e.spells-srd.n3b3pDmA6L5YRTyq]`|
+|[Litany of Self-Interest](spells/enchantment-05-mm3hZ6jgaJaKK16n.htm)|Litanie d'égoïsme|`@Compendium[pf2e.spells-srd.mm3hZ6jgaJaKK16n]`|
+|[Localized Quake](spells/transmutation-04-cBUuG1yJHGeKffpg.htm)|Séisme localisé|`@Compendium[pf2e.spells-srd.cBUuG1yJHGeKffpg]`|
+|[Locate](spells/divination-03-LQzlKbYjZSMFQawP.htm)|Localisation|`@Compendium[pf2e.spells-srd.LQzlKbYjZSMFQawP]`|
+|[Lock](spells/abjuration-01-Azoh0BSoCASrA1lr.htm)|Verrouillage|`@Compendium[pf2e.spells-srd.Azoh0BSoCASrA1lr]`|
+|[Longstrider](spells/transmutation-01-KcLVELhCUcKXxiKE.htm)|Grande foulée|`@Compendium[pf2e.spells-srd.KcLVELhCUcKXxiKE]`|
+|[Loremaster's Etude](spells/divination-01-5Pc55FGGqVpIAJ62.htm)|Étude du maître savant|`@Compendium[pf2e.spells-srd.5Pc55FGGqVpIAJ62]`|
+|[Lucky Break](spells/divination-04-7OwZHalOdRCRnFmZ.htm)|Répit chanceux|`@Compendium[pf2e.spells-srd.7OwZHalOdRCRnFmZ]`|
+|[Mad Monkeys](spells/conjuration-03-tFKJCPvOQZxKq6ON.htm)|Singes fous|`@Compendium[pf2e.spells-srd.tFKJCPvOQZxKq6ON]`|
+|[Mage Armor](spells/abjuration-01-aAbfKn8maGjJjk2W.htm)|Armure du mage|`@Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]`|
+|[Mage Hand](spells/evocation-00-pwzdSlJgYqN7bs2w.htm)|Manipulation à distance|`@Compendium[pf2e.spells-srd.pwzdSlJgYqN7bs2w]`|
+|[Magic Aura](spells/illusion-01-PRrZ7anETWPm90YY.htm)|Aura magique|`@Compendium[pf2e.spells-srd.PRrZ7anETWPm90YY]`|
+|[Magic Fang](spells/transmutation-01-EE7Q5BHIrfWNCPtT.htm)|Morsure magique|`@Compendium[pf2e.spells-srd.EE7Q5BHIrfWNCPtT]`|
+|[Magic Hide](spells/abjuration-01-u2uSeH6YSbK1ajTy.htm)|Peau magique|`@Compendium[pf2e.spells-srd.u2uSeH6YSbK1ajTy]`|
+|[Magic Missile](spells/evocation-01-gKKqvLohtrSJj3BM.htm)|Projectile magique|`@Compendium[pf2e.spells-srd.gKKqvLohtrSJj3BM]`|
+|[Magic Mouth](spells/illusion-02-eIQ86FOXK34HiNLs.htm)|Bouche magique|`@Compendium[pf2e.spells-srd.eIQ86FOXK34HiNLs]`|
+|[Magic Stone](spells/necromancy-01-9u6X9ykhzG11NK1n.htm)|Pierre magique|`@Compendium[pf2e.spells-srd.9u6X9ykhzG11NK1n]`|
+|[Magic Warrior Aspect](spells/transmutation-02-b6UnLNikoq2Std1f.htm)|Aspect du Guerrier Magique|`@Compendium[pf2e.spells-srd.b6UnLNikoq2Std1f]`|
+|[Magic Warrior Transformation](spells/transmutation-02-tp4K7mYDL5MRHvJc.htm)|Transformation du Guerrier magique|`@Compendium[pf2e.spells-srd.tp4K7mYDL5MRHvJc]`|
+|[Magic Weapon](spells/transmutation-01-TFitdEOpQC4SzKQQ.htm)|Arme magique|`@Compendium[pf2e.spells-srd.TFitdEOpQC4SzKQQ]`|
+|[Magic's Vessel](spells/enchantment-01-u4FGIUQgruLjml7J.htm)|Réceptacle magique|`@Compendium[pf2e.spells-srd.u4FGIUQgruLjml7J]`|
+|[Magical Fetters](spells/conjuration-03-2ZPqcM9wNoVnpwkK.htm)|Entraves magiques|`@Compendium[pf2e.spells-srd.2ZPqcM9wNoVnpwkK]`|
+|[Magnificent Mansion](spells/conjuration-07-vPWMEyVTreMOoFnm.htm)|Manoir somptueux|`@Compendium[pf2e.spells-srd.vPWMEyVTreMOoFnm]`|
+|[Malicious Shadow](spells/evocation-03-vhMCd15ZwNJn0zen.htm)|Ombre malicieuse|`@Compendium[pf2e.spells-srd.vhMCd15ZwNJn0zen]`|
+|[Malignant Sustenance](spells/necromancy-04-qzsQmpiQodHBBWYI.htm)|Alimentation maléfique|`@Compendium[pf2e.spells-srd.qzsQmpiQodHBBWYI]`|
+|[Mantis Form](spells/transmutation-04-bKDsmKVosexwJ80i.htm)|Forme de la mante|`@Compendium[pf2e.spells-srd.bKDsmKVosexwJ80i]`|
+|[Mariner's Curse](spells/necromancy-05-z2mfh3oPnfYqXflY.htm)|Malédicition du marin|`@Compendium[pf2e.spells-srd.z2mfh3oPnfYqXflY]`|
+|[Mask of Terror](spells/illusion-07-O6VQC1Bs4aSYDa6R.htm)|Masque terrifiant|`@Compendium[pf2e.spells-srd.O6VQC1Bs4aSYDa6R]`|
+|[Massacre](spells/necromancy-09-10VcmSYNBrvBphu1.htm)|Massacre|`@Compendium[pf2e.spells-srd.10VcmSYNBrvBphu1]`|
+|[Maze](spells/conjuration-08-Oj1PJBMQD9vuwCv7.htm)|Dédale|`@Compendium[pf2e.spells-srd.Oj1PJBMQD9vuwCv7]`|
+|[Maze of Locked Doors](spells/abjuration-07-qOeBQyC1z7OScHvP.htm)|Dédale de portes fermées|`@Compendium[pf2e.spells-srd.qOeBQyC1z7OScHvP]`|
+|[Medusa's Wrath](spells/transmutation-08-wTYxxYJWN348oV15.htm)|Courroux de la méduse|`@Compendium[pf2e.spells-srd.wTYxxYJWN348oV15]`|
+|[Meld into Stone](spells/transmutation-03-vh1RpbWfqdNC4L3P.htm)|Fusion dans la pierre|`@Compendium[pf2e.spells-srd.vh1RpbWfqdNC4L3P]`|
+|[Mending](spells/transmutation-01-dINQzhqGmIsqGMUY.htm)|Réparation|`@Compendium[pf2e.spells-srd.dINQzhqGmIsqGMUY]`|
+|[Message](spells/illusion-00-vLzFcIaSXs7YTIqJ.htm)|Message|`@Compendium[pf2e.spells-srd.vLzFcIaSXs7YTIqJ]`|
+|[Message Rune](spells/abjuration-01-Z7N5IxJCwrAdIgSg.htm)|Rune messagère|`@Compendium[pf2e.spells-srd.Z7N5IxJCwrAdIgSg]`|
+|[Meteor Swarm](spells/evocation-09-jrBa9deU2ULFWvSl.htm)|Nuée de météores|`@Compendium[pf2e.spells-srd.jrBa9deU2ULFWvSl]`|
+|[Mind Blank](spells/abjuration-08-C2w3YfBKjIRS07DP.htm)|Esprit impénétrable|`@Compendium[pf2e.spells-srd.C2w3YfBKjIRS07DP]`|
+|[Mind Probe](spells/divination-05-9BnhadUO8FMLmeZ3.htm)|Sonde mentale|`@Compendium[pf2e.spells-srd.9BnhadUO8FMLmeZ3]`|
+|[Mind Reading](spells/divination-03-KHnhPHL4x1AQHfbC.htm)|Lecture des pensées|`@Compendium[pf2e.spells-srd.KHnhPHL4x1AQHfbC]`|
+|[Mindlink](spells/divination-01-D442XMADp01qJ7Cs.htm)|Lien mental|`@Compendium[pf2e.spells-srd.D442XMADp01qJ7Cs]`|
+|[Miracle](spells/divination-10-YfJTXyVGzLhM6V8U.htm)|Miracle|`@Compendium[pf2e.spells-srd.YfJTXyVGzLhM6V8U]`|
+|[Mirror Image](spells/illusion-02-j8vIoIEWElvpwkcI.htm)|Image miroir|`@Compendium[pf2e.spells-srd.j8vIoIEWElvpwkcI]`|
+|[Misdirection](spells/illusion-02-c2bTWBNO1BYX4Zfg.htm)|Détection faussée|`@Compendium[pf2e.spells-srd.c2bTWBNO1BYX4Zfg]`|
+|[Mislead](spells/illusion-06-WPXzPl7YbMEIGWfi.htm)|Double illusoire|`@Compendium[pf2e.spells-srd.WPXzPl7YbMEIGWfi]`|
+|[Modify Memory](spells/divination-04-FhOaQDTSnsY7tiam.htm)|Modification de mémoire|`@Compendium[pf2e.spells-srd.FhOaQDTSnsY7tiam]`|
+|[Moment of Renewal](spells/necromancy-08-4MOew29Z1oCX8O28.htm)|Instant de renouveau|`@Compendium[pf2e.spells-srd.4MOew29Z1oCX8O28]`|
+|[Monstrosity Form](spells/transmutation-08-8AMvNVOUEtxBCDvJ.htm)|Forme monstrueuse|`@Compendium[pf2e.spells-srd.8AMvNVOUEtxBCDvJ]`|
+|[Moon Frenzy](spells/transmutation-05-YtesyvfAIwXOqISq.htm)|Frénésie lunaire|`@Compendium[pf2e.spells-srd.YtesyvfAIwXOqISq]`|
+|[Moonbeam](spells/evocation-01-SuBtUJiU6DbSJYIw.htm)|Rayon de lune|`@Compendium[pf2e.spells-srd.SuBtUJiU6DbSJYIw]`|
+|[Moonlight Bridge](spells/conjuration-06-In2A7GCyxxaqZdPI.htm)|Pont de Lumière lunaire|`@Compendium[pf2e.spells-srd.In2A7GCyxxaqZdPI]`|
+|[Mystic Beacon](spells/evocation-04-2SYq0ZTsOtJEigFx.htm)|Phare mystique|`@Compendium[pf2e.spells-srd.2SYq0ZTsOtJEigFx]`|
+|[Nature Incarnate](spells/transmutation-10-ZXwxs5tRjEGrjAJT.htm)|Incarnation de la nature|`@Compendium[pf2e.spells-srd.ZXwxs5tRjEGrjAJT]`|
+|[Nature's Bounty](spells/conjuration-04-vSSKyUdrHu86E5Gk.htm)|Générosité naturelle|`@Compendium[pf2e.spells-srd.vSSKyUdrHu86E5Gk]`|
+|[Nature's Enmity](spells/enchantment-09-Tc5NLaMu71vrGTJQ.htm)|Hostilité naturelle|`@Compendium[pf2e.spells-srd.Tc5NLaMu71vrGTJQ]`|
+|[Necrotic Radiation](spells/necromancy-04-29p7NMY2OTpaINzt.htm)|Radiation nécrotique|`@Compendium[pf2e.spells-srd.29p7NMY2OTpaINzt]`|
+|[Needle of Vengeance](spells/enchantment-01-aEitTTb9PnOyidRf.htm)|Aiguille de la vengeance|`@Compendium[pf2e.spells-srd.aEitTTb9PnOyidRf]`|
+|[Negate Aroma](spells/abjuration-01-0fKHBh5goe2eiFYL.htm)|Supprimer l’arôme|`@Compendium[pf2e.spells-srd.0fKHBh5goe2eiFYL]`|
+|[Neutralize Poison](spells/necromancy-03-SUKaxVZW2TlM8lu0.htm)|Neutralisation du poison|`@Compendium[pf2e.spells-srd.SUKaxVZW2TlM8lu0]`|
+|[Nightmare](spells/illusion-04-Uqj344bezBq3ESdq.htm)|Cauchemar|`@Compendium[pf2e.spells-srd.Uqj344bezBq3ESdq]`|
+|[Nondetection](spells/abjuration-03-EoKBlgf6Smt8opaU.htm)|Antidétection|`@Compendium[pf2e.spells-srd.EoKBlgf6Smt8opaU]`|
+|[Noxious Vapors](spells/evocation-01-1meVElIu1CEVYWkv.htm)|Vapeurs nocives|`@Compendium[pf2e.spells-srd.1meVElIu1CEVYWkv]`|
+|[Nudge Fate](spells/divination-00-G0T1xv1FoZ23Jxvt.htm)|Coup de pouce au destin|`@Compendium[pf2e.spells-srd.G0T1xv1FoZ23Jxvt]`|
+|[Nymph's Token](spells/enchantment-01-pHrVvoTKygXeczVG.htm)|Amulette de la nymphe|`@Compendium[pf2e.spells-srd.pHrVvoTKygXeczVG]`|
+|[Oathkeeper's Insignia](spells/conjuration-01-cokeXkDHUAo4zHsw.htm)|Insigne du gardien du serment|`@Compendium[pf2e.spells-srd.cokeXkDHUAo4zHsw]`|
+|[Object Memory](spells/divination-01-RztmhJrLLQWoGVdB.htm)|Mémoire de l'objet|`@Compendium[pf2e.spells-srd.RztmhJrLLQWoGVdB]`|
+|[Object Reading](spells/divination-01-5LYi9Efs6cko4GGL.htm)|Lecture d'objet|`@Compendium[pf2e.spells-srd.5LYi9Efs6cko4GGL]`|
+|[Obscuring Mist](spells/conjuration-02-9XHmC2JgTUIQ1CCm.htm)|Brume de dissimulation|`@Compendium[pf2e.spells-srd.9XHmC2JgTUIQ1CCm]`|
+|[Ode to Ouroboros](spells/necromancy-05-DgCS456mXKw97vNy.htm)|Ode à Ouroboros|`@Compendium[pf2e.spells-srd.DgCS456mXKw97vNy]`|
+|[Ordained Purpose](spells/enchantment-04-CPNlhDQP3aDmLzB3.htm)||`@Compendium[pf2e.spells-srd.CPNlhDQP3aDmLzB3]`|
+|[Outcast's Curse](spells/enchantment-04-KSAEhNfZyXMO7Z7V.htm)|Malédiction du paria|`@Compendium[pf2e.spells-srd.KSAEhNfZyXMO7Z7V]`|
+|[Overflowing Sorrow](spells/enchantment-04-eCniO6INHNfc9Svr.htm)|Chagrins débordantss|`@Compendium[pf2e.spells-srd.eCniO6INHNfc9Svr]`|
+|[Overstuff](spells/transmutation-01-mFHQ2u4LWiejqKQG.htm)|Gaver|`@Compendium[pf2e.spells-srd.mFHQ2u4LWiejqKQG]`|
+|[Overwhelming Presence](spells/enchantment-09-fkDeKktdmbeplYRY.htm)|Présence écrasante|`@Compendium[pf2e.spells-srd.fkDeKktdmbeplYRY]`|
+|[Owb Pact](spells/conjuration-03-u3G7KX1qpFJlSeWm.htm)||`@Compendium[pf2e.spells-srd.u3G7KX1qpFJlSeWm]`|
+|[Paralyze](spells/enchantment-03-DCQHaLrYXMI37dvW.htm)|Paralysie|`@Compendium[pf2e.spells-srd.DCQHaLrYXMI37dvW]`|
+|[Paranoia](spells/illusion-02-Mkbq9xlAUxHUHyR2.htm)|Paranoïa|`@Compendium[pf2e.spells-srd.Mkbq9xlAUxHUHyR2]`|
+|[Parch](spells/evocation-01-7CUgqHunmHfW2lC5.htm)|Dessécher|`@Compendium[pf2e.spells-srd.7CUgqHunmHfW2lC5]`|
+|[Pass Without Trace](spells/abjuration-01-zlnXpME1T2uvn8Lr.htm)|Passage sans trace|`@Compendium[pf2e.spells-srd.zlnXpME1T2uvn8Lr]`|
+|[Passwall](spells/conjuration-05-115Xp9E38CJENhNS.htm)|Passe-muraille|`@Compendium[pf2e.spells-srd.115Xp9E38CJENhNS]`|
+|[Penumbral Shroud](spells/evocation-01-zdb8cjOIDVKYMWdr.htm)|Voile d'ombre|`@Compendium[pf2e.spells-srd.zdb8cjOIDVKYMWdr]`|
+|[Perfect Strike](spells/divination-02-GQopUYTuhmtb7WMG.htm)|Coup parfait|`@Compendium[pf2e.spells-srd.GQopUYTuhmtb7WMG]`|
+|[Perfected Form](spells/abjuration-04-8ifpNZkaxrbs3dBJ.htm)|Forme parfaite|`@Compendium[pf2e.spells-srd.8ifpNZkaxrbs3dBJ]`|
+|[Perfected Mind](spells/abjuration-01-cDFAQN7Z3es07WSA.htm)|Esprit perfectionné|`@Compendium[pf2e.spells-srd.cDFAQN7Z3es07WSA]`|
+|[Perseis's Precautions](spells/divination-03-ovx7O2FHvkjXhMcA.htm)|Précautions de Perséis|`@Compendium[pf2e.spells-srd.ovx7O2FHvkjXhMcA]`|
+|[Personal Blizzard](spells/conjuration-03-g4MAIQodRDVfNp1B.htm)|Blizzard personnel|`@Compendium[pf2e.spells-srd.g4MAIQodRDVfNp1B]`|
+|[Personal Rain Cloud](spells/evocation-01-kJKSLfCgqxmN2FY8.htm)|Nuage de pluie individuel|`@Compendium[pf2e.spells-srd.kJKSLfCgqxmN2FY8]`|
+|[Pest Form](spells/transmutation-01-gfPjmG6Fe6D3MFjl.htm)|Forme de nuisible|`@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]`|
+|[Pet Cache](spells/conjuration-01-F1nlmqOIucch3Cmt.htm)|Cachette de l'animal de compagnie|`@Compendium[pf2e.spells-srd.F1nlmqOIucch3Cmt]`|
+|[Phantasmal Calamity](spells/illusion-06-0XP2XOxT9VSiXFDr.htm)|Calamité imaginaire|`@Compendium[pf2e.spells-srd.0XP2XOxT9VSiXFDr]`|
+|[Phantasmal Killer](spells/illusion-04-tlcrVRqW1MSKJ5IC.htm)|Assassin imaginaire|`@Compendium[pf2e.spells-srd.tlcrVRqW1MSKJ5IC]`|
+|[Phantasmal Treasure](spells/illusion-02-L0GoJpHxSD0wRY5k.htm)|Trésor fantasmatique|`@Compendium[pf2e.spells-srd.L0GoJpHxSD0wRY5k]`|
+|[Phantom Pain](spells/illusion-01-R8bqnYiThB6MYTxD.htm)|Douleur fantôme|`@Compendium[pf2e.spells-srd.R8bqnYiThB6MYTxD]`|
+|[Phantom Steed](spells/conjuration-02-WPKJOhEihhcIm2uQ.htm)|Coursier fantôme|`@Compendium[pf2e.spells-srd.WPKJOhEihhcIm2uQ]`|
+|[Phase Familiar](spells/abjuration-01-rMOI8JFJ0nT2mrCF.htm)|Déphasage de familier|`@Compendium[pf2e.spells-srd.rMOI8JFJ0nT2mrCF]`|
+|[Physical Boost](spells/transmutation-01-1lmzILdCFENln8Cy.htm)|Amélioration physique|`@Compendium[pf2e.spells-srd.1lmzILdCFENln8Cy]`|
+|[Pied Piping](spells/enchantment-10-Um0aaJotqMKGmAlR.htm)|Flûte de Hamelin|`@Compendium[pf2e.spells-srd.Um0aaJotqMKGmAlR]`|
+|[Pillar of Water](spells/evocation-03-eIPIZp2FUbFcLNdj.htm)|Pilier d'eau|`@Compendium[pf2e.spells-srd.eIPIZp2FUbFcLNdj]`|
+|[Pillars of Sand](spells/conjuration-05-qr0HOiiuqj5LKlDt.htm)|Piliers de sable|`@Compendium[pf2e.spells-srd.qr0HOiiuqj5LKlDt]`|
+|[Planar Ally](spells/conjuration-05-vgy00hnqxN9VoeoF.htm)|Allié planaire|`@Compendium[pf2e.spells-srd.vgy00hnqxN9VoeoF]`|
+|[Planar Binding](spells/abjuration-06-2ykmAVKrsAWcazcC.htm)|Contrat planaire|`@Compendium[pf2e.spells-srd.2ykmAVKrsAWcazcC]`|
+|[Plane Shift](spells/conjuration-07-5bTt2CvYHPvaR7QQ.htm)|Changement de plan|`@Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]`|
+|[Plant Form](spells/transmutation-05-zCcfPS4y5SrZzU2x.htm)|Forme de plante|`@Compendium[pf2e.spells-srd.zCcfPS4y5SrZzU2x]`|
+|[Plant Growth](spells/necromancy-04-ZhJ8d9Uk4lwIx86b.htm)|Croissance végétale|`@Compendium[pf2e.spells-srd.ZhJ8d9Uk4lwIx86b]`|
+|[Polar Ray](spells/evocation-08-BKIet436snMNcnez.htm)|Rayon polaire|`@Compendium[pf2e.spells-srd.BKIet436snMNcnez]`|
+|[Positive Luminance](spells/necromancy-04-8XuNn0h0rHE24m3B.htm)|Luminosité positive|`@Compendium[pf2e.spells-srd.8XuNn0h0rHE24m3B]`|
+|[Possession](spells/necromancy-07-wU6hNzK8Yfqdmc8m.htm)|Possession|`@Compendium[pf2e.spells-srd.wU6hNzK8Yfqdmc8m]`|
+|[Power Word Blind](spells/enchantment-07-Yk3t4ekEiFIoEz9c.htm)|Mot de pouvoir aveuglant|`@Compendium[pf2e.spells-srd.Yk3t4ekEiFIoEz9c]`|
+|[Power Word Kill](spells/enchantment-09-m3lcOFm400lQCUps.htm)|Mot de pouvoir mortel|`@Compendium[pf2e.spells-srd.m3lcOFm400lQCUps]`|
+|[Power Word Stun](spells/enchantment-08-7PJSqUeKxTqOVrPk.htm)|Mot de pouvoir étourdissant|`@Compendium[pf2e.spells-srd.7PJSqUeKxTqOVrPk]`|
+|[Practice Makes Perfect](spells/divination-01-HOj2YsTpkoMpYJH9.htm)|En forgeant on devient forgeron|`@Compendium[pf2e.spells-srd.HOj2YsTpkoMpYJH9]`|
+|[Precious Metals](spells/transmutation-04-APTMURAW1N0Wpk4w.htm)|Métaux précieux|`@Compendium[pf2e.spells-srd.APTMURAW1N0Wpk4w]`|
+|[Prestidigitation](spells/evocation-00-Qw3fnUlaUbnn7ipC.htm)|Prestidigitation|`@Compendium[pf2e.spells-srd.Qw3fnUlaUbnn7ipC]`|
+|[Primal Call](spells/abjuration-06-pZc8ZwtsyWnxUUW0.htm)|Appel primordial|`@Compendium[pf2e.spells-srd.pZc8ZwtsyWnxUUW0]`|
+|[Primal Herd](spells/transmutation-10-pmP8HhXvvEKP3LqU.htm)|Troupeau primitif|`@Compendium[pf2e.spells-srd.pmP8HhXvvEKP3LqU]`|
+|[Primal Phenomenon](spells/divination-10-MLNeD5sAunV0E23j.htm)|Phénomène primordial|`@Compendium[pf2e.spells-srd.MLNeD5sAunV0E23j]`|
+|[Primal Summons](spells/conjuration-06-kwlKUxEuT8T15YW6.htm)|Convocations primordiales|`@Compendium[pf2e.spells-srd.kwlKUxEuT8T15YW6]`|
+|[Prismatic Sphere](spells/abjuration-09-PngDCmU0MXZkbu0v.htm)|Sphère prismatique|`@Compendium[pf2e.spells-srd.PngDCmU0MXZkbu0v]`|
+|[Prismatic Spray](spells/evocation-07-d6o52BnjViNz7Gub.htm)|Rayon prismatique|`@Compendium[pf2e.spells-srd.d6o52BnjViNz7Gub]`|
+|[Prismatic Wall](spells/abjuration-08-iL6TujgTCtRRa0Y0.htm)|Mur prismatique|`@Compendium[pf2e.spells-srd.iL6TujgTCtRRa0Y0]`|
+|[Private Sanctum](spells/abjuration-04-onjZCEHs3JJJRTD0.htm)|Sanctuaire secret|`@Compendium[pf2e.spells-srd.onjZCEHs3JJJRTD0]`|
+|[Produce Flame](spells/evocation-00-O9w7r4BKgPogYDDe.htm)|Flammes|`@Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]`|
+|[Project Image](spells/illusion-07-0873MWM0qKDDv81O.htm)|Projection d'image|`@Compendium[pf2e.spells-srd.0873MWM0qKDDv81O]`|
+|[Protection](spells/abjuration-01-gMODOGamz88rgHuf.htm)|Protection|`@Compendium[pf2e.spells-srd.gMODOGamz88rgHuf]`|
+|[Protective Ward](spells/abjuration-01-lY9fOk1qBDDhBT8s.htm)|Champ protecteur|`@Compendium[pf2e.spells-srd.lY9fOk1qBDDhBT8s]`|
+|[Protector's Sacrifice](spells/abjuration-01-rQYob0QMJ0I1U2sU.htm)|Sacrifice du protecteur|`@Compendium[pf2e.spells-srd.rQYob0QMJ0I1U2sU]`|
+|[Protector's Sphere](spells/abjuration-04-DH9Y3RQGWO0GzXGU.htm)|Sphère du protecteur|`@Compendium[pf2e.spells-srd.DH9Y3RQGWO0GzXGU]`|
+|[Prying Eye](spells/divination-05-Ek5XI0aEdZhBgm21.htm)|Œil indiscret|`@Compendium[pf2e.spells-srd.Ek5XI0aEdZhBgm21]`|
+|[Prying Survey](spells/divination-08-pt3gEnzA159uHcJC.htm)|Surveillance fouineuse|`@Compendium[pf2e.spells-srd.pt3gEnzA159uHcJC]`|
+|[Pulse of the City](spells/divination-04-ivKnEtI1z4UqEKIA.htm)|Pouls de la ville|`@Compendium[pf2e.spells-srd.ivKnEtI1z4UqEKIA]`|
+|[Pummeling Rubble](spells/evocation-01-Rn2LkoSq1XhLsODV.htm)|Frappe de débris|`@Compendium[pf2e.spells-srd.Rn2LkoSq1XhLsODV]`|
+|[Punishing Winds](spells/evocation-08-wi405lBjPcbF1DeR.htm)|Vents punitifs|`@Compendium[pf2e.spells-srd.wi405lBjPcbF1DeR]`|
+|[Purify Food and Drink](spells/necromancy-01-qXTB7Ec9yYh5JPPV.htm)|Purifier la nourriture et la boisson|`@Compendium[pf2e.spells-srd.qXTB7Ec9yYh5JPPV]`|
+|[Purple Worm Sting](spells/necromancy-06-ayRXv0wQH00TTNZe.htm)|Dard du ver pourpre|`@Compendium[pf2e.spells-srd.ayRXv0wQH00TTNZe]`|
+|[Pushing Gust](spells/conjuration-01-myC2EIrsjmB8xosi.htm)|Bourrasque agressive|`@Compendium[pf2e.spells-srd.myC2EIrsjmB8xosi]`|
+|[Putrefy Food and Drink](spells/necromancy-01-CxpFy4HJHf4ACbxF.htm)|Corruption de la nourriture et de la boisson|`@Compendium[pf2e.spells-srd.CxpFy4HJHf4ACbxF]`|
+|[Pyrotechnics](spells/transmutation-03-TUbXnR4RAuYzRx1u.htm)|Pyrotechnie|`@Compendium[pf2e.spells-srd.TUbXnR4RAuYzRx1u]`|
+|[Quench](spells/abjuration-02-02J0rDTk37KN2sjt.htm)|Éteindre|`@Compendium[pf2e.spells-srd.02J0rDTk37KN2sjt]`|
+|[Quivering Palm](spells/necromancy-08-Ovvflf5aFbmBxqq8.htm)|Paume vibratoire|`@Compendium[pf2e.spells-srd.Ovvflf5aFbmBxqq8]`|
+|[Raise Dead](spells/necromancy-06-IkGYwHRLhkuoGReG.htm)|Rappel à la vie|`@Compendium[pf2e.spells-srd.IkGYwHRLhkuoGReG]`|
+|[Ranger's Bramble](spells/transmutation-03-KktHf7zIAWOr499h.htm)|Roncier du rôdeur|`@Compendium[pf2e.spells-srd.KktHf7zIAWOr499h]`|
+|[Ravening Maw](spells/necromancy-05-VDWIZuLOJqwBthHc.htm)|Mâchoire dévorante|`@Compendium[pf2e.spells-srd.VDWIZuLOJqwBthHc]`|
+|[Ravenous Reanimation](spells/necromancy-07-u3pdkfmy0AWICdoM.htm)|Réanimation vorace|`@Compendium[pf2e.spells-srd.u3pdkfmy0AWICdoM]`|
+|[Ray of Enfeeblement](spells/necromancy-01-J7Y7tl0bbdz7TcCc.htm)|Rayon affaiblissant|`@Compendium[pf2e.spells-srd.J7Y7tl0bbdz7TcCc]`|
+|[Ray of Frost](spells/evocation-00-gYjPm7YwGtEa1oxh.htm)|Rayon de givre|`@Compendium[pf2e.spells-srd.gYjPm7YwGtEa1oxh]`|
+|[Read Aura](spells/divination-00-OhD2Z6rIGGD5ocZA.htm)|Lecture de l'aura|`@Compendium[pf2e.spells-srd.OhD2Z6rIGGD5ocZA]`|
+|[Read Fate](spells/divination-01-Vvxgn7saUPW2bJhb.htm)|Lire le destin|`@Compendium[pf2e.spells-srd.Vvxgn7saUPW2bJhb]`|
+|[Read Omens](spells/divination-04-pkcOby5prOausy1k.htm)|Lire les présages|`@Compendium[pf2e.spells-srd.pkcOby5prOausy1k]`|
+|[Reaper's Lantern](spells/necromancy-02-dxOF7d5kAWusLKWF.htm)|Lanterne de la Faucheuse|`@Compendium[pf2e.spells-srd.dxOF7d5kAWusLKWF]`|
+|[Rebounding Barrier](spells/abjuration-04-5p8naLYjFcG13OkU.htm)|Barrière rebondissante|`@Compendium[pf2e.spells-srd.5p8naLYjFcG13OkU]`|
+|[Rebuke Death](spells/necromancy-04-4nHYSMHito1GUXlm.htm)|Réprimander la mort|`@Compendium[pf2e.spells-srd.4nHYSMHito1GUXlm]`|
+|[Redact](spells/transmutation-01-ifXNOhtmU4fKL68v.htm)|Corriger|`@Compendium[pf2e.spells-srd.ifXNOhtmU4fKL68v]`|
+|[Reflective Scales](spells/abjuration-04-Mv5L4201uk8hnAtD.htm)|Écailles réfléchisantes|`@Compendium[pf2e.spells-srd.Mv5L4201uk8hnAtD]`|
+|[Regenerate](spells/necromancy-07-2Vkd1IxylPceUAAF.htm)|Régénération|`@Compendium[pf2e.spells-srd.2Vkd1IxylPceUAAF]`|
+|[Reincarnate](spells/necromancy-03-gIVaSCrLhhBzGHQY.htm)|Réincarnation|`@Compendium[pf2e.spells-srd.gIVaSCrLhhBzGHQY]`|
+|[Remake](spells/conjuration-10-dMKP4fkWx8V2cqAy.htm)|Recréer|`@Compendium[pf2e.spells-srd.dMKP4fkWx8V2cqAy]`|
+|[Remember the Lost](spells/divination-04-nrW6lGV4xDMqLS3P.htm)|Souvenez vous des pertes|`@Compendium[pf2e.spells-srd.nrW6lGV4xDMqLS3P]`|
+|[Remove Curse](spells/necromancy-04-OyFCwQuw8XRazsNr.htm)|Délivrance des malédictions|`@Compendium[pf2e.spells-srd.OyFCwQuw8XRazsNr]`|
+|[Remove Disease](spells/necromancy-03-RneiyehRO6f7LP44.htm)|Délivrance des maladies|`@Compendium[pf2e.spells-srd.RneiyehRO6f7LP44]`|
+|[Remove Fear](spells/enchantment-02-EfFMLVbmkBWmzoLF.htm)|Délivrance de la peur|`@Compendium[pf2e.spells-srd.EfFMLVbmkBWmzoLF]`|
+|[Remove Paralysis](spells/necromancy-02-BCuHKrDeJ4eq53M6.htm)|Délivrance de la paralysie|`@Compendium[pf2e.spells-srd.BCuHKrDeJ4eq53M6]`|
+|[Repulsion](spells/abjuration-06-yrZA4k2VAqEP8xx7.htm)|Répulsion|`@Compendium[pf2e.spells-srd.yrZA4k2VAqEP8xx7]`|
+|[Resilient Sphere](spells/abjuration-04-qJQADktwD0x8kLAy.htm)|Sphère d'isolement|`@Compendium[pf2e.spells-srd.qJQADktwD0x8kLAy]`|
+|[Resist Energy](spells/abjuration-02-Fr58LDSrbndgld9n.htm)|Résistance à l'énergie|`@Compendium[pf2e.spells-srd.Fr58LDSrbndgld9n]`|
+|[Resplendent Mansion](spells/conjuration-09-KPDHmmjJiw7PhTYF.htm)|Manoir resplendissant|`@Compendium[pf2e.spells-srd.KPDHmmjJiw7PhTYF]`|
+|[Rest Eternal](spells/necromancy-04-MTNlvZ0A9xY5sOg1.htm)|Repos éternel|`@Compendium[pf2e.spells-srd.MTNlvZ0A9xY5sOg1]`|
+|[Restoration](spells/necromancy-02-SnaLVgxZ9ryUFmUr.htm)|Restauration|`@Compendium[pf2e.spells-srd.SnaLVgxZ9ryUFmUr]`|
+|[Restorative Moment](spells/necromancy-05-pCvJ4yoZJxDtgUMI.htm)|Moment restauratif|`@Compendium[pf2e.spells-srd.pCvJ4yoZJxDtgUMI]`|
+|[Restore Senses](spells/necromancy-02-Et8RSCLx8w7uOLvo.htm)|Restaurer les sens|`@Compendium[pf2e.spells-srd.Et8RSCLx8w7uOLvo]`|
+|[Resurrect](spells/necromancy-05-kqhPt9344UkcGVYO.htm)|Résurrection|`@Compendium[pf2e.spells-srd.kqhPt9344UkcGVYO]`|
+|[Retributive Pain](spells/abjuration-04-SSsUC7rZo0CwayPn.htm)|Souffrance vengeresse|`@Compendium[pf2e.spells-srd.SSsUC7rZo0CwayPn]`|
+|[Retrocognition](spells/divination-07-rsZ5c0AUyywe5yoK.htm)|Rétrocognition|`@Compendium[pf2e.spells-srd.rsZ5c0AUyywe5yoK]`|
+|[Reverse Gravity](spells/evocation-07-37ESlJzUvVbOudOT.htm)|Inversion de la gravité|`@Compendium[pf2e.spells-srd.37ESlJzUvVbOudOT]`|
+|[Revival](spells/necromancy-10-HpIJTVqgXorH9X0L.htm)|Vivifier|`@Compendium[pf2e.spells-srd.HpIJTVqgXorH9X0L]`|
+|[Righteous Might](spells/transmutation-06-MMCQsh12TPaDdPbV.htm)|Force du colosse|`@Compendium[pf2e.spells-srd.MMCQsh12TPaDdPbV]`|
+|[Rime Slick](spells/evocation-02-Popa5umI3H33levx.htm)|Couche de givre|`@Compendium[pf2e.spells-srd.Popa5umI3H33levx]`|
+|[Roar of the Wyrm](spells/enchantment-04-FSu6ZKxr3xdS75wq.htm)|Rugissement du Ver|`@Compendium[pf2e.spells-srd.FSu6ZKxr3xdS75wq]`|
+|[Rope Trick](spells/conjuration-04-GzdgM0m7wXKuFSho.htm)|Corde enchantée|`@Compendium[pf2e.spells-srd.GzdgM0m7wXKuFSho]`|
+|[Rusting Grasp](spells/transmutation-04-0fYE64odlKqISzft.htm)|Poigne oxydante|`@Compendium[pf2e.spells-srd.0fYE64odlKqISzft]`|
+|[Safe Passage](spells/abjuration-03-IFuEzfmmWyNwVbhY.htm)|Passage sûr|`@Compendium[pf2e.spells-srd.IFuEzfmmWyNwVbhY]`|
+|[Safeguard Secret](spells/abjuration-04-OsrtOeG0TvDNnEFH.htm)|Secret bien gardé|`@Compendium[pf2e.spells-srd.OsrtOeG0TvDNnEFH]`|
+|[Sanctified Ground](spells/abjuration-03-y3jlOfgsQH1JjkJE.htm)|Zone sanctifiée|`@Compendium[pf2e.spells-srd.y3jlOfgsQH1JjkJE]`|
+|[Sanctuary](spells/abjuration-01-8xRzLhwGL7Dgy3EZ.htm)|Sanctuaire|`@Compendium[pf2e.spells-srd.8xRzLhwGL7Dgy3EZ]`|
+|[Savant's Curse](spells/enchantment-04-APDrC83QljsyHenB.htm)|Malédiction du savant|`@Compendium[pf2e.spells-srd.APDrC83QljsyHenB]`|
+|[Savor the Sting](spells/enchantment-01-xn0V2HDrmDWNzPEt.htm)|Savourer la douleur|`@Compendium[pf2e.spells-srd.xn0V2HDrmDWNzPEt]`|
+|[Scholarly Recollection](spells/divination-01-dXIRotMLsABDQQSB.htm)|Souvenirs érudits|`@Compendium[pf2e.spells-srd.dXIRotMLsABDQQSB]`|
+|[Scintillating Pattern](spells/illusion-08-uEyfLoFQsRKBRIcB.htm)|Motif scintillant|`@Compendium[pf2e.spells-srd.uEyfLoFQsRKBRIcB]`|
+|[Scintillating Safeguard](spells/abjuration-06-9W2Qv0wXLg6tQg3y.htm)|Précaution scintillante|`@Compendium[pf2e.spells-srd.9W2Qv0wXLg6tQg3y]`|
+|[Scouring Sand](spells/evocation-01-HGmBY8KjgLV97nUp.htm)|Sable décapant|`@Compendium[pf2e.spells-srd.HGmBY8KjgLV97nUp]`|
+|[Scrying](spells/divination-06-r784cIz17eWujtQj.htm)|Scrutation|`@Compendium[pf2e.spells-srd.r784cIz17eWujtQj]`|
+|[Sculpt Sound](spells/illusion-03-HHGUBGle4OjoxvNR.htm)|Sculpter le son|`@Compendium[pf2e.spells-srd.HHGUBGle4OjoxvNR]`|
+|[Sea Surge](spells/evocation-02-cf7Jkm39uEjUFtHt.htm)|Onde océanique|`@Compendium[pf2e.spells-srd.cf7Jkm39uEjUFtHt]`|
+|[Seal Fate](spells/necromancy-04-gfKhtVsXF3HKSdmY.htm)|Sceller le destin|`@Compendium[pf2e.spells-srd.gfKhtVsXF3HKSdmY]`|
+|[Searing Light](spells/evocation-03-DyiD239dNS7RIxZE.htm)|Lumière brûlante|`@Compendium[pf2e.spells-srd.DyiD239dNS7RIxZE]`|
+|[Secret Chest](spells/conjuration-05-BoA00y45uDlmou07.htm)|Coffre secret|`@Compendium[pf2e.spells-srd.BoA00y45uDlmou07]`|
+|[Secret Page](spells/illusion-03-VVAZPCvd4d90qVA1.htm)|Page secrète|`@Compendium[pf2e.spells-srd.VVAZPCvd4d90qVA1]`|
+|[See Invisibility](spells/divination-02-jwK43yKsHTkJQvQ9.htm)|Détection de l'invisibilité|`@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]`|
+|[Sending](spells/divination-05-R9xqCBblkS5KE4y7.htm)|Communication à distance|`@Compendium[pf2e.spells-srd.R9xqCBblkS5KE4y7]`|
+|[Sepulchral Mask](spells/divination-01-3mINzPzup2m9qzFU.htm)|Masque sépucral|`@Compendium[pf2e.spells-srd.3mINzPzup2m9qzFU]`|
+|[Shadow Blast](spells/evocation-05-IqJ9URobmJ9L9UBG.htm)|Explosion d'ombre|`@Compendium[pf2e.spells-srd.IqJ9URobmJ9L9UBG]`|
+|[Shadow Illusion](spells/illusion-06-EOWh6VVcSjB3WPjX.htm)|Illusion de l'ombre|`@Compendium[pf2e.spells-srd.EOWh6VVcSjB3WPjX]`|
+|[Shadow Jump](spells/conjuration-05-5ttAVJbWg2GVKmrN.htm)|Saut de l'ombre|`@Compendium[pf2e.spells-srd.5ttAVJbWg2GVKmrN]`|
+|[Shadow Siphon](spells/illusion-05-tcwT97RWKxsJiefG.htm)|Siphon d'ombre|`@Compendium[pf2e.spells-srd.tcwT97RWKxsJiefG]`|
+|[Shadow Walk](spells/conjuration-05-rxvS7EMJ7qmexAyA.htm)|Traversée des ombres|`@Compendium[pf2e.spells-srd.rxvS7EMJ7qmexAyA]`|
+|[Shadow's Web](spells/evocation-07-n8eEXXAtguoErW0y.htm)|Toile d'ombre|`@Compendium[pf2e.spells-srd.n8eEXXAtguoErW0y]`|
+|[Shall not Falter, Shall not Rout](spells/necromancy-05-rnFAHvKpcsU4BJD4.htm)|Tu ne faibliras pas, tu ne prendras pas la fuite|`@Compendium[pf2e.spells-srd.rnFAHvKpcsU4BJD4]`|
+|[Shape Stone](spells/transmutation-04-McnPlLFvKtQVXNcG.htm)|Façonnage de la pierre|`@Compendium[pf2e.spells-srd.McnPlLFvKtQVXNcG]`|
+|[Shape Wood](spells/transmutation-02-CXICME10TkEJxz0P.htm)|Façonnage du bois|`@Compendium[pf2e.spells-srd.CXICME10TkEJxz0P]`|
+|[Shapechange](spells/transmutation-09-pswdik31kuHEvdno.htm)|Changement de forme|`@Compendium[pf2e.spells-srd.pswdik31kuHEvdno]`|
+|[Share Burden](spells/abjuration-01-cJq5NarY0eOZN74A.htm)|Partager le Fardeau|`@Compendium[pf2e.spells-srd.cJq5NarY0eOZN74A]`|
+|[Share Lore](spells/divination-01-nXmC2Xx9WmS5NsAo.htm)|Connaissance partagée|`@Compendium[pf2e.spells-srd.nXmC2Xx9WmS5NsAo]`|
+|[Shared Nightmare](spells/enchantment-04-skvgOWNTitLehL0b.htm)|Cauchemar partagé|`@Compendium[pf2e.spells-srd.skvgOWNTitLehL0b]`|
+|[Shatter](spells/evocation-02-1xbFBQDRs0hT5xZ9.htm)|Fracassement|`@Compendium[pf2e.spells-srd.1xbFBQDRs0hT5xZ9]`|
+|[Shattering Gem](spells/abjuration-01-0uRpypf1Hi7ahvTl.htm)|Gemme explosive|`@Compendium[pf2e.spells-srd.0uRpypf1Hi7ahvTl]`|
+|[Shepherd of Souls](spells/necromancy-05-SzKkzq3Rr6vKIxbp.htm)|Berger des âmes|`@Compendium[pf2e.spells-srd.SzKkzq3Rr6vKIxbp]`|
+|[Shield](spells/abjuration-00-TVKNbcgTee19PXZR.htm)|Bouclier|`@Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]`|
+|[Shield Other](spells/necromancy-02-d7Lwx6KAs47MtF0q.htm)|Protection d'autrui|`@Compendium[pf2e.spells-srd.d7Lwx6KAs47MtF0q]`|
+|[Shifting Form](spells/transmutation-04-SDkIFrrO1PsE02Kd.htm)|Forme changeante|`@Compendium[pf2e.spells-srd.SDkIFrrO1PsE02Kd]`|
+|[Shifting Sand](spells/transmutation-03-HcIAQZjNXHemoXSU.htm)|Sable mouvant|`@Compendium[pf2e.spells-srd.HcIAQZjNXHemoXSU]`|
+|[Shillelagh](spells/transmutation-01-s3abwDbTV43pGFFW.htm)|Gourdin magique|`@Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]`|
+|[Shocking Grasp](spells/evocation-01-r3NeUnsgt9mS03Sn.htm)|Décharge électrique|`@Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]`|
+|[Shockwave](spells/evocation-01-dgCH2E0gMLMUgyFl.htm)|Onde de choc|`@Compendium[pf2e.spells-srd.dgCH2E0gMLMUgyFl]`|
+|[Show the Way](spells/divination-03-ThE5zPYKF4weiljj.htm)|Montrer le chemin|`@Compendium[pf2e.spells-srd.ThE5zPYKF4weiljj]`|
+|[Shrink](spells/transmutation-02-PjhUmyKnq6K5uDby.htm)|Rétrécir|`@Compendium[pf2e.spells-srd.PjhUmyKnq6K5uDby]`|
+|[Shrink Item](spells/transmutation-03-kWh8sJH7yawidMyW.htm)|Rétrécir un objet|`@Compendium[pf2e.spells-srd.kWh8sJH7yawidMyW]`|
+|[Shroud of Night](spells/evocation-00-cE7PRAX8Up7fmYef.htm)|Voile de nuit|`@Compendium[pf2e.spells-srd.cE7PRAX8Up7fmYef]`|
+|[Sigil](spells/transmutation-00-AUctDF2fqPZN2w4W.htm)|Symbole|`@Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]`|
+|[Silence](spells/illusion-02-gIdDLrbswTV3OBJy.htm)|Silence|`@Compendium[pf2e.spells-srd.gIdDLrbswTV3OBJy]`|
+|[Silver's Refrain](spells/abjuration-00-xM35hJacTM1BSXUl.htm)|Refrain d'argent|`@Compendium[pf2e.spells-srd.xM35hJacTM1BSXUl]`|
+|[Simulacrum](spells/illusion-04-h5UqEdeqK8iTcU0J.htm)|Simulacrum|`@Compendium[pf2e.spells-srd.h5UqEdeqK8iTcU0J]`|
+|[Sleep](spells/enchantment-01-o4lRVTwSxnOOn5vl.htm)|Sommeil|`@Compendium[pf2e.spells-srd.o4lRVTwSxnOOn5vl]`|
+|[Slough Skin](spells/necromancy-02-X3dYByf3YmkcdwG0.htm)|Mues de peau|`@Compendium[pf2e.spells-srd.X3dYByf3YmkcdwG0]`|
+|[Slow](spells/transmutation-03-WsUwpfmhKrKwoIe3.htm)|Lenteur|`@Compendium[pf2e.spells-srd.WsUwpfmhKrKwoIe3]`|
+|[Snare Hopping](spells/conjuration-01-dDt8VFuLuhznT19v.htm)|Piège artisanal bondissant|`@Compendium[pf2e.spells-srd.dDt8VFuLuhznT19v]`|
+|[Snowball](spells/evocation-01-W6QlRwQLPoBSw6PZ.htm)|Boule de neige|`@Compendium[pf2e.spells-srd.W6QlRwQLPoBSw6PZ]`|
+|[Solid Fog](spells/conjuration-04-piMJO6aYeDJbrhEo.htm)|Brouillard dense|`@Compendium[pf2e.spells-srd.piMJO6aYeDJbrhEo]`|
+|[Song of Marching](spells/enchantment-00-LTUaK3smfm5eDiFK.htm)|Chanson de marche|`@Compendium[pf2e.spells-srd.LTUaK3smfm5eDiFK]`|
+|[Song of Strength](spells/enchantment-00-Xxdwkt0EEDgP1LGc.htm)|Chanson de force|`@Compendium[pf2e.spells-srd.Xxdwkt0EEDgP1LGc]`|
+|[Song of the Fallen](spells/necromancy-10-IGXGs9PlqUCvODcH.htm)|Chanson des morts au combat|`@Compendium[pf2e.spells-srd.IGXGs9PlqUCvODcH]`|
+|[Soothe](spells/enchantment-01-szIyEsvihc5e1w8n.htm)|Apaiser|`@Compendium[pf2e.spells-srd.szIyEsvihc5e1w8n]`|
+|[Soothing Ballad](spells/enchantment-07-0JigNJDRwevZOyjI.htm)|Ballade apaisante|`@Compendium[pf2e.spells-srd.0JigNJDRwevZOyjI]`|
+|[Soothing Mist](spells/necromancy-02-RGBZrVRIEDb2G48h.htm)|Brume apaisante|`@Compendium[pf2e.spells-srd.RGBZrVRIEDb2G48h]`|
+|[Soothing Words](spells/enchantment-01-YGRpHU5yxw73mls8.htm)|Paroles apaisantes|`@Compendium[pf2e.spells-srd.YGRpHU5yxw73mls8]`|
+|[Soul Siphon](spells/necromancy-01-D6T17BdazhNy3KPm.htm)|Siphon d'âme|`@Compendium[pf2e.spells-srd.D6T17BdazhNy3KPm]`|
+|[Sound Burst](spells/evocation-02-wzLkNU3AAqOSKFPR.htm)|Cacophonie|`@Compendium[pf2e.spells-srd.wzLkNU3AAqOSKFPR]`|
+|[Speak with Animals](spells/divination-02-BBvV7qoXGdw09q1C.htm)|Communication avec les animaux|`@Compendium[pf2e.spells-srd.BBvV7qoXGdw09q1C]`|
+|[Speak with Plants](spells/divination-04-qvwIwJ9QBihy8R0t.htm)|Communication avec les plantes|`@Compendium[pf2e.spells-srd.qvwIwJ9QBihy8R0t]`|
+|[Speaking Sky](spells/divination-06-Zvg0FWzClGbzucFd.htm)|Ciel parlant|`@Compendium[pf2e.spells-srd.Zvg0FWzClGbzucFd]`|
+|[Spectral Hand](spells/necromancy-02-rthC6dGm3nNrt1xN.htm)|Main spectrale|`@Compendium[pf2e.spells-srd.rthC6dGm3nNrt1xN]`|
+|[Spell Immunity](spells/abjuration-04-tgIhRUFtgDSELpJE.htm)|Immunité contre les sorts|`@Compendium[pf2e.spells-srd.tgIhRUFtgDSELpJE]`|
+|[Spell Turning](spells/abjuration-07-OOELvfkTedBMlWtq.htm)|Renvoi de sorts|`@Compendium[pf2e.spells-srd.OOELvfkTedBMlWtq]`|
+|[Spellmaster's Ward](spells/abjuration-05-VrhCpCIQB8PFax77.htm)|Protection du Maître des sorts|`@Compendium[pf2e.spells-srd.VrhCpCIQB8PFax77]`|
+|[Spellwrack](spells/abjuration-06-8Umt1AzYfFbC4fui.htm)|Ravages magiques|`@Compendium[pf2e.spells-srd.8Umt1AzYfFbC4fui]`|
+|[Spider Climb](spells/transmutation-02-5KobTMrZeZxuXMgl.htm)|Pattes d'araignée|`@Compendium[pf2e.spells-srd.5KobTMrZeZxuXMgl]`|
+|[Spider Sting](spells/necromancy-01-DYdvMZ8G2LiSLVWw.htm)|Morsure d'araignée|`@Compendium[pf2e.spells-srd.DYdvMZ8G2LiSLVWw]`|
+|[Spike Stones](spells/conjuration-04-3xD8DYrr8YDVYGg7.htm)|Piques de pierre|`@Compendium[pf2e.spells-srd.3xD8DYrr8YDVYGg7]`|
+|[Spirit Blast](spells/necromancy-06-PHVHBbdHeQRfjLmE.htm)|Coup spirituel|`@Compendium[pf2e.spells-srd.PHVHBbdHeQRfjLmE]`|
+|[Spirit Link](spells/necromancy-01-yHujiDQPdtXW797e.htm)|Lien spirituel|`@Compendium[pf2e.spells-srd.yHujiDQPdtXW797e]`|
+|[Spirit Object](spells/necromancy-00-yp4w9SG4RuqRM8KD.htm)|Animation d'objet|`@Compendium[pf2e.spells-srd.yp4w9SG4RuqRM8KD]`|
+|[Spirit Sense](spells/divination-02-3ehSrqTAm7IPqbIZ.htm)|Perception des esprits|`@Compendium[pf2e.spells-srd.3ehSrqTAm7IPqbIZ]`|
+|[Spirit Song](spells/necromancy-08-Ht35SDf9PDStJfoC.htm)|Chant spirituel|`@Compendium[pf2e.spells-srd.Ht35SDf9PDStJfoC]`|
+|[Spirit Veil](spells/illusion-03-pQ3NIzZXeIIcU81C.htm)|Voile spirituel|`@Compendium[pf2e.spells-srd.pQ3NIzZXeIIcU81C]`|
+|[Spiritual Anamnesis](spells/necromancy-04-Jli9WBjQZ2MmKJ8y.htm)|Anamnèse spirituelle|`@Compendium[pf2e.spells-srd.Jli9WBjQZ2MmKJ8y]`|
+|[Spiritual Epidemic](spells/necromancy-08-MS60WhVifb45qORJ.htm)|Épidémie spirituelle|`@Compendium[pf2e.spells-srd.MS60WhVifb45qORJ]`|
+|[Spiritual Guardian](spells/abjuration-05-jQdm301h6e8hIY4U.htm)|Gardien spirituel|`@Compendium[pf2e.spells-srd.jQdm301h6e8hIY4U]`|
+|[Spiritual Weapon](spells/evocation-02-Fq9yCbqI2RDt6Orw.htm)|Arme spirituelle|`@Compendium[pf2e.spells-srd.Fq9yCbqI2RDt6Orw]`|
+|[Splash of Art](spells/illusion-01-xTpp8dHZsNMDm75B.htm)|Avalanche d'art|`@Compendium[pf2e.spells-srd.xTpp8dHZsNMDm75B]`|
+|[Split the Tongue](spells/transmutation-01-lXxP1ziyf4ozkpmv.htm)||`@Compendium[pf2e.spells-srd.lXxP1ziyf4ozkpmv]`|
+|[Spray of Stars](spells/evocation-01-mlNYROcFrUF8nFgk.htm)|Aspersion d'étoiles|`@Compendium[pf2e.spells-srd.mlNYROcFrUF8nFgk]`|
+|[Stabilize](spells/necromancy-00-SnjhtQYexDtNDdEg.htm)|Stabilisation|`@Compendium[pf2e.spells-srd.SnjhtQYexDtNDdEg]`|
+|[Stasis](spells/transmutation-04-cOwSsSXRsBaXUvlr.htm)|Stase|`@Compendium[pf2e.spells-srd.cOwSsSXRsBaXUvlr]`|
+|[Statuette](spells/transmutation-06-29AyhknPKiDBcy8s.htm)|Statuette|`@Compendium[pf2e.spells-srd.29AyhknPKiDBcy8s]`|
+|[Status](spells/divination-02-HTou8cG05yuSkesj.htm)|Rapport|`@Compendium[pf2e.spells-srd.HTou8cG05yuSkesj]`|
+|[Steal Shadow](spells/necromancy-03-0chL1b4OFIZxpN3v.htm)|Vol d'ombre|`@Compendium[pf2e.spells-srd.0chL1b4OFIZxpN3v]`|
+|[Steal the Sky](spells/evocation-05-zoY0fQYTF1NzezTg.htm)|Voler le ciel|`@Compendium[pf2e.spells-srd.zoY0fQYTF1NzezTg]`|
+|[Stinking Cloud](spells/conjuration-03-GKpEcy9WId6NJvtx.htm)|Nuage nauséabond|`@Compendium[pf2e.spells-srd.GKpEcy9WId6NJvtx]`|
+|[Stoke the Heart](spells/enchantment-00-GeUbPvwdZ4B4l0up.htm)|Enflammer les cœurs|`@Compendium[pf2e.spells-srd.GeUbPvwdZ4B4l0up]`|
+|[Stone Tell](spells/evocation-06-YIMampGpij4Y30yE.htm)|Pierre commère|`@Compendium[pf2e.spells-srd.YIMampGpij4Y30yE]`|
+|[Stone to Flesh](spells/transmutation-06-Pr1ruNTbzGn3H9w5.htm)|Pierre en chair|`@Compendium[pf2e.spells-srd.Pr1ruNTbzGn3H9w5]`|
+|[Stoneskin](spells/abjuration-04-2BV2yYPfVJ5zirZt.htm)|Peau de pierre|`@Compendium[pf2e.spells-srd.2BV2yYPfVJ5zirZt]`|
+|[Storm Lord](spells/evocation-09-XYhU3Wi94n1RKxTa.htm)|Seigneur des tempêtes|`@Compendium[pf2e.spells-srd.XYhU3Wi94n1RKxTa]`|
+|[Storm of Vengeance](spells/evocation-09-r4HLQcYwB62bTayl.htm)|Tempête vengeresse|`@Compendium[pf2e.spells-srd.r4HLQcYwB62bTayl]`|
+|[Stormwind Flight](spells/transmutation-04-gSFg9zKwgcNZLMEs.htm)|Vol de l'ouragan|`@Compendium[pf2e.spells-srd.gSFg9zKwgcNZLMEs]`|
+|[Strange Geometry](spells/illusion-05-m4Mc5XbdML92BKOE.htm)|Géométrie étrange|`@Compendium[pf2e.spells-srd.m4Mc5XbdML92BKOE]`|
+|[Subconscious Suggestion](spells/enchantment-05-GP3wewkQXEPrLxYj.htm)|Suggestion subconsciente|`@Compendium[pf2e.spells-srd.GP3wewkQXEPrLxYj]`|
+|[Sudden Blight](spells/necromancy-02-XFtO4BBI22Uox2QP.htm)|Dégradation soudaine|`@Compendium[pf2e.spells-srd.XFtO4BBI22Uox2QP]`|
+|[Sudden Bolt](spells/evocation-02-zK0e9d9DSnxC4eAD.htm)|Décharge soudaine|`@Compendium[pf2e.spells-srd.zK0e9d9DSnxC4eAD]`|
+|[Sudden Shift](spells/abjuration-01-P9bqJsF3WkxGAJKJ.htm)|Déplacement soudain|`@Compendium[pf2e.spells-srd.P9bqJsF3WkxGAJKJ]`|
+|[Suggestion](spells/enchantment-04-qwlh6aDgi86U3Q7H.htm)|Suggestion|`@Compendium[pf2e.spells-srd.qwlh6aDgi86U3Q7H]`|
+|[Summon Animal](spells/conjuration-01-4YnON9JHYqtLzccu.htm)|Convocation d'animal|`@Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]`|
+|[Summon Celestial](spells/conjuration-05-lTDixrrNKaCvLKwX.htm)|Convocation de céleste|`@Compendium[pf2e.spells-srd.lTDixrrNKaCvLKwX]`|
+|[Summon Construct](spells/conjuration-01-lKcsmeOrgHtK4xQa.htm)|Convocation de créature artificielle|`@Compendium[pf2e.spells-srd.lKcsmeOrgHtK4xQa]`|
+|[Summon Dragon](spells/conjuration-05-kghwmH3tQjMIhdH1.htm)|Convocation de dragon|`@Compendium[pf2e.spells-srd.kghwmH3tQjMIhdH1]`|
+|[Summon Elemental](spells/conjuration-02-lpT6LotUaQPfinjj.htm)|Convocation d'élémentaire|`@Compendium[pf2e.spells-srd.lpT6LotUaQPfinjj]`|
+|[Summon Entity](spells/conjuration-05-i1TvBID5QLyXrUCa.htm)|Convocation d'entité|`@Compendium[pf2e.spells-srd.i1TvBID5QLyXrUCa]`|
+|[Summon Fey](spells/conjuration-01-hs7h8f4Z1ZNdUt3s.htm)|Convocation de fée|`@Compendium[pf2e.spells-srd.hs7h8f4Z1ZNdUt3s]`|
+|[Summon Fiend](spells/conjuration-05-29ytKctjg7qSW2ff.htm)|Convocation de fiélon|`@Compendium[pf2e.spells-srd.29ytKctjg7qSW2ff]`|
+|[Summon Giant](spells/conjuration-05-e9UJoVYUd5kJWUpi.htm)|Convocation de géant|`@Compendium[pf2e.spells-srd.e9UJoVYUd5kJWUpi]`|
+|[Summon Instrument](spells/conjuration-00-yvs1zN5Pai5U4CJX.htm)|Convocation d'instrument|`@Compendium[pf2e.spells-srd.yvs1zN5Pai5U4CJX]`|
+|[Summon Plant or Fungus](spells/conjuration-01-jSRAyd57kd4WZ4yE.htm)|Convocation de plante ou de champignon|`@Compendium[pf2e.spells-srd.jSRAyd57kd4WZ4yE]`|
+|[Sun Blade](spells/evocation-02-pMTltbI3S3UIuFaR.htm)|Lame solaire|`@Compendium[pf2e.spells-srd.pMTltbI3S3UIuFaR]`|
+|[Sun's Fury](spells/evocation-03-LrFUj76CHDBV0vHW.htm)|Furie du soleil|`@Compendium[pf2e.spells-srd.LrFUj76CHDBV0vHW]`|
+|[Sunburst](spells/evocation-07-a3aQxCpoj1q1NQxC.htm)|Explosion de lumière|`@Compendium[pf2e.spells-srd.a3aQxCpoj1q1NQxC]`|
+|[Swamp of Sloth](spells/conjuration-03-iQD8OhhkwhvD8Blw.htm)|Marais de paresse|`@Compendium[pf2e.spells-srd.iQD8OhhkwhvD8Blw]`|
+|[Swarm Form](spells/transmutation-04-Pd2M1XY8EXrSfWgJ.htm)|Forme de nuée|`@Compendium[pf2e.spells-srd.Pd2M1XY8EXrSfWgJ]`|
+|[Swarming Wasp Stings](spells/necromancy-04-LVwmAH5NGvTuuQSU.htm)|Nuée de dards de guêpes|`@Compendium[pf2e.spells-srd.LVwmAH5NGvTuuQSU]`|
+|[Swarmsense](spells/divination-01-5wjl0ZwEvvUh7sor.htm)|Sens de la nuée|`@Compendium[pf2e.spells-srd.5wjl0ZwEvvUh7sor]`|
+|[Sweet Dream](spells/enchantment-01-BRtKFk0PKfWIlCAB.htm)|Doux rêve|`@Compendium[pf2e.spells-srd.BRtKFk0PKfWIlCAB]`|
+|[Symphony of the Unfettered Heart](spells/abjuration-05-ZAX0OOcKtYMQlquR.htm)|Symphonie du cœur affranchi|`@Compendium[pf2e.spells-srd.ZAX0OOcKtYMQlquR]`|
+|[Synaptic Pulse](spells/enchantment-05-BilnTGuXrof9Dt9D.htm)|Pulsation synaptique|`@Compendium[pf2e.spells-srd.BilnTGuXrof9Dt9D]`|
+|[Synesthesia](spells/divination-05-OAt2ZEns1gIOCgrn.htm)|Synesthésie|`@Compendium[pf2e.spells-srd.OAt2ZEns1gIOCgrn]`|
+|[Take its Course](spells/necromancy-04-ZeHeNQ5BNq6m5F1j.htm)|Suivre son cours|`@Compendium[pf2e.spells-srd.ZeHeNQ5BNq6m5F1j]`|
+|[Talking Corpse](spells/necromancy-04-FM3SmEW8N1FCRjqt.htm)|Cadavre loquace|`@Compendium[pf2e.spells-srd.FM3SmEW8N1FCRjqt]`|
+|[Tanglefoot](spells/conjuration-00-uZK2BYzPnxUBnDjr.htm)|Entrave|`@Compendium[pf2e.spells-srd.uZK2BYzPnxUBnDjr]`|
+|[Tangling Creepers](spells/conjuration-06-JbAcSLu62TU1OgNF.htm)|Entraves végétales|`@Compendium[pf2e.spells-srd.JbAcSLu62TU1OgNF]`|
+|[Telekinetic Haul](spells/evocation-05-tpLTLbJUrYcMWGld.htm)|Transport télékinésique|`@Compendium[pf2e.spells-srd.tpLTLbJUrYcMWGld]`|
+|[Telekinetic Maneuver](spells/evocation-02-mrDi3v933gsmnw25.htm)|Manœuvre télékinésique|`@Compendium[pf2e.spells-srd.mrDi3v933gsmnw25]`|
+|[Telekinetic Projectile](spells/evocation-00-60sgbuMWN0268dB7.htm)|Projectile télékinésique|`@Compendium[pf2e.spells-srd.60sgbuMWN0268dB7]`|
+|[Telepathic Bond](spells/divination-05-gfVXAW95YWRz0pJC.htm)|Lien télépathique|`@Compendium[pf2e.spells-srd.gfVXAW95YWRz0pJC]`|
+|[Telepathic Demand](spells/enchantment-09-ItZgGznUBhgWBwFG.htm)|Ordre télépathique|`@Compendium[pf2e.spells-srd.ItZgGznUBhgWBwFG]`|
+|[Telepathy](spells/divination-04-HqTI6wRrck1YXp3F.htm)|Télépathie|`@Compendium[pf2e.spells-srd.HqTI6wRrck1YXp3F]`|
+|[Teleport](spells/conjuration-06-69L70wKfGDY66Mk9.htm)|Téléportation|`@Compendium[pf2e.spells-srd.69L70wKfGDY66Mk9]`|
+|[Teleportation Circle](spells/conjuration-07-5ZW1w9f4gWlSIuWA.htm)|Cercle de téléportation|`@Compendium[pf2e.spells-srd.5ZW1w9f4gWlSIuWA]`|
+|[Tempest Form](spells/transmutation-06-zhqnMOVPzVvWSUbC.htm)|Forme tempêtueuse|`@Compendium[pf2e.spells-srd.zhqnMOVPzVvWSUbC]`|
+|[Tempest Surge](spells/evocation-01-ho1jSoYKrHUNnM90.htm)|Onde de tempête|`@Compendium[pf2e.spells-srd.ho1jSoYKrHUNnM90]`|
+|[Tempest Touch](spells/evocation-01-EzB9i7R6aBRAtJCh.htm)|Toucher tempêtueux|`@Compendium[pf2e.spells-srd.EzB9i7R6aBRAtJCh]`|
+|[Temporary Tool](spells/conjuration-01-TPI9fRCAYsDqpAe4.htm)|Outil temporaire|`@Compendium[pf2e.spells-srd.TPI9fRCAYsDqpAe4]`|
+|[Tempt Fate](spells/divination-04-GqvKSxzN7A7kuFk4.htm)|Tenter le sort|`@Compendium[pf2e.spells-srd.GqvKSxzN7A7kuFk4]`|
+|[Tentacular Limbs](spells/transmutation-01-i8PBZsnoCrK7IWph.htm)|Membres tentaculaires|`@Compendium[pf2e.spells-srd.i8PBZsnoCrK7IWph]`|
+|[Terminate Bloodline](spells/necromancy-06-yUM5OYeMY8971b2S.htm)|Lignée achevée|`@Compendium[pf2e.spells-srd.yUM5OYeMY8971b2S]`|
+|[Terrain Transposition](spells/conjuration-05-rtA3HRGoy7PQTOhq.htm)|Transposition de terrain|`@Compendium[pf2e.spells-srd.rtA3HRGoy7PQTOhq]`|
+|[Tether](spells/abjuration-01-MVrxZarUTnJxAUN8.htm)|Liens|`@Compendium[pf2e.spells-srd.MVrxZarUTnJxAUN8]`|
+|[Thoughtful Gift](spells/conjuration-01-qTr2oCgIXl703Whb.htm)|Cadeau attentionné|`@Compendium[pf2e.spells-srd.qTr2oCgIXl703Whb]`|
+|[Threefold Aspect](spells/transmutation-03-MNiT0dHol5fEcKlz.htm)|Triple aspect|`@Compendium[pf2e.spells-srd.MNiT0dHol5fEcKlz]`|
+|[Thunderburst](spells/evocation-03-LFSwMtQVP05EzlZe.htm)|Explosion tempêtueuse|`@Compendium[pf2e.spells-srd.LFSwMtQVP05EzlZe]`|
+|[Tidal Surge](spells/evocation-01-iAnpxrLaBU4V6Sej.htm)|Raz-de-marée|`@Compendium[pf2e.spells-srd.iAnpxrLaBU4V6Sej]`|
+|[Time Beacon](spells/divination-07-G56DJkxlUjFv0C4Z.htm)|Repère temporel|`@Compendium[pf2e.spells-srd.G56DJkxlUjFv0C4Z]`|
+|[Time Stop](spells/transmutation-10-1dsahW4g1ggXtypx.htm)|Arrêt du temps|`@Compendium[pf2e.spells-srd.1dsahW4g1ggXtypx]`|
+|[Tireless Worker](spells/necromancy-04-gzvRDpM6EvcfYHeu.htm)|Travailleur infatigable|`@Compendium[pf2e.spells-srd.gzvRDpM6EvcfYHeu]`|
+|[Tongues](spells/divination-05-SwUiVavHKMWG7t5K.htm)|Don des langues|`@Compendium[pf2e.spells-srd.SwUiVavHKMWG7t5K]`|
+|[Touch of Corruption](spells/necromancy-01-jFmWSIpJGGebim6y.htm)|Toucher de corruption|`@Compendium[pf2e.spells-srd.jFmWSIpJGGebim6y]`|
+|[Touch of Corruption (Healing)](spells/necromancy-01-ekGHLJSHGgWMUwkY.htm)||`@Compendium[pf2e.spells-srd.ekGHLJSHGgWMUwkY]`|
+|[Touch of Idiocy](spells/enchantment-02-CQb8HtQ1BPeZmu9h.htm)|Idiotie|`@Compendium[pf2e.spells-srd.CQb8HtQ1BPeZmu9h]`|
+|[Touch of Obedience](spells/enchantment-01-MmQiEc7aM9PDLO2J.htm)|Obéissance|`@Compendium[pf2e.spells-srd.MmQiEc7aM9PDLO2J]`|
+|[Touch of Undeath](spells/necromancy-01-GYI4xloAgkm6tTrT.htm)|Toucher de la non-mort|`@Compendium[pf2e.spells-srd.GYI4xloAgkm6tTrT]`|
+|[Touch of the Moon](spells/enchantment-04-oXCwHBeDja4e0Mx0.htm)|Contact lunaire|`@Compendium[pf2e.spells-srd.oXCwHBeDja4e0Mx0]`|
+|[Transcribe Moment](spells/evocation-04-NxOYiKCqcuAHVRCj.htm)|Instant transcrit|`@Compendium[pf2e.spells-srd.NxOYiKCqcuAHVRCj]`|
+|[Transmute Rock And Mud](spells/transmutation-05-LzfrBDxxPTiuN7uL.htm)|Transmutation de la roche et de la boue|`@Compendium[pf2e.spells-srd.LzfrBDxxPTiuN7uL]`|
+|[Traveler's Transit](spells/evocation-04-LrhTFHUtSS9ahogL.htm)|Voyageur en transit|`@Compendium[pf2e.spells-srd.LrhTFHUtSS9ahogL]`|
+|[Tree Shape](spells/transmutation-02-dileJ0Yxqg76LMvu.htm)|Morphologie d'arbre|`@Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]`|
+|[Tree Stride](spells/conjuration-05-F1qxaqsEItmBura2.htm)|Voyage par les arbres|`@Compendium[pf2e.spells-srd.F1qxaqsEItmBura2]`|
+|[Trickster's Twin](spells/illusion-04-ZhLYJlOZzUB1OKoe.htm)|Jumeau du trompeur|`@Compendium[pf2e.spells-srd.ZhLYJlOZzUB1OKoe]`|
+|[Triple Time](spells/enchantment-00-c8R2fpk88fBwJ1ie.htm)|À trois temps|`@Compendium[pf2e.spells-srd.c8R2fpk88fBwJ1ie]`|
+|[True Seeing](spells/divination-06-uqlxMQQeSGWEVjki.htm)|Vision lucide|`@Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]`|
+|[True Strike](spells/divination-01-Gb7SeieEvd0pL2Eh.htm)|Coup au but|`@Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]`|
+|[True Target](spells/divination-07-AlbpWWN87yGegoAF.htm)|Cible verrouillée|`@Compendium[pf2e.spells-srd.AlbpWWN87yGegoAF]`|
+|[Unblinking Flame Revelation](spells/abjuration-03-VBNevVovTCpn04vL.htm)|Révélation de la flamme qui ne vacille pas|`@Compendium[pf2e.spells-srd.VBNevVovTCpn04vL]`|
+|[Unbreaking Wave Advance](spells/evocation-03-ytboJsyZEbE1MLeV.htm)|Avancée de la vague qui ne se brise pas|`@Compendium[pf2e.spells-srd.ytboJsyZEbE1MLeV]`|
+|[Uncontrollable Dance](spells/enchantment-08-Jvyy6oVIQsD34MHB.htm)|Danse incontrôlable|`@Compendium[pf2e.spells-srd.Jvyy6oVIQsD34MHB]`|
+|[Undeath's Blessing](spells/necromancy-01-FedTjedva2rYk33r.htm)|Bénédiction de la mort-vivance|`@Compendium[pf2e.spells-srd.FedTjedva2rYk33r]`|
+|[Undermine Reality](spells/illusion-08-YiIOsc8T6E2iDxgh.htm)|Saper la réalité|`@Compendium[pf2e.spells-srd.YiIOsc8T6E2iDxgh]`|
+|[Undetectable Alignment](spells/abjuration-02-FzAtX8yXBjTaisJK.htm)|Alignement indétectable|`@Compendium[pf2e.spells-srd.FzAtX8yXBjTaisJK]`|
+|[Unfathomable Song](spells/enchantment-09-FmNDwqMEjeTEGPrY.htm)|Chant énigmatique|`@Compendium[pf2e.spells-srd.FmNDwqMEjeTEGPrY]`|
+|[Unfettered Pack](spells/abjuration-07-bVtkBJvGLP69qVGI.htm)|Meute sans entrave|`@Compendium[pf2e.spells-srd.bVtkBJvGLP69qVGI]`|
+|[Unfolding Wind Rush](spells/evocation-03-tvO6Kmc2pQve9DC5.htm)|Ruée du vent qui see déploie|`@Compendium[pf2e.spells-srd.tvO6Kmc2pQve9DC5]`|
+|[Unimpeded Stride](spells/transmutation-01-gwOYh5zMVZB0HNcT.htm)|Déplacement sans réserve|`@Compendium[pf2e.spells-srd.gwOYh5zMVZB0HNcT]`|
+|[Unity](spells/abjuration-04-tYLBjOTvBVn9JtRb.htm)|Unité|`@Compendium[pf2e.spells-srd.tYLBjOTvBVn9JtRb]`|
+|[Unrelenting Observation](spells/divination-08-y2cQYLr5mljDSu1G.htm)|Observation implacable|`@Compendium[pf2e.spells-srd.y2cQYLr5mljDSu1G]`|
+|[Unseasonable Squall](spells/evocation-03-TT9owkeMBXJxcERB.htm)|Rafale hors saison|`@Compendium[pf2e.spells-srd.TT9owkeMBXJxcERB]`|
+|[Unseen Custodians](spells/conjuration-03-uuoPmbjEtqzWZs0v.htm)|Domestiques invisibles|`@Compendium[pf2e.spells-srd.uuoPmbjEtqzWZs0v]`|
+|[Unseen Servant](spells/conjuration-01-xqmHD8JIjak15lRk.htm)|Serviteur invisible|`@Compendium[pf2e.spells-srd.xqmHD8JIjak15lRk]`|
+|[Untwisting Iron Buffer](spells/abjuration-03-FPnkOYyWIaOzkmqn.htm)|Protection du fer qui ne plie pas|`@Compendium[pf2e.spells-srd.FPnkOYyWIaOzkmqn]`|
+|[Unusual Anatomy](spells/transmutation-05-ddKBoCjmSyPSHcws.htm)|Étrange anatomie|`@Compendium[pf2e.spells-srd.ddKBoCjmSyPSHcws]`|
+|[Upheaval](spells/conjuration-09-xxhS66k68u5iIOHC.htm)|Soulèvement|`@Compendium[pf2e.spells-srd.xxhS66k68u5iIOHC]`|
+|[Vampiric Exsanguination](spells/necromancy-06-fd31tAHSSGXyOxW6.htm)|Saignée du vampire|`@Compendium[pf2e.spells-srd.fd31tAHSSGXyOxW6]`|
+|[Vampiric Maiden](spells/necromancy-04-07xYlmGX32XtHGEt.htm)|Vierge vampirique|`@Compendium[pf2e.spells-srd.07xYlmGX32XtHGEt]`|
+|[Vampiric Touch](spells/necromancy-03-N1Z1oLPdBxaSgrEE.htm)|Contact vampirique|`@Compendium[pf2e.spells-srd.N1Z1oLPdBxaSgrEE]`|
+|[Veil](spells/illusion-04-hkfH9Z53hPzcOwNB.htm)|Voile|`@Compendium[pf2e.spells-srd.hkfH9Z53hPzcOwNB]`|
+|[Veil of Confidence](spells/enchantment-01-Q25JQAgnJSGgFDKZ.htm)|Voile de confiance|`@Compendium[pf2e.spells-srd.Q25JQAgnJSGgFDKZ]`|
+|[Veil of Dreams](spells/enchantment-01-NNoKWiWKqJkdD2ln.htm)|Voile de rêves|`@Compendium[pf2e.spells-srd.NNoKWiWKqJkdD2ln]`|
+|[Ventriloquism](spells/illusion-01-yV7Ouzaoe7DHLESI.htm)|Ventriloquie|`@Compendium[pf2e.spells-srd.yV7Ouzaoe7DHLESI]`|
+|[Verdant Sprout](spells/conjuration-01-EDABphKEPUBiMmQC.htm)|Éclosion verdoyante|`@Compendium[pf2e.spells-srd.EDABphKEPUBiMmQC]`|
+|[Vibrant Pattern](spells/illusion-06-RQjSQVZRG497cJhX.htm)|Motif éclatant|`@Compendium[pf2e.spells-srd.RQjSQVZRG497cJhX]`|
+|[Vibrant Thorns](spells/transmutation-01-nnSipUPNd3sm5vYL.htm)|Épines florissantes|`@Compendium[pf2e.spells-srd.nnSipUPNd3sm5vYL]`|
+|[Vigilant Eye](spells/divination-04-4LSf04FFvDgMyDk6.htm)|Œil vigilant|`@Compendium[pf2e.spells-srd.4LSf04FFvDgMyDk6]`|
+|[Vision of Weakness](spells/divination-02-NhNKzq1DvFxkvTEc.htm)|Vision de faiblesse|`@Compendium[pf2e.spells-srd.NhNKzq1DvFxkvTEc]`|
+|[Visions of Danger](spells/illusion-07-jBGAYmR0BkkbpJvG.htm)|Dangereuses visions|`@Compendium[pf2e.spells-srd.jBGAYmR0BkkbpJvG]`|
+|[Vital Beacon](spells/necromancy-04-ikSb3LRGnrwXJBVX.htm)|Fanal de vie|`@Compendium[pf2e.spells-srd.ikSb3LRGnrwXJBVX]`|
+|[Volcanic Eruption](spells/evocation-07-O7ZEqWjwdKyo2CUv.htm)|Eruption volcanique|`@Compendium[pf2e.spells-srd.O7ZEqWjwdKyo2CUv]`|
+|[Vomit Swarm](spells/evocation-02-cB17yFc9456Pyfec.htm)|Vomir une nuée|`@Compendium[pf2e.spells-srd.cB17yFc9456Pyfec]`|
+|[Wail of the Banshee](spells/necromancy-09-FEsuyf203wTNE2et.htm)|Plainte d'outre-tombe|`@Compendium[pf2e.spells-srd.FEsuyf203wTNE2et]`|
+|[Waking Nightmare](spells/enchantment-01-DU5daB09xwfE1y38.htm)|Cauchemar éveillé|`@Compendium[pf2e.spells-srd.DU5daB09xwfE1y38]`|
+|[Wall Of Flesh](spells/necromancy-05-ZLLY6ThJXCCrO0rL.htm)|Mur de chair|`@Compendium[pf2e.spells-srd.ZLLY6ThJXCCrO0rL]`|
+|[Wall of Fire](spells/evocation-04-IarZrgCeaiUqOuRu.htm)|Mur de feu|`@Compendium[pf2e.spells-srd.IarZrgCeaiUqOuRu]`|
+|[Wall of Force](spells/evocation-06-7Iela4GgVeO3LfAo.htm)|Mur de force|`@Compendium[pf2e.spells-srd.7Iela4GgVeO3LfAo]`|
+|[Wall of Ice](spells/evocation-05-R5FHRv7VqyRnxg2t.htm)|Mur de glace|`@Compendium[pf2e.spells-srd.R5FHRv7VqyRnxg2t]`|
+|[Wall of Stone](spells/conjuration-05-kOa055FIrO9Smnya.htm)|Mur de pierre|`@Compendium[pf2e.spells-srd.kOa055FIrO9Smnya]`|
+|[Wall of Thorns](spells/conjuration-03-KsWhliKfUs3IpW3c.htm)|Mur d'épines|`@Compendium[pf2e.spells-srd.KsWhliKfUs3IpW3c]`|
+|[Wall of Wind](spells/evocation-03-it4ZsAi6XgvGcodc.htm)|Mur de vent|`@Compendium[pf2e.spells-srd.it4ZsAi6XgvGcodc]`|
+|[Wanderer's Guide](spells/divination-03-ppA1StEigPLKEQqR.htm)|Guide du pélerin|`@Compendium[pf2e.spells-srd.ppA1StEigPLKEQqR]`|
+|[Ward Domain](spells/abjuration-06-Er9XNUlL0wB0PM36.htm)|Protection de domaine|`@Compendium[pf2e.spells-srd.Er9XNUlL0wB0PM36]`|
+|[Warp Mind](spells/enchantment-07-8kJbiBEjMWG4VUjs.htm)|Déformer l'esprit|`@Compendium[pf2e.spells-srd.8kJbiBEjMWG4VUjs]`|
+|[Warped Terrain](spells/illusion-01-fXdADBwxmBsU9xPk.htm)|Terrain déformé|`@Compendium[pf2e.spells-srd.fXdADBwxmBsU9xPk]`|
+|[Water Breathing](spells/transmutation-02-MZGkMsPBztFN0pUO.htm)|Respiration aquatique|`@Compendium[pf2e.spells-srd.MZGkMsPBztFN0pUO]`|
+|[Water Walk](spells/transmutation-02-Seaah9amXg70RKw2.htm)|Marche sur l'eau|`@Compendium[pf2e.spells-srd.Seaah9amXg70RKw2]`|
+|[Waters of Prediction](spells/divination-05-zaZieDHguhahmM2z.htm)||`@Compendium[pf2e.spells-srd.zaZieDHguhahmM2z]`|
+|[Weapon Storm](spells/evocation-04-8M03UxGXjYyDFAoy.htm)|Tempête d'armes|`@Compendium[pf2e.spells-srd.8M03UxGXjYyDFAoy]`|
+|[Weapon Surge](spells/evocation-01-W37iBXLsY2trJ1rS.htm)|Arme améliorée|`@Compendium[pf2e.spells-srd.W37iBXLsY2trJ1rS]`|
+|[Weapon of Judgement](spells/evocation-09-ZqmP9gijBmK7y8Xy.htm)|Arme du jugement|`@Compendium[pf2e.spells-srd.ZqmP9gijBmK7y8Xy]`|
+|[Web](spells/conjuration-02-9s5tqqXNzcoKamWx.htm)|Toile d'araignée|`@Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]`|
+|[Weird](spells/illusion-09-qDjeG6dxT4aEEC6J.htm)|Ennemi subconscient|`@Compendium[pf2e.spells-srd.qDjeG6dxT4aEEC6J]`|
+|[Whirling Flames](spells/evocation-03-Wi2HcreCfujKiCvW.htm)|Flammes tourbillonantes|`@Compendium[pf2e.spells-srd.Wi2HcreCfujKiCvW]`|
+|[Whirling Scarves](spells/abjuration-03-k9x6bXXpIgAXMDsx.htm)|Écharpes tourbillonnantes|`@Compendium[pf2e.spells-srd.k9x6bXXpIgAXMDsx]`|
+|[Wholeness of Body](spells/necromancy-02-qJZZdYBdNaWRJFER.htm)|Plénitude physique|`@Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]`|
+|[Wild Morph](spells/transmutation-01-0xR9vrt6uDFl0Umo.htm)|Métamorphose sauvage|`@Compendium[pf2e.spells-srd.0xR9vrt6uDFl0Umo]`|
+|[Wild Shape](spells/transmutation-01-8RWfKConLYFZpQ9X.htm)|Morphologie sauvage|`@Compendium[pf2e.spells-srd.8RWfKConLYFZpQ9X]`|
+|[Wild Winds Stance](spells/evocation-04-SkarN4VlNxSJSJNw.htm)|Posture des vents violents|`@Compendium[pf2e.spells-srd.SkarN4VlNxSJSJNw]`|
+|[Wilding Word](spells/enchantment-00-GdN5YQE47gd79k7X.htm)|Paroles sauvages|`@Compendium[pf2e.spells-srd.GdN5YQE47gd79k7X]`|
+|[Wind Jump](spells/transmutation-05-kRxlkPPe6Gr7Du59.htm)|Saut du vent|`@Compendium[pf2e.spells-srd.kRxlkPPe6Gr7Du59]`|
+|[Wind Walk](spells/transmutation-08-U0hL0LLaprcnAyzC.htm)|Voyage venteux|`@Compendium[pf2e.spells-srd.U0hL0LLaprcnAyzC]`|
+|[Winter Bolt](spells/evocation-01-DeNz6eAUlE0IE9U3.htm)|Décharge hivernale|`@Compendium[pf2e.spells-srd.DeNz6eAUlE0IE9U3]`|
+|[Wish](spells/divination-10-6dDtGIUerazSHIOu.htm)|Souhait|`@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]`|
+|[Wish-Twisted Form](spells/transmutation-05-B3tbO85GBpzQ3u8l.htm)|Forme déformée par un souhait|`@Compendium[pf2e.spells-srd.B3tbO85GBpzQ3u8l]`|
+|[Withering Grasp](spells/necromancy-01-7tp97g0UCJ9wOrd5.htm)|Poigne de flétrissement|`@Compendium[pf2e.spells-srd.7tp97g0UCJ9wOrd5]`|
+|[Word of Freedom](spells/abjuration-04-2jB9eyX7YekwoCvA.htm)|Mot de liberté|`@Compendium[pf2e.spells-srd.2jB9eyX7YekwoCvA]`|
+|[Word of Recall](spells/conjuration-07-nzbnTqHgNKiGZkrZ.htm)|Mot de Rappel|`@Compendium[pf2e.spells-srd.nzbnTqHgNKiGZkrZ]`|
+|[Word of Truth](spells/divination-01-aF7RiG7c8GzSQLYt.htm)|Mot de vérité|`@Compendium[pf2e.spells-srd.aF7RiG7c8GzSQLYt]`|
+|[Worm's Repast](spells/necromancy-02-H4oF5szC7aogqtvw.htm)|Repas du ver|`@Compendium[pf2e.spells-srd.H4oF5szC7aogqtvw]`|
+|[Wyvern Sting](spells/necromancy-05-IoHxAkK0uGqrgtWl.htm)|Dard de Wyverne|`@Compendium[pf2e.spells-srd.IoHxAkK0uGqrgtWl]`|
+|[You're Mine](spells/enchantment-05-x2LALaHXO7644GQA.htm)|Tu es à moi|`@Compendium[pf2e.spells-srd.x2LALaHXO7644GQA]`|
+|[Zeal for Battle](spells/enchantment-04-I8CPe9Pp7GABqOyB.htm)|Zèle au combat|`@Compendium[pf2e.spells-srd.I8CPe9Pp7GABqOyB]`|
+|[Zealous Conviction](spells/enchantment-06-GYD0XZ4t3tQq6shc.htm)|Conviction zélée|`@Compendium[pf2e.spells-srd.GYD0XZ4t3tQq6shc]`|
+|[Zenith Star](spells/divination-01-Yrek2Yd4k3DPC2zV.htm)|Étoile au zénith|`@Compendium[pf2e.spells-srd.Yrek2Yd4k3DPC2zV]`|
+|[Zone of Truth](spells/enchantment-03-aewxsale5xWEPKLk.htm)|Zone de vérité|`@Compendium[pf2e.spells-srd.aewxsale5xWEPKLk]`|
 
 
 ## Équipement
@@ -6926,7 +6961,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Indestructible Shield](equipment/armor-18-SUbYk6B1iPoGyyjh.htm)|Bouclier indestructible|`@Compendium[pf2e.equipment-srd.SUbYk6B1iPoGyyjh]`|
 |[Inexplicable Apparatus](equipment/equipment-18-V9iVPhIk980GT6A2.htm)|Appareil inexplicable|`@Compendium[pf2e.equipment-srd.V9iVPhIk980GT6A2]`|
 |[Infernal Health](equipment/equipment-15-SemkRkQPVBljg9Id.htm)||`@Compendium[pf2e.equipment-srd.SemkRkQPVBljg9Id]`|
-|[Infiltrator's Accessory](equipment/weapon-05-AYdpUABAZeZnSA7s.htm)|Accessoires|`@Compendium[pf2e.equipment-srd.AYdpUABAZeZnSA7s]`|
+|[Infiltrator's Accessory](equipment/weapon-05-AYdpUABAZeZnSA7s.htm)|Accessoires d'Infiltrateur|`@Compendium[pf2e.equipment-srd.AYdpUABAZeZnSA7s]`|
 |[Infiltrator's Elixir](equipment/consumable-02-cuomhpenkqGM5lLG.htm)|Elixir d'infiltration|`@Compendium[pf2e.equipment-srd.cuomhpenkqGM5lLG]`|
 |[Inscribed crocodile skull](equipment/treasure-00-K7KzNh3YsXBrDlyj.htm)|Crâne de crcodile inscrit|`@Compendium[pf2e.equipment-srd.K7KzNh3YsXBrDlyj]`|
 |[Insistent Door Knocker](equipment/equipment-06-I95zlGUDCply1Ydm.htm)||`@Compendium[pf2e.equipment-srd.I95zlGUDCply1Ydm]`|
@@ -7692,7 +7727,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sturdy Shield (Supreme)](equipment/armor-19-7Z8XXGiUiyyisKOD.htm)|Bouclier renforcé (ultime)|`@Compendium[pf2e.equipment-srd.7Z8XXGiUiyyisKOD]`|
 |[Sun Orchid Elixir](equipment/consumable-20-P9dhnMcr3lbHBn2E.htm)|Élixir d'orchidée solaire|`@Compendium[pf2e.equipment-srd.P9dhnMcr3lbHBn2E]`|
 |[Sun Orchid Poultice](equipment/consumable-18-1LKJvK9ofzIIkQX3.htm)||`@Compendium[pf2e.equipment-srd.1LKJvK9ofzIIkQX3]`|
-|[Sun Wheel](equipment/consumable-10-WW8uv3Nhg56UTZ35.htm)||`@Compendium[pf2e.equipment-srd.WW8uv3Nhg56UTZ35]`|
+|[Sun Wheel](equipment/consumable-05-WW8uv3Nhg56UTZ35.htm)||`@Compendium[pf2e.equipment-srd.WW8uv3Nhg56UTZ35]`|
 |[Sunrod](equipment/consumable-01-y4WJY8rCbY6d1MET.htm)|Bâton éclairant|`@Compendium[pf2e.equipment-srd.y4WJY8rCbY6d1MET]`|
 |[Survey Map](equipment/equipment-03-UhcRWtnjU2WLSClx.htm)|Carte d'état-major|`@Compendium[pf2e.equipment-srd.UhcRWtnjU2WLSClx]`|
 |[Survey Map (Atlas)](equipment/equipment-03-1M4SSDuTv2SwBltC.htm)||`@Compendium[pf2e.equipment-srd.1M4SSDuTv2SwBltC]`|

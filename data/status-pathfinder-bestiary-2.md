@@ -1,11 +1,11 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 171
- * **auto-trad**: 180
+ * **libre**: 175
+ * **auto-trad**: 176
  * **vide**: 7
 
 
-Dernière mise à jour: 2021-04-23 14:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-29 20:03 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -18,10 +18,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[hFbfXmjMkGEzMkQ1.htm](pathfinder-bestiary-2/hFbfXmjMkGEzMkQ1.htm)|Raven|auto-trad|
 |[hvKRgNiQtQJhHk9u.htm](pathfinder-bestiary-2/hvKRgNiQtQJhHk9u.htm)|Imentesh|auto-trad|
 |[hvoIxruNUei1auQT.htm](pathfinder-bestiary-2/hvoIxruNUei1auQT.htm)|Melody On The Wind|auto-trad|
-|[i8C4jqI3VdozylBL.htm](pathfinder-bestiary-2/i8C4jqI3VdozylBL.htm)|Cornugon|auto-trad|
-|[iLZpGlyBWxS4Idbi.htm](pathfinder-bestiary-2/iLZpGlyBWxS4Idbi.htm)|Emperor Cobra|auto-trad|
-|[j43O2vBu8eu2wC5z.htm](pathfinder-bestiary-2/j43O2vBu8eu2wC5z.htm)|Vrykolakas Master|auto-trad|
-|[jCJUvzs1FaL6PAkq.htm](pathfinder-bestiary-2/jCJUvzs1FaL6PAkq.htm)|Bodak|auto-trad|
 |[jgMFqFDNUWsrnnBH.htm](pathfinder-bestiary-2/jgMFqFDNUWsrnnBH.htm)|Tick Swarm|auto-trad|
 |[jhr6WpTeY8GXXwK1.htm](pathfinder-bestiary-2/jhr6WpTeY8GXXwK1.htm)|Ifrit Pyrochemist|auto-trad|
 |[jpjhbGvaduK4iqwq.htm](pathfinder-bestiary-2/jpjhbGvaduK4iqwq.htm)|Spark Bat|auto-trad|
@@ -350,6 +346,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Hwy4YrNVVr7NnsMC.htm](pathfinder-bestiary-2/Hwy4YrNVVr7NnsMC.htm)|Mudwretch|Créature de Boue|libre|
 |[HXWT5QxmOCn0poMt.htm](pathfinder-bestiary-2/HXWT5QxmOCn0poMt.htm)|Stingray|Raie Pastenague|libre|
 |[HzeOxVy3VXxaJmC5.htm](pathfinder-bestiary-2/HzeOxVy3VXxaJmC5.htm)|Adult Umbral Dragon|Dragon de l'Ombre Adulte|libre|
+|[i8C4jqI3VdozylBL.htm](pathfinder-bestiary-2/i8C4jqI3VdozylBL.htm)|Cornugon|Cornugon|libre|
+|[iLZpGlyBWxS4Idbi.htm](pathfinder-bestiary-2/iLZpGlyBWxS4Idbi.htm)|Emperor Cobra|Cobra empereur|libre|
+|[j43O2vBu8eu2wC5z.htm](pathfinder-bestiary-2/j43O2vBu8eu2wC5z.htm)|Vrykolakas Master|Maître Vrykolakas|libre|
+|[jCJUvzs1FaL6PAkq.htm](pathfinder-bestiary-2/jCJUvzs1FaL6PAkq.htm)|Bodak|Bodak|libre|
 |[JCoILqEvwovT7tkj.htm](pathfinder-bestiary-2/JCoILqEvwovT7tkj.htm)|Chupacabra|Chupacabra|libre|
 |[JgePINrFINmlsvn3.htm](pathfinder-bestiary-2/JgePINrFINmlsvn3.htm)|Hound Of Tindalos|Chien de Chasse de Tindalos|libre|
 |[JJKxWVExhUEno9j0.htm](pathfinder-bestiary-2/JJKxWVExhUEno9j0.htm)|Giant Leech|Sangsue Géante|libre|

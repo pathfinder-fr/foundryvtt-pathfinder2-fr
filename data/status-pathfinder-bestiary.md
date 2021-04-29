@@ -5,7 +5,7 @@
  * **officielle**: 7
 
 
-Dernière mise à jour: 2021-04-23 14:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-29 20:03 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -217,7 +217,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IMasNR02C74jy3cT.htm](pathfinder-bestiary/IMasNR02C74jy3cT.htm)|Adult Bronze Dragon|Dragon de bronze adulte|changé|
 |[ImueS9YFhV6sxqBP.htm](pathfinder-bestiary/ImueS9YFhV6sxqBP.htm)|Marilith|Marilith|changé|
 |[In2nNwo3JL1RXQhj.htm](pathfinder-bestiary/In2nNwo3JL1RXQhj.htm)|Riding Horse|Cheval de selle|changé|
-|[io7johJlZinrSCiH.htm](pathfinder-bestiary/io7johJlZinrSCiH.htm)|Dryad Queen|Dryade souveraine|changé|
+|[io7johJlZinrSCiH.htm](pathfinder-bestiary/io7johJlZinrSCiH.htm)|Dryad Queen|Dryade souveraine (Hamadryades)|changé|
 |[IpzDMSmJ42alvf9F.htm](pathfinder-bestiary/IpzDMSmJ42alvf9F.htm)|Scorpion Swarm|Nuée de scorpions|changé|
 |[IQsTNM8aXcCUmFu0.htm](pathfinder-bestiary/IQsTNM8aXcCUmFu0.htm)|Lamia|Lamie|changé|
 |[irrXrWxJ0LYSUCQB.htm](pathfinder-bestiary/irrXrWxJ0LYSUCQB.htm)|Adult Black Dragon|Dragon noir adulte|changé|

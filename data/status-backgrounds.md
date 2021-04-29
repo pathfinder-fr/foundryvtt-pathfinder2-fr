@@ -2,12 +2,24 @@
 
  * **libre**: 159
  * **officielle**: 45
+ * **auto-trad**: 6
  * **changé**: 2
 
 
-Dernière mise à jour: 2021-04-23 14:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-04-29 20:03 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions automatiques à corriger/retraduire
+
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|:----:|
+|[Am8kwC9c2GQ5bJAW.htm](backgrounds/Am8kwC9c2GQ5bJAW.htm)|Undercover Contender|auto-trad|
+|[LHk50lz5Kk5ZYTeo.htm](backgrounds/LHk50lz5Kk5ZYTeo.htm)|Abadar's Avenger|auto-trad|
+|[nXnaV9JwUG1N2dsg.htm](backgrounds/nXnaV9JwUG1N2dsg.htm)|Attention Addict|auto-trad|
+|[QnL7hqUi9HPenrbC.htm](backgrounds/QnL7hqUi9HPenrbC.htm)|Newcomer In Need|auto-trad|
+|[uF9nw15tK6b1bgre.htm](backgrounds/uF9nw15tK6b1bgre.htm)|Ruby Phoenix Fanatic|auto-trad|
+|[wz4fDeZtCvxC4vyO.htm](backgrounds/wz4fDeZtCvxC4vyO.htm)|Second Chance Champion|auto-trad|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
