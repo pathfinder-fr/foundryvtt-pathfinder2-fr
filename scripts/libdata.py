@@ -292,7 +292,11 @@ def dataToFile(data, filepath):
                 try:
                     df.write("%sFR: %s\n" % (key, "|".join(data['listsFR'][key]) if key in data['listsFR'] else ""))
                 except TypeError:
-                    df.write("%sFR: %s\n" % (key, "|".join(data['listsFR'][key]) if key in data['listsFR'.values()] else ""))
+                   values = ""
+                    for item in data['listsFR'][key]:
+                        for e in item.values():
+                            values += "|" + e
+                    df.write("%sFR: %s\n" % (key, values))
 
         df.write('État: ' + data['status'] + '\n')
         if 'oldstatus' in data:
@@ -309,13 +313,11 @@ def dataToFile(data, filepath):
                 df.write("SpoilersFR: %s\n" % spoilers)
             df.write("\n")
         except:
-            print("Pas de benefits et spoilers")
             try:
                 data['benefitsFR']
                 df.write('------ Benefits and spoiler ----' + '\n')
                 df.write("Avantage: %s\n" % data['benefitsFR'])
             except:
-                print("Pas d'avantage")
         df.write('------ Description (en) ------' + '\n')
         df.write(data['descrEN'] + '\n')
         df.write('------ Description (fr) ------' + '\n')
