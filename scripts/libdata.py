@@ -274,7 +274,6 @@ def fileToData(filepath):
 # cette fonction écrit les datas avec le benefits en plus
 #
 def dataToFile(data, filepath):
-    print(data["listsEN"])
     with open(filepath, 'w') as df:
         df.write('Name: ' + data['nameEN'] + '\n')
         df.write('Nom: ' + data['nameFR'] + '\n')
@@ -292,7 +291,7 @@ def dataToFile(data, filepath):
                 try:
                     df.write("%sFR: %s\n" % (key, "|".join(data['listsFR'][key]) if key in data['listsFR'] else ""))
                 except TypeError:
-                   values = ""
+                    values = ""
                     for item in data['listsFR'][key]:
                         for e in item.values():
                             values += "|" + e
@@ -318,6 +317,7 @@ def dataToFile(data, filepath):
                 df.write('------ Benefits and spoiler ----' + '\n')
                 df.write("Avantage: %s\n" % data['benefitsFR'])
             except:
+                print()
         df.write('------ Description (en) ------' + '\n')
         df.write(data['descrEN'] + '\n')
         df.write('------ Description (fr) ------' + '\n')
