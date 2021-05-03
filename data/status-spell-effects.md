@@ -1,11 +1,11 @@
 # État de la traduction (spell-effects)
 
- * **auto-trad**: 129
+ * **auto-trad**: 134
  * **libre**: 5
  * **changé**: 5
 
 
-Dernière mise à jour: 2021-04-29 18:20 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-02 21:02 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -116,6 +116,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[04-oJbcmpBSHwmx6FD4.htm](spell-effects/04-oJbcmpBSHwmx6FD4.htm)|Spell Effect: Dinosaur Form (Deinonychus)|auto-trad|
 |[04-R27azQfzeFuFc48G.htm](spell-effects/04-R27azQfzeFuFc48G.htm)|Spell Effect: Take Its Course (Affliction, Hinder)|auto-trad|
 |[04-T6XnxvsgvvOrpien.htm](spell-effects/04-T6XnxvsgvvOrpien.htm)|Spell Effect: Dinosaur Form (Stegosaurus)|auto-trad|
+|[04-UH2sT6eW5e31Xytd.htm](spell-effects/04-UH2sT6eW5e31Xytd.htm)|Spell Effect: Dutiful Challenge|auto-trad|
 |[04-UjoNm3lrhlg4ctAQ.htm](spell-effects/04-UjoNm3lrhlg4ctAQ.htm)|Spell Effect: Aerial Form (Pterosaur)|auto-trad|
 |[04-xgZxYqjDPNtsQ3Qp.htm](spell-effects/04-xgZxYqjDPNtsQ3Qp.htm)|Spell Effect: Aerial Form (Wasp)|auto-trad|
 |[05-5MI2c9IgxfSeGZQo.htm](spell-effects/05-5MI2c9IgxfSeGZQo.htm)|Spell Effect: Wind Jump|auto-trad|
@@ -146,6 +147,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[08-Eik8Fj8nGo2GLcbn.htm](spell-effects/08-Eik8Fj8nGo2GLcbn.htm)|Spell Effect: Monstrosity Form (Sea Serpent)|auto-trad|
 |[08-rEsgDhunQ5Yx8KZx.htm](spell-effects/08-rEsgDhunQ5Yx8KZx.htm)|Spell Effect: Monstrosity Form (Purple Worm)|auto-trad|
 |[08-rHXOZAFBdRXIlxt5.htm](spell-effects/08-rHXOZAFBdRXIlxt5.htm)|Spell Effect: Dragon Form (Black)|auto-trad|
+|[09-1p5LEpMSRFG1099t.htm](spell-effects/09-1p5LEpMSRFG1099t.htm)|Spell Effect: Ki Form (Lawful)|auto-trad|
+|[09-bbOdbGiRXGEQ2aY0.htm](spell-effects/09-bbOdbGiRXGEQ2aY0.htm)|Spell Effect: Ki Form (Positive)|auto-trad|
+|[09-F0XnusshRzgMdFT1.htm](spell-effects/09-F0XnusshRzgMdFT1.htm)|Spell Effect: Ki Form (Force)|auto-trad|
+|[09-h28nZ8JB5JBwr87U.htm](spell-effects/09-h28nZ8JB5JBwr87U.htm)|Spell Effect: Ki Form (Negative)|auto-trad|
 |[10-blBXnWb1Y8q8YYMh.htm](spell-effects/10-blBXnWb1Y8q8YYMh.htm)|Spell Effect: Primal Summons (Fire)|auto-trad|
 |[10-fwaAe71qfnK7SiOB.htm](spell-effects/10-fwaAe71qfnK7SiOB.htm)|Spell Effect: Primal Summons (Air)|auto-trad|
 |[10-NXzo2kdgVixIZ2T1.htm](spell-effects/10-NXzo2kdgVixIZ2T1.htm)|Spell Effect: Apex Companion|auto-trad|

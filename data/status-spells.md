@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **officielle**: 284
+ * **officielle**: 283
  * **libre**: 188
- * **changé**: 395
+ * **changé**: 396
  * **auto-trad**: 17
 
 
-Dernière mise à jour: 2021-04-29 18:20 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-02 21:02 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -119,6 +119,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-00-8bdt1TvNKzsCu9Ct.htm](spells/divination-00-8bdt1TvNKzsCu9Ct.htm)|Join Pasts|Joindre les passés|changé|
 |[divination-00-gpzpAAAJ1Lza2JVl.htm](spells/divination-00-gpzpAAAJ1Lza2JVl.htm)|Detect Magic|Détection de la magie|changé|
 |[divination-00-izcxFQFwf3woCnFs.htm](spells/divination-00-izcxFQFwf3woCnFs.htm)|Guidance|Assistance divine|changé|
+|[divination-00-OhD2Z6rIGGD5ocZA.htm](spells/divination-00-OhD2Z6rIGGD5ocZA.htm)|Read Aura|Lecture de l'aura|changé|
 |[divination-01-5Pc55FGGqVpIAJ62.htm](spells/divination-01-5Pc55FGGqVpIAJ62.htm)|Loremaster's Etude|Étude du maître savant|changé|
 |[divination-01-HOj2YsTpkoMpYJH9.htm](spells/divination-01-HOj2YsTpkoMpYJH9.htm)|Practice Makes Perfect|En forgeant on devient forgeron|changé|
 |[divination-01-RztmhJrLLQWoGVdB.htm](spells/divination-01-RztmhJrLLQWoGVdB.htm)|Object Memory|Mémoire de l'objet|changé|
@@ -541,7 +542,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-10-dMKP4fkWx8V2cqAy.htm](spells/conjuration-10-dMKP4fkWx8V2cqAy.htm)|Remake|Recréer|officielle|
 |[conjuration-10-U13bC0tNgrlHoeTK.htm](spells/conjuration-10-U13bC0tNgrlHoeTK.htm)|Gate|Portail|officielle|
 |[divination-00-G0T1xv1FoZ23Jxvt.htm](spells/divination-00-G0T1xv1FoZ23Jxvt.htm)|Nudge Fate|Coup de pouce au destin|libre|
-|[divination-00-OhD2Z6rIGGD5ocZA.htm](spells/divination-00-OhD2Z6rIGGD5ocZA.htm)|Read Aura|Lecture de l'aura|officielle|
 |[divination-00-tXa5vOu5giBNCjdR.htm](spells/divination-00-tXa5vOu5giBNCjdR.htm)|Know Direction|Repérage|officielle|
 |[divination-00-UmXhuKrYZR3W16mQ.htm](spells/divination-00-UmXhuKrYZR3W16mQ.htm)|Discern Secrets|Discerner les secrets|libre|
 |[divination-01-3mINzPzup2m9qzFU.htm](spells/divination-01-3mINzPzup2m9qzFU.htm)|Sepulchral Mask|Masque sépucral|libre|
