@@ -10,17 +10,20 @@ import logging
 from libdata import readFolder, dataToFile, getPacks, getValue, getList, equals
 from libselenium import translator_driver, full_trad
 
+print('Preparing translation')
 logging.basicConfig(filename='translation.log', level=logging.INFO)
   
 ROOT="../"
 
 # ouverture de la connexion a DeepL Translator
+print('Opening DeepL Translator connection')
 driver = translator_driver()
 
+print('Loading packs...')
 packs = getPacks()
 
 for p in packs:
-  
+  print('Preparing %s.db pack' % (p["id"]))
   FILE=ROOT + "packs/" + p["id"] + ".db"
   entries = {}
 

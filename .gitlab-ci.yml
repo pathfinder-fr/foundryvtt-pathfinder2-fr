@@ -1,17 +1,59 @@
 image: registry.gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr
 
-build:
-    stage: build
+variables:
+    CI_BUILD_MODULE:
+        value: "false"
+        description: "Indique si le module Foundry doit être généré. Indiquez true pour générer le module."
+    CI_DEPLOY_MODULE:
+        value: "true"
+        description: "Indique si le module Foudry généré doit être déployé. Uniquement valide si CI_BUILD_MODULE vaut true. Passez cette variable à false pour tester la génération du module sans la déployer."
+
+stages:
+    - prepare
+    - build
+
+before_script:
+    - git config --global user.email "pf2.fr.builder@gmail.com" && git config --global user.name "PF2FR Builder"
+
+prepare:
+    stage: prepare
     script:
-        - git config --global user.email "pf2.fr.builder@gmail.com" && git config --global user.name "PF2FR Builder"
-        - cd / && wget -q https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/jobs/artifacts/release/raw/pf2e.zip?job=build
-        - unzip -q pf2e.zip?job=build && mv pf2e/packs /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/packs
-        - cd /builds/pathfinder-fr/ && git clone https://gitlab.com/pathfinder-fr/pf2-data-fr.git
-        - cd /builds/pathfinder-fr/foundryvtt-pathfinder2-fr/scripts
-        - bash update-ci.sh
-        - cd /builds/pathfinder-fr/pf2-data-fr && git add -A && git commit -m "Automatic data update" && git push -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/pf2-data-fr.git
-        - echo "Done !"
-    only:
-        changes:
-            - scripts/*
-            - .gitlab-ci.yml
+        - cd scripts
+        # download latest foundry module data into "packs" directory
+        - bash build-ci-download.sh
+        # run prepare script    
+        - bash build-ci-prepare.sh
+    artifacts:
+        paths:
+            - packs/
+            - data/
+        expire_in: 20 minutes
+
+build:module:
+    stage: build
+    needs: ['prepare']
+    script:
+        # run update-module script
+        - cd scripts
+        - bash build-ci-module.sh
+    rules:
+        - if: '$CI_BUILD_MODULE == "true"'
+
+build:pf2-data-fr:
+    stage: build
+    needs: ['prepare']
+    script:
+        # clone pf2-data-fr repository
+        - cd $CI_PROJECT_DIR/..
+        - git clone https://gitlab.com/pathfinder-fr/pf2-data-fr.git
+        # run update-pf2-data-fr script    
+        - cd $CI_PROJECT_DIR/scripts
+        - bash build-ci-pf2datafr.sh
+        # commit & push changes
+        - cd $CI_PROJECT_DIR/../pf2-data-fr
+        - git add -A
+        - git commit -m "Automatic data update" || true
+        - git push -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/pf2-data-fr.git
+    rules:
+        # uniquement si l'on se trouve sur la branche "pf2-data-fr"
+        - if: '$CI_COMMIT_BRANCH == "pf2-data-fr"'

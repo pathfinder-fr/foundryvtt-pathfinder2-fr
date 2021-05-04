@@ -1,4 +1,4 @@
-packs
+packs/
 scripts/geckodriver.log
 scripts/errorlog.txt
 scripts/log.txt
