@@ -1,34 +1,19 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **changé**: 403
- * **auto-trad**: 18
- * **officielle**: 7
+ * **changé**: 402
+ * **libre**: 16
+ * **officielle**: 8
+ * **auto-trad**: 2
 
 
-Dernière mise à jour: 2021-04-23 14:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-02 21:02 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
 |-----------|-------------|:----:|
-|[7EpLGBoddL8Vzlha.htm](pathfinder-bestiary/7EpLGBoddL8Vzlha.htm)|Soulbound Doll (Chaotic Evil)|auto-trad|
-|[7ptWlh4t6oHvYOcj.htm](pathfinder-bestiary/7ptWlh4t6oHvYOcj.htm)|Soulbound Doll (Neutral Evil)|auto-trad|
-|[cXSTuUJct5iepH75.htm](pathfinder-bestiary/cXSTuUJct5iepH75.htm)|Pridespawn|auto-trad|
-|[iF5NeHC6ReqXLFmY.htm](pathfinder-bestiary/iF5NeHC6ReqXLFmY.htm)|Soulbound Doll (Neutral Good)|auto-trad|
-|[j0gCguJx3ILB1j9o.htm](pathfinder-bestiary/j0gCguJx3ILB1j9o.htm)|Soulbound Doll (Chaotic Good)|auto-trad|
 |[OPavstjKhgcp30fc.htm](pathfinder-bestiary/OPavstjKhgcp30fc.htm)|War Pony|auto-trad|
-|[Pl3J94dvVY159G64.htm](pathfinder-bestiary/Pl3J94dvVY159G64.htm)|Soulbound Doll (True Neutral)|auto-trad|
-|[pMoAlNjMJ7DArLPh.htm](pathfinder-bestiary/pMoAlNjMJ7DArLPh.htm)|Wrathspawn|auto-trad|
-|[q3LrTrfnCvoUXuRz.htm](pathfinder-bestiary/q3LrTrfnCvoUXuRz.htm)|Slothspawn|auto-trad|
-|[QGTSPki2eoLuavif.htm](pathfinder-bestiary/QGTSPki2eoLuavif.htm)|Envyspawn|auto-trad|
-|[RAjbVzWcfrPBbgkK.htm](pathfinder-bestiary/RAjbVzWcfrPBbgkK.htm)|Soulbound Doll (Lawful Good)|auto-trad|
-|[RizAUQHtPy0YRUyt.htm](pathfinder-bestiary/RizAUQHtPy0YRUyt.htm)|Soulbound Doll (Lawful Evil)|auto-trad|
-|[rJgUpdXBCMBrsJFf.htm](pathfinder-bestiary/rJgUpdXBCMBrsJFf.htm)|Soulbound Doll (Lawful Neutral)|auto-trad|
-|[triuze3NMe4kWpdS.htm](pathfinder-bestiary/triuze3NMe4kWpdS.htm)|Gluttonyspawn|auto-trad|
-|[w20FfmKH7ukghczT.htm](pathfinder-bestiary/w20FfmKH7ukghczT.htm)|Greedspawn|auto-trad|
-|[X03lxGz9ELv8rG2w.htm](pathfinder-bestiary/X03lxGz9ELv8rG2w.htm)|Soulbound Doll (Chaotic Neutral)|auto-trad|
-|[x8ZWNcFOfpJYjXOw.htm](pathfinder-bestiary/x8ZWNcFOfpJYjXOw.htm)|Lustspawn|auto-trad|
 |[YUk9S6caKqheRsUQ.htm](pathfinder-bestiary/YUk9S6caKqheRsUQ.htm)|Riding Pony|auto-trad|
 
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -217,7 +202,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IMasNR02C74jy3cT.htm](pathfinder-bestiary/IMasNR02C74jy3cT.htm)|Adult Bronze Dragon|Dragon de bronze adulte|changé|
 |[ImueS9YFhV6sxqBP.htm](pathfinder-bestiary/ImueS9YFhV6sxqBP.htm)|Marilith|Marilith|changé|
 |[In2nNwo3JL1RXQhj.htm](pathfinder-bestiary/In2nNwo3JL1RXQhj.htm)|Riding Horse|Cheval de selle|changé|
-|[io7johJlZinrSCiH.htm](pathfinder-bestiary/io7johJlZinrSCiH.htm)|Dryad Queen|Dryade souveraine|changé|
+|[io7johJlZinrSCiH.htm](pathfinder-bestiary/io7johJlZinrSCiH.htm)|Dryad Queen|Dryade souveraine (Hamadryades)|changé|
 |[IpzDMSmJ42alvf9F.htm](pathfinder-bestiary/IpzDMSmJ42alvf9F.htm)|Scorpion Swarm|Nuée de scorpions|changé|
 |[IQsTNM8aXcCUmFu0.htm](pathfinder-bestiary/IQsTNM8aXcCUmFu0.htm)|Lamia|Lamie|changé|
 |[irrXrWxJ0LYSUCQB.htm](pathfinder-bestiary/irrXrWxJ0LYSUCQB.htm)|Adult Black Dragon|Dragon noir adulte|changé|
@@ -328,7 +313,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rPaHIh0ICnTLnRO6.htm](pathfinder-bestiary/rPaHIh0ICnTLnRO6.htm)|Kobold Scout|Éclaireur kobold|changé|
 |[rPHxXClTnoPYHYuZ.htm](pathfinder-bestiary/rPHxXClTnoPYHYuZ.htm)|Basilisk|Basilic|changé|
 |[RTzFvmdSCf5yhguy.htm](pathfinder-bestiary/RTzFvmdSCf5yhguy.htm)|Xulgath Warrior|Guerrier xulgath|changé|
-|[RXEnAk6cbSnk3w7O.htm](pathfinder-bestiary/RXEnAk6cbSnk3w7O.htm)|Naiad|Naîade|changé|
 |[S35DifoycBwkxaGq.htm](pathfinder-bestiary/S35DifoycBwkxaGq.htm)|Demilich|Demi-liche|changé|
 |[S5z0mtoEhbz7BvE9.htm](pathfinder-bestiary/S5z0mtoEhbz7BvE9.htm)|Velociraptor|Velociraptor|changé|
 |[S8iX8sPaYFFYDoUq.htm](pathfinder-bestiary/S8iX8sPaYFFYDoUq.htm)|Bunyip|Bunyip|changé|
@@ -427,7 +411,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[zJro50sLFmOcDLdO.htm](pathfinder-bestiary/zJro50sLFmOcDLdO.htm)|Lemure|Lémure|changé|
 |[zJZqpx6pPW7dxEUV.htm](pathfinder-bestiary/zJZqpx6pPW7dxEUV.htm)|Giant Scorpion|Scorpion géant|changé|
 |[ZMr28tFTA5NUcBTi.htm](pathfinder-bestiary/ZMr28tFTA5NUcBTi.htm)|Web Lurker|Rôdeur des toiles|changé|
-|[Zn0p5YjELMjEwkqx.htm](pathfinder-bestiary/Zn0p5YjELMjEwkqx.htm)|Great Cyclops|Grands cyclops|changé|
+|[Zn0p5YjELMjEwkqx.htm](pathfinder-bestiary/Zn0p5YjELMjEwkqx.htm)|Great Cyclops|Grands cyclopes|changé|
 |[ZPAM4OavHmdgmGnw.htm](pathfinder-bestiary/ZPAM4OavHmdgmGnw.htm)|Centipede Swarm|Nuée de mille-pattes|changé|
 |[ZPjQkKVMi3xoPcU0.htm](pathfinder-bestiary/ZPjQkKVMi3xoPcU0.htm)|Wight|Nécrophage|changé|
 |[zq18QX6CBJNeUIgG.htm](pathfinder-bestiary/zq18QX6CBJNeUIgG.htm)|Gug|Gug|changé|
@@ -443,10 +427,27 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[7EpLGBoddL8Vzlha.htm](pathfinder-bestiary/7EpLGBoddL8Vzlha.htm)|Soulbound Doll (Chaotic Evil)|Poupée d'âme (Chaotique mauvais)|libre|
+|[7ptWlh4t6oHvYOcj.htm](pathfinder-bestiary/7ptWlh4t6oHvYOcj.htm)|Soulbound Doll (Neutral Evil)|Poupées d'âme (Neutre mauvais)|libre|
 |[aqW5sp9HPgZgpXxs.htm](pathfinder-bestiary/aqW5sp9HPgZgpXxs.htm)|Hill Giant|Géant des collines|officielle|
 |[cuET2PHGcE7eL7DJ.htm](pathfinder-bestiary/cuET2PHGcE7eL7DJ.htm)|Marid|Maride|officielle|
+|[cXSTuUJct5iepH75.htm](pathfinder-bestiary/cXSTuUJct5iepH75.htm)|Pridespawn|Rejeton de l'orgueil|libre|
+|[iF5NeHC6ReqXLFmY.htm](pathfinder-bestiary/iF5NeHC6ReqXLFmY.htm)|Soulbound Doll (Neutral Good)|Poupées d'âmes (Neutre bon)|libre|
+|[j0gCguJx3ILB1j9o.htm](pathfinder-bestiary/j0gCguJx3ILB1j9o.htm)|Soulbound Doll (Chaotic Good)|Poupée d'âme (Chaotique bon)|libre|
 |[j7NNPfZwD19BwSEZ.htm](pathfinder-bestiary/j7NNPfZwD19BwSEZ.htm)|Unseen Servant|Serviteur invisible|officielle|
 |[k9fM0vufbdsDPQul.htm](pathfinder-bestiary/k9fM0vufbdsDPQul.htm)|Fire Mephit|Méphite du feu|officielle|
 |[kFQorgvvyozQVSKi.htm](pathfinder-bestiary/kFQorgvvyozQVSKi.htm)|Balisse|Balisse|officielle|
+|[Pl3J94dvVY159G64.htm](pathfinder-bestiary/Pl3J94dvVY159G64.htm)|Soulbound Doll (True Neutral)|Poupée d'âme (Neutre strict)|libre|
+|[pMoAlNjMJ7DArLPh.htm](pathfinder-bestiary/pMoAlNjMJ7DArLPh.htm)|Wrathspawn|Rejeton de la colère|libre|
+|[q3LrTrfnCvoUXuRz.htm](pathfinder-bestiary/q3LrTrfnCvoUXuRz.htm)|Slothspawn|Rejeton de la paresse|libre|
+|[QGTSPki2eoLuavif.htm](pathfinder-bestiary/QGTSPki2eoLuavif.htm)|Envyspawn|Rejeton de l'envie|libre|
+|[RAjbVzWcfrPBbgkK.htm](pathfinder-bestiary/RAjbVzWcfrPBbgkK.htm)|Soulbound Doll (Lawful Good)|Poupée d'âme (Loyal bon)|libre|
+|[RizAUQHtPy0YRUyt.htm](pathfinder-bestiary/RizAUQHtPy0YRUyt.htm)|Soulbound Doll (Lawful Evil)|Poupée d'âme (Loyal mauvais)|libre|
+|[rJgUpdXBCMBrsJFf.htm](pathfinder-bestiary/rJgUpdXBCMBrsJFf.htm)|Soulbound Doll (Lawful Neutral)|Poupée d'âme (Loyal neutre)|libre|
+|[RXEnAk6cbSnk3w7O.htm](pathfinder-bestiary/RXEnAk6cbSnk3w7O.htm)|Naiad|Naïade|officielle|
+|[triuze3NMe4kWpdS.htm](pathfinder-bestiary/triuze3NMe4kWpdS.htm)|Gluttonyspawn|Rejeton de la gloutonnerie|libre|
+|[w20FfmKH7ukghczT.htm](pathfinder-bestiary/w20FfmKH7ukghczT.htm)|Greedspawn|Rejeton de l'avidité|libre|
 |[wjw8FQp4icafYash.htm](pathfinder-bestiary/wjw8FQp4icafYash.htm)|Living Whirlwind|Tourbillon vivant|officielle|
+|[X03lxGz9ELv8rG2w.htm](pathfinder-bestiary/X03lxGz9ELv8rG2w.htm)|Soulbound Doll (Chaotic Neutral)|Poupée d'âme (Chaotique neutre)|libre|
+|[x8ZWNcFOfpJYjXOw.htm](pathfinder-bestiary/x8ZWNcFOfpJYjXOw.htm)|Lustspawn|Rejeton de la luxure|libre|
 |[zUvgAbgeQH5t6DWs.htm](pathfinder-bestiary/zUvgAbgeQH5t6DWs.htm)|Choral|Chœur|officielle|

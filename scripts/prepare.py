@@ -113,7 +113,7 @@ for p in packs:
       change = False
       #if p["name"] == "feats-srd":
       #  change = True 
-      
+
       if change or not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']):
         existing[id]['nameEN'] = source['name']
         existing[id]['descrEN'] = source['desc']
@@ -148,7 +148,7 @@ for p in packs:
         name = source["name"]
         if len(source['desc']) > 0:
           # Automatic translation
-          logging.info("Translating %s" % source['nameEN'])
+          logging.info("Translating %s" % name)
           translation_data = full_trad(driver, source['desc'])
           tradDesc = translation_data.data
           status = translation_data.status

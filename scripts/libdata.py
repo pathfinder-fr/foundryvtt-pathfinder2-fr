@@ -17,7 +17,7 @@ SUPPORTED = {
                          'type2': "data.level.value"}},
     "feats": {'transl': "Dons",
               "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value",
-                        'type2': "data.level.value"}, "lists": {'Prereq': "data.prerequisites"}},
+                        'type2': "data.level.value"}, "lists": {'Prereq': "data.prerequisites.value"}},
     "equipment": {'transl': "Équipement", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "type",
                                                     'type2': "data.level.value"}},
     "conditionspf2e": {'transl': "Conditions", "paths": {'name': "name", 'desc': "content"}},
@@ -79,6 +79,9 @@ def getPacks():
       
   return packs
 
+
+
+
 #
 # cette fonction retourn vrai si les deux textes sont identiques
 # (ignore les retours à la ligne)
@@ -95,8 +98,22 @@ def equals(val1, val2):
                 return False
             # contenu est une liste
             # retirer les vides des listes
-            list1 = [e.strip() for e in val1[k] if len(e.strip()) > 0]
-            list2 = [e.strip() for e in val2[k] if len(e.strip()) > 0]
+            list1 = []
+            list2 = []
+            try:
+                list1 = [e.strip() for e in val1[k] if len(e.strip()) > 0]
+            except AttributeError:
+                for item in val1[k]:
+                    for e in item.values():
+                        if len(e.strip())>0:
+                            list1 += [e.strip()]
+            try:
+                list2 = [e.strip() for e in val2[k] if len(e.strip()) > 0]
+            except AttributeError:
+                for item in val2[k]:
+                    for e in item.values():
+                        if len(e.strip())>0:
+                            list2 += [e.strip()]
             if list1 != list2:
                 return False
         return True
@@ -263,8 +280,22 @@ def dataToFile(data, filepath):
 
         if data['listsEN']:
             for key in data['listsEN']:
-                df.write("%sEN: %s\n" % (key, "|".join(data['listsEN'][key])))
-                df.write("%sFR: %s\n" % (key, "|".join(data['listsFR'][key]) if key in data['listsFR'] else ""))
+                try:
+                    df.write("%sEN: %s\n" % (key, "|".join(data['listsEN'][key])))
+                except TypeError:
+                    values = ""
+                    for item in data['listsEN'][key]:
+                        for e in item.values():
+                            values += "|" + e
+                    df.write("%sEN: %s\n" % (key, values))
+                try:
+                    df.write("%sFR: %s\n" % (key, "|".join(data['listsFR'][key]) if key in data['listsFR'] else ""))
+                except TypeError:
+                    values = ""
+                    for item in data['listsFR'][key]:
+                        for e in item.values():
+                            values += "|" + e
+                    df.write("%sFR: %s\n" % (key, values))
 
         df.write('État: ' + data['status'] + '\n')
         if 'oldstatus' in data:
@@ -281,13 +312,12 @@ def dataToFile(data, filepath):
                 df.write("SpoilersFR: %s\n" % spoilers)
             df.write("\n")
         except:
-            print("Pas de benefits et spoilers")
             try:
                 data['benefitsFR']
                 df.write('------ Benefits and spoiler ----' + '\n')
                 df.write("Avantage: %s\n" % data['benefitsFR'])
             except:
-                print("Pas d'avantage")
+                x=0
         df.write('------ Description (en) ------' + '\n')
         df.write(data['descrEN'] + '\n')
         df.write('------ Description (fr) ------' + '\n')

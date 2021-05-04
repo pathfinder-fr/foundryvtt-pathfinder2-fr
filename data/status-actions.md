@@ -1,18 +1,22 @@
 # État de la traduction (actions)
 
- * **officielle**: 109
+ * **officielle**: 105
  * **libre**: 49
- * **changé**: 1
+ * **changé**: 5
 
 
-Dernière mise à jour: 2021-04-23 14:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-02 21:02 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[bT3skovyLUtP22ME.htm](actions/bT3skovyLUtP22ME.htm)|Repair|Réparer|changé|
+|[EA5vuSgJfiHH7plD.htm](actions/EA5vuSgJfiHH7plD.htm)|Track|Pister|changé|
 |[rmwa3OyhTZ2i2AHl.htm](actions/rmwa3OyhTZ2i2AHl.htm)|Craft|Fabriquer|changé|
+|[SjmKHgI7a5Z9JzBx.htm](actions/SjmKHgI7a5Z9JzBx.htm)|Force Open|Ouvrir de force|changé|
+|[yzNJgwzV9XqEhKc6.htm](actions/yzNJgwzV9XqEhKc6.htm)|Quick Alchemy|Alchimie rapide|changé|
 
 ## Liste des traductions complétés
 
@@ -51,7 +55,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BKnN9la3WNrRgZ6n.htm](actions/BKnN9la3WNrRgZ6n.htm)|Conduct Energy|Conduire l'énergie|libre|
 |[BlAOM2X92SI6HMtJ.htm](actions/BlAOM2X92SI6HMtJ.htm)|Seek|Chercher|officielle|
 |[bp0Up04x3dzGK5bB.htm](actions/bp0Up04x3dzGK5bB.htm)|Debilitating Strike|Frappe incapacitante|officielle|
-|[bT3skovyLUtP22ME.htm](actions/bT3skovyLUtP22ME.htm)|Repair|Réparer|officielle|
 |[c8TGiZ48ygoSPofx.htm](actions/c8TGiZ48ygoSPofx.htm)|Swim|Nager|officielle|
 |[CrUPaPlsxy2bswaT.htm](actions/CrUPaPlsxy2bswaT.htm)|Mesmerizing Performance|Performance hypnotisante|libre|
 |[cS9nfDRGD83bNU1p.htm](actions/cS9nfDRGD83bNU1p.htm)|Fly|Voler|officielle|
@@ -67,7 +70,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dt6B1slsBy8ipJu9.htm](actions/Dt6B1slsBy8ipJu9.htm)|Disarm|Désarmer|officielle|
 |[DXIZ4DHGxhZiWNWb.htm](actions/DXIZ4DHGxhZiWNWb.htm)|Long Term Rest|Repos long|officielle|
 |[e2ePMDa7ixbLRryj.htm](actions/e2ePMDa7ixbLRryj.htm)|Encouraging Words|Paroles encourageantes|libre|
-|[EA5vuSgJfiHH7plD.htm](actions/EA5vuSgJfiHH7plD.htm)|Track|Pister|officielle|
 |[EAP98XaChJEbgKcK.htm](actions/EAP98XaChJEbgKcK.htm)|Retributive Strike|Frappe punitive|officielle|
 |[EEDElIyin4z60PXx.htm](actions/EEDElIyin4z60PXx.htm)|Perform|Se produire|officielle|
 |[EfjoIuDmtUn4yiow.htm](actions/EfjoIuDmtUn4yiow.htm)|Opportune Riposte|Riposte opportune|libre|
@@ -143,7 +145,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[S9PZFOVe7zhORkUc.htm](actions/S9PZFOVe7zhORkUc.htm)|Absorb into the Aegis|Absorber dans l'égide|libre|
 |[SB7cMECVtE06kByk.htm](actions/SB7cMECVtE06kByk.htm)|Cover Tracks|Dissimuler des traces|officielle|
 |[SeUolRoPzorFUAaI.htm](actions/SeUolRoPzorFUAaI.htm)|Recall Knowledge (Medicine)|Se souvenir (Médecine)|officielle|
-|[SjmKHgI7a5Z9JzBx.htm](actions/SjmKHgI7a5Z9JzBx.htm)|Force Open|Ouvrir de force|officielle|
 |[SkZAQRkLLkmBQNB9.htm](actions/SkZAQRkLLkmBQNB9.htm)|Escape|S'échapper|officielle|
 |[sn2hIy1iIJX9Vpgj.htm](actions/sn2hIy1iIJX9Vpgj.htm)|Point Out|Signaler|officielle|
 |[TC7OcDa7JlWbqMaN.htm](actions/TC7OcDa7JlWbqMaN.htm)|Treat Disease|Soigner une maladie|officielle|
@@ -175,4 +176,3 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[XSGlLjI80LDCimAP.htm](actions/XSGlLjI80LDCimAP.htm)|Sustain an Activation|Maintenir une activation|officielle|
 |[xTK2zsWFyxSJvYbX.htm](actions/xTK2zsWFyxSJvYbX.htm)|Pursue a Lead|Suivre une piste|libre|
 |[Yb0C1uLzeHrVLl7a.htm](actions/Yb0C1uLzeHrVLl7a.htm)|Detect Magic|Détection de la magie|officielle|
-|[yzNJgwzV9XqEhKc6.htm](actions/yzNJgwzV9XqEhKc6.htm)|Quick Alchemy|Alchimie rapide|officielle|

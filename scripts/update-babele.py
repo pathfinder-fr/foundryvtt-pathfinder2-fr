@@ -20,8 +20,13 @@ def addLists(pack, data, entry):
   if "lists" in pack and "listsFR" in data:
     for k in pack["lists"]:
       if len(data["listsFR"][k]) > 0:
-        entry[k.lower()] = data["listsFR"][k]
-
+        if k == "Prereq":
+          json_array = []
+          for item in data["listsFR"][k]:
+            json_array += [{ "value": item }]
+          entry[k.lower()] = json_array
+        else:
+          entry[k.lower()] = data["listsFR"][k]
 
 packs = getPacks()
 translations = {}
