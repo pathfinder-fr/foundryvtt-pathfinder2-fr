@@ -3,6 +3,8 @@
 Ce dépôt est un module pour foundry VTT (https://foundryvtt.com/).
 Le module améliore le système pathfinder2 pour le français.
 
+[![pipeline](https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/badges/master/pipeline.svg?style=flat-square&key_text=validité%20traduction&key_width=130)](https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/commits/master)
+
 ## Traducteurs
 
 * Les fichiers à traduire ou à corriger se trouvent dans le répertoire [data](data/)
