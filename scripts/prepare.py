@@ -7,7 +7,7 @@ import os
 import re
 import logging
 
-from libdata import readFolder, dataToFile, getPacks, getValue, getList, equals
+from libdata import readFolder, dataToFile, getPacks, getValue, getList, equals, print_error, print_warning
 from libselenium import translator_driver, full_trad
 
 print('Preparing translation')
@@ -32,7 +32,7 @@ for p in packs:
   # =================================
   # read pack files and generate dict
   # =================================
-  with open(FILE, 'r') as f:
+  with open(FILE, 'r', encoding='utf8') as f:
     content = f.readlines()
 
   count = 0
@@ -41,7 +41,7 @@ for p in packs:
     try:
       obj = json.loads(line)
     except:
-      print("\e[33mInvalid json %s at line %d\e[0m" % (FILE, count))
+      print_error("Invalid json %s at line %d" % (FILE, count))
       continue
     
     if '$$deleted' in obj:
@@ -69,7 +69,7 @@ for p in packs:
   duplic = {}
   for id in entries:
     if entries[id]['name'] in duplic:
-      print("\e[33mDuplicated name: %s (%s)\e[0m" % (entries[id]['name'], id))
+      print_warning("Duplicated name: %s (%s)\e[0m" % (entries[id]['name'], id))
       #entries[id] = None
     else:
       duplic[entries[id]['name']] = id
@@ -84,7 +84,7 @@ for p in packs:
 
   # si le pack contient au moins une erreur à la lecture, on arrête de l'examiner
   if pack_has_errors == True:
-    print("\e[31mInvalid data in pack %s, skipping\e[0m" % (pack_id))
+    print_error("Invalid data in pack %s, skipping" % (pack_id))
     has_errors = True
     continue
   
@@ -115,7 +115,7 @@ for p in packs:
       
       # check status from existing file
       if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé", "auto-trad", "auto-googtrad", "vide"):
-        print("\e[31mStatus error for : %s\e[0m" % filepath);
+        print_error("Status error for : %s" % filepath);
         has_errors = True
         continue
        
@@ -183,7 +183,7 @@ for p in packs:
     if not id in entries:
       filename = "%sdata/%s/%s" % (ROOT, pack_id, existing[id]['filename'])
       if existing[id]['status'] != 'aucune':
-        print("\e[33mFile cannot be safely removed! %s, please fix manually!\e[0m" % filename)
+        print_warning("File cannot be safely removed! %s, please fix manually!" % filename)
       
       os.remove(filename)
 
@@ -191,5 +191,5 @@ for p in packs:
 driver.quit()
 
 if has_errors:
-  print("\e[31mAu moins une erreur survenue durant la préparation, échec\e[0m")
+  print_error("Au moins une erreur survenue durant la préparation, échec")
   exit(1)
