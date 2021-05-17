@@ -342,6 +342,7 @@ def readFolder(path):
     resultById = {}
     resultByName = {}
     all_files = os.listdir(path)
+    has_errors = False
 
     # read all files in folder
     for fpath in all_files:
@@ -350,14 +351,13 @@ def readFolder(path):
         data['filename'] = fpath
 
         if data['id'] in resultById:
-            print("Duplicate data %s %s" % (path + resultById[data['id']]['filename'], path + data['filename']))
-            print("Please fix it manually!")
-            exit(1)
+            print("Duplicate data %s and %s, please fix it manually!" % (path + resultById[data['id']]['filename'], path + data['filename']))
+            has_errors = True
+        else:
+            resultById[data['id']] = data
+            resultByName[data['nameEN']] = data
 
-        resultById[data['id']] = data
-        resultByName[data['nameEN']] = data
-
-    return [resultById, resultByName]
+    return [resultById, resultByName, has_errors]
 
 #
 # Vérifie si la chaîne text est vide, et renvoie None si c'est le cas
