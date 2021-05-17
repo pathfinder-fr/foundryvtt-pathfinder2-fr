@@ -1,19 +1,23 @@
 # État de la traduction (classfeatures)
 
  * **changé**: 196
- * **officielle**: 117
+ * **officielle**: 118
  * **libre**: 53
- * **auto-trad**: 1
+ * **auto-trad**: 5
 
 
-Dernière mise à jour: 2021-05-02 21:02 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-17 07:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
 |-----------|-------------|:----:|
-|[cleric-11-o8nHreMyiLi64rZz.htm](classfeatures/cleric-11-o8nHreMyiLi64rZz.htm)|Fourth Doctrine|auto-trad|
+|[alchemist-13-bv3Qel8v9tpoFbw4.htm](classfeatures/alchemist-13-bv3Qel8v9tpoFbw4.htm)|Alchemist Armor Expertise (Level 13)|auto-trad|
+|[alchemist-19-FiVYuIPTBzPzNP4E.htm](classfeatures/alchemist-19-FiVYuIPTBzPzNP4E.htm)|Alchemist Armor Mastery (Level 19)|auto-trad|
+|[monk-07-1K6m6AVmn3r8XZ9d.htm](classfeatures/monk-07-1K6m6AVmn3r8XZ9d.htm)|Path to Perfection|auto-trad|
+|[monk-11-y6qnbUc8y0815QNE.htm](classfeatures/monk-11-y6qnbUc8y0815QNE.htm)|Second Path to Perfection|auto-trad|
+|[monk-15-haoTkr2U5k7kaAKN.htm](classfeatures/monk-15-haoTkr2U5k7kaAKN.htm)|Third Path to Perfection|auto-trad|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -50,7 +54,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-01-fykh5pE99O3I2sOI.htm](classfeatures/champion-01-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|changé|
 |[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant|Tyran [Loyal mauvais]|changé|
 |[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|Les principes du Mal|changé|
-|[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du bien|changé|
 |[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin|Paladin (Loyal Bon)|changé|
 |[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|changé|
 |[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer|Rédempteur (Neutre Bon)|changé|
@@ -99,7 +102,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[monk-13-0iidKkzC2yy13lIf.htm](classfeatures/monk-13-0iidKkzC2yy13lIf.htm)|Master Strikes|Frappes de maître|changé|
 |[monk-13-95LI24ZSx0d4qfKX.htm](classfeatures/monk-13-95LI24ZSx0d4qfKX.htm)|Graceful Mastery|Maîtrise gracieuse|changé|
 |[monk-15-8kukH9c4h82e3qjl.htm](classfeatures/monk-15-8kukH9c4h82e3qjl.htm)|Third Path to Perfection (Reflex)|Troisième voie vers la perfection - Réflexes|changé|
-|[monk-15-dUMsM0yDTCdV31p6.htm](classfeatures/monk-15-dUMsM0yDTCdV31p6.htm)|Third Path to Perfection (Fortitude)|Troisième voie vers la perfection -|changé|
 |[monk-15-oVNRYF0FHbH8NsJD.htm](classfeatures/monk-15-oVNRYF0FHbH8NsJD.htm)|Third Path to Perfection (Will)|Troisième voie vers la perfection - Volonté|changé|
 |[monk-17-5cthRUkRqRtduVvN.htm](classfeatures/monk-17-5cthRUkRqRtduVvN.htm)|Adamantine Strikes|Frappes d'adamantium|changé|
 |[monk-17-JWDfzYub3JfuEtth.htm](classfeatures/monk-17-JWDfzYub3JfuEtth.htm)|Graceful Legend|Légende gracieuse|changé|
@@ -123,18 +125,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-17-F4brPlp1tHGUqyuI.htm](classfeatures/oracle-17-F4brPlp1tHGUqyuI.htm)|Extreme Curse|Malédiction extrême|changé|
 |[oracle-19-571c1aGnvNVwfF6b.htm](classfeatures/oracle-19-571c1aGnvNVwfF6b.htm)|Oracular Clarity|Clarté oraculaire|changé|
 |[ranger-01-0nIOGpHQNHsKSFKT.htm](classfeatures/ranger-01-0nIOGpHQNHsKSFKT.htm)|Hunt Prey|Chasser une proie|changé|
+|[ranger-01-6v4Rj7wWfOH1882r.htm](classfeatures/ranger-01-6v4Rj7wWfOH1882r.htm)|Hunter's Edge: Flurry|Spécialité du chasseur : Déluge|changé|
 |[ranger-05-PeZi7E9lI4vz8EGY.htm](classfeatures/ranger-05-PeZi7E9lI4vz8EGY.htm)|Trackless Step|Absence de traces|changé|
 |[ranger-05-QhoW8ivPvYmWzyEZ.htm](classfeatures/ranger-05-QhoW8ivPvYmWzyEZ.htm)|Ranger Weapon Expertise|Expertise avec les armes du rôdeur|changé|
 |[ranger-09-5likl5SAxQPrQ3KF.htm](classfeatures/ranger-09-5likl5SAxQPrQ3KF.htm)|Ranger Expertise|Expertise du rôdeur|changé|
 |[ranger-09-j2R64kwUgEJ1TudD.htm](classfeatures/ranger-09-j2R64kwUgEJ1TudD.htm)|Nature's Edge|Avantage naturel|changé|
 |[ranger-11-RlwE99yKnhq8FUuy.htm](classfeatures/ranger-11-RlwE99yKnhq8FUuy.htm)|Wild Stride|Déplacement facilité en milieu naturel|changé|
+|[ranger-17-RVZC4wVy5B5W2OeS.htm](classfeatures/ranger-17-RVZC4wVy5B5W2OeS.htm)|Masterful Hunter|Maître chasseur|changé|
 |[ranger-19-bBGb1LcffXEqar0p.htm](classfeatures/ranger-19-bBGb1LcffXEqar0p.htm)|Swift Prey|Changement rapide de proie|changé|
 |[ranger-19-phwQ2MrDZ13D2HxC.htm](classfeatures/ranger-19-phwQ2MrDZ13D2HxC.htm)|Second Skin|Seconde peau|changé|
 |[rogue-01-3KPZ7svIO6kmmEKH.htm](classfeatures/rogue-01-3KPZ7svIO6kmmEKH.htm)|Ruffian Racket|Trafic de roublard : Voyou|changé|
 |[rogue-01-D8qtAo2w4jsqjBrM.htm](classfeatures/rogue-01-D8qtAo2w4jsqjBrM.htm)|Eldritch Trickster Racket|Trafic de roublard : Mystificateur|changé|
 |[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|changé|
 |[rogue-01-RyOkmu0W9svavuAB.htm](classfeatures/rogue-01-RyOkmu0W9svavuAB.htm)|Mastermind Racket|Trafic de roublard : Cerveau|changé|
-|[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|changé|
 |[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Trafic de roublard : Scélérat|changé|
 |[rogue-03-PNpmVmD21zViDtGC.htm](classfeatures/rogue-03-PNpmVmD21zViDtGC.htm)|Deny Advantage (Level 3)|Refus d'avantage (Niveau 3)|changé|
 |[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|changé|
@@ -192,6 +195,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[witch-01-XFTWJO6txmLNRLae.htm](classfeatures/witch-01-XFTWJO6txmLNRLae.htm)|Night Patron|Patron : Nuit|changé|
 |[witch-01-yksPhweBZYVCsE1A.htm](classfeatures/witch-01-yksPhweBZYVCsE1A.htm)|Familiar (Witch)|Familier (Sorcière)|changé|
 |[witch-01-zT6QiTMxxj8JYoN9.htm](classfeatures/witch-01-zT6QiTMxxj8JYoN9.htm)|Witch Spellcasting|Incantation de sorcière|changé|
+|[witch-11-O99eXctsEjEpuBwe.htm](classfeatures/witch-11-O99eXctsEjEpuBwe.htm)|Weapon Expertise (Level 11)|Expertise avec les armes (Niveau 11)|changé|
 |[witch-19-cDnFXfl3i5Z2l7JP.htm](classfeatures/witch-19-cDnFXfl3i5Z2l7JP.htm)|Patron's Gift|Don du patron|changé|
 |[wizard-01-89zWKD2CN7nRu2xp.htm](classfeatures/wizard-01-89zWKD2CN7nRu2xp.htm)|Arcane Thesis: Metamagical Experimentation|Thèse arcanique : Expérimentation métamagique|changé|
 |[wizard-01-au0lwQ1nAcNQwcGh.htm](classfeatures/wizard-01-au0lwQ1nAcNQwcGh.htm)|Arcane Bond|Lien arcanique|changé|
@@ -284,6 +288,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-03-TUOeATt52P43r5W0.htm](classfeatures/bard-03-TUOeATt52P43r5W0.htm)|Lightning Reflexes (Level 3)|Réflexes fulgurants (Niveau 3)|officielle|
 |[bard-19-NjsOpWbbzUY2Hpk3.htm](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum Opus|Magnum opus|officielle|
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|officielle|
+|[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du Bien|officielle|
 |[champion-01-sXVX4ARUuo8Egrz5.htm](classfeatures/champion-01-sXVX4ARUuo8Egrz5.htm)|Champion's Reaction|Réaction de champion|officielle|
 |[champion-07-x5jaCJxsmD5sx3KB.htm](classfeatures/champion-07-x5jaCJxsmD5sx3KB.htm)|Armor Expertise (Level 7)|Expertise avec les armures (Niveau 7)|officielle|
 |[champion-11-uptzvOLrZ3fctrl2.htm](classfeatures/champion-11-uptzvOLrZ3fctrl2.htm)|Exalt|Éxaltation|officielle|
@@ -305,7 +310,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-07-s8WEmc4GGZSHSC7q.htm](classfeatures/cleric-07-s8WEmc4GGZSHSC7q.htm)|Third Doctrine (Cloistered Cleric)|Troisième dogme (Prêtre cloîtré)|officielle|
 |[cleric-07-Zp81uTBItG1xlH4O.htm](classfeatures/cleric-07-Zp81uTBItG1xlH4O.htm)|Third Doctrine (Warpriest)|Troisième dogme (Prêtre combattant)|officielle|
 |[cleric-09-D2g6sZQAWaTccviQ.htm](classfeatures/cleric-09-D2g6sZQAWaTccviQ.htm)|Resolve (Level 9)|Résolution (Niveau 9)|libre|
-|[cleric-11-7PzcKaDGy6tIkQh4.htm](classfeatures/cleric-11-7PzcKaDGy6tIkQh4.htm)|Lightning Reflexes (Level 11)|Réflexes éclair (Niveau 11)|libre|
+|[cleric-11-7PzcKaDGy6tIkQh4.htm](classfeatures/cleric-11-7PzcKaDGy6tIkQh4.htm)|Lightning Reflexes (Level 11)|Réflexes fulgurants (Niveau 11)|libre|
+|[cleric-11-o8nHreMyiLi64rZz.htm](classfeatures/cleric-11-o8nHreMyiLi64rZz.htm)|Fourth Doctrine|Doctrine : quatrième dogme|libre|
 |[cleric-11-px3gVYp7zlEQIpcl.htm](classfeatures/cleric-11-px3gVYp7zlEQIpcl.htm)|Fourth Doctrine (Warpriest)|Quatrième dogme (Prêtre combattant)|officielle|
 |[cleric-11-vxOf4LXZcqUG3P7a.htm](classfeatures/cleric-11-vxOf4LXZcqUG3P7a.htm)|Fourth Doctrine (Cloistered Cleric)|Quatrième dogme (Prêtre cloîtré)|officielle|
 |[cleric-13-0mJTp4LdEHBLInoe.htm](classfeatures/cleric-13-0mJTp4LdEHBLInoe.htm)|Divine Defense|Défense divine|officielle|
@@ -338,6 +344,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[investigator-11-vv63fioCtOvDIdF2.htm](classfeatures/investigator-11-vv63fioCtOvDIdF2.htm)|Resolve (Level 11)|Résolution (Niveau 11)|libre|
 |[investigator-15-DqWr3LqUpT3Xi2xq.htm](classfeatures/investigator-15-DqWr3LqUpT3Xi2xq.htm)|Evasion (Level 15)|Évasion (Niveau 15)|officielle|
 |[monk-05-2o1Cj7hDayDlslqY.htm](classfeatures/monk-05-2o1Cj7hDayDlslqY.htm)|Alertness (Level 5)|Vigilance (Niveau 5)|officielle|
+|[monk-15-dUMsM0yDTCdV31p6.htm](classfeatures/monk-15-dUMsM0yDTCdV31p6.htm)|Third Path to Perfection (Fortitude)|Troisième voie vers la perfection - Vigueur|officielle|
 |[None-00-igMHwREgpM9GsvLs.htm](classfeatures/None-00-igMHwREgpM9GsvLs.htm)|Order of the Gate|Ordre du portail|officielle|
 |[None-00-lVdfcITy5bkywW5f.htm](classfeatures/None-00-lVdfcITy5bkywW5f.htm)|Order of the Rack|Ordre du Chevalet|officielle|
 |[None-00-t01K3DB2qHnbt1q3.htm](classfeatures/None-00-t01K3DB2qHnbt1q3.htm)|Order of the Scourge|Ordre du fléau|officielle|
@@ -351,7 +358,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-07-JQAujUXjczVnYDEI.htm](classfeatures/oracle-07-JQAujUXjczVnYDEI.htm)|Resolve (Level 7)|Résolution (Niveau 7)|libre|
 |[oracle-13-EJzjY6AIsTYqW0ee.htm](classfeatures/oracle-13-EJzjY6AIsTYqW0ee.htm)|Lightning Reflexes (Level 13)|Réflexes fulgurants (Niveau 13)|libre|
 |[oracle-17-5LOARurr4qWkfS9K.htm](classfeatures/oracle-17-5LOARurr4qWkfS9K.htm)|Greater Resolve (Level 17)|Résolution supérieure (Niveau 17)|libre|
-|[ranger-01-6v4Rj7wWfOH1882r.htm](classfeatures/ranger-01-6v4Rj7wWfOH1882r.htm)|Hunter's Edge: Flurry|spécialité du chasseur : Déluge|officielle|
 |[ranger-01-mzkkj9LEWjJPBhaq.htm](classfeatures/ranger-01-mzkkj9LEWjJPBhaq.htm)|Hunter's Edge|Spécialité du Chasseur|officielle|
 |[ranger-01-NBHyoTrI8q62uDsU.htm](classfeatures/ranger-01-NBHyoTrI8q62uDsU.htm)|Hunter's Edge: Outwit|Spécialité du chasseur : Ruse|officielle|
 |[ranger-01-u6cBjqz2fiRBadBt.htm](classfeatures/ranger-01-u6cBjqz2fiRBadBt.htm)|Hunter's Edge: Precision|Spécialité du chasseur : Précision|officielle|
@@ -361,9 +367,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ranger-11-FCEp9jjxxgRJDJV3.htm](classfeatures/ranger-11-FCEp9jjxxgRJDJV3.htm)|Medium Armor Expertise (Level 11)|Expertise avec les armures intermédiaires (Niveau 11)|libre|
 |[ranger-15-6XwGONPdr9SFDtDc.htm](classfeatures/ranger-15-6XwGONPdr9SFDtDc.htm)|Improved Evasion (Level 15)|Évasion améliorée (Niveau 15)|officielle|
 |[ranger-15-iyb5FU2BpsCCan8Q.htm](classfeatures/ranger-15-iyb5FU2BpsCCan8Q.htm)|Incredible Senses (Level 15)|Sens extraordinaires (Niveau 15)|officielle|
-|[ranger-17-RVZC4wVy5B5W2OeS.htm](classfeatures/ranger-17-RVZC4wVy5B5W2OeS.htm)|Masterful Hunter|Maître chasseur|officielle|
 |[rogue-01-uGuCGQvUmioFV2Bd.htm](classfeatures/rogue-01-uGuCGQvUmioFV2Bd.htm)|Rogue's Racket|Trafics de roublard|libre|
 |[rogue-01-w6rMqmGzhUahdnA7.htm](classfeatures/rogue-01-w6rMqmGzhUahdnA7.htm)|Surprise Attack|Attaque surprise|officielle|
+|[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|officielle|
 |[rogue-09-25GSAotUcDwInYgG.htm](classfeatures/rogue-09-25GSAotUcDwInYgG.htm)|Great Fortitude (Level 9)|Vigueur supérieure (Niveau 9)|libre|
 |[rogue-13-nLwPMPLRne1HnL00.htm](classfeatures/rogue-13-nLwPMPLRne1HnL00.htm)|Incredible Senses (Level 13)|Sens extraordinaires (Niveau 13)|officielle|
 |[sorcerer-01-H6ziAPvCipTPG8SH.htm](classfeatures/sorcerer-01-H6ziAPvCipTPG8SH.htm)|Bloodline Spells|Sorts de lignage|officielle|
@@ -372,7 +378,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-01-Jgid6Ja6Y879COlN.htm](classfeatures/swashbuckler-01-Jgid6Ja6Y879COlN.htm)|Fencer Style|Style : escrimeur|libre|
 |[swashbuckler-01-RQH6vigvhmiYKKjg.htm](classfeatures/swashbuckler-01-RQH6vigvhmiYKKjg.htm)|Precise Strike|Frappe précise|libre|
 |[swashbuckler-03-F57Na5VxfBp56kke.htm](classfeatures/swashbuckler-03-F57Na5VxfBp56kke.htm)|Great Fortitude (Level 3)|Vigueur supérieure (Niveau 3)|officielle|
-|[swashbuckler-03-Jtn7IugykXDlIoZq.htm](classfeatures/swashbuckler-03-Jtn7IugykXDlIoZq.htm)|Opportune Riposte|riposte opportune|libre|
+|[swashbuckler-03-Jtn7IugykXDlIoZq.htm](classfeatures/swashbuckler-03-Jtn7IugykXDlIoZq.htm)|Opportune Riposte|Riposte opportune|libre|
 |[swashbuckler-07-MV6XIuAgN9uSA0Da.htm](classfeatures/swashbuckler-07-MV6XIuAgN9uSA0Da.htm)|Evasion (Level 7)|Évasion (Niveau 7)|officielle|
 |[swashbuckler-07-WiM7X4xmpMx4s6LD.htm](classfeatures/swashbuckler-07-WiM7X4xmpMx4s6LD.htm)|Weapon Specialization (Level 7)|Spécialisation avec les armes (Niveau 7)|libre|
 |[swashbuckler-11-NTp146fjLreL5zsj.htm](classfeatures/swashbuckler-11-NTp146fjLreL5zsj.htm)|Vigilant Senses (Level 11)|Vigilance (Niveau 11)|libre|
@@ -382,7 +388,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-19-SHpjmM4A3Sw4GgDz.htm](classfeatures/swashbuckler-19-SHpjmM4A3Sw4GgDz.htm)|Light Armor Mastery (Level 19)|Maîtrise des armures légères (Niveau 19)|libre|
 |[witch-05-70jqXP2eS4tRZ0Ok.htm](classfeatures/witch-05-70jqXP2eS4tRZ0Ok.htm)|Magical Fortitude (Level 5)|Vigueur magique (Niveau 5)|officielle|
 |[witch-09-tfugXJHITCnArN1b.htm](classfeatures/witch-09-tfugXJHITCnArN1b.htm)|Lightning Reflexes (Level 9)|Réflexes fulgurants (Niveau 9)|officielle|
-|[witch-11-O99eXctsEjEpuBwe.htm](classfeatures/witch-11-O99eXctsEjEpuBwe.htm)|Weapon Expertise (Level 11)|Expertise avec les armes (Niveau 11)|libre|
 |[wizard-01-7nbKDBGvwSx9T27G.htm](classfeatures/wizard-01-7nbKDBGvwSx9T27G.htm)|Arcane School|École arcanique|officielle|
 |[wizard-05-rz87RgR1crWTd7j5.htm](classfeatures/wizard-05-rz87RgR1crWTd7j5.htm)|Lightning Reflexes (Level 5)|Réflexes fulgurants (Niveau 5)|officielle|
 |[wizard-09-MzyPNlxrNA5OKVd7.htm](classfeatures/wizard-09-MzyPNlxrNA5OKVd7.htm)|Magical Fortitude (Level 9)|Vigueur magique (Niveau 9)|officielle|

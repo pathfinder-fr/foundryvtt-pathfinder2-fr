@@ -1,19 +1,12 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 145
+ * **libre**: 146
  * **officielle**: 28
- * **changé**: 1
 
 
-Dernière mise à jour: 2021-05-02 21:02 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-17 07:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[feat-01-egpiSWBrNBb1Fmig.htm](ancestryfeatures/feat-01-egpiSWBrNBb1Fmig.htm)|Draconic Exemplar|Modèle draconique|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -65,6 +58,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-dwKCwwtWetvPmJks.htm](ancestryfeatures/feat-01-dwKCwwtWetvPmJks.htm)|Rainfall Orc|Orque des moussons|libre|
 |[feat-01-EEvA4uj8h3zDiAfP.htm](ancestryfeatures/feat-01-EEvA4uj8h3zDiAfP.htm)|Treedweller Goblin|Gobelin arboricole|libre|
 |[feat-01-eFsD7W6hnK33jlDQ.htm](ancestryfeatures/feat-01-eFsD7W6hnK33jlDQ.htm)|Sewer Rat|Rat d'égoûts|libre|
+|[feat-01-egpiSWBrNBb1Fmig.htm](ancestryfeatures/feat-01-egpiSWBrNBb1Fmig.htm)|Draconic Exemplar|Modèle draconique|libre|
 |[feat-01-EKY9v7SF1hVsUdbH.htm](ancestryfeatures/feat-01-EKY9v7SF1hVsUdbH.htm)|Changeling|Changelin|libre|
 |[feat-01-Eq42wZ5OTweJLnLU.htm](ancestryfeatures/feat-01-Eq42wZ5OTweJLnLU.htm)|Gutsy Halfling|Halfelin flegmatique|officielle|
 |[feat-01-etkuQkjkNLPLnjkA.htm](ancestryfeatures/feat-01-etkuQkjkNLPLnjkA.htm)|Wellspring Gnome|Gnome source|libre|

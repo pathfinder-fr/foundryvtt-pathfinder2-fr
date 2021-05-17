@@ -3,11 +3,18 @@
  * **officielle**: 105
  * **libre**: 49
  * **changé**: 5
+ * **auto-trad**: 1
 
 
-Dernière mise à jour: 2021-05-02 21:02 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-17 07:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions automatiques à corriger/retraduire
+
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|:----:|
+|[Ma93dpT4K7JbP9gu.htm](actions/Ma93dpT4K7JbP9gu.htm)|Prove Peace|auto-trad|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

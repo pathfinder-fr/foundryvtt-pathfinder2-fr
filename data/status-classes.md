@@ -1,24 +1,18 @@
 # État de la traduction (classes)
 
- * **changé**: 16
- * **libre**: 1
+ * **officielle**: 5
+ * **libre**: 3
+ * **changé**: 9
 
 
-Dernière mise à jour: 2021-05-02 21:02 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-17 07:56 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[15Yc1r6s9CEhSTMe.htm](classes/15Yc1r6s9CEhSTMe.htm)|Sorcerer|Ensorceleur|changé|
-|[3gweRQ5gn7szIWAv.htm](classes/3gweRQ5gn7szIWAv.htm)|Bard|Barde|changé|
-|[4wrSCyX6akmyo7Wj.htm](classes/4wrSCyX6akmyo7Wj.htm)|Investigator|Enquêteur|changé|
 |[7s57JDCaiYYCAdFx.htm](classes/7s57JDCaiYYCAdFx.htm)|Druid|Druide|changé|
-|[8zn3cD6GSmoo1LW4.htm](classes/8zn3cD6GSmoo1LW4.htm)|Fighter|Guerrier|changé|
-|[bYDXk9HUMKOuym9h.htm](classes/bYDXk9HUMKOuym9h.htm)|Witch|Sorcière|changé|
-|[EizrWvUPMS67Pahd.htm](classes/EizrWvUPMS67Pahd.htm)|Cleric|Prêtre|changé|
-|[LO9STvskJemPkiAI.htm](classes/LO9STvskJemPkiAI.htm)|Rogue|Roublard|changé|
 |[pWHx4SXcft9O2udP.htm](classes/pWHx4SXcft9O2udP.htm)|Oracle|Oracle|changé|
 |[RwjIZzIxzPpUglnK.htm](classes/RwjIZzIxzPpUglnK.htm)|Wizard|Magicien|changé|
 |[uJ5aCzlw34GGdWjp.htm](classes/uJ5aCzlw34GGdWjp.htm)|Swashbuckler|Bretteur|changé|
@@ -32,4 +26,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[15Yc1r6s9CEhSTMe.htm](classes/15Yc1r6s9CEhSTMe.htm)|Sorcerer|Ensorceleur|officielle|
+|[3gweRQ5gn7szIWAv.htm](classes/3gweRQ5gn7szIWAv.htm)|Bard|Barde|officielle|
+|[4wrSCyX6akmyo7Wj.htm](classes/4wrSCyX6akmyo7Wj.htm)|Investigator|Enquêteur|libre|
 |[84SZGVNLXhLKG6gL.htm](classes/84SZGVNLXhLKG6gL.htm)|[Empty Class]|_Classe vierge|libre|
+|[8zn3cD6GSmoo1LW4.htm](classes/8zn3cD6GSmoo1LW4.htm)|Fighter|Guerrier|officielle|
+|[bYDXk9HUMKOuym9h.htm](classes/bYDXk9HUMKOuym9h.htm)|Witch|Sorcière|libre|
+|[EizrWvUPMS67Pahd.htm](classes/EizrWvUPMS67Pahd.htm)|Cleric|Prêtre|officielle|
+|[LO9STvskJemPkiAI.htm](classes/LO9STvskJemPkiAI.htm)|Rogue|Roublard|officielle|
