@@ -22,8 +22,8 @@ then
     git commit -m $VERSION
     git tag $VERSION
     git push --tags -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git HEAD:master
-    # useless ??
-    git push        -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git HEAD:master 
+    # désactivé car à priori inutile. A réactiver si nécessaire
+    #git push        -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git HEAD:master 
 else
     echo "Module deployment disabled, skipping git commands, outputting diff"
     git diff --stat
