@@ -2,12 +2,12 @@
 
  * **officielle**: 187
  * **changé**: 1059
- * **libre**: 315
+ * **libre**: 314
  * **auto-trad**: 225
  * **vide**: 1
 
 
-Dernière mise à jour: 2021-05-17 07:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-17 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -1817,7 +1817,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-20-O6he0J7l1uQgsama.htm](equipment/weapon-20-O6he0J7l1uQgsama.htm)|Piereta|Piereta|libre|
 |[weapon-20-pIagOwW8EFBaKW3k.htm](equipment/weapon-20-pIagOwW8EFBaKW3k.htm)|Staff of Providence (True)|Bâton de la providence ultime|libre|
 |[weapon-20-YjaXxg9uQ02IbwLi.htm](equipment/weapon-20-YjaXxg9uQ02IbwLi.htm)|Orb Shard|Éclat d'orbe|libre|
-|[weapon-20-ZPnQMNOyHjTkkGx4.htm](equipment/weapon-20-ZPnQMNOyHjTkkGx4.htm)|Staff of Providence (Ture)|Bâton de la providence ultime|libre|
 |[weapon-23-2jtZPnHF1M8vKWry.htm](equipment/weapon-23-2jtZPnHF1M8vKWry.htm)|Hunter's Dawn|Aube du chasseur|libre|
 |[weapon-23-emGyagWNmjvtjiGK.htm](equipment/weapon-23-emGyagWNmjvtjiGK.htm)|Serithtial|Sérithtial|officielle|
 |[weapon-25-o9IErbpmItz9NZT3.htm](equipment/weapon-25-o9IErbpmItz9NZT3.htm)|Blackaxe|Noire-hache|libre|

@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-05-17 07:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-17 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -1037,7 +1037,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Jinkin](pathfinder-bestiary/gfRXFd24U633OC9r.htm)|Jinkin|`@Compendium[pf2e.pathfinder-bestiary.gfRXFd24U633OC9r]`|
 |[Jungle Drake](pathfinder-bestiary/vEFENJJixCdmBNl5.htm)|Drake de la jungle|`@Compendium[pf2e.pathfinder-bestiary.vEFENJJixCdmBNl5]`|
 |[Keketar](pathfinder-bestiary/zBPGUUP788b0g1Ng.htm)|Ké’ktar|`@Compendium[pf2e.pathfinder-bestiary.zBPGUUP788b0g1Ng]`|
-|[Kobold Dragon Mage](pathfinder-bestiary/qBu78r2alwJNs7ry.htm)|Mage draconique Kobold|`@Compendium[pf2e.pathfinder-bestiary.qBu78r2alwJNs7ry]`|
 |[Kobold Scout](pathfinder-bestiary/rPaHIh0ICnTLnRO6.htm)|Éclaireur Kobold|`@Compendium[pf2e.pathfinder-bestiary.rPaHIh0ICnTLnRO6]`|
 |[Kobold Warrior](pathfinder-bestiary/r9w1n85mp9Ip4QiS.htm)|Guerrier kobold|`@Compendium[pf2e.pathfinder-bestiary.r9w1n85mp9Ip4QiS]`|
 |[Kolyarut](pathfinder-bestiary/PgBsMyjMITjQnCs8.htm)|Kolyarut|`@Compendium[pf2e.pathfinder-bestiary.PgBsMyjMITjQnCs8]`|
@@ -3676,7 +3675,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lucky Break](feats/ancestry-05-lF5B49zbDG61sxXa.htm)|Pause chanceuse|`@Compendium[pf2e.feats-srd.lF5B49zbDG61sxXa]`|
 |[Lucky Keepsake](feats/ancestry-09-zsubK6PaY58fOYCb.htm)|Grigri porte-bonheur|`@Compendium[pf2e.feats-srd.zsubK6PaY58fOYCb]`|
 |[Lunge](feats/class-02-rTkr1EqpAN6YtnAh.htm)|Fente|`@Compendium[pf2e.feats-srd.rTkr1EqpAN6YtnAh]`|
-|[Lunging Stance](feats/skill-12-ZghzLmYgeE19GqjP.htm)|Posture de fente|`@Compendium[pf2e.feats-srd.ZghzLmYgeE19GqjP]`|
 |[Lunging Stance](feats/class-12-ZghzLmYgeE19GqjP.htm)|Posture de fente|`@Compendium[pf2e.feats-srd.ZghzLmYgeE19GqjP]`|
 |[Magaambyan Attendant Dedication](feats/archetype-02-ZhToff996PnTESwb.htm)|Dévouement du Gardien de Magaambya|`@Compendium[pf2e.feats-srd.ZhToff996PnTESwb]`|
 |[Mage Hunter](feats/class-06-mqLPCNdCSNyY7gyI.htm)|Chasseur de mage|`@Compendium[pf2e.feats-srd.mqLPCNdCSNyY7gyI]`|
@@ -4948,7 +4946,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Dinosaur Form (Triceratops)](spell-effects/04-iOKhr2El8R6cz6YI.htm)||`@Compendium[pf2e.spell-effects.iOKhr2El8R6cz6YI]`|
 |[Spell Effect: Dinosaur Form (Tyrannosaurus)](spell-effects/04-542Keo6txtq7uvqe.htm)||`@Compendium[pf2e.spell-effects.542Keo6txtq7uvqe]`|
 |[Spell Effect: Disrupting Weapons](spell-effects/01-X7RD0JRxhJV9u2LC.htm)||`@Compendium[pf2e.spell-effects.X7RD0JRxhJV9u2LC]`|
-|[Spell Effect: Dragon Form (Black)](spell-effects/08-rHXOZAFBdRXIlxt5.htm)||`@Compendium[pf2e.spell-effects.rHXOZAFBdRXIlxt5]`|
 |[Spell Effect: Dragon Form (Black)](spell-effects/06-rHXOZAFBdRXIlxt5.htm)||`@Compendium[pf2e.spell-effects.rHXOZAFBdRXIlxt5]`|
 |[Spell Effect: Dragon Form (Blue)](spell-effects/06-ETgzIIv3M2zvclAR.htm)||`@Compendium[pf2e.spell-effects.ETgzIIv3M2zvclAR]`|
 |[Spell Effect: Dragon Form (Brass)](spell-effects/06-OeCn76SB92GPOZwr.htm)||`@Compendium[pf2e.spell-effects.OeCn76SB92GPOZwr]`|
@@ -7717,7 +7714,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Staff of Providence (Greater)](equipment/weapon-10-T1L6XbgMqJLDv2Pi.htm)|Bâton de la providence supérieur|`@Compendium[pf2e.equipment-srd.T1L6XbgMqJLDv2Pi]`|
 |[Staff of Providence (Major)](equipment/weapon-14-U8vVCE2ePjyca666.htm)|Bâton de la providence majeur|`@Compendium[pf2e.equipment-srd.U8vVCE2ePjyca666]`|
 |[Staff of Providence (True)](equipment/weapon-20-pIagOwW8EFBaKW3k.htm)|Bâton de la providence ultime|`@Compendium[pf2e.equipment-srd.pIagOwW8EFBaKW3k]`|
-|[Staff of Providence (Ture)](equipment/weapon-20-ZPnQMNOyHjTkkGx4.htm)|Bâton de la providence ultime|`@Compendium[pf2e.equipment-srd.ZPnQMNOyHjTkkGx4]`|
 |[Staff of Sieges](equipment/weapon-20-dh4FEXlA0FxTfnpY.htm)|Bâton de sièges|`@Compendium[pf2e.equipment-srd.dh4FEXlA0FxTfnpY]`|
 |[Staff of Transmutation](equipment/weapon-06-p1pysEaGypaNxTEL.htm)|Bâton de transmutation|`@Compendium[pf2e.equipment-srd.p1pysEaGypaNxTEL]`|
 |[Staff of Transmutation (Greater)](equipment/weapon-10-YxLC2Np7cEBnZzGX.htm)|Bâton de transmutation (supérieur)|`@Compendium[pf2e.equipment-srd.YxLC2Np7cEBnZzGX]`|

@@ -1,11 +1,11 @@
 # État de la traduction (spell-effects)
 
- * **auto-trad**: 147
+ * **auto-trad**: 146
  * **libre**: 5
  * **changé**: 5
 
 
-Dernière mise à jour: 2021-05-17 07:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-17 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -159,7 +159,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[08-b8bfWIICHOsGVzjp.htm](spell-effects/08-b8bfWIICHOsGVzjp.htm)|Spell Effect: Monstrosity Form (Phoenix)|auto-trad|
 |[08-Eik8Fj8nGo2GLcbn.htm](spell-effects/08-Eik8Fj8nGo2GLcbn.htm)|Spell Effect: Monstrosity Form (Sea Serpent)|auto-trad|
 |[08-rEsgDhunQ5Yx8KZx.htm](spell-effects/08-rEsgDhunQ5Yx8KZx.htm)|Spell Effect: Monstrosity Form (Purple Worm)|auto-trad|
-|[08-rHXOZAFBdRXIlxt5.htm](spell-effects/08-rHXOZAFBdRXIlxt5.htm)|Spell Effect: Dragon Form (Black)|auto-trad|
 |[09-1p5LEpMSRFG1099t.htm](spell-effects/09-1p5LEpMSRFG1099t.htm)|Spell Effect: Ki Form (Lawful)|auto-trad|
 |[09-bbOdbGiRXGEQ2aY0.htm](spell-effects/09-bbOdbGiRXGEQ2aY0.htm)|Spell Effect: Ki Form (Positive)|auto-trad|
 |[09-F0XnusshRzgMdFT1.htm](spell-effects/09-F0XnusshRzgMdFT1.htm)|Spell Effect: Ki Form (Force)|auto-trad|

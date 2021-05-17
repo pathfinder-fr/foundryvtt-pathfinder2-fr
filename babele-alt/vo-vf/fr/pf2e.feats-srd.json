@@ -4692,11 +4692,6 @@
             "description": "<p>Votre physiologie est menue et vous pouvez vous entasser dans des petits espaces avec d'autres de stature similaire.</p>\n<p>tant que vous êtes Petit, vous pouvez terminer votre déplacement dans la même case qu'un allié Petit. Seules deux créatures peuvent partager le même espace en utilisant cette faculté ou toute autre faculté similaire.</p>"
         },
         {
-            "id": "Lunging Stance",
-            "name": "Lunging Stance (Posture de fente)",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.classfeatures.hmShTfPOcTaKgbf4]{Attaque d’opportunité}, @Compendium[pf2e.feats-srd.rTkr1EqpAN6YtnAh]{Fente}</p>\n<p><strong>Conditions</strong> Vous maniez une arme de corps à corps</p>\n<hr>\n<p>Vous détendez votre corps aux muscles contractés pour frapper les ennemis plus éloignés. Lorsque vous gardez cette posture, vous pouvez utiliser Attaque d’opportunité contre une créature hors de votre allonge mais à l’intérieur de celle dont vous bénéficiez lorsque vous faites une Fente. Si vous prenez cette posture, vous augmentez la portée de la Frappe de 1,50 m.</p>"
-        },
-        {
             "id": "Goblin Weapon Familiarity",
             "name": "Goblin Weapon Familiarity (Familiarité avec les armes gobelines)",
             "description": "<p>Les autres ont beau vous regarder avec un certain dédain, vous savez que les armes de votre peuple sont aussi efficaces que tranchantes. Vous êtes qualifié avec le tranchechien et le coupecheval. En outre, vous avez accès aux armes peu courantes des gobelins. Afin de déterminer votre maîtrise, vous considérez les armes de guerre gobelines comme des armes simples et les armes gobelines évoluées comme des armes de guerre lorsqu'il s'agit de déterminer votre maîtrise.</p>"

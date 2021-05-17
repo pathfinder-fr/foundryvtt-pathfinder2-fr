@@ -1,12 +1,12 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **officielle**: 392
+ * **officielle**: 391
  * **changé**: 18
  * **libre**: 16
  * **auto-trad**: 7
 
 
-Dernière mise à jour: 2021-05-17 07:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-17 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -317,7 +317,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[q3LrTrfnCvoUXuRz.htm](pathfinder-bestiary/q3LrTrfnCvoUXuRz.htm)|Slothspawn|Rejeton de la paresse|libre|
 |[Q8FAcsuta4p6d8KS.htm](pathfinder-bestiary/Q8FAcsuta4p6d8KS.htm)|Firewyrm|Wyrm de feu|officielle|
 |[Qa7HaKfKiosEPr94.htm](pathfinder-bestiary/Qa7HaKfKiosEPr94.htm)|Sphinx|Sphinx|officielle|
-|[qBu78r2alwJNs7ry.htm](pathfinder-bestiary/qBu78r2alwJNs7ry.htm)|Kobold Dragon Mage|Mage draconique Kobold|officielle|
 |[qcZvFCAnslI9XNTR.htm](pathfinder-bestiary/qcZvFCAnslI9XNTR.htm)|Wasp Swarm|Nuée de guêpes|officielle|
 |[qfuoFK2GXBJusQ33.htm](pathfinder-bestiary/qfuoFK2GXBJusQ33.htm)|Duergar Bombardier|Bombardier Duergar|officielle|
 |[QGTSPki2eoLuavif.htm](pathfinder-bestiary/QGTSPki2eoLuavif.htm)|Envyspawn|Rejeton de l'envie|libre|

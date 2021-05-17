@@ -2,11 +2,11 @@
 
  * **libre**: 1415
  * **officielle**: 490
- * **changé**: 730
+ * **changé**: 729
  * **auto-trad**: 23
 
 
-Dernière mise à jour: 2021-05-17 07:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-17 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -754,7 +754,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-07-XR95taODq1sq82Du.htm](feats/skill-07-XR95taODq1sq82Du.htm)|Inventor|Inventeur|changé|
 |[skill-07-YgbcLfAEdi4xxvX5.htm](feats/skill-07-YgbcLfAEdi4xxvX5.htm)|Evangelize|Évagélisation|changé|
 |[skill-07-Yj4mpROEjdCjQzMd.htm](feats/skill-07-Yj4mpROEjdCjQzMd.htm)|Planar Survival|Survie planaire|changé|
-|[skill-12-ZghzLmYgeE19GqjP.htm](feats/skill-12-ZghzLmYgeE19GqjP.htm)|Lunging Stance|Posture de fente|changé|
 |[skill-15-467qQoiy6bjWU1G8.htm](feats/skill-15-467qQoiy6bjWU1G8.htm)|Legendary Performer|Artiste légendaire|changé|
 |[skill-15-A0TNeMNvyY8QpmLz.htm](feats/skill-15-A0TNeMNvyY8QpmLz.htm)|Legendary Negotiation|Négociation légendaire|changé|
 |[skill-15-dYMxP8SsHrwOze8v.htm](feats/skill-15-dYMxP8SsHrwOze8v.htm)|Divine Guidance|Assistance divine|changé|
