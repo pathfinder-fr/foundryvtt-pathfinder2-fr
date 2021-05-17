@@ -58,7 +58,6 @@ SUPPORTED = {
 
 }
 
-
 #
 # cette fonction lit le fichier system.json et extrait les informations sur les packs
 #
@@ -78,9 +77,6 @@ def getPacks():
       packs.append({ **p, **SUPPORTED[p['id']]})
       
   return packs
-
-
-
 
 #
 # cette fonction retourn vrai si les deux textes sont identiques
@@ -131,7 +127,7 @@ def getObject(obj, path, exitOnError=True):
         if p in element:
             element = element[p]
         elif exitOnError:
-            print("Error with path %s in %s" % (path, obj))
+            print("\e[31mError with path %s in %s\e[0m" % (path, obj))
             exit(1)
         else:
             # print("Path %s not found for %s!" % (path, obj['name']))
@@ -150,7 +146,7 @@ def getValue(obj, path, exitOnError=True, defaultValue=None):
         if len(element) == 0:
             return defaultValue
         if len(element) > 1:
-            print("List has more than 1 element for '%s'! %s" % (element, path))
+            print("\e[33mList has more than 1 element for '%s'! %s\e[0m" % (element, path))
             return element[len(element) - 1]
         return element[0]
     elif element.isdigit():
@@ -165,7 +161,7 @@ def getList(obj, path, exitOnError=True):
         return []
     elif not isinstance(element, list):
         if exitOnError:
-            print("Element at '%s' is not a list! %s" % (path, element))
+            print("\e[31mElement at '%s' is not a list! %s\e[0m" % (path, element))
             exit(1)
         return []
     else:
@@ -264,7 +260,7 @@ def fileToData(filepath):
         exit(1)
 
     if not 'nameEN' in data or not 'descrEN' in data:
-        print("Invalid data: %s" % filepath)
+        print("\e[31mInvalid data: %s\e[0m" % filepath)
         exit(1)
 
     return data
@@ -351,7 +347,7 @@ def readFolder(path):
         data['filename'] = fpath
 
         if data['id'] in resultById:
-            print("Duplicate data %s and %s, please fix it manually!" % (path + resultById[data['id']]['filename'], path + data['filename']))
+            print("\e[31mDuplicate data %s and %s, please fix it manually!\e[0m" % (path + resultById[data['id']]['filename'], path + data['filename']))
             has_errors = True
         else:
             resultById[data['id']] = data

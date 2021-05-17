@@ -41,7 +41,7 @@ for p in packs:
     try:
       obj = json.loads(line)
     except:
-      print("Invalid json %s at line %d" % (FILE, count))
+      print("\e[33mInvalid json %s at line %d\e[0m" % (FILE, count))
       continue
     
     if '$$deleted' in obj:
@@ -69,7 +69,7 @@ for p in packs:
   duplic = {}
   for id in entries:
     if entries[id]['name'] in duplic:
-      print("Duplicated name: %s (%s)" % (entries[id]['name'], id))
+      print("\e[33mDuplicated name: %s (%s)\e[0m" % (entries[id]['name'], id))
       #entries[id] = None
     else:
       duplic[entries[id]['name']] = id
@@ -84,7 +84,7 @@ for p in packs:
 
   # si le pack contient au moins une erreur à la lecture, on arrête de l'examiner
   if pack_has_errors == True:
-    print("Invalid data in pack %s, skipping" % (pack_id))
+    print("\e[31mInvalid data in pack %s, skipping\e[0m" % (pack_id))
     has_errors = True
     continue
   
@@ -115,8 +115,9 @@ for p in packs:
       
       # check status from existing file
       if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé", "auto-trad", "auto-googtrad", "vide"):
-        print("Status error for : %s" % filepath);
-        exit(1)
+        print("\e[31mStatus error for : %s\e[0m" % filepath);
+        has_errors = True
+        continue
        
       # QUICK FIX pour: https://discord.com/channels/@me/757146858828333077/815954577219780728
       change = False
@@ -182,16 +183,13 @@ for p in packs:
     if not id in entries:
       filename = "%sdata/%s/%s" % (ROOT, pack_id, existing[id]['filename'])
       if existing[id]['status'] != 'aucune':
-        print("File cannot be safely removed! %s" % filename)
-        print("Please fix manually!")
-        #exit(1)
-        os.remove(filename)
-      else:
-        os.remove(filename)
+        print("\e[33mFile cannot be safely removed! %s, please fix manually!\e[0m" % filename)
+      
+      os.remove(filename)
 
 # fermeture de la connexion a DeepL Translator
 driver.quit()
 
 if has_errors:
-  print("Au moins une erreur survenue durant la préparation, échec")
+  print("\e[31mAu moins une erreur survenue durant la préparation, échec\e[0m")
   exit(1)
