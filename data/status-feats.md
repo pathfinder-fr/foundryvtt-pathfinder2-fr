@@ -6,7 +6,7 @@
  * **auto-trad**: 23
 
 
-Dernière mise à jour: 2021-05-17 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-21 12:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -1104,7 +1104,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-05-8MMYFIudSDkdo8cx.htm](feats/ancestry-05-8MMYFIudSDkdo8cx.htm)|Rat Magic|Magie du rat|libre|
 |[ancestry-05-8Mo0fKRAz1TVbrr1.htm](feats/ancestry-05-8Mo0fKRAz1TVbrr1.htm)|Catfolk Weapon Rake|Armes griffantes des hommes-félins|libre|
 |[ancestry-05-8RZ4VKXJgtl1aN27.htm](feats/ancestry-05-8RZ4VKXJgtl1aN27.htm)|Ornate Tattoo|Tatouage ornemental|libre|
-|[ancestry-05-969mPoiYANzV2261.htm](feats/ancestry-05-969mPoiYANzV2261.htm)|Ratfolk Roll|Roulade de l'homme-félin|libre|
+|[ancestry-05-969mPoiYANzV2261.htm](feats/ancestry-05-969mPoiYANzV2261.htm)|Ratfolk Roll|Roulade de l'homme-rat|libre|
 |[ancestry-05-9CIy4cJJTcRM30Vz.htm](feats/ancestry-05-9CIy4cJJTcRM30Vz.htm)|Tough Tumbler|Cascadeur coriace|libre|
 |[ancestry-05-9WsYVbe47aSADs1Q.htm](feats/ancestry-05-9WsYVbe47aSADs1Q.htm)|Halfling Weapon Trickster|Ruse avec les armes halfelines|officielle|
 |[ancestry-05-ab7xlmUzPUOFnAl2.htm](feats/ancestry-05-ab7xlmUzPUOFnAl2.htm)|Water Conjuration|Conjuration d'eau|libre|
@@ -1267,7 +1267,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-09-4EgueMqUm0ebKV4J.htm](feats/ancestry-09-4EgueMqUm0ebKV4J.htm)|Dragonblood Paragon|Parangon sangdragon|libre|
 |[ancestry-09-4hFeaF4MlqIHb6gb.htm](feats/ancestry-09-4hFeaF4MlqIHb6gb.htm)|Azata Magic|Magie des azatas|libre|
 |[ancestry-09-4Jwtl2FvxskruHQv.htm](feats/ancestry-09-4Jwtl2FvxskruHQv.htm)|Invoke The Elements|Invoquer les éléments|libre|
-|[ancestry-09-56HvICglqH7uR3AY.htm](feats/ancestry-09-56HvICglqH7uR3AY.htm)|Cantorian Rejuvenation|Récupération cantorienne|libre|
+|[ancestry-09-56HvICglqH7uR3AY.htm](feats/ancestry-09-56HvICglqH7uR3AY.htm)|Cantorian Rejuvenation|Rajeunissement cantorien|libre|
 |[ancestry-09-6eXffyvqxpIzig2O.htm](feats/ancestry-09-6eXffyvqxpIzig2O.htm)|Offensive Subroutine|Sous-routine offensive|libre|
 |[ancestry-09-6WwxTbX8KvU3Xxak.htm](feats/ancestry-09-6WwxTbX8KvU3Xxak.htm)|Janni Hospitality|Hospitalité jann|libre|
 |[ancestry-09-7cM7uKRKQDWz5eeu.htm](feats/ancestry-09-7cM7uKRKQDWz5eeu.htm)|Heroes' Call|Appel des héros|libre|

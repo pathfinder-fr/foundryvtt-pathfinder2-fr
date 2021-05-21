@@ -1,48 +1,19 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **officielle**: 391
- * **changé**: 18
- * **libre**: 16
- * **auto-trad**: 7
+ * **officielle**: 409
+ * **libre**: 21
+ * **auto-trad**: 2
 
 
-Dernière mise à jour: 2021-05-17 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-21 12:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
 |-----------|-------------|:----:|
-|[93hZtLl9pRRfqI05.htm](pathfinder-bestiary/93hZtLl9pRRfqI05.htm)|Blue Kobold Dragon Mage|auto-trad|
-|[CJuHwIRCAgTB1SEl.htm](pathfinder-bestiary/CJuHwIRCAgTB1SEl.htm)|Red Kobold Dragon Mage|auto-trad|
-|[kCRfBZqCugMQmdpd.htm](pathfinder-bestiary/kCRfBZqCugMQmdpd.htm)|White Kobold Dragon Mage|auto-trad|
 |[OPavstjKhgcp30fc.htm](pathfinder-bestiary/OPavstjKhgcp30fc.htm)|War Pony|auto-trad|
-|[QaldZV2p9RpMXzzn.htm](pathfinder-bestiary/QaldZV2p9RpMXzzn.htm)|Green Kobold Dragon Mage|auto-trad|
-|[R9eoGwQ2tudxUKxS.htm](pathfinder-bestiary/R9eoGwQ2tudxUKxS.htm)|Black Kobold Dragon Mage|auto-trad|
 |[YUk9S6caKqheRsUQ.htm](pathfinder-bestiary/YUk9S6caKqheRsUQ.htm)|Riding Pony|auto-trad|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[0plBflWwrCWQO2RO.htm](pathfinder-bestiary/0plBflWwrCWQO2RO.htm)|Zombie Shambler|Titubeur zombie|changé|
-|[9qjXP1Lho1UmAihJ.htm](pathfinder-bestiary/9qjXP1Lho1UmAihJ.htm)|Axiomite|Axiomite|changé|
-|[bjJUZKcA47Qp0ZwL.htm](pathfinder-bestiary/bjJUZKcA47Qp0ZwL.htm)|Pleroma|Pléroma|changé|
-|[Br1AtKUHe3nbzjnY.htm](pathfinder-bestiary/Br1AtKUHe3nbzjnY.htm)|Mimic|Mimique|changé|
-|[E0PIGtVfc5PFVT2C.htm](pathfinder-bestiary/E0PIGtVfc5PFVT2C.htm)|Cacodaemon|Cacodaémon|changé|
-|[FIoRPHaHdYUPVKdT.htm](pathfinder-bestiary/FIoRPHaHdYUPVKdT.htm)|Barbazu|Barbazu|changé|
-|[GyigGu36XLPV72nW.htm](pathfinder-bestiary/GyigGu36XLPV72nW.htm)|Djinni|Djinn|changé|
-|[I4o2Gqpr2ioiUXA9.htm](pathfinder-bestiary/I4o2Gqpr2ioiUXA9.htm)|Xulgath Leader|Chef Xulgath|changé|
-|[Ix1PziAEk9IIMYBz.htm](pathfinder-bestiary/Ix1PziAEk9IIMYBz.htm)|Zombie Brute|Brute zombie|changé|
-|[jGzVwekcRX5aQpbT.htm](pathfinder-bestiary/jGzVwekcRX5aQpbT.htm)|Goblin Commando|Commando Gobelin|changé|
-|[JkBJ8B07ElXrfDaG.htm](pathfinder-bestiary/JkBJ8B07ElXrfDaG.htm)|Boggard Warrior|Guerrier bourbiérin|changé|
-|[jVZRROs0GzDjVrgi.htm](pathfinder-bestiary/jVZRROs0GzDjVrgi.htm)|Goblin Warrior|Guerrier Gobelin|changé|
-|[K9Hw43co8fhwmKkM.htm](pathfinder-bestiary/K9Hw43co8fhwmKkM.htm)|Grothlut|Grothlut|changé|
-|[KxN9aGFGPxl6oLGF.htm](pathfinder-bestiary/KxN9aGFGPxl6oLGF.htm)|Plague Zombie|Zombie pestiféré|changé|
-|[LVhVb7abhv4onzZZ.htm](pathfinder-bestiary/LVhVb7abhv4onzZZ.htm)|Arbiter|Arbitre|changé|
-|[NW1Ax1QGE9W4DmiN.htm](pathfinder-bestiary/NW1Ax1QGE9W4DmiN.htm)|Ceustodaemon|Ceustodaémon|changé|
-|[PgBsMyjMITjQnCs8.htm](pathfinder-bestiary/PgBsMyjMITjQnCs8.htm)|Kolyarut|Kolyarut|changé|
-|[z0l0lHc79NbMxiqZ.htm](pathfinder-bestiary/z0l0lHc79NbMxiqZ.htm)|Goblin Pyro|Pyro gobelin|changé|
 
 ## Liste des traductions complétés
 
@@ -55,6 +26,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[0HjVFx8qIKDCfblg.htm](pathfinder-bestiary/0HjVFx8qIKDCfblg.htm)|Lantern Archon|Archon lumineux|officielle|
 |[0hnnwyqLfYVIenzd.htm](pathfinder-bestiary/0hnnwyqLfYVIenzd.htm)|Deep Gnome Rockwarden|Gardien des roches Gnome des profondeurs|officielle|
 |[0MOWKI97bgGDf5Xi.htm](pathfinder-bestiary/0MOWKI97bgGDf5Xi.htm)|Dark Naga|Naga ténébreux|officielle|
+|[0plBflWwrCWQO2RO.htm](pathfinder-bestiary/0plBflWwrCWQO2RO.htm)|Zombie Shambler|Titubeur zombie|officielle|
 |[0rfropeocJWXC6pg.htm](pathfinder-bestiary/0rfropeocJWXC6pg.htm)|Goblin Dog|Chien gobelin|officielle|
 |[0SAlss24nUMdX9r8.htm](pathfinder-bestiary/0SAlss24nUMdX9r8.htm)|Gancanagh|Gancanagh|officielle|
 |[0SJqmk4ItwL31Rg9.htm](pathfinder-bestiary/0SJqmk4ItwL31Rg9.htm)|Dullahan|Dullahan|officielle|
@@ -103,12 +75,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[8r8Ar08ojdJuPeiH.htm](pathfinder-bestiary/8r8Ar08ojdJuPeiH.htm)|Eagle|Aigle|officielle|
 |[8U8K0YEghIErml35.htm](pathfinder-bestiary/8U8K0YEghIErml35.htm)|Crimson Worm|Ver écarlate|officielle|
 |[8uXLbKKzxN5O0ZhM.htm](pathfinder-bestiary/8uXLbKKzxN5O0ZhM.htm)|Elananx|Élananxe|officielle|
+|[93hZtLl9pRRfqI05.htm](pathfinder-bestiary/93hZtLl9pRRfqI05.htm)|Blue Kobold Dragon Mage|Mage-dragon bleu Kobold|libre|
 |[9AlfVoEMLwDODjxl.htm](pathfinder-bestiary/9AlfVoEMLwDODjxl.htm)|Veiled Master|Maître voilé|officielle|
 |[9FZMzpAu4XhCI0IB.htm](pathfinder-bestiary/9FZMzpAu4XhCI0IB.htm)|Deep Gnome Scout|Éclaireur Gnome des profondeurs|officielle|
 |[9H11QHnoKz8hHKSM.htm](pathfinder-bestiary/9H11QHnoKz8hHKSM.htm)|Ancient Red Dragon|Dragon rouge vénérable|officielle|
 |[9hOuoOONmp6500GZ.htm](pathfinder-bestiary/9hOuoOONmp6500GZ.htm)|Giant Gecko|Gecko géant|officielle|
 |[9jF564DF6ylEovna.htm](pathfinder-bestiary/9jF564DF6ylEovna.htm)|Quasit|Quasit|officielle|
 |[9llfviiJg5bJlBth.htm](pathfinder-bestiary/9llfviiJg5bJlBth.htm)|Mukradi|Mukradi|officielle|
+|[9qjXP1Lho1UmAihJ.htm](pathfinder-bestiary/9qjXP1Lho1UmAihJ.htm)|Axiomite|Axiomite|officielle|
 |[9sa2KE4Fbh3OPH7M.htm](pathfinder-bestiary/9sa2KE4Fbh3OPH7M.htm)|Brine Shark|Requin de saumure|officielle|
 |[9vNYtJZiseCEf4wt.htm](pathfinder-bestiary/9vNYtJZiseCEf4wt.htm)|Balor|Balor|officielle|
 |[9X7hOvCKy1bqw0g6.htm](pathfinder-bestiary/9X7hOvCKy1bqw0g6.htm)|Giant Tarantula|Tarentule géante|officielle|
@@ -137,10 +111,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BeptBpCJ4Ny4biOH.htm](pathfinder-bestiary/BeptBpCJ4Ny4biOH.htm)|Leaf Leshy|Léchi de feuilles|officielle|
 |[bIw7czN0E3rENrVd.htm](pathfinder-bestiary/bIw7czN0E3rENrVd.htm)|Giant Stag Beetle|Lucane géant|officielle|
 |[bIXfNKFWduf8MH0f.htm](pathfinder-bestiary/bIXfNKFWduf8MH0f.htm)|Ogre Boss|Boss ogre|officielle|
+|[bjJUZKcA47Qp0ZwL.htm](pathfinder-bestiary/bjJUZKcA47Qp0ZwL.htm)|Pleroma|Pléroma|officielle|
 |[bkaDwBD3mIBgvULs.htm](pathfinder-bestiary/bkaDwBD3mIBgvULs.htm)|Cloaker|Manteleur|officielle|
 |[BKPRkJgq7ehsW7uX.htm](pathfinder-bestiary/BKPRkJgq7ehsW7uX.htm)|Giant Centipede|Mille-pattes géant|officielle|
 |[BLFEu9jCKPAMko01.htm](pathfinder-bestiary/BLFEu9jCKPAMko01.htm)|Living Waterfall|Cascade vivante|officielle|
 |[bLMoqt9xqTZKnjxr.htm](pathfinder-bestiary/bLMoqt9xqTZKnjxr.htm)|Werewolf|Loup-garou|officielle|
+|[Br1AtKUHe3nbzjnY.htm](pathfinder-bestiary/Br1AtKUHe3nbzjnY.htm)|Mimic|Mimique|officielle|
 |[BRo0snV2sH6TFuh6.htm](pathfinder-bestiary/BRo0snV2sH6TFuh6.htm)|Glabrezu|Glabrezu|officielle|
 |[bSjF2lCgchtp2ocS.htm](pathfinder-bestiary/bSjF2lCgchtp2ocS.htm)|Ancient Brass Dragon|Dragon d'airain vénérable|officielle|
 |[bxAJWWKrEMjgNkUp.htm](pathfinder-bestiary/bxAJWWKrEMjgNkUp.htm)|Dero Stalker|Traqueur Dero|officielle|
@@ -155,6 +131,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[CFHLgMj8zHLqcagc.htm](pathfinder-bestiary/CFHLgMj8zHLqcagc.htm)|Sea Serpent|Serpent de mer|officielle|
 |[CHIh3vMssFixUlw8.htm](pathfinder-bestiary/CHIh3vMssFixUlw8.htm)|Salamander|Salamandre|officielle|
 |[CJP3GGBXuGgkaj6C.htm](pathfinder-bestiary/CJP3GGBXuGgkaj6C.htm)|Grizzly Bear|Grizzly|officielle|
+|[CJuHwIRCAgTB1SEl.htm](pathfinder-bestiary/CJuHwIRCAgTB1SEl.htm)|Red Kobold Dragon Mage|Mage-dragon rouge Kobold|libre|
 |[Cq8sRhVVF0hagBu6.htm](pathfinder-bestiary/Cq8sRhVVF0hagBu6.htm)|Vampire Count|Vampire, Comte|officielle|
 |[CSefkWGVmA5yGxNR.htm](pathfinder-bestiary/CSefkWGVmA5yGxNR.htm)|Pteranodon|Ptéranodon|officielle|
 |[csRH8Fx0r6iMWlFc.htm](pathfinder-bestiary/csRH8Fx0r6iMWlFc.htm)|Ether Spider|Araignée de l'éther|officielle|
@@ -173,6 +150,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dwgl1DzJAYE3ienu.htm](pathfinder-bestiary/Dwgl1DzJAYE3ienu.htm)|Cyclops|Cyclope|officielle|
 |[DX1xNtucLTenn3P3.htm](pathfinder-bestiary/DX1xNtucLTenn3P3.htm)|River Drake|Drake des rivières|officielle|
 |[E0LCMHVp4sxAbQYa.htm](pathfinder-bestiary/E0LCMHVp4sxAbQYa.htm)|Mitflit|Mitflit|officielle|
+|[E0PIGtVfc5PFVT2C.htm](pathfinder-bestiary/E0PIGtVfc5PFVT2C.htm)|Cacodaemon|Cacodaémon|officielle|
 |[E4ctF7Fvi3cdkgQq.htm](pathfinder-bestiary/E4ctF7Fvi3cdkgQq.htm)|Hunting Spider|Araignée chasseuse|officielle|
 |[E5RDV3n7GnjAspQ5.htm](pathfinder-bestiary/E5RDV3n7GnjAspQ5.htm)|Mummy Guardian|Momie gardienne|officielle|
 |[e8rmI5xt6IANatfX.htm](pathfinder-bestiary/e8rmI5xt6IANatfX.htm)|Shemhazian|Shemhazian|officielle|
@@ -191,6 +169,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[FaBHkmFGuEIqIYM1.htm](pathfinder-bestiary/FaBHkmFGuEIqIYM1.htm)|Drow Priestess|Prêtresse Drow|officielle|
 |[fgsDAeZHVbHRhSE8.htm](pathfinder-bestiary/fgsDAeZHVbHRhSE8.htm)|Cockatrice|Cockatrice|officielle|
 |[FHfrIJCdKTzy2rrR.htm](pathfinder-bestiary/FHfrIJCdKTzy2rrR.htm)|Cauthooj|Cauthooj|officielle|
+|[FIoRPHaHdYUPVKdT.htm](pathfinder-bestiary/FIoRPHaHdYUPVKdT.htm)|Barbazu|Barbazu|officielle|
 |[FJo8VkrM7kLkHa5D.htm](pathfinder-bestiary/FJo8VkrM7kLkHa5D.htm)|Zombie Hulk|Mastodonte zombie|officielle|
 |[fkBcMpr3Yxxfvz9v.htm](pathfinder-bestiary/fkBcMpr3Yxxfvz9v.htm)|Astradaemon|Astradaémon|officielle|
 |[FPKoiMXENk5FouXp.htm](pathfinder-bestiary/FPKoiMXENk5FouXp.htm)|Elemental Hurricane|Ouragan élémentaire|officielle|
@@ -205,6 +184,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[gvCCATlH9mPGWbsp.htm](pathfinder-bestiary/gvCCATlH9mPGWbsp.htm)|Troll|Troll|officielle|
 |[gWxpeqOQ54Jd4HTG.htm](pathfinder-bestiary/gWxpeqOQ54Jd4HTG.htm)|Caligni Stalker|Traqueur caligni|officielle|
 |[gX66KyBxUOvMv5Sf.htm](pathfinder-bestiary/gX66KyBxUOvMv5Sf.htm)|Dragon Turtle|Tortue dragon|officielle|
+|[GyigGu36XLPV72nW.htm](pathfinder-bestiary/GyigGu36XLPV72nW.htm)|Djinni|Djinn|officielle|
 |[H2ZxTHZOEigpH4LK.htm](pathfinder-bestiary/H2ZxTHZOEigpH4LK.htm)|Vampire Spawn Rogue|Rejeton du vampire roublard|officielle|
 |[HbROgIcU9Z9m6XuD.htm](pathfinder-bestiary/HbROgIcU9Z9m6XuD.htm)|Wraith|Âme-en-peine|officielle|
 |[HeoH8hi5iieKPuJ2.htm](pathfinder-bestiary/HeoH8hi5iieKPuJ2.htm)|Deadly Mantis|Mante meurtrière|officielle|
@@ -220,6 +200,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[i1HEQ6f15fMEcHQf.htm](pathfinder-bestiary/i1HEQ6f15fMEcHQf.htm)|Duergar Sharpshooter|Tireur d’élite Duergar|officielle|
 |[i3N3udPyTGVPLpoq.htm](pathfinder-bestiary/i3N3udPyTGVPLpoq.htm)|Adult Blue Dragon|Dragon bleu adulte|officielle|
 |[I4CpyMUsWfFYdpL5.htm](pathfinder-bestiary/I4CpyMUsWfFYdpL5.htm)|Imp|Diablotin|officielle|
+|[I4o2Gqpr2ioiUXA9.htm](pathfinder-bestiary/I4o2Gqpr2ioiUXA9.htm)|Xulgath Leader|Chef Xulgath|officielle|
 |[i6Rd1BE30hhyKxwo.htm](pathfinder-bestiary/i6Rd1BE30hhyKxwo.htm)|Flash Beetle|Scarabée-flash|officielle|
 |[iA9lbwH0qROTjCva.htm](pathfinder-bestiary/iA9lbwH0qROTjCva.htm)|Orc Warrior|Guerrier orc|officielle|
 |[iD3YlM0QzI2SrjD6.htm](pathfinder-bestiary/iD3YlM0QzI2SrjD6.htm)|Azure Worm|Ver azur|officielle|
@@ -235,6 +216,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[iSwUKe7cEytclS7r.htm](pathfinder-bestiary/iSwUKe7cEytclS7r.htm)|Dryad|Dryade|officielle|
 |[IUzKFRX0uHl1yxkn.htm](pathfinder-bestiary/IUzKFRX0uHl1yxkn.htm)|Greater Shadow|Ombre majeure|officielle|
 |[Iw2QccAkRc5Vnfzj.htm](pathfinder-bestiary/Iw2QccAkRc5Vnfzj.htm)|Ghaele|Ghaéle|officielle|
+|[Ix1PziAEk9IIMYBz.htm](pathfinder-bestiary/Ix1PziAEk9IIMYBz.htm)|Zombie Brute|Brute zombie|officielle|
 |[IXen98RbUlbxDWBD.htm](pathfinder-bestiary/IXen98RbUlbxDWBD.htm)|Gogiteth|Gogiteth|officielle|
 |[J0dSbywBRgD2kf19.htm](pathfinder-bestiary/J0dSbywBRgD2kf19.htm)|Giant Wasp|Guêpe géante|officielle|
 |[j0gCguJx3ILB1j9o.htm](pathfinder-bestiary/j0gCguJx3ILB1j9o.htm)|Soulbound Doll (Chaotic Good)|Poupée d'âme (Chaotique bon)|libre|
@@ -242,16 +224,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[j7NNPfZwD19BwSEZ.htm](pathfinder-bestiary/j7NNPfZwD19BwSEZ.htm)|Unseen Servant|Serviteur invisible|officielle|
 |[jeAGl6OAVrrIPgu3.htm](pathfinder-bestiary/jeAGl6OAVrrIPgu3.htm)|Hell Hound|Molosse infernal|officielle|
 |[Jgh0WGVetNXi5jlM.htm](pathfinder-bestiary/Jgh0WGVetNXi5jlM.htm)|Quatoid|Quatoïde|officielle|
+|[jGzVwekcRX5aQpbT.htm](pathfinder-bestiary/jGzVwekcRX5aQpbT.htm)|Goblin Commando|Commando Gobelin|officielle|
 |[JhQGNMlKARMx1n2D.htm](pathfinder-bestiary/JhQGNMlKARMx1n2D.htm)|Adult Red Dragon|Dragon rouge adulte|officielle|
 |[JiThbhDfjUoPaTP1.htm](pathfinder-bestiary/JiThbhDfjUoPaTP1.htm)|Baomal|Baomal|officielle|
+|[JkBJ8B07ElXrfDaG.htm](pathfinder-bestiary/JkBJ8B07ElXrfDaG.htm)|Boggard Warrior|Guerrier bourbiérin|officielle|
 |[jMiiQDIDxW9ZMvCV.htm](pathfinder-bestiary/jMiiQDIDxW9ZMvCV.htm)|Dhampir Wizard|Magicien Dhampir|officielle|
 |[jnmUcTs4hn1c5bz9.htm](pathfinder-bestiary/jnmUcTs4hn1c5bz9.htm)|Pugwampi|Pugwampi|officielle|
 |[JnOgG1xfWleFGNt9.htm](pathfinder-bestiary/JnOgG1xfWleFGNt9.htm)|Adult Brass Dragon|Dragon d'airain adulte|officielle|
 |[jP8CO6z7bNIhOuqQ.htm](pathfinder-bestiary/jP8CO6z7bNIhOuqQ.htm)|Ofalth|Ofalth|officielle|
+|[jVZRROs0GzDjVrgi.htm](pathfinder-bestiary/jVZRROs0GzDjVrgi.htm)|Goblin Warrior|Guerrier Gobelin|officielle|
 |[Jy2va0NTTbaUH1zP.htm](pathfinder-bestiary/Jy2va0NTTbaUH1zP.htm)|War Horse|Cheval de bataille|officielle|
 |[k3Lt3bWBadXvlIbG.htm](pathfinder-bestiary/k3Lt3bWBadXvlIbG.htm)|Poltergeist|Poltergeist|officielle|
 |[k9fM0vufbdsDPQul.htm](pathfinder-bestiary/k9fM0vufbdsDPQul.htm)|Fire Mephit|Méphite du feu|officielle|
+|[K9Hw43co8fhwmKkM.htm](pathfinder-bestiary/K9Hw43co8fhwmKkM.htm)|Grothlut|Grothlut|officielle|
 |[KclNszYZ7sjwE9nX.htm](pathfinder-bestiary/KclNszYZ7sjwE9nX.htm)|Hobgoblin Archer|Arbalétrier Hobgobelin|officielle|
+|[kCRfBZqCugMQmdpd.htm](pathfinder-bestiary/kCRfBZqCugMQmdpd.htm)|White Kobold Dragon Mage|Mage-dragon blanc Kobold|libre|
 |[KDRlxdIUADWHI6Vr.htm](pathfinder-bestiary/KDRlxdIUADWHI6Vr.htm)|Air Mephit|Méphite d'air|officielle|
 |[keCgklXcy4HZgQIL.htm](pathfinder-bestiary/keCgklXcy4HZgQIL.htm)|Adamantine Golem|Golem d’adamantium|officielle|
 |[kfeL172Ix3x1YRc9.htm](pathfinder-bestiary/kfeL172Ix3x1YRc9.htm)|Mummy Pharaoh|Momie pharaon|officielle|
@@ -262,6 +249,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kPBSSOuR8n8vZHXB.htm](pathfinder-bestiary/kPBSSOuR8n8vZHXB.htm)|Otyugh|Otyugh|officielle|
 |[KpxhSWRIhG7ns5NA.htm](pathfinder-bestiary/KpxhSWRIhG7ns5NA.htm)|Spider Swarm|Nuée d'araignées|officielle|
 |[KsWAIXTTh3mfNWOY.htm](pathfinder-bestiary/KsWAIXTTh3mfNWOY.htm)|Giant Viper|Vipère géante|officielle|
+|[KxN9aGFGPxl6oLGF.htm](pathfinder-bestiary/KxN9aGFGPxl6oLGF.htm)|Plague Zombie|Zombie pestiféré|officielle|
 |[l05LjJTXvFS4tYTE.htm](pathfinder-bestiary/l05LjJTXvFS4tYTE.htm)|Centaur|Centaure|officielle|
 |[l17XDoK0UIjXUvOv.htm](pathfinder-bestiary/l17XDoK0UIjXUvOv.htm)|Cloud Giant|Géant des nuages|officielle|
 |[l3Pe8FsFbLvft1Fq.htm](pathfinder-bestiary/l3Pe8FsFbLvft1Fq.htm)|Lion|Lion|officielle|
@@ -271,6 +259,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[lo4fR4jDVzLdwwkH.htm](pathfinder-bestiary/lo4fR4jDVzLdwwkH.htm)|Skeletal Hulk|Mastodonte squelettique|officielle|
 |[LUtSo30fQWj7mrDn.htm](pathfinder-bestiary/LUtSo30fQWj7mrDn.htm)|Storm Lord|Seigneur des tempêtes|officielle|
 |[Lvdykf6wfqzZBlZd.htm](pathfinder-bestiary/Lvdykf6wfqzZBlZd.htm)|Ancient Black Dragon|Dragon noir vénérable|officielle|
+|[LVhVb7abhv4onzZZ.htm](pathfinder-bestiary/LVhVb7abhv4onzZZ.htm)|Arbiter|Arbitre|officielle|
 |[m3x8q5rZ6zh9x82s.htm](pathfinder-bestiary/m3x8q5rZ6zh9x82s.htm)|Guthallath|Guthallath|officielle|
 |[M6RknN77XTo23v45.htm](pathfinder-bestiary/M6RknN77XTo23v45.htm)|Banshee|Banshie|officielle|
 |[mblGfyIXWhiaNpFw.htm](pathfinder-bestiary/mblGfyIXWhiaNpFw.htm)|Skeletal Horse|Cheval squelettique|officielle|
@@ -287,6 +276,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[NpcS7iocNNsno6lE.htm](pathfinder-bestiary/NpcS7iocNNsno6lE.htm)|Warsworn|Guerrlier|officielle|
 |[NTXm3ee7WZJ92Sww.htm](pathfinder-bestiary/NTXm3ee7WZJ92Sww.htm)|Wemmuth|Wemmuth|officielle|
 |[NVWaLagWOu5tCCZu.htm](pathfinder-bestiary/NVWaLagWOu5tCCZu.htm)|Sod Hound|Molosse de tourbe|officielle|
+|[NW1Ax1QGE9W4DmiN.htm](pathfinder-bestiary/NW1Ax1QGE9W4DmiN.htm)|Ceustodaemon|Ceustodaémon|officielle|
 |[nWiibOE9wVSlTdkx.htm](pathfinder-bestiary/nWiibOE9wVSlTdkx.htm)|Ancient Gold Dragon|Dragon d'or vénérable|officielle|
 |[NymSyXbXqfkGLFWF.htm](pathfinder-bestiary/NymSyXbXqfkGLFWF.htm)|Lamia Matriarch|Matriarche Lamie|officielle|
 |[o3DRwRKeJrl83Wv9.htm](pathfinder-bestiary/o3DRwRKeJrl83Wv9.htm)|Gnoll Hunter|Chasseur Gnoll|officielle|
@@ -304,6 +294,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[PCh2kxeSYWRit9TE.htm](pathfinder-bestiary/PCh2kxeSYWRit9TE.htm)|Pegasus|Pégase|officielle|
 |[PfcS6WzhMGzds5Wf.htm](pathfinder-bestiary/PfcS6WzhMGzds5Wf.htm)|Nilith|Nilith|officielle|
 |[pG3UPgbAxNCXAyQE.htm](pathfinder-bestiary/pG3UPgbAxNCXAyQE.htm)|Boggard Swampseer|Devin des marais Bourbiérin|officielle|
+|[PgBsMyjMITjQnCs8.htm](pathfinder-bestiary/PgBsMyjMITjQnCs8.htm)|Kolyarut|Kolyarut|officielle|
 |[PiAGhPEzJMC2egQk.htm](pathfinder-bestiary/PiAGhPEzJMC2egQk.htm)|Animated Statue|Statue animée|officielle|
 |[PiZkpRK23u89h82S.htm](pathfinder-bestiary/PiZkpRK23u89h82S.htm)|Hobgoblin Soldier|Soldat Hobgobelin|officielle|
 |[pkNWilK2pHZ5TDsd.htm](pathfinder-bestiary/pkNWilK2pHZ5TDsd.htm)|Lesser Death|Mort inférieure|officielle|
@@ -317,6 +308,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[q3LrTrfnCvoUXuRz.htm](pathfinder-bestiary/q3LrTrfnCvoUXuRz.htm)|Slothspawn|Rejeton de la paresse|libre|
 |[Q8FAcsuta4p6d8KS.htm](pathfinder-bestiary/Q8FAcsuta4p6d8KS.htm)|Firewyrm|Wyrm de feu|officielle|
 |[Qa7HaKfKiosEPr94.htm](pathfinder-bestiary/Qa7HaKfKiosEPr94.htm)|Sphinx|Sphinx|officielle|
+|[QaldZV2p9RpMXzzn.htm](pathfinder-bestiary/QaldZV2p9RpMXzzn.htm)|Green Kobold Dragon Mage|Mage-dragon vert Kobold|libre|
 |[qcZvFCAnslI9XNTR.htm](pathfinder-bestiary/qcZvFCAnslI9XNTR.htm)|Wasp Swarm|Nuée de guêpes|officielle|
 |[qfuoFK2GXBJusQ33.htm](pathfinder-bestiary/qfuoFK2GXBJusQ33.htm)|Duergar Bombardier|Bombardier Duergar|officielle|
 |[QGTSPki2eoLuavif.htm](pathfinder-bestiary/QGTSPki2eoLuavif.htm)|Envyspawn|Rejeton de l'envie|libre|
@@ -329,6 +321,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[QRRX82FIjBKd8pzs.htm](pathfinder-bestiary/QRRX82FIjBKd8pzs.htm)|Guard Dog|Chien de garde|officielle|
 |[QT2gA8WMaT2cuXr7.htm](pathfinder-bestiary/QT2gA8WMaT2cuXr7.htm)|Pit Fiend|Diantrefosse|officielle|
 |[quXuocHuT2US7cWz.htm](pathfinder-bestiary/quXuocHuT2US7cWz.htm)|Daeodon|Daeodon|officielle|
+|[R9eoGwQ2tudxUKxS.htm](pathfinder-bestiary/R9eoGwQ2tudxUKxS.htm)|Black Kobold Dragon Mage|Mage-dragon Noir Kobold|libre|
 |[r9w1n85mp9Ip4QiS.htm](pathfinder-bestiary/r9w1n85mp9Ip4QiS.htm)|Kobold Warrior|Guerrier kobold|officielle|
 |[r9WAwtCLxoJMjd8J.htm](pathfinder-bestiary/r9WAwtCLxoJMjd8J.htm)|Poracha|Poracha|officielle|
 |[RAjbVzWcfrPBbgkK.htm](pathfinder-bestiary/RAjbVzWcfrPBbgkK.htm)|Soulbound Doll (Lawful Good)|Poupée d'âme (Loyal bon)|libre|
@@ -436,6 +429,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[YPLZkAlOuaj3F3nZ.htm](pathfinder-bestiary/YPLZkAlOuaj3F3nZ.htm)|Young Silver Dragon|Dragon d'argent jeune|officielle|
 |[yxCmLBpw6xqWFU3E.htm](pathfinder-bestiary/yxCmLBpw6xqWFU3E.htm)|Vampire Mastermind|Vampire, cerveau|officielle|
 |[yzyaD2yGDrxmYh7P.htm](pathfinder-bestiary/yzyaD2yGDrxmYh7P.htm)|Lizardfolk Stargazer|Homme-lézard astrobservateur|officielle|
+|[z0l0lHc79NbMxiqZ.htm](pathfinder-bestiary/z0l0lHc79NbMxiqZ.htm)|Goblin Pyro|Pyro gobelin|officielle|
 |[Z7xWkQKCHGyd02B1.htm](pathfinder-bestiary/Z7xWkQKCHGyd02B1.htm)|Giant Mantis|Mante géante|officielle|
 |[zA1I5YXI9GCSaksP.htm](pathfinder-bestiary/zA1I5YXI9GCSaksP.htm)|Naiad Queen|Naïade souveraine|officielle|
 |[zBPGUUP788b0g1Ng.htm](pathfinder-bestiary/zBPGUUP788b0g1Ng.htm)|Keketar|Ké’ktar|officielle|
