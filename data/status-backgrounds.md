@@ -1,19 +1,12 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 166
+ * **libre**: 167
  * **officielle**: 45
- * **auto-trad**: 1
 
 
-Dernière mise à jour: 2021-05-17 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-21 12:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions automatiques à corriger/retraduire
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[QnL7hqUi9HPenrbC.htm](backgrounds/QnL7hqUi9HPenrbC.htm)|Newcomer In Need|auto-trad|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -170,6 +163,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Q2brdDtEoI3cmpuD.htm](backgrounds/Q2brdDtEoI3cmpuD.htm)|Feral Child|Enfant sauvage|libre|
 |[qB7g1OiZ8v8zgvkL.htm](backgrounds/qB7g1OiZ8v8zgvkL.htm)|Wonder Taster|Goûteur de merveilles|libre|
 |[qbvzNG8hMjb8f66D.htm](backgrounds/qbvzNG8hMjb8f66D.htm)|Squire|Écuyer|libre|
+|[QnL7hqUi9HPenrbC.htm](backgrounds/QnL7hqUi9HPenrbC.htm)|Newcomer In Need|Nouveau venu dans le besoin|libre|
 |[qY4IUwVWIKPSFskP.htm](backgrounds/qY4IUwVWIKPSFskP.htm)|Aerialist|Trapéziste|libre|
 |[r0kYIbN06Cv8eNG3.htm](backgrounds/r0kYIbN06Cv8eNG3.htm)|Warrior|Homme d'armes|officielle|
 |[R1v4gUu8oRMoOASM.htm](backgrounds/R1v4gUu8oRMoOASM.htm)|Wildwood Local|Habitué des bois|libre|
