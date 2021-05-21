@@ -1,11 +1,11 @@
 # État de la traduction (conditionitems)
 
- * **changé**: 34
- * **officielle**: 7
- * **libre**: 1
+ * **changé**: 30
+ * **officielle**: 10
+ * **libre**: 2
 
 
-Dernière mise à jour: 2021-05-02 21:02 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-21 12:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -42,10 +42,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VcDeM8A5oI6VqhbM.htm](conditionitems/VcDeM8A5oI6VqhbM.htm)|Restrained|Entravé|changé|
 |[VRSef5y1LmL2Hkjf.htm](conditionitems/VRSef5y1LmL2Hkjf.htm)|Undetected|Non détecté|changé|
 |[XgEqL1kFApUbl5Z2.htm](conditionitems/XgEqL1kFApUbl5Z2.htm)|Blinded|Aveuglé|changé|
-|[yblD8fOR1J8rDwEQ.htm](conditionitems/yblD8fOR1J8rDwEQ.htm)|Confused|Confus|changé|
-|[Yl48xTdMh3aeQYL2.htm](conditionitems/Yl48xTdMh3aeQYL2.htm)|Wounded|Blessé|changé|
-|[yZRUzMqrMmfLu0V1.htm](conditionitems/yZRUzMqrMmfLu0V1.htm)|Dying|Mourant|changé|
-|[zJxUflt9np0q4yML.htm](conditionitems/zJxUflt9np0q4yML.htm)|Invisible|Invisible|changé|
 
 ## Liste des traductions complétés
 
@@ -59,3 +55,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nlCjDvLMf2EkV2dl.htm](conditionitems/nlCjDvLMf2EkV2dl.htm)|Quickened|Accéléré|officielle|
 |[TBSHQspnbcqxsmjL.htm](conditionitems/TBSHQspnbcqxsmjL.htm)|Frightened|Effrayé|officielle|
 |[xYTAsEpcJE1Ccni3.htm](conditionitems/xYTAsEpcJE1Ccni3.htm)|Slowed|Ralenti|libre|
+|[yblD8fOR1J8rDwEQ.htm](conditionitems/yblD8fOR1J8rDwEQ.htm)|Confused|Confus|officielle|
+|[Yl48xTdMh3aeQYL2.htm](conditionitems/Yl48xTdMh3aeQYL2.htm)|Wounded|Blessé|libre|
+|[yZRUzMqrMmfLu0V1.htm](conditionitems/yZRUzMqrMmfLu0V1.htm)|Dying|Mourant|officielle|
+|[zJxUflt9np0q4yML.htm](conditionitems/zJxUflt9np0q4yML.htm)|Invisible|Invisible|officielle|

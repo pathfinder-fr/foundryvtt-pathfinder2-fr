@@ -1,11 +1,11 @@
 # État de la traduction (spell-effects)
 
- * **auto-trad**: 134
+ * **auto-trad**: 146
  * **libre**: 5
  * **changé**: 5
 
 
-Dernière mise à jour: 2021-05-02 21:02 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-21 12:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -25,6 +25,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-0gv9D5RlrF5cKA3I.htm](spell-effects/01-0gv9D5RlrF5cKA3I.htm)|Spell Effect: Adapt Self (Darkvision)|auto-trad|
 |[01-0R42NyuEZMVALjQs.htm](spell-effects/01-0R42NyuEZMVALjQs.htm)|Spell Effect: Traveler's Transit (Swim)|auto-trad|
 |[01-2SWUzp4JuNK5EX0J.htm](spell-effects/01-2SWUzp4JuNK5EX0J.htm)|Spell Effect: Adapt Self (Swim)|auto-trad|
+|[01-3Ktyd5F9lOPo4myk.htm](spell-effects/01-3Ktyd5F9lOPo4myk.htm)|Spell Effect: Illusory Disguise|auto-trad|
 |[01-4CUZSDn4BiqWpvZg.htm](spell-effects/01-4CUZSDn4BiqWpvZg.htm)|Spell Effect: Ki Strike (Air)|auto-trad|
 |[01-4iakL7fDcZ8RT6Tu.htm](spell-effects/01-4iakL7fDcZ8RT6Tu.htm)|Spell Effect: Face in the Crowd|auto-trad|
 |[01-57lnrCzGUcNUBP2O.htm](spell-effects/01-57lnrCzGUcNUBP2O.htm)|Spell Effect: Athletic Rush|auto-trad|
@@ -53,9 +54,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-nEqBnsrvJZzh8Bil.htm](spell-effects/01-nEqBnsrvJZzh8Bil.htm)|Spell Effect: Protection from Evil|auto-trad|
 |[01-nkk4O5fyzrC0057i.htm](spell-effects/01-nkk4O5fyzrC0057i.htm)|Spell Effect: Soothe|auto-trad|
 |[01-oaRt210JV4GZIHmJ.htm](spell-effects/01-oaRt210JV4GZIHmJ.htm)|Spell Effect: Rejuvenating Touch|auto-trad|
+|[01-oi5M6yQBlTKvLy29.htm](spell-effects/01-oi5M6yQBlTKvLy29.htm)|Spell Effect: Gravity Weapon (3 Dice)|auto-trad|
 |[01-PNEGSVYhMKf6kQZ6.htm](spell-effects/01-PNEGSVYhMKf6kQZ6.htm)|Spell Effect: Call to Arms|auto-trad|
 |[01-ppVKJY6AYggn2Fma.htm](spell-effects/01-ppVKJY6AYggn2Fma.htm)|Spell Effect: Goodberry|auto-trad|
 |[01-PQHP7Oph3BQX1GhF.htm](spell-effects/01-PQHP7Oph3BQX1GhF.htm)|Spell Effect: Longstrider|auto-trad|
+|[01-qhNUfwpkD8BRw4zj.htm](spell-effects/01-qhNUfwpkD8BRw4zj.htm)|Spell Effect: Magic Hide|auto-trad|
 |[01-qlz0sJIvqc0FdUdr.htm](spell-effects/01-qlz0sJIvqc0FdUdr.htm)|Spell Effect: Weapon Surge|auto-trad|
 |[01-qQLHPbUFASKFky1W.htm](spell-effects/01-qQLHPbUFASKFky1W.htm)|Spell Effect: Hyperfocus|auto-trad|
 |[01-qVngSDWvHcnht0fP.htm](spell-effects/01-qVngSDWvHcnht0fP.htm)|Spell Effect: Protection from Good|auto-trad|
@@ -63,11 +66,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-s6CwkSsMDGfUmotn.htm](spell-effects/01-s6CwkSsMDGfUmotn.htm)|Spell Effect: Death Ward|auto-trad|
 |[01-sE2txm68yZSFMV3v.htm](spell-effects/01-sE2txm68yZSFMV3v.htm)|Spell Effect: Sweet Dream (Voyaging)|auto-trad|
 |[01-Tdcv2q9zlXZBZRMT.htm](spell-effects/01-Tdcv2q9zlXZBZRMT.htm)|Spell Effect: Wild Morph (Wild Claws)|auto-trad|
+|[01-tNryw0Rl4L8LF8Yq.htm](spell-effects/01-tNryw0Rl4L8LF8Yq.htm)|Spell Effect: Gravity Weapon (4 Dice)|auto-trad|
 |[01-tTRy1cc24ApPnym8.htm](spell-effects/01-tTRy1cc24ApPnym8.htm)|Spell Effect: Ki Strike (Water)|auto-trad|
 |[01-TwtUIEyenrtAbeiX.htm](spell-effects/01-TwtUIEyenrtAbeiX.htm)|Spell Effect: Tanglefoot|auto-trad|
+|[01-U2dJnkoGSCYOsQFI.htm](spell-effects/01-U2dJnkoGSCYOsQFI.htm)|Spell Effect: Gravity Weapon (1 Die)|auto-trad|
 |[01-U2ekk5iBaSfZlEkp.htm](spell-effects/01-U2ekk5iBaSfZlEkp.htm)|Spell Effect: Ki Strike (Earth)|auto-trad|
 |[01-ubT5UGReu1PoeCL0.htm](spell-effects/01-ubT5UGReu1PoeCL0.htm)|Spell Effect: Ki Strike (Negative)|auto-trad|
 |[01-uDOxq24S7IT2EcXv.htm](spell-effects/01-uDOxq24S7IT2EcXv.htm)|Spell Effect: Object Memory (Weapon)|auto-trad|
+|[01-uJNDI3CGGOtcG8nB.htm](spell-effects/01-uJNDI3CGGOtcG8nB.htm)|Spell Effect: Gravity Weapon (2 Dice)|auto-trad|
 |[01-UTLp7omqsiC36bso.htm](spell-effects/01-UTLp7omqsiC36bso.htm)|Spell Effect: Bane|auto-trad|
 |[01-v051JKN0Dj3ve5cF.htm](spell-effects/01-v051JKN0Dj3ve5cF.htm)|Spell Effect: Sweet Dream (Insight)|auto-trad|
 |[01-VFereWC1agrwgzPL.htm](spell-effects/01-VFereWC1agrwgzPL.htm)|Spell Effect: Inspire Heroics (Courage, +3)|auto-trad|
@@ -79,15 +85,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-y9PJdDYFemhk6Z5o.htm](spell-effects/01-y9PJdDYFemhk6Z5o.htm)|Spell Effect: Agile Feet|auto-trad|
 |[01-ydsLEGjY89Akc4oZ.htm](spell-effects/01-ydsLEGjY89Akc4oZ.htm)|Spell Effect: Pest Form|auto-trad|
 |[01-zpxIwEjnLUSO1B4z.htm](spell-effects/01-zpxIwEjnLUSO1B4z.htm)|Spell Effect: Magic's Vessel|auto-trad|
+|[02-2wfrhRLmmgPSKbAZ.htm](spell-effects/02-2wfrhRLmmgPSKbAZ.htm)|Spell Effect: Animal Feature (Claws)|auto-trad|
 |[02-4U9BWv0rSpGbU0wr.htm](spell-effects/02-4U9BWv0rSpGbU0wr.htm)|Spell Effect: Ki Strike (Evil)|auto-trad|
 |[02-70qdCBokXBvKIUIQ.htm](spell-effects/02-70qdCBokXBvKIUIQ.htm)|Spell Effect: Vision of Weakness|auto-trad|
 |[02-BT1ofB6RvRocQOWO.htm](spell-effects/02-BT1ofB6RvRocQOWO.htm)|Spell Effect: Animal Form (Bull)|auto-trad|
+|[02-dCQCzapIk53xmDo5.htm](spell-effects/02-dCQCzapIk53xmDo5.htm)|Spell Effect: Animal Feature (Cat Eyes)|auto-trad|
 |[02-F4DTpDXNu5IliyhJ.htm](spell-effects/02-F4DTpDXNu5IliyhJ.htm)|Spell Effect: Animal Form (Deer)|auto-trad|
+|[02-GhGoZdAZtzZTYCzj.htm](spell-effects/02-GhGoZdAZtzZTYCzj.htm)|Spell Effect: Animal Feature (Jaws)|auto-trad|
 |[02-gQnDKDeBTtjwOWAk.htm](spell-effects/02-gQnDKDeBTtjwOWAk.htm)|Spell Effect: Animal Form (Bear)|auto-trad|
 |[02-j2LhQ7kEQhq3J3zZ.htm](spell-effects/02-j2LhQ7kEQhq3J3zZ.htm)|Spell Effect: Animal Form (Frog)|auto-trad|
 |[02-joCQGq27FylDuY9P.htm](spell-effects/02-joCQGq27FylDuY9P.htm)|Spell Effect: Ki Strike (Chaotic)|auto-trad|
 |[02-kz3mlFwb9tV9bFwu.htm](spell-effects/02-kz3mlFwb9tV9bFwu.htm)|Spell Effect: Animal Form (Snake)|auto-trad|
 |[02-LXf1Cqi1zyo4DaLv.htm](spell-effects/02-LXf1Cqi1zyo4DaLv.htm)|Spell Effect: Shrink|auto-trad|
+|[02-mr6mlkUMeStdChxi.htm](spell-effects/02-mr6mlkUMeStdChxi.htm)|Spell Effect: Animal Feature (Owl Eyes)|auto-trad|
 |[02-OplbQWW6i1NtMq9f.htm](spell-effects/02-OplbQWW6i1NtMq9f.htm)|Spell Effect: Ki Strike (Good)|auto-trad|
 |[02-ptOqsN5FS0nQh7RW.htm](spell-effects/02-ptOqsN5FS0nQh7RW.htm)|Spell Effect: Animal Form (Cat)|auto-trad|
 |[02-qPaEEhczUWCQo6ux.htm](spell-effects/02-qPaEEhczUWCQo6ux.htm)|Spell Effect: Animal Form (Shark)|auto-trad|
@@ -103,6 +113,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03-llrOM8rPP9nxIuEN.htm](spell-effects/03-llrOM8rPP9nxIuEN.htm)|Spell Effect: Insect Form (Mantis)|auto-trad|
 |[04-0QVufU5o3xIxiHmP.htm](spell-effects/04-0QVufU5o3xIxiHmP.htm)|Spell Effect: Aerial Form (Bird)|auto-trad|
 |[04-0s6YaL3IjqECmjab.htm](spell-effects/04-0s6YaL3IjqECmjab.htm)|Spell Effect: Roar of the Wyrm|auto-trad|
+|[04-1VuHjj32wge2gPOr.htm](spell-effects/04-1VuHjj32wge2gPOr.htm)|Spell Effect: Animal Feature (Wings)|auto-trad|
 |[04-3HEiYVhqypfc4IsP.htm](spell-effects/04-3HEiYVhqypfc4IsP.htm)|Spell Effect: Safeguard Secret|auto-trad|
 |[04-41WThj17MZBXTO2X.htm](spell-effects/04-41WThj17MZBXTO2X.htm)|Spell Effect: Enlarge (Heightened 4th)|auto-trad|
 |[04-542Keo6txtq7uvqe.htm](spell-effects/04-542Keo6txtq7uvqe.htm)|Spell Effect: Dinosaur Form (Tyrannosaurus)|auto-trad|
@@ -119,6 +130,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[04-UH2sT6eW5e31Xytd.htm](spell-effects/04-UH2sT6eW5e31Xytd.htm)|Spell Effect: Dutiful Challenge|auto-trad|
 |[04-UjoNm3lrhlg4ctAQ.htm](spell-effects/04-UjoNm3lrhlg4ctAQ.htm)|Spell Effect: Aerial Form (Pterosaur)|auto-trad|
 |[04-xgZxYqjDPNtsQ3Qp.htm](spell-effects/04-xgZxYqjDPNtsQ3Qp.htm)|Spell Effect: Aerial Form (Wasp)|auto-trad|
+|[04-Xlwt1wpjEKWBLUjK.htm](spell-effects/04-Xlwt1wpjEKWBLUjK.htm)|Spell Effect: Animal Feature (Fish Tail)|auto-trad|
 |[05-5MI2c9IgxfSeGZQo.htm](spell-effects/05-5MI2c9IgxfSeGZQo.htm)|Spell Effect: Wind Jump|auto-trad|
 |[05-8eWLR0WCf5258z8X.htm](spell-effects/05-8eWLR0WCf5258z8X.htm)|Spell Effect: Elemental Form (Earth)|auto-trad|
 |[05-ceEA7nBGNmoR8Sjj.htm](spell-effects/05-ceEA7nBGNmoR8Sjj.htm)|Spell Effect: Litany of Self-Interest|auto-trad|
@@ -141,12 +153,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[06-lIl0yYdS9zojOZhe.htm](spell-effects/06-lIl0yYdS9zojOZhe.htm)|Spell Effect: Life-Giving Form|auto-trad|
 |[06-nWEx5kpkE8YlBZvy.htm](spell-effects/06-nWEx5kpkE8YlBZvy.htm)|Spell Effect: Dragon Form (Green)|auto-trad|
 |[06-OeCn76SB92GPOZwr.htm](spell-effects/06-OeCn76SB92GPOZwr.htm)|Spell Effect: Dragon Form (Brass)|auto-trad|
+|[06-rHXOZAFBdRXIlxt5.htm](spell-effects/06-rHXOZAFBdRXIlxt5.htm)|Spell Effect: Dragon Form (Black)|auto-trad|
 |[06-TUyEeLyqdJL6PwbH.htm](spell-effects/06-TUyEeLyqdJL6PwbH.htm)|Spell Effect: Dragon Form (Silver)|auto-trad|
 |[06-V4a9pZHNUlddAwTA.htm](spell-effects/06-V4a9pZHNUlddAwTA.htm)|Spell Effect: Dragon Form (Red)|auto-trad|
 |[08-b8bfWIICHOsGVzjp.htm](spell-effects/08-b8bfWIICHOsGVzjp.htm)|Spell Effect: Monstrosity Form (Phoenix)|auto-trad|
 |[08-Eik8Fj8nGo2GLcbn.htm](spell-effects/08-Eik8Fj8nGo2GLcbn.htm)|Spell Effect: Monstrosity Form (Sea Serpent)|auto-trad|
 |[08-rEsgDhunQ5Yx8KZx.htm](spell-effects/08-rEsgDhunQ5Yx8KZx.htm)|Spell Effect: Monstrosity Form (Purple Worm)|auto-trad|
-|[08-rHXOZAFBdRXIlxt5.htm](spell-effects/08-rHXOZAFBdRXIlxt5.htm)|Spell Effect: Dragon Form (Black)|auto-trad|
 |[09-1p5LEpMSRFG1099t.htm](spell-effects/09-1p5LEpMSRFG1099t.htm)|Spell Effect: Ki Form (Lawful)|auto-trad|
 |[09-bbOdbGiRXGEQ2aY0.htm](spell-effects/09-bbOdbGiRXGEQ2aY0.htm)|Spell Effect: Ki Form (Positive)|auto-trad|
 |[09-F0XnusshRzgMdFT1.htm](spell-effects/09-F0XnusshRzgMdFT1.htm)|Spell Effect: Ki Form (Force)|auto-trad|

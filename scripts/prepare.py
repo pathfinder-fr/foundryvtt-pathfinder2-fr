@@ -7,7 +7,7 @@ import os
 import re
 import logging
 
-from libdata import readFolder, dataToFile, getPacks, getValue, getList, equals
+from libdata import readFolder, dataToFile, getPacks, getValue, getList, equals, print_error, print_warning
 from libselenium import translator_driver, full_trad
 
 print('Preparing translation')
@@ -21,16 +21,18 @@ driver = translator_driver()
 
 print('Loading packs...')
 packs = getPacks()
+has_errors = False
 
 for p in packs:
-  print('Preparing %s.db pack' % (p["id"]))
-  FILE=ROOT + "packs/" + p["id"] + ".db"
+  pack_id = p["id"]
+  print('Preparing %s.db pack' % (pack_id))
+  FILE=ROOT + "packs/" + pack_id + ".db"
   entries = {}
 
   # =================================
   # read pack files and generate dict
   # =================================
-  with open(FILE, 'r') as f:
+  with open(FILE, 'r', encoding='utf8') as f:
     content = f.readlines()
 
   count = 0
@@ -39,7 +41,7 @@ for p in packs:
     try:
       obj = json.loads(line)
     except:
-      print("Invalid json %s at line %d" % (FILE, count))
+      print_error("Invalid json %s at line %d" % (FILE, count))
       continue
     
     if '$$deleted' in obj:
@@ -67,7 +69,7 @@ for p in packs:
   duplic = {}
   for id in entries:
     if entries[id]['name'] in duplic:
-      print("Duplicated name: %s (%s)" % (entries[id]['name'],id))
+      print_warning("Duplicated name: %s (%s)\e[0m" % (entries[id]['name'], id))
       #entries[id] = None
     else:
       duplic[entries[id]['name']] = id
@@ -75,9 +77,16 @@ for p in packs:
   # ==========================
   # read all available entries
   # ==========================
-  folderData = readFolder("%sdata/%s/" % (ROOT, p["id"]))
+  folderData = readFolder("%sdata/%s/" % (ROOT, pack_id))
   existing = folderData[0]
   existingByName = folderData[1]
+  pack_has_errors = folderData[2]
+
+  # si le pack contient au moins une erreur à la lecture, on arrête de l'examiner
+  if pack_has_errors == True:
+    print_error("Invalid data in pack %s, skipping" % (pack_id))
+    has_errors = True
+    continue
   
   # ========================
   # create or update entries
@@ -93,21 +102,22 @@ for p in packs:
       filename = "%s-%s-%s" % (source['type1'], source['type2'], filename)
     elif source['type1']:
       filename = "%s-%s" % (source['type1'], filename)
-    filepath = "%sdata/%s/%s" % (ROOT, p["id"], filename)
+    filepath = "%sdata/%s/%s" % (ROOT, pack_id, filename)
     
     # data exists for id
     if id in existing:
 
       # rename file if filepath not the same
       if existing[id]['filename'] != filename:
-        pathFrom = "%sdata/%s/%s" % (ROOT, p["id"], existing[id]['filename'])
-        pathTo = "%sdata/%s/%s" % (ROOT, p["id"], filename)
+        pathFrom = "%sdata/%s/%s" % (ROOT, pack_id, existing[id]['filename'])
+        pathTo = "%sdata/%s/%s" % (ROOT, pack_id, filename)
         os.rename(pathFrom, pathTo)
       
       # check status from existing file
       if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé", "auto-trad", "auto-googtrad", "vide"):
-        print("Status error for : %s" % filepath);
-        exit(1)
+        print_error("Status error for : %s" % filepath);
+        has_errors = True
+        continue
        
       # QUICK FIX pour: https://discord.com/channels/@me/757146858828333077/815954577219780728
       change = False
@@ -136,8 +146,8 @@ for p in packs:
       if source['name'] in existingByName and not source['name'] in ("Shattering Strike", "Chilling Spray"):
         oldEntry = existingByName[source['name']]
         # rename file
-        pathFrom = "%sdata/%s/%s" % (ROOT, p["id"], oldEntry['filename'])
-        pathTo = "%sdata/%s/%s" % (ROOT, p["id"], filename)
+        pathFrom = "%sdata/%s/%s" % (ROOT, pack_id, oldEntry['filename'])
+        pathTo = "%sdata/%s/%s" % (ROOT, pack_id, filename)
 
         if oldEntry['id'] in existing:
           del existing[oldEntry['id']]
@@ -171,19 +181,15 @@ for p in packs:
   # =======================
   for id in existing:
     if not id in entries:
-      filename = "%sdata/%s/%s" % (ROOT, p["id"], existing[id]['filename'])
+      filename = "%sdata/%s/%s" % (ROOT, pack_id, existing[id]['filename'])
       if existing[id]['status'] != 'aucune':
-        print("File cannot be safely removed! %s" % filename)
-        print("Please fix manually!")
-        #exit(1)
-        os.remove(filename)
-      else:
-        os.remove(filename)
-
+        print_warning("File cannot be safely removed! %s, please fix manually!" % filename)
+      
+      os.remove(filename)
 
 # fermeture de la connexion a DeepL Translator
 driver.quit()
-  
-  
-  
-  
+
+if has_errors:
+  print_error("Au moins une erreur survenue durant la préparation, échec")
+  exit(1)

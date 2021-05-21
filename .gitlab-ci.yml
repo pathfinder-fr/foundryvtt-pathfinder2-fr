@@ -6,7 +6,7 @@ variables:
         description: "Indique si le module Foundry doit être généré. Indiquez true pour générer le module."
     CI_DEPLOY_MODULE:
         value: "true"
-        description: "Indique si le module Foudry généré doit être déployé. Uniquement valide si CI_BUILD_MODULE vaut true. Passez cette variable à false pour tester la génération du module sans la déployer."
+        description: "Indique si le module Foundry généré doit être déployé. Uniquement valide si CI_BUILD_MODULE vaut true. Passez cette variable à false pour tester la génération du module sans la déployer."
 
 stages:
     - prepare

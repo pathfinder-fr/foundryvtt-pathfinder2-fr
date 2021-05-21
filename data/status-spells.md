@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
  * **officielle**: 283
- * **libre**: 188
- * **changé**: 396
+ * **libre**: 182
+ * **changé**: 402
  * **auto-trad**: 17
 
 
-Dernière mise à jour: 2021-05-02 21:02 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-21 12:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -40,11 +40,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-01-k43PIYwuQqjeJ3S3.htm](spells/abjuration-01-k43PIYwuQqjeJ3S3.htm)|Forced Quiet|Silence forcé|changé|
 |[abjuration-01-lY9fOk1qBDDhBT8s.htm](spells/abjuration-01-lY9fOk1qBDDhBT8s.htm)|Protective Ward|Champ protecteur|changé|
 |[abjuration-01-rMOI8JFJ0nT2mrCF.htm](spells/abjuration-01-rMOI8JFJ0nT2mrCF.htm)|Phase Familiar|Déphasage de familier|changé|
+|[abjuration-01-u2uSeH6YSbK1ajTy.htm](spells/abjuration-01-u2uSeH6YSbK1ajTy.htm)|Magic Hide|Peau magique|changé|
 |[abjuration-01-zlnXpME1T2uvn8Lr.htm](spells/abjuration-01-zlnXpME1T2uvn8Lr.htm)|Pass Without Trace|Passage sans trace|changé|
 |[abjuration-02-9HpwDN4MYQJnW0LG.htm](spells/abjuration-02-9HpwDN4MYQJnW0LG.htm)|Dispel Magic|Dissipation de la magie|changé|
 |[abjuration-02-dZV8nZUKRhGIr6g9.htm](spells/abjuration-02-dZV8nZUKRhGIr6g9.htm)|Heartbond|Lien du cœur|changé|
 |[abjuration-02-fWU7Qjp1JiX9g6eg.htm](spells/abjuration-02-fWU7Qjp1JiX9g6eg.htm)|Animus Mine|Mine psychique|changé|
 |[abjuration-02-FzAtX8yXBjTaisJK.htm](spells/abjuration-02-FzAtX8yXBjTaisJK.htm)|Undetectable Alignment|Alignement indétectable|changé|
+|[abjuration-04-caehfpQz7yp9yNzz.htm](spells/abjuration-04-caehfpQz7yp9yNzz.htm)|Dutiful Challenge|Défi respectueux|changé|
 |[abjuration-04-ksLCg62cLOojw3gN.htm](spells/abjuration-04-ksLCg62cLOojw3gN.htm)|Dimensional Anchor|Ancre dimensionnelle|changé|
 |[abjuration-04-OsrtOeG0TvDNnEFH.htm](spells/abjuration-04-OsrtOeG0TvDNnEFH.htm)|Safeguard Secret|Secret bien gardé|changé|
 |[abjuration-04-qJQADktwD0x8kLAy.htm](spells/abjuration-04-qJQADktwD0x8kLAy.htm)|Resilient Sphere|Sphère d'isolement|changé|
@@ -213,17 +215,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-09-m3lcOFm400lQCUps.htm](spells/enchantment-09-m3lcOFm400lQCUps.htm)|Power Word Kill|Mot de pouvoir mortel|changé|
 |[enchantment-09-xFY9RtDE4DQKlWNR.htm](spells/enchantment-09-xFY9RtDE4DQKlWNR.htm)|Crusade|Croisade|changé|
 |[enchantment-10-lyJDBD9OFW11vLyT.htm](spells/enchantment-10-lyJDBD9OFW11vLyT.htm)|Fatal Aria|Aria fatale|changé|
+|[enchantment-10-Um0aaJotqMKGmAlR.htm](spells/enchantment-10-Um0aaJotqMKGmAlR.htm)|Pied Piping|Flûte de Hamelin|changé|
 |[evocation-00-60sgbuMWN0268dB7.htm](spells/evocation-00-60sgbuMWN0268dB7.htm)|Telekinetic Projectile|Projectile télékinésique|changé|
 |[evocation-00-gISYsBFby1TiXfBt.htm](spells/evocation-00-gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|changé|
 |[evocation-00-gYjPm7YwGtEa1oxh.htm](spells/evocation-00-gYjPm7YwGtEa1oxh.htm)|Ray of Frost|Rayon de givre|changé|
 |[evocation-00-O9w7r4BKgPogYDDe.htm](spells/evocation-00-O9w7r4BKgPogYDDe.htm)|Produce Flame|Flammes|changé|
-|[evocation-01-1meVElIu1CEVYWkv.htm](spells/evocation-01-1meVElIu1CEVYWkv.htm)|Noxious Vapors|Vapeurs nocives|changé|
 |[evocation-01-6UafOE1ZUbHamsZJ.htm](spells/evocation-01-6UafOE1ZUbHamsZJ.htm)|Dim the Light|Diminuer la lumière|changé|
 |[evocation-01-AspA30tzKCHFWRf0.htm](spells/evocation-01-AspA30tzKCHFWRf0.htm)|Incendiary Aura|Aura incendiaire|changé|
 |[evocation-01-EzB9i7R6aBRAtJCh.htm](spells/evocation-01-EzB9i7R6aBRAtJCh.htm)|Tempest Touch|Toucher tempêtueux|changé|
 |[evocation-01-g1eY1vN44mgluE33.htm](spells/evocation-01-g1eY1vN44mgluE33.htm)|Charged Javelin|Javelot chagé|changé|
 |[evocation-01-ho1jSoYKrHUNnM90.htm](spells/evocation-01-ho1jSoYKrHUNnM90.htm)|Tempest Surge|Onde de tempête|changé|
 |[evocation-01-iAnpxrLaBU4V6Sej.htm](spells/evocation-01-iAnpxrLaBU4V6Sej.htm)|Tidal Surge|Raz-de-marée|changé|
+|[evocation-01-IWUe32Y5k2QFd7YQ.htm](spells/evocation-01-IWUe32Y5k2QFd7YQ.htm)|Gravity Weapon|Arme pesante|changé|
 |[evocation-01-jfVCuOpzC6mUrf6f.htm](spells/evocation-01-jfVCuOpzC6mUrf6f.htm)|Hydraulic Push|Poussée hydraulique|changé|
 |[evocation-01-mlNYROcFrUF8nFgk.htm](spells/evocation-01-mlNYROcFrUF8nFgk.htm)|Spray of Stars|Aspersion d'étoiles|changé|
 |[evocation-01-pRKaEXnjGJXbPHPC.htm](spells/evocation-01-pRKaEXnjGJXbPHPC.htm)|Hurtling Stone|Jet de pierre|changé|
@@ -329,6 +332,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-01-BH3sUerzMb2bWnv1.htm](spells/necromancy-01-BH3sUerzMb2bWnv1.htm)|Call of the Grave|Appel de la tombe|changé|
 |[necromancy-01-D6T17BdazhNy3KPm.htm](spells/necromancy-01-D6T17BdazhNy3KPm.htm)|Soul Siphon|Siphon d'âme|changé|
 |[necromancy-01-DYdvMZ8G2LiSLVWw.htm](spells/necromancy-01-DYdvMZ8G2LiSLVWw.htm)|Spider Sting|Morsure d'araignée|changé|
+|[necromancy-01-gSUQlTDYoLDGAsCP.htm](spells/necromancy-01-gSUQlTDYoLDGAsCP.htm)|Hymn of Healing|Hymne de guérison|changé|
 |[necromancy-01-GYI4xloAgkm6tTrT.htm](spells/necromancy-01-GYI4xloAgkm6tTrT.htm)|Touch of Undeath|Toucher de la non-mort|changé|
 |[necromancy-01-J7Y7tl0bbdz7TcCc.htm](spells/necromancy-01-J7Y7tl0bbdz7TcCc.htm)|Ray of Enfeeblement|Rayon affaiblissant|changé|
 |[necromancy-01-jFmWSIpJGGebim6y.htm](spells/necromancy-01-jFmWSIpJGGebim6y.htm)|Touch of Corruption|Toucher de corruption|changé|
@@ -350,6 +354,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-02-Et8RSCLx8w7uOLvo.htm](spells/necromancy-02-Et8RSCLx8w7uOLvo.htm)|Restore Senses|Restaurer les sens|changé|
 |[necromancy-02-H4oF5szC7aogqtvw.htm](spells/necromancy-02-H4oF5szC7aogqtvw.htm)|Worm's Repast|Repas du ver|changé|
 |[necromancy-02-oryfsRK27jAUnziw.htm](spells/necromancy-02-oryfsRK27jAUnziw.htm)|Imp Sting|Dard de diablotin|changé|
+|[necromancy-02-RGBZrVRIEDb2G48h.htm](spells/necromancy-02-RGBZrVRIEDb2G48h.htm)|Soothing Mist|Brume apaisante|changé|
 |[necromancy-02-siU9xRlqWXeKT0mH.htm](spells/necromancy-02-siU9xRlqWXeKT0mH.htm)|Feast of Ashes|Festin de cendres|changé|
 |[necromancy-02-TaaMEYdZXQXF0Sks.htm](spells/necromancy-02-TaaMEYdZXQXF0Sks.htm)|Blood Vendetta|Vendetta du sang|changé|
 |[necromancy-03-0chL1b4OFIZxpN3v.htm](spells/necromancy-03-0chL1b4OFIZxpN3v.htm)|Steal Shadow|Vol d'ombre|changé|
@@ -427,6 +432,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-07-hiVL8qsnTJtpouw0.htm](spells/transmutation-07-hiVL8qsnTJtpouw0.htm)|Divine Vessel|Réceptacle divin|changé|
 |[transmutation-08-8AMvNVOUEtxBCDvJ.htm](spells/transmutation-08-8AMvNVOUEtxBCDvJ.htm)|Monstrosity Form|Forme monstrueuse|changé|
 |[transmutation-08-wTYxxYJWN348oV15.htm](spells/transmutation-08-wTYxxYJWN348oV15.htm)|Medusa's Wrath|Courroux de la méduse|changé|
+|[transmutation-09-YDMOqndvYFu3OjA6.htm](spells/transmutation-09-YDMOqndvYFu3OjA6.htm)|Ki Form|Forme ki|changé|
 |[transmutation-10-ckUOoqOM7Kg7VqxB.htm](spells/transmutation-10-ckUOoqOM7Kg7VqxB.htm)|Avatar|Avatar|changé|
 |[transmutation-10-pmP8HhXvvEKP3LqU.htm](spells/transmutation-10-pmP8HhXvvEKP3LqU.htm)|Primal Herd|Troupeau primitif|changé|
 |[transmutation-10-qqQYrXaRJXr7uc4i.htm](spells/transmutation-10-qqQYrXaRJXr7uc4i.htm)|Apex Companion|Compagnon alpha|changé|
@@ -454,7 +460,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-01-P9bqJsF3WkxGAJKJ.htm](spells/abjuration-01-P9bqJsF3WkxGAJKJ.htm)|Sudden Shift|Déplacement soudain|officielle|
 |[abjuration-01-rQYob0QMJ0I1U2sU.htm](spells/abjuration-01-rQYob0QMJ0I1U2sU.htm)|Protector's Sacrifice|Sacrifice du protecteur|officielle|
 |[abjuration-01-TTwOKGqmZeKSyNMH.htm](spells/abjuration-01-TTwOKGqmZeKSyNMH.htm)|Feather Fall|Feuille morte|officielle|
-|[abjuration-01-u2uSeH6YSbK1ajTy.htm](spells/abjuration-01-u2uSeH6YSbK1ajTy.htm)|Magic Hide|Peau magique|libre|
 |[abjuration-01-w3uGXDVEdbLFZVO0.htm](spells/abjuration-01-w3uGXDVEdbLFZVO0.htm)|Angelic Halo|Halo angélique|officielle|
 |[abjuration-01-Z7N5IxJCwrAdIgSg.htm](spells/abjuration-01-Z7N5IxJCwrAdIgSg.htm)|Message Rune|Rune messagère|libre|
 |[abjuration-02-02J0rDTk37KN2sjt.htm](spells/abjuration-02-02J0rDTk37KN2sjt.htm)|Quench|Éteindre|libre|
@@ -477,7 +482,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-04-7Fd4lxozd11MQ55N.htm](spells/abjuration-04-7Fd4lxozd11MQ55N.htm)|Atone|Pénitence|officielle|
 |[abjuration-04-8ifpNZkaxrbs3dBJ.htm](spells/abjuration-04-8ifpNZkaxrbs3dBJ.htm)|Perfected Form|Forme parfaite|officielle|
 |[abjuration-04-aqRYNoSvxsVfqglH.htm](spells/abjuration-04-aqRYNoSvxsVfqglH.htm)|Freedom of Movement|Liberté de mouvement|officielle|
-|[abjuration-04-caehfpQz7yp9yNzz.htm](spells/abjuration-04-caehfpQz7yp9yNzz.htm)|Dutiful Challenge|Défi respectueux|libre|
 |[abjuration-04-DH9Y3RQGWO0GzXGU.htm](spells/abjuration-04-DH9Y3RQGWO0GzXGU.htm)|Protector's Sphere|Sphère du protecteur|officielle|
 |[abjuration-04-eG1fBodYwolaXK98.htm](spells/abjuration-04-eG1fBodYwolaXK98.htm)|Enduring Might|Puissance protectrice|officielle|
 |[abjuration-04-GoKkejPj5yWJPIPK.htm](spells/abjuration-04-GoKkejPj5yWJPIPK.htm)|Adaptive Ablation|Ablation adaptative|libre|
@@ -657,7 +661,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-09-ItZgGznUBhgWBwFG.htm](spells/enchantment-09-ItZgGznUBhgWBwFG.htm)|Telepathic Demand|Ordre télépathique|officielle|
 |[enchantment-09-Tc5NLaMu71vrGTJQ.htm](spells/enchantment-09-Tc5NLaMu71vrGTJQ.htm)|Nature's Enmity|Hostilité naturelle|officielle|
 |[enchantment-10-6s0UW4bujggma9TC.htm](spells/enchantment-10-6s0UW4bujggma9TC.htm)|Fabricated Truth|Vérité fabriquée|officielle|
-|[enchantment-10-Um0aaJotqMKGmAlR.htm](spells/enchantment-10-Um0aaJotqMKGmAlR.htm)|Pied Piping|Flûte de Hamelin|libre|
 |[evocation-00-cE7PRAX8Up7fmYef.htm](spells/evocation-00-cE7PRAX8Up7fmYef.htm)|Shroud of Night|Voile de nuit|libre|
 |[evocation-00-kBhaPuzLUSwS6vVf.htm](spells/evocation-00-kBhaPuzLUSwS6vVf.htm)|Electric Arc|Arc électrique|officielle|
 |[evocation-00-kl2q6JvBZwed4B6v.htm](spells/evocation-00-kl2q6JvBZwed4B6v.htm)|Dancing Lights|Lumières dansantes|officielle|
@@ -667,6 +670,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-00-WBmvzNDfpwka3qT4.htm](spells/evocation-00-WBmvzNDfpwka3qT4.htm)|Light|Lumière|officielle|
 |[evocation-01-0H1ozccQGGFLUwFI.htm](spells/evocation-01-0H1ozccQGGFLUwFI.htm)|Cry of Destruction|Cri de destruction|officielle|
 |[evocation-01-0JUOgbbFCapp3HlW.htm](spells/evocation-01-0JUOgbbFCapp3HlW.htm)|Elemental Toss|Projectile élémentaire|officielle|
+|[evocation-01-1meVElIu1CEVYWkv.htm](spells/evocation-01-1meVElIu1CEVYWkv.htm)|Noxious Vapors|Vapeurs nocives|libre|
 |[evocation-01-7CUgqHunmHfW2lC5.htm](spells/evocation-01-7CUgqHunmHfW2lC5.htm)|Parch|Dessécher|libre|
 |[evocation-01-8TQiFzGf4feoHeH0.htm](spells/evocation-01-8TQiFzGf4feoHeH0.htm)|Chilling Spray|Aspersion de froid|libre|
 |[evocation-01-bSDTWUIvgXkBaEv8.htm](spells/evocation-01-bSDTWUIvgXkBaEv8.htm)|Hand of the Apprentice|Main de l'apprenti|officielle|
@@ -677,7 +681,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-01-gKKqvLohtrSJj3BM.htm](spells/evocation-01-gKKqvLohtrSJj3BM.htm)|Magic Missile|Projectile magique|officielle|
 |[evocation-01-HGmBY8KjgLV97nUp.htm](spells/evocation-01-HGmBY8KjgLV97nUp.htm)|Scouring Sand|Sable décapant|libre|
 |[evocation-01-Hu38hoAUSYeFpkVa.htm](spells/evocation-01-Hu38hoAUSYeFpkVa.htm)|Force Bolt|Trait de force|officielle|
-|[evocation-01-IWUe32Y5k2QFd7YQ.htm](spells/evocation-01-IWUe32Y5k2QFd7YQ.htm)|Gravity Weapon|Arme pesante|libre|
 |[evocation-01-kJKSLfCgqxmN2FY8.htm](spells/evocation-01-kJKSLfCgqxmN2FY8.htm)|Personal Rain Cloud|Nuage de pluie individuel|libre|
 |[evocation-01-oJKZi8OQgmVXHOc0.htm](spells/evocation-01-oJKZi8OQgmVXHOc0.htm)|Fire Ray|Rayon de feu|officielle|
 |[evocation-01-r3NeUnsgt9mS03Sn.htm](spells/evocation-01-r3NeUnsgt9mS03Sn.htm)|Shocking Grasp|Décharge électrique|officielle|
@@ -778,7 +781,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-01-CxpFy4HJHf4ACbxF.htm](spells/necromancy-01-CxpFy4HJHf4ACbxF.htm)|Putrefy Food and Drink|Corruption de la nourriture et de la boisson|libre|
 |[necromancy-01-fAlzXtQAASaJx0mY.htm](spells/necromancy-01-fAlzXtQAASaJx0mY.htm)|Life Boost|Gain de vie|libre|
 |[necromancy-01-FedTjedva2rYk33r.htm](spells/necromancy-01-FedTjedva2rYk33r.htm)|Undeath's Blessing|Bénédiction de la mort-vivance|libre|
-|[necromancy-01-gSUQlTDYoLDGAsCP.htm](spells/necromancy-01-gSUQlTDYoLDGAsCP.htm)|Hymn of Healing|Hymne de guérison|libre|
 |[necromancy-01-HG4afO9EOGEU9bZN.htm](spells/necromancy-01-HG4afO9EOGEU9bZN.htm)|Death's Call|Appel de la mort|officielle|
 |[necromancy-01-qXTB7Ec9yYh5JPPV.htm](spells/necromancy-01-qXTB7Ec9yYh5JPPV.htm)|Purify Food and Drink|Purifier la nourriture et la boisson|officielle|
 |[necromancy-01-rhJyqB9g3ziImQgM.htm](spells/necromancy-01-rhJyqB9g3ziImQgM.htm)|Healer's Blessing|Bénédiction du guérisseur|officielle|
@@ -791,7 +793,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-02-JhRuR7Jj3ViShpq7.htm](spells/necromancy-02-JhRuR7Jj3ViShpq7.htm)|Ghoulish Cravings|Désirs macabres|officielle|
 |[necromancy-02-oNUyCqbpGWHifS02.htm](spells/necromancy-02-oNUyCqbpGWHifS02.htm)|Fungal Hyphae|Hyphe fongique|libre|
 |[necromancy-02-qJZZdYBdNaWRJFER.htm](spells/necromancy-02-qJZZdYBdNaWRJFER.htm)|Wholeness of Body|Plénitude physique|officielle|
-|[necromancy-02-RGBZrVRIEDb2G48h.htm](spells/necromancy-02-RGBZrVRIEDb2G48h.htm)|Soothing Mist|Brume apaisante|libre|
 |[necromancy-02-rthC6dGm3nNrt1xN.htm](spells/necromancy-02-rthC6dGm3nNrt1xN.htm)|Spectral Hand|Main spectrale|officielle|
 |[necromancy-02-SnaLVgxZ9ryUFmUr.htm](spells/necromancy-02-SnaLVgxZ9ryUFmUr.htm)|Restoration|Restauration|officielle|
 |[necromancy-02-X3dYByf3YmkcdwG0.htm](spells/necromancy-02-X3dYByf3YmkcdwG0.htm)|Slough Skin|Mues de peau|libre|
@@ -905,5 +906,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-07-XS7Wyh5YC0NWeWyB.htm](spells/transmutation-07-XS7Wyh5YC0NWeWyB.htm)|Fiery Body|Corps enflammé|officielle|
 |[transmutation-08-U0hL0LLaprcnAyzC.htm](spells/transmutation-08-U0hL0LLaprcnAyzC.htm)|Wind Walk|Voyage venteux|officielle|
 |[transmutation-09-pswdik31kuHEvdno.htm](spells/transmutation-09-pswdik31kuHEvdno.htm)|Shapechange|Changement de forme|officielle|
-|[transmutation-09-YDMOqndvYFu3OjA6.htm](spells/transmutation-09-YDMOqndvYFu3OjA6.htm)|Ki Form|Forme ki|libre|
 |[transmutation-10-1dsahW4g1ggXtypx.htm](spells/transmutation-10-1dsahW4g1ggXtypx.htm)|Time Stop|Arrêt du temps|officielle|

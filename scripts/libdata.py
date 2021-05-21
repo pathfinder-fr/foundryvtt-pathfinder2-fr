@@ -58,6 +58,17 @@ SUPPORTED = {
 
 }
 
+class bcolors:
+    OK = '\033[92m'         #GREEN
+    WARNING = '\033[93m'    #YELLOW
+    FAIL = '\033[91m'       #RED
+    RESET = '\033[0m'       #RESET COLOR
+
+def print_error(message):
+    print(bcolors.FAIL + message + bcolors.RESET)
+
+def print_warning(message):
+    print(bcolors.WARNING + message + bcolors.RESET)
 
 #
 # cette fonction lit le fichier system.json et extrait les informations sur les packs
@@ -78,9 +89,6 @@ def getPacks():
       packs.append({ **p, **SUPPORTED[p['id']]})
       
   return packs
-
-
-
 
 #
 # cette fonction retourn vrai si les deux textes sont identiques
@@ -131,7 +139,7 @@ def getObject(obj, path, exitOnError=True):
         if p in element:
             element = element[p]
         elif exitOnError:
-            print("Error with path %s in %s" % (path, obj))
+            print_error("Error with path %s in %s" % (path, obj))
             exit(1)
         else:
             # print("Path %s not found for %s!" % (path, obj['name']))
@@ -150,7 +158,7 @@ def getValue(obj, path, exitOnError=True, defaultValue=None):
         if len(element) == 0:
             return defaultValue
         if len(element) > 1:
-            print("List has more than 1 element for '%s'! %s" % (element, path))
+            print_warning("List has more than 1 element for '%s'! %s" % (element, path))
             return element[len(element) - 1]
         return element[0]
     elif element.isdigit():
@@ -165,7 +173,7 @@ def getList(obj, path, exitOnError=True):
         return []
     elif not isinstance(element, list):
         if exitOnError:
-            print("Element at '%s' is not a list! %s" % (path, element))
+            print_error("Element at '%s' is not a list! %s" % (path, element))
             exit(1)
         return []
     else:
@@ -180,7 +188,7 @@ def fileToData(filepath):
     if os.path.isfile(filepath):
 
         # read all lines in f
-        with open(filepath, 'r') as f:
+        with open(filepath, 'r', encoding='utf8') as f:
             content = f.readlines()
 
         descrEN = ""
@@ -195,8 +203,9 @@ def fileToData(filepath):
 
         match = re.search('(\w{16})\.htm', filepath)
         if not match:
-            print("Invalid filename %s" % filepath)
+            print_error("Invalid filename %s" % filepath)
             exit(1)
+
         data['id'] = match.group(1)
         data['misc'] = {}
 
@@ -230,7 +239,7 @@ def fileToData(filepath):
             elif not isDescEN and not isDescFR and len(line.strip()) > 0:
                 sep = line.find(":")
                 if sep < 0:
-                    print("Invalid data '%s' in file %s " % (line, filepath));
+                    print(bcolors.FAIL + "Invalid data '%s' in file %s " % (line, filepath) + bcolors.RESET)
                     exit(1)
                 key = line[0:sep]
                 value = line[sep+1:].strip()
@@ -244,7 +253,7 @@ def fileToData(filepath):
                     elif lang == "FR":
                         listsFR[key] = liste
                 else:
-                    print("Invalid key '%s' in file %s " % (key, filepath));
+                    print("Invalid key '%s' in file %s " % (key, filepath))
                     print("Adding key to misc")
                     # on stocke toutes les clés inconnues dans une propriété 'misc' du résultat
                     data['misc'][key] = value
@@ -264,7 +273,7 @@ def fileToData(filepath):
         exit(1)
 
     if not 'nameEN' in data or not 'descrEN' in data:
-        print("Invalid data: %s" % filepath)
+        print_error("Invalid data: %s" % filepath)
         exit(1)
 
     return data
@@ -274,7 +283,7 @@ def fileToData(filepath):
 # cette fonction écrit les datas avec le benefits en plus
 #
 def dataToFile(data, filepath):
-    with open(filepath, 'w') as df:
+    with open(filepath, 'w', encoding='utf8') as df:
         df.write('Name: ' + data['nameEN'] + '\n')
         df.write('Nom: ' + data['nameFR'] + '\n')
 
@@ -333,7 +342,6 @@ def dataToFile(data, filepath):
 def isValid(data):
     return data['nameFR'] and len(data['nameFR']) > 0
 
-
 #
 # cette fonction lit tous les fichiers d'un répertoire (data)
 # et génère un dictionnaire basé sur les identifiants
@@ -342,6 +350,7 @@ def readFolder(path):
     resultById = {}
     resultByName = {}
     all_files = os.listdir(path)
+    has_errors = False
 
     # read all files in folder
     for fpath in all_files:
@@ -350,14 +359,13 @@ def readFolder(path):
         data['filename'] = fpath
 
         if data['id'] in resultById:
-            print("Duplicate data %s %s" % (path + resultById[data['id']]['filename'], path + data['filename']))
-            print("Please fix it manually!")
-            exit(1)
+            print_error("Duplicate data %s and %s, please fix it manually!" % (path + resultById[data['id']]['filename'], path + data['filename']))
+            has_errors = True
+        else:
+            resultById[data['id']] = data
+            resultByName[data['nameEN']] = data
 
-        resultById[data['id']] = data
-        resultByName[data['nameEN']] = data
-
-    return [resultById, resultByName]
+    return [resultById, resultByName, has_errors]
 
 #
 # Vérifie si la chaîne text est vide, et renvoie None si c'est le cas
