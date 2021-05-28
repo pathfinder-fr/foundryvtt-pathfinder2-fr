@@ -1,27 +1,21 @@
 # État de la traduction (ancestries)
 
- * **libre**: 13
- * **changé**: 2
- * **officielle**: 8
+ * **libre**: 14
+ * **officielle**: 9
 
 
-Dernière mise à jour: 2021-05-21 12:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-28 07:48 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[4BL5wf1VF9feC2rY.htm](ancestries/4BL5wf1VF9feC2rY.htm)|Kitsune|Kitsune|changé|
-|[BYj5ZvlXZdpaEgA6.htm](ancestries/BYj5ZvlXZdpaEgA6.htm)|Dwarf|Nain|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[18xDKYPDBLEv2myX.htm](ancestries/18xDKYPDBLEv2myX.htm)|Tengu|Tengu|libre|
+|[4BL5wf1VF9feC2rY.htm](ancestries/4BL5wf1VF9feC2rY.htm)|Kitsune|Kitsune|libre|
 |[7oQxL6wgsokD3QXG.htm](ancestries/7oQxL6wgsokD3QXG.htm)|Kobold|Kobold|libre|
 |[972EkpJOPv9KkQIW.htm](ancestries/972EkpJOPv9KkQIW.htm)|Catfolk|Homme-félin (félide)|libre|
+|[BYj5ZvlXZdpaEgA6.htm](ancestries/BYj5ZvlXZdpaEgA6.htm)|Dwarf|Nain|officielle|
 |[cdhgByGG1WtuaK73.htm](ancestries/cdhgByGG1WtuaK73.htm)|Leshy|Léchi|officielle|
 |[CYlfsYLJcBOgqKtD.htm](ancestries/CYlfsYLJcBOgqKtD.htm)|Gnome|Gnome|officielle|
 |[FXlXmNBFiiz9oasi.htm](ancestries/FXlXmNBFiiz9oasi.htm)|Fleshwarp|Distordu|libre|

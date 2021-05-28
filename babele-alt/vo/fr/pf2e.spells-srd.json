@@ -299,7 +299,7 @@
         {
             "id": "Inspire Heroics",
             "name": "Inspire Heroics",
-            "description": "<p>Vous faites appel à votre muse pour augmenter considérablement les avantages que vous apportez à vos alliés avec votre compoisition inspiration vaillante ou inspiration défensive.</p>\n<p>Si votre prochaine action est de lancer @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{inspiration vaillante} ou @Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{inspiration défensive}, effectuez un test de Représentation. Le DD est généralement un DD très difficile d’un niveau égal à celui de la cible de votre composition ayant le plus haut niveau, mais le MJ peut assigner un DD différent en fonction des circonstances. L’effet de votre composition <em>inspiration vaillante</em> ou de votre <em>inspiration défensive</em> dépend du résultat de votre test.</p>\n<hr>\n<p><strong>Succès critique</strong> Le bonus de statut de votre inspiration vaillante ou inspiration défensive augmente à +3.</p>\n<p><strong>Succès</strong> Le bonus de statut de votre inspiration vaillante ou inspiration défensive augmente à +2.</p>\n<p><strong>Échec</strong> Votre inspiration vaillante ou inspiration défensive apporte seulement son bonus normal de +1, mais vous ne dépensez pas le point de focalisation pour lancer ce sort.</p>"
+            "description": "<p>Vous faites appel à votre muse pour augmenter considérablement les avantages que vous apportez à vos alliés avec votre compoisition inspiration vaillante ou inspiration défensive.</p>\n<p>Si votre prochaine action est de lancer @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{inspiration vaillante} ou @Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{inspiration défensive}, effectuez un test de Représentation. Le DD est généralement un DD très difficile d’un niveau égal à celui de la cible de votre composition ayant le plus haut niveau, mais le MJ peut assigner un DD différent en fonction des circonstances. L’effet de votre composition <em>inspiration vaillante</em> ou de votre <em>inspiration défensive</em> dépend du résultat de votre test.</p>\n<hr>\n<p><strong>Succès critique</strong> Le bonus de statut de votre inspiration vaillante ou inspiration défensive augmente à +3.</p>\n<p>@Compendium[pf2e.spell-effects.VFereWC1agrwgzPL]{Effet : Succès critique sur inspiration vaillante}, @Compendium[pf2e.spell-effects.BKam63zT98iWMJH7]{Effet : Succès critiquee sur inspiration défensive}</p>\n<p><strong>Succès</strong> Le bonus de statut de votre inspiration vaillante ou inspiration défensive augmente à +2.</p>\n<p>@Compendium[pf2e.spell-effects.kZ39XWJA3RBDTnqG]{Effet : Succès sur inspiration vaillante}, @Compendium[pf2e.spell-effects.Chol7ExtoN2T36mP]{Effet : Succès sur inspiration défensive}</p>\n<p><strong>Échec</strong> Votre inspiration vaillante ou inspiration défensive apporte seulement son bonus normal de +1, mais vous ne dépensez pas le point de focalisation pour lancer ce sort.</p>"
         },
         {
             "id": "Ghostly Transcription",
@@ -595,6 +595,11 @@
             "id": "Genie's Veil",
             "name": "Genie's Veil",
             "description": "<p><strong>Déclencheur</strong> Une créature à portée est attaquée.</p>\n<hr />\n<p>Avec une fioriture, vous remplissez le vœu d'une créature de protection, tordant la réalité pour la garder des blessures.</p>\n<p>LA cible s'évanouit dans une explosion brillante de fumée colorée et d'éclats, réapparaissant un instant plus tard. Elle est @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} contre l'attaque déclencheuse et jusqu'à la fin du tour actuel de la créature.</p>"
+        },
+        {
+            "id": "Call The Blood",
+            "name": "Call The Blood",
+            "description": "<p>D'un mot et d'un geste, vous faites jaillir des flots de sang de la bouche, des narines, des oreilles ou d'autres orifices faciaux de la cible, qui se précipitent dans votre bouche. Vous infligez [[/r 8d4 #négatif]] dégâts négatifs à la cible.</p>\n<p>Si la cible subit des dégâts, son sang s'écoule dans votre bouche. Si vous êtes une créature vivante et que vous n'avez pas soins négatifs, vous êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 2. Si vous êtes mort-vivant (ou vivant mais que vous bénéficiez de soins négatifs), vous pouvez choisir entre gagner des points de vie temporaires égaux à la moitié des dégâts négatifs subis par la cible (après avoir appliqué la résistance et autres) et devenir @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accéléré} pendant 1 round ou de renoncer aux points de vie temporaires et être Accéléré pendant 1 minute. Vous pouvez utiliser cette action supplémentaire uniquement pour Faire un pas, Marcher rapidement ou Frapper. Vous perdez les points de vie temporaires éventuellement restants au bout d'une minute.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de [[/r 2d4 #négatif]].</p>"
         },
         {
             "id": "Hydraulic Push",
@@ -975,6 +980,11 @@
             "id": "Spirit Blast",
             "name": "Spirit Blast",
             "description": "<p>Vous concentrez de l’énergie éthérée et attaquez l’esprit d’une créature, infligeant 16d6 dégâts de force. Comme coup spirituel affecte l’esprit de la créature, il peut infliger des dégâts à une cible projetant sa conscience (par exemple à l’aide de projection d’image) ou possédant une autre créature même si le corps de la cible est ailleurs. La créature possédée n’est pas blessée par le coup. Le coup ne blesse pas les créatures qui n’ont pas d’esprit, telles les créatures artificielles.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 2d6.</p>"
+        },
+        {
+            "id": "Touch of Corruption (Healing)",
+            "name": "Touch of Corruption (Healing)",
+            "description": "<p>Vous infusez de l'énergie négative à la cible. Si la cible est une créature morte-vivante consentante, elle regagne 6 points de vie, et si vous êtes la cible morte-vivante, vous gagnez également un bonus de statut de +2 aux jets de dégâts pendant 1 round.</p>\n<p>@Compendium[pf2e.spells-srd.ekGHLJSHGgWMUwkY]{Toucher de corruption (Soins)}</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentez les points de vie regagnés par les morts-vivants de 6.</p>"
         },
         {
             "id": "Threefold Aspect",
@@ -3259,7 +3269,7 @@
         {
             "id": "Touch of Corruption",
             "name": "Touch of Corruption",
-            "description": "<p>Vous imprégnez la cible d'énergie négative. Si la cible est vivantes, cela lui inflige [[/r 1d6 #négatifs]] dégâts négatifs (Jet de Vigueur basique) ; sur un échec au jet de sauvegarde, la cible subit également une pénalité de statut à la CA de –2 pendant 1 round.</p>\n<p>Si la cible est une créature morte vivante volontaire, elle regagne à la place 6 Points de vie et si vous êtes la cible morte-vivante, vous obtenez aussi un bonus de statut de +2 aux jets de dégâts pendant 1 round.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentez les dégâts infligés à une créature vivante par [[/r 1d6]] ou augmentez les Points de vie regagnés par la créature morte vivante de 6.</p>"
+            "description": "<p>Vous imprégnez la cible d'énergie négative. Si la cible est vivante, cela lui inflige [[/r 1d6 #négatifs]] dégâts négatifs (Jet de Vigueur basique) ; sur un échec au jet de sauvegarde, la cible subit également une pénalité de statut à la CA de –2 pendant 1 round.</p>\n<p>@Compendium[pf2e.spell-effects.GhNVAYtoF5hK3AlD]{Effet de sort: Toucher de Corruption}</p>\n<p>Si la cible est une créature morte vivante volontaire, elle regagne à la place 6 Points de vie et si vous êtes la cible morte-vivante, vous obtenez aussi un bonus de statut de +2 aux jets de dégâts pendant 1 round.</p>\n<p>@Compendium[pf2e.spells-srd.ekGHLJSHGgWMUwkY]{Toucher de corruption (Soins)}</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentez les dégâts infligés à une créature vivante de 1d6 ou augmentez les Points de vie regagnés par la créature morte vivante de 6.</p>"
         },
         {
             "id": "Eject Soul",
@@ -3934,7 +3944,7 @@
         {
             "id": "Pummeling Rubble",
             "name": "Pummeling Rubble",
-            "description": "<p>Une aspersion de lourdes pierre vole dans les airs en face de vous.</p>\n<p>Les gravats infligent [[/r 2d4 #contondants]] dégâts contondants à chaque créature dans la zone. Chaque créature doivent tenterun jet de Réflexes.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature subit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La créature subit la totalité des dégâts est est poussé de 1,5 m en face de vous.</p>\n<p><strong>Échec critique</strong> La créature subit le double des dégâts et est poussé de 3 m en face de vous.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentez les dégâts de 2d4.</p>"
+            "description": "<p>Une pluie de lourdes pierres vole dans les airs face à vous.</p>\n<p>Les gravats infligent [[/r 2d4 #contondants]] dégâts contondants à chaque créature dans la zone. Chaque créature doivent tenter un jet de Réflexes.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature subit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La créature subit la totalité des dégâts et est poussé de 1,5 m en face de vous.</p>\n<p><strong>Échec critique</strong> La créature subit le double des dégâts et est poussée de 3 m en face de vous.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> les dégâts augmentent de 2d4.</p>"
         },
         {
             "id": "Electric Arc",
@@ -4140,6 +4150,11 @@
             "id": "Infernal Pact",
             "name": "Infernal Pact",
             "description": "<p>Vous faites appel à un puissant diable, lui demandant de lier certains de ses subordonnés à votre service. Si vous réussissez, le diable vous envoie à son choix un diable dont le niveau n'est pas de plus du double du niveau de votre <em>Pacte infernal</em>, deux diables dont les niveaux sont chacun d'au moins 2 de moins que le double du niveau du sort ou trois diables dont les niveaux sont d'au moins 3 de moins que le double du niveau du sort.</p>\n<hr />\n<p><strong>Succès critique </strong> Les diables vous sont envoyés et vous servent pendant 1d4 semaines.</p>\n<p><strong>Succès</strong> Les diables vous sont envoyés et vous servent pendant 1d4 jours.</p>\n<p><strong>Échec</strong> Votre requête est rejetée.</p>\n<p><strong>Échec critique</strong> Non seulement votre requête est rejetée mais le puissant diable envoie un mot de déplaisir à votre maître.</p>"
+        },
+        {
+            "id": "Lay on Hands (Vs. Undead)",
+            "name": "Lay on Hands (Vs. Undead)",
+            "description": "<p>Vos mains s’imprègnent d’une énergie positive, blessant une créature morte-vivante que vous touchez.</p>\n<p>Contre une cible morte-vivante, vous infligez 1d6 dégâts et elle doit effectuer un jet de Vigueur basique ; si elle échoue, elle subit également un malus de statut de −2 à la CA pendant 1 round.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Le montant des dégâts à une cible morte-vivante augmentent de 1d6.</p>"
         },
         {
             "id": "Agonizing Despair",
