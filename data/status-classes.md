@@ -1,20 +1,12 @@
 # État de la traduction (classes)
 
- * **officielle**: 10
+ * **officielle**: 12
  * **libre**: 5
- * **changé**: 2
 
 
-Dernière mise à jour: 2021-05-21 12:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-05-28 07:48 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[x8iwnpdLbfcoZkHA.htm](classes/x8iwnpdLbfcoZkHA.htm)|Champion|Champion|changé|
-|[YPxpk9JbMnKjbNLc.htm](classes/YPxpk9JbMnKjbNLc.htm)|Monk|Moine|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -31,6 +23,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[pWHx4SXcft9O2udP.htm](classes/pWHx4SXcft9O2udP.htm)|Oracle|Oracle|libre|
 |[RwjIZzIxzPpUglnK.htm](classes/RwjIZzIxzPpUglnK.htm)|Wizard|Magicien|officielle|
 |[uJ5aCzlw34GGdWjp.htm](classes/uJ5aCzlw34GGdWjp.htm)|Swashbuckler|Bretteur|libre|
+|[x8iwnpdLbfcoZkHA.htm](classes/x8iwnpdLbfcoZkHA.htm)|Champion|Champion|officielle|
 |[XwfcJuskrhI9GIjX.htm](classes/XwfcJuskrhI9GIjX.htm)|Alchemist|Alchimiste|officielle|
 |[YDRiP7uVvr9WRhOI.htm](classes/YDRiP7uVvr9WRhOI.htm)|Barbarian|Barbare|officielle|
 |[Yix76sfxrIlltSTJ.htm](classes/Yix76sfxrIlltSTJ.htm)|Ranger|Rôdeur|officielle|
+|[YPxpk9JbMnKjbNLc.htm](classes/YPxpk9JbMnKjbNLc.htm)|Monk|Moine|officielle|
