@@ -1,29 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 235
- * **libre**: 132
- * **changé**: 4
- * **auto-trad**: 1
+ * **officielle**: 237
+ * **libre**: 135
 
 
-Dernière mise à jour: 2021-05-28 07:48 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-06-04 19:29 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions automatiques à corriger/retraduire
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[monk-15-haoTkr2U5k7kaAKN.htm](classfeatures/monk-15-haoTkr2U5k7kaAKN.htm)|Third Path to Perfection|auto-trad|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[barbarian-01-dU7xRpg4kFd01hwZ.htm](classfeatures/barbarian-01-dU7xRpg4kFd01hwZ.htm)|Instinct|Instinct|changé|
-|[swashbuckler-01-LzYi0OuOoypNb6jd.htm](classfeatures/swashbuckler-01-LzYi0OuOoypNb6jd.htm)|Panache|Panache|changé|
-|[witch-01-KPtF29AaeX2sJW0K.htm](classfeatures/witch-01-KPtF29AaeX2sJW0K.htm)|Patron|Patron|changé|
-|[wizard-07-cD3nSupdCvONuHiE.htm](classfeatures/wizard-07-cD3nSupdCvONuHiE.htm)|Expert Spellcaster (Level 7)|Incantateur expert (Niveau 7)|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -74,6 +57,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-01-3lxIGMbsPZLNEXQ7.htm](classfeatures/barbarian-01-3lxIGMbsPZLNEXQ7.htm)|Gold Dragon Instinct|Instinct du dragon - Or|libre|
 |[barbarian-01-b5rvKZQCfpgBenKJ.htm](classfeatures/barbarian-01-b5rvKZQCfpgBenKJ.htm)|Brass Dragon Instinct|Instinct du dragon - Airain|officielle|
 |[barbarian-01-CXZwt1e6ManeBaFV.htm](classfeatures/barbarian-01-CXZwt1e6ManeBaFV.htm)|Frog Animal Instinct|Instinct animal - Grenouille|officielle|
+|[barbarian-01-dU7xRpg4kFd01hwZ.htm](classfeatures/barbarian-01-dU7xRpg4kFd01hwZ.htm)|Instinct|Instinct|officielle|
 |[barbarian-01-hyHgLQCDMSrR4RfE.htm](classfeatures/barbarian-01-hyHgLQCDMSrR4RfE.htm)|Red Dragon Instinct|Instinct du dragon - Rouge|officielle|
 |[barbarian-01-IezPDYlweTtwCqkT.htm](classfeatures/barbarian-01-IezPDYlweTtwCqkT.htm)|Green Dragon Instinct|Instinct du dragon - Vert|libre|
 |[barbarian-01-JuKD6k7nDwfO0Ckv.htm](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Giant Instinct|Instinct de géant|officielle|
@@ -231,6 +215,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[monk-13-95LI24ZSx0d4qfKX.htm](classfeatures/monk-13-95LI24ZSx0d4qfKX.htm)|Graceful Mastery|Maîtrise gracieuse|officielle|
 |[monk-15-8kukH9c4h82e3qjl.htm](classfeatures/monk-15-8kukH9c4h82e3qjl.htm)|Third Path to Perfection (Reflex)|Troisième voie vers la perfection - Réflexes|officielle|
 |[monk-15-dUMsM0yDTCdV31p6.htm](classfeatures/monk-15-dUMsM0yDTCdV31p6.htm)|Third Path to Perfection (Fortitude)|Troisième voie vers la perfection - Vigueur|officielle|
+|[monk-15-haoTkr2U5k7kaAKN.htm](classfeatures/monk-15-haoTkr2U5k7kaAKN.htm)|Third Path to Perfection|Troisième voie vers la perfection|libre|
 |[monk-15-oVNRYF0FHbH8NsJD.htm](classfeatures/monk-15-oVNRYF0FHbH8NsJD.htm)|Third Path to Perfection (Will)|Troisième voie vers la perfection - Volonté|officielle|
 |[monk-17-5cthRUkRqRtduVvN.htm](classfeatures/monk-17-5cthRUkRqRtduVvN.htm)|Adamantine Strikes|Frappes d'adamantium|officielle|
 |[monk-17-JWDfzYub3JfuEtth.htm](classfeatures/monk-17-JWDfzYub3JfuEtth.htm)|Graceful Legend|Légende gracieuse|officielle|
@@ -330,6 +315,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-01-beW1OqibVQ3fBvRw.htm](classfeatures/swashbuckler-01-beW1OqibVQ3fBvRw.htm)|Swashbuckler's Style|Style du bretteur|libre|
 |[swashbuckler-01-Jgid6Ja6Y879COlN.htm](classfeatures/swashbuckler-01-Jgid6Ja6Y879COlN.htm)|Fencer Style|Style : escrimeur|libre|
 |[swashbuckler-01-KBhwFjdptrKyN5EM.htm](classfeatures/swashbuckler-01-KBhwFjdptrKyN5EM.htm)|Braggart Style|Style : fanfaron|libre|
+|[swashbuckler-01-LzYi0OuOoypNb6jd.htm](classfeatures/swashbuckler-01-LzYi0OuOoypNb6jd.htm)|Panache|Panache|libre|
 |[swashbuckler-01-pyo0vmxUFIFX2GNl.htm](classfeatures/swashbuckler-01-pyo0vmxUFIFX2GNl.htm)|Confident Finisher|Coup final assuré|libre|
 |[swashbuckler-01-RQH6vigvhmiYKKjg.htm](classfeatures/swashbuckler-01-RQH6vigvhmiYKKjg.htm)|Precise Strike|Frappe précise|libre|
 |[swashbuckler-03-8BOFeRE7ZfJ02N0O.htm](classfeatures/swashbuckler-03-8BOFeRE7ZfJ02N0O.htm)|Vivacious Speed|Vitesse exubérante|libre|
@@ -353,6 +339,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[witch-01-4IfYHrQMosJNM8hv.htm](classfeatures/witch-01-4IfYHrQMosJNM8hv.htm)|Fervor Patron|Patron : Ferveur|libre|
 |[witch-01-9uLh5z2uPo6LDFRY.htm](classfeatures/witch-01-9uLh5z2uPo6LDFRY.htm)|Hexes|Maléfices|libre|
 |[witch-01-ejmSQOJR5lJv1pzh.htm](classfeatures/witch-01-ejmSQOJR5lJv1pzh.htm)|Rune Patron|Patron : Rune|libre|
+|[witch-01-KPtF29AaeX2sJW0K.htm](classfeatures/witch-01-KPtF29AaeX2sJW0K.htm)|Patron|Patron|libre|
 |[witch-01-NAXRmMjj0gcyD7ie.htm](classfeatures/witch-01-NAXRmMjj0gcyD7ie.htm)|Curse Patron|Patron : Malédiction|libre|
 |[witch-01-nocYmxbi4rqCC2qS.htm](classfeatures/witch-01-nocYmxbi4rqCC2qS.htm)|Patron Theme|Thême de patron|libre|
 |[witch-01-qf12ubZ07Q0z0NcN.htm](classfeatures/witch-01-qf12ubZ07Q0z0NcN.htm)|Winter Patron|Patron : Hiver|libre|
@@ -386,6 +373,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wizard-01-yobGgrHdgjs5QW5o.htm](classfeatures/wizard-01-yobGgrHdgjs5QW5o.htm)|Arcane School: Divination|École arcanique : Divination|officielle|
 |[wizard-01-ZHwGACWQEy6kTzcP.htm](classfeatures/wizard-01-ZHwGACWQEy6kTzcP.htm)|Arcane School: Enchantment|École arcanique : Enchantement|officielle|
 |[wizard-05-rz87RgR1crWTd7j5.htm](classfeatures/wizard-05-rz87RgR1crWTd7j5.htm)|Lightning Reflexes (Level 5)|Réflexes fulgurants (Niveau 5)|officielle|
+|[wizard-07-cD3nSupdCvONuHiE.htm](classfeatures/wizard-07-cD3nSupdCvONuHiE.htm)|Expert Spellcaster (Level 7)|Incantateur expert (Niveau 7)|officielle|
 |[wizard-09-MzyPNlxrNA5OKVd7.htm](classfeatures/wizard-09-MzyPNlxrNA5OKVd7.htm)|Magical Fortitude (Level 9)|Vigueur magique (Niveau 9)|officielle|
 |[wizard-11-GBsC2cARoFiqMi9V.htm](classfeatures/wizard-11-GBsC2cARoFiqMi9V.htm)|Wizard Weapon Expertise|Expertise avec les armes du magicien|officielle|
 |[wizard-11-OZaJz4exCoz6vuuv.htm](classfeatures/wizard-11-OZaJz4exCoz6vuuv.htm)|Alertness (Level 11)|Vigilance (Niveau 11)|officielle|

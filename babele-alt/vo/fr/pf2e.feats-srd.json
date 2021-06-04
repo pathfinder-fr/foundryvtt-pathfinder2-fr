@@ -4,7 +4,7 @@
         {
             "id": "Mimic Protections",
             "name": "Mimic Protections",
-            "description": "<p>En adoptant les <em>reflets retentissants</em>, vous avez appris à copier les capacités des autres créatures également. Lorsque vous utilisez @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{Chasser une proie] sur run ennemi dans les 30 m, vous obtenez une résistance 10 contre tous les types de dégâts pour lesquels votre cible possède une résistance ou une immunité tant que l'ennemi reste dans les 30 m.</p>"
+            "description": "<p>En adoptant les <em>reflets retentissants</em>, vous avez appris à copier les capacités des autres créatures également. Lorsque vous utilisez @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{Chasser une proie] sur un ennemi dans les 30 m, vous obtenez une résistance 10 contre tous les types de dégâts pour lesquels votre cible possède une résistance ou une immunité tant que l'ennemi reste dans les 30 m.</p>"
         },
         {
             "id": "Radiate Glory",
@@ -14,7 +14,7 @@
         {
             "id": "Stay Down!",
             "name": "Stay Down!",
-            "description": "<p><strong>Prérequis</strong> maître en Athlétisme</p>\n<p><strong>Déclencheur</strong> Un adversaire @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} dans votre allonge @Compendium[pf2e.actionspf2e.OdIUybJ3ddfL7wzj]{Se relève}.</p>\n<hr>\n<p>Vous avez les moyens de garder vos adversaires à terre. Faites un test d'Athlétisme contre le DD de Vigueur de l'adversaire déclencheur. En cas de succès, il ne se relève pas et reste À terre. En cas de réussite critique, il ne peut se relever jusqu'à son prochain tour.</p>"
+            "description": "<p><strong>Déclencheur</strong> Un adversaire @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} dans votre allonge @Compendium[pf2e.actionspf2e.OdIUybJ3ddfL7wzj]{Se relève}.</p>\n<hr />\n<p>Vous avez les moyens de garder vos adversaires à terre. Faites un test d'Athlétisme contre le DD de Vigueur de l'adversaire déclencheur. En cas de succès, il ne se relève pas et reste À terre. En cas de réussite critique, il ne peut se relever jusqu'à son prochain tour.</p>"
         },
         {
             "id": "Vengeful Oath",
@@ -104,7 +104,7 @@
         {
             "id": "Affliction Mercy",
             "name": "Affliction Mercy",
-            "description": "<p><strong>Prérequis</strong> Soulagement</p>\n<hr>\n<p>La grâce divine qui vous traverse vous permet de soulager quelqu’un d’une affliction. Quand vous utilisez Soulagement, votre pouvez à la place tenter de contrer une malédiction, une maladie ou un poison.</p>"
+            "description": "<p>La grâce divine qui vous traverse vous permet de soulager quelqu’un d’une affliction.</p>\n<p>Quand vous utilisez Soulagement, votre pouvez à la place tenter de contrer une malédiction, une maladie ou un poison.</p>"
         },
         {
             "id": "Tools Of The Trade",
@@ -119,7 +119,7 @@
         {
             "id": "Eclectic Polymath",
             "name": "Eclectic Polymath",
-            "description": "<p><strong>Prérequis</strong> Touche-à-tout ésotérique</p>\n<hr>\n<p>Vous pouvez rapidement changer de sorts grâce à votre souplesse intellectuelle. Si vous ajoutez un sort à votre répertoire pendant vos préparatifs quotidiens en utilisant Touche-à-tout ésotérique, quand vous le préparez à nouveau, vous pouvez choisir de garder ce nouveau sort provenant de Touche-à-tout ésotérique dans votre répertoire et de perdre à la place l’accès à un autre sort de même niveau de votre répertoire.</p>"
+            "description": "<p>Vous pouvez rapidement changer de sorts grâce à votre souplesse intellectuelle. Si vous ajoutez un sort à votre répertoire pendant vos préparatifs quotidiens en utilisant Touche-à-tout ésotérique, quand vous le préparez à nouveau, vous pouvez choisir de garder ce nouveau sort provenant de Touche-à-tout ésotérique dans votre répertoire et de perdre à la place l’accès à un autre sort de même niveau de votre répertoire.</p>"
         },
         {
             "id": "Wind Jump",
@@ -224,7 +224,7 @@
         {
             "id": "Bloodline Focus",
             "name": "Bloodline Focus",
-            "description": "<p><strong>Prérequis</strong> sort de lignage</p>\n<hr>\n<p>Votre focalisation se régénère plus rapidement. Si vous avez dépensé au moins 2 points de focalisation depuis votre dernière Refocalisation, vous récupérez 2 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.</p>"
+            "description": "<p>Votre focalisation se régénère plus rapidement. Si vous avez dépensé au moins 2 points de focalisation depuis votre dernière Refocalisation, vous récupérez 2 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.</p>"
         },
         {
             "id": "Opportunistic Grapple",
@@ -309,7 +309,7 @@
         {
             "id": "Improved Dueling Riposte",
             "name": "Improved Dueling Riposte",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.mf2cdCRV8uowOMOm]{Riposte en duel}</p>\n<hr>\n<p>Vous faites virevolter et tournoyer votre arme en frappant vos adversaires dès qu’une opportunité se présente. Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour faire une Riposte en duel. Vous pouvez utiliser cette réaction supplémentaire, même si vous ne bénéficiez pas des avantages de la Parade en duel.</p>"
+            "description": "<p>Vous faites virevolter et tournoyer votre arme en frappant vos adversaires dès qu’une opportunité se présente.</p>\n<p>Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour faire une @Compendium[pf2e.feats-srd.mf2cdCRV8uowOMOm]{Riposte en duel}. Vous pouvez utiliser cette réaction supplémentaire, même si vous ne bénéficiez pas des avantages de la @Compendium[pf2e.feats-srd.n7nQQR940OvFbw7T]{Parade en duel}.</p>"
         },
         {
             "id": "Crone's Cruelty",
@@ -539,7 +539,7 @@
         {
             "id": "Shared Replenishment",
             "name": "Shared Replenishment",
-            "description": "<p><strong>Prérequis</strong> Récupération martiale</p>\n<hr>\n<p>Quand votre divinité bénit vos actes martiaux, vos alliés peuvent profiter eux aussi de cette bénédiction. Vous pouvez conférer les points de vie temporaires obtenus grâce à Récupération martiale à un allié situé à 3 m ou moins au lieu de les gagner vous-même. Vous pouvez conférer ces points de vie temporaires à un allié différent à chaque fois, ce qui signifie que vous pouvez les conférer à plusieurs créatures lors d’un même tour.</p>"
+            "description": "<p>Quand votre divinité bénit vos actes martiaux, vos alliés peuvent profiter eux aussi de cette bénédiction.</p>\n<p>Vous pouvez conférer les points de vie temporaires obtenus grâce à Récupération martiale à un allié situé à 3 m ou moins au lieu de les gagner vous-même. Vous pouvez conférer ces points de vie temporaires à un allié différent à chaque fois, ce qui signifie que vous pouvez les conférer à plusieurs créatures lors d’un même tour.</p>"
         },
         {
             "id": "Emergency Medical Assistance",
@@ -984,7 +984,7 @@
         {
             "id": "Sense The Unseen",
             "name": "Sense The Unseen",
-            "description": "<p><strong>Déclencheur</strong> vous échouez à un test pour @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher}</p>\n<hr>\n<p>Lorsque vous cherchez si des ennemis sont présents, vous remarquez le plus faible des signes. Même si vous avez échoué au test déclencheur, vous percevez automatiquement toute créature @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} dans la zone où vous Cherchez, ce qui la rend simplement @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée} à vos yeux.</p>"
+            "description": "<p><strong>Déclencheur</strong> vous échouez à un test pour @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher}</p>\n<hr />\n<p>Lorsque vous cherchez si des ennemis sont présents, vous remarquez le plus faible des signes. Même si vous avez échoué au test déclencheur, vous percevez automatiquement toute créature @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} dans la zone où vous Cherchez, ce qui la rend simplement @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée} à vos yeux.</p>"
         },
         {
             "id": "Energy Ward",
@@ -1024,7 +1024,7 @@
         {
             "id": "Clever Counterspell",
             "name": "Clever Counterspell",
-            "description": "<p><strong>Prerequisites</strong> Contresort, Reconnaissance rapide</p>\n<hr>\n<p>Votre créativité vous permet d’appliquer vos sorts préparés comme Contresorts contre un éventail de magie ennemie bien plus large. Au lieu de contrer un sort ennemi avec Contresort uniquement si vous avez préparé le même sort, vous pouvez utiliser Contresort tant que le sort que lance l’ennemi figure dans votre grimoire. Quand vous utilisez Contresort ainsi, le sort préparé dépensé doit partager un trait autre que sa tradition avec celui qu’il contre. Si le MJ accepte, vous pouvez à la place utiliser un sort doté d’un trait opposé ou qui contre logiquement le sort adverse (en vous servant par exemple d’un sort de froid ou d’eau pour contrer boule de feu ou délivrance de la peur pour contrer un sort de terreur). Quel que soit le sort dépensé, vous subissez un malus de −2 à votre test de contresort, bien que le MJ puisse annuler ce malus si le sort dépensé est particulièrement bien approprié..</p>"
+            "description": "<p>Votre créativité vous permet d’appliquer vos sorts préparés comme Contresorts contre un éventail de magie ennemie bien plus large. Au lieu de contrer un sort ennemi avec Contresort uniquement si vous avez préparé le même sort, vous pouvez utiliser Contresort tant que le sort que lance l’ennemi figure dans votre grimoire. Quand vous utilisez Contresort ainsi, le sort préparé dépensé doit partager un trait autre que sa tradition avec celui qu’il contre. Si le MJ accepte, vous pouvez à la place utiliser un sort doté d’un trait opposé ou qui contre logiquement le sort adverse (en vous servant par exemple d’un sort de froid ou d’eau pour contrer boule de feu ou délivrance de la peur pour contrer un sort de terreur). Quel que soit le sort dépensé, vous subissez un malus de −2 à votre test de contresort, bien que le MJ puisse annuler ce malus si le sort dépensé est particulièrement bien approprié.</p>"
         },
         {
             "id": "Incredible Luck (Halfling)",
@@ -1084,7 +1084,7 @@
         {
             "id": "Tangled Forest Rake",
             "name": "Tangled Forest Rake",
-            "description": "<p><strong>Prérequis</strong> Posture de la forêt enchevêtrée</p>\n<p><strong>Conditions</strong> Vous êtes dans la Posture de la forêt enchevêtrée</p>\n<hr>\n<p>Vous repositionnez des ennemis avec des attaques de ratissage. Faites une Frappe de branche cinglante. Si vous touchez et infligez des dégâts, vous forcez la cible à se déplacer de 1,50 m vers un espace situé dans votre zone d’allonge. C’est un déplacement forcé dont vous trouverez les règles en page 475.</p>"
+            "description": "<p><strong>Conditions</strong> Vous êtes dans la Posture de la forêt enchevêtrée</p>\n<hr />\n<p>Vous repositionnez des ennemis avec des attaques de ratissage. Faites une Frappe de branche cinglante. Si vous touchez et infligez des dégâts, vous forcez la cible à se déplacer de 1,50 m vers un espace situé dans votre zone d’allonge. C’est un déplacement forcé.</p>"
         },
         {
             "id": "Performative Weapons Training",
@@ -1389,7 +1389,7 @@
         {
             "id": "Twinned Defense (Swashbuckler)",
             "name": "Twinned Defense (Swashbuckler)",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.Y8LHfkzGyOhPlUou]{Parade jumelée}</p>\n<p><strong>Conditions</strong> Vous maniez deux armes de corps à corps, une dans chaque main.</p>\n<hr>\n<p>Vous êtes toujours prêt à utiliser l’arme dans votre main secondaire pour bloquer les attaques qui vous sont destinées. Tant que vous restez dans cette posture, vous bénéficiez en permanence des avantages de l’action Parade jumelée.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez deux armes de corps à corps, une dans chaque main.</p>\n<hr />\n<p>Vous êtes toujours prêt à utiliser l’arme dans votre main secondaire pour bloquer les attaques qui vous sont destinées. Tant que vous restez dans cette posture, vous bénéficiez en permanence des avantages de l’action Parade jumelée.</p>"
         },
         {
             "id": "Moon May",
@@ -1469,7 +1469,7 @@
         {
             "id": "Stealthy Companion",
             "name": "Stealthy Companion",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.qqe5VmcO1s8iTOfd]{Camouflage}</p>\n<hr>\n<p>Vous avez dressé votre compagnon animal pour qu’il se fonde dans le décor. Votre compagnon animal bénéficie des avantages du don Camouflage. Si votre compagnon est un embusqueur spécialisé, son rang de maîtrise en Discrétion passe à maître (ou légendaire s’il était déjà maître).</p>"
+            "description": "<p>Vous avez dressé votre compagnon animal pour qu’il se fonde dans le décor. Votre compagnon animal bénéficie des avantages du don @Compendium[pf2e.feats-srd.qqe5VmcO1s8iTOfd]{Camouflage}. Si votre compagnon est un embusqueur spécialisé, son rang de maîtrise en Discrétion passe à maître (ou légendaire s’il était déjà maître).</p>"
         },
         {
             "id": "Reflexive Riposte",
@@ -1544,12 +1544,12 @@
         {
             "id": "Sunder Enchantment",
             "name": "Sunder Enchantment",
-            "description": "<p><strong>Prérequis</strong><a class=\"entity-link\" data-pack=\"pf2e.feats-srd\" data-id=\"8INrcMUv5vzWMG3X\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Destruction de sort</a></p>\n<hr>\n<p>Vous pouvez concentrer votre superstition pour briser la magie d'un objet, en plus de détruire les sorts autonomes et ceux actifs sur les créatures.</p>\n<p>Lorsque vous Détruisez un sort, vous pouvez à la place tenter de contrer soit un objet magique non tenu ou un des objets magiques de votre cible. Si votre tentative de contre est réussie, l'objet devient un objet ordinaire de son type pendant 10 minutes. Si vous cibles un artefact, un objet intelligent ou un objet particulièrement puissant, votre tentative de contre échoue automatiquement.</p>"
+            "description": "<p>Vous pouvez concentrer votre superstition pour briser la magie d'un objet, en plus de détruire les sorts autonomes et ceux actifs sur les créatures.</p>\n<p>Lorsque vous Détruisez un sort, vous pouvez à la place tenter de contrer soit un objet magique non tenu ou un des objets magiques de votre cible. Si votre tentative de contre est réussie, l'objet devient un objet ordinaire de son type pendant 10 minutes. Si vous ciblez un artefact, un objet intelligent ou un objet particulièrement puissant, votre tentative de contre échoue automatiquement.</p>"
         },
         {
             "id": "Superior Bond",
             "name": "Superior Bond",
-            "description": "<p><strong>Prérequis</strong> lien arcanique</p>\n<hr>\n<p>Lorsque vous puisez dans votre objet lié, vous pouvez y laisser un peu d’énergie à utiliser plus tard. Vous pouvez utiliser Drain d’objet lié une fois de plus par jour, mais seulement pour lancer un sort d’au minimum deux niveaux de moins que votre sort de plus haut niveau.</p>"
+            "description": "<p>Lorsque vous puisez dans votre objet lié, vous pouvez y laisser un peu d’énergie à utiliser plus tard. Vous pouvez utiliser Drain d’objet lié une fois de plus par jour, mais seulement pour lancer un sort d’au minimum deux niveaux de moins que votre emplacement de sort de magicien de plus haut niveau.</p>"
         },
         {
             "id": "Annihilating Swing",
@@ -1729,7 +1729,7 @@
         {
             "id": "Shared Prey",
             "name": "Shared Prey",
-            "description": "<p><strong>Prérequis</strong> Aide du protecteur, Deux proies</p>\n<hr>\n<p>Lorsque vous chassez en duo, vous et votre allié pouvez tous deux pourchasser la même proie. Quand vous Chassez une proie et désignez une seule proie, vous pouvez conférer les avantages de Chasser une proie et de votre spécialité du chasseur à un allié, en plus d’en bénéficier vous‑même. L’allié bénéficie de ces avantages jusqu’à ce que vous utilisez à nouveau Chasser une proie.</p>"
+            "description": "<p>Lorsque vous chassez en duo, vous et votre allié pouvez tous deux pourchasser la même proie. Quand vous Chassez une proie et désignez une seule proie, vous pouvez conférer les avantages de Chasser une proie et de votre spécialité du chasseur à un allié, en plus d’en bénéficier vous‑même. L’allié bénéficie de ces avantages jusqu’à ce que vous utilisez à nouveau Chasser une proie.</p>\n<ul>\n<li>@Compendium[pf2e.feat-effects.uXCU8GgriUjuj5FV]{Effet: Spécialité du Chasseur, Déluge}</li>\n<li>@Compendium[pf2e.feat-effects.mNk0KxsZMFnDjUA0]{Effet: Spécialité du Chasseur, Précision}</li>\n<li>@Compendium[pf2e.feat-effects.ltIvO9ZQlmqGD89Y]{Effet: Spécialité du Chasseur, Ruse}</li>\n</ul>"
         },
         {
             "id": "Universal Versatility",
@@ -1759,7 +1759,7 @@
         {
             "id": "Dragon Shape",
             "name": "Dragon Shape",
-            "description": "<p><strong>Prérequis</strong> Morphologie volante</p>\n<hr>\n<p>Vous pouvez prendre la forme de certaines des créatures les plus redoutables au monde. Ajoutez les formes du sort forme de dragon à celles de votre morphologie sauvage. Chaque fois que vous adoptez une forme en utilisant morphologie sauvage, vous bénéficiez d’une résistance 5 à l’acide, à l’électricité, au feu, au froid ou au poison, au choix.</p>"
+            "description": "<p>Vous pouvez prendre la forme de certaines des créatures les plus redoutables au monde. Ajoutez les formes du sort @Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{Forme de dragon} à celles de votre morphologie sauvage.</p>\n<p>Chaque fois que vous adoptez une forme en utilisant morphologie sauvage, vous bénéficiez d’une résistance 5 à l’acide, à l’électricité, au feu, au froid ou au poison, au choix.</p>"
         },
         {
             "id": "City Scavenger",
@@ -1779,7 +1779,7 @@
         {
             "id": "Strategic Bypass",
             "name": "Strategic Bypass",
-            "description": "<p>Vos plans tiennent compte des résistances de vos ennemis, vous permettant de frapper des coups terribles. Lorsque vous touchez avec une Frappe à laquelle vous avez substitué le jet d'attaque en utilisant <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"m0f2B7G9eaaTmhFL\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Concevoir un stratagème</a>, vous ignorez un montant de résistance égal à votre modificateur d'Intelligence pour chaque résistance qui s'applique contre votre attaque.</p>"
+            "description": "<p>Vos plans tiennent compte des résistances de vos ennemis, vous permettant d'infliger des coups terribles. Lorsque vous touchez avec une Frappe à laquelle vous avez substitué le jet d'attaque en utilisant @Compendium[pf2e.actionspf2e.m0f2B7G9eaaTmhFL]{Concevoir un stratagème}, vous ignorez un montant de résistance égal à votre modificateur d'Intelligence pour chaque résistance qui s'applique contre votre attaque.</p>"
         },
         {
             "id": "Whirling Throw",
@@ -1834,7 +1834,7 @@
         {
             "id": "Mobile Finisher",
             "name": "Mobile Finisher",
-            "description": "<p>Vous attaques en mouvement. @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} puis @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappez}. Vous pouvez utiliser Botte mobile pendant que vous @Compendium[pf2e.actionspf2e.H6v1VgowHaKHnVlG]{Creusez}, @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escaladez}, @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Volez} ou @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nagez} au lieu de Marcher si vous disposez des types de déplacement correspondant.</p>"
+            "description": "<p>Vous attaquez durant votre mouvement. @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} puis @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappez}. Vous pouvez utiliser Coup final mobile pendant que vous @Compendium[pf2e.actionspf2e.H6v1VgowHaKHnVlG]{Creusez}, @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escaladez}, @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Volez} ou @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nagez} au lieu de Marcher si vous disposez des types de déplacement correspondant.</p>"
         },
         {
             "id": "Quick Change (Beastkin)",
@@ -1969,7 +1969,7 @@
         {
             "id": "Overwhelming Breath",
             "name": "Overwhelming Breath",
-            "description": "<p><strong>Prérequis</strong> sorts ki</p>\n<hr>\n<p>Vous contrôlez votre souffle et l'alignez sur votre ki, expirant avec une force contrôlée pour surmonter les résistances de vos adversaires. Si vous utilisez votre prochaine action pour @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} qui possède le trait moine et n'a pas de durée, le sort et toute @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} que vous portez qui résulte  de son incantation ignore un montant de la rsistance de la cible aux dégats physiques égal à votre niveau.</p>"
+            "description": "<p>Vous contrôlez votre souffle et l'alignez sur votre ki, expirant avec une force contrôlée pour surmonter les résistances de vos adversaires. Si vous utilisez votre prochaine action pour @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} qui possède le trait moine et n'a pas de durée, le sort et toute @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} que vous portez qui résulte de son incantation ignore un montant de la résistance de la cible aux dégats physiques égal à votre niveau.</p>"
         },
         {
             "id": "Nonlethal Spell",
@@ -2294,7 +2294,7 @@
         {
             "id": "Embrace The Pain",
             "name": "Embrace The Pain",
-            "description": "<p><strong>Déclencheur</strong> Une créature vous inflige des dégâts avec une attaque de mêlée.</p>\n<hr>\n<p>Ignorant votre douleur, vous tendez le bras et saisissez la créature ou l'arme qui vous a infligé du mal. Tentez un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} la créature déclencheuse ou pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer} la créature de l'arme déclencheuse.</p>"
+            "description": "<p><strong>Déclencheur</strong> Une créature vous inflige des dégâts avec une attaque au corps-à-corps.</p>\n<hr />\n<p>Ignorant votre douleur, vous tendez le bras et saisissez la créature ou l'arme qui vous a causé des dégâts. Tentez un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} la créature déclencheuse ou pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer} la créature de l'arme déclencheuse.</p>"
         },
         {
             "id": "Woodland Stride",
@@ -2369,7 +2369,7 @@
         {
             "id": "Specialized Companion (Druid)",
             "name": "Specialized Companion (Druid)",
-            "description": "<p><strong>Prérequis</strong> Formidable compagnon</p>\n<hr>\n<p>Votre compagnon animal continue de développer sa puissance et ses pouvoirs : il est à présent suffisamment malin pour se spécialiser. Votre compagnon animal obtient une spécialisation de votre choix (voir la section Compagnons animaux à la page 214).</p>\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don jusqu’à trois fois. Choisissez une spécialisation différente pour votre compagnon à chaque fois.</p>"
+            "description": "<p>Votre compagnon animal continue de développer sa puissance et ses pouvoirs : il est à présent suffisamment malin pour se spécialiser. Votre compagnon animal obtient une spécialisation de votre choix.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don jusqu’à trois fois. Choisissez une spécialisation différente pour votre compagnon à chaque fois.</p>"
         },
         {
             "id": "Grim Insight",
@@ -2544,7 +2544,7 @@
         {
             "id": "Stance Savant (Monk)",
             "name": "Stance Savant (Monk)",
-            "description": "<p><strong>Déclencheur</strong> Vous faites votre jet d’initiative</p>\n<hr>\n<p>Vous prenez une posture sans même y penser. Effectuez une action qui a le trait posture.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous faites votre jet d’initiative</p>\n<hr />\n<p>Vous prenez une posture sans même y penser. Effectuez une action qui a le trait posture.</p>"
         },
         {
             "id": "Divine Reflexes",
@@ -2634,7 +2634,7 @@
         {
             "id": "Desperate Finisher",
             "name": "Desperate Finisher",
-            "description": "<p><strong>Déclencheur</strong> Vous achevez la dernière action de votre tour mais celui‑ci n’est pas encore terminé.</p>\n<p><strong>Conditions</strong> Vous remplissez les conditions pour utiliser une action avec le trait persévérer.</p>\n<hr>\n<p>Vous donnez tout pour pouvoir enchaîner une dernière manœuvre. Faites une action unique dans le cadre du Coup de grâce désespéré. Cette action doit avoir le trait persévérer et vous devez savoir la faire. Vous renoncez à effectuer des réactions jusqu’au début de votre prochain tour.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous achevez la dernière action de votre tour mais celui‑ci n’est pas encore terminé.</p>\n<p><strong>Conditions</strong> Vous remplissez les conditions pour utiliser une action avec le trait persévérer.</p>\n<hr />\n<p>Vous donnez tout pour pouvoir enchaîner une dernière manœuvre. Faites une action unique dans le cadre du Coup final désespéré. Cette action doit avoir le trait persévérer et vous devez savoir la faire. Vous renoncez à la capacité d'effectuer des réactions jusqu’au début de votre prochain tour.</p>"
         },
         {
             "id": "Bizarre Magic",
@@ -2684,7 +2684,7 @@
         {
             "id": "Unbalancing Sweep",
             "name": "Unbalancing Sweep",
-            "description": "<p>Vous faites un grand balayage autour de vous, faisant trébucher les créatures et les repoussez au loin. Choisissez jusqu'à trois ennemis adjacents et choisissez soit de tous les <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"7blmbDrQFNfdT731\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Pousser</a> ou de tous les <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"ge56Lu1xXVFYUnLP\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Mettre à terre</a>.</p>\n<p>Quelle que soit l'option choisie, lancer un test d'Athlétisme séparé contre chaque adversaire, accomplissant le même action contre chacune. Chaque tentative s'ajoute à votre pénalité d'Attaques multiples, mais ne l'augmente pas tant que vous n'avez pas fait toutes les tentatives.</p>"
+            "description": "<p>Vous faites un grand balayage autour de vous, faisant trébucher les créatures et les repoussez au loin. Choisissez jusqu'à trois ennemis adjacents et choisissez soit de tous les @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} ou de tous les @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Mettre à terre}.</p>\n<p>Quelle que soit l'option choisie, lancer un test d'Athlétisme séparé contre chaque adversaire, en accomplissant la même action contre chacun. Chaque tentative s'ajoute à votre pénalité d'attaques multiples, mais ne l'augmente pas tant que vous n'avez pas fait toutes les tentatives.</p>"
         },
         {
             "id": "Specialty Crafting (Tailoring)",
@@ -2889,7 +2889,7 @@
         {
             "id": "Instant Opening",
             "name": "Instant Opening",
-            "description": "<p>Vous distrayez votre adversaire à l’aide de quelques mots bien choisis ou d’un geste vulgaire. Choisissez une cible qui se trouve dans un rayon de 9 m. Elle se trouve prise au dépourvu face à vos attaques jusqu’à la fin de votre prochain tour. En fonction de la manière dont vous avez décrit votre distraction, cette action gagne le trait audible ou visuel.</p>"
+            "description": "<p>Vous distrayez votre adversaire à l’aide de quelques mots bien choisis ou à l'aide d'un geste vulgaire. Choisissez une cible qui se trouve dans un rayon de 9 m. Elle se trouve Prise au dépourvu face à vos attaques jusqu’à la fin de votre prochain tour. En fonction de la manière dont vous avez décrit votre distraction, cette action gagne le trait audible ou visuel.</p>"
         },
         {
             "id": "Acute Vision",
@@ -2914,7 +2914,7 @@
         {
             "id": "Blade of Justice",
             "name": "Blade of Justice",
-            "description": "<p><strong>Prérequis</strong> cause du paladin</p>\n<hr>\n<p>Vous invoquez la puissance divine et faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} avec une arme ou à mains nues contre un adversaire que vous avez vu blesser un allié ou un innocent. La Frappe inflige deux dés de dégâts d’arme supplémentaires si la cible est d’alignement mauvais. Que la cible soit d’alignement mauvais ou non, vous pouvez convertir tous les dégâts physiques de l'attaque en dégâts bons et si vous êtes un paladin, la Frappe applique tous les effets qui s'appliquent normalament lors d'une @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Frappe punitive} (tes que ceux d'un Châtiment divin).</p>"
+            "description": "<p>Vous invoquez la puissance divine et faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} avec une arme ou à mains nues contre un adversaire que vous avez vu blesser un allié ou un innocent. La Frappe inflige deux dés de dégâts d’arme supplémentaires si la cible est d’alignement mauvais. Que la cible soit d’alignement mauvais ou non, vous pouvez convertir tous les dégâts physiques de l'attaque en dégâts bons et si vous êtes un paladin, la Frappe applique tous les effets qui s'appliquent normalement lorsque vous faites une @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Frappe punitive} (tels que ceux d'un Châtiment divin).</p>"
         },
         {
             "id": "Agile Maneuvers",
@@ -3194,7 +3194,7 @@
         {
             "id": "Form Lock",
             "name": "Form Lock",
-            "description": "<p><strong>Conditions</strong> vous avez @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisi} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravé} un adversaire.</p>\n<hr>\n<p>Votre capacité à contrôler votre ki vous donne la puissance pour obliger les autres créatures à revenir à leur véritable forme.</p>\n<p>Faites un test d'Athlétisme pour contrer un effet de métamorphose qui affecte actuellement votre cible. Si la cible est de quelqconque manière sous l'effet de plusieurs effets de métamorphose, vous pouvez en choisir une pour essayer de la contrer ou le MJ choisit de manière aléatoire si les différents effets ne sont pas évidents. La cible est alors temporairement immunisée pendant une journée.</p>"
+            "description": "<p><strong>Conditions</strong> vous avez @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisi} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravé} un adversaire.</p>\n<hr />\n<p>Votre capacité à contrôler votre ki vous donne la puissance pour obliger les autres créatures à revenir à leur véritable forme.</p>\n<p>Faites un test d'Athlétisme pour contrer un effet de métamorphose qui affecte actuellement votre cible. Si la cible est de quelconque manière sous l'effet de plusieurs effets de métamorphose, vous pouvez en choisir un pour essayer de la contrer ou le MJ choisit de manière aléatoire si les différents effets ne sont pas évidents. La cible est alors temporairement immunisée pendant une journée.</p>"
         },
         {
             "id": "Smash From The Air",
@@ -3969,7 +3969,7 @@
         {
             "id": "Warden's Guidance",
             "name": "Warden's Guidance",
-            "description": "<p>Vous pouvez informer vos alliés de l’emplacement de votre proie, et ce, même si son camouflage est parfait. Tant que vous observez votre proie, tous les échecs et les échecs critiques obtenus par vos alliés en la Cherchant sont remplacés par des succès. Vos alliés doivent pouvoir vous voir ou vous entendre pour bénéficier de cet avantage et vous devez pouvoir parler ou faire des gestes pour qu’ils en bénéficient.</p>"
+            "description": "<p>Vous pouvez informer vos alliés de l’emplacement de votre proie, et ce, même si son camouflage est parfait.</p>\n<p>Tant que vous observez votre proie, tous les échecs et les échecs critiques obtenus par vos alliés en la @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Cherchant} sont remplacés par des succès.</p>\n<p>Vos alliés doivent pouvoir vous voir ou vous entendre pour bénéficier de cet avantage et vous devez pouvoir parler ou faire des gestes pour qu’ils en bénéficient.</p>"
         },
         {
             "id": "Specialty Crafting (Blacksmithing)",
@@ -4044,7 +4044,7 @@
         {
             "id": "Wyrmbane Aura",
             "name": "Wyrmbane Aura",
-            "description": "<p><strong>Conditions</strong> Serment du pourfendeur de dragons</p>\n<hr>\n<p>Votre aura protège contre les énergies destructrices et le souffle des dragons. Vous et tous les alliés dans un rayon de 4,50 m gagnez une résistance égale à votre modificateur de Charisme contre l’acide, l’électricité, le feu, le froid et le poison. Si l’un de ces types de dégâts provient du souffle d’un dragon, augmentez la résistance de la moitié de votre niveau.</p>"
+            "description": "<p><strong>Conditions</strong> Serment du pourfendeur de dragons</p>\n<hr />\n<p>Votre aura protège contre les énergies destructrices et le souffle des dragons. Vous et tous les alliés dans un rayon de 4,50 m gagnez une résistance égale à votre modificateur de Charisme contre l’acide, l’électricité, le feu, le froid et le poison. Si l’un de ces types de dégâts provient du souffle d’un dragon, augmentez la résistance de la moitié de votre niveau.</p>"
         },
         {
             "id": "Incredible Scout",
@@ -4314,7 +4314,7 @@
         {
             "id": "Reason Rapidly",
             "name": "Reason Rapidly",
-            "description": "<p>Votre esprit travaille sur les indices à une vitesse incroyable. Vous utilisez instantanément jusqu'à cinq actions <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"KygTSeDvsFoSO6HW\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Se souvenir</a>. Si vous avez des capacités spéciales ou des actions libres qui devraient normalement être déclenchées lorsque vous Vous souvenez, vous ne pouvez pas les utiliser pour ces actions.</p>"
+            "description": "<p>Votre esprit travaille sur les indices à une vitesse incroyable. Vous utilisez instantanément jusqu'à cinq actions @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Se souvenir}. Si vous avez des capacités spéciales ou des actions libres qui devraient normalement être déclenchées lorsque vous Vous souvenez, vous ne pouvez pas les utiliser pour ces actions.</p>"
         },
         {
             "id": "Current Spell",
@@ -4344,7 +4344,7 @@
         {
             "id": "Incredible Ricochet",
             "name": "Incredible Ricochet",
-            "description": "<p><strong>Prérequis</strong> Visée extraordinaire</p>\n<hr>\n<p>Après votre premier tir qui permet de repérer la position de votre ennemi, vous effectuez un deuxième tir qui ricoche sur les obstacles pour finalement toucher votre cible avec une précision sans faille. Faites une Frappe d’arme à distance contre une créature que vous avez déjà attaquée lors de ce tour. Vous ignorez l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{masqué} et tous les abris dont elle bénéficie.</p>"
+            "description": "<p>Après votre premier tir qui permet de repérer la position de votre ennemi, vous effectuez un deuxième tir qui ricoche sur les obstacles pour finalement toucher votre cible avec une précision sans faille. Faites une Frappe d’arme à distance contre une créature que vous avez déjà attaquée lors de ce tour. Vous ignorez l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} et tous les abris dont elle bénéficie.</p>"
         },
         {
             "id": "Greater Crossblooded Evolution",
@@ -4404,7 +4404,7 @@
         {
             "id": "Guiding Riposte",
             "name": "Guiding Riposte",
-            "description": "<p><strong>Prérequis</strong> Riposte en duel</p>\n<hr>\n<p>En déplaçant le poids de votre corps et en orientant votre adversaire avec votre arme, vous l’incitez à se déplacer vers un endroit plus avantageux pour vous. Quand vous utilisez Riposte en duel pour Frapper et que cette Frappe touche, vous déplacez la cible de 3 m au maximum dans un espace de votre zone d’allonge. C’est un déplacement forcé dont vous trouverez les règles en page 475.</p>"
+            "description": "<p>En déplaçant le poids de votre corps et en orientant votre arme, vous incitez votre adversaire à se déplacer vers un endroit plus avantageux pour vous. Quand vous utilisez Riposte en duel pour Frapper et que cette Frappe touche, vous déplacez la cible de 3 m au maximum dans un espace de votre zone d’allonge. C’est un déplacement forcé.</p>"
         },
         {
             "id": "Peculiar Anatomy",
@@ -4584,12 +4584,12 @@
         {
             "id": "Divine Wall",
             "name": "Divine Wall",
-            "description": "<p><strong>Conditions</strong> Vous maniez un bouclier.</p>\n<hr>\n<p>Vous utilisez votre bouclier pour harceler vos ennemis, en les empêchant de s’éloigner ou de vous contourner. Tous les espaces adjacents à vous sont du terrain diffcile pour vos ennemis.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez un bouclier.</p>\n<hr />\n<p>Vous utilisez votre bouclier pour harceler vos ennemis, en les empêchant de s’éloigner ou de vous contourner. Tous les espaces adjacents à vous sont du terrain difficile pour vos ennemis.</p>"
         },
         {
             "id": "Explosive Death Drop",
             "name": "Explosive Death Drop",
-            "description": "<p><strong>Prérequis</strong> <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"XYaaj872JOO9CAws\"><i class=\"fas fa-suitcase\"></i>Déferlement d'ergots enflammés</a></p>\n<p><strong>Conditions</strong> Vous avez adopté <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.feats-srd\" data-id=\"rbiMK71SvGZGRLJ1\"><i class=\"fas fa-suitcase\"></i>Posture de la pluie de charbons ardents</a> et avez une cible <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"kWc1fhmv9LBiTuei\"><i class=\"fas fa-suitcase\"></i> Saisie</a> ou <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"VcDeM8A5oI6VqhbM\"><i class=\"fas fa-suitcase\"></i>Entravée</a>.</p>\n<hr>\n<p>Vous soulevez votre ennemi en l'air avant de l'envoyer s'écraser au sol dans un geste fougueux. Faites un test d'Athlétisme contre le DD de Vigueur de votre cible. Vous subissez une pénalité de circonstance de –1 à votre test si la cible est d'une taille supérieure à la vôtre et une pénalité de –3 si elle est de taille encore supérieure à çà. Vous obtenez un bonus de circonstances de +1 à votre test si la cible est plus petite que vous d'une taille et de +3 si elle est de taille encore inférieure à çà.</p>\n<hr>\n<p><strong>Succès critique</strong> La cible subit <a class=\"inline-roll roll\" title=\"fire\" data-mode=\"roll\" data-flavor=\"fire\" data-formula=\"12d6\"><i class=\"fas fa-dice-d20\"></i>12d6</a> dégâts de feu et tombe <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"j91X7x0XSomq8d60\"><i class=\"fas fa-suitcase\"></i>À terre</a> dans un case inoccupée adjacente de votre choix. La cible n'est plus saisie. La cible et toute créature qui lui est adjacente subit aussi <a class=\"inline-roll roll\" title=\"persistent fire\" data-mode=\"roll\" data-flavor=\"persistent fire\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i>1d6</a> dégâts de feu persistant.</p>\n<p><strong>Succès</strong> Comme avec un succès critique, mais la cible subit <a class=\"inline-roll roll\" title=\"fire\" data-mode=\"roll\" data-flavor=\"fire\" data-formula=\"6d6\"><i class=\"fas fa-dice-d20\"></i>6d6</a> dégâts de feu au lieu de 12d6 et les créatures ne subissent pas de dégâts de feu persistants.</p>\n<p><strong>Échec</strong> La cible n'est plus saisie.</p>\n<p><strong>Échec critique</strong> Comme avec un échec sauf que vous tombez À terre.</p>"
+            "description": "<p><strong>Conditions</strong> Vous avez adopté la @Compendium[pf2e.feats-srd.rbiMK71SvGZGRLJ1]{Posture de la pluie de charbons ardents} et avez une cible @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisie} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravée}.</p>\n<hr />\n<p>Vous soulevez votre ennemi en l'air avant de l'envoyer s'écraser au sol dans un geste fougueux. Faites un test d'Athlétisme contre le DD de Vigueur de votre cible. Vous subissez une pénalité de circonstance de –1 à votre test si la cible est d'une taille supérieure à la vôtre et une pénalité de –3 si elle est de taille encore supérieure à çà. Vous obtenez un bonus de circonstances de +1 à votre test si la cible est plus petite que vous d'une taille et de +3 si elle est de taille encore inférieure à çà.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible subit <a class=\"inline-roll roll\" title=\"feu\" data-mode=\"roll\" data-flavor=\"feu\" data-formula=\"12d6\"><i class=\"fas fa-dice-d20\"></i>12d6</a> dégâts de feu et tombe <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"j91X7x0XSomq8d60\"><i class=\"fas fa-suitcase\"></i>À terre</a> dans une case inoccupée adjacente de votre choix. La cible n'est plus Saisie. La cible et toute créature qui lui est adjacente subit aussi <a class=\"inline-roll roll\" title=\"persistent fire\" data-mode=\"roll\" data-flavor=\"feu persistant\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i>1d6</a> dégâts de feu persistant.</p>\n<p><strong>Succès</strong> Comme avec un succès critique, mais la cible subit <a class=\"inline-roll roll\" title=\"feu\" data-mode=\"roll\" data-flavor=\"feu\" data-formula=\"6d6\"><i class=\"fas fa-dice-d20\"></i>6d6</a> dégâts de feu au lieu de 12d6 et les créatures ne subissent pas de dégâts de feu persistants.</p>\n<p><strong>Échec</strong> La cible n'est plus saisie.</p>\n<p><strong>Échec critique</strong> Comme avec un échec sauf que vous tombez À terre.</p>"
         },
         {
             "id": "Victorious Vigor",
@@ -4629,7 +4629,7 @@
         {
             "id": "Forestall Curse",
             "name": "Forestall Curse",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr>\n<p>Vous avez appris à contrecarrer quelque peu les effets de votre malédiction.</p>\n<p>Si votre prochaine action consiste à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} de révélation, la sévérité de votre malédiction n'augmente pas.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous avez appris à contrecarrer quelque peu les effets de votre malédiction.</p>\n<p>Si votre prochaine action consiste à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} de révélation, la sévérité de votre malédiction n'augmente pas.</p>"
         },
         {
             "id": "Impaling Finisher",
@@ -4679,7 +4679,7 @@
         {
             "id": "Aura of Vengeance",
             "name": "Aura of Vengeance",
-            "description": "<p><strong>Conditions</strong> exalt, Vengeful Oath</p>\n<hr>\n<p>Quand vous demandez aux autres d’appliquer des représailles, vous améliorez également la précision de leurs coups. Quand vous utilisez Frappe punitive, vos alliés qui Frappent subissent un malus de −2 seulement, au lieu de −5.</p>"
+            "description": "<p>Quand vous demandez aux autres d’appliquer des représailles, vous améliorez également la précision de leurs coups. Quand vous utilisez Frappe punitive, vos alliés qui Frappent subissent un malus de −2 seulement, au lieu de −5.</p>"
         },
         {
             "id": "Enduring Alchemy",
@@ -5029,7 +5029,7 @@
         {
             "id": "Greater Physical Evolution",
             "name": "Greater Physical Evolution",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.qxh4evekG28Gt1vj]{Évolution arcanique} ou @Compendium[pf2e.feats-srd.K3TasgeZLJQ84qtZ]{Évolution primordiale}</p>\n<hr>\n<p>Vous avez une compréhension fondamentale des structures innées du monde physique et vous pouvez imposer votre volonté à cette structure en ce qui concerne votre propre sang.</p>\n<p>Une fois par jour, vous pouvez utiliser un emplacement de sort d'ensorceleur pour lancer n'importe quel sort de métamorphose de forme de combat commun d'un niveau de l'emplacement de sort comme s'il s'agissait d'un sort emblématique de votre répertoire.</p>\n<p> Si vous disposez de l'Évolution Arcanique, vous pouvez également choisir n'importe quel sort de forme de combat de votre livre de sorts.</p>\n<p>Si vous avez l'Évolution Primordiale, vous pouvez Lancer un sort gurant dans ce don en utilisant l'emplacement de sort supplémentaire que le don vous accorde (au lieu d'un emplacement de sort d'ensorceleur).</p>"
+            "description": "<p>Vous avez une compréhension fondamentale des structures innées du monde physique et vous pouvez imposer votre volonté à cette structure en ce qui concerne votre propre sang.</p>\n<p>Une fois par jour, vous pouvez utiliser un emplacement de sort d'ensorceleur pour lancer n'importe quel sort courant de métamorphose ayant une forme de combat du niveau de l'emplacement du sort comme s'il s'agissait d'un sort emblématique de votre répertoire.</p>\n<p>Si vous avez Évolution Arcanique, vous pouvez également choisir n'importe quel sort de forme de combat de votre livre de sorts.</p>\n<p>Si vous avez Évolution Primordiale, vous pouvez Lancer un sort figurant dans ce don en utilisant l'emplacement de sort supplémentaire que le don vous accorde (au lieu d'un emplacement de sort d'ensorceleur).</p>"
         },
         {
             "id": "Suli-jann",
@@ -5239,7 +5239,7 @@
         {
             "id": "Reactive Interference",
             "name": "Reactive Interference",
-            "description": "<p><strong>Déclencheur</strong> Un ennemi adjacent commence à utiliser une réaction.</p>\n<hr />\n<p>Par réflexe, vous attrapez la manche de l’ennemi, le frappez avec votre arme, ou créez une autre distraction qui l’empêche de réagir. Si le niveau de la créature est inférieur ou égal au vôtre, vous interrompez la réaction déclencheur. Si le niveau de la créature déclencheur est supérieur au vôtre, vous devez faire un jet d’attaque contre sa CA. Sur un succès, vous interrompez la réaction.</p>"
+            "description": "<p><strong>Déclencheur</strong> Un ennemi adjacent commence à utiliser une réaction.</p>\n<hr />\n<p>Par réflexe, vous attrapez la manche de l’ennemi, le frappez avec votre arme ou créez une autre distraction qui l’empêche de réagir. Si le niveau de la créature est inférieur ou égal au vôtre, vous interrompez la réaction déclencheur. Si le niveau de la créature déclencheur est supérieur au vôtre, vous devez faire un jet d’attaque contre sa CA. Sur un succès, vous interrompez la réaction.</p>"
         },
         {
             "id": "Chemical Contagion",
@@ -5264,7 +5264,7 @@
         {
             "id": "Lightning Snares",
             "name": "Lightning Snares",
-            "description": "<p><strong>Prérequis</strong> maître en Artisanat, Spécialiste des pièges artisanaux</p>\n<hr>\n<p>Vous savez poser des pièges à une vitesse phénoménale. Quand vous créez un piège artisanal qui nécessite normalement une minute à Fabriquer, vous pouvez, à la place, le Fabriquer en effectuant une seule action Interagir.</p>"
+            "description": "<p><strong>Prérequis</strong> </p>\n<hr>\n<p>Vous savez poser des pièges à une vitesse phénoménale. Quand vous créez un piège artisanal qui nécessite normalement une minute à Fabriquer, vous pouvez, à la place, le Fabriquer en effectuant une seule action Interagir.</p>"
         },
         {
             "id": "Perfect Ki Adept",
@@ -5309,7 +5309,7 @@
         {
             "id": "Shared Assault",
             "name": "Shared Assault",
-            "description": "<p><strong>Prérequis</strong> <a class=\"entity-link\" data-pack=\"pf2e.feats-srd\" data-id=\"Asb0UsQqeATsxqFJ\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Assaut vaillant</a></p>\n<hr>\n<p>Dans le feu de la bataille, vous pouvez partager la gloire avec un autre allié.</p>\n<p>Lorsque l'allié que vous avez choisi pour Assaut vaillant obtient un succès critique à la <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"VjxZFuUXrCU94MWR\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Frappe</a> accordée par cette action, un autre allié affecté par votre sort de composition <a class=\"entity-link\" data-pack=\"pf2e.spells-srd\" data-id=\"IAjvwqgiDr3qGYxY\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Inspiration vaillante</a> peut immédiatement utiliser une réaction pour faire un frappe de mêlée.</p>\n<p>Comme le second allié n'était pas l'allié que vous avez choisi pour Assaut vaillant, cet effet ne se poursuit pas vers un troisième allié, même si le second obtient un succès critique à sa Frappe.</p>"
+            "description": "<p>Dans le feu de la bataille, vous pouvez partager la gloire avec un autre allié.</p>\n<p>Lorsque l'allié que vous avez choisi pour Assaut vaillant obtient un succès critique à la @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} accordée par cette action, un autre allié affecté par votre sort de composition @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspiration vaillante} peut immédiatement utiliser une réaction pour faire un frappe au corps-à-corps.</p>\n<p>Comme le deuxième allié n'était pas l'allié que vous avez choisi pour Assaut vaillant, cet effet ne se poursuit pas vers un troisième allié, même si le deuxième obtient un succès critique à sa Frappe.</p>"
         },
         {
             "id": "Wounded Rage",
@@ -5369,7 +5369,7 @@
         {
             "id": "Greater Revelation",
             "name": "Greater Revelation",
-            "description": "<p><strong>Prérequis</strong> sort de révélation initial</p>\n<hr>\n<p>Vous apprenez un sort de révélation supérieur associé à votre mystère.</p>\n<p>Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.</p>"
+            "description": "<p>Vous apprenez un sort de révélation supérieur associé à votre mystère.</p>\n<p>Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.</p>"
         },
         {
             "id": "Death's Door",
@@ -5494,7 +5494,7 @@
         {
             "id": "Quickened Casting",
             "name": "Quickened Casting",
-            "description": "<p><strong>Fréquence</strong>une fois par jour</p>\n<hr>\n<p>Si votre prochaine action consiste à lancer un tour de magie ou un sort d’au minimum deux niveaux de moins que le sort de plus haut niveau que vous pouvez lancer, réduisez le nombre d’actions nécessaire à son incantation de 1 (1 action au minimum).</p>"
+            "description": "<p><strong>Fréquence</strong>une fois par jour</p>\n<hr />\n<p>Si votre prochaine action consiste à lancer un tour de magie ou un sort d’au minimum deux niveaux de moins que le sort de plus haut niveau que vous pouvez lancer, réduisez le nombre d’actions nécessaire à son incantation de 1 (1 action au minimum).</p>"
         },
         {
             "id": "Overlooked Mastermind",
@@ -5544,7 +5544,7 @@
         {
             "id": "Dueling Dance (Fighter)",
             "name": "Dueling Dance (Fighter)",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.7sso1g3AAejpZ8ar]{Parade en duel}</p>\n<p><strong>Conditions</strong> Vous maniez seulement une unique arme de corps à corps à une main et votre autre main ou vos autres mains sont libres.</p>\n<hr>\n<p>En utilisant votre main libre comme balancier pour vous équilibrer, vous parvenez à attaquer et à défendre avec votre arme. Tant que vous êtes dans cette posture, vous bénéficiez constamment de Parade en duel.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez seulement une unique arme de corps à corps à une main et votre autre main ou vos autres mains sont libres.</p>\n<hr />\n<p>En utilisant votre main libre comme balancier pour vous équilibrer, vous parvenez à attaquer et à défendre avec votre arme. Tant que vous êtes dans cette posture, vous bénéficiez constamment de Parade en duel.</p>"
         },
         {
             "id": "Wild Empathy",
@@ -5684,7 +5684,7 @@
         {
             "id": "Spirit's Wrath",
             "name": "Spirit's Wrath",
-            "description": "<p><strong>Prérequis</strong> Instinct spirituel</p>\n<hr>\n<p>Vous invoquez une apparition éphémère, généralement le fantôme d’un ancêtre ou un esprit de la nature qui prend la forme d’un feu follet. Ce feu follet spirituel se précipite pour faire une attaque de corps à corps à mains nues contre un ennemi qui se trouve dans un rayon de 36 m de vous. Le modificateur d’attaque du feu follet est égal à votre bonus de maîtrise avec les armes de guerre plus votre modificateur de Force plus un bonus d’objet de +2, et il est soumis aux mêmes bonus et malus de circonstances et de statut que vous. S’il réussit à toucher sa cible, le feu follet inflige une quantité de dégâts égale à 4d8 plus votre modificateur de Constitution. Vous décidez si ces dégâts sont positifs ou négatifs ; vous ne leur ajoutez pas vos dégâts de rage ou de spécialisation martiale, mais les bonus et malus de circonstances et de statut qui affectent les dégâts du feu follet s’appliquent. Si la Frappe de votre feu follet est un coup critique, la cible devient effrayée 1. Cette attaque est soumise à votre malus d’attaques multiples et s’ajoute à celui-ci, comme si vous étiez celui qui attaque.</p>"
+            "description": "<p>Vous invoquez une apparition éphémère, généralement le fantôme d’un ancêtre ou un esprit de la nature qui prend la forme d’un feu follet. Ce feu follet spirituel se précipite pour faire une attaque de corps à corps à mains nues contre un ennemi qui se trouve dans un rayon de 36 m de vous.</p>\n<p>Le modificateur d’attaque du feu follet est égal à votre bonus de maîtrise avec les armes de guerre plus votre modificateur de Force plus un bonus d’objet de +2, et il est soumis aux mêmes bonus et malus de circonstances et de statut que vous. S’il réussit à toucher sa cible, le feu follet inflige une quantité de dégâts égale à 4d8 plus votre modificateur de Constitution. Vous décidez si ces dégâts sont positifs ou négatifs ; vous ne leur ajoutez pas vos dégâts de rage ou de spécialisation martiale, mais les bonus et malus de circonstances et de statut qui affectent les dégâts du feu follet s’appliquent. Si la Frappe de votre feu follet est un coup critique, la cible devient Effrayée 1. Cette attaque est soumise à votre malus d’attaques multiples et s’ajoute à celui-ci, comme si vous étiez celui qui attaque.</p>"
         },
         {
             "id": "Advanced School Spell",
@@ -5704,7 +5704,7 @@
         {
             "id": "Reflect Spell",
             "name": "Reflect Spell",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.Ikqay8buYlb85bwd]{Contresort}</p>\n<hr>\n<p>Lorsque vous réussissez à utiliser Contresort pour conter un sort qui affecte des créatures ciblées ou une zone, vous pouvez renvoyer l'effet de ce sort sur son lanceur.</p>\n<p>Lorsqu'il est réfléchi, le sort affecte seulement le lanceur originel, même si c'est un sort de zone ou qu'il devrait permettre d'affecter plus d'une créature. Le lanceur originel dispose d'un jet de sauvegarde et utilise d'autres défenses contre le sort réfléchi normalement.</p>"
+            "description": "<p>Lorsque vous réussissez à utiliser Contresort pour contrer un sort qui affecte des créatures ciblées ou une zone, vous pouvez renvoyer l'effet de ce sort sur son lanceur.</p>\n<p>Lorsqu'il est réfléchi, le sort affecte seulement le lanceur originel, même si c'est un sort de zone ou qu'il devrait permettre d'affecter plus d'une créature. Le lanceur originel dispose d'un jet de sauvegarde et utilise d'autres défenses contre le sort réfléchi normalement.</p>"
         },
         {
             "id": "Quivering Palm",
@@ -5729,7 +5729,7 @@
         {
             "id": "Flamboyant Leap",
             "name": "Flamboyant Leap",
-            "description": "<p><strong>Prérequis</strong> maître en Athlétisme, @Compendium[pf2e.feats-srd.tmGsnUkPv8SIhBgn]{Athlète flamboyant}</p>\n<p><strong>Conditions</strong> Vous êtes capable d'utiliser une botte.</p>\n<hr>\n<p>Vous bondissez avec style et portez une botte puissante.</p>\n<p>Faites un @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bond}, un @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Saut en hauteur} ou un @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Saut en longueur} et effectuez une botte à une unique action n'importe quand durant votre saut ; la botte ne peut pas être une de celle qui inclut un autre déplacement, comme Botte mobile.</p>\n<p>Immédiatement après la botte, vous tombez sur le sol si vous étiez en l'air, même si vous n'avez pas atteint la distance maximale de votre saut. Si la distance de chute n'est pas de plus de la hauteur de votre saut, vous ne subissez pas de déga^ts et atterrissez sur vos pieds.</p>\n<p>Lorsque vous tentez un saut en hauteur ou un Saut en longueur durant un Bond flamboyant, déterminez le DD en utilisant le DD du Saut en longueur et augmentez la distance maximale au double de votre Vitesse, au lieu de juste votre Vitesse.</p>"
+            "description": "<p><strong>Conditions</strong> Vous êtes capable d'utiliser un coup final.</p>\n<hr />\n<p>Vous bondissez avec style et portez un puissant coup final.</p>\n<p>Faites un @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bond}, un @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Saut en hauteur} ou un @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Saut en longueur} et effectuez un coup final à une action n'importe quand au cours de votre saut ; le coup final ne peut pas être un de celle qui inclut un autre déplacement, comme Coup final mobile.</p>\n<p>Immédiatement après le coup final, vous retombez sur le sol si vous étiez en l'air, même si vous n'avez pas atteint la distance maximale de votre saut. Si la distance de chute n'est pas supérieure à la hauteur de votre saut, vous ne subissez pas de dégâts et atterrissez sur vos pieds.</p>\n<p>Lorsque vous tentez un saut en hauteur ou un Saut en longueur durant un Bond flamboyant, déterminez le DD en utilisant le DD du Saut en longueur et augmentez la distance maximale au double de votre Vitesse, plutôt qu'à votre Vitesse.</p>"
         },
         {
             "id": "Skittering Scuttle",
@@ -5774,7 +5774,7 @@
         {
             "id": "Improved Knockback",
             "name": "Improved Knockback",
-            "description": "<p><strong>Prérequis</strong> maître en Athlétisme</p>\n<hr>\n<p>Quand vous réussissez à Pousser une créature, augmentez la distance franchie par la créature et celle de votre déplacement pour la suivre de 1,50 m en cas de succès ou de 3 m en cas de succès critique. Si la cible que vous repoussez cogne contre un obstacle, elle subit un montant de dégâts contondants égal à 6 plus votre modificateur de Force, ou 8 plus votre modificateur de Force si votre rang de maîtrise en Athlétisme est légendaire.</p>"
+            "description": "<p>Quand vous réussissez à @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} une créature, augmentez la distance franchie par la créature et celle de votre déplacement pour la suivre de 1,50 m en cas de succès ou de 3 m en cas de succès critique.</p>\n<p>Si la cible que vous repoussez cogne contre un obstacle, elle subit un montant de dégâts contondants égal à 6 plus votre modificateur de Force, ou 8 plus votre modificateur de Force si votre rang de maîtrise en Athlétisme est légendaire.</p>"
         },
         {
             "id": "Marid Magic",
@@ -6164,7 +6164,7 @@
         {
             "id": "Fast Channel",
             "name": "Fast Channel",
-            "description": "<p><strong>Prérequis</strong> source de mise à mal ou de guérison</p>\n<hr>\n<p>La puissance divine est continuellement à votre disposition et se manifeste au moindre de vos appels. Quand vous lancez @Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{mise à mal} ou @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{guérison} en dépensant 2 actions, vous pouvez produire les effets de la version à 3 actions au lieu de celle à 2 actions. Vous pouvez faire ceci avec @Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{mise à mal} si vous avez la source de mise à mal ou avec @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{guérison} si vous avez la source de guérison (ou avec les deux si vous avez Source polyvalente).</p>"
+            "description": "<p>La puissance divine est continuellement à votre disposition et se manifeste au moindre de vos appels. Quand vous lancez @Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal} ou @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} en dépensant 2 actions, vous pouvez produire les effets de la version à 3 actions au lieu de celle à 2 actions.</p>\n<p>Vous pouvez faire ceci avec @Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal} si vous avez la source de mise à mal ou avec @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} si vous avez la source de guérison (ou avec les deux si vous avez Source polyvalente).</p>"
         },
         {
             "id": "Provocator Dedication",
@@ -6329,7 +6329,7 @@
         {
             "id": "Foresee Danger",
             "name": "Foresee Danger",
-            "description": "<p><strong>Déclencheur</strong> Une créature vous cible avec une attaque et vous pouvez voir l'attaquant.</p>\n<hr>\n<p>Vous percevez toutes les manières possibles la manière dont les attaques pourraient porter et tentez de les éviter toutes.</p>\n<p>Le lancer de l'attaque déclencheuse se fait contre votre DD de Perception au lieu de votre CA. Bien que cela vous permette d'éviter de subir les pénalités à votre CA, cela n'a pas pour effet de retirer toute condition ou effets qui causent de telles pénalités.</p>\n<p>Par exemple, un ennemi avec @Compendium[pf2e.classfeatures.j1JE61quDxdge4mg]{Attaque sournoise} vous infligera toujours des dégâts supplémentaires lorsque vous êtes @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}, même si vous ne subissez pas la pénalité de circonstance de –2 lorsque vous vous défendez contre l'attaque.</p>"
+            "description": "<p><strong>Déclencheur</strong> Une créature vous cible avec une attaque et vous pouvez voir l'attaquant.</p>\n<hr />\n<p>Vous percevez toutes les façons possibles dont les attaques de votre adversaire pourraient porter et tentez de les éviter toutes.</p>\n<p>Le jet de l'attaque déclencheuse se fait contre votre DD de Perception au lieu de votre CA. Bien que cela vous permette d'éviter de subir les pénalités à votre CA, cela n'a pas pour effet de retirer toute condition ou effet qui causent de telles pénalités.</p>\n<p>Par exemple, un ennemi avec @Compendium[pf2e.classfeatures.j1JE61quDxdge4mg]{Attaque sournoise} vous infligera toujours des dégâts supplémentaires lorsque vous êtes @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}, même si vous ne subissez pas la pénalité de circonstances de –2 lorsque vous vous défendez contre l'attaque.</p>"
         },
         {
             "id": "Skull Creeper",
@@ -6389,7 +6389,7 @@
         {
             "id": "Reverberate",
             "name": "Reverberate",
-            "description": "<p><strong>Déclencheur</strong> Vous devriez subir des dégâts de son d'un sort.</p>\n<hr>\n<p>Vous pouvez manipuler l'acoustique autour de vous pour ddévier les dégâts et les renvoyer à sa source. tentez un test de Représentation contre le DD du sort de la créature qui lance le sort déclencheur.</p>\n<hr>\n<p><strong>Succès critique</strong> Vous réduisez les dégâts déclencheurs d'un montant égal à quatre fois votre niveau. Le lanceur subit des dégâts de son égaux au montant des dégâts réduits de cette manière.</p>\n<p><strong>Succès</strong> Comme avec un succès critique, mais vous réduisez les dégâts déclencheurs par un montant égal à deux fois votre niveau.</p>\n<p><strong>Échec critique</strong> Vous renvoyez les ondes sonores sur vous-même, subissant deux fois les dégâts déclencheurs.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous devriez subir des dégâts de son d'un sort.</p>\n<hr>\n<p>Vous pouvez manipuler l'acoustique autour de vous pour dévier les dégâts et les renvoyer à leur source. Faites un test de Représentation contre le DD du sort de la créature qui lance le sort déclencheur.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous réduisez les dégâts déclencheurs d'un montant égal à quatre fois votre niveau. Le lanceur subit des dégâts de son égaux au montant des dégâts réduits de cette manière.</p>\n<p><strong>Succès</strong> Comme avec un succès critique, mais vous réduisez les dégâts déclencheurs par un montant égal à deux fois votre niveau.</p>\n<p><strong>Échec critique</strong> Vous renvoyez les ondes sonores sur vous-même, subissant deux fois les dégâts déclencheurs.</p>"
         },
         {
             "id": "Firesight",
@@ -6539,7 +6539,7 @@
         {
             "id": "Anchoring Aura",
             "name": "Anchoring Aura",
-            "description": "<p><strong>Conditions</strong> Serment de fléau des fiélons</p>\n<hr>\n<p>Votre aura perturbe la téléportation des fiélons. Votre aura tente de contrer les sorts de téléportation lancés par des fiélons dans un rayon de 4,50 m, en utilisant le niveau de sort et le DD de vos sorts de dévotion.</p>"
+            "description": "<p>Votre aura perturbe la téléportation des fiélons. Votre aura tente de contrer les sorts de téléportation lancés par des fiélons dans un rayon de 4,50 m, en utilisant le niveau de sort et le DD de vos sorts de dévotion.</p>"
         },
         {
             "id": "Vernai Training",
@@ -6599,7 +6599,7 @@
         {
             "id": "Greater Spiritual Evolution",
             "name": "Greater Spiritual Evolution",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.WHOCaVobY7N3UTtA]{Évolution divine} ou @Compendium[pf2e.feats-srd.lL2fQJ2oRyBgga8Q]{Évolution occulte}</p>\n<hr>\n<p>Votre sang magique est riche en essence spirituelle et cette imprégnation permet à vos sorts d'être pleinement efficaces contre les créatures incorporelles, les esprits et les créatures du Plan Éthéré.</p>\n<p>Vos sorts ont les effets d'une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale}. Ils peuvent cibler ou affecter une créature utilisant projetant sa conscience (comme avec @Compendium[pf2e.spells-srd.0873MWM0qKDDv81O]{Projection d'image}) ou possédant une autre créature, même si son corps est ailleurs, bien que vous deviez savoir que la créature est possédé ou de la projection et choisir de procéder de la sorte. Vos sorts peuvent affecter les créatures sur le Plan Éthéré, mais cela ne vous donne aucune capacité particulière pour les localiser.</p>"
+            "description": "<p>Votre sang magique est riche en essence spirituelle et cette imprégnation permet à vos sorts d'être pleinement efficaces contre les créatures intangibles, les esprits et les créatures du Plan Éthéré.</p>\n<p>Vos sorts ont les effets d'une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale}. Ils peuvent cibler ou affecter une créature projetant sa conscience (comme avec @Compendium[pf2e.spells-srd.0873MWM0qKDDv81O]{Projection d'image}) ou possédant une autre créature, même si son corps est ailleurs, bien que vous deviez savoir que la créature est possédée ou utilise la projection et choisir de procéder de la sorte. Vos sorts peuvent affecter les créatures sur le Plan Éthéré, mais cela ne vous donne aucune capacité particulière pour les localiser.</p>"
         },
         {
             "id": "Brutish Shove",
@@ -6609,7 +6609,7 @@
         {
             "id": "Coordinated Distraction",
             "name": "Coordinated Distraction",
-            "description": "<p><strong>Accès</strong> Aider soit les Chiens de la laverie soit les Balayeurs de Diobelà détruire leur rival.<br></p>\n<hr>\n<p>Par un sifflement court ou un signe de vos mains, vous distrayez un adversaire du fait qu'un de vos alliés va l'attaquer. Choisissez une cible et un allié, les deux étant dans les 9 m. La cible est <a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.conditionitems\" data-id=\"AJh5ex99aV6VTggg\"><i class=\"fas fa-suitcase\"></i>Prise au dépourvu</a> contre la première Frappeque l'allié lui porte à son prochain tour ; si votre allié ne frappe pas cette cible, l'effet est perdu. En fonction de la manière dont vous décrivez votre diversion, cette action obtient soit le trait audible, soit le trait visuel.</p>"
+            "description": "<p><strong>Accès</strong> Aider soit les Chiens de la laverie soit les Balayeurs de Diobelà détruire leur rival.<br></p>\n<hr />\n<p>Par un sifflement court ou un signe de vos mains, vous distrayez un adversaire du fait qu'un de vos alliés va l'attaquer. Choisissez une cible et un allié, les deux étant à 9 m ou moins. La cible est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} contre la première Frappe que l'allié lui porte à son prochain tour ; si votre allié ne frappe pas cette cible, l'effet est perdu. En fonction de la manière dont vous décrivez votre diversion, cette action obtient soit le trait audible, soit le trait visuel.</p>"
         },
         {
             "id": "Natural Skill",
@@ -6734,7 +6734,7 @@
         {
             "id": "Enforce Oath",
             "name": "Enforce Oath",
-            "description": "<p><strong>Prérequis</strong> Vous avez prêté un serment contre un type spécifique de créature.</p>\n<p><strong>Fréquence</strong> une fois par heure</p>\n<hr>\n<p>Vous faites appel à votre serment pour vous raffermir au combat. Lorsque vousrenforcez votre serment, choisissez une créature que vous pouvez voir que vous avez juré de vaincre du fait de votre serment.</p>\n<p>Vous obtenez un bonus de statut de +1 à la CA et aux jets de protection contre les attaques et les effets de la créature choisie. Vous obtenez aussi un bonus de statut de +1 aux jets d'attaque contre la créature choisie.</p>\n<p>Quoi qu'il en soit, votre dévouement à renforcer votre serment attire votre attention loin de tous les autres ennemis. Lorsque vous renforcez votre serment, vous subissez une pénalité de statut de –1 à la CA, aux jets d'attaque et aux jets de sauvegarde contre toutes les autres créatures jusqu'à ce que vous cessiez de renforcer votre serment.</p>\n<p>Vous arrêtez de renforcer votre serment une fois que la créature choisie est réduite à 0 Points de vie ou lorsqu'elle offre une reddition légitime à vous ou vos alliés. Vous arrêtez immédiatement de Renforcer votre Serment si vous êtes <a class=\"entity-link\" data-pack=\"pf2e.conditionitems\" data-id=\"fBnFDH2MTzgFijKf\" draggable=\"true\"><i class=\"fas fa-book-open\"></i>Inconscient</a> ou si la créature choisie n'est plus <a class=\"entity-link\" data-pack=\"pf2e.conditionitems\" data-id=\"9evPzg9E6muFcoSk\" draggable=\"true\"><i class=\"fas fa-book-open\"></i>Détectée</a> par vous durant plus d'une minute. Vous pouvez aussi cesser de renforcer votre serment n'importe quand durant votre tour par une action libre.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<hr />\n<p>Vous faites appel à votre serment pour vous raffermir au combat. Lorsque vous renforcez votre serment, choisissez une créature que vous pouvez voir que vous avez juré de vaincre du fait de votre serment.</p>\n<p>Vous obtenez un bonus de statut de +1 à la CA et aux jets de protection contre les attaques et les effets de la créature choisie. Vous obtenez aussi un bonus de statut de +1 aux jets d'attaque contre la créature choisie.</p>\n<p>Quoi qu'il en soit, votre dévotion à renforcer votre serment distrait votre attention de tous vos autres ennemis. Lorsque vous renforcez votre serment, vous subissez une pénalité de statut de –1 à la CA, aux jets d'attaque et aux jets de sauvegarde contre toutes les autres créatures jusqu'à ce que vous cessiez de renforcer votre serment.</p>\n<p>Vous arrêtez de renforcer votre serment une fois que la créature choisie est réduite à 0 Points de vie ou lorsqu'elle offre une reddition légitime à vous ou vos alliés. Vous arrêtez immédiatement de Renforcer votre Serment si vous êtes @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} ou si la créature choisie n'est plus @Compendium[pf2e.conditionitems.9evPzg9E6muFcoSk]{Détectée} par vous durant plus d'une minute. Vous pouvez aussi cesser de renforcer votre serment n'importe quand durant votre tour par une action libre.</p>"
         },
         {
             "id": "Kobold Weapon Innovator",
@@ -6749,7 +6749,7 @@
         {
             "id": "Evasiveness (Rogue)",
             "name": "Evasiveness (Rogue)",
-            "description": "<p><strong>Prérequis</strong> Dévouement du roublard, expert en jet de Réflexes</p>\n<hr>\n<p>Votre rang de maîtrise pour les jets de Réflexes passe à maître.</p>"
+            "description": "<p>Votre rang de maîtrise pour les jets de Réflexes passe à maître.</p>"
         },
         {
             "id": "Snare Commando",
@@ -6759,7 +6759,7 @@
         {
             "id": "Litany of Righteousness",
             "name": "Litany of Righteousness",
-            "description": "<p><strong>Prérequis</strong> principes du bien</p>\n<hr>\n<p>Votre vertu permet de révéler la faiblesse d’un adversaire malfaisant. Vous pouvez lancer le sort de dévotion @Compendium[pf2e.spells-srd.n3b3pDmA6L5YRTyq]{litanie de vertu}. Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>"
+            "description": "<p>Votre vertu permet de révéler la faiblesse d’un adversaire malfaisant.</p>\n<p>Vous pouvez lancer le sort de dévotion @Compendium[pf2e.spells-srd.n3b3pDmA6L5YRTyq]{Litanie de vertu}. Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>"
         },
         {
             "id": "Spirit Soother",
@@ -6779,7 +6779,7 @@
         {
             "id": "Verdant Metamorphosis",
             "name": "Verdant Metamorphosis",
-            "description": "<p><strong>Prérequis</strong> ordre de la feuille</p>\n<hr>\n<p>Vous vous transformez en une version végétale de vous‑même. Vous obtenez le trait plante et perdez tous les traits qui ne correspondent pas à votre nouvelle forme (le plus souvent humanoïde pour un PJ, mais aussi probablement animal ou champignon). Par une action unique ayant le trait concentration, vous pouvez adopter une forme d’arbre ou de plante autre qu’une créature ; l’apparence de cette forme est proche de la vôtre. Ce pouvoir produit le même effet que forme d’arbre, sauf que vous pouvez adopter la forme de n’importe quelle plante autre qu’une créature et que votre CA s’élève à 30. Si vous vous reposez pendant dix minutes en restant transformé en une plante autre qu’une créature, et exposé à la lumière directe du soleil pendant les heures diurnes, vous récupérez la moitié de votre maximum de points de vie. Si vous prenez votre repos quotidien de cette façon, il vous permet de récupérer tous vos points de vie et d’éliminer tous les états drainé, affaibli, maladroit et stupéfié non permanents, ainsi que tous les poisons et maladies de niveau 19 ou moins.</p>"
+            "description": "<p>Vous vous transformez en une version végétale de vous‑même. Vous obtenez le trait plante et perdez tous les traits qui ne correspondent pas à votre nouvelle forme (le plus souvent humanoïde pour un PJ, mais aussi probablement animal ou champignon). Par une action unique ayant le trait concentration, vous pouvez adopter une forme d’arbre ou de plante autre qu’une créature ; l’apparence de cette forme est proche de la vôtre. Ce pouvoir produit le même effet que forme d’arbre, sauf que vous pouvez adopter la forme de n’importe quelle plante autre qu’une créature et que votre CA s’élève à 30.</p>\n<p>Si vous vous reposez pendant dix minutes en restant transformé en une plante autre qu’une créature, et exposé à la lumière directe du soleil pendant les heures diurnes, vous récupérez la moitié de votre maximum de points de vie. Si vous prenez votre repos quotidien de cette façon, il vous permet de récupérer tous vos points de vie et d’éliminer tous les états Drainé, Affaibli, Maladroit et Stupéfié non permanents, ainsi que tous les poisons et maladies de niveau 19 ou moins.</p>"
         },
         {
             "id": "Catfolk Weapon Expertise",
@@ -6854,12 +6854,12 @@
         {
             "id": "Targeting Shot",
             "name": "Targeting Shot",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.GFtNQvpzuqtsdOTG]{Visée du chasseur}</p>\n<hr>\n<p>Vous observez attentivement la position et les défenses de votre proie, ce qui vous permet de tirer sur elle, quels que soient les obstacles entre vous et elle. Faites une Frappe avec une arme à distance contre votre proie. Vous ignorez l’état masqué et tous les abris dont elle bénéficie.</p>"
+            "description": "<p>Vous observez attentivement la position et les défenses de votre proie, ce qui vous permet de tirer sur elle, quels que soient les obstacles entre vous et elle. Faites une Frappe avec une arme à distance contre votre proie. Vous ignorez l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} et tous les abris dont elle bénéficie.</p>"
         },
         {
             "id": "Premonition Of Clarity",
             "name": "Premonition Of Clarity",
-            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<p><strong>Déclencheur</strong> Vous obtenez un échec à un jet de protection contre un effet mental.</p>\n<hr>\n<p>Votre divinité vous envoie une vision de foi pour vous renforcer contre des attaques mentales. Relancez le jet déclencherur avec un bonus de circonstances de +2. Vous devez utiliser le second résultat, même s'il est pire.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<p><strong>Déclencheur</strong> Vous obtenez un échec à un jet de sauvegarde contre un effet mental.</p>\n<hr />\n<p>Votre divinité vous envoie une vision de foi pour vous blinder contre les attaques mentales. Relancez le jet déclencheur avec un bonus de circonstances de +2. Vous devez utiliser le second résultat, même s'il est pire.</p>"
         },
         {
             "id": "Azarketi Purification",
@@ -6979,7 +6979,7 @@
         {
             "id": "Shadow's Web",
             "name": "Shadow's Web",
-            "description": "<p><strong>Prérequis</strong> sorts ki</p>\n<p><strong>Conditions</strong> Vous êtes dans la Posture de l'<a class=\"entity-link\" data-pack=\"pf2e.feats-srd\" data-id=\"QkKMile0qqmuVY67\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Initié des ombres tenaces</a>.</p>\n<hr>\n<p>Vous lancez une vague de ki fait d'ombre à partir de votre corps, infligeant des dégâts à vos adversaires et les figeants potentiellement sur place. Vous obtenez le sort de ki <a class=\"entity-link\" data-pack=\"pf2e.spells-srd\" data-id=\"n8eEXXAtguoErW0y\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Toile d'ombre</a>. Augmentez le nombre de points de focalisation dans votre réserve de focalisation de 1.</p>"
+            "description": "<p><strong>Conditions</strong> Vous êtes dans la Posture de l'@Compendium[pf2e.feats-srd.QkKMile0qqmuVY67]{Initié des ombres tenaces}.</p>\n<hr />\n<p>Vous lancez une vague de ki fait d'ombre à partir de votre corps, infligeant des dégâts à vos adversaires et les figeants potentiellement sur place. Vous obtenez le sort de ki @Compendium[pf2e.spells-srd.n8eEXXAtguoErW0y]{Toile d'ombre}. Augmentez le nombre de points de focalisation dans votre réserve de focalisation de 1.</p>"
         },
         {
             "id": "Energized Font",
@@ -7039,7 +7039,7 @@
         {
             "id": "Greater Merciful Elixir",
             "name": "Greater Merciful Elixir",
-            "description": "<p><strong>Prérequis</strong> Élixir miséricordieux</p>\n<hr>\n<p>Vos additifs contiennent des panacées qui peuvent soigner une pléthore de maladies. Quand vous utilisez Élixir miséricordieux, votre élixir peut à la place tenter de contrer les effets des états @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{aveugle}, @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{sourd}, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{malade} ou @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{ralenti}.</p>"
+            "description": "<p>Vos additifs contiennent des panacées qui peuvent soigner une pléthore de maladies. Quand vous utilisez @Compendium[pf2e.feats-srd.Mvw3ZFrdwMHedAxY]{Élixir miséricordieux}, votre élixir peut à la place tenter de contrer les effets des états @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveugle}, @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourd}, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} ou @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti}.</p>"
         },
         {
             "id": "Irrepressible (Halfling)",
@@ -7079,7 +7079,7 @@
         {
             "id": "Bloody Debilitation",
             "name": "Bloody Debilitation",
-            "description": "<p><strong>Prérequis</strong> qualifié en Médecine, @Compendium[pf2e.classfeatures.9SruVg2lZpNaYLOB]{Frappes incapacitantes}</p>\n<hr>\n<p>Vos attaques coupent les artères et les veines. Ajoutez le handicap suivant à la liste dans laquelle vous pouvez choisir lorsque vous utilisez @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Frappe incapacitante}.</p>\n<ul>\n<li><strong>Handicap</strong> La cible subit [[/r 3d6 #saignement persistant]] dégâts de saignement persistant.</li>\n</ul>"
+            "description": "<p>Vos attaques coupent les artères et les veines. Ajoutez le handicap suivant à la liste dans laquelle vous pouvez choisir lorsque vous utilisez @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Frappe incapacitante}.</p>\n<ul>\n<li><strong>Handicap</strong> La cible subit [[/r 3d6 #saignement persistant]] dégâts de saignement persistant.</li>\n</ul>"
         },
         {
             "id": "Can’t Fall Here",
@@ -7114,7 +7114,7 @@
         {
             "id": "Vengeful Strike",
             "name": "Vengeful Strike",
-            "description": "p><strong> Prérequis</strong> Je t’attends</p>\n<p><strong> Déclencheur</strong> Une créature à portée vous attaque et obtient un succès simple ou critique</p>\n<p><strong> Conditions</strong> Vous êtes sous l’effet de Je t’attends</p>\n<hr>\n<p> Quand vous êtes frappé par un ennemi, vous réciproquez. Vous faites une Frappe au corps à corps contre la créature qui a déclenché ce pouvoir. Cette Frappe n’est pas prise en compte pour votre malus d’attaques multiples et votre malus d’attaques multiples ne s’applique pas à cette Frappe.</p>"
+            "description": "<p><strong> Déclencheur</strong> Une créature à votre portée réussi à vous porter un coup.</p>\n<p><strong> Conditions</strong> Vous êtes sous l’effet de Je t’attends</p>\n<hr />\n<p>Quand vous êtes frappé par un ennemi, vous lui répondez en retour. Vous faites une Frappe au corps à corps contre la créature qui a déclenché ce pouvoir. Cette Frappe n’est pas prise en compte pour votre malus d’attaques multiples et votre malus d’attaques multiples ne s’applique pas à cette Frappe.</p>"
         },
         {
             "id": "Song of the Fallen",
@@ -7154,7 +7154,7 @@
         {
             "id": "Reactive Transformation",
             "name": "Reactive Transformation",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.spells-srd.8RWfKConLYFZpQ9X]{Morphologie sauvage}; @Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{Forme draconique}, @Compendium[pf2e.spells-srd.1K6AYGisvo9gqdhs]{Forme élémentaire}, @Compendium[pf2e.spells-srd.zCcfPS4y5SrZzU2x]{Forme de plante} ou @Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]{Morphologie volante}</p>\n<p><strong>Déclencheur</strong> variable</p>\n<hr>\n<p>Vous vous transformez par réflexe face à un danger. Vous lancez @Compendium[pf2e.spells-srd.8RWfKConLYFZpQ9X]{Morphologie sauvage} pour vous transformer en une forme accordée par un des dons prérequis que vous possédez, en fonction du déclencheur. Les résistances et les faiblesses de cette forme s'appliquent contre les dégâts déclencheurs.</p>\n<hr>\n<p><strong>Déclencheur</strong> Vous chutez de 3 m ou plus</p>\n<p><strong>Effet</strong> Choisissez une forme de @Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]{Forme volante}.</p>\n<hr>\n<p><strong>Déclencheur</strong> Vous subissez des dégâts d'acide, d'électricité, de feu, de froid, ou de poison</p>\n<p><strong>Effet</strong> Choisissez une forme de @Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{Forme draconique} qui résiste aux dégâts déclencheurs.</p>\n<hr>\n<p><strong>Déclencheur</strong> Vous subissez des dégâts de feu</p>\n<p><strong>Effect</strong> Choisissez une forme d'élémentaire de feu de @Compendium[pf2e.spells-srd.1K6AYGisvo9gqdhs]{Forme élémentaire}.</p>\n<hr>\n<p><strong>Déclencheur</strong> Vous subissez des dégâts de poison</p>\n<p><strong>Effet</strong> Choisissez une forme de @Compendium[pf2e.spells-srd.zCcfPS4y5SrZzU2x]{Forme de plante}.</p>"
+            "description": "<p><strong>Déclencheur</strong> variable</p>\n<hr />\n<p>Vous vous transformez instinctivement face au danger. Vous lancez @Compendium[pf2e.spells-srd.8RWfKConLYFZpQ9X]{Morphologie sauvage} pour vous transformer en une forme accordée par un des dons prérequis que vous possédez, en fonction du déclencheur. Les résistances et les faiblesses de cette forme s'appliquent aux dégâts déclencheurs.</p>\n<hr />\n<p><strong>Déclencheur</strong> Vous chutez de 3 m ou plus</p>\n<p><strong>Effet</strong> Choisissez une forme de @Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]{Forme volante}.</p>\n<hr />\n<p><strong>Déclencheur</strong> Vous subissez des dégâts d'acide, d'électricité, de feu, de froid, ou de poison</p>\n<p><strong>Effet</strong> Choisissez une forme de @Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{Forme draconique} qui résiste aux dégâts déclencheurs.</p>\n<hr />\n<p><strong>Déclencheur</strong> Vous subissez des dégâts de feu</p>\n<p><strong>Effet</strong> Choisissez une forme d'élémentaire de feu de @Compendium[pf2e.spells-srd.1K6AYGisvo9gqdhs]{Forme élémentaire}.</p>\n<hr />\n<p><strong>Déclencheur</strong> Vous subissez des dégâts de poison</p>\n<p><strong>Effet</strong> Choisissez une forme de @Compendium[pf2e.spells-srd.zCcfPS4y5SrZzU2x]{Forme de plante}.</p>"
         },
         {
             "id": "Shadow Sneak Attack",
@@ -7169,7 +7169,7 @@
         {
             "id": "Familiar's Eyes",
             "name": "Familiar's Eyes",
-            "description": "<p><strong>Prérequis</strong> un familier</p>\n<hr>\n<p>Vous utilisez les sens de votre familier aussi facilement que les vôtres.</p>\n<p>Vous projetez vos sens dans votre familier. Lorsque vous le faites, vous perdez toutes les informations sensorielles de votre propre corps mais vous pouvez ressentir à travers le corps de votre familier jusqu'à ce que vous @Compendium[pf2e.actionspf2e.AjLSHZSWQ90exdLo]{Révoquiez} l'effet.</p>\n<p>En projetant vos sens de cette manière, vous pouvez converser télépathiquement avec votre familier s'il comprend une langue.</p>\n<p><strong>Spécial</strong> Ce don a le trait correspondant à la tradition des sorts que vous lance (arcanique, divin, occulte ou primordial).</p>"
+            "description": "<p>Vous utilisez les sens de votre familier aussi facilement que les vôtres.</p>\n<p>Vous projetez vos sens dans votre familier. Lorsque vous le faites, vous perdez toutes les informations sensorielles de votre propre corps mais vous pouvez ressentir à travers le corps de votre familier jusqu'à ce que vous @Compendium[pf2e.actionspf2e.AjLSHZSWQ90exdLo]{Révoquiez} l'effet.</p>\n<p>En projetant vos sens de cette manière, vous pouvez converser télépathiquement avec votre familier s'il comprend une langue.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don a le trait correspondant à la tradition des sorts que vous lancez (arcanique, divin, occulte ou primordial).</p>"
         },
         {
             "id": "Pied Piping",
@@ -7374,7 +7374,7 @@
         {
             "id": "Sow Spell",
             "name": "Sow Spell",
-            "description": "<p>Vous insérez votre sort dans une graîne. Si votre prochaine action consiste à  @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} qui utilise 1 action ou 2 actions, le sort see plante lui-même dans une case adjacente. Vous devez prendre toutes les décisions concernant le sort au moment où vous le lancez.</p>\n<p>Dans les 10 prochaines minutes, vous pouvez ordonner à votre sort semé de jaillir et de produire les effets du sort, en réaction qui se déclencheur lorsqu'une créature entre dans la case du sort semé ou une case qui lui est adjacente.</p>\n<p>Vous ne pouvez avoir qu'un unique sort semé au même moment et sous vous ne déclenchez par le sort dans les 10 minutes, il se dissipe et le sort est perdu. Une créature peut remarquer le sort semé avec un test de Perception réussi contre votre DD de sort.</p>"
+            "description": "<p>Vous insérez votre sort dans une graîne. Si votre prochaine action consiste à  @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} qui utilise 1 action ou 2 actions, le sort se plante lui-même dans une case adjacente. Vous devez prendre toutes les décisions concernant le sort au moment où vous le lancez.</p>\n<p>Dans les 10 prochaines minutes, vous pouvez ordonner à votre Sort semé de jaillir et de produire les effets du sort comme s'il s'agissait d'une réaction, laquelle se déclenche lorsqu'une créature entre dans la case du Sort semé ou une case qui lui est adjacente.</p>\n<p>Vous ne pouvez avoir qu'un unique Sort semé au même moment et si vous ne déclenchez pas le sort dans les 10 minutes, il se dissipe et le sort est perdu. Une créature peut remarquer le Sort semé avec un test de Perception réussi contre votre DD de sort.</p>"
         },
         {
             "id": "Ricochet Stance (Fighter)",
@@ -7734,7 +7734,7 @@
         {
             "id": "Spring from the Shadows",
             "name": "Spring from the Shadows",
-            "description": "<p>Bondissant de votre cachette, vous attaquez votre cible au moment où elle s’y attend le moins. Vous @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} de votre Vitesse, mais vous devez terminer votre mouvement à côté d’un ennemi vis-à-vis duquel vous êtes @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} ou @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détecté}. Vous @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappez} cet ennemi, mais restez Caché ou Non détecté aux yeux de cette créature jusqu’à la fin de votre Frappe. Vous pouvez utiliser Bondir depuis les ombres pour @Compendium[pf2e.actionspf2e.H6v1VgowHaKHnVlG]{Creuser}, @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader], @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Voler} ou @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} au lieu de Marcher rapidement si vous possédez le type de déplacement correspondant.</p>"
+            "description": "<p>Bondissant de votre cachette, vous attaquez votre cible au moment où elle s’y attend le moins. Vous @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} de votre Vitesse, mais vous devez terminer votre mouvement à côté d’un ennemi vis-à-vis duquel vous êtes @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} ou @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détecté}.</p>\n<p>Vous @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappez} cet ennemi, mais restez Caché ou Non détecté aux yeux de cette créature jusqu’à la fin de votre Frappe.</p>\n<p>Vous pouvez utiliser Bondir depuis les ombres pour @Compendium[pf2e.actionspf2e.H6v1VgowHaKHnVlG]{Creuser}, @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader], @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Voler} ou @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} au lieu de Marcher rapidement si vous possédez le type de déplacement correspondant.</p>"
         },
         {
             "id": "Animal Senses",
@@ -7799,7 +7799,7 @@
         {
             "id": "Titan's Stature",
             "name": "Titan's Stature",
-            "description": "<p><strong>Prérequis</strong> Instinct de géant, Stature de géant</p>\n<hr>\n<p>Vous grandissez encore plus. Quand vous utilisez votre Stature de géant, vous pouvez maintenant devenir Très Grand (vous augmentez alors votre allonge de 3 m si vous étiez de taille Moyenne ou inférieure) pendant que vous êtres enragé. Vous êtes dans l’état @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{maladroit} 1 (page 622) tant que vous êtes Très Grand.</p>"
+            "description": "<p>Vous grandissez encore plus. Quand vous utilisez votre Stature de géant, vous pouvez maintenant devenir Très Grand (vous augmentez alors votre allonge de 3 m si vous étiez de taille Moyenne ou inférieure) pendant que vous êtres enragé. Vous êtes dans l’état @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{maladroit} 1 (page 622) tant que vous êtes Très Grand.</p>\n<p>@Compendium[pf2e.feat-effects.RcxDIOa68SUGyMun]{Effet: Stature de titan}</p>"
         },
         {
             "id": "Certain Strike",
@@ -7859,7 +7859,7 @@
         {
             "id": "Primal Summons",
             "name": "Primal Summons",
-            "description": "<p><strong>Prérequis</strong> Appel de la nature</p>\n<hr>\n<p>Chaque fois que vous convoquez un allié, vous pouvez le renforcer avec la puissance élémentaire de l’air, de la terre, du feu ou de l’eau. Vous obtenez le sort d’ordre convocations primordiales.</p>"
+            "description": "<p>Chaque fois que vous convoquez un allié, vous pouvez le renforcer avec la puissance élémentaire de l’air, de la terre, du feu ou de l’eau. Vous obtenez le sort d’ordre @Compendium[pf2e.spells-srd.kwlKUxEuT8T15YW6]{Convocations primordiales}.</p>"
         },
         {
             "id": "Kitsune Spell Mysteries",
@@ -7914,7 +7914,7 @@
         {
             "id": "Awesome Blow",
             "name": "Awesome Blow",
-            "description": "<p><strong>Prérequis</strong> Repousser</p>\n<hr>\n<p>Vos attaques sont si puissantes qu’elles peuvent écraser vos adversaires. Quand vous utilisez Repousser, vous pouvez faire un test d’Athlétisme contre le DD de Vigueur de votre cible.</p>\n<p><strong>Succès critique</strong> DD de Vigueur de votre cible. Succès critique. La cible subit l’effet d’un succès critique avec Pousser, puis l’effet critique d’un succès critique avec un Croc-en-jambe</p>\n<p><strong>Succès.</strong> La cible subit l’effet d’un succès avec Pousser, puis l’effet critique d’un succès avec un Croc-en-jambe.</p>\n<p><strong>Échec.</strong> Vous appliquez les effets normaux de Repousser.</p>"
+            "description": "<p><strong>Prérequis</strong> Repousser</p>\n<hr />\n<p>Vos attaques sont si puissantes qu’elles peuvent écraser vos adversaires. Quand vous utilisez Repousser, vous pouvez faire un test d’Athlétisme contre le DD de Vigueur de votre cible.</p>\n<p><strong>Succès critique</strong> Vous obtenez l’effet d’un succès critique pour Pousser puis la cible subit l’effet de succès critique d’un Croc-en-jambe</p>\n<p><strong>Succès</strong> Vous obtenez l’effet d’un succès pour Pousser, puis la cible subit l’effet d’un succès avec Croc-en-jambe.</p>\n<p><strong>Échec</strong> Vous appliquez les effets normaux de Repousser.</p>"
         },
         {
             "id": "Wild Winds Gust",
@@ -8234,7 +8234,7 @@
         {
             "id": "Extend Armament Alignment",
             "name": "Extend Armament Alignment",
-            "description": "<p><strong>Prérequis</strong> Arsenal aligné</p>\n<hr>\n<p>L’alignement que vous imposez à une arme dure plus longtemps. La durée d’Arsenal aligné passe à une minute.</p>"
+            "description": "<p>L’alignement que vous imposez à une arme dure plus longtemps. La durée d’Arsenal aligné passe à une minute.</p>"
         },
         {
             "id": "Form Of The Fiend",
@@ -8409,7 +8409,7 @@
         {
             "id": "Meditative Focus",
             "name": "Meditative Focus",
-            "description": "<p><strong>Prérequis</strong> sorts ki</p>\n<hr>\n<p>Votre capacité de méditation est si efficace qu’elle vous permet une focalisation profonde. Si vous avez dépensé au moins 2 points de focalisation depuis votre dernière Refocalisation, vous récupérez 2 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.</p>"
+            "description": "<p>Votre capacité de méditation est si efficace qu’elle vous permet une focalisation profonde. Si vous avez dépensé au moins 2 points de focalisation depuis votre dernière Refocalisation, vous récupérez 2 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.</p>"
         },
         {
             "id": "Bloodline Wellspring",
@@ -8524,7 +8524,7 @@
         {
             "id": "Mysterious Repertoire",
             "name": "Mysterious Repertoire",
-            "description": "<p>Votre mystère contient des profondeurs inconnues de magie pas toujours associées avec le divin. Vous pouvez posséder dans votre répertoire de sort un sort qui n'est pas sur la liste des sorts divins, en plus des sorts que vous avez ajouté à votre liste de sorts des dons comme @Compendium[pf2e.feats-srd.8EbIznFgkG7PHqlE]{Accès divin}. Vous lancez ce sort comme un sort divin.</p>\n<p>Vous pouvez décider quel sort vous ajoutez et sa tradition comme vous pourriez le faire avec tout sort d'oracle, mais vous ne pouvez utiliser ce don pour obtenir plus d'un sort d'une autre tradition dans votre répertoire de sort au même moment.</p>"
+            "description": "<p>Votre mystère contient des profondeurs inconnues de magie pas toujours associées avec le divin. Vous pouvez posséder dans votre répertoire de sort un sort qui n'est pas sur la liste des sorts divins, en plus des sorts que vous avez ajouté à votre liste de sorts du fait de dons comme @Compendium[pf2e.feats-srd.8EbIznFgkG7PHqlE]{Accès divin}. Vous lancez ce sort comme un sort divin.</p>\n<p>Vous pouvez décider quel sort vous ajoutez et de quelle tradition il est issu comme vous pourriez le faire avec tout sort d'oracle, mais vous ne pouvez utiliser ce don pour obtenir plus d'un sort d'une autre tradition dans votre répertoire de sort au même moment.</p>"
         },
         {
             "id": "Spore Cloud",
@@ -8569,7 +8569,7 @@
         {
             "id": "Aura of Righteousness",
             "name": "Aura of Righteousness",
-            "description": "<p><strong>Prérequis</strong> principes du bien</p>\n<hr>\n<p>Votre aura vertueuse sape les forces du mal. Vous et tous les alliés dans un rayon de 4,50 m gagnez une résistance 5 contre le mal.</p>"
+            "description": "<p>Votre aura vertueuse sape les forces du mal. Vous et tous les alliés dans un rayon de 4,50 m gagnez une résistance 5 contre le mal.</p>"
         },
         {
             "id": "Catfolk Dance",
@@ -8739,7 +8739,7 @@
         {
             "id": "Swift Banishment",
             "name": "Swift Banishment",
-            "description": "<p><strong>Déclencheur</strong> Vous infligez un coup critique à une créature qui n’est pas sur son plan d’origine.</p>\n<p><strong>Conditions</strong> Vous avez préparé le sort bannissement</p>\n<hr>\n<p>La puissance de vos coups renvoie votre adversaire vers son plan d’origine. Vous dépensez un sort bannissement que vous avez préparé et qui affecte la créature à laquelle vous avez infligé un coup critique sans avoir à lancer le sort. La créature peut tenter de résister comme à l’accoutumée.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous infligez un coup critique à une créature qui n’est pas sur son plan d’origine.</p>\n<p><strong>Conditions</strong> Vous avez préparé un sort de bannissement</p>\n<hr />\n<p>La puissance de vos coups renvoie votre adversaire vers son plan d’origine. Vous dépensez un sort @Compendium[pf2e.spells-srd.bay4AfSu2iIozNNW]{Bannissement} que vous avez préparé et qui affecte la créature à laquelle vous avez infligé un coup critique sans avoir à lancer le sort. La créature peut tenter de résister comme à l’accoutumée.</p>"
         },
         {
             "id": "Wilderness Spotter (Mountain)",
@@ -8864,7 +8864,7 @@
         {
             "id": "Impaling Thrust",
             "name": "Impaling Thrust",
-            "description": "<p><strong>Conditions</strong> Vous maniez une arme de mêlée qui inflige des dégâts perforants.</p>\n<hr>\n<p>Vous empalez votre ennemi et le maintenez en position avec votre arme.</p>\n<p>Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} de mêlée avec l'arme requise. Si la Frappe touche et inflige des dégâts, votre cible est @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisie} jusqu'à ce qu'elle parvienne à @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{S'échapper}, que vous attaquiez avec l'arme requise ou que vous @Compendium[pf2e.actionspf2e.wQYmDStjdjn0I26t]{Relâchiez} l'arme requise, ce qui advient en premier.</p>\n<p>Lorsque la cible n'est plus saisie, elle subit des dégâts de saignement persistants égaux au nombre de dés de dégât de l'arme.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme de corps-à-corps qui inflige des dégâts perforants.</p>\n<hr />\n<p>Vous empalez votre ennemi et le maintenez en position avec votre arme.</p>\n<p>Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} de corps-à-corps avec l'arme requise. Si la Frappe touche et inflige des dégâts, votre cible est @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisie} jusqu'à ce qu'elle parvienne à @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{S'échapper}, que vous attaquiez avec l'arme requise ou que vous @Compendium[pf2e.actionspf2e.wQYmDStjdjn0I26t]{Relâchiez} l'arme requise, selon ce qui advient en premier.</p>\n<p>Lorsque la cible n'est plus saisie, elle subit des dégâts de saignement persistants égaux au nombre de dés de dégât de l'arme.</p>"
         },
         {
             "id": "Raging Thrower",
@@ -8949,7 +8949,7 @@
         {
             "id": "Plot The Future",
             "name": "Plot The Future",
-            "description": "<p>Vous passez 10 minutes en contemplation pour prédire étrangement comment les évènements vont se produire. Choisissez un objectif particulier ou une activité que vous planifiez d'engager durant la semaine ou un évènement dont vous attendez à ce qu'il puisse se produire dans la semaine. Vous analysez les probabilités qu'il se produise, en apprenant si c'est hautement probable, plus ou moins probable ou hautement improbable. Vous obtenez aussi un conseil pour suggérer une conduite à tenir que vous ou vos alliés pourraient entreprendre et qui permettrait de faire en sorte d'augmenter ou de diminuer les chances que l'évènement se produise, en fonction de vos préférences.</p>\n<p>Le MJ apprécie la probabilité de l'évènement et le conseil que vous apprenez.</p>"
+            "description": "<p>Vous passez 10 minutes en contemplation pour prédire étrangement comment les évènements vont se produire. Choisissez un objectif particulier ou une activité que vous planifiez d'engager durant la semaine ou un évènement dont vous attendez à ce qu'il puisse se produire dans la semaine. Vous analysez les probabilités qu'il se produise, en apprenant si c'est hautement probable, plus ou moins probable ou hautement improbable. Vous obtenez aussi un conseil pour vous suggérer une conduite à tenir que vous ou vos alliés pourriez entreprendre et qui permettrait de faire en sorte d'augmenter ou de diminuer les chances que l'évènement se produise, en fonction de vos préférences.</p>\n<p>Le MJ apprécie la probabilité de l'évènement et le conseil que vous apprenez.</p>"
         },
         {
             "id": "Sudden Charge",
@@ -8994,7 +8994,7 @@
         {
             "id": "Mountain Quake",
             "name": "Mountain Quake",
-            "description": "<p><strong>Prérequis</strong> Bastion de la montagne</p>\n<p><strong>Conditions</strong> Vous êtes dans la Posture de la montagne</p>\n<hr>\n<p>Vous piétinez pour faire trembler la terre sous vos pieds. Les créatures sur le sol dans une émanation de 6 m subissent un montant de dégâts égal à votre modificateur de Force (0 au minimum), auxquels chacune peut résister grâce à un jet de Vigueur basique. Elles tombent également @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{à terre} en cas d’échec. Après avoir effectué cette action, vous ne pouvez plus la réutiliser avant 1d4 rounds.</p>\n<p><strong>Spécial</strong> Si vous avez ce don, le bonus de Dextérité maximal à votre CA lorsque vous prenez la Posture de la montagne passe de +1 à +2</p>"
+            "description": "<p><strong>Conditions</strong> Vous êtes dans la @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Posture de la montagne}</p>\n<hr />\n<p>Vous piétinez pour faire trembler la terre sous vos pieds. Les créatures sur le sol dans une émanation de 6 m subissent un montant de dégâts égal à votre modificateur de Force (0 au minimum), auxquels chacune peut résister grâce à un jet de Vigueur basique. Elles tombent également @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} en cas d’échec. Après avoir effectué cette action, vous ne pouvez plus la réutiliser avant 1d4 rounds.</p>\n<hr />\n<p><strong>Spécial</strong> Si vous avez ce don, le bonus de Dextérité maximal à votre CA lorsque vous prenez la Posture de la montagne passe de +1 à +2</p>\n<p>@Compendium[pf2e.pf2e-macros.4nEbRlo2cB9KkK7T]{Activer Posture de la Montagne}</p>"
         },
         {
             "id": "Counterspell (Prepared)",
@@ -9054,7 +9054,7 @@
         {
             "id": "Earworm",
             "name": "Earworm",
-            "description": "<p>En répétant inlassablement un motif, vous implantez une rengaine, une chanson facile à se rappeler qui se répète dans la tête de vos allié sans arrêt, les préparant à y répondre par la suite.</p>\n<p>Choisissez un tour de magie de composition et dépensez 10 minutes à répéter une mélodie, un chant, un discours, des séries de mouvements ou une représentation du même ordre qui incarne ce tour de magie. Cette activité obtient les traits appropriés au type de représentation. Vous implantez la rengaine dans les alliés qui peuvent vous voir ou vous entendre (en fonction de la représentation que vous avez utilisée) pendant l'entière activité.</p>\n<p>Une fois que vous avez créer la rengaine, vous pouvez effectuer un test de Représentation par une action gratuite pour l'activer. Ce test utilise le DD très difficile d'un niveau égal à celui du plus haut niveau des cibles présentes au moment de l'activation de la rengaine.</p>\n<p>En cas de succès, vous lancez le tour de magie sur tous les alliés qui ont appris la rengaine et qui peuvent percevoir votre Représentation ; en cas d'échec, la rengaine est perdue et gâchée. Comme c'est basé sur de précédentes répétitions, vous ne pouvez pas utiliser davantaeg d'actions libres comme @Compendium[pf2e.spells-srd.irTdhxTixU9u9YUm]{Composition prolongée} ou @Compendium[pf2e.spells-srd.kF0rs9mCPvJGfAZE]{Inspiration Héroïque}&nbsp;pour modifier la rengaine activée.</p>\n<p>Les alliés oublient la rengaine après son activation, si vous passez 10 minutes pour en implanter une autre ou au cours de vos prochains préparatifs quotidient, selon l'évènement qui ce se produit en premier.</p>"
+            "description": "<p>En répétant inlassablement un motif, vous implantez une rengaine, une chanson facile à se rappeler qui se répète dans la tête de vos alliés sans cesse, les préparant à y réagir par la suite.</p>\n<p>Choisissez un tour de magie de composition et dépensez 10 minutes à répéter une mélodie, un chant, un discours, des séries de mouvements ou une représentation du même ordre qui incarne ce tour de magie. Cette activité obtient les traits appropriés au type de représentation. Vous implantez la rengaine dans les alliés qui peuvent vous voir ou vous entendre (en fonction de la représentation que vous avez utilisée) pendant l'entière activité.</p>\n<p>Une fois que vous avez créer la rengaine, vous pouvez effectuer un test de Représentation par une action gratuite pour l'activer. Ce test utilise le DD très difficile d'un niveau égal à celui du plus haut niveau des cibles présentes au moment de l'activation de la rengaine.</p>\n<p>En cas de succès, vous lancez le tour de magie sur tous les alliés qui ont appris la rengaine et qui peuvent percevoir votre Représentation ; en cas d'échec, la rengaine est perdue et gâchée. Comme c'est basé sur de précédentes répétitions, vous ne pouvez pas utiliser davantage d'actions libres comme @Compendium[pf2e.spells-srd.irTdhxTixU9u9YUm]{Composition prolongée} ou @Compendium[pf2e.spells-srd.kF0rs9mCPvJGfAZE]{Inspiration Héroïque} pour modifier la rengaine activée.</p>\n<p>Les alliés oublient la rengaine après son activation, si vous passez 10 minutes pour en implanter une autre ou à la suite de vos prochains préparatifs quotidiens, selon l'évènement qui ce se produit en premier.</p>"
         },
         {
             "id": "Dualistic Synergy",
@@ -9334,7 +9334,7 @@
         {
             "id": "Two-Weapon Flurry",
             "name": "Two-Weapon Flurry",
-            "description": "<p><strong>Conditions</strong> Vous maniez deux armes, une dans chaque main</p>\n<hr>\n<p>Vous attaquez brusquement et frénétiquement avec vos deux armes. Faites deux Frappes, une fois avec chaque arme.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez deux armes, une dans chaque main</p>\n<hr />\n<p>Vous attaquez brusquement et frénétiquement avec vos deux armes. Faites deux Frappes, une fois avec chaque arme.</p>"
         },
         {
             "id": "Scalpel's Point",
@@ -9384,7 +9384,7 @@
         {
             "id": "Flinging Shove",
             "name": "Flinging Shove",
-            "description": "<p><strong>Prérequis</strong> Blocage agressif ou Poussée brutale</p>\n<hr>\n<p>Lorsque vous Poussez un adversaire avec Blocage agressif ou Poussée brutale, la distance de poussée passe à 3 m en cas de succès ou à 6 m en cas de succès critique. Quand vous utilisez Blocage agressif, vous pouvez faire en sorte que la cible soit @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{prise au dépourvu} ou @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Poussée} (vous choisissez). Quand vous faites une Poussée brutale, vous @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Poussez} également la cible de 1,50 m en cas d’échec.</p>"
+            "description": "<p>Lorsque vous @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Poussez} un adversaire avec @Compendium[pf2e.feats-srd.19OLlTrxvEtDAOHc]{Blocage agressif} ou @Compendium[pf2e.feats-srd.gt9pvIicabSOe6pB]{Poussée brutale}, la distance de poussée passe à 3 m en cas de succès ou à 6 m en cas de succès critique.</p>\n<p>Quand vous utilisez Blocage agressif, vous pouvez faire en sorte que la cible soit @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} ou @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Poussée} (vous choisissez).</p>\n<p>Quand vous faites une Poussée brutale, vous Poussez également la cible de 1,50 m en cas d’échec.</p>"
         },
         {
             "id": "Alchemical Savant",
@@ -9544,7 +9544,7 @@
         {
             "id": "Glib Mutagen",
             "name": "Glib Mutagen",
-            "description": "<p> Vos mutagènes de langue dorée transcendent les langues et la vraisemblance. Quand vous êtes sous l’effet d’un mutagène de langue dorée que vous avez créé, vous ignorez les malus de circonstances aux tests de Duperie, Diplomatie, Intimidation et Représentation. En outre, vos mots transcendent les barrières linguistiques : tous ceux qui vous écoutent vous comprennent comme si vous parliez leur propre langue (vous ne parlez cependant pas cette langue et ce pouvoir ne vous permet pas non plus de comprendre des langues supplémentaires).</p>"
+            "description": "<p>Vos mutagènes de langue dorée transcendent les langues et la vraisemblance. Quand vous êtes sous l’effet d’un mutagène de langue dorée que vous avez créé, vous ignorez les malus de circonstances aux tests de Duperie, Diplomatie, Intimidation et Représentation. En outre, vos mots transcendent les barrières linguistiques : tous ceux qui vous écoutent vous comprennent comme si vous parliez leur propre langue (vous ne parlez cependant pas cette langue et ce pouvoir ne vous permet pas non plus de comprendre des langues supplémentaires).</p>"
         },
         {
             "id": "Leech-Clipper",
@@ -9569,12 +9569,12 @@
         {
             "id": "Soothing Ballad",
             "name": "Soothing Ballad",
-            "description": "<p><strong>Prérequis</strong> réserve de focalisation</p>\n<hr>\n<p>Vous apaisez les blessures de vos alliés grâce à la magie de votre représentation. Vous apprenez le sort de composition @Compendium[pf2e.spells-srd.0JigNJDRwevZOyjI]{ballade apaisante}. Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>"
+            "description": "<p>Vous apaisez les blessures de vos alliés grâce à la puissance de votre représentation. Vous apprenez le sort de composition @Compendium[pf2e.spells-srd.0JigNJDRwevZOyjI]{Ballade apaisante}. Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>"
         },
         {
             "id": "Pale Horse",
             "name": "Pale Horse",
-            "description": "<p><strong>Prérequis </strong>@Compendium[pf2e.feats-srd.lix0Utu4g8mQ0ZtI]{Allié divin}&nbsp;(monture), préceptes du mal</p>\n<hr>\n<p>Votre monture devient une créature grotesque de mauvaise augure lorsque vous la chevauchez. Son apparence se transforme lorsque des flammes émanent de sa peau, une volute d'énergie négative l'entoure ou le poison coule de sa chair.</p>\n<p>Lorsque vous vous @Compendium[pf2e.actionspf2e.PM5jvValFkbFH3TV]{Mettez en selle} sur votre allié monture, vous pouvez choisir entre feu, négatif ou poison. Tant que vous la montez, votre monture obtient une résistance 10 contre les dégâts choisis  et toute créature qui la touche subit [[/r 1d6]] dégâts du type choisi ; cela inclut de toucher la monture avec une attaque à mains nues ou avec une  @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} avec une arme de de mêlée lorsque l'attaquant est adjacent à la monture.</p>\n<p>Ces dégâts passent à [[/r 2d6]] au niveau 16 et [[/r 3d6]] au niveau 20.</p>"
+            "description": "<p>Votre monture devient une créature grotesque et inquiétante lorsque vous la chevauchez. Son apparence se transforme lorsque des flammes émanent de sa peau, une volute d'énergie négative l'entoure ou le poison coule de sa chair.</p>\n<p>Lorsque vous vous @Compendium[pf2e.actionspf2e.PM5jvValFkbFH3TV]{Mettez en selle} sur votre allié monture, vous pouvez choisir entre feu, négatif ou poison. Tant que vous la montez, votre monture obtient une résistance 10 contre les dégâts choisis  et toute créature qui la touche subit [[/r 1d6]] dégâts du type choisi ; cela inclut de toucher la monture avec une attaque à mains nues ou avec une  @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} avec une arme au corps-à-corps lorsque l'attaquant est adjacent à la monture.</p>\n<p>Ces dégâts passent à [[/r 2d6]] au niveau 16 et [[/r 3d6]] au niveau 20.</p>"
         },
         {
             "id": "Ancestral Longevity",
@@ -9644,7 +9644,7 @@
         {
             "id": "Hex Focus",
             "name": "Hex Focus",
-            "description": "<p>Les enseignements de votre patron vous ont permis d'atteindre une meilleure capacité de refocalisation. Si vous avez dépensé au moins 2 Points de focalisation depuis la dernière fois que vous vous êtes <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"OSefkMgojBLqmRDh\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Refocalisé</a>, vous récupérez 2 Points de focalisation lorsque vous vous Refocalisez au lieu d'un.</p>"
+            "description": "<p>Les enseignements de votre patron vous ont permis d'atteindre une meilleure capacité de refocalisation. Si vous avez dépensé au moins 2 Points de focalisation depuis la dernière fois que vous vous êtes @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocalisé}, vous récupérez 2 Points de focalisation lorsque vous vous Refocalisez au lieu d'un.</p>"
         },
         {
             "id": "Head Stomp",
@@ -9714,7 +9714,7 @@
         {
             "id": "Spell Shroud",
             "name": "Spell Shroud",
-            "description": "<p>Votre sort vous enveloppe d'un nuage mouvant. Si votre prochaine action consiste à <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"aBQ8ajvEBByv45yz\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Lancer un sort</a> qui vous cible, vous vous entourez d'une épaisse brume magique de 4,5 mètres de haut qui dure jusqu'au début de votre prochain tour.</p>\n<p>Toutes les créatures à l'intérieur du nuage sont <a class=\"entity-link\" data-pack=\"pf2e.conditionitems\" data-id=\"DmAIPqOBomZ7H95W\" draggable=\"true\"><i class=\"fas fa-book-open\"></i>masquées</a> et toutes les créatures à l'extérieur du nuage sont masquées des créatures qui se trouvent à l'intérieur.</p>"
+            "description": "<p>Votre sort vous enveloppe d'un nuage mouvant. Si votre prochaine action consiste à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} qui vous cible, vous vous entourez d'une épaisse brume magique dans une émanation de 4,5 mètres qui dure jusqu'au début de votre prochain tour.</p>\n<p>Toutes les créatures à l'intérieur du nuage sont @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées} et toutes les créatures à l'extérieur du nuage sont Masquées des créatures qui se trouvent à l'intérieur.</p>"
         },
         {
             "id": "After You",
@@ -9779,7 +9779,7 @@
         {
             "id": "Ironblood Surge",
             "name": "Ironblood Surge",
-            "description": "<p><strong>Prérequis</strong> Ironblood Stance</p>\n<p><strong>Conditions.</strong> Vous êtes dans la Posture du sang-de-fer</p>\n<hr>\n<p>Vous vous cuirassez en vous apprêtant à encaisser des attaques imminentes et à utiliser vos muscles pour absorber les impacts. Vous bénéficiez des avantages du trait parade de votre balayage de fer (qui vous confère un bonus de circonstances de +1 à la CA jusqu’au début de votre prochain tour) et la résistance conférée par la Posture du sang-de-fer est à présent égale à votre modificateur de Force (s’il est plus élevé) pendant la même durée.</p>"
+            "description": "<p><strong>Conditions</strong> Vous êtes dans la Posture du sang-de-fer</p>\n<hr />\n<p>Vous vous cuirassez en vous apprêtant à encaisser des attaques imminentes et à utiliser vos muscles pour absorber les impacts. Vous bénéficiez des avantages du trait parade de votre balayage de fer (qui vous confère un bonus de circonstances de +1 à la CA jusqu’au début de votre prochain tour) et la résistance conférée par la Posture du sang-de-fer est à présent égale à votre modificateur de Force (s’il est plus élevé) pendant la même durée.</p>"
         },
         {
             "id": "Command Attention",
@@ -10189,7 +10189,7 @@
         {
             "id": "Pesh Skin",
             "name": "Pesh Skin",
-            "description": "<p><strong>Conditions</strong> vous êtes transformé en une plante par un sort de métamorphose.</p>\n<hr>\n<p>Votre forme de plante voit pousser des centaines d'épines et votre sang provoque de douces hallucinations aux créatures qui y sont exposées. Chaque fois qu'une créature vous touche, vous frappe avec une attaque à mains nues ou vous touche avec une arme de corps à corpsalors qu'elle est adjacente, cette créature subit 1d6 dégâts perçants. Augmentez les dégâts à 2d6 si le sort de métamorphose est de niveau 8 ou plus ou à 3d6 s'il est de niveau 10.</p>\n<p>Lorsqu'une créature adjacente vous blesse avec des dégâts perçants ou perforants, elle doit réussir un jet de Vigueur contre voter DD de classe ou devenir @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{stupéfiée} 1 (ou stupéfiée 2 sur un échec critique) jusqu'à la fin de son prochain tour.</p>\n<p>Ces avantages durent jusqu'à ce que nous ne soyez plus métamorphosé en une plante.</p>"
+            "description": "<p><strong>Conditions</strong> vous êtes transformé en une plante par un sort de métamorphose.</p>\n<hr />\n<p>Votre Forme de plante provoque l'apparition de centaines d'épines et votre sang provoque de douces hallucinations aux créatures qui y sont exposées. Chaque fois qu'une créature vous touche, vous Frappe avec une attaque à mains nues ou vous touche avec une arme de corps à corps alors qu'elle est adjacente, cette créature subit 1d6 dégâts perçants. Augmentez les dégâts à 2d6 si le sort de métamorphose est de niveau 8 ou plus ou à 3d6 s'il est de niveau 10.</p>\n<p>Lorsqu'une créature adjacente vous blesse avec des dégâts perforants ou tranchants, elle doit réussir un jet de Vigueur contre votre DD de classe ou devenir @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée} 1 (ou Stupéfiée 2 sur un échec critique) jusqu'à la fin de son prochain tour.</p>\n<p>Ces avantages durent jusqu'à ce que nous ne soyez plus métamorphosé en une plante.</p>"
         },
         {
             "id": "Inner Fire",
@@ -10254,7 +10254,7 @@
         {
             "id": "Blood Component Substitution",
             "name": "Blood Component Substitution",
-            "description": "<p>Vous pouvez contourner la nécessité de faire des gestes et d'incanter en puisant de l'énergie directement dans votre sang, ce qui provoque de briller de la couleur de votre sang et de crépiter d'énergie magique. Lorsque vous @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancez un sort}, vous pouvez remplacer tous les éléments verbaux, matériels ou somatiques du sort par un élément sanguin.</p>\n<p>Pour utiliser un composant sanguin, vous perdez un nombre de points de vie égal au double du niveau du sort car l'énergie épuise  votre sang et vous ne pouvez pas diminuer les points de vie perdus de quelque manière que ce soit.</p>\n<p>Comme d'habitude lorsqu'il s'agit de modifier des composants, cela n'a aucun effet sur le nombre d'actions qui sont nécessaires pour lancer le sort et votre activité Lancer un sort gagne le trait de concentration mais pas le trait manipulation. Vous ne pouvez pas utiliser de composantes sanguines pour remplacer une partie du coût d'un sort.</p>"
+            "description": "<p>Vous pouvez contourner la nécessité de faire des gestes et d'incanter en puisant de l'énergie directement dans votre sang, ce qui vous fait briller de la couleur de votre sang et crépiter d'énergie magique. Lorsque vous @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancez un sort}, vous pouvez remplacer tous les éléments verbaux, matériels ou somatiques du sort par un élément sanguin.</p>\n<p>Pour utiliser un composant sanguin, vous perdez un nombre de points de vie égal au double du niveau du sort car l'énergie épuise votre sang et vous ne pouvez pas diminuer les points de vie perdus de quelque manière que ce soit.</p>\n<p>Comme d'habitude lorsqu'il s'agit de modifier des composants, cela n'a aucun effet sur le nombre d'actions qui sont nécessaires pour lancer le sort et votre activité Lancer un sort gagne le trait de concentration mais pas le trait manipulation. Vous ne pouvez pas utiliser de composantes sanguines pour remplacer une partie du coût d'un sort.</p>"
         },
         {
             "id": "Poison Resistance",
@@ -10429,7 +10429,7 @@
         {
             "id": "Fantastic Leap",
             "name": "Fantastic Leap",
-            "description": "<p>Vous vous élancez dans les airs en direction d’un adversaire. Vous tentez de faire un Saut en hauteur ou un Saut en longueur. Si vous tentez de Sauter en hauteur, vous déterminez la distance que vous pouvez parcourir en utilisant l’échelle d’un saut en longueur. À la fin de votre saut, vous pouvez faire une Frappe au corps à corps.</p>"
+            "description": "<p>Vous vous élancez dans les airs en direction d’un adversaire. Vous tentez de faire un Saut en hauteur ou un Saut en longueur. Si vous tentez de Sauter en hauteur, vous déterminez la distance que vous pouvez parcourir en utilisant l’échelle d’un saut en longueur. À la fin de votre saut, vous pouvez faire une Frappe au corps à corps.</p>\n<p>Après votre Frappe, vous chutez au sol si vous êtes en l'air. Si la distance de votre chute n'est pas supérieure à la hauteur de votre saut, vous ne subissez pas de dégâts et tombez sur vos pas.</p>"
         },
         {
             "id": "Diverse Mystery",
@@ -10459,7 +10459,7 @@
         {
             "id": "Domain Focus",
             "name": "Domain Focus",
-            "description": "<p><strong>Prérequis</strong> un ou plus sorts de domaine</p>\n<hr>\n<p>Votre dévotion envers les domaines de votre divinité grandit en même temps que la puissance qui vous est conférée. Si vous avez dépensé au moins 2 points de focalisation depuis votre dernière Refocalisation, vous récupérez 2 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.</p>"
+            "description": "<p>Votre dévotion envers les domaines de votre divinité grandit en même temps que la puissance qui vous est conférée. Si vous avez dépensé au moins 2 points de focalisation depuis votre dernière Refocalisation, vous récupérez 2 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.</p>"
         },
         {
             "id": "Versatile Font",
@@ -10494,7 +10494,7 @@
         {
             "id": "Disrupt Ki",
             "name": "Disrupt Ki",
-            "description": "<p>Faites une Frappe à mains nues. Si elle inflige des dégâts à une créature vivante, vous bloquez sa force vitale. La créature subit 2d6 dégâts négatifs persistants et elle est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{affaiblie} 1 tant que persistent ces dégâts. Si vous êtes de niveau 18 ou plus, cette Frappe inflige 3d6 dégâts négatifs persistants à la place.</p>"
+            "description": "<p>Faites une Frappe à mains nues. Si elle inflige des dégâts à une créature vivante, vous bloquez sa force vitale. La créature subit [[/r 2d6]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts négatifs persistants} et elle est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 1 tant que persistent ces dégâts. Si vous êtes de niveau 18 ou plus, cette Frappe inflige [[/r 3d6]] dégâts négatifs persistants à la place.</p>"
         },
         {
             "id": "Root Magic",
@@ -10519,12 +10519,12 @@
         {
             "id": "Leave an Opening",
             "name": "Leave an Opening",
-            "description": "<p>Quand vous assénez un coup assez puissant, vous créez une ouverture dans laquelle s’engouffre un allié. À chaque fois que vous portez un coup critique au corps à corps contre un adversaire pris au dépourvu et que vous lui infligez des dégâts, la cible déclenche en réaction une Attaque d’opportunité dont bénéficie un allié de votre choix qui possède cette réaction, comme si l’ennemi avait entrepris une action de manipulation.</p>"
+            "description": "<p>Quand vous assénez un coup assez puissant, vous créez une ouverture dans laquelle s’engouffre un allié. À chaque fois que vous portez un coup critique au corps à corps contre un adversaire Pris au dépourvu et que vous lui infligez des dégâts, la cible déclenche en réaction une Attaque d’opportunité dont bénéficie un allié de votre choix qui possède cette réaction, comme si l’ennemi avait entrepris une action de manipulation.</p>"
         },
         {
             "id": "True Debilitating Bomb",
             "name": "True Debilitating Bomb",
-            "description": "<p><strong>Prérequis</strong> <a class=\"entity-link\" data-pack=\"pf2e.feats-srd\" data-id=\"Cn4w9U7uk5m1bb2S\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Bombe incapacitante supérieure</a></p>\n<p>En faisant preuve de toujours plus d’inventivité, vous avez découvert de nouvelles façons de gêner et handicaper vos adversaires grâce à vos bombes. Quand vous utilisez Bombe incapacitante, ajoutez les effets suivants à la liste d’effets que vous pouvez causer : <a class=\"entity-link\" data-pack=\"pf2e.conditionitems\" data-id=\"MIRkyAjyBeXivMa7\" draggable=\"true\"><i class=\"fas fa-book-open\"></i>Affaibli</a> 2, <a class=\"entity-link\" data-pack=\"pf2e.conditionitems\" data-id=\"e1XGnhKNSQIm5IXg\" draggable=\"true\"><i class=\"fas fa-book-open\"></i>Stupéfié</a> 2 ou un malus de Vitesses de −4,50 m. Si vous décidez à la place d’utiliser l’un des effets proposés dans le descriptif du don Bombe incapacitante, la cible ne pourra y échapper que si elle obtient un succès critique à son jet de sauvegarde.</p>"
+            "description": "<p>En faisant preuve de toujours plus d’inventivité, vous avez découvert de nouvelles façons de gêner et handicaper vos adversaires grâce à vos bombes. Quand vous utilisez Bombe incapacitante, ajoutez les effets suivants à la liste d’effets que vous pouvez causer : @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2, @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg{Stupéfié} 2 ou un malus de −4,50 m aux Vitesses.</p>\n<p>Si vous décidez à la place d’utiliser l’un des effets proposés dans le descriptif du don Bombe incapacitante, la cible ne pourra y échapper que si elle obtient un succès critique à son jet de sauvegarde.</p>"
         },
         {
             "id": "Monster Hunter",
@@ -10874,7 +10874,7 @@
         {
             "id": "Guiding Finish",
             "name": "Guiding Finish",
-            "description": "<p><strong>Conditions</strong>  Vous maniez une seule arme de corps à corps à une main et votre autre main (ou mains) est libre.</p>\n<hr>\n<p>En faisant levier avec votre arme, vous forcez votre adversaire à se déplacer exactement là où vous voulez qu’il aille. Effectuez une Frappe avec l’arme requise. Si cette Frappe touche, vous déplacez la cible de 3 m au maximum dans un espace de votre zone d’allonge. Vous ne pouvez pas la faire traverser votre espace pendant ce déplacement. C’est un déplacement forcé dont vous trouverez les règles en page 475. Votre Frappe obtient l’effet d’échec suivant.</p>\n<p><strong>Échec</strong>  Vous pouvez forcer la créature à se déplacer comme en cas de succès, mais de 1,50 m seulement.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez une seule arme de corps à corps à une main et votre autre main (ou mains) est libre.</p>\n<hr />\n<p>En utilisant votre arme comme un levier, vous forcez votre adversaire à se déplacer exactement là où vous voulez qu’il aille. Effectuez une Frappe avec l’arme requise. Si cette Frappe touche, vous déplacez la cible de 3 m au maximum dans un espace de votre zone d’allonge. Vous ne pouvez pas la faire traverser votre espace pendant ce déplacement. C’est un déplacement forcé. Votre Frappe obtient l’effet d’échec suivant.</p>\n<p><strong>Échec</strong> Vous pouvez forcer la créature à se déplacer comme en cas de succès, mais uniquement de 1,50 m.</p>"
         },
         {
             "id": "Unhampered Passage",
@@ -11029,12 +11029,12 @@
         {
             "id": "Brutal Finish",
             "name": "Brutal Finish",
-            "description": "<p><strong>Conditions</strong> Vous maniez une arme de corps à corps à deux mains.</p>\n<hr>\n<p>Votre ultime coup peut être impactant, même s’il est dévié par les défenses de votre adversaire. Effectuez une Frappe avec l’arme requise. Votre tour se termine après la Frappe. La Frappe inflige un dé de dégâts d’arme supplémentaire, ou deux dés si vous êtes de niveau 18 au moins. La Frappe a également l’effet d’échec suivant.</p>\n<p><strong>Échec</strong>  Vous infligez un montant de dégâts égal à un dé de dégâts de l’arme requise. Ces dégâts s’élèvent à deux dés si vous êtes de niveau 18 au moins.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme de corps à corps à deux mains.</p>\n<hr />\n<p>Votre ultime coup peut être impactant, même s’il est dévié par les défenses de votre adversaire. Effectuez une Frappe avec l’arme requise. Votre tour se termine après la Frappe. La Frappe inflige un dé de dégâts d’arme supplémentaire ou deux dés si vous êtes au moins de niveau 18. La Frappe a également l’effet d’échec suivant.</p>\n<p><strong>Échec</strong>  Vous infligez un montant de dégâts égal à un dé de dégâts de l’arme requise. Ces dégâts s’élèvent à deux dés si vous êtes au moins de niveau 18 au moins.</p>"
         },
         {
             "id": "Consume Spell",
             "name": "Consume Spell",
-            "description": "p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.deoHKUzpzT7iwWhL]{Contresort}</p>\n<hr />\n<p>Lorsque vous réussissez à contrer un sort de la tradition qui correspond à votre lignage, vous le consommez, en vous réapprovisionnant en énergie. Vous êtes alors nourri comme si vous aviez mangé un repas et vous gagnez des points de vie correspondant au double du niveau du sort contré.</p>"
+            "description": "<p>Lorsque vous réussissez à contrer un sort de la tradition qui correspond à votre lignage, vous le consommez, en vous réapprovisionnant en énergie. Vous êtes alors nourri comme si vous aviez mangé un repas et vous regagnez des points de vie correspondant au double du niveau du sort contré.</p>"
         },
         {
             "id": "Log Roll",
@@ -11114,7 +11114,7 @@
         {
             "id": "Hellknight Order Cross-Training",
             "name": "Hellknight Order Cross-Training",
-            "description": "<p><strong>Prérequis</strong> Dévouement d'Écuyer des Chevaliers infernaux ; Dévouement de Chevalier infernal ou Dévouement du Signifer</p>\n<hr>\n<p>Vous obtenez le bénéfice inférieur d'un ordre de Chevalier infernal qui n'est pas le vôtre. cela représente le temps d'entraînement passé à vous entraîner avec des membres de cet ordre pour apprendre leurs techniques et enseignements. Si vous n'êtes pas en bonne intelligence avec un ordre donné, vous ne pouvez recevoir leur entraînement.</p>\n<p><strong>Spécial</strong> Vous pouvez choisir ce don à plusieurs reprises en vous entraînant avec des membres d'un ordre différent à chaque fois, obtenant le bénéfice inférieur de cet ordre.</p>"
+            "description": "<p>Vous obtenez le bénéfice inférieur d'un ordre de Chevalier infernal qui n'est pas le vôtre. cela représente le temps d'entraînement passé à vous entraîner avec des membres de cet ordre pour apprendre leurs techniques et enseignements. Si vous n'êtes pas en bonne intelligence avec un ordre donné, vous ne pouvez recevoir leur entraînement.</p>\n<p><strong>Spécial</strong> Vous pouvez choisir ce don à plusieurs reprises en vous entraînant avec des membres d'un ordre différent à chaque fois, obtenant le bénéfice inférieur de cet ordre.</p>"
         },
         {
             "id": "Just One More Thing",
@@ -11229,7 +11229,7 @@
         {
             "id": "Paragon's Guard",
             "name": "Paragon's Guard",
-            "description": "<p><strong>Conditions</strong> Vous maniez un bouclier</p>\n<hr>\n<p>Après avoir pris quelques instants pour prendre cette posture, votre bouclier est toujours en position sans même y penser. Tant que vous gardez cette posture, votre bouclier est constamment levé, comme si vous aviez utilisé l’action Lever un bouclier, aussi longtemps que vous remplissez les conditions de cette action.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez un bouclier</p>\n<hr />\n<p>Après avoir pris quelques instants pour prendre cette posture, votre bouclier est toujours en position sans même y penser. Tant que vous gardez cette posture, votre bouclier est constamment levé, comme si vous aviez utilisé l’action @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Lever un bouclier}, aussi longtemps que vous remplissez les conditions de cette action.</p>"
         },
         {
             "id": "Cultural Adaptability",
@@ -11269,7 +11269,7 @@
         {
             "id": "Dodging Roll",
             "name": "Dodging Roll",
-            "description": "<p><strong>Prérequis</strong> maître en Acrobaties</p>\n<p><strong>Déclencheur</strong> Vous subissez des dégâts d'un effet de zone qui permet un jet de Réflexes.</p>\n<hr>\n<p>Vous esquivez un coup au dernier moment possible.</p>\n<p>Vous @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faites un pas} et obtenez une résistance à tous les dégâts égale à votre niveau contre l'effet déclencheur. Si votre Pas vous place en dehors de la zone de l'effet, alors cette résistance est égale à votre niveau auquel s'ajoute vontre modificateur de Dextérité.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous subissez des dégâts d'un effet de zone qui permet un jet de Réflexes.</p>\n<hr />\n<p>Vous esquivez un coup au dernier moment possible.</p>\n<p>Vous @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faites un pas} et obtenez une résistance à tous les dégâts égale à votre niveau contre l'effet déclencheur. Si votre Pas vous place en dehors de la zone de l'effet, alors cette résistance est égale à votre niveau auquel s'ajoute vontre modificateur de Dextérité.</p>"
         },
         {
             "id": "Bravo's Determination",
@@ -11309,7 +11309,7 @@
         {
             "id": "Vigorous Inspiration",
             "name": "Vigorous Inspiration",
-            "description": "<p>Vous instillez une vigueur magique à vos alliés lorsque vous les incitez à attaquer. Si votre prochaine action consiste à lancer le tour de magie de composition <a class=\"entity-link\" data-pack=\"pf2e.spells-srd\" data-id=\"IAjvwqgiDr3qGYxY\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>inspiration vaillante</a>, vous et tous les alliés touchés gagnez des points de vie temporaires égaux à 3 + votre modicateur de Charisme qui durent pendant 1 minute.</p>"
+            "description": "<p>Vous instillez une vigueur magique à vos alliés lorsque vous les incitez à attaquer. Si votre prochaine action consiste à lancer le tour de magie de composition @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspiration vaillante}, vous et tous les alliés affectés gagnez des points de vie temporaires égaux à 3 + votre modicateur de Charisme qui durent pendant 1 minute.</p>"
         },
         {
             "id": "Great Cleave",
@@ -11399,7 +11399,7 @@
         {
             "id": "Impossible Riposte",
             "name": "Impossible Riposte",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.classfeatures.Jtn7IugykXDlIoZq]{Riposte opportune}</p>\n<hr>\n<p>Votre riposte peut dévier les attaques jusqu'à leur source.</p>\n<p>Vous pouvez utiliser Riposte opportune avec le  déclencheur “Un ennemi en dehors de votre allonge obtient un échec critique à un jet d'attaque contre vous” en plus de son déclencheur habituel.</p>\n<p>Lorsque vous utilisez Riposte opportune avec ce nouveau déclencheur contre une attaque à distance, votre @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} dévie une partie de l'effet déclencheur en retour vers sa cible. Comparez le résultat de votre jet d'attaque à la CA de l'ennemi déclencheur. Si vous touchez, vous infligez le montant normal de dégâts pour votre Frappe, mais le  type de dégât change pour prendre celui de l'attaque déclencheuse.</p>\n<p>Par exemple, si vous avez utilisé Riposte opportune pour dévier un @Compendium[pf2e.spells-srd.gYjPm7YwGtEa1oxh]{Rayon de givre}, votre Frappe infligera des dégâts de froid au lieu de son type de dégât normal.</p>"
+            "description": "<p>Votre riposte peut dévier les attaques pour les ramener jusqu'à leur source.</p>\n<p>Vous pouvez utiliser Riposte opportune avec le  déclencheur “Un ennemi en dehors de votre allonge obtient un échec critique à un jet d'attaque contre vous” en plus de son déclencheur habituel.</p>\n<p>Lorsque vous utilisez Riposte opportune avec ce nouveau déclencheur contre une attaque à distance, votre @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} dévie une partie de l'effet déclencheur en retour vers sa cible. Comparez le résultat de votre jet d'attaque à la CA de l'ennemi déclencheur. Si vous touchez, vous infligez le montant normal de dégâts pour votre Frappe, mais le type de dégât change pour prendre celui de l'attaque déclencheuse.</p>\n<p>Par exemple, si vous avez utilisé Riposte opportune pour dévier un @Compendium[pf2e.spells-srd.gYjPm7YwGtEa1oxh]{Rayon de givre}, votre Frappe infligera des dégâts de froid au lieu de son type de dégât normal.</p>"
         },
         {
             "id": "Wings Of The Dragon",
@@ -11439,7 +11439,7 @@
         {
             "id": "Giant's Lunge",
             "name": "Giant's Lunge",
-            "description": "<p><strong>Prérequis</strong> Instinct de géant</p>\n<hr>\n<p>Vous vous grandissez et vous préparez à attaquer des ennemis qui se trouvent hors de votre portée normale. Jusqu’à la fin de votre rage, toutes vos armes de corps à corps et attaques à mains nues gagnent une allonge de 3 m. Ce pouvoir n’affecte pas l’allonge des armes et attaques à mains nues qui possèdent déjà le trait allonge, mais se combine avec les autres pouvoirs qui améliorent votre allonge en vous faisant grandir, comme Stature de géant.</p>"
+            "description": "<p>Vous vous grandissez et vous préparez à attaquer des ennemis qui se trouvent hors de votre portée normale. Jusqu’à la fin de votre rage, toutes vos armes de corps à corps et attaques à mains nues gagnent une allonge de 3 m. Ce pouvoir n’affecte pas l’allonge des armes et attaques à mains nues qui possèdent déjà le trait allonge, mais se combine avec les autres pouvoirs qui améliorent votre allonge en vous faisant grandir, comme Stature de géant.</p>"
         },
         {
             "id": "Scroll Savant",
@@ -11489,7 +11489,7 @@
         {
             "id": "Timeless Body",
             "name": "Timeless Body",
-            "description": "<p>Vous ne vieillissez plus. De plus, vous bénéficiez d’un bonus de statut de +2 aux jets de sauvegarde contre les poisons et les maladies, et vous bénéficiez d’une résistance au poison égale à la moitié de votre niveau.</p>"
+            "description": "<p>Vous ne vieillissez plus. De plus, vous bénéficiez d’un bonus de statut de +2 aux jets de sauvegarde contre les poisons et les maladies et vous bénéficiez d’une résistance au poison égale à la moitié de votre niveau.</p>"
         },
         {
             "id": "Banishing Blow",
@@ -11579,7 +11579,7 @@
         {
             "id": "Emblazon Antimagic",
             "name": "Emblazon Antimagic",
-            "description": "<p><strong>Prérequisites</strong> Arsenal Blasonné</p>\n<hr>\n<p>Le symbole de votre divinité offre une protection contre la magie offensive. Quand vous utilisez Arsenal blasonné, vous pouvez choisir l’un des effets suivants au lieu de ceux de ce don. Ces effets imposent les mêmes restrictions que les options de base.</p>\n<p>• <strong>Bouclier</strong> Quand l’utilisateur a son bouclier levé, il ajoute le bonus de circonstances du bouclier aux jets de sauvegarde contre la magie et il peut utiliser Blocage au bouclier contre les dégâts des sorts ennemis.</p>\n<p>• <strong>Arme</strong> Quand une créature obtient un coup critique en maniant l’arme, elle peut tenter de contrer un sort sur sa cible, en utilisant son niveau en guise de niveau du contre. Le cas échéant, le symbole blasonné disparaît immédiatement.</p>"
+            "description": "<p>Le symbole de votre divinité offre une protection contre la magie offensive. Quand vous utilisez Arsenal blasonné, vous pouvez choisir l’un des effets suivants au lieu de ceux de ce don. Ces effets imposent les mêmes restrictions que les options de base.</p>\n<ul>\n<li><strong>Bouclier</strong> Quand l’utilisateur a son bouclier levé, il ajoute le bonus de circonstances du bouclier aux jets de sauvegarde contre la magie et il peut utiliser Blocage au bouclier contre les dégâts des sorts ennemis.</li>\n<li><strong>@Compendium[pf2e.feat-effects.RyGaB5hDRcOeb34Q]{Arme}</strong> Quand une créature obtient un coup critique en maniant l’arme, elle peut tenter de contrer un sort sur sa cible, en utilisant son niveau en guise de niveau du contre. Si elle essaie de le faire, le symbole blasonné disparaît immédiatement.</li>\n</ul>"
         },
         {
             "id": "Very Sneaky",
@@ -11774,7 +11774,7 @@
         {
             "id": "Felling Shot",
             "name": "Felling Shot",
-            "description": "<p>Vos attaques à distance peuvent faire chuter un adversaire s’il ne s’y attend pas. Vous Frappez une créature prise au dépourvu avec une arme à distance ou une arme de jet. Si la Frappe est un succès et inflige des dégâts, la cible doit faire un jet de Réflexes contre votre DD de classe avec les effets suivants.</p> \n<p><strong>Succès.</strong> La cible n’est pas affectée.</p>\n<p><strong>Échec.</strong> La cible tombe d’une distance maximale de 36 m. Si elle tombe au sol, elle ne subit pas de dégâts de chute.</p>\n<p><strong>Échec critique.</strong> Comme pour l’échec, mais la cible ne peut plus voler, sauter, léviter ou quitter le sol d’une autre façon jusqu’à la fin de votre prochain tour.</p>"
+            "description": "<p>Vos attaques à distance peuvent faire chuter un adversaire s’il ne s’y attend pas. Vous Frappez une créature Prise au dépourvu avec une arme à distance ou une arme de jet. Si la Frappe est un succès et inflige des dégâts, la cible doit faire un jet de Réflexes contre votre DD de classe avec les effets suivants.</p> \n<hr />\n<p><strong>Succès</strong> La cible n’est pas affectée.</p>\n<p><strong>Échec</strong> La cible tombe d’une distance maximale de 36 m. Si elle tombe au sol, elle ne subit pas de dégâts de chute.</p>\n<p><strong>Échec critique</strong> Comme pour l’échec, mais la cible ne peut plus voler, sauter, léviter ou quitter le sol d’une autre façon jusqu’à la fin de votre prochain tour.</p>"
         },
         {
             "id": "Intimidating Glare",
@@ -11784,7 +11784,7 @@
         {
             "id": "Critical Debilitation",
             "name": "Critical Debilitation",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Frappe incapacitante}</p>\n<hr>\n<p>Les handicaps que vous infligez sont particulièrement efficaces quand ils sont associés à vos attaques les plus puissantes. Quand vous obtenez un succès critique à un jet d’attaque contre un ennemi en utilisant Frappe incapacitante, vous ajoutez le handicap suivant à la liste parmi laquelle vous pouvez choisir.</p>\n<p><strong>Handicap</strong> La cible tente un jet de Vigueur contre votre DD de classe avec les effets suivants.</p>\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{ralentie} 1 jusqu'à la fin de votre prochain tour.</p>\n<p><strong>Échec</strong> La cible est ralentie 2 jusqu’à la fin de votre prochain tour.</p>\n<p><strong>Échec critique</strong> La cible est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{paralysée} jusqu’à la fin de votre prochain tour</p>"
+            "description": "<p>Les handicaps que vous infligez sont particulièrement efficaces quand ils sont associés à vos attaques les plus puissantes. Quand vous obtenez un succès critique à un jet d’attaque contre un ennemi en utilisant Frappe incapacitante, vous ajoutez le handicap suivant à la liste parmi laquelle vous pouvez choisir.</p>\n<hr />\n<p><strong>Handicap</strong> La cible tente un jet de Vigueur contre votre DD de classe avec les effets suivants.</p>\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 jusqu'à la fin de votre prochain tour.</p>\n<p><strong>Échec</strong> La cible est Ralentie 2 jusqu’à la fin de votre prochain tour.</p>\n<p><strong>Échec critique</strong> La cible est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} jusqu’à la fin de votre prochain tour</p>"
         },
         {
             "id": "Svetocher",
@@ -11954,7 +11954,7 @@
         {
             "id": "Forcible Energy",
             "name": "Forcible Energy",
-            "description": "<p>Vous accomplisssez des manipulations complexes pour rendre l'énergie de vos sorts si puissante que vos ennemis y sont par la suite plus sensibles.</p>\n<p>Si votre prochaine action consiste à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} qui inflige des dégâts d'acide, d'électricité, de feu ou de son, vous pouvez choisir une cible qui a été blessée pour qu'elle obtienne une faiblesse de 5 à ce typede dégâts jusqu'à la fin de votre prochain tour. Si un sort inflige des dégâts de différents types d'énergies, choisissez en une contre laquelle la cible obtient une résistance.</p>\n<p>Cela n'a pas d'effet sur les créatures avec une résistance ou une immunité contre le type d'énergie choisi.</p>"
+            "description": "<p>Vous accomplisssez des manipulations complexes pour rendre l'énergie de vos sorts si puissante que vos ennemis y sont par la suite plus sensibles.</p>\n<p>Si votre prochaine action consiste à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} qui inflige des dégâts d'acide, d'électricité, de feu ou de son, vous pouvez choisir une cible qui est blessée pour qu'elle souffre d'une faiblesse de 5 à ce type de dégâts jusqu'à la fin de votre prochain tour. Si un sort inflige des dégâts de différents types d'énergies, choisissez celui contre lequel la cible obtient une résistance.</p>\n<p>Cela n'a pas d'effet sur les créatures avec une résistance ou une immunité contre le type d'énergie choisi.</p>"
         },
         {
             "id": "Spiritual Explorer",
@@ -11984,7 +11984,7 @@
         {
             "id": "Deity's Protection",
             "name": "Deity's Protection",
-            "description": "<p><strong>Prérequis</strong> Domaine avancé</p>\n<hr>\n<p>Vous beneficiez de la protection de votre divinité quand vous invoquez sa puissance pour tenir la promesse de son domaine. Apres avoir lance un sort de domaine, vous obtenez une résistance contre tous les dégats jusqu’au début de votre prochain tour. La hauteur de cette résistance est egale au niveau du sort de domaine que vous avez lancé.</p>"
+            "description": "<p>Vous beneficiez de la protection de votre divinité quand vous invoquez sa puissance pour tenir la promesse de son domaine. Apres avoir lancé un sort de domaine, vous obtenez une résistance contre tous les dégats jusqu’au début de votre prochain tour. Le montant de cette résistance est égal au niveau du sort de domaine que vous avez lancé.</p>"
         },
         {
             "id": "Haughty Obstinacy",
@@ -12129,7 +12129,7 @@
         {
             "id": "Whirling Blade Stance",
             "name": "Whirling Blade Stance",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.YW4FdWgzTwRFneFF]{Armes monacales}</p>\n<hr>\n<p>Vous prenez une posture attentive qui crée un lien puissant entre vous et vos armes de moine, vous permettant de les manipuler avec votre ki même à une certaine distance. Toutes les armes de moine au corps à corps que vous maniez possédant le trait finesse obtiennent le trait lancer 3 m (à moins que vous bénéficiez du trait lancer avec une plus grande portée).</p>\n<p>Une fois que vous avez porté une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} de lancer avec une telle arme, vous pouvez utiliser la précision de votre lancer pour porter des Frappes supplémentaires avec elle, même à distance. Partez de la case de la cible précédente de votre Frappe pour déterminer le facteur de portée et si la nouvelle cible bénéficie d'un abri. À la fin de votre tour, l'arme lancée vole directement vers vous en ligne droite. Si une barrière solide bloque sa route, elle tombe au sol après avoir touché la barrière.</p>"
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.YW4FdWgzTwRFneFF]{}</p>\n<hr />\n<p>Vous prenez une posture attentive qui crée un lien puissant entre vous et vos armes de moine, vous permettant de les manipuler avec votre ki même à une certaine distance.</p>\n<p>Toutes les armes de moine au corps à corps que vous maniez possédant le trait finesse obtiennent le trait lancer 3 m (sauf si elles bénéficient déjà du trait lancer avec une portée supérieure).</p>\n<p>Une fois que vous avez porté une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} de lancer avec une telle arme, vous pouvez utiliser la précision de votre lancer pour porter des Frappes supplémentaires avec elle, même à distance. Partez de la case de la cible précédente de votre Frappe pour déterminer le facteur de portée et si la nouvelle cible bénéficie d'un abri. À la fin de votre tour, l'arme lancée vole directement vers vous en ligne droite. Si une barrière solide bloque sa route, elle tombe au sol après avoir touché la barrière.</p>\n<p>@Compendium[pf2e.feat-effects.JefXqvhzUeBArkAP]{Posture: Posture de la lame tournoyante}</p>"
         },
         {
             "id": "Enlightened Presence",
@@ -12224,7 +12224,7 @@
         {
             "id": "Defensive Roll",
             "name": "Defensive Roll",
-            "description": "<p><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<p><strong>déclencheur</strong> Une attaque physique qui va vous réduire à 0 point de vie.</p>\n<hr>\n<p>Vous vous laissez tomber et roulez pour atténuer la force du coup, ce qui vous permet d’échapper à une attaque mortelle et de rester conscient. Vous subissez la moitié des dégâts de l’attaque déclencheur.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<p><strong>déclencheur</strong> Une attaque physique qui va vous réduire à 0 point de vie.</p>\n<hr />\n<p>Vous vous laissez tomber et roulez pour atténuer la force du coup, ce qui vous permet d’échapper à une attaque mortelle et de rester conscient. Vous subissez la moitié des dégâts de l’attaque déclencheur.</p>"
         },
         {
             "id": "Angelkin",
@@ -12234,7 +12234,7 @@
         {
             "id": "Double Prey",
             "name": "Double Prey",
-            "description": "<p>Vous pouvez vous focaliser sur deux adversaires en même temps et les chasser tous les deux. Quand vous effectuez l’action Chasser une proie, vous pouvez désigner deux créatures qui deviennent vos proies.</p>"
+            "description": "<p>Vous pouvez vous focaliser sur deux adversaires en même temps et les chasser tous les deux. Quand vous effectuez l’action @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{Chasser une proie}, vous pouvez désigner deux créatures qui deviennent vos proies.</p>"
         },
         {
             "id": "Elemental Assault",
@@ -12484,7 +12484,7 @@
         {
             "id": "Ricochet Feint",
             "name": "Ricochet Feint",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.RsNvCSrCN7czHC0G]{Posture du ricochet}</p>\n<hr>\n<p>Lorsque vous adoptez la Posture du ricochet, Vous pouvez faire rebondir une arme de jet sur un ennemi pour les distraire. Vous pouvez tenter une @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinte} contre une créature dans le premier facteur de portée d'une arme de jet que vous maniez et pas seulement les créatures qui sont dans votre allonge au corps à corps.</p>"
+            "description": "<p>Lorsque vous adoptez la @Compendium[pf2e.feats-srd.RsNvCSrCN7czHC0G]{Posture du ricochet}, Vous pouvez faire rebondir une arme de jet sur un ennemi pour le distraire. Vous pouvez tenter une @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinte} contre une créature dans le premier facteur de portée d'une arme de jet que vous maniez et pas seulement contre les créatures qui sont dans votre allonge au corps à corps.</p>"
         },
         {
             "id": "Garden Path",
@@ -12609,7 +12609,7 @@
         {
             "id": "Triumphant Inspiration",
             "name": "Triumphant Inspiration",
-            "description": "<p><strong>Prérequis</strong> <a class=\"entity-link\" data-pack=\"pf2e.classfeatures\" data-id=\"N03BtRvjX9TeHRa4\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Combattante (Muse de barde)</a></p>\n<p><strong>Déclencheur</strong> Vous réussissez un coup critique sur un adversaire avec une <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"VjxZFuUXrCU94MWR\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Frappe</a> de mêlée portée avec une arme ou une attaques à mains nues.</p>\n<hr>\n<p>En poussant un cri de triomphe, vous inspirez vos alliés. Vous lancez un tour de magie de composition que vous connaissez qui devrait vous prendre normalement une action unique pour pouvoir le lancer.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous réussissez un coup critique sur un adversaire avec une Frappe au corps-à-corps portée avec une arme ou une attaque à mains nues.</p>\n<hr />\n<p>En poussant un cri de triomphe, vous inspirez vos alliés. Vous lancez un tour de magie de composition que vous connaissez qui devrait vous prendre normalement une action unique pour pouvoir le lancer.</p>"
         },
         {
             "id": "Sure Feet",
@@ -12714,7 +12714,7 @@
         {
             "id": "Green Tongue",
             "name": "Green Tongue",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.3vjOXL9ZD4ibaJL6]{Empathie végétale}</p>\n<hr>\n<p>Vous avez une affinité spéciale avec toutes les choses végétales et vivantes. Vous (et votre familier léchi, si vous en avez un) êtes sous les effets constants de @Compendium[pf2e.spells-srd.qvwIwJ9QBihy8R0t]{communication avec les plantes}. La plupart des plantes qui ne sont pas des créatures reconnaissent votre statut de druide de l’ordre de la feuille et vous sont amicales.</p>"
+            "description": "<p>Vous avez une affinité spéciale avec toutes les choses végétales et vivantes. Vous (et votre familier léchi, si vous en avez un) êtes sous les effets constants de @Compendium[pf2e.spells-srd.qvwIwJ9QBihy8R0t]{Communication avec les plantes}.</p>\n<p>La plupart des plantes qui ne sont pas des créatures reconnaissent votre statut de druide de l’ordre de la feuille et vous sont amicales.</p>"
         },
         {
             "id": "Fresh Ingredients",
@@ -12864,7 +12864,7 @@
         {
             "id": "Focused Shot",
             "name": "Focused Shot",
-            "description": "<p><strong>Prérequis</strong> <a class=\"entity-link\" data-pack=\"pf2e.feats-srd\" data-id=\"YG2RxXE9SMfwo6wP\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Posture de l'archer monastique</a></p>\n<p><strong>Conditions</strong> Vous êtes dans la Posture de l'archer monastique.</p>\n<hr>\n<p>Vous atteignez un état de clame parfait avant de relâcher votre attaque, ouvrant votre esprit aux mouvements minutés du monde qui vous entoure pour accroître votre précision.</p>\n<p>Faites une <a class=\"entity-link\" data-pack=\"pf2e.actionspf2e\" data-id=\"VjxZFuUXrCU94MWR\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i>Frappe</a> à distance avec une arme contre une cible dans le premier facteur de portée de votre arme. Cette Frappe ignore la condition <a class=\"entity-link\" data-pack=\"pf2e.conditionitems\" data-id=\"DmAIPqOBomZ7H95W\" draggable=\"true\"><i class=\"fas fa-book-open\"></i>Masquée</a> et tout abri de votre cible.</p>"
+            "description": "<p><strong>Conditions</strong> Vous êtes dans la Posture de l'archer monastique.</p>\n<hr />\n<p>Vous atteignez un état de calme parfait avant de déclencher votre attaque, ouvrant votre esprit aux mouvements infimes du monde qui vous entoure pour accroître votre précision.</p>\n<p>Faites une Frappe à distance avec une arme contre une cible dans le premier facteur de portée de votre arme. Cette Frappe ignore la condition @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} et tout abri de votre cible.</p>"
         },
         {
             "id": "Pinch Time",
@@ -12874,7 +12874,7 @@
         {
             "id": "Gruesome Strike",
             "name": "Gruesome Strike",
-            "description": "<p><strong>Prérequis</strong> réaction de champion qui accorde des dégâts supplémentaires avec vos @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes}, préceptes du mal</p>\n<p><strong>Conditions</strong> Vos frappes infligent actuellement des dégâts supplémentaires du fait de votre réaction de champion.</p>\n<hr>\n<p>Portez une Frappe contre la créature qui a déclenché votre réaction de champion. Si vous touchez, la cible subit le double des dégâts supplémentaires de votre réaction et doit réussir un jet de Vigueur contre votre DD de classe ou être @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 1.</p>\n<p>Quel que soit le résultat, la créature est temporairement immunisée à votre Frappe horrible pendant 24 heures.</p>"
+            "description": "<p><strong>Conditions</strong> Vos frappes infligent actuellement des dégâts supplémentaires du fait de votre réaction de champion.</p>\n<hr />\n<p>Portez une Frappe contre la créature qui a déclenché votre réaction de champion. Si vous touchez, la cible subit le double des dégâts supplémentaires de votre réaction et doit réussir un jet de Vigueur contre votre DD de classe ou être @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 1.</p>\n<p>Quel que soit le résultat, la créature est temporairement immunisée à votre Frappe horrible pendant 24 heures.</p>"
         },
         {
             "id": "Hardy Traveler",
@@ -12904,7 +12904,7 @@
         {
             "id": "Interweave Dispel",
             "name": "Interweave Dispel",
-            "description": "<p><strong>Prérequis</strong> dissipation de la magie dans votre répertoire de sorts</p>\n<hr>\n<p>Vous tissez de l’énergie dissipatrice dans un sort pour projeter les deux effets en même temps sur un adversaire. Si votre prochaine action consiste à lancer un sort à cible unique contre une créature et que vous la touchez avec un jet d’attaque de sort ou qu’elle rate son jet de sauvegarde, vous pouvez lancer dissipation de la magie sur elle par une action gratuite, en dépensant un emplacement de sort comme à l’accoutumée et en ciblant un effet de sort qui l’affecte.</p>"
+            "description": "<p>Vous tissez de l’énergie dissipatrice dans un sort pour projeter les deux effets en même temps sur un adversaire. Si votre prochaine action consiste à Lancer un sort à cible unique contre une créature et que vous la touchez avec un jet d’attaque de sort ou qu’elle rate son jet de sauvegarde, vous pouvez lancer Dissipation de la magie sur elle par une action gratuite, en dépensant un emplacement de sort comme à l’accoutumée et en ciblant un effet de sort qui l’affecte.</p>"
         },
         {
             "id": "Basic Kata",
@@ -13054,7 +13054,7 @@
         {
             "id": "Lunging Stance",
             "name": "Lunging Stance",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.classfeatures.hmShTfPOcTaKgbf4]{Attaque d’opportunité}, @Compendium[pf2e.feats-srd.rTkr1EqpAN6YtnAh]{Fente}</p>\n<p><strong>Conditions</strong> Vous maniez une arme de corps à corps</p>\n<hr>\n<p>Vous détendez votre corps aux muscles contractés pour frapper les ennemis plus éloignés. Lorsque vous gardez cette posture, vous pouvez utiliser Attaque d’opportunité contre une créature hors de votre allonge mais à l’intérieur de celle dont vous bénéficiez lorsque vous faites une Fente. Si vous prenez cette posture, vous augmentez la portée de la Frappe de 1,50 m.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme de corps à corps</p>\n<hr />\n<p>Vous détendez votre corps aux muscles contractés pour frapper les ennemis plus éloignés. Lorsque vous êtes dans cette posture, vous pouvez utiliser Attaque d’opportunité contre une créature hors de votre allonge mais à l’intérieur de celle dont vous bénéficiez lorsque vous faites une Fente. Si vous prenez cette posture, vous augmentez la portée de la Frappe de 1,50 m.</p>"
         },
         {
             "id": "Call Bonded Item",
