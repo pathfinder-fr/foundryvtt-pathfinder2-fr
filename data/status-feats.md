@@ -1,12 +1,12 @@
 # État de la traduction (feats)
 
- * **libre**: 1576
- * **officielle**: 726
- * **changé**: 334
- * **auto-trad**: 21
+ * **libre**: 1613
+ * **officielle**: 780
+ * **changé**: 245
+ * **auto-trad**: 19
 
 
-Dernière mise à jour: 2021-06-04 19:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-06-12 10:48 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -29,8 +29,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-02-tdtCwmYoBMKzfhEp.htm](feats/class-02-tdtCwmYoBMKzfhEp.htm)|Shining Oath (Redeemer)|auto-trad|
 |[class-02-uv235v6hXCITAFej.htm](feats/class-02-uv235v6hXCITAFej.htm)|Fiendsbane Oath (Liberator)|auto-trad|
 |[class-02-VU7aZC7L08Mk1GVA.htm](feats/class-02-VU7aZC7L08Mk1GVA.htm)|Esoteric Oath (Liberator)|auto-trad|
-|[class-18-BtMemftiktI0Mn6X.htm](feats/class-18-BtMemftiktI0Mn6X.htm)|Manifold Edge (Precision)|auto-trad|
-|[class-18-EcQvuGYDJdqTfGuX.htm](feats/class-18-EcQvuGYDJdqTfGuX.htm)|Manifold Edge (Outwit)|auto-trad|
 |[class-18-QWPFf6NOObxaZJwW.htm](feats/class-18-QWPFf6NOObxaZJwW.htm)|Manifold Edge (Flurry)|auto-trad|
 |[class-20-banx3uX4JjjcHEc8.htm](feats/class-20-banx3uX4JjjcHEc8.htm)|Superior Sight (Low-Light Vision)|auto-trad|
 |[class-20-YbneCzvDEr76mrsS.htm](feats/class-20-YbneCzvDEr76mrsS.htm)|Superior Sight (Darkvision)|auto-trad|
@@ -112,97 +110,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-02-6cQSPqXoAO6oJl0i.htm](feats/class-02-6cQSPqXoAO6oJl0i.htm)|Shooting Stars Stance|Posture des étoiles lancées|changé|
 |[class-04-kqW6d3Dfk4nApd7y.htm](feats/class-04-kqW6d3Dfk4nApd7y.htm)|Combat Reading|Lecture du combat|changé|
 |[class-12-p2tFR4yBauu8t3mC.htm](feats/class-12-p2tFR4yBauu8t3mC.htm)|Hex Focus|Refocalisation de maléfice|changé|
-|[class-14-w2v5LZmpJy0MBxo5.htm](feats/class-14-w2v5LZmpJy0MBxo5.htm)|Improved Twin Riposte (Fighter)|Riposte jumelée améliorée (Guerrier)|changé|
-|[class-14-wa9ZGBTlFuwOjPpH.htm](feats/class-14-wa9ZGBTlFuwOjPpH.htm)|Rites Of Transfiguration|Rites de transfiguration|changé|
-|[class-14-wdkbfWKEjAFXAxto.htm](feats/class-14-wdkbfWKEjAFXAxto.htm)|Determination|Détermination|changé|
-|[class-14-WEUFs37Ids3ZRrqa.htm](feats/class-14-WEUFs37Ids3ZRrqa.htm)|Litany Of Depravity|Litanie de dépravation|changé|
-|[class-14-wKx7BWdQu5sEjL9j.htm](feats/class-14-wKx7BWdQu5sEjL9j.htm)|Wild Winds Gust|Bourrasque des vents violents|changé|
-|[class-14-Xk9inG3pln4UKbs3.htm](feats/class-14-Xk9inG3pln4UKbs3.htm)|True Hypercognition|Hypercognition ultime|changé|
-|[class-14-xSJaOcdhqDF1CBs3.htm](feats/class-14-xSJaOcdhqDF1CBs3.htm)|Ebb And Flow|Flux et reflux|changé|
-|[class-14-YawVDUc9uzREIAnO.htm](feats/class-14-YawVDUc9uzREIAnO.htm)|Aura of Life|Aura de vie|changé|
-|[class-14-yeSyGnYDkl2GUNmu.htm](feats/class-14-yeSyGnYDkl2GUNmu.htm)|Stance Savant (Fighter)|Maître des postures|changé|
-|[class-14-ygPrwqiyDr1frUHw.htm](feats/class-14-ygPrwqiyDr1frUHw.htm)|Greater Interpose|Interposition supérieure|changé|
-|[class-14-z7kwVNaCB4oJs3Fe.htm](feats/class-14-z7kwVNaCB4oJs3Fe.htm)|Aura Of Preservation|Aura de préservation|changé|
-|[class-16-05k4nkjazjjEUoGu.htm](feats/class-16-05k4nkjazjjEUoGu.htm)|Blank Slate|Page blanche|changé|
-|[class-16-1re3J4hWW7raXIRB.htm](feats/class-16-1re3J4hWW7raXIRB.htm)|Spell Tinker|Bricolage de sort|changé|
-|[class-16-2HeRmbcHcsRMccir.htm](feats/class-16-2HeRmbcHcsRMccir.htm)|Diverse Mystery|Mystère diversifié|changé|
-|[class-16-4caP26xpkQajkaDp.htm](feats/class-16-4caP26xpkQajkaDp.htm)|One-Millimeter Punch|Coup à infime distance|changé|
-|[class-16-54JzsYCx3uoj7Wlz.htm](feats/class-16-54JzsYCx3uoj7Wlz.htm)|Monstrosity Shape|Morphologie monstrueuse|changé|
-|[class-16-6AXAJuMEMpxU27PJ.htm](feats/class-16-6AXAJuMEMpxU27PJ.htm)|Dispelling Slice|Coupe dissipante|changé|
-|[class-16-6fojN9yBJByTZ1Q9.htm](feats/class-16-6fojN9yBJByTZ1Q9.htm)|Didactic Strike|Frappe didactique|changé|
-|[class-16-7IDFHh2ZJLaB1y59.htm](feats/class-16-7IDFHh2ZJLaB1y59.htm)|Shield of Grace|Bouclier de grâce|changé|
-|[class-16-8C9qo5LL9J0UTNGc.htm](feats/class-16-8C9qo5LL9J0UTNGc.htm)|Courageous Onslaught|Charge vaillante|changé|
-|[class-16-8HYfYT4fHtxXP199.htm](feats/class-16-8HYfYT4fHtxXP199.htm)|Greater Mental Evolution|Évolution mentale supérieure|changé|
-|[class-16-Bp02C07s4RTS4vsV.htm](feats/class-16-Bp02C07s4RTS4vsV.htm)|Reconstruct The Scene|Reconstituer la scène|changé|
-|[class-16-bX2WI5k0afqPpCfm.htm](feats/class-16-bX2WI5k0afqPpCfm.htm)|Ubiquitous Snares|Profusion de pièges artisanaux|changé|
-|[class-16-Cgk4By6gEomD2bJ0.htm](feats/class-16-Cgk4By6gEomD2bJ0.htm)|Improved Twin Riposte (Ranger)|Riposte jumelée améliorée|changé|
-|[class-16-D71A2ZQfz9MVndqI.htm](feats/class-16-D71A2ZQfz9MVndqI.htm)|Felicitous Riposte|Riposte heureuse|changé|
-|[class-16-DAFF7zJphhDPcAws.htm](feats/class-16-DAFF7zJphhDPcAws.htm)|Medusa's Wrath|Courroux de la méduse|changé|
-|[class-16-Dr6h8WRW6xnLRfxr.htm](feats/class-16-Dr6h8WRW6xnLRfxr.htm)|Resurrectionist|Résurrecteur|changé|
-|[class-16-DSmYJvCHMvZCP0aD.htm](feats/class-16-DSmYJvCHMvZCP0aD.htm)|Scintillating Spell|Sort scintillant|changé|
-|[class-16-E4xubBMtj81kX5Bk.htm](feats/class-16-E4xubBMtj81kX5Bk.htm)|Shattering Strike (Monk)|Frappe fracassante|changé|
-|[class-16-e8ChYAaQ9Aa8aZES.htm](feats/class-16-e8ChYAaQ9Aa8aZES.htm)|Deadly Grace|Grace mortelle|changé|
-|[class-16-eOwjwVAbl99ZTy5D.htm](feats/class-16-eOwjwVAbl99ZTy5D.htm)|Overwhelming Blow|Coup surpuissant|changé|
-|[class-16-EWeso1zDkCLGlnsW.htm](feats/class-16-EWeso1zDkCLGlnsW.htm)|Reckless Abandon (Barbarian)|Dangereux abandon (Barbare)|changé|
-|[class-16-Fai5VMyrtOrYC5JL.htm](feats/class-16-Fai5VMyrtOrYC5JL.htm)|Specialized Companion (Ranger)|Compagnon spécialisé (Rodeur)|changé|
-|[class-16-fEfEabn53bubYVVT.htm](feats/class-16-fEfEabn53bubYVVT.htm)|Improved Reflexive Shield|Bouclier instinctif amélioré|changé|
-|[class-16-g1wBP9Z5HRqDe9FE.htm](feats/class-16-g1wBP9Z5HRqDe9FE.htm)|Quivering Palm|Paume vibratoire|changé|
-|[class-16-giOEclnMp8txkRSU.htm](feats/class-16-giOEclnMp8txkRSU.htm)|Eternal Elixir|Élixir éternel|changé|
-|[class-16-GKP2dHkgQw1o0k8g.htm](feats/class-16-GKP2dHkgQw1o0k8g.htm)|Persistent Mutagen|Mutagène persistant|changé|
-|[class-16-h08Vfel5iIAARWdy.htm](feats/class-16-h08Vfel5iIAARWdy.htm)|Instrument of Zeal|Instrument de zèle|changé|
-|[class-16-H5uZqYVClk3s62ce.htm](feats/class-16-H5uZqYVClk3s62ce.htm)|Remediate|Rééquilibrer|changé|
-|[class-16-H7Ocx80td7Sx7Cqn.htm](feats/class-16-H7Ocx80td7Sx7Cqn.htm)|Expand Aura|Aura étendue|changé|
-|[class-16-hr9maYUbtrNxpBPw.htm](feats/class-16-hr9maYUbtrNxpBPw.htm)|Exploitive Bomb|Bombe d'érosion|changé|
-|[class-16-i98NcWSAbWmNmBik.htm](feats/class-16-i98NcWSAbWmNmBik.htm)|Instrument Of Slaughter|Instrument du massacre|changé|
-|[class-16-IA8p9oYmsCbipmhw.htm](feats/class-16-IA8p9oYmsCbipmhw.htm)|Chemical Contagion|Contagion chimique|changé|
-|[class-16-kMLvQnx2vY7F3bjI.htm](feats/class-16-kMLvQnx2vY7F3bjI.htm)|Eternal Blessing|Bénédiction éternelle|changé|
-|[class-16-L0f3c0DkT7FLQF9W.htm](feats/class-16-L0f3c0DkT7FLQF9W.htm)|Siphon Power|Pouvoir siphonné|changé|
-|[class-16-lgEihn7deZwHczGE.htm](feats/class-16-lgEihn7deZwHczGE.htm)|Dragon Transformation|Transformation en dragon|changé|
-|[class-16-lhSqWHXK1JShUabF.htm](feats/class-16-lhSqWHXK1JShUabF.htm)|Resounding Finale|Final retentissant|changé|
-|[class-16-mj1pVVFtqGLKgCQM.htm](feats/class-16-mj1pVVFtqGLKgCQM.htm)|Genius Mutagen|Mutagène de génie|changé|
-|[class-16-MjhCcwGKyI5dpNIY.htm](feats/class-16-MjhCcwGKyI5dpNIY.htm)|Perfect Distraction|Diversion parfaite|changé|
-|[class-16-ND3nKsXCDBShUgYc.htm](feats/class-16-ND3nKsXCDBShUgYc.htm)|Greater Vital Evolution|Évolution vitale supérieure|changé|
-|[class-16-Oyml3OGNy468z3XI.htm](feats/class-16-Oyml3OGNy468z3XI.htm)|Furious Vengeance|Vengeance furieuse|changé|
-|[class-16-pzmob1HqVKZfL0BY.htm](feats/class-16-pzmob1HqVKZfL0BY.htm)|Eternal Bane|Imprécation éternelle|changé|
-|[class-16-QGpcyvIezLMgmTia.htm](feats/class-16-QGpcyvIezLMgmTia.htm)|Studious Capacity|Grande capacité d'étude|changé|
-|[class-16-qX9ZtfaAj6rxrVA7.htm](feats/class-16-qX9ZtfaAj6rxrVA7.htm)|Master of Many Styles|Maître des multiples postures|changé|
-|[class-16-r7FGPKl5e0xB4tuj.htm](feats/class-16-r7FGPKl5e0xB4tuj.htm)|Cloud Step|Pas nuageux|changé|
-|[class-16-rFaUJtB46scuAidY.htm](feats/class-16-rFaUJtB46scuAidY.htm)|Graceful Poise|Aisance gracieuse|changé|
-|[class-16-rgs6OZJYCgi5At8J.htm](feats/class-16-rgs6OZJYCgi5At8J.htm)|Effortless Concentration|Concentration aisée|changé|
-|[class-16-RL7faGkymMFLAqTU.htm](feats/class-16-RL7faGkymMFLAqTU.htm)|Shattering Blows|Coups fracassants|changé|
-|[class-16-RMSVWMFoLUk0P1cC.htm](feats/class-16-RMSVWMFoLUk0P1cC.htm)|Terraforming Spell|Sort de terraformage|changé|
-|[class-16-ROnjdPMvH0vkkWjQ.htm](feats/class-16-ROnjdPMvH0vkkWjQ.htm)|Enlightened Presence|Présence éclairée|changé|
-|[class-16-RqccUKf8DCPnsYXJ.htm](feats/class-16-RqccUKf8DCPnsYXJ.htm)|Implausible Purchase (Investigator)|Achat improbable (Enquêteur)|changé|
-|[class-16-rRbMOxX1QTHIIwAi.htm](feats/class-16-rRbMOxX1QTHIIwAi.htm)|Portentous Spell|Sort de mauvais augure|changé|
-|[class-16-RzhnxgiAopWILCvs.htm](feats/class-16-RzhnxgiAopWILCvs.htm)|Multishot Stance|Posture de tirs multiples|changé|
-|[class-16-tBMMKWYfzD2OMD30.htm](feats/class-16-tBMMKWYfzD2OMD30.htm)|Penetrating Projectile|Projectile pénétrant|changé|
-|[class-16-TqODgJL1VS3eokhX.htm](feats/class-16-TqODgJL1VS3eokhX.htm)|Swift Elusion|Échappatoire rapide|changé|
-|[class-16-uixN9wbfe0veOHRn.htm](feats/class-16-uixN9wbfe0veOHRn.htm)|Auspicious Mount|Monture de bon augure|changé|
-|[class-16-uL6q4wtwvuP8I4po.htm](feats/class-16-uL6q4wtwvuP8I4po.htm)|Flinging Blow|Coup catapultant|changé|
-|[class-16-urYHB6VHhqvPMSy7.htm](feats/class-16-urYHB6VHhqvPMSy7.htm)|Impaling Briars|Ronces empaleuses|changé|
-|[class-16-vDJRIKS27md3LudA.htm](feats/class-16-vDJRIKS27md3LudA.htm)|Greater Distracting Shot|Tir déroutant supérieur|changé|
-|[class-16-Veyt4x2Kb5YcPGTv.htm](feats/class-16-Veyt4x2Kb5YcPGTv.htm)|Legendary Monster Hunter|Chasseur de monstres légendaires|changé|
-|[class-16-wPJFEUOXwf7y5jN3.htm](feats/class-16-wPJFEUOXwf7y5jN3.htm)|Cognitive Loophole|Échappatoire cognitive|changé|
-|[class-16-WY7CjISdz6uwXwIb.htm](feats/class-16-WY7CjISdz6uwXwIb.htm)|Collateral Thrash|Maltraitance collatérale|changé|
-|[class-16-xjLbabfyQzBNT4y1.htm](feats/class-16-xjLbabfyQzBNT4y1.htm)|Twinned Defense (Fighter)|Défense jumelée (Guerrier)|changé|
-|[class-16-xjwlP306nuda2z03.htm](feats/class-16-xjwlP306nuda2z03.htm)|Steal Spell|Sort volé|changé|
 |[class-17-LoZY48txEgHZxewj.htm](feats/class-17-LoZY48txEgHZxewj.htm)|Azaersi's Roads|Routes d'Azaersi|changé|
-|[class-18-2RaDe6Fi4t7S2IDF.htm](feats/class-18-2RaDe6Fi4t7S2IDF.htm)|Invoke Disaster|Invocation de désastre|changé|
-|[class-18-62glnJI2o0KnHULB.htm](feats/class-18-62glnJI2o0KnHULB.htm)|Triangle Shot|Tir triangulé|changé|
-|[class-18-6GUl9WG7OKvfVQo4.htm](feats/class-18-6GUl9WG7OKvfVQo4.htm)|Empty Body|Désertion de l'âme|changé|
-|[class-18-7ATVpDUM6pRq6HOR.htm](feats/class-18-7ATVpDUM6pRq6HOR.htm)|Smash From The Air|Fracasser en l'air|changé|
 |[class-18-7mGMHb7irGKZ0eQo.htm](feats/class-18-7mGMHb7irGKZ0eQo.htm)|Miraculous Possibility|Possibilité miraculeuse|changé|
-|[class-18-8JMOgtB3XG7o6ffW.htm](feats/class-18-8JMOgtB3XG7o6ffW.htm)|Discordant Voice|Voix discordante|changé|
-|[class-18-a1TSGGsA6b5gjP3H.htm](feats/class-18-a1TSGGsA6b5gjP3H.htm)|Reprepare Spell|Recyclage de sort|changé|
-|[class-18-AbjVJIBdNjbQbVnV.htm](feats/class-18-AbjVJIBdNjbQbVnV.htm)|Primal Aegis|Égide primordiale|changé|
-|[class-18-AwxJcaIrutqMcUC8.htm](feats/class-18-AwxJcaIrutqMcUC8.htm)|Masterful Companion|Compagnon magistral|changé|
-|[class-18-C9nb7H5u2ElBXvCR.htm](feats/class-18-C9nb7H5u2ElBXvCR.htm)|Mindblank Mutagen|Mutagène d’esprit vide|changé|
-|[class-18-Dcr63tofZUome1Ze.htm](feats/class-18-Dcr63tofZUome1Ze.htm)|Manifold Edge|Avantages multiples|changé|
-|[class-18-doD3jZylVXZ0oHWO.htm](feats/class-18-doD3jZylVXZ0oHWO.htm)|Greater Crossblooded Evolution|Évolution métisée supérieure|changé|
-|[class-18-f1acyuIGYVp2BpKc.htm](feats/class-18-f1acyuIGYVp2BpKc.htm)|Shadow Hunter|Chasseur de l'ombre|changé|
-|[class-18-gtXy5gMNU0NDvkBL.htm](feats/class-18-gtXy5gMNU0NDvkBL.htm)|Fiendish Form|Forme fiélone|changé|
-|[class-18-HBhLR980Q0cb2rxp.htm](feats/class-18-HBhLR980Q0cb2rxp.htm)|Perfect Debilitation|Neutralisation parfaite|changé|
-|[class-18-Hzzf7bi8xBMi6DCL.htm](feats/class-18-Hzzf7bi8xBMi6DCL.htm)|Powerful Sneak|Puissante furtivité|changé|
 |[class-18-iTtnN49D8ZJ2Ilur.htm](feats/class-18-iTtnN49D8ZJ2Ilur.htm)|Deep Lore|Savoir approfondi|changé|
 |[class-18-IxggfXunfldeVOsQ.htm](feats/class-18-IxggfXunfldeVOsQ.htm)|Swift River|Libre comme l’eau|changé|
 |[class-18-JkQjKyzfhMWLr9Gs.htm](feats/class-18-JkQjKyzfhMWLr9Gs.htm)|Perfect Clarity|Lucidité parfaite|changé|
@@ -2486,7 +2395,98 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-14-TdwC9rTGgtF4CQ25.htm](feats/class-14-TdwC9rTGgtF4CQ25.htm)|Flamboyant Leap|Bond flamboyant|libre|
 |[class-14-TpWS2b9ISHnXVfZg.htm](feats/class-14-TpWS2b9ISHnXVfZg.htm)|Timeless Nature|Nature intemporelle|officielle|
 |[class-14-TyWFsX9DliAdAVs8.htm](feats/class-14-TyWFsX9DliAdAVs8.htm)|Sow Spell|Sort semé|libre|
+|[class-14-w2v5LZmpJy0MBxo5.htm](feats/class-14-w2v5LZmpJy0MBxo5.htm)|Improved Twin Riposte (Fighter)|Riposte jumelée améliorée (Guerrier)|officielle|
+|[class-14-wa9ZGBTlFuwOjPpH.htm](feats/class-14-wa9ZGBTlFuwOjPpH.htm)|Rites Of Transfiguration|Rites de transfiguration|libre|
+|[class-14-wdkbfWKEjAFXAxto.htm](feats/class-14-wdkbfWKEjAFXAxto.htm)|Determination|Détermination|officielle|
+|[class-14-WEUFs37Ids3ZRrqa.htm](feats/class-14-WEUFs37Ids3ZRrqa.htm)|Litany Of Depravity|Litanie de dépravation|libre|
+|[class-14-wKx7BWdQu5sEjL9j.htm](feats/class-14-wKx7BWdQu5sEjL9j.htm)|Wild Winds Gust|Bourrasque des vents violents|officielle|
+|[class-14-Xk9inG3pln4UKbs3.htm](feats/class-14-Xk9inG3pln4UKbs3.htm)|True Hypercognition|Hypercognition ultime|officielle|
+|[class-14-xSJaOcdhqDF1CBs3.htm](feats/class-14-xSJaOcdhqDF1CBs3.htm)|Ebb And Flow|Flux et reflux|libre|
+|[class-14-YawVDUc9uzREIAnO.htm](feats/class-14-YawVDUc9uzREIAnO.htm)|Aura of Life|Aura de vie|officielle|
+|[class-14-yeSyGnYDkl2GUNmu.htm](feats/class-14-yeSyGnYDkl2GUNmu.htm)|Stance Savant (Fighter)|Maître des postures (Guerrier)|officielle|
+|[class-14-ygPrwqiyDr1frUHw.htm](feats/class-14-ygPrwqiyDr1frUHw.htm)|Greater Interpose|Interposition supérieure|libre|
+|[class-14-z7kwVNaCB4oJs3Fe.htm](feats/class-14-z7kwVNaCB4oJs3Fe.htm)|Aura Of Preservation|Aura de préservation|libre|
+|[class-16-05k4nkjazjjEUoGu.htm](feats/class-16-05k4nkjazjjEUoGu.htm)|Blank Slate|Page blanche|officielle|
+|[class-16-1re3J4hWW7raXIRB.htm](feats/class-16-1re3J4hWW7raXIRB.htm)|Spell Tinker|Bricolage de sort|officielle|
+|[class-16-2HeRmbcHcsRMccir.htm](feats/class-16-2HeRmbcHcsRMccir.htm)|Diverse Mystery|Mystère diversifié|libre|
+|[class-16-4caP26xpkQajkaDp.htm](feats/class-16-4caP26xpkQajkaDp.htm)|One-Millimeter Punch|Coup à infime distance|libre|
+|[class-16-54JzsYCx3uoj7Wlz.htm](feats/class-16-54JzsYCx3uoj7Wlz.htm)|Monstrosity Shape|Morphologie monstrueuse|officielle|
+|[class-16-6AXAJuMEMpxU27PJ.htm](feats/class-16-6AXAJuMEMpxU27PJ.htm)|Dispelling Slice|Coupe dissipante|officielle|
+|[class-16-6fojN9yBJByTZ1Q9.htm](feats/class-16-6fojN9yBJByTZ1Q9.htm)|Didactic Strike|Frappe didactique|libre|
+|[class-16-7IDFHh2ZJLaB1y59.htm](feats/class-16-7IDFHh2ZJLaB1y59.htm)|Shield of Grace|Bouclier de grâce|officielle|
+|[class-16-8C9qo5LL9J0UTNGc.htm](feats/class-16-8C9qo5LL9J0UTNGc.htm)|Courageous Onslaught|Charge vaillante|libre|
+|[class-16-8HYfYT4fHtxXP199.htm](feats/class-16-8HYfYT4fHtxXP199.htm)|Greater Mental Evolution|Évolution mentale supérieure|officielle|
+|[class-16-Bp02C07s4RTS4vsV.htm](feats/class-16-Bp02C07s4RTS4vsV.htm)|Reconstruct The Scene|Reconstituer la scène|libre|
+|[class-16-bX2WI5k0afqPpCfm.htm](feats/class-16-bX2WI5k0afqPpCfm.htm)|Ubiquitous Snares|Profusion de pièges artisanaux|officielle|
+|[class-16-Cgk4By6gEomD2bJ0.htm](feats/class-16-Cgk4By6gEomD2bJ0.htm)|Improved Twin Riposte (Ranger)|Riposte jumelée améliorée (Rôdeur)|officielle|
+|[class-16-D71A2ZQfz9MVndqI.htm](feats/class-16-D71A2ZQfz9MVndqI.htm)|Felicitous Riposte|Riposte heureuse|libre|
+|[class-16-DAFF7zJphhDPcAws.htm](feats/class-16-DAFF7zJphhDPcAws.htm)|Medusa's Wrath|Courroux de la méduse|libre|
+|[class-16-Dr6h8WRW6xnLRfxr.htm](feats/class-16-Dr6h8WRW6xnLRfxr.htm)|Resurrectionist|Résurrecteur|officielle|
+|[class-16-DSmYJvCHMvZCP0aD.htm](feats/class-16-DSmYJvCHMvZCP0aD.htm)|Scintillating Spell|Sort scintillant|libre|
+|[class-16-E4xubBMtj81kX5Bk.htm](feats/class-16-E4xubBMtj81kX5Bk.htm)|Shattering Strike (Monk)|Frappe fracassante (Moine)|officielle|
+|[class-16-e8ChYAaQ9Aa8aZES.htm](feats/class-16-e8ChYAaQ9Aa8aZES.htm)|Deadly Grace|Grace mortelle|libre|
+|[class-16-eOwjwVAbl99ZTy5D.htm](feats/class-16-eOwjwVAbl99ZTy5D.htm)|Overwhelming Blow|Coup surpuissant|libre|
+|[class-16-EWeso1zDkCLGlnsW.htm](feats/class-16-EWeso1zDkCLGlnsW.htm)|Reckless Abandon (Barbarian)|Dangereux abandon (Barbare)|libre|
+|[class-16-Fai5VMyrtOrYC5JL.htm](feats/class-16-Fai5VMyrtOrYC5JL.htm)|Specialized Companion (Ranger)|Compagnon spécialisé (Rodeur)|officielle|
+|[class-16-fEfEabn53bubYVVT.htm](feats/class-16-fEfEabn53bubYVVT.htm)|Improved Reflexive Shield|Bouclier instinctif amélioré|officielle|
+|[class-16-g1wBP9Z5HRqDe9FE.htm](feats/class-16-g1wBP9Z5HRqDe9FE.htm)|Quivering Palm|Paume vibratoire|officielle|
+|[class-16-giOEclnMp8txkRSU.htm](feats/class-16-giOEclnMp8txkRSU.htm)|Eternal Elixir|Élixir éternel|officielle|
+|[class-16-GKP2dHkgQw1o0k8g.htm](feats/class-16-GKP2dHkgQw1o0k8g.htm)|Persistent Mutagen|Mutagène persistant|officielle|
+|[class-16-h08Vfel5iIAARWdy.htm](feats/class-16-h08Vfel5iIAARWdy.htm)|Instrument of Zeal|Instrument de zèle|officielle|
+|[class-16-H5uZqYVClk3s62ce.htm](feats/class-16-H5uZqYVClk3s62ce.htm)|Remediate|Rééquilibrer|libre|
+|[class-16-H7Ocx80td7Sx7Cqn.htm](feats/class-16-H7Ocx80td7Sx7Cqn.htm)|Expand Aura|Aura étendue|libre|
+|[class-16-hr9maYUbtrNxpBPw.htm](feats/class-16-hr9maYUbtrNxpBPw.htm)|Exploitive Bomb|Bombe d'érosion|officielle|
+|[class-16-i98NcWSAbWmNmBik.htm](feats/class-16-i98NcWSAbWmNmBik.htm)|Instrument Of Slaughter|Instrument du massacre|libre|
+|[class-16-IA8p9oYmsCbipmhw.htm](feats/class-16-IA8p9oYmsCbipmhw.htm)|Chemical Contagion|Contagion chimique|libre|
+|[class-16-kMLvQnx2vY7F3bjI.htm](feats/class-16-kMLvQnx2vY7F3bjI.htm)|Eternal Blessing|Bénédiction éternelle|officielle|
+|[class-16-L0f3c0DkT7FLQF9W.htm](feats/class-16-L0f3c0DkT7FLQF9W.htm)|Siphon Power|Pouvoir siphonné|libre|
+|[class-16-lgEihn7deZwHczGE.htm](feats/class-16-lgEihn7deZwHczGE.htm)|Dragon Transformation|Transformation en dragon|officielle|
+|[class-16-lhSqWHXK1JShUabF.htm](feats/class-16-lhSqWHXK1JShUabF.htm)|Resounding Finale|Final retentissant|libre|
+|[class-16-mj1pVVFtqGLKgCQM.htm](feats/class-16-mj1pVVFtqGLKgCQM.htm)|Genius Mutagen|Mutagène de génie|officielle|
+|[class-16-MjhCcwGKyI5dpNIY.htm](feats/class-16-MjhCcwGKyI5dpNIY.htm)|Perfect Distraction|Diversion parfaite|officielle|
+|[class-16-ND3nKsXCDBShUgYc.htm](feats/class-16-ND3nKsXCDBShUgYc.htm)|Greater Vital Evolution|Évolution vitale supérieure|officielle|
+|[class-16-Oyml3OGNy468z3XI.htm](feats/class-16-Oyml3OGNy468z3XI.htm)|Furious Vengeance|Vengeance furieuse|libre|
+|[class-16-pzmob1HqVKZfL0BY.htm](feats/class-16-pzmob1HqVKZfL0BY.htm)|Eternal Bane|Imprécation éternelle|officielle|
+|[class-16-QGpcyvIezLMgmTia.htm](feats/class-16-QGpcyvIezLMgmTia.htm)|Studious Capacity|Grande capacité d'étude|officielle|
+|[class-16-qX9ZtfaAj6rxrVA7.htm](feats/class-16-qX9ZtfaAj6rxrVA7.htm)|Master of Many Styles|Maître des multiples postures|officielle|
+|[class-16-r7FGPKl5e0xB4tuj.htm](feats/class-16-r7FGPKl5e0xB4tuj.htm)|Cloud Step|Pas nuageux|officielle|
+|[class-16-rFaUJtB46scuAidY.htm](feats/class-16-rFaUJtB46scuAidY.htm)|Graceful Poise|Aisance gracieuse|officielle|
+|[class-16-rgs6OZJYCgi5At8J.htm](feats/class-16-rgs6OZJYCgi5At8J.htm)|Effortless Concentration|Concentration aisée|officielle|
+|[class-16-RL7faGkymMFLAqTU.htm](feats/class-16-RL7faGkymMFLAqTU.htm)|Shattering Blows|Coups fracassants|libre|
+|[class-16-RMSVWMFoLUk0P1cC.htm](feats/class-16-RMSVWMFoLUk0P1cC.htm)|Terraforming Spell|Sort de terraformage|libre|
+|[class-16-ROnjdPMvH0vkkWjQ.htm](feats/class-16-ROnjdPMvH0vkkWjQ.htm)|Enlightened Presence|Présence éclairée|officielle|
+|[class-16-RqccUKf8DCPnsYXJ.htm](feats/class-16-RqccUKf8DCPnsYXJ.htm)|Implausible Purchase (Investigator)|Achat improbable (Enquêteur)|libre|
+|[class-16-rRbMOxX1QTHIIwAi.htm](feats/class-16-rRbMOxX1QTHIIwAi.htm)|Portentous Spell|Sort de mauvais augure|libre|
+|[class-16-RzhnxgiAopWILCvs.htm](feats/class-16-RzhnxgiAopWILCvs.htm)|Multishot Stance|Posture de tirs multiples|officielle|
+|[class-16-tBMMKWYfzD2OMD30.htm](feats/class-16-tBMMKWYfzD2OMD30.htm)|Penetrating Projectile|Projectile pénétrant|libre|
+|[class-16-TqODgJL1VS3eokhX.htm](feats/class-16-TqODgJL1VS3eokhX.htm)|Swift Elusion|Échappatoire rapide|libre|
+|[class-16-uixN9wbfe0veOHRn.htm](feats/class-16-uixN9wbfe0veOHRn.htm)|Auspicious Mount|Monture de bon augure|officielle|
+|[class-16-uL6q4wtwvuP8I4po.htm](feats/class-16-uL6q4wtwvuP8I4po.htm)|Flinging Blow|Coup catapultant|libre|
+|[class-16-urYHB6VHhqvPMSy7.htm](feats/class-16-urYHB6VHhqvPMSy7.htm)|Impaling Briars|Ronces empaleuses|officielle|
+|[class-16-vDJRIKS27md3LudA.htm](feats/class-16-vDJRIKS27md3LudA.htm)|Greater Distracting Shot|Tir déroutant supérieur|officielle|
+|[class-16-Veyt4x2Kb5YcPGTv.htm](feats/class-16-Veyt4x2Kb5YcPGTv.htm)|Legendary Monster Hunter|Chasseur de monstres légendaires|officielle|
+|[class-16-wPJFEUOXwf7y5jN3.htm](feats/class-16-wPJFEUOXwf7y5jN3.htm)|Cognitive Loophole|Échappatoire cognitive|officielle|
+|[class-16-WY7CjISdz6uwXwIb.htm](feats/class-16-WY7CjISdz6uwXwIb.htm)|Collateral Thrash|Maltraitance collatérale|officielle|
+|[class-16-xjLbabfyQzBNT4y1.htm](feats/class-16-xjLbabfyQzBNT4y1.htm)|Twinned Defense (Fighter)|Défense jumelée (Guerrier)|officielle|
+|[class-16-xjwlP306nuda2z03.htm](feats/class-16-xjwlP306nuda2z03.htm)|Steal Spell|Sort volé|libre|
+|[class-18-2RaDe6Fi4t7S2IDF.htm](feats/class-18-2RaDe6Fi4t7S2IDF.htm)|Invoke Disaster|Invocation de désastre|officielle|
+|[class-18-62glnJI2o0KnHULB.htm](feats/class-18-62glnJI2o0KnHULB.htm)|Triangle Shot|Tir triangulé|libre|
+|[class-18-6GUl9WG7OKvfVQo4.htm](feats/class-18-6GUl9WG7OKvfVQo4.htm)|Empty Body|Désertion de l'âme|officielle|
+|[class-18-7ATVpDUM6pRq6HOR.htm](feats/class-18-7ATVpDUM6pRq6HOR.htm)|Smash From The Air|Fracasser en l'air|libre|
+|[class-18-8JMOgtB3XG7o6ffW.htm](feats/class-18-8JMOgtB3XG7o6ffW.htm)|Discordant Voice|Voix discordante|libre|
+|[class-18-a1TSGGsA6b5gjP3H.htm](feats/class-18-a1TSGGsA6b5gjP3H.htm)|Reprepare Spell|Recyclage de sort|officielle|
+|[class-18-AbjVJIBdNjbQbVnV.htm](feats/class-18-AbjVJIBdNjbQbVnV.htm)|Primal Aegis|Égide primordiale|libre|
+|[class-18-AwxJcaIrutqMcUC8.htm](feats/class-18-AwxJcaIrutqMcUC8.htm)|Masterful Companion|Compagnon magistral|officielle|
+|[class-18-BtMemftiktI0Mn6X.htm](feats/class-18-BtMemftiktI0Mn6X.htm)|Manifold Edge (Precision)|Avantages multiples (Précision)|libre|
+|[class-18-C9nb7H5u2ElBXvCR.htm](feats/class-18-C9nb7H5u2ElBXvCR.htm)|Mindblank Mutagen|Mutagène d’esprit vide|officielle|
+|[class-18-Dcr63tofZUome1Ze.htm](feats/class-18-Dcr63tofZUome1Ze.htm)|Manifold Edge|Avantages multiples|officielle|
+|[class-18-doD3jZylVXZ0oHWO.htm](feats/class-18-doD3jZylVXZ0oHWO.htm)|Greater Crossblooded Evolution|Évolution métisée supérieure|officielle|
+|[class-18-EcQvuGYDJdqTfGuX.htm](feats/class-18-EcQvuGYDJdqTfGuX.htm)|Manifold Edge (Outwit)|Avantages multiples (Ruse)|officielle|
+|[class-18-f1acyuIGYVp2BpKc.htm](feats/class-18-f1acyuIGYVp2BpKc.htm)|Shadow Hunter|Chasseur de l'ombre|officielle|
 |[class-18-fLrwddS607eRFfHA.htm](feats/class-18-fLrwddS607eRFfHA.htm)|Implausible Infiltration|Infiltration invraisemblable|officielle|
+|[class-18-gtXy5gMNU0NDvkBL.htm](feats/class-18-gtXy5gMNU0NDvkBL.htm)|Fiendish Form|Forme fiélone|libre|
+|[class-18-HBhLR980Q0cb2rxp.htm](feats/class-18-HBhLR980Q0cb2rxp.htm)|Perfect Debilitation|Neutralisation parfaite|officielle|
+|[class-18-Hzzf7bi8xBMi6DCL.htm](feats/class-18-Hzzf7bi8xBMi6DCL.htm)|Powerful Sneak|Puissante furtivité|officielle|
 |[class-18-i3hALsjbjk9FdbGN.htm](feats/class-18-i3hALsjbjk9FdbGN.htm)|Vicious Evisceration|Éviscération vicieuse|libre|
 |[class-18-ouKDey5RHQKN9YBT.htm](feats/class-18-ouKDey5RHQKN9YBT.htm)|Domain Wellspring|Source du domaine|officielle|
 |[class-20-mjdLmXLCNaRgMLVw.htm](feats/class-20-mjdLmXLCNaRgMLVw.htm)|Mimic Protections|Imiter les protections|libre|
