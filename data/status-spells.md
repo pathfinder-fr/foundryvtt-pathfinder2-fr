@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
  * **officielle**: 283
- * **libre**: 186
- * **changé**: 401
+ * **libre**: 187
+ * **changé**: 400
  * **auto-trad**: 14
 
 
-Dernière mise à jour: 2021-06-12 10:48 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-06-18 19:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -431,7 +431,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-09-YDMOqndvYFu3OjA6.htm](spells/transmutation-09-YDMOqndvYFu3OjA6.htm)|Ki Form|Forme ki|changé|
 |[transmutation-10-ckUOoqOM7Kg7VqxB.htm](spells/transmutation-10-ckUOoqOM7Kg7VqxB.htm)|Avatar|Avatar|changé|
 |[transmutation-10-pmP8HhXvvEKP3LqU.htm](spells/transmutation-10-pmP8HhXvvEKP3LqU.htm)|Primal Herd|Troupeau primitif|changé|
-|[transmutation-10-qqQYrXaRJXr7uc4i.htm](spells/transmutation-10-qqQYrXaRJXr7uc4i.htm)|Apex Companion|Compagnon alpha|changé|
 |[transmutation-10-ZXwxs5tRjEGrjAJT.htm](spells/transmutation-10-ZXwxs5tRjEGrjAJT.htm)|Nature Incarnate|Incarnation de la nature|changé|
 
 ## Liste des traductions complétés
@@ -907,3 +906,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-08-U0hL0LLaprcnAyzC.htm](spells/transmutation-08-U0hL0LLaprcnAyzC.htm)|Wind Walk|Voyage venteux|officielle|
 |[transmutation-09-pswdik31kuHEvdno.htm](spells/transmutation-09-pswdik31kuHEvdno.htm)|Shapechange|Changement de forme|officielle|
 |[transmutation-10-1dsahW4g1ggXtypx.htm](spells/transmutation-10-1dsahW4g1ggXtypx.htm)|Time Stop|Arrêt du temps|officielle|
+|[transmutation-10-qqQYrXaRJXr7uc4i.htm](spells/transmutation-10-qqQYrXaRJXr7uc4i.htm)|Apex Companion|Compagnon alpha|libre|

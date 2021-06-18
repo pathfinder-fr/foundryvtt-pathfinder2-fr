@@ -5,7 +5,7 @@
  * **changé**: 2
 
 
-Dernière mise à jour: 2021-06-12 10:48 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-06-18 19:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
