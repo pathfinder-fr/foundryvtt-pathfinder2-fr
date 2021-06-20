@@ -1,12 +1,12 @@
 # État de la traduction (archetypes)
 
- * **auto-trad**: 5
+ * **auto-trad**: 4
  * **changé**: 66
- * **libre**: 5
+ * **libre**: 6
  * **officielle**: 2
 
 
-Dernière mise à jour: 2021-06-18 19:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-06-20 19:14 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -16,7 +16,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[25NJcH5SkWh1Tol7.htm](archetypes/25NJcH5SkWh1Tol7.htm)|Spellmaster|auto-trad|
 |[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|auto-trad|
 |[gw4J1pXYED71TPWx.htm](archetypes/gw4J1pXYED71TPWx.htm)|Bellflower Tiller|auto-trad|
-|[PPmO6FXrl8Otszji.htm](archetypes/PPmO6FXrl8Otszji.htm)|Drow Shootist|auto-trad|
 |[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|auto-trad|
 
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -100,4 +99,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IdhIKSuKueYt6RsQ.htm](archetypes/IdhIKSuKueYt6RsQ.htm)|Eldritch Researcher|Chercheur mystique|libre|
 |[Lr108TWazbuxxUzP.htm](archetypes/Lr108TWazbuxxUzP.htm)|Zephyr Guard|Garde Zéphyr|officielle|
 |[lsU4NQEei111OetM.htm](archetypes/lsU4NQEei111OetM.htm)|Dragon Disciple|Disciple draconique|libre|
+|[PPmO6FXrl8Otszji.htm](archetypes/PPmO6FXrl8Otszji.htm)|Drow Shootist|Tireur drow|libre|
 |[VRUYc3QyRjjOjppc.htm](archetypes/VRUYc3QyRjjOjppc.htm)|Turpin Rowe Lumberjack|Bûcheron de Turpin Rowe|libre|

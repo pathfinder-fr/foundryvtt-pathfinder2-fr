@@ -1,20 +1,13 @@
 # État de la traduction (actions)
 
  * **officielle**: 105
- * **libre**: 49
+ * **libre**: 50
  * **changé**: 5
- * **auto-trad**: 1
 
 
-Dernière mise à jour: 2021-06-18 19:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-06-20 19:14 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions automatiques à corriger/retraduire
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[Ma93dpT4K7JbP9gu.htm](actions/Ma93dpT4K7JbP9gu.htm)|Prove Peace|auto-trad|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -118,6 +111,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[m0f2B7G9eaaTmhFL.htm](actions/m0f2B7G9eaaTmhFL.htm)|Devise a Stratagem|Concevoir un stratagème|libre|
 |[M76ycLAqHoAgbcej.htm](actions/M76ycLAqHoAgbcej.htm)|Balance|Garder l'équilibre|officielle|
 |[M8RCbthRhB4bxO9t.htm](actions/M8RCbthRhB4bxO9t.htm)|Iron Command|Ordre de fer|libre|
+|[Ma93dpT4K7JbP9gu.htm](actions/Ma93dpT4K7JbP9gu.htm)|Prove Peace|Prouver la paix|libre|
 |[MHLuKy4nQO2Z4Am1.htm](actions/MHLuKy4nQO2Z4Am1.htm)|Administer First Aid|Prodiguer les premiers soins|officielle|
 |[mk6rzaAzsBBRGJnh.htm](actions/mk6rzaAzsBBRGJnh.htm)|Call Upon the Brightness|Faire appel à la lumière|libre|
 |[mVscmsZWWcVACdU5.htm](actions/mVscmsZWWcVACdU5.htm)|Soaring Flight|Voler haut|libre|

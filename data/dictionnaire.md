@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-06-18 19:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-06-20 19:14 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -132,7 +132,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Pick a Lock](actions/2EE4aF4SZpYf0R6H.htm)|Crocheter une serrure|`@Compendium[pf2e.actionspf2e.2EE4aF4SZpYf0R6H]`|
 |[Point Out](actions/sn2hIy1iIJX9Vpgj.htm)|Signaler|`@Compendium[pf2e.actionspf2e.sn2hIy1iIJX9Vpgj]`|
 |[Pointed Question](actions/xccOiNL2W1EtfUYl.htm)|Question imparable|`@Compendium[pf2e.actionspf2e.xccOiNL2W1EtfUYl]`|
-|[Prove Peace](actions/Ma93dpT4K7JbP9gu.htm)||`@Compendium[pf2e.actionspf2e.Ma93dpT4K7JbP9gu]`|
+|[Prove Peace](actions/Ma93dpT4K7JbP9gu.htm)|Prouver la paix|`@Compendium[pf2e.actionspf2e.Ma93dpT4K7JbP9gu]`|
 |[Pursue a Lead](actions/xTK2zsWFyxSJvYbX.htm)|Suivre une piste|`@Compendium[pf2e.actionspf2e.xTK2zsWFyxSJvYbX]`|
 |[Quick Alchemy](actions/yzNJgwzV9XqEhKc6.htm)|Alchimie rapide|`@Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]`|
 |[Quick Tincture](actions/QHFMeJGzFWj2QczA.htm)|Préparation rapide|`@Compendium[pf2e.actionspf2e.QHFMeJGzFWj2QczA]`|
@@ -317,7 +317,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Crystal Keeper](archetypes/xNzNpPjeNSrXE7WG.htm)|Gardien des cristaux|`@Compendium[pf2e.archetypes.xNzNpPjeNSrXE7WG]`|
 |[Dandy](archetypes/5cbEwgPLlMWGGVxN.htm)|Dandy|`@Compendium[pf2e.archetypes.5cbEwgPLlMWGGVxN]`|
 |[Dragon Disciple](archetypes/lsU4NQEei111OetM.htm)|Disciple draconique|`@Compendium[pf2e.archetypes.lsU4NQEei111OetM]`|
-|[Drow Shootist](archetypes/PPmO6FXrl8Otszji.htm)||`@Compendium[pf2e.archetypes.PPmO6FXrl8Otszji]`|
+|[Drow Shootist](archetypes/PPmO6FXrl8Otszji.htm)|Tireur drow|`@Compendium[pf2e.archetypes.PPmO6FXrl8Otszji]`|
 |[Dual-Weapon Warrior](archetypes/K1mmFJ3QSjNkHm2L.htm)|Combattant à deux armes|`@Compendium[pf2e.archetypes.K1mmFJ3QSjNkHm2L]`|
 |[Duelist](archetypes/DYJfhMcLlP05oMDD.htm)|Duelliste|`@Compendium[pf2e.archetypes.DYJfhMcLlP05oMDD]`|
 |[Edgewatch Detective](archetypes/Q3VydQ6b5Mxm1c41.htm)|Officier d'Edgewatch|`@Compendium[pf2e.archetypes.Q3VydQ6b5Mxm1c41]`|
@@ -2906,13 +2906,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dragon's Rage Breath](feats/class-06-3uavnVbCsqTvzpgt.htm)|Souffle de rage du dragon|`@Compendium[pf2e.feats-srd.3uavnVbCsqTvzpgt]`|
 |[Dragon's Rage Wings](feats/class-12-bqZkAFS6eq9TKXMO.htm)|Ailes de rage du dragon|`@Compendium[pf2e.feats-srd.bqZkAFS6eq9TKXMO]`|
 |[Dragonblood Paragon](feats/ancestry-09-4EgueMqUm0ebKV4J.htm)|Parangon sangdragon|`@Compendium[pf2e.feats-srd.4EgueMqUm0ebKV4J]`|
-|[Dragonslayer Oath (Liberator)](feats/class-02-K3QkcNWY8qpNEJrk.htm)||`@Compendium[pf2e.feats-srd.K3QkcNWY8qpNEJrk]`|
-|[Dragonslayer Oath (Paladin)](feats/class-02-LZsTt6zPZfNyjIZl.htm)||`@Compendium[pf2e.feats-srd.LZsTt6zPZfNyjIZl]`|
-|[Dragonslayer Oath (Redeemer)](feats/class-02-85eUthbjE9TnF4fo.htm)||`@Compendium[pf2e.feats-srd.85eUthbjE9TnF4fo]`|
+|[Dragonslayer Oath (Liberator)](feats/class-02-K3QkcNWY8qpNEJrk.htm)|Serment du pourfendeur de dragons (Libérateur)|`@Compendium[pf2e.feats-srd.K3QkcNWY8qpNEJrk]`|
+|[Dragonslayer Oath (Paladin)](feats/class-02-LZsTt6zPZfNyjIZl.htm)|Serment du pourfendeur de dragons (Paladin)|`@Compendium[pf2e.feats-srd.LZsTt6zPZfNyjIZl]`|
+|[Dragonslayer Oath (Redeemer)](feats/class-02-85eUthbjE9TnF4fo.htm)|Serment du pourfendeur de dragons (Rédempteur)|`@Compendium[pf2e.feats-srd.85eUthbjE9TnF4fo]`|
 |[Dread Marshal Stance](feats/archetype-04-R7c4PyTNkZb0yvoT.htm)|Posture du terrible Capitaine|`@Compendium[pf2e.feats-srd.R7c4PyTNkZb0yvoT]`|
 |[Dread Striker](feats/class-04-9SYnbjFgyucjhN5e.htm)|Frappeur d'effroi|`@Compendium[pf2e.feats-srd.9SYnbjFgyucjhN5e]`|
 |[Dream May](feats/ancestry-01-kqnFdIhToKTnOpMl.htm)|Vierge onirique|`@Compendium[pf2e.feats-srd.kqnFdIhToKTnOpMl]`|
-|[Drow Shootist Dedication](feats/archetype-02-NwMiszlcqNZWtezq.htm)||`@Compendium[pf2e.feats-srd.NwMiszlcqNZWtezq]`|
+|[Drow Shootist Dedication](feats/archetype-02-NwMiszlcqNZWtezq.htm)|Dévouement de Tireur drow|`@Compendium[pf2e.feats-srd.NwMiszlcqNZWtezq]`|
 |[Druid Dedication](feats/archetype-02-vhw3n86TEs6laopA.htm)|Dévouement du druide|`@Compendium[pf2e.feats-srd.vhw3n86TEs6laopA]`|
 |[Dual Finisher](feats/class-08-PP1gfRCc1YwnQGxp.htm)|Coup final dual|`@Compendium[pf2e.feats-srd.PP1gfRCc1YwnQGxp]`|
 |[Dual Onslaught](feats/archetype-14-EVNd9hZs49b1pScR.htm)|Massacre à deux armes|`@Compendium[pf2e.feats-srd.EVNd9hZs49b1pScR]`|
@@ -3157,9 +3157,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fiendish Strikes](feats/ancestry-13-xjE123p2rPTsz1eV.htm)|Frappes fiélones|`@Compendium[pf2e.feats-srd.xjE123p2rPTsz1eV]`|
 |[Fiendish Wings](feats/ancestry-09-jNemcS5GqH8mnjV6.htm)|Ailes fiélones|`@Compendium[pf2e.feats-srd.jNemcS5GqH8mnjV6]`|
 |[Fiendish Word](feats/ancestry-17-2pYCGPCQDHD3o7Jz.htm)|Parole fiélone|`@Compendium[pf2e.feats-srd.2pYCGPCQDHD3o7Jz]`|
-|[Fiendsbane Oath (Liberator)](feats/class-02-uv235v6hXCITAFej.htm)||`@Compendium[pf2e.feats-srd.uv235v6hXCITAFej]`|
-|[Fiendsbane Oath (Paladin)](feats/class-02-0NRIP8cDv9Opl5Ls.htm)||`@Compendium[pf2e.feats-srd.0NRIP8cDv9Opl5Ls]`|
-|[Fiendsbane Oath (Redeemer)](feats/class-02-J3R0vx1lszU3CLp5.htm)||`@Compendium[pf2e.feats-srd.J3R0vx1lszU3CLp5]`|
+|[Fiendsbane Oath (Liberator)](feats/class-02-uv235v6hXCITAFej.htm)|Serment du fléau des fiélons (Libérateur)|`@Compendium[pf2e.feats-srd.uv235v6hXCITAFej]`|
+|[Fiendsbane Oath (Paladin)](feats/class-02-0NRIP8cDv9Opl5Ls.htm)|Serment du fléau des fiélons (Paladin)|`@Compendium[pf2e.feats-srd.0NRIP8cDv9Opl5Ls]`|
+|[Fiendsbane Oath (Redeemer)](feats/class-02-J3R0vx1lszU3CLp5.htm)|Serment du fléau des fiélons (Rédempteur)|`@Compendium[pf2e.feats-srd.J3R0vx1lszU3CLp5]`|
 |[Fighter Dedication](feats/archetype-02-mvNa9KfQooHYEXoA.htm)|Dévouement de guerrier|`@Compendium[pf2e.feats-srd.mvNa9KfQooHYEXoA]`|
 |[Fighter Resiliency](feats/archetype-04-PLz1oIEGJojVUBsW.htm)|Résilience du Guerrier|`@Compendium[pf2e.feats-srd.PLz1oIEGJojVUBsW]`|
 |[Final Form](feats/ancestry-17-xXaKiJbKhClF5eJx.htm)|Forme finale|`@Compendium[pf2e.feats-srd.xXaKiJbKhClF5eJx]`|
@@ -3627,7 +3627,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Leshy Lore](feats/ancestry-01-i5W5aGWEiyo1vt2d.htm)|Connaissance des léchis|`@Compendium[pf2e.feats-srd.i5W5aGWEiyo1vt2d]`|
 |[Leshy Superstition](feats/ancestry-01-fYVFBnv9aVHv1UNg.htm)|Superstition léchi|`@Compendium[pf2e.feats-srd.fYVFBnv9aVHv1UNg]`|
 |[Lethal Finisher](feats/class-18-XfCPAoNdF2XMnH7K.htm)|Coup final létal|`@Compendium[pf2e.feats-srd.XfCPAoNdF2XMnH7K]`|
-|[Lethargy Poisoner](feats/archetype-08-HlSwpxreIfsglTJ8.htm)||`@Compendium[pf2e.feats-srd.HlSwpxreIfsglTJ8]`|
+|[Lethargy Poisoner](feats/archetype-08-HlSwpxreIfsglTJ8.htm)|Empoisonneur soporifique|`@Compendium[pf2e.feats-srd.HlSwpxreIfsglTJ8]`|
 |[Levering Strike](feats/archetype-08-jIMeialR9CBo1bx9.htm)|Frappe levier|`@Compendium[pf2e.feats-srd.jIMeialR9CBo1bx9]`|
 |[Leyline Conduit](feats/class-20-BQkk7qSSRTFc5jNG.htm)|Conduit Tellurique|`@Compendium[pf2e.feats-srd.BQkk7qSSRTFc5jNG]`|
 |[Liberating Stride](feats/class-12-1JTEWgonWlmeCE3w.htm)|Foulée libératrice|`@Compendium[pf2e.feats-srd.1JTEWgonWlmeCE3w]`|
@@ -4118,14 +4118,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Relentless Stalker](feats/class-02-e9NcDk6ds5YebGvb.htm)|Harceleur infatigable|`@Compendium[pf2e.feats-srd.e9NcDk6ds5YebGvb]`|
 |[Relentless Wings](feats/ancestry-17-CuyuwFht0rVbGMca.htm)|Ailes sans repos|`@Compendium[pf2e.feats-srd.CuyuwFht0rVbGMca]`|
 |[Reliable Luck](feats/ancestry-17-QgNo1s6nVbKPU4St.htm)|Chance fiable|`@Compendium[pf2e.feats-srd.QgNo1s6nVbKPU4St]`|
-|[Reloading Trick](feats/archetype-06-0idzh4dww7B7cbnW.htm)||`@Compendium[pf2e.feats-srd.0idzh4dww7B7cbnW]`|
+|[Reloading Trick](feats/archetype-06-0idzh4dww7B7cbnW.htm)|Astuce de rechargement|`@Compendium[pf2e.feats-srd.0idzh4dww7B7cbnW]`|
 |[Remediate](feats/class-16-H5uZqYVClk3s62ce.htm)|Rééquilibrer|`@Compendium[pf2e.feats-srd.H5uZqYVClk3s62ce]`|
 |[Remember Your Training](feats/archetype-04-YhclkX1nfyUU8RtO.htm)|Entraînement mémorable|`@Compendium[pf2e.feats-srd.YhclkX1nfyUU8RtO]`|
 |[Remorseless Lash](feats/ancestry-01-iRztLGEK5OfjZTPg.htm)|Fouetter sans remord|`@Compendium[pf2e.feats-srd.iRztLGEK5OfjZTPg]`|
 |[Remote Trigger](feats/archetype-06-sk5HspGGnLW8b6bX.htm)|Déclenchement à distance|`@Compendium[pf2e.feats-srd.sk5HspGGnLW8b6bX]`|
 |[Renewed Vigor](feats/class-08-3hhCDWPm021hvicR.htm)|Regain de vigueur|`@Compendium[pf2e.feats-srd.3hhCDWPm021hvicR]`|
 |[Repair Module](feats/ancestry-09-ZGT7NLpcvREkJsMd.htm)|Module de réparation|`@Compendium[pf2e.feats-srd.ZGT7NLpcvREkJsMd]`|
-|[Repeating Hand Crossbow Training](feats/archetype-04-HvPvyeXM2iMK4OYf.htm)||`@Compendium[pf2e.feats-srd.HvPvyeXM2iMK4OYf]`|
+|[Repeating Hand Crossbow Training](feats/archetype-04-HvPvyeXM2iMK4OYf.htm)|Entraînement à l'arbalète de poing à répétition|`@Compendium[pf2e.feats-srd.HvPvyeXM2iMK4OYf]`|
 |[Replenishing Hydration](feats/ancestry-09-zpQEOqMDoujexNfA.htm)|Hydratation complète|`@Compendium[pf2e.feats-srd.zpQEOqMDoujexNfA]`|
 |[Replenishment of War](feats/class-10-aMef2VM4mSxl0pmy.htm)|Récupération martiale|`@Compendium[pf2e.feats-srd.aMef2VM4mSxl0pmy]`|
 |[Reprepare Spell](feats/class-18-a1TSGGsA6b5gjP3H.htm)|Recyclage de sort|`@Compendium[pf2e.feats-srd.a1TSGGsA6b5gjP3H]`|
@@ -4145,7 +4145,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Return Fire](feats/class-06-OINfbwNZGnlyMqPR.htm)|Tir retourné|`@Compendium[pf2e.feats-srd.OINfbwNZGnlyMqPR]`|
 |[Returning Throw](feats/ancestry-09-HfebybiUNW8mXOfP.htm)|Lancer retourné|`@Compendium[pf2e.feats-srd.HfebybiUNW8mXOfP]`|
 |[Reveal Beasts](feats/bonus-00-PPSH5vdf90KC95jJ.htm)|Dévoiler les bêtes|`@Compendium[pf2e.feats-srd.PPSH5vdf90KC95jJ]`|
-|[Reveal Machinations](feats/skill-15-XZcd1wFHy111klu2.htm)|Révéler la machination|`@Compendium[pf2e.feats-srd.XZcd1wFHy111klu2]`|
+|[Reveal Machinations](feats/skill-15-XZcd1wFHy111klu2.htm)|Révéler les machinations|`@Compendium[pf2e.feats-srd.XZcd1wFHy111klu2]`|
 |[Revealing Stab](feats/class-06-JHcvySfCM9uYNb9N.htm)|Perforation révélatrice|`@Compendium[pf2e.feats-srd.JHcvySfCM9uYNb9N]`|
 |[Reverberate](feats/class-12-ecV3Nljvs4FOBS27.htm)|Entrer en résonance|`@Compendium[pf2e.feats-srd.ecV3Nljvs4FOBS27]`|
 |[Reverse Engineering](feats/archetype-04-f0s3WwaJN5f2UTYY.htm)|Déduction de formule|`@Compendium[pf2e.feats-srd.f0s3WwaJN5f2UTYY]`|
@@ -6402,7 +6402,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bookthief Brew](equipment/consumable-01-PLun5Enmp8ZbjogV.htm)|Infusion du Voleur de livres|`@Compendium[pf2e.equipment-srd.PLun5Enmp8ZbjogV]`|
 |[Boots of Bounding](equipment/equipment-07-ecqz1iUGtyQEkZwy.htm)|Bottes de saut|`@Compendium[pf2e.equipment-srd.ecqz1iUGtyQEkZwy]`|
 |[Boots of Bounding (Greater)](equipment/equipment-14-31knfVD7lEd8BPrQ.htm)|Bottes de saut (supérieur)|`@Compendium[pf2e.equipment-srd.31knfVD7lEd8BPrQ]`|
-|[Boots of Dancing](equipment/equipment-11-oxL8uExmIomunm5g.htm)|Bottes de dance éffrénée|`@Compendium[pf2e.equipment-srd.oxL8uExmIomunm5g]`|
+|[Boots of Dancing](equipment/equipment-11-oxL8uExmIomunm5g.htm)|Bottes de danse éffrénée|`@Compendium[pf2e.equipment-srd.oxL8uExmIomunm5g]`|
 |[Boots of Elvenkind](equipment/equipment-05-T00Xa9aDwHxd60Zh.htm)|Bottes elfiques|`@Compendium[pf2e.equipment-srd.T00Xa9aDwHxd60Zh]`|
 |[Boots of Elvenkind (Greater)](equipment/equipment-11-8NgA4PFFXZPZ9SSg.htm)|Bottes elfiques (supérieures)|`@Compendium[pf2e.equipment-srd.8NgA4PFFXZPZ9SSg]`|
 |[Boots of Speed](equipment/equipment-13-Ck5k13uTNqibLFJk.htm)|Bottes de rapidité|`@Compendium[pf2e.equipment-srd.Ck5k13uTNqibLFJk]`|
@@ -6443,7 +6443,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bronze brazier with Asmodean artwork](equipment/treasure-00-lvrvCGrmnMmE4TxU.htm)|Braséro en bronze de style asmodéen|`@Compendium[pf2e.equipment-srd.lvrvCGrmnMmE4TxU]`|
 |[Bronze chalice with bloodstones](equipment/treasure-ja5rYjVRwwUXWtOd.htm)|Calice en bronze avec des héliotropes|`@Compendium[pf2e.equipment-srd.ja5rYjVRwwUXWtOd]`|
 |[Brooch of Shielding](equipment/equipment-02-TmQalYKNNRuEdoTh.htm)|Broche de défense|`@Compendium[pf2e.equipment-srd.TmQalYKNNRuEdoTh]`|
-|[Broom of Flying](equipment/equipment-12-1erd18HS57aCyC6r.htm)|Balais volant|`@Compendium[pf2e.equipment-srd.1erd18HS57aCyC6r]`|
+|[Broom of Flying](equipment/equipment-12-1erd18HS57aCyC6r.htm)|Balai volant|`@Compendium[pf2e.equipment-srd.1erd18HS57aCyC6r]`|
 |[Buckler](equipment/armor-00-1k3AsSW7lpU0kEpY.htm)|Targe|`@Compendium[pf2e.equipment-srd.1k3AsSW7lpU0kEpY]`|
 |[Bullhook](equipment/equipment-03-2EOeljZiUdNVf8s2.htm)|Crochet de taureau|`@Compendium[pf2e.equipment-srd.2EOeljZiUdNVf8s2]`|
 |[Bullhook (Greater)](equipment/equipment-12-Yguqipt5N29Bkz0d.htm)|Crochet de taureau (supérieur)|`@Compendium[pf2e.equipment-srd.Yguqipt5N29Bkz0d]`|
@@ -7546,7 +7546,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Shock](equipment/equipment-08-NVst7e69agGG9Qwd.htm)|Foudre (rune)|`@Compendium[pf2e.equipment-srd.NVst7e69agGG9Qwd]`|
 |[Shock (Greater)](equipment/equipment-15-TEa1oKZbwsOvC6TZ.htm)|Foudre supérieure (rune)|`@Compendium[pf2e.equipment-srd.TEa1oKZbwsOvC6TZ]`|
 |[Shoony Shovel](equipment/equipment-09-aR0tsZ3xi1iwr53u.htm)|Pelle automatisée|`@Compendium[pf2e.equipment-srd.aR0tsZ3xi1iwr53u]`|
-|[Shootist Bandolier](equipment/equipment-00-oJZe5rRitvioUgRh.htm)|Bandoulière à magazine|`@Compendium[pf2e.equipment-srd.oJZe5rRitvioUgRh]`|
+|[Shootist Bandolier](equipment/equipment-00-oJZe5rRitvioUgRh.htm)|Bandoulière du tireur|`@Compendium[pf2e.equipment-srd.oJZe5rRitvioUgRh]`|
 |[Shortbow](equipment/weapon-00-hIgqLgH3YcLZBeoT.htm)|Arc court|`@Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]`|
 |[Shortsword](equipment/weapon-00-7tKkkF8eZ4iCLJtp.htm)|Épée courte|`@Compendium[pf2e.equipment-srd.7tKkkF8eZ4iCLJtp]`|
 |[Shot of the First Vault](equipment/equipment-23-6o6zvitwlNHNaNJM.htm)|Projectile du premier coffre|`@Compendium[pf2e.equipment-srd.6o6zvitwlNHNaNJM]`|

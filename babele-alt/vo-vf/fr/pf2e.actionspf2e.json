@@ -209,7 +209,7 @@
         {
             "id": "Shootist's Draw",
             "name": "Shootist's Draw (Rapidité du tireur)",
-            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Effet</strong> Vous Interagissez pour sortir une @Compendium[pf2e.equipment-srd.XyA6PKV46aNlLXOd]{Arbalète à main} et faire une Frappe avec ou vous faites une Frappe avec une arbalète à main chargée que vous tenez déjà et vous Interagissez ensuite pour la ranger.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Effet</strong> Vous Interagissez pour sortir une @Compendium[pf2e.equipment-srd.XyA6PKV46aNlLXOd]{Arbalète à main} et faire une Frappe avec ou vous faites une Frappe avec une arbalète à main chargée que vous teniez déjà puis vous Interagissez ensuite pour la ranger.</p>"
         },
         {
             "id": "Aid",
@@ -765,6 +765,11 @@
             "id": "Identify Alchemy",
             "name": "Identify Alchemy (Identifier l'alchimie)",
             "description": "<p><strong>Conditions</strong> Vous avez des @Compendium[pf2e.equipment-srd.4ftXXUCBHcf4b0MH]{outils d'alchimiste}.</p>\n<hr />\n<p>Vous pouvez identifier la nature d’un objet alchimique en l’analysant pendant dix minutes avec vos outils d’alchimiste. Si votre tentative est interrompue, vous devez la reprendre depuis le début.</p>\n<hr />\n<p><strong>Succès</strong> Vous identifiez l'objet et découvrez la méthode pour l'activer.</p>\n<p><strong>Échec</strong> Vous ne parvenez pas à identifier l'objet mais vous pouvez recommencer.</p>\n<p><strong>Échec critique</strong> Vous identifiez l'objet de travers et le prenez pour un autre objet au choix du MJ.</p>"
+        },
+        {
+            "id": "Prove Peace",
+            "name": "Prove Peace (Prouver la paix)",
+            "description": "<p><strong>Conditions</strong> Vous connaissez le conflit qui a créé un fragment spécifique, et le fragment est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé}.</p>\n<hr />\n<p>Vous touchez le fragment, établissez une connexion mentale et transmettez les faits relatifs à la résolution du conflit.</p>\n<p>Faites un test de @Compendium[pf2e.actionspf2e.B0Eu3EfwIa9kyDEA]{Se souvenir} à propos du conflit qui a créé le fragment, en utilisant le DD de Volonté du fragment. En cas de succès, vous prouvez la fin du conflit, et le fragment redevient une pierre ordinaire. En cas d'échec critique, les images du conflit passé vous submergent et vous êtes @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confus} jusqu'à la fin de votre prochain tour.</p>"
         },
         {
             "id": "Coerce",

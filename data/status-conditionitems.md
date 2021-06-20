@@ -1,20 +1,12 @@
 # État de la traduction (conditionitems)
 
  * **libre**: 9
- * **officielle**: 31
- * **changé**: 2
+ * **officielle**: 33
 
 
-Dernière mise à jour: 2021-06-18 19:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-06-20 19:14 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[AdPVz7rbaVSRxHFg.htm](conditionitems/AdPVz7rbaVSRxHFg.htm)|Fascinated|Fasciné|changé|
-|[iU0fEDdBp3rXpTMC.htm](conditionitems/iU0fEDdBp3rXpTMC.htm)|Hidden|Caché|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -27,6 +19,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9evPzg9E6muFcoSk.htm](conditionitems/9evPzg9E6muFcoSk.htm)|Unnoticed|Inaperçu|officielle|
 |[9PR9y0bi4JPKnHPR.htm](conditionitems/9PR9y0bi4JPKnHPR.htm)|Deafened|Sourd|officielle|
 |[9qGBRpbX9NEwtAAr.htm](conditionitems/9qGBRpbX9NEwtAAr.htm)|Controlled|Contrôlé|officielle|
+|[AdPVz7rbaVSRxHFg.htm](conditionitems/AdPVz7rbaVSRxHFg.htm)|Fascinated|Fasciné|officielle|
 |[AJh5ex99aV6VTggg.htm](conditionitems/AJh5ex99aV6VTggg.htm)|Flat-Footed|Pris au dépourvu|officielle|
 |[D5mg6Tc7Jzrj6ro7.htm](conditionitems/D5mg6Tc7Jzrj6ro7.htm)|Encumbered|Surchargé|officielle|
 |[dfCMdR4wnpbYNTix.htm](conditionitems/dfCMdR4wnpbYNTix.htm)|Stunned|Étourdi|officielle|
@@ -40,6 +33,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HL2l2VRSaQHu9lUw.htm](conditionitems/HL2l2VRSaQHu9lUw.htm)|Fatigued|Fatigué|officielle|
 |[I1ffBVISxLr2gC4u.htm](conditionitems/I1ffBVISxLr2gC4u.htm)|Unfriendly|Inamical|officielle|
 |[i3OJZU2nk64Df3xm.htm](conditionitems/i3OJZU2nk64Df3xm.htm)|Clumsy|Maladroit|officielle|
+|[iU0fEDdBp3rXpTMC.htm](conditionitems/iU0fEDdBp3rXpTMC.htm)|Hidden|Caché|officielle|
 |[j91X7x0XSomq8d60.htm](conditionitems/j91X7x0XSomq8d60.htm)|Prone|À terre|officielle|
 |[kWc1fhmv9LBiTuei.htm](conditionitems/kWc1fhmv9LBiTuei.htm)|Grabbed|Agrippé/empoigné|libre|
 |[lDVqvLKA6eF3Df60.htm](conditionitems/lDVqvLKA6eF3Df60.htm)|Persistent Damage|Dégâts persistants|officielle|
