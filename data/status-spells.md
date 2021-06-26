@@ -1,22 +1,18 @@
 # État de la traduction (spells)
 
  * **officielle**: 283
- * **libre**: 187
+ * **libre**: 192
  * **changé**: 400
- * **auto-trad**: 14
+ * **auto-trad**: 9
 
 
-Dernière mise à jour: 2021-06-20 19:14 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-06-26 09:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
 |-----------|-------------|:----:|
-|[conjuration-01-D8cWhrzcsd43OlIX.htm](spells/conjuration-01-D8cWhrzcsd43OlIX.htm)|Div Pact|auto-trad|
-|[conjuration-03-u3G7KX1qpFJlSeWm.htm](spells/conjuration-03-u3G7KX1qpFJlSeWm.htm)|Owb Pact|auto-trad|
-|[divination-05-zaZieDHguhahmM2z.htm](spells/divination-05-zaZieDHguhahmM2z.htm)|Waters of Prediction|auto-trad|
-|[enchantment-04-CPNlhDQP3aDmLzB3.htm](spells/enchantment-04-CPNlhDQP3aDmLzB3.htm)|Ordained Purpose|auto-trad|
 |[evocation-03-0jWBnIDFpJjJShdQ.htm](spells/evocation-03-0jWBnIDFpJjJShdQ.htm)|Dragon Breath (Blue or Bronze)|auto-trad|
 |[evocation-03-6mmEz1UoTHGB7Sy9.htm](spells/evocation-03-6mmEz1UoTHGB7Sy9.htm)|Dragon Breath (Copper or Black)|auto-trad|
 |[evocation-03-bmDgIbLa5NfkP97J.htm](spells/evocation-03-bmDgIbLa5NfkP97J.htm)|Dragon Breath (Silver or White)|auto-trad|
@@ -26,7 +22,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[illusion-01-6GjJtLJnwC18Y0aZ.htm](spells/illusion-01-6GjJtLJnwC18Y0aZ.htm)|Lift Nature's Caul|auto-trad|
 |[necromancy-04-0qA4MfMkFklOz2Lk.htm](spells/necromancy-04-0qA4MfMkFklOz2Lk.htm)|Fearful Feast|auto-trad|
 |[necromancy-05-PgDFDvX64eswapSS.htm](spells/necromancy-05-PgDFDvX64eswapSS.htm)|Ectoplasmic Expulsion|auto-trad|
-|[transmutation-01-lXxP1ziyf4ozkpmv.htm](spells/transmutation-01-lXxP1ziyf4ozkpmv.htm)|Split the Tongue|auto-trad|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -503,6 +498,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-10-UG0SmRYSdbrx2rTA.htm](spells/abjuration-10-UG0SmRYSdbrx2rTA.htm)|Indestructibility|Invulnérabilité|libre|
 |[conjuration-00-MraZBLJ4Be3ogmWL.htm](spells/conjuration-00-MraZBLJ4Be3ogmWL.htm)|Clinging Ice|Glace tenace|libre|
 |[conjuration-01-cokeXkDHUAo4zHsw.htm](spells/conjuration-01-cokeXkDHUAo4zHsw.htm)|Oathkeeper's Insignia|Insigne du gardien du serment|libre|
+|[conjuration-01-D8cWhrzcsd43OlIX.htm](spells/conjuration-01-D8cWhrzcsd43OlIX.htm)|Div Pact|Pacte des Divs|libre|
 |[conjuration-01-EDABphKEPUBiMmQC.htm](spells/conjuration-01-EDABphKEPUBiMmQC.htm)|Verdant Sprout|Éclosion verdoyante|libre|
 |[conjuration-01-F1nlmqOIucch3Cmt.htm](spells/conjuration-01-F1nlmqOIucch3Cmt.htm)|Pet Cache|Cachette du familier|libre|
 |[conjuration-01-joEruBVz31Uxczzq.htm](spells/conjuration-01-joEruBVz31Uxczzq.htm)|Angelic Messenger|Messager angélique|libre|
@@ -517,6 +513,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-03-g4MAIQodRDVfNp1B.htm](spells/conjuration-03-g4MAIQodRDVfNp1B.htm)|Personal Blizzard|Blizzard personnel|libre|
 |[conjuration-03-mwPfoYfVGSMAaUec.htm](spells/conjuration-03-mwPfoYfVGSMAaUec.htm)|Cozy Cabin|Cabine douillette|libre|
 |[conjuration-03-tFKJCPvOQZxKq6ON.htm](spells/conjuration-03-tFKJCPvOQZxKq6ON.htm)|Mad Monkeys|Singes fous|libre|
+|[conjuration-03-u3G7KX1qpFJlSeWm.htm](spells/conjuration-03-u3G7KX1qpFJlSeWm.htm)|Owb Pact|Pacte des Owb|libre|
 |[conjuration-03-uuoPmbjEtqzWZs0v.htm](spells/conjuration-03-uuoPmbjEtqzWZs0v.htm)|Unseen Custodians|Domestiques invisibles|libre|
 |[conjuration-04-Az3PmWnlWSb5ELX9.htm](spells/conjuration-04-Az3PmWnlWSb5ELX9.htm)|Abundant Step|Pas chassé|officielle|
 |[conjuration-04-iMmexY6ZosLS4I5R.htm](spells/conjuration-04-iMmexY6ZosLS4I5R.htm)|Door to Beyond|Porte vers l'au-delà|libre|
@@ -600,6 +597,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-05-R9xqCBblkS5KE4y7.htm](spells/divination-05-R9xqCBblkS5KE4y7.htm)|Sending|Communication à distance|officielle|
 |[divination-05-SwUiVavHKMWG7t5K.htm](spells/divination-05-SwUiVavHKMWG7t5K.htm)|Tongues|Don des langues|officielle|
 |[divination-05-tj86Rnq3QuQnDtG3.htm](spells/divination-05-tj86Rnq3QuQnDtG3.htm)|Hunter's Vision|Vision du chasseur|libre|
+|[divination-05-zaZieDHguhahmM2z.htm](spells/divination-05-zaZieDHguhahmM2z.htm)|Waters of Prediction|Eaux de prédiction|libre|
 |[divination-06-l4LFwY7iuzX6sDXr.htm](spells/divination-06-l4LFwY7iuzX6sDXr.htm)|Commune with Nature|Communion avec la nature|officielle|
 |[divination-06-r784cIz17eWujtQj.htm](spells/divination-06-r784cIz17eWujtQj.htm)|Scrying|Scrutation|officielle|
 |[divination-06-UJmKPm1FC6pf6txP.htm](spells/divination-06-UJmKPm1FC6pf6txP.htm)|Halcyon Infusion|Infusion paisible|libre|
@@ -637,6 +635,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-03-yM3KTTSAIHhyuP14.htm](spells/enchantment-03-yM3KTTSAIHhyuP14.htm)|Dream Message|Message onirique|officielle|
 |[enchantment-04-4DaHIgtMBTyxebY3.htm](spells/enchantment-04-4DaHIgtMBTyxebY3.htm)|Commanding Lash|Fouet du maître|officielle|
 |[enchantment-04-APDrC83QljsyHenB.htm](spells/enchantment-04-APDrC83QljsyHenB.htm)|Savant's Curse|Malédiction du savant|libre|
+|[enchantment-04-CPNlhDQP3aDmLzB3.htm](spells/enchantment-04-CPNlhDQP3aDmLzB3.htm)|Ordained Purpose|Résolution sacrée|libre|
 |[enchantment-04-dARE6VfJ3Uoq5M53.htm](spells/enchantment-04-dARE6VfJ3Uoq5M53.htm)|Daydreamer's Curse|Malédiction du rêveur éveillé|libre|
 |[enchantment-04-i7u6gAdNcyIyyo3h.htm](spells/enchantment-04-i7u6gAdNcyIyyo3h.htm)|Favorable Review|Critique favorable|libre|
 |[enchantment-04-I8CPe9Pp7GABqOyB.htm](spells/enchantment-04-I8CPe9Pp7GABqOyB.htm)|Zeal for Battle|Zèle au combat|officielle|
@@ -853,6 +852,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-01-gwOYh5zMVZB0HNcT.htm](spells/transmutation-01-gwOYh5zMVZB0HNcT.htm)|Unimpeded Stride|Déplacement sans réserve|officielle|
 |[transmutation-01-i8PBZsnoCrK7IWph.htm](spells/transmutation-01-i8PBZsnoCrK7IWph.htm)|Tentacular Limbs|Membres tentaculaires|officielle|
 |[transmutation-01-ifXNOhtmU4fKL68v.htm](spells/transmutation-01-ifXNOhtmU4fKL68v.htm)|Redact|Corriger|libre|
+|[transmutation-01-lXxP1ziyf4ozkpmv.htm](spells/transmutation-01-lXxP1ziyf4ozkpmv.htm)|Split the Tongue|Langue bifide|libre|
 |[transmutation-01-nnSipUPNd3sm5vYL.htm](spells/transmutation-01-nnSipUPNd3sm5vYL.htm)|Vibrant Thorns|Épines florissantes|officielle|
 |[transmutation-01-Q7QQ91vQtyi1Ux36.htm](spells/transmutation-01-Q7QQ91vQtyi1Ux36.htm)|Jump|Saut|officielle|
 |[transmutation-01-rVANhQgB8Uqi9PTl.htm](spells/transmutation-01-rVANhQgB8Uqi9PTl.htm)|Animate Rope|Animation de corde|libre|
