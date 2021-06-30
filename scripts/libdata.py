@@ -26,6 +26,7 @@ SUPPORTED = {
     "archetypes": {'transl': "Archétypes", "paths": {'name': "name", 'desc': "content"}},
     "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
     "pathfinder-bestiary-2": {'transl': "Bestiaire 2", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
+    "pathfinder-bestiary-3": {'transl': "Bestiaire 3", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
     "hazards": {'transl': "Dangers", "paths": {'name': "name", 'desc': "data.details.description"}},
     # "age-of-ashes-bestiary":          { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
     # "extinction-curse-bestiary":      { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
@@ -355,15 +356,16 @@ def readFolder(path):
     # read all files in folder
     for fpath in all_files:
 
-        data = fileToData(path + fpath)
-        data['filename'] = fpath
+        if fpath[0] != ".":
+            data = fileToData(path + fpath)
+            data['filename'] = fpath
 
-        if data['id'] in resultById:
-            print_error("Duplicate data %s and %s, please fix it manually!" % (path + resultById[data['id']]['filename'], path + data['filename']))
-            has_errors = True
-        else:
-            resultById[data['id']] = data
-            resultByName[data['nameEN']] = data
+            if data['id'] in resultById:
+                print_error("Duplicate data %s and %s, please fix it manually!" % (path + resultById[data['id']]['filename'], path + data['filename']))
+                has_errors = True
+            else:
+                resultById[data['id']] = data
+                resultByName[data['nameEN']] = data
 
     return [resultById, resultByName, has_errors]
 
