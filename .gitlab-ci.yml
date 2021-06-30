@@ -27,6 +27,7 @@ prepare:
         paths:
             - packs/
             - data/
+            - scripts/translation.log
         expire_in: 20 minutes
 
 build:module:
