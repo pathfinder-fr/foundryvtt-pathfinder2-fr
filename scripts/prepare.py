@@ -160,6 +160,7 @@ for p in packs:
         if len(source['desc']) > 0:
           # Automatic translation
           logging.info("Translating %s" % name)
+          print("Translating %s" % name)
           translation_data = full_trad(driver, source['desc'])
           tradDesc = translation_data.data
           status = translation_data.status
