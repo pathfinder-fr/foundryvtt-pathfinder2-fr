@@ -1102,6 +1102,11 @@
             "description": "<p>Vous vous recouvrez d'os spirituels de dinosaure pour devenir un dinosaure Très Grand.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.KhM8MhoUgoUjBMIz]{Forme de dinosaure} au niveau 5 sur vous-même comme un sort inné primordial une fois par jour.</p>"
         },
         {
+            "id": "Shining Oath (Liberator)",
+            "name": "Shining Oath (Liberator)",
+            "description": "<p>Vous avez fait le serment de mettre un terme à l’existence des morts-vivants. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez mettre un terme à l’existence des morts-vivants que vous rencontrez si vous avez des chances raisonnables d’y parvenir. Dans le cas très peu probable où vous rencontrez un mort-vivant d’alignement bon, vous pouvez tenter de trouver une solution plus pacifique pour l’aider à le soigner de son état de mort-vivant au lieu de le détruire en combat. Vous pouvez l’aider à résoudre le problème qui l’empêche de trouver le repos éternel, par exemple. »</p>\n<p>Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu'il est déclenché par un mort-vivant, votre allié bénéficie d'un bonus de circonstances de +4 aux tests accordés par votre Pas libérateur et il peut ensuite @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faire un pas} deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.ZnKnOPPq3cG54PlG]{Effet : Pas libérateur (morts-vivants)}</p>\n<p>Vous ne considérez pas les morts-vivants comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent.</p>"
+        },
+        {
             "id": "True Shapeshifter",
             "name": "True Shapeshifter",
             "description": "<p>Vous transcendez les limites morphologiques. Lorsque vous êtes sous les effets de morphologie sauvage, vous pouvez adopter n’importe quelle autre forme parmi celles de votre morphologie sauvage ; si la durée des formes est différente, utilisez la plus courte des deux. Une fois par jour, vous pouvez vous transformer en kaiju, avec les effets d’une incarnation de la nature ; si vous avez Morphologie végétale, vous pouvez vous transformer à la place en homme végétal.</p>"
@@ -1249,7 +1254,7 @@
         {
             "id": "Final Form",
             "name": "Final Form",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous vous appropriez votre nature monstrueuse, hurlant votre rage, votre douleur et votre défi, aussi bien à la face du Paradis qu'à celle de l'Enfer. La réalité se déforme et se tord devant votre explosion soudaine de puissance — chaque Tieffelin possède une transformation unique, mais elle pourrait produire des flammes sulfureuses, des chœurs de cris ou des éclairs tordus et sinueux.</p>\n<p>Chaque créature qui se trouve à 3 mètres de vous est @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} et @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} pendant 1 round à moins qu'elle ne réussise un jet de Vigueur contre le plus élevé entre votre DD de classe ou votre DD de sort.</p>\n<p>Votre forme finale possède les effets de @Compendium[pf2e.spells-srd.hiVL8qsnTJtpouw0]{Réceptacle divin} pour une divinité qui partage un alignement avec votre lignage fiélon. Votre forme finale ressemble à une créature de votre lignage fiélon et vous restez sous cette forme pendant 1 minute. Tant que vous êtes sous cette forme finale, vous pouvez lancer les sorts innés divins @Compendium[pf2e.spells-srd.sRfSBHWHdbIa0aGc]{Ténèbres glaciales}, @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Boule de feu} et @Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Éclair} au niveau 6, chacun une fois pendant l'utilisation de ce don.</p>\n<p>Lorsque vous émergez de votre forme finale, vous êtes @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 3. De plus, si vous avez ce don, vous obtenez une faiblesse 10 au bien même lorsque vous n'êtes pas sous forme finale et vous subissez les dégâts bons même si vous n'êtes pas mauvais.</p>\n<hr />\n<p><strong>Spécial</strong> À la discrétion du MJ, les éléments spécifiques de ce don peuvent être ajustés pour mieux correspondre au lignage Tieffelin — par exemple, un MJ pourrait décider qu'un tieffelin bête éduquée particulier pourrait lancer un sort d'@Compendium[pf2e.spells-srd.tlcrVRqW1MSKJ5IC]{Assassin imaginaire} au niveau 6 au lieu d'une boule de feu.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous vous appropriez votre nature monstrueuse, hurlant votre rage, votre douleur et de défi, aussi bien à la face du Paradis qu'à celle de l'Enfer. La réalité se déforme et se tord devant l'explosion soudaine de votre puissance — chaque Tieffelin possède une transformation uniqueet elle pourrait par exemple inclure des flammes sulfureuses, des chœurs de cris ou des éclairs tordus et sinueux.</p>\n<p>Chaque créature qui se trouve à 3 mètres de vous est @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} et @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} pendant 1 round à moins qu'elle ne réussise un jet de Vigueur contre le plus élevé entre votre DD de classe et votre DD de sort.</p>\n<p>Votre forme finale possède les effets de @Compendium[pf2e.spells-srd.hiVL8qsnTJtpouw0]{Réceptacle divin} pour une divinité qui partage un alignement avec votre lignage fiélon. Votre forme finale ressemble à une créature de votre lignage fiélon et vous restez sous cette forme pendant 1 minute. Tant que vous êtes sous cette forme finale, vous pouvez lancer les sorts innés divins @Compendium[pf2e.spells-srd.sRfSBHWHdbIa0aGc]{Ténèbres glaciales}, @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Boule de feu} et @Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Éclair} au niveau 6, chacun une fois pendant l'utilisation de ce don.</p>\n<p>Lorsque vous émergez de votre forme finale, vous êtes @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 3.</p>\n<p>De plus, si vous avez ce don, vous obtenez une faiblesse 10 au bien même lorsque vous n'êtes pas sous forme finale. Vous subissez les dégâts bons même si vous n'êtes pas mauvais.</p>\n<hr />\n<p><strong>Spécial</strong> À la discrétion du MJ, les éléments spécifiques de ce don peuvent être ajustés pour mieux correspondre au lignage Tieffelin — par exemple, un MJ pourrait décider qu'un tieffelin bête éduquée particulier peut lancer un sort d'@Compendium[pf2e.spells-srd.tlcrVRqW1MSKJ5IC]{Assassin imaginaire} au niveau 6 au lieu de Boule de feu.</p>"
         },
         {
             "id": "Arcane Evolution",
@@ -4210,6 +4215,11 @@
             "id": "Earthsense",
             "name": "Earthsense",
             "description": "<p>Votre lien avec la terre et la pierre vous permet de sentir le plus léger des déplacements qui les affecte, jusqu'au frottement d'un galet. Vous obtenez Perception des vibrations comme un sens imprécis avec une portée de 9 m.</p>"
+        },
+        {
+            "id": "Shining Oath (Paladin)",
+            "name": "Shining Oath (Paladin)",
+            "description": "<p>Vous avez fait le serment de mettre un terme à l’existence des morts-vivants. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez mettre un terme à l’existence des morts-vivants que vous rencontrez si vous avez des chances raisonnables d’y parvenir. Dans le cas très peu probable où vous rencontrez un mort-vivant d’alignement bon, vous pouvez tenter de trouver une solution plus pacifique pour l’aider à le soigner de son état de mort-vivant au lieu de le détruire en combat. Vous pouvez l’aider à résoudre le problème qui l’empêche de trouver le repos éternel, par exemple. »</p>\n<p>Votre @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Frappe punitive} bénéficie d'un bonus de circonstances de +4 aux dégâts contre un mort-vivant ou de +6 si vous êtes un maître avec l'arme que vous utilisez.</p>\n<p>Vous ne considérez pas les morts-vivants comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent.</p>"
         },
         {
             "id": "Mysterious Breadth",
@@ -11964,7 +11974,7 @@
         {
             "id": "Arcane Sense",
             "name": "Arcane Sense",
-            "description": "<p>Votre apprentissage de la magie vous permet de sentir instinctivement sa présence. Vous pouvez incanter détection de la magie niveau 1 à volonté comme si c’était un sort inné arcanique. Si vous êtes un maître en Arcanes, le sort est intensifié au niveau 3. Si vous êtes légendaire, il est intensifié au niveau 4.</p>"
+            "description": "<p>Votre apprentissage de la magie vous permet de sentir instinctivement sa présence. Vous pouvez incanter @Compendium[pf2e.actionspf2e.Yb0C1uLzeHrVLl7a]{Détection de la magie} au niveau 1 à volonté comme si c’était un sort inné arcanique. Si vous êtes un maître en Arcanes, le sort est intensifié au niveau 3. Si vous êtes légendaire, il est intensifié au niveau 4.</p>"
         },
         {
             "id": "Manifold Edge",
@@ -12905,6 +12915,11 @@
             "id": "Flinging Blow",
             "name": "Flinging Blow",
             "description": "<p>Vous prenez un moment pour vous recentrer vous-même, puis relâchez un coup puissant qui envoie valdinguer au loin votre cible.</p>\n<p>Faites une Frappe à mains nues. Si vous touchez, la cible doit réussir un jet de Vigueur contre votre DD de classe ou être repoussée à 3 m directement en arrière par rapport à vous (ou à 6 m en cas de coup critique) et se retrouver @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>\n<p>Si une autre créature ou objet physique vient faire obstacle à ce mouvement, votre cible comme l'objet ou la créature qui la bloquent subissent [[/r 1d6 #contondants]] dégâts contondants par tranche de 1,5 m de déplacement qui a été ainsi empêché.</p>"
+        },
+        {
+            "id": "Shining Oath (Redeemer)",
+            "name": "Shining Oath (Redeemer)",
+            "description": "<p>Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu'il est déclenché par un mort-vivant, votre allié bénéficie d'un bonus de circonstances de +4 aux tests accordés par votre Pas libérateur et l'allié peut @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faire un pas} deux fois par la suite.</p>\n<p>La résistance contre les dégâts d'un mort vivant que vous confère votre @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{Lueur de rédemption} est de 7 + votre niveau.</p>\n<p>Vous ne considérez pas les morts-vivants comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent.</p>"
         },
         {
             "id": "Swift Sneak",

@@ -1,28 +1,12 @@
 # État de la traduction (feats)
 
- * **libre**: 1765
- * **officielle**: 888
- * **changé**: 1
- * **auto-trad**: 3
+ * **libre**: 1766
+ * **officielle**: 891
 
 
-Dernière mise à jour: 2021-06-26 09:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-06-30 20:21 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions automatiques à corriger/retraduire
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[class-02-CcQISNjNdD0Fsj9n.htm](feats/class-02-CcQISNjNdD0Fsj9n.htm)|Shining Oath (Paladin)|auto-trad|
-|[class-02-lDfOzhKJoTCkLPtn.htm](feats/class-02-lDfOzhKJoTCkLPtn.htm)|Shining Oath (Liberator)|auto-trad|
-|[class-02-tdtCwmYoBMKzfhEp.htm](feats/class-02-tdtCwmYoBMKzfhEp.htm)|Shining Oath (Redeemer)|auto-trad|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[ancestry-17-xXaKiJbKhClF5eJx.htm](feats/ancestry-17-xXaKiJbKhClF5eJx.htm)|Final Form|Forme finale|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -833,6 +817,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-17-wfOGyLnuVMFo7Rwy.htm](feats/ancestry-17-wfOGyLnuVMFo7Rwy.htm)|Boneyard's Call|Appel du Cimetière|libre|
 |[ancestry-17-wFtJlamwRc6rSQmj.htm](feats/ancestry-17-wFtJlamwRc6rSQmj.htm)|Scion Transformation|Transformation du rejeton|libre|
 |[ancestry-17-WZC2XXQo6Pu2GQeo.htm](feats/ancestry-17-WZC2XXQo6Pu2GQeo.htm)|Soaring Form|Forme brûlante|libre|
+|[ancestry-17-xXaKiJbKhClF5eJx.htm](feats/ancestry-17-xXaKiJbKhClF5eJx.htm)|Final Form|Forme finale|libre|
 |[ancestry-17-Zl6vDXJEM7Lbp8JQ.htm](feats/ancestry-17-Zl6vDXJEM7Lbp8JQ.htm)|Rampaging Form|Forme Destructrice|libre|
 |[ancestry-17-ZOlwVqWa4hfv44xX.htm](feats/ancestry-17-ZOlwVqWa4hfv44xX.htm)|Hero's Wings|Ailes du héros|libre|
 |[archetype-02-0icxuITlxUBfeomX.htm](feats/archetype-02-0icxuITlxUBfeomX.htm)|Turpin Rowe Lumberjack Dedication|Dévouement de Bûcheron de Turpin Rowe|libre|
@@ -1579,6 +1564,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-02-bRftzbFvSF1pilIo.htm](feats/class-02-bRftzbFvSF1pilIo.htm)|Anoint Ally|Oindre un allié|libre|
 |[class-02-BU4NBIBkVZxdWLLH.htm](feats/class-02-BU4NBIBkVZxdWLLH.htm)|Elemental Fist|Poing élémentaire|officielle|
 |[class-02-c2h9Z8exSFhraJ8j.htm](feats/class-02-c2h9Z8exSFhraJ8j.htm)|Esoteric Oath (Paladin)|Serment ésotérique (Paladin)|libre|
+|[class-02-CcQISNjNdD0Fsj9n.htm](feats/class-02-CcQISNjNdD0Fsj9n.htm)|Shining Oath (Paladin)|Serment de lumière (Paladin)|officielle|
 |[class-02-D1o7GUraoFFzjaub.htm](feats/class-02-D1o7GUraoFFzjaub.htm)|Clever Gambit|Manœuvre intelligente|libre|
 |[class-02-dF1HR6TqyMz03o6F.htm](feats/class-02-dF1HR6TqyMz03o6F.htm)|Combat Grab|Empoignade en combat|officielle|
 |[class-02-dgmjiToPHC3Yf5I3.htm](feats/class-02-dgmjiToPHC3Yf5I3.htm)|Acute Scent|Odorat aiguisé|officielle|
@@ -1602,6 +1588,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-02-J3R0vx1lszU3CLp5.htm](feats/class-02-J3R0vx1lszU3CLp5.htm)|Fiendsbane Oath (Redeemer)|Serment du fléau des fiélons (Rédempteur)|libre|
 |[class-02-K3QkcNWY8qpNEJrk.htm](feats/class-02-K3QkcNWY8qpNEJrk.htm)|Dragonslayer Oath (Liberator)|Serment du pourfendeur de dragons (Libérateur)|libre|
 |[class-02-KCwXj3y7Nm4e3NbI.htm](feats/class-02-KCwXj3y7Nm4e3NbI.htm)|Demolition Charge|Explosion de démolition|libre|
+|[class-02-lDfOzhKJoTCkLPtn.htm](feats/class-02-lDfOzhKJoTCkLPtn.htm)|Shining Oath (Liberator)|Serment de lumière (Libérateur)|officielle|
 |[class-02-lIrPwGpJk9TldZ4c.htm](feats/class-02-lIrPwGpJk9TldZ4c.htm)|Snare Hopping|Piège artisanal bondissant|libre|
 |[class-02-lkcM4V3VDAtjlR9P.htm](feats/class-02-lkcM4V3VDAtjlR9P.htm)|Intimidating Strike|Frappe intimidante|officielle|
 |[class-02-lT8XlX1Ig900BblS.htm](feats/class-02-lT8XlX1Ig900BblS.htm)|No Escape|Pas d’échappatoire|officielle|
@@ -1622,6 +1609,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-02-rTkr1EqpAN6YtnAh.htm](feats/class-02-rTkr1EqpAN6YtnAh.htm)|Lunge|Fente|officielle|
 |[class-02-sgo7J9BVofBqwlsF.htm](feats/class-02-sgo7J9BVofBqwlsF.htm)|Favored Terrain|Environnement de prédilection|officielle|
 |[class-02-sIeuPW0j39fTZm08.htm](feats/class-02-sIeuPW0j39fTZm08.htm)|Conceal Spell|Sort dissimulé|officielle|
+|[class-02-tdtCwmYoBMKzfhEp.htm](feats/class-02-tdtCwmYoBMKzfhEp.htm)|Shining Oath (Redeemer)|Serment de lumière (Rédempteur)|officielle|
 |[class-02-TiNlehXIDEnIl95M.htm](feats/class-02-TiNlehXIDEnIl95M.htm)|Sap Life|Saper la vie|officielle|
 |[class-02-tJduF6N83l5khRow.htm](feats/class-02-tJduF6N83l5khRow.htm)|Divine Grace|Grâce divine|officielle|
 |[class-02-Tu1hOEr6Ko9Df54L.htm](feats/class-02-Tu1hOEr6Ko9Df54L.htm)|Athletic Strategist|Stratège athlétique|libre|
@@ -2562,7 +2550,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[skill-01-Ws9JlysHcFoz6WAQ.htm](feats/skill-01-Ws9JlysHcFoz6WAQ.htm)|Forensic Acumen|Perspicacité forensique|libre|
 |[skill-01-wYerMk6F1RZb0Fwt.htm](feats/skill-01-wYerMk6F1RZb0Fwt.htm)|Battle Medicine|Médecine militaire|libre|
 |[skill-01-X2jGFfLU5qI5XVot.htm](feats/skill-01-X2jGFfLU5qI5XVot.htm)|Streetwise|Savoir urbain|officielle|
-|[skill-01-x7EMZNMavris2aHY.htm](feats/skill-01-x7EMZNMavris2aHY.htm)|Student of the Canon|Etudiant du droit canon|officielle|
+|[skill-01-x7EMZNMavris2aHY.htm](feats/skill-01-x7EMZNMavris2aHY.htm)|Student of the Canon|Étudiant du droit canon|officielle|
 |[skill-01-xqAdXRd2gSQcqp5E.htm](feats/skill-01-xqAdXRd2gSQcqp5E.htm)|Impressive Performance|Représentation impressionnante|officielle|
 |[skill-01-xQMz6eDgX75WX2ce.htm](feats/skill-01-xQMz6eDgX75WX2ce.htm)|Intimidating Glare|Regard intimidant|officielle|
 |[skill-01-XVnpntqV6w94PoOb.htm](feats/skill-01-XVnpntqV6w94PoOb.htm)|Specialty Crafting (Alchemy)|Artisanat spécialisé (Alchimie)|officielle|

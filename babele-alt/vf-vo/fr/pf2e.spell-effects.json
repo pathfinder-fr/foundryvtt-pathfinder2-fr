@@ -2,9 +2,44 @@
     "label": "Effets des sorts",
     "entries": [
         {
+            "id": "Spell Effect: Safeguard Secret",
+            "name": "Effet : Secret bien gardé (Spell Effect: Safeguard Secret)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.OsrtOeG0TvDNnEFH]{Secret bien gardé}.</p>\n<p>Les cibles gagnent un bonus d'état de +4 aux tests de compétence (généralement des tests de Duperie) pour dissimuler ces connaissances et aux jets de sauvegarde contre les sorts qui tentent spécifiquement de leur soutirer ces connaissances et les effets qui les forceraient à les révéler.</p>"
+        },
+        {
+            "id": "Spell Effect: Font of Serenity",
+            "name": "Effet : Source de sérénité (Spell Effect: Font of Serenity)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.yY1H5zhO5dHmD8lz]{Source de sérénité}.</p>\n<p>Les alliés dans la zone gagnent un bonus de +1 aux jets de sauvegarde contre les effets d'émotion</p>\n<hr />\n<p><strong>Intensifié (+4)</strong> Le bonus augmente de 1.</p>"
+        },
+        {
+            "id": "Spell Effect: Inspire Defense",
+            "name": "Effet : Inspiration défensive (Spell Effect: Inspire Defense)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{Inspiration défensive}</p>\n<p>Vous inspirez vos alliés à se protéger plus efficacement. Vous et tous les alliés de la zone gagnez un bonus de statut de +1 à la CA et aux jets de sauvegarde, ainsi qu'une résistance égale à la moitié du niveau du sort aux dégâts physiques</p>\n<p>Remarque : la résistance n'est pas automatiquement ajoutée.</p>"
+        },
+        {
+            "id": "Spell Effect: Protective Ward",
+            "name": "Effet : Champ protecteur (Spell Effect: Protective Ward)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.lY9fOk1qBDDhBT8s]{Champ protecteur}</p>\n<p>Vous émettez une aura chatoyante de magie protectrice. Vous et tous les alliés dans la zone gagnez un bonus de statut de +1 à la CA. Chaque fois que vous @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Soutenir le sort}, le rayon de l'émanation'augmente de 1,5 mètres, jusqu'à un maximum de 9 mètres.</p>"
+        },
+        {
+            "id": "Spell Effect: Death Ward",
+            "name": "Effet : Protection contre la mort (Spell Effect: Death Ward)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.YvXKGlHOt7mdW2jZ]{Protection contre la mort}.</p>\n<p>Vous êtes protégé de l'énergie négative. Vous bénéficiez d'un bonus de +4 aux sauvegardes contre la mort et les effets négatifs</p>"
+        },
+        {
+            "id": "Spell Effect: Tanglefoot",
+            "name": "Effet : Entrave (Spell Effect: Tanglefoot)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.uZK2BYzPnxUBnDjr]{Entrave}.</p>\nLes lianes entravent vos mouvements, vous subissez une pénalité de circonstance de -3 mètres à vos Vitesses</p>\n<hr />\n<p><em>Remarque : la durée doit être augmentée à 2 rounds lorsque le sort est renforcé au Niveau 2, et à 1 minute lorsque le sort est renforcé au Niveau 4.</em></p>"
+        },
+        {
             "id": "Spell Effect: Mage Armor",
             "name": "Effet : Armure du mage (Spell Effect: Mage Armor)",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Armure de mage}</p>\n<p>Effets pris en compte :</p>\n<ul>\n<li>bonus d'objet de +1 à la CA</li>\n<li>modificateur de Dextérité maximum de +5</li>\n<li>Maîtrise sans armure pour calculer votre CA</li>\n</ul>"
+        },
+        {
+            "id": "Spell Effect: Protection from Evil",
+            "name": "Effet : Protection du Mal (Spell Effect: Protection from Evil)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.gMODOGamz88rgHuf]{Protection} lorsqu'il est lancé contre des créatures maléfiques.</p>\n<p>La cible bénéficie d'un bonus d'état de +1 à sa classe d'armure et à ses jets de sauvegarde contre les créatures et les effets de l'alignement choisi.</p>\np>Ce bonus passe à +3 contre les effets de ces créatures qui contrôleraient directement la cible et contre les attaques des créatures invoquées de l'alignement choisi</p>"
         },
         {
             "id": "Spell Effect: Inspire Courage",
@@ -12,9 +47,34 @@
             "description": "<p>Accordé par  @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspiration Vaillante}</p>\n<p>Effet pris en compte :\n<ul>\n<li>bonus de statut de +1 aux jets d'attaque</li>\n<li>bonus de statut de +1 aux jets de dégâts</li>\n<li>bonus de statut de +1 aux jets de sauvegarde contre les effets de terreur</li>\n</ul>"
         },
         {
+            "id": "Spell Effect: Protection from Lawful",
+            "name": "Effet : Protection du Loyal (Spell Effect: Protection from Lawful)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.gMODOGamz88rgHuf]{Protection} lorsqu'il est lancé contre des créatures licites.</p>\nLa cible bénéficie d'un bonus d'état de +1 à sa classe d'armure et à ses jets de sauvegarde contre les créatures et les effets de l'alignement choisi</p>\n<p>Ce bonus passe à +3 contre les effets de ces créatures qui contrôleraient directement la cible et contre les attaques des créatures invoquées de l'alignement choisi</p>"
+        },
+        {
             "id": "Spell Effect: Shield",
             "name": "Effet : Bouclier (Spell Effect: Shield)",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Bouclier}</p>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de circonstances de +1 à la CA</li>\n</ul>"
+        },
+        {
+            "id": "Spell Effect: Bane",
+            "name": "Effet : Imprécation (Spell Effect: Bane)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.7ZinJNzxq0XF0oMx]{Imprécation}.</p>\n<p>Le doute envahit votre esprit. Vous subissez une pénalité d'état de -1 aux jets d'attaque tant que vous vous trouvez dans la zone de l'Imprécation.</p>"
+        },
+        {
+            "id": "Spell Effect: Protection from Chaotic",
+            "name": "Effet : Protection du Chaos (Spell Effect: Protection from Chaotic)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.gMODOGamz88rgHuf]{Protection} lorsqu'il est lancé contre des créatures chaotiques.</p>\n<p>La cible bénéficie d'un bonus d'état de +1 à sa classe d'armure et à ses jets de sauvegarde contre les créatures et les effets de l'alignement choisi.</p>\n<p>Ce bonus passe à +3 contre les effets de ces créatures qui contrôleraient directement la cible et contre les attaques des créatures invoquées de l'alignement choisi</p>"
+        },
+        {
+            "id": "Spell Effect: Song of Strength",
+            "name": "Chanson de force (Spell Effect: Song of Strength)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.Xxdwkt0EEDgP1LGc]{Chanson de force}</p>\n<p>Vous renforcez la force physique de vos alliés avec une exhortation chaleureuse. Vous et vos alliés gagnez un bonus d'état de +1 aux tests d'Athlétisme et à leurs DCs contre les actions de compétences d'Athlétisme telles que Désarmer, Pousser et Croc-en-jambes.</p>\n<p>Note : le bonus aux DC n'est pas automatiquement ajouté.</p>"
+        },
+        {
+            "id": "Spell Effect: Object Memory (Weapon)",
+            "name": "Effet : Mémoire de l'objet (arme ou outil) (Spell Effect: Object Memory (Weapon))",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.RztmhJrLLQWoGVdB]{Mémoire d'objet}.</p>\n<p>Si vous touchez une arme, votre rang de compétence avec cette arme passe temporairement à entraîné (s'il n'est pas déjà plus élevé).</p>\n<hr />\n<p><strong>Intensifié (6e)</strong> Votre rang de compétence passe à expert au lieu de formé.</p>"
         },
         {
             "id": "Spell Effect: Guidance",
@@ -22,9 +82,34 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.izcxFQFwf3woCnFs]{Assistance divine}</p>\n<p>Effet appliqué :</p>\n<ul>\n<li>bonus de statut de +1 à un jet d'attaque, un test de Perception, un jet de sauvegarde ou un jet de compétence.</li>\n</ul>"
         },
         {
+            "id": "Spell Effect: Vision of Weakness",
+            "name": "Effet : Vision de faiblesse (Spell Effect: Vision of Weakness)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.NhNKzq1DvFxkvTEc]{Vision de faiblesse}</p>"
+        },
+        {
+            "id": "Spell Effect: Magic Hide",
+            "name": "Effet : Peau magique (Spell Effect: Magic Hide)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.u2uSeH6YSbK1ajTy]{Peau magique}</p>"
+        },
+        {
+            "id": "Spell Effect: Tempt Fate",
+            "name": "Effet : Tenter le sort (Spell Effect: Tempt Fate)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.GqvKSxzN7A7kuFk4]{Tenter le sort}.</p>\n<p>La cible bénéficie d'un bonus d'état de +1 au jet de sauvegarde qui se déclenche.</p>\n<p>Si le résultat du jet de sauvegarde'est un succès, il devient un succès critique. Si c'est un échec, il devient un échec critique, et cet échec critique ne peut pas être réduit par les capacités qui réduisent habituellement les échecs critiques, comme l'évasion améliorée. </p>\n<hr />\n<p><strong>Intensifié (8e)</strong> Le bonus au jet de sauvegarde est de +2.</p>"
+        },
+        {
+            "id": "Spell Effect: Protection from Good",
+            "name": "Effet : Protection du Bien (Spell Effect: Protection from Good)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.gMODOGamz88rgHuf]{Protection} lorsqu'il est lancé contre des créatures bonnes.</p>\n<p>La cible bénéficie d'un bonus d'état de +1 à sa classe d'armure et à ses jets de sauvegarde contre les créatures et les effets de l'alignement choisi.</p>\n<p>Ce bonus passe à +3 contre les effets de ces créatures qui contrôleraient directement la cible et contre les attaques des créatures invoquées de l'alignement choisi.</p>"
+        },
+        {
             "id": "Spell Effect: Bless",
             "name": "Effet de sort : Bénédiction (Spell Effect: Bless)",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bénédiction}</p>\n<hr>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de statut de +1 aux jets d'attaque.</li>\n</ul>"
+        },
+        {
+            "id": "Spell Effect: Dutiful Challenge",
+            "name": "Effet : Défi respectueux (Spell Effect: Dutiful Challenge)",
+            "description": "Accordé par @Compendium[pf2e.spells-srd.caehfpQz7yp9yNzz]{Défi respectueux}</p>"
         }
     ],
     "mapping": {}

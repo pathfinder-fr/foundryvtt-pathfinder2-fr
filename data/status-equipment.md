@@ -1,13 +1,12 @@
 # État de la traduction (equipment)
 
- * **officielle**: 971
- * **libre**: 800
+ * **officielle**: 980
+ * **libre**: 803
  * **vide**: 1
  * **auto-trad**: 2
- * **changé**: 12
 
 
-Dernière mise à jour: 2021-06-26 09:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-06-30 20:21 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -16,23 +15,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|:----:|
 |[equipment-00-xuTO0Lbu999HnBhK.htm](equipment/equipment-00-xuTO0Lbu999HnBhK.htm)|Sovereign Steel Ingot|auto-trad|
 |[equipment-09-yAqGhT0GuZrkvWZl.htm](equipment/equipment-09-yAqGhT0GuZrkvWZl.htm)|Crimson Fulcrum Lens|auto-trad|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[weapon-00-UfurZQK6H6SgOjqe.htm](equipment/weapon-00-UfurZQK6H6SgOjqe.htm)|Ranseur|Corsèque|changé|
-|[weapon-12-FTVap8IjoKgCexH7.htm](equipment/weapon-12-FTVap8IjoKgCexH7.htm)|Staff of Healing (Major)|Bâton de guérison (majeur)|changé|
-|[weapon-12-Oo7IpJQDSTmzUyzG.htm](equipment/weapon-12-Oo7IpJQDSTmzUyzG.htm)|Animal Staff (Major)|Bâton animal (majeur)|changé|
-|[weapon-12-qx4Cq99vng6GhzEh.htm](equipment/weapon-12-qx4Cq99vng6GhzEh.htm)|Staff of Fire (Major)|Bâton de feu (majeur)|changé|
-|[weapon-12-ylRk8NvpK2kA8bjw.htm](equipment/weapon-12-ylRk8NvpK2kA8bjw.htm)|Verdant Staff (Greater)|Bâton verdoyant (supérieur)|changé|
-|[weapon-13-G3a60Ug3YNCMyMVR.htm](equipment/weapon-13-G3a60Ug3YNCMyMVR.htm)|Flame Tongue|Épée ardente|changé|
-|[weapon-13-kSLHMQjKL77CtvBx.htm](equipment/weapon-13-kSLHMQjKL77CtvBx.htm)|Anchor Spear|Lance-ancre|changé|
-|[weapon-13-XK4DM8wOtcuOsji6.htm](equipment/weapon-13-XK4DM8wOtcuOsji6.htm)|Dwarven Thrower|Marteau de lancer nain|changé|
-|[weapon-13-ZuyzSxmg4QdnZqLy.htm](equipment/weapon-13-ZuyzSxmg4QdnZqLy.htm)|Ankylostar|Ankylostern|changé|
-|[weapon-14-gG4IUEzqD253s7nx.htm](equipment/weapon-14-gG4IUEzqD253s7nx.htm)|Staff of Illusion (Major)|Bâton d'illusion majeur|changé|
-|[weapon-14-GlyiVrIokFpFFRu2.htm](equipment/weapon-14-GlyiVrIokFpFFRu2.htm)|Staff of Transmutation (Major)|Bâton de transmutation (majeur)|changé|
-|[weapon-20-nI9shR1EG3P09I8r.htm](equipment/weapon-20-nI9shR1EG3P09I8r.htm)|Staff of the Magi|Bâton du mage|changé|
 
 ## Liste des éléments vides ne pouvant pas être traduits
 
@@ -1612,6 +1594,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-00-u2u6dkr01AB34tyA.htm](equipment/weapon-00-u2u6dkr01AB34tyA.htm)|Sai|Saï|officielle|
 |[weapon-00-UCH4myuFnokGv0vF.htm](equipment/weapon-00-UCH4myuFnokGv0vF.htm)|Sling|Fronde|officielle|
 |[weapon-00-UcLqR32mNaGdNkUk.htm](equipment/weapon-00-UcLqR32mNaGdNkUk.htm)|Fist|Poing|libre|
+|[weapon-00-UfurZQK6H6SgOjqe.htm](equipment/weapon-00-UfurZQK6H6SgOjqe.htm)|Ranseur|Corsèque|officielle|
 |[weapon-00-uM0OlCC1Sh6OLdNn.htm](equipment/weapon-00-uM0OlCC1Sh6OLdNn.htm)|Throwing Knife|Couteau de lancer|libre|
 |[weapon-00-UX71GkWBL9g41VwM.htm](equipment/weapon-00-UX71GkWBL9g41VwM.htm)|Greatsword|Épée à deux mains|officielle|
 |[weapon-00-UXjKXqsfWYiayeMD.htm](equipment/weapon-00-UXjKXqsfWYiayeMD.htm)|Scorpion Whip|Fouet scorpion|libre|
@@ -1758,11 +1741,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-12-3oexArva2aEm69WV.htm](equipment/weapon-12-3oexArva2aEm69WV.htm)|Four-Ways Dogslicer|Tranchechien quadruple|libre|
 |[weapon-12-DTIBj6Yhy73G5P6j.htm](equipment/weapon-12-DTIBj6Yhy73G5P6j.htm)|Mentalist's Staff (Major)|Bâton du mentaliste (majeur)|officielle|
 |[weapon-12-ED3By5mICaJeiQYo.htm](equipment/weapon-12-ED3By5mICaJeiQYo.htm)|Staff of the Black Desert|Bâton du désert noir|libre|
+|[weapon-12-FTVap8IjoKgCexH7.htm](equipment/weapon-12-FTVap8IjoKgCexH7.htm)|Staff of Healing (Major)|Bâton de guérison (majeur)|officielle|
 |[weapon-12-ivaL0xt33k6QNwQK.htm](equipment/weapon-12-ivaL0xt33k6QNwQK.htm)|Crystal Shards (Greater)|Éclats de cristal (supérieur)|libre|
 |[weapon-12-KxSyomQx7rpwqemP.htm](equipment/weapon-12-KxSyomQx7rpwqemP.htm)|Staff of Impossible Visions (Greater)|Bâton de visions impossibles supérieur|libre|
+|[weapon-12-Oo7IpJQDSTmzUyzG.htm](equipment/weapon-12-Oo7IpJQDSTmzUyzG.htm)|Animal Staff (Major)|Bâton animal (majeur)|officielle|
+|[weapon-12-qx4Cq99vng6GhzEh.htm](equipment/weapon-12-qx4Cq99vng6GhzEh.htm)|Staff of Fire (Major)|Bâton de feu (majeur)|officielle|
 |[weapon-12-wWBi79jkzYGWD6uC.htm](equipment/weapon-12-wWBi79jkzYGWD6uC.htm)|Ringmaster's Staff (Greater)|Bâton de maître de cérémonie supérieur|libre|
+|[weapon-12-ylRk8NvpK2kA8bjw.htm](equipment/weapon-12-ylRk8NvpK2kA8bjw.htm)|Verdant Staff (Greater)|Bâton verdoyant (supérieur)|officielle|
+|[weapon-13-G3a60Ug3YNCMyMVR.htm](equipment/weapon-13-G3a60Ug3YNCMyMVR.htm)|Flame Tongue|Épée ardente|officielle|
+|[weapon-13-kSLHMQjKL77CtvBx.htm](equipment/weapon-13-kSLHMQjKL77CtvBx.htm)|Anchor Spear|Lance-ancre|libre|
+|[weapon-13-XK4DM8wOtcuOsji6.htm](equipment/weapon-13-XK4DM8wOtcuOsji6.htm)|Dwarven Thrower|Marteau de lancer nain|officielle|
+|[weapon-13-ZuyzSxmg4QdnZqLy.htm](equipment/weapon-13-ZuyzSxmg4QdnZqLy.htm)|Ankylostar|Ankylostern|libre|
 |[weapon-14-7aLpTxRVmoNQTqvJ.htm](equipment/weapon-14-7aLpTxRVmoNQTqvJ.htm)|Staff of Conjuration (Major)|Bâton d'invocation (majeur)|officielle|
 |[weapon-14-gca5Pgt9Pg8G23VA.htm](equipment/weapon-14-gca5Pgt9Pg8G23VA.htm)|Staff of Nature's Vengeance (Greater)|Bâton de Vengeance de la nature (supérieur)|libre|
+|[weapon-14-gG4IUEzqD253s7nx.htm](equipment/weapon-14-gG4IUEzqD253s7nx.htm)|Staff of Illusion (Major)|Bâton d'illusion majeur|officielle|
+|[weapon-14-GlyiVrIokFpFFRu2.htm](equipment/weapon-14-GlyiVrIokFpFFRu2.htm)|Staff of Transmutation (Major)|Bâton de transmutation (majeur)|officielle|
 |[weapon-14-IIV5L4y8zLH17mAK.htm](equipment/weapon-14-IIV5L4y8zLH17mAK.htm)|Staff of Necromancy (Major)|Bâton de nécromancie (majeur)|officielle|
 |[weapon-14-J5It6yq3ZkN059zP.htm](equipment/weapon-14-J5It6yq3ZkN059zP.htm)|Glaive of the Artist|Glaive de l'artiste|libre|
 |[weapon-14-jE5H6jmDJEzxGvSP.htm](equipment/weapon-14-jE5H6jmDJEzxGvSP.htm)|Deepdread Claw|Griffe de l'érudit|libre|
@@ -1807,6 +1800,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-20-1glQQ63AeQOfQNvc.htm](equipment/weapon-20-1glQQ63AeQOfQNvc.htm)|Staff of Impossible Visions (True)|Bâton de visions impossibles ultime|libre|
 |[weapon-20-ANvbi1zKF1So8bON.htm](equipment/weapon-20-ANvbi1zKF1So8bON.htm)|Sky Hammer|Marteau céleste|officielle|
 |[weapon-20-dh4FEXlA0FxTfnpY.htm](equipment/weapon-20-dh4FEXlA0FxTfnpY.htm)|Staff of Sieges|Bâton de sièges|libre|
+|[weapon-20-nI9shR1EG3P09I8r.htm](equipment/weapon-20-nI9shR1EG3P09I8r.htm)|Staff of the Magi|Bâton du mage|libre|
 |[weapon-20-O6he0J7l1uQgsama.htm](equipment/weapon-20-O6he0J7l1uQgsama.htm)|Piereta|Piereta|libre|
 |[weapon-20-pIagOwW8EFBaKW3k.htm](equipment/weapon-20-pIagOwW8EFBaKW3k.htm)|Staff of Providence (True)|Bâton de la providence ultime|libre|
 |[weapon-20-YjaXxg9uQ02IbwLi.htm](equipment/weapon-20-YjaXxg9uQ02IbwLi.htm)|Orb Shard|Éclat d'orbe|libre|
