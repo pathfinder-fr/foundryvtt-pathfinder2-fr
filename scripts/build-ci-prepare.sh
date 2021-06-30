@@ -2,8 +2,10 @@
 
 set -e
 
-echo "Test stdout"
 chmod a+x test-ci.py
+echo "Test stdout python inline"
+python3 test-ci.py
+echo "Test stdout"
 ./test-ci.py
 
 echo "Extracting data and updating translation files"
