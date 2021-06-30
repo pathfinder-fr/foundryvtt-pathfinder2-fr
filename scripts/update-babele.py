@@ -33,7 +33,7 @@ translations = {}
 
 for p in packs:   
   
-  key = "%s.%s" % (p["pf2e"],p["name"])  
+  key = "%s.%s" % ("pf2e",p["name"])  
   translations[p["id"]] = []
   packName = p["transl"]
   
