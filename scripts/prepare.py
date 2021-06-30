@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+print('Starting imports')
 import json
 import yaml
 import os
