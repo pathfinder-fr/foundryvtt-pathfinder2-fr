@@ -2,5 +2,5 @@
 import time
 
 print("begin")
-time.sleep(360)
+time.sleep(36)
 print("end")
