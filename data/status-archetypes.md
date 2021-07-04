@@ -1,12 +1,12 @@
 # État de la traduction (archetypes)
 
  * **auto-trad**: 4
- * **changé**: 66
- * **libre**: 6
+ * **changé**: 65
+ * **libre**: 7
  * **officielle**: 2
 
 
-Dernière mise à jour: 2021-06-30 20:21 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-04 17:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -24,7 +24,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[2eAiIynDWTMKTGDU.htm](archetypes/2eAiIynDWTMKTGDU.htm)|Scrollmaster|Maître des parchemins|changé|
 |[2Wol7CpOBJjVT3aP.htm](archetypes/2Wol7CpOBJjVT3aP.htm)|Hellknight|Chevalier infernal|changé|
-|[3jceS1GfWcSQ3tMY.htm](archetypes/3jceS1GfWcSQ3tMY.htm)|Talisman Dabbler|Amateur de talismans|changé|
 |[4xzvjFVytFA0LIYj.htm](archetypes/4xzvjFVytFA0LIYj.htm)|Living Monolith|Monolithe vivant|changé|
 |[5cbEwgPLlMWGGVxN.htm](archetypes/5cbEwgPLlMWGGVxN.htm)|Dandy|Dandy|changé|
 |[5zILvODoiQC34tWU.htm](archetypes/5zILvODoiQC34tWU.htm)|Blessed One|Élu divin|changé|
@@ -94,6 +93,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[2TRqXfTtfMhTSIDY.htm](archetypes/2TRqXfTtfMhTSIDY.htm)|Ghost Hunter|Chasseur de Fantômes|libre|
+|[3jceS1GfWcSQ3tMY.htm](archetypes/3jceS1GfWcSQ3tMY.htm)|Talisman Dabbler|Amateur de talismans|libre|
 |[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|Médecin|libre|
 |[DeixUOfwL7Bruad5.htm](archetypes/DeixUOfwL7Bruad5.htm)|Red Mantis Assassin|Assassin des Mantes rouges|officielle|
 |[IdhIKSuKueYt6RsQ.htm](archetypes/IdhIKSuKueYt6RsQ.htm)|Eldritch Researcher|Chercheur mystique|libre|

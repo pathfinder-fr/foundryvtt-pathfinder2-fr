@@ -442,6 +442,11 @@
             "description": "<p>Vous avez grandi dans ou à proximité d'une université, une academie ou un autre centre d'apprentissage.</p>\n<p>Ajoutez Connaissance universitaire, Connaissance généalogique, Connaissance des bibliothèques et Connaissance du métier de scribe à vos options d'historique.</p>"
         },
         {
+            "id": "Kindly Witch",
+            "name": "Sorcière bienveillante",
+            "description": "<p>Ce personnage vous a présenté à une personne bienveillante mais solitaire, vivant loin des zones habitées et désireuse de partager son savoir. </p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.WC4xLBGmBsdOdHWu]{Médecine naturelle} à vos options d’historique.</p>"
+        },
+        {
             "id": "Skull",
             "name": "Crâne",
             "description": "<p>Vous devez immédiatement combattre une @Compendium[pf2e.pathfinder-bestiary.pkNWilK2pHZ5TDsd]{Mort inférieure}. Si vous êtes tué au cours du combat, vous ne pouvez jamais être ramené à la vie sauf par une divinité.</p>"

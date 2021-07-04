@@ -1,11 +1,11 @@
 # État de la traduction (gmg-srd)
 
- * **officielle**: 92
- * **auto-trad**: 5
+ * **officielle**: 93
+ * **auto-trad**: 4
  * **libre**: 1
 
 
-Dernière mise à jour: 2021-06-30 20:21 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-04 17:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -15,7 +15,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[652cIWAXc8zAxkac.htm](gmg-srd/652cIWAXc8zAxkac.htm)|Matter of Might|auto-trad|
 |[bRQz8uVlYtQ1cwwI.htm](gmg-srd/bRQz8uVlYtQ1cwwI.htm)|Wasteland Survivors|auto-trad|
 |[cD51eAUtbGlp5UKr.htm](gmg-srd/cD51eAUtbGlp5UKr.htm)|Slander|auto-trad|
-|[JHQI2skcksaLMPqA.htm](gmg-srd/JHQI2skcksaLMPqA.htm)|Kindly Witch|auto-trad|
 |[nsZ93vUEFucsLwRz.htm](gmg-srd/nsZ93vUEFucsLwRz.htm)|Privileged Position|auto-trad|
 
 ## Liste des traductions complétés
@@ -64,6 +63,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IJ3nFDu2YcoP6ynd.htm](gmg-srd/IJ3nFDu2YcoP6ynd.htm)|Throne|Trône|officielle|
 |[Ip6kSKGhl3XHQZ93.htm](gmg-srd/Ip6kSKGhl3XHQZ93.htm)|Robbed|Dépouillé|officielle|
 |[j9kx5CzfulaFTMOE.htm](gmg-srd/j9kx5CzfulaFTMOE.htm)|Academy Trained|Formation universitaire|officielle|
+|[JHQI2skcksaLMPqA.htm](gmg-srd/JHQI2skcksaLMPqA.htm)|Kindly Witch|Sorcière bienveillante|officielle|
 |[jtgfTYpcv4FFpWsL.htm](gmg-srd/jtgfTYpcv4FFpWsL.htm)|Died|Mort|officielle|
 |[jVh90bfsC6w6iVyy.htm](gmg-srd/jVh90bfsC6w6iVyy.htm)|Euryale (curse)|Euryale (malédiction)|officielle|
 |[KtkDaTrkBwwupKcE.htm](gmg-srd/KtkDaTrkBwwupKcE.htm)|The Wanderer|Le voyageur|officielle|
