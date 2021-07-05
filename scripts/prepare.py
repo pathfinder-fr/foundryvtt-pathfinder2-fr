@@ -78,7 +78,11 @@ for p in packs:
   # ==========================
   # read all available entries
   # ==========================
-  folderData = readFolder("%sdata/%s/" % (ROOT, pack_id))
+  folderPath = "%sdata/%s/" % (ROOT, pack_id)
+  if not os.path.isdir(folderPath):
+    os.mkdir(folderPath)
+
+  folderData = readFolder(folderPath)
   existing = folderData[0]
   existingByName = folderData[1]
   pack_has_errors = folderData[2]
