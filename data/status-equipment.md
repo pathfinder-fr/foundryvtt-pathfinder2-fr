@@ -1,19 +1,12 @@
 # État de la traduction (equipment)
 
  * **officielle**: 980
- * **libre**: 805
- * **auto-trad**: 1
+ * **libre**: 806
 
 
-Dernière mise à jour: 2021-07-04 17:22 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-05 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions automatiques à corriger/retraduire
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[equipment-00-xuTO0Lbu999HnBhK.htm](equipment/equipment-00-xuTO0Lbu999HnBhK.htm)|Sovereign Steel Ingot|auto-trad|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -776,6 +769,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-wvOYIeJjU3UDVgMG.htm](equipment/equipment-00-wvOYIeJjU3UDVgMG.htm)|Vial|Fiole|officielle|
 |[equipment-00-xE2CGurZp4eHc1Oc.htm](equipment/equipment-00-xE2CGurZp4eHc1Oc.htm)|Familiar Satchel|Sacoche de Familier|libre|
 |[equipment-00-xShIDyydOMkGvGNb.htm](equipment/equipment-00-xShIDyydOMkGvGNb.htm)|Chalk|Craie|officielle|
+|[equipment-00-xuTO0Lbu999HnBhK.htm](equipment/equipment-00-xuTO0Lbu999HnBhK.htm)|Sovereign Steel Ingot|Lingot d'acier souverain|libre|
 |[equipment-00-XV2EHt1RWHqzPeUT.htm](equipment/equipment-00-XV2EHt1RWHqzPeUT.htm)|Shield Sconce|Chandelle de bouclier|libre|
 |[equipment-00-y34yjumCFakrbtdw.htm](equipment/equipment-00-y34yjumCFakrbtdw.htm)|Artisan's Tools|Outils d'artisan|libre|
 |[equipment-00-Yf7maiRDmmHAyF82.htm](equipment/equipment-00-Yf7maiRDmmHAyF82.htm)|Cookware|Batterie de cuisine|officielle|

@@ -1,20 +1,17 @@
 # État de la traduction (spells)
 
- * **officielle**: 501
- * **libre**: 294
- * **changé**: 89
+ * **officielle**: 504
+ * **libre**: 296
+ * **changé**: 84
 
 
-Dernière mise à jour: 2021-07-04 17:22 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-05 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[divination-00-gpzpAAAJ1Lza2JVl.htm](spells/divination-00-gpzpAAAJ1Lza2JVl.htm)|Detect Magic|Détection de la magie|changé|
-|[enchantment-01-BRtKFk0PKfWIlCAB.htm](spells/enchantment-01-BRtKFk0PKfWIlCAB.htm)|Sweet Dream|Doux rêve|changé|
-|[enchantment-01-k2QrUk7jWMAWozMh.htm](spells/enchantment-01-k2QrUk7jWMAWozMh.htm)|Brain Drain|Drain du cerveau|changé|
 |[evocation-00-60sgbuMWN0268dB7.htm](spells/evocation-00-60sgbuMWN0268dB7.htm)|Telekinetic Projectile|Projectile télékinésique|changé|
 |[evocation-00-gISYsBFby1TiXfBt.htm](spells/evocation-00-gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|changé|
 |[evocation-00-O9w7r4BKgPogYDDe.htm](spells/evocation-00-O9w7r4BKgPogYDDe.htm)|Produce Flame|Flammes|changé|
@@ -22,11 +19,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-03-oo7YcRC2gcez81PV.htm](spells/evocation-03-oo7YcRC2gcez81PV.htm)|Ki Blast|Explosion Ki|changé|
 |[evocation-03-sRfSBHWHdbIa0aGc.htm](spells/evocation-03-sRfSBHWHdbIa0aGc.htm)|Chilling Darkness|Ténèbres glaciales|changé|
 |[evocation-03-X1b9ollVMSLXDN9o.htm](spells/evocation-03-X1b9ollVMSLXDN9o.htm)|Litany against Wrath|Litanie contre la colère|changé|
-|[evocation-04-IarZrgCeaiUqOuRu.htm](spells/evocation-04-IarZrgCeaiUqOuRu.htm)|Wall of Fire|Mur de feu|changé|
 |[evocation-08-BKIet436snMNcnez.htm](spells/evocation-08-BKIet436snMNcnez.htm)|Polar Ray|Rayon polaire|changé|
 |[necromancy-01-BH3sUerzMb2bWnv1.htm](spells/necromancy-01-BH3sUerzMb2bWnv1.htm)|Call of the Grave|Appel de la tombe|changé|
 |[necromancy-02-c3b6LdLlQDPngNIb.htm](spells/necromancy-02-c3b6LdLlQDPngNIb.htm)|Create Undead|Création de mort-vivant|changé|
-|[necromancy-02-oryfsRK27jAUnziw.htm](spells/necromancy-02-oryfsRK27jAUnziw.htm)|Imp Sting|Dard de diablotin|changé|
 |[necromancy-04-eexkxcqnkXazsGfK.htm](spells/necromancy-04-eexkxcqnkXazsGfK.htm)|Enervation|Affaiblissement|changé|
 |[necromancy-04-FM3SmEW8N1FCRjqt.htm](spells/necromancy-04-FM3SmEW8N1FCRjqt.htm)|Talking Corpse|Cadavre loquace|changé|
 |[necromancy-04-Jli9WBjQZ2MmKJ8y.htm](spells/necromancy-04-Jli9WBjQZ2MmKJ8y.htm)|Spiritual Anamnesis|Anamnèse spirituelle|changé|
@@ -296,6 +291,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-10-U13bC0tNgrlHoeTK.htm](spells/conjuration-10-U13bC0tNgrlHoeTK.htm)|Gate|Portail|officielle|
 |[divination-00-8bdt1TvNKzsCu9Ct.htm](spells/divination-00-8bdt1TvNKzsCu9Ct.htm)|Join Pasts|Joindre les passés|libre|
 |[divination-00-G0T1xv1FoZ23Jxvt.htm](spells/divination-00-G0T1xv1FoZ23Jxvt.htm)|Nudge Fate|Coup de pouce au destin|libre|
+|[divination-00-gpzpAAAJ1Lza2JVl.htm](spells/divination-00-gpzpAAAJ1Lza2JVl.htm)|Detect Magic|Détection de la magie|officielle|
 |[divination-00-izcxFQFwf3woCnFs.htm](spells/divination-00-izcxFQFwf3woCnFs.htm)|Guidance|Assistance divine|officielle|
 |[divination-00-OhD2Z6rIGGD5ocZA.htm](spells/divination-00-OhD2Z6rIGGD5ocZA.htm)|Read Aura|Lecture de l'aura|officielle|
 |[divination-00-tXa5vOu5giBNCjdR.htm](spells/divination-00-tXa5vOu5giBNCjdR.htm)|Know Direction|Repérage|officielle|
@@ -412,12 +408,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-01-7ZinJNzxq0XF0oMx.htm](spells/enchantment-01-7ZinJNzxq0XF0oMx.htm)|Bane|Imprécation|officielle|
 |[enchantment-01-aEitTTb9PnOyidRf.htm](spells/enchantment-01-aEitTTb9PnOyidRf.htm)|Needle of Vengeance|Aiguille de la vengeance|libre|
 |[enchantment-01-aIHY2DArKFweIrpf.htm](spells/enchantment-01-aIHY2DArKFweIrpf.htm)|Command|Injonction|officielle|
+|[enchantment-01-BRtKFk0PKfWIlCAB.htm](spells/enchantment-01-BRtKFk0PKfWIlCAB.htm)|Sweet Dream|Doux rêve|officielle|
 |[enchantment-01-d2pi7laQkzlr3wrS.htm](spells/enchantment-01-d2pi7laQkzlr3wrS.htm)|Ancestral Touch|Toucher ancestral|libre|
 |[enchantment-01-Dj44lViYKvOJ8a53.htm](spells/enchantment-01-Dj44lViYKvOJ8a53.htm)|Blind Ambition|Ambition aveugle|officielle|
 |[enchantment-01-dqaCLzINHBiKjh4J.htm](spells/enchantment-01-dqaCLzINHBiKjh4J.htm)|Call to Arms|Appel aux armes|libre|
 |[enchantment-01-DU5daB09xwfE1y38.htm](spells/enchantment-01-DU5daB09xwfE1y38.htm)|Waking Nightmare|Cauchemar éveillé|officielle|
 |[enchantment-01-IkS3lDGUpIOMug7v.htm](spells/enchantment-01-IkS3lDGUpIOMug7v.htm)|Faerie Dust|Poussière féerique|officielle|
 |[enchantment-01-irTdhxTixU9u9YUm.htm](spells/enchantment-01-irTdhxTixU9u9YUm.htm)|Lingering Composition|Composition prolongée|libre|
+|[enchantment-01-k2QrUk7jWMAWozMh.htm](spells/enchantment-01-k2QrUk7jWMAWozMh.htm)|Brain Drain|Drain du cerveau|libre|
 |[enchantment-01-KMFRKzNCq7hVNH7H.htm](spells/enchantment-01-KMFRKzNCq7hVNH7H.htm)|Charming Words|Paroles charmeuses|officielle|
 |[enchantment-01-MmQiEc7aM9PDLO2J.htm](spells/enchantment-01-MmQiEc7aM9PDLO2J.htm)|Touch of Obedience|Obéissance|officielle|
 |[enchantment-01-NNoKWiWKqJkdD2ln.htm](spells/enchantment-01-NNoKWiWKqJkdD2ln.htm)|Veil of Dreams|Voile de rêves|libre|
@@ -602,6 +600,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-04-8M03UxGXjYyDFAoy.htm](spells/evocation-04-8M03UxGXjYyDFAoy.htm)|Weapon Storm|Tempête d'armes|officielle|
 |[evocation-04-DZ9bzXYqMjAK9TzC.htm](spells/evocation-04-DZ9bzXYqMjAK9TzC.htm)|Holy Cascade|Cascade bénite|officielle|
 |[evocation-04-hVU9msO9yGkxKZ3J.htm](spells/evocation-04-hVU9msO9yGkxKZ3J.htm)|Divine Wrath|Colère divine|officielle|
+|[evocation-04-IarZrgCeaiUqOuRu.htm](spells/evocation-04-IarZrgCeaiUqOuRu.htm)|Wall of Fire|Mur de feu|officielle|
 |[evocation-04-K4LXpaBWrGy6jIER.htm](spells/evocation-04-K4LXpaBWrGy6jIER.htm)|Downpour|Déluge|officielle|
 |[evocation-04-KG7amdeXWc7MjGXe.htm](spells/evocation-04-KG7amdeXWc7MjGXe.htm)|Asterism|Étoile|libre|
 |[evocation-04-kHyjQbibRGPNCixx.htm](spells/evocation-04-kHyjQbibRGPNCixx.htm)|Ice Storm|Tempête de glace|libre|
@@ -773,6 +772,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-02-H4oF5szC7aogqtvw.htm](spells/necromancy-02-H4oF5szC7aogqtvw.htm)|Worm's Repast|Repas du ver|libre|
 |[necromancy-02-JhRuR7Jj3ViShpq7.htm](spells/necromancy-02-JhRuR7Jj3ViShpq7.htm)|Ghoulish Cravings|Désirs macabres|officielle|
 |[necromancy-02-oNUyCqbpGWHifS02.htm](spells/necromancy-02-oNUyCqbpGWHifS02.htm)|Fungal Hyphae|Hyphe fongique|libre|
+|[necromancy-02-oryfsRK27jAUnziw.htm](spells/necromancy-02-oryfsRK27jAUnziw.htm)|Imp Sting|Dard de diablotin|libre|
 |[necromancy-02-qJZZdYBdNaWRJFER.htm](spells/necromancy-02-qJZZdYBdNaWRJFER.htm)|Wholeness of Body|Plénitude physique|officielle|
 |[necromancy-02-RGBZrVRIEDb2G48h.htm](spells/necromancy-02-RGBZrVRIEDb2G48h.htm)|Soothing Mist|Brume apaisante|libre|
 |[necromancy-02-rthC6dGm3nNrt1xN.htm](spells/necromancy-02-rthC6dGm3nNrt1xN.htm)|Spectral Hand|Main spectrale|officielle|
