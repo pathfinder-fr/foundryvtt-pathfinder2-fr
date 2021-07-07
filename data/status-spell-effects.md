@@ -1,25 +1,13 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 137
+ * **libre**: 143
  * **officielle**: 11
  * **changé**: 2
- * **auto-trad**: 6
 
 
-Dernière mise à jour: 2021-07-05 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-07 06:47 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions automatiques à corriger/retraduire
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[04-KkDRRDuycXwKPa6n.htm](spell-effects/04-KkDRRDuycXwKPa6n.htm)|Spell Effect: Dinosaur Form (Brontosaurus)|auto-trad|
-|[10-blBXnWb1Y8q8YYMh.htm](spell-effects/10-blBXnWb1Y8q8YYMh.htm)|Spell Effect: Primal Summons (Fire)|auto-trad|
-|[10-fwaAe71qfnK7SiOB.htm](spell-effects/10-fwaAe71qfnK7SiOB.htm)|Spell Effect: Primal Summons (Air)|auto-trad|
-|[10-NXzo2kdgVixIZ2T1.htm](spell-effects/10-NXzo2kdgVixIZ2T1.htm)|Spell Effect: Apex Companion|auto-trad|
-|[10-TAAWbJgfESltn2we.htm](spell-effects/10-TAAWbJgfESltn2we.htm)|Spell Effect: Primal Summons (Water)|auto-trad|
-|[10-Xl48OsJ47oDVZAVQ.htm](spell-effects/10-Xl48OsJ47oDVZAVQ.htm)|Spell Effect: Primal Summons (Earth)|auto-trad|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -138,6 +126,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[04-iJ7TVW5tDnZG9DG8.htm](spell-effects/04-iJ7TVW5tDnZG9DG8.htm)|Spell Effect: Competitive Edge|Effet : Avantage du compétiteur|libre|
 |[04-iOKhr2El8R6cz6YI.htm](spell-effects/04-iOKhr2El8R6cz6YI.htm)|Spell Effect: Dinosaur Form (Triceratops)|Effet : Forme de dinosaure (Tricératops)|libre|
 |[04-jvwKRHtOiPAm4uAP.htm](spell-effects/04-jvwKRHtOiPAm4uAP.htm)|Spell Effect: Aerial Form (Bat)|Effet : Forme aérienne (Chauve-souris)|libre|
+|[04-KkDRRDuycXwKPa6n.htm](spell-effects/04-KkDRRDuycXwKPa6n.htm)|Spell Effect: Dinosaur Form (Brontosaurus)|Effet : Forme de dinosaure (Brontosaure)|libre|
 |[04-nHXKK4pRXAzrLdEP.htm](spell-effects/04-nHXKK4pRXAzrLdEP.htm)|Spell Effect: Take Its Course (Affliction, Help)|Effet : Suivre son cours (Afflicton, aide)|libre|
 |[04-oJbcmpBSHwmx6FD4.htm](spell-effects/04-oJbcmpBSHwmx6FD4.htm)|Spell Effect: Dinosaur Form (Deinonychus)|Effet : Forme de dinosaure (Deinonychus)|libre|
 |[04-R27azQfzeFuFc48G.htm](spell-effects/04-R27azQfzeFuFc48G.htm)|Spell Effect: Take Its Course (Affliction, Hinder)|Effet : Suivre son cours (Affliction, entraver)|libre|
@@ -178,4 +167,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[09-bbOdbGiRXGEQ2aY0.htm](spell-effects/09-bbOdbGiRXGEQ2aY0.htm)|Spell Effect: Ki Form (Positive)|Effet : Forme ki (Positif)|libre|
 |[09-F0XnusshRzgMdFT1.htm](spell-effects/09-F0XnusshRzgMdFT1.htm)|Spell Effect: Ki Form (Force)|Effet : Forme ki (Force)|libre|
 |[09-h28nZ8JB5JBwr87U.htm](spell-effects/09-h28nZ8JB5JBwr87U.htm)|Spell Effect: Ki Form (Negative)|Effet : Forme ki (Négatif)|libre|
+|[10-blBXnWb1Y8q8YYMh.htm](spell-effects/10-blBXnWb1Y8q8YYMh.htm)|Spell Effect: Primal Summons (Fire)|Effet : Convocations primordiales (Feu)|libre|
+|[10-fwaAe71qfnK7SiOB.htm](spell-effects/10-fwaAe71qfnK7SiOB.htm)|Spell Effect: Primal Summons (Air)|Effet : Convocations primordiales (Air)|libre|
+|[10-NXzo2kdgVixIZ2T1.htm](spell-effects/10-NXzo2kdgVixIZ2T1.htm)|Spell Effect: Apex Companion|Effet : Compagnon alpha|libre|
+|[10-TAAWbJgfESltn2we.htm](spell-effects/10-TAAWbJgfESltn2we.htm)|Spell Effect: Primal Summons (Water)|Effet : Convocations primordiales (Eau)|libre|
+|[10-Xl48OsJ47oDVZAVQ.htm](spell-effects/10-Xl48OsJ47oDVZAVQ.htm)|Spell Effect: Primal Summons (Earth)|Effet : Convocations primordiales (Terre)|libre|
 |[Gqy7K6FnbLtwGpud.htm](spell-effects/Gqy7K6FnbLtwGpud.htm)|Spell Effect: Bless|Effet : Bénédiction|libre|
