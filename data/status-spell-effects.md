@@ -1,18 +1,17 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 143
+ * **libre**: 144
  * **officielle**: 11
- * **changé**: 2
+ * **changé**: 1
 
 
-Dernière mise à jour: 2021-07-07 06:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-08 06:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[01-N1EM3jRyT8PCG1Py.htm](spell-effects/01-N1EM3jRyT8PCG1Py.htm)|Spell Effect: Traveler's Transit (Climb)|Effet : Voyageur en transit (Escalade)|changé|
 |[03-DENMzySYANjUBs4O.htm](spell-effects/03-DENMzySYANjUBs4O.htm)|Spell Effect: Insect Form (Centipede)|Effet : Forme d'insecte (Mille-pattes)|changé|
 
 ## Liste des traductions complétés
@@ -53,6 +52,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-lyLMiauxIVUM3oF1.htm](spell-effects/01-lyLMiauxIVUM3oF1.htm)|Spell Effect: Lay on Hands|Effet : Imposition des mains|libre|
 |[01-MJSoRFfEdM4j5mNG.htm](spell-effects/01-MJSoRFfEdM4j5mNG.htm)|Spell Effect: Sweet Dream (Glamour)|Effet : Doux rêve (Glamour)|libre|
 |[01-MjtPtndJx31q2N9R.htm](spell-effects/01-MjtPtndJx31q2N9R.htm)|Spell Effect: Amplifying Touch|Effet : Toucher amplificateur|libre|
+|[01-N1EM3jRyT8PCG1Py.htm](spell-effects/01-N1EM3jRyT8PCG1Py.htm)|Spell Effect: Traveler's Transit (Climb)|Effet : Voyageur en transit (Escalade)|libre|
 |[01-ND1Gfo1yJZ87Ia34.htm](spell-effects/01-ND1Gfo1yJZ87Ia34.htm)|Spell Effect: Wild Morph (Wild Jaws)|Effet : Morphologie sauvage (Mâchoires)|libre|
 |[01-nEqBnsrvJZzh8Bil.htm](spell-effects/01-nEqBnsrvJZzh8Bil.htm)|Spell Effect: Protection from Evil|Effet : Protection du Mal|officielle|
 |[01-nkk4O5fyzrC0057i.htm](spell-effects/01-nkk4O5fyzrC0057i.htm)|Spell Effect: Soothe|Effet : Apaiser|libre|

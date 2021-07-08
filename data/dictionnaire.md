@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-07-07 06:47 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-08 06:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -1614,25 +1614,25 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
-|[Abandoned Zealot](pathfinder-bestiary-3/zMoJh88vXJQwSHsX.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.zMoJh88vXJQwSHsX]`|
+|[Abandoned Zealot](pathfinder-bestiary-3/zMoJh88vXJQwSHsX.htm)|Fanatiques abandonnés|`@Compendium[pf2e.pathfinder-bestiary-3.zMoJh88vXJQwSHsX]`|
 |[Abrikandilu](pathfinder-bestiary-3/6bkqOecc1n0PulCu.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.6bkqOecc1n0PulCu]`|
 |[Adachros](pathfinder-bestiary-3/BZKNSyp1ATtn3JXj.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.BZKNSyp1ATtn3JXj]`|
 |[Adhukait](pathfinder-bestiary-3/6yc1exIcngUEvBQH.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.6yc1exIcngUEvBQH]`|
 |[Adlet](pathfinder-bestiary-3/v7nu3NMYTS0YyxH4.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.v7nu3NMYTS0YyxH4]`|
-|[Adult Forest Dragon](pathfinder-bestiary-3/ACTvXKXcw1RZQxrP.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.ACTvXKXcw1RZQxrP]`|
-|[Adult Sea Dragon](pathfinder-bestiary-3/uDNQyboLAiIxBatL.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.uDNQyboLAiIxBatL]`|
-|[Adult Sky Dragon](pathfinder-bestiary-3/0qqABck8p0lCe4xz.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.0qqABck8p0lCe4xz]`|
-|[Adult Sovereign Dragon](pathfinder-bestiary-3/0laxaxLySatd0Uii.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.0laxaxLySatd0Uii]`|
-|[Adult Underworld Dragon](pathfinder-bestiary-3/wmKIB7cgWdAZ29mv.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.wmKIB7cgWdAZ29mv]`|
+|[Adult Forest Dragon](pathfinder-bestiary-3/ACTvXKXcw1RZQxrP.htm)|Dragon des forêts adulte|`@Compendium[pf2e.pathfinder-bestiary-3.ACTvXKXcw1RZQxrP]`|
+|[Adult Sea Dragon](pathfinder-bestiary-3/uDNQyboLAiIxBatL.htm)|Dragon de la mer adulte|`@Compendium[pf2e.pathfinder-bestiary-3.uDNQyboLAiIxBatL]`|
+|[Adult Sky Dragon](pathfinder-bestiary-3/0qqABck8p0lCe4xz.htm)|Dragon du ciel adulte|`@Compendium[pf2e.pathfinder-bestiary-3.0qqABck8p0lCe4xz]`|
+|[Adult Sovereign Dragon](pathfinder-bestiary-3/0laxaxLySatd0Uii.htm)|Dragon souverain adulte|`@Compendium[pf2e.pathfinder-bestiary-3.0laxaxLySatd0Uii]`|
+|[Adult Underworld Dragon](pathfinder-bestiary-3/wmKIB7cgWdAZ29mv.htm)|Dragon des profondeurs adulte|`@Compendium[pf2e.pathfinder-bestiary-3.wmKIB7cgWdAZ29mv]`|
 |[Aghash](pathfinder-bestiary-3/KGAuzJaKfPAdn0It.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.KGAuzJaKfPAdn0It]`|
 |[Air Wisp](pathfinder-bestiary-3/0HTju4vf8ADAAh2g.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.0HTju4vf8ADAAh2g]`|
 |[Amalgamite](pathfinder-bestiary-3/xIT2yHlwILLc5hgw.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.xIT2yHlwILLc5hgw]`|
 |[Amphisbaena](pathfinder-bestiary-3/H796hayJm3J7MYJg.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.H796hayJm3J7MYJg]`|
-|[Ancient Forest Dragon](pathfinder-bestiary-3/ie5MyxqTqGlxzgsH.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.ie5MyxqTqGlxzgsH]`|
-|[Ancient Sea Dragon](pathfinder-bestiary-3/DCzr8qOfSg2K7e3z.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.DCzr8qOfSg2K7e3z]`|
-|[Ancient Sky Dragon](pathfinder-bestiary-3/Ls2qYZDASu3VgXxo.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.Ls2qYZDASu3VgXxo]`|
+|[Ancient Forest Dragon](pathfinder-bestiary-3/ie5MyxqTqGlxzgsH.htm)|Dragon des forêts vénérable|`@Compendium[pf2e.pathfinder-bestiary-3.ie5MyxqTqGlxzgsH]`|
+|[Ancient Sea Dragon](pathfinder-bestiary-3/DCzr8qOfSg2K7e3z.htm)|Dragon de la mer vénérable|`@Compendium[pf2e.pathfinder-bestiary-3.DCzr8qOfSg2K7e3z]`|
+|[Ancient Sky Dragon](pathfinder-bestiary-3/Ls2qYZDASu3VgXxo.htm)|Dragon du ciel vénérable|`@Compendium[pf2e.pathfinder-bestiary-3.Ls2qYZDASu3VgXxo]`|
 |[Ancient Sovereign Dragon](pathfinder-bestiary-3/ytYKPtPotjvsWoSl.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.ytYKPtPotjvsWoSl]`|
-|[Ancient Underworld Dragon](pathfinder-bestiary-3/nX3LIuvHqiKNrth9.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.nX3LIuvHqiKNrth9]`|
+|[Ancient Underworld Dragon](pathfinder-bestiary-3/nX3LIuvHqiKNrth9.htm)|Dragon des profondeurs ancient|`@Compendium[pf2e.pathfinder-bestiary-3.nX3LIuvHqiKNrth9]`|
 |[Android Infiltrator](pathfinder-bestiary-3/iNgKGHzMOAHjWQeI.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.iNgKGHzMOAHjWQeI]`|
 |[Angazhani](pathfinder-bestiary-3/JD5sD7vwwlU2DwJI.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.JD5sD7vwwlU2DwJI]`|
 |[Angheuvore Flesh-gnawer](pathfinder-bestiary-3/MJhb44wEqSMWtrfe.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.MJhb44wEqSMWtrfe]`|
@@ -1670,7 +1670,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[City Guard Squadron](pathfinder-bestiary-3/SQKdvPIhWkrHlkbn.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.SQKdvPIhWkrHlkbn]`|
 |[Clacking Skull Swarm](pathfinder-bestiary-3/5WAy9PYWu1PuQKXg.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.5WAy9PYWu1PuQKXg]`|
 |[Clockwork Dragon](pathfinder-bestiary-3/XwtH5kP5gkY42yWp.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.XwtH5kP5gkY42yWp]`|
-|[Clockwork Mage](pathfinder-bestiary-3/0A2XLkvOzDMOjC6Q.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.0A2XLkvOzDMOjC6Q]`|
+|[Clockwork Mage](pathfinder-bestiary-3/0A2XLkvOzDMOjC6Q.htm)|Automate Mage|`@Compendium[pf2e.pathfinder-bestiary-3.0A2XLkvOzDMOjC6Q]`|
 |[Clockwork Soldier](pathfinder-bestiary-3/9HkUdRKoprwo27VN.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.9HkUdRKoprwo27VN]`|
 |[Clockwork Spy](pathfinder-bestiary-3/cKZtOsBlN3Qu8Kyq.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.cKZtOsBlN3Qu8Kyq]`|
 |[Cobbleswarm](pathfinder-bestiary-3/BrGvmcM6jl3xUs4d.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.BrGvmcM6jl3xUs4d]`|
@@ -1729,7 +1729,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Giant Porcupine](pathfinder-bestiary-3/IijUBFE1vhvgowhD.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.IijUBFE1vhvgowhD]`|
 |[Giant Seahorse](pathfinder-bestiary-3/qE0iZoeeOp7og5A5.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.qE0iZoeeOp7og5A5]`|
 |[Giant Skunk](pathfinder-bestiary-3/nr4E59Xu10nWYsyO.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.nr4E59Xu10nWYsyO]`|
-|[Giant Vulture](pathfinder-bestiary-3/01alXdlOUvAC6woS.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.01alXdlOUvAC6woS]`|
+|[Giant Vulture](pathfinder-bestiary-3/01alXdlOUvAC6woS.htm)|Vautours géants|`@Compendium[pf2e.pathfinder-bestiary-3.01alXdlOUvAC6woS]`|
 |[Girtablilu Seer](pathfinder-bestiary-3/DmQM0QTSPJ7YtpMg.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.DmQM0QTSPJ7YtpMg]`|
 |[Girtablilu Sentry](pathfinder-bestiary-3/4glVe36VTR8HTjcE.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.4glVe36VTR8HTjcE]`|
 |[Gliminal](pathfinder-bestiary-3/JHrINFX7a7fYhP4w.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.JHrINFX7a7fYhP4w]`|
@@ -1884,7 +1884,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Soul Skelm](pathfinder-bestiary-3/O8iynsWnjObQ8TJl.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.O8iynsWnjObQ8TJl]`|
 |[Spiny Eurypterid](pathfinder-bestiary-3/ChzqT42N5waJZ9VS.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.ChzqT42N5waJZ9VS]`|
 |[Squirming Swill](pathfinder-bestiary-3/EP8xhzy46zPWvhQL.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.EP8xhzy46zPWvhQL]`|
-|[Squirrel Swarm](pathfinder-bestiary-3/0JmtZzvzZU3HtYVp.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.0JmtZzvzZU3HtYVp]`|
+|[Squirrel Swarm](pathfinder-bestiary-3/0JmtZzvzZU3HtYVp.htm)|Nuée d'écureuils|`@Compendium[pf2e.pathfinder-bestiary-3.0JmtZzvzZU3HtYVp]`|
 |[Stheno Harpist](pathfinder-bestiary-3/74Sw9n7c4sMaK9Rx.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.74Sw9n7c4sMaK9Rx]`|
 |[Stone Lion](pathfinder-bestiary-3/Q02Io3eFQpBad3vD.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.Q02Io3eFQpBad3vD]`|
 |[Stone Lion Cub](pathfinder-bestiary-3/NSD8H0xzbSWOgt7x.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.NSD8H0xzbSWOgt7x]`|
@@ -1945,11 +1945,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ximtal](pathfinder-bestiary-3/q2ja0fkdr4PeZOTE.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.q2ja0fkdr4PeZOTE]`|
 |[Xiuh Couatl](pathfinder-bestiary-3/MD6eXpxoSPO02fZY.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.MD6eXpxoSPO02fZY]`|
 |[Yithian](pathfinder-bestiary-3/oE52gEbyrF4Dl3Go.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.oE52gEbyrF4Dl3Go]`|
-|[Young Forest Dragon](pathfinder-bestiary-3/vWF79pVG3dbZIlId.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.vWF79pVG3dbZIlId]`|
-|[Young Sea Dragon](pathfinder-bestiary-3/JZMK7j7WGWlB3Jhw.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.JZMK7j7WGWlB3Jhw]`|
-|[Young Sky Dragon](pathfinder-bestiary-3/cXz5nWwlbRQ1g90y.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.cXz5nWwlbRQ1g90y]`|
-|[Young Sovereign Dragon](pathfinder-bestiary-3/OrO28a9h8kakTTj7.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.OrO28a9h8kakTTj7]`|
-|[Young Underworld Dragon](pathfinder-bestiary-3/3VTjHYQjp1aE27n4.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.3VTjHYQjp1aE27n4]`|
+|[Young Forest Dragon](pathfinder-bestiary-3/vWF79pVG3dbZIlId.htm)|Jeune dragon des forêts|`@Compendium[pf2e.pathfinder-bestiary-3.vWF79pVG3dbZIlId]`|
+|[Young Sea Dragon](pathfinder-bestiary-3/JZMK7j7WGWlB3Jhw.htm)|Jeune dragon de la mer|`@Compendium[pf2e.pathfinder-bestiary-3.JZMK7j7WGWlB3Jhw]`|
+|[Young Sky Dragon](pathfinder-bestiary-3/cXz5nWwlbRQ1g90y.htm)|Jeune dragon du ciel|`@Compendium[pf2e.pathfinder-bestiary-3.cXz5nWwlbRQ1g90y]`|
+|[Young Sovereign Dragon](pathfinder-bestiary-3/OrO28a9h8kakTTj7.htm)|Jeune dragon souverain|`@Compendium[pf2e.pathfinder-bestiary-3.OrO28a9h8kakTTj7]`|
+|[Young Underworld Dragon](pathfinder-bestiary-3/3VTjHYQjp1aE27n4.htm)|Jeune dragon des profondeurs|`@Compendium[pf2e.pathfinder-bestiary-3.3VTjHYQjp1aE27n4]`|
 |[Yzobu](pathfinder-bestiary-3/H7PDLOIbDG9zt4H1.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.H7PDLOIbDG9zt4H1]`|
 |[Zetogeki](pathfinder-bestiary-3/oR8cm0Aj5FIDF67w.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.oR8cm0Aj5FIDF67w]`|
 |[Zombie Dragon](pathfinder-bestiary-3/GGuT6YsRH4aXhpl3.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.GGuT6YsRH4aXhpl3]`|
