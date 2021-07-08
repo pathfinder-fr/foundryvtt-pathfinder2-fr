@@ -1,12 +1,19 @@
 # État de la traduction (classes)
 
  * **officielle**: 12
- * **libre**: 5
+ * **libre**: 4
+ * **changé**: 1
 
 
-Dernière mise à jour: 2021-07-08 06:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[pWHx4SXcft9O2udP.htm](classes/pWHx4SXcft9O2udP.htm)|Oracle|Oracle|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -20,7 +27,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bYDXk9HUMKOuym9h.htm](classes/bYDXk9HUMKOuym9h.htm)|Witch|Sorcière|libre|
 |[EizrWvUPMS67Pahd.htm](classes/EizrWvUPMS67Pahd.htm)|Cleric|Prêtre|officielle|
 |[LO9STvskJemPkiAI.htm](classes/LO9STvskJemPkiAI.htm)|Rogue|Roublard|officielle|
-|[pWHx4SXcft9O2udP.htm](classes/pWHx4SXcft9O2udP.htm)|Oracle|Oracle|libre|
 |[RwjIZzIxzPpUglnK.htm](classes/RwjIZzIxzPpUglnK.htm)|Wizard|Magicien|officielle|
 |[uJ5aCzlw34GGdWjp.htm](classes/uJ5aCzlw34GGdWjp.htm)|Swashbuckler|Bretteur|libre|
 |[x8iwnpdLbfcoZkHA.htm](classes/x8iwnpdLbfcoZkHA.htm)|Champion|Champion|officielle|

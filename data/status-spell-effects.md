@@ -1,13 +1,56 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 144
+ * **libre**: 145
+ * **aucune**: 37
  * **officielle**: 11
  * **changé**: 1
 
 
-Dernière mise à jour: 2021-07-08 06:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[01-06zdFoxzuTpPPGyJ.htm](spell-effects/01-06zdFoxzuTpPPGyJ.htm)|Effect: Rejuvinating Flames|
+|[01-1kelGCsoXyGRqMd9.htm](spell-effects/01-1kelGCsoXyGRqMd9.htm)|Spell Effect: Diabolic Edict|
+|[01-aDOL3OAEWf3ka9oT.htm](spell-effects/01-aDOL3OAEWf3ka9oT.htm)|Spell Effect: Blood Ward|
+|[01-ccrcaKIRxiCnnRPT.htm](spell-effects/01-ccrcaKIRxiCnnRPT.htm)|Spell Effect: Dragon Claw (Poison)|
+|[01-dEsaufFnfYihu5Ex.htm](spell-effects/01-dEsaufFnfYihu5Ex.htm)|Spell Effect: Discern Secrets (Sense Motive)|
+|[01-hdOb5Iu6Zd3pHoGI.htm](spell-effects/01-hdOb5Iu6Zd3pHoGI.htm)|Spell Effect: Discern Secrets (Recall Knowledge)|
+|[01-hkLhZsH3T6jc9S1y.htm](spell-effects/01-hkLhZsH3T6jc9S1y.htm)|Spell Effect: Veil of Dreams|
+|[01-jKrLpG74nLHYGyWB.htm](spell-effects/01-jKrLpG74nLHYGyWB.htm)|Spell Effect: Nudge Fate|
+|[01-KNWXmArZ82el4VUv.htm](spell-effects/01-KNWXmArZ82el4VUv.htm)|Spell Effect: Dragon Claw (Acid)|
+|[01-m1tQTBrolf7uZBW0.htm](spell-effects/01-m1tQTBrolf7uZBW0.htm)|Spell Effect: Discern Secrets (Seek)|
+|[01-MKOg6feUPgCHyBja.htm](spell-effects/01-MKOg6feUPgCHyBja.htm)|Spell Effect: Dragon Claw (Electricity)|
+|[01-mrSulUdNbwzGSwfu.htm](spell-effects/01-mrSulUdNbwzGSwfu.htm)|Spell Effect: Glutton's Jaw|
+|[01-Pfllo68qdQjC4Qv6.htm](spell-effects/01-Pfllo68qdQjC4Qv6.htm)|Spell Effect: Prismatic Shield|
+|[01-pUYL0ILL3r8VBFm0.htm](spell-effects/01-pUYL0ILL3r8VBFm0.htm)|Spell Effect: Dragon Claw (Cold)|
+|[01-QrULQZsSRGSa6qOt.htm](spell-effects/01-QrULQZsSRGSa6qOt.htm)|Spell Effect: Dragon Claw (Fire)|
+|[01-TpVkVALUBrBQjULn.htm](spell-effects/01-TpVkVALUBrBQjULn.htm)|Spell Effect: Stoke the Heart|
+|[01-UtIOWubq7akdHMOh.htm](spell-effects/01-UtIOWubq7akdHMOh.htm)|Spell Effect: Augment Summoning|
+|[01-XT3AyRfx4xeXfAjP.htm](spell-effects/01-XT3AyRfx4xeXfAjP.htm)|Spell Effect: Physical Boost|
+|[01-zjFN1cJEl3AMKiVs.htm](spell-effects/01-zjFN1cJEl3AMKiVs.htm)|Spell Effect: Nymph's Token|
+|[02-IXS15IQXYCZ8vsmX.htm](spell-effects/02-IXS15IQXYCZ8vsmX.htm)|Spell Effect: Darkvision|
+|[03-D0Qj5tC1hGUjzQc4.htm](spell-effects/03-D0Qj5tC1hGUjzQc4.htm)|Spell Effect: Elemental Motion (Water)|
+|[03-iqtjMVl6rGQhX2k8.htm](spell-effects/03-iqtjMVl6rGQhX2k8.htm)|Spell Effect: Elemental Motion (Air)|
+|[03-iZYjxY0qYvg5yPP3.htm](spell-effects/03-iZYjxY0qYvg5yPP3.htm)|Spell Effect: Angelic Wings|
+|[03-q4EEYltjqpRGiLsP.htm](spell-effects/03-q4EEYltjqpRGiLsP.htm)|Spell Effect: Elemental Motion (Fire)|
+|[03-qbOpis7pIkXJbM2B.htm](spell-effects/03-qbOpis7pIkXJbM2B.htm)|Spell Effect: Elemental Motion (Earth)|
+|[04-14AFzcwkN019dzcl.htm](spell-effects/04-14AFzcwkN019dzcl.htm)|Spell Effect: Shifting Form (Claws)|
+|[04-A48jNUOAmCljx8Ru.htm](spell-effects/04-A48jNUOAmCljx8Ru.htm)|Spell Effect: Shifting Form (Darkvision)|
+|[04-byXkHIKFwuKrZ55M.htm](spell-effects/04-byXkHIKFwuKrZ55M.htm)|Spell Effect: Shifting Form (Scent)|
+|[04-j6po934p4jcUVC6l.htm](spell-effects/04-j6po934p4jcUVC6l.htm)|Spell Effect: Shifting Form (Speed)|
+|[04-nbW4udOUTrCGL3Gf.htm](spell-effects/04-nbW4udOUTrCGL3Gf.htm)|Spell Effect: Shifting Form (Climb Speed)|
+|[04-Um25D1qLtZWOSBny.htm](spell-effects/04-Um25D1qLtZWOSBny.htm)|Spell Effect: Shifting Form (Swim Speed)|
+|[05-14m4s0FeRSqRlHwL.htm](spell-effects/05-14m4s0FeRSqRlHwL.htm)|Spell Effect: Arcane Countermeasure|
+|[05-A61eVVVyUuaUl3tz.htm](spell-effects/05-A61eVVVyUuaUl3tz.htm)|Spell Effect: Celestial Brand|
+|[05-inNfTmtWpsxeGBI9.htm](spell-effects/05-inNfTmtWpsxeGBI9.htm)|Spell Effect: Darkvision (24 hours)|
+|[05-jy4edd6pvJvJgOSP.htm](spell-effects/05-jy4edd6pvJvJgOSP.htm)|Spell Effect: Dragon Wings (Own Speed)|
+|[05-LMzFBnOEPzDGzHg4.htm](spell-effects/05-LMzFBnOEPzDGzHg4.htm)|Spell Effect: Unusual Anatomy|
+|[05-V7jAnItnVqtfCAKt.htm](spell-effects/05-V7jAnItnVqtfCAKt.htm)|Spell Effect: Dragon Wings (60 Feet)|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -18,6 +61,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[00-Gqy7K6FnbLtwGpud.htm](spell-effects/00-Gqy7K6FnbLtwGpud.htm)|Spell Effect: Bless|Effet : Bénédiction|libre|
 |[01-0gv9D5RlrF5cKA3I.htm](spell-effects/01-0gv9D5RlrF5cKA3I.htm)|Spell Effect: Adapt Self (Darkvision)|Effet : Adaptation de soi|libre|
 |[01-0R42NyuEZMVALjQs.htm](spell-effects/01-0R42NyuEZMVALjQs.htm)|Spell Effect: Traveler's Transit (Swim)|Effet : Voyageur en transit (Nage)|libre|
 |[01-2SWUzp4JuNK5EX0J.htm](spell-effects/01-2SWUzp4JuNK5EX0J.htm)|Spell Effect: Adapt Self (Swim)|Effet : Adaptation de soi (Nage)|libre|

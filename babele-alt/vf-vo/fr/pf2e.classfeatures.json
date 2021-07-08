@@ -232,6 +232,11 @@
             "description": "<p>Vous avez beaucoup progressé dans votre quête personnelle de l’illumination. Votre rang de maîtrise du jet de sauvegarde de <em>Volonté</em> choisi avec Voie vers la perfection ou Deuxième voie vers la perfection passe à légendaire.</p>\n<p>Quand vous obtenez un échec critique au jet de sauvegarde de Volonté, celui-ci se transforme en échec. Lorsque vous obtenez un échec sur le jet de sauvegarde de Volonté contre un effet qui inflige des dégâts, vous ne subissez que la moitié des dégâts.</p>"
         },
         {
+            "id": "Masterful Hunter (Outwit)",
+            "name": "Maître chasseur (Ruse) (Masterful Hunter (Outwit))",
+            "description": "<h2>Amélioration de Maître chasseur<span style=\"float: right;\">Niveau 17</span></h2>\n<p>Votre maîtrise des compétences vous permet de vaincre facilement votre proie. Si vous êtes un maître en Duperie, Intimidation, Discrétion ou dans la compétence que vous utilisez pour Vous souvenir d’informations sur votre proie, le bonus de circonstances lorsque vous utilisez ces compétences contre votre proie passe de +2 à +4. Si vous êtes un maître avec votre armure, le bonus de circonstances à la CA contre la proie passe de +1 à +2.</p>\n<hr />\n<p><em>Notes d'automatisation</em> Le bonus pour Se souvenir a été réglé pour les compétences Arcanes, Artisanat, Nature, Occultisme, religion et Société seulement. Le bonus à la CA est basé sur votre maîtrise sans armure et pas sur la maîtrise de l'armure que vous portez.</p>"
+        },
+        {
             "id": "Storm Order",
             "name": "Ordre de la tempête (Storm Order)",
             "description": "<p>Vous portez en vous toute la fureur de la tempête, la canalisant pour produire des effets terrifiants et chevauchant les vents à travers ciel.</p>\n<p>Vous êtes qualifié en Acrobaties. Vous obtenez également le don de druide @Compendium[pf2e.feats-srd.UpEjRfQkCJCruAfb]{Enfant de la tempête}. Vous obtenez le sort d’ordre @Compendium[pf2e.spells-srd.ho1jSoYKrHUNnM90]{Onde de tempête} et vous augmentez de 1 le nombre de points que contient votre réserve de focalisation.</p>\n<p>Polluer l’air ou ne pas punir les pollueurs ou les créatures à l’origine de changements climatiques majeurs est anathème (vous n’êtes toutefois pas obligé d’agir contre des nuisances potentielles mineures envers l’environnement ou de vous sacrifier en affrontant un adversaire visiblement supérieur).</p>"
@@ -1042,6 +1047,11 @@
             "description": "<p>Chacune de vos réussites vous offre l’occasion de vous perfectionner. Votre rang de maîtrise dans le jet de sauvegarde de Vigueur passe à maître. Quand vous obtenez un succès au jet de sauvegarde choisi, celui-ci est transformé en succès critique.</p>"
         },
         {
+            "id": "Masterful Hunter (Flurry)",
+            "name": "Maître chasseur (Déluge) (Masterful Hunter (Flurry))",
+            "description": "<h2>Amélioration de Maître chasseur<span style=\"float: right;\">Niveau 17</span></h2>\n<p>votre maîtrise martiale et vos talents pour viser vous permettent d’effectuer  plusieurs attaques précises d’affilée.</p>\n<p>Si vous êtes un maître avec votre arme et que vous attaquez votre proie, votre malus d’attaques multiples s’élève à −2 (−1 avec une arme agile) sur la deuxième attaque du tour, et à −4 (−2 avec une arme agile) sur la troisième et les suivantes.</p>"
+        },
+        {
             "id": "Adamantine Strikes",
             "name": "Frappes d'adamantium (Adamantine Strikes)",
             "description": "<p>Quand vous vous focalisez avec détermination sur vos membres, vos coups produisent le même impact que le plus solide des métaux. On considère que vos attaques à mains nues sont en adamantium.</p>"
@@ -1635,6 +1645,11 @@
             "id": "Weapon Fury",
             "name": "Fureur armée (Weapon Fury)",
             "description": "<p>Votre rage vous permet de manier vos armes avec encore plus d’efficacité. Votre rang de maîtrise avec les armes\nsimples, les armes de guerre et les attaques à mains nues devient maître.</p>"
+        },
+        {
+            "id": "Masterful Hunter (Precision)",
+            "name": "Maître chasseur (Précision) (Masterful Hunter (Precision))",
+            "description": "<h2>Amélioration de Maître chasseur<span style=\"float: right;\">Niveau 17</h2>\n<p>Votre maîtrise martiale vous permet de toucher à multiples reprises les points vitaux de votre proie. </p>\n<p>La deuxième fois que vous touchez votre proie lors d’un même round, vous lui infligez également 1d8 dégâts de précision.</p>\n<p>Au niveau 19, votre deuxième attaque réussie contre votre proie lors d’un même round inflige 2d8 dégâts de précision, et la troisième 1d8 dégâts de précision.</p>"
         },
         {
             "id": "Weapon Expertise (Level 5)",

@@ -1,11 +1,11 @@
 # État de la traduction (pathfinder-bestiary-3)
 
- * **libre**: 18
+ * **changé**: 18
  * **vide**: 11
  * **aucune**: 311
 
 
-Dernière mise à jour: 2021-07-08 06:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -324,6 +324,29 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ZOrG61DZ9aiv8poK.htm](pathfinder-bestiary-3/ZOrG61DZ9aiv8poK.htm)|Owb Prophet|
 |[ZwtcCnW9CEs78WRC.htm](pathfinder-bestiary-3/ZwtcCnW9CEs78WRC.htm)|Mobogo|
 
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[01alXdlOUvAC6woS.htm](pathfinder-bestiary-3/01alXdlOUvAC6woS.htm)|Giant Vulture|Vautours géants|changé|
+|[0A2XLkvOzDMOjC6Q.htm](pathfinder-bestiary-3/0A2XLkvOzDMOjC6Q.htm)|Clockwork Mage|Automate Mage|changé|
+|[0JmtZzvzZU3HtYVp.htm](pathfinder-bestiary-3/0JmtZzvzZU3HtYVp.htm)|Squirrel Swarm|Nuée d'écureuils|changé|
+|[0laxaxLySatd0Uii.htm](pathfinder-bestiary-3/0laxaxLySatd0Uii.htm)|Adult Sovereign Dragon|Dragon souverain adulte|changé|
+|[0qqABck8p0lCe4xz.htm](pathfinder-bestiary-3/0qqABck8p0lCe4xz.htm)|Adult Sky Dragon|Dragon du ciel adulte|changé|
+|[3VTjHYQjp1aE27n4.htm](pathfinder-bestiary-3/3VTjHYQjp1aE27n4.htm)|Young Underworld Dragon|Jeune dragon des profondeurs|changé|
+|[ACTvXKXcw1RZQxrP.htm](pathfinder-bestiary-3/ACTvXKXcw1RZQxrP.htm)|Adult Forest Dragon|Dragon des forêts adulte|changé|
+|[cXz5nWwlbRQ1g90y.htm](pathfinder-bestiary-3/cXz5nWwlbRQ1g90y.htm)|Young Sky Dragon|Jeune dragon du ciel|changé|
+|[DCzr8qOfSg2K7e3z.htm](pathfinder-bestiary-3/DCzr8qOfSg2K7e3z.htm)|Ancient Sea Dragon|Dragon de la mer vénérable|changé|
+|[ie5MyxqTqGlxzgsH.htm](pathfinder-bestiary-3/ie5MyxqTqGlxzgsH.htm)|Ancient Forest Dragon|Dragon des forêts vénérable|changé|
+|[JZMK7j7WGWlB3Jhw.htm](pathfinder-bestiary-3/JZMK7j7WGWlB3Jhw.htm)|Young Sea Dragon|Jeune dragon de la mer|changé|
+|[Ls2qYZDASu3VgXxo.htm](pathfinder-bestiary-3/Ls2qYZDASu3VgXxo.htm)|Ancient Sky Dragon|Dragon du ciel vénérable|changé|
+|[nX3LIuvHqiKNrth9.htm](pathfinder-bestiary-3/nX3LIuvHqiKNrth9.htm)|Ancient Underworld Dragon|Dragon des profondeurs ancient|changé|
+|[OrO28a9h8kakTTj7.htm](pathfinder-bestiary-3/OrO28a9h8kakTTj7.htm)|Young Sovereign Dragon|Jeune dragon souverain|changé|
+|[uDNQyboLAiIxBatL.htm](pathfinder-bestiary-3/uDNQyboLAiIxBatL.htm)|Adult Sea Dragon|Dragon de la mer adulte|changé|
+|[vWF79pVG3dbZIlId.htm](pathfinder-bestiary-3/vWF79pVG3dbZIlId.htm)|Young Forest Dragon|Jeune dragon des forêts|changé|
+|[wmKIB7cgWdAZ29mv.htm](pathfinder-bestiary-3/wmKIB7cgWdAZ29mv.htm)|Adult Underworld Dragon|Dragon des profondeurs adulte|changé|
+|[zMoJh88vXJQwSHsX.htm](pathfinder-bestiary-3/zMoJh88vXJQwSHsX.htm)|Abandoned Zealot|Fanatiques abandonnés|changé|
+
 ## Liste des éléments vides ne pouvant pas être traduits
 
 | Fichier   | Nom (EN)    | État |
@@ -344,21 +367,3 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[01alXdlOUvAC6woS.htm](pathfinder-bestiary-3/01alXdlOUvAC6woS.htm)|Giant Vulture|Vautours géants|libre|
-|[0A2XLkvOzDMOjC6Q.htm](pathfinder-bestiary-3/0A2XLkvOzDMOjC6Q.htm)|Clockwork Mage|Automate Mage|libre|
-|[0JmtZzvzZU3HtYVp.htm](pathfinder-bestiary-3/0JmtZzvzZU3HtYVp.htm)|Squirrel Swarm|Nuée d'écureuils|libre|
-|[0laxaxLySatd0Uii.htm](pathfinder-bestiary-3/0laxaxLySatd0Uii.htm)|Adult Sovereign Dragon|Dragon souverain adulte|libre|
-|[0qqABck8p0lCe4xz.htm](pathfinder-bestiary-3/0qqABck8p0lCe4xz.htm)|Adult Sky Dragon|Dragon du ciel adulte|libre|
-|[3VTjHYQjp1aE27n4.htm](pathfinder-bestiary-3/3VTjHYQjp1aE27n4.htm)|Young Underworld Dragon|Jeune dragon des profondeurs|libre|
-|[ACTvXKXcw1RZQxrP.htm](pathfinder-bestiary-3/ACTvXKXcw1RZQxrP.htm)|Adult Forest Dragon|Dragon des forêts adulte|libre|
-|[cXz5nWwlbRQ1g90y.htm](pathfinder-bestiary-3/cXz5nWwlbRQ1g90y.htm)|Young Sky Dragon|Jeune dragon du ciel|libre|
-|[DCzr8qOfSg2K7e3z.htm](pathfinder-bestiary-3/DCzr8qOfSg2K7e3z.htm)|Ancient Sea Dragon|Dragon de la mer vénérable|libre|
-|[ie5MyxqTqGlxzgsH.htm](pathfinder-bestiary-3/ie5MyxqTqGlxzgsH.htm)|Ancient Forest Dragon|Dragon des forêts vénérable|libre|
-|[JZMK7j7WGWlB3Jhw.htm](pathfinder-bestiary-3/JZMK7j7WGWlB3Jhw.htm)|Young Sea Dragon|Jeune dragon de la mer|libre|
-|[Ls2qYZDASu3VgXxo.htm](pathfinder-bestiary-3/Ls2qYZDASu3VgXxo.htm)|Ancient Sky Dragon|Dragon du ciel vénérable|libre|
-|[nX3LIuvHqiKNrth9.htm](pathfinder-bestiary-3/nX3LIuvHqiKNrth9.htm)|Ancient Underworld Dragon|Dragon des profondeurs ancient|libre|
-|[OrO28a9h8kakTTj7.htm](pathfinder-bestiary-3/OrO28a9h8kakTTj7.htm)|Young Sovereign Dragon|Jeune dragon souverain|libre|
-|[uDNQyboLAiIxBatL.htm](pathfinder-bestiary-3/uDNQyboLAiIxBatL.htm)|Adult Sea Dragon|Dragon de la mer adulte|libre|
-|[vWF79pVG3dbZIlId.htm](pathfinder-bestiary-3/vWF79pVG3dbZIlId.htm)|Young Forest Dragon|Jeune dragon des forêts|libre|
-|[wmKIB7cgWdAZ29mv.htm](pathfinder-bestiary-3/wmKIB7cgWdAZ29mv.htm)|Adult Underworld Dragon|Dragon des profondeurs adulte|libre|
-|[zMoJh88vXJQwSHsX.htm](pathfinder-bestiary-3/zMoJh88vXJQwSHsX.htm)|Abandoned Zealot|Fanatiques abandonnés|libre|

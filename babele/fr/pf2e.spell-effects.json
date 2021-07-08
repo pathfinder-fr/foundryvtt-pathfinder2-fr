@@ -392,6 +392,11 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.BRtKFk0PKfWIlCAB]{Doux rêve}.</p>\n<p>Vous gagnez un bonus d'état de +1 aux tests de compétence basés sur le Charisme.</p>"
         },
         {
+            "id": "Spell Effect: Bless",
+            "name": "Effet : Bénédiction",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bénédiction}</p>\n<hr>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de statut de +1 aux jets d'attaque.</li>\n</ul>"
+        },
+        {
             "id": "Spell Effect: Sweet Dream (Insight)",
             "name": "Effet : Doux rêve (Intuition)",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.BRtKFk0PKfWIlCAB]{Doux rêve}.</p>\n<p>Vous gagnez un bonus d'état de +1 aux tests de compétence basés sur l'Intelligence.</p>"

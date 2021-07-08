@@ -1,16 +1,66 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 146
+ * **aucune**: 32
+ * **libre**: 142
  * **officielle**: 28
+ * **changé**: 5
 
 
-Dernière mise à jour: 2021-07-08 06:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[feat-00-dCp517IUFJk8JvQc.htm](ancestryfeatures/feat-00-dCp517IUFJk8JvQc.htm)|Fangs|
+|[feat-00-q2omqJ9t0skGTYki.htm](ancestryfeatures/feat-00-q2omqJ9t0skGTYki.htm)|Rite of Reinforcement|
+|[feat-01-0TFf82gcfxXG9A54.htm](ancestryfeatures/feat-01-0TFf82gcfxXG9A54.htm)|Spellkeeper Shisk|
+|[feat-01-2kSzKDtwbcILZTIe.htm](ancestryfeatures/feat-01-2kSzKDtwbcILZTIe.htm)|Snaptongue Grippli|
+|[feat-01-6JKdAZGa8odFzleS.htm](ancestryfeatures/feat-01-6JKdAZGa8odFzleS.htm)|Farsight Goloma|
+|[feat-01-7gGcpQMqnZhBDZLI.htm](ancestryfeatures/feat-01-7gGcpQMqnZhBDZLI.htm)|Adaptive Anadi|
+|[feat-01-AUlPRySCqE6o6LHH.htm](ancestryfeatures/feat-01-AUlPRySCqE6o6LHH.htm)|Eyes in Back|
+|[feat-01-B89BCo6LtI3SJq54.htm](ancestryfeatures/feat-01-B89BCo6LtI3SJq54.htm)|Sweetbreath Gnoll|
+|[feat-01-BgHrucbZ9TH92RDv.htm](ancestryfeatures/feat-01-BgHrucbZ9TH92RDv.htm)|Sunlight Healing|
+|[feat-01-bmA9JK06rnOKpNLr.htm](ancestryfeatures/feat-01-bmA9JK06rnOKpNLr.htm)|Poisonhide Grippli|
+|[feat-01-cnbwtbDmlD0KoLqY.htm](ancestryfeatures/feat-01-cnbwtbDmlD0KoLqY.htm)|Insightful Goloma|
+|[feat-01-cwOUw7kofcAiY01I.htm](ancestryfeatures/feat-01-cwOUw7kofcAiY01I.htm)|Snaring Anadi|
+|[feat-01-daaXga11ov9YQVNq.htm](ancestryfeatures/feat-01-daaXga11ov9YQVNq.htm)|Polychromatic Anadi|
+|[feat-01-EoWwvDdoMqN5x0c9.htm](ancestryfeatures/feat-01-EoWwvDdoMqN5x0c9.htm)|Rite of Light|
+|[feat-01-Fgysc0A1pFQE8PMA.htm](ancestryfeatures/feat-01-Fgysc0A1pFQE8PMA.htm)|Lorekeeper Shisk|
+|[feat-01-GNSTUFBk2bU28GIl.htm](ancestryfeatures/feat-01-GNSTUFBk2bU28GIl.htm)|Stonestep Shisk|
+|[feat-01-GpnHIonrLN8TFZci.htm](ancestryfeatures/feat-01-GpnHIonrLN8TFZci.htm)|Rite of Invocation|
+|[feat-01-iW6UN722ERvurAl1.htm](ancestryfeatures/feat-01-iW6UN722ERvurAl1.htm)|Swim (Mistbreath Azarketi)|
+|[feat-01-jatezR4bENwhC6GL.htm](ancestryfeatures/feat-01-jatezR4bENwhC6GL.htm)|Bite|
+|[feat-01-KcozzlkFAqShDEzo.htm](ancestryfeatures/feat-01-KcozzlkFAqShDEzo.htm)|Stronggut Shisk|
+|[feat-01-KJ2dSDXP9d5hJHzd.htm](ancestryfeatures/feat-01-KJ2dSDXP9d5hJHzd.htm)|Frightful Goloma|
+|[feat-01-kTlJqhC7ZSE8P8lu.htm](ancestryfeatures/feat-01-kTlJqhC7ZSE8P8lu.htm)|Venomous Anadi|
+|[feat-01-kXp8qRh5AgtD4Izi.htm](ancestryfeatures/feat-01-kXp8qRh5AgtD4Izi.htm)|Witch Gnoll|
+|[feat-01-rFdVYKtHsZzRCsSd.htm](ancestryfeatures/feat-01-rFdVYKtHsZzRCsSd.htm)|Stickytoe Grippli|
+|[feat-01-sGzhnQpgWErX1bmx.htm](ancestryfeatures/feat-01-sGzhnQpgWErX1bmx.htm)|Vigilant Goloma|
+|[feat-01-SqEcb1c3yeoJMxm0.htm](ancestryfeatures/feat-01-SqEcb1c3yeoJMxm0.htm)|Great Gnoll|
+|[feat-01-udMXXjFirjARYr4p.htm](ancestryfeatures/feat-01-udMXXjFirjARYr4p.htm)|Ant Gnoll|
+|[feat-01-vDEfNzjLpGJU54cz.htm](ancestryfeatures/feat-01-vDEfNzjLpGJU54cz.htm)|Quillcoat Shisk|
+|[feat-01-WxcbLvufI6JBpLt0.htm](ancestryfeatures/feat-01-WxcbLvufI6JBpLt0.htm)|Spindly Anadi|
+|[feat-01-x5S4MNQ0aqUmgHcC.htm](ancestryfeatures/feat-01-x5S4MNQ0aqUmgHcC.htm)|Vicious Goloma|
+|[feat-01-xaTTN5anLEBzWCzv.htm](ancestryfeatures/feat-01-xaTTN5anLEBzWCzv.htm)|Windweb Grippli|
+|[feat-01-yVtcyAbLmWCIHHZi.htm](ancestryfeatures/feat-01-yVtcyAbLmWCIHHZi.htm)|Rite of Passage|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[feat-01-GlejQr3rBh3sn8sL.htm](ancestryfeatures/feat-01-GlejQr3rBh3sn8sL.htm)|River Azarketi|Azarketi fluvial|changé|
+|[feat-01-Mmezbef0c1fbJaVV.htm](ancestryfeatures/feat-01-Mmezbef0c1fbJaVV.htm)|Impersonator Android|Imposteur androïde|changé|
+|[feat-01-uSAYmU7PO2QoOWhB.htm](ancestryfeatures/feat-01-uSAYmU7PO2QoOWhB.htm)|Emotionally Unaware|Émotionnellement non préparé|changé|
+|[feat-01-VRyX00OuPGsJSurM.htm](ancestryfeatures/feat-01-VRyX00OuPGsJSurM.htm)|Spellscale Kobold|Kobold écaille de sort|changé|
+|[feat-01-zPhArF36ZVgLeVUU.htm](ancestryfeatures/feat-01-zPhArF36ZVgLeVUU.htm)|Ancient Scale Azarketi|Azarketi écaille antique|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[feat-00-IFg2tqmAFFnU8UNU.htm](ancestryfeatures/feat-00-IFg2tqmAFFnU8UNU.htm)|Celestial Envoy Kitsune|Kitsune Envoyé céleste|libre|
 |[feat-00-qJD3PJdoSXFrZEwr.htm](ancestryfeatures/feat-00-qJD3PJdoSXFrZEwr.htm)|Sharp Beak|Bec aiguisé|libre|
 |[feat-00-y1EmCv2cEb5hXBwx.htm](ancestryfeatures/feat-00-y1EmCv2cEb5hXBwx.htm)|Keen Eyes|Yeux perçants|officielle|
 |[feat-01-0vaeOoECfVD5EGbq.htm](ancestryfeatures/feat-01-0vaeOoECfVD5EGbq.htm)|Warrenbred Hobgoblin|Hobgobelin Terrierné|libre|
@@ -70,7 +120,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-G9Gwfi8ZIva52uGp.htm](ancestryfeatures/feat-01-G9Gwfi8ZIva52uGp.htm)|Jinxed Halfling|Halfelin maudit|libre|
 |[feat-01-GAn2cdhBE9Bqa85s.htm](ancestryfeatures/feat-01-GAn2cdhBE9Bqa85s.htm)|Beastkin|Beastkin|libre|
 |[feat-01-gfXSF1TafBAmZo2u.htm](ancestryfeatures/feat-01-gfXSF1TafBAmZo2u.htm)|Grig|Grig|libre|
-|[feat-01-GlejQr3rBh3sn8sL.htm](ancestryfeatures/feat-01-GlejQr3rBh3sn8sL.htm)|River Azarketi|Azarketi fluvial|libre|
 |[feat-01-Gmk7oNITvMVBy78Z.htm](ancestryfeatures/feat-01-Gmk7oNITvMVBy78Z.htm)|Undine|Ondin|libre|
 |[feat-01-gQyPU441J3rGt8mD.htm](ancestryfeatures/feat-01-gQyPU441J3rGt8mD.htm)|Snow Goblin|Gobelin des Neiges|officielle|
 |[feat-01-gyoN45SVfRZwHMkk.htm](ancestryfeatures/feat-01-gyoN45SVfRZwHMkk.htm)|Irongut Goblin|Gobelin Boyaud’fer|officielle|
@@ -107,7 +156,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-MeMAAtUlZmFgKSMF.htm](ancestryfeatures/feat-01-MeMAAtUlZmFgKSMF.htm)|Elemental Heart Dwarf|Nain Cœurélémentaire|libre|
 |[feat-01-MhXHEh7utEfxBwmc.htm](ancestryfeatures/feat-01-MhXHEh7utEfxBwmc.htm)|Thickcoat Shoony|Shoony à fourrure|libre|
 |[feat-01-Mj7uHxxVkRUlOFwJ.htm](ancestryfeatures/feat-01-Mj7uHxxVkRUlOFwJ.htm)|Hillock Halfling|Halfelin des collines|officielle|
-|[feat-01-Mmezbef0c1fbJaVV.htm](ancestryfeatures/feat-01-Mmezbef0c1fbJaVV.htm)|Impersonator Android|Imposteur androïde|libre|
 |[feat-01-mnhmhOKWLiOD0lev.htm](ancestryfeatures/feat-01-mnhmhOKWLiOD0lev.htm)|Constructed|Construit|libre|
 |[feat-01-mnhpCk9dIwMuFegM.htm](ancestryfeatures/feat-01-mnhpCk9dIwMuFegM.htm)|Paddler Shoony|Shoony Pagayeur|libre|
 |[feat-01-MQx7miBXUmOHycqJ.htm](ancestryfeatures/feat-01-MQx7miBXUmOHycqJ.htm)|Laborer Android|Manœuvre androïde|libre|
@@ -154,14 +202,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-UaD5VDoFlILEmbyz.htm](ancestryfeatures/feat-01-UaD5VDoFlILEmbyz.htm)|Dhampir|Dhampir|libre|
 |[feat-01-ULj56ZoW7dWdnBvu.htm](ancestryfeatures/feat-01-ULj56ZoW7dWdnBvu.htm)|Unbreakable Goblin|Gobelin Incassable|officielle|
 |[feat-01-UpeOPKB9b8PX6Fi2.htm](ancestryfeatures/feat-01-UpeOPKB9b8PX6Fi2.htm)|Deep Fetchling|Fetchelin de profondeurs|libre|
-|[feat-01-uSAYmU7PO2QoOWhB.htm](ancestryfeatures/feat-01-uSAYmU7PO2QoOWhB.htm)|Emotionally Unaware|Émotionnellement non préparé|libre|
 |[feat-01-UV2sABrTC5teOXTE.htm](ancestryfeatures/feat-01-UV2sABrTC5teOXTE.htm)|Strong-Blooded Dwarf|Nain sang-fort|officielle|
 |[feat-01-uxtcKTkD62SmrUoh.htm](ancestryfeatures/feat-01-uxtcKTkD62SmrUoh.htm)|Shapewrought Fleshwarp|Distordu forméforgé|libre|
 |[feat-01-VAo6NnrCEAAOUSkc.htm](ancestryfeatures/feat-01-VAo6NnrCEAAOUSkc.htm)|Resolute Fetchling|Fetchelin résolu|libre|
 |[feat-01-VgL18yU7pysdoZZG.htm](ancestryfeatures/feat-01-VgL18yU7pysdoZZG.htm)|Artisan Android|Artisan androïde|libre|
 |[feat-01-ViKRoVgog172r163.htm](ancestryfeatures/feat-01-ViKRoVgog172r163.htm)|Vivacious Gnome|Gnome vivace|libre|
 |[feat-01-vPhPgzpRjYDMT9Kq.htm](ancestryfeatures/feat-01-vPhPgzpRjYDMT9Kq.htm)|Greater Darkvision|Vision dans le noir supérieure|libre|
-|[feat-01-VRyX00OuPGsJSurM.htm](ancestryfeatures/feat-01-VRyX00OuPGsJSurM.htm)|Spellscale Kobold|Kobold écaille de sort|libre|
 |[feat-01-VSyOvtgJ1ZNpIVgC.htm](ancestryfeatures/feat-01-VSyOvtgJ1ZNpIVgC.htm)|Rock Dwarf|Nain des roches|officielle|
 |[feat-01-vt67b8uoNEbskcBv.htm](ancestryfeatures/feat-01-vt67b8uoNEbskcBv.htm)|Hydration|Hydratation|libre|
 |[feat-01-VTtXwBxrfRUXSL38.htm](ancestryfeatures/feat-01-VTtXwBxrfRUXSL38.htm)|Death Warden Dwarf|Nain gardemort|officielle|
@@ -180,7 +226,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-Ymg6WqeJqOyLJLEr.htm](ancestryfeatures/feat-01-Ymg6WqeJqOyLJLEr.htm)|Change Shape|Changer de forme|libre|
 |[feat-01-z4cvqtpkkAYoFpHa.htm](ancestryfeatures/feat-01-z4cvqtpkkAYoFpHa.htm)|Bloodhound Shoony|Shoony limier|libre|
 |[feat-01-zcO93E8gAW1tDYKk.htm](ancestryfeatures/feat-01-zcO93E8gAW1tDYKk.htm)|Draxie|Draxie|libre|
-|[feat-01-zPhArF36ZVgLeVUU.htm](ancestryfeatures/feat-01-zPhArF36ZVgLeVUU.htm)|Ancient Scale Azarketi|Azarketi écaille antique|libre|
 |[feat-01-zVf0Hlp5xG0Q7kmc.htm](ancestryfeatures/feat-01-zVf0Hlp5xG0Q7kmc.htm)|Skilled Heritage|Héritage talentueux|officielle|
 |[feat-01-ZW8GX14n3ZGievK1.htm](ancestryfeatures/feat-01-ZW8GX14n3ZGievK1.htm)|Tunnelflood Kobold|Kobold Tunnelinondé|libre|
 |[feat-01-ZZKZkeSP5TuT62IA.htm](ancestryfeatures/feat-01-ZZKZkeSP5TuT62IA.htm)|Duskwalker|Crépusculaire|libre|

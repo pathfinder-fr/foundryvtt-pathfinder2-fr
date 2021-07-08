@@ -162,6 +162,11 @@
             "description": "<p>Les ennemis à l’intérieur de la zone sont @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayés} 1. Ils ne peuvent pas réduire leur valeur effrayée au-dessous de 1 tant qu’ils restent dans la zone.</p>"
         },
         {
+            "id": "Electric Arc",
+            "name": "Arc électrique (Electric Arc)",
+            "description": "<p>Un arc électrique bondit d’une cible à l’autre.</p>\n<p>Vous infligez des dégâts électriques d’un montant égal à 1d4 + votre modificateur de caractéristique d’incantation.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d4.</p>"
+        },
+        {
             "id": "Maze",
             "name": "Dédale (Maze)",
             "description": "<p>Vous transportez la cible vers un dédale extradimensionnel aux origines surnaturelles et vous l’y enfermez.</p>\n<p>Une fois par tour, la cible peut dépenser une action pour tenter de sortir du dédale en effectuant un test de Survie ou de Perception contre votre DD des sorts. La magie de téléportation, sauf celle qui permet de se rendre vers d’autres plans comme Changement de plan, ne permet pas à la créature de s’échapper. Quand le sort se termine, soit parce que la cible s’est échappée soit parce que la durée s’est écoulée, la cible revient dans l’espace qu’elle occupait au moment de son bannissement ou dans l’espace le plus proche si celui-ci est déjà occupé</p>\n<hr />\n<p><strong>Succès critique</strong> La cible s’échappe et le sort se termine.</p>\n<p><strong>Succès</strong> La cible suit la bonne trajectoire vers la sortie. Si elle suivait déjà la bonne trajectoire, elle s’échappe du dédale et le sort se termine.</p>\n<p><strong>Échec</strong> La cible ne parvient pas à se rapprocher de la sortie.</p>\n<p><strong>Échec critique</strong> La cible ne parvient pas à se rapprocher de la sortie et si elle suivait la bonne trajectoire, ce n’est plus le cas à présent.</p>"
@@ -310,6 +315,11 @@
             "id": "Ghostly Transcription",
             "name": "Transcription fantômatique (Ghostly Transcription)",
             "description": "<p>Des lettres brillantes s'assemblent dans l'air, fournissant une transcription des propos de la cible dans toutes les langues que vous parlez.</p>\n<p>Pendant la durée du sort, tous les mots prononcés à haute voix par la cible sont épelés sous forme de lettres en face d'elle. Lorsque vous Lancez le sort, vous pouvez choisir si ces lettres sont visibles de toutes les créatures ou seulement de certaines créatures que vous spécifiez. Tous les mots que la bouche de la cible forme silencieusement sont épelées de la même mainère, permettant à la cible de communiquer silencieusement ou dans des zones où les sons ne peuvent porter. Cela permet même à la cible de fournir les composantes verbales dans de tels lieux, mais seulement si vous choisissez de rendre les lettres visibles à toutes les créatures.</p>\n<p>de plus, chaque capacités audible de la cible peut affecter les créatures même dans les zones où les sont ne portent pas tant que vous avez rendu les glyphes visibles pour elles et qu'elles ont une ligne de vue de la cible ; en ce cas, elles obtiennent le trait visuel.</p>\n<p>Vous pouvez Révoquer le sort.</p>"
+        },
+        {
+            "id": "Mage Hand",
+            "name": "Manipulation à distance (Mage Hand)",
+            "description": "<p>Vous créez une main magique, invisible ou fantomatique, qui saisit l’objet ciblé et le déplace lentement jusqu’à 6 m. Étant donné que l’objet lévite, vous pouvez le déplacer dans n’importe quelle direction. Vous pouvez déplacer l’objet de 6 m à chaque fois que vous Maintenez le sort. L’objet chute s’il est en lévitation lorsque le sort se termine.</p>\n<hr>\n<p><strong>Intensifié (3e)</strong> Vous pouvez cibler un objet non porté d’Encombrement 1 ou moins.</p>\n<p><strong>Intensifié (5e)</strong> La portée passe à 18 m et vous pouvez cibler un objet non porté d’Encombrement 1 ou moins.</p>\n<p><strong>Intensifié (7e)</strong> La portée passe à 18 m et vous pouvez cibler un objet non porté d’Encombrement 2 ou moins.</p>"
         },
         {
             "id": "Gaseous Form",
@@ -502,6 +512,11 @@
             "description": "<p>La cible prend l’aspect d’une créature effroyable et repoussante. L’effet est unique à chaque observateur ; ainsi, un humain avec la cible dans son champ de vision pourrait voir un démon aux crocs dégoulinant de sang mais un démon un visage angélique auréolé de lumière. Une créature doit faire un jet de Volonté lorsqu’elle tente une action hostile contre la cible. Elle est ensuite temporairement immunisée jusqu’à la fin de son prochain tour.</p>\n<hr />\n<p><strong>Succès</strong> La créature n’est pas affectée.</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 2 avant d’effectuer son action.</p>\n<p><strong>Échec critique</strong>La créature est Effrayée 2 et son action rate en étant dépensée.</p>\n<hr />\n<p><strong>Intensifié (8e)</strong> Vous pouvez cibler jusqu’à 5 créatures. Si une créature effectue une action hostile ou une réaction qui affecte plusieurs cibles simultanément, elle ne fait qu’un seul jet de sauvegarde contre Masque terrifiant.</p>"
         },
         {
+            "id": "Ghost Sound",
+            "name": "Son imaginaire (Ghost Sound)",
+            "description": "<p>Vous créez l’illusion auditive de bruits simples d’un volume maximal égal à quatre humains en train de crier. Le bruit émane d’une case à portée de votre choix. Vous ne pouvez pas créer de mots intelligibles ou de sons complexes, comme de la musique.</p>\n<hr />\n<p><strong>Intensifié (3e)</strong> La portée du sort passe à 18 m.</p>\n<p><strong>Intensifié (5e)</strong> La portée du sort passe à 36 m.</p>"
+        },
+        {
             "id": "Jealous Hex",
             "name": "Maléfice de jalousie (Jealous Hex)",
             "description": "<p>Vous faites naître en vous la jalousie naturelle d’une guenaude pour priver une cible de sa plus grande qualité. Celle-ci obtient un état préjudiciable en fonction de son modificateur de caractéristique le plus élevé :</p>\n<ul>\n<li><strong>Force</strong> @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli}</li>\n<li><strong>Dextérité</strong> @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit}</li>\n<li><strong>Constitution</strong> (@Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé}</li>\n<li><strong>Intelligence, Sagesse ou Charisme</strong> @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié}</li>\n</ul>\n<p>En cas d’égalité, la créature subit l’un des états associés aux modificateurs de caractéristique concernés de son choix. La cible doit faire un jet de Volonté. Au début de chacun de vos tours, la cible peut tenter un nouveau jet de Volonté et mettre fin à l’effet en cas de succès.</p>\n<hr />\n<p><strong>Succès</strong> La cible n’est pas affectée.</p>\n<p><strong>Échec</strong> L’intensité de l’état s’élève à 1.</p>\n<p><strong>Échec critique</strong> L’intensité de l’état s’élève à 2.</p>"
@@ -565,6 +580,11 @@
             "id": "Quench",
             "name": "Éteindre (Quench)",
             "description": "<p>Vous transformez l'air dans la zone en vapeur d'eau sursaturée.</p>\n<p>Les feux non magiques dans la zone sont automatiquement éteints. Les créatures du feu dans la zone subissent [[/r 4d8]] dégâts (Jet de Vigueur basique).</p>\n<p>Choisissez un feu magique, un sort de feu ou un objet de feu dans la zone et faites une tentative de contre. En cas de succès contre un objet, l'objet perd sa propriété de feu pendant 10 minutes (par exemple, une <em>@Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{Épée longue} @Compendium[pf2e.equipment-srd.XszNvxnymWYRaoTp]{Enflammée} +1</em> devient une <em>Épée longue +1</em>). Si la cible est un artefact ou un objet puissant similaire, votre tentative de contre échoue automatiquement.</p>\n<p>Lorsque vous @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Maintenez ce sort}, vous pouvez changer la zone de vapeur n'importe où à portée, mais le seul effet quand vous le faites est d'éteindre automatiquement les feux non magiques.</p>\n<p>Si vous avez la réaction Contresort, pour pouvez utiliser <em>Éteindre</em> pour contrer tout sort avec le trait feu au lieu d'avoir besoin d'un sort de feu déclencheur préparé ou dans votre répertoire.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentez les dégâts aux créatures de feu de [[/r 2d8]].</p>"
+        },
+        {
+            "id": "Daze",
+            "name": "Hébétement (Daze)",
+            "description": "<p>Vous obscurcissez l’esprit de la cible et l’hébétez d’une décharge mentale. Les dégâts de cette dernière équivalent à votre modificateur de caractéristique d’incantation. La cible fait un jet de Volonté basique. En cas d’échec critique, elle est également @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie} 1.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> Les dégâts augmentent de 1d6.</p>"
         },
         {
             "id": "Ghostly Tragedy",
@@ -755,6 +775,11 @@
             "id": "Holy Cascade",
             "name": "Cascade bénite (Holy Cascade)",
             "description": "<p>Vous imprégnez une fiole d’eau bénite d’énergie sacrée pour amplifier ses effets et la lancez très loin. La cascade d’eau qu’elle produit lorsqu’elle explose violemment inflige 3d6 dégâts contondants aux créatures dans la zone. L’eau inflige 6d6 dégâts positifs supplémentaires aux morts-vivants et 6d6 dégâts bons aux fiélons.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts contondants augmentent de 1d6 et les dégâts bons et positifs supplémentaires augmentent chacun de 2d6.</p>"
+        },
+        {
+            "id": "Sigil",
+            "name": "Symbole (Sigil)",
+            "description": "<p>Vous placez de façon inoffensive votre unique symbole magique, d’une taille d’environ 6,5 cm², sur la créature ou l’objet ciblé. La marque peut être visible ou invisible, et vous pouvez la faire passer d’un état à l’autre en utilisant une action Interagir pour toucher la cible. La marque peut être effacée ou grattée après 5 minutes d’efforts. Si elle se trouve sur une créature, elle s’estompe naturellement au bout d’une semaine. Le délai avant que la marque s’estompe dépend de votre niveau intensifié.</p>\n<hr />\n<p><strong>Intensifié (3e)</strong> Le symbole s’estompe à la place après 1 mois.</p>\n<p><strong>Intensifié (5e)</strong> Le symbole s’estompe à la place après 1 an.</p>\n<p><strong>Intensifié (7e)</strong> Le symbole ne s’estompe jamais.</p>"
         },
         {
             "id": "Arcane Countermeasure",
@@ -1112,6 +1137,11 @@
             "description": "<p>Vous prononcez une malédiction qu'une créature va rencontrer une certaine fin - une mort de froid, par un coup de poignard, ou un autre moyen que vous indiquez.</p>\n<p>Choisissez un type de dégâts dans la liste suivante : acide, contondant, froid, électricité, feu, négative, perforant, tranchant ou son. L'effet est basé sur le jet de Vigueur de la cible.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible obtient une faiblesse 2 contre les dégâts choisis jusqu'à la fin de votre prochain tour.</p>\n<p><strong>Échec</strong> Comme avec un succès mais la durée est de 1 minute. Si la créature est réduite à 0 PV par les dégâts choisis et que son niveau est de 7 ou moins, elle meurt.</p>\n<p><strong>Échec critique</strong> Comme en cas d'échec mais la durée est illimitée.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> La faiblesse augmente de 1 et le niveau maximum de créature qui peut être automatiquement tué augmente de 4.</p>"
         },
         {
+            "id": "Summon Instrument",
+            "name": "Convocation d'instrument (Summon Instrument)",
+            "description": "<p>Vous matérialisez un @Compendium[pf2e.equipment-srd.MPv5Yx4w7scZGj2Y]{Instrument de musique (portatif)} dans votre main. L'instrument est banal pour son type, mais vous seul pouvez en jouer. L'instrument s'évanouit lorsque le sort se termine. Si vous lancez encore Convocation d'instrument, tout instrument que vous avez auparavant convoqué disparaît.</p>\n<hr />\n<p><strong>Intensifié (5e)</strong> L'instrument est un @Compendium[pf2e.equipment-srd.3ld14dsn2RLu9owg]{Instrument de musique (Virtuose)}</p>"
+        },
+        {
             "id": "Inspire Competence",
             "name": "Inspiration talentueuse (Inspire Competence)",
             "description": "<p>Vos encouragements inspirent votre allié à réussir une tâche.</p>\n<p>Cela compte comme ayant pris suffisamment d’actions préparatoires pour Aider un allié à un test de compétence de votre choix, quelles que soient les circonstances. Quand vous utilisez plus tard la réaction @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider}, vous pouvez faire un test de Représentation à la place du test de compétence normal et, si vous obtenez un échec, vous obtenez un succès à la place. Si vous êtes légendaire en Représentation, vous obtenez automatiquement un succès critique.</p>\n<p>Le MJ peut décider que vous ne pouvez pas utiliser ce pouvoir si l’acte d’encourager votre allié pourrait interférer avec le test de compétence (comme un test pour @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif} ou ne pas gâcher un déguisement).</p>"
@@ -1125,6 +1155,11 @@
             "id": "Wish",
             "name": "Souhait (Wish)",
             "description": "<p>Vous formulez un souhait, réalisant votre plus grand désir.</p>\n<p>Un sort de souhait peut produire n’importe lequel des effets suivants.</p>\n<ul>\n<li>Dupliquer un sort arcanique de niveau 9 ou inférieur.</li>\n<li>Dupliquer un sort non arcanique de niveau 7 ou inférieur.</li>\n<li>Vous produisez un effet dont la puissance équivaut aux effets ci-dessus.</li>\n<li>Vous inversez certains effets qui seraient permis par le sort @Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{souhait}.</li>\n</ul>\n<p>Le MJ peut aussi vous permettre d’utiliser <em>souhait</em> pour produire un effet plus important que ceux-ci, mais cela peut s’avérer dangereux ou ne produire qu’un effet partiel.</p>"
+        },
+        {
+            "id": "Tanglefoot",
+            "name": "Entrave (Tanglefoot)",
+            "description": "<p>Une liane couverte de sève collante apparaît comme par magie, sortant rapidement de votre main, et s’arrime à la cible. Faites une attaque de sort contre la cible.</p>\n<p>@Compendium[pf2e.spell-effects.TwtUIEyenrtAbeiX]{Effet : Entrave}</p>\n<hr />\n<p><strong>Succès critique</strong> La cible gagne l’état @Compendium[pf2e.conditionspf2e.eIcWbB5o3pP6OIMe]{Immobilisé} et subit un malus de circonstances de −3 mètres à ses Vitesses pendant 1 round. Elle peut tenter de S’échapper contre votre DD de sorts pour retirer le malus et l’état immobilisé.</p>\n<p><strong>Succès</strong>La cible subit un malus de circonstances de −3 mètres à ses Vitesses pendant 1 round. Elle peut tenter de S’échapper contre votre DD de sorts pour retirer le malus.</p>\n<p><strong>Échec</strong> La cible n’est pas affectée.</p>\n<hr />\n<p><strong>Intensifié (2ème)</strong>Les effets durent 2 rounds</p>\n<p><strong>Intensifié (4ème)</strong>Les effets durent 1 minute.</p>"
         },
         {
             "id": "Athletic Rush",
@@ -1147,6 +1182,11 @@
             "description": "<p>En faisant appel à la cinquième ligne du Serment écarlate, vous scellez vos plus graves blessures d'un coup de votre lame. La première fois de chaque round que vous @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappez} avec votre arme et infligez des dégâts à un ennemi, vous récupérez un nombre de PV égal à deux fois le niveau du sort Tu ne faibliras pas, tu ne prendras pas la fuite. Ces soins ne peuvent ramener votre PV actuels au-delà de la moitié de votre maximum de points de vie.</p>"
         },
         {
+            "id": "Read Aura",
+            "name": "Lecture de l'aura (Read Aura)",
+            "description": "<p>Vous vous concentrez sur l’objet ciblé en ouvrant votre esprit pour percevoir les auras magiques. Une fois l’incantation terminée, vous savez si un objet est magique ou non. S’il l’est, vous découvrez l’école de magie.</p>\n<p>Si l’objet est une illusion, vous la détectez uniquement si le niveau de l’effet est inférieur au niveau de votre sort lecture de l’aura.</p>\n<hr>\n<p><strong>Intensifié (3e)</strong> Vous pouvez cibler jusqu’à 10 objets.</p>\n<p><strong>Intensifié (6e)</strong> Vous pouvez cibler un nombre quelconque d’objets</p>"
+        },
+        {
             "id": "Summon Fiend",
             "name": "Convocation de fiélon (Summon Fiend)",
             "description": "<p>Vous conjurez un fiélon qui se bat pour vous. Cela fonctionne comme @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{convocation d’animal}, excepté que vous convoquez une créature ordinaire qui a le trait fiélon et dont le Niveau est de 5 ou inférieur. Vous ne pouvez convoquer une créature que si son alignement est l’un des alignements favoris de votre divinité (ou, si vous n’avez pas de divinité, l’un des échelons de votre alignement). À la discrétion du MJ, certaines divinités peuvent restreindre certains types de fiélons, même si leurs alignements correspondent.</p>\n<hr />\n<p><strong>Intensifié (6e)</strong> Niveau 7</p>\n<p><strong>Intensifié (7e)</strong> Niveau 9</p>\n<p><strong>Intensifié (8e)</strong> Niveau 11</p>\n<p><strong>Intensifié (9e)</strong> Niveau 13</p>\n<p><strong>Intensifié (10e)</strong> Niveau 15</p>"
@@ -1160,6 +1200,11 @@
             "id": "Hunter's Vision",
             "name": "Vision du chasseur (Hunter's Vision)",
             "description": "<p>Votre cible brille d'une aura magique qui n'est visible que de vous et de ceux qui suivent vos directives.</p>\n<p>Votre cible est visible pour vous et ceux qui partagent les avantages de @Compendium[pf2e.classfeatures.0nIOGpHQNHsKSFKT]{Chasser une proie} même si elle ne devrait pas l'être à cause de la lumière ou des conditions @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} ou @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}, bien qu'un abri provoqué par des objets opaques bloque toujours cette vision. Vous ignorez le test nu contre la cible lorsqu'il est lié à la condition Masquée et la cible n'est pas automatiquement @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée} à cause de l'obscurité ou du fait d'être Invisible.</p>"
+        },
+        {
+            "id": "Acid Splash",
+            "name": "Aspersion d’acide (Acid Splash)",
+            "description": "<p>Vous envoyez un globe d’acide qui éclabousse les créatures et les objets. Faites une attaque de sort. Si vous touchez, vous infligez [[r /1d6 #acide]] dégâts d’acide plus 1 dégât d’acide d’éclaboussure. Sur un succès critique, la cible reçoit aussi 1 dégât d’acide persistant.</p>\n<hr />\n<p><strong>Intensifié (3e)</strong> Les dégâts initiaux passent à 1d6 + votre modificateur de caractéristique d’incantation et les @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts persistants} passent à 2.</p>\n<p><strong>Intensifié (5e)</strong> Les dégâts initiaux passent à 2d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants} passent à 3 et les dégâts d’éclaboussure passent à 2.</p>\n<p><strong>Intensifié (7e)</strong> Les dégâts initiaux passent à 3d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 4 et les dégâts d’éclaboussure passent à 3.</p>\n<p><strong>Intensifié (9e)</strong> Les dégâts initiaux passent à 4d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 5 et les dégâts d’éclaboussure passent à 4.</p>"
         },
         {
             "id": "Mind Reading",
@@ -1292,6 +1337,11 @@
             "description": "<p>Vous protégez une créature grâce à une énergie protectrice qui détourne les attaques ennemies. Les créatures qui tentent d’attaquer la cible doivent effectuer un jet de Volonté à chaque fois. Si la cible utilise une action hostile, le sort se termine.</p>\n<p><strong>Succès critique</strong> Sanctuaire prend fin.</p>\n<p><strong>Succès</strong> La créature peut tenter son attaque et n’importe quelle autre attaque contre la cible ce tour.</p>\n<p><strong>Échec</strong> La créature ne peut pas attaquer la cible et perd son action. Elle ne peut plus tenter d’attaque contre la cible ce tour.</p>\n<p><strong>Échec critique</strong> La créature perd son action et ne peut pas tenter d’attaquer la cible pour le reste de la durée de Sanctuaire.</p>"
         },
         {
+            "id": "Nudge Fate",
+            "name": "Coup de pouce au destin (Nudge Fate)",
+            "description": "<p>Vous lisez légèrement dans le futur et donnez un petit coupe de poce au destin pour obtenir le résultat que vous désirez.</p>\n<p>Une fois au cours de la durée, lorsque la cible manque une jet d'attaque, un test de compétence ou un jet de sauvegarde et qu'un bonus de statut de +1 devrait transformer en échec critique en un échec ou un échec en succès, vous accordez à la cible le bonus de +1 au test de manière rétrospective en changeant l'issue en conséquence de manière appropriée. Le sort s'achève alors et la cible est alors temporairement immunisée pendant 1 minute.</p>\n<p>Si vous lancez <em>coup de pouce au destin</em> alors qu'une précédente incantation de ce maléfice est toujours en effet, le précédent effet s'achève.</p>"
+        },
+        {
             "id": "Enduring Might",
             "name": "Puissance protectrice (Enduring Might)",
             "description": "<p><strong>Déclencheur</strong> Une attaque ou un effet qui devrait vous infliger des dégâts.</p>\n<hr />\n<p>Votre propre puissance se mêle au pouvoir divin pour vous protéger. Vous gagnez une résistance égale à 8 plus votre modificateur de Force contre tous les dégâts issus de l’attaque ou effet déclencheur.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La résistance augmente de 2.</p>"
@@ -1362,6 +1412,11 @@
             "description": "<p>Vous entrez dans une transe qui vous permet de percevoir à travers les sens de votre compagnon cible. Vous faites des tests de Perception en utilisant votre propre Perception, mais vous disposez de tout sens spécial que la vible possède, tels que @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>\n<p>Ce sort ne vous accorde aucune méthode spéciale de communication avec l'animal chois, de sorte qu'il suit toute instruction vous lui avez donné avant d'entrer dans la transe et, s'il échoue, il fait ce qu'il souhaite.</p>\n<p>Pendant la durée de la transe, vous êtes coupé de vos propres sens, bien que vous puissiez toujours communiquer. Ce manque ede vigilance vous rend @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}. Vous ne pouvez entreprendre aucune action possédant les traits attaque ou déplacement.</p>\n<hr>\n<p><strong>Intensifié (6e) </strong>Augmentez la portée à 30 kilomètres et la durée de Maintenue jusqu'à 10 minutes. La cible peut vous entendre à travers le sort, vous permettant de @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Diriger l'animal} ou d'utiliser d'autres actions qui ont le trait audible.</p>\n<p><strong>Intensifié (8e) </strong>Augmentez la durée à planétaire et la durée de Maintenue jusqu'à 1 hour. Vous pouvez communiquer télépathiquement avec la cible pendant la durée de la transe.</p>"
         },
         {
+            "id": "Guidance",
+            "name": "Assistance divine (Guidance)",
+            "description": "<p>Vous sollicitez une assistance divine, ce qui confère à la cible un bonus de statut de +1 à un jet d’attaque, un test de Perception, un jet de sauvegarde ou un test de compétence effectué avant la fin de la durée du sort.</p>\n<p>La cible choisit sur quel jet elle souhaite appliquer le bonus avant de lancer le dé. Le sort se termine si la cible utilise le bonus. Qu’elle l’utilise ou non, la cible est ensuite temporairement immunisée pendant une heure.</p>\n<hr />\n<p>@Compendium[pf2e.spell-effects.3qHKBDF7lrHw8jFK]{Effet : Assistance divine}</p>"
+        },
+        {
             "id": "Hyperfocus",
             "name": "Hyperfocalisation (Hyperfocus)",
             "description": "<p>Vous aiguisez les sens d'une créature de sorte que des objets distants deviennent brumeux, indistincts ou assourdis pour ce qui le concerne.</p>\n<p>La cible obtient un bonus de statut de +1 aux tests de Perception tenté avec l'un de ses sens précis. De plus, tout sens imprécis que la cible possède est aiguisé pour en faire un sens précis (bien qu'ils ne reçoivent pas de bonus de statut). Quoi qu'il en soit, la cible ne peut rien percevoir au delà d'une portée de 6 mètres avec aucun de ses sens. La durée est déterminée par le jet de Volonté de la cible. Vous pouvez permettre à vos alliés de choisir le résultat au lieu de lancer un jet de sauvegarde.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible est affectée pendant 1 round.</p>\n<p><strong>Échec</strong> La cible est affectée pendant 1 minute.</p>\n<p><strong>Échec critique</strong> Comme avec l'échec mais la cible ne peut rien percevoir au-delà d'une portée de 3 mètres.</p>\n<hr />\n<p><strong>Intensifié (3e)</strong> Vous pouvez cibler jusqu'à 2 créatures.</p>\n<p><strong>Intensifié (6e)</strong> Vous pouvez cibler jusqu'à 4 créatures.</p>"
@@ -1395,6 +1450,11 @@
             "id": "Cloak of Colors",
             "name": "Cape colorée (Cloak of Colors)",
             "description": "<p>Une cape de couleurs tourbillonnantes enveloppe la cible.</p>\n<p>Les créatures adjacentes sont @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouies}. Une attaque qui touche la cible déclenche un violent éclair lumineux. Une créature qui touche la cible avec une attaque au corps à corps doit faire un jet de Volonté. La créature est immunisée temporairement jusqu’à la fin de son tour. Cet effet possède le trait mise hors de combat</p>\n<hr />\n<p><strong>Succès</strong> L’assaillant n’est pas affecté.</p>\n<p><strong>Échec</strong> L’assaillant est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveugle} pendant 1 round.</p>\n<p><strong>Échec critique</strong> L’assaillant est @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdi} pendant 1 round.</p>"
+        },
+        {
+            "id": "Telekinetic Projectile",
+            "name": "Projectile télékinésique (Telekinetic Projectile)",
+            "description": "<p>Vous lancez à la cible un objet mal fixé non porté qui se trouve à portée et qui a un Encombrement de 1 ou inférieur. Faites une attaque de sort contre la cible. Si vous touchez, vous infligez un montant de dégâts contondants, perforants ou tranchants − appropriés à l’objet que vous lancez − égal à [[r /1d6]] plus votre modificateur de caractéristique d’incantation. Aucun trait spécifique ou propriété magique de l’objet lancé n’affecte l’attaque ou les dégâts.</p>\n<hr />\n<p><strong>Succès critique</strong>  Vous infligez le double de dégâts.</p>\n<p><strong>Succès<strong> Vous infligez la totalité des dégâts.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de [[r /1d6]].</p>"
         },
         {
             "id": "Veil",
@@ -1450,6 +1510,11 @@
             "id": "Heal Companion",
             "name": "Guérison de compagnon (Heal Companion)",
             "description": "<p>Vous exploitez l'énergie positive pour soigner les blessures de votre compagnon animal. Vous restaurez [[/r 1d10]] Points de Vie à votre compagnon animal. Le nombre d'actions que vous passez à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer ce sort} détermine la portée et les autres paramètres.</p>\n<ul>\n<li><span class=\"pf2-icon\">1</span> (somatique) Le sort possède une portée de contact.</li>\n<li><span class=\"pf2-icon\">2</span> (verbal) Le sort a une portée de 9 m et permet de récupérer 8 Points de vie supplémentaires à la cible.</p>\n</ul>\n<hr />\n<p><strong>Intensifié (+1)</strong> Le montant des soins augmente de [[/r 1d10]] et les soins supplémentaires pour la version à 2 actions augmente de 8.</p>"
+        },
+        {
+            "id": "House of Imaginary Walls",
+            "name": "Demeure aux murs imaginaires (House of Imaginary Walls)",
+            "description": "<p>Vous mimez un pan de mur @Compendium[pf2e.conditionspf2e.zJxUflt9np0q4yML]{invisible} de 3×3 m adjacent à vous et situé dans la portée. Le mur est solide pour les créatures qui ne le discernent pas, même les créatures intangibles. Vous et vos alliés pouvez volontairement croire que le mur existe pour continuer à le traiter comme solide, par exemple pour l’escalader. Une créature qui discerne l’illusion est temporairement immunisée à votre demeure aux murs imaginaires pendant 1 minute.</p>\n<p>Le mur ne bloque ni les créatures qui ne peuvent pas voir votre représentation visuelle ni les objets. Le mur a une CA de 10, une Solidité égale au double du niveau du sort et un nombre de PV égal au quadruple du niveau du sort.</p>"
         },
         {
             "id": "Deafness",
@@ -1752,9 +1817,19 @@
             "description": "<p>Vous invoquez une tempête de pluies acides qui s'abat sur la zone pendant toute la durée du sort. Une créature qui commence son tour dans la zone subit 3d8 de dégâts acides (Réflexes basique).</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> Les dégâts augmente de 1d8.</p>"
         },
         {
+            "id": "Join Pasts",
+            "name": "Joindre les passés (Join Pasts)",
+            "description": "<p>En touchant le front des cibles, vous les amenez dans un état de communion mentale.</p>\n<p>Les cibles peuvent partager des pensées et des expériences, mais pas des mots. Lorsqu'une cible tente de Se souvenir, l'autre peut Aider au test de  compétence du premier, utilisant n'importe quelle Connaissance (même si cette Connaissance ne pourrait normalement pas s'appliquer) sans avoir à se préparer à Aider.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Vous pouvez toucher une cible supplémentaire et l'inclure dans les effets de votre sort.  Des cibles multiples peuvent tenter des jets pour Aider la cible qui tente de Se souvenir</p>"
+        },
+        {
             "id": "Visions of Danger",
             "name": "Dangereuses visions (Visions of Danger)",
             "description": "<p>Des créatures horrifiques illusoires emplissent la zone du sort. Les créatures ressemblent à de Très Petits monstres en nuées ayant l’apparence spécifique de votre choix, comme des mouches infernales ou des lames de scie animées. L’explosion inflige 8d8 dégâts mentaux (jet de sauvegarde basique) à chaque créature qui se trouve à l’intérieur de l’explosion quand elle est créée, qui y entre ou qui y commence son tour. Une créature qui obtient un succès critique à son jet de Volonté peut immédiatement tenter de discerner l’illusion. Une créature qui essaye d’Interagir avec les monstres ou en observe un avec une action Chercher peut tenter de discerner l’illusion. Les créatures qui discernent l’illusion ne subissent plus de dégâts de l’illusion par la suite.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts mentaux augmentent de 1d8.</p>"
+        },
+        {
+            "id": "Silver's Refrain",
+            "name": "Refrain d'argent (Silver's Refrain)",
+            "description": "<p>La “Chanson d'Argent” était une chanson enchantée utilisée par les Corbeaux d'argent pour battre les forces diaboliques. Vous en tirez des morceaux choisis pour répliquer de manière temporaire certains des avantages légendaires de la chanson, même si c'est à une échelle beaucoup plus petite.</p>\n<p>Les attaques avec une arme et à mains nues effectuées par vos alliés dans la zone sont traitées comme si elles étaient en argent. En plus, ce sort essaie automatiquement un contresort contre toute @Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle} lancée par un diable essayant d'entrer dans la zone en utilisant <em>porte dimensionnelle</em>. Si un diable essaie de rentrer dans la zone en utilisant <em>porte dimensionnelle</em> et que le sort est contré, le diable reste à l'endroit d'où il est parti.</p>"
         },
         {
             "id": "Rime Slick",
@@ -1882,6 +1957,11 @@
             "description": "<p>Vous affligez la cible avec une malédiction qui remplit l'esprit avec des distractions et une hyper-minutie, provoquant pour critiquer même des faits simples. La cible doit tenter un jet de Volonté.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affecté.</p>\n<p><strong>Succès</strong> Pendant 10 minutes, la cible doit lancer deux fois les dés et utiliser le pire résultat lorsqu'elle tente un test d'Arcanes, de Connaissance, d'Occultisme ou de Société. Si la cible réussit un test pour Se souvenir, elle obtient un bout d'information véritable et un bout de connaissance erroné, mais elle n'a aucun moyen de savoir laquelle est laquelle (cela n'a pas d'effet si la cible obtient un succès critique à un test pour Se souvenir).</p>\n<p><strong>Échec</strong> Comme en cas de succès, mais l'effet est permanent.</p>\n<p><strong>Échec critique</strong> Comme en cas d'échec et la cible traite les issues de tous ses tests pour Se souvenir comme s'il avait un degré de succès pire que le résultat obtenu (un succès critique devient un succès, un succès devient un échec et un échec devient un échec critique).</p>"
         },
         {
+            "id": "Shield",
+            "name": "Bouclier (Shield)",
+            "description": "<p>Vous élevez un bouclier de force magique. Cela compte comme si vous utilisiez Lever un bouclier, vous octroyant un bonus de circonstances de +1 à la CA jusqu’au début de votre prochain tour, mais cela ne nécessite aucune main pour l’utiliser.</p>\n<p>Tant que le sort est actif, vous pouvez utiliser la réaction @Compendium[pf2e.bestiary-ability-glossary-srd.m4HQ2o5aPxjXf2kY]{Blocage au bouclier} avec votre bouclier magique. Le bouclier a une Solidité de 5. Après avoir utilisé Blocage au bouclier, le sort prend fin et vous ne pouvez pas le lancer de nouveau avant 10 minutes.</p>\n<p>Contrairement à un Blocage au bouclier normal, vous pouvez utiliser la réaction du sort contre le sort @Compendium[pf2e.spells-srd.gKKqvLohtrSJj3BM]{Projectile magique}.</p>\n<p>Intensifier le sort augmente la Solidité du bouclier.</p>\n<p>@Compendium[pf2e.spell-effects.Jemq5UknGdMO7b73]{Effet: Bouclier}</p>\n<hr />\n<p><strong>Intensifié (3e)</strong> Le bouclier a une Solidité de 10.</p>\n<p><strong>Intensifié (5e)</strong> Le bouclier a une Solidité de 15.</p>\n<p><strong>Intensifié (7e)</strong> Le bouclier a une Solidité de 20.</p>\n<p><strong>Intensifié (9e)</strong> Le bouclier a une Solidité de 25.</p>"
+        },
+        {
             "id": "Vomit Swarm",
             "name": "Vomir une nuée (Vomit Swarm)",
             "description": "<p>Vous recrachez une nuée de vermine magique.</p>\n<p>Vous invoquez et façonnez les créatures à partir de votre propre imagination, vous permettant d'en changer l'apparence (typiquement un mélange de mille-pattes, de cafards, de guêpes et de vers), mais cela ne modifie par l'effet du sort. La nuée de vermine se rue sur quiconque se trouve dans la zone, les morsures et piqûres infligeant  [[/r 2d8 #perforants]] dégâts perforants (jet de Réflexes basique). Une créature qui obtient un échec à son jet de sauvegarde devient aussi  @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1. Une fois le sort achevé, la nuée disparaît.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentez les dégâts de [[/r 1d8#perforants]].</p>"
@@ -1915,6 +1995,11 @@
             "id": "Halcyon Infusion",
             "name": "Infusion paisible (Halcyon Infusion)",
             "description": "<p>Vous imprégnez d'énergie magique votre cible ouvrant leur esprit aux manières de la magie et leur accordant la capacité d'utiliser la magie pour affecter le monde qui les entoure.</p>\n<p>Choisissez un sort de niveau 1 que vous avez préparé aujourd'hui ou qui se trouve dans votre répertoire, de la même tradition que celle que vous avez lancé pour l'ifusion paisible. Le sort doit être un de ceux qui a une portée listée. Si la cible est au moins du niveau 3, vous pouvez choisir un sort de niveau 2 à la place au lieu d'un sort de niveau 1 ; et si la cible est au moins de niveau 5, vous pouvez choisir un sort de niveau 3. La cible peut Lancer le sort une fois par jour comme s'il s'agissait d'un sort inné de la tradition que vous avez utilisé pour lancer <em>infusion paisible</em>. S'ils ne sont pas qualifié dans la tradition magique appropriée, leur bonus d'attaque de sort est de 2 + leur niveau + leur plus haut modificateur de caractéristique mentale et leur DD de sort est de 12 + leur niveau + leur plus haut modificateur de caractéristique mentale.</p>\n<p>Contrairement à la plupart des capacités qui peuvent seulement être utilisées une fois par jour, la cible rafraîchit l'utilisation du sort inné accordé chaque jour seulement après que vous ayez fait vos préparatifs quotidiens et que vous choisissez d'étendre la durée d'infusion paisible soit en vous réfrénant de préparer un sort dans l'emplacement (si vous êtes un incantateur préparé) ou en dépensant un autre emplacement de sort (si vous êtes un incantateur spontané).</p>\n<hr />\n<p><strong>Intensifié (8e)</strong> Si la cible est au moins du niveau 7, vous pouvez choisir un sort de niveau 4.</p>\n<p><strong>Intensifié (10e)</strong> Comme au niveau 8 et si la cible est au moins de niveau 9, vous pouvez choisir un sort de niveau 5.</p>"
+        },
+        {
+            "id": "Prestidigitation",
+            "name": "Prestidigitation (Prestidigitation)",
+            "description": "<p>Même la plus simple des magies peut vous servir. Vous pouvez accomplir de effets magiques simples tant que vous Maintenez le sort. Chaque fois que vous Maintenez le sort, vous pouvez choisir l’une des quatre options ci-dessous :</p>\n<ul>\n<li><strong>Cuisine</strong> Réchauffe, refroidit ou aromatise 500 g de matériau non vivant.</li>\n<li><strong>Soulève</strong> Soulève lentement à 30 cm au-dessus du sol un objet non porté d’Encombrement léger ou moins.</li>\n<li><strong>Fabrique</strong> Crée dans une substance magique solide un objet temporaire d’Encombrement négligeable. L’objet paraît grossier, artificiel et extrêmement fragile — on ne peut s’en servir ni d’outil, ni d’arme ni de composant de sort.</li>\n<li><strong>Nettoie</strong> Colorise, nettoie ou salit un objet d’Encombrement léger ou moins. Vous pouvez affecter un objet d’Encombrement 1 avec 10 rounds de concentration et ou un objet plus grand avec 1 minute par Encombrement.</li>\n</ul>\n<p>Prestidigitation ne peut pas infliger des dégâts ou des états défavorables. Tout changement réel apporté à un objet (en plus de ceux précisés plus haut) persiste tant que vous Maintenez le sort. </p>"
         },
         {
             "id": "Delusional Pride",
@@ -2025,6 +2110,11 @@
             "id": "Ravening Maw",
             "name": "Mâchoire dévorante (Ravening Maw)",
             "description": "<p>Vous invoquez la faim incessante de Zevgavizeb et l'infligez à votre cible.</p>\n<p>La cible est submergée par une faim cannibale et peut restaurer sa vitalité en festoyant de la chair de ceux qui sont tombés. À son tour, la cible peut utiliser 2 actions (ces actions ont le trait manipulation) pour cannibaliser une créature adjacente @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourante} ou morte. Si la créature cannibalisée est Mourante, elle meurt. Si la créature cannibalisée est un allié de la cible, la cible regagne 5d8 pv ; autrement, la cible regagne 5d4 pv. Certains monstres (tels que ceux dont le sang est acide ou magique) pourraient infliger des effets supplémentaires sur ceux qui les cannibalisent à la discrétion du MJ. Une fois cannibalisé, le corps d'une créature particulière n'a pas assez de viande pour être encore cannibalisé. Durant chaque round au cours duquel il y a une créature Mourante ou morte dans les 9 m de la cible, et si la cible ne peut pas ou ne cannibalise pas une creature, la cible subit 5d4 dégâts mentaux.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Le montant de PV récupérés en cannibalisant une créature augmente de 1d8 pour manger un allié et 1d4 autrement, et les dégâts mentaux augmentent de 1d4.</p>"
+        },
+        {
+            "id": "Triple Time",
+            "name": "À trois temps (Triple Time)",
+            "description": "<p>Vous dansez à un rythme soutenu, accélérant le déplacement de vos alliés.</p>\n<p>Vous et vos alliés dans la zone gagnez un bonus de statut de +3 m à toutes vos Vitesses pendant 1 round.</p>"
         },
         {
             "id": "Commanding Lash",
@@ -2222,6 +2312,11 @@
             "description": "<p>Vous vous dissociez en une nuée de minuscules créatures.</p>\n<p>Tant que vous êtes sous la forme de nuée, vous avez le trait nuée et vous obtenez une résistance 5 aux dégâts tranchants et perforants et une faibless 5 aux dégâts de zone et d'éclaboussure. Vous pouvez passer dans des espaces d'à peine quelques centimètres de large, déplaçant les créatures qui vous constituent au travers du trou. Vous n'obtenez par la capacité esprit de la nuée, de sorte que vous êtes toujours affecté par les effets mentaux. En tant que nuée, vous ne pouvez parler, lancer des sorts, utiliser des actions de manipulation nécessittant vos mains, activer vos objets magiques ou faire n'importe laquelle de vos Frappes avec votre corps habituel. Vous pouvez Révoquer le sort.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> Augmentez vos résistances et vos faiblesses de 5 chacune.</p>"
         },
         {
+            "id": "Chill Touch",
+            "name": "Contact glacial (Chill Touch)",
+            "description": "<p>Vous absorbez de l’énergie négative et de pâles ténèbres enveloppent votre main. Votre toucher affaiblit les vivants et désoriente les morts-vivants, les mettant possiblement en fuite. L’effet est différent si la cible est vivante ou morte-vivante.</p>\n<ul>\n<li><strong>Créature vivante</strong> Le sort inflige des dégâts d’énergie négative égaux à 1d4 plus votre modificateur d’incantation. La cible fait un jet de Vigueur basique mais en cas d’échec critique elle est aussi @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 1 pendant 1 round.</li>\n<li><strong>Créature morte-vivante</strong> La cible est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} pendant un round si elle rate un jet de Vigueur. Sur un échec critique, elle @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{fuit} aussi pendant un round, à moins de réussir un jet de Volonté.</li>\n</ul>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts négatifs infligés aux vivants augmentent de 1d4.</p>"
+        },
+        {
             "id": "Guidance",
             "name": "Assistance divine (Guidance)",
             "description": "<p>Vous sollicitez une assistance divine, ce qui confère à la cible un bonus de statut de +1 à un jet d’attaque, un test de Perception, un jet de sauvegarde ou un test de compétence effectué avant la fin de la durée du sort.</p>\n<p>La cible choisit sur quel jet elle souhaite appliquer le bonus avant de lancer le dé. Le sort se termine si la cible utilise le bonus. Qu’elle l’utilise ou non, la cible est ensuite temporairement immunisée pendant une heure.</p>\n<hr />\n<p>@Compendium[pf2e.spell-effects.3qHKBDF7lrHw8jFK]{Effet : Assistance divine}</p>"
@@ -2250,6 +2345,11 @@
             "id": "Mystic Beacon",
             "name": "Phare mystique (Mystic Beacon)",
             "description": "<p>Le prochain sort préjudiciable ou de guérison que la cible lance avant le début de votre prochain tour inflige des dégâts ou restaure des points de vie comme si le sort était intensifié 1 niveau supérieur à son niveau actuel. Sinon, le sort fonctionne à son niveau actuel. Une fois que la cible a lancé le sort, phare mystique prend fin.</p>"
+        },
+        {
+            "id": "Produce Flame",
+            "name": "Flammes (Produce Flame)",
+            "description": "<p>Une petite boule de flammes apparaît dans la paume de votre main et vous vous en servez pour vous battre au corps à corps ou à distance. Faites un jet d’attaque de sort contre la CA de la cible. C’est normalement une attaque à distance mais vous pouvez également faire une attaque au corps à corps contre une créature à portée de votre allonge à mains nues.</p>\n<p>En cas de succès, vous infligez 1d4 dégâts de feu plus votre modificateur de caractéristique d’incantation. En cas de succès critique, la cible subit le double des dégâts et 1d4 dégâts de feu persistants.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentez les dégâts de 1d4 et les @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts persistants} en cas de succès critique de 1d4.</p>"
         },
         {
             "id": "Necrotic Radiation",
@@ -2492,6 +2592,16 @@
             "description": "<p>Vous consolidez les énergies protectrices d'un geste, préservant une créature contre les attaques d'un certain type d'adversaire.</p>\n<p>Désignez une des créatures suivantes : aberration, animal, bête, céleste, champignon, créature artificielle, dragon, élémentaire, fée, fiélon, mort-vivant, plante, vase ou veilleur. La cible obtient un bonus de statut de +1 à ses jets de sauvegarde et à la CA contre les créatures avec ce trait. La cible est temporairement immunisée pendant 10 minutes.</p>\n<hr />\n<p><strong>Intensifié (5e)</strong> Le bonus de statut augmente de +2.</p>"
         },
         {
+            "id": "Ray of Frost",
+            "name": "Rayon de givre (Ray of Frost)",
+            "description": "<p>Vous projetez un rayon de froid glacial. Effectuez un jet d’attaque de sort. Le rayon inflige des dégâts de froid d’un montant égal à 1d4 + votre modificateur de caractéristique d’incantation.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible subit le double des dégâts et un malus de statut de −3 m à ses Vitesses pendant 1 round.</p>\n<p><strong>Succès</strong>La cible reçoit les dégâts normaux.</p>\n<p>@Compendium[pf2e.spell-effects.I4PsUAaYSUJ8pwKC]{Effet: Rayon de givre}</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d4.</p>"
+        },
+        {
+            "id": "Dancing Lights",
+            "name": "Lumières dansantes (Dancing Lights)",
+            "description": "<p>Vous créez jusqu’à quatre lumières flottantes qui ne doivent pas être séparées de plus de 3 m. Chacune émet autant de lumière qu’une torche. Quand vous Maintenez le sort, vous pouvez déplacer autant de lumières que vous le voulez d’au maximum 18 m. Chaque lumière doit rester dans un rayon de 36 m autour de vous et dans un rayon de 3 m autour des autres lumières, sinon elle s’éteint.</p>"
+        },
+        {
             "id": "Shrink Item",
             "name": "Rétrécir un objet (Shrink Item)",
             "description": "<p>Vous réduisez la cible jusqu’à la taille d’une pièce de monnaie. Cela la réduit à un Encombrement négligeable. Vous pouvez Révoquer le sort, et il prend fin si vous jetez l’objet sur une surface solide. L’objet ne peut pas être utilisé pour attaquer ou infliger des dégâts pendant le processus de retour à sa taille normale. S’il n’y a pas de place pour que l’objet retrouve sa taille normale quand le sort prend fin, la durée du sort se prolonge jusqu’à ce que l’objet se trouve dans un endroit assez grand pour accueillir sa taille normale.</p>"
@@ -2540,6 +2650,11 @@
             "id": "Maze of Locked Doors",
             "name": "Dédale de portes fermées (Maze of Locked Doors)",
             "description": "<p>La cible est attirée dans un long corridor extradimensionnel bloqué à des intervales de 9 mètres par des portes en ébénite de haute qualité (Solidité 20, PV 80, SR 40, Athlétisme DD 30 pour Forcer l'ouverture) sécurisée avec des @Compendium[pf2e.equipment-srd.q2TYVAMaK6UfenbV]{Serrures (moyennes)} (DD 25 Vol, 4 tests réussis nécessaires). Une créature piégée dans ce corridor ne peut s'échapper que lorsque le sort expire ou lorsqu'elle est parvenue à réussir à travers un nombre de portes déterminé par leur jet de sauvegarde, soit en les enfonçant, soit en ouvrant les serrures (ou toute combinaison de ces différentes options si la cible doit franchir plusieurs portes pour s'échapper). Les effets de téléportation de niveau 6 ou moins sont automatiquement supprimés au sein du corridor extradimensionnel ; les effets de téléportation de niveau supérieur imposent au lanceur de sorts de réussir un test de contre contre le DD de votre sort ou ils échouent.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible est piégée pendant 1 round ou jusqu'à ce qu'elle franchisse 1 porte.</p>\n<p><strong>Échec</strong> La cible est piégée pendant 1 minute ou jusqu'à ce qu'elle franchisse 2 portes.</p>\n<p><strong>Échec critique</strong> La cible est piégée pendant 10 minutes ou jusqu'à ce qu'elle franchisse 3 portes.</p>"
+        },
+        {
+            "id": "Light",
+            "name": "Lumière (Light)",
+            "description": "<p>L’objet luit en émettant une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà), comme une torche. Si vous lancez ce sort une nouvelle fois sur un deuxième objet, le sort lumière sur le premier prend fin.</p>\n<hr />\n<p><strong>Intensifié (4e)</strong> L’objet émet une lumière vive dans un rayon de 18 m (et une lumière faible dans les 18 m au-delà).</p>"
         },
         {
             "id": "Wholeness of Body",
@@ -2782,6 +2897,11 @@
             "description": "<p><strong>Déclencheur</strong> Une créature à portée devient  @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé}.</p>\n<hr />\n<p>Vous ouvrez grand la bouche et inspirez fortement ; vous aspirez la bravoure, la confiance en soi et l'espoir auxquels s'accroche la cible effrayée, puis vous lui enlevez l'idée fausse que ces émotions fragiles peuvent la sauver de l'oubli de la terreur.</p>\n<p>Vous infligez [[/r 6d4 #mental]] des dégâts mentaux à la créature, qui doit tenter un jet de sauvegarde de Volonté.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> L'état d'effroi de la créature augmente de 1, et elle subit la moitié des dégâts.</p>\n<p><strong>Échec</strong> L'état d'effroi de la créature augmente de 2, et elle subit tous les dégâts ; vous regagnez un nombre de points de vie égal à la moitié des dégâts subis par la cible.</p>\n<p><strong>Échec critique</strong> L'état d'effroi de la créature augmente de 3 et elle subit des dégâts doublés ; vous regagnez un nombre de points de vie égal à la moitié des dégâts subis par la cible.</p>\n<hr />\n<p>Intensifié (+1) Les dégâts augmentent de [[/r 2d4]].</p>"
         },
         {
+            "id": "Clinging Ice",
+            "name": "Glace tenace (Clinging Ice)",
+            "description": "<p>De la neige lourde et du grésil gelé se portent sur les pieds et les jambes de la cible, infligeant [[/r 1d4 #froid]] dégâts de froid et d'autres effets en fonction de son jet de sauvegarde. Une fois que se sort s'achève, la cible devient temporairement immunisée pendant 1 minute.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible subit demi-dégâts.</p>\n<p><strong>Échec</strong> La cible subit la totalité des dégâts et subit une pénalité de circonstance de -1,5 mètres à ses vitesses jusqu'à ce que le sort se termine</p>\n<p><strong>Échec critique</strong> La cible subit le double des dégâts et une pénalité de circonstance de -3 mètres à ses vitesses jusqu'à ce que le sort se termine.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de [[/r 1d4 #froid]].</p>"
+        },
+        {
             "id": "Lay on Hands",
             "name": "Imposition des mains (Lay on Hands)",
             "description": "<p>Vos mains s’imprègnent d’une énergie positive, soignant une créature vivante ou blessant une créature morte-vivante que vous touchez. Si vous utilisez imposition des mains sur une cible vivante consentante, vous restaurez 6 points de vie ; si la cible est l’un de vos alliés, elle gagne également un bonus de statut de +2 à la CA pendant 1 round.</p>\n<p>@Compendium[pf2e.spell-effects.lyLMiauxIVUM3oF1]{Effet: Imposition des mains}</p>\n<p>Contre une cible morte-vivante, vous infligez 1d6 dégâts et elle doit effectuer un jet de Vigueur basique ; si elle échoue, elle subit également un malus de statut de −2 à la CA pendant 1 round.</p>\n<p>@Compendium[pf2e.spells-srd.IxyD7YdRbSSucxZp]{Effet : Imposition des mains (mort-vivant)}</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Le montant de guérison augmente de 6 et les dégâts à une cible morte-vivante augmentent de 1d6.</p>"
@@ -2875,6 +2995,11 @@
             "id": "Apex Companion",
             "name": "Compagnon alpha (Apex Companion)",
             "description": "<p>Vous concentrez les énergies de tous les membres de l'espèce de votre compagnon animal et tranformez votre compagnon animal en sa forme de combat parfaite. Votre compagnon animal obtient les statistiques et les capacités suivantes sous sa forme alpha :</p>\n<ul>\n<li>Votre compagnon animal devient Très grand et ses attaques ont une allonge de 4,5 m. Il doit avoir suffisamment d'espace pour s'étendre de la sorte, sinon le sort est perdu,</li>\n<li>30 Points de vie temporaires,</li>\n<li>Vision dans le noir,</li>\n<li>Les dés de dégâts des attaques de votre compagnon animal augmentent d'un cran et ses attaques obtiennent le trait mortel d12,</li>\n<li>Un bonus de statut de +3 m à ses Vitesses.</li>\n<li>Ignore le terrain difficile et le terrain très difficile.</li>\n</ul>\n<p>@Compendium[pf2e.spell-effects.NXzo2kdgVixIZ2T1]{Effet de sort: Compagnon alpha}</p>"
+        },
+        {
+            "id": "Song of Strength",
+            "name": "Chanson de force (Song of Strength)",
+            "description": "<p>Vous renforcez la force physique de vos alliés avec une exhortation vigoureuse.</p>\n<p>Vous et vos alliés obtenez un bonus de statut de +1 aux tests d'Athlétisme et à vos DD contre des actions de compétence d'Athlétisme telles que @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} and @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambes}.</p>\n<p>@Compendium[pf2e.spell-effects.8adLKKzJy49USYJt]{Effet : Chanson de Force}</p>\n<hr />\n<p><strong>Spécial</strong> Si vous le combinez avec le sort de composition @Compendium[pf2e.spells-srd.kF0rs9mCPvJGfAZE]{Inspiration Héroïque}, vous pouvez utiliser cette composition pour améliorer le bonus accordé par Chanson de force de la même manière qu'@Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspiration vaillante} ou qu'@Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{Inspiration Défensive}.</p>"
         },
         {
             "id": "Sea Surge",
@@ -2977,6 +3102,11 @@
             "description": "<p>Vous envoyez des vagues de ki protecteur à la surface de votre corps, afin de le renforcer contre les coups. Du moins jusqu’à ce que vos ennemis les dissipent. Vous gagnez 15 points de vie temporaires qui persistent au maximum 3 rounds.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les Points de Vie temporaires augmentent de 5.</p>"
         },
         {
+            "id": "Shroud of Night",
+            "name": "Voile de nuit (Shroud of Night)",
+            "description": "<p>Dessinant avec votre main un geste de balancier, vous enveloppez la cible dans un voile de nuit. Les yeux de la cible sont couverts d'obsurcité. Si vous Lancez ce maléfice sur un allié volontaire (par exemple, un avec un aveuglement à la lumière), l'allié peut choisir quel résultat il obtient sans lancer les dés. Quelle que soit l'issue, la cible est alors temporairement immunisée pendant 1 minute.</p>\n<hr />\n<p><strong>Succès</strong> La cible n'est pas affectée.</p>\n<p><strong>Échec</strong> La cible est entourée d'obscurité trouble. À moins que votre cible possède @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}, les autres créatures lui sont @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées}.</p>"
+        },
+        {
             "id": "Swarmsense",
             "name": "Sens de la nuée (Swarmsense)",
             "description": "<p>Vous étendez vos sens à travers une multitude de créatures grouillantes et volantes.</p>\n<p>Vous créez une nuée grouillante dans votre case. Vous pouvez entendre au travers de la nuée comme si vous utilisiez votre propre sens de l'ouïe. La première fois que vous Maintenez le sort chaque round, vous pouvez déplacer la nuée de  m sur le sol dans n'importe quelle direction. La nuée possède une CA 15 et un bonus de +0 à ses jets de sauvegarde. N'importe quel dégât infligé à la nuée la détruit et met un terme au sort.</p>\n<hr />\n<p><strong>Intensifié (3e)</strong> La nuée a les avantages de @Compendium[pf2e.spells-srd.5KobTMrZeZxuXMgl]{Pattes d'araignée}.</p>\n<p><strong>Intensifié (5e)</strong> La nuée possède une vitesse de vol de  m. vous pouvez voir grâce à la nuée en utilisant vos sens visuels.</p>\n<p><strong>Intensifié (7e)</strong> La nuée obtient un bonus de statut de  m à ses vitesses.</p>"
@@ -3020,6 +3150,11 @@
             "id": "Ray of Frost",
             "name": "Rayon de givre (Ray of Frost)",
             "description": "<p>Vous projetez un rayon de froid glacial. Effectuez un jet d’attaque de sort. Le rayon inflige des dégâts de froid d’un montant égal à 1d4 + votre modificateur de caractéristique d’incantation.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible subit le double des dégâts et un malus de statut de −3 m à ses Vitesses pendant 1 round.</p>\n<p><strong>Succès</strong>La cible reçoit les dégâts normaux.</p>\n<p>@Compendium[pf2e.spell-effects.I4PsUAaYSUJ8pwKC]{Effet: Rayon de givre}</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d4.</p>"
+        },
+        {
+            "id": "Know Direction",
+            "name": "Repérage (Know Direction)",
+            "description": "<p>Vous visualisez mentalement un chemin qui part vers le nord.</p>\n<p>Vous savez immédiatement dans quelle direction se trouve le nord (si ce point cardinal existe là où vous vous trouvez).</p>\n<hr />\n<p><strong>Intensifié (7e)</strong> Vous pouvez, à la place, connaître la direction d’un endroit familier, tel que votre dernière demeure ou une taverne que vous appréciez.</p>"
         },
         {
             "id": "Dragon Breath",
@@ -3147,6 +3282,16 @@
             "description": "<p>Quatre glands à la peau striée de motifs pulsant rouges et orange poussent dans votre main. Vous ou toute personne tenant l’un des glands pouvez le lancer jusqu’à 9 m avec l’action Interagir. Il provoque une explosion de 1,5 m qui inflige 4d6 dégâts de feu. Le jet de sauvegarde utilise votre DD de sort, même si c’est un tiers qui lance le gland. Des flammes continuent de brûler au sol dans l’explosion pendant 1 min, infligeant 2d6 dégâts de feu à toute créature qui entre dans le brasier ou y termine son tour. Une créature reçoit des dégâts des flammes persistantes une fois par round seulement, même si elle se trouve dans des zones de flammes superposées émanant de plusieurs glands. Quand le sort se termine, tous les glands restants pourrissent et se transforment en humus ordinaire</p>\n<hr />\n<p><strong>Intensifié (8e)</strong> Les dégâts de l’explosion passent à 5d6 et ceux des flammes persistantes passent à 3d6.</p>\n<p><strong>Intensifié (9e)</strong> Les dégâts de l’explosion passent à 6d6 et ceux des flammes persistantes passent à 3d6.</p>"
         },
         {
+            "id": "Evil Eye",
+            "name": "Mauvais œil (Evil Eye)",
+            "description": "<p>Vous fixez votre œil sur la cible, lui imposant un maléfice malveillant.</p>\n<p>La cible devient Effrayée en fonction du résultat de son jet de Volonté. La valeur de cette condition ne peut être réduite en dessous de 1 tant que le sort est actif et vous pouvez voir la cible. Quel que soit le résultat, la cible est alors temporairement immunisée pendat 1 minute.</p>\n<hr />\n<p><strong>Succès</strong> La cible n'est pas affectée.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 1.</p>\n<p><strong>Échec critique</strong> La cible est Effrayée 2.</p>"
+        },
+        {
+            "id": "Inspire Competence",
+            "name": "Inspiration talentueuse (Inspire Competence)",
+            "description": "<p>Vos encouragements inspirent votre allié à réussir une tâche.</p>\n<p>Cela compte comme ayant pris suffisamment d’actions préparatoires pour Aider un allié à un test de compétence de votre choix, quelles que soient les circonstances. Quand vous utilisez plus tard la réaction @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider}, vous pouvez faire un test de Représentation à la place du test de compétence normal et, si vous obtenez un échec, vous obtenez un succès à la place. Si vous êtes légendaire en Représentation, vous obtenez automatiquement un succès critique.</p>\n<p>Le MJ peut décider que vous ne pouvez pas utiliser ce pouvoir si l’acte d’encourager votre allié pourrait interférer avec le test de compétence (comme un test pour @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif} ou ne pas gâcher un déguisement).</p>"
+        },
+        {
             "id": "Heroic Feat",
             "name": "Don héroïque (Heroic Feat)",
             "description": "<p>Vous obtenez la capacité d'accomplir une technique de combat spécialisée provenant du vaste trésor de connaissances guerrières que votre mystère vous fournit.</p>\n<p>Lorsque Lancez ce sort, vous utilisez l'action accordée par un des dons courants de guerrier (votre MJ pourrait ajouter des dons à cette liste). Si vous Lancez ce sort en utilisant 2 actions, l'action accordée doit être une unique action et si vous Lancez ce sort en utilisant 3 actions, vous pouvez à la place choisir un don qui accorde une activité à 2 actions.</p>\n<p>Le niveau du don choisi ne peut être supérieur au niveau du sort Don héroïque. Le don ne peut posséder une entrée fréquenceet vous devez remplir ses décelencheurs et ses conditions en vue de le choisir.</p>"
@@ -3202,6 +3347,11 @@
             "description": "<p>La cible peut marcher sur l’air comme si c’était de la terre ferme. Elle peut ainsi monter ou descendre à un angle maximal de 45 degrés.</p>"
         },
         {
+            "id": "Divine Lance",
+            "name": "Lance divine (Divine Lance)",
+            "description": "<p>Vous libérez un rayon d’énergie divine. Choisissez un alignement que possède votre divinité (chaotique, mauvais, bon ou loyal). Vous ne pouvez pas lancer ce sort si vous n’avez pas de divinité\nou si elle est neutre strict. Faites une attaque de sort à distance contre la CA de la cible. Si vous touchez, elle subit des dégâts de l’alignement choisi d’un montant de 1d4 + votre modificateur de caractéristique d’incantation (les points de dégâts sont doublés sur un coup critique). Ce sort adopte le trait de l’alignement que vous avez choisi.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d4.</p>"
+        },
+        {
             "id": "Summon Fey",
             "name": "Convocation de fée (Summon Fey)",
             "description": "<p>Vous conjurez une fée qui se bat pour vous. Cela fonctionne comme @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Convocation d'animal}, excepté que vous convoquez une créature ordinaire qui a le trait fée et dont le niveau est de −1.</p>\n<hr />\n<p><strong>Intensifié. (2e)</strong> Niveau 1</p>\n<p><strong>Intensifié. (3e)</strong> Niveau 2</p>\n<p><strong>Intensifié. (4e)</strong> Niveau 3</p>\n<p><strong>Intensifié. (5e)</strong> Niveau 5</p>\n<p><strong>Intensifié. (6e)</strong> Niveau 7</p>\n<p><strong>Intensifié. (7e)</strong> Niveau 9</p>\n<p><strong>Intensifié. (8e)</strong> Niveau 11</p>\n<p><strong>Intensifié. (9e)</strong> Niveau 13</p>\n<p><strong>Intensifié. (10e)</strong> Niveau 15</p>"
@@ -3240,6 +3390,11 @@
             "id": "Nudge Fate",
             "name": "Coup de pouce au destin (Nudge Fate)",
             "description": "<p>Vous lisez légèrement dans le futur et donnez un petit coupe de poce au destin pour obtenir le résultat que vous désirez.</p>\n<p>Une fois au cours de la durée, lorsque la cible manque une jet d'attaque, un test de compétence ou un jet de sauvegarde et qu'un bonus de statut de +1 devrait transformer en échec critique en un échec ou un échec en succès, vous accordez à la cible le bonus de +1 au test de manière rétrospective en changeant l'issue en conséquence de manière appropriée. Le sort s'achève alors et la cible est alors temporairement immunisée pendant 1 minute.</p>\n<p>Si vous lancez <em>coup de pouce au destin</em> alors qu'une précédente incantation de ce maléfice est toujours en effet, le précédent effet s'achève.</p>"
+        },
+        {
+            "id": "Stoke the Heart",
+            "name": "Enflammer les cœurs (Stoke the Heart)",
+            "description": "<p>La créature cible est prise d'une intense ferveur qui donne de la puissance à ses coups.</p>\n<p>La cible obtient un bonus destatut de +2 à ses jets de dégâts. Lorssque le sort se termine, la cible y devient temporairement immunisée pendant 1 minute.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> Le bonus de statut aux dégâts augmente de 1.</p>"
         },
         {
             "id": "Lightning Bolt",
@@ -3282,6 +3437,11 @@
             "description": "<p>La peau de la cible durcit comme de la pierre.</p>\n<p>Elle gagne résistance 5 aux dégâts physiques, excepté à l’adamantium. À chaque fois que la cible est touchée par une attaque contondante, perforante ou tranchante, la durée de <em>peau de pierre</em> diminue d’1 minute.</p>\n<hr />\n<p><strong>Intensifié (6e)</strong> La résistance passe à 10.</p>\n<p><strong>Intensifié (8e)</strong> La résistance passe à 15.</p>\n<p><strong>Intensifié (10e)</strong> La résistance passe à 20.</p>"
         },
         {
+            "id": "Detect Magic",
+            "name": "Détection de la magie (Detect Magic)",
+            "description": "<p>Vous envoyez une pulsation qui détecte la présence de magie. Vous ne recevez aucune information autre que l’absence ou la présence de magie. Vous pouvez ignorer la magie dont vous avez déjà connaissance, comme celle issue d’objets magiques et de sorts actifs appartenant à vos alliés et vous.</p>\n<p>Vous détectez la magie d’illusion uniquement si son niveau est inférieur à celui de votre sort de Détection de la magie . Cependant, un objet qui possède une aura d’illusion, mais n’a pas une apparence trompeuse (comme une Potion d'invisibilité) se détecte normalement.</p>\n<hr />\n<p><strong>Intensifié (3e)</strong> Vous apprenez l’école de magie de l’effet de sort de plus haut niveau à portée que votre sort détecte. S’il y a plusieurs effets de même niveau, c’est au MJ de décider lequel vous est révélé.</p>\n<p><strong>Intensifié (4e)</strong> Comme pour le niveau 3, mais vous identifiez aussi la source de la magie de plus haut niveau. Comme avec un sens imprécis, vous ne découvrez pas l’emplacement exact de la magie mais vous réduisez son emplacement possible à un cube de 1,5 mètres de côté (ou le plus proche possible si elle tient plus de place).</p>"
+        },
+        {
             "id": "Spider Climb",
             "name": "Pattes d'araignée (Spider Climb)",
             "description": "<p>De minuscules poils collants poussent sur les mains et les pieds de la créature, offrant des prises sur presque toutes les surfaces. La cible gagne une vitesse d’Escalade égale à sa Vitesse.</p>\n<hr />\n<p><strong>Intensifié (5e)</strong> La durée passe à 1 heure.</p>"
@@ -3310,6 +3470,11 @@
             "id": "Ancestral Memories",
             "name": "Souvenirs ancestraux (Ancestral Memories)",
             "description": "<p>Les souvenirs de lanceurs de sorts morts depuis des lustres vous confèrent des connaissances en une compétence spécifique.</p>\n<p>Choisissez une compétence autre que Connaissances ou une compétence de Connaissances liées à l’ancien empire d’où provient votre lignée. Vous devenez temporairement qualifié dans cette compétence et pouvez obtenir d’autres souvenirs provenant d’un ancêtre qualifié dans cette compétence. Si vous effectuez une tâche ou une activité dont la durée dépasse celle de ce sort, appliquez le modificateur de maîtrise le moins élevé.</p>\n<hr/>\n<p><strong>Intensifié (6e)</strong> Vous devenez temporairement un expert dans la compétence choisie.</p>"
+        },
+        {
+            "id": "Inspire Defense",
+            "name": "Inspiration défensive (Inspire Defense)",
+            "description": "<p>Vous inspirez vos alliés pour se protéger plus efficacement.</p>\n<p>Vous et vos alliés dans la zone gagnez un bonus de statut de +1 à la CA et aux jets de sauvegarde ainsi qu’une résistance aux dégâts physiques égale à la moitié du niveau du sort.</p>\n<p>@Compendium[pf2e.spell-effects.DLwTvjjnqs2sNGuG]{Effet : Inspiration Défensive}</p>"
         },
         {
             "id": "Tether",
@@ -3527,9 +3692,19 @@
             "description": "<p>Vous transformez la créature cible en un animal inoffensif approprié à la zone avec des effets basés sur son jet de Vigueur.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> Le corps de la cible est couvert de traits mineurs correspondant à l'animal inoffensif. Ses boyaux se tordent lorsqu'elle se transforme partiellement, la rendant @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1. Lorsqu'elle récupère de la condition Malade, ses caractéristiques reviennent à la normale.</p>\n<p><strong>Échec</strong> La cible se transforme pendant 1 minute mais conserve son esprit. Si elle passe toutes les actions de son tour à se concentrer sur sa forme originelle, elle peut tenter un jet de Volonté pour mettre un terme immédiatement à l'effet.</p>\n<p><strong>Échec critique</strong> La cible est transformée en l'animal inoffensif choisi, corps et esprit, pour une durée illimitée.</p>"
         },
         {
+            "id": "Message",
+            "name": "Message (Message)",
+            "description": "<p>Vous murmurez tout bas des mots mais ceux-ci sont directement transférés vers les oreilles de la cible au lieu de sortir de votre bouche. La cible peut entendre distinctement vos paroles comme si vous vous les prononciez à côté d’elle, mais les autres éprouvent les difficultés normales à entendre des paroles murmurées tout bas..</p>\n<p>La cible peut répondre brièvement par une réaction ou par une action gratuite lors de son prochain tour si elle le souhaite, mais elle doit pouvoir vous voir et se trouver à portée de votre sort. Si elle répond, sa réponse est transférée directement dans vos oreilles, exactement comme le message initial. </p>\n<hr>\n<p><strong>Intensifié (3e)</strong> La portée du sort passe à 150 m.</p>"
+        },
+        {
             "id": "Tree Shape",
             "name": "Morphologie d'arbre (Tree Shape)",
             "description": "<p>Vous vous transformez en un arbre de Grande taille. Les tests de Perception ne révèlent pas votre vraie nature, mais un test réussi de Nature ou de Survie contre le DD de votre sort révèle que vous semblez être un arbre étrangement nouveau dans la zone. Tant que vous êtes sous la forme d’un arbre, vous pouvez tout observer autour de vous, mais vous ne pouvez rien effectuer en dehors de mettre fin au sort et à votre tour en utilisant une action unique qui a le trait concentration. En tant qu’arbre, votre CA est de 20, et seuls les bonus et malus de statut et de circonstances vous affectent. Tout succès ou succès critique que vous obtenez à vos jets de Réflexes est un échec.</p>"
+        },
+        {
+            "id": "Forbidding Ward",
+            "name": "Sceau d'interdiction (Forbidding Ward)",
+            "description": "<p>Vous protégez un allié contre les attaques et les sorts hostiles de la cible ennemie.</p>\n<p>La cible alliée gagne un bonus de statut de +1 à la CA et aux jets de sauvegarde contre les attaques, les sorts et autres effets de la cible ennemie.</p>\n<p>@Compendium[pf2e.spell-effects.ctMxYPGEpstvhW9C]{Effet : Sceau d'interdiction}</p>\n<hr />\n<p><strong> Intensifié (6e)</strong> Le bonus de statut passe à +2.</p>"
         },
         {
             "id": "Brand the Impenitent",
@@ -3542,6 +3717,11 @@
             "description": "<p><strong>Déclencheur</strong> Un allié situé dans un rayon de 9 m subit des dégâts.</p>\n<hr />\n<p>Vous protégez votre allié en souffrant à sa place. Réduisez de 3 les dégâts que l’allié déclencheur devrait subir. Vous redirigez ces dégâts sur vous-même, mais vos immunités, faiblesses, résistances, etc. ne s’appliquent pas. Vous n’êtes sujet à aucun état ou autre effet des dégâts affectant votre allié (tels qu’un poison provenant d’une morsure venimeuse). Votre allié est toujours sujet à ces effets même si vous redirigez tous les dégâts déclencheurs sur vous.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts que vous redirigez augmentent de 3.</p>"
         },
         {
+            "id": "Stabilize",
+            "name": "Stabilisation (Stabilize)",
+            "description": "<p>L’énergie positive ferme les portes de la mort.</p>\n<p>La cible perd l’état @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant}, bien qu’elle reste @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconsciente} à 0 point de vie</p>"
+        },
+        {
             "id": "Atone",
             "name": "Pénitence (Atone)",
             "description": "<p>Vous tentez d’aider une créature pénitente qui souhaite sincèrement racheter ses fautes lorsqu’elle a agit à l’encontre de l’alignement de sa divinité ou a effectué des actions anathèmes à sa divinité. Si la créature n’est pas sincèrement repentante, le résultat aboutit toujours à un échec critique. Ce rituel utilise Nature si la cible est un druide et Religion dans tous les autres cas.</p>\n<hr />\n<p><span><strong>Succès critique</strong> La créature est pardonnée pour ses méfaits, ce qui lui permet de retrouver grâce aux yeux de sa divinité. Elle retrouve son précédent alignement (s’il avait changé) et récupère tous les pouvoirs qu’elle avait perdus. Avant que la pénitence ne soit appliquée, la créature doit accomplir une quête spéciale ou une tâche en rapport avec ses méfaits et confiée par sa divinité. Si elle l’accomplit pendant un intermède, cette tâche doit pouvoir se faire en moins d’un mois. Pendant un mois, la cible bénéficie d’intuitions divines lorsqu’elle est sur le point d’accomplir un acte anathème aux principes ou à l’alignement de sa divinité.</span></p>\n<p><span><strong>Succès</strong> Comme un succès critique, mais la créature ne bénéficie d’aucune intuition spéciale sur ses actions futures.</span></p>\n<p><span><strong>Échec</strong> La créature n’est pas pardonnée et doit continuer à méditer et à racheter ses fautes. Chaque rituel de pénitence suivant pour tenter de racheter les mêmes fautes coûte deux fois moins cher et bénéficie d’un bonus de circonstances de +4 aux tests principal et secondaire.</span></p>\n<p><span><strong>Échec critique</strong> La créature offense sa divinité et elle est définitivement exclue de son culte. Elle ne peut plus le rejoindre sans une intervention directe.</span></p>\n<hr />\n<p><strong>Intensifié (+1)</strong>Augmentez le niveau maximum de la cible de 2 et le coût de base de 20 po.</p>"
@@ -3550,6 +3730,11 @@
             "id": "Word of Truth",
             "name": "Mot de vérité (Word of Truth)",
             "description": "<p>Vous affirmez quelque chose que vous estimez vrai et qui ne contient aucune demi-vérité trompeuse, omission, etc. L’affirmation doit se composer d’un maximum de 25 mots. Un symbole de votre divinité luit au-dessus de votre tête et quiconque vous voit et entend votre affirmation sait que vous la croyez vraie. Chaque fois que vous Maintenez ce sort, vous pouvez répéter cet effet.</p>"
+        },
+        {
+            "id": "Spirit Object",
+            "name": "Animation d'objet (Spirit Object)",
+            "description": "<p>En utilisant un éclat du pouvoir de Baba Yaga, vous amenez brièvement un objet à la vie. L'objet obtient un moyen de locomotion, tels que des pattes de poulet qui poussent et Marche rapidement jusqu'à 7,5 m vers une case que vous décidez à portée. Si vous passez 2 actionsà Lancer le sort, l'objet attaque alors une créature de votre choix qui est adjacente à sa nouvelle case. Faites un jet d'attaque de sort au corps-à-coprs contre la créature. En cas de succès, la créature subit des dégâts contondants, perforants ou tranchants (en fonction du type d'objet) égaux à 1d4 plus votre modificateur de caractéristique d'incantation et, sur un succès critique, elle subi le double des dégâts.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentes l'Encombrement maximum de la cible de 1 et les dégâts de 1d4.</p>"
         },
         {
             "id": "Countless Eyes",
@@ -3620,6 +3805,11 @@
             "id": "Telepathic Bond",
             "name": "Lien télépathique (Telepathic Bond)",
             "description": "<p>Les cibles peuvent communiquer télépathiquement avec une ou toutes les autres cibles depuis n’importe quel point de la même planète.</p>"
+        },
+        {
+            "id": "Disrupt Undead",
+            "name": "Destruction de mort-vivant (Disrupt Undead)",
+            "description": "<p>Vous transpercez la cible de votre énergie.</p>\n<p>Vous lui infligez 1d6 dégâts positifs plus votre modificateur de caractéristique d’incantation. La cible doit faire un jet de Vigueur basique. En cas d’échec critique, elle est également @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 1 pendant 1 round.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d6.</p>"
         },
         {
             "id": "Weapon Storm",
@@ -3717,6 +3907,11 @@
             "description": "<p>Vous puisez dans votre maîtrise des forces primordiales pour remodeler votre corps en une forme de combat : celle d’un animal volant de taille Moyenne. Quand vous lancez ce sort, choisissez une chauve-souris, un oiseau, un ptérosaure ou une guêpe. Vous pouvez opter pour un type d’animal spécifique (comme un hibou ou un aigle pour la forme d’oiseau), mais cela n’affecte ni la taille ni les statistiques de la forme de combat. Sous cette forme, vous gagnez le trait animal. Vous pouvez Révoquer le sort.</p>\n<p>Vous gagnez les statistiques et pouvoirs suivants, quelle que soit la forme de combat choisie :</p>\n<ul>\n<li>CA = 18 + votre niveau. Ignore votre malus d’armure aux tests et votre réduction de Vitesse.</li>\n<li>5 points de vie temporaires.</li>\n<li>Vision nocturne.</li>\n<li>Une ou plusieurs attaques de corps à corps à mains nues spécifiques à la forme de combat choisie, qui deviennent vos seules attaques utilisables. Vous êtes qualifié pour vous en servir. Votre modificateur d’attaque est de +16 et votre bonus aux dégâts de +5. Ces attaques sont basées sur la Dextérité (vis-à-vis de l’état @Compendium[pf2e.conditionspf2e.i3OJZU2nk64Df3xm]{maladroit} par exemple). Si votre modificateur d’attaque pour les attaques à mains nues basées sur la Dextérité est supérieur, utilisez-le à la place.</li>\n<li>Modificateur d’Acrobaties de +16, sauf si le vôtre est supérieur.</li>\n</ul>\n<p>Vous gagnez également des pouvoirs spécifiques basés sur la forme choisie:</p>\n<ul>\n<li><strong>Chauve-souris</strong> Vitesse 6 m, Vitesse de vol 9 m ; écholocalisation précise 12 m; <strong>Corps à corps</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">1</span> crocs, <strong>Dégâts</strong> 2d8 perforants; <strong>Corps à corps</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">1</span> aile (agile), <strong>Dégâts</strong> 2d6 contondants.</li>\n<li><strong>Oiseau</strong> Vitesse 3 m, Vitesse de vol 15 m; <strong>Corps à corps</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">1</span> bec, <strong>Dégâts</strong> 2d8 perforants; <strong>Corps à corps</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">1</span> serres (agile), <strong>Dégâts</strong> 1d10 tranchants.</li>\n<li><strong>Ptérosaure</strong> Vitesse 3 m, Vitesse de vol 12 m ; odorat imprécis 9 m; <strong>Corps à corps</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">1</span> bec, <strong>Dégâts</strong> 3d6 perforants.</li>\n<li><strong>Guêpe</strong> Vitesse 6 m, Vitesse de vol 12 m; <strong>Corps à corps</strong> <span style=\"font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;\">1</span> dard, <strong>Dégâts</strong> 1d8 perforants plus 1d6 poison persistants.</li>\n</ul>\n<hr />\n<p><strong>Intensifié (5e)</strong> Votre forme de combat est de Grande taille et votre Vitesse de vol gagne un bonus de statut de +3 m. Vous devez avoir assez de place pour vous dilater, sinon le sort est perdu. Vous gagnez à la place 10 PV temporaires, un modificateur d’attaque de +18, un bonus aux dégâts de +8 et Acrobaties +20.</p>\n<p><strong>Intensifié (6e)</strong>Votre forme de combat est de Très Grande taille, votre Vitesse de vol gagne un bonus de statut de +4,5 m et vos attaques ont une allonge de 3 m. Vous devez avoir assez de place pour vous dilater, sinon le sort est perdu. Vous gagnez à la place CA = 21 + votre niveau, 15 PV temporaires, un modificateur d’attaque +21, un bonus aux dégâts de +4 et vous doublez les dés de dégâts (y compris les @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts persistants}) et Acrobaties +23.</p>"
         },
         {
+            "id": "Inspire Courage",
+            "name": "Inspiration vaillante (Inspire Courage)",
+            "description": "<p>Vous inspirez vos alliés avec des mots ou un air d’encouragement. Vous et vos alliés dans la zone gagnez un bonus de statut de +1 aux jets d’attaque, de dégâts et de sauvegarde contre les effets de terreur.</p>\n<hr />\n<p>@Compendium[pf2e.spell-effects.beReeFroAx24hj83]{Effet : Inspiration vaillante}</p>"
+        },
+        {
             "id": "Clownish Curse",
             "name": "Malédiction clownesque (Clownish Curse)",
             "description": "<p>Vous affligez la cible avec une malédiction qui lui provoque à émettre les bruits ridicules lorsqu'il se déplace. De plus, les mains et les pieds de la cible deviennent gauches et manquant de coordination, comme si elle portait des gants et des chaussures surdimensionnées.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> Pendant 1 round, la cible doit lancer les dés deux fois et utiliser le pire résultat lorsque vous faites un test d'Acrobaties, de Discrétion ou de Vol. Si la cible obtient un échec à un test d'Acrobaties, de Discrétion ou de Vol, elle obtient un échec critique à la place.</p>\n<p><strong>Échec</strong> Comme avec le succès, mais l'effet dure 1 heure.</p>\n<p><strong>Échec critique</strong> Comme avec le succès, mais l'effet est permanent.</p>"
@@ -3780,6 +3975,11 @@
             "id": "Consecrate",
             "name": "consécration (Consecrate)",
             "description": "<p>Vous consacrez un site à votre divinité pour en faire un lieu sacré, en chantant des cantiques en son honneur. Les fidèles de votre divinité, tant qu’ils sont dans la zone, bénéficient d’un bonus de statut de +1 aux jets d’attaque, aux tests de compétence, aux jets de sauvegarde et aux tests de Perception, et les créatures anathèmes à votre divinité (les morts-vivants pour @Compendium[pf2e.deities.QZD0u1jxwz0kj8uI]{Pharasma} ou @Compendium[pf2e.deities.BNycwu3I21dTh4D9]{Sarenrae}, par exemple) subissent un malus de statut de −1 à ces tests. Les attaques portées par des fidèles de votre divinité au sein de la zone infligent 1 dégât de l’un des types d’alignement de votre divinité (vous choisissez) ; vous ne bénéficiez pas de cet avantage si votre divinité est neutre strict.</p>\n<hr />\n<p><strong>Succès critique</strong> La consécration est réussie et dure 10 années au lieu d’une seule, ou elle couvre une zone dont le rayon est doublé. Parfois, avec le soutien de votre divinité, l’effet peut être encore plus incroyable, en créant, par exemple, une zone consacrée permanente ou qui recouvre une cathédrale entière.</p>\n<p><strong>Succès</strong> La consécration est réussie.</p>\n<p><strong>Échec</strong> La consécration est ratée.</p>\n<p><strong>Échec critique</strong> La consécration échoue de manière spectaculaire et offense votre divinité qui envoie un signe de son mécontentement. Pendant au moins une année, les tentatives ultérieures de consécration du site échouent.</p>\n<hr />\n<p><strong>Intensifié (7e)</strong> La zone consacrée bénéficie également des effets d’un @Compendium[pf2e.spells-srd.XZE4BawIlTf88Yl9]{verrou dimensionnel} mais l’effet ne tente pas de contrer les téléportations des fidèles de votre divinité. Le coût passe à 200 po × le niveau de sort.</p>"
+        },
+        {
+            "id": "Dirge of Doom",
+            "name": "Chant funeste (Dirge of Doom)",
+            "description": "<p>Les ennemis à l’intérieur de la zone sont @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayés} 1. Ils ne peuvent pas réduire leur valeur effrayée au-dessous de 1 tant qu’ils restent dans la zone.</p>"
         },
         {
             "id": "Perfected Mind",
@@ -3865,6 +4065,11 @@
             "id": "Zealous Conviction",
             "name": "Conviction zélée (Zealous Conviction)",
             "description": "<p>Vous contournez l’esprit rationnel de vos cibles, leur instillant une conviction et un zèle inébranlables. Les cibles gagnent chacune 12 points de vie temporaires et un bonus de statut de +2 aux jets de Volonté contre les effets mentaux, leur foi l’emportant sur les signaux de leur corps et de leur esprit. Si vous dites à une cible de faire quelque chose, elle doit accéder à votre demande, mais si elle trouve la tâche répugnante, elle peut tenter un jet de Volonté à la fin de son tour à chaque round en raison de sa dissonance cognitive. Sur un succès, elle met entièrement fin aux effets du sort sur elle-même.</p>"
+        },
+        {
+            "id": "Song of Marching",
+            "name": "Chanson de marche (Song of Marching)",
+            "description": "<p>Vous maintenez une représentation rapide qui incte vos alliés à se déplacer. Vous et vos alliés dans la zone pouvez @Compendium[pf2e.actionspf2e.JuqmIAnkL9hVGai8]{Vous empresser} pendant la durée du sort, même si vous êtes en train de @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Maintenir le Sort}. Vous et vos alliés devenez alors temporairement immunisés pendant 1 journée.</p>\n<hr>\n<p><strong>Intensifié (6e)</strong> Vous pouvez Maintenir le sort pendant un maximum de 2 heures.</p>\n<p><strong>Intensifié (9e)</strong> Vous pouvez Maintenir le sort pendant un maximum de 4 heures.</p>"
         },
         {
             "id": "Unrelenting Observation",
@@ -4042,6 +4247,11 @@
             "description": "<p>Ce sort chauffe le métal pris pour cible jusqu'à devenir rouge de chaleur pendant un moment.</p>\n<p>C'est généralement inoffensif pour un objet en métal non tenu, qui ne dispose pas d'un jet de sauvegarde, bien que le MJ pourrait décider que des matériaux inflammables reliés à l'objet puissent prendre feu ou fondre. Si vous ciblez un objet porté ou transporté par une créature ou que vous ciblez une créature faite principalement de métal, la châleur inflige [[/r 4d6 #feu]] dégâts de feu et [[/r 2d4 #feu persistant]] dégâts de feu persistant à la créature, qui doit faire un jet de Réflexes.</p>\n<p>Si vous ciblez un objet tenu par la créature, la créature peut @Compendium[pf2e.actionspf2e.wQYmDStjdjn0I26t]{Relâcher} l'objet pour améliorer son degré de succès d'un cran à partir de son jet de sauvegarde. Les dégâts persistants sont associés à l'objet et fait des dgpats à n'importe quelle créature qui tient ou le porte. Cela n'a pas d'effet si personne ne tient l'objet, mais vous continuez à essayer les tests nus pour mettre un terme aux dégâts persistants comme habituellement, car l'objet reste chaud et peut brûler quelqu'un qui le ramasserait.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature subit demi-dégâts et l'objet n'inflige pas de dégâts de feu persistants.</p>\n<p><strong>Échec</strong> La créature subit la totalité des dégâts et l'objet inflige la totalité des dégâts persistants.</p>\n<p><strong>Échec critique</strong> Comme avec l'échec sauf que la créature subit le double des dégâts et l'objet inflige le double des dégâts persistants.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts initiaux augmentent de 2d6 et les dégâts persistants augmentent d'1d4.</p>"
         },
         {
+            "id": "Discern Secrets",
+            "name": "Discerner les secrets (Discern Secrets)",
+            "description": "<p>Vous faites appel au pouvoir de votre patron pour mieux découvrir les secrets.</p>\n<p>Lorsque vous Lancez le sort, la cible peut @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir}, @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} ou @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions}. La cible obtient un bonus de statut de +1 à la compétence ou à la Perception utilisée pour le test et ce bonus reste tant que vous @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Maintenez le sort}. La cible est temporairement immunisée à <em>Discerner les secrets</em> pendant 1 minute.</p>\n<hr />\n<p><strong>Intensifié (5e)</strong> Vous pouvez cibler deux créatures au lieu d'une.</p>"
+        },
+        {
             "id": "Take its Course",
             "name": "Suivre son cours (Take its Course)",
             "description": "<p>Quand quelqu’un a fait des excès, vous pouvez faire passer plus vite le pire de son affliction ou intensifier sa misère. Ce sort tente de faire évoluer une affliction de maladie, une affliction de poison ou des dégâts de poison persistants affectant la cible. Si la cible est affectée par plus d’une de ces afflictions, vous pouvez choisir parmi celles dont vous êtes conscient ; sinon le MJ choisit au hasard. Une cible non consentante peut effectuer un jet de Volonté pour annuler Suivre son cours.</p>\n<p>L’effet de ce sort varie selon que vous tentez de mettre fin à une affliction ou à des dégâts de poison persistants, et selon que vous tentez d’aider ou d’entraver le rétablissement de la cible.</p>\n<ul>\n<li><strong>Affliction</strong> La cible effectue immédiatement son prochain jet de sauvegarde contre l’affliction. À votre choix, vous pouvez accorder à la créature un bonus de statut de +2 ou un malus de statut de −2 aux jets de sauvegarde contre l’affliction.</li>\n<li><strong>Poison persistant</strong> Vous pouvez faire en sorte que la cible subisse immédiatement les dégâts de poison persistants quand vous Lancez ce sort (en plus de les subir à la fin de son prochain tour). Que vous le fassiez ou non, la cible effectue un test nu supplémentaire contre les dégâts de poison persistants. Vous pouvez décider que le DD de ce test nu est de 5 ou de 20 au lieu du DD normal.</li>\n</ul>\n<hr />\n<p><strong>Intensifié (7e)</strong> Vous pouvez tenter de faire évoluer n’importe quel nombre d’afflictions éligibles et de dégâts de poison persistants de la cible.</p>"
@@ -4070,6 +4280,11 @@
             "id": "Ancestral Defense",
             "name": "Défense ancestrale (Ancestral Defense)",
             "description": "<p><strong>Déclencheur</strong> Vous êtes sur le point de faire un jet de Volonté.</p>\n<hr />\n<p>Votre ancêtre vous protège contre ceux qui voudraient plier votre volonté.</p>\n<p>Vous lancez le jet déclencheur deux fois et utilisez le meilleur résultat. Si vous êtes dans une rencontre lorsque vous lancez ce sort, vous relancez immédiatement pour changer votre ancêtre prédominant.</p>"
+        },
+        {
+            "id": "Wilding Word",
+            "name": "Paroles sauvages (Wilding Word)",
+            "description": "<p>En peu de mots, vous convainquez une créature sauvage que vous êtes un esprit du même type, la rendant réticente à vous blesser. La cible doit tenter un jet de Volonté. Quel que soit le résultat, la cible est alors immunisée pendant 1 minute.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> Lorsque la cible tente un jet d'attaquee ou un test de compétence qui devrait vous blesser, elle subit une pénalité de statut de -2 à son jet.</p>\n<p><strong>Échec</strong> Comme en cas de succès, mais la cible devient aussi @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 chaque fois qu'elle vous blesse.</p>\n<p><strong>Échec critique</strong> Comme en cas de succès, mais la cible devient Malade 2 chaque fois qu'elle vous blesse.</p>"
         },
         {
             "id": "Life-Giving Form",
@@ -4155,6 +4370,11 @@
             "id": "Control Sand",
             "name": "Contrôle du sable (Control Sand)",
             "description": "<p>Vous générez une petite tempête de sable autour de votre corps.</p>\n<p>Lorsqu'une créature commence son tour dans la zone ou se déplace dans la zone, elle doit réussir un jet de Vigueur ou être @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh]{Éblouie} tant qu'elle reste dans la zone ; elle est alors temporairement immunisée à cet effet d'éblouissement pendant 10 minutes.</p>\n<p>Choisissez un des effets supplémentaires suivants lorsque vous Lancez ce sort. Lors des rounds suivants, vous pouvez passer à un effet différent une fois par round comme une action libre déclenchée par le Maintien du sort.</p>\n<ul>\n<li><strong>Bouclier de sable</strong> Vous créez un bouclier magique fait de sable. Le bouclier de sable ne vous procure pas d'avantage à la CA mais il vous permet d'utiliser le réaction @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Blocage au bouclier} et se comporte alors comme un bouclier. Le bouclier de sable possède une Solidité de 14, 21 Points de vie et n'a pas de seuil de rupture ; Lorsque les PV du bouclier sont réduits à 0, vous ne pouvez plus utiliser la réaction Blocage au bouclier la prochaine fois que vous Maintiendrez le sort et que vous Choisirez l'effet bouclier de sable.</li>\n<li><strong>Explosion de sable</strong> Vous dirigez un jet de sable sur une cible unique. Une créature de votre choix dans les 9 m subit 8d6 dégâts tranchants (Jet de Réflexes basique). En cas de coup critique, la créature est aussi Éblouie pendant 1 minute.</li>\n<li><strong>Tempête de sable</strong> La zone du sort s'étend à une émanation de 9 m et toute créature qui commence son tour dans la zone ou se déplace dans la zone subit 6d4 dégâts tranchants (Jet de Réflexes basique) et doit retenir son souffle ou commencer à suffoquer.</li>\n</ul>"
+        },
+        {
+            "id": "Allegro",
+            "name": "Allégro (Allegro)",
+            "description": "<p>Vous Vous produisez rapidement, accélérant votre allié.</p>\n<p>L’allié devient @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{accéléré} et peut utiliser l’action supplémentaire pour Frapper, Marcher rapidement ou Faire un pas.</p>"
         },
         {
             "id": "Feather Fall",

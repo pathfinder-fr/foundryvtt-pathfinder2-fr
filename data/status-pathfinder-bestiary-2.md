@@ -1,12 +1,19 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 351
+ * **libre**: 350
+ * **changé**: 1
  * **vide**: 7
 
 
-Dernière mise à jour: 2021-07-08 06:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[DYBZniwR1Ip4inVr.htm](pathfinder-bestiary-2/DYBZniwR1Ip4inVr.htm)|Morlock|Morlock|changé|
+
 ## Liste des éléments vides ne pouvant pas être traduits
 
 | Fichier   | Nom (EN)    | État |
@@ -118,7 +125,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[DWQzgPL1WjXfu4rV.htm](pathfinder-bestiary-2/DWQzgPL1WjXfu4rV.htm)|Assassin Vine|Liane Meurtrière|libre|
 |[dwyt7e1EZPjw9KBB.htm](pathfinder-bestiary-2/dwyt7e1EZPjw9KBB.htm)|Giant Hippocampus|Hippocampe géant|libre|
 |[DxV2vH17H789bJ6y.htm](pathfinder-bestiary-2/DxV2vH17H789bJ6y.htm)|Ankou|Ankou|libre|
-|[DYBZniwR1Ip4inVr.htm](pathfinder-bestiary-2/DYBZniwR1Ip4inVr.htm)|Morlock|Morlock|libre|
 |[e0PXAtnDnJo4ggFX.htm](pathfinder-bestiary-2/e0PXAtnDnJo4ggFX.htm)|Vrykolakas Ancient|Vrykolakas vénérable|libre|
 |[e0YvEWJ5zpU946G4.htm](pathfinder-bestiary-2/e0YvEWJ5zpU946G4.htm)|Cave Scorpion|Scorpion des cavernes|libre|
 |[E4aJhHWyFDxgJcy9.htm](pathfinder-bestiary-2/E4aJhHWyFDxgJcy9.htm)|Peryton|Péryton|libre|

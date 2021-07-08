@@ -3368,8 +3368,8 @@
             ]
         },
         {
-            "id": "Impossible Volley",
-            "name": "Volée invraisemblable (Impossible Volley)",
+            "id": "Impossible Volley (Fighter)",
+            "name": "Volée invraisemblable (Impossible Volley (Fighter))",
             "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec le trait volée et un rechargement 0</p>\n<hr />\n<p>Vous tirez une volée de projectiles sur tous les adversaires dans une zone. Effectuez une Frappe avec un malus de −2 contre chaque ennemi dans une explosion de 3 m de rayon centrée sur un point situé à une distance supérieure ou égale à la portée de volée de votre arme. Faites un seul jet de dégâts pour toutes les cibles.</p>\n<p>Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>\n<hr />\n<p><strong>Spécial</strong> Lorsqu'il est pris en tant que don de guerrier, ce don possède les traits Sophistication et Ouverture.</p>"
         },
         {
@@ -4293,8 +4293,8 @@
             ]
         },
         {
-            "id": "Cantrip Expansion",
-            "name": "Expansion de tour de magie (Cantrip Expansion)",
+            "id": "Cantrip Expansion (Prepared Caster)",
+            "name": "Expansion de tour de magie (Cantrip Expansion (Prepared Caster))",
             "description": "<p>Vos recherches permettent de diversifier votre gamme de sorts simples. Ajoutez deux tours de magie supplémentaires de votre liste de sorts à votre répertoire.</p>"
         },
         {
@@ -6971,8 +6971,8 @@
             ]
         },
         {
-            "id": "Eyes Of Night",
-            "name": "Yeux de la nuit (Eyes Of Night)",
+            "id": "Eyes of the Night",
+            "name": "Yeux de la nuit (Eyes of the Night)",
             "description": "<p>Vous pouvez voir dans l'obscurité aussi facilement qu'un véritable vampire. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>\n<rr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au niveau 1 et vous ne pouve par utiliser le réapprentissage pour acquérir ou perdre ce don.</p>",
             "prereq": [
                 {
@@ -13364,6 +13364,11 @@
                     "value": "Fortification élémentaire"
                 }
             ]
+        },
+        {
+            "id": "Azaersi's Roads",
+            "name": "Routes d'Azaersi (Azaersi's Roads)",
+            "description": "<p>Azaersi vous a accordé un accès limité aux Routes de pierre, en vous harmonisant au plus petit éclat de la Clé d'Onyx.</p>\n<p>Vous obtenez @Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]{Changement de plan} comme un sort inné primordial. Vous pouvez le Lancer deux fois par semaine. Cela ne peut être utilisé que pour circuler entre le Plan de la terre et le Plan matériel. En raison de votre harmonisation à la Clé d'Onyx, vous pouvez être le focalisateur du sort et vous n'avez pas besoin de diapason.</p>"
         },
         {
             "id": "Weapon-Rune Shifter",

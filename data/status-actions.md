@@ -1,12 +1,36 @@
 # État de la traduction (actions)
 
- * **officielle**: 110
- * **libre**: 50
+ * **officielle**: 105
+ * **libre**: 48
+ * **changé**: 7
+ * **aucune**: 5
 
 
-Dernière mise à jour: 2021-07-08 06:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[34E7k2YRcsOU5uyl.htm](actions/34E7k2YRcsOU5uyl.htm)|Change Shape (Anadi)|
+|[8aIe57gXJ94mPpW4.htm](actions/8aIe57gXJ94mPpW4.htm)|Anadi Venom|
+|[8iCas8MeyqSXmE2a.htm](actions/8iCas8MeyqSXmE2a.htm)|Dream Research|
+|[kKKHwVUnroKuAnOt.htm](actions/kKKHwVUnroKuAnOt.htm)|Toxic Skin|
+|[oAWNluJaMlaGysXA.htm](actions/oAWNluJaMlaGysXA.htm)|Barbed Quills|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[1xRFPTFtWtGJ9ELw.htm](actions/1xRFPTFtWtGJ9ELw.htm)|Sense Motive|Deviner les intentions|changé|
+|[2EE4aF4SZpYf0R6H.htm](actions/2EE4aF4SZpYf0R6H.htm)|Pick a Lock|Crocheter une serrure|changé|
+|[bp0Up04x3dzGK5bB.htm](actions/bp0Up04x3dzGK5bB.htm)|Debilitating Strike|Frappe incapacitante|changé|
+|[EfjoIuDmtUn4yiow.htm](actions/EfjoIuDmtUn4yiow.htm)|Opportune Riposte|Riposte opportune|changé|
+|[K878asDgf1EF0B9S.htm](actions/K878asDgf1EF0B9S.htm)|Confident Finisher|Coup final assuré|changé|
+|[VMozDqMMuK5kpoX4.htm](actions/VMozDqMMuK5kpoX4.htm)|Sneak|Être furtif|changé|
+|[XMcnh4cSI32tljXa.htm](actions/XMcnh4cSI32tljXa.htm)|Hide|Se cacher|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -15,11 +39,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[0b3TTeQGFOiy6ykz.htm](actions/0b3TTeQGFOiy6ykz.htm)|Change Shape (Beastkin)|Changement de forme (Beastkin)|libre|
 |[1kGNdIIhuglAjIp9.htm](actions/1kGNdIIhuglAjIp9.htm)|Treat Wounds|Soigner les blessures|officielle|
 |[1OagaWtBpVXExToo.htm](actions/1OagaWtBpVXExToo.htm)|Recall Knowledge (Lore)|Se souvenir (Connaissance)|officielle|
-|[1xRFPTFtWtGJ9ELw.htm](actions/1xRFPTFtWtGJ9ELw.htm)|Sense Motive|Deviner les intentions|officielle|
 |[21WIfSu7Xd7uKqV8.htm](actions/21WIfSu7Xd7uKqV8.htm)|Tumble Through|Déplacement acrobatique|officielle|
 |[24PSsn1SKpUwYA1X.htm](actions/24PSsn1SKpUwYA1X.htm)|Retraining|Réapprentissage|officielle|
 |[25WDi1cVUrW92sUj.htm](actions/25WDi1cVUrW92sUj.htm)|Clue In|Partager les indices|libre|
-|[2EE4aF4SZpYf0R6H.htm](actions/2EE4aF4SZpYf0R6H.htm)|Pick a Lock|Crocheter une serrure|officielle|
 |[2HJ4yuEFY1Cast4h.htm](actions/2HJ4yuEFY1Cast4h.htm)|High Jump|Sauter en hauteur|officielle|
 |[2u915NdUyQan6uKF.htm](actions/2u915NdUyQan6uKF.htm)|Demoralize|Démoraliser|officielle|
 |[3f5DMFu8fPiqHpRg.htm](actions/3f5DMFu8fPiqHpRg.htm)|Sustain a Spell|Maintenir un sort|officielle|
@@ -43,7 +65,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bcxarzksqt9ezrs6.htm](actions/Bcxarzksqt9ezrs6.htm)|Stride|Marcher rapidement|officielle|
 |[BKnN9la3WNrRgZ6n.htm](actions/BKnN9la3WNrRgZ6n.htm)|Conduct Energy|Conduire l'énergie|libre|
 |[BlAOM2X92SI6HMtJ.htm](actions/BlAOM2X92SI6HMtJ.htm)|Seek|Chercher|officielle|
-|[bp0Up04x3dzGK5bB.htm](actions/bp0Up04x3dzGK5bB.htm)|Debilitating Strike|Frappe incapacitante|officielle|
 |[bT3skovyLUtP22ME.htm](actions/bT3skovyLUtP22ME.htm)|Repair|Réparer|officielle|
 |[c8TGiZ48ygoSPofx.htm](actions/c8TGiZ48ygoSPofx.htm)|Swim|Nager|officielle|
 |[CrUPaPlsxy2bswaT.htm](actions/CrUPaPlsxy2bswaT.htm)|Mesmerizing Performance|Performance hypnotisante|libre|
@@ -63,7 +84,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[EA5vuSgJfiHH7plD.htm](actions/EA5vuSgJfiHH7plD.htm)|Track|Pister|officielle|
 |[EAP98XaChJEbgKcK.htm](actions/EAP98XaChJEbgKcK.htm)|Retributive Strike|Frappe punitive|officielle|
 |[EEDElIyin4z60PXx.htm](actions/EEDElIyin4z60PXx.htm)|Perform|Se produire|officielle|
-|[EfjoIuDmtUn4yiow.htm](actions/EfjoIuDmtUn4yiow.htm)|Opportune Riposte|Riposte opportune|libre|
 |[EHa0owz6mccnmSBf.htm](actions/EHa0owz6mccnmSBf.htm)|Final Surge|Accélération finale|libre|
 |[enQieRrITuEQZxx2.htm](actions/enQieRrITuEQZxx2.htm)|Selfish Shield|Bouclier égoïste|libre|
 |[eReSHVEPCsdkSL4G.htm](actions/eReSHVEPCsdkSL4G.htm)|Identify Magic|Identifier la magie|officielle|
@@ -91,7 +111,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[JuqmIAnkL9hVGai8.htm](actions/JuqmIAnkL9hVGai8.htm)|Hustle|S'empresser|officielle|
 |[JUvAvruz7yRQXfz2.htm](actions/JUvAvruz7yRQXfz2.htm)|Long Jump|Sauter en longueur|officielle|
 |[JYi4MnsdFu618hPm.htm](actions/JYi4MnsdFu618hPm.htm)|Hunt Prey|Chasser une proie|officielle|
-|[K878asDgf1EF0B9S.htm](actions/K878asDgf1EF0B9S.htm)|Confident Finisher|Coup final assuré|libre|
 |[KjoCEEmPGTeFE4hh.htm](actions/KjoCEEmPGTeFE4hh.htm)|Treat Poison|Soigner un empoisonnement|officielle|
 |[kMcV8e5EZUxa6evt.htm](actions/kMcV8e5EZUxa6evt.htm)|Squeeze|Se faufiler|officielle|
 |[KUfLlXDWTcAWhl8l.htm](actions/KUfLlXDWTcAWhl8l.htm)|Recall Knowledge (Society)|Se souvenir (Société)|officielle|
@@ -156,7 +175,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UWdRX1VelipCzrCg.htm](actions/UWdRX1VelipCzrCg.htm)|Avert Gaze|Détourner le regard|officielle|
 |[v82XtjAVN4ffgVVR.htm](actions/v82XtjAVN4ffgVVR.htm)|Drain Bonded Item|Drain d'objet lié|officielle|
 |[VjxZFuUXrCU94MWR.htm](actions/VjxZFuUXrCU94MWR.htm)|Strike|Frapper|officielle|
-|[VMozDqMMuK5kpoX4.htm](actions/VMozDqMMuK5kpoX4.htm)|Sneak|Être furtif|officielle|
 |[VOEWhPQfN3lvHivK.htm](actions/VOEWhPQfN3lvHivK.htm)|Foresight|Prémonition|libre|
 |[vZltxwRNvF5khf9a.htm](actions/vZltxwRNvF5khf9a.htm)|Boarding Assault|Assaut d'abordage|libre|
 |[W4M8L9WepGLamlHs.htm](actions/W4M8L9WepGLamlHs.htm)|Threatening Approach|Approche menaçante|libre|
@@ -165,7 +183,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[xccOiNL2W1EtfUYl.htm](actions/xccOiNL2W1EtfUYl.htm)|Pointed Question|Question imparable|libre|
 |[xJEkXFJgEfEida27.htm](actions/xJEkXFJgEfEida27.htm)|Rally|Rallier|libre|
 |[xjGwis0uaC2305pm.htm](actions/xjGwis0uaC2305pm.htm)|Raise a Shield|Lever un bouclier|officielle|
-|[XMcnh4cSI32tljXa.htm](actions/XMcnh4cSI32tljXa.htm)|Hide|Se cacher|officielle|
 |[xpsD4DsYHKXCB4ac.htm](actions/xpsD4DsYHKXCB4ac.htm)|Anchor|S'ancrer|libre|
 |[XSGlLjI80LDCimAP.htm](actions/XSGlLjI80LDCimAP.htm)|Sustain an Activation|Maintenir une activation|officielle|
 |[xTK2zsWFyxSJvYbX.htm](actions/xTK2zsWFyxSJvYbX.htm)|Pursue a Lead|Suivre une piste|libre|

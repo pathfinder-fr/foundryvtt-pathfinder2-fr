@@ -57,6 +57,11 @@
             "description": "<p>Cette épée à lame courte aiguisée d'un seul côté est typiquement portée pour former une paire avec un @Compendium[pf2e.equipment-srd.Y1dkRsRd1Z7Jf2y6]{Katana}.</p>"
         },
         {
+            "id": "Alabaster",
+            "name": "Alabaster (Albâtre)",
+            "description": ""
+        },
+        {
             "id": "Enormous tapestry of a major battle",
             "name": "Enormous tapestry of a major battle (Tapisserie immense représentant une bataille majeure)",
             "description": ""
@@ -577,6 +582,11 @@
             "description": ""
         },
         {
+            "id": "Aeon Stone (Pearly White Spindle)",
+            "name": "Aeon Stone (Pearly White Spindle) (Pierre d'éternité (fuseau blanc perle))",
+            "description": "<p>Lorsque vous investissez cette pierre d'éternité, elle commence lentement à soigner vos blessures, vous rendant 1 point de vie toutes les minutes.</p>\n<p>Le pouvoir de résonance vous confère une résistance de 1 aux dégâts négatifs.</p>"
+        },
+        {
             "id": "Quickpatch Glue",
             "name": "Quickpatch Glue (Colle Rustine)",
             "description": "<p><strong>Activation</strong> 1 minute (Interagir)</p>\n<hr />\n<p>La colle rustine est un adhésif à prise rapide conçu pour des réparations rapides mais temporaires.</p>\n<p>Lorsqu'elle est appliquée sur un article cassé, la colle fait adhérer les pièces de l'article pour les recoller. Cela ne rétablit pas les points de vie de l'objet, mais permet à l'objet d'être utilisé pour sa fonction normale et supprime l'état cassé. La colle est fragile et se dégrade avec le temps. Un objet réparé à l'aide de la colle rustine retrouve son état brisé après avoir subi des dégâts ou au bout d'une heure (selon ce qui arrive en premier). Afin d’appliquer une fois de plus la colle rustine à l’objet ou de le réparer, le détenteur de l’objet doit d’abord enlever les résidus de colle, un processus qui demande 10 minutes d’effort et un ensemble d’outils d’alchimiste.</p>"
@@ -660,6 +670,11 @@
             "id": "Ghost Charge (Lesser)",
             "name": "Ghost Charge (Lesser) (Charge fantôme (inférieure))",
             "description": "<p><strong>Utilisation</strong> Tenir à une main</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ces boîtes métalliques à ressort contiennent un mélange de produits chimiques et de sels qui drainent et désintègrent les créatures mortes-vivantes à proximité. Une charge fantôme occasionne [[/r 1d8]]  dégâts positifs et 1 dégâts d'éclaboussures positive, bien que comme d'habitude pour les dégâts positifs, ces dégâts ne nuisent qu'aux morts-vivants et aux créatures à guérison négative. Les charges fantômes sont conçues pour exploser même au contact d'une substance spirituelle, ce qui les rend idéales pour endommager les morts-vivants intangibles. Une cible  qui subit des dégâts d'une charge fantôme devient @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu'au début de votre prochain tour. De nombreux types accordent un bonus d'objet aux jets d'attaque.</p>\n\n\n\n\n\n\n\n\n\n\n\n."
+        },
+        {
+            "id": "Bloodstone",
+            "name": "Bloodstone (Héliotrope)",
+            "description": ""
         },
         {
             "id": "Ankylostar",
@@ -1040,6 +1055,11 @@
             "id": "Conducting",
             "name": "Conducting (Conductrice (rune))",
             "description": "<p>Une arme conductrice peut canaliser l'énergie à travers elle. L'arme gagne le trait d'arme résonante, sauf que lorsque vous @Compendium[pf2e.actionspf2e.BKnN9la3WNrRgZ6n]{Conduire l'énergie}, l'arme inflige 1d8 dégâts supplémentaires du type choisi au lieu de 1 dégât supplémentaire par dé ; si l'arme avait déjà le trait d'arme résonante, elle inflige 1d8 dégâts plus 1 dégât par dé à la place. En cas de coup critique, l'arme inflige 1d8 dégâts persistants du même type.</p>"
+        },
+        {
+            "id": "Amphora with lavish scenes",
+            "name": "Amphora with lavish scenes (Amphore portant des scènes somptueuses)",
+            "description": ""
         },
         {
             "id": "Cartographer's Kit",
@@ -2767,6 +2787,11 @@
             "description": "<p>Une rune éthérée duplique l’armure sur le plan éthéré.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Sur ordre</p>\n<p><strong>Fréquence</strong> 1/jour</p>> \n<p><strong>Effet</strong> Vous bénéficiez des effets du sort @Compendium[pf2e.spells-srd.D2nPKbIS67m9199U]{Forme éthérée}. Ceci ne nécessite aucune concentration et dure dix minutes ou jusqu’à ce que vous décidiez de reprendre forme matérielle par une action gratuite.</p>\n<hr>\n<p><strong>Conditions</strong> Fournir une incantation de Forme éthérée de niveau 9.</p>"
         },
         {
+            "id": "Jewel‑encrusted gold altar",
+            "name": "Jewel‑encrusted gold altar (Autel en or incrusté de gemmes)",
+            "description": ""
+        },
+        {
             "id": "Darkwood Buckler (Standard-Grade)",
             "name": "Darkwood Buckler (Standard-Grade) (Targe en ébénite (qualité standard))",
             "description": "<p><span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1,sans effet sur un bouclier ayant normalement un Encombrement léger).</span></p>\n<p>Le bouclier a une Solidité de 3, 12 PV et un SR de 6</p>\n<hr />\n<p><span><strong>Conditions de fabrication</strong> au moins 50 po d’ébénite</span></p>"
@@ -3427,6 +3452,11 @@
             "description": "<p>Ce tube de mithral creux fait une trentaine de centimètres de long. Il est orné de gravures représentant des cadenas ouverts et des chaînes brisées. Il s’active dix fois avant de se fissurer et de devenir inutile.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p><strong>Effet</strong> Vous visez un récipient, une porte ou une serrure que vous voulez ouvrir avec le carillon et le faites tinter. Il envoie des vibrations magiques qui tentent un test de Vol contre le DD de la serrure, avec un bonus de Vol de +13. Cela affecte seulement une serrure ou un lien à la fois, vous devrez donc activer le carillon à plusieurs reprises pour ouvrir une cible dotée de plusieurs protections.</p>"
         },
         {
+            "id": "Platinum‑framed monocle",
+            "name": "Platinum‑framed monocle (Monocle à la monture de platine)",
+            "description": ""
+        },
+        {
             "id": "Spinel, red or green",
             "name": "Spinel, red or green (Spinelle, rouge ou verte)",
             "description": ""
@@ -3450,6 +3480,11 @@
             "id": "Class Kit (Barbarian)",
             "name": "Class Kit (Barbarian) (Kit de classe (Barbare))",
             "description": "<p><strong>Armes</strong> 4 javelines</p>\n<p><strong>Armure</strong> armure de peau</p>\n<p><strong>Équipement</strong>  pack d’aventurier, grappin, 2 gaines</p>\n<p><strong>Options</strong>  @Compendium[pf2e.equipment-srd.8COlYvHe6hKCXY8x]{grande hache} (2 po), @Compendium[pf2e.equipment-srd.kdGqnqbrwPzQfTsm]{massue} (1 po), @Compendium[pf2e.equipment-srd.UX71GkWBL9g41VwM]{épée à deux mains} (2 po) ou @Compendium[pf2e.equipment-srd.War0uyLBx1jA0Ge7]{hache d’armes} et @Compendium[pf2e.equipment-srd.Yr9yCuJiAlFh3QEB]{bouclier en acier} (3 po)</p>"
+        },
+        {
+            "id": "Etched copper ewer",
+            "name": "Etched copper ewer (aiguière de cuivre gravée)",
+            "description": ""
         },
         {
             "id": "Scroll of 7th-level Spell",
@@ -3540,6 +3575,11 @@
             "id": "Eye of Apprehension",
             "name": "Eye of Apprehension (Oeil d'appréhension)",
             "description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Imaginer</p>\n<p>Une inclusion soyeuse donne à cette cymophane ronde l’air d’un œil de chat. Une fois fixée, elle vous rend nerveux. Lorsque vous l’activez, lancez deux fois le dé pour la Perception et conservez le meilleur résultat.</p>\n<p><strong>Conditions</strong>;Vous êtes maître en Perception.</p>"
+        },
+        {
+            "id": "Bronze chalice with bloodstones",
+            "name": "Bronze chalice with bloodstones (Calice en bronze avec des héliotropes)",
+            "description": ""
         },
         {
             "id": "Sling",
@@ -4132,6 +4172,11 @@
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p>Ce cierge effilé possède une mèche dorée qui brûle d’une flamme blanche. Il s’active lorsqu’on l’allume. Les créatures dans un rayon de 3 mètres ont alors du mal à mentir. Elles subissent un malus de statut de −4 pour Mentir.</p>\n<p>De plus, quand une créature (vous y compris) entre dans la zone pour la première fois, elle doit réussir un jet de Volonté DD 26, sans quoi elle est incapable de dire un mensonge délibéré tant qu’elle se trouve dans un rayon de 3 mètres autour de la chandelle allumée. L’effet dure tant que le cierge brûle. Une fois allumé, il brûle pendant 10 minutes et il est impossible de l’éteindre.</p>"
         },
         {
+            "id": "Ceremonial shortsword with spinels",
+            "name": "Ceremonial shortsword with spinels (épée courte cérémonielle avec des spinelles)",
+            "description": ""
+        },
+        {
             "id": "Potion of Leaping",
             "name": "Potion of Leaping (Potion de saut)",
             "description": "<p>Pendant 1 min après avoir bu cette potion pétillante, dès que vous sautez, vous gagnez les effets du sort @Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Saut} au niveau 1.</p>"
@@ -4180,6 +4225,11 @@
             "id": "Feather Token (Ladder)",
             "name": "Feather Token (Ladder) (Plume magique (échelle))",
             "description": "<p>Chaque plume magique semble être une simple plume d’oiseau exotique. La tige, plaquée or, porte une unique rune arcanique. Une fois activée, la plume magique se transforme en un autre objet qui s’utilise alors normalement. Chaque plume s’active une seule fois et reste généralement sous la forme de l’objet en lequel elle s’est changée.<br /></span></p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p><span>>Une fois activée, cette plume se change définitivement en échelle de bois de 6 mètres de long.</span></p>"
+        },
+        {
+            "id": "Rhodochrosite",
+            "name": "Rhodochrosite (Rhodochrosite)",
+            "description": ""
         },
         {
             "id": "Talisman of the Sphere",
@@ -4235,6 +4285,11 @@
             "id": "Concealed Sheath",
             "name": "Concealed Sheath (Fourreau dissimulé)",
             "description": "<p>Ce fourreau en cuir est assez grand pour contenir un objet d'un poids léger et est généralement utilisé pour les dagues, les baguettes, les outils de voleur et autres objets similaire. Vous pouvez l'apposer à l'intérieur d'une botte, sous un bracelet ou une manche, ou à d'autres endroits discrets pour obtenir un bonus d'objet de +1 aux tests de Discrétop, et aux DD des tests de dissimulation d'objets</p>\n<hr />\n<p>Effets appliqués automatiquement:</p>\n<ul>\n<li>Bonus d'objet de +1 aux tests de Discrétion pour cacher des objets</li>\n</ul>"
+        },
+        {
+            "id": "Pearl, black",
+            "name": "Pearl, black (Perle noire)",
+            "description": ""
         },
         {
             "id": "Wand of Overflowing Life (3rd-Level Spell)",
@@ -5397,6 +5452,11 @@
             "description": ""
         },
         {
+            "id": "Life‑size sculpture by an expert",
+            "name": "Life‑size sculpture by an expert (Sculpture à l'échelle (par un expert))",
+            "description": ""
+        },
+        {
             "id": "Staff of Fire",
             "name": "Staff of Fire (Bâton de feu)",
             "description": "<p>Ce bâton ressemble à une branche de bois cendreux, brûlé et noirci. Il sent un peu la suie et luit comme de la braise. Vous pouvez effectuer l’action Interagir pour allumer une torche, de l’amadou ou une substance inflammable en le touchant avec l’extrémité du bâton.</p>\n<p><strong>Activation</strong> Lancer un sort</p> \n<p><strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.</p>\n<p><strong>Conditions de fabrication.</strong> Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</p>\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Flammes}</li>\n<li><strong>Niveau 1</strong>@Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]{Mains brûlantes}</li>\n</ul>"
@@ -5655,6 +5715,16 @@
             "id": "Universal Solvent (Major)",
             "name": "Universal Solvent (Major) (Solvant universel (majeur))",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p>Formulé à l'origine comme un moyen de dissoudre la @Compendium [pf2e.equipment-srd.7IrQPyMm76nLVoXx]{Colle souveraine}, ce puissant solvant peut briser l'emprise de presque tous les adhésifs. Comme le solvant universel est particulièrement efficace contre la colle souveraine, il dissout automatiquement la colle souveraine. Il tente de neutraliser tout autre adhésif, tel que les @Compendium[pf2e.equipment-srd.T6Appwwl6nUl56Xj]{Sacoches immobilisantes}, avec un modificateur de neutralisation de [[/r 1d20+28]].</p>"
+        },
+        {
+            "id": "Lapis lazuli",
+            "name": "Lapis lazuli (Lapis lazuli)",
+            "description": ""
+        },
+        {
+            "id": "Gold necklace with peridots",
+            "name": "Gold necklace with peridots (Collier en or serti de péridots)",
+            "description": ""
         },
         {
             "id": "Feather Token (Anchor)",
@@ -6897,6 +6967,11 @@
             "description": "<p>Contenue dans un petit sac en cuir ou en peau spécialement enchanté, cette poudre détériorante est un puissant agent caustique et un objet prisé par les adeptes les plus discrets de Rovagug.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">D</span> Interagir</p>\n<p><strong>Effet</strong> Vous saupoudrez cette sorte poussière détériorante sur un objet moyen ou plus petit non surveillé. La poudre prend rapidement une couleur transparente et l'objet commence immédiatement à rouiller, à fondre ou à se désagréger. Pendant la durée indiquée, l’objet subit des dégâts constants ; si l’objet a une certaine dureté, la poussière réduit progressivement la dureté de l’objet. Si la poudre caustique est toujours active après que la dureté de l'objet'est réduite à 0, elle inflige des dégâts à l'objet comme décrit précédemment. Si l'objet survit, la réduction de la dureté réapparaît après l'expiration de la durée d'activation de la poudre, mais les dégâts sont conservés.</p>\n<p>L'objet affecté subit 1 point de dégât toutes les 3 heures (8 points de dégats par jour) et sa dureté est réduite de 1 point par heure. L'effet dure pendant 1 semaine.</p>"
         },
         {
+            "id": "Agate",
+            "name": "Agate (Agate)",
+            "description": ""
+        },
+        {
             "id": "Bullhook",
             "name": "Bullhook (Crochet de taureau)",
             "description": "<p>Un crochet de taureau est une tige robuste d'environ 1 mètre de long avec un crochet émoussé à son extrémité. Trop émoussé pour servir d'arme, un crochet de taureau est plutôt utilisé pour diriger les animaux lors de leur entraînement ou de l'exécution de leurs tâches. Un crochet de taureau vous confère un bonus d'objet de +2 aux tests de Nature pour commander un animal lorsque vous le tenez.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">D</span> Sur ordre, Interagir</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Effet</strong> Vous agitez le crochet de taureau pour produire les effets d'un sort d' @Compendium[pf2e.spells-srd.aIHY2DArKFweIrpf]{Injonction} de niveau 1 (DD 18). Ce sort perd le trait linguistique et ne peut cibler que les animaux.</p>\n<p><strong>Condition de fabrication</strong> Fournir une incantation d'Injonction du niveau approprié.</p>"
@@ -7517,6 +7592,11 @@
             "description": "<p>Ce kit comprend une canne à pêche pliable, des hameçons, de la ligne, des appâts et un filet de pêche. Le matériel de pêche professionnel confère un bonus d'objet de +1 aux tests de pêche.</p>"
         },
         {
+            "id": "Silk ceremonial armor",
+            "name": "Silk ceremonial armor (Armure de soie cérémonielle)",
+            "description": ""
+        },
+        {
             "id": "Blackfinger Blight",
             "name": "Blackfinger Blight (Fléau du doigt noir)",
             "description": "<p><strong>Activation</strong><span class=\"pf2-icon\">2</span>Interagir</p>\n<hr />\n<p>Cette poudre huileuse, de couleur violet foncé, dégage une odeur distincte de cuir bouilli. Lorsqu'il est administré, le poison agit rapidement en réduisant le flux sanguin de la victime dans ses extrémités et en transformant ses poumons en une gelée molle. Une victime de du fléau du doigt noir est reconnaissable, car les pores du bout de ses doigts suintent une huile d'encre qui recouvre ses mains. Dès lors, sa prise d'objets est rendue difficile. Chaque round, au début de son tour, une créature affectée par le fléau du doigt noir, doit réussir un test nu DC 5 ou laisser tomber un objet aléatoire qu'elle tient.</p>\n<strong>Jet de sauvegarde</strong> Vigueur DD 32;</p>\n<p><strong>Début</strong> 1 round;</p>\n<p><strong>Durée maximale</strong> 6 rounds;</p>\n<p><strong>Stade 1</strong> [[/r 6d6 #poison]] dégâts de poison (1 round);</p>\n<p><strong>Stade 2</strong> [[/r 8d6 #poison]] dégâts de poison (1 round);</p>\n<p><strong>Stade 3</strong> [[/r 10d6 #poison]] dégâts de poison et @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confus}(1 round)</p>"
@@ -7585,6 +7665,11 @@
             "id": "Antidote (Lesser)",
             "name": "Antidote (Lesser) (Antidote (inférieur))",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p>Un antidote vous protège contre les toxines. Lorsque vous le buvez, vous recevez un bonus d’objet de +2 aux jets de Vigueur contre les poisons pendant 6 heures.</p>\n<p>@Compendium[pf2e.spell-effects.7z1iY4AaNEAIKuAU]{Effet: Antidote (inférieur)}</p>"
+        },
+        {
+            "id": "Amber",
+            "name": "Amber (Ambre)",
+            "description": ""
         },
         {
             "id": "Wish Blade",
@@ -8707,6 +8792,11 @@
             "description": "<p>Ce bâtonnet gras dégage une odeur de sucs gastriques lorsqu'il est tenu en main<p>\n<hr />\n<p><strong>Activation</strong> @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort};</p>\n<p><strong>Fréquence</strong> une fois par jour, plus surcharge;</p>\n<p><strong>Effet</strong> Vous lancez @Compendium[pf2e.spells-srd.f8hRqLJaxBVhF1u0]{Flèche acide} au Niveau 4. Une créature qui subit des dégâts d'acide suite à ce sort doit réussir un jet de sauvegarde Vigueur contre le DD de votre sort ou devenir @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1.</p>\n<hr />\n<p><strong>Conditions de fabrication</strong> Fournir l'incantation  Flèche acide au Niveau 4</p>"
         },
         {
+            "id": "Azurite",
+            "name": "Azurite (Azurite)",
+            "description": ""
+        },
+        {
             "id": "Oil of Unlife (Greater)",
             "name": "Oil of Unlife (Greater) (Huile de Non-vie (supérieure))",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p>Ce liquide noir et fin donne un frisson profond tout en réparant rapidement la forme physique ou spirituelle d’une créature morte-vivante. Lorsque vous versez de l'huile de la vie sur une créature morte-vivante, ou une créature vivante avec une guérison négative, l'huile est rapidement absorbée par son corps, et la créature regagne 6d8+20 points de vie. Vous pouvez verser de l'huile de Non-vie sur un mort-vivant incorporel ; dans ce cas, la créature absorbe l'huile en elle-même.</p>"
@@ -8925,6 +9015,11 @@
             "id": "Wondrous Figurine (Golden Lions)",
             "name": "Wondrous Figurine (Golden Lions) (Figurine merveilleuse (Lions dorés))",
             "description": "<p>Chacune de ces statuettes fait 2,5 centimètres de haut. Elles sont sculptées dans des matériaux spécifiques et représentent des animaux.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">D</span> Sur ordre, Interagir</p> \n<p><strong>Effet</strong> Vous activez une figurine en la posant sur une surface solide et en prononçant son nom. Elle se transforme alors en une ou plusieurs créatures. Sous forme de créature, la figurine adopte le trait sbire. Elle comprend votre langue et fait de son mieux pour vous obéir lorsque vous utilisez une action pour lui donner un ordre. Les particularités de chaque créature et la fréquence d’activation de chaque statuette (le cas échéant) figurent dans son entrée.</p>\n<p>Si la figurine est tuée sous forme animale, elle redevient une statue et ne peut plus s’activer avant une semaine. Si elle est détruite sous forme de statue, elle vole en éclats et sa magie disparaît</p>\n<hr />\n<p>Cette statuette représente un couple de lions dorés. Activée, elle se change en deux @Compendium[pf2e.pathfinder-bestiary.l3Pe8FsFbLvft1Fq]{Lions} adultes. Vous pouvez appeler les lions une seule fois par jour et ils restent sous forme animale 1 heure au maximum. Si l’un des lions se fait tuer, il ne peut plus être convoqué avant qu’une semaine se soit écoulé, mais cela ne vous empêche pas d’appeler l’autre.</p>"
+        },
+        {
+            "id": "Alabaster idol",
+            "name": "Alabaster idol (idôle en albâtre)",
+            "description": ""
         },
         {
             "id": "Serithtial",

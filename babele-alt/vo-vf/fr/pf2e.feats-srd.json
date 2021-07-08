@@ -2007,8 +2007,8 @@
             "description": "<p>Votre magie est tirée de vos créations persistantes.</p>\n<p>Tant que vous vous trouvez à moins de 9 mètres et que vous avez une ligne d'effet sur votre création persistante, vous pouvez l'utiliser comme point d'origine pour vos sorts de ligne ou de cône. Par exemple, un @Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Éclair} pourrait provenir de la création persistante plutôt que de vous.</p>"
         },
         {
-            "id": "Impossible Volley",
-            "name": "Impossible Volley (Volée invraisemblable)",
+            "id": "Impossible Volley (Fighter)",
+            "name": "Impossible Volley (Fighter) (Volée invraisemblable)",
             "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec le trait volée et un rechargement 0</p>\n<hr />\n<p>Vous tirez une volée de projectiles sur tous les adversaires dans une zone. Effectuez une Frappe avec un malus de −2 contre chaque ennemi dans une explosion de 3 m de rayon centrée sur un point situé à une distance supérieure ou égale à la portée de volée de votre arme. Faites un seul jet de dégâts pour toutes les cibles.</p>\n<p>Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>\n<hr />\n<p><strong>Spécial</strong> Lorsqu'il est pris en tant que don de guerrier, ce don possède les traits Sophistication et Ouverture.</p>"
         },
         {
@@ -2537,8 +2537,8 @@
             "description": "<p>Lorsque vous faites une Sieste féline, vous pouvez aussi Refocaliser en rêvant d'une activité qui vous le permet.</p>"
         },
         {
-            "id": "Cantrip Expansion",
-            "name": "Cantrip Expansion (Expansion de tour de magie)",
+            "id": "Cantrip Expansion (Prepared Caster)",
+            "name": "Cantrip Expansion (Prepared Caster) (Expansion de tour de magie)",
             "description": "<p>Vos recherches permettent de diversifier votre gamme de sorts simples. Ajoutez deux tours de magie supplémentaires de votre liste de sorts à votre répertoire.</p>"
         },
         {
@@ -4122,8 +4122,8 @@
             "description": "<p><strong>Déclencheur</strong> Un adversaire adjacent vous inflige un coup critique avec une arme de corps à corps ou une attaque à mains nues au corps à corps.</p>\n<p><strong>Conditions</strong> Votre réserve contient au moins 1 point de focalisation</p>\n<hr />\n<p>Vous vous défendez en déclenchant une explosion de fureur orageuse sur une créature qui vous a blessé. Vous lancez @Compendium[pf2e.spells-srd.ho1jSoYKrHUNnM90]{Onde de tempête} sur l’adversaire déclencheur et vous le repoussez de 1,5 mètres s’il rate son jet de Réflexes ou de 3 mètres s’il obtient un échec critique. Ceci est un déplacement forcé.</p>"
         },
         {
-            "id": "Eyes Of Night",
-            "name": "Eyes Of Night (Yeux de la nuit)",
+            "id": "Eyes of the Night",
+            "name": "Eyes of the Night (Yeux de la nuit)",
             "description": "<p>Vous pouvez voir dans l'obscurité aussi facilement qu'un véritable vampire. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>\n<rr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au niveau 1 et vous ne pouve par utiliser le réapprentissage pour acquérir ou perdre ce don.</p>"
         },
         {
@@ -7925,6 +7925,11 @@
             "id": "Improved Elemental Bulwark",
             "name": "Improved Elemental Bulwark (Fortification élémentaire améliorée)",
             "description": "<p>Fortification élémentaire vous accorde une résistance élémentaire de 10.</p>"
+        },
+        {
+            "id": "Azaersi's Roads",
+            "name": "Azaersi's Roads (Routes d'Azaersi)",
+            "description": "<p>Azaersi vous a accordé un accès limité aux Routes de pierre, en vous harmonisant au plus petit éclat de la Clé d'Onyx.</p>\n<p>Vous obtenez @Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]{Changement de plan} comme un sort inné primordial. Vous pouvez le Lancer deux fois par semaine. Cela ne peut être utilisé que pour circuler entre le Plan de la terre et le Plan matériel. En raison de votre harmonisation à la Clé d'Onyx, vous pouvez être le focalisateur du sort et vous n'avez pas besoin de diapason.</p>"
         },
         {
             "id": "Weapon-Rune Shifter",
