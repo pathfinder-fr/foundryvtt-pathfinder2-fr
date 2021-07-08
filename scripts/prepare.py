@@ -89,7 +89,7 @@ for p in packs:
 
   # si le pack contient au moins une erreur à la lecture, on arrête de l'examiner
   if pack_has_errors == True:
-    print_error("Invalid data in pack %s, skipping" % (pack_id))
+    print_warning("Invalid data in pack %s, skipping" % (pack_id))
     has_errors = True
     continue
   
