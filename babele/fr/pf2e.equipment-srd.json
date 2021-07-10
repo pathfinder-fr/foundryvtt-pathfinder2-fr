@@ -927,11 +927,6 @@
             "description": "<p>Un chat à neuf queues est composé d’un ensemble de plusieurs cordes à nœuds faites de coton ou de cuir, et reliées à une poignée. Même si les chats à neuf queues sont au départ des armes destinées à la pratique de la torture, ceux utilisés par l’ordre du Fléau possèdent des crochets de métal transperçant les vêtements et les ar\u0002mures. Le chat à neuf queues est une arme de guerre de corps à corps.</p>"
         },
         {
-            "id": "Alabaster",
-            "name": "Albâtre",
-            "description": ""
-        },
-        {
             "id": "Wand of Noisome Acid (6th-Level Spell)",
             "name": "Baguette de pestillence acide (Niveau 6)",
             "description": "<p>Ce bâtonnet gras dégage une odeur de sucs gastriques lorsqu'il est tenu en main<p>\n<hr />\n<p><strong>Activation</strong> @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort};</p>\n<p><strong>Fréquence</strong> une fois par jour, plus surcharge;</p>\n<p><strong>Effet</strong> Vous lancez @Compendium[pf2e.spells-srd.f8hRqLJaxBVhF1u0]{Flèche acide} au Niveau 6. Une créature qui subit des dégâts d'acide suite à ce sort doit réussir un jet de sauvegarde Vigueur contre le DD de votre sort ou devenir @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1.</p>\n<hr />\n<p><strong>Conditions de fabrication</strong> Fournir l'incantation  Flèche acide au Niveau 6</p>"
@@ -1397,11 +1392,6 @@
             "description": "<p>Cette paire d'ardoises assorties, d'une largeur et d'une hauteur d'environ une main, possède des cadres ornés identiques. Les ardoises sont fabriquées par paires, et l'une ne fonctionne qu'avec l'autre. Si une ardoise de la paire est brisée, l'autre se brise en éclats non-magiques. Le prix indiqué est celui d'une paire d'ardoises</p>\n<p><strong>Activateation/strong> <span class=\"pf2-icon\">2</span> Interagirp>\n<p><strong>Fréquence</strong> une fois par heure</p>\n<p><strong>Effet</strong> Vous utilisez un morceau de craie pour écrire jusqu'à 25 mots sur une ardoise. Au fur et à mesure que vous écrivez, l'écriture apparaît également sur l'autre ardoise de la paire correspondante, quelle que soit sa distance, tant qu'elle se trouve sur le même plan. Effacer une ardoise efface l'écriture des deux ardoises. Chaque ardoise peut être activée une fois par heure.</p>"
         },
         {
-            "id": "Azurite",
-            "name": "Azurite",
-            "description": ""
-        },
-        {
             "id": "Wand of Manifold Missiles (3rd-Level Spell)",
             "name": "Baguette de projectiles multiples (sort de niveau 3)",
             "description": "<p>Cette baguette est ornée d’une tête de dragon à son extrémité et d’une sphère de métal poli au milieu.</p>\n<p><strong>Activation</strong> Lancer un sort</p>\n<p><strong>Fréquence</strong> 1/jour, plus surcharges</p>\n<p><strong>Effet</strong> Vous Lancez @Compendium[pf2e.spells-srd.gKKqvLohtrSJj3BM]{Projectile magique} au Niveau 3. Après avoir lancé le sort, la baguette tire un ou plusieurs projectiles supplémentaires au début de chacun de vos tours, comme si vous lanciez la version à 1 action de projectile magique. Désignez chaque fois les cibles. Ceci dure 1 minute, jusqu’à ce que vous ne teniez plus la baguette en main ou que vous tentiez de l’activer à nouveau.</p>\n<p><strong>Conditions de fabrication</strong> Fournir une incantation de Projectile magique du niveau approprié.</p>"
@@ -1410,11 +1400,6 @@
             "id": "Grappling Arrow",
             "name": "Flèche grappin",
             "description": "<p>Ce petit grappin est conçu pour être attaché à une corde et tiré à partir d'un arc. Lorsqu'il est tiré, il a la moitié de l'augmentation de portée normale de l'arme.</p>"
-        },
-        {
-            "id": "Platinum‑framed monocle",
-            "name": "Monocle à la monture de platine",
-            "description": ""
         },
         {
             "id": "Staff of Impossible Visions (Greater)",
@@ -1622,11 +1607,6 @@
             "description": "<p>Vous pouvez enduire un objet d’Encombrement 1 ou moins avec cette huile scintillante pour qu’il paraisse ne rien peser. Son Encombrement devient négligeable pendant 1 heure</p>"
         },
         {
-            "id": "Bronze chalice with bloodstones",
-            "name": "Calice en bronze avec des héliotropes",
-            "description": ""
-        },
-        {
             "id": "Adamantine Shield (Standard-Grade)",
             "name": "Bouclier en adamantium (qualité standard)",
             "description": "<p>Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.</p>\n<p>Le bouclier a une Solidité de 10, 40 PV et un SR de 20.</p>\n<hr />\n<p><strong>Conditions de fabrication</strong> au moins 55 po d’adamantium</p>"
@@ -1785,11 +1765,6 @@
             "id": "Thieves' Tools (Infiltrator Picks)",
             "name": "Crochets d'infiltration",
             "description": "<p> vous avez besoin d’outils de voleur pour Crocheter des serrures ou Désamorcer des dispositifs (de certains types) à l’aide de la compétence Vol. Les outils de voleur d’infiltration ajoutent un bonus d’objet de +1 aux tests pour Crocheter des serrures et Désamorcer des dispositifs. Si vos outils de voleur sont brisés, vous pouvez les réparer en remplaçant les crochets par des crochets de rechange adaptés à vos outils ; cela ne nécessite pas l’utilisation de l’action Réparer. </p>"
-        },
-        {
-            "id": "Agate",
-            "name": "Agate",
-            "description": ""
         },
         {
             "id": "Full Plate",
@@ -2375,16 +2350,6 @@
             "id": "Class Kit (Alchemist)",
             "name": "Kit de classe (Alchimiste)",
             "description": "<p><strong>Armure</strong>  armure de cuir clouté</p>\n<p><strong>Armes</strong> dague, fronde avec 20 billes de fronde</p>\n<p><strong>Equipement</strong> pack d’aventurier, outils d’alchimiste, bandoulière,</p>\n<p>livre d’artisan basique, 2 jeux de chausse‑trappes, gaine</p>\n<p><strong>Options</strong> @Compendium[pf2e.equipment-srd.vLGDUFrg4yGzpTQX]{Kit de réparation}  (2 po)</p>"
-        },
-        {
-            "id": "Rhodochrosite",
-            "name": "Rhodochrosite",
-            "description": ""
-        },
-        {
-            "id": "Amphora with lavish scenes",
-            "name": "Amphore portant des scènes somptueuses",
-            "description": ""
         },
         {
             "id": "Aeon Stone (Pale Lavender Ellipsoid)",
@@ -3662,11 +3627,6 @@
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<hr />\nAprès avoir bu ce mutagène, votre corps devient plus imposant et robuste. Vous rayonnez de santé, mais vous devenez lourdaud et peu observateur. \n<p><strong>Avantage</strong> Vous gagnez un bonus d’objet aux jets de Vigueur de +2 ainsi que 10 de points de vie temporaires. Lorsque vous possédez votre maximum de points de vie depuis 1 minute complète, vous récupérez les points de vie temporaires\n<p><strong>Inconvenient</strong> Vous subissez un malus de −2 aux jets de Volonté et d’initiative et aux tests de Perception.\n<p><strong>Durée</strong> 10 minutes.</p>\n<p>@Compendium[pf2e.spell-effects.dpIrjd1UPY7EnWUD]{Effet: Mutagène de juggernaut (Modéré)}</p>"
         },
         {
-            "id": "Aeon Stone (Pearly White Spindle)",
-            "name": "Pierre d'éternité (fuseau blanc perle)",
-            "description": "<p>Lorsque vous investissez cette pierre d'éternité, elle commence lentement à soigner vos blessures, vous rendant 1 point de vie toutes les minutes.</p>\n<p>Le pouvoir de résonance vous confère une résistance de 1 aux dégâts négatifs.</p>"
-        },
-        {
             "id": "Magic Wand (7th-Level Spell)",
             "name": "Baguette magique (sort de niveau 7)",
             "description": "<p>Cette baguette fait 30 cm de long environ et contient un unique sort. Son aspect physique est généralement en rapport avec le sort qu’elle contient.</p>\n<p><strong>Activation</strong>  @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} </p>\n<p><strong>Fréquence</strong>  1/jour, plus surcharger ;</p>  \n<p><strong>Effet</strong> Vous Lancez le sort au niveau indiqué.</p>\n<p><strong>Conditions de fabrication</strong> Fournir une incantation du sort du niveau indiqué.</p>"
@@ -4677,6 +4637,11 @@
             "description": "<p>Une série de lames en forme de fouet s'étend à partir du pommeau de cette épée.</p>"
         },
         {
+            "id": "Rite of Reinforcement Exoskeleton",
+            "name": "exosquelette du rite de renforcement",
+            "description": "<p></p><strong>Note</strong> seulement issu de l'héritage Conrasu Rite of Renforcement</p>\n<hr />\n<p>Votre exosquelette tissé rivalise avec les armures les plus dures que l'on puisse trouver. Votre exosquelette est une armure moyenne du groupe des armures de plaques qui confère un bonus d'objet de +4 à la CA, un Maximum de Dextérité de +1, une pénalité d'échec aux tests de -2, une pénalité de vitesse de -1,5 m, une valeur de Force de 16 et elle possède le trait confortable. Vous ne pouvez jamais porter une autre armure ou retirer votre exosquelette. Vous pouvez graver des runes d'armure sur votre exosquelette comme à l'ordinaire.</p>"
+        },
+        {
             "id": "Potion of Cold Retaliation (Lesser)",
             "name": "Potion de Riposte glaciale (inférieure)",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p>Pendant 1 minute après avoir bu une potion de Riposte glaciale, vous rayonnez d'une faible aura d'énergie froide, et une créature qui vous touche (par exemple en effectuant une attaque à mains nues ou en utilisant un sort de contact) subit des dégâts de froid.</p>\n<p>L'aura inflige 1d4 points de dégâts de froid.</p>"
@@ -4785,11 +4750,6 @@
             "id": "Onyx Panther",
             "name": "Panthère d'onyx",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Imaginer</p>\n<p>Cette petite pierre ressemble à une panthère stylisée. Lorsque vous l’activez, vous vous déplacez de la totalité de votre Vitesse (et non de la moitié) lors de l’action @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif} qui a servi de déclencheur et de toutes les autres actions Être furtif de ce tour.</p>\n<p><strong>Déclencheur</strong> Vous utilisez l’action Être furtif</p> \n<p><strong>Conditions</strong> Vous êtes qualifié en Discrétion</p>"
-        },
-        {
-            "id": "Etched copper ewer",
-            "name": "aiguière de cuivre gravée",
-            "description": ""
         },
         {
             "id": "Oil of Animation",
@@ -4905,11 +4865,6 @@
             "id": "Poisoner's Staff",
             "name": "Bâton de l'empoisonneur",
             "description": "<p>Ce bâton noueux est couvert d'épines et recouvert d'une laque scintillante qui agit comme un irritant mineur. Lorsque vous tenez le bâton, vous n’êtes pas affecté par son revêtement ou ses épines, et vous diminuez le DD de vos tests nus pour surmonter les dégâts de poison persistant de 15 à 13.</p>\n<hr />\n<p><strong>Activation</strong> @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort}</p>\n<p><strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.</p>\n<p><strong>Conditions de fabrication</strong> Fournissez une incantation de tous les sorts au niveau listés.</p>\n<hr />\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.izcxFQFwf3woCnFs]{Assistance divine}</li>\n<li><strong>Niveau 1</strong> @Compendium[pf2e.spells-srd.QqxwHeYEVylkYjsO]{Détection du poison}, @Compendium[pf2e.spells-srd.DYdvMZ8G2LiSLVWw]{Morsure d'araignée}</li>\n</ul>"
-        },
-        {
-            "id": "Ceremonial shortsword with spinels",
-            "name": "épée courte cérémonielle avec des spinelles",
-            "description": ""
         },
         {
             "id": "Thieves' Tools (Concealable Picks)",
@@ -5192,11 +5147,6 @@
             "description": "<p>Ce puissant bâton magique est hostile à toute forme de magie</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">2</span> Interagir</p>\n<p><strong>Effet</strong> A l'aide du bâton, vous touchez un effet magique ou un objet magique et tentez de contrer l'effet ou l'objet. Quel que soit le résultat, le bâton d'annulation ne peut plus être activé pendant [[/r 2d6]] heures.</p>\n<p>En cas de réussite, l'effet ou l'objet est désactivé pour la même durée, et sa durée, le cas échéant, continue d'expirer pendant ce temps. Si vous le souhaitez, vous pouvez également drainer complètement la magie du bâton d'annulation sur un succès afin de drainer complètement la magie de l'effet ou de l'objet. Dans ce cas, les deux objets deviennent complètement non-magiques et leur magie ne peut plus être récupérée, même par le sort @Compendium[pf2e.spells-srd.dMKP4fkWx8V2cqAy]{Recréer}.</p>\n<p>Le bâton d'annulation ne parvient pas automatiquement à contrer la plupart des artefacts et des objets de puissance similaire, mais il réagit de manière explosive lorsqu'il est activé contre une @Compendium[pf2e.equipment-srd.B4DnQNcGl6nFVKHl]{Sphère d'Annihilation} sans test de contre.</p>"
         },
         {
-            "id": "Gold necklace with peridots",
-            "name": "Collier en or serti de péridots",
-            "description": ""
-        },
-        {
             "id": "Clothing (Winter)",
             "name": "Vêtement (hiver)",
             "description": "<p>Les vêtements d’hiver annulent les dégâts dus à un froid important issu de l’environnement et de réduisent les dégâts de froid extrême à de simples dégâts de froid important.</p>"
@@ -5415,11 +5365,6 @@
             "id": "Sphere of Annihilation",
             "name": "Sphère d'annihilation",
             "description": "<p>Une Sphère d’annihilation est une sphère noire flottante qui aspire toute la matière qu’elle touche dans le néant en la détruisant à tout jamais. Toute chose ou tout être vivant détruit par la sphère ne peut être ramené que par une intervention divine directe. La sphère ne peut être contrée par un sort dissipation de la magie ou un effet similaire.</p>\n<p>La sphère est totalement immobile à moins d’être déplacée par une créature qui la contrôle. Prendre le contrôle de la sphère nécessite de réussir à une tentative pour l’activer. Un @Compendium[pf2e.equipment-srd.imBDGoQJnvfWYuLC]{Talisman de la Sphère} facilite le contrôle de la sphère.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span>  Sur ordre</p> \n<p><strong>Conditions</strong> Vous vous trouvez dans un rayon de 12 mètres de la sphère</p>\n<p><strong>Effet</strong> Vous tentez un test d’Arcanes ou d’Occultisme DD 30 pour prendre le contrôle de la sphère. Si quelqu’un d’autre la contrôle déjà, ce test utilise son DD de volonté s’il est supérieur. Si vous réussissez, vous prenez le contrôle de la sphère. Si vous échouez, la sphère se rapproche de 3 mètres de vous (de 6 mètres en cas d’échec critique). Vous gardez le contrôle tant que vous restez dans un rayon de 24 mètres de la sphère et que vous Maintenez l’activation à chaque round. Quand vous Maintenez l’activation, vous devez tenter un test d’Arcanes ou d’Occultisme DD 30. Si vous réussissez, vous poussez la sphère à se déplacer de 3 mètres en ligne droite (ou de 6 mètres en cas de succès critique). En cas d’échec, vous perdez le contrôle et la sphère se rapproche de 3 mètres de vous en ligne droite (de 6 mètres en cas d’échec critique).</p>\n<p><strong>Destruction</strong> Quand un sort portail est incanté de manière à ce que la déchirure se superpose à une sphère d’annihilation, lancez un d%. Sur un résultat de 1–50, la sphère est détruite ; sur un résultat de 51–85, la sphère est interrompue ; et sur un résultat de 86–100, tout ce qui se trouve dans une émanation de 54 mètres de la sphère est projeté sur un autre plan à travers une déchirure du tissu de la réalité. Si un @Compendium[pf2e.equipment-srd.HuGZspUvJqR09Y8u]{Bâton d'annulation} touche une sphère, les deux objets explosent infligeant 14d6 dégâts contondants (jet de Réflexes basique DD 35) à tout ce qui se trouve dans une explosion de 18 mètres centré sur le point de destruction.</p>"
-        },
-        {
-            "id": "Life‑size sculpture by an expert",
-            "name": "Sculpture à l'échelle (par un expert)",
-            "description": ""
         },
         {
             "id": "Sleeves of Storage (Greater)",
@@ -5855,11 +5800,6 @@
             "id": "Ten-Foot Pole",
             "name": "Perche de 3 mètres",
             "description": "<p>Lorsque vous utilisez cette perche, vous pouvez utiliser Chercher pour fouiller une case jusqu’à 3 mètres. La perche n’est cependant pas assez solide pour qu’on puisse l’utiliser comme une arme.</p>"
-        },
-        {
-            "id": "Lapis lazuli",
-            "name": "Lapis lazuli",
-            "description": ""
         },
         {
             "id": "Earthsight Box",
@@ -6742,11 +6682,6 @@
             "description": "<p>Cette épée courbée comme une faucille possède un bout pointu, lui permettant d'être balancée comme une hache ou pointée comme une épée courte. Le bout pointu d'une khopesh est habituellement crochue de manière à pouvoir désarmer un adversaire de son arme ou de son bouclier.</p>"
         },
         {
-            "id": "Alabaster idol",
-            "name": "idôle en albâtre",
-            "description": ""
-        },
-        {
             "id": "Lethargy Poison",
             "name": "Poison de léthargie",
             "description": "<p>Les drows et autres créatures désirant garder leurs victimes en vie utilisent fréquemment le poison de léthargie lors de tactiques de harcèlement, l’assaillant battant en retraite le temps que le poison agisse et que la victime tombe inconsciente. Une créature exposée de nouveau au poison de léthargie n’a pas à faire de jets de sauvegarde supplémentaires, seul un jet de sauvegarde raté contre l’effet de poison en cours fait passer au stade d’empoisonnement suivant</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir (Blessure)</p>\n<p><strong>Jet de sauvegarde</strong> Vigueur DD 18; </p>\n<p><strong>Durée maximum</strong> 4 heures; </p>\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 (1 round) ;  </p>\n<p><strong>Stade 2</strong> Ralenti 1 (1 minute) ;  </p>\n<p><strong>Stade 3</strong> @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} sans test de Perception pour se réveiller (1 round)</p> \n<p><strong>Stade 4</strong> Inconscient sans test de Perception pour se réveiller (1d4 heures).</p>"
@@ -7075,11 +7010,6 @@
             "id": "Pick",
             "name": "Pic de guerre",
             "description": "<p>Un pic conçu uniquement pour le combat, qui possède un manche en bois robuste et une tête lourde et pointue permettant de porter des coups dévastateurs. </p>"
-        },
-        {
-            "id": "Silk ceremonial armor",
-            "name": "Armure de soie cérémonielle",
-            "description": ""
         },
         {
             "id": "Writing Set",
@@ -7887,11 +7817,6 @@
             "description": "<p>Les fumées des forges des Enfers drainent la santé et sapent les forces.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir (Inhalé)</p>\n<p><strong>Jet de sauvegarde</strong> Vigueur DD 36;  </p>\n<p><strong>Délai</strong>1 round; </p>\n<p><strong>Durée maximum</strong> 6 rounds; </p>\n<p><strong>Stade 1</strong> [[/r 7d6#poison]] dégâts de poison et @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 (1 round); </p>\n<p><strong>Stade 2</strong> [[/r 8d6#poison]] dégâts de poison et Affaibli 2 (1 round);</p>\n<p><strong>Stade 3</strong> [[/r 10d6#poison]] dégâts de poison et Affaibli 3 (1 round)<br></span></p>"
         },
         {
-            "id": "Pearl, black",
-            "name": "Perle noire",
-            "description": ""
-        },
-        {
             "id": "Third Eye",
             "name": "Troisième oeil",
             "description": "<p>Quand vous l’investissez, cette couronne ornée et sa pierre précieuse incandescente fusionnent avec votre tête et prennent la forme d’un tatouage. Ceci vous confère une vision surnaturelle et vous permet de lire les auras. Personne à part vous ne peut manipuler le troisième œil tant que vous l’investissez. Vos sens améliorés et votre capacité à percevoir les auras émotionnelles vous confèrent un bonus d’objet de +3 aux tests de Perception.</p>\n<p>Vous voyez de manière continue les auras magiques, comme avec une détection de la magie de niveau 9, sauf que vous voyez l’emplacement de toutes les auras à 9 mètres ou moins et pas simplement la plus puissante. Si vous effectuez l’action Chercher pour observer une créature dans votre champ de vision, vous percevez une aura qui vous informe sur son état de santé, notamment la totalité de ses états et afflictions et un pourcentage approximatif des points de vie qui lui restent</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">D</span> Imaginer, Sur ordre</p> \n<p><strong>Fréquence</strong> 1/jour</p> \n<p><strong>Effet</strong>  Vous bénéficiez des effets d’une @Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{vision lucide} de niveau 8.</p>\n<hr />\n<p>Code:</p>\n<ul>\n<li>Bonus d’objet de +3 aux tests de Perception.</li>\n</ul>"
@@ -8180,11 +8105,6 @@
             "id": "Azure Worm Repellent",
             "name": "Répulsif de ver Azur",
             "description": "<<p>Le répulsif contre les vers des cavernes est une huile très nocive qui peut être appliquée sur une créature ou saupoudrée en cercle autour d'une zone de 4,5 mètres de rayon. Dans les deux cas, après son application, il dure 24 heures ou jusqu'à ce qu'on le nettoie pendant 1 minute.</p>\n<p>Lorsqu'il est appliqué à une créature, le répulsif fait en sorte que les vers des cavernes du type indiqué évitent d'attaquer cette créature au corps à corps tant qu'ils ont autre chose à proximité à attaquer. Le répulsif ne dissuade pas un ver des cavernes d'effectuer des attaques à distance contre une cible enrobée de ce répulsif. Si aucune créature n’est à portée d’un ver des cavernes et qu’il veut s’approcher et effectuer une attaque au corps à corps, il attaquera d'abord une créature non enrobée, s’il le peut sans dépenser plus d’actions pour le faire. </p>\n<p>Si la créature enrobée est avalée par le type de ver des cavernes désigné, ce dernier doit réussir un jet de sauvegarde Vigueur ou régurgiter involontairement la créature avalée au prochain round (une seule action).</p>\n<p>Lorsqu'il est saupoudré autour d'une zone, le répulsif pour vers des cavernes annule toute chance de rencontre aléatoire avec le type particulier de vers des cavernes dans cette zone, car les créatures évitent délibérément la zone affectée.</p>\n<p>D'autres types de répulsifs fonctionnant de manière similaire à celui-ci peuvent exister à la discrétion du MJ. Les créatures peu communes ou rares sont généralement beaucoup plus difficiles à repousser, et le répulsif contre elles peut nécessiter de récolter des ingrédients sur les créatures elles-mêmes (comme le foie de la créature ou une certaine glande).</p>\n<strong>Activation</strong> 1 minute (Interagir)</p>\n<hr />\n<p><strong>Condition de fabrication</strong> Les ingrédients bruts initiaux doivent inclure une écaille de ver Azur.</p>"
-        },
-        {
-            "id": "Jewel‑encrusted gold altar",
-            "name": "Autel en or incrusté de gemmes",
-            "description": ""
         },
         {
             "id": "Belt of the Five Kings",
@@ -8657,11 +8577,6 @@
             "description": "<p>Plus court que les flèches traditionnelles, mais de fabrication similaire, le carreau est la munition utilisée par les arbalètes.</p>"
         },
         {
-            "id": "Bloodstone",
-            "name": "Héliotrope",
-            "description": ""
-        },
-        {
             "id": "Rope of Climbing (Moderate)",
             "name": "Corde d'escalade (modéré)",
             "description": "<p>Cette corde en soie mesure 15 mètres de long et est capable de supporter jusqu'à 1,5 tonnes. Si la corde est coupée, seule la partie la plus longue conserve sa magie.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p><strong>Fréquence</strong> une fois par heure.</p>\n<p><strong>Effet</strong> Vous tenez une extrémité de la corde et indiquez une destination. La corde s'anime pendant 1 minute, se déplaçant de 4,5 mètres par round jusqu'à ce qu'elle atteigne sa destination ou qu'elle n'ait plus de longueur. La corde peut se déplacer sur toute surface horizontale ou verticale non endommagée, mais elle ne peut pas s'étendre vers le haut sans une surface pour la soutenir. À tout moment pendant que la corde est animée, vous pouvez utiliser une action d'Interagir pour la remuer, en lui donnant l'une des commandes suivantes : s'arrêter sur place, s'attacher solidement à l'objet disponible le plus proche, se détacher d'un objet, ou se nouer ou se dénouer.</p>"
@@ -8970,11 +8885,6 @@
             "id": "Club",
             "name": "Gourdin",
             "description": "<p>Il s’agit d’un morceau de bois robuste façonné ou reconverti pour matraquer un ennemi. les gourdins peuvent être des pièces d’art martial finement sculptées ou être aussi simples qu’une branche d’arbre ou un morceau de bois.</p>"
-        },
-        {
-            "id": "Amber",
-            "name": "Ambre",
-            "description": ""
         },
         {
             "id": "Staff of Evocation (Major)",

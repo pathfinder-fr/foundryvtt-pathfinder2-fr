@@ -1,12 +1,12 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 145
+ * **libre**: 144
  * **aucune**: 37
  * **officielle**: 11
  * **changé**: 1
 
 
-Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -216,4 +216,3 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[10-NXzo2kdgVixIZ2T1.htm](spell-effects/10-NXzo2kdgVixIZ2T1.htm)|Spell Effect: Apex Companion|Effet : Compagnon alpha|libre|
 |[10-TAAWbJgfESltn2we.htm](spell-effects/10-TAAWbJgfESltn2we.htm)|Spell Effect: Primal Summons (Water)|Effet : Convocations primordiales (Eau)|libre|
 |[10-Xl48OsJ47oDVZAVQ.htm](spell-effects/10-Xl48OsJ47oDVZAVQ.htm)|Spell Effect: Primal Summons (Earth)|Effet : Convocations primordiales (Terre)|libre|
-|[Gqy7K6FnbLtwGpud.htm](spell-effects/Gqy7K6FnbLtwGpud.htm)|Spell Effect: Bless|Effet : Bénédiction|libre|

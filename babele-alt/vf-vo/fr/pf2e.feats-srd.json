@@ -409,6 +409,11 @@
             "description": "<p>Rien ne peut vous empêcher d'atteindre votre ennemi. @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} deux fois. Durant ce déplacement, vous ignorez les terrains difficiles, les terrains très difficiles et tout effet qui imposerait une pénalité à votre vitesse.</p>\n<p>Vous pouvez effectuer un test d'Athlétisme au lieu d'Acrobaties pour @Compendium[pf2e.actionspf2e.M76ycLAqHoAgbcej]{Garder l'équilibre} lorsque vous vous déplacez le long de surfaces étroites ou un sol inégal, en utilisant le même DD. Cela ne vous empêche pas d'être blessé par des terrains dangereux.</p>\n<p>Vous pouvez augmenter le nombre d'actions de cette activité à 3 pour Marcher rapidement trois fois à la place.</p>"
         },
         {
+            "id": "Eidetic Ear",
+            "name": "Oreille éidétique (Eidetic Ear)",
+            "description": "<p>Vous disposez d'une incroyable mémoire des sons. Vous obtenez le don @Compendium[pf2e.feats-srd.Eo2Cpg1P4I70me3y]{Assurance (Représentation)}. En cas de test nu réussi contre un DD 8, vous pouvez vous souvenir avec exactitude d'un son ou d'un sound ou d'une bribe de conversation que vous avez entendue durant la semaine précédente. Vous mémorisez par cœur plutôt que par contenu et vous ne pouvez pas l'utiliser pour mémoriser des faits, de sorte que cela ne vous donne pas de capacité supplémentaire pour vous Souvenir.</p>"
+        },
+        {
             "id": "Basic Flair",
             "name": "Élégance basique (Basic Flair)",
             "description": "<p>Vous obtenez un don de bretteur de niveau 1 ou 2 de votre choix.</p>",
@@ -895,6 +900,16 @@
             ]
         },
         {
+            "id": "Hunter's Defense",
+            "name": "Défense du chasseur (Hunter's Defense)",
+            "description": "<p><strong>Fréquence</strong>une fois par heure</p>\n<p><strong>Déclencheur</strong> Une créature ayant le trait animal, bête, élémentaire, féerique, champignon ou plante vous attaque et vous pouvez voir l'attaquant.</p>\n<hr />\n<p>Votre compréhension avisée des créatures naturelles et primitives vous aide à prévoir et à esquiver leurs attaques. Le jet d'attaque déclencheur cible votre DD de Nature au lieu de votre CA. Bien que cela vous permette d'éviter de subir des pénalités à votre CA, cela ne supprime pas les conditions ou autres effets provoquant de telles pénalités. Par exemple, un ennemi doté d'une attaque sournoise vous infligera tout de même des dégâts supplémentaires parce que vous êtes Pris au dépourvu, même si vous ne subissez pas le malus de circonstances de -2 contre l'attaque.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Nature"
+                }
+            ]
+        },
+        {
             "id": "Emergency Medical Assistance",
             "name": "Assistance médical d'urgence (Emergency Medical Assistance)",
             "description": "<p><strong>Conditions</strong> Un allié adjacent souffre de dégâts persistants.</p>\n<hr />\n<p>Vous avez appris une variété de méthodes pour aider les alliés qui saignent, brûlent ou souffrent de dégâts persistants, allant de l'élimination de l'acide aux traitements des brûlures.</p>\n<p>Votre allié tente immédiatement un test nu pour supprimer tous les types de dégâts persistants et votre utilisation de ce don compte automatiquement comme une aide particulièrement efficace, réduisant le DD pour tous les tests nus futurs pour supprimer les dégâts persistants de 15 à 10 .</p>",
@@ -1263,7 +1278,7 @@
         {
             "id": "Vanth's Weapon Familiarity",
             "name": "Familiarité avec les armes des vanths (Vanth's Weapon Familiarity)",
-            "description": "<p>Vous cherchez à émuler les styles de combat des vanths. Vous êtes qualifié avec les bô, les arcs longs, les arcs longs composites, les faux et les bâtons.</p>"
+            "description": "<p>Vous cherchez à émuler les styles de combat des vanths. Vous êtes qualifié avec le @Compendium[pf2e.equipment-srd.hMYdSFmMWzidzHih]{Bô}, l'@Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{arc long}, l'@Compendium[pf2e.equipment-srd.dUC8Fsa6FZtVikS3]{arc long composite}, la @Compendium[pf2e.equipment-srd.H74vYwHJ8XT4qOPI]{faux} et le @Compendium[pf2e.equipment-srd.FVjTuBCIefAgloUU]{Bâton}</p>"
         },
         {
             "id": "Ornate Tattoo",
@@ -2546,7 +2561,7 @@
         {
             "id": "Alghollthu Bound",
             "name": "Lié aux Alghollthus (Alghollthu Bound)",
-            "description": "<p>Bien que vous puissiez même ne pas en être conscient, les alghollthus que vos ancêtres ont autrefois servi, maintiennent une emprise dans les couches les plus profondes de votre esprit. Vous recevez un bonus de circonstances de +2 aux jets de Volonté contre les effets mentaux qui devraient vous contrôler et, si vous obtenez un succès contre un tel effet, vous obtenez un succès critique à la place. Quoi qu'il en soit, vous n'obtenez aucun de ces avantages contre les effets provenant des alghollthus et vous subissez à la place une pénalité de circonstances de –2 contre les effets mentaux des alghollthus.</p>"
+            "description": "<p>Bien que vous puissiez même ne pas en être conscient, les alghollthus que vos ancêtres ont autrefois servi, maintiennent une emprise dans les couches les plus profondes de votre esprit.</p>\n<p>Vous recevez un bonus de circonstances de +2 aux jets de Volonté contre les effets mentaux qui devraient vous contrôler et, si vous obtenez un succès contre un tel effet, vous obtenez un succès critique à la place.</p>\n<p>Quoi qu'il en soit, vous n'obtenez aucun de ces avantages contre les effets provenant des alghollthus et vous subissez à la place une pénalité de circonstances de –2 contre les effets mentaux des alghollthus.</p>"
         },
         {
             "id": "Vicious Evisceration",
@@ -2688,6 +2703,16 @@
             "prereq": [
                 {
                     "value": "Dévouement de maître des sorts"
+                }
+            ]
+        },
+        {
+            "id": "Pierce the Darkness",
+            "name": "Percer l'obscurité (Pierce the Darkness)",
+            "description": "<p>Vos yeux se sont adaptés pour voir en toutes circonstances, même sans l'aide de la lumière. Vous gagnez la @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}, qui vous permet de voir dans l'obscurité et la lumière faible aussi bien que dans la lumière vive. Cependant, dans l'obscurité, vous ne voyez qu'en noir et blanc.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez prendre ce don qu'au niveau 1 et vous ne pouvez pas utilise le réapprentissage pour le perdre.</p>",
+            "prereq": [
+                {
+                    "value": "vision nocturne"
                 }
             ]
         },
@@ -3401,7 +3426,7 @@
         {
             "id": "Hobgoblin Weapon Familiarity",
             "name": "Familiarité avec les armes hobgobelines (Hobgoblin Weapon Familiarity)",
-            "description": "<p>Vous êtes qualifié avec les arcs courts, les arcs courts composites, les arcs longs, les arcs longs composites,  les coutilles, les hallebardes, les épées courtes, les épées longues, les lances et les piques. En outre, vous avez accès aux armes peu courantes des hobgobelins. Afin de déterminer votre maîtrise, vous considérez les armes de guerre hobgobelines comme des armes simples et les armes hobgobelines évoluées comme des armes de guerre.</p>"
+            "description": "<p>Vous êtes qualifié avec les arcs courts, les @Compendium[pf2e.equipment-srd.e4NwsnPnpQKbDZ9F]{arcs courts composites}, les @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{arcs longs}, les @Compendium[pf2e.equipment-srd.dUC8Fsa6FZtVikS3]{arcs longs composites},  les @Compendium[pf2e.equipment-srd.vlnzTSsRmWeSkt9O]{coutilles}, les @Compendium[pf2e.equipment-srd.dgWxsYm0DWHb27h6]{hallebardes}, les @Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{épées longues}, les @Compendium[pf2e.equipment-srd.tOhoGvmCMw4JpWcS]{lances} et les @Compendium[pf2e.equipment-srd.aXuJh4i8HqSu6NYV]{piques}.</p>\n<p>En outre, vous avez accès aux armes peu courantes des hobgobelins. Afin de déterminer votre maîtrise, vous considérez les armes de guerre hobgobelines comme des armes simples et les armes hobgobelines évoluées comme des armes de guerre.</p>"
         },
         {
             "id": "Basic Lesson",
@@ -4130,7 +4155,7 @@
         {
             "id": "Kobold Weapon Familiarity",
             "name": "Familiarité avec les armes kobolds (Kobold Weapon Familiarity)",
-            "description": "<p>Vous êtes qualifié avec les armes idéales pour une efficacité souterraine. Vous êtes qualifié avec l'arbalète, le grand pic de guerre, le pic de guerre léger, le pic et la lance. Vous obtenez accès à toutes les armes kobols peu courantes. Pour les besoins de déterminer votre rang de maîtrise, les armes de guerre kobolds sont considérées comme des armes simples et les armes kobolds évoluées sont considérées comme des armes de guerre.</p>"
+            "description": "<p>Vous êtes qualifié avec les armes idéales pour une efficacité souterraine. Vous êtes qualifié avec l'@Compendium[pf2e.equipment-srd.62nnVQvGhoVLLl2K]{arbalète}, le @Compendium[pf2e.equipment-srd.3Zv5hSXXtlaDatUv]{grand pic de guerre}, le @Compendium[pf2e.equipment-srd.RbM4HvPyrZ4YJxRc]{pic de guerre léger}, le @Compendium[pf2e.equipment-srd.6I4YJAQUbTAqbpsI]{pic} et @Compendium[pf2e.equipment-srd.tOhoGvmCMw4JpWcS]{lance}.</p>\n<p>Vous obtenez accès à toutes les armes kobolds peu courantes. Pour les besoins de déterminer votre rang de maîtrise, les armes de guerre kobolds sont considérées comme des armes simples et les armes kobolds évoluées sont considérées comme des armes de guerre.</p>"
         },
         {
             "id": "Expeditious Advance",
@@ -4215,6 +4240,11 @@
                     "value": "Frappe précise"
                 }
             ]
+        },
+        {
+            "id": "Anadi Lore",
+            "name": "Connaissance des anadis (Anadi Lore)",
+            "description": "<p>Vous avez appris à subvenir aux besoins de votre communauté, que ce soit par le biais de nourriture durement obtenue ou d'objets artisanaux utiles. Vous êtes qualifié en Artisanat et en Survie. Si vous êtes automatiquement qualifié dans l'une de ces compétences (grâce à votre historique ou à votre classe, par exemple), vous devenez qualifié dans une compétence de votre choix. Vous devenez également qualifié en Connaissance des anadis.</p>"
         },
         {
             "id": "Instinct Ability",
@@ -7690,6 +7720,11 @@
             ]
         },
         {
+            "id": "Sensitive Nose",
+            "name": "Nez sensible (Sensitive Nose)",
+            "description": "<p>Votre grand nez noir n'est pas seulement là pour la galerie. Vous gagnez odorat (imprécis) avec une portée de 9 m.</p>.\n<hr />\n<p><strong>Spécial</strong>Vous ne pouvez prendre ce don qu'au niveau 1 et vous ne pouvez pas utiliser le réapprentissage pour perdre ce don.</p>"
+        },
+        {
             "id": "Bloodline Breadth",
             "name": "Amplitude de lignage (Bloodline Breadth)",
             "description": "<p>Votre répertoire se développe et vous pouvez lancer quotidiennement davantage de sorts issus de la tradition de votre lignage.</p>\n<p>Augmentez le nombre de sorts de votre répertoire et le nombre d’emplacements de sorts que vous gagnez grâce aux dons de l’archétype d'ensorceleur de 1 pour chaque niveau de sort autre que vos deux niveaux de sort les plus élevés.</p>",
@@ -8014,7 +8049,7 @@
         {
             "id": "Goblin Weapon Familiarity",
             "name": "Familiarité avec les armes gobelines (Goblin Weapon Familiarity)",
-            "description": "<p>Les autres ont beau vous regarder avec un certain dédain, vous savez que les armes de votre peuple sont aussi efficaces que tranchantes. Vous êtes qualifié avec le tranchechien et le coupecheval. En outre, vous avez accès aux armes peu courantes des gobelins. Afin de déterminer votre maîtrise, vous considérez les armes de guerre gobelines comme des armes simples et les armes gobelines évoluées comme des armes de guerre lorsqu'il s'agit de déterminer votre maîtrise.</p>"
+            "description": "<p>Les autres ont beau vous regarder avec un certain dédain, vous savez que les armes de votre peuple sont aussi efficaces que tranchantes. Vous êtes qualifié avec le @Compendium[pf2e.equipment-srd.olwngGXM3hpgoLEP]{tranchechien } et le @Compendium[pf2e.equipment-srd.YnwEttFE1bJacLDh]{coupecheval].</p>\n<p>En outre, vous avez accès aux armes peu courantes des gobelins. Afin de déterminer votre maîtrise, vous considérez les armes de guerre gobelines comme des armes simples et les armes gobelines évoluées comme des armes de guerre.</p>"
         },
         {
             "id": "Red Herring",
@@ -8025,6 +8060,11 @@
             "id": "Unstoppable Juggernaut",
             "name": "Juggernaut inarrêtable (Unstoppable Juggernaut)",
             "description": "<p>Vous êtes devenu une force de la nature brutale et inarrêtable, capable de surmonter des blessures mortelles facilement. Vous obtenez une résistance égale à 3 + votre modificateur de Constitution à tous les dégâts et votre résistance de résistance enragée passe à 8 + votre modificateur de Constitution.</p>\n<p>De plus, si vous êtes réduit à 0 Points de vie, vous pouvez mettre un terme à la rage par une réaction pour rester à 1 Point de Vie. Si vous le faites, vous devenez  @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Blessé} 2 (ou augmentez votre état blessé de 2 si vous étiez déjà blessé).</p>"
+        },
+        {
+            "id": "Conrasu Weapon Familiarity",
+            "name": "Familiarité avec les armes conrasus (Conrasu Weapon Familiarity)",
+            "description": "<p>Vous avez pris sur vous même pour apprendre les façons de combattre pour vous aider dans vos tâches, peut-être en prenant le rôle de correcteur. Vous êtes qualifié avec l'@Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]{arc court}, l'@Compendium[pf2e.equipment-srd.e4NwsnPnpQKbDZ9F]{arc court composite}, la @Compendium[pf2e.equipment-srd.vlnzTSsRmWeSkt9O]{coutille}, l'@Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{épée longue}, la @Compendium[pf2e.equipment-srd.tOhoGvmCMw4JpWcS]{lance} et la @Compendium[pf2e.equipment-srd.aXuJh4i8HqSu6NYV]{pique}.</p>\n<p>Vous obtenez l'accès à toutes les armes conrasus peu courantes (le @Compendium[pf2e.equipment-srd.7WRzbBTOCsJx5f7L]{Buugeng}). Pour les besoins de déterminer votre maîtrise, les armes de guerre conrasus sont des armes simples et les armes conrasus avancées sont des armes de guerre.</p>"
         },
         {
             "id": "Dread Striker",
@@ -8655,6 +8695,11 @@
                     "value": "expert en Athlétisme"
                 }
             ]
+        },
+        {
+            "id": "Studious Magic",
+            "name": "Magie studieuse (Studious Magic)",
+            "description": "<p>Vous avez trouvé de l'intérêt dans les traditions arcaniques des anadis. Choisissez un tour de magie de la liste arcanique. Vous pouvez lancer ce sort comme un tour de magie arcanique inné à volonté. Un tour de magie est intensifié à un niveau de sort égal à votre niveau arrondi à l'entier supérieur.</p>"
         },
         {
             "id": "Quick Study",
@@ -9774,7 +9819,7 @@
         {
             "id": "Emberkin",
             "name": "Enfant de braise (Emberkin)",
-            "description": "<p>L'esprit brûlant d'un' peri brûle dans votre âme. Les peris s'engagent en un combat constant pour corriger les torts de leurs ancêtres tombés et ce combat s'est transmis jusqu'à vous. Vous avez une impulsion directe lorsqu'il s'agit corriger les torts et améliorer le monde. Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de feu et votre perception n'est pas affectée par les flammes non magiques, le brouillard ou la fumée.</p>"
+            "description": "<p>L'esprit brûlant d'un peri brûle dans votre âme. Les peris s'engagent en un combat constant pour corriger les torts de leurs ancêtres tombés et ce combat s'est transmis jusqu'à vous. Vous avez une impulsion directe lorsqu'il s'agit corriger les torts et améliorer le monde.</p>\n<p>Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de feu et votre perception n'est pas affectée par les flammes non magiques, le brouillard ou la fumée.</p>"
         },
         {
             "id": "Flamboyant Leap",
@@ -9838,6 +9883,11 @@
             "id": "Divine Access",
             "name": "Accès divin (Divine Access)",
             "description": "<p>Votre faculté à puiser dans la magie divine surpasse les sorts qui vous sont traditionnellement accessibles (la liste des sorts divins).</p>\n<p>Choisissez une divinité qui accorde un des domaines correspondant à votre mystère. Ajoutez jusqu'à trois sorts de prêtre de votre choix accordés par cette divinité à votre liste de sorts. Vous pouvez choisir parmi ces sorts lorsque vous ajoutez ou modifiez des sorts dans votre répertoire de sorts.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don à plus d'une reprise. Vous ne pouvez choisir les mêmes sorts plus d'une fois, mais vous pouvez choisir un domaine différent ou une divinité différente ayant le même domaine que vous aviez choisi avec ce don.</p>"
+        },
+        {
+            "id": "Pack Hunter",
+            "name": "Chasseur en meute (Pack Hunter)",
+            "description": "<p>Vous avez appris à chasser au sein d'une meute. Vous gagnez un bonus de circonstances de +2 aux tests pour Aider et vos alliés gagnent un bonus de circonstances de +2 aux tests pour vous Aider.</p>"
         },
         {
             "id": "Ricochet Stance (Rogue)",
@@ -10397,11 +10447,6 @@
             ]
         },
         {
-            "id": "Azaersi's Roads",
-            "name": "Routes d'Azaersi (Azaersi's Roads)",
-            "description": "<p>Azaersi vous a accordé un accès limité aux Routes de pierre, en vous harmonisant au plus petit éclat de la Clé d'Onyx.</p>\n<p>Vous obtenez @Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]{Changement de plan} comme un sort inné primordial. Vous pouvez le Lancer deux fois par semaine. Cela ne peut être utilisé que pour circuler entre le Plan de la terre et le Plan matériel. En raison de votre harmonisation à la Clé d'Onyx, vous pouvez être le focalisateur du sort et vous n'avez pas besoin de diapason.</p>"
-        },
-        {
             "id": "A Home In Every Port",
             "name": "Une maison dans chaque port (A Home In Every Port)",
             "description": "<p>Vous possédez une réputation dans les villes et villages que vous avez visité et leurs résidents sont toujours prêts à vous ouvrir leur porte.</p>\n<p>Lorsque vous êtes dans une ville ou un village, pendant les intermèdes, vous pouvez passer 8 heures à trouver un résident souhaitant vous fournir de quoi vous loger ainsi que jusqu'à six alliés pendant 24 heures sans frais. Le mode de vie dans le logement fourni est confortable et des repas corrects vous sont fournis sans frais.</p>\n<p>Après 24 heures, vous devez payer les prix normaux pour le logement et les repas ou utiliser ce don de nouveau pour trouver un nouveau résident désirant être votre hôte.</p>",
@@ -10410,6 +10455,11 @@
                     "value": "Charisme 16"
                 }
             ]
+        },
+        {
+            "id": "Ceremony of the Evened Hand (Claws)",
+            "name": "Cérémonie de la main levée (griffes) (Ceremony of the Evened Hand (Claws))",
+            "description": "<p>Vous avez cultivé la forme de votre exosquelette pour permettre le combat rapproché, en utilisant des nœuds, des verticilles et des branches renforcées. Lorsque vous sélectionnez ce don, vous gagnez une attaque à mains nues de griffes qui inflige 1d4 dégâts tranchants et possède les traits agile et finesse. Cette attaque à mains nues fait partie du groupe pugilat et utilise l'une de vos mains.</p>\n<hr />\n</p><strong>Spécial</strong>Vous pouvez sélectionner ce don deux fois, en choisissant l'attaque de branche la deuxième fois que vous le prenez.</p>"
         },
         {
             "id": "Blessed Sacrifice",
@@ -10661,7 +10711,7 @@
         {
             "id": "Genie Weapon Familiarity",
             "name": "Familiarité avec les armes des génies (Genie Weapon Familiarity)",
-            "description": "<p>Vous êtes qualifié avec les armes utilisées par vos ancêtres génies. Vous êtes qualifié avec les @Compendium[pf2e.equipment-srd.UfurZQK6H6SgOjqe]{Corsèques}, les @Compendium[pf2e.equipment-srd.grmaV4GdoGD7sKbn]{Cimeterres}, les @Compendium[pf2e.equipment-srd.XGtIUZ4ZNKuFx1uL]{Cimeterres à deux mains} et les @Compendium[pf2e.equipment-srd.FJrsDoaIXksVjld9]{Tridents}. De plus, vous obtenez accès à toutes les armes peu courantes des génies. Pour les besoins de déterminer votre mâîtrise, les armes de génie de guerre sont des armes simples et les armes de génie avancées sont des armes de guerre.</p>"
+            "description": "<p>Vous êtes qualifié avec les armes utilisées par vos ancêtres génies. Vous êtes qualifié avec les @Compendium[pf2e.equipment-srd.UfurZQK6H6SgOjqe]{corsèques}, les @Compendium[pf2e.equipment-srd.grmaV4GdoGD7sKbn]{cimeterres}, les @Compendium[pf2e.equipment-srd.XGtIUZ4ZNKuFx1uL]{cimeterres à deux mains} et les @Compendium[pf2e.equipment-srd.FJrsDoaIXksVjld9]{tridents}.</p>\n<p>De plus, vous obtenez accès à toutes les armes peu courantes des génies. Pour les besoins de déterminer votre mâîtrise, les armes de génie de guerre sont des armes simples et les armes de génie avancées sont des armes de guerre.</p>"
         },
         {
             "id": "Cobra Stance",
@@ -10803,6 +10853,11 @@
             "id": "Orc Weapon Familiarity",
             "name": "Familiarité avec les armes orques (Orc Weapon Familiarity)",
             "description": "<p>Au combat, vous avez une prédilection pour les armes brutales de vos ancêtres orcs. Vous êtes qualifié avec le @Compendium[pf2e.equipment-srd.XGtIUZ4ZNKuFx1uL]{cimeterre à deux mains} et la @Compendium[pf2e.equipment-srd.8COlYvHe6hKCXY8x]{grande hache}. En outre, vous avez accès aux armes peu courantes des orcs. En ce qui vous concerne, les armes de guerre orques sont des armes simples et les armes orques évoluées sont des armes de guerre.</p>"
+        },
+        {
+            "id": "Shisk Lore",
+            "name": "Connaissance des shisks (Shisk Lore)",
+            "description": "<p>Vous amassez les connaissances comme un dragon amasse de l'or. Vous êtes qualifié avec trois compétences de Connaissances de votre choix et vous êtes aussi qualifié en connaissance des shisks.</p>"
         },
         {
             "id": "Storm Form",
@@ -12609,6 +12664,11 @@
             ]
         },
         {
+            "id": "Spelunker",
+            "name": "Spéléologuqe (Spelunker)",
+            "description": "<p>En vivant sous terre, vous avez appris à trouver votre chemin sans repères ni même terre ferme. Si vous obtenez un succès sur un test de Survie pour vous Orienter ou un test d'Athlétisme pour Grimper, vous obtenez un succès critique à la place. Vous n'êtes pas @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} lorsque vous tentez de Grimper.</p>"
+        },
+        {
             "id": "Specialty Crafting (Shipbuilding)",
             "name": "Artisanat spécialisé (Construction navale) (Specialty Crafting (Shipbuilding))",
             "description": "<p>Votre formation s’est concentrée sur l’Artisanat d’un type d’objet en particulier. Vous gagnez un bonus de circonstances de +1 aux tests d’Artisanat pour Fabriquer des objets de ce type. Si vous êtes un maître en Artisanat, ce bonus augmente à +2.</p>\n<hr />\n<p>S’il n’est pas évident de déterminer si la spécialité s’applique, c’est le MJ qui décide. Certaines spécialités peuvent ne s’appliquer que partiellement. Par exemple, si vous réalisiez un morgenstern en possédant la spécialité ébénisterie, le MJ pourrait ne vous accorder que la moitié de votre bonus parce que l’objet nécessite à la fois forge et ébénisterie.</p>\n<hr />\n<p><strong>Exemples d'objet</strong> Navires et bateaux</p>",
@@ -13030,6 +13090,11 @@
                     "value": "maître en Religion"
                 }
             ]
+        },
+        {
+            "id": "Jungle Strider",
+            "name": "Arpenteur de la jungle (Jungle Strider)",
+            "description": "<p>Vous êtes habile à esquiver les racines, le feuillage et autres obstacles de la jungle. Vous ignorez les terrains difficiles dans les forêts et les jungles. De plus, lorsque vous utilisez la compétence Acrobaties pour garder l'Équilibrer sur des surfaces étroites ou un sol inégal fait de végétaux, vous n'êtes pas Pris au dépourvu et lorsque vous obtenez un succès à l'un de ces tests d'Acrobaties, vous obtenez un succès critique à la place.</p>"
         },
         {
             "id": "Flame Jump",
@@ -13466,7 +13531,7 @@
         {
             "id": "Internal Compartment",
             "name": "Compartiment interne (Internal Compartment)",
-            "description": "<p>Vous pouvez cacher un petit objet d'un Encombrement léger à l'intérieur d'une cavité creuse dans l'un de vos avant-bras. Il faut 3 actions Interagir pour ranger un objet de cette manière. Vous obtenez un bonus de circonstances de +4 au DD des tests pour que d'autres qui Cherchent ou Volent des objets rangés à l'intérieur de votre bras. Si vous rangez une arme dans votre bras, vous pouvez utiliser une action unique Interagir pour dégainer l'arme dans la main qui correspond à votre cavité interne, puis Frapper avec l'arme.</p>"
+            "description": "<p>Vous pouvez cacher un petit objet d'un Encombrement léger à l'intérieur d'une cavité creuse dans l'un de vos avant-bras. Il faut 3 actions Interagir pour ranger un objet de cette manière. Vous obtenez un bonus de circonstances de +4 au DD des tests pour que d'autres qui Cherchent ou Volent des objets rangés à l'intérieur de votre bras.</p>\n<p>Si vous rangez une arme dans votre bras, vous pouvez utiliser une action unique Interagir pour dégainer l'arme dans la main qui correspond à votre cavité interne, puis Frapper avec l'arme.</p>"
         },
         {
             "id": "Snap Out Of It! (Pathfinder Agent)",
@@ -13800,6 +13865,11 @@
                     "value": "Mystères des sorts Kitsune"
                 }
             ]
+        },
+        {
+            "id": "Reassuring Presence",
+            "name": "Présence rassurante (Reassuring Presence)",
+            "description": "<p><strong>Déclencheur</strong> Un allié dans les 3 m obtient la condition Effrayé.</p>\n<hr />\n<p>Vous servez d'ancre à vos proches compagnons, les calmant dans les moments de stress. Diminuez de 1 la valeur de l'état Effrayé de l'allié déclencheur. L'allié est alors temporairement immunisé contre votre Présence rassurante pendant 1 heure.</p>"
         },
         {
             "id": "Horizon Walker Dedication",
@@ -16010,7 +16080,7 @@
         {
             "id": "Axiomatic Lore",
             "name": "Connaissance axiomatique (Axiomatic Lore)",
-            "description": "<p>Vous possédez une compréhension forte des procédures parmi les mortels et les extérieurs loyaux. La source de cette connaissance pourrait provenir d'une intuition, de l'étude ou d'une enfance passée parmi d'autres aphorites. Vous êtes qualifié en Diplomatie et Société. Si vous devriez déjà être qualifié dans une de ces compétences (d'un historique ou d'une classe, par exemple), vous êts qualifié à la place dans une compétence de votre choix. Vous êtes aussi qualifié en Connaissance d'Axis.</p>"
+            "description": "<p>Vous possédez une compréhension forte des procédures parmi les mortels et les extérieurs loyaux. La source de cette connaissance pourrait provenir d'une intuition, de l'étude ou d'une enfance passée parmi d'autres aphorites.</p>\n<p>Vous êtes qualifié en Diplomatie et Société. Si vous devriez déjà être qualifié dans une de ces compétences (d'un historique ou d'une classe, par exemple), vous êtes qualifié à la place dans une compétence de votre choix. Vous êtes aussi qualifié en Connaissance d'Axis.</p>"
         },
         {
             "id": "Metal-veined Strikes",
@@ -17757,6 +17827,11 @@
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Conditions</strong> Vous  êtes affligé par une maladie ou un poison ou subissez des dégâts persistants. Votre physiologie ordonnée rejette les éléments malvenus. Choisissez en un.</p>\n<hr />\n<ul>\n<li><strong>Maladie ou poison</strong> Tentez un jet de sauvegarde contre l'affliction à son stade actuel. En cas d'échec, le stade de l'affliction n'augmente pas mais vous subissez les effets du stade auquel vous étiez. En cas d'échec critique, le stade ne s'accroît que de 1.</li>\n<li><strong>Dégâts persistants</strong> Faites un test nu contre un DD10 pour mettre fin aux dégâts persistants.</li>\n</ul>"
         },
         {
+            "id": "Crunch",
+            "name": "Croquer (Crunch)",
+            "description": "<p>Vos mâchoires peuvent broyer les os et mordre en passant au travers des armures. Votre attaque à mains nues de mâchoires inflige 1d8 dégâts perforants au lieu de 1d6 et gagne le trait Saisir.</p>"
+        },
+        {
             "id": "Predator's Pounce",
             "name": "Bond de prédateur (Predator's Pounce)",
             "description": "<p><strong>Conditions</strong> Vous ne portez pas d’armure ou seulement une armure légère</p>\n<hr />\n<p>Vous vous rapprochez de votre proie à toute vitesse et lui bondissez dessus avant qu’elle puisse réagir. Vous Marchez rapidement en pouvant utiliser la totalité de votre Vitesse et Frappez à la fin de votre déplacement.</p>",
@@ -17969,6 +18044,16 @@
                     "value": "Dévouement d'Artiste martial"
                 }
             ]
+        },
+        {
+            "id": "Demonbane Warrior",
+            "name": "Combattant fléau des démons (Demonbane Warrior)",
+            "description": "<p>Vous obtenez un bonus de circonstances de +1 aux dégâts des armes et des attaques à mains nues contre les démons. Si votre attaque devrait infliger plus d'un dé de dégâts d'arme (ce qui est courant à des niveaux supérieurs au 1er), le bonus est égal au nombre de dés de dégâts d'arme ou d'attaque à mains nues. Si vos actions forcent un démon à subir des dégâts de sa vulnérabilité au péché, augmentez ces dégâts de 2.</p>."
+        },
+        {
+            "id": "Nocturnal Grippli",
+            "name": "Grippli nocturne (Nocturnal Grippli)",
+            "description": "<p>Vous avez tendance à chasser et à effectuer la plupart de vos travaux la nuit et vous vous êtes adapté aux exigences de la vie nocturne. Vous gagnez la @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}, qui vous permet de voir dans l'obscurité et la lumière faible aussi bien que dans la lumière vive. Cependant, dans l'obscurité, vous ne voyez qu'en noir et blanc.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez prendre ce don qu'au niveau 1 et vous ne pouvez utiliser le réapprentissage pour le perdre.</p>"
         },
         {
             "id": "Archer's Aim",
@@ -18637,6 +18722,11 @@
                     "value": "sort de dévotion Toucher de corruption"
                 }
             ]
+        },
+        {
+            "id": "Web Walker",
+            "name": "Arpenteur de toile (Web Walker)",
+            "description": "<p>Vous avez une grande pratique pour naviguer dans les toiles.</p>\n<p>Vous bénéficiez d'un bonus de circonstances de +2 aux jets de sauvegarde et à la CA contre le sort Toile, les toiles naturelles et les effets qui vous piègent dans les toiles, ainsi qu'un bonus de circonstances de +1 contre les autres effets qui vous piègent et vous empêtrent, comme le sort @Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]{Enchevêtrement}. Chaque fois que vous obtenez un succès sur un jet de sauvegarde contre un effet impliquant une toile, vous obtenez un succès critique à la place.</p>"
         },
         {
             "id": "Uncanny Cheeks",
@@ -19684,7 +19774,7 @@
         {
             "id": "Dwarven Weapon Familiarity",
             "name": "Familiarité avec les armes naines (Dwarven Weapon Familiarity)",
-            "description": "<p>Vous avez développé auprès de vos congénères une affinité pour les armes qui frappent fort et vous les préférez à des armes plus élégantes. Vous êtes qualifié avec la hache d’armes, le pic de guerre et le marteau de guerre. Vous avez également accès aux armes peu courantes des nains. Afin de déterminer votre maîtrise, vous considérez les armes de guerre naines comme des armes simples et les armes naines évoluées comme des armes de guerre. </p>"
+            "description": "<p>Vous avez développé auprès de vos congénères une affinité pour les armes qui frappent fort et vous les préférez à des armes plus élégantes. Vous êtes qualifié avec la @Compendium[pf2e.equipment-srd.War0uyLBx1jA0Ge7]{hache d'armes}, le @Compendium[pf2e.equipment-srd.6I4YJAQUbTAqbpsI]{pic de guerre} et le @Compendium[pf2e.equipment-srd.rXt4629QSg7KDTgJ]{marteau de guerre}.</p>\n<p>Vous avez également accès aux armes peu courantes des nains. Afin de déterminer votre maîtrise, vous considérez les armes de guerre naines comme des armes simples et les armes naines évoluées comme des armes de guerre. </p>"
         },
         {
             "id": "Pride Hunter",
@@ -21439,6 +21529,11 @@
             "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Conditions</strong> Vous maniez une arme à distance avec un rechargement 0</p>\n<hr />\n<p>Vous faites deux tirs rapides contre la proie que vous chassez. Faites deux Frappes contre votre proie avec l’arme requise. Si les deux touchent la  même créature, faites la somme de leurs dégâts avant d’appliquer les résistances et les faiblesses. Vous appliquez normalement votre malus d’attaques multiples à ces Frappes.</p>"
         },
         {
+            "id": "Web Weaver",
+            "name": "Tisseur de toiles (Web Weaver)",
+            "description": "<p>Vous pouvez produire une soie douce à tisser pour en faire des objets utiles. Vous gagnez le don @Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{artisanat spécialisé (tissage)}. Vous pouvez utiliser vos fils de soie pour fabriquer des objets simples, non consommables, tels que des vêtements et des cordes, à un coût nul tant que leur prix de base est inférieur ou égal à 1 pa. Ces objets n'ont aucune valeur à la revente et se dégradent naturellement après 24 heures sans entretien régulier (même mineur). Vous pouvez entretenir jusqu'à 10 de ces objets à la fois ; si vous en créez un nouveau, votre création la plus ancienne se dégrade du fait de votre négligence. Ces objets temporaires ne vous prennent qu'un jour à Fabriquer au lieu de 4. Si vous êtes un expert en artisanat, vous pouvez Fabriquer ces objets en 1 heure ; si vous êtes un maître, vous pouvez les fabriquer en 10 minutes ; si vous êtes légendaire, vous pouvez les fabriquer en 1 minute.</p>"
+        },
+        {
             "id": "Uncanny Bombs",
             "name": "Bombes incroyables (Uncanny Bombs)",
             "description": "<p>Vous lancez vos bombes de manière remarquable, en dépit des obstacles ou de la distance.</p>\n<p>Lorsque vous lancez un objet alchimique avec le trait bombe, son facteur de portée passe à 18 m, vous réduisez toute pénalité de circonstances de CA de la cible lié à un abri de 1 et vous réussissez automatiquement au test nu lorsque vous ciblez une créature @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée}.</p>",
@@ -21569,6 +21664,11 @@
                     "value": "Dévouement de Médecin"
                 }
             ]
+        },
+        {
+            "id": "Hyena Familiar",
+            "name": "Familier hyène (Hyena Familiar)",
+            "description": "<p>Les hyènes servent aux gnolls d'animaux de compagnie, de pisteurs et dans votre cas, de conduits pour les esprits. Vous gagnez une hyène très petite comme familier.</p>"
         },
         {
             "id": "Replenishment of War",
@@ -22105,7 +22205,7 @@
         {
             "id": "Catfolk Weapon Familiarity",
             "name": "Familiarité avec les armes des hommes-félins (Catfolk Weapon Familiarity)",
-            "description": "<p>Vous préférez les armes que vous pouvez utiliser pour porter des coups rapides et furtifs, comme les griffes d'un félin'. Vous êtes qualifié avec la @Compendium[pf2e.equipment-srd.LGgvev6AV0So8tP9]{Hachette}, le @Compendium[pf2e.equipment-srd.zSAoyzcf3nSeZCiF]{Kama}, le @Compendium[pf2e.equipment-srd.TDrO7Xdyn7juFy3c]{Kukri}, le @Compendium[pf2e.equipment-srd.grmaV4GdoGD7sKbn]{Cimeterre} et la @Compendium[pf2e.equipment-srd.ynnBwzkzsR6B73iO]{Serpe}. De plus, vous obtenez l'accès aux kamas, kukris et à toutes les armes des hommes félins peu communes. Vous considérez les armes de guerre des hommes-félins comme des armes simples et les armes avancées des hommes-félins comme des armes de guerre.</p>"
+            "description": "<p>Vous préférez les armes que vous pouvez utiliser pour porter des coups rapides et furtifs, comme les griffes d'un félin'. Vous êtes qualifié avec la @Compendium[pf2e.equipment-srd.LGgvev6AV0So8tP9]{Hachette}, le @Compendium[pf2e.equipment-srd.zSAoyzcf3nSeZCiF]{Kama}, le @Compendium[pf2e.equipment-srd.TDrO7Xdyn7juFy3c]{Kukri}, le @Compendium[pf2e.equipment-srd.grmaV4GdoGD7sKbn]{Cimeterre} et la @Compendium[pf2e.equipment-srd.ynnBwzkzsR6B73iO]{Serpe}.</p>\n<p>De plus, vous obtenez l'accès aux kamas, kukris et à toutes les armes des hommes félins peu courantes. Vous considérez les armes de guerre des hommes-félins comme des armes simples et les armes avancées des hommes-félins comme des armes de guerre.</p>"
         },
         {
             "id": "Enduring Quickness",
@@ -22199,6 +22299,11 @@
             ]
         },
         {
+            "id": "Spine Stabber",
+            "name": "Poignardeur de piquants (Spine Stabber)",
+            "description": "<p>Les piquants sur vos bras sont particulièrement pointus et robustes. Vous gagnez une attaque à mains nues de piquants qui inflige [[/r 1d6 #perforants]] dégâts perforants. Vos piquants font partie du groupe des couteaux et possèdent les traits finesse et désarmer.</p>"
+        },
+        {
             "id": "Weight of Guilt",
             "name": "Poids de la culpabilité (Weight of Guilt)",
             "description": "<p>La culpabilité trouble l’esprit de ceux qui ignorent votre Lueur de rédemption. Au lieu que la créature ayant déclenché ce pouvoir soit affaiblie 2, vous pouvez faire en sorte qu’elle soit stupéfiée 2 pendant la même durée.</p>",
@@ -22225,6 +22330,11 @@
             "id": "Superior Sight (Darkvision)",
             "name": "Vision supérieure (Vision dans le noir) (Superior Sight (Darkvision))",
             "description": "<p>Vos sens sont sans égal. Vous obtenez un bonus de circonstances de +2 à vos tests de Perception et vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{vision dans le noir}.</p>\n<p>De plus, lorsque vous ciblez un ennemi, vous réussissez automatiquement le test nu si cet ennemi est @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}, @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} ou @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non-détecté}.</p>\n<hr />\n<p><em>Note : cette version du don accorde automatiquement la vision dans le noir.</em></p>"
+        },
+        {
+            "id": "Conrasu Lore",
+            "name": "Connaissance des conrasus (Conrasu Lore)",
+            "description": "<p>Vous avez appris votre histoire et celle du peuple des façonneurs. Vous êtes qualifié en Artisanat et en Occultisme. Si vous devriez déjà être automatiquement qualifié dans une de ces compétences (du fait de votre historique ou de votre classe, par exemple), vous devenez à la place qualifié dans une compétence de votre choix. Vous êtes aussi qualifié en Connaissance des conrasus.</p>"
         },
         {
             "id": "Orc Weapon Carnage",

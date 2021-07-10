@@ -737,11 +737,6 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement}</p>\n<p>Soutenue par la puissance magique, la cible devient de taille Grande. Son équipement grandit avec elle mais revient à sa taille naturelle s'il est retiré. La créature est @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite} 1. Sa portée augmente de 1,5 mètres (ou de 3 mètres si elle était Très petite au départ) et elle bénéficie d'un bonus de statut de +2 aux dégâts de corps à corps. Ce sort n'a aucun effet sur une créature de taille Grande ou supérieure</p>"
         },
         {
-            "id": "Spell Effect: Bless",
-            "name": "Effet : Bénédiction",
-            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bénédiction}</p>\n<hr>\n<p>Effet pris en compte :</p>\n<ul>\n<li>bonus de statut de +1 aux jets d'attaque.</li>\n</ul>"
-        },
-        {
             "id": "Spell Effect: Dutiful Challenge",
             "name": "Effet : Défi respectueux",
             "description": "Accordé par @Compendium[pf2e.spells-srd.caehfpQz7yp9yNzz]{Défi respectueux}</p>"

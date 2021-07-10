@@ -1,25 +1,13 @@
 # État de la traduction (ancestries)
 
  * **changé**: 6
- * **libre**: 8
+ * **libre**: 14
  * **officielle**: 9
- * **aucune**: 6
 
 
-Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[c4secsSNG2AO7I5i.htm](ancestries/c4secsSNG2AO7I5i.htm)|Goloma|
-|[hXM5jXezIki1cMI2.htm](ancestries/hXM5jXezIki1cMI2.htm)|Grippli|
-|[TQEqWqc7BYiadUdY.htm](ancestries/TQEqWqc7BYiadUdY.htm)|Anadi|
-|[tZn4qIHCUA6wCdnI.htm](ancestries/tZn4qIHCUA6wCdnI.htm)|Conrasu|
-|[vxbQ1Yw4qwgjTzqo.htm](ancestries/vxbQ1Yw4qwgjTzqo.htm)|Gnoll|
-|[x1YinOddgUxwOLqP.htm](ancestries/x1YinOddgUxwOLqP.htm)|Shisk|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -37,6 +25,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[4BL5wf1VF9feC2rY.htm](ancestries/4BL5wf1VF9feC2rY.htm)|Kitsune|Kitsune|libre|
 |[BYj5ZvlXZdpaEgA6.htm](ancestries/BYj5ZvlXZdpaEgA6.htm)|Dwarf|Nain|officielle|
+|[c4secsSNG2AO7I5i.htm](ancestries/c4secsSNG2AO7I5i.htm)|Goloma|Goloma|libre|
 |[cdhgByGG1WtuaK73.htm](ancestries/cdhgByGG1WtuaK73.htm)|Leshy|Léchi|officielle|
 |[CYlfsYLJcBOgqKtD.htm](ancestries/CYlfsYLJcBOgqKtD.htm)|Gnome|Gnome|officielle|
 |[FXlXmNBFiiz9oasi.htm](ancestries/FXlXmNBFiiz9oasi.htm)|Fleshwarp|Distordu|libre|
@@ -45,10 +34,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[GXcC6oVa5quzgNHD.htm](ancestries/GXcC6oVa5quzgNHD.htm)|Strix|Strix|libre|
 |[hIA3qiUsxvLZXrFP.htm](ancestries/hIA3qiUsxvLZXrFP.htm)|Fetchling|Fetchelin|libre|
 |[HWEgF7Gmoq55VhTL.htm](ancestries/HWEgF7Gmoq55VhTL.htm)|Lizardfolk|Hommes-lézard|officielle|
+|[hXM5jXezIki1cMI2.htm](ancestries/hXM5jXezIki1cMI2.htm)|Grippli|Grippli|libre|
 |[IiG7DgeLWYrSNXuX.htm](ancestries/IiG7DgeLWYrSNXuX.htm)|Human|Humain|officielle|
 |[mDtlRBBUWqUzYSHs.htm](ancestries/mDtlRBBUWqUzYSHs.htm)|[Empty Ancestry]|[Ascendance vierge]|libre|
 |[PgKmsA2aKdbLU6O0.htm](ancestries/PgKmsA2aKdbLU6O0.htm)|Elf|Elfe|officielle|
 |[piNLXUrm9iaGqD2i.htm](ancestries/piNLXUrm9iaGqD2i.htm)|Hobgoblin|Hobgobelin|officielle|
 |[sQfjTMDaZbT9DThq.htm](ancestries/sQfjTMDaZbT9DThq.htm)|Goblin|Gobelin|officielle|
+|[TQEqWqc7BYiadUdY.htm](ancestries/TQEqWqc7BYiadUdY.htm)|Anadi|Anadi|libre|
 |[TRqoeYfGAFjQbviF.htm](ancestries/TRqoeYfGAFjQbviF.htm)|Sprite|Sprite|libre|
+|[tZn4qIHCUA6wCdnI.htm](ancestries/tZn4qIHCUA6wCdnI.htm)|Conrasu|Conrasu|libre|
+|[vxbQ1Yw4qwgjTzqo.htm](ancestries/vxbQ1Yw4qwgjTzqo.htm)|Gnoll|Gnoll|libre|
+|[x1YinOddgUxwOLqP.htm](ancestries/x1YinOddgUxwOLqP.htm)|Shisk|Shisk|libre|
 |[yFoojz6q3ZjvceFw.htm](ancestries/yFoojz6q3ZjvceFw.htm)|Azarketi|Azarketi|libre|

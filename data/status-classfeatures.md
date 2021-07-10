@@ -1,31 +1,17 @@
 # État de la traduction (classfeatures)
 
- * **changé**: 68
- * **officielle**: 197
- * **aucune**: 7
- * **libre**: 110
+ * **officielle**: 198
+ * **changé**: 67
+ * **libre**: 114
 
 
-Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[alchemist-05-IxxPEahbqXwIXum7.htm](classfeatures/alchemist-05-IxxPEahbqXwIXum7.htm)|Field Discovery|
-|[alchemist-07-ZqwHAoIZrI1dGoqK.htm](classfeatures/alchemist-07-ZqwHAoIZrI1dGoqK.htm)|Perpetual Infusions|
-|[alchemist-11-MGn2wezOr3VAdO3U.htm](classfeatures/alchemist-11-MGn2wezOr3VAdO3U.htm)|Perpetual Potency|
-|[alchemist-13-MEwvBnT2VsO5lQ6I.htm](classfeatures/alchemist-13-MEwvBnT2VsO5lQ6I.htm)|Greater Field Discovery|
-|[alchemist-17-11nGqrSJOoGRlDjO.htm](classfeatures/alchemist-17-11nGqrSJOoGRlDjO.htm)|Perpetual Perfection|
-|[sorcerer-01-dKTb959aCQIzSIXj.htm](classfeatures/sorcerer-01-dKTb959aCQIzSIXj.htm)|Bloodline: Wyrmblessed|
-|[sorcerer-01-TWR1wbPJuCLnGdFZ.htm](classfeatures/sorcerer-01-TWR1wbPJuCLnGdFZ.htm)|Bloodline: Phoenix|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[alchemical-01-XPPG7nN9pxt0sjMg.htm](classfeatures/alchemical-01-XPPG7nN9pxt0sjMg.htm)|Formula Book|Formulaire|changé|
 |[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|changé|
 |[alchemist-01-eNZnx4LISDNftbx2.htm](classfeatures/alchemist-01-eNZnx4LISDNftbx2.htm)|Chirurgeon|Chirurgien|changé|
 |[alchemist-01-P9quO9XZi3OWFe1k.htm](classfeatures/alchemist-01-P9quO9XZi3OWFe1k.htm)|Toxicologist|Toxicologiste|changé|
@@ -98,15 +84,21 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[alchemical-01-XPPG7nN9pxt0sjMg.htm](classfeatures/alchemical-01-XPPG7nN9pxt0sjMg.htm)|Formula Book|Formulaire|officielle|
 |[alchemist-01-cU2ofQLj7pg6wTSi.htm](classfeatures/alchemist-01-cU2ofQLj7pg6wTSi.htm)|Research Field|Domaine de recherche|officielle|
 |[alchemist-01-sPtl05wwTpqFI0lL.htm](classfeatures/alchemist-01-sPtl05wwTpqFI0lL.htm)|Quick Alchemy|Alchimie rapide|officielle|
 |[alchemist-01-wySB9VHOW1v3TX1L.htm](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Infused Reagents|Réactifs imprégnés|officielle|
+|[alchemist-05-IxxPEahbqXwIXum7.htm](classfeatures/alchemist-05-IxxPEahbqXwIXum7.htm)|Field Discovery|Découverte de domaine de recherche|officielle|
 |[alchemist-07-4ocPy4O0OCLY0XCM.htm](classfeatures/alchemist-07-4ocPy4O0OCLY0XCM.htm)|Alchemical Weapon Expertise|Expertise avec les armes alchimiques|officielle|
 |[alchemist-07-JVCxv4HuLaaFhAf4.htm](classfeatures/alchemist-07-JVCxv4HuLaaFhAf4.htm)|Iron Will (Level 7)|Volonté de fer (Niveau 7)|libre|
+|[alchemist-07-ZqwHAoIZrI1dGoqK.htm](classfeatures/alchemist-07-ZqwHAoIZrI1dGoqK.htm)|Perpetual Infusions|Infusions perpétuelles|libre|
 |[alchemist-09-3e1PlMXmlSwKoc6d.htm](classfeatures/alchemist-09-3e1PlMXmlSwKoc6d.htm)|Alchemical Expertise|Expertise alchimique|officielle|
 |[alchemist-09-TAIOtk5VvPZvv4nu.htm](classfeatures/alchemist-09-TAIOtk5VvPZvv4nu.htm)|Alertness (Level 9)|Vigilance (Niveau 9)|libre|
+|[alchemist-11-MGn2wezOr3VAdO3U.htm](classfeatures/alchemist-11-MGn2wezOr3VAdO3U.htm)|Perpetual Potency|Efficacité perpétuelle|officielle|
 |[alchemist-13-bv3Qel8v9tpoFbw4.htm](classfeatures/alchemist-13-bv3Qel8v9tpoFbw4.htm)|Alchemist Armor Expertise (Level 13)|Expertise avec les armures de l'alchimiste (Niveau 13)|libre|
+|[alchemist-13-MEwvBnT2VsO5lQ6I.htm](classfeatures/alchemist-13-MEwvBnT2VsO5lQ6I.htm)|Greater Field Discovery|Découverte de domaine de recherche supérieure|libre|
 |[alchemist-15-Eood6pNPaJxuSgD1.htm](classfeatures/alchemist-15-Eood6pNPaJxuSgD1.htm)|Alchemical Alacrity|Alacrité alchimique|officielle|
+|[alchemist-17-11nGqrSJOoGRlDjO.htm](classfeatures/alchemist-17-11nGqrSJOoGRlDjO.htm)|Perpetual Perfection|Perfection perpétuelle|libre|
 |[alchemist-17-eG7FBDjCdEFzW9V9.htm](classfeatures/alchemist-17-eG7FBDjCdEFzW9V9.htm)|Alchemical Mastery|Maîtrise alchimique|officielle|
 |[alchemist-19-FiVYuIPTBzPzNP4E.htm](classfeatures/alchemist-19-FiVYuIPTBzPzNP4E.htm)|Alchemist Armor Mastery (Level 19)|Maîtrise d'armure de l'alchimiste (Niveau 19)|libre|
 |[barbarian-01-0FtzFbUrN56KA67z.htm](classfeatures/barbarian-01-0FtzFbUrN56KA67z.htm)|Animal Instinct|Instinct animal|libre|
@@ -271,9 +263,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-00-YrJj8UI0XpkHv0Ho.htm](classfeatures/None-00-YrJj8UI0XpkHv0Ho.htm)|Order of the Chain|Ordre des chaînes|officielle|
 |[None-00-zGxO2cETUsXuvqRu.htm](classfeatures/None-00-zGxO2cETUsXuvqRu.htm)|Order of the Pyre|Ordre du bûcher|officielle|
 |[None-01-T25ZLQWn6O4KchLo.htm](classfeatures/None-01-T25ZLQWn6O4KchLo.htm)|Focus Spells|Sorts focalisés|libre|
-|[None-17-BJYSUbFUGcTLaPDn.htm](classfeatures/None-17-BJYSUbFUGcTLaPDn.htm)|Masterful Hunter (Precision)|Maître chasseur (Précision)|officielle|
-|[None-17-JhLncIB10GSQowWL.htm](classfeatures/None-17-JhLncIB10GSQowWL.htm)|Masterful Hunter (Flurry)|Maître chasseur (Déluge)|officielle|
-|[None-17-vWZaLE2fEKMBw3D5.htm](classfeatures/None-17-vWZaLE2fEKMBw3D5.htm)|Masterful Hunter (Outwit)|Maître chasseur (Ruse)|libre|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|Mystère du combat|libre|
 |[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames Mystery|Mystère des flammes|libre|
@@ -329,6 +318,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|Lignage : Aberrant|officielle|
 |[sorcerer-01-5Wxjghw7lHuCxjZz.htm](classfeatures/sorcerer-01-5Wxjghw7lHuCxjZz.htm)|Bloodline: Nymph|Lignage : Nymphe|libre|
 |[sorcerer-01-7WBZ2kkhZ7JorWu2.htm](classfeatures/sorcerer-01-7WBZ2kkhZ7JorWu2.htm)|Bloodline: Undead|Lignage : Mort-vivant|officielle|
+|[sorcerer-01-dKTb959aCQIzSIXj.htm](classfeatures/sorcerer-01-dKTb959aCQIzSIXj.htm)|Bloodline: Wyrmblessed|Lignage : béni du Ver|libre|
 |[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|Lignage : Féerique|officielle|
 |[sorcerer-01-H6ziAPvCipTPG8SH.htm](classfeatures/sorcerer-01-H6ziAPvCipTPG8SH.htm)|Bloodline Spells|Sorts de lignage|officielle|
 |[sorcerer-01-lURKSJZAGKVD6cH9.htm](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Spell Repertoire (Sorcerer)|Répertoire de sorts (Ensorceleur)|officielle|
@@ -336,6 +326,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-o39zQMIdERWtmBSB.htm](classfeatures/sorcerer-01-o39zQMIdERWtmBSB.htm)|Bloodline: Diabolic|Lignage : Diabolique|officielle|
 |[sorcerer-01-PpzH9tJULk5ksX9w.htm](classfeatures/sorcerer-01-PpzH9tJULk5ksX9w.htm)|Bloodline: Psychopomp|Lignage : Psychopompe|libre|
 |[sorcerer-01-RXRnJcG4XSabZ35a.htm](classfeatures/sorcerer-01-RXRnJcG4XSabZ35a.htm)|Bloodline: Elemental|Lignage : Élémentaire|officielle|
+|[sorcerer-01-TWR1wbPJuCLnGdFZ.htm](classfeatures/sorcerer-01-TWR1wbPJuCLnGdFZ.htm)|Bloodline: Phoenix|Lignage : Phénix|libre|
 |[sorcerer-01-tYOMBiH3HbViNWwn.htm](classfeatures/sorcerer-01-tYOMBiH3HbViNWwn.htm)|Bloodline: Genie|Lignage : Génie|libre|
 |[sorcerer-01-uoQOm41BVdSo6pAS.htm](classfeatures/sorcerer-01-uoQOm41BVdSo6pAS.htm)|Bloodline: Shadow|Lignage : Ombre|libre|
 |[sorcerer-01-vhW3glAaEfq2DKrw.htm](classfeatures/sorcerer-01-vhW3glAaEfq2DKrw.htm)|Bloodline: Angelic|Lignage : Angélique|officielle|

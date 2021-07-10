@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **officielle**: 550
- * **libre**: 311
- * **changé**: 67
+ * **libre**: 298
+ * **officielle**: 521
+ * **changé**: 65
  * **aucune**: 10
 
 
-Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -47,8 +47,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-05-GP3wewkQXEPrLxYj.htm](spells/enchantment-05-GP3wewkQXEPrLxYj.htm)|Subconscious Suggestion|Suggestion subconsciente|changé|
 |[enchantment-06-5BbU1V6wGSGbrmRD.htm](spells/enchantment-06-5BbU1V6wGSGbrmRD.htm)|Feeblemind|Débilité|changé|
 |[enchantment-10-Um0aaJotqMKGmAlR.htm](spells/enchantment-10-Um0aaJotqMKGmAlR.htm)|Pied Piping|Flûte de Hamelin|changé|
-|[evocation-00-60sgbuMWN0268dB7.htm](spells/evocation-00-60sgbuMWN0268dB7.htm)|Telekinetic Projectile|Projectile télékinésique|changé|
-|[evocation-00-gISYsBFby1TiXfBt.htm](spells/evocation-00-gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|changé|
 |[evocation-01-60sgbuMWN0268dB7.htm](spells/evocation-01-60sgbuMWN0268dB7.htm)|Telekinetic Projectile|Projectile télékinésique|changé|
 |[evocation-01-6UafOE1ZUbHamsZJ.htm](spells/evocation-01-6UafOE1ZUbHamsZJ.htm)|Dim the Light|Diminuer la lumière|changé|
 |[evocation-01-EzB9i7R6aBRAtJCh.htm](spells/evocation-01-EzB9i7R6aBRAtJCh.htm)|Tempest Touch|Toucher tempêtueux|changé|
@@ -100,9 +98,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[abjuration-00-RA7VKcen3p56rVyZ.htm](spells/abjuration-00-RA7VKcen3p56rVyZ.htm)|Forbidding Ward|Sceau d'interdiction|officielle|
-|[abjuration-00-TVKNbcgTee19PXZR.htm](spells/abjuration-00-TVKNbcgTee19PXZR.htm)|Shield|Bouclier|officielle|
-|[abjuration-00-xM35hJacTM1BSXUl.htm](spells/abjuration-00-xM35hJacTM1BSXUl.htm)|Silver's Refrain|Refrain d'argent|libre|
 |[abjuration-01-0cF9HvHzzWSbCFBP.htm](spells/abjuration-01-0cF9HvHzzWSbCFBP.htm)|Empty Inside|Vide intérieur|libre|
 |[abjuration-01-0fKHBh5goe2eiFYL.htm](spells/abjuration-01-0fKHBh5goe2eiFYL.htm)|Negate Aroma|Supprimer l’arôme|officielle|
 |[abjuration-01-0uRpypf1Hi7ahvTl.htm](spells/abjuration-01-0uRpypf1Hi7ahvTl.htm)|Shattering Gem|Gemme explosive|libre|
@@ -200,9 +195,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-09-PngDCmU0MXZkbu0v.htm](spells/abjuration-09-PngDCmU0MXZkbu0v.htm)|Prismatic Sphere|Sphère prismatique|officielle|
 |[abjuration-10-UG0SmRYSdbrx2rTA.htm](spells/abjuration-10-UG0SmRYSdbrx2rTA.htm)|Indestructibility|Invulnérabilité|libre|
 |[abjuration-10-X0t0gr7S7CeCt2Q5.htm](spells/abjuration-10-X0t0gr7S7CeCt2Q5.htm)|Anima Invocation (Modified)|Invocation d'anima (Modifiée)|libre|
-|[conjuration-00-MraZBLJ4Be3ogmWL.htm](spells/conjuration-00-MraZBLJ4Be3ogmWL.htm)|Clinging Ice|Glace tenace|libre|
-|[conjuration-00-uZK2BYzPnxUBnDjr.htm](spells/conjuration-00-uZK2BYzPnxUBnDjr.htm)|Tanglefoot|Entrave|officielle|
-|[conjuration-00-yvs1zN5Pai5U4CJX.htm](spells/conjuration-00-yvs1zN5Pai5U4CJX.htm)|Summon Instrument|Convocation d'instrument|libre|
 |[conjuration-01-30BBep9U4BDV0EgQ.htm](spells/conjuration-01-30BBep9U4BDV0EgQ.htm)|Infernal Pact|Pacte infernal|libre|
 |[conjuration-01-4YnON9JHYqtLzccu.htm](spells/conjuration-01-4YnON9JHYqtLzccu.htm)|Summon Animal|Convocation d'animal|officielle|
 |[conjuration-01-cokeXkDHUAo4zHsw.htm](spells/conjuration-01-cokeXkDHUAo4zHsw.htm)|Oathkeeper's Insignia|Insigne du gardien du serment|libre|
@@ -289,13 +281,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-09-xxhS66k68u5iIOHC.htm](spells/conjuration-09-xxhS66k68u5iIOHC.htm)|Upheaval|Soulèvement|libre|
 |[conjuration-10-dMKP4fkWx8V2cqAy.htm](spells/conjuration-10-dMKP4fkWx8V2cqAy.htm)|Remake|Recréer|officielle|
 |[conjuration-10-U13bC0tNgrlHoeTK.htm](spells/conjuration-10-U13bC0tNgrlHoeTK.htm)|Gate|Portail|officielle|
-|[divination-00-8bdt1TvNKzsCu9Ct.htm](spells/divination-00-8bdt1TvNKzsCu9Ct.htm)|Join Pasts|Joindre les passés|libre|
-|[divination-00-G0T1xv1FoZ23Jxvt.htm](spells/divination-00-G0T1xv1FoZ23Jxvt.htm)|Nudge Fate|Coup de pouce au destin|libre|
-|[divination-00-gpzpAAAJ1Lza2JVl.htm](spells/divination-00-gpzpAAAJ1Lza2JVl.htm)|Detect Magic|Détection de la magie|officielle|
-|[divination-00-izcxFQFwf3woCnFs.htm](spells/divination-00-izcxFQFwf3woCnFs.htm)|Guidance|Assistance divine|officielle|
-|[divination-00-OhD2Z6rIGGD5ocZA.htm](spells/divination-00-OhD2Z6rIGGD5ocZA.htm)|Read Aura|Lecture de l'aura|officielle|
-|[divination-00-tXa5vOu5giBNCjdR.htm](spells/divination-00-tXa5vOu5giBNCjdR.htm)|Know Direction|Repérage|officielle|
-|[divination-00-UmXhuKrYZR3W16mQ.htm](spells/divination-00-UmXhuKrYZR3W16mQ.htm)|Discern Secrets|Discerner les secrets|libre|
 |[divination-01-3mINzPzup2m9qzFU.htm](spells/divination-01-3mINzPzup2m9qzFU.htm)|Sepulchral Mask|Masque sépucral|libre|
 |[divination-01-5LYi9Efs6cko4GGL.htm](spells/divination-01-5LYi9Efs6cko4GGL.htm)|Object Reading|Lecture d'objet|libre|
 |[divination-01-5Pc55FGGqVpIAJ62.htm](spells/divination-01-5Pc55FGGqVpIAJ62.htm)|Loremaster's Etude|Étude du maître savant|officielle|
@@ -392,18 +377,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-10-h8zxY9hTeHtWsBVW.htm](spells/divination-10-h8zxY9hTeHtWsBVW.htm)|Alter Reality|Altérer la réalité|officielle|
 |[divination-10-MLNeD5sAunV0E23j.htm](spells/divination-10-MLNeD5sAunV0E23j.htm)|Primal Phenomenon|Phénomène primordial|officielle|
 |[divination-10-YfJTXyVGzLhM6V8U.htm](spells/divination-10-YfJTXyVGzLhM6V8U.htm)|Miracle|Miracle|officielle|
-|[enchantment-00-1xLVcA8Y1onw7toT.htm](spells/enchantment-00-1xLVcA8Y1onw7toT.htm)|Dirge of Doom|Chant funeste|officielle|
-|[enchantment-00-4gBIw4IDrSfFHik4.htm](spells/enchantment-00-4gBIw4IDrSfFHik4.htm)|Daze|Hébétement|officielle|
-|[enchantment-00-bH0kPuf7UKxRvi2P.htm](spells/enchantment-00-bH0kPuf7UKxRvi2P.htm)|Inspire Defense|Inspiration défensive|officielle|
-|[enchantment-00-c8R2fpk88fBwJ1ie.htm](spells/enchantment-00-c8R2fpk88fBwJ1ie.htm)|Triple Time|À trois temps|officielle|
-|[enchantment-00-f0Z5mqGA6Yu79B8x.htm](spells/enchantment-00-f0Z5mqGA6Yu79B8x.htm)|Inspire Competence|Inspiration talentueuse|officielle|
-|[enchantment-00-f45JpY7Ph2cAJGW2.htm](spells/enchantment-00-f45JpY7Ph2cAJGW2.htm)|Evil Eye|Mauvais œil|libre|
-|[enchantment-00-GdN5YQE47gd79k7X.htm](spells/enchantment-00-GdN5YQE47gd79k7X.htm)|Wilding Word|Paroles sauvages|libre|
-|[enchantment-00-GeUbPvwdZ4B4l0up.htm](spells/enchantment-00-GeUbPvwdZ4B4l0up.htm)|Stoke the Heart|Enflammer les cœurs|libre|
-|[enchantment-00-IAjvwqgiDr3qGYxY.htm](spells/enchantment-00-IAjvwqgiDr3qGYxY.htm)|Inspire Courage|Inspiration vaillante|officielle|
-|[enchantment-00-IQchIYUwbsVTa9Mc.htm](spells/enchantment-00-IQchIYUwbsVTa9Mc.htm)|Allegro|Allégro|officielle|
-|[enchantment-00-LTUaK3smfm5eDiFK.htm](spells/enchantment-00-LTUaK3smfm5eDiFK.htm)|Song of Marching|Chanson de marche|libre|
-|[enchantment-00-Xxdwkt0EEDgP1LGc.htm](spells/enchantment-00-Xxdwkt0EEDgP1LGc.htm)|Song of Strength|Chanson de force|libre|
 |[enchantment-01-0Dcd4iEXqCrkm4Jn.htm](spells/enchantment-01-0Dcd4iEXqCrkm4Jn.htm)|Liberating Command|Ordre libérateur|libre|
 |[enchantment-01-4c1c6eNzU1PFGkAy.htm](spells/enchantment-01-4c1c6eNzU1PFGkAy.htm)|Endure|Endurer|libre|
 |[enchantment-01-4gBIw4IDrSfFHik4.htm](spells/enchantment-01-4gBIw4IDrSfFHik4.htm)|Daze|Hébétement|officielle|
@@ -510,15 +483,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-09-xFY9RtDE4DQKlWNR.htm](spells/enchantment-09-xFY9RtDE4DQKlWNR.htm)|Crusade|Croisade|officielle|
 |[enchantment-10-6s0UW4bujggma9TC.htm](spells/enchantment-10-6s0UW4bujggma9TC.htm)|Fabricated Truth|Vérité fabriquée|officielle|
 |[enchantment-10-lyJDBD9OFW11vLyT.htm](spells/enchantment-10-lyJDBD9OFW11vLyT.htm)|Fatal Aria|Aria fatale|officielle|
-|[evocation-00-cE7PRAX8Up7fmYef.htm](spells/evocation-00-cE7PRAX8Up7fmYef.htm)|Shroud of Night|Voile de nuit|libre|
-|[evocation-00-gYjPm7YwGtEa1oxh.htm](spells/evocation-00-gYjPm7YwGtEa1oxh.htm)|Ray of Frost|Rayon de givre|officielle|
-|[evocation-00-kBhaPuzLUSwS6vVf.htm](spells/evocation-00-kBhaPuzLUSwS6vVf.htm)|Electric Arc|Arc électrique|officielle|
-|[evocation-00-kl2q6JvBZwed4B6v.htm](spells/evocation-00-kl2q6JvBZwed4B6v.htm)|Dancing Lights|Lumières dansantes|officielle|
-|[evocation-00-O9w7r4BKgPogYDDe.htm](spells/evocation-00-O9w7r4BKgPogYDDe.htm)|Produce Flame|Flammes|officielle|
-|[evocation-00-pwzdSlJgYqN7bs2w.htm](spells/evocation-00-pwzdSlJgYqN7bs2w.htm)|Mage Hand|Manipulation à distance|officielle|
-|[evocation-00-Qw3fnUlaUbnn7ipC.htm](spells/evocation-00-Qw3fnUlaUbnn7ipC.htm)|Prestidigitation|Prestidigitation|officielle|
-|[evocation-00-qwZBXN6zBoB9BHXE.htm](spells/evocation-00-qwZBXN6zBoB9BHXE.htm)|Divine Lance|Lance divine|officielle|
-|[evocation-00-WBmvzNDfpwka3qT4.htm](spells/evocation-00-WBmvzNDfpwka3qT4.htm)|Light|Lumière|officielle|
 |[evocation-01-0H1ozccQGGFLUwFI.htm](spells/evocation-01-0H1ozccQGGFLUwFI.htm)|Cry of Destruction|Cri de destruction|officielle|
 |[evocation-01-0JUOgbbFCapp3HlW.htm](spells/evocation-01-0JUOgbbFCapp3HlW.htm)|Elemental Toss|Projectile élémentaire|officielle|
 |[evocation-01-1meVElIu1CEVYWkv.htm](spells/evocation-01-1meVElIu1CEVYWkv.htm)|Noxious Vapors|Vapeurs nocives|libre|
@@ -666,9 +630,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-09-XYhU3Wi94n1RKxTa.htm](spells/evocation-09-XYhU3Wi94n1RKxTa.htm)|Storm Lord|Seigneur des tempêtes|officielle|
 |[evocation-09-ZqmP9gijBmK7y8Xy.htm](spells/evocation-09-ZqmP9gijBmK7y8Xy.htm)|Weapon of Judgement|Arme du jugement|officielle|
 |[evocation-10-wLIvH0AT1u7oa64N.htm](spells/evocation-10-wLIvH0AT1u7oa64N.htm)|Cataclysm|Cataclysme|officielle|
-|[illusion-00-atlgGNI1E1Ox3O3a.htm](spells/illusion-00-atlgGNI1E1Ox3O3a.htm)|Ghost Sound|Son imaginaire|officielle|
-|[illusion-00-PEfSofHm73IT3Khc.htm](spells/illusion-00-PEfSofHm73IT3Khc.htm)|House of Imaginary Walls|Demeure aux murs imaginaires|officielle|
-|[illusion-00-vLzFcIaSXs7YTIqJ.htm](spells/illusion-00-vLzFcIaSXs7YTIqJ.htm)|Message|Message|officielle|
 |[illusion-01-2oH5IufzdESuYxat.htm](spells/illusion-01-2oH5IufzdESuYxat.htm)|Illusory Object|Objet illusoire|officielle|
 |[illusion-01-4ZGte0i9YbLh4dRi.htm](spells/illusion-01-4ZGte0i9YbLh4dRi.htm)|Item Facade|Façade|officielle|
 |[illusion-01-6GjJtLJnwC18Y0aZ.htm](spells/illusion-01-6GjJtLJnwC18Y0aZ.htm)|Lift Nature's Caul|Vraie nature|libre|
@@ -733,10 +694,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[illusion-08-YiIOsc8T6E2iDxgh.htm](spells/illusion-08-YiIOsc8T6E2iDxgh.htm)|Undermine Reality|Saper la réalité|libre|
 |[illusion-09-nA0XlPsnMNrQMpio.htm](spells/illusion-09-nA0XlPsnMNrQMpio.htm)|Fantastic Facade|Façade fantastique|libre|
 |[illusion-09-qDjeG6dxT4aEEC6J.htm](spells/illusion-09-qDjeG6dxT4aEEC6J.htm)|Weird|Ennemi subconscient|officielle|
-|[necromancy-00-kcelf6IHl3L9VXXg.htm](spells/necromancy-00-kcelf6IHl3L9VXXg.htm)|Disrupt Undead|Destruction de mort-vivant|officielle|
-|[necromancy-00-mAMEt4FFbdqoRnkN.htm](spells/necromancy-00-mAMEt4FFbdqoRnkN.htm)|Chill Touch|Contact glacial|officielle|
-|[necromancy-00-SnjhtQYexDtNDdEg.htm](spells/necromancy-00-SnjhtQYexDtNDdEg.htm)|Stabilize|Stabilisation|officielle|
-|[necromancy-00-yp4w9SG4RuqRM8KD.htm](spells/necromancy-00-yp4w9SG4RuqRM8KD.htm)|Spirit Object|Animation d'objet|libre|
 |[necromancy-01-2iQKhCQBijhj5Rf3.htm](spells/necromancy-01-2iQKhCQBijhj5Rf3.htm)|Disrupting Weapons|Armes perturbatrices|officielle|
 |[necromancy-01-7tp97g0UCJ9wOrd5.htm](spells/necromancy-01-7tp97g0UCJ9wOrd5.htm)|Withering Grasp|Poigne de flétrissement|libre|
 |[necromancy-01-9u6X9ykhzG11NK1n.htm](spells/necromancy-01-9u6X9ykhzG11NK1n.htm)|Magic Stone|Pierre magique|libre|
@@ -870,7 +827,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-10-HpIJTVqgXorH9X0L.htm](spells/necromancy-10-HpIJTVqgXorH9X0L.htm)|Revival|Vivifier|officielle|
 |[necromancy-10-IGXGs9PlqUCvODcH.htm](spells/necromancy-10-IGXGs9PlqUCvODcH.htm)|Song of the Fallen|Chanson des morts au combat|libre|
 |[necromancy-10-uGXWkR2h8q9MRzEM.htm](spells/necromancy-10-uGXWkR2h8q9MRzEM.htm)|Hero's Defiance|Défi du héros|officielle|
-|[transmutation-00-AUctDF2fqPZN2w4W.htm](spells/transmutation-00-AUctDF2fqPZN2w4W.htm)|Sigil|Symbole|officielle|
 |[transmutation-01-0xR9vrt6uDFl0Umo.htm](spells/transmutation-01-0xR9vrt6uDFl0Umo.htm)|Wild Morph|Métamorphose sauvage|officielle|
 |[transmutation-01-aEM2cttJ2eYcLssW.htm](spells/transmutation-01-aEM2cttJ2eYcLssW.htm)|Fleet Step|Pas rapide|officielle|
 |[transmutation-01-AUctDF2fqPZN2w4W.htm](spells/transmutation-01-AUctDF2fqPZN2w4W.htm)|Sigil|Symbole|officielle|

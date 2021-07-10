@@ -2,6 +2,16 @@
     "label": "Ascendances (aptitudes)",
     "entries": [
         {
+            "id": "Witch Gnoll",
+            "name": "Witch Gnoll (Gnoll sorcier)",
+            "description": "<p>Vous êtes un gnoll hirsute à la fourrure sombre capable de produire des sons vraiment étranges. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{Son fantômatique} comme un sort inné occulte à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l'entier supérieur. De plus, vous gagnez un bonus de circonstances de +1 aux tests pour vous Déguiser et pour Faire diversion lorsque vous utilisez uniquement votre voix.</p>"
+        },
+        {
+            "id": "Stonestep Shisk",
+            "name": "Stonestep Shisk (Shisk pied de pierre)",
+            "description": "<p>Arpenter les montagnes et autres terrains rocheux est une seconde nature pour vous. Vous pouvez ignorer les terrains difficiles non magiques causés par les gravats et les sols irréguliers en pierre et en terre.</p>"
+        },
+        {
             "id": "Dogtooth Tengu",
             "name": "Dogtooth Tengu (Tengu Dentdechien)",
             "description": "<p>En plus d'un bec, votre bouche comporte aussi un nombre de vivieuses dents pointues. Certaines légendes clament que vos puissantes mâchoires peuvent même percer l'acier. Bien que vous ne soyez pas encore assez fort pour çà, vos crocs peuvent toujours infliger de terribles blessures. Votre attaque à mains nues de bec obtient le trait mortel d8.</p>"
@@ -147,6 +157,16 @@
             "description": "<p>Une autre source de magie a pris l’ascendant sur la magie primordiale de votre ascendance féerique. Cette connexion peut provenir d’un plan occulte ou d’un ancien chant occulte, être liée à une divinité, un céleste ou un fiélon, avoir été causée par une séquelle magique ayant persisté après un conflit entre mages ou être associée à une antique rune magique.</p>\n<p>Choississez entre les traditions arcanique, divine ou occulte. Vous obtenez un tour de magie choisi dans la liste de sorts de cette tradition. Vous pouvez Lancer ce sort à volonté sous forme de sort inné comme un sort de la tradition choisie.</p>\n<p>Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur.</p>\n<p>À chaque fois que vous gagnez un sort inné primordial grâce à un don ancestral gnome, remplacez la tradition primordiale qui lui est associée par la tradition que vous avez choisie.</p>"
         },
         {
+            "id": "Snaring Anadi",
+            "name": "Snaring Anadi (Anadi piégeur)",
+            "description": "<p>Vous avez éclos avec des crocs crochus qui vous donnent un avantage lorsque vous chassez sous votre vraie forme. Votre attaque de crocs gagne les traits Saisir et croc-en-jambe.</p>"
+        },
+        {
+            "id": "Rite of Reinforcement",
+            "name": "Rite of Reinforcement (Rite de renforcement)",
+            "description": "<p>Votre exosquelette tissé rivalise avec les armures les plus dures que l'on puisse trouver. Votre exosquelette est une armure moyenne du groupe des armures de plaques qui confère un bonus d'objet de +4 à la CA, un Maximum de Dextérité de +1, une pénalité d'échec aux tests de -2, une pénalité de vitesse de -1,5 m, une valeur de Force de 16 et elle possède le trait confortable. Vous ne pouvez jamais porter une autre armure ou retirer votre exosquelette. Vous pouvez graver des runes d'armure sur votre exosquelette comme à l'ordinaire.</p>\n<p>@Compendium[pf2e.equipment-srd.0KHgAaDi3tmu32Hq]{Rite de renforcement de l'exosquelette}</p>"
+        },
+        {
             "id": "Seer Elf",
             "name": "Seer Elf (Elfe visionnaire)",
             "description": "<p>Vous avez le pouvoir inné de détecter et comprendre les phénomènes magiques. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie} comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur.</p>\n<p>En outre, vous gagnez un bonus de circonstances de +1 à vos tests pour @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifier la magie} et @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Déchiffrer un texte} de nature magique. Ces actions font généralement appel aux compétences Arcanes, Nature, Occultisme ou Religion.</p>"
@@ -182,6 +202,16 @@
             "description": "<p>Que ce soit lié à une bénédiction de Hei Feng ou à l'éclosion de votre œuf durant un grain, vous êtes résistant aux tempêtes. Vous obtenez une résistance à l'électricité égale à la moitié de votre niveau (minimum 1).</p>\n<p>Vous réussissez automatiquement au test nu pour cibler une créature @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} si cette créature est masquée seulement par la pluie ou le brouillard.</p>"
         },
         {
+            "id": "Insightful Goloma",
+            "name": "Insightful Goloma (Goloma perspicace)",
+            "description": "</p>>Vous avez appris à repérer les signes révélateurs de sentiments dangereux pour vous aider à éviter les ennuis. Vous gagnez un bonus de circonstances de +1 à votre DD de Perception contre les tentatives de vous Mentir et à vos tests de Perception pour Deviner les intentions.</p>."
+        },
+        {
+            "id": "Venomous Anadi",
+            "name": "Venomous Anadi (Anadi venimeux)",
+            "description": "<p>Les crocs de votre forme naturelle sont capables d'injecter du venin à vos ennemis. Vous gagnez l'aptitude @Compendium[pf2e.actionspf2e.8aIe57gXJ94mPpW4]{Venin anadi}.</p>"
+        },
+        {
             "id": "Seaweed Leshy",
             "name": "Seaweed Leshy (Léchi algue)",
             "description": "<p>Votre corps est constitué d'algues entrelacées et vous vous sentez aussi à l'aise sous l'eau qu'à la surface. Vous obtenez une vitesse de Nage de 6 m et vous pouvez toujours respirer sous l'eau. quoiqu'il en soit, votre Vitesse au sol est réduite de 1,5 m (soit 6 m pour la plupart des léchis).</p>"
@@ -202,9 +232,14 @@
             "description": "<p>Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque à mains nues d'ergots qui infligent <a class=\"inline-roll roll\" title=\"tranchants\" data-mode=\"roll\" data-flavor=\"tranchants\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i>1d4</a> dégâts tranchants. Vos ergots font partie du groupe pugilat et possèdent les traits agile, finesse, à mains nues et polyvalent perforant.</p>"
         },
         {
+            "id": "Vicious Goloma",
+            "name": "Vicious Goloma (Goloma vicieux)",
+            "description": "<p>La chitine sur vos mains forme des griffes puissantes qui vous permettent de vous défendre. Vous gagnez une attaque à mains nues de griffe qui inflige [[/r 1d6 #tranchants]] dégâts tranchants. Vos griffes font partie du groupe pugilat et possèdent les traits agile, finesse et à mains nues.</p>"
+        },
+        {
             "id": "Impersonator Android",
             "name": "Impersonator Android (Imposteur androïde)",
-            "description": "<p>Votre corps a été amélioré avec des processus et une apparence dans le but de se fondre avec les humains plus facilement. Vous devenez qualifié en Duperie (ou une autre compétence si vous étiez déjà qualifié en Duperie). Vous n'avez pas besoin d'un kit de déguisement lorsque vous faites un test de Duperie pour vous déguiser en un humain. De plus, vous obtenez un bonus de circonstances de +4 pour les tests de Déguisement pour prétendre que vous êtes une version humaine de vous-meêm et non un androïde. Ce bonus ne s'applique pas aux autres tests pour vous déguiser en d'autres humains.</p>"
+            "description": "<p>Votre corps a été amélioré avec des processus et une apparence dans le but de se fondre avec les humains plus facilement.</p>\n<p>Vous devenez qualifié en Duperie (ou une autre compétence si vous étiez déjà qualifié en Duperie). Vous n'avez pas besoin d'un kit de déguisement lorsque vous faites un test de Duperie pour vous déguiser en un humain.</p>\n<p>De plus, vous obtenez un bonus de circonstances de +4 pour les tests de Déguisement pour prétendre que vous êtes une version humaine de vous-même et non un androïde. Ce bonus ne s'applique pas aux autres tests pour vous déguiser en d'autres humains.</p>"
         },
         {
             "id": "Clawed Catfolk",
@@ -250,6 +285,11 @@
             "id": "Unusual Anatomy",
             "name": "Unusual Anatomy (Anatomie inhabituelle)",
             "description": "<p>Votre corps non orthodoxe résiste aux agressions physiques conçus pour l'autres créatures. Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les maladies et les poisons.</p>"
+        },
+        {
+            "id": "Rite of Invocation",
+            "name": "Rite of Invocation (Rite d'invocation)",
+            "description": "<p>Vous avez augmenté votre exosquelette avec de la magie. Vous gagnez un tour de magie de la liste des sorts arcaniques ou occultes. Vous pouvez lancer ce sort comme un sort inné à volonté. Un tour de magie est augmenté d'un niveau de sort égal à la moitié de votre niveau arrondi à l'unité supérieure.</p>>"
         },
         {
             "id": "Ancient-Blooded Dwarf",
@@ -302,6 +342,11 @@
             "description": "<p>Vous pouvez voir dans l'obscurité et dans la lumière faible juste aussi bien que dans la lumière vive, bien que votre vision dans l'obscurité soit en noir et blanc. Certaines formes d'obscurité magique tel que le sort de niveau 4 @Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Obscurité} bloque la @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}. Vous, quoi qu'il en soit, pouvez voir même au travers de ces formes d'obscurité magique.</p>"
         },
         {
+            "id": "Sunlight Healing",
+            "name": "Sunlight Healing (Guérison par le soleil)",
+            "description": "<p>Un conrasu peut entrer dans un état méditatif et de guérison en y consacrant une activité de 10 minutes lorsqu'il est exposé à la lumière directe du soleil, auquel cas il récupère 1d8 points de vie. Au niveau 3, et tous les 2 niveaux par la suite, cette guérison augmente de 1d8. Une fois qu'un conrasu a récupéré des points de vie de cette façon, il est temporairement immunisé contre d'autres utilisations de Guérison par le soleil pendant 1 jour.</p>"
+        },
+        {
             "id": "Anvil Dwarf",
             "name": "Anvil Dwarf (Nain de la forge)",
             "description": "<p>Vous êtes le descendant d'un artisan réputé et possédez votre propre incroyable talent. Les autres nains pourraient considérer que c'est la bénédiction de vos ancêtres ou du Père de la forge lui-même, en fonction de l'endroit où vous avez été élevé. Vous êtes qualifié en Artisanat (ou une autre compétence si vous étiez déjà qualifié en Artisanat) et vous obtenez le don de compétence Artisanat spécialisé, sauf que vous pouvez choisir deux spécialités à la place d'une seule.</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.feats-srd.XVnpntqV6w94PoOb]{Artisanat spécialisé (Alchimie)}</li>\n<li>@Compendium[pf2e.feats-srd.59FN13nU6agKT4oa]{Artisanat spécialisé (Confection de livres)}</li>\n<li>@Compendium[pf2e.feats-srd.tbIMWrIRI9P9cubM]{Artisanat spécialisé (Construction navale)}</li>\n<li>@Compendium[pf2e.feats-srd.B06QKNvKYqxYGwPU]{Artisanat spécialisé (Couture)}</li>\n<li>@Compendium[pf2e.feats-srd.YvoiGWZhtbHH6NMF]{Artisanat spécialisé (Ébénisterie)}</li>\n<li>@Compendium[pf2e.feats-srd.S8mPrjJjuObotmjZ]{Artisanat spécialisé (Forge)}</li>\n<li>@Compendium[pf2e.feats-srd.WddEyALYHfpeUjZB]{Artisanat spécialisé (Maroquinerie)}</li>\n<li>@Compendium[pf2e.feats-srd.8XC2xJ7Y1xlr6Xor]{Artisanat spécialisé (Poterie)}</li>\n<li>@Compendium[pf2e.feats-srd.22HUfCajd6IkATOR]{Artisanat spécialisé (Sens artistique)}</li>\n<li>@Compendium[pf2e.feats-srd.TWkwy0uQvTGlgEFG]{Artisanat spécialisé (Taille de pierre)}</li>\n<li>@Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{Artisanat spécialisé (Tissage)}</li>\n<li>@Compendium[pf2e.feats-srd.YmzLnj4ojlf9INNP]{Artisanat spécialisé (Verrerie)}</li>\n</ul>"
@@ -312,6 +357,11 @@
             "description": "<p>Vous avez une fourrure plus épaisse et une charpente plus encombrante pour vous défendre contre le froid, vous accordant une résistance au froid égale à la moitié de votre niveau (minimum 1). Vous traitez les effets environnementaux de froid comme s'ils étaient d'un degré moins extrême (le froid incroyable devient extrême, le froid extrême devient sévère, etc).</p>"
         },
         {
+            "id": "Bite",
+            "name": "Bite (Morsure)",
+            "description": "<p>Vos dents acérées et vos puissantes mâchoires sont des armes redoutables. Vous disposez d'une attaque à mains nues de mâchoires qui inflige 1d6 dégâts perforants. Vos mâchoires font partie du groupe pugilat.</p>"
+        },
+        {
             "id": "Blunt Snout",
             "name": "Blunt Snout (Museau court)",
             "description": "<p>Votre museau court et le système labyrinthique de vos sinus vous rendent résistant aux phénomènes qui assaillent vos narines. Lorsque vous lancez un jet de sauvegarde contre les menaces inhalées (comme les poisons inhalés) et les effets olfactifs (comme la puanteur des xulgaths), vous obtenez l'issue d'un degré de mieux que le résultat obtenu sur votre jet de sauvegarde.</p>"
@@ -320,6 +370,11 @@
             "id": "Polyglot Android",
             "name": "Polyglot Android (Androïde polyglotte)",
             "description": "<p>Vous avez été préprogrammé avec une multitude de compétences linguistiques, probablement pour agir comme un traducteur. Vous apprenez deux nouvelles langues, choisies parmi les langages courants et dans toutes les langues peu courantes auxquels vous avez accès. Ces langues prennent la même forme (signée ou parlée) que vos autres langues. Si vous choisissez le don @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte}, vous apprenez trois nouvelles langues au lieu de deux.</p>"
+        },
+        {
+            "id": "Windweb Grippli",
+            "name": "Windweb Grippli (Grippli à palmes)",
+            "description": "<p>Des palmes résistantes le long de vos mains et de vos orteils peuvent ralentir toute chute. Tant que vous avez une main libre, vous ne subissez aucun dégât de chute, quelle que soit la distance de laquelle vous tombez.</p>"
         },
         {
             "id": "Unbreakable Goblin",
@@ -335,6 +390,16 @@
             "id": "River Azarketi",
             "name": "River Azarketi (Azarketi fluvial)",
             "description": "<p>vous descendez des azarketis qui ont abandonné les océans pour l'eau douce et la vie à l'intérieur des terres. La géographie variée des rivières rend nécessaire que vous développiez des compétences physiques avancées pour nager contre les rapides, bondir dans les eaux des cascades et naviguer avec expertise dans les canaux peu profonds et étroits. Lorsque vous réussissez un test d'Athlétisme pour Nager, vous obtenez un succès critique à la place.</p>"
+        },
+        {
+            "id": "Vigilant Goloma",
+            "name": "Vigilant Goloma (Goloma vigilant)",
+            "description": "<p>Vous avez appris à être conscient non seulement des dangers physiques évidents, mais aussi des menaces magiques perceptibles. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie} comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau égal à la moitié de votre niveau arrondi à l'entier supérieur. De plus, votre conscience vous permet de remarquer les pièges magiques plus facilement que les autres. Votre rang de maîtrise en Perception est considéré comme un cran au-dessus lorsque vous tentez de détecter des pièges magiques. (qualifié est considéré comme expert, expert comme maître et maître comme légendaire).</p>"
+        },
+        {
+            "id": "Poisonhide Grippli",
+            "name": "Poisonhide Grippli (Grippli à peau empoisonnée)",
+            "description": "<p>Vous pouvez être petit mais les glandes empoisonnées situées sous votre peau cachent une défensse mortelle. Vous obtenez la réaction @Compendium[pf2e.actionspf2e.kKKHwVUnroKuAnOt]{Peau toxique}.</p>"
         },
         {
             "id": "Darkvision",
@@ -392,6 +457,11 @@
             "description": "<p>Vous trouvez qu'il est difficile de comprendre et d'exprimer des émotions complexes. Vous subissez une pénalité de circonstance de –1 aux tests de Diplomatie et de Représentation et aux tests de Perception pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions}.</p>"
         },
         {
+            "id": "Rite of Passage",
+            "name": "Rite of Passage (Rite de passage)",
+            "description": "<p>Votre exosquelette reste connecté aux plantes qui l'ont créé. Vous pouvez ignorer les terrains difficiles et les irrégularités du sol causées par les sous-bois. De plus, lorsque vous utilisez la compétence Acrobaties pour Garder l'équilibrer sur des surfaces étroites ou un sol irrégulier au sein des forêts, vous n'êtes pas Pris au dépourvu. Lorsque vous obtenez un succès en tentant l'un de ces tests d'Acrobaties, vous obtenez un succès critique à la place.</p>"
+        },
+        {
             "id": "Grave Orc",
             "name": "Grave Orc (Orc tombal)",
             "description": "<p>Vous avez été exposé à de puissantes énergies nécromantiques qui auraient dû vous tuer — mais vous avez survécu. Votre peau est froide, humide et grise. Vous obtenez une résistance aux dégâts négatifs égale à la moitié de votre niveau (minimum 1). Vous obtenez aussi un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de nécromancie.</p>"
@@ -437,6 +507,11 @@
             "description": "<p>Vous tirez de votre modèle draconique des pouvoirs mineurs. Choisissez un type de dragon chromatique ou métallique comme étant votre modèle. Cela détermine la couleur de vos écailles et votre apparence. Les dragons voient parfois plus favorablement ceux des kobolds qui leur ressemblent à la discrétion du MJ. Votre modèle peut aussi déterminer les détails d'autres capacités que vous possédez, en utilisant la table des modèles draconiques ci-après.</p>\n<h3><strong>Table des Modèles draconiques</strong></h3>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Dragon</th>\n<th>Forme du Souffle</th>\n<th>Type de Dégâts</th>\n<th>Jet de sauvegarde</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Airain</td>\n<td>Ligne</td>\n<td>Feu</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Argent</td>\n<td>Cône</td>\n<td>Froid</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Blanc</td>\n<td>Cône</td>\n<td>Froid</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Bleu</td>\n<td>Ligne</td>\n<td>Électricité</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Bronze</td>\n<td>Ligne</td>\n<td>Électricité</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Cuivre</td>\n<td>Ligne</td>\n<td>Acide</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Noir</td>\n<td>Ligne</td>\n<td>Acide</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Or</td>\n<td>Cône</td>\n<td>Feu</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Rouge</td>\n<td>Cône</td>\n<td>Feu</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Vert</td>\n<td>Cône</td>\n<td>Poison</td>\n<td>Vigueur</td>\n</tr>\n</tbody>\n</table>"
         },
         {
+            "id": "Lorekeeper Shisk",
+            "name": "Lorekeeper Shisk (Shisk conservateur de savoir)",
+            "description": "<p>Vous avez grandi entouré de connaissances et de secrets. Vous devenez qualifié dans une compétence de Connaissances et dans une autre compétence de votre choix basée sur l'Intelligence ou la Sagesse. Au niveau 5, vous devenez expert dans les compétences choisies.</p>"
+        },
+        {
             "id": "Aasimar",
             "name": "Aasimar (Aasimar)",
             "description": "<p>Vous descendez des célestes ou avez été touché par les royaumes célestes, obtenant une expression d'émerveillement et de grace, ainsi que des traits distincts liés à votre héritage céleste. Vous obtenez le trait aasimar, en plus des traits de votre héritage. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous gagnez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre héritage avait déjà Vision nocturne. Vous pouvez choisir parmi les dons d'aasimar ou parmi les dons de votre héritage lorsque vous obtenez un don ancestral.</p>"
@@ -477,11 +552,6 @@
             "description": "<p>Que ce soit au travers d'un lien avec la forge de @Compendium[pf2e.deities.sZrdzh0ANQnZGXJb]{Torag}, des azers du plan du Feu ou d'une autre source, vous pouvez exsuder une émanation d'énergie. Les nains Mbe’ke et Taralu du Mwangi pensent que cette ascendance est un don des dragons ou des esprits élémentaires.</p>\n<p>Choisissez un des types de dégâts suivants : acide, électricité, feu ou froid. Une fois choisi, il ne peut être modifié. Vous obtenez l'activité @Compendium[pf2e.actionspf2e.7qjfYsLNTr17Aftf]{Émanation énergétique}.</p>"
         },
         {
-            "id": "Celestial Envoy Kitsune",
-            "name": "Celestial Envoy Kitsune (Kitsune Envoyé céleste)",
-            "description": "<p>Que ce soit par la grâce de Daikitsu ou d'ancêtres croyants, vous avez un lien fort avec le divin, vous accordant certaines protections. Vous obtenez la réaction @Compendium[pf2e.actionspf2e.Aq2mXT2hLlstFL5C]{Invoquer le privilège céleste}. Votre forme alternative est celle d'un humanoïde Moyen d'une ascendance courante prévalente où vous avez grandi (typiquement un humain), appelée une forme sans queue.</p>"
-        },
-        {
             "id": "Cavern Kobold",
             "name": "Cavern Kobold (Kobold cavernicole)",
             "description": "<p>Vous avez éclos dans un terrier parmi des tunnels étroits un grand nombre de vos semblables. Votre corps est flexible.</p>\n<p>Lorsque vous @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimpez} des murs de roche, des stalactites et les autres caractéristiques naturelles en pierre, vous vous déplacez à la moitié de votre Vitesse sur un Succès et à votre Vitesse sur un succès critique (et vous vous déplacez à votre pleine Vitesse sur un succès si vous possédez le don @Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{Escalade rapide}). Cela ne vous affecte pas si vous utilisez une vitesse d'Escalade.</p>\n<p>Si vous obtenez un succès sur un test d'Acrobaties pour @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{vous Faufiler}, vous obtenez un succès critique à la place.</p>"
@@ -515,6 +585,11 @@
             "id": "Paddler Shoony",
             "name": "Paddler Shoony (Shoony Pagayeur)",
             "description": "<p>Vous venez d'une lignée de shoony qui ont vécu depuis longtemps parmi les herbes et les roseaux des marais et marécages et qui se sont adaptées aux défis de vivre près de zones détrempées. Vous ignorez les terrains difficiles et très difficiles liés aux tourbières. Lorsque vous obtenez un succès pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous considérez qu'il s'agit d'un succès critique à la place.</p>"
+        },
+        {
+            "id": "Spellkeeper Shisk",
+            "name": "Spellkeeper Shisk (Shisk garde sort)",
+            "description": "<p>Vos connaissances magiques vous permettent de lancer des sorts simples. Choisissez occulte ou primitif. Vous gagnez un tour de magie de la liste des sorts de cette tradition magique. Vous pouvez lancer ce sort comme un sort inné à volonté, comme un sort de la tradition choisie. Un tour de magie est renforcé à un niveau de sort égal à la moitié de votre niveau arrondi à l'unité supérieure.</p>"
         },
         {
             "id": "Deep Fetchling",
@@ -562,9 +637,24 @@
             "description": "<p>Soit l’un de vos parents était un elfe, soit les deux étaient des demi-elfes. Vos oreilles pointues et d’autres signes trahissent votre ascendance elfique. Vous gagnez le trait elfe et le pouvoir @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne}. En outre, à chaque fois que vous gagnez un don ancestral, vous pouvez choisir un don parmi la liste de dons des elfes, des demi-elfes et des humains.</p>"
         },
         {
+            "id": "Frightful Goloma",
+            "name": "Frightful Goloma (Goloma effrayant)",
+            "description": "<p>Votre visage a une apparence particulièrement rebutante. Vous êtes qualifié en Intimidation (ou dans une compétence de votre choix si vous êtes déjà qualifié en Intimidation) et vous gagnez le don de compétence @Compendium[pf2e.feats-srd.xQMz6eDgX75WX2ce]{Regard intimidant} comme don supplémentaire.</p>.\n<hr />\n<p><em>Note : Si vous êtes déjà qualifié dans la compétence fournie par ce don, vous devez sélectionner manuellement une compétence alternative.</em></p>"
+        },
+        {
             "id": "Dark Fields Kitsune",
             "name": "Dark Fields Kitsune (Kitsune Champs sombres)",
             "description": "<p>Vous pouvez employer votre présence perturbante pour Démoraliser subtilement autrui. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous tentez de Démoraliser une créature qui ne comprend pas votre langue. Vous obtenez aussi la réaction @Compendium[pf2e.actionspf2e.Ul4I0ER6pj3U5eAk]{Peur revigorante}. Votre forme alternative est un renard qui possède les statistiques de @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible} au niveau 1.</p>"
+        },
+        {
+            "id": "Snaptongue Grippli",
+            "name": "Snaptongue Grippli (Grippli à longue langue)",
+            "description": "<p>Votre langue est particulièrement longue et vous pouvez la projeter avec une portée et une précision extraordinaires. Vous pouvez utiliser votre langue pour lancer des sorts à de contact et effectuer des actions Interagir extrêmement simples, comme ouvrir certains types de portes déverrouillées. Votre langue ne peut pas effectuer des actions qui nécessitent des doigts ou une importante dextérité manuelle, incluant toute action qui nécessiterait un test pour être accomplie et vous ne pouvez pas l'utiliser pour tenir des objets.</p>"
+        },
+        {
+            "id": "Stickytoe Grippli",
+            "name": "Stickytoe Grippli (Grippli aux orteils collants)",
+            "description": "<p>Vos mains et vos pieds exsudent un film qui les aide à adhérer aux surfaces. Vous gagnez un bonus de circonstances de +2 à vos DD de Force et de Réflexes contre les tentatives pour vous désarmer, vous Pousser ou vous faire un croc-en-jambe. Lorsque vous grimpez aux arbres, aux lianes ou dans d'autres feuillages, si vous obtenez un succès au test d'Athlétisme pour Escalader, vous obtenez un succès critique à la place.</p>"
         },
         {
             "id": "Hunting Catfolk",
@@ -597,14 +687,24 @@
             "description": "<p>Vous vous êtes acclimaté à la vie dans les terres glacées. Votre carnation se situe entre le bleu clair et le bleu marine. Vous êtes également couvert d’une fourrure bleue. Vous gagnez une résistance au froid égale à la moitié de votre niveau (avec un minimum de 1). Vous subissez tous les effets environnementaux liés au froid comme si leur intensité était réduite d’un rang (le froid extraordinaire devient extrême, le froid extrême devient grand, etc.).</p>"
         },
         {
+            "id": "Quillcoat Shisk",
+            "name": "Quillcoat Shisk (Shisk à piquants)",
+            "description": "<p>Votre corps a adapté un mécanisme défensif pour briser vos piquants en cas d'attaque, ce qui vous permet de vous défendre contre les prédateurs agressifs, bien qu'il faille un certain temps pour que les piquants repoussent. Vous gagnez la réaction @Compendium[pf2e.actionspf2e.oAWNluJaMlaGysXA]{Piquants barbelés}.</p>"
+        },
+        {
             "id": "Spellscale Kobold",
             "name": "Spellscale Kobold (Kobold écaille de sort)",
-            "description": "<p>Une trace de magie draconique coule à travers vos veines. Choisissez un tour de magie de la liste de sort arcanique. Vous pouvez @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer ce sort} comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur. Vous devenez qualifié en jets d'attaque de sorts arcaniques et en DD de sort et votre caractéristique essentielle est le Charisme.</p>"
+            "description": "<p>Une trace de magie draconique coule à travers vos veines. Choisissez un tour de magie de la liste de sort arcanique. Vous pouvez Lancer ce sort comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur. Vous devenez qualifié en jets d'attaque de sorts arcaniques et en DD de sort et votre caractéristique essentielle d'incantation est le Charisme.</p>"
         },
         {
             "id": "Winter Catfolk",
             "name": "Winter Catfolk (Homme-félin hivernal)",
             "description": "<p>Vous possédez une fourrure épaisse qui vous protège du froid. Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1). Vous traitez les effets de froid liés à l'environnement comme s'ils étaient d'un niveau moins extrème qu'ils ne le sont (froid incroyable devient extrême, froid extrême devient sévère, etc...).</p>"
+        },
+        {
+            "id": "Fangs",
+            "name": "Fangs (Crocs)",
+            "description": "<p>Vous êtes né avec un moyen naturel de chasser et pour vous défendre. Vous obtenez une attaque de crocs à mains nues qui infligen [[/r 1d6 #perforantts]] dégâts perforants. Vos crocs sont dans le groupe pugilat et possèdent le trait finesse et à mains nues.</p>"
         },
         {
             "id": "Empty Sky Kitsune",
@@ -620,6 +720,11 @@
             "id": "Nightglider Strix",
             "name": "Nightglider Strix (Strix Planenuit)",
             "description": "<p>YVous êtes un oiseau nocturne, conservant la veille et chassant dans les environnements les plus dépourvus de lumière. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
+        },
+        {
+            "id": "Great Gnoll",
+            "name": "Great Gnoll (Grand gnoll)",
+            "description": "<p>Vous êtes un gnoll grand et puissant, avec une fourrure fauve et des taches brunes sur votre peau. Vous gagnez 10 points de vie grâce à votre ascendance au lieu de 8 et bénéficiez d'un bonus de circonstances de +1 aux tests d'athlétisme pour Pousser ou faire un Croc-en-jambe à vos ennemis.</p>"
         },
         {
             "id": "Hydration",
@@ -645,6 +750,11 @@
             "id": "Aquatic Adaptation",
             "name": "Aquatic Adaptation (Adaptation aquatique)",
             "description": "<p>Votre biologie reptilienne vous permet de retenir votre souffle pendant très longtemps. Vous obtenez le don général @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Contrôle de la respiration} comme don supplémentaire.</p>"
+        },
+        {
+            "id": "Rite of Light",
+            "name": "Rite of Light (Rite de lumière)",
+            "description": "<p>Votre exosquelette porte de petites pousses qui peuvent partager la vie. Lorsque vous utilisez Guérison par le soleil, vous pouvez restaurer les points de vie d'un allié adjacent au lieu de vous-même. Cet allié devient temporairement immunisé contre toutes les utilisations de Guérison du soleil pendant 1 jour.</p>>"
         },
         {
             "id": "Undine",
@@ -695,6 +805,11 @@
             "id": "Badlands Orc",
             "name": "Badlands Orc (Orc des badlands)",
             "description": "<p>Vous venez des badlands écrasées par le soleil, où vos longues jambes et une capacité à comprendre les éléments vous ont aidé à survivre. Vous pouvez @Compendium[pf2e.actionspf2e.JuqmIAnkL9hVGai8]{vous Empresser} deux fois plus longtemps lorsque vous êtes en exploration avant de devoir vous arrêter et vous traitez les effets des environnements chauds comme s'ils étaient d'un cran inférieur (châleur incroyable devient extrême, châleur extrême devient sévère, etc...).</p>"
+        },
+        {
+            "id": "Adaptive Anadi",
+            "name": "Adaptive Anadi (Anadi adaptée)",
+            "description": "<p>Vous descendez d'une lignée d'anadis qui ont travaillé à perfectionner leur magie de transformation, leur permettant de s'intégrer à une plus grande variété de cultures. Choisissez une ascendance humanoïde courante de taille moyenne. Votre forme humaine est remplacée par une forme qui correspond à ce choix. Vous gagnez également le don @Compendium[pf2e.feats-srd.ihN8gkHSdPG9Trte]{Ascendance adoptive} pour l'ascendance humanoïde choisie.</p>"
         },
         {
             "id": "Melixie",
@@ -752,6 +867,11 @@
             "description": "<p>Vous brillez avec une luminance magique. Vous diffusez naturellement de la lumière comme une torche ; cette lumière possède les traits évocation, lumière et primordial. Vous pouvez éteindre, rallumer ou changer la couleur de cette lumière en utilisant une unique action qui possède le trait concentration.</p>"
         },
         {
+            "id": "Eyes in Back",
+            "name": "Eyes in Back (Yeux dans le dos)",
+            "description": "<p>Vous avez des yeux qui pointent dans plusieurs directions à la fois et vous remarquez instinctivement les mouvements à la périphérie de votre vision. Lorsque vous utilisez l'action de base Chercher, vous pouvez chercher des créatures dans deux zones au lieu d'une. Si la précision est nécessaire, vous pouvez sélectionner deux cônes de 9 m ou deux explosions de 4,5 m dans votre ligne de mire au lieu d'un seul.</p>"
+        },
+        {
             "id": "Observant Halfling",
             "name": "Observant Halfling (Halfelin observateur)",
             "description": "<p>Vos sens particulièrement aiguisés vous donnent des indices en cas de danger ou de tromperie. Vous obtenez un bonus de circonstances de +1 à votre DD de Perception, mais pas à vos tests de Perception.</p>"
@@ -772,6 +892,11 @@
             "description": "<p>Vous avez un torse plus long et des épaules plus larges que la plupart des hobgobelins, de sorte que vos jambes semblent plus courtes en comparaison. Cela vous donne une ceinture abdominale forte et muclée et abaisse votre centre de gravité — traits qui vous aident sur une monture et à escalader — et vous êtes entraîné à utiliser une selle à un  âge particulièrement jeune. Vous obtenez le don @Compendium[pf2e.feats-srd.Rq5wkA8DtsmbzoGV]{Chevaucher}. De plus, vous n'êtes pas @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} lorsque vous Escaladez.</p>"
         },
         {
+            "id": "Ant Gnoll",
+            "name": "Ant Gnoll (Gnoll fourmi)",
+            "description": "<p>Vous êtes un gnoll d'un mètre de haut, aux grandes oreilles et au visage anguleux. Beaucoup sont sceptiques sur le fait que vous êtes bien un gnoll. Votre taille est petite au lieu de moyenne. Vous êtes qualifié en Duperie (ou dans une autre compétence si vous êtes déjà qualifié en Duperie). Vous gagnez un bonus de circonstances de +1 aux tests de Duperie pour Mentir lorsque vous clamez spécifiquement votre innocence, aux DD de Duperie contre les tests pour Deviner les intentions pour découvrir de tels mensonges et aux tests d'initiative lorsque vous faites un jet de Duperie pour déterminer l'initiative.</p>\n<hr />\n<p><em>Note : Si vous êtes déjà qualifié dans la compétence lié à ce don, vous devez sélectionner manuellement une compétence alternative.</em></p>"
+        },
+        {
             "id": "Jinxed Halfling",
             "name": "Jinxed Halfling (Halfelin maudit)",
             "description": "<p>Vous êtez né avec une étrange bénédiction : à l'inverse de la chance halfeline typique, vous pouvez à la place manipuler le destin des autres. Vous ne pouvez jamais prendre le don @Compendium[pf2e.feats-srd.ZbRVqf14RTJJIZXG]{Chance halfeline} et vous obtenez l'action @Compendium[pf2e.actionspf2e.hFRHPBj6wjAayNtW]{Maudire}.</p>"
@@ -784,7 +909,7 @@
         {
             "id": "Ancient Scale Azarketi",
             "name": "Ancient Scale Azarketi (Azarketi écaille antique)",
-            "description": "<p>Votre lignage remonte aux azarketis qui sont restés dédiés à leurs racines de l'océan profond. Divorcé de la société terrienne, vous êtes un étranger de tous les mondes qui se trouvent au-dessus d'un millier de brasses de profondeur. Vous obtenez vision dans le noir. Votre corps est doté de points phosphorescents qui émettent une lumière qui vous guide et vous aide à communiquer. Les points lumineux — localisés principalement sur votre visage, vos bras et vos mains — émettent de la lumière faible dans un rayon de 3 m autour de vous. Vous pouvez activer, désactiver ou change l'arrangement des lumières par une action qui a le trait concentration.</p>"
+            "description": "<p>Votre lignage remonte aux azarketis qui sont restés accrochés à leurs racines de l'océan profond. Divorcé de la société terrienne, vous êtes étranger à tous les mondes qui se trouvent au-dessus d'un millier de brasses de profondeur. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{vision dans le noir}.</p>\n<p>Votre corps est doté de points phosphorescents qui émettent une lumière qui vous guide et vous aide à communiquer. Les points lumineux — localisés principalement sur votre visage, vos bras et vos mains — émettent de la lumière faible dans un rayon de 3 m autour de vous. Vous pouvez activer, désactiver ou change l'arrangement des lumières par une action qui a le trait concentration.</p>"
         },
         {
             "id": "Arctic Elf",
@@ -802,6 +927,11 @@
             "description": "<p>Vous êtes né ou avez passé de nombreuses années dans des tunnels souterrains ou des cavernes, dans un environnement très sombre. Vous gagnez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
         },
         {
+            "id": "Sweetbreath Gnoll",
+            "name": "Sweetbreath Gnoll (Gnoll à haleine douce)",
+            "description": "<p>Vous êtes un gnoll rayé, à la fourrure pâle, avec une haleine étrangement agréable, que vous pouvez utiliser pour attirer vos proies. Vous êtes qualifié en Diplomatie (ou une autre compétence si vous étiez déjà qualifié en Diplomatie). Vous obtenez également un bonus de circonstances de +1 aux tests pour Faire bonne impression si la cible peut sentir votre haleine.</p>\n<hr />\n<p><em>Note : Si vous êtes déjà qualifié avec la compétence fournie par ce don, vous devez sélectionner manuellement une compétence alternative.</em></p>."
+        },
+        {
             "id": "Razortooth Goblin",
             "name": "Razortooth Goblin (Gobelin Dent’rasoir)",
             "description": "<p>Les dents que vous avez héritées de votre famille constituent une arme formidable. Vous gagnez une attaque à mains nues de mâchoires qui inflige <a class=\"inline-roll roll\" title=\"perforants\" data-mode=\"roll\" data-flavor=\"perforants\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i>1d6</a> dégâts perforants. Vos mâchoires font partie du groupe pugilat et possèdent les traits finesse et mains nues.</p>"
@@ -817,6 +947,26 @@
             "description": "<p>Vous être une créature du monde matériel, avec une affinité plus proches des étendues sauvages que celle de la société urbaine. Vous obtenez une attaque de mâchoires à mains nues qui inflige [[/r 1d6 #perforants]] dégâts perforants. Vos mâchoires sont dans le groupe pugilat et possèdent le trait finesse et à mains nues. Votre forme alternative est celle d'un renard, qui possède les statistique d'un sort de @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible} de niveau 1.</p>"
         },
         {
+            "id": "Spindly Anadi",
+            "name": "Spindly Anadi (Anadi sautillant)",
+            "description": "<p>Vos membres sont exceptionnellement longs sous vos deux formes, ce qui vous permet de sautiller avec une agilité surprenante. Votre vitesse passe de 7,5 m à 9 m.</p>"
+        },
+        {
+            "id": "Polychromatic Anadi",
+            "name": "Polychromatic Anadi (Anadi polychromatique)",
+            "description": "<p>Votre corps est couvert de poils exceptionnellement colorés qui créent des motifs vibrants et accrocheurs, dont certains pourraient même apparaître sous votre forme humaine. Vous devenez qualifié en Représentation (ou dans une autre compétence si vous étiez déjà qualifié en Représentation), et vous gagnez le don @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Représentation impressionnante}.</p>\n<hr />\n<p><em>Note : Si vous êtes déjà qualifié avec la compétence lié à ce don, vous devez sélectionner manuellement une compétence alternative.</em></p>."
+        },
+        {
+            "id": "Farsight Goloma",
+            "name": "Farsight Goloma (Goloma à vision de loin)",
+            "description": "<p>Vos yeux se sont adaptés pour mieux voir dans des conditions moins favorables. Vous gagnez @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne}.</p>"
+        },
+        {
+            "id": "Stronggut Shisk",
+            "name": "Stronggut Shisk (Shisk aux instestins solides)",
+            "description": "<p>Votre métabolisme est lent, ce qui vous permet de passer des jours sans nourriture et de freiner le rythme des afflictions. Vous pouvez rester 1 semaine sans nourriture avant de commencer à mourir de faim. De plus, les délais d'incubation et la durée des stades de toutes les maladies et de tous les poisons qui vous affectent sont augmentés de 50%. Si le délai d'incubation ou le stade sont instantanés ou ne durent qu'un round, cette capacité n'a aucun effet.</p>"
+        },
+        {
             "id": "Smokeworker Hobgoblin",
             "name": "Smokeworker Hobgoblin (Hobgobelin travailleur de fumée)",
             "description": "<p>Votre famille a été alchimiste, ingénieur et scientifique depuis des générations, sur des projets qui apporte fûmée et feu sur le champ de bataille. Vous obtenez une résistance au feu égal à la moitié de votre niveau (minimum 1). Vous obtenez automatiquement un Succès sur le test nu de DD 5 pour cibler une créature @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} si cette créature n'est camouflée que par la fumée.</p>"
@@ -830,6 +980,11 @@
             "id": "Duskwalker",
             "name": "Duskwalker (Crépusculaire)",
             "description": "<p>Suite à un ancien marché, votre âme a été réincarnée comme un crépusculaire, un enfant planaire avec un lien à l'égard des psychopompes et du Cimetière. Vous obtenez le trait crépusculaire en plus des traits de votre héritage. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance bénéficie déjà de vision nocturne. Ni votre corps, ni votre âme ne peuvent jamais devenir mort-vivant. Vous pouvez choisir vos dons d'ascendance parmi les dons des crépusculaires ou ceux de votre autre ascendance lorsque vous obtenez un don ancestral.</p>"
+        },
+        {
+            "id": "Swim (Mistbreath Azarketi)",
+            "name": "Swim (Mistbreath Azarketi) (Nage (Azarketi soufflebrume))",
+            "description": "<p>Un azarketi souffle brume obtient une vitesse de natation de 4,5 m.</p>"
         },
         {
             "id": "Bright Fetchling",

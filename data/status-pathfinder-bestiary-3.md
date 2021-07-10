@@ -2,33 +2,17 @@
 
  * **changé**: 18
  * **vide**: 11
- * **aucune**: 311
+ * **libre**: 24
+ * **aucune**: 287
 
 
-Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[0sQg5UM8dQY7fBhQ.htm](pathfinder-bestiary-3/0sQg5UM8dQY7fBhQ.htm)|Ganzi Martial Artist|
-|[1DzJjE7OnRDY5Pir.htm](pathfinder-bestiary-3/1DzJjE7OnRDY5Pir.htm)|Giant Opossum|
-|[2DrerJYEJon5U6Fx.htm](pathfinder-bestiary-3/2DrerJYEJon5U6Fx.htm)|Slithering Pit|
-|[2L2iQ9X8tYPH2K9s.htm](pathfinder-bestiary-3/2L2iQ9X8tYPH2K9s.htm)|Tidehawk|
-|[2pQoqcUxyHsTLhjw.htm](pathfinder-bestiary-3/2pQoqcUxyHsTLhjw.htm)|Viper Swarm|
-|[2vvPHlLhgDGr8fOF.htm](pathfinder-bestiary-3/2vvPHlLhgDGr8fOF.htm)|Shae|
-|[324ZRtmDYulbw0CM.htm](pathfinder-bestiary-3/324ZRtmDYulbw0CM.htm)|Lifeleecher Brawler|
-|[3OrdGXuPXSlrLlbf.htm](pathfinder-bestiary-3/3OrdGXuPXSlrLlbf.htm)|Wyrwood Sneak|
-|[3SYFPEaAl4g5G3GK.htm](pathfinder-bestiary-3/3SYFPEaAl4g5G3GK.htm)|Kitsune Trickster|
-|[4cfi0BksjHbFVY0A.htm](pathfinder-bestiary-3/4cfi0BksjHbFVY0A.htm)|Flumph|
-|[4glVe36VTR8HTjcE.htm](pathfinder-bestiary-3/4glVe36VTR8HTjcE.htm)|Girtablilu Sentry|
-|[4vwMHy39IQyb7I7p.htm](pathfinder-bestiary-3/4vwMHy39IQyb7I7p.htm)|Incutilis|
-|[4WMThCqvHV1aaBwa.htm](pathfinder-bestiary-3/4WMThCqvHV1aaBwa.htm)|Animated Colossus|
-|[5bBfMpcn0PuO1jTL.htm](pathfinder-bestiary-3/5bBfMpcn0PuO1jTL.htm)|Lava Worm Swarm|
-|[5dZaPSltPYYIupeq.htm](pathfinder-bestiary-3/5dZaPSltPYYIupeq.htm)|Grioth Scout|
-|[5WAy9PYWu1PuQKXg.htm](pathfinder-bestiary-3/5WAy9PYWu1PuQKXg.htm)|Clacking Skull Swarm|
-|[60bknqrpHs2lL4pt.htm](pathfinder-bestiary-3/60bknqrpHs2lL4pt.htm)|Rat Snake Swarm|
 |[61atKNQVF73vWpqc.htm](pathfinder-bestiary-3/61atKNQVF73vWpqc.htm)|Divine Warden Of Nethys|
 |[6A317pomsGPzW17M.htm](pathfinder-bestiary-3/6A317pomsGPzW17M.htm)|Munavri Spellblade|
 |[6AvQH0XXccorLE6d.htm](pathfinder-bestiary-3/6AvQH0XXccorLE6d.htm)|Skinstitch|
@@ -64,7 +48,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[an7tww93Y4pQ8HP6.htm](pathfinder-bestiary-3/an7tww93Y4pQ8HP6.htm)|Baykok|
 |[aQusm2Uh1tw00IVb.htm](pathfinder-bestiary-3/aQusm2Uh1tw00IVb.htm)|Bore Worm Swarm|
 |[aqvMwn6885CJEmCO.htm](pathfinder-bestiary-3/aqvMwn6885CJEmCO.htm)|Garuda|
-|[aX0zhmJGzpnwCwMr.htm](pathfinder-bestiary-3/aX0zhmJGzpnwCwMr.htm)|Feral Skull Swarm|
 |[AxfH7V8A38VVugYo.htm](pathfinder-bestiary-3/AxfH7V8A38VVugYo.htm)|Lampad|
 |[AybyC0n2CWNbXAbK.htm](pathfinder-bestiary-3/AybyC0n2CWNbXAbK.htm)|Popobawa|
 |[aZBp1m5C9nXRgxHA.htm](pathfinder-bestiary-3/aZBp1m5C9nXRgxHA.htm)|Trilobite|
@@ -89,7 +72,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[DIJQ1UvfDDnDP545.htm](pathfinder-bestiary-3/DIJQ1UvfDDnDP545.htm)|Cave Giant|
 |[dkDbXG0boTkddHSG.htm](pathfinder-bestiary-3/dkDbXG0boTkddHSG.htm)|Melixie|
 |[dKFzkdgTntTm8ydA.htm](pathfinder-bestiary-3/dKFzkdgTntTm8ydA.htm)|Wizard Sponge (Crypt)|
-|[DmQM0QTSPJ7YtpMg.htm](pathfinder-bestiary-3/DmQM0QTSPJ7YtpMg.htm)|Girtablilu Seer|
 |[dniiLeUhXaq5CElX.htm](pathfinder-bestiary-3/dniiLeUhXaq5CElX.htm)|Arboreal Reaper|
 |[dVJkFPCqJcPjImdG.htm](pathfinder-bestiary-3/dVJkFPCqJcPjImdG.htm)|Mix Couatl|
 |[e6r8AGxfp8PDXaZk.htm](pathfinder-bestiary-3/e6r8AGxfp8PDXaZk.htm)|Levaloch|
@@ -126,7 +108,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HEgGta4uVmwdkw3E.htm](pathfinder-bestiary-3/HEgGta4uVmwdkw3E.htm)|Nikaramsa|
 |[hh7OuFB5BQIrfeRT.htm](pathfinder-bestiary-3/hh7OuFB5BQIrfeRT.htm)|Kasa-obake|
 |[HhuHFmaq69ekSgEl.htm](pathfinder-bestiary-3/HhuHFmaq69ekSgEl.htm)|Shantak|
-|[HiazGJoPkJ3gQVAO.htm](pathfinder-bestiary-3/HiazGJoPkJ3gQVAO.htm)|Grioth Cultist|
 |[hiDSC6gqneQTB106.htm](pathfinder-bestiary-3/hiDSC6gqneQTB106.htm)|Fuath|
 |[hNW3X8MbQQ9pUMiR.htm](pathfinder-bestiary-3/hNW3X8MbQQ9pUMiR.htm)|Buso Farmer|
 |[HObVT8aJnsx5nnqu.htm](pathfinder-bestiary-3/HObVT8aJnsx5nnqu.htm)|Tikbalang|
@@ -136,7 +117,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[iD32uhsjUGLvC2q6.htm](pathfinder-bestiary-3/iD32uhsjUGLvC2q6.htm)|Bone Ship|
 |[IijUBFE1vhvgowhD.htm](pathfinder-bestiary-3/IijUBFE1vhvgowhD.htm)|Giant Porcupine|
 |[iiXjQ1SchGiotpVp.htm](pathfinder-bestiary-3/iiXjQ1SchGiotpVp.htm)|Skeleton Infantry|
-|[ilGMPBvjT9ovIiXB.htm](pathfinder-bestiary-3/ilGMPBvjT9ovIiXB.htm)|Gurgist Mauler|
 |[iLoVkzve6Nu3gErr.htm](pathfinder-bestiary-3/iLoVkzve6Nu3gErr.htm)|Herexen|
 |[IMrnOMr3GtUFKyuV.htm](pathfinder-bestiary-3/IMrnOMr3GtUFKyuV.htm)|Ice Worm Swarm|
 |[iNgKGHzMOAHjWQeI.htm](pathfinder-bestiary-3/iNgKGHzMOAHjWQeI.htm)|Android Infiltrator|
@@ -184,7 +164,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[NikAalo85JWVE6d2.htm](pathfinder-bestiary-3/NikAalo85JWVE6d2.htm)|Nagaji Soldier|
 |[nIXWanjtyklfwH7u.htm](pathfinder-bestiary-3/nIXWanjtyklfwH7u.htm)|Tiddalik|
 |[NldgVUIHB3asozHm.htm](pathfinder-bestiary-3/NldgVUIHB3asozHm.htm)|Wyrmwraith|
-|[nnI7oj1BcetLUTYo.htm](pathfinder-bestiary-3/nnI7oj1BcetLUTYo.htm)|Etioling Blightmage|
 |[NoAyIhPpqJ1WE1pF.htm](pathfinder-bestiary-3/NoAyIhPpqJ1WE1pF.htm)|Kovintus Geomancer|
 |[Nq0MR5YsuglgPi0m.htm](pathfinder-bestiary-3/Nq0MR5YsuglgPi0m.htm)|Ostovite|
 |[NQzkW5D28zIGESBt.htm](pathfinder-bestiary-3/NQzkW5D28zIGESBt.htm)|Sumbreiva|
@@ -310,9 +289,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Yg7R4UgB1FjF2Euu.htm](pathfinder-bestiary-3/Yg7R4UgB1FjF2Euu.htm)|Bauble Beast|
 |[yi9g7D49uGvAdGDP.htm](pathfinder-bestiary-3/yi9g7D49uGvAdGDP.htm)|Mi-Go|
 |[YLLyd6Jb4Zqmz0lo.htm](pathfinder-bestiary-3/YLLyd6Jb4Zqmz0lo.htm)|Aphorite Sharpshooter|
-|[YO3aTYRNGXWiSRal.htm](pathfinder-bestiary-3/YO3aTYRNGXWiSRal.htm)|Sorcerous Skull Swarm|
 |[Yq9TcUof5D117yns.htm](pathfinder-bestiary-3/Yq9TcUof5D117yns.htm)|Camel|
-|[YsgpbtWVT3q0OLWv.htm](pathfinder-bestiary-3/YsgpbtWVT3q0OLWv.htm)|Empress Lava Worm|
 |[ytYKPtPotjvsWoSl.htm](pathfinder-bestiary-3/ytYKPtPotjvsWoSl.htm)|Ancient Sovereign Dragon|
 |[YX0CqhKKtRzoLkuP.htm](pathfinder-bestiary-3/YX0CqhKKtRzoLkuP.htm)|Water Wisp|
 |[Z5RBfl8x39uFpDUn.htm](pathfinder-bestiary-3/Z5RBfl8x39uFpDUn.htm)|Myceloid|
@@ -367,3 +344,27 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[0sQg5UM8dQY7fBhQ.htm](pathfinder-bestiary-3/0sQg5UM8dQY7fBhQ.htm)|Ganzi Martial Artist|Artiste martial Ganzi|libre|
+|[1DzJjE7OnRDY5Pir.htm](pathfinder-bestiary-3/1DzJjE7OnRDY5Pir.htm)|Giant Opossum|Opossum géant|libre|
+|[2DrerJYEJon5U6Fx.htm](pathfinder-bestiary-3/2DrerJYEJon5U6Fx.htm)|Slithering Pit|Fosse ondulante|libre|
+|[2L2iQ9X8tYPH2K9s.htm](pathfinder-bestiary-3/2L2iQ9X8tYPH2K9s.htm)|Tidehawk|Faucon des marées|libre|
+|[2pQoqcUxyHsTLhjw.htm](pathfinder-bestiary-3/2pQoqcUxyHsTLhjw.htm)|Viper Swarm|Nuée de vipères|libre|
+|[2vvPHlLhgDGr8fOF.htm](pathfinder-bestiary-3/2vvPHlLhgDGr8fOF.htm)|Shae|Shae|libre|
+|[324ZRtmDYulbw0CM.htm](pathfinder-bestiary-3/324ZRtmDYulbw0CM.htm)|Lifeleecher Brawler|Bagarreur Taxe-vie (Mortique)|libre|
+|[3OrdGXuPXSlrLlbf.htm](pathfinder-bestiary-3/3OrdGXuPXSlrLlbf.htm)|Wyrwood Sneak|Wyr-bois furtif|libre|
+|[3SYFPEaAl4g5G3GK.htm](pathfinder-bestiary-3/3SYFPEaAl4g5G3GK.htm)|Kitsune Trickster|Mystificateur Kitsune|libre|
+|[4cfi0BksjHbFVY0A.htm](pathfinder-bestiary-3/4cfi0BksjHbFVY0A.htm)|Flumph|Flumph|libre|
+|[4glVe36VTR8HTjcE.htm](pathfinder-bestiary-3/4glVe36VTR8HTjcE.htm)|Girtablilu Sentry|Sentinelle Girtablilu|libre|
+|[4vwMHy39IQyb7I7p.htm](pathfinder-bestiary-3/4vwMHy39IQyb7I7p.htm)|Incutilis|Incutilis|libre|
+|[4WMThCqvHV1aaBwa.htm](pathfinder-bestiary-3/4WMThCqvHV1aaBwa.htm)|Animated Colossus|Colosse animé|libre|
+|[5bBfMpcn0PuO1jTL.htm](pathfinder-bestiary-3/5bBfMpcn0PuO1jTL.htm)|Lava Worm Swarm|Nuée de Ver de lave|libre|
+|[5dZaPSltPYYIupeq.htm](pathfinder-bestiary-3/5dZaPSltPYYIupeq.htm)|Grioth Scout|Éclaireur Grioth|libre|
+|[5WAy9PYWu1PuQKXg.htm](pathfinder-bestiary-3/5WAy9PYWu1PuQKXg.htm)|Clacking Skull Swarm|Nuée de crânes caquetant|libre|
+|[60bknqrpHs2lL4pt.htm](pathfinder-bestiary-3/60bknqrpHs2lL4pt.htm)|Rat Snake Swarm|Nuée de serpents-rats|libre|
+|[aX0zhmJGzpnwCwMr.htm](pathfinder-bestiary-3/aX0zhmJGzpnwCwMr.htm)|Feral Skull Swarm|Nuée de crânes sauvages|libre|
+|[DmQM0QTSPJ7YtpMg.htm](pathfinder-bestiary-3/DmQM0QTSPJ7YtpMg.htm)|Girtablilu Seer|Voyant Girtablilu|libre|
+|[HiazGJoPkJ3gQVAO.htm](pathfinder-bestiary-3/HiazGJoPkJ3gQVAO.htm)|Grioth Cultist|Cultiste Grioth|libre|
+|[ilGMPBvjT9ovIiXB.htm](pathfinder-bestiary-3/ilGMPBvjT9ovIiXB.htm)|Gurgist Mauler|Cogneur Gargouillier (Mortique)|libre|
+|[nnI7oj1BcetLUTYo.htm](pathfinder-bestiary-3/nnI7oj1BcetLUTYo.htm)|Etioling Blightmage|Fléau-Mage Étiolier (Mortique)|libre|
+|[YO3aTYRNGXWiSRal.htm](pathfinder-bestiary-3/YO3aTYRNGXWiSRal.htm)|Sorcerous Skull Swarm|Nuée de crânes sorciers|libre|
+|[YsgpbtWVT3q0OLWv.htm](pathfinder-bestiary-3/YsgpbtWVT3q0OLWv.htm)|Empress Lava Worm|Ver de lave empereur|libre|

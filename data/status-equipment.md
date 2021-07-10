@@ -1,19 +1,18 @@
 # État de la traduction (equipment)
 
  * **changé**: 272
- * **officielle**: 826
- * **aucune**: 34
- * **libre**: 707
+ * **officielle**: 821
+ * **libre**: 694
+ * **aucune**: 33
 
 
-Dernière mise à jour: 2021-07-08 11:42 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[armor-01-0KHgAaDi3tmu32Hq.htm](equipment/armor-01-0KHgAaDi3tmu32Hq.htm)|Rite of Reinforcement Exoskeleton|
 |[consumable-04-gza0CcZEYhPKIYEk.htm](equipment/consumable-04-gza0CcZEYhPKIYEk.htm)|Spider Mold|
 |[consumable-11-ARY8jRkg8aUJ6Zdv.htm](equipment/consumable-11-ARY8jRkg8aUJ6Zdv.htm)|Lesser Bonmuan Swapping Stone|
 |[consumable-14-JukXiZWas5RJaE3M.htm](equipment/consumable-14-JukXiZWas5RJaE3M.htm)|Moderate Bonmuan Swapping Stone|
@@ -336,6 +335,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-00-MPcM4Wt6KmWE2kGL.htm](equipment/armor-00-MPcM4Wt6KmWE2kGL.htm)|Chain Shirt|Chemise de mailles|officielle|
 |[armor-00-YMQr577asquZIP65.htm](equipment/armor-00-YMQr577asquZIP65.htm)|Scale Mail|Armure d'écailles|officielle|
 |[armor-00-zBYEU9E7034ENCmh.htm](equipment/armor-00-zBYEU9E7034ENCmh.htm)|Padded Armor|Armure matelassée|officielle|
+|[armor-01-0KHgAaDi3tmu32Hq.htm](equipment/armor-01-0KHgAaDi3tmu32Hq.htm)|Rite of Reinforcement Exoskeleton|exosquelette du rite de renforcement|libre|
 |[armor-01-pRoikbRo5HFW6YUB.htm](equipment/armor-01-pRoikbRo5HFW6YUB.htm)|Half Plate|Armure de plates|officielle|
 |[armor-02-1xUIdz23mIlYWGPL.htm](equipment/armor-02-1xUIdz23mIlYWGPL.htm)|Silver Shield (Low-Grade)|Bouclier en argent (basse qualité)|officielle|
 |[armor-02-5E6l3RheSyl99G3m.htm](equipment/armor-02-5E6l3RheSyl99G3m.htm)|Cold Iron Shield (Low-Grade)|Bouclier en fer froid (basse qualité)|officielle|
@@ -1381,7 +1381,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-25-2VpuNz8EyXpvUf7P.htm](equipment/equipment-25-2VpuNz8EyXpvUf7P.htm)|Tears of the Last Azlanti|Larmes du dernier Azlanti|libre|
 |[equipment-25-KEICt6Tusa3JdTE8.htm](equipment/equipment-25-KEICt6Tusa3JdTE8.htm)|Elder Sign|Sceau des anciens|officielle|
 |[equipment-26-SHzZSENlkz3Qy46j.htm](equipment/equipment-26-SHzZSENlkz3Qy46j.htm)|Horns of Naraga|Cornes de Nagara|officielle|
-|[equipment-35-4A8SFipG78SMWQEU.htm](equipment/equipment-35-4A8SFipG78SMWQEU.htm)|Aeon Stone (Pearly White Spindle)|Pierre d'éternité (fuseau blanc perle)|libre|
 |[kit-2req0jGaxz8hScdB.htm](equipment/kit-2req0jGaxz8hScdB.htm)|Adventurer's Pack|Pack d'aventurier|officielle|
 |[kit-5WT7gdzHNb5BG1J0.htm](equipment/kit-5WT7gdzHNb5BG1J0.htm)|Class Kit (Witch)|Kit de classe (sorcière)|libre|
 |[kit-7E3sWotW56biNttA.htm](equipment/kit-7E3sWotW56biNttA.htm)|Class Kit (Ranger)|Kit de classe (Rôdeur)|officielle|
@@ -1551,24 +1550,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-00-zdiHlKtd4Fy1aIPC.htm](equipment/treasure-00-zdiHlKtd4Fy1aIPC.htm)|Life‑size sculpture by an expert|Sculpture à l'échelle (par un expert)|libre|
 |[treasure-00-ZQXCEq8IyGf3WnEj.htm](equipment/treasure-00-ZQXCEq8IyGf3WnEj.htm)|Diamond ring with platinum band|Anneau de platine avec un diamant|libre|
 |[treasure-00-zRsMLEqh2t2hqSw4.htm](equipment/treasure-00-zRsMLEqh2t2hqSw4.htm)|Jewel‑encrusted gold altar|Autel en or incrusté de gemmes|libre|
-|[treasure-5ix9inqdHLksqeoR.htm](equipment/treasure-5ix9inqdHLksqeoR.htm)|Gold necklace with peridots|Collier en or serti de péridots|libre|
-|[treasure-7SPJO9xr89N8E23s.htm](equipment/treasure-7SPJO9xr89N8E23s.htm)|Agate|Agate|officielle|
-|[treasure-cSBupUqjsHJwivbp.htm](equipment/treasure-cSBupUqjsHJwivbp.htm)|Etched copper ewer|aiguière de cuivre gravée|libre|
-|[treasure-D8gzHTvP0uFxjwyA.htm](equipment/treasure-D8gzHTvP0uFxjwyA.htm)|Bloodstone|Héliotrope|libre|
-|[treasure-DE4880DRtsRqax1N.htm](equipment/treasure-DE4880DRtsRqax1N.htm)|Lapis lazuli|Lapis lazuli|libre|
-|[treasure-F4YgvB74p8kwif1t.htm](equipment/treasure-F4YgvB74p8kwif1t.htm)|Ceremonial shortsword with spinels|épée courte cérémonielle avec des spinelles|libre|
-|[treasure-fUENXLX3tzi33CcB.htm](equipment/treasure-fUENXLX3tzi33CcB.htm)|Silk ceremonial armor|Armure de soie cérémonielle|libre|
-|[treasure-hhJfZgLhPaPh5V7e.htm](equipment/treasure-hhJfZgLhPaPh5V7e.htm)|Pearl, black|Perle noire|libre|
-|[treasure-ja5rYjVRwwUXWtOd.htm](equipment/treasure-ja5rYjVRwwUXWtOd.htm)|Bronze chalice with bloodstones|Calice en bronze avec des héliotropes|libre|
-|[treasure-JYxnuXg9MV6y1gpQ.htm](equipment/treasure-JYxnuXg9MV6y1gpQ.htm)|Amphora with lavish scenes|Amphore portant des scènes somptueuses|officielle|
-|[treasure-nBY7ueX18tcSiica.htm](equipment/treasure-nBY7ueX18tcSiica.htm)|Platinum‑framed monocle|Monocle à la monture de platine|libre|
-|[treasure-nIlx1IQhYJfQtpVF.htm](equipment/treasure-nIlx1IQhYJfQtpVF.htm)|Alabaster|Albâtre|officielle|
-|[treasure-qFkhYAeCxYci8jgk.htm](equipment/treasure-qFkhYAeCxYci8jgk.htm)|Amber|Ambre|officielle|
-|[treasure-r7QGx0YFZCR0W5iu.htm](equipment/treasure-r7QGx0YFZCR0W5iu.htm)|Alabaster idol|idôle en albâtre|officielle|
-|[treasure-RNnVb83lRRUXg8hG.htm](equipment/treasure-RNnVb83lRRUXg8hG.htm)|Azurite|Azurite|libre|
-|[treasure-Ujaoyu3WE6V7Y8Vg.htm](equipment/treasure-Ujaoyu3WE6V7Y8Vg.htm)|Rhodochrosite|Rhodochrosite|libre|
-|[treasure-zdiHlKtd4Fy1aIPC.htm](equipment/treasure-zdiHlKtd4Fy1aIPC.htm)|Life‑size sculpture by an expert|Sculpture à l'échelle (par un expert)|libre|
-|[treasure-zRsMLEqh2t2hqSw4.htm](equipment/treasure-zRsMLEqh2t2hqSw4.htm)|Jewel‑encrusted gold altar|Autel en or incrusté de gemmes|libre|
 |[weapon-00-0lCXehyFlXdYxDfA.htm](equipment/weapon-00-0lCXehyFlXdYxDfA.htm)|Bladed Diabolo|Diabolo à lames|libre|
 |[weapon-00-1U7Laa7Yt7i3G77L.htm](equipment/weapon-00-1U7Laa7Yt7i3G77L.htm)|Gnome Hooked Hammer|Marteau-piolet gnome|officielle|
 |[weapon-00-1Uvz5xJpE5UvOFjJ.htm](equipment/weapon-00-1Uvz5xJpE5UvOFjJ.htm)|Wish Knife|Couteau à souhait|libre|
