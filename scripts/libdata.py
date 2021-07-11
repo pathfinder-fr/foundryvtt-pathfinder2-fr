@@ -227,7 +227,7 @@ def fileToData(filepath):
                 data['spoilersEN'] = line[11:].strip()
             elif line.startswith("SpoilersFR:"):
                 data['spoilersFR'] = line[11:].strip()
-            elif line.startswith("------ Benefits and spoiler ----"):
+            elif line.startswith("------ Benefits") or line.startswith("------ Spoilers"):
                 continue
             elif line.startswith("------ Description (en) ------"):
                 isDescEN = True
