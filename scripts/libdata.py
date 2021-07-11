@@ -311,23 +311,19 @@ def dataToFile(data, filepath):
         if 'oldstatus' in data:
             df.write('État d\'origine: ' + data['oldstatus'] + '\n')
         df.write('\n')
-        try:
-            data['benefitsEN']
-            df.write('------ Benefits and spoiler ----' + '\n')
-            df.write("Benefits: %s\n" % data['benefitsEN'])
-            df.write("Avantage: %s\n" % data['benefitsFR'])
-            if not len(data['spoilers']) <= 1:
-                df.write("SpoilersEN: %s\n" % data['spoilers'])
-                spoilers = ""
-                df.write("SpoilersFR: %s\n" % spoilers)
-            df.write("\n")
-        except:
-            try:
-                data['benefitsFR']
-                df.write('------ Benefits and spoiler ----' + '\n')
+        if 'benefitsEN' in data or 'benefitsFR' in data:
+            df.write('------ Benefits ----' + '\n')
+            if 'benefitsEN' in data:
+                df.write("Benefits: %s\n" % data['benefitsEN'])
+            if 'benefitsFR' in data:
                 df.write("Avantage: %s\n" % data['benefitsFR'])
-            except:
-                x=0
+        if 'spoilersEN' in data or 'spoilersFR' in data:
+            df.write('------ Spoilers ----' + '\n')
+            if 'spoilersEN' in data:
+                df.write("SpoilersEN: %s\n" % data['spoilersEN'])
+            if 'spoilersFR' in data:
+                df.write("SpoilersFR: %s\n" % data['spoilersFR'])
+
         df.write('------ Description (en) ------' + '\n')
         df.write(data['descrEN'] + '\n')
         df.write('------ Description (fr) ------' + '\n')
