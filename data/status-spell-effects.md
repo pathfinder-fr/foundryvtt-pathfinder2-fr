@@ -6,7 +6,7 @@
  * **changé**: 1
 
 
-Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-11 16:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -157,7 +157,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03-amTa9jSml9ioKduN.htm](spell-effects/03-amTa9jSml9ioKduN.htm)|Spell Effect: Insect Form (Beetle)|Effet : Forme d'insecte (Scarabée)|libre|
 |[03-bOjuEX3qj7XAOoDF.htm](spell-effects/03-bOjuEX3qj7XAOoDF.htm)|Spell Effect: Insect Form (Scorpion)|Effet : Forme d'insecte (Scorpion)|libre|
 |[03-l9HRQggofFGIxEse.htm](spell-effects/03-l9HRQggofFGIxEse.htm)|Spell Effect: Heroism|Effet : Héroïsme|libre|
-|[03-llrOM8rPP9nxIuEN.htm](spell-effects/03-llrOM8rPP9nxIuEN.htm)|Spell Effect: Insect Form (Mantis)|Effet Forme d'insecte (Mante)|libre|
+|[03-llrOM8rPP9nxIuEN.htm](spell-effects/03-llrOM8rPP9nxIuEN.htm)|Spell Effect: Insect Form (Mantis)|Effet : Forme d'insecte (Mante)|libre|
 |[04-0Cyf07wboRp4CmcQ.htm](spell-effects/04-0Cyf07wboRp4CmcQ.htm)|Spell Effect: Dinosaur Form (Ankylosaurus)|Effet : Forme de dinosaure (Ankylosaure)|libre|
 |[04-0QVufU5o3xIxiHmP.htm](spell-effects/04-0QVufU5o3xIxiHmP.htm)|Spell Effect: Aerial Form (Bird)|Effet : Forme aérienne (Oiseau)|libre|
 |[04-0s6YaL3IjqECmjab.htm](spell-effects/04-0s6YaL3IjqECmjab.htm)|Spell Effect: Roar of the Wyrm|Effet : Rugissement du Ver|libre|

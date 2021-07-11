@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **libre**: 298
+ * **libre**: 293
  * **officielle**: 521
- * **changé**: 65
+ * **changé**: 70
  * **aucune**: 10
 
 
-Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-11 16:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -29,6 +29,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[abjuration-01-dFejDNEmVj3CwYLL.htm](spells/abjuration-01-dFejDNEmVj3CwYLL.htm)|Blood Ward|Protection du sang|changé|
+|[abjuration-02-fWU7Qjp1JiX9g6eg.htm](spells/abjuration-02-fWU7Qjp1JiX9g6eg.htm)|Animus Mine|Mine psychique|changé|
 |[abjuration-05-h47yv6j6x1pUtzlr.htm](spells/abjuration-05-h47yv6j6x1pUtzlr.htm)|Arcane Countermeasure|Contre-mesure arcanique|changé|
 |[conjuration-01-tWzxuJdbXqvskdIo.htm](spells/conjuration-01-tWzxuJdbXqvskdIo.htm)|Augment Summoning|Convocation améliorée|changé|
 |[conjuration-05-115Xp9E38CJENhNS.htm](spells/conjuration-05-115Xp9E38CJENhNS.htm)|Passwall|Passe-muraille|changé|
@@ -38,10 +39,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-01-WJOQryAODgYmrL6g.htm](spells/divination-01-WJOQryAODgYmrL6g.htm)|Imprint Message|Imprimer un message|changé|
 |[divination-02-pZTqGY1MLRjgKasV.htm](spells/divination-02-pZTqGY1MLRjgKasV.htm)|Darkvision|Vision dans le noir|changé|
 |[divination-05-OAt2ZEns1gIOCgrn.htm](spells/divination-05-OAt2ZEns1gIOCgrn.htm)|Synesthesia|Synesthésie|changé|
+|[divination-07-G56DJkxlUjFv0C4Z.htm](spells/divination-07-G56DJkxlUjFv0C4Z.htm)|Time Beacon|Repère temporel|changé|
 |[enchantment-01-d2pi7laQkzlr3wrS.htm](spells/enchantment-01-d2pi7laQkzlr3wrS.htm)|Ancestral Touch|Toucher ancestral|changé|
 |[enchantment-01-GeUbPvwdZ4B4l0up.htm](spells/enchantment-01-GeUbPvwdZ4B4l0up.htm)|Stoke the Heart|Enflammer les cœurs|changé|
 |[enchantment-01-NNoKWiWKqJkdD2ln.htm](spells/enchantment-01-NNoKWiWKqJkdD2ln.htm)|Veil of Dreams|Voile de rêves|changé|
 |[enchantment-01-pHrVvoTKygXeczVG.htm](spells/enchantment-01-pHrVvoTKygXeczVG.htm)|Nymph's Token|Amulette de la nymphe|changé|
+|[enchantment-01-r8g7oSumKOHDqJsd.htm](spells/enchantment-01-r8g7oSumKOHDqJsd.htm)|Agitate|Agitation|changé|
 |[enchantment-01-Vctwx1ewa8HUOA94.htm](spells/enchantment-01-Vctwx1ewa8HUOA94.htm)|Diabolic Edict|Édit diabolique|changé|
 |[enchantment-03-qhJfRnkCRrMI4G1O.htm](spells/enchantment-03-qhJfRnkCRrMI4G1O.htm)|Aberrant Whispers|Murmures aberrants|changé|
 |[enchantment-05-GP3wewkQXEPrLxYj.htm](spells/enchantment-05-GP3wewkQXEPrLxYj.htm)|Subconscious Suggestion|Suggestion subconsciente|changé|
@@ -55,6 +58,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-01-SE0fbgBj7atuukdv.htm](spells/evocation-01-SE0fbgBj7atuukdv.htm)|Cloak of Shadow|Manteau d'ombre|changé|
 |[evocation-02-AsKLseOo8hwv5Jha.htm](spells/evocation-02-AsKLseOo8hwv5Jha.htm)|Invoke the Crimson Oath|Invoquer le Serment écarlate|changé|
 |[evocation-02-Dbd5W6G8U2vzWolN.htm](spells/evocation-02-Dbd5W6G8U2vzWolN.htm)|Consecrate|consécration|changé|
+|[evocation-02-pMTltbI3S3UIuFaR.htm](spells/evocation-02-pMTltbI3S3UIuFaR.htm)|Sun Blade|Lame solaire|changé|
 |[evocation-03-B8aCUMCHCIMUCEVK.htm](spells/evocation-03-B8aCUMCHCIMUCEVK.htm)|Elemental Motion|Mobilité élémentaire|changé|
 |[evocation-03-eIPIZp2FUbFcLNdj.htm](spells/evocation-03-eIPIZp2FUbFcLNdj.htm)|Pillar of Water|Pilier d'eau|changé|
 |[evocation-03-kRsmUlSWhi6PJvZ7.htm](spells/evocation-03-kRsmUlSWhi6PJvZ7.htm)|Angelic Wings|Ailes d'ange|changé|
@@ -78,6 +82,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-01-8RWfKConLYFZpQ9X.htm](spells/transmutation-01-8RWfKConLYFZpQ9X.htm)|Wild Shape|Morphologie sauvage|changé|
 |[transmutation-01-K8vvrOgW4bGakXxm.htm](spells/transmutation-01-K8vvrOgW4bGakXxm.htm)|Dragon Claws|Griffes de dragon|changé|
 |[transmutation-02-wp09USMB3GIW1qbp.htm](spells/transmutation-02-wp09USMB3GIW1qbp.htm)|Animal Form|Forme animale|changé|
+|[transmutation-03-HcIAQZjNXHemoXSU.htm](spells/transmutation-03-HcIAQZjNXHemoXSU.htm)|Shifting Sand|Sable mouvant|changé|
 |[transmutation-03-XI6Lzd2B5pernkPd.htm](spells/transmutation-03-XI6Lzd2B5pernkPd.htm)|Insect Form|Forme d'insecte|changé|
 |[transmutation-04-cOwSsSXRsBaXUvlr.htm](spells/transmutation-04-cOwSsSXRsBaXUvlr.htm)|Stasis|Stase|changé|
 |[transmutation-04-KhM8MhoUgoUjBMIz.htm](spells/transmutation-04-KhM8MhoUgoUjBMIz.htm)|Dinosaur Form|Forme de dinosaure|changé|
@@ -129,7 +134,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-02-9HpwDN4MYQJnW0LG.htm](spells/abjuration-02-9HpwDN4MYQJnW0LG.htm)|Dispel Magic|Dissipation de la magie|officielle|
 |[abjuration-02-dZV8nZUKRhGIr6g9.htm](spells/abjuration-02-dZV8nZUKRhGIr6g9.htm)|Heartbond|Lien du cœur|libre|
 |[abjuration-02-Fr58LDSrbndgld9n.htm](spells/abjuration-02-Fr58LDSrbndgld9n.htm)|Resist Energy|Résistance à l'énergie|officielle|
-|[abjuration-02-fWU7Qjp1JiX9g6eg.htm](spells/abjuration-02-fWU7Qjp1JiX9g6eg.htm)|Animus Mine|Mine psychique|libre|
 |[abjuration-02-FzAtX8yXBjTaisJK.htm](spells/abjuration-02-FzAtX8yXBjTaisJK.htm)|Undetectable Alignment|Alignement indétectable|officielle|
 |[abjuration-02-Y8cSjhU33oUqccxJ.htm](spells/abjuration-02-Y8cSjhU33oUqccxJ.htm)|Brand the Impenitent|Marquer l'impénitent|libre|
 |[abjuration-02-YWrfKetOqDwVFut7.htm](spells/abjuration-02-YWrfKetOqDwVFut7.htm)|Barkskin|Peau d'écorce|officielle|
@@ -366,7 +370,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-06-XULNb8ItUsfupxqH.htm](spells/divination-06-XULNb8ItUsfupxqH.htm)|Dread Secret|Secret effroyable|libre|
 |[divination-06-Zvg0FWzClGbzucFd.htm](spells/divination-06-Zvg0FWzClGbzucFd.htm)|Speaking Sky|Ciel parlant|libre|
 |[divination-07-AlbpWWN87yGegoAF.htm](spells/divination-07-AlbpWWN87yGegoAF.htm)|True Target|Cible verrouillée|officielle|
-|[divination-07-G56DJkxlUjFv0C4Z.htm](spells/divination-07-G56DJkxlUjFv0C4Z.htm)|Time Beacon|Repère temporel|libre|
 |[divination-07-hp6Q64dl7xbdn4gQ.htm](spells/divination-07-hp6Q64dl7xbdn4gQ.htm)|Legend Lore|Mythes et légendes|officielle|
 |[divination-07-rsZ5c0AUyywe5yoK.htm](spells/divination-07-rsZ5c0AUyywe5yoK.htm)|Retrocognition|Rétrocognition|officielle|
 |[divination-08-CeSh8QcVnqP5OlLj.htm](spells/divination-08-CeSh8QcVnqP5OlLj.htm)|Discern Location|Localisation suprême|officielle|
@@ -400,7 +403,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-01-o4lRVTwSxnOOn5vl.htm](spells/enchantment-01-o4lRVTwSxnOOn5vl.htm)|Sleep|Sommeil|officielle|
 |[enchantment-01-pBevG6bSQOiyflev.htm](spells/enchantment-01-pBevG6bSQOiyflev.htm)|Befuddle|Embrouiller|libre|
 |[enchantment-01-Q25JQAgnJSGgFDKZ.htm](spells/enchantment-01-Q25JQAgnJSGgFDKZ.htm)|Veil of Confidence|Voile de confiance|officielle|
-|[enchantment-01-r8g7oSumKOHDqJsd.htm](spells/enchantment-01-r8g7oSumKOHDqJsd.htm)|Agitate|Agitation|libre|
 |[enchantment-01-rerNA6YZsdxuJYt3.htm](spells/enchantment-01-rerNA6YZsdxuJYt3.htm)|Déjà Vu|Déjà vu|libre|
 |[enchantment-01-szIyEsvihc5e1w8n.htm](spells/enchantment-01-szIyEsvihc5e1w8n.htm)|Soothe|Apaiser|officielle|
 |[enchantment-01-T90ij2uu6ZaBaSXV.htm](spells/enchantment-01-T90ij2uu6ZaBaSXV.htm)|Lament|Lamentation|libre|
@@ -534,7 +536,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-02-Fq9yCbqI2RDt6Orw.htm](spells/evocation-02-Fq9yCbqI2RDt6Orw.htm)|Spiritual Weapon|Arme spirituelle|officielle|
 |[evocation-02-HRb2doyaLtaoCfi3.htm](spells/evocation-02-HRb2doyaLtaoCfi3.htm)|Faerie Fire|Lueurs féériques|officielle|
 |[evocation-02-mrDi3v933gsmnw25.htm](spells/evocation-02-mrDi3v933gsmnw25.htm)|Telekinetic Maneuver|Manœuvre télékinésique|officielle|
-|[evocation-02-pMTltbI3S3UIuFaR.htm](spells/evocation-02-pMTltbI3S3UIuFaR.htm)|Sun Blade|Lame solaire|libre|
 |[evocation-02-Popa5umI3H33levx.htm](spells/evocation-02-Popa5umI3H33levx.htm)|Rime Slick|Couche de givre|libre|
 |[evocation-02-v4KzRPol5XQOOmk0.htm](spells/evocation-02-v4KzRPol5XQOOmk0.htm)|Heat Metal|Métal brûlant|libre|
 |[evocation-02-WqPhJNzLa8vSjrH6.htm](spells/evocation-02-WqPhJNzLa8vSjrH6.htm)|Animated Assault|Assaut animé|libre|
@@ -871,7 +872,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-03-AMEu5zzLN7uCX645.htm](spells/transmutation-03-AMEu5zzLN7uCX645.htm)|Ghostly Weapon|Arme fantomatique|officielle|
 |[transmutation-03-B3eLlbaPxOYHcs1o.htm](spells/transmutation-03-B3eLlbaPxOYHcs1o.htm)|Curse Of Lost Time|Malédiction du temps perdu|libre|
 |[transmutation-03-gPvtmKMRpg9I9D7H.htm](spells/transmutation-03-gPvtmKMRpg9I9D7H.htm)|Earthbind|Cloué à terre|officielle|
-|[transmutation-03-HcIAQZjNXHemoXSU.htm](spells/transmutation-03-HcIAQZjNXHemoXSU.htm)|Shifting Sand|Sable mouvant|libre|
 |[transmutation-03-ilGsyGLGjjIPHbyP.htm](spells/transmutation-03-ilGsyGLGjjIPHbyP.htm)|Embrace the Pit|Étreinte de la fosse|officielle|
 |[transmutation-03-KktHf7zIAWOr499h.htm](spells/transmutation-03-KktHf7zIAWOr499h.htm)|Ranger's Bramble|Roncier du rôdeur|libre|
 |[transmutation-03-kWh8sJH7yawidMyW.htm](spells/transmutation-03-kWh8sJH7yawidMyW.htm)|Shrink Item|Rétrécir un objet|officielle|
@@ -904,7 +904,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-06-29AyhknPKiDBcy8s.htm](spells/transmutation-06-29AyhknPKiDBcy8s.htm)|Statuette|Statuette|libre|
 |[transmutation-06-dN8QBNuTiaBHCKUe.htm](spells/transmutation-06-dN8QBNuTiaBHCKUe.htm)|Baleful Polymorph|Métamorphose funeste|libre|
 |[transmutation-06-MMCQsh12TPaDdPbV.htm](spells/transmutation-06-MMCQsh12TPaDdPbV.htm)|Righteous Might|Force du colosse|officielle|
-|[transmutation-06-NCUXsaj2yFxOVhrK.htm](spells/transmutation-06-NCUXsaj2yFxOVhrK.htm)|Create Skinstitch|Création de chose de peaux recousues|libre|
+|[transmutation-06-NCUXsaj2yFxOVhrK.htm](spells/transmutation-06-NCUXsaj2yFxOVhrK.htm)|Create Skinstitch|Création de Maille-peaux|libre|
 |[transmutation-06-Pr1ruNTbzGn3H9w5.htm](spells/transmutation-06-Pr1ruNTbzGn3H9w5.htm)|Stone to Flesh|Pierre en chair|officielle|
 |[transmutation-06-xEjGEBvTfDJECSki.htm](spells/transmutation-06-xEjGEBvTfDJECSki.htm)|Ancestral Form|Forme ancestrale|libre|
 |[transmutation-06-znv4ECL7ZtuiagtA.htm](spells/transmutation-06-znv4ECL7ZtuiagtA.htm)|Flesh to Stone|Chair en pierre|officielle|

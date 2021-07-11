@@ -2,28 +2,17 @@
 
  * **changé**: 18
  * **vide**: 11
- * **libre**: 24
- * **aucune**: 287
+ * **libre**: 36
+ * **aucune**: 275
 
 
-Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-11 16:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[61atKNQVF73vWpqc.htm](pathfinder-bestiary-3/61atKNQVF73vWpqc.htm)|Divine Warden Of Nethys|
-|[6A317pomsGPzW17M.htm](pathfinder-bestiary-3/6A317pomsGPzW17M.htm)|Munavri Spellblade|
-|[6AvQH0XXccorLE6d.htm](pathfinder-bestiary-3/6AvQH0XXccorLE6d.htm)|Skinstitch|
-|[6OxiStysMq65xKgS.htm](pathfinder-bestiary-3/6OxiStysMq65xKgS.htm)|Kongamato|
-|[6rtLd2rN1qd6eCqK.htm](pathfinder-bestiary-3/6rtLd2rN1qd6eCqK.htm)|Hieracosphinx|
-|[6yc1exIcngUEvBQH.htm](pathfinder-bestiary-3/6yc1exIcngUEvBQH.htm)|Adhukait|
-|[74Sw9n7c4sMaK9Rx.htm](pathfinder-bestiary-3/74Sw9n7c4sMaK9Rx.htm)|Stheno Harpist|
-|[79pfivF3swvfsJE4.htm](pathfinder-bestiary-3/79pfivF3swvfsJE4.htm)|Caligni Vanguard|
-|[7bTj2DC91yEdJiLq.htm](pathfinder-bestiary-3/7bTj2DC91yEdJiLq.htm)|Vilderavn|
-|[7lSwznbhNb7THfZo.htm](pathfinder-bestiary-3/7lSwznbhNb7THfZo.htm)|Terror Shrike|
-|[7M7mwhETGEJjYoiY.htm](pathfinder-bestiary-3/7M7mwhETGEJjYoiY.htm)|Kimenhul|
 |[8Ds7BAEjgSSB32wS.htm](pathfinder-bestiary-3/8Ds7BAEjgSSB32wS.htm)|Deimavigga|
 |[8HdbN5NwEolamidg.htm](pathfinder-bestiary-3/8HdbN5NwEolamidg.htm)|Vulpinal|
 |[8LBJ0jKca3vLaUhx.htm](pathfinder-bestiary-3/8LBJ0jKca3vLaUhx.htm)|Festrog|
@@ -176,7 +165,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[O8iynsWnjObQ8TJl.htm](pathfinder-bestiary-3/O8iynsWnjObQ8TJl.htm)|Soul Skelm|
 |[O9TQjp3scKfW8SZK.htm](pathfinder-bestiary-3/O9TQjp3scKfW8SZK.htm)|Shulsaga|
 |[oE52gEbyrF4Dl3Go.htm](pathfinder-bestiary-3/oE52gEbyrF4Dl3Go.htm)|Yithian|
-|[oIM21UCyiabwwHfo.htm](pathfinder-bestiary-3/oIM21UCyiabwwHfo.htm)|Elder Sphinx|
 |[ooyJuLQ3AivRwLpa.htm](pathfinder-bestiary-3/ooyJuLQ3AivRwLpa.htm)|Dretch|
 |[OPeTxIUwkkAjC6T5.htm](pathfinder-bestiary-3/OPeTxIUwkkAjC6T5.htm)|Hyakume|
 |[OPRuZ1cEuKkJGPMV.htm](pathfinder-bestiary-3/OPRuZ1cEuKkJGPMV.htm)|Earth Wisp|
@@ -361,10 +349,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[5dZaPSltPYYIupeq.htm](pathfinder-bestiary-3/5dZaPSltPYYIupeq.htm)|Grioth Scout|Éclaireur Grioth|libre|
 |[5WAy9PYWu1PuQKXg.htm](pathfinder-bestiary-3/5WAy9PYWu1PuQKXg.htm)|Clacking Skull Swarm|Nuée de crânes caquetant|libre|
 |[60bknqrpHs2lL4pt.htm](pathfinder-bestiary-3/60bknqrpHs2lL4pt.htm)|Rat Snake Swarm|Nuée de serpents-rats|libre|
+|[61atKNQVF73vWpqc.htm](pathfinder-bestiary-3/61atKNQVF73vWpqc.htm)|Divine Warden Of Nethys|Garde divin de Nethys|libre|
+|[6A317pomsGPzW17M.htm](pathfinder-bestiary-3/6A317pomsGPzW17M.htm)|Munavri Spellblade|Magelame munavri|libre|
+|[6AvQH0XXccorLE6d.htm](pathfinder-bestiary-3/6AvQH0XXccorLE6d.htm)|Skinstitch|Maille-peaux|libre|
+|[6OxiStysMq65xKgS.htm](pathfinder-bestiary-3/6OxiStysMq65xKgS.htm)|Kongamato|Kongamato|libre|
+|[6rtLd2rN1qd6eCqK.htm](pathfinder-bestiary-3/6rtLd2rN1qd6eCqK.htm)|Hieracosphinx|Hiéracosphinx|libre|
+|[6yc1exIcngUEvBQH.htm](pathfinder-bestiary-3/6yc1exIcngUEvBQH.htm)|Adhukait|Adhukait|libre|
+|[74Sw9n7c4sMaK9Rx.htm](pathfinder-bestiary-3/74Sw9n7c4sMaK9Rx.htm)|Stheno Harpist|Sthéno harpiste|libre|
+|[79pfivF3swvfsJE4.htm](pathfinder-bestiary-3/79pfivF3swvfsJE4.htm)|Caligni Vanguard|Avant-garde caligni|libre|
+|[7bTj2DC91yEdJiLq.htm](pathfinder-bestiary-3/7bTj2DC91yEdJiLq.htm)|Vilderavn|Vilderavn|libre|
+|[7lSwznbhNb7THfZo.htm](pathfinder-bestiary-3/7lSwznbhNb7THfZo.htm)|Terror Shrike|Pie-grièche de terreur|libre|
+|[7M7mwhETGEJjYoiY.htm](pathfinder-bestiary-3/7M7mwhETGEJjYoiY.htm)|Kimenhul|Kimenhul|libre|
 |[aX0zhmJGzpnwCwMr.htm](pathfinder-bestiary-3/aX0zhmJGzpnwCwMr.htm)|Feral Skull Swarm|Nuée de crânes sauvages|libre|
 |[DmQM0QTSPJ7YtpMg.htm](pathfinder-bestiary-3/DmQM0QTSPJ7YtpMg.htm)|Girtablilu Seer|Voyant Girtablilu|libre|
 |[HiazGJoPkJ3gQVAO.htm](pathfinder-bestiary-3/HiazGJoPkJ3gQVAO.htm)|Grioth Cultist|Cultiste Grioth|libre|
 |[ilGMPBvjT9ovIiXB.htm](pathfinder-bestiary-3/ilGMPBvjT9ovIiXB.htm)|Gurgist Mauler|Cogneur Gargouillier (Mortique)|libre|
 |[nnI7oj1BcetLUTYo.htm](pathfinder-bestiary-3/nnI7oj1BcetLUTYo.htm)|Etioling Blightmage|Fléau-Mage Étiolier (Mortique)|libre|
+|[oIM21UCyiabwwHfo.htm](pathfinder-bestiary-3/oIM21UCyiabwwHfo.htm)|Elder Sphinx|Sphinx aîné|libre|
 |[YO3aTYRNGXWiSRal.htm](pathfinder-bestiary-3/YO3aTYRNGXWiSRal.htm)|Sorcerous Skull Swarm|Nuée de crânes sorciers|libre|
 |[YsgpbtWVT3q0OLWv.htm](pathfinder-bestiary-3/YsgpbtWVT3q0OLWv.htm)|Empress Lava Worm|Ver de lave empereur|libre|

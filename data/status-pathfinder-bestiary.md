@@ -1,12 +1,12 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **officielle**: 400
- * **changé**: 9
+ * **officielle**: 397
+ * **changé**: 12
  * **libre**: 21
  * **auto-trad**: 2
 
 
-Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-11 16:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -24,11 +24,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4BBzo72pHOpecoIp.htm](pathfinder-bestiary/4BBzo72pHOpecoIp.htm)|Goblin War Chanter|Chantre de guerre Gobelin|changé|
 |[5hQk5NJk4L10txyW.htm](pathfinder-bestiary/5hQk5NJk4L10txyW.htm)|Hobgoblin General|Général hobgobelin|changé|
 |[8BloAdRqlLpt5bNg.htm](pathfinder-bestiary/8BloAdRqlLpt5bNg.htm)|Treerazer|Fléau des arbres|changé|
+|[E0LCMHVp4sxAbQYa.htm](pathfinder-bestiary/E0LCMHVp4sxAbQYa.htm)|Mitflit|Mitflit|changé|
 |[EhB5Q98OO25DDOOl.htm](pathfinder-bestiary/EhB5Q98OO25DDOOl.htm)|Lizardfolk Defender|Défenseur homme-lézard|changé|
+|[eHLDsL1LG3jQ1H6Y.htm](pathfinder-bestiary/eHLDsL1LG3jQ1H6Y.htm)|Slurk|Slurk|changé|
 |[gDMPUL0UiOHrUUd3.htm](pathfinder-bestiary/gDMPUL0UiOHrUUd3.htm)|Aasimar Redeemer|Rédempteur Aasimar|changé|
 |[gvCCATlH9mPGWbsp.htm](pathfinder-bestiary/gvCCATlH9mPGWbsp.htm)|Troll|Troll|changé|
 |[KclNszYZ7sjwE9nX.htm](pathfinder-bestiary/KclNszYZ7sjwE9nX.htm)|Hobgoblin Archer|Arbalétrier Hobgobelin|changé|
 |[PiZkpRK23u89h82S.htm](pathfinder-bestiary/PiZkpRK23u89h82S.htm)|Hobgoblin Soldier|Soldat Hobgobelin|changé|
+|[zJZqpx6pPW7dxEUV.htm](pathfinder-bestiary/zJZqpx6pPW7dxEUV.htm)|Giant Scorpion|Scorpion géant|changé|
 
 ## Liste des traductions complétés
 
@@ -160,13 +163,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dTz1SQvJIUsB9S2w.htm](pathfinder-bestiary/dTz1SQvJIUsB9S2w.htm)|Drow Fighter|Guerrier Drow|officielle|
 |[Dwgl1DzJAYE3ienu.htm](pathfinder-bestiary/Dwgl1DzJAYE3ienu.htm)|Cyclops|Cyclope|officielle|
 |[DX1xNtucLTenn3P3.htm](pathfinder-bestiary/DX1xNtucLTenn3P3.htm)|River Drake|Drake des rivières|officielle|
-|[E0LCMHVp4sxAbQYa.htm](pathfinder-bestiary/E0LCMHVp4sxAbQYa.htm)|Mitflit|Mitflit|officielle|
 |[E0PIGtVfc5PFVT2C.htm](pathfinder-bestiary/E0PIGtVfc5PFVT2C.htm)|Cacodaemon|Cacodaémon|officielle|
 |[E4ctF7Fvi3cdkgQq.htm](pathfinder-bestiary/E4ctF7Fvi3cdkgQq.htm)|Hunting Spider|Araignée chasseuse|officielle|
 |[E5RDV3n7GnjAspQ5.htm](pathfinder-bestiary/E5RDV3n7GnjAspQ5.htm)|Mummy Guardian|Momie gardienne|officielle|
 |[e8rmI5xt6IANatfX.htm](pathfinder-bestiary/e8rmI5xt6IANatfX.htm)|Shemhazian|Shemhazian|officielle|
 |[E9rT02pPDLq7rARq.htm](pathfinder-bestiary/E9rT02pPDLq7rARq.htm)|Minotaur|Minotaure|officielle|
-|[eHLDsL1LG3jQ1H6Y.htm](pathfinder-bestiary/eHLDsL1LG3jQ1H6Y.htm)|Slurk|Slurk|officielle|
 |[EibxkD9y30YmPaLH.htm](pathfinder-bestiary/EibxkD9y30YmPaLH.htm)|Lich|Liche|officielle|
 |[eP96NzLFSjua4NS5.htm](pathfinder-bestiary/eP96NzLFSjua4NS5.htm)|Stegosaurus|Stégosaure|officielle|
 |[ePa0KmNPpR4zUPfX.htm](pathfinder-bestiary/ePa0KmNPpR4zUPfX.htm)|Dero Magister|Magister Dero|officielle|
@@ -441,7 +442,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[zBPGUUP788b0g1Ng.htm](pathfinder-bestiary/zBPGUUP788b0g1Ng.htm)|Keketar|Ké’ktar|officielle|
 |[Zbvh6ChdD0TWv257.htm](pathfinder-bestiary/Zbvh6ChdD0TWv257.htm)|Remorhaz|Rémorhaz|officielle|
 |[zJro50sLFmOcDLdO.htm](pathfinder-bestiary/zJro50sLFmOcDLdO.htm)|Lemure|Lémure|officielle|
-|[zJZqpx6pPW7dxEUV.htm](pathfinder-bestiary/zJZqpx6pPW7dxEUV.htm)|Giant Scorpion|Scorpion géant|officielle|
 |[ZMr28tFTA5NUcBTi.htm](pathfinder-bestiary/ZMr28tFTA5NUcBTi.htm)|Web Lurker|Rôdeur des toiles|officielle|
 |[Zn0p5YjELMjEwkqx.htm](pathfinder-bestiary/Zn0p5YjELMjEwkqx.htm)|Great Cyclops|Grands Cyclopes|officielle|
 |[ZPAM4OavHmdgmGnw.htm](pathfinder-bestiary/ZPAM4OavHmdgmGnw.htm)|Centipede Swarm|Nuée de mille-pattes|officielle|

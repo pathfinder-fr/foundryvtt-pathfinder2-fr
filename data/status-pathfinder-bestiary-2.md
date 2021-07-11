@@ -1,18 +1,23 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 350
- * **changé**: 1
+ * **libre**: 345
+ * **changé**: 6
  * **vide**: 7
 
 
-Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-11 16:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[3DSqfobadad3pA6O.htm](pathfinder-bestiary-2/3DSqfobadad3pA6O.htm)|Giant Fly|Mouche géante|changé|
+|[C7LvY2Xxzm2xRL1M.htm](pathfinder-bestiary-2/C7LvY2Xxzm2xRL1M.htm)|Giant Solifugid|Solifuge Géant|changé|
 |[DYBZniwR1Ip4inVr.htm](pathfinder-bestiary-2/DYBZniwR1Ip4inVr.htm)|Morlock|Morlock|changé|
+|[NQ6qRvpD9DIwVxt3.htm](pathfinder-bestiary-2/NQ6qRvpD9DIwVxt3.htm)|Vampiric Mist|Brume Vampirique|changé|
+|[SFpMOxBwiS529dJk.htm](pathfinder-bestiary-2/SFpMOxBwiS529dJk.htm)|Brownie|Lutin|changé|
+|[y9D2wh63pBzIyI7i.htm](pathfinder-bestiary-2/y9D2wh63pBzIyI7i.htm)|Giant Maggot|Asticot géant|changé|
 
 ## Liste des éléments vides ne pouvant pas être traduits
 
@@ -41,7 +46,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[340AwQpRXGblw1kF.htm](pathfinder-bestiary-2/340AwQpRXGblw1kF.htm)|Sarglagon|Sarglagon (Diable de la Noyade)|libre|
 |[37FAi1y5S8snofws.htm](pathfinder-bestiary-2/37FAi1y5S8snofws.htm)|Olethrodaemon|Oléthrodaémon (Daémon de l'Apocalypse)|libre|
 |[3dlupMwDA9qv1xWS.htm](pathfinder-bestiary-2/3dlupMwDA9qv1xWS.htm)|Suli Dune Dancer|Danseur des dunes Suli|libre|
-|[3DSqfobadad3pA6O.htm](pathfinder-bestiary-2/3DSqfobadad3pA6O.htm)|Giant Fly|Mouche géante|libre|
 |[3MDlKPlPhHBo1DId.htm](pathfinder-bestiary-2/3MDlKPlPhHBo1DId.htm)|Vampire Squid|Calamar vampire|libre|
 |[3u4toki9EeSRvcs2.htm](pathfinder-bestiary-2/3u4toki9EeSRvcs2.htm)|Quoppopak|Quoppopak|libre|
 |[3VFHZyjSjNA1jbiO.htm](pathfinder-bestiary-2/3VFHZyjSjNA1jbiO.htm)|Sportlebore Swarm|Nuée de sportlebores|libre|
@@ -104,7 +108,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BTQ2ARKulg5Egueg.htm](pathfinder-bestiary-2/BTQ2ARKulg5Egueg.htm)|Augur|Augure|libre|
 |[Bz5wgKEVsHAyaYEx.htm](pathfinder-bestiary-2/Bz5wgKEVsHAyaYEx.htm)|Sunflower Leshy|Léchi Tournesol|libre|
 |[c4uQKZaRWv9n9IHo.htm](pathfinder-bestiary-2/c4uQKZaRWv9n9IHo.htm)|Solar|Ange Solar|libre|
-|[C7LvY2Xxzm2xRL1M.htm](pathfinder-bestiary-2/C7LvY2Xxzm2xRL1M.htm)|Giant Solifugid|Solifuge Géant|libre|
 |[cd2IaNGpdmHHZnrN.htm](pathfinder-bestiary-2/cd2IaNGpdmHHZnrN.htm)|Xill|Xill|libre|
 |[cijMuXBk8YUw2RoB.htm](pathfinder-bestiary-2/cijMuXBk8YUw2RoB.htm)|Caligni Slayer|Tueur Caligni|libre|
 |[cKu0rrZtEAFCosej.htm](pathfinder-bestiary-2/cKu0rrZtEAFCosej.htm)|Void Zombie|Zombi du Vide|libre|
@@ -224,7 +227,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[NlMqwcN2ZaALOVSY.htm](pathfinder-bestiary-2/NlMqwcN2ZaALOVSY.htm)|Carnivorous Blob|Blob Carnivore|libre|
 |[nOAQehZL3045YMX1.htm](pathfinder-bestiary-2/nOAQehZL3045YMX1.htm)|Young Umbral Dragon|Dragon de l'Ombre jeune|libre|
 |[NoCtPLRoVvloZe63.htm](pathfinder-bestiary-2/NoCtPLRoVvloZe63.htm)|Adult Cloud Dragon|Dragon des Nuages adulte|libre|
-|[NQ6qRvpD9DIwVxt3.htm](pathfinder-bestiary-2/NQ6qRvpD9DIwVxt3.htm)|Vampiric Mist|Brume Vampirique|libre|
 |[nRsH7unLIRWq0ZHC.htm](pathfinder-bestiary-2/nRsH7unLIRWq0ZHC.htm)|Akata|Akata|libre|
 |[nSDXAfFOF2gEKmkM.htm](pathfinder-bestiary-2/nSDXAfFOF2gEKmkM.htm)|Movanic Deva|Deva Movanique|libre|
 |[NtezcliwnH4R1tJw.htm](pathfinder-bestiary-2/NtezcliwnH4R1tJw.htm)|Thulgant|Thulgant|libre|
@@ -272,7 +274,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[s8EjxYqdN4gOvcBh.htm](pathfinder-bestiary-2/s8EjxYqdN4gOvcBh.htm)|Spinosaurus|Spinosaures|libre|
 |[sbVdWfLZ2rdPh9Ec.htm](pathfinder-bestiary-2/sbVdWfLZ2rdPh9Ec.htm)|Carrion Golem|Golem de charogne|libre|
 |[scSsdEmG0jkEnyLV.htm](pathfinder-bestiary-2/scSsdEmG0jkEnyLV.htm)|Young Brine Dragon|Dragon de Saumure jeune|libre|
-|[SFpMOxBwiS529dJk.htm](pathfinder-bestiary-2/SFpMOxBwiS529dJk.htm)|Brownie|Lutin|libre|
 |[SfPoGbcaQqPlgJ85.htm](pathfinder-bestiary-2/SfPoGbcaQqPlgJ85.htm)|Baobhan Sith|Baobhan Sith|libre|
 |[SG8fOxo4SS7bXpav.htm](pathfinder-bestiary-2/SG8fOxo4SS7bXpav.htm)|Bog Strider|Coureurs des marécages|libre|
 |[sGI1gh7EPVSRadhY.htm](pathfinder-bestiary-2/sGI1gh7EPVSRadhY.htm)|Granite Glyptodont|Glyptodonte de granite|libre|
@@ -353,7 +354,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Y1jsLqhsbqoXiGQe.htm](pathfinder-bestiary-2/Y1jsLqhsbqoXiGQe.htm)|Giant Toad|Crapaud géant|libre|
 |[Y1lwEf06O1ijOnwt.htm](pathfinder-bestiary-2/Y1lwEf06O1ijOnwt.htm)|Augnagar|Augnagar|libre|
 |[y2LqIPBHv2dA0pjI.htm](pathfinder-bestiary-2/y2LqIPBHv2dA0pjI.htm)|Necrophidius|Nécrophidius|libre|
-|[y9D2wh63pBzIyI7i.htm](pathfinder-bestiary-2/y9D2wh63pBzIyI7i.htm)|Giant Maggot|Asticot géant|libre|
 |[Y9SDbANT1DWI1DKU.htm](pathfinder-bestiary-2/Y9SDbANT1DWI1DKU.htm)|Animate Dream|Rêve animé|libre|
 |[yBglC9GBy6p1x87t.htm](pathfinder-bestiary-2/yBglC9GBy6p1x87t.htm)|Tendriculos|Tendricules|libre|
 |[YFvur5htRwt9EfQs.htm](pathfinder-bestiary-2/YFvur5htRwt9EfQs.htm)|Sandpoint Devil|Diable de Pointesable|libre|

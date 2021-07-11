@@ -309,7 +309,7 @@
         {
             "id": "Ifrit",
             "name": "Éfrit",
-            "description": "<p>Vous descendez des élémentaires de feu ou portez la marque des Sphères intérieures et vos traits illustrent l'influence que les élémentaires du feu ont sur vous. Vous obtenez le trai éfrit, en plus des traits de votre ascendance. Vous obtenez la résistance au feu égal à la moitié de votre niveau (minimum 1) et vous traites les effets environnementaux de chaleur comme s'ils étaient d'un cran moins sévère (la chaleur incroyable devient extrême, la chaleur extrême devient sévère, etc). Vous pouvez choisir parmi les dons d'éfrit et lesdons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons de descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don d'ascendance et vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons d'ascendance de descendants de génie en plus de ceux qui sont accessibles du fait de votre héritage spécifique et de votre ascendance.</p>"
+            "description": "<p>Vous descendez des élémentaires de feu ou portez la marque des Sphères intérieures et vos traits illustrent l'influence que les élémentaires du feu ont sur vous. Vous obtenez le trai éfrit, en plus des traits de votre ascendance. Vous obtenez la résistance au feu égal à la moitié de votre niveau (minimum 1) et vous traitez les effets environnementaux de chaleur comme s'ils étaient d'un cran moins sévère (la chaleur incroyable devient extrême, la chaleur extrême devient sévère, etc). Vous pouvez choisir parmi les dons d'éfrit et lesdons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons de descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don d'ascendance et vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons d'ascendance de descendants de génie en plus de ceux qui sont accessibles du fait de votre héritage spécifique et de votre ascendance.</p>"
         },
         {
             "id": "Rock Dwarf",
@@ -389,7 +389,7 @@
         {
             "id": "River Azarketi",
             "name": "Azarketi fluvial",
-            "description": "<p>vous descendez des azarketis qui ont abandonné les océans pour l'eau douce et la vie à l'intérieur des terres. La géographie variée des rivières rend nécessaire que vous développiez des compétences physiques avancées pour nager contre les rapides, bondir dans les eaux des cascades et naviguer avec expertise dans les canaux peu profonds et étroits. Lorsque vous réussissez un test d'Athlétisme pour Nager, vous obtenez un succès critique à la place.</p>"
+            "description": "<p>vous descendez des azarketis qui ont abandonné les océans pour l'eau douce et la vie à l'intérieur des terres. La géographie variée des rivières rend nécessaire que vous développiez des compétences physiques avancées pour nager contre les rapides, bondir dans les eaux des cascades et naviguer avec expertise dans les canaux peu profonds et étroits.</p>\n<p>Lorsque vous réussissez un test d'Athlétisme pour Nager, vous obtenez un succès critique à la place.</p>"
         },
         {
             "id": "Vigilant Goloma",
@@ -454,7 +454,7 @@
         {
             "id": "Emotionally Unaware",
             "name": "Émotionnellement non préparé",
-            "description": "<p>Vous trouvez qu'il est difficile de comprendre et d'exprimer des émotions complexes. Vous subissez une pénalité de circonstance de –1 aux tests de Diplomatie et de Représentation et aux tests de Perception pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions}.</p>"
+            "description": "<p>Vous trouvez qu'il est difficile de comprendre et d'exprimer des émotions complexes. Vous subissez une pénalité de circonstances de –1 aux tests de Diplomatie et de Représentation et aux tests de Perception pour Deviner les intentions.</p>"
         },
         {
             "id": "Rite of Passage",

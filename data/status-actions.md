@@ -1,12 +1,32 @@
 # État de la traduction (actions)
 
  * **officielle**: 110
- * **libre**: 55
+ * **libre**: 53
+ * **changé**: 2
+ * **aucune**: 6
 
 
-Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-11 16:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[9gDMkIfDifh61yLz.htm](actions/9gDMkIfDifh61yLz.htm)|Stop|
+|[bG91dbtbgOnw7Ofx.htm](actions/bG91dbtbgOnw7Ofx.htm)|Board|
+|[k5TASjIxghvGCy7g.htm](actions/k5TASjIxghvGCy7g.htm)|Call to Axis|
+|[lID4rJHAVZB6tavf.htm](actions/lID4rJHAVZB6tavf.htm)|Run Over|
+|[uS3qDAgOkZ7b8ERL.htm](actions/uS3qDAgOkZ7b8ERL.htm)|Drive|
+|[yh9O9BQjwWrAIiuf.htm](actions/yh9O9BQjwWrAIiuf.htm)|Take Control|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[34E7k2YRcsOU5uyl.htm](actions/34E7k2YRcsOU5uyl.htm)|Change Shape (Anadi)|Changer de forme (anadi)|changé|
+|[kKKHwVUnroKuAnOt.htm](actions/kKKHwVUnroKuAnOt.htm)|Toxic Skin|Peau toxique|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -22,7 +42,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2EE4aF4SZpYf0R6H.htm](actions/2EE4aF4SZpYf0R6H.htm)|Pick a Lock|Crocheter une serrure|officielle|
 |[2HJ4yuEFY1Cast4h.htm](actions/2HJ4yuEFY1Cast4h.htm)|High Jump|Sauter en hauteur|officielle|
 |[2u915NdUyQan6uKF.htm](actions/2u915NdUyQan6uKF.htm)|Demoralize|Démoraliser|officielle|
-|[34E7k2YRcsOU5uyl.htm](actions/34E7k2YRcsOU5uyl.htm)|Change Shape (Anadi)|Changer de forme (anadi)|libre|
 |[3f5DMFu8fPiqHpRg.htm](actions/3f5DMFu8fPiqHpRg.htm)|Sustain a Spell|Maintenir un sort|officielle|
 |[3yoajuKjwHZ9ApUY.htm](actions/3yoajuKjwHZ9ApUY.htm)|Grab an Edge|Se raccrocher in extremis|officielle|
 |[49y9Ec4bDii8pcD3.htm](actions/49y9Ec4bDii8pcD3.htm)|Subsist|Subsister|officielle|
@@ -96,7 +115,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[JYi4MnsdFu618hPm.htm](actions/JYi4MnsdFu618hPm.htm)|Hunt Prey|Chasser une proie|officielle|
 |[K878asDgf1EF0B9S.htm](actions/K878asDgf1EF0B9S.htm)|Confident Finisher|Coup final assuré|libre|
 |[KjoCEEmPGTeFE4hh.htm](actions/KjoCEEmPGTeFE4hh.htm)|Treat Poison|Soigner un empoisonnement|officielle|
-|[kKKHwVUnroKuAnOt.htm](actions/kKKHwVUnroKuAnOt.htm)|Toxic Skin|Peau toxique|libre|
 |[kMcV8e5EZUxa6evt.htm](actions/kMcV8e5EZUxa6evt.htm)|Squeeze|Se faufiler|officielle|
 |[KUfLlXDWTcAWhl8l.htm](actions/KUfLlXDWTcAWhl8l.htm)|Recall Knowledge (Society)|Se souvenir (Société)|officielle|
 |[kV3XM0YJeS2KCSOb.htm](actions/kV3XM0YJeS2KCSOb.htm)|Scout|Reconnaître|officielle|

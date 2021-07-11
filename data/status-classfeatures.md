@@ -1,11 +1,11 @@
 # État de la traduction (classfeatures)
 
  * **officielle**: 198
- * **changé**: 67
- * **libre**: 114
+ * **changé**: 69
+ * **libre**: 112
 
 
-Dernière mise à jour: 2021-07-10 11:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-11 16:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -65,6 +65,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|changé|
 |[rogue-15-W1FkMHYVDg3yTU5r.htm](classfeatures/rogue-15-W1FkMHYVDg3yTU5r.htm)|Double Debilitation|Double handicap|changé|
 |[rogue-19-SUUdWG0t33VKa5q4.htm](classfeatures/rogue-19-SUUdWG0t33VKa5q4.htm)|Master Strike|Frappe de maître|changé|
+|[sorcerer-01-2goYo6VNbwC6aKF1.htm](classfeatures/sorcerer-01-2goYo6VNbwC6aKF1.htm)|Bloodline|Lignages|changé|
+|[sorcerer-01-dKTb959aCQIzSIXj.htm](classfeatures/sorcerer-01-dKTb959aCQIzSIXj.htm)|Bloodline: Wyrmblessed|Lignage : béni du Ver|changé|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|Incantation de l'ensorceleur|changé|
 |[swashbuckler-01-4lGhbEjlEoGP4scl.htm](classfeatures/swashbuckler-01-4lGhbEjlEoGP4scl.htm)|Wit Style|Style : Esprit|changé|
 |[swashbuckler-01-LzYi0OuOoypNb6jd.htm](classfeatures/swashbuckler-01-LzYi0OuOoypNb6jd.htm)|Panache|Panache|changé|
@@ -314,11 +316,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-13-myvcir1LEkaVxOlE.htm](classfeatures/rogue-13-myvcir1LEkaVxOlE.htm)|Master Tricks|Astuces de maître|officielle|
 |[rogue-13-nLwPMPLRne1HnL00.htm](classfeatures/rogue-13-nLwPMPLRne1HnL00.htm)|Incredible Senses (Level 13)|Sens extraordinaires (Niveau 13)|officielle|
 |[rogue-17-xmZ7oeTDcQVXegUP.htm](classfeatures/rogue-17-xmZ7oeTDcQVXegUP.htm)|Slippery Mind|Esprit fuyant|officielle|
-|[sorcerer-01-2goYo6VNbwC6aKF1.htm](classfeatures/sorcerer-01-2goYo6VNbwC6aKF1.htm)|Bloodline|Lignages|libre|
 |[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|Lignage : Aberrant|officielle|
 |[sorcerer-01-5Wxjghw7lHuCxjZz.htm](classfeatures/sorcerer-01-5Wxjghw7lHuCxjZz.htm)|Bloodline: Nymph|Lignage : Nymphe|libre|
 |[sorcerer-01-7WBZ2kkhZ7JorWu2.htm](classfeatures/sorcerer-01-7WBZ2kkhZ7JorWu2.htm)|Bloodline: Undead|Lignage : Mort-vivant|officielle|
-|[sorcerer-01-dKTb959aCQIzSIXj.htm](classfeatures/sorcerer-01-dKTb959aCQIzSIXj.htm)|Bloodline: Wyrmblessed|Lignage : béni du Ver|libre|
 |[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|Lignage : Féerique|officielle|
 |[sorcerer-01-H6ziAPvCipTPG8SH.htm](classfeatures/sorcerer-01-H6ziAPvCipTPG8SH.htm)|Bloodline Spells|Sorts de lignage|officielle|
 |[sorcerer-01-lURKSJZAGKVD6cH9.htm](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Spell Repertoire (Sorcerer)|Répertoire de sorts (Ensorceleur)|officielle|
