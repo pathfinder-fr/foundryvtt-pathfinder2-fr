@@ -22,6 +22,11 @@
             "description": "<p>Vous venez des profondeurs d’une jungle ou d’une forêt et avez appris à utiliser votre petite taille pour vous faufiler dans les broussailles, à travers les plantes grimpantes et pour négocier d’autres obstacles. Vous ignorez le terrain rendu difficile par les arbres, le feuillage ou les broussailles.</p>"
         },
         {
+            "id": "Rite of Knowing",
+            "name": "Rite of Knowing",
+            "description": "</p>>Vous avez amélioré votre exosquelette avec une connexion à Axis, ce qui vous permet de puiser dans les connaissances infinies de ce plan. Vous gagnez l'action @Compendium[pf2e.actionspf2e.k5TASjIxghvGCy7g]{Appel à Axis}.</p>>"
+        },
+        {
             "id": "Deep Orc",
             "name": "Deep Orc",
             "description": "<p>Vos mains calleuses et vos yeux rouges évoquent une vie passée dans les ténèbres profondes des cavernes des montagnes, où vous avez appris à combattre sur les falaises rocheuses et à survivre avec un minimum de ressources. Vous obtenez le don @Compendium[pf2e.feats-srd.4tTkRyOQ0VuRBac3]{Expertise du terrain} pour les souterrains et de don de compétence @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur}.</p>"

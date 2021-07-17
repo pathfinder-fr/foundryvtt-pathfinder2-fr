@@ -1103,6 +1103,19 @@
             ]
         },
         {
+            "id": "Beneath Notice",
+            "name": "Éviter de se faire remarquer",
+            "description": "<p>Vous êtes habile à vous cacher de vos ennemis et de vos cibles parmi la populace. Vous obtenez les dons de compétence @Compendium[pf2e.feats-srd.e4KB4pSkx2lDBNw3]{Déguisement rapide} et @Compendium[pf2e.feats-srd.RiuZT3H4QZIIEQXJ]{Secrets insaisissables}. De plus, lorsque vous vous trouvez au sein d'une foule, vous pouvez vous @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Déguiser} en un membre indéfini de la foule comme une activité à trois actions (une action si vous êtes légendaire en Duperie)</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Xun de la Ligue dorée"
+                },
+                {
+                    "value": "expert en Duperie"
+                }
+            ]
+        },
+        {
             "id": "Archer Dedication",
             "name": "Dévouement de l'Archer",
             "description": "<p>Vous êtes qualifié avec toutes les armes simples et de guerre figurant dans le groupe des arcs. Lorsque vous obtenez une capacité de classe qui vous accorde une maîtrise experte ou supérieure avec certaines armes, vous obtenez également ce rang de maîtrise avec toutes les armes simples et de guerre du groupe des arcs. Si vous êtes au moins expert dans l'arc que vous maniez, vous obtenez accès à l'effet de critique spécialisé avec cet arc.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'Archer.</p>"
@@ -1239,6 +1252,16 @@
             "prereq": [
                 {
                     "value": "Chaudron"
+                }
+            ]
+        },
+        {
+            "id": "Butterfly's Sting",
+            "name": "Piqûre du papillon",
+            "description": "<p>Vous obtenez la capacité de classe Attaque sournoise. Vous n'augmentez pas le nombre de dés lorsque vous gagnez des niveaux.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Lame papillon"
                 }
             ]
         },
@@ -2116,6 +2139,16 @@
             "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Déclencheur</strong> Vous utilisez Alchimie rapide pour fabriquer une bombe alchimique qui est inférieure d’au moins 2 niveaux à votre niveau d’alchimie avancée.</p>\n<hr />\n<p>Vous ajoutez à votre bombe une substance qui sape les résistances de vos ennemis. La bombe réduit toute résistance de l’ennemi à son type de dégâts d’une valeur égale à votre niveau, mais seulement pour cette attaque.</p>"
         },
         {
+            "id": "Menacing Prowess",
+            "name": "Prouesse intimidante",
+            "description": "<p>Démoraliser plusieurs personnes à la fois est votre spécialité. Lorsque vous Démoralisez, vous pouvez cibler jusqu'à 2 créatures dans un rayon de 9 m autour de vous en même temps. Si vous êtes un maître en Intimidation, vous pouvez Démoraliser jusqu'à 4 créatures à la fois ; si vous êtes légendaire, vous pouvez Démoraliser jusqu'à 8 créatures à la fois.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Xun de la Ligue dorée"
+                }
+            ]
+        },
+        {
             "id": "Snap Shot",
             "name": "Tir soudain",
             "description": "<p>Vous avez appris à utiliser par réflexe vos armes à distance quand une créature se rapproche.</p>\n<p>Vous pouvez effectuer une réaction pour faire une Frappe avec une arme à distance alors que vous ne pouvez normalement la faire qu’avec une arme de corps à corps. Vous devez Frapper une cible adjacente. En ce qui concerne le déclencheur de la réaction, vous considérez que votre arme à distance a une allonge de 1,50 m. Si la réaction impose d’autres conditions, telles que le maniement d’un type d’arme spécifique, le Tir soudain ne vous permet pas de les ignorer ; il vous permet seulement de remplacer une Frappe avec une arme au corps à corps par une Frappe avec une arme à distance.</p>"
@@ -2934,6 +2967,16 @@
             "prereq": [
                 {
                     "value": "légendaire en Arcanes"
+                }
+            ]
+        },
+        {
+            "id": "Golden League Xun Dedication",
+            "name": "Dévouement de Xun de la Ligue dorée",
+            "description": "<p>Vous êtes un Xun de la Ligue dorée, aidant l'organisation. Vous gagnez la maîtrise experte dans deux des compétences suivantes (ou dans deux autres compétences de votre choix dans lesquelles vous êtes qualifié, si vous étiez déjà un expert dans les compétences listées) : Athlétisme, Discrétion, Duperie ou Intimidation. De plus, si vous utilisez Connaissance de la pègre pour Gagner des revenus ou Vous souvenir, lorsque vous obtenez un succès, vous obtenez un succès critique à la place.</p>.\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres exploits de l'archétype Xun de la Ligue dorée.</p>",
+            "prereq": [
+                {
+                    "value": "maître en Connaissance de la pègre"
                 }
             ]
         },
@@ -5070,6 +5113,16 @@
             "description": "<p>Vous possédez un rat comme animal de compagnie qui s'est magiquement lié à vous.</p>\n<p>Vous obtenez un familier qui doit être un rat. Il obtient les bénéfices des capacités de familier, mais sa forme de base reste celle d'un rat.</p>"
         },
         {
+            "id": "Butterfly's Kiss",
+            "name": "Baiser du papillon",
+            "description": "<p>Vous pouvez faire des Frappes non létales avec une épée papillon sans subir de pénalité.</p>.",
+            "prereq": [
+                {
+                    "value": "Dévouement de Lame papillon"
+                }
+            ]
+        },
+        {
             "id": "Tusks (Half-Orc)",
             "name": "Défenses (demi-orc)",
             "description": "<p>La plupart des demi-orcs possèdent des défenses visibles mais les vôtres sont particulièrement grandes et pointues, capables d'infliger des blessures profondes.</p>\n<p>Vous obtenez une attaque à mains nues de mâchoire qui inflige [[/r 1d6 #perforants]] dégâts perforants.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez prendre ce don qu'au niveau 1 et vous ne pouvez jamais utiliser le réapprentissage pour perdre ou prendre ce don par la suite.</p>"
@@ -5335,6 +5388,16 @@
             "description": "<p>Vous pouvez démontrer comment vous écarter rapidement du passage de dangereux effets. Vous pouvez utiliser l'action Aider pour accorder à un allié un bonus au jet de Réflexes. Comme habituellement avec Aider, vous avez besoin de vous préparer en utilisant une action lors de votre tour pour encourager l'allié.</p>"
         },
         {
+            "id": "Innocent Butterfly",
+            "name": "Papillon innocent",
+            "description": "<p>Vous savez comment altérer les perceptions des autres. Vous pouvez lancer @Compendium[pf2e.spells-srd.VUMtDHr8CRwwr3Mj]{Aura quelconque} une fois par jour comme un sort arcanique inné. Le sort utilise le plus élevé entre votre DD de classe et votre DD de sort.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Lame papillon"
+                }
+            ]
+        },
+        {
             "id": "Red Mantis Assassin Dedication",
             "name": "Dévouement d'Assassin des Mantes rouges",
             "description": "<p><strong>Accès</strong> Vous êtes originaire de l’île de Médiogalti.</p>\n<hr />\n<p>Vous avez appris à traquer vos ennemis et à les assassiner au sabre dentelé.</p>\n<p>>Vous êtes qualifié en Discrétion et en Connaissances des assassins ; si vous êtes déjà qualifié, vous devenez expert. Lorsque votre rang de maîtrise dans le maniement de n’importe quelle arme augmente au rang d’expert ou plus, vous gagnez également ce nouveau rang de maîtrise pour les @Compendium[pf2e.equipment-srd.wkzxLpSe7LN6c5Ld]{Sabres dentelés}.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un nouveau don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'Assassin des Mantes rouges.</p>",
@@ -5493,6 +5556,19 @@
                 },
                 {
                     "value": "vous êtes fidèle d'une divinité"
+                }
+            ]
+        },
+        {
+            "id": "Rope Mastery",
+            "name": "Maîtrise des cordes",
+            "description": "<p>Les cordes sont votre outil de prédilection et vous les déployez de nombreuses manières.</p>\n<p>Lorsque vous grimpez sur une corde, vous vous déplacez de 1,5 m supplémentaires en cas de succès et de 3 m supplémentaires en cas de réussite critique, jusqu'à un maximum correspondant à votre Vitesse. Ce mouvement supplémentaire s'ajoute aux effets d'@Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{Escalade rapide}.</p>\n<p>De plus, vous pouvez utiliser une corde pour gêner vos ennemis. Lorsque vous tenez une corde, vous pouvez tenter un test d'Athlétisme pour Désarmer, Agripper ou faire un Croc-en-jambe à une créature située jusqu'à 3 m de distance et pas seulement aux créatures adjacentes. Si vous échouez de manière critique à un tel test alors que vous tenez une corde, vous pouvez lâcher la corde pour subir les effets d'un échec au lieu d'un échec critique.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Xun de la Ligue dorée"
+                },
+                {
+                    "value": "expert en Athlétisme"
                 }
             ]
         },
@@ -6454,6 +6530,16 @@
             ]
         },
         {
+            "id": "Touch Focus",
+            "name": "Contact focalisé",
+            "description": "<p>Vous pouvez rediriger la puissance d'un sort à travers vous pour le délivrer à distance de Frappe. Si votre prochaine action est de Lancer un sort avec 1 ou plusieurs cibles et une portée plus éloignée que toucher, vous pouvez changer la portée en toucher. Si le sort modifié nécessite un jet d'attaque de sort, vous gagnez un bonus de circonstances de +2 à l'attaque. Cela ne vous permet de toucher qu'une seule cible avec le sort, même si le sort affectait à l'origine plus d'une cible.</hr />\n<p>Après avoir Lancé le sort, vous pouvez Désarmer, Pousser, faire un Croc-en-jambe ou Frapper la cible avec une attaque à mains nues.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement du Sixième pilier"
+                }
+            ]
+        },
+        {
             "id": "Terrain Expertise (Plains)",
             "name": "Expertise du terrain (Plaines)",
             "description": "<p>Votre expérience de l’orientation sur un certain type de terrain vous rend extrêmement confiant pour ce faire. Vous gagnez un bonus de circonstances de +1 aux tests de Survie dans les <em>plaines</em>.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plus d’une fois en choisissant un type de terrain différent à chaque fois.</p>",
@@ -7110,6 +7196,16 @@
             "description": "<p>Vous possédez un affect que la gent draconique trouve inhabituellement plaisant — et lorsque cela échoue, vous savez lorsqu'il vous faut courir. Vous obtenez un bonus de circonstances de +2 aux tests de Perception et aux jets de sauvegarde contre les dragons. De plus, lorsque vous rencontrez une créature avec le trait dragon dans une situation sociale, vous pouvez tenter un test de Diplomatie pour @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression} sur cette créature immédiatement plutôt qu'après avoir conversé pendant 1 minute ; vous subissez une pénalité de –5 à ce test. Si vous échouez, vous pouvez choisir de vous engager dans 1 minute de conversation puis de tenter un nouveau test plutôt que d'accepter le résultat d'un échec ou d'un échec critique.</p>\n<hr />\n<p><strong>Spécial</strong> Si vous avez le don de compétence @Compendium[pf2e.feats-srd.cc8O47KFsODReoBe]{Cordialité forcée}, vous ne subissez pas la pénalité au test immédiat de Diplomatie si la cible possède le trait dragon.</p>"
         },
         {
+            "id": "Whirlwind Toss",
+            "name": "Lancer tournoyant",
+            "description": "<p><strong>Conditions</strong> Vous avez agrippé un adversaire.</p>\n<hr />\n<p>Vous faites tournoyer un adversaire pour frapper toutes les créatures proches avant de l'envoyer au loi en imitation de techniques de votre rival, Ran-To. Vous Maltraitez. Durant cette Maltraitance, votre don @Compendium[pf2e.feats-srd.WY7CjISdz6uwXwIb]{Maltraitance collatérale} s'applique à tous vos adversaires adjacents. Puis vous vouvez ensuite lancer au loin la créature Agrippée à 3 m, ou elle tombe @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>\n<p>Si les adversaires que vous avez choisi pour Maltraitance collatérale vous est aussi  adjacent, il ne fait qu'un test et ne subit les dégâts qu'une seule fois.</p>",
+            "prereq": [
+                {
+                    "value": "Maltraitance collatérale"
+                }
+            ]
+        },
+        {
             "id": "Consistent Surge",
             "name": "Poussée consistante",
             "description": "<p>Vos nanites sont incroyablement efficaces, capable d'améliorer l'efficacité de votre corps régulièrement. Vous pouvez utiliser @Compendium[pf2e.feats-srd.JS24EjgLYcHB9E3T]{Poussée nanite} avec une fréquence de une fois toutes les 10 minutes, au lieu d'une fois par heure.</p>",
@@ -7613,6 +7709,11 @@
                     "value": "qualifié en Diplomacie"
                 }
             ]
+        },
+        {
+            "id": "Dig Up Secrets",
+            "name": "Déterrer les secrets",
+            "description": "<p>Vous êtes un puits sans fond de connaissances et pouvez vous souvenir de plusieurs morceaux d'informations d'un coup. Vous pouvez lancer @Compendium[pf2e.spells-srd.ZYoC630tNGutgbE0]{Hypercognition} comme un sort occulte inné une fois par jour.</p>"
         },
         {
             "id": "Titan Slinger",
@@ -9828,6 +9929,11 @@
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Une créature dans les 9 m que vous pouvez voir devrait réussir son jet de sauvegarde.</p>\n<hr />\n<p>Vous feulez une malédiction malveillante sur la créature.</p>\n<p>La cible doit relancer le jet déclencheur et utiliser le pire résultat.</p>"
         },
         {
+            "id": "Envenomed Edge",
+            "name": "Avantage empoisonné",
+            "description": "<p>Grâce à une combinaison de vos glandes à poison et de vos concoctions à base de plantes, vous pouvez délivrer des attaques venimeuses de manière constante lorsque vous touchez les points faibles d'un ennemi. Lorsque vous obtenez un coup critique avec une arme ou une attaque à mains nues et que vous infligez des dégâts tranchants ou perforants avec ce coup, vous infligez à votre cible [[/r 1d4 #poison persistant]] dégâts de poison persistants supplémentaires.</p>"
+        },
+        {
             "id": "Skill Mastery (Rogue)",
             "name": "Maîtrise des compétences (Roublard)",
             "description": "<p>Faites passer, dans l’une de vos compétences, votre rang de maîtrise d’expert à maître et dans une autre de vos compétences, de qualifié à expert. Vous gagnez un don de compétence associé à l’une des compétences que vous avez choisies.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don jusqu’à cinq fois.</p>",
@@ -10032,6 +10138,11 @@
             "id": "Scapegoat Parallel Self",
             "name": "Bouc émissaire parallèle",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>.\n<p><strong>Déclencheur</strong> Votre tour commence ou votre malédiction oraculaire devrait augmenter.</p>\n<hr />\n<p>En voyant Syndara superposer des créatures aux propriétés métaphysiques similaires, vous avez compris un moyen de manipuler les effets de votre malédiction oraculaire. Vous modifiez immédiatement votre malédiction pour la faire passer à son stade mineur, modéré ou majeur ou revenir à sa forme légère, en échangeant l'effet de la malédiction avec celui d'une version parallèle de vous-même dans une autre réalité.</p>"
+        },
+        {
+            "id": "Impossible Volley (Eldritch Archer)",
+            "name": "Volée invraisemblable (Archer mystique)",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec le trait volée et un rechargement 0.</p>\n<hr />\n<p>Vous tirez une volée de projectiles sur tous les adversaires dans une zone. Effectuez une Frappe avec un malus de −2 contre chaque ennemi dans une explosion de 3 m de rayon centrée sur un point situé à une distance supérieure ou égale à la portée de volée de votre arme. Faites un seul jet de dégâts pour toutes les cibles.</p>\n<p>Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>"
         },
         {
             "id": "Goading Feint",
@@ -13789,6 +13900,16 @@
             ]
         },
         {
+            "id": "Butterfly Blade Dedication",
+            "name": "Dévouement des lames papillons",
+            "description": "<p><strong>Accès</strong> Vaincre un membre des Lames papillon dans un combat organisé.</p>\n<hr />\n<p>Vous devenez qualifié en Duperie et en Discrétion ; si vous étiez déjà qualifié, vous devenez un expert à la place. Lorsque votre rang de maîtrise dans n'importe quelle arme passe à expert ou au delà, vous obtenez aussi ce nouveau rang de maîtrise avec les épées papillon. Vous obtenez l'accès aux épées papillon.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons de cet archétype.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié avec les épées papillons"
+                }
+            ]
+        },
+        {
             "id": "Titan's Stature",
             "name": "Stature de titan",
             "description": "<p>Vous grandissez encore plus. Quand vous utilisez votre Stature de géant, vous pouvez maintenant devenir Très Grand (vous augmentez alors votre allonge de 3 m si vous étiez de taille Moyenne ou inférieure) pendant que vous êtres enragé. Vous êtes dans l’état @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{maladroit} 1 (page 622) tant que vous êtes Très Grand.</p>\n<p>@Compendium[pf2e.feat-effects.RcxDIOa68SUGyMun]{Effet: Stature de titan}</p>",
@@ -14121,6 +14242,16 @@
             "description": "<p>Vous vous êtes consacré à la recherche des secrets de la Sphère intérieure. Vous êtes qualifié à votre choix en Survie et soit Arcanes ou Nature. Si vous étiez déjà qualifié en Survie (de par votre historique ou de votre classe, par exemple), vous êtes à la place qualifié dans une compétence de votre choix. Vous êtes qualifié dans la connaissance associée avec votre Plan élémentaire d'origine (comme la Connaissance du Plan du feu).</p>"
         },
         {
+            "id": "Sixth Pillar Mastery",
+            "name": "Maîtrise du Sixième pilier",
+            "description": "<p>Votre plus grande discipline aligne votre potentiel magique et physique. Si vous êtes au moins maître en attaques à mains nues, votre maîtrise en attaques de sorts passe à maître. De même, si voous êtes au moins maître en attaques de sorts, votre rang de compétence en attaques à mains nues s'améliore jusqu'à maître.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement du Sixième pilier"
+                }
+            ]
+        },
+        {
             "id": "Basic Arcana",
             "name": "Arcanes basiques",
             "description": "<p>Vous gagnez un don de magicien de niveau 1 et 2 de votre choix.</p>",
@@ -14368,6 +14499,16 @@
             ]
         },
         {
+            "id": "Disrupting Strikes",
+            "name": "Frappes Perturbatrices",
+            "description": "<p>Vous faites appel à votre énergie positive intérieure pour vous aider à détruire les morts-vivants. Vos frappes avec ou sans arme gagnent les effets d'une rune de propriété @Compendium[pf2e.equipment-srd.LwQb7ryTC8FlOXgX]{perturbatrice} jusqu'au début de votre prochain tour.</p>\n<p>À partir du niveau 14, vos frappes gagnent plutôt les effets d'une rune de propriété @Compendium[pf2e.equipment-srd.oVrVzML63VFvVfKk]{perturbatrice supérieure}. Le DD de l'effet de la rune est égal au plus élevé entre votre DD de classe ou votre DD de sort.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Mangeur de fantômes"
+                }
+            ]
+        },
+        {
             "id": "Friendform",
             "name": "Forme amicale",
             "description": "<p>Le lien partagé entre vous et vos alliés vous permet d'agir en leur nom. Au cours de vos préparatifs quotidiens, vous pouvez accomplir un rituel simple avec un maximum de cinq humanoïdes de taille petite ou moyenne consentants. Au cours de celui-ci les participants échangent des objets mineurs ayant une signification personnelle. Tant que vous conservez le jeton d'un participant, vous pouvez prendre sa forme avec votre capacité Changer de forme, en obtenant un bonus de statut de +4 aux tests de Duperie pour vous faire passer pour cette personne et en ajoutant votre niveau au test, même si vous n'êtes pas qualifié. Vous perdez l'accès à la forme d'un participant s'il ne porte pas votre jeton ou si vous utilisez à nouveau le rituel.</p>"
@@ -14455,6 +14596,22 @@
             "prereq": [
                 {
                     "value": "héritage gobelin incassable"
+                }
+            ]
+        },
+        {
+            "id": "Sixth Pillar Dedication",
+            "name": "Dévouement de Sixième pilier",
+            "description": "<p>Vous utilisez votre discipline physique pour canaliser votre magie. Si votre rang de compétence en attaques à mains nues est au moins expert, votre rang de compétence en attaques de sorts passe à expert. De même, si votre rang de compétence en attaques de sorts est au moins expert, votre rang de compétence en attaques à mains nues passe à expert. Vous devenez expert en athlétisme ou dans une autre compétence avec laquelle vous êtes qualifiée si vous étiez déjà expert en athlétisme.</p>\n<hr />\n</p><strong>Spécial</strong>Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres exploits de l'archétype de Sixième pilier.</p>",
+            "prereq": [
+                {
+                    "value": "Dextérité 14"
+                },
+                {
+                    "value": "expert en Acrobaties"
+                },
+                {
+                    "value": "capable de lancer des sorts"
                 }
             ]
         },
@@ -15268,6 +15425,11 @@
             ]
         },
         {
+            "id": "See the Unseen",
+            "name": "Voir l'invisible",
+            "description": "<p>Vous remarquez des choses que d'autres ne peuvent pas voir du tout. Lorsque vous êtes adjacent à une créature Non détectée de votre niveau ou inférieur, elle est seulement Cachée pour ce qui vous concerne. Vous n'avez besoin que d'un test nu contre un DD 5 pour cibler une créature @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée}.</p>"
+        },
+        {
             "id": "Kitsune Lore",
             "name": "Connaissance des kitsunes",
             "description": "<p>Vous excellez à naviguer dans les situations sociales et à garder les secrets. Vous êtes qualifié en Diplomatie et en Duperie. Si vous devriez automatiquement qualifié dans une de ces compétences (de votre historique ou de votre classe , par exemple), vous êtes à la place qualifié dans une compétence de votre choix. Vous êtes aussi qualifié en Connaissance des Kitsunes.</p>"
@@ -15732,6 +15894,19 @@
             ]
         },
         {
+            "id": "Silent Sting",
+            "name": "Piqûre silencieuse",
+            "description": "<p><strong>Déclencheur</strong> Vous faites une Frappe avec une arme d'encombrement léger.</p>\n<hr />\n<p>Vous cachez rapidement votre arme pour qu'il soit difficile de vous atrribuer l'attaque. Vous tentez de Dissimuler un objet pour cacher l'arme déclencheuse. Votre test de Discrétion est comparé au DD de Perception de toutes les créatures situées dans un rayon de 9 m et qui peuvent vous voir. Vous réussissez automatiquement contre les créatures situées à plus de 9 m. La cible de votre Frappe bénéficie d'un bonus de circonstances de +4 à son DD de Perception pour ce test. Si votre test de Discrétion est réussi, vous dissimulez si bien votre arme que la créature ne peut pas déterminer clairement d'où provient l'attaque.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Xun de la Ligue dorée"
+                },
+                {
+                    "value": "expert en Discrétion"
+                }
+            ]
+        },
+        {
             "id": "Watchful Halfling",
             "name": "Halfelin vigilant",
             "description": "<p>Votre mode de vie communautaire vous a appris à faire attention aux gens qui vous entourent et vous remarquez plus facilement quand leur comportement est inhabituel.</p>\n<p>Vous gagnez un bonus de circonstances de +2 à vos tests de Perception quand vous utilisez l’action basique @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions} afin de remarquer les personnages enchantés ou possédés. Si vous n’êtes pas en train de tenter de Deviner les intentions d’un personnage enchanté ou possédé, le MJ fait un test secret afin de déterminer si vous remarquez que cette créature est enchantée ou possédée, sans tenir compte des circonstances habituelles et en appliquant un malus de circonstances de −2.</p>\n<p>En plus de l’utiliser pour les tests de compétence, vous pouvez utiliser l’action basique @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} pour accorder un bonus à une autre créature qui fait un jet de sauvegarde ou un autre test afin de passer outre un enchantement ou une possession. Comme c’est le cas avec l’action Aider, vous devez vous préparer en utilisant une action lors de votre tour afin d’encourager la créature à lutter contre l’effet.</p>"
@@ -16035,6 +16210,16 @@
             "id": "Warren Navigator",
             "name": "Navigateur de terrier",
             "description": "<p>Vous êtes particulièrement bon pour sortir des labyrinthes et naviguer dans les méandres. Vous êtes qualifié en Survie. Si vous devriez déjà être qualifié en Survie (par votre héritage ou votre classe par exemple ), vous êtes qualifié en une compétence de votre choix. Lorsque vous vous @Compendium[pf2e.actionspf2e.fJImDBQfqfjKJOhk]{Orientez} ou tentez un jet contre un sort de  @Compendium[pf2e.spells-srd.Oj1PJBMQD9vuwCv7]{Labyrinthe}, vous obtenez un résultat d'un degré meilleur que celui que vous avez obtenu au dé. Vous ne subissez aucune pénalité lorsque vous vous Orientez sans utiliser de boussole.</p>"
+        },
+        {
+            "id": "Mastermind's Eye",
+            "name": "Œil du cerveau",
+            "description": "<p>Lorsque vous réussissez à identifier une créature en utilisant Se souvenir, cette créature est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} contre vos attaques jusqu'au début de votre prochain tour ; si vous obtenez une réussite critique, elle est Prise au dépourvu contre vos attaques pendant 1 minute. Ce don sert comme le racket de cerveau du rôdeur lorsqu'il s'agit de remplir une condition.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Lame papillon"
+                }
+            ]
         },
         {
             "id": "Dragonslayer Oath (Paladin)",
@@ -18807,6 +18992,16 @@
             ]
         },
         {
+            "id": "Deadly Butterfly",
+            "name": "Papillon mortel",
+            "description": "<p>Vous obtenez l'accès à l'effet de critique spécialisé de l'épée papillon. Si vous aviez déjà accès à l'effet de critique spécialisé ou si vous obtenez cet effet ultérieurement, vous bénéficiez également de l'effet de critique spécialisé pour les couteaux lorsque vous infligez un coup critique avec une épée papillon. Vous ne pouvez bénéficier que d'un seul effet de critique spécialisé à la fois.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Lame papillon"
+                }
+            ]
+        },
+        {
             "id": "Back To Back",
             "name": "Dos à dos",
             "description": "<p>Vous excellez à couvrir vos alliés et à les aider à veiller sur vos arrières. Tant que vous et un allié êtes adjacents l'un à l'autre, aucun d'enter vous ne peut devenir @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} à cause de la prise en tenaille à moins que vous ne soyez tous deux pris en tenaille. Si vous êtes adjacent à plus d'un allié, tous les alliés éligibles peuvent en bénéficier en même temps. Le bénéfice est annulé si au moins vous et un allié êtes pris en tenaille mais pas si chacun de votre alliés est pris en tenaille alors que vous ne l'êtes pas.</p>",
@@ -19341,6 +19536,16 @@
             "prereq": [
                 {
                     "value": "allié divin"
+                }
+            ]
+        },
+        {
+            "id": "Reach Beyond",
+            "name": "Atteindre audelà",
+            "description": "<p>Vous avez appris à déplacer votre énergie spirituelle au-delà de vous-même pour attaquer les esprits là où les autres ne le peuvent pas. Vous pouvez porter des Frappes au corps-à-corps contre les créatures incorporelles qui se trouvent à l'intérieur d'objets solides, tant que l'objet est à votre portée. Une créature incorporelle se trouvant à l'intérieur d'un objet solide est Cachée, ce qui vous oblige à réussir un test nu contre un DD 11 lorsque vous la ciblez. Vous pouvez dépenser une action, qui possède le trait concentration, pour vous concentrer sur une créature à l'intérieur d'un objet solide. Si vous le faites, la prochaine Frappe au corps-à-corps que vous effectuez ce tour ne nécessite de réussir qu'un test nu DD 6 pour affecter la créature.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Mangeur de fantômes"
                 }
             ]
         },
@@ -21109,6 +21314,11 @@
             "description": "<p>Votre ego développé complique la tâche de ceux qui veulent vous donner des ordres. Si vous obtenez un succès à un jet de sauvegarde contre un effet mental qui vise à contrôler directement vos actions, vous obtenez à la place un succès critique. Si une créature obtient un échec à un test pour vous Contraindre en utilisant l’Intimidation, elle obtient un échec critique à la place (elle ne peut donc pas tenter de vous Contraindre de nouveau pendant 1 semaine).</p>"
         },
         {
+            "id": "Ruby Resurrection",
+            "name": "Résurrection rubis",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous devriez être réduit à 0 points de vie.</p>\n<hr />\n<p>Dans un jet de flammes, vous revenez en pleine santé, comme un phénix renaissant de ses cendres. Changez votre nombre de point de vie actuel à 30 et lancez une boule de feu au niveau 6 centrée sur vous. Cette boule de feu ne vous affecte pas. Vos cheveux deviennent rouge brillant pendant 1 heure.</p>\n<p>Si vous n'avez pas utilisé Résurrection rubis et que vous mourrez, vous restez dans l'ordre d'initiative et Résurrection rubis se déclenche automatiquement au début de votre prochain tour, vous ramenant à la vie à 0 points de vie avant de produire ses effets normaux. Cela ne se produit que si vous avez des restes à ressusciter ; par exemple, si vous avez été tué par une désintégration, vous ne revenez pas à la vie.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don possède le trait correspondant à la tradition des sorts que vous lancez.</p>"
+        },
+        {
             "id": "Expert Witch Spellcasting",
             "name": "Incantation de sorcière experte",
             "description": "<p>Vous obtenez les avantages de l'incantation experte.</p>",
@@ -21151,6 +21361,16 @@
                 },
                 {
                     "value": "cause du libérateur"
+                }
+            ]
+        },
+        {
+            "id": "Cross the Threshold",
+            "name": "Traverser le seuil",
+            "description": "<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.D2nPKbIS67m9199U]{Forme éthérée} comme un sort inné occulte une fois par jour. Vous n'avez pas besoin de Maintenir le sort ; à la place, il dure pendant 10 minutes ou jusqu'à ce que vous décidiez de revenir sous votre forme matériel comme une action libre.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Mangeur de fantômes"
                 }
             ]
         },
@@ -21991,6 +22211,16 @@
             "description": "<p>Vous êtes né d'un œuf non fertilisé durant des temps difficiles pour votre peuple et vous êtes la copie biologique de votre mère.</p>\n<p>Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les maladies. Chaque jet de sauvegarde réussi contre une maladie réduit son degré de 2 ou de 1 pour une maladie virulente. Chaque succès critique contre une maladie en cours réduit son degré de 3 ou de 2 pour une maladie virulente. Vous subissez les dégâts de la soif toutes les 2 heures et de la faim tous les 2 jours plutôt que chaque heure et chaque jour.</p>"
         },
         {
+            "id": "Six Pillars Stance",
+            "name": "Posture des sic piliers",
+            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous vous tenez fermement, endurcissant votre esprit et votre corps, ce qui vous permet d'utiliser votre magie sans être perturbé. Lorsque vous êtes dans cette posture, vous gagnez un bonus de circonstances de +4 à la CA contre les réactions déclenchées par l'utilisation d'actions avec les traits Concentration ou Manipulation. De plus, lorsque vous lancez un sort qui nécessite une ou plusieurs actions alors que vous êtes dans cette posture, vos frappes à mains nues bénéficient d'un bonus de circonstances de +1 aux dégâts.</p>\n<p>@Compendium[pf2e.feat-effects.P80mwvCAEncR2snK]{Posture: Posture des six piliers}</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Sixième pilier"
+                }
+            ]
+        },
+        {
             "id": "Improved Swift Banishment",
             "name": "Bannissement rapide amélioré",
             "description": "<p>Vous bannissez aisément les créatures avec votre arme. Vous pouvez utiliser @Compendium[pf2e.feats-srd.t3unBu3PX6AO0uIW]{Bannissement rapide} tant qu’il vous reste un emplacement de sort de niveau 5 ou plus, même si vous n’avez pas préparé le sort Bannissement. Vous devez sacrifier un sort préparé de niveau 5 ou plus et l’effet de Bannissement est intensifié jusqu’au niveau de ce sort. Votre arme fait office de composant matériel spécial pour le Bannissement, infligeant à la cible un malus de −2 à son jet de sauvegarde contre tout Bannissement que vous lancez en utilisant Bannissement rapide.</p>",
@@ -22213,6 +22443,16 @@
             "prereq": [
                 {
                     "value": "Rune de sort"
+                }
+            ]
+        },
+        {
+            "id": "Ghost Eater Dedication",
+            "name": "Dévouement de Mangeur de fantômes",
+            "description": "<p>Vous vous êtes entrainé comme Mangeur de fantômes, un chasseur spécialisé dans la destruction des esprits. Vous savez comment canaliser voter propre énergie spirituelle pour blesser les esprits. Vos Frappes avec des armes et des attaques à lains nues deviennent magiques. Contre les créatures intangibles, elles obtiennent également les effet de la rune de propriété spectrale.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons de cet archétype.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Occultisme ou Religion"
                 }
             ]
         },
@@ -23002,6 +23242,16 @@
             "id": "Woodcraft",
             "name": "Forestier",
             "description": "<p>Vous avez une familiarité innée avec les zones forestières. Lorque vous êtes en forêt ou dans une jungle, si vous obtenez un échec critique sur un test de compétence de Survie pour Déterminer la direction, Subsister ou Effacer vos traces, vous obtenez un échec à la place et si vous obtenez un succès, vous considérez qu'il s'agit d'un succès critique à la place.</p>"
+        },
+        {
+            "id": "Maneuvering Spell",
+            "name": "Sort manœuvrant",
+            "description": "</p><strong>Déclencheur</strong>Vous commencez à lancer un sortilège qui nécessite au moins 2 actions pour être lancé.</p>\n<hr />\n<p>Vous puisez instantanément dans la puissance magique d'un sort que vous lancez pour bondir rapidement sur le champ de bataille. Vous @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faites un pas}, @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bondissez} ou @Compendium[pf2e.actionspf2e.OdIUybJ3ddfL7wzj]{vous Relevez}. Cette action peut être effectuée avant ou après le lancement du sort.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement du Sixième pilier"
+                }
+            ]
         },
         {
             "id": "Mesmerizing Gaze",

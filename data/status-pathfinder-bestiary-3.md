@@ -1,44 +1,18 @@
 # État de la traduction (pathfinder-bestiary-3)
 
- * **libre**: 133
+ * **libre**: 181
  * **vide**: 11
  * **changé**: 14
- * **aucune**: 182
+ * **aucune**: 134
 
 
-Dernière mise à jour: 2021-07-15 16:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-17 16:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[aepfNXXy2juozgzB.htm](pathfinder-bestiary-3/aepfNXXy2juozgzB.htm)|Weasel|
-|[Al5OHM0hbWcqIplK.htm](pathfinder-bestiary-3/Al5OHM0hbWcqIplK.htm)|Wizard Sponge (Fiendish Temple)|
-|[CXCdPqMRX58sBQ9G.htm](pathfinder-bestiary-3/CXCdPqMRX58sBQ9G.htm)|Hellknight Cavalry Brigade|
-|[dCJDmNm6WSKf0AY4.htm](pathfinder-bestiary-3/dCJDmNm6WSKf0AY4.htm)|Piranha Swarm|
-|[DIJQ1UvfDDnDP545.htm](pathfinder-bestiary-3/DIJQ1UvfDDnDP545.htm)|Cave Giant|
-|[dKFzkdgTntTm8ydA.htm](pathfinder-bestiary-3/dKFzkdgTntTm8ydA.htm)|Wizard Sponge (Crypt)|
-|[dniiLeUhXaq5CElX.htm](pathfinder-bestiary-3/dniiLeUhXaq5CElX.htm)|Arboreal Reaper|
-|[dVJkFPCqJcPjImdG.htm](pathfinder-bestiary-3/dVJkFPCqJcPjImdG.htm)|Mix Couatl|
-|[e6r8AGxfp8PDXaZk.htm](pathfinder-bestiary-3/e6r8AGxfp8PDXaZk.htm)|Levaloch|
-|[eGNpuEg60STItyGz.htm](pathfinder-bestiary-3/eGNpuEg60STItyGz.htm)|Cactus Leshy|
-|[EP8xhzy46zPWvhQL.htm](pathfinder-bestiary-3/EP8xhzy46zPWvhQL.htm)|Squirming Swill|
-|[epTO8fPDjyy2WhzD.htm](pathfinder-bestiary-3/epTO8fPDjyy2WhzD.htm)|Mithral Golem|
-|[esw400AugH9XWq5p.htm](pathfinder-bestiary-3/esw400AugH9XWq5p.htm)|Hekatonkheires Titan|
-|[ew52XP0hjUACnidH.htm](pathfinder-bestiary-3/ew52XP0hjUACnidH.htm)|Blood Hag|
-|[eYKWJCYNqqp1rp2i.htm](pathfinder-bestiary-3/eYKWJCYNqqp1rp2i.htm)|Nightgaunt|
-|[F4aCBm1lfPlRQzZ1.htm](pathfinder-bestiary-3/F4aCBm1lfPlRQzZ1.htm)|Ghoran Manipulator|
-|[fcFQ2GDUZ9YAhiDC.htm](pathfinder-bestiary-3/fcFQ2GDUZ9YAhiDC.htm)|Animated Trebuchet|
-|[FHZPjbRmJCqnhdal.htm](pathfinder-bestiary-3/FHZPjbRmJCqnhdal.htm)|Mage-Eater Worm Swarm|
-|[FjiovYhLSHDX0ODl.htm](pathfinder-bestiary-3/FjiovYhLSHDX0ODl.htm)|Tattoo Guardian|
-|[FjZ737XIvSOSaYcA.htm](pathfinder-bestiary-3/FjZ737XIvSOSaYcA.htm)|Tyrannosaurus Skeleton|
-|[fLyIWlTCW3cUPjvd.htm](pathfinder-bestiary-3/fLyIWlTCW3cUPjvd.htm)|Animated Furnace|
-|[FOG8qK1bWVxp7vmE.htm](pathfinder-bestiary-3/FOG8qK1bWVxp7vmE.htm)|Empress Bore Worm|
-|[fuCPoL2OVcQf5uT9.htm](pathfinder-bestiary-3/fuCPoL2OVcQf5uT9.htm)|Ovinnik|
-|[H796hayJm3J7MYJg.htm](pathfinder-bestiary-3/H796hayJm3J7MYJg.htm)|Amphisbaena|
-|[H7PDLOIbDG9zt4H1.htm](pathfinder-bestiary-3/H7PDLOIbDG9zt4H1.htm)|Yzobu|
-|[H8PaAZanEOT85KjD.htm](pathfinder-bestiary-3/H8PaAZanEOT85KjD.htm)|Vine Leshy|
 |[HhuHFmaq69ekSgEl.htm](pathfinder-bestiary-3/HhuHFmaq69ekSgEl.htm)|Shantak|
 |[hNW3X8MbQQ9pUMiR.htm](pathfinder-bestiary-3/hNW3X8MbQQ9pUMiR.htm)|Buso Farmer|
 |[HObVT8aJnsx5nnqu.htm](pathfinder-bestiary-3/HObVT8aJnsx5nnqu.htm)|Tikbalang|
@@ -47,21 +21,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[i3Ui3hHIBZnHl0Le.htm](pathfinder-bestiary-3/i3Ui3hHIBZnHl0Le.htm)|Globster|
 |[iD32uhsjUGLvC2q6.htm](pathfinder-bestiary-3/iD32uhsjUGLvC2q6.htm)|Bone Ship|
 |[IijUBFE1vhvgowhD.htm](pathfinder-bestiary-3/IijUBFE1vhvgowhD.htm)|Giant Porcupine|
-|[iiXjQ1SchGiotpVp.htm](pathfinder-bestiary-3/iiXjQ1SchGiotpVp.htm)|Skeleton Infantry|
-|[iLoVkzve6Nu3gErr.htm](pathfinder-bestiary-3/iLoVkzve6Nu3gErr.htm)|Herexen|
-|[IMrnOMr3GtUFKyuV.htm](pathfinder-bestiary-3/IMrnOMr3GtUFKyuV.htm)|Ice Worm Swarm|
 |[iNgKGHzMOAHjWQeI.htm](pathfinder-bestiary-3/iNgKGHzMOAHjWQeI.htm)|Android Infiltrator|
 |[Ir3N6RHfg6vXYkmN.htm](pathfinder-bestiary-3/Ir3N6RHfg6vXYkmN.htm)|Rosethorn Ram|
 |[JHrINFX7a7fYhP4w.htm](pathfinder-bestiary-3/JHrINFX7a7fYhP4w.htm)|Gliminal|
 |[JkJRKxuIGJ3DOD9L.htm](pathfinder-bestiary-3/JkJRKxuIGJ3DOD9L.htm)|Owb|
-|[JlFBu8zobNq3daVF.htm](pathfinder-bestiary-3/JlFBu8zobNq3daVF.htm)|Necril Worm Swarm|
 |[kBIl96jzJjOd0LkZ.htm](pathfinder-bestiary-3/kBIl96jzJjOd0LkZ.htm)|Namorrodor|
 |[KGAuzJaKfPAdn0It.htm](pathfinder-bestiary-3/KGAuzJaKfPAdn0It.htm)|Aghash|
 |[KGiEFgiqiexNBfS3.htm](pathfinder-bestiary-3/KGiEFgiqiexNBfS3.htm)|Wihsaak|
 |[krbmyD1SuPQb4QfF.htm](pathfinder-bestiary-3/krbmyD1SuPQb4QfF.htm)|Blood Painter|
 |[kSk6QjH4wDGPPFrY.htm](pathfinder-bestiary-3/kSk6QjH4wDGPPFrY.htm)|Rokurokubi|
 |[KSKettq5j3A7UsIh.htm](pathfinder-bestiary-3/KSKettq5j3A7UsIh.htm)|Phantom Beast|
-|[KTzSpyphiJ78EnBd.htm](pathfinder-bestiary-3/KTzSpyphiJ78EnBd.htm)|Winter Hag|
 |[kU0ZXzbHqHUIND6m.htm](pathfinder-bestiary-3/kU0ZXzbHqHUIND6m.htm)|Fortune Eater|
 |[kuh9DOsFXybRZRlj.htm](pathfinder-bestiary-3/kuh9DOsFXybRZRlj.htm)|Tolokand|
 |[kXc11R18rF28AgIf.htm](pathfinder-bestiary-3/kXc11R18rF28AgIf.htm)|Green Man|
@@ -70,18 +39,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[LjpOnADaKe9ormfL.htm](pathfinder-bestiary-3/LjpOnADaKe9ormfL.htm)|Kuchisake-Onna|
 |[Lqm3acjjbLKuRUCf.htm](pathfinder-bestiary-3/Lqm3acjjbLKuRUCf.htm)|Peri|
 |[lrSuRCrRjP3xBfRy.htm](pathfinder-bestiary-3/lrSuRCrRjP3xBfRy.htm)|Megatherium|
-|[mbu0D45HPRNAwgEU.htm](pathfinder-bestiary-3/mbu0D45HPRNAwgEU.htm)|Munagola|
-|[MD6eXpxoSPO02fZY.htm](pathfinder-bestiary-3/MD6eXpxoSPO02fZY.htm)|Xiuh Couatl|
-|[mgQSYE94vb2ICVjL.htm](pathfinder-bestiary-3/mgQSYE94vb2ICVjL.htm)|Locathah Hunter|
 |[MJhb44wEqSMWtrfe.htm](pathfinder-bestiary-3/MJhb44wEqSMWtrfe.htm)|Angheuvore Flesh-gnawer|
 |[mK7FwVR1yyqeMlA4.htm](pathfinder-bestiary-3/mK7FwVR1yyqeMlA4.htm)|Seething Spirit|
-|[MolnKBns2ePDFbAB.htm](pathfinder-bestiary-3/MolnKBns2ePDFbAB.htm)|Hellbound Attorney|
 |[MtCiCanKa8EgZOm9.htm](pathfinder-bestiary-3/MtCiCanKa8EgZOm9.htm)|Three-toed Sloth|
 |[mupW1Mgec250lQiZ.htm](pathfinder-bestiary-3/mupW1Mgec250lQiZ.htm)|Umasi|
 |[n1GmLT7b5Q579Tcf.htm](pathfinder-bestiary-3/n1GmLT7b5Q579Tcf.htm)|Trailgaunt|
 |[N6nBHGfmlaeMiBMP.htm](pathfinder-bestiary-3/N6nBHGfmlaeMiBMP.htm)|Hellwasp Swarm|
 |[n9xSjQA1YSlYc9p3.htm](pathfinder-bestiary-3/n9xSjQA1YSlYc9p3.htm)|Millindemalion|
-|[NhHGDx6ChbrhAmbO.htm](pathfinder-bestiary-3/NhHGDx6ChbrhAmbO.htm)|Domovoi|
 |[NikAalo85JWVE6d2.htm](pathfinder-bestiary-3/NikAalo85JWVE6d2.htm)|Nagaji Soldier|
 |[nIXWanjtyklfwH7u.htm](pathfinder-bestiary-3/nIXWanjtyklfwH7u.htm)|Tiddalik|
 |[NldgVUIHB3asozHm.htm](pathfinder-bestiary-3/NldgVUIHB3asozHm.htm)|Wyrmwraith|
@@ -110,7 +74,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[qE0iZoeeOp7og5A5.htm](pathfinder-bestiary-3/qE0iZoeeOp7og5A5.htm)|Giant Seahorse|
 |[QJRi6WzEm0LbXjAc.htm](pathfinder-bestiary-3/QJRi6WzEm0LbXjAc.htm)|Doru|
 |[QLxcPfaHfc1vmF1Y.htm](pathfinder-bestiary-3/QLxcPfaHfc1vmF1Y.htm)|Terra-cotta Garrison|
-|[qm0YqO9ik2U2Gjdx.htm](pathfinder-bestiary-3/qm0YqO9ik2U2Gjdx.htm)|Moon Hag|
 |[qnFiUNUyH0zuG6hj.htm](pathfinder-bestiary-3/qnFiUNUyH0zuG6hj.htm)|Quintessivore|
 |[QrD96KPUHGjjkLbL.htm](pathfinder-bestiary-3/QrD96KPUHGjjkLbL.htm)|Kappa|
 |[QUzBzxRy6HLeK7ja.htm](pathfinder-bestiary-3/QUzBzxRy6HLeK7ja.htm)|Dybbuk|
@@ -126,7 +89,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rnxg09tUCFPGW8IS.htm](pathfinder-bestiary-3/rnxg09tUCFPGW8IS.htm)|Terror Bird|
 |[rOBXOcxMcnFR2P9y.htm](pathfinder-bestiary-3/rOBXOcxMcnFR2P9y.htm)|Skull Peeler|
 |[rOFpnEic0eJdaxiM.htm](pathfinder-bestiary-3/rOFpnEic0eJdaxiM.htm)|Kangaroo|
-|[rqNNvJO0XEVHWwbW.htm](pathfinder-bestiary-3/rqNNvJO0XEVHWwbW.htm)|Wizard Sponge (Underwater)|
 |[rr48cUJxGpII7jWz.htm](pathfinder-bestiary-3/rr48cUJxGpII7jWz.htm)|Feathered Bear|
 |[rrkjmcNlODuIpbz6.htm](pathfinder-bestiary-3/rrkjmcNlODuIpbz6.htm)|Ouroboros|
 |[RTTs4lvkcPz8u6IY.htm](pathfinder-bestiary-3/RTTs4lvkcPz8u6IY.htm)|Azarketi Explorer|
@@ -134,24 +96,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rW6vTwkAEAH8AMGw.htm](pathfinder-bestiary-3/rW6vTwkAEAH8AMGw.htm)|Wayang Whisperblade|
 |[RyFqNQ86931Y5tqO.htm](pathfinder-bestiary-3/RyFqNQ86931Y5tqO.htm)|Lovelorn|
 |[RZ1SLG0gxrOYSKRs.htm](pathfinder-bestiary-3/RZ1SLG0gxrOYSKRs.htm)|Vanara Disciple|
-|[S2DdLrq9V7M5WzM3.htm](pathfinder-bestiary-3/S2DdLrq9V7M5WzM3.htm)|Dvorovoi|
 |[S6V3z6bE6G9J68tE.htm](pathfinder-bestiary-3/S6V3z6bE6G9J68tE.htm)|Ringhorn Ram|
-|[SaNOrmVDvQGX5U1D.htm](pathfinder-bestiary-3/SaNOrmVDvQGX5U1D.htm)|Harpy Skeleton|
 |[sESP4UwiJHeNUYEv.htm](pathfinder-bestiary-3/sESP4UwiJHeNUYEv.htm)|Monkey Swarm|
 |[ShcTh3dSwjxbtoGG.htm](pathfinder-bestiary-3/ShcTh3dSwjxbtoGG.htm)|Tzitzimitl|
 |[SIE8CcEblKI9VwqO.htm](pathfinder-bestiary-3/SIE8CcEblKI9VwqO.htm)|Oil Living Graffiti|
 |[SjvmOu8v9haaZE1p.htm](pathfinder-bestiary-3/SjvmOu8v9haaZE1p.htm)|Leng Ghoul|
-|[sNeIVL8w7NPFtpK2.htm](pathfinder-bestiary-3/sNeIVL8w7NPFtpK2.htm)|Wizard Sponge (Fey Domain)|
 |[sNEvW8qBxztZcI8p.htm](pathfinder-bestiary-3/sNEvW8qBxztZcI8p.htm)|Shrine Skelm|
 |[sp0CZ8B2IPw3bBVi.htm](pathfinder-bestiary-3/sp0CZ8B2IPw3bBVi.htm)|Huldra|
 |[SQKdvPIhWkrHlkbn.htm](pathfinder-bestiary-3/SQKdvPIhWkrHlkbn.htm)|City Guard Squadron|
 |[ss5f2tMeJWO3u8GU.htm](pathfinder-bestiary-3/ss5f2tMeJWO3u8GU.htm)|Sasquatch|
 |[Su21mCjUxFJnoWGg.htm](pathfinder-bestiary-3/Su21mCjUxFJnoWGg.htm)|Azer|
 |[SuI5sxy5cuc0lnsh.htm](pathfinder-bestiary-3/SuI5sxy5cuc0lnsh.htm)|Platecarpus|
-|[tdSnY3lgYJnsvB8n.htm](pathfinder-bestiary-3/tdSnY3lgYJnsvB8n.htm)|Wizard Sponge|
-|[TeaF0WreNshQxbe8.htm](pathfinder-bestiary-3/TeaF0WreNshQxbe8.htm)|Wizard Sponge (Toxic Lair)|
 |[tjtTHdIBP5QIAyS7.htm](pathfinder-bestiary-3/tjtTHdIBP5QIAyS7.htm)|Vishkanya Infiltrator|
-|[tQBUoh5wLJXiFdX6.htm](pathfinder-bestiary-3/tQBUoh5wLJXiFdX6.htm)|Seaweed Leshy|
 |[tr9bmyZ6CYl2FPnr.htm](pathfinder-bestiary-3/tr9bmyZ6CYl2FPnr.htm)|Valkyrie|
 |[TzltHdjikojp7Um7.htm](pathfinder-bestiary-3/TzltHdjikojp7Um7.htm)|Penanggalan|
 |[U3rMc5sN05MempVX.htm](pathfinder-bestiary-3/U3rMc5sN05MempVX.htm)|Maftet Guardian|
@@ -161,7 +117,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[v0nvME08U3mZJWB3.htm](pathfinder-bestiary-3/v0nvME08U3mZJWB3.htm)|Betobeto-san|
 |[v7nu3NMYTS0YyxH4.htm](pathfinder-bestiary-3/v7nu3NMYTS0YyxH4.htm)|Adlet|
 |[VF81W91YRFgtBLli.htm](pathfinder-bestiary-3/VF81W91YRFgtBLli.htm)|Einherji|
-|[vJAPvmWCjVGKr06E.htm](pathfinder-bestiary-3/vJAPvmWCjVGKr06E.htm)|Arboreal Archive|
 |[VMZOQGY1x1of0XLm.htm](pathfinder-bestiary-3/VMZOQGY1x1of0XLm.htm)|Cunning Fox|
 |[vOTFqODTDDC2BDLx.htm](pathfinder-bestiary-3/vOTFqODTDDC2BDLx.htm)|Rancorous Priesthood|
 |[Vt28ucE0FUJYl1fD.htm](pathfinder-bestiary-3/Vt28ucE0FUJYl1fD.htm)|Coral Capuchin|
@@ -178,7 +133,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[xnrXf66rFvAfyhE9.htm](pathfinder-bestiary-3/xnrXf66rFvAfyhE9.htm)|Palace Skelm|
 |[XrSz2IIKbeYFGILW.htm](pathfinder-bestiary-3/XrSz2IIKbeYFGILW.htm)|Strix Kinmate|
 |[xswHz64371Sb9Let.htm](pathfinder-bestiary-3/xswHz64371Sb9Let.htm)|Nightmarchers|
-|[xwTZZAEs1sf5RWCq.htm](pathfinder-bestiary-3/xwTZZAEs1sf5RWCq.htm)|Danava Titan|
 |[XXsOK8ZUoqQATarG.htm](pathfinder-bestiary-3/XXsOK8ZUoqQATarG.htm)|Moose|
 |[XyEvsURVDnJwb76F.htm](pathfinder-bestiary-3/XyEvsURVDnJwb76F.htm)|Bison|
 |[Y8lQqtOgXYXDCPFg.htm](pathfinder-bestiary-3/Y8lQqtOgXYXDCPFg.htm)|Swordkeeper|
@@ -191,8 +145,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Z5RBfl8x39uFpDUn.htm](pathfinder-bestiary-3/Z5RBfl8x39uFpDUn.htm)|Myceloid|
 |[ZDGYrJ68aTzZ2EtT.htm](pathfinder-bestiary-3/ZDGYrJ68aTzZ2EtT.htm)|Phantom Knight|
 |[zdJgaVe6VRSfEE1n.htm](pathfinder-bestiary-3/zdJgaVe6VRSfEE1n.htm)|Caligni Caller|
-|[zGtfiKku0td5E0VJ.htm](pathfinder-bestiary-3/zGtfiKku0td5E0VJ.htm)|Fossil Golem|
-|[ZMrydoEfgGUAJGNI.htm](pathfinder-bestiary-3/ZMrydoEfgGUAJGNI.htm)|Plague Giant|
 |[ZOrG61DZ9aiv8poK.htm](pathfinder-bestiary-3/ZOrG61DZ9aiv8poK.htm)|Owb Prophet|
 |[ZwtcCnW9CEs78WRC.htm](pathfinder-bestiary-3/ZwtcCnW9CEs78WRC.htm)|Mobogo|
 
@@ -263,7 +215,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6OxiStysMq65xKgS.htm](pathfinder-bestiary-3/6OxiStysMq65xKgS.htm)|Kongamato|Kongamato|libre|
 |[6rtLd2rN1qd6eCqK.htm](pathfinder-bestiary-3/6rtLd2rN1qd6eCqK.htm)|Hieracosphinx|Hiéracosphinx|libre|
 |[6yc1exIcngUEvBQH.htm](pathfinder-bestiary-3/6yc1exIcngUEvBQH.htm)|Adhukait|Adhukait (Asura)|libre|
-|[74Sw9n7c4sMaK9Rx.htm](pathfinder-bestiary-3/74Sw9n7c4sMaK9Rx.htm)|Stheno Harpist|Sthéno harpiste|libre|
+|[74Sw9n7c4sMaK9Rx.htm](pathfinder-bestiary-3/74Sw9n7c4sMaK9Rx.htm)|Stheno Harpist|Harpiste sthéno|libre|
 |[79pfivF3swvfsJE4.htm](pathfinder-bestiary-3/79pfivF3swvfsJE4.htm)|Caligni Vanguard|Avant-garde caligni|libre|
 |[7bTj2DC91yEdJiLq.htm](pathfinder-bestiary-3/7bTj2DC91yEdJiLq.htm)|Vilderavn|Vilderavn|libre|
 |[7lSwznbhNb7THfZo.htm](pathfinder-bestiary-3/7lSwznbhNb7THfZo.htm)|Terror Shrike|Pie-grièche de terreur|libre|
@@ -285,10 +237,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[aAU3gHWd1a9DyQPH.htm](pathfinder-bestiary-3/aAU3gHWd1a9DyQPH.htm)|Nosferatu Overlord|Seigneur Nosferatu|libre|
 |[abSsuJM94EvvyQYw.htm](pathfinder-bestiary-3/abSsuJM94EvvyQYw.htm)|Giant Flying Squirrel|Écureuil géant volant|libre|
 |[aeLTz7wO9ajPaQ0V.htm](pathfinder-bestiary-3/aeLTz7wO9ajPaQ0V.htm)|Hermit Crab Swarm|Nuée de bernard-l'hermite|libre|
+|[aepfNXXy2juozgzB.htm](pathfinder-bestiary-3/aepfNXXy2juozgzB.htm)|Weasel|Belette|libre|
+|[Al5OHM0hbWcqIplK.htm](pathfinder-bestiary-3/Al5OHM0hbWcqIplK.htm)|Wizard Sponge (Fiendish Temple)|Éponge de mage (Temple fiélon)|libre|
 |[AlLBsYO3ax9OQzAK.htm](pathfinder-bestiary-3/AlLBsYO3ax9OQzAK.htm)|Tupilaq|Tupilaq|libre|
 |[AmkhY7NErzNgbsN0.htm](pathfinder-bestiary-3/AmkhY7NErzNgbsN0.htm)|Narwhal|Narval|libre|
 |[an7tww93Y4pQ8HP6.htm](pathfinder-bestiary-3/an7tww93Y4pQ8HP6.htm)|Baykok|Baykok|libre|
-|[aQusm2Uh1tw00IVb.htm](pathfinder-bestiary-3/aQusm2Uh1tw00IVb.htm)|Bore Worm Swarm|Nuée de vers foreur|libre|
+|[aQusm2Uh1tw00IVb.htm](pathfinder-bestiary-3/aQusm2Uh1tw00IVb.htm)|Bore Worm Swarm|Nuée de vers-foreur|libre|
 |[aqvMwn6885CJEmCO.htm](pathfinder-bestiary-3/aqvMwn6885CJEmCO.htm)|Garuda|Garuda|libre|
 |[aX0zhmJGzpnwCwMr.htm](pathfinder-bestiary-3/aX0zhmJGzpnwCwMr.htm)|Feral Skull Swarm|Nuée de crânes sauvages|libre|
 |[AxfH7V8A38VVugYo.htm](pathfinder-bestiary-3/AxfH7V8A38VVugYo.htm)|Lampad|Lampade (Nymphe)|libre|
@@ -310,12 +264,33 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cmzlnTgWcJjnISAK.htm](pathfinder-bestiary-3/cmzlnTgWcJjnISAK.htm)|Kokogiak|Kokogiak|libre|
 |[CSPuBqtPITQt43Md.htm](pathfinder-bestiary-3/CSPuBqtPITQt43Md.htm)|Gathlain Wanderer|Vagabond gathlain|libre|
 |[cWlntwaa4HPFEf3u.htm](pathfinder-bestiary-3/cWlntwaa4HPFEf3u.htm)|Sturzstromer|Sturzstromeur|libre|
+|[CXCdPqMRX58sBQ9G.htm](pathfinder-bestiary-3/CXCdPqMRX58sBQ9G.htm)|Hellknight Cavalry Brigade|Brigade de cavalerie Chevalier infernaux|libre|
+|[dCJDmNm6WSKf0AY4.htm](pathfinder-bestiary-3/dCJDmNm6WSKf0AY4.htm)|Piranha Swarm|Nuée de piranhas|libre|
+|[DIJQ1UvfDDnDP545.htm](pathfinder-bestiary-3/DIJQ1UvfDDnDP545.htm)|Cave Giant|Géant des grottes|libre|
 |[dkDbXG0boTkddHSG.htm](pathfinder-bestiary-3/dkDbXG0boTkddHSG.htm)|Melixie|Mélixie (Sprite)|libre|
+|[dKFzkdgTntTm8ydA.htm](pathfinder-bestiary-3/dKFzkdgTntTm8ydA.htm)|Wizard Sponge (Crypt)|Éponge du mage (Crypte)|libre|
 |[DmQM0QTSPJ7YtpMg.htm](pathfinder-bestiary-3/DmQM0QTSPJ7YtpMg.htm)|Girtablilu Seer|Voyant Girtablilu|libre|
+|[dniiLeUhXaq5CElX.htm](pathfinder-bestiary-3/dniiLeUhXaq5CElX.htm)|Arboreal Reaper|Faucheur arboréen|libre|
+|[dVJkFPCqJcPjImdG.htm](pathfinder-bestiary-3/dVJkFPCqJcPjImdG.htm)|Mix Couatl|Coatl mix|libre|
+|[e6r8AGxfp8PDXaZk.htm](pathfinder-bestiary-3/e6r8AGxfp8PDXaZk.htm)|Levaloch|Levaloch|libre|
+|[eGNpuEg60STItyGz.htm](pathfinder-bestiary-3/eGNpuEg60STItyGz.htm)|Cactus Leshy|Léchi cactus|libre|
 |[EGyCQDseM9FaCl78.htm](pathfinder-bestiary-3/EGyCQDseM9FaCl78.htm)|Chouchin-obake|Chouchin-obaké (Tsukumogami)|libre|
 |[EMT6L7RarzkSiEOq.htm](pathfinder-bestiary-3/EMT6L7RarzkSiEOq.htm)|Arcane Living Rune|Rune vivante arcanique|libre|
+|[EP8xhzy46zPWvhQL.htm](pathfinder-bestiary-3/EP8xhzy46zPWvhQL.htm)|Squirming Swill|Pâté frétillant|libre|
+|[epTO8fPDjyy2WhzD.htm](pathfinder-bestiary-3/epTO8fPDjyy2WhzD.htm)|Mithral Golem|Golem de mithral|libre|
+|[esw400AugH9XWq5p.htm](pathfinder-bestiary-3/esw400AugH9XWq5p.htm)|Hekatonkheires Titan|Titan hékatonkhère|libre|
+|[ew52XP0hjUACnidH.htm](pathfinder-bestiary-3/ew52XP0hjUACnidH.htm)|Blood Hag|Guenaude de sang|libre|
+|[eYKWJCYNqqp1rp2i.htm](pathfinder-bestiary-3/eYKWJCYNqqp1rp2i.htm)|Nightgaunt|Échalas sombre|libre|
+|[F4aCBm1lfPlRQzZ1.htm](pathfinder-bestiary-3/F4aCBm1lfPlRQzZ1.htm)|Ghoran Manipulator|Manipulateur ghoran|libre|
+|[fcFQ2GDUZ9YAhiDC.htm](pathfinder-bestiary-3/fcFQ2GDUZ9YAhiDC.htm)|Animated Trebuchet|Trébuchet animé|libre|
 |[fHczwj1B8ULKRSJk.htm](pathfinder-bestiary-3/fHczwj1B8ULKRSJk.htm)|Triumph Siktempora|Siktempora du triomphe|libre|
+|[FHZPjbRmJCqnhdal.htm](pathfinder-bestiary-3/FHZPjbRmJCqnhdal.htm)|Mage-Eater Worm Swarm|Nuée de vers Mange-mage|libre|
 |[Fj3CXqR0Y6kgvcBE.htm](pathfinder-bestiary-3/Fj3CXqR0Y6kgvcBE.htm)|Kodama|Kodama (Kami)|libre|
+|[FjiovYhLSHDX0ODl.htm](pathfinder-bestiary-3/FjiovYhLSHDX0ODl.htm)|Tattoo Guardian|Garde-tatoué|libre|
+|[FjZ737XIvSOSaYcA.htm](pathfinder-bestiary-3/FjZ737XIvSOSaYcA.htm)|Tyrannosaurus Skeleton|Squelette Tyrannosaure|libre|
+|[fLyIWlTCW3cUPjvd.htm](pathfinder-bestiary-3/fLyIWlTCW3cUPjvd.htm)|Animated Furnace|Fourneau animé|libre|
+|[FOG8qK1bWVxp7vmE.htm](pathfinder-bestiary-3/FOG8qK1bWVxp7vmE.htm)|Empress Bore Worm|Ver-foreur impératrice|libre|
+|[fuCPoL2OVcQf5uT9.htm](pathfinder-bestiary-3/fuCPoL2OVcQf5uT9.htm)|Ovinnik|Ovinik (Esprit de la maison)|libre|
 |[fViWNHKjjL7fYbjW.htm](pathfinder-bestiary-3/fViWNHKjjL7fYbjW.htm)|Common Eurypterid|Euryptéride commun|libre|
 |[FvywQFbFzwLV8mvW.htm](pathfinder-bestiary-3/FvywQFbFzwLV8mvW.htm)|Flaming Skull|Crâne enflammé|libre|
 |[FXwgsLTRneGzclsw.htm](pathfinder-bestiary-3/FXwgsLTRneGzclsw.htm)|Ioton|Ioton (Énnosite)|libre|
@@ -324,21 +299,34 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[GHv9BN8JQEPJVp5n.htm](pathfinder-bestiary-3/GHv9BN8JQEPJVp5n.htm)|Guecubu|Guecube|libre|
 |[GPP2YJd2CkXSlLok.htm](pathfinder-bestiary-3/GPP2YJd2CkXSlLok.htm)|Duende|Duende|libre|
 |[gQkqsdfkmws4oADW.htm](pathfinder-bestiary-3/gQkqsdfkmws4oADW.htm)|Werecrocodile|Crocodile-garou|libre|
+|[H796hayJm3J7MYJg.htm](pathfinder-bestiary-3/H796hayJm3J7MYJg.htm)|Amphisbaena|Amphisbène|libre|
+|[H7PDLOIbDG9zt4H1.htm](pathfinder-bestiary-3/H7PDLOIbDG9zt4H1.htm)|Yzobu|Yzobu|libre|
+|[H8PaAZanEOT85KjD.htm](pathfinder-bestiary-3/H8PaAZanEOT85KjD.htm)|Vine Leshy|Léchi liane|libre|
 |[HEgGta4uVmwdkw3E.htm](pathfinder-bestiary-3/HEgGta4uVmwdkw3E.htm)|Nikaramsa|Nikaramsa (Asura)|libre|
 |[hh7OuFB5BQIrfeRT.htm](pathfinder-bestiary-3/hh7OuFB5BQIrfeRT.htm)|Kasa-obake|Kasa-obaké (Tsukumogami)|libre|
 |[HiazGJoPkJ3gQVAO.htm](pathfinder-bestiary-3/HiazGJoPkJ3gQVAO.htm)|Grioth Cultist|Cultiste Grioth|libre|
 |[hiDSC6gqneQTB106.htm](pathfinder-bestiary-3/hiDSC6gqneQTB106.htm)|Fuath|Fuath (Gremlin)|libre|
+|[iiXjQ1SchGiotpVp.htm](pathfinder-bestiary-3/iiXjQ1SchGiotpVp.htm)|Skeleton Infantry|Squelette d'infanterie|libre|
 |[ilGMPBvjT9ovIiXB.htm](pathfinder-bestiary-3/ilGMPBvjT9ovIiXB.htm)|Gurgist Mauler|Cogneur Gargouillier (Mortique)|libre|
+|[iLoVkzve6Nu3gErr.htm](pathfinder-bestiary-3/iLoVkzve6Nu3gErr.htm)|Herexen|Hérexen|libre|
+|[IMrnOMr3GtUFKyuV.htm](pathfinder-bestiary-3/IMrnOMr3GtUFKyuV.htm)|Ice Worm Swarm|Nuée de vers de glace|libre|
 |[istUwJdW3Mlln2hb.htm](pathfinder-bestiary-3/istUwJdW3Mlln2hb.htm)|Giant Hermit Crab|Bernard-l'hermite géant|libre|
 |[JD5sD7vwwlU2DwJI.htm](pathfinder-bestiary-3/JD5sD7vwwlU2DwJI.htm)|Angazhani|Angazhani|libre|
 |[jdqCEhsHDs4ABh2X.htm](pathfinder-bestiary-3/jdqCEhsHDs4ABh2X.htm)|Jorogumo|Jorogumo|libre|
-|[JGpz9B0QkkAcHT4e.htm](pathfinder-bestiary-3/JGpz9B0QkkAcHT4e.htm)|Empress Mage-Eater Worm|Ver Empereur Mange-Mage|libre|
+|[JGpz9B0QkkAcHT4e.htm](pathfinder-bestiary-3/JGpz9B0QkkAcHT4e.htm)|Empress Mage-Eater Worm|Ver Mange-Mage impératrice|libre|
 |[JKF2cMQEWkA5avCO.htm](pathfinder-bestiary-3/JKF2cMQEWkA5avCO.htm)|Shikigami|Shikigami (Kami)|libre|
+|[JlFBu8zobNq3daVF.htm](pathfinder-bestiary-3/JlFBu8zobNq3daVF.htm)|Necril Worm Swarm|Nuée de vers nécromantiques|libre|
 |[kCaEwjZyHXy7cJre.htm](pathfinder-bestiary-3/kCaEwjZyHXy7cJre.htm)|Trilobite Swarm|Nuée de trilobites|libre|
 |[KG1Zu3EK0wrNdsQC.htm](pathfinder-bestiary-3/KG1Zu3EK0wrNdsQC.htm)|Ittan-momen|Ittan-momène  (Tsukumogami)|libre|
+|[KTzSpyphiJ78EnBd.htm](pathfinder-bestiary-3/KTzSpyphiJ78EnBd.htm)|Winter Hag|Guenaude d'hiver|libre|
 |[lat5aZFMlWUR2Wbs.htm](pathfinder-bestiary-3/lat5aZFMlWUR2Wbs.htm)|Lampad Queen|Reine Lampade (Nymphe)|libre|
 |[LTSZ3LD1L7ZthoD2.htm](pathfinder-bestiary-3/LTSZ3LD1L7ZthoD2.htm)|Misery Siktempora|Siktempora de la misère|libre|
+|[mbu0D45HPRNAwgEU.htm](pathfinder-bestiary-3/mbu0D45HPRNAwgEU.htm)|Munagola|Munagola|libre|
+|[MD6eXpxoSPO02fZY.htm](pathfinder-bestiary-3/MD6eXpxoSPO02fZY.htm)|Xiuh Couatl|Coatl xiuh|libre|
+|[mgQSYE94vb2ICVjL.htm](pathfinder-bestiary-3/mgQSYE94vb2ICVjL.htm)|Locathah Hunter|Chasseur Locathah|libre|
+|[MolnKBns2ePDFbAB.htm](pathfinder-bestiary-3/MolnKBns2ePDFbAB.htm)|Hellbound Attorney|Avocat des enfers|libre|
 |[mRsiT9EtpbOQ7AeX.htm](pathfinder-bestiary-3/mRsiT9EtpbOQ7AeX.htm)|Draconal|Draconal (Agathion dragon)|libre|
+|[NhHGDx6ChbrhAmbO.htm](pathfinder-bestiary-3/NhHGDx6ChbrhAmbO.htm)|Domovoi|Domovoï (Esprit de la maison)|libre|
 |[nnI7oj1BcetLUTYo.htm](pathfinder-bestiary-3/nnI7oj1BcetLUTYo.htm)|Etioling Blightmage|Fléau-Mage Étiolier (Mortique)|libre|
 |[nzF46X8zcUG0CvpV.htm](pathfinder-bestiary-3/nzF46X8zcUG0CvpV.htm)|Pakalchi|Pakalchi (Sahkil)|libre|
 |[O9TQjp3scKfW8SZK.htm](pathfinder-bestiary-3/O9TQjp3scKfW8SZK.htm)|Shulsaga|Shulsaga (Énnosite)|libre|
@@ -348,9 +336,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[PJCeh8sj9Sm5Eqz8.htm](pathfinder-bestiary-3/PJCeh8sj9Sm5Eqz8.htm)|Draxie|Draxie (Sprite)|libre|
 |[q2ja0fkdr4PeZOTE.htm](pathfinder-bestiary-3/q2ja0fkdr4PeZOTE.htm)|Ximtal|Ximtal (Sahkil)|libre|
 |[qlYzd5vmhsFTNdbX.htm](pathfinder-bestiary-3/qlYzd5vmhsFTNdbX.htm)|Esipil|Ésipil (Sahkil)|libre|
-|[Rgy8OyRY5szgE6d0.htm](pathfinder-bestiary-3/Rgy8OyRY5szgE6d0.htm)|Empress Ice Worm|Ver empereur des glaces|libre|
+|[qm0YqO9ik2U2Gjdx.htm](pathfinder-bestiary-3/qm0YqO9ik2U2Gjdx.htm)|Moon Hag|Guenaude de la lune|libre|
+|[Rgy8OyRY5szgE6d0.htm](pathfinder-bestiary-3/Rgy8OyRY5szgE6d0.htm)|Empress Ice Worm|Ver de glace impératrice|libre|
+|[rqNNvJO0XEVHWwbW.htm](pathfinder-bestiary-3/rqNNvJO0XEVHWwbW.htm)|Wizard Sponge (Underwater)|Éponge de mage (Aquatique)|libre|
+|[S2DdLrq9V7M5WzM3.htm](pathfinder-bestiary-3/S2DdLrq9V7M5WzM3.htm)|Dvorovoi|Dvorovoï (Esprit de la maison)|libre|
+|[SaNOrmVDvQGX5U1D.htm](pathfinder-bestiary-3/SaNOrmVDvQGX5U1D.htm)|Harpy Skeleton|Squelette de harpie|libre|
 |[sCzgD99DO10Koovq.htm](pathfinder-bestiary-3/sCzgD99DO10Koovq.htm)|Silvanshee|Silvanshee (Agathion chat)|libre|
 |[sgZGrUQrfH3QPdXF.htm](pathfinder-bestiary-3/sgZGrUQrfH3QPdXF.htm)|Caulborn|Colborne (Énnosite)|libre|
+|[sNeIVL8w7NPFtpK2.htm](pathfinder-bestiary-3/sNeIVL8w7NPFtpK2.htm)|Wizard Sponge (Fey Domain)|Éponge de mage (Domaine des feys)|libre|
+|[tdSnY3lgYJnsvB8n.htm](pathfinder-bestiary-3/tdSnY3lgYJnsvB8n.htm)|Wizard Sponge|Éponge de mage|libre|
+|[TeaF0WreNshQxbe8.htm](pathfinder-bestiary-3/TeaF0WreNshQxbe8.htm)|Wizard Sponge (Toxic Lair)|Éponge de mage (Antre toxique)|libre|
+|[tQBUoh5wLJXiFdX6.htm](pathfinder-bestiary-3/tQBUoh5wLJXiFdX6.htm)|Seaweed Leshy|Léchi algue|libre|
 |[tQIYWBefvpemUVeJ.htm](pathfinder-bestiary-3/tQIYWBefvpemUVeJ.htm)|Nosferatu Thrall|Esclave Nosferatu|libre|
 |[tvAlNMQluKDpfXMz.htm](pathfinder-bestiary-3/tvAlNMQluKDpfXMz.htm)|Divine Living Rune|Rune vivante divine|libre|
 |[uDebX6flGwrviGZK.htm](pathfinder-bestiary-3/uDebX6flGwrviGZK.htm)|Hesperid Queen|Reine Hespéride (Nymphe)|libre|
@@ -358,13 +354,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[v0bKmqnUHxPTFQu4.htm](pathfinder-bestiary-3/v0bKmqnUHxPTFQu4.htm)|Hesperid|Hespéride (Nymphe)|libre|
 |[V9SxfxUgljJR9xx5.htm](pathfinder-bestiary-3/V9SxfxUgljJR9xx5.htm)|Hatred Siktempora|Siktempora de la haine|libre|
 |[Vi2p9VroteSHsSy9.htm](pathfinder-bestiary-3/Vi2p9VroteSHsSy9.htm)|Procyal|Procyal (Agathion raton-laveur)|libre|
+|[vJAPvmWCjVGKr06E.htm](pathfinder-bestiary-3/vJAPvmWCjVGKr06E.htm)|Arboreal Archive|Archiviste arboréen|libre|
 |[VVSTEyAnm9OSbfJ5.htm](pathfinder-bestiary-3/VVSTEyAnm9OSbfJ5.htm)|Werebat|Chauve-souris garou|libre|
 |[vzBsZqtGuj2FVLGj.htm](pathfinder-bestiary-3/vzBsZqtGuj2FVLGj.htm)|Nucol|Nucol (Sahkil)|libre|
 |[WfCLrFwwWSA7KRUu.htm](pathfinder-bestiary-3/WfCLrFwwWSA7KRUu.htm)|Primal Living Rune|Rune vivante primordiale|libre|
 |[wLG0f6J8cgyCA0w4.htm](pathfinder-bestiary-3/wLG0f6J8cgyCA0w4.htm)|Zuishin|Zuishin (Kami)|libre|
-|[XnHmGsR7bQCHTMdA.htm](pathfinder-bestiary-3/XnHmGsR7bQCHTMdA.htm)|Empress Necril Worm|Ver empereur nécromantique|libre|
+|[XnHmGsR7bQCHTMdA.htm](pathfinder-bestiary-3/XnHmGsR7bQCHTMdA.htm)|Empress Necril Worm|Ver nécromantique impératrice|libre|
 |[XwtH5kP5gkY42yWp.htm](pathfinder-bestiary-3/XwtH5kP5gkY42yWp.htm)|Clockwork Dragon|Automate-dragon|libre|
+|[xwTZZAEs1sf5RWCq.htm](pathfinder-bestiary-3/xwTZZAEs1sf5RWCq.htm)|Danava Titan|Titan danava|libre|
 |[YO3aTYRNGXWiSRal.htm](pathfinder-bestiary-3/YO3aTYRNGXWiSRal.htm)|Sorcerous Skull Swarm|Nuée de crânes sorciers|libre|
-|[YsgpbtWVT3q0OLWv.htm](pathfinder-bestiary-3/YsgpbtWVT3q0OLWv.htm)|Empress Lava Worm|Ver de lave empereur|libre|
+|[YsgpbtWVT3q0OLWv.htm](pathfinder-bestiary-3/YsgpbtWVT3q0OLWv.htm)|Empress Lava Worm|Ver de lave impératrice|libre|
 |[YX0CqhKKtRzoLkuP.htm](pathfinder-bestiary-3/YX0CqhKKtRzoLkuP.htm)|Water Wisp|Luciole d'eau|libre|
 |[zGco5QmokZpFgLes.htm](pathfinder-bestiary-3/zGco5QmokZpFgLes.htm)|Grimple|Grimple (Gremlin)|libre|
+|[zGtfiKku0td5E0VJ.htm](pathfinder-bestiary-3/zGtfiKku0td5E0VJ.htm)|Fossil Golem|Golem fossile|libre|
+|[ZMrydoEfgGUAJGNI.htm](pathfinder-bestiary-3/ZMrydoEfgGUAJGNI.htm)|Plague Giant|Géant de la peste|libre|

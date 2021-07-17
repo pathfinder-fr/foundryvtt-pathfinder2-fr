@@ -127,6 +127,11 @@
             "description": "<p>Une sacoche peut contenir des objets jusqu’à un Encombrement 2. Si vous transportez ou stockez une sacoche au lieu de la porter sur votre épaule, elle compte comme un Encombrement léger au lieu de négligeable.</p>"
         },
         {
+            "id": "Major Bonmuan Swapping Stone",
+            "name": "Major Bonmuan Swapping Stone",
+            "description": "<p><strong>Activer</strong> <span class=\"pf2-icon\">1 </span>Interagir</p>.\n<p>Cette petite pierre opalescente brille d'une lumière qui passe constamment d'une couleur à l'autre. Lorsque vous activez la pierre, vous la lancez dans un espace situé à moins de 30 m. La pierre lance alors une porte dimensionnelle sur vous et vous transporte vers elle. Ceci détruit la pierre.</p>\n<p>Vous pouvez à la place lancer la pierre sur une créature pour tenter de rapprocher cette créature de vous. Effectuez une Frappe à distance contre une créature en utilisant votre maîtrise la plus élevée avec une arme à distance. La pierre d'échange a un facteur de portée de 4,5 m. En cas de succès, la pierre se brise contre la créature, lançant porte dimensionnelle sur la créature en la faisant se téléporter instantanément dans un espace adjacent au vôtre. Une créature non consentante peut résister à cette téléportation en réussissant un jet de <span data-pf2-saving-throw=\"will\" data-pf2-traits=\"conjuration,consumable,magical,teleportation\" data-pf2-label=\"DD de la pierre d'échange Bonmuan\" data-pf2-dc=\"43\" data-pf2-show-dc=\"owner\">Volonté</span> contre un DD 43.</p>"
+        },
+        {
             "id": "Blowgun",
             "name": "Blowgun",
             "description": "<p>ce long tube étroit tire des fléchettes de sarbacane en se servant uniquement de la puissance du souffle expiré.</p>"
@@ -135,6 +140,11 @@
             "id": "Ranseur",
             "name": "Ranseur",
             "description": "<p>Cette arme d’hast est un long trident avec une branche centrale plus longue que les deux autres.</p>"
+        },
+        {
+            "id": "Kusarigama",
+            "name": "Kusarigama",
+            "description": "</p>Cette arme impressionnante consiste en un poids attaché à un kama par une longueur de chaîne, ce qui aide à désarmer un adversaire ou à attaquer à distance.</p>"
         },
         {
             "id": "Infernal Health",
@@ -860,6 +870,11 @@
             "id": "Shoony Shovel",
             "name": "Shoony Shovel",
             "description": "<p><span>Cette pelle compacte et ornée possède un manche doré enveloppé d'un magnifique cuir de bulette cramoisi. Sa tête argentée ne se salit jamais ou ne s'use pas, peu importe combien vous l'utilisez. Sa véritable magie, cependant, réside dans sa capacité à creuser toute seule.</p>\n<p><span><strong>Activation</strong> <span class=\"pf2-icon\">D</span> Sur ordre, Imaginer</p>\n<p> <strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Effet</strong> Vous placez la pelle dans une position de départ et spécifiez les dimensions et la direction à creuser (comme \"Creuser 2,5 mètres vers le bas dans un rectangle de 9 mètres sur 12\" ; ou \"Creuser tout droit sur 9 mètres\" ;). La pelle s'anime ensuite et creuse toute seule à raison d'un cube de 2,5 mètres d côté par 10 minutes jusqu'à ce que la tâche soit terminée ou qu'elle soit ramassée. Elle peut creuser dans la terre, le gravier, le sable, la neige ou tout autre matériau meuble similaire, mais la pelle cesse de creuser (ou creuse autour, si elle est commandée) si elle heurte de la pierre ou un autre matériau solide. Une pelle automatique peut sentir si sa trajectoire de creusement risque de provoquer l'effondrement d'un bâtiment, de blesser une créature ou de créer d'autres problèmes importants, auquel cas il arrête automatiquement de creuser.</p>"
+        },
+        {
+            "id": "Greater Bonmuan Swapping Stone",
+            "name": "Greater Bonmuan Swapping Stone",
+            "description": "<p><strong>Activer</strong> <span class=\"pf2-icon\">1 </span>Interagir</p>.\n<p>Cette petite pierre opalescente brille d'une lumière qui passe constamment d'une couleur à l'autre. Lorsque vous activez la pierre, vous la lancez dans un espace situé à moins de 30 m. La pierre lance alors une porte dimensionnelle sur vous et vous transporte vers elle. Ceci détruit la pierre.</p>\n<p>Vous pouvez à la place lancer la pierre sur une créature pour tenter de rapprocher cette créature de vous. Effectuez une Frappe à distance contre une créature en utilisant votre maîtrise la plus élevée avec une arme à distance. La pierre d'échange a un facteur de portée de 4,5 m. En cas de succès, la pierre se brise contre la créature, lançant porte dimensionnelle sur la créature en la faisant se téléporter instantanément dans un espace adjacent au vôtre. Une créature non consentante peut résister à cette téléportation en réussissant un jet de <span data-pf2-saving-throw=\"will\" data-pf2-traits=\"conjuration,consumable,magical,teleportation\" data-pf2-label=\"DD de la pierre d'échange Bonmuan\" data-pf2-dc=\"37\" data-pf2-show-dc=\"owner\">Volonté</span> contre un DD 37.</p>"
         },
         {
             "id": "Copper Dragon's Breath Potion (Wyrm)",
@@ -1704,7 +1719,7 @@
         {
             "id": "Breastplate",
             "name": "Breastplate",
-            "description": "<p>Bien que désigné sous le nom de cuirasse, ce type d’armure est constitué de plusieurs éléments de harnois ou d’armure de plates,  qui protègent le torse, la poitrine, le cou et parfois les  hanches et le bas des jambes. Elle accorde stratégiquement une partie de la protection du harnois tout en permettant plus de souplesse et de rapidité.</p>"
+            "description": "<p>Bien que désigné sous le nom de cuirasse, ce type d’armure est constitué de plusieurs éléments de harnois ou d’armure de plates qui protègent le torse, la poitrine, le cou et parfois les hanches et le bas des jambes. Elle accorde stratégiquement une partie de la protection du harnois tout en permettant plus de souplesse et de rapidité.</p>"
         },
         {
             "id": "Fangwire",
@@ -2519,7 +2534,7 @@
         {
             "id": "Glamorous Buckler",
             "name": "Glamorous Buckler",
-            "description": "<p>Une targe étincelante (Solidité 3, PV 6, SR 3) est richement décorée avec des dorures et des pierres précieuses serties qui brillent dans la lumière. Lorsque vous l'avez levée, la targe étincelante vous accorde un bonus d'objet de +1 aux tests de Duperie pour Feinter.</p>\n<p>@Compendium[pf2e.equipment-effects.iEkH8BKLMUa2wxLX]{Effet: Targe étincelante}</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">F</span> Imaginer;</p>\n<p><strong>Fréquence</strong> une fois par jour;</p>\n<p><strong>Déclencheur</strong> Vous feintez;</p>\n<p><strong>Conditions</strong> Vous avez levé votre targe étincelante;</p>\n<p><strong>Effet</strong> Lorsque vous feintez, la targe étincelante scintille puissamment. En cas de succès de la Feinte, la cible est éblouie pendant 1 round.</p>\n<hr />\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">6</td>\n<td style=\"height: 17px; width: 116px;\">3</td>\n</tr>\n</tbody>\n</table>"
+            "description": "<p>Une targe étincelante (Solidité 3, PV 6, SR 3) est richement décorée avec des dorures et des pierres précieuses serties qui brillent dans la lumière. Lorsque vous l'avez levée, la targe étincelante vous accorde un bonus d'objet de +1 aux tests de Duperie pour Feinter.</p>\n<p>@Compendium[pf2e.equipment-effects.iEkH8BKLMUa2wxLX]{Effet: Targe étincelante}</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">F</span> Imaginer ;</p>\n<p><strong>Fréquence</strong> une fois par jour ;</p>\n<p><strong>Déclencheur</strong> Vous feintez ;</p>\n<p><strong>Conditions</strong> Vous avez levé votre targe étincelante ;</p>\n<p><strong>Effet</strong> Lorsque vous feintez, la targe étincelante scintille puissamment. En cas de succès de la Feinte, la cible est éblouie pendant 1 round.</p>\n<hr />\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Solidité</th>\n<th>PV</th>\n<th>SR</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3</td>\n<td>6</td>\n<td>3</td>\n</tr>\n</tbody>\n</table>"
         },
         {
             "id": "Thunderstone (Major)",
@@ -3502,6 +3517,11 @@
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>Le feu grégeois est un mélange de liquides volatiles qui s’enflamment une fois exposés à l’air. Cette bombe inflige 1d8 dégâts de feu, 1 dégât de feu persistant et 1 dégât d’éclaboussure de feu.</p>"
         },
         {
+            "id": "Fighting Stick",
+            "name": "Fighting Stick",
+            "description": "<p>Cette pièce de bois, dur mais souple, de la taille d'une épée ressemble plus à une perche qu'à une arme, mais peut être mortelle entre de bonnes mains. Bien qu'elle ne soit généralement pas utilisée pour le combat en dehors de la culture Song’o, certains halfelins sont parvenus à la rendre aussi efficace qu'une lame dans un combat. Nombre de halfelins chantent pour maintenir un certain tempo et garder le rhytme durant le combat. Elle inflige 1d6 dégâts contondants. Une canne de combat est une arme de guerre à une main dans le groupe des gourdins.</p>"
+        },
+        {
             "id": "Olfactory Obfuscator (Greater)",
             "name": "Olfactory Obfuscator (Greater)",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>>\n<hr />\nCe liquide moussant permet au corps du buveur de suinter de l'huile absorbant les odeurs. Pendant les 8 heures qui suivent la consommation de cet élixir, votre odeur est presque imperceptible.</p>\n<p>Les créatures à l'odeur imprécise ne vous détectent pas avec ce sens à moins qu'elles ne vous @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Cherche}, et vous êtes @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} aux créatures qui vous perçoivent avec une odeur précise. Vous gagnez un bonus d'objet de +4 contre les tentatives de vous chercher par des créatures utilisant uniquement des sens basés sur l'odorat ; si elles utilisent également d'autres sens, le bonus ne s'applique pas.</p>"
@@ -3600,6 +3620,11 @@
             "id": "Flaming (Greater)",
             "name": "Flaming (Greater)",
             "description": "<p>Une flamme vacillante donne à cette arme son pouvoir. L’arme inflige 1d6 dégâts de feu supplémentaires en cas de Frappe réussie, plus 2d10 dégâts de feu persistants en cas de coup critique.</p>\n<p>Les dégâts de feu infligés par cette arme (y compris les dégâts de feu persistants) ignorent la résistance au feu de la cible.</p>"
+        },
+        {
+            "id": "Cane of the Maelstrom",
+            "name": "Cane of the Maelstrom",
+            "description": "<p>Un grand cristal de verre déformé flotte au-dessus de la tête de cette canne de frappe supérieure anarchique +3 de couleur violet argenté . Si vous réussissez à Frapper une créature, la canne affecte également la cible avec un @Compendium[pf2e.rollable-tables.yRZwPolTnRdnz42V]{Vague déformante}.</p>\n<p>Tant que vous portez la canne, vous entendez dans votre esprit un chœur constant et distrayant de rires, de chuchotements protéiformes incohérents et de voix chantantes. Les actes flagrants de complaisance ou de narcissisme font taire ces chuchotements, de quelques minutes à une journée entière selon la portée de l'acte, mais ils reviennent immédiatement lorsque vous utilisez les pouvoirs de l'artefact. Le refrain qui s'élève progressivement finit par chasser la pensée rationnelle et rendre fou le propriétaire de la canne, même s'il est conjuré de temps en temps par des actes égocentriques.</p>\n<p>Comme les capacités de l'artefact tirent de la matière du Maelström, il ne fonctionne pas dans les zones où les connexions planaires sont rompues.</p>\n<hr />\n<p><strong>Activation</strong><span class=\"pf2-icon\">r</span> imaginer ;</p>\n<p><strong>Déclencheur</strong> Vous êtes ciblé par une attaque à distance d'un adversaire que vous pouvez voir ;</p>\n<p><strong>Effet</strong> Vous tirez un bouclier temporaire de la turbulence chaotique avec un éclair céruléen. Vous obtenez un bonus de circonstance de +3 à la CA contre l'attaque déclencheuse.</p>\n<hr />\n<p><strong>Activation</strong> 10 minutes (sur ordre, imaginer, Interagir) ;</p>\n<p><strong>Effet</strong> La canne du Maelström lance un sort @Compendium[pf2e.spells-srd.HBJPsonQnWcC3qdX]{Terrain hallucinatoire} de niveau 5 et imprègne l'illusion d'une substance quasi-réelle tiré du chaos primordial du Maelström. Les créatures qui ne déjouent pas l'illusion traitent les structures et le terrain créé par le sort comme si ils étaient réelles, montant sur les escaliers illusoires, devenant piégés par un sable mouvant illusoire, etec. Si aucune créature ne déjoue l'illusion pendant sa durée, les changements deviennent quasiment réels et permanents lorsque sa durée expire.</p>\n<hr />\n<p><strong>Activation</strong> 1 minute (Interagir);</p>\n<p><strong>Effet</strong> La canne du Maelström lance le sort @Compendium[pf2e.spells-srd.TUj8eugNqAvB1vVR]{Création} au niveau 5, sauf que la durée est illimitée et que vous  pouvez créer des objets délicats ou complexes en réussissant le test d'Artisanat applicable lorsque vous activez cette capacité.</p>"
         },
         {
             "id": "Universal Solvent (Moderate)",
@@ -3852,6 +3877,11 @@
             "description": "<p>Ce couteau léger est équilibré de manière parfaite pour être lancé avec précision à une plus grande distance qu'une dague commune. Bien que cela lui soit permis au prix d'une perte significative d'affûtage de la lame, la différence est importante pour des personnages concentrés sur les armes de jet.</p>"
         },
         {
+            "id": "Lesser Bonmuan Swapping Stone",
+            "name": "Lesser Bonmuan Swapping Stone",
+            "description": "<p><strong>Activer</strong> <span class=\"pf2-icon\">1 </span>Interagir</p>.\n<p>Cette petite pierre opalescente brille d'une lumière qui passe constamment d'une couleur à l'autre. Lorsque vous activez la pierre, vous la lancez dans un espace situé à moins de 30 m. La pierre lance alors une porte dimensionnelle sur vous et vous transporte vers elle. Ceci détruit la pierre.</p>\n<p>Vous pouvez à la place lancer la pierre sur une créature pour tenter de rapprocher cette créature de vous. Effectuez une Frappe à distance contre une créature en utilisant votre maîtrise la plus élevée avec une arme à distance. La pierre d'échange a un facteur de portée de 4,5 m. En cas de succès, la pierre se brise contre la créature, lançant porte dimensionnelle sur la créature en la faisant se téléporter instantanément dans un espace adjacent au vôtre. Une créature non consentante peut résister à cette téléportation en réussissant un jet de <span data-pf2-saving-throw=\"will\" data-pf2-traits=\"conjuration,consumable,magical,teleportation\" data-pf2-label=\"DD de la pierre d'échange Bonmuan\" data-pf2-dc=\"28\" data-pf2-show-dc=\"owner\">Volonté</span> contre un DD 28.</p>"
+        },
+        {
             "id": "Ring of Spell Turning",
             "name": "Ring of Spell Turning",
             "description": "<p>Trois diamants sont incrustés sur le pourtour de cet anneau d’or.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> Imaginer</p> \n<p><strong> Déclencheur</strong>  Vous êtes la cible d’un sort</p>  \n<p><strong>Effet</strong> L’anneau duplique les effets d’un  @Compendium[pf2e.spells-srd.OOELvfkTedBMlWtq]{Renvoi de sorts} de niveau 8 avec un modificateur de contre de [[/r 1d20+35]] qui peut potentiellement renvoyer le sort déclencheur vers son incantateur. L’anneau ne peut pas renvoyer un total de plus de 9 niveaux de sorts par jour. Si vous activez l’anneau pour renvoyer un sort qui dépasse cette limite, la tentative échoue mais l’utilisation de l’anneau n’est pas comptée dans la limite quotidienne</p>"
@@ -3977,6 +4007,11 @@
             "description": "<p>Ce bâton ressemble à une branche de bois cendreux, brûlé et noirci. Il sent un peu la suie et luit comme de la braise. Vous pouvez effectuer l’action Interagir pour allumer une torche, de l’amadou ou une substance inflammable en le touchant avec l’extrémité du bâton.</p>\n<p><strong>Activation</strong> Lancer un sort</p>\n<p><strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.</p>\n<p><strong>Conditions de fabrication</strong> Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.</p>\n<ul>\n<li><strong>Tour de magie</strong> @Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Flammes}</li>\n<li><strong>Niveau 1</strong> @Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]{Mains brûlantes}</li>\n<li><strong>Niveau 2</strong> @Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]{Mains brûlantes} @Compendium[pf2e.spells-srd.2ZdHjnpEQJuqOYSG]{Sphère de feu}</li>\n<li><strong>Niveau 3</strong> @Compendium[pf2e.spells-srd.2ZdHjnpEQJuqOYSG]{Sphère de feu}, @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Boule de feu}</li>\n<li><strong>Niveau 4</strong> @Compendium[pf2e.spells-srd.YrzBLPLd3r9m6t1p]{Bouclier de feu}, @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Boule de feu}, @Compendium[pf2e.spells-srd.IarZrgCeaiUqOuRu]{Mur de feu}</li>\n<li><strong>Niveau 5</strong> @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Boule de feu} @Compendium[pf2e.spells-srd.IarZrgCeaiUqOuRu]{Mur de feu}</li>\n</ul>"
         },
         {
+            "id": "Hook Sword",
+            "name": "Hook Sword",
+            "description": "<p>Cette longue épée possède un crochet près de la pointe qui permet d'accrocher facilement un adversaire ou ses armes.</p>"
+        },
+        {
             "id": "Alcohol",
             "name": "Alcohol",
             "description": "<p>L'alcool est une substance commune disponible sous des formes étonamment variées. Le prix d'une dose d'alcool dépend du breuvage spécifique. Vous ne pouvez récupérer de la condition malade tant que vous êtes affecté par l'alcool.</p>\n<p>Si vous obtenez un échec sur un jet de sauvegarde contre l'alcool autre que le jet initial, le degré de l'afflicition n'augmente pas ; la seule manière de l'augmenter est de boire davantage d'alcool.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir (Ingéré)</p>\n<p><strong>Jet de sauvegarde</strong> Vigueur DD 12;</p>\n<p><strong>Délai</strong> 10 minutes; </p>\n<p><strong>Stade 1</strong> bonus d'objet de +1 aux jets de sauvegarde contre la peur (10 minutes); </p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}, bonus d'objet de +1 aux jets de sauvegarde contre la peur (10 minutes) ;</p>\n<p><strong>Stade 3</strong>  @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 1, Pris au dépourvu,  @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefié} 2 (10 minutes); </p>\n<p><strong>Stade 4</strong> maladroit 2 et @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 2 (10 minutes);\n<p><strong>Stade 5</strong> maladroit 2, malade 2 et stupéfié 2 (10 minutes);</p>\n<p><strong>Stade 6</strong> @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} (8 heures); </p>\n<p><strong>Stade 7</strong> mort</p>"
@@ -4064,7 +4099,7 @@
         {
             "id": "Steel Shield",
             "name": "Steel Shield",
-            "description": "<p>Comme les boucliers en bois, les boucliers en acier sont de formes et de tailles variées. Plus coûteux que les boucliers en bois, ils sont cependant beaucoup plus résistants.</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">5</td>\n<td style=\"height: 17px; width: 115px;\">20</td>\n<td style=\"height: 17px; width: 116px;\">10</td>\n</tr>\n</tbody>\n</table>"
+            "description": "<p>Comme les boucliers en bois, les boucliers en acier sont de formes et de tailles variées. Plus coûteux que les boucliers en bois, ils sont cependant beaucoup plus résistants.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Solidité</th>\n<th>PV</th>\n<th>SR</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n</tbody>\n</table>"
         },
         {
             "id": "Bellflower Toolbelt",
@@ -5277,6 +5312,11 @@
             "description": "<p>Les bombes nécrotiques combinent des réactifs que la plupart des gens considèrent au mieux comme dégoûtants et au pire comme impies, créant un miasme qui aspire la vie au contact de l'air. Une bombe nécrotique inflige les dégâts négatifs et les dégâts d'éclaboussure indiqués, et elle rend malade la cible principale en cas de coup critique. Ces dégâts ne touchent que les créatures vivantes.</p>\n<hr />\n<p>Vous gagnez un bonus d'objet de +1 aux jets d'attaque.</p>\n<p>La bombe inflige [[/r 2d6 #négatif]] dégâts négatifs et [[/r 2 #négatif d'éclaboussure]] dégâts négatifs d'éclaboussure. En cas de coup critique, la cible est @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade}2.</p>"
         },
         {
+            "id": "Spider Mold",
+            "name": "Spider Mold",
+            "description": "<p>Cette moisissure grise peut être trouvée en train de se développer sur les restes d'arachnides venimeuses - en particulier, les araignées géantes. Son absence de couleur et sa quasi absence de goût la rendent particulièrement adaptée pour être mélangée à des repas destinés à empoisonner un participant à un festin imprudent.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">t</span> Interagir</p>\n<p><strong>Jet de sauvegarde</strong> <span data-pf2-saving-throw=\"fortitude\" data-pf2-traits=\"alchemical, consumable, ingested, poison\" data-pf2-label=\"Moisissure d'araignée\" data-pf2-dc=\"20\" data-pf2-show-dc=\"gm\">Vigueur basique</span></p>\n<p><strong>Incubation</strong> 10 minutes</p>\n<p><strong>Durée maximale</strong> 8 heures</p>\n<hr />\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1} (1 round)</p>\n<p><strong>Stade 2</strong> Ralenti 2 et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié 1} (1 round)</p>\n<p><strong>Stade 3</strong> @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed} et Stupéfié 1 (1 round)</p>\n<p><strong>Stade 4</strong> @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} sans test de Perception pour se réveiller ([[/r 1d4 #heures]] heures).</p>"
+        },
+        {
             "id": "Aeon Stone (Dusty Rose Prism)",
             "name": "Aeon Stone (Dusty Rose Prism)",
             "description": "<p>Vous êtes entouré d'une énergie rose. Cette pierre déternité vous permet de lancer le tour de magie @Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Bouclier} au niveau 1, comme sort inné arcanique.</p>\nLe pouvoir de résonance de votre pierre augmente les dégâts évités par le sort de bouclier de 5 à 10.</p>"
@@ -5319,7 +5359,7 @@
         {
             "id": "Wooden Shield",
             "name": "Wooden Shield",
-            "description": "<p>Même s’ils se présentent sous toute une variété de formes et de tailles, l’abri offert par les boucliers en bois provient de la robustesse des matériaux dans lesquels ils sont conçus. Le bouclier en bois est moins cher que le bouclier en acier, mais il se brise plus facilement.</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">12</td>\n<td style=\"height: 17px; width: 116px;\">6</td>\n</tr>\n</tbody>\n</table>"
+            "description": "<p>Même s’ils se présentent sous toute une variété de formes et de tailles, l’abri offert par les boucliers en bois provient de la robustesse des matériaux dans lesquels ils sont conçus. Le bouclier en bois est moins cher que le bouclier en acier, mais il se brise plus facilement.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Solidité</th>\n<th>PV</th>\n<th>SR</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3</td>\n<td>12</td>\n<td>6</td>\n</tr>\n</tbody>\n</table>"
         },
         {
             "id": "Brooch of Shielding",
@@ -5930,6 +5970,11 @@
             "id": "Potion of Quickness",
             "name": "Potion of Quickness",
             "description": "<p>En buvant cette potion argentée, vous bénéficiez des effets de  @Compendium[pf2e.spells-srd.o6YCGx4lycsYpww4]{Rapidité} pendant 1 minute.</p>"
+        },
+        {
+            "id": "Leiomano",
+            "name": "Leiomano",
+            "description": "<p>Ce gourdin épais est incrusté de dents aiguisées, provenant typiquement d'un requin qui déchirent facilement la chair. C'est l'arme de prédilection de nombreux combattants Minatan.</p>"
         },
         {
             "id": "Truth Potion",
@@ -6682,6 +6727,11 @@
             "description": "<p>Cette épée courbée comme une faucille possède un bout pointu, lui permettant d'être balancée comme une hache ou pointée comme une épée courte. Le bout pointu d'une khopesh est habituellement crochue de manière à pouvoir désarmer un adversaire de son arme ou de son bouclier.</p>"
         },
         {
+            "id": "Wind and Fire Wheel",
+            "name": "Wind and Fire Wheel",
+            "description": "<p>Ce grand anneau d'acier plat comporte plusieurs lames saillantes typiquement stylisées pour ressembler à des flammes.</p>"
+        },
+        {
             "id": "Lethargy Poison",
             "name": "Lethargy Poison",
             "description": "<p>Les drows et autres créatures désirant garder leurs victimes en vie utilisent fréquemment le poison de léthargie lors de tactiques de harcèlement, l’assaillant battant en retraite le temps que le poison agisse et que la victime tombe inconsciente. Une créature exposée de nouveau au poison de léthargie n’a pas à faire de jets de sauvegarde supplémentaires, seul un jet de sauvegarde raté contre l’effet de poison en cours fait passer au stade d’empoisonnement suivant</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir (Blessure)</p>\n<p><strong>Jet de sauvegarde</strong> Vigueur DD 18; </p>\n<p><strong>Durée maximum</strong> 4 heures; </p>\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 (1 round) ;  </p>\n<p><strong>Stade 2</strong> Ralenti 1 (1 minute) ;  </p>\n<p><strong>Stade 3</strong> @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} sans test de Perception pour se réveiller (1 round)</p> \n<p><strong>Stade 4</strong> Inconscient sans test de Perception pour se réveiller (1d4 heures).</p>"
@@ -7057,6 +7107,11 @@
             "description": "<p>Cette baguette noircie et carbonisée émet une faible odeur de guano de chauve‑souris.</p>\n<p><strong>Activation</strong>  (Lancer un sort)</p> \n<p><strong>Fréquence</strong> 1/jour,  plus surcharges</p> \n<p><strong>Effet</strong> Vous lancez boule de feu  @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Boule de feu} au niveau 9. Chaque créature qui rate son jet de sauvegarde subit des 4d6 de dégâts de feu persistants.</p>\n<p><strong>Conditions de fabrication</strong>  Fournir une incantation de boule de feu du niveau approprié.</p>"
         },
         {
+            "id": "Karambit",
+            "name": "Karambit",
+            "description": "<p>Cette petite lame incurvée ressemble à une griffe de tigre et est capable de délivrer des blessures profondes.</p>"
+        },
+        {
             "id": "Filcher's Fork",
             "name": "Filcher's Fork",
             "description": "<p>cette arme de halfelin ressemble à une longue fourchette à deux branches et s’utilise à la fois comme une arme et un outil de cuisine.</p>"
@@ -7244,7 +7299,7 @@
         {
             "id": "Clothing (Explorer's)",
             "name": "Clothing (Explorer's)",
-            "description": "<p><span>Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure.</span></p>"
+            "description": "<p>Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure.</p>"
         },
         {
             "id": "Moonlit Chain",
@@ -7569,7 +7624,7 @@
         {
             "id": "Buckler",
             "name": "Buckler",
-            "description": "<p>Ce très petit bouclier est le favori des duellistes et des guerriers rapides dotés d’armures légères. Il est généralement fabriqué en acier et attaché à votre avant-bras. Vous  pouvez Lever un bouclier avec votre targe tant que vous avez cette main libre ou que vous tenez dans cette main un objet léger qui n’est pas une arme.</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">3</td>\n<td style=\"height: 17px; width: 115px;\">6</td>\n<td style=\"height: 17px; width: 116px;\">3</td>\n</tr>\n</tbody>\n</table>"
+            "description": "<p>Ce très petit bouclier est le favori des duellistes et des guerriers rapides dotés d’armures légères. Il est généralement fabriqué en acier et attaché à votre avant-bras. Vous  pouvez Lever un bouclier avec votre targe tant que vous avez cette main libre ou que vous tenez dans cette main un objet léger qui ne soit pas une arme.</p>\n<table class=\"pf2-table\">\n    <thead>\n    <tr>\n    <th>Solidité</th>\n    <th>PV</th>\n    <th>SR</th>\n    </tr>\n    </thead>\n    <tbody>\n    <tr>\n    <td>3</td>\n    <td>6</td>\n    <td>3</td>\n    </tr>\n    </tbody>\n    </table>"
         },
         {
             "id": "Tanglefoot Bag (Greater)",
@@ -7937,6 +7992,11 @@
             "description": ""
         },
         {
+            "id": "Moderate Bonmuan Swapping Stone",
+            "name": "Moderate Bonmuan Swapping Stone",
+            "description": "<p><strong>Activer</strong> <span class=\"pf2-icon\">1 </span>Interagir</p>.\n<p>Cette petite pierre opalescente brille d'une lumière qui passe constamment d'une couleur à l'autre. Lorsque vous activez la pierre, vous la lancez dans un espace situé à moins de 30 m. La pierre lance alors une porte dimensionnelle sur vous et vous transporte vers elle. Ceci détruit la pierre.</p>\n<p>Vous pouvez à la place lancer la pierre sur une créature pour tenter de rapprocher cette créature de vous. Effectuez une Frappe à distance contre une créature en utilisant votre maîtrise la plus élevée avec une arme à distance. La pierre d'échange a un facteur de portée de 4,5 m. En cas de succès, la pierre se brise contre la créature, lançant porte dimensionnelle sur la créature en la faisant se téléporter instantanément dans un espace adjacent au vôtre. Une créature non consentante peut résister à cette téléportation en réussissant un jet de <span data-pf2-saving-throw=\"will\" data-pf2-traits=\"conjuration,consumable,magical,teleportation\" data-pf2-label=\"DD de la pierre d'échange Bonmuan\" data-pf2-dc=\"31\" data-pf2-show-dc=\"owner\">Volonté</span> contre un DD 31.</p>"
+        },
+        {
             "id": "Daredevil Boots",
             "name": "Daredevil Boots",
             "description": "<p>Ces bottes de couleur vive aux semelles souples vous incitent à accomplir des cascades risquées et vous confèrent l’agilité nécessaire pour cela. Les bottes vous confèrent un bonus d’objet de +2 aux tests d’Acrobaties et un bonus de circonstances de +1 aux tests pour traverser l’espace d’un ennemi en effectuant un Déplacement acrobatique.</p>\n<p>Les bottes peuvent adhérer aux surfaces solides et vous aider à ne pas chuter, ce qui vous permet d’effectuer la réaction Se raccrocher in extremis, même si vos mains ne sont pas libres. On considère que la hauteur de vos chutes est réduite de 3 mètres et, si vous avez le don @Compendium[pf2e.feats-srd.LQw0yIMDUJJkq1nD]{Chute féline}, vous augmentez d’un degré votre rang de maîtrise en Acrobaties lorsqu’il s’agit de déterminer les avantages de ce don. Si vous avez le don Chute féline et que vous êtes déjà légendaire en Acrobaties, vous pouvez choisir la vitesse de votre chute, entre 18 mètres par round et la vitesse normale de chute.</p>\n<hr />\n<p>Code:</p>\n<ul>\n<li>bonus d’objet de +2 aux tests d’Acrobaties</li>\n<li>Bonus de circonstances de +1 aux tests pour traverser l’espace d’un ennemi en effectuant un Déplacement acrobatique</li>\n</ul>"
@@ -8244,7 +8304,7 @@
         {
             "id": "Tower Shield",
             "name": "Tower Shield",
-            "description": "<p>On peut utiliser ce bouclier imposant pour abriter presque la totalité du corps. En raison de sa taille, il est généralement fabriqué en bois renforcé de métal. Pour bénéficier du bonus le plus élevé avec un Pavois (+4), vous devez utiliser l’action Mise à l’abri (page 471) alors que le bouclier est levé.</p>\n<table style=\"height: 32px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 115px;\">Solidité</td>\n<td style=\"height: 15px; width: 115px;\">PV</td>\n<td style=\"height: 15px; width: 116px;\">SR</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 115px;\">5</td>\n<td style=\"height: 17px; width: 115px;\">20</td>\n<td style=\"height: 17px; width: 116px;\">10</td>\n</tr>\n</tbody>\n</table>"
+            "description": "<p>On peut utiliser ce bouclier imposant pour abriter presque la totalité du corps. En raison de sa taille, il est généralement fabriqué en bois renforcé de métal. Pour bénéficier du bonus le plus élevé avec un Pavois (+4), vous devez utiliser l’action Mise à l’abri (page 471) alors que le bouclier est levé.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Solidité</th>\n<th>PV</th>\n<th>SR</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n</tbody>\n</table>"
         },
         {
             "id": "Barding of the Zephyr",
@@ -8885,6 +8945,11 @@
             "id": "Club",
             "name": "Club",
             "description": "<p>Il s’agit d’un morceau de bois robuste façonné ou reconverti pour matraquer un ennemi. les gourdins peuvent être des pièces d’art martial finement sculptées ou être aussi simples qu’une branche d’arbre ou un morceau de bois.</p>"
+        },
+        {
+            "id": "Phoenix Fighting Fan",
+            "name": "Phoenix Fighting Fan",
+            "description": "<p>Cet éventail est utile pour les danses élégantes ainsi que pour couper des ennemis sans méfiance avec les lames situées le long de son bord extérieur. S'il est utilisé lors de représentations, il peut être déguisé en accessoire à froufrous ou être une arme évidente, bien qu'élégante.</p>\n<p>Cet élégant éventail de frappe supérieure +3 argenté flamboyant présente des plumes argentées pointues au lieu des traditionnelles feuilles de papier en son sein.</p>\n<hr />\n<p><strong>Activation <span class=\"pf2-icon\">3</span></strong> sur ordre, imaginer, Interagir</p>\n<p><strong>Fréquence</strong> une fois par jour.</p>\n<p><strong>Effet</strong> Vous faites appel aux pouvoirs extradimensionnels de l'éventail pour piéger une creature dans le dépôt de Hao Jin, un petit demi plan qui contient les reliques innombrables que Hao Jin a collecté durant sa vie (bien qu'une créature piégée ne puisse interagir avec la moindre de ces reliques). L'éventail de combat lance le sort @Compendium[pf2e.spells-srd.Oj1PJBMQD9vuwCv7]{Labyrinthe} sur une créature à 9 m. L'éventail Maintient le sort automatiquement tant que vous Frappez une créature avec chaque round. Le DD de <span data-pf2-skill-check=\"survival\" data-pf2-traits=\"conjuration,extradimensional,teleportation\" data-pf2-label=\"\" data-pf2-dc=\"34\" data-pf2-show-dc=\"owner\">Survie</span> ou de <span data-pf2-perception-check=\"True\" data-pf2-traits=\"conjuration,extradimensional,teleportation\" data-pf2-label=\"\" data-pf2-dc=\"34\" data-pf2-show-dc=\"owner\">Perception</span> pour Échapper au demi-plan est de 34. Le sort se termine une fois que la créature s'échappe, que vous échouez à Frapper une créature avec l'éventail durant un round ou après 1 minute, selon ce qui se produit en premier.</p>\n<hr />\n<p><strong>Activation</strong> 10 minutes (imaginer, Interagir)</p>\n<p><strong>Effet</strong> L'éventail lance @Compendium[pf2e.spells-srd.IkGYwHRLhkuoGReG]{Rappel à la vie} au niveau 8, consumant l'éventail de combat du phénix durant le processus.</p>"
         },
         {
             "id": "Staff of Evocation (Major)",
