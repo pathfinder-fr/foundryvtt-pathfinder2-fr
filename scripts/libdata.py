@@ -14,7 +14,17 @@ from dataclasses import dataclass
 SUPPORTED = {
     "spells": {'transl': "Sorts",
                "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.school.value",
-                         'type2': "data.level.value"}},
+                         'type2': "data.level.value"},
+               "extract": {
+                 'Areasize': "data.areasize.value",
+                 'Range': "data.range.value",
+                 'Material': "data.materials.value",
+                 'Target': "data.target.value",
+                 'SecondaryCaster': "data.secondarycasters.value",
+                 'PrimaryCheck': "data.primarycheck.value",
+                 'SecondaryCheck': "data.secondarycheck.value",
+                }
+               },
     "feats": {'transl': "Dons",
               "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value",
                         'type2': "data.level.value"}, "lists": {'Prereq': "data.prerequisites.value"}},
@@ -199,8 +209,11 @@ def fileToData(filepath):
         spoilers = ""
         isDescEN = False
         isDescFR = False
+        isData = False
         listsEN = {}
         listsFR = {}
+        dataEN = {}
+        dataFR = {}
 
         match = re.search('(\w{16})\.htm', filepath)
         if not match:
@@ -229,6 +242,8 @@ def fileToData(filepath):
                 data['spoilersFR'] = line[11:].strip()
             elif line.startswith("------ Benefits") or line.startswith("------ Spoilers"):
                 continue
+            elif line.startswith("------ Data"):
+                isData = True
             elif line.startswith("------ Description (en) ------"):
                 isDescEN = True
                 isDescFR = False
@@ -247,12 +262,18 @@ def fileToData(filepath):
                 if key.endswith("EN") or key.endswith("FR"):
                     key = key[0:-2]
                     lang = line[sep-2:sep]
-                    liste = [e.strip() for e in value.split('|')]
-                    liste = [e.strip() for e in liste if len(e.strip()) > 0]
-                    if lang == "EN":
-                        listsEN[key] = liste
-                    elif lang == "FR":
-                        listsFR[key] = liste
+                    if isData:
+                        if lang == "EN":
+                          dataEN[key] = value
+                        elif lang == "FR":
+                          dataFR[key] = value
+                    else:
+                        liste = [e.strip() for e in value.split('|')]
+                        liste = [e.strip() for e in liste if len(e.strip()) > 0]
+                        if lang == "EN":
+                            listsEN[key] = liste
+                        elif lang == "FR":
+                            listsFR[key] = liste
                 else:
                     print("Invalid key '%s' in file %s " % (key, filepath))
                     print("Adding key to misc")
@@ -268,6 +289,8 @@ def fileToData(filepath):
         data['descrFR'] = descrFR.strip()
         data['listsEN'] = listsEN
         data['listsFR'] = listsFR
+        data['dataEN'] = dataEN
+        data['dataFR'] = dataFR
 
     else:
         print("Invalid path: %s" % filepath)
@@ -323,6 +346,13 @@ def dataToFile(data, filepath):
                 df.write("SpoilersEN: %s\n" % data['spoilersEN'])
             if 'spoilersFR' in data:
                 df.write("SpoilersFR: %s\n" % data['spoilersFR'])
+
+        if data['dataEN']:
+            df.write('------ Data ------' + '\n')
+            for key in data['dataEN']:
+                if data['dataEN'][key] and len(data['dataEN'][key]) > 0:
+                    df.write("%sEN: %s\n" % (key, data['dataEN'][key]))
+                    df.write("%sFR: %s\n" % (key, data['dataFR'][key] if key in data['dataFR'] else ""))
 
         df.write('------ Description (en) ------' + '\n')
         df.write(data['descrEN'] + '\n')

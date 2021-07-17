@@ -53,7 +53,8 @@ for p in packs:
       'desc': getValue(obj, p['paths']['desc'], False, ""), 
       'type1': getValue(obj, p['paths']['type1']) if 'type1' in p['paths'] else None,
       'type2': getValue(obj, p['paths']['type2'], False) if 'type2' in p['paths'] else None,
-      'lists': {}
+      'lists': {},
+      'data': {}
     }
     
     ## additional lists
@@ -63,6 +64,13 @@ for p in packs:
         if len(list) == 0:
           list = getList(obj, p["lists"][key] + ".value", False)
         entries[obj['_id']]['lists'][key] = list
+    
+    ## other extractions
+    if "extract" in p:
+      for key in p["extract"]:
+          value = getValue(obj, p["extract"][key], False)
+          if value and len(value) > 0:
+              entries[obj['_id']]['data'][key] = value
   
   # ==============================
   # search for duplicates in names
@@ -129,10 +137,11 @@ for p in packs:
       #if p["name"] == "feats-srd":
       #  change = True 
 
-      if change or not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']):
+      if change or not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']) or not equals(existing[id]['dataEN'], source['data']):
         existing[id]['nameEN'] = source['name']
         existing[id]['descrEN'] = source['desc']
         existing[id]['listsEN'] = source['lists']
+        existing[id]['dataEN'] = source['data']
         
         if existing[id]['status'] != "aucune" and existing[id]['status'] != "changé":
           existing[id]['oldstatus'] = existing[id]['status']
@@ -182,6 +191,7 @@ for p in packs:
           'descrEN': source['desc'],
           'descrFR': tradDesc,
           'listsEN': source['lists'],
+          'dataEN': source['data'],
           'listsFR': {} }
         dataToFile(data, filepath)
 
@@ -197,7 +207,8 @@ for p in packs:
       os.remove(filename)
 
 # fermeture de la connexion a DeepL Translator
-driver.quit()
+if driver:
+  driver.quit()
 
 if has_errors:
   print_error("Au moins une erreur survenue durant la préparation, échec")
