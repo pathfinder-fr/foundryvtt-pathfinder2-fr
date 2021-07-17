@@ -9,7 +9,7 @@
         {
             "id": "Radiate Glory",
             "name": "Irradier la gloire (Radiate Glory)",
-            "description": "<p>Votre gloire intérieur irradie dans le monde avec tout le pouvoir divin des plans célestes pendant une minute.</p>\n<p>Toute créature qui peut vous voir alors que vous irradiez le gloire doit tenter un jet de Volonté contre le plus élevé entre votre DD de classe ou votre DD de sort. La créature devient alors temporairement immunisée à cet effet pendant 24 heures.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> Vous êtes @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} à la créature pendant 1 round par la lumière étincelante, mais ne pouvez utiliser cet état pour vous Cacher, comme habituellement lorsque votre localisation est évidente.</p>\n<p><strong>Échec</strong> Comme en cas de succès,  sauf que vous êtes masqué à la créaure tant que votre gloire irradie.</p>\n<p><strong>Échec critique</strong> Vous êtes @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} à la créature tant que votre gloire irradie, perdu parmi la couronne radieuse de votre présence. Votre position générale est toujours évidente, de sorte que vous ne pouvez l'utilisez pour Être furtif.</p>"
+            "description": "<p>Votre gloire intérieur irradie dans le monde avec tout le pouvoir divin des plans célestes pendant une minute.</p>\n<p>Toute créature qui peut vous voir alors que vous irradiez le gloire doit tenter un jet de Volonté contre le plus élevé entre votre DD de classe ou votre DD de sort. La créature devient alors temporairement immunisée à cet effet pendant 24 heures.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> Vous êtes @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} à la créature pendant 1 round par la lumière étincelante, mais ne pouvez utiliser cet état pour vous Cacher, comme habituellement lorsque votre localisation est évidente.</p>\n<p><strong>Échec</strong> Comme en cas de succès,  sauf que vous êtes masqué à la créaure tant que votre gloire irradie.</p>\n<p><strong>Échec critique</strong> Vous êtes @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} à la créature tant que votre gloire irradie, perdu au sein de la couronne radieuse de votre présence. Votre position générale est toujours évidente, de sorte que vous ne pouvez l'utiliser pour Être furtif.</p>"
         },
         {
             "id": "Stay Down!",
@@ -569,6 +569,16 @@
             "prereq": [
                 {
                     "value": "Dresseur de bête"
+                }
+            ]
+        },
+        {
+            "id": "Syu Tak-nwa's Hexed Locks",
+            "name": "Boucles de maléfices de Syu Tak-nwa (Syu Tak-nwa's Hexed Locks)",
+            "description": "<p>Votre attaque à mains nues de cheveux obtient le trait allonge. Vous pouvez délivrer des maléfices à travers vos cheveux. Lorsque vous réussissez à lancer un sort de focalisation de maléfice qui nécessite 2 actions ou plus pour être lancé et qui ne nécessite par un jet d'attaque de sort, si votre cible est dans votre allonge, pendant que vous lancez le sort vous pouvez faire un Frappe de cheveux contre la cible avant d'appliquer tout effet du maléfice. Si la Frappe échoue, la maléfice n'a aucun effet.</p>",
+            "prereq": [
+                {
+                    "value": "Cheveux vivants"
                 }
             ]
         },
@@ -1286,6 +1296,11 @@
             "description": "<p>Vous cherchez à émuler les styles de combat des vanths. Vous êtes qualifié avec le @Compendium[pf2e.equipment-srd.hMYdSFmMWzidzHih]{Bô}, l'@Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{arc long}, l'@Compendium[pf2e.equipment-srd.dUC8Fsa6FZtVikS3]{arc long composite}, la @Compendium[pf2e.equipment-srd.H74vYwHJ8XT4qOPI]{faux} et le @Compendium[pf2e.equipment-srd.FVjTuBCIefAgloUU]{Bâton}</p>"
         },
         {
+            "id": "Head of the Night Parade",
+            "name": "Tête de la Parade de nuit (Head of the Night Parade)",
+            "description": "<p>Vous vous souvenez des réjouissances de la Parade de nuit et vous l'appelez à votre aide pour une émeute démonstrative. Vous donnez une Représentation et lancez trois fois @Compendium [pf2e.spells-srd.tFKJCPvOQZxKq6ON]{Singes fous} au niveau 8, sauf que le sort appelle des apparitions diverses, comme des tsukumogamis qui dansent ou des onis qui boivent, plutôt que des singes. Chaque lancement du sort peut produire un type de méfait différent. Vous pouvez soutenir les trois sorts chaque round en utilisant une seule action de Représentation.</p>"
+        },
+        {
             "id": "Ornate Tattoo",
             "name": "Tatouage ornemental (Ornate Tattoo)",
             "description": "<p>Vous étendez vos tatouages pour inclure une magie supérieure.</p>\n<p>Choisissez un sort de la tradition arcanique de niveau 1 de la même école que vos Tatouages arcaniques, soit un sort courant, soit un sort auquel vous avez accès. Vous pouvez lancer ce sort une fois par jour comme un sort inné.</p>",
@@ -1739,7 +1754,7 @@
         {
             "id": "Incredible Luck (Halfling)",
             "name": "Chance incroyable (Halfelin) (Incredible Luck (Halfling))",
-            "description": "<p>Même les autres halfelins vous considèrent particulièrement chanceux.</p>\n<p>Vous pouvez utiliser Chance halfeline une fois par heure au lieu d'une fois par jour.</p>\n<p>Si vous avez le don @Compendium[pf2e.feats-srd.k0sXAn4PPq5nW9al]{Chance directrice}, vous pouvez toujours utiliser Chance halfeline lorsque vous manquez un test de Perception ou un jet d'attaque seulement une fois par jour (bien que vous puissiez l'utiliser durant la même heure au cours de laquelle vous avez utilisé Chance halfeline) et si vous avez le don @Compendium[pf2e.feats-srd.gWyCNTWUhxneOBne]{Halfelin utile}, vous pouvez toujours utiliser Chance halfeline sur un allié au lieu de vous-même une fois par jour seulement.</p>",
+            "description": "<p>Même les autres halfelins vous considèrent particulièrement chanceux. Vous pouvez utiliser Chance halfeline une fois par heure au lieu d'une fois par jour.</p>\n<p>Si vous avez le don @Compendium[pf2e.feats-srd.k0sXAn4PPq5nW9al]{Chance directrice}, vous pouvez toujours utiliser Chance halfeline lorsque vous manquez un test de Perception ou un jet d'attaque seulement une fois par jour (bien que vous puissiez l'utiliser durant la même heure au cours de laquelle vous avez utilisé Chance halfeline) et si vous avez le don @Compendium[pf2e.feats-srd.gWyCNTWUhxneOBne]{Halfelin utile}, vous pouvez toujours utiliser Chance halfeline sur un allié au lieu de vous-même une fois par jour seulement.</p>",
             "prereq": [
                 {
                     "value": "Chance halfeline"
@@ -1752,7 +1767,7 @@
             "description": "<p>Vous avez une profonde connection avec les royaumes fiélons, vous permettant de convoquer un fiélon qui correspond à votre propre lignage.</p>\n<p>Une fois par jour, vous pouvez Lancer @Compendium[pf2e.spells-srd.29ytKctjg7qSW2ff]{Convocation de fiélon} comme un sort divin inné de niveau 5. Le fiélon que vous convoquez doit correspondre à votre propre lignage.</p>",
             "prereq": [
                 {
-                    "value": "Tout don de lignage tieffelin"
+                    "value": "tout don de lignage tieffelin"
                 }
             ]
         },
@@ -2277,6 +2292,16 @@
             ]
         },
         {
+            "id": "Vitality-Manipulating Stance",
+            "name": "Posture de manipulation de la vitalité (Vitality-Manipulating Stance)",
+            "description": "<p>Vous avez appris à attaquer les méridiens et les points de pression comme votre rival Shino Hakusa. Vous gagnez une Frappe à mains nues à distance d'explosion de vitalité qui inflige [[/r 1d4 # dégâts négatifs]]{1d4 dégâts négatifs}, a une portée de 9 m et possède les traits à mains nues et polyvalent positif.</p>\n<p>En outre, lorsque vous utilisez Poing étourdissant, au lieu d'effectuer un jet de sauvegarde contre l'effet d'étourdissement, vous pouvez faire le choix d'mposer à la cible d'effectuer un jet de Vigueur contre votre DD de classe avec les résultats suivants. Vous devez choisir de le faire avant que la cible ne lance son jet de sauvegarde.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n</p><strong>Succès</strong> Les muscles de la cible deviennent temporairement plus faibles. Pendant 1 round, la cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 2}, et chaque fois qu'elle tente d'entreprendre une action avec le trait manipulation, l'action est interrompue à moins qu'elle ne réussisse un test nu avec un DD égal à 5 + sa valeur Affaiblie.</p>\n<p><strong>Échec</strong> Comme en cas de succès, mais la durée est de 1 minute.</p>\n</p><strong>Échec critique</strong> Comme en cas de succès, mais la durée est de 1 minute, le DD du test nu est de 11 et la cible subit une pénalité de statut de -3 m à toutes les Vitesses pendant la durée.</p>",
+            "prereq": [
+                {
+                    "value": "Poing étourdissant"
+                }
+            ]
+        },
+        {
             "id": "Stand Still",
             "name": "Ne bouge plus (Stand Still)",
             "description": "<p><strong>Déclencheur</strong> Une créature à portée utilise une action de déplacement ou quitte une case lors d’une action de déplacement qu’elle entreprend.</p>\n<hr />\n<p>Vous attaquez quand l’adversaire tente de fuir. Vous faites une Frappe au corps à corps contre la créature qui a déclenché ce pouvoir. Si vous obtenez un coup critique et que le déclencheur était une action de déplacement, vous interrompez cette action.</p>"
@@ -2334,6 +2359,16 @@
             "prereq": [
                 {
                     "value": "Plumes serrées"
+                }
+            ]
+        },
+        {
+            "id": "Heart of the Kaiju",
+            "name": "Cœur de Kaiju (Heart of the Kaiju)",
+            "description": "<p>Ayant été témoin de près la puissance du roi kaiju Mogaru, d'Alru et de Toraloa a réveillé une nouvelle férocité en vous. Lorsque vous vous transformez en utilisant Morphologie monstrueuse, vous pouvez prendre la forme d'un kaiju. Lorsque vous prenez ce don, choisissez des dégâts d'acide, de froid, d'électricité, de feu ou soniques ; ce sont les dégâts que votre arme de souffle inflige. Vous ne pourrez plus modifier ce choix par la suite. La forme de combat est de taille gargantuesque avec les capacités spécifiques suivantes ; les valeurs de dégâts incluent déjà le dé supplémentaire dû au fait qu'il s'agit d'un sort de niveau 9.</p>\n<p><strong>Kaiju</strong>Vitesse 12 m ; résistance 5 dégâts physiques ; </p>\n<p><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong>mâchoires (portée 6 m), <strong>Dégâts</strong>[[/r 3d12+20 # dégâts perforants]]{3d12+20 perforants} ;</p>\n<p><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong> griffes (agile, allonge 6 m), <strong>Dégâts</strong>[[/r 3d8+20 # dégâts de tranchants]]{3d8+20 tranchants};</p>\n<p><strong>Arme de souffle</strong><span class=\"pf2-icon\">2</span> (évocation, primordiale) Chaque créature dans un cône de 18 m subit [[/r 15d6 # dégâts]]{15d6 dégâts}. (du type de dégâts que vous avez choisi), avec un jet de Réflexes basique contre le DD de votre sort. Une fois utilisée, votre arme de souffle ne peut plus être utilisée pendant [[/r 1d4]]{1d4 rounds}.</p>",
+            "prereq": [
+                {
+                    "value": "Morphologie monstrueuse"
                 }
             ]
         },
@@ -2672,6 +2707,16 @@
             ]
         },
         {
+            "id": "Dance of Intercession",
+            "name": "Danse de l'intercession (Dance of Intercession)",
+            "description": "<p><strong>Fréquence</strong> trois fois par jour</p>\n<hr />\n<p>Vous avez participé ou avez été témoin de la danse utilisée pour invoquer le dragon céleste et pouvez exploiter une parcelle de ce pouvoir. Vous vous lancez dans une danse en Marchant rapidement de la moitié de votre Vitesse, en tentant un <span data-pf2-skill-check=\"performance\" data-pf2-traits=\"\" data-pf2-label=\"DD Danse de l'intercession\" data-pf2-dc=\"35\" data-pf2-show-dc=\"gm\">Performance</span>. Vous pouvez accomplir cette danse jusqu'à trois fois par jour. La deuxième fois que vous le faites dans la même journée, utilisez le degré de réussite inférieur de 1 à celui obtenu par votre jet sur le test de représentation. La troisième fois dans la même journée, utilisez le degré de réussite de deux inférieur à votre jet de Représentation.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous exécutez les mouvements de la Danse de l'Intercession avec tant de grâce que vous évoquez une lueur du souvenir de la puissance impressionnante du Dragon Céleste. Vous lancez la version à 3 actions d'un sort de niveau 9 de @Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal} ou de Guérison à n'importe quel moment de votre déplacement. Ceci n'utilise aucun emplacement de sort.</p>\n</p><strong>Succès</strong>Comme un succès critique, mais le sort est de niveau 7 au lieu du niveau 9, car vous vous trompez dans les pas.</p>\n<p><strong>Échec</strong> Comme avec un succès critique, mais le sort est de niveau 5 au lieu du niveau 9 car vous vous trompez dans les mouvements.</p>\n<p><strong>Échec critique</strong> Vous ne parvenez pas à vous rappeler des pas de la danse. Vous ne gagnez aucun effet supplémentaire en dehors du déplacement de la moitié de votre vitesse, et vous ne pouvez pas tenter à nouveau la danse de l'intercession avant vos prochains préparatifs quotidiens.</p>",
+            "prereq": [
+                {
+                    "value": "expert en Représentation"
+                }
+            ]
+        },
+        {
             "id": "Elven Instincts",
             "name": "Instincts elfiques (Elven Instincts)",
             "description": "<p>Vos sens vous permettent de réagir rapidement.</p>\n<p>Vous obtenez un bonus de circonstances de +2 aux tests de Perception lors des jets d'initiative. De plus, si votre test d'initiative est égal avec celui d'un adversaire, vous agissez le premier, même si vous n'avez pas effectué un test de Perception pour déterminer l'initiative.</p>"
@@ -2931,6 +2976,11 @@
             ]
         },
         {
+            "id": "Jellyfish Stance",
+            "name": "Posture de la méduse (Jellyfish Stance)",
+            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous relâchez votre posture et détendez vos articulations, vous permettant de vous déplacer avec une incroyable fluidité. Vous pouvez porter des attaques de tentacules urticantes qui infligent 1d8 dégâts tranchants. Ces attaques sont dans le groupe pugilat et possèdent les trait finesse, non létal, allonge et à mains nues.</p>\n<p>Tant que vous êtes dans la posture de la méduse, vous obtenez un bonus de circonstance de +2 aux jets de Réflexes et sur les tests pour s'@Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper} et @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Se faufiler}.</p>\n<p>@Compendium[pf2e.feat-effects.pkcr9w5x6bKzl3om]{Posture : Posture de la méduse}</p>"
+        },
+        {
             "id": "Quick Mount",
             "name": "Vite en selle (Quick Mount)",
             "description": "<p><strong>Conditions</strong> Vous êtes adjacent à une créature qui est d'au moins une taille de plus que vous et qui accepte d'être votre monture.</p>\n<hr>\n<p>Vous et votre monture pouvez passer à l'action en un clin d'œil.</p>\n<p>Vous @Compendium[pf2e.actionspf2e.PM5jvValFkbFH3TV]{Montez} la créature et @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Dirigez un animal} pour lui donner un ordre de votre choix.</p>",
@@ -2991,6 +3041,16 @@
             "prereq": [
                 {
                     "value": "un compagnon animal"
+                }
+            ]
+        },
+        {
+            "id": "Arcane Sight",
+            "name": "Vision arcanique (Arcane Sight)",
+            "description": "<p>Vous vous êtes entrainé à constamment être à la recherche d'effets magiques, même lorsque vous vous concentrez pour d'autres choses. Lorsque vous Cherchez, vous obtenez aussi les avantages de @Compendium[pf2e.actionspf2e.Yb0C1uLzeHrVLl7a]{Détection de la magie} à moins que vous choisissiez de ne pas le faire.</p>",
+            "prereq": [
+                {
+                    "value": "faculté de lancer Détection de la magie"
                 }
             ]
         },
@@ -3169,6 +3229,16 @@
             "id": "Quick Change (Beastkin)",
             "name": "Changement rapide (Beastkin) (Quick Change (Beastkin))",
             "description": "<p><strong>Déclencheur</strong> Vous lancez l'initiative.</p>\n<hr />\n<p>Vos instincts se font sentir et vous adoptez une posture agressive. Vous utilisez Changement de forme pour prendre votre forme hybride ou une nouvelle forme accordée par un don de beastkin.</p>"
+        },
+        {
+            "id": "Assurance (Society)",
+            "name": "Assurance (Société) (Assurance (Society))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test de Société pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Société"
+                }
+            ]
         },
         {
             "id": "Recognize Threat",
@@ -3479,7 +3549,7 @@
         },
         {
             "id": "Impossible Volley (Fighter)",
-            "name": "Volée invraisemblable (Impossible Volley (Fighter))",
+            "name": "Volée invraisemblable (Guerrier) (Impossible Volley (Fighter))",
             "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec le trait volée et un rechargement 0</p>\n<hr />\n<p>Vous tirez une volée de projectiles sur tous les adversaires dans une zone. Effectuez une Frappe avec un malus de −2 contre chaque ennemi dans une explosion de 3 m de rayon centrée sur un point situé à une distance supérieure ou égale à la portée de volée de votre arme. Faites un seul jet de dégâts pour toutes les cibles.</p>\n<p>Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>\n<hr />\n<p><strong>Spécial</strong> Lorsqu'il est pris en tant que don de guerrier, ce don possède les traits Sophistication et Ouverture.</p>"
         },
         {
@@ -3512,6 +3582,16 @@
             "id": "Hobgoblin Weapon Familiarity",
             "name": "Familiarité avec les armes hobgobelines (Hobgoblin Weapon Familiarity)",
             "description": "<p>Vous êtes qualifié avec les arcs courts, les @Compendium[pf2e.equipment-srd.e4NwsnPnpQKbDZ9F]{arcs courts composites}, les @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{arcs longs}, les @Compendium[pf2e.equipment-srd.dUC8Fsa6FZtVikS3]{arcs longs composites},  les @Compendium[pf2e.equipment-srd.vlnzTSsRmWeSkt9O]{coutilles}, les @Compendium[pf2e.equipment-srd.dgWxsYm0DWHb27h6]{hallebardes}, les @Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{épées longues}, les @Compendium[pf2e.equipment-srd.tOhoGvmCMw4JpWcS]{lances} et les @Compendium[pf2e.equipment-srd.aXuJh4i8HqSu6NYV]{piques}.</p>\n<p>En outre, vous avez accès aux armes peu courantes des hobgobelins. Afin de déterminer votre maîtrise, vous considérez les armes de guerre hobgobelines comme des armes simples et les armes hobgobelines évoluées comme des armes de guerre.</p>"
+        },
+        {
+            "id": "Syu Tak-nwa's Deadly Hair",
+            "name": "Cheveux mortel de Syu Tak-nwa (Syu Tak-nwa's Deadly Hair)",
+            "description": "<p>Votre attaque à mains nues de cheveux inflige 1d6 dégâts contondants et obtient le trait saisir.</p>",
+            "prereq": [
+                {
+                    "value": "Cheveux vivants"
+                }
+            ]
         },
         {
             "id": "Basic Lesson",
@@ -3689,6 +3769,16 @@
             "id": "Allegro",
             "name": "Allégro (Allegro)",
             "description": "Vous pouvez augmenter la rapidité de vos alliés grâce à une représentation au rythme effréné. Vous apprenez le tour de magie de composition @Compendium[pf2e.spells-srd.IQchIYUwbsVTa9Mc]{allégro}."
+        },
+        {
+            "id": "Assurance (Stealth)",
+            "name": "Assurance (Discrétion) (Assurance (Stealth))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test de Société pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Discrétion"
+                }
+            ]
         },
         {
             "id": "Terrain Expertise (Underground)",
@@ -4367,6 +4457,16 @@
             ]
         },
         {
+            "id": "Assurance (Thievery)",
+            "name": "Assurance (Vol) (Assurance (Thievery))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test de Vol pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Vol"
+                }
+            ]
+        },
+        {
             "id": "Called",
             "name": "Appelé (Called)",
             "description": "<p>Vous avez entendu l'Appel et combattez constamment ses injonctions persistantes, de telle sorte que vous avez développé une carapace mentale contre les effets qui cibleraient votre esprit.</p>\n<p>Vous obtenez un bonus de circonstances de +1 aux jets de Volonté contre les effets mentaux. Si vous obtenez un succès sur votre jet de sauvegarde contre un effet mental qui devrait vous rendre @Compendium[pf2e.conditionitems.9qGBRpbX9NEwtAAr]{Controlé}, vous obtenez à la place un succès critique.</p>"
@@ -4904,7 +5004,7 @@
         {
             "id": "Assurance",
             "name": "Assurance (Assurance)",
-            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Choisissez une compétence dans laquelle vous êtes qualifié. Vous pouvez vous abstenir d’effectuer un test de compétence pour cette compétence pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Choisissez une compétence dans laquelle vous êtes qualifié. Vous pouvez vous abstenir d’effectuer un test de compétence pour cette compétence pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
             "prereq": [
                 {
                     "value": "qualifié  dans au moins une compétence"
@@ -4951,6 +5051,16 @@
             "prereq": [
                 {
                     "value": "Armure sacrifiée"
+                }
+            ]
+        },
+        {
+            "id": "Vivacious Afterimage",
+            "name": "Image rémanente exubérante (Vivacious Afterimage)",
+            "description": "<p><strong>Conditions</strong> Vous avez du panache.</p>\n<hr />\n</p>Vous vous déplacez si rapidement que vous créez une image rémanente éphémère, qui vous ressemble exactement, devant ou derrière vous.</p>\n<p>Vous Marchez rapidement. À n'importe quel moment de votre déplacement, vous laissez une image rémanente de vous-même derrière vous. À l'inverse, vous pouvez également arrêter de vous déplacer et envoyer votre image rémanente en avant à la place, allant jusqu'au terme de votre déplacement. Une créature qui dépense des actions pour entrer en contact avec votre image rémanente peut tenter de ne pas la croire en effectuant un test de Volonté contre votre DD de classe. Lorsqu'un ennemi n'a pas cru l'une de vos images rémanentes, il est temporairement immunisé contre toutes vos images rémanentes exubérantes pendant 10 minutes. Tant qu'une créature n'a pas découvert l'image rémanente, celle-ci compte comme une créature lorsqu'il s'agit de la prendre en tenaille. L'image rémanente dure jusqu'au début de votre prochain tour ou jusqu'à ce que vous utilisiez à nouveau Image rémanente exubérante, selon ce qui se produit en premier.</p>",
+            "prereq": [
+                {
+                    "value": "vitesse exubérante"
                 }
             ]
         },
@@ -5120,7 +5230,7 @@
         {
             "id": "Mist Strider",
             "name": "Fouleur de brume (Mist Strider)",
-            "description": "<p>Vous condensez l'humidité de l'air, la solidifiant de manière à ce qu'elle puisse supporter votre poids.</p>\n<p>Lorsque vous utilisez Fouleur d'eau, vous pouvez marcher dans les airs. Vous pouvez monter ou descendre à un angle maximum de 45 degrés. Vous chutez toujours à la fin de votre déplacement si vous ne terminez pas sur une surface qui peut vous supporter, comme à l'ordinaire en utilisant Fouleur d'eau.</p>",
+            "description": "<p>Vous condensez l'humidité de l'air, la solidifiant de manière à ce qu'elle puisse supporter votre poids.</p>\n<p>Lorsque vous utilisez @Compendium[pf2e.feats-srd.Q8fdMjZ2Wv3FawOI]{Fouleur d'eau}, vous pouvez marcher dans les airs. Vous pouvez monter ou descendre à un angle maximum de 45 degrés. Vous chutez toujours à la fin de votre déplacement si vous ne terminez pas sur une surface qui peut vous supporter, comme à l'ordinaire en utilisant Fouleur d'eau.</p>",
             "prereq": [
                 {
                     "value": "Fouleur d'eau"
@@ -5292,6 +5402,11 @@
                     "value": "Dévouement de l'Écuyer des Chevaliers infernaux"
                 }
             ]
+        },
+        {
+            "id": "Gnoll Lore",
+            "name": "Connaissance des gnolls (Gnoll Lore)",
+            "description": ""
         },
         {
             "id": "Impossible Striker",
@@ -5627,6 +5742,11 @@
             ]
         },
         {
+            "id": "Entwined Energy Ki",
+            "name": "Énergie ki entrelacée (Entwined Energy Ki)",
+            "description": "<p>Vous pouvez transformer votre puissance intérieure en un type d'énergie pour renforcer vos capacités ki.</p>\n<p>Lorsque vous obtenez ce don, vous pouvez choisir entre des dégâts d'acide, de froid, d'électricité, de feu ou soniques. Lorsque vous lancez @Compendium[pf2e.feats-srd.10DbphslCihq8mxQ]{Explosion ki}, vous pouvez choisir pour le sort qu'il inflige le type de dégâts que vous avez choisi au lieu de dégâts de force. Lorsque vous lancez @Compendium[pf2e.spells-srd.YDMOqndvYFu3OjA6]{Forme ki} ou @Compendium[pf2e.feats-srd.3a07jkWezSuORSpS]{Frappe ki}, ajoutez le type de dégâts que vous avez choisi à la liste des types de dégâts que vous pouvez sélectionner pour le sort.</p>\n<hr />\n</p><strong>Spécial</strong> À la discrétion du MJ, ce don peut modifier d'autres sorts ki.</p>"
+        },
+        {
             "id": "Pinning Fire",
             "name": "Tir fichant (Pinning Fire)",
             "description": "<p><strong>Déclencheur</strong> Vous utilisez @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Déluge de coups} pour effectuer deux @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} à distance avec des armes perforantes contre la même cible.</p>\n<hr />\n<p>Vous ciblez les vêtements de votre adversaire, son équipement ou de la chair accessible avec des projectiles perforants pour la clouer au sol ou à une surface à proximité.</p>\n<p>Si vos deux attaques touchent, la cible doit réussir un jet de Réflexes contre votre DD de classe ou devenir @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} jusqu'à ce qu'elle ou une créature adjacente réussisse un test d'Athlétisme contre un DD 10 pour retirer les projectiles fichés.</p>\n<p>La créature ne devient pas immobilisée si elle est incorporelle, constituée de liquide (comme le serait un élémentaire d'eau ou certaines vases) ou si elle peut autrement s'échapper sans effort.</p>"
@@ -5887,6 +6007,16 @@
             ]
         },
         {
+            "id": "Assurance (Crafting)",
+            "name": "Assurance (Artisanat) (Assurance (Crafting))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test d'Artisanat pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Artisanat"
+                }
+            ]
+        },
+        {
             "id": "Shoving Sweep",
             "name": "Balayage repoussant (Shoving Sweep)",
             "description": "<p><strong>Déclencheur</strong> Une créature à votre portée quitte une case au cours d'une action de déplacement qu'elle utilise.</p>\n<p><strong>Conditions</strong> Vous maniez une arme au corps à corps à deux mains.</p>\n<hr />\n<p>Vous balancez votre arme sur votre adversaire en le repoussant. Vous tentez de @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} la créature déclencheuse, en ignorant la condition qui nécessite d'avoir une main libre. La créature continue son déplacement après la Poussée.</p>",
@@ -5903,6 +6033,11 @@
             "id": "Rapid Response",
             "name": "réponse rapide (Rapid Response)",
             "description": "<p><strong>Déclencheur</strong> Un allié est réduit à 0 Points de vie.</p>\n<hr>\n<p>Vous travaillez rapidement et efficacement en période de danger pour fournir l'assistance nécessaire. Vous @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} vers l'allié déclencheur. Vous obtenez un bonus de circonstances de + 3 m à votre Vitesse durant ce déplacement.</p>"
+        },
+        {
+            "id": "Ringmaster's Introduction",
+            "name": "Introduction du Maître de piste (Ringmaster's Introduction)",
+            "description": "<p><strong>Conditions</strong> L'allié n'a pas agi dans le combat en cours.</p>\n<p><strong>Déclencheur</strong> Le tour d'un allié commence.</p>\n<hr />\n<p>Vous annoncez l'allié déclencheur par la litanie de ses réalisations légendaires, le poussant à l'action. La cible est @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accélérée} ce tour-ci et peut dépenser l'action supplémentaire pour Marcher rapidement, Frapper, Démoraliser, Feinter ou donner une Représentation.</p>"
         },
         {
             "id": "Multitalented",
@@ -5922,7 +6057,7 @@
         {
             "id": "Celestial Strikes",
             "name": "Frappes célestes (Celestial Strikes)",
-            "description": "<p>Votre lien avec le bien arme toutes vos attaques contre les forces du mal.</p>\n<p>Toutes vos @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} avec des armes ou à mains nues infligent 1 dégât de bien supplémentaire et possèdent les trait bien et magique.</p>"
+            "description": "<p>Votre lien avec le bien arme toutes vos attaques contre les forces du mal.</p>\n<p>Toutes vos @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} avec des armes ou à mains nues infligent [[/r 1 #bien]] dégât de bien supplémentaire et possèdent les trait bien et magique.</p>"
         },
         {
             "id": "Retain Absorbed Spell",
@@ -6977,7 +7112,7 @@
         {
             "id": "Consistent Surge",
             "name": "Poussée consistante (Consistent Surge)",
-            "description": "<p>Vos nanites sont incroyablement efficcaces, capable d'améliorer l'efficacité de votre corps régulièrement.</p>\n<p>Vous pouvez utiliser Poussée nanite avec une fréquence de une fois toutes les 10 minutes, au lieu d'une fois par heure.</p>",
+            "description": "<p>Vos nanites sont incroyablement efficaces, capable d'améliorer l'efficacité de votre corps régulièrement. Vous pouvez utiliser @Compendium[pf2e.feats-srd.JS24EjgLYcHB9E3T]{Poussée nanite} avec une fréquence de une fois toutes les 10 minutes, au lieu d'une fois par heure.</p>",
             "prereq": [
                 {
                     "value": "Poussé nanite"
@@ -7001,6 +7136,16 @@
             "prereq": [
                 {
                     "value": "Dévouement de Jongleur"
+                }
+            ]
+        },
+        {
+            "id": "Assurance (Medicine)",
+            "name": "Assurance (Médecine) (Assurance (Medicine))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test de Médecine pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Médecine"
                 }
             ]
         },
@@ -7127,6 +7272,16 @@
             "prereq": [
                 {
                     "value": "Don du patron"
+                }
+            ]
+        },
+        {
+            "id": "Assurance (Occultism)",
+            "name": "Assurance (Occultisme) (Assurance (Occultism))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test d'Occultisme pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Occultisme"
                 }
             ]
         },
@@ -7357,6 +7512,11 @@
                     "value": "principes du bien"
                 }
             ]
+        },
+        {
+            "id": "Hunter's Fangs",
+            "name": "Crocs du chasseur (Hunter's Fangs)",
+            "description": "<p>Vos crocs sont exceptionnellement douloureux. Chaque fois que vous obtenez un coup critique avec votre attaque à mains nues de crocs, vous appliquez l'effet de critique spécialisé des attaques à mains nues.</p>"
         },
         {
             "id": "Sacred Ki",
@@ -8260,6 +8420,11 @@
             ]
         },
         {
+            "id": "Ancestor's Rage",
+            "name": "Rage ancestrale (Ancestor's Rage)",
+            "description": "<p>Vous vous transformez en une énorme hyène d'un autre monde. Vous pouvez lancer @Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]{Forme Animale} (forme canine uniquement) une fois par jour comme un sort inné occulte de niveau 5.</p>"
+        },
+        {
             "id": "Talismanic Sage",
             "name": "Sage talismanique (Talismanic Sage)",
             "description": "<p>Vous avez plus oublié à propos des talismans que de moindres combattants ont jamais appris. Habituellement, fixer plus qu'un talisman sur un objet provoque la suppression des effets des talismans, Mais lorsque vous @Compendium[pf2e.actionspf2e.UAaQk93a30nx0nYY]{Fixez un talisman}, vous pouvez spécifiquement traiter un objet avec lequel vous travaillez, lui permettant de disposer de deux talismans actifs au même moment.</p>\n<p>Ce traitement spécial se termine si vous fixez un Talisman pour traiter un nouvel objet avec cette capacité.</p>",
@@ -8332,6 +8497,16 @@
             "prereq": [
                 {
                     "value": "Familiarité avec les armes halfelines"
+                }
+            ]
+        },
+        {
+            "id": "Assurance (Deception)",
+            "name": "Assurance (Duperie) (Assurance (Deception))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test de Duperie pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Duperie"
                 }
             ]
         },
@@ -8488,6 +8663,16 @@
                 },
                 {
                     "value": "Frappe incapacitante"
+                }
+            ]
+        },
+        {
+            "id": "Syu Tak-nwa's Skillful Tresses",
+            "name": "Tresses agiles de Syu Tak-nwa (Syu Tak-nwa's Skillful Tresses)",
+            "description": "<p>Vous pouvez contrôler vos cheveux vivants de manière experte et les utiliser pour accomplir des tâches variées. Vous pouvez accomplir de simples Intercations avec vos cheveux comme ouvrir une porte non vérouillée ou prendre des objets. Vos cehveux ne peuvent accomplir des actions qui nécessites des doigts ou d'avoir une dextérité manuelle significative, incluant toute action qui nécessiterait un test pour être accomplie. Vos cheveux peuvent tenir des objets d'un Encombrement maximim de 1, mais ne peuvent activer ou attaquer avec un objet qu'ils tiennent.</p>",
+            "prereq": [
+                {
+                    "value": "Cheveux vivants"
                 }
             ]
         },
@@ -9104,6 +9289,11 @@
             ]
         },
         {
+            "id": "Grippli Weapon Expertise",
+            "name": "Expertise avec les armes des gripplis (Grippli Weapon Expertise)",
+            "description": "<p>Vous combattez avec une expertise qui ne vous demande aucun effort avec les armes des gripplis. Chaque fois que vous obtenez une caractéristique de classe qui vous confère la maîtrise experte ou supérieure dans une ou plusieurs armes données, vous obtenez également cette maîtrise avec les armes suivantes : @Compendium[pf2e.equipment-srd.FPwsiGqMCNPLHmjX]{sarbacane}, @Compendium[pf2e.equipment-srd. LGgvev6AV0So8tP9]{Hachette}, @Compendium[pf2e.equipment-srd.H74vYwHJ8XT4qOPI]{faux}, @Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]{Arc court} et @Compendium[pf2e.equipment-srd.e4NwsnPnpQKbDZ9F]{Arc court composite} ou les armes gripplis avec lesquelles vous êtes qualifié.</p>"
+        },
+        {
             "id": "No Escape",
             "name": "Pas d’échappatoire (No Escape)",
             "description": "<p>Vous suivez l’adversaire pendant qu’il s’éloigne.</p>\n<p>Vous Marchez rapidement d’une distance maximum égale à votre Vitesse en suivant l’adversaire et en le gardant à portée tout au long de son déplacement et jusqu’à ce qu’il s’arrête ou que vous vous soyez déplacé de toute votre Vitesse. Vous pouvez utiliser Pas d’échappatoire pour Creuser, Escalader, Voler ou Nager au lieu de Marcher rapidement si vous possédez le type de déplacement correspondant.</p>"
@@ -9201,6 +9391,16 @@
             "prereq": [
                 {
                     "value": "Instinct spirituel"
+                }
+            ]
+        },
+        {
+            "id": "Assurance (Nature)",
+            "name": "Assurance (Nature) (Assurance (Nature))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test de Nature pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Nature"
                 }
             ]
         },
@@ -9424,6 +9624,11 @@
             ]
         },
         {
+            "id": "Shift Spell",
+            "name": "Déplacer le sort (Shift Spell)",
+            "description": "<p><strong>Accès</strong> membre du the Magaambya</p>\n<p><strong>Conditions</strong> Vous possédez un sort actif qui affecte une zone et vous êtes dans la portée du sort.</p>\n<hr />\n<p>Vous déplacez la zone du sort avers un nouvel endroit dans les 36 m. La durée restante du sort est réduite de moitié. Le sort n'affecte plus sa zone précédente.</p>"
+        },
+        {
             "id": "Skill Training",
             "name": "Compétence qualifiante (Skill Training)",
             "description": "<p>Vous devenez qualifié dans la compétence de votre choix.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois en choisissant une nouvelle compétence à chaque fois.</p>",
@@ -9447,6 +9652,11 @@
                     "value": "Vierge de saumure, Vierge de  neige, Vierge voilée ou Vierge virga"
                 }
             ]
+        },
+        {
+            "id": "Sever Space",
+            "name": "Couper la distance (Sever Space)",
+            "description": "</p><strong>Conditions</strong> Vous maniez une arme qui inflige des dégâts tranchants ou vous disposez d'une frappe à mains nues qui inflige des dégâts tranchants.</p> \n<hr />\n<p>Vous détruisez l'espace entre vos cibles et vous, ce qui vous permet de frapper avec vos armes au corps-à-corps à grande distance. Effectuez une Frappe au corps-à-corps avec l'arme ou l'attaque à mains nues requise. L'attaque gagne une portée de 24 m pour cette Frappe.</p>\n<p>Après la Frappe, qu'elle ait réussi ou non, le monde se referme pour remplir l'espace que vous avez détruit, vous amenant, vous et la cible, adjacents l'un à l'autre. Vous pouvez choisir de vous téléporter dans l'espace le plus proche adjacent à la cible ou de tenter de téléporter la cible pour qu'elle vous soit adjacente. Si vous choisissez la cible, elle peut annuler la téléportation si elle réussit un jet de Vigueur contre votre DD de classe.</p>"
         },
         {
             "id": "Cackle",
@@ -9515,6 +9725,11 @@
             "id": "Stubborn Persistence",
             "name": "Persévérance obstinée (Stubborn Persistence)",
             "description": "<p>Les humains sont réputés pour leur capacité à persévérer pour faire face aux épreuves les plus épuisantes.</p>\n<p>Lorsque vous devriez devenir @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué}, faites un test nu contre un DD 17. En cas de succès, vous n'êtes pas fatigué.</p>\n<p>Si la condition Fatigué est liée à une cause sous-jacente à laquelle vous ne remédiez pas, tel qu'un manque de repos, vous devez refaire le test à un intervalle déterminé par le MJ jusqu'à ce que vous obteniez un échec ou que vous remédiez à la cause sous-jacente.</p>"
+        },
+        {
+            "id": "Bristle",
+            "name": "Hirsute (Bristle)",
+            "description": "<p>Vous vous recroquevillez dans une posture qui fait se déployer vos piquants osseux. Vous obtenez un bonus de circonstances de +1 à la CA jusqu'au début de votre prochain tour.</p>\n<p>@Compendium[pf2e.feat-effects.4Zj71naHbY6O9ggP]{Effet: Hirsute}</p>\n<hr />\n<p><strong>Spécial</strong> Si vous avez la réaction Piquants barbelés ou une attaque à mains nues de piquants, chacun obtient un bonus de circonstancs de +1 aux jets de dégâts jusqu'au début de votre prochain tour.</p>"
         },
         {
             "id": "Darkseer",
@@ -9591,6 +9806,11 @@
             "id": "Pride in Arms",
             "name": "Fierté militaire (Pride in Arms)",
             "description": "<p><strong>Déclencheur</strong> Un allié dans les 9 m amène un ennemi à 0 Points de vie.</p>\n<hr>\n<p>En poussant un cri de triomphe, vous accordez l'inspiration à l'allié qui poursuit le combat. L'allié déclencheur obtient des points de vie temporaires égaux à son modificateur de Constitution jusqu'à la fin de son prochain tour.</p>"
+        },
+        {
+            "id": "Plum Deluge",
+            "name": "Déluge empoisonné (Plum Deluge)",
+            "description": "<p><strong>Conditions</strong>Vous avez au moins trois doses du même poison de contact.</p>\n<hr />\n<p>Vous avez appris à saturer une zone de poison en imitant les techniques de votre rival, Vipère bleue. Dans le cadre de cette capacité, vous Interagissez pour tirer trois fioles du même poison de contact et les lancer en l'air, où elles se brisent et répandent un déluge toxique affectant une explosion de 6 m dans un rayon de 9 m. Toutes les créatures se trouvant dans l'explosion sont automatiquement exposées au poison, en contournant immédiatement tout délai d'incubation, et doivent tenter un jet de sauvegarde contre ce poison. Les trois flacons doivent être identiques, même si le poison peut se décliner en plusieurs types ou en différents niveaux.</p>"
         },
         {
             "id": "Cantorian Rejuvenation",
@@ -9807,6 +10027,11 @@
                     "value": "Ailettes"
                 }
             ]
+        },
+        {
+            "id": "Scapegoat Parallel Self",
+            "name": "Bouc émissaire parallèle (Scapegoat Parallel Self)",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>.\n<p><strong>Déclencheur</strong> Votre tour commence ou votre malédiction oraculaire devrait augmenter.</p>\n<hr />\n<p>En voyant Syndara superposer des créatures aux propriétés métaphysiques similaires, vous avez compris un moyen de manipuler les effets de votre malédiction oraculaire. Vous modifiez immédiatement votre malédiction pour la faire passer à son stade mineur, modéré ou majeur ou revenir à sa forme légère, en échangeant l'effet de la malédiction avec celui d'une version parallèle de vous-même dans une autre réalité.</p>"
         },
         {
             "id": "Goading Feint",
@@ -10128,6 +10353,16 @@
             "id": "Diverting Vortex",
             "name": "Vortex déroutant (Diverting Vortex)",
             "description": "<p><strong>Conditions</strong> Votre plus récente action était de lancer un sort qui n'est pas un tour de magie.</p>\n<hr />\n<p>Vous transférez des vestiges d'énergie magique dans l'air qui vous entoure, créant ainsi un vortex qui dévie les attaques à distance. Jusqu'au début de votre prochain tour, vous obtenez un bonus de statut de +1 à votre CA contre les attaques à distance par arme et les attaques physiques à mains nues à distance.</p>"
+        },
+        {
+            "id": "Assurance (Intimidation)",
+            "name": "Assurance (Intimidation) (Assurance (Intimidation))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test d'Intimidation pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Intimidation"
+                }
+            ]
         },
         {
             "id": "Skirt The Light",
@@ -10766,6 +11001,11 @@
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>déclencheur</strong> Un allié que vous pouvez voir passe à 0 Points de vie.</p>\n<hr />\n<p>Lorsqu'un allié que vous pouvez voir tombe au combat, cela provoque un déferlement du pouvoir de votre divinité en vous. Vous regagnez instantanément 1 Point de focalisation.</p>"
         },
         {
+            "id": "Cantrip Expansion (Spontaneous Caster)",
+            "name": "Expansion de tour de magie (Lanceur spontané) (Cantrip Expansion (Spontaneous Caster))",
+            "description": "<p>Une meilleure compréhension de votre magie élargit la diversité de vos sorts les plus simples.</p>\n<p>Ajoutez deux tours de magie supplémentaires de votre liste de sorts à votre répertoire.</p>"
+        },
+        {
             "id": "False Faith",
             "name": "Foi de façade (False Faith)",
             "description": "<p>Droskar sait que vous pouvez avoir besoin de vous déguiser vous-mêmes dans les sociétés qui s'opposent à son culte. Après avoir passé une heure à prier Droskar, vous pouvez lancer des sorts en utilisant le symbole religieux d'une divinité différente comme focalisateur divin et vous pouvez adresser des prières verbales à cette divinité. Droskar intercepte vos prières et y répond sans que la divinité nommée ne le sache.</p>\n<p>Cette capacité ne s'applique qu'au symbole religieux d'une unique divinité à la fois au même moment et dédier un autre symbole religieux à une divinité différente nécessite une autre heure de prière et le précédent symbole cesse de fonctionner. Vous pouvez toujours utiliser un symbole religieux de Droskar sans affecter cette capacité.</p>",
@@ -10935,6 +11175,16 @@
             "id": "Recognize Ambush",
             "name": "Reconnaître une embuscade (Recognize Ambush)",
             "description": "<p><strong>Déclencheur</strong> Vous lancez l'initiative.</p>\n<hr />\n<p>Votre entraînement au combat vous a affûté pour être prêt pour une attaque à tout moment. Vous Interagissez pout dégainer une arme.</p>"
+        },
+        {
+            "id": "Wronged Monk's Wrath",
+            "name": "Courroux du moine lésé (Wronged Monk's Wrath)",
+            "description": "<p>Vous obtenez le sort ki @Compendium[pf2e.spells-srd.8TBgEzjZxPaOJOm1]{Courroux du moine lésé}. Augmentez le nombre de points de focalisation dans votre réserve de focalisation de 1.</p>",
+            "prereq": [
+                {
+                    "value": "sorts ki"
+                }
+            ]
         },
         {
             "id": "Juggernaut's Fortitude",
@@ -11193,6 +11443,16 @@
             ]
         },
         {
+            "id": "Extradimensional Stash",
+            "name": "Cachette extradimensionnelle (Extradimensional Stash)",
+            "description": "<p>Lorsque vous effectuez un tour de passe-passe, vous pliez l'espace de sorte que les objets disparaissent réellement.</p>\n<p>Vous créez un petit espace extradimensionnel quelque part dans vos vêtements qui peut contenir jusqu'à 5 Encombrements d'objets. L'espace fonctionne comme un sac sans fond mais ne peut contenir que jusqu'à 5 Encombrements, n'a pas d'Encombrement propre et peut être faire l'objet d'une Interaction en utilisant une seule main.</p>\n<p>En outre, lorsque vous Escamotez un objet, vous pouvez le placer directement dans cette cachette extradimensionnelle, tant qu'elle dispose de suffisamment d'espace libre pour contenir l'objet.</p>",
+            "prereq": [
+                {
+                    "value": "légendaire en Vol"
+                }
+            ]
+        },
+        {
             "id": "Grasping Reach",
             "name": "Allonge agrippante (Grasping Reach)",
             "description": "<p>Vous pouvez étendre une vrille de plante grimpante pour aider vos bras à augmenter votre allonge. Lorsque vous maniez une arme de corps à corps qui nécessite deux mains, ne possède pas d'allonge et inflige au moins 1d6 dégâts, vous pouvez passer d'une prise normale à deux mains à une prise étendue à deux mains en utilisant une action Interagir. Les armes maniées dans votre prise étendue obtiennent une allonge de 3m. Cette prise est moins stable et moins puissante, réduisant le dé de dégât de l'arme d'un cran.</p>"
@@ -11292,6 +11552,11 @@
                     "value": "Serment de fléau des fiélons"
                 }
             ]
+        },
+        {
+            "id": "Ceremony of the Evened Hand (Branch)",
+            "name": "Cérémonie de la main levée (branche) (Ceremony of the Evened Hand (Branch))",
+            "description": "<p>Vous avez cultivé la forme de votre exosquelette pour permettre le combat rapproché, en utilisant des nœuds, des verticilles et des branches renforcées. Lorsque vous sélectionnez ce don, vous gagnez une attaque à mains nues de branche qui inflige 1d6 dégâts contondants et possède le trait prise d'élan. Cette attaque à mains nues fait partie du groupe pugilat et utilise l'une de vos mains.</p>\n<hr />\n</p><strong>Spécial</strong>Vous pouvez sélectionner ce don deux fois, en choisissant l'attaque de griffe la deuxième fois que vous le prenez.</p>"
         },
         {
             "id": "Vernai Training",
@@ -11460,6 +11725,11 @@
             "description": "<p>Vous ne vieillissez plus, grâce à la magie primordiale qui vous soutient. Le flot continu d’énergie primordiale vous confère un bonus de statut de +2 aux jets de sauvegarde contre les maladies et la magie primordiale.</p>"
         },
         {
+            "id": "All the Time in the World",
+            "name": "Tout le teps du monde (All the Time in the World)",
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<hr />\n<p>Votre expérience directe de la nature subjective du temps et de l'espace vous a donné de nouvelles perspectives d'observation. Votre esprit traite les informations si rapidement que le temps semble s'arrêter pour toutes les créatures sauf vous. Vous pouvez effectuer jusqu'à 9 actions en 3 séries de 3 actions chacune. Pendant cette période, vous ne pouvez utiliser que des capacités purement mentales et d'observation telles que Se souvenir, Chercher et Concevoir un stratagème et vous pouvez utiliser une action pour déplacer une projection mentale de vous-même vers un endroit situé dans un rayon de 18 m afin d'observer les objets de plus près et sous différents angles, bien que vous ne puissiez affecter votre environnement en aucune manière (par exemple, vous pourriez déplacer votre projection mentale plus près d'une porte éloignée pour lire une inscription minuscule sur sa poignée, mais vous ne pourriez pas l'ouvrir pour observer ce qui se trouve de l'autre côté). Lorsque la durée s'est écoulée, le temps reprend son cours normal.</p>"
+        },
+        {
             "id": "Wyrmling Flight",
             "name": "Vol Petitver (Wyrmling Flight)",
             "description": "<p>Vos ailes draconiques sont devenues assez grandes et fortes pour le vol. Vous obtenez une vitesse de vol égale à votre Vitesse, en utilisant vos ailes pour rester en l'air.</p>",
@@ -11480,6 +11750,11 @@
             "description": "<p><strong>Déclencheur</strong> Une créature vous cible avec une attaque et vous pouvez voir votre assaillant.</p>\n<p><strong>Conditions</strong> Vous n’êtes pas surchargé</p>\n<hr />\n<p>Vous tentez de vous déplacer agilement et gagnez un bonus de circonstances de +2 à votre CA contre l’attaque déclencheuse.</p>"
         },
         {
+            "id": "Counterspell (Wizard)",
+            "name": "Contresort (Magicien) (Counterspell (Wizard))",
+            "description": "<p><strong>Déclencheur</strong> Une créature Lance un sort que vous avez préparé.</p>\n<hr />\n<p>Quand un ennemi Lance un sort et que vous voyez sa manifestation, vous pouvez recourir à votre propre magie pour l’interrompre. Vous dépensez un sort préparé pour contrer l’incantation du même sort lancé par une autre créature. Vous perdez votre emplacement de sort comme si vous aviez lancé le sort déclencheur. Vous tentez ensuite de contrer ce sort.</p>"
+        },
+        {
             "id": "Azarketi Weapon Familiarity",
             "name": "Familiarité avec les armes azarketies (Azarketi Weapon Familiarity)",
             "description": "<p>Vous êtes familier avec les armes qui excellent sous l'eau. Vous êtes qualifié avec les @Compendium[pf2e.equipment-srd.62nnVQvGhoVLLl2K]{arbalètes}, l'@Compendium[pf2e.equipment-srd.XyA6PKV46aNlLXOd]{arbalète à main}, les @Compendium[pf2e.equipment-srd.aXuJh4i8HqSu6NYV]{piques}, les @Compendium[pf2e.equipment-srd.tOhoGvmCMw4JpWcS]{lances} et les @Compendium[pf2e.equipment-srd.FJrsDoaIXksVjld9]{tridents}.</p>\n<p>De plus, vous obtenez un accès à toutes les armes azarketies peu courantes. Pour les besoins de déterminer votre maîtrise, les armes de guerre azarketies sont des armes simples et les armes azarketies avancées sont des armes de guerre.</p>"
@@ -11488,6 +11763,16 @@
             "id": "Retractable Claws",
             "name": "Griffes rétractables (Retractable Claws)",
             "description": "<p>Vous obtenez une attaque à mains nues de griffe qui inflige [[/r 1d4 #tranchants]] dégâts tranchants. Vos griffes sont dans le groupe pugilat et ont les traits agile, finesse et à mains nues.</p>"
+        },
+        {
+            "id": "Assurance (Performance)",
+            "name": "Assurance (Représentation) (Assurance (Performance))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base.Vous pouvez vous abstenir d’effectuer un test de Représentation pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Représentation"
+                }
+            ]
         },
         {
             "id": "Arcane School Spell",
@@ -11925,6 +12210,11 @@
             ]
         },
         {
+            "id": "Worldsphere Gravity",
+            "name": "Gravité du globe terrestre (Worldsphere Gravity)",
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<hr />\n<p>Bien que la création de demi-plans nécessite généralement de longs rituels, vous savez comment établir des effets planaires mineurs en imitant les chefs-d'œuvre de Syndara. Si votre prochaine action consiste à lancer un sort du niveau ou supérieur depuis vos emplacements de sorts qui affecte une zone, vous pouvez appliquer l'un des effets planaires suivants dans une explosion de 6 m centrée à l'intérieur de la zone du sort. L'effet persiste pendant 1 minute.</p>.\n<ul>\n<li><strong>Morasse gravitationnelle</strong> La gravité est amplifiée ici, créant un terrain très difficile. Les créatures volantes qui traversent la zone doivent réussir un jet de Réflexes contre votre DD de sort ou tomber au sol, en subissant des dégâts contondants égaux à la moitié de la distance de chute.</li>\n<li><strong>Le temps qui coule</strong> Des flux temporels erratiques vous aident dans cet espace. Une créature qui commence son tour dans l'explosion est affectée par @Compendium[pf2e.spells-srd.o6YCGx4lycsYpww4]{Rapidité} à ce tour.</li>\n</ul>"
+        },
+        {
             "id": "Dire Form",
             "name": "Forme sauvage (Dire Form)",
             "description": "<p>Votre forme hybride est une bête massive</p>\n<p>Sous votre forme hybride, vous obtenez les effets d'@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement}.</p>"
@@ -12065,6 +12355,16 @@
             "id": "Wortwitch",
             "name": "Sorcière herbacée (Wortwitch)",
             "description": "<p>Vous avez une affinité particulière pour les plantes feuillues.</p>\n<p>Votre patron vous accorde un familier léchi. Si vous avez déjà un familier, ce léchi remplace votre précédent familier, comme s'il avait été tué.</p>\n<p>De plus, vous obtenez la capacité de voir à travers les feuilles, les lianes et les autres feuillages. Vous ne subissez pas les pénalités de circonstances aux attaques à distance de sort ou aux tests de Perception provoqués par le feuillage et votre attaque ciblée ne nécessite pas un test nu pour réussir contre une cible qui n'est @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} que par une telle végétation.</p>"
+        },
+        {
+            "id": "Assurance (Athletics)",
+            "name": "Assurance (Athlétisme) (Assurance (Athletics))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test d'Athlétisme pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Athlétisme"
+                }
+            ]
         },
         {
             "id": "Leshy Familiar",
@@ -12619,6 +12919,16 @@
             "prereq": [
                 {
                     "value": "Frappe ki"
+                }
+            ]
+        },
+        {
+            "id": "Electric Counter",
+            "name": "Contre électrique (Electric Counter)",
+            "description": "<p><strong>Déclencheur</strong> Vous devriez subir des dégâts.</p>\n<p><strong>Conditions</strong> Vous êtes dans la posture de l'initié des vents violents.\n<hr />\n<p>Vous obtenez une résistance à l'électricité égale à votre niveau jusqu'au début de votre prochain tour. Si les dégâts déclencheurs étaient d'électricité, cette résistance s'applique à eux. Si les dégâts déclencheurs étaient ceux d'une atttaque au corps-à-corps, l'attaquant subit [[/r 3d6 # dégâts d'électricité]]{3d6 dégâts d'électricité}.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don possède le trait correspondant à la tradition des sorts ki que vous lancez, soit divine, soit occulte.</p>",
+            "prereq": [
+                {
+                    "value": "Initié des vents violents"
                 }
             ]
         },
@@ -13376,6 +13686,11 @@
             "description": "<p>Bondissant de votre cachette, vous attaquez votre cible au moment où elle s’y attend le moins. Vous @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} de votre Vitesse, mais vous devez terminer votre mouvement à côté d’un ennemi vis-à-vis duquel vous êtes @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} ou @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détecté}.</p>\n<p>Vous @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappez} cet ennemi, mais restez Caché ou Non détecté aux yeux de cette créature jusqu’à la fin de votre Frappe.</p>\n<p>Vous pouvez utiliser Bondir depuis les ombres pour @Compendium[pf2e.actionspf2e.H6v1VgowHaKHnVlG]{Creuser}, @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader], @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Voler} ou @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} au lieu de Marcher rapidement si vous possédez le type de déplacement correspondant.</p>"
         },
         {
+            "id": "Bone Rider",
+            "name": "Chevaucheur d'os (Bone Rider)",
+            "description": "<p>Utilisant les os de vos ancêtres, vous manifestez leurs esprits autour de vous sous une forme fossilisée, qui terrifie vos ennemis. Vous pouvez lancer @Compendium[pf2e.spells-srd.O6VQC1Bs4aSYDa6R]{Masque de terreur} sur vous-même comme un sort inné primordial une fois par jour. Lorsque vous le faites, vous apparaissez comme un ancêtre squelettique homme lézard, modifié d'une manière qui puise dans les peurs les plus profondes de ceux qui vous observent.</p>"
+        },
+        {
             "id": "Animal Senses",
             "name": "Sens animaux (Animal Senses)",
             "description": "<p>Vous obtenez un des sens suivants accessible à votre animal intérieur: @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}, @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne}, ou odorat (imprécis) 9 m. Vous devez avoir vision nocturne avant de pouvoir obtenir Vision dans le noir avec ce don. Si votre animal intérieur n'a pas un type spécifique de sens, vous ne pouvez pas obtenir ce sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don à plusieurs reprises, en choisissant un sens différent à chaque fois.</p>"
@@ -13920,6 +14235,11 @@
             ]
         },
         {
+            "id": "Fountain of Secrets",
+            "name": "Fontaine de secrets (Fountain of Secrets)",
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<hr />\n<p>Vous vous souvenez constamment de détails sur le monde. Vous tentez un test de rappel de connaissances. Si vous réussissez, vous obtenez des informations ou un contexte supplémentaires. Si vous réussissez de manière critique, vous pouvez, à la discrétion du MJ, obtenir encore plus d'informations ou de contextes supplémentaires que la normale.</p>"
+        },
+        {
             "id": "Deity's Domain",
             "name": "Domaine de la divinité (Deity's Domain)",
             "description": "<p>Vous incarnez l’un des aspects de votre divinité.</p>\n<p>Choisissez l’un des domaines de votre divinité. Vous gagnez le sort de domaine initial du domaine choisi en guise de sort de dévotion.</p>"
@@ -14388,6 +14708,16 @@
             ]
         },
         {
+            "id": "Sense Ki",
+            "name": "Perception du ki (Sense Ki)",
+            "description": "<p>Vous pouvez sentir la présence de ki dans votre zone. vous obtenez Sens de la vie (imprécis) avec une portée de 9 m.</p>",
+            "prereq": [
+                {
+                    "value": "sorts ki"
+                }
+            ]
+        },
+        {
             "id": "Great Tengu Form",
             "name": "Forme du grand tengu (Great Tengu Form)",
             "description": "<p>Vous prenez la forme d'un imposant oni ailé de taille Grande.</p>\n<p>Une fois par jour, dans le cadre de l'utilisation de Forme au long nez, vous gagnez aussi les avantages d'un sort d'@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement} et de @Compendium[pf2e.spells-srd.A2JfEKe6BZcTG1S8]{Vol} de niveau 4.</p>\n<p>Cela dure pendant 5 minutes ou jusqu'à ce que vous sortiez de votre forme à long nez, selon ce qui advient en premier.</p>",
@@ -14463,7 +14793,7 @@
         {
             "id": "Bargain Hunter",
             "name": "Chasseur de bonnes affaires (Bargain Hunter)",
-            "description": "<p>Vous pouvez Gagner de l’argent en utilisant Diplomatie, en passant vos journées à rechercher des bonnes affaires et à revendre à profit. Vous pouvez aussi passer du temps à dénicher une bonne affaire sur un objet. Cela fonctionne comme si vous utilisiez Gagner de l’argent avec Diplomatie, sauf qu’au lieu de gagner de l’argent, vous achetez l’objet avec un rabais égal à l’argent que vous auriez gagné, et vous l’obtenez gratuitement si votre revenu excède ou égale son coût. Enfin, si vous sélectionnez Chasseur de bonnes affaires lors de la création de personnage au niveau 1, vous commencez avec 2 po supplémentaires.</p>",
+            "description": "<p>Vous pouvez Gagner de l’argent en utilisant Diplomatie, en passant vos journées à rechercher des bonnes affaires et à revendre à profit. Vous pouvez aussi passer du temps à dénicher une bonne affaire sur un objet. Cela fonctionne comme si vous utilisiez Gagner de l’argent avec Diplomatie, sauf qu’au lieu de gagner de l’argent, vous achetez l’objet avec un rabais égal à l’argent que vous auriez gagné, et vous l’obtenez gratuitement si votre revenu excède ou égale son coût. Enfin, si vous sélectionnez @Compendium[pf2e.feats-srd.5nc5ridFBfYpn2Om]{Chasseur de bonnes affaires} lors de la création de personnage au niveau 1, vous commencez avec 2 po supplémentaires.</p>",
             "prereq": [
                 {
                     "value": "qualifié en Diplomatie"
@@ -14717,6 +15047,11 @@
             ]
         },
         {
+            "id": "None Shall Know",
+            "name": "Personne ne doit savoir (None Shall Know)",
+            "description": "<p>Même les moyens magiques ont du mal à vous soutirer des informations. Vous gagnez @Compendium[pf2e.spells-srd.EoKBlgf6Smt8opaU]{Antidétection} comme sort occulte inné une fois par jour, qui ne peut être lancé que sur vous-même et qui est automatiquement intensifié à la moitié de votre niveau arrondi à l'entier supérieur.</p>."
+        },
+        {
             "id": "Viking Dedication",
             "name": "Dévouement de viking (Viking Dedication)",
             "description": "<p>Les vikings passent de longues périodes de temps en mer, bondissant seulement de leurs bateaux à un moment, pour charger dans les vagues et fondre sur leurs ennemis comme une tempête.</p>\n<p>Vous êtes qualifié en Connaissance de la navigation. Vous vous déplacez à travers l'eau en utilisant votre Vitesse, vous ignorez le terrain difficile résultant de l'eau peu profonde, comme celle des marais ou sur les plages.</p>\n<p>De plus, si vous obtenez un succès à votre test d'Athlétisme pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous considérez qu'il s'agit d'un succès critique à la place.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de dévouement de l'archétype du Viking.</p>",
@@ -14763,6 +15098,11 @@
                     "value": "qualifié en Artisanat"
                 }
             ]
+        },
+        {
+            "id": "Webslinger",
+            "name": "Lanceur de toile (Webslinger)",
+            "description": "<p><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<hr />\n<p>Votre capacité naturelle à créer des toiles de soie se mêle à vos pouvoirs magiques, ce qui vous permet de créer des toiles d'une taille impressionnante avec une grande fréquence. Ceci a les effets d'un sort @Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]{Toile d'araignée} de niveau 2 en utilisant le plus élevé entre votre DD de classe ou votre DD de sort.</p>"
         },
         {
             "id": "Healer's Halo",
@@ -14859,6 +15199,16 @@
             "prereq": [
                 {
                     "value": "expert en Médecine"
+                }
+            ]
+        },
+        {
+            "id": "Assurance (Acrobatics)",
+            "name": "Assurance (Acrobaties) (Assurance (Acrobatics))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test d'Acrobaties pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Acrobaties"
                 }
             ]
         },
@@ -15078,6 +15428,16 @@
             "id": "Hydraulic Amneuvers",
             "name": "Manœuvres hydrauliques (Hydraulic Amneuvers)",
             "description": "<p>Vous frappez vos adversaires avec un torrent d'eau siphonnée de votre environnement.</p>\n<p>Si la prochaine action que vous entreprenez est un test d'Athlétisme pour Désarmer, Pousser ou faire un Croc-en-jambe, cette action possède une portée de 4,5 m. Vous ne recevez pas de bonus d'objet à ce test ni aucun bonus de circonstances en lien avec votre corps physique mais si vous obtenez un échec critique sur ce test d'Athlétisme, vous obtenez un échec à la place.</p>"
+        },
+        {
+            "id": "Gnoll Weapon Expertise",
+            "name": "Expertise avec les armes des gnolls (Gnoll Weapon Expertise)",
+            "description": "<p>Lorsque vous obtenez une capacité de classe qui vous accorde la maîtrise experte ou supérieure dans une arme donnée, vous obtenez cette maîtrise avec le @Compendium[pf2e.equipment-srd.t5FbyZtRL4qV0V7k]{fléau}, le @Compendium[pf2e.equipment-srd.mVxA9E2ernBL6fM6]{fléau de guerre}, le @Compendium[pf2e.equipment-srd.YLb6XnT7OxAVGL5m]{khopesh}, la @Compendium[pf2e.equipment-srd.tOhoGvmCMw4JpWcS]{lance} et le @Compendium[pf2e.equipment-srd.MeA0g9xvWCbGxf2g]{mambele}.</p>",
+            "prereq": [
+                {
+                    "value": "Praticité des armes des gnolls"
+                }
+            ]
         },
         {
             "id": "Virtuosic Performer (Percussion)",
@@ -15975,6 +16335,11 @@
             ]
         },
         {
+            "id": "Primal Rampage",
+            "name": "Fléau primordial (Primal Rampage)",
+            "description": "<p>Vous puisez dans la force primitive et inarrêtable de votre antique genre. Vous obtenez @Compendium[pf2e.spells-srd.aqRYNoSvxsVfqglH]{Liberté de mouvement} et @Compendium[pf2e.spells-srd.2BV2yPfVJ5zirZt]{Peau de pierre} en tant que sorts innés primordiaux de niveau 4 que vous pouvez lancer une fois par jour. En dépensant 3 actions, vous pouvez lancer en même temps les deux sorts innés, à condition qu'ils soient encore tous deux disponibles pour la journée.</p>"
+        },
+        {
             "id": "Unfazed Assessment",
             "name": "Estimation imperturbable (Unfazed Assessment)",
             "description": "<p>Vous avez observé des centaines de styles de combat et vous vous adaptez rapidement pour vous protéger des manœuvres complexes. Choisissez une créature dans un rayon de 9 m dont vous êtes conscient et tentez un test de Perception contre le DD de Volonté de la cible.</p>\n<p>Si vous réussissez, vous analysez son style de combat et vous gagnez un bonus de circonstances de +1 à la CA et aux jets de sauvegarde contre les attaques de cette créature (ou un bonus de circonstances de +2 en cas de succès critique). L’effet dure jusqu’à la fin de votre prochain tour.</p>",
@@ -16081,6 +16446,11 @@
             "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance chargée ou une arme à distance avec un rechargement 0</p>\n<hr>\n<p>Vous faites un saut en arrière et effectuez un tir rapidement qui prend votre adversaire par surprise. Vous @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faites un pas} puis effectuez une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} à distance avec l'arme requise. Votre cible est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} contre l'attaque.</p>"
         },
         {
+            "id": "Hydraulic Maneuvers",
+            "name": "Manœuvres hydrauliques (Hydraulic Maneuvers)",
+            "description": "<p>Vous malmenez vos ennemis avec un torrent d'eau siphonné de votre environnement.</p>\n<p>Si la prochaine action que vous entreprenez est un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} ou faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe}, cette action a une portée de 4,5 m. Vous ne recevez aucun bonus d'objet à ce test ni aucun bonus de circonstances lié à votre corps physique, mais si vous obtenez un échec critique à ce test d'Athlétisme, vous obtenez un échec à la place.</p>"
+        },
+        {
             "id": "Ancestor's Transformation",
             "name": "Transformation de l'ancêtre (Ancestor's Transformation)",
             "description": "<p>Vous pouvez communier avec les esprits ancestraux  pour prendre la forme d'un énorme strix primitif.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]{Forme aérienne} au niveau 5 comme un sort inné primordial une fois par jour, mais vous prenez la forme d'un strix primitif, en utilisant les statistiques d'une forme d'oiseau.</p>"
@@ -16174,6 +16544,16 @@
             "id": "Diamond Fists",
             "name": "Poings de diamant (Diamond Fists)",
             "description": "<p>Vous corps se solidifie au fur et à mesure de vos attaques et vos derniers coups infligent ainsi plus de dégâts.</p>\n<p>Vos attaques à mains nues obtiennent le trait percutant. Celles qui possèdent déjà ce trait augmentent à la place d’un échelon leurs dés de dégâts d’arme.</p>"
+        },
+        {
+            "id": "Assurance (Diplomacy)",
+            "name": "Assurance (Diplomatie) (Assurance (Diplomacy))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test de Diplomatie pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Diplomatie"
+                }
+            ]
         },
         {
             "id": "Ritualist Dedication",
@@ -16315,7 +16695,7 @@
         },
         {
             "id": "Strand Strider",
-            "name": "XXX (Strand Strider)",
+            "name": "Arpenteur de toiles (Strand Strider)",
             "description": "<p>Vos huit pattes vous sont utiles pour escalader les murs et les toiles. Vous gagnez une vitesse d'escalade de 7,5 m sous votre forme d'araignée.</p>"
         },
         {
@@ -16652,6 +17032,11 @@
                     "value": "Dévouement de Maître des sorts"
                 }
             ]
+        },
+        {
+            "id": "Effortless Reach",
+            "name": "Allonge sans effort (Effortless Reach)",
+            "description": "<p>En concentrant les pouvoirs de votre ki pour augmenter vos coups, vous vous étirez et allongez votre corps d'une manière qui défie la logique. Vos attaques à mains nues obtiennent le trait allonge.</p>"
         },
         {
             "id": "Goloma Courage",
@@ -17733,6 +18118,16 @@
             "description": "<p>Vous mêlez subtilement incantations et performances artistiques.</p>\n<p>Si votre prochaine action consiste à Lancer un sort, faites un test de Représentation contre le DD de Perception de tous les observateurs. Si votre test de Représentation est réussi contre le DD de Perception d’un observateur, celui-ci ne remarque pas que vous êtes en train de Lancer un sort, même si les sorts produisent normalement des effets sensoriels évidents indiquant à tout le monde à proximité qu’une incantation est en cours et que les composants verbaux, somatiques et matériels sont très facilement perceptibles. Vous dissimulez tout ceci pour les faire passer pour une représentation artistique ordinaire. Ce pouvoir cache uniquement les actions d’incantation et la manifestation du sort, pas ses effets. Un observateur verra ainsi tout de même le rayon qui part de vous ou vous verra disparaître.</p>"
         },
         {
+            "id": "Assurance (Arcana)",
+            "name": "Assurance (Arcanes) (Assurance (Arcana))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base.Vous pouvez vous abstenir d’effectuer un test d'Arcanes pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Arcanes"
+                }
+            ]
+        },
+        {
             "id": "Metamagic Mastery",
             "name": "Maîtrise de la métamagie (Metamagic Mastery)",
             "description": "<p>Vous ne mettez pas plus longtemps à modifier vos sorts qu’à les lancer normalement. Vous utilisez les actions uniques de métamagie par des actions gratuites</p>"
@@ -18154,6 +18549,11 @@
             "id": "Disrupt Ki",
             "name": "Perturbation du ki (Disrupt Ki)",
             "description": "<p>Faites une Frappe à mains nues. Si elle inflige des dégâts à une créature vivante, vous bloquez sa force vitale. La créature subit [[/r 2d6]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts négatifs persistants} et elle est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 1 tant que persistent ces dégâts. Si vous êtes de niveau 18 ou plus, cette Frappe inflige [[/r 3d6]] dégâts négatifs persistants à la place.</p>"
+        },
+        {
+            "id": "Counterspell (Sorcerer)",
+            "name": "Contresort (Ensorceleur) (Counterspell (Sorcerer))",
+            "description": "<p><strong>Déclencheur</strong> Une créature Lance un sort que vous avez dans votre répertoire.</p>\n<p><strong>Conditions</strong> Il vous reste un emplacement de sort utilisable pour lancer le sort déclencheur.</p>\n<hr />\n<p>Quand un ennemi Lance un sort et que vous voyez sa manifestation, vous pouvez recourir à votre propre magie pour l’interrompre. Quand une créature lance un sort qui se trouve également dans votre répertoire, vous pouvez dépenser l’un de vos emplacements de sorts pour le contrer. Vous perdez votre emplacement de sort comme si vous aviez lancé le sort déclencheur. Vous tentez ensuite de contrer ce sort.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don a le trait correspondant à votre tradition magique (arcanique, divine, primordiale ou occulte)</p>"
         },
         {
             "id": "Root Magic",
@@ -18980,6 +19380,11 @@
             ]
         },
         {
+            "id": "Time Dilation Cascade",
+            "name": "Dilatation temporelle en cascade (Time Dilation Cascade)",
+            "description": "<p>Vous empruntez un peu de temps qui provient du futur pour agir maintenant. Portez six Frappes. Votre Pénalité d'attaques multiples s'applique comme à l'ordinaire à ces Frappes. Si vous parvenez à toucher une créature avec ces Frappes multiples, combinez les dégâts de ces Frappes avant d'appliquer les résistances et les faiblesses.</p>\n<p>Lors de votre prochain tour, vous ne regagnez qu'une action au lieu de trois. C'est avant d'appliquer toute modification à vos actions résultant des états Accéléré, Ralenti ou Étourdi.</p>"
+        },
+        {
             "id": "Rebounding Toss",
             "name": "Lancer rebondissant (Rebounding Toss)",
             "description": "<p><strong>Conditions</strong> Vous maniez une arme de jet.</p>\n<hr />\n<p>Vous faites rebondir votre arme sur un ennemi pour en frapper un autre. Faites une Frappe à distance avec une arme de jet. Si ce coup est réussi, l'arme rebondit vers un ennemi situé à moins de 3 mètres de la cible initiale. Effectuez une autre Frappe contre cette deuxième cible.</p>\n<p>Les deux attaques comptent pour votre pénalité d'attaque multiple, mais la pénalité n'augmente qu'une fois que vous avez effectué les deux attaques.</p>"
@@ -19116,6 +19521,11 @@
             "id": "Knockback Strike",
             "name": "Frappe repoussante (Knockback Strike)",
             "description": "<p>Vous concentrez votre force pour porter un coup suffisamment puissant pour repousser un ennemi. Faites une Frappe à mains nues. Si vous touchez, effectuez un test d’Athlétisme pour Pousser la cible. Cette attaque applique le même malus d’attaques multiples que votre Frappe et ne compte pas dans le calcul de votre malus d’attaques multiples.</p>"
+        },
+        {
+            "id": "Impossible Volley (Ranger)",
+            "name": "Volée invraisemblable (Rôdeur) (Impossible Volley (Ranger))",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec le trait volée et un rechargement 0.</p>\n<hr />\n<p>Vous tirez une volée de projectiles sur tous les adversaires dans une zone. Effectuez une Frappe avec un malus de −2 contre chaque ennemi dans une explosion de 3 m de rayon centrée sur un point situé à une distance supérieure ou égale à la portée de volée de votre arme. Faites un seul jet de dégâts pour toutes les cibles.</p>\n<p>Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>"
         },
         {
             "id": "Mindblank Mutagen",
@@ -19750,6 +20160,11 @@
             ]
         },
         {
+            "id": "Delver",
+            "name": "Plongeur (Delver)",
+            "description": "<p>La vie souterraine vous a enseigné à nager à travers le sol comme à travers l'eau. Vous obtenez une vitesse de creusement de 3 m à travers le sol meuble ou la terre.</p>"
+        },
+        {
             "id": "Slip Into Shadow",
             "name": "Se glisser dans l'ombre (Slip Into Shadow)",
             "description": "<p>Votre magie de l'ombre saigne dans l'espace autour de vous.</p>\n<p>Lorsque vous lancez un sort avec le trait obscurité, une aura persistante d'ombres réduit la lumière vive dans une émanation de 1,5 m autour de vous qui devient faible jusqu'à la fin de votre tour. Comme avec la lumière faible, vous pouvez utilisez ces ombres pour vous Cacher, mais l'aura rend toujours votre position globale évidente, de sorte que vous ne pouvez devenir @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détecté} à cause de ces seules ombres.</p>",
@@ -20141,7 +20556,7 @@
         {
             "id": "Eternal Wings (Aasimar)",
             "name": "Ailes éternelles (Eternal Wings (Aasimar))",
-            "description": "<p>Vos ailes sont désormais une partie permanente de votre corps.</p>\n<p>Vous obtenez les effets d'Ailes célestes à tout moment, plutôt que juste une fois par jour pendant 10 minutes.</p>",
+            "description": "<p>Vos ailes sont désormais une partie permanente de votre corps.</p>\n<p>Vous obtenez les effets d'@Compendium[pf2e.feats-srd.vtCrMziYxNyj8kP7]{Ailes célestes} à tout moment, plutôt que juste une fois par jour pendant 10 minutes.</p>",
             "prereq": [
                 {
                     "value": "Ailes célestes"
@@ -20586,6 +21001,16 @@
             ]
         },
         {
+            "id": "Demon's Hair",
+            "name": "Cheveux du démon (Demon's Hair)",
+            "description": "<p>Vos cheveux se tortillent et se tordent constamment comme ceux de votre rival, Syu Tak-nwa. Le dé de dégâts de votre Frappe à mains nues de cheveux augmente d'un cran et il obtient les traits allonge et polyvalent tranchant. Votre familier obtient un contrôle partiel de vos cheveux ; tant que votre familier est vivant et dans les 9 m, vous êtes Accéléré en permanence et vous pouvez utiliser l'action supplémentaire seulement pou faire une Frappe de cheveux.</p>\n<p>Vous pouvez délivrer vos maléfices par vos cheveux. Lorsque vous réussissez à lancer un maléfice qui n'est pas un tout de magie qui nécesssite 2 actions ou plus pour être lancé et qui ne nécessite pas un jet d'attaque de sort, si votre cible est à portée de votre allonge, pendant que vous lancer le sort, vous pouvez faire une Frappe de cheveux contre elle avant d'appliquer tout effet du maléfice. Si cette Frappe échoue, le maléfice n'a aucun effet.</p>\n<p><strong>Spécial</strong> Si vos cheveux ont déjà le trait allonge, ils obtiennent aussi le trait balayage.</p>",
+            "prereq": [
+                {
+                    "value": "Cheveux vivants"
+                }
+            ]
+        },
+        {
             "id": "Crystalline Dust",
             "name": "Poussière cristalline (Crystalline Dust)",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous avez appris à disperser les particules cristallines recouvrant votre corps sous la forme de brume. Vous devenez @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}, bien que vous ne puissiez pas utiliser ce camouflage pour vous Cacher ou Être furtif, comme d'ordinaire avec le camouflage lorsque votre position reste toujours évidente.</p>\n<p>Les particules restent à quelques centimètres de votre peau, se déplaçant avec vous et persistent pendant un nombre de rounds égal à la moitié de votre niveau.</p>"
@@ -20609,6 +21034,11 @@
                     "value": "Riposte jumelée"
                 }
             ]
+        },
+        {
+            "id": "Ceremony of Growth",
+            "name": "Cérémonie de croissance (Ceremony of Growth)",
+            "description": "<p>Vous pouvez altérer la taille de contre exosquelette. Vous obtenez constamment les effets d'@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement}. Vous pouvez révoquer ou reprendre ces effets par une action, qui possède le trait concentratation.</p>\n<p>@Compendium[pf2e.spell-effects.sPCWrhUHqlbGhYSD]{Effet de sort : Agrandissement}</p>"
         },
         {
             "id": "Forcible Energy",
@@ -20728,6 +21158,11 @@
             "id": "Natural Ambition",
             "name": "Ambition naturelle (Natural Ambition)",
             "description": "<p>On vous a appris à être ambitieux et à toujours vous dépasser, ce qui vous permet de progresser rapidement dans votre domaine de prédilection. Vous gagnez un don de classe de niveau 1 dans votre classe. Vous devez posséder les prérequis de ce don, mais vous pouvez le sélectionner plus tard dans le processus de création de votre personnage afin de vérifier si vous possédez tous les prérequis</p>"
+        },
+        {
+            "id": "Ceremony of Sun's Gift",
+            "name": "Cérémonie du don du soleil (Ceremony of Sun's Gift)",
+            "description": "<p>Votre lien avec le soleil est devenu un lien indéfectible. Vous n'êtes plus temporairement immunisé contre les effets de votre guérison par le soleil et au lieu de faire un jet pour récupérer des points de vie, vous gagnez le nombre maximum de PV possible (par exemple, 64 pv au lieu de 8d8).</p>"
         },
         {
             "id": "Gnoll Weapon Familiarity",
@@ -20883,6 +21318,11 @@
             ]
         },
         {
+            "id": "True Gaze",
+            "name": "Regard lucide (True Gaze)",
+            "description": "<p><strong>Fréquency</strong> une fois par heure</p>\n<hr />\n<p>Lorsque vous ajustez finement vos yeux, votre regard peut passer à travers tous les artifices, même ceux qui sont magiques. Lorsque vous utilisez Vision lucide, vous obtenez les effets d'un sort de @Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{Vision lucide} au niveau 6, en utilisant votre modificateur de Perception pour le test de contre.</p>"
+        },
+        {
             "id": "No Cause For Alarm",
             "name": "Pas besoin de s'alarmer (No Cause For Alarm)",
             "description": "<p>Vous tentez de réduire la panique. Faites un test de Diplomatie et comparez le au DD de Volonté des créatures dans une émanation de 3 m autour de vous qui sont <a class=\"entity-link\" data-pack=\"pf2e.conditionitems\" data-id=\"TBSHQspnbcqxsmjL\" draggable=\"true\"><i class=\"fas fa-book-open\"></i>Effrayées</a>. Chacune d'entre elle est ensuite temporairement immunisée pendant 1 heure à l'utilisation de ce don.</p>\n<hr />\n<p><strong>Succès critique</strong> Réduisez la valeur Effrayée de la créature de 2.</p>\n<p><strong>Succès</strong> Réduisez la valeur Effrayée de la créature de 1.</p>",
@@ -20891,6 +21331,11 @@
                     "value": "qualifié en Diplomatie"
                 }
             ]
+        },
+        {
+            "id": "Everdistant Defense",
+            "name": "Défense toujours plus lointaine (Everdistant Defense)",
+            "description": "</p><strong>Déclencheur</strong> Une créature se trouvant dans votre aura est ciblée par une attaque à distance ou une créature se déplace à travers votre aura.</p>\n<p><strong>Conditions</strong> Vous disposez d'au moins une aura issue d'un don ou d'une capacité de champion.</p>\n<hr />\n<p>La barrière spatiale de l'île de Syndara vous a enseigné que la distance peut déjouer les attaques ennemies mieux que n'importe quelle armure. Vous déformez l'espace, faisant en sorte que chaque case de votre aura que l'attaque ou la créature traverserait compte pour le triple de la distance. Si cette réaction est utilisée sur une attaque à distance, l'attaque subit les pénalités liées à la portée basées sur la portée ainsi ajustée et échoue si cela l'amène à dépasser sa portée maximale.</p>"
         },
         {
             "id": "Perfect Dive",
@@ -21082,6 +21527,11 @@
                     "value": "Posture du Ciel et du Paradis"
                 }
             ]
+        },
+        {
+            "id": "Conrasu Weapon Expertise",
+            "name": "Expertise avec les armes des conrasus (Conrasu Weapon Expertise)",
+            "description": "<p>Lorsque vous obtenez une capacité de classe qui accorde la maîtrise experte ou supérieure avec certaines armes, vous obtenez la même maîtrise avec l'@Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]{arc court}, l'@Compendium[pf2e.equipment-srd.e4NwsnPnpQKbDZ9F]{arc court composite}, la @Compendium[pf2e.equipment-srd.vlnzTSsRmWeSkt9O]{coutille}, l'@Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{épée longue}, la @Compendium[pf2e.equipment-srd.tOhoGvmCMw4JpWcS]{lance} et la @Compendium[pf2e.equipment-srd.aXuJh4i8HqSu6NYV]{pique} ou toute arme conrasu (le @Compendium[pf2e.equipment-srd.7WRzbBTOCsJx5f7L]{Buugeng}) dans laquelle vous êtes qualifié.</p>"
         },
         {
             "id": "Tense Negotiator",
@@ -21893,6 +22343,16 @@
             ]
         },
         {
+            "id": "Assurance (Religion)",
+            "name": "Assurance (Religion) (Assurance (Religion))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test de Religion pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Religion"
+                }
+            ]
+        },
+        {
             "id": "Quiet Allies",
             "name": "Alliés silencieux (Quiet Allies)",
             "description": "<p>Vous êtes habile à vous déplacer avec un groupe. Quand vous Échappez aux regards et que vos alliés Suivent l’expert, vous et ces alliés pouvez effectuer un test de Discrétion unique, en utilisant le modificateur le plus bas, au lieu d’effectuer vos tests séparément. Cela ne s’applique pas aux jets d’initiative.</p>",
@@ -22363,6 +22823,11 @@
             "description": "<p>Quand vous utilisez des objets magiques, maniez de la magie innée ou lorsque vous vous essayez à l’incantation, vous pouvez glisser vos sorts à travers la défense de vos ennemis aussi facilement qu’une lame.</p>\n<p>Quand vous réussissez un jet d’attaque de sort contre la CA d’un adversaire Pris au dépourvu et que ce sort lui inflige des dégâts, vous pouvez ajouter vos dégâts d’attaque sournoise au jet de dégâts. Si votre sort est à l’origine de plusieurs jets de dégâts séparés, vous n’ajoutez vos dégâts d’attaque sournoise qu’une seule fois par cible.</p>"
         },
         {
+            "id": "Secret Eyes",
+            "name": "Yeux secrets (Secret Eyes)",
+            "description": "<p>Vous pouvez invoquer un œil invisible pour vous permettre d'épier les secrets. Une fois par jour, vous pouvez lancer @Compendium[pf2e.spells-srd.Ek5XI0aEdZhBgm21]{Œil indiscret} comme un sort occulte inné.</p>"
+        },
+        {
             "id": "Diamond Soul",
             "name": "Âme de diamant (Diamond Soul)",
             "description": "<p>Vous avez fortifié votre corps et votre esprit pour qu’ils résistent aux effets surnaturels. Vous bénéficiez d’un bonus de statut de +1 aux jets de sauvegarde contre la magie.</p>"
@@ -22400,6 +22865,16 @@
             "prereq": [
                 {
                     "value": "qualifié en Arcanes, Nature, Occultisme ou Religion"
+                }
+            ]
+        },
+        {
+            "id": "Assurance (Survival)",
+            "name": "Assurance (Survie) (Assurance (Survival))",
+            "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test de Survie pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Survie"
                 }
             ]
         },
@@ -22609,7 +23084,7 @@
         {
             "id": "Aquatic Camouflage",
             "name": "Camouflage aquatique (Aquatic Camouflage)",
-            "description": "<p>Vous vous fondez dans les vagues.</p>\n<p>Lorsque vous êtes immergé dans l'eau, tant qu'un observateur est à au moins 6 m de vous, vous n'avez pas besoin d'abri vis-à-vis de cet observateur pour vous Cacher ou Être furtif.</p>"
+            "description": "<p>Vous vous fondez dans les vagues.</p>\n<p>Lorsque vous êtes immergé dans l'eau, tant qu'un observateur est à au moins 6 m de vous, vous n'avez pas besoin d'abri vis-à-vis de cet observateur pour vous @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Cacher} ou @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}.</p>"
         },
         {
             "id": "Sneaky",
