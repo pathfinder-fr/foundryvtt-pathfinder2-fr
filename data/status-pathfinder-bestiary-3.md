@@ -1,25 +1,18 @@
 # État de la traduction (pathfinder-bestiary-3)
 
- * **libre**: 181
+ * **libre**: 189
  * **vide**: 11
  * **changé**: 14
- * **aucune**: 134
+ * **aucune**: 126
 
 
-Dernière mise à jour: 2021-07-17 16:00 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-18 20:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[HhuHFmaq69ekSgEl.htm](pathfinder-bestiary-3/HhuHFmaq69ekSgEl.htm)|Shantak|
-|[hNW3X8MbQQ9pUMiR.htm](pathfinder-bestiary-3/hNW3X8MbQQ9pUMiR.htm)|Buso Farmer|
-|[HObVT8aJnsx5nnqu.htm](pathfinder-bestiary-3/HObVT8aJnsx5nnqu.htm)|Tikbalang|
-|[hOgYpdscvGo4MHHo.htm](pathfinder-bestiary-3/hOgYpdscvGo4MHHo.htm)|Krampus|
-|[HPVVewX9vqKH94xf.htm](pathfinder-bestiary-3/HPVVewX9vqKH94xf.htm)|Tooth Fairy|
-|[i3Ui3hHIBZnHl0Le.htm](pathfinder-bestiary-3/i3Ui3hHIBZnHl0Le.htm)|Globster|
-|[iD32uhsjUGLvC2q6.htm](pathfinder-bestiary-3/iD32uhsjUGLvC2q6.htm)|Bone Ship|
 |[IijUBFE1vhvgowhD.htm](pathfinder-bestiary-3/IijUBFE1vhvgowhD.htm)|Giant Porcupine|
 |[iNgKGHzMOAHjWQeI.htm](pathfinder-bestiary-3/iNgKGHzMOAHjWQeI.htm)|Android Infiltrator|
 |[Ir3N6RHfg6vXYkmN.htm](pathfinder-bestiary-3/Ir3N6RHfg6vXYkmN.htm)|Rosethorn Ram|
@@ -55,7 +48,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nr4E59Xu10nWYsyO.htm](pathfinder-bestiary-3/nr4E59Xu10nWYsyO.htm)|Giant Skunk|
 |[nr8EXKLSejspbb3d.htm](pathfinder-bestiary-3/nr8EXKLSejspbb3d.htm)|Red Fox|
 |[NSD8H0xzbSWOgt7x.htm](pathfinder-bestiary-3/NSD8H0xzbSWOgt7x.htm)|Stone Lion Cub|
-|[NUWL7LHDqmP0c7OB.htm](pathfinder-bestiary-3/NUWL7LHDqmP0c7OB.htm)|Tooth Fairy Swarm|
 |[o740a5FFLG834FkV.htm](pathfinder-bestiary-3/o740a5FFLG834FkV.htm)|Desert Giant|
 |[O8iynsWnjObQ8TJl.htm](pathfinder-bestiary-3/O8iynsWnjObQ8TJl.htm)|Soul Skelm|
 |[oE52gEbyrF4Dl3Go.htm](pathfinder-bestiary-3/oE52gEbyrF4Dl3Go.htm)|Yithian|
@@ -304,8 +296,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[H8PaAZanEOT85KjD.htm](pathfinder-bestiary-3/H8PaAZanEOT85KjD.htm)|Vine Leshy|Léchi liane|libre|
 |[HEgGta4uVmwdkw3E.htm](pathfinder-bestiary-3/HEgGta4uVmwdkw3E.htm)|Nikaramsa|Nikaramsa (Asura)|libre|
 |[hh7OuFB5BQIrfeRT.htm](pathfinder-bestiary-3/hh7OuFB5BQIrfeRT.htm)|Kasa-obake|Kasa-obaké (Tsukumogami)|libre|
+|[HhuHFmaq69ekSgEl.htm](pathfinder-bestiary-3/HhuHFmaq69ekSgEl.htm)|Shantak|Shantak|libre|
 |[HiazGJoPkJ3gQVAO.htm](pathfinder-bestiary-3/HiazGJoPkJ3gQVAO.htm)|Grioth Cultist|Cultiste Grioth|libre|
 |[hiDSC6gqneQTB106.htm](pathfinder-bestiary-3/hiDSC6gqneQTB106.htm)|Fuath|Fuath (Gremlin)|libre|
+|[hNW3X8MbQQ9pUMiR.htm](pathfinder-bestiary-3/hNW3X8MbQQ9pUMiR.htm)|Buso Farmer|Fermier buso|libre|
+|[HObVT8aJnsx5nnqu.htm](pathfinder-bestiary-3/HObVT8aJnsx5nnqu.htm)|Tikbalang|Tikbalang|libre|
+|[hOgYpdscvGo4MHHo.htm](pathfinder-bestiary-3/hOgYpdscvGo4MHHo.htm)|Krampus|Krampus|libre|
+|[HPVVewX9vqKH94xf.htm](pathfinder-bestiary-3/HPVVewX9vqKH94xf.htm)|Tooth Fairy|Fée des dents|libre|
+|[i3Ui3hHIBZnHl0Le.htm](pathfinder-bestiary-3/i3Ui3hHIBZnHl0Le.htm)|Globster|Globster|libre|
+|[iD32uhsjUGLvC2q6.htm](pathfinder-bestiary-3/iD32uhsjUGLvC2q6.htm)|Bone Ship|Vaisseau squelettique|libre|
 |[iiXjQ1SchGiotpVp.htm](pathfinder-bestiary-3/iiXjQ1SchGiotpVp.htm)|Skeleton Infantry|Squelette d'infanterie|libre|
 |[ilGMPBvjT9ovIiXB.htm](pathfinder-bestiary-3/ilGMPBvjT9ovIiXB.htm)|Gurgist Mauler|Cogneur Gargouillier (Mortique)|libre|
 |[iLoVkzve6Nu3gErr.htm](pathfinder-bestiary-3/iLoVkzve6Nu3gErr.htm)|Herexen|Hérexen|libre|
@@ -328,6 +327,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[mRsiT9EtpbOQ7AeX.htm](pathfinder-bestiary-3/mRsiT9EtpbOQ7AeX.htm)|Draconal|Draconal (Agathion dragon)|libre|
 |[NhHGDx6ChbrhAmbO.htm](pathfinder-bestiary-3/NhHGDx6ChbrhAmbO.htm)|Domovoi|Domovoï (Esprit de la maison)|libre|
 |[nnI7oj1BcetLUTYo.htm](pathfinder-bestiary-3/nnI7oj1BcetLUTYo.htm)|Etioling Blightmage|Fléau-Mage Étiolier (Mortique)|libre|
+|[NUWL7LHDqmP0c7OB.htm](pathfinder-bestiary-3/NUWL7LHDqmP0c7OB.htm)|Tooth Fairy Swarm|Nuée de fées des dents|libre|
 |[nzF46X8zcUG0CvpV.htm](pathfinder-bestiary-3/nzF46X8zcUG0CvpV.htm)|Pakalchi|Pakalchi (Sahkil)|libre|
 |[O9TQjp3scKfW8SZK.htm](pathfinder-bestiary-3/O9TQjp3scKfW8SZK.htm)|Shulsaga|Shulsaga (Énnosite)|libre|
 |[oIM21UCyiabwwHfo.htm](pathfinder-bestiary-3/oIM21UCyiabwwHfo.htm)|Elder Sphinx|Sphinx aîné|libre|
