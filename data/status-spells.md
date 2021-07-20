@@ -1,25 +1,18 @@
 # État de la traduction (spells)
 
- * **libre**: 73
- * **changé**: 662
+ * **libre**: 78
+ * **changé**: 664
  * **officielle**: 150
- * **aucune**: 9
+ * **aucune**: 2
 
 
-Dernière mise à jour: 2021-07-18 20:22 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-20 17:25 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[abjuration-09-AlCFTjSBaCHuRHBv.htm](spells/abjuration-09-AlCFTjSBaCHuRHBv.htm)|Prismatic Shield|
-|[conjuration-05-ru3YdXajUREbKQDV.htm](spells/conjuration-05-ru3YdXajUREbKQDV.htm)|Return Beacon|
-|[enchantment-09-T5Mt4jXFuh14uREv.htm](spells/enchantment-09-T5Mt4jXFuh14uREv.htm)|Divinity Leech|
-|[evocation-03-Q1OWufw6dUiY8yEI.htm](spells/evocation-03-Q1OWufw6dUiY8yEI.htm)|Shroud of Flame|
-|[illusion-06-VUMtDHr8CRwwr3Mj.htm](spells/illusion-06-VUMtDHr8CRwwr3Mj.htm)|Aura of the Unremarkable|
-|[necromancy-01-lZx8jZfKrMEtyGY0.htm](spells/necromancy-01-lZx8jZfKrMEtyGY0.htm)|Rejuvinating Flames|
-|[necromancy-04-hdzyDrRdHSse88XM.htm](spells/necromancy-04-hdzyDrRdHSse88XM.htm)|Extract Brain|
 |[necromancy-04-RbORUmnwlB8b3mNf.htm](spells/necromancy-04-RbORUmnwlB8b3mNf.htm)|Internal Insurrection|
 |[necromancy-05-tf4PMMMzR5xxJDun.htm](spells/necromancy-05-tf4PMMMzR5xxJDun.htm)|Cleansing Flames|
 
@@ -366,6 +359,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-03-LrFUj76CHDBV0vHW.htm](spells/evocation-03-LrFUj76CHDBV0vHW.htm)|Sun's Fury|Furie du soleil|changé|
 |[evocation-03-N0h3UodJFKdNQw1Y.htm](spells/evocation-03-N0h3UodJFKdNQw1Y.htm)|Dragon Breath (Brass)|Souffle de dragon (Airain)|changé|
 |[evocation-03-oo7YcRC2gcez81PV.htm](spells/evocation-03-oo7YcRC2gcez81PV.htm)|Ki Blast|Explosion Ki|changé|
+|[evocation-03-Q1OWufw6dUiY8yEI.htm](spells/evocation-03-Q1OWufw6dUiY8yEI.htm)|Shroud of Flame|Voile de flammes|changé|
 |[evocation-03-sRfSBHWHdbIa0aGc.htm](spells/evocation-03-sRfSBHWHdbIa0aGc.htm)|Chilling Darkness|Ténèbres glaciales|changé|
 |[evocation-03-sxQZ6yqTn0czJxVd.htm](spells/evocation-03-sxQZ6yqTn0czJxVd.htm)|Fireball|Boule de feu|changé|
 |[evocation-03-T4QKmtYPeCgYxVGe.htm](spells/evocation-03-T4QKmtYPeCgYxVGe.htm)|Crashing Wave|Vague écrasante|changé|
@@ -477,6 +471,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[illusion-06-0XP2XOxT9VSiXFDr.htm](spells/illusion-06-0XP2XOxT9VSiXFDr.htm)|Phantasmal Calamity|Calamité imaginaire|changé|
 |[illusion-06-EOWh6VVcSjB3WPjX.htm](spells/illusion-06-EOWh6VVcSjB3WPjX.htm)|Shadow Illusion|Illusion de l'ombre|changé|
 |[illusion-06-RQjSQVZRG497cJhX.htm](spells/illusion-06-RQjSQVZRG497cJhX.htm)|Vibrant Pattern|Motif éclatant|changé|
+|[illusion-06-VUMtDHr8CRwwr3Mj.htm](spells/illusion-06-VUMtDHr8CRwwr3Mj.htm)|Aura of the Unremarkable|Aura quelconque|changé|
 |[illusion-07-0873MWM0qKDDv81O.htm](spells/illusion-07-0873MWM0qKDDv81O.htm)|Project Image|Projection d'image|changé|
 |[illusion-07-jBGAYmR0BkkbpJvG.htm](spells/illusion-07-jBGAYmR0BkkbpJvG.htm)|Visions of Danger|Dangereuses visions|changé|
 |[illusion-07-O6VQC1Bs4aSYDa6R.htm](spells/illusion-07-O6VQC1Bs4aSYDa6R.htm)|Mask of Terror|Masque terrifiant|changé|
@@ -732,6 +727,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-07-OOELvfkTedBMlWtq.htm](spells/abjuration-07-OOELvfkTedBMlWtq.htm)|Spell Turning|Renvoi de sorts|officielle|
 |[abjuration-07-WG91Z5TiR6oO5FOw.htm](spells/abjuration-07-WG91Z5TiR6oO5FOw.htm)|Contingency|Contingence|officielle|
 |[abjuration-08-My7FvAoLYgGDDBzy.htm](spells/abjuration-08-My7FvAoLYgGDDBzy.htm)|Antimagic Field|Champ d'antimagie|officielle|
+|[abjuration-09-AlCFTjSBaCHuRHBv.htm](spells/abjuration-09-AlCFTjSBaCHuRHBv.htm)|Prismatic Shield|Bouclier prismatique|libre|
 |[abjuration-09-BI4iwu3nApyIG0zY.htm](spells/abjuration-09-BI4iwu3nApyIG0zY.htm)|Astral Labyrinth|Labyrinthe astral|libre|
 |[abjuration-09-ihbRf964JDXztcy3.htm](spells/abjuration-09-ihbRf964JDXztcy3.htm)|Disjunction|Disjonction|officielle|
 |[abjuration-10-UG0SmRYSdbrx2rTA.htm](spells/abjuration-10-UG0SmRYSdbrx2rTA.htm)|Indestructibility|Invulnérabilité|libre|
@@ -768,6 +764,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-05-kghwmH3tQjMIhdH1.htm](spells/conjuration-05-kghwmH3tQjMIhdH1.htm)|Summon Dragon|Convocation de dragon|officielle|
 |[conjuration-05-lTDixrrNKaCvLKwX.htm](spells/conjuration-05-lTDixrrNKaCvLKwX.htm)|Summon Celestial|Convocation de céleste|officielle|
 |[conjuration-05-rtA3HRGoy7PQTOhq.htm](spells/conjuration-05-rtA3HRGoy7PQTOhq.htm)|Terrain Transposition|Transposition de terrain|libre|
+|[conjuration-05-ru3YdXajUREbKQDV.htm](spells/conjuration-05-ru3YdXajUREbKQDV.htm)|Return Beacon|Phare de retour|libre|
 |[conjuration-06-69L70wKfGDY66Mk9.htm](spells/conjuration-06-69L70wKfGDY66Mk9.htm)|Teleport|Téléportation|officielle|
 |[conjuration-06-JbAcSLu62TU1OgNF.htm](spells/conjuration-06-JbAcSLu62TU1OgNF.htm)|Tangling Creepers|Entraves végétales|officielle|
 |[conjuration-06-kwlKUxEuT8T15YW6.htm](spells/conjuration-06-kwlKUxEuT8T15YW6.htm)|Primal Summons|Convocations primordiales|officielle|
@@ -842,6 +839,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-04-kF0rs9mCPvJGfAZE.htm](spells/enchantment-04-kF0rs9mCPvJGfAZE.htm)|Inspire Heroics|Inspiration héroïque|officielle|
 |[enchantment-04-NOB92Wpn7jXvtyVW.htm](spells/enchantment-04-NOB92Wpn7jXvtyVW.htm)|Competitive Edge|Avantage du compétiteur|officielle|
 |[enchantment-06-GYD0XZ4t3tQq6shc.htm](spells/enchantment-06-GYD0XZ4t3tQq6shc.htm)|Zealous Conviction|Conviction zélée|officielle|
+|[enchantment-09-T5Mt4jXFuh14uREv.htm](spells/enchantment-09-T5Mt4jXFuh14uREv.htm)|Divinity Leech|Sangsue de la divinité|libre|
 |[evocation-01-1meVElIu1CEVYWkv.htm](spells/evocation-01-1meVElIu1CEVYWkv.htm)|Noxious Vapors|Vapeurs nocives|libre|
 |[evocation-01-IWUe32Y5k2QFd7YQ.htm](spells/evocation-01-IWUe32Y5k2QFd7YQ.htm)|Gravity Weapon|Arme pesante|libre|
 |[evocation-01-S6Kkk15MWGqzC00a.htm](spells/evocation-01-S6Kkk15MWGqzC00a.htm)|Draconic Barrage|Barrage draconique|libre|
@@ -869,6 +867,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[illusion-06-m34WOIGZCEg1h76G.htm](spells/illusion-06-m34WOIGZCEg1h76G.htm)|Blanket Of Stars|Couverture d'étoiles|libre|
 |[illusion-06-WPXzPl7YbMEIGWfi.htm](spells/illusion-06-WPXzPl7YbMEIGWfi.htm)|Mislead|Double illusoire|officielle|
 |[necromancy-01-HG4afO9EOGEU9bZN.htm](spells/necromancy-01-HG4afO9EOGEU9bZN.htm)|Death's Call|Appel de la mort|officielle|
+|[necromancy-01-lZx8jZfKrMEtyGY0.htm](spells/necromancy-01-lZx8jZfKrMEtyGY0.htm)|Rejuvinating Flames|Flammes rajeunissante|libre|
 |[necromancy-02-8ViwItUgwT4lOvvb.htm](spells/necromancy-02-8ViwItUgwT4lOvvb.htm)|False Life|Simulacre de vie|officielle|
 |[necromancy-02-dxOF7d5kAWusLKWF.htm](spells/necromancy-02-dxOF7d5kAWusLKWF.htm)|Reaper's Lantern|Lanterne de la Faucheuse|libre|
 |[necromancy-02-oNUyCqbpGWHifS02.htm](spells/necromancy-02-oNUyCqbpGWHifS02.htm)|Fungal Hyphae|Hyphe fongique|libre|
@@ -876,6 +875,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-02-X3dYByf3YmkcdwG0.htm](spells/necromancy-02-X3dYByf3YmkcdwG0.htm)|Slough Skin|Mues de peau|libre|
 |[necromancy-03-pSNLufPPsReKQtJR.htm](spells/necromancy-03-pSNLufPPsReKQtJR.htm)|Armor of Bones|Armure d'os|libre|
 |[necromancy-04-8XuNn0h0rHE24m3B.htm](spells/necromancy-04-8XuNn0h0rHE24m3B.htm)|Positive Luminance|Luminosité positive|officielle|
+|[necromancy-04-hdzyDrRdHSse88XM.htm](spells/necromancy-04-hdzyDrRdHSse88XM.htm)|Extract Brain|Extraction du cerveau|libre|
 |[necromancy-04-ikSb3LRGnrwXJBVX.htm](spells/necromancy-04-ikSb3LRGnrwXJBVX.htm)|Vital Beacon|Fanal de vie|officielle|
 |[necromancy-04-zvvHOQV78WKUB33l.htm](spells/necromancy-04-zvvHOQV78WKUB33l.htm)|Life Siphon|Siphon de vie|officielle|
 |[necromancy-05-rnFAHvKpcsU4BJD4.htm](spells/necromancy-05-rnFAHvKpcsU4BJD4.htm)|Shall not Falter, Shall not Rout|Tu ne faibliras pas, tu ne prendras pas la fuite|libre|
