@@ -1,13 +1,27 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 198
+ * **officielle**: 199
  * **changé**: 69
- * **libre**: 112
+ * **libre**: 111
+ * **aucune**: 8
 
 
-Dernière mise à jour: 2021-07-20 17:25 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-24 17:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[oracle-02-3OKTrm5rJdxFn4dR.htm](classfeatures/oracle-02-3OKTrm5rJdxFn4dR.htm)|Cosmos Mystery (Multiclass)|
+|[oracle-02-fdVLlFI1SyD7QGtu.htm](classfeatures/oracle-02-fdVLlFI1SyD7QGtu.htm)|Flames Mystery (Multiclass)|
+|[oracle-02-fEwVQUXUgUqTk4sE.htm](classfeatures/oracle-02-fEwVQUXUgUqTk4sE.htm)|Tempest Mystery (Multiclass)|
+|[oracle-02-HknLjb34RvXGrgeJ.htm](classfeatures/oracle-02-HknLjb34RvXGrgeJ.htm)|Battle Mystery (Multiclass)|
+|[oracle-02-MAPeYoCQhxz4fxcL.htm](classfeatures/oracle-02-MAPeYoCQhxz4fxcL.htm)|Ancestors Mystery (Multiclass)|
+|[oracle-02-N2CYUVBELOaZ7lj2.htm](classfeatures/oracle-02-N2CYUVBELOaZ7lj2.htm)|Lore Mystery (Multiclass)|
+|[oracle-02-T1061bjnCQWSfWJX.htm](classfeatures/oracle-02-T1061bjnCQWSfWJX.htm)|Life Mystery (Multiclass)|
+|[oracle-02-t6TbN6lCCfHPS3Z1.htm](classfeatures/oracle-02-t6TbN6lCCfHPS3Z1.htm)|Bones Mystery (Multiclass)|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -39,7 +53,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-17-CGetAmSbv06fW7GT.htm](classfeatures/alchemist-17-CGetAmSbv06fW7GT.htm)|Perpetual Perfection (Mutagenist)|Perfection perpétuelle (Mutagèniste)|changé|
 |[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|Perfection perpétuelle (Artificier)|changé|
 |[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|Perfection perpétuelle (Chirurgien)|changé|
-|[barbarian-01-JuKD6k7nDwfO0Ckv.htm](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Giant Instinct|Instinct de géant|changé|
 |[bard-01-s0VbbQJNlSgPocui.htm](classfeatures/bard-01-s0VbbQJNlSgPocui.htm)|Composition Spells|Sorts de composition|changé|
 |[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|changé|
 |[cleric-01-AvNbdGSOTWNRgcxs.htm](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Divine Spellcasting (Cleric)|Incantation divine (Prêtre)|changé|
@@ -68,6 +81,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-2goYo6VNbwC6aKF1.htm](classfeatures/sorcerer-01-2goYo6VNbwC6aKF1.htm)|Bloodline|Lignages|changé|
 |[sorcerer-01-dKTb959aCQIzSIXj.htm](classfeatures/sorcerer-01-dKTb959aCQIzSIXj.htm)|Bloodline: Wyrmblessed|Lignage : béni du Ver|changé|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|Incantation de l'ensorceleur|changé|
+|[sorcerer-01-TWR1wbPJuCLnGdFZ.htm](classfeatures/sorcerer-01-TWR1wbPJuCLnGdFZ.htm)|Bloodline: Phoenix|Lignage : Phénix|changé|
 |[swashbuckler-01-4lGhbEjlEoGP4scl.htm](classfeatures/swashbuckler-01-4lGhbEjlEoGP4scl.htm)|Wit Style|Style : Esprit|changé|
 |[swashbuckler-01-LzYi0OuOoypNb6jd.htm](classfeatures/swashbuckler-01-LzYi0OuOoypNb6jd.htm)|Panache|Panache|changé|
 |[swashbuckler-01-RQH6vigvhmiYKKjg.htm](classfeatures/swashbuckler-01-RQH6vigvhmiYKKjg.htm)|Precise Strike|Frappe précise|changé|
@@ -113,6 +127,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-01-dU7xRpg4kFd01hwZ.htm](classfeatures/barbarian-01-dU7xRpg4kFd01hwZ.htm)|Instinct|Instinct|officielle|
 |[barbarian-01-hyHgLQCDMSrR4RfE.htm](classfeatures/barbarian-01-hyHgLQCDMSrR4RfE.htm)|Red Dragon Instinct|Instinct du dragon - Rouge|officielle|
 |[barbarian-01-IezPDYlweTtwCqkT.htm](classfeatures/barbarian-01-IezPDYlweTtwCqkT.htm)|Green Dragon Instinct|Instinct du dragon - Vert|libre|
+|[barbarian-01-JuKD6k7nDwfO0Ckv.htm](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Giant Instinct|Instinct de géant|officielle|
 |[barbarian-01-k7M9jedvt31AJ5ZR.htm](classfeatures/barbarian-01-k7M9jedvt31AJ5ZR.htm)|Fury Instinct|Instinct de la furie|officielle|
 |[barbarian-01-kdzIxHpzeRbdRqQA.htm](classfeatures/barbarian-01-kdzIxHpzeRbdRqQA.htm)|Bronze Dragon Instinct|Instinct du dragon - Bronze|officielle|
 |[barbarian-01-OJmI1L4dhQfz8vze.htm](classfeatures/barbarian-01-OJmI1L4dhQfz8vze.htm)|Shark Animal Instinct|Instinct animal - Requin|libre|
@@ -326,7 +341,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-o39zQMIdERWtmBSB.htm](classfeatures/sorcerer-01-o39zQMIdERWtmBSB.htm)|Bloodline: Diabolic|Lignage : Diabolique|officielle|
 |[sorcerer-01-PpzH9tJULk5ksX9w.htm](classfeatures/sorcerer-01-PpzH9tJULk5ksX9w.htm)|Bloodline: Psychopomp|Lignage : Psychopompe|libre|
 |[sorcerer-01-RXRnJcG4XSabZ35a.htm](classfeatures/sorcerer-01-RXRnJcG4XSabZ35a.htm)|Bloodline: Elemental|Lignage : Élémentaire|officielle|
-|[sorcerer-01-TWR1wbPJuCLnGdFZ.htm](classfeatures/sorcerer-01-TWR1wbPJuCLnGdFZ.htm)|Bloodline: Phoenix|Lignage : Phénix|libre|
 |[sorcerer-01-tYOMBiH3HbViNWwn.htm](classfeatures/sorcerer-01-tYOMBiH3HbViNWwn.htm)|Bloodline: Genie|Lignage : Génie|libre|
 |[sorcerer-01-uoQOm41BVdSo6pAS.htm](classfeatures/sorcerer-01-uoQOm41BVdSo6pAS.htm)|Bloodline: Shadow|Lignage : Ombre|libre|
 |[sorcerer-01-vhW3glAaEfq2DKrw.htm](classfeatures/sorcerer-01-vhW3glAaEfq2DKrw.htm)|Bloodline: Angelic|Lignage : Angélique|officielle|

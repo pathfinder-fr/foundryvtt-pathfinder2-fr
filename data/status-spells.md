@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **libre**: 78
- * **changé**: 664
- * **officielle**: 150
+ * **libre**: 76
+ * **changé**: 668
+ * **officielle**: 148
  * **aucune**: 2
 
 
-Dernière mise à jour: 2021-07-20 17:25 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-24 17:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -132,6 +132,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-01-gpzpAAAJ1Lza2JVl.htm](spells/divination-01-gpzpAAAJ1Lza2JVl.htm)|Detect Magic|Détection de la magie|changé|
 |[divination-01-HOj2YsTpkoMpYJH9.htm](spells/divination-01-HOj2YsTpkoMpYJH9.htm)|Practice Makes Perfect|En forgeant on devient forgeron|changé|
 |[divination-01-izcxFQFwf3woCnFs.htm](spells/divination-01-izcxFQFwf3woCnFs.htm)|Guidance|Assistance divine|changé|
+|[divination-01-oFwmdb6LlRrh9AUT.htm](spells/divination-01-oFwmdb6LlRrh9AUT.htm)|Diviner's Sight|Vision du devin|changé|
 |[divination-01-OhD2Z6rIGGD5ocZA.htm](spells/divination-01-OhD2Z6rIGGD5ocZA.htm)|Read Aura|Lecture de l'aura|changé|
 |[divination-01-QnTtGCAvdWRU4spv.htm](spells/divination-01-QnTtGCAvdWRU4spv.htm)|Detect Alignment|Détection de l’alignement|changé|
 |[divination-01-QqxwHeYEVylkYjsO.htm](spells/divination-01-QqxwHeYEVylkYjsO.htm)|Detect Poison|Détection du poison|changé|
@@ -383,6 +384,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-04-Y3G6Y6EDgCY0s3fq.htm](spells/evocation-04-Y3G6Y6EDgCY0s3fq.htm)|Hydraulic Torrent|Torrent|changé|
 |[evocation-05-2mVW1KT3AjW2pvDO.htm](spells/evocation-05-2mVW1KT3AjW2pvDO.htm)|Litany against Sloth|Litanie contre la paresse|changé|
 |[evocation-05-3puDanGfpEt6jK5k.htm](spells/evocation-05-3puDanGfpEt6jK5k.htm)|Cone of Cold|Cône de froid|changé|
+|[evocation-05-8TBgEzjZxPaOJOm1.htm](spells/evocation-05-8TBgEzjZxPaOJOm1.htm)|Wronged Monk's Wrath|Courroux du moine lésé|changé|
 |[evocation-05-9LHr9SuDLTicdbXs.htm](spells/evocation-05-9LHr9SuDLTicdbXs.htm)|Hellfire Plume|Volute de feu infernal|changé|
 |[evocation-05-crF4g9jRN1y84MSD.htm](spells/evocation-05-crF4g9jRN1y84MSD.htm)|Abyssal Wrath|Colère abyssale|changé|
 |[evocation-05-E3X2RbzWHCdz7gsk.htm](spells/evocation-05-E3X2RbzWHCdz7gsk.htm)|Flame Strike|Colonne de feu|changé|
@@ -502,6 +504,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-01-kcelf6IHl3L9VXXg.htm](spells/necromancy-01-kcelf6IHl3L9VXXg.htm)|Disrupt Undead|Destruction de mort-vivant|changé|
 |[necromancy-01-KIV2LqzS5KtqOItV.htm](spells/necromancy-01-KIV2LqzS5KtqOItV.htm)|Heal Companion|Guérison de compagnon|changé|
 |[necromancy-01-kvm68hVtmADiIvN4.htm](spells/necromancy-01-kvm68hVtmADiIvN4.htm)|Jealous Hex|Maléfice de jalousie|changé|
+|[necromancy-01-lZx8jZfKrMEtyGY0.htm](spells/necromancy-01-lZx8jZfKrMEtyGY0.htm)|Rejuvenating Flames|Flammes rajeunissante|changé|
 |[necromancy-01-mAMEt4FFbdqoRnkN.htm](spells/necromancy-01-mAMEt4FFbdqoRnkN.htm)|Chill Touch|Contact glacial|changé|
 |[necromancy-01-NkeLctXo9FLGnDhi.htm](spells/necromancy-01-NkeLctXo9FLGnDhi.htm)|Divine Plagues|Plaies divines|changé|
 |[necromancy-01-qXTB7Ec9yYh5JPPV.htm](spells/necromancy-01-qXTB7Ec9yYh5JPPV.htm)|Purify Food and Drink|Purifier la nourriture et la boisson|changé|
@@ -612,6 +615,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-10-IGXGs9PlqUCvODcH.htm](spells/necromancy-10-IGXGs9PlqUCvODcH.htm)|Song of the Fallen|Chanson des morts au combat|changé|
 |[transmutation-01-1lmzILdCFENln8Cy.htm](spells/transmutation-01-1lmzILdCFENln8Cy.htm)|Physical Boost|Amélioration physique|changé|
 |[transmutation-01-8RWfKConLYFZpQ9X.htm](spells/transmutation-01-8RWfKConLYFZpQ9X.htm)|Wild Shape|Morphologie sauvage|changé|
+|[transmutation-01-aEM2cttJ2eYcLssW.htm](spells/transmutation-01-aEM2cttJ2eYcLssW.htm)|Fleet Step|Pas rapide|changé|
 |[transmutation-01-AUctDF2fqPZN2w4W.htm](spells/transmutation-01-AUctDF2fqPZN2w4W.htm)|Sigil|Symbole|changé|
 |[transmutation-01-dINQzhqGmIsqGMUY.htm](spells/transmutation-01-dINQzhqGmIsqGMUY.htm)|Mending|Réparation|changé|
 |[transmutation-01-EE7Q5BHIrfWNCPtT.htm](spells/transmutation-01-EE7Q5BHIrfWNCPtT.htm)|Magic Fang|Morsure magique|changé|
@@ -785,7 +789,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-01-dXIRotMLsABDQQSB.htm](spells/divination-01-dXIRotMLsABDQQSB.htm)|Scholarly Recollection|Souvenirs érudits|officielle|
 |[divination-01-Gb7SeieEvd0pL2Eh.htm](spells/divination-01-Gb7SeieEvd0pL2Eh.htm)|True Strike|Coup au but|officielle|
 |[divination-01-nXmC2Xx9WmS5NsAo.htm](spells/divination-01-nXmC2Xx9WmS5NsAo.htm)|Share Lore|Connaissance partagée|libre|
-|[divination-01-oFwmdb6LlRrh9AUT.htm](spells/divination-01-oFwmdb6LlRrh9AUT.htm)|Diviner's Sight|Vision du devin|officielle|
 |[divination-01-RztmhJrLLQWoGVdB.htm](spells/divination-01-RztmhJrLLQWoGVdB.htm)|Object Memory|Mémoire de l'objet|libre|
 |[divination-01-tXa5vOu5giBNCjdR.htm](spells/divination-01-tXa5vOu5giBNCjdR.htm)|Know Direction|Repérage|officielle|
 |[divination-02-3ehSrqTAm7IPqbIZ.htm](spells/divination-02-3ehSrqTAm7IPqbIZ.htm)|Spirit Sense|Perception des esprits|libre|
@@ -852,7 +855,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-04-uJXs4M6IeixfPBLc.htm](spells/evocation-04-uJXs4M6IeixfPBLc.htm)|Clinging Shadows Stance|Posture des ombres tenaces|libre|
 |[evocation-04-VUwpDY4Z91s9QCg0.htm](spells/evocation-04-VUwpDY4Z91s9QCg0.htm)|Bottle the Storm|Tempête en bouteille|libre|
 |[evocation-04-YrzBLPLd3r9m6t1p.htm](spells/evocation-04-YrzBLPLd3r9m6t1p.htm)|Fire Shield|Bouclier de feu|officielle|
-|[evocation-05-8TBgEzjZxPaOJOm1.htm](spells/evocation-05-8TBgEzjZxPaOJOm1.htm)|Wronged Monk's Wrath|Courroux du moine lésé|libre|
 |[evocation-05-9BGEf9Sv5rgNBCk0.htm](spells/evocation-05-9BGEf9Sv5rgNBCk0.htm)|Dance of Darkness|Danse de ténèbre|libre|
 |[evocation-06-bynT1UKaDqr8dLNM.htm](spells/evocation-06-bynT1UKaDqr8dLNM.htm)|Flaming Fusillade|Fusillade enflammée|libre|
 |[evocation-06-kuoYff1csM5eAcAP.htm](spells/evocation-06-kuoYff1csM5eAcAP.htm)|Fire Seeds|Germe de feu|officielle|
@@ -867,7 +869,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[illusion-06-m34WOIGZCEg1h76G.htm](spells/illusion-06-m34WOIGZCEg1h76G.htm)|Blanket Of Stars|Couverture d'étoiles|libre|
 |[illusion-06-WPXzPl7YbMEIGWfi.htm](spells/illusion-06-WPXzPl7YbMEIGWfi.htm)|Mislead|Double illusoire|officielle|
 |[necromancy-01-HG4afO9EOGEU9bZN.htm](spells/necromancy-01-HG4afO9EOGEU9bZN.htm)|Death's Call|Appel de la mort|officielle|
-|[necromancy-01-lZx8jZfKrMEtyGY0.htm](spells/necromancy-01-lZx8jZfKrMEtyGY0.htm)|Rejuvinating Flames|Flammes rajeunissante|libre|
 |[necromancy-02-8ViwItUgwT4lOvvb.htm](spells/necromancy-02-8ViwItUgwT4lOvvb.htm)|False Life|Simulacre de vie|officielle|
 |[necromancy-02-dxOF7d5kAWusLKWF.htm](spells/necromancy-02-dxOF7d5kAWusLKWF.htm)|Reaper's Lantern|Lanterne de la Faucheuse|libre|
 |[necromancy-02-oNUyCqbpGWHifS02.htm](spells/necromancy-02-oNUyCqbpGWHifS02.htm)|Fungal Hyphae|Hyphe fongique|libre|
@@ -883,7 +884,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-08-Ovvflf5aFbmBxqq8.htm](spells/necromancy-08-Ovvflf5aFbmBxqq8.htm)|Quivering Palm|Paume vibratoire|officielle|
 |[necromancy-10-uGXWkR2h8q9MRzEM.htm](spells/necromancy-10-uGXWkR2h8q9MRzEM.htm)|Hero's Defiance|Défi du héros|officielle|
 |[transmutation-01-0xR9vrt6uDFl0Umo.htm](spells/transmutation-01-0xR9vrt6uDFl0Umo.htm)|Wild Morph|Métamorphose sauvage|officielle|
-|[transmutation-01-aEM2cttJ2eYcLssW.htm](spells/transmutation-01-aEM2cttJ2eYcLssW.htm)|Fleet Step|Pas rapide|officielle|
 |[transmutation-01-cOjlzWerBwbPWVkX.htm](spells/transmutation-01-cOjlzWerBwbPWVkX.htm)|Agile Feet|Pieds Agiles|officielle|
 |[transmutation-01-gfPjmG6Fe6D3MFjl.htm](spells/transmutation-01-gfPjmG6Fe6D3MFjl.htm)|Pest Form|Forme de nuisible|officielle|
 |[transmutation-01-GUnw9YXaW3YyaCAU.htm](spells/transmutation-01-GUnw9YXaW3YyaCAU.htm)|Adapt Self|Adaptation de soi|officielle|

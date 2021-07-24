@@ -1,11 +1,12 @@
 # État de la traduction (hazards)
 
  * **auto-trad**: 4
- * **officielle**: 30
+ * **officielle**: 29
  * **libre**: 16
+ * **changé**: 1
 
 
-Dernière mise à jour: 2021-07-20 17:25 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-24 17:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -16,6 +17,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[1egK7HFAFdHxMS9N.htm](hazards/1egK7HFAFdHxMS9N.htm)|Sportlebore|auto-trad|
 |[Or0jjL8xS3GyiMq0.htm](hazards/Or0jjL8xS3GyiMq0.htm)|Web Lurker Noose|auto-trad|
 |[wHUIZ5QhG37cRzSV.htm](hazards/wHUIZ5QhG37cRzSV.htm)|Gravehall Trap|auto-trad|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[BHq5wpQU8hQEke8D.htm](hazards/BHq5wpQU8hQEke8D.htm)|Hidden Pit|Fosse dissimulée|changé|
 
 ## Liste des traductions complétés
 
@@ -32,7 +39,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[98rS64gLzy1ReXoR.htm](hazards/98rS64gLzy1ReXoR.htm)|Hampering Web|Toile ralentissante|libre|
 |[A93flWUsot3FmC7t.htm](hazards/A93flWUsot3FmC7t.htm)|Yellow Mold|Moisissure jaune|officielle|
 |[AM3YY2Zfe2ChJHd7.htm](hazards/AM3YY2Zfe2ChJHd7.htm)|Telekinetic Swarm Trap|Piège de nuée télékinésique|officielle|
-|[BHq5wpQU8hQEke8D.htm](hazards/BHq5wpQU8hQEke8D.htm)|Hidden Pit|Fosse dissimulée|officielle|
 |[BsZ6o2YrwVovKfNh.htm](hazards/BsZ6o2YrwVovKfNh.htm)|Armageddon Orb|Orbe de l'armageddon|officielle|
 |[C6nFe8SCWJ8FmLOT.htm](hazards/C6nFe8SCWJ8FmLOT.htm)|Quicksand|Sables mouvants|officielle|
 |[d3YklujLpBFC5HfB.htm](hazards/d3YklujLpBFC5HfB.htm)|Ghostly Choir|Chœur fantômatique|libre|

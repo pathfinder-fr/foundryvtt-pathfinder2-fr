@@ -1,12 +1,12 @@
 # État de la traduction (spell-effects)
 
  * **libre**: 144
- * **aucune**: 37
+ * **aucune**: 38
  * **officielle**: 11
  * **changé**: 1
 
 
-Dernière mise à jour: 2021-07-20 17:25 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-24 17:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -28,6 +28,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-Pfllo68qdQjC4Qv6.htm](spell-effects/01-Pfllo68qdQjC4Qv6.htm)|Spell Effect: Prismatic Shield|
 |[01-pUYL0ILL3r8VBFm0.htm](spell-effects/01-pUYL0ILL3r8VBFm0.htm)|Spell Effect: Dragon Claw (Cold)|
 |[01-QrULQZsSRGSa6qOt.htm](spell-effects/01-QrULQZsSRGSa6qOt.htm)|Spell Effect: Dragon Claw (Fire)|
+|[01-ThFug45WHkQQXcoF.htm](spell-effects/01-ThFug45WHkQQXcoF.htm)|Spell Effect: Fleet Step|
 |[01-TpVkVALUBrBQjULn.htm](spell-effects/01-TpVkVALUBrBQjULn.htm)|Spell Effect: Stoke the Heart|
 |[01-UtIOWubq7akdHMOh.htm](spell-effects/01-UtIOWubq7akdHMOh.htm)|Spell Effect: Augment Summoning|
 |[01-XT3AyRfx4xeXfAjP.htm](spell-effects/01-XT3AyRfx4xeXfAjP.htm)|Spell Effect: Physical Boost|

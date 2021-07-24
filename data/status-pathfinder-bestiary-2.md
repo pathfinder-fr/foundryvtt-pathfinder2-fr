@@ -1,35 +1,39 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 345
- * **changé**: 6
- * **vide**: 7
+ * **libre**: 340
+ * **changé**: 18
 
 
-Dernière mise à jour: 2021-07-20 17:25 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-24 17:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[hIWzgjW2E2K6ImPA.htm](pathfinder-bestiary-2/hIWzgjW2E2K6ImPA.htm)|Bog Mummy|
+|[hmnNDCNV425MisdA.htm](pathfinder-bestiary-2/hmnNDCNV425MisdA.htm)|Eremite|
+|[jCF9HjF42SPXTptP.htm](pathfinder-bestiary-2/jCF9HjF42SPXTptP.htm)|Marrmora|
+|[OaNtHZAraCrVLuSo.htm](pathfinder-bestiary-2/OaNtHZAraCrVLuSo.htm)|Mohrg|
+|[vg3nE7p855SXkXbz.htm](pathfinder-bestiary-2/vg3nE7p855SXkXbz.htm)|Bebilith|
+|[xfcFXLbadD3KdlHW.htm](pathfinder-bestiary-2/xfcFXLbadD3KdlHW.htm)|Lerritan|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[3DSqfobadad3pA6O.htm](pathfinder-bestiary-2/3DSqfobadad3pA6O.htm)|Giant Fly|Mouche géante|changé|
+|[aFRGgQWWCDIiBlUl.htm](pathfinder-bestiary-2/aFRGgQWWCDIiBlUl.htm)|D'ziriak|D'ziriak|changé|
+|[c4uQKZaRWv9n9IHo.htm](pathfinder-bestiary-2/c4uQKZaRWv9n9IHo.htm)|Solar|Ange Solar|changé|
 |[C7LvY2Xxzm2xRL1M.htm](pathfinder-bestiary-2/C7LvY2Xxzm2xRL1M.htm)|Giant Solifugid|Solifuge Géant|changé|
 |[DYBZniwR1Ip4inVr.htm](pathfinder-bestiary-2/DYBZniwR1Ip4inVr.htm)|Morlock|Morlock|changé|
+|[FHnWzK7DsniqZWzG.htm](pathfinder-bestiary-2/FHnWzK7DsniqZWzG.htm)|Nereid|Néréide|changé|
+|[iW6WKMVV3Ug8sa2q.htm](pathfinder-bestiary-2/iW6WKMVV3Ug8sa2q.htm)|Thanadaemon|Thanadeaemon|changé|
 |[NQ6qRvpD9DIwVxt3.htm](pathfinder-bestiary-2/NQ6qRvpD9DIwVxt3.htm)|Vampiric Mist|Brume Vampirique|changé|
 |[SFpMOxBwiS529dJk.htm](pathfinder-bestiary-2/SFpMOxBwiS529dJk.htm)|Brownie|Lutin|changé|
+|[SYaC46yrqcyp16Dq.htm](pathfinder-bestiary-2/SYaC46yrqcyp16Dq.htm)|Weretiger|Tigre-garou|changé|
+|[URYQ5goPCmrQvJf5.htm](pathfinder-bestiary-2/URYQ5goPCmrQvJf5.htm)|Giant Ant|Fourmi géante|changé|
 |[y9D2wh63pBzIyI7i.htm](pathfinder-bestiary-2/y9D2wh63pBzIyI7i.htm)|Giant Maggot|Asticot géant|changé|
-
-## Liste des éléments vides ne pouvant pas être traduits
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[hIWzgjW2E2K6ImPA.htm](pathfinder-bestiary-2/hIWzgjW2E2K6ImPA.htm)|Bog Mummy|vide|
-|[hmnNDCNV425MisdA.htm](pathfinder-bestiary-2/hmnNDCNV425MisdA.htm)|Eremite|vide|
-|[iW6WKMVV3Ug8sa2q.htm](pathfinder-bestiary-2/iW6WKMVV3Ug8sa2q.htm)|Thanadaemon|vide|
-|[jCF9HjF42SPXTptP.htm](pathfinder-bestiary-2/jCF9HjF42SPXTptP.htm)|Marrmora|vide|
-|[OaNtHZAraCrVLuSo.htm](pathfinder-bestiary-2/OaNtHZAraCrVLuSo.htm)|Mohrg|vide|
-|[vg3nE7p855SXkXbz.htm](pathfinder-bestiary-2/vg3nE7p855SXkXbz.htm)|Bebilith|vide|
-|[xfcFXLbadD3KdlHW.htm](pathfinder-bestiary-2/xfcFXLbadD3KdlHW.htm)|Lerritan|vide|
 
 ## Liste des traductions complétés
 
@@ -90,7 +94,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ABMn623izSLHA0sx.htm](pathfinder-bestiary-2/ABMn623izSLHA0sx.htm)|Glass Golem|Golem de verre|libre|
 |[ABrzFoOqQohQqU6C.htm](pathfinder-bestiary-2/ABrzFoOqQohQqU6C.htm)|Yamaraj|Yamaraj|libre|
 |[ACIqdW6VsFA1TCpN.htm](pathfinder-bestiary-2/ACIqdW6VsFA1TCpN.htm)|Manta Ray|Raie manta|libre|
-|[aFRGgQWWCDIiBlUl.htm](pathfinder-bestiary-2/aFRGgQWWCDIiBlUl.htm)|D'ziriak|D'ziriak|libre|
 |[aMIb3Xm64NzRj8YP.htm](pathfinder-bestiary-2/aMIb3Xm64NzRj8YP.htm)|Mandragora|Mandragore|libre|
 |[ARw4pyNmuQxoZDke.htm](pathfinder-bestiary-2/ARw4pyNmuQxoZDke.htm)|Steam Mephit|Méphite de vapeur|libre|
 |[aVf2IojxU9ZZ64M5.htm](pathfinder-bestiary-2/aVf2IojxU9ZZ64M5.htm)|Fetchling Scout|Éclaireur Fetchelin|libre|
@@ -107,7 +110,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BSlvgDdLkTXU9hRF.htm](pathfinder-bestiary-2/BSlvgDdLkTXU9hRF.htm)|Ancient Umbral Dragon|Dragon Ombral vénérable|libre|
 |[BTQ2ARKulg5Egueg.htm](pathfinder-bestiary-2/BTQ2ARKulg5Egueg.htm)|Augur|Augure|libre|
 |[Bz5wgKEVsHAyaYEx.htm](pathfinder-bestiary-2/Bz5wgKEVsHAyaYEx.htm)|Sunflower Leshy|Léchi Tournesol|libre|
-|[c4uQKZaRWv9n9IHo.htm](pathfinder-bestiary-2/c4uQKZaRWv9n9IHo.htm)|Solar|Ange Solar|libre|
 |[cd2IaNGpdmHHZnrN.htm](pathfinder-bestiary-2/cd2IaNGpdmHHZnrN.htm)|Xill|Xill|libre|
 |[cijMuXBk8YUw2RoB.htm](pathfinder-bestiary-2/cijMuXBk8YUw2RoB.htm)|Caligni Slayer|Tueur Caligni|libre|
 |[cKu0rrZtEAFCosej.htm](pathfinder-bestiary-2/cKu0rrZtEAFCosej.htm)|Void Zombie|Zombi du Vide|libre|
@@ -142,7 +144,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[EXeR2HC4xsvHcf6K.htm](pathfinder-bestiary-2/EXeR2HC4xsvHcf6K.htm)|Monadic Deva|Deva Monadique|libre|
 |[F5QibbbxUeO8A3Kj.htm](pathfinder-bestiary-2/F5QibbbxUeO8A3Kj.htm)|Grimstalker|Harceleurs Sombres|libre|
 |[FERUCyMwvy4Nejou.htm](pathfinder-bestiary-2/FERUCyMwvy4Nejou.htm)|Hellcat|Félin de l'Enfer|libre|
-|[FHnWzK7DsniqZWzG.htm](pathfinder-bestiary-2/FHnWzK7DsniqZWzG.htm)|Nereid|Néréide|libre|
 |[fizcFuAe2WPauA2U.htm](pathfinder-bestiary-2/fizcFuAe2WPauA2U.htm)|Petitioner (Boneyard)|Pétitionnaire (Cimetière)|libre|
 |[FJr7Rc9MQEwxjAcz.htm](pathfinder-bestiary-2/FJr7Rc9MQEwxjAcz.htm)|Urdefhan Tormentor|Tortionnaire Urdefhan|libre|
 |[FMU6L5vbiUxa1ZF7.htm](pathfinder-bestiary-2/FMU6L5vbiUxa1ZF7.htm)|Kelpie|Kelpie|libre|
@@ -284,7 +285,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[SsR4wiSWA7xhlkH9.htm](pathfinder-bestiary-2/SsR4wiSWA7xhlkH9.htm)|Iguanodon|Iguanodon|libre|
 |[sY3VkazdyPiMgMj1.htm](pathfinder-bestiary-2/sY3VkazdyPiMgMj1.htm)|Fjord Linnorm|Linnorm des Fjord|libre|
 |[SY8pvLPqc2EgP9Xj.htm](pathfinder-bestiary-2/SY8pvLPqc2EgP9Xj.htm)|Soul Eater|Dévoreur d'âmes|libre|
-|[SYaC46yrqcyp16Dq.htm](pathfinder-bestiary-2/SYaC46yrqcyp16Dq.htm)|Weretiger|Tigre-garou|libre|
 |[T3low0wQNMO0SEtr.htm](pathfinder-bestiary-2/T3low0wQNMO0SEtr.htm)|Leucrotta|Leucrotta|libre|
 |[t8XwrLnvMnz3Z1al.htm](pathfinder-bestiary-2/t8XwrLnvMnz3Z1al.htm)|Catrina|Catrina|libre|
 |[T9vzmpvpRL5xjrhd.htm](pathfinder-bestiary-2/T9vzmpvpRL5xjrhd.htm)|Giant Badger|Blaireau géant|libre|
@@ -309,7 +309,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UnWr8QSMq2VZUQhX.htm](pathfinder-bestiary-2/UnWr8QSMq2VZUQhX.htm)|Tatzlwyrm|Tatzlwyrm|libre|
 |[uQBfbNaIHdt0l2QB.htm](pathfinder-bestiary-2/uQBfbNaIHdt0l2QB.htm)|Quickling|Viflin|libre|
 |[UqFObUjgFAlWrriA.htm](pathfinder-bestiary-2/UqFObUjgFAlWrriA.htm)|Polar Bear|Ours polaire|libre|
-|[URYQ5goPCmrQvJf5.htm](pathfinder-bestiary-2/URYQ5goPCmrQvJf5.htm)|Giant Ant|Fourmi géante|libre|
 |[UTnrcGoCIXR95zKi.htm](pathfinder-bestiary-2/UTnrcGoCIXR95zKi.htm)|Giant Whiptail Centipede|Mille-pattes à queue fouettante|libre|
 |[V6OBYa51VcehPj22.htm](pathfinder-bestiary-2/V6OBYa51VcehPj22.htm)|Gray Ooze|Vase grise|libre|
 |[Va2LUALLnnfWX3wq.htm](pathfinder-bestiary-2/Va2LUALLnnfWX3wq.htm)|Vrolikai|Vrolikai|libre|

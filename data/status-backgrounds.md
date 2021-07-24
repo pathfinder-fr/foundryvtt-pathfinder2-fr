@@ -1,20 +1,12 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 165
+ * **libre**: 167
  * **officielle**: 45
- * **changé**: 2
 
 
-Dernière mise à jour: 2021-07-20 17:25 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-24 17:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[E2ij2Cg8oMC0W0NS.htm](backgrounds/E2ij2Cg8oMC0W0NS.htm)|Nirmathi Guerrilla|Escarmoucheur Nirmathi|changé|
-|[yK40c3082U30BUX5.htm](backgrounds/yK40c3082U30BUX5.htm)|Grand Council Bureaucrat|Bureaucrate du Grand Conseil|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -91,6 +83,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[DHrzVqB8f1ed3zTk.htm](backgrounds/DHrzVqB8f1ed3zTk.htm)|Clown|Clown|libre|
 |[dVRDDjT4FOu6uLDR.htm](backgrounds/dVRDDjT4FOu6uLDR.htm)|Detective|Détective|officielle|
 |[DVtZab19D1vD3a0n.htm](backgrounds/DVtZab19D1vD3a0n.htm)|Post Guard of All Trades|Garde du poste touche-à-tout|libre|
+|[E2ij2Cg8oMC0W0NS.htm](backgrounds/E2ij2Cg8oMC0W0NS.htm)|Nirmathi Guerrilla|Escarmoucheur Nirmathi|libre|
 |[EJRWGsPWzAhixuvQ.htm](backgrounds/EJRWGsPWzAhixuvQ.htm)|Belkzen Slayer|Tueur du Belkzen|libre|
 |[eYY3bX7xSH7aicqT.htm](backgrounds/eYY3bX7xSH7aicqT.htm)|Atteran Rancher|Rancher Atteran|libre|
 |[faHydq29Q4RP5CAK.htm](backgrounds/faHydq29Q4RP5CAK.htm)|Martial Disciple (Athletics)|Disciple martial (Athlétisme)|libre|
@@ -224,6 +217,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[y9OyNsxGfmjqdcP0.htm](backgrounds/y9OyNsxGfmjqdcP0.htm)|Artist|Artiste|officielle|
 |[yAtyaKbcHZWCJlf5.htm](backgrounds/yAtyaKbcHZWCJlf5.htm)|Witch Wary|Gare aux sorcières|libre|
 |[YJpEdmSOjlA2QZeu.htm](backgrounds/YJpEdmSOjlA2QZeu.htm)|Circus Born|Circassien|libre|
+|[yK40c3082U30BUX5.htm](backgrounds/yK40c3082U30BUX5.htm)|Grand Council Bureaucrat|Bureaucrate du Grand Conseil|libre|
 |[Yu7Cl0Lk94LdPRi6.htm](backgrounds/Yu7Cl0Lk94LdPRi6.htm)|Noble|Noble|officielle|
 |[YyzIzLxn2UCFubj4.htm](backgrounds/YyzIzLxn2UCFubj4.htm)|Menagerie Dung Sweeper|Balayeur de fumier de la Ménagerie|libre|
 |[z4cCsOT36MB7xldR.htm](backgrounds/z4cCsOT36MB7xldR.htm)|Barker|Aboyeur|libre|
