@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-07-24 17:32 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-07-27 07:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -1672,9 +1672,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |------------|-------------|-----------------|
 |[Abandoned Zealot](pathfinder-bestiary-3/zMoJh88vXJQwSHsX.htm)|Fanatiques abandonnés|`@Compendium[pf2e.pathfinder-bestiary-3.zMoJh88vXJQwSHsX]`|
 |[Abrikandilu](pathfinder-bestiary-3/6bkqOecc1n0PulCu.htm)|Abrikandilu (démon destructeur)|`@Compendium[pf2e.pathfinder-bestiary-3.6bkqOecc1n0PulCu]`|
-|[Adachros](pathfinder-bestiary-3/BZKNSyp1ATtn3JXj.htm)|Adachros (Énnosite)|`@Compendium[pf2e.pathfinder-bestiary-3.BZKNSyp1ATtn3JXj]`|
+|[Adachros](pathfinder-bestiary-3/BZKNSyp1ATtn3JXj.htm)|Adachros (Ennosite)|`@Compendium[pf2e.pathfinder-bestiary-3.BZKNSyp1ATtn3JXj]`|
 |[Adhukait](pathfinder-bestiary-3/6yc1exIcngUEvBQH.htm)|Adhukait (Asura)|`@Compendium[pf2e.pathfinder-bestiary-3.6yc1exIcngUEvBQH]`|
-|[Adlet](pathfinder-bestiary-3/v7nu3NMYTS0YyxH4.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.v7nu3NMYTS0YyxH4]`|
+|[Adlet](pathfinder-bestiary-3/v7nu3NMYTS0YyxH4.htm)|Adlet|`@Compendium[pf2e.pathfinder-bestiary-3.v7nu3NMYTS0YyxH4]`|
 |[Adult Forest Dragon](pathfinder-bestiary-3/ACTvXKXcw1RZQxrP.htm)|Dragon des forêts adulte|`@Compendium[pf2e.pathfinder-bestiary-3.ACTvXKXcw1RZQxrP]`|
 |[Adult Sea Dragon](pathfinder-bestiary-3/uDNQyboLAiIxBatL.htm)|Dragon de la mer adulte|`@Compendium[pf2e.pathfinder-bestiary-3.uDNQyboLAiIxBatL]`|
 |[Adult Sky Dragon](pathfinder-bestiary-3/0qqABck8p0lCe4xz.htm)|Dragon du ciel adulte|`@Compendium[pf2e.pathfinder-bestiary-3.0qqABck8p0lCe4xz]`|
@@ -1682,30 +1682,30 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Adult Underworld Dragon](pathfinder-bestiary-3/wmKIB7cgWdAZ29mv.htm)|Dragon des profondeurs adulte|`@Compendium[pf2e.pathfinder-bestiary-3.wmKIB7cgWdAZ29mv]`|
 |[Aghash](pathfinder-bestiary-3/KGAuzJaKfPAdn0It.htm)|Agash (Div)|`@Compendium[pf2e.pathfinder-bestiary-3.KGAuzJaKfPAdn0It]`|
 |[Air Wisp](pathfinder-bestiary-3/0HTju4vf8ADAAh2g.htm)|Volute de l'Air|`@Compendium[pf2e.pathfinder-bestiary-3.0HTju4vf8ADAAh2g]`|
-|[Amalgamite](pathfinder-bestiary-3/xIT2yHlwILLc5hgw.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.xIT2yHlwILLc5hgw]`|
+|[Amalgamite](pathfinder-bestiary-3/xIT2yHlwILLc5hgw.htm)|Amalgamite|`@Compendium[pf2e.pathfinder-bestiary-3.xIT2yHlwILLc5hgw]`|
 |[Amphisbaena](pathfinder-bestiary-3/H796hayJm3J7MYJg.htm)|Amphisbène|`@Compendium[pf2e.pathfinder-bestiary-3.H796hayJm3J7MYJg]`|
 |[Ancient Forest Dragon](pathfinder-bestiary-3/ie5MyxqTqGlxzgsH.htm)|Dragon des forêts vénérable|`@Compendium[pf2e.pathfinder-bestiary-3.ie5MyxqTqGlxzgsH]`|
 |[Ancient Sea Dragon](pathfinder-bestiary-3/DCzr8qOfSg2K7e3z.htm)|Dragon de la mer vénérable|`@Compendium[pf2e.pathfinder-bestiary-3.DCzr8qOfSg2K7e3z]`|
 |[Ancient Sky Dragon](pathfinder-bestiary-3/Ls2qYZDASu3VgXxo.htm)|Dragon du ciel vénérable|`@Compendium[pf2e.pathfinder-bestiary-3.Ls2qYZDASu3VgXxo]`|
-|[Ancient Sovereign Dragon](pathfinder-bestiary-3/ytYKPtPotjvsWoSl.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.ytYKPtPotjvsWoSl]`|
+|[Ancient Sovereign Dragon](pathfinder-bestiary-3/ytYKPtPotjvsWoSl.htm)|Dragon souverain vénérable|`@Compendium[pf2e.pathfinder-bestiary-3.ytYKPtPotjvsWoSl]`|
 |[Ancient Underworld Dragon](pathfinder-bestiary-3/nX3LIuvHqiKNrth9.htm)|Dragon des profondeurs ancient|`@Compendium[pf2e.pathfinder-bestiary-3.nX3LIuvHqiKNrth9]`|
 |[Android Infiltrator](pathfinder-bestiary-3/iNgKGHzMOAHjWQeI.htm)|Infiltrateur androïde|`@Compendium[pf2e.pathfinder-bestiary-3.iNgKGHzMOAHjWQeI]`|
 |[Angazhani](pathfinder-bestiary-3/JD5sD7vwwlU2DwJI.htm)|Angazhani|`@Compendium[pf2e.pathfinder-bestiary-3.JD5sD7vwwlU2DwJI]`|
 |[Angheuvore Flesh-gnawer](pathfinder-bestiary-3/MJhb44wEqSMWtrfe.htm)|Mange-chair angheuvore (Mortique)|`@Compendium[pf2e.pathfinder-bestiary-3.MJhb44wEqSMWtrfe]`|
 |[Animated Colossus](pathfinder-bestiary-3/4WMThCqvHV1aaBwa.htm)|Colosse animé|`@Compendium[pf2e.pathfinder-bestiary-3.4WMThCqvHV1aaBwa]`|
 |[Animated Furnace](pathfinder-bestiary-3/fLyIWlTCW3cUPjvd.htm)|Fourneau animé|`@Compendium[pf2e.pathfinder-bestiary-3.fLyIWlTCW3cUPjvd]`|
-|[Animated Silverware Swarm](pathfinder-bestiary-3/wnrgiB2PkaBC5gOQ.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.wnrgiB2PkaBC5gOQ]`|
+|[Animated Silverware Swarm](pathfinder-bestiary-3/wnrgiB2PkaBC5gOQ.htm)|Nuée d'argenterie animée|`@Compendium[pf2e.pathfinder-bestiary-3.wnrgiB2PkaBC5gOQ]`|
 |[Animated Trebuchet](pathfinder-bestiary-3/fcFQ2GDUZ9YAhiDC.htm)|Trébuchet animé|`@Compendium[pf2e.pathfinder-bestiary-3.fcFQ2GDUZ9YAhiDC]`|
-|[Aphorite Sharpshooter](pathfinder-bestiary-3/YLLyd6Jb4Zqmz0lo.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.YLLyd6Jb4Zqmz0lo]`|
+|[Aphorite Sharpshooter](pathfinder-bestiary-3/YLLyd6Jb4Zqmz0lo.htm)|Tireur d'élite aphorite|`@Compendium[pf2e.pathfinder-bestiary-3.YLLyd6Jb4Zqmz0lo]`|
 |[Arboreal Archive](pathfinder-bestiary-3/vJAPvmWCjVGKr06E.htm)|Archiviste arboréen|`@Compendium[pf2e.pathfinder-bestiary-3.vJAPvmWCjVGKr06E]`|
 |[Arboreal Reaper](pathfinder-bestiary-3/dniiLeUhXaq5CElX.htm)|Faucheur arboréen|`@Compendium[pf2e.pathfinder-bestiary-3.dniiLeUhXaq5CElX]`|
 |[Arcane Living Rune](pathfinder-bestiary-3/EMT6L7RarzkSiEOq.htm)|Rune vivante arcanique|`@Compendium[pf2e.pathfinder-bestiary-3.EMT6L7RarzkSiEOq]`|
 |[Azarketi Explorer](pathfinder-bestiary-3/RTTs4lvkcPz8u6IY.htm)|Explorateur Azarketi|`@Compendium[pf2e.pathfinder-bestiary-3.RTTs4lvkcPz8u6IY]`|
 |[Azer](pathfinder-bestiary-3/Su21mCjUxFJnoWGg.htm)|Azer|`@Compendium[pf2e.pathfinder-bestiary-3.Su21mCjUxFJnoWGg]`|
-|[Bauble Beast](pathfinder-bestiary-3/Yg7R4UgB1FjF2Euu.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.Yg7R4UgB1FjF2Euu]`|
+|[Bauble Beast](pathfinder-bestiary-3/Yg7R4UgB1FjF2Euu.htm)|Bête-babiole|`@Compendium[pf2e.pathfinder-bestiary-3.Yg7R4UgB1FjF2Euu]`|
 |[Baykok](pathfinder-bestiary-3/an7tww93Y4pQ8HP6.htm)|Baykok|`@Compendium[pf2e.pathfinder-bestiary-3.an7tww93Y4pQ8HP6]`|
-|[Betobeto-san](pathfinder-bestiary-3/v0nvME08U3mZJWB3.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.v0nvME08U3mZJWB3]`|
-|[Bison](pathfinder-bestiary-3/XyEvsURVDnJwb76F.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.XyEvsURVDnJwb76F]`|
+|[Betobeto-san](pathfinder-bestiary-3/v0nvME08U3mZJWB3.htm)|Bétobéto-san|`@Compendium[pf2e.pathfinder-bestiary-3.v0nvME08U3mZJWB3]`|
+|[Bison](pathfinder-bestiary-3/XyEvsURVDnJwb76F.htm)|Bison|`@Compendium[pf2e.pathfinder-bestiary-3.XyEvsURVDnJwb76F]`|
 |[Blood Hag](pathfinder-bestiary-3/ew52XP0hjUACnidH.htm)|Guenaude de sang|`@Compendium[pf2e.pathfinder-bestiary-3.ew52XP0hjUACnidH]`|
 |[Blood Painter](pathfinder-bestiary-3/krbmyD1SuPQb4QfF.htm)|Peintre de sang|`@Compendium[pf2e.pathfinder-bestiary-3.krbmyD1SuPQb4QfF]`|
 |[Bone Ship](pathfinder-bestiary-3/iD32uhsjUGLvC2q6.htm)|Vaisseau squelettique|`@Compendium[pf2e.pathfinder-bestiary-3.iD32uhsjUGLvC2q6]`|
@@ -1714,10 +1714,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Brimorak](pathfinder-bestiary-3/rVtBZrHnWM3lvSs7.htm)|Brimorak|`@Compendium[pf2e.pathfinder-bestiary-3.rVtBZrHnWM3lvSs7]`|
 |[Buso Farmer](pathfinder-bestiary-3/hNW3X8MbQQ9pUMiR.htm)|Fermier buso|`@Compendium[pf2e.pathfinder-bestiary-3.hNW3X8MbQQ9pUMiR]`|
 |[Cactus Leshy](pathfinder-bestiary-3/eGNpuEg60STItyGz.htm)|Léchi cactus|`@Compendium[pf2e.pathfinder-bestiary-3.eGNpuEg60STItyGz]`|
-|[Caligni Caller](pathfinder-bestiary-3/zdJgaVe6VRSfEE1n.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.zdJgaVe6VRSfEE1n]`|
+|[Caligni Caller](pathfinder-bestiary-3/zdJgaVe6VRSfEE1n.htm)|Implorant caligni|`@Compendium[pf2e.pathfinder-bestiary-3.zdJgaVe6VRSfEE1n]`|
 |[Caligni Vanguard](pathfinder-bestiary-3/79pfivF3swvfsJE4.htm)|Avant-garde caligni|`@Compendium[pf2e.pathfinder-bestiary-3.79pfivF3swvfsJE4]`|
 |[Calikang](pathfinder-bestiary-3/EvLBhZSMrzVDk4mM.htm)|Calikang|`@Compendium[pf2e.pathfinder-bestiary-3.EvLBhZSMrzVDk4mM]`|
-|[Camel](pathfinder-bestiary-3/Yq9TcUof5D117yns.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.Yq9TcUof5D117yns]`|
+|[Camel](pathfinder-bestiary-3/Yq9TcUof5D117yns.htm)|Chameau|`@Compendium[pf2e.pathfinder-bestiary-3.Yq9TcUof5D117yns]`|
 |[Caulborn](pathfinder-bestiary-3/sgZGrUQrfH3QPdXF.htm)|Colborne (Énnosite)|`@Compendium[pf2e.pathfinder-bestiary-3.sgZGrUQrfH3QPdXF]`|
 |[Cave Giant](pathfinder-bestiary-3/DIJQ1UvfDDnDP545.htm)|Géant des grottes|`@Compendium[pf2e.pathfinder-bestiary-3.DIJQ1UvfDDnDP545]`|
 |[Cecaelia Trapper](pathfinder-bestiary-3/PVstJNeHeWLU2XoK.htm)|Trappeur cécaëlia|`@Compendium[pf2e.pathfinder-bestiary-3.PVstJNeHeWLU2XoK]`|
@@ -1732,26 +1732,26 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cobbleswarm](pathfinder-bestiary-3/BrGvmcM6jl3xUs4d.htm)|Nuée de teignes-pavé|`@Compendium[pf2e.pathfinder-bestiary-3.BrGvmcM6jl3xUs4d]`|
 |[Common Eurypterid](pathfinder-bestiary-3/fViWNHKjjL7fYbjW.htm)|Euryptéride commun|`@Compendium[pf2e.pathfinder-bestiary-3.fViWNHKjjL7fYbjW]`|
 |[Consonite Choir](pathfinder-bestiary-3/9uP6Dfv53H4Fa32c.htm)|Choeur consonite|`@Compendium[pf2e.pathfinder-bestiary-3.9uP6Dfv53H4Fa32c]`|
-|[Coral Capuchin](pathfinder-bestiary-3/Vt28ucE0FUJYl1fD.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.Vt28ucE0FUJYl1fD]`|
+|[Coral Capuchin](pathfinder-bestiary-3/Vt28ucE0FUJYl1fD.htm)|Capucin de corail|`@Compendium[pf2e.pathfinder-bestiary-3.Vt28ucE0FUJYl1fD]`|
 |[Corrupted Relic](pathfinder-bestiary-3/uP6dE5adlWJ9DrFY.htm)|Relique dépravée|`@Compendium[pf2e.pathfinder-bestiary-3.uP6dE5adlWJ9DrFY]`|
 |[Crossroads Guardian](pathfinder-bestiary-3/qvVmYuERMib26Atc.htm)|Gardien de croisée|`@Compendium[pf2e.pathfinder-bestiary-3.qvVmYuERMib26Atc]`|
 |[Cunning Fox](pathfinder-bestiary-3/VMZOQGY1x1of0XLm.htm)|Renard rusé (guide spirituel)|`@Compendium[pf2e.pathfinder-bestiary-3.VMZOQGY1x1of0XLm]`|
 |[Danava Titan](pathfinder-bestiary-3/xwTZZAEs1sf5RWCq.htm)|Titan danava|`@Compendium[pf2e.pathfinder-bestiary-3.xwTZZAEs1sf5RWCq]`|
-|[Deimavigga](pathfinder-bestiary-3/8Ds7BAEjgSSB32wS.htm)|Deimaviggas|`@Compendium[pf2e.pathfinder-bestiary-3.8Ds7BAEjgSSB32wS]`|
+|[Deimavigga](pathfinder-bestiary-3/8Ds7BAEjgSSB32wS.htm)|Deimavigga (diable apostat)|`@Compendium[pf2e.pathfinder-bestiary-3.8Ds7BAEjgSSB32wS]`|
 |[Desert Giant](pathfinder-bestiary-3/o740a5FFLG834FkV.htm)|Géant du désert|`@Compendium[pf2e.pathfinder-bestiary-3.o740a5FFLG834FkV]`|
 |[Divine Living Rune](pathfinder-bestiary-3/tvAlNMQluKDpfXMz.htm)|Rune vivante divine|`@Compendium[pf2e.pathfinder-bestiary-3.tvAlNMQluKDpfXMz]`|
-|[Divine Warden Of Nethys](pathfinder-bestiary-3/61atKNQVF73vWpqc.htm)|Garde divin de Nethys|`@Compendium[pf2e.pathfinder-bestiary-3.61atKNQVF73vWpqc]`|
+|[Divine Warden Of Nethys](pathfinder-bestiary-3/61atKNQVF73vWpqc.htm)|Garde divin de Néthys|`@Compendium[pf2e.pathfinder-bestiary-3.61atKNQVF73vWpqc]`|
 |[Domovoi](pathfinder-bestiary-3/NhHGDx6ChbrhAmbO.htm)|Domovoï (Esprit de la maison)|`@Compendium[pf2e.pathfinder-bestiary-3.NhHGDx6ChbrhAmbO]`|
 |[Doru](pathfinder-bestiary-3/QJRi6WzEm0LbXjAc.htm)|Doru (Div)|`@Compendium[pf2e.pathfinder-bestiary-3.QJRi6WzEm0LbXjAc]`|
 |[Draconal](pathfinder-bestiary-3/mRsiT9EtpbOQ7AeX.htm)|Draconal (Agathion dragon)|`@Compendium[pf2e.pathfinder-bestiary-3.mRsiT9EtpbOQ7AeX]`|
-|[Dramofir](pathfinder-bestiary-3/Wu6vmegKwR4bgLse.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.Wu6vmegKwR4bgLse]`|
+|[Dramofir](pathfinder-bestiary-3/Wu6vmegKwR4bgLse.htm)|Dramofir|`@Compendium[pf2e.pathfinder-bestiary-3.Wu6vmegKwR4bgLse]`|
 |[Draxie](pathfinder-bestiary-3/PJCeh8sj9Sm5Eqz8.htm)|Draxie (Sprite)|`@Compendium[pf2e.pathfinder-bestiary-3.PJCeh8sj9Sm5Eqz8]`|
 |[Dretch](pathfinder-bestiary-3/ooyJuLQ3AivRwLpa.htm)|Dretch (démon)|`@Compendium[pf2e.pathfinder-bestiary-3.ooyJuLQ3AivRwLpa]`|
 |[Duende](pathfinder-bestiary-3/GPP2YJd2CkXSlLok.htm)|Duende|`@Compendium[pf2e.pathfinder-bestiary-3.GPP2YJd2CkXSlLok]`|
 |[Dvorovoi](pathfinder-bestiary-3/S2DdLrq9V7M5WzM3.htm)|Dvorovoï (Esprit de la maison)|`@Compendium[pf2e.pathfinder-bestiary-3.S2DdLrq9V7M5WzM3]`|
 |[Dybbuk](pathfinder-bestiary-3/QUzBzxRy6HLeK7ja.htm)|Dybbuk|`@Compendium[pf2e.pathfinder-bestiary-3.QUzBzxRy6HLeK7ja]`|
 |[Earth Wisp](pathfinder-bestiary-3/OPRuZ1cEuKkJGPMV.htm)|Volute de la Terre|`@Compendium[pf2e.pathfinder-bestiary-3.OPRuZ1cEuKkJGPMV]`|
-|[Einherji](pathfinder-bestiary-3/VF81W91YRFgtBLli.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.VF81W91YRFgtBLli]`|
+|[Einherji](pathfinder-bestiary-3/VF81W91YRFgtBLli.htm)|Einherji|`@Compendium[pf2e.pathfinder-bestiary-3.VF81W91YRFgtBLli]`|
 |[Elder Sphinx](pathfinder-bestiary-3/oIM21UCyiabwwHfo.htm)|Sphinx aîné|`@Compendium[pf2e.pathfinder-bestiary-3.oIM21UCyiabwwHfo]`|
 |[Elder Wyrmwraith](pathfinder-bestiary-3/lqDwO2xkBNNEZ57B.htm)|Spectre de dragon vénérable|`@Compendium[pf2e.pathfinder-bestiary-3.lqDwO2xkBNNEZ57B]`|
 |[Elysian Titan](pathfinder-bestiary-3/0yisb2wbIvfNqciD.htm)|Titan élyséen|`@Compendium[pf2e.pathfinder-bestiary-3.0yisb2wbIvfNqciD]`|
@@ -1761,8 +1761,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Empress Mage-Eater Worm](pathfinder-bestiary-3/JGpz9B0QkkAcHT4e.htm)|Ver Mange-Mage impératrice|`@Compendium[pf2e.pathfinder-bestiary-3.JGpz9B0QkkAcHT4e]`|
 |[Empress Necril Worm](pathfinder-bestiary-3/XnHmGsR7bQCHTMdA.htm)|Ver nécromantique impératrice|`@Compendium[pf2e.pathfinder-bestiary-3.XnHmGsR7bQCHTMdA]`|
 |[Esipil](pathfinder-bestiary-3/qlYzd5vmhsFTNdbX.htm)|Ésipil (Sahkil)|`@Compendium[pf2e.pathfinder-bestiary-3.qlYzd5vmhsFTNdbX]`|
-|[Etioling Blightmage](pathfinder-bestiary-3/nnI7oj1BcetLUTYo.htm)|Fléau-Mage Étiolier (Mortique)|`@Compendium[pf2e.pathfinder-bestiary-3.nnI7oj1BcetLUTYo]`|
-|[Eunemvro](pathfinder-bestiary-3/xHMiDdTkZA3HzVSJ.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.xHMiDdTkZA3HzVSJ]`|
+|[Etioling Blightmage](pathfinder-bestiary-3/nnI7oj1BcetLUTYo.htm)|Fléau-Mage étiolant (Mortique)|`@Compendium[pf2e.pathfinder-bestiary-3.nnI7oj1BcetLUTYo]`|
+|[Eunemvro](pathfinder-bestiary-3/xHMiDdTkZA3HzVSJ.htm)|Eunnemvro|`@Compendium[pf2e.pathfinder-bestiary-3.xHMiDdTkZA3HzVSJ]`|
 |[Fading Fox](pathfinder-bestiary-3/GD8yAL8R8oft23Ml.htm)|Renard évanescent|`@Compendium[pf2e.pathfinder-bestiary-3.GD8yAL8R8oft23Ml]`|
 |[Feathered Bear](pathfinder-bestiary-3/rr48cUJxGpII7jWz.htm)|Ours emplumé (guide spirituel)|`@Compendium[pf2e.pathfinder-bestiary-3.rr48cUJxGpII7jWz]`|
 |[Feral Skull Swarm](pathfinder-bestiary-3/aX0zhmJGzpnwCwMr.htm)|Nuée de crânes sauvages|`@Compendium[pf2e.pathfinder-bestiary-3.aX0zhmJGzpnwCwMr]`|
@@ -1773,7 +1773,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fortune Eater](pathfinder-bestiary-3/kU0ZXzbHqHUIND6m.htm)|Mangeur de fortune|`@Compendium[pf2e.pathfinder-bestiary-3.kU0ZXzbHqHUIND6m]`|
 |[Fossil Golem](pathfinder-bestiary-3/zGtfiKku0td5E0VJ.htm)|Golem fossile|`@Compendium[pf2e.pathfinder-bestiary-3.zGtfiKku0td5E0VJ]`|
 |[Fuath](pathfinder-bestiary-3/hiDSC6gqneQTB106.htm)|Fuath (Gremlin)|`@Compendium[pf2e.pathfinder-bestiary-3.hiDSC6gqneQTB106]`|
-|[Galvo](pathfinder-bestiary-3/wv0hiJIGQjTU1pnO.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.wv0hiJIGQjTU1pnO]`|
+|[Galvo](pathfinder-bestiary-3/wv0hiJIGQjTU1pnO.htm)|Galvo|`@Compendium[pf2e.pathfinder-bestiary-3.wv0hiJIGQjTU1pnO]`|
 |[Ganzi Martial Artist](pathfinder-bestiary-3/0sQg5UM8dQY7fBhQ.htm)|Artiste martial Ganzi|`@Compendium[pf2e.pathfinder-bestiary-3.0sQg5UM8dQY7fBhQ]`|
 |[Garuda](pathfinder-bestiary-3/aqvMwn6885CJEmCO.htm)|Garuda|`@Compendium[pf2e.pathfinder-bestiary-3.aqvMwn6885CJEmCO]`|
 |[Gathlain Wanderer](pathfinder-bestiary-3/CSPuBqtPITQt43Md.htm)|Vagabond gathlain|`@Compendium[pf2e.pathfinder-bestiary-3.CSPuBqtPITQt43Md]`|
@@ -1785,7 +1785,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Giant Porcupine](pathfinder-bestiary-3/IijUBFE1vhvgowhD.htm)|Porc-épic géant|`@Compendium[pf2e.pathfinder-bestiary-3.IijUBFE1vhvgowhD]`|
 |[Giant Seahorse](pathfinder-bestiary-3/qE0iZoeeOp7og5A5.htm)|Hippocampe géant|`@Compendium[pf2e.pathfinder-bestiary-3.qE0iZoeeOp7og5A5]`|
 |[Giant Skunk](pathfinder-bestiary-3/nr4E59Xu10nWYsyO.htm)|Putois géant|`@Compendium[pf2e.pathfinder-bestiary-3.nr4E59Xu10nWYsyO]`|
-|[Giant Vulture](pathfinder-bestiary-3/01alXdlOUvAC6woS.htm)|Vautours géants|`@Compendium[pf2e.pathfinder-bestiary-3.01alXdlOUvAC6woS]`|
+|[Giant Vulture](pathfinder-bestiary-3/01alXdlOUvAC6woS.htm)|Vautour géant|`@Compendium[pf2e.pathfinder-bestiary-3.01alXdlOUvAC6woS]`|
 |[Girtablilu Seer](pathfinder-bestiary-3/DmQM0QTSPJ7YtpMg.htm)|Voyant Girtablilu|`@Compendium[pf2e.pathfinder-bestiary-3.DmQM0QTSPJ7YtpMg]`|
 |[Girtablilu Sentry](pathfinder-bestiary-3/4glVe36VTR8HTjcE.htm)|Sentinelle Girtablilu|`@Compendium[pf2e.pathfinder-bestiary-3.4glVe36VTR8HTjcE]`|
 |[Gliminal](pathfinder-bestiary-3/JHrINFX7a7fYhP4w.htm)|Gliminal|`@Compendium[pf2e.pathfinder-bestiary-3.JHrINFX7a7fYhP4w]`|
@@ -1793,7 +1793,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Green Man](pathfinder-bestiary-3/kXc11R18rF28AgIf.htm)|Homme vert|`@Compendium[pf2e.pathfinder-bestiary-3.kXc11R18rF28AgIf]`|
 |[Grimple](pathfinder-bestiary-3/zGco5QmokZpFgLes.htm)|Grimple (Gremlin)|`@Compendium[pf2e.pathfinder-bestiary-3.zGco5QmokZpFgLes]`|
 |[Grioth Cultist](pathfinder-bestiary-3/HiazGJoPkJ3gQVAO.htm)|Cultiste Grioth|`@Compendium[pf2e.pathfinder-bestiary-3.HiazGJoPkJ3gQVAO]`|
-|[Grioth Scout](pathfinder-bestiary-3/5dZaPSltPYYIupeq.htm)|Éclaireur Grioth|`@Compendium[pf2e.pathfinder-bestiary-3.5dZaPSltPYYIupeq]`|
+|[Grioth Scout](pathfinder-bestiary-3/5dZaPSltPYYIupeq.htm)|Éclaireur grioth|`@Compendium[pf2e.pathfinder-bestiary-3.5dZaPSltPYYIupeq]`|
 |[Guecubu](pathfinder-bestiary-3/GHv9BN8JQEPJVp5n.htm)|Guecube|`@Compendium[pf2e.pathfinder-bestiary-3.GHv9BN8JQEPJVp5n]`|
 |[Gurgist Mauler](pathfinder-bestiary-3/ilGMPBvjT9ovIiXB.htm)|Cogneur Gargouillier (Mortique)|`@Compendium[pf2e.pathfinder-bestiary-3.ilGMPBvjT9ovIiXB]`|
 |[Hadrinnex](pathfinder-bestiary-3/OTEJFZ03NDqtrhcj.htm)|Hadrinnexes|`@Compendium[pf2e.pathfinder-bestiary-3.OTEJFZ03NDqtrhcj]`|
@@ -1803,7 +1803,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Hatred Siktempora](pathfinder-bestiary-3/V9SxfxUgljJR9xx5.htm)|Siktempora de la haine|`@Compendium[pf2e.pathfinder-bestiary-3.V9SxfxUgljJR9xx5]`|
 |[Hekatonkheires Titan](pathfinder-bestiary-3/esw400AugH9XWq5p.htm)|Titan hékatonkhère|`@Compendium[pf2e.pathfinder-bestiary-3.esw400AugH9XWq5p]`|
 |[Hellbound Attorney](pathfinder-bestiary-3/MolnKBns2ePDFbAB.htm)|Avocat des enfers|`@Compendium[pf2e.pathfinder-bestiary-3.MolnKBns2ePDFbAB]`|
-|[Hellknight Cavalry Brigade](pathfinder-bestiary-3/CXCdPqMRX58sBQ9G.htm)|Brigade de cavalerie Chevalier infernaux|`@Compendium[pf2e.pathfinder-bestiary-3.CXCdPqMRX58sBQ9G]`|
+|[Hellknight Cavalry Brigade](pathfinder-bestiary-3/CXCdPqMRX58sBQ9G.htm)|Brigade de cavalerie de Chevaliers infernaux|`@Compendium[pf2e.pathfinder-bestiary-3.CXCdPqMRX58sBQ9G]`|
 |[Hellwasp Swarm](pathfinder-bestiary-3/N6nBHGfmlaeMiBMP.htm)|Nuée de guêpes de l'enfer|`@Compendium[pf2e.pathfinder-bestiary-3.N6nBHGfmlaeMiBMP]`|
 |[Herexen](pathfinder-bestiary-3/iLoVkzve6Nu3gErr.htm)|Hérexen|`@Compendium[pf2e.pathfinder-bestiary-3.iLoVkzve6Nu3gErr]`|
 |[Hermit Crab Swarm](pathfinder-bestiary-3/aeLTz7wO9ajPaQ0V.htm)|Nuée de bernard-l'hermite|`@Compendium[pf2e.pathfinder-bestiary-3.aeLTz7wO9ajPaQ0V]`|
@@ -1824,7 +1824,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Kasa-obake](pathfinder-bestiary-3/hh7OuFB5BQIrfeRT.htm)|Kasa-obaké (Tsukumogami)|`@Compendium[pf2e.pathfinder-bestiary-3.hh7OuFB5BQIrfeRT]`|
 |[Khravgodon](pathfinder-bestiary-3/8S088wbZjUhx6IB7.htm)|Khravgodon|`@Compendium[pf2e.pathfinder-bestiary-3.8S088wbZjUhx6IB7]`|
 |[Kimenhul](pathfinder-bestiary-3/7M7mwhETGEJjYoiY.htm)|Kimenhul (Sahkil)|`@Compendium[pf2e.pathfinder-bestiary-3.7M7mwhETGEJjYoiY]`|
-|[Kirin](pathfinder-bestiary-3/8lQf8PNcJvxwmqLd.htm)|Kirine|`@Compendium[pf2e.pathfinder-bestiary-3.8lQf8PNcJvxwmqLd]`|
+|[Kirin](pathfinder-bestiary-3/8lQf8PNcJvxwmqLd.htm)|Kirin|`@Compendium[pf2e.pathfinder-bestiary-3.8lQf8PNcJvxwmqLd]`|
 |[Kishi](pathfinder-bestiary-3/dtkq45qf18bENXBd.htm)|Kishi|`@Compendium[pf2e.pathfinder-bestiary-3.dtkq45qf18bENXBd]`|
 |[Kitsune Trickster](pathfinder-bestiary-3/3SYFPEaAl4g5G3GK.htm)|Mystificateur Kitsune|`@Compendium[pf2e.pathfinder-bestiary-3.3SYFPEaAl4g5G3GK]`|
 |[Kodama](pathfinder-bestiary-3/Fj3CXqR0Y6kgvcBE.htm)|Kodama (Kami)|`@Compendium[pf2e.pathfinder-bestiary-3.Fj3CXqR0Y6kgvcBE]`|
@@ -1849,11 +1849,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Mage-Eater Worm Swarm](pathfinder-bestiary-3/FHZPjbRmJCqnhdal.htm)|Nuée de vers Mange-mage|`@Compendium[pf2e.pathfinder-bestiary-3.FHZPjbRmJCqnhdal]`|
 |[Maharaja](pathfinder-bestiary-3/RicPhk9hLC3dDjp5.htm)|Maharaja|`@Compendium[pf2e.pathfinder-bestiary-3.RicPhk9hLC3dDjp5]`|
 |[Manticore Paaridar](pathfinder-bestiary-3/QyuUubTtR38kafue.htm)|Manticore Paaridar|`@Compendium[pf2e.pathfinder-bestiary-3.QyuUubTtR38kafue]`|
-|[Megalictis](pathfinder-bestiary-3/CjAaXJDY4xpKqQEz.htm)|Mégalictise|`@Compendium[pf2e.pathfinder-bestiary-3.CjAaXJDY4xpKqQEz]`|
+|[Megalictis](pathfinder-bestiary-3/CjAaXJDY4xpKqQEz.htm)|Belette géante|`@Compendium[pf2e.pathfinder-bestiary-3.CjAaXJDY4xpKqQEz]`|
 |[Megatherium](pathfinder-bestiary-3/lrSuRCrRjP3xBfRy.htm)|Mégathérium|`@Compendium[pf2e.pathfinder-bestiary-3.lrSuRCrRjP3xBfRy]`|
 |[Melixie](pathfinder-bestiary-3/dkDbXG0boTkddHSG.htm)|Mélixie (Sprite)|`@Compendium[pf2e.pathfinder-bestiary-3.dkDbXG0boTkddHSG]`|
 |[Mezlan](pathfinder-bestiary-3/Pvuvyd4RKVyiVWlJ.htm)|Mézlan|`@Compendium[pf2e.pathfinder-bestiary-3.Pvuvyd4RKVyiVWlJ]`|
-|[Mi-Go](pathfinder-bestiary-3/yi9g7D49uGvAdGDP.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.yi9g7D49uGvAdGDP]`|
+|[Mi-Go](pathfinder-bestiary-3/yi9g7D49uGvAdGDP.htm)|Mi-go|`@Compendium[pf2e.pathfinder-bestiary-3.yi9g7D49uGvAdGDP]`|
 |[Millindemalion](pathfinder-bestiary-3/n9xSjQA1YSlYc9p3.htm)|Millindemalion (fey)|`@Compendium[pf2e.pathfinder-bestiary-3.n9xSjQA1YSlYc9p3]`|
 |[Misery Siktempora](pathfinder-bestiary-3/LTSZ3LD1L7ZthoD2.htm)|Siktempora de la misère|`@Compendium[pf2e.pathfinder-bestiary-3.LTSZ3LD1L7ZthoD2]`|
 |[Mithral Golem](pathfinder-bestiary-3/epTO8fPDjyy2WhzD.htm)|Golem de mithral|`@Compendium[pf2e.pathfinder-bestiary-3.epTO8fPDjyy2WhzD]`|
@@ -1863,20 +1863,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Monkey](pathfinder-bestiary-3/pFUv7BzSjYTOo5mO.htm)|Singe (primate)|`@Compendium[pf2e.pathfinder-bestiary-3.pFUv7BzSjYTOo5mO]`|
 |[Monkey Swarm](pathfinder-bestiary-3/sESP4UwiJHeNUYEv.htm)|Nuée de singes|`@Compendium[pf2e.pathfinder-bestiary-3.sESP4UwiJHeNUYEv]`|
 |[Moon Hag](pathfinder-bestiary-3/qm0YqO9ik2U2Gjdx.htm)|Guenaude de la lune|`@Compendium[pf2e.pathfinder-bestiary-3.qm0YqO9ik2U2Gjdx]`|
-|[Moose](pathfinder-bestiary-3/XXsOK8ZUoqQATarG.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.XXsOK8ZUoqQATarG]`|
+|[Moose](pathfinder-bestiary-3/XXsOK8ZUoqQATarG.htm)|Élan|`@Compendium[pf2e.pathfinder-bestiary-3.XXsOK8ZUoqQATarG]`|
 |[Mothman](pathfinder-bestiary-3/L5cNazEKC5gASp41.htm)|Homme-phalène|`@Compendium[pf2e.pathfinder-bestiary-3.L5cNazEKC5gASp41]`|
 |[Munagola](pathfinder-bestiary-3/mbu0D45HPRNAwgEU.htm)|Munagola|`@Compendium[pf2e.pathfinder-bestiary-3.mbu0D45HPRNAwgEU]`|
 |[Munavri Spellblade](pathfinder-bestiary-3/6A317pomsGPzW17M.htm)|Magelame munavri|`@Compendium[pf2e.pathfinder-bestiary-3.6A317pomsGPzW17M]`|
-|[Myceloid](pathfinder-bestiary-3/Z5RBfl8x39uFpDUn.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.Z5RBfl8x39uFpDUn]`|
+|[Myceloid](pathfinder-bestiary-3/Z5RBfl8x39uFpDUn.htm)|Mycéloïde|`@Compendium[pf2e.pathfinder-bestiary-3.Z5RBfl8x39uFpDUn]`|
 |[Nagaji Soldier](pathfinder-bestiary-3/NikAalo85JWVE6d2.htm)|Soldat Nagaji|`@Compendium[pf2e.pathfinder-bestiary-3.NikAalo85JWVE6d2]`|
 |[Namorrodor](pathfinder-bestiary-3/kBIl96jzJjOd0LkZ.htm)|Namorrodor|`@Compendium[pf2e.pathfinder-bestiary-3.kBIl96jzJjOd0LkZ]`|
 |[Narwhal](pathfinder-bestiary-3/AmkhY7NErzNgbsN0.htm)|Narval|`@Compendium[pf2e.pathfinder-bestiary-3.AmkhY7NErzNgbsN0]`|
 |[Necril Worm Swarm](pathfinder-bestiary-3/JlFBu8zobNq3daVF.htm)|Nuée de vers nécromantiques|`@Compendium[pf2e.pathfinder-bestiary-3.JlFBu8zobNq3daVF]`|
 |[Nemhaith](pathfinder-bestiary-3/d5UfBtz09fOXKSmr.htm)|Nemhaith|`@Compendium[pf2e.pathfinder-bestiary-3.d5UfBtz09fOXKSmr]`|
 |[Nightgaunt](pathfinder-bestiary-3/eYKWJCYNqqp1rp2i.htm)|Échalas sombre|`@Compendium[pf2e.pathfinder-bestiary-3.eYKWJCYNqqp1rp2i]`|
-|[Nightmarchers](pathfinder-bestiary-3/xswHz64371Sb9Let.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.xswHz64371Sb9Let]`|
+|[Nightmarchers](pathfinder-bestiary-3/xswHz64371Sb9Let.htm)|Noctambule|`@Compendium[pf2e.pathfinder-bestiary-3.xswHz64371Sb9Let]`|
 |[Nikaramsa](pathfinder-bestiary-3/HEgGta4uVmwdkw3E.htm)|Nikaramsa (Asura)|`@Compendium[pf2e.pathfinder-bestiary-3.HEgGta4uVmwdkw3E]`|
-|[Nosferatu Malefactor](pathfinder-bestiary-3/BEzfxlrA0CNfh4Fr.htm)|Scélérat Nosferatu|`@Compendium[pf2e.pathfinder-bestiary-3.BEzfxlrA0CNfh4Fr]`|
+|[Nosferatu Malefactor](pathfinder-bestiary-3/BEzfxlrA0CNfh4Fr.htm)|Scélérat nosferatu|`@Compendium[pf2e.pathfinder-bestiary-3.BEzfxlrA0CNfh4Fr]`|
 |[Nosferatu Overlord](pathfinder-bestiary-3/aAU3gHWd1a9DyQPH.htm)|Seigneur Nosferatu|`@Compendium[pf2e.pathfinder-bestiary-3.aAU3gHWd1a9DyQPH]`|
 |[Nosferatu Thrall](pathfinder-bestiary-3/tQIYWBefvpemUVeJ.htm)|Esclave Nosferatu|`@Compendium[pf2e.pathfinder-bestiary-3.tQIYWBefvpemUVeJ]`|
 |[Nucol](pathfinder-bestiary-3/vzBsZqtGuj2FVLGj.htm)|Nucol (Sahkil)|`@Compendium[pf2e.pathfinder-bestiary-3.vzBsZqtGuj2FVLGj]`|
@@ -1899,17 +1899,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Piranha Swarm](pathfinder-bestiary-3/dCJDmNm6WSKf0AY4.htm)|Nuée de piranhas|`@Compendium[pf2e.pathfinder-bestiary-3.dCJDmNm6WSKf0AY4]`|
 |[Plague Giant](pathfinder-bestiary-3/ZMrydoEfgGUAJGNI.htm)|Géant de la peste|`@Compendium[pf2e.pathfinder-bestiary-3.ZMrydoEfgGUAJGNI]`|
 |[Platecarpus](pathfinder-bestiary-3/SuI5sxy5cuc0lnsh.htm)|Platecarpus|`@Compendium[pf2e.pathfinder-bestiary-3.SuI5sxy5cuc0lnsh]`|
-|[Popobawa](pathfinder-bestiary-3/AybyC0n2CWNbXAbK.htm)|Popobala|`@Compendium[pf2e.pathfinder-bestiary-3.AybyC0n2CWNbXAbK]`|
+|[Popobawa](pathfinder-bestiary-3/AybyC0n2CWNbXAbK.htm)|Popobawa|`@Compendium[pf2e.pathfinder-bestiary-3.AybyC0n2CWNbXAbK]`|
 |[Primal Living Rune](pathfinder-bestiary-3/WfCLrFwwWSA7KRUu.htm)|Rune vivante primordiale|`@Compendium[pf2e.pathfinder-bestiary-3.WfCLrFwwWSA7KRUu]`|
 |[Procyal](pathfinder-bestiary-3/Vi2p9VroteSHsSy9.htm)|Procyal (Agathion raton-laveur)|`@Compendium[pf2e.pathfinder-bestiary-3.Vi2p9VroteSHsSy9]`|
 |[Pufferfish](pathfinder-bestiary-3/9rugdliEg2udjROC.htm)|Poisson-globe|`@Compendium[pf2e.pathfinder-bestiary-3.9rugdliEg2udjROC]`|
 |[Pukwudgie](pathfinder-bestiary-3/cMBXcfS0DuZ7O2vm.htm)|Pukwudgie|`@Compendium[pf2e.pathfinder-bestiary-3.cMBXcfS0DuZ7O2vm]`|
 |[Quintessivore](pathfinder-bestiary-3/qnFiUNUyH0zuG6hj.htm)|Quintessivore|`@Compendium[pf2e.pathfinder-bestiary-3.qnFiUNUyH0zuG6hj]`|
 |[Raktavarna](pathfinder-bestiary-3/8M91u7Q3javRQVEY.htm)|Raktavarna|`@Compendium[pf2e.pathfinder-bestiary-3.8M91u7Q3javRQVEY]`|
-|[Rancorous Priesthood](pathfinder-bestiary-3/vOTFqODTDDC2BDLx.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.vOTFqODTDDC2BDLx]`|
+|[Rancorous Priesthood](pathfinder-bestiary-3/vOTFqODTDDC2BDLx.htm)|Prêtrise vindicative|`@Compendium[pf2e.pathfinder-bestiary-3.vOTFqODTDDC2BDLx]`|
 |[Rat Snake Swarm](pathfinder-bestiary-3/60bknqrpHs2lL4pt.htm)|Nuée de serpents-rats|`@Compendium[pf2e.pathfinder-bestiary-3.60bknqrpHs2lL4pt]`|
 |[Red Fox](pathfinder-bestiary-3/nr8EXKLSejspbb3d.htm)|Renard roux|`@Compendium[pf2e.pathfinder-bestiary-3.nr8EXKLSejspbb3d]`|
-|[Rhu-chalik](pathfinder-bestiary-3/XmOYhscNHFw7M2G0.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.XmOYhscNHFw7M2G0]`|
+|[Rhu-chalik](pathfinder-bestiary-3/XmOYhscNHFw7M2G0.htm)|Rhu-chalik|`@Compendium[pf2e.pathfinder-bestiary-3.XmOYhscNHFw7M2G0]`|
 |[Ringhorn Ram](pathfinder-bestiary-3/S6V3z6bE6G9J68tE.htm)|Bélier corne-anneaux|`@Compendium[pf2e.pathfinder-bestiary-3.S6V3z6bE6G9J68tE]`|
 |[Roiling Incant](pathfinder-bestiary-3/QWx9cIVUeP7dMOez.htm)|Incantation tourbillonante|`@Compendium[pf2e.pathfinder-bestiary-3.QWx9cIVUeP7dMOez]`|
 |[Rokurokubi](pathfinder-bestiary-3/kSk6QjH4wDGPPFrY.htm)|Rokurokubi|`@Compendium[pf2e.pathfinder-bestiary-3.kSk6QjH4wDGPPFrY]`|
@@ -1917,14 +1917,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sabosan](pathfinder-bestiary-3/92nVPdtlJR5uHzIl.htm)|Sabosan|`@Compendium[pf2e.pathfinder-bestiary-3.92nVPdtlJR5uHzIl]`|
 |[Samsaran Anchorite](pathfinder-bestiary-3/Gf3g6wQquSjJhFMC.htm)|Anachorète samsarien|`@Compendium[pf2e.pathfinder-bestiary-3.Gf3g6wQquSjJhFMC]`|
 |[Sasquatch](pathfinder-bestiary-3/ss5f2tMeJWO3u8GU.htm)|Sasquatch|`@Compendium[pf2e.pathfinder-bestiary-3.ss5f2tMeJWO3u8GU]`|
-|[Scalescribe](pathfinder-bestiary-3/VUYg62jFjYB5Mxh0.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.VUYg62jFjYB5Mxh0]`|
+|[Scalescribe](pathfinder-bestiary-3/VUYg62jFjYB5Mxh0.htm)|Scribe d'écailles|`@Compendium[pf2e.pathfinder-bestiary-3.VUYg62jFjYB5Mxh0]`|
 |[Seaweed Leshy](pathfinder-bestiary-3/tQBUoh5wLJXiFdX6.htm)|Léchi algue|`@Compendium[pf2e.pathfinder-bestiary-3.tQBUoh5wLJXiFdX6]`|
 |[Seething Spirit](pathfinder-bestiary-3/mK7FwVR1yyqeMlA4.htm)|Esprit fulminant|`@Compendium[pf2e.pathfinder-bestiary-3.mK7FwVR1yyqeMlA4]`|
 |[Sepid](pathfinder-bestiary-3/UTqProdd8LA0X1BQ.htm)|Sépide (Div)|`@Compendium[pf2e.pathfinder-bestiary-3.UTqProdd8LA0X1BQ]`|
-|[Severed Head](pathfinder-bestiary-3/Wq0Euk0RK6rhRDsN.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.Wq0Euk0RK6rhRDsN]`|
+|[Severed Head](pathfinder-bestiary-3/Wq0Euk0RK6rhRDsN.htm)|Tête coupée|`@Compendium[pf2e.pathfinder-bestiary-3.Wq0Euk0RK6rhRDsN]`|
 |[Shabti Redeemer](pathfinder-bestiary-3/RjJzLQ1nuPtKvnXU.htm)|Rédempteur Shabti|`@Compendium[pf2e.pathfinder-bestiary-3.RjJzLQ1nuPtKvnXU]`|
 |[Shae](pathfinder-bestiary-3/2vvPHlLhgDGr8fOF.htm)|Shae|`@Compendium[pf2e.pathfinder-bestiary-3.2vvPHlLhgDGr8fOF]`|
-|[Shambler Troop](pathfinder-bestiary-3/cbduxhlI7JbONLXF.htm)|Troupe du désordre|`@Compendium[pf2e.pathfinder-bestiary-3.cbduxhlI7JbONLXF]`|
+|[Shambler Troop](pathfinder-bestiary-3/cbduxhlI7JbONLXF.htm)|Troupe de titubeurs|`@Compendium[pf2e.pathfinder-bestiary-3.cbduxhlI7JbONLXF]`|
 |[Shantak](pathfinder-bestiary-3/HhuHFmaq69ekSgEl.htm)|Shantak|`@Compendium[pf2e.pathfinder-bestiary-3.HhuHFmaq69ekSgEl]`|
 |[Shaukeen](pathfinder-bestiary-3/UxiwQ2Nmvfk9Q9tC.htm)|Shaukéen (Asura)|`@Compendium[pf2e.pathfinder-bestiary-3.UxiwQ2Nmvfk9Q9tC]`|
 |[Shikigami](pathfinder-bestiary-3/JKF2cMQEWkA5avCO.htm)|Shikigami (Kami)|`@Compendium[pf2e.pathfinder-bestiary-3.JKF2cMQEWkA5avCO]`|
@@ -1934,7 +1934,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Skeleton Infantry](pathfinder-bestiary-3/iiXjQ1SchGiotpVp.htm)|Squelette d'infanterie|`@Compendium[pf2e.pathfinder-bestiary-3.iiXjQ1SchGiotpVp]`|
 |[Skinstitch](pathfinder-bestiary-3/6AvQH0XXccorLE6d.htm)|Maille-peaux|`@Compendium[pf2e.pathfinder-bestiary-3.6AvQH0XXccorLE6d]`|
 |[Skull Peeler](pathfinder-bestiary-3/rOBXOcxMcnFR2P9y.htm)|Écorcheur de crânes|`@Compendium[pf2e.pathfinder-bestiary-3.rOBXOcxMcnFR2P9y]`|
-|[Skunk](pathfinder-bestiary-3/CFzeAzMfGHkzCF7h.htm)|Sconse|`@Compendium[pf2e.pathfinder-bestiary-3.CFzeAzMfGHkzCF7h]`|
+|[Skunk](pathfinder-bestiary-3/CFzeAzMfGHkzCF7h.htm)|Putois|`@Compendium[pf2e.pathfinder-bestiary-3.CFzeAzMfGHkzCF7h]`|
 |[Slithering Pit](pathfinder-bestiary-3/2DrerJYEJon5U6Fx.htm)|Fosse ondulante|`@Compendium[pf2e.pathfinder-bestiary-3.2DrerJYEJon5U6Fx]`|
 |[Sorcerous Skull Swarm](pathfinder-bestiary-3/YO3aTYRNGXWiSRal.htm)|Nuée de crânes sorciers|`@Compendium[pf2e.pathfinder-bestiary-3.YO3aTYRNGXWiSRal]`|
 |[Soul Skelm](pathfinder-bestiary-3/O8iynsWnjObQ8TJl.htm)|Skelm d'âme|`@Compendium[pf2e.pathfinder-bestiary-3.O8iynsWnjObQ8TJl]`|
@@ -1946,11 +1946,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Stone Lion Cub](pathfinder-bestiary-3/NSD8H0xzbSWOgt7x.htm)|Lionceau de pierre|`@Compendium[pf2e.pathfinder-bestiary-3.NSD8H0xzbSWOgt7x]`|
 |[Storm Hag](pathfinder-bestiary-3/wVMMl1jfxWyqU4yq.htm)|Guenaude de la tempête|`@Compendium[pf2e.pathfinder-bestiary-3.wVMMl1jfxWyqU4yq]`|
 |[Street Skelm](pathfinder-bestiary-3/rBHAfYDWpEuzbzqV.htm)|Skelm de rue|`@Compendium[pf2e.pathfinder-bestiary-3.rBHAfYDWpEuzbzqV]`|
-|[Strix Kinmate](pathfinder-bestiary-3/XrSz2IIKbeYFGILW.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.XrSz2IIKbeYFGILW]`|
+|[Strix Kinmate](pathfinder-bestiary-3/XrSz2IIKbeYFGILW.htm)|Strix|`@Compendium[pf2e.pathfinder-bestiary-3.XrSz2IIKbeYFGILW]`|
 |[Sturzstromer](pathfinder-bestiary-3/cWlntwaa4HPFEf3u.htm)|Sturzstromeur|`@Compendium[pf2e.pathfinder-bestiary-3.cWlntwaa4HPFEf3u]`|
 |[Sulfur Zombie](pathfinder-bestiary-3/A7TFAr1rBtKJyprn.htm)|Zombie de souffre|`@Compendium[pf2e.pathfinder-bestiary-3.A7TFAr1rBtKJyprn]`|
 |[Sumbreiva](pathfinder-bestiary-3/NQzkW5D28zIGESBt.htm)|Sumbreiva|`@Compendium[pf2e.pathfinder-bestiary-3.NQzkW5D28zIGESBt]`|
-|[Swordkeeper](pathfinder-bestiary-3/Y8lQqtOgXYXDCPFg.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.Y8lQqtOgXYXDCPFg]`|
+|[Swordkeeper](pathfinder-bestiary-3/Y8lQqtOgXYXDCPFg.htm)|Gardien d'épées|`@Compendium[pf2e.pathfinder-bestiary-3.Y8lQqtOgXYXDCPFg]`|
 |[Tattoo Guardian](pathfinder-bestiary-3/FjiovYhLSHDX0ODl.htm)|Garde-tatoué|`@Compendium[pf2e.pathfinder-bestiary-3.FjiovYhLSHDX0ODl]`|
 |[Terra-cotta Garrison](pathfinder-bestiary-3/QLxcPfaHfc1vmF1Y.htm)|Garnison de soldats en terre cuite|`@Compendium[pf2e.pathfinder-bestiary-3.QLxcPfaHfc1vmF1Y]`|
 |[Terra-cotta Soldier](pathfinder-bestiary-3/ULfACJrDBnZLNBKj.htm)|Soldat en terre cuite|`@Compendium[pf2e.pathfinder-bestiary-3.ULfACJrDBnZLNBKj]`|
@@ -1962,7 +1962,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Tidehawk](pathfinder-bestiary-3/2L2iQ9X8tYPH2K9s.htm)|Faucon des marées|`@Compendium[pf2e.pathfinder-bestiary-3.2L2iQ9X8tYPH2K9s]`|
 |[Tikbalang](pathfinder-bestiary-3/HObVT8aJnsx5nnqu.htm)|Tikbalang|`@Compendium[pf2e.pathfinder-bestiary-3.HObVT8aJnsx5nnqu]`|
 |[Tolokand](pathfinder-bestiary-3/kuh9DOsFXybRZRlj.htm)|Tolokande|`@Compendium[pf2e.pathfinder-bestiary-3.kuh9DOsFXybRZRlj]`|
-|[Tomb Giant](pathfinder-bestiary-3/vwzfmjR0Me6xPdTP.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.vwzfmjR0Me6xPdTP]`|
+|[Tomb Giant](pathfinder-bestiary-3/vwzfmjR0Me6xPdTP.htm)|Géant des tombes|`@Compendium[pf2e.pathfinder-bestiary-3.vwzfmjR0Me6xPdTP]`|
 |[Tooth Fairy](pathfinder-bestiary-3/HPVVewX9vqKH94xf.htm)|Fée des dents|`@Compendium[pf2e.pathfinder-bestiary-3.HPVVewX9vqKH94xf]`|
 |[Tooth Fairy Swarm](pathfinder-bestiary-3/NUWL7LHDqmP0c7OB.htm)|Nuée de fées des dents|`@Compendium[pf2e.pathfinder-bestiary-3.NUWL7LHDqmP0c7OB]`|
 |[Toshigami](pathfinder-bestiary-3/BMHkCVNiEbnmUVft.htm)|Toshigami (Kami)|`@Compendium[pf2e.pathfinder-bestiary-3.BMHkCVNiEbnmUVft]`|
@@ -1991,11 +1991,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Winter Hag](pathfinder-bestiary-3/KTzSpyphiJ78EnBd.htm)|Guenaude d'hiver|`@Compendium[pf2e.pathfinder-bestiary-3.KTzSpyphiJ78EnBd]`|
 |[Wizard Sponge](pathfinder-bestiary-3/tdSnY3lgYJnsvB8n.htm)|Éponge de mage|`@Compendium[pf2e.pathfinder-bestiary-3.tdSnY3lgYJnsvB8n]`|
 |[Wizard Sponge (Crypt)](pathfinder-bestiary-3/dKFzkdgTntTm8ydA.htm)|Éponge du mage (Crypte)|`@Compendium[pf2e.pathfinder-bestiary-3.dKFzkdgTntTm8ydA]`|
-|[Wizard Sponge (Fey Domain)](pathfinder-bestiary-3/sNeIVL8w7NPFtpK2.htm)|Éponge de mage (Domaine des feys)|`@Compendium[pf2e.pathfinder-bestiary-3.sNeIVL8w7NPFtpK2]`|
+|[Wizard Sponge (Fey Domain)](pathfinder-bestiary-3/sNeIVL8w7NPFtpK2.htm)|Éponge de mage (Domaine des fées)|`@Compendium[pf2e.pathfinder-bestiary-3.sNeIVL8w7NPFtpK2]`|
 |[Wizard Sponge (Fiendish Temple)](pathfinder-bestiary-3/Al5OHM0hbWcqIplK.htm)|Éponge de mage (Temple fiélon)|`@Compendium[pf2e.pathfinder-bestiary-3.Al5OHM0hbWcqIplK]`|
 |[Wizard Sponge (Toxic Lair)](pathfinder-bestiary-3/TeaF0WreNshQxbe8.htm)|Éponge de mage (Antre toxique)|`@Compendium[pf2e.pathfinder-bestiary-3.TeaF0WreNshQxbe8]`|
 |[Wizard Sponge (Underwater)](pathfinder-bestiary-3/rqNNvJO0XEVHWwbW.htm)|Éponge de mage (Aquatique)|`@Compendium[pf2e.pathfinder-bestiary-3.rqNNvJO0XEVHWwbW]`|
-|[Wolliped](pathfinder-bestiary-3/yCyZlDAaJ6cDYtB7.htm)||`@Compendium[pf2e.pathfinder-bestiary-3.yCyZlDAaJ6cDYtB7]`|
+|[Wolliped](pathfinder-bestiary-3/yCyZlDAaJ6cDYtB7.htm)|Wollipède|`@Compendium[pf2e.pathfinder-bestiary-3.yCyZlDAaJ6cDYtB7]`|
 |[Wyrmwraith](pathfinder-bestiary-3/NldgVUIHB3asozHm.htm)|Spectre de dragon|`@Compendium[pf2e.pathfinder-bestiary-3.NldgVUIHB3asozHm]`|
 |[Wyrwood Sneak](pathfinder-bestiary-3/3OrdGXuPXSlrLlbf.htm)|Wyrwood furtif|`@Compendium[pf2e.pathfinder-bestiary-3.3OrdGXuPXSlrLlbf]`|
 |[Ximtal](pathfinder-bestiary-3/q2ja0fkdr4PeZOTE.htm)|Ximtal (Sahkil)|`@Compendium[pf2e.pathfinder-bestiary-3.q2ja0fkdr4PeZOTE]`|
@@ -3311,7 +3311,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Different Worlds](feats/general-01-z1Z22gTp7J1VRLSR.htm)|Mondes différents|`@Compendium[pf2e.feats-srd.z1Z22gTp7J1VRLSR]`|
 |[Dig Quickly](feats/ancestry-01-PsLne80WUsD4IFa6.htm)|Creuser rapidement|`@Compendium[pf2e.feats-srd.PsLne80WUsD4IFa6]`|
 |[Dig Up Secrets](feats/ancestry-01-Zr1sspa9Q16V8uZV.htm)|Déterrer les secrets|`@Compendium[pf2e.feats-srd.Zr1sspa9Q16V8uZV]`|
-|[Dig Up Secrets](feats/bonus-00-Zr1sspa9Q16V8uZV.htm)|Déterrer les secrets|`@Compendium[pf2e.feats-srd.Zr1sspa9Q16V8uZV]`|
 |[Dire Form](feats/ancestry-13-X5NRdQ1W0Y5t6MFi.htm)|Forme sauvage|`@Compendium[pf2e.feats-srd.X5NRdQ1W0Y5t6MFi]`|
 |[Directed Audience](feats/class-02-ot0uyFtnC1Whz5bp.htm)|Public choisi|`@Compendium[pf2e.feats-srd.ot0uyFtnC1Whz5bp]`|
 |[Directed Channel](feats/class-04-iojlXjVdbzi1fZGt.htm)|Canalisation dirigée|`@Compendium[pf2e.feats-srd.iojlXjVdbzi1fZGt]`|
@@ -3731,7 +3730,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fortified Flesh](feats/archetype-08-7vOVPzsVuyE5a3Rp.htm)|Renforcement de la chair|`@Compendium[pf2e.feats-srd.7vOVPzsVuyE5a3Rp]`|
 |[Fortify Shield](feats/ancestry-05-DidzozerKLZ2UYLx.htm)|Bouclier fortifié|`@Compendium[pf2e.feats-srd.DidzozerKLZ2UYLx]`|
 |[Fortutious Shift](feats/ancestry-09-Twhkz2FfzaZezVnG.htm)|Phasage fortuit|`@Compendium[pf2e.feats-srd.Twhkz2FfzaZezVnG]`|
-|[Fountain of Secrets](feats/bonus-17-MzdoJWpqyMmMDI1F.htm)|Fontaine de secrets|`@Compendium[pf2e.feats-srd.MzdoJWpqyMmMDI1F]`|
 |[Fountain of Secrets](feats/ancestry-17-MzdoJWpqyMmMDI1F.htm)|Fontaine de secrets|`@Compendium[pf2e.feats-srd.MzdoJWpqyMmMDI1F]`|
 |[Fox Trick](feats/ancestry-09-g9AOSz4QDAlUee9M.htm)|Astuce du renard|`@Compendium[pf2e.feats-srd.g9AOSz4QDAlUee9M]`|
 |[Foxfire (Cold)](feats/ancestry-01-qCV04rZMty2TJBrX.htm)||`@Compendium[pf2e.feats-srd.qCV04rZMty2TJBrX]`|
@@ -3783,7 +3781,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Glory And Valor!](feats/ancestry-09-2GrlSP1xhKIz4G8B.htm)|Gloire et valeur !|`@Compendium[pf2e.feats-srd.2GrlSP1xhKIz4G8B]`|
 |[Glyph Expert](feats/archetype-08-qUBr1YsQw3BSNy9c.htm)|Expert des glyphes|`@Compendium[pf2e.feats-srd.qUBr1YsQw3BSNy9c]`|
 |[Gnaw](feats/ancestry-05-LNyTKhIZlM17026W.htm)|Ronger|`@Compendium[pf2e.feats-srd.LNyTKhIZlM17026W]`|
-|[Gnoll Lore](feats/bonus-00-rWiddU8fHl0TraoN.htm)|Connaissance des gnolls|`@Compendium[pf2e.feats-srd.rWiddU8fHl0TraoN]`|
 |[Gnoll Lore](feats/ancestry-01-rWiddU8fHl0TraoN.htm)|Connaissance des gnolls|`@Compendium[pf2e.feats-srd.rWiddU8fHl0TraoN]`|
 |[Gnoll Weapon Expertise](feats/ancestry-13-bj0y7JnIboNfCuC8.htm)|Expertise avec les armes des gnolls|`@Compendium[pf2e.feats-srd.bj0y7JnIboNfCuC8]`|
 |[Gnoll Weapon Familiarity](feats/ancestry-01-zb7F0M3H8PN3XsdX.htm)|Familiarité avec les armes gnolls|`@Compendium[pf2e.feats-srd.zb7F0M3H8PN3XsdX]`|
@@ -4755,7 +4752,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Runtsage](feats/ancestry-05-qUZnrueC2a0zf95N.htm)|Ami des avortons|`@Compendium[pf2e.feats-srd.qUZnrueC2a0zf95N]`|
 |[Saber Teeth](feats/ancestry-01-AL2KD88ddEl5AetZ.htm)|Dents de sabre|`@Compendium[pf2e.feats-srd.AL2KD88ddEl5AetZ]`|
 |[Sabotage](feats/class-04-vDeG0N4kzTBDTC2b.htm)|Sabotage|`@Compendium[pf2e.feats-srd.vDeG0N4kzTBDTC2b]`|
-|[Sabotage](feats/bonus-04-vDeG0N4kzTBDTC2b.htm)|Sabotage|`@Compendium[pf2e.feats-srd.vDeG0N4kzTBDTC2b]`|
 |[Sacred Defender](feats/class-20-JaBDNtNYYDfTGYad.htm)|Défenseur sacré|`@Compendium[pf2e.feats-srd.JaBDNtNYYDfTGYad]`|
 |[Sacred Defense](feats/skill-07-gHBdjbEnIK8clK8u.htm)|Défense sacrée|`@Compendium[pf2e.feats-srd.gHBdjbEnIK8clK8u]`|
 |[Sacred Ki](feats/class-04-Ux0DSklFlIlcvnhO.htm)|Ki sacré|`@Compendium[pf2e.feats-srd.Ux0DSklFlIlcvnhO]`|
@@ -8298,9 +8294,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sky-Piercing Bow](equipment/weapon-19-jBn5TdnxOvzf6a1F.htm)|Arc Perce-ciel|`@Compendium[pf2e.equipment-srd.jBn5TdnxOvzf6a1F]`|
 |[Slates of Distant Letters](equipment/equipment-13-1IeT2jIpBxxUo1uD.htm)|Ardoises des lettres distantes|`@Compendium[pf2e.equipment-srd.1IeT2jIpBxxUo1uD]`|
 |[Sleep Arrow](equipment/consumable-03-RcQ4ZIzRK2xLf4G5.htm)|Flèche soporifique|`@Compendium[pf2e.equipment-srd.RcQ4ZIzRK2xLf4G5]`|
-|[Sleeves of Storage](equipment/equipment-04-1pglC9PQx6yOgcKL.htm)|Poches de manches|`@Compendium[pf2e.equipment-srd.1pglC9PQx6yOgcKL]`|
 |[Sleeves of Storage](equipment/backpack-04-1pglC9PQx6yOgcKL.htm)|Poches de manches|`@Compendium[pf2e.equipment-srd.1pglC9PQx6yOgcKL]`|
-|[Sleeves of Storage (Greater)](equipment/equipment-09-3hv6NVC2rVu4QCNt.htm)|Poches de manche (supérieur)|`@Compendium[pf2e.equipment-srd.3hv6NVC2rVu4QCNt]`|
 |[Sleeves of Storage (Greater)](equipment/backpack-09-3hv6NVC2rVu4QCNt.htm)|Poches de manche (supérieur)|`@Compendium[pf2e.equipment-srd.3hv6NVC2rVu4QCNt]`|
 |[Slick](equipment/equipment-03-uQOaRpfkUFVYD0Gx.htm)|Glissante (rune)|`@Compendium[pf2e.equipment-srd.uQOaRpfkUFVYD0Gx]`|
 |[Slick (Greater)](equipment/equipment-08-LiJMupjynmkM5Mld.htm)|Glissante (rune, supérieure)|`@Compendium[pf2e.equipment-srd.LiJMupjynmkM5Mld]`|
