@@ -3,7 +3,7 @@
  * **libre**: 120
 
 
-Dernière mise à jour: 2021-07-27 07:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
