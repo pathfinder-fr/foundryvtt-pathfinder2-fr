@@ -101,10 +101,10 @@ for pack in packs:
     # spells
     # https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/tree/master/data/spells
     if pack_id == 'spells':
-      addIfNotNull(translation, 'target', emptyAsNull(tryGetDict(data, 'dataFR', 'targetFR')))
-      addIfNotNull(miscData, 'target', emptyAsNull(tryGetDict(data, 'dataEN', 'targetEN')))
-      addIfNotNull(translation, 'range', emptyAsNull(tryGetDict(data, 'dataFR', 'rangeFR')))
-      addIfNotNull(miscData, 'range', emptyAsNull(tryGetDict(data, 'dataEN', 'rangeEN')))
+      addIfNotNull(translation, 'target', emptyAsNull(tryGetDict(data, 'dataFR', 'Target')))
+      addIfNotNull(miscData, 'target', emptyAsNull(tryGetDict(data, 'dataEN', 'Target')))
+      addIfNotNull(translation, 'range', emptyAsNull(tryGetDict(data, 'dataFR', 'Range')))
+      addIfNotNull(miscData, 'range', emptyAsNull(tryGetDict(data, 'dataEN', 'Range')))
 
     # store translation
     frDatas[data_id] = frData
