@@ -39,6 +39,7 @@ for pack in packs:
   pack_id = pack['id']
   path = "../data/%s/" % pack_id
   all_files = os.listdir(path)
+  print("Lecture données pack %s (%d fichiers)" % (pack_id, len(all_files)))
   for fpath in all_files:
     
     # le fichier data contient les données traduites selon le format spécifique documenté dans fileToData
@@ -72,12 +73,12 @@ for pack in packs:
 
     # feats
     # https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/tree/master/data/feats
-    if data_id == 'feats':
+    if pack_id == 'feats':
       # recherche du champ misc.Avantage correspondant à la traduction française du benefit
       addIfNotNull(translation, 'avantage', emptyAsNull(tryGetDict(data, 'misc', 'Avantage')))
 
     # store translation
-    translations[pack_id] = translation
+    translations[data_id] = translation
 
   #############################################
   # read original data from pf2 Foundry system
@@ -206,12 +207,12 @@ for pack in packs:
 
       # spells
       # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/spells.db
-      if pack_id == 'spells-srd':
+      if pack_id == 'spells':
         dataJson['school'] = enJson['data']['school']['value']
 
       # feats
       # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/feats.db
-      if pack_id == 'feats-srd':
+      if pack_id == 'feats':
         dataJson['featType'] = enJson['data']['featType']['value']
         dataJson['level'] = tryIntOrNone(enJson['data']['level']['value'])
         dataJson['traits'] = enJson['data']['traits']['value']
