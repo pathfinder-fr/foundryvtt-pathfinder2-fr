@@ -1,71 +1,121 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 235
- * **libre**: 132
- * **changé**: 4
- * **auto-trad**: 1
+ * **officielle**: 199
+ * **changé**: 69
+ * **libre**: 111
+ * **aucune**: 8
 
 
-Dernière mise à jour: 2021-05-28 07:48 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions automatiques à corriger/retraduire
+## Liste des traductions à faire
 
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[monk-15-haoTkr2U5k7kaAKN.htm](classfeatures/monk-15-haoTkr2U5k7kaAKN.htm)|Third Path to Perfection|auto-trad|
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[oracle-02-3OKTrm5rJdxFn4dR.htm](classfeatures/oracle-02-3OKTrm5rJdxFn4dR.htm)|Cosmos Mystery (Multiclass)|
+|[oracle-02-fdVLlFI1SyD7QGtu.htm](classfeatures/oracle-02-fdVLlFI1SyD7QGtu.htm)|Flames Mystery (Multiclass)|
+|[oracle-02-fEwVQUXUgUqTk4sE.htm](classfeatures/oracle-02-fEwVQUXUgUqTk4sE.htm)|Tempest Mystery (Multiclass)|
+|[oracle-02-HknLjb34RvXGrgeJ.htm](classfeatures/oracle-02-HknLjb34RvXGrgeJ.htm)|Battle Mystery (Multiclass)|
+|[oracle-02-MAPeYoCQhxz4fxcL.htm](classfeatures/oracle-02-MAPeYoCQhxz4fxcL.htm)|Ancestors Mystery (Multiclass)|
+|[oracle-02-N2CYUVBELOaZ7lj2.htm](classfeatures/oracle-02-N2CYUVBELOaZ7lj2.htm)|Lore Mystery (Multiclass)|
+|[oracle-02-T1061bjnCQWSfWJX.htm](classfeatures/oracle-02-T1061bjnCQWSfWJX.htm)|Life Mystery (Multiclass)|
+|[oracle-02-t6TbN6lCCfHPS3Z1.htm](classfeatures/oracle-02-t6TbN6lCCfHPS3Z1.htm)|Bones Mystery (Multiclass)|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[barbarian-01-dU7xRpg4kFd01hwZ.htm](classfeatures/barbarian-01-dU7xRpg4kFd01hwZ.htm)|Instinct|Instinct|changé|
+|[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|changé|
+|[alchemist-01-eNZnx4LISDNftbx2.htm](classfeatures/alchemist-01-eNZnx4LISDNftbx2.htm)|Chirurgeon|Chirurgien|changé|
+|[alchemist-01-P9quO9XZi3OWFe1k.htm](classfeatures/alchemist-01-P9quO9XZi3OWFe1k.htm)|Toxicologist|Toxicologiste|changé|
+|[alchemist-01-Pe0zmIqyTBc2Td0I.htm](classfeatures/alchemist-01-Pe0zmIqyTBc2Td0I.htm)|Advanced Alchemy|Alchimie avancée|changé|
+|[alchemist-01-tvdb1jkjl2bRZjSp.htm](classfeatures/alchemist-01-tvdb1jkjl2bRZjSp.htm)|Mutagenist|Mutagèniste|changé|
+|[alchemist-05-6zo2PJGYoig7nFpR.htm](classfeatures/alchemist-05-6zo2PJGYoig7nFpR.htm)|Field Discovery (Toxicologist)|Découverte de domaine de recherche (Toxicologiste)|changé|
+|[alchemist-05-7JK2a1D3VeWDcObo.htm](classfeatures/alchemist-05-7JK2a1D3VeWDcObo.htm)|Powerful Alchemy|Alchimie puissante|changé|
+|[alchemist-05-8QAFgy9U8PxEa7Dw.htm](classfeatures/alchemist-05-8QAFgy9U8PxEa7Dw.htm)|Field Discovery (Bomber)|Découverte de domaine de recherche (Artificier)|changé|
+|[alchemist-05-qC0Iz6SlG2i9gv6g.htm](classfeatures/alchemist-05-qC0Iz6SlG2i9gv6g.htm)|Field Discovery (Chirurgeon)|Découverte de domaine de recherche (Chirurgien)|changé|
+|[alchemist-05-V4Jt7eDnJBLv5bDj.htm](classfeatures/alchemist-05-V4Jt7eDnJBLv5bDj.htm)|Field Discovery (Mutagenist)|Découverte de domaine de recherche (Mutagèniste)|changé|
+|[alchemist-07-DFQDtT1Van4fFEHi.htm](classfeatures/alchemist-07-DFQDtT1Van4fFEHi.htm)|Perpetual Infusions (Bomber)|Infusions perpétuelles (Artificier)|changé|
+|[alchemist-07-Dug1oaVYejLmYEFt.htm](classfeatures/alchemist-07-Dug1oaVYejLmYEFt.htm)|Perpetual Infusions (Mutagenist)|Infusions perpétuelles (Mutagèniste)|changé|
+|[alchemist-07-fzvIe6FwwCuIdnjX.htm](classfeatures/alchemist-07-fzvIe6FwwCuIdnjX.htm)|Perpetual Infusions (Chirurgeon)|Infusions perpétuelles (Chirurgien)|changé|
+|[alchemist-07-LlZ5R50z9j8jysZL.htm](classfeatures/alchemist-07-LlZ5R50z9j8jysZL.htm)|Perpetual Infusions (Toxicologist)|Infusions perpétuelles (Toxicologiste)|changé|
+|[alchemist-09-76cwNLJEm4Yetnee.htm](classfeatures/alchemist-09-76cwNLJEm4Yetnee.htm)|Double Brew|Double préparation|changé|
+|[alchemist-11-8rEVg03QJ71ic3PP.htm](classfeatures/alchemist-11-8rEVg03QJ71ic3PP.htm)|Perpetual Potency (Bomber)|Efficacité perpétuelle (Artificier)|changé|
+|[alchemist-11-JOdbVu14phvdjhaY.htm](classfeatures/alchemist-11-JOdbVu14phvdjhaY.htm)|Perpetual Potency (Toxicologist)|Efficacité perpétuelle (Toxicologiste)|changé|
+|[alchemist-11-mZFqRLYOQEqKA8ri.htm](classfeatures/alchemist-11-mZFqRLYOQEqKA8ri.htm)|Perpetual Potency (Mutagenist)|Efficacité perpétuelle (Mutagèniste)|changé|
+|[alchemist-11-VS5vkqUQu4n7E28Y.htm](classfeatures/alchemist-11-VS5vkqUQu4n7E28Y.htm)|Perpetual Potency (Chirurgeon)|Efficacité perpétuelle (Chirurgien)|changé|
+|[alchemist-13-1BKdOJ0HNL6Eg3xw.htm](classfeatures/alchemist-13-1BKdOJ0HNL6Eg3xw.htm)|Greater Field Discovery (Mutagenist)|Découverte de domaine de recherche supérieure (Mutagèniste)|changé|
+|[alchemist-13-JJcaVijwRt9dsnac.htm](classfeatures/alchemist-13-JJcaVijwRt9dsnac.htm)|Greater Field Discovery (Chirurgeon)|Découverte de domaine de recherche supérieure (Chirurgien)|changé|
+|[alchemist-13-RGs4uR3CAvgbtBAA.htm](classfeatures/alchemist-13-RGs4uR3CAvgbtBAA.htm)|Greater Field Discovery (Bomber)|Découverte de domaine de recherche supérieure (Artificier)|changé|
+|[alchemist-13-tnqyQrhrZeDtDvcO.htm](classfeatures/alchemist-13-tnqyQrhrZeDtDvcO.htm)|Greater Field Discovery (Toxicologist)|Découverte de domaine de recherche supérieure (Toxicologiste)|changé|
+|[alchemist-17-3R19zS7gERhEX87F.htm](classfeatures/alchemist-17-3R19zS7gERhEX87F.htm)|Perpetual Perfection (Toxicologist)|Perfection perpétuelle (Toxicologiste)|changé|
+|[alchemist-17-CGetAmSbv06fW7GT.htm](classfeatures/alchemist-17-CGetAmSbv06fW7GT.htm)|Perpetual Perfection (Mutagenist)|Perfection perpétuelle (Mutagèniste)|changé|
+|[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|Perfection perpétuelle (Artificier)|changé|
+|[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|Perfection perpétuelle (Chirurgien)|changé|
+|[bard-01-s0VbbQJNlSgPocui.htm](classfeatures/bard-01-s0VbbQJNlSgPocui.htm)|Composition Spells|Sorts de composition|changé|
+|[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|changé|
+|[cleric-01-AvNbdGSOTWNRgcxs.htm](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Divine Spellcasting (Cleric)|Incantation divine (Prêtre)|changé|
+|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|changé|
+|[druid-01-b8pnRxGuNzG0buuh.htm](classfeatures/druid-01-b8pnRxGuNzG0buuh.htm)|Primal Spellcasting|Incantation primordiale|changé|
+|[fighter-05-gApJtAdNb9ST4Ms9.htm](classfeatures/fighter-05-gApJtAdNb9ST4Ms9.htm)|Fighter Weapon Mastery|Maîtrise martiale du guerrier|changé|
+|[monk-07-7lanxgmoOHNdtDe2.htm](classfeatures/monk-07-7lanxgmoOHNdtDe2.htm)|Path to Perfection (Will)|Voie vers la Perfection - Volonté|changé|
+|[monk-07-Bwr9G9IR4ynm5wzz.htm](classfeatures/monk-07-Bwr9G9IR4ynm5wzz.htm)|Path to Perfection (Reflex)|Voie vers la perfection - Réflexes|changé|
+|[monk-07-KIqptJsjq9pS9CP7.htm](classfeatures/monk-07-KIqptJsjq9pS9CP7.htm)|Path to Perfection (Fortitude)|Voie vers la Perfection - Vigueur|changé|
+|[monk-11-RVPhB0RqmoJg7xI6.htm](classfeatures/monk-11-RVPhB0RqmoJg7xI6.htm)|Second Path to Perfection (Will)|Deuxième voie vers la Perfection - Volonté|changé|
+|[monk-11-XZnPwZ0ohlDXlFea.htm](classfeatures/monk-11-XZnPwZ0ohlDXlFea.htm)|Second Path to Perfection (Fortitude)|Deuxième voie vers la Perfection - Vigueur|changé|
+|[monk-11-yDL9l9Klki6gE2ZD.htm](classfeatures/monk-11-yDL9l9Klki6gE2ZD.htm)|Second Path to Perfection (Reflex)|Deuxième voie vers la Perfection - Réflexes|changé|
+|[monk-15-8kukH9c4h82e3qjl.htm](classfeatures/monk-15-8kukH9c4h82e3qjl.htm)|Third Path to Perfection (Reflex)|Troisième voie vers la perfection - Réflexes|changé|
+|[monk-15-dUMsM0yDTCdV31p6.htm](classfeatures/monk-15-dUMsM0yDTCdV31p6.htm)|Third Path to Perfection (Fortitude)|Troisième voie vers la perfection - Vigueur|changé|
+|[monk-15-oVNRYF0FHbH8NsJD.htm](classfeatures/monk-15-oVNRYF0FHbH8NsJD.htm)|Third Path to Perfection (Will)|Troisième voie vers la perfection - Volonté|changé|
+|[None-01-1FPVkksuE2ncw9rF.htm](classfeatures/None-01-1FPVkksuE2ncw9rF.htm)|Ki Spells|Sorts de ki|changé|
+|[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|changé|
+|[oracle-01-NXUOtO9NytHQurlg.htm](classfeatures/oracle-01-NXUOtO9NytHQurlg.htm)|Revelation Spells|Sorts de révélation|changé|
+|[oracle-01-PRJYLksQEwT39bTl.htm](classfeatures/oracle-01-PRJYLksQEwT39bTl.htm)|Mystery|Mystère|changé|
+|[oracle-17-5LOARurr4qWkfS9K.htm](classfeatures/oracle-17-5LOARurr4qWkfS9K.htm)|Greater Resolve (Level 17)|Résolution supérieure (Niveau 17)|changé|
+|[ranger-05-QhoW8ivPvYmWzyEZ.htm](classfeatures/ranger-05-QhoW8ivPvYmWzyEZ.htm)|Ranger Weapon Expertise|Expertise avec les armes du rôdeur|changé|
+|[rogue-01-3KPZ7svIO6kmmEKH.htm](classfeatures/rogue-01-3KPZ7svIO6kmmEKH.htm)|Ruffian Racket|Trafic de roublard : Voyou|changé|
+|[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|changé|
+|[rogue-15-W1FkMHYVDg3yTU5r.htm](classfeatures/rogue-15-W1FkMHYVDg3yTU5r.htm)|Double Debilitation|Double handicap|changé|
+|[rogue-19-SUUdWG0t33VKa5q4.htm](classfeatures/rogue-19-SUUdWG0t33VKa5q4.htm)|Master Strike|Frappe de maître|changé|
+|[sorcerer-01-2goYo6VNbwC6aKF1.htm](classfeatures/sorcerer-01-2goYo6VNbwC6aKF1.htm)|Bloodline|Lignages|changé|
+|[sorcerer-01-dKTb959aCQIzSIXj.htm](classfeatures/sorcerer-01-dKTb959aCQIzSIXj.htm)|Bloodline: Wyrmblessed|Lignage : béni du Ver|changé|
+|[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|Incantation de l'ensorceleur|changé|
+|[sorcerer-01-TWR1wbPJuCLnGdFZ.htm](classfeatures/sorcerer-01-TWR1wbPJuCLnGdFZ.htm)|Bloodline: Phoenix|Lignage : Phénix|changé|
+|[swashbuckler-01-4lGhbEjlEoGP4scl.htm](classfeatures/swashbuckler-01-4lGhbEjlEoGP4scl.htm)|Wit Style|Style : Esprit|changé|
 |[swashbuckler-01-LzYi0OuOoypNb6jd.htm](classfeatures/swashbuckler-01-LzYi0OuOoypNb6jd.htm)|Panache|Panache|changé|
-|[witch-01-KPtF29AaeX2sJW0K.htm](classfeatures/witch-01-KPtF29AaeX2sJW0K.htm)|Patron|Patron|changé|
-|[wizard-07-cD3nSupdCvONuHiE.htm](classfeatures/wizard-07-cD3nSupdCvONuHiE.htm)|Expert Spellcaster (Level 7)|Incantateur expert (Niveau 7)|changé|
+|[swashbuckler-01-RQH6vigvhmiYKKjg.htm](classfeatures/swashbuckler-01-RQH6vigvhmiYKKjg.htm)|Precise Strike|Frappe précise|changé|
+|[swashbuckler-09-KxpaxUSuBC7hr4F7.htm](classfeatures/swashbuckler-09-KxpaxUSuBC7hr4F7.htm)|Exemplary Finisher|Coup final exemplaire|changé|
+|[swashbuckler-15-Z7HX6TeFsaup7Dx9.htm](classfeatures/swashbuckler-15-Z7HX6TeFsaup7Dx9.htm)|Greater Weapon Specialization (Level 15)|Spécialisation martiale supérieure (Niveau 15)|changé|
+|[swashbuckler-19-ypfT3iybew6ZSIUl.htm](classfeatures/swashbuckler-19-ypfT3iybew6ZSIUl.htm)|Eternal Confidence|Confiance éternelle|changé|
+|[witch-01-9uLh5z2uPo6LDFRY.htm](classfeatures/witch-01-9uLh5z2uPo6LDFRY.htm)|Hexes|Maléfices|changé|
+|[witch-01-SOan0fqyFTrkqJLV.htm](classfeatures/witch-01-SOan0fqyFTrkqJLV.htm)|Witch Lessons|Leçons de sorcière|changé|
+|[witch-01-yksPhweBZYVCsE1A.htm](classfeatures/witch-01-yksPhweBZYVCsE1A.htm)|Familiar (Witch)|Familier (Sorcière)|changé|
+|[witch-01-zT6QiTMxxj8JYoN9.htm](classfeatures/witch-01-zT6QiTMxxj8JYoN9.htm)|Witch Spellcasting|Incantation de sorcière|changé|
+|[witch-19-cDnFXfl3i5Z2l7JP.htm](classfeatures/witch-19-cDnFXfl3i5Z2l7JP.htm)|Patron's Gift|Don du patron|changé|
+|[wizard-01-Klb35AwlkNrq1gpB.htm](classfeatures/wizard-01-Klb35AwlkNrq1gpB.htm)|Arcane Thesis: Staff Nexus|Thèse arcanique : Bâton nexus|changé|
+|[wizard-01-S6WW4Yyg4XonXGHD.htm](classfeatures/wizard-01-S6WW4Yyg4XonXGHD.htm)|Arcane Spellcasting|Incantation arcanique|changé|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[alchemical-01-XPPG7nN9pxt0sjMg.htm](classfeatures/alchemical-01-XPPG7nN9pxt0sjMg.htm)|Formula Book|Formulaire|officielle|
-|[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|officielle|
 |[alchemist-01-cU2ofQLj7pg6wTSi.htm](classfeatures/alchemist-01-cU2ofQLj7pg6wTSi.htm)|Research Field|Domaine de recherche|officielle|
-|[alchemist-01-eNZnx4LISDNftbx2.htm](classfeatures/alchemist-01-eNZnx4LISDNftbx2.htm)|Chirurgeon|Chirurgien|officielle|
-|[alchemist-01-P9quO9XZi3OWFe1k.htm](classfeatures/alchemist-01-P9quO9XZi3OWFe1k.htm)|Toxicologist|Toxicologiste|libre|
-|[alchemist-01-Pe0zmIqyTBc2Td0I.htm](classfeatures/alchemist-01-Pe0zmIqyTBc2Td0I.htm)|Advanced Alchemy|Alchimie avancée|officielle|
 |[alchemist-01-sPtl05wwTpqFI0lL.htm](classfeatures/alchemist-01-sPtl05wwTpqFI0lL.htm)|Quick Alchemy|Alchimie rapide|officielle|
-|[alchemist-01-tvdb1jkjl2bRZjSp.htm](classfeatures/alchemist-01-tvdb1jkjl2bRZjSp.htm)|Mutagenist|Mutagèniste|officielle|
 |[alchemist-01-wySB9VHOW1v3TX1L.htm](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Infused Reagents|Réactifs imprégnés|officielle|
-|[alchemist-05-6zo2PJGYoig7nFpR.htm](classfeatures/alchemist-05-6zo2PJGYoig7nFpR.htm)|Field Discovery (Toxicologist)|Découverte de domaine de recherche (Toxicologiste)|libre|
-|[alchemist-05-7JK2a1D3VeWDcObo.htm](classfeatures/alchemist-05-7JK2a1D3VeWDcObo.htm)|Powerful Alchemy|Alchimie puissante|libre|
-|[alchemist-05-8QAFgy9U8PxEa7Dw.htm](classfeatures/alchemist-05-8QAFgy9U8PxEa7Dw.htm)|Field Discovery (Bomber)|Découverte de domaine de recherche (Artificier)|officielle|
-|[alchemist-05-qC0Iz6SlG2i9gv6g.htm](classfeatures/alchemist-05-qC0Iz6SlG2i9gv6g.htm)|Field Discovery (Chirurgeon)|Découverte de domaine de recherche (Chirurgien)|officielle|
-|[alchemist-05-V4Jt7eDnJBLv5bDj.htm](classfeatures/alchemist-05-V4Jt7eDnJBLv5bDj.htm)|Field Discovery (Mutagenist)|Découverte de domaine de recherche (Mutagèniste)|officielle|
+|[alchemist-05-IxxPEahbqXwIXum7.htm](classfeatures/alchemist-05-IxxPEahbqXwIXum7.htm)|Field Discovery|Découverte de domaine de recherche|officielle|
 |[alchemist-07-4ocPy4O0OCLY0XCM.htm](classfeatures/alchemist-07-4ocPy4O0OCLY0XCM.htm)|Alchemical Weapon Expertise|Expertise avec les armes alchimiques|officielle|
-|[alchemist-07-DFQDtT1Van4fFEHi.htm](classfeatures/alchemist-07-DFQDtT1Van4fFEHi.htm)|Perpetual Infusions (Bomber)|Infusions perpétuelles (Artificier)|officielle|
-|[alchemist-07-Dug1oaVYejLmYEFt.htm](classfeatures/alchemist-07-Dug1oaVYejLmYEFt.htm)|Perpetual Infusions (Mutagenist)|Infusions perpétuelles (Mutagèniste)|officielle|
-|[alchemist-07-fzvIe6FwwCuIdnjX.htm](classfeatures/alchemist-07-fzvIe6FwwCuIdnjX.htm)|Perpetual Infusions (Chirurgeon)|Infusions perpétuelles (Chirurgien)|officielle|
 |[alchemist-07-JVCxv4HuLaaFhAf4.htm](classfeatures/alchemist-07-JVCxv4HuLaaFhAf4.htm)|Iron Will (Level 7)|Volonté de fer (Niveau 7)|libre|
-|[alchemist-07-LlZ5R50z9j8jysZL.htm](classfeatures/alchemist-07-LlZ5R50z9j8jysZL.htm)|Perpetual Infusions (Toxicologist)|Infusions perpétuelles (Toxicologiste)|libre|
+|[alchemist-07-ZqwHAoIZrI1dGoqK.htm](classfeatures/alchemist-07-ZqwHAoIZrI1dGoqK.htm)|Perpetual Infusions|Infusions perpétuelles|libre|
 |[alchemist-09-3e1PlMXmlSwKoc6d.htm](classfeatures/alchemist-09-3e1PlMXmlSwKoc6d.htm)|Alchemical Expertise|Expertise alchimique|officielle|
-|[alchemist-09-76cwNLJEm4Yetnee.htm](classfeatures/alchemist-09-76cwNLJEm4Yetnee.htm)|Double Brew|Double préparation|officielle|
 |[alchemist-09-TAIOtk5VvPZvv4nu.htm](classfeatures/alchemist-09-TAIOtk5VvPZvv4nu.htm)|Alertness (Level 9)|Vigilance (Niveau 9)|libre|
-|[alchemist-11-8rEVg03QJ71ic3PP.htm](classfeatures/alchemist-11-8rEVg03QJ71ic3PP.htm)|Perpetual Potency (Bomber)|Efficacité perpétuelle (Artificier)|officielle|
-|[alchemist-11-JOdbVu14phvdjhaY.htm](classfeatures/alchemist-11-JOdbVu14phvdjhaY.htm)|Perpetual Potency (Toxicologist)|Efficacité perpétuelle (Toxicologiste)|libre|
-|[alchemist-11-mZFqRLYOQEqKA8ri.htm](classfeatures/alchemist-11-mZFqRLYOQEqKA8ri.htm)|Perpetual Potency (Mutagenist)|Efficacité perpétuelle (Mutagèniste)|officielle|
-|[alchemist-11-VS5vkqUQu4n7E28Y.htm](classfeatures/alchemist-11-VS5vkqUQu4n7E28Y.htm)|Perpetual Potency (Chirurgeon)|Efficacité perpétuelle (Chirurgien)|officielle|
-|[alchemist-13-1BKdOJ0HNL6Eg3xw.htm](classfeatures/alchemist-13-1BKdOJ0HNL6Eg3xw.htm)|Greater Field Discovery (Mutagenist)|Découverte de domaine de recherche supérieure (Mutagèniste)|officielle|
+|[alchemist-11-MGn2wezOr3VAdO3U.htm](classfeatures/alchemist-11-MGn2wezOr3VAdO3U.htm)|Perpetual Potency|Efficacité perpétuelle|officielle|
 |[alchemist-13-bv3Qel8v9tpoFbw4.htm](classfeatures/alchemist-13-bv3Qel8v9tpoFbw4.htm)|Alchemist Armor Expertise (Level 13)|Expertise avec les armures de l'alchimiste (Niveau 13)|libre|
-|[alchemist-13-JJcaVijwRt9dsnac.htm](classfeatures/alchemist-13-JJcaVijwRt9dsnac.htm)|Greater Field Discovery (Chirurgeon)|Découverte de domaine de recherche supérieure (Chirurgien)|officielle|
-|[alchemist-13-RGs4uR3CAvgbtBAA.htm](classfeatures/alchemist-13-RGs4uR3CAvgbtBAA.htm)|Greater Field Discovery (Bomber)|Découverte de domaine de recherche supérieure (Artificier)|officielle|
-|[alchemist-13-tnqyQrhrZeDtDvcO.htm](classfeatures/alchemist-13-tnqyQrhrZeDtDvcO.htm)|Greater Field Discovery (Toxicologist)|Découverte de domaine de recherche supérieure (Toxicologiste)|libre|
+|[alchemist-13-MEwvBnT2VsO5lQ6I.htm](classfeatures/alchemist-13-MEwvBnT2VsO5lQ6I.htm)|Greater Field Discovery|Découverte de domaine de recherche supérieure|libre|
 |[alchemist-15-Eood6pNPaJxuSgD1.htm](classfeatures/alchemist-15-Eood6pNPaJxuSgD1.htm)|Alchemical Alacrity|Alacrité alchimique|officielle|
-|[alchemist-17-3R19zS7gERhEX87F.htm](classfeatures/alchemist-17-3R19zS7gERhEX87F.htm)|Perpetual Perfection (Toxicologist)|Perfection perpétuelle (Toxicologiste)|libre|
-|[alchemist-17-CGetAmSbv06fW7GT.htm](classfeatures/alchemist-17-CGetAmSbv06fW7GT.htm)|Perpetual Perfection (Mutagenist)|Perfection perpétuelle (Mutagèniste)|officielle|
+|[alchemist-17-11nGqrSJOoGRlDjO.htm](classfeatures/alchemist-17-11nGqrSJOoGRlDjO.htm)|Perpetual Perfection|Perfection perpétuelle|libre|
 |[alchemist-17-eG7FBDjCdEFzW9V9.htm](classfeatures/alchemist-17-eG7FBDjCdEFzW9V9.htm)|Alchemical Mastery|Maîtrise alchimique|officielle|
-|[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|Perfection perpétuelle (Artificier)|officielle|
-|[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|Perfection perpétuelle (Chirurgien)|officielle|
 |[alchemist-19-FiVYuIPTBzPzNP4E.htm](classfeatures/alchemist-19-FiVYuIPTBzPzNP4E.htm)|Alchemist Armor Mastery (Level 19)|Maîtrise d'armure de l'alchimiste (Niveau 19)|libre|
 |[barbarian-01-0FtzFbUrN56KA67z.htm](classfeatures/barbarian-01-0FtzFbUrN56KA67z.htm)|Animal Instinct|Instinct animal|libre|
 |[barbarian-01-1ZugTzJHsa94AZRW.htm](classfeatures/barbarian-01-1ZugTzJHsa94AZRW.htm)|Copper Dragon Instinct|Instinct du Dragon - Cuivre|officielle|
@@ -74,6 +124,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-01-3lxIGMbsPZLNEXQ7.htm](classfeatures/barbarian-01-3lxIGMbsPZLNEXQ7.htm)|Gold Dragon Instinct|Instinct du dragon - Or|libre|
 |[barbarian-01-b5rvKZQCfpgBenKJ.htm](classfeatures/barbarian-01-b5rvKZQCfpgBenKJ.htm)|Brass Dragon Instinct|Instinct du dragon - Airain|officielle|
 |[barbarian-01-CXZwt1e6ManeBaFV.htm](classfeatures/barbarian-01-CXZwt1e6ManeBaFV.htm)|Frog Animal Instinct|Instinct animal - Grenouille|officielle|
+|[barbarian-01-dU7xRpg4kFd01hwZ.htm](classfeatures/barbarian-01-dU7xRpg4kFd01hwZ.htm)|Instinct|Instinct|officielle|
 |[barbarian-01-hyHgLQCDMSrR4RfE.htm](classfeatures/barbarian-01-hyHgLQCDMSrR4RfE.htm)|Red Dragon Instinct|Instinct du dragon - Rouge|officielle|
 |[barbarian-01-IezPDYlweTtwCqkT.htm](classfeatures/barbarian-01-IezPDYlweTtwCqkT.htm)|Green Dragon Instinct|Instinct du dragon - Vert|libre|
 |[barbarian-01-JuKD6k7nDwfO0Ckv.htm](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Giant Instinct|Instinct de géant|officielle|
@@ -110,7 +161,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-01-AIOBWGOS4nkfH3kW.htm](classfeatures/bard-01-AIOBWGOS4nkfH3kW.htm)|Muses|Muse|officielle|
 |[bard-01-fEOj0eOBe34qYdAa.htm](classfeatures/bard-01-fEOj0eOBe34qYdAa.htm)|Occult Spellcasting|Incantation occulte|officielle|
 |[bard-01-N03BtRvjX9TeHRa4.htm](classfeatures/bard-01-N03BtRvjX9TeHRa4.htm)|Warrior Muse|Muse - Combattant|libre|
-|[bard-01-s0VbbQJNlSgPocui.htm](classfeatures/bard-01-s0VbbQJNlSgPocui.htm)|Composition Spells|Sorts de composition|officielle|
 |[bard-01-y0jGimYdMGDJWrEq.htm](classfeatures/bard-01-y0jGimYdMGDJWrEq.htm)|Polymath Muse|Muse - Touche-à-tout|officielle|
 |[bard-01-YMBsi4bndRAk5CX4.htm](classfeatures/bard-01-YMBsi4bndRAk5CX4.htm)|Maestro Muse|Muse - Virtuose|officielle|
 |[bard-03-TUOeATt52P43r5W0.htm](classfeatures/bard-03-TUOeATt52P43r5W0.htm)|Lightning Reflexes (Level 3)|Réflexes fulgurants (Niveau 3)|officielle|
@@ -126,7 +176,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|Les principes du Mal|libre|
 |[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du Bien|officielle|
 |[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin|Paladin|officielle|
-|[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|officielle|
 |[champion-01-sXVX4ARUuo8Egrz5.htm](classfeatures/champion-01-sXVX4ARUuo8Egrz5.htm)|Champion's Reaction|Réaction de champion|officielle|
 |[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer|Rédempteur|officielle|
 |[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|Allié divin|officielle|
@@ -141,9 +190,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-19-LzB6X9vOaq3wq1FZ.htm](classfeatures/champion-19-LzB6X9vOaq3wq1FZ.htm)|Hero's Defiance|Défi du héros|officielle|
 |[cleric-01-0Aocw3igLwna9cjp.htm](classfeatures/cleric-01-0Aocw3igLwna9cjp.htm)|Warpriest|Prêtre combattant|officielle|
 |[cleric-01-aiwxBj5MjnafCMyn.htm](classfeatures/cleric-01-aiwxBj5MjnafCMyn.htm)|First Doctrine (Cloistered Cleric)|Premier dogme (Prêtre cloîtré)|officielle|
-|[cleric-01-AvNbdGSOTWNRgcxs.htm](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Divine Spellcasting (Cleric)|Incantation divine (Prêtre)|officielle|
 |[cleric-01-DutW12WMFPHBoLTH.htm](classfeatures/cleric-01-DutW12WMFPHBoLTH.htm)|Deity|Divinité|libre|
-|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|officielle|
 |[cleric-01-Qejo7FUWQtPTpgWH.htm](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)|First Doctrine|Doctrine : Premier dogme|officielle|
 |[cleric-01-tyrBwBTzo5t9Zho7.htm](classfeatures/cleric-01-tyrBwBTzo5t9Zho7.htm)|Doctrine|Doctrine|officielle|
 |[cleric-01-UV1HlClbWCNcaKBZ.htm](classfeatures/cleric-01-UV1HlClbWCNcaKBZ.htm)|Anathema (Cleric)|Anathème (Prêtre)|officielle|
@@ -170,7 +217,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-19-urBGOPrUwBmkixAo.htm](classfeatures/cleric-19-urBGOPrUwBmkixAo.htm)|Final Doctrine|Dernier dogme|officielle|
 |[druid-01-8STJEFVJISujgpMR.htm](classfeatures/druid-01-8STJEFVJISujgpMR.htm)|Druidic Order|Ordre druidique|officielle|
 |[druid-01-acqqlYmti8D9QJi0.htm](classfeatures/druid-01-acqqlYmti8D9QJi0.htm)|Storm Order|Ordre de la tempête|officielle|
-|[druid-01-b8pnRxGuNzG0buuh.htm](classfeatures/druid-01-b8pnRxGuNzG0buuh.htm)|Primal Spellcasting|Incantation primordiale|officielle|
 |[druid-01-d5BFFHXFJYKs5LXr.htm](classfeatures/druid-01-d5BFFHXFJYKs5LXr.htm)|Wild Empathy|Empathie sauvage|officielle|
 |[druid-01-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-01-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|officielle|
 |[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal Order|Ordre animal|officielle|
@@ -184,7 +230,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fighter-01-eZNCckLzbH3GyncH.htm](classfeatures/fighter-01-eZNCckLzbH3GyncH.htm)|Shield Block (Level 1)|Blocage au bouclier (Niveau 1)|libre|
 |[fighter-01-hmShTfPOcTaKgbf4.htm](classfeatures/fighter-01-hmShTfPOcTaKgbf4.htm)|Attack of Opportunity|Attaque d’opportunité|officielle|
 |[fighter-03-GJKJafDGuX4BeAeN.htm](classfeatures/fighter-03-GJKJafDGuX4BeAeN.htm)|Bravery|Bravoure|officielle|
-|[fighter-05-gApJtAdNb9ST4Ms9.htm](classfeatures/fighter-05-gApJtAdNb9ST4Ms9.htm)|Fighter Weapon Mastery|Maîtrise martiale du guerrier|officielle|
 |[fighter-07-TIvzBALymvb56L79.htm](classfeatures/fighter-07-TIvzBALymvb56L79.htm)|Battlefield Surveyor|Sentinelle au front|officielle|
 |[fighter-09-8g6HzARbhfcgilP8.htm](classfeatures/fighter-09-8g6HzARbhfcgilP8.htm)|Combat Flexibility|Flexibilité martiale|officielle|
 |[fighter-09-sHCFQZM0xHCOYOId.htm](classfeatures/fighter-09-sHCFQZM0xHCOYOId.htm)|Juggernaut (Level 9)|Juggernaut (Niveau 9)|libre|
@@ -218,20 +263,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[monk-05-2o1Cj7hDayDlslqY.htm](classfeatures/monk-05-2o1Cj7hDayDlslqY.htm)|Alertness (Level 5)|Vigilance (Niveau 5)|officielle|
 |[monk-05-VgZIutWjFl8oZQFi.htm](classfeatures/monk-05-VgZIutWjFl8oZQFi.htm)|Expert Strikes|Frappes expertes|officielle|
 |[monk-07-1K6m6AVmn3r8XZ9d.htm](classfeatures/monk-07-1K6m6AVmn3r8XZ9d.htm)|Path to Perfection|Voie vers la perfection|officielle|
-|[monk-07-7lanxgmoOHNdtDe2.htm](classfeatures/monk-07-7lanxgmoOHNdtDe2.htm)|Path to Perfection (Will)|Voie vers la Perfection - Volonté|officielle|
-|[monk-07-Bwr9G9IR4ynm5wzz.htm](classfeatures/monk-07-Bwr9G9IR4ynm5wzz.htm)|Path to Perfection (Reflex)|Voie vers la perfection - Réflexes|officielle|
-|[monk-07-KIqptJsjq9pS9CP7.htm](classfeatures/monk-07-KIqptJsjq9pS9CP7.htm)|Path to Perfection (Fortitude)|Voie vers la Perfection - Vigueur|officielle|
 |[monk-09-CoRfFkisEsHE1e43.htm](classfeatures/monk-09-CoRfFkisEsHE1e43.htm)|Metal Strikes|Frappes de métal|officielle|
 |[monk-09-lxImO5D0qWp0gXFB.htm](classfeatures/monk-09-lxImO5D0qWp0gXFB.htm)|Monk Expertise|Expertise du moine|officielle|
-|[monk-11-RVPhB0RqmoJg7xI6.htm](classfeatures/monk-11-RVPhB0RqmoJg7xI6.htm)|Second Path to Perfection (Will)|Deuxième voie vers la Perfection - Volonté|libre|
-|[monk-11-XZnPwZ0ohlDXlFea.htm](classfeatures/monk-11-XZnPwZ0ohlDXlFea.htm)|Second Path to Perfection (Fortitude)|Deuxième voie vers la Perfection - Vigueur|libre|
 |[monk-11-y6qnbUc8y0815QNE.htm](classfeatures/monk-11-y6qnbUc8y0815QNE.htm)|Second Path to Perfection|Deuxième voie vers la perfection|libre|
-|[monk-11-yDL9l9Klki6gE2ZD.htm](classfeatures/monk-11-yDL9l9Klki6gE2ZD.htm)|Second Path to Perfection (Reflex)|Deuxième voie vers la Perfection - Réflexes|libre|
 |[monk-13-0iidKkzC2yy13lIf.htm](classfeatures/monk-13-0iidKkzC2yy13lIf.htm)|Master Strikes|Frappes de maître|officielle|
 |[monk-13-95LI24ZSx0d4qfKX.htm](classfeatures/monk-13-95LI24ZSx0d4qfKX.htm)|Graceful Mastery|Maîtrise gracieuse|officielle|
-|[monk-15-8kukH9c4h82e3qjl.htm](classfeatures/monk-15-8kukH9c4h82e3qjl.htm)|Third Path to Perfection (Reflex)|Troisième voie vers la perfection - Réflexes|officielle|
-|[monk-15-dUMsM0yDTCdV31p6.htm](classfeatures/monk-15-dUMsM0yDTCdV31p6.htm)|Third Path to Perfection (Fortitude)|Troisième voie vers la perfection - Vigueur|officielle|
-|[monk-15-oVNRYF0FHbH8NsJD.htm](classfeatures/monk-15-oVNRYF0FHbH8NsJD.htm)|Third Path to Perfection (Will)|Troisième voie vers la perfection - Volonté|officielle|
+|[monk-15-haoTkr2U5k7kaAKN.htm](classfeatures/monk-15-haoTkr2U5k7kaAKN.htm)|Third Path to Perfection|Troisième voie vers la perfection|libre|
 |[monk-17-5cthRUkRqRtduVvN.htm](classfeatures/monk-17-5cthRUkRqRtduVvN.htm)|Adamantine Strikes|Frappes d'adamantium|officielle|
 |[monk-17-JWDfzYub3JfuEtth.htm](classfeatures/monk-17-JWDfzYub3JfuEtth.htm)|Graceful Legend|Légende gracieuse|officielle|
 |[monk-19-KmTfg7Sg5va4yU00.htm](classfeatures/monk-19-KmTfg7Sg5va4yU00.htm)|Perfected Form|Forme parfaite|officielle|
@@ -242,20 +279,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-00-UTRDN1TAieBMjwP1.htm](classfeatures/None-00-UTRDN1TAieBMjwP1.htm)|Order of the Godclaw|Ordre du dieu griffu|libre|
 |[None-00-YrJj8UI0XpkHv0Ho.htm](classfeatures/None-00-YrJj8UI0XpkHv0Ho.htm)|Order of the Chain|Ordre des chaînes|officielle|
 |[None-00-zGxO2cETUsXuvqRu.htm](classfeatures/None-00-zGxO2cETUsXuvqRu.htm)|Order of the Pyre|Ordre du bûcher|officielle|
-|[None-01-1FPVkksuE2ncw9rF.htm](classfeatures/None-01-1FPVkksuE2ncw9rF.htm)|Ki Spells|Sorts de ki|officielle|
 |[None-01-T25ZLQWn6O4KchLo.htm](classfeatures/None-01-T25ZLQWn6O4KchLo.htm)|Focus Spells|Sorts focalisés|libre|
-|[None-17-BJYSUbFUGcTLaPDn.htm](classfeatures/None-17-BJYSUbFUGcTLaPDn.htm)|Masterful Hunter (Precision)|Maître chasseur (Précision)|officielle|
-|[None-17-JhLncIB10GSQowWL.htm](classfeatures/None-17-JhLncIB10GSQowWL.htm)|Masterful Hunter (Flurry)|Maître chasseur (Déluge)|officielle|
-|[None-17-vWZaLE2fEKMBw3D5.htm](classfeatures/None-17-vWZaLE2fEKMBw3D5.htm)|Masterful Hunter (Outwit)|Maître chasseur (Ruse)|libre|
-|[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|libre|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|Mystère du combat|libre|
 |[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames Mystery|Mystère des flammes|libre|
 |[oracle-01-IaxmCkdsPlA52spu.htm](classfeatures/oracle-01-IaxmCkdsPlA52spu.htm)|Bones Mystery|Mystère des ossements|libre|
 |[oracle-01-ibX2EhKkyUtbOHLj.htm](classfeatures/oracle-01-ibX2EhKkyUtbOHLj.htm)|Oracular Curse|Malédiction oraculaire|libre|
-|[oracle-01-NXUOtO9NytHQurlg.htm](classfeatures/oracle-01-NXUOtO9NytHQurlg.htm)|Revelation Spells|Sorts de révélation|libre|
 |[oracle-01-o1gGG36wpn9mxeop.htm](classfeatures/oracle-01-o1gGG36wpn9mxeop.htm)|Life Mystery|Mystère de la vie|libre|
-|[oracle-01-PRJYLksQEwT39bTl.htm](classfeatures/oracle-01-PRJYLksQEwT39bTl.htm)|Mystery|Mystère|libre|
 |[oracle-01-qvRlih3u7vK3FYUR.htm](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Ancestors Mystery|Mystère des ancêtres|libre|
 |[oracle-01-RI2EMRBBPNSoTJXu.htm](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Cosmos Mystery|Mystère du cosmos|libre|
 |[oracle-01-tZBb3Kh4nJcNoUFI.htm](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Lore Mystery|Mystère du savoir|libre|
@@ -263,7 +293,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-07-JQAujUXjczVnYDEI.htm](classfeatures/oracle-07-JQAujUXjczVnYDEI.htm)|Resolve (Level 7)|Résolution (Niveau 7)|libre|
 |[oracle-11-rrzItB68Er0DzKx7.htm](classfeatures/oracle-11-rrzItB68Er0DzKx7.htm)|Major Curse|Malédiction majeure|libre|
 |[oracle-13-EJzjY6AIsTYqW0ee.htm](classfeatures/oracle-13-EJzjY6AIsTYqW0ee.htm)|Lightning Reflexes (Level 13)|Réflexes fulgurants (Niveau 13)|libre|
-|[oracle-17-5LOARurr4qWkfS9K.htm](classfeatures/oracle-17-5LOARurr4qWkfS9K.htm)|Greater Resolve (Level 17)|Résolution supérieure (Niveau 17)|libre|
 |[oracle-17-F4brPlp1tHGUqyuI.htm](classfeatures/oracle-17-F4brPlp1tHGUqyuI.htm)|Extreme Curse|Malédiction extrême|libre|
 |[oracle-19-571c1aGnvNVwfF6b.htm](classfeatures/oracle-19-571c1aGnvNVwfF6b.htm)|Oracular Clarity|Clarté oraculaire|libre|
 |[ranger-01-0nIOGpHQNHsKSFKT.htm](classfeatures/ranger-01-0nIOGpHQNHsKSFKT.htm)|Hunt Prey|Chasser une proie|officielle|
@@ -274,7 +303,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ranger-01-w3HysrCgDs5uFXKX.htm](classfeatures/ranger-01-w3HysrCgDs5uFXKX.htm)|Warden Spells|Sorts de gardien|libre|
 |[ranger-03-wMyDcVNmA7xGK83S.htm](classfeatures/ranger-03-wMyDcVNmA7xGK83S.htm)|Iron Will (Level 3)|Volonté de fer (Niveau 3)|officielle|
 |[ranger-05-PeZi7E9lI4vz8EGY.htm](classfeatures/ranger-05-PeZi7E9lI4vz8EGY.htm)|Trackless Step|Absence de traces|officielle|
-|[ranger-05-QhoW8ivPvYmWzyEZ.htm](classfeatures/ranger-05-QhoW8ivPvYmWzyEZ.htm)|Ranger Weapon Expertise|Expertise avec les armes du rôdeur|officielle|
 |[ranger-09-5likl5SAxQPrQ3KF.htm](classfeatures/ranger-09-5likl5SAxQPrQ3KF.htm)|Ranger Expertise|Expertise du rôdeur|officielle|
 |[ranger-09-j2R64kwUgEJ1TudD.htm](classfeatures/ranger-09-j2R64kwUgEJ1TudD.htm)|Nature's Edge|Avantage naturel|officielle|
 |[ranger-11-Ba97T4anGhizfaCt.htm](classfeatures/ranger-11-Ba97T4anGhizfaCt.htm)|Juggernaut (Level 11)|Juggernaut (Niveau 11)|libre|
@@ -282,10 +310,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ranger-11-RlwE99yKnhq8FUuy.htm](classfeatures/ranger-11-RlwE99yKnhq8FUuy.htm)|Wild Stride|Déplacement facilité en milieu naturel|officielle|
 |[ranger-15-6XwGONPdr9SFDtDc.htm](classfeatures/ranger-15-6XwGONPdr9SFDtDc.htm)|Improved Evasion (Level 15)|Évasion améliorée (Niveau 15)|officielle|
 |[ranger-15-iyb5FU2BpsCCan8Q.htm](classfeatures/ranger-15-iyb5FU2BpsCCan8Q.htm)|Incredible Senses (Level 15)|Sens extraordinaires (Niveau 15)|officielle|
+|[ranger-17-BJYSUbFUGcTLaPDn.htm](classfeatures/ranger-17-BJYSUbFUGcTLaPDn.htm)|Masterful Hunter (Precision)|Maître chasseur (Précision)|officielle|
+|[ranger-17-JhLncIB10GSQowWL.htm](classfeatures/ranger-17-JhLncIB10GSQowWL.htm)|Masterful Hunter (Flurry)|Maître chasseur (Déluge)|officielle|
 |[ranger-17-RVZC4wVy5B5W2OeS.htm](classfeatures/ranger-17-RVZC4wVy5B5W2OeS.htm)|Masterful Hunter|Maître chasseur|officielle|
+|[ranger-17-vWZaLE2fEKMBw3D5.htm](classfeatures/ranger-17-vWZaLE2fEKMBw3D5.htm)|Masterful Hunter (Outwit)|Maître chasseur (Ruse)|libre|
 |[ranger-19-bBGb1LcffXEqar0p.htm](classfeatures/ranger-19-bBGb1LcffXEqar0p.htm)|Swift Prey|Changement rapide de proie|officielle|
 |[ranger-19-phwQ2MrDZ13D2HxC.htm](classfeatures/ranger-19-phwQ2MrDZ13D2HxC.htm)|Second Skin|Seconde peau|officielle|
-|[rogue-01-3KPZ7svIO6kmmEKH.htm](classfeatures/rogue-01-3KPZ7svIO6kmmEKH.htm)|Ruffian Racket|Trafic de roublard : Voyou|officielle|
 |[rogue-01-D8qtAo2w4jsqjBrM.htm](classfeatures/rogue-01-D8qtAo2w4jsqjBrM.htm)|Eldritch Trickster Racket|Trafic de roublard : Mystificateur|libre|
 |[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|officielle|
 |[rogue-01-RyOkmu0W9svavuAB.htm](classfeatures/rogue-01-RyOkmu0W9svavuAB.htm)|Mastermind Racket|Trafic de roublard : Cerveau|libre|
@@ -294,22 +324,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|officielle|
 |[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Trafic de roublard : Scélérat|officielle|
 |[rogue-03-PNpmVmD21zViDtGC.htm](classfeatures/rogue-03-PNpmVmD21zViDtGC.htm)|Deny Advantage (Level 3)|Refus d'avantage (Niveau 3)|officielle|
-|[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|officielle|
 |[rogue-07-0npO4rPscGm0dX13.htm](classfeatures/rogue-07-0npO4rPscGm0dX13.htm)|Vigilant Senses (Level 7)|Sens alertes (Niveau 7)|libre|
 |[rogue-09-25GSAotUcDwInYgG.htm](classfeatures/rogue-09-25GSAotUcDwInYgG.htm)|Great Fortitude (Level 9)|Vigueur supérieure (Niveau 9)|libre|
 |[rogue-09-9SruVg2lZpNaYLOB.htm](classfeatures/rogue-09-9SruVg2lZpNaYLOB.htm)|Debilitating Strikes|Frappes incapacitantes|officielle|
 |[rogue-11-f3Dh32EU4VsHu01b.htm](classfeatures/rogue-11-f3Dh32EU4VsHu01b.htm)|Rogue Expertise|Expertise du Roublard|officielle|
 |[rogue-13-myvcir1LEkaVxOlE.htm](classfeatures/rogue-13-myvcir1LEkaVxOlE.htm)|Master Tricks|Astuces de maître|officielle|
 |[rogue-13-nLwPMPLRne1HnL00.htm](classfeatures/rogue-13-nLwPMPLRne1HnL00.htm)|Incredible Senses (Level 13)|Sens extraordinaires (Niveau 13)|officielle|
-|[rogue-15-W1FkMHYVDg3yTU5r.htm](classfeatures/rogue-15-W1FkMHYVDg3yTU5r.htm)|Double Debilitation|Double handicap|officielle|
 |[rogue-17-xmZ7oeTDcQVXegUP.htm](classfeatures/rogue-17-xmZ7oeTDcQVXegUP.htm)|Slippery Mind|Esprit fuyant|officielle|
-|[rogue-19-SUUdWG0t33VKa5q4.htm](classfeatures/rogue-19-SUUdWG0t33VKa5q4.htm)|Master Strike|Frappe de maître|officielle|
-|[sorcerer-01-2goYo6VNbwC6aKF1.htm](classfeatures/sorcerer-01-2goYo6VNbwC6aKF1.htm)|Bloodline|Lignages|libre|
 |[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|Lignage : Aberrant|officielle|
 |[sorcerer-01-5Wxjghw7lHuCxjZz.htm](classfeatures/sorcerer-01-5Wxjghw7lHuCxjZz.htm)|Bloodline: Nymph|Lignage : Nymphe|libre|
 |[sorcerer-01-7WBZ2kkhZ7JorWu2.htm](classfeatures/sorcerer-01-7WBZ2kkhZ7JorWu2.htm)|Bloodline: Undead|Lignage : Mort-vivant|officielle|
 |[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|Lignage : Féerique|officielle|
-|[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|Incantation de l'ensorceleur|officielle|
 |[sorcerer-01-H6ziAPvCipTPG8SH.htm](classfeatures/sorcerer-01-H6ziAPvCipTPG8SH.htm)|Bloodline Spells|Sorts de lignage|officielle|
 |[sorcerer-01-lURKSJZAGKVD6cH9.htm](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Spell Repertoire (Sorcerer)|Répertoire de sorts (Ensorceleur)|officielle|
 |[sorcerer-01-O0uXZRWMNliDbkxU.htm](classfeatures/sorcerer-01-O0uXZRWMNliDbkxU.htm)|Bloodline: Hag|Lignage : Guenaude|officielle|
@@ -324,14 +349,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|Lignage : Draconique|officielle|
 |[sorcerer-03-VKRjmXxBFLrJK01c.htm](classfeatures/sorcerer-03-VKRjmXxBFLrJK01c.htm)|Signature Spells (Level 3)|Sorts emblématiques (Niveau 3)|officielle|
 |[sorcerer-19-feCnVrPPlKhl701x.htm](classfeatures/sorcerer-19-feCnVrPPlKhl701x.htm)|Bloodline Paragon|Parangon du lignage|officielle|
-|[swashbuckler-01-4lGhbEjlEoGP4scl.htm](classfeatures/swashbuckler-01-4lGhbEjlEoGP4scl.htm)|Wit Style|Style : Esprit|libre|
 |[swashbuckler-01-5HoEwzLDJGTCZtFa.htm](classfeatures/swashbuckler-01-5HoEwzLDJGTCZtFa.htm)|Battledancer Style|Style : Danseur de combat|libre|
 |[swashbuckler-01-B7RMnrHwQHlezlJT.htm](classfeatures/swashbuckler-01-B7RMnrHwQHlezlJT.htm)|Gymnast Style|Style : Gymnaste|libre|
 |[swashbuckler-01-beW1OqibVQ3fBvRw.htm](classfeatures/swashbuckler-01-beW1OqibVQ3fBvRw.htm)|Swashbuckler's Style|Style du bretteur|libre|
 |[swashbuckler-01-Jgid6Ja6Y879COlN.htm](classfeatures/swashbuckler-01-Jgid6Ja6Y879COlN.htm)|Fencer Style|Style : escrimeur|libre|
 |[swashbuckler-01-KBhwFjdptrKyN5EM.htm](classfeatures/swashbuckler-01-KBhwFjdptrKyN5EM.htm)|Braggart Style|Style : fanfaron|libre|
 |[swashbuckler-01-pyo0vmxUFIFX2GNl.htm](classfeatures/swashbuckler-01-pyo0vmxUFIFX2GNl.htm)|Confident Finisher|Coup final assuré|libre|
-|[swashbuckler-01-RQH6vigvhmiYKKjg.htm](classfeatures/swashbuckler-01-RQH6vigvhmiYKKjg.htm)|Precise Strike|Frappe précise|libre|
 |[swashbuckler-03-8BOFeRE7ZfJ02N0O.htm](classfeatures/swashbuckler-03-8BOFeRE7ZfJ02N0O.htm)|Vivacious Speed|Vitesse exubérante|libre|
 |[swashbuckler-03-F57Na5VxfBp56kke.htm](classfeatures/swashbuckler-03-F57Na5VxfBp56kke.htm)|Great Fortitude (Level 3)|Vigueur supérieure (Niveau 3)|officielle|
 |[swashbuckler-03-Jtn7IugykXDlIoZq.htm](classfeatures/swashbuckler-03-Jtn7IugykXDlIoZq.htm)|Opportune Riposte|Riposte opportune|libre|
@@ -339,7 +362,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-05-F5BHEav90oOJ2LwN.htm](classfeatures/swashbuckler-05-F5BHEav90oOJ2LwN.htm)|Weapon Expertise (Swashbuckler)|Expertise martiale (Bretteur)|libre|
 |[swashbuckler-07-MV6XIuAgN9uSA0Da.htm](classfeatures/swashbuckler-07-MV6XIuAgN9uSA0Da.htm)|Evasion (Level 7)|Évasion (Niveau 7)|officielle|
 |[swashbuckler-07-WiM7X4xmpMx4s6LD.htm](classfeatures/swashbuckler-07-WiM7X4xmpMx4s6LD.htm)|Weapon Specialization (Level 7)|Spécialisation avec les armes (Niveau 7)|libre|
-|[swashbuckler-09-KxpaxUSuBC7hr4F7.htm](classfeatures/swashbuckler-09-KxpaxUSuBC7hr4F7.htm)|Exemplary Finisher|Coup final exemplaire|libre|
 |[swashbuckler-09-U74JoAcLHTOsZG6q.htm](classfeatures/swashbuckler-09-U74JoAcLHTOsZG6q.htm)|Swashbuckler Expertise|Expertise du bretteur|libre|
 |[swashbuckler-11-13QpCrR8a8XULbJa.htm](classfeatures/swashbuckler-11-13QpCrR8a8XULbJa.htm)|Continuous Flair|Élégance continuelle|libre|
 |[swashbuckler-11-NTp146fjLreL5zsj.htm](classfeatures/swashbuckler-11-NTp146fjLreL5zsj.htm)|Vigilant Senses (Level 11)|Vigilance (Niveau 11)|libre|
@@ -347,45 +369,38 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-13-L5D0NwFXdLiVSnk5.htm](classfeatures/swashbuckler-13-L5D0NwFXdLiVSnk5.htm)|Improved Evasion (Level 13)|Évasion améliorée (Niveau 13)|officielle|
 |[swashbuckler-13-pZYkb12t5DSwtts7.htm](classfeatures/swashbuckler-13-pZYkb12t5DSwtts7.htm)|Light Armor Expertise (Level 13)|Expertise avec les armures légères (Niveau 13)|libre|
 |[swashbuckler-15-Pk3Ht0KZyFxSeL07.htm](classfeatures/swashbuckler-15-Pk3Ht0KZyFxSeL07.htm)|Keen Flair|Élégance aigüe|libre|
-|[swashbuckler-15-Z7HX6TeFsaup7Dx9.htm](classfeatures/swashbuckler-15-Z7HX6TeFsaup7Dx9.htm)|Greater Weapon Specialization (Level 15)|Spécialisation martiale supérieure (Niveau 15)|libre|
 |[swashbuckler-19-SHpjmM4A3Sw4GgDz.htm](classfeatures/swashbuckler-19-SHpjmM4A3Sw4GgDz.htm)|Light Armor Mastery (Level 19)|Maîtrise des armures légères (Niveau 19)|libre|
-|[swashbuckler-19-ypfT3iybew6ZSIUl.htm](classfeatures/swashbuckler-19-ypfT3iybew6ZSIUl.htm)|Eternal Confidence|Confiance éternelle|libre|
 |[witch-01-4IfYHrQMosJNM8hv.htm](classfeatures/witch-01-4IfYHrQMosJNM8hv.htm)|Fervor Patron|Patron : Ferveur|libre|
-|[witch-01-9uLh5z2uPo6LDFRY.htm](classfeatures/witch-01-9uLh5z2uPo6LDFRY.htm)|Hexes|Maléfices|libre|
 |[witch-01-ejmSQOJR5lJv1pzh.htm](classfeatures/witch-01-ejmSQOJR5lJv1pzh.htm)|Rune Patron|Patron : Rune|libre|
+|[witch-01-KPtF29AaeX2sJW0K.htm](classfeatures/witch-01-KPtF29AaeX2sJW0K.htm)|Patron|Patron|libre|
 |[witch-01-NAXRmMjj0gcyD7ie.htm](classfeatures/witch-01-NAXRmMjj0gcyD7ie.htm)|Curse Patron|Patron : Malédiction|libre|
 |[witch-01-nocYmxbi4rqCC2qS.htm](classfeatures/witch-01-nocYmxbi4rqCC2qS.htm)|Patron Theme|Thême de patron|libre|
 |[witch-01-qf12ubZ07Q0z0NcN.htm](classfeatures/witch-01-qf12ubZ07Q0z0NcN.htm)|Winter Patron|Patron : Hiver|libre|
 |[witch-01-qMZiTugiLCEmkg8h.htm](classfeatures/witch-01-qMZiTugiLCEmkg8h.htm)|Fate Patron|Patron : Destin|libre|
-|[witch-01-SOan0fqyFTrkqJLV.htm](classfeatures/witch-01-SOan0fqyFTrkqJLV.htm)|Witch Lessons|Leçons de sorcière|libre|
 |[witch-01-VVMMJdIWL7fAsQf3.htm](classfeatures/witch-01-VVMMJdIWL7fAsQf3.htm)|Baba Yaga Patron|Patron : Baba Yaga|libre|
 |[witch-01-x2gzQMPvLwHWDdAC.htm](classfeatures/witch-01-x2gzQMPvLwHWDdAC.htm)|Wild Patron|Patron : Sauvage|libre|
 |[witch-01-XFTWJO6txmLNRLae.htm](classfeatures/witch-01-XFTWJO6txmLNRLae.htm)|Night Patron|Patron : Nuit|libre|
-|[witch-01-yksPhweBZYVCsE1A.htm](classfeatures/witch-01-yksPhweBZYVCsE1A.htm)|Familiar (Witch)|Familier (Sorcière)|libre|
-|[witch-01-zT6QiTMxxj8JYoN9.htm](classfeatures/witch-01-zT6QiTMxxj8JYoN9.htm)|Witch Spellcasting|Incantation de sorcière|libre|
 |[witch-05-70jqXP2eS4tRZ0Ok.htm](classfeatures/witch-05-70jqXP2eS4tRZ0Ok.htm)|Magical Fortitude (Level 5)|Vigueur magique (Niveau 5)|officielle|
 |[witch-09-tfugXJHITCnArN1b.htm](classfeatures/witch-09-tfugXJHITCnArN1b.htm)|Lightning Reflexes (Level 9)|Réflexes fulgurants (Niveau 9)|officielle|
 |[witch-11-O99eXctsEjEpuBwe.htm](classfeatures/witch-11-O99eXctsEjEpuBwe.htm)|Weapon Expertise (Level 11)|Expertise avec les armes (Niveau 11)|libre|
-|[witch-19-cDnFXfl3i5Z2l7JP.htm](classfeatures/witch-19-cDnFXfl3i5Z2l7JP.htm)|Patron's Gift|Don du patron|libre|
 |[wizard-01-7nbKDBGvwSx9T27G.htm](classfeatures/wizard-01-7nbKDBGvwSx9T27G.htm)|Arcane School|École arcanique|officielle|
 |[wizard-01-89zWKD2CN7nRu2xp.htm](classfeatures/wizard-01-89zWKD2CN7nRu2xp.htm)|Arcane Thesis: Metamagical Experimentation|Thèse arcanique : Expérimentation métamagique|officielle|
 |[wizard-01-au0lwQ1nAcNQwcGh.htm](classfeatures/wizard-01-au0lwQ1nAcNQwcGh.htm)|Arcane Bond|Lien arcanique|officielle|
 |[wizard-01-gCwcys8CnS102tji.htm](classfeatures/wizard-01-gCwcys8CnS102tji.htm)|Arcane School: Abjuration|École arcanique : Abjuration|officielle|
 |[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Arcane School: Evocation|École arcanique : Évocation|officielle|
 |[wizard-01-K6hG7nH8yjmbA0Q9.htm](classfeatures/wizard-01-K6hG7nH8yjmbA0Q9.htm)|Arcane School: Illusion|École arcanique : Illusion|officielle|
-|[wizard-01-Klb35AwlkNrq1gpB.htm](classfeatures/wizard-01-Klb35AwlkNrq1gpB.htm)|Arcane Thesis: Staff Nexus|Thèse arcanique : Bâton nexus|libre|
 |[wizard-01-M89l9FOnjHe63wD7.htm](classfeatures/wizard-01-M89l9FOnjHe63wD7.htm)|Arcane Thesis|Thèse arcanique|libre|
 |[wizard-01-OAcxS625AXSGrQIC.htm](classfeatures/wizard-01-OAcxS625AXSGrQIC.htm)|Arcane Thesis: Spell Blending|Thèse arcanique : Mélange de sorts|officielle|
 |[wizard-01-qczCKdg47eAmCOUD.htm](classfeatures/wizard-01-qczCKdg47eAmCOUD.htm)|Arcane School: Universalist|École arcanique : universaliste|officielle|
 |[wizard-01-QzWXMCSGNfvvpYgF.htm](classfeatures/wizard-01-QzWXMCSGNfvvpYgF.htm)|Arcane Thesis: Spell Substitution|Thèse arcanique : Substitution de sort|officielle|
 |[wizard-01-rHxkPijLnQ9O9AGV.htm](classfeatures/wizard-01-rHxkPijLnQ9O9AGV.htm)|Arcane School: Transmutation|École arcanique : Transmutation|officielle|
-|[wizard-01-S6WW4Yyg4XonXGHD.htm](classfeatures/wizard-01-S6WW4Yyg4XonXGHD.htm)|Arcane Spellcasting|Incantation arcanique|officielle|
 |[wizard-01-SNeVaUBTHwvoO6kr.htm](classfeatures/wizard-01-SNeVaUBTHwvoO6kr.htm)|Arcane School: Conjuration|École arcanique : Invocation|officielle|
 |[wizard-01-SNZ46g3u7U6x0XJj.htm](classfeatures/wizard-01-SNZ46g3u7U6x0XJj.htm)|Arcane Thesis: Improved Familiar Attunement|Thèse arcanique : Amélioration de l’harmonisation avec le familier|officielle|
 |[wizard-01-uNM7qZQokRKAEd7k.htm](classfeatures/wizard-01-uNM7qZQokRKAEd7k.htm)|Arcane School: Necromancy|École arcanique : Nécromancie|officielle|
 |[wizard-01-yobGgrHdgjs5QW5o.htm](classfeatures/wizard-01-yobGgrHdgjs5QW5o.htm)|Arcane School: Divination|École arcanique : Divination|officielle|
 |[wizard-01-ZHwGACWQEy6kTzcP.htm](classfeatures/wizard-01-ZHwGACWQEy6kTzcP.htm)|Arcane School: Enchantment|École arcanique : Enchantement|officielle|
 |[wizard-05-rz87RgR1crWTd7j5.htm](classfeatures/wizard-05-rz87RgR1crWTd7j5.htm)|Lightning Reflexes (Level 5)|Réflexes fulgurants (Niveau 5)|officielle|
+|[wizard-07-cD3nSupdCvONuHiE.htm](classfeatures/wizard-07-cD3nSupdCvONuHiE.htm)|Expert Spellcaster (Level 7)|Incantateur expert (Niveau 7)|officielle|
 |[wizard-09-MzyPNlxrNA5OKVd7.htm](classfeatures/wizard-09-MzyPNlxrNA5OKVd7.htm)|Magical Fortitude (Level 9)|Vigueur magique (Niveau 9)|officielle|
 |[wizard-11-GBsC2cARoFiqMi9V.htm](classfeatures/wizard-11-GBsC2cARoFiqMi9V.htm)|Wizard Weapon Expertise|Expertise avec les armes du magicien|officielle|
 |[wizard-11-OZaJz4exCoz6vuuv.htm](classfeatures/wizard-11-OZaJz4exCoz6vuuv.htm)|Alertness (Level 11)|Vigilance (Niveau 11)|officielle|

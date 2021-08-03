@@ -1,19 +1,28 @@
 # État de la traduction (pathfinder-society-boons)
 
- * **auto-trad**: 128
- * **changé**: 3
+ * **auto-trad**: 119
+ * **changé**: 12
 
 
-Dernière mise à jour: 2021-05-28 07:48 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[95R55tdobViU7ZWe.htm](pathfinder-society-boons/95R55tdobViU7ZWe.htm)|Mentor, Magical|
+|[9w8TdCsGEpttXYuy.htm](pathfinder-society-boons/9w8TdCsGEpttXYuy.htm)|Mentor, Worldly|
 |[B7fDgC6tcv41lcP7.htm](pathfinder-society-boons/B7fDgC6tcv41lcP7.htm)|S1-Q11 - Amateur Genealogist|
 |[CKyGNdBL8Qt4ysKt.htm](pathfinder-society-boons/CKyGNdBL8Qt4ysKt.htm)|S2-03 - Fluent in Cyclops|
+|[DkqU67wxvbDu0Qrs.htm](pathfinder-society-boons/DkqU67wxvbDu0Qrs.htm)|Mentor, Rugged|
+|[grkmoNwwHOROKER7.htm](pathfinder-society-boons/grkmoNwwHOROKER7.htm)|AoA #150: Boon A - Legacy of Ashes|
+|[J1hUP5SI4MJvlK36.htm](pathfinder-society-boons/J1hUP5SI4MJvlK36.htm)|Mentor, Skillful|
+|[PXtBhRVHM28angjV.htm](pathfinder-society-boons/PXtBhRVHM28angjV.htm)|Mentor, Protective|
+|[rJfATB750MbndGeP.htm](pathfinder-society-boons/rJfATB750MbndGeP.htm)|S2-08 - Baba Yaga's Tutelage|
+|[RJYIefY9Skx8CAgw.htm](pathfinder-society-boons/RJYIefY9Skx8CAgw.htm)|S1-Q09 - Wayfinder Connections|
 |[RLzWznPsb2VpbxTy.htm](pathfinder-society-boons/RLzWznPsb2VpbxTy.htm)|S1-Q12 - Fruit Basket|
+|[vYSA5M9fgBdYiGLT.htm](pathfinder-society-boons/vYSA5M9fgBdYiGLT.htm)|Mentor, Combat|
 
 ## Liste des traductions automatiques à corriger/retraduire
 
@@ -40,8 +49,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6XUhCWU0h0qbgL5Z.htm](pathfinder-society-boons/6XUhCWU0h0qbgL5Z.htm)|S2-00 - Spark of Life (levels 7-8)|auto-trad|
 |[8cMFcCa3h9XfWNkZ.htm](pathfinder-society-boons/8cMFcCa3h9XfWNkZ.htm)|AoA #149: Boon A - Advanced Training|auto-trad|
 |[8fbBYNkFQgU3IQV0.htm](pathfinder-society-boons/8fbBYNkFQgU3IQV0.htm)|Grand Archive Champion|auto-trad|
-|[95R55tdobViU7ZWe.htm](pathfinder-society-boons/95R55tdobViU7ZWe.htm)|Mentor, Magical|auto-trad|
-|[9w8TdCsGEpttXYuy.htm](pathfinder-society-boons/9w8TdCsGEpttXYuy.htm)|Mentor, Worldly|auto-trad|
 |[aG5cua0K2SlurXxw.htm](pathfinder-society-boons/aG5cua0K2SlurXxw.htm)|Promotional Accessory|auto-trad|
 |[awcOD618fuXZN3rh.htm](pathfinder-society-boons/awcOD618fuXZN3rh.htm)|Practiced Medic|auto-trad|
 |[bcsusUErwGQYHj6d.htm](pathfinder-society-boons/bcsusUErwGQYHj6d.htm)|Multicultural Training|auto-trad|
@@ -56,7 +63,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cyrntY2zgDyzxQGO.htm](pathfinder-society-boons/cyrntY2zgDyzxQGO.htm)|Verdant Wheel Champion, Improved|auto-trad|
 |[DcMAGJWq2G5kGRWn.htm](pathfinder-society-boons/DcMAGJWq2G5kGRWn.htm)|S1-16 - Blood Offering|auto-trad|
 |[DD1mlAEaXdM1pBze.htm](pathfinder-society-boons/DD1mlAEaXdM1pBze.htm)|S1-Q07 - Amateur Adjuster|auto-trad|
-|[DkqU67wxvbDu0Qrs.htm](pathfinder-society-boons/DkqU67wxvbDu0Qrs.htm)|Mentor, Rugged|auto-trad|
 |[DWcmLzzT1eYk76c7.htm](pathfinder-society-boons/DWcmLzzT1eYk76c7.htm)|AoA #146: Mwangi Summoner|auto-trad|
 |[En3RdoXDAtyXdNKq.htm](pathfinder-society-boons/En3RdoXDAtyXdNKq.htm)|Heroic Intervention|auto-trad|
 |[ePZOmPbGXzrEaXXs.htm](pathfinder-society-boons/ePZOmPbGXzrEaXXs.htm)|S1-11 - Devil's Keep|auto-trad|
@@ -68,13 +74,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[giyLRNefaC3IsFay.htm](pathfinder-society-boons/giyLRNefaC3IsFay.htm)|S1-10 - Tarnbreaker Champions|auto-trad|
 |[Gmzby7whs5O0wuYC.htm](pathfinder-society-boons/Gmzby7whs5O0wuYC.htm)|Untarnished Reputation|auto-trad|
 |[GRiNBy8yv4sWp1ua.htm](pathfinder-society-boons/GRiNBy8yv4sWp1ua.htm)|Bequethal|auto-trad|
-|[grkmoNwwHOROKER7.htm](pathfinder-society-boons/grkmoNwwHOROKER7.htm)|AoA #150: Boon A - Legacy of Ashes|auto-trad|
 |[hghR0f5IetZBvyDR.htm](pathfinder-society-boons/hghR0f5IetZBvyDR.htm)|Heroic Defiance|auto-trad|
 |[hxp0fDMrB7BT3y3T.htm](pathfinder-society-boons/hxp0fDMrB7BT3y3T.htm)|S1-15 - Finadar Leshy|auto-trad|
 |[hy1gMMpRmujuw8i4.htm](pathfinder-society-boons/hy1gMMpRmujuw8i4.htm)|Leader By Example|auto-trad|
 |[ig06ikA6rnNP1JUb.htm](pathfinder-society-boons/ig06ikA6rnNP1JUb.htm)|S1-01 - Society Connections|auto-trad|
 |[iRLU5DTWY16HIqcc.htm](pathfinder-society-boons/iRLU5DTWY16HIqcc.htm)|S1-22 - Doom Averted|auto-trad|
-|[J1hUP5SI4MJvlK36.htm](pathfinder-society-boons/J1hUP5SI4MJvlK36.htm)|Mentor, Skillful|auto-trad|
 |[jzJ575vAsw2MaRgo.htm](pathfinder-society-boons/jzJ575vAsw2MaRgo.htm)|Envoy's Alliance Champion|auto-trad|
 |[JznxnYTs38GYpW1p.htm](pathfinder-society-boons/JznxnYTs38GYpW1p.htm)|S1-14 - Big Game Hunter|auto-trad|
 |[K21KQsrR3RMcJ1du.htm](pathfinder-society-boons/K21KQsrR3RMcJ1du.htm)|Swift Traveler|auto-trad|
@@ -100,14 +104,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[PbEqXHWiyzii4g8T.htm](pathfinder-society-boons/PbEqXHWiyzii4g8T.htm)|S1-25 - Grand Finale|auto-trad|
 |[ph7CO8ong1sZmrNc.htm](pathfinder-society-boons/ph7CO8ong1sZmrNc.htm)|Horizon Hunters Champion|auto-trad|
 |[prHShOQxNpLXwlss.htm](pathfinder-society-boons/prHShOQxNpLXwlss.htm)|S1-Q04 - Fane's Friend|auto-trad|
-|[PXtBhRVHM28angjV.htm](pathfinder-society-boons/PXtBhRVHM28angjV.htm)|Mentor, Protective|auto-trad|
 |[qaSlz43CHPiCoIOC.htm](pathfinder-society-boons/qaSlz43CHPiCoIOC.htm)|Radiant Oath Champion, Improved|auto-trad|
 |[rddlbymeG9KbQYQM.htm](pathfinder-society-boons/rddlbymeG9KbQYQM.htm)|Translator|auto-trad|
 |[rdY0vyXfrIlkQgqd.htm](pathfinder-society-boons/rdY0vyXfrIlkQgqd.htm)|Beginnings and Endings|auto-trad|
 |[rFgWvC1UADsavY5J.htm](pathfinder-society-boons/rFgWvC1UADsavY5J.htm)|Resist Corruption|auto-trad|
 |[RGSw5tAc4ALp97Qe.htm](pathfinder-society-boons/RGSw5tAc4ALp97Qe.htm)|S1-Q04 - Stella's Associate|auto-trad|
-|[rJfATB750MbndGeP.htm](pathfinder-society-boons/rJfATB750MbndGeP.htm)|S2-08 - Baba Yaga's Tutelage|auto-trad|
-|[RJYIefY9Skx8CAgw.htm](pathfinder-society-boons/RJYIefY9Skx8CAgw.htm)|S1-Q09 - Wayfinder Connections|auto-trad|
 |[sBXsfT0uYltF8TFE.htm](pathfinder-society-boons/sBXsfT0uYltF8TFE.htm)|Hireling|auto-trad|
 |[Sc9gT40T28tFhSzq.htm](pathfinder-society-boons/Sc9gT40T28tFhSzq.htm)|Horizon Hunters Champion, Improved|auto-trad|
 |[SDDbh7KmDn5HUbst.htm](pathfinder-society-boons/SDDbh7KmDn5HUbst.htm)|Promotional Vestments|auto-trad|
@@ -123,7 +124,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UWZfORgk1yVNV0RF.htm](pathfinder-society-boons/UWZfORgk1yVNV0RF.htm)|Exotic Edge|auto-trad|
 |[VLjkX7HpDqKaidNd.htm](pathfinder-society-boons/VLjkX7HpDqKaidNd.htm)|AoA #148: Boon A - Crystal Clear|auto-trad|
 |[Vmg31SsMjjimghzP.htm](pathfinder-society-boons/Vmg31SsMjjimghzP.htm)|Menace Under Otari|auto-trad|
-|[vYSA5M9fgBdYiGLT.htm](pathfinder-society-boons/vYSA5M9fgBdYiGLT.htm)|Mentor, Combat|auto-trad|
 |[wcOnL9nFDfCkNVMZ.htm](pathfinder-society-boons/wcOnL9nFDfCkNVMZ.htm)|AoA #149: Boon C - Expanded Summoning|auto-trad|
 |[wdjRk8JaZGP1mjqD.htm](pathfinder-society-boons/wdjRk8JaZGP1mjqD.htm)|S1-09 - Iruxi Bane|auto-trad|
 |[We3sJV72xtdPeMjp.htm](pathfinder-society-boons/We3sJV72xtdPeMjp.htm)|AoA #150: Boon B - Paragon of Promise|auto-trad|

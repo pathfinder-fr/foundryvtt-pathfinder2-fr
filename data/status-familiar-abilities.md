@@ -1,19 +1,12 @@
 # État de la traduction (familiar-abilities)
 
  * **officielle**: 9
- * **libre**: 25
- * **changé**: 1
+ * **libre**: 26
 
 
-Dernière mise à jour: 2021-05-28 07:48 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[04-SKIS1xexaOvrecdV.htm](familiar-abilities/04-SKIS1xexaOvrecdV.htm)|Verdant Burst|Explosion verdoyante|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -52,3 +45,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-zyMRLQnFCQVpltiR.htm](familiar-abilities/01-zyMRLQnFCQVpltiR.htm)|Speech|Parole|officielle|
 |[04-43xB5UnexISlfRa5.htm](familiar-abilities/04-43xB5UnexISlfRa5.htm)|Purify Air|Purificateur d'air|libre|
 |[04-LUBS9csNNgRTui4p.htm](familiar-abilities/04-LUBS9csNNgRTui4p.htm)|Grasping Tendrils|Vrilles agrippantes|libre|
+|[04-SKIS1xexaOvrecdV.htm](familiar-abilities/04-SKIS1xexaOvrecdV.htm)|Verdant Burst|Explosion verdoyante|libre|

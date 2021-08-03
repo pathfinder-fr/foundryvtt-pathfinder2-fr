@@ -7,6 +7,7 @@
   "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr",
   "download": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/archive/v-VERSION/foundryvtt-pathfinder2-fr-v-VERSION.zip",
   "manifest": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/module.json",
+  "scripts": ["pf2fr.js"],
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "1.0.0"
 }

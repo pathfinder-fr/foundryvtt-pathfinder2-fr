@@ -14,7 +14,17 @@ from dataclasses import dataclass
 SUPPORTED = {
     "spells": {'transl': "Sorts",
                "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.school.value",
-                         'type2': "data.level.value"}},
+                         'type2': "data.level.value"},
+               "extract": {
+                 'Areasize': "data.areasize.value",
+                 'Range': "data.range.value",
+                 'Material': "data.materials.value",
+                 'Target': "data.target.value",
+                 'SecondaryCaster': "data.secondarycasters.value",
+                 'PrimaryCheck': "data.primarycheck.value",
+                 'SecondaryCheck': "data.secondarycheck.value",
+                }
+               },
     "feats": {'transl': "Dons",
               "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value",
                         'type2': "data.level.value"}, "lists": {'Prereq': "data.prerequisites.value"}},
@@ -26,6 +36,7 @@ SUPPORTED = {
     "archetypes": {'transl': "Archétypes", "paths": {'name': "name", 'desc': "content"}},
     "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
     "pathfinder-bestiary-2": {'transl': "Bestiaire 2", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
+    "pathfinder-bestiary-3": {'transl': "Bestiaire 3", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
     "hazards": {'transl': "Dangers", "paths": {'name': "name", 'desc': "data.details.description"}},
     # "age-of-ashes-bestiary":          { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
     # "extinction-curse-bestiary":      { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
@@ -198,8 +209,11 @@ def fileToData(filepath):
         spoilers = ""
         isDescEN = False
         isDescFR = False
+        isData = False
         listsEN = {}
         listsFR = {}
+        dataEN = {}
+        dataFR = {}
 
         match = re.search('(\w{16})\.htm', filepath)
         if not match:
@@ -226,8 +240,10 @@ def fileToData(filepath):
                 data['spoilersEN'] = line[11:].strip()
             elif line.startswith("SpoilersFR:"):
                 data['spoilersFR'] = line[11:].strip()
-            elif line.startswith("------ Benefits and spoiler ----"):
+            elif line.startswith("------ Benefits") or line.startswith("------ Spoilers"):
                 continue
+            elif line.startswith("------ Data"):
+                isData = True
             elif line.startswith("------ Description (en) ------"):
                 isDescEN = True
                 isDescFR = False
@@ -246,12 +262,18 @@ def fileToData(filepath):
                 if key.endswith("EN") or key.endswith("FR"):
                     key = key[0:-2]
                     lang = line[sep-2:sep]
-                    liste = [e.strip() for e in value.split('|')]
-                    liste = [e.strip() for e in liste if len(e.strip()) > 0]
-                    if lang == "EN":
-                        listsEN[key] = liste
-                    elif lang == "FR":
-                        listsFR[key] = liste
+                    if isData:
+                        if lang == "EN":
+                          dataEN[key] = value
+                        elif lang == "FR":
+                          dataFR[key] = value
+                    else:
+                        liste = [e.strip() for e in value.split('|')]
+                        liste = [e.strip() for e in liste if len(e.strip()) > 0]
+                        if lang == "EN":
+                            listsEN[key] = liste
+                        elif lang == "FR":
+                            listsFR[key] = liste
                 else:
                     print("Invalid key '%s' in file %s " % (key, filepath))
                     print("Adding key to misc")
@@ -267,6 +289,8 @@ def fileToData(filepath):
         data['descrFR'] = descrFR.strip()
         data['listsEN'] = listsEN
         data['listsFR'] = listsFR
+        data['dataEN'] = dataEN
+        data['dataFR'] = dataFR
 
     else:
         print("Invalid path: %s" % filepath)
@@ -310,23 +334,26 @@ def dataToFile(data, filepath):
         if 'oldstatus' in data:
             df.write('État d\'origine: ' + data['oldstatus'] + '\n')
         df.write('\n')
-        try:
-            data['benefitsEN']
-            df.write('------ Benefits and spoiler ----' + '\n')
-            df.write("Benefits: %s\n" % data['benefitsEN'])
-            df.write("Avantage: %s\n" % data['benefitsFR'])
-            if not len(data['spoilers']) <= 1:
-                df.write("SpoilersEN: %s\n" % data['spoilers'])
-                spoilers = ""
-                df.write("SpoilersFR: %s\n" % spoilers)
-            df.write("\n")
-        except:
-            try:
-                data['benefitsFR']
-                df.write('------ Benefits and spoiler ----' + '\n')
+        if 'benefitsEN' in data or 'benefitsFR' in data:
+            df.write('------ Benefits ----' + '\n')
+            if 'benefitsEN' in data:
+                df.write("Benefits: %s\n" % data['benefitsEN'])
+            if 'benefitsFR' in data:
                 df.write("Avantage: %s\n" % data['benefitsFR'])
-            except:
-                x=0
+        if 'spoilersEN' in data or 'spoilersFR' in data:
+            df.write('------ Spoilers ----' + '\n')
+            if 'spoilersEN' in data:
+                df.write("SpoilersEN: %s\n" % data['spoilersEN'])
+            if 'spoilersFR' in data:
+                df.write("SpoilersFR: %s\n" % data['spoilersFR'])
+
+        if data['dataEN']:
+            df.write('------ Data ------' + '\n')
+            for key in data['dataEN']:
+                if data['dataEN'][key] and len(data['dataEN'][key]) > 0:
+                    df.write("%sEN: %s\n" % (key, data['dataEN'][key]))
+                    df.write("%sFR: %s\n" % (key, data['dataFR'][key] if key in data['dataFR'] else ""))
+
         df.write('------ Description (en) ------' + '\n')
         df.write(data['descrEN'] + '\n')
         df.write('------ Description (fr) ------' + '\n')
@@ -355,15 +382,16 @@ def readFolder(path):
     # read all files in folder
     for fpath in all_files:
 
-        data = fileToData(path + fpath)
-        data['filename'] = fpath
+        if fpath[0] != ".":
+            data = fileToData(path + fpath)
+            data['filename'] = fpath
 
-        if data['id'] in resultById:
-            print_error("Duplicate data %s and %s, please fix it manually!" % (path + resultById[data['id']]['filename'], path + data['filename']))
-            has_errors = True
-        else:
-            resultById[data['id']] = data
-            resultByName[data['nameEN']] = data
+            if data['id'] in resultById:
+                print_error("Duplicate data %s and %s, please fix it manually!" % (path + resultById[data['id']]['filename'], path + data['filename']))
+                has_errors = True
+            else:
+                resultById[data['id']] = data
+                resultByName[data['nameEN']] = data
 
     return [resultById, resultByName, has_errors]
 

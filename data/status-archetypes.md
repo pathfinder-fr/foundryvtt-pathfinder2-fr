@@ -1,14 +1,24 @@
 # État de la traduction (archetypes)
 
- * **auto-trad**: 6
- * **changé**: 66
- * **libre**: 4
+ * **auto-trad**: 4
+ * **changé**: 67
+ * **aucune**: 4
+ * **libre**: 5
  * **officielle**: 2
 
 
-Dernière mise à jour: 2021-05-28 07:48 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[2utUBjuTmPt7cHiw.htm](archetypes/2utUBjuTmPt7cHiw.htm)|Ghost Eater|
+|[CmCmbpn10LJcjH78.htm](archetypes/CmCmbpn10LJcjH78.htm)|Sixth Pillar|
+|[pgesyqPUJSHKsbGv.htm](archetypes/pgesyqPUJSHKsbGv.htm)|Butterfly Blade|
+|[S82AsQp9Iyjff12F.htm](archetypes/S82AsQp9Iyjff12F.htm)|Golden League Xun|
+
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
@@ -16,8 +26,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[25NJcH5SkWh1Tol7.htm](archetypes/25NJcH5SkWh1Tol7.htm)|Spellmaster|auto-trad|
 |[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|auto-trad|
 |[gw4J1pXYED71TPWx.htm](archetypes/gw4J1pXYED71TPWx.htm)|Bellflower Tiller|auto-trad|
-|[IdhIKSuKueYt6RsQ.htm](archetypes/IdhIKSuKueYt6RsQ.htm)|Eldritch Researcher|auto-trad|
-|[PPmO6FXrl8Otszji.htm](archetypes/PPmO6FXrl8Otszji.htm)|Drow Shootist|auto-trad|
 |[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|auto-trad|
 
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -25,8 +33,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[2eAiIynDWTMKTGDU.htm](archetypes/2eAiIynDWTMKTGDU.htm)|Scrollmaster|Maître des parchemins|changé|
+|[2TRqXfTtfMhTSIDY.htm](archetypes/2TRqXfTtfMhTSIDY.htm)|Ghost Hunter|Chasseur de Fantômes|changé|
 |[2Wol7CpOBJjVT3aP.htm](archetypes/2Wol7CpOBJjVT3aP.htm)|Hellknight|Chevalier infernal|changé|
-|[3jceS1GfWcSQ3tMY.htm](archetypes/3jceS1GfWcSQ3tMY.htm)|Talisman Dabbler|Amateur de talismans|changé|
 |[4xzvjFVytFA0LIYj.htm](archetypes/4xzvjFVytFA0LIYj.htm)|Living Monolith|Monolithe vivant|changé|
 |[5cbEwgPLlMWGGVxN.htm](archetypes/5cbEwgPLlMWGGVxN.htm)|Dandy|Dandy|changé|
 |[5zILvODoiQC34tWU.htm](archetypes/5zILvODoiQC34tWU.htm)|Blessed One|Élu divin|changé|
@@ -50,6 +58,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[GQn5HfP1Jg5qO0Dz.htm](archetypes/GQn5HfP1Jg5qO0Dz.htm)|Swashbuckler|Bretteur|changé|
 |[GwItivMACzBmW82g.htm](archetypes/GwItivMACzBmW82g.htm)|Hellknight Signifer|Signifer|changé|
 |[hLFBAs2NpyGjQiDA.htm](archetypes/hLFBAs2NpyGjQiDA.htm)|Cavalier|Cavalier|changé|
+|[IdhIKSuKueYt6RsQ.htm](archetypes/IdhIKSuKueYt6RsQ.htm)|Eldritch Researcher|Chercheur mystique|changé|
 |[IoDeWTPMoa7LNLWD.htm](archetypes/IoDeWTPMoa7LNLWD.htm)|Ritualist|Ritualiste|changé|
 |[IU0WKnP9qciXztOC.htm](archetypes/IU0WKnP9qciXztOC.htm)|Gladiator|Gladiateur|changé|
 |[JiRqSMv1STETLwSP.htm](archetypes/JiRqSMv1STETLwSP.htm)|Student of Perfection|Étudiant en Perfection|changé|
@@ -95,9 +104,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[2TRqXfTtfMhTSIDY.htm](archetypes/2TRqXfTtfMhTSIDY.htm)|Ghost Hunter|Chasseur de Fantômes|libre|
+|[3jceS1GfWcSQ3tMY.htm](archetypes/3jceS1GfWcSQ3tMY.htm)|Talisman Dabbler|Amateur de talismans|libre|
 |[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|Médecin|libre|
 |[DeixUOfwL7Bruad5.htm](archetypes/DeixUOfwL7Bruad5.htm)|Red Mantis Assassin|Assassin des Mantes rouges|officielle|
 |[Lr108TWazbuxxUzP.htm](archetypes/Lr108TWazbuxxUzP.htm)|Zephyr Guard|Garde Zéphyr|officielle|
 |[lsU4NQEei111OetM.htm](archetypes/lsU4NQEei111OetM.htm)|Dragon Disciple|Disciple draconique|libre|
+|[PPmO6FXrl8Otszji.htm](archetypes/PPmO6FXrl8Otszji.htm)|Drow Shootist|Tireur drow|libre|
 |[VRUYc3QyRjjOjppc.htm](archetypes/VRUYc3QyRjjOjppc.htm)|Turpin Rowe Lumberjack|Bûcheron de Turpin Rowe|libre|

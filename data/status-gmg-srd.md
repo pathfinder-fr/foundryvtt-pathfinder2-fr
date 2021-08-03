@@ -1,83 +1,84 @@
 # État de la traduction (gmg-srd)
 
- * **officielle**: 63
- * **auto-trad**: 35
+ * **officielle**: 93
+ * **auto-trad**: 4
+ * **libre**: 1
 
 
-Dernière mise à jour: 2021-05-28 07:48 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
 
 | Fichier   | Nom (EN)    | État |
 |-----------|-------------|:----:|
-|[3g3uXFsHbfcad8eA.htm](gmg-srd/3g3uXFsHbfcad8eA.htm)|The Fool|auto-trad|
 |[652cIWAXc8zAxkac.htm](gmg-srd/652cIWAXc8zAxkac.htm)|Matter of Might|auto-trad|
-|[6NOZe9gUfVEedECW.htm](gmg-srd/6NOZe9gUfVEedECW.htm)|Star|auto-trad|
-|[7qsQBWD5sSGz7Fik.htm](gmg-srd/7qsQBWD5sSGz7Fik.htm)|Mercantile Expertise|auto-trad|
-|[8NKe8N5NsULPShPX.htm](gmg-srd/8NKe8N5NsULPShPX.htm)|The Dead One|auto-trad|
-|[a0mJO7io1hcwMAjJ.htm](gmg-srd/a0mJO7io1hcwMAjJ.htm)|Lost in the Wilderness|auto-trad|
-|[Alf16WU6qK8w1jmq.htm](gmg-srd/Alf16WU6qK8w1jmq.htm)|Sun|auto-trad|
-|[BbgtR5LmB9ZdPpx1.htm](gmg-srd/BbgtR5LmB9ZdPpx1.htm)|Timely Cure|auto-trad|
 |[bRQz8uVlYtQ1cwwI.htm](gmg-srd/bRQz8uVlYtQ1cwwI.htm)|Wasteland Survivors|auto-trad|
-|[c8bBOo2RPxStZozM.htm](gmg-srd/c8bBOo2RPxStZozM.htm)|Moon|auto-trad|
 |[cD51eAUtbGlp5UKr.htm](gmg-srd/cD51eAUtbGlp5UKr.htm)|Slander|auto-trad|
-|[Cfd7ndT61VjR52OZ.htm](gmg-srd/Cfd7ndT61VjR52OZ.htm)|The Mercenary|auto-trad|
-|[CfD81LilQAtGuvyx.htm](gmg-srd/CfD81LilQAtGuvyx.htm)|The Void|auto-trad|
-|[cIlNXxPJuy8MtaDM.htm](gmg-srd/cIlNXxPJuy8MtaDM.htm)|Vizier|auto-trad|
-|[CW53y8R730XoNQSG.htm](gmg-srd/CW53y8R730XoNQSG.htm)|The Champion|auto-trad|
-|[CwyYDIAAuRll2i5R.htm](gmg-srd/CwyYDIAAuRll2i5R.htm)|The Seer|auto-trad|
-|[dcP3oqjsl85p6R2Z.htm](gmg-srd/dcP3oqjsl85p6R2Z.htm)|Kidnapped|auto-trad|
-|[Dyg3vJnEnReKyYHU.htm](gmg-srd/Dyg3vJnEnReKyYHU.htm)|The Fates|auto-trad|
-|[ejRPZwAlci3jTli9.htm](gmg-srd/ejRPZwAlci3jTli9.htm)|The Liege Lord|auto-trad|
-|[Erqgqv8WEtnzBtTu.htm](gmg-srd/Erqgqv8WEtnzBtTu.htm)|The Mystic|auto-trad|
-|[F7Tf6APgUKjnCZgv.htm](gmg-srd/F7Tf6APgUKjnCZgv.htm)|The Crafter|auto-trad|
-|[Gm4AtuFNRgOnzsmF.htm](gmg-srd/Gm4AtuFNRgOnzsmF.htm)|Simple Village|auto-trad|
-|[Gr4v8ROPCxi4hvAO.htm](gmg-srd/Gr4v8ROPCxi4hvAO.htm)|Religious Community|auto-trad|
-|[iA9QWuYATBPB6thI.htm](gmg-srd/iA9QWuYATBPB6thI.htm)|Knight|auto-trad|
-|[Ip6kSKGhl3XHQZ93.htm](gmg-srd/Ip6kSKGhl3XHQZ93.htm)|Robbed|auto-trad|
-|[JHQI2skcksaLMPqA.htm](gmg-srd/JHQI2skcksaLMPqA.htm)|Kindly Witch|auto-trad|
-|[KtkDaTrkBwwupKcE.htm](gmg-srd/KtkDaTrkBwwupKcE.htm)|The Wanderer|auto-trad|
-|[MCIp76IWZ2pk7dyz.htm](gmg-srd/MCIp76IWZ2pk7dyz.htm)|The Criminal|auto-trad|
-|[mg7oMp0cNa0GJMCS.htm](gmg-srd/mg7oMp0cNa0GJMCS.htm)|The Lover|auto-trad|
-|[mHocbJQKBzbHM790.htm](gmg-srd/mHocbJQKBzbHM790.htm)|The Confidante|auto-trad|
 |[nsZ93vUEFucsLwRz.htm](gmg-srd/nsZ93vUEFucsLwRz.htm)|Privileged Position|auto-trad|
-|[OdD3NuxI5hNAEOVx.htm](gmg-srd/OdD3NuxI5hNAEOVx.htm)|Trade Town|auto-trad|
-|[oDhTOO1WjEZk1qfD.htm](gmg-srd/oDhTOO1WjEZk1qfD.htm)|Witnessed War|auto-trad|
-|[OHKKQ7zTf61vz35h.htm](gmg-srd/OHKKQ7zTf61vz35h.htm)|Liberators|auto-trad|
-|[pd6ZzGL5TA58Fa3p.htm](gmg-srd/pd6ZzGL5TA58Fa3p.htm)|The Hunter|auto-trad|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[2cyhXgGkmoFe3Phw.htm](gmg-srd/2cyhXgGkmoFe3Phw.htm)|Trained by a Mentor|Formé par un Mentor|officielle|
+|[3g3uXFsHbfcad8eA.htm](gmg-srd/3g3uXFsHbfcad8eA.htm)|The Fool|Le bouffon|officielle|
 |[3Uwfn0ui7tS277iE.htm](gmg-srd/3Uwfn0ui7tS277iE.htm)|Metropolis|Métropole|officielle|
 |[5KDGPcdZpdZumUYy.htm](gmg-srd/5KDGPcdZpdZumUYy.htm)|Itinerant|Itinérant|officielle|
+|[6NOZe9gUfVEedECW.htm](gmg-srd/6NOZe9gUfVEedECW.htm)|Star|Célébrité|officielle|
+|[7qsQBWD5sSGz7Fik.htm](gmg-srd/7qsQBWD5sSGz7Fik.htm)|Mercantile Expertise|Expertise marchande|officielle|
+|[8NKe8N5NsULPShPX.htm](gmg-srd/8NKe8N5NsULPShPX.htm)|The Dead One|Lé défunt|officielle|
+|[a0mJO7io1hcwMAjJ.htm](gmg-srd/a0mJO7io1hcwMAjJ.htm)|Lost in the Wilderness|Perdu dans la nature|officielle|
 |[AL562TPAhLCFX62S.htm](gmg-srd/AL562TPAhLCFX62S.htm)|Underground|Sous terre|officielle|
+|[Alf16WU6qK8w1jmq.htm](gmg-srd/Alf16WU6qK8w1jmq.htm)|Sun|Soleil|officielle|
 |[amEb5dGmSvvAJz7J.htm](gmg-srd/amEb5dGmSvvAJz7J.htm)|Balance|Balance|officielle|
 |[BAs1fCaUTmvRjvVT.htm](gmg-srd/BAs1fCaUTmvRjvVT.htm)|Dullard|Idiot|officielle|
+|[BbgtR5LmB9ZdPpx1.htm](gmg-srd/BbgtR5LmB9ZdPpx1.htm)|Timely Cure|Remède opportun|officielle|
 |[bNmSwKSFk6SWWrlj.htm](gmg-srd/bNmSwKSFk6SWWrlj.htm)|Abandoned in a Distant Land|Abandonné dans un pays lointain|officielle|
 |[bvhckAGjcCJVs0jn.htm](gmg-srd/bvhckAGjcCJVs0jn.htm)|Claimed an Inheritance|Bénéficiaire d'un héritage|officielle|
 |[C4KgMYzmyWVpe721.htm](gmg-srd/C4KgMYzmyWVpe721.htm)|Fool|Fou|officielle|
+|[c8bBOo2RPxStZozM.htm](gmg-srd/c8bBOo2RPxStZozM.htm)|Moon|Lune|officielle|
 |[ccG9pxYQ9Gg6262b.htm](gmg-srd/ccG9pxYQ9Gg6262b.htm)|Key|Clef|officielle|
+|[Cfd7ndT61VjR52OZ.htm](gmg-srd/Cfd7ndT61VjR52OZ.htm)|The Mercenary|Le mercenaire|officielle|
+|[CfD81LilQAtGuvyx.htm](gmg-srd/CfD81LilQAtGuvyx.htm)|The Void|Le néant|officielle|
+|[cIlNXxPJuy8MtaDM.htm](gmg-srd/cIlNXxPJuy8MtaDM.htm)|Vizier|Le vizir|officielle|
+|[CW53y8R730XoNQSG.htm](gmg-srd/CW53y8R730XoNQSG.htm)|The Champion|Le champion|officielle|
+|[CwyYDIAAuRll2i5R.htm](gmg-srd/CwyYDIAAuRll2i5R.htm)|The Seer|Le devin|officielle|
+|[dcP3oqjsl85p6R2Z.htm](gmg-srd/dcP3oqjsl85p6R2Z.htm)|Kidnapped|Enlevé|officielle|
+|[Dyg3vJnEnReKyYHU.htm](gmg-srd/Dyg3vJnEnReKyYHU.htm)|The Fates|Les Parques|officielle|
 |[e4nkDjB1Y6nqaK2G.htm](gmg-srd/e4nkDjB1Y6nqaK2G.htm)|Betrayed|Trahi|officielle|
 |[eADadfrHPkGNTjEB.htm](gmg-srd/eADadfrHPkGNTjEB.htm)|Accidental Fall|Chute accidentelle|officielle|
 |[eCB10E0MSvD9s008.htm](gmg-srd/eCB10E0MSvD9s008.htm)|Frontier|Confins|officielle|
+|[ejRPZwAlci3jTli9.htm](gmg-srd/ejRPZwAlci3jTli9.htm)|The Liege Lord|Le suzerain|officielle|
+|[Erqgqv8WEtnzBtTu.htm](gmg-srd/Erqgqv8WEtnzBtTu.htm)|The Mystic|Le mystique|officielle|
+|[F7Tf6APgUKjnCZgv.htm](gmg-srd/F7Tf6APgUKjnCZgv.htm)|The Crafter|L'artisan|officielle|
 |[fojjq3VXShnNSOsZ.htm](gmg-srd/fojjq3VXShnNSOsZ.htm)|Academic Community|Communauté universitaire|officielle|
 |[FOs2eLbehUzPh9p9.htm](gmg-srd/FOs2eLbehUzPh9p9.htm)|Attained a Magical Gift|Dépositaire d'un talent magique|officielle|
 |[G9058881e1ci9X1C.htm](gmg-srd/G9058881e1ci9X1C.htm)|Desperate Intimidation|Intimidation désespérée|officielle|
+|[Gm4AtuFNRgOnzsmF.htm](gmg-srd/Gm4AtuFNRgOnzsmF.htm)|Simple Village|Simple village|officielle|
+|[Gr4v8ROPCxi4hvAO.htm](gmg-srd/Gr4v8ROPCxi4hvAO.htm)|Religious Community|Communauté religieuse|officielle|
 |[HkMzwjBTGgQgsOCW.htm](gmg-srd/HkMzwjBTGgQgsOCW.htm)|Cosmopolitan City|Cité cosmopolite|officielle|
+|[iA9QWuYATBPB6thI.htm](gmg-srd/iA9QWuYATBPB6thI.htm)|Knight|Chevalier|libre|
 |[idZxjeEv8B3x44r1.htm](gmg-srd/idZxjeEv8B3x44r1.htm)|Captured by Giants|Capturé par des géants|officielle|
 |[IJ3nFDu2YcoP6ynd.htm](gmg-srd/IJ3nFDu2YcoP6ynd.htm)|Throne|Trône|officielle|
+|[Ip6kSKGhl3XHQZ93.htm](gmg-srd/Ip6kSKGhl3XHQZ93.htm)|Robbed|Dépouillé|officielle|
 |[j9kx5CzfulaFTMOE.htm](gmg-srd/j9kx5CzfulaFTMOE.htm)|Academy Trained|Formation universitaire|officielle|
+|[JHQI2skcksaLMPqA.htm](gmg-srd/JHQI2skcksaLMPqA.htm)|Kindly Witch|Sorcière bienveillante|officielle|
 |[jtgfTYpcv4FFpWsL.htm](gmg-srd/jtgfTYpcv4FFpWsL.htm)|Died|Mort|officielle|
 |[jVh90bfsC6w6iVyy.htm](gmg-srd/jVh90bfsC6w6iVyy.htm)|Euryale (curse)|Euryale (malédiction)|officielle|
+|[KtkDaTrkBwwupKcE.htm](gmg-srd/KtkDaTrkBwwupKcE.htm)|The Wanderer|Le voyageur|officielle|
 |[LekxXsOgEwMODqCS.htm](gmg-srd/LekxXsOgEwMODqCS.htm)|Animal Helpers|Amis des animaux|officielle|
 |[llfG8iMTFMzVIF9s.htm](gmg-srd/llfG8iMTFMzVIF9s.htm)|Donjon|Donjon|officielle|
+|[MCIp76IWZ2pk7dyz.htm](gmg-srd/MCIp76IWZ2pk7dyz.htm)|The Criminal|Le criminel|officielle|
+|[mg7oMp0cNa0GJMCS.htm](gmg-srd/mg7oMp0cNa0GJMCS.htm)|The Lover|L'amant|officielle|
+|[mHocbJQKBzbHM790.htm](gmg-srd/mHocbJQKBzbHM790.htm)|The Confidante|Le confident|officielle|
 |[niZPxqupDMfIXxJs.htm](gmg-srd/niZPxqupDMfIXxJs.htm)|Homelessness|Vagabondage|officielle|
 |[NSG1YxOYAtSowNJa.htm](gmg-srd/NSG1YxOYAtSowNJa.htm)|Comet|Comète|officielle|
 |[nzOpdMVLPhoNTxzR.htm](gmg-srd/nzOpdMVLPhoNTxzR.htm)|Comrade-in-Arms|Fréres d'armes|officielle|
+|[OdD3NuxI5hNAEOVx.htm](gmg-srd/OdD3NuxI5hNAEOVx.htm)|Trade Town|Ville marchande|officielle|
+|[oDhTOO1WjEZk1qfD.htm](gmg-srd/oDhTOO1WjEZk1qfD.htm)|Witnessed War|Témoin d'une guerre|officielle|
+|[OHKKQ7zTf61vz35h.htm](gmg-srd/OHKKQ7zTf61vz35h.htm)|Liberators|Libérateurs|officielle|
+|[pd6ZzGL5TA58Fa3p.htm](gmg-srd/pd6ZzGL5TA58Fa3p.htm)|The Hunter|Le chasseur|officielle|
 |[PVdcBHjBVySBchG1.htm](gmg-srd/PVdcBHjBVySBchG1.htm)|Religious Students|Séminaristes|officielle|
 |[pwn7lPcwqyGNZyOo.htm](gmg-srd/pwn7lPcwqyGNZyOo.htm)|Survived a Disaster|Survivant d'un désastre|officielle|
 |[qFgPiHDBVa3VSNgC.htm](gmg-srd/qFgPiHDBVa3VSNgC.htm)|Gem|Gemme|officielle|
