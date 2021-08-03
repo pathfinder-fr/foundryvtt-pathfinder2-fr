@@ -98,6 +98,14 @@ for pack in packs:
       addIfNotNull(translation, 'benefits', emptyAsNull(tryGetDict(data, 'benefitsFR')))
       addIfNotNull(miscData, 'benefits', emptyAsNull(tryGetDict(data, 'benefitsEN')))
 
+    # spells
+    # https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/tree/master/data/spells
+    if pack_id == 'spells':
+      addIfNotNull(translation, 'target', emptyAsNull(tryGetDict(data, 'dataFR', 'targetFR')))
+      addIfNotNull(miscData, 'target', emptyAsNull(tryGetDict(data, 'dataEN', 'targetEN')))
+      addIfNotNull(translation, 'range', emptyAsNull(tryGetDict(data, 'dataFR', 'rangeFR')))
+      addIfNotNull(miscData, 'range', emptyAsNull(tryGetDict(data, 'dataEN', 'rangeEN')))
+
     # store translation
     frDatas[data_id] = frData
 
