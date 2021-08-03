@@ -31,7 +31,8 @@ for pack in packs:
   
   list = []
     
-  translations = {}
+  # liste des données issues des fichiers de traduction FR
+  frDatas = {}
   
   #############################################
   # read all available data for specified pack
@@ -52,12 +53,22 @@ for pack in packs:
     # item id
     data_id = data['id']
 
-    # default (all translations in french)
+    # contient les données traduites en FR
     translation = {
       'status': data['status'],
       'name': data['nameFR'],
       'description': data['descrFR']
-     }
+    }
+
+    # contient des données anglaises uniquement disponibles dans le fichier FR
+    miscData = {      
+    }
+
+    # données FR
+    frData = {
+      'translation': translation,
+      'misc': miscData
+    }
 
     ###################################################
     # Récupération données fichier .htm français
@@ -70,15 +81,25 @@ for pack in packs:
     #
     # Pour le format du tableau 'data', il faut aller voir la documentation de la fonction fileToData
     # du fichier libdata.py
+    #
+    # On peut recopier les informations dans deux endroits :
+    #
+    # Dans le dictionnaire 'translation' si c'est la traduction FR
+    # Dans le dictionnaire 'misc' si c'est une donnée anglaise non disponible dans le JSON Foundry
+    #
+    # La valeur clé (ex: benefits) doit obligatoirement être identique dans le fichier de sortie
+    # entre la version FR et EN.
 
     # feats
     # https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/tree/master/data/feats
     if pack_id == 'feats':
-      # recherche du champ misc.Avantage correspondant à la traduction française du benefit
-      addIfNotNull(translation, 'avantage', emptyAsNull(tryGetDict(data, 'misc', 'Avantage')))
+      # on stocke le champ benefitsFR dans les traductions
+      # et on stocke le benefitsEN dans le champ misc pour qu'il apparaisse en anglais
+      addIfNotNull(translation, 'benefits', emptyAsNull(tryGetDict(data, 'benefitsFR')))
+      addIfNotNull(miscData, 'benefits', emptyAsNull(tryGetDict(data, 'benefitsEN')))
 
     # store translation
-    translations[data_id] = translation
+    frDatas[data_id] = frData
 
   #############################################
   # read original data from pf2 Foundry system
@@ -226,12 +247,22 @@ for pack in packs:
     # 
     # Par défaut on marque qu'il n'y a aucune traduction dans le json :
     # "translations": { "fr": { "status": "aucune", ... } }
-    dataJson['translations'] = { 'fr': { 'status': 'aucune' } }
+    translation = { 'status': 'aucune' }
 
     # On recopie dans "fr" l'intégralité des informations de traduction
-    if dataJson['_id'] in translations:
-      frJson =  translations[dataJson['_id']]
-      dataJson['translations']['fr'] = frJson
+    if dataJson['_id'] in frDatas:
+      frData = frDatas[dataJson['_id']]
+
+      # recopie des données 'translation' dans la partie traduction
+      translation = frData['translation']
+
+      # on écrase les données EN avec les éventuelles propriétés stockées dans misc
+      misc = frData['misc']
+      for key, value in misc.items():
+        dataJson[key] = value
+
+    # on ajoute la translation à la fin, pour que les autres propriétés soient toujours avant
+    dataJson['translations'] = { 'fr': translation }
       
     list.append(dataJson)
 
