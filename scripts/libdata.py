@@ -192,8 +192,25 @@ def getList(obj, path, exitOnError=True):
 
 
 #
-# cette fonction extrait l'information d'un fichier
+# Cette fonction extrait l'information d'un fichier .htm sous forme d'un tableau contenant les différens attributs
+# au format nom: Valeur
 #
+# Liste des valeurs renvoyées :
+#
+# id            identifiant unique complet (ex: skill-15-Vk7BzAb3D9r226sI), obtenu à partir du nom de fichier sans le .htm
+# nameEN        nom anglais (Name)
+# nameFR        nom français (Nom)
+# status        état de la traduction (État)
+# oldstatus     état d'origine de la traudction (État d'origine)
+# benefitsEN    avantage (du don?) en anglais (Benefits)
+# benefitsFR    avantage (du don?) en français (Avantage)
+# spoilersEN    Balise SpoilersEN
+# spoilersFR    Balise SpoilersFR
+#
+# descrFR/EN    Description en français/anglais
+# dataEN/FR     Tableau des différentes données stockées dans la partie ------ Data
+# listsEN/FR    Tableau des différentes listes
+#               Ces lis
 def fileToData(filepath):
     data = {}
     if os.path.isfile(filepath):
@@ -232,6 +249,9 @@ def fileToData(filepath):
                 data['status'] = line[5:].strip()
             elif line.startswith("État d'origine:"):
                 data['oldstatus'] = line[15:].strip()
+
+            # Champs gérés en dur
+            # Nécessaire qd le champ : n'est pas dans Data, se termine par EN ou FR et n'est pas une liste
             elif line.startswith("Benefits:"):
                 data['benefitsEN'] = line[9:].strip()
             elif line.startswith("Avantage:"):
@@ -240,34 +260,47 @@ def fileToData(filepath):
                 data['spoilersEN'] = line[11:].strip()
             elif line.startswith("SpoilersFR:"):
                 data['spoilersFR'] = line[11:].strip()
+
             elif line.startswith("------ Benefits") or line.startswith("------ Spoilers"):
-                continue
+                isData = False
+                continue            
             elif line.startswith("------ Data"):
                 isData = True
             elif line.startswith("------ Description (en) ------"):
+                isData = False
                 isDescEN = True
                 isDescFR = False
                 continue
             elif line.startswith("------ Description (fr) ------"):
+                isData = False
                 isDescFR = True
                 isDescEN = False
                 continue
             elif not isDescEN and not isDescFR and len(line.strip()) > 0:
+                # tente de lire toutes les propriétés restantes comme des traduction FR/EN
+                
+                # on commence par rechercher le ':' en fin du mot
                 sep = line.find(":")
                 if sep < 0:
                     print(bcolors.FAIL + "Invalid data '%s' in file %s " % (line, filepath) + bcolors.RESET)
                     exit(1)
                 key = line[0:sep]
                 value = line[sep+1:].strip()
-                if key.endswith("EN") or key.endswith("FR"):
+                # on prend tous les attributs qui finissent par FR ou EN
+                if key.endswith("EN") or key.endswith("FR"):                    
                     key = key[0:-2]
                     lang = line[sep-2:sep]
                     if isData:
+                        # si la donnée se trouve dans la section "------- Data"
+                        # on l'ajoute au dictionnaire des données
+                        # dataEN ou dataFR
                         if lang == "EN":
                           dataEN[key] = value
                         elif lang == "FR":
                           dataFR[key] = value
                     else:
+                        # sinon, on considère que c'est une liste et on ajoute les éléments de cette liste dans le dictionnaire de données
+                        # listsEN ou listsFR
                         liste = [e.strip() for e in value.split('|')]
                         liste = [e.strip() for e in liste if len(e.strip()) > 0]
                         if lang == "EN":
@@ -275,9 +308,7 @@ def fileToData(filepath):
                         elif lang == "FR":
                             listsFR[key] = liste
                 else:
-                    print("Invalid key '%s' in file %s " % (key, filepath))
-                    print("Adding key to misc")
-                    # on stocke toutes les clés inconnues dans une propriété 'misc' du résultat
+                    # on stocke toutes les clés inconnues qui ne finissent pas par EN ou FR dans une propriété 'misc' du résultat
                     data['misc'][key] = value
 
             if isDescEN:
@@ -409,7 +440,7 @@ def emptyAsNull(value, empty = None):
 
 #
 # Tente de convertir la valeur donnée sous forme d'entier
-# Si la conversion est impossible, renvoie la valeur telle quelle
+# Si la conversion est impossible, renvoie la valeur telle quelle sans la modifier
 #
 def tryIntOrNone(value):
   # si la valeur vaut None on renvoie None
