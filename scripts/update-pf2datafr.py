@@ -248,6 +248,7 @@ for pack in packs:
       # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/spells.db
       if pack_id == 'spells':
         dataJson['school'] = enJson['data']['school']['value']
+        dataJson['type'] = enJson['data']['category']['value'] # focus, ritual ou spell
 
       # feats
       # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/feats.db
