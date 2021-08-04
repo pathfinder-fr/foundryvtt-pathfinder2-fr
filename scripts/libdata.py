@@ -516,7 +516,7 @@ def tryIntOrNone(value):
 
     # si la valeur est une chaine correspondant à un nombre signe - au début puis des chiffres
     # on la transfore en int
-    if isinstance(value, str) and re.match('-?\d+', value):
+    if isinstance(value, str) and re.match('^-?\d+$', value):
         return int(value)
 
     # sinon on ne fait rien
