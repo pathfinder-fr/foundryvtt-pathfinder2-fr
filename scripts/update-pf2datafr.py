@@ -105,6 +105,8 @@ for pack in packs:
       addIfNotNull(miscData, 'target', emptyAsNull(tryGetDict(data, 'dataEN', 'Target')))
       addIfNotNull(translation, 'range', emptyAsNull(tryGetDict(data, 'dataFR', 'Range')))
       addIfNotNull(miscData, 'range', emptyAsNull(tryGetDict(data, 'dataEN', 'Range')))
+      addIfNotNull(translation, 'materials', emptyAsNull(tryGetDict(data, 'dataFR', 'Material')))
+      addIfNotNull(miscData, 'materials', emptyAsNull(tryGetDict(data, 'dataEN', 'Material')))
 
     # store translation
     frDatas[data_id] = frData
