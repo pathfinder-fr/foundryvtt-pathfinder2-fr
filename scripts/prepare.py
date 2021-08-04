@@ -9,16 +9,19 @@ import re
 import logging
 
 from libdata import readFolder, dataToFile, getPacks, getValue, getList, equals, print_error, print_warning
-from libselenium import translator_driver, full_trad
+
+# à réactiver pour autotrad
+# from libselenium import translator_driver, full_trad
 
 print('Preparing translation')
 logging.basicConfig(filename='translation.log', level=logging.INFO)
   
 ROOT="../"
 
-# ouverture de la connexion a DeepL Translator
-print('Opening DeepL Translator connection')
-driver = translator_driver()
+# à réactiver pour autotrad
+# # ouverture de la connexion a DeepL Translator
+# print('Opening DeepL Translator connection')
+# driver = translator_driver()
 
 print('Loading packs...')
 packs = getPacks()
@@ -206,9 +209,10 @@ for p in packs:
       
       os.remove(filename)
 
-# fermeture de la connexion a DeepL Translator
-if driver:
-  driver.quit()
+# à réactiver pour autotrad
+# # fermeture de la connexion a DeepL Translator
+# if driver:
+#   driver.quit()
 
 if has_errors:
   print_error("Au moins une erreur survenue durant la préparation, échec")
