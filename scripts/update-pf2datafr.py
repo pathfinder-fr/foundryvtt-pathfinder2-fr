@@ -107,6 +107,12 @@ for pack in packs:
       addIfNotNull(miscData, 'range', emptyAsNull(tryGetDict(data, 'dataEN', 'Range')))
       addIfNotNull(translation, 'materials', emptyAsNull(tryGetDict(data, 'dataFR', 'Material')))
       addIfNotNull(miscData, 'materials', emptyAsNull(tryGetDict(data, 'dataEN', 'Material')))
+      addIfNotNull(translation, 'secondaryCaster',  tryIntOrNone(emptyAsNull(tryGetDict(data, 'dataFR', 'SecondaryCaster'))))
+      addIfNotNull(miscData, 'secondaryCaster', tryIntOrNone(emptyAsNull(tryGetDict(data, 'dataEN', 'SecondaryCaster'))))
+      addIfNotNull(translation, 'primaryCheck', emptyAsNull(tryGetDict(data, 'dataFR', 'PrimaryCheck')))
+      addIfNotNull(miscData, 'primaryCheck', emptyAsNull(tryGetDict(data, 'dataEN', 'PrimaryCheck')))
+      addIfNotNull(translation, 'secondaryCheck', emptyAsNull(tryGetDict(data, 'dataFR', 'SecondaryCheck')))
+      addIfNotNull(miscData, 'secondaryCheck', emptyAsNull(tryGetDict(data, 'dataEN', 'SecondaryCheck')))
 
     # store translation
     frDatas[data_id] = frData
