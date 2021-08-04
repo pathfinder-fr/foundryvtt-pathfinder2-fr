@@ -249,6 +249,12 @@ for pack in packs:
       if pack_id == 'spells':
         dataJson['school'] = enJson['data']['school']['value']
         dataJson['type'] = enJson['data']['category']['value'] # focus, ritual ou spell
+        dataJson['level'] = tryIntOrNone(enJson['data']['level']['value'])
+        dataJson['traits'] = enJson['data']['traits']['value']
+        addIfNotNull(dataJson, 'traditions', emptyAsNull(enJson['data']['traditions']['value']))
+        dataJson['incantation'] = {}
+        dataJson['incantation']['time'] = tryIntOrNone(enJson['data']['time']['value'])
+        dataJson['incantation']['components'] = enJson['data']['components']
 
       # feats
       # cf. https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/feats.db
