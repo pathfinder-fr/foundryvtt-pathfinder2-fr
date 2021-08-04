@@ -501,6 +501,8 @@ def emptyAsNull(value, empty=None):
         return None
     if isinstance(value, str) and len(value) == 0:
         return None
+    if isinstance(value, list) and len(value) == 0:
+        return None
     return value
 
 #
