@@ -113,6 +113,8 @@ for pack in packs:
       addIfNotNull(miscData, 'primaryCheck', emptyAsNull(tryGetDict(data, 'dataEN', 'PrimaryCheck')))
       addIfNotNull(translation, 'secondaryCheck', emptyAsNull(tryGetDict(data, 'dataFR', 'SecondaryCheck')))
       addIfNotNull(miscData, 'secondaryCheck', emptyAsNull(tryGetDict(data, 'dataEN', 'SecondaryCheck')))
+      addIfNotNull(translation, 'areaSize', emptyAsNull(tryGetDict(data, 'dataFR', 'Areasize')))
+      addIfNotNull(miscData, 'areaSize', emptyAsNull(tryGetDict(data, 'dataEN', 'Areasize')))
 
     # store translation
     frDatas[data_id] = frData
