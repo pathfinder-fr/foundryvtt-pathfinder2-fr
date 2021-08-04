@@ -10,26 +10,62 @@ import time
 import logging
 from dataclasses import dataclass
 
-
+##########################################
+# Packs
+##########################################
+#
+# Liste des packs supportés, avec les réglages de traduction
+#
+#
+# transl    Nom du pack traduit en français
+# paths     Dictionnaire contenant le chemin des informations principales dans le json anglais
+#   name    Nom de la propriété contenant le nom de la donnée
+#   desc    Chemin de la propriété contenant la description à traduire
+#   type1   Chemin de la donnée à utiliser comme première partie du nom de fichier. Si absent c'est uniquement l'id qui servira à nommer le fichier. Le fichier sera nommé type1-id.htm
+#   type2   Chemin de la seconde données. Si type2 est présent, type1 doit l'être aussi. Le fichier sera nommé avec type1-type2-id.htm
+# extract   Dictionnaire contenant la liste des champs supplémentaires à extraire dans la section ------- Data et à traduire.
+#           La clé correspondra au nom du champ auquel sera ajouté FR et EN
+# lists     Dictionnaire contenant la liste des champs supplémentaires à extraire sous forme de liste, dont les différentes valeurs seront extraites avec un "|" comme séparateur, et à traduire.
 SUPPORTED = {
-    "spells": {'transl': "Sorts",
-               "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.school.value",
-                         'type2': "data.level.value"},
-               "extract": {
-                 'Areasize': "data.areasize.value",
-                 'Range': "data.range.value",
-                 'Material': "data.materials.value",
-                 'Target': "data.target.value",
-                 'SecondaryCaster': "data.secondarycasters.value",
-                 'PrimaryCheck': "data.primarycheck.value",
-                 'SecondaryCheck': "data.secondarycheck.value",
-                }
-               },
-    "feats": {'transl': "Dons",
-              "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.featType.value",
-                        'type2': "data.level.value"}, "lists": {'Prereq': "data.prerequisites.value"}},
-    "equipment": {'transl': "Équipement", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "type",
-                                                    'type2': "data.level.value"}},
+    "spells": {
+        'transl': "Sorts",
+        "paths": {
+            'name': "name",
+            'desc': "data.description.value",
+            'type1': "data.school.value",
+            'type2': "data.level.value"
+        },
+        "extract": {
+            'Areasize': "data.areasize.value",
+            'Range': "data.range.value",
+            'Material': "data.materials.value",
+            'Target': "data.target.value",
+            'SecondaryCaster': "data.secondarycasters.value",
+            'PrimaryCheck': "data.primarycheck.value",
+            'SecondaryCheck': "data.secondarycheck.value",
+        }
+    },
+    "feats": {
+        'transl': "Dons",
+        "paths": {
+            'name': "name",
+            'desc': "data.description.value",
+            'type1': "data.featType.value",
+            'type2': "data.level.value"
+        },
+        "lists": {
+            'Prereq': "data.prerequisites.value"
+        }
+    },
+    "equipment": {
+        'transl': "Équipement",
+        "paths": {
+            'name': "name",
+            'desc': "data.description.value",
+            'type1': "type",
+            'type2': "data.level.value"
+        }
+    },
     "conditionspf2e": {'transl': "Conditions", "paths": {'name': "name", 'desc': "content"}},
     "conditionitems": {'transl': "Conditions", "paths": {'name': "name", 'desc': "data.description.value"}},
     "actions": {'transl': "Actions", "paths": {'name': "name", 'desc': "data.description.value"}},
@@ -43,12 +79,24 @@ SUPPORTED = {
     # "fall-of-plaguestone-bestiary":   { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
     # "iconics":                        { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
     # "npc-gallery":                    { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
-    "ancestryfeatures": {'transl': "Ascendances (aptitudes)",
-                         "paths": {'name': "name", 'desc': "data.description.value", 'type1': "type",
-                                   'type2': "data.level.value"}},
-    "classfeatures": {'transl': "Capacités de classe",
-                      "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.traits.value",
-                                'type2': "data.level.value"}},
+    "ancestryfeatures": {
+        'transl': "Ascendances (aptitudes)",
+        "paths": {
+            'name': "name",
+            'desc': "data.description.value",
+            'type1': "type",
+            'type2': "data.level.value"
+        }
+    },
+    "classfeatures": {
+        'transl': "Capacités de classe",
+        "paths": {
+            'name': "name",
+            'desc': "data.description.value",
+            'type1': "data.traits.value",
+            'type2': "data.level.value"
+        }
+    },
     # "rollable-tables":                { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
     "backgrounds": {'transl': "Backgrounds", "paths": {'name': "name", 'desc': "data.description.value"}},
     # "deities":                        { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "content" } },
@@ -56,27 +104,28 @@ SUPPORTED = {
     "classes": {'transl': "Classes", "paths": {'name': "name", 'desc': "data.description.value"}},
     # "criticaldeck":                   { 'transl': "Critiques", "paths": { 'name': "name", 'desc': "content" } },
     # "pf2e-macros":                    { 'transl': "Macros PF2e", "paths": { 'name': "name", 'desc': "content" } },
-    "bestiary-ability-glossary-srd": {'transl': "Aptitudes du bestiaire",
-                                      "paths": {'name': "name", 'desc': "data.description.value"}},
+    "bestiary-ability-glossary-srd": {
+        'transl': "Aptitudes du bestiaire",
+        "paths": {'name': "name", 'desc': "data.description.value"}
+    },
     "pathfinder-society-boons": {'transl': "Macros PF2e", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "boons-and-curses": {'transl': "Bénédictions et malédictions",
-                         "paths": {'name': "name", 'desc': "data.description.value"}},
-    "familiar-abilities": {'transl': "Aptitudes des familiers",
-                           "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
-    "spell-effects": {'transl': "Effets des sorts",
-                      "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    "boons-and-curses": {'transl': "Bénédictions et malédictions", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "familiar-abilities": {'transl': "Aptitudes des familiers", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    "spell-effects": {'transl': "Effets des sorts", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
     "ancestries": {'transl': "Ascendances", "paths": {'name': "name", 'desc': "data.description.value"}},
-
 }
 
+
 class bcolors:
-    OK = '\033[92m'         #GREEN
-    WARNING = '\033[93m'    #YELLOW
-    FAIL = '\033[91m'       #RED
-    RESET = '\033[0m'       #RESET COLOR
+    OK = '\033[92m'  # GREEN
+    WARNING = '\033[93m'  # YELLOW
+    FAIL = '\033[91m'  # RED
+    RESET = '\033[0m'  # RESET COLOR
+
 
 def print_error(message):
     print(bcolors.FAIL + message + bcolors.RESET)
+
 
 def print_warning(message):
     print(bcolors.WARNING + message + bcolors.RESET)
@@ -84,27 +133,32 @@ def print_warning(message):
 #
 # cette fonction lit le fichier system.json et extrait les informations sur les packs
 #
-def getPacks(): 
-  response = json.loads(requests.get("https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/system.json").text)
-  packs = []
 
-  for p in response["packs"]:
-    match = re.search('packs/([-\w]+)\.db', p['path'])
-    if match:
-      p['id'] = match.group(1).strip()
-    else:
-      print("Error parsing ID from %s" % p['path'])
-      exit(1)
-    
-    if p['id'] in SUPPORTED:
-      packs.append({ **p, **SUPPORTED[p['id']]})
-      
-  return packs
+
+def getPacks():
+    response = json.loads(requests.get(
+        "https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/system.json").text)
+    packs = []
+
+    for p in response["packs"]:
+        match = re.search('packs/([-\w]+)\.db', p['path'])
+        if match:
+            p['id'] = match.group(1).strip()
+        else:
+            print("Error parsing ID from %s" % p['path'])
+            exit(1)
+
+        if p['id'] in SUPPORTED:
+            packs.append({**p, **SUPPORTED[p['id']]})
+
+    return packs
 
 #
 # cette fonction retourn vrai si les deux textes sont identiques
 # (ignore les retours à la ligne)
 #
+
+
 def equals(val1, val2):
     if isinstance(val1, dict) and isinstance(val2, dict):
         keys1 = list(val1.keys())
@@ -124,14 +178,14 @@ def equals(val1, val2):
             except AttributeError:
                 for item in val1[k]:
                     for e in item.values():
-                        if len(e.strip())>0:
+                        if len(e.strip()) > 0:
                             list1 += [e.strip()]
             try:
                 list2 = [e.strip() for e in val2[k] if len(e.strip()) > 0]
             except AttributeError:
                 for item in val2[k]:
                     for e in item.values():
-                        if len(e.strip())>0:
+                        if len(e.strip()) > 0:
                             list2 += [e.strip()]
             if list1 != list2:
                 return False
@@ -169,7 +223,8 @@ def getValue(obj, path, exitOnError=True, defaultValue=None):
         if len(element) == 0:
             return defaultValue
         if len(element) > 1:
-            print_warning("List has more than 1 element for '%s'! %s" % (element, path))
+            print_warning(
+                "List has more than 1 element for '%s'! %s" % (element, path))
             return element[len(element) - 1]
         return element[0]
     elif element.isdigit():
@@ -263,7 +318,7 @@ def fileToData(filepath):
 
             elif line.startswith("------ Benefits") or line.startswith("------ Spoilers"):
                 isData = False
-                continue            
+                continue
             elif line.startswith("------ Data"):
                 isData = True
             elif line.startswith("------ Description (en) ------"):
@@ -278,16 +333,17 @@ def fileToData(filepath):
                 continue
             elif not isDescEN and not isDescFR and len(line.strip()) > 0:
                 # tente de lire toutes les propriétés restantes comme des traduction FR/EN
-                
+
                 # on commence par rechercher le ':' en fin du mot
                 sep = line.find(":")
                 if sep < 0:
-                    print(bcolors.FAIL + "Invalid data '%s' in file %s " % (line, filepath) + bcolors.RESET)
+                    print(bcolors.FAIL + "Invalid data '%s' in file %s " %
+                          (line, filepath) + bcolors.RESET)
                     exit(1)
                 key = line[0:sep]
                 value = line[sep+1:].strip()
                 # on prend tous les attributs qui finissent par FR ou EN
-                if key.endswith("EN") or key.endswith("FR"):                    
+                if key.endswith("EN") or key.endswith("FR"):
                     key = key[0:-2]
                     lang = line[sep-2:sep]
                     if isData:
@@ -295,14 +351,15 @@ def fileToData(filepath):
                         # on l'ajoute au dictionnaire des données
                         # dataEN ou dataFR
                         if lang == "EN":
-                          dataEN[key] = value
+                            dataEN[key] = value
                         elif lang == "FR":
-                          dataFR[key] = value
+                            dataFR[key] = value
                     else:
                         # sinon, on considère que c'est une liste et on ajoute les éléments de cette liste dans le dictionnaire de données
                         # listsEN ou listsFR
                         liste = [e.strip() for e in value.split('|')]
-                        liste = [e.strip() for e in liste if len(e.strip()) > 0]
+                        liste = [e.strip()
+                                 for e in liste if len(e.strip()) > 0]
                         if lang == "EN":
                             listsEN[key] = liste
                         elif lang == "FR":
@@ -332,7 +389,7 @@ def fileToData(filepath):
         exit(1)
 
     return data
-    
+
 
 #
 # cette fonction écrit les datas avec le benefits en plus
@@ -345,7 +402,8 @@ def dataToFile(data, filepath):
         if data['listsEN']:
             for key in data['listsEN']:
                 try:
-                    df.write("%sEN: %s\n" % (key, "|".join(data['listsEN'][key])))
+                    df.write("%sEN: %s\n" %
+                             (key, "|".join(data['listsEN'][key])))
                 except TypeError:
                     values = ""
                     for item in data['listsEN'][key]:
@@ -353,7 +411,8 @@ def dataToFile(data, filepath):
                             values += "|" + e
                     df.write("%sEN: %s\n" % (key, values))
                 try:
-                    df.write("%sFR: %s\n" % (key, "|".join(data['listsFR'][key]) if key in data['listsFR'] else ""))
+                    df.write("%sFR: %s\n" % (key, "|".join(
+                        data['listsFR'][key]) if key in data['listsFR'] else ""))
                 except TypeError:
                     values = ""
                     for item in data['listsFR'][key]:
@@ -383,7 +442,8 @@ def dataToFile(data, filepath):
             for key in data['dataEN']:
                 if data['dataEN'][key] and len(data['dataEN'][key]) > 0:
                     df.write("%sEN: %s\n" % (key, data['dataEN'][key]))
-                    df.write("%sFR: %s\n" % (key, data['dataFR'][key] if key in data['dataFR'] else ""))
+                    df.write("%sFR: %s\n" % (
+                        key, data['dataFR'][key] if key in data['dataFR'] else ""))
 
         df.write('------ Description (en) ------' + '\n')
         df.write(data['descrEN'] + '\n')
@@ -404,6 +464,8 @@ def isValid(data):
 # cette fonction lit tous les fichiers d'un répertoire (data)
 # et génère un dictionnaire basé sur les identifiants
 #
+
+
 def readFolder(path):
     resultById = {}
     resultByName = {}
@@ -418,7 +480,8 @@ def readFolder(path):
             data['filename'] = fpath
 
             if data['id'] in resultById:
-                print_error("Duplicate data %s and %s, please fix it manually!" % (path + resultById[data['id']]['filename'], path + data['filename']))
+                print_error("Duplicate data %s and %s, please fix it manually!" % (
+                    path + resultById[data['id']]['filename'], path + data['filename']))
                 has_errors = True
             else:
                 resultById[data['id']] = data
@@ -428,32 +491,36 @@ def readFolder(path):
 
 #
 # Vérifie si la chaîne text est vide, et renvoie None si c'est le cas
-# 
-def emptyAsNull(value, empty = None):
-  if value is None:
-    return None
-  if empty is not None and value == empty:
-    return None
-  if isinstance(value, str) and len(value) == 0:
-    return None
-  return value
+#
+
+
+def emptyAsNull(value, empty=None):
+    if value is None:
+        return None
+    if empty is not None and value == empty:
+        return None
+    if isinstance(value, str) and len(value) == 0:
+        return None
+    return value
 
 #
 # Tente de convertir la valeur donnée sous forme d'entier
 # Si la conversion est impossible, renvoie la valeur telle quelle sans la modifier
 #
-def tryIntOrNone(value):
-  # si la valeur vaut None on renvoie None
-  if value is None:
-    return None
 
-  # si la valeur est une chaine correspondant à un nombre signe - au début puis des chiffres
-  # on la transfore en int
-  if isinstance(value, str) and re.match('-?\d+', value):
-    return int(value)
-  
-  # sinon on ne fait rien
-  return value
+
+def tryIntOrNone(value):
+    # si la valeur vaut None on renvoie None
+    if value is None:
+        return None
+
+    # si la valeur est une chaine correspondant à un nombre signe - au début puis des chiffres
+    # on la transfore en int
+    if isinstance(value, str) and re.match('-?\d+', value):
+        return int(value)
+
+    # sinon on ne fait rien
+    return value
 
 #
 # tente de charger un élément du dictionnaire imbriqué correspondant aux différentes propriétés données.
@@ -463,21 +530,25 @@ def tryIntOrNone(value):
 #
 # ex: tryGetDict(dict, 'data', 'name', 'value')
 #     équivaut à dict['data']['name']['value'] en renvoyant None si le dictionnaire ne contient pas l'une des clés
-# 
+#
+
+
 def tryGetDict(dict: dict, *args: str):
-  i = 0
-  node = dict
-  while i < len(args) and node is not None and args[i] in node:
-    node = node[args[i]]
-    i = i + 1
-  if i != len(args):
-    return None
-  return node
+    i = 0
+    node = dict
+    while i < len(args) and node is not None and args[i] in node:
+        node = node[args[i]]
+        i = i + 1
+    if i != len(args):
+        return None
+    return node
 
 #
 # ajoute un élément key de valeur value au dictionaire dict uniquement si la valeur ne vaut pas None
 #
+
+
 def addIfNotNull(dict: dict, key: str, value: any):
-  if value is None:
-    return
-  dict[key] = value
+    if value is None:
+        return
+    dict[key] = value

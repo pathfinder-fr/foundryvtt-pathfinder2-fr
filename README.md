@@ -67,6 +67,13 @@ Si la valeur est une donnée traduite (ex: traduction d'une phrase de portée de
 Il faut vérifier si la donnée traduite existe depuis les fichiers du dossier "data", et ensuite modifier la partie "Récupération données fichier .htm français" pour charger cette donnée.
 Si la donnée n'est pas présente dans le fichier .htm du dossier data, c'est que la donnée n'est pas gérée en traduction.
 
+## Ajout de données à extraire pour traduction
+
+Si il est décidé qu'un champ du JSON anglais doit faire l'objet d'une traduction, c'est le fichier libdata.py qui doit être modifié, et en particulier les packs (variable SUPPORTED)
+
+- si le champ JSON correspond à une liste, il faut ajouter le chemin de l'élément JSON tableau dans ̀`lists` (cf. prérequis des dons).
+- si le champ JSON correspond à une valeur, il faut ajouter le chemin de l'élément JSON dans `extract` (cf. sorts)
+
 ## État
 
 À jour au 7 juillet 2021
