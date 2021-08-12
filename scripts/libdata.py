@@ -442,8 +442,9 @@ def dataToFile(data, filepath):
             for key in data['dataEN']:
                 if data['dataEN'][key] and len(data['dataEN'][key]) > 0:
                     df.write("%sEN: %s\n" % (key, data['dataEN'][key]))
-                    df.write("%sFR: %s\n" % (
-                        key, data['dataFR'][key] if key in data['dataFR'] else ""))
+                    if data['dataFR'][key] and len(data['dataFR'][key]) > 0:
+                        df.write("%sFR: %s\n" % (
+                            key, data['dataFR'][key] if key in data['dataFR'] else ""))
 
         df.write('------ Description (en) ------' + '\n')
         df.write(data['descrEN'] + '\n')
