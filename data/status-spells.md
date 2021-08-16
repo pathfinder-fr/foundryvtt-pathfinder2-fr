@@ -1,20 +1,37 @@
 # État de la traduction (spells)
 
  * **libre**: 76
- * **changé**: 668
- * **officielle**: 148
- * **aucune**: 2
+ * **changé**: 669
+ * **officielle**: 147
+ * **aucune**: 19
 
 
-Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[abjuration-01-GzlVI3qYdCtUigLz.htm](spells/abjuration-01-GzlVI3qYdCtUigLz.htm)|Fey Abeyance|
+|[divination-02-8VzbumNyMEdSzZSz.htm](spells/divination-02-8VzbumNyMEdSzZSz.htm)|Impeccable Flow|
+|[divination-03-32NpJbPblay77K6v.htm](spells/divination-03-32NpJbPblay77K6v.htm)|Tattoo Whispers|
+|[divination-03-dL3A7H4LlRH26Imo.htm](spells/divination-03-dL3A7H4LlRH26Imo.htm)|Arcane Weaving|
+|[enchantment-02-29JyWqqZ0thCFr1C.htm](spells/enchantment-02-29JyWqqZ0thCFr1C.htm)|Mind Games|
+|[evocation-01-fprqWKUc0jnMIyGU.htm](spells/evocation-01-fprqWKUc0jnMIyGU.htm)|Airburst|
+|[evocation-01-TjrZGl8z2INgf3vi.htm](spells/evocation-01-TjrZGl8z2INgf3vi.htm)|Friendfetch|
+|[evocation-03-3P3M9SysSesALyoT.htm](spells/evocation-03-3P3M9SysSesALyoT.htm)|Dragon Breath (Sky)|
+|[evocation-03-fnDBgdEeuzHRupDu.htm](spells/evocation-03-fnDBgdEeuzHRupDu.htm)|Dragon Breath (Umbral)|
+|[evocation-03-k9M0kUhhHHGYquiA.htm](spells/evocation-03-k9M0kUhhHHGYquiA.htm)|Dragon Breath (Cloud)|
+|[evocation-03-NXm8z4W4YZazE2gn.htm](spells/evocation-03-NXm8z4W4YZazE2gn.htm)|Dragon Breath (Sea)|
+|[evocation-03-t5HAnKSHfSfHAJwH.htm](spells/evocation-03-t5HAnKSHfSfHAJwH.htm)|Dragon Breath (Crystal or Forest)|
+|[evocation-03-tC9HJ3sfQJFTacrE.htm](spells/evocation-03-tC9HJ3sfQJFTacrE.htm)|Dragon Breath (Sovereign)|
+|[evocation-03-tvBhGfGcg2fsMOMe.htm](spells/evocation-03-tvBhGfGcg2fsMOMe.htm)|Dragon Breath (Underworld)|
+|[necromancy-02-Xrz6wPXDBUr27izR.htm](spells/necromancy-02-Xrz6wPXDBUr27izR.htm)|Grave Impressions|
 |[necromancy-04-RbORUmnwlB8b3mNf.htm](spells/necromancy-04-RbORUmnwlB8b3mNf.htm)|Internal Insurrection|
 |[necromancy-05-tf4PMMMzR5xxJDun.htm](spells/necromancy-05-tf4PMMMzR5xxJDun.htm)|Cleansing Flames|
+|[transmutation-01-Juk3cD5385Ftybct.htm](spells/transmutation-01-Juk3cD5385Ftybct.htm)|Verminous Lure|
+|[transmutation-01-X8PSYw6WC2ePYSXd.htm](spells/transmutation-01-X8PSYw6WC2ePYSXd.htm)|Stumbling Curse|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -343,7 +360,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-03-06pzGkKTyPE3tHR8.htm](spells/evocation-03-06pzGkKTyPE3tHR8.htm)|Gravity Well|Puits de gravité|changé|
 |[evocation-03-0jWBnIDFpJjJShdQ.htm](spells/evocation-03-0jWBnIDFpJjJShdQ.htm)|Dragon Breath (Blue or Bronze)|Souffle de dragon (Bleu ou Bronze)|changé|
 |[evocation-03-57ulIxg3Of2wCbEh.htm](spells/evocation-03-57ulIxg3Of2wCbEh.htm)|Electrified Crystal Ward|Glyphe de cristal électrique|changé|
-|[evocation-03-6mmEz1UoTHGB7Sy9.htm](spells/evocation-03-6mmEz1UoTHGB7Sy9.htm)|Dragon Breath (Copper or Black)|Souffle de dragon (Cuivre ou Noir)|changé|
+|[evocation-03-6mmEz1UoTHGB7Sy9.htm](spells/evocation-03-6mmEz1UoTHGB7Sy9.htm)|Dragon Breath (Black, Brine or Copper)|Souffle de dragon (Cuivre ou Noir)|changé|
 |[evocation-03-9AAkVUCwF6WVNNY2.htm](spells/evocation-03-9AAkVUCwF6WVNNY2.htm)|Lightning Bolt|Éclair|changé|
 |[evocation-03-B8aCUMCHCIMUCEVK.htm](spells/evocation-03-B8aCUMCHCIMUCEVK.htm)|Elemental Motion|Mobilité élémentaire|changé|
 |[evocation-03-bmDgIbLa5NfkP97J.htm](spells/evocation-03-bmDgIbLa5NfkP97J.htm)|Dragon Breath (Silver or White)|Souffle de dragon (Argent ou Blanc)|changé|
@@ -353,7 +370,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-03-it4ZsAi6XgvGcodc.htm](spells/evocation-03-it4ZsAi6XgvGcodc.htm)|Wall of Wind|Mur de vent|changé|
 |[evocation-03-JcobNl4iE9HmMYtE.htm](spells/evocation-03-JcobNl4iE9HmMYtE.htm)|Dragon Breath|Souffle de dragon|changé|
 |[evocation-03-jupppBeFqhe6LMIb.htm](spells/evocation-03-jupppBeFqhe6LMIb.htm)|Dragon Breath (Green)|Souffle de dragon (Vert)|changé|
-|[evocation-03-kfsv7zSHb3pr7s9v.htm](spells/evocation-03-kfsv7zSHb3pr7s9v.htm)|Dragon Breath (Gold or Red)|Souffle de dragon (Or ou rouge)|changé|
+|[evocation-03-kfsv7zSHb3pr7s9v.htm](spells/evocation-03-kfsv7zSHb3pr7s9v.htm)|Dragon Breath (Gold, Magma or Red)|Souffle de dragon (Or ou rouge)|changé|
 |[evocation-03-kRsmUlSWhi6PJvZ7.htm](spells/evocation-03-kRsmUlSWhi6PJvZ7.htm)|Angelic Wings|Ailes d'ange|changé|
 |[evocation-03-L37RTc7K79OUpZ7X.htm](spells/evocation-03-L37RTc7K79OUpZ7X.htm)|Interstellar Void|Vide intersidéral|changé|
 |[evocation-03-LFSwMtQVP05EzlZe.htm](spells/evocation-03-LFSwMtQVP05EzlZe.htm)|Thunderburst|Explosion tempêtueuse|changé|
@@ -613,6 +630,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-09-ZMY58Yk5hnyfeE3q.htm](spells/necromancy-09-ZMY58Yk5hnyfeE3q.htm)|Linnorm Sting|Piqûre de linnorm|changé|
 |[necromancy-10-HpIJTVqgXorH9X0L.htm](spells/necromancy-10-HpIJTVqgXorH9X0L.htm)|Revival|Vivifier|changé|
 |[necromancy-10-IGXGs9PlqUCvODcH.htm](spells/necromancy-10-IGXGs9PlqUCvODcH.htm)|Song of the Fallen|Chanson des morts au combat|changé|
+|[transmutation-01-0xR9vrt6uDFl0Umo.htm](spells/transmutation-01-0xR9vrt6uDFl0Umo.htm)|Wild Morph|Métamorphose sauvage|changé|
 |[transmutation-01-1lmzILdCFENln8Cy.htm](spells/transmutation-01-1lmzILdCFENln8Cy.htm)|Physical Boost|Amélioration physique|changé|
 |[transmutation-01-8RWfKConLYFZpQ9X.htm](spells/transmutation-01-8RWfKConLYFZpQ9X.htm)|Wild Shape|Morphologie sauvage|changé|
 |[transmutation-01-aEM2cttJ2eYcLssW.htm](spells/transmutation-01-aEM2cttJ2eYcLssW.htm)|Fleet Step|Pas rapide|changé|
@@ -883,7 +901,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-06-9kOI14Jep97TzGO7.htm](spells/necromancy-06-9kOI14Jep97TzGO7.htm)|Life-Giving Form|Forme génératrice de vie|libre|
 |[necromancy-08-Ovvflf5aFbmBxqq8.htm](spells/necromancy-08-Ovvflf5aFbmBxqq8.htm)|Quivering Palm|Paume vibratoire|officielle|
 |[necromancy-10-uGXWkR2h8q9MRzEM.htm](spells/necromancy-10-uGXWkR2h8q9MRzEM.htm)|Hero's Defiance|Défi du héros|officielle|
-|[transmutation-01-0xR9vrt6uDFl0Umo.htm](spells/transmutation-01-0xR9vrt6uDFl0Umo.htm)|Wild Morph|Métamorphose sauvage|officielle|
 |[transmutation-01-cOjlzWerBwbPWVkX.htm](spells/transmutation-01-cOjlzWerBwbPWVkX.htm)|Agile Feet|Pieds Agiles|officielle|
 |[transmutation-01-gfPjmG6Fe6D3MFjl.htm](spells/transmutation-01-gfPjmG6Fe6D3MFjl.htm)|Pest Form|Forme de nuisible|officielle|
 |[transmutation-01-GUnw9YXaW3YyaCAU.htm](spells/transmutation-01-GUnw9YXaW3YyaCAU.htm)|Adapt Self|Adaptation de soi|officielle|

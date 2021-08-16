@@ -2,11 +2,11 @@
 
  * **auto-trad**: 4
  * **officielle**: 29
- * **libre**: 16
- * **changé**: 1
+ * **libre**: 15
+ * **changé**: 2
 
 
-Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -23,6 +23,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[BHq5wpQU8hQEke8D.htm](hazards/BHq5wpQU8hQEke8D.htm)|Hidden Pit|Fosse dissimulée|changé|
+|[Q8bXKgDm8eguqThB.htm](hazards/Q8bXKgDm8eguqThB.htm)|Brown Mold|Moisissure brune|changé|
 
 ## Liste des traductions complétés
 
@@ -59,7 +60,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[O0qA1ElCOgYGEBtL.htm](hazards/O0qA1ElCOgYGEBtL.htm)|Eternal Flame|Flamme éternelle|libre|
 |[OekigjNLNp9XENjx.htm](hazards/OekigjNLNp9XENjx.htm)|Drowning Pit|Fosse de noyade|officielle|
 |[oNLgR1iq6MVvNRWo.htm](hazards/oNLgR1iq6MVvNRWo.htm)|Lava Flume Tube|Déverseur de lave|officielle|
-|[Q8bXKgDm8eguqThB.htm](hazards/Q8bXKgDm8eguqThB.htm)|Brown Mold|Moisissure brune|libre|
 |[sFaAWmy1szDRmFtk.htm](hazards/sFaAWmy1szDRmFtk.htm)|Confounding Betrayal|Trahison confondante|libre|
 |[siylw0zIh1g4VnCW.htm](hazards/siylw0zIh1g4VnCW.htm)|Grasp Of The Damned|Emprise des damnés|officielle|
 |[su4TRBOoso4vjkoK.htm](hazards/su4TRBOoso4vjkoK.htm)|Bloodthirsty Urge|Pulsion sanguinaire|officielle|

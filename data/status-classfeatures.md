@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 199
- * **changé**: 69
- * **libre**: 111
+ * **officielle**: 196
+ * **changé**: 75
+ * **libre**: 108
  * **aucune**: 8
 
 
-Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -53,8 +53,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-17-CGetAmSbv06fW7GT.htm](classfeatures/alchemist-17-CGetAmSbv06fW7GT.htm)|Perpetual Perfection (Mutagenist)|Perfection perpétuelle (Mutagèniste)|changé|
 |[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|Perfection perpétuelle (Artificier)|changé|
 |[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|Perfection perpétuelle (Chirurgien)|changé|
+|[barbarian-01-SCYSjUbMmw8JD9P9.htm](classfeatures/barbarian-01-SCYSjUbMmw8JD9P9.htm)|Superstition Instinct|Instinct superstitieux|changé|
 |[bard-01-s0VbbQJNlSgPocui.htm](classfeatures/bard-01-s0VbbQJNlSgPocui.htm)|Composition Spells|Sorts de composition|changé|
+|[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin|Antipaladin|changé|
+|[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator|Libérateur|changé|
+|[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant|Tyran|changé|
+|[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin|Paladin|changé|
 |[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|changé|
+|[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer|Rédempteur|changé|
 |[cleric-01-AvNbdGSOTWNRgcxs.htm](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Divine Spellcasting (Cleric)|Incantation divine (Prêtre)|changé|
 |[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|changé|
 |[druid-01-b8pnRxGuNzG0buuh.htm](classfeatures/druid-01-b8pnRxGuNzG0buuh.htm)|Primal Spellcasting|Incantation primordiale|changé|
@@ -134,7 +140,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-01-pIYWMCNnYDQfSRQh.htm](classfeatures/barbarian-01-pIYWMCNnYDQfSRQh.htm)|Snake Animal Instinct|Instinct animal - Serpent|officielle|
 |[barbarian-01-RiOww9KMu06D7wtW.htm](classfeatures/barbarian-01-RiOww9KMu06D7wtW.htm)|Blue Dragon Instinct|Instinct du dragon - Bleu|officielle|
 |[barbarian-01-RQUJgDjJODO775qb.htm](classfeatures/barbarian-01-RQUJgDjJODO775qb.htm)|Deer Animal Instinct|Instinct animal - Cerf|libre|
-|[barbarian-01-SCYSjUbMmw8JD9P9.htm](classfeatures/barbarian-01-SCYSjUbMmw8JD9P9.htm)|Superstition Instinct|Instinct superstitieux|libre|
 |[barbarian-01-TQqv9Q5mB4PW6LH9.htm](classfeatures/barbarian-01-TQqv9Q5mB4PW6LH9.htm)|Spirit Instinct|Instinct spirituel|officielle|
 |[barbarian-01-uGY2yddm8mZx8Yo2.htm](classfeatures/barbarian-01-uGY2yddm8mZx8Yo2.htm)|Bear Animal Instinct|Instinct animal - Ours|libre|
 |[barbarian-01-vCNtX2LwlemhA3tu.htm](classfeatures/barbarian-01-vCNtX2LwlemhA3tu.htm)|Cat Animal Instinct|Instinct animal - Félin|libre|
@@ -168,16 +173,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-19-NjsOpWbbzUY2Hpk3.htm](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum Opus|Magnum opus|officielle|
 |[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator|Profanateur|libre|
 |[champion-01-ehL7mnkqxN5wIkgu.htm](classfeatures/champion-01-ehL7mnkqxN5wIkgu.htm)|Deity and Cause|Divinité et cause|officielle|
-|[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin|Antipaladin|libre|
-|[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator|Libérateur|officielle|
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|officielle|
 |[champion-01-fykh5pE99O3I2sOI.htm](classfeatures/champion-01-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|officielle|
-|[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant|Tyran|libre|
 |[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|Les principes du Mal|libre|
 |[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du Bien|officielle|
-|[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin|Paladin|officielle|
 |[champion-01-sXVX4ARUuo8Egrz5.htm](classfeatures/champion-01-sXVX4ARUuo8Egrz5.htm)|Champion's Reaction|Réaction de champion|officielle|
-|[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer|Rédempteur|officielle|
 |[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|Allié divin|officielle|
 |[champion-07-x5jaCJxsmD5sx3KB.htm](classfeatures/champion-07-x5jaCJxsmD5sx3KB.htm)|Armor Expertise (Level 7)|Expertise avec les armures (Niveau 7)|officielle|
 |[champion-09-3XK573A7GH1rrLgO.htm](classfeatures/champion-09-3XK573A7GH1rrLgO.htm)|Divine Smite|Châtiment divin|officielle|

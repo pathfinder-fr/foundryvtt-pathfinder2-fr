@@ -857,8 +857,8 @@
             "description": "<p>Votre litanie remet en question la morale que votre ennemi tient pour acquise. La cible obtient une faiblesse 7 contre le mal puis devient temporairement immunisée à toutes vos litanies pendant 1 minute.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La faiblesse augmente de 1.</p>"
         },
         {
-            "id": "Dragon Breath (Gold or Red)",
-            "name": "Dragon Breath (Gold or Red)",
+            "id": "Dragon Breath (Gold, Magma or Red)",
+            "name": "Dragon Breath (Gold, Magma or Red)",
             "description": "<p>De l’énergie jaillit de votre bouche en infligeant [[/r 5d6 #feu]] dégâts de feu dans un cône de 9 m. Les créatures affectées peuvent faire un jet de Réflexes basique.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de [[/r 2d6]].</p>"
         },
         {
@@ -3807,8 +3807,8 @@
             "description": "<p>Une liane couverte de sève collante apparaît comme par magie, sortant rapidement de votre main, et s’arrime à la cible. Faites une attaque de sort contre la cible.</p>\n<p>@Compendium[pf2e.spell-effects.TwtUIEyenrtAbeiX]{Effet : Entrave}</p>\n<hr />\n<p><strong>Succès critique</strong> La cible gagne l’état @Compendium[pf2e.conditionspf2e.eIcWbB5o3pP6OIMe]{Immobilisé} et subit un malus de circonstances de −3 mètres à ses Vitesses pendant 1 round. Elle peut tenter de S’échapper contre votre DD de sorts pour retirer le malus et l’état immobilisé.</p>\n<p><strong>Succès</strong>La cible subit un malus de circonstances de −3 mètres à ses Vitesses pendant 1 round. Elle peut tenter de S’échapper contre votre DD de sorts pour retirer le malus.</p>\n<p><strong>Échec</strong> La cible n’est pas affectée.</p>\n<hr />\n<p><strong>Intensifié (2ème)</strong>Les effets durent 2 rounds</p>\n<p><strong>Intensifié (4ème)</strong>Les effets durent 1 minute.</p>"
         },
         {
-            "id": "Dragon Breath (Copper or Black)",
-            "name": "Dragon Breath (Copper or Black)",
+            "id": "Dragon Breath (Black, Brine or Copper)",
+            "name": "Dragon Breath (Black, Brine or Copper)",
             "description": "<p>Vous crachez de l'énergie de votre bouche, infligeant [[/r 5d6 #acide]] dégâts acides sur une ligne de 18 mètres. Les créatures affectées peuvent effectuer une sauvegarde de base en Réflexes.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de [[/r 2d6]].</p>"
         },
         {

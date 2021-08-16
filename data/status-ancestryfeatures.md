@@ -1,12 +1,12 @@
 # État de la traduction (ancestryfeatures)
 
  * **aucune**: 2
- * **libre**: 176
+ * **libre**: 177
  * **officielle**: 28
- * **changé**: 3
+ * **changé**: 2
 
 
-Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -20,7 +20,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[feat-01-3F5ffk7cmnrBhPcT.htm](ancestryfeatures/feat-01-3F5ffk7cmnrBhPcT.htm)|Liminal Catfolk|Homme-félin liminaire|changé|
 |[feat-01-NWsZ0cIeghyzk9bU.htm](ancestryfeatures/feat-01-NWsZ0cIeghyzk9bU.htm)|Sharp-Eared Catfolk|Homme-félin aux oreilles pointues|changé|
 |[feat-01-vt67b8uoNEbskcBv.htm](ancestryfeatures/feat-01-vt67b8uoNEbskcBv.htm)|Hydration|Hydratation|changé|
 
@@ -45,6 +44,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-2kSzKDtwbcILZTIe.htm](ancestryfeatures/feat-01-2kSzKDtwbcILZTIe.htm)|Snaptongue Grippli|Grippli à longue langue|libre|
 |[feat-01-32oX6hHUY6K8N70Q.htm](ancestryfeatures/feat-01-32oX6hHUY6K8N70Q.htm)|Charhide Goblin|Gobelin peaud'charbon|officielle|
 |[feat-01-35k2aujXYvqUCSS1.htm](ancestryfeatures/feat-01-35k2aujXYvqUCSS1.htm)|Cavern Kobold|Kobold cavernicole|libre|
+|[feat-01-3F5ffk7cmnrBhPcT.htm](ancestryfeatures/feat-01-3F5ffk7cmnrBhPcT.htm)|Liminal Catfolk|Homme-félin liminaire|libre|
 |[feat-01-3reGfXH0S82hM7Gp.htm](ancestryfeatures/feat-01-3reGfXH0S82hM7Gp.htm)|Ganzi|Ganzi|libre|
 |[feat-01-5A1wMPdzN1OWE4cY.htm](ancestryfeatures/feat-01-5A1wMPdzN1OWE4cY.htm)|Caveclimber Kobold|Kobold grimpegrotte|libre|
 |[feat-01-5CqsBKCZuGON53Hk.htm](ancestryfeatures/feat-01-5CqsBKCZuGON53Hk.htm)|Forge Dwarf|Nain des forges|officielle|

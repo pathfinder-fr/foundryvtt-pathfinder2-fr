@@ -609,7 +609,7 @@
         {
             "id": "Liminal Catfolk",
             "name": "Homme-félin liminaire (Liminal Catfolk)",
-            "description": "<p>Vous avez hérité d'une proximité avec les lointains confins du monde, là où les frontières entre les dimensions deviennent fines. Vous pouvez lancer Détection de la magie comme un tour de magie occulte inné intensifié à la moitié de votre niveau, arrondi au supérieur. Vous obtenez aussi un bonus de circonstances de +1 aux tests d'Occultisme pour Vous souvenir à propos des créatures qui sont étrangères au Plan matériel.</p>"
+            "description": "<p>Vous avez hérité d'une proximité avec les lointains confins du monde, là où les frontières entre les dimensions deviennent fines. Vous pouvez lancer Détection de la magie comme un tour de magie occulte inné intensifié à la moitié de votre niveau, arrondi au supérieur.</p>\n<p>Vous obtenez aussi un bonus de circonstances de +1 aux tests d'Occultisme pour Vous souvenir à propos des créatures qui sont étrangères au Plan Matériel.</p>"
         },
         {
             "id": "Root Leshy",

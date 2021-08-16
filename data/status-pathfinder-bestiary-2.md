@@ -1,10 +1,10 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 340
- * **changé**: 18
+ * **libre**: 337
+ * **changé**: 21
 
 
-Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -29,11 +29,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[DYBZniwR1Ip4inVr.htm](pathfinder-bestiary-2/DYBZniwR1Ip4inVr.htm)|Morlock|Morlock|changé|
 |[FHnWzK7DsniqZWzG.htm](pathfinder-bestiary-2/FHnWzK7DsniqZWzG.htm)|Nereid|Néréide|changé|
 |[iW6WKMVV3Ug8sa2q.htm](pathfinder-bestiary-2/iW6WKMVV3Ug8sa2q.htm)|Thanadaemon|Thanadeaemon|changé|
+|[JCoILqEvwovT7tkj.htm](pathfinder-bestiary-2/JCoILqEvwovT7tkj.htm)|Chupacabra|Chupacabra|changé|
 |[NQ6qRvpD9DIwVxt3.htm](pathfinder-bestiary-2/NQ6qRvpD9DIwVxt3.htm)|Vampiric Mist|Brume Vampirique|changé|
 |[SFpMOxBwiS529dJk.htm](pathfinder-bestiary-2/SFpMOxBwiS529dJk.htm)|Brownie|Lutin|changé|
 |[SYaC46yrqcyp16Dq.htm](pathfinder-bestiary-2/SYaC46yrqcyp16Dq.htm)|Weretiger|Tigre-garou|changé|
 |[URYQ5goPCmrQvJf5.htm](pathfinder-bestiary-2/URYQ5goPCmrQvJf5.htm)|Giant Ant|Fourmi géante|changé|
+|[wCsfRovcZMZxSdGm.htm](pathfinder-bestiary-2/wCsfRovcZMZxSdGm.htm)|Zebub|Zebub|changé|
 |[y9D2wh63pBzIyI7i.htm](pathfinder-bestiary-2/y9D2wh63pBzIyI7i.htm)|Giant Maggot|Asticot géant|changé|
+|[Z2v611Np3J1MBkpv.htm](pathfinder-bestiary-2/Z2v611Np3J1MBkpv.htm)|Dream Spider|Araignée du Rêve|changé|
 
 ## Liste des traductions complétés
 
@@ -184,7 +187,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[iLZpGlyBWxS4Idbi.htm](pathfinder-bestiary-2/iLZpGlyBWxS4Idbi.htm)|Emperor Cobra|Cobra Empereur|libre|
 |[j43O2vBu8eu2wC5z.htm](pathfinder-bestiary-2/j43O2vBu8eu2wC5z.htm)|Vrykolakas Master|Maître Vrykolakas|libre|
 |[jCJUvzs1FaL6PAkq.htm](pathfinder-bestiary-2/jCJUvzs1FaL6PAkq.htm)|Bodak|Bodak|libre|
-|[JCoILqEvwovT7tkj.htm](pathfinder-bestiary-2/JCoILqEvwovT7tkj.htm)|Chupacabra|Chupacabra|libre|
 |[JgePINrFINmlsvn3.htm](pathfinder-bestiary-2/JgePINrFINmlsvn3.htm)|Hound Of Tindalos|Chien de Chasse de Tindalos|libre|
 |[jgMFqFDNUWsrnnBH.htm](pathfinder-bestiary-2/jgMFqFDNUWsrnnBH.htm)|Tick Swarm|Nuée de Tiques|libre|
 |[jhr6WpTeY8GXXwK1.htm](pathfinder-bestiary-2/jhr6WpTeY8GXXwK1.htm)|Ifrit Pyrochemist|Pyrochimistes Ifrit|libre|
@@ -324,7 +326,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[W2gd0emEVbD8EGmf.htm](pathfinder-bestiary-2/W2gd0emEVbD8EGmf.htm)|Marsh Giant|Géant des marais|libre|
 |[wBGUIPJMm9Van9GQ.htm](pathfinder-bestiary-2/wBGUIPJMm9Van9GQ.htm)|Ice Yai|Yai de Glace|libre|
 |[wByXwxI5r7YRlkAK.htm](pathfinder-bestiary-2/wByXwxI5r7YRlkAK.htm)|Shoggti|Shoggti|libre|
-|[wCsfRovcZMZxSdGm.htm](pathfinder-bestiary-2/wCsfRovcZMZxSdGm.htm)|Zebub|Zebub|libre|
 |[wE9kb53ZHifUfdD8.htm](pathfinder-bestiary-2/wE9kb53ZHifUfdD8.htm)|Petitioner (Abyss)|Pétitionnaire (Abysses)|libre|
 |[wjcBMB7OvCHrnS39.htm](pathfinder-bestiary-2/wjcBMB7OvCHrnS39.htm)|Petitioner (Material Plane)|Pétitionnaire (Plan Matériel)|libre|
 |[WjZCNuHNKfeeHCQS.htm](pathfinder-bestiary-2/WjZCNuHNKfeeHCQS.htm)|Worm That Walks Cultist|Cultiste Ver-qui-marche|libre|
@@ -364,7 +365,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[yvmX4J21XE1wqDar.htm](pathfinder-bestiary-2/yvmX4J21XE1wqDar.htm)|Esobok|Ésobok|libre|
 |[yXP9vS35tZ5iAUix.htm](pathfinder-bestiary-2/yXP9vS35tZ5iAUix.htm)|Petitioner (Astral Plane)|Pétitionnaire (Plan Astral)|libre|
 |[YZeJRw4hvKyBrNFx.htm](pathfinder-bestiary-2/YZeJRw4hvKyBrNFx.htm)|Petitioner (Hell)|Pétitionnaire (Enfers)|libre|
-|[Z2v611Np3J1MBkpv.htm](pathfinder-bestiary-2/Z2v611Np3J1MBkpv.htm)|Dream Spider|Araignée du Rêve|libre|
 |[z39LYFGYmOsoGVSh.htm](pathfinder-bestiary-2/z39LYFGYmOsoGVSh.htm)|Hippocampus|Hippocampe|libre|
 |[Z3J7uGaLmlFRfwPk.htm](pathfinder-bestiary-2/Z3J7uGaLmlFRfwPk.htm)|Magma Scorpion|Scorpion magmatique|libre|
 |[Z4eI4EhXBWDs8bl8.htm](pathfinder-bestiary-2/Z4eI4EhXBWDs8bl8.htm)|Undine Hydromancer|Ondin hydromancienne|libre|

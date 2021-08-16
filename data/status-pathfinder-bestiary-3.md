@@ -1,10 +1,10 @@
 # État de la traduction (pathfinder-bestiary-3)
 
- * **libre**: 331
- * **changé**: 9
+ * **libre**: 332
+ * **changé**: 8
 
 
-Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -14,9 +14,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cXz5nWwlbRQ1g90y.htm](pathfinder-bestiary-3/cXz5nWwlbRQ1g90y.htm)|Young Sky Dragon|Jeune dragon du ciel|changé|
 |[DCzr8qOfSg2K7e3z.htm](pathfinder-bestiary-3/DCzr8qOfSg2K7e3z.htm)|Ancient Sea Dragon|Dragon de la mer vénérable|changé|
 |[JZMK7j7WGWlB3Jhw.htm](pathfinder-bestiary-3/JZMK7j7WGWlB3Jhw.htm)|Young Sea Dragon|Jeune dragon de la mer|changé|
-|[Ls2qYZDASu3VgXxo.htm](pathfinder-bestiary-3/Ls2qYZDASu3VgXxo.htm)|Ancient Sky Dragon|Dragon du ciel vénérable|changé|
 |[nX3LIuvHqiKNrth9.htm](pathfinder-bestiary-3/nX3LIuvHqiKNrth9.htm)|Ancient Underworld Dragon|Dragon des profondeurs ancient|changé|
-|[OrO28a9h8kakTTj7.htm](pathfinder-bestiary-3/OrO28a9h8kakTTj7.htm)|Young Sovereign Dragon|Jeune dragon souverain|changé|
+|[TeaF0WreNshQxbe8.htm](pathfinder-bestiary-3/TeaF0WreNshQxbe8.htm)|Wizard Sponge (Toxic Lair)|Éponge de mage (Antre toxique)|changé|
 |[uDNQyboLAiIxBatL.htm](pathfinder-bestiary-3/uDNQyboLAiIxBatL.htm)|Adult Sea Dragon|Dragon de la mer adulte|changé|
 |[wmKIB7cgWdAZ29mv.htm](pathfinder-bestiary-3/wmKIB7cgWdAZ29mv.htm)|Adult Underworld Dragon|Dragon des profondeurs adulte|changé|
 |[zMoJh88vXJQwSHsX.htm](pathfinder-bestiary-3/zMoJh88vXJQwSHsX.htm)|Abandoned Zealot|Fanatiques abandonnés|changé|
@@ -75,7 +74,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9PSCqGy7e2GDQpfU.htm](pathfinder-bestiary-3/9PSCqGy7e2GDQpfU.htm)|Love Siktempora|Siktempora de l'amour|libre|
 |[9RNisBYwGOCQan1S.htm](pathfinder-bestiary-3/9RNisBYwGOCQan1S.htm)|Haniver|Haniver (Gremlin)|libre|
 |[9rugdliEg2udjROC.htm](pathfinder-bestiary-3/9rugdliEg2udjROC.htm)|Pufferfish|Poisson-globe|libre|
-|[9SW7NWlTisAjNwAu.htm](pathfinder-bestiary-3/9SW7NWlTisAjNwAu.htm)|Nyktera|Nyktera (Sprite)|libre|
+|[9SW7NWlTisAjNwAu.htm](pathfinder-bestiary-3/9SW7NWlTisAjNwAu.htm)|Nyktera|Nyctère (sprite)|libre|
 |[9uP6Dfv53H4Fa32c.htm](pathfinder-bestiary-3/9uP6Dfv53H4Fa32c.htm)|Consonite Choir|Choeur consonite|libre|
 |[A7TFAr1rBtKJyprn.htm](pathfinder-bestiary-3/A7TFAr1rBtKJyprn.htm)|Sulfur Zombie|Zombie de souffre|libre|
 |[aAU3gHWd1a9DyQPH.htm](pathfinder-bestiary-3/aAU3gHWd1a9DyQPH.htm)|Nosferatu Overlord|Seigneur Nosferatu|libre|
@@ -194,25 +193,26 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[L5cNazEKC5gASp41.htm](pathfinder-bestiary-3/L5cNazEKC5gASp41.htm)|Mothman|Homme-phalène|libre|
 |[lat5aZFMlWUR2Wbs.htm](pathfinder-bestiary-3/lat5aZFMlWUR2Wbs.htm)|Lampad Queen|Reine Lampade (Nymphe)|libre|
 |[ldzHiLhLAHhwpVJe.htm](pathfinder-bestiary-3/ldzHiLhLAHhwpVJe.htm)|House Drake|Drake de maison|libre|
-|[LjpOnADaKe9ormfL.htm](pathfinder-bestiary-3/LjpOnADaKe9ormfL.htm)|Kuchisake-Onna|Kuchisake-Onna|libre|
+|[LjpOnADaKe9ormfL.htm](pathfinder-bestiary-3/LjpOnADaKe9ormfL.htm)|Kuchisake-Onna|Kuchisake-onna|libre|
 |[lqDwO2xkBNNEZ57B.htm](pathfinder-bestiary-3/lqDwO2xkBNNEZ57B.htm)|Elder Wyrmwraith|Spectre de dragon vénérable|libre|
 |[Lqm3acjjbLKuRUCf.htm](pathfinder-bestiary-3/Lqm3acjjbLKuRUCf.htm)|Peri|Pèri|libre|
 |[lrSuRCrRjP3xBfRy.htm](pathfinder-bestiary-3/lrSuRCrRjP3xBfRy.htm)|Megatherium|Mégathérium|libre|
+|[Ls2qYZDASu3VgXxo.htm](pathfinder-bestiary-3/Ls2qYZDASu3VgXxo.htm)|Ancient Sky Dragon|Dragon du ciel vénérable|libre|
 |[LTSZ3LD1L7ZthoD2.htm](pathfinder-bestiary-3/LTSZ3LD1L7ZthoD2.htm)|Misery Siktempora|Siktempora de la misère|libre|
-|[mbu0D45HPRNAwgEU.htm](pathfinder-bestiary-3/mbu0D45HPRNAwgEU.htm)|Munagola|Munagola|libre|
+|[mbu0D45HPRNAwgEU.htm](pathfinder-bestiary-3/mbu0D45HPRNAwgEU.htm)|Munagola|Munagola (diable)|libre|
 |[MD6eXpxoSPO02fZY.htm](pathfinder-bestiary-3/MD6eXpxoSPO02fZY.htm)|Xiuh Couatl|xiuhcouatl|libre|
-|[mgQSYE94vb2ICVjL.htm](pathfinder-bestiary-3/mgQSYE94vb2ICVjL.htm)|Locathah Hunter|Chasseur Locathah|libre|
+|[mgQSYE94vb2ICVjL.htm](pathfinder-bestiary-3/mgQSYE94vb2ICVjL.htm)|Locathah Hunter|Chasseur locathah|libre|
 |[MJhb44wEqSMWtrfe.htm](pathfinder-bestiary-3/MJhb44wEqSMWtrfe.htm)|Angheuvore Flesh-gnawer|Mange-chair angheuvore (Mortique)|libre|
 |[mK7FwVR1yyqeMlA4.htm](pathfinder-bestiary-3/mK7FwVR1yyqeMlA4.htm)|Seething Spirit|Esprit fulminant|libre|
-|[MolnKBns2ePDFbAB.htm](pathfinder-bestiary-3/MolnKBns2ePDFbAB.htm)|Hellbound Attorney|Avocat des enfers|libre|
+|[MolnKBns2ePDFbAB.htm](pathfinder-bestiary-3/MolnKBns2ePDFbAB.htm)|Hellbound Attorney|Avocat des enfers (diable)|libre|
 |[mRsiT9EtpbOQ7AeX.htm](pathfinder-bestiary-3/mRsiT9EtpbOQ7AeX.htm)|Draconal|Draconal (Agathion dragon)|libre|
-|[MtCiCanKa8EgZOm9.htm](pathfinder-bestiary-3/MtCiCanKa8EgZOm9.htm)|Three-toed Sloth|Paresseux trois-orteils|libre|
+|[MtCiCanKa8EgZOm9.htm](pathfinder-bestiary-3/MtCiCanKa8EgZOm9.htm)|Three-toed Sloth|Paresseux à trois-orteils|libre|
 |[mupW1Mgec250lQiZ.htm](pathfinder-bestiary-3/mupW1Mgec250lQiZ.htm)|Umasi|Umasi|libre|
 |[n1GmLT7b5Q579Tcf.htm](pathfinder-bestiary-3/n1GmLT7b5Q579Tcf.htm)|Trailgaunt|Échalas des chemins|libre|
 |[N6nBHGfmlaeMiBMP.htm](pathfinder-bestiary-3/N6nBHGfmlaeMiBMP.htm)|Hellwasp Swarm|Nuée de guêpes de l'enfer|libre|
-|[n9xSjQA1YSlYc9p3.htm](pathfinder-bestiary-3/n9xSjQA1YSlYc9p3.htm)|Millindemalion|Millindemalion (fey)|libre|
+|[n9xSjQA1YSlYc9p3.htm](pathfinder-bestiary-3/n9xSjQA1YSlYc9p3.htm)|Millindemalion|Millindemalion (fée)|libre|
 |[NhHGDx6ChbrhAmbO.htm](pathfinder-bestiary-3/NhHGDx6ChbrhAmbO.htm)|Domovoi|Domovoï (esprit de la maison)|libre|
-|[NikAalo85JWVE6d2.htm](pathfinder-bestiary-3/NikAalo85JWVE6d2.htm)|Nagaji Soldier|Soldat Nagaji|libre|
+|[NikAalo85JWVE6d2.htm](pathfinder-bestiary-3/NikAalo85JWVE6d2.htm)|Nagaji Soldier|Soldat nagaji|libre|
 |[nIXWanjtyklfwH7u.htm](pathfinder-bestiary-3/nIXWanjtyklfwH7u.htm)|Tiddalik|Tiddalik|libre|
 |[NldgVUIHB3asozHm.htm](pathfinder-bestiary-3/NldgVUIHB3asozHm.htm)|Wyrmwraith|Spectre de dragon|libre|
 |[nnI7oj1BcetLUTYo.htm](pathfinder-bestiary-3/nnI7oj1BcetLUTYo.htm)|Etioling Blightmage|Fléau-Mage étiolant (Mortique)|libre|
@@ -223,7 +223,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nr8EXKLSejspbb3d.htm](pathfinder-bestiary-3/nr8EXKLSejspbb3d.htm)|Red Fox|Renard roux|libre|
 |[NSD8H0xzbSWOgt7x.htm](pathfinder-bestiary-3/NSD8H0xzbSWOgt7x.htm)|Stone Lion Cub|Lionceau de pierre|libre|
 |[NUWL7LHDqmP0c7OB.htm](pathfinder-bestiary-3/NUWL7LHDqmP0c7OB.htm)|Tooth Fairy Swarm|Nuée de fées des dents|libre|
-|[nzF46X8zcUG0CvpV.htm](pathfinder-bestiary-3/nzF46X8zcUG0CvpV.htm)|Pakalchi|Pakalchi (Sahkil)|libre|
+|[nzF46X8zcUG0CvpV.htm](pathfinder-bestiary-3/nzF46X8zcUG0CvpV.htm)|Pakalchi|Pakalchi (sahkil)|libre|
 |[o740a5FFLG834FkV.htm](pathfinder-bestiary-3/o740a5FFLG834FkV.htm)|Desert Giant|Géant du désert|libre|
 |[O8iynsWnjObQ8TJl.htm](pathfinder-bestiary-3/O8iynsWnjObQ8TJl.htm)|Soul Skelm|Skelm d'âme|libre|
 |[O9TQjp3scKfW8SZK.htm](pathfinder-bestiary-3/O9TQjp3scKfW8SZK.htm)|Shulsaga|Shulsaga (Énnosite)|libre|
@@ -233,6 +233,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[OPeTxIUwkkAjC6T5.htm](pathfinder-bestiary-3/OPeTxIUwkkAjC6T5.htm)|Hyakume|Hyakumé|libre|
 |[OPRuZ1cEuKkJGPMV.htm](pathfinder-bestiary-3/OPRuZ1cEuKkJGPMV.htm)|Earth Wisp|Volute de la Terre|libre|
 |[oR8cm0Aj5FIDF67w.htm](pathfinder-bestiary-3/oR8cm0Aj5FIDF67w.htm)|Zetogeki|Zétogeki|libre|
+|[OrO28a9h8kakTTj7.htm](pathfinder-bestiary-3/OrO28a9h8kakTTj7.htm)|Young Sovereign Dragon|Jeune dragon souverain|libre|
 |[OsWFo87OQ4G67zMS.htm](pathfinder-bestiary-3/OsWFo87OQ4G67zMS.htm)|Kurobozu|Kurobozu|libre|
 |[OTEJFZ03NDqtrhcj.htm](pathfinder-bestiary-3/OTEJFZ03NDqtrhcj.htm)|Hadrinnex|Hadrinnexes|libre|
 |[pCDp2hdim12wonW5.htm](pathfinder-bestiary-3/pCDp2hdim12wonW5.htm)|Occult Living Rune|Rune vivante occulte|libre|
@@ -248,15 +249,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[qE0iZoeeOp7og5A5.htm](pathfinder-bestiary-3/qE0iZoeeOp7og5A5.htm)|Giant Seahorse|Hippocampe géant|libre|
 |[QJRi6WzEm0LbXjAc.htm](pathfinder-bestiary-3/QJRi6WzEm0LbXjAc.htm)|Doru|Doru (Div)|libre|
 |[QLxcPfaHfc1vmF1Y.htm](pathfinder-bestiary-3/QLxcPfaHfc1vmF1Y.htm)|Terra-cotta Garrison|Garnison de soldats en terre cuite|libre|
-|[qlYzd5vmhsFTNdbX.htm](pathfinder-bestiary-3/qlYzd5vmhsFTNdbX.htm)|Esipil|Ésipil (Sahkil)|libre|
+|[qlYzd5vmhsFTNdbX.htm](pathfinder-bestiary-3/qlYzd5vmhsFTNdbX.htm)|Esipil|Ésipil (sahkil)|libre|
 |[qm0YqO9ik2U2Gjdx.htm](pathfinder-bestiary-3/qm0YqO9ik2U2Gjdx.htm)|Moon Hag|Guenaude de la lune|libre|
 |[qnFiUNUyH0zuG6hj.htm](pathfinder-bestiary-3/qnFiUNUyH0zuG6hj.htm)|Quintessivore|Quintessivore|libre|
 |[QrD96KPUHGjjkLbL.htm](pathfinder-bestiary-3/QrD96KPUHGjjkLbL.htm)|Kappa|Kappa|libre|
 |[QUzBzxRy6HLeK7ja.htm](pathfinder-bestiary-3/QUzBzxRy6HLeK7ja.htm)|Dybbuk|Dybbuk|libre|
-|[qvVmYuERMib26Atc.htm](pathfinder-bestiary-3/qvVmYuERMib26Atc.htm)|Crossroads Guardian|Gardien de croisée|libre|
-|[QWx9cIVUeP7dMOez.htm](pathfinder-bestiary-3/QWx9cIVUeP7dMOez.htm)|Roiling Incant|Incantation tourbillonante|libre|
+|[qvVmYuERMib26Atc.htm](pathfinder-bestiary-3/qvVmYuERMib26Atc.htm)|Crossroads Guardian|Gardien des carrefours|libre|
+|[QWx9cIVUeP7dMOez.htm](pathfinder-bestiary-3/QWx9cIVUeP7dMOez.htm)|Roiling Incant|Incantation tourbillonnante|libre|
 |[QYkuUQNVml878cIy.htm](pathfinder-bestiary-3/QYkuUQNVml878cIy.htm)|Ledalusca|Lédalusca|libre|
-|[QyuUubTtR38kafue.htm](pathfinder-bestiary-3/QyuUubTtR38kafue.htm)|Manticore Paaridar|Manticore Paaridar|libre|
+|[QyuUubTtR38kafue.htm](pathfinder-bestiary-3/QyuUubTtR38kafue.htm)|Manticore Paaridar|Paaridar manticore|libre|
 |[rBHAfYDWpEuzbzqV.htm](pathfinder-bestiary-3/rBHAfYDWpEuzbzqV.htm)|Street Skelm|Skelm de rue|libre|
 |[RCsFDD6nqNUX0gIa.htm](pathfinder-bestiary-3/RCsFDD6nqNUX0gIa.htm)|Chyzaedu|Chyzaedu|libre|
 |[rFpExrqWywVDPYdP.htm](pathfinder-bestiary-3/rFpExrqWywVDPYdP.htm)|Brainchild|Enfant-cerveau|libre|
@@ -291,7 +292,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Su21mCjUxFJnoWGg.htm](pathfinder-bestiary-3/Su21mCjUxFJnoWGg.htm)|Azer|Azer|libre|
 |[SuI5sxy5cuc0lnsh.htm](pathfinder-bestiary-3/SuI5sxy5cuc0lnsh.htm)|Platecarpus|Platecarpus|libre|
 |[tdSnY3lgYJnsvB8n.htm](pathfinder-bestiary-3/tdSnY3lgYJnsvB8n.htm)|Wizard Sponge|Éponge de mage|libre|
-|[TeaF0WreNshQxbe8.htm](pathfinder-bestiary-3/TeaF0WreNshQxbe8.htm)|Wizard Sponge (Toxic Lair)|Éponge de mage (Antre toxique)|libre|
 |[tjtTHdIBP5QIAyS7.htm](pathfinder-bestiary-3/tjtTHdIBP5QIAyS7.htm)|Vishkanya Infiltrator|Infiltrateur Vishkanya|libre|
 |[tQBUoh5wLJXiFdX6.htm](pathfinder-bestiary-3/tQBUoh5wLJXiFdX6.htm)|Seaweed Leshy|Léchi algue|libre|
 |[tQIYWBefvpemUVeJ.htm](pathfinder-bestiary-3/tQIYWBefvpemUVeJ.htm)|Nosferatu Thrall|Esclave Nosferatu|libre|

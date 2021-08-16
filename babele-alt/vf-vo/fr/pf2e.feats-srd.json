@@ -3726,8 +3726,8 @@
             ]
         },
         {
-            "id": "Fortutious Shift",
-            "name": "Phasage fortuit (Fortutious Shift)",
+            "id": "Fortuitous Shift",
+            "name": "Phasage fortuit (Fortuitous Shift)",
             "description": "<p>Vous êtes devenu plus à l'aise avec votre penchant pour la disparition surnaturelle.</p>\n<p>Le DD du test nu de votre don Phasage inattendu descend à 11 et vous n'être plus @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui} si vous réussissez.</p>",
             "prereq": [
                 {
@@ -7582,16 +7582,6 @@
             ]
         },
         {
-            "id": "Iruxi Unarmed Expertise",
-            "name": "Expertise à mains nues Iruxi (Iruxi Unarmed Expertise)",
-            "description": "<p>Vos attaques à mains nues mélangent tradition et entraînement.</p>\n<p>Lorsque vous obtenez une capacité de classe qui vous accorde la maîtrise experte ou supérieure avec une arme, vous obtenez aussi cette maîtrise pour l'attaque de griffe et pour les attaques à mains nues que vous avez obtenues par le biais de vos dons ancestraux iruxis.</p>",
-            "prereq": [
-                {
-                    "value": "Ruse à mains nues iruxie"
-                }
-            ]
-        },
-        {
             "id": "Armored Rebuff",
             "name": "Repousser avec l'armure (Armored Rebuff)",
             "description": "<p><strong>Déclencheur</strong> Un ennemi adjacent obtient un échec critique à un jet d'attaque pour vous @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frapper} avec une arme au corps-à-corps ou une attaque à mains nues.</p>\n<p><strong>Conditions</strong> Vous portez une armure intermédiaire ou lourde.</p>\n<hr>\n<p>Vous repoussez les piètres attaques avec votre armure, rejetant votre adversaire en arrière. Faites un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} l'adversaire déclencheur, même si vous n'avez pas de main libre. En cas de réussite, vous ne pouvez @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marcher rapidement} pour suivre cet ennemi, puisque vous le rejetez avec le rebond de l'attaque et non pas en vous déplaçant physiquement vers lui.</p>",
@@ -8835,8 +8825,8 @@
             ]
         },
         {
-            "id": "Warding Rune",
-            "name": "Rune de garde (Warding Rune)",
+            "id": "Warding Rune (Enchantment)",
+            "name": "Rune de garde (Warding Rune (Enchantment))",
             "description": "<p>Vos runes génèrent un effet protecteur contre une école de magie spécifique.</p>\n<p>Choisissezune autre école que celle de la divination. Une rune correspondant à cette école se dessine sur votre corps et vous gagnez un bonus de circonstances de +2 à tous les jets de sauvegarde contre les effets de cette école.</p>",
             "prereq": [
                 {
@@ -13842,7 +13832,7 @@
         {
             "id": "Bon Mot",
             "name": "Bon mot (Bon Mot)",
-            "description": "<p>Vous lancez une pique bien sentie à un ennemi pour le distraire. Choisissez un ennemi situé à 9 m ou moins de vous et lancez un test de Diplomatie contre son DD de Volonté.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible est distraite et subit une pénalité de statut de -3 aux tests de Perception et de Volonté pendant 1 minute. La cible peut mettre un terme à cet effet en répondant à votre Bon mot. Il peut s’agir soit d’une action unique possédant le trait Concentration, soit d’une action de compétence appropriée permettant de cadrer avec la réponse. Le MJ détermine quelles actions de compétence sont valides, mais elles doivent nécessiter au moins 1 action. Généralement, la réponse doit utiliser une action de compétence linguistique basée sur le Charisme.</p>\n<p><strong>Succès</strong> Comme une réussite critique, mais la pénalité est de -2.</p>\n<p><strong>Échec critique</strong> Votre trait d’esprit est atroce. Vous subissez la même pénalité que celle que l’ennemi aurait subi si vous aviez obtenu une réussite. Cette pénalité prend fin après 1 minute ou dès que vous réussissez à placer un autre Bon mot.</p>",
+            "description": "<p>Vous lancez une pique bien sentie à un ennemi pour le distraire. Choisissez un ennemi situé à 9 m ou moins de vous et lancez un test de Diplomatie contre son DD de Volonté.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible est distraite et subit une pénalité de statut de -3 aux tests de Perception et de Volonté pendant 1 minute. La cible peut mettre un terme à cet effet en répondant à votre Bon mot. Il peut s’agir soit d’une action unique possédant le trait Concentration, soit d’une action de compétence appropriée permettant de cadrer avec la réponse. Le MJ détermine quelles actions de compétence sont valides, mais elles doivent nécessiter au moins 1 action. Généralement, la réponse doit utiliser une action de compétence linguistique basée sur le Charisme.</p>\n<p><strong>Succès</strong> Comme une réussite critique, mais la pénalité est de -2.</p>\n<p><strong>Échec critique</strong> Votre trait d’esprit est atroce. Vous subissez la même pénalité que celle que l’ennemi aurait subi si vous aviez obtenu un succès. Cette pénalité prend fin après 1 minute ou dès que vous réussissez à placer un autre Bon mot.</p>",
             "prereq": [
                 {
                     "value": "qualifié en Diplomatie"

@@ -1,20 +1,31 @@
 # État de la traduction (actions)
 
  * **officielle**: 109
- * **changé**: 3
- * **libre**: 59
+ * **changé**: 5
+ * **libre**: 57
+ * **aucune**: 3
 
 
-Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[CIqiFw9rqYnuzggq.htm](actions/CIqiFw9rqYnuzggq.htm)|Practical Research|
+|[I75R9NSfsVrit6cU.htm](actions/I75R9NSfsVrit6cU.htm)|Cram|
+|[sL1J8cFwpy1lI359.htm](actions/sL1J8cFwpy1lI359.htm)|Study|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[0b3TTeQGFOiy6ykz.htm](actions/0b3TTeQGFOiy6ykz.htm)|Change Shape (Beastkin)|Changer de forme (Beastkin)|changé|
 |[34E7k2YRcsOU5uyl.htm](actions/34E7k2YRcsOU5uyl.htm)|Change Shape (Anadi)|Changer de forme (anadi)|changé|
+|[b6CanpXyUKJgxEwq.htm](actions/b6CanpXyUKJgxEwq.htm)|Salt Wound|Saler les blessures|changé|
 |[ftG89SjTSa9DYDOD.htm](actions/ftG89SjTSa9DYDOD.htm)|Create Forgery|Contrefaire|changé|
+|[oAWNluJaMlaGysXA.htm](actions/oAWNluJaMlaGysXA.htm)|Barbed Quills|Piquants barbelés|changé|
 
 ## Liste des traductions complétés
 
@@ -50,7 +61,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aq2mXT2hLlstFL5C.htm](actions/Aq2mXT2hLlstFL5C.htm)|Invoke Celestial Privilege|Invoquer le privilège céleste|libre|
 |[B0Eu3EfwIa9kyDEA.htm](actions/B0Eu3EfwIa9kyDEA.htm)|Recall Knowledge (Crafting)|Se souvenir (Artisanat)|officielle|
 |[B2BpIZFHoF9Kjzpx.htm](actions/B2BpIZFHoF9Kjzpx.htm)|Recall Knowledge (Occultism)|Se souvenir (Occultisme)|officielle|
-|[b6CanpXyUKJgxEwq.htm](actions/b6CanpXyUKJgxEwq.htm)|Salt Wound|Saler les blessures|libre|
 |[Bcxarzksqt9ezrs6.htm](actions/Bcxarzksqt9ezrs6.htm)|Stride|Marcher rapidement|officielle|
 |[bG91dbtbgOnw7Ofx.htm](actions/bG91dbtbgOnw7Ofx.htm)|Board|Monter à bord|libre|
 |[BKnN9la3WNrRgZ6n.htm](actions/BKnN9la3WNrRgZ6n.htm)|Conduct Energy|Conduire l'énergie|libre|
@@ -121,7 +131,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[mk6rzaAzsBBRGJnh.htm](actions/mk6rzaAzsBBRGJnh.htm)|Call Upon the Brightness|Faire appel à la lumière|libre|
 |[mVscmsZWWcVACdU5.htm](actions/mVscmsZWWcVACdU5.htm)|Soaring Flight|Voler haut|libre|
 |[nbfNETdpee8CVM17.htm](actions/nbfNETdpee8CVM17.htm)|Flurry of Blows|Déluge de coups|officielle|
-|[oAWNluJaMlaGysXA.htm](actions/oAWNluJaMlaGysXA.htm)|Barbed Quills|Piquants barbelés|libre|
 |[OdIUybJ3ddfL7wzj.htm](actions/OdIUybJ3ddfL7wzj.htm)|Stand|Se relever|officielle|
 |[OizxuPb44g3eHPFh.htm](actions/OizxuPb44g3eHPFh.htm)|Borrow an Arcane Spell|Emprunter un sort arcanique|officielle|
 |[On5CQjX4euWqToly.htm](actions/On5CQjX4euWqToly.htm)|Resist Elf Magic|Résister à la magie elfique|libre|

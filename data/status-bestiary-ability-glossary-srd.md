@@ -2,11 +2,18 @@
 
  * **libre**: 17
  * **officielle**: 38
+ * **vide**: 1
 
 
-Dernière mise à jour: 2021-08-01 10:29 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments vides ne pouvant pas être traduits
+
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|:----:|
+|[kquBnQ0kObZztnBc.htm](bestiary-ability-glossary-srd/kquBnQ0kObZztnBc.htm)|+1 Status to All Saves vs Magic|vide|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
