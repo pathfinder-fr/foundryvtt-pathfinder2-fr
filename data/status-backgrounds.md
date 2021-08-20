@@ -1,58 +1,12 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 157
- * **officielle**: 42
- * **changé**: 13
- * **aucune**: 21
+ * **libre**: 184
+ * **officielle**: 49
 
 
-Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-20 20:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[5ITjkJwZ78YnBXdt.htm](backgrounds/5ITjkJwZ78YnBXdt.htm)|Magaambya Academic (Arcana)|
-|[5qi0swjGo1aclB2U.htm](backgrounds/5qi0swjGo1aclB2U.htm)|Sponsored by a Village (Crafting)|
-|[aQcV1RqOFvtZaw0l.htm](backgrounds/aQcV1RqOFvtZaw0l.htm)|Sponsored by Teacher Ot (Survival)|
-|[BxQ4QaNaodIw3pWu.htm](backgrounds/BxQ4QaNaodIw3pWu.htm)|Sponsored by a Stranger (Occultism)|
-|[cRELMbOeZa2FPIcL.htm](backgrounds/cRELMbOeZa2FPIcL.htm)|Scholar (Religion)|
-|[ED0imMUoDvwpESd5.htm](backgrounds/ED0imMUoDvwpESd5.htm)|Unsponsored (Diplomacy)|
-|[fzrXTLDPu3P06joW.htm](backgrounds/fzrXTLDPu3P06joW.htm)|Sponsored by Family (Society)|
-|[gq98S6hRboPxK1kt.htm](backgrounds/gq98S6hRboPxK1kt.htm)|Unsponsored (Intimidation)|
-|[gv6RoDRYqT7iUX5C.htm](backgrounds/gv6RoDRYqT7iUX5C.htm)|Harrow-Led (Occultism)|
-|[he1oXWjCqyb4CUx8.htm](backgrounds/he1oXWjCqyb4CUx8.htm)|Sponsored by Family (Diplomacy)|
-|[HV4MLfv7JaqoBac5.htm](backgrounds/HV4MLfv7JaqoBac5.htm)|Harrow-Led (Society)|
-|[IbF2EGUlnTsyqG44.htm](backgrounds/IbF2EGUlnTsyqG44.htm)|Learned Guard Prodigy (Arcana)|
-|[IMrOWZkxXtkOeTy6.htm](backgrounds/IMrOWZkxXtkOeTy6.htm)|Sponsored by Teacher Ot (Performance)|
-|[jjwhyvdGrxeWmY5s.htm](backgrounds/jjwhyvdGrxeWmY5s.htm)|Spell Seeker (Arcana)|
-|[kdkbDdvgw6KAKVeM.htm](backgrounds/kdkbDdvgw6KAKVeM.htm)|Hermit (Nature)|
-|[rSH3NdJMfFYOK8ot.htm](backgrounds/rSH3NdJMfFYOK8ot.htm)|Scholar (Nature)|
-|[v1RSnxkODhhc7eoL.htm](backgrounds/v1RSnxkODhhc7eoL.htm)|Sponsored by a Village (Survival)|
-|[WE9EjWB0TFuAhwJc.htm](backgrounds/WE9EjWB0TFuAhwJc.htm)|Sponsored by a Stranger (Nature)|
-|[Wfil0jRW1iC2huPT.htm](backgrounds/Wfil0jRW1iC2huPT.htm)|Tapestry Refugee (Stealth)|
-|[wMkYKnvNZoZ4oQ0W.htm](backgrounds/wMkYKnvNZoZ4oQ0W.htm)|Scholar (Occultism)|
-|[WU0QTDh2SogUthxn.htm](backgrounds/WU0QTDh2SogUthxn.htm)|Teacher (Society)|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[4SSKsyD72AYYpzgm.htm](backgrounds/4SSKsyD72AYYpzgm.htm)|Hermit (Occultism)|Ermite|changé|
-|[apXTV7jJx6yJpj8D.htm](backgrounds/apXTV7jJx6yJpj8D.htm)|Prisoner|Prisonnier|changé|
-|[B8kEwzPUMIjhofUm.htm](backgrounds/B8kEwzPUMIjhofUm.htm)|Sarkorian Survivor|Survivant du sarkoris|changé|
-|[cFdndc4pMWhnRUOY.htm](backgrounds/cFdndc4pMWhnRUOY.htm)|Teacher (Performance)|Enseignant|changé|
-|[dd6DbCsT67rl8va3.htm](backgrounds/dd6DbCsT67rl8va3.htm)|Magaambya Academic (Nature)|Étudiant du Magaambya|changé|
-|[khGFmnQMBYmz2ONR.htm](backgrounds/khGFmnQMBYmz2ONR.htm)|Sarkorian Reclaimer|Réclamateur du Sarkoris|changé|
-|[LJmBnA2IYDBqQgRx.htm](backgrounds/LJmBnA2IYDBqQgRx.htm)|Tapestry Refugee (Medicine)|Réfugié de la Tapisserie|changé|
-|[nnBAO4NwdINCGQFK.htm](backgrounds/nnBAO4NwdINCGQFK.htm)|Learned Guard Prodigy (Occultism)|Prodige de la Garde Instruite|changé|
-|[pGOlKz4Krnh7MyUM.htm](backgrounds/pGOlKz4Krnh7MyUM.htm)|Haunted|Hanté|changé|
-|[PO94ilqe62V6jtBE.htm](backgrounds/PO94ilqe62V6jtBE.htm)|Spell Seeker (Occult)|Chercheur de sorts|changé|
-|[qB7g1OiZ8v8zgvkL.htm](backgrounds/qB7g1OiZ8v8zgvkL.htm)|Wonder Taster|Goûteur de merveilles|changé|
-|[RgFOKlEmMIw2eZpo.htm](backgrounds/RgFOKlEmMIw2eZpo.htm)|Harrow-Led (Performance)|Déterminé par le Tourment|changé|
-|[WRVEUkemqj2uNHwl.htm](backgrounds/WRVEUkemqj2uNHwl.htm)|Scholar (Arcana)|Érudit|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -74,7 +28,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4aVFnYyRajog0mNl.htm](backgrounds/4aVFnYyRajog0mNl.htm)|Mantis Scion|Fils de la Mante|libre|
 |[4fBIXtSVSRYn2ZGi.htm](backgrounds/4fBIXtSVSRYn2ZGi.htm)|Goblinblood Orphan|Orphelin des guerres du Sang gobelin|officielle|
 |[4naQmCXBl0007c2W.htm](backgrounds/4naQmCXBl0007c2W.htm)|Touched by Dahak|Touché par Dahak|libre|
+|[4SSKsyD72AYYpzgm.htm](backgrounds/4SSKsyD72AYYpzgm.htm)|Hermit (Occultism)|Ermite (Occultisme)|officielle|
 |[4yN5miHoMvKwZIsa.htm](backgrounds/4yN5miHoMvKwZIsa.htm)|Press-Ganged|Forçat des Mers|libre|
+|[5ITjkJwZ78YnBXdt.htm](backgrounds/5ITjkJwZ78YnBXdt.htm)|Magaambya Academic (Arcana)|Étudiant du Magaambya (Arcanes)|libre|
+|[5qi0swjGo1aclB2U.htm](backgrounds/5qi0swjGo1aclB2U.htm)|Sponsored by a Village (Crafting)|Soutenu par un village (Artisanat)|libre|
 |[5qUQOpdlNsJjpFVX.htm](backgrounds/5qUQOpdlNsJjpFVX.htm)|Ruin Delver|Explorateur de ruines|libre|
 |[5RGLAPi5sLykRcmm.htm](backgrounds/5RGLAPi5sLykRcmm.htm)|Animal Whisperer|Dresseur|officielle|
 |[5Z3cLEpsx9nHVwhM.htm](backgrounds/5Z3cLEpsx9nHVwhM.htm)|Hunter|Chasseur|officielle|
@@ -110,21 +67,29 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ajcpRVb5EG00l7Y4.htm](backgrounds/ajcpRVb5EG00l7Y4.htm)|Cursed Family|Famille maudite|libre|
 |[Am8kwC9c2GQ5bJAW.htm](backgrounds/Am8kwC9c2GQ5bJAW.htm)|Undercover Contender|Concurrent sous couverture|libre|
 |[ap25MWBuFGwwhYIG.htm](backgrounds/ap25MWBuFGwwhYIG.htm)|Aspiring Free-Captain|Aspirant Capitaine-libre|libre|
+|[apXTV7jJx6yJpj8D.htm](backgrounds/apXTV7jJx6yJpj8D.htm)|Prisoner|Prisonnier|officielle|
+|[aQcV1RqOFvtZaw0l.htm](backgrounds/aQcV1RqOFvtZaw0l.htm)|Sponsored by Teacher Ot (Survival)|Soutenu par Professeur Ot (Survie)|libre|
 |[aWAfj7bhTZM2oK81.htm](backgrounds/aWAfj7bhTZM2oK81.htm)|Hookclaw Digger|Creuseur Crochetgriffu|libre|
+|[B8kEwzPUMIjhofUm.htm](backgrounds/B8kEwzPUMIjhofUm.htm)|Sarkorian Survivor|Survivant de Sarkoris|libre|
 |[b9EPEY09dYOVzdue.htm](backgrounds/b9EPEY09dYOVzdue.htm)|Shadow War Survivor|Survivant de la Guerre de l'ombre|libre|
 |[BBeJA7n0xpSsBCGq.htm](backgrounds/BBeJA7n0xpSsBCGq.htm)|Lesser Scion|Benjamin|libre|
 |[bCJ9p3P5uJDAtaUI.htm](backgrounds/bCJ9p3P5uJDAtaUI.htm)|Miner|Mineur|officielle|
 |[bDyb0k0rTfDTyhd8.htm](backgrounds/bDyb0k0rTfDTyhd8.htm)|Geb Crusader|Croisé du Geb|libre|
 |[bh6O2Ad5mkYwRngM.htm](backgrounds/bh6O2Ad5mkYwRngM.htm)|Hermean Expatriate|Expatrié d'Herméa|libre|
+|[BxQ4QaNaodIw3pWu.htm](backgrounds/BxQ4QaNaodIw3pWu.htm)|Sponsored by a Stranger (Occultism)|Soutenu par un étranger (Occultisme)|libre|
 |[BZhPPw9VD9U2ur6B.htm](backgrounds/BZhPPw9VD9U2ur6B.htm)|Witchlight Follower|Suiveur de lumière de sorcière|libre|
 |[CAjQrHZZbALE7Qjy.htm](backgrounds/CAjQrHZZbALE7Qjy.htm)|Acolyte|Acolyte|officielle|
+|[cFdndc4pMWhnRUOY.htm](backgrounds/cFdndc4pMWhnRUOY.htm)|Teacher (Performance)|Enseignant (Représentation)|libre|
 |[CKU1sbFofcwZUJMx.htm](backgrounds/CKU1sbFofcwZUJMx.htm)|Ex-Con Token Guard|Garde des Pièces ancien taulard|libre|
+|[cRELMbOeZa2FPIcL.htm](backgrounds/cRELMbOeZa2FPIcL.htm)|Scholar (Religion)|Érudit (Religion)|officielle|
 |[dAvFZ5QmbAHgXcNp.htm](backgrounds/dAvFZ5QmbAHgXcNp.htm)|Outrider|Éclaireur|libre|
 |[DBxOUwM7qhGH8MrF.htm](backgrounds/DBxOUwM7qhGH8MrF.htm)|Courier|Garçon de course|libre|
+|[dd6DbCsT67rl8va3.htm](backgrounds/dd6DbCsT67rl8va3.htm)|Magaambya Academic (Nature)|Étudiant du Magaambya (Nature)|libre|
 |[DHrzVqB8f1ed3zTk.htm](backgrounds/DHrzVqB8f1ed3zTk.htm)|Clown|Clown|libre|
 |[dVRDDjT4FOu6uLDR.htm](backgrounds/dVRDDjT4FOu6uLDR.htm)|Detective|Détective|officielle|
 |[DVtZab19D1vD3a0n.htm](backgrounds/DVtZab19D1vD3a0n.htm)|Post Guard of All Trades|Garde du poste touche-à-tout|libre|
 |[E2ij2Cg8oMC0W0NS.htm](backgrounds/E2ij2Cg8oMC0W0NS.htm)|Nirmathi Guerrilla|Escarmoucheur Nirmathi|libre|
+|[ED0imMUoDvwpESd5.htm](backgrounds/ED0imMUoDvwpESd5.htm)|Unsponsored (Diplomacy)|Non soutenu (Diplomatie)|libre|
 |[EJRWGsPWzAhixuvQ.htm](backgrounds/EJRWGsPWzAhixuvQ.htm)|Belkzen Slayer|Tueur du Belkzen|libre|
 |[eYY3bX7xSH7aicqT.htm](backgrounds/eYY3bX7xSH7aicqT.htm)|Atteran Rancher|Rancher Atteran|libre|
 |[faHydq29Q4RP5CAK.htm](backgrounds/faHydq29Q4RP5CAK.htm)|Martial Disciple (Athletics)|Disciple martial (Athlétisme)|libre|
@@ -132,17 +97,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[FKHut73XDUGTnKkP.htm](backgrounds/FKHut73XDUGTnKkP.htm)|Field Medic|Médecin militaire|officielle|
 |[fML6YrXYDqQy0g7L.htm](backgrounds/fML6YrXYDqQy0g7L.htm)|Iolite Trainee Hobgoblin|Recrue Iolite Hobgobeline|libre|
 |[fuTLDmihr9Z9e5wa.htm](backgrounds/fuTLDmihr9Z9e5wa.htm)|Cultist|Cultiste|libre|
+|[fzrXTLDPu3P06joW.htm](backgrounds/fzrXTLDPu3P06joW.htm)|Sponsored by Family (Society)|Soutenu par la famille (Société)|libre|
 |[gfklP8ub45R4wXKe.htm](backgrounds/gfklP8ub45R4wXKe.htm)|Aspiring River Monarch|Aspirant Monarque du Fleuve|libre|
 |[GNidqGnSABx1rQUQ.htm](backgrounds/GNidqGnSABx1rQUQ.htm)|Missionary|Missionnaire|libre|
 |[GPI5kNu0xfom9kKa.htm](backgrounds/GPI5kNu0xfom9kKa.htm)|Dragon Scholar|Spécialiste des dragons|officielle|
+|[gq98S6hRboPxK1kt.htm](backgrounds/gq98S6hRboPxK1kt.htm)|Unsponsored (Intimidation)|Non soutenu (Intimidation)|libre|
+|[gv6RoDRYqT7iUX5C.htm](backgrounds/gv6RoDRYqT7iUX5C.htm)|Harrow-Led (Occultism)|Déterminé par le Tourment (Occultisme)|libre|
 |[H3E69w8Xg0T7rAqD.htm](backgrounds/H3E69w8Xg0T7rAqD.htm)|Shoanti Name-Bearer|Porteur de nom Shoanti|libre|
 |[h98cEl4DY75IL6KJ.htm](backgrounds/h98cEl4DY75IL6KJ.htm)|Teamster|Conducteur d'attelages|libre|
 |[HdnmIaLadhRfZq8X.htm](backgrounds/HdnmIaLadhRfZq8X.htm)|Insurgent|Insurgé|libre|
 |[HDquvQywAZimmcFF.htm](backgrounds/HDquvQywAZimmcFF.htm)|Refugee (Fall of Plaguestone)|Réfugié (la Chute de Plaguestone)|libre|
+|[he1oXWjCqyb4CUx8.htm](backgrounds/he1oXWjCqyb4CUx8.htm)|Sponsored by Family (Diplomacy)|Soutenu par la famille (Diplomatie)|libre|
 |[HEd2Lxgvl080nRxx.htm](backgrounds/HEd2Lxgvl080nRxx.htm)|Shadow Lodge Defector|Défecteur de la Loge de l'Ombre|libre|
 |[HKRcQO8Xj7xzBxAw.htm](backgrounds/HKRcQO8Xj7xzBxAw.htm)|Faction Opportunist|Opportuniste des Factions|libre|
 |[HNp0uNsIx3BNBcr5.htm](backgrounds/HNp0uNsIx3BNBcr5.htm)|Animal Wrangler (Athletics)|Dresseur d'animaux (Athlétisme)|libre|
 |[hPx0xiv00GQqPWUH.htm](backgrounds/hPx0xiv00GQqPWUH.htm)|Kalistrade Follower|Suivant de Kalistrade|libre|
+|[HV4MLfv7JaqoBac5.htm](backgrounds/HV4MLfv7JaqoBac5.htm)|Harrow-Led (Society)|Déterminé par le Tourment (Société)|libre|
 |[HZ3oBBdEnsH3fWrm.htm](backgrounds/HZ3oBBdEnsH3fWrm.htm)|Shory Seeker|Chercheur Rivain|libre|
 |[I0vuIFypx8ADSJQC.htm](backgrounds/I0vuIFypx8ADSJQC.htm)|Black Market Smuggler|Contrebandier du Marché noir|libre|
 |[i28Z9JXhEvoc7BX5.htm](backgrounds/i28Z9JXhEvoc7BX5.htm)|Refugee (APG)|Réfugié (MJA)|libre|
@@ -151,8 +121,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[i6y4DiKvqitdE0PW.htm](backgrounds/i6y4DiKvqitdE0PW.htm)|Quick|Rapide|libre|
 |[i79pgNIAtJfkkOiw.htm](backgrounds/i79pgNIAtJfkkOiw.htm)|Tinker|Bricoleur|officielle|
 |[iaM6TjvijLCgiHeD.htm](backgrounds/iaM6TjvijLCgiHeD.htm)|Returning Descendant|Descendant de retour|officielle|
+|[IbF2EGUlnTsyqG44.htm](backgrounds/IbF2EGUlnTsyqG44.htm)|Learned Guard Prodigy (Arcana)|Prodige de la Garde instruite (Arcanes)|libre|
 |[IFHYbU6Nu8BiTsRa.htm](backgrounds/IFHYbU6Nu8BiTsRa.htm)|Acrobat|Acrobate|officielle|
 |[IfpYRxN8qyV4ym0o.htm](backgrounds/IfpYRxN8qyV4ym0o.htm)|Purveyor of the Bizzare|Fournisseur de Bizarreries|libre|
+|[IMrOWZkxXtkOeTy6.htm](backgrounds/IMrOWZkxXtkOeTy6.htm)|Sponsored by Teacher Ot (Performance)|Soutenu par Professeur Ot (Représentation)|libre|
 |[IoBhge83aYpq0pPV.htm](backgrounds/IoBhge83aYpq0pPV.htm)|Archaeologist|Archéologue|libre|
 |[IObZEUz8wneEMgR3.htm](backgrounds/IObZEUz8wneEMgR3.htm)|Deckhand|Homme de pont|libre|
 |[iPuclSXdCEAVfTZ0.htm](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Empty Background]|[Historique vierge]|libre|
@@ -164,11 +136,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[j9v38iHA0sVy59SR.htm](backgrounds/j9v38iHA0sVy59SR.htm)|Pathfinder Hopeful|Aspirant Éclaireur|officielle|
 |[JauSkDtMV6dhDZS8.htm](backgrounds/JauSkDtMV6dhDZS8.htm)|Political Scion|Rejeton de politicien|libre|
 |[JfGVkZkaoz2lnmov.htm](backgrounds/JfGVkZkaoz2lnmov.htm)|Bright Lion|Lion Brillant|libre|
+|[jjwhyvdGrxeWmY5s.htm](backgrounds/jjwhyvdGrxeWmY5s.htm)|Spell Seeker (Arcana)|Chercheur de sorts (Arcanes)|libre|
+|[kdkbDdvgw6KAKVeM.htm](backgrounds/kdkbDdvgw6KAKVeM.htm)|Hermit (Nature)|Ermite (Nature)|officielle|
+|[khGFmnQMBYmz2ONR.htm](backgrounds/khGFmnQMBYmz2ONR.htm)|Sarkorian Reclaimer|Réclamateur du Sarkoris|libre|
 |[kLjqmylGOXeQ5o5Y.htm](backgrounds/kLjqmylGOXeQ5o5Y.htm)|Bonuwat Wavetouched|Bonuwat Touché par les vagues|libre|
 |[KMv7ollLVaZ81XDV.htm](backgrounds/KMv7ollLVaZ81XDV.htm)|Merchant|Marchand|officielle|
 |[lav3yRNPc7lQ7e9k.htm](backgrounds/lav3yRNPc7lQ7e9k.htm)|Senghor Sailor|Marin de Senghor|libre|
 |[lCR8gyEZbwqh3RWi.htm](backgrounds/lCR8gyEZbwqh3RWi.htm)|Harbor Guard Moonlighter|Noctambule de la Garde du port|libre|
 |[LHk50lz5Kk5ZYTeo.htm](backgrounds/LHk50lz5Kk5ZYTeo.htm)|Abadar's Avenger|Vengeur d'Abadar|libre|
+|[LJmBnA2IYDBqQgRx.htm](backgrounds/LJmBnA2IYDBqQgRx.htm)|Tapestry Refugee (Medicine)|Réfugié de la Tapisserie (Médecine)|libre|
 |[locc0cjOmOQHe3j7.htm](backgrounds/locc0cjOmOQHe3j7.htm)|Savior of Air|Sauveur de l'air|libre|
 |[lqjmBmGHYRaSiglZ.htm](backgrounds/lqjmBmGHYRaSiglZ.htm)|Molthuni Mercenary|Mercenaire du Molthune|libre|
 |[lRVYgV9zL6O6O3U4.htm](backgrounds/lRVYgV9zL6O6O3U4.htm)|Martial Disciple (Acrobatics)|Disciple martial (Acrobatie)|libre|
@@ -181,6 +157,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[mxJRdRSMsyZfBf5c.htm](backgrounds/mxJRdRSMsyZfBf5c.htm)|Hermean Heritor|Héritier d'Herméa|libre|
 |[n2JN5Kiu7tOCAHPr.htm](backgrounds/n2JN5Kiu7tOCAHPr.htm)|Market Runner|Coureur du marché|libre|
 |[nhQKn1tVV6PKCurq.htm](backgrounds/nhQKn1tVV6PKCurq.htm)|Butcher|"Boucher"|libre|
+|[nnBAO4NwdINCGQFK.htm](backgrounds/nnBAO4NwdINCGQFK.htm)|Learned Guard Prodigy (Occultism)|Prodige de la Garde Instruite (Occultisme)|libre|
 |[ns9BOvCyjdapYhI0.htm](backgrounds/ns9BOvCyjdapYhI0.htm)|Root Worker|Cueilleur de racines|libre|
 |[nXnaV9JwUG1N2dsg.htm](backgrounds/nXnaV9JwUG1N2dsg.htm)|Attention Addict|Avide de notoriété|libre|
 |[NXYce9NAHls2fcIf.htm](backgrounds/NXYce9NAHls2fcIf.htm)|Pathfinder Recruiter|Recrue des Éclaireurs|libre|
@@ -193,10 +170,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[p27PSjFtHAWikKaw.htm](backgrounds/p27PSjFtHAWikKaw.htm)|Early Explorer|Explorateur précoce|libre|
 |[P65AGDPkhD2B4JtG.htm](backgrounds/P65AGDPkhD2B4JtG.htm)|Perfection Seeker|À la recherche de la Perfection|libre|
 |[pBX18FI1grWwkWjk.htm](backgrounds/pBX18FI1grWwkWjk.htm)|Kyonin Emissary|Émissaire du Kyonin|libre|
+|[pGOlKz4Krnh7MyUM.htm](backgrounds/pGOlKz4Krnh7MyUM.htm)|Haunted|Hanté|libre|
 |[PhqUBXLLkVXb6oUE.htm](backgrounds/PhqUBXLLkVXb6oUE.htm)|Taldan Schemer|Intrigant taldorien|libre|
 |[Phvnfdmz4bB7jrI3.htm](backgrounds/Phvnfdmz4bB7jrI3.htm)|Barrister|Avocat|officielle|
+|[PO94ilqe62V6jtBE.htm](backgrounds/PO94ilqe62V6jtBE.htm)|Spell Seeker (Occult)|Chercheur de sorts (Occultisme)|libre|
 |[ppBGlWl0UkBKkJgE.htm](backgrounds/ppBGlWl0UkBKkJgE.htm)|Feybound|Lié avec les fées|libre|
 |[Q2brdDtEoI3cmpuD.htm](backgrounds/Q2brdDtEoI3cmpuD.htm)|Feral Child|Enfant sauvage|libre|
+|[qB7g1OiZ8v8zgvkL.htm](backgrounds/qB7g1OiZ8v8zgvkL.htm)|Wonder Taster|Goûteur de merveilles|libre|
 |[qbvzNG8hMjb8f66D.htm](backgrounds/qbvzNG8hMjb8f66D.htm)|Squire|Écuyer|libre|
 |[QnL7hqUi9HPenrbC.htm](backgrounds/QnL7hqUi9HPenrbC.htm)|Newcomer In Need|Nouveau venu dans le besoin|libre|
 |[qY4IUwVWIKPSFskP.htm](backgrounds/qY4IUwVWIKPSFskP.htm)|Aerialist|Trapéziste|libre|
@@ -204,6 +184,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[R1v4gUu8oRMoOASM.htm](backgrounds/R1v4gUu8oRMoOASM.htm)|Wildwood Local|Habitué des bois|libre|
 |[r9fzNQEz33HyKTxm.htm](backgrounds/r9fzNQEz33HyKTxm.htm)|Pilgrim|Pélerin|libre|
 |[RC4l6WsxPn89a1f8.htm](backgrounds/RC4l6WsxPn89a1f8.htm)|Raised by Belief|Élevé dans la Foi|libre|
+|[RgFOKlEmMIw2eZpo.htm](backgrounds/RgFOKlEmMIw2eZpo.htm)|Harrow-Led (Performance)|Déterminé par le Tourment (Représentation)|libre|
+|[rSH3NdJMfFYOK8ot.htm](backgrounds/rSH3NdJMfFYOK8ot.htm)|Scholar (Nature)|Érudit (Nature)|officielle|
 |[rzyRtasSTfHS3e0y.htm](backgrounds/rzyRtasSTfHS3e0y.htm)|Returned|Ressuscité|libre|
 |[SJ3nNOI5A8A4hK0Q.htm](backgrounds/SJ3nNOI5A8A4hK0Q.htm)|Winter's Child|Enfant de l'hiver|libre|
 |[SOmJyAtPOokesZoe.htm](backgrounds/SOmJyAtPOokesZoe.htm)|Farmhand|Ouvrier agricole|officielle|
@@ -228,6 +210,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UURvnfwXypRYYXBI.htm](backgrounds/UURvnfwXypRYYXBI.htm)|Storm Survivor|Rescapé d'une tempête|libre|
 |[UyddtAwqDGjQ1SZK.htm](backgrounds/UyddtAwqDGjQ1SZK.htm)|Scholar of the Sky Key|Étudiant de la Clé du Ciel|libre|
 |[V1RAIckpUJd2OzXi.htm](backgrounds/V1RAIckpUJd2OzXi.htm)|Mana Wastes Refugee|Réfugié de la Désolation de Mana|libre|
+|[v1RSnxkODhhc7eoL.htm](backgrounds/v1RSnxkODhhc7eoL.htm)|Sponsored by a Village (Survival)|Soutenu par un village (Survie)|libre|
 |[V31KRG7aA7xS0m8L.htm](backgrounds/V31KRG7aA7xS0m8L.htm)|Shadow Haunted|Ombre hantée|libre|
 |[V3nYEAhyA54RtYky.htm](backgrounds/V3nYEAhyA54RtYky.htm)|Ulfen Raider|Raider ulfe|libre|
 |[vBPu7RwNXGDQ1ThL.htm](backgrounds/vBPu7RwNXGDQ1ThL.htm)|Dreamer of the Verdant Moon|Rêveur de la lune verdoyante|libre|
@@ -236,6 +219,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vHeP960qjhfob4Je.htm](backgrounds/vHeP960qjhfob4Je.htm)|Scavenger|Récupérateur|libre|
 |[vjhB0ZTV9OZgSuSz.htm](backgrounds/vjhB0ZTV9OZgSuSz.htm)|Thassilonian Delver|Fouilleur thassilonnien|libre|
 |[vNWSzv36L1GBPPoc.htm](backgrounds/vNWSzv36L1GBPPoc.htm)|Hellknight Historian|Historien des chevaliers infernaux|officielle|
+|[WE9EjWB0TFuAhwJc.htm](backgrounds/WE9EjWB0TFuAhwJc.htm)|Sponsored by a Stranger (Nature)|Soutenu par un étranger (Nature)|libre|
+|[Wfil0jRW1iC2huPT.htm](backgrounds/Wfil0jRW1iC2huPT.htm)|Tapestry Refugee (Stealth)|Réfugié de la Tapisserie (Discrétion)|libre|
+|[wMkYKnvNZoZ4oQ0W.htm](backgrounds/wMkYKnvNZoZ4oQ0W.htm)|Scholar (Occultism)|Érudit (Occultisme)|officielle|
+|[WRVEUkemqj2uNHwl.htm](backgrounds/WRVEUkemqj2uNHwl.htm)|Scholar (Arcana)|Érudit (Arcanes)|officielle|
+|[WU0QTDh2SogUthxn.htm](backgrounds/WU0QTDh2SogUthxn.htm)|Teacher (Society)|Enseignant (Société)|libre|
 |[wU1qd8tZNcYn43y2.htm](backgrounds/wU1qd8tZNcYn43y2.htm)|Lost and Alone|Perdu et seul|libre|
 |[wudDO9OEsRjJsqhU.htm](backgrounds/wudDO9OEsRjJsqhU.htm)|Barber|Barbier|libre|
 |[WueM94C9JXk10jPd.htm](backgrounds/WueM94C9JXk10jPd.htm)|Onyx Trader|Marchand d'Onyx|libre|

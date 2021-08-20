@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **libre**: 76
- * **changé**: 669
- * **officielle**: 147
+ * **libre**: 82
+ * **officielle**: 155
+ * **changé**: 655
  * **aucune**: 19
 
 
-Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-20 20:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -37,17 +37,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[abjuration-01-0fKHBh5goe2eiFYL.htm](spells/abjuration-01-0fKHBh5goe2eiFYL.htm)|Negate Aroma|Supprimer l’arôme|changé|
-|[abjuration-01-0uRpypf1Hi7ahvTl.htm](spells/abjuration-01-0uRpypf1Hi7ahvTl.htm)|Shattering Gem|Gemme explosive|changé|
-|[abjuration-01-3wmX7htzOXiHLdAn.htm](spells/abjuration-01-3wmX7htzOXiHLdAn.htm)|Delay Consequence|Retarder les conséquences|changé|
-|[abjuration-01-4WAib3GichxLjp5p.htm](spells/abjuration-01-4WAib3GichxLjp5p.htm)|Alarm|Alarme|changé|
-|[abjuration-01-8xRzLhwGL7Dgy3EZ.htm](spells/abjuration-01-8xRzLhwGL7Dgy3EZ.htm)|Sanctuary|Sanctuaire|changé|
-|[abjuration-01-cJq5NarY0eOZN74A.htm](spells/abjuration-01-cJq5NarY0eOZN74A.htm)|Share Burden|Partager le fardeau|changé|
-|[abjuration-01-dFejDNEmVj3CwYLL.htm](spells/abjuration-01-dFejDNEmVj3CwYLL.htm)|Blood Ward|Protection du sang|changé|
 |[abjuration-01-gMODOGamz88rgHuf.htm](spells/abjuration-01-gMODOGamz88rgHuf.htm)|Protection|Protection|changé|
-|[abjuration-01-k43PIYwuQqjeJ3S3.htm](spells/abjuration-01-k43PIYwuQqjeJ3S3.htm)|Forced Quiet|Silence forcé|changé|
-|[abjuration-01-MVrxZarUTnJxAUN8.htm](spells/abjuration-01-MVrxZarUTnJxAUN8.htm)|Tether|Liens|changé|
-|[abjuration-01-OyiKIbWllLZC6sGz.htm](spells/abjuration-01-OyiKIbWllLZC6sGz.htm)|Genie's Veil|Veille du génie|changé|
 |[abjuration-01-rMOI8JFJ0nT2mrCF.htm](spells/abjuration-01-rMOI8JFJ0nT2mrCF.htm)|Phase Familiar|Déphasage de familier|changé|
 |[abjuration-01-rQYob0QMJ0I1U2sU.htm](spells/abjuration-01-rQYob0QMJ0I1U2sU.htm)|Protector's Sacrifice|Sacrifice du protecteur|changé|
 |[abjuration-01-u2uSeH6YSbK1ajTy.htm](spells/abjuration-01-u2uSeH6YSbK1ajTy.htm)|Magic Hide|Peau magique|changé|
@@ -317,7 +307,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-01-Hu38hoAUSYeFpkVa.htm](spells/evocation-01-Hu38hoAUSYeFpkVa.htm)|Force Bolt|Trait de force|changé|
 |[evocation-01-iAnpxrLaBU4V6Sej.htm](spells/evocation-01-iAnpxrLaBU4V6Sej.htm)|Tidal Surge|Raz-de-marée|changé|
 |[evocation-01-jfVCuOpzC6mUrf6f.htm](spells/evocation-01-jfVCuOpzC6mUrf6f.htm)|Hydraulic Push|Poussée hydraulique|changé|
-|[evocation-01-kBhaPuzLUSwS6vVf.htm](spells/evocation-01-kBhaPuzLUSwS6vVf.htm)|Electric Arc|Arc électrique|changé|
 |[evocation-01-kJKSLfCgqxmN2FY8.htm](spells/evocation-01-kJKSLfCgqxmN2FY8.htm)|Personal Rain Cloud|Nuage de pluie individuel|changé|
 |[evocation-01-kl2q6JvBZwed4B6v.htm](spells/evocation-01-kl2q6JvBZwed4B6v.htm)|Dancing Lights|Lumières dansantes|changé|
 |[evocation-01-mlNYROcFrUF8nFgk.htm](spells/evocation-01-mlNYROcFrUF8nFgk.htm)|Spray of Stars|Aspersion d'étoiles|changé|
@@ -398,9 +387,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-04-vfHr1N8Rf2bBpdgn.htm](spells/evocation-04-vfHr1N8Rf2bBpdgn.htm)|Elemental Tempest|Tempête élémentaire|changé|
 |[evocation-04-VmqdVWCb8zAUCW8S.htm](spells/evocation-04-VmqdVWCb8zAUCW8S.htm)|Debilitating Dichotomy|Dichotomie débilitante|changé|
 |[evocation-04-wjJW9hWY5CkkMvY5.htm](spells/evocation-04-wjJW9hWY5CkkMvY5.htm)|Diamond Dust|Poussière de diamant|changé|
-|[evocation-04-Y3G6Y6EDgCY0s3fq.htm](spells/evocation-04-Y3G6Y6EDgCY0s3fq.htm)|Hydraulic Torrent|Torrent|changé|
-|[evocation-05-2mVW1KT3AjW2pvDO.htm](spells/evocation-05-2mVW1KT3AjW2pvDO.htm)|Litany against Sloth|Litanie contre la paresse|changé|
-|[evocation-05-3puDanGfpEt6jK5k.htm](spells/evocation-05-3puDanGfpEt6jK5k.htm)|Cone of Cold|Cône de froid|changé|
 |[evocation-05-8TBgEzjZxPaOJOm1.htm](spells/evocation-05-8TBgEzjZxPaOJOm1.htm)|Wronged Monk's Wrath|Courroux du moine lésé|changé|
 |[evocation-05-9LHr9SuDLTicdbXs.htm](spells/evocation-05-9LHr9SuDLTicdbXs.htm)|Hellfire Plume|Volute de feu infernal|changé|
 |[evocation-05-crF4g9jRN1y84MSD.htm](spells/evocation-05-crF4g9jRN1y84MSD.htm)|Abyssal Wrath|Colère abyssale|changé|
@@ -712,10 +698,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[abjuration-01-0cF9HvHzzWSbCFBP.htm](spells/abjuration-01-0cF9HvHzzWSbCFBP.htm)|Empty Inside|Vide intérieur|libre|
+|[abjuration-01-0fKHBh5goe2eiFYL.htm](spells/abjuration-01-0fKHBh5goe2eiFYL.htm)|Negate Aroma|Supprimer l’arôme|officielle|
+|[abjuration-01-0uRpypf1Hi7ahvTl.htm](spells/abjuration-01-0uRpypf1Hi7ahvTl.htm)|Shattering Gem|Gemme explosive|libre|
+|[abjuration-01-3wmX7htzOXiHLdAn.htm](spells/abjuration-01-3wmX7htzOXiHLdAn.htm)|Delay Consequence|Retarder les conséquences|libre|
+|[abjuration-01-4WAib3GichxLjp5p.htm](spells/abjuration-01-4WAib3GichxLjp5p.htm)|Alarm|Alarme|officielle|
+|[abjuration-01-8xRzLhwGL7Dgy3EZ.htm](spells/abjuration-01-8xRzLhwGL7Dgy3EZ.htm)|Sanctuary|Sanctuaire|officielle|
 |[abjuration-01-aAbfKn8maGjJjk2W.htm](spells/abjuration-01-aAbfKn8maGjJjk2W.htm)|Mage Armor|Armure du mage|officielle|
 |[abjuration-01-Azoh0BSoCASrA1lr.htm](spells/abjuration-01-Azoh0BSoCASrA1lr.htm)|Lock|Verrouillage|officielle|
 |[abjuration-01-cDFAQN7Z3es07WSA.htm](spells/abjuration-01-cDFAQN7Z3es07WSA.htm)|Perfected Mind|Esprit perfectionné|officielle|
+|[abjuration-01-cJq5NarY0eOZN74A.htm](spells/abjuration-01-cJq5NarY0eOZN74A.htm)|Share Burden|Partager le fardeau|libre|
+|[abjuration-01-dFejDNEmVj3CwYLL.htm](spells/abjuration-01-dFejDNEmVj3CwYLL.htm)|Blood Ward|Protection du sang|libre|
+|[abjuration-01-k43PIYwuQqjeJ3S3.htm](spells/abjuration-01-k43PIYwuQqjeJ3S3.htm)|Forced Quiet|Silence forcé|officielle|
 |[abjuration-01-lY9fOk1qBDDhBT8s.htm](spells/abjuration-01-lY9fOk1qBDDhBT8s.htm)|Protective Ward|Champ protecteur|officielle|
+|[abjuration-01-MVrxZarUTnJxAUN8.htm](spells/abjuration-01-MVrxZarUTnJxAUN8.htm)|Tether|Relier|libre|
+|[abjuration-01-OyiKIbWllLZC6sGz.htm](spells/abjuration-01-OyiKIbWllLZC6sGz.htm)|Genie's Veil|Veille du génie|libre|
 |[abjuration-01-P9bqJsF3WkxGAJKJ.htm](spells/abjuration-01-P9bqJsF3WkxGAJKJ.htm)|Sudden Shift|Déplacement soudain|officielle|
 |[abjuration-01-RA7VKcen3p56rVyZ.htm](spells/abjuration-01-RA7VKcen3p56rVyZ.htm)|Forbidding Ward|Sceau d'interdiction|officielle|
 |[abjuration-01-TTwOKGqmZeKSyNMH.htm](spells/abjuration-01-TTwOKGqmZeKSyNMH.htm)|Feather Fall|Feuille morte|officielle|
@@ -863,6 +859,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-09-T5Mt4jXFuh14uREv.htm](spells/enchantment-09-T5Mt4jXFuh14uREv.htm)|Divinity Leech|Sangsue de la divinité|libre|
 |[evocation-01-1meVElIu1CEVYWkv.htm](spells/evocation-01-1meVElIu1CEVYWkv.htm)|Noxious Vapors|Vapeurs nocives|libre|
 |[evocation-01-IWUe32Y5k2QFd7YQ.htm](spells/evocation-01-IWUe32Y5k2QFd7YQ.htm)|Gravity Weapon|Arme pesante|libre|
+|[evocation-01-kBhaPuzLUSwS6vVf.htm](spells/evocation-01-kBhaPuzLUSwS6vVf.htm)|Electric Arc|Arc électrique|officielle|
 |[evocation-01-S6Kkk15MWGqzC00a.htm](spells/evocation-01-S6Kkk15MWGqzC00a.htm)|Draconic Barrage|Barrage draconique|libre|
 |[evocation-01-y6rAdMK6EFlV6U0t.htm](spells/evocation-01-y6rAdMK6EFlV6U0t.htm)|Burning Hands|Mains brûlantes|officielle|
 |[evocation-02-cf7Jkm39uEjUFtHt.htm](spells/evocation-02-cf7Jkm39uEjUFtHt.htm)|Sea Surge|Onde océanique|libre|
@@ -872,7 +869,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-04-SkarN4VlNxSJSJNw.htm](spells/evocation-04-SkarN4VlNxSJSJNw.htm)|Wild Winds Stance|Posture des vents violents|officielle|
 |[evocation-04-uJXs4M6IeixfPBLc.htm](spells/evocation-04-uJXs4M6IeixfPBLc.htm)|Clinging Shadows Stance|Posture des ombres tenaces|libre|
 |[evocation-04-VUwpDY4Z91s9QCg0.htm](spells/evocation-04-VUwpDY4Z91s9QCg0.htm)|Bottle the Storm|Tempête en bouteille|libre|
+|[evocation-04-Y3G6Y6EDgCY0s3fq.htm](spells/evocation-04-Y3G6Y6EDgCY0s3fq.htm)|Hydraulic Torrent|Torrent|officielle|
 |[evocation-04-YrzBLPLd3r9m6t1p.htm](spells/evocation-04-YrzBLPLd3r9m6t1p.htm)|Fire Shield|Bouclier de feu|officielle|
+|[evocation-05-2mVW1KT3AjW2pvDO.htm](spells/evocation-05-2mVW1KT3AjW2pvDO.htm)|Litany against Sloth|Litanie contre la paresse|officielle|
+|[evocation-05-3puDanGfpEt6jK5k.htm](spells/evocation-05-3puDanGfpEt6jK5k.htm)|Cone of Cold|Cône de froid|officielle|
 |[evocation-05-9BGEf9Sv5rgNBCk0.htm](spells/evocation-05-9BGEf9Sv5rgNBCk0.htm)|Dance of Darkness|Danse de ténèbre|libre|
 |[evocation-06-bynT1UKaDqr8dLNM.htm](spells/evocation-06-bynT1UKaDqr8dLNM.htm)|Flaming Fusillade|Fusillade enflammée|libre|
 |[evocation-06-kuoYff1csM5eAcAP.htm](spells/evocation-06-kuoYff1csM5eAcAP.htm)|Fire Seeds|Germe de feu|officielle|

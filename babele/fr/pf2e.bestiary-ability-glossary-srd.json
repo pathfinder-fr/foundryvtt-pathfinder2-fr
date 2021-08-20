@@ -102,6 +102,11 @@
             "description": "<p>. Le monstre peut utiliser @Compendium[pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl]{Bousculade} comme une action libre déclenchée par la réussite de son attaque initiale.</p>"
         },
         {
+            "id": "+1 Status to All Saves vs Magic",
+            "name": "bonus de statut de +1 à tous les jets de sauvegarde contre la magie",
+            "description": ""
+        },
+        {
             "id": "Form Up",
             "name": "Se reformer",
             "description": "<p>La troupe choisit une des cases qu'elle occupe actuellement et redistribue ses cases dans n'importe quelle configuration dans laquelle toutes les cases sont contiguës et dans les 4,5 m de la case choisie. La troupe ne peut partager sa case avec d'autres créatures.</p>"

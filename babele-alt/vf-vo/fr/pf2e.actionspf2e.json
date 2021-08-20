@@ -64,7 +64,7 @@
         {
             "id": "Change Shape (Beastkin)",
             "name": "Changer de forme (Beastkin) (Change Shape (Beastkin))",
-            "description": "<p>Vous prenez votre forme humanoïde ou hybride.</p>\n<p>Chaque forme a son apparence spécifique persistante et la plupart des beastkin restent sous leur forme hybride par défaut. Sous forme hybride, vous ressemblez à un mélange entre votre aascendance et votre animal intérieur. Sous la forme hybride, vous obtenez une Frappe de mâchoîres à mains nues ressemblant à la capacité de votre animal intérieur (Crocs pour les chauves-souris, becs pour les aigles, de mandibules pour les guêpes, etc). Vos mâchoires infligent 1d4 dégâts perforants, possèdent les traits agile, finesse et à mains nues et sont dans le groupe pugilat. Sous votre forme humanoïde, vous prenez l'apparence de votre ascendance originelle.</p>"
+            "description": "<p>Vous prenez votre forme humanoïde ou hybride. Chaque forme a son apparence spécifique persistante et la plupart des beastkin restent sous leur forme hybride par défaut.</p>\n<p>Sous forme hybride, vous ressemblez à un mélange entre votre aascendance et votre animal intérieur. Sous la forme hybride, vous obtenez une Frappe de mâchoîres à mains nues ressemblant à la capacité de votre animal intérieur (de crocs pour les chauves-souris, de bec pour les aigles, de mandibules pour les guêpes, etc). Vos mâchoires infligent 1d4 dégâts perforants, possèdent les traits agile, finesse et à mains nues et sont dans le groupe pugilat.</p>\n<p>Sous votre forme humanoïde, vous prenez l'apparence de votre ascendance originelle.</p>"
         },
         {
             "id": "Destructive Vengeance",
@@ -165,6 +165,11 @@
             "id": "Foresight",
             "name": "Prémonition (Foresight)",
             "description": "<p><strong>Déclencheur</strong> La cible de <em>prémonition</em> se défend contre une créature hostile ou un autre danger.</p>\n<hr />\n<p>Si la créature hostile ou le danger force la cible à lancer les dés deux fois (un jet de sauvegarde, par exemple), la cible lance les dés deux fois et utilise le plus haut résultat et ce sort obtient le trait chance. Mais si la créature hostile ou le danger lance les dés contre la cible (un jet d'attaque ou un test de compétence par exemple), cette créature hostile ou ce danger lance les dés deux fois et utilise le plus faible résultat et ce sort obtient le trait malchance.</p>"
+        },
+        {
+            "id": "Study",
+            "name": "Étudier (Study)",
+            "description": "<p><strong>Conditions</strong> Vous êtes un initié, un gardien ou un conversant.</p>\n<hr />\n<p>Vous donnez tout ce que vous avez pour vos études, en accord avec votre branche. Choisissez votre branche primaire ou secondaire et faites un test de compétence avec l'une des compétences associées à cette branche contre un DD standard du niveau de la branche.</p>\n<hr />\n<p><strong>Succès critique</strong> Des résultats incroyables ! Vous réussissez tous les examens et provoquez des remous que tous les enseignants remarquent. Augmentez le niveau de la branche que vous avez choisie de 2.</p>\n<p><strong>Succès</strong> Vous réussissez admirablement vos études. Augmentez le niveau de la branche que vous avez choisie de 1.</p>\n<p><strong>Échec</strong> Vous devez travailler davantage et réessayer. Votre niveau de branche reste le même.</p>\n<p><strong>Échec critique</strong> Vous commettez une erreur majeure qui vous oblige à effectuer un rattrapage. La prochaine fois que vous auriez l'occasion de tenter cette activité, vous devez sauter cette occasion pour rattraper votre retard.</p>"
         },
         {
             "id": "Call to Axis",
@@ -622,6 +627,11 @@
             "description": "<p>Vous mettez fin à l’effet d’un sort ou d’un objet magique. Il doit s’agir d’un effet que vous êtes autorisé à révoquer, comme le définit l’objet ou le sort. La révocation peut mettre un terme à la totalité de l’effet ou le terminer pour certaine(s) cible(s) seulement, en fonction du sort ou de l’objet.</p>"
         },
         {
+            "id": "Cram",
+            "name": "Bachoter (Cram)",
+            "description": "<p><strong>Conditions</strong> Vous êtes un initié, un gardien ou un conversant et votre niveau dans la branche soit pour votre branche primaire, soit pour vorte branche secondaire est de 2 ou plus niveaux en dessous de la limite.</p>\n<hr />\n<p>Réalisant que vous prenez du retard dans vos études, vous bachotez plus que vous ne le devriez. Vous Étudiez deux fois, chaque étude se faisant dans une branche qui satisfait aux conditions de l'activité. Cependant, l'étude supplémentaire a un prix. Jusqu'à votre prochaine activité d'étude, vous serez particulièrement fatigué par toutes ces heures supplémentaires de bachotage ; au début de chaque journée d'aventure, vous devez réussir un <span data-pf2-check=\"flat\" data-pf2-dc=\"8\">test nu DD 8</span> ou être @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} durant cette journée.</p>"
+        },
+        {
             "id": "Perform",
             "name": "Se produire (Perform)",
             "description": "<p>Quand vous donnez une courte représentation (une chanson, une danse rapide ou quelques histoires drôles), vous utilisez l’action Se produire. Cette action est particulièrement utile quand vous voulez prouver votre talent ou impressionner rapidement quelqu’un. Ce genre de représentations a rarement un impact en tant que tel mais elles peuvent influencer le DD de tests de Diplomatie ultérieurs vis‑à‑vis des observateurs ou même changer leur attitude si le MJ le permet.</p>\n<hr />\n<p><strong>Succès critique</strong> Votre représentation impressionne les gens qui y assistent et ils parleront probablement autour d’eux de votre talent.</p>\n<p><strong>Succès</strong> Vous faites vos preuves et les personnes présentes apprécient la qualité de votre représentation.</p>\n<p><strong>Échec</strong> Votre représentation n'a pas l'effet escompté.</p>\n<p><strong>Échec critique</strong> Vous ne parvenez à démontrer que votre incompétence.</p>\n<h2 class=\"title\">Représentation : exemples de tâches</h2>\n<ul>\n<li><strong>Inexpérimenté</strong> public de roturiers</li>\n<li><strong>Qualifié</strong> public d'artisans</li>\n<li><strong>Expert</strong> public de marchands ou de nobles mineurs</li>\n<li><strong>Maître</strong> public de nobles importants ou de membres mineurs de la famille royale</li>\n<li><strong>Légendaire</strong> public de membres majeurs de la famille royale ou d'entités d'outre-monde</li>\n</ul>"
@@ -645,6 +655,11 @@
             "id": "Point Out",
             "name": "Signaler (Point Out)",
             "description": "<p><strong>Conditions</strong> Une créature est non détectée par un ou plusieurs de vos alliés, mais pas par vous.</p>\n<hr>\n<p>Vous désignez une créature que vous pouvez voir à un ou plusieurs de vos alliés, en la montrant du doigt et en indiquant verbalement à quelle distance elle se trouve. La créature se trouve alors @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée} par rapport à vos alliés plutôt que @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée}. Cela ne fonctionne que si vos alliés peuvent vous voir et qu’ils se trouvent à un endroit d’où ils pourraient potentiellement détecter la cible. Si vos alliés ne peuvent pas vous entendre ou vous comprendre, ils doivent alors réussir un test de Perception contre le DD de Discrétion de la créature. Sur un échec, ils vous comprennent mal et croient que la cible se trouve à un autre endroit que celui que vous désignez.</p>"
+        },
+        {
+            "id": "Practical Research",
+            "name": "Recherche appliquée (Practical Research)",
+            "description": "<p><strong>Conditions</strong> Vous êtes un conversant ou un conteur.</p>\n<hr />\n<p>Vous identifiez quelque chose d'intéressant dans le domaine et effectuez des recherches spécifiques sur ce sujet. Cela nécessite un test approprié, que le MJ décrira lorsque l'occasion se présentera. Les résultats de ce test varient. S'ils comprennent généralement tous les avantages de l'activité Étudier, certaines opportunités de Recherche appliquée offrent également des avantages uniques, comme l'accès à de nouvelles options de personnage.</p>"
         },
         {
             "id": "Fire in the Hole",

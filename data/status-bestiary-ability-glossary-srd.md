@@ -1,19 +1,12 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
- * **libre**: 17
+ * **libre**: 18
  * **officielle**: 38
- * **vide**: 1
 
 
-Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-20 20:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments vides ne pouvant pas être traduits
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[kquBnQ0kObZztnBc.htm](bestiary-ability-glossary-srd/kquBnQ0kObZztnBc.htm)|+1 Status to All Saves vs Magic|vide|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -49,6 +42,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kakyXBG5WA8c6Zfd.htm](bestiary-ability-glossary-srd/kakyXBG5WA8c6Zfd.htm)|Constant Spells|Sorts constants|officielle|
 |[kdhbPaBMK1d1fpbA.htm](bestiary-ability-glossary-srd/kdhbPaBMK1d1fpbA.htm)|Telepathy|Télépathie|officielle|
 |[kFv54DisTfCMTBEY.htm](bestiary-ability-glossary-srd/kFv54DisTfCMTBEY.htm)|Poison|Poison|officielle|
+|[kquBnQ0kObZztnBc.htm](bestiary-ability-glossary-srd/kquBnQ0kObZztnBc.htm)|+1 Status to All Saves vs Magic|bonus de statut de +1 à tous les jets de sauvegarde contre la magie|libre|
 |[LbnsT8yXchHMQT3t.htm](bestiary-ability-glossary-srd/LbnsT8yXchHMQT3t.htm)|Improved Knockdown|Renversement amélioré|officielle|
 |[Lc3HEuUklab7IMy3.htm](bestiary-ability-glossary-srd/Lc3HEuUklab7IMy3.htm)|Instrument of Faith|Instrument de la Foi|libre|
 |[lR9R5Vld8Eu2Dha5.htm](bestiary-ability-glossary-srd/lR9R5Vld8Eu2Dha5.htm)|Regeneration|Régénération|officielle|

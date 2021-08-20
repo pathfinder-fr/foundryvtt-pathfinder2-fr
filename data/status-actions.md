@@ -1,27 +1,17 @@
 # État de la traduction (actions)
 
  * **officielle**: 109
- * **changé**: 5
- * **libre**: 57
- * **aucune**: 3
+ * **libre**: 61
+ * **changé**: 4
 
 
-Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-20 20:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[CIqiFw9rqYnuzggq.htm](actions/CIqiFw9rqYnuzggq.htm)|Practical Research|
-|[I75R9NSfsVrit6cU.htm](actions/I75R9NSfsVrit6cU.htm)|Cram|
-|[sL1J8cFwpy1lI359.htm](actions/sL1J8cFwpy1lI359.htm)|Study|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[0b3TTeQGFOiy6ykz.htm](actions/0b3TTeQGFOiy6ykz.htm)|Change Shape (Beastkin)|Changer de forme (Beastkin)|changé|
 |[34E7k2YRcsOU5uyl.htm](actions/34E7k2YRcsOU5uyl.htm)|Change Shape (Anadi)|Changer de forme (anadi)|changé|
 |[b6CanpXyUKJgxEwq.htm](actions/b6CanpXyUKJgxEwq.htm)|Salt Wound|Saler les blessures|changé|
 |[ftG89SjTSa9DYDOD.htm](actions/ftG89SjTSa9DYDOD.htm)|Create Forgery|Contrefaire|changé|
@@ -32,6 +22,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[00LNVSCbwJ8pszwE.htm](actions/00LNVSCbwJ8pszwE.htm)|Mutagenic Flashback|Flashback du mutagène|officielle|
+|[0b3TTeQGFOiy6ykz.htm](actions/0b3TTeQGFOiy6ykz.htm)|Change Shape (Beastkin)|Changer de forme (Beastkin)|libre|
 |[1kGNdIIhuglAjIp9.htm](actions/1kGNdIIhuglAjIp9.htm)|Treat Wounds|Soigner les blessures|officielle|
 |[1OagaWtBpVXExToo.htm](actions/1OagaWtBpVXExToo.htm)|Recall Knowledge (Lore)|Se souvenir (Connaissance)|officielle|
 |[1xRFPTFtWtGJ9ELw.htm](actions/1xRFPTFtWtGJ9ELw.htm)|Sense Motive|Deviner les intentions|officielle|
@@ -68,6 +59,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bp0Up04x3dzGK5bB.htm](actions/bp0Up04x3dzGK5bB.htm)|Debilitating Strike|Frappe incapacitante|officielle|
 |[bT3skovyLUtP22ME.htm](actions/bT3skovyLUtP22ME.htm)|Repair|Réparer|officielle|
 |[c8TGiZ48ygoSPofx.htm](actions/c8TGiZ48ygoSPofx.htm)|Swim|Nager|officielle|
+|[CIqiFw9rqYnuzggq.htm](actions/CIqiFw9rqYnuzggq.htm)|Practical Research|Recherche appliquée|libre|
 |[CrUPaPlsxy2bswaT.htm](actions/CrUPaPlsxy2bswaT.htm)|Mesmerizing Performance|Performance hypnotisante|libre|
 |[cS9nfDRGD83bNU1p.htm](actions/cS9nfDRGD83bNU1p.htm)|Fly|Voler|officielle|
 |[cYdz2grcOcRt4jk6.htm](actions/cYdz2grcOcRt4jk6.htm)|Disable Device|Désamorcer un dispositif|officielle|
@@ -104,6 +96,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[hFRHPBj6wjAayNtW.htm](actions/hFRHPBj6wjAayNtW.htm)|Jinx|Maudire|libre|
 |[hV9wXLvgH2LBaBwk.htm](actions/hV9wXLvgH2LBaBwk.htm)|Shootist's Draw|Rapidité du tireur|libre|
 |[HYNhdaPtF1QmQbR3.htm](actions/HYNhdaPtF1QmQbR3.htm)|Drop Prone|Se jeter à terre|officielle|
+|[I75R9NSfsVrit6cU.htm](actions/I75R9NSfsVrit6cU.htm)|Cram|Bachoter|libre|
 |[I9k9qe4gOT8UVK4e.htm](actions/I9k9qe4gOT8UVK4e.htm)|Mist Blending|Se fondre dans la brume|libre|
 |[IE2nThCmoyhQA0Jn.htm](actions/IE2nThCmoyhQA0Jn.htm)|Avoid Notice|Échapper aux regards|officielle|
 |[ijZ0DDFpMkWqaShd.htm](actions/ijZ0DDFpMkWqaShd.htm)|Palm an Object|Escamoter un objet|officielle|
@@ -164,6 +157,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[SeUolRoPzorFUAaI.htm](actions/SeUolRoPzorFUAaI.htm)|Recall Knowledge (Medicine)|Se souvenir (Médecine)|officielle|
 |[SjmKHgI7a5Z9JzBx.htm](actions/SjmKHgI7a5Z9JzBx.htm)|Force Open|Ouvrir de force|officielle|
 |[SkZAQRkLLkmBQNB9.htm](actions/SkZAQRkLLkmBQNB9.htm)|Escape|S'échapper|officielle|
+|[sL1J8cFwpy1lI359.htm](actions/sL1J8cFwpy1lI359.htm)|Study|Étudier|libre|
 |[sn2hIy1iIJX9Vpgj.htm](actions/sn2hIy1iIJX9Vpgj.htm)|Point Out|Signaler|officielle|
 |[TC7OcDa7JlWbqMaN.htm](actions/TC7OcDa7JlWbqMaN.htm)|Treat Disease|Soigner une maladie|officielle|
 |[tfa4Sh7wcxCEqL29.htm](actions/tfa4Sh7wcxCEqL29.htm)|Follow the Expert|Suivre l'expert|officielle|

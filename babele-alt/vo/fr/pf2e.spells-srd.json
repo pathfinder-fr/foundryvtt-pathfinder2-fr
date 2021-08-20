@@ -519,7 +519,7 @@
         {
             "id": "Tether",
             "name": "Tether",
-            "description": "<p>Vous utilisez des chaines, des vrilles ou d'autres liens magiques pour relier votre cible à vous. La créature peut toujours essayer de @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{S'échapper} et elle ou d'autres peuvent briser les liens en les attaquant (les liens possèdent une CA 15 et 10 Points de vie). Vous devez rester dans les 9 mètres de la cible tant qu'elle est reliée ; vous déplacer à plus de 9 mètres de votre cible met un terme au sort.</p>\n<p>La cible doit faire un jet de Réflexes.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible subit une pénalité de circonstance de -1,5 mètres à sa Vitesse tant qu'elle reste à moins de 9 mètres de vous.</p>\n<p><strong>Échec</strong> La cible subit une pénalité de circonstance de - 3 mètres à sa Vitesse et ne peut pas se déplacer à plus de 9 mètres de vous jusqu'à ce qu'elle s'Échappe ou que le sort se termine.</p>\n<p><strong>Échec critique</strong> La cible est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} jusqu'à ce qu'elle s'Échappe ou que le sort se termine.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La CA des liens augmente de 3 et le nombre de points de vie augmente de 10.</p>"
+            "description": "<p>Vous utilisez des chaines, des vrilles ou d'autres liens magiques pour relier votre cible à vous. La créature peut toujours essayer de @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{S'échapper} et elle ou d'autres peuvent briser les liens en les attaquant (les liens possèdent une CA 15 et 10 Points de vie). Vous devez rester dans les 9 mètres de la cible tant qu'elle est reliée ; vous déplacer à plus de 9 mètres de votre cible met un terme au sort. La cible doit faire un jet de Réflexes.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible subit une pénalité de circonstances de -1,5 mètres à sa Vitesse tant qu'elle reste à moins de 9 mètres de vous.</p>\n<p><strong>Échec</strong> La cible subit une pénalité de circonstances de - 3 mètres à sa Vitesse et ne peut pas se déplacer à plus de 9 mètres de vous jusqu'à ce qu'elle s'Échappe ou que le sort se termine.</p>\n<p><strong>Échec critique</strong> La cible est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} jusqu'à ce qu'elle s'Échappe ou que le sort se termine.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La CA des liens augmente de 3 et le nombre de points de vie augmente de 10.</p>"
         },
         {
             "id": "Song of Marching",
@@ -1134,7 +1134,7 @@
         {
             "id": "Blood Ward",
             "name": "Blood Ward",
-            "description": "<p>Vous consolidez les énergies protectrices d'un geste, préservant une créature contre les attaques d'un certain type d'adversaire.</p>\n<p>Désignez une des créatures suivantes : aberration, animal, bête, céleste, champignon, créature artificielle, dragon, élémentaire, fée, fiélon, mort-vivant, plante, vase ou veilleur. La cible obtient un bonus de statut de +1 à ses jets de sauvegarde et à la CA contre les créatures avec ce trait. La cible est temporairement immunisée pendant 10 minutes.</p>\n<hr />\n<p><strong>Intensifié (5e)</strong> Le bonus de statut augmente de +2.</p>"
+            "description": "<p>Vous consolidez les énergies protectrices d'un geste, protégeant une créature contre les attaques d'un certain type d'adversaire.</p>\n<p>Désignez une des créatures suivantes : aberration, animal, bête, céleste, champignon, créature artificielle, dragon, élémentaire, fée, fiélon, mort-vivant, plante, vase ou veilleur. La cible obtient un bonus de statut de +1 à ses jets de sauvegarde et à la CA contre les créatures avec ce trait. La cible est temporairement immunisée pendant 10 minutes.</p>\n<hr />\n<p><strong>Intensifié (5e)</strong> Le bonus de statut augmente de +2.</p>\n<p>@Compendium[pf2e.spell-effects.aDOL3OAEWf3ka9oT]{Effet: Protection du sang}</p>"
         },
         {
             "id": "Unfolding Wind Rush",
@@ -1449,7 +1449,7 @@
         {
             "id": "Electric Arc",
             "name": "Electric Arc",
-            "description": "<p>Un arc électrique bondit d’une cible à l’autre.</p>\n<p>Vous infligez des dégâts électriques d’un montant égal à 1d4 + votre modificateur de caractéristique d’incantation.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d4.</p>"
+            "description": "<p>Un arc électrique bondit d’une cible à l’autre.</p>\n<p>Vous infligez des dégâts électriques d’un montant égal à 1d4 auquel s'ajoute votre modificateur de caractéristique d’incantation.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d4.</p>"
         },
         {
             "id": "Animal Vision",
@@ -1599,7 +1599,7 @@
         {
             "id": "Sanctuary",
             "name": "Sanctuary",
-            "description": "<p>Vous protégez une créature grâce à une énergie protectrice qui détourne les attaques ennemies. Les créatures qui tentent d’attaquer la cible doivent effectuer un jet de Volonté à chaque fois. Si la cible utilise une action hostile, le sort se termine.</p>\n<p><strong>Succès critique</strong> Sanctuaire prend fin.</p>\n<p><strong>Succès</strong> La créature peut tenter son attaque et n’importe quelle autre attaque contre la cible ce tour.</p>\n<p><strong>Échec</strong> La créature ne peut pas attaquer la cible et perd son action. Elle ne peut plus tenter d’attaque contre la cible ce tour.</p>\n<p><strong>Échec critique</strong> La créature perd son action et ne peut pas tenter d’attaquer la cible pour le reste de la durée de Sanctuaire.</p>"
+            "description": "<p>Vous protégez une créature grâce à une énergie protectrice qui détourne les attaques ennemies. Les créatures qui tentent d’attaquer la cible doivent effectuer un jet de Volonté à chaque fois. Si la cible utilise une action hostile, le sort se termine.</p>\n<hr />\n<p><strong>Succès critique</strong> Sanctuaire prend fin.</p>\n<p><strong>Succès</strong> La créature peut tenter son attaque et n’importe quelle autre attaque contre la cible ce tour.</p>\n<p><strong>Échec</strong> La créature ne peut pas attaquer la cible et perd son action. Elle ne peut plus tenter d’attaque contre la cible ce tour.</p>\n<p><strong>Échec critique</strong> La créature perd son action et ne peut pas tenter d’attaquer la cible pour le reste de la durée de Sanctuaire.</p>"
         },
         {
             "id": "Illusory Object",
@@ -2179,7 +2179,7 @@
         {
             "id": "Forced Quiet",
             "name": "Forced Quiet",
-            "description": "<p>Vous faites taire la voix de la cible, l’empêchant de révéler d’importants secrets. Cela ne l’empêche pas parler ou de fournir des composants de sort verbaux, mais aucune créature située à plus de 3 mètres ne peut entendre ses murmures sans réussir un test de Perception contre votre DD des sorts, qui pourrait interférer avec des effets audibles ou linguistiques ainsi que de communication. La durée du sort dépend du jet de Vigueur de la cible. Après avoir effectué son jet de sauvegarde, la cible devient temporairement immunisée pendant 24 heures.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n’est pas affectée.</p>\n<p><strong>Succès</strong> La durée est de 1 round.</p>\n<p><strong>Échec</strong> La durée est de 1 minute.</p>\n<p><strong>Échec critique</strong> La durée est de 10 minutes.</p>"
+            "description": "<p>Vous faites taire la voix de la cible, l’empêchant de révéler d’importants secrets. Cela ne l’empêche pas de parler ou de fournir des composants de sort verbaux, mais aucune créature située à plus de 3 mètres ne peut entendre ses murmures sans réussir un test de Perception contre votre DD des sorts, ce qui pourrait interférer avec des effets audibles ou linguistiques ainsi que de communication. La durée du sort dépend du jet de Vigueur de la cible. Après avoir effectué son jet de sauvegarde, la cible devient temporairement immunisée pendant 24 heures.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n’est pas affectée.</p>\n<p><strong>Succès</strong> La durée est de 1 round.</p>\n<p><strong>Échec</strong> La durée est de 1 minute.</p>\n<p><strong>Échec critique</strong> La durée est de 10 minutes.</p>"
         },
         {
             "id": "Unseasonable Squall",
@@ -3329,7 +3329,7 @@
         {
             "id": "Debilitating Dichotomy",
             "name": "Debilitating Dichotomy",
-            "description": "<p>Vous révélez à un autre un aperçu des terribles conflits de l'anathème divin qui se cache derrière votre malédiction, vous forçant à prendre connaissance des conflits qui agitent l'autre également. Vous et la cible subissez chacun [[/r 9d6 #mental]] dégâts mentaux avec un jet de sauvegarde basique et la cible est @Compendium[pf2e.conditionspf2e.dfCMdR4wnpbYNTix]{Étourdie} 1 si elle obtient un échec critique à son jet de sauvegarde. Vous obtenez un résultat d'un degré de succès supérieur à celui que vous avez obtenu à votre jet de sauvegarde.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de [[/r 3d6 #mental]].</p>"
+            "description": "<p>Vous révélez à un autre un aperçu des terribles conflits de l'anathème divin qui se cache derrière votre malédiction, vous forçant à prendre connaissance des conflits qui agitent l'autre également. Vous et la cible subissez chacun [[/r 9d6 #mental]] dégâts mentaux avec un jet de sauvegarde basique et la cible est @Compendium[pf2e.conditionspf2e.dfCMdR4wnpbYNTix]{Étourdie} 1 si elle obtient un échec critique à son jet de sauvegarde. Vous obtenez un résultat d'un degré de succès supérieur à celui que vous avez obtenu à votre jet de sauvegarde.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 3d6.</p>"
         },
         {
             "id": "Ray of Enfeeblement",
@@ -3634,7 +3634,7 @@
         {
             "id": "Delay Consequence",
             "name": "Delay Consequence",
-            "description": "<p><strong>Déclencheur</strong> Une créature ou un objet à portée est touché par une attaque.</p>\n<hr />\n<p>Vous transposez le l'instant où la cible a été atteinte à plus tard dans le flot du temps.</p>\n<p>Lancez les dégâts normalement, mais ne réduisez pas les points de vie ni aucun autre des effets de l'attaque jusqu'à ce que la durée du sort ne se soit écoulée. Lorsque le sort s'achève, la cible est immédiatement affectée par l'attaque subissant les dégâts et étant affectée par tous les effets supplémentaires.Vous pouvez révoquer ce sort.</p>"
+            "description": "<p><strong>Déclencheur</strong> Une créature ou un objet à portée est touché par une attaque.</p>\n<hr />\n<p>Vous transposez le l'instant où la cible a été atteinte à plus tard dans le flot du temps.</p>\n<p>Lancez les dégâts normalement, mais ne réduisez pas les points de vie ni aucun autre des effets de l'attaque jusqu'à ce que la durée du sort ne se soit écoulée. Lorsque le sort s'achève, la cible est immédiatement affectée par l'attaque subissant les dégâts et étant affectée par tous les effets supplémentaires. Vous pouvez révoquer ce sort.</p>"
         },
         {
             "id": "True Strike",
@@ -3779,7 +3779,7 @@
         {
             "id": "Genie's Veil",
             "name": "Genie's Veil",
-            "description": "<p><strong>Déclencheur</strong> Une créature à portée est attaquée.</p>\n<hr />\n<p>Avec une fioriture, vous remplissez le vœu d'une créature de protection, tordant la réalité pour la garder des blessures.</p>\n<p>LA cible s'évanouit dans une explosion brillante de fumée colorée et d'éclats, réapparaissant un instant plus tard. Elle est @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} contre l'attaque déclencheuse et jusqu'à la fin du tour actuel de la créature.</p>"
+            "description": "<p><strong>Déclencheur</strong> Une créature à portée est attaquée.</p>\n<hr />\n<p>Avec une fioriture, vous exaucez le vœu d'une créature de disposer d'une protection, tordant la réalité pour la protéger des blessures.</p>\n<p>La cible s'évanouit dans une explosion brillante de fumée colorée et d'éclats, réapparaissant un instant plus tard. Elle est @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} contre l'attaque déclencheuse et jusqu'à la fin du tour actuel de la créature.</p>"
         },
         {
             "id": "Flaming Fusillade",
@@ -3954,7 +3954,7 @@
         {
             "id": "Protection",
             "name": "Protection",
-            "description": "<p> Vous protégez une créature contre un alignement spécifique.</p>\n<p>Choisissez entre chaotique, mauvais, bon ou loyal quand vous lancez ce sort. La cible gagne un bonus de statut de +1 à la Classe d’armure et aux jets de sauvegarde contre les créatures et effets de l’alignement choisi. Ce bonus passe à +3 contre les effets produits par ces créatures lorsqu’elles tentent de contrôler directement la cible, ainsi que contre les attaques des créatures convoquées de l’alignement choisi.</p>\n<p>Ce sort gagne le trait opposé à l’alignement choisi — si vous choisissez chaotique, ce sort gagne le trait loyal, et vice versa ; si vous choisissez mauvais, il gagne le trait bon, et vice versa.</p>\n<p>@Compendium[pf2e.spell-effects.lpqkZkslFMirsItL]{Effet : Protection du Chaos}</p>\n<p>@Compendium[pf2e.spell-effects.nEqBnsrvJZzh8Bil]{Effet : Protection du Mal}</p>\n<p>@Compendium[pf2e.spell-effects.qVngSDWvHcnht0fP]{Effet : Protection du Bien}</p>\n<p>@Compendium[pf2e.spell-effects.B6zSwNFJV3TMafHf]{Effet : Protection du Loyal}</p>"
+            "description": "<p>Vous protégez une créature contre un alignement spécifique.</p>\n<p>Choisissez entre Chaos, Mal, Bon ou Loi quand vous lancez ce sort. La cible gagne un bonus de statut de +1 à la Classe d’armure et aux jets de sauvegarde contre les créatures et effets de l’alignement choisi. Ce bonus passe à +3 contre les effets produits par ces créatures lorsqu’elles tentent de contrôler directement la cible, ainsi que contre les attaques des créatures convoquées de l’alignement choisi.</p>\n<p>Ce sort gagne le trait opposé à l’alignement choisi — si vous choisissez chaotique, ce sort gagne le trait loyal, et vice versa ; si vous choisissez mauvais, il gagne le trait bon, et vice versa.</p>\n<p>@Compendium[pf2e.spell-effects.lpqkZkslFMirsItL]{Effet : Protection contre le Chaos}</p>\n<p>@Compendium[pf2e.spell-effects.nEqBnsrvJZzh8Bil]{Effet : Protection contre le Mal}</p>\n<p>@Compendium[pf2e.spell-effects.qVngSDWvHcnht0fP]{Effet : Protection contre le Bien}</p>\n<p>@Compendium[pf2e.spell-effects.B6zSwNFJV3TMafHf]{Effet : Protection contre la Loi}</p>"
         },
         {
             "id": "Acid Splash",

@@ -142,6 +142,11 @@
             "description": "<p>Votre lignée, réputée pour garder la tête froide et résister à la panique dans les pires situations, a donné naissance à de sages dirigeants et même à quelques héros. Si vous obtenez un succès à un jet de sauvegarde contre un effet d’émotion, vous obtenez à la place un succès critique.</p>"
         },
         {
+            "id": "Effect: Hybrid Form",
+            "name": "Effect: Hybrid Form",
+            "description": "<p>Sous forme hybride, vous apparaissez comme un mélange entre votre ascendant et votre animal intérieur. Lorsque vous êtes sous la forme hybride, vous obtenez une attaque à mains nues de mâchoires qui ressemble à celle de votre animal intérieur (des crocs pour les chauves-souris, des becs pour les aigles, des mandibules pour les guêpes, etc). Cette attaque inflige 1d4 dégâts peforants et possèdent les traits agile, finesse et à mains nues et sont dans le groupe d'arme pugilat.</p>"
+        },
+        {
             "id": "Oathkeeper Dwarf",
             "name": "Oathkeeper Dwarf",
             "description": "<p>En grandissant, vous n'avez jamais cherché à mentir pour obtenir ce que vous désiriez et même lorsque cela a été nécessaire, mentir vous a mis mal à l'aise. Les membres particulièrement croyants ont même pu penser que vous avez été béni par le dieu nain du devoir, @Compendium[pf2e.deities.zhPhYge7VJbIlJvA]{Kols}.</p>\n<p>Vous obtenez un bonus de circonstances de +1 aux tests de Perception pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions} et au DD de Perception contre les tentatives de vous @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}. De plus, vous obtenez un bonus de circonstances de +2 aux tests de Diplomatie pour convaincre les autres que vous dites la vérité lorsque vous la dites et vous subissez une pénalité de circonstance de –4 pour Mentir et a votre test de Duperie contre une tentative pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner vos Intentions}.</p>"
@@ -557,6 +562,11 @@
             "description": "<p>Transformé par la magie incontrôlée, vous provenez de la Désolation de Mana ou d'une autre région dévastée de la même manière par la magie incontrôlée.</p>\n<p>Du fait de vos organes renforcés ou redondants, le DD des tests pour récupérer des dégâts de saignement persistants est de 10 au lieu de 15 et il est réduit à 5 au lieu de 10 si vous bénéficiez d'une assistance particulièrement efficace pour récupérer des dégâts persistants.</p>"
         },
         {
+            "id": "Change Shape (Anadi)",
+            "name": "Change Shape (Anadi)",
+            "description": "<p>En tant qu'anadi, vous obtenez la capacité de @Compendium[pf2e.actionspf2e.34E7k2YRcsOU5uyl]{Changement de forme (Anadi)}.</p>"
+        },
+        {
             "id": "Cavern Elf",
             "name": "Cavern Elf",
             "description": "<p>Vous êtes né ou avez passé de nombreuses années dans des tunnels souterrains ou des cavernes, dans un environnement très sombre. Vous gagnez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
@@ -914,7 +924,7 @@
         {
             "id": "Sharp-Eared Catfolk",
             "name": "Sharp-Eared Catfolk",
-            "description": "<p>Vous êtes né avec des grandes oreilles expressives qui se meuvent en fonction de voter humeur et se redressent au moindre son inattendu. Vous obtenez un bonus de circonstances de +2 pour localiser les créatures Non détectées que vous pourriez entendre dans les 9 m avec une action Chercher. Tant que vous êtes conscient d'une créature via le son, une fois par round, vos oreilles peuvent vous aider à @Compendium[pf2e.actionspf2e.sn2hIy1iIJX9Vpgj]{Signaler} la créature à tous les alliés par une action libre.</p>"
+            "description": "<p>Vous êtes né avec des grandes oreilles expressives qui se meuvent en fonction de votre humeur et se redressent au moindre son inattendu. Vous obtenez un bonus de circonstances de +2 pour localiser les créatures Non détectées que vous pourriez entendre dans les 9 m en utilisant une action Chercher.</p>\n<p>Tant que vous êtes conscient de la présence d'une créature via le son, une fois par round, vos oreilles peuvent vous aider à @Compendium[pf2e.actionspf2e.sn2hIy1iIJX9Vpgj]{Signaler} la créature à tous les alliés par une action libre.</p>"
         },
         {
             "id": "Emotionally Unaware",

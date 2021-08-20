@@ -1,32 +1,24 @@
 # État de la traduction (ancestryfeatures)
 
- * **aucune**: 2
- * **libre**: 177
+ * **libre**: 180
  * **officielle**: 28
- * **changé**: 2
+ * **changé**: 1
 
 
-Dernière mise à jour: 2021-08-16 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-20 20:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[effect-01-qIOEe4kUN7FOBifb.htm](ancestryfeatures/effect-01-qIOEe4kUN7FOBifb.htm)|Effect: Hybrid Form|
-|[feat-01-R6rcqRsBR0KIho5n.htm](ancestryfeatures/feat-01-R6rcqRsBR0KIho5n.htm)|Change Shape (Anadi)|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[feat-01-NWsZ0cIeghyzk9bU.htm](ancestryfeatures/feat-01-NWsZ0cIeghyzk9bU.htm)|Sharp-Eared Catfolk|Homme-félin aux oreilles pointues|changé|
 |[feat-01-vt67b8uoNEbskcBv.htm](ancestryfeatures/feat-01-vt67b8uoNEbskcBv.htm)|Hydration|Hydratation|changé|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[effect-01-qIOEe4kUN7FOBifb.htm](ancestryfeatures/effect-01-qIOEe4kUN7FOBifb.htm)|Effect: Hybrid Form|Effet : Forme hybride|libre|
 |[feat-00-dCp517IUFJk8JvQc.htm](ancestryfeatures/feat-00-dCp517IUFJk8JvQc.htm)|Fangs|Crocs|libre|
 |[feat-00-faLb2rczsrxAuOTt.htm](ancestryfeatures/feat-00-faLb2rczsrxAuOTt.htm)|Rite of Knowing|Rite du savoir|libre|
 |[feat-00-IFg2tqmAFFnU8UNU.htm](ancestryfeatures/feat-00-IFg2tqmAFFnU8UNU.htm)|Celestial Envoy Kitsune|Kitsune Envoyé céleste|libre|
@@ -164,6 +156,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-NfkxFWUeG6g41e8w.htm](ancestryfeatures/feat-01-NfkxFWUeG6g41e8w.htm)|Claws|Griffes|libre|
 |[feat-01-nW1gi13E62Feto2w.htm](ancestryfeatures/feat-01-nW1gi13E62Feto2w.htm)|Woodland Elf|Elfe des bois|officielle|
 |[feat-01-NWbdAN5gDse0ad7C.htm](ancestryfeatures/feat-01-NWbdAN5gDse0ad7C.htm)|Dark Fields Kitsune|Kitsune Champs sombres|libre|
+|[feat-01-NWsZ0cIeghyzk9bU.htm](ancestryfeatures/feat-01-NWsZ0cIeghyzk9bU.htm)|Sharp-Eared Catfolk|Homme-félin aux oreilles pointues|libre|
 |[feat-01-nXQxlmjH24Eb8h2Q.htm](ancestryfeatures/feat-01-nXQxlmjH24Eb8h2Q.htm)|Battle-Ready Orc|Orc prêt pour la bataille|libre|
 |[feat-01-oCIO7UJqbpTkI62l.htm](ancestryfeatures/feat-01-oCIO7UJqbpTkI62l.htm)|Wings|Ailes|libre|
 |[feat-01-OoUqJJB77VfWbWRM.htm](ancestryfeatures/feat-01-OoUqJJB77VfWbWRM.htm)|Cliffscale Lizardfolk|Homme-lézard écaille de falaise|libre|
@@ -172,6 +165,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-pZ1u2ScWrBXSaAqQ.htm](ancestryfeatures/feat-01-pZ1u2ScWrBXSaAqQ.htm)|Winter Orc|Orc de l'hiver|libre|
 |[feat-01-qbWaybAX1LK7kUyY.htm](ancestryfeatures/feat-01-qbWaybAX1LK7kUyY.htm)|Thalassic Azarketi|Azarketi thalassique|libre|
 |[feat-01-qM566kCXljkOpocA.htm](ancestryfeatures/feat-01-qM566kCXljkOpocA.htm)|Taloned Tengu|Tengu à ergots|libre|
+|[feat-01-R6rcqRsBR0KIho5n.htm](ancestryfeatures/feat-01-R6rcqRsBR0KIho5n.htm)|Change Shape (Anadi)|Changement de forme (anadi)|libre|
 |[feat-01-rFdVYKtHsZzRCsSd.htm](ancestryfeatures/feat-01-rFdVYKtHsZzRCsSd.htm)|Stickytoe Grippli|Grippli aux orteils collants|libre|
 |[feat-01-rKV11HWREwjjMIum.htm](ancestryfeatures/feat-01-rKV11HWREwjjMIum.htm)|Skyborn Tengu|Tengu des cieux|libre|
 |[feat-01-RKz7Z5pefXKiv9JE.htm](ancestryfeatures/feat-01-RKz7Z5pefXKiv9JE.htm)|Suli|Suli|libre|
