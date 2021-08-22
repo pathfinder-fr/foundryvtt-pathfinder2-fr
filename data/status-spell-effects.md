@@ -1,12 +1,12 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 136
- * **aucune**: 42
+ * **libre**: 118
+ * **aucune**: 52
  * **officielle**: 11
- * **changé**: 9
+ * **changé**: 27
 
 
-Dernière mise à jour: 2021-08-20 20:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-22 15:21 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -15,6 +15,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[01-06zdFoxzuTpPPGyJ.htm](spell-effects/01-06zdFoxzuTpPPGyJ.htm)|Effect: Rejuvinating Flames|
 |[01-1kelGCsoXyGRqMd9.htm](spell-effects/01-1kelGCsoXyGRqMd9.htm)|Spell Effect: Diabolic Edict|
+|[01-3LyOkV25p7wA181H.htm](spell-effects/01-3LyOkV25p7wA181H.htm)|Effect: Guidance Immunity|
 |[01-aDOL3OAEWf3ka9oT.htm](spell-effects/01-aDOL3OAEWf3ka9oT.htm)|Spell Effect: Blood Ward|
 |[01-ccrcaKIRxiCnnRPT.htm](spell-effects/01-ccrcaKIRxiCnnRPT.htm)|Spell Effect: Dragon Claw (Poison)|
 |[01-CunoTO00M6eZjoFm.htm](spell-effects/01-CunoTO00M6eZjoFm.htm)|Spell Effect: Impeccable Flow (8th)|
@@ -55,11 +56,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[05-jy4edd6pvJvJgOSP.htm](spell-effects/05-jy4edd6pvJvJgOSP.htm)|Spell Effect: Dragon Wings (Own Speed)|
 |[05-LMzFBnOEPzDGzHg4.htm](spell-effects/05-LMzFBnOEPzDGzHg4.htm)|Spell Effect: Unusual Anatomy|
 |[05-V7jAnItnVqtfCAKt.htm](spell-effects/05-V7jAnItnVqtfCAKt.htm)|Spell Effect: Dragon Wings (60 Feet)|
+|[06-W4lb3417rNDd9tCq.htm](spell-effects/06-W4lb3417rNDd9tCq.htm)|Spell Effect: Righteous Might|
+|[07-AnawxScxqUiRuGTm.htm](spell-effects/07-AnawxScxqUiRuGTm.htm)|Spell Effect: Divine Vessel 9th level (Evil)|
+|[07-dIftJU6Ki2QSLCOD.htm](spell-effects/07-dIftJU6Ki2QSLCOD.htm)|Spell Effect: Divine Vessel 9th level (Chaotic)|
+|[07-evK8JR3j2iWGWaug.htm](spell-effects/07-evK8JR3j2iWGWaug.htm)|Spell Effect: Divine Vessel (Evil)|
+|[07-GDzn5DToE62ZOTrP.htm](spell-effects/07-GDzn5DToE62ZOTrP.htm)|Spell Effect: Divine Vessel (Chaotic)|
+|[07-KMF2t3qqzyFP0rxL.htm](spell-effects/07-KMF2t3qqzyFP0rxL.htm)|Spell Effect: Divine Vessel (Good)|
+|[07-OxJEUhim6xzsHIyi.htm](spell-effects/07-OxJEUhim6xzsHIyi.htm)|Spell Effect: Divine Vessel 9th level (Good)|
+|[07-tBgwWblDp1xdxN4D.htm](spell-effects/07-tBgwWblDp1xdxN4D.htm)|Spell Effect: Divine Vessel (Lawful)|
+|[07-wKdIf5x7zztiFHpL.htm](spell-effects/07-wKdIf5x7zztiFHpL.htm)|Spell Effect: Divine Vessel 9th level (Lawful)|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[02-2wfrhRLmmgPSKbAZ.htm](spell-effects/02-2wfrhRLmmgPSKbAZ.htm)|Spell Effect: Animal Feature (Claws)|Effet : Trait animal (Griffes)|changé|
+|[02-GhGoZdAZtzZTYCzj.htm](spell-effects/02-GhGoZdAZtzZTYCzj.htm)|Spell Effect: Animal Feature (Jaws)|Effet : Trait animal (Mâchoires)|changé|
 |[03-782NyomkDHyfsUn6.htm](spell-effects/03-782NyomkDHyfsUn6.htm)|Spell Effect: Insect Form (Spider)|Effet : Forme d'insecte (Araignée)|changé|
 |[03-bOjuEX3qj7XAOoDF.htm](spell-effects/03-bOjuEX3qj7XAOoDF.htm)|Spell Effect: Insect Form (Scorpion)|Effet : Forme d'insecte (Scorpion)|changé|
 |[03-DENMzySYANjUBs4O.htm](spell-effects/03-DENMzySYANjUBs4O.htm)|Spell Effect: Insect Form (Centipede)|Effet : Forme d'insecte (Mille-pattes)|changé|
@@ -67,8 +79,24 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[04-oJbcmpBSHwmx6FD4.htm](spell-effects/04-oJbcmpBSHwmx6FD4.htm)|Spell Effect: Dinosaur Form (Deinonychus)|Effet : Forme de dinosaure (Deinonychus)|changé|
 |[04-xgZxYqjDPNtsQ3Qp.htm](spell-effects/04-xgZxYqjDPNtsQ3Qp.htm)|Spell Effect: Aerial Form (Wasp)|Effet : Forme aérienne (Guêpe)|changé|
 |[05-phIoucsDa3iplMm2.htm](spell-effects/05-phIoucsDa3iplMm2.htm)|Spell Effect: Elemental Form (Fire)|Effet : Forme élémentaire (Feu)|changé|
+|[06-8aNZhlkzRTRKlKag.htm](spell-effects/06-8aNZhlkzRTRKlKag.htm)|Spell Effect: Dragon Form (Gold)|Effet : Forme de dragon (Or)|changé|
+|[06-C3RdbEQTvawqKAhw.htm](spell-effects/06-C3RdbEQTvawqKAhw.htm)|Spell Effect: Tempest Form (Water)|Effet : Forme tempêtueuse (Eau)|changé|
+|[06-DrNpuMj14wVj4bWF.htm](spell-effects/06-DrNpuMj14wVj4bWF.htm)|Spell Effect: Dragon Form (Copper)|Effet : Forme de dragon (Cuivre)|changé|
+|[06-ETgzIIv3M2zvclAR.htm](spell-effects/06-ETgzIIv3M2zvclAR.htm)|Spell Effect: Dragon Form (Blue)|Effet : Forme de dragon (Bleu)|changé|
+|[06-H6ndYYYlADWwqVQb.htm](spell-effects/06-H6ndYYYlADWwqVQb.htm)|Spell Effect: Dragon Form (White)|Effet : Forme de dragon (Blanc)|changé|
+|[06-jtW3VfI5Kktuy3GH.htm](spell-effects/06-jtW3VfI5Kktuy3GH.htm)|Spell Effect: Dragon Form (Bronze)|Effet : Forme de dragon (Bronze)|changé|
+|[06-lIl0yYdS9zojOZhe.htm](spell-effects/06-lIl0yYdS9zojOZhe.htm)|Spell Effect: Life-Giving Form|Effet : Forme génératrice de vie|changé|
+|[06-nWEx5kpkE8YlBZvy.htm](spell-effects/06-nWEx5kpkE8YlBZvy.htm)|Spell Effect: Dragon Form (Green)|Effet : Forme de dragon (Vert)|changé|
+|[06-OeCn76SB92GPOZwr.htm](spell-effects/06-OeCn76SB92GPOZwr.htm)|Spell Effect: Dragon Form (Brass)|Effet : Forme de dragon (Airain)|changé|
+|[06-rHXOZAFBdRXIlxt5.htm](spell-effects/06-rHXOZAFBdRXIlxt5.htm)|Spell Effect: Dragon Form (Black)|Effet : Forme de dragon (Noir)|changé|
+|[06-TUyEeLyqdJL6PwbH.htm](spell-effects/06-TUyEeLyqdJL6PwbH.htm)|Spell Effect: Dragon Form (Silver)|Effet : Forme de dragon (Argent)|changé|
+|[06-V4a9pZHNUlddAwTA.htm](spell-effects/06-V4a9pZHNUlddAwTA.htm)|Spell Effect: Dragon Form (Red)|Effet : Forme de dragon (Rouge)|changé|
 |[08-b8bfWIICHOsGVzjp.htm](spell-effects/08-b8bfWIICHOsGVzjp.htm)|Spell Effect: Monstrosity Form (Phoenix)|Effet : Forme monstrueuse (Phénix)|changé|
 |[08-rEsgDhunQ5Yx8KZx.htm](spell-effects/08-rEsgDhunQ5Yx8KZx.htm)|Spell Effect: Monstrosity Form (Purple Worm)|Effet : Forme monstrueuse (Ver pourpre)|changé|
+|[09-1p5LEpMSRFG1099t.htm](spell-effects/09-1p5LEpMSRFG1099t.htm)|Spell Effect: Ki Form (Lawful)|Effet : Forme ki (Loi)|changé|
+|[09-bbOdbGiRXGEQ2aY0.htm](spell-effects/09-bbOdbGiRXGEQ2aY0.htm)|Spell Effect: Ki Form (Positive)|Effet : Forme ki (Positif)|changé|
+|[09-F0XnusshRzgMdFT1.htm](spell-effects/09-F0XnusshRzgMdFT1.htm)|Spell Effect: Ki Form (Force)|Effet : Forme ki (Force)|changé|
+|[09-h28nZ8JB5JBwr87U.htm](spell-effects/09-h28nZ8JB5JBwr87U.htm)|Spell Effect: Ki Form (Negative)|Effet : Forme ki (Négatif)|changé|
 
 ## Liste des traductions complétés
 
@@ -146,13 +174,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-y9PJdDYFemhk6Z5o.htm](spell-effects/01-y9PJdDYFemhk6Z5o.htm)|Spell Effect: Agile Feet|Effet : Pieds Agiles|libre|
 |[01-ydsLEGjY89Akc4oZ.htm](spell-effects/01-ydsLEGjY89Akc4oZ.htm)|Spell Effect: Pest Form|Effet : Forme de nuisible|libre|
 |[01-zpxIwEjnLUSO1B4z.htm](spell-effects/01-zpxIwEjnLUSO1B4z.htm)|Spell Effect: Magic's Vessel|Effet : Réceptacle magique|libre|
-|[02-2wfrhRLmmgPSKbAZ.htm](spell-effects/02-2wfrhRLmmgPSKbAZ.htm)|Spell Effect: Animal Feature (Claws)|Effet : Trait animal (Griffes)|libre|
 |[02-4U9BWv0rSpGbU0wr.htm](spell-effects/02-4U9BWv0rSpGbU0wr.htm)|Spell Effect: Ki Strike (Evil)|Effet : Frappe ki (Mal)|libre|
 |[02-70qdCBokXBvKIUIQ.htm](spell-effects/02-70qdCBokXBvKIUIQ.htm)|Spell Effect: Vision of Weakness|Effet : Vision de faiblesse|libre|
 |[02-BT1ofB6RvRocQOWO.htm](spell-effects/02-BT1ofB6RvRocQOWO.htm)|Spell Effect: Animal Form (Bull)|Effet : Forme animale (Taureau)|libre|
 |[02-dCQCzapIk53xmDo5.htm](spell-effects/02-dCQCzapIk53xmDo5.htm)|Spell Effect: Animal Feature (Cat Eyes)|Effet : Trait animal (Yeux de chats)|libre|
 |[02-F4DTpDXNu5IliyhJ.htm](spell-effects/02-F4DTpDXNu5IliyhJ.htm)|Spell Effect: Animal Form (Deer)|Effet : Forme animale (Cerf)|libre|
-|[02-GhGoZdAZtzZTYCzj.htm](spell-effects/02-GhGoZdAZtzZTYCzj.htm)|Spell Effect: Animal Feature (Jaws)|Effet : Trait animal (Mâchoires)|libre|
 |[02-gQnDKDeBTtjwOWAk.htm](spell-effects/02-gQnDKDeBTtjwOWAk.htm)|Spell Effect: Animal Form (Bear)|Effet : Forme animale (Ours)|libre|
 |[02-j2LhQ7kEQhq3J3zZ.htm](spell-effects/02-j2LhQ7kEQhq3J3zZ.htm)|Spell Effect: Animal Form (Frog)|Effet : Forme animale (Grenouille)|libre|
 |[02-joCQGq27FylDuY9P.htm](spell-effects/02-joCQGq27FylDuY9P.htm)|Spell Effect: Ki Strike (Chaotic)|Effet : Frappe ki (Chaotique)|libre|
@@ -196,26 +222,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[05-JrNHFNxJayevlv2G.htm](spell-effects/05-JrNHFNxJayevlv2G.htm)|Spell Effect: Plant Form (Flytrap)|Effet : Forme de plante (Attrape-mouches)|libre|
 |[05-kxMBdANwCcF841uA.htm](spell-effects/05-kxMBdANwCcF841uA.htm)|Spell Effect: Elemental Form (Water)|Effet : Forme élémentaire (Eau)|libre|
 |[05-tu8FyCtmL3YYR2jL.htm](spell-effects/05-tu8FyCtmL3YYR2jL.htm)|Spell Effect: Plant Form (Arboreal)|Effet : Forme de plante (Arboréen)|libre|
-|[06-8aNZhlkzRTRKlKag.htm](spell-effects/06-8aNZhlkzRTRKlKag.htm)|Spell Effect: Dragon Form (Gold)|Effet : Forme de dragon (Or)|libre|
 |[06-b5OyBdc0bolgWZZT.htm](spell-effects/06-b5OyBdc0bolgWZZT.htm)|Spell Effect: Tempest Form (Air)|Effet : Forme tempêtueuse (Air)|libre|
-|[06-C3RdbEQTvawqKAhw.htm](spell-effects/06-C3RdbEQTvawqKAhw.htm)|Spell Effect: Tempest Form (Water)|Effet : Forme tempêtueuse (Eau)|libre|
-|[06-DrNpuMj14wVj4bWF.htm](spell-effects/06-DrNpuMj14wVj4bWF.htm)|Spell Effect: Dragon Form (Copper)|Effet : Forme de dragon (Cuivre)|libre|
-|[06-ETgzIIv3M2zvclAR.htm](spell-effects/06-ETgzIIv3M2zvclAR.htm)|Spell Effect: Dragon Form (Blue)|Effet : Forme de dragon (Bleu)|libre|
-|[06-H6ndYYYlADWwqVQb.htm](spell-effects/06-H6ndYYYlADWwqVQb.htm)|Spell Effect: Dragon Form (White)|Effet : Forme de dragon (Blanc)|libre|
 |[06-HDKJAUXMbtxnBdgR.htm](spell-effects/06-HDKJAUXMbtxnBdgR.htm)|Spell Effect: Tempest Form (Mist)|Effet : Forme tempêtueuse (Brume)|libre|
-|[06-jtW3VfI5Kktuy3GH.htm](spell-effects/06-jtW3VfI5Kktuy3GH.htm)|Spell Effect: Dragon Form (Bronze)|Effet : Forme de dragon (Bronze)|libre|
 |[06-l8HkOKfiUqd3BUwT.htm](spell-effects/06-l8HkOKfiUqd3BUwT.htm)|Spell Effect: Ancestral Form|Effet : Forme ancestrale|libre|
-|[06-lIl0yYdS9zojOZhe.htm](spell-effects/06-lIl0yYdS9zojOZhe.htm)|Spell Effect: Life-Giving Form|Effet : Forme génératrice de vie|libre|
-|[06-nWEx5kpkE8YlBZvy.htm](spell-effects/06-nWEx5kpkE8YlBZvy.htm)|Spell Effect: Dragon Form (Green)|Effet : Forme de dragon (Vert)|libre|
-|[06-OeCn76SB92GPOZwr.htm](spell-effects/06-OeCn76SB92GPOZwr.htm)|Spell Effect: Dragon Form (Brass)|Effet : Forme de dragon (Airain)|libre|
-|[06-rHXOZAFBdRXIlxt5.htm](spell-effects/06-rHXOZAFBdRXIlxt5.htm)|Spell Effect: Dragon Form (Black)|Effet : Forme de dragon (Noir)|libre|
-|[06-TUyEeLyqdJL6PwbH.htm](spell-effects/06-TUyEeLyqdJL6PwbH.htm)|Spell Effect: Dragon Form (Silver)|Effet : Forme de dragon (Argent)|libre|
-|[06-V4a9pZHNUlddAwTA.htm](spell-effects/06-V4a9pZHNUlddAwTA.htm)|Spell Effect: Dragon Form (Red)|Effet : Forme de dragon (Rouge)|libre|
 |[08-Eik8Fj8nGo2GLcbn.htm](spell-effects/08-Eik8Fj8nGo2GLcbn.htm)|Spell Effect: Monstrosity Form (Sea Serpent)|Effet : Forme monstrueuse (Serpent de mer)|libre|
-|[09-1p5LEpMSRFG1099t.htm](spell-effects/09-1p5LEpMSRFG1099t.htm)|Spell Effect: Ki Form (Lawful)|Effet : Forme ki (Loi)|libre|
-|[09-bbOdbGiRXGEQ2aY0.htm](spell-effects/09-bbOdbGiRXGEQ2aY0.htm)|Spell Effect: Ki Form (Positive)|Effet : Forme ki (Positif)|libre|
-|[09-F0XnusshRzgMdFT1.htm](spell-effects/09-F0XnusshRzgMdFT1.htm)|Spell Effect: Ki Form (Force)|Effet : Forme ki (Force)|libre|
-|[09-h28nZ8JB5JBwr87U.htm](spell-effects/09-h28nZ8JB5JBwr87U.htm)|Spell Effect: Ki Form (Negative)|Effet : Forme ki (Négatif)|libre|
 |[10-blBXnWb1Y8q8YYMh.htm](spell-effects/10-blBXnWb1Y8q8YYMh.htm)|Spell Effect: Primal Summons (Fire)|Effet : Convocations primordiales (Feu)|libre|
 |[10-fwaAe71qfnK7SiOB.htm](spell-effects/10-fwaAe71qfnK7SiOB.htm)|Spell Effect: Primal Summons (Air)|Effet : Convocations primordiales (Air)|libre|
 |[10-NXzo2kdgVixIZ2T1.htm](spell-effects/10-NXzo2kdgVixIZ2T1.htm)|Spell Effect: Apex Companion|Effet : Compagnon alpha|libre|

@@ -8478,6 +8478,16 @@
             ]
         },
         {
+            "id": "Fane's Escape",
+            "name": "Évasion du joueur (Fane's Escape)",
+            "description": "<p><strong>Conditions</strong> vous avez un paquet de cartes à jouer en votre possession.</p>\n<hr />\n<p>Une bonne évasion nécessite une bonne distraction. Vous Interagissez pour tirer un paquet de cartes et vous le lancez en l'air en une explosion papillonnante, vous rendant brièvement @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} de toutes les autres créatures utilisant leur vision comme sens précis, puis vous êtes Furtif. Vous êtes suffisamment Masqué pour être Furtif jusqu'à la fin de votre tour. Cela laisse toutes les cartes du paquet éparpillées dans la pièce ; les rassembler de nouveau prend plusieurs minutes.</p>",
+            "prereq": [
+                {
+                    "value": "expert en Discrétion"
+                }
+            ]
+        },
+        {
             "id": "Tiger Slash",
             "name": "Taillade du tigre (Tiger Slash)",
             "description": "<p><strong>Conditions</strong> Vous êtes dans la @Compendium[pf2e.feats-srd.VCjAlOvjNvFJOsG5]{Posture du tigre}</p>\n<hr />\n<p>Vous lacérez violemment avec vos deux mains. Faites une Frappe de griffe de tigre. Elle inflige deux dés de dégâts d’arme supplémentaires (trois si vous êtes de niveau 14 ou supérieur) et vous pouvez repousser la cible de 1,50 mètres comme si vous aviez réussi à la @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser}. Si l’attaque est un coup critique et inflige des dégâts, ajoutez votre modificateur de Force aux dégâts de saignement persistants de votre griffe de tigre.</p>",

@@ -97,6 +97,11 @@
             "description": "<p>Une puissante magie protectrice liée à un objet ou un lieu tente de faire retomber une créature et ses alliés en enfance.</p>"
         },
         {
+            "id": "Sportlebore",
+            "name": "Sportlebore (Collembole)",
+            "description": "<p>Le fléau des aventuriers affamés du monde entier, les collemboles sont de vilaines vermines qui ressemblent à de délicieux snacks. Lorsqu'il est positionné près de rations de sentier telles que des fruits ou de la viande séchée, un collembole peut imiter parfaitement ces aliments en fléchissant, en se contorsionnant et en changeant la couleur de son abdomen, puis en repliant son thorax, sa tête et ses jambes pour les cacher sous son corps à l'apparence délicieuse. Une fois consommé, le collembole se reproduit en un essaim affamé qui est régurgité par le mangeur maintenant malade, attaquant voracement toutes les créatures qu'il pense pouvoir consommer.</p>"
+        },
+        {
             "id": "Bottomless Pit",
             "name": "Bottomless Pit (Trappe sans fond)",
             "description": "<p> Une trappe de fer recouvre une fosse sans fond de 3 m de côté.</p>"
@@ -109,7 +114,7 @@
         {
             "id": "Brown Mold",
             "name": "Brown Mold (Moisissure brune)",
-            "description": "<p>Cette moisissure sans prétention aspire la châleur de l'air.</p>"
+            "description": "<p>Cette moisissure sans prétention aspire la chaleur de l'air.</p>"
         },
         {
             "id": "Treacherous Scree",

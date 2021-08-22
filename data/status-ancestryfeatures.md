@@ -1,25 +1,30 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 180
+ * **libre**: 174
+ * **changé**: 7
  * **officielle**: 28
- * **changé**: 1
 
 
-Dernière mise à jour: 2021-08-20 20:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-22 15:20 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[feat-01-vt67b8uoNEbskcBv.htm](ancestryfeatures/feat-01-vt67b8uoNEbskcBv.htm)|Hydration|Hydratation|changé|
+|[feat-00-dCp517IUFJk8JvQc.htm](ancestryfeatures/feat-00-dCp517IUFJk8JvQc.htm)|Fangs|Crocs|changé|
+|[feat-01-2cii5ZkBsJ4DYdd2.htm](ancestryfeatures/feat-01-2cii5ZkBsJ4DYdd2.htm)|Cactus Leshy|Léchi cactus|changé|
+|[feat-01-9Iu1gFEuvVz9zaYU.htm](ancestryfeatures/feat-01-9Iu1gFEuvVz9zaYU.htm)|Spined Azarketi|Azarketi épineux|changé|
+|[feat-01-MUujYQYWg6PNVaaN.htm](ancestryfeatures/feat-01-MUujYQYWg6PNVaaN.htm)|Predator Strix|Strix prédateur|changé|
+|[feat-01-qM566kCXljkOpocA.htm](ancestryfeatures/feat-01-qM566kCXljkOpocA.htm)|Taloned Tengu|Tengu à ergots|changé|
+|[feat-01-Wk4HyaZtC1j221i1.htm](ancestryfeatures/feat-01-Wk4HyaZtC1j221i1.htm)|Earthly Wilds Kitsune|Kitsune des Étendues sauvages terrestres|changé|
+|[feat-01-x5S4MNQ0aqUmgHcC.htm](ancestryfeatures/feat-01-x5S4MNQ0aqUmgHcC.htm)|Vicious Goloma|Goloma vicieux|changé|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[effect-01-qIOEe4kUN7FOBifb.htm](ancestryfeatures/effect-01-qIOEe4kUN7FOBifb.htm)|Effect: Hybrid Form|Effet : Forme hybride|libre|
-|[feat-00-dCp517IUFJk8JvQc.htm](ancestryfeatures/feat-00-dCp517IUFJk8JvQc.htm)|Fangs|Crocs|libre|
 |[feat-00-faLb2rczsrxAuOTt.htm](ancestryfeatures/feat-00-faLb2rczsrxAuOTt.htm)|Rite of Knowing|Rite du savoir|libre|
 |[feat-00-IFg2tqmAFFnU8UNU.htm](ancestryfeatures/feat-00-IFg2tqmAFFnU8UNU.htm)|Celestial Envoy Kitsune|Kitsune Envoyé céleste|libre|
 |[feat-00-q2omqJ9t0skGTYki.htm](ancestryfeatures/feat-00-q2omqJ9t0skGTYki.htm)|Rite of Reinforcement|Rite de renforcement|libre|
@@ -31,7 +36,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-1lv7RMp7t5iqeUFT.htm](ancestryfeatures/feat-01-1lv7RMp7t5iqeUFT.htm)|Hunting Catfolk|Homme-félin chasseur|libre|
 |[feat-01-1oLMOmLpurfWTTff.htm](ancestryfeatures/feat-01-1oLMOmLpurfWTTff.htm)|Aasimar|Aasimar|libre|
 |[feat-01-1wVDYY9Wue0G5R9Q.htm](ancestryfeatures/feat-01-1wVDYY9Wue0G5R9Q.htm)|Whisper Elf|Elfe des murmures|officielle|
-|[feat-01-2cii5ZkBsJ4DYdd2.htm](ancestryfeatures/feat-01-2cii5ZkBsJ4DYdd2.htm)|Cactus Leshy|Léchi cactus|libre|
 |[feat-01-2hLDilS6qbjHxgVS.htm](ancestryfeatures/feat-01-2hLDilS6qbjHxgVS.htm)|Dogtooth Tengu|Tengu Dentdechien|libre|
 |[feat-01-2kSzKDtwbcILZTIe.htm](ancestryfeatures/feat-01-2kSzKDtwbcILZTIe.htm)|Snaptongue Grippli|Grippli à longue langue|libre|
 |[feat-01-32oX6hHUY6K8N70Q.htm](ancestryfeatures/feat-01-32oX6hHUY6K8N70Q.htm)|Charhide Goblin|Gobelin peaud'charbon|officielle|
@@ -54,7 +58,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-87h0jepQuzIbN7jN.htm](ancestryfeatures/feat-01-87h0jepQuzIbN7jN.htm)|Fungus Leshy|Léchi fongique|libre|
 |[feat-01-8Gsa8KFsHizEwSHU.htm](ancestryfeatures/feat-01-8Gsa8KFsHizEwSHU.htm)|Badlands Orc|Orc des badlands|libre|
 |[feat-01-8wGUh9RsMUamOKjh.htm](ancestryfeatures/feat-01-8wGUh9RsMUamOKjh.htm)|Tailed Goblin|Gobelin à queue|libre|
-|[feat-01-9Iu1gFEuvVz9zaYU.htm](ancestryfeatures/feat-01-9Iu1gFEuvVz9zaYU.htm)|Spined Azarketi|Azarketi épineux|libre|
 |[feat-01-9mS8EGLlGUOzSAzP.htm](ancestryfeatures/feat-01-9mS8EGLlGUOzSAzP.htm)|Nightglider Strix|Strix Planenuit|libre|
 |[feat-01-a6F2WjYU8D0suT8T.htm](ancestryfeatures/feat-01-a6F2WjYU8D0suT8T.htm)|Razortooth Goblin|Gobelin Dent’rasoir|officielle|
 |[feat-01-AUlPRySCqE6o6LHH.htm](ancestryfeatures/feat-01-AUlPRySCqE6o6LHH.htm)|Eyes in Back|Yeux dans le dos|libre|
@@ -146,7 +149,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-MQx7miBXUmOHycqJ.htm](ancestryfeatures/feat-01-MQx7miBXUmOHycqJ.htm)|Laborer Android|Manœuvre androïde|libre|
 |[feat-01-MtH5bq0MhaMQbJEL.htm](ancestryfeatures/feat-01-MtH5bq0MhaMQbJEL.htm)|Murkeyed Azarketi|Azarketi Yeuxobscurs|libre|
 |[feat-01-MTTU2t7x6TjvUDnE.htm](ancestryfeatures/feat-01-MTTU2t7x6TjvUDnE.htm)|Hold-Scarred Orc|Orc scarifié|libre|
-|[feat-01-MUujYQYWg6PNVaaN.htm](ancestryfeatures/feat-01-MUujYQYWg6PNVaaN.htm)|Predator Strix|Strix prédateur|libre|
 |[feat-01-n2DKA0OQQcfvZRly.htm](ancestryfeatures/feat-01-n2DKA0OQQcfvZRly.htm)|Technological Fleshwarp|Distordu technologique|libre|
 |[feat-01-n2eJEjA8pnOMiuCm.htm](ancestryfeatures/feat-01-n2eJEjA8pnOMiuCm.htm)|Smokeworker Hobgoblin|Hobgobelin travailleur de fumée|libre|
 |[feat-01-N36ZR4lh9eCazDaN.htm](ancestryfeatures/feat-01-N36ZR4lh9eCazDaN.htm)|Half-Elf|Demi-elfe|officielle|
@@ -164,7 +166,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-PwxbD5VSJ0Yroqvp.htm](ancestryfeatures/feat-01-PwxbD5VSJ0Yroqvp.htm)|Liminal Fetchling|Fetchelin liminaire|libre|
 |[feat-01-pZ1u2ScWrBXSaAqQ.htm](ancestryfeatures/feat-01-pZ1u2ScWrBXSaAqQ.htm)|Winter Orc|Orc de l'hiver|libre|
 |[feat-01-qbWaybAX1LK7kUyY.htm](ancestryfeatures/feat-01-qbWaybAX1LK7kUyY.htm)|Thalassic Azarketi|Azarketi thalassique|libre|
-|[feat-01-qM566kCXljkOpocA.htm](ancestryfeatures/feat-01-qM566kCXljkOpocA.htm)|Taloned Tengu|Tengu à ergots|libre|
 |[feat-01-R6rcqRsBR0KIho5n.htm](ancestryfeatures/feat-01-R6rcqRsBR0KIho5n.htm)|Change Shape (Anadi)|Changement de forme (anadi)|libre|
 |[feat-01-rFdVYKtHsZzRCsSd.htm](ancestryfeatures/feat-01-rFdVYKtHsZzRCsSd.htm)|Stickytoe Grippli|Grippli aux orteils collants|libre|
 |[feat-01-rKV11HWREwjjMIum.htm](ancestryfeatures/feat-01-rKV11HWREwjjMIum.htm)|Skyborn Tengu|Tengu des cieux|libre|
@@ -202,6 +203,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-vPhPgzpRjYDMT9Kq.htm](ancestryfeatures/feat-01-vPhPgzpRjYDMT9Kq.htm)|Greater Darkvision|Vision dans le noir supérieure|libre|
 |[feat-01-VRyX00OuPGsJSurM.htm](ancestryfeatures/feat-01-VRyX00OuPGsJSurM.htm)|Spellscale Kobold|Kobold écaille de sort|libre|
 |[feat-01-VSyOvtgJ1ZNpIVgC.htm](ancestryfeatures/feat-01-VSyOvtgJ1ZNpIVgC.htm)|Rock Dwarf|Nain des roches|officielle|
+|[feat-01-vt67b8uoNEbskcBv.htm](ancestryfeatures/feat-01-vt67b8uoNEbskcBv.htm)|Hydration|Hydratation|libre|
 |[feat-01-VTtXwBxrfRUXSL38.htm](ancestryfeatures/feat-01-VTtXwBxrfRUXSL38.htm)|Death Warden Dwarf|Nain gardemort|officielle|
 |[feat-01-VvEAFoxuddYNBmNc.htm](ancestryfeatures/feat-01-VvEAFoxuddYNBmNc.htm)|Grave Orc|Orc tombal|libre|
 |[feat-01-VYfpTUuXJM3iBOz0.htm](ancestryfeatures/feat-01-VYfpTUuXJM3iBOz0.htm)|Unseen Lizardfolk|Homme-lézard mimétique|libre|
@@ -209,11 +211,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-WEzgrxBRFBGdj8Hx.htm](ancestryfeatures/feat-01-WEzgrxBRFBGdj8Hx.htm)|Wavediver Tengu|Tengu Plongevague|libre|
 |[feat-01-wGMVflH4t1UXrNn5.htm](ancestryfeatures/feat-01-wGMVflH4t1UXrNn5.htm)|Tiefling|Tieffelin|libre|
 |[feat-01-wHO5luJMODbDLXNi.htm](ancestryfeatures/feat-01-wHO5luJMODbDLXNi.htm)|Bright Fetchling|Fetchelin lumineux|libre|
-|[feat-01-Wk4HyaZtC1j221i1.htm](ancestryfeatures/feat-01-Wk4HyaZtC1j221i1.htm)|Earthly Wilds Kitsune|Kitsune des Étendues sauvages terrestres|libre|
 |[feat-01-wn4EbYk1QN3tyFhh.htm](ancestryfeatures/feat-01-wn4EbYk1QN3tyFhh.htm)|Deep Orc|Orc des profondeurs|libre|
 |[feat-01-wNnsjird4OQe0s6p.htm](ancestryfeatures/feat-01-wNnsjird4OQe0s6p.htm)|Gourd Leshy|Léchi calebasse|libre|
 |[feat-01-WxcbLvufI6JBpLt0.htm](ancestryfeatures/feat-01-WxcbLvufI6JBpLt0.htm)|Spindly Anadi|Anadi sautillant|libre|
-|[feat-01-x5S4MNQ0aqUmgHcC.htm](ancestryfeatures/feat-01-x5S4MNQ0aqUmgHcC.htm)|Vicious Goloma|Goloma vicieux|libre|
 |[feat-01-xaTTN5anLEBzWCzv.htm](ancestryfeatures/feat-01-xaTTN5anLEBzWCzv.htm)|Windweb Grippli|Grippli à palmes|libre|
 |[feat-01-XeXWsvcWU3Zaj5WC.htm](ancestryfeatures/feat-01-XeXWsvcWU3Zaj5WC.htm)|Chameleon Gnome|Gnome Caméléon|officielle|
 |[feat-01-xtRIYizCjLg9qe1Z.htm](ancestryfeatures/feat-01-xtRIYizCjLg9qe1Z.htm)|Wildwood Halfling|Halfelin bois-sauvage|officielle|

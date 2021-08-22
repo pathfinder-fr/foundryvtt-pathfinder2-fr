@@ -1,13 +1,13 @@
 # État de la traduction (archetypes)
 
  * **auto-trad**: 4
- * **changé**: 67
+ * **changé**: 68
  * **aucune**: 4
- * **libre**: 5
+ * **libre**: 4
  * **officielle**: 2
 
 
-Dernière mise à jour: 2021-08-20 20:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-22 15:20 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -66,6 +66,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kisnuKPMGheORROU.htm](archetypes/kisnuKPMGheORROU.htm)|Animal Trainer|Dompteur|changé|
 |[l4sKdl0ub0UGBwsb.htm](archetypes/l4sKdl0ub0UGBwsb.htm)|Knight Vigilant|Chevalier vigilant|changé|
 |[Ld3wizivrctmoHhy.htm](archetypes/Ld3wizivrctmoHhy.htm)|Martial Artist|Artiste martial|changé|
+|[lsU4NQEei111OetM.htm](archetypes/lsU4NQEei111OetM.htm)|Dragon Disciple|Disciple draconique|changé|
 |[LYYDozZfXok19VYW.htm](archetypes/LYYDozZfXok19VYW.htm)|Hellknight Armiger|Écuyer des chevaliers infernaux|changé|
 |[MJ2EBeAVkc61mznR.htm](archetypes/MJ2EBeAVkc61mznR.htm)|Archer|Archer|changé|
 |[myvFp45VnA2FPOvG.htm](archetypes/myvFp45VnA2FPOvG.htm)|Archaeologist|Archéologue|changé|
@@ -108,6 +109,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|Médecin|libre|
 |[DeixUOfwL7Bruad5.htm](archetypes/DeixUOfwL7Bruad5.htm)|Red Mantis Assassin|Assassin des Mantes rouges|officielle|
 |[Lr108TWazbuxxUzP.htm](archetypes/Lr108TWazbuxxUzP.htm)|Zephyr Guard|Garde Zéphyr|officielle|
-|[lsU4NQEei111OetM.htm](archetypes/lsU4NQEei111OetM.htm)|Dragon Disciple|Disciple draconique|libre|
 |[PPmO6FXrl8Otszji.htm](archetypes/PPmO6FXrl8Otszji.htm)|Drow Shootist|Tireur drow|libre|
 |[VRUYc3QyRjjOjppc.htm](archetypes/VRUYc3QyRjjOjppc.htm)|Turpin Rowe Lumberjack|Bûcheron de Turpin Rowe|libre|
