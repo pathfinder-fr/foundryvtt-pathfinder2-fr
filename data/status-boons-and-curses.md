@@ -1,18 +1,11 @@
 # État de la traduction (boons-and-curses)
 
- * **libre**: 119
- * **changé**: 1
+ * **libre**: 120
 
 
-Dernière mise à jour: 2021-08-22 15:20 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-26 13:57 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[CjRUOscsOwCmai8D.htm](boons-and-curses/CjRUOscsOwCmai8D.htm)|Desna - Moderate Curse|Desna - Malédiction modérée|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -43,6 +36,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[c2wwILmpgyXIjlfe.htm](boons-and-curses/c2wwILmpgyXIjlfe.htm)|Torag - Major Curse|Torag - Malédiction majeure|libre|
 |[C6Ercv1ugcTsbVA9.htm](boons-and-curses/C6Ercv1ugcTsbVA9.htm)|Erastil - Major Curse|Érastil - Malédiction majeure|libre|
 |[cFz09CWKzff2cC73.htm](boons-and-curses/cFz09CWKzff2cC73.htm)|Rovagug - Major Boon|Rovagug - Bénédiction majeure|libre|
+|[CjRUOscsOwCmai8D.htm](boons-and-curses/CjRUOscsOwCmai8D.htm)|Desna - Moderate Curse|Desna - Malédiction modérée|libre|
 |[CL8lLQJWd4N89QIm.htm](boons-and-curses/CL8lLQJWd4N89QIm.htm)|Erastil - Moderate Boon|Érastil - Bénédiction modérée|libre|
 |[CmHQGVyNZ7aOmMcd.htm](boons-and-curses/CmHQGVyNZ7aOmMcd.htm)|Nethys - Moderate Curse|Néthys - Malédiction modérée|libre|
 |[d198p8UBPK3VcKi9.htm](boons-and-curses/d198p8UBPK3VcKi9.htm)|Rovagug - Moderate Curse|Rovagug - Malédiction modérée|libre|

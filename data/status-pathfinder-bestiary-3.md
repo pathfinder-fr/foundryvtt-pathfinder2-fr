@@ -4,7 +4,7 @@
  * **changé**: 4
 
 
-Dernière mise à jour: 2021-08-22 15:20 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-26 13:57 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -102,7 +102,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cKZtOsBlN3Qu8Kyq.htm](pathfinder-bestiary-3/cKZtOsBlN3Qu8Kyq.htm)|Clockwork Spy|Automate-espion|libre|
 |[cMBXcfS0DuZ7O2vm.htm](pathfinder-bestiary-3/cMBXcfS0DuZ7O2vm.htm)|Pukwudgie|Pukwudgie|libre|
 |[cmzlnTgWcJjnISAK.htm](pathfinder-bestiary-3/cmzlnTgWcJjnISAK.htm)|Kokogiak|Kokogiak|libre|
-|[CSPuBqtPITQt43Md.htm](pathfinder-bestiary-3/CSPuBqtPITQt43Md.htm)|Gathlain Wanderer|Vagabond gathlain|libre|
+|[CSPuBqtPITQt43Md.htm](pathfinder-bestiary-3/CSPuBqtPITQt43Md.htm)|Gathlain Wanderer|Vagabond gathlain (Fey)|libre|
 |[cWlntwaa4HPFEf3u.htm](pathfinder-bestiary-3/cWlntwaa4HPFEf3u.htm)|Sturzstromer|Sturzstromeur|libre|
 |[CXCdPqMRX58sBQ9G.htm](pathfinder-bestiary-3/CXCdPqMRX58sBQ9G.htm)|Hellknight Cavalry Brigade|Brigade de cavalerie de Chevaliers infernaux|libre|
 |[CYzFHz8ZbU270z9N.htm](pathfinder-bestiary-3/CYzFHz8ZbU270z9N.htm)|Mokele-mbembe|Mokele-mbembe|libre|
@@ -206,8 +206,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[mupW1Mgec250lQiZ.htm](pathfinder-bestiary-3/mupW1Mgec250lQiZ.htm)|Umasi|Umasi|libre|
 |[n1GmLT7b5Q579Tcf.htm](pathfinder-bestiary-3/n1GmLT7b5Q579Tcf.htm)|Trailgaunt|Échalas des chemins|libre|
 |[N6nBHGfmlaeMiBMP.htm](pathfinder-bestiary-3/N6nBHGfmlaeMiBMP.htm)|Hellwasp Swarm|Nuée de guêpes de l'enfer|libre|
-|[n9xSjQA1YSlYc9p3.htm](pathfinder-bestiary-3/n9xSjQA1YSlYc9p3.htm)|Millindemalion|Millindemalion (fée)|libre|
-|[NhHGDx6ChbrhAmbO.htm](pathfinder-bestiary-3/NhHGDx6ChbrhAmbO.htm)|Domovoi|Domovoï (esprit de la maison)|libre|
+|[n9xSjQA1YSlYc9p3.htm](pathfinder-bestiary-3/n9xSjQA1YSlYc9p3.htm)|Millindemalion|Millindemalion (Fey)|libre|
+|[NhHGDx6ChbrhAmbO.htm](pathfinder-bestiary-3/NhHGDx6ChbrhAmbO.htm)|Domovoi|Domovoï (Esprit de la maison)|libre|
 |[NikAalo85JWVE6d2.htm](pathfinder-bestiary-3/NikAalo85JWVE6d2.htm)|Nagaji Soldier|Soldat nagaji|libre|
 |[nIXWanjtyklfwH7u.htm](pathfinder-bestiary-3/nIXWanjtyklfwH7u.htm)|Tiddalik|Tiddalik|libre|
 |[NldgVUIHB3asozHm.htm](pathfinder-bestiary-3/NldgVUIHB3asozHm.htm)|Wyrmwraith|Spectre de dragon|libre|
@@ -236,7 +236,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[pFUv7BzSjYTOo5mO.htm](pathfinder-bestiary-3/pFUv7BzSjYTOo5mO.htm)|Monkey|Singe (primate)|libre|
 |[phOYPM1OVAKPg68l.htm](pathfinder-bestiary-3/phOYPM1OVAKPg68l.htm)|Omox|Omox (démon)|libre|
 |[PJCeh8sj9Sm5Eqz8.htm](pathfinder-bestiary-3/PJCeh8sj9Sm5Eqz8.htm)|Draxie|Draxie (Sprite)|libre|
-|[Pnw71fJ41j6Wx62M.htm](pathfinder-bestiary-3/Pnw71fJ41j6Wx62M.htm)|Harmona|Harmona|libre|
+|[Pnw71fJ41j6Wx62M.htm](pathfinder-bestiary-3/Pnw71fJ41j6Wx62M.htm)|Harmona|Harmona (Fey)|libre|
 |[PVstJNeHeWLU2XoK.htm](pathfinder-bestiary-3/PVstJNeHeWLU2XoK.htm)|Cecaelia Trapper|Trappeur cécaëlia|libre|
 |[Pvuvyd4RKVyiVWlJ.htm](pathfinder-bestiary-3/Pvuvyd4RKVyiVWlJ.htm)|Mezlan|Mézlan|libre|
 |[PX8tlo804y4I1C8S.htm](pathfinder-bestiary-3/PX8tlo804y4I1C8S.htm)|Tylosaurus|Tylosaure|libre|

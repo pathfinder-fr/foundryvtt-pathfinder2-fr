@@ -4292,6 +4292,11 @@
             "description": "<p>Ce bâton noueux est couvert d'épines et recouvert d'une laque scintillante qui agit comme un irritant mineur. Lorsque vous tenez le bâton, vous n’êtes pas affecté par son revêtement ou ses épines, et vous diminuez le DD de vos tests nus pour surmonter les dégâts de poison persistant de 15 à 5.</p>\n<hr />\n<p><strong>Activation</strong> @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort}</p>\n<p><strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.</p>\n<p><strong>Conditions de fabrication</strong> Fournissez une incantation de tous les sorts au niveau listés.</p>\n<hr />\n<ul>\n<li><strong>Niveau 4</strong> @Compendium [pf2e.spells-srd.LVwmAH5NGvTuuQSU]{Nuée de dards de guêpes}</li>\n<li><strong>Niveau 5</strong> @Compendium[pf2e.spells-srd.MlpbeZ61Euhl0d60]{Nuage mortel}</li>\n<li><strong>Niveau 6</strong> @Compendium[pf2e.spells-srd.ayRXv0wQH00TTNZe]{Dard du ver pourpre}</li>\n</ul>"
         },
         {
+            "id": "Poisoner's Staff (Major)",
+            "name": "Poisoner's Staff (Major)",
+            "description": "<p>Ce bâton noueux est couvert d'épines et recouvert d'une laque scintillante qui agit comme un irritant mineur. Lorsque vous tenez le bâton, vous n’êtes pas affecté par son revêtement ou ses épines, et vous diminuez le DD de vos tests nus pour surmonter les dégâts de poison persistant de 15 à 5.</p>\n<hr />\n<p><strong>Activation</strong> @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort}</p>\n<p><strong>Effet</strong> Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.</p>\n<p><strong>Conditions de fabrication</strong> Fournissez une incantation de tous les sorts au niveau listés.</p>\n<hr />\n<ul>\n<li><strong>Niveau 4</strong> @Compendium [pf2e.spells-srd.LVwmAH5NGvTuuQSU]{Nuée de dards de guêpes}</li>\n<li><strong>Niveau 5</strong> @Compendium[pf2e.spells-srd.MlpbeZ61Euhl0d60]{Nuage mortel}</li>\n<li><strong>Niveau 6</strong> @Compendium[pf2e.spells-srd.ayRXv0wQH00TTNZe]{Dard du ver pourpre}</li>\n</ul>"
+        },
+        {
             "id": "Exquisite Sword Cane Sheath",
             "name": "Exquisite Sword Cane Sheath",
             "description": "<p>Une canne épée raffinée est une épée dont la lame se range à l'intérieur d'une canne évidée, ce qui permet à cette dernière d'être utilisée comme une trique avec ou sans l'épée rangée à l'intérieur.</p>"
@@ -7367,6 +7372,11 @@
             "description": "<p>Une potion de guérison se présente sous forme de liquide rouge rubis contenu dans une fiole. Elle provoque de légers picotements tandis que les plaies du buveur se referment rapidement. Lorsque vous buvez une potion de guérison, vous récupérez [[/r 8d8+30]] points de vie. </p>"
         },
         {
+            "id": "Tengu Feather Fan",
+            "name": "Tengu Feather Fan",
+            "description": "<p>Vous avez appris à lier certaines de vos plumes ensemble pour former un éventail pour concentrer votre magie ancestrale. Vous obtenez alors un <em>éventail à plume Tengu</em> : un objet magique d'Encombrement léger avec un niveau égal au votre et les traits évocation et primordial. Vous (et seulement vous) pouvez utiliser l'éventail à plume Tengu pour Lancer la magie Tengu. Si votre éventail est perdu ou détruit, vous pouvez créer un remplaçant au cours de vos préparatifs quotidiens ; si vous le faites, votre précédent éventail redevient fait de plumes banales.</p>\n<p>D'autres dons vous accordent des activations supplémentaires de votre éventail à plume Tengu, mais vous n'avez droit qu'à trois activations maximum par jour, peu importe combien de dons vous possédez.</p>\n<p>Le DD des sorts que vous lancez avec votre éventail à plume Tengu est le plus élevé entre votre DD de classe ou votre DD de sort.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.g8QqHpv2CWDwmIm1]{Bourrasque de vent} au niveau 1 en activant votre éventail à plume Tengu.</p>\n<hr />\n<p><strong>Activation</strong> Interaction ;</p>\n<p><strong>Fréquence</strong> une fois par jour ;</p>\n<p><strong>Effet</strong> Vous lancez un des sorts contenu dans votre <em>éventail de plume Tengu</em>. Activer l'éventail prend le nombre d'actions du sort normal. Vous pouvez aussi Activer l'éventail pour lancer un tour de magie que vous avez obtenu par un don d'héritage ou ancestral ; cette activation ne compte pas dans les activations quotidiennes de l'éventail.</p>"
+        },
+        {
             "id": "Thieves' Tools (Concealable Picks)",
             "name": "Thieves' Tools (Concealable Picks)",
             "description": "<p>Ce sont des pics de remplacement pour @Compendium[pf2e.equipment-srd.Ejmv9IHGp9Ad9dgu]{Outils de voleur (furtif)}.</p>"
@@ -7437,6 +7447,11 @@
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p>Pendant 1 minute après avoir bu une potion de Riposte Enflammée, vous rayonnez d'une faible aura d'énergie de feu, et une créature qui vous touche (par exemple en effectuant une attaque à mains nues ou en utilisant un sort de contact) ou qui est adjacente à vous et vous frappe avec une arme de mêlée subit des dégâts de feu.</p>\nL'aura inflige 3d6 points de dégâts de feu.</p>"
         },
         {
+            "id": "Mask of Mercy",
+            "name": "Mask of Mercy",
+            "description": "<p>Ce masque en porcelaine ou en albâtre représente un visage angélique de bonté et de miséricorde.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">F</span> imaginer (chance);</p>\n<p><strong>Fréquence</strong> une fois par jour ;</p>\n<p><strong>Déclencheur</strong> Vous allez lancer un nombre variable de Points de vie que vous allez récupérer pour une action avec le trait soins ;</p>\n<p><strong>Effet</strong> Lancez deux fois pour déterminer le nombre de points de vie que vous récupérez et prenez le résultat le plus élevé.</p>"
+        },
+        {
             "id": "Reforging Shield",
             "name": "Reforging Shield",
             "description": "<p>Le magma qui compose le cœur ardent de ce bouclier en acier ne refroidit jamais. Dès que les points de vie du bouclier réparateur sont inférieurs à son Seuil de rupture, le bouclier regagne 5 PV chaque round au début du tour de son porteur jusqu’à ce qu’il ne soit plus brisé. Chaque fois qu’un personnage Répare le bouclier, celui-ci récupère le double de PV. Le bouclier a une Solidité de 15, 120 PV et un SR de 60.</p>"
@@ -7455,6 +7470,11 @@
             "id": "Necklace of Fireballs II",
             "name": "Necklace of Fireballs II",
             "description": "<p>Ce collier de perles se compose d’une ficelle de chanvre sur laquelle sont enfilées des perles chatoyantes rouges. Quand il est activé, il ap‑ paraît brièvement sous sa véritable forme : une chaîne d’or ornée de sphères d’or attachées avec du fil fin.</p>\n<p>Il existe toute une variété de colliers à boules de feu. Chacun a un DD du jet de Réflexes basique différent et se compose d’une combinaison de sphères qui infligent un montant de dégâts différent, comme indiqué pour chaque type de collier ci‑après. Quand toutes les perles ont été utilisées, le collier n’est plus qu’un morceau de ficelle en chanvre non magique.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>  \n<p><strong>Effet</strong>  Vous détachez une sphère du collier et celle‑ci commence à émettre une lueur orangée. Après avoir activé une sphère, si vous ou quelqu’un d’autre la lance (une action Interagir avec le trait à distance), elle explose comme une boule de feu là où elle retombe. Votre lancer peut placer le centre de la boule de feu où vous le souhaitez à 21 mètres ou moins de vous, mais le MJ peut vous demander de faire un jet d’attaque si le lancer est particulièrement difficile. Si personne ne lance la sphère avant le début de votre prochain tour, celle‑ci devient une perle rouge non magique.</p>\n<p>Une à 8d6, une à 6d6, deux à 4d6 (DD 25)</p>"
+        },
+        {
+            "id": "Sylvan Wineskin",
+            "name": "Sylvan Wineskin",
+            "description": "<p>Une outre de vin de satyre enchante magiquement tout alcool à l'intérieur.</p>\n<p>Par une action Interagir, une créature vivante peut ingérer l'alcool et obtenir un bonus d'objet de +1 aux jets de Volonté et un bonus de +3 aux jets de Volonté contre les effets de peur pendant l'heure suivante. Lorsque l'outre de vin est retirée de la personne du satyre, la magie ne dure que jusqu'à ce que le vin soit gâché. L'outre de vin contient jusqu'à huit gorgées de vin.</p>\n<p>@Compendium[pf2e.equipment-effects.ImgHXPEbN1mPyNTu]{Effet: Vin sylvestre}</p>"
         },
         {
             "id": "Serum of Sex Shift",

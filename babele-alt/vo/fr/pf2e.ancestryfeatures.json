@@ -209,7 +209,7 @@
         {
             "id": "Earthly Wilds Kitsune",
             "name": "Earthly Wilds Kitsune",
-            "description": "<p>Vous être une créature du monde matériel, avec une affinité plus proches des étendues sauvages que celle de la société urbaine. Vous obtenez une attaque de mâchoires à mains nues qui inflige [[/r 1d6 #perforants]] dégâts perforants. Vos mâchoires sont dans le groupe pugilat et possèdent le trait finesse et à mains nues. Votre forme alternative est celle d'un renard, qui possède les statistique d'un sort de @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible} de niveau 1.</p>"
+            "description": "<p>Vous être une créature du monde matériel, avec une affinité plus proches des étendues sauvages que celle de la société urbaine. Vous obtenez une attaque de mâchoires à mains nues qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}. Vos mâchoires sont dans le groupe pugilat et possèdent le trait finesse et à mains nues. Votre forme alternative est celle d'un renard, qui possède les statistiques d'un sort de @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible} de niveau 1.</p>"
         },
         {
             "id": "Versatile Heritage",
@@ -384,7 +384,7 @@
         {
             "id": "Spined Azarketi",
             "name": "Spined Azarketi",
-            "description": "<p>Vos nageoires masquent des épines toxiques que vous pouvez jeter. Vous avez une attaque à mains nues à distance d'épine avec le trait à mains nues qui inflige [[/r 1d4 #poison]] dégâts de poison, possède un facteur de portée de 3 m et est dans le groupe d'armes des fléchettes.</p>"
+            "description": "<p>Vos nageoires masquent des épines toxiques que vous pouvez jeter. Vous avez une attaque à mains nues à distance d'épine avec le trait à mains nues qui inflige [[/r 1d4 #poison]]{1d4 dégâts de poison}, possède un facteur de portée de 3 m et est dans le groupe d'armes des fléchettes.</p>"
         },
         {
             "id": "Arctic Elf",
@@ -459,7 +459,7 @@
         {
             "id": "Fangs",
             "name": "Fangs",
-            "description": "<p>Vous êtes né avec un moyen naturel de chasser et pour vous défendre. Vous obtenez une attaque de crocs à mains nues qui infligen [[/r 1d6 #perforantts]] dégâts perforants. Vos crocs sont dans le groupe pugilat et possèdent le trait finesse et à mains nues.</p>"
+            "description": "<p>Vous êtes né avec un moyen naturel de chasser et pour vous défendre. Vous obtenez une attaque de crocs à mains nues qui infligent [[/r 1d6 #perforantts]]{1d6 dégâts perforants}. Vos crocs sont dans le groupe pugilat et possèdent le trait finesse et à mains nues.</p>"
         },
         {
             "id": "Celestial Envoy Kitsune",
@@ -479,7 +479,7 @@
         {
             "id": "Predator Strix",
             "name": "Predator Strix",
-            "description": "<p>Vous provenez d'une lignée de strix avec d'exceptionnelement larges ailes et de longs ergots. Vous obtenez une attaque à mains nues d'ergots qui inflige [[/r 1d4 #tranchants]] dégâts tranchants. Vos attaques d'ergots sont dans le groupe pugilat et ont les traits agile, finesseet à mains nues.</p>"
+            "description": "<p>Vous provenez d'une lignée de strix avec des ailes exceptionnellement grandes et de longs ergots. Vous obtenez une attaque à mains nues d'ergots qui inflige [[/r 1d4 #tranchants]]{1d4 dégâts tranchants}. Vos attaques d'ergots sont dans le groupe pugilat et ont les traits agile, finesse et à mains nues.</p>"
         },
         {
             "id": "Plant Nourishment",
@@ -574,7 +574,7 @@
         {
             "id": "Cactus Leshy",
             "name": "Cactus Leshy",
-            "description": "<p>Des épines couvrent votre corps. Vous obtenez une attaque à mains nues d'épine qui inflige [[/r 1d6 #perforants]] dégâts perforants. Vos épines sont dans le groupe pugilat et ont les traits finesse et à mains nues.</p>"
+            "description": "<p>Des épines couvrent votre corps. Vous obtenez une attaque à mains nues d'épine qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}. Vos épines sont dans le groupe pugilat et ont les traits finesse et à mains nues.</p>"
         },
         {
             "id": "Lorekeeper Shisk",
@@ -894,7 +894,7 @@
         {
             "id": "Taloned Tengu",
             "name": "Taloned Tengu",
-            "description": "<p>Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque à mains nues d'ergot qui inflige [[/r 1d4 #trnachants]]> dégâts tranchants. Vos ergots font partie du groupe pugilat et possèdent les traits agile, finesse, à mains nues et polyvalent perforant.</p>"
+            "description": "<p>Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque à mains nues d'ergot qui inflige [[/r 1d4 #tranchants]]{1d4 dégâts tranchants}. Vos ergots font partie du groupe pugilat et possèdent les traits agile, finesse, à mains nues et polyvalent perforant.</p>"
         },
         {
             "id": "Observant Halfling",
@@ -959,7 +959,7 @@
         {
             "id": "Vicious Goloma",
             "name": "Vicious Goloma",
-            "description": "<p>La chitine sur vos mains forme des griffes puissantes qui vous permettent de vous défendre. Vous gagnez une attaque à mains nues de griffe qui inflige [[/r 1d6 #tranchants]] dégâts tranchants. Vos griffes font partie du groupe pugilat et possèdent les traits agile, finesse et à mains nues.</p>"
+            "description": "<p>La chitine sur vos mains forme des griffes puissantes qui vous permettent de vous défendre. Vous gagnez une attaque à mains nues de griffe qui inflige [[/r 1d6 #tranchants]]{1d6 dégâts tranchants}. Vos griffes font partie du groupe pugilat et possèdent les traits agile, finesse et à mains nues.</p>"
         },
         {
             "id": "Death Warden Dwarf",
