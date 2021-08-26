@@ -866,6 +866,19 @@
             ]
         },
         {
+            "id": "First Revelation (Tempest Mystery)",
+            "name": "Première révélation (Mystère de la tempête) (First Revelation (Tempest Mystery))",
+            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère : @Compendium[pf2e.spells-srd.EzB9i7R6aBRAtJCh]{Toucher tempêtueux}. Lancer se sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contenant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>\n<h4>Malédiction mineure de la tempête</h4>\n<p>Une aura de tempête tourbillonnante se déclenche dans une émanation de 1,5 m autour de vous et dans votre espace. Cette aura éteint les feux non magiques 1 round après qu’ils aient été allumés ou amenés au sein de l’aura. De l’énergie électrique s’accumule au sein de votre tempête, vous transformant en une sorte de paratonnerre. Vous gagnez une vulnérabilité de 2 à l’électricité et les sorts et effets d’électricité qui possèdent des effets supplémentaires dans le cas d’une créature portant ou tenant des objets métalliques agissent sur vous comme si vous portiez une armure métallique.</p>\n<p>@Compendium[pf2e.feature-effects.IvXLHQySVNj4qMOi]{Effet: Malédiction mineure de la tempête}</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'Oracle"
+                },
+                {
+                    "value": "Mystère de la tempête"
+                }
+            ]
+        },
+        {
             "id": "Occult Resistance",
             "name": "Résistance occulte (Occult Resistance)",
             "description": "<p>Votre étude des pratiques occultes vous a montré comment mieux vous défendre contre elles.</p>\n<p>Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets occultes.</p>",
@@ -1259,6 +1272,11 @@
                     "value": "Aéromancien Rivain ou capacité à Lancer le sort Vol"
                 }
             ]
+        },
+        {
+            "id": "Animal Swiftness (Land)",
+            "name": "Rapidité animale (Sol) (Animal Swiftness (Land))",
+            "description": "<p>Votre Vitesse augmente de 1,5 m. De plus, lorsque votre animal intérieur ne dispose d'aucun autre mode de déplacement et que vous êtes sous votre forme hybride, votre Vitesse augmente de 3 m au lieu de vous conférer un nouveau mode de déplacement.</p>"
         },
         {
             "id": "Archaeologist's Luck",
@@ -1840,6 +1858,11 @@
             "id": "Raging Intimidation",
             "name": "Intimidation enragée (Raging Intimidation)",
             "description": "<p>Votre fureur emplit vos ennemis de terreur.</p>\n<p>Quand vous êtes enragé, vos actions Démoraliser et Mort de peur (respectivement une action d’Intimidation et un don de compétence d’Intimidation) gagnent le trait rage et vous pouvez donc les utiliser même si vous êtes enragé.</p>\n<p>Vous gagnez les dons de compétence @Compendium[pf2e.feats-srd.xQMz6eDgX75WX2ce]{Regard Intimidant} et @Compendium[pf2e.feats-srd.mZttsiWl1ql5NvrH]{Mort de peur} dès que vous obtenez les prérequis nécessaires.</p>"
+        },
+        {
+            "id": "Living Weapon (Jaws)",
+            "name": "Arme vivante (mâchoires) (Living Weapon (Jaws))",
+            "description": "<p>Vous avez appris à utiliser les mâchoires de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de mâchoires qui infligent [[/r 1d6 #perforants]]{1d6 dégâts perforants} (Polyvalent T).</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat. Cette capacité est modifiable ; vous pouvez choisir ce don à chaque niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une nouvelle attaque parmi les options ci-dessus.</p>"
         },
         {
             "id": "Slither",
@@ -2486,8 +2509,8 @@
         },
         {
             "id": "Foxfire (Fire)",
-            "name": "Feu de renard (Foxfire (Fire))",
-            "description": "<p>Une mêche de la fourrure de votre queue brille d'une énergie bleue. Choisissez l'électricité ou le feu lorsque vous obtenez ce don. Vous obtenez une attaque à distance à mains nues de feu de renard avec une portée maximale de 6 m. L'attaque inflige [[/r 1d4]] dégâts du type choisi (aucun modificateur de caractéristique n'est ajouté au jet de dégâts). Votre attaque de feu de renard est dans le groupe d'arme des frondes. Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>\n<hr />\n<p><strong>Spécial</strong> Si vous êtes un kitsune du vent glacé, votre feu de renard inflige des dégâts de froid au lieu d'électricité ou de feu.</p>"
+            "name": "Feu de renard (feu) (Foxfire (Fire))",
+            "description": "<p>Une mêche de la fourrure de votre queue brille d'une énergie bleue. Vous obtenez une attaque à distance à mains nues de feu de renard avec une portée maximale de 6 m. L'attaque inflige [[/r 1d4 #feu]]{1d4 dégâts de feu} (aucun modificateur de caractéristique n'est ajouté au jet de dégâts). Votre attaque de feu de renard est dans le groupe d'arme des frondes.</p>\n<p>Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
         },
         {
             "id": "Reveal Beasts",
@@ -3868,8 +3891,8 @@
         },
         {
             "id": "Sprite's Spark (Draxie)",
-            "name": "Étincellle du sprite (Sprite's Spark (Draxie))",
-            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m qui inflige [[/r 1d4]] dégâts. (Aucun modificateur de caractéristique n'est ajouté aux dégâts.) Le type de dégâts et le nom de l'attaque à mains nues dépend de votre héritage, comme indiqué ci dessous ; la plupart des héritages de sprite non présentés utilisent aussi étincelle lumineuse. Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>\n<ul>\n<li><strong>Draxie</strong> étincelle euphorique (mental)</li>\n<li><strong>Sprite luciole</strong> étincelle lumineuse (feu)</li>\n<li><strong>Grig</strong> note dissonnante (son)</li>\n<li><strong>Mélixie</strong> tir du dard (poison)</li>\n<li><strong>Nyctère</strong> impulsion ultrasonique (son)</li>\n<li><strong>Pixie</strong> poussière pixie (mental)</li>\n</ul>"
+            "name": "Étincellle du sprite (Draxie) (Sprite's Spark (Draxie))",
+            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque d'étincelle euphorique qui inflige [[/r 1d4 #mentaux]]{1d4 dégâts mentaux}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts.) Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
         },
         {
             "id": "Hydraulic Deflection",
@@ -3985,10 +4008,20 @@
         {
             "id": "First Revelation",
             "name": "Première révélation (First Revelation)",
-            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère. Lancer se sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contentant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>",
+            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère. Lancer se sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contenant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>",
             "prereq": [
                 {
                     "value": "Dévouement d'Oracle"
+                }
+            ]
+        },
+        {
+            "id": "Warding Rune (Necromancy)",
+            "name": "Rune de garde (Nécromancie) (Warding Rune (Necromancy))",
+            "description": "<p>Vos runes génèrent un effet protecteur contre une école de magie spécifique. Vous obtenez une rune sur votre corps correspondant à l'école de nécromancie et vous gagnez un bonus de circonstances de +2 à tous les jets de sauvegarde contre les effets de cette école.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de scarifié des runes"
                 }
             ]
         },
@@ -4198,7 +4231,7 @@
         {
             "id": "Animal Swiftness",
             "name": "Rapidité animale (Animal Swiftness)",
-            "description": "<p>Vous vous déplacez comme un animal.</p>\n<p>Votre Vitesse augmente de 1,5 m. En plus, vous obtenez une des vitesses accessibles à votre animal intérieur dans la liste suivante : escalade, vol ou natation. Vous obtenez cette Vitesse seulement lorsque vous êtes sous votre forme hybride. Le nouveau mode de déplacement est aussi rapide que votre Vitesse normale ; par exemple, si vous avez une vitesse de 9 m, vous pouvez obtenir une vitesse d'escalade de 9 m. Si votre animal intérieur de possède pas ordinairement une Vitesse de ce type, Vous ne pouvez l'obtenir avec ce don.</p>\n<p>Si votre animal intérieur ne possède pas typiquement une vitesse d'escalade, de vol ou de natation, votre Vitesse augmente de 3 m à la place.</p>"
+            "description": "<p>Vous vous déplacez comme un animal.</p>\n<p>Votre Vitesse augmente de 1,5 m.</p>\n<p>De plus, vous obtenez une des vitesses liées à un mode de déplacement accessible à votre animal intérieur dans la liste suivante : escalade, vol ou natation. Vous obtenez cette Vitesse seulement lorsque vous êtes sous votre forme hybride. Le nouveau mode de déplacement est aussi rapide que votre Vitesse normale ; par exemple, si vous avez une vitesse de 9 m, vous pouvez obtenir une vitesse d'escalade de 9 m. Si votre animal intérieur ne dispose pas ordinairement d'une Vitesse dans un mode de déplacement, Vous ne pouvez l'obtenir avec ce don. Si votre animal intérieur ne possède pas de vitesse d'escalade, de vol ou de natation, votre Vitesse au sol augmente de 3 m à la place.</p>"
         },
         {
             "id": "Group Aid",
@@ -4362,6 +4395,11 @@
                     "value": "Dévouement d'Agitateur vantard"
                 }
             ]
+        },
+        {
+            "id": "Sprite's Spark (Firefly Sprite)",
+            "name": "Étincelle du sprite (Sprite luciole) (Sprite's Spark (Firefly Sprite))",
+            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque d'étincelle lumineuse qui inflige [[/r 1d4 #feu]]{1d4 dégâts de feu}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts.) La plupart des héritages de sprites qui n'ont pas une forme d'attaque dédiée utilisent aussi l'attaque d'étincelle lumineuse. Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
         },
         {
             "id": "Subtle Theft",
@@ -4725,6 +4763,16 @@
             "id": "Fumesoul",
             "name": "Âme vaporeuse (Fumesoul)",
             "description": "<p>L'air qui vous compose s'affirme lui-même comme un miasme toxique, vous rendant endurant à la plupart des poisons. Vous obtenez une résistance aux poisons égale à la moitié de votre niveau (minimum 1).</p>"
+        },
+        {
+            "id": "Greater Animal Senses (Precise Tremorsense)",
+            "name": "Sens animaux supérieurs (perception des vibrations précise) (Greater Animal Senses (Precise Tremorsense))",
+            "description": "<p>Vos sens progressent pour correspondre à ceux de votre aspect animal. Vous obtenez perception des vibrations précise 9 m. Si votre animal intérieur ne possède pas un type de sens spécifique, vous ne pouvez obtenir de sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plusieurs fois, soit en choisissant un sens différent soit pour améliorer un sens imprécis accordé par ce don pour en faire un sens précis.</p>",
+            "prereq": [
+                {
+                    "value": "Sens animaux supérieurs (perception des vibrations)"
+                }
+            ]
         },
         {
             "id": "Return Fire",
@@ -6966,6 +7014,11 @@
             ]
         },
         {
+            "id": "Animal Swiftness (Fly)",
+            "name": "Rapidité animale (Vol) (Animal Swiftness (Fly))",
+            "description": "<p>Vous vous déplacez comme un animal.</p>\n<p>Votre Vitesse augmente de 1,5 m. De plus, vous obtenez une vitesse de vol  à condition que ce mode de déplacement soit accessible à votre animal intérieur. Vous obtenez cette Vitesse seulement lorsque vous êtes sous votre forme hybride. Ce nouveau mode de déplacement est aussi rapide que votre Vitesse normale ; par exemple, si vous avez une vitesse de 9 m, vous obtenez une vitesse de vol de 9 m. Si votre animal intérieur ne dispose pas de ce mode de déplacement, Vous ne pouvez l'obtenir avec ce don.</p>\n<hr />\n<p><em>Note: Ce don accorde une vitesse de vol permanente, au lieu d'une vitesse de natation qui n'est active que sous votre forme hybride. Ignorez là lorsque vous n'êtes pas sous votre forme hybride.</em></p>"
+        },
+        {
             "id": "Dream May",
             "name": "Vierge onirique (Dream May)",
             "description": "<p>Vous êtes l'enfant d'une guenaude de la nuit, de sorte qu'un de vos yeux est violet ou même noir. Les pouvoirs de votre mère sur le sommeil et les rêves vous ont accordé un niveau de résistance à ces effets, vous faisant bénéficier d'un bonus de circonstances de +2 à tous les jets de sauvegarde contre les effets de sommeil et les effets qui provoquent ou altèrent les rêves.</p>\n<p>De plus, le sommeil vous permet de mieux récupérer. Vous regagnez des PV égaux à votre modificateur de Constitution multiplié par le double de votre niveau au lieu de simplement votre niveau et vous réduisez les conditions @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} et @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} par 2 au lieu de 1.</p>"
@@ -7347,6 +7400,16 @@
             "description": "<p><strong>Déclencheur</strong> Vous êtes sur le point de faire un test de Perception ou de Survie pour déterminer votre initiative.</p>\n<hr />\n<p>Vous avertissez vos alliés, visuellement ou verbalement, d’un danger et conférez à chacun un bonus de circonstances de +1 à leur jet d’initiative. En fonction de la manière dont vous avez averti vos alliés (des gestes ou la voix), cette action possède le trait visuel ou audible.</p>\n<p>@Compendium[pf2e.feat-effects.RxDDXK52lwyHXl7v]{Effet: Avertissement de l'éclaireur}</p>"
         },
         {
+            "id": "Warding Rune (Abjuration)",
+            "name": "Rune de garde (Abjuration) (Warding Rune (Abjuration))",
+            "description": "<p>Vos runes génèrent un effet protecteur contre une école de magie spécifique. Vous obtenez une rune sur votre corps correspondant à l'école d'abjuration et vous gagnez un bonus de circonstances de +2 à tous les jets de sauvegarde contre les effets de cette école.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de scarifié des runes"
+                }
+            ]
+        },
+        {
             "id": "Nonlethal Spell",
             "name": "Sort non létal (Nonlethal Spell)",
             "description": "<p>Vous pouvez altérer les sorts offensifs pour qu'ils soient moins mortels.</p>\n<p>Si votre prochaine action consiste à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} qui inflige des dégâts et ne possède par le trait négatif ou mort, ce sort obtient le trait non létal.</p>"
@@ -7656,6 +7719,16 @@
             "id": "Lunge",
             "name": "Fente (Lunge)",
             "description": "<p><strong>Conditions</strong> Vous maniez une arme de corps à corps.</p>\n<hr />\n<p>En étendant au maximum votre corps, vous pouvez attaquer un ennemi qui se trouve hors de votre allonge. Effectuez une Frappe avec une arme de corps à corps, en augmentant votre allonge de 1,50 m pour cette Frappe. Si l’arme a le trait désarmer, pousser ou croc‑en‑jambe, vous pouvez utiliser l’action correspondante au lieu de Frapper.</p>"
+        },
+        {
+            "id": "Sprite's Spark (Nyktera)",
+            "name": "Étincellle du sprite (Nyctère) (Sprite's Spark (Nyktera))",
+            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque d'impulsion ultrasonique qui inflige [[/r 1d4 #son]]{1d4 dégâts de son}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts). Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
+        },
+        {
+            "id": "Greater Animal Senses (Tremorsense)",
+            "name": "Sens animaux supérieurs (Perception des vibrations) (Greater Animal Senses (Tremorsense))",
+            "description": "<p>Vos sens progressent pour correspondre à ceux de votre aspect animal. Vous obtenez perception des vibrations imprécise 9 m. Si votre animal intérieur ne possède pas un type de sens spécifique, vous ne pouvez obtenir de sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plusieurs fois, soit en choisissant un sens différent soit pour améliorer un sens imprécis accordé par ce don pour en faire un sens précis.</p>"
         },
         {
             "id": "Bardic Lore",
@@ -8415,7 +8488,7 @@
         {
             "id": "Surprise Attack",
             "name": "Attaque surprise (Surprise Attack)",
-            "description": "<p>Vous agissez aveant que vos adversaires ne réagissent.</p>\n<p>Lors du premier round de combat, si vous lancez Duperie ou Discrétion pour calculer l'initiative, les créatures qui n'ont pas encore agi sont vis-à-vis de vous @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prises au dépourvu}.</p>",
+            "description": "<p>Vous agissez avant que vos adversaires ne réagissent.</p>\n<p>Lors du premier round de combat, si vous lancez Duperie ou Discrétion pour calculer l'initiative, les créatures qui n'ont pas encore agi sont vis-à-vis de vous @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prises au dépourvu}.</p>",
             "prereq": [
                 {
                     "value": "Dévouement de l'assassin"
@@ -8689,16 +8762,6 @@
             ]
         },
         {
-            "id": "Fane's Escape",
-            "name": "Évasion du joueur (Fane's Escape)",
-            "description": "<p><strong>Conditions</strong> vous avez un paquet de cartes à jouer en votre possession.</p>\n<hr />\n<p>Une bonne évasion nécessite une bonne distraction. Vous Interagissez pour tirer un paquet de cartes et vous le lancez en l'air en une explosion papillonnante, vous rendant brièvement @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} de toutes les autres créatures utilisant leur vision comme sens précis, puis vous êtes Furtif. Vous êtes suffisamment Masqué pour être Furtif jusqu'à la fin de votre tour. Cela laisse toutes les cartes du paquet éparpillées dans la pièce ; les rassembler de nouveau prend plusieurs minutes.</p>",
-            "prereq": [
-                {
-                    "value": "expert en Discrétion"
-                }
-            ]
-        },
-        {
             "id": "Skill Mastery (Investigator)",
             "name": "Maîtrise des compétences (Enquêteur) (Skill Mastery (Investigator))",
             "description": "<p>Augmentez le rang de maîtrise de l’une de vos compétences d’expert à maître et le rang d'une autre de vos compétences de qualifié à expert. Vous gagnez un don de compétence associé à l’une des compétences que vous avez choisies.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don jusqu’à cinq fois.</p>",
@@ -8836,8 +8899,8 @@
         },
         {
             "id": "Warding Rune (Enchantment)",
-            "name": "Rune de garde (Warding Rune (Enchantment))",
-            "description": "<p>Vos runes génèrent un effet protecteur contre une école de magie spécifique.</p>\n<p>Choisissezune autre école que celle de la divination. Une rune correspondant à cette école se dessine sur votre corps et vous gagnez un bonus de circonstances de +2 à tous les jets de sauvegarde contre les effets de cette école.</p>",
+            "name": "Rune de garde (Enchantement) (Warding Rune (Enchantment))",
+            "description": "<p>Vos runes génèrent un effet protecteur contre une école de magie spécifique. Vous obtenez une rune sur votre corps correspondant à l'école de conjuration et vous gagnez un bonus de circonstances de +2 à tous les jets de sauvegarde contre les effets de cette école.</p>",
             "prereq": [
                 {
                     "value": "Dévouement de scarifié des runes"
@@ -10002,6 +10065,19 @@
             ]
         },
         {
+            "id": "First Revelation (Bones Mystery)",
+            "name": "Première révélation (Mystère des ossements) (First Revelation (Bones Mystery))",
+            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère : @Compendium[pf2e.spells-srd.D6T17BdazhNy3KPm]{Siphon d'âme}. Lancer se sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contenant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>\n<h4>Malédiction mineure des ossements</h4> \n<p>Des os sortent de votre corps et votre chair se met à pourrir, le tout combiné avec une odeur nauséabonde de pourriture et un froid surnaturel. Les effets non magiques qui devraient vous rendre des Points de Vie ne vous donnent que la moitié de la quantité normale.</p>\n<p>@Compendium[pf2e.feature-effects.whf92aQ6aMwByjFn]{Effet: Malédiction mineure des ossements}</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'oracle"
+                },
+                {
+                    "value": "Mystère des ossements"
+                }
+            ]
+        },
+        {
             "id": "Specialized Mount",
             "name": "Monture spécialisée (Specialized Mount)",
             "description": "<p>Vous avez entraîné votre monture à se produire dans des circonstances inhabituelles voire extrêmes, lui accordant des capacités bien au-dela de celles de son espèce. Votre monture obtient un don de spécialisation de votre choix.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don jusqu'à trois fois. Chaque fois, ajoutez une spécialisation différente à votre monture. Votre monture ne peut avoir plus de trois spécialisations.</p>",
@@ -10318,6 +10394,11 @@
             "description": "<p>Lorsque vous Changez de forme, vous conservez certains éléments de votre forme kitsune, vous permettant de parler sous la forme d'un renard, d'utiliser les attaques à mains nues kitsune dans une forme sans queue ou de gagner une queue sous votre forme sans queue pour pouvoir utiliser des capacités qui en imposent une.</p>\n<p>Vous pouvez changer de forme pour altérer les détails de votre forme hybride sans vous transformer en votre forme réelle ou en une forme alternative. Tant que vous êtes sous forme hybride, vos traits vulpins rendent évidents que vous n'êtes pas un humanoïde normal.</p>"
         },
         {
+            "id": "Foxfire (Electricity)",
+            "name": "Feu de renard (électricité) (Foxfire (Electricity))",
+            "description": "<p>Une mêche de la fourrure de votre queue brille d'une énergie bleue. Vous obtenez une attaque à distance à mains nues de feu de renard avec une portée maximale de 6 m. L'attaque inflige [[/r 1d4 #électricité]]{1d4 dégâts d'électricité} (aucun modificateur de caractéristique n'est ajouté au jet de dégâts). Votre attaque de feu de renard est dans le groupe d'arme des frondes.</p>\n<p>Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
+        },
+        {
             "id": "Swift River",
             "name": "Libre comme l’eau (Swift River)",
             "description": "<p><strong>Déclencheur.</strong> Votre tour se termine et vous subissez un malus de statut à votre Vitesse ou vous êtes immobilisé ou ralenti.</p>\n<hr />\n<p>Vous êtes libre comme l’eau et évitez toutes contraintes. Éliminez un malus de statut à votre Vitesse ou un état immobilisé ou ralenti qui vous affecte.</p>"
@@ -10354,6 +10435,16 @@
             "prereq": [
                 {
                     "value": "Attaque d'opportunité"
+                }
+            ]
+        },
+        {
+            "id": "Warding Rune (Conjuration)",
+            "name": "Rune de garde (Conjuration) (Warding Rune (Conjuration))",
+            "description": "<p>Vos runes génèrent un effet protecteur contre une école de magie spécifique. Vous obtenez une rune sur votre corps correspondant à l'école de conjuration et vous gagnez un bonus de circonstances de +2 à tous les jets de sauvegarde contre les effets de cette école.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de scarifié des runes"
                 }
             ]
         },
@@ -11074,6 +11165,11 @@
             ]
         },
         {
+            "id": "Sprite's Spark (Melixie)",
+            "name": "Étincellle du sprite (Mélixie) (Sprite's Spark (Melixie))",
+            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque de tir du dard qui inflige [[/r 1d4 #poison]]{1d4 dégâts de poison}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts). Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
+        },
+        {
             "id": "Malicious Bane",
             "name": "Imprécation malicieuse (Malicious Bane)",
             "description": "<p>Que votre cœur soit pur ou corrompu, vous placez une malédiction sur vos ennemis.</p>\n<p>Vous pouvez Lancer @Compendium[pf2e.spells-srd.7ZinJNzxq0XF0oMx]{Imprécation} une fois par jour comme un sort inné divin de niveau 1.</p>"
@@ -11451,6 +11547,16 @@
             ]
         },
         {
+            "id": "Invoke The Elements (Snow May)",
+            "name": "Invoquer les éléments (vierge de neige) (Invoke The Elements (Snow May))",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous invoquez une aura de bourrasque neigeuse.</p>\n<p>Pendant 1 minute, vous devenez @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} contre les créatures qui sont à plus de 1,5 m de vous et toute créature qui termine son tour dans les 1,5 m de vous subit [[/r 1d12 #froid]]{1d12 dégâts de froid} (jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe ou votre DD de sort). Aux niveaux [[/r 2d12 #froid]]{13} et [[/r 3d12 #froid]]{17}, ces dégâts augmentent de 1d12.</p>",
+            "prereq": [
+                {
+                    "value": "Vierge de neige"
+                }
+            ]
+        },
+        {
             "id": "Master Alchemy",
             "name": "Alchimie maître (Master Alchemy)",
             "description": "<p>Votre niveau d’alchimie avancée passe à 7. Pour chaque niveau obtenu au-delà du niveau 12, votre niveau d’alchimie avancée augmente de 1.</p>",
@@ -11575,6 +11681,19 @@
             "id": "Iruxi Spirit Strike",
             "name": "Frappe spirituelle Iruxie (Iruxi Spirit Strike)",
             "description": "<p>Vos attaques à mains nues Iruxie canalisent l'énergie spirituelle de vos ancêtres.</p>\n<p>Toute les attaques à mains nues que vous obtenez de votre héritage ou de dons ancestraux iruxis possèdent les effets de la rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{Spectrale}.</p>"
+        },
+        {
+            "id": "First Revelation (Ancestors Mystery)",
+            "name": "Première révélation (Mystère des ancètres) (First Revelation (Ancestors Mystery))",
+            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère : @Compendium[pf2e.spells-srd.d2pi7laQkzlr3wrS]{Toucher ancestral}. Lancer se sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contenant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>\n<h3>Malédiction de l'incursion ancestrale</h3>\n<p>Les esprits ancestraux avec lesquels vous êtes en contact vous hantent et se mêlent de vos possessions et de vos actions. Il s’agit peut-être d’une tentative de vous aider bien intentionnée (mais finalement préjudiciable) ou d’une punition pour avoir osé contourner les méthodes traditionnelles pour acquérir des pouvoirs divins ou simplement de leur manière de s’amuser voire d'une combinaison de ces possibilités. Vos cheveux, vos habits et vos possessions changent constamment de place, apparemment de leur propre volonté.</p>\n<h4>Malédiction mineure</h4>\n<p>Un de vos ancêtres devient prédominant dans leurs incursions. Chaque jour, la première fois que vous gagnez cet effet, lancez [[/r 1d4]] sur la table des influences ancestrales (voir ci-dessous) pour déterminer quel type d’ancêtre devient prédominant. Cet ancêtre prédominant vous incite à utiliser son type d’action préféré. Quand vous tentez d’utiliser l’un des types d’actions cités pour les autres ancêtres, vous devez réussir un test pur de DD 4. En cas d’échec, vous dépensez l’action mais n'en gagnez pas les effets (vous ne perdez toutefois pas le sort si vous Lanciez un sort). Si votre action prend normalement 1 minute ou plus, ce temps est suffisant pour que vous puissiez ignorer l’intrusion et vous n’avez pas besoin d’effectuer de test pur.</p>\n<p>Pendant le combat ou un autre moment tendu, les rencontres round par round, d’autres ancêtres tentent de prendre le contrôle de vos actions. Quand vous lancez l’initiative et à la fin de chacun de vos tours pendant cette rencontre, lancez 1d4 et changez d’ancêtre prédominant en fonction du résultat. Quand la rencontre se termine, vous revenez à l’influence du premier ancêtre que vous avez déterminé ce jour-là.</p>\n<hr />\n<h4>Incursion ancestrale</h4>\n<ol>\n<li>Ancètre martial : <strong>Action de prédilection</strong> Frappes</li>\n<li>Ancètre talentueux : <strong>Action de prédilection</strong> Perception et actions de compétence</li>\n<li>Ancètre incantateur : <strong>Action de prédilection</strong> Lancer un sort</li>\n<li>Vous choisissez quel ancêtre vous assiste</li>\n</ol>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'oracle"
+                },
+                {
+                    "value": "Mystère des ancètres"
+                }
+            ]
         },
         {
             "id": "Disorienting Venom",
@@ -12916,6 +13035,16 @@
             ]
         },
         {
+            "id": "Invoke The Elements (Veil May)",
+            "name": "Invoquer les éléments (Vierge voilée) (Invoke The Elements (Veil May))",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous invoquez une aura de chaleur châtoyante.</p>\n<p>Pendant 1 minute, vous devenez @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} contre les créatures qui sont à plus de 1,5 m de vous et toute créature qui termine son tour dans les 1,5 m de vous subit [[/r 1d12 #feu]]{1d12 dégâts de feu} (jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe ou votre DD de sort). Aux niveaux [[/r 2d12 #feu]]{13} et [[/r 3d12 #feu]]{17}, ces dégâts augmentent de 1d12.</p>",
+            "prereq": [
+                {
+                    "value": "Vierge voilée"
+                }
+            ]
+        },
+        {
             "id": "Spirit Strikes",
             "name": "Frappes spirituelles (Spirit Strikes)",
             "description": "<p>Votre lien avec le Cimetière vous permet d'apporter la mort à toutes les formes de vie et de non vie, en exploitant leurs faiblesses.</p>\n<p>Toutes vos Frappes avec des armes et des attaques à mains nues sont magiques et infligent <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"négatif\" data-formula=\"1\" title=\"négatif\"> 1</a> dégât négatif supplémentaire aux créatures vivantes et <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"positif\" data-formula=\"1\" title=\"positif\"><i class=\"fas fa-dice-d20\"></i>1</a> dégât positif supplémentaire aux morts-vivants.</p>"
@@ -13918,6 +14047,11 @@
             ]
         },
         {
+            "id": "Sprite's Spark (Pixie)",
+            "name": "Étincellle du sprite (Pixie) (Sprite's Spark (Pixie))",
+            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque de poussière pixie qui inflige [[/r 1d4 #mental]]{1d4 dégâts mentaux}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts). Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
+        },
+        {
             "id": "Invincible Mutagen",
             "name": "Mutagène invincible (Invincible Mutagen)",
             "description": "<p>Les substances fortifiantes que vous avez ajoutées à vos mutagènes rendent votre forme de juggernaut plus résistante. À chaque fois que vous êtes sous l’effet d’un mutagène de juggernaut, vous gagnez une résistance à tous les dégâts physiques égale à votre modificateur d’Intelligence (avec un minimum de 0).</p>"
@@ -14295,6 +14429,11 @@
             ]
         },
         {
+            "id": "Animal Senses (Darkvision)",
+            "name": "Sens animaux (Vision dans le noir) (Animal Senses (Darkvision))",
+            "description": "<p>Vous obtenez le sens suivant accessible à votre animal intérieur : @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} Vous devez avoir vision nocturne avant de pouvoir obtenir Vision dans le noir avec ce don. Si votre animal intérieur n'a pas un type spécifique de sens, vous ne pouvez pas obtenir ce sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don à plusieurs reprises, en choisissant un sens différent à chaque fois.</p>"
+        },
+        {
             "id": "Forensic Acumen",
             "name": "Perspicacité forensique (Forensic Acumen)",
             "description": "<p>Vous comprenez les principes de la médecine forensique, ce qui vous rend plus à même d’examiner un corps à la recherche des causes de la mort ou d’une blessure.</p>\n<p>Vous pouvez réaliser un examen forensique sur un corps, comme indiqué sous @Compendium[pf2e.actionspf2e.SeUolRoPzorFUAaI]{Se souvenir} de connaissances dans la compétence de Médecine en la moitié du temps normal (avec un minimum de 5 minutes). Si vous réussissez ce test, vous pouvez effectuer immédiatement un test de Se souvenir de connaissances pour Suivre une piste que vous venez de trouver et ce, avec un bonus de circonstances de +2.</p>\n<p>Ce test correspond généralement à la cause de la mort ou de la blessure, comme un test d’Artisanat pour identifier le poison ou l’arme utilisée ou un second test de Médecine pour identifier une maladie précise. Si vous préférez, au lieu de cela, vous pouvez tenter de Vous souvenir de connaissances au sujet du type de créature dont vous venez d’examiner le corps, en utilisant la compétence correspondante et en profitant du même bonus de circonstances.</p>\n<p>Le bonus de circonstances passe à +3 si vous êtes maître en Médecine et à +4 si vous êtes légendaire.</p>",
@@ -14366,6 +14505,19 @@
             "id": "Underwater Volcano",
             "name": "Volcan sous-marin (Underwater Volcano)",
             "description": "<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.O7ZEqWjwdKyo2CUv]{Éruption volcanique} comme un sort primordial inné de niveau 7 une fois par jour, sauf que vous ne pouvez invoquer le volcan que sur le fond d'une étendue d'eau et que les effets qui s'appliquent normalement aux créatures volantes s'appliquent aux créatures qui nagent à la place.</p>"
+        },
+        {
+            "id": "First Revelation (Battle Mystery)",
+            "name": "Première révélation (Mystère du combat) (First Revelation (Battle Mystery))",
+            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère : @Compendium[pf2e.spells-srd.dqaCLzINHBiKjh4J]{Appel aux armes}. Lancer se sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contenant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>\n<h4>Malédiction mineure du combat</h4>\n<p>Votre corps est en manque quand vous n’infligez pas des douleurs à vos ennemis. Vous subissez un malus de statut de -2 à la CA et aux jets de sauvegarde mais, chaque fois que vous effectuez une Frappe, ces malus sont temporairement annulés jusqu’au début de votre prochain tour.</p>\n<p>@Compendium[pf2e.feature-effects.922SDayUnipK4wlx]{Effet: Malédiction mineure du combat}</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'oracle"
+                },
+                {
+                    "value": "Mystère du combat"
+                }
+            ]
         },
         {
             "id": "Eyes of the Night",
@@ -14800,6 +14952,16 @@
             "prereq": [
                 {
                     "value": "Dévouement de Lion radieux"
+                }
+            ]
+        },
+        {
+            "id": "Warding Rune (Illusion)",
+            "name": "Rune de garde (Illusion) (Warding Rune (Illusion))",
+            "description": "<p>Vos runes génèrent un effet protecteur contre une école de magie spécifique. Vous obtenez une rune sur votre corps correspondant à l'école d'illusion et vous gagnez un bonus de circonstances de +2 à tous les jets de sauvegarde contre les effets de cette école.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de scarifié des runes"
                 }
             ]
         },
@@ -15555,6 +15717,16 @@
             ]
         },
         {
+            "id": "Greater Animal Senses (Precise Echolocation)",
+            "name": "Sens animaux supérieurs (écho-localisation précise) (Greater Animal Senses (Precise Echolocation))",
+            "description": "<p>Vos sens progressent pour correspondre à ceux de votre aspect animal. Vous obtenez écho-localisation précise 9 m. Si votre animal intérieur ne possède pas un type de sens spécifique, vous ne pouvez obtenir de sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plusieurs fois, soit en choisissant un sens différent soit pour améliorer un sens imprécis accordé par ce don pour en faire un sens précis.</p>",
+            "prereq": [
+                {
+                    "value": "Sens animaux supérieurs (écho-localisation)"
+                }
+            ]
+        },
+        {
             "id": "Derring-do",
             "name": "Bravoure (Derring-do)",
             "description": "<p>Lorsque vous combinez @Compendium[pf2e.classfeatures.LzYi0OuOoypNb6jd]{Panache} avec encore davantage de bravoure, cela tend à mieux fonctionner.</p>\n<p>Lorsque vous avez déjà du panache, vous pouvez lancer deux fois les dés et utiliser le plus haut résultat sur les tests pour lesquels le bonus de circonstances lié au fait d'avoir du panache s'applique (@Compendium[pf2e.actionspf2e.21WIfSu7Xd7uKqV8]{Déplacement acrobatique} et toutes les actions de compétences listées dans votre style de bretteur).</p>"
@@ -15601,6 +15773,19 @@
             "prereq": [
                 {
                     "value": "sort de dévotion (Imposition des mains)"
+                }
+            ]
+        },
+        {
+            "id": "First Revelation (Life Mystery)",
+            "name": "Première révélation (Mystère de la vie) (First Revelation (Life Mystery))",
+            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère : @Compendium[pf2e.spells-srd.2gQYrCPwBmwau26O]{Lien vital}. Lancer se sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contenant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>\n<h4>Malédiction mineure de la vie</h4>\n<p>Avec votre énergie vitale qui s’écoule de votre corps, il est de plus en plus difficile de faire en sorte que celui-ci continue à fonctionner. Les effets qui restaurent des Points de Vie subissent un malus de statut égal à la moitié de votre niveau (avec un minimum de 1) sur le nombre de Points de Vie que vous récupérez.</p>\n<p>@Compendium[pf2e.feature-effects.yR4XFhh3irGBgPmJ]{Effet: Malédiction mineure de la vie}</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'Oracle"
+                },
+                {
+                    "value": "Mystère de la vie"
                 }
             ]
         },
@@ -15922,6 +16107,19 @@
             "prereq": [
                 {
                     "value": "Morphologie volante"
+                }
+            ]
+        },
+        {
+            "id": "First Revelation (Flames Mystery)",
+            "name": "Première révélation (Mystère des flammes) (First Revelation (Flames Mystery))",
+            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère : @Compendium[pf2e.spells-srd.AspA30tzKCHFWRf0]{Aura incendiaire}. Lancer se sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contenant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>\n<h4>Malédiction mineure des Flammes</h4>\n<p>La fumée, la chaleur et les flammes crépitantes de votre malédiction remplissent votre vision et vos autres sens. Les créatures situées à plus de 9 m de vous vous sont @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{camouflées}. Vous ne pouvez pas profiter d’effets qui vous permettraient d’ignorer ou de réduire ce camouflage, comme c’est le cas pour les autres effets des malédictions oraculaires.</p>\n<p>@Compendium[pf2e.feature-effects.T6En6oEDwSycRyAG]{Effet: Malédiction mineure des flammes}</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'Oracle"
+                },
+                {
+                    "value": "Mystère des flammes"
                 }
             ]
         },
@@ -16515,8 +16713,8 @@
         },
         {
             "id": "Living Weapon (Claws)",
-            "name": "Arme vivante (Living Weapon (Claws))",
-            "description": "<p>Vous avez appris à utiliser une partie de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de votre choix entre :</p>\n<ul>\n<li><strong>Griffes</strong> [[/r 1d4 #tranchants]] dégâts tranchants (agile et finesse),</li>\n<li><strong>Corne, Mâchoires ou Défenses</strong> [[/r 1d6 #perforants]] dégâts perforants (Polyvalent T),</li>\n<li><strong>Queue</strong> [[/r 1d6 #contondants]] dégâts contondants (Prise d'élan).</li>\n</ul>\n<p>Toutes ces attaques à mains nues est dans le groupe pugilat. Ces particularités sont modifiables ; vous pouvez choisir ce don à chaque niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une nouvelle attaque parmi les options ci-dessus.</p>"
+            "name": "Arme vivante (Griffes) (Living Weapon (Claws))",
+            "description": "<p>Vous avez appris à utiliser les griffes de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de Griffes infligeant [[/r 1d4 #tranchants]]{1d4 dégâts tranchants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède les traits agile et finesse. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une nouvelle attaque parmi les options ci-dessus.</p>"
         },
         {
             "id": "Ki Form",
@@ -16706,6 +16904,11 @@
                     "value": "sorts de gardien"
                 }
             ]
+        },
+        {
+            "id": "Living Weapon (Tusk)",
+            "name": "Arme vivante (défense) (Living Weapon (Tusk))",
+            "description": "<p>Vous avez appris à utiliser les défenses de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de défenses qui infligent [[/r 1d6 #perforants]]{1d6 dégâts perforants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède le trait Polyvalent T. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une autre forme d'attaque à mains nues.</p>"
         },
         {
             "id": "Reaper of Repose",
@@ -16952,6 +17155,11 @@
             ]
         },
         {
+            "id": "Living Weapon (Tail)",
+            "name": "Arme vivante (queue) (Living Weapon (Tail))",
+            "description": "<p>Vous avez appris à utiliser la queue de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de queue qui inflige [[/r 1d6 #contondants]]{1d6 dégâts contondants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède le trait Prise d'élan. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une autre forme d'attaque à mains nues.</p>"
+        },
+        {
             "id": "Assurance (Nature)",
             "name": "Assurance (Nature) (Assurance (Nature))",
             "description": "<p>Même dans les pires circonstances, vous pouvez effectuer des tâches de base. Vous pouvez vous abstenir d’effectuer un test de Nature pour à la place recevoir un résultat de 10 + votre bonus de maîtrise (aucun autre bonus, malus ou modificateur ne s’applique).</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, choisissez une compétence différente et gagnez les avantages pour cette compétence.</p>",
@@ -17158,6 +17366,11 @@
                     "value": "Dévouement du guerrier"
                 }
             ]
+        },
+        {
+            "id": "Living Weapon (Horn)",
+            "name": "Arme vivante (Corne) (Living Weapon (Horn))",
+            "description": "<p>Vous avez appris à utiliser les cornes de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de corne qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède le trait Polyvalent T. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une autre forme d'attaque à mains nues.</p>"
         },
         {
             "id": "Tengu Feather Fan",
@@ -18436,7 +18649,7 @@
         {
             "id": "Claws Of The Dragon",
             "name": "Griffes de dragon (Claws Of The Dragon)",
-            "description": "<p>Les ongles de vos mains se transforment en griffes coupantes comme des rasoirs et des écailles mouchetent vos doigts, vos mains et vos poignets.</p>\n<p>Vos griffes ont les traits agile, finesse et à mains nues. Elles infligent 1d6 dégâts tranchants et font partie du groupe d'arme pugilat.</p>\n<p>Si vous êtes un ensorceleur draconique, lorsque vous lancez @Compendium[pf2e.spells-srd.K8vvrOgW4bGakXxm]{Griffes de dragon}, augmentez les dés de dégâts tranchants du sort de d4 à d6 et augmentez la résistance à 10 au niveau 1, 15 au niveau 5 et 20 au niveau 9.</p>",
+            "description": "<p>Les ongles de vos mains se transforment en griffes coupantes comme des rasoirs et des écailles mouchetent vos doigts, vos mains et vos poignets.</p>\n<p>Vos griffes ont les traits agile, finesse et à mains nues. Elles infligent [[/r 1d6 #tranchants]]{1d6 dégâts tranchants} et font partie du groupe d'arme pugilat.</p>",
             "prereq": [
                 {
                     "value": "Dévouement du Disciple draconique"
@@ -18472,6 +18685,16 @@
             "id": "Point-Blank Shot",
             "name": "Tir à bout portant (Point-Blank Shot)",
             "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance</p>\n<hr />\n<p>Vous visez pour éliminer rapidement les ennemis proches. Quand vous utilisez une arme à distance de volée dans cette posture, vous ne subissez pas le malus du trait volée sur vos jets d’attaque. Quand vous utilisez une arme à distance qui n’a pas le trait volée, vous bénéficiez d’un bonus de circonstances de +2 aux jets de dégâts sur les attaques contre des cibles situées à une distance inférieure ou égale au premier facteur de portée de l’arme.</p>"
+        },
+        {
+            "id": "Warding Rune (Transmutation)",
+            "name": "Rune de garde (Transmutation) (Warding Rune (Transmutation))",
+            "description": "<p>Vos runes génèrent un effet protecteur contre une école de magie spécifique. Vous obtenez une rune sur votre corps correspondant à l'école de transmutation et vous gagnez un bonus de circonstances de +2 à tous les jets de sauvegarde contre les effets de cette école.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de scarifié des runes"
+                }
+            ]
         },
         {
             "id": "Expert Disassembler",
@@ -19028,6 +19251,11 @@
                     "value": "magnum opus"
                 }
             ]
+        },
+        {
+            "id": "Animal Swiftness (Swim)",
+            "name": "Répidité animale (Natation) (Animal Swiftness (Swim))",
+            "description": "<p>Vous vous déplacez comme un animal.</p>\n<p>Votre Vitesse augmente de 1,5 m. De plus, vous obtenez une vitesse de natation à condition que ce mode de déplacement soit accessible à votre animal intérieur. Vous obtenez cette Vitesse seulement lorsque vous êtes sous votre forme hybride. Ce nouveau mode de déplacement est aussi rapide que votre Vitesse normale ; par exemple, si vous avez une vitesse de 9 m, vous obtenez une vitesse de natation de 9 m. Si votre animal intérieur ne dispose pas de ce mode de déplacement, Vous ne pouvez l'obtenir avec ce don.</p>\n<hr />\n<p><em>Note: Ce don accorde une vitesse de natation permanente, au lieu d'une vitesse de natation qui n'est active que sous votre forme hybride. Ignorez là lorsque vous n'êtes pas sous votre forme hybride.</em></p>"
         },
         {
             "id": "Channel The Godmind",
@@ -19622,6 +19850,16 @@
                 },
                 {
                     "value": "cause de rédempteur"
+                }
+            ]
+        },
+        {
+            "id": "Invoke The Elements (Virga May)",
+            "name": "Invoquer les éléments (vierge virga) (Invoke The Elements (Virga May))",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous invoquez une aura de vent tourbillonant et d'éclairs.</p>\n<p>Pendant 1 minute, vous devenez @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} contre les créatures qui sont à plus de 1,5 m de vous et toute créature qui termine son tour dans les 1,5 m de vous subit [[/r 1d12 #électricité]]{1d12 dégâts d'électricité} (jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe ou votre DD de sort). Aux niveaux [[/r 2d12 #électricité]]{13} et [[/r 3d12 #électricité]]{17}, ces dégâts augmentent de 1d12.</p>",
+            "prereq": [
+                {
+                    "value": "Vierge virga"
                 }
             ]
         },
@@ -20434,6 +20672,11 @@
             ]
         },
         {
+            "id": "Sprite's Spark (Grig)",
+            "name": "Étincellle du sprite (Grig) (Sprite's Spark (Grig))",
+            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque de note dissonnante qui inflige [[/r 1d4 #son]]{1d4 dégâts de son}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts). Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
+        },
+        {
             "id": "Animal Skin",
             "name": "Cuir animal (Animal Skin)",
             "description": "<p>Votre rang de maîtrise pour la défense sans armure passe à expert.</p>\n<p>Quand vous êtes enragé et ne portez pas d’armure, votre peau s’épaissit jusqu’à ressembler à l’épais cuir de votre animal.</p>\n<p>Vous gagnez un bonus de statut de +1 à votre CA au lieu de subir un malus de −1 à votre CA. Si vous possédez la capacité de classe Juggernaut supérieur, ce bonus de statut est de +2. L’épaisseur de votre cuir vous confère un Bonus de Dextérité maximal de +3 à votre CA.</p>",
@@ -20450,6 +20693,19 @@
             "prereq": [
                 {
                     "value": "Force 14"
+                }
+            ]
+        },
+        {
+            "id": "First Revelation (Lore Mystery)",
+            "name": "Première révélation (Mystère du savoir) (First Revelation (Lore Mystery))",
+            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère : @Compendium[pf2e.spells-srd.k2QrUk7jWMAWozMh]{Drain du cerveau}. Lancer se sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contenant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>\n<h4>Malédiction mineure du savoir</h4>\n<p>Vous subissez un malus de -4 à l’initiative : le fait d’analyser un soudain afflux d’informations à propos de ce qui se passe autour de vous ralentit votre réponse.</p>\n<p>@Compendium[pf2e.feature-effects.zYKkObDPVRQOtwPh]{Effet: Malédiction mineure du savoir}</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'oracle"
+                },
+                {
+                    "value": "Mystère"
                 }
             ]
         },
@@ -21081,10 +21337,10 @@
         {
             "id": "Invoke The Elements",
             "name": "Invoquer les éléments (Invoke The Elements)",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous invoquez une aura de chaleur châtoyante, de bourrasque neigeuse, de vagues écrasantes ou de vent tourbillonant et d'éclairs.</p>\n<p>Pendant 1 minute, vous devenez @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} contre les créatures qui sont à plus de 1,5 m de vous et toute créature qui termine son tour dans les 1,5 m de vous subit [[/r 1d12]] dégâts (jet de Réflexes en utilisant le plus élevé entre votre DD de classe ou votre DD de sort). Aux niveaux 13 et 17, ces dégâts augmentent de 1d12.</p>\n<p>Un changelin vierge voilée peut infliger des dégâts de feu, un changelin vierge de neige inflige des dégâts de froid, un changelin vierge de saumure inflige des dégâts contondants et l'effet obtient le trait eau et un changelin vierge virga inflige des dégâts d'électricité.</p>",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous invoquez une aura de chaleur châtoyante, de bourrasque neigeuse, de vagues écrasantes ou de vent tourbillonant et d'éclairs.</p>\n<p>Pendant 1 minute, vous devenez @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} contre les créatures qui sont à plus de 1,5 m de vous et toute créature qui termine son tour dans les 1,5 m de vous subit [[/r 1d12]] dégâts (jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe ou votre DD de sort). Aux niveaux 13 et 17, ces dégâts augmentent de 1d12.</p>\n<p>Un changelin vierge voilée peut infliger des dégâts de feu, un changelin vierge de neige inflige des dégâts de froid, un changelin vierge de saumure inflige des dégâts contondants et l'effet obtient le trait eau et un changelin vierge virga inflige des dégâts d'électricité.</p>",
             "prereq": [
                 {
-                    "value": "Vierge de saumure, Vierge de  neige, Vierge voilée ou Vierge virga"
+                    "value": "Vierge de saumure, Vierge de neige, Vierge voilée ou Vierge virga"
                 }
             ]
         },
@@ -21147,6 +21403,11 @@
                     "value": "qualifié en Représentation"
                 }
             ]
+        },
+        {
+            "id": "Greater Animal Senses (Echolocation)",
+            "name": "Sens animaux supérieurs (Écho-localisation) (Greater Animal Senses (Echolocation))",
+            "description": "<p>Vos sens progressent pour correspondre à ceux de votre aspect animal. Vous obtenez écho-localisation 9 m. Si votre animal intérieur ne possède pas ce type de sens spécifique, vous ne pouvez obtenir de sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plusieurs fois en choisissant un sens différent ou en améliorant un sens imprécis accordé par ce don pour en faire un sens précis.</p>"
         },
         {
             "id": "Radiant Burst",
@@ -21606,6 +21867,16 @@
             "prereq": [
                 {
                     "value": "qualifié en Discrétion"
+                }
+            ]
+        },
+        {
+            "id": "Foxfire (Cold)",
+            "name": "Feu de renard (froid) (Foxfire (Cold))",
+            "description": "<p>Une mêche de la fourrure de votre queue brille d'une énergie bleue. Vous obtenez une attaque à distance à mains nues de feu de renard avec une portée maximale de 6 m. L'attaque inflige [[/r 1d4 #froid]]{1d4 dégâts de froid} (aucun modificateur de caractéristique n'est ajouté au jet de dégâts). Votre attaque de feu de renard est dans le groupe d'arme des frondes.</p>\n<p>Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>",
+            "prereq": [
+                {
+                    "value": "Kitsune Vent glacé"
                 }
             ]
         },
@@ -22531,6 +22802,19 @@
             ]
         },
         {
+            "id": "First Revelation (Cosmos Mystery)",
+            "name": "Première révélation (Mystère du cosmos) (First Revelation (Cosmos Mystery))",
+            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère : @Compendium[pf2e.spells-srd.mlNYROcFrUF8nFgk]{Aspersion d'étoiles}. Lancer se sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contenant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>\n<h4>Malédiction mineure du cosmos</h4>\n<p>Votre légèreté surnaturelle fait qu’il vous est difficile de garder votre équilibre et d’interagir avec des objets physiques. Vous êtes @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{Affaibli} 1 et subissez un malus de -2 aux jets de sauvegarde et aux DD contre @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Agripper}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} et les autres formes de mouvement forcé.</p>\n<p>@Compendium[pf2e.feature-effects.usi1qa95gK4WnFIg]{Effet : Malédiction mineure du cosmos}</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'oracle"
+                },
+                {
+                    "value": "Mystère du cosmos"
+                }
+            ]
+        },
+        {
             "id": "Changeling Lore",
             "name": "Connaissance des Changelins (Changeling Lore)",
             "description": "<p>Complètement au fait de votre vraie nature, vous avez étudié les guenaudes et leurs pouvoirs.</p>\n<p>Vous êtes qualifié en Duperie et en Occultisme. Si vous devriez automatiquement être qualifié dans l'une des ses compétences (de par votre historique ou votre classe, par example), vous devenez qualifié dans une compétence de votre choix à la place. Vous êtes également qualifié en Connaissance des Guenaudes.</p>"
@@ -22927,6 +23211,16 @@
             ]
         },
         {
+            "id": "Invoke The Elements (Brine May)",
+            "name": "Invoquer les éléments (vierge de saumure) (Invoke The Elements (Brine May))",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous invoquez une aura de vagues écrasantes.</p>\n<p>Pendant 1 minute, vous devenez @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} contre les créatures qui sont à plus de 1,5 m de vous et toute créature qui termine son tour dans les 1,5 m de vous subit [[/r 1d12 #contondants]]{1d12 dégâts contondants} (jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe ou votre DD de sort). Aux niveaux [[/r 2d12 #contondants]]{13} et [[/r 3d12 #contondants]]{17}, ces dégâts augmentent de 1d12.</p>",
+            "prereq": [
+                {
+                    "value": "Vierge de saumure"
+                }
+            ]
+        },
+        {
             "id": "Iruxi Unarmed Cunning",
             "name": "ruse à mains nues iruxie (Iruxi Unarmed Cunning)",
             "description": "<p>Vous tirez le meilleur de vos attaques à mains nues iruxies.</p>\n<p>Lorsque vous obtenez un coup critique avec une griffe ou une attaque à mains nues que vous avez obtenue d'un don ancestral d'homme-lézard, vous appliquez l'effet de critique spécialisé de l'attaque à mains nues.</p>"
@@ -22948,6 +23242,16 @@
             "prereq": [
                 {
                     "value": "expert en Survie"
+                }
+            ]
+        },
+        {
+            "id": "Warding Rune (Evocation)",
+            "name": "Rune de garde (Évocation) (Warding Rune (Evocation))",
+            "description": "<p>Vos runes génèrent un effet protecteur contre une école de magie spécifique. Vous obtenez une rune sur votre corps correspondant à l'école d'évocation et vous gagnez un bonus de circonstances de +2 à tous les jets de sauvegarde contre les effets de cette école.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de scarifié des runes"
                 }
             ]
         },
