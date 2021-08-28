@@ -364,7 +364,7 @@
         {
             "id": "Desna - Moderate Curse",
             "name": "Desna - Malédiction modérée",
-            "description": "<p><strong>Malédiction modérée</strong> La malchance vous poursuit durant vos voyages et nécessite des actes de contrition ou de bienveillance pour rester à distance.</p>\n<p>Vous devez toujours lancer deux fois les dés et prendre le pire résultat lorsque vous tentez un test. C'est un effet de malchance.</p>\n<p>Vous pouvez exprimer vos remords et ignorer cet effet durant [[/r 1d4 #rounds]]{1d4 rounds} en passant une action qui a le trait concentration.</p>\n<p>Si vous accomplissez un acte de compassion véritablement désintéressé, vous ignorez cet effet pendant 1 journée.</p>"
+            "description": "<p><strong>Malédiction modérée</strong> La malchance vous poursuit durant vos voyages et nécessite des actes de contrition ou de bienveillance pour rester à distance.</p>\n<p>Vous devez toujours lancer deux fois les dés et prendre le pire résultat lorsque vous tentez un test. C'est un effet de malchance.</p>\n<p>Vous pouvez exprimer vos remords et ignorer cet effet durant [[/br 1d4 #rounds]]{1d4 rounds} en passant une action qui a le trait concentration.</p>\n<p>Si vous accomplissez un acte de compassion véritablement désintéressé, vous ignorez cet effet pendant 1 journée.</p>"
         },
         {
             "id": "Abadar - Major Boon",

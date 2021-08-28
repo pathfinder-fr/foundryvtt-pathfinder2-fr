@@ -1,18 +1,17 @@
 # État de la traduction (actions)
 
  * **officielle**: 110
- * **libre**: 63
- * **changé**: 3
+ * **libre**: 64
+ * **changé**: 2
 
 
-Dernière mise à jour: 2021-08-26 13:57 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-28 15:18 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[8aIe57gXJ94mPpW4.htm](actions/8aIe57gXJ94mPpW4.htm)|Anadi Venom|Venin anadi|changé|
 |[kKKHwVUnroKuAnOt.htm](actions/kKKHwVUnroKuAnOt.htm)|Toxic Skin|Peau toxique|changé|
 |[oAWNluJaMlaGysXA.htm](actions/oAWNluJaMlaGysXA.htm)|Barbed Quills|Piquants barbelés|changé|
 
@@ -39,6 +38,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[7blmbDrQFNfdT731.htm](actions/7blmbDrQFNfdT731.htm)|Shove|Pousser|officielle|
 |[7pdG8l9POMK76Lf2.htm](actions/7pdG8l9POMK76Lf2.htm)|Warding Sign|Signe de protection|libre|
 |[7qjfYsLNTr17Aftf.htm](actions/7qjfYsLNTr17Aftf.htm)|Energy Emanation|Émanation énergétique|libre|
+|[8aIe57gXJ94mPpW4.htm](actions/8aIe57gXJ94mPpW4.htm)|Anadi Venom|Venin anadi|libre|
 |[8iCas8MeyqSXmE2a.htm](actions/8iCas8MeyqSXmE2a.htm)|Dream Research|Recherche onirique|libre|
 |[8kGpUUUSX1sB2OqQ.htm](actions/8kGpUUUSX1sB2OqQ.htm)|Call Companion|Appeler un compagnon|libre|
 |[8w6esW689NNbbq3i.htm](actions/8w6esW689NNbbq3i.htm)|Call on Ancient Blood|Appel du sang ancien|officielle|

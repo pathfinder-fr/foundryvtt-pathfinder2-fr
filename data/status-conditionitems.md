@@ -1,11 +1,11 @@
 # État de la traduction (conditionitems)
 
  * **libre**: 9
- * **officielle**: 29
- * **changé**: 4
+ * **officielle**: 31
+ * **changé**: 2
 
 
-Dernière mise à jour: 2021-08-26 13:57 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-28 15:18 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -13,8 +13,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[iU0fEDdBp3rXpTMC.htm](conditionitems/iU0fEDdBp3rXpTMC.htm)|Hidden|Caché|changé|
-|[j91X7x0XSomq8d60.htm](conditionitems/j91X7x0XSomq8d60.htm)|Prone|À terre|changé|
-|[VRSef5y1LmL2Hkjf.htm](conditionitems/VRSef5y1LmL2Hkjf.htm)|Undetected|Non détecté|changé|
 |[yZRUzMqrMmfLu0V1.htm](conditionitems/yZRUzMqrMmfLu0V1.htm)|Dying|Mourant|changé|
 
 ## Liste des traductions complétés
@@ -43,6 +41,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HL2l2VRSaQHu9lUw.htm](conditionitems/HL2l2VRSaQHu9lUw.htm)|Fatigued|Fatigué|officielle|
 |[I1ffBVISxLr2gC4u.htm](conditionitems/I1ffBVISxLr2gC4u.htm)|Unfriendly|Inamical|officielle|
 |[i3OJZU2nk64Df3xm.htm](conditionitems/i3OJZU2nk64Df3xm.htm)|Clumsy|Maladroit|officielle|
+|[j91X7x0XSomq8d60.htm](conditionitems/j91X7x0XSomq8d60.htm)|Prone|À terre|officielle|
 |[kWc1fhmv9LBiTuei.htm](conditionitems/kWc1fhmv9LBiTuei.htm)|Grabbed|Agrippé/empoigné|libre|
 |[lDVqvLKA6eF3Df60.htm](conditionitems/lDVqvLKA6eF3Df60.htm)|Persistent Damage|Dégâts persistants|officielle|
 |[MIRkyAjyBeXivMa7.htm](conditionitems/MIRkyAjyBeXivMa7.htm)|Enfeebled|Affaibli|officielle|
@@ -54,6 +53,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[v44P3WUcU1j0115l.htm](conditionitems/v44P3WUcU1j0115l.htm)|Helpful|Serviable|libre|
 |[v66R7FdOf11l94im.htm](conditionitems/v66R7FdOf11l94im.htm)|Friendly|Amical|libre|
 |[VcDeM8A5oI6VqhbM.htm](conditionitems/VcDeM8A5oI6VqhbM.htm)|Restrained|Entravé|libre|
+|[VRSef5y1LmL2Hkjf.htm](conditionitems/VRSef5y1LmL2Hkjf.htm)|Undetected|Non détecté|officielle|
 |[XgEqL1kFApUbl5Z2.htm](conditionitems/XgEqL1kFApUbl5Z2.htm)|Blinded|Aveuglé|officielle|
 |[xYTAsEpcJE1Ccni3.htm](conditionitems/xYTAsEpcJE1Ccni3.htm)|Slowed|Ralenti|libre|
 |[yblD8fOR1J8rDwEQ.htm](conditionitems/yblD8fOR1J8rDwEQ.htm)|Confused|Confus|officielle|

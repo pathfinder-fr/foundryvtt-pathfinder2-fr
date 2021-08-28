@@ -1,11 +1,11 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 224
- * **changé**: 24
+ * **officielle**: 225
+ * **changé**: 23
  * **libre**: 139
 
 
-Dernière mise à jour: 2021-08-26 13:57 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-28 15:18 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -35,7 +35,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-01-W9cF7wZztLDb1WGY.htm](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Tempest Mystery|Mystère de la tempête|changé|
 |[sorcerer-01-dKTb959aCQIzSIXj.htm](classfeatures/sorcerer-01-dKTb959aCQIzSIXj.htm)|Bloodline: Wyrmblessed|Lignage : béni du Ver|changé|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|Incantation de l'ensorceleur|changé|
-|[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|Lignage : Draconique|changé|
 
 ## Liste des traductions complétés
 
@@ -328,6 +327,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-vhW3glAaEfq2DKrw.htm](classfeatures/sorcerer-01-vhW3glAaEfq2DKrw.htm)|Bloodline: Angelic|Lignage : Angélique|officielle|
 |[sorcerer-01-w5koctOVrEcpxTIq.htm](classfeatures/sorcerer-01-w5koctOVrEcpxTIq.htm)|Bloodline: Demonic|Lignage : Démoniaque|officielle|
 |[sorcerer-01-ZEtJJ5UOlV5oTWWp.htm](classfeatures/sorcerer-01-ZEtJJ5UOlV5oTWWp.htm)|Bloodline: Imperial|Lignage : Impérial|officielle|
+|[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|Lignage : Draconique|officielle|
 |[sorcerer-03-VKRjmXxBFLrJK01c.htm](classfeatures/sorcerer-03-VKRjmXxBFLrJK01c.htm)|Signature Spells (Level 3)|Sorts emblématiques (Niveau 3)|officielle|
 |[sorcerer-19-feCnVrPPlKhl701x.htm](classfeatures/sorcerer-19-feCnVrPPlKhl701x.htm)|Bloodline Paragon|Parangon du lignage|officielle|
 |[swashbuckler-01-4lGhbEjlEoGP4scl.htm](classfeatures/swashbuckler-01-4lGhbEjlEoGP4scl.htm)|Wit Style|Style : Esprit|libre|

@@ -1039,7 +1039,7 @@
         {
             "id": "Heart of the Kaiju",
             "name": "Heart of the Kaiju (Cœur de Kaiju)",
-            "description": "<p>Ayant été témoin de près la puissance du roi kaiju Mogaru, d'Alru et de Toraloa a réveillé une nouvelle férocité en vous. Lorsque vous vous transformez en utilisant Morphologie monstrueuse, vous pouvez prendre la forme d'un kaiju. Lorsque vous prenez ce don, choisissez des dégâts d'acide, de froid, d'électricité, de feu ou soniques ; ce sont les dégâts que votre arme de souffle inflige. Vous ne pourrez plus modifier ce choix par la suite. La forme de combat est de taille gargantuesque avec les capacités spécifiques suivantes ; les valeurs de dégâts incluent déjà le dé supplémentaire dû au fait qu'il s'agit d'un sort de niveau 9.</p>\n<p><strong>Kaiju</strong>Vitesse 12 m ; résistance 5 dégâts physiques ; </p>\n<p><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong>mâchoires (portée 6 m), <strong>Dégâts</strong>[[/r 3d12+20 # dégâts perforants]]{3d12+20 perforants} ;</p>\n<p><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong> griffes (agile, allonge 6 m), <strong>Dégâts</strong>[[/r 3d8+20 # dégâts de tranchants]]{3d8+20 tranchants};</p>\n<p><strong>Arme de souffle</strong><span class=\"pf2-icon\">2</span> (évocation, primordiale) Chaque créature dans un cône de 18 m subit [[/r 15d6 # dégâts]]{15d6 dégâts}. (du type de dégâts que vous avez choisi), avec un jet de Réflexes basique contre le DD de votre sort. Une fois utilisée, votre arme de souffle ne peut plus être utilisée pendant [[/r 1d4]]{1d4 rounds}.</p>"
+            "description": "<p>Ayant été témoin de près la puissance du roi kaiju Mogaru, d'Alru et de Toraloa a réveillé une nouvelle férocité en vous. Lorsque vous vous transformez en utilisant Morphologie monstrueuse, vous pouvez prendre la forme d'un kaiju. Lorsque vous prenez ce don, choisissez des dégâts d'acide, de froid, d'électricité, de feu ou soniques ; ce sont les dégâts que votre arme de souffle inflige. Vous ne pourrez plus modifier ce choix par la suite. La forme de combat est de taille gargantuesque avec les capacités spécifiques suivantes ; les valeurs de dégâts incluent déjà le dé supplémentaire dû au fait qu'il s'agit d'un sort de niveau 9.</p>\n<p><strong>Kaiju</strong>Vitesse 12 m ; résistance 5 dégâts physiques ; </p>\n<p><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong>mâchoires (portée 6 m), <strong>Dégâts</strong>[[/r 3d12+20 # dégâts perforants]]{3d12+20 perforants} ;</p>\n<p><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong> griffes (agile, allonge 6 m), <strong>Dégâts</strong>[[/r 3d8+20 # dégâts de tranchants]]{3d8+20 tranchants};</p>\n<p><strong>Arme de souffle</strong><span class=\"pf2-icon\">2</span> (évocation, primordiale) Chaque créature dans un cône de 18 m subit [[/r 15d6 # dégâts]]{15d6 dégâts}. (du type de dégâts que vous avez choisi), avec un jet de Réflexes basique contre le DD de votre sort. Une fois utilisée, votre arme de souffle ne peut plus être utilisée pendant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
         },
         {
             "id": "Shield of Grace",
@@ -1340,6 +1340,11 @@
             "id": "Analyze Idiolect",
             "name": "Analyze Idiolect (Analyser l'idiolecte)",
             "description": "<p>Vous décomposez l'idiolecte spécifique d'un individu, en mémorisant son maniérisme lorsqu'il parle et ses habitudes.</p>\n<p>Si vous intéragissez avec quelqu'un pendant au moins 10 minutes, lorsque vous essayez par la suite de @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{vous Déguiser} en cet individu, vous obtenez un bonus de circonstances de +4 a vos tests de Duperie et à vos DD. Compte tenu de l'intense étude du personnage nécessaire, vous ne pouvez vous remémorer qu'un unique idiolecte au même moment.</p>"
+        },
+        {
+            "id": "Perfection's Path (Will)",
+            "name": "Perfection's Path (Will) (Voie de la perfection (Volonté))",
+            "description": "<p>Choisissez le jet de sauvegarde de Volonté dans lequel vous êtes expert. Votre rang de maîtrise dans ce jet de sauvegarde passe à maître.</p>"
         },
         {
             "id": "Brutal Finish",
@@ -2383,7 +2388,7 @@
         },
         {
             "id": "Tengu Weapon Expertise",
-            "name": "Tengu Weapon Expertise (Epertise avec les armes tengu)",
+            "name": "Tengu Weapon Expertise (Expertise avec les armes tengu)",
             "description": "<p>L'étude vous a rendu expert avec les armes tengu.</p>\n<p>Lorsque vous obtenez une capacité de classe qui vous accorde une maîtrise experte ou supérieure avec une arme donnée ou avec des armes, vous obtenez cette même maîtrise avec les armes pour lesquelles vous disposez de Familiarité avec les armes tengu.</p>"
         },
         {
@@ -4589,7 +4594,7 @@
         {
             "id": "Steal Spell",
             "name": "Steal Spell (Sort volé)",
-            "description": "<p>Lorsque vous utilisez @Compendium[pf2e.feats-srd.IZbjUaZI5zHTd1Vp]{Voleur légendaire} pour voler l'impossible, vous pouvez voler un sort préparé ou un sort spontané d'un adversaire. Le sort est aléatoirement choisi parmi les sorts du plus haut niveau du sort que l'adversaire connait qui a une cible ou une zone, jusqu'à un sort de niveau 8 maximum ; la cible perd l'emplacement du sort approprié comme si elle l'avait lancé elle-même. Vous pouvez @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer le sort} dans les 1d4 prochains rounds, après quoi la magie fugace s'évanouit ; autrement, cela fonctionne de la même manière que quand vous lancez un sort avec @Compendium[pf2e.feats-srd.80DU0IvIzOIBGuUa]{Sort d'emprunt}.</p>"
+            "description": "<p>Lorsque vous utilisez @Compendium[pf2e.feats-srd.IZbjUaZI5zHTd1Vp]{Voleur légendaire} pour voler l'impossible, vous pouvez voler un sort préparé ou un sort spontané d'un adversaire. Le sort est aléatoirement choisi parmi les sorts du plus haut niveau du sort que l'adversaire connait qui a une cible ou une zone, jusqu'à un sort de niveau 8 maximum ; la cible perd l'emplacement du sort approprié comme si elle l'avait lancé elle-même. Vous pouvez @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer le sort} dans les [[/br 1d4 #rounds]]{1d4 rounds} suivants, après quoi la magie fugace s'évanouit ; autrement, cela fonctionne de la même manière que quand vous lancez un sort avec @Compendium[pf2e.feats-srd.80DU0IvIzOIBGuUa]{Sort d'emprunt}.</p>"
         },
         {
             "id": "Desperate Finisher",
@@ -4815,6 +4820,11 @@
             "id": "Legendary Negotiation",
             "name": "Legendary Negotiation (Négociation légendaire)",
             "description": "<p>Vous pouvez négocier incroyablement rapidement dans des situations défavorables.</p>\n<p>Vous tentez de Faire bonne impression puis de Solliciter votre adversaire de cesser son activité actuelle et de s’engager dans les négociations. Vous subissez un malus de −5 à votre test de Diplomatie. Le MJ détermine le DD de la Sollicitation en fonction des circonstances – c’est généralement au moins un DD très difficile du niveau de la créature. Certaines créatures pourraient simplement refuser et même celles qui acceptent les pourparlers pourraient finalement trouver vos arguments faibles et retourner à la violence.</p>"
+        },
+        {
+            "id": "Claws Of The Dragon (Draconic Bloodline)",
+            "name": "Claws Of The Dragon (Draconic Bloodline) (Griffes du dragon (Lignage draconique))",
+            "description": "<p>Les ongles de vos mains se transforment en griffes coupantes comme des rasoirs et des écailles mouchetent vos doigts, vos mains et vos poignets.</p>\n<p>Vos griffes ont les traits agile, finesse et à mains nues. Elles infligent [[/r 1d6 #tranchants]]{1d6 dégâts tranchants} et font partie du groupe d'arme pugilat.</p>\n<p>Lorsque vous Lancez Griffes du dragon, augmentez les dégâts tranchants d'1d4 à 1d6 et augmentez votre résistance à 10 au niveau 1, 15 au niveau 5 et 20 au niveau 9.</p>"
         },
         {
             "id": "Eldritch Researcher Dedication",
@@ -5080,6 +5090,11 @@
             "id": "Rubbery Skin",
             "name": "Rubbery Skin (Peau caoutchouteuse)",
             "description": "<p>Votre peau développe une qualité malléable et caoutchouteuse. Vous obtenez une résistance aux dégâts contondants égale à 2 + votre nombre de dons de classe de l'archétype Vasemorphe. Vous obtenez aussi une résistance égale à deux fois ce montant contre les coups critiques ; si la résistance est supérieure aux dégâts supplémentaires, elle réduit les dégâts supplémentaires à 0 mais ne réduit pas les dégâts de l'attaque normale.</p>"
+        },
+        {
+            "id": "Animal Senses (Scent, Imprecise)",
+            "name": "Animal Senses (Scent, Imprecise) (Sens animaux (Odorat imprécis))",
+            "description": "<p>Vous obtenez un des sens suivants accessible à votre animal intérieur: : odorat (imprécis) 9 m. Si votre animal intérieur n'a pas un type spécifique de sens, vous ne pouvez pas obtenir ce sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don à plusieurs reprises, en choisissant un sens différent à chaque fois.</p>"
         },
         {
             "id": "Terrain Master",
@@ -8347,6 +8362,11 @@
             "description": "<p>Votre allié divin lame partage votre goût du sang des créatures du bien. Choisissez un ennemi que vous pouvez voir. Jusqu'au début de votre prochain tour, vos Frappes contre cet adversaire en utilisant l'arme que votre allié divin lame habite infligent 4 dégâts maléfiques supplémentaires, qui passent à 6 si vous êtes maître avec cette arme.</p>\n<p>Si l'ennemi choisi vous attaque avant le début de votre prochain tour, la durée s'étend jusqu'à la fin du prochain tour de cet ennemi. Si l'ennemi continue à vous attaquer à chaque tour, la durée continue à s'accroître.</p>\n<p>@Compendium[pf2e.feat-effects.2MIn8qyPTmz4ZyO1]{Effet: Châtiment du bien}</p>"
         },
         {
+            "id": "Animal Swiftness (Climb)",
+            "name": "Animal Swiftness (Climb) (Rapidité animale (Escalade))",
+            "description": "<p>Vous vous déplacez comme un animal.</p>\n<p>Votre Vitesse augmente de 1,5 m. De plus, vous obtenez une vitesse d'escalade à condition que ce mode de déplacement soit accessible à votre animal intérieur. Vous obtenez cette Vitesse seulement lorsque vous êtes sous votre forme hybride. Ce nouveau mode de déplacement est aussi rapide que votre Vitesse normale ; par exemple, si vous avez une vitesse de 9 m, vous obtenez une vitesse d'escalade de 9 m. Si votre animal intérieur ne dispose pas de ce mode de déplacement, Vous ne pouvez l'obtenir avec ce don.</p>\n<hr />\n<p><em>Note: Ce don accorde une vitesse de natation permanente, au lieu d'une vitesse de natation qui n'est active que sous votre forme hybride. Ignorez là lorsque vous n'êtes pas sous votre forme hybride.</em></p>"
+        },
+        {
             "id": "Suli Amir",
             "name": "Suli Amir (Émir Suli)",
             "description": "<p>Votre pouvoir est relié aux puissant émirs Janns.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.pkcOby5prOausy1k]{Lire les présages} et le sort @Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibilité} au niveau 4 chacun une fois par jour comme des sorts innés arcaniques et vous pouvez lancer @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie} à volonté comme un tour de magie arcanique inné intensifié à la moitié de votre niveau arrondi au niveau supérieur.</p>"
@@ -9664,7 +9684,7 @@
         {
             "id": "Disciple's Breath",
             "name": "Disciple's Breath (Souffle du disciple)",
-            "description": "<p>Vous relâchez votre arme de souffle sans dépenser de point de focalisation.</p>\n<p>Cela possède les mêmes effets que votre sort de lignage Souffle de dragon, mais cela inflige [[/r 9d6]] dégâts à la place des dégâts habituels et vous n'avez pas à le lancer ou à dépenser de Point de focalisation. Vous ne pouvez plus utiliser Souffle du disciple pendant [[/r 1d4]] rounds.</p>"
+            "description": "<p>Vous relâchez votre arme de souffle sans dépenser de point de focalisation.</p>\n<p>Cela possède les mêmes effets que votre sort de lignage Souffle de dragon, mais cela inflige [[/r 9d6]] dégâts à la place des dégâts habituels et vous n'avez pas à le lancer ou à dépenser de Point de focalisation. Vous ne pouvez plus utiliser Souffle du disciple pendant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
         },
         {
             "id": "Doublespeak",
@@ -9684,7 +9704,7 @@
         {
             "id": "Brightsoul",
             "name": "Brightsoul (Âmebrillante)",
-            "description": "<p>Le feu qui est en vous s'affirme comme une lumière brillante et irradiante. Votre corps est naturellement luminescent, brillant avec les effets d'un tour de magie primordial de @Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]{Lumière}. Un tour de magie est intensifié  à un niveau de sort égal à la moitié de votre niveau de sort arrondi au supérieur. La lumière est involontaire et constante ; si vous êtes contré, cela revient en 1d4 rounds. Vous subissez une pénalité de circonstances de –2 sur les tests de Discrétion pour se Cacher ou être Furtif et obtienez un bonus de circonstances de +1 sur des jets de sauvegarde contre des effets de lumière et des effets qui infligent les conditions @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglé} ou @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie}.</p>"
+            "description": "<p>Le feu qui est en vous s'affirme comme une lumière brillante et irradiante. Votre corps est naturellement luminescent, brillant avec les effets d'un tour de magie primordial de @Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]{Lumière}. Un tour de magie est intensifié  à un niveau de sort égal à la moitié de votre niveau de sort arrondi au supérieur. La lumière est involontaire et constante ; si vous êtes contré, cela revient en [[/br 1d4 #rounds]]{1d4 rounds}. Vous subissez une pénalité de circonstances de –2 sur les tests de Discrétion pour se Cacher ou être Furtif et obtienez un bonus de circonstances de +1 sur des jets de sauvegarde contre des effets de lumière et des effets qui infligent les conditions @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglé} ou @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie}.</p>"
         },
         {
             "id": "Hex Wellspring",
@@ -11702,6 +11722,11 @@
             "description": "<p>Vous êtes habile à esquiver les racines, le feuillage et autres obstacles de la jungle. Vous ignorez les terrains difficiles dans les forêts et les jungles. De plus, lorsque vous utilisez la compétence Acrobaties pour garder l'Équilibrer sur des surfaces étroites ou un sol inégal fait de végétaux, vous n'êtes pas Pris au dépourvu et lorsque vous obtenez un succès à l'un de ces tests d'Acrobaties, vous obtenez un succès critique à la place.</p>"
         },
         {
+            "id": "Animal Senses (Low-Light Vision)",
+            "name": "Animal Senses (Low-Light Vision) (Sens animaux (Vision nocturne))",
+            "description": "<p>Vous obtenez un des sens suivants accessible à votre animal intérieur : @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne}. Si votre animal intérieur n'a pas un type spécifique de sens, vous ne pouvez pas obtenir ce sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don à plusieurs reprises, en choisissant un sens différent à chaque fois.</p>"
+        },
+        {
             "id": "One With Earth",
             "name": "One With Earth (Uni avec la terre)",
             "description": "<p>Vous avez appris à exploiter votre lien avec la terre pour voyager à travers. Vous obtenez une vitesse de creusement de 4,5 m.</p>"
@@ -13017,6 +13042,11 @@
             "description": "<p><strong>Conditions</strong> Votre tour commence</p>\n<hr />\n<p>Vous maintenez un sort presque sans y penser. Vous bénéficiez immédiatement des effets de l’action @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Maintenir un sort}, ce qui vous permet de rallonger la durée de l’un de vos sorts de classe actif.</p>"
         },
         {
+            "id": "Perfection's Path (Reflex)",
+            "name": "Perfection's Path (Reflex) (Voie de la perfection (Réflexes))",
+            "description": "<p>Choisissez le jet de sauvegarde de réflexes dans lequel vous êtes expert. Votre rang de maîtrise dans ce jet de sauvegarde passe à maître.</p>"
+        },
+        {
             "id": "Spy's Countermeasures",
             "name": "Spy's Countermeasures (Contre-mesures d'espion)",
             "description": "<p>Vous avez appris à analyser et fausser vos réponses à la magie la plus communément employée contre les espions. Lorsque vous réussissez votre jet de sauvegarde contre un effet de divination ou mental, vous pouvez @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifier la magie} pour identifier le sort en effectuant une action gratuite déclenchée par votre succès, et ce même si vous n’avez pas vu le lancer du sort.Si vous réussissez à identifier un effet de divination dont vous êtes la cible et que le sort doive normalement échouer ou n’avoir aucun effet, vous pouvez créer un autre résultat, faire croire au lanceur que son sort a réussi avec le résultat de votre choix.</p>\n<p>Si vous réussissez à identifier un effet mental dont vous êtes la cible et que le sort doive normalement échouer ou n’avoir aucun effet, vous pouvez faire croire que vous avez été affecté et essayer de feindre l’effet du sort ; si le sort établit normalement un lien mental, il fonctionne normalement, mais vous pouvez ignorer tout ordre qui vous est donné par le lien.</p>"
@@ -13588,8 +13618,8 @@
         },
         {
             "id": "Perfection's Path (Fortitude)",
-            "name": "Perfection's Path (Fortitude) (Voie de la perfection)",
-            "description": "<p>Choisissez un jet de sauvegarde (Vigueur, Réflexes ou Volonté) dans lequel vous êtes expert. Votre rang de maîtrise dans ce jet de sauvegarde passe à maître.</p>"
+            "name": "Perfection's Path (Fortitude) (Voie de la perfection (Vigueur))",
+            "description": "<p>Choisissez le jet de sauvegarde de Vigueur dans lequel vous êtes expert. Votre rang de maîtrise dans ce jet de sauvegarde passe à maître.</p>"
         },
         {
             "id": "Tranquil Sanctuary",

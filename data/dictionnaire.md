@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-08-26 13:57 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-28 15:18 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -2822,7 +2822,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Animal Skin](feats/class-06-ZPclfDmiHzEqblry.htm)|Cuir animal|`@Compendium[pf2e.feats-srd.ZPclfDmiHzEqblry]`|
 |[Animal Speaker](feats/ancestry-05-z0Bwy7lxU3DIugpo.htm)|Orateur animal|`@Compendium[pf2e.feats-srd.z0Bwy7lxU3DIugpo]`|
 |[Animal Swiftness](feats/ancestry-17-5Unc9AhGAAw1klFN.htm)|Rapidité animale|`@Compendium[pf2e.feats-srd.5Unc9AhGAAw1klFN]`|
-|[Animal Swiftness (Climb)](feats/ancestry-17-WZLw9UrIyCz6Eiqo.htm)||`@Compendium[pf2e.feats-srd.WZLw9UrIyCz6Eiqo]`|
+|[Animal Swiftness (Climb)](feats/ancestry-17-WZLw9UrIyCz6Eiqo.htm)|Rapidité animale (Escalade)|`@Compendium[pf2e.feats-srd.WZLw9UrIyCz6Eiqo]`|
 |[Animal Swiftness (Fly)](feats/ancestry-17-LIEbgqgSXkGIli8u.htm)|Rapidité animale (Vol)|`@Compendium[pf2e.feats-srd.LIEbgqgSXkGIli8u]`|
 |[Animal Swiftness (Land)](feats/ancestry-17-ERCd44zQMYI4rgqM.htm)|Rapidité animale (Sol)|`@Compendium[pf2e.feats-srd.ERCd44zQMYI4rgqM]`|
 |[Animal Swiftness (Swim)](feats/ancestry-17-Nd7C7X9LYyp0TaET.htm)|Répidité animale (Natation)|`@Compendium[pf2e.feats-srd.Nd7C7X9LYyp0TaET]`|
@@ -4510,9 +4510,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Perfect Mutagen](feats/class-20-0208T5UrkTY2ombM.htm)|Mutagène parfait|`@Compendium[pf2e.feats-srd.0208T5UrkTY2ombM]`|
 |[Perfect Shot](feats/class-18-zrIrpVOvbGS6a3ux.htm)|Tir parfait|`@Compendium[pf2e.feats-srd.zrIrpVOvbGS6a3ux]`|
 |[Perfect Strike](feats/archetype-04-Y4gYfrxjSir2Enui.htm)|Coup parfait|`@Compendium[pf2e.feats-srd.Y4gYfrxjSir2Enui]`|
-|[Perfection's Path (Fortitude)](feats/archetype-12-1ZbLYY5m2YALrrgA.htm)|Voie de la perfection|`@Compendium[pf2e.feats-srd.1ZbLYY5m2YALrrgA]`|
-|[Perfection's Path (Reflex)](feats/archetype-12-wkJ6EjtXUztOqTwH.htm)||`@Compendium[pf2e.feats-srd.wkJ6EjtXUztOqTwH]`|
-|[Perfection's Path (Will)](feats/archetype-12-sjqnusj5Py7AiofF.htm)||`@Compendium[pf2e.feats-srd.sjqnusj5Py7AiofF]`|
+|[Perfection's Path (Fortitude)](feats/archetype-12-1ZbLYY5m2YALrrgA.htm)|Voie de la perfection (Vigueur)|`@Compendium[pf2e.feats-srd.1ZbLYY5m2YALrrgA]`|
+|[Perfection's Path (Reflex)](feats/archetype-12-wkJ6EjtXUztOqTwH.htm)|Voie de la perfection (Réflexes)|`@Compendium[pf2e.feats-srd.wkJ6EjtXUztOqTwH]`|
+|[Perfection's Path (Will)](feats/archetype-12-sjqnusj5Py7AiofF.htm)|Voie de la perfection (Volonté)|`@Compendium[pf2e.feats-srd.sjqnusj5Py7AiofF]`|
 |[Performance Weapon Expert](feats/archetype-16-giupBd3dyOwdeoFl.htm)|Expert avec les armes de scène|`@Compendium[pf2e.feats-srd.giupBd3dyOwdeoFl]`|
 |[Performative Weapons Training](feats/archetype-06-SOG0yVNtiDsaNbIO.htm)|Entraînement aux armes de scène|`@Compendium[pf2e.feats-srd.SOG0yVNtiDsaNbIO]`|
 |[Peri Magic](feats/ancestry-09-rw4qq4qmCbO0hRfH.htm)|Magie des péris|`@Compendium[pf2e.feats-srd.rw4qq4qmCbO0hRfH]`|
@@ -5222,7 +5222,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Tenacious Toxins](feats/class-04-FdP21jbjHHGpHut1.htm)|Toxines tenaces|`@Compendium[pf2e.feats-srd.FdP21jbjHHGpHut1]`|
 |[Tengu Feather Fan](feats/ancestry-05-GAh4CwCMS3Gsl8WH.htm)|Éventail à plume tengu|`@Compendium[pf2e.feats-srd.GAh4CwCMS3Gsl8WH]`|
 |[Tengu Lore](feats/ancestry-01-GjQZMmw2sz8OyLxj.htm)|Connaissance des tengus|`@Compendium[pf2e.feats-srd.GjQZMmw2sz8OyLxj]`|
-|[Tengu Weapon Expertise](feats/ancestry-13-8JOLT1UX5BVG4kVY.htm)|Epertise avec les armes tengu|`@Compendium[pf2e.feats-srd.8JOLT1UX5BVG4kVY]`|
+|[Tengu Weapon Expertise](feats/ancestry-13-8JOLT1UX5BVG4kVY.htm)|Expertise avec les armes tengu|`@Compendium[pf2e.feats-srd.8JOLT1UX5BVG4kVY]`|
 |[Tengu Weapon Familiarity](feats/ancestry-01-AmFv3ClkAVRowHLI.htm)|Familiarité avec les armes tengu|`@Compendium[pf2e.feats-srd.AmFv3ClkAVRowHLI]`|
 |[Tengu Weapon Study](feats/ancestry-05-X6tVQ5S7H7GuCZux.htm)|Étude des armes tengu|`@Compendium[pf2e.feats-srd.X6tVQ5S7H7GuCZux]`|
 |[Tense Negotiator](feats/archetype-12-K5pXeeJLmdE8XuvM.htm)|Négociateur tendu|`@Compendium[pf2e.feats-srd.K5pXeeJLmdE8XuvM]`|
@@ -7043,7 +7043,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bag of Devouring Type I](equipment/backpack-07-MN8SF2sArQhJg6QG.htm)|Sac dévoreur (Type I)|`@Compendium[pf2e.equipment-srd.MN8SF2sArQhJg6QG]`|
 |[Bag of Devouring Type II](equipment/backpack-11-EIBmADRICTyYzxik.htm)|Sac dévoreur (Type II)|`@Compendium[pf2e.equipment-srd.EIBmADRICTyYzxik]`|
 |[Bag of Devouring Type III](equipment/backpack-13-n3kJYoTrzXYwlYaV.htm)|sac dévoreur (Type III)|`@Compendium[pf2e.equipment-srd.n3kJYoTrzXYwlYaV]`|
-|[Bag of Holding (Type I)](equipment/backpack-04-jaEEvuQ32GjAa8jy.htm)|Sac sans fond (type1)|`@Compendium[pf2e.equipment-srd.jaEEvuQ32GjAa8jy]`|
+|[Bag of Holding (Type I)](equipment/backpack-04-jaEEvuQ32GjAa8jy.htm)|Sac sans fond (type 1)|`@Compendium[pf2e.equipment-srd.jaEEvuQ32GjAa8jy]`|
 |[Bag of Holding (Type II)](equipment/backpack-07-JBMBaN9dZLytfFLQ.htm)|Sac sans fond (Type 2)|`@Compendium[pf2e.equipment-srd.JBMBaN9dZLytfFLQ]`|
 |[Bag of Holding (Type III)](equipment/backpack-11-jkb2WNby4mjcYqq9.htm)|Sac sans fond (Type 3)|`@Compendium[pf2e.equipment-srd.jkb2WNby4mjcYqq9]`|
 |[Bag of Holding (Type IV)](equipment/backpack-13-34DA4rFy7bduRAld.htm)|Sac sans fond (Type 4)|`@Compendium[pf2e.equipment-srd.34DA4rFy7bduRAld]`|
@@ -7063,7 +7063,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bedroll](equipment/equipment-00-fagzYdmfYyMQ6J77.htm)|Sac de couchage|`@Compendium[pf2e.equipment-srd.fagzYdmfYyMQ6J77]`|
 |[Belladonna](equipment/consumable-02-FL8QU8TcNauBMMhD.htm)|Belladone|`@Compendium[pf2e.equipment-srd.FL8QU8TcNauBMMhD]`|
 |[Bellflower Toolbelt](equipment/equipment-06-ifsBwfIhd6UcoUCI.htm)|Ceinture à outil Campanule|`@Compendium[pf2e.equipment-srd.ifsBwfIhd6UcoUCI]`|
-|[Belt Pouch](equipment/backpack-00-eFqKVKrf62XOGWUw.htm)|Bourse|`@Compendium[pf2e.equipment-srd.eFqKVKrf62XOGWUw]`|
+|[Belt Pouch](equipment/backpack-00-eFqKVKrf62XOGWUw.htm)|Bourse de ceinture|`@Compendium[pf2e.equipment-srd.eFqKVKrf62XOGWUw]`|
 |[Belt of Giant Strength](equipment/equipment-17-7utuH8VJjKEzKtNw.htm)|Ceinture de force de géant|`@Compendium[pf2e.equipment-srd.7utuH8VJjKEzKtNw]`|
 |[Belt of Good Health](equipment/equipment-04-AhvjU4QbinWPM9t3.htm)|Ceinture de bonne santé|`@Compendium[pf2e.equipment-srd.AhvjU4QbinWPM9t3]`|
 |[Belt of Regeneration](equipment/equipment-17-K2rMmiBlzcysNuj6.htm)|Ceinture de régénération|`@Compendium[pf2e.equipment-srd.K2rMmiBlzcysNuj6]`|
@@ -8053,7 +8053,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Poi](equipment/weapon-00-PnFfW5u24xZV6mOH.htm)|Poï|`@Compendium[pf2e.equipment-srd.PnFfW5u24xZV6mOH]`|
 |[Poisoner's Staff](equipment/equipment-04-Rwx6I3CDdOeOl5xW.htm)|Bâton de l'empoisonneur|`@Compendium[pf2e.equipment-srd.Rwx6I3CDdOeOl5xW]`|
 |[Poisoner's Staff (Greater)](equipment/equipment-08-10CiChAgeSExN7Ie.htm)|Bâton de l'empoisonneur (supérieur)|`@Compendium[pf2e.equipment-srd.10CiChAgeSExN7Ie]`|
-|[Poisoner's Staff (Major)](equipment/equipment-08-lL50lfx5tBosb1s3.htm)|Bâton de l'empoisonneur (majeur)|`@Compendium[pf2e.equipment-srd.lL50lfx5tBosb1s3]`|
 |[Poisoner's Staff (Major)](equipment/equipment-14-lL50lfx5tBosb1s3.htm)|Bâton de l'empoisonneur (majeur)|`@Compendium[pf2e.equipment-srd.lL50lfx5tBosb1s3]`|
 |[Poisonous Cloak Type I](equipment/equipment-06-65ZhBT2S8bCeEIgz.htm)|Cape empoisonnée (Type I)|`@Compendium[pf2e.equipment-srd.65ZhBT2S8bCeEIgz]`|
 |[Poisonous Cloak Type II](equipment/equipment-10-BNShQdbxiPMisV60.htm)|Cape empoisonnée (Type II)|`@Compendium[pf2e.equipment-srd.BNShQdbxiPMisV60]`|
@@ -8447,7 +8446,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spore Sap](equipment/weapon-11-tE2IarA29mYsgrxj.htm)|Matraque de spores|`@Compendium[pf2e.equipment-srd.tE2IarA29mYsgrxj]`|
 |[Spyglass](equipment/equipment-00-UtRH6jt3iNFCgLLG.htm)|Longue-vue|`@Compendium[pf2e.equipment-srd.UtRH6jt3iNFCgLLG]`|
 |[Spyglass (Fine)](equipment/equipment-04-rV7MTDCseZmEZKDw.htm)|Longue-vue (belle)|`@Compendium[pf2e.equipment-srd.rV7MTDCseZmEZKDw]`|
-|[St. Alkitarem's Eye](equipment/equipment-02-u4mB03FhvuJ7DcX8.htm)||`@Compendium[pf2e.equipment-srd.u4mB03FhvuJ7DcX8]`|
+|[St. Alkitarem's Eye](equipment/equipment-02-u4mB03FhvuJ7DcX8.htm)|Œil de Saint Alkitarem|`@Compendium[pf2e.equipment-srd.u4mB03FhvuJ7DcX8]`|
 |[Staff](equipment/weapon-00-FVjTuBCIefAgloUU.htm)|Bâton|`@Compendium[pf2e.equipment-srd.FVjTuBCIefAgloUU]`|
 |[Staff of Abjuration](equipment/weapon-06-EYRrABqjUYPrhrZr.htm)|Bâton d'abjuration|`@Compendium[pf2e.equipment-srd.EYRrABqjUYPrhrZr]`|
 |[Staff of Abjuration (Greater)](equipment/weapon-10-HRNQ1j2OM54Qakhp.htm)|Bâton d'abjuration (supérieur)|`@Compendium[pf2e.equipment-srd.HRNQ1j2OM54Qakhp]`|
@@ -8532,7 +8531,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Stupor Poison](equipment/consumable-04-nn2HAN1XKkKHfVnM.htm)|Poison de Stupeur|`@Compendium[pf2e.equipment-srd.nn2HAN1XKkKHfVnM]`|
 |[Sturdy Satchel](equipment/equipment-02-KxUJu1IHY9FxxAGV.htm)|Sac à dos robuste|`@Compendium[pf2e.equipment-srd.KxUJu1IHY9FxxAGV]`|
 |[Sturdy Shield (Greater)](equipment/armor-13-rrnWORxT2Ch4pUFb.htm)|Bouclier renforcé (supérieur)|`@Compendium[pf2e.equipment-srd.rrnWORxT2Ch4pUFb]`|
-|[Sturdy Shield (Lesser)](equipment/armor-07-nDZX25OwoN0Imrq6.htm)|Bouclier solide (inférieur)|`@Compendium[pf2e.equipment-srd.nDZX25OwoN0Imrq6]`|
+|[Sturdy Shield (Lesser)](equipment/armor-07-nDZX25OwoN0Imrq6.htm)|Bouclier renforcé (inférieur)|`@Compendium[pf2e.equipment-srd.nDZX25OwoN0Imrq6]`|
 |[Sturdy Shield (Major)](equipment/armor-16-BWQzaHbGVqlBuMww.htm)|Bouclier renforcé (majeure)|`@Compendium[pf2e.equipment-srd.BWQzaHbGVqlBuMww]`|
 |[Sturdy Shield (Minor)](equipment/armor-04-f9ygr5Cjrmop8LWV.htm)|Bouclier renforcé (mineur)|`@Compendium[pf2e.equipment-srd.f9ygr5Cjrmop8LWV]`|
 |[Sturdy Shield (Moderate)](equipment/armor-10-pNQJ9PTOEHxEZCgp.htm)|Bouclier renforcé (modéré)|`@Compendium[pf2e.equipment-srd.pNQJ9PTOEHxEZCgp]`|
