@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-08-28 15:18 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-29 11:08 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -7306,7 +7306,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Coral idol of an elemental lord](equipment/treasure-00-EKgLX0TCyFik3gPS.htm)|Idole en corail d'un seigneur élémentaire|`@Compendium[pf2e.equipment-srd.EKgLX0TCyFik3gPS]`|
 |[Cordelia's Construct Key](equipment/equipment-08-UBfAwXBU5iQ59Bz7.htm)|La clé d'animation de Cordélia|`@Compendium[pf2e.equipment-srd.UBfAwXBU5iQ59Bz7]`|
 |[Cordelia's Greater Construct Key](equipment/equipment-12-rUxQi4pUbMeHrnSX.htm)|La clé d'animation de Cordélia (supérieur)|`@Compendium[pf2e.equipment-srd.rUxQi4pUbMeHrnSX]`|
-|[Corpseward Pendant](equipment/equipment-05-8YnlhfZSQ89FjDZ2.htm)|Pendentif de garde des morts-vivants|`@Compendium[pf2e.equipment-srd.8YnlhfZSQ89FjDZ2]`|
+|[Corpseward Pendant](equipment/equipment-05-8YnlhfZSQ89FjDZ2.htm)|Pendentif de garde morts-vivants|`@Compendium[pf2e.equipment-srd.8YnlhfZSQ89FjDZ2]`|
 |[Corrosive](equipment/equipment-08-Wm0X7Pfd1bfocPSv.htm)|Corrosive (rune)|`@Compendium[pf2e.equipment-srd.Wm0X7Pfd1bfocPSv]`|
 |[Corrosive (Greater)](equipment/equipment-15-vQUIUAFOTOWj3ohh.htm)|Corrosive supérieure (rune)|`@Compendium[pf2e.equipment-srd.vQUIUAFOTOWj3ohh]`|
 |[Corrosive Ammunition](equipment/consumable-07-903CuhvVUhE1lmoB.htm)|Munition corrosive|`@Compendium[pf2e.equipment-srd.903CuhvVUhE1lmoB]`|
@@ -7340,7 +7340,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dagger of Venom](equipment/weapon-05-ZvIEJCY60fHqzl6r.htm)|Dague venimeuse|`@Compendium[pf2e.equipment-srd.ZvIEJCY60fHqzl6r]`|
 |[Daikyu](equipment/weapon-00-RN3m5Hb5LPbdZGoO.htm)|Daikyu|`@Compendium[pf2e.equipment-srd.RN3m5Hb5LPbdZGoO]`|
 |[Dancing](equipment/equipment-13-DCPsilr8wbPXxTUv.htm)|Dansante (rune)|`@Compendium[pf2e.equipment-srd.DCPsilr8wbPXxTUv]`|
-|[Dancing Scarf](equipment/equipment-03-Epc1e1Q9M9bcwOR0.htm)|Echarpe dansante|`@Compendium[pf2e.equipment-srd.Epc1e1Q9M9bcwOR0]`|
+|[Dancing Scarf](equipment/equipment-03-Epc1e1Q9M9bcwOR0.htm)|Écharpe dansante|`@Compendium[pf2e.equipment-srd.Epc1e1Q9M9bcwOR0]`|
 |[Dancing Scarf (Greater)](equipment/equipment-09-QJ1PhbtbLzwhRlY0.htm)|Écharpe dansante (supérieure)|`@Compendium[pf2e.equipment-srd.QJ1PhbtbLzwhRlY0]`|
 |[Daredevil Boots](equipment/equipment-10-mmdnWrQsh7vDspLK.htm)|Bottes de casse-cou|`@Compendium[pf2e.equipment-srd.mmdnWrQsh7vDspLK]`|
 |[Daredevil Boots (Greater)](equipment/equipment-17-kjFFmqci69k2zMXF.htm)|Bottes de casse-cou (supérieures)|`@Compendium[pf2e.equipment-srd.kjFFmqci69k2zMXF]`|
@@ -7803,7 +7803,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lance](equipment/weapon-00-OPMzQdM9rZznMGhW.htm)|Lance d'arçon|`@Compendium[pf2e.equipment-srd.OPMzQdM9rZznMGhW]`|
 |[Lantern (Bull's Eye)](equipment/equipment-00-QrNvP9SgnK9DrerA.htm)|Lanterne sourde|`@Compendium[pf2e.equipment-srd.QrNvP9SgnK9DrerA]`|
 |[Lantern (Hooded)](equipment/equipment-00-dIRZ0LL7G31fJNYz.htm)|Lanterne à capote|`@Compendium[pf2e.equipment-srd.dIRZ0LL7G31fJNYz]`|
-|[Lantern of Empty Light](equipment/equipment-06-WQ3yrHtv2fN5UO57.htm)|Lanterne de lumière du vide|`@Compendium[pf2e.equipment-srd.WQ3yrHtv2fN5UO57]`|
+|[Lantern of Empty Light](equipment/equipment-06-WQ3yrHtv2fN5UO57.htm)|Lanterne de lumière vide|`@Compendium[pf2e.equipment-srd.WQ3yrHtv2fN5UO57]`|
 |[Lapis lazuli](equipment/treasure-00-DE4880DRtsRqax1N.htm)|Lapis lazuli|`@Compendium[pf2e.equipment-srd.DE4880DRtsRqax1N]`|
 |[Lapis lazuli pendant](equipment/treasure-00-rjHqUOFqUeyTQyin.htm)|Pendentif en lapis lazuli|`@Compendium[pf2e.equipment-srd.rjHqUOFqUeyTQyin]`|
 |[Lastwall Soup](equipment/consumable-01-VeCNWhvEr82ZNoSV.htm)|Soupe de Dernier-Rempart|`@Compendium[pf2e.equipment-srd.VeCNWhvEr82ZNoSV]`|
@@ -8675,7 +8675,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Wand of Crackling Lightning (4th-Level Spell)](equipment/equipment-10-oyjDCHscjcLhzall.htm)|Baguette d'électricité crépitante (Niveau 4)|`@Compendium[pf2e.equipment-srd.oyjDCHscjcLhzall]`|
 |[Wand of Crackling Lightning (6th-Level Spell)](equipment/equipment-14-1SdtzFpjKIwuQ7Nh.htm)|Baguette d'électricité crépitante (Niveau 6)|`@Compendium[pf2e.equipment-srd.1SdtzFpjKIwuQ7Nh]`|
 |[Wand of Crackling Lightning (8th-Level Spell)](equipment/equipment-18-U28jkj5ZDl2drtEH.htm)|Baguette d'électricité crépitante (Niveau 8)|`@Compendium[pf2e.equipment-srd.U28jkj5ZDl2drtEH]`|
-|[Wand of Hopeless Night (2nd-Level Spell)](equipment/equipment-06-ZJ3ahspZOXL4CK4J.htm)|Baguette de noir désespoir (Niveau 2)|`@Compendium[pf2e.equipment-srd.ZJ3ahspZOXL4CK4J]`|
+|[Wand of Hopeless Night (2nd-Level Spell)](equipment/equipment-06-ZJ3ahspZOXL4CK4J.htm)|Baguette de noir désespoir (Sort niveau 2)|`@Compendium[pf2e.equipment-srd.ZJ3ahspZOXL4CK4J]`|
 |[Wand of Hopeless Night (4th-Level Spell)](equipment/equipment-10-9ftc8XfloerPcJnI.htm)|Baguette de noir désespoir (Niveau 4)|`@Compendium[pf2e.equipment-srd.9ftc8XfloerPcJnI]`|
 |[Wand of Manifold Missiles (1st-Level Spell)](equipment/equipment-05-KPWN5tGGkvZR7K3K.htm)|Baguette de projectiles multiples (sort de niveau 1)|`@Compendium[pf2e.equipment-srd.KPWN5tGGkvZR7K3K]`|
 |[Wand of Manifold Missiles (3rd-Level Spell)](equipment/equipment-09-3Lexs7KnhbV0HgFh.htm)|Baguette de projectiles multiples (sort de niveau 3)|`@Compendium[pf2e.equipment-srd.3Lexs7KnhbV0HgFh]`|
