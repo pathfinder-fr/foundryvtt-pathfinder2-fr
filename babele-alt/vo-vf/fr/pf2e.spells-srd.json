@@ -354,7 +354,7 @@
         {
             "id": "Hydraulic Push",
             "name": "Hydraulic Push (Poussée hydraulique)",
-            "description": "<p>Vous créez une éruption d’eau pressurisée qui asperge violemment la cible et la repousse. Effectuez un jet d’attaque de sort à distance.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible subit [[r/ 6d6 #contondant]] dégâts contondants et elle est repoussée de 3 m.</p>\n<p><strong> Succès </strong> La cible subit [[r/ 3d6 #contondant]] dégâts contondants et elle est repoussée de 1,50 m.</p>\n<hr />\n<p><strong> Intensifié (+1)</strong> Les dégâts augmentent de 2d6.</p>"
+            "description": "<p>Vous créez une éruption d’eau pressurisée qui asperge violemment la cible et la repousse. Effectuez un jet d’attaque de sort à distance.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible subit 6d6 dégâts contondants et elle est repoussée de 3 m.</p>\n<p><strong> Succès </strong> La cible subit 3d6 dégâts contondants et elle est repoussée de 1,50 m.</p>\n<hr />\n<p><strong> Intensifié (+1)</strong> Les dégâts augmentent de 2d6.</p>"
         },
         {
             "id": "Touch of Idiocy",
@@ -714,7 +714,7 @@
         {
             "id": "Telekinetic Projectile",
             "name": "Telekinetic Projectile (Projectile télékinésique)",
-            "description": "<p>Vous lancez à la cible un objet mal fixé non porté qui se trouve à portée et qui a un Encombrement de 1 ou inférieur. Faites une attaque de sort contre la cible. Si vous touchez, vous infligez un montant de dégâts contondants, perforants ou tranchants − appropriés à l’objet que vous lancez − égal à [[r /1d6]] plus votre modificateur de caractéristique d’incantation. Aucun trait spécifique ou propriété magique de l’objet lancé n’affecte l’attaque ou les dégâts.</p>\n<hr />\n<p><strong>Succès critique</strong>  Vous infligez le double de dégâts.</p>\n<p><strong>Succès<strong> Vous infligez la totalité des dégâts.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de [[r /1d6]].</p>"
+            "description": "<p>Vous lancez à la cible un objet mal fixé non porté qui se trouve à portée et qui a un Encombrement de 1 ou inférieur. Faites une attaque de sort contre la cible. Si vous touchez, vous infligez un montant de dégâts contondants, perforants ou tranchants − appropriés à l’objet que vous lancez − égal à 1d6 plus votre modificateur de caractéristique d’incantation. Aucun trait spécifique ou propriété magique de l’objet lancé n’affecte l’attaque ou les dégâts.</p>\n<hr />\n<p><strong>Succès critique</strong>  Vous infligez le double de dégâts.</p>\n<p><strong>Succès<strong> Vous infligez la totalité des dégâts.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d6.</p>"
         },
         {
             "id": "Fire Ray",
@@ -909,7 +909,7 @@
         {
             "id": "Anathematic Reprisal",
             "name": "Anathematic Reprisal (Anathème et représailles)",
-            "description": "<p><strong>Déclencheur</strong> Une créature accomplit un acte anathème pour votre divinité.</p>\n<hr />\n<p>Vous punissez une créature ayant péché contre votre divinité, en puisant dans l’angoisse que vous ressentez en voyant quelqu’un violer l’un des tabous de votre dieu.</p>\n<p>Vous pouvez lancer ce sort uniquement quand une créature commet activement un unique acte blasphématoire. Par exemple, si la création de morts-vivants est anathème à votre dieu, vous pouvez utiliser Anathème et représailles sur un nécromancien qui vient de créer un mort-vivant sous vos yeux mais vous ne pouvez pas lancer ce sort sur un mort-vivant juste parce qu’il existe. Vous infligez [[/r 4d6 #mentaux}} dégâts mentaux à la cible, mais un jet de Volonté basique peut les réduire. Si la cible rate son jet, elle est aussi @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée} 1 pendant 1 round. Ensuite, la créature est temporairement immunisée pendant 1 minute.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de [[r/ 1d6]].</p>"
+            "description": "<p><strong>Déclencheur</strong> Une créature accomplit un acte anathème pour votre divinité.</p>\n<hr />\n<p>Vous punissez une créature ayant péché contre votre divinité, en puisant dans l’angoisse que vous ressentez en voyant quelqu’un violer l’un des tabous de votre dieu.</p>\n<p>Vous pouvez lancer ce sort uniquement quand une créature commet activement un unique acte blasphématoire. Par exemple, si la création de morts-vivants est anathème à votre dieu, vous pouvez utiliser Anathème et représailles sur un nécromancien qui vient de créer un mort-vivant sous vos yeux mais vous ne pouvez pas lancer ce sort sur un mort-vivant juste parce qu’il existe. Vous infligez [[/r 4d6 #mentaux}} dégâts mentaux à la cible, mais un jet de Volonté basique peut les réduire. Si la cible rate son jet, elle est aussi @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée} 1 pendant 1 round. Ensuite, la créature est temporairement immunisée pendant 1 minute.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d6.</p>"
         },
         {
             "id": "Blanket Of Stars",
@@ -3684,7 +3684,7 @@
         {
             "id": "Tempest Surge",
             "name": "Tempest Surge (Onde de tempête)",
-            "description": "<p>Vous plongez un adversaire dans une tempête de vents violents et tourbillonnants, de nuages agités et d’éclairs crépitants.</p>\n<p>La tempête inflige [[r /1d12 #électricité]] dégâts d’électricité. La cible doit faire un jet de Réflexes basique. En cas d’échec, elle est également @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite} 2 pendant 1 round et subit 1 dégât d’électricité persistant.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts initiaux augmentent de [[r /1d12]] et les dégâts d’électricité persistants en cas d’échec de 1.</p>"
+            "description": "<p>Vous plongez un adversaire dans une tempête de vents violents et tourbillonnants, de nuages agités et d’éclairs crépitants.</p>\n<p>La tempête inflige 1d12 dégâts d’électricité. La cible doit faire un jet de Réflexes basique. En cas d’échec, elle est également @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite} 2 pendant 1 round et subit [[/r 1 #électricité persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégât d’électricité persistant}.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts initiaux augmentent de 1d12 et les dégâts d’électricité persistants en cas d’échec de 1.</p>"
         },
         {
             "id": "Steal Shadow",
@@ -3789,7 +3789,7 @@
         {
             "id": "Adaptive Ablation",
             "name": "Adaptive Ablation (Ablation adaptative)",
-            "description": "<p><strong>Déclencheur</strong> Vous subissez des dégâts d'acide, de froid, d'électricité, de feu ou de son.</p>\n<hr />\n<p>Vous vous modifiez pour vous adapter aux ondes mystiques des dégâts énergétiques, vous protégeant ainsi de tout dégâts ultérieurs.</p>\n<p>Vous gagnez une résistance 5 contre le type d'énergie déclencheuse ; vous gagnez cette résistance après avoir subi les dégâts déclencheurs, de sorte qu'elle s'applique seulement aux dégâts futurs que vous subissez au cours de la durée du sort.</p>\n<hr>\n<p><strong>Intensifié (+2)</strong> Augmentez la résistance de 5.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous subissez des dégâts d'acide, de froid, d'électricité, de feu ou de son.</p>\n<hr />\n<p>Vous vous modifiez pour vous adapter aux ondes mystiques des dégâts énergétiques, vous protégeant ainsi de tous dégâts ultérieurs.</p>\n<p>Vous gagnez une résistance 5 contre le type d'énergie déclencheuse ; vous gagnez cette résistance après avoir subi les dégâts déclencheurs, de sorte qu'elle s'applique seulement aux dégâts futurs que vous subissez au cours de la durée du sort.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> Augmentez la résistance de 5.</p>"
         },
         {
             "id": "Share Lore",
@@ -3959,7 +3959,7 @@
         {
             "id": "Acid Splash",
             "name": "Acid Splash (Aspersion d’acide)",
-            "description": "<p>Vous envoyez un globe d’acide qui éclabousse les créatures et les objets. Faites une attaque de sort. Si vous touchez, vous infligez [[r /1d6 #acide]] dégâts d’acide plus 1 dégât d’acide d’éclaboussure. Sur un succès critique, la cible reçoit aussi 1 dégât d’acide persistant.</p>\n<hr />\n<p><strong>Intensifié (3e)</strong> Les dégâts initiaux passent à 1d6 + votre modificateur de caractéristique d’incantation et les @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts persistants} passent à 2.</p>\n<p><strong>Intensifié (5e)</strong> Les dégâts initiaux passent à 2d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants} passent à 3 et les dégâts d’éclaboussure passent à 2.</p>\n<p><strong>Intensifié (7e)</strong> Les dégâts initiaux passent à 3d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 4 et les dégâts d’éclaboussure passent à 3.</p>\n<p><strong>Intensifié (9e)</strong> Les dégâts initiaux passent à 4d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 5 et les dégâts d’éclaboussure passent à 4.</p>"
+            "description": "<p>Vous envoyez un globe d’acide qui éclabousse les créatures et les objets. Faites une attaque de sort. Si vous touchez, vous infligez 1d6 dégâts d’acide plus 1 dégât d’acide d’éclaboussure. Sur un succès critique, la cible reçoit aussi [[/r 1 #acide persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégât d'acide persistant}</p>\n<hr />\n<p><strong>Intensifié (3e)</strong> Les dégâts initiaux passent à 1d6 + votre modificateur de caractéristique d’incantation et les @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts persistants} passent à 2.</p>\n<p><strong>Intensifié (5e)</strong> Les dégâts initiaux passent à 2d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 3 et les dégâts d’éclaboussure passent à 2.</p>\n<p><strong>Intensifié (7e)</strong> Les dégâts initiaux passent à 3d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 4 et les dégâts d’éclaboussure passent à 3.</p>\n<p><strong>Intensifié (9e)</strong> Les dégâts initiaux passent à 4d6 + votre modificateur de caractéristique d’incantation, les dégâts persistants passent à 5 et les dégâts d’éclaboussure passent à 4.</p>"
         },
         {
             "id": "Unrelenting Observation",
@@ -4319,7 +4319,7 @@
         {
             "id": "Dispel Magic",
             "name": "Dispel Magic (Dissipation de la magie)",
-            "description": "<p>Vous défaites la magique qui tisse un sort ou un effet.</p>\n<p>Faites un test pour Contrer la cible . Si vous réussissez contre un effet de sort, vous le contrez. Si vous réussissez contre un objet magique, il devient un objet ordinaire de son type pendant 10 minutes. Cela ne change pas ses propriétés non magiques. Vous échouez automatiquement si vous prenez pour cible un artefact ou un objet similaire.</p>"
+            "description": "<p>Vous défaites la magie qui tisse un sort ou un effet.</p>\n<p>Faites un test pour Contrer la cible . Si vous réussissez contre un effet de sort, vous le contrez. Si vous réussissez contre un objet magique, il devient un objet ordinaire de son type pendant 10 minutes. Cela ne change pas ses propriétés non magiques. Vous échouez automatiquement si vous prenez pour cible un artefact ou un objet similaire.</p>"
         },
         {
             "id": "Detect Magic",

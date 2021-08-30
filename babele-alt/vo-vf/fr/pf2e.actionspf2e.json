@@ -224,7 +224,7 @@
         {
             "id": "Crawl",
             "name": "Crawl (Ramper)",
-            "description": "<p><span><strong>Conditions</strong> Vous êtes à terre et votre Vitesse est d'au moins 3 mètres.</span></p>\n<hr />\n<p>Vous vous déplacez de 1,50 mètres en rampant, en restant @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
+            "description": "<p><strong>Conditions</strong> Vous êtes à terre et votre Vitesse est d'au moins 3 mètres.</p>\n<hr />\n<p>Vous vous déplacez de 1,50 mètres en rampant, en restant @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
         },
         {
             "id": "Retraining",

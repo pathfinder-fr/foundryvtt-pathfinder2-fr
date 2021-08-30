@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **changé**: 697
- * **officielle**: 142
- * **libre**: 53
+ * **changé**: 692
+ * **officielle**: 146
+ * **libre**: 54
  * **aucune**: 19
 
 
-Dernière mise à jour: 2021-08-29 11:08 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-08-30 20:13 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -65,7 +65,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-04-7Fd4lxozd11MQ55N.htm](spells/abjuration-04-7Fd4lxozd11MQ55N.htm)|Atone|Pénitence|changé|
 |[abjuration-04-caehfpQz7yp9yNzz.htm](spells/abjuration-04-caehfpQz7yp9yNzz.htm)|Dutiful Challenge|Défi respectueux|changé|
 |[abjuration-04-DH9Y3RQGWO0GzXGU.htm](spells/abjuration-04-DH9Y3RQGWO0GzXGU.htm)|Protector's Sphere|Sphère du protecteur|changé|
-|[abjuration-04-GoKkejPj5yWJPIPK.htm](spells/abjuration-04-GoKkejPj5yWJPIPK.htm)|Adaptive Ablation|Ablation adaptative|changé|
 |[abjuration-04-IT1aaqDBAISlHDUV.htm](spells/abjuration-04-IT1aaqDBAISlHDUV.htm)|Achaekek's Clutch|Étreinte d'Achaékek|changé|
 |[abjuration-04-ksLCg62cLOojw3gN.htm](spells/abjuration-04-ksLCg62cLOojw3gN.htm)|Dimensional Anchor|Ancre dimensionnelle|changé|
 |[abjuration-04-Mv5L4201uk8hnAtD.htm](spells/abjuration-04-Mv5L4201uk8hnAtD.htm)|Reflective Scales|Écailles réfléchisantes|changé|
@@ -314,7 +313,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-01-0H1ozccQGGFLUwFI.htm](spells/evocation-01-0H1ozccQGGFLUwFI.htm)|Cry of Destruction|Cri de destruction|changé|
 |[evocation-01-0JUOgbbFCapp3HlW.htm](spells/evocation-01-0JUOgbbFCapp3HlW.htm)|Elemental Toss|Projectile élémentaire|changé|
 |[evocation-01-1meVElIu1CEVYWkv.htm](spells/evocation-01-1meVElIu1CEVYWkv.htm)|Noxious Vapors|Vapeurs nocives|changé|
-|[evocation-01-60sgbuMWN0268dB7.htm](spells/evocation-01-60sgbuMWN0268dB7.htm)|Telekinetic Projectile|Projectile télékinésique|changé|
 |[evocation-01-6UafOE1ZUbHamsZJ.htm](spells/evocation-01-6UafOE1ZUbHamsZJ.htm)|Dim the Light|Diminuer la lumière|changé|
 |[evocation-01-7CUgqHunmHfW2lC5.htm](spells/evocation-01-7CUgqHunmHfW2lC5.htm)|Parch|Dessécher|changé|
 |[evocation-01-8TQiFzGf4feoHeH0.htm](spells/evocation-01-8TQiFzGf4feoHeH0.htm)|Chilling Spray|Aspersion de froid|changé|
@@ -327,14 +325,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-01-f9uqHnNBMU0774SF.htm](spells/evocation-01-f9uqHnNBMU0774SF.htm)|Elemental Betrayal|Trahison élémentaire|changé|
 |[evocation-01-g1eY1vN44mgluE33.htm](spells/evocation-01-g1eY1vN44mgluE33.htm)|Charged Javelin|Javelot chargé|changé|
 |[evocation-01-g8QqHpv2CWDwmIm1.htm](spells/evocation-01-g8QqHpv2CWDwmIm1.htm)|Gust of Wind|Bourrasque|changé|
-|[evocation-01-gISYsBFby1TiXfBt.htm](spells/evocation-01-gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|changé|
 |[evocation-01-gKKqvLohtrSJj3BM.htm](spells/evocation-01-gKKqvLohtrSJj3BM.htm)|Magic Missile|Projectile magique|changé|
 |[evocation-01-gYjPm7YwGtEa1oxh.htm](spells/evocation-01-gYjPm7YwGtEa1oxh.htm)|Ray of Frost|Rayon de givre|changé|
 |[evocation-01-HGmBY8KjgLV97nUp.htm](spells/evocation-01-HGmBY8KjgLV97nUp.htm)|Scouring Sand|Sable décapant|changé|
-|[evocation-01-ho1jSoYKrHUNnM90.htm](spells/evocation-01-ho1jSoYKrHUNnM90.htm)|Tempest Surge|Onde de tempête|changé|
 |[evocation-01-Hu38hoAUSYeFpkVa.htm](spells/evocation-01-Hu38hoAUSYeFpkVa.htm)|Force Bolt|Trait de force|changé|
 |[evocation-01-iAnpxrLaBU4V6Sej.htm](spells/evocation-01-iAnpxrLaBU4V6Sej.htm)|Tidal Surge|Raz-de-marée|changé|
-|[evocation-01-jfVCuOpzC6mUrf6f.htm](spells/evocation-01-jfVCuOpzC6mUrf6f.htm)|Hydraulic Push|Poussée hydraulique|changé|
 |[evocation-01-kJKSLfCgqxmN2FY8.htm](spells/evocation-01-kJKSLfCgqxmN2FY8.htm)|Personal Rain Cloud|Nuage de pluie individuel|changé|
 |[evocation-01-kl2q6JvBZwed4B6v.htm](spells/evocation-01-kl2q6JvBZwed4B6v.htm)|Dancing Lights|Lumières dansantes|changé|
 |[evocation-01-mlNYROcFrUF8nFgk.htm](spells/evocation-01-mlNYROcFrUF8nFgk.htm)|Spray of Stars|Aspersion d'étoiles|changé|
@@ -765,6 +760,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-04-8ifpNZkaxrbs3dBJ.htm](spells/abjuration-04-8ifpNZkaxrbs3dBJ.htm)|Perfected Form|Forme parfaite|officielle|
 |[abjuration-04-aqRYNoSvxsVfqglH.htm](spells/abjuration-04-aqRYNoSvxsVfqglH.htm)|Freedom of Movement|Liberté de mouvement|officielle|
 |[abjuration-04-eG1fBodYwolaXK98.htm](spells/abjuration-04-eG1fBodYwolaXK98.htm)|Enduring Might|Puissance protectrice|officielle|
+|[abjuration-04-GoKkejPj5yWJPIPK.htm](spells/abjuration-04-GoKkejPj5yWJPIPK.htm)|Adaptive Ablation|Ablation adaptative|libre|
 |[abjuration-04-JOdOpbPDl7nqvJUm.htm](spells/abjuration-04-JOdOpbPDl7nqvJUm.htm)|Globe of Invulnerability|Globe d'invulnérabilité|officielle|
 |[abjuration-04-LoBjvguamA12iyW0.htm](spells/abjuration-04-LoBjvguamA12iyW0.htm)|Energy Absorption|Absorption d'énergie|officielle|
 |[abjuration-04-qJQADktwD0x8kLAy.htm](spells/abjuration-04-qJQADktwD0x8kLAy.htm)|Resilient Sphere|Sphère d'isolement|officielle|
@@ -872,7 +868,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-04-kF0rs9mCPvJGfAZE.htm](spells/enchantment-04-kF0rs9mCPvJGfAZE.htm)|Inspire Heroics|Inspiration héroïque|officielle|
 |[enchantment-04-NOB92Wpn7jXvtyVW.htm](spells/enchantment-04-NOB92Wpn7jXvtyVW.htm)|Competitive Edge|Avantage du compétiteur|officielle|
 |[enchantment-06-GYD0XZ4t3tQq6shc.htm](spells/enchantment-06-GYD0XZ4t3tQq6shc.htm)|Zealous Conviction|Conviction zélée|officielle|
+|[evocation-01-60sgbuMWN0268dB7.htm](spells/evocation-01-60sgbuMWN0268dB7.htm)|Telekinetic Projectile|Projectile télékinésique|officielle|
+|[evocation-01-gISYsBFby1TiXfBt.htm](spells/evocation-01-gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|officielle|
+|[evocation-01-ho1jSoYKrHUNnM90.htm](spells/evocation-01-ho1jSoYKrHUNnM90.htm)|Tempest Surge|Onde de tempête|officielle|
 |[evocation-01-IWUe32Y5k2QFd7YQ.htm](spells/evocation-01-IWUe32Y5k2QFd7YQ.htm)|Gravity Weapon|Arme pesante|libre|
+|[evocation-01-jfVCuOpzC6mUrf6f.htm](spells/evocation-01-jfVCuOpzC6mUrf6f.htm)|Hydraulic Push|Poussée hydraulique|officielle|
 |[evocation-01-kBhaPuzLUSwS6vVf.htm](spells/evocation-01-kBhaPuzLUSwS6vVf.htm)|Electric Arc|Arc électrique|officielle|
 |[evocation-01-S6Kkk15MWGqzC00a.htm](spells/evocation-01-S6Kkk15MWGqzC00a.htm)|Draconic Barrage|Barrage draconique|libre|
 |[evocation-01-y6rAdMK6EFlV6U0t.htm](spells/evocation-01-y6rAdMK6EFlV6U0t.htm)|Burning Hands|Mains brûlantes|officielle|
