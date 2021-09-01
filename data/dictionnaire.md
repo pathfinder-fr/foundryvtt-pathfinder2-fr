@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-08-30 20:13 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-01 12:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -7363,7 +7363,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Death Knell Powder](equipment/consumable-14-8qUja4YdvewN4es0.htm)|Poudre de mise à mort|`@Compendium[pf2e.equipment-srd.8qUja4YdvewN4es0]`|
 |[Deathcap Powder](equipment/consumable-13-87AzvRja9uQOLJCC.htm)|Poudre d'amanite phalloïde|`@Compendium[pf2e.equipment-srd.87AzvRja9uQOLJCC]`|
 |[Decanter of Endless Water](equipment/equipment-07-aBVrNIPoPGOYxm80.htm)|Carafe intarissable|`@Compendium[pf2e.equipment-srd.aBVrNIPoPGOYxm80]`|
-|[Deck of Many Things](equipment/equipment-22-Gyi4IVrAVJRPJF2s.htm)|Paquet de Cartes merveilleuses|`@Compendium[pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]`|
+|[Deck of Many Things](equipment/equipment-22-Gyi4IVrAVJRPJF2s.htm)|Paquet de cartes merveilleuses|`@Compendium[pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]`|
 |[Deepdread Claw](equipment/weapon-14-jE5H6jmDJEzxGvSP.htm)|Griffe de l'érudit|`@Compendium[pf2e.equipment-srd.jE5H6jmDJEzxGvSP]`|
 |[Demilich Eye Gem](equipment/equipment-15-Q4o8pEdxSY0bnJQZ.htm)|Œil de Demi-liche|`@Compendium[pf2e.equipment-srd.Q4o8pEdxSY0bnJQZ]`|
 |[Demon Armor](equipment/armor-13-hYBZK1kaGPeR85CH.htm)|Armure démoniaque|`@Compendium[pf2e.equipment-srd.hYBZK1kaGPeR85CH]`|
@@ -7905,7 +7905,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Meteor Hammer](equipment/weapon-00-xu3azdMCIa53Oe1f.htm)|Marteau météore|`@Compendium[pf2e.equipment-srd.xu3azdMCIa53Oe1f]`|
 |[Mindfog Mist](equipment/consumable-15-GMi5tw0cbMx3ZQPg.htm)|Brumentale|`@Compendium[pf2e.equipment-srd.GMi5tw0cbMx3ZQPg]`|
 |[Mirror](equipment/equipment-00-6cyw0yK91cNsbvSK.htm)|Miroir|`@Compendium[pf2e.equipment-srd.6cyw0yK91cNsbvSK]`|
-|[Mirror of Sorshen](equipment/equipment-25-Ywt7p5Fyx18lK8km.htm)|Mirroir de Sorshen|`@Compendium[pf2e.equipment-srd.Ywt7p5Fyx18lK8km]`|
+|[Mirror of Sorshen](equipment/equipment-25-Ywt7p5Fyx18lK8km.htm)|Miroir de Sorshen|`@Compendium[pf2e.equipment-srd.Ywt7p5Fyx18lK8km]`|
 |[Mistform Elixir (Greater)](equipment/consumable-10-04giYigfDL5geu5f.htm)|Élixir de brumeforme (supérieur)|`@Compendium[pf2e.equipment-srd.04giYigfDL5geu5f]`|
 |[Mistform Elixir (Lesser)](equipment/consumable-04-GyO89RBVjAKFxsFm.htm)|Élixir de brumeforme (inférieur)|`@Compendium[pf2e.equipment-srd.GyO89RBVjAKFxsFm]`|
 |[Mistform Elixir (Moderate)](equipment/consumable-06-Ax8XcBd0rRd1Z7hN.htm)|Élixir de brumeforme (modéré)|`@Compendium[pf2e.equipment-srd.Ax8XcBd0rRd1Z7hN]`|
@@ -7946,10 +7946,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Necklace of Fireballs VII](equipment/equipment-17-mOY0STwY5hx4UPCN.htm)|Collier à boules de feu VII|`@Compendium[pf2e.equipment-srd.mOY0STwY5hx4UPCN]`|
 |[Necklace of Knives](equipment/equipment-02-9uhJ7OB65ZTdUc8b.htm)|Collier de couteaux|`@Compendium[pf2e.equipment-srd.9uhJ7OB65ZTdUc8b]`|
 |[Necklace of Strangulation](equipment/equipment-15-NLF4Z7jn44Sf3RGS.htm)|Collier étrangleur|`@Compendium[pf2e.equipment-srd.NLF4Z7jn44Sf3RGS]`|
-|[Necrotic Bomb (Greater)](equipment/weapon-11-u41wQz3bgu6J1XKo.htm)|Bombe nécrotique (supérieur)|`@Compendium[pf2e.equipment-srd.u41wQz3bgu6J1XKo]`|
-|[Necrotic Bomb (Lesser)](equipment/weapon-01-8JnOYyTdatqRnAV4.htm)|Bombe nécrotique (inférieur)|`@Compendium[pf2e.equipment-srd.8JnOYyTdatqRnAV4]`|
+|[Necrotic Bomb (Greater)](equipment/weapon-11-u41wQz3bgu6J1XKo.htm)|Bombe nécrotique supérieure|`@Compendium[pf2e.equipment-srd.u41wQz3bgu6J1XKo]`|
+|[Necrotic Bomb (Lesser)](equipment/weapon-01-8JnOYyTdatqRnAV4.htm)|Bombe nécrotique inférieure|`@Compendium[pf2e.equipment-srd.8JnOYyTdatqRnAV4]`|
 |[Necrotic Bomb (Major)](equipment/weapon-17-RC8EmoFiMITFUopr.htm)|Bombe nécrotique (majeur)|`@Compendium[pf2e.equipment-srd.RC8EmoFiMITFUopr]`|
-|[Necrotic Bomb (Moderate)](equipment/weapon-03-moBSgma1rtJqh7Rp.htm)|Bombe nécrotique (modérée)|`@Compendium[pf2e.equipment-srd.moBSgma1rtJqh7Rp]`|
+|[Necrotic Bomb (Moderate)](equipment/weapon-03-moBSgma1rtJqh7Rp.htm)|Bombe nécrotique modérée|`@Compendium[pf2e.equipment-srd.moBSgma1rtJqh7Rp]`|
 |[Nectar of Purification](equipment/consumable-01-ukTlC4G83aVQEg7u.htm)|Nectar de purification|`@Compendium[pf2e.equipment-srd.ukTlC4G83aVQEg7u]`|
 |[Net](equipment/equipment-00-T8EopYZLT137CsdW.htm)|Filet|`@Compendium[pf2e.equipment-srd.T8EopYZLT137CsdW]`|
 |[Nethysian Bulwark](equipment/armor-16-EKXRigmEZgqmFA62.htm)|Rempart Néthysien|`@Compendium[pf2e.equipment-srd.EKXRigmEZgqmFA62]`|
@@ -8155,10 +8155,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Red Dragon's Breath Potion (Adult)](equipment/consumable-12-Bn1o5foPq1kqZKf0.htm)|Potion de souffle du dragon rouge adulte|`@Compendium[pf2e.equipment-srd.Bn1o5foPq1kqZKf0]`|
 |[Red Dragon's Breath Potion (Wyrm)](equipment/consumable-17-d2sU6nOtBdIVJMVI.htm)|Potion de souffle de dracosire rouge|`@Compendium[pf2e.equipment-srd.d2sU6nOtBdIVJMVI]`|
 |[Red Dragon's Breath Potion (Young)](equipment/consumable-07-fkGHYeGVK6O2VW1s.htm)|Potion de souffle de jeune dragon rouge|`@Compendium[pf2e.equipment-srd.fkGHYeGVK6O2VW1s]`|
-|[Redpitch Bomb (Greater)](equipment/weapon-11-CS3mKu9koUfRiHJo.htm)|Bombe de Redpitch (supérieure)|`@Compendium[pf2e.equipment-srd.CS3mKu9koUfRiHJo]`|
-|[Redpitch Bomb (Major)](equipment/weapon-17-riHdB9PBAXZUMsWC.htm)|Bombe de Redpitch (majeure)|`@Compendium[pf2e.equipment-srd.riHdB9PBAXZUMsWC]`|
-|[Redpitch Bomb (Moderate)](equipment/weapon-03-qWRigVOjyLvSW6UA.htm)|Bombe de Redpitch (modérée)|`@Compendium[pf2e.equipment-srd.qWRigVOjyLvSW6UA]`|
-|[Redpitch Bomb (lesser)](equipment/weapon-01-HtcjYkGS8vuC0e7T.htm)|Bombe de Redpitch (inférieure)|`@Compendium[pf2e.equipment-srd.HtcjYkGS8vuC0e7T]`|
+|[Redpitch Bomb (Greater)](equipment/weapon-11-CS3mKu9koUfRiHJo.htm)|Bombe de poix-rouge supérieure|`@Compendium[pf2e.equipment-srd.CS3mKu9koUfRiHJo]`|
+|[Redpitch Bomb (Major)](equipment/weapon-17-riHdB9PBAXZUMsWC.htm)|Bombe de Poix-rouge majeure|`@Compendium[pf2e.equipment-srd.riHdB9PBAXZUMsWC]`|
+|[Redpitch Bomb (Moderate)](equipment/weapon-03-qWRigVOjyLvSW6UA.htm)|Bombe de poix-rouge modérée|`@Compendium[pf2e.equipment-srd.qWRigVOjyLvSW6UA]`|
+|[Redpitch Bomb (lesser)](equipment/weapon-01-HtcjYkGS8vuC0e7T.htm)|Bombe poix-rouge inférieure|`@Compendium[pf2e.equipment-srd.HtcjYkGS8vuC0e7T]`|
 |[Refined Pesh](equipment/consumable-01-Vy3z2cIQ8uJRUMYw.htm)|Pesh raffiné|`@Compendium[pf2e.equipment-srd.Vy3z2cIQ8uJRUMYw]`|
 |[Reflecting Shield](equipment/armor-18-La9qYc5NHsg423Jb.htm)|Bouclier réfléchissant|`@Compendium[pf2e.equipment-srd.La9qYc5NHsg423Jb]`|
 |[Reforging Shield](equipment/armor-15-aPD0z9dBsHqgiCW0.htm)|Bouclier réparateur|`@Compendium[pf2e.equipment-srd.aPD0z9dBsHqgiCW0]`|
@@ -8554,10 +8554,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Talisman Cord (Lesser)](equipment/equipment-04-tnPteWjbm97bdTj5.htm)|Corde de talisman (inférieur)|`@Compendium[pf2e.equipment-srd.tnPteWjbm97bdTj5]`|
 |[Talisman of the Sphere](equipment/equipment-20-imBDGoQJnvfWYuLC.htm)|Talisman de la sphère|`@Compendium[pf2e.equipment-srd.imBDGoQJnvfWYuLC]`|
 |[Tamchal Chakram](equipment/weapon-00-kedgBVNDRAdmseRe.htm)|Chakram tamchal|`@Compendium[pf2e.equipment-srd.kedgBVNDRAdmseRe]`|
-|[Tanglefoot Bag (Greater)](equipment/weapon-11-5Qkz4RVJr2Kx3RL6.htm)|Sacoche immobilisante (supérieur)|`@Compendium[pf2e.equipment-srd.5Qkz4RVJr2Kx3RL6]`|
-|[Tanglefoot Bag (Lesser)](equipment/weapon-01-T6Appwwl6nUl56Xj.htm)|Sacoche immobilisante (inférieur)|`@Compendium[pf2e.equipment-srd.T6Appwwl6nUl56Xj]`|
-|[Tanglefoot Bag (Major)](equipment/weapon-17-BxJNWWvpxacDIsdt.htm)|Sacoche immobilisante (majeur)|`@Compendium[pf2e.equipment-srd.BxJNWWvpxacDIsdt]`|
-|[Tanglefoot Bag (Moderate)](equipment/weapon-03-evBPzM1VsuYcoenn.htm)|Sacoche immobilisante (modéré)|`@Compendium[pf2e.equipment-srd.evBPzM1VsuYcoenn]`|
+|[Tanglefoot Bag (Greater)](equipment/weapon-11-5Qkz4RVJr2Kx3RL6.htm)|Sacoche immobilisante supérieure|`@Compendium[pf2e.equipment-srd.5Qkz4RVJr2Kx3RL6]`|
+|[Tanglefoot Bag (Lesser)](equipment/weapon-01-T6Appwwl6nUl56Xj.htm)|Sacoche immobilisante inférieure|`@Compendium[pf2e.equipment-srd.T6Appwwl6nUl56Xj]`|
+|[Tanglefoot Bag (Major)](equipment/weapon-17-BxJNWWvpxacDIsdt.htm)|Sacoche immobilisante majeure|`@Compendium[pf2e.equipment-srd.BxJNWWvpxacDIsdt]`|
+|[Tanglefoot Bag (Moderate)](equipment/weapon-03-evBPzM1VsuYcoenn.htm)|Sacoche immobilisante modérée|`@Compendium[pf2e.equipment-srd.evBPzM1VsuYcoenn]`|
 |[Tankard owned by Cayden Cailean](equipment/treasure-00-HIxtCuH5YXNqit0W.htm)|Chope ayant appartenu à Cayden Cailean|`@Compendium[pf2e.equipment-srd.HIxtCuH5YXNqit0W]`|
 |[Taw Launcher](equipment/weapon-00-wbJPWXKzQBKYZ74s.htm)|Lanceur de billes|`@Compendium[pf2e.equipment-srd.wbJPWXKzQBKYZ74s]`|
 |[Tears of Death](equipment/consumable-20-gDGPvobJV1QGYBPy.htm)|Larmes de la mort|`@Compendium[pf2e.equipment-srd.gDGPvobJV1QGYBPy]`|
