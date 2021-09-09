@@ -2,11 +2,46 @@
 
  * **libre**: 184
  * **officielle**: 49
+ * **aucune**: 29
 
 
-Dernière mise à jour: 2021-09-01 12:22 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-09 06:11 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[1bjReaLqCD9pvBJ3.htm](backgrounds/1bjReaLqCD9pvBJ3.htm)|Academy Dropout|
+|[3YQ1Wcjzk8ftoyo7.htm](backgrounds/3YQ1Wcjzk8ftoyo7.htm)|Astrologer|
+|[58aWxmagtsuO0jeP.htm](backgrounds/58aWxmagtsuO0jeP.htm)|Eidolon Contact (Religion)|
+|[6PGFGpkNQv6uuhO3.htm](backgrounds/6PGFGpkNQv6uuhO3.htm)|Eidolon Contact (Nature)|
+|[76j9ds5URXv1dqnm.htm](backgrounds/76j9ds5URXv1dqnm.htm)|Plant Whisperer|
+|[9YKU3qbxJpWHcNQE.htm](backgrounds/9YKU3qbxJpWHcNQE.htm)|Mystic Tutor (Arcana)|
+|[bvPPc10SYahijgLr.htm](backgrounds/bvPPc10SYahijgLr.htm)|Eidolon Contact (Occultism)|
+|[byyceQSVT0H5GfNB.htm](backgrounds/byyceQSVT0H5GfNB.htm)|Anti-Magical|
+|[D2bageI3HMT2xyyD.htm](backgrounds/D2bageI3HMT2xyyD.htm)|Surge Investigator (Occultism)|
+|[e58GwSBLNslyfqMF.htm](backgrounds/e58GwSBLNslyfqMF.htm)|Mystic Tutor (Occultism)|
+|[EYPorNgoYcp37akm.htm](backgrounds/EYPorNgoYcp37akm.htm)|Magical Misfit|
+|[ffEvUlA2AZOIXUej.htm](backgrounds/ffEvUlA2AZOIXUej.htm)|Surge Investigator (Nature)|
+|[HNdGlDHkcczqNw2U.htm](backgrounds/HNdGlDHkcczqNw2U.htm)|Musical Prodigy|
+|[I5cRrqrPCHsQqFI9.htm](backgrounds/I5cRrqrPCHsQqFI9.htm)|Magical Merchant|
+|[IOcjPmcemrQFFb2b.htm](backgrounds/IOcjPmcemrQFFb2b.htm)|Time Traveler|
+|[jpgO5zofecGeyXd5.htm](backgrounds/jpgO5zofecGeyXd5.htm)|Occult Librarian|
+|[LoeTd2SS6jfEgo1H.htm](backgrounds/LoeTd2SS6jfEgo1H.htm)|Genie-Blessed|
+|[nAe65lvsOJAIHGGT.htm](backgrounds/nAe65lvsOJAIHGGT.htm)|False Medium|
+|[o3ArTg5c8pLe7iGm.htm](backgrounds/o3ArTg5c8pLe7iGm.htm)|Song of the Deep|
+|[tqnrnXVTbdehohPL.htm](backgrounds/tqnrnXVTbdehohPL.htm)|Street Preacher|
+|[UjN1dEgMnJdzq4HT.htm](backgrounds/UjN1dEgMnJdzq4HT.htm)|Student of Magic (Occultism)|
+|[UU4MOe7Lozt9V8tg.htm](backgrounds/UU4MOe7Lozt9V8tg.htm)|Seer of the Dead|
+|[w2GSRC5uMcSUfPGJ.htm](backgrounds/w2GSRC5uMcSUfPGJ.htm)|Chosen One|
+|[W6MiTPAjlRxO8TFq.htm](backgrounds/W6MiTPAjlRxO8TFq.htm)|Eidolon Contact (Arcana)|
+|[WIWR8jURAdSAzxIh.htm](backgrounds/WIWR8jURAdSAzxIh.htm)|Magical Experiment|
+|[wMFy6cJIEOUX9gLZ.htm](backgrounds/wMFy6cJIEOUX9gLZ.htm)|Student of Magic (Nature)|
+|[xbyQ1RAF6x4ceXLf.htm](backgrounds/xbyQ1RAF6x4ceXLf.htm)|Energy Scarred|
+|[Y47AuCS5D1R4U4sn.htm](backgrounds/Y47AuCS5D1R4U4sn.htm)|Student of Magic (Religion)|
+|[zOq3K7jpF2E1NmZi.htm](backgrounds/zOq3K7jpF2E1NmZi.htm)|Student of Magic (Arcana)|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

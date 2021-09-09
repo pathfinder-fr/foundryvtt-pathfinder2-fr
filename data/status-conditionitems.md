@@ -1,17 +1,18 @@
 # État de la traduction (conditionitems)
 
  * **libre**: 9
- * **officielle**: 31
- * **changé**: 2
+ * **officielle**: 30
+ * **changé**: 3
 
 
-Dernière mise à jour: 2021-09-01 12:22 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-09 06:11 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[D5mg6Tc7Jzrj6ro7.htm](conditionitems/D5mg6Tc7Jzrj6ro7.htm)|Encumbered|Surchargé|changé|
 |[iU0fEDdBp3rXpTMC.htm](conditionitems/iU0fEDdBp3rXpTMC.htm)|Hidden|Caché|changé|
 |[yZRUzMqrMmfLu0V1.htm](conditionitems/yZRUzMqrMmfLu0V1.htm)|Dying|Mourant|changé|
 
@@ -29,7 +30,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9qGBRpbX9NEwtAAr.htm](conditionitems/9qGBRpbX9NEwtAAr.htm)|Controlled|Contrôlé|officielle|
 |[AdPVz7rbaVSRxHFg.htm](conditionitems/AdPVz7rbaVSRxHFg.htm)|Fascinated|Fasciné|officielle|
 |[AJh5ex99aV6VTggg.htm](conditionitems/AJh5ex99aV6VTggg.htm)|Flat-Footed|Pris au dépourvu|officielle|
-|[D5mg6Tc7Jzrj6ro7.htm](conditionitems/D5mg6Tc7Jzrj6ro7.htm)|Encumbered|Surchargé|officielle|
 |[dfCMdR4wnpbYNTix.htm](conditionitems/dfCMdR4wnpbYNTix.htm)|Stunned|Étourdi|officielle|
 |[DmAIPqOBomZ7H95W.htm](conditionitems/DmAIPqOBomZ7H95W.htm)|Concealed|Masqué|officielle|
 |[dTwPJuKgBQCMxixg.htm](conditionitems/dTwPJuKgBQCMxixg.htm)|Petrified|Pétrifié|officielle|

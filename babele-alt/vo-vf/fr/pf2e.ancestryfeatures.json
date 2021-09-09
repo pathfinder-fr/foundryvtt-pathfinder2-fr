@@ -104,7 +104,7 @@
         {
             "id": "Rite of Knowing",
             "name": "Rite of Knowing (Rite du savoir)",
-            "description": "</p>>Vous avez amélioré votre exosquelette avec une connexion à Axis, ce qui vous permet de puiser dans les connaissances infinies de ce plan. Vous gagnez l'action @Compendium[pf2e.actionspf2e.k5TASjIxghvGCy7g]{Appel à Axis}.</p>>"
+            "description": "</p>Vous avez amélioré votre exosquelette avec une connexion à Axis, ce qui vous permet de puiser dans les connaissances infinies de ce plan. Vous gagnez l'action @Compendium[pf2e.actionspf2e.k5TASjIxghvGCy7g]{Appel à Axis}.</p>"
         },
         {
             "id": "Great Gnoll",
@@ -234,7 +234,7 @@
         {
             "id": "Rite of Light",
             "name": "Rite of Light (Rite de lumière)",
-            "description": "<p>Votre exosquelette porte de petites pousses qui peuvent partager la vie. Lorsque vous utilisez Guérison par le soleil, vous pouvez restaurer les points de vie d'un allié adjacent au lieu de vous-même. Cet allié devient temporairement immunisé contre toutes les utilisations de Guérison du soleil pendant 1 jour.</p>>"
+            "description": "<p>Votre exosquelette porte de petites pousses qui peuvent partager la vie. Lorsque vous utilisez Guérison par le soleil, vous pouvez restaurer les points de vie d'un allié adjacent au lieu de vous-même. Cet allié devient temporairement immunisé contre toutes les utilisations de Guérison du soleil pendant 1 jour.</p>"
         },
         {
             "id": "Wings",
@@ -824,7 +824,7 @@
         {
             "id": "Rite of Invocation",
             "name": "Rite of Invocation (Rite d'invocation)",
-            "description": "<p>Vous avez augmenté votre exosquelette avec de la magie. Vous gagnez un tour de magie de la liste des sorts arcaniques ou occultes. Vous pouvez lancer ce sort comme un sort inné à volonté. Un tour de magie est augmenté d'un niveau de sort égal à la moitié de votre niveau arrondi à l'unité supérieure.</p>>"
+            "description": "<p>Vous avez augmenté votre exosquelette avec de la magie. Vous gagnez un tour de magie de la liste des sorts arcaniques ou occultes. Vous pouvez lancer ce sort comme un sort inné à volonté. Un tour de magie est augmenté d'un niveau de sort égal à la moitié de votre niveau arrondi à l'unité supérieure.</p>"
         },
         {
             "id": "Laborer Android",
@@ -909,7 +909,7 @@
         {
             "id": "Insightful Goloma",
             "name": "Insightful Goloma (Goloma perspicace)",
-            "description": "</p>>Vous avez appris à repérer les signes révélateurs de sentiments dangereux pour vous aider à éviter les ennuis. Vous gagnez un bonus de circonstances de +1 à votre DD de Perception contre les tentatives de vous Mentir et à vos tests de Perception pour Deviner les intentions.</p>."
+            "description": "</p>Vous avez appris à repérer les signes révélateurs de sentiments dangereux pour vous aider à éviter les ennuis. Vous gagnez un bonus de circonstances de +1 à votre DD de Perception contre les tentatives de vous Mentir et à vos tests de Perception pour Deviner les intentions.</p>."
         },
         {
             "id": "Stickytoe Grippli",

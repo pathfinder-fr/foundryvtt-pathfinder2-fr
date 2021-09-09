@@ -324,7 +324,7 @@
         {
             "id": "Barkeep",
             "name": "Tavernier",
-            "description": "<p>Vous avez cinq talents : porter des tonneaux, boire, polir des chopes, boire et boire. Vous avez travaillé dans un bar, où vous avez appris à tenir l’alcool et à vous sociabiliser bruyamment avec la clientèle.</p>\n<p>>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Constitution</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans les compétences Diplomatie et Connaissance des alcools. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.4RjDxgvNXNl5GG9d]{Animal social}.</p>"
+            "description": "<p>Vous avez cinq talents : porter des tonneaux, boire, polir des chopes, boire et boire. Vous avez travaillé dans un bar, où vous avez appris à tenir l’alcool et à vous sociabiliser bruyamment avec la clientèle.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Constitution</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans les compétences Diplomatie et Connaissance des alcools. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.4RjDxgvNXNl5GG9d]{Animal social}.</p>"
         },
         {
             "id": "Teacher (Performance)",
