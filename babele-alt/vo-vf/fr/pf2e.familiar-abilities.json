@@ -177,5 +177,7 @@
             "description": "<p>Votre familier comprend et parle une langue que vous connaissez.</p>"
         }
     ],
-    "mapping": {}
+    "mapping": {
+        "description": "data.description.value"
+    }
 }

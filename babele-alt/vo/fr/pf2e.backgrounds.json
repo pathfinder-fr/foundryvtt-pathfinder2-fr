@@ -1217,5 +1217,7 @@
             "description": "<p>Vous aspirez à fréquenter l'académie de magie du Magaambya mais le destin semble vous contrarier à chaque instant. Vous n'avez pas réussi à obtenir un parrainage et avez perdu une collection de manuels utiles à cause de dégâts inattendus causés par les insectes. Vous avez néanmoins fait le long voyage jusqu'à Nantambu malgré un temps épouvantable, des routes inhabituellement mauvaises et des compagnons de voyage indifférents. Pourtant, vous avez persévéré. Maintenant que vous êtes ici, seul mais déterminé, vous ne laisserez rien se mettre en travers de votre chemin.</p>\n<p>Choisissez deux primes de caractéristique. L'une doit être de <strong>Constitution</strong> ou de <strong>Charisme</strong> et l'autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Diplomatie. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.KpFetnUqTiweypZk]{Bonne impression de groupe}. Vous êtes également qualifié en Connaissance de l'académie.</p>\n<p>Votre branche primaire recommandée est celle des mages du Soleil tempétueux.</p>"
         }
     ],
-    "mapping": {}
+    "mapping": {
+        "description": "data.description.value"
+    }
 }

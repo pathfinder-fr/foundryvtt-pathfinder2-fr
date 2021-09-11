@@ -1047,5 +1047,7 @@
             "description": "<p>Vous provenez d'une lignée de strix avec des ailes exceptionnellement grandes et de longs ergots. Vous obtenez une attaque à mains nues d'ergots qui inflige [[/r 1d4 #tranchants]]{1d4 dégâts tranchants}. Vos attaques d'ergots sont dans le groupe pugilat et ont les traits agile, finesse et à mains nues.</p>"
         }
     ],
-    "mapping": {}
+    "mapping": {
+        "description": "data.description.value"
+    }
 }

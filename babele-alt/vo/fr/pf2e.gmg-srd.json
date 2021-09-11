@@ -472,5 +472,7 @@
             "description": "<p>. Quand un enfant de votre famille a disparu dans un marché bondé, ce personnage vous a aidé à interroger les marchands et les clients et à retrouver l’enfant avant qu’il ne lui arrive malheur.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.4RjDxgvNXNl5GG9d]{Animal social} à vos options d’historique.</p>"
         }
     ],
-    "mapping": {}
+    "mapping": {
+        "description": "content"
+    }
 }

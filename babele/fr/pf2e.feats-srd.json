@@ -23803,6 +23803,7 @@
         }
     ],
     "mapping": {
+        "description": "data.description.value",
         "prereq": "data.prerequisites.value"
     }
 }

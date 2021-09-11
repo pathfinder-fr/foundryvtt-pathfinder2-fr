@@ -782,5 +782,7 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.yH13KXUK2x093NUv]{Fondu dans la foule}.</p>\nVous gagnez un bonus d'état de +2 aux tests de Duperie et de Furtivité pour passer inaperçu au milieu de la foule, et vous ignorez le terrain difficile causé par la foule.</p>"
         }
     ],
-    "mapping": {}
+    "mapping": {
+        "description": "data.description.value"
+    }
 }

@@ -28,11 +28,16 @@ def addLists(pack, data, entry):
         else:
           entry[k.lower()] = data["listsFR"][k]
 
+  if "extract" in pack:
+    for k in pack["extract"]:
+      if k in data["dataFR"] and len(data["dataFR"][k].strip()) > 0:
+        entry[k.lower()] = data["dataFR"][k]
+
 packs = getPacks()
 translations = {}
 
 for p in packs:   
-  
+
   key = "%s.%s" % ("pf2e",p["name"])  
   translations[p["id"]] = []
   packName = p["transl"]
@@ -48,6 +53,12 @@ for p in packs:
   count = { "aucune": 0, "libre": 0, "officielle": 0, "changé": 0, "doublon": 0, 
            "auto-trad": 0, "auto-googtrad": 0, "vide": 0 }
   
+  # add mappings
+  babele['mapping']["description"] = p['paths']['desc']
+  babeleVfVo['mapping']["description"] = p['paths']['desc']
+  babeleVoVf['mapping']["description"] = p['paths']['desc']
+  babeleVo['mapping']["description"] = p['paths']['desc']
+
   if "lists" in p:
     for k in p["lists"]:
       babele['mapping'][k.lower()] = p["lists"][k]
@@ -55,6 +66,13 @@ for p in packs:
       babeleVoVf['mapping'][k.lower()] = p["lists"][k]
       babeleVo['mapping'][k.lower()] = p["lists"][k]
   
+  if "extract" in p:
+    for k in p["extract"]:
+      babele['mapping'][k.lower()] = p["extract"][k]
+      babeleVfVo['mapping'][k.lower()] = p["extract"][k]
+      babeleVoVf['mapping'][k.lower()] = p["extract"][k]
+      babeleVo['mapping'][k.lower()] = p["extract"][k]
+
   # read all files in folder
   for fpath in all_files:
     
@@ -93,10 +111,13 @@ for p in packs:
     babeleVfVo['entries'].append(entry)
     # vo-vf (names in both languages, vo first)
     entry = { 'id': data['nameEN'], 'name': ("%s (%s)" % (data['nameEN'], data['nameFR'])), 'description': data['descrFR'] }
+    addLists(p, data, entry)
     babeleVoVf['entries'].append(entry)
     # vo (only descriptions in french)
     entry = { 'id': data['nameEN'], 'name': data['nameEN'], 'description': data['descrFR'] }
+    addLists(p, data, entry)
     babeleVo['entries'].append(entry)
+
 
   print(BABELE + key + ".json")
   with open(BABELE + key + ".json", 'w', encoding='utf-8') as f:

@@ -1,5 +1,7 @@
 {
     "label": "Macros PF2e",
     "entries": [],
-    "mapping": {}
+    "mapping": {
+        "description": "data.description.value"
+    }
 }
