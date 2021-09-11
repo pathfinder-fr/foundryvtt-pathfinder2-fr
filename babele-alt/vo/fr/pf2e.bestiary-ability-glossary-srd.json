@@ -2,84 +2,9 @@
     "label": "Aptitudes du bestiaire",
     "entries": [
         {
-            "id": "At-Will Spells",
-            "name": "At-Will Spells",
-            "description": "<p>Le monstre peut lancer ses sorts à volonté autant de fois qu’il le souhaite sans utiliser d’emplacement de sort</p>"
-        },
-        {
-            "id": "Instrument of Faith",
-            "name": "Instrument of Faith",
-            "description": "<p>Le gardien divin est un phare pour la foi de sa divinité. Un prêtre de la divinité protectrice du gardien divin peut canaliser un sort de @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} à travers un gardien divin qu'il peut voir dans un rayon de 18 mètres. Le prêtre détermine la cible ou la zone pour le sort comme s'il se tenait dans la case du gardien divin.</p>"
-        },
-        {
-            "id": "Engulf",
-            "name": "Engulf",
-            "description": "<p>Le monstre Marche rapidement d’une distance maximale égale à deux fois sa Vitesse et il peut traverser la case de toute créature qui se trouve sur son chemin. Toute créature d’une taille inférieure ou égale à celle du monstre et dont la case est traversée par ce dernier peut faire un jet de Réflexes avec le DD indiqué pour éviter de se faire engloutir. Une créature incapable d’agir échoue automatiquement à ce jet de sauvegarde. Si une créature réussit son jet de sauvegarde, elle peut décider si elle est repoussée sur le côté (hors du chemin du monstre) ou si elle reste devant le monstre et est poussée par celui-ci jusqu’à la fin de son déplacement. Le monstre ne peut tenter d’Engloutir une créature qu’une fois par utilisation de l’action Engloutir. Le monstre peut contenir autant de créatures qu’il peut s’en trouver dans son espace.</p>\n<p>Une créature qui échoue à son jet de sauvegarde se retrouve aspirée dans le corps du monstre. Elle est alors @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippée}, @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 et doit retenir sa respiration ou commencer d’asphyxier. La créature subit la quantité de dégâts indiquée dans le descriptif du pouvoir au moment où elle est engloutie, puis de nouveau à la fin de chacun de ses tours tant qu’elle est engloutie. Une créature engloutie peut se libérer en tentant de @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{S’échapper} en utilisant le DD d’évasion indiqué. La créature engloutie peut également attaquer le monstre dans lequel elle se trouve, mais seulement à l’aide d’attaques à mains nues ou d’armes dont l’Encombrement est léger ou inférieur. La créature engloutissante est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} contre cette attaque. Si le monstre subit une quantité de dégâts perforants ou tranchants supérieure ou égale à la valeur de Rupture indiquée par une attaque ou un sort unique, la créature engloutie arrive à s’extraire de son corps. Une créature qui arrive à se libérer d’une manière ou d’une autre peut immédiatement respirer normalement et quitte la case du monstre.</p>\n<p>Si le monstre meurt, sa forme se délite et les créatures qu’il a englouties sont automatiquement relâchées.</p>"
-        },
-        {
-            "id": "Frightful Presence",
-            "name": "Frightful Presence",
-            "description": "<p>Une créature qui pénètre dans la zone d’effet doit faire un jet de Volonté. Quel que soit le résultat du jet de sauvegarde, la créature est temporairement immunisée contre la Présence terrifiante du monstre pendant 1 minute.</p>\n<p><strong>Succès critique</strong> La créature n’est pas affectée par la présence.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 1.</p>\n<p><strong>Échec</strong> La créature est Effrayée 2.</p>\n<p><strong>Échec critique</strong> La créature est Effrayée 4.</p>"
-        },
-        {
-            "id": "Improved Knockdown",
-            "name": "Improved Knockdown",
-            "description": "<p>Le monstre peut utiliser @Compendium[pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]{Renversement} comme une action libre déclenchée par la réussite de son attaque initiale.</p>"
-        },
-        {
-            "id": "Swallow Whole",
-            "name": "Swallow Whole",
-            "description": "<p>Le monstre tente d’avaler une créature dont la taille est inférieure ou égale à la taille indiquée et qu’il a déjà agrippée dans sa gueule ou entre ses mâchoires. Si la créature avalée est de la taille maximale indiquée dans le descriptif du pouvoir, le monstre ne peut plus utiliser l’action Gober. Si la créature est plus petite que ce maximum, le monstre peut généralement gober d’autres créatures. Le MJ détermine alors le nombre de créatures.</p>\n<p>Le monstre fait un test d’Athlétisme opposé au DD de Réflexes de la créature agrippée. S’il réussit, il gobe la créature. La gueule ou les mâchoires du monstre sont alors libérées de la créature qu’il vient de gober et il peut alors les utiliser pour Frapper ou Agripper une nouvelle créature. Le monstre ne peut pas attaquer les créatures qu’il a gobées.</p>\n<p>Une créature gobée est @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippée}, @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 et doit retenir sa respiration ou commencer d’asphyxier. La créature gobée subit la quantité de dégâts indiquée dans le descriptif du pouvoir au moment où elle est gobée, puis de nouveau à la fin de chacun de ses tours tant qu’elle est gobée. Si la victime réussit à @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{S’échapper} de l’état Agrippé lié à ce pouvoir, elle fuit alors par la gueule du monstre. Elle libère ainsi également toute autre créature qui se trouve agrippée dans la gueule ou entre les mâchoires du monstre. La créature gobée peut également attaquer le monstre dans lequel elle se trouve, mais seulement à l’aide d’attaques à mains nues ou d’armes dont l’Encombrement est léger ou inférieur. La créature gobante est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} contre cette attaque. Si le monstre subit une quantité de dégâts perforants ou tranchants supérieure ou égale à la valeur de Rupture indiquée du fait d’une attaque ou d’un sort unique, la créature gobée parvient à s’extraire de son corps. Une créature qui arrive à se libérer en S’échappant ou en taillant sa route à travers le monstre peut immédiatement respirer normalement et quitte la case du monstre.</p>\n<p>Si le monstre meurt, une créature gobée peut être libérée par des créatures adjacentes au cadavre qui utilisent un total combiné de 3 actions pour éventrer le monstre avec une arme ou une attaque à mains nues qui inflige des dégâts perforants ou tranchants.</p>"
-        },
-        {
-            "id": "Aquatic Ambush",
-            "name": "Aquatic Ambush",
-            "description": "<p><strong>Conditions</strong> Le monstre se cache sous l’eau et une créature qui ne l’a pas détecté se situe dans le rayon indiqué en mètres.</p>\n<p><strong>Effet</strong> Le monstre se déplace dans l’eau et sur terre d’une distance maximum égale à sa Vitesse de nage + 3 m en direction de la créature déclencheuse. Le monstre Frappe la créature une fois qu’elle se trouve à portée. La créature est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} par cette Frappe.</p>"
-        },
-        {
-            "id": "Light Blindness",
-            "name": "Light Blindness",
-            "description": "<p> Quand il se trouve exposé à une lumière vive, le monstre est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglé} jusqu’à la fin de son prochain tour. Après cette exposition initiale, la lumière n’aveugle plus le monstre tant qu’il n’a pas passé 1 h dans les ténèbres. Néanmoins, le monstre se trouve dans l’état @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui} tant qu’il reste dans une zone de lumière vive.</p>"
-        },
-        {
-            "id": "Power Attack",
-            "name": "Power Attack",
-            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Effet</strong> Le monstre effectue une Frappe au corps-à-corps. Cela compte comme deux attaques lorsque vous calculez la Pénalité d'attaque multiple du monstre. Si la Frappe touche, le monstre inflige un dé de dégâts d'arme supplémentaire.</p>"
-        },
-        {
-            "id": "Swarm Mind",
-            "name": "Swarm Mind",
-            "description": "<p>Ce monstre n’est pas doté d’un esprit individuel (généralement car il est composé d’une nuée de petites créatures) et il est ainsi immunisé contre les effets mentaux qui ciblent seulement un nombre donné de créatures. Il est cependant toujours affecté par les effets mentaux qui prennent pour cible toutes les créatures qui se trouvent dans une zone.</p>"
-        },
-        {
-            "id": "Troop Defenses",
-            "name": "Troop Defenses",
-            "description": "<p>Les troupes sont composées de nombreux individus et, au fil des attaques et des camarades abattus, la taille des troupes diminue.</p>\n<p>La plupart des troupes commencent avec 16 cases (4 par 4), et leurs points de vie ont deux seuils répertoriés, généralement le premier est à 2/3 de leurs points de vie maximum et le second est à 1/3 de leurs points de vie maximum. Lorsque la troupe passe sous le premier seuil, elle perd 4 cases, ce qui lui laisse 12 cases, et le premier seuil devient le nouveau maximum de points de vie de la troupe. Lorsque la troupe passe sous le second seuil, elle perd à nouveau 4 cases, ce qui lui laisse 8 cases et le second seuil devient le nouveau maximum de points de vie de la troupe. Pour retrouver sa taille et son nombre maximal de points de vie, une troupe doit consacrer un temps d'arrêt à l'application d'un traitement à long terme aux blessés ou au recrutement de nouveaux membres pour remplacer ceux qui sont tombés. À 0 point de vie, la troupe est réduite à 4 cases, ce qui est trop peu pour la soutenir, elle se disperse donc entièrement, les quelques membres restants se rendant, s'enfuyant ou étant facilement éliminés, selon leur nature.</p>\n<p>Un effet de dégâts qui ne s'applique qu'à une unique cible, telle qu'une Frappe, ne peut pas forcer une troupe à franchir plus d'un seuil à la fois. Par exemple, si une troupe a 60 points de vie, avec des seuils à 40 et 20, une Frappe infligeant 50 points de vie la laisserait à 21 points de vie, juste au-dessus du deuxième seuil. Un effet de dégâts qui s'applique à une zone ou à plusieurs cibles peut franchir plusieurs seuils à la fois et potentiellement détruire toute la troupe d'un seul coup.</p>\n<p>Les effets qui n'infligent pas de dégâts ayant une zone ou qui ciblent toutes les créatures à proximité affectent une troupe normalement s'ils affectent la totalité de la zone occupée par la troupe. Si un effet possède une zone ou un nombre de cibles plus restreint, il n'a généralement aucun effet sur la troupe. Toutefois, si l'effet peut cibler au moins quatre créatures ou couvrir au moins quatre cases de la troupe et s'il est susceptible d'empêcher ses cibles d'agir, de les faire fuir ou de les rendre autrement incapables de fonctionner en tant que membres de la troupe pendant un round ou plus, la troupe perd un nombre de points de vie égal à la quantité requise pour la faire passer au seuil suivant, en retirant 4 cases. Si un effet doit à la fois infliger des dégâts et franchir automatiquement un seuil en raison de l'incapacité de certaines créatures de la troupe, appliquez d'abord les dégâts. Si les dégâts ne sont pas suffisants à eux seuls pour franchir un seuil, réduisez alors les points de vie pour franchir le seuil de l'effet de mise hors de combat.</p>"
-        },
-        {
-            "id": "Constrict",
-            "name": "Constrict",
-            "description": "<p>Le monstre inflige la quantité de dégâts indiquée à toutes les créatures qu’il a @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippées/Empoignées} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravées}. Chacune d’entre elles peut faire un jet de Vigueur basique avec le DD indiqué.</p>"
-        },
-        {
-            "id": "Darkvision",
-            "name": "Darkvision",
-            "description": "<p>Un monstre qui possède vision dans le noir n’a aucun mal à voir dans les zones plongées dans les ténèbres ou la lumière faible, mais il ne voit alors qu’en noir et blanc. Certaines formes de ténèbres magiques, comme le sort de niveau 4 @Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Ténèbres}, peuvent perturber le fonctionnement de vision dans le noir. Un monstre qui possède @Compendium[pf2e.bestiary-ability-glossary-srd.4Ho2xMPEC05aSxzr]{vision dans le noir supérieure} peut par contre voir même à travers ce type de ténèbres magiques.</p>"
-        },
-        {
-            "id": "Retributive Strike",
-            "name": "Retributive Strike",
-            "description": "<p><strong>Déclencheur</strong> Un ennemi blesse un allié du monstre et les deux créatures se trouvent dans un rayon de 4,5 m autour du monstre.</p>\n<p><strong>Effet</strong> L’allié gagne une résistance à tous les dégâts égale à 2 + le niveau du monstre contre les dégâts déclencheurs. Le monstre porte une Frappe au corps-à-corps àl’ennemi si celui-ci se trouve à sa portée.</p>"
-        },
-        {
-            "id": "Change Shape",
-            "name": "Change Shape",
-            "description": "<p>Le monstre change de forme pour une durée indéterminée. Il peut de nouveau faire appel à cette action pour reprendre sa forme naturelle ou adopter une nouvelle forme. Sauf indication contraire, un monstre ne peut pas utiliser <em>Changement de forme</em> pour prendre l’apparence d’un individu précis.</p>\n<p>Le Changement de forme est considéré comme un déguisement pour @Compendium[pf2e.action-macros.k5nW4jGyXD0Oq9LR]{Se déguiser} dans le cadre de la compétence Duperie. La transformation du monstre lui permet de faire échouer automatiquement les tests de Perception servant à déterminer s’il est bien un membre de l’ascendance ou du type de créature dont il a pris la forme et il gagne un bonus de statut de +4 à son DD de Duperie pour empêcher les autres de voir au travers de son déguisement.</p>\n<p> Le descriptif des pouvoirs de Changement de forme indique quelles formes le monstre peut revêtir. Le monstre ne gagne aucun des pouvoirs spéciaux de la nouvelle forme, seulement sa forme physique. Par exemple, pour chaque forme, il remplace ses Vitesses et Frappes d’origine et potentiellement ses sens ou sa taille. Tous ces changements sont indiqués dans son bloc de statistiques.</p>"
-        },
-        {
-            "id": "Regeneration",
-            "name": "Regeneration",
-            "description": "<p>Ce monstre regagne la quantité indiquée de points de vie à chaque round, au début de son tour. Tant qu’il bénéficie du pouvoir régénération, l’intensité de son état @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} ne peut jamais dépasser mourant 3. Cependant, s’il subit des dégâts d’un des types indiqués dans l’entrée régénération, son pouvoir de régénération devient alors inactif jusqu’à la fin de son prochain tour. Vous devez désactiver ce pouvoir avant d’appliquer ces dégâts car ils sont susceptibles de tuer le monstre en lui faisant atteindre l’état mourant 4.</p>"
+            "id": "Push",
+            "name": "Push",
+            "description": "<p><strong>Conditions</strong> La dernière action du monstre était une Frappe réussie avec le trait Bousculade dans l’entrée des dégâts.</p>\n<p><strong>Effet</strong> Le monstre repousse automatiquement la cible loin de lui. Sauf indication contraire dans le descriptif du pouvoir, la créature est repoussée de 1,5 m. Si l’attaque s’est soldée par un coup critique, cette distance est doublée.</p>"
         },
         {
             "id": "Sneak Attack",
@@ -87,59 +12,24 @@
             "description": "<p>Quand le monstre Frappe une créature qui se trouve dans l’état @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{pris au dépourvu} avec une arme de corps à corps agile ou de finesse, avec une attaque à mains nues agile ou de finesse ou avec une attaque d’arme à distance, il lui inflige également la quantité de dégâts de précision indiquée. Pour une attaque à distance avec une arme de jet, cette arme doit également posséder le trait agile ou finesse.</p>"
         },
         {
-            "id": "All-Around Vision",
-            "name": "All-Around Vision",
-            "description": "<p>Ce monstre peut voir simultanément dans toutes les directions et il ne peut donc pas être pris en tenaille.</p>"
-        },
-        {
-            "id": "Negative Healing",
-            "name": "Negative Healing",
-            "description": "<p>Une créature avec soins négatifs tire sa santé de l'énergie négative plutôt que de l'énergie positive. Elle est endommagée par l'énergie positive et n'est pas soignée par les effets positifs. Elle ne subit pas de dégâts négatifs et est soignée par les effets négatifs qui soignent les morts-vivants.</p>"
-        },
-        {
-            "id": "Improved Push",
-            "name": "Improved Push",
-            "description": "<p>. Le monstre peut utiliser @Compendium[pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl]{Bousculade} comme une action libre déclenchée par la réussite de son attaque initiale.</p>"
-        },
-        {
-            "id": "+1 Status to All Saves vs Magic",
-            "name": "+1 Status to All Saves vs Magic",
-            "description": ""
-        },
-        {
-            "id": "Form Up",
-            "name": "Form Up",
-            "description": "<p>La troupe choisit une des cases qu'elle occupe actuellement et redistribue ses cases dans n'importe quelle configuration dans laquelle toutes les cases sont contiguës et dans les 4,5 m de la case choisie. La troupe ne peut partager sa case avec d'autres créatures.</p>"
-        },
-        {
-            "id": "Divine Destruction",
-            "name": "Divine Destruction",
-            "description": "<p>Lorsque le gardien divin est réduit à 0 PV, il fait éruption d'énergie divine dans une émanation de 9 m, infligeant 1d6 points de dégâts par niveau. Ces dégâts sont positifs ou négatifs, déterminés par la source divine de sa divinité  (choisie à la création du gardien divin si la divinité offre un choix) et cette capacité gagne le trait correspondant. Chaque créature dans la zone doit tenter un test de Volonté avec les résultats suivants : </p>\n<hr />\n<p><strong>Succès critique</strong> La créature subit la moitié des dégâts.</p>\n<p><strong>Succès</strong> La créature subit la totalité des dégâts.</p>\n<p><strong>Échec</strong> La créature subit tous les dégâts et est temporairement maudite par la divinité protectrice. La créature devient @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 1} et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée 1} pendant 1 jour ; il s'agit d'un effet de malédiction qui utilise le DD de Volonté comme DD de contre.</p>\n<p><strong>Échec critique</strong> Comme en cas d'échec, sauf que la créature devient @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 2} et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée 2}.</p>"
-        },
-        {
-            "id": "Constant Spells",
-            "name": "Constant Spells",
-            "description": "<p> Un sort constant affecte le monstre sans que ce dernier ait besoin de le lancer. La durée du sort n’est pas déterminée. Si un sort constant est contré, le monstre peut le réactiver en faisant appel aux actions d’incantation normalement requises pour lancer le sort.</p>"
-        },
-        {
-            "id": "Knockdown",
-            "name": "Knockdown",
-            "description": "<p><strong>Conditions</strong> La dernière action du monstre était une Frappe réussie possédant le trait Renversement dans l’entrée des dégâts.</p>\n<p><strong>Effet</strong> Le monstre renverse la cible @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
-        },
-        {
-            "id": "Tremorsense",
-            "name": "Tremorsense",
-            "description": "<p>La perception des vibrations permet à un monstre de ressentir les vibrations causées par un déplacement sur une surface solide. Il s’agit d’un sens imprécis avec une portée limitée (indiquée dans le descriptif du pouvoir). La perception des vibrations ne fonctionne que si le monstre se trouve sur la même surface que le sujet à l’origine des vibrations, et seulement si celui-ci se déplace sur (ou creuse à travers) cette surface.</p>"
-        },
-        {
-            "id": "Greater Constrict",
-            "name": "Greater Constrict",
-            "description": "<p>Le monstre inflige la quantité de dégâts indiquée à toutes les créatures qu’il a @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippées/Empoignées} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravées}. Chacune d’entre elles peut faire un jet de Vigueur basique avec le DD indiqué. Si une créature échoue à son jet de sauvegarde, elle est @Compendium[pf2e.conditionspf2e.fBnFDH2MTzgFijKf]{Inconsciente}. Si elle réussit, elle est temporairement immunisée contre l’état inconscient causé par la Constriction supérieure pendant 1 minute.</p>"
-        },
-        {
             "id": "Shield Block",
             "name": "Shield Block",
-            "description": "<p><strong>Déclencheur</strong> Le monstre a équipé son bouclier et il subit des dégâts infligés par une attaque physique.</p>\n<p><strong>Effet</strong> Le monstre lève vivement son bouclier afin de dévier le coup. Le bouclier permet au monstre d’éviter de subir une quantité de dégâts égale à sa Solidité. Le monstre et le bouclier subissent les dégâts restants et le bouclier court le risque d’être brisé ou détruit.</p>"
+            "description": "<p><strong>Déclencheur</strong> Le monstre a levé son bouclier et il subit des dégâts infligés par une attaque physique.</p>\n<p><strong>Effet</strong> Le monstre interpose vivement son bouclier afin de dévier le coup. Le bouclier permet au monstre d’éviter de subir une quantité de dégâts égale à sa Solidité. Le monstre et le bouclier subissent les dégâts restants et le bouclier court le risque d’être brisé ou détruit.</p>"
+        },
+        {
+            "id": "Light Blindness",
+            "name": "Light Blindness",
+            "description": "<p> Quand il se trouve exposé à une lumière vive, le monstre est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglé} jusqu’à la fin de son prochain tour. Après cette exposition initiale, la lumière n’aveugle plus le monstre tant qu’il n’a pas passé 1 h dans les ténèbres. Néanmoins, le monstre se trouve dans l’état @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui} tant qu’il reste dans une zone de lumière vive.</p>"
+        },
+        {
+            "id": "Swarm Mind",
+            "name": "Swarm Mind",
+            "description": "<p>Ce monstre n’est pas doté d’un esprit individuel (généralement car il est composé d’une nuée de petites créatures) et il est ainsi immunisé contre les effets mentaux qui ciblent seulement un nombre donné de créatures. Il est cependant toujours affecté par les effets mentaux qui prennent pour cible toutes les créatures qui se trouvent dans une zone.</p>"
+        },
+        {
+            "id": "Retributive Strike",
+            "name": "Retributive Strike",
+            "description": "<p><strong>Déclencheur</strong> Un ennemi blesse un allié du monstre et les deux créatures se trouvent dans un rayon de 4,5 m autour du monstre.</p>\n<p><strong>Effet</strong> L’allié gagne une résistance à tous les dégâts égale à 2 + le niveau du monstre contre les dégâts déclencheurs. Le monstre porte une Frappe au corps-à-corps àl’ennemi si celui-ci se trouve à sa portée.</p>"
         },
         {
             "id": "Low-Light Vision",
@@ -147,129 +37,14 @@
             "description": "<p>Le monstre peut voir dans la lumière faible comme s’il s’agissait de lumière vive. Il ignore ainsi l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} causé par la lumière faible.</p>"
         },
         {
-            "id": "Telepathy",
-            "name": "Telepathy",
-            "description": "<p>Un monstre télépathe peut communiquer mentalement avec n’importe quelle créature qui se trouve dans la portée indiquée, tant qu’il partage une langue avec cette créature. Il n’a cependant pas accès aux pensées de cette créature et ne peut pas lui communiquer plus d’informations que s’il lui parlait normalement.</p>"
-        },
-        {
-            "id": "Aura",
-            "name": "Aura",
-            "description": "<p>L’aura d’un monstre affecte automatiquement tout ce qui se trouve dans une émanation spécifiée autour de ce monstre. Le monstre n’a pas besoin de faire appel à des actions pour utiliser son aura. Les effets de celle-ci sont en effet appliqués à certains moments précis, par exemple quand une créature termine son tour dans la zone d’effet de l’aura ou quand une créature pénètre dans cette zone.</p>\n<p>Si une aura ne fait rien d’autre qu’infliger des dégâts, elle est seulement présentée avec son rayon, la quantité de dégâts qu’elle inflige et un jet de sauvegarde. De telles auras infligent des dégâts à une créature quand elle pénètre dans sa zone d’effet ou quand elle commence son tour dans celle-ci. Une créature ne peut subir les dégâts d’une aura qu’une fois par round.</p>\n<p>Le MJ peut décider que l’aura d’un monstre n’affecte pas ses alliés. Par exemple, une créature peut avoir développé une immunité à la présence terrifiante d’un monstre si les deux se côtoient depuis longtemps.</p>"
-        },
-        {
-            "id": "Catch Rock",
-            "name": "Catch Rock",
-            "description": "<p><strong>Conditions</strong> Le monstre doit avoir une main libre, mais il peut @Compendium[pf2e.actionspf2e.wQYmDStjdjn0I26t]{Relâcher} quelque chose qu’il est en train de tenir dans le cadre de cette réaction.</p>\n<p><strong>Déclencheur</strong> Le monstre est pris pour cible par une Frappe utilisant un rocher jeté ou un rocher est sur le point de tomber sur le monstre.</p>\n<p><strong>Effet</strong> Le monstre gagne un bonus de circonstances de +4 à sa CA contre l’attaque déclencheuse ou à toute défense contre le rocher en train de lui tomber dessus. Si l’attaque échoue ou que le monstre réussit à se défendre du rocher en train de chuter, il rattrape alors le rocher dans sa main et ne subit pas de dégâts.</p>"
-        },
-        {
-            "id": "Lifesense",
-            "name": "Lifesense",
-            "description": "<p>La perception de la vie permet à un monstre de ressentir l’essence vitale des créatures vivantes et mortes-vivantes sur une portée donnée. Ce sens permet de différencier les énergies positives qui animent les créatures vivantes et les énergies négatives qui animent les créatures mortes-vivantes, de la même manière que la vue permet de différencier les couleurs.</p>"
-        },
-        {
-            "id": "Thoughtsense",
-            "name": "Thoughtsense",
-            "description": "<p>La Perception des pensées permet à un monstre de sentir toutes les créatures qui ne sont pas dénuées d'intelligence dans la portée indiquée.</p>"
-        },
-        {
-            "id": "Goblin Scuttle",
-            "name": "Goblin Scuttle",
-            "description": "<p><strong>Déclencheur</strong> Un allié gobelin termine une action de déplacement adjacent au combattant.</p>\n<hr />\n<p><strong>Effet</strong> Le combattant gobelin @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Fait un pas}.</p>"
-        },
-        {
-            "id": "Push",
-            "name": "Push",
-            "description": "<p><strong>Conditions</strong> La dernière action du monstre était une Frappe réussie avec le trait Bousculade dans l’entrée des dégâts.</p>\n<p><strong>Effet</strong> Le monstre repousse automatiquement la cible loin de lui. Sauf indication contraire dans le descriptif du pouvoir, la créature est repoussée de 1,5 m. Si l’attaque s’est soldée par un coup critique, cette distance est doublée.</p>"
-        },
-        {
             "id": "Buck",
             "name": "Buck",
             "description": "<p>La plupart des monstres qui servent de monture peuvent tenter de désarçonner des cavaliers importuns ou agaçants. Les montures n’utiliseront généralement pas cette réaction contre une créature en qui elles ont confiance, sauf si elles prennent peur ou sont maltraitées.</p>\n<p><strong>Déclencheur</strong> Une créature @Compendium[pf2e.actionspf2e.PM5jvValFkbFH3TV]{Se met en selle} ou utilise l’action @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Diriger un animal} alors qu’elle monte le monstre. </p>\n<p><strong>Effet</strong> La créature déclencheuse doit réussir un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-label=\"DD Désarçonner\" data-pf2-show-dc=\"gm\"></span>Réflexes</span> contre le DD indiqué ou tomber de la créature et se retrouver @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}. Si le jet de sauvegarde est un échec critique, la créature déclencheuse subit [[/roll 1d6 #contondants]]{1d6 dégâts contondants} en plus des dégâts causés par la chute.</p>"
         },
         {
-            "id": "Poison",
-            "name": "Poison",
-            "description": "<p> Quand une créature se trouve exposée au poison d’un monstre, elle doit réussir un jet de Vigueur pour éviter d’être empoisonnée. Le niveau du poison est le même que celui du monstre qui l’inocule. Les poisons suivent les règles des afflictions.</p>"
-        },
-        {
-            "id": "Attack of Opportunity",
-            "name": "Attack of Opportunity",
-            "description": "<p><strong>Déclencheur</strong> Une créature qui se trouve à portée du monstre utilise une action de manipulation ou de déplacement, fait une attaque à distance ou quitte une case lors d’une action de déplacement qu’elle entreprend.</p>\n<p><strong>Effet</strong> Le monstre porte une frappe contre la créature déclencheuse. Si l’attaque se solde par un coup critique et que le déclencheur était une action de manipulation, vous interrompez cette action. Cette Frappe n’est pas comptabilisée dans le malus d’attaques multiples du monstre et son malus d’attaques multiples ne s’applique pas à cette Frappe.</p>"
-        },
-        {
-            "id": "Ferocity",
-            "name": "Ferocity",
-            "description": "<p><strong>Déclencheur</strong> Le monstre est réduit à 0 PV.</p>\n<p><strong>Effet</strong> Le monstre n’est pas assommé et conserve 1 PV, mais l'intensité de son état @Compendium[pf2e.conditionspf2e.Yl48xTdMh3aeQYL2]{Blessé} augmente de 1. Il ne peut plus faire appel à ce pouvoir à partir de l’état Blessé 3.</p>"
-        },
-        {
-            "id": "Faith Bound",
-            "name": "Faith Bound",
-            "description": "<p>Un gardien divin ne peut pas attaquer une créature qui porte ou affiche ouvertement le symbole religieux de sa divinité protectrice, à moins que cette créature n'utilise d'abord une action hostile contre le gardien divin. Si le gardien divin est intelligent, il peut également attaquer une créature dont il pense qu'elle n'est pas fidèle à sa divinité ou qu'elle porte le symbole religieux comme une ruse (généralement après avoir réussi un test de Perception pour Deviner les intentions).</p>"
-        },
-        {
-            "id": "Scent",
-            "name": "Scent",
-            "description": "<p>L’odorat permet de sentir les odeurs dégagées par des créatures ou des objets. Il s’agit généralement d’un sens vague. La portée de ce sens est indiquée à côté de son nom et il ne fonctionne que si la créature ou l’objet concerné émet une odeur (par exemple, les créatures intangibles n’émettent généralement pas d’odeur).</p>\n<p>Si une créature émet une odeur importante ou se trouve dos au vent, le MJ peut doubler, voire tripler la portée des pouvoirs basés sur l’odorat et utilisés pour détecter cette créature, mais il peut également réduire cette portée si la créature se trouve face au vent.</p>"
-        },
-        {
-            "id": "Divine Innate Spells (Divine Warden)",
-            "name": "Divine Innate Spells (Divine Warden)",
-            "description": "<p>Un gardien divin dont la divinité protectrice possède une composante d'alignement quelconque obtient le tour de magie inné @Compendium[pf2e.spells-srd.qwZBXN6zBoB9BHXE]{Lance divine}. Un gardien divin avec une divinité protectrice neutre obtient à la place le tour de magie inné @Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{Hébètement}.</p>"
-        },
-        {
-            "id": "Faithful Weapon",
-            "name": "Faithful Weapon",
-            "description": "<p>Un gardien divin manie toujours l'arme de prédilection de sa divinité protectrice. Si l'arme est une arme à distance, le gardien divin génère automatiquement de nouvelles munitions à chaque attaque. Pour un gardien divin de niveau 4 ou plus, l'arme de prédilection de la divinité gagne les effets d'une rune @Compendium[pf2e.equipment-srd.DxCuJKynlnMQZHgp]{de Frappe} tant que le gardien divin la brandit ; au niveau 12, ces effets sont ceux d'une rune de @Compendium[pf2e. equipment-srd.KCQRFvUgbyclvOGi]{Frappe supérieure} et au niveau 19, ils sont à la place ceux d'une rune de @Compendium[pf2e.equipment-srd.woxl2FrrgAcJDu0t]{Frappe majeure}.</p>"
-        },
-        {
-            "id": "Grab",
-            "name": "Grab",
-            "description": "<p><strong>Conditions </strong>La dernière action du monstre était une Frappe réussie avec le trait Empoignade dans l’entrée des dégâts ou il a déjà empoigné ou agrippé une créature grâce à cette action.</p>\n<p><strong>Effet</strong> Jusqu’à la fin de son prochain tour, le monstre Empoigne/Agrippe automatiquement la cible. La créature est @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée/Agrippée} par la partie du corps que le monstre a utilisé pour porter son attaque et il ne peut pas utiliser celle-ci pour Frapper tant qu’il s’en sert pour empoigner/agripper sa cible. Le monstre peut réutiliser Empoignade/Agrippement pour étendre sa durée et maintenir ainsi toutes les créatures Empoignées/Agrippées jusqu’à la fin de son prochain tour.</p>\n<p>Une créature Empoignée/Agrippée peut utiliser l’action @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{S’échapper} pour se libérer de l’Empoignade/agrippement. Celle-ci prend également fin si le monstre s’éloigne des créatures qu’il Empoigne/Agrippe.</p>"
-        },
-        {
-            "id": "Throw Rock",
-            "name": "Throw Rock",
-            "description": "<p>Le monstre ramasse un rocher qui se trouve à portée ou qu’il avait mis de côté et le lance en faisant une Frappe à distance.</p>"
-        },
-        {
-            "id": "Improved Grab",
-            "name": "Improved Grab",
-            "description": "<p>Le monstre peut utiliser @Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Empoignade/Agrippement}comme une action gratuite déclenchée par la réussite de son attaque initiale. Un monstre qui possède <em>Empoignade/Agrippement amélioré</em> doit toujours dépenser une action pour augmenter la durée de la saisie des créatures qu’il a déjà empoignées.</p>"
-        },
-        {
-            "id": "Wind Up",
-            "name": "Wind Up",
-            "description": "<p>Pour qu'un mécanisme d'horlogerie puisse agir, il doit être remonté avec une clé unique par une autre créature. Cela prend 1 minute. Une fois remonté, il reste opérationnel pendant la durée indiquée, généralement 24 heures, après quoi il devient inconscient de son environnement et ne peut plus agir jusqu'à ce qu'il soit remonté. Certaines capacités des mécanismes d'horlogerie exigent qu'elles dépensent une partie de leur temps de fonctionnement restant. Ils ne peuvent pas en dépenser plus qu'ils n'en ont et s'arrêtent immédiatement lorsqu'il ne leur reste plus de temps. Si l'on ne sait pas exactement quand un mécanisme d'horlogerie a été remonté pour la dernière fois, la plupart des gardiens de mécanismes d'horlogerie remontent tous leurs mécanismes d'horlogerie à une heure fixe, généralement 8 heures du matin.</p>\n<p>Un mécanisme d'horlogerie dont l'entrée de remontage indique \"veille\" peut passer en mode veille par une activité à 3 actions. Son temps de fonctionnement ne diminue pas en mode veille et elle peut néanmoins sentir son environnement (avec une pénalité de -2 à la Perception). Elle ne peut pas agir, à une exception près : lorsqu'elle perçoit une créature, elle peut sortir du mode veille par réaction (en faisant un jet d'initiative, si c'est approprié).</p>\n<p>Une créature peut tenter de Désamorcer un dispositif d'horlogerie (avec un DD indiqué dans l'entrée de remontage). Pour chaque réussite, le mécanisme d'horlogerie perd 1 heure de temps opérationnel. Cela peut être fait même si le rouage de l'horloge est en mode veille.</p>"
-        },
-        {
-            "id": "Wavesense",
-            "name": "Wavesense",
-            "description": "<p>Ce sens permet à un monstre de ressentir les vibrations causées par un déplacement à travers un liquide. Il s’agit d’un sens imprécis avec une portée limitée (indiquée dans le descriptif du pouvoir). La perception des ondes ne fonctionne que si le monstre et le sujet se trouvent dans la même étendue de liquide et seulement si le sujet se déplace à travers ce liquide</p>"
-        },
-        {
-            "id": "Coven",
-            "name": "Coven",
-            "description": "<p>Ce monstre peut former un cercle avec un minimum de deux autres créatures qui possèdent également le pouvoir cercle. Ils doivent pour cela accomplir une cérémonie de 8 heures en compagnie de tous les futurs membres du cercle. Après la formation du cercle, chacun de ses membres bénéficie d’ajustements d’élite et ajuste son niveau conséquence.</p>\n<p>Les membres d’un cercle peuvent savoir où se trouvent les autres membres et dans quel état ils se trouvent en dépensant une action unique qui possède le trait concentration. Ils peuvent également ressentir les mêmes choses qu’un autre membre du cercle par une activité en deux actions qui possède le trait concentration.</p>\n<p>Les cercles font également bénéficier de sorts et de rituels leurs membres mais, pour être lancés, ceux-ci nécessitent la participation de trois membres du cercle qui ne se trouvent pas à plus de 9 m les uns des autres. Le membre d’un cercle peut contribuer à un sort de cercle grâce à une action unique d’incantation utilisant un unique composant verbal. Si deux membres d’un cercle ont contribué à ces actions au cours du dernier round, un troisième membre peut alors lancer un sort de cercle lors de son tour en accomplissant les actions d’incantation normales. Un cercle peut lancer ses sorts de cercle autant de fois qu’il le souhaite, mais il ne peut lancer qu’un seul sort de cercle par round.</p>\n<p>Tous les cercles confèrent à leurs membres le sort de niveau 8 @Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Métamorphose funeste} ainsi que tous les sorts suivants, qu’un cercle peut lancer à tous les niveaux jusqu’au niveau 5 : @Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure}, @Compendium[pf2e.spells-srd.FM3SmEW8N1FCRjqt]{Cadavre loquace}, @Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charme}, @Compendium[pf2e.spells-srd.HXhWYJviWalN5tQ2]{Clairaudience}, @Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance}, @Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{Déguisement illusoire}, @Compendium[pf2e.spells-srd.yM3KTTSAIHhyuP14]{Message onirique}, @Compendium[pf2e.spells-srd.Ek5XI0aEdZhBgm21]{Œil indiscret} et @Compendium[pf2e.spells-srd.Ucf8eynbZMfUucjE]{Scène illusoire}. Les créatures qui possèdent le pouvoir cercle confèrent également des sorts supplémentaires à tous les cercles qu’elles rejoignent. Un cercle peut également accomplir le rituel @Compendium[pf2e.spells-srd.XkDCzMIyc0YOjw05]{contrôle du climat} avec un DD de 23 au lieu du DD normal.</p> \n<p>Si le départ ou la mort d’un membre du cercle en réduit le nombre à moins de trois membres, les membres restants conservent leurs ajustements d’élite pendant 24 heures mais, sans assez de membres pour contribuer aux actions requises, ils ne peuvent plus lancer de sorts de cercle.</p>"
-        },
-        {
-            "id": "Divine Domain Spells (Divine Warden)",
-            "name": "Divine Domain Spells (Divine Warden)",
-            "description": "<p>Le gardien divin choisit deux des domaines de sa divinité protectrice. Le gardien divin peut lancer le sort de domaine de base pour les domaines qu'il a choisis. Le gardien divin dispose d'une réserve de focalisation de 1 point de focalisation. Il ne peut pas Refocaliser, mais sa réserve de focalisation se remplit automatiquement 24 heures après la dernière utilisation d'un point de focalisation. Si le gardien divin est au moins de niveau 10, il gagne également les sorts de domaine avancés pour les domaines qu'il a choisis et sa réserve de focalisation passe à 2 points de focalisation.</p>"
-        },
-        {
-            "id": "Trample",
-            "name": "Trample",
-            "description": "<p>Le monstre Marche rapidement sur une distance maximale égale au double de sa Vitesse et peut traverser les cases de créatures de la taille indiquée. Il Piétine alors chaque créature dans la case de laquelle il pénètre. Le monstre ne peut tenter de Piétiner une créature qu’une seule fois par utilisation de l’action Piétinement. Le monstre inflige les dégâts de la Frappe indiquée. Les créatures piétinées peuvent alors faire un jet de Réflexes basique avec le DD indiqué (aucun dégât sur un succès critique, la moitié des dégâts sur un succès, le double des dégâts sur un échec critique).</p>"
-        },
-        {
-            "id": "Disease",
-            "name": "Disease",
-            "description": "<p>Quand une créature est exposée à la maladie d’un monstre, elle doit réussir un jet de Vigueur pour éviter de succomber à ce mal. Le niveau de la maladie est le même que celui du monstre qui la transmet. Les maladies suivent les règles des afflictions.</p>"
-        },
-        {
-            "id": "Rend",
-            "name": "Rend",
-            "description": "<p>L’entrée Éventration indique une Frappe que le monstre peut faire.</p>\n<p><strong>Conditions</strong> Au cours d’un round, le monstre réussit deux Frappes consécutives du type indiqué contre le même ennemi.</p> \n<p>Effet</strong> Le monstre inflige une nouvelle fois automatiquement les dégâts de cette Frappe à cet ennemi.</p>"
+            "id": "Greater Darkvision",
+            "name": "Greater Darkvision",
+            "description": "<p>Une créature possédant vision dans le noir supérieure peut voir parfaitement dans des zones d'obscurité et de lumière faible, bien qu'une telle vision soit seulement en noir et blanc. Certaines formes d'obscurité magique, tel qu'un sort d'@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Obscurité} au niveau 4, bloquent la @Compendium[pf2e.bestiary-ability-glossary-srd.qCCLZhnp2HhP3Ex6]{Vision dans le noir}. Une créature avec Vision dans le noir supérieure, quoi qu'il en soit, peuvent voir même au travers de ces formes d'obscurité magique.</p>"
         },
         {
             "id": "Fast Healing",
@@ -277,9 +52,204 @@
             "description": "<p>Un monstre qui possède ce pouvoir regagne une quantité donnée de points de vie à chaque round, au début de son tour.</p>"
         },
         {
-            "id": "Greater Darkvision",
-            "name": "Greater Darkvision",
-            "description": "<p>Une créature possédant vision dans le noir supérieure peut voir parfaitement dans des zones d'obscurité et de lumière faible, bien qu'une telle vision soit seulement en noir et blanc. Certaines formes d'obscurité magique, tel qu'un sort d'@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Obscurité} au niveau 4, bloquent la @Compendium[pf2e.bestiary-ability-glossary-srd.qCCLZhnp2HhP3Ex6]{Vision dans le noir}. Une créature avec Vision dans le noir supérieure, quoi qu'il en soit, peuvent voir même au travers de ces formes d'obscurité magique.</p>"
+            "id": "+1 Status to All Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
+            "description": ""
+        },
+        {
+            "id": "Power Attack",
+            "name": "Power Attack",
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Effet</strong> Le monstre effectue une Frappe au corps-à-corps. Cela compte comme deux attaques lorsque vous calculez la Pénalité d'attaque multiple du monstre. Si la Frappe touche, le monstre inflige un dé de dégâts d'arme supplémentaire.</p>"
+        },
+        {
+            "id": "Trample",
+            "name": "Trample",
+            "description": "<p>Le monstre Marche rapidement sur une distance maximale égale au double de sa Vitesse et peut traverser les cases de créatures de la taille indiquée. Il Piétine alors chaque créature dans la case de laquelle il pénètre. Le monstre ne peut tenter de Piétiner une créature qu’une seule fois par utilisation de l’action Piétinement. Le monstre inflige les dégâts de la Frappe indiquée. Les créatures piétinées peuvent alors faire un jet de Réflexes basique avec le DD indiqué (aucun dégât sur un succès critique, la moitié des dégâts sur un succès, le double des dégâts sur un échec critique).</p>"
+        },
+        {
+            "id": "Wind Up",
+            "name": "Wind Up",
+            "description": "<p>Pour qu'un mécanisme d'horlogerie puisse agir, il doit être remonté avec une clé unique par une autre créature. Cela prend 1 minute. Une fois remonté, il reste opérationnel pendant la durée indiquée, généralement 24 heures, après quoi il devient inconscient de son environnement et ne peut plus agir jusqu'à ce qu'il soit remonté. Certaines capacités des mécanismes d'horlogerie exigent qu'elles dépensent une partie de leur temps de fonctionnement restant. Ils ne peuvent pas en dépenser plus qu'ils n'en ont et s'arrêtent immédiatement lorsqu'il ne leur reste plus de temps. Si l'on ne sait pas exactement quand un mécanisme d'horlogerie a été remonté pour la dernière fois, la plupart des gardiens de mécanismes d'horlogerie remontent tous leurs mécanismes d'horlogerie à une heure fixe, généralement 8 heures du matin.</p>\n<p>Un mécanisme d'horlogerie dont l'entrée de remontage indique \"veille\" peut passer en mode veille par une activité à 3 actions. Son temps de fonctionnement ne diminue pas en mode veille et elle peut néanmoins sentir son environnement (avec une pénalité de -2 à la Perception). Elle ne peut pas agir, à une exception près : lorsqu'elle perçoit une créature, elle peut sortir du mode veille par réaction (en faisant un jet d'initiative, si c'est approprié).</p>\n<p>Une créature peut tenter de Désamorcer un dispositif d'horlogerie (avec un DD indiqué dans l'entrée de remontage). Pour chaque réussite, le mécanisme d'horlogerie perd 1 heure de temps opérationnel. Cela peut être fait même si le rouage de l'horloge est en mode veille.</p>"
+        },
+        {
+            "id": "Telepathy",
+            "name": "Telepathy",
+            "description": "<p>Un monstre télépathe peut communiquer mentalement avec n’importe quelle créature qui se trouve dans la portée indiquée, tant qu’il partage une langue avec cette créature. Il n’a cependant pas accès aux pensées de cette créature et ne peut pas lui communiquer plus d’informations que s’il lui parlait normalement.</p>"
+        },
+        {
+            "id": "Aquatic Ambush",
+            "name": "Aquatic Ambush",
+            "description": "<p><strong>Conditions</strong> Le monstre se cache sous l’eau et une créature qui ne l’a pas détecté se situe dans le rayon indiqué en mètres.</p>\n<p><strong>Effet</strong> Le monstre se déplace dans l’eau et sur terre d’une distance maximum égale à sa Vitesse de nage + 3 m en direction de la créature déclencheuse. Le monstre Frappe la créature une fois qu’elle se trouve à portée. La créature est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} par cette Frappe.</p>"
+        },
+        {
+            "id": "All-Around Vision",
+            "name": "All-Around Vision",
+            "description": "<p>Ce monstre peut voir simultanément dans toutes les directions et il ne peut donc pas être pris en tenaille.</p>"
+        },
+        {
+            "id": "Coven",
+            "name": "Coven",
+            "description": "<p>Ce monstre peut former un cercle avec un minimum de deux autres créatures qui possèdent également le pouvoir cercle. Ils doivent pour cela accomplir une cérémonie de 8 heures en compagnie de tous les futurs membres du cercle. Après la formation du cercle, chacun de ses membres bénéficie d’ajustements d’élite et ajuste son niveau conséquence.</p>\n<p>Les membres d’un cercle peuvent savoir où se trouvent les autres membres et dans quel état ils se trouvent en dépensant une action unique qui possède le trait concentration. Ils peuvent également ressentir les mêmes choses qu’un autre membre du cercle par une activité en deux actions qui possède le trait concentration.</p>\n<p>Les cercles font également bénéficier de sorts et de rituels leurs membres mais, pour être lancés, ceux-ci nécessitent la participation de trois membres du cercle qui ne se trouvent pas à plus de 9 m les uns des autres. Le membre d’un cercle peut contribuer à un sort de cercle grâce à une action unique d’incantation utilisant un unique composant verbal. Si deux membres d’un cercle ont contribué à ces actions au cours du dernier round, un troisième membre peut alors lancer un sort de cercle lors de son tour en accomplissant les actions d’incantation normales. Un cercle peut lancer ses sorts de cercle autant de fois qu’il le souhaite, mais il ne peut lancer qu’un seul sort de cercle par round.</p>\n<p>Tous les cercles confèrent à leurs membres le sort de niveau 8 @Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Métamorphose funeste} ainsi que tous les sorts suivants, qu’un cercle peut lancer à tous les niveaux jusqu’au niveau 5 : @Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure}, @Compendium[pf2e.spells-srd.FM3SmEW8N1FCRjqt]{Cadavre loquace}, @Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charme}, @Compendium[pf2e.spells-srd.HXhWYJviWalN5tQ2]{Clairaudience}, @Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance}, @Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{Déguisement illusoire}, @Compendium[pf2e.spells-srd.yM3KTTSAIHhyuP14]{Message onirique}, @Compendium[pf2e.spells-srd.Ek5XI0aEdZhBgm21]{Œil indiscret} et @Compendium[pf2e.spells-srd.Ucf8eynbZMfUucjE]{Scène illusoire}. Les créatures qui possèdent le pouvoir cercle confèrent également des sorts supplémentaires à tous les cercles qu’elles rejoignent. Un cercle peut également accomplir le rituel @Compendium[pf2e.spells-srd.XkDCzMIyc0YOjw05]{contrôle du climat} avec un DD de 23 au lieu du DD normal.</p> \n<p>Si le départ ou la mort d’un membre du cercle en réduit le nombre à moins de trois membres, les membres restants conservent leurs ajustements d’élite pendant 24 heures mais, sans assez de membres pour contribuer aux actions requises, ils ne peuvent plus lancer de sorts de cercle.</p>"
+        },
+        {
+            "id": "Improved Knockdown",
+            "name": "Improved Knockdown",
+            "description": "<p>Le monstre peut utiliser @Compendium[pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]{Renversement} comme une action libre déclenchée par la réussite de son attaque initiale.</p>"
+        },
+        {
+            "id": "Lifesense",
+            "name": "Lifesense",
+            "description": "<p>La perception de la vie permet à un monstre de ressentir l’essence vitale des créatures vivantes et mortes-vivantes sur une portée donnée. Ce sens permet de différencier les énergies positives qui animent les créatures vivantes et les énergies négatives qui animent les créatures mortes-vivantes, de la même manière que la vue permet de différencier les couleurs.</p>"
+        },
+        {
+            "id": "Wavesense",
+            "name": "Wavesense",
+            "description": "<p>Ce sens permet à un monstre de ressentir les vibrations causées par un déplacement à travers un liquide. Il s’agit d’un sens imprécis avec une portée limitée (indiquée dans le descriptif du pouvoir). La perception des ondes ne fonctionne que si le monstre et le sujet se trouvent dans la même étendue de liquide et seulement si le sujet se déplace à travers ce liquide</p>"
+        },
+        {
+            "id": "Attack of Opportunity",
+            "name": "Attack of Opportunity",
+            "description": "<p><strong>Déclencheur</strong> Une créature qui se trouve à portée du monstre utilise une action de manipulation ou de déplacement, fait une attaque à distance ou quitte une case lors d’une action de déplacement qu’elle entreprend.</p>\n<p><strong>Effet</strong> Le monstre porte une frappe contre la créature déclencheuse. Si l’attaque se solde par un coup critique et que le déclencheur était une action de manipulation, vous interrompez cette action. Cette Frappe n’est pas comptabilisée dans le malus d’attaques multiples du monstre et son malus d’attaques multiples ne s’applique pas à cette Frappe.</p>"
+        },
+        {
+            "id": "Catch Rock",
+            "name": "Catch Rock",
+            "description": "<p><strong>Conditions</strong> Le monstre doit avoir une main libre, mais il peut @Compendium[pf2e.actionspf2e.wQYmDStjdjn0I26t]{Relâcher} quelque chose qu’il est en train de tenir dans le cadre de cette réaction.</p>\n<p><strong>Déclencheur</strong> Le monstre est pris pour cible par une Frappe utilisant un rocher jeté ou un rocher est sur le point de tomber sur le monstre.</p>\n<p><strong>Effet</strong> Le monstre gagne un bonus de circonstances de +4 à sa CA contre l’attaque déclencheuse ou à toute défense contre le rocher en train de lui tomber dessus. Si l’attaque échoue ou que le monstre réussit à se défendre du rocher en train de chuter, il rattrape alors le rocher dans sa main et ne subit pas de dégâts.</p>"
+        },
+        {
+            "id": "Ferocity",
+            "name": "Ferocity",
+            "description": "<p><strong>Déclencheur</strong> Le monstre est réduit à 0 PV.</p>\n<p><strong>Effet</strong> Le monstre n’est pas assommé et conserve 1 PV, mais l'intensité de son état @Compendium[pf2e.conditionspf2e.Yl48xTdMh3aeQYL2]{Blessé} augmente de 1. Il ne peut plus faire appel à ce pouvoir à partir de l’état Blessé 3.</p>"
+        },
+        {
+            "id": "Frightful Presence",
+            "name": "Frightful Presence",
+            "description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} __ feet, <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,emotion,fear,mental\" data-pf2-label=\"DD présence terrifiante\" data-pf2-show-dc=\"gm\">Volonté</span></p>\n<hr />\n<p>Une créature qui pénètre dans la zone d’effet doit faire un jet de Volonté. Quel que soit le résultat du jet de sauvegarde, la créature est temporairement immunisée contre la Présence terrifiante du monstre pendant 1 minute.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée par la présence.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 1.</p>\n<p><strong>Échec</strong> La créature est Effrayée 2.</p>\n<p><strong>Échec critique</strong> La créature est Effrayée 4.</p>"
+        },
+        {
+            "id": "Change Shape",
+            "name": "Change Shape",
+            "description": "<p>Le monstre change de forme pour une durée indéterminée. Il peut de nouveau faire appel à cette action pour reprendre sa forme naturelle ou adopter une nouvelle forme. Sauf indication contraire, un monstre ne peut pas utiliser Changement de forme pour prendre l’apparence d’un individu précis.</p>\n<p>Le Changement de forme est considéré comme un déguisement pour @Compendium[pf2e.action-macros.k5nW4jGyXD0Oq9LR]{Se déguiser} dans le cadre de la compétence Duperie. La transformation du monstre lui permet de faire échouer automatiquement les tests de Perception servant à déterminer s’il est bien un membre de l’ascendance ou du type de créature dont il a pris la forme et il gagne un bonus de statut de +4 à son DD de Duperie pour empêcher les autres de percer son déguisement.</p>\n<p> Le descriptif des pouvoirs de Changement de forme indique quelles formes le monstre peut revêtir. Le monstre ne gagne aucun des pouvoirs spéciaux de la nouvelle forme, seulement sa forme physique. Par exemple, pour chaque forme, il remplace ses Vitesses et Frappes d’origine et potentiellement ses sens ou sa taille. Tous ces changements sont indiqués dans son bloc de statistiques.</p>"
+        },
+        {
+            "id": "Negative Healing",
+            "name": "Negative Healing",
+            "description": "<p>Une créature avec soins négatifs tire sa santé de l'énergie négative plutôt que de l'énergie positive. Elle est endommagée par l'énergie positive et n'est pas soignée par les effets positifs. Elle ne subit pas de dégâts négatifs et est soignée par les effets négatifs qui soignent les morts-vivants.</p>"
+        },
+        {
+            "id": "Poison",
+            "name": "Poison",
+            "description": "<p> Quand une créature se trouve exposée au poison d’un monstre, elle doit réussir un jet de Vigueur pour éviter d’être empoisonnée. Le niveau du poison est le même que celui du monstre qui l’inocule. Les poisons suivent les règles des afflictions.</p>"
+        },
+        {
+            "id": "Greater Constrict",
+            "name": "Greater Constrict",
+            "description": "<p>Le monstre inflige la quantité de dégâts indiquée à toutes les créatures qu’il a @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippées/Empoignées} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravées}. Chacune d’entre elles peut faire un jet de Vigueur basique avec le DD indiqué. Si une créature échoue à son jet de sauvegarde, elle est @Compendium[pf2e.conditionspf2e.fBnFDH2MTzgFijKf]{Inconsciente}. Si elle réussit, elle est temporairement immunisée contre l’état inconscient causé par la Constriction supérieure pendant 1 minute.</p>"
+        },
+        {
+            "id": "Tremorsense",
+            "name": "Tremorsense",
+            "description": "<p>La perception des vibrations permet à un monstre de ressentir les vibrations causées par un déplacement sur une surface solide. Il s’agit d’un sens imprécis avec une portée limitée (indiquée dans le descriptif du pouvoir). La perception des vibrations ne fonctionne que si le monstre se trouve sur la même surface que le sujet à l’origine des vibrations, et seulement si celui-ci se déplace sur (ou creuse à travers) cette surface.</p>"
+        },
+        {
+            "id": "Grab",
+            "name": "Grab",
+            "description": "<p><strong>Conditions </strong>La dernière action du monstre était une Frappe réussie avec le trait Empoignade dans l’entrée des dégâts ou il a déjà empoigné ou agrippé une créature grâce à cette action.</p>\n<p><strong>Effet</strong> Jusqu’à la fin de son prochain tour, le monstre Empoigne/Agrippe automatiquement la cible. La créature est @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée/Agrippée} par la partie du corps que le monstre a utilisé pour porter son attaque et il ne peut pas utiliser celle-ci pour Frapper tant qu’il s’en sert pour empoigner/agripper sa cible. Le monstre peut réutiliser Empoignade/Agrippement pour étendre sa durée et maintenir ainsi toutes les créatures Empoignées/Agrippées jusqu’à la fin de son prochain tour.</p>\n<p>Une créature Empoignée/Agrippée peut utiliser l’action @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{S’échapper} pour se libérer de l’Empoignade/agrippement. Celle-ci prend également fin si le monstre s’éloigne des créatures qu’il Empoigne/Agrippe.</p>"
+        },
+        {
+            "id": "Form Up",
+            "name": "Form Up",
+            "description": "<p>La troupe choisit une des cases qu'elle occupe actuellement et redistribue ses cases dans n'importe quelle configuration dans laquelle toutes les cases sont contiguës et dans les 4,5 m de la case choisie. La troupe ne peut partager sa case avec d'autres créatures.</p>"
+        },
+        {
+            "id": "Aura",
+            "name": "Aura",
+            "description": "<p>L’aura d’un monstre affecte automatiquement tout ce qui se trouve dans une émanation spécifiée autour de ce monstre. Le monstre n’a pas besoin de faire appel à des actions pour utiliser son aura. Les effets de celle-ci sont en effet appliqués à certains moments précis, par exemple quand une créature termine son tour dans la zone d’effet de l’aura ou quand une créature pénètre dans cette zone.</p>\n<p>Si une aura ne fait rien d’autre qu’infliger des dégâts, elle est seulement présentée avec son rayon, la quantité de dégâts qu’elle inflige et un jet de sauvegarde. De telles auras infligent des dégâts à une créature quand elle pénètre dans sa zone d’effet ou quand elle commence son tour dans celle-ci. Une créature ne peut subir les dégâts d’une aura qu’une fois par round.</p>\n<p>Le MJ peut décider que l’aura d’un monstre n’affecte pas ses alliés. Par exemple, une créature peut avoir développé une immunité à la présence terrifiante d’un monstre si les deux se côtoient depuis longtemps.</p>"
+        },
+        {
+            "id": "Improved Grab",
+            "name": "Improved Grab",
+            "description": "<p>Le monstre peut utiliser @Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Empoignade/Agrippement}comme une action gratuite déclenchée par la réussite de son attaque initiale. Un monstre qui possède <em>Empoignade/Agrippement amélioré</em> doit toujours dépenser une action pour augmenter la durée de la saisie des créatures qu’il a déjà empoignées.</p>"
+        },
+        {
+            "id": "Troop Defenses",
+            "name": "Troop Defenses",
+            "description": "<p>Les troupes sont composées de nombreux individus et, au fil des attaques et des camarades abattus, la taille des troupes diminue.</p>\n<p>La plupart des troupes commencent avec 16 cases (4 par 4), et leurs points de vie ont deux seuils répertoriés, généralement le premier est à 2/3 de leurs points de vie maximum et le second est à 1/3 de leurs points de vie maximum. Lorsque la troupe passe sous le premier seuil, elle perd 4 cases, ce qui lui laisse 12 cases, et le premier seuil devient le nouveau maximum de points de vie de la troupe. Lorsque la troupe passe sous le second seuil, elle perd à nouveau 4 cases, ce qui lui laisse 8 cases et le second seuil devient le nouveau maximum de points de vie de la troupe. Pour retrouver sa taille et son nombre maximal de points de vie, une troupe doit consacrer un temps d'arrêt à l'application d'un traitement à long terme aux blessés ou au recrutement de nouveaux membres pour remplacer ceux qui sont tombés. À 0 point de vie, la troupe est réduite à 4 cases, ce qui est trop peu pour la soutenir, elle se disperse donc entièrement, les quelques membres restants se rendant, s'enfuyant ou étant facilement éliminés, selon leur nature.</p>\n<p>Un effet de dégâts qui ne s'applique qu'à une unique cible, telle qu'une Frappe, ne peut pas forcer une troupe à franchir plus d'un seuil à la fois. Par exemple, si une troupe a 60 points de vie, avec des seuils à 40 et 20, une Frappe infligeant 50 points de vie la laisserait à 21 points de vie, juste au-dessus du deuxième seuil. Un effet de dégâts qui s'applique à une zone ou à plusieurs cibles peut franchir plusieurs seuils à la fois et potentiellement détruire toute la troupe d'un seul coup.</p>\n<p>Les effets qui n'infligent pas de dégâts ayant une zone ou qui ciblent toutes les créatures à proximité affectent une troupe normalement s'ils affectent la totalité de la zone occupée par la troupe. Si un effet possède une zone ou un nombre de cibles plus restreint, il n'a généralement aucun effet sur la troupe. Toutefois, si l'effet peut cibler au moins quatre créatures ou couvrir au moins quatre cases de la troupe et s'il est susceptible d'empêcher ses cibles d'agir, de les faire fuir ou de les rendre autrement incapables de fonctionner en tant que membres de la troupe pendant un round ou plus, la troupe perd un nombre de points de vie égal à la quantité requise pour la faire passer au seuil suivant, en retirant 4 cases. Si un effet doit à la fois infliger des dégâts et franchir automatiquement un seuil en raison de l'incapacité de certaines créatures de la troupe, appliquez d'abord les dégâts. Si les dégâts ne sont pas suffisants à eux seuls pour franchir un seuil, réduisez alors les points de vie pour franchir le seuil de l'effet de mise hors de combat.</p>"
+        },
+        {
+            "id": "Thoughtsense",
+            "name": "Thoughtsense",
+            "description": "<p>La Perception des pensées permet à un monstre de sentir toutes les créatures qui ne sont pas dénuées d'intelligence dans la portée indiquée.</p>"
+        },
+        {
+            "id": "Scent",
+            "name": "Scent",
+            "description": "<p>L’odorat permet de sentir les odeurs dégagées par des créatures ou des objets. Il s’agit généralement d’un sens vague. La portée de ce sens est indiquée à côté de son nom et il ne fonctionne que si la créature ou l’objet concerné émet une odeur (par exemple, les créatures intangibles n’émettent généralement pas d’odeur).</p>\n<p>Si une créature émet une odeur importante ou se trouve dos au vent, le MJ peut doubler, voire tripler la portée des pouvoirs basés sur l’odorat et utilisés pour détecter cette créature, mais il peut également réduire cette portée si la créature se trouve face au vent.</p>"
+        },
+        {
+            "id": "Swallow Whole",
+            "name": "Swallow Whole",
+            "description": "<p>Le monstre tente d’avaler une créature dont la taille est inférieure ou égale à la taille indiquée et qu’il a déjà agrippée dans sa gueule ou entre ses mâchoires. Si la créature avalée est de la taille maximale indiquée dans le descriptif du pouvoir, le monstre ne peut plus utiliser l’action Gober. Si la créature est plus petite que ce maximum, le monstre peut généralement gober d’autres créatures. Le MJ détermine alors le nombre de créatures.</p>\n<p>Le monstre fait un test d’Athlétisme opposé au DD de Réflexes de la créature agrippée. S’il réussit, il gobe la créature. La gueule ou les mâchoires du monstre sont alors libérées de la créature qu’il vient de gober et il peut alors les utiliser pour Frapper ou Agripper une nouvelle créature. Le monstre ne peut pas attaquer les créatures qu’il a gobées.</p>\n<p>Une créature gobée est @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippée}, @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 et doit retenir sa respiration ou commencer d’asphyxier. La créature gobée subit la quantité de dégâts indiquée dans le descriptif du pouvoir au moment où elle est gobée, puis de nouveau à la fin de chacun de ses tours tant qu’elle est gobée. Si la victime réussit à @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{S’échapper} de l’état Agrippé lié à ce pouvoir, elle fuit alors par la gueule du monstre. Elle libère ainsi également toute autre créature qui se trouve agrippée dans la gueule ou entre les mâchoires du monstre. La créature gobée peut également attaquer le monstre dans lequel elle se trouve, mais seulement à l’aide d’attaques à mains nues ou d’armes dont l’Encombrement est léger ou inférieur. La créature gobante est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} contre cette attaque. Si le monstre subit une quantité de dégâts perforants ou tranchants supérieure ou égale à la valeur de Rupture indiquée du fait d’une attaque ou d’un sort unique, la créature gobée parvient à s’extraire de son corps. Une créature qui arrive à se libérer en S’échappant ou en taillant sa route à travers le monstre peut immédiatement respirer normalement et quitte la case du monstre.</p>\n<p>Si le monstre meurt, une créature gobée peut être libérée par des créatures adjacentes au cadavre qui utilisent un total combiné de 3 actions pour éventrer le monstre avec une arme ou une attaque à mains nues qui inflige des dégâts perforants ou tranchants.</p>"
+        },
+        {
+            "id": "At-Will Spells",
+            "name": "At-Will Spells",
+            "description": "<p>Le monstre peut lancer ses sorts à volonté autant de fois qu’il le souhaite sans utiliser d’emplacement de sort</p>"
+        },
+        {
+            "id": "Throw Rock",
+            "name": "Throw Rock",
+            "description": "<p>Le monstre ramasse un rocher qui se trouve à portée ou qu’il avait mis de côté et le lance en faisant une Frappe à distance.</p>"
+        },
+        {
+            "id": "Disease",
+            "name": "Disease",
+            "description": "<p>Quand une créature est exposée à la maladie d’un monstre, elle doit réussir un jet de Vigueur pour éviter de succomber à ce mal. Le niveau de la maladie est le même que celui du monstre qui la transmet. Les maladies suivent les règles des afflictions.</p>"
+        },
+        {
+            "id": "Improved Push",
+            "name": "Improved Push",
+            "description": "<p>. Le monstre peut utiliser @Compendium[pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl]{Bousculade} comme une action libre déclenchée par la réussite de son attaque initiale.</p>"
+        },
+        {
+            "id": "Darkvision",
+            "name": "Darkvision",
+            "description": "<p>Un monstre qui possède vision dans le noir n’a aucun mal à voir dans les zones plongées dans les ténèbres ou la lumière faible, mais il ne voit alors qu’en noir et blanc. Certaines formes de ténèbres magiques, comme le sort de niveau 4 @Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Ténèbres}, peuvent perturber le fonctionnement de vision dans le noir. Un monstre qui possède @Compendium[pf2e.bestiary-ability-glossary-srd.4Ho2xMPEC05aSxzr]{vision dans le noir supérieure} peut par contre voir même à travers ce type de ténèbres magiques.</p>"
+        },
+        {
+            "id": "Goblin Scuttle",
+            "name": "Goblin Scuttle",
+            "description": "<p><strong>Déclencheur</strong> Un allié gobelin termine une action de déplacement adjacent au combattant.</p>\n<hr />\n<p><strong>Effet</strong> Le combattant gobelin @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Fait un pas}.</p>"
+        },
+        {
+            "id": "Constrict",
+            "name": "Constrict",
+            "description": "<p>Le monstre inflige la quantité de dégâts indiquée à toutes les créatures qu’il a @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippées/Empoignées} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravées}. Chacune d’entre elles peut faire un jet de Vigueur basique avec le DD indiqué.</p>"
+        },
+        {
+            "id": "Rend",
+            "name": "Rend",
+            "description": "<p>L’entrée Éventration indique une Frappe que le monstre peut faire.</p>\n<p><strong>Conditions</strong> Au cours d’un round, le monstre réussit deux Frappes consécutives du type indiqué contre le même ennemi.</p> \n<p>Effet</strong> Le monstre inflige une nouvelle fois automatiquement les dégâts de cette Frappe à cet ennemi.</p>"
+        },
+        {
+            "id": "Regeneration",
+            "name": "Regeneration",
+            "description": "<p>Ce monstre regagne la quantité indiquée de points de vie à chaque round, au début de son tour. Tant qu’il bénéficie du pouvoir régénération, l’intensité de son état @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} ne peut jamais dépasser mourant 3. Cependant, s’il subit des dégâts d’un des types indiqués dans l’entrée régénération, son pouvoir de régénération devient alors inactif jusqu’à la fin de son prochain tour. Vous devez désactiver ce pouvoir avant d’appliquer ces dégâts car ils sont susceptibles de tuer le monstre en lui faisant atteindre l’état mourant 4.</p>"
+        },
+        {
+            "id": "Knockdown",
+            "name": "Knockdown",
+            "description": "<p><strong>Conditions</strong> La dernière action du monstre était une Frappe réussie possédant le trait Renversement dans l’entrée des dégâts.</p>\n<p><strong>Effet</strong> Le monstre renverse la cible @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
+        },
+        {
+            "id": "Constant Spells",
+            "name": "Constant Spells",
+            "description": "<p> Un sort constant affecte le monstre sans que ce dernier ait besoin de le lancer. La durée du sort n’est pas déterminée. Si un sort constant est contré, le monstre peut le réactiver en faisant appel aux actions d’incantation normalement requises pour lancer le sort.</p>"
+        },
+        {
+            "id": "Engulf",
+            "name": "Engulf",
+            "description": "<p>Le monstre Marche rapidement d’une distance maximale égale à deux fois sa Vitesse et il peut traverser la case de toute créature qui se trouve sur son chemin. Toute créature d’une taille inférieure ou égale à celle du monstre et dont la case est traversée par ce dernier peut faire un jet de Réflexes avec le DD indiqué pour éviter de se faire engloutir. Une créature incapable d’agir échoue automatiquement à ce jet de sauvegarde. Si une créature réussit son jet de sauvegarde, elle peut décider si elle est repoussée sur le côté (hors du chemin du monstre) ou si elle reste devant le monstre et est poussée par celui-ci jusqu’à la fin de son déplacement. Le monstre ne peut tenter d’Engloutir une créature qu’une fois par utilisation de l’action Engloutir. Le monstre peut contenir autant de créatures qu’il peut s’en trouver dans son espace.</p>\n<p>Une créature qui échoue à son jet de sauvegarde se retrouve aspirée dans le corps du monstre. Elle est alors @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippée}, @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 et doit retenir sa respiration ou commencer d’asphyxier. La créature subit la quantité de dégâts indiquée dans le descriptif du pouvoir au moment où elle est engloutie, puis de nouveau à la fin de chacun de ses tours tant qu’elle est engloutie. Une créature engloutie peut se libérer en tentant de @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{S’échapper} en utilisant le DD d’évasion indiqué. La créature engloutie peut également attaquer le monstre dans lequel elle se trouve, mais seulement à l’aide d’attaques à mains nues ou d’armes dont l’Encombrement est léger ou inférieur. La créature engloutissante est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} contre cette attaque. Si le monstre subit une quantité de dégâts perforants ou tranchants supérieure ou égale à la valeur de Rupture indiquée par une attaque ou un sort unique, la créature engloutie arrive à s’extraire de son corps. Une créature qui arrive à se libérer d’une manière ou d’une autre peut immédiatement respirer normalement et quitte la case du monstre.</p>\n<p>Si le monstre meurt, sa forme se délite et les créatures qu’il a englouties sont automatiquement relâchées.</p>"
         }
     ],
     "mapping": {}

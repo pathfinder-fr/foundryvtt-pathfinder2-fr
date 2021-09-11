@@ -2,11 +2,11 @@
 
  * **officielle**: 209
  * **changé**: 50
- * **libre**: 131
+ * **libre**: 128
  * **aucune**: 38
 
 
-Dernière mise à jour: 2021-09-09 06:11 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-11 10:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -121,7 +121,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-07-JVCxv4HuLaaFhAf4.htm](classfeatures/alchemist-07-JVCxv4HuLaaFhAf4.htm)|Iron Will (Level 7)|Volonté de fer (Niveau 7)|libre|
 |[alchemist-07-ZqwHAoIZrI1dGoqK.htm](classfeatures/alchemist-07-ZqwHAoIZrI1dGoqK.htm)|Perpetual Infusions|Infusions perpétuelles|libre|
 |[alchemist-09-3e1PlMXmlSwKoc6d.htm](classfeatures/alchemist-09-3e1PlMXmlSwKoc6d.htm)|Alchemical Expertise|Expertise alchimique|officielle|
-|[alchemist-09-TAIOtk5VvPZvv4nu.htm](classfeatures/alchemist-09-TAIOtk5VvPZvv4nu.htm)|Alertness (Level 9)|Vigilance (Niveau 9)|libre|
 |[alchemist-11-8rEVg03QJ71ic3PP.htm](classfeatures/alchemist-11-8rEVg03QJ71ic3PP.htm)|Perpetual Potency (Bomber)|Efficacité perpétuelle (Artificier)|officielle|
 |[alchemist-11-JOdbVu14phvdjhaY.htm](classfeatures/alchemist-11-JOdbVu14phvdjhaY.htm)|Perpetual Potency (Toxicologist)|Efficacité perpétuelle (Toxicologiste)|libre|
 |[alchemist-11-MGn2wezOr3VAdO3U.htm](classfeatures/alchemist-11-MGn2wezOr3VAdO3U.htm)|Perpetual Potency|Efficacité perpétuelle|officielle|
@@ -204,7 +203,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-07-gxNxfN9OBlQ1icus.htm](classfeatures/cleric-07-gxNxfN9OBlQ1icus.htm)|Third Doctrine|Doctrine : Troisième dogme|officielle|
 |[cleric-07-s8WEmc4GGZSHSC7q.htm](classfeatures/cleric-07-s8WEmc4GGZSHSC7q.htm)|Third Doctrine (Cloistered Cleric)|Troisième dogme (Prêtre cloîtré)|officielle|
 |[cleric-07-Zp81uTBItG1xlH4O.htm](classfeatures/cleric-07-Zp81uTBItG1xlH4O.htm)|Third Doctrine (Warpriest)|Troisième dogme (Prêtre combattant)|officielle|
-|[cleric-09-D2g6sZQAWaTccviQ.htm](classfeatures/cleric-09-D2g6sZQAWaTccviQ.htm)|Resolve (Level 9)|Résolution (Niveau 9)|libre|
 |[cleric-11-7PzcKaDGy6tIkQh4.htm](classfeatures/cleric-11-7PzcKaDGy6tIkQh4.htm)|Lightning Reflexes (Level 11)|Réflexes fulgurants (Niveau 11)|libre|
 |[cleric-11-o8nHreMyiLi64rZz.htm](classfeatures/cleric-11-o8nHreMyiLi64rZz.htm)|Fourth Doctrine|Doctrine : quatrième dogme|libre|
 |[cleric-11-px3gVYp7zlEQIpcl.htm](classfeatures/cleric-11-px3gVYp7zlEQIpcl.htm)|Fourth Doctrine (Warpriest)|Quatrième dogme (Prêtre combattant)|officielle|
@@ -252,7 +250,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[investigator-01-UIHUNNYZyQ3p4Vmo.htm](classfeatures/investigator-01-UIHUNNYZyQ3p4Vmo.htm)|Interrogation Methodology|Méthodologie : Interrogatoire|libre|
 |[investigator-03-dmK1wya8GBi9MmCB.htm](classfeatures/investigator-03-dmK1wya8GBi9MmCB.htm)|Skillful Lessons|Leçons accomplies|libre|
 |[investigator-03-DZWQspPi4IkfXV2E.htm](classfeatures/investigator-03-DZWQspPi4IkfXV2E.htm)|Keen Recollection|Souvenirs affûtés|libre|
-|[investigator-05-9XLUh9iMepZesdmc.htm](classfeatures/investigator-05-9XLUh9iMepZesdmc.htm)|Weapon Expertise (Level 5)|Expertise avec les armes (Niveau 5)|libre|
 |[investigator-09-PFvB79O2VFdiAeSj.htm](classfeatures/investigator-09-PFvB79O2VFdiAeSj.htm)|Investigator Expertise|Expertise de l'enquêteur|libre|
 |[investigator-11-malYpr0CYL4fDGhr.htm](classfeatures/investigator-11-malYpr0CYL4fDGhr.htm)|Deductive Improvisation|Improvisation déductive|libre|
 |[investigator-11-vv63fioCtOvDIdF2.htm](classfeatures/investigator-11-vv63fioCtOvDIdF2.htm)|Resolve (Level 11)|Résolution (Niveau 11)|libre|

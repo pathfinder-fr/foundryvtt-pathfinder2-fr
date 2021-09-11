@@ -1,27 +1,18 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 184
+ * **libre**: 194
  * **officielle**: 49
- * **aucune**: 29
+ * **aucune**: 19
 
 
-Dernière mise à jour: 2021-09-09 06:11 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-11 10:33 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[1bjReaLqCD9pvBJ3.htm](backgrounds/1bjReaLqCD9pvBJ3.htm)|Academy Dropout|
-|[3YQ1Wcjzk8ftoyo7.htm](backgrounds/3YQ1Wcjzk8ftoyo7.htm)|Astrologer|
-|[58aWxmagtsuO0jeP.htm](backgrounds/58aWxmagtsuO0jeP.htm)|Eidolon Contact (Religion)|
-|[6PGFGpkNQv6uuhO3.htm](backgrounds/6PGFGpkNQv6uuhO3.htm)|Eidolon Contact (Nature)|
-|[76j9ds5URXv1dqnm.htm](backgrounds/76j9ds5URXv1dqnm.htm)|Plant Whisperer|
-|[9YKU3qbxJpWHcNQE.htm](backgrounds/9YKU3qbxJpWHcNQE.htm)|Mystic Tutor (Arcana)|
-|[bvPPc10SYahijgLr.htm](backgrounds/bvPPc10SYahijgLr.htm)|Eidolon Contact (Occultism)|
-|[byyceQSVT0H5GfNB.htm](backgrounds/byyceQSVT0H5GfNB.htm)|Anti-Magical|
 |[D2bageI3HMT2xyyD.htm](backgrounds/D2bageI3HMT2xyyD.htm)|Surge Investigator (Occultism)|
-|[e58GwSBLNslyfqMF.htm](backgrounds/e58GwSBLNslyfqMF.htm)|Mystic Tutor (Occultism)|
 |[EYPorNgoYcp37akm.htm](backgrounds/EYPorNgoYcp37akm.htm)|Magical Misfit|
 |[ffEvUlA2AZOIXUej.htm](backgrounds/ffEvUlA2AZOIXUej.htm)|Surge Investigator (Nature)|
 |[HNdGlDHkcczqNw2U.htm](backgrounds/HNdGlDHkcczqNw2U.htm)|Musical Prodigy|
@@ -35,7 +26,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UjN1dEgMnJdzq4HT.htm](backgrounds/UjN1dEgMnJdzq4HT.htm)|Student of Magic (Occultism)|
 |[UU4MOe7Lozt9V8tg.htm](backgrounds/UU4MOe7Lozt9V8tg.htm)|Seer of the Dead|
 |[w2GSRC5uMcSUfPGJ.htm](backgrounds/w2GSRC5uMcSUfPGJ.htm)|Chosen One|
-|[W6MiTPAjlRxO8TFq.htm](backgrounds/W6MiTPAjlRxO8TFq.htm)|Eidolon Contact (Arcana)|
 |[WIWR8jURAdSAzxIh.htm](backgrounds/WIWR8jURAdSAzxIh.htm)|Magical Experiment|
 |[wMFy6cJIEOUX9gLZ.htm](backgrounds/wMFy6cJIEOUX9gLZ.htm)|Student of Magic (Nature)|
 |[xbyQ1RAF6x4ceXLf.htm](backgrounds/xbyQ1RAF6x4ceXLf.htm)|Energy Scarred|
@@ -49,6 +39,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[0c9Np7Yq5JSxZ6Tb.htm](backgrounds/0c9Np7Yq5JSxZ6Tb.htm)|Alkenstar Tinker|Bricoleur d'Alkenstar|libre|
 |[0z0PSizHviOehdJF.htm](backgrounds/0z0PSizHviOehdJF.htm)|Haunting Vision|Hanté par une vision|officielle|
 |[0ZfBP7Tp2P3WN7Dp.htm](backgrounds/0ZfBP7Tp2P3WN7Dp.htm)|Amnesiac|Amnésique|libre|
+|[1bjReaLqCD9pvBJ3.htm](backgrounds/1bjReaLqCD9pvBJ3.htm)|Academy Dropout|Décrocheur d'académie|libre|
 |[1VdLr4Qm8fv1m4tM.htm](backgrounds/1VdLr4Qm8fv1m4tM.htm)|Godless Graycloak|Athéiste des Capes grises|libre|
 |[2bzqI0D4J3LUi8nq.htm](backgrounds/2bzqI0D4J3LUi8nq.htm)|Laborer|Manœuvre|officielle|
 |[2qH61dLeaqgNOdOp.htm](backgrounds/2qH61dLeaqgNOdOp.htm)|Desert Tracker|Pisteur du désert|libre|
@@ -59,12 +50,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[3M2FRDlunjFshzbq.htm](backgrounds/3M2FRDlunjFshzbq.htm)|Fogfen Tale-Teller|Raconteur d'histoires des Marais brumeux|libre|
 |[3wLnNwWnZ2dHIbV4.htm](backgrounds/3wLnNwWnZ2dHIbV4.htm)|Diobel Pearl Diver|Pêcheur de perles de Diobel|libre|
 |[3WPo7m6rJQh9L7MN.htm](backgrounds/3WPo7m6rJQh9L7MN.htm)|Emissary|Émissaire|officielle|
+|[3YQ1Wcjzk8ftoyo7.htm](backgrounds/3YQ1Wcjzk8ftoyo7.htm)|Astrologer|Astrologue|libre|
 |[4a2sVO0o2mMTydN8.htm](backgrounds/4a2sVO0o2mMTydN8.htm)|Local Scion|Enfant du pays|officielle|
 |[4aVFnYyRajog0mNl.htm](backgrounds/4aVFnYyRajog0mNl.htm)|Mantis Scion|Fils de la Mante|libre|
 |[4fBIXtSVSRYn2ZGi.htm](backgrounds/4fBIXtSVSRYn2ZGi.htm)|Goblinblood Orphan|Orphelin des guerres du Sang gobelin|officielle|
 |[4naQmCXBl0007c2W.htm](backgrounds/4naQmCXBl0007c2W.htm)|Touched by Dahak|Touché par Dahak|libre|
 |[4SSKsyD72AYYpzgm.htm](backgrounds/4SSKsyD72AYYpzgm.htm)|Hermit (Occultism)|Ermite (Occultisme)|officielle|
 |[4yN5miHoMvKwZIsa.htm](backgrounds/4yN5miHoMvKwZIsa.htm)|Press-Ganged|Forçat des Mers|libre|
+|[58aWxmagtsuO0jeP.htm](backgrounds/58aWxmagtsuO0jeP.htm)|Eidolon Contact (Religion)|Contact d'Eidolon (Religion)|libre|
 |[5ITjkJwZ78YnBXdt.htm](backgrounds/5ITjkJwZ78YnBXdt.htm)|Magaambya Academic (Arcana)|Étudiant du Magaambya (Arcanes)|libre|
 |[5qi0swjGo1aclB2U.htm](backgrounds/5qi0swjGo1aclB2U.htm)|Sponsored by a Village (Crafting)|Soutenu par un village (Artisanat)|libre|
 |[5qUQOpdlNsJjpFVX.htm](backgrounds/5qUQOpdlNsJjpFVX.htm)|Ruin Delver|Explorateur de ruines|libre|
@@ -74,8 +67,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6c0rsuiiAaVqGTu7.htm](backgrounds/6c0rsuiiAaVqGTu7.htm)|Rivethun Adherent|Adhérent du Rivethun|libre|
 |[6irgRkKZ8tRZzLvs.htm](backgrounds/6irgRkKZ8tRZzLvs.htm)|Artisan|Artisan|officielle|
 |[6K6jJkjZ2MJYqQ6h.htm](backgrounds/6K6jJkjZ2MJYqQ6h.htm)|Bellflower Agent|Agent de la Campanule|libre|
+|[6PGFGpkNQv6uuhO3.htm](backgrounds/6PGFGpkNQv6uuhO3.htm)|Eidolon Contact (Nature)|Contact d'Eidolon (Nature)|libre|
 |[6UmhTxOQeqFnppxx.htm](backgrounds/6UmhTxOQeqFnppxx.htm)|Guard|Garde|officielle|
 |[6vsoyCZKqxG0lVe8.htm](backgrounds/6vsoyCZKqxG0lVe8.htm)|Inlander|Habitant de l'intérieur des terres|libre|
+|[76j9ds5URXv1dqnm.htm](backgrounds/76j9ds5URXv1dqnm.htm)|Plant Whisperer|Botanniste|libre|
 |[76RK9WizWYdyhMy5.htm](backgrounds/76RK9WizWYdyhMy5.htm)|Mammoth Speaker|Dresseur de mammouth|libre|
 |[7AfixHrjbXgDPPkp.htm](backgrounds/7AfixHrjbXgDPPkp.htm)|Translator|Traducteur|libre|
 |[7IrOApgShgnmp1A5.htm](backgrounds/7IrOApgShgnmp1A5.htm)|Rigger|Gréeur|libre|
@@ -92,6 +87,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9lVw1JGl5ser6626.htm](backgrounds/9lVw1JGl5ser6626.htm)|Criminal|Criminel|officielle|
 |[9pK15dQJVypSCjzO.htm](backgrounds/9pK15dQJVypSCjzO.htm)|Blessed|Béni|libre|
 |[9uTdwJaj27F18ZDX.htm](backgrounds/9uTdwJaj27F18ZDX.htm)|Razmiran Faithful|Fidèle de Razmir|libre|
+|[9YKU3qbxJpWHcNQE.htm](backgrounds/9YKU3qbxJpWHcNQE.htm)|Mystic Tutor (Arcana)|Tuteur mystique (Arcanes)|libre|
 |[a45LqkSRX07ljKdW.htm](backgrounds/a45LqkSRX07ljKdW.htm)|Merabite Prodigy|Prodige Mérabite|libre|
 |[a5dCSuAwGE2hqQjj.htm](backgrounds/a5dCSuAwGE2hqQjj.htm)|Freed Slave of Absalom|Esclave libéré d'Absalom|libre|
 |[a8BmnIIUR7AYog5B.htm](backgrounds/a8BmnIIUR7AYog5B.htm)|Barkeep|Tavernier|officielle|
@@ -111,7 +107,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bCJ9p3P5uJDAtaUI.htm](backgrounds/bCJ9p3P5uJDAtaUI.htm)|Miner|Mineur|officielle|
 |[bDyb0k0rTfDTyhd8.htm](backgrounds/bDyb0k0rTfDTyhd8.htm)|Geb Crusader|Croisé du Geb|libre|
 |[bh6O2Ad5mkYwRngM.htm](backgrounds/bh6O2Ad5mkYwRngM.htm)|Hermean Expatriate|Expatrié d'Herméa|libre|
+|[bvPPc10SYahijgLr.htm](backgrounds/bvPPc10SYahijgLr.htm)|Eidolon Contact (Occultism)|Contact d'Eidolon (Occultisme)|libre|
 |[BxQ4QaNaodIw3pWu.htm](backgrounds/BxQ4QaNaodIw3pWu.htm)|Sponsored by a Stranger (Occultism)|Soutenu par un étranger (Occultisme)|libre|
+|[byyceQSVT0H5GfNB.htm](backgrounds/byyceQSVT0H5GfNB.htm)|Anti-Magical|Anti-Magie|libre|
 |[BZhPPw9VD9U2ur6B.htm](backgrounds/BZhPPw9VD9U2ur6B.htm)|Witchlight Follower|Suiveur de lumière de sorcière|libre|
 |[CAjQrHZZbALE7Qjy.htm](backgrounds/CAjQrHZZbALE7Qjy.htm)|Acolyte|Acolyte|officielle|
 |[cFdndc4pMWhnRUOY.htm](backgrounds/cFdndc4pMWhnRUOY.htm)|Teacher (Performance)|Enseignant (Représentation)|libre|
@@ -124,6 +122,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dVRDDjT4FOu6uLDR.htm](backgrounds/dVRDDjT4FOu6uLDR.htm)|Detective|Détective|officielle|
 |[DVtZab19D1vD3a0n.htm](backgrounds/DVtZab19D1vD3a0n.htm)|Post Guard of All Trades|Garde du poste touche-à-tout|libre|
 |[E2ij2Cg8oMC0W0NS.htm](backgrounds/E2ij2Cg8oMC0W0NS.htm)|Nirmathi Guerrilla|Escarmoucheur Nirmathi|libre|
+|[e58GwSBLNslyfqMF.htm](backgrounds/e58GwSBLNslyfqMF.htm)|Mystic Tutor (Occultism)|Tuteur mystique (Occultisme)|libre|
 |[ED0imMUoDvwpESd5.htm](backgrounds/ED0imMUoDvwpESd5.htm)|Unsponsored (Diplomacy)|Non soutenu (Diplomatie)|libre|
 |[EJRWGsPWzAhixuvQ.htm](backgrounds/EJRWGsPWzAhixuvQ.htm)|Belkzen Slayer|Tueur du Belkzen|libre|
 |[eYY3bX7xSH7aicqT.htm](backgrounds/eYY3bX7xSH7aicqT.htm)|Atteran Rancher|Rancher Atteran|libre|
@@ -254,6 +253,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vHeP960qjhfob4Je.htm](backgrounds/vHeP960qjhfob4Je.htm)|Scavenger|Récupérateur|libre|
 |[vjhB0ZTV9OZgSuSz.htm](backgrounds/vjhB0ZTV9OZgSuSz.htm)|Thassilonian Delver|Fouilleur thassilonnien|libre|
 |[vNWSzv36L1GBPPoc.htm](backgrounds/vNWSzv36L1GBPPoc.htm)|Hellknight Historian|Historien des chevaliers infernaux|officielle|
+|[W6MiTPAjlRxO8TFq.htm](backgrounds/W6MiTPAjlRxO8TFq.htm)|Eidolon Contact (Arcana)|Contact d'Eidolon (Arcanes)|libre|
 |[WE9EjWB0TFuAhwJc.htm](backgrounds/WE9EjWB0TFuAhwJc.htm)|Sponsored by a Stranger (Nature)|Soutenu par un étranger (Nature)|libre|
 |[Wfil0jRW1iC2huPT.htm](backgrounds/Wfil0jRW1iC2huPT.htm)|Tapestry Refugee (Stealth)|Réfugié de la Tapisserie (Discrétion)|libre|
 |[wMkYKnvNZoZ4oQ0W.htm](backgrounds/wMkYKnvNZoZ4oQ0W.htm)|Scholar (Occultism)|Érudit (Occultisme)|officielle|
