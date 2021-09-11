@@ -73,7 +73,19 @@ SUPPORTED = {
     "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
     "pathfinder-bestiary-2": {'transl': "Bestiaire 2", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
     "pathfinder-bestiary-3": {'transl': "Bestiaire 3", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
-    "hazards": {'transl': "Dangers", "paths": {'name': "name", 'desc': "data.details.description"}},
+    "hazards": {
+      'transl': "Dangers",
+      "paths": {
+        'name': "name", 'desc': "data.details.description"
+      },
+      "extract": {
+        'Disable': "data.details.disable",
+        'Reset': "data.details.reset",
+        'Routine': "data.details.routine",
+        'Target': "data.target.value",
+        'ItemsDescription': "items.data.description.value",
+      }
+    },
     # "age-of-ashes-bestiary":          { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
     # "extinction-curse-bestiary":      { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
     # "fall-of-plaguestone-bestiary":   { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
@@ -351,9 +363,9 @@ def fileToData(filepath):
                         # on l'ajoute au dictionnaire des données
                         # dataEN ou dataFR
                         if lang == "EN":
-                            dataEN[key] = value
+                            dataEN[key] = value.replace("\\n","\n")
                         elif lang == "FR":
-                            dataFR[key] = value
+                            dataFR[key] = value.replace("\\n","\n")
                     else:
                         # sinon, on considère que c'est une liste et on ajoute les éléments de cette liste dans le dictionnaire de données
                         # listsEN ou listsFR
@@ -441,10 +453,12 @@ def dataToFile(data, filepath):
             df.write('------ Data ------' + '\n')
             for key in data['dataEN']:
                 if data['dataEN'][key] and len(data['dataEN'][key]) > 0:
-                    df.write("%sEN: %s\n" % (key, data['dataEN'][key]))
+                    df.write("%sEN: %s\n" % (key, data['dataEN'][key].replace("\n","\\n")))
                     if 'dataFR' in data and key in data['dataFR'] and data['dataFR'][key] and len(data['dataFR'][key]) > 0:
                         df.write("%sFR: %s\n" % (
-                            key, data['dataFR'][key] if key in data['dataFR'] else ""))
+                            key, data['dataFR'][key].replace("\n","\\n") if key in data['dataFR'] else ""))
+                    else:
+                        df.write("%sFR: \n" % key)
 
         df.write('------ Description (en) ------' + '\n')
         df.write(data['descrEN'] + '\n')
