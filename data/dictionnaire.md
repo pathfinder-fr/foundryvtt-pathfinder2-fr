@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2021-09-11 12:26 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-11 12:28 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -41,7 +41,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aid](actions/HCl3pzVefiv9ZKQW.htm)|Aider|`@Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]`|
 |[Anadi Venom](actions/8aIe57gXJ94mPpW4.htm)|Venin anadi|`@Compendium[pf2e.actionspf2e.8aIe57gXJ94mPpW4]`|
 |[Anchor](actions/xpsD4DsYHKXCB4ac.htm)|S'ancrer|`@Compendium[pf2e.actionspf2e.xpsD4DsYHKXCB4ac]`|
-|[Arcane Cascade](actions/HbejhIywqIufrmVM.htm)||`@Compendium[pf2e.actionspf2e.HbejhIywqIufrmVM]`|
+|[Arcane Cascade](actions/HbejhIywqIufrmVM.htm)|Cascade arcanique|`@Compendium[pf2e.actionspf2e.HbejhIywqIufrmVM]`|
 |[Armor Up!](actions/8b63qGzqSUENQgOT.htm)||`@Compendium[pf2e.actionspf2e.8b63qGzqSUENQgOT]`|
 |[Arrest a Fall](actions/qm7xptMSozAinnPS.htm)|Arrêter une chute|`@Compendium[pf2e.actionspf2e.qm7xptMSozAinnPS]`|
 |[Avert Gaze](actions/UWdRX1VelipCzrCg.htm)|Détourner le regard|`@Compendium[pf2e.actionspf2e.UWdRX1VelipCzrCg]`|
@@ -2342,7 +2342,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Combat Flexibility](classfeatures/fighter-09-8g6HzARbhfcgilP8.htm)|Flexibilité martiale|`@Compendium[pf2e.classfeatures.8g6HzARbhfcgilP8]`|
 |[Composition Spells](classfeatures/bard-01-s0VbbQJNlSgPocui.htm)|Sorts de composition|`@Compendium[pf2e.classfeatures.s0VbbQJNlSgPocui]`|
 |[Confident Finisher](classfeatures/swashbuckler-01-pyo0vmxUFIFX2GNl.htm)|Coup final assuré|`@Compendium[pf2e.classfeatures.pyo0vmxUFIFX2GNl]`|
-|[Conflux Spells](classfeatures/magus-01-FkbFgmoVz5lHhSMo.htm)||`@Compendium[pf2e.classfeatures.FkbFgmoVz5lHhSMo]`|
+|[Conflux Spells](classfeatures/magus-01-FkbFgmoVz5lHhSMo.htm)|Sorts de confluence|`@Compendium[pf2e.classfeatures.FkbFgmoVz5lHhSMo]`|
 |[Continuous Flair](classfeatures/swashbuckler-11-13QpCrR8a8XULbJa.htm)|Élégance continuelle|`@Compendium[pf2e.classfeatures.13QpCrR8a8XULbJa]`|
 |[Copper Dragon Instinct](classfeatures/barbarian-01-1ZugTzJHsa94AZRW.htm)|Instinct du Dragon - Cuivre|`@Compendium[pf2e.classfeatures.1ZugTzJHsa94AZRW]`|
 |[Cosmos Mystery](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Mystère du cosmos|`@Compendium[pf2e.classfeatures.RI2EMRBBPNSoTJXu]`|
@@ -2454,7 +2454,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Hunter's Edge: Flurry](classfeatures/ranger-01-6v4Rj7wWfOH1882r.htm)|Spécialité du chasseur : Déluge|`@Compendium[pf2e.classfeatures.6v4Rj7wWfOH1882r]`|
 |[Hunter's Edge: Outwit](classfeatures/ranger-01-NBHyoTrI8q62uDsU.htm)|Spécialité du chasseur : Ruse|`@Compendium[pf2e.classfeatures.NBHyoTrI8q62uDsU]`|
 |[Hunter's Edge: Precision](classfeatures/ranger-01-u6cBjqz2fiRBadBt.htm)|Spécialité du chasseur : Précision|`@Compendium[pf2e.classfeatures.u6cBjqz2fiRBadBt]`|
-|[Hybrid Study](classfeatures/magus-01-FTeIs1Z1Qeli4BIF.htm)||`@Compendium[pf2e.classfeatures.FTeIs1Z1Qeli4BIF]`|
+|[Hybrid Study](classfeatures/magus-01-FTeIs1Z1Qeli4BIF.htm)|Études hybridées|`@Compendium[pf2e.classfeatures.FTeIs1Z1Qeli4BIF]`|
 |[Improved Evasion (Level 13)](classfeatures/swashbuckler-13-L5D0NwFXdLiVSnk5.htm)|Évasion améliorée (Niveau 13)|`@Compendium[pf2e.classfeatures.L5D0NwFXdLiVSnk5]`|
 |[Improved Evasion (Level 15)](classfeatures/ranger-15-6XwGONPdr9SFDtDc.htm)|Évasion améliorée (Niveau 15)|`@Compendium[pf2e.classfeatures.6XwGONPdr9SFDtDc]`|
 |[Improved Flexibility](classfeatures/fighter-15-W2rwudMNcAxs8VoX.htm)|Flexibilité améliorée|`@Compendium[pf2e.classfeatures.W2rwudMNcAxs8VoX]`|
@@ -2462,7 +2462,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Incredible Senses (Level 13)](classfeatures/rogue-13-nLwPMPLRne1HnL00.htm)|Sens extraordinaires (Niveau 13)|`@Compendium[pf2e.classfeatures.nLwPMPLRne1HnL00]`|
 |[Incredible Senses (Level 15)](classfeatures/ranger-15-iyb5FU2BpsCCan8Q.htm)|Sens extraordinaires (Niveau 15)|`@Compendium[pf2e.classfeatures.iyb5FU2BpsCCan8Q]`|
 |[Indomitable Will](classfeatures/barbarian-15-BZnqKnqKVImjSIFE.htm)|Volonté indomptable|`@Compendium[pf2e.classfeatures.BZnqKnqKVImjSIFE]`|
-|[Inexorable Iron](classfeatures/magus-01-ZslXrvYRxHBXc1Ds.htm)||`@Compendium[pf2e.classfeatures.ZslXrvYRxHBXc1Ds]`|
+|[Inexorable Iron](classfeatures/magus-01-ZslXrvYRxHBXc1Ds.htm)|Acier inexorable|`@Compendium[pf2e.classfeatures.ZslXrvYRxHBXc1Ds]`|
 |[Infused Reagents](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Réactifs imprégnés|`@Compendium[pf2e.classfeatures.wySB9VHOW1v3TX1L]`|
 |[Instant Manifestation](classfeatures/summoner-19-H0iWhiyP0QqgmAKs.htm)||`@Compendium[pf2e.classfeatures.H0iWhiyP0QqgmAKs]`|
 |[Instinct](classfeatures/barbarian-01-dU7xRpg4kFd01hwZ.htm)|Instinct|`@Compendium[pf2e.classfeatures.dU7xRpg4kFd01hwZ]`|
@@ -2477,7 +2477,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Keen Flair](classfeatures/swashbuckler-15-Pk3Ht0KZyFxSeL07.htm)|Élégance aigüe|`@Compendium[pf2e.classfeatures.Pk3Ht0KZyFxSeL07]`|
 |[Keen Recollection](classfeatures/investigator-03-DZWQspPi4IkfXV2E.htm)|Souvenirs affûtés|`@Compendium[pf2e.classfeatures.DZWQspPi4IkfXV2E]`|
 |[Ki Spells](classfeatures/None-01-1FPVkksuE2ncw9rF.htm)|Sorts de ki|`@Compendium[pf2e.classfeatures.1FPVkksuE2ncw9rF]`|
-|[Laughing Shadow](classfeatures/magus-01-3gVDqDPSz4fB5T9G.htm)||`@Compendium[pf2e.classfeatures.3gVDqDPSz4fB5T9G]`|
+|[Laughing Shadow](classfeatures/magus-01-3gVDqDPSz4fB5T9G.htm)|Ombre rieuse|`@Compendium[pf2e.classfeatures.3gVDqDPSz4fB5T9G]`|
 |[Leaf Order](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Ordre de la feuille|`@Compendium[pf2e.classfeatures.u4nlOzPj2WHkIj9l]`|
 |[Legendary Armor](classfeatures/champion-17-voiSCh7ZXA2ogwiC.htm)|Armure légendaire|`@Compendium[pf2e.classfeatures.voiSCh7ZXA2ogwiC]`|
 |[Legendary Spellcaster (Level 19)](classfeatures/wizard-19-Hfaa7TuLn3nE8lr3.htm)|Incantateur légendaire (Niveau 19)|`@Compendium[pf2e.classfeatures.Hfaa7TuLn3nE8lr3]`|
@@ -2606,7 +2606,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Snake Animal Instinct](classfeatures/barbarian-01-pIYWMCNnYDQfSRQh.htm)|Instinct animal - Serpent|`@Compendium[pf2e.classfeatures.pIYWMCNnYDQfSRQh]`|
 |[Sneak Attack](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Attaque sournoise|`@Compendium[pf2e.classfeatures.j1JE61quDxdge4mg]`|
 |[Sorcerer Spellcasting](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Incantation de l'ensorceleur|`@Compendium[pf2e.classfeatures.gmnx7e1g08bppbqt]`|
-|[Sparkling Targe](classfeatures/magus-01-maGzhKLmgubAdUlN.htm)||`@Compendium[pf2e.classfeatures.maGzhKLmgubAdUlN]`|
+|[Sparkling Targe](classfeatures/magus-01-maGzhKLmgubAdUlN.htm)|Targe étincelante|`@Compendium[pf2e.classfeatures.maGzhKLmgubAdUlN]`|
 |[Spell Repertoire (Bard)](classfeatures/bard-01-6FsusoMYxxjyIkVh.htm)|Répertoire de sorts (Barde)|`@Compendium[pf2e.classfeatures.6FsusoMYxxjyIkVh]`|
 |[Spell Repertoire (Oracle)](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Répertoire de sorts (Oracle)|`@Compendium[pf2e.classfeatures.cFe6vFb3gSDyNeS9]`|
 |[Spell Repertoire (Sorcerer)](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Répertoire de sorts (Ensorceleur)|`@Compendium[pf2e.classfeatures.lURKSJZAGKVD6cH9]`|
@@ -2797,7 +2797,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Titanic Flytrap](hazards/6In2S3lDnxNgZ2np.htm)|Gobe-mouche titanesque|`@Compendium[pf2e.hazards.6In2S3lDnxNgZ2np]`|
 |[Treacherous Scree](hazards/gFt2nzQrVgXM9tmJ.htm)|Éboulis traître|`@Compendium[pf2e.hazards.gFt2nzQrVgXM9tmJ]`|
 |[Vorpal Executioner](hazards/J4YChuob7MIPT5Mq.htm)|Bourreau vorpal|`@Compendium[pf2e.hazards.J4YChuob7MIPT5Mq]`|
-|[Web Lurker Deadfall](hazards/0dg9YrjsDi6Ap3jF.htm)|Lurker Deadfall|`@Compendium[pf2e.hazards.0dg9YrjsDi6Ap3jF]`|
+|[Web Lurker Deadfall](hazards/0dg9YrjsDi6Ap3jF.htm)||`@Compendium[pf2e.hazards.0dg9YrjsDi6Ap3jF]`|
 |[Web Lurker Noose](hazards/Or0jjL8xS3GyiMq0.htm)||`@Compendium[pf2e.hazards.Or0jjL8xS3GyiMq0]`|
 |[Wheel Of Misery](hazards/H2GX04CQXLPQHT8h.htm)|Roue du malheur|`@Compendium[pf2e.hazards.H2GX04CQXLPQHT8h]`|
 |[Yellow Mold](hazards/A93flWUsot3FmC7t.htm)|Moisissure jaune|`@Compendium[pf2e.hazards.A93flWUsot3FmC7t]`|
@@ -4890,7 +4890,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Rain of Embers Stance](feats/class-01-rbiMK71SvGZGRLJ1.htm)|Posture de la pluie de charbons ardents|`@Compendium[pf2e.feats-srd.rbiMK71SvGZGRLJ1]`|
 |[Rain-Scribe Mobility](feats/archetype-10-nobsCgNmsDX6aKR5.htm)|Mobilité du Scribe de la pluie|`@Compendium[pf2e.feats-srd.nobsCgNmsDX6aKR5]`|
 |[Rain-Scribe Sustenance](feats/archetype-06-jRJqKkm6NnHcL8HO.htm)|Subsistance du Scribe de la pluie|`@Compendium[pf2e.feats-srd.jRJqKkm6NnHcL8HO]`|
-|[Raise a Tome](feats/class-01-JoxEspM0kbCop7og.htm)||`@Compendium[pf2e.feats-srd.JoxEspM0kbCop7og]`|
+|[Raise a Tome](feats/class-01-JoxEspM0kbCop7og.htm)|Interposer un livre|`@Compendium[pf2e.feats-srd.JoxEspM0kbCop7og]`|
 |[Rakshasa Magic](feats/ancestry-09-7RFu7EwwvjHMP0dq.htm)|Magie rakshasa|`@Compendium[pf2e.feats-srd.7RFu7EwwvjHMP0dq]`|
 |[Rallying Charge](feats/archetype-06-df4cBV3qZn3qNUmP.htm)|Charge de ralliement|`@Compendium[pf2e.feats-srd.df4cBV3qZn3qNUmP]`|
 |[Rallying Cry](feats/ancestry-17-8l3qDZrfhxUGijjB.htm)|Cri de ralliement|`@Compendium[pf2e.feats-srd.8l3qDZrfhxUGijjB]`|
@@ -6687,7 +6687,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dim the Light](spells/evocation-01-6UafOE1ZUbHamsZJ.htm)|Diminuer la lumière|`@Compendium[pf2e.spells-srd.6UafOE1ZUbHamsZJ]`|
 |[Dimension Door](spells/conjuration-04-VlNcjmYyu95vOUe8.htm)|Porte dimensionnelle|`@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]`|
 |[Dimensional Anchor](spells/abjuration-04-ksLCg62cLOojw3gN.htm)|Ancre dimensionnelle|`@Compendium[pf2e.spells-srd.ksLCg62cLOojw3gN]`|
-|[Dimensional Assault](spells/conjuration-01-5p9Y4ACrtRM4gTpN.htm)||`@Compendium[pf2e.spells-srd.5p9Y4ACrtRM4gTpN]`|
+|[Dimensional Assault](spells/conjuration-01-5p9Y4ACrtRM4gTpN.htm)|Assaut dimensionnel|`@Compendium[pf2e.spells-srd.5p9Y4ACrtRM4gTpN]`|
 |[Dimensional Lock](spells/abjuration-07-XZE4BawIlTf88Yl9.htm)|Verrou dimensionnel|`@Compendium[pf2e.spells-srd.XZE4BawIlTf88Yl9]`|
 |[Dimensional Steps](spells/conjuration-04-zjG6NncHyAKqSF7m.htm)|Pas interdimensionnel|`@Compendium[pf2e.spells-srd.zjG6NncHyAKqSF7m]`|
 |[Dinosaur Form](spells/transmutation-04-KhM8MhoUgoUjBMIz.htm)|Forme de dinosaure|`@Compendium[pf2e.spells-srd.KhM8MhoUgoUjBMIz]`|
@@ -7306,14 +7306,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Shepherd of Souls](spells/necromancy-05-SzKkzq3Rr6vKIxbp.htm)|Berger des âmes|`@Compendium[pf2e.spells-srd.SzKkzq3Rr6vKIxbp]`|
 |[Shield](spells/abjuration-01-TVKNbcgTee19PXZR.htm)|Bouclier|`@Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]`|
 |[Shield Other](spells/necromancy-02-d7Lwx6KAs47MtF0q.htm)|Protection d'autrui|`@Compendium[pf2e.spells-srd.d7Lwx6KAs47MtF0q]`|
-|[Shielding Strike](spells/abjuration-01-53NqGTJOf4LcjVyD.htm)||`@Compendium[pf2e.spells-srd.53NqGTJOf4LcjVyD]`|
+|[Shielding Strike](spells/abjuration-01-53NqGTJOf4LcjVyD.htm)|Frappe bouclier|`@Compendium[pf2e.spells-srd.53NqGTJOf4LcjVyD]`|
 |[Shift Blame](spells/enchantment-03-lONs4r14LEBZRLLw.htm)||`@Compendium[pf2e.spells-srd.lONs4r14LEBZRLLw]`|
 |[Shifting Form](spells/transmutation-04-SDkIFrrO1PsE02Kd.htm)|Forme changeante|`@Compendium[pf2e.spells-srd.SDkIFrrO1PsE02Kd]`|
 |[Shifting Sand](spells/transmutation-03-HcIAQZjNXHemoXSU.htm)|Sable mouvant|`@Compendium[pf2e.spells-srd.HcIAQZjNXHemoXSU]`|
 |[Shillelagh](spells/transmutation-01-s3abwDbTV43pGFFW.htm)|Gourdin magique|`@Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]`|
 |[Shocking Grasp](spells/evocation-01-r3NeUnsgt9mS03Sn.htm)|Décharge électrique|`@Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]`|
 |[Shockwave](spells/evocation-01-dgCH2E0gMLMUgyFl.htm)|Onde de choc|`@Compendium[pf2e.spells-srd.dgCH2E0gMLMUgyFl]`|
-|[Shooting Star](spells/divination-01-nVfP43Xbs6I1PO8v.htm)||`@Compendium[pf2e.spells-srd.nVfP43Xbs6I1PO8v]`|
+|[Shooting Star](spells/divination-01-nVfP43Xbs6I1PO8v.htm)|Étoile tirée|`@Compendium[pf2e.spells-srd.nVfP43Xbs6I1PO8v]`|
 |[Show the Way](spells/divination-03-ThE5zPYKF4weiljj.htm)|Montrer le chemin|`@Compendium[pf2e.spells-srd.ThE5zPYKF4weiljj]`|
 |[Shrink](spells/transmutation-02-PjhUmyKnq6K5uDby.htm)|Rétrécir|`@Compendium[pf2e.spells-srd.PjhUmyKnq6K5uDby]`|
 |[Shrink Item](spells/transmutation-03-kWh8sJH7yawidMyW.htm)|Rétrécir un objet|`@Compendium[pf2e.spells-srd.kWh8sJH7yawidMyW]`|
@@ -7352,7 +7352,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spider Climb](spells/transmutation-02-5KobTMrZeZxuXMgl.htm)|Pattes d'araignée|`@Compendium[pf2e.spells-srd.5KobTMrZeZxuXMgl]`|
 |[Spider Sting](spells/necromancy-01-DYdvMZ8G2LiSLVWw.htm)|Morsure d'araignée|`@Compendium[pf2e.spells-srd.DYdvMZ8G2LiSLVWw]`|
 |[Spike Stones](spells/conjuration-04-3xD8DYrr8YDVYGg7.htm)|Piques de pierre|`@Compendium[pf2e.spells-srd.3xD8DYrr8YDVYGg7]`|
-|[Spinning Staff](spells/evocation-01-KAapTzGKJMbMQCL1.htm)||`@Compendium[pf2e.spells-srd.KAapTzGKJMbMQCL1]`|
+|[Spinning Staff](spells/evocation-01-KAapTzGKJMbMQCL1.htm)|Bâton tournoyant|`@Compendium[pf2e.spells-srd.KAapTzGKJMbMQCL1]`|
 |[Spirit Blast](spells/necromancy-06-PHVHBbdHeQRfjLmE.htm)|Coup spirituel|`@Compendium[pf2e.spells-srd.PHVHBbdHeQRfjLmE]`|
 |[Spirit Link](spells/necromancy-01-yHujiDQPdtXW797e.htm)|Lien spirituel|`@Compendium[pf2e.spells-srd.yHujiDQPdtXW797e]`|
 |[Spirit Object](spells/necromancy-01-yp4w9SG4RuqRM8KD.htm)|Animation d'objet|`@Compendium[pf2e.spells-srd.yp4w9SG4RuqRM8KD]`|
@@ -7454,7 +7454,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Threefold Aspect](spells/transmutation-03-MNiT0dHol5fEcKlz.htm)|Triple aspect|`@Compendium[pf2e.spells-srd.MNiT0dHol5fEcKlz]`|
 |[Thunderburst](spells/evocation-03-LFSwMtQVP05EzlZe.htm)|Explosion tempêtueuse|`@Compendium[pf2e.spells-srd.LFSwMtQVP05EzlZe]`|
 |[Thundering Dominance](spells/enchantment-02-mMgLHTLHjjGa206q.htm)||`@Compendium[pf2e.spells-srd.mMgLHTLHjjGa206q]`|
-|[Thunderous Strike](spells/evocation-01-r82rqcm0MmGaBFkM.htm)||`@Compendium[pf2e.spells-srd.r82rqcm0MmGaBFkM]`|
+|[Thunderous Strike](spells/evocation-01-r82rqcm0MmGaBFkM.htm)|Frappe de tonnerre|`@Compendium[pf2e.spells-srd.r82rqcm0MmGaBFkM]`|
 |[Tidal Surge](spells/evocation-01-iAnpxrLaBU4V6Sej.htm)|Raz-de-marée|`@Compendium[pf2e.spells-srd.iAnpxrLaBU4V6Sej]`|
 |[Time Beacon](spells/divination-07-G56DJkxlUjFv0C4Z.htm)|Repère temporel|`@Compendium[pf2e.spells-srd.G56DJkxlUjFv0C4Z]`|
 |[Time Jump](spells/transmutation-03-qJGW6BbIcU6sfA1d.htm)||`@Compendium[pf2e.spells-srd.qJGW6BbIcU6sfA1d]`|

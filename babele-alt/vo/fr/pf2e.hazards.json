@@ -37,12 +37,6 @@
             "description": "<p>Que ce soit à cause de l'eau qui dévale dans les rues en  transportant de dangereux débris le long de saroute ou une substance moins naturelle qui se libère, cette inondation ballotte sans répit tout ce qui se trouve sur son passage.</p>"
         },
         {
-            "id": "Web Lurker Deadfall",
-            "name": "Web Lurker Deadfall",
-            "description": "Un fil-piège en toile libère un paquet de rochers qui tombent sur toutes les cibles dans un carré de 3 mètres de côté ;",
-            "disable": "<p>Survie (entrainé) ou Vol (expert) DC 20 pour réarranger le ....</p>"
-        },
-        {
             "id": "Darkside Mirror",
             "name": "Darkside Mirror",
             "description": "<p>Un miroir magique remplace les personnages par des reflets maléfiques d’eux-mêmes venus d’une autre dimension.</p>"
