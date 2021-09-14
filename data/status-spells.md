@@ -2,11 +2,11 @@
 
  * **changé**: 694
  * **officielle**: 147
- * **libre**: 51
- * **aucune**: 240
+ * **libre**: 53
+ * **aucune**: 238
 
 
-Dernière mise à jour: 2021-09-11 10:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-14 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -208,7 +208,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-04-fH08MI4KP0KH2EQ9.htm](spells/necromancy-04-fH08MI4KP0KH2EQ9.htm)|Soothing Spring|
 |[necromancy-04-nEXkk85BQu1cREa4.htm](spells/necromancy-04-nEXkk85BQu1cREa4.htm)|Garden of Death|
 |[necromancy-04-PtX16vbWzDehj8qc.htm](spells/necromancy-04-PtX16vbWzDehj8qc.htm)|Pernicious Poltergeist|
-|[necromancy-04-RbORUmnwlB8b3mNf.htm](spells/necromancy-04-RbORUmnwlB8b3mNf.htm)|Internal Insurrection|
 |[necromancy-04-VXUrO8TwRqBpNzdU.htm](spells/necromancy-04-VXUrO8TwRqBpNzdU.htm)|Bloodspray Curse|
 |[necromancy-05-CzjQtkRuRlzRvwzg.htm](spells/necromancy-05-CzjQtkRuRlzRvwzg.htm)|Healing Well|
 |[necromancy-05-hghGRzOSzEl4UXdS.htm](spells/necromancy-05-hghGRzOSzEl4UXdS.htm)|Invoke Spirits|
@@ -226,7 +225,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-01-KFpBT6FPfSFhxQ27.htm](spells/transmutation-01-KFpBT6FPfSFhxQ27.htm)|Juvenile Companion|
 |[transmutation-01-lV8FkHZtzZu7Cy6j.htm](spells/transmutation-01-lV8FkHZtzZu7Cy6j.htm)|Evolution Surge|
 |[transmutation-01-m5QS8q5M6K0euKcT.htm](spells/transmutation-01-m5QS8q5M6K0euKcT.htm)|Healing Plaster|
-|[transmutation-01-MPxbKoR54gkYkqLO.htm](spells/transmutation-01-MPxbKoR54gkYkqLO.htm)|Gouging Claw|
 |[transmutation-01-X8PSYw6WC2ePYSXd.htm](spells/transmutation-01-X8PSYw6WC2ePYSXd.htm)|Stumbling Curse|
 |[transmutation-02-fTK6ysisGhy3hRvz.htm](spells/transmutation-02-fTK6ysisGhy3hRvz.htm)|Rapid Adaptation|
 |[transmutation-02-vb2dFNtbofJ7A9BW.htm](spells/transmutation-02-vb2dFNtbofJ7A9BW.htm)|Summoner's Visage|
@@ -1123,6 +1121,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-02-dxOF7d5kAWusLKWF.htm](spells/necromancy-02-dxOF7d5kAWusLKWF.htm)|Reaper's Lantern|Lanterne de la Faucheuse|libre|
 |[necromancy-03-pSNLufPPsReKQtJR.htm](spells/necromancy-03-pSNLufPPsReKQtJR.htm)|Armor of Bones|Armure d'os|libre|
 |[necromancy-04-ikSb3LRGnrwXJBVX.htm](spells/necromancy-04-ikSb3LRGnrwXJBVX.htm)|Vital Beacon|Fanal de vie|officielle|
+|[necromancy-04-RbORUmnwlB8b3mNf.htm](spells/necromancy-04-RbORUmnwlB8b3mNf.htm)|Internal Insurrection|Insurrection interne|libre|
 |[necromancy-04-zvvHOQV78WKUB33l.htm](spells/necromancy-04-zvvHOQV78WKUB33l.htm)|Life Siphon|Siphon de vie|officielle|
 |[necromancy-05-rnFAHvKpcsU4BJD4.htm](spells/necromancy-05-rnFAHvKpcsU4BJD4.htm)|Shall not Falter, Shall not Rout|Tu ne faibliras pas, tu ne prendras pas la fuite|libre|
 |[necromancy-08-Ovvflf5aFbmBxqq8.htm](spells/necromancy-08-Ovvflf5aFbmBxqq8.htm)|Quivering Palm|Paume vibratoire|officielle|
@@ -1133,6 +1132,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-01-gwOYh5zMVZB0HNcT.htm](spells/transmutation-01-gwOYh5zMVZB0HNcT.htm)|Unimpeded Stride|Déplacement sans réserve|officielle|
 |[transmutation-01-i8PBZsnoCrK7IWph.htm](spells/transmutation-01-i8PBZsnoCrK7IWph.htm)|Tentacular Limbs|Membres tentaculaires|officielle|
 |[transmutation-01-KcLVELhCUcKXxiKE.htm](spells/transmutation-01-KcLVELhCUcKXxiKE.htm)|Longstrider|Grande foulée|officielle|
+|[transmutation-01-MPxbKoR54gkYkqLO.htm](spells/transmutation-01-MPxbKoR54gkYkqLO.htm)|Gouging Claw|Griffe creusante|libre|
 |[transmutation-01-nnSipUPNd3sm5vYL.htm](spells/transmutation-01-nnSipUPNd3sm5vYL.htm)|Vibrant Thorns|Épines florissantes|officielle|
 |[transmutation-01-ps0nmhclT6aIXgd8.htm](spells/transmutation-01-ps0nmhclT6aIXgd8.htm)|Ki Rush|Ruée Ki|officielle|
 |[transmutation-01-Q7QQ91vQtyi1Ux36.htm](spells/transmutation-01-Q7QQ91vQtyi1Ux36.htm)|Jump|Saut|officielle|

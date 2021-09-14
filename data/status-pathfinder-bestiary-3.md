@@ -4,7 +4,7 @@
  * **changé**: 23
 
 
-Dernière mise à jour: 2021-09-11 10:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-14 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -302,7 +302,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[uDebX6flGwrviGZK.htm](pathfinder-bestiary-3/uDebX6flGwrviGZK.htm)|Hesperid Queen|Reine Hespéride (Nymphe)|libre|
 |[uDNQyboLAiIxBatL.htm](pathfinder-bestiary-3/uDNQyboLAiIxBatL.htm)|Adult Sea Dragon|Dragon de la mer adulte|libre|
 |[ULfACJrDBnZLNBKj.htm](pathfinder-bestiary-3/ULfACJrDBnZLNBKj.htm)|Terra-cotta Soldier|Soldat en terre cuite|libre|
-|[uP6dE5adlWJ9DrFY.htm](pathfinder-bestiary-3/uP6dE5adlWJ9DrFY.htm)|Corrupted Relic|Relique dépravée|libre|
+|[uP6dE5adlWJ9DrFY.htm](pathfinder-bestiary-3/uP6dE5adlWJ9DrFY.htm)|Corrupted Relic|Relique corrompue|libre|
 |[UTqProdd8LA0X1BQ.htm](pathfinder-bestiary-3/UTqProdd8LA0X1BQ.htm)|Sepid|Sépide (Div)|libre|
 |[UxiwQ2Nmvfk9Q9tC.htm](pathfinder-bestiary-3/UxiwQ2Nmvfk9Q9tC.htm)|Shaukeen|Shaukéen (Asura)|libre|
 |[v0bKmqnUHxPTFQu4.htm](pathfinder-bestiary-3/v0bKmqnUHxPTFQu4.htm)|Hesperid|Hespéride (Nymphe)|libre|

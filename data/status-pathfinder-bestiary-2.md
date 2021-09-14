@@ -1,26 +1,16 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **changé**: 312
- * **libre**: 46
+ * **libre**: 56
+ * **changé**: 302
 
 
-Dernière mise à jour: 2021-09-11 10:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-14 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[0rhltfBkQtYkCwXd.htm](pathfinder-bestiary-2/0rhltfBkQtYkCwXd.htm)|Yellow Musk Thrall|Rejeton de mimule jaune|changé|
-|[10JbkieWjqKA5Hzc.htm](pathfinder-bestiary-2/10JbkieWjqKA5Hzc.htm)|Irlgaunt|Irlgaunt|changé|
-|[12vyw160K7p3M3Mt.htm](pathfinder-bestiary-2/12vyw160K7p3M3Mt.htm)|Quetz Couatl|Quetzalcoatl|changé|
-|[18NInoyRLIrWE0nt.htm](pathfinder-bestiary-2/18NInoyRLIrWE0nt.htm)|Chernobue|Chernobue (Qlippoth)|changé|
-|[1QWZDaBoefL5rWkz.htm](pathfinder-bestiary-2/1QWZDaBoefL5rWkz.htm)|Hodag|Hodag|changé|
-|[27R4ntwgch7eIQM6.htm](pathfinder-bestiary-2/27R4ntwgch7eIQM6.htm)|Akizendri|Akizendri (Protéen)|changé|
-|[2Kw49I6EZbKKlTtK.htm](pathfinder-bestiary-2/2Kw49I6EZbKKlTtK.htm)|Blizzardborn|Néblizzard (Élémentaire, eau)|changé|
-|[32HHvah2Ji6FjJnM.htm](pathfinder-bestiary-2/32HHvah2Ji6FjJnM.htm)|Giant Squid|Calamar géant|changé|
-|[340AwQpRXGblw1kF.htm](pathfinder-bestiary-2/340AwQpRXGblw1kF.htm)|Sarglagon|Sarglagon (Diable)|changé|
-|[37FAi1y5S8snofws.htm](pathfinder-bestiary-2/37FAi1y5S8snofws.htm)|Olethrodaemon|Oléthrodaémon (Daémon)|changé|
 |[3dlupMwDA9qv1xWS.htm](pathfinder-bestiary-2/3dlupMwDA9qv1xWS.htm)|Suli Dune Dancer|Danseur de dunes Suli (Descendant de génie)|changé|
 |[3MDlKPlPhHBo1DId.htm](pathfinder-bestiary-2/3MDlKPlPhHBo1DId.htm)|Vampire Squid|Calamar vampire|changé|
 |[3u4toki9EeSRvcs2.htm](pathfinder-bestiary-2/3u4toki9EeSRvcs2.htm)|Quoppopak|Quoppopak|changé|
@@ -328,6 +318,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[0rhltfBkQtYkCwXd.htm](pathfinder-bestiary-2/0rhltfBkQtYkCwXd.htm)|Yellow Musk Thrall|Rejeton de mimule jaune|libre|
+|[10JbkieWjqKA5Hzc.htm](pathfinder-bestiary-2/10JbkieWjqKA5Hzc.htm)|Irlgaunt|Irlgaunt|libre|
+|[12vyw160K7p3M3Mt.htm](pathfinder-bestiary-2/12vyw160K7p3M3Mt.htm)|Quetz Couatl|Quetzalcoatl|libre|
+|[18NInoyRLIrWE0nt.htm](pathfinder-bestiary-2/18NInoyRLIrWE0nt.htm)|Chernobue|Chernobue (Qlippoth)|libre|
+|[1QWZDaBoefL5rWkz.htm](pathfinder-bestiary-2/1QWZDaBoefL5rWkz.htm)|Hodag|Hodag|libre|
+|[27R4ntwgch7eIQM6.htm](pathfinder-bestiary-2/27R4ntwgch7eIQM6.htm)|Akizendri|Akizendri (Protéen)|libre|
+|[2Kw49I6EZbKKlTtK.htm](pathfinder-bestiary-2/2Kw49I6EZbKKlTtK.htm)|Blizzardborn|Néblizzard (Élémentaire, eau)|libre|
+|[32HHvah2Ji6FjJnM.htm](pathfinder-bestiary-2/32HHvah2Ji6FjJnM.htm)|Giant Squid|Calamar géant|libre|
+|[340AwQpRXGblw1kF.htm](pathfinder-bestiary-2/340AwQpRXGblw1kF.htm)|Sarglagon|Sarglagon (Diable)|libre|
+|[37FAi1y5S8snofws.htm](pathfinder-bestiary-2/37FAi1y5S8snofws.htm)|Olethrodaemon|Oléthrodaémon (Daémon)|libre|
 |[3DSqfobadad3pA6O.htm](pathfinder-bestiary-2/3DSqfobadad3pA6O.htm)|Giant Fly|Mouche géante|libre|
 |[5l3surWoPHTgPoWY.htm](pathfinder-bestiary-2/5l3surWoPHTgPoWY.htm)|Petitioner (Abaddon)|Pétitionnaire (Abaddon)|libre|
 |[6FltuGxvUoNH9b17.htm](pathfinder-bestiary-2/6FltuGxvUoNH9b17.htm)|Petitioner (Plane of Air)|Pétitionnaire (Plan de l'air)|libre|

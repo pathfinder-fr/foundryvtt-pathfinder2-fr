@@ -2,11 +2,11 @@
 
  * **changé**: 6
  * **officielle**: 9
- * **libre**: 2
- * **aucune**: 2
+ * **libre**: 3
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2021-09-11 10:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-14 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,7 +14,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[HQBA9Yx2s8ycvz3C.htm](classes/HQBA9Yx2s8ycvz3C.htm)|Magus|
-|[YtOm245r8GFSFYeD.htm](classes/YtOm245r8GFSFYeD.htm)|Summoner|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -42,3 +41,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[YDRiP7uVvr9WRhOI.htm](classes/YDRiP7uVvr9WRhOI.htm)|Barbarian|Barbare|officielle|
 |[Yix76sfxrIlltSTJ.htm](classes/Yix76sfxrIlltSTJ.htm)|Ranger|Rôdeur|officielle|
 |[YPxpk9JbMnKjbNLc.htm](classes/YPxpk9JbMnKjbNLc.htm)|Monk|Moine|officielle|
+|[YtOm245r8GFSFYeD.htm](classes/YtOm245r8GFSFYeD.htm)|Summoner|Conjurateur|libre|

@@ -1,56 +1,20 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 209
- * **changé**: 50
- * **libre**: 128
- * **aucune**: 38
+ * **officielle**: 210
+ * **changé**: 49
+ * **libre**: 164
+ * **aucune**: 2
 
 
-Dernière mise à jour: 2021-09-11 10:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-14 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[druid-01-fKTewWlYgFuhl4KA.htm](classfeatures/druid-01-fKTewWlYgFuhl4KA.htm)|Stone Order|
-|[druid-01-FuUXyv2yBs7zRgqT.htm](classfeatures/druid-01-FuUXyv2yBs7zRgqT.htm)|Wave Order|
 |[druid-01-NdeFvIXdHwKYLiUj.htm](classfeatures/druid-01-NdeFvIXdHwKYLiUj.htm)|Flame Order|
-|[magus-01-09iL38CZZEa0q0Mt.htm](classfeatures/magus-01-09iL38CZZEa0q0Mt.htm)|Arcane Cascade|
-|[magus-01-3gVDqDPSz4fB5T9G.htm](classfeatures/magus-01-3gVDqDPSz4fB5T9G.htm)|Laughing Shadow|
-|[magus-01-6YJ8KFl7THkVy6Gm.htm](classfeatures/magus-01-6YJ8KFl7THkVy6Gm.htm)|Twisting Tree|
-|[magus-01-FkbFgmoVz5lHhSMo.htm](classfeatures/magus-01-FkbFgmoVz5lHhSMo.htm)|Conflux Spells|
-|[magus-01-FTeIs1Z1Qeli4BIF.htm](classfeatures/magus-01-FTeIs1Z1Qeli4BIF.htm)|Hybrid Study|
-|[magus-01-KVj5ofUwu3VJSrVw.htm](classfeatures/magus-01-KVj5ofUwu3VJSrVw.htm)|Spellstrike|
-|[magus-01-maGzhKLmgubAdUlN.htm](classfeatures/magus-01-maGzhKLmgubAdUlN.htm)|Sparkling Targe|
-|[magus-01-Pew7duAozEeAemif.htm](classfeatures/magus-01-Pew7duAozEeAemif.htm)|Starlit Span|
-|[magus-01-ZslXrvYRxHBXc1Ds.htm](classfeatures/magus-01-ZslXrvYRxHBXc1Ds.htm)|Inexorable Iron|
-|[magus-07-6HCI2iHyBZAr7a4P.htm](classfeatures/magus-07-6HCI2iHyBZAr7a4P.htm)|Studious Spells|
-|[magus-15-pzTRQxuoNOeWAalC.htm](classfeatures/magus-15-pzTRQxuoNOeWAalC.htm)|Juggernaut (Level 15)|
-|[magus-17-cGMSYAErbUG5E8X2.htm](classfeatures/magus-17-cGMSYAErbUG5E8X2.htm)|Medium Armor Mastery (Level 17)|
-|[magus-19-VmPIJomEdmgGrCMS.htm](classfeatures/magus-19-VmPIJomEdmgGrCMS.htm)|Double Spellstrike|
-|[summoner-01-gWcN75VNpSZ4FqNb.htm](classfeatures/summoner-01-gWcN75VNpSZ4FqNb.htm)|Summoner Spellcasting|
-|[summoner-01-IPcdQAwJk0aZe5mg.htm](classfeatures/summoner-01-IPcdQAwJk0aZe5mg.htm)|Evolution Feat|
-|[summoner-01-Ju2Tp5s5iBB76tQO.htm](classfeatures/summoner-01-Ju2Tp5s5iBB76tQO.htm)|Spell Repertoire (Summoner)|
-|[summoner-01-qOEpe596B0UjhcG0.htm](classfeatures/summoner-01-qOEpe596B0UjhcG0.htm)|Eidolon|
-|[summoner-01-wguqw300DB5XdD8W.htm](classfeatures/summoner-01-wguqw300DB5XdD8W.htm)|Link Spells|
-|[summoner-03-P34Jx6i4GJGoqTtG.htm](classfeatures/summoner-03-P34Jx6i4GJGoqTtG.htm)|Unlimited Signature Spells|
-|[summoner-03-QiMlJ33kNEoyh1M0.htm](classfeatures/summoner-03-QiMlJ33kNEoyh1M0.htm)|Shared Vigilance|
-|[summoner-05-GI5IAl4dkly4At8e.htm](classfeatures/summoner-05-GI5IAl4dkly4At8e.htm)|Ability Boosts|
-|[summoner-05-pda6iUaU9waXId5Q.htm](classfeatures/summoner-05-pda6iUaU9waXId5Q.htm)|Eidolon Unarmed Expertise|
-|[summoner-07-oCnyGRvkfjTsZXcX.htm](classfeatures/summoner-07-oCnyGRvkfjTsZXcX.htm)|Eidolon Weapon Specialization|
-|[summoner-07-skQBrwRwJW2K6ACj.htm](classfeatures/summoner-07-skQBrwRwJW2K6ACj.htm)|Eidolon Symbiosis|
-|[summoner-09-dZNAXTQovlWVvAyX.htm](classfeatures/summoner-09-dZNAXTQovlWVvAyX.htm)|Shared Reflexes|
 |[summoner-09-mdzk070ixIDpid7V.htm](classfeatures/summoner-09-mdzk070ixIDpid7V.htm)|Expert Spellcaster (Level 9)|
-|[summoner-11-2CZPYoyWih6zYTcb.htm](classfeatures/summoner-11-2CZPYoyWih6zYTcb.htm)|Eidolon Defensive Expertise|
-|[summoner-11-q1Y12Pg2gQg2FJPR.htm](classfeatures/summoner-11-q1Y12Pg2gQg2FJPR.htm)|Twin Juggernauts|
-|[summoner-13-NIzHfVcVMhDmvA49.htm](classfeatures/summoner-13-NIzHfVcVMhDmvA49.htm)|Eidolon Unarmed Mastery|
-|[summoner-15-B5SyM7qHrU0gTGR0.htm](classfeatures/summoner-15-B5SyM7qHrU0gTGR0.htm)|Greater Eidolon Specialization|
-|[summoner-15-eZPfHVz14j42jCnS.htm](classfeatures/summoner-15-eZPfHVz14j42jCnS.htm)|Shared Resolve|
-|[summoner-17-nCE9DzkugRefREqT.htm](classfeatures/summoner-17-nCE9DzkugRefREqT.htm)|Eidolon Transcendence|
-|[summoner-17-zu9PcxvfoZlqQVk5.htm](classfeatures/summoner-17-zu9PcxvfoZlqQVk5.htm)|Master Spellcaster (Level 17)|
-|[summoner-19-0WvI8KM5m0SaZ3MH.htm](classfeatures/summoner-19-0WvI8KM5m0SaZ3MH.htm)|Eidolon Defensive Mastery|
-|[summoner-19-H0iWhiyP0QqgmAKs.htm](classfeatures/summoner-19-H0iWhiyP0QqgmAKs.htm)|Instant Manifestation|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -97,7 +61,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-01-Z2eWkfXblU0QxFx1.htm](classfeatures/barbarian-01-Z2eWkfXblU0QxFx1.htm)|Silver Dragon Instinct|Instinct du Dragon - Argent|changé|
 |[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin|Paladin|changé|
 |[druid-01-8STJEFVJISujgpMR.htm](classfeatures/druid-01-8STJEFVJISujgpMR.htm)|Druidic Order|Ordre druidique|changé|
-|[mental-01-WZUCvxqbigXos1L9.htm](classfeatures/mental-01-WZUCvxqbigXos1L9.htm)|Rage|Rage|changé|
 |[None-00-UTRDN1TAieBMjwP1.htm](classfeatures/None-00-UTRDN1TAieBMjwP1.htm)|Order of the Godclaw|Ordre du dieu griffu|changé|
 |[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames Mystery|Mystère des flammes|changé|
 |[oracle-01-qvRlih3u7vK3FYUR.htm](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Ancestors Mystery|Mystère des ancêtres|changé|
@@ -218,6 +181,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-01-acqqlYmti8D9QJi0.htm](classfeatures/druid-01-acqqlYmti8D9QJi0.htm)|Storm Order|Ordre de la tempête|officielle|
 |[druid-01-b8pnRxGuNzG0buuh.htm](classfeatures/druid-01-b8pnRxGuNzG0buuh.htm)|Primal Spellcasting|Incantation primordiale|officielle|
 |[druid-01-d5BFFHXFJYKs5LXr.htm](classfeatures/druid-01-d5BFFHXFJYKs5LXr.htm)|Wild Empathy|Empathie sauvage|officielle|
+|[druid-01-fKTewWlYgFuhl4KA.htm](classfeatures/druid-01-fKTewWlYgFuhl4KA.htm)|Stone Order|Ordre de la pierre|libre|
+|[druid-01-FuUXyv2yBs7zRgqT.htm](classfeatures/druid-01-FuUXyv2yBs7zRgqT.htm)|Wave Order|Ordre de la vague|libre|
 |[druid-01-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-01-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|officielle|
 |[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal Order|Ordre animal|officielle|
 |[druid-01-RiAGlnnp4S21BAG3.htm](classfeatures/druid-01-RiAGlnnp4S21BAG3.htm)|Druidic Language|Le druidique|officielle|
@@ -255,9 +220,23 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[investigator-11-vv63fioCtOvDIdF2.htm](classfeatures/investigator-11-vv63fioCtOvDIdF2.htm)|Resolve (Level 11)|Résolution (Niveau 11)|libre|
 |[investigator-15-DqWr3LqUpT3Xi2xq.htm](classfeatures/investigator-15-DqWr3LqUpT3Xi2xq.htm)|Evasion (Level 15)|Évasion (Niveau 15)|officielle|
 |[investigator-19-flEx8eY0NinF9XZU.htm](classfeatures/investigator-19-flEx8eY0NinF9XZU.htm)|Master Detective|Maître détective|libre|
+|[magus-01-09iL38CZZEa0q0Mt.htm](classfeatures/magus-01-09iL38CZZEa0q0Mt.htm)|Arcane Cascade|Cascade arcanique|libre|
+|[magus-01-3gVDqDPSz4fB5T9G.htm](classfeatures/magus-01-3gVDqDPSz4fB5T9G.htm)|Laughing Shadow|Ombre ricanante|libre|
+|[magus-01-6YJ8KFl7THkVy6Gm.htm](classfeatures/magus-01-6YJ8KFl7THkVy6Gm.htm)|Twisting Tree|Arbre tordu|libre|
+|[magus-01-FkbFgmoVz5lHhSMo.htm](classfeatures/magus-01-FkbFgmoVz5lHhSMo.htm)|Conflux Spells|Sorts de confluence|libre|
+|[magus-01-FTeIs1Z1Qeli4BIF.htm](classfeatures/magus-01-FTeIs1Z1Qeli4BIF.htm)|Hybrid Study|Études hybridées|libre|
+|[magus-01-KVj5ofUwu3VJSrVw.htm](classfeatures/magus-01-KVj5ofUwu3VJSrVw.htm)|Spellstrike|Frappe de sort|libre|
+|[magus-01-maGzhKLmgubAdUlN.htm](classfeatures/magus-01-maGzhKLmgubAdUlN.htm)|Sparkling Targe|Targe étincelante|libre|
+|[magus-01-Pew7duAozEeAemif.htm](classfeatures/magus-01-Pew7duAozEeAemif.htm)|Starlit Span|Portée des étoiles|libre|
+|[magus-01-ZslXrvYRxHBXc1Ds.htm](classfeatures/magus-01-ZslXrvYRxHBXc1Ds.htm)|Inexorable Iron|Acier inexorable|libre|
 |[magus-05-9XLUh9iMepZesdmc.htm](classfeatures/magus-05-9XLUh9iMepZesdmc.htm)|Weapon Expertise (Level 5)|Expertise avec les armes (Niveau 5)|libre|
+|[magus-07-6HCI2iHyBZAr7a4P.htm](classfeatures/magus-07-6HCI2iHyBZAr7a4P.htm)|Studious Spells|Sorts studieux|libre|
 |[magus-09-D2g6sZQAWaTccviQ.htm](classfeatures/magus-09-D2g6sZQAWaTccviQ.htm)|Resolve (Level 9)|Résolution (Niveau 9)|libre|
 |[magus-09-TAIOtk5VvPZvv4nu.htm](classfeatures/magus-09-TAIOtk5VvPZvv4nu.htm)|Alertness (Level 9)|Vigilance (Niveau 9)|libre|
+|[magus-15-pzTRQxuoNOeWAalC.htm](classfeatures/magus-15-pzTRQxuoNOeWAalC.htm)|Juggernaut (Level 15)|Juggernaut (Niveau 15)|libre|
+|[magus-17-cGMSYAErbUG5E8X2.htm](classfeatures/magus-17-cGMSYAErbUG5E8X2.htm)|Medium Armor Mastery (Level 17)|Maîtrise des armures intermédiaires (Niveau 17)|libre|
+|[magus-19-VmPIJomEdmgGrCMS.htm](classfeatures/magus-19-VmPIJomEdmgGrCMS.htm)|Double Spellstrike|Double frappe de sort|libre|
+|[mental-01-WZUCvxqbigXos1L9.htm](classfeatures/mental-01-WZUCvxqbigXos1L9.htm)|Rage|Rage|officielle|
 |[monk-01-NLHHHiAcdnZ5ohc2.htm](classfeatures/monk-01-NLHHHiAcdnZ5ohc2.htm)|Flurry of Blows|Déluge de coups|officielle|
 |[monk-01-SB8UJ8rZmvbcBweJ.htm](classfeatures/monk-01-SB8UJ8rZmvbcBweJ.htm)|Powerful Fist|Poings puissants|officielle|
 |[monk-03-Cq6NjvcKZOMySBVj.htm](classfeatures/monk-03-Cq6NjvcKZOMySBVj.htm)|Incredible Movement|Déplacement extraordinaire|officielle|
@@ -375,6 +354,27 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|Lignage : Draconique|officielle|
 |[sorcerer-03-VKRjmXxBFLrJK01c.htm](classfeatures/sorcerer-03-VKRjmXxBFLrJK01c.htm)|Signature Spells (Level 3)|Sorts emblématiques (Niveau 3)|officielle|
 |[sorcerer-19-feCnVrPPlKhl701x.htm](classfeatures/sorcerer-19-feCnVrPPlKhl701x.htm)|Bloodline Paragon|Parangon du lignage|officielle|
+|[summoner-01-gWcN75VNpSZ4FqNb.htm](classfeatures/summoner-01-gWcN75VNpSZ4FqNb.htm)|Summoner Spellcasting|Incantation du conjurateur|libre|
+|[summoner-01-IPcdQAwJk0aZe5mg.htm](classfeatures/summoner-01-IPcdQAwJk0aZe5mg.htm)|Evolution Feat|Don d'évolution|libre|
+|[summoner-01-Ju2Tp5s5iBB76tQO.htm](classfeatures/summoner-01-Ju2Tp5s5iBB76tQO.htm)|Spell Repertoire (Summoner)|Répertoire de sorts (Conjurateur)|libre|
+|[summoner-01-qOEpe596B0UjhcG0.htm](classfeatures/summoner-01-qOEpe596B0UjhcG0.htm)|Eidolon|Eidolon|libre|
+|[summoner-01-wguqw300DB5XdD8W.htm](classfeatures/summoner-01-wguqw300DB5XdD8W.htm)|Link Spells|Sorts liés|libre|
+|[summoner-03-P34Jx6i4GJGoqTtG.htm](classfeatures/summoner-03-P34Jx6i4GJGoqTtG.htm)|Unlimited Signature Spells|Sorts emblématiques illimités|libre|
+|[summoner-03-QiMlJ33kNEoyh1M0.htm](classfeatures/summoner-03-QiMlJ33kNEoyh1M0.htm)|Shared Vigilance|Vigilance partagée|libre|
+|[summoner-05-GI5IAl4dkly4At8e.htm](classfeatures/summoner-05-GI5IAl4dkly4At8e.htm)|Ability Boosts|Primes de caractéristiques (conjurateur)|libre|
+|[summoner-05-pda6iUaU9waXId5Q.htm](classfeatures/summoner-05-pda6iUaU9waXId5Q.htm)|Eidolon Unarmed Expertise|Expertise à mains nues de l'eidolon|libre|
+|[summoner-07-oCnyGRvkfjTsZXcX.htm](classfeatures/summoner-07-oCnyGRvkfjTsZXcX.htm)|Eidolon Weapon Specialization|Spécialisation des armes de l'eidolon|libre|
+|[summoner-07-skQBrwRwJW2K6ACj.htm](classfeatures/summoner-07-skQBrwRwJW2K6ACj.htm)|Eidolon Symbiosis|Symbiose de l'eidolon|libre|
+|[summoner-09-dZNAXTQovlWVvAyX.htm](classfeatures/summoner-09-dZNAXTQovlWVvAyX.htm)|Shared Reflexes|réflexes partagés|libre|
+|[summoner-11-2CZPYoyWih6zYTcb.htm](classfeatures/summoner-11-2CZPYoyWih6zYTcb.htm)|Eidolon Defensive Expertise|Expertise défensive de l'eidolon|libre|
+|[summoner-11-q1Y12Pg2gQg2FJPR.htm](classfeatures/summoner-11-q1Y12Pg2gQg2FJPR.htm)|Twin Juggernauts|Juggernauts jumelés|libre|
+|[summoner-13-NIzHfVcVMhDmvA49.htm](classfeatures/summoner-13-NIzHfVcVMhDmvA49.htm)|Eidolon Unarmed Mastery|Maîtrise à mains nues de l'eidolon|libre|
+|[summoner-15-B5SyM7qHrU0gTGR0.htm](classfeatures/summoner-15-B5SyM7qHrU0gTGR0.htm)|Greater Eidolon Specialization|Spécialisation de l'eidolon supérieure|libre|
+|[summoner-15-eZPfHVz14j42jCnS.htm](classfeatures/summoner-15-eZPfHVz14j42jCnS.htm)|Shared Resolve|résolution partagée|libre|
+|[summoner-17-nCE9DzkugRefREqT.htm](classfeatures/summoner-17-nCE9DzkugRefREqT.htm)|Eidolon Transcendence|Transcendance de l'eidolon|libre|
+|[summoner-17-zu9PcxvfoZlqQVk5.htm](classfeatures/summoner-17-zu9PcxvfoZlqQVk5.htm)|Master Spellcaster (Level 17)|Incantateur maître (Niveau 17)|libre|
+|[summoner-19-0WvI8KM5m0SaZ3MH.htm](classfeatures/summoner-19-0WvI8KM5m0SaZ3MH.htm)|Eidolon Defensive Mastery|Maîtrise défensive de l'eidolon|libre|
+|[summoner-19-H0iWhiyP0QqgmAKs.htm](classfeatures/summoner-19-H0iWhiyP0QqgmAKs.htm)|Instant Manifestation|Manifestation instantanée|libre|
 |[swashbuckler-01-4lGhbEjlEoGP4scl.htm](classfeatures/swashbuckler-01-4lGhbEjlEoGP4scl.htm)|Wit Style|Style : Esprit|libre|
 |[swashbuckler-01-5HoEwzLDJGTCZtFa.htm](classfeatures/swashbuckler-01-5HoEwzLDJGTCZtFa.htm)|Battledancer Style|Style : Danseur de combat|libre|
 |[swashbuckler-01-B7RMnrHwQHlezlJT.htm](classfeatures/swashbuckler-01-B7RMnrHwQHlezlJT.htm)|Gymnast Style|Style : Gymnaste|libre|

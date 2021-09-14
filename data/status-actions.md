@@ -1,12 +1,12 @@
 # État de la traduction (actions)
 
  * **officielle**: 95
- * **aucune**: 44
- * **libre**: 56
+ * **aucune**: 41
+ * **libre**: 59
  * **changé**: 33
 
 
-Dernière mise à jour: 2021-09-11 10:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-14 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -16,7 +16,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[06frwOOuo4HJtivl.htm](actions/06frwOOuo4HJtivl.htm)|Furious Strike|
 |[2424g94rpoiN1IPh.htm](actions/2424g94rpoiN1IPh.htm)|Catharsis|
 |[2KV87ponbWXgGIhZ.htm](actions/2KV87ponbWXgGIhZ.htm)|Act Together|
-|[3cuTA58ObXhuFX2r.htm](actions/3cuTA58ObXhuFX2r.htm)|Bend Time|
 |[3ZzoI9MTtJFd1Kjl.htm](actions/3ZzoI9MTtJFd1Kjl.htm)|Share Senses|
 |[5V49l0K460CcvBOO.htm](actions/5V49l0K460CcvBOO.htm)|Defend Life|
 |[6SAdjml3OZw0BZnn.htm](actions/6SAdjml3OZw0BZnn.htm)|Thundering Roar|
@@ -40,7 +39,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[KyKXp599tK9BgodC.htm](actions/KyKXp599tK9BgodC.htm)|Dutiful Retaliation|
 |[MY6z2b4GPhAD2Eoa.htm](actions/MY6z2b4GPhAD2Eoa.htm)|Share Life|
 |[n5vwBnLSlIXL9ptp.htm](actions/n5vwBnLSlIXL9ptp.htm)|Manifest Eidolon|
-|[N6U02s9qJKQIvmQd.htm](actions/N6U02s9qJKQIvmQd.htm)|Wish for Luck|
 |[nSTMF6kYIt6rXhJx.htm](actions/nSTMF6kYIt6rXhJx.htm)|Seething Frenzy|
 |[OJ9cIvPukPT0rppR.htm](actions/OJ9cIvPukPT0rppR.htm)|Wyrm's Breath|
 |[QDW9H8XLIjuW2fE4.htm](actions/QDW9H8XLIjuW2fE4.htm)|Spellstrike|
@@ -51,7 +49,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[tu5viJZT4zFE1sYn.htm](actions/tu5viJZT4zFE1sYn.htm)|Whirlwind Maul|
 |[uMFB3uw8WTWL0LZD.htm](actions/uMFB3uw8WTWL0LZD.htm)|Draconic Frenzy|
 |[VCUz5EnBUJF07j1a.htm](actions/VCUz5EnBUJF07j1a.htm)|Sever Conduit|
-|[vdnuczo4ktS7ow7N.htm](actions/vdnuczo4ktS7ow7N.htm)|Prophecy's Pawn|
 |[Xg57qG1rOfSSobke.htm](actions/Xg57qG1rOfSSobke.htm)|Breath Weapon|
 |[yOtu5X3qWfjuX8Vy.htm](actions/yOtu5X3qWfjuX8Vy.htm)|Learn Name|
 |[YpuEmI1fJBZD3kMc.htm](actions/YpuEmI1fJBZD3kMc.htm)|Tendril Strike|
@@ -112,6 +109,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2HJ4yuEFY1Cast4h.htm](actions/2HJ4yuEFY1Cast4h.htm)|High Jump|Sauter en hauteur|officielle|
 |[2u915NdUyQan6uKF.htm](actions/2u915NdUyQan6uKF.htm)|Demoralize|Démoraliser|officielle|
 |[34E7k2YRcsOU5uyl.htm](actions/34E7k2YRcsOU5uyl.htm)|Change Shape (Anadi)|Changer de forme (anadi)|libre|
+|[3cuTA58ObXhuFX2r.htm](actions/3cuTA58ObXhuFX2r.htm)|Bend Time|Courber le temps|libre|
 |[3UEwtMA5y8foVqYP.htm](actions/3UEwtMA5y8foVqYP.htm)|Breath Weapon (Electricity) (Line)|arme de souffle électrique (ligne)|libre|
 |[49y9Ec4bDii8pcD3.htm](actions/49y9Ec4bDii8pcD3.htm)|Subsist|Subsister|officielle|
 |[5Vuhf4DjvMvRqiEZ.htm](actions/5Vuhf4DjvMvRqiEZ.htm)|Breath Weapon (Negative) (Cone)|Arme de souffle négative (cône)|libre|
@@ -194,6 +192,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[MHLuKy4nQO2Z4Am1.htm](actions/MHLuKy4nQO2Z4Am1.htm)|Administer First Aid|Prodiguer les premiers soins|officielle|
 |[mk6rzaAzsBBRGJnh.htm](actions/mk6rzaAzsBBRGJnh.htm)|Call Upon the Brightness|Faire appel à la lumière|libre|
 |[mVscmsZWWcVACdU5.htm](actions/mVscmsZWWcVACdU5.htm)|Soaring Flight|Voler haut|libre|
+|[N6U02s9qJKQIvmQd.htm](actions/N6U02s9qJKQIvmQd.htm)|Wish for Luck|Souhait de bonne fortune|libre|
 |[nbfNETdpee8CVM17.htm](actions/nbfNETdpee8CVM17.htm)|Flurry of Blows|Déluge de coups|officielle|
 |[NEBuuhjZE9BL3I8v.htm](actions/NEBuuhjZE9BL3I8v.htm)|Breath Weapon (Poison) (Cone)|Arme de souffle empoisonné (cône)|libre|
 |[oAWNluJaMlaGysXA.htm](actions/oAWNluJaMlaGysXA.htm)|Barbed Quills|Piquants barbelés|libre|
@@ -238,6 +237,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[uS3qDAgOkZ7b8ERL.htm](actions/uS3qDAgOkZ7b8ERL.htm)|Drive|Diriger|libre|
 |[ust1jJSCZQUhBZIz.htm](actions/ust1jJSCZQUhBZIz.htm)|Take Cover|Mise à l'abri|officielle|
 |[v82XtjAVN4ffgVVR.htm](actions/v82XtjAVN4ffgVVR.htm)|Drain Bonded Item|Drain d'objet lié|officielle|
+|[vdnuczo4ktS7ow7N.htm](actions/vdnuczo4ktS7ow7N.htm)|Prophecy's Pawn|Pion de prophétie|libre|
 |[VjxZFuUXrCU94MWR.htm](actions/VjxZFuUXrCU94MWR.htm)|Strike|Frapper|officielle|
 |[VMozDqMMuK5kpoX4.htm](actions/VMozDqMMuK5kpoX4.htm)|Sneak|Être furtif|officielle|
 |[VOEWhPQfN3lvHivK.htm](actions/VOEWhPQfN3lvHivK.htm)|Foresight|Prémonition|libre|

@@ -1,12 +1,12 @@
 # État de la traduction (feats)
 
- * **libre**: 1469
- * **changé**: 607
+ * **libre**: 1477
+ * **changé**: 606
  * **officielle**: 781
- * **aucune**: 216
+ * **aucune**: 209
 
 
-Dernière mise à jour: 2021-09-11 10:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-14 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -93,14 +93,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-18-ZB2WMbhALgQTGY3c.htm](feats/archetype-18-ZB2WMbhALgQTGY3c.htm)|School Spell Redirection|
 |[bonus-04-RzElsoBGTjKWjPgY.htm](feats/bonus-04-RzElsoBGTjKWjPgY.htm)|Sheltering Cave|
 |[bonus-14-TdA3oVj79KxOm2Kd.htm](feats/bonus-14-TdA3oVj79KxOm2Kd.htm)|Wind-Tossed Spell|
-|[class-01-0PCDkVnRxVqxsp9j.htm](feats/class-01-0PCDkVnRxVqxsp9j.htm)|Energy Heart|
-|[class-01-0yPbPVEESwB6Bdfw.htm](feats/class-01-0yPbPVEESwB6Bdfw.htm)|Magus's Analysis|
-|[class-01-2bCbfQ0KCSSYpg2q.htm](feats/class-01-2bCbfQ0KCSSYpg2q.htm)|Unfetter Eidolon|
 |[class-01-2Lcwqwq8CF40TYHd.htm](feats/class-01-2Lcwqwq8CF40TYHd.htm)|Dual Studies|
-|[class-01-Bj0GvPgyPiC2kDH1.htm](feats/class-01-Bj0GvPgyPiC2kDH1.htm)|Glider Form|
-|[class-01-GuEdTz1VMEptQnOd.htm](feats/class-01-GuEdTz1VMEptQnOd.htm)|Stoked Flame Stance|
-|[class-01-JoxEspM0kbCop7og.htm](feats/class-01-JoxEspM0kbCop7og.htm)|Raise a Tome|
-|[class-01-kFpVgcqREAfDmjXp.htm](feats/class-01-kFpVgcqREAfDmjXp.htm)|Advanced Weaponry|
 |[class-01-knZUN4sYExIyRC4F.htm](feats/class-01-knZUN4sYExIyRC4F.htm)|Reflective Ripple Stance|
 |[class-01-kS4wxSKrZxcOvSNK.htm](feats/class-01-kS4wxSKrZxcOvSNK.htm)|Shore Step|
 |[class-01-L5nSP8CkHWSLp2vV.htm](feats/class-01-L5nSP8CkHWSLp2vV.htm)|Arcane Fists|
@@ -352,7 +345,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-01-xTe8lNBp76jsrhYh.htm](feats/ancestry-01-xTe8lNBp76jsrhYh.htm)|Slag May|Vierge crasseuse|changé|
 |[ancestry-01-XXAqMjml33jnQiDO.htm](feats/ancestry-01-XXAqMjml33jnQiDO.htm)|Old Soul|Âme vieille|changé|
 |[ancestry-01-Y8c8hAyjNAiqgxAO.htm](feats/ancestry-01-Y8c8hAyjNAiqgxAO.htm)|Pelagic Aptitude|Aptitude pélagique|changé|
-|[ancestry-01-Y8sKn8NH1wC7Mrui.htm](feats/ancestry-01-Y8sKn8NH1wC7Mrui.htm)|Fangs|Crocs|changé|
 |[ancestry-01-yEbXxbD317IZgtsN.htm](feats/ancestry-01-yEbXxbD317IZgtsN.htm)|Dustsoul|Âme poussiéreuse|changé|
 |[ancestry-01-yQZ6naE8AP6JYTSH.htm](feats/ancestry-01-yQZ6naE8AP6JYTSH.htm)|Ember's Eyes|Yeux de braise|changé|
 |[ancestry-01-zi84Xt4dTsLeJ3uD.htm](feats/ancestry-01-zi84Xt4dTsLeJ3uD.htm)|Living Weapon (Tail)|Arme vivante (queue)|changé|
@@ -1063,6 +1055,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-01-xzpMQ2ZRn9zC23XG.htm](feats/ancestry-01-xzpMQ2ZRn9zC23XG.htm)|Scamper|Détaler|libre|
 |[ancestry-01-Y1bEisU8jVCsIYk3.htm](feats/ancestry-01-Y1bEisU8jVCsIYk3.htm)|Woodcraft|Forestier|libre|
 |[ancestry-01-y7Or0CbcQBDdS9yG.htm](feats/ancestry-01-y7Or0CbcQBDdS9yG.htm)|Elven Aloofness|Détachement elfique|libre|
+|[ancestry-01-Y8sKn8NH1wC7Mrui.htm](feats/ancestry-01-Y8sKn8NH1wC7Mrui.htm)|Fangs|Crocs|libre|
 |[ancestry-01-yaacOmfmBuGDcNOs.htm](feats/ancestry-01-yaacOmfmBuGDcNOs.htm)|Skittertalk|Parler avec les araignées|libre|
 |[ancestry-01-yCaWcKlpbAfebqlO.htm](feats/ancestry-01-yCaWcKlpbAfebqlO.htm)|Shoony Lore|Connaissance des Shoonis|libre|
 |[ancestry-01-ydgCsYsgqSkFWEDK.htm](feats/ancestry-01-ydgCsYsgqSkFWEDK.htm)|Angelkin|Type angélique|libre|
@@ -2022,9 +2015,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bonus-00-w7dOgJvqAqyqSeSQ.htm](feats/bonus-00-w7dOgJvqAqyqSeSQ.htm)|Devil Allies|Alliés diaboliques|officielle|
 |[bonus-00-XOAtP64xiSRIofsY.htm](feats/bonus-00-XOAtP64xiSRIofsY.htm)|Sturdy Bindings|Liens renforcés|officielle|
 |[class-01-0BR61rW4JFOfO7T7.htm](feats/class-01-0BR61rW4JFOfO7T7.htm)|Cackle|Gloussement|libre|
+|[class-01-0PCDkVnRxVqxsp9j.htm](feats/class-01-0PCDkVnRxVqxsp9j.htm)|Energy Heart|Cœur énergétique|libre|
+|[class-01-0yPbPVEESwB6Bdfw.htm](feats/class-01-0yPbPVEESwB6Bdfw.htm)|Magus's Analysis|Analyse du magus|libre|
 |[class-01-142QRyK2aPIrJu48.htm](feats/class-01-142QRyK2aPIrJu48.htm)|Holy Castigation|Punition sacrée|libre|
 |[class-01-1MWL2uEmyiOfYtJn.htm](feats/class-01-1MWL2uEmyiOfYtJn.htm)|Disarming Flair|Élégance désarmante|libre|
 |[class-01-1W0a6YCyoYv8dm4e.htm](feats/class-01-1W0a6YCyoYv8dm4e.htm)|Harming Hands|Mains blessantes|officielle|
+|[class-01-2bCbfQ0KCSSYpg2q.htm](feats/class-01-2bCbfQ0KCSSYpg2q.htm)|Unfetter Eidolon|Eidolon affranchi|libre|
 |[class-01-2c9awqDem5OLK47S.htm](feats/class-01-2c9awqDem5OLK47S.htm)|Weight of Guilt|Poids de la culpabilité|officielle|
 |[class-01-2xk4jdwcCfmasYfT.htm](feats/class-01-2xk4jdwcCfmasYfT.htm)|Power Attack|Attaque en puissance|officielle|
 |[class-01-3a07jkWezSuORSpS.htm](feats/class-01-3a07jkWezSuORSpS.htm)|Ki Strike|Frappe ki|officielle|
@@ -2049,6 +2045,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-01-bCizH4ByTwbLcYA1.htm](feats/class-01-bCizH4ByTwbLcYA1.htm)|One For All|Un pour tous|libre|
 |[class-01-bcxIg7wi8ZAhvhOD.htm](feats/class-01-bcxIg7wi8ZAhvhOD.htm)|Familiar|Familier|officielle|
 |[class-01-bf7NCeKqDClaqhTR.htm](feats/class-01-bf7NCeKqDClaqhTR.htm)|Crane Stance|Posture de la grue|officielle|
+|[class-01-Bj0GvPgyPiC2kDH1.htm](feats/class-01-Bj0GvPgyPiC2kDH1.htm)|Glider Form|Forme de planeur|libre|
 |[class-01-BJHsCiBLdjgJo6zM.htm](feats/class-01-BJHsCiBLdjgJo6zM.htm)|Far Lobber|Lanceur à grande distance|officielle|
 |[class-01-BWomK7EVY0WXxWgh.htm](feats/class-01-BWomK7EVY0WXxWgh.htm)|Reach Spell|Sort éloigné|officielle|
 |[class-01-c3b7DhnDBC7YEgRG.htm](feats/class-01-c3b7DhnDBC7YEgRG.htm)|Hunted Shot|Tir du chasseur|officielle|
@@ -2065,6 +2062,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-01-FCzfh8QHMo7QJpAM.htm](feats/class-01-FCzfh8QHMo7QJpAM.htm)|Spellbook Prodigy|Prodige du grimoire|libre|
 |[class-01-FhxkU6OftQeecpQW.htm](feats/class-01-FhxkU6OftQeecpQW.htm)|Heal Companion|Guérison du compagnon|libre|
 |[class-01-FoWO4RnHRwfEIC7Q.htm](feats/class-01-FoWO4RnHRwfEIC7Q.htm)|Widen Spell|Sort élargi|officielle|
+|[class-01-GuEdTz1VMEptQnOd.htm](feats/class-01-GuEdTz1VMEptQnOd.htm)|Stoked Flame Stance|Posture de la flamme ravivée|libre|
 |[class-01-Gw0wGXikhAhiGoud.htm](feats/class-01-Gw0wGXikhAhiGoud.htm)|Twin Takedown|Agression jumelée|officielle|
 |[class-01-hXYnwpi95E77qfAu.htm](feats/class-01-hXYnwpi95E77qfAu.htm)|Goading Feint|Feinte provoquante|libre|
 |[class-01-Ikqay8buYlb85bwd.htm](feats/class-01-Ikqay8buYlb85bwd.htm)|Counterspell (Witch)|Contresort (Sorcière)|libre|
@@ -2074,7 +2072,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-01-iX5HEqRImhKzfPR2.htm](feats/class-01-iX5HEqRImhKzfPR2.htm)|Well-Versed|Connaisseur|libre|
 |[class-01-jBp91q4uzwd4FeSX.htm](feats/class-01-jBp91q4uzwd4FeSX.htm)|Versatile Performance|Polyvalence artistique|officielle|
 |[class-01-jGTRRCqxn1FIBxE2.htm](feats/class-01-jGTRRCqxn1FIBxE2.htm)|Hymn Of Healing|Hymne de guérison|libre|
+|[class-01-JoxEspM0kbCop7og.htm](feats/class-01-JoxEspM0kbCop7og.htm)|Raise a Tome|Interposer un livre|libre|
 |[class-01-KaCpXuYuho3nnDUy.htm](feats/class-01-KaCpXuYuho3nnDUy.htm)|Vicious Vengeance|Vengeance vicieuse|libre|
+|[class-01-kFpVgcqREAfDmjXp.htm](feats/class-01-kFpVgcqREAfDmjXp.htm)|Advanced Weaponry|Armement avancé|libre|
 |[class-01-KYl1rWFOHe0e6VqJ.htm](feats/class-01-KYl1rWFOHe0e6VqJ.htm)|Premonition Of Avoidance|Évitement prémonitoire|libre|
 |[class-01-M8tiauf4tNg1X9B6.htm](feats/class-01-M8tiauf4tNg1X9B6.htm)|Counterspell (Wizard)|Contresort (Magicien)|officielle|
 |[class-01-MJW4VP7PjVAX131C.htm](feats/class-01-MJW4VP7PjVAX131C.htm)|Glean Lore|Glaner le savoir|libre|

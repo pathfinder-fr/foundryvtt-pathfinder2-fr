@@ -1,27 +1,17 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 137
- * **changé**: 44
+ * **libre**: 147
  * **officielle**: 28
+ * **changé**: 34
 
 
-Dernière mise à jour: 2021-09-11 10:33 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-14 19:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[feat-00-IFg2tqmAFFnU8UNU.htm](ancestryfeatures/feat-00-IFg2tqmAFFnU8UNU.htm)|Celestial Envoy Kitsune|Kitsune Envoyé céleste|changé|
-|[feat-01-0TFf82gcfxXG9A54.htm](ancestryfeatures/feat-01-0TFf82gcfxXG9A54.htm)|Spellkeeper Shisk|Shisk garde sort|changé|
-|[feat-01-2hLDilS6qbjHxgVS.htm](ancestryfeatures/feat-01-2hLDilS6qbjHxgVS.htm)|Dogtooth Tengu|Tengu Dentdechien|changé|
-|[feat-01-2kSzKDtwbcILZTIe.htm](ancestryfeatures/feat-01-2kSzKDtwbcILZTIe.htm)|Snaptongue Grippli|Grippli à longue langue|changé|
-|[feat-01-3F5ffk7cmnrBhPcT.htm](ancestryfeatures/feat-01-3F5ffk7cmnrBhPcT.htm)|Liminal Catfolk|Homme-félin liminaire|changé|
-|[feat-01-5A1wMPdzN1OWE4cY.htm](ancestryfeatures/feat-01-5A1wMPdzN1OWE4cY.htm)|Caveclimber Kobold|Kobold grimpegrotte|changé|
-|[feat-01-B89BCo6LtI3SJq54.htm](ancestryfeatures/feat-01-B89BCo6LtI3SJq54.htm)|Sweetbreath Gnoll|Gnoll à haleine douce|changé|
-|[feat-01-BFOsMnWfXL1oaWkY.htm](ancestryfeatures/feat-01-BFOsMnWfXL1oaWkY.htm)|Steelskin Hobgoblin|Hobgobelin Peaud'acier|changé|
-|[feat-01-CCwTBSNTw0caN1jd.htm](ancestryfeatures/feat-01-CCwTBSNTw0caN1jd.htm)|Mutated Fleshwarp|Distordu mutant|changé|
-|[feat-01-cnbwtbDmlD0KoLqY.htm](ancestryfeatures/feat-01-cnbwtbDmlD0KoLqY.htm)|Insightful Goloma|Goloma perspicace|changé|
 |[feat-01-G8jfMayPv4vZvAVr.htm](ancestryfeatures/feat-01-G8jfMayPv4vZvAVr.htm)|Sylph|Sylphe|changé|
 |[feat-01-HFHSh2RWuxa4GhhQ.htm](ancestryfeatures/feat-01-HFHSh2RWuxa4GhhQ.htm)|Benthic Azarketi|Azarketi des profondeurs|changé|
 |[feat-01-hOPOyyt7qZXYYCOU.htm](ancestryfeatures/feat-01-hOPOyyt7qZXYYCOU.htm)|Nine Lives Catfolk|Homme-félin aux neuf vies|changé|
@@ -64,18 +54,24 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[effect-01-qIOEe4kUN7FOBifb.htm](ancestryfeatures/effect-01-qIOEe4kUN7FOBifb.htm)|Effect: Hybrid Form|Effet : Forme hybride|libre|
 |[feat-00-dCp517IUFJk8JvQc.htm](ancestryfeatures/feat-00-dCp517IUFJk8JvQc.htm)|Fangs|Crocs|libre|
 |[feat-00-faLb2rczsrxAuOTt.htm](ancestryfeatures/feat-00-faLb2rczsrxAuOTt.htm)|Rite of Knowing|Rite du savoir|libre|
+|[feat-00-IFg2tqmAFFnU8UNU.htm](ancestryfeatures/feat-00-IFg2tqmAFFnU8UNU.htm)|Celestial Envoy Kitsune|Kitsune Envoyé céleste|libre|
 |[feat-00-q2omqJ9t0skGTYki.htm](ancestryfeatures/feat-00-q2omqJ9t0skGTYki.htm)|Rite of Reinforcement|Rite de renforcement|libre|
 |[feat-00-qJD3PJdoSXFrZEwr.htm](ancestryfeatures/feat-00-qJD3PJdoSXFrZEwr.htm)|Sharp Beak|Bec aiguisé|libre|
 |[feat-00-y1EmCv2cEb5hXBwx.htm](ancestryfeatures/feat-00-y1EmCv2cEb5hXBwx.htm)|Keen Eyes|Yeux perçants|officielle|
+|[feat-01-0TFf82gcfxXG9A54.htm](ancestryfeatures/feat-01-0TFf82gcfxXG9A54.htm)|Spellkeeper Shisk|Shisk garde sort|libre|
 |[feat-01-0vaeOoECfVD5EGbq.htm](ancestryfeatures/feat-01-0vaeOoECfVD5EGbq.htm)|Warrenbred Hobgoblin|Hobgobelin Terrierné|libre|
 |[feat-01-1dYDucCIaZpCJqBc.htm](ancestryfeatures/feat-01-1dYDucCIaZpCJqBc.htm)|Arctic Elf|Elfe arctique|officielle|
 |[feat-01-1lv7RMp7t5iqeUFT.htm](ancestryfeatures/feat-01-1lv7RMp7t5iqeUFT.htm)|Hunting Catfolk|Homme-félin chasseur|libre|
 |[feat-01-1oLMOmLpurfWTTff.htm](ancestryfeatures/feat-01-1oLMOmLpurfWTTff.htm)|Aasimar|Aasimar|libre|
 |[feat-01-1wVDYY9Wue0G5R9Q.htm](ancestryfeatures/feat-01-1wVDYY9Wue0G5R9Q.htm)|Whisper Elf|Elfe des murmures|officielle|
 |[feat-01-2cii5ZkBsJ4DYdd2.htm](ancestryfeatures/feat-01-2cii5ZkBsJ4DYdd2.htm)|Cactus Leshy|Léchi cactus|libre|
+|[feat-01-2hLDilS6qbjHxgVS.htm](ancestryfeatures/feat-01-2hLDilS6qbjHxgVS.htm)|Dogtooth Tengu|Tengu Dentdechien|libre|
+|[feat-01-2kSzKDtwbcILZTIe.htm](ancestryfeatures/feat-01-2kSzKDtwbcILZTIe.htm)|Snaptongue Grippli|Grippli à longue langue|libre|
 |[feat-01-32oX6hHUY6K8N70Q.htm](ancestryfeatures/feat-01-32oX6hHUY6K8N70Q.htm)|Charhide Goblin|Gobelin peaud'charbon|officielle|
 |[feat-01-35k2aujXYvqUCSS1.htm](ancestryfeatures/feat-01-35k2aujXYvqUCSS1.htm)|Cavern Kobold|Kobold cavernicole|libre|
+|[feat-01-3F5ffk7cmnrBhPcT.htm](ancestryfeatures/feat-01-3F5ffk7cmnrBhPcT.htm)|Liminal Catfolk|Homme-félin liminaire|libre|
 |[feat-01-3reGfXH0S82hM7Gp.htm](ancestryfeatures/feat-01-3reGfXH0S82hM7Gp.htm)|Ganzi|Ganzi|libre|
+|[feat-01-5A1wMPdzN1OWE4cY.htm](ancestryfeatures/feat-01-5A1wMPdzN1OWE4cY.htm)|Caveclimber Kobold|Kobold grimpegrotte|libre|
 |[feat-01-5CqsBKCZuGON53Hk.htm](ancestryfeatures/feat-01-5CqsBKCZuGON53Hk.htm)|Forge Dwarf|Nain des forges|officielle|
 |[feat-01-6dMd4JG0ndrObEUj.htm](ancestryfeatures/feat-01-6dMd4JG0ndrObEUj.htm)|Winter Catfolk|Homme-félin hivernal|libre|
 |[feat-01-6JKdAZGa8odFzleS.htm](ancestryfeatures/feat-01-6JKdAZGa8odFzleS.htm)|Farsight Goloma|Goloma à vision de loin|libre|
@@ -96,11 +92,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-a6F2WjYU8D0suT8T.htm](ancestryfeatures/feat-01-a6F2WjYU8D0suT8T.htm)|Razortooth Goblin|Gobelin Dent’rasoir|officielle|
 |[feat-01-AUlPRySCqE6o6LHH.htm](ancestryfeatures/feat-01-AUlPRySCqE6o6LHH.htm)|Eyes in Back|Yeux dans le dos|libre|
 |[feat-01-AzGJN1wwLFaLJIeo.htm](ancestryfeatures/feat-01-AzGJN1wwLFaLJIeo.htm)|Aquatic Adaptation|Adaptation aquatique|libre|
+|[feat-01-B89BCo6LtI3SJq54.htm](ancestryfeatures/feat-01-B89BCo6LtI3SJq54.htm)|Sweetbreath Gnoll|Gnoll à haleine douce|libre|
+|[feat-01-BFOsMnWfXL1oaWkY.htm](ancestryfeatures/feat-01-BFOsMnWfXL1oaWkY.htm)|Steelskin Hobgoblin|Hobgobelin Peaud'acier|libre|
 |[feat-01-BgHrucbZ9TH92RDv.htm](ancestryfeatures/feat-01-BgHrucbZ9TH92RDv.htm)|Sunlight Healing|Guérison par le soleil|libre|
 |[feat-01-BjuZKA7lzFSjKbif.htm](ancestryfeatures/feat-01-BjuZKA7lzFSjKbif.htm)|Polyglot Android|Androïde polyglotte|libre|
 |[feat-01-bLhIBwqdjTiVJ5qm.htm](ancestryfeatures/feat-01-bLhIBwqdjTiVJ5qm.htm)|Clawed Catfolk|Homme-félin griffu|libre|
 |[feat-01-bmA9JK06rnOKpNLr.htm](ancestryfeatures/feat-01-bmA9JK06rnOKpNLr.htm)|Poisonhide Grippli|Grippli à peau empoisonnée|libre|
+|[feat-01-CCwTBSNTw0caN1jd.htm](ancestryfeatures/feat-01-CCwTBSNTw0caN1jd.htm)|Mutated Fleshwarp|Distordu mutant|libre|
 |[feat-01-cCy8vsZENlwiAyZ6.htm](ancestryfeatures/feat-01-cCy8vsZENlwiAyZ6.htm)|Twilight Halfling|Halfelin du crépuscule|officielle|
+|[feat-01-cnbwtbDmlD0KoLqY.htm](ancestryfeatures/feat-01-cnbwtbDmlD0KoLqY.htm)|Insightful Goloma|Goloma perspicace|libre|
 |[feat-01-cwOUw7kofcAiY01I.htm](ancestryfeatures/feat-01-cwOUw7kofcAiY01I.htm)|Snaring Anadi|Anadi piégeur|libre|
 |[feat-01-CzOHITB2ihLGqMuJ.htm](ancestryfeatures/feat-01-CzOHITB2ihLGqMuJ.htm)|Runtboss Hobgoblin|Hobgobelin commandant avorton|libre|
 |[feat-01-CZx9HMmoOwcpkLY8.htm](ancestryfeatures/feat-01-CZx9HMmoOwcpkLY8.htm)|Root Leshy|Léchi racine|libre|
