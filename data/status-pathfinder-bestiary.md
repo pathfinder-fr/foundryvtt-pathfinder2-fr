@@ -1,12 +1,12 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **changé**: 369
- * **officielle**: 56
+ * **officielle**: 202
+ * **changé**: 223
  * **aucune**: 3
  * **libre**: 7
 
 
-Dernière mise à jour: 2021-09-14 19:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-18 15:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -21,155 +21,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[024PqcF8yMRBrPuq.htm](pathfinder-bestiary/024PqcF8yMRBrPuq.htm)|Adult White Dragon|Dragon Blanc adulte (Chromatique)|changé|
-|[05E3kkjoLZVjFOeO.htm](pathfinder-bestiary/05E3kkjoLZVjFOeO.htm)|Brontosaurus|Brontosaure (Dinosaure)|changé|
-|[05wwpHHsBlxBbdkN.htm](pathfinder-bestiary/05wwpHHsBlxBbdkN.htm)|Giant Anaconda|Anaconda géant (Serpent)|changé|
-|[0FGz2eXm0SB04sJW.htm](pathfinder-bestiary/0FGz2eXm0SB04sJW.htm)|Ancient Green Dragon|Dragon vert vénérable (Chromatique)|changé|
-|[0HjVFx8qIKDCfblg.htm](pathfinder-bestiary/0HjVFx8qIKDCfblg.htm)|Lantern Archon|Archon lumineux|changé|
-|[0hnnwyqLfYVIenzd.htm](pathfinder-bestiary/0hnnwyqLfYVIenzd.htm)|Deep Gnome Rockwarden|Gardien des roches Gnome des profondeurs|changé|
-|[0MOWKI97bgGDf5Xi.htm](pathfinder-bestiary/0MOWKI97bgGDf5Xi.htm)|Dark Naga|Naga ténébreux|changé|
-|[0SAlss24nUMdX9r8.htm](pathfinder-bestiary/0SAlss24nUMdX9r8.htm)|Gancanagh|Gancanagh (Azata)|changé|
-|[0SJqmk4ItwL31Rg9.htm](pathfinder-bestiary/0SJqmk4ItwL31Rg9.htm)|Dullahan|Dullahan|changé|
-|[1CzZINpYRcNBKDnO.htm](pathfinder-bestiary/1CzZINpYRcNBKDnO.htm)|Lizardfolk Scout|Éclaireur homme-lézard|changé|
-|[2GRPw4VK6zfCS2Qw.htm](pathfinder-bestiary/2GRPw4VK6zfCS2Qw.htm)|Homunculus|Homoncule|changé|
-|[2H2AEwQnfKJC0nrd.htm](pathfinder-bestiary/2H2AEwQnfKJC0nrd.htm)|Ghost Commoner|Roturier fantôme|changé|
-|[2HvXtedQziTTfI0S.htm](pathfinder-bestiary/2HvXtedQziTTfI0S.htm)|Roc|Roc|changé|
-|[2IrbfdtWyXiGOLBA.htm](pathfinder-bestiary/2IrbfdtWyXiGOLBA.htm)|Tarn Linnorm|Linnorm des lacs|changé|
-|[2IrWQjtFvsen8ioo.htm](pathfinder-bestiary/2IrWQjtFvsen8ioo.htm)|Deinonychus|Deinonychus (Dinosaure)|changé|
-|[31kXa1P0LUl38jYG.htm](pathfinder-bestiary/31kXa1P0LUl38jYG.htm)|Zaramuun|Zaramuun|changé|
-|[3kLXBdtKpUsU8ey5.htm](pathfinder-bestiary/3kLXBdtKpUsU8ey5.htm)|Satyr|Satyre (Fey)|changé|
-|[3nOBhH8j9I7ps6fC.htm](pathfinder-bestiary/3nOBhH8j9I7ps6fC.htm)|Green Hag|Guenaude verte|changé|
-|[3OPUMuBQThM5EXjz.htm](pathfinder-bestiary/3OPUMuBQThM5EXjz.htm)|Young White Dragon|Jeune dragon blanc (Chromatique)|changé|
-|[3VsQFEdIN5e1uWle.htm](pathfinder-bestiary/3VsQFEdIN5e1uWle.htm)|Giant Moray Eel|Murène géante|changé|
-|[3W2PMV6IbVdouOB1.htm](pathfinder-bestiary/3W2PMV6IbVdouOB1.htm)|Young Copper Dragon|Jeune dragon de cuivre (Métallique)|changé|
-|[45Eo7MFWG3ShikvD.htm](pathfinder-bestiary/45Eo7MFWG3ShikvD.htm)|Kraken|Kraken|changé|
-|[45neevf5aLl0YPyk.htm](pathfinder-bestiary/45neevf5aLl0YPyk.htm)|Astral Deva|Deva astral (Ange)|changé|
-|[4B47SUq57pcl3U9u.htm](pathfinder-bestiary/4B47SUq57pcl3U9u.htm)|Legion Archon|Archon Légionnaire|changé|
-|[4cPw8hZwW6uvyzvh.htm](pathfinder-bestiary/4cPw8hZwW6uvyzvh.htm)|Vrock|Vrock (Démon)|changé|
-|[4h9jhODg2NwiYsPg.htm](pathfinder-bestiary/4h9jhODg2NwiYsPg.htm)|Purple Worm|Ver pourpre|changé|
-|[4htFfofrXLkbWMRg.htm](pathfinder-bestiary/4htFfofrXLkbWMRg.htm)|Bugbear Thug|Brute gobelours|changé|
-|[4MwjCsa5O9aAjxSm.htm](pathfinder-bestiary/4MwjCsa5O9aAjxSm.htm)|Boar|Sanglier|changé|
-|[4npwV3fuBm3sBCPG.htm](pathfinder-bestiary/4npwV3fuBm3sBCPG.htm)|Xorn|Xorn (Élémentaire, terre)|changé|
-|[4p07SH4zdmVZ405I.htm](pathfinder-bestiary/4p07SH4zdmVZ405I.htm)|Graveknight|Chevalier sépulcre|changé|
-|[4zXn6xaaxo1DtIRk.htm](pathfinder-bestiary/4zXn6xaaxo1DtIRk.htm)|Xulgath Skulker|Vadrouilleur Xulgath|changé|
-|[5Azg87M6OnQ7Q4ZS.htm](pathfinder-bestiary/5Azg87M6OnQ7Q4ZS.htm)|Riding Dog|Chien de selle|changé|
-|[5pk6bfodgnllSIOy.htm](pathfinder-bestiary/5pk6bfodgnllSIOy.htm)|Giant Flytrap|Attrape-mouche géant|changé|
-|[5U13zQ77DIcqpH9U.htm](pathfinder-bestiary/5U13zQ77DIcqpH9U.htm)|Werebear|Ours-garou|changé|
-|[6CQEelygt968CB7m.htm](pathfinder-bestiary/6CQEelygt968CB7m.htm)|Ankylosaurus|Ankylosaure (Dinosaure)|changé|
-|[6eabIbxzYepfZAHX.htm](pathfinder-bestiary/6eabIbxzYepfZAHX.htm)|Ice Linnorm|Linnorm des glaces|changé|
-|[6UczvqBDlGNXcIlW.htm](pathfinder-bestiary/6UczvqBDlGNXcIlW.htm)|Tidal Master|Maître des marées (Élémentaire, eau)|changé|
-|[6XlGTt3RveX49YbC.htm](pathfinder-bestiary/6XlGTt3RveX49YbC.htm)|Shambler|Grand Tertre|changé|
-|[70JDH25JLTC4t5Ko.htm](pathfinder-bestiary/70JDH25JLTC4t5Ko.htm)|Tengu Sneak|Chipeur Tengu|changé|
-|[7EpLGBoddL8Vzlha.htm](pathfinder-bestiary/7EpLGBoddL8Vzlha.htm)|Soulbound Doll (Chaotic Evil)|Poupée d'âme (Chaotique mauvais)|changé|
-|[7JvA7kTqCUwcJoNe.htm](pathfinder-bestiary/7JvA7kTqCUwcJoNe.htm)|Bugbear Tormentor|Tourmenteur Gobelours|changé|
-|[7ptWlh4t6oHvYOcj.htm](pathfinder-bestiary/7ptWlh4t6oHvYOcj.htm)|Soulbound Doll (Neutral Evil)|Poupées d'âme (Neutre mauvais)|changé|
-|[7ZgQuis8r8YQyUnI.htm](pathfinder-bestiary/7ZgQuis8r8YQyUnI.htm)|Yeti|Yéti|changé|
-|[80TiZrVvIBW7E6L2.htm](pathfinder-bestiary/80TiZrVvIBW7E6L2.htm)|Fire Giant|Géant du feu|changé|
-|[8JvzSTwQWtOsxRfL.htm](pathfinder-bestiary/8JvzSTwQWtOsxRfL.htm)|Quetzalcoatlus|Quetzalcoatl (Ptérosaure)|changé|
-|[8meqlz36gPHTTvNz.htm](pathfinder-bestiary/8meqlz36gPHTTvNz.htm)|Voidworm|Ver du néant (Protéen)|changé|
-|[8r8Ar08ojdJuPeiH.htm](pathfinder-bestiary/8r8Ar08ojdJuPeiH.htm)|Eagle|Aigle|changé|
-|[8U8K0YEghIErml35.htm](pathfinder-bestiary/8U8K0YEghIErml35.htm)|Crimson Worm|Ver écarlate|changé|
-|[8uXLbKKzxN5O0ZhM.htm](pathfinder-bestiary/8uXLbKKzxN5O0ZhM.htm)|Elananx|Élananxe|changé|
-|[93hZtLl9pRRfqI05.htm](pathfinder-bestiary/93hZtLl9pRRfqI05.htm)|Blue Kobold Dragon Mage|Mage draconique bleu Kobold|changé|
-|[9AlfVoEMLwDODjxl.htm](pathfinder-bestiary/9AlfVoEMLwDODjxl.htm)|Veiled Master|Maître voilé (Alghollthu)|changé|
-|[9FZMzpAu4XhCI0IB.htm](pathfinder-bestiary/9FZMzpAu4XhCI0IB.htm)|Deep Gnome Scout|Éclaireur Gnome des profondeurs|changé|
-|[9H11QHnoKz8hHKSM.htm](pathfinder-bestiary/9H11QHnoKz8hHKSM.htm)|Ancient Red Dragon|Dragon rouge vénérable (Chromatique)|changé|
-|[9hOuoOONmp6500GZ.htm](pathfinder-bestiary/9hOuoOONmp6500GZ.htm)|Giant Gecko|Gecko géant|changé|
-|[9jF564DF6ylEovna.htm](pathfinder-bestiary/9jF564DF6ylEovna.htm)|Quasit|Quasit (Démon)|changé|
 |[9llfviiJg5bJlBth.htm](pathfinder-bestiary/9llfviiJg5bJlBth.htm)|Mukradi|Mukradi|changé|
-|[9sa2KE4Fbh3OPH7M.htm](pathfinder-bestiary/9sa2KE4Fbh3OPH7M.htm)|Brine Shark|Requin de saumure (Élémentaire, eau)|changé|
-|[9vNYtJZiseCEf4wt.htm](pathfinder-bestiary/9vNYtJZiseCEf4wt.htm)|Balor|Balor (Démon)|changé|
-|[9X7hOvCKy1bqw0g6.htm](pathfinder-bestiary/9X7hOvCKy1bqw0g6.htm)|Giant Tarantula|Tarentule géante|changé|
-|[aAiuQvMGPN9QXwKY.htm](pathfinder-bestiary/aAiuQvMGPN9QXwKY.htm)|Adult Gold Dragon|Dragon d'or adulte (Métallique)|changé|
-|[aD76W2uEQhFFUrom.htm](pathfinder-bestiary/aD76W2uEQhFFUrom.htm)|Chuul|Chuul|changé|
-|[AdQVjlOWB6rmBRVp.htm](pathfinder-bestiary/AdQVjlOWB6rmBRVp.htm)|Doppelganger|Doppelganger|changé|
-|[aeCoh4u6c5kt1iCs.htm](pathfinder-bestiary/aeCoh4u6c5kt1iCs.htm)|Gargoyle|Gargouille|changé|
-|[AiPXegCJ1leUslTm.htm](pathfinder-bestiary/AiPXegCJ1leUslTm.htm)|Succubus|Succube (Démon)|changé|
-|[aNWiP985fISjClGo.htm](pathfinder-bestiary/aNWiP985fISjClGo.htm)|Arboreal Warden|Gardien arboréen|changé|
-|[aq2H1lRALUNMEGRG.htm](pathfinder-bestiary/aq2H1lRALUNMEGRG.htm)|Guardian Naga|Naga gardien|changé|
-|[aqW5sp9HPgZgpXxs.htm](pathfinder-bestiary/aqW5sp9HPgZgpXxs.htm)|Hill Giant|Géant des collines|changé|
-|[ar0tszs8NAgQamHX.htm](pathfinder-bestiary/ar0tszs8NAgQamHX.htm)|Young Blue Dragon|Jeune dragon bleu (Chromatique)|changé|
-|[ASc5sT2hU84tp1fx.htm](pathfinder-bestiary/ASc5sT2hU84tp1fx.htm)|Simurgh|Simurgh|changé|
-|[atrhmCtNKx1MR06I.htm](pathfinder-bestiary/atrhmCtNKx1MR06I.htm)|Faerie Dragon|Dragon féerique|changé|
-|[AuCC04X2AO8oFN75.htm](pathfinder-bestiary/AuCC04X2AO8oFN75.htm)|Harpy|Harpie|changé|
-|[B0QyZEjAXUG5TsJU.htm](pathfinder-bestiary/B0QyZEjAXUG5TsJU.htm)|Storm Giant|Géant des tempêtes|changé|
-|[b6qiHvyx6ymROTBL.htm](pathfinder-bestiary/b6qiHvyx6ymROTBL.htm)|Deep Gnome Warrior|Guerrier Gnome des profondeurs|changé|
-|[B7b0alybm5U34nFV.htm](pathfinder-bestiary/B7b0alybm5U34nFV.htm)|Nessian Warhound|Molosse Nessien|changé|
-|[B7eLG2k7qUo8HU6O.htm](pathfinder-bestiary/B7eLG2k7qUo8HU6O.htm)|Drider|Drider (Distordu)|changé|
 |[b8NQkby4QV4uOqFT.htm](pathfinder-bestiary/b8NQkby4QV4uOqFT.htm)|Cave Bear|Ours des cavernes|changé|
-|[B8QjalVNcWjuqgG7.htm](pathfinder-bestiary/B8QjalVNcWjuqgG7.htm)|Phistophilus|Phistophilus (Diable)|changé|
-|[B9KJUdZre51J3E3e.htm](pathfinder-bestiary/B9KJUdZre51J3E3e.htm)|Ancient Copper Dragon|Dragon de cuivre vénérable (Métallique)|changé|
-|[bAjHCeyNcPRqOmLv.htm](pathfinder-bestiary/bAjHCeyNcPRqOmLv.htm)|Changeling Exile|Exilée Changeline|changé|
-|[BeptBpCJ4Ny4biOH.htm](pathfinder-bestiary/BeptBpCJ4Ny4biOH.htm)|Leaf Leshy|Léchi de feuilles|changé|
-|[bIw7czN0E3rENrVd.htm](pathfinder-bestiary/bIw7czN0E3rENrVd.htm)|Giant Stag Beetle|Lucane géant (Coléoptère)|changé|
-|[bIXfNKFWduf8MH0f.htm](pathfinder-bestiary/bIXfNKFWduf8MH0f.htm)|Ogre Boss|Boss ogre|changé|
-|[bkaDwBD3mIBgvULs.htm](pathfinder-bestiary/bkaDwBD3mIBgvULs.htm)|Cloaker|Manteleur|changé|
-|[bLMoqt9xqTZKnjxr.htm](pathfinder-bestiary/bLMoqt9xqTZKnjxr.htm)|Werewolf|Loup-garou|changé|
-|[BRo0snV2sH6TFuh6.htm](pathfinder-bestiary/BRo0snV2sH6TFuh6.htm)|Glabrezu|Glabrezu (Démon)|changé|
-|[bSjF2lCgchtp2ocS.htm](pathfinder-bestiary/bSjF2lCgchtp2ocS.htm)|Ancient Brass Dragon|Dragon d'airain vénérable (Métallique)|changé|
-|[bxAJWWKrEMjgNkUp.htm](pathfinder-bestiary/bxAJWWKrEMjgNkUp.htm)|Dero Stalker|Traqueur Dero|changé|
-|[BzBFDaNj51PP97RZ.htm](pathfinder-bestiary/BzBFDaNj51PP97RZ.htm)|Ancient Bronze Dragon|Dragon de bronze vénérable (Métallique)|changé|
-|[c0zqasudrwZU3fdw.htm](pathfinder-bestiary/c0zqasudrwZU3fdw.htm)|Efreeti|Éfrit (Génie)|changé|
-|[c3iA9lkU1QY4YCY6.htm](pathfinder-bestiary/c3iA9lkU1QY4YCY6.htm)|Unicorn|Licorne|changé|
-|[c6AE2Mh8BRtBgbtz.htm](pathfinder-bestiary/c6AE2Mh8BRtBgbtz.htm)|Arboreal Regent|Régent Arboréen|changé|
-|[C9s5tBxVValC2HTE.htm](pathfinder-bestiary/C9s5tBxVValC2HTE.htm)|Giant Bat|Chauve-souris géante|changé|
-|[cBHpMcVaLRPZu9po.htm](pathfinder-bestiary/cBHpMcVaLRPZu9po.htm)|Zephyr Hawk|Faucon Zéphyr (Élémentaire, air)|changé|
-|[cDgOfBCrWcpYwRVS.htm](pathfinder-bestiary/cDgOfBCrWcpYwRVS.htm)|Sprite|Esprit follet|changé|
-|[cDm6PzhO5nXlkGoi.htm](pathfinder-bestiary/cDm6PzhO5nXlkGoi.htm)|Orc Brute|Brute Orque|changé|
-|[CFHLgMj8zHLqcagc.htm](pathfinder-bestiary/CFHLgMj8zHLqcagc.htm)|Sea Serpent|Serpent de mer|changé|
-|[CHIh3vMssFixUlw8.htm](pathfinder-bestiary/CHIh3vMssFixUlw8.htm)|Salamander|Salamandre (Élémentaire, feu)|changé|
-|[CJP3GGBXuGgkaj6C.htm](pathfinder-bestiary/CJP3GGBXuGgkaj6C.htm)|Grizzly Bear|Grizzly|changé|
-|[CJuHwIRCAgTB1SEl.htm](pathfinder-bestiary/CJuHwIRCAgTB1SEl.htm)|Red Kobold Dragon Mage|Mage draconique rouge Kobold|changé|
-|[Cq8sRhVVF0hagBu6.htm](pathfinder-bestiary/Cq8sRhVVF0hagBu6.htm)|Vampire Count|Vampire, Comte|changé|
-|[CSefkWGVmA5yGxNR.htm](pathfinder-bestiary/CSefkWGVmA5yGxNR.htm)|Pteranodon|Ptéranodon (Ptérosaure)|changé|
-|[csRH8Fx0r6iMWlFc.htm](pathfinder-bestiary/csRH8Fx0r6iMWlFc.htm)|Ether Spider|Araignée de l'éther|changé|
-|[cuET2PHGcE7eL7DJ.htm](pathfinder-bestiary/cuET2PHGcE7eL7DJ.htm)|Marid|Maride (Génie)|changé|
-|[cZDiyluplFqRxmGy.htm](pathfinder-bestiary/cZDiyluplFqRxmGy.htm)|Animated Armor|Armure animée (Objet animé)|changé|
-|[CzxQpB3p0d9hwPeR.htm](pathfinder-bestiary/CzxQpB3p0d9hwPeR.htm)|Bulette|Bulette|changé|
-|[d9W89Yv6zyvfxZuG.htm](pathfinder-bestiary/d9W89Yv6zyvfxZuG.htm)|Lillend|Lillende (Azata)|changé|
-|[DlRe4c2XlBSpwmms.htm](pathfinder-bestiary/DlRe4c2XlBSpwmms.htm)|Greater Barghest|Barghest supérieur|changé|
-|[DolNTN9s2p79N8Cy.htm](pathfinder-bestiary/DolNTN9s2p79N8Cy.htm)|Young Gold Dragon|Jeune dragon d'or (Métallique)|changé|
-|[DPEmRRXYevk3ADqW.htm](pathfinder-bestiary/DPEmRRXYevk3ADqW.htm)|Morrigna|Morrigna (Psychopompe)|changé|
-|[dTz1SQvJIUsB9S2w.htm](pathfinder-bestiary/dTz1SQvJIUsB9S2w.htm)|Drow Fighter|Guerrier Drow|changé|
-|[Dwgl1DzJAYE3ienu.htm](pathfinder-bestiary/Dwgl1DzJAYE3ienu.htm)|Cyclops|Cyclope|changé|
-|[E4ctF7Fvi3cdkgQq.htm](pathfinder-bestiary/E4ctF7Fvi3cdkgQq.htm)|Hunting Spider|Araignée chasseuse|changé|
-|[E5RDV3n7GnjAspQ5.htm](pathfinder-bestiary/E5RDV3n7GnjAspQ5.htm)|Mummy Guardian|Momie gardienne|changé|
-|[e8rmI5xt6IANatfX.htm](pathfinder-bestiary/e8rmI5xt6IANatfX.htm)|Shemhazian|Shemhazian (Démon)|changé|
-|[E9rT02pPDLq7rARq.htm](pathfinder-bestiary/E9rT02pPDLq7rARq.htm)|Minotaur|Minotaure|changé|
-|[EibxkD9y30YmPaLH.htm](pathfinder-bestiary/EibxkD9y30YmPaLH.htm)|Lich|Liche|changé|
-|[eP96NzLFSjua4NS5.htm](pathfinder-bestiary/eP96NzLFSjua4NS5.htm)|Stegosaurus|Stégosaure (Dinosaure)|changé|
-|[ePa0KmNPpR4zUPfX.htm](pathfinder-bestiary/ePa0KmNPpR4zUPfX.htm)|Dero Magister|Magister Dero|changé|
-|[eQdLBzkluS1fvVC8.htm](pathfinder-bestiary/eQdLBzkluS1fvVC8.htm)|Caligni Dancer|Danseur Caligni|changé|
-|[ETNlci6VnSthx5V6.htm](pathfinder-bestiary/ETNlci6VnSthx5V6.htm)|Erinys|Érinye (Diable)|changé|
-|[ETwmjdnmSkqGdD5r.htm](pathfinder-bestiary/ETwmjdnmSkqGdD5r.htm)|Animated Broom|Balai animé (Objet animé)|changé|
-|[Ey19J4nTn1dQvLtE.htm](pathfinder-bestiary/Ey19J4nTn1dQvLtE.htm)|Snapping Flytrap|Attrape-mouches vorace|changé|
-|[f3c1CS2W8Tft3hW7.htm](pathfinder-bestiary/f3c1CS2W8Tft3hW7.htm)|Sea Hag|Guenaude marine|changé|
-|[Fa1S0A8fAx3SkO9h.htm](pathfinder-bestiary/Fa1S0A8fAx3SkO9h.htm)|Brain Collector|Collecteur de cerveaux|changé|
-|[FaBHkmFGuEIqIYM1.htm](pathfinder-bestiary/FaBHkmFGuEIqIYM1.htm)|Drow Priestess|Prêtresse Drow|changé|
-|[fgsDAeZHVbHRhSE8.htm](pathfinder-bestiary/fgsDAeZHVbHRhSE8.htm)|Cockatrice|Cockatrice|changé|
-|[FHfrIJCdKTzy2rrR.htm](pathfinder-bestiary/FHfrIJCdKTzy2rrR.htm)|Cauthooj|Cauthooj|changé|
-|[FJo8VkrM7kLkHa5D.htm](pathfinder-bestiary/FJo8VkrM7kLkHa5D.htm)|Zombie Hulk|Mastodonte zombie|changé|
-|[fkBcMpr3Yxxfvz9v.htm](pathfinder-bestiary/fkBcMpr3Yxxfvz9v.htm)|Astradaemon|Astradaémon (Daémon)|changé|
-|[FPKoiMXENk5FouXp.htm](pathfinder-bestiary/FPKoiMXENk5FouXp.htm)|Elemental Hurricane|Ouragan élémentaire (Élémentaire, air)|changé|
-|[FwH05kDUlC8CwWTU.htm](pathfinder-bestiary/FwH05kDUlC8CwWTU.htm)|Troll King|Roi Troll|changé|
-|[fxYMucI5b2IUoBpw.htm](pathfinder-bestiary/fxYMucI5b2IUoBpw.htm)|Shuln|Shuln|changé|
-|[Fzn4jHusVeyytgfx.htm](pathfinder-bestiary/Fzn4jHusVeyytgfx.htm)|Adult Copper Dragon|Dragon de cuivre adulte (Métallique)|changé|
-|[gdXok08bITkhowDJ.htm](pathfinder-bestiary/gdXok08bITkhowDJ.htm)|Ogre Warrior|Guerrier Ogre|changé|
-|[gfRXFd24U633OC9r.htm](pathfinder-bestiary/gfRXFd24U633OC9r.htm)|Jinkin|Jinkin (Gremlin)|changé|
 |[gioxLqV8N4p9iIAh.htm](pathfinder-bestiary/gioxLqV8N4p9iIAh.htm)|Phoenix|Phénix|changé|
-|[GssFAdolUA3ghg2e.htm](pathfinder-bestiary/GssFAdolUA3ghg2e.htm)|Megaprimatus|Mégaprimatus|changé|
-|[gWxpeqOQ54Jd4HTG.htm](pathfinder-bestiary/gWxpeqOQ54Jd4HTG.htm)|Caligni Stalker|Traqueur caligni|changé|
-|[gX66KyBxUOvMv5Sf.htm](pathfinder-bestiary/gX66KyBxUOvMv5Sf.htm)|Dragon Turtle|Tortue dragon|changé|
-|[GyigGu36XLPV72nW.htm](pathfinder-bestiary/GyigGu36XLPV72nW.htm)|Djinni|Djinn (Génie)|changé|
-|[H2ZxTHZOEigpH4LK.htm](pathfinder-bestiary/H2ZxTHZOEigpH4LK.htm)|Vampire Spawn Rogue|Rejeton du vampire roublard|changé|
-|[HbROgIcU9Z9m6XuD.htm](pathfinder-bestiary/HbROgIcU9Z9m6XuD.htm)|Wraith|Âme-en-peine|changé|
-|[HeoH8hi5iieKPuJ2.htm](pathfinder-bestiary/HeoH8hi5iieKPuJ2.htm)|Deadly Mantis|Mante meurtrière|changé|
-|[HFbZ580RDOG6Rxz2.htm](pathfinder-bestiary/HFbZ580RDOG6Rxz2.htm)|Sea Devil Baron|Baron Diable des mers|changé|
-|[hiGwRWdxAsoCII4f.htm](pathfinder-bestiary/hiGwRWdxAsoCII4f.htm)|Cinder Rat|Rat des braises (Élémentaire, feu)|changé|
-|[hNR4xZRsxUkGPI1v.htm](pathfinder-bestiary/hNR4xZRsxUkGPI1v.htm)|Dandasuka|Dandasuka (Rakshasas)|changé|
-|[hOXpmWmXU8N3n4Bw.htm](pathfinder-bestiary/hOXpmWmXU8N3n4Bw.htm)|Raja Rakshasa|Rakshasa raja|changé|
-|[HpD0BTfid3hnUEWj.htm](pathfinder-bestiary/HpD0BTfid3hnUEWj.htm)|Bloodseeker|Cherchesang|changé|
-|[HpY0addhUqtHMgUN.htm](pathfinder-bestiary/HpY0addhUqtHMgUN.htm)|Elephant|Éléphant|changé|
 |[hXpqjD3eBRxlemNs.htm](pathfinder-bestiary/hXpqjD3eBRxlemNs.htm)|Gnoll Cultist|Cultiste Gnoll|changé|
 |[HyOf4CfAIhC3qWtz.htm](pathfinder-bestiary/HyOf4CfAIhC3qWtz.htm)|Gimmerling|Gimmerling|changé|
 |[i3N3udPyTGVPLpoq.htm](pathfinder-bestiary/i3N3udPyTGVPLpoq.htm)|Adult Blue Dragon|Dragon bleu adulte (Chromatique)|changé|
@@ -395,33 +249,179 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[024PqcF8yMRBrPuq.htm](pathfinder-bestiary/024PqcF8yMRBrPuq.htm)|Adult White Dragon|Dragon Blanc adulte (Chromatique)|officielle|
+|[05E3kkjoLZVjFOeO.htm](pathfinder-bestiary/05E3kkjoLZVjFOeO.htm)|Brontosaurus|Brontosaure (Dinosaure)|officielle|
+|[05wwpHHsBlxBbdkN.htm](pathfinder-bestiary/05wwpHHsBlxBbdkN.htm)|Giant Anaconda|Anaconda géant (Serpent)|officielle|
+|[0FGz2eXm0SB04sJW.htm](pathfinder-bestiary/0FGz2eXm0SB04sJW.htm)|Ancient Green Dragon|Dragon vert vénérable (Chromatique)|officielle|
+|[0HjVFx8qIKDCfblg.htm](pathfinder-bestiary/0HjVFx8qIKDCfblg.htm)|Lantern Archon|Archon lumineux|officielle|
+|[0hnnwyqLfYVIenzd.htm](pathfinder-bestiary/0hnnwyqLfYVIenzd.htm)|Deep Gnome Rockwarden|Gardien des roches Gnome des profondeurs|officielle|
+|[0MOWKI97bgGDf5Xi.htm](pathfinder-bestiary/0MOWKI97bgGDf5Xi.htm)|Dark Naga|Naga ténébreux|officielle|
 |[0plBflWwrCWQO2RO.htm](pathfinder-bestiary/0plBflWwrCWQO2RO.htm)|Zombie Shambler|Titubeur zombie|officielle|
 |[0rfropeocJWXC6pg.htm](pathfinder-bestiary/0rfropeocJWXC6pg.htm)|Goblin Dog|Chien gobelin|officielle|
+|[0SAlss24nUMdX9r8.htm](pathfinder-bestiary/0SAlss24nUMdX9r8.htm)|Gancanagh|Gancanagh (Azata)|officielle|
+|[0SJqmk4ItwL31Rg9.htm](pathfinder-bestiary/0SJqmk4ItwL31Rg9.htm)|Dullahan|Dullahan|officielle|
+|[1CzZINpYRcNBKDnO.htm](pathfinder-bestiary/1CzZINpYRcNBKDnO.htm)|Lizardfolk Scout|Éclaireur homme-lézard|officielle|
+|[2GRPw4VK6zfCS2Qw.htm](pathfinder-bestiary/2GRPw4VK6zfCS2Qw.htm)|Homunculus|Homoncule|officielle|
+|[2H2AEwQnfKJC0nrd.htm](pathfinder-bestiary/2H2AEwQnfKJC0nrd.htm)|Ghost Commoner|Roturier fantôme|officielle|
+|[2HvXtedQziTTfI0S.htm](pathfinder-bestiary/2HvXtedQziTTfI0S.htm)|Roc|Roc|officielle|
+|[2IrbfdtWyXiGOLBA.htm](pathfinder-bestiary/2IrbfdtWyXiGOLBA.htm)|Tarn Linnorm|Linnorm des lacs|officielle|
+|[2IrWQjtFvsen8ioo.htm](pathfinder-bestiary/2IrWQjtFvsen8ioo.htm)|Deinonychus|Deinonychus (Dinosaure)|officielle|
+|[31kXa1P0LUl38jYG.htm](pathfinder-bestiary/31kXa1P0LUl38jYG.htm)|Zaramuun|Zaramuun|officielle|
+|[3kLXBdtKpUsU8ey5.htm](pathfinder-bestiary/3kLXBdtKpUsU8ey5.htm)|Satyr|Satyre (Fey)|officielle|
+|[3nOBhH8j9I7ps6fC.htm](pathfinder-bestiary/3nOBhH8j9I7ps6fC.htm)|Green Hag|Guenaude verte|officielle|
+|[3OPUMuBQThM5EXjz.htm](pathfinder-bestiary/3OPUMuBQThM5EXjz.htm)|Young White Dragon|Jeune dragon blanc (Chromatique)|officielle|
+|[3VsQFEdIN5e1uWle.htm](pathfinder-bestiary/3VsQFEdIN5e1uWle.htm)|Giant Moray Eel|Murène géante|officielle|
+|[3W2PMV6IbVdouOB1.htm](pathfinder-bestiary/3W2PMV6IbVdouOB1.htm)|Young Copper Dragon|Jeune dragon de cuivre (Métallique)|officielle|
+|[45Eo7MFWG3ShikvD.htm](pathfinder-bestiary/45Eo7MFWG3ShikvD.htm)|Kraken|Kraken|officielle|
+|[45neevf5aLl0YPyk.htm](pathfinder-bestiary/45neevf5aLl0YPyk.htm)|Astral Deva|Deva astral (Ange)|officielle|
+|[4B47SUq57pcl3U9u.htm](pathfinder-bestiary/4B47SUq57pcl3U9u.htm)|Legion Archon|Archon Légionnaire|officielle|
 |[4BBzo72pHOpecoIp.htm](pathfinder-bestiary/4BBzo72pHOpecoIp.htm)|Goblin War Chanter|Chantre de guerre Gobelin|officielle|
+|[4cPw8hZwW6uvyzvh.htm](pathfinder-bestiary/4cPw8hZwW6uvyzvh.htm)|Vrock|Vrock (Démon)|officielle|
+|[4h9jhODg2NwiYsPg.htm](pathfinder-bestiary/4h9jhODg2NwiYsPg.htm)|Purple Worm|Ver pourpre|officielle|
+|[4htFfofrXLkbWMRg.htm](pathfinder-bestiary/4htFfofrXLkbWMRg.htm)|Bugbear Thug|Brute gobelours|officielle|
+|[4MwjCsa5O9aAjxSm.htm](pathfinder-bestiary/4MwjCsa5O9aAjxSm.htm)|Boar|Sanglier|officielle|
+|[4npwV3fuBm3sBCPG.htm](pathfinder-bestiary/4npwV3fuBm3sBCPG.htm)|Xorn|Xorn (Élémentaire, terre)|officielle|
+|[4p07SH4zdmVZ405I.htm](pathfinder-bestiary/4p07SH4zdmVZ405I.htm)|Graveknight|Chevalier sépulcre|officielle|
+|[4zXn6xaaxo1DtIRk.htm](pathfinder-bestiary/4zXn6xaaxo1DtIRk.htm)|Xulgath Skulker|Vadrouilleur Xulgath|officielle|
+|[5Azg87M6OnQ7Q4ZS.htm](pathfinder-bestiary/5Azg87M6OnQ7Q4ZS.htm)|Riding Dog|Chien de selle|officielle|
 |[5H8ZX7y5IkUBhvhF.htm](pathfinder-bestiary/5H8ZX7y5IkUBhvhF.htm)|Skeleton Guard|Garde squelette|officielle|
 |[5hQk5NJk4L10txyW.htm](pathfinder-bestiary/5hQk5NJk4L10txyW.htm)|Hobgoblin General|Général hobgobelin|officielle|
 |[5MVBU86ZRw2ANMQn.htm](pathfinder-bestiary/5MVBU86ZRw2ANMQn.htm)|Skeletal Giant|Géant squelettique|officielle|
+|[5pk6bfodgnllSIOy.htm](pathfinder-bestiary/5pk6bfodgnllSIOy.htm)|Giant Flytrap|Attrape-mouche géant|officielle|
+|[5U13zQ77DIcqpH9U.htm](pathfinder-bestiary/5U13zQ77DIcqpH9U.htm)|Werebear|Ours-garou|officielle|
+|[6CQEelygt968CB7m.htm](pathfinder-bestiary/6CQEelygt968CB7m.htm)|Ankylosaurus|Ankylosaure (Dinosaure)|officielle|
+|[6eabIbxzYepfZAHX.htm](pathfinder-bestiary/6eabIbxzYepfZAHX.htm)|Ice Linnorm|Linnorm des glaces|officielle|
+|[6UczvqBDlGNXcIlW.htm](pathfinder-bestiary/6UczvqBDlGNXcIlW.htm)|Tidal Master|Maître des marées (Élémentaire, eau)|officielle|
+|[6XlGTt3RveX49YbC.htm](pathfinder-bestiary/6XlGTt3RveX49YbC.htm)|Shambler|Grand Tertre|officielle|
+|[70JDH25JLTC4t5Ko.htm](pathfinder-bestiary/70JDH25JLTC4t5Ko.htm)|Tengu Sneak|Chipeur Tengu|officielle|
+|[7EpLGBoddL8Vzlha.htm](pathfinder-bestiary/7EpLGBoddL8Vzlha.htm)|Soulbound Doll (Chaotic Evil)|Poupée d'âme (Chaotique mauvais)|officielle|
+|[7JvA7kTqCUwcJoNe.htm](pathfinder-bestiary/7JvA7kTqCUwcJoNe.htm)|Bugbear Tormentor|Tourmenteur Gobelours|officielle|
+|[7ptWlh4t6oHvYOcj.htm](pathfinder-bestiary/7ptWlh4t6oHvYOcj.htm)|Soulbound Doll (Neutral Evil)|Poupées d'âme (Neutre mauvais)|officielle|
+|[7ZgQuis8r8YQyUnI.htm](pathfinder-bestiary/7ZgQuis8r8YQyUnI.htm)|Yeti|Yéti|officielle|
+|[80TiZrVvIBW7E6L2.htm](pathfinder-bestiary/80TiZrVvIBW7E6L2.htm)|Fire Giant|Géant du feu|officielle|
 |[8BloAdRqlLpt5bNg.htm](pathfinder-bestiary/8BloAdRqlLpt5bNg.htm)|Treerazer|Fléau des arbres|officielle|
+|[8JvzSTwQWtOsxRfL.htm](pathfinder-bestiary/8JvzSTwQWtOsxRfL.htm)|Quetzalcoatlus|Quetzalcoatl (Ptérosaure)|officielle|
+|[8meqlz36gPHTTvNz.htm](pathfinder-bestiary/8meqlz36gPHTTvNz.htm)|Voidworm|Ver du néant (Protéen)|officielle|
+|[8r8Ar08ojdJuPeiH.htm](pathfinder-bestiary/8r8Ar08ojdJuPeiH.htm)|Eagle|Aigle|officielle|
+|[8U8K0YEghIErml35.htm](pathfinder-bestiary/8U8K0YEghIErml35.htm)|Crimson Worm|Ver écarlate|officielle|
+|[8uXLbKKzxN5O0ZhM.htm](pathfinder-bestiary/8uXLbKKzxN5O0ZhM.htm)|Elananx|Élananxe|officielle|
+|[93hZtLl9pRRfqI05.htm](pathfinder-bestiary/93hZtLl9pRRfqI05.htm)|Blue Kobold Dragon Mage|Mage draconique bleu Kobold|officielle|
+|[9AlfVoEMLwDODjxl.htm](pathfinder-bestiary/9AlfVoEMLwDODjxl.htm)|Veiled Master|Maître voilé (Alghollthu)|officielle|
+|[9FZMzpAu4XhCI0IB.htm](pathfinder-bestiary/9FZMzpAu4XhCI0IB.htm)|Deep Gnome Scout|Éclaireur Gnome des profondeurs|officielle|
+|[9H11QHnoKz8hHKSM.htm](pathfinder-bestiary/9H11QHnoKz8hHKSM.htm)|Ancient Red Dragon|Dragon rouge vénérable (Chromatique)|officielle|
+|[9hOuoOONmp6500GZ.htm](pathfinder-bestiary/9hOuoOONmp6500GZ.htm)|Giant Gecko|Gecko géant|officielle|
+|[9jF564DF6ylEovna.htm](pathfinder-bestiary/9jF564DF6ylEovna.htm)|Quasit|Quasit (Démon)|officielle|
 |[9qjXP1Lho1UmAihJ.htm](pathfinder-bestiary/9qjXP1Lho1UmAihJ.htm)|Axiomite|Axiomite (Aéon)|officielle|
+|[9sa2KE4Fbh3OPH7M.htm](pathfinder-bestiary/9sa2KE4Fbh3OPH7M.htm)|Brine Shark|Requin de saumure (Élémentaire, eau)|officielle|
+|[9vNYtJZiseCEf4wt.htm](pathfinder-bestiary/9vNYtJZiseCEf4wt.htm)|Balor|Balor (Démon)|officielle|
+|[9X7hOvCKy1bqw0g6.htm](pathfinder-bestiary/9X7hOvCKy1bqw0g6.htm)|Giant Tarantula|Tarentule géante|officielle|
+|[aAiuQvMGPN9QXwKY.htm](pathfinder-bestiary/aAiuQvMGPN9QXwKY.htm)|Adult Gold Dragon|Dragon d'or adulte (Métallique)|officielle|
+|[aD76W2uEQhFFUrom.htm](pathfinder-bestiary/aD76W2uEQhFFUrom.htm)|Chuul|Chuul|officielle|
+|[AdQVjlOWB6rmBRVp.htm](pathfinder-bestiary/AdQVjlOWB6rmBRVp.htm)|Doppelganger|Doppelganger|officielle|
+|[aeCoh4u6c5kt1iCs.htm](pathfinder-bestiary/aeCoh4u6c5kt1iCs.htm)|Gargoyle|Gargouille|officielle|
+|[AiPXegCJ1leUslTm.htm](pathfinder-bestiary/AiPXegCJ1leUslTm.htm)|Succubus|Succube (Démon)|officielle|
+|[aNWiP985fISjClGo.htm](pathfinder-bestiary/aNWiP985fISjClGo.htm)|Arboreal Warden|Gardien arboréen|officielle|
+|[aq2H1lRALUNMEGRG.htm](pathfinder-bestiary/aq2H1lRALUNMEGRG.htm)|Guardian Naga|Naga gardien|officielle|
+|[aqW5sp9HPgZgpXxs.htm](pathfinder-bestiary/aqW5sp9HPgZgpXxs.htm)|Hill Giant|Géant des collines|officielle|
+|[ar0tszs8NAgQamHX.htm](pathfinder-bestiary/ar0tszs8NAgQamHX.htm)|Young Blue Dragon|Jeune dragon bleu (Chromatique)|officielle|
+|[ASc5sT2hU84tp1fx.htm](pathfinder-bestiary/ASc5sT2hU84tp1fx.htm)|Simurgh|Simurgh|officielle|
+|[atrhmCtNKx1MR06I.htm](pathfinder-bestiary/atrhmCtNKx1MR06I.htm)|Faerie Dragon|Dragon féerique|officielle|
+|[AuCC04X2AO8oFN75.htm](pathfinder-bestiary/AuCC04X2AO8oFN75.htm)|Harpy|Harpie|officielle|
 |[AYwdybUfm4meGUTJ.htm](pathfinder-bestiary/AYwdybUfm4meGUTJ.htm)|Giant Rat|Rat géant|officielle|
+|[B0QyZEjAXUG5TsJU.htm](pathfinder-bestiary/B0QyZEjAXUG5TsJU.htm)|Storm Giant|Géant des tempêtes|officielle|
+|[b6qiHvyx6ymROTBL.htm](pathfinder-bestiary/b6qiHvyx6ymROTBL.htm)|Deep Gnome Warrior|Guerrier Gnome des profondeurs|officielle|
+|[B7b0alybm5U34nFV.htm](pathfinder-bestiary/B7b0alybm5U34nFV.htm)|Nessian Warhound|Molosse Nessien|officielle|
+|[B7eLG2k7qUo8HU6O.htm](pathfinder-bestiary/B7eLG2k7qUo8HU6O.htm)|Drider|Drider (Distordu)|officielle|
+|[B8QjalVNcWjuqgG7.htm](pathfinder-bestiary/B8QjalVNcWjuqgG7.htm)|Phistophilus|Phistophilus (Diable)|officielle|
+|[B9KJUdZre51J3E3e.htm](pathfinder-bestiary/B9KJUdZre51J3E3e.htm)|Ancient Copper Dragon|Dragon de cuivre vénérable (Métallique)|officielle|
 |[BAD7npndaooB3Pz1.htm](pathfinder-bestiary/BAD7npndaooB3Pz1.htm)|Redcap|Bonnet rouge|officielle|
+|[bAjHCeyNcPRqOmLv.htm](pathfinder-bestiary/bAjHCeyNcPRqOmLv.htm)|Changeling Exile|Exilée Changeline|officielle|
+|[BeptBpCJ4Ny4biOH.htm](pathfinder-bestiary/BeptBpCJ4Ny4biOH.htm)|Leaf Leshy|Léchi de feuilles|officielle|
+|[bIw7czN0E3rENrVd.htm](pathfinder-bestiary/bIw7czN0E3rENrVd.htm)|Giant Stag Beetle|Lucane géant (Coléoptère)|officielle|
+|[bIXfNKFWduf8MH0f.htm](pathfinder-bestiary/bIXfNKFWduf8MH0f.htm)|Ogre Boss|Boss ogre|officielle|
 |[bjJUZKcA47Qp0ZwL.htm](pathfinder-bestiary/bjJUZKcA47Qp0ZwL.htm)|Pleroma|Pléroma (Aéon)|officielle|
+|[bkaDwBD3mIBgvULs.htm](pathfinder-bestiary/bkaDwBD3mIBgvULs.htm)|Cloaker|Manteleur|officielle|
 |[BKPRkJgq7ehsW7uX.htm](pathfinder-bestiary/BKPRkJgq7ehsW7uX.htm)|Giant Centipede|Mille-pattes géant|officielle|
 |[BLFEu9jCKPAMko01.htm](pathfinder-bestiary/BLFEu9jCKPAMko01.htm)|Living Waterfall|Cascade vivante (Élémentaire, eau)|officielle|
+|[bLMoqt9xqTZKnjxr.htm](pathfinder-bestiary/bLMoqt9xqTZKnjxr.htm)|Werewolf|Loup-garou|officielle|
 |[Br1AtKUHe3nbzjnY.htm](pathfinder-bestiary/Br1AtKUHe3nbzjnY.htm)|Mimic|Mimique|officielle|
+|[BRo0snV2sH6TFuh6.htm](pathfinder-bestiary/BRo0snV2sH6TFuh6.htm)|Glabrezu|Glabrezu (Démon)|officielle|
+|[bSjF2lCgchtp2ocS.htm](pathfinder-bestiary/bSjF2lCgchtp2ocS.htm)|Ancient Brass Dragon|Dragon d'airain vénérable (Métallique)|officielle|
+|[bxAJWWKrEMjgNkUp.htm](pathfinder-bestiary/bxAJWWKrEMjgNkUp.htm)|Dero Stalker|Traqueur Dero|officielle|
+|[BzBFDaNj51PP97RZ.htm](pathfinder-bestiary/BzBFDaNj51PP97RZ.htm)|Ancient Bronze Dragon|Dragon de bronze vénérable (Métallique)|officielle|
+|[c0zqasudrwZU3fdw.htm](pathfinder-bestiary/c0zqasudrwZU3fdw.htm)|Efreeti|Éfrit (Génie)|officielle|
+|[c3iA9lkU1QY4YCY6.htm](pathfinder-bestiary/c3iA9lkU1QY4YCY6.htm)|Unicorn|Licorne|officielle|
+|[c6AE2Mh8BRtBgbtz.htm](pathfinder-bestiary/c6AE2Mh8BRtBgbtz.htm)|Arboreal Regent|Régent Arboréen|officielle|
+|[C9s5tBxVValC2HTE.htm](pathfinder-bestiary/C9s5tBxVValC2HTE.htm)|Giant Bat|Chauve-souris géante|officielle|
+|[cBHpMcVaLRPZu9po.htm](pathfinder-bestiary/cBHpMcVaLRPZu9po.htm)|Zephyr Hawk|Faucon Zéphyr (Élémentaire, air)|officielle|
+|[cDgOfBCrWcpYwRVS.htm](pathfinder-bestiary/cDgOfBCrWcpYwRVS.htm)|Sprite|Esprit follet|officielle|
+|[cDm6PzhO5nXlkGoi.htm](pathfinder-bestiary/cDm6PzhO5nXlkGoi.htm)|Orc Brute|Brute Orque|officielle|
+|[CFHLgMj8zHLqcagc.htm](pathfinder-bestiary/CFHLgMj8zHLqcagc.htm)|Sea Serpent|Serpent de mer|officielle|
+|[CHIh3vMssFixUlw8.htm](pathfinder-bestiary/CHIh3vMssFixUlw8.htm)|Salamander|Salamandre (Élémentaire, feu)|officielle|
+|[CJP3GGBXuGgkaj6C.htm](pathfinder-bestiary/CJP3GGBXuGgkaj6C.htm)|Grizzly Bear|Grizzly|officielle|
+|[CJuHwIRCAgTB1SEl.htm](pathfinder-bestiary/CJuHwIRCAgTB1SEl.htm)|Red Kobold Dragon Mage|Mage draconique rouge Kobold|officielle|
+|[Cq8sRhVVF0hagBu6.htm](pathfinder-bestiary/Cq8sRhVVF0hagBu6.htm)|Vampire Count|Vampire, Comte|officielle|
+|[CSefkWGVmA5yGxNR.htm](pathfinder-bestiary/CSefkWGVmA5yGxNR.htm)|Pteranodon|Ptéranodon (Ptérosaure)|officielle|
+|[csRH8Fx0r6iMWlFc.htm](pathfinder-bestiary/csRH8Fx0r6iMWlFc.htm)|Ether Spider|Araignée de l'éther|officielle|
+|[cuET2PHGcE7eL7DJ.htm](pathfinder-bestiary/cuET2PHGcE7eL7DJ.htm)|Marid|Maride (Génie)|officielle|
 |[cXSTuUJct5iepH75.htm](pathfinder-bestiary/cXSTuUJct5iepH75.htm)|Pridespawn|Rejeton de l'orgueil|libre|
+|[cZDiyluplFqRxmGy.htm](pathfinder-bestiary/cZDiyluplFqRxmGy.htm)|Animated Armor|Armure animée (Objet animé)|officielle|
 |[cZsaAKlEYWZUO1CV.htm](pathfinder-bestiary/cZsaAKlEYWZUO1CV.htm)|Terotricus|Térotricus|officielle|
+|[CzxQpB3p0d9hwPeR.htm](pathfinder-bestiary/CzxQpB3p0d9hwPeR.htm)|Bulette|Bulette|officielle|
+|[d9W89Yv6zyvfxZuG.htm](pathfinder-bestiary/d9W89Yv6zyvfxZuG.htm)|Lillend|Lillende (Azata)|officielle|
 |[dEAneTvoPuQXZoLR.htm](pathfinder-bestiary/dEAneTvoPuQXZoLR.htm)|Gibbering Mouther|Babélien|officielle|
 |[dEecX0AEfl32KUVN.htm](pathfinder-bestiary/dEecX0AEfl32KUVN.htm)|Duergar Taskmaster|Maître de corvée Duergar|officielle|
+|[DlRe4c2XlBSpwmms.htm](pathfinder-bestiary/DlRe4c2XlBSpwmms.htm)|Greater Barghest|Barghest supérieur|officielle|
+|[DolNTN9s2p79N8Cy.htm](pathfinder-bestiary/DolNTN9s2p79N8Cy.htm)|Young Gold Dragon|Jeune dragon d'or (Métallique)|officielle|
+|[DPEmRRXYevk3ADqW.htm](pathfinder-bestiary/DPEmRRXYevk3ADqW.htm)|Morrigna|Morrigna (Psychopompe)|officielle|
+|[dTz1SQvJIUsB9S2w.htm](pathfinder-bestiary/dTz1SQvJIUsB9S2w.htm)|Drow Fighter|Guerrier Drow|officielle|
+|[Dwgl1DzJAYE3ienu.htm](pathfinder-bestiary/Dwgl1DzJAYE3ienu.htm)|Cyclops|Cyclope|officielle|
 |[DX1xNtucLTenn3P3.htm](pathfinder-bestiary/DX1xNtucLTenn3P3.htm)|River Drake|Drake des rivières|officielle|
 |[E0LCMHVp4sxAbQYa.htm](pathfinder-bestiary/E0LCMHVp4sxAbQYa.htm)|Mitflit|Mitflit (Gremlin)|officielle|
 |[E0PIGtVfc5PFVT2C.htm](pathfinder-bestiary/E0PIGtVfc5PFVT2C.htm)|Cacodaemon|Cacodaémon (Daémon)|officielle|
+|[E4ctF7Fvi3cdkgQq.htm](pathfinder-bestiary/E4ctF7Fvi3cdkgQq.htm)|Hunting Spider|Araignée chasseuse|officielle|
+|[E5RDV3n7GnjAspQ5.htm](pathfinder-bestiary/E5RDV3n7GnjAspQ5.htm)|Mummy Guardian|Momie gardienne|officielle|
+|[e8rmI5xt6IANatfX.htm](pathfinder-bestiary/e8rmI5xt6IANatfX.htm)|Shemhazian|Shemhazian (Démon)|officielle|
+|[E9rT02pPDLq7rARq.htm](pathfinder-bestiary/E9rT02pPDLq7rARq.htm)|Minotaur|Minotaure|officielle|
 |[EhB5Q98OO25DDOOl.htm](pathfinder-bestiary/EhB5Q98OO25DDOOl.htm)|Lizardfolk Defender|Défenseur homme-lézard|officielle|
 |[eHLDsL1LG3jQ1H6Y.htm](pathfinder-bestiary/eHLDsL1LG3jQ1H6Y.htm)|Slurk|Slurk|officielle|
+|[EibxkD9y30YmPaLH.htm](pathfinder-bestiary/EibxkD9y30YmPaLH.htm)|Lich|Liche|officielle|
+|[eP96NzLFSjua4NS5.htm](pathfinder-bestiary/eP96NzLFSjua4NS5.htm)|Stegosaurus|Stégosaure (Dinosaure)|officielle|
+|[ePa0KmNPpR4zUPfX.htm](pathfinder-bestiary/ePa0KmNPpR4zUPfX.htm)|Dero Magister|Magister Dero|officielle|
+|[eQdLBzkluS1fvVC8.htm](pathfinder-bestiary/eQdLBzkluS1fvVC8.htm)|Caligni Dancer|Danseur Caligni|officielle|
+|[ETNlci6VnSthx5V6.htm](pathfinder-bestiary/ETNlci6VnSthx5V6.htm)|Erinys|Érinye (Diable)|officielle|
+|[ETwmjdnmSkqGdD5r.htm](pathfinder-bestiary/ETwmjdnmSkqGdD5r.htm)|Animated Broom|Balai animé (Objet animé)|officielle|
+|[Ey19J4nTn1dQvLtE.htm](pathfinder-bestiary/Ey19J4nTn1dQvLtE.htm)|Snapping Flytrap|Attrape-mouches vorace|officielle|
+|[f3c1CS2W8Tft3hW7.htm](pathfinder-bestiary/f3c1CS2W8Tft3hW7.htm)|Sea Hag|Guenaude marine|officielle|
+|[Fa1S0A8fAx3SkO9h.htm](pathfinder-bestiary/Fa1S0A8fAx3SkO9h.htm)|Brain Collector|Collecteur de cerveaux|officielle|
+|[FaBHkmFGuEIqIYM1.htm](pathfinder-bestiary/FaBHkmFGuEIqIYM1.htm)|Drow Priestess|Prêtresse Drow|officielle|
+|[fgsDAeZHVbHRhSE8.htm](pathfinder-bestiary/fgsDAeZHVbHRhSE8.htm)|Cockatrice|Cockatrice|officielle|
+|[FHfrIJCdKTzy2rrR.htm](pathfinder-bestiary/FHfrIJCdKTzy2rrR.htm)|Cauthooj|Cauthooj|officielle|
 |[FIoRPHaHdYUPVKdT.htm](pathfinder-bestiary/FIoRPHaHdYUPVKdT.htm)|Barbazu|Barbazu (Diable)|officielle|
+|[FJo8VkrM7kLkHa5D.htm](pathfinder-bestiary/FJo8VkrM7kLkHa5D.htm)|Zombie Hulk|Mastodonte zombie|officielle|
+|[fkBcMpr3Yxxfvz9v.htm](pathfinder-bestiary/fkBcMpr3Yxxfvz9v.htm)|Astradaemon|Astradaémon (Daémon)|officielle|
+|[FPKoiMXENk5FouXp.htm](pathfinder-bestiary/FPKoiMXENk5FouXp.htm)|Elemental Hurricane|Ouragan élémentaire (Élémentaire, air)|officielle|
+|[FwH05kDUlC8CwWTU.htm](pathfinder-bestiary/FwH05kDUlC8CwWTU.htm)|Troll King|Roi Troll|officielle|
+|[fxYMucI5b2IUoBpw.htm](pathfinder-bestiary/fxYMucI5b2IUoBpw.htm)|Shuln|Shuln|officielle|
+|[Fzn4jHusVeyytgfx.htm](pathfinder-bestiary/Fzn4jHusVeyytgfx.htm)|Adult Copper Dragon|Dragon de cuivre adulte (Métallique)|officielle|
 |[gDMPUL0UiOHrUUd3.htm](pathfinder-bestiary/gDMPUL0UiOHrUUd3.htm)|Aasimar Redeemer|Rédempteur Aasimar (Héritier des plans)|officielle|
+|[gdXok08bITkhowDJ.htm](pathfinder-bestiary/gdXok08bITkhowDJ.htm)|Ogre Warrior|Guerrier Ogre|officielle|
+|[gfRXFd24U633OC9r.htm](pathfinder-bestiary/gfRXFd24U633OC9r.htm)|Jinkin|Jinkin (Gremlin)|officielle|
+|[GssFAdolUA3ghg2e.htm](pathfinder-bestiary/GssFAdolUA3ghg2e.htm)|Megaprimatus|Mégaprimatus|officielle|
 |[gvCCATlH9mPGWbsp.htm](pathfinder-bestiary/gvCCATlH9mPGWbsp.htm)|Troll|Troll|officielle|
+|[gWxpeqOQ54Jd4HTG.htm](pathfinder-bestiary/gWxpeqOQ54Jd4HTG.htm)|Caligni Stalker|Traqueur caligni|officielle|
+|[gX66KyBxUOvMv5Sf.htm](pathfinder-bestiary/gX66KyBxUOvMv5Sf.htm)|Dragon Turtle|Tortue dragon|officielle|
+|[GyigGu36XLPV72nW.htm](pathfinder-bestiary/GyigGu36XLPV72nW.htm)|Djinni|Djinn (Génie)|officielle|
+|[H2ZxTHZOEigpH4LK.htm](pathfinder-bestiary/H2ZxTHZOEigpH4LK.htm)|Vampire Spawn Rogue|Rejeton du vampire roublard|officielle|
+|[HbROgIcU9Z9m6XuD.htm](pathfinder-bestiary/HbROgIcU9Z9m6XuD.htm)|Wraith|Âme-en-peine|officielle|
+|[HeoH8hi5iieKPuJ2.htm](pathfinder-bestiary/HeoH8hi5iieKPuJ2.htm)|Deadly Mantis|Mante meurtrière|officielle|
+|[HFbZ580RDOG6Rxz2.htm](pathfinder-bestiary/HFbZ580RDOG6Rxz2.htm)|Sea Devil Baron|Baron Diable des mers|officielle|
+|[hiGwRWdxAsoCII4f.htm](pathfinder-bestiary/hiGwRWdxAsoCII4f.htm)|Cinder Rat|Rat des braises (Élémentaire, feu)|officielle|
 |[Hkq9ZS2J2iKnT7vT.htm](pathfinder-bestiary/Hkq9ZS2J2iKnT7vT.htm)|Sewer Ooze|Vase des égouts (Vase)|officielle|
+|[hNR4xZRsxUkGPI1v.htm](pathfinder-bestiary/hNR4xZRsxUkGPI1v.htm)|Dandasuka|Dandasuka (Rakshasas)|officielle|
+|[hOXpmWmXU8N3n4Bw.htm](pathfinder-bestiary/hOXpmWmXU8N3n4Bw.htm)|Raja Rakshasa|Rakshasa raja|officielle|
+|[HpD0BTfid3hnUEWj.htm](pathfinder-bestiary/HpD0BTfid3hnUEWj.htm)|Bloodseeker|Cherchesang|officielle|
+|[HpY0addhUqtHMgUN.htm](pathfinder-bestiary/HpY0addhUqtHMgUN.htm)|Elephant|Éléphant|officielle|
 |[i1HEQ6f15fMEcHQf.htm](pathfinder-bestiary/i1HEQ6f15fMEcHQf.htm)|Duergar Sharpshooter|Tireur d’élite Duergar|officielle|
 |[I4CpyMUsWfFYdpL5.htm](pathfinder-bestiary/I4CpyMUsWfFYdpL5.htm)|Imp|Diablotin (Diable)|officielle|
 |[Ix1PziAEk9IIMYBz.htm](pathfinder-bestiary/Ix1PziAEk9IIMYBz.htm)|Zombie Brute|Brute zombie|officielle|

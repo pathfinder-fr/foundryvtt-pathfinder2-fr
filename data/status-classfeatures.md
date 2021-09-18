@@ -2,18 +2,17 @@
 
  * **officielle**: 210
  * **changé**: 49
- * **libre**: 164
- * **aucune**: 2
+ * **libre**: 165
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2021-09-14 19:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-18 15:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[druid-01-NdeFvIXdHwKYLiUj.htm](classfeatures/druid-01-NdeFvIXdHwKYLiUj.htm)|Flame Order|
 |[summoner-09-mdzk070ixIDpid7V.htm](classfeatures/summoner-09-mdzk070ixIDpid7V.htm)|Expert Spellcaster (Level 9)|
 
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -183,6 +182,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-01-d5BFFHXFJYKs5LXr.htm](classfeatures/druid-01-d5BFFHXFJYKs5LXr.htm)|Wild Empathy|Empathie sauvage|officielle|
 |[druid-01-fKTewWlYgFuhl4KA.htm](classfeatures/druid-01-fKTewWlYgFuhl4KA.htm)|Stone Order|Ordre de la pierre|libre|
 |[druid-01-FuUXyv2yBs7zRgqT.htm](classfeatures/druid-01-FuUXyv2yBs7zRgqT.htm)|Wave Order|Ordre de la vague|libre|
+|[druid-01-NdeFvIXdHwKYLiUj.htm](classfeatures/druid-01-NdeFvIXdHwKYLiUj.htm)|Flame Order|Ordre de la flamme|libre|
 |[druid-01-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-01-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|officielle|
 |[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal Order|Ordre animal|officielle|
 |[druid-01-RiAGlnnp4S21BAG3.htm](classfeatures/druid-01-RiAGlnnp4S21BAG3.htm)|Druidic Language|Le druidique|officielle|

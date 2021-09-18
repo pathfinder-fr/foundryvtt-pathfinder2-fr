@@ -148,6 +148,11 @@
             ]
         },
         {
+            "id": "Dual Studies",
+            "name": "Études duales",
+            "description": "<p>Vous et votre eidolon avez des compétences que vous pratiquez seuls.</p>\n<p>Choisissez deux compétences. Votre eidolon devient qualifié en une de ces compétences et vous êtes qualifié dans l'autre compétence.</p>\n<p>Au niveau 7, vous devenez chacun un expert dans les compétences choisies. Cette maîtrise de compétence ne sont pas partagées entre votre eidolon et vous.</p>"
+        },
+        {
             "id": "Glyph Expert",
             "name": "Expert des glyphes",
             "description": "<p>Vous avez appris à reconnaître les écrits révélateurs et autres des signes qui indiquent la présence de pièges magiques. Vous obtenez un bonus de circonstances de +2 aux tests de Perception pour repérer les pièges magiques, à la CA contre les attaques des pièges magiques, aux jets de sauvegarde contre les pièges magiques, et aux tests pour Désamorcer les pièges magiques. Même si vous ne Fouillez pas, vous obtenez un test pour trouver les pièges magiques qui vous obligent normalement à Fouiller. Vous devez encore satisfaire aux autres conditions pour repérer le piège. Vous êtes également capable d'éviter les effets des pièges qui ont des inscriptions magiques, comme des runes, des glyphes, des écritures anciennes ou d'autres inscriptions. Lorsque vous effectuez un jet de sauvegarde contre les effets de ces pièges, si vous effectuez un succès, vous obtenez un succès critique à la place. Si vous effectuez un échec critique, vous obtenez un échec à la place.</p>",
@@ -258,6 +263,16 @@
             ]
         },
         {
+            "id": "Force Fang",
+            "name": "Crocs de force",
+            "description": "<p>Vous pouvez transformer votre attaque en une force floue et infaillible. Vous apprenez le sort de confluence <em>@Compendium[pf2e.spells-srd.9mPEoOPN0AMuixIv]{Crocs de force}</em>.</p>\n<p>Augmentez le nombre de Points de focalisation dans votre réserve de focalisation de 1.</p>",
+            "prereq": [
+                {
+                    "value": "réserve de focalisation"
+                }
+            ]
+        },
+        {
             "id": "Whirlwind Stance",
             "name": "Posture tourbillonnante",
             "description": "<p><strong>Conditions</strong> Vous maniez votre bâton qui doit avoir le trait parade.</p>\n<hr />\n<p>Vous utilisez votre bâton comme un moyen de défense autant que pour attaquer. Vous obtenez un bonus de circonstances de +2 à la CA tant que vous maintenez cette posture.</p>",
@@ -361,6 +376,16 @@
             ]
         },
         {
+            "id": "Ranged Combatant (Good)",
+            "name": "Combattant à distance (bien)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #bien]]{1d4 dégâts du bien} et qui possède les traits magique et propulsif.</p>"
+        },
+        {
+            "id": "Ranged Combatant (Evil)",
+            "name": "Combattant à distance (mauvais)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #mauvais]]{1d4 dégâts mauvais} et qui possède les traits magique et propulsif.</p>"
+        },
+        {
             "id": "Spellmaster Dedication",
             "name": "Dévouement du Maître des sorts",
             "description": "<p>En tant que Maître des sorts, vous êtes adepte de l'identification de la magie. Vous obtenez un bonus de circonstances de +2 lorsque vous @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifiez la Magie} avec une compétence dans laquelle vous êtes au moins qualifié. Si vous possédez le don @Compendium[pf2e.feats-srd.UyMQ1X8KLSZvm7AT]{Bricoleur de résonance de guide}, vous pouvez changer le tour de magie que vous choisissez pour ce don chaque jour au cours de vos préparatifs quotidiens.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir d'autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype Maître des sorts.</p>",
@@ -380,6 +405,11 @@
             "id": "Timeless Body",
             "name": "Éternelle jeunesse",
             "description": "<p>Vous ne vieillissez plus. De plus, vous bénéficiez d’un bonus de statut de +2 aux jets de sauvegarde contre les poisons et les maladies et vous bénéficiez d’une résistance au poison égale à la moitié de votre niveau.</p>"
+        },
+        {
+            "id": "Cantrip Casting",
+            "name": "Incantation de tour de magie",
+            "description": "<p>Vous augmentez votre capacité à lancer des sorts simples. Vous obtenez deux tours de magie supplémentaires de la tradition correspondant à votre trait.</p>"
         },
         {
             "id": "Extinguish Light",
@@ -1960,6 +1990,11 @@
             ]
         },
         {
+            "id": "Ranged Combatant (Piercing)",
+            "name": "Combattant à distance (perforant)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #perforants]]{1d4 dégâts perforants} et qui possède les traits magique et propulsif.</p>"
+        },
+        {
             "id": "Pickpocket",
             "name": "Vol à la tire",
             "description": "<p>Vous pouvez Voler ou Escamoter un objet étroitement gardé, tel que dans une poche, sans subir le malus de −5. Vous ne pouvez pas voler d’objets qui seraient extrêmement visibles ou qui prendraient du temps à retirer (tels que des chaussures ou une armure portées ou des objets activement utilisés). Si vous êtes maître en Vol, vous pouvez tenter de Voler une créature en combat ou sous surveillance. Quand vous le faites, Voler nécessite 2 actions de manipulation au lieu de 1, et vous subissez un malus de −5.&nbsp;</p>",
@@ -1984,6 +2019,16 @@
                 },
                 {
                     "value": "qualifié en amrure légère, intermédiaire ou lourde"
+                }
+            ]
+        },
+        {
+            "id": "Shielded Tome",
+            "name": "Livre bouclier",
+            "description": "<p>Lors de vos préparatifs quotidiens, vous pouvez fusionner magiquement un bouclier dans votre livre préféré, où il apparaît alors sous la forme d'un marque-page élaboré. Pendant que les deux sont fusionnés, le livre partage la solidité, les points de vie et le seuil de rupture du bouclier et il peut être utilisé pour @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage de bouclier} si vous avez cette réaction, en remplaçant sa condition habituelle par la condition \"Vous avez levé le livre\".</p>\n<p>Vous pouvez faire passer la forme de l'objet ainsi fusionné d'un livre à celle d'un bouclier portant un motif en forme de livre par une seule action, qui possède le trait concentration. Lorsque l'objet est sous la forme d'un livre, vous pouvez lire le livre et Interposer le livre ; lorsqu'il est sous la forme de bouclier, vous pouvez lever le bouclier, l'activer et obtenir tous les autres avantages ou effets dont le bouclier dispose habituellement (comme le bonus d'un @Compendium[pf2e.equipment-srd.OqDAx4HJ39ojVtvg]{Bouclier gardesort} aux jets de sauvegarde contre la magie).</p>\n<p>La fusion dure jusqu'à vos prochains préparatifs quotidiens.</p>",
+            "prereq": [
+                {
+                    "value": "Interposer un livre"
                 }
             ]
         },
@@ -2496,6 +2541,11 @@
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous manquez un jet de réflexes.</p>\n<hr />\n<p>Vous évitez de manière instinctive le danger. Vous pouvez relancer le jet déclencheur et utiliser le meilleur résultat.</p>"
         },
         {
+            "id": "Steed Form",
+            "name": "Forme de monture",
+            "description": "<p>Votre eidolon change pour devenir plus particulièrement efficace comme monture. Tant que vous le montez, vous obtenez votre nombre complet d'actions chaque round au lieu de le réduire de 2. Cela ne s'applique seulement que lorsque vous montez votre eidolon, pas lorsque quelqu'un d'autre le fait. Votre eidolon doit toujours être d'au moins une catégorie supérieure à la vôtre pour que vous puissiez le monter. Comme vous œuvrez ensemble à vous déplacer, les actions de déplacement de votre eidolon, tant que vous le montez obtiennent le trait tandem.</p>"
+        },
+        {
             "id": "Storm Born",
             "name": "Enfant de la tempête",
             "description": "<p>Vous êtes chez vous en extérieur, au milieu des éléments, à savourer la puissance débridée de la nature. Vous ne subissez aucun malus de circonstances dû au climat sur les attaques de sort à distance ou les tests de Perception, et vos sorts ciblés ne nécessitent la réussite d’aucun test nu pour toucher une cible masquée par les conditions climatiques (par du brouillard, par exemple).</p>",
@@ -2591,6 +2641,11 @@
             "description": "<p>Vous utilisez vos nombreux yeux pour regarder dans toutes les directions à la fois, ce qui vous rend extrêmement observateur pendant une courte période de temps. Vous gagnez @Compendium[pf2e.bestiary-ability-glossary-srd.9qV49KjZujZnSp6w]{Vision à 360°} jusqu'au début de votre prochain tour. Cela vous permet de voir dans toutes les directions et vous empêche d'être pris en tenaille.</p>"
         },
         {
+            "id": "Steady Spellcasting (Magus)",
+            "name": "Incantation fiable (magus)",
+            "description": "<p>Confiant dans votre technique, vous ne perdez pas facilement votre concentration lorsque vous lancez un sort.</p>\n<p>Si une réaction devait interrompre l'action de lancement de votre sort, faites un  <span data-pf2-check=\"flat\" data-pf2-dc=\"15\">test nu</span> DD 15. En cas de réussite, votre action n'est pas interrompue.</p>"
+        },
+        {
             "id": "Enlarge Companion",
             "name": "Compagnon aggrandi",
             "description": "<p>Vous rendez énorme votre compagnon. Vous obtenez le sort de gardien @Compendium[pf2e.spells-srd.8rj45fKzCFcB0fxs]{Compagnon aggrandi}. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.</p>",
@@ -2645,6 +2700,22 @@
             "id": "Snagging Strike",
             "name": "Frappe déconcertante",
             "description": "<p><strong>Conditions</strong> Vous avez une main libre et votre cible est à portée de cette main.</p>\n<hr />\n<p>Vous combinez une attaque avec de rapides prises avec la main pour déséquilibrer un ennemi tant qu’il reste à portée.</p>\n<p>Effectuez une Frappe en gardant une main libre. Si cette Frappe touche, la cible est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} jusqu’au début de votre prochain tour ou jusqu’à ce qu’elle sorte de l’allonge de votre main, selon ce qui se produit en premier.</p>"
+        },
+        {
+            "id": "Devastating Spellstrike",
+            "name": "Frappe de sort dévastatrice",
+            "description": "<p><strong>Conditions</strong> Vous êtes dans la posture Cascade arcanique et votre Frappe de sort est chargée.</p>\n<hr />\n<p>Les coups de votre Frappe de sort sont si larges et dévastateurs qu'ils éclaboussent les ennemis proches. Faites une Frappe de sort. Les ennemis adjacents à la cible subissent des dégâts d'éclaboussure égaux à 2 + les dégâts supplémentaies de Cascade arcanique. Les dégâts sont du même type que la Cascade arcanique ; si le sort a déjà infligé des dégâts d'éclaboussure du même type, combinez les dégâts ensemble avant d'appliquer les faiblesses ou les résistances.</p>",
+            "prereq": [
+                {
+                    "value": "Cascade arcanique"
+                },
+                {
+                    "value": "Études hybridées acier inexorable"
+                },
+                {
+                    "value": "Frappe de sort"
+                }
+            ]
         },
         {
             "id": "Gnoll Weapon Practicality",
@@ -2880,6 +2951,16 @@
             ]
         },
         {
+            "id": "Striker's Scroll",
+            "name": "Parchemin du frappeur",
+            "description": "<p>Vous pouvez attacher un parchemin à votre arme ou à des <em>@Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}</em> pour intégrer le sort qu'il contient à une attaque, et ce, en le pliant soigneusement autour d'une partie de l'arme ou en le scellant sur la surface de l'arme. Pour attacher un parchemin, il faut utiliser l'action @Compendium[pf2e.actionspf2e.UAaQk93a30nx0nYY]{Fixer un talisman}. Vous ne pouvez avoir qu'un seul parchemin apposé sur une arme à la fois et vous ne pouvez pas avoir à la fois un talisman et un parchemin attachés.</p>\n<p>Vous pouvez lancer le sort du parchemin dans le cadre d'une Frappe de sort, à condition que le sort soit un sort que vous pouvez normalement utiliser avec Frappe de sort. Vous ne pouvez pas lancer le sort d'une autre manière tant qu'il est ainsi fixé, bien que vous puissiez à nouveau utiliser l'option Fixer un talisman pour retirer le parchemin et l'utiliser comme un parchemin normal, même s'il est un peu froissé.</p>",
+            "prereq": [
+                {
+                    "value": "Frappe de sort"
+                }
+            ]
+        },
+        {
             "id": "Web Weaver",
             "name": "Tisseur de toiles",
             "description": "<p>Vous pouvez produire une soie douce à tisser pour en faire des objets utiles. Vous gagnez le don @Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{artisanat spécialisé (tissage)}. Vous pouvez utiliser vos fils de soie pour fabriquer des objets simples, non consommables, tels que des vêtements et des cordes, à un coût nul tant que leur prix de base est inférieur ou égal à 1 pa. Ces objets n'ont aucune valeur à la revente et se dégradent naturellement après 24 heures sans entretien régulier (même mineur). Vous pouvez entretenir jusqu'à 10 de ces objets à la fois ; si vous en créez un nouveau, votre création la plus ancienne se dégrade du fait de votre négligence. Ces objets temporaires ne vous prennent qu'un jour à Fabriquer au lieu de 4. Si vous êtes un expert en artisanat, vous pouvez Fabriquer ces objets en 1 heure ; si vous êtes un maître, vous pouvez les fabriquer en 10 minutes ; si vous êtes légendaire, vous pouvez les fabriquer en 1 minute.</p>"
@@ -3035,6 +3116,16 @@
                 },
                 {
                     "value": "maître en Arcanes, Nature, Occultisme ou Religion, selon le lignage"
+                }
+            ]
+        },
+        {
+            "id": "Phase Out",
+            "name": "Déphasage",
+            "description": "<p>Votre eidolon quitte légèrement la réalité et obtient une résistance à tous les dégâts (sauf ceux de force et négatifs) égale à la moitié de votre niveau. Il n'est pas intangible mais il ne peut pas utiliser les Frappes ou les actions qui nécessitent une forme entièrement physique, comme @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir}, @Compendium[pf2e.actionspf2e.7 blmbDrQFNfdT731]{Pousser} ou faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe}.</p>\n<p>Votre eidolon peut reprendre sa forme normale par une action unique, qui possède le trait concentration.</p>",
+            "prereq": [
+                {
+                    "value": "votre eidolon est un fantôme"
                 }
             ]
         },
@@ -3549,6 +3640,11 @@
             "description": "<p>Vous transportez avec vous les os de vos ancètres et vous pouvez leur demander conseil. Vous pouvez lancer @Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure} deux fois par jour comme des sorts occultes innés de niveau 2.</p>"
         },
         {
+            "id": "Ranged Combatant (Negative)",
+            "name": "Combattant à distance (négatif)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #négatifs]]{1d4 dégâts négatifs} et qui possède les traits magique et propulsif.</p>"
+        },
+        {
             "id": "Reliable Luck",
             "name": "Chance fiable",
             "description": "<p>Vous avez été au-delà des neuf vies pour survivre aux dangers avec une surprenante régularité.</p>\n<p>Vous pouvez utiliser Chance féline une fois par heure plutôt qu'une fois par jour.</p>",
@@ -3685,6 +3781,11 @@
                     "value": "Dévouement de Lame du lion"
                 }
             ]
+        },
+        {
+            "id": "Defend Summoner",
+            "name": "Défendre le conjurateur",
+            "description": "<p>Votre eidolon bloque les attaques portées contre vous. Lorsque votre eidolon a utilisé cette action, vous gagnez un bonus de circonstances de +2 à la CA jusqu'au début de votre prochain tour. Ce bonus ne s'applique que lorsque vous êtes à la portée de votre eidolon (dans la plupart des cas, cela signifie que vous et votre eidolon êtes adjacents ou dans votre case).</p>"
         },
         {
             "id": "Finishing Precision",
@@ -3939,6 +4040,11 @@
             "id": "Dual Finisher",
             "name": "Coup final dual",
             "description": "<p><strong>Conditions</strong> Vous maniez deux armes de corps à corps, une dans chaque main.</p>\n<hr />\n<p>Vous divisez vos attaques. Faites deux @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} de corps à corps, une avec chaque arme requise, chacune contre un adversaire différent. Si la seconde Frappe est portée avec une arme non-agile, elle subit une pénalité de –2.</p>\n<p>Augmentez votre pénalité d'attaques multiples seulement après avoir effectué les deux Frappes.</p>"
+        },
+        {
+            "id": "Ranged Combatant (Slashing)",
+            "name": "Combattant à distance (tranchant)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #tranchants]]{1d4 dégâts tranchants} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Raging Athlete",
@@ -4521,6 +4627,11 @@
             ]
         },
         {
+            "id": "Reactive Dismissal",
+            "name": "Renvoi réactif",
+            "description": "<p><strong>Déclencheur</strong> Votre eidolon devrait subir des dégâts.</p>\n<hr />\n<p>Vous renvoyez de manière abrupte votre eidolon pour réduire les dégâts qu'il subit, bien que cela rende plus difficile de le conjurer de nouveau. Réduisez les dégâts déclencheurs subis par votre eidolon du double de votre niveau et votre eidolon disparaît. Vous ne pouvez Manifester votre eidolon de nouveau avant la fin de votre prochain tour.</p>"
+        },
+        {
             "id": "Expert Poisoner",
             "name": "Empoisonneur expert",
             "description": "<p>Votre niveau d'@Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{Alchimie avancée} pour le poison passe à votre niveau –3.</p>",
@@ -4763,6 +4874,11 @@
             ]
         },
         {
+            "id": "Magical Understudy",
+            "name": "Doublure magique",
+            "description": "<p>Votre eidolon évolue pour incanter des sorts. Il obtient l'activité Lancer un sort et apprend deux tours de magie de sa tradition, qu'il peut lancer comme des sorts innés.</p>"
+        },
+        {
             "id": "Wilderness Spotter (Forest)",
             "name": "Observateur des étendues sauvages (Forêt)",
             "description": "<p>Vous pouvez utiliser Survie à la place de Perception pour déterminer l'initiative lorsque vous êtes dans les forêts dans un lieu naturel (pas une structure) même si vous n'étiez pas en train de Pister ou d'utiliser autrement Survie avant la rencontre.</p>\n<p>Vous pouvez aussi utiliser la survie au lieu de la Perception pour remarquer des pièges dans les endroits naturels dans un environnement forestier ; si vous trouvez un piège artisanal de cette manière, vous pouvez aussi utiliser Survie au lieu de Vol pour Désamorcer le mécanisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, le don s'applique à un nouveau type de terrain.</p>",
@@ -4938,6 +5054,11 @@
             "id": "Light Step",
             "name": "Pas léger",
             "description": "<p>Vous n’avez aucun mal à vous déplacer sur un sol inégal. Quand vous Marchez rapidement ou Faites un pas, vous pouvez ignorer le terrain difficile.</p>"
+        },
+        {
+            "id": "Spell Parry",
+            "name": "Parade de sort",
+            "description": "<p><strong>Conditions</strong> Vous avez une ou plusieurs mains libres.</p>\n<hr />\n<p>Vous imprégnez votre corps ou votre arsenal de puissance magique pour pouvoir parer à la fois les assauts physiques et magiques.</p>\n<p>Vous vous mettez en garde et obtenez un bonus de circonstances de +1 circumstance à la CA et aux jets de sauvegarde contre les sorts qui vous cibles jusqu'au début de votre prochain tour, tant que vous continuez à remplir les conditions.</p>"
         },
         {
             "id": "Swap Investment",
@@ -5271,6 +5392,19 @@
                 },
                 {
                     "value": "Manières courtoises"
+                }
+            ]
+        },
+        {
+            "id": "Distracting Spellstrike",
+            "name": "Frappe de sort distrayante",
+            "description": "<p><strong>Conditions</strong> Vous êtes dans la posture Cascade arcanique et possédez une main libre.</p>\n<hr />\n<p>Vous tissez une magie distrayante avec une main pour améliorer votre Frappe de sort. Faites une Frappe de sort et effectuez une @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinte} contre la cible de votre Frappe de sort. Vous le faites immédiatement avant de  porter la Frappe, mais après avoir choisi votre cible.</p>\n<p>La Feinte obtient les traits arcanique, illusion et visuel et possède toujours les effets basiques d'une feinte, au lieu d'appliquer tout ajustement ou effet alternatif issus d'autres dons ou capacités.</p>",
+            "prereq": [
+                {
+                    "value": "études hybridées ombre ricanante"
+                },
+                {
+                    "value": "Frappe de sort"
                 }
             ]
         },
@@ -5976,6 +6110,16 @@
             "prereq": [
                 {
                     "value": "Parade en duel"
+                }
+            ]
+        },
+        {
+            "id": "Advanced Elemental Spell",
+            "name": "Sort élémentaire avancé",
+            "description": "<p>Votre lien avec un des aspects élémentaires supérieur de la nature s'approfondit, vous permettant de mieux contrôler ses pouvoirs.</p>\n<p>Vous obtenez le sort d'ordre associé avec votre ordre :</p>\n<ul>\n<li>Si vous êtes un membre de l'ordre de la flamme, you gain @Compendium[pf2e.spells-srd.Z3kJty995FkrsZRb]{Combustion}</li>\n<li>Si vous êtes un membre de l'ordre de la pierre, you gain @Compendium[pf2e.spells-srd.ECApRjIIxD0JogOa]{Lance de pierre}</li>\n<li>Si vous êtes un membre de l'ordre de la tempête, you gain @Compendium[pf2e.spells-srd.v4QHuVOhFD1JMAqu]{Inhalation puissante}</li>\n<li>Si vous êtes un membre de l'ordre de la vague, you gain @Compendium[pf2e.spells-srd.E80SrXuBdZViPGiH]{Cascade pulvérisante}</li>\n</ul>\n<p>Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.</p>",
+            "prereq": [
+                {
+                    "value": "ordre de la flamme, de la pierre, de la tempête ou de la vague"
                 }
             ]
         },
@@ -7443,6 +7587,11 @@
             "description": "<p>Vous pouvez altérer les sorts offensifs pour qu'ils soient moins mortels.</p>\n<p>Si votre prochaine action consiste à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} qui inflige des dégâts et ne possède par le trait négatif ou mort, ce sort obtient le trait non létal.</p>"
         },
         {
+            "id": "Meld into Eidolon",
+            "name": "Fusion dans l'eidolon",
+            "description": "<p>Votre forme physique peut se combiner avec celle de votre eidolon, vous accordant des avantages mais limitant vos capacités.</p>\n<p>Vous Manifestez votre eidolon, mais au lieu de le conjurer dans un espacte adjacent libre, vous le devenez. Lorsqu'il est Manifesté de cette manière, vous utilisez ses statistiques et vous ne pouvez agir sauf pour le diriger ou utiliser Manifester l'eidolon pour le faire disparaître.</p>\n<p>Comme vous ne pouvez agir, vous ne pouvez lancer de sorts, activer ou tirer avantage des objets magiques dont vous pouvez normalement bénéficieret pas votre eidolon, accomplir des actions qui possèdent le trait tandem ouutiliser d'autres capacités qui nécessitent que vous, et non l'eidolon, puissiez agir.</p>\n<p>Vous ne pouvez être ciblé séparément lorsque vous avez fusionné dans votre eidolon. Lorsque vous êtes amené à 0 PV, votre eidolon disparaît, laissant votre corps derrière lui, inconscient et mourant.</p>"
+        },
+        {
             "id": "Clever Counterspell",
             "name": "Contresort astucieux",
             "description": "<p>Votre créativité vous permet d’appliquer vos sorts préparés comme Contresorts contre un éventail de magie ennemie bien plus large. Au lieu de contrer un sort ennemi avec Contresort uniquement si vous avez préparé le même sort, vous pouvez utiliser Contresort tant que le sort que lance l’ennemi figure dans votre grimoire. Quand vous utilisez Contresort ainsi, le sort préparé dépensé doit partager un trait autre que sa tradition avec celui qu’il contre. Si le MJ accepte, vous pouvez à la place utiliser un sort doté d’un trait opposé ou qui contre logiquement le sort adverse (en vous servant par exemple d’un sort de froid ou d’eau pour contrer boule de feu ou délivrance de la peur pour contrer un sort de terreur). Quel que soit le sort dépensé, vous subissez un malus de −2 à votre test de contresort, bien que le MJ puisse annuler ce malus si le sort dépensé est particulièrement bien approprié.</p>",
@@ -8097,6 +8246,16 @@
             "description": "<p>Beaucoup considèrent les demi-orcs à peine un petit plus que des brutes stupides. Cela vous blesse, mais cela peut être utile à l'occasion. Vous êtes qualifié en Duperie (ou une autre compétence de votre choix si vous étiez déjà qualifié en Duperie) et vous obtenez un bonus de circonstances de +2 aux tests de Duperie pour Mentir lorsque vous prétendez spécifiquement tout ignorer et au DD de Duperie contre les tests pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions} pour découvrir de tels mensonges.</p>"
         },
         {
+            "id": "Fire Resistance",
+            "name": "résistance au feu",
+            "description": "<p>Votre lien avec la chaleur et les flammes est telle que le feu hésite à utiliser toute sa puissance à votre encontre. Vous gagnez une résistance au feu égale à la moitié de votre niveau et un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de feu.</p>",
+            "prereq": [
+                {
+                    "value": "ordre de la flamme"
+                }
+            ]
+        },
+        {
             "id": "Grippli Weapon Innovator",
             "name": "Innovateur d'armes des gripplis",
             "description": "<p>Vous avez appris les manières de tirer le plus des armes gripplis. Lorsque vous réalisez un coup critique avec l'@Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]{arc court}, l'@Compendium[pf2e.equipment-srd.e4NwsnPnpQKbDZ9F]{arc court composite}, la @Compendium[pf2e.equipment-srd.H74vYwHJ8XT4qOPI]{faux}, la @Compendium[pf2e.equipment-srd.LGgvev6AV0So8tP9]{Hachette} et la @Compendium[pf2e.equipment-srd.FPwsiGqMCNPLHmjX]{sarbacane} ou une arme grippli, vous appliquez l'effet de critique spécialisé de l'arme.</p>",
@@ -8655,6 +8814,11 @@
                     "value": "Touché par la muse"
                 }
             ]
+        },
+        {
+            "id": "Reflective Ripple Stance",
+            "name": "Posture de l'onde réfléchissante",
+            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous prenez une posture de grace fluide comme si de petites quantités d'eau accompagnaient vos déplacements et vos attaques. Vous pouvez porter des attaques de vagues coulantes qui infligent [[r/ 1d6 #contondants]]{1d6 dégâts contondants}. Ces attaques sont dans le groupe pugilat et possèdent les traits agile, désarmer, finesse, non létal, croc-en-jambe, à mains nues et eau.</p>\n<p>Tant que vous êtes dans la posture de l'onde réfléchissante, vous obtenez un bonus de circonstances de +1 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou pour faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} et vous obtenee un bonus de circonstance de +2 à votre DD de Réflexes pour éviter d'être Désarmé ou contre les Croc-en-Jambe.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don obtient à votre choix le trait divin ou occulte, correspondant à la tradition de vos sorts de ki si c'est possible.</p>"
         },
         {
             "id": "Log Roll",
@@ -10036,6 +10200,11 @@
             ]
         },
         {
+            "id": "Skilled Partner",
+            "name": "Partenaire compétent",
+            "description": "<p>Votre eidolon obtient un don de compétence de niveau 1 et un don de compétence de niveau  ou inférieur. Au niveau 7, votre eidolon obtient un don de compétence supplémentaire, de niveau 7 ou inférieur.</p>"
+        },
+        {
             "id": "Shattering Strike (Weapon Improviser)",
             "name": "Frappe fracassante (Improvisateur d'arme)",
             "description": "<p><strong>Déclencheur</strong> Une arme improvisée que vous maniez est cassée lors d'un coup critique effectué sur un Tabassage improvisé.</p>\n<hr />\n<p>L'arme improvisée est fracassée, la détruisant complètement mais en infligeant [[/r 3d6 #perforants]] dégâts perforants supplémentaires à la créature que vous touchez avec Tabassage improvisé. Ces dégâts supplémentaires que vous appliquez sur le coupr critique ne doublent pas du fait du coup critique, comme habituellement.</p>",
@@ -10295,6 +10464,11 @@
             "id": "Viking Shieldbearer",
             "name": "Porteur de bouclier Viking",
             "description": "<p><strong>Accès</strong> ethnie ulfe</p>\n<hr />\n<p>Vous vous êtes entraîné au maniement des boucliers et des armes dès que vous avez été capable de les tenir, soucieux de gagner honneur et gloire. Vous obtenez la réaction @compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier} et vous êtes qualifié, au choix, avec la hache de bataille ou l'épée longue.</p>"
+        },
+        {
+            "id": "Cantrip Expansion (Magus)",
+            "name": "Expansion de tour de magie (magus)",
+            "description": "<p>L'étude dédiée vous permet de préparer un plus large éventail de sorts simples.</p>\n<p>Vous pouvez préparer deux tours de magie supplémentaires chaque jour.</p>"
         },
         {
             "id": "Ambush Awareness",
@@ -11659,6 +11833,11 @@
             "description": "<p>Votre lien avec le Cimetière assure à vos coups de pouvoir frapper les êtres spectraux.</p>\n<p>Votre arme et vos Frappes à mains nues contre les créatures intangibles deviennent magiques. Si elles sont déjà magiques, elles obtiennent alors les effets d'une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{Spectrale}.</p>"
         },
         {
+            "id": "Arcane Fists",
+            "name": "Poings arcaniques",
+            "description": "<p>Votre entraînement physique englobe les formes de combat à mains nues. Le dé de dégâts de vos poings passe à 1d6 au lieu de 1d4. Vous ne subissez pas la pénalité de circonstances normale de -2 lorsque vous effectuez une attaque létale avec vos poings ou toute autre attaque à mains nues. Vos attaques à mains nues obtiennent le trait arcane, ce qui les rend magiques. Au niveau 5, vous obtenez également les effets de critique spécialisé des attaques à mains nues du groupe pugilat et des armes du groupe pugilat.</p>"
+        },
+        {
             "id": "Hex Focus",
             "name": "Refocalisation de maléfice",
             "description": "<p>Les enseignements de votre patron vous ont permis d'atteindre une meilleure capacité de refocalisation.</p>\n<p>Si vous avez dépensé au moins 2 Points de focalisation depuis la dernière fois que vous vous êtes @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocalisé}, vous récupérez 2 Points de focalisation lorsque vous vous Refocalisez au lieu d'un.</p>"
@@ -12522,6 +12701,11 @@
             ]
         },
         {
+            "id": "Eidolon's Opportunity",
+            "name": "Opportunité de l'eidolon",
+            "description": "<p><strong>Déclencheur</strong> Une créature à portée de votre eidolon utilise une action de manipulation ou une action de déplacement, effectue une attaque à distance ou quitte une case durant une action de déplacement qu'elle utilise.</p>\n<hr />\n<p>Votre eidolon effectue une Frappe au corps-à-corps contre la créature déclencheuse. Si l'attaque est un coup critique et que le déclencheur était une action de manipulation, votre eidolon interrompt cette action. Cette Frappe ne compte pas pour calculer votre pénalité d'attaques multiples et votre pénalité d'attaque multiple ne s'applique pas à cette Frappe.</p>"
+        },
+        {
             "id": "Demonblood Frenzy",
             "name": "Frénésie du sang de démon",
             "description": "<p><strong>Accès</strong> ethnie Matanji</p>\n<p><strong>Fréquence</strong> une fois par minute</p>\n<p><strong>Déclencheur</strong> Vous réussissez à Frapper une créature vivante qui a le trait fiélon avec votre frappe à mains nues de défense.</p>\n<hr />\n<p>Le simple goût du sang fiélon suffit pour que vous rentriez dans une fureur surnaturelle. Vous devenez @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accéléré} jusqu'à la fin de votre prochain tour et vous pouvez utiliser l'action supplémentaire pour faire une Frappe de défenses, Marcher rapidement ou Faire un pas.</p>",
@@ -12653,6 +12837,11 @@
                     "value": "expert en Médecine"
                 }
             ]
+        },
+        {
+            "id": "Tandem Strike",
+            "name": "Frappe en tandem",
+            "description": "<p><strong>Conditions</strong> Une créature est à portée de votre allonge et de celle de votre eidolon.</p>\n<hr />\n<p>Vous et votre eidolon attaquez chacun, ciblant de manière fluide le même ennemi sans interférer avec les mouvements de l'autre. Votre eidolon effectue une Frappe au corps-à-corps, puis vous faites une Frappe au corps-à-corps contre la même créature. Les deux attaques sont prises en compte pour le calcul de la pénalité d'attaques multiples, mais cette pénalité n'augmente qu'après avoir effectué les deux attaques.</p>"
         },
         {
             "id": "Loremaster Dedication",
@@ -13147,6 +13336,11 @@
                     "value": "héritage Gobelin des neiges"
                 }
             ]
+        },
+        {
+            "id": "Ranged Combatant (Bludgeoning)",
+            "name": "Combattant à distance (contondant)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #contondants]]{1d4 dégâts contondants} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Bless Tonic",
@@ -13678,6 +13872,11 @@
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous faites appel à vos alliés et les poussez à donner tout au combat.</p>\n<p>Tous les alliés dans les 9 m qui peuvent vous entendre un nombre de Points de vie temporaires égal à votre niveau. De plus, ces alliés sont @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accélérés} pendant 1 minute mais peuvent seulement utiliser l'action supplémentaire pour Faire un pas, Marcher rapidement ou Frapper.</p>"
         },
         {
+            "id": "Alacritous Action",
+            "name": "Action entraînante",
+            "description": "<p>Votre eidolon se déplace plus rapidement. Il obtient un bonus de statut de +3 m à sa Vitesse.</p>"
+        },
+        {
             "id": "Ancillary Motes",
             "name": "Grains secondaires",
             "description": "<p>Vous pouvez utiliser @Compendium[pf2e.feats-srd.Ewk7h9aQpKvy1RJo]{Poussière cristalline} une fois de plus par jour.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plus d'une fois, obtenant une utilisation de plus de Poussière cristalline chaque jour.</p>",
@@ -14025,6 +14224,11 @@
             ]
         },
         {
+            "id": "Bloodletting Claws",
+            "name": "Griffes hémorragiques",
+            "description": "<p>Votre eidolon inflige des blessures hémorragiques sur un coup terrible. Si votre eidolon inflige un coup critique avec une frappe au corps à corps à mains nues qui inflige des dégâts tranchants ou perforants, sa cible subit [[/r 1d6 #saignement persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 Dégâts de saignement persistant}. Votre eidolon bénéficie d'un bonus d'objet à ces dégâts de saignement égal au bonus d'objet aux jets d'attaque de l'attaque à mains nues. Il s'agit d'un effet de critique spécialisé.</p>"
+        },
+        {
             "id": "Hag Claws",
             "name": "Griffes de guenaude",
             "description": "<p>Lorsque vous êtes parvenu à l'âge adulte, vos ongles sont devenus longs et coupants.</p>\n<p>Vous obtenez une attaque à mains nues de griffes qui infligent 1d4 dégâts tranchants. Vos griffes sont dans le groupe pugilat et possèdent les dons à mains nues, agile et finesse.</p>\n<hr />\n<p><strong>Spécial</strong> Les griffes de guenaude peuvent se développer à tout moment de la vie d'un changelin, vous permettant de choisir ce don à tout moment au cours duquel vous pourriez obtenir un don ancestral, mais une fois choisi, il ne peut être l'objet de réapprentissage.</p>"
@@ -14056,6 +14260,11 @@
                     "value": "qualifié avec les armes simples"
                 }
             ]
+        },
+        {
+            "id": "Lifelink Surge",
+            "name": "Afflux du lien vital",
+            "description": "<p>Vous apprenzz le sort lié @Compendium[pf2e.spells-srd.lOZhcvtej10TqlQm]{Afflux du lien vital}. Augmentez le nombre de point de focalisation de votre réserve de focalisation de 1.</p>"
         },
         {
             "id": "Deimatic Display",
@@ -14187,6 +14396,19 @@
             "prereq": [
                 {
                     "value": "Queue souple"
+                }
+            ]
+        },
+        {
+            "id": "Starlit Eyes",
+            "name": "Yeux stellaires",
+            "description": "<p>La lumière des étoiles brille dans votre regard, améliorant votre perception et votre portée.</p>\n<p>Lorsque vous portez une Frappe à distance en étant dans la posture Cascade arcanique, vous diminuez le DD du test nu nécessaire pour cibler une créature qui est @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} ou @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée} de vous. Le DD est réduit à <span data-pf2-check=\"flat\" data-pf2-dc=\"3\">3</span> au lieu de 5 contre une créature masquée et à  <span data-pf2-check=\"flat\" data-pf2-dc=\"9\">9</span> au lieu de 11 contre un ennemi Caché.</p>\n<p>Lorsque vous lancez @Compendium[pf2e.spells-srd.nVfP43Xbs6I1PO8v]{Étoile tirée} et ciblez une créature cachée, vous n'avez pas à faire le test nu pour cibler une créature cachée avec une Frappe à distance.</p>",
+            "prereq": [
+                {
+                    "value": "Cascade arcanique"
+                },
+                {
+                    "value": "études hybridées portée des étoiles"
                 }
             ]
         },
@@ -14525,7 +14747,7 @@
             "description": "<p><strong>Conditions</strong> vous maniez un bouclier avec vos deux mains.</p>\n<hr />\n<p>Votre coup vous procure une ouverture pour pouvoir placer votre bouclier en position de défense. Faites une Frappe avec le bouclier porté. Si la Frappe touche et inflige des dégâts, vous @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Levez votre bouclier} également.</p>",
             "prereq": [
                 {
-                    "value": "Posture Toujours en position"
+                    "value": "Posture toujours en position"
                 }
             ]
         },
@@ -14905,8 +15127,8 @@
         },
         {
             "id": "Paragon Battle Medicine",
-            "name": "Médecin militaire modèle",
-            "description": "<p>Kassi Aziril vous a enseigné ses techniques qui sont à l'origine de l'utilisation moderne de la Médecine militaire. Lorsque vous réussissez à utiliser Médecine militaire, vous pouvez aussi réduire la valeur des états @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} ou @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} de la cible de 1 (cela n'a aucun effet si vous êtes sujet à un effet qui s'applique continuellement à la condition Maladroit, comme Agrandissement).</p>\n<p>Si vous êtes légendaire en Medecine, vous pouvez choisir de réduire les états de la cible @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé} ou @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Assommé} de 1 à la place et si vous avez le don @Compendium[pf2e.feats-srd.yTLGclKtWVFZLKIz]{Soins profanes}, vous pouvez choisir de réduire les états de la cible @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} ou @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} de 1 à la place. Si vous avez le don @Compendium[pf2e.feats-srd.mEk2POFNU1Q0TQg2]{Soins mortels}, vous pouvez réduire tous les états applicables de 1 si la cible n'a pas bénéficié de magie positive ou de soins magiques au cours des dernières 24 heures et, si vous obtenez un succès critique avant d'appliquer les effets du don, vous réduisez à la place tous les états applicables de 2 pour cette cible.</p>",
+            "name": "Médecine militaire modèle",
+            "description": "<p>Kassi Aziril vous a enseigné ses techniques qui sont à l'origine de l'utilisation moderne de la Médecine militaire. Lorsque vous réussissez à utiliser Médecine militaire, vous pouvez aussi réduire la valeur des états @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} ou @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} de la cible de 1 (cela n'a aucun effet si vous êtes sujet à un effet qui s'applique continuellement à la condition Maladroit, comme Agrandissement).</p>\n<p>Si vous êtes légendaire en Médecine, vous pouvez choisir de réduire les états de la cible @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé} ou @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Assommé} de 1 à la place et si vous avez le don @Compendium[pf2e.feats-srd.yTLGclKtWVFZLKIz]{Soins profanes}, vous pouvez choisir de réduire les états de la cible @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} ou @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} de 1 à la place. Si vous avez le don @Compendium[pf2e.feats-srd.mEk2POFNU1Q0TQg2]{Soins mortels}, vous pouvez réduire tous les états applicables de 1 si la cible n'a pas bénéficié de magie positive ou de soins magiques au cours des dernières 24 heures et, si vous obtenez un succès critique avant d'appliquer les effets du don, vous réduisez à la place tous les états applicables de 2 pour cette cible.</p>",
             "prereq": [
                 {
                     "value": "Médecine militaire"
@@ -14920,6 +15142,11 @@
             "id": "Tusks (Orc)",
             "name": "Défenses (orc)",
             "description": "<p>Vous possédez de particulièrement longues défenses dentelées parfaites pour arracher la viande de l'os. Vous obtenez une attaque à mains nues de défenses qui inflige [[/r 1d6 #perforants]] dégâts perforants. Vos défenses font partie du groupe pugilat et possèdent les traits à mains nues et finesse.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au premier niveau et vous ne pouvez utiliser le réapprentissage pour obtenir ce don. Vous ne pouvez le perdre qu'en utilisant des mesures drastiques comme perdre ou limer vos défenses.</p>"
+        },
+        {
+            "id": "Ranged Combatant (Cold)",
+            "name": "Combattant à distance (Froid)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #froid]]{1d4 dégâts de froid} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Deny Support",
@@ -15180,6 +15407,11 @@
             "description": "<p>Vous avez cultivé la forme de votre exosquelette pour permettre le combat rapproché, en utilisant des nœuds, des verticilles et des branches renforcées. Lorsque vous sélectionnez ce don, vous gagnez une attaque à mains nues de branche qui inflige 1d6 dégâts contondants et possède le trait prise d'élan. Cette attaque à mains nues fait partie du groupe pugilat et utilise l'une de vos mains.</p>\n<hr />\n</p><strong>Spécial</strong>Vous pouvez sélectionner ce don deux fois, en choisissant l'attaque de griffe la deuxième fois que vous le prenez.</p>"
         },
         {
+            "id": "Ostentatious Arrival",
+            "name": "Arrivée ostentatoire",
+            "description": "<p>Si la prochaine action que vous entreprenez est de manifester votre eidolon en utilisant une activité à trois actions ou de lancer un sort d'invocation à trois actions, la créature apparaît dans une explosion..</p>\n<p>Toutes les créatures situées dans une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"10\">émanation de 3 m</span> autour de la créature que vous avez invoquée ou manifestée subissent [[/r 1d4 #feu]]{1d4 dégâts de feu par niveau de sort} pour un sort d'invocation, ou [[/r (floor(@details.level.value/2))d4 #feu]]{1d4 dégâts par tranche de 2 niveaux} pour la manifestation de votre eidolon.</p>\n<p>Si la créature que vous avez invoquée ou manifestée possède le trait acide, froid, électricité, feu, sonique ou eau, les dégâts sont de ce type à la place (ou des dégâts de froid pour le trait eau). Si la créature possède plus d'un de ces traits, vous choisissez le type de dégâts à infliger.</p>"
+        },
+        {
             "id": "Snap Out Of It! (Pathfinder Agent)",
             "name": "Secoue-toi ! (Agent des Éclaireurs)",
             "description": "<p>Les Éclaireurs sont entraînés à s'aider chacun à être en sécurité et à réussir et vous savez comment secouer vos alliés pour qu'ils recouvrent leurs sens. Faites un test de Médecine sur un allié adjacent qui est Fasciné, Effrayé, Assommé ou Stupéfié et choisissez une de ces conditions. Le DD est le DD de l'effet qui a provoqué la condition.</p>\n<hr />\n<p><strong>Succès critique</strong> Réduisez la valeur de la condition choisie de 2. Si vous avez choisi Fasciné, cette condition se termine.</p>\n<p><strong>Succès</strong> Réduisez la valeur de la condition choisie de 1.  Si vous avez choisi Fasciné, cette condition se termine.</p>\n<p><strong>Échec</strong> La cible n'est pas affectée.</p>\n<p><strong>Échec critique</strong> Vous augmentez la valeur de la condition choisie de 1. Si vous avez choisi la condition Fasciné, augmentez la durée de 1 round à la place.</p>",
@@ -15244,6 +15476,11 @@
                     "value": "qualifié en Diplomacie"
                 }
             ]
+        },
+        {
+            "id": "Wind-Tossed Spell",
+            "name": "Sort balayé par le vent",
+            "description": "<p>Vous améliorez votre sort avec de l'air élémentaire, en utilisant le vent pour trouver votre cible et transporter votre magie au delà des abris.</p>\n<p>Si votre prochaine action consiste à Lancer un sort qui nécessite un jet d'attaque de sort spell attack roll, vous ignorez l'état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} de la cible et tout abri qu'elle pourrait avoir vis-à-vis de vous.</p>\n<p>Le sort obtient le trait air.</p>"
         },
         {
             "id": "Rat Form",
@@ -15346,6 +15583,16 @@
             ]
         },
         {
+            "id": "Sheltering Cave",
+            "name": "Grotte refuge",
+            "description": "<p><strong>Conditions</strong> Vous vous tenez sur un sol composé de pierre, de terre ou d'un matériau similaire.</p>\n<hr />\n<p>Vous passez 10 minutes à communier avec les esprits de la terre et de la pierre, sollicitant un abri. À la fin de cette durée, la terre se dresse et s'ouvre, formant une petite grotte ou une motte de terrede 6 m de diamètre et de 3 m de faut. Cette grotte possède le trait structure et a les mêmes restrictions que les structures créées par les objets magiques. La grotte possède une entrée unique et foufnit un abri contre les éléments.</p>\n<p>La grotte persiste pendant 12 heures ou jusqu'à ce que vous passiez 10 minutes en amadouant la terre pour qu'elle se referme.</p>",
+            "prereq": [
+                {
+                    "value": "ordre de la pierre"
+                }
+            ]
+        },
+        {
             "id": "Wary Skulker",
             "name": "Rôdeur prudent",
             "description": "<p>Toujours attentif, vous @Compendium[pf2e.actionspf2e.kV3XM0YJeS2KCSOb]{Reconnaissez} les dangers même lorsque vous tentez de rester caché. Vous pouvez accomplir l'activité d'exploration Reconnaître en même temps que vous utilisez l'activité d'exploration @Compendium[pf2e.actionspf2e.IE2nThCmoyhQA0Jn]{Échapper aux regards}.</p>"
@@ -15421,6 +15668,11 @@
             "description": "<p><strong>Déclencheur</strong> Vous lancez l'initiative.</p>\n<hr />\n<p>Votre entraînement au combat vous a affûté pour être prêt pour une attaque à tout moment. Vous Interagissez pout dégainer une arme.</p>"
         },
         {
+            "id": "Ranged Combatant (Lawful)",
+            "name": "Combattant à distance (loyal)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #Loi]]{1d4 dégâts loyaux} et qui possède les traits magique et propulsif.</p>"
+        },
+        {
             "id": "Unconventional Weaponry",
             "name": "Armement non conventionnel",
             "description": "<p>Vous vous êtes familiarisé avec une arme spécifique, qui peut être liée à une autre ascendance ou culture. Choisissez une arme simple ou de guerre peu courante avec le trait correspondant à une ascendance (comme nain, gobelin ou orc) ou qui est fréquemment utilisée dans une autre culture. Vous avez accès à cette arme et, afin d’en déterminer votre maîtrise, vous la considérez comme une arme simple. Si vous êtes qualifié avec toutes les armes de guerre, vous pouvez choisir une arme évoluée peu courante avec ce trait. Vous avez accès à cette arme et, afin d’en déterminer votre maîtrise, vous la considérez comme une arme de guerre.</p>"
@@ -15457,6 +15709,16 @@
             "prereq": [
                 {
                     "value": "Triple tir"
+                }
+            ]
+        },
+        {
+            "id": "Dual Energy Heart",
+            "name": "Cœur énergétique dual",
+            "description": "<p>Une seconde énergie habite votre eidolon. Choisissez un type de dégâts énergétiques supplémentaire. Votre attaque à mains nues qui inflige des dégâts d'énergie gagne le trait polyvalent pour ce second type de dégâts d'énergie et votre eidolon gagne une résistance au second type de dégâts d'énergie égale à la moitié de votre niveau.</p>",
+            "prereq": [
+                {
+                    "value": "Cœur énergétique"
                 }
             ]
         },
@@ -15803,6 +16065,11 @@
             "description": "<p>Votre physiologie inhabituelle s'est développée de manière à rendre plus difficile pour des parasites et d'autres infestations de vous prendre pour cible. Vous obtenez un bonus de circonstances de +2 aux jets de sauvegarde contre les maladies.</p>"
         },
         {
+            "id": "Ranged Combatant (Positive)",
+            "name": "Combattant à distance (positif)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #positifs]]{1d4 dégâts positifs} et qui possède les traits magique et propulsif.</p>"
+        },
+        {
             "id": "Harmlessly Cute",
             "name": "Inoffensivement mignon",
             "description": "<p>Votre taille et votre comportement font qu'il vous est aisé de convaincre les autres que vous ne leur voulez pas de mal. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.KIK2Eza9TK47MEb2]{Sollicitation éhontée} comme don supplémentaire. De plus, vous obtenez un bonus de circonstances de +1 aux tests d'initiative lorsque vous utilisez la Duperie pour la déterminer.</p>"
@@ -16126,7 +16393,7 @@
         {
             "id": "Energy Heart",
             "name": "Cœur énergétique",
-            "description": "<p>Le cœur de votre éidolon bat avec énergie.</p>\n<p>Choisisseez un type de dégâts d'énergie autre que force. Une de ses attaques à mains nues change son type de dégâts au profit du type choisi et il obtient une résistance à ce type égale à la moitié de votre niveau (minimum 1).</p>"
+            "description": "<p>Le cœur de votre éidolon bat avec de l'énergie.</p>\n<p>Choisissez un type de dégâts d'énergie autre que force. Une de ses attaques à mains nues change son type de dégâts au profit du type choisi et il obtient une résistance à ce type égale à la moitié de votre niveau (minimum 1).</p>"
         },
         {
             "id": "Hex Wellspring",
@@ -16683,6 +16950,11 @@
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Une créature vous cible avec une attaque ou un effet autre qui vous cible et vous pouvez voir l'attaquant.</p>\n<hr />\n<p>Vous créez une couverture de brouillard dans une explosion de 1,5 m centrée sur un coin de votre case.</p>\n<p>Toutes les créatures dans cette zone sont @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées} et toutes les autres leur sont masquées. Ce camouflage s'applique à l'effet déclencheur et le brouillard dure pendant 1 minute ou jusqu'à être dispersé par un vent fort. Après avoir résolu l'effet déclencheur, vous Faites un pas. Si un effet vous empêche de Faire un pas, vous tentez d'Échapper à l'effet et Faites un pas en cas de succès.</p>"
         },
         {
+            "id": "Ranged Combatant (Chaotic)",
+            "name": "Combattant à distance (chaotique)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #chaotiques]]{1d4 dégâts chaotiques} et qui possède les traits magique et propulsif.</p>"
+        },
+        {
             "id": "Tumbling Opportunist",
             "name": "Opportuniste acrobatique",
             "description": "<p><strong>Fréquence</strong> Une fois par minute</p>\n<p><strong>Conditions</strong> Votre plus récente action a été un @Compendium[pf2e.actionspf2e.21WIfSu7Xd7uKqV8]{Déplacement acrobatique} ou une @Compendium[pf2e.feats-srd.jfsmtOx4QgXB19BL]{Frappe acrobatique} et vous êtes parvenu à traverser la case d'un ennemi.</p>\n<hr />\n<p>Vous utilisez une poussée de vitalité pour accomplir un exploit acrobatique à couper le souffle lorsque vous passez à travers la case de l'ennemi, le faisant tomber à plat sur le dos.</p>\n<p>Vous tentez de faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} à l'ennemi dont vous avez traversé la case. Vous pouvez utiliser Acrobaties au lieu d'Athlétisme pour ce test.</p>",
@@ -16904,6 +17176,16 @@
             "description": "<p><strong>Conditions</strong> Vous maniez deux armes de corps à corps, une dans chaque main.</p>\n<hr />\n<p>Vous utilisez vos deux armes pour parer les attaques. Vous bénéficiez d’un bonus de circonstances de +1 à la CA jusqu’au début de votre prochain tour, ou de +2 si l’une ou l’autre de vos armes a le trait Parade. Vous ne bénéficiez plus de ce bonus dès que les conditions de ce don ne sont plus respectées.</p>\n<p>@Compendium[pf2e.feat-effects.eu2HidLHaGKe4MPn]{Effet: Parade jumelée}</p>\n<p>@Compendium[pf2e.feat-effects.EDpjey6SCdvIYqEc]{Effet: Parade jumelée (Trait parade)}</p>"
         },
         {
+            "id": "Emergency Targe",
+            "name": "Targe de secours",
+            "description": "<p><strong>Déclencheur</strong> Un ennemi vous touche avec une Frappe au corps à corps ou une attaque de sort au corps à corps ou vous manquez un jet de sauvegarde contre le sort d'un ennemi.</p>\n<p><strong>Conditions</strong> Vous maniez un bouclier ou avez le sort <em>@Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Bouclier}</em> préparé.</p>\n<hr />\n<p>Vous levez immédiatement votre bouclier ou lancez <em>Bouclier</em>. Le bonus de circonstances s'applique à votre défense lorsqu'il s'agit de déterminer le résultat de l'attaque ou du sort déclencheurs.</p>",
+            "prereq": [
+                {
+                    "value": "études hybridées targe étincelante"
+                }
+            ]
+        },
+        {
             "id": "Improved Knockback",
             "name": "Repoussement amélioré",
             "description": "<p>Quand vous réussissez à @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} une créature, augmentez la distance franchie par la créature et celle de votre déplacement pour la suivre de 1,50 m en cas de succès ou de 3 m en cas de succès critique.</p>\n<p>Si la cible que vous repoussez cogne contre un obstacle, elle subit un montant de dégâts contondants égal à 6 plus votre modificateur de Force, ou 8 plus votre modificateur de Force si votre rang de maîtrise en Athlétisme est légendaire.</p>",
@@ -17113,6 +17395,11 @@
             ]
         },
         {
+            "id": "Extend Boost",
+            "name": "Étendre le boost",
+            "description": "<p>Vous pouvez accroître la durée des boosts de votre eidolon.</p>\n<p>Vous apprenez le sort lié <em>étendre le boost</em>. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.</p>"
+        },
+        {
             "id": "Improved Twin Riposte (Ranger)",
             "name": "Riposte jumelée améliorée (Rôdeur)",
             "description": "<p>Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour accomplir une Riposte jumelée contre votre proie. Vous pouvez utiliser cette réaction supplémentaire, même si vous ne bénéficiez pas des avantages de Parade jumelée.</p>",
@@ -17121,6 +17408,11 @@
                     "value": "Riposte jumelée"
                 }
             ]
+        },
+        {
+            "id": "Expanded Senses",
+            "name": "Sens étendus",
+            "description": "<p>Votre eidolon fait évoluer ses sens pour qu'ils soient plus précis.</p>\n<p>Votre eidolon obtient vision nocturne et vision dans le noir, ainsi qu'odorat (imprécis) avec une portée de 9 m.</p>"
         },
         {
             "id": "Bloody Blows",
@@ -18655,6 +18947,11 @@
             ]
         },
         {
+            "id": "Ranged Combatant",
+            "name": "Combattant à distance",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige 1d4 dégâts et qui possède les traits magique et propulsif.</p>\n<p>Lorsque vous prenez ce don, choisissez un type de dégâts: acide, contondant, électricité, feu, froid négatif, perforant, positif ou tranchant. Si votre eidolon est un céleste, un fiélon ou un veilleur avec un alignement autre que neutre absolu, vous pouvez choisir un type de dégât correspondant à son alignement.</p>"
+        },
+        {
             "id": "Titan's Stature",
             "name": "Stature de titan",
             "description": "<p>Vous grandissez encore plus. Quand vous utilisez votre Stature de géant, vous pouvez maintenant devenir Très Grand (vous augmentez alors votre allonge de 3 m si vous étiez de taille Moyenne ou inférieure) pendant que vous êtres enragé. Vous êtes dans l’état @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{maladroit} 1 (page 622) tant que vous êtes Très Grand.</p>\n<p>@Compendium[pf2e.feat-effects.RcxDIOa68SUGyMun]{Effet: Stature de titan}</p>",
@@ -19078,6 +19375,11 @@
                     "value": "Dévouement de Maître savant"
                 }
             ]
+        },
+        {
+            "id": "Tandem Movement",
+            "name": "Déplacement en tandem",
+            "description": "<p>Vous et votre eidolon vous déplacez ensemble. Vous utilisez chacun une action pour Marcher rapidement. L'un ou l'autre d'entre vous deux qui possède le type de déplacement correspondant peut Creuser, Escalader, Voler ou Nager à la place.</p>"
         },
         {
             "id": "Dancing Leaf",
@@ -20153,6 +20455,11 @@
             "description": "<p>Vous faites une pause pour reprendre des forces. Vous gagnez une quantité de points de vie temporaires égale à la moitié de votre niveau plus votre modificateur de Constitution.</p>"
         },
         {
+            "id": "Ranged Combatant (Electricity)",
+            "name": "Combattant à distance (électricité)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #électricité]]{1d4 dégâts d'électricité} et qui possède les traits magique et propulsif.</p>"
+        },
+        {
             "id": "Azarketi Weapon Aptitude",
             "name": "Aptitude avec les armes Azarketies",
             "description": "<p>Vous vous familiarisez avec l'utilisation de votre arme à la fois sur et sous l'eau. Lorsque vous obtenez un coup critique en utilisant une arme azarketie ou une des armes énumérées dans le don @Compendium[pf2e.feats-srd.WUMnFrehmFbj2PIm]{Familiarité avec les armes Azarketies}, vous appliquez l'effet de critique spécialisé de l'arme.</p>",
@@ -20207,6 +20514,16 @@
             "prereq": [
                 {
                     "value": "Dévouement de Combattant à deux armes"
+                }
+            ]
+        },
+        {
+            "id": "Fire Lung",
+            "name": "Poumon de feu",
+            "description": "<p>Une vie entière à proximité des flammes a habitué vos poumons et vos yeux à la fumée. Vous pouvez respirer normalement dans les zones pleine de cendres ou de fumée sans risque de suffocation et vous ignorez la condition @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Cachée} lorsqu'elle résulte de la fumée.</p>\n<p>Vous n'avez besoin que de réussir un test nu DD 10 pour mettre un terme aux @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de feu persistants}, au lieu d'un DD 15 (et de 5 lorsque vous recevez une aide particulièrement efficace au lieu de 10).</p>",
+            "prereq": [
+                {
+                    "value": "ordre de la flamme"
                 }
             ]
         },
@@ -20420,6 +20737,16 @@
             "description": "<p>Vous avez appris les secrets d’un autre ordre druidique après avoir passé avec succès ses rites initiatiques. Choisissez un ordre différent du vôtre. Vous gagnez un don de niveau 1 dont les prérequisnécessitent l’appartenance à cet ordre et vous êtes à présent un de ses membres en ce qui concerne la satisfaction des prérequis des dons. Si vous commettez des actes anathèmes à votre nouvel ordre, vous perdez tous les dons et pouvoirs nécessitant l’appartenance à cet ordre, mais vous gardez vos autres capacités et dons de druide. Vous ne bénéficiez pas des autres avantages de l’ordre choisi.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. Le cas échéant, vous devez choisir à chaque fois un ordre différent de ceux que vous avez déjà choisis.</p>"
         },
         {
+            "id": "Blood Frenzy",
+            "name": "Frénésie hémorragique",
+            "description": "<p><strong>Conditions</strong> La dernière action de votre eidolon a été d'infliger des dégâts de saignement à une créature vivante.</p>\n<hr />\n<p>Votre eidolon rentre dans une sorte de frénésie. Il obtient les avantages de <em>booster l'eidolon</em> et obtient des PV temporaires égaux à votre niveau, mais il subit une pénalité de -2 à la CA. Il ne peut volontairement mettre un terme à la frénésie ou entrer de nouveau en frénésie tant qu'il est frénétique.</p>\n<p>La frénésie dure pendant 1 minute, à la suite de suoi votre eidolon est @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} pendant 1 minute et ne peut de nouveau entrer en frénésie pendant 1 minute.</p>",
+            "prereq": [
+                {
+                    "value": "Griffes hémorragiques"
+                }
+            ]
+        },
+        {
             "id": "Spine Stabber",
             "name": "Poignardeur de piquants",
             "description": "<p>Les piquants sur vos bras sont particulièrement pointus et robustes. Vous gagnez une attaque à mains nues de piquants qui inflige [[/r 1d6 #perforants]] dégâts perforants. Vos piquants font partie du groupe des couteaux et possèdent les traits finesse et désarmer.</p>"
@@ -20555,6 +20882,11 @@
                     "value": "expert en Artisanat"
                 }
             ]
+        },
+        {
+            "id": "Ranged Combatant (Fire)",
+            "name": "Combattant à distance (feu)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[r/ 1d4 #feu]]{1d4 dégâts de feu} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Elastic Mutagen",
@@ -20918,6 +21250,16 @@
             ]
         },
         {
+            "id": "Natural Swimmer",
+            "name": "Nageur naturel",
+            "description": "<p>L'eau s'écoule autour de vous, vous permettant de fendre les vagues comme si vous étiez né pour cela. Vous gagnez une vitesse de nage de 4,5 m. Si vous avez déjà une vitesse de nage permanente, nager vers le haut ou vers le bas n'est pas considéré comme du terrain difficile.</p>",
+            "prereq": [
+                {
+                    "value": "Ordre de la vague"
+                }
+            ]
+        },
+        {
             "id": "Elemental Fist",
             "name": "Poing élémentaire",
             "description": "<p>Vous invoquez la puissance des éléments, en imprégnant votre ki d’énergie élémentaire pour que vos attaques infligent des dégâts d’énergie.</p>\n<p>Quand vous lancez frappe ki, en plus des divers types de dégâts normalement disponibles, vous pouvez infliger des dégâts supplémentaires sous la forme d’une bourrasque orageuse (qui inflige des dégâts d’électricité avec le trait air), d’un morceau de roche (qui inflige des dégâts contondants avec le trait terre), d’une flamme vacillante (qui inflige des dégâts de feu) ou d’une vague déferlante d’eau glacée (qui inflige des dégâts de froid avec le trait eau).</p>\n<p>@Compendium[pf2e.spell-effects.4CUZSDn4BiqWpvZg]{Effet de sort: Frappe ki (Air)}</p>\n<p>@Compendium[pf2e.spell-effects.U2ekk5iBaSfZlEkp]{Effet de sort: Frappe ki (Terre)}</p>\n<p>@Compendium[pf2e.spell-effects.rnu7tqMPe3Qm0apj]{Effet de sort: Frappe ki (Feu)}</p>\n<p>@Compendium[pf2e.spell-effects.tTRy1cc24ApPnym8]{Effet de sort: Frappe ki (Eau)}</p>",
@@ -21122,6 +21464,16 @@
                     "value": "Dévouement de Chevalier infernal"
                 }
             ]
+        },
+        {
+            "id": "Amphibious Form",
+            "name": "Forme amphibie",
+            "description": "<p>Votre eidolon est adapté à la vie sur terre et dans l'eau. Il obtient le trait amphibie, lui permettant de respirer dans l'eau et dans l'air et lui évitant de supporter la pénalité normale de -2 lorsqu'il porte des Frappes à mains nues contondantes et tranchantes sous l'eau. Il obtient une Vitesse de nage égale à la moins élevée entre sa Vitesse au sol ou 7,5 m ; S'il est normalement aquatique, il obtient une Vitesse au sol égale à la moins élevée entre sa Vitesse de nage ou 7,5 m.</p>"
+        },
+        {
+            "id": "Vibration Sense",
+            "name": "Perception des vibrations",
+            "description": "<p>Votre eidolon obtient @Compendium[pf2e.bestiary-ability-glossary-srd.j2wsK6IsW5yMW1jW]{Perception des vibrations} comme sens imprécis avec une portée de 9 m. S'il est aquatique, il obtient @Compendium[pf2e.bestiary-ability-glossary-srd.VdSMQ6yRZ3YXNXHL]{Perception des ondes} comme sens imprécis avec une portée de 9 m à la place. S'il est amphibie, il obtient les deux.</p>"
         },
         {
             "id": "Bestiary Scholar",
@@ -21721,6 +22073,16 @@
             ]
         },
         {
+            "id": "Shore Step",
+            "name": "Pas du littoral",
+            "description": "<p>Les hauts-fonds et les mares résiduelles laissées par la marée vous ont toujours appelées et vous ont toujours laissé passer sans encombre. Vous ignorez le terrain difficile lié aux eaux peu profondes.</p>\n<p>De plus, si vous obtenez un succès sur un test d'Acrobaties pour @Compendium[pf2e.actionspf2e.M76ycLAqHoAgbcej]{Garder l'équilibre} sur une surface humide ou glissante ou à un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous obtenez un succès critique à la place.</p>",
+            "prereq": [
+                {
+                    "value": "ordre de la vague"
+                }
+            ]
+        },
+        {
             "id": "Flexible Halcyon Spellcasting",
             "name": "Incantation paisible flexible",
             "description": "<p>Vous élargissez votre capacité à canaliser votre pouvoir dans la magie paisible.</p>\n<p>Vous obtenez un sort paisible courant de plus pour chacun des niveaux de sort paisible que vous pouvez lancer à l'exception du plus élevé (vous n'obtenez pas de tour de magie supplémentaire). Vous obtenez aussi un emplacement de sort paisible supplémentaire pour chaque niveau de sort paisible que vous pouvez lancer, sauf le plus élevé.</p>",
@@ -21729,6 +22091,11 @@
                     "value": "Initié de l'incantation paisible"
                 }
             ]
+        },
+        {
+            "id": "Shrink Down",
+            "name": "Rétrécir",
+            "description": "<p>Votre eidolon peut rétrécir pour pouvoir se glisser dans de petits espaces. Votre eidolon réduit sa taille, jusqu'à atteindre la taille Petit au minimum. Il peut utiliser à nouveau cette action lorsqu'il est rétréci pour retrouver sa taille normale.</p>"
         },
         {
             "id": "Opportune Throw",
@@ -21802,6 +22169,11 @@
                     "value": "Dévouement du Disciple draconique"
                 }
             ]
+        },
+        {
+            "id": "Ranged Combatant (Acid)",
+            "name": "Combattant à distance (acide)",
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #acide]]{1d4 dégâts d'acide} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Dig Up Secrets",
@@ -22084,6 +22456,19 @@
             "prereq": [
                 {
                     "value": "Sagesse 14"
+                }
+            ]
+        },
+        {
+            "id": "Student of the Staff",
+            "name": "Étudiant du bâton",
+            "description": "<p>Vous avez étudié le maniement du bâton de manière approfondie pour apprendre les capacités cachées de l'arme que vous avez choisie. Lorsque vous réussissez de manière critique un jet d'attaque avec un bâton, vous appliquez l'effet de critique spécialisé du groupe des gourdins. Lorsque vous avez adopté la posture Cascade arcanique, votre bâton gagne le trait mortel d6, les dégâts du dé mortel étant du même type que les dégâts supplémentaires de Cascade arcanique.</p>\n<p>En outre, vous pouvez placer des runes de propriété sur un bâton magique que vous préparez, même si un bâton magique ne peut généralement pas contenir de runes de propriété. Vous devez d'abord inscrire les runes de propriété dans votre grimoire, en utilisant le même processus que pour le transfert d'une rune. La rune prend la forme d'un diagramme spécialisé dans votre grimoire, occupant une page. Vous ne pouvez pas inscrire de runes qui ne peuvent pas être placées sur un bâton non magique, ni inscrire la rune <em>@Compendium[pf2e.equipment-srd.roeYtwlIe65BPMJ1]{Changeante}</em>. Lorsque vous préparez un bâton, vous pouvez lui conférer un nombre quelconque de runes de propriété de votre livre de sorts, jusqu'à la limite imposée par la rune de <em>puissance d'arme</em> du bâton.</p>",
+            "prereq": [
+                {
+                    "value": "Cascade arcanique"
+                },
+                {
+                    "value": "études hybridées bâton tordu"
                 }
             ]
         },
@@ -22630,6 +23015,16 @@
                 },
                 {
                     "value": "Réserve de focalisation"
+                }
+            ]
+        },
+        {
+            "id": "Basic Spellcasting",
+            "name": "Incantation de sort basique",
+            "description": "<p>Vous accroissez votre capacité à lancer des sorts. Vous obtenez la capacité d'incantation basique octroyé par les archétypes lanceus de sort, obtenant un répertoire de sort. Chaque fois que vous obtenez un emplacement de sort d'un nouveau niveau des dons de d'incantation de magie envahissante basique, expert et maître, vous ajoutez un sort du niveau approprié à votre répertoire : un sort courant de votre tradition correspondant à votre trait un un autre sort de cette tradition que vous avez appris ou découvert.</p>",
+            "prereq": [
+                {
+                    "value": "Incantation de tour de magie"
                 }
             ]
         },
@@ -23743,6 +24138,11 @@
                     "value": "Dévouement du champion"
                 }
             ]
+        },
+        {
+            "id": "Eidolon's Wrath",
+            "name": "Courroux de l'eidolon",
+            "description": "<p>Votre eidolon gagne le sort focalisé <em>Courroux de l'eidolon</em>, qu'il lance, à votre place. Vous déterminez le type de dégâts lorsque vous gagnez le don : acide, froid, électricité, feu, négatif, positif ou sonique. Si votre eidolon est un céleste, un démon ou un veilleur dont l'alignement est autre que neutre véritable, vous pouvez choisir un type de dégâts de son alignement.</p>\n<p>Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1. Comme à l'accoutumée, votre eidolon partage vos points de focalisation.</p>"
         },
         {
             "id": "Inspirit Hazard",
