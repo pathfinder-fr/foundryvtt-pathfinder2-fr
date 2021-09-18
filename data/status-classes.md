@@ -2,19 +2,12 @@
 
  * **changé**: 6
  * **officielle**: 9
- * **libre**: 3
- * **aucune**: 1
+ * **libre**: 4
 
 
-Dernière mise à jour: 2021-09-14 19:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-18 15:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[HQBA9Yx2s8ycvz3C.htm](classes/HQBA9Yx2s8ycvz3C.htm)|Magus|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -34,6 +27,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4wrSCyX6akmyo7Wj.htm](classes/4wrSCyX6akmyo7Wj.htm)|Investigator|Enquêteur|libre|
 |[7s57JDCaiYYCAdFx.htm](classes/7s57JDCaiYYCAdFx.htm)|Druid|Druide|officielle|
 |[84SZGVNLXhLKG6gL.htm](classes/84SZGVNLXhLKG6gL.htm)|[Empty Class]|_Classe vierge|libre|
+|[HQBA9Yx2s8ycvz3C.htm](classes/HQBA9Yx2s8ycvz3C.htm)|Magus|Magus|libre|
 |[LO9STvskJemPkiAI.htm](classes/LO9STvskJemPkiAI.htm)|Rogue|Roublard|officielle|
 |[RwjIZzIxzPpUglnK.htm](classes/RwjIZzIxzPpUglnK.htm)|Wizard|Magicien|officielle|
 |[x8iwnpdLbfcoZkHA.htm](classes/x8iwnpdLbfcoZkHA.htm)|Champion|Champion|officielle|

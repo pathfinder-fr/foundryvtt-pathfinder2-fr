@@ -2358,6 +2358,11 @@
             "range": "36 m"
         },
         {
+            "id": "Powerful Inhalation",
+            "name": "Inhalation puissante (Powerful Inhalation)",
+            "description": "<p>Vous aspirez rapidement l'air de votre environnement et le gardez pour vous. Les créatures qui se trouvent dans la zone où le sort est lancé subissent [[/r 5d6 #contondants]]{5d6 points de dégâts contondants} avec un jet de Vigueur basique. Une créature qui manque son jet ne peut pas élever la voix au-dessus d'un murmure rauque pendant 1 round. Une créature qui subit un échec critique ne peut pas parler ou utiliser des capacités qui nécessitent qu'elle respire pendant 1 round. Cela l'empêche d'utiliser des effets nécessitant la parole, comme le lancement de sorts à composantes verbales ou d'utiliser une arme de souffle ou une capacité similaire.</p>\n<p>Les créatures faites d'air (comme les élémentaires de l'air) qui tentent un un jet de sauvegarde contre ce sort obtiennent un degré de réussite inférieur d'un cran à leur résultat.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmente les dégâts de 2d6.</p>"
+        },
+        {
             "id": "Life Boost",
             "name": "Gain de vie (Life Boost)",
             "description": "<p>Vous accroissez temporairement la vitalité de la cible.</p>\n<p>La cible obtient <em>guérison accélérée</em> égale au double du niveau du sort.</p>",
@@ -2511,6 +2516,13 @@
             "id": "Bottle the Storm",
             "name": "Tempête en bouteille (Bottle the Storm)",
             "description": "<p><strong>Déclencheur</strong> Vous devriez subir des dégâts d'électricité.</p>\n<hr />\n<p>Lorsque l'éclair se dirige vers vous, vous emmagasinez la charge en toute sécurité en vous-même, la relâchant lorsque le temps est venu.</p>\n<p>Vous obtenez une résistance à l'électricité 10 contre l'effet déclencheur. Si vous réussissez à empêcher les dégât de cette manière, à tout moment pendant la durée du sort, vous pouvez passer une action unique qui possède le trait attaque pour dépenser la charge et faire une attaque de sort au corps à corps sur une cible adjacente ou une attaque de sort à distance sur une cible à 18 m. Cette attaque inflige des dégâts d'électricité égaux aux dégâts évités par <em>tempête en bouteille</em>. Si vous lancez <em>tempête en bouteille</em> une seconde fois avant que la durée initiale ne soit écoulée ou si vous ne faites pas cette attaque, la charge dépensé se dissipe de manière inoffensive.</p>\n<hr />\n<p><strong>Intensifié (7e)</strong> La résistance passe à 15 et vous pouvez immédiatement faire l'attaque de sort accordée par <em>tempête en bouteille</em> dans la même réaction que vous avez utilisée pour lancer le sort.</p>\n<p><strong>Intensifié (10e)</strong> La résistance passe à 20 et vous pouvez immédiatement faire l'attaque de sort accordée par <em>tempête en bouteille</em> dans la même réaction que vous avez utilisée pour lancer le sort.</p>"
+        },
+        {
+            "id": "Reinforce Eidolon",
+            "name": "Renforcer l'eidolon (Reinforce Eidolon)",
+            "description": "<p>Vous vous concentrez profondément sur le lien qui vous relie à votre eidolon et renforcez les défenses de votre eidolon. Votre eidolon obtient un bonus de statut de +1 à la CA et aux jets de sauvegarde, ainsi qu'une résistance à tous les dégâts égal à la moitié du niveau du sort. Votre eidolon peut bénéficier soit de @Compendium[pf2e.spells-srd.HStu2Yhw3iQER9tY]{Booster l'eidolon} ou de Renforcer l'eidolon mais pas des deux ; si vous lancez un de ces sorts pendant la durée de l'autre, le plus récent remplace le plus ancien.</p>\n<p>@Compendium[pf2e.spell-effects.UVrEe0nukiSmiwfF]{Effet : Renforcer l'eidolon}</p>",
+            "range": "30 m",
+            "target": "votre eidolon"
         },
         {
             "id": "Cup of Dust",
@@ -2670,6 +2682,11 @@
             "secondarycaster": "2, doivent partager votre religion",
             "primarycheck": "Religion (expert)",
             "secondarycheck": "Diplomatie"
+        },
+        {
+            "id": "Extend Boost",
+            "name": "Étendre le boost (Extend Boost)",
+            "description": "<p>Vous vous focalisez sur les complexités de la magie qui vous relie à votre eidolon pour étendre la durée de votre sort booster l'eidolon ou renforcer l'eidolon. Si votre prochaine action consiste à lancer @Compendium[pf2e.spells-srd.HStu2Yhw3iQER9tY]{Booster l'eidolon} ou @Compendium[pf2e.spells-srd.TYbCj4dgXDOZou9k]{Renforcer l'eidolon}, faites un test de compétence avec la compétence associée à la tradition magique que vous avez obtenue de votre eidolon (tel que Nature pour un eidolon primordial). Le DD est habituellement un DD de difficulté normale de votre niveau, mais le MJ peut décider d'assigner un DD différent en fonction des circonstances. L'effet dépend du résultat de votre test.</p>\n<hr />\n<p><strong>Succès critique</strong> Le sort dure 4 rounds.</p>\n<p><strong>Succès</strong> Le sort dure 3 rounds.</p>\n<p><strong>Échec</strong> Le sort dure 1 round, mais vous ne dépensez pas le point de focalisation en lançant ce sort.</p>"
         },
         {
             "id": "Death Knell",
@@ -3905,6 +3922,12 @@
             "target": "ennemis dans la zone"
         },
         {
+            "id": "Pulverizing Cascade",
+            "name": "Cascade pulvérisante (Pulverizing Cascade)",
+            "description": "<p>Vous élevez deux vagues gigantesques et les faites s'entrechoquer, écrasant les créatures prises entre elles. Les créatures dans la zone subissent [[/r 5d6 #contondants]]{5d6 points de dégâts contondants} avec un jet de Réflexes basique.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentez les dégâts de [[/r 2d6 #contondants]]{2d6}.</p>",
+            "range": "36 m"
+        },
+        {
             "id": "Wild Morph",
             "name": "Métamorphose sauvage (Wild Morph)",
             "description": "<p>Vous transformez votre corps en fonction de votre entraînement, en choisissant l’un des effets suivants basés sur vos dons d’ordre féroce.</p>\n<ul>\n<li>Si vous avez @Compendium[pf2e.feats-srd.VaIHQzOE5ibmbtqU]{Morphologie sauvage}, vous pouvez transformer vos mains en longues @Compendium[pf2e.spell-effects.Tdcv2q9zlXZBZRMT]{griffes acérées}. Des griffes incroyablement acérées poussent sur vos mains. Ces griffes sont des attaques à mains nues pour lesquelles vous êtes qualifié et infligent chacune 1d6 dégâts tranchants (agile, finesse). Vous pouvez toujours tenir et utiliser des objets avec vos mains lorsqu’elles sont transformées par ce sort mais vous ne pouvez pas tenir un objet en attaquant. Si vous avez @Compendium[pf2e.feats-srd.OWedlrKGsVZVkSnT]{Morphologie d’insecte}, vous pouvez à la place transformer votre bouche en larges @Compendium[pf2e.spell-effects.ND1Gfo1yJZ87Ia34]{mâchoires} considérées comme une attaque à mains nues pour laquelle vous êtes qualifié et qui infligent 1d8 dégâts perforants.</li>\n<li>Si vous avez @Compendium[pf2e.feats-srd.F0MYBfiyOD8YHq5t]{Morphologie élémentaire}, vous pouvez partiellement transformer votre corps en matières élémentaires, ce qui vous confère une résistance 5 aux coups critiques et aux dégâts de précision.</li>\n<li>Si vous avez @Compendium[pf2e.feats-srd.I9rSWQyueWHQyNxe]{Morphologie végétale}, vous pouvez transformer vos bras en longues lianes, ce qui étend votre allonge à 3 m (ou 4,50 m avec une arme d’allonge).</li>\n<li>Si vous avez @Compendium[pf2e.feats-srd.wNHUryoRzlfDCFAd]{Morphologie volante}, vous pouvez lancer le sort par une activité à deux actions (<span class=\"pf2-icon\">2</span> <strong> somatique, verbal</strong>) pour que des @Compendium[pf2e.spell-effects.hqe0hdGH1hvhcZyz]{ailes} poussent dans votre dos. Ces ailes vous permettent de voler avec une Vitesse de vol de 9 m.</li>\n</ul>\n<hr />\n<p><strong>Intensifié (6e)</strong> Vous pouvez sélectionner jusqu’à deux des effets décrits ci-dessus. Les griffes déchirent cruellement les chairs en infligeant également 2d6 dégâts de saignement persistants en cas d’attaque réussie, et les mâchoires sont venimeuses et infligent également 2d6 dégâts de poison persistants en cas d’attaque réussie.</p>\n<p><strong>Intensifié (10e)</strong> Vous pouvez sélectionner jusqu’à trois des effets décrits ci-dessus. En cas d’attaque réussie, les griffes infligent 4d6 dégâts de saignement persistants et les mâchoires 4d6 dégâts de poison persistants.</p>"
@@ -3981,6 +4004,13 @@
             "description": "<p>La férocité s’empare des cibles qui deviennent plus robustes et sauvages. Elles gagnent 5 points de vie temporaires, un bonus de statut de +10 à leurs Vitesses et une faiblesse 5 à l’argent. Des crocs poussent également dans leur bouche et des griffes acérées sur leurs mains ; ce sont des attaques à mains nues. Les crocs infligent 2d8 dégâts perforants, les griffes 2d6 dégâts tranchants avec les traits agile et finesse. Les cibles utilisent leur maîtrise d’arme ou d’attaque à mains nues la plus élevée avec ces attaques, et si elles ont une spécialisation martiale ou une spécialisation martiale supérieure, elles ajoutent aussi ces dégâts. En cas de coup critique avec l’une des ces attaques à mains nues, la créature frappée subit 1d4 dégâts de saignement persistants.</p>\n<p>Les cibles ne peuvent pas effectuer d’actions de concentration, à l’exception de Chercher, à moins que ces actions aient également le trait rage. Une créature peut tenter de mettre un terme aux effets du sort sur elle-même en utilisant une action unique (qui a le trait rage) pour effectuer un jet de Volonté contre votre DD des sorts ; en cas de succès, le sort ne l’affecte plus.</p>\n<p>Si une cible est exposée à la brillance de la pleine lune, elle grandit en gagnant une catégorie de taille si elle est Moyenne ou plus petite. Ceci augmente de 1,50 m l’allonge d’une créature de taille Moyenne ou Très Petite.</p>\n<hr />\n<p><strong>Intensifié (6e)</strong> Les points de vie temporaires passent à 10, la faiblesse à l’argent à 10 et les dégâts infligés par les attaques à trois dés.</p>\n<p><strong>Intensifié (10e)</strong> Les points de vie temporaires passent à 20, la faiblesse à l’argent à 20 et les dégâts infligés par les attaques à quatre dés.</p>",
             "range": "9 m",
             "target": "jusqu'à 5 créatures volontaires"
+        },
+        {
+            "id": "Stone Lance",
+            "name": "Lance de pierre (Stone Lance)",
+            "description": "<p>ous conjurez une lance de pierre dentelée et la lancez sur un ennemi. Faites un jet d'attaque de sort contre la cible. En cas de succès, vous infligez [[/r 6d6 #perforants]]{6d6 points de dégâts perforants} et la lance empale la créature, lui infligeant une pénalité de circonstances de -3 m à sa vitesse, sauf si elle s'Échappe. En cas de coup critique, si la créature est au sol, la lance s'enfonce également dans le sol et @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilise} la créature jusqu'à ce qu'elle s'échappe.</p>\n<p>Une créature qui s'échappe après avoir été empalée subit [[/r 3 #saignement persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{3 dégâts de saignement persistant}. Lorsque le sort prend fin, la lance tombe en poussière, libérant la cible si elle ne s'est pas Échappée.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentez les dégâts de 2d6 et les dégâts de saignement persistants pour s'être Échappé de 1.</p>",
+            "range": "36 m",
+            "target": "1 créature"
         },
         {
             "id": "Revival",
@@ -5229,6 +5259,13 @@
             "target": "1 créature ou objet pisté et jusqu'à 5 autres créatures volontaires"
         },
         {
+            "id": "Combustion",
+            "name": "Combustion (Combustion)",
+            "description": "<p>Vous enflammez une créature dans des flammes durables. Le feu inflige [[/r 4d8 #feu]]{4d8 dégâts de feu} et [[/r 2d6 #feu persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{2d6 Dégâts de feu persistants} à la créature, qui doit tenter un jet de Vigueur.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature subit la moitié des dégâts et ne subit pas de dégâts peristants.</p>\n<p><strong>Échec</strong> La créature subit la totalité des dégâts, ainsi que la totalité des dégâts persistants.</p>\n<p><strong>Échec critique</strong> La créature subit le double des dégâts ainsi que le double des dégâts persistants.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentez les dégâts initiaux de 1d8 et les dégâts persistants de [[/r 1d6 #feu]].</p>",
+            "range": "36 m",
+            "target": "1 créature"
+        },
+        {
             "id": "Know Direction",
             "name": "Repérage (Know Direction)",
             "description": "<p>Vous visualisez mentalement un chemin qui part vers le nord.</p>\n<p>Vous savez immédiatement dans quelle direction se trouve le nord (si ce point cardinal existe là où vous vous trouvez).</p>\n<hr />\n<p><strong>Intensifié (7e)</strong> Vous pouvez, à la place, connaître la direction d’un endroit familier, tel que votre dernière demeure ou une taverne que vous appréciez.</p>"
@@ -5652,6 +5689,11 @@
             "range": "3 m"
         },
         {
+            "id": "Eidolon's Wrath",
+            "name": "Courroux de l'eidolon (Eidolon's Wrath)",
+            "description": "<p>Votre eidolon libère une puissante énergie qui inflige 5d6 dégâts du type choisi lorsque vous avez pris le don Courroux de l'eidolon, avec un jet de Réflexes basique.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 2d6.</p>"
+        },
+        {
             "id": "Zeal for Battle",
             "name": "Zèle au combat (Zeal for Battle)",
             "description": "<p><strong>Déclencheur</strong> Vous et un allié au moins êtes sur le point de faire votre jet d’initiative.</p>\n<hr />\n<p>Une colère justifiée monte en vous et en un allié. Vous et l’allié ciblé lancez chacun un d20 et utilisez le meilleur résultat pour déterminer vos deux initiatives. Chacun des deux utilise son propre modificateur de Perception ou d’une autre statistique pour déterminer son résultat.</p>",
@@ -5669,6 +5711,11 @@
             "name": "Glyphe de cristal électrique (Electrified Crystal Ward)",
             "description": "<p>Vous créez un danger appelé @Compendium[pf2e.hazards.491qhVbjsHnOuMZW]{Rune de loquet électrique} sur la cible et effectuez ainsi un verrouillage spécial de cristal sur l’objet. Vous pouvez également changer votre DD de sorts pour celui d’un des dangers listés. Vous pouvez avoir un seul danger de la sorte activé à la fois et si vous lancez ce sort alors qu’une autre rune de loquet électrique est active, l’ancienne se dissipe sans causer le moindre mal/</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> Les dégâts du danger augmentent de 1d12.</p>",
             "target": "1 charnière ou un loquet"
+        },
+        {
+            "id": "Lifelink Surge",
+            "name": "Afflux du lien vital (Lifelink Surge)",
+            "description": "<p>Vous faites un geste rapide, en suivant le lien qui vous relie à votre eidolon et en tirant sur la relation pour lentement renforcer votre force de vie partagée. Votre eidolon obtient guérison accélérée 4 pendant 4 rounds.</p>\n<hr />\n<p><strong>Intensigié (+1)</strong> La guérison accélérée augmente de 2.</p>"
         },
         {
             "id": "Prismatic Spray",
