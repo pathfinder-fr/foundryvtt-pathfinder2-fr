@@ -2,11 +2,11 @@
 
  * **changé**: 694
  * **officielle**: 147
- * **libre**: 61
- * **aucune**: 230
+ * **libre**: 63
+ * **aucune**: 228
 
 
-Dernière mise à jour: 2021-09-18 15:32 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-22 06:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -25,7 +25,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-03-3ipOKanMLnJrPwbr.htm](spells/abjuration-03-3ipOKanMLnJrPwbr.htm)|Guardian's Aegis|
 |[abjuration-03-9TauMFkIsmvKJNzZ.htm](spells/abjuration-03-9TauMFkIsmvKJNzZ.htm)|Elemental Absorption|
 |[abjuration-03-CIjj9CU5ekeq1oLT.htm](spells/abjuration-03-CIjj9CU5ekeq1oLT.htm)|Warding Aggression|
-|[abjuration-03-rtisvvvhkpZPdgXc.htm](spells/abjuration-03-rtisvvvhkpZPdgXc.htm)|Cascade Countermeasure|
 |[abjuration-04-ER1LOEgCLtmEKd05.htm](spells/abjuration-04-ER1LOEgCLtmEKd05.htm)|Ravenous Portal|
 |[abjuration-04-GjmMFEJcDd6MDG2P.htm](spells/abjuration-04-GjmMFEJcDd6MDG2P.htm)|Spiritual Attunement|
 |[abjuration-04-NBSBFHxBm88qxQUy.htm](spells/abjuration-04-NBSBFHxBm88qxQUy.htm)|Chromatic Armor|
@@ -146,7 +145,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-03-Tx8OqkBFA2QlaldW.htm](spells/evocation-03-Tx8OqkBFA2QlaldW.htm)|Magnetic Acceleration|
 |[evocation-04-Hb8GdAhP0zBCv3zU.htm](spells/evocation-04-Hb8GdAhP0zBCv3zU.htm)|Chromatic Ray|
 |[evocation-04-n7OgbKme4hNwxVwQ.htm](spells/evocation-04-n7OgbKme4hNwxVwQ.htm)|Draw the Lightning|
-|[evocation-04-oOaEfsdVpgTXRhrY.htm](spells/evocation-04-oOaEfsdVpgTXRhrY.htm)|Runic Impression|
 |[evocation-04-qTzvVnAMWL05VitC.htm](spells/evocation-04-qTzvVnAMWL05VitC.htm)|Painful Vibrations|
 |[evocation-05-1bw6XJMOERcbC5Iq.htm](spells/evocation-05-1bw6XJMOERcbC5Iq.htm)|Rip the Spirit|
 |[evocation-05-i88Vi47PDDoP6gQv.htm](spells/evocation-05-i88Vi47PDDoP6gQv.htm)|Geyser|
@@ -969,6 +967,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-02-9HpwDN4MYQJnW0LG.htm](spells/abjuration-02-9HpwDN4MYQJnW0LG.htm)|Dispel Magic|Dissipation de la magie|officielle|
 |[abjuration-03-mpGCMTldMVa0pWYs.htm](spells/abjuration-03-mpGCMTldMVa0pWYs.htm)|Circle of Protection|Cercle de protection|officielle|
 |[abjuration-03-o0l57UfBm9ScEUMW.htm](spells/abjuration-03-o0l57UfBm9ScEUMW.htm)|Glyph of Warding|Glyphe de garde|officielle|
+|[abjuration-03-rtisvvvhkpZPdgXc.htm](spells/abjuration-03-rtisvvvhkpZPdgXc.htm)|Cascade Countermeasure|Contremesure en cascade|libre|
 |[abjuration-03-y3jlOfgsQH1JjkJE.htm](spells/abjuration-03-y3jlOfgsQH1JjkJE.htm)|Sanctified Ground|Zone sanctifiée|officielle|
 |[abjuration-04-5p8naLYjFcG13OkU.htm](spells/abjuration-04-5p8naLYjFcG13OkU.htm)|Rebounding Barrier|Barrière rebondissante|libre|
 |[abjuration-04-8ifpNZkaxrbs3dBJ.htm](spells/abjuration-04-8ifpNZkaxrbs3dBJ.htm)|Perfected Form|Forme parfaite|officielle|
@@ -1096,6 +1095,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-03-Z3kJty995FkrsZRb.htm](spells/evocation-03-Z3kJty995FkrsZRb.htm)|Combustion|Combustion|libre|
 |[evocation-04-LrhTFHUtSS9ahogL.htm](spells/evocation-04-LrhTFHUtSS9ahogL.htm)|Traveler's Transit|Voyageur en transit|officielle|
 |[evocation-04-NxOYiKCqcuAHVRCj.htm](spells/evocation-04-NxOYiKCqcuAHVRCj.htm)|Transcribe Moment|Instant transcrit|libre|
+|[evocation-04-oOaEfsdVpgTXRhrY.htm](spells/evocation-04-oOaEfsdVpgTXRhrY.htm)|Runic Impression|Impression runique|libre|
 |[evocation-04-SkarN4VlNxSJSJNw.htm](spells/evocation-04-SkarN4VlNxSJSJNw.htm)|Wild Winds Stance|Posture des vents violents|officielle|
 |[evocation-04-VUwpDY4Z91s9QCg0.htm](spells/evocation-04-VUwpDY4Z91s9QCg0.htm)|Bottle the Storm|Tempête en bouteille|libre|
 |[evocation-04-Y3G6Y6EDgCY0s3fq.htm](spells/evocation-04-Y3G6Y6EDgCY0s3fq.htm)|Hydraulic Torrent|Torrent|officielle|

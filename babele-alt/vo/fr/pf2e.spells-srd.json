@@ -5237,6 +5237,11 @@
             "target": "jusqu'à 6 créatures"
         },
         {
+            "id": "Cascade Countermeasure",
+            "name": "Cascade Countermeasure",
+            "description": "<p>Vous ajustez rapidement votre @Compendium[pf2e.actionspf2e.HbejhIywqIufrmVM]{Cascade arcanique} pour qu'elle vous offre une protection magique. Vous obtenez un résistance de 5 contre les dégâts des sorts. Comme d'habitude, utiliser Cascade arcanique signifie que vous mettez un terme à la posture et que le sort se termine.</p>\n<hr />\n<p><strong>Intensifié (+3)</strong> La résistance augmente de 5.</p>"
+        },
+        {
             "id": "Protection",
             "name": "Protection",
             "description": "<p>Vous protégez une créature contre un alignement spécifique.</p>\n<p>Choisissez entre Chaos, Mal, Bon ou Loi quand vous lancez ce sort. La cible gagne un bonus de statut de +1 à la Classe d’armure et aux jets de sauvegarde contre les créatures et effets de l’alignement choisi. Ce bonus passe à +3 contre les effets produits par ces créatures lorsqu’elles tentent de contrôler directement la cible, ainsi que contre les attaques des créatures convoquées de l’alignement choisi.</p>\n<p>Ce sort gagne le trait opposé à l’alignement choisi — si vous choisissez chaotique, ce sort gagne le trait loyal, et vice versa ; si vous choisissez mauvais, il gagne le trait bon, et vice versa.</p>\n<p>@Compendium[pf2e.spell-effects.lpqkZkslFMirsItL]{Effet : Protection contre le Chaos}</p>\n<p>@Compendium[pf2e.spell-effects.nEqBnsrvJZzh8Bil]{Effet : Protection contre le Mal}</p>\n<p>@Compendium[pf2e.spell-effects.qVngSDWvHcnht0fP]{Effet : Protection contre le Bien}</p>\n<p>@Compendium[pf2e.spell-effects.B6zSwNFJV3TMafHf]{Effet : Protection contre la Loi}</p>",
@@ -5829,6 +5834,13 @@
             "description": "<p>De la neige lourde et du grésil gelé se portent sur les pieds et les jambes de la cible, infligeant [[/r 1d4 #froid]] dégâts de froid et d'autres effets en fonction de son jet de sauvegarde. Une fois que se sort s'achève, la cible devient temporairement immunisée pendant 1 minute.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible subit demi-dégâts.</p>\n<p><strong>Échec</strong> La cible subit la totalité des dégâts et subit une pénalité de circonstance de -1,5 mètres à ses vitesses jusqu'à ce que le sort se termine</p>\n<p><strong>Échec critique</strong> La cible subit le double des dégâts et une pénalité de circonstance de -3 mètres à ses vitesses jusqu'à ce que le sort se termine.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de [[/r 1d4 #froid]].</p>",
             "range": "9 m",
             "target": "1 créature"
+        },
+        {
+            "id": "Runic Impression",
+            "name": "Runic Impression",
+            "description": "<p>Vos attaques à mains nues ou votre arme bénéficient des avantages d'une rune d'arme que vous choisissez lorsque vous lancez ce sort : boomerang, corrosif, enflammée, foudre,froid, boomerang, spectrale ou tonnerre. Si vous lancez impression runique sur une arme, ce sort se termine si vous cessez de tenir l'arme. Si ce sort devrait dépasser le nombre maximal de runes de propriétés qu'elle peut supporter, une des runes de propriété existante (à votre choix) est supprimée jusqu'à ce que le sort se termine. Pour les attaques à mains nues, si ce sort devrait vous donner plus de runes que vous pourriez avoir avec des bandelettes de coups puissants, une des runes de propriété est temporairement supprimée de la même manière.</p>\n<hr />\n<p><strong>Intensifié (8e)</strong> Ajouter keen à la liste des runes que vous pouvez choisir ainsi que les versions supérieures de corrosive, enflammée, foudre, froid et tonnerre.</p>",
+            "range": "contact",
+            "target": "vous ou une arme que vous maniez"
         },
         {
             "id": "Dirge of Doom",

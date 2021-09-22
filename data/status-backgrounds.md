@@ -4,7 +4,7 @@
  * **officielle**: 49
 
 
-Dernière mise à jour: 2021-09-18 15:32 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-22 06:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -91,7 +91,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[CKU1sbFofcwZUJMx.htm](backgrounds/CKU1sbFofcwZUJMx.htm)|Ex-Con Token Guard|Garde des Pièces ancien taulard|libre|
 |[cRELMbOeZa2FPIcL.htm](backgrounds/cRELMbOeZa2FPIcL.htm)|Scholar (Religion)|Érudit (Religion)|officielle|
 |[D2bageI3HMT2xyyD.htm](backgrounds/D2bageI3HMT2xyyD.htm)|Surge Investigator (Occultism)|Enquêteur d'ondes magiques (Occultisme)|libre|
-|[dAvFZ5QmbAHgXcNp.htm](backgrounds/dAvFZ5QmbAHgXcNp.htm)|Outrider|Éclaireur|libre|
+|[dAvFZ5QmbAHgXcNp.htm](backgrounds/dAvFZ5QmbAHgXcNp.htm)|Outrider|Chevaucheur des plaines|libre|
 |[DBxOUwM7qhGH8MrF.htm](backgrounds/DBxOUwM7qhGH8MrF.htm)|Courier|Garçon de course|libre|
 |[dd6DbCsT67rl8va3.htm](backgrounds/dd6DbCsT67rl8va3.htm)|Magaambya Academic (Nature)|Étudiant du Magaambya (Nature)|libre|
 |[DHrzVqB8f1ed3zTk.htm](backgrounds/DHrzVqB8f1ed3zTk.htm)|Clown|Clown|libre|
