@@ -1,12 +1,12 @@
 # État de la traduction (actions)
 
  * **officielle**: 95
- * **aucune**: 41
- * **libre**: 59
+ * **aucune**: 39
+ * **libre**: 61
  * **changé**: 33
 
 
-Dernière mise à jour: 2021-09-22 06:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -15,13 +15,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[06frwOOuo4HJtivl.htm](actions/06frwOOuo4HJtivl.htm)|Furious Strike|
 |[2424g94rpoiN1IPh.htm](actions/2424g94rpoiN1IPh.htm)|Catharsis|
-|[2KV87ponbWXgGIhZ.htm](actions/2KV87ponbWXgGIhZ.htm)|Act Together|
 |[3ZzoI9MTtJFd1Kjl.htm](actions/3ZzoI9MTtJFd1Kjl.htm)|Share Senses|
 |[5V49l0K460CcvBOO.htm](actions/5V49l0K460CcvBOO.htm)|Defend Life|
 |[6SAdjml3OZw0BZnn.htm](actions/6SAdjml3OZw0BZnn.htm)|Thundering Roar|
 |[8b63qGzqSUENQgOT.htm](actions/8b63qGzqSUENQgOT.htm)|Armor Up!|
 |[90fHUm0HGZFAbG1K.htm](actions/90fHUm0HGZFAbG1K.htm)|Breath Weapon (Fire) (Line)|
-|[9Nmz5114UB87n7Aj.htm](actions/9Nmz5114UB87n7Aj.htm)|Affix a Fulu|
 |[AWXPiqz4xDN03iPs.htm](actions/AWXPiqz4xDN03iPs.htm)|Breath Weapon (Poison) (Line)|
 |[cx0juTYewwBmrYWv.htm](actions/cx0juTYewwBmrYWv.htm)|Beast's Charge|
 |[EhLvRWFKhZ3HtrZO.htm](actions/EhLvRWFKhZ3HtrZO.htm)|Settle Emotions|
@@ -107,6 +105,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[25WDi1cVUrW92sUj.htm](actions/25WDi1cVUrW92sUj.htm)|Clue In|Partager les indices|libre|
 |[2EE4aF4SZpYf0R6H.htm](actions/2EE4aF4SZpYf0R6H.htm)|Pick a Lock|Crocheter une serrure|officielle|
 |[2HJ4yuEFY1Cast4h.htm](actions/2HJ4yuEFY1Cast4h.htm)|High Jump|Sauter en hauteur|officielle|
+|[2KV87ponbWXgGIhZ.htm](actions/2KV87ponbWXgGIhZ.htm)|Act Together|Agir ensemble|libre|
 |[2u915NdUyQan6uKF.htm](actions/2u915NdUyQan6uKF.htm)|Demoralize|Démoraliser|officielle|
 |[34E7k2YRcsOU5uyl.htm](actions/34E7k2YRcsOU5uyl.htm)|Change Shape (Anadi)|Changer de forme (anadi)|libre|
 |[3cuTA58ObXhuFX2r.htm](actions/3cuTA58ObXhuFX2r.htm)|Bend Time|Courber le temps|libre|
@@ -120,6 +119,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[8kGpUUUSX1sB2OqQ.htm](actions/8kGpUUUSX1sB2OqQ.htm)|Call Companion|Appeler un compagnon|libre|
 |[8w6esW689NNbbq3i.htm](actions/8w6esW689NNbbq3i.htm)|Call on Ancient Blood|Appel du sang ancien|officielle|
 |[9gDMkIfDifh61yLz.htm](actions/9gDMkIfDifh61yLz.htm)|Stop|S'arrêter|libre|
+|[9Nmz5114UB87n7Aj.htm](actions/9Nmz5114UB87n7Aj.htm)|Affix a Fulu|Fixer un fulu|libre|
 |[A72nHGUtNXgY5Ey9.htm](actions/A72nHGUtNXgY5Ey9.htm)|Delay|Retarder|officielle|
 |[Ah5g9pDwWF9b9VW9.htm](actions/Ah5g9pDwWF9b9VW9.htm)|Rage|Rage|officielle|
 |[AjLSHZSWQ90exdLo.htm](actions/AjLSHZSWQ90exdLo.htm)|Dismiss|Révoquer|officielle|

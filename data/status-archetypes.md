@@ -1,12 +1,11 @@
 # État de la traduction (archetypes)
 
- * **changé**: 74
+ * **changé**: 75
  * **aucune**: 4
  * **libre**: 3
- * **officielle**: 1
 
 
-Dernière mise à jour: 2021-09-22 06:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -40,6 +39,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Buptz08MArCtY41w.htm](archetypes/Buptz08MArCtY41w.htm)|Investigator|Enquêteur|changé|
 |[cEiMI4QGqjv69pJ6.htm](archetypes/cEiMI4QGqjv69pJ6.htm)|Herbalist|Herboriste|changé|
 |[cnsq5cXgQu4FXnoZ.htm](archetypes/cnsq5cXgQu4FXnoZ.htm)|Aldori Duelist|Duelliste Aldori|changé|
+|[DeixUOfwL7Bruad5.htm](archetypes/DeixUOfwL7Bruad5.htm)|Red Mantis Assassin|Assassin des Mantes rouges|changé|
 |[DMsE43xgf1gHPl8o.htm](archetypes/DMsE43xgf1gHPl8o.htm)|Loremaster|Maître savant|changé|
 |[DYJfhMcLlP05oMDD.htm](archetypes/DYJfhMcLlP05oMDD.htm)|Duelist|Duelliste|changé|
 |[e2KCqgD3zt8yvxGg.htm](archetypes/e2KCqgD3zt8yvxGg.htm)|Sentinel|Sentinelle|changé|
@@ -103,5 +103,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[3jceS1GfWcSQ3tMY.htm](archetypes/3jceS1GfWcSQ3tMY.htm)|Talisman Dabbler|Amateur de talismans|libre|
 |[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|Médecin|libre|
-|[DeixUOfwL7Bruad5.htm](archetypes/DeixUOfwL7Bruad5.htm)|Red Mantis Assassin|Assassin des Mantes rouges|officielle|
 |[PPmO6FXrl8Otszji.htm](archetypes/PPmO6FXrl8Otszji.htm)|Drow Shootist|Tireur drow|libre|

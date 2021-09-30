@@ -1,13 +1,13 @@
 # État de la traduction (spell-effects)
 
  * **libre**: 118
- * **aucune**: 154
+ * **aucune**: 158
  * **vide**: 1
  * **officielle**: 11
  * **changé**: 27
 
 
-Dernière mise à jour: 2021-09-22 06:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -28,14 +28,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-7zJPd2BsFl82qFRV.htm](spell-effects/01-7zJPd2BsFl82qFRV.htm)|Spell Effect: Warding Aggression (+3)|
 |[01-8ecGfjmxnBY3WWao.htm](spell-effects/01-8ecGfjmxnBY3WWao.htm)|Spell Effect: Thicket of Knives|
 |[01-a3uZckqOY9zQWzZ2.htm](spell-effects/01-a3uZckqOY9zQWzZ2.htm)|Spell Effect: Read the Air|
+|[01-a5rWrWwuevTzs9Io.htm](spell-effects/01-a5rWrWwuevTzs9Io.htm)|Spell Effect: Wild Shape|
 |[01-aDOL3OAEWf3ka9oT.htm](spell-effects/01-aDOL3OAEWf3ka9oT.htm)|Spell Effect: Blood Ward|
 |[01-BDMEqBsumguTrMXa.htm](spell-effects/01-BDMEqBsumguTrMXa.htm)|Spell Effect: Devil Form (Erinys)|
 |[01-BsGZdgiEElNlgZVv.htm](spell-effects/01-BsGZdgiEElNlgZVv.htm)|Spell Effect: Draw Ire (Failure)|
 |[01-ccrcaKIRxiCnnRPT.htm](spell-effects/01-ccrcaKIRxiCnnRPT.htm)|Spell Effect: Dragon Claw (Poison)|
 |[01-CunoTO00M6eZjoFm.htm](spell-effects/01-CunoTO00M6eZjoFm.htm)|Spell Effect: Impeccable Flow (8th)|
 |[01-cwetyC5o4dRyFWJZ.htm](spell-effects/01-cwetyC5o4dRyFWJZ.htm)|Spell Effect: Necromancer's Generosity|
+|[01-d0jsFEx8kq9idSlo.htm](spell-effects/01-d0jsFEx8kq9idSlo.htm)|Spell Effect: Boost Eidolon (3 Dice)|
 |[01-dEsaufFnfYihu5Ex.htm](spell-effects/01-dEsaufFnfYihu5Ex.htm)|Spell Effect: Discern Secrets (Sense Motive)|
-|[01-eFxUcQDkxcX9KoE1.htm](spell-effects/01-eFxUcQDkxcX9KoE1.htm)|Spell Effect: Boost Eidolon|
+|[01-eFxUcQDkxcX9KoE1.htm](spell-effects/01-eFxUcQDkxcX9KoE1.htm)|Spell Effect: Boost Eidolon (1 Die)|
 |[01-F10ofwC0k1ELIaV4.htm](spell-effects/01-F10ofwC0k1ELIaV4.htm)|Spell Effect: Impeccable Flow (Critical Failure Effect)|
 |[01-fEhCbATDNlt6c1Ug.htm](spell-effects/01-fEhCbATDNlt6c1Ug.htm)|Spell Effect: Extract Poison|
 |[01-fKeZDm8kpDFK5HWp.htm](spell-effects/01-fKeZDm8kpDFK5HWp.htm)|Spell Effect: Devil Form (Sarglagon)|
@@ -47,6 +49,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-hkLhZsH3T6jc9S1y.htm](spell-effects/01-hkLhZsH3T6jc9S1y.htm)|Spell Effect: Veil of Dreams|
 |[01-i9YITDcrq1nKjV5l.htm](spell-effects/01-i9YITDcrq1nKjV5l.htm)|Spell Effect: Infectious Melody|
 |[01-J60rN48XzBGHmR6m.htm](spell-effects/01-J60rN48XzBGHmR6m.htm)|Spell Effect: Element Embodied (Air)|
+|[01-JJ7HZkXXm8sTapcu.htm](spell-effects/01-JJ7HZkXXm8sTapcu.htm)|Spell Effect: Boost Eidolon (4 Dice)|
 |[01-jKrLpG74nLHYGyWB.htm](spell-effects/01-jKrLpG74nLHYGyWB.htm)|Spell Effect: Nudge Fate|
 |[01-jp88SCE3VCRAyE6x.htm](spell-effects/01-jp88SCE3VCRAyE6x.htm)|Spell Effect: Element Embodied (Earth)|
 |[01-jx5wWd8eNw6swFa1.htm](spell-effects/01-jx5wWd8eNw6swFa1.htm)|Spell Effect: Infectious Enthusiasm (Will Saves)|
@@ -75,6 +78,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-UtIOWubq7akdHMOh.htm](spell-effects/01-UtIOWubq7akdHMOh.htm)|Spell Effect: Augment Summoning|
 |[01-UVrEe0nukiSmiwfF.htm](spell-effects/01-UVrEe0nukiSmiwfF.htm)|Spell Effect: Reinforce Eidolon|
 |[01-w1HwO7huxJoK0gHY.htm](spell-effects/01-w1HwO7huxJoK0gHY.htm)|Spell Effect: Element Embodied (Water)|
+|[01-xFvNsjmhvTkVk59U.htm](spell-effects/01-xFvNsjmhvTkVk59U.htm)|Spell Effect: Boost Eidolon (2 Dice)|
 |[01-XMOWgJV8UXWmpgk0.htm](spell-effects/01-XMOWgJV8UXWmpgk0.htm)|Spell Effect: Evolution Surge (Speed)|
 |[01-XT3AyRfx4xeXfAjP.htm](spell-effects/01-XT3AyRfx4xeXfAjP.htm)|Spell Effect: Physical Boost|
 |[01-yke7fAUDxUNzouQc.htm](spell-effects/01-yke7fAUDxUNzouQc.htm)|Spell Effect: Elemental Gift (Air)|

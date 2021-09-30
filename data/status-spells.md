@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **changé**: 694
- * **officielle**: 147
- * **libre**: 63
+ * **changé**: 699
+ * **officielle**: 145
+ * **libre**: 60
  * **aucune**: 228
 
 
-Dernière mise à jour: 2021-09-22 06:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -381,6 +381,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-02-ou56ShiFH7GWF8hX.htm](spells/divination-02-ou56ShiFH7GWF8hX.htm)|Light of Revelation|Lumière de révélation|changé|
 |[divination-02-vTQvfYu2llKQedmY.htm](spells/divination-02-vTQvfYu2llKQedmY.htm)|Comprehend Language|Compréhension des langues|changé|
 |[divination-03-1HfusQ8NDWutGvMx.htm](spells/divination-03-1HfusQ8NDWutGvMx.htm)|Animal Vision|Vision animale|changé|
+|[divination-03-2jWVNdVlbJq84dfT.htm](spells/divination-03-2jWVNdVlbJq84dfT.htm)|Battlefield Persistence|Persévérance sur le champ de bataille|changé|
 |[divination-03-9GkOWDFDEMuV3hJr.htm](spells/divination-03-9GkOWDFDEMuV3hJr.htm)|Familiar's Face|Visage du familier|changé|
 |[divination-03-HXhWYJviWalN5tQ2.htm](spells/divination-03-HXhWYJviWalN5tQ2.htm)|Clairaudience|Clairaudience|changé|
 |[divination-03-KHnhPHL4x1AQHfbC.htm](spells/divination-03-KHnhPHL4x1AQHfbC.htm)|Mind Reading|Lecture des pensées|changé|
@@ -536,6 +537,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-01-f9uqHnNBMU0774SF.htm](spells/evocation-01-f9uqHnNBMU0774SF.htm)|Elemental Betrayal|Trahison élémentaire|changé|
 |[evocation-01-g1eY1vN44mgluE33.htm](spells/evocation-01-g1eY1vN44mgluE33.htm)|Charged Javelin|Javelot chargé|changé|
 |[evocation-01-g8QqHpv2CWDwmIm1.htm](spells/evocation-01-g8QqHpv2CWDwmIm1.htm)|Gust of Wind|Bourrasque|changé|
+|[evocation-01-gISYsBFby1TiXfBt.htm](spells/evocation-01-gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|changé|
 |[evocation-01-gKKqvLohtrSJj3BM.htm](spells/evocation-01-gKKqvLohtrSJj3BM.htm)|Magic Missile|Projectile magique|changé|
 |[evocation-01-gYjPm7YwGtEa1oxh.htm](spells/evocation-01-gYjPm7YwGtEa1oxh.htm)|Ray of Frost|Rayon de givre|changé|
 |[evocation-01-HGmBY8KjgLV97nUp.htm](spells/evocation-01-HGmBY8KjgLV97nUp.htm)|Scouring Sand|Sable décapant|changé|
@@ -623,6 +625,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-04-uJXs4M6IeixfPBLc.htm](spells/evocation-04-uJXs4M6IeixfPBLc.htm)|Clinging Shadows Stance|Posture des ombres tenaces|changé|
 |[evocation-04-vfHr1N8Rf2bBpdgn.htm](spells/evocation-04-vfHr1N8Rf2bBpdgn.htm)|Elemental Tempest|Tempête élémentaire|changé|
 |[evocation-04-VmqdVWCb8zAUCW8S.htm](spells/evocation-04-VmqdVWCb8zAUCW8S.htm)|Debilitating Dichotomy|Dichotomie débilitante|changé|
+|[evocation-04-VUwpDY4Z91s9QCg0.htm](spells/evocation-04-VUwpDY4Z91s9QCg0.htm)|Bottle the Storm|Tempête en bouteille|changé|
 |[evocation-04-wjJW9hWY5CkkMvY5.htm](spells/evocation-04-wjJW9hWY5CkkMvY5.htm)|Diamond Dust|Poussière de diamant|changé|
 |[evocation-05-8TBgEzjZxPaOJOm1.htm](spells/evocation-05-8TBgEzjZxPaOJOm1.htm)|Wronged Monk's Wrath|Courroux du moine lésé|changé|
 |[evocation-05-9LHr9SuDLTicdbXs.htm](spells/evocation-05-9LHr9SuDLTicdbXs.htm)|Hellfire Plume|Volute de feu infernal|changé|
@@ -870,6 +873,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-01-K8vvrOgW4bGakXxm.htm](spells/transmutation-01-K8vvrOgW4bGakXxm.htm)|Dragon Claws|Griffes de dragon|changé|
 |[transmutation-01-lXxP1ziyf4ozkpmv.htm](spells/transmutation-01-lXxP1ziyf4ozkpmv.htm)|Split the Tongue|Langue bifide|changé|
 |[transmutation-01-mFHQ2u4LWiejqKQG.htm](spells/transmutation-01-mFHQ2u4LWiejqKQG.htm)|Overstuff|Gaver|changé|
+|[transmutation-01-MPxbKoR54gkYkqLO.htm](spells/transmutation-01-MPxbKoR54gkYkqLO.htm)|Gouging Claw|Griffe creusante|changé|
 |[transmutation-01-rVANhQgB8Uqi9PTl.htm](spells/transmutation-01-rVANhQgB8Uqi9PTl.htm)|Animate Rope|Animation de corde|changé|
 |[transmutation-01-s3abwDbTV43pGFFW.htm](spells/transmutation-01-s3abwDbTV43pGFFW.htm)|Shillelagh|Gourdin magique|changé|
 |[transmutation-01-TFitdEOpQC4SzKQQ.htm](spells/transmutation-01-TFitdEOpQC4SzKQQ.htm)|Magic Weapon|Arme magique|changé|
@@ -940,6 +944,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-10-ckUOoqOM7Kg7VqxB.htm](spells/transmutation-10-ckUOoqOM7Kg7VqxB.htm)|Avatar|Avatar|changé|
 |[transmutation-10-pmP8HhXvvEKP3LqU.htm](spells/transmutation-10-pmP8HhXvvEKP3LqU.htm)|Primal Herd|Troupeau primitif|changé|
 |[transmutation-10-qqQYrXaRJXr7uc4i.htm](spells/transmutation-10-qqQYrXaRJXr7uc4i.htm)|Apex Companion|Compagnon alpha|changé|
+|[transmutation-10-ZXwxs5tRjEGrjAJT.htm](spells/transmutation-10-ZXwxs5tRjEGrjAJT.htm)|Nature Incarnate|Incarnation de la nature|changé|
 
 ## Liste des traductions complétés
 
@@ -1044,7 +1049,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-02-jwK43yKsHTkJQvQ9.htm](spells/divination-02-jwK43yKsHTkJQvQ9.htm)|See Invisibility|Détection de l'invisibilité|officielle|
 |[divination-02-NhNKzq1DvFxkvTEc.htm](spells/divination-02-NhNKzq1DvFxkvTEc.htm)|Vision of Weakness|Vision de faiblesse|libre|
 |[divination-02-pZTqGY1MLRjgKasV.htm](spells/divination-02-pZTqGY1MLRjgKasV.htm)|Darkvision|Vision dans le noir|officielle|
-|[divination-03-2jWVNdVlbJq84dfT.htm](spells/divination-03-2jWVNdVlbJq84dfT.htm)|Battlefield Persistence|Persévérance sur le champ de bataille|libre|
 |[divination-03-5WM3WjshXgrkVCg6.htm](spells/divination-03-5WM3WjshXgrkVCg6.htm)|Beastmaster Trance|Transe du Maître des bêtes|libre|
 |[divination-03-GxxnhRIaoGKtu1iO.htm](spells/divination-03-GxxnhRIaoGKtu1iO.htm)|Extend Spell|Extension de durée|officielle|
 |[divination-03-LbPLNWlLCxKCo5gF.htm](spells/divination-03-LbPLNWlLCxKCo5gF.htm)|Access Lore|Accès à la connaissance|libre|
@@ -1081,7 +1085,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-04-NOB92Wpn7jXvtyVW.htm](spells/enchantment-04-NOB92Wpn7jXvtyVW.htm)|Competitive Edge|Avantage du compétiteur|officielle|
 |[enchantment-06-GYD0XZ4t3tQq6shc.htm](spells/enchantment-06-GYD0XZ4t3tQq6shc.htm)|Zealous Conviction|Conviction zélée|officielle|
 |[evocation-01-60sgbuMWN0268dB7.htm](spells/evocation-01-60sgbuMWN0268dB7.htm)|Telekinetic Projectile|Projectile télékinésique|officielle|
-|[evocation-01-gISYsBFby1TiXfBt.htm](spells/evocation-01-gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|officielle|
 |[evocation-01-ho1jSoYKrHUNnM90.htm](spells/evocation-01-ho1jSoYKrHUNnM90.htm)|Tempest Surge|Onde de tempête|officielle|
 |[evocation-01-IWUe32Y5k2QFd7YQ.htm](spells/evocation-01-IWUe32Y5k2QFd7YQ.htm)|Gravity Weapon|Arme pesante|libre|
 |[evocation-01-jfVCuOpzC6mUrf6f.htm](spells/evocation-01-jfVCuOpzC6mUrf6f.htm)|Hydraulic Push|Poussée hydraulique|officielle|
@@ -1097,7 +1100,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-04-NxOYiKCqcuAHVRCj.htm](spells/evocation-04-NxOYiKCqcuAHVRCj.htm)|Transcribe Moment|Instant transcrit|libre|
 |[evocation-04-oOaEfsdVpgTXRhrY.htm](spells/evocation-04-oOaEfsdVpgTXRhrY.htm)|Runic Impression|Impression runique|libre|
 |[evocation-04-SkarN4VlNxSJSJNw.htm](spells/evocation-04-SkarN4VlNxSJSJNw.htm)|Wild Winds Stance|Posture des vents violents|officielle|
-|[evocation-04-VUwpDY4Z91s9QCg0.htm](spells/evocation-04-VUwpDY4Z91s9QCg0.htm)|Bottle the Storm|Tempête en bouteille|libre|
 |[evocation-04-Y3G6Y6EDgCY0s3fq.htm](spells/evocation-04-Y3G6Y6EDgCY0s3fq.htm)|Hydraulic Torrent|Torrent|officielle|
 |[evocation-04-YrzBLPLd3r9m6t1p.htm](spells/evocation-04-YrzBLPLd3r9m6t1p.htm)|Fire Shield|Bouclier de feu|officielle|
 |[evocation-05-2mVW1KT3AjW2pvDO.htm](spells/evocation-05-2mVW1KT3AjW2pvDO.htm)|Litany against Sloth|Litanie contre la paresse|officielle|
@@ -1132,7 +1134,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-01-gwOYh5zMVZB0HNcT.htm](spells/transmutation-01-gwOYh5zMVZB0HNcT.htm)|Unimpeded Stride|Déplacement sans réserve|officielle|
 |[transmutation-01-i8PBZsnoCrK7IWph.htm](spells/transmutation-01-i8PBZsnoCrK7IWph.htm)|Tentacular Limbs|Membres tentaculaires|officielle|
 |[transmutation-01-KcLVELhCUcKXxiKE.htm](spells/transmutation-01-KcLVELhCUcKXxiKE.htm)|Longstrider|Grande foulée|officielle|
-|[transmutation-01-MPxbKoR54gkYkqLO.htm](spells/transmutation-01-MPxbKoR54gkYkqLO.htm)|Gouging Claw|Griffe creusante|libre|
 |[transmutation-01-nnSipUPNd3sm5vYL.htm](spells/transmutation-01-nnSipUPNd3sm5vYL.htm)|Vibrant Thorns|Épines florissantes|officielle|
 |[transmutation-01-ps0nmhclT6aIXgd8.htm](spells/transmutation-01-ps0nmhclT6aIXgd8.htm)|Ki Rush|Ruée Ki|officielle|
 |[transmutation-01-Q7QQ91vQtyi1Ux36.htm](spells/transmutation-01-Q7QQ91vQtyi1Ux36.htm)|Jump|Saut|officielle|
@@ -1154,4 +1155,3 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-09-pswdik31kuHEvdno.htm](spells/transmutation-09-pswdik31kuHEvdno.htm)|Shapechange|Changement de forme|officielle|
 |[transmutation-09-YDMOqndvYFu3OjA6.htm](spells/transmutation-09-YDMOqndvYFu3OjA6.htm)|Ki Form|Forme ki|libre|
 |[transmutation-10-1dsahW4g1ggXtypx.htm](spells/transmutation-10-1dsahW4g1ggXtypx.htm)|Time Stop|Arrêt du temps|officielle|
-|[transmutation-10-ZXwxs5tRjEGrjAJT.htm](spells/transmutation-10-ZXwxs5tRjEGrjAJT.htm)|Nature Incarnate|Incarnation de la nature|officielle|

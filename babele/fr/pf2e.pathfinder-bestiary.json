@@ -4,7 +4,7 @@
         {
             "id": "Riding Pony",
             "name": "Poney de selle",
-            "description": "Cette entrée n'avait pas de description séparée pour la créature. <br /><br />"
+            "description": "<p>Cette entrée n'avait pas de description séparée pour la créature.</p>"
         },
         {
             "id": "Stone Golem",
@@ -179,7 +179,7 @@
         {
             "id": "War Pony",
             "name": "Poney de bataille",
-            "description": "Cette entrée n'avait pas de description séparée pour la créature. <br /><br />"
+            "description": "<p>Cette entrée n'avait pas de description séparée pour la créature.</p>"
         },
         {
             "id": "Sea Serpent",
@@ -219,7 +219,7 @@
         {
             "id": "Duskwalker Ghost Hunter",
             "name": "Chasseur de fantômes Crépusculaire (Héritier des plans)",
-            "description": "Les Crépusculaires sont imprégnés des mêmes énergies que les psychopompes. Ces héritiers des cendres renaissent sur le plan matériel pour servir de gardiens du cycle de la vie et de la mort.<br><br>\n<hr />\n<p>De nombreux immortels habitent les autres plans du Grand Au-Delà. Certains sont bienveillants et généreux, comme les anges. D’autres sont cruels et destructeurs, comme les démons. Et certains occupent une place en dehors de toute moralité, à l’instar des psychopompes. Les histoires d’amour entre les mortels et les immortels ne sont pas rares et les enfants nés de ces unions ont en eux une puissance surnaturelle qui se transmet à travers les générations. Après la première génération, cette influence surnaturelle est généralement dormante mais, de temps en temps, elle se manifeste fortement chez certains descendants des années plus tard. Ces héritiers des puissances extraplanaires sont connus collectivement sous le nom d’héritier des plans.</p>"
+            "description": "<p>Les crépusculaires sont imprégnés des mêmes énergies que les psychopompes. Ces héritiers des cendres renaissent sur le plan matériel pour servir de gardiens du cycle de la vie et de la mort.</p>\n<hr />\n<p>De nombreux immortels habitent les autres plans du Grand Au-Delà. Certains sont bienveillants et généreux, comme les anges. D’autres sont cruels et destructeurs, comme les démons. Et certains occupent une place en dehors de toute moralité, à l’instar des psychopompes. Les histoires d’amour entre les mortels et les immortels ne sont pas rares et les enfants nés de ces unions ont en eux une puissance surnaturelle qui se transmet à travers les générations. Après la première génération, cette influence surnaturelle est généralement dormante mais, de temps en temps, elle se manifeste fortement chez certains descendants des années plus tard. Ces héritiers des puissances extraplanaires sont connus collectivement sous le nom d’héritier des plans.</p>"
         },
         {
             "id": "Green Hag",
@@ -464,7 +464,7 @@
         {
             "id": "Grig",
             "name": "Grig (Esprit follet)",
-            "description": "<p>Les grigs sont les gentils musiciens des fées qui se retrouvent souvent dans des situations fâcheuses à cause de leurs tendances à vouloir affronter et vaincre le mal, même lorsque leurs pouvoirs sont largement insuffisants. Cela ne les empêche pas de se battre courageusement en faisant preuve de ruse, en utilisant leur magie et leurs attaques soniques à distance, tout en volant avec leurs ailes et en sautant grâce à la partie inférieure de leur torse similaire à celle d’un criquet pour rester hors d’atteinte.</p>\n<hr />\n<p>Insaisissables, frivoles et exubérants, les esprits follets sont la première chose qu’imaginent la plupart des villageois lorsqu’ils entendent parler de «fées» ou de «féerie». Leur tempérament peut varier s’il s’agit d’un grig bienveillant ou d’une pixie farceuse, mais les esprits follets ont tous en commun un lien avec la magie et une très petite taille. Cette famille de fées a donné son nom aux membres les plus menus et les plus nombreux : les esprits follets ordinaires.</p>"
+            "description": "<p>Les grigs sont les gentils musiciens des fées qui se retrouvent souvent dans des situations fâcheuses à cause de leurs tendances à vouloir affronter et vaincre le mal, même lorsque leurs pouvoirs sont largement insuffisants. Cela ne les empêche pas de se battre courageusement en faisant preuve de ruse, en utilisant leur magie et leurs attaques soniques à distance, tout en volant avec leurs ailes et en sautant grâce à la partie inférieure de leur torse similaire à celle d’un criquet pour rester hors d’atteinte.</p>\n<hr />\n<p>Insaisissables, frivoles et exubérants, les esprits follets sont la première chose qu’imaginent la plupart des villageois lorsqu’ils entendent parler de «fées» ou de «féerie». Leur tempérament peut varier s’il s’agit d’un grig bienveillant ou d’une pixie farceuse, mais les esprits follets ont tous en commun un lien avec la magie et une très petite taille. Cette famille de feys a donné son nom aux membres les plus menus et les plus nombreux : les esprits follets ordinaires.</p>"
         },
         {
             "id": "Lyrakien",
@@ -544,7 +544,7 @@
         {
             "id": "Electric Eel",
             "name": "Anguille électrique",
-            "description": "Vivant généralement dans les rivières et les lacs d’eau douce, une anguille électrique n’est pas particulièrement agressive mais sa capacité à pouvoir étourdir les prédateurs et ses proies peut être dangereuse pour les créatures plus grosses qui veulent en faire leur repas.<br><br>"
+            "description": "<p>Vivant généralement dans les rivières et les lacs d’eau douce, une anguille électrique n’est pas particulièrement agressive mais sa capacité à pouvoir étourdir les prédateurs et ses proies peut être dangereuse pour les créatures plus grosses qui veulent en faire leur repas.</p>"
         },
         {
             "id": "Guthallath",
@@ -604,7 +604,7 @@
         {
             "id": "Rat Swarm",
             "name": "Nuée de rats",
-            "description": "Une Nuée de rats peut causer le chaos le plus total au sein d’une maisonnée ou d’une boutique. Le risque de contracter la fièvre de la fange est bien plus élevé quand des dizaines de ces rongeurs agressifs se réunissent et entreprennent de mordre ensemble leurs victimes. Il est ainsi possible de faire carrière dans la chasse aux rats dans de nombreuses régions du monde afin d’endiguer la propagation de la maladie.<br><br>"
+            "description": "<p>Une nuée de rats peut causer le chaos le plus total au sein d’une maisonnée ou d’une boutique. Le risque de contracter la fièvre de la fange est bien plus élevé quand des dizaines de ces rongeurs agressifs se réunissent et entreprennent de mordre ensemble leurs victimes. Il est ainsi possible de faire carrière dans la chasse aux rats dans de nombreuses régions du monde afin d’endiguer la propagation de la maladie.</p>"
         },
         {
             "id": "Leopard",
@@ -844,7 +844,7 @@
         {
             "id": "Gimmerling",
             "name": "Gimmerling",
-            "description": "<p>Les gimmerlings sont des petites fées métamorphes qui tendent des embuscades pour apaiser leur faim perpétuelle et leur avarice immature. Ces fées curieuses et cruelles sont obsédées par la fabrication de pièges bizarres et d’armes sadiques. Rien ne les amuse plus que de voir ces pièges se déclencher ou de tester ces armes. Sur le plan Matériel, on les rencontre le plus souvent dans des zones urbaines, surtout dans les taudis ou dans d’autres parties de la ville où elles peuvent passer facilement inaperçues, et où le choix de victimes est plus important.</p> \n<p>Un gimmerling typique prend l’aspect d’un enfant en danger en espérant inciter des créatures à se rapprocher suffisamment pour les dépouiller. Le gimmerling simule le danger avec un piège, une créature artificielle ou un complice allié, voire avec un monstre contraint, tel qu’un Bonnet rouge.</p>\n<p>Il arrive que les gimmerlings troquent leurs techniques de piégeur et de forgeur contre des choses qui satisfont leur curiosité, leur avarice ou leur faim. C’est pour cette raison qu’elles sont parfois adorées comme des dieux mineurs de la forge. Certains gimmerlings plus disciplinés deviennent des artisans honorés, des gardes d’élite ou des espions au service des demi-dieux appelés les Aînés qui vivent dans les tréfonds du Premier Monde.</p>"
+            "description": "<p>Les gimmerlings sont des petites feys métamorphes qui tendent des embuscades pour apaiser leur faim perpétuelle et leur avarice immature. Ces feys curieuses et cruelles sont obsédées par la fabrication de pièges bizarres et d’armes sadiques. Rien ne les amuse plus que de voir ces pièges se déclencher ou de tester ces armes. Sur le plan Matériel, on les rencontre le plus souvent dans des zones urbaines, surtout dans les taudis ou dans d’autres parties de la ville où elles peuvent passer facilement inaperçues, et où le choix de victimes est plus important.</p> \n<p>Un gimmerling typique prend l’aspect d’un enfant en danger en espérant inciter des créatures à se rapprocher suffisamment pour les dépouiller. Le gimmerling simule le danger avec un piège, une créature artificielle ou un complice allié, voire avec un monstre contraint, tel qu’un Bonnet rouge.</p>\n<p>Il arrive que les gimmerlings troquent leurs techniques de piégeur et de forgeur contre des choses qui satisfont leur curiosité, leur avarice ou leur faim. C’est pour cette raison qu’elles sont parfois adorées comme des dieux mineurs de la forge. Certains gimmerlings plus disciplinés deviennent des artisans honorés, des gardes d’élite ou des espions au service des demi-dieux appelés les Aînés qui vivent dans les tréfonds du Premier Monde.</p>"
         },
         {
             "id": "Efreeti",
@@ -949,7 +949,7 @@
         {
             "id": "Naiad Queen",
             "name": "Naïade souveraine (Nymphe)",
-            "description": "Les naïades souveraines règnent sur des régions sauvages immaculées à partir de lacs préservés ou d’autres grandes étendues d’eau. Les chants des bardes et les œuvres des peintres dépeignent généralement les naïades souveraines sous la forme plus humanoïde qu’elles adoptent les rares fois où elles se rendent sur les terres civilisées pour réunir des alliés ou évaluer des menaces. La plupart d’entre elles traitent avec bonté ceux qui respectent leurs domaines, mais elles n’hésitent pas à éliminer leurs ennemis avec la plus grande férocité. Si elles sont contraintes de combattre, leur beauté stupéfiante et leur arsenal de sorts offensifs en font de dangereux adversaires.</p>\n<hr />\n<p>Les nymphes appartiennent à une famille de créatures féeriques qui prennent la forme de magnifiques humanoïdes avec des traits elfiques et qui ont un profond lien avec le monde naturel. Les plus communes sont les dryades, des esprits incarnant les grands arbres, mais il existe de nombreuses espèces de nymphes y compris les naïades qui veillent sur les étendues d’eau. Toutes les nymphes sont les gardiennes d’un élément de la nature, généralement un arbre ou un étang spécifique ou même, dans le cas des nymphes souveraines, de forêts entières ou d’immenses étendues d’eau.</p>"
+            "description": "<p>Les naïades souveraines règnent sur des régions sauvages immaculées à partir de lacs préservés ou d’autres grandes étendues d’eau. Les chants des bardes et les œuvres des peintres dépeignent généralement les naïades souveraines sous la forme plus humanoïde qu’elles adoptent les rares fois où elles se rendent sur les terres civilisées pour réunir des alliés ou évaluer des menaces. La plupart d’entre elles traitent avec bonté ceux qui respectent leurs domaines, mais elles n’hésitent pas à éliminer leurs ennemis avec la plus grande férocité. Si elles sont contraintes de combattre, leur beauté stupéfiante et leur arsenal de sorts offensifs en font de dangereux adversaires.</p>\n<hr />\n<p>Les nymphes appartiennent à une famille de créatures féeriques qui prennent la forme de magnifiques humanoïdes avec des traits elfiques et qui ont un profond lien avec le monde naturel. Les plus communes sont les dryades, des esprits incarnant les grands arbres, mais il existe de nombreuses espèces de nymphes y compris les naïades qui veillent sur les étendues d’eau. Toutes les nymphes sont les gardiennes d’un élément de la nature, généralement un arbre ou un étang spécifique ou même, dans le cas des nymphes souveraines, de forêts entières ou d’immenses étendues d’eau.</p>"
         },
         {
             "id": "Gorilla",
@@ -1054,7 +1054,7 @@
         {
             "id": "Merfolk Wavecaller",
             "name": "Implorateur des vagues Homme-poisson",
-            "description": "Les implorateurs des vagues Hommes-poissons utilisent leur puissance primordiale pour appeler des alliés et défendre leur peuple à l’aide d’une redoutable magie.<br><br>"
+            "description": "<p>Les implorateurs des vagues Hommes-poissons utilisent leur puissance primordiale pour appeler des alliés et défendre leur peuple à l’aide d’une redoutable magie.</p>\n<hr />\n<p>Élégants, mystérieux, gracieux... autant d’adjectifs décrivant les hommes-poissons. Au-dessus de la taille, ces êtres énigmatiques ressemblent à des humanoïdes aux traits délicats, mais en dessous, ils ont des ailerons et une queue d’énorme poisson. On les trouve dans presque tous les océans de Golarion, sous des apparences aussi diverses que les humains. Leur peau va du pâle au foncé en passant par toutes les teintes intermédiaires tandis que leurs écailles luisent de toute la majesté des mers.</p>"
         },
         {
             "id": "Deep Gnome Rockwarden",
@@ -1194,7 +1194,7 @@
         {
             "id": "Deinosuchus",
             "name": "Deinosuchus",
-            "description": "Le Deinosuchus est le cousin préhistorique du crocodile, un énorme prédateur capable d’attraper et de dévorer des dinosaures qui s’approchent trop de son domaine !<br><br>"
+            "description": "<p>Le deinosuchus est le cousin préhistorique du crocodile, un énorme prédateur capable d’attraper et de dévorer des dinosaures qui s’approchent trop de son domaine !</p>"
         },
         {
             "id": "Arbiter",
@@ -1494,7 +1494,7 @@
         {
             "id": "Merfolk Warrior",
             "name": "Combattant Homme-poisson",
-            "description": "Les combattants Hommes-poissons forment le gros des armées de leurs vastes royaumes sous-marins et affrontent les agresseurs potentiels avec une puissance inflexible.<br><br>"
+            "description": "<p>Les combattants Hommes-poissons forment le gros des armées de leurs vastes royaumes sous-marins et affrontent les agresseurs potentiels avec une puissance inflexible.</p>\n<hr />\n<p>Élégants, mystérieux, gracieux... autant d’adjectifs décrivant les hommes-poissons. Au-dessus de la taille, ces êtres énigmatiques ressemblent à des humanoïdes aux traits délicats, mais en dessous, ils ont des ailerons et une queue d’énorme poisson. On les trouve dans presque tous les océans de Golarion, sous des apparences aussi diverses que les humains. Leur peau va du pâle au foncé en passant par toutes les teintes intermédiaires tandis que leurs écailles luisent de toute la majesté des mers.</p>"
         },
         {
             "id": "Phoenix",
@@ -1699,7 +1699,7 @@
         {
             "id": "Skeletal Champion",
             "name": "Champion squelette",
-            "description": "<p>Ces squelettes ont conservé la ruse qui était la leur de leur vivant.</p>"
+            "description": "<p>Ces squelettes ont conservé la ruse qui était la leur de leur vivant.</p>\n<hr />\n<p>Les squelettes, assemblage d’os animés par une ignoble nécromancie, sont les morts-vivants les plus courants. On les rencontre souvent dans les vieux donjons ou les cimetières oubliés.</p>"
         },
         {
             "id": "Night Hag",
@@ -1713,8 +1713,8 @@
         },
         {
             "id": "Living Landslide",
-            "name": "Glissement de terrain vivant",
-            "description": "Les Glissements de terrain vivants ressemblent à des humanoïdes constitués de terre et de cailloux.<br><br>"
+            "name": "Glissement de terrain vivant (Élémentaire, terre)",
+            "description": "<p>Les glissements de terrain vivants ressemblent à des humanoïdes constitués de terre et de cailloux.</p>\n<hr />\n<p>Les élémentaires de la terre font d’excellents gardes du corps pour les spéléologues aventureux et sont les protecteurs idéaux des sites souterrains tels que les chambres fortes et les salles des trésors.</p>"
         },
         {
             "id": "Ancient White Dragon",
@@ -1809,7 +1809,7 @@
         {
             "id": "Nightmare",
             "name": "Destrier noir",
-            "description": "Les destriers noirs sont des équidés enflammés annonciateurs de mort.<br><br>"
+            "description": "<p>Les destriers noirs sont des équidés enflammés annonciateurs de mort.</p>"
         },
         {
             "id": "Skulltaker",
@@ -1914,7 +1914,7 @@
         {
             "id": "Drakauthix",
             "name": "Drakauthix",
-            "description": "Le Drakauthix est un champignon massif qui flotte au sommet des plus grandes cavernes d’Ombreterre, propulsé par des poches qui projettent de l’air et des spores. Chasseur vorace mais lent, le Drakauthix préfère tendre des embuscades aux proies charnues alors qu’il est en hauteur en utilisant ses membres crochus pour tirer les victimes vers le haut afin de s’en nourrir. Le processus digestif du Drakauthix est entièrement externe ; il s’agrippe aux victimes et sa surface couverte de spores s’en nourrit lentement en pénétrant la chair avant de jeter la carcasse infestée de spores. Quand le corps infesté tombe par terre, il se désagrège et libère un nuage de spores, générant ainsi une nuée de jeunes créatures appelées des sporelins qui se dispersent immédiatement pour s’accrocher au plafond de la caverne et y pousser.<br><br> Les Drakauthix ne se comportent pas de manière plus intelligente que la plupart des animaux prédateurs. Bien souvent, ils se comportent même comme des charognards en profitant des techniques de chasse des vases et autres vermines du réseau de cavernes qu’ils fréquentent. Quand une créature relativement dénuée d’intelligence tue une victime, le Drakauthix descend lentement, agrippe la dépouille avec ses tentacules et la remonte pour s’en repaître. La vase dénuée d’intelligence ou toute autre créature qui vient de se faire voler son repas lui en veut rarement et elle se contente d’aller se trouver une autre proie laissant le Drakauthix digérer le corps en paix. Naturellement, un Drakauthix peut aussi s’en prendre à des proies plus actives et peut attaquer un aventurier qui n’a pas pris la peine de guetter des dangers en hauteur en explorant un réseau de mystérieuses cavernes.<br><br> Certains habitants d’Ombreterre, tels que les duergars, chassent les Drakauthix pour leur chair qui a une saveur unique avec un arrière-goût poivré. Les races souterraines fabriquent également de l’encre avec les Drakauthix en brûlant leur carcasse puis en broyant et en pressant les cendres un long moment jusqu’à produire une substance argentée.<br><br>"
+            "description": "<p>Le drakauthix est un champignon massif qui flotte au sommet des plus grandes cavernes d’Ombreterre, propulsé par des poches qui projettent de l’air et des spores. Chasseur vorace mais lent, le Drakauthix préfère tendre des embuscades aux proies charnues alors qu’il est en hauteur en utilisant ses membres crochus pour tirer les victimes vers le haut afin de s’en nourrir. Le processus digestif du drakauthix est entièrement externe ; il s’agrippe aux victimes et sa surface couverte de spores s’en nourrit lentement en pénétrant la chair avant de jeter la carcasse infestée de spores. Quand le corps infesté tombe par terre, il se désagrège et libère un nuage de spores, générant ainsi une nuée de jeunes créatures appelées des sporelins qui se dispersent immédiatement pour s’accrocher au plafond de la caverne et y pousser.</p>\n<p>Les drakauthix ne se comportent pas de manière plus intelligente que la plupart des animaux prédateurs. Bien souvent, ils se comportent même comme des charognards en profitant des techniques de chasse des vases et autres vermines du réseau de cavernes qu’ils fréquentent. Quand une créature relativement dénuée d’intelligence tue une victime, le drakauthix descend lentement, agrippe la dépouille avec ses tentacules et la remonte pour s’en repaître. La vase dénuée d’intelligence ou toute autre créature qui vient de se faire voler son repas lui en veut rarement et elle se contente d’aller se trouver une autre proie laissant le Drakauthix digérer le corps en paix. Naturellement, un drakauthix peut aussi s’en prendre à des proies plus actives et peut attaquer un aventurier qui n’a pas pris la peine de guetter des dangers en hauteur en explorant un réseau de mystérieuses cavernes.</p> \n<p>Certains habitants d’Ombreterre, tels que les duergars, chassent les drakauthix pour leur chair qui a une saveur unique avec un arrière-goût poivré. Les races souterraines fabriquent également de l’encre avec les drakauthix en brûlant leur carcasse puis en broyant et en pressant les cendres un long moment jusqu’à produire une substance argentée.</p>"
         },
         {
             "id": "Drow Priestess",
@@ -1924,7 +1924,7 @@
         {
             "id": "Goliath Spider",
             "name": "Araignée goliath",
-            "description": "Les araignées goliaths vivent dans les jungles les plus épaisses où elles tissent des toiles aussi grandes que des temples et dévorent des proies aussi grosses que des hippopotames. <br><br>"
+            "description": "<p>Les araignées goliaths vivent dans les jungles les plus épaisses où elles tissent des toiles aussi grandes que des temples et dévorent des proies aussi grosses que des hippopotames. </p>"
         },
         {
             "id": "Yeti",

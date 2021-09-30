@@ -1,18 +1,22 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 210
- * **changé**: 49
- * **libre**: 165
- * **aucune**: 1
+ * **officielle**: 197
+ * **changé**: 66
+ * **libre**: 162
+ * **aucune**: 5
 
 
-Dernière mise à jour: 2021-09-22 06:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[None-01-HYTaibaCGE85rhbZ.htm](classfeatures/None-01-HYTaibaCGE85rhbZ.htm)|Runelord Specialization|
+|[None-01-mRvyq7G0rqRP1EAr.htm](classfeatures/None-01-mRvyq7G0rqRP1EAr.htm)|Wellspring Magic|
+|[None-01-pUkUC8HHom2DmYzz.htm](classfeatures/None-01-pUkUC8HHom2DmYzz.htm)|Elemental Magic|
+|[None-01-Upf1LXtWNJ6eB5sm.htm](classfeatures/None-01-Upf1LXtWNJ6eB5sm.htm)|Flexible Spell Preparation|
 |[summoner-09-mdzk070ixIDpid7V.htm](classfeatures/summoner-09-mdzk070ixIDpid7V.htm)|Expert Spellcaster (Level 9)|
 
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -23,6 +27,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-01-P9quO9XZi3OWFe1k.htm](classfeatures/alchemist-01-P9quO9XZi3OWFe1k.htm)|Toxicologist|Toxicologiste|changé|
 |[alchemist-01-Pe0zmIqyTBc2Td0I.htm](classfeatures/alchemist-01-Pe0zmIqyTBc2Td0I.htm)|Advanced Alchemy|Alchimie avancée|changé|
 |[alchemist-01-tvdb1jkjl2bRZjSp.htm](classfeatures/alchemist-01-tvdb1jkjl2bRZjSp.htm)|Mutagenist|Mutagèniste|changé|
+|[alchemist-01-wySB9VHOW1v3TX1L.htm](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Infused Reagents|Réactifs imprégnés|changé|
 |[alchemist-05-6zo2PJGYoig7nFpR.htm](classfeatures/alchemist-05-6zo2PJGYoig7nFpR.htm)|Field Discovery (Toxicologist)|Découverte de domaine de recherche (Toxicologiste)|changé|
 |[alchemist-05-7JK2a1D3VeWDcObo.htm](classfeatures/alchemist-05-7JK2a1D3VeWDcObo.htm)|Powerful Alchemy|Alchimie puissante|changé|
 |[alchemist-05-8QAFgy9U8PxEa7Dw.htm](classfeatures/alchemist-05-8QAFgy9U8PxEa7Dw.htm)|Field Discovery (Bomber)|Découverte de domaine de recherche (Artificier)|changé|
@@ -38,6 +43,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-13-RGs4uR3CAvgbtBAA.htm](classfeatures/alchemist-13-RGs4uR3CAvgbtBAA.htm)|Greater Field Discovery (Bomber)|Découverte de domaine de recherche supérieure (Artificier)|changé|
 |[alchemist-13-tnqyQrhrZeDtDvcO.htm](classfeatures/alchemist-13-tnqyQrhrZeDtDvcO.htm)|Greater Field Discovery (Toxicologist)|Découverte de domaine de recherche supérieure (Toxicologiste)|changé|
 |[alchemist-17-3R19zS7gERhEX87F.htm](classfeatures/alchemist-17-3R19zS7gERhEX87F.htm)|Perpetual Perfection (Toxicologist)|Perfection perpétuelle (Toxicologiste)|changé|
+|[barbarian-01-0FtzFbUrN56KA67z.htm](classfeatures/barbarian-01-0FtzFbUrN56KA67z.htm)|Animal Instinct|Instinct animal|changé|
 |[barbarian-01-1ZugTzJHsa94AZRW.htm](classfeatures/barbarian-01-1ZugTzJHsa94AZRW.htm)|Copper Dragon Instinct|Instinct du Dragon - Cuivre|changé|
 |[barbarian-01-2esqOHCn4GcZ4zYD.htm](classfeatures/barbarian-01-2esqOHCn4GcZ4zYD.htm)|White Dragon Instinct|Instinct du dragon - Blanc|changé|
 |[barbarian-01-31sPXwmEbbcvgsM9.htm](classfeatures/barbarian-01-31sPXwmEbbcvgsM9.htm)|Bull Animal Instinct|Instinct animal - Taureau|changé|
@@ -54,17 +60,32 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-01-RQUJgDjJODO775qb.htm](classfeatures/barbarian-01-RQUJgDjJODO775qb.htm)|Deer Animal Instinct|Instinct animal - Cerf|changé|
 |[barbarian-01-uGY2yddm8mZx8Yo2.htm](classfeatures/barbarian-01-uGY2yddm8mZx8Yo2.htm)|Bear Animal Instinct|Instinct animal - Ours|changé|
 |[barbarian-01-vCNtX2LwlemhA3tu.htm](classfeatures/barbarian-01-vCNtX2LwlemhA3tu.htm)|Cat Animal Instinct|Instinct animal - Félin|changé|
+|[barbarian-01-VDot7CDcXElxmkkz.htm](classfeatures/barbarian-01-VDot7CDcXElxmkkz.htm)|Dragon Instinct|Instinct du dragon|changé|
 |[barbarian-01-vlRvOQS1HZZqSyh7.htm](classfeatures/barbarian-01-vlRvOQS1HZZqSyh7.htm)|Ape Animal Instinct|Instinct animal - Primate|changé|
 |[barbarian-01-VNbDNiWjARtGQQAs.htm](classfeatures/barbarian-01-VNbDNiWjARtGQQAs.htm)|Black Dragon Instinct|Instinct du dragon - Noir|changé|
 |[barbarian-01-xX6KnYYgHlPGoTG6.htm](classfeatures/barbarian-01-xX6KnYYgHlPGoTG6.htm)|Wolf Animal Instinct|Instinct animal - Loup|changé|
 |[barbarian-01-Z2eWkfXblU0QxFx1.htm](classfeatures/barbarian-01-Z2eWkfXblU0QxFx1.htm)|Silver Dragon Instinct|Instinct du Dragon - Argent|changé|
+|[barbarian-09-ie6xDX9GMEcA2Iuq.htm](classfeatures/barbarian-09-ie6xDX9GMEcA2Iuq.htm)|Raging Resistance|Résistance enragée|changé|
+|[bard-01-AIOBWGOS4nkfH3kW.htm](classfeatures/bard-01-AIOBWGOS4nkfH3kW.htm)|Muses|Muse|changé|
+|[champion-01-ehL7mnkqxN5wIkgu.htm](classfeatures/champion-01-ehL7mnkqxN5wIkgu.htm)|Deity and Cause|Divinité et cause|changé|
+|[champion-01-fykh5pE99O3I2sOI.htm](classfeatures/champion-01-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|changé|
 |[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin|Paladin|changé|
+|[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|changé|
+|[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|Allié divin|changé|
+|[champion-09-3XK573A7GH1rrLgO.htm](classfeatures/champion-09-3XK573A7GH1rrLgO.htm)|Divine Smite|Châtiment divin|changé|
+|[cleric-01-UV1HlClbWCNcaKBZ.htm](classfeatures/cleric-01-UV1HlClbWCNcaKBZ.htm)|Anathema (Cleric)|Anathème (Prêtre)|changé|
 |[druid-01-8STJEFVJISujgpMR.htm](classfeatures/druid-01-8STJEFVJISujgpMR.htm)|Druidic Order|Ordre druidique|changé|
+|[druid-01-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-01-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|changé|
 |[None-00-UTRDN1TAieBMjwP1.htm](classfeatures/None-00-UTRDN1TAieBMjwP1.htm)|Order of the Godclaw|Ordre du dieu griffu|changé|
+|[None-01-T25ZLQWn6O4KchLo.htm](classfeatures/None-01-T25ZLQWn6O4KchLo.htm)|Focus Spells|Sorts focalisés|changé|
 |[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames Mystery|Mystère des flammes|changé|
+|[oracle-01-PRJYLksQEwT39bTl.htm](classfeatures/oracle-01-PRJYLksQEwT39bTl.htm)|Mystery|Mystère|changé|
 |[oracle-01-qvRlih3u7vK3FYUR.htm](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Ancestors Mystery|Mystère des ancêtres|changé|
 |[oracle-01-W9cF7wZztLDb1WGY.htm](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Tempest Mystery|Mystère de la tempête|changé|
 |[oracle-17-F4brPlp1tHGUqyuI.htm](classfeatures/oracle-17-F4brPlp1tHGUqyuI.htm)|Extreme Curse|Malédiction extrême|changé|
+|[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|changé|
+|[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|changé|
+|[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Trafic de roublard : Scélérat|changé|
 |[sorcerer-01-dKTb959aCQIzSIXj.htm](classfeatures/sorcerer-01-dKTb959aCQIzSIXj.htm)|Bloodline: Wyrmblessed|Lignage : béni du Ver|changé|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|Incantation de l'ensorceleur|changé|
 |[witch-11-O99eXctsEjEpuBwe.htm](classfeatures/witch-11-O99eXctsEjEpuBwe.htm)|Weapon Expertise (Level 11)|Expertise avec les armes (Niveau 11)|changé|
@@ -77,7 +98,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|officielle|
 |[alchemist-01-cU2ofQLj7pg6wTSi.htm](classfeatures/alchemist-01-cU2ofQLj7pg6wTSi.htm)|Research Field|Domaine de recherche|officielle|
 |[alchemist-01-sPtl05wwTpqFI0lL.htm](classfeatures/alchemist-01-sPtl05wwTpqFI0lL.htm)|Quick Alchemy|Alchimie rapide|officielle|
-|[alchemist-01-wySB9VHOW1v3TX1L.htm](classfeatures/alchemist-01-wySB9VHOW1v3TX1L.htm)|Infused Reagents|Réactifs imprégnés|officielle|
+|[alchemist-01-XPPG7nN9pxt0sjMg.htm](classfeatures/alchemist-01-XPPG7nN9pxt0sjMg.htm)|Formula Book|Formulaire|officielle|
 |[alchemist-05-IxxPEahbqXwIXum7.htm](classfeatures/alchemist-05-IxxPEahbqXwIXum7.htm)|Field Discovery|Découverte de domaine de recherche|officielle|
 |[alchemist-07-4ocPy4O0OCLY0XCM.htm](classfeatures/alchemist-07-4ocPy4O0OCLY0XCM.htm)|Alchemical Weapon Expertise|Expertise avec les armes alchimiques|officielle|
 |[alchemist-07-JVCxv4HuLaaFhAf4.htm](classfeatures/alchemist-07-JVCxv4HuLaaFhAf4.htm)|Iron Will (Level 7)|Volonté de fer (Niveau 7)|libre|
@@ -97,16 +118,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|Perfection perpétuelle (Artificier)|officielle|
 |[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|Perfection perpétuelle (Chirurgien)|officielle|
 |[alchemist-19-FiVYuIPTBzPzNP4E.htm](classfeatures/alchemist-19-FiVYuIPTBzPzNP4E.htm)|Alchemist Armor Mastery (Level 19)|Maîtrise d'armure de l'alchimiste (Niveau 19)|libre|
-|[barbarian-01-0FtzFbUrN56KA67z.htm](classfeatures/barbarian-01-0FtzFbUrN56KA67z.htm)|Animal Instinct|Instinct animal|libre|
 |[barbarian-01-JuKD6k7nDwfO0Ckv.htm](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Giant Instinct|Instinct de géant|officielle|
 |[barbarian-01-k7M9jedvt31AJ5ZR.htm](classfeatures/barbarian-01-k7M9jedvt31AJ5ZR.htm)|Fury Instinct|Instinct de la furie|officielle|
 |[barbarian-01-SCYSjUbMmw8JD9P9.htm](classfeatures/barbarian-01-SCYSjUbMmw8JD9P9.htm)|Superstition Instinct|Instinct superstitieux|libre|
 |[barbarian-01-TQqv9Q5mB4PW6LH9.htm](classfeatures/barbarian-01-TQqv9Q5mB4PW6LH9.htm)|Spirit Instinct|Instinct spirituel|officielle|
-|[barbarian-01-VDot7CDcXElxmkkz.htm](classfeatures/barbarian-01-VDot7CDcXElxmkkz.htm)|Dragon Instinct|Instinct du dragon|officielle|
 |[barbarian-05-EEUTd0jAyfwTLzjk.htm](classfeatures/barbarian-05-EEUTd0jAyfwTLzjk.htm)|Brutality|Brutalité|officielle|
 |[barbarian-07-9EqIasqfI8YIM3Pt.htm](classfeatures/barbarian-07-9EqIasqfI8YIM3Pt.htm)|Weapon Specialization (Barbarian)|Spécialisation martiale (Barbare)|officielle|
 |[barbarian-07-OMZs5y16jZRW9KQK.htm](classfeatures/barbarian-07-OMZs5y16jZRW9KQK.htm)|Juggernaut (Level 7)|Juggernaut (Niveau 7)|libre|
-|[barbarian-09-ie6xDX9GMEcA2Iuq.htm](classfeatures/barbarian-09-ie6xDX9GMEcA2Iuq.htm)|Raging Resistance|Résistance enragée|officielle|
 |[barbarian-11-88Q33X2a0iYPkbzd.htm](classfeatures/barbarian-11-88Q33X2a0iYPkbzd.htm)|Mighty Rage|Rage formidable|officielle|
 |[barbarian-13-ejP4jVQkS48uKRFz.htm](classfeatures/barbarian-13-ejP4jVQkS48uKRFz.htm)|Weapon Fury|Fureur armée|officielle|
 |[barbarian-13-TuL0UfqH14MtqYVh.htm](classfeatures/barbarian-13-TuL0UfqH14MtqYVh.htm)|Greater Juggernaut|Juggernaut supérieur|officielle|
@@ -118,7 +136,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-19-VLiT503OLOM3vaDx.htm](classfeatures/barbarian-19-VLiT503OLOM3vaDx.htm)|Devastator|Dévastateur|officielle|
 |[bard-01-4ripp6EfdVpS0d60.htm](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Enigma Muse|Muse - Énigmatique|officielle|
 |[bard-01-6FsusoMYxxjyIkVh.htm](classfeatures/bard-01-6FsusoMYxxjyIkVh.htm)|Spell Repertoire (Bard)|Répertoire de sorts (Barde)|officielle|
-|[bard-01-AIOBWGOS4nkfH3kW.htm](classfeatures/bard-01-AIOBWGOS4nkfH3kW.htm)|Muses|Muse|officielle|
 |[bard-01-fEOj0eOBe34qYdAa.htm](classfeatures/bard-01-fEOj0eOBe34qYdAa.htm)|Occult Spellcasting|Incantation occulte|officielle|
 |[bard-01-N03BtRvjX9TeHRa4.htm](classfeatures/bard-01-N03BtRvjX9TeHRa4.htm)|Warrior Muse|Muse - Combattant|libre|
 |[bard-01-s0VbbQJNlSgPocui.htm](classfeatures/bard-01-s0VbbQJNlSgPocui.htm)|Composition Spells|Sorts de composition|officielle|
@@ -128,20 +145,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-11-4lp8oG9A3zuqhPBS.htm](classfeatures/bard-11-4lp8oG9A3zuqhPBS.htm)|Bard Weapon Expertise|expertise avec les armes du barde|officielle|
 |[bard-19-NjsOpWbbzUY2Hpk3.htm](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum Opus|Magnum opus|officielle|
 |[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator|Profanateur|libre|
-|[champion-01-ehL7mnkqxN5wIkgu.htm](classfeatures/champion-01-ehL7mnkqxN5wIkgu.htm)|Deity and Cause|Divinité et cause|officielle|
 |[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin|Antipaladin|libre|
 |[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator|Libérateur|officielle|
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|officielle|
-|[champion-01-fykh5pE99O3I2sOI.htm](classfeatures/champion-01-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|officielle|
 |[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant|Tyran|libre|
 |[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|Les principes du Mal|libre|
 |[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du Bien|officielle|
-|[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|officielle|
 |[champion-01-sXVX4ARUuo8Egrz5.htm](classfeatures/champion-01-sXVX4ARUuo8Egrz5.htm)|Champion's Reaction|Réaction de champion|officielle|
 |[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer|Rédempteur|officielle|
-|[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|Allié divin|officielle|
 |[champion-07-x5jaCJxsmD5sx3KB.htm](classfeatures/champion-07-x5jaCJxsmD5sx3KB.htm)|Armor Expertise (Level 7)|Expertise avec les armures (Niveau 7)|officielle|
-|[champion-09-3XK573A7GH1rrLgO.htm](classfeatures/champion-09-3XK573A7GH1rrLgO.htm)|Divine Smite|Châtiment divin|officielle|
 |[champion-09-VgmfNKtQLgBaNi5r.htm](classfeatures/champion-09-VgmfNKtQLgBaNi5r.htm)|Champion Expertise|Expertise du champion|officielle|
 |[champion-11-uptzvOLrZ3fctrl2.htm](classfeatures/champion-11-uptzvOLrZ3fctrl2.htm)|Exalt|Éxaltation|officielle|
 |[champion-11-xygfZopqXBJ6dKBA.htm](classfeatures/champion-11-xygfZopqXBJ6dKBA.htm)|Divine Will|Résolution divine|officielle|
@@ -156,7 +168,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|officielle|
 |[cleric-01-Qejo7FUWQtPTpgWH.htm](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)|First Doctrine|Doctrine : Premier dogme|officielle|
 |[cleric-01-tyrBwBTzo5t9Zho7.htm](classfeatures/cleric-01-tyrBwBTzo5t9Zho7.htm)|Doctrine|Doctrine|officielle|
-|[cleric-01-UV1HlClbWCNcaKBZ.htm](classfeatures/cleric-01-UV1HlClbWCNcaKBZ.htm)|Anathema (Cleric)|Anathème (Prêtre)|officielle|
 |[cleric-01-xxkszluN9icAiTO4.htm](classfeatures/cleric-01-xxkszluN9icAiTO4.htm)|First Doctrine (Warpriest)|Premier dogme (Prêtre combattant)|libre|
 |[cleric-01-ZZzLMOUAtBVgV1DF.htm](classfeatures/cleric-01-ZZzLMOUAtBVgV1DF.htm)|Cloistered Cleric|Prêtre cloîtré|officielle|
 |[cleric-03-D34mPo29r1J3DPaX.htm](classfeatures/cleric-03-D34mPo29r1J3DPaX.htm)|Second Doctrine (Warpriest)|Deuxième dogme (Prêtre combattant)|officielle|
@@ -183,7 +194,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-01-fKTewWlYgFuhl4KA.htm](classfeatures/druid-01-fKTewWlYgFuhl4KA.htm)|Stone Order|Ordre de la pierre|libre|
 |[druid-01-FuUXyv2yBs7zRgqT.htm](classfeatures/druid-01-FuUXyv2yBs7zRgqT.htm)|Wave Order|Ordre de la vague|libre|
 |[druid-01-NdeFvIXdHwKYLiUj.htm](classfeatures/druid-01-NdeFvIXdHwKYLiUj.htm)|Flame Order|Ordre de la flamme|libre|
-|[druid-01-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-01-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|officielle|
 |[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal Order|Ordre animal|officielle|
 |[druid-01-RiAGlnnp4S21BAG3.htm](classfeatures/druid-01-RiAGlnnp4S21BAG3.htm)|Druidic Language|Le druidique|officielle|
 |[druid-01-u4nlOzPj2WHkIj9l.htm](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Leaf Order|Ordre de la feuille|officielle|
@@ -269,7 +279,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-00-YrJj8UI0XpkHv0Ho.htm](classfeatures/None-00-YrJj8UI0XpkHv0Ho.htm)|Order of the Chain|Ordre des chaînes|officielle|
 |[None-00-zGxO2cETUsXuvqRu.htm](classfeatures/None-00-zGxO2cETUsXuvqRu.htm)|Order of the Pyre|Ordre du bûcher|officielle|
 |[None-01-1FPVkksuE2ncw9rF.htm](classfeatures/None-01-1FPVkksuE2ncw9rF.htm)|Ki Spells|Sorts de ki|officielle|
-|[None-01-T25ZLQWn6O4KchLo.htm](classfeatures/None-01-T25ZLQWn6O4KchLo.htm)|Focus Spells|Sorts focalisés|libre|
 |[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|libre|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|Mystère du combat|libre|
@@ -277,7 +286,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-01-ibX2EhKkyUtbOHLj.htm](classfeatures/oracle-01-ibX2EhKkyUtbOHLj.htm)|Oracular Curse|Malédiction oraculaire|libre|
 |[oracle-01-NXUOtO9NytHQurlg.htm](classfeatures/oracle-01-NXUOtO9NytHQurlg.htm)|Revelation Spells|Sorts de révélation|libre|
 |[oracle-01-o1gGG36wpn9mxeop.htm](classfeatures/oracle-01-o1gGG36wpn9mxeop.htm)|Life Mystery|Mystère de la vie|libre|
-|[oracle-01-PRJYLksQEwT39bTl.htm](classfeatures/oracle-01-PRJYLksQEwT39bTl.htm)|Mystery|Mystère|libre|
 |[oracle-01-RI2EMRBBPNSoTJXu.htm](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Cosmos Mystery|Mystère du cosmos|libre|
 |[oracle-01-tZBb3Kh4nJcNoUFI.htm](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Lore Mystery|Mystère du savoir|libre|
 |[oracle-02-3OKTrm5rJdxFn4dR.htm](classfeatures/oracle-02-3OKTrm5rJdxFn4dR.htm)|Cosmos Mystery (Multiclass)|Mystère du Cosmos (Multiclasse)|libre|
@@ -317,12 +325,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ranger-19-phwQ2MrDZ13D2HxC.htm](classfeatures/ranger-19-phwQ2MrDZ13D2HxC.htm)|Second Skin|Seconde peau|officielle|
 |[rogue-01-3KPZ7svIO6kmmEKH.htm](classfeatures/rogue-01-3KPZ7svIO6kmmEKH.htm)|Ruffian Racket|Trafic de roublard : Voyou|officielle|
 |[rogue-01-D8qtAo2w4jsqjBrM.htm](classfeatures/rogue-01-D8qtAo2w4jsqjBrM.htm)|Eldritch Trickster Racket|Trafic de roublard : Mystificateur|libre|
-|[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|officielle|
 |[rogue-01-RyOkmu0W9svavuAB.htm](classfeatures/rogue-01-RyOkmu0W9svavuAB.htm)|Mastermind Racket|Trafic de roublard : Cerveau|libre|
 |[rogue-01-uGuCGQvUmioFV2Bd.htm](classfeatures/rogue-01-uGuCGQvUmioFV2Bd.htm)|Rogue's Racket|Trafics de roublard|libre|
 |[rogue-01-w6rMqmGzhUahdnA7.htm](classfeatures/rogue-01-w6rMqmGzhUahdnA7.htm)|Surprise Attack|Attaque surprise|officielle|
-|[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|officielle|
-|[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Trafic de roublard : Scélérat|officielle|
 |[rogue-03-PNpmVmD21zViDtGC.htm](classfeatures/rogue-03-PNpmVmD21zViDtGC.htm)|Deny Advantage (Level 3)|Refus d'avantage (Niveau 3)|officielle|
 |[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|officielle|
 |[rogue-07-0npO4rPscGm0dX13.htm](classfeatures/rogue-07-0npO4rPscGm0dX13.htm)|Vigilant Senses (Level 7)|Sens alertes (Niveau 7)|libre|

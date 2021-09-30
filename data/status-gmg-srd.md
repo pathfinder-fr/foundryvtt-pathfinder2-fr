@@ -1,11 +1,12 @@
 # État de la traduction (gmg-srd)
 
- * **officielle**: 93
+ * **officielle**: 90
  * **auto-trad**: 4
+ * **changé**: 3
  * **libre**: 1
 
 
-Dernière mise à jour: 2021-09-22 06:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions automatiques à corriger/retraduire
@@ -17,6 +18,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cD51eAUtbGlp5UKr.htm](gmg-srd/cD51eAUtbGlp5UKr.htm)|Slander|auto-trad|
 |[nsZ93vUEFucsLwRz.htm](gmg-srd/nsZ93vUEFucsLwRz.htm)|Privileged Position|auto-trad|
 
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[8NKe8N5NsULPShPX.htm](gmg-srd/8NKe8N5NsULPShPX.htm)|The Dead One|Lé défunt|changé|
+|[j9kx5CzfulaFTMOE.htm](gmg-srd/j9kx5CzfulaFTMOE.htm)|Academy Trained|Formation universitaire|changé|
+|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|Vainqueur d'une compétition|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -27,7 +36,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[5KDGPcdZpdZumUYy.htm](gmg-srd/5KDGPcdZpdZumUYy.htm)|Itinerant|Itinérant|officielle|
 |[6NOZe9gUfVEedECW.htm](gmg-srd/6NOZe9gUfVEedECW.htm)|Star|Célébrité|officielle|
 |[7qsQBWD5sSGz7Fik.htm](gmg-srd/7qsQBWD5sSGz7Fik.htm)|Mercantile Expertise|Expertise marchande|officielle|
-|[8NKe8N5NsULPShPX.htm](gmg-srd/8NKe8N5NsULPShPX.htm)|The Dead One|Lé défunt|officielle|
 |[a0mJO7io1hcwMAjJ.htm](gmg-srd/a0mJO7io1hcwMAjJ.htm)|Lost in the Wilderness|Perdu dans la nature|officielle|
 |[AL562TPAhLCFX62S.htm](gmg-srd/AL562TPAhLCFX62S.htm)|Underground|Sous terre|officielle|
 |[Alf16WU6qK8w1jmq.htm](gmg-srd/Alf16WU6qK8w1jmq.htm)|Sun|Soleil|officielle|
@@ -62,7 +70,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[idZxjeEv8B3x44r1.htm](gmg-srd/idZxjeEv8B3x44r1.htm)|Captured by Giants|Capturé par des géants|officielle|
 |[IJ3nFDu2YcoP6ynd.htm](gmg-srd/IJ3nFDu2YcoP6ynd.htm)|Throne|Trône|officielle|
 |[Ip6kSKGhl3XHQZ93.htm](gmg-srd/Ip6kSKGhl3XHQZ93.htm)|Robbed|Dépouillé|officielle|
-|[j9kx5CzfulaFTMOE.htm](gmg-srd/j9kx5CzfulaFTMOE.htm)|Academy Trained|Formation universitaire|officielle|
 |[JHQI2skcksaLMPqA.htm](gmg-srd/JHQI2skcksaLMPqA.htm)|Kindly Witch|Sorcière bienveillante|officielle|
 |[jtgfTYpcv4FFpWsL.htm](gmg-srd/jtgfTYpcv4FFpWsL.htm)|Died|Mort|officielle|
 |[jVh90bfsC6w6iVyy.htm](gmg-srd/jVh90bfsC6w6iVyy.htm)|Euryale (curse)|Euryale (malédiction)|officielle|
@@ -112,6 +119,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[y4quheEoo2bcmM6g.htm](gmg-srd/y4quheEoo2bcmM6g.htm)|Seeking Accolades|Chercheur d'attention|officielle|
 |[yqCZWcX9e3iwmvSS.htm](gmg-srd/yqCZWcX9e3iwmvSS.htm)|Social Maneuvering|Manipulations sociales|officielle|
 |[YR0uxB5CPPueFjBs.htm](gmg-srd/YR0uxB5CPPueFjBs.htm)|The Relative|Le parent|officielle|
-|[YsY9euHOGCGc3mTE.htm](gmg-srd/YsY9euHOGCGc3mTE.htm)|Won a Competition|Vainqueur d'une compétition|officielle|
 |[yZUZDw8TXX1MvZ4P.htm](gmg-srd/yZUZDw8TXX1MvZ4P.htm)|Called Before Judges|Convoqué devant les juges|officielle|
 |[ziWhyyygUG3Lemdu.htm](gmg-srd/ziWhyyygUG3Lemdu.htm)|The Academic|Le professeur|officielle|

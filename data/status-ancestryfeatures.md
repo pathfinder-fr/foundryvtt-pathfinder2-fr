@@ -1,18 +1,20 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 147
- * **officielle**: 28
- * **changé**: 34
+ * **libre**: 143
+ * **officielle**: 27
+ * **changé**: 39
 
 
-Dernière mise à jour: 2021-09-22 06:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[feat-01-dwKCwwtWetvPmJks.htm](ancestryfeatures/feat-01-dwKCwwtWetvPmJks.htm)|Rainfall Orc|Orque des moussons|changé|
 |[feat-01-G8jfMayPv4vZvAVr.htm](ancestryfeatures/feat-01-G8jfMayPv4vZvAVr.htm)|Sylph|Sylphe|changé|
+|[feat-01-gyoN45SVfRZwHMkk.htm](ancestryfeatures/feat-01-gyoN45SVfRZwHMkk.htm)|Irongut Goblin|Gobelin Boyaud’fer|changé|
 |[feat-01-HFHSh2RWuxa4GhhQ.htm](ancestryfeatures/feat-01-HFHSh2RWuxa4GhhQ.htm)|Benthic Azarketi|Azarketi des profondeurs|changé|
 |[feat-01-hOPOyyt7qZXYYCOU.htm](ancestryfeatures/feat-01-hOPOyyt7qZXYYCOU.htm)|Nine Lives Catfolk|Homme-félin aux neuf vies|changé|
 |[feat-01-hTl3uc6y1kTuo9ac.htm](ancestryfeatures/feat-01-hTl3uc6y1kTuo9ac.htm)|Seaweed Leshy|Léchi algue|changé|
@@ -21,6 +23,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-kHHcvJBJNiPJTuna.htm](ancestryfeatures/feat-01-kHHcvJBJNiPJTuna.htm)|Wisp Fetchling|Fetchelin volute|changé|
 |[feat-01-kTlJqhC7ZSE8P8lu.htm](ancestryfeatures/feat-01-kTlJqhC7ZSE8P8lu.htm)|Venomous Anadi|Anadi venimeux|changé|
 |[feat-01-kXp8qRh5AgtD4Izi.htm](ancestryfeatures/feat-01-kXp8qRh5AgtD4Izi.htm)|Witch Gnoll|Gnoll sorcier|changé|
+|[feat-01-m9rrlchS10xHFA2G.htm](ancestryfeatures/feat-01-m9rrlchS10xHFA2G.htm)|Venomtail Kobold|Kobold à queue venimeuse|changé|
 |[feat-01-Mmezbef0c1fbJaVV.htm](ancestryfeatures/feat-01-Mmezbef0c1fbJaVV.htm)|Impersonator Android|Imposteur androïde|changé|
 |[feat-01-MQx7miBXUmOHycqJ.htm](ancestryfeatures/feat-01-MQx7miBXUmOHycqJ.htm)|Laborer Android|Manœuvre androïde|changé|
 |[feat-01-Nd9hdX8rdYyRozw8.htm](ancestryfeatures/feat-01-Nd9hdX8rdYyRozw8.htm)|Ancient Elf|Elfe ancien|changé|
@@ -35,6 +38,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-sEnMG5zbnXdJvVPz.htm](ancestryfeatures/feat-01-sEnMG5zbnXdJvVPz.htm)|Cloudleaper Lizardfolk|Homme-lézard sautenuage|changé|
 |[feat-01-sGzhnQpgWErX1bmx.htm](ancestryfeatures/feat-01-sGzhnQpgWErX1bmx.htm)|Vigilant Goloma|Goloma vigilant|changé|
 |[feat-01-SqEcb1c3yeoJMxm0.htm](ancestryfeatures/feat-01-SqEcb1c3yeoJMxm0.htm)|Great Gnoll|Grand gnoll|changé|
+|[feat-01-tarfuEXmi0E0Enfy.htm](ancestryfeatures/feat-01-tarfuEXmi0E0Enfy.htm)|Shadow Rat|Rat de l'ombre|changé|
 |[feat-01-TDc9MXLXkgEFoKdD.htm](ancestryfeatures/feat-01-TDc9MXLXkgEFoKdD.htm)|Flexible Catfolk|Homme-félin flexible|changé|
 |[feat-01-TQFE10VFvh9wb8zb.htm](ancestryfeatures/feat-01-TQFE10VFvh9wb8zb.htm)|Woodstalker Lizardfolk|Homme-lézard Arpenteur sylvestre|changé|
 |[feat-01-U882U2NUUGL6u3rL.htm](ancestryfeatures/feat-01-U882U2NUUGL6u3rL.htm)|Tunnel Rat|Rat des tunnels|changé|
@@ -46,6 +50,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-yVtcyAbLmWCIHHZi.htm](ancestryfeatures/feat-01-yVtcyAbLmWCIHHZi.htm)|Rite of Passage|Rite de passage|changé|
 |[feat-01-zcO93E8gAW1tDYKk.htm](ancestryfeatures/feat-01-zcO93E8gAW1tDYKk.htm)|Draxie|Draxie|changé|
 |[feat-01-zPhArF36ZVgLeVUU.htm](ancestryfeatures/feat-01-zPhArF36ZVgLeVUU.htm)|Ancient Scale Azarketi|Azarketi écaille antique|changé|
+|[feat-01-ZZKZkeSP5TuT62IA.htm](ancestryfeatures/feat-01-ZZKZkeSP5TuT62IA.htm)|Duskwalker|Crépusculaire|changé|
 
 ## Liste des traductions complétés
 
@@ -111,7 +116,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-dQqurQys37aJYb26.htm](ancestryfeatures/feat-01-dQqurQys37aJYb26.htm)|Leaf Leshy|Léchi feuillu|libre|
 |[feat-01-DRtaqOHXTRtGRIUT.htm](ancestryfeatures/feat-01-DRtaqOHXTRtGRIUT.htm)|Low-Light Vision|Vision nocturne|officielle|
 |[feat-01-dtNsRAhCRfteA1ev.htm](ancestryfeatures/feat-01-dtNsRAhCRfteA1ev.htm)|Blunt Snout|Museau court|libre|
-|[feat-01-dwKCwwtWetvPmJks.htm](ancestryfeatures/feat-01-dwKCwwtWetvPmJks.htm)|Rainfall Orc|Orque des moussons|libre|
 |[feat-01-EEvA4uj8h3zDiAfP.htm](ancestryfeatures/feat-01-EEvA4uj8h3zDiAfP.htm)|Treedweller Goblin|Gobelin arboricole|libre|
 |[feat-01-eFsD7W6hnK33jlDQ.htm](ancestryfeatures/feat-01-eFsD7W6hnK33jlDQ.htm)|Sewer Rat|Rat d'égoûts|libre|
 |[feat-01-egpiSWBrNBb1Fmig.htm](ancestryfeatures/feat-01-egpiSWBrNBb1Fmig.htm)|Draconic Exemplar|Modèle draconique|libre|
@@ -132,7 +136,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-GNSTUFBk2bU28GIl.htm](ancestryfeatures/feat-01-GNSTUFBk2bU28GIl.htm)|Stonestep Shisk|Shisk pied de pierre|libre|
 |[feat-01-GpnHIonrLN8TFZci.htm](ancestryfeatures/feat-01-GpnHIonrLN8TFZci.htm)|Rite of Invocation|Rite d'invocation|libre|
 |[feat-01-gQyPU441J3rGt8mD.htm](ancestryfeatures/feat-01-gQyPU441J3rGt8mD.htm)|Snow Goblin|Gobelin des Neiges|officielle|
-|[feat-01-gyoN45SVfRZwHMkk.htm](ancestryfeatures/feat-01-gyoN45SVfRZwHMkk.htm)|Irongut Goblin|Gobelin Boyaud’fer|officielle|
 |[feat-01-h2VKMYAlUIFAAXVG.htm](ancestryfeatures/feat-01-h2VKMYAlUIFAAXVG.htm)|Nyktera|Nyctère|libre|
 |[feat-01-hFBwsVcSnNCJoimo.htm](ancestryfeatures/feat-01-hFBwsVcSnNCJoimo.htm)|Versatile Heritage|Héritage polyvalent|officielle|
 |[feat-01-HHVQDp61ehcpdiU8.htm](ancestryfeatures/feat-01-HHVQDp61ehcpdiU8.htm)|Darkvision|Vision dans le noir|officielle|
@@ -158,7 +161,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-lj5iHaiY0IwCCptd.htm](ancestryfeatures/feat-01-lj5iHaiY0IwCCptd.htm)|Aphorite|Aphorite|libre|
 |[feat-01-Lp7ywxabmm88Gei6.htm](ancestryfeatures/feat-01-Lp7ywxabmm88Gei6.htm)|Observant Halfling|Halfelin observateur|libre|
 |[feat-01-LU4i3qXtyzeTGWZQ.htm](ancestryfeatures/feat-01-LU4i3qXtyzeTGWZQ.htm)|Luminous Sprite|Sprite lumineux|libre|
-|[feat-01-m9rrlchS10xHFA2G.htm](ancestryfeatures/feat-01-m9rrlchS10xHFA2G.htm)|Venomtail Kobold|Kobold à queue venimeuse|libre|
 |[feat-01-mBH1L01kYmB8EL56.htm](ancestryfeatures/feat-01-mBH1L01kYmB8EL56.htm)|Empty Sky Kitsune|Kitsune Ciel vide|libre|
 |[feat-01-mEDTJi7d1bTEiwUD.htm](ancestryfeatures/feat-01-mEDTJi7d1bTEiwUD.htm)|Unusual Anatomy|Anatomie inhabituelle|libre|
 |[feat-01-MeMAAtUlZmFgKSMF.htm](ancestryfeatures/feat-01-MeMAAtUlZmFgKSMF.htm)|Elemental Heart Dwarf|Nain Cœurélémentaire|libre|
@@ -189,7 +191,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-sL1hHxrHdMNIZVAd.htm](ancestryfeatures/feat-01-sL1hHxrHdMNIZVAd.htm)|Land on Your Feet|Sur vos pattes|libre|
 |[feat-01-Sm3tKetM6kddTio3.htm](ancestryfeatures/feat-01-Sm3tKetM6kddTio3.htm)|Plant Nourishment|Alimentation des plantes|libre|
 |[feat-01-Svk2CHwvurK1QQhD.htm](ancestryfeatures/feat-01-Svk2CHwvurK1QQhD.htm)|Ifrit|Éfrit|libre|
-|[feat-01-tarfuEXmi0E0Enfy.htm](ancestryfeatures/feat-01-tarfuEXmi0E0Enfy.htm)|Shadow Rat|Rat de l'ombre|libre|
 |[feat-01-tLd8Qg82AwEbbmgX.htm](ancestryfeatures/feat-01-tLd8Qg82AwEbbmgX.htm)|Half-Orc|Demi-orc|officielle|
 |[feat-01-TRw4oBZBFZG96jKO.htm](ancestryfeatures/feat-01-TRw4oBZBFZG96jKO.htm)|Magical Strikes|Frappes magiques|libre|
 |[feat-01-twayjFuXbsvyHUwy.htm](ancestryfeatures/feat-01-twayjFuXbsvyHUwy.htm)|Desert Rat|Rat des sables|libre|
@@ -225,4 +226,3 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-z4cvqtpkkAYoFpHa.htm](ancestryfeatures/feat-01-z4cvqtpkkAYoFpHa.htm)|Bloodhound Shoony|Shoony limier|libre|
 |[feat-01-zVf0Hlp5xG0Q7kmc.htm](ancestryfeatures/feat-01-zVf0Hlp5xG0Q7kmc.htm)|Skilled Heritage|Héritage talentueux|officielle|
 |[feat-01-ZW8GX14n3ZGievK1.htm](ancestryfeatures/feat-01-ZW8GX14n3ZGievK1.htm)|Tunnelflood Kobold|Kobold Tunnelinondé|libre|
-|[feat-01-ZZKZkeSP5TuT62IA.htm](ancestryfeatures/feat-01-ZZKZkeSP5TuT62IA.htm)|Duskwalker|Crépusculaire|libre|

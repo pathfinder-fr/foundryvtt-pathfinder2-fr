@@ -1,21 +1,25 @@
 # État de la traduction (pathfinder-society-boons)
 
- * **auto-trad**: 119
- * **changé**: 12
+ * **auto-trad**: 113
+ * **changé**: 18
 
 
-Dernière mise à jour: 2021-09-22 06:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[1welewgoB0z86Nms.htm](pathfinder-society-boons/1welewgoB0z86Nms.htm)|S1-03 - Team Player|
+|[632pDmCtbQxBlE3d.htm](pathfinder-society-boons/632pDmCtbQxBlE3d.htm)|S1-02 - Cryptid Scholar|
 |[95R55tdobViU7ZWe.htm](pathfinder-society-boons/95R55tdobViU7ZWe.htm)|Mentor, Magical|
 |[9w8TdCsGEpttXYuy.htm](pathfinder-society-boons/9w8TdCsGEpttXYuy.htm)|Mentor, Worldly|
 |[B7fDgC6tcv41lcP7.htm](pathfinder-society-boons/B7fDgC6tcv41lcP7.htm)|S1-Q11 - Amateur Genealogist|
+|[BEaLe5M23Q7LKTLL.htm](pathfinder-society-boons/BEaLe5M23Q7LKTLL.htm)|Wayfinder, Adamant|
 |[CKyGNdBL8Qt4ysKt.htm](pathfinder-society-boons/CKyGNdBL8Qt4ysKt.htm)|S2-03 - Fluent in Cyclops|
 |[DkqU67wxvbDu0Qrs.htm](pathfinder-society-boons/DkqU67wxvbDu0Qrs.htm)|Mentor, Rugged|
+|[ePZOmPbGXzrEaXXs.htm](pathfinder-society-boons/ePZOmPbGXzrEaXXs.htm)|S1-11 - Devil's Keep|
 |[grkmoNwwHOROKER7.htm](pathfinder-society-boons/grkmoNwwHOROKER7.htm)|AoA #150: Boon A - Legacy of Ashes|
 |[J1hUP5SI4MJvlK36.htm](pathfinder-society-boons/J1hUP5SI4MJvlK36.htm)|Mentor, Skillful|
 |[PXtBhRVHM28angjV.htm](pathfinder-society-boons/PXtBhRVHM28angjV.htm)|Mentor, Protective|
@@ -23,6 +27,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[RJYIefY9Skx8CAgw.htm](pathfinder-society-boons/RJYIefY9Skx8CAgw.htm)|S1-Q09 - Wayfinder Connections|
 |[RLzWznPsb2VpbxTy.htm](pathfinder-society-boons/RLzWznPsb2VpbxTy.htm)|S1-Q12 - Fruit Basket|
 |[vYSA5M9fgBdYiGLT.htm](pathfinder-society-boons/vYSA5M9fgBdYiGLT.htm)|Mentor, Combat|
+|[WYHPJyza1BJgtFq4.htm](pathfinder-society-boons/WYHPJyza1BJgtFq4.htm)|S1-Q01 - Sand Slide|
+|[yNTePhAPVMguqUVA.htm](pathfinder-society-boons/yNTePhAPVMguqUVA.htm)|S1-Q08 - Numerian Archaeologist|
 
 ## Liste des traductions automatiques à corriger/retraduire
 
@@ -35,14 +41,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[0zhQQK3gvu75ac1Q.htm](pathfinder-society-boons/0zhQQK3gvu75ac1Q.htm)|Eager Protege|auto-trad|
 |[1FWpmtZHOLRvEIdp.htm](pathfinder-society-boons/1FWpmtZHOLRvEIdp.htm)|Verdant Wheel Champion|auto-trad|
 |[1VWMLe12ZFqF9jah.htm](pathfinder-society-boons/1VWMLe12ZFqF9jah.htm)|Hireling, Expert|auto-trad|
-|[1welewgoB0z86Nms.htm](pathfinder-society-boons/1welewgoB0z86Nms.htm)|S1-03 - Team Player|auto-trad|
 |[2QzXBsURLO7xECxO.htm](pathfinder-society-boons/2QzXBsURLO7xECxO.htm)|FoP - Fiery Companion|auto-trad|
 |[3K8yzfU2t9chVv6h.htm](pathfinder-society-boons/3K8yzfU2t9chVv6h.htm)|AoA #149: Boon B - Katapesh Companion|auto-trad|
 |[3lHqim7ttvoMmVXW.htm](pathfinder-society-boons/3lHqim7ttvoMmVXW.htm)|Sellback Plan|auto-trad|
 |[4lLhGgG30TMu8tIx.htm](pathfinder-society-boons/4lLhGgG30TMu8tIx.htm)|FoP - Noala's Lessons|auto-trad|
 |[4O3qxD3I4LUjl2Vq.htm](pathfinder-society-boons/4O3qxD3I4LUjl2Vq.htm)|Wayfinder, Harmonic|auto-trad|
 |[5tWlPSGW5AEk10GJ.htm](pathfinder-society-boons/5tWlPSGW5AEk10GJ.htm)|Consummate Dabbler|auto-trad|
-|[632pDmCtbQxBlE3d.htm](pathfinder-society-boons/632pDmCtbQxBlE3d.htm)|S1-02 - Cryptid Scholar|auto-trad|
 |[6frkVrsCgTgFhMjl.htm](pathfinder-society-boons/6frkVrsCgTgFhMjl.htm)|Vigilant Seal Champion|auto-trad|
 |[6gVFdrqhs0mihRao.htm](pathfinder-society-boons/6gVFdrqhs0mihRao.htm)|S1-Q02 - One-Who-Waits|auto-trad|
 |[6oTXrz56Evik64Fy.htm](pathfinder-society-boons/6oTXrz56Evik64Fy.htm)|S1-04 - A Thorny Situation|auto-trad|
@@ -52,7 +56,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[aG5cua0K2SlurXxw.htm](pathfinder-society-boons/aG5cua0K2SlurXxw.htm)|Promotional Accessory|auto-trad|
 |[awcOD618fuXZN3rh.htm](pathfinder-society-boons/awcOD618fuXZN3rh.htm)|Practiced Medic|auto-trad|
 |[bcsusUErwGQYHj6d.htm](pathfinder-society-boons/bcsusUErwGQYHj6d.htm)|Multicultural Training|auto-trad|
-|[BEaLe5M23Q7LKTLL.htm](pathfinder-society-boons/BEaLe5M23Q7LKTLL.htm)|Wayfinder, Adamant|auto-trad|
 |[bMp6W5kPNyqBoOxm.htm](pathfinder-society-boons/bMp6W5kPNyqBoOxm.htm)|Charitable Adventure|auto-trad|
 |[ca869lJo8E51WcW4.htm](pathfinder-society-boons/ca869lJo8E51WcW4.htm)|Hireling, Master|auto-trad|
 |[cjjRFoOE1GtjEA3F.htm](pathfinder-society-boons/cjjRFoOE1GtjEA3F.htm)|Promotional Service Award|auto-trad|
@@ -65,7 +68,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[DD1mlAEaXdM1pBze.htm](pathfinder-society-boons/DD1mlAEaXdM1pBze.htm)|S1-Q07 - Amateur Adjuster|auto-trad|
 |[DWcmLzzT1eYk76c7.htm](pathfinder-society-boons/DWcmLzzT1eYk76c7.htm)|AoA #146: Mwangi Summoner|auto-trad|
 |[En3RdoXDAtyXdNKq.htm](pathfinder-society-boons/En3RdoXDAtyXdNKq.htm)|Heroic Intervention|auto-trad|
-|[ePZOmPbGXzrEaXXs.htm](pathfinder-society-boons/ePZOmPbGXzrEaXXs.htm)|S1-11 - Devil's Keep|auto-trad|
 |[fTndDUqUDSVXM0Qm.htm](pathfinder-society-boons/fTndDUqUDSVXM0Qm.htm)|S1-11 - Diggen the Liar|auto-trad|
 |[G0hv2CI7TKcUcSVs.htm](pathfinder-society-boons/G0hv2CI7TKcUcSVs.htm)|Vault Delver|auto-trad|
 |[G7fN5K1TfmNhTb2w.htm](pathfinder-society-boons/G7fN5K1TfmNhTb2w.htm)|S2-00 - Spark of Life (levels 1-2)|auto-trad|
@@ -131,7 +133,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wkgBg5UD3bChfl4b.htm](pathfinder-society-boons/wkgBg5UD3bChfl4b.htm)|Heroic Recall|auto-trad|
 |[WV4J7NMgKXNlXonW.htm](pathfinder-society-boons/WV4J7NMgKXNlXonW.htm)|AoA #147: Boon B - Expanded Summoning|auto-trad|
 |[WVOP420jZ4jSTYI8.htm](pathfinder-society-boons/WVOP420jZ4jSTYI8.htm)|S1-06 - Traveler of the Spirit Road|auto-trad|
-|[WYHPJyza1BJgtFq4.htm](pathfinder-society-boons/WYHPJyza1BJgtFq4.htm)|S1-Q01 - Sand Slide|auto-trad|
 |[Wz2F0qk4rxZeH311.htm](pathfinder-society-boons/Wz2F0qk4rxZeH311.htm)|Heroic Hustle|auto-trad|
 |[XBf4Uz3n0AwSmpXx.htm](pathfinder-society-boons/XBf4Uz3n0AwSmpXx.htm)|Adversary Lore|auto-trad|
 |[XkNW2dq5hwWOViYg.htm](pathfinder-society-boons/XkNW2dq5hwWOViYg.htm)|Off-Hours Study|auto-trad|
@@ -142,7 +143,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Y69ZRmuoj0XK9AZm.htm](pathfinder-society-boons/Y69ZRmuoj0XK9AZm.htm)|S1-18 - Light in the Dark|auto-trad|
 |[y8sk7Q4uAtacYdR2.htm](pathfinder-society-boons/y8sk7Q4uAtacYdR2.htm)|S1-Q02 - Student of the Unforgiving Fire|auto-trad|
 |[ybrynsFe4a0jJcgz.htm](pathfinder-society-boons/ybrynsFe4a0jJcgz.htm)|S2-00 - Spark of Life (levels 3-6)|auto-trad|
-|[yNTePhAPVMguqUVA.htm](pathfinder-society-boons/yNTePhAPVMguqUVA.htm)|S1-Q08 - Numerian Archaeologist|auto-trad|
 |[YVOyEfO8tTx4jj2q.htm](pathfinder-society-boons/YVOyEfO8tTx4jj2q.htm)|S1-20 - Waters of Warlock's Barrow|auto-trad|
 |[YVpNrVBLRrHjaR4C.htm](pathfinder-society-boons/YVpNrVBLRrHjaR4C.htm)|S1-00 - Nexian Researcher|auto-trad|
 |[ZtLTqT4G5q8SLJCT.htm](pathfinder-society-boons/ZtLTqT4G5q8SLJCT.htm)|S1-09 - Ally of the Iruxi|auto-trad|
