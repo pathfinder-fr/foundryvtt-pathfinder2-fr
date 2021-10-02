@@ -406,6 +406,11 @@
             "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #bien]]{1d4 dégâts du bien} et qui possède les traits magique et propulsif.</p>"
         },
         {
+            "id": "Canny Acumen (Will)",
+            "name": "Canny Acumen (Will)",
+            "description": "<p>Votre prévention ou observation est hors de portée de la plupart des membres de votre profession. Vous devenez expert en jets de Volonté. Au niveau 17, vous devenez maître dans ce même choix.</p>"
+        },
+        {
             "id": "Ranged Combatant (Evil)",
             "name": "Ranged Combatant (Evil)",
             "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #mauvais]]{1d4 dégâts mauvais} et qui possède les traits magique et propulsif.</p>"
@@ -849,6 +854,11 @@
             "id": "Goblin Weapon Familiarity",
             "name": "Goblin Weapon Familiarity",
             "description": "<p>Les autres ont beau vous regarder avec un certain dédain, vous savez que les armes de votre peuple sont aussi efficaces que tranchantes. Vous êtes qualifié avec le @Compendium[pf2e.equipment-srd.olwngGXM3hpgoLEP]{tranchechien } et le @Compendium[pf2e.equipment-srd.YnwEttFE1bJacLDh]{coupecheval].</p>\n<p>En outre, vous avez accès aux armes peu courantes des gobelins. Afin de déterminer votre maîtrise, vous considérez les armes de guerre gobelines comme des armes simples et les armes gobelines évoluées comme des armes de guerre.</p>"
+        },
+        {
+            "id": "Canny Acumen (Perception)",
+            "name": "Canny Acumen (Perception)",
+            "description": "<p>Votre prévention ou observation est hors de portée de la plupart des membres de votre profession. Vous devenez expert en Perception. Au niveau 17, vous devenez maître dans ce même choix.</p>"
         },
         {
             "id": "Protective Bond",
@@ -2454,6 +2464,16 @@
             "prereq": [
                 {
                     "value": "Dévouement de mage cathartique"
+                }
+            ]
+        },
+        {
+            "id": "Signature Synergy",
+            "name": "Signature Synergy",
+            "description": "<p>Votre eidolon gagne une évolution qui fait partie intégrante de sa forme, et cela vient plus facilement que vos autres synergies. Vous obtenez un don d'évolution de la liste suivante :</p>\n<ul>\n<li>@Compendium[pf2e.feats-srd.h8OB6zcdIqUPS6PC]{Forme aérienne}</li>\n<li>@Compendium[pf2e.feats-srd.IeiTuTZExH5DQOqH]{Forme de creusement}</li>\n<li>@Compendium[pf2e.feats-srd.a6xUSibsRaclbSz3]{Sens toujours en éveil}</li>\n<li>@Compendium[pf2e.feats-srd.H6qletvAJUCC1aIa]{Taille considérable}</li>\n</ul>\n<p>Pour les besoins de remplir ses prérequis, votre niveau de conjurateur est égal à votre niveau de personnage -4.</p>",
+            "prereq": [
+                {
+                    "value": "Synergie avancée"
                 }
             ]
         },
@@ -6332,6 +6352,16 @@
             ]
         },
         {
+            "id": "Disciple of Shade",
+            "name": "Disciple of Shade",
+            "description": "<p>Vous vous êtes plongé plus profondément dans les mystères de l'Ombre et avez été béni en obtenant un pouvoir magique qui augmente vos compétences dans les arts de la tromperie et de la persuasion. Vous gagnez le sort de domaine @Compendium[pf2e.spells-srd.YQWq1DZuLRk32M3h]{Masque insondable}. Vous augmentez de 1 le nombre de points de focalisation de votre réserve de focalisation.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'incantateur de l'ombre"
+                }
+            ]
+        },
+        {
             "id": "Fiendish Mount",
             "name": "Fiendish Mount",
             "description": "<p>Votre allié monture manifeste une suite de dons sinistres et puissant qui lui sont accordés par votre divinité.</p>\n<p>Elle obtient @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}, son nombre maximum de Points de vie augmente de 40 et elle obtient une faiblesse 10 contre les dégâts du bien.</p>\n<p>De plus, elle se voit pousser des ailes appropriées à un serviteur de votre divinité (telles que des ailes de chauves souris pour un diable), lui accordant une Vitesse de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Vol} égale à sa Vitesse de déplacement.</p>\n<p>Elle obtient les traits fiélons et le trait approprié au type de serviteur qu'elle est devenue (telle que daemon, démon ou diable).</p>",
@@ -6599,6 +6629,16 @@
             "id": "Stone Bones",
             "name": "Stone Bones",
             "description": "<p><strong>Déclencheur</strong> Vous êtes atteint par un coup critique qui inflige des dégâts physiques.</p>\n<hr />\n<p>Votre nature intraitable peut vous aider à surmonter même les plus graves des blessures.</p>\n<p>Faites un test nu contre un DD 17. Si vous obtenez un succès, l'attaque devient un coup normal.</p>"
+        },
+        {
+            "id": "Magical Master",
+            "name": "Magical Master",
+            "description": "<p>Votre eidolon obtient une brochette de sorts de niveau inférieurs. Choisissez un sort inné de la tradition de votre éidolon de chacun des niveau de sort dde 1 à 7 que votre eidolon ne possède pas actuellement parmi ses sorts innés issus d'Adepte magique. Votre eidolon peut lancer chacun de ses sorts une fois par jour comme des sorts innés.</p>\n<p>Vous pouvez échanger ces sorts à chaque niveau pair, mais votre eidolon ne peut jamais connaître plus d'un sort pour chacun des niveaux de 1 à 7</p>",
+            "prereq": [
+                {
+                    "value": "Adepte magique"
+                }
+            ]
         },
         {
             "id": "Lore Seeker",
@@ -7403,6 +7443,16 @@
             "prereq": [
                 {
                     "value": "Vision nocturne"
+                }
+            ]
+        },
+        {
+            "id": "Shadow Spells",
+            "name": "Shadow Spells",
+            "description": "<p>Les ténèbres cachées vous murmurent, vous enseignant les secrets de l'ombre au-delà des autres lanceurs de sorts de votre tradition. Ajoutez @Compendium[pf2e.spells-srd.IqJ9URobmJ9L9UBG]{Explosion d'ombre}, @Compendium[pf2e.spells-srd.tcwT97RWKxsJiefG]{Siphon d'ombre} et @Compendium[pf2e.spells-srd. rxvS7EMJ7qmexAyA]{Marche de l'ombre}, @Compendium[pf2e.spells-srd.srEKUvym9kDVbEhD]{Réplication}, @Compendium[pf2e.spells-srd.hvKtmoHwekDZ5iOH]{Armée de l'ombre}, @Compendium[pf2e.spells-srd.8 cuqRFB3mWBOgy61]{Projectile d'ombre} et @Compendium[pf2e.spells-srd.VTb0yI6P1bLkzuRr]{Raid de l'ombre} à votre liste de sorts. Vous pouvez ainsi potentiellement apprendre ces sorts même s'ils ne figurent pas normalement sur la liste de sorts de votre tradition.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'incantateur de l'ombre"
                 }
             ]
         },
@@ -9095,6 +9145,11 @@
             "id": "Read Disaster",
             "name": "Read Disaster",
             "description": "<p>Il vous faut 10 minutes pour vous ouvrir aux mystères divins du monde, en plongeant dans les plus sinistres présages du futur.</p>\n<p>Vous obtenez les effets d'@Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure}, sauf que cela ne concerne que les dangers devant vous ; tout résultat “bonheur” est remplacé par “rien” et tout résultat “bonheur et malheur” est remplacé par “malheur”. Si vous êtes légendaire en Religion, il ne vous faut qu'une minute pour Lire le désastre.</p>"
+        },
+        {
+            "id": "Canny Acumen (Fortitude)",
+            "name": "Canny Acumen (Fortitude)",
+            "description": "<p>Votre prévention ou observation est hors de portée de la plupart des membres de votre profession. Vous devenez expert en jets de Vigueur. Au niveau 17, vous devenez maître dans ce même choix.</p>"
         },
         {
             "id": "Evade Doom",
@@ -12106,6 +12161,16 @@
             "id": "Watchful Halfling",
             "name": "Watchful Halfling",
             "description": "<p>Votre mode de vie communautaire vous a appris à faire attention aux gens qui vous entourent et vous remarquez plus facilement quand leur comportement est inhabituel.</p>\n<p>Vous gagnez un bonus de circonstances de +2 à vos tests de Perception quand vous utilisez l’action basique @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions} afin de remarquer les personnages enchantés ou possédés. Si vous n’êtes pas en train de tenter de Deviner les intentions d’un personnage enchanté ou possédé, le MJ fait un test secret afin de déterminer si vous remarquez que cette créature est enchantée ou possédée, sans tenir compte des circonstances habituelles et en appliquant un malus de circonstances de −2.</p>\n<p>En plus de l’utiliser pour les tests de compétence, vous pouvez utiliser l’action basique @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} pour accorder un bonus à une autre créature qui fait un jet de sauvegarde ou un autre test afin de passer outre un enchantement ou une possession. Comme c’est le cas avec l’action Aider, vous devez vous préparer en utilisant une action lors de votre tour afin d’encourager la créature à lutter contre l’effet.</p>"
+        },
+        {
+            "id": "Versatile Spellstrike",
+            "name": "Versatile Spellstrike",
+            "description": "<p>Vous pouvez canaliser le royaume entier des possibilités de votre grimoire dans votre attaque.</p>\n<p>Une fois au cours de vos préparatifs quotidiens, vous pouvez utilisez une emplacement de sort qui contient un potentiel infini, plutôt que de l'utiliser pour préparer un sort. Lorsque vous faites une Frappe de sort, vous pouvez dépenser cet emplacement spécial pour immédiatement préparer et lancer un sort de votre grimoire de 2 niveaux inférieurs à l'emplacement du sort. (Comme à l'ordinaire en préparant des sorts, vous pouvez utiliser un sort d'un niveau encore inférieur, en l'intensifiant en conséquence)</p>\n<p>Vous n'avez aucun sort préparé dans cet emplacement jusqu'à ce que vous lanciez à partir de cet emplacement.</p>",
+            "prereq": [
+                {
+                    "value": "Frappe de sort"
+                }
+            ]
         },
         {
             "id": "Dance Underfoot",
@@ -16455,11 +16520,6 @@
             ]
         },
         {
-            "id": "Wind-Tossed Spell",
-            "name": "Wind-Tossed Spell",
-            "description": "<p>Vous améliorez votre sort avec de l'air élémentaire, en utilisant le vent pour trouver votre cible et transporter votre magie au delà des abris.</p>\n<p>Si votre prochaine action consiste à Lancer un sort qui nécessite un jet d'attaque de sort spell attack roll, vous ignorez l'état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} de la cible et tout abri qu'elle pourrait avoir vis-à-vis de vous.</p>\n<p>Le sort obtient le trait air.</p>"
-        },
-        {
             "id": "Rat Form",
             "name": "Rat Form",
             "description": "<p>Vous pouvez vous transformer un un rat apparemment inoffensif pour reconnaître une zone ou vous glisser au travers de petits passages.</p>\n<p>Vous obtenez les effets du sort @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible} de niveau 1 sauf que vous devez prendre la forme de bataille d'un Très petit rat.</p>"
@@ -16561,16 +16621,6 @@
             "prereq": [
                 {
                     "value": "Vous avez une capacité de classe de lancement de sort avec la tradition divine ou primordiale"
-                }
-            ]
-        },
-        {
-            "id": "Sheltering Cave",
-            "name": "Sheltering Cave",
-            "description": "<p><strong>Conditions</strong> Vous vous tenez sur un sol composé de pierre, de terre ou d'un matériau similaire.</p>\n<hr />\n<p>Vous passez 10 minutes à communier avec les esprits de la terre et de la pierre, sollicitant un abri. À la fin de cette durée, la terre se dresse et s'ouvre, formant une petite grotte ou une motte de terrede 6 m de diamètre et de 3 m de faut. Cette grotte possède le trait structure et a les mêmes restrictions que les structures créées par les objets magiques. La grotte possède une entrée unique et foufnit un abri contre les éléments.</p>\n<p>La grotte persiste pendant 12 heures ou jusqu'à ce que vous passiez 10 minutes en amadouant la terre pour qu'elle se referme.</p>",
-            "prereq": [
-                {
-                    "value": "ordre de la pierre"
                 }
             ]
         },
@@ -18860,16 +18910,6 @@
             ]
         },
         {
-            "id": "Investigator's Stratagem",
-            "name": "Investigator's Stratagem",
-            "description": "<p>Vous simulez les combats dans votre tête, vous permettant de @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frapper} au bon moment. Vous obtenez l'action @Compendium[pf2e.actionspf2e.m0f2B7G9eaaTmhFL]{Concevoir un stratagème} ; quoi qu'il en soit, lorsque vous substituez son résultat à votre jet d'attaque, vous ne pouvez utiliser votre modificateur d'Intelligence au lieu de votre modificateur de Force ou de Dextérité.</p>\n<p>Vous ne pouvez pas davantage utiliser votre modificateur d'Intelligence sur d'autres jets provenant de capacités qui sont une extension de Concevoir un Stratagème, tel que le don @Compendium[pf2e.feats-srd.Tu1hOEr6Ko9Df54L]{Stratège athlétique}.</p>",
-            "prereq": [
-                {
-                    "value": "Dévouement d'enquêteur"
-                }
-            ]
-        },
-        {
             "id": "Greater Physical Evolution",
             "name": "Greater Physical Evolution",
             "description": "<p>Vous avez une compréhension fondamentale des structures innées du monde physique et vous pouvez imposer votre volonté à cette structure en ce qui concerne votre propre sang.</p>\n<p>Une fois par jour, vous pouvez utiliser un emplacement de sort d'ensorceleur pour lancer n'importe quel sort courant de métamorphose ayant une forme de combat du niveau de l'emplacement du sort comme s'il s'agissait d'un sort emblématique de votre répertoire.</p>\n<p>Si vous avez Évolution Arcanique, vous pouvez également choisir n'importe quel sort de forme de combat de votre livre de sorts.</p>\n<p>Si vous avez Évolution Primordiale, vous pouvez Lancer un sort figurant dans ce don en utilisant l'emplacement de sort supplémentaire que le don vous accorde (au lieu d'un emplacement de sort d'ensorceleur).</p>",
@@ -19438,6 +19478,16 @@
             "id": "Swift Banishment",
             "name": "Swift Banishment",
             "description": "<p><strong>Déclencheur</strong> Vous infligez un coup critique à une créature qui n’est pas sur son plan d’origine.</p>\n<p><strong>Conditions</strong> Vous avez préparé un sort de bannissement</p>\n<hr />\n<p>La puissance de vos coups renvoie votre adversaire vers son plan d’origine. Vous dépensez un sort @Compendium[pf2e.spells-srd.bay4AfSu2iIozNNW]{Bannissement} que vous avez préparé et qui affecte la créature à laquelle vous avez infligé un coup critique sans avoir à lancer le sort. La créature peut tenter de résister comme à l’accoutumée.</p>"
+        },
+        {
+            "id": "Wave Spiral",
+            "name": "Wave Spiral",
+            "description": "<p><strong>Fréquence</strong> une fois par minute</p>\n<p><strong>Conditions</strong> Vous êtes dans la posture de l'onde réfléchissante.</p>\n<hr />\n<p>You dip and spin, relâchant un large tourbillon d'eau. Faites un test d'Athlétisme pour faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} à chaque créature se tenant sur le sol dans une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"10\">émanation de 3 m</span>.</p>\n<p>Ces attaques sont toutes prises en compte vis-à-vis de votre pénalité d'attaques multiples, mais la pénalité n'augmente pas tant que vous n'avez pas accompli toutes les attaques.</p>",
+            "prereq": [
+                {
+                    "value": "Posture de l'onde réfléchissante"
+                }
+            ]
         },
         {
             "id": "Implausible Purchase (Rogue)",
@@ -20285,19 +20335,6 @@
             "id": "Magic Sense",
             "name": "Magic Sense",
             "description": "<p>Vous possédez littéralement un sixième sens pour la magie ambiante à proximité de vous.</p>\n<p>Vous pouvez sentir la présence des auras magiques comme si vous utilisiez constamment le sort de niveau 1 @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie}. Cela détecte la magie présente uniquement dans votre champ de vision.</p>\n<p>Lorsque vous @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Cherchez}, vous obtenez les avantages du de Détection de la magie au niveau 3 sur les choses que vous voyez (en plus des avantages normaux de Chercher). Vous pouvez mettre un terme à ce sens ou l'activer par une action libre au début ou à la fin de votre tour.</p>"
-        },
-        {
-            "id": "Terrain Shield",
-            "name": "Terrain Shield",
-            "description": "<p><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<p><strong>Déclencheur</strong> Une Frappe devrit bous blesser.</p>\n<p><strong>Conditions</strong> Vous avez obtenu un avantage d'harmonisation au terrain depuis le début de votre plus récent tour et cette harmonisation correspond au terrain dans lequel vous vous trouvez.</p>\n<hr />\n<p>Vous êtes tellement harmonisé au paysage qu'il se dresse pour vous protéger d'un coup potentiellement fatal par une sorte de coïncidence. Par exemple, une branche chute soudainement d'un arbre proche pour subir le choc d'un coup d'épée ou un changement de courant soudain interrompt l'attaque de votre ennemi. Vous obtenez une résistance aux dégâts physiques égaux au double de votre niveau contra la Frappe déclencheuse.</p>",
-            "prereq": [
-                {
-                    "value": "Dévouement géomancien"
-                },
-                {
-                    "value": "maître en Nature"
-                }
-            ]
         },
         {
             "id": "Annihilating Swing",
@@ -23383,6 +23420,11 @@
             ]
         },
         {
+            "id": "Canny Acumen (Reflex)",
+            "name": "Canny Acumen (Reflex)",
+            "description": "<p>Votre prévention ou observation est hors de portée de la plupart des membres de votre profession. Vous devenez expert en jets de Réflexes. Au niveau 17, vous devenez maître dans ce même choix.</p>"
+        },
+        {
             "id": "Shore Step",
             "name": "Shore Step",
             "description": "<p>Les hauts-fonds et les mares résiduelles laissées par la marée vous ont toujours appelées et vous ont toujours laissé passer sans encombre. Vous ignorez le terrain difficile lié aux eaux peu profondes.</p>\n<p>De plus, si vous obtenez un succès sur un test d'Acrobaties pour @Compendium[pf2e.actionspf2e.M76ycLAqHoAgbcej]{Garder l'équilibre} sur une surface humide ou glissante ou à un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous obtenez un succès critique à la place.</p>",
@@ -23972,6 +24014,11 @@
                     "value": "qualifié en Arcanes"
                 }
             ]
+        },
+        {
+            "id": "Summoner's Call",
+            "name": "Summoner's Call",
+            "description": "<p><strong>Déclencheur</strong> Vous ou votre eidolon subissez des dégâts d'un ennmi ou d'un piège.</p>\n<p><strong>Conditions</strong> Votre eidolon est manifesté à plus de 1,5 m.</p>\n<hr />\n<p>dans un moment de danger, vous appelez votre eidolon à votre côté. Votre eidolon se téléporte sur une case libre qui vous est adjacente.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don possède le trait correspondant à la tradition de votre eidolon (arcanique, divin, occulte ou primordial).</p>"
         },
         {
             "id": "Combat Reflexes",

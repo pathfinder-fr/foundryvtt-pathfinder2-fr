@@ -78,7 +78,7 @@
         },
         {
             "id": "Urgathoa - Major Curse",
-            "name": "Urgathoa - Major Curse (Ugathoa - Malédiction majeure)",
+            "name": "Urgathoa - Major Curse (Urgathoa - Malédiction majeure)",
             "description": "<p><strong>Malédiction majeure</strong> Urgathoa vous enseigne que les vies inutiles d'esclavage à la mort et la moralité sont destinées à se terminer en tragédies.</p>\n<p>Vous développez une maladie incurable qui vous laisse @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 et incapable de vous déplacer sauf en @Compendium[pf2e.actionspf2e.Tj055UcNm6UEgtCg]{Rampant}. Cette maladie ne progresse jamais au-delà jusqu'à vous tuer, mais elle se transmet à vos amis et à ceux que vous chérissez presque à vue, leur imposant de mourir sous vos yeux avant de se relever comme des morts-vivants venant vous hanter.</p>"
         },
         {
@@ -159,7 +159,7 @@
         {
             "id": "Gorum - Major Boon",
             "name": "Gorum - Major Boon (Gorum - Bénédiction majeure)",
-            "description": "<p><strong>Bénédiction majeure</strong> Gorum vous nourrit du zèle de ses combattants invincibles, vous permetttant de tirer de votre propre vie la force de poursuivre le combat sans tomber.</p>\n<p>Lorsque vous devriez être réduit à 0 Points de Vie, vous êtes à la place soigné de la moitié de votre nombre de Points de Vie maximum et devenez @Compendium[pf2e.conditionspf2e.3uh1r86TzbQvosxv]{Condamné} 1 (ou votre condition Condamné augmente de 1).</p>"
+            "description": "<p><strong>Bénédiction majeure</strong> Gorum vous nourrit du zèle de ses combattants invincibles, vous permetttant de tirer de votre propre vie la force de poursuivre le combat sans tomber.</p>\n<p>Lorsque vous devriez être réduit à 0 Points de Vie, vous êtes à la place soigné de la moitié de votre nombre de Points de Vie maximum et devenez @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 1 (ou votre condition Condamné augmente de 1).</p>"
         },
         {
             "id": "Shelyn - Major Curse",
@@ -169,7 +169,7 @@
         {
             "id": "Asmodeus - Major Curse",
             "name": "Asmodeus - Major Curse (Asmodéus - Malédiction majeure)",
-            "description": "<p><strong>Malédiction majeure</strong> Asmodéus a pris note du chaos que vous avez semé.</p>\n<p>Vous recevez une antique blessure que vous ressentez comme plus ancienne que le temps lui-même. Vous devenez @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 4 de manière permanente et rien de plus faible qu'une autre intercession peut vous permettre de retirer cette condition.</p>\n<p>Votre blessure vous fait souffrir férocement à chaque fois que vous accomplissez un acte particulièrement chaotique, vous rendant alors @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1.</p>"
+            "description": "<p><strong>Malédiction majeure</strong> Asmodéus a pris note du chaos que vous avez semé.</p>\n<p>Vous recevez une antique blessure que vous ressentez comme plus ancienne que le temps lui-même. Vous devenez @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 4 de manière permanente et rien de plus faible qu'une autre intercession peut retirer cette condition.</p>\n<p>Votre blessure vous fait souffrir férocement à chaque fois que vous accomplissez un acte particulièrement chaotique, vous rendant alors @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1.</p>"
         },
         {
             "id": "Gozreh - Major Boon",
@@ -394,12 +394,12 @@
         {
             "id": "Zon-Kuthon - Moderate Curse",
             "name": "Zon-Kuthon - Moderate Curse (Zon-Kuthon - Malédiction modérée)",
-            "description": "<p><strong>Malédiction modérée</strong> Vous partagez la douleur des autres et même des blessures mineures vous prcurent une douleur incroyable.</p>\n<p>À chaque fois que vous voyez (ou sentez) qu'une créature subit des blessures, vous subissez [[/r 1d6]] de dégâts mentaux.</p>\n<p>Chaque fois que vous subissez des dégâts autrement que par la première partie de cette malédiction, vous prenez [[/r 1d6]] dégâts mentaux dus à une douleur accrue et êtes @Compendium[pf2e.conditionspf2e.fesd1n5eVhpCSS18]{Malade} 1.</p>\n<p>Les dégâts mentaux de cette malédiction ignorent toute résistance aux dégâts mentaux que vous pouvez posséder.</p>"
+            "description": "<p><strong>Malédiction modérée</strong> Vous partagez la douleur des autres et même des blessures mineures vous prcurent une douleur incroyable.</p>\n<p>À chaque fois que vous voyez (ou sentez) qu'une créature subit des blessures, vous subissez [[/r 1d6]] dégâts mentaux.</p>\n<p>Chaque fois que vous subissez des dégâts autrement que par la première partie de cette malédiction, vous prenez [[/r 1d6]] dégâts mentaux dus à une douleur accrue et êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1.</p>\n<p>Les dégâts mentaux de cette malédiction ignorent toute résistance aux dégâts mentaux que vous pouvez posséder.</p>"
         },
         {
             "id": "Lamashtu - Major Boon",
             "name": "Lamashtu - Major Boon (Lamashtu - Bénédiction majeure)",
-            "description": "<p><strong>Bénédiction majeure (Quotidienne)</strong> Lamashtu utilise votre corps pour enfanter un nouveau monstre, quel que soit votre genre.</p>\n<p>Une fois par jour, vous pouvez passer 1 minute pour donner naissance à un monstre déterminé par le MJ, qui s'arrache de votreventre. Le niveau du monstre peut aller jusqu'à votre niveauet il se comporte comme il le souhaite, selon le bon vouloir de Lamashtu, bien qu'il ne vous attaque pas à moins que vous ne perdiez sa faveur. Vous êtes @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 3 du fait de l'épreuve.</p>"
+            "description": "<p><strong>Bénédiction majeure (Quotidienne)</strong> Lamashtu utilise votre corps pour enfanter un nouveau monstre, quel que soit votre genre.</p>\n<p>Une fois par jour, vous pouvez passer 1 minute pour donner naissance à un monstre déterminé par le MJ, qui sort de lui-même votre ventre. Le niveau du monstre peut aller jusqu'à votre niveau et il se comporte comme il le souhaite, selon le bon vouloir de Lamashtu, bien qu'il ne vous attaque pas, à moins que vous ne perdiez sa faveur. Vous êtes @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 3 du fait de l'épreuve.</p>"
         },
         {
             "id": "Lamashtu - Minor Curse",
@@ -414,7 +414,7 @@
         {
             "id": "Gorum - Major Curse",
             "name": "Gorum - Major Curse (Gorum - Malédiction majeure)",
-            "description": "<p><strong>Malédiction majeure</strong> Vous êtes incapable de faire face aux rigueurs du combat. Au moment où un combat éclate, vous devenez @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1. À la fin de chacun de vos tours, votre condition @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} augmente de 1. Ces conditions se termine seulement lorsque vous n'êtes plus en combat.</p>"
+            "description": "<p><strong>Malédiction majeure</strong> Vous êtes incapable de faire face aux rigueurs du combat. Au moment où un combat éclate, vous devenez @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1. À la fin de chacun de vos tours, votre condition @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} augmente de 1. Ces conditions se terminent seulement lorsque vous n'êtes plus en combat.</p>"
         },
         {
             "id": "Cayden Cailean - Major Curse",
@@ -434,7 +434,7 @@
         {
             "id": "Rovagug - Minor Curse",
             "name": "Rovagug - Minor Curse (Rovagug - Malédiction mineure)",
-            "description": "<p><strong>Malédiction mineure</strong> Lorsque vous êtes emprisonné, vous thrash and shake lorsque votre esprit se remplit de désespoir.</p>\n<p>Chaque fois que vous êtes entravé ou autrement emprisonné (comme lorsque vous êtes envoyé en prison), vous êtes aussi @Compendium[pf2e.conditionspf2e.i3OJZU2nk64Df3xm]{Maladroit} 2 et @Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]{Stupéfié} 2.</p>"
+            "description": "<p><strong>Malédiction mineure</strong> Lorsque vous êtes emprisonné, vous thrash and shake lorsque votre esprit se remplit de désespoir.</p>\n<p>Chaque fois que vous êtes entravé ou autrement emprisonné (comme lorsque vous êtes envoyé en prison), vous êtes aussi @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2 et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 2.</p>"
         },
         {
             "id": "Iomedae - Moderate Boon",
@@ -519,7 +519,7 @@
         {
             "id": "Pharasma - Major Curse",
             "name": "Pharasma - Major Curse (Pharasma - Malédiction majeure)",
-            "description": "<p><strong>Malédiction majeure</strong> Pharasma veut la fin de votre vie et de votre lignée. Vous devenez incapable d'avoir des enfants (ou de procréer autrement, par quelque moyen que ce soit, y compris les capacités de créer des rejetons) et êtes définitivement @Compendium[pf2e.conditionspf2e.3uh1r86TzbQvosxv]{Condamné} 2.</p>"
+            "description": "<p><strong>Malédiction majeure</strong> Pharasma veut la fin de votre vie et de votre lignée. Vous devenez incapable d'avoir des enfants (ou de procréer autrement, par quelque moyen que ce soit, y compris les capacités de créer des rejetons) et êtes définitivement @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 2.</p>"
         },
         {
             "id": "Calistria - Moderate Curse",

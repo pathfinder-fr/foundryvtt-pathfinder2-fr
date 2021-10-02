@@ -1,19 +1,12 @@
 # État de la traduction (familiar-abilities)
 
- * **officielle**: 8
+ * **officielle**: 9
  * **libre**: 26
- * **changé**: 1
 
 
-Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-10-02 12:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[01-C16JgmeJJG249WXz.htm](familiar-abilities/01-C16JgmeJJG249WXz.htm)|Mask Freeze|Masque figé|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -29,6 +22,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-A0C86V3MUECpX5jd.htm](familiar-abilities/01-A0C86V3MUECpX5jd.htm)|Amphibious|Amphibie|libre|
 |[01-asOhEdyF8CWFbR96.htm](familiar-abilities/01-asOhEdyF8CWFbR96.htm)|Spellcasting|Incantateur|libre|
 |[01-BXssJhTJjKrfojwG.htm](familiar-abilities/01-BXssJhTJjKrfojwG.htm)|Fast Movement: Land|Déplacement rapide : Au sol|libre|
+|[01-C16JgmeJJG249WXz.htm](familiar-abilities/01-C16JgmeJJG249WXz.htm)|Mask Freeze|Masque figé|officielle|
 |[01-cT5octWchU4gjrhP.htm](familiar-abilities/01-cT5octWchU4gjrhP.htm)|Manual Dexterity|Dextérité manuelle|officielle|
 |[01-dWTfO5WbLkD5mw2H.htm](familiar-abilities/01-dWTfO5WbLkD5mw2H.htm)|Climber|Grimpeur|officielle|
 |[01-FcQQLMAJMgOLjnSv.htm](familiar-abilities/01-FcQQLMAJMgOLjnSv.htm)|Resistance|Résistance|libre|

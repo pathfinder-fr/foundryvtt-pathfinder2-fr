@@ -12,6 +12,11 @@
             "description": "<p>Vous effectuez un test de compétence pour tenter de vous rappeler une information à propos d’un sujet correspondant à une compétence. Le MJ détermine le DD de ces tests et la compétence applicable.</p>\n<p>La compétence <strong>Nature</strong> peut être utilisée pour Se souvenir et obtenir des informations sur les sujets suivants : environnement, flore, géographie, climat, créatures d’origine naturelle et plans naturels.</p>\n<p>Dans certains cas, le MJ peut vous autoriser à utiliser une compétence différente mais elle aussi apparentée, généralement contre un DD plus élevé que la normale. Certains sujets peuvent apparaître plusieurs fois dans les listes mais les compétences peuvent chacune fournir des informations différentes. Par exemple, Arcanes pourrait vous permettre d’en savoir plus sur les défenses magiques d’un golem, là où Artisanat pourrait vous informer sur sa résistance impressionnante contre les attaques physiques.</p>\n<p>Le MJ peut vous autoriser à faire des tests pour Se souvenir en utilisant d’autres compétences. Par exemple, vous pourriez évaluer le talent d’un acrobate en utilisant Acrobaties. Si vous utilisez une compétence physique (comme dans cet exemple), il est fort probable que le MJ vous demande d’appliquer une valeur de caractéristique mentale — le plus souvent l’Intelligence — au lieu de la valeur de caractéristique physique normalement associée à la compétence.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous vous souvenez avec précision de l'information nécessaire et obtenez des informations ou du contexte supplémentaires.</p>\n<p><strong>Succès</strong> Vous vous souvenez avec précision de l'information nécessaire ou obtenez un indice utile sur votre situation actuelle.</p>\n<p><strong>Échec critique</strong> Vous vous souvenez d'une information inexacte ou obtenez un indice faux ou trompeur.</p>\n<hr />\n<h2 class=\"title\">Se souvenir : exemple de tâches</h2>\n<p>Ces exemples utilisent Société et Religion.</p>\n<ul>\n<li><strong>Inexpérimenté</strong> le nom d'un souverain, d'un noble prépondérant ou d'une divinité majeure</li>\n<li><strong>Qualifié</strong> la ligne de succession d'une famille noble majeure, les principaux préceptes d'une divinité majeure</li>\n<li><strong>Expert</strong> la généalogie d'un noble mineur, les enseignements d'un ancien prêtre</li>\n<li><strong>Maître</strong> la hiérarchie au sein de la cour d'un génie noble, les temples extraplanaires majeurs d'une divinité</li>\n<li><strong>Légendaire</strong> l'existence d'un héritier d'une famille noble depuis longtemps disparue, les préceptes secrets d'une religion</li>\n</ul>"
         },
         {
+            "id": "Draconic Frenzy",
+            "name": "Draconic Frenzy",
+            "description": "<p>Votre eidolon fait une Frappe avec leur attaque à mains nues primaire et deux Frappes avec leurs attaques à mains nues secondaires (dans n'importe quel ordre). Si n'importe laquelle de ses attaques touche de manière critique un ennemi, votre eidolon récupère instantanément l'utilisation de son Arme de souffle.</p>"
+        },
+        {
             "id": "Raise a Shield",
             "name": "Raise a Shield",
             "description": "<p><strong>Conditions</strong> Vous maniez un bouclier.</p>\n<hr />\n<p>Vous levez votre bouclier pour vous protéger. Quand vous avez Levé un bouclier, vous ajoutez le bonus de circonstances indiqué dans son profil à votre CA. Votre bouclier reste levé jusqu’au début de votre prochain tour.</p>\n<p>@Compendium[pf2e.action-macros.4hfQEMiEOBbqelAh]{Lever un bouclier}</p>"
@@ -32,9 +37,19 @@
             "description": "<p><strong>Conditions</strong>  Vous disposez d’une réserve de focalisation et vous avez dépensé au moins 1 point de focalisation depuis la dernière fois que vous avez récupéré vos points de focalisation.</p>\n<hr />\n<p>Vous passez 10 minutes à accomplir des actes permettant de restaurer votre connexion magique, ce qui rend 1 point de focalisation à votre réserve. Ces actes sont décrits avec la classe ou le pouvoir qui vous a donné vos sorts focalisés. Ils se recoupent souvent avec d’autres tâches liées à l’origine de vos sorts focalisés.</p>\n<p>Par exemple, un prêtre qui reçoit ses sorts focalisés de la part d’une divinité bonne peut généralement utiliser Refocaliser pendant qu’il soigne les plaies de ses alliés tandis qu’un magicien de l’école de l’illusion pourrait se Refocaliser en tentant d’@Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifier de la magie} issue de l’école de l’illusion.</p>"
         },
         {
+            "id": "Primal Roar",
+            "name": "Primal Roar",
+            "description": "<p>Votre eidolon relâche un rugissement primal ou un autre bruit terrifiant qui correspond à la forme de votre eidolon. Votre eidolon fait un test d'Intimidation pour @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} chaque ennemi qui peut entendre le rugissement ; Ces tentatives pour Démoraliser ne subissent pas les pénalités provoquées par le fait de ne pas partager un même langage.</p>"
+        },
+        {
             "id": "Drain Bonded Item",
             "name": "Drain Bonded Item",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Conditions</strong> Vous n'avez pas encore agi à votre tour.</p>\n<hr />\n<p>Vous dépensez la puissance contenue dans votre objet lié, ce qui vous permet de lancer, sans dépenser d’emplacement, un sort que vous avez préparé pour la journée et déjà lancé. Vous devez tout de même Lancer le sort et remplir ses autres conditions.</p>"
+        },
+        {
+            "id": "Arcane Cascade",
+            "name": "Arcane Cascade",
+            "description": "<p><strong>Conditions</strong> Vous avez utilisé votre plus récente action pour Lancer un sort ou effectuer une Frappe de sort.</p>\n<hr />\n<p>Vous détournez une partie de la puissance magique du sort pour la faire circuler dans votre corps et votre arme en utilisant des formes spécialisées, la respiration ou le jeu de jambes. Lorsque vous êtes dans cette position, vos coups de mêlée infligent [[/r 1 #dégât]]{1 dégât supplémentaire}. Ces dégâts passent à 2 si vous avez une spécialisation avec les armes et à 3 si vous avez une spécialisation avec les armes supérieure. Toute Frappe qui bénéficie de ces dégâts obtient le trait arcanique, ce qui la rend magique.</p>\n<p>Si votre dernier sort avant d'entrer dans la posture était un sort qui peut infliger des dégâts, les dégâts de la posture sont du même type que ceux que le sort pouvait infliger (ou d'un type de votre choix si le sort pouvait infliger plusieurs types de dégâts). Si le sort ne pouvait pas infliger de dégâts, le bonus de dégâts de cette posture dépend de l'école du sort.</p>\n<ul>\n<li><strong>Abjuration</strong> ou <strong>évocation</strong> force</li>\n<li><strong>Invocation</strong> ou <strong>transmutation</strong> même type que votre arme ou attaque à mains nues</li>\n<li><strong>Divination</strong>, <strong>enchantment</strong> ou <strong>illusion</strong> mental</li>\n<li><strong>Nécromancie</strong> négatif</li>\n</ul>"
         },
         {
             "id": "Liberating Step",
@@ -45,6 +60,11 @@
             "id": "De-Animating Gestures (False)",
             "name": "De-Animating Gestures (False)",
             "description": "<p>Vous désignez une unique créature mécanique dans les 9 m que vous pouvez voir. La créature mécanique est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Accélérée 1} durant 1 minute et est temporairement immunisée à cette capacité pendant 24 heures. Elle peut utiliser l'action supplémentaire uniquement pour Marcher rapidement ou Frapper.</p>"
+        },
+        {
+            "id": "Thundering Roar",
+            "name": "Thundering Roar",
+            "description": "<p>La cible relâche une puissante vocalisation. Chaque ennemi dans une émanation de 3 m subit 4d8 dégâts de son avec un jet de Volonté basique contre votre DD de sort. Une créature qui obtient un échec à son jet de Volonté est aussi @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 1}.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> Les dégâts du Rugissement augmentent de 2d8.</p>"
         },
         {
             "id": "Recall Knowledge (Arcana)",
@@ -92,6 +112,11 @@
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Une créature qui possède du sang et n'est pas à son maximum de Points de vie vous touche avec une Frappe au corps à corps.</p>\n<hr />\n<p><strong>Effet</strong> Vous canalisez du sel et de la saumure provenant de votre sang pour les verser sur les blessures de la créature. La créature doit tenter un jet de Vigueur en utilisant le plus élevé entre votre DD de classe et votre DD de sort. En cas d'échec, la créature subit [[/r 1d6 #acide persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts d'acide persistants} et est rendue @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 par la douleur. En cas d'échec critique, elle subit à la place [[/r 2d6 #acide persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts d'acide persistant} est est Malade 2.</p>"
         },
         {
+            "id": "Share Senses",
+            "name": "Share Senses",
+            "description": "<p><strong>Conditions</strong> Votre eidolon est manifesté.</p>\n<p>Vous projetez vos sens dans votre eidolon, vous permettant de percevoit à traverslui. Lorsque vous le faites, vous perdez toutes les informations sensorielles de votre propre corps, mais pouvez sentir à travers votre corps d'eidolon jusqu'à 1 minute. Vous pouvez @Compendium[pf2e.actionspf2e.AjLSHZSWQ90exdLo]{Révoquer} cet effet.</p>\n<hr />\n<p><strong>Spécial</strong> Cette action possède le trait correspondant à la tradition de votre eidolon (arcanique, divine, occulte ou primordiale). Votre eidolon peut aussi utiliser cette capacité. Lorsqu'il le fait, cela projette ses sens dans votre corps.</p>"
+        },
+        {
             "id": "Learn a Spell",
             "name": "Learn a Spell",
             "description": "<p><strong>Conditions</strong> Vous avez une capacité de classe d’incantation et le sort que vous voulez apprendre est sur la liste de sorts de votre tradition magique.</p>\n<hr />\n<p>Vous pouvez apprendre un nouveau sort de votre tradition auprès de quelqu’un qui le connaît déjà ou par le biais d’un manuscrit magique comme un grimoire ou un parchemin. Si vous êtes capable d’incanter des sorts de plusieurs traditions, vous pouvez Apprendre un sort de n’importe laquelle de ces traditions mais vous devez utiliser la compétence correspondante pour ce faire. Par exemple, si vous êtes un prêtre avec l’archétype de multiclassage de barde, vous ne pouvez pas utiliser Religion pour ajouter un sort occulte à votre répertoire de sorts de barde.</p>\n<p>Pour apprendre le sort, vous devez faire ce qui suit :</p>\n<ul>\n<li>Passer une heure par niveau du sort en conversation avec une personne qui connaît le sort ou en possession du manuscrit magique sur lequel il est inscrit.</li>\n<li>Posséder les matériaux dont le prix est indiqué dans le tableau ci-après.</li>\n<li>Effectuer un test de la compétence correspondant à votre tradition (le DD est déterminé par le MJ, celui‑ci étant souvent proche du DD indiqué dans le tableau). Le DD des sorts peu courants ou rares sont plus élevés.</li>\n</ul>\n<p>Si vous avez un grimoire, Apprendre un sort vous permet d’ajouter le sort dans votre grimoire ; si vous préparez les sorts issus d’une liste, le sort appris est ajouté à votre liste ; si vous avez un répertoire de sorts, vous pouvez le sélectionner quand vous ajoutez ou remplacez des sorts.</p>\n<h2>Table : Apprendre un sort</h2>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Niveau de sort</th>\n<th>Prix</th>\n<th>DD</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0 ou 1</td>\n<td>6 po</td>\n<td>18</td>\n</tr>\n<tr>\n<td>2</td>\n<td>6 po</td> \n<td>18</td>\n</tr>\n<tr>\n<td>3</td>\n<td>16 po</td> \n<td>20</td>\n</tr>\n<tr>\n<td>4</td>\n<td>36 po</td> \n<td>23</td>\n</tr>\n<tr>\n<td>5</td>\n<td>70 po</td> \n<td>26</td>\n</tr>\n<tr>\n<td>6</td>\n<td>140 po</td> \n<td>28</td>\n</tr>\n<tr>\n<td>7</td>\n<td>300 po</td> \n<td>31</td>\n</tr>\n<tr>\n<td>8</td>\n<td>650 po</td> \n<td>34</td>\n</tr>\n<tr>\n<td>9</td>\n<td>1.500 po</td> \n<td>36</td>\n</tr>\n<tr>\n<td>10</td>\n<td>7.000 po</td> \n<td>41</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p><strong>Succès critique</strong> Vous dépensez la moitié des matériaux et apprenez le sort.</p>\n<p><strong>Succès</strong> Vous dépensez les matériaux et apprenez le sort.</p>\n<p><strong>Échec</strong> Vous ne parvenez pas à apprendre le sort mais vous pouvez retenter après avoir gagné un niveau. Les matériaux ne sont pas dépensés.</p>\n<p><strong>Échec critique</strong> Comme l’échec, sauf que vous dépensez la moitié des matériaux.</p>"
@@ -127,6 +152,11 @@
             "description": "<p><strong>Déclencheur</strong> Vous effectuez un jet de sauvegarde, qui n'a pas encore été lancé, contre un effet magique.</p>\n<hr />\n<p>Votre résistance ancestrale à la magie vous protège. Vous gagnez un bonus de circonstances de +1 au jet de sauvegarde déclencheur. Si l’effet déclencheur est de nature arcanique, vous gagnez un bonus de +2 à la place.</p>"
         },
         {
+            "id": "Seething Frenzy",
+            "name": "Seething Frenzy",
+            "description": "<p>La fureur de votre eidolon déborde en une frénésie téméraire et hors de contrôle. Lorsqu'il devient frénétique, votre eidolon est affecté par @Compendium[pf2e.spells-srd.HStu2Yhw3iQER9tY]{Booster l'eidolon} et obtient des Points de vie temporaires égaux à votre niveau mais il subit une pénalité de -2 à la CA. Votre eidolon ne peut volontairement mettre un terme à la frénésiee ou commencer une autre frénésie lorsqu'il est frénétique.</p>\n<p>La frénésie dure pendant 1 minute, après laquelle il est @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} pendant 1 minute et ne peut débuter une autre frénésie pendant 1 minute.</p>"
+        },
+        {
             "id": "Fly",
             "name": "Fly",
             "description": "<p><strong>Conditions</strong> Vous avez une Vitesse de vol.</p>\n<hr />\n<p>Vous vous déplacez dans les airs d’une distance maximale égale à votre Vitesse de vol. Vous faites appel aux règles du déplacement à travers un terrain difficile pour vous déplacer vers le haut (verticalement ou en diagonale). Vous pouvez vous diriger verticalement vers le sol de 3 m en dépensant 1,50 m de déplacement. Si vous Volez jusqu’au sol, vous ne subissez pas de dégâts de chute. Vous pouvez utiliser une action pour Voler sur une distance de 0 m afin de faire du vol stationnaire. Si vous êtes dans les airs à la fin de votre tour et que vous n’avez pas utilisé d’action pour Voler lors de ce tour, vous chutez.</p>"
@@ -157,9 +187,19 @@
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Au début de votre tour</p>\n<p><strong>Effet</strong> Vous êtes @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accéléré}. Vous pouvez utiliser votre action supplémentaire pour Marcher rapidement.</p>"
         },
         {
+            "id": "Divert Lightning",
+            "name": "Divert Lightning",
+            "description": "<p><strong>Conditions</strong> Vous n'êtes pas immunisé à l'électricité ;</p>\n<p><strong>Déclencheur</strong> Une créature dans les 9 m de vous est ciblée par un effet d'électricité ou est dans la zone d'un effet d'électricité.</p>\n<hr />\n<p><strong>Effet</strong> Vous attirez l'électricité à vous comme un paratonnerre en vue de  protéger la cible. Si l'effet déclencheur a une cible, il vous cible à la place de la créature déclencheuse. Si c'était un effet de zone, il bondit de la créature déclencheuse pour remplir votre case à la place. Cela ne détourne pas la foudre d'autres créatures ciblées par ou dans la zone de la foudre. Vous êtes automatiquement touchée par ou obtenez un échec automatique à votre jet de sauvegarde contre l'effet. Vous ne pouvez pas détourner la foudre pendant [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+        },
+        {
             "id": "High Jump",
             "name": "High Jump",
             "description": "<p>Vous Marchez rapidement, puis vous Bondissez à la verticale et effectuez un test d’<span data-pf2-action=\"highJump\" data-pf2-glyph=\"D\">Athlétisme</span> DD 30 pour augmenter la hauteur de votre saut. Si vous ne prenez pas un élan d’au moins 3 m avec l’action Marcher rapidement, vous ratez automatiquement votre test. Le MJ peut augmenter ou diminuer ce DD en fonction des situations.</p>\n<hr />\n<p><strong>Succès critique</strong> Augmentez la distance verticale maximale à 2,40 m, ou la distance verticale maximale à 1,50 m et la distance horizontale maximale à 3 m.</p>\n<p><strong>Succès</strong> Augmentez la distance verticale maximale à 1,50 m.</p>\n<p><strong>Échec</strong> Vous Bondissez normalement.</p>\n<p><strong>Échec critique</strong> Vous ne parvenez pas à Bondir et tombez @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{à terre} dans votre case à la place.</p>"
+        },
+        {
+            "id": "Learn Name",
+            "name": "Learn Name",
+            "description": "<p>Vous passez une semaine à essayer de découvrir et à apprendre le nom d'une créature. La forme exacte de votre effort varie en fonction de la compétence que vous utilisez, des ressources dont vous disposez et d'autres circonstances. Décidez si vous recherchez le nom d'un individu spécifique ou des noms en général. Si vous recherchez le nom d'un individu, vous devez être en mesure de l'identifier clairement ; par exemple, \"le général qui a dirigé l'invasion\" est suffisant mais \"la personne qui a tué la duchesse\" ne l'est pas, si vous ne savez pas qui a tué la duchesse. Si vous recherchez des noms de manière plus générale, nommez un type de créature.</p>\n<p>Le MJ choisit un DD, généralement basé sur le niveau de la créature en question. Si vous cherchez des noms de manière plus générale, le DD est généralement basé sur le niveau de la créature dont le MJ décide de fournir le nom, généralement une créature du type choisi de votre niveau ou inférieur. Le MJ peut modifier le DD de la tâche en fonction des ressources dont vous disposez, de l'utilisation d'une compétence inhabituellement appropriée ou inappropriée ou d'autres circonstances. Tentez un test avec une compétence qui pourrait être utilisée pour rappeler des connaissances sur le type de la créature. Après avoir tenté d'Apprendre un nom, vous ne pouvez généralement pas réessayer d'apprendre le nom du même individu, à moins d'avoir accès à une nouvelle source d'information substantielle, à l'appréciation du MJ.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous trouvez un ou plusieurs noms privés de l'individu spécifique que vous avez choisi ou le nom privé d'une créature avec le type que vous avez choisi et un niveau égal au niveau de la tâche. Vous trouvez également des fragments cachés de leur nom véritable et, à la discrétion du MJ, vous pouvez trouver un indice menant à une aventure où vous pourrez apprendre le reste du vrai nom.</p>\n<p><strong>Succès</strong> Comme un succès critique, sauf que vous ne trouvez qu'un seul nom privé et ne trouvez pas de fragments cachés de leur nom véritable.</p>\n<p><strong>Échec critique</strong> Si vous cherchiez le nom d'un individu spécifique, vous ne trouvez aucune nouvelle information et cet individu prend conscience de vos efforts. Si vous cherchiez un nom général d'un type spécifique, vous trouvez le nom d'une créature ou des noms susceptibles de vous attirer des ennuis, voire le nom d'un tout autre type de créature.</p>"
         },
         {
             "id": "Release",
@@ -202,9 +242,19 @@
             "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #acide]]{1d6 dégâts d'acide} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #acide]]{Dégâts selon le niveau}</p>"
         },
         {
+            "id": "Dutiful Retaliation",
+            "name": "Dutiful Retaliation",
+            "description": "<p><strong>Déclencheur</strong> Un ennemi à 4,5 m de vous vous touche avec une Frappe et vous inflige des dégâts.</p>\n<p><strong>Conditions</strong> Votre eidolon est dans les 4,5 m de vous.</p>\n<hr />\n<p>Votre eidolon brille instinctivement d'énergie ectoplasmique, lui permettant de Frapper un enemy qui ose vous blesser. Votre eidolon fait une Frappe à mains nues contre l'ennemi déclencheur, même si cet ennemi n'est pas dans l'allonge de votre eidolon.</p>"
+        },
+        {
             "id": "Call to Axis",
             "name": "Call to Axis",
             "description": "<p>Donné par Rite du savoir</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strongConditions</strong> You are about to attempt a check to Recall Knowledge. \n<hr />\n<p>Vous faites appel au savoir d'Axis pour vous assurer de la pertinence de votre information. Vous lancez une deuxième fois et utilisez le meilleur résultat. Si vous obtenez une réussite critique, vous considérez qu'il s'agit d'un échec à la place. Si vous obtenez un succès, vous considérez qu'il s'agit d'un succès critique à la place.</p>"
+        },
+        {
+            "id": "Defend Life",
+            "name": "Defend Life",
+            "description": "<p><strong>Déclencheur</strong> La cible subit des dégâts</p>\n<p><strong>Conditions</strong> Vous êtes à 1,5 km de la cible</p>\n<p><strong>Effet</strong> Après avoir calculé le montant de dégâts que la cible devrait subir (en appliquant les faiblesses, les résistances, etc), vous perdez un nombre égal de Points de vie et la cible ne subit aucun de ces dégâts. Vous ne pouvez réduire le montant des Points de vie que vous perdez de cette manière. La cible subit toujours tous les effets qui devraient survenir avec les dégâts, quoi qu'il en soit, tel que le venin sur une Frappe de crochets d'une vipère.</p>"
         },
         {
             "id": "Soaring Flight",
@@ -232,9 +282,24 @@
             "description": "<p>Vous contrefaites un document, le plus souvent en une journée ou une semaine. Vous devez disposer du matériel d’écriture approprié pour créer une contrefaçon. Quand vous Contrefaites, le MJ fait un test secret de <span data-pf2-check=\"society\" data-pf2-dc=\"20\" data-pf2-traits=\"downtime,secret,action:create-forgery\" data-pf2-label=\"DD de Contrefaire\" data-pf2-show-dc=\"gm\">Société</span> DD 20. Si vous réussissez, la qualité de la contrefaçon est suffisamment bonne pour que des observateurs passifs ne remarquent rien. Seuls les individus qui examinent attentivement le document et font un test de Perception ou de Société contre votre DD de Société peuvent remarquer quelque chose.</p>\n<p>Si vous n’avez pas à reproduire la calligraphie d’une personne en particulier, vous devez simplement avoir déjà vu un document similaire et vous bénéficiez d’un bonus de circonstances de +4 à votre test et d’un bonus à votre DD (que le MJ détermine). Pour imiter la calligraphie d’une personne en particulier, vous devez posséder un document écrit de sa main.</p>\n<p>Si le résultat de votre test est inférieur à 20, la contrefaçon contient quelques signes évidents prouvant que c’est un faux et le MJ compare votre résultat au DD de Perception ou de Société (le plus élevé des deux) de chaque observateur passif, en appliquant les conséquences d’un succès ou d’un échec décrits ci‑après. Une fois que la MJ a fait votre test pour un document, le même résultat est comparé au DD de tous les observateurs passifs, quel que soit le nombre de créatures qui observent de manière passive ce document.</p>\n<p>Un observateur qui n’a rien remarqué en observant un document de manière passive peut toujours décider d’examiner de plus près les documents pour y déceler une supercherie, en utilisant diverses méthodes techniques et analytiques pour examiner au‑delà des éléments extérieurs que vous avez réussi à contrefaire avec votre test d’origine. Le cas échéant, l’observateur peut faire un test de Perception ou de Société contre votre DD de Société (s’il le réussit, il sait que votre document est contrefait).</p>\n<hr />\n<p><strong>Succès</strong> L’observateur ne détecte pas la contrefaçon.</p>\n<p><strong>Échec</strong> L’observateur sait que votre document est une contrefaçon.</p>"
         },
         {
+            "id": "Field of Roots",
+            "name": "Field of Roots",
+            "description": "<p>Votre eidolon étend ses racines souterraines pour enchevêtrer et possiblement endommager tous les adversaires proches. Tous les ennemis à portée d'allonge de votre eidolon subissent des dégâts du même type et d'un montant égal à la Frappe la plus puissante de votre eidolon, en fonction de leur jet de Réflexes. Tout effet en cours du jet de sauvegarde dure jusqu'à ce que l'ennemi soit s'Échappe, soit uitte la portée de votre eidolon.</p>\n<p>Après avoir utilisé Champ de racines, votre eidolon est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} jusqu'à ce qu'il dépense une unique action qui a le trait manipultion pour se détacher du sol ; cela met un terme à tous les effets sur les ennemis de Champ de racines.</p>\n<hr />\n<p><strong>Succès critique</strong> L'ennemi n'est pas affecté.</p>\n<p><strong>Succès</strong> L'ennemi ne subit pas de dégâts, mais subit une pénalité de circonstances de -3 m à ses Vitesses.</p>\n<p><strong>Échec</strong> L'ennemi subit la moitié des dégâts, subit une pénalité de circonstances de - 3 m à ses Vitesses et, à la fin de chacun de ses tours, subit de noueau demi-dégâts.</p>\n<p><strong>Échec critique</strong> L'ennemi est immobilisé, subit la totalité des dégâts et, à la fin de chacun de ses tours, subit de nouveau la totalité des dégâts.</p>"
+        },
+        {
             "id": "Borrow an Arcane Spell",
             "name": "Borrow an Arcane Spell",
             "description": "<p>Si vous êtes un incantateur arcanique qui prépare ses sorts écrits dans un grimoire, vous pouvez essayer de préparer un sort inscrit dans le grimoire de quelqu’un d’autre. Le MJ fixe le DD du test en fonction du niveau du sort et de sa rareté ; c’est généralement un peu plus simple que d’@Compendium[pf2e.actionspf2e.Q5iIYCFdqJFM31GW]{Apprendre le sort}.\n<hr />\n<p><strong>Succès</strong> Vous préparez le sort emprunté lors de votre préparation normale des sorts.</p>\n<p><strong>Échec</strong>  Vous ne parvenez pas à préparer le sort mais l’emplacement de sort reste disponible pour en préparer un autre. Vous ne pouvez pas tenter de préparer ce sort jusqu’à votre prochaine préparation des sorts.</p>"
+        },
+        {
+            "id": "Whirlwind Maul",
+            "name": "Whirlwind Maul",
+            "description": "<p>Votre eidolon s'élance dans toutes les directions. Il effectue une Frappe à mains nues au corps-à-corps contre un maximum de quatre ennemis à sa portée. Il peut choisir des attaques à mains nues différentes pour chaque ennemi. Chaque Frappe compte dans votre pénalité d'attaques multiples, mais vous n'augmentez pas votre pénalité tant que l'eidolon n'a pas effectué toutes ses attaques.</p>"
+        },
+        {
+            "id": "Life Block",
+            "name": "Life Block",
+            "description": "<p><strong>Déclencheur</strong> La cible du sort devrait subir des dégâts</p>\n<p><strong>Effet</strong> Réduiser les dégâts déclencheurs de 10, mais vous perdez 5 Points de vie. Même si cela réduit à 0 les dégâts, la cible subit toujours tout effet qui devrait être appliqué avec les dégâts, comme le poison sur la Frappe de crochets d'une vipère.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> La réaction réduit les dégâts de 10 et vous perdez 5 Points de vie de plus. Si vous voulez perdre moins de Points de vie, vous pouvez choisir de baisser la réduction de dégâts et les PV perdus à n'importe quelle version inférieur du sort sans pour autant baisser le niveau actuel du sort.</p>"
         },
         {
             "id": "Administer First Aid",
@@ -312,6 +377,16 @@
             "description": "<p><strong>Conditions</strong> Votre Vitesse est d'au moins 3 mètres.</p>\n<hr />\n<p>Vous vous déplacez prudemment de 1,50 mètres. À la différence des autres types de déplacements, Faire un pas ne déclenche pas de réactions comme @Compendium[pf2e.feats-srd.O2MwufzEHbuThoGr]{Attaque d'opportunité}, qui peuvent être déclenchées par des actions de déplacement ou quand vous pénétrez dans une case ou la quittez.</p>\n<p>Vous ne pouvez pas Faire un pas qui vous ferait pénétrer sur un terrain difficile et vous ne pouvez pas Faire un pas en utilisant une autre Vitesse que votre Vitesse au sol.</p>"
         },
         {
+            "id": "Tendril Strike",
+            "name": "Tendril Strike",
+            "description": "<p>S'étirant pour étendre son corps jusqu\"à sa limite, votre eidolon attaque un ennemi qui devrait être normalement au-delà de sa portée. Votre eidolon fait une Frappe à mains nues au corps-à-corps, augmentant son allonge de 1,5 m pour cette Frappe.</p>\n<p>Si l'attaque à mains nues possède le trait désarmer, pousser ou croc-en-jambe, l'eidolon peut utiliser l'action correspondante au lieu d'une Frappe.</p>"
+        },
+        {
+            "id": "Manifest Eidolon",
+            "name": "Manifest Eidolon",
+            "description": "<p>Votre eidolon apparaît dans une case libre qui vous est adjacente et peut alors effectuer une unique action. Si votre eidolon était déjà manifesté, vous le faites disparaître.</p>\n<p>Le conduit qui permet à votre eidolon de se manifester est aussi un lien entre vous. Votre eidolon doit rester dans les 30 m de vous à tout moment et ne peut volontairement aller au delà de cette limite. S'il y est forcé ou si vous êtes réduit à 0 PV, la forme physique de votre eidolon se dissout : votr eidolon disparaît et vous avez besoin d'utiliser de nouveau Manifester l'eidolon pour qu'il se manifeste de nouveau.</p>\n<hr />\n<p><strong>Spécial</strong> Cette activité possède le trait correspondant à la tradition de votre eidolon (arcanique, divine, occulte ou primordiale).</p>"
+        },
+        {
             "id": "Absorb into the Aegis",
             "name": "Absorb into the Aegis",
             "description": "<p><strong>Déclencheur</strong> Un ennemi lance un sort qui vous prend pour cible ou un allié situé à 4,5 m de vous</p>\n<hr />\n<p>Vous interposez la protection de votre bouclier contre le sort. Faites un test de contresort, en utilisant votre modificateur de Religion comme modificateur de contresort. Sur un succès, le sort est contré et votre bouclier subit des dégâts à hauteur de quatre fois le niveau du sort lorsqu'il absorbe et disperse l'énergie magique. Sur un échec, le bouclier subit des dégâts égaux à deux fois le niveau du sort.</p>"
@@ -320,6 +395,11 @@
             "id": "Grab an Edge",
             "name": "Grab an Edge",
             "description": "<p><strong>Déclencheur</strong> Vous chutez depuis un rebord ou une prise ou passez à côté de l'un de ces éléments lors de votre chute.</p>\n<p><strong>Conditions</strong> Vos mains ne sont pas attachées dans votre dos ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravées} d'une quelconque manière.</p>\n<hr />\n<p>Quand vous chutez devant un rebord ou un autre type de prise, vous pouvez tenter de vous y raccrocher afin d’interrompre votre chute. Vous devez pour cela réussir un jet de Réflexes, généralement associé avec un DD pour Escalader. Si vous réussissez à vous raccrocher au rebord ou à la prise, vous pouvez alors Escalader en utilisant la compétence Athlétisme.\n<hr />\n<p><strong>Succès critique</strong> Vous attrapez le rebord ou la prise, sans nécessairement avoir besoin d’avoir une main libre, généralement en utilisant un objet adapté pour vous rattraper (en accrochant la lame d’une hache de bataille sur un rebord, par exemple). Vous subissez quand même les dégâts correspondant à la hauteur de laquelle vous avez chuté, mais vous réduisez cette hauteur de 9 m.</p>\n<p><strong>Succès</strong> Si vous avez au moins une main de libre, vous attrapez le rebord ou la prise et stoppez votre chute. Vous subissez quand même les dégâts correspondant à la hauteur de laquelle vous avez chuté, mais vous réduisez cette hauteur de 6 m. Si vous n’avez aucune main de libre, vous continuez de chuter comme si vous aviez échoué à votre test.</p>\n<p><strong>Échec critique</strong> Vous continuez votre chute et, si vous aviez déjà chuté d’une hauteur supérieure ou égale à 6 m quand vous avez utilisé cette réaction, vous subissez 10 dégâts contondants causés par l’impact pour toute tranche de 6 m de chute.</p>"
+        },
+        {
+            "id": "Spin Tale",
+            "name": "Spin Tale",
+            "description": "<p><strong>Fréquence</strong> une fois toutees les 10 minutes;</p>\n<p><strong>Effet</strong> Vous racontez une histoire, désignant l'un de vos alliés (mais pas vous-même) comme le héros de l'histoire et un ennemi comme le méchant ; les deux doivent se trouver dans un rayon de 18 m. Le héros obtient un bonus de statut de +1 aux jets d'attaque et aux jets de sauvegarde contre le méchant jusqu'au début de votre prochain tour. Si vous brodez un conte à votre prochain tour, l'histoire se poursuit pendant un round supplémentaire, pour un maximum de 10 rounds. Tant que le conte se poursuit, des illusions mineures et grossières apparaissent dans votre case ; ce sont des effets d'illusion arcanique qui n'ont aucun impact mécanique autre que l'illustration de votre conte.</p>\n<p>@Compendium[pf2e.feat-effects.UzIamWcEJTOjwfoA]{Effet: Broder un conte}</p>"
         },
         {
             "id": "Iron Command",
@@ -345,6 +425,11 @@
             "id": "Prove Peace",
             "name": "Prove Peace",
             "description": "<p><strong>Conditions</strong> Vous connaissez le conflit qui a créé un fragment spécifique, et le fragment est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé}.</p>\n<hr />\n<p>Vous touchez le fragment, établissez une connexion mentale et transmettez les faits relatifs à la résolution du conflit.</p>\n<p>Faites un test de @Compendium[pf2e.actionspf2e.B0Eu3EfwIa9kyDEA]{Se souvenir} à propos du conflit qui a créé le fragment, en utilisant le DD de Volonté du fragment. En cas de succès, vous prouvez la fin du conflit, et le fragment redevient une pierre ordinaire. En cas d'échec critique, les images du conflit passé vous submergent et vous êtes @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confus} jusqu'à la fin de votre prochain tour.</p>"
+        },
+        {
+            "id": "Settle Emotions",
+            "name": "Settle Emotions",
+            "description": "<p>Vous passez 10 minutes en utilisant les techniques que vous avez ddéveloppées pour calmer vos émotions et pour les ramener sous contrôle. Cela vous permet d'accéder de nouveau à votre @Compendium[pf2e.actionspf2e.2424g94rpoiN1IPh]{Catharsis}.</p>"
         },
         {
             "id": "Scout",
@@ -392,6 +477,11 @@
             "description": "<p><strong>Prérequis</strong> qualifié en Diplomatie</p>\n<p><strong>Conditions</strong> La cible alliée a perdu des points d'Endurance au cours du dernier round.</p>\n<hr />\n<p>Vous tenez à un allié dans les 9m un bref discours d'encouragement, l'aidant à récupérer. Faites un test de Diplomatie. Le DD est habituellement de 15, bien que le MJ puisse l'ajuster en fonction des circonstances. Si vous êtes expert en Diplomatie, vous pouvez faire un test contre un DD 20 pour augmenter le nombre de points d'Endurance récupérés de 5 ; si vous êtes maître, vous pouvez tenter un test contre un DD 30 pour augmenter le nombre de points d'Endurance de 15 ; si vous êtes légendaire, vous pouvez faire un test contre un DD 40 pour augmenter les points d'Endurance de 25. Quel que soit le résultat, l'allié est temporairement immunisé aux Paroles d'encouragement jusqu'à ce qu'il ait soit @Compendium[pf2e.actionspf2e.qc0VsZ0UesnurUUB]{Repris son souffle} ou qu'il se soit reposé au cours de la journée.</p> \n<hr>\n<p><strong>Succès critique</strong> L'allié récupère <a class=\"inline-roll roll\" title=\"2d8\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"2d8\">2d8 points d'Endurance</a>.</p>\n<p><strong>Succès</strong> L'allié récupère <a class=\"inline-roll roll\" title=\"1d8\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"1d8\">1d8</a> Points d'Endurance.</p>\n<p><strong>Échec critique</strong> L'allié subit <a class=\"inline-roll roll\" title=\"mental\" data-mode=\"roll\" data-flavor=\"mental\" data-formula=\"1d8\">1d8</a> dégâts mentaux, mais cela ne peut que réduire les Points d'Endurance, jamais les Points de Vie.</p>"
         },
         {
+            "id": "Armor Up!",
+            "name": "Armor Up!",
+            "description": "<p><strong>Effet</strong> Vous claquez des doigts. L'armure revient sur votre corps.</p>"
+        },
+        {
             "id": "Warding Sign",
             "name": "Warding Sign",
             "description": "<p><strong>Fréquence</strong> une fois par minute</p>\n<p><strong>Déclencheur</strong> Vous faites un Jet de Sauvegarde contre un effet magique mais vous n'avez pas encore lancé le dé</p>\n<hr />\n<p>Vous faites appel au pouvoir d'un signe de protection mystique qui vous est personnel, qui luit brillament avant de s'évanouir lentement. Vous obtenez un bonus de circonstances de +2 au jet de sauvegarde déclencheur ou de +3 si l'effet provient d'une malédiction.</p>"
@@ -420,6 +510,11 @@
             "id": "Threatening Approach",
             "name": "Threatening Approach",
             "description": "<p>Vous Marchez rapidement jusqu'à être adjacent à une créature et tentez de la @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser}. Si vous réussissez, la créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 2 au lieu d’Effrayée 1.</p>"
+        },
+        {
+            "id": "Beast's Charge",
+            "name": "Beast's Charge",
+            "description": "<p>Votre eidolon se précipite en avant, en utilisant son élan pour augmenter la puissance de son attaque. Votre eidolon Marche précipitamment deux fois puis Frappe. Si l'eidolon s'est déplacé d'au moins 6 m de sa position débutante et s'est déplacé entièrement en droite ligne, elle obtient un bonus de circonstances de +1 à son jet d'attaque.</p>"
         },
         {
             "id": "Shove",
@@ -452,9 +547,19 @@
             "description": "<p>Vous étiez @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} et vous Vous relevez.</p>"
         },
         {
+            "id": "Tap Ley Line",
+            "name": "Tap Ley Line",
+            "description": "<p>Vous essayez de manipuler l'essence magique d'une ligne tellurique dont vous êtes conscient dans les 9 m. Le MJ détermine le DD en fonction du DD difficile pour le niveau de la ligne tellurique.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous obtenez les avantages de la ligne tellurique jusqu'à la fin de votre prochain tour.</p>\n<p><strong>Succès</strong> Vous obtenez les avantages de la ligne tellurique jusqu'à la fin de votre tour.</p>\n<p><strong>Échec</strong> Vous subissez des dégâts mentaux égaux à 1d6 × le niveau de la ligne tellurique . Vous ne pouvez puiser dans la ligne tellurique de nouveau pendant 1 heure.</p>\n<p><strong>Échec critique</strong> Comme l'échec et vous êtes sujette à l'effet de retour de flamme de la ligne tellurique. Vous ne pouvez puiser dans la ligne tellurique de nouveau pendant 24 heures.</p>"
+        },
+        {
             "id": "Steal",
             "name": "Steal",
             "description": "<p>Vous tentez de vous emparez d’un objet que porte une autre créature sans vous faire repérer. Généralement, vous ne pouvez Voler qu’un objet dont l’Encombrement est négligeable et vous ratez automatiquement si la créature qui porte l’objet est en combat ou sur ses gardes.</p>\n<p>Faites un test de Vol pour déterminer si vous réussissez à Voler l’objet. Le DD pour Voler est le plus souvent le DD de Perception de la créature qui porte l’objet. On part du principe que l’objet est porté mais pas surveillé de près (comme une bourse pleine de pièces portée à la ceinture ou un objet dans une telle bourse). Si l’objet est dans une poche ou à l’abri de manière similaire, vous subissez un malus de −5 à votre test de Vol. Le MJ peut augmenter le DD de votre test si la nature de l’objet complique la tentative pour le voler (comme un objet très petit dans un grand sac ou une feuille de parchemin au milieu d’autres documents).</p>\n<p>Il est également possible que vous ayez à comparer le résultat de votre test de Vol aux DD de Perception des observateurs autres que la personne qui porte l’objet. Le MJ peut augmenter les DD de Perception de ces observateurs si leur attention est attirée par autre chose.</p>\n<hr />\n<p><strong>Succès</strong> Vous volez l’objet sans que son détenteur ne s’en aperçoive, ou un observateur ne vous voit pas prendre ou tenter de prendre l’objet.</p>\n<p><strong>Échec</strong> Le détenteur de l’objet remarque votre tentative avant que vous puissiez prendre l’objet ou un observateur vous voit prendre ou tenter de prendre l’objet. Le MJ détermine la réaction des créatures qui remarquent votre larcin.</p>"
+        },
+        {
+            "id": "Sever Conduit",
+            "name": "Sever Conduit",
+            "description": "<p><strong>Déclencheur</strong> Votre eidolon subit des dégâts qui devraient vous amener à 0 Points de vie et vient d'un effet autre qu'un effet de mort ;</p>\n<hr />\n<p><strong>Effet</strong> Vous coupez rapidement votre lien avec votre eidolon, faisant disparaître votre allié de cette existence avant que vous ne puissiez être mis à terre. Votre eidolon disparaît et vous ne pouvez pas manifester votre eidolon pendant 1 minute. En échange, vous ne subissez pas les dégâts déclencheurs mais votre eidolon subit tout de même les autres effets indésirables qui ont accompagné les dégâts.</p>"
         },
         {
             "id": "Recall Knowledge (Lore)",
@@ -512,9 +617,19 @@
             "description": "<p>Vous lancez un sort que vous avez préparé ou qui figure dans votre répertoire. Lancer un sort est une activité spéciale qui demande un nombre d’actions variable en fonction du sort. Ce nombre figure dans le bloc de statistiques de chaque sort. L’effet du sort se produit dès que les actions d’incantation sont accomplies.</p>\n<p>Certains sorts se lancent par réaction ou par une action gratuite. Dans ce cas, Lancer un sort est une réaction ou une action gratuite (selon le cas) et non une activité, comme indiqué dans le bloc de statistiques du sort. Par exemple : [réaction] verbal.</p>\n<p><strong>Longue incantation</strong> Certains sorts prennent des minutes ou des heures à lancer. L’activité Lancer un sort inclut alors un mélange des composants de sorts nécessaires à l’incantation, mais il n’est pas nécessaire de savoir précisément lequel utiliser à quel moment. Lorsque vous lancez un tel sort, vous ne pouvez pas utiliser d’autres actions ou réaction, bien que vous puissiez prononcer quelques phrases si le MJ vous y autorise. Comme toute activité demandant du temps, ces sorts disposent du trait exploration et vous ne pouvez pas les lancer lors d’une rencontre. Si un combat éclate alors que vous êtes en pleine incantation, votre sort est interrompu.</p>\n<p><strong>Composant de sort</strong> Chaque entrée de sort précise la liste des composants nécessaires pour le lancer après l’icône ou le texte d’action : \"[trois actions] matériel, somatique, verbal.\" Les composants de sort, décrits en détail plus loin, ajoutent des traits et des conditions à l’activité Lancer un sort. Si vous êtes dans l’incapacité de fournir les composants, vous ne parvenez pas à Lancer le sort.</p>\n<ul>\n<li>Matériel (manipulation)</li>\n<li>Somatique (manipulation)</li>\n<li>Verbal (concentration)</li>\n<li>Focaliseur (manipulation)</li>\n</ul>\n<p><strong>Sorts interrompus et perdus</strong> Certains sorts et pouvoirs permettent d’interrompre un sort, qui est alors perdu et n’a aucun effet. Quand vous perdez un sort, vous avez déjà dépensé son emplacement de sort, son coût et ses actions et déjà utilisé l’activité Lancer un sort. Si un sort est interrompu lors de l’action @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Maintenir un sort}, alors ce sort se termine de suite.</p>"
         },
         {
+            "id": "That's My Number",
+            "name": "That's My Number",
+            "description": "<p><strong>Déclencheur</strong> Vous lancez votre nombre porte bonheur comme résultat à votre d20 sur un jet d'attaque, un jet de sauvegarde ou un test de compétence non secret</p>\n<hr />\n<p><strong>Effet</strong> Vous faites appel à la chance emmagasiné dans votre nombre porte bonheur et relancez le test déclencheur. Quoi qu'il en soit, pousser votre chance a un coût : si voter résultat sur la relance est le même nombre de nouveau, vous obtenez un échec critique, quel que soit le degré de succès vous devreiz avoir reçu.</p>"
+        },
+        {
             "id": "Decipher Writing",
             "name": "Decipher Writing",
             "description": "<p>Vous tentez de déchiffrer un manuscrit ou une œuvre littéraire complexe abordant un sujet obscur. Il faut généralement y consacrer une minute par page de texte mais la tâche peut parfois s’avérer plus longue (le plus souvent une heure par page pour déchiffrer un code secret ou un écrit similaire). Le texte doit être rédigé dans une langue que vous savez lire, mais le MJ peut vous autoriser à tenter de déchiffrer un texte écrit dans une langue inconnue en utilisant Société à la place.</p>\n<p>Le MJ détermine le DD en prenant en compte l’état du document et la complexité du texte. Il peut vous demander de faire un test pour un texte court ou un test pour chaque section d’un texte plus long.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous comprenez le véritable sens du texte.</p>\n<p><strong>Succès</strong>  Vous comprenez le véritable sens du texte. Si le document était rédigé dans un langage codé, vous comprenez son sens général mais ne parvenez pas à le traduire mot pour mot.</p>\n<p><strong>Échec</strong> Vous ne comprenez pas le texte et subissez un malus de circonstances de −2 aux tests ultérieurs pour le déchiffrer.</p>\n<p><strong>Échec critique</strong> Vous croyez comprendre la page de texte que vous venez de lire mais vous le comprenez, en réalité, de travers.</p>\n<hr />\n<h2 class=\"title\">Déchiffrer un texte : exemples de tâches</h2>\n<ul>\n<li><strong>Qualifié</strong> traité décrivant les notions de base d'une philosophie</li>\n<li><strong>Expert</strong> code complexe de type code secret</li>\n<li><strong>Maître</strong> code de maître-espion ou notes de recherche élaborées</li>\n<li><strong>Légendaire</strong> texte ésotérique sur les plans écrits en métaphores par un ancien céleste</li>\n</ul>"
+        },
+        {
+            "id": "Spellstrike",
+            "name": "Spellstrike",
+            "description": "<p><strong>Fréquence</strong> jusqu'à ce que ce soit rechargé (voir ci-dessous)</p>\n<hr />\n<p>Vous canalisez un sort dans un coup de poing ou un coup d'épée pour délivrer une attaque combinée. Vous Lancez un sort qui nécessite 1 ou 2 actions pour être lancé et qui nécessite un jet d'attaque de sort. Les effets du sort ne surviennent pas immédiatement mais sont incorporés à votre attaque à la place. Faites une Frappe au corps à corps avec une arme ou une attaque à mains nues. Votre sort est combiné à votre attaque, utilise le résultat de votre jet d'attaque pour déterminer à la fois les effets de la Frappe et du sort. Cela compte comme deux attaques pour ce qui concerne votre Pénalité d'attaques multiples mais vous n'appliquez pas cette pénalité avant d'avoir terminé la Frappe de sort. L'incorporation de l'énergie du sort accorde à votre Frappe le trait arcanique, en la rendant magique.</p>\n<p>Après avoir utilisé Frappe de sort, vous ne pouvez pas la réutiliser avant d'avoir rechargé votre Frappe de sort par une action unique, qui a le trait concentration. Vous rechargez aussi votre Frappe de sort lorsque vous utilisez un sort de confluance qui nécessite que vous dépensiez au moins une action pour être lancé ; lancer un sort de focalisation d'un autre type ne recharge pas votre Frappe de sort.</p>"
         },
         {
             "id": "Stop",
@@ -592,6 +707,11 @@
             "description": "<p><strong>Déclencheur</strong> Vous faites un jet d'attaque, un test de compétence ou un jet de sauvegarde en accomplissant le plan d'action de votre incantation du sort @Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure}, mais vous n'avez pas encore lancé le dé.</p>\n<hr />\n<p>Vous obtenez un bonus de statut de +1 au jet déclencheur un de +2 si le résultat de l'augure était “malheur” mais que vous avez néanmoins persisté.</p>"
         },
         {
+            "id": "Overload Vision",
+            "name": "Overload Vision",
+            "description": "<p><strong>Déclencheur</strong> Une créature dans les 18 m devrait faire un jet d'attaque contre vous ;</p>\n<p><strong>Effet</strong> La créature déclencheuse doit tenter un jet de Vigueur.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible est @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} jusqu'à la fin de votre tour actuel.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglée} jusqu'à la fin de votre tour actuel.</p>\n<p><strong>Échec critique</strong> La cible est aveuglée jusqu'à la fin du tour actuel et Éblouie pendant 1 minute.</p>"
+        },
+        {
             "id": "Conceal an Object",
             "name": "Conceal an Object",
             "description": "<p>Vous dissimulez un petit objet sur vous (tel qu’une arme dont l’Encombrement est léger). Quand vous tentez de camoufler un objet sur vous pour que personne ne le remarque, le MJ effectue votre test de Discrétion et compare le résultat au DD de Perception de l’observateur passif. Une fois que le MJ a fait votre test pour un objet dissimulé, ce même résultat est utilisé, quel que soit le nombre d’observateurs passifs qui passent à votre proximité. Si une créature vous fouille pour trouver un objet, elle peut effectuer un test de Perception contre votre DD de Discrétion (l’objet est trouvé en cas de réussite).</p>\n<p>Vous pouvez également dissimuler un objet ailleurs que sur vous, dans un buisson ou dans un compartiment secret à l’intérieur d’un meuble, par exemple. Dans ce cas, les personnes qui Cherchent dans l’endroit où l’objet est dissimulé comparent le résultat de leur test de Perception à votre DD de Discrétion pour déterminer s’ils le trouvent.</p>\n<hr />\n<p><strong>Succès</strong> L'objet n'est pas trouvé.</p>\n<p><strong>Échec</strong> La créature qui cherche trouve l'objet.</p>"
@@ -605,6 +725,11 @@
             "id": "Impersonate",
             "name": "Impersonate",
             "description": "<p>Vous vous confectionnez un déguisement pour vous faire passer pour quelqu’un ou quelque chose d’autre. La confection d’un déguisement convaincant prend dix minutes et nécessite un @Compendium[pf2e.equipment-srd.Jvp0x2Sc82WVpExT]{kit de déguisement}, mais un déguisement plus simple confectionné au pied levé peut faire l’affaire si vous ne voulez pas vous faire passer pour quelqu’un en particulier, à l’appréciation du MJ.</p>\n<p>Dans la plupart des cas, les créatures ont une chance de détecter la supercherie uniquement s’ils utilisent l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour effectuer des tests de Perception contre votre DD de <span data-pf2-action=\"impersonate\">Duperie</span>. Une fois déguisé, si vous tentez d’interagir directement avec une créature, le MJ effectue à la place un test de Duperie secret à votre place contre le DD de Perception de cette créature Si vous vous déguisez en un individu en particulier, le MJ peut conférer aux créatures avec lesquelles vous interagissez un bonus de circonstances en fonction de leur degré d’intimité avec la personne que vous imitez, ou il peut faire un test de Duperie secret, même si vous n’interagissez pas directement avec autrui.</p>\n<hr />\n<p><strong>Succès</strong> La créature que vous dupez est convaincue que vous êtes bien la personne dont vous avez pris l’apparence. Un nouveau test peut être nécessaire si vous changez de comportement.</p>\n<p><strong>Échec</strong> La créature peut affirmer que vous n’êtes pas la personne que vous prétendez être.</p>\n<p><strong>Échec critique</strong> La créature peut affirmer que vous n’êtes pas la personne que vous prétendez être et elle vous reconnaît si elle vous a déjà vu sans déguisement.</p>"
+        },
+        {
+            "id": "Share Life",
+            "name": "Share Life",
+            "description": "<p><strong>Déclencheur</strong> Votre allié lié subit des dégâts et est dans les 18 m ;</p>\n<p><strong>Effect</strong> The ally takes half damage from the triggering effect (rounded down), and you lose a number of Hit Points equal to the remainder of the damage. You can't trigger this reaction to share damage caused by your ally using this reaction.</p>"
         },
         {
             "id": "Interact",
@@ -657,6 +782,11 @@
             "description": "<p>Vous vous déplacez de la moitié de votre vitesse de voyage avec votre bouclier levé. Si un combat éclate, vous profitez des avantages de @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Lever un bouclier} avant le début de votre premier tour.</p>"
         },
         {
+            "id": "Furious Strike",
+            "name": "Furious Strike",
+            "description": "<p>Votre eidolon canalise sa colère en une attaque furieuse. Elle subit une Frappe au corps-à-corps. cela conte comme deux attaques lorsque vous calclurez votre pénalité d'attaques multiples. Si cette frappe touche, votre eidolon inflige un dé supplémentaire de dégâts d'arme et obtient un bonus de circonstance de +1 au jet de dégâts.</p>\n<p>Si vous êtes au moins de niveau 10, augmentez ceci à deux dés supplémentaires avec un bonus de circonstances de +2 et si vous êtes au moins au niveau 18, passez le à trois dés supplémentaires avec un bonus de circonstances de +3.</p>"
+        },
+        {
             "id": "Identify Magic",
             "name": "Identify Magic",
             "description": "<p>Une fois que vous savez qu’un objet, un site ou un effet en cours est magique, vous pouvez passer dix minutes à tenter d’identifier ses spécificités. Si votre tentative est interrompue, vous devez la reprendre depuis le début. Le MJ fixe le DD de votre test. Les sujets maudits ou ésotériques imposent généralement des DD plus élevés ou peuvent même rendre impossibles leur identification par le biais de cette seule activité. Un sort intensifié n’augmente pas le DD pour l’identifier.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous découvrez tous les attributs de la magie, notamment son nom (dans le cas d’un effet), ce qu’elle fait, la façon dont elle s’active (dans le cas d’un objet ou d’un site) et si elle est maudite.</p>\n<p><strong>Succès</strong> Dans le cas d’un objet ou d’un site, vous avez une idée de ce qu’il fait et vous découvrez comment l’activer. Dans le cas d’un effet en cours (tel qu’un sort avec une durée), vous découvrez le nom de l’effet et ce qu’il fait. Vous ne pouvez pas faire d’autres tentatives dans l’espoir d’obtenir un succès critique.</p>\n<p><strong>Échec</strong> Vous ne parvenez pas à identifier la magie et vous devez attendre une journée avant de faire une autre tentative.</p>\n<p><strong>Échec critique</strong> Vous identifiez la magie de travers et croyez que c’est autre chose au choix du MJ.</p>"
@@ -680,6 +810,11 @@
             "id": "Mesmerizing Performance",
             "name": "Mesmerizing Performance",
             "description": "<p><strong>Prérequis</strong> Dévouement de Dompteur d'animaux</p>\n<p><strong>Conditions</strong> Le compagnon animal a réussi sa dernière action @Compendium[pf2e.actionspf2e.EEDElIyin4z60PXx]{Se produire}. Le compagnon animal continue sa représentation pour attirer l'attention d'une cible unique dans un rayon de 9 mètres qui a été témoin de la représentation du compagnon. La cible doit effectuer un jet de Volonté.</p>\n<hr />\n<p><strong>Succès</strong> La cible n'est pas affectée et est temporairement immunisée pendant 1 heure.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Fascinée} par la représentation du compagnon jusqu'à ce qu'il effectue sa prochaine action et est ensuite temporairement immunisée pendant 1 heure.</p>\n<p><strong>Échec critique</strong> La cible est Fascinée par la représentation du compagnon durant 1 round. Tant que la cible reste Fascinée, elle ne peut utiliser de réactions.</p>"
+        },
+        {
+            "id": "Visions of Sin",
+            "name": "Visions of Sin",
+            "description": "<p><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<hr />\n<p>Votre eidolon convoque des images de son péché dans l'esprit d'une créature cible dans un rayon de 9 m, la tourmentant et la rendant confuse. La cible doit tenter un jet de Volonté contre le DD de votre sort avec les effets suivants. Les effets durent jusqu'à la fin de votre prochain tour, mais votre eidolon peut utiliser une action simple, qui possède le trait concentration, pour prolonger les effets jusqu'à la fin de votre prochain tour (comme soutenir un sort), pour une durée maximale de 1 minute.</p>\n<p>Si la cible est mauvaise, elle subit une pénalité de circonstances de -2 à son jet de sauvegarde. Que vous obteniez ou non un succès, la cible devient tmporairement immunisé pendant 1 jour.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible ne peut utiliser de réactions.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie 1} et ne peut utiliser de réactions.</p>\n<p><strong>Échec critique</strong> Comme l'échec et la cible est aussi  @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confuse} pendant 1 round. La confusion ne peut être étendue, mais les autres effets le peuvent.</p>"
         },
         {
             "id": "Dismiss",
@@ -730,6 +865,11 @@
             "id": "Trip",
             "name": "Trip",
             "description": "<p><strong>Conditions</strong> L’une de vos mains au moins est libre. Votre cible ne peut pas être de plus d’une catégorie de taille de plus que vous.</p>\n<hr />\n<p>Vous tentez de faire tomber un adversaire. Effectuez un test <span data-pf2-action=\"trip\" data-pf2-glyph=\"A\">d’Athlétisme</span> contre le DD de Réflexes de la cible.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible tombe @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} et subit <a class=\"inline-roll roll\" title=\"contondant\" data-mode=\"roll\" data-flavor=\"contondant\" data-formula=\"1d6\">1d6</a> dégâts contondants.</p>\n<p><strong>Succès</strong> La cible tombe À terre.</p>\n<p><strong>Échec critique</strong> Vous perdez l'équilibre et tombez À terre.</p>"
+        },
+        {
+            "id": "Cleanse Soul Path",
+            "name": "Cleanse Soul Path",
+            "description": "<p>Vous méditez, priez ou vous essayez autrement de renforcer le lien entre votre arme et votre arsenal forgé par l'âme. Cela vous prend 10 minutes. Faites un test de contre contre  votre corruption forgé par l'âme. Le niveau de contre est à la moitié de votre niveau arrondi au supérieur et le modificateur du test de contre est votre modificateur de Religion. S'il est réussi, réduisez le stade de votre corruption forgée par l'âme de  1 (jusqu'à un Stade de 1 au minimum ).</p>"
         },
         {
             "id": "Mist Blending",
@@ -790,6 +930,11 @@
             "id": "Change Shape (Kitsune)",
             "name": "Change Shape (Kitsune)",
             "description": "<p>vous vous transformez en une forme alternative spécifique déterminée par votre héritage. Si votre héritage ne fixe pas de forme alternative, votre forme est une forme sans queue, qui est celle d'une ascendance humanoïde courante prévalente où vous avez grandi (typiquement humaine). Cette forme est du même âge et du même type de corps que votre forme véritable et a approximativement des traits physiques analogues, comme la couleur des cheveux. Utiliser Changer de forme est considérée comme créer un Déguisement pour utiliser l'action de Duperie se Déguiser. Vous perdez toute frappe à mains nues que vous avez obtenu du fait d'un héritge kitsune ou d'un don d'ascendance sous cette forme. Vous pouvez rester dans votre forme alternative indéfiniment et vous pouvez revenir à votre forme véritable de kitsune en utilisant cette action de nouveau.</p>"
+        },
+        {
+            "id": "Catharsis",
+            "name": "Catharsis",
+            "description": "<p><strong>Déclencheur</strong> déterminé par votre émotion de catharsis</p>\n<p><strong>Effet</strong> Vous obtenez l'activation des effets de catharsis indiqué par votre émotion de catharsis. Vous obtenez la ferveur émotionnelle de votre émotion pendant 3 rounds. Lorsque votre ferveur émotionnelle se termine, vous subissez le contrecoup émotionnel indiqué. Après avoir utilisé catharsis, vous ne pouvez plus l'utiliser de nouveau avant d'avoir utiliser l'activité @Compendium[pf2e.actionspf2e.EhLvRWFKhZ3HtrZO]{Maîtriser ses émotions}.</p>"
         },
         {
             "id": "Eldritch Shot",
@@ -935,6 +1080,11 @@
             "id": "Wish for Luck",
             "name": "Wish for Luck",
             "description": "<p><strong>Fréquence</strong> Une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous allez effectuer un jet d'attaque, de sauvegarde ou de compétence</p>\n<p><strong>Effet</strong>Vous souhaitez avoir de la chance à voix haute. Vous lancez les dés deux fois et conservez le résultat le plus élevé.</p>"
+        },
+        {
+            "id": "Fight with Fear",
+            "name": "Fight with Fear",
+            "description": "<p><strong>Déclencheur</strong> Une créature que vous pouvez voir utilise un effet mental contre vous</p>\n<p><strong>Effet</strong> La créature déclencheuse doit tenter un jet de Volonté qui a les effets suivants.</p>\n<hr />\n<p><strong>Succès</strong> La créature n'est pas affectée.</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 2} et vous obtenez un bonus de statut de +2à votre jet de sauvegarde ou de tout autre défense contre l'effet mental déclencheur.</p>\n<p><strong>Échec critique</strong> La créature est Effrayée 2 et vous n'êtes pas affectée par l'effet mental déclencheur.</p>"
         },
         {
             "id": "Recall Knowledge (Crafting)",

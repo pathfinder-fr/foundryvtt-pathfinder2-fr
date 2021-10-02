@@ -1,21 +1,12 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 211
- * **officielle**: 48
- * **changé**: 3
+ * **libre**: 213
+ * **officielle**: 49
 
 
-Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-10-02 12:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[a8BmnIIUR7AYog5B.htm](backgrounds/a8BmnIIUR7AYog5B.htm)|Barkeep|Tavernier|changé|
-|[D2bageI3HMT2xyyD.htm](backgrounds/D2bageI3HMT2xyyD.htm)|Surge Investigator (Occultism)|Enquêteur d'ondes magiques (Occultisme)|changé|
-|[ffEvUlA2AZOIXUej.htm](backgrounds/ffEvUlA2AZOIXUej.htm)|Surge Investigator (Nature)|Enquêteur d'ondes magiques (Nature)|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -74,6 +65,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9YKU3qbxJpWHcNQE.htm](backgrounds/9YKU3qbxJpWHcNQE.htm)|Mystic Tutor (Arcana)|Tuteur mystique (Arcanes)|libre|
 |[a45LqkSRX07ljKdW.htm](backgrounds/a45LqkSRX07ljKdW.htm)|Merabite Prodigy|Prodige Mérabite|libre|
 |[a5dCSuAwGE2hqQjj.htm](backgrounds/a5dCSuAwGE2hqQjj.htm)|Freed Slave of Absalom|Esclave libéré d'Absalom|libre|
+|[a8BmnIIUR7AYog5B.htm](backgrounds/a8BmnIIUR7AYog5B.htm)|Barkeep|Tavernier|officielle|
 |[a9Q4iIiAZryVWN27.htm](backgrounds/a9Q4iIiAZryVWN27.htm)|Bounty Hunter|Chasseur de primes|officielle|
 |[AfBCrHsw1xbRFejN.htm](backgrounds/AfBCrHsw1xbRFejN.htm)|Sleepless Suns Star|Étoile des soleils sans repos|libre|
 |[aisuJF1A98bHfkLH.htm](backgrounds/aisuJF1A98bHfkLH.htm)|Whispering Way Scion|Enfant de la Voie du Murmure|libre|
@@ -98,6 +90,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cFdndc4pMWhnRUOY.htm](backgrounds/cFdndc4pMWhnRUOY.htm)|Teacher (Performance)|Enseignant (Représentation)|libre|
 |[CKU1sbFofcwZUJMx.htm](backgrounds/CKU1sbFofcwZUJMx.htm)|Ex-Con Token Guard|Garde des Pièces ancien taulard|libre|
 |[cRELMbOeZa2FPIcL.htm](backgrounds/cRELMbOeZa2FPIcL.htm)|Scholar (Religion)|Érudit (Religion)|officielle|
+|[D2bageI3HMT2xyyD.htm](backgrounds/D2bageI3HMT2xyyD.htm)|Surge Investigator (Occultism)|Enquêteur d'ondes magiques (Occultisme)|libre|
 |[dAvFZ5QmbAHgXcNp.htm](backgrounds/dAvFZ5QmbAHgXcNp.htm)|Outrider|Chevaucheur des plaines|libre|
 |[DBxOUwM7qhGH8MrF.htm](backgrounds/DBxOUwM7qhGH8MrF.htm)|Courier|Garçon de course|libre|
 |[dd6DbCsT67rl8va3.htm](backgrounds/dd6DbCsT67rl8va3.htm)|Magaambya Academic (Nature)|Étudiant du Magaambya (Nature)|libre|
@@ -112,6 +105,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[eYY3bX7xSH7aicqT.htm](backgrounds/eYY3bX7xSH7aicqT.htm)|Atteran Rancher|Rancher Atteran|libre|
 |[faHydq29Q4RP5CAK.htm](backgrounds/faHydq29Q4RP5CAK.htm)|Martial Disciple (Athletics)|Disciple martial (Athlétisme)|libre|
 |[ffcNsTUBsxFwbNgJ.htm](backgrounds/ffcNsTUBsxFwbNgJ.htm)|Lastwall Survivor|Survivant du Dernier-Rempart|libre|
+|[ffEvUlA2AZOIXUej.htm](backgrounds/ffEvUlA2AZOIXUej.htm)|Surge Investigator (Nature)|Enquêteur d'ondes magiques (Nature)|libre|
 |[FKHut73XDUGTnKkP.htm](backgrounds/FKHut73XDUGTnKkP.htm)|Field Medic|Médecin militaire|officielle|
 |[fML6YrXYDqQy0g7L.htm](backgrounds/fML6YrXYDqQy0g7L.htm)|Iolite Trainee Hobgoblin|Recrue Iolite Hobgobeline|libre|
 |[fuTLDmihr9Z9e5wa.htm](backgrounds/fuTLDmihr9Z9e5wa.htm)|Cultist|Cultiste|libre|

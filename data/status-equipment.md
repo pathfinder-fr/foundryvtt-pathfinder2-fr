@@ -1,21 +1,18 @@
 # État de la traduction (equipment)
 
- * **officielle**: 768
- * **libre**: 714
- * **changé**: 405
- * **aucune**: 168
+ * **officielle**: 769
+ * **libre**: 716
+ * **changé**: 404
+ * **aucune**: 164
 
 
-Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-10-02 12:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[backpack-02-KxUJu1IHY9FxxAGV.htm](equipment/backpack-02-KxUJu1IHY9FxxAGV.htm)|Sturdy Satchel|
-|[consumable-05-ZiD7kDxU4KEkO6XH.htm](equipment/consumable-05-ZiD7kDxU4KEkO6XH.htm)|Shimmering Dust|
-|[consumable-06-j3Pe1dyszbOT9c6Y.htm](equipment/consumable-06-j3Pe1dyszbOT9c6Y.htm)|Dispersing Bullet|
 |[consumable-06-mBwtPr9SGyuq0vPW.htm](equipment/consumable-06-mBwtPr9SGyuq0vPW.htm)|Binding Coil|
 |[consumable-06-NhCFZ043brhFTsni.htm](equipment/consumable-06-NhCFZ043brhFTsni.htm)|Singing Muse|
 |[consumable-06-sM0Cbkn8cQN4pUsp.htm](equipment/consumable-06-sM0Cbkn8cQN4pUsp.htm)|Shortbread Spy|
@@ -31,7 +28,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-09-0GY1BYECGqz6YJ88.htm](equipment/consumable-09-0GY1BYECGqz6YJ88.htm)|Noxious Incense|
 |[consumable-09-F4WcgJ3NB1kiF7OL.htm](equipment/consumable-09-F4WcgJ3NB1kiF7OL.htm)|Ghostly Portrait Paint|
 |[consumable-09-tEI0hGZyPWYwVhJU.htm](equipment/consumable-09-tEI0hGZyPWYwVhJU.htm)|Rebound Fulu|
-|[consumable-10-27aqRraefLK7x7m3.htm](equipment/consumable-10-27aqRraefLK7x7m3.htm)|Potion of Grounding|
 |[consumable-10-cEfqMV1lFaT7s0QC.htm](equipment/consumable-10-cEfqMV1lFaT7s0QC.htm)|Potion of Stable Form|
 |[consumable-10-NQvLv4qcTfK21y3H.htm](equipment/consumable-10-NQvLv4qcTfK21y3H.htm)|Spirit-Sealing Fulu (Greater)|
 |[consumable-10-xK3rWA6HtaJvKSuC.htm](equipment/consumable-10-xK3rWA6HtaJvKSuC.htm)|Retrieval Prism (Greater)|
@@ -478,7 +474,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-11-ibA3FykNQcoEPfPC.htm](equipment/equipment-11-ibA3FykNQcoEPfPC.htm)|Icy Disposition|Tendances glaciales|changé|
 |[equipment-11-JwHNSaiwwqF7VCC5.htm](equipment/equipment-11-JwHNSaiwwqF7VCC5.htm)|Fulcrum Lattice|Cadre à lentilles|changé|
 |[equipment-11-nLvP7U50hLqz26Uy.htm](equipment/equipment-11-nLvP7U50hLqz26Uy.htm)|Ring of Maniacal Devices|Anneau d'objets déments|changé|
-|[equipment-11-WYg2dZ8UK1N3rpgs.htm](equipment/equipment-11-WYg2dZ8UK1N3rpgs.htm)|Gorget of the Primal Roar|Gorgerin de rugissement primal|changé|
 |[equipment-12-CTiLugp5ptSItEqN.htm](equipment/equipment-12-CTiLugp5ptSItEqN.htm)|Ebon Fulcrum Lens|Lentille à pivot ébène|changé|
 |[equipment-12-JWacChecDZbdo6sT.htm](equipment/equipment-12-JWacChecDZbdo6sT.htm)|Wand of Teeming Ghosts (5th-Level Spell)|Baguette d'esprits tourbillonnants (Niveau 5)|changé|
 |[equipment-12-KCQRFvUgbyclvOGi.htm](equipment/equipment-12-KCQRFvUgbyclvOGi.htm)|Striking (Greater)|Frappe supérieure (rune)|changé|
@@ -599,7 +594,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-00-1k3AsSW7lpU0kEpY.htm](equipment/armor-00-1k3AsSW7lpU0kEpY.htm)|Buckler|Targe|officielle|
 |[armor-00-4tIVTg9wj56RrveA.htm](equipment/armor-00-4tIVTg9wj56RrveA.htm)|Leather Armor|Armure de cuir|officielle|
 |[armor-00-AnwzlOs0njF9Jqnr.htm](equipment/armor-00-AnwzlOs0njF9Jqnr.htm)|Hide Armor|Armure de peau|officielle|
-|[armor-00-BK1AKKi1gDMn5uBs.htm](equipment/armor-00-BK1AKKi1gDMn5uBs.htm)|Invisible Chain Shirt|Chemise de maille invisible|libre|
 |[armor-00-dDIPA1WE9ESF67EB.htm](equipment/armor-00-dDIPA1WE9ESF67EB.htm)|Clothing (Explorer's)|Vêtements (d'explorateur)|officielle|
 |[armor-00-ewQZ0VeL38v3qFnN.htm](equipment/armor-00-ewQZ0VeL38v3qFnN.htm)|Studded Leather Armor|Armure de cuir clouté|officielle|
 |[armor-00-ezVp13Uw8cWW08Da.htm](equipment/armor-00-ezVp13Uw8cWW08Da.htm)|Wooden Shield|Bouclier en bois|officielle|
@@ -693,6 +687,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[backpack-00-mBziC8v2eOtTs0f5.htm](equipment/backpack-00-mBziC8v2eOtTs0f5.htm)|Saddlebags|Fontes|officielle|
 |[backpack-00-OdVDPN9vIpu3Zud3.htm](equipment/backpack-00-OdVDPN9vIpu3Zud3.htm)|Chest|Coffre|officielle|
 |[backpack-00-tYBW8TBF8WOAp3x0.htm](equipment/backpack-00-tYBW8TBF8WOAp3x0.htm)|Satchel|Sacoche|officielle|
+|[backpack-02-KxUJu1IHY9FxxAGV.htm](equipment/backpack-02-KxUJu1IHY9FxxAGV.htm)|Sturdy Satchel|Sacoche robuste|libre|
 |[backpack-04-1pglC9PQx6yOgcKL.htm](equipment/backpack-04-1pglC9PQx6yOgcKL.htm)|Sleeves of Storage|Poches de manches|libre|
 |[backpack-04-W5znRDeklmWEGzFY.htm](equipment/backpack-04-W5znRDeklmWEGzFY.htm)|Bag of Weasels|Sac de belettes|officielle|
 |[backpack-06-0c7zLY9c88K2n0GC.htm](equipment/backpack-06-0c7zLY9c88K2n0GC.htm)|Pathfinder's Pouch|Bourse d'Éclaireur|libre|
@@ -891,11 +886,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-05-vJZ49cgi8szuQXAD.htm](equipment/consumable-05-vJZ49cgi8szuQXAD.htm)|Magic Wand (2nd-Level Spell)|Baguette magique (sort de niveau 2)|officielle|
 |[consumable-05-VmMSP1EbMVnj2pZ2.htm](equipment/consumable-05-VmMSP1EbMVnj2pZ2.htm)|Firestarter Pellets|Boulettes d'ignition|libre|
 |[consumable-05-vNxKM5J5TqrbJKYk.htm](equipment/consumable-05-vNxKM5J5TqrbJKYk.htm)|Eye of Enlightenment|Œil d'éclaircissement|libre|
-|[consumable-05-WW8uv3Nhg56UTZ35.htm](equipment/consumable-05-WW8uv3Nhg56UTZ35.htm)|Sun Wheel|Roue Solaire|libre|
 |[consumable-05-xAEbIQTNonVjCg38.htm](equipment/consumable-05-xAEbIQTNonVjCg38.htm)|Oily Button|Bouton huileux|libre|
 |[consumable-05-xDWUGwLpKLm8WdQP.htm](equipment/consumable-05-xDWUGwLpKLm8WdQP.htm)|Fu Water|Eau fu|libre|
 |[consumable-05-Xnmx6SJ6OkJOfYxF.htm](equipment/consumable-05-Xnmx6SJ6OkJOfYxF.htm)|Freezing Ammunition|Munition givrante|libre|
 |[consumable-05-zcJgT5RS8p2MEbOB.htm](equipment/consumable-05-zcJgT5RS8p2MEbOB.htm)|Sea Touch Elixir (Lesser)|Élixir de caresse marine (inférieur)|officielle|
+|[consumable-05-ZiD7kDxU4KEkO6XH.htm](equipment/consumable-05-ZiD7kDxU4KEkO6XH.htm)|Shimmering Dust|Poussière chatoyante|libre|
 |[consumable-05-ZmefGBXGJF3CFDbn.htm](equipment/consumable-05-ZmefGBXGJF3CFDbn.htm)|Scroll of 3rd-level Spell|Parchemin de sort de niveau 3|officielle|
 |[consumable-05-zrZ1FaaqW6VIajj7.htm](equipment/consumable-05-zrZ1FaaqW6VIajj7.htm)|Tiger Menuki|Menuki du tigre|officielle|
 |[consumable-06-AgBIZtwciSsCZeNN.htm](equipment/consumable-06-AgBIZtwciSsCZeNN.htm)|Potion of Fire Retaliation (Moderate)|Potion de Riposte Enflammée (modérée)|libre|
@@ -910,6 +905,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-06-HAEz4sSa6OH6C7Cs.htm](equipment/consumable-06-HAEz4sSa6OH6C7Cs.htm)|Truth Potion|Potion de vérité|officielle|
 |[consumable-06-HilBL7oeSSXqDor7.htm](equipment/consumable-06-HilBL7oeSSXqDor7.htm)|Vaccine (Moderate)|Vaccin (modéré)|libre|
 |[consumable-06-iCRoLguNunOjIM7L.htm](equipment/consumable-06-iCRoLguNunOjIM7L.htm)|Forgetful Ink|Encre d'amnésie|libre|
+|[consumable-06-j3Pe1dyszbOT9c6Y.htm](equipment/consumable-06-j3Pe1dyszbOT9c6Y.htm)|Dispersing Bullet|Balle dispersante|libre|
 |[consumable-06-M6pES1Nck1S6SWX9.htm](equipment/consumable-06-M6pES1Nck1S6SWX9.htm)|Potion of Cold Retaliation (Moderate)|Potion de Riposte glaciale (modérée)|libre|
 |[consumable-06-mRs24OwmGPjoIDvO.htm](equipment/consumable-06-mRs24OwmGPjoIDvO.htm)|Potion of Cold Resistance (Lesser)|Potion de résistance au froid (inférieur)|officielle|
 |[consumable-06-oDfucsKeWpJmmWN1.htm](equipment/consumable-06-oDfucsKeWpJmmWN1.htm)|Potion of Electricity Retaliation (Moderate)|Potion de Riposte Électrique (modérée)|libre|
@@ -969,6 +965,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-09-wDhqRxuXPQfyD0eX.htm](equipment/consumable-09-wDhqRxuXPQfyD0eX.htm)|Javelin of Lightning|Javeline de foudre|officielle|
 |[consumable-09-xvJ2jzqipBNrwZ2w.htm](equipment/consumable-09-xvJ2jzqipBNrwZ2w.htm)|Sight-Theft Grit|Sable voleur de vision|libre|
 |[consumable-10-04giYigfDL5geu5f.htm](equipment/consumable-10-04giYigfDL5geu5f.htm)|Mistform Elixir (Greater)|Élixir de brumeforme (supérieur)|officielle|
+|[consumable-10-27aqRraefLK7x7m3.htm](equipment/consumable-10-27aqRraefLK7x7m3.htm)|Potion of Grounding|Potion de mise à la terre|libre|
 |[consumable-10-3IknuOpIV1OSNl98.htm](equipment/consumable-10-3IknuOpIV1OSNl98.htm)|Lucky Rabbit's Foot|Patte de lapin de Chance|libre|
 |[consumable-10-dBevXop3G2P3PGjp.htm](equipment/consumable-10-dBevXop3G2P3PGjp.htm)|Vanishing Coin|Pièce d'invisibilité|officielle|
 |[consumable-10-dzfmP3WsA15puenS.htm](equipment/consumable-10-dzfmP3WsA15puenS.htm)|Potion of Resistance (Moderate)|Potion de résistance modérée|officielle|
@@ -1506,6 +1503,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-11-oxL8uExmIomunm5g.htm](equipment/equipment-11-oxL8uExmIomunm5g.htm)|Boots of Dancing|Bottes de danse éffrénée|officielle|
 |[equipment-11-SGbEZzm5MLSv1DDX.htm](equipment/equipment-11-SGbEZzm5MLSv1DDX.htm)|Envisioning Mask|Masque de projection psychique|libre|
 |[equipment-11-Tej30MsQo8Ek9aA6.htm](equipment/equipment-11-Tej30MsQo8Ek9aA6.htm)|Goggles of Night (Greater)|Lunettes de nyctalope (supérieures)|officielle|
+|[equipment-11-WYg2dZ8UK1N3rpgs.htm](equipment/equipment-11-WYg2dZ8UK1N3rpgs.htm)|Gorget of the Primal Roar|Gorgerin de rugissement primal|officielle|
 |[equipment-11-ZKFmyG9fIoQWIrql.htm](equipment/equipment-11-ZKFmyG9fIoQWIrql.htm)|Spectacles of Understanding (Greater)|Lunettes de compréhension (supérieures)|libre|
 |[equipment-12-1erd18HS57aCyC6r.htm](equipment/equipment-12-1erd18HS57aCyC6r.htm)|Broom of Flying|Balai volant|officielle|
 |[equipment-12-8buhFcGwuaJRrp0y.htm](equipment/equipment-12-8buhFcGwuaJRrp0y.htm)|Fortification|Fortification (rune)|officielle|

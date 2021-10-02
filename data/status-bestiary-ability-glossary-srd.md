@@ -1,25 +1,18 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
- * **libre**: 8
- * **officielle**: 33
- * **changé**: 9
+ * **libre**: 10
+ * **officielle**: 38
+ * **changé**: 2
 
 
-Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-10-02 12:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[hFtNbo1LKYCoDy2O.htm](bestiary-ability-glossary-srd/hFtNbo1LKYCoDy2O.htm)|Attack of Opportunity|Attaque d'opportunité|changé|
-|[Hrevxi3glTGgxzY6.htm](bestiary-ability-glossary-srd/Hrevxi3glTGgxzY6.htm)|Goblin Scuttle|Carapate gobeline|changé|
-|[IQtb58p4EaeUzTN1.htm](bestiary-ability-glossary-srd/IQtb58p4EaeUzTN1.htm)|Retributive Strike|Frappe punitive|changé|
-|[m4HQ2o5aPxjXf2kY.htm](bestiary-ability-glossary-srd/m4HQ2o5aPxjXf2kY.htm)|Shield Block|Blocage au bouclier|changé|
-|[N1kstYbHScxgUQtN.htm](bestiary-ability-glossary-srd/N1kstYbHScxgUQtN.htm)|Ferocity|Férocité|changé|
 |[nZMQh4AaBr291TUf.htm](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Buck|Désarçonner|changé|
-|[RJbI07QSiYp0SF9A.htm](bestiary-ability-glossary-srd/RJbI07QSiYp0SF9A.htm)|Troop Defenses|Défenses des troupes|changé|
-|[uG0Z8PsyZtsYuvGR.htm](bestiary-ability-glossary-srd/uG0Z8PsyZtsYuvGR.htm)|Catch Rock|Interception de rochers|changé|
 |[UzITQk56510jg5hS.htm](bestiary-ability-glossary-srd/UzITQk56510jg5hS.htm)|Wind Up|Remonter|changé|
 
 ## Liste des traductions complétés
@@ -43,8 +36,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fJSNOw4zHGbIm4bZ.htm](bestiary-ability-glossary-srd/fJSNOw4zHGbIm4bZ.htm)|Fast Healing|Guérison accélérée|officielle|
 |[g26YiEIfSHCpLocV.htm](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constrict|Constriction|officielle|
 |[HBrBrUzjfvj2gDXB.htm](bestiary-ability-glossary-srd/HBrBrUzjfvj2gDXB.htm)|Aquatic Ambush|Embuscade aquatique|officielle|
+|[hFtNbo1LKYCoDy2O.htm](bestiary-ability-glossary-srd/hFtNbo1LKYCoDy2O.htm)|Attack of Opportunity|Attaque d'opportunité|officielle|
+|[Hrevxi3glTGgxzY6.htm](bestiary-ability-glossary-srd/Hrevxi3glTGgxzY6.htm)|Goblin Scuttle|Carapate gobeline|libre|
 |[I0HYG0ctCLP5JRsW.htm](bestiary-ability-glossary-srd/I0HYG0ctCLP5JRsW.htm)|Light Blindness|Aveuglé par la lumière|officielle|
 |[i18TlebMzwONyPhI.htm](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Improved Grab|Empoignade/agrippement amélioré|officielle|
+|[IQtb58p4EaeUzTN1.htm](bestiary-ability-glossary-srd/IQtb58p4EaeUzTN1.htm)|Retributive Strike|Frappe punitive|officielle|
 |[j2wsK6IsW5yMW1jW.htm](bestiary-ability-glossary-srd/j2wsK6IsW5yMW1jW.htm)|Tremorsense|Perception des vibrations|officielle|
 |[JcaIJLGGmst79f1Y.htm](bestiary-ability-glossary-srd/JcaIJLGGmst79f1Y.htm)|Thoughtsense|Perception des pensées|libre|
 |[kakyXBG5WA8c6Zfd.htm](bestiary-ability-glossary-srd/kakyXBG5WA8c6Zfd.htm)|Constant Spells|Sorts constants|officielle|
@@ -53,14 +49,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kquBnQ0kObZztnBc.htm](bestiary-ability-glossary-srd/kquBnQ0kObZztnBc.htm)|+1 Status to All Saves vs Magic|bonus de statut de +1 à tous les jets de sauvegarde contre la magie|libre|
 |[LbnsT8yXchHMQT3t.htm](bestiary-ability-glossary-srd/LbnsT8yXchHMQT3t.htm)|Improved Knockdown|Renversement amélioré|officielle|
 |[lR9R5Vld8Eu2Dha5.htm](bestiary-ability-glossary-srd/lR9R5Vld8Eu2Dha5.htm)|Regeneration|Régénération|officielle|
+|[m4HQ2o5aPxjXf2kY.htm](bestiary-ability-glossary-srd/m4HQ2o5aPxjXf2kY.htm)|Shield Block|Blocage au bouclier|officielle|
+|[N1kstYbHScxgUQtN.htm](bestiary-ability-glossary-srd/N1kstYbHScxgUQtN.htm)|Ferocity|Férocité|officielle|
 |[OmV6E3aELvq9CkK1.htm](bestiary-ability-glossary-srd/OmV6E3aELvq9CkK1.htm)|Greater Constrict|Constriction supérieure|officielle|
 |[OvqohW9YuahnFaiX.htm](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Form Up|Se reformer|libre|
 |[qCCLZhnp2HhP3Ex6.htm](bestiary-ability-glossary-srd/qCCLZhnp2HhP3Ex6.htm)|Darkvision|Vision dans le noir|officielle|
+|[RJbI07QSiYp0SF9A.htm](bestiary-ability-glossary-srd/RJbI07QSiYp0SF9A.htm)|Troop Defenses|Défenses des troupes|libre|
 |[rqfnQ5VHT5hxm25r.htm](bestiary-ability-glossary-srd/rqfnQ5VHT5hxm25r.htm)|Scent|Odorat|officielle|
 |[sebk9XseMCRkDqRg.htm](bestiary-ability-glossary-srd/sebk9XseMCRkDqRg.htm)|Lifesense|Sens de la vie|officielle|
 |[t6cx9FOODmeZQNYl.htm](bestiary-ability-glossary-srd/t6cx9FOODmeZQNYl.htm)|Push|Bousculade|officielle|
 |[Tkd8sH4pwFIPzqTr.htm](bestiary-ability-glossary-srd/Tkd8sH4pwFIPzqTr.htm)|Grab|Empoignade/agrippement|libre|
 |[TTCw5NusiSSkJU1x.htm](bestiary-ability-glossary-srd/TTCw5NusiSSkJU1x.htm)|Negative Healing|Soins négatifs|libre|
+|[uG0Z8PsyZtsYuvGR.htm](bestiary-ability-glossary-srd/uG0Z8PsyZtsYuvGR.htm)|Catch Rock|Interception de rochers|officielle|
 |[uJSseLa57HZYSMUu.htm](bestiary-ability-glossary-srd/uJSseLa57HZYSMUu.htm)|Swallow Whole|Gober|libre|
 |[UNah0bxXxkcZjxO3.htm](bestiary-ability-glossary-srd/UNah0bxXxkcZjxO3.htm)|Trample|Piétinement|officielle|
 |[v61oEQaDdcRpaZ9X.htm](bestiary-ability-glossary-srd/v61oEQaDdcRpaZ9X.htm)|Aura|Aura|officielle|

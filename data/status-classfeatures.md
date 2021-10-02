@@ -1,24 +1,13 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 197
+ * **officielle**: 196
  * **changé**: 66
- * **libre**: 162
- * **aucune**: 5
+ * **libre**: 167
 
 
-Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-10-02 12:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[None-01-HYTaibaCGE85rhbZ.htm](classfeatures/None-01-HYTaibaCGE85rhbZ.htm)|Runelord Specialization|
-|[None-01-mRvyq7G0rqRP1EAr.htm](classfeatures/None-01-mRvyq7G0rqRP1EAr.htm)|Wellspring Magic|
-|[None-01-pUkUC8HHom2DmYzz.htm](classfeatures/None-01-pUkUC8HHom2DmYzz.htm)|Elemental Magic|
-|[None-01-Upf1LXtWNJ6eB5sm.htm](classfeatures/None-01-Upf1LXtWNJ6eB5sm.htm)|Flexible Spell Preparation|
-|[summoner-09-mdzk070ixIDpid7V.htm](classfeatures/summoner-09-mdzk070ixIDpid7V.htm)|Expert Spellcaster (Level 9)|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -94,7 +83,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[alchemical-01-XPPG7nN9pxt0sjMg.htm](classfeatures/alchemical-01-XPPG7nN9pxt0sjMg.htm)|Formula Book|Formulaire|officielle|
 |[alchemist-01-7JbiaZ8bxODM5mzS.htm](classfeatures/alchemist-01-7JbiaZ8bxODM5mzS.htm)|Bomber|Artificier|officielle|
 |[alchemist-01-cU2ofQLj7pg6wTSi.htm](classfeatures/alchemist-01-cU2ofQLj7pg6wTSi.htm)|Research Field|Domaine de recherche|officielle|
 |[alchemist-01-sPtl05wwTpqFI0lL.htm](classfeatures/alchemist-01-sPtl05wwTpqFI0lL.htm)|Quick Alchemy|Alchimie rapide|officielle|
@@ -279,6 +267,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-00-YrJj8UI0XpkHv0Ho.htm](classfeatures/None-00-YrJj8UI0XpkHv0Ho.htm)|Order of the Chain|Ordre des chaînes|officielle|
 |[None-00-zGxO2cETUsXuvqRu.htm](classfeatures/None-00-zGxO2cETUsXuvqRu.htm)|Order of the Pyre|Ordre du bûcher|officielle|
 |[None-01-1FPVkksuE2ncw9rF.htm](classfeatures/None-01-1FPVkksuE2ncw9rF.htm)|Ki Spells|Sorts de ki|officielle|
+|[None-01-HYTaibaCGE85rhbZ.htm](classfeatures/None-01-HYTaibaCGE85rhbZ.htm)|Runelord Specialization|Spécialisation de Seigneur des runes|libre|
+|[None-01-mRvyq7G0rqRP1EAr.htm](classfeatures/None-01-mRvyq7G0rqRP1EAr.htm)|Wellspring Magic|Magie de la source|libre|
+|[None-01-pUkUC8HHom2DmYzz.htm](classfeatures/None-01-pUkUC8HHom2DmYzz.htm)|Elemental Magic|MAgie élémentaire|libre|
+|[None-01-Upf1LXtWNJ6eB5sm.htm](classfeatures/None-01-Upf1LXtWNJ6eB5sm.htm)|Flexible Spell Preparation|Préparation de sort flexible|libre|
 |[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|libre|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|Mystère du combat|libre|
@@ -371,6 +363,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[summoner-07-oCnyGRvkfjTsZXcX.htm](classfeatures/summoner-07-oCnyGRvkfjTsZXcX.htm)|Eidolon Weapon Specialization|Spécialisation des armes de l'eidolon|libre|
 |[summoner-07-skQBrwRwJW2K6ACj.htm](classfeatures/summoner-07-skQBrwRwJW2K6ACj.htm)|Eidolon Symbiosis|Symbiose de l'eidolon|libre|
 |[summoner-09-dZNAXTQovlWVvAyX.htm](classfeatures/summoner-09-dZNAXTQovlWVvAyX.htm)|Shared Reflexes|réflexes partagés|libre|
+|[summoner-09-mdzk070ixIDpid7V.htm](classfeatures/summoner-09-mdzk070ixIDpid7V.htm)|Expert Spellcaster (Level 9)|Incantateur expert (Niveau 9)|libre|
 |[summoner-11-2CZPYoyWih6zYTcb.htm](classfeatures/summoner-11-2CZPYoyWih6zYTcb.htm)|Eidolon Defensive Expertise|Expertise défensive de l'eidolon|libre|
 |[summoner-11-q1Y12Pg2gQg2FJPR.htm](classfeatures/summoner-11-q1Y12Pg2gQg2FJPR.htm)|Twin Juggernauts|Juggernauts jumelés|libre|
 |[summoner-13-NIzHfVcVMhDmvA49.htm](classfeatures/summoner-13-NIzHfVcVMhDmvA49.htm)|Eidolon Unarmed Mastery|Maîtrise à mains nues de l'eidolon|libre|

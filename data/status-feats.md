@@ -1,30 +1,19 @@
 # État de la traduction (feats)
 
- * **libre**: 1570
+ * **libre**: 1577
  * **changé**: 725
  * **officielle**: 774
- * **aucune**: 12
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2021-09-30 08:39 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-10-02 12:00 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[archetype-04-f69C05QokaBrDFjn.htm](feats/archetype-04-f69C05QokaBrDFjn.htm)|Shadow Spells|
-|[archetype-06-TszXKspPffCzCD0X.htm](feats/archetype-06-TszXKspPffCzCD0X.htm)|Disciple of Shade|
 |[archetype-06-XusuxqmXWPYc0JYA.htm](feats/archetype-06-XusuxqmXWPYc0JYA.htm)|Narrative Conduit|
-|[archetype-14-AiDelwfA0uVT2lN3.htm](feats/archetype-14-AiDelwfA0uVT2lN3.htm)|Signature Synergy|
-|[class-12-fLlCodqKXyXbZR7C.htm](feats/class-12-fLlCodqKXyXbZR7C.htm)|Wave Spiral|
-|[class-12-mSDKKRgK6sRMjqQo.htm](feats/class-12-mSDKKRgK6sRMjqQo.htm)|Summoner's Call|
-|[class-18-6A1WTVY1PUlXy3rW.htm](feats/class-18-6A1WTVY1PUlXy3rW.htm)|Versatile Spellstrike|
-|[class-18-aoIEVpJrQEold2Mi.htm](feats/class-18-aoIEVpJrQEold2Mi.htm)|Magical Master|
-|[general-01-8bwbsj6y8PmMmjnM.htm](feats/general-01-8bwbsj6y8PmMmjnM.htm)|Canny Acumen (Will)|
-|[general-01-f02MmzV3qySSNI8e.htm](feats/general-01-f02MmzV3qySSNI8e.htm)|Canny Acumen (Reflex)|
-|[general-01-gLfy6C5r10LNJJyy.htm](feats/general-01-gLfy6C5r10LNJJyy.htm)|Canny Acumen (Perception)|
-|[general-01-grnwWhZXd5F4sX4o.htm](feats/general-01-grnwWhZXd5F4sX4o.htm)|Canny Acumen (Fortitude)|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -1341,7 +1330,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-17-wfOGyLnuVMFo7Rwy.htm](feats/ancestry-17-wfOGyLnuVMFo7Rwy.htm)|Boneyard's Call|Appel du Cimetière|libre|
 |[ancestry-17-WZC2XXQo6Pu2GQeo.htm](feats/ancestry-17-WZC2XXQo6Pu2GQeo.htm)|Soaring Form|Forme brûlante|libre|
 |[ancestry-17-ZOlwVqWa4hfv44xX.htm](feats/ancestry-17-ZOlwVqWa4hfv44xX.htm)|Hero's Wings|Ailes du héros|libre|
-|[archetype-00-TNRB8IY6Wtk9BoMp.htm](feats/archetype-00-TNRB8IY6Wtk9BoMp.htm)|Terrain Shield|Terrain bouclier|libre|
 |[archetype-02-0YjetnLVIUz9zQt5.htm](feats/archetype-02-0YjetnLVIUz9zQt5.htm)|Champion Dedication|Dévouement du Champion|officielle|
 |[archetype-02-1t5479E6bdvFs4E7.htm](feats/archetype-02-1t5479E6bdvFs4E7.htm)|Talisman Dabbler Dedication|Dévouement d'Amateur de talismans|libre|
 |[archetype-02-20jNBiIIxaiOVyi0.htm](feats/archetype-02-20jNBiIIxaiOVyi0.htm)|Oozemorph Dedication|Dévouement de Vasemorphe|libre|
@@ -1447,6 +1435,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-04-dSSwRyuhKTq1VubX.htm](feats/archetype-04-dSSwRyuhKTq1VubX.htm)|Disarming Block|Blocage désarmant|libre|
 |[archetype-04-ELdUj5ihdivlgb3H.htm](feats/archetype-04-ELdUj5ihdivlgb3H.htm)|Crystal Keeper Dedication|Dévouement de Gardien du Cristal|officielle|
 |[archetype-04-f0s3WwaJN5f2UTYY.htm](feats/archetype-04-f0s3WwaJN5f2UTYY.htm)|Reverse Engineering|Déduction de formule|libre|
+|[archetype-04-f69C05QokaBrDFjn.htm](feats/archetype-04-f69C05QokaBrDFjn.htm)|Shadow Spells|Sorts d'ombre|libre|
 |[archetype-04-FItD6HmjasjbLdgS.htm](feats/archetype-04-FItD6HmjasjbLdgS.htm)|Spell Runes|Rune de sort|officielle|
 |[archetype-04-FSxugo3zTgRhW7Og.htm](feats/archetype-04-FSxugo3zTgRhW7Og.htm)|Improvised Pummel|Tabassage improvisé|libre|
 |[archetype-04-fT37dtsByEIc3glC.htm](feats/archetype-04-fT37dtsByEIc3glC.htm)|Scales Of The Dragon|Écailles de dragon|libre|
@@ -1564,7 +1553,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-7O0PrMoXd5L8dRfg.htm](feats/archetype-06-7O0PrMoXd5L8dRfg.htm)|Archaeologist's Warning|Avertissement de l'archéologue|libre|
 |[archetype-06-7RcCvziQBLL7Bumu.htm](feats/archetype-06-7RcCvziQBLL7Bumu.htm)|Advanced Bow Training|Entraînement à l'arc avancé|libre|
 |[archetype-06-7wk6yVM3OJdc4LEU.htm](feats/archetype-06-7wk6yVM3OJdc4LEU.htm)|Champion's Reaction|Réaction de champion|officielle|
-|[archetype-06-7XcQ8Ygz5cubGxdC.htm](feats/archetype-06-7XcQ8Ygz5cubGxdC.htm)|Investigator's Stratagem|Stratagème d'enquêteur|libre|
 |[archetype-06-9E1FLGp4CNBEwiZE.htm](feats/archetype-06-9E1FLGp4CNBEwiZE.htm)|Relentless Disarm|Désarmement acharné|officielle|
 |[archetype-06-aQjWHbjK1pk8HESM.htm](feats/archetype-06-aQjWHbjK1pk8HESM.htm)|Perfect Ki Adept|Adepte parfait du ki|libre|
 |[archetype-06-bmWvMfYxZbZtigDp.htm](feats/archetype-06-bmWvMfYxZbZtigDp.htm)|Flexible Ritualist|Ritualiste polyvalent|libre|
@@ -1637,6 +1625,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-Tg3Iyq55xW9PTSW9.htm](feats/archetype-06-Tg3Iyq55xW9PTSW9.htm)|Advanced Arcana|Arcanes avancés|officielle|
 |[archetype-06-tkMEdh0gM07teWkx.htm](feats/archetype-06-tkMEdh0gM07teWkx.htm)|Advanced Dogma|Dogme avancé|officielle|
 |[archetype-06-Tlqqim5TmijoPRRT.htm](feats/archetype-06-Tlqqim5TmijoPRRT.htm)|Soul Arsenal|Arsenal de l'âme|libre|
+|[archetype-06-TszXKspPffCzCD0X.htm](feats/archetype-06-TszXKspPffCzCD0X.htm)|Disciple of Shade|Disciple de l'ombre|libre|
 |[archetype-06-TYP0Ee4o3p9LDodd.htm](feats/archetype-06-TYP0Ee4o3p9LDodd.htm)|Advanced Kata|Kata avancé|officielle|
 |[archetype-06-TZASOwBqVveGjw77.htm](feats/archetype-06-TZASOwBqVveGjw77.htm)|Analyze Idiolect|Analyser l'idiolecte|libre|
 |[archetype-06-UtUT6JngJbQRHySX.htm](feats/archetype-06-UtUT6JngJbQRHySX.htm)|Boaster's Challenge|Défi de vantardise|libre|
@@ -1872,6 +1861,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-14-2FJwXMTJycSZY80Q.htm](feats/archetype-14-2FJwXMTJycSZY80Q.htm)|Target Of Opportunity|Cible d'opportunité|libre|
 |[archetype-14-8PMxl8o5YXET58Pn.htm](feats/archetype-14-8PMxl8o5YXET58Pn.htm)|Iron Lung|Poumon d'acier|libre|
 |[archetype-14-9zfcIXDG2mDpiypp.htm](feats/archetype-14-9zfcIXDG2mDpiypp.htm)|Armored Exercise|Exercice en armure|libre|
+|[archetype-14-AiDelwfA0uVT2lN3.htm](feats/archetype-14-AiDelwfA0uVT2lN3.htm)|Signature Synergy|Synergie signature|libre|
 |[archetype-14-aOYnK0xe9DKFtx7d.htm](feats/archetype-14-aOYnK0xe9DKFtx7d.htm)|Innocent Butterfly|Papillon innocent|libre|
 |[archetype-14-bki36RiEM5FR4aiT.htm](feats/archetype-14-bki36RiEM5FR4aiT.htm)|Specialized Beastmaster Companion|Compagnon spécialisé (Maître des bêtes)|libre|
 |[archetype-14-CR9NcAIPTT4oWSEy.htm](feats/archetype-14-CR9NcAIPTT4oWSEy.htm)|Hammer Quake|Séisme du Marteau|libre|
@@ -1935,8 +1925,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bonus-00-tPhhaCbaQqwenkzx.htm](feats/bonus-00-tPhhaCbaQqwenkzx.htm)|Silence Heresy|Étouffer l'hérésie|officielle|
 |[bonus-00-w7dOgJvqAqyqSeSQ.htm](feats/bonus-00-w7dOgJvqAqyqSeSQ.htm)|Devil Allies|Alliés diaboliques|officielle|
 |[bonus-00-XOAtP64xiSRIofsY.htm](feats/bonus-00-XOAtP64xiSRIofsY.htm)|Sturdy Bindings|Liens renforcés|officielle|
-|[bonus-04-RzElsoBGTjKWjPgY.htm](feats/bonus-04-RzElsoBGTjKWjPgY.htm)|Sheltering Cave|Grotte refuge|libre|
-|[bonus-14-TdA3oVj79KxOm2Kd.htm](feats/bonus-14-TdA3oVj79KxOm2Kd.htm)|Wind-Tossed Spell|Sort balayé par le vent|libre|
 |[class-01-0BR61rW4JFOfO7T7.htm](feats/class-01-0BR61rW4JFOfO7T7.htm)|Cackle|Gloussement|libre|
 |[class-01-0PCDkVnRxVqxsp9j.htm](feats/class-01-0PCDkVnRxVqxsp9j.htm)|Energy Heart|Cœur énergétique|libre|
 |[class-01-0yPbPVEESwB6Bdfw.htm](feats/class-01-0yPbPVEESwB6Bdfw.htm)|Magus's Analysis|Analyse du magus|libre|
@@ -2570,6 +2558,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-12-ENoRkTXtdfsbs98S.htm](feats/class-12-ENoRkTXtdfsbs98S.htm)|Domain Fluency|Maîtrise du domaine|libre|
 |[class-12-fCDC53WOOYrsyVIR.htm](feats/class-12-fCDC53WOOYrsyVIR.htm)|Incredible Ricochet|Ricochet extraordinaire|officielle|
 |[class-12-fcFrxvqbIX6k71os.htm](feats/class-12-fcFrxvqbIX6k71os.htm)|Meditative Focus|Focalisation méditative|officielle|
+|[class-12-fLlCodqKXyXbZR7C.htm](feats/class-12-fLlCodqKXyXbZR7C.htm)|Wave Spiral|Spirale de vague|libre|
 |[class-12-FYz5eQeTox9IDkSd.htm](feats/class-12-FYz5eQeTox9IDkSd.htm)|Dueling Dance (Fighter)|Danse en duel (Guerrier)|libre|
 |[class-12-GMrJdGwajADbL1y5.htm](feats/class-12-GMrJdGwajADbL1y5.htm)|Diamond Soul|Âme de diamant|officielle|
 |[class-12-gO729iC9b5ypes2K.htm](feats/class-12-gO729iC9b5ypes2K.htm)|Spirit's Wrath|Colère de l'esprit|officielle|
@@ -2587,6 +2576,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-12-jNeIaFUFSGUXoSON.htm](feats/class-12-jNeIaFUFSGUXoSON.htm)|Divine Wall|Mur divin|officielle|
 |[class-12-LI9VtCaL5ZRk0Wo8.htm](feats/class-12-LI9VtCaL5ZRk0Wo8.htm)|Stance Savant (Monk)|Maître des postures (Moine)|officielle|
 |[class-12-mgs7vxq6d3hQoswa.htm](feats/class-12-mgs7vxq6d3hQoswa.htm)|Improved Dueling Riposte|Riposte en duel améliorée|officielle|
+|[class-12-mSDKKRgK6sRMjqQo.htm](feats/class-12-mSDKKRgK6sRMjqQo.htm)|Summoner's Call|Appel du conjurateur|libre|
 |[class-12-mTkbgFOHJUBl0Qwg.htm](feats/class-12-mTkbgFOHJUBl0Qwg.htm)|Shared Replenishment|Récupération partagée|officielle|
 |[class-12-mZcI1NKtQhteAQLn.htm](feats/class-12-mZcI1NKtQhteAQLn.htm)|Silver's Refrain|Refrain d'argent|libre|
 |[class-12-nBWoZ311FXFJC8Zl.htm](feats/class-12-nBWoZ311FXFJC8Zl.htm)|Dodging Roll|Dérobade|libre|
@@ -2748,9 +2738,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-16-xjwlP306nuda2z03.htm](feats/class-16-xjwlP306nuda2z03.htm)|Steal Spell|Sort volé|libre|
 |[class-18-2RaDe6Fi4t7S2IDF.htm](feats/class-18-2RaDe6Fi4t7S2IDF.htm)|Invoke Disaster|Invocation de désastre|officielle|
 |[class-18-5fd95NhJJ55hm0Qt.htm](feats/class-18-5fd95NhJJ55hm0Qt.htm)|Link Wellspring|Source liée|libre|
+|[class-18-6A1WTVY1PUlXy3rW.htm](feats/class-18-6A1WTVY1PUlXy3rW.htm)|Versatile Spellstrike|Frappe de sort polyvalente|libre|
 |[class-18-7ATVpDUM6pRq6HOR.htm](feats/class-18-7ATVpDUM6pRq6HOR.htm)|Smash From The Air|Fracasser en l'air|libre|
 |[class-18-7mGMHb7irGKZ0eQo.htm](feats/class-18-7mGMHb7irGKZ0eQo.htm)|Miraculous Possibility|Possibilité miraculeuse|libre|
 |[class-18-AbjVJIBdNjbQbVnV.htm](feats/class-18-AbjVJIBdNjbQbVnV.htm)|Primal Aegis|Égide primordiale|libre|
+|[class-18-aoIEVpJrQEold2Mi.htm](feats/class-18-aoIEVpJrQEold2Mi.htm)|Magical Master|Maître magique|libre|
 |[class-18-AwxJcaIrutqMcUC8.htm](feats/class-18-AwxJcaIrutqMcUC8.htm)|Masterful Companion|Compagnon magistral|officielle|
 |[class-18-BtMemftiktI0Mn6X.htm](feats/class-18-BtMemftiktI0Mn6X.htm)|Manifold Edge (Precision)|Avantages multiples (Précision)|libre|
 |[class-18-Dcr63tofZUome1Ze.htm](feats/class-18-Dcr63tofZUome1Ze.htm)|Manifold Edge|Avantages multiples|officielle|
@@ -2878,10 +2870,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-20-zOK6IFSz3DIBRjEw.htm](feats/class-20-zOK6IFSz3DIBRjEw.htm)|Craft Philosopher's Stone|Fabrication de la pierre philosophale|officielle|
 |[class-20-zy7lx4SWkfDxqH6m.htm](feats/class-20-zy7lx4SWkfDxqH6m.htm)|Supreme Spellstrike|Frappe de sort suprème|libre|
 |[general-01-2kwXTUjYYhoAGySr.htm](feats/general-01-2kwXTUjYYhoAGySr.htm)|Incredible Initiative|Initiative extraordinaire|officielle|
+|[general-01-8bwbsj6y8PmMmjnM.htm](feats/general-01-8bwbsj6y8PmMmjnM.htm)|Canny Acumen (Will)|Perspicacité astucieuse (Volonté)|libre|
 |[general-01-aJUXbe9HJVvv0Mxa.htm](feats/general-01-aJUXbe9HJVvv0Mxa.htm)|Breath Control|Contrôle de la respiration|officielle|
 |[general-01-AmP0qu7c5dlBSath.htm](feats/general-01-AmP0qu7c5dlBSath.htm)|Toughness|Robustesse|officielle|
 |[general-01-BStw1cANwx5baL6d.htm](feats/general-01-BStw1cANwx5baL6d.htm)|Armor Proficiency|Maîtrise d’armure|officielle|
 |[general-01-c9fHUSI5lRdXu1Ic.htm](feats/general-01-c9fHUSI5lRdXu1Ic.htm)|Feather Step|Pas de plume|officielle|
+|[general-01-f02MmzV3qySSNI8e.htm](feats/general-01-f02MmzV3qySSNI8e.htm)|Canny Acumen (Reflex)|Perspicacité astucieuse (Réflexes)|libre|
+|[general-01-gLfy6C5r10LNJJyy.htm](feats/general-01-gLfy6C5r10LNJJyy.htm)|Canny Acumen (Perception)|Perspicacité astucieuse (Perception)|libre|
+|[general-01-grnwWhZXd5F4sX4o.htm](feats/general-01-grnwWhZXd5F4sX4o.htm)|Canny Acumen (Fortitude)|Perspicacité astucieuse (Vigueur)|libre|
 |[general-01-I0BhPWqYf1bbzEYg.htm](feats/general-01-I0BhPWqYf1bbzEYg.htm)|Diehard|Dur à cuir|officielle|
 |[general-01-i4yRvVwvXbGZDsD1.htm](feats/general-01-i4yRvVwvXbGZDsD1.htm)|Canny Acumen|Perspicacité astucieuse|officielle|
 |[general-01-ihN8gkHSdPG9Trte.htm](feats/general-01-ihN8gkHSdPG9Trte.htm)|Adopted Ancestry|Ascendance adoptive|officielle|
