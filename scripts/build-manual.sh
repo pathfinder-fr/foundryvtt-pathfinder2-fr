@@ -29,14 +29,14 @@ echo "Updating pf2-data-fr repository",
 echo "Increment module version"
 CURVER=`grep "version" ../module.json | awk -F'.' '{print $2}'`
 NEWVER="$(($CURVER+1))"
-VERSION="v-0.$NEWVER.0"
-cat ../module.template.json | sed "s/VERSION/0.$NEWVER.0/g" > ../module.json
+VERSION="v-1.$NEWVER.0"
+cat ../module.template.json | sed "s/VERSION/1.$NEWVER.0/g" > ../module.json
 
 echo "Change version"
 CURVER=`grep "version" ../module.json | awk -F'.' '{print $2}'`
 NEWVER="$(($CURVER+1))"
-cat ../module.template.json | sed "s/VERSION/0.$NEWVER.0/g" > ../module.json
-VERSION="v-0.$NEWVER.0"
+cat ../module.template.json | sed "s/VERSION/1.$NEWVER.0/g" > ../module.json
+VERSION="v-1.$NEWVER.0"
 
 echo "Ready for commit"
 git add ../data ../babele* ../module.json
