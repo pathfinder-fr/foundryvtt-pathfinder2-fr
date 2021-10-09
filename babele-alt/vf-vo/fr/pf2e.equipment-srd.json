@@ -209,7 +209,7 @@
         {
             "id": "Ghost Charge (Major)",
             "name": "Charge fantôme (majeure) (Ghost Charge (Major))",
-            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ces boîtes métalliques à ressort contiennent un mélange de produits chimiques et de sels qui drainent et désintègrent les créatures mortes-vivantes à proximité. Une charge fantôme. Vous obtenez un bonus d'objet de +3 à votre jet d'attaque et la bombe occasionne [[/r 4d8]]dégâts et 4 points de dégât d'éclaboussure positive et la cible est @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{Affaibli} 2 jusqu'au début de votre prochain tour. Les dégâts positifs ne nuisent qu'aux morts-vivants et aux créatures à guérison négative. Les charges fantômes sont conçues pour exploser même au contact d'une substance spirituelle, ce qui les rend idéales pour endommager les morts-vivants intangibles.</p>"
+            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ces boîtes métalliques à ressort contiennent un mélange de produits chimiques et de sels qui drainent et désintègrent les créatures mortes-vivantes à proximité. Une charge fantôme. Vous obtenez un bonus d'objet de +3 à votre jet d'attaque et la bombe occasionne [[/r 4d8]]dégâts et 4 points de dégât d'éclaboussure positive et la cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 jusqu'au début de votre prochain tour. Les dégâts positifs ne nuisent qu'aux morts-vivants et aux créatures à guérison négative. Les charges fantômes sont conçues pour exploser même au contact d'une substance spirituelle, ce qui les rend idéales pour endommager les morts-vivants intangibles.</p>"
         },
         {
             "id": "Rite of Reinforcement Exoskeleton",
@@ -514,7 +514,7 @@
         {
             "id": "Aeon Stone (Tourmaline Sphere)",
             "name": "Pierre d'éternité (sphère tourmaline) (Aeon Stone (Tourmaline Sphere))",
-            "description": "<p>Quand vous devriez mourir à cause de l’état @Compendium[pf2e.conditionspf2e.yZRUzMqrMmfLu0V1]{Mourant} (le plus souvent à Mourant 4), cette pierre d’éternité s’active automatiquement et ramène votre valeur Mourant à celle qui devrait normalement vous tuer moins 1 (le plus souvent à Mourant 3). Elle se transforme ensuite de manière définitive en pierre d’éternité gris terne. Vous ne pouvez profiter de ce pouvoir qu’une seule fois par jour, même si vous avez plusieurs de ces pierres.</p>\n<p>Le pouvoir de résonance vous permet de lancer une @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} de niveau 1 comme un sort inné divin une fois par jour.</p>"
+            "description": "<p>Quand vous devriez mourir à cause de l’état @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} (le plus souvent à Mourant 4), cette pierre d’éternité s’active automatiquement et ramène votre valeur Mourant à celle qui devrait normalement vous tuer moins 1 (le plus souvent à Mourant 3). Elle se transforme ensuite de manière définitive en pierre d’éternité gris terne. Vous ne pouvez profiter de ce pouvoir qu’une seule fois par jour, même si vous avez plusieurs de ces pierres.</p>\n<p>Le pouvoir de résonance vous permet de lancer une @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} de niveau 1 comme un sort inné divin une fois par jour.</p>"
         },
         {
             "id": "Elixir of Rejuvenation",
@@ -639,7 +639,7 @@
         {
             "id": "Final Blade",
             "name": "Lame finale (Final Blade)",
-            "description": "<p>Qu’elle soit grande ou petite, entravée ou consentante, une créature peut être exécutée par une Lame finale. Puisqu’il s’agit d’un artefact, une Lame finale ne peut être endommagée que par des méthodes très spécifiques.</p>\n<p><strong>Activation</strong> 1 minute (Interagir)</p>\n<p><strong>Effet</strong> Vous exécutez une créature @Compendium[pf2e.conditionspf2e.VcDeM8A5oI6VqhbM]{entravée} sous la lame. La créature exécutée subit 11d10 dégâts tranchants et doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"45\" data-pf2-traits=\"artifact,death,evil,necromancy,occult\" data-pf2-label=\"DD Lame finale\" data-pf2-show-dc=\"gm\">Vigueur</span> DD 45 ou être décapitée comme si elle avait reçu un coup critique avec un 20 naturel d’une faux vorpale de frappe majeure +3. L’âme d’une créature exécutée par une lame finale est piégée et la créature ne peut être ramenée à la vie d’aucune façon, même par un @Compendium[pf2e.spells-srd.YfJTXyVGzLhM6V8U]{Miracle} ou une magie similaire. Une Lame finale peut contenir un nombre infini d’âmes obtenues de cette façon et ces dernières ne peuvent être libérées que par un rituel complexe que seuls les Jardiniers gris connaissent, ou par la destruction de la Lame finale.</p>"
+            "description": "<p>Qu’elle soit grande ou petite, entravée ou consentante, une créature peut être exécutée par une Lame finale. Puisqu’il s’agit d’un artefact, une Lame finale ne peut être endommagée que par des méthodes très spécifiques.</p>\n<p><strong>Activation</strong> 1 minute (Interagir)</p>\n<p><strong>Effet</strong> Vous exécutez une créature @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{entravée} sous la lame. La créature exécutée subit 11d10 dégâts tranchants et doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"45\" data-pf2-traits=\"artifact,death,evil,necromancy,occult\" data-pf2-label=\"DD Lame finale\" data-pf2-show-dc=\"gm\">Vigueur</span> DD 45 ou être décapitée comme si elle avait reçu un coup critique avec un 20 naturel d’une faux vorpale de frappe majeure +3. L’âme d’une créature exécutée par une lame finale est piégée et la créature ne peut être ramenée à la vie d’aucune façon, même par un @Compendium[pf2e.spells-srd.YfJTXyVGzLhM6V8U]{Miracle} ou une magie similaire. Une Lame finale peut contenir un nombre infini d’âmes obtenues de cette façon et ces dernières ne peuvent être libérées que par un rituel complexe que seuls les Jardiniers gris connaissent, ou par la destruction de la Lame finale.</p>"
         },
         {
             "id": "Bag of Holding (Type IV)",
@@ -1040,6 +1040,11 @@
             "id": "Flame Tongue (Greater)",
             "name": "Épée ardente (supérieure) (Flame Tongue (Greater))",
             "description": "<p>C’est une épée longue enflammée de frappe supérieure +3. Quand vous activez l’épée pour lancer flammes, le sort est de niveau 9. Quand vous la maniez, la lame émet une lumière scintillante semblable à celle d’un feu qui diffuse une lumière faible sur un rayon de 3 mètres.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">D</span>  sur ordre, Interagir</p>\n<p><strong>Effet</strong> Vous lancez le tour de magie flammes @Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Flammes}  par le biais de l’épée comme un sort arcanique de niveau 7, en utilisant votre modificateur d’attaque au corps à corps en guise de modificateur d’attaque de sort avec l’épée ardente.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> sur ordre</p>\n<p><strong>Fréquence</strong> 1 fois par jour</p>\n<p>strong>Effet</strong>  Une émanation de feu de 3 mètres irradie de l’épée ardente supérieure pendant 1 minute. Toutes les attaques d’arme ou à mains nues que vous et vos alliés effectuez dans la zone bénéficient de l’effet de la rune de propriété Enflammée.</p>"
+        },
+        {
+            "id": "Binding Coil (Greater)",
+            "name": "Lien d'attache supérieur (Binding Coil (Greater))",
+            "description": "<strong>Activation</strong> <span class=\"pf2-icon\">f</span> Imaginer</p>\n<p><strong>Déclencheur</strong> Votre Frappe avec l'arme apposée fait des dégâts à une créature;</p>\n<p><strong>Prérequis</strong> Vous êtes un expert en athlétisme.</p>\n<hr />\n<p>Ce talisman, une bobine rouge vif, chaude au toucher et ressemblant faiblement à un serpent, s'enroule entièrement autour de votre arme. Lorsque vous activez l'effet de ce talisman, tentez de @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} la créature que vous touchez. En cas de réussite, au lieu des effets normaux de l'action Saisir, la bobine s'enroule autour de la cible, une extrémité restant attachée à votre arme. Votre adversaire doit réussir un test pour s'Échapper DD 30 pour se libérer. L'enroulement se rompt si vous vous éloignez de l'adversaire lié, mais pas si vous vous en rapprochez.</p>"
         },
         {
             "id": "Feather Token (Swan Boat)",
@@ -1494,7 +1499,7 @@
         {
             "id": "Dread Ampoule (Major)",
             "name": "Ampoule d'effroi (majeure) (Dread Ampoule (Major))",
-            "description": "<p><strong>Utilisation</strong> Tenir dans une main</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas d'attaque réussie, la cible devient @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{Éffrayé} 1, ou Éffrayé 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>Vous gagnez un bonus d'objet de +3 sur le jet d'attaque. La bombe cause 4d6 dégâts psychologiques et 4 points de dégâts d'éclaboussure.</p>"
+            "description": "<p><strong>Utilisation</strong> Tenir dans une main</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas d'attaque réussie, la cible devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Éffrayé} 1, ou Éffrayé 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>Vous gagnez un bonus d'objet de +3 sur le jet d'attaque. La bombe cause 4d6 dégâts psychologiques et 4 points de dégâts d'éclaboussure.</p>"
         },
         {
             "id": "Horn of Blasting",
@@ -1664,7 +1669,7 @@
         {
             "id": "Dwarven Daisy (Lesser)",
             "name": "Marguerite naine (inférieure) (Dwarven Daisy (Lesser))",
-            "description": "<p>Une Marguerite naine est un collier de douzaines de pétards qui créent de minuscules explosions bruyantes. Le collier se termine par une courte mèche enroulée. Tirer sur l'enveloppe d'un mouvement rapide allume la mèche et fait partie d'une action pour faire une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe}. Une marguerite naine inflige des dégâts de feu et des dégâts d'éclaboussure. Une marguerite naine possède également une chance d'éblouir sa cible. Une créature touchée par une marguerite naine doit réussir un test de Vigueur ou être @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh][Éblouie} pendant 1 round.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</span></p>\n<p>Le feu d'artifice inflige 1d6 dégâts de feu et 1 dégât de feu d'éclaboussure. Le DD est de 16.</p>"
+            "description": "<p>Une Marguerite naine est un collier de douzaines de pétards qui créent de minuscules explosions bruyantes. Le collier se termine par une courte mèche enroulée. Tirer sur l'enveloppe d'un mouvement rapide allume la mèche et fait partie d'une action pour faire une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe}. Une marguerite naine inflige des dégâts de feu et des dégâts d'éclaboussure. Une marguerite naine possède également une chance d'éblouir sa cible. Une créature touchée par une marguerite naine doit réussir un test de Vigueur ou être @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh][Éblouie} pendant 1 round.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</span></p>\n<p>Le feu d'artifice inflige 1d6 dégâts de feu et 1 dégât de feu d'éclaboussure. Le DD est de 16.</p>"
         },
         {
             "id": "Adze",
@@ -1799,7 +1804,7 @@
         {
             "id": "Ghost Charge (Greater)",
             "name": "Charge fantômr (supérieure) (Ghost Charge (Greater))",
-            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ces boîtes métalliques à ressort contiennent un mélange de produits chimiques et de sels qui drainent et désintègrent les créatures mortes-vivantes à proximité. Une charge fantôme. Vous obtenez un bonus d'objet de +2 à votre jet d'attaque et la bombe occasionne [[/r 3d8]] dégâts et 3 points de dégât d'éclaboussure positive et la cible est @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{Affaibli} 2 jusqu'au début de votre prochain tour. Les dégâts positifs ne nuisent qu'aux morts-vivants et aux créatures à guérison négative. Les charges fantômes sont conçues pour exploser même au contact d'une substance spirituelle, ce qui les rend idéales pour endommager les morts-vivants intangibles.</p>"
+            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ces boîtes métalliques à ressort contiennent un mélange de produits chimiques et de sels qui drainent et désintègrent les créatures mortes-vivantes à proximité. Une charge fantôme. Vous obtenez un bonus d'objet de +2 à votre jet d'attaque et la bombe occasionne [[/r 3d8]] dégâts et 3 points de dégât d'éclaboussure positive et la cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 jusqu'au début de votre prochain tour. Les dégâts positifs ne nuisent qu'aux morts-vivants et aux créatures à guérison négative. Les charges fantômes sont conçues pour exploser même au contact d'une substance spirituelle, ce qui les rend idéales pour endommager les morts-vivants intangibles.</p>"
         },
         {
             "id": "Potion of Sonic Resistance (Greater)",
@@ -1859,7 +1864,7 @@
         {
             "id": "Dread Ampoule (Greater)",
             "name": "Ampoule d'effroi (supérieure) (Dread Ampoule (Greater))",
-            "description": "<p><strong>Utilisation</strong> Tenir dans une main</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas d'attaque réussie, la cible devient @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{Éffrayée} 1, ou Éffrayée 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>Vous gagnez un bonus d'objet de +2 sur le jet d'attaque. La bombe cause 3d6 dégâts psychologiques et 3 points de dégâts d'éclaboussure</p>"
+            "description": "<p><strong>Utilisation</strong> Tenir dans une main</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas d'attaque réussie, la cible devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Éffrayée} 1, ou Éffrayée 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>Vous gagnez un bonus d'objet de +2 sur le jet d'attaque. La bombe cause 3d6 dégâts psychologiques et 3 points de dégâts d'éclaboussure</p>"
         },
         {
             "id": "Sturdy Satchel",
@@ -1894,7 +1899,7 @@
         {
             "id": "Dread Ampoule (Lesser)",
             "name": "Ampoule d'effroi (inférieure) (Dread Ampoule (Lesser))",
-            "description": "<p><strong>Utilisation</strong> Tenir dans une main</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas d'attaque réussie, la cible devient @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{Éffrayé} 1, ou Éffrayé 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>La bombe cause 1d6 dégâts psychologiques et 1 point de dégât d'éclaboussure</p>"
+            "description": "<p><strong>Utilisation</strong> Tenir dans une main</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas d'attaque réussie, la cible devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Éffrayé} 1, ou Éffrayé 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>La bombe cause 1d6 dégâts psychologiques et 1 point de dégât d'éclaboussure</p>"
         },
         {
             "id": "Wax Key Blank",
@@ -2254,7 +2259,7 @@
         {
             "id": "Fire Poi",
             "name": "Poï enflammé (Fire Poi)",
-            "description": "<p>Ces poï particuliers sont faits d'un métal léger et rare ou de fibres retardant le feu et peuvent être allumées avant d'être maniées. Allumer une paire de poï enflammés nécessite une action @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interagir} et 1 demi-litre @Compendium[pf2e.equipment-srd.Du05UxCyCM0ZWH8z]{d'huile}> par tranche de 10 minutes durant laquelle le poï reste allumé. Lorsqu'il est enflammé, le poï diffuse une lumière dans un rayon de 3mètres; en combat, ils infligent 1d4 dégâts contondants et 1d4 dégâts de feu. Sur un coup critique avec un poï de feu allumé, la cible subit 1 @Compendium[pf2e.conditionspf2e.lDVqvLKA6eF3Df60]{dégât Persistant} de feu. Le feu peut être éteint en utilisant l'action Interagir. Lorsqu'il n'est pas allumé, le poï inflige seulement les dégâts contondants indiqués. Qu'il soit ou non allumé, les dégâts 1d4 contondants du poï sont les dés de dégâts de l'arme, ainsi les runes de frappe et les autres effets n'affectent pas les dégâts de feu.</p>"
+            "description": "<p>Ces poï particuliers sont faits d'un métal léger et rare ou de fibres retardant le feu et peuvent être allumées avant d'être maniées. Allumer une paire de poï enflammés nécessite une action @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interagir} et 1 demi-litre @Compendium[pf2e.equipment-srd.Du05UxCyCM0ZWH8z]{d'huile}> par tranche de 10 minutes durant laquelle le poï reste allumé. Lorsqu'il est enflammé, le poï diffuse une lumière dans un rayon de 3mètres; en combat, ils infligent 1d4 dégâts contondants et 1d4 dégâts de feu. Sur un coup critique avec un poï de feu allumé, la cible subit 1 @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégât Persistant} de feu. Le feu peut être éteint en utilisant l'action Interagir. Lorsqu'il n'est pas allumé, le poï inflige seulement les dégâts contondants indiqués. Qu'il soit ou non allumé, les dégâts 1d4 contondants du poï sont les dés de dégâts de l'arme, ainsi les runes de frappe et les autres effets n'affectent pas les dégâts de feu.</p>"
         },
         {
             "id": "Silk ceremonial armor",
@@ -2354,7 +2359,7 @@
         {
             "id": "Peshpine Grenade (Moderate)",
             "name": "Grenade d'épines de pesh (Modérée) (Peshpine Grenade (Moderate))",
-            "description": "<p>Les grenades d'épines de pesh sont des bombes explosives enveloppées d'aiguilles traités alchimiquement à partir de cactus de Pesh. Une grenade d'épines de pesh inflige les dégâts perforants indiqués et des dégâts d'éclaboussure. Si elle atteint sa cible, cette dernière obtient la condition @Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]{Stupefiée} jusqu'à la fin de son prochain tour.</p>\n<p><span><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</span></p>\n<p>Vous obtenez un bonus d'objet de +1 au jet d'attaque. La bombe inflige 2d6 dégâts perforants et 2 dégâts perforants d'éclaboussure et la cible est Stupéfiée 1.</p>"
+            "description": "<p>Les grenades d'épines de pesh sont des bombes explosives enveloppées d'aiguilles traités alchimiquement à partir de cactus de Pesh. Une grenade d'épines de pesh inflige les dégâts perforants indiqués et des dégâts d'éclaboussure. Si elle atteint sa cible, cette dernière obtient la condition @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefiée} jusqu'à la fin de son prochain tour.</p>\n<p><span><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</span></p>\n<p>Vous obtenez un bonus d'objet de +1 au jet d'attaque. La bombe inflige 2d6 dégâts perforants et 2 dégâts perforants d'éclaboussure et la cible est Stupéfiée 1.</p>"
         },
         {
             "id": "Ring of Wizardry (Type III)",
@@ -2869,7 +2874,7 @@
         {
             "id": "Dwarven Daisy (Moderate)",
             "name": "Marguerite naine (moyenne) (Dwarven Daisy (Moderate))",
-            "description": "<p>Une Marguerite naine est un collier de douzaines de pétards qui créent de minuscules explosions bruyantes. Le collier se termine par une courte mèche enroulée. Tirer sur l'enveloppe d'un mouvement rapide allume la mèche et fait partie d'une action pour faire une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe}. Une marguerite naine inflige des dégâts de feu et des dégâts d'éclaboussure. Une marguerite naine possède également une chance d'éblouir sa cible. Une créature touchée par une marguerite naine doit réussir un test de Vigueur ou être @Compendium[pf2e.conditionspf2e.TkIyaNPgTZFBCCuh][Éblouie} pendant 1 round.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</span></p>\n<p>Le feu d'artifice inflige 2d6 dégâts de feu et 2 dégâts de feu d'éclaboussure. Le DD et de 18.</p>"
+            "description": "<p>Une Marguerite naine est un collier de douzaines de pétards qui créent de minuscules explosions bruyantes. Le collier se termine par une courte mèche enroulée. Tirer sur l'enveloppe d'un mouvement rapide allume la mèche et fait partie d'une action pour faire une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe}. Une marguerite naine inflige des dégâts de feu et des dégâts d'éclaboussure. Une marguerite naine possède également une chance d'éblouir sa cible. Une créature touchée par une marguerite naine doit réussir un test de Vigueur ou être @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh][Éblouie} pendant 1 round.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</span></p>\n<p>Le feu d'artifice inflige 2d6 dégâts de feu et 2 dégâts de feu d'éclaboussure. Le DD et de 18.</p>"
         },
         {
             "id": "Walking Cauldron",
@@ -3004,7 +3009,7 @@
         {
             "id": "Moonlit Chain",
             "name": "Maille lunaire (Moonlit Chain)",
-            "description": "<p>Cette chemise de mailles en argent +1 possède un col cousu d’images de la lune à ses différentes phases. Vous voyez au clair de lune comme si vous disposiez de vision nocturne.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p><strong>Fréquence</strong> 1 fois par jour</p>\n<p><strong>Effet</strong> En touchant l’image de la nouvelle lune sur le col de l’armure, vous supprimez l’état ébloui pendant 1 minute.</p>\n<hr />\n<p><strong>Conditions de fabrication</strong> Les matériaux initiaux bruts doivent inclure 33 po d’argent.</p>"
+            "description": "<p>Cette chemise de mailles en argent +1 possède un col cousu d’images de la lune à ses différentes phases. Vous voyez au clair de lune comme si vous disposiez de vision nocturne.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p><strong>Fréquence</strong> 1 fois par jour</p>\n<p><strong>Effet</strong> En touchant l’image de la nouvelle lune sur le col de l’armure, vous supprimez l’état Ébloui pendant 1 minute.</p>\n<hr />\n<p><strong>Conditions de fabrication</strong> Les matériaux initiaux bruts doivent inclure 33 po d’argent.</p>"
         },
         {
             "id": "Warhammer",
@@ -3194,7 +3199,7 @@
         {
             "id": "Peshpine Grenade (Major)",
             "name": "Grenade d'épines de pesh (majeure) (Peshpine Grenade (Major))",
-            "description": "<p>Les grenades d'épines de pesh sont des bombes explosives enveloppées d'aiguilles traités alchimiquement à partir de cactus de Pesh. Une grenade d'épines de pesh inflige les dégâts perforants indiqués et des dégâts d'éclaboussure. Si elle atteint sa cible, cette dernière obtient la condition @Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]{Stupefiée} jusqu'à la fin de son prochain tour.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>Vous gagnez un bonus de +3 au jet d'attaque. La bombe inflige 4d6 dégâts perforants et 4 dégâts perforants d'éclaboussure et la cible est Stupéfiée 3.</p>"
+            "description": "<p>Les grenades d'épines de pesh sont des bombes explosives enveloppées d'aiguilles traités alchimiquement à partir de cactus de Pesh. Une grenade d'épines de pesh inflige les dégâts perforants indiqués et des dégâts d'éclaboussure. Si elle atteint sa cible, cette dernière obtient la condition @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefiée} jusqu'à la fin de son prochain tour.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>Vous gagnez un bonus de +3 au jet d'attaque. La bombe inflige 4d6 dégâts perforants et 4 dégâts perforants d'éclaboussure et la cible est Stupéfiée 3.</p>"
         },
         {
             "id": "Jade Cat",
@@ -3580,6 +3585,11 @@
             "id": "Potion of Undetectability",
             "name": "Potion de détection impossible (Potion of Undetectability)",
             "description": "<p>En buvant cette potion d’un noir mat, vous échappez à toute tentative de divination. Cet effet est le même qu’avec le sort @Compendium[pf2e.spells-srd.C2w3YfBKjIRS07DP]{Esprit impénétrable}, mais sans les bonus contre les effets mentaux. Vous gagnez aussi les effets du sort @Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibilité} au niveau 4 qui vous protège contre @Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{Détection de l’invisibilité} de niveau 8 ou moins et possède un DD de 36 contre le sort @Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{Vision lucide}. </p>\n<p>L’effet de la potion dure 10 minutes. </p>"
+        },
+        {
+            "id": "Shortbread Spy",
+            "name": "Sablé-espion (Shortbread Spy)",
+            "description": "<p><strong>Activation</strong> 1 minute (Interagir)</p>.\n<hr />\n<p>Bien que cet objet ressemble à un simple biscuit en forme d'humanoïde, il prend vie une fois décoré de glaçage ou d'autres substances comestibles. Le biscuit s'éloigne alors à une vitesse de 4,5 mètres, revenant au même endroit environ 1 heure plus tard, ce qui lui donne suffisamment de temps pour parcourir environ huit cent mètres et revenir par le même chemin. Le biscuit espion ne tient pas compte de vos instructions et ne peut pas recevoir de directives, il suit plutôt un chemin qu'il a lui-même choisi. À son retour, il tombe sur le sol, pour ne plus jamais bouger.</p>\n<p>Pourvu que vous ayez décoré le sablé-espion avec des yeux, il gagne une vision normale, qu'il utilise pour voir et enregistrer magiquement les curiosités sur son chemin. Toute créature qui mange le biscuit une fois qu'il est revenu peut alors voir ce que l'espion a vu. Les images sont relativement claires, mais le passage du temps est un peu brouillé, il peut donc être difficile de dire quand le biscuit a été témoin d'une vue donnée.</p>"
         },
         {
             "id": "Blight Bomb (Moderate)",
@@ -4409,7 +4419,7 @@
         {
             "id": "Dread Ampoule (Moderate)",
             "name": "Ampoule d'effroi (modérée) (Dread Ampoule (Moderate))",
-            "description": "<p><strong>Utilisation</strong> Tenir dans une main</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas d'attaque réussie, la cible devient @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{Éffrayé} 1, ou Éffrayé 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>Vous gagnez un bonus d'objet de +1 sur le jet d'attaque. La bombe cause 2d6 dégâts psychologiques et 2 points de dégâts d'éclaboussure</p>"
+            "description": "<p><strong>Utilisation</strong> Tenir dans une main</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ce flacon est rempli d'un gaz violet trouble qui interfère brièvement avec l'activité cérébrale. Une ampoule d'effroi accorde les dommages mentaux et les dommages d'éclaboussures mentales énumérés ci-dessous.</p>\n<p>En cas d'attaque réussie, la cible devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Éffrayé} 1, ou Éffrayé 2 en cas de coup critique. De nombreux types accordent également un bonus d'objet aux jets d'attaque.</p>\n<p>Vous gagnez un bonus d'objet de +1 sur le jet d'attaque. La bombe cause 2d6 dégâts psychologiques et 2 points de dégâts d'éclaboussure</p>"
         },
         {
             "id": "Darkwood Buckler (High-Grade)",
@@ -5149,7 +5159,7 @@
         {
             "id": "Peshpine Grenade (Greater)",
             "name": "Grenades d'épines de pesh (supérieure) (Peshpine Grenade (Greater))",
-            "description": "<p>Les grenades d'épines de pesh sont des bombes explosives enveloppées d'aiguilles traités alchimiquement à partir de cactus de Pesh. Une grenade d'épines de pesh inflige les dégâts perforants indiqués et des dégâts d'éclaboussure. Si elle atteint sa cible, cette dernière obtient la condition @Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]{Stupefiée} jusqu'à la fin de son prochain tour.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>Vous obtenez un bonus d'objet de +2 au jet d'attaque. La bombe inflige 3d6 dégâts perforants et 3 dégâts perforants d'éclaboussure et la cible est Stupéfiée 2.</p>"
+            "description": "<p>Les grenades d'épines de pesh sont des bombes explosives enveloppées d'aiguilles traités alchimiquement à partir de cactus de Pesh. Une grenade d'épines de pesh inflige les dégâts perforants indiqués et des dégâts d'éclaboussure. Si elle atteint sa cible, cette dernière obtient la condition @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefiée} jusqu'à la fin de son prochain tour.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>Vous obtenez un bonus d'objet de +2 au jet d'attaque. La bombe inflige 3d6 dégâts perforants et 3 dégâts perforants d'éclaboussure et la cible est Stupéfiée 2.</p>"
         },
         {
             "id": "Mithral Buckler (Standard-Grade)",
@@ -5500,6 +5510,11 @@
             "id": "Cold Iron Shield (Low-Grade)",
             "name": "Bouclier en fer froid (basse qualité) (Cold Iron Shield (Low-Grade))",
             "description": "<p>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.</p>\n<hr />\n<p>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.</p>\n<p><strong>Conditions de fabrication</strong> au moins 17 pa de fer froid</p>"
+        },
+        {
+            "id": "Ghostbane Fulu",
+            "name": "Fulu spectral (Ghostbane Fulu)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">f</span> Imaginer</p>\n<p><strong>Déclencheur</strong> Vous réussissez à Frapper une créature spectrale avec l'arme sur laquelle le fulu est fixé, mais vous n'avez pas encore fait de dégâts.</p> <p>.\n<hr />\n</p> <p>Ce fulu en papier blanc porte de l'encre rouge et investit une arme à l'essence spirituelle d'une créature incorporelle. Lors de l'activation, l'arme gagne le bénéfice de la rune de propriété Spectrale contre la créature incorporelle pendant 1 minute.</p>"
         },
         {
             "id": "Orb Shard",
@@ -6944,7 +6959,7 @@
         {
             "id": "Peshpine Grenade (Lesser)",
             "name": "Grenade d'épines de pesh inférieure (Peshpine Grenade (Lesser))",
-            "description": "<p>Les grenades d'épines de pesh sont des bombes explosives enveloppées d'aiguilles traités alchimiquement à partir de cactus de Pesh. Une grenade d'épines de pesh inflige les dégâts perforants indiqués et des dégâts d'éclaboussure. Si elle atteint sa cible, cette dernière obtient la condition @Compendium[pf2e.conditionspf2e.e1XGnhKNSQIm5IXg]{Stupefiée} jusqu'à la fin de son prochain tour.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>La bombe inflige 1d6 dégâts perforants et 1 dégât perforant d'éclaboussure et la cible est Stupéfiée 1.</p>"
+            "description": "<p>Les grenades d'épines de pesh sont des bombes explosives enveloppées d'aiguilles traités alchimiquement à partir de cactus de Pesh. Une grenade d'épines de pesh inflige les dégâts perforants indiqués et des dégâts d'éclaboussure. Si elle atteint sa cible, cette dernière obtient la condition @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefiée} jusqu'à la fin de son prochain tour.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>La bombe inflige 1d6 dégâts perforants et 1 dégât perforant d'éclaboussure et la cible est Stupéfiée 1.</p>"
         },
         {
             "id": "Thunder Snare",
@@ -7134,7 +7149,7 @@
         {
             "id": "Ghost Charge (Lesser)",
             "name": "Charge fantôme (inférieure) (Ghost Charge (Lesser))",
-            "description": "<p><strong>Utilisation</strong> Tenir à une main</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ces boîtes métalliques à ressort contiennent un mélange de produits chimiques et de sels qui drainent et désintègrent les créatures mortes-vivantes à proximité. Une charge fantôme occasionne [[/r 1d8]]  dégâts positifs et 1 dégâts d'éclaboussures positive, bien que comme d'habitude pour les dégâts positifs, ces dégâts ne nuisent qu'aux morts-vivants et aux créatures à guérison négative. Les charges fantômes sont conçues pour exploser même au contact d'une substance spirituelle, ce qui les rend idéales pour endommager les morts-vivants intangibles. Une cible  qui subit des dégâts d'une charge fantôme devient @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu'au début de votre prochain tour. De nombreux types accordent un bonus d'objet aux jets d'attaque.</p>\n\n\n\n\n\n\n\n\n\n\n\n."
+            "description": "<p><strong>Utilisation</strong> Tenir à une main</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ces boîtes métalliques à ressort contiennent un mélange de produits chimiques et de sels qui drainent et désintègrent les créatures mortes-vivantes à proximité. Une charge fantôme occasionne [[/r 1d8]]  dégâts positifs et 1 dégâts d'éclaboussures positive, bien que comme d'habitude pour les dégâts positifs, ces dégâts ne nuisent qu'aux morts-vivants et aux créatures à guérison négative. Les charges fantômes sont conçues pour exploser même au contact d'une substance spirituelle, ce qui les rend idéales pour endommager les morts-vivants intangibles. Une cible  qui subit des dégâts d'une charge fantôme devient @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu'au début de votre prochain tour. De nombreux types accordent un bonus d'objet aux jets d'attaque.</p>\n\n\n\n\n\n\n\n\n\n\n\n."
         },
         {
             "id": "Plasma Hype",
@@ -8077,6 +8092,11 @@
             "description": "<p>Cette poudre granuleuse augmente votre réactivité mais trouble vos pensées et vous laisse affaibli. Le jet de sauvegarde contre l’addiction à l’érode a un DD de 30 et l’addiction a le trait virulent./p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir (ingéré, inhalé)</p>\n<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"25\" data-pf2-traits=\"alchemical,consumable,drug,ingested,inhaled,poison\" data-pf2-label=\"DD érode\" data-pf2-show-dc=\"gm\">Vigueur</span> DD 25</p>\n<p><strong>Délai</strong> 1 heure</p>\n<p><strong>Durée maximale</strong> 6 heures</p>\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 2 et bonus d’objet de +2 aux jets de Réflexes et aux tests de compétence basés sur la Dextérité (1 heure)</p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} (1 heure);</p>\n<p><strong>Stade 3</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 2 et Fatigué (1 heure)</p>"
         },
         {
+            "id": "Binding Coil",
+            "name": "Lien d'attache (Binding Coil)",
+            "description": "<strong>Activation</strong> <span class=\"pf2-icon\">f</span> Imaginer</p>\n<p><strong>Déclencheur</strong> Votre Frappe avec l'arme apposée fait des dégâts à une créature;</p>\n<p><strong>Prérequis</strong> Vous êtes un expert en athlétisme.</p>\n<hr />\n<p>Ce talisman, une bobine rouge vif, chaude au toucher et ressemblant faiblement à un serpent, s'enroule entièrement autour de votre arme. Lorsque vous activez l'effet de ce talisman, tentez de @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} la créature que vous touchez. En cas de réussite, au lieu des effets normaux de l'action Saisir, la bobine s'enroule autour de la cible, une extrémité restant attachée à votre arme. Votre adversaire doit réussir un test pour s'Échapper DD 20 pour se libérer. L'enroulement se rompt si vous vous éloignez de l'adversaire lié, mais pas si vous vous en rapprochez.</p>"
+        },
+        {
             "id": "Ring of Climbing",
             "name": "Anneau d'escalade (Ring of Climbing)",
             "description": "<p>Cet épais anneau d’or est doté d’excroissances semblables à des griffes qui s’enfoncent dans les surfaces escarpées que vous Escaladez. L’anneau vous confère une Vitesse d’escalade égale à la moitié de votre Vitesse au sol. Les malus à votre Vitesse (y compris ceux que vous impose votre armure) s’appliquent avant de la diviser par deux.</p>\n<hr />\n<p>Code:</p>\n<ul>\n<li>Vitesse d’escalade égale à la moitié de votre Vitesse au sol</li>\n</ul>"
@@ -8427,6 +8447,11 @@
             "description": "<p>Cet anneau en or rose est orné en son centre d'un crâne cornu à l'aspect quelque peu inquiétant. Cet anneau vous donne le pouvoir de lancer les tours de magie arcaniques innés suivants un nombre illimité de fois par jour : @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie}, @Compendium[pf2e.spells-srd.pwzdSlJgYqN7bs2w]Manipulation à distance} et @Compendium[pf2e.spells-srd.Qw3fnUlaUbnn7ipC]{Prestidigitation}. Chaque sort est lancé comme un sort de Niveau 1. Si vous êtes un lanceur de sorts arcaniques, ces sorts peuvent être intensifiés selon votre niveau de lanceur de sorts.</p>"
         },
         {
+            "id": "Singing Muse",
+            "name": "Muse chantante (Singing Muse)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">r</span> Imaginer</p>\n<p><strong>Déclencheur</strong> Vous tentez un test de Représentation.</p>\n<hr />\n</p> <p>Cette petite figurine est sculptée dans un seul morceau de pierre argentée et épineuse et ressemble à une belle dryade versant de l'eau dans un petit bassin. Lorsque vous activez la muse, vous êtes momentanément illuminé par une inspiration qui renforce votre performance. Si vous obtenez un succès sur votre test déclencheur, vous obtenez un succès critique à la place.</p>"
+        },
+        {
             "id": "Collar of Empathy",
             "name": "Collier d'empathie (Collar of Empathy)",
             "description": "<p>Ce joli collier de lanières de cuir entrelacées aux couleurs contrastées va de pair avec un bracelet de même composition. Quand vous portez et investissez le bracelet et que votre compagnon porte et investit le collier, la relation entre vous deux se renforce. Vous pouvez toujours ressentir les états émotionnels, les besoins et les désirs basiques de votre compagnon, et vice versa.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Imaginer</p> \n<p><strong>Effet</strong> Vous percevez par le biais des sens de votre compagnon animal, et non plus par les vôtres. Vous pouvez Maintenir l’activation. Vous n’êtes plus conscient de votre propre environnement tant que vous utilisez les sens de votre compagnon animal. En plus de l’utilité évidente de ce pouvoir lorsque vous êtes séparé de votre compagnon, il peut également vous permettre d’entendre des bruits, de sentir des odeurs et de percevoir d’autres stimulus que seuls les sens de votre compagnon peuvent percevoir et non les vôtres.</p>"
@@ -8664,7 +8689,7 @@
         {
             "id": "Venomous Cure Fulu",
             "name": "Fulu curatif d'empoisonnement (Venomous Cure Fulu)",
-            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">f</span> Imaginer</p>\n<p><strong>Déclencheur</strong> Vous tentez un jet de sauvegarde contreun poison injecté.</p>\n<hr />\n<p>Ce fulu vert dépeint de la vermine et des créatures venimeuses. Lorsque vous l'activez, le venin du fulu combat le venin dans votre système, vous accordant un bonus de statut de +2 à vos jets de sauvegarde.</p>"
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">f</span> Imaginer</p>\n<p><strong>Déclencheur</strong> Vous tentez un jet de sauvegarde contre un poison injecté.</p>\n<hr />\n<p>Ce fulu vert dépeint de la vermine et des créatures venimeuses. Lorsque vous l'activez, le venin du fulu combat le venin dans votre système, vous accordant un bonus de statut de +2 à vos jets de sauvegarde.</p>"
         },
         {
             "id": "Hummingbird Wayfinder",
@@ -9159,7 +9184,7 @@
         {
             "id": "Ghost Charge (Moderate)",
             "name": "Charge fantôme (modérée) (Ghost Charge (Moderate))",
-            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ces boîtes métalliques à ressort contiennent un mélange de produits chimiques et de sels qui drainent et désintègrent les créatures mortes-vivantes à proximité. Une charge fantôme Vous obtenez un bonus d'objet de +1 à votre jet d'attaque et la bombe occasionne [[/r 2d8]] dégâts et 2 points de dégât d'éclaboussure positive et la cible est @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu'au début de votre prochain tour. Les dégâts positifs ne nuisent qu'aux morts-vivants et aux créatures à guérison négative. Les charges fantômes sont conçues pour exploser même au contact d'une substance spirituelle, ce qui les rend idéales pour endommager les morts-vivants intangibles.</p>"
+            "description": "<p><strong>Usage</strong> Tenir à une main</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<hr />\n<p>Ces boîtes métalliques à ressort contiennent un mélange de produits chimiques et de sels qui drainent et désintègrent les créatures mortes-vivantes à proximité. Une charge fantôme Vous obtenez un bonus d'objet de +1 à votre jet d'attaque et la bombe occasionne [[/r 2d8]] dégâts et 2 points de dégât d'éclaboussure positive et la cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu'au début de votre prochain tour. Les dégâts positifs ne nuisent qu'aux morts-vivants et aux créatures à guérison négative. Les charges fantômes sont conçues pour exploser même au contact d'une substance spirituelle, ce qui les rend idéales pour endommager les morts-vivants intangibles.</p>"
         },
         {
             "id": "Saint's bone with lost scriptures",
@@ -9190,6 +9215,11 @@
             "id": "Elven Absinthe",
             "name": "Absinthe elfique (Elven Absinthe)",
             "description": "<p>Des spécialistes du Kyonin préparent ce breuvage couleur émeraude.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"20\" data-pf2-traits=\"alchemical,consumable,drug,ingested,poison\" data-pf2-label=\"DD absinthe elfique\" data-pf2-show-dc=\"gm\">Vigueur</span> DD 20</p>\n<p><strong>Délai</strong> 1 heure</p>\n<p><strong>Durée maximale</strong> 1 jour</p>\n<p><strong>Stade 1</strong> 1 bonus d’objet de +1 aux tests de Diplomatie et de Représentation (1 heure)</p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 2 (1 heure)</p>\n<p><strong>Stade 3</strong> @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefié} 4 (1 heure)</p>"
+        },
+        {
+            "id": "Restful Sleep Fulu",
+            "name": "Fulu de sommeil paisible (Restful Sleep Fulu)",
+            "description": "<p><strong>Utilisation</strong> Fixée sur une créature</p>.\n<p><strong>Activation</strong> <span class=\"pf2-icon\">f</span>Imaginer</p>.\n<p><strong>Durée</strong> 1 heure</p>.\n<hr />\n<p>Ce fulu représente la roue à cinq rayons de Qi Zhong, dieu de la magie et de la médecine, et se consume lentement, comme de l'encens. Si vous vous endormez pendant la durée du fulu, vous regagnez le double du nombre de points de vie que vous gagnez habituellement en vous reposant. Vous gagnez également un bonus d'état de +2 aux jets de sauvegarde contre les effets mentaux qui se produisent dans vos rêves, comme le sort @Compendium[pf2e.spells-srd.Uqj344bezBq3ESdq]{Cauchemar}.</p>"
         },
         {
             "id": "Red Dragon's Breath Potion (Adult)",

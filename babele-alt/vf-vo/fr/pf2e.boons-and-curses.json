@@ -9,7 +9,7 @@
         {
             "id": "Torag - Major Boon",
             "name": "Torag - Bénédiction majeure (Torag - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> En ce qui vous concerne, veiller ou garder un lieu est une sinécure, vous évitant d'être @Compendium[pf2e.conditionspf2e.HL2l2VRSaQHu9lUw]{Fatigué} à cause d'un manque de repos tant que vous gardez pendant au moins 6 heures par jour.</p>\n<p>Vous pouvez récupérer vos Points de focalisation (si vous en avez) en montant la garde en plus de toute autre option qui vous serait accessible.</p>\n<p>Lorsque vous êtes sur vos gardes, vous obtenez un bonus de statut de +4 à la Perception pour remarquer les embuscades ou les autres dangers en approche.</p>\n<p>Tant que vous portez un bouclier, vous êtes toujours sur vos gardes durant l'exploration sans avoir besoin de voyager à la moitié de votre vitesse de déplacement et vous pouvez accomplir une autre activité d'exploration en même temps.</p>\n<p>Lorsque vous utilisez un bouclier, sa Solidité augmente de 5.</p>"
+            "description": "<p><strong>Bénédiction majeure</strong> En ce qui vous concerne, veiller ou garder un lieu est une sinécure, vous évitant d'être @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} à cause d'un manque de repos tant que vous gardez pendant au moins 6 heures par jour.</p>\n<p>Vous pouvez récupérer vos Points de focalisation (si vous en avez) en montant la garde en plus de toute autre option qui vous serait accessible.</p>\n<p>Lorsque vous êtes sur vos gardes, vous obtenez un bonus de statut de +4 à la Perception pour remarquer les embuscades ou les autres dangers en approche.</p>\n<p>Tant que vous portez un bouclier, vous êtes toujours sur vos gardes durant l'exploration sans avoir besoin de voyager à la moitié de votre vitesse de déplacement et vous pouvez accomplir une autre activité d'exploration en même temps.</p>\n<p>Lorsque vous utilisez un bouclier, sa Solidité augmente de 5.</p>"
         },
         {
             "id": "Asmodeus - Minor Curse",
@@ -404,7 +404,7 @@
         {
             "id": "Lamashtu - Minor Curse",
             "name": "Lamashtu - Malédiction mineure (Lamashtu - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> D'horribles visions tourmentent votre esprit, se juxtaposant à la réalité à des moments inopportuns. Vous traitez tout ce qui se trouve autour de vous comme si cela était @Compendium[pf2e.conditionspf2e.DmAIPqOBomZ7H95W]{Masqué}.</p>"
+            "description": "<p><strong>Malédiction mineure</strong> D'horribles visions tourmentent votre esprit, se juxtaposant à la réalité à des moments inopportuns. Vous traitez tout ce qui se trouve autour de vous comme si cela était @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}.</p>"
         },
         {
             "id": "Sarenrae - Minor Curse",
@@ -564,7 +564,7 @@
         {
             "id": "Torag - Minor Curse",
             "name": "Torag - Malédiction mineure (Torag - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> L'artisanat de mauvaise qualité finit toujours par se montrer. Lorsqu'un objet que vous utilisez subit des dégâts, il est @Compendium[pf2e.conditionspf2e.6dNUvdb1dhToNDj3]{Cassé}.</p>"
+            "description": "<p><strong>Malédiction mineure</strong> L'artisanat de mauvaise qualité finit toujours par se montrer. Lorsqu'un objet que vous utilisez subit des dégâts, il est @Compendium[pf2e.conditionitems.6dNUvdb1dhToNDj3]{Cassé}.</p>"
         },
         {
             "id": "Cayden Cailean - Major Boon",

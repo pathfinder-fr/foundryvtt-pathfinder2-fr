@@ -1,11 +1,11 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 196
- * **changé**: 66
+ * **officielle**: 197
+ * **changé**: 65
  * **libre**: 167
 
 
-Dernière mise à jour: 2021-10-02 13:27 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -39,7 +39,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-01-3lxIGMbsPZLNEXQ7.htm](classfeatures/barbarian-01-3lxIGMbsPZLNEXQ7.htm)|Gold Dragon Instinct|Instinct du dragon - Or|changé|
 |[barbarian-01-b5rvKZQCfpgBenKJ.htm](classfeatures/barbarian-01-b5rvKZQCfpgBenKJ.htm)|Brass Dragon Instinct|Instinct du dragon - Airain|changé|
 |[barbarian-01-CXZwt1e6ManeBaFV.htm](classfeatures/barbarian-01-CXZwt1e6ManeBaFV.htm)|Frog Animal Instinct|Instinct animal - Grenouille|changé|
-|[barbarian-01-dU7xRpg4kFd01hwZ.htm](classfeatures/barbarian-01-dU7xRpg4kFd01hwZ.htm)|Instinct|Instinct|changé|
 |[barbarian-01-hyHgLQCDMSrR4RfE.htm](classfeatures/barbarian-01-hyHgLQCDMSrR4RfE.htm)|Red Dragon Instinct|Instinct du dragon - Rouge|changé|
 |[barbarian-01-IezPDYlweTtwCqkT.htm](classfeatures/barbarian-01-IezPDYlweTtwCqkT.htm)|Green Dragon Instinct|Instinct du dragon - Vert|changé|
 |[barbarian-01-kdzIxHpzeRbdRqQA.htm](classfeatures/barbarian-01-kdzIxHpzeRbdRqQA.htm)|Bronze Dragon Instinct|Instinct du dragon - Bronze|changé|
@@ -106,6 +105,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[alchemist-17-xO90iBD8XNGyaCkz.htm](classfeatures/alchemist-17-xO90iBD8XNGyaCkz.htm)|Perpetual Perfection (Bomber)|Perfection perpétuelle (Artificier)|officielle|
 |[alchemist-17-YByJ9O7oe8wxfbqs.htm](classfeatures/alchemist-17-YByJ9O7oe8wxfbqs.htm)|Perpetual Perfection (Chirurgeon)|Perfection perpétuelle (Chirurgien)|officielle|
 |[alchemist-19-FiVYuIPTBzPzNP4E.htm](classfeatures/alchemist-19-FiVYuIPTBzPzNP4E.htm)|Alchemist Armor Mastery (Level 19)|Maîtrise d'armure de l'alchimiste (Niveau 19)|libre|
+|[barbarian-01-dU7xRpg4kFd01hwZ.htm](classfeatures/barbarian-01-dU7xRpg4kFd01hwZ.htm)|Instinct|Instinct|officielle|
 |[barbarian-01-JuKD6k7nDwfO0Ckv.htm](classfeatures/barbarian-01-JuKD6k7nDwfO0Ckv.htm)|Giant Instinct|Instinct de géant|officielle|
 |[barbarian-01-k7M9jedvt31AJ5ZR.htm](classfeatures/barbarian-01-k7M9jedvt31AJ5ZR.htm)|Fury Instinct|Instinct de la furie|officielle|
 |[barbarian-01-SCYSjUbMmw8JD9P9.htm](classfeatures/barbarian-01-SCYSjUbMmw8JD9P9.htm)|Superstition Instinct|Instinct superstitieux|libre|

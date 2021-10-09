@@ -1,23 +1,18 @@
 # État de la traduction (equipment)
 
- * **officielle**: 769
- * **libre**: 716
- * **changé**: 404
- * **aucune**: 164
+ * **officielle**: 770
+ * **libre**: 722
+ * **changé**: 403
+ * **aucune**: 158
 
 
-Dernière mise à jour: 2021-10-02 13:27 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[consumable-06-mBwtPr9SGyuq0vPW.htm](equipment/consumable-06-mBwtPr9SGyuq0vPW.htm)|Binding Coil|
-|[consumable-06-NhCFZ043brhFTsni.htm](equipment/consumable-06-NhCFZ043brhFTsni.htm)|Singing Muse|
-|[consumable-06-sM0Cbkn8cQN4pUsp.htm](equipment/consumable-06-sM0Cbkn8cQN4pUsp.htm)|Shortbread Spy|
-|[consumable-06-UtT7TVT7M6uJTlJH.htm](equipment/consumable-06-UtT7TVT7M6uJTlJH.htm)|Restful Sleep Fulu|
-|[consumable-06-Uzf9hqwec8fY2j4G.htm](equipment/consumable-06-Uzf9hqwec8fY2j4G.htm)|Ghostbane Fulu|
 |[consumable-06-yYkxdzogiH7FPWVP.htm](equipment/consumable-06-yYkxdzogiH7FPWVP.htm)|Fulu of Concealment|
 |[consumable-07-PblDdXHm98XWs9ba.htm](equipment/consumable-07-PblDdXHm98XWs9ba.htm)|Topology Protoplasm|
 |[consumable-07-ydsXPuDjG2hPspw6.htm](equipment/consumable-07-ydsXPuDjG2hPspw6.htm)|Dimensional Knot|
@@ -35,7 +30,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-11-5Lode4gkHo4QUZbQ.htm](equipment/consumable-11-5Lode4gkHo4QUZbQ.htm)|Resonating Ammunition (Bolt)|
 |[consumable-11-JMvp1ca4IhLy4cGj.htm](equipment/consumable-11-JMvp1ca4IhLy4cGj.htm)|Resonating Ammunition (Arrow)|
 |[consumable-12-xAoRfG7uxFFjOHoT.htm](equipment/consumable-12-xAoRfG7uxFFjOHoT.htm)|Phoenix Flask|
-|[consumable-13-ah9jxSBerznPowW7.htm](equipment/consumable-13-ah9jxSBerznPowW7.htm)|Binding Coil (Greater)|
 |[consumable-13-TBuLxrVXa4UGHzb9.htm](equipment/consumable-13-TBuLxrVXa4UGHzb9.htm)|Force Tiles|
 |[consumable-14-EDjJy68ZFLu57ldN.htm](equipment/consumable-14-EDjJy68ZFLu57ldN.htm)|Noxious Incense (Greater)|
 |[consumable-14-HBlUlkSlIQ0NQA9N.htm](equipment/consumable-14-HBlUlkSlIQ0NQA9N.htm)|Vapor Sphere|
@@ -186,7 +180,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-02-ckUxr51wJVGRNAD0.htm](equipment/armor-02-ckUxr51wJVGRNAD0.htm)|Cold Iron Buckler (Low-Grade)|Targe en fer froid de (basse qualité)|changé|
 |[armor-07-HWQEGY2X0QXj2zfN.htm](equipment/armor-07-HWQEGY2X0QXj2zfN.htm)|Martyr's Shield|Bouclier du martyr|changé|
 |[armor-07-PsyfqGIzDbr1mX6d.htm](equipment/armor-07-PsyfqGIzDbr1mX6d.htm)|Cold Iron Buckler (Standard-Grade)|Targe en fer froid (qualité standard)|changé|
-|[armor-07-vHZSx5f093Wrivzn.htm](equipment/armor-07-vHZSx5f093Wrivzn.htm)|Moonlit Chain|Maille lunaire|changé|
 |[armor-08-CF9BCVE0ppxMmULb.htm](equipment/armor-08-CF9BCVE0ppxMmULb.htm)|Mithral Buckler (Standard-Grade)|Targe en mithral (qualité standard)|changé|
 |[armor-08-ETHbpwjh8aLGrXi0.htm](equipment/armor-08-ETHbpwjh8aLGrXi0.htm)|Mithral Shield (Standard-Grade)|Bouclier en mithral (qualité standard)|changé|
 |[armor-09-C4XKMcHZoGzrAZBl.htm](equipment/armor-09-C4XKMcHZoGzrAZBl.htm)|Rhino Hide|Peau de rhinocéros|changé|
@@ -623,6 +616,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-07-KVj9RP2qvpsHHGqE.htm](equipment/armor-07-KVj9RP2qvpsHHGqE.htm)|Silver Shield (Standard-Grade)|Bouclier en argent (qualité standard)|officielle|
 |[armor-07-nDZX25OwoN0Imrq6.htm](equipment/armor-07-nDZX25OwoN0Imrq6.htm)|Sturdy Shield (Lesser)|Bouclier renforcé (inférieur)|libre|
 |[armor-07-p1uYtIUYXXoNdVKg.htm](equipment/armor-07-p1uYtIUYXXoNdVKg.htm)|Cold Iron Shield (Standard-Grade)|Bouclier en fer froid (qualité standard)|officielle|
+|[armor-07-vHZSx5f093Wrivzn.htm](equipment/armor-07-vHZSx5f093Wrivzn.htm)|Moonlit Chain|Maille lunaire|officielle|
 |[armor-07-WDh4fb9N86mNLfDV.htm](equipment/armor-07-WDh4fb9N86mNLfDV.htm)|Spined Shield|Bouclier de la manticore|officielle|
 |[armor-08-2gMlhHlkQp3DuWw5.htm](equipment/armor-08-2gMlhHlkQp3DuWw5.htm)|Adamantine Shield (Standard-Grade)|Bouclier en adamantium (qualité standard)|officielle|
 |[armor-08-4aVkppixLHPg940o.htm](equipment/armor-08-4aVkppixLHPg940o.htm)|Adamantine Buckler (Standard-Grade)|Targe en adamantium (qualité standard)|officielle|
@@ -907,13 +901,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-06-iCRoLguNunOjIM7L.htm](equipment/consumable-06-iCRoLguNunOjIM7L.htm)|Forgetful Ink|Encre d'amnésie|libre|
 |[consumable-06-j3Pe1dyszbOT9c6Y.htm](equipment/consumable-06-j3Pe1dyszbOT9c6Y.htm)|Dispersing Bullet|Balle dispersante|libre|
 |[consumable-06-M6pES1Nck1S6SWX9.htm](equipment/consumable-06-M6pES1Nck1S6SWX9.htm)|Potion of Cold Retaliation (Moderate)|Potion de Riposte glaciale (modérée)|libre|
+|[consumable-06-mBwtPr9SGyuq0vPW.htm](equipment/consumable-06-mBwtPr9SGyuq0vPW.htm)|Binding Coil|Lien d'attache|libre|
 |[consumable-06-mRs24OwmGPjoIDvO.htm](equipment/consumable-06-mRs24OwmGPjoIDvO.htm)|Potion of Cold Resistance (Lesser)|Potion de résistance au froid (inférieur)|officielle|
+|[consumable-06-NhCFZ043brhFTsni.htm](equipment/consumable-06-NhCFZ043brhFTsni.htm)|Singing Muse|Muse chantante|libre|
 |[consumable-06-oDfucsKeWpJmmWN1.htm](equipment/consumable-06-oDfucsKeWpJmmWN1.htm)|Potion of Electricity Retaliation (Moderate)|Potion de Riposte Électrique (modérée)|libre|
 |[consumable-06-OWPOTwMsrYma9d0v.htm](equipment/consumable-06-OWPOTwMsrYma9d0v.htm)|Potion of Acid Retaliation (Moderate)|Potion de Riposte acide (modérée)|libre|
 |[consumable-06-qasFfdiZKIczoZ9p.htm](equipment/consumable-06-qasFfdiZKIczoZ9p.htm)|Bloodhound Mask (Moderate)|Masque du limier (modéré)|libre|
 |[consumable-06-Ru4xaA4kjdZ4IFS5.htm](equipment/consumable-06-Ru4xaA4kjdZ4IFS5.htm)|Oil of Weightlessness (Greater)|Huile d'apesanteur supérieure|officielle|
 |[consumable-06-sAMzkU7kzUZfqTPV.htm](equipment/consumable-06-sAMzkU7kzUZfqTPV.htm)|Extended Deteriorating Dust|Poudre de Détérioration étendue|libre|
+|[consumable-06-sM0Cbkn8cQN4pUsp.htm](equipment/consumable-06-sM0Cbkn8cQN4pUsp.htm)|Shortbread Spy|Sablé-espion|libre|
 |[consumable-06-u1gZaIZHnEfZDc1o.htm](equipment/consumable-06-u1gZaIZHnEfZDc1o.htm)|Potion of Acid Resistance (Lesser)|Potion de résistance à l'acide inférieure|officielle|
+|[consumable-06-UtT7TVT7M6uJTlJH.htm](equipment/consumable-06-UtT7TVT7M6uJTlJH.htm)|Restful Sleep Fulu|Fulu de sommeil paisible|libre|
+|[consumable-06-Uzf9hqwec8fY2j4G.htm](equipment/consumable-06-Uzf9hqwec8fY2j4G.htm)|Ghostbane Fulu|Fulu spectral|libre|
 |[consumable-06-V2TUEoiDwJ125qzN.htm](equipment/consumable-06-V2TUEoiDwJ125qzN.htm)|Potion of Resistance (Lesser)|Potion de résistance inférieure|officielle|
 |[consumable-06-xGmX6Vuuhivyal8v.htm](equipment/consumable-06-xGmX6Vuuhivyal8v.htm)|Skeptic's Elixir (Moderate)|Élixir d'Incrédule (modéré)|libre|
 |[consumable-06-YHev1WJ2tOiTBg9o.htm](equipment/consumable-06-YHev1WJ2tOiTBg9o.htm)|Oil of Unlife (Moderate)|Huile de Non-vie (modérée)|libre|
@@ -1034,6 +1033,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-12-z7eOUqVwyht6tj11.htm](equipment/consumable-12-z7eOUqVwyht6tj11.htm)|Slumber Wine|Vin soporifique|officielle|
 |[consumable-13-1YROvQsCdq8WFWRj.htm](equipment/consumable-13-1YROvQsCdq8WFWRj.htm)|Time Shield Potion|Potion de bouclier temporel|libre|
 |[consumable-13-6vyr3drpizIrd5PS.htm](equipment/consumable-13-6vyr3drpizIrd5PS.htm)|Daylight Vapor|Vapeur de lumière du jour|libre|
+|[consumable-13-ah9jxSBerznPowW7.htm](equipment/consumable-13-ah9jxSBerznPowW7.htm)|Binding Coil (Greater)|Lien d'attache supérieur|libre|
 |[consumable-13-BxzwmwQ5O4fewa4w.htm](equipment/consumable-13-BxzwmwQ5O4fewa4w.htm)|Purple Worm Repellent|Répulsif de ver pourpre|libre|
 |[consumable-13-dyvwp4EHgJDzVjJh.htm](equipment/consumable-13-dyvwp4EHgJDzVjJh.htm)|Metalmist Sphere (Greater)|Sphère de Brume-métal supérieure|libre|
 |[consumable-13-fomEZZ4MxVVK3uVu.htm](equipment/consumable-13-fomEZZ4MxVVK3uVu.htm)|Scroll of 7th-level Spell|Parchemin de sort de niveau 7|officielle|

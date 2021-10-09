@@ -1,18 +1,17 @@
 # État de la traduction (conditionitems)
 
  * **libre**: 8
- * **changé**: 13
- * **officielle**: 21
+ * **officielle**: 22
+ * **changé**: 12
 
 
-Dernière mise à jour: 2021-10-02 13:27 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[3uh1r86TzbQvosxv.htm](conditionitems/3uh1r86TzbQvosxv.htm)|Doomed|Condamné|changé|
 |[4D2KBtexWXa6oUMR.htm](conditionitems/4D2KBtexWXa6oUMR.htm)|Drained|Drainé|changé|
 |[6dNUvdb1dhToNDj3.htm](conditionitems/6dNUvdb1dhToNDj3.htm)|Broken|Brisé|changé|
 |[dfCMdR4wnpbYNTix.htm](conditionitems/dfCMdR4wnpbYNTix.htm)|Stunned|Étourdi|changé|
@@ -31,6 +30,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[1wQY3JYyhMYeeV2G.htm](conditionitems/1wQY3JYyhMYeeV2G.htm)|Observed|Observé|libre|
+|[3uh1r86TzbQvosxv.htm](conditionitems/3uh1r86TzbQvosxv.htm)|Doomed|Condamné|officielle|
 |[6uEgoh53GbXuHpTF.htm](conditionitems/6uEgoh53GbXuHpTF.htm)|Paralyzed|Paralysé|officielle|
 |[9evPzg9E6muFcoSk.htm](conditionitems/9evPzg9E6muFcoSk.htm)|Unnoticed|Inaperçu|officielle|
 |[9PR9y0bi4JPKnHPR.htm](conditionitems/9PR9y0bi4JPKnHPR.htm)|Deafened|Sourd|officielle|

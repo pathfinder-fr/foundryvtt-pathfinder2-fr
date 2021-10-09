@@ -2,6 +2,11 @@
     "label": "Actions",
     "entries": [
         {
+            "id": "Wyrm's Breath",
+            "name": "Wyrm's Breath (Souffle du Ver)",
+            "description": "<p><strong>Fréquence</strong> une fois par minute</p>\n<hr />\n<p>Votre eidolon réunit les pouvoirs des plus puissants Vers pour rendre son souffle encore plus spectaculaire. Si votre prochaine action consiste à utiliser Arme de souffle, le nombre de dés de dégâts et la zone de l'Arme de souffle sont tous les deux doublés.</p>"
+        },
+        {
             "id": "Quick Alchemy",
             "name": "Quick Alchemy (Alchimie rapide)",
             "description": "<p><strong>Coût</strong> 1 lot de réactifs imprégnés</p>\n<p><strong>Conditions</strong> Vous avez la formule de l'objet alchimique que vous créez et vous transportez ou maniez des @Compendium[pf2e.equipment-srd.4ftXXUCBHcf4b0MH]{outils alchimiques}, </p>\n<hr />\n<p>Vous préparez rapidement un objet alchimique périssable que vous pouvez utiliser sur‑le‑champ. Vous pouvez créer un unique objet alchimique d’un niveau inférieur ou égal à votre niveau d’alchimie avancée et qui se trouve dans votre formulaire, sans avoir à dépenser le coût monétaire normal en réactifs alchimiques ou à faire de test d’Artisanat. Cet objet possède le trait imprégné, mais est seulement efficace jusqu’au début de votre prochain tour.</p>"
@@ -147,9 +152,19 @@
             "description": "<p>Vous Marchez rapidement d’une distance égale à votre Vitesse. Pendant ce déplacement, vous pouvez tenter de traverser l’espace occupé par un ennemi. Effectuez un test d’<span data-pf2-action=\"tumbleThrough\" data-pf2-glyph=\"A\">Acrobaties</span> contre le DD de Réflexes de l’ennemi dès que vous tentez d’entrer dans l’espace qu’il occupe. Vous pouvez faire un Déplacement acrobatique en effectuant les actions @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Voler}, @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou une autre action au lieu de Marcher rapidement en fonction de votre environnement .</p>\n<hr />\n<p><strong>Succès</strong> Vous traversez l’espace occupé par l’ennemi, en considérant les cases dans son espace comme un terrain difficile (chaque déplacement de 1,50 m compte comme un déplacement de 3 m). Si vous n’avez pas assez de Vitesse pour traverser complètement l’espace qu’il occupe, vous appliquez l’effet de l’échec.</p>\n<p><strong>Échec</strong> Votre déplacement prend fin et vous déclenchez des réactions comme si vous étiez sorti de la case dans laquelle vous avez commencé.</p>"
         },
         {
+            "id": "Breath Weapon",
+            "name": "Breath Weapon (Arme de souffle)",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6]]{1d6 dégâts } à toutes les créatures, avec un jet de Réflexes basique contre votre DD de sorts. La zone et le type de dégâts de l'Arme de souffle sont choisis lorsque l'eidolon obtient cette capacité.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6]]{Dégâts selon le niveau}</p>"
+        },
+        {
             "id": "Resist Elf Magic",
             "name": "Resist Elf Magic (Résister à la magie elfique)",
             "description": "<p><strong>Déclencheur</strong> Vous effectuez un jet de sauvegarde, qui n'a pas encore été lancé, contre un effet magique.</p>\n<hr />\n<p>Votre résistance ancestrale à la magie vous protège. Vous gagnez un bonus de circonstances de +1 au jet de sauvegarde déclencheur. Si l’effet déclencheur est de nature arcanique, vous gagnez un bonus de +2 à la place.</p>"
+        },
+        {
+            "id": "Breath Weapon (Poison) (Line)",
+            "name": "Breath Weapon (Poison) (Line) (Arme de souffle empoisonné (Ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #poison]]{1d6 dégâts de poison} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #poison]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Seething Frenzy",
@@ -302,6 +317,11 @@
             "description": "<p><strong>Déclencheur</strong> La cible du sort devrait subir des dégâts</p>\n<p><strong>Effet</strong> Réduiser les dégâts déclencheurs de 10, mais vous perdez 5 Points de vie. Même si cela réduit à 0 les dégâts, la cible subit toujours tout effet qui devrait être appliqué avec les dégâts, comme le poison sur la Frappe de crochets d'une vipère.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> La réaction réduit les dégâts de 10 et vous perdez 5 Points de vie de plus. Si vous voulez perdre moins de Points de vie, vous pouvez choisir de baisser la réduction de dégâts et les PV perdus à n'importe quelle version inférieur du sort sans pour autant baisser le niveau actuel du sort.</p>"
         },
         {
+            "id": "Manifest Soulforged Armament",
+            "name": "Manifest Soulforged Armament (Manifester l'arsenal du forgeur d'âme)",
+            "description": "<p><strong>Conditions</strong> Si vous invoquez une arme ou un bouclier, vous avez les mains libres pour les manier ; Si vous invoquez une armure, vous ne portez aucune armure ;</p>\n<p><strong>Effet</strong> Vous maniez immédiatement ou portez immédiatement l'arsenal forgé par l'âme qqui vous est lié. L'arsenal forgé par l'âme reste Manifesté jusqu'à ce que vous Révoquiez l'effet.</p>\n<p>Unefois par jour lorsque vous obtenez cette capacité, vous pouvez manifester la forme d'essence de votre arsenal. Vous obtenez la puissance de l'essence de votre arsenal jusqu'à ce qu'il soit Révoqué. Après 1 minute, la forme d'essence de votre arsenal est automatiquement Révoquée.</p>"
+        },
+        {
             "id": "Administer First Aid",
             "name": "Administer First Aid (Prodiguer les premiers soins)",
             "description": "<p><strong>Conditions</strong> Vous tenez ou portez des @Compendium[pf2e.equipment-srd.s1vB3HdXjMigYAnY]{instruments de guérisseur}</p>\n<hr />\n<p>Vous prodiguez les premiers soins à une créature adjacente qui est mourante ou victime de saignements. Si une créature est mourante et victime de saignements, choisissez quelle affection vous voulez soigner avant de faire le test. Vous pouvez Prodiguer les premiers soins à nouveau pour tenter de soigner l’autre affliction.</p>\n<ul>\n<li><strong>Stabiliser</strong> Faites un test de Médecine sur une créature dans l’état mourant à qui il reste 0 point de vie. Le DD est égal à 5 + le DD du test de récupération de cette créature (pour un total s’élevant le plus souvent à 15 + la valeur de son état mourant).</li>\n<li><strong>Stopper l'hémorragie</strong> Faites un test de Médecine sur une créature qui subit des dégâts de saignement persistants, ce qui lui permet d’effectuer un autre test nu pour éliminer les dégâts persistants. Le DD est le plus souvent égal à celui de l’effet qui a provoqué le saignement.</li>\n</ul>\n<hr />\n<p><strong>Succès</strong> Si vous tentez de la stabiliser, la créature n’a plus l’état mourant (mais elle reste @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconsciente}). Si vous tentez de stopper l’hémorragie, la créature effectue un test nu pour mettre un terme au saignement.</p>\n<p><strong>Échec critique</strong>  Si vous tentez de la stabiliser, la valeur de l’état mourant de la créature augmente de 1. Si vous tentez de stopper l’hémorragie, elle subit immédiatement un montant de dégâts égal à ses dégâts de saignements persistants.</p>"
@@ -394,7 +414,7 @@
         {
             "id": "Grab an Edge",
             "name": "Grab an Edge (Se raccrocher in extremis)",
-            "description": "<p><strong>Déclencheur</strong> Vous chutez depuis un rebord ou une prise ou passez à côté de l'un de ces éléments lors de votre chute.</p>\n<p><strong>Conditions</strong> Vos mains ne sont pas attachées dans votre dos ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravées} d'une quelconque manière.</p>\n<hr />\n<p>Quand vous chutez devant un rebord ou un autre type de prise, vous pouvez tenter de vous y raccrocher afin d’interrompre votre chute. Vous devez pour cela réussir un jet de Réflexes, généralement associé avec un DD pour Escalader. Si vous réussissez à vous raccrocher au rebord ou à la prise, vous pouvez alors Escalader en utilisant la compétence Athlétisme.\n<hr />\n<p><strong>Succès critique</strong> Vous attrapez le rebord ou la prise, sans nécessairement avoir besoin d’avoir une main libre, généralement en utilisant un objet adapté pour vous rattraper (en accrochant la lame d’une hache de bataille sur un rebord, par exemple). Vous subissez quand même les dégâts correspondant à la hauteur de laquelle vous avez chuté, mais vous réduisez cette hauteur de 9 m.</p>\n<p><strong>Succès</strong> Si vous avez au moins une main de libre, vous attrapez le rebord ou la prise et stoppez votre chute. Vous subissez quand même les dégâts correspondant à la hauteur de laquelle vous avez chuté, mais vous réduisez cette hauteur de 6 m. Si vous n’avez aucune main de libre, vous continuez de chuter comme si vous aviez échoué à votre test.</p>\n<p><strong>Échec critique</strong> Vous continuez votre chute et, si vous aviez déjà chuté d’une hauteur supérieure ou égale à 6 m quand vous avez utilisé cette réaction, vous subissez 10 dégâts contondants causés par l’impact pour toute tranche de 6 m de chute.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous chutez depuis un rebord ou une prise ou passez à côté de l'un de ces éléments lors de votre chute.</p>\n<p><strong>Conditions</strong> Vos mains ne sont pas attachées dans votre dos ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravées} d'une quelconque manière.</p>\n<hr />\n<p>Quand vous chutez devant un rebord ou un autre type de prise, vous pouvez tenter de vous y raccrocher afin d’interrompre votre chute. Vous devez pour cela réussir un jet de Réflexes, généralement associé avec un DD pour Escalader. Si vous réussissez à vous raccrocher au rebord ou à la prise, vous pouvez alors @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader} en utilisant la compétence Athlétisme.\n<hr />\n<p><strong>Succès critique</strong> Vous attrapez le rebord ou la prise, sans nécessairement avoir besoin d’avoir une main libre, généralement en utilisant un objet adapté pour vous rattraper (en accrochant la lame d’une hache de bataille sur un rebord, par exemple). Vous subissez quand même les dégâts correspondant à la hauteur de laquelle vous avez chuté, mais vous réduisez cette hauteur de 9 m.</p>\n<p><strong>Succès</strong> Si vous avez au moins une main de libre, vous attrapez le rebord ou la prise et stoppez votre chute. Vous subissez quand même les dégâts correspondant à la hauteur de laquelle vous avez chuté, mais vous réduisez cette hauteur de 6 m. Si vous n’avez aucune main de libre, vous continuez de chuter comme si vous aviez échoué à votre test.</p>\n<p><strong>Échec critique</strong> Vous continuez votre chute et, si vous aviez déjà chuté d’une hauteur supérieure ou égale à 6 m quand vous avez utilisé cette réaction, vous subissez 10 dégâts contondants causés par l’impact pour toute tranche de 6 m de chute.</p>"
         },
         {
             "id": "Spin Tale",
@@ -449,7 +469,7 @@
         {
             "id": "Dream Research",
             "name": "Dream Research (Recherche onirique)",
-            "description": "<p><strong>Déclencheur</strong> Vous vous endormez dans les 7,5 km du Manoir Xarwin.</p>\n<p><strong>Fréquence</strong> une fois toutes les 12 heures</p>\n<hr />\n<p>Lorsque vous dormez, vous faites des rêves qui sont proches de cauchemars. Dans ces rêves, votre esprit dérive de votre âme et tout ce que vous savez semble être tiré des lieux sombres entre les étoiles qui sont dévorées. Durant le rêve, vous pouvez vous concnetrez sur une sujet de recherche que vous avez débloqué et sur lequel vous n'avez pas pleinement enquêté. Si vous choisissez un sujet dont le groupe a déjà découvert l'ensemble des seuils, vous pouvez immédiatement changer de sujet pour en prendre un différent.</p>\n<p>La compétence que vous utilisez et le DD du test est fonction du sujet, comme détaillé dans l'entrée Rêve du sujet. Si vous ne rêvez pas dans les étages du Manoir, le lien spiriruel à la malveillance est réduit et vous subissez une pénalité de statut de –2 au test.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous obtenez 2 PR.</p>\n<p><strong>Succès</strong> Vous obtenez 1 RP.</p>\n<p><strong>Échec critique</strong> Vous regardez trop loin à l'intérieur de la malveillance qui remarque votre tentative. Vous parvenez à rompre le lien mental juste avant que vous ne perdiez des informations face à son appétit vorace. Augmentez la valeur de la condition malveillance de 1.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous vous endormez dans les 7,5 km du Manoir Xarwin.</p>\n<p><strong>Fréquence</strong> une fois toutes les 12 heures</p>\n<hr />\n<p>Lorsque vous dormez, vous faites des rêves qui sont proches de cauchemars. Dans ces rêves, votre esprit dérive de votre âme et tout ce que vous savez semble être tiré des lieux sombres entre les étoiles qui sont dévorées. Durant le rêve, vous pouvez vous concnetrez sur une sujet de recherche que vous avez débloqué et sur lequel vous n'avez pas pleinement enquêté. Si vous choisissez un sujet dont le groupe a déjà découvert l'ensemble des seuils, vous pouvez immédiatement changer de sujet pour en prendre un différent.</p>\n<p>La compétence que vous utilisez et le DD du test sont déterminées en fonction du sujet, comme détaillé dans l'entrée Rêve du sujet. Si vous ne rêvez pas dans les étages du Manoir, le lien spirituel envers la malveillance est réduit et vous subissez une pénalité de statut de –2 au test.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous obtenez 2 PR.</p>\n<p><strong>Succès</strong> Vous obtenez 1 PR.</p>\n<p><strong>Échec critique</strong> Vous regardez trop loin à l'intérieur de la malveillance qui remarque votre tentative. Vous parvenez à rompre le lien mental juste avant que vous ne perdiez des informations face à son appétit vorace. Augmentez la valeur de la condition malveillance de 1.</p>"
         },
         {
             "id": "Smoke Blending",
@@ -484,7 +504,7 @@
         {
             "id": "Warding Sign",
             "name": "Warding Sign (Signe de protection)",
-            "description": "<p><strong>Fréquence</strong> une fois par minute</p>\n<p><strong>Déclencheur</strong> Vous faites un Jet de Sauvegarde contre un effet magique mais vous n'avez pas encore lancé le dé</p>\n<hr />\n<p>Vous faites appel au pouvoir d'un signe de protection mystique qui vous est personnel, qui luit brillament avant de s'évanouir lentement. Vous obtenez un bonus de circonstances de +2 au jet de sauvegarde déclencheur ou de +3 si l'effet provient d'une malédiction.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par minute</p>\n<p><strong>Déclencheur</strong> Vous faites un jet de sauvegarde contre un effet magique mais vous n'avez pas encore lancé le dé</p>\n<hr />\n<p>Vous faites appel au pouvoir d'un signe de protection mystique qui vous est personnel, qui brille vivement avant de s'évanouir lentement. Vous obtenez un bonus de circonstances de +2 au jet de sauvegarde déclencheur ou de +3 si l'effet provient d'une malédiction.</p>"
         },
         {
             "id": "Delay",
@@ -687,6 +707,11 @@
             "description": "<p>Vous vous déplacez d'une distance maximale égale à votre Vitesse.</p>"
         },
         {
+            "id": "Breath Weapon (Acid) (Line)",
+            "name": "Breath Weapon (Acid) (Line) (Arme de souffle acide (Ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #acide]]{1d6 dégâts d'acide} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #acide]]{Dégâts selon le niveau}</p>"
+        },
+        {
             "id": "Breath Weapon (Poison) (Cone)",
             "name": "Breath Weapon (Poison) (Cone) (Arme de souffle empoisonné (cône))",
             "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #poison]]{1d6 dégâts de poison} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #poison]]{Dégâts selon le niveau}</p>"
@@ -710,6 +735,11 @@
             "id": "Overload Vision",
             "name": "Overload Vision (Vision surchargée)",
             "description": "<p><strong>Déclencheur</strong> Une créature dans les 18 m devrait faire un jet d'attaque contre vous ;</p>\n<p><strong>Effet</strong> La créature déclencheuse doit tenter un jet de Vigueur.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible est @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} jusqu'à la fin de votre tour actuel.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglée} jusqu'à la fin de votre tour actuel.</p>\n<p><strong>Échec critique</strong> La cible est aveuglée jusqu'à la fin du tour actuel et Éblouie pendant 1 minute.</p>"
+        },
+        {
+            "id": "Breath Weapon (Piercing) (Line)",
+            "name": "Breath Weapon (Piercing) (Line) (Arme de souffle perforante (Ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #perforants]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Conceal an Object",
@@ -799,7 +829,7 @@
         {
             "id": "Invoke Celestial Privilege",
             "name": "Invoke Celestial Privilege (Invoquer le privilège céleste)",
-            "description": "<p><strong>Déclencheur</strong> Vous tentez un jet de sauvegarde contre un effet divin, mais n'avez pas encore lancé les dés.</p>\n<hr />\n<p>Vous vous élevez au dessus de l'effet déclencheur, refusant d'être blessé par lui. Vous obtenez un bonus de circonstances de +1 au jet déclencheur et à tout autre jet de sauvegarde que vous faites contre les effets divins jusqu'au début de votre prochain tour.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous tentez un jet de sauvegarde contre un effet divin mais vous n'avez pas encore lancé le dé</p>\n<hr />\n<p>Vous vous élevez au dessus de l'effet déclencheur, refusant d'être blessé par lui. Vous obtenez un bonus de circonstances de +1 au jet déclencheur et à tout autre jet de sauvegarde que vous faites contre les effets divins jusqu'au début de votre prochain tour.</p>"
         },
         {
             "id": "Search",
@@ -849,7 +879,7 @@
         {
             "id": "Point Out",
             "name": "Point Out (Signaler)",
-            "description": "<p><strong>Conditions</strong> Une créature est non détectée par un ou plusieurs de vos alliés, mais pas par vous.</p>\n<hr>\n<p>Vous désignez une créature que vous pouvez voir à un ou plusieurs de vos alliés, en la montrant du doigt et en indiquant verbalement à quelle distance elle se trouve. La créature se trouve alors @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée} par rapport à vos alliés plutôt que @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée}. Cela ne fonctionne que si vos alliés peuvent vous voir et qu’ils se trouvent à un endroit d’où ils pourraient potentiellement détecter la cible. Si vos alliés ne peuvent pas vous entendre ou vous comprendre, ils doivent alors réussir un test de Perception contre le DD de Discrétion de la créature. Sur un échec, ils vous comprennent mal et croient que la cible se trouve à un autre endroit que celui que vous désignez.</p>"
+            "description": "<p><strong>Conditions</strong> Une créature est non détectée par un ou plusieurs de vos alliés, mais pas par vous.</p>\n<hr />\n<p>Vous désignez une créature que vous pouvez voir à un ou plusieurs de vos alliés, en la montrant du doigt et en indiquant verbalement à quelle distance elle se trouve. La créature se trouve alors @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée} par rapport à vos alliés plutôt que @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée}. Cela ne fonctionne que si vos alliés peuvent vous voir et qu’ils se trouvent à un endroit d’où ils pourraient potentiellement détecter la cible. Si vos alliés ne peuvent pas vous entendre ou vous comprendre, ils doivent alors réussir un test de Perception contre le DD de Discrétion de la créature. Sur un échec, ils vous comprennent mal et croient que la cible se trouve à un autre endroit que celui que vous désignez.</p>"
         },
         {
             "id": "Practical Research",
@@ -868,7 +898,7 @@
         },
         {
             "id": "Cleanse Soul Path",
-            "name": "Cleanse Soul Path (Purifier le chemin de l'âme)",
+            "name": "Cleanse Soul Path (Nettoyer le chemin de l'âme)",
             "description": "<p>Vous méditez, priez ou vous essayez autrement de renforcer le lien entre votre arme et votre arsenal forgé par l'âme. Cela vous prend 10 minutes. Faites un test de contre contre  votre corruption forgé par l'âme. Le niveau de contre est à la moitié de votre niveau arrondi au supérieur et le modificateur du test de contre est votre modificateur de Religion. S'il est réussi, réduisez le stade de votre corruption forgée par l'âme de  1 (jusqu'à un Stade de 1 au minimum ).</p>"
         },
         {
@@ -890,6 +920,11 @@
             "id": "Recall Knowledge (Religion)",
             "name": "Recall Knowledge (Religion) (Se souvenir (Religion))",
             "description": "<p>Vous effectuez un test de compétence pour tenter de vous rappeler une information à propos d’un sujet correspondant à une compétence. Le MJ détermine le DD de ces tests et la compétence applicable.</p>\n<p>La compétence <strong>Religion</strong> peut être utilisée pour Se souvenir et obtenir des informations sur les sujets suivants : agents divins, plans divins, théologie, mythes obscurs et créatures importantes d’un point de vue religieux.</p>\n<p>Dans certains cas, le MJ peut vous autoriser à utiliser une compétence différente mais elle aussi apparentée, généralement contre un DD plus élevé que la normale. Certains sujets peuvent apparaître plusieurs fois dans les listes mais les compétences peuvent chacune fournir des informations différentes. Par exemple, Arcanes pourrait vous permettre d’en savoir plus sur les défenses magiques d’un golem, là où Artisanat pourrait vous informer sur sa résistance impressionnante contre les attaques physiques.</p>\n<p>Le MJ peut vous autoriser à faire des tests pour Se souvenir en utilisant d’autres compétences. Par exemple, vous pourriez évaluer le talent d’un acrobate en utilisant Acrobaties. Si vous utilisez une compétence physique (comme dans cet exemple), il est fort probable que le MJ vous demande d’appliquer une valeur de caractéristique mentale — le plus souvent l’Intelligence — au lieu de la valeur de caractéristique physique normalement associée à la compétence.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous vous souvenez avec précision de l'information nécessaire et obtenez des informations ou du contexte supplémentaires.</p>\n<p><strong>Succès</strong> Vous vous souvenez avec précision de l'information nécessaire ou obtenez un indice utile sur votre situation actuelle.</p>\n<p><strong>Échec critique</strong> Vous vous souvenez d'une information inexacte ou obtenez un indice faux ou trompeur.</p>\n<h2 class=\"title\">Se souvenir : exemples de tâches</h2>\n<p>Ces exemples utilisent Société et Religion.</p>\n<ul>\n<li><strong>Inexpérimenté</strong> le nom d'un souverain, d'un noble prépondérant ou d'une divinité majeure</li>\n<li><strong>Qualifié</strong> la ligne de succession d'une famille noble majeure, les principaux préceptes d'une divinité majeure</li>\n<li><strong>Expert</strong> la généalogie d'un noble mineur, les enseignements d'un ancien prêtre</li>\n<li><strong>Maître</strong> la hiérarchie au sein de la cour d'un génie noble, les temples extraplanaires majeurs d'une divinité</li>\n<li><strong>Légendaire</strong> l'existence d'un héritier d'une famille noble depuis longtemps disparue, les préceptes secrets d'une religion</li>\n</ul>"
+        },
+        {
+            "id": "Breath Weapon (Fire) (Line)",
+            "name": "Breath Weapon (Fire) (Line) (Arme de souffle de feu (Ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #feu]]{1d6 dégâts de feu} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #feu]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Upstage",
@@ -960,6 +995,11 @@
             "id": "Long Jump",
             "name": "Long Jump (Sauter en longueur)",
             "description": "<p>Vous Marchez rapidement, puis vous Bondissez à l’horizontale et effectuez un test <span data-pf2-action=\"longJump\" data-pf2-glyph=\"D\">d’Athlétisme</span> pour augmenter la longueur de votre saut. Pour déterminer le DD du test d’Athlétisme, on divise la distance totale en centimètres par 30 cm si vous tentez de vous déplacer pendant votre Bond (il vous faudra donc réussir un test DD 20 pour faire un Bond en longueur de 6 m). La longueur de votre Bond ne peut pas dépasser votre Vitesse.</p>\n<p>Si vous ne prenez pas un élan d’au moins 3 m avec l’action Marcher rapidement, ou si vous tentez de sauter dans une direction différente de celle de votre Marche rapide, vous ratez automatiquement votre test. Le MJ peut augmenter ou diminuer ce DD en fonction des situations.</p>\n<hr />\n<p><strong>Succès</strong> La distance horizontale maximale de votre @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bond} est égale à la distance voulue.</p>\n<p><strong>Échec</strong> Vous bondissez normalement.</p>\n<p><strong>Échec critique</strong> Vous bondissez normalement, puis tombez @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
+        },
+        {
+            "id": "Breath Weapon (Negative) (Line)",
+            "name": "Breath Weapon (Negative) (Line) (Arme de souffle négative (Ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #négatifs]]{1d6 dégâts négatifs} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #négatifs]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Lie",
@@ -1050,6 +1090,11 @@
             "id": "Affix a Fulu",
             "name": "Affix a Fulu (Fixer un fulu)",
             "description": "<p>Vous fixez un fulu à une armure, une arme, un bouclier ou une créature ou une structure qui est à côté ou dans la même case que vous. Une créature peut retirer un fulu sur elle-même ou sur un objet abandonnéé dans cette portée par une action unique.</p>"
+        },
+        {
+            "id": "Breath Weapon (Cold) (Line)",
+            "name": "Breath Weapon (Cold) (Line) (Arme de souffle de froid (Ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #froid]]{1d6 dégâts de froid} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #froid]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Grapple",
