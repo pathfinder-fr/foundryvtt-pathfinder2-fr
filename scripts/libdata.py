@@ -70,9 +70,9 @@ SUPPORTED = {
     "conditionitems": {'transl': "Conditions", "paths": {'name': "name", 'desc': "data.description.value"}},
     "actions": {'transl': "Actions", "paths": {'name': "name", 'desc': "data.description.value"}},
     "archetypes": {'transl': "Archétypes", "paths": {'name': "name", 'desc': "content"}},
-    "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
-    "pathfinder-bestiary-2": {'transl': "Bestiaire 2", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
-    "pathfinder-bestiary-3": {'transl': "Bestiaire 3", "paths": {'name': "name", 'desc': "data.details.flavorText"}},
+    "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
+    "pathfinder-bestiary-2": {'transl': "Bestiaire 2", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
+    "pathfinder-bestiary-3": {'transl': "Bestiaire 3", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
     "hazards": {
       'transl': "Dangers",
       "paths": {
