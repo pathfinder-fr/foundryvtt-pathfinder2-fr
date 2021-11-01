@@ -4,7 +4,7 @@
  * **libre**: 26
 
 
-Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés

@@ -1,13 +1,58 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 197
- * **changé**: 65
- * **libre**: 167
+ * **officielle**: 195
+ * **changé**: 69
+ * **libre**: 166
+ * **aucune**: 39
 
 
-Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[gunslinger-01-a3pSIKkDVTvvNSRO.htm](classfeatures/gunslinger-01-a3pSIKkDVTvvNSRO.htm)|Way of the Drifter|
+|[gunslinger-01-LDqVxLKrwEqSegiu.htm](classfeatures/gunslinger-01-LDqVxLKrwEqSegiu.htm)|Gunslinger's Way|
+|[gunslinger-01-OmgtSDV1FubDUqWR.htm](classfeatures/gunslinger-01-OmgtSDV1FubDUqWR.htm)|Way of the Spellshot|
+|[gunslinger-01-qRLRrHf0kzaJ7xt0.htm](classfeatures/gunslinger-01-qRLRrHf0kzaJ7xt0.htm)|Way of the Pistolero|
+|[gunslinger-01-QWXvksGJhOjXbBqi.htm](classfeatures/gunslinger-01-QWXvksGJhOjXbBqi.htm)|Way of the Sniper|
+|[gunslinger-01-vB0yVFxJVZwalt2g.htm](classfeatures/gunslinger-01-vB0yVFxJVZwalt2g.htm)|Way of the Vanguard|
+|[gunslinger-01-vXbk7Nm1TOTTUNvF.htm](classfeatures/gunslinger-01-vXbk7Nm1TOTTUNvF.htm)|Singular Expertise|
+|[gunslinger-03-Wpdeh6EkcAKA60oH.htm](classfeatures/gunslinger-03-Wpdeh6EkcAKA60oH.htm)|Stubborn|
+|[gunslinger-05-9nRT8aq05Fy2D3i3.htm](classfeatures/gunslinger-05-9nRT8aq05Fy2D3i3.htm)|Gunslinger Weapon Mastery|
+|[gunslinger-09-3JLW5vPshsJf3nCY.htm](classfeatures/gunslinger-09-3JLW5vPshsJf3nCY.htm)|Advanced Deed|
+|[gunslinger-09-aKr6OE8vI2BsJzf1.htm](classfeatures/gunslinger-09-aKr6OE8vI2BsJzf1.htm)|Gunslinger Expertise|
+|[gunslinger-11-EZuWfYSv3ASLyKtu.htm](classfeatures/gunslinger-11-EZuWfYSv3ASLyKtu.htm)|Evasion (Level 11)|
+|[gunslinger-13-ULOAZWZEokbJC6Rq.htm](classfeatures/gunslinger-13-ULOAZWZEokbJC6Rq.htm)|Gunslinging Legend|
+|[gunslinger-15-yc9RuXXxmZ9YidH6.htm](classfeatures/gunslinger-15-yc9RuXXxmZ9YidH6.htm)|Greater Deed|
+|[gunslinger-17-RkofVX55ciXZyfAA.htm](classfeatures/gunslinger-17-RkofVX55ciXZyfAA.htm)|Shootist's Edge|
+|[gunslinger-19-kktZhQPJgC5F4hgU.htm](classfeatures/gunslinger-19-kktZhQPJgC5F4hgU.htm)|Incredible Senses (Level 19)|
+|[gunslinger-19-zpFmqOpZ9IiWodsh.htm](classfeatures/gunslinger-19-zpFmqOpZ9IiWodsh.htm)|Incredible Senses|
+|[inventor-01-JH6um0St37UrjLNG.htm](classfeatures/inventor-01-JH6um0St37UrjLNG.htm)|Peerless Inventor|
+|[inventor-01-jIAgXe2FetAKBwt7.htm](classfeatures/inventor-01-jIAgXe2FetAKBwt7.htm)|Innovation|
+|[inventor-01-oP5zM5Yu41xcx3iu.htm](classfeatures/inventor-01-oP5zM5Yu41xcx3iu.htm)|Overdrive|
+|[inventor-01-pEm1RTNuzzQVKkR0.htm](classfeatures/inventor-01-pEm1RTNuzzQVKkR0.htm)|Explode|
+|[inventor-03-J46wcNqKXvtokBD1.htm](classfeatures/inventor-03-J46wcNqKXvtokBD1.htm)|Reconfigure|
+|[inventor-03-YMKxN56w617BYwu4.htm](classfeatures/inventor-03-YMKxN56w617BYwu4.htm)|Expert Overdrive|
+|[inventor-05-0NyPgi6UACMTmAGE.htm](classfeatures/inventor-05-0NyPgi6UACMTmAGE.htm)|Inventor Weapon Expertise|
+|[inventor-07-78HIjRbGoONMpF31.htm](classfeatures/inventor-07-78HIjRbGoONMpF31.htm)|Breakthrough Innovation|
+|[inventor-07-SXv9bJFbntDOMRIL.htm](classfeatures/inventor-07-SXv9bJFbntDOMRIL.htm)|Master Overdrive|
+|[inventor-07-Xqd0vrxq2bLXxdaB.htm](classfeatures/inventor-07-Xqd0vrxq2bLXxdaB.htm)|Lightning Reflexes (Level 7)|
+|[inventor-09-F8oXHnu9iNTcpXbJ.htm](classfeatures/inventor-09-F8oXHnu9iNTcpXbJ.htm)|Offensive Boost|
+|[inventor-09-mQVC1iDyNi2tfsF8.htm](classfeatures/inventor-09-mQVC1iDyNi2tfsF8.htm)|Inventive Expertise|
+|[inventor-13-j0klWHkH3AxUAgok.htm](classfeatures/inventor-13-j0klWHkH3AxUAgok.htm)|Complete Reconfiguration|
+|[inventor-13-mJpPaoVlNmTK47x1.htm](classfeatures/inventor-13-mJpPaoVlNmTK47x1.htm)|Inventor Weapon Mastery|
+|[inventor-13-qJ4fwGpoNC36ZQ8I.htm](classfeatures/inventor-13-qJ4fwGpoNC36ZQ8I.htm)|Alertness (Level 13)|
+|[inventor-15-o1omL2LdHvjEwh3P.htm](classfeatures/inventor-15-o1omL2LdHvjEwh3P.htm)|Legendary Overdrive|
+|[inventor-15-tXbadIT3LzwuSR19.htm](classfeatures/inventor-15-tXbadIT3LzwuSR19.htm)|Revolutionary Innovation|
+|[inventor-17-ojB0UJWpSekQPjT7.htm](classfeatures/inventor-17-ojB0UJWpSekQPjT7.htm)|Juggernaut (Level 17)|
+|[inventor-17-Uu8VnpAo3XZZEKPd.htm](classfeatures/inventor-17-Uu8VnpAo3XZZEKPd.htm)|Inventive Mastery|
+|[inventor-19-NcEpvnIZfKzG1Iou.htm](classfeatures/inventor-19-NcEpvnIZfKzG1Iou.htm)|Medium Armor Mastery (Level 19)|
+|[inventor-19-rOaLbipkComjc6qh.htm](classfeatures/inventor-19-rOaLbipkComjc6qh.htm)|Infinite Invention|
+|[magus-01-wXaz41gwqNtTn6tf.htm](classfeatures/magus-01-wXaz41gwqNtTn6tf.htm)|Arcane Spellcasting (Magus)|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -74,9 +119,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|changé|
 |[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|changé|
 |[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Trafic de roublard : Scélérat|changé|
+|[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|changé|
+|[rogue-07-0npO4rPscGm0dX13.htm](classfeatures/rogue-07-0npO4rPscGm0dX13.htm)|Vigilant Senses (Level 7)|Sens alertes (Niveau 7)|changé|
 |[sorcerer-01-dKTb959aCQIzSIXj.htm](classfeatures/sorcerer-01-dKTb959aCQIzSIXj.htm)|Bloodline: Wyrmblessed|Lignage : béni du Ver|changé|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|Incantation de l'ensorceleur|changé|
+|[witch-01-9uLh5z2uPo6LDFRY.htm](classfeatures/witch-01-9uLh5z2uPo6LDFRY.htm)|Hexes|Maléfices|changé|
 |[witch-11-O99eXctsEjEpuBwe.htm](classfeatures/witch-11-O99eXctsEjEpuBwe.htm)|Weapon Expertise (Level 11)|Expertise avec les armes (Niveau 11)|changé|
+|[wizard-01-S6WW4Yyg4XonXGHD.htm](classfeatures/wizard-01-S6WW4Yyg4XonXGHD.htm)|Arcane Spellcasting (Wizard)|Incantation arcanique|changé|
 
 ## Liste des traductions complétés
 
@@ -203,6 +252,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fighter-15-W2rwudMNcAxs8VoX.htm](classfeatures/fighter-15-W2rwudMNcAxs8VoX.htm)|Improved Flexibility|Flexibilité améliorée|officielle|
 |[fighter-17-IPDwS5pTgU3Cq6Nl.htm](classfeatures/fighter-17-IPDwS5pTgU3Cq6Nl.htm)|Armor Mastery (Level 17)|Maîtrise des armures (Niveau 17)|libre|
 |[fighter-19-0H2LxtiZTJ275pSD.htm](classfeatures/fighter-19-0H2LxtiZTJ275pSD.htm)|Versatile Legend|Légende polyvalente|officielle|
+|[gunslinger-13-tzUaTqB6GHAeffOl.htm](classfeatures/gunslinger-13-tzUaTqB6GHAeffOl.htm)|Medium Armor Expertise (Level 13)|Expertise avec les armures intermédiaires (Niveau 13)|libre|
 |[investigator-01-2Fe4YZCvAr9Yf6w7.htm](classfeatures/investigator-01-2Fe4YZCvAr9Yf6w7.htm)|Strategic Strike|Frappe stratégique|libre|
 |[investigator-01-6FasgIXUJ1X8ekRn.htm](classfeatures/investigator-01-6FasgIXUJ1X8ekRn.htm)|On the Case|Sur l'affaire|libre|
 |[investigator-01-g3mNzNphtVxyR9Xr.htm](classfeatures/investigator-01-g3mNzNphtVxyR9Xr.htm)|Empiricism Methodology|Méthodologie : empirisme|libre|
@@ -321,8 +371,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-01-uGuCGQvUmioFV2Bd.htm](classfeatures/rogue-01-uGuCGQvUmioFV2Bd.htm)|Rogue's Racket|Trafics de roublard|libre|
 |[rogue-01-w6rMqmGzhUahdnA7.htm](classfeatures/rogue-01-w6rMqmGzhUahdnA7.htm)|Surprise Attack|Attaque surprise|officielle|
 |[rogue-03-PNpmVmD21zViDtGC.htm](classfeatures/rogue-03-PNpmVmD21zViDtGC.htm)|Deny Advantage (Level 3)|Refus d'avantage (Niveau 3)|officielle|
-|[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|officielle|
-|[rogue-07-0npO4rPscGm0dX13.htm](classfeatures/rogue-07-0npO4rPscGm0dX13.htm)|Vigilant Senses (Level 7)|Sens alertes (Niveau 7)|libre|
 |[rogue-09-25GSAotUcDwInYgG.htm](classfeatures/rogue-09-25GSAotUcDwInYgG.htm)|Great Fortitude (Level 9)|Vigueur supérieure (Niveau 9)|libre|
 |[rogue-09-9SruVg2lZpNaYLOB.htm](classfeatures/rogue-09-9SruVg2lZpNaYLOB.htm)|Debilitating Strikes|Frappes incapacitantes|officielle|
 |[rogue-11-f3Dh32EU4VsHu01b.htm](classfeatures/rogue-11-f3Dh32EU4VsHu01b.htm)|Rogue Expertise|Expertise du Roublard|officielle|
@@ -401,7 +449,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-19-SHpjmM4A3Sw4GgDz.htm](classfeatures/swashbuckler-19-SHpjmM4A3Sw4GgDz.htm)|Light Armor Mastery (Level 19)|Maîtrise des armures légères (Niveau 19)|libre|
 |[swashbuckler-19-ypfT3iybew6ZSIUl.htm](classfeatures/swashbuckler-19-ypfT3iybew6ZSIUl.htm)|Eternal Confidence|Confiance éternelle|libre|
 |[witch-01-4IfYHrQMosJNM8hv.htm](classfeatures/witch-01-4IfYHrQMosJNM8hv.htm)|Fervor Patron|Patron : Ferveur|libre|
-|[witch-01-9uLh5z2uPo6LDFRY.htm](classfeatures/witch-01-9uLh5z2uPo6LDFRY.htm)|Hexes|Maléfices|libre|
 |[witch-01-ejmSQOJR5lJv1pzh.htm](classfeatures/witch-01-ejmSQOJR5lJv1pzh.htm)|Rune Patron|Patron : Rune|libre|
 |[witch-01-KPtF29AaeX2sJW0K.htm](classfeatures/witch-01-KPtF29AaeX2sJW0K.htm)|Patron|Patron|libre|
 |[witch-01-NAXRmMjj0gcyD7ie.htm](classfeatures/witch-01-NAXRmMjj0gcyD7ie.htm)|Curse Patron|Patron : Malédiction|libre|
@@ -429,7 +476,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wizard-01-qczCKdg47eAmCOUD.htm](classfeatures/wizard-01-qczCKdg47eAmCOUD.htm)|Arcane School: Universalist|École arcanique : universaliste|officielle|
 |[wizard-01-QzWXMCSGNfvvpYgF.htm](classfeatures/wizard-01-QzWXMCSGNfvvpYgF.htm)|Arcane Thesis: Spell Substitution|Thèse arcanique : Substitution de sort|officielle|
 |[wizard-01-rHxkPijLnQ9O9AGV.htm](classfeatures/wizard-01-rHxkPijLnQ9O9AGV.htm)|Arcane School: Transmutation|École arcanique : Transmutation|officielle|
-|[wizard-01-S6WW4Yyg4XonXGHD.htm](classfeatures/wizard-01-S6WW4Yyg4XonXGHD.htm)|Arcane Spellcasting|Incantation arcanique|officielle|
 |[wizard-01-SNeVaUBTHwvoO6kr.htm](classfeatures/wizard-01-SNeVaUBTHwvoO6kr.htm)|Arcane School: Conjuration|École arcanique : Invocation|officielle|
 |[wizard-01-SNZ46g3u7U6x0XJj.htm](classfeatures/wizard-01-SNZ46g3u7U6x0XJj.htm)|Arcane Thesis: Improved Familiar Attunement|Thèse arcanique : Amélioration de l’harmonisation avec le familier|officielle|
 |[wizard-01-uNM7qZQokRKAEd7k.htm](classfeatures/wizard-01-uNM7qZQokRKAEd7k.htm)|Arcane School: Necromancy|École arcanique : Nécromancie|officielle|

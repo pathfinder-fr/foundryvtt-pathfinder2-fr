@@ -1,50 +1,19 @@
 # État de la traduction (hazards)
 
- * **changé**: 50
+ * **libre**: 4
+ * **officielle**: 23
+ * **changé**: 23
 
 
-Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[0dg9YrjsDi6Ap3jF.htm](hazards/0dg9YrjsDi6Ap3jF.htm)|Web Lurker Deadfall|
-|[Or0jjL8xS3GyiMq0.htm](hazards/Or0jjL8xS3GyiMq0.htm)|Web Lurker Noose|
-|[wHUIZ5QhG37cRzSV.htm](hazards/wHUIZ5QhG37cRzSV.htm)|Gravehall Trap|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[1egK7HFAFdHxMS9N.htm](hazards/1egK7HFAFdHxMS9N.htm)|Sportlebore|Collembole|changé|
-|[2GAOUxDfoA48uCWP.htm](hazards/2GAOUxDfoA48uCWP.htm)|Fireball Rune|Rune de boule de feu|changé|
-|[491qhVbjsHnOuMZW.htm](hazards/491qhVbjsHnOuMZW.htm)|Electric Latch Rune|Rune de loquet électrique|changé|
-|[4jJxLlimyQaIVXlt.htm](hazards/4jJxLlimyQaIVXlt.htm)|Darkside Mirror|Miroir aux sombres reflets|changé|
-|[4O7wKZdeAemTEbvG.htm](hazards/4O7wKZdeAemTEbvG.htm)|Slamming Door|Claque-porte|changé|
-|[6In2S3lDnxNgZ2np.htm](hazards/6In2S3lDnxNgZ2np.htm)|Titanic Flytrap|Gobe-mouche titanesque|changé|
+|[6In2S3lDnxNgZ2np.htm](hazards/6In2S3lDnxNgZ2np.htm)|Titanic Flytrap|Attrape-mouches titanesque|changé|
 |[7VqibTAEXXX6PIhh.htm](hazards/7VqibTAEXXX6PIhh.htm)|Scythe Blades|Lames de faux|changé|
-|[8ewUvJlvn6LVjoXJ.htm](hazards/8ewUvJlvn6LVjoXJ.htm)|Second Chance|Seconde chance|changé|
-|[8gAoSgBJN8QqzP1R.htm](hazards/8gAoSgBJN8QqzP1R.htm)|Frozen Moment|Instant figé|changé|
-|[98rS64gLzy1ReXoR.htm](hazards/98rS64gLzy1ReXoR.htm)|Hampering Web|Toile ralentissante|changé|
-|[A93flWUsot3FmC7t.htm](hazards/A93flWUsot3FmC7t.htm)|Yellow Mold|Moisissure jaune|changé|
-|[AM3YY2Zfe2ChJHd7.htm](hazards/AM3YY2Zfe2ChJHd7.htm)|Telekinetic Swarm Trap|Piège de nuée télékinésique|changé|
-|[BHq5wpQU8hQEke8D.htm](hazards/BHq5wpQU8hQEke8D.htm)|Hidden Pit|Fosse dissimulée|changé|
-|[BsZ6o2YrwVovKfNh.htm](hazards/BsZ6o2YrwVovKfNh.htm)|Armageddon Orb|Orbe de l'armageddon|changé|
-|[C6nFe8SCWJ8FmLOT.htm](hazards/C6nFe8SCWJ8FmLOT.htm)|Quicksand|Sables mouvants|changé|
-|[d3YklujLpBFC5HfB.htm](hazards/d3YklujLpBFC5HfB.htm)|Ghostly Choir|Chœur fantômatique|changé|
-|[g9HovYB4pfHgIML9.htm](hazards/g9HovYB4pfHgIML9.htm)|Flensing Blades|Lames dépeçantes|changé|
-|[gB9WkJtH88jJQa5Z.htm](hazards/gB9WkJtH88jJQa5Z.htm)|Plummeting Doom|Chute tragique|changé|
-|[gFt2nzQrVgXM9tmJ.htm](hazards/gFt2nzQrVgXM9tmJ.htm)|Treacherous Scree|Éboulis traître|changé|
-|[H2GX04CQXLPQHT8h.htm](hazards/H2GX04CQXLPQHT8h.htm)|Wheel Of Misery|Roue du malheur|changé|
-|[H8CPGJn81JSTCRNx.htm](hazards/H8CPGJn81JSTCRNx.htm)|Polymorph Trap|Piège de métamorphose|changé|
-|[HnPd9Vqh5NHKEdRq.htm](hazards/HnPd9Vqh5NHKEdRq.htm)|Spinning Blade Pillar|Colonne de lames tournoyantes|changé|
-|[inUlZWE1isqnTRc5.htm](hazards/inUlZWE1isqnTRc5.htm)|Jealous Abjurer|Abjurateur jaloux|changé|
-|[J4YChuob7MIPT5Mq.htm](hazards/J4YChuob7MIPT5Mq.htm)|Vorpal Executioner|Bourreau vorpal|changé|
-|[lgyGhpyPosriQUzE.htm](hazards/lgyGhpyPosriQUzE.htm)|Perilous Flash Flood|Inondation périlleuse rapide|changé|
-|[LLPsEKLoVmoPleJS.htm](hazards/LLPsEKLoVmoPleJS.htm)|Green Slime|Substance gluante verte|changé|
-|[lVqVDjXnHboMif7F.htm](hazards/lVqVDjXnHboMif7F.htm)|Poisoned Dart Gallery|Couloir de fléchettes empoisonnées|changé|
 |[m4PRYxFq9ojcwesh.htm](hazards/m4PRYxFq9ojcwesh.htm)|Pharaoh's Ward|Sceau du pharaon|changé|
 |[mMXHyWdmmAN0GPvG.htm](hazards/mMXHyWdmmAN0GPvG.htm)|Banshee's Symphony|Symphonie d'outre-tombe|changé|
 |[nO4osrBRnpWKFCMP.htm](hazards/nO4osrBRnpWKFCMP.htm)|Summoning Rune|Rune de convocation|changé|
@@ -62,6 +31,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VA4VL3kVUxBYbwRf.htm](hazards/VA4VL3kVUxBYbwRf.htm)|Snowfall|Chute de neige|changé|
 |[vlMuFskctUvjJe8X.htm](hazards/vlMuFskctUvjJe8X.htm)|Spear Launcher|Lance épieu|changé|
 |[vTdWEBzJzltMM6r4.htm](hazards/vTdWEBzJzltMM6r4.htm)|Shrieker|Criard|changé|
+|[wHUIZ5QhG37cRzSV.htm](hazards/wHUIZ5QhG37cRzSV.htm)|Gravehall Trap|Piège de la salle des tombes|changé|
 |[xkqjwu1ox0pQLOnb.htm](hazards/xkqjwu1ox0pQLOnb.htm)|Bottomless Pit|Trappe sans fond|changé|
 |[yM4G2LvMwvkIRx0G.htm](hazards/yM4G2LvMwvkIRx0G.htm)|Planar Rift|Faille planaire|changé|
 |[ZUCGvc2dTJUlM9dC.htm](hazards/ZUCGvc2dTJUlM9dC.htm)|Dance Of Death|Danse de mort|changé|
@@ -70,3 +40,30 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[0dg9YrjsDi6Ap3jF.htm](hazards/0dg9YrjsDi6Ap3jF.htm)|Web Lurker Deadfall|Toile-assommoir|libre|
+|[1egK7HFAFdHxMS9N.htm](hazards/1egK7HFAFdHxMS9N.htm)|Sportlebore|Collembole|libre|
+|[2GAOUxDfoA48uCWP.htm](hazards/2GAOUxDfoA48uCWP.htm)|Fireball Rune|Rune de boule de feu|officielle|
+|[491qhVbjsHnOuMZW.htm](hazards/491qhVbjsHnOuMZW.htm)|Electric Latch Rune|Rune de loquet électrique|officielle|
+|[4jJxLlimyQaIVXlt.htm](hazards/4jJxLlimyQaIVXlt.htm)|Darkside Mirror|Miroir aux sombres reflets|officielle|
+|[4O7wKZdeAemTEbvG.htm](hazards/4O7wKZdeAemTEbvG.htm)|Slamming Door|Claque-porte|officielle|
+|[8ewUvJlvn6LVjoXJ.htm](hazards/8ewUvJlvn6LVjoXJ.htm)|Second Chance|Deuxième chance|officielle|
+|[8gAoSgBJN8QqzP1R.htm](hazards/8gAoSgBJN8QqzP1R.htm)|Frozen Moment|Instant figé|officielle|
+|[98rS64gLzy1ReXoR.htm](hazards/98rS64gLzy1ReXoR.htm)|Hampering Web|Toile entravante|officielle|
+|[A93flWUsot3FmC7t.htm](hazards/A93flWUsot3FmC7t.htm)|Yellow Mold|Moisissure jaune|officielle|
+|[AM3YY2Zfe2ChJHd7.htm](hazards/AM3YY2Zfe2ChJHd7.htm)|Telekinetic Swarm Trap|Piège de nuée télékinésique|officielle|
+|[BHq5wpQU8hQEke8D.htm](hazards/BHq5wpQU8hQEke8D.htm)|Hidden Pit|Fosse dissimulée|officielle|
+|[BsZ6o2YrwVovKfNh.htm](hazards/BsZ6o2YrwVovKfNh.htm)|Armageddon Orb|Orbe de l'armageddon|officielle|
+|[C6nFe8SCWJ8FmLOT.htm](hazards/C6nFe8SCWJ8FmLOT.htm)|Quicksand|Sables mouvants|officielle|
+|[d3YklujLpBFC5HfB.htm](hazards/d3YklujLpBFC5HfB.htm)|Ghostly Choir|Chœur spectral|officielle|
+|[g9HovYB4pfHgIML9.htm](hazards/g9HovYB4pfHgIML9.htm)|Flensing Blades|Lames lacérantes|officielle|
+|[gB9WkJtH88jJQa5Z.htm](hazards/gB9WkJtH88jJQa5Z.htm)|Plummeting Doom|Chute tragique|officielle|
+|[gFt2nzQrVgXM9tmJ.htm](hazards/gFt2nzQrVgXM9tmJ.htm)|Treacherous Scree|Éboulis traître|officielle|
+|[H2GX04CQXLPQHT8h.htm](hazards/H2GX04CQXLPQHT8h.htm)|Wheel Of Misery|Roue du malheur|officielle|
+|[H8CPGJn81JSTCRNx.htm](hazards/H8CPGJn81JSTCRNx.htm)|Polymorph Trap|Piège de métamorphose|officielle|
+|[HnPd9Vqh5NHKEdRq.htm](hazards/HnPd9Vqh5NHKEdRq.htm)|Spinning Blade Pillar|Colonne de lames tournoyantes|officielle|
+|[inUlZWE1isqnTRc5.htm](hazards/inUlZWE1isqnTRc5.htm)|Jealous Abjurer|Abjurateur jaloux|officielle|
+|[J4YChuob7MIPT5Mq.htm](hazards/J4YChuob7MIPT5Mq.htm)|Vorpal Executioner|Bourreau vorpal|officielle|
+|[lgyGhpyPosriQUzE.htm](hazards/lgyGhpyPosriQUzE.htm)|Perilous Flash Flood|Crue subite périlleuse|officielle|
+|[LLPsEKLoVmoPleJS.htm](hazards/LLPsEKLoVmoPleJS.htm)|Green Slime|Substance gluante verte|libre|
+|[lVqVDjXnHboMif7F.htm](hazards/lVqVDjXnHboMif7F.htm)|Poisoned Dart Gallery|Couloir de fléchettes empoisonnées|officielle|
+|[Or0jjL8xS3GyiMq0.htm](hazards/Or0jjL8xS3GyiMq0.htm)|Web Lurker Noose|Toile de noeuds coulants|libre|

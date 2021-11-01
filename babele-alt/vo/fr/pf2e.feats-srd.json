@@ -2196,7 +2196,7 @@
         {
             "id": "Pickpocket",
             "name": "Pickpocket",
-            "description": "<p>Vous pouvez Voler ou Escamoter un objet étroitement gardé, tel que dans une poche, sans subir le malus de −5. Vous ne pouvez pas voler d’objets qui seraient extrêmement visibles ou qui prendraient du temps à retirer (tels que des chaussures ou une armure portées ou des objets activement utilisés). Si vous êtes maître en Vol, vous pouvez tenter de Voler une créature en combat ou sous surveillance. Quand vous le faites, Voler nécessite 2 actions de manipulation au lieu de 1, et vous subissez un malus de −5.&nbsp;</p>",
+            "description": "<p>Vous pouvez Voler ou Escamoter un objet étroitement gardé, tel que dans une poche, sans subir le malus de −5. Vous ne pouvez pas voler d’objets qui seraient extrêmement visibles ou qui prendraient du temps à retirer (tels que des chaussures ou une armure portées ou des objets activement utilisés). Si vous êtes maître en Vol, vous pouvez tenter de Voler une créature en combat ou sous surveillance. Quand vous le faites, Voler nécessite 2 actions de manipulation au lieu de 1, et vous subissez un malus de −5.</p>",
             "prereq": [
                 {
                     "value": "qualifié en Vol"
@@ -4669,6 +4669,16 @@
             "prereq": [
                 {
                     "value": "Laboureur de la Campanule"
+                }
+            ]
+        },
+        {
+            "id": "Formation Training",
+            "name": "Formation Training",
+            "description": "<p>Vous avez appris à vous battre en formation avec vos frères.</p>\n<p>Lorsque vous êtes adjacent à au moins deux alliés hobgobelins, vous gagnez un bonus de circonstances de +1 à votre CA et à vos jets de sauvegarde. Ce bonus passe à +2 sur vos jets de Réflexes contre les effets de zone.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié avec les armes de guerre"
                 }
             ]
         },
@@ -7850,7 +7860,7 @@
         {
             "id": "Herbalist Dedication",
             "name": "Herbalist Dedication",
-            "description": "<p>Vous pouvez créer des remèdes et autres produits avec des herbes. Vous obtenez les effets de l'alchimie basique, bien qu'elle ne s'applique qu'aux objets à base d'herbes : les objets alchimiques qui possèdent le trait guérison, aux @Compendium[pf2e.equipment-srd.ktjFOp3U0wQD9t0Z]{Antidotes} et aux @Compendium[pf2e.equipment-srd.UqinuuCWePTYGhVO]{Anti-maladies}. Vous obtenez des lots de réactifs ou de réactifs imprégnés par jour égaux à votre niveau ou la moitié de votre niveau si vous n'avez pas effectué vos préparatifs quotidiens dans les étendues sauvages. Votre niveau d'@Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{Alchimie avancée} pour les créer est de 1 et n'augmente pas tout seul.</p>\n<p>Vous devenez un expert en Nature et pouvez utiliser Nature au lieu d'Artisanat pour @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} des objets à base d'herbes. Vous n'avez pas besoin d'être qualifié en Artisanat ou de posséder le don @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique} pour le faire et vous pouvez utiliser des @Compendium[pf2e.equipment-srd.s1vB3HdXjMigYAnY]{Healer's Tools} instead of @Compendium[pf2e.equipment-srd.4ftXXUCBHcf4b0MH]{outils de guérisseur} au lieu d'outils d'alchimiste.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype d'Herboriste.</p>",
+            "description": "<p>Vous pouvez créer des remèdes et autres produits avec des herbes. Vous obtenez les avantages d'alchimie basique, bien que cette capacité ne s'applique qu'aux objets à base d'herbes : les objets alchimiques qui possèdent le trait guérison, les @Compendium[pf2e.equipment-srd.ktjFOp3U0wQD9t0Z]{antidotes} et les @Compendium[pf2e.equipment-srd.UqinuuCWePTYGhVO]{anti-maladies}.</p>\n<p>Vous obtenez des lots de réactifs imprégnés par jour égaux à votre niveau ou à la moitié de votre niveau si vous n'avez pas effectué vos préparatifs quotidiens dans les étendues sauvages. Votre niveau d'@Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{Alchimie avancée} pour les créer est de 1 et n'augmente pas tout seul.</p>\n<p>Vous devenez un expert en Nature et pouvez utiliser Nature au lieu d'Artisanat pour @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} des objets à base d'herbes. Vous n'avez pas besoin d'être qualifié en Artisanat ou de posséder le don @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique} pour le faire et vous pouvez utiliser des @Compendium[pf2e.equipment-srd.4ftXXUCBHcf4b0MH]{outils de guérisseur} au lieu d'outils d'alchimiste.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype d'Herboriste.</p>",
             "prereq": [
                 {
                     "value": "qualifié en Nature"
@@ -8452,7 +8462,7 @@
         {
             "id": "Saber Teeth",
             "name": "Saber Teeth",
-            "description": "<p>Vous avez de longs crocs, naturels ou augmentés. Vous obtenez une attaque de mâchoires à mains nues qui inflige [[/r 1d6 #perforants]] dégâts perforants. Vos mâchoires sont dans le groupe pugilat et ont le trait à mains nues.</p>"
+            "description": "<p>Vous avez de longs crocs, naturels ou améliorés. Vous obtenez une attaque de mâchoires à mains nues qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}. Vos mâchoires sont dans le groupe pugilat et ont le trait à mains nues.</p>"
         },
         {
             "id": "Lightslayer Oath",
@@ -8965,6 +8975,11 @@
             ]
         },
         {
+            "id": "Catch the Details",
+            "name": "Catch the Details",
+            "description": "<p>Vous êtes vif à reconnaître les détails à propos des gens et des objets qui vous entourent. Vous êtes qualifié en Société et obtenez le don de compétence @Compendium[pf2e.feats-srd.0N8TtGSk5enoLBZ8]{Œil pour les nombres}. Si vous êtes déjà qualifié en Société (du fait de votre historique ou de votre classe, par exemple), vous êtes qualifié à la place dans une autre compétence de votre choix.</p>\n<hr />\n<p><em>Note : Si vous êtes déjà qualifié dans la compétence que procure ce don, vous avez besoin de sélectionner manuellement une autre compétence.</em></p>"
+        },
+        {
             "id": "Otherworldly Acumen",
             "name": "Otherworldly Acumen",
             "description": "<p>Le pouvoir de la magie arcanique que vous possédez grandit en pouvoir et en complexité.</p>\n<p>Choisissez un sort courant de niveau 2 de la même tradition que celle d'un sort inné que vous avez précédemment obtenu d'un autre don ancestral elfique (de la liste arcanique si vous avez Magie surnaturelle, par exemple). Vous pouvez Lancer ce sort comme un sort inné une fois par jour, en utilisant la même tradition que celle de la liste dont vous avez tiré le sort choisi.</p>\n<p>Votre magie est adaptable. En passant 1 jour d'intermède, vous pouvez changer le sort pour choisir un autre sort courant différent  du niveau 2 de la même tradition.</p>",
@@ -9006,6 +9021,11 @@
             "id": "Water Step",
             "name": "Water Step",
             "description": "<p>Vous pouvez Marcher rapidement sur des liquides ou des surfaces qui ne peuvent pas soutenir votre poids. Vous ne bénéficiez de cet avantage que pendant votre déplacement. Si vous terminez votre déplacement sur une surface qui ne peut pas vous soutenir, vous vous affaissez ou la surface s’effondre.</p>"
+        },
+        {
+            "id": "Form Lock",
+            "name": "Form Lock",
+            "description": "<p><strong>Conditions</strong> vous avez @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisi} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravé} un adversaire.</p>\n<hr />\n<p>Votre capacité à contrôler votre ki vous donne la puissance pour obliger les autres créatures à revenir à leur véritable forme.</p>\n<p>Faites un test d'Athlétisme pour contrer un effet de métamorphose qui affecte actuellement votre cible. Si la cible est de quelconque manière sous l'effet de plusieurs effets de métamorphose, vous pouvez en choisir un pour essayer de la contrer ou le MJ choisit de manière aléatoire si les différents effets ne sont pas évidents. La cible est alors temporairement immunisée pendant une journée.</p>"
         },
         {
             "id": "Elude Trouble",
@@ -10396,7 +10416,7 @@
                     "value": "Incantation basique du magus"
                 },
                 {
-                    "value": "expert en Arcanes"
+                    "value": "maître en Arcanes"
                 }
             ]
         },
@@ -11243,7 +11263,7 @@
         {
             "id": "Viking Shieldbearer",
             "name": "Viking Shieldbearer",
-            "description": "<p><strong>Accès</strong> ethnie ulfe</p>\n<hr />\n<p>Vous vous êtes entraîné au maniement des boucliers et des armes dès que vous avez été capable de les tenir, soucieux de gagner honneur et gloire. Vous obtenez la réaction @compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier} et vous êtes qualifié, au choix, avec la hache de bataille ou l'épée longue.</p>"
+            "description": "<p><strong>Accès</strong> ethnie ulfe</p>\n<hr />\n<p>Vous vous êtes entraîné au maniement des boucliers et des armes dès que vous avez été capable de les tenir, soucieux de gagner honneur et gloire. Vous obtenez la réaction @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Lever un bouclier} et vous êtes qualifié, au choix, avec la hache de bataille ou l'épée longue.</p>"
         },
         {
             "id": "Cantrip Expansion (Magus)",
@@ -11854,7 +11874,7 @@
         {
             "id": "Recognize Spell",
             "name": "Recognize Spell",
-            "description": "<p><strong>Déclencheur</strong> Une créature dans votre ligne de mire incante un sort que vous n’avez pas préparé et qui ne figure pas dans votre répertoire ou un piège ou un objet similaire incante un tel sort. Vous devez être conscient de l’incantation.</p>\n<hr />\n<p>Si vous êtes qualifié dans la compétence appropriée pour la tradition du sort et qu’il s’agit d’un sort ordinaire de niveau 2 ou inférieur, vous l’identifiez automatiquement (vous devez toujours effectuer un jet pour tenter d’obtenir un succès critique, mais ne tenez pas compte des résultats moins bons qu’un succès). Le plus haut niveau de sort que vous identifiez automatiquement augmente à 4 si vous êtes un expert, 6 si vous êtes un maître et 10 si vous êtes légendaire.</p>\n<p>Le MJ effectue un test secret d’Arcanes, de Nature, d’Occultisme ou de Religion, en fonction de ce qui correspond à la tradition du sort incanté. Si vous n’êtes pas qualifié dans la compétence, vous ne pouvez pas obtenir de résultat meilleur qu’un échec.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous reconnaissez correctement le sort et gagnez un bonus de circonstances de +1 à votre jet de sauvegarde ou à votre CA contre le sort.</p>\n<p><strong>Succès</strong> Vous reconnaissez correctement le sort.</p>\n<p><strong>Échec</strong> Vous échouez à reconnaître le sort.</p>\n<p><strong>Échec critique</strong> Vous identifiez le sort de travers et le prenez pour un autre sort, déterminé par le MJ.</p>",
+            "description": "<p><strong>Déclencheur</strong> Une créature dans votre ligne de mire incante un sort que vous n’avez pas préparé et qui ne figure pas dans votre répertoire ou un piège ou un objet similaire incante un tel sort. Vous devez être conscient de l’incantation.</p>\n<hr />\n<p>Si vous êtes qualifié dans la compétence appropriée pour la tradition du sort et qu’il s’agit d’un sort courant de niveau 2 ou inférieur, vous l’identifiez automatiquement (vous devez toujours effectuer un jet pour tenter d’obtenir un succès critique, mais ne tenez pas compte des résultats moins bons qu’un succès). Le plus haut niveau de sort que vous identifiez automatiquement augmente à 4 si vous êtes un expert, à 6 si vous êtes un maître et à 10 si vous êtes légendaire.</p>\n<p>Le MJ effectue un test secret d’Arcanes, de Nature, d’Occultisme ou de Religion, en fonction de ce qui correspond à la tradition du sort incanté. Si vous n’êtes pas qualifié dans la compétence, vous ne pouvez pas obtenir de résultat meilleur qu’un échec.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous reconnaissez correctement le sort et gagnez un bonus de circonstances de +1 à votre jet de sauvegarde ou à votre CA contre le sort.</p>\n<p><strong>Succès</strong> Vous reconnaissez correctement le sort.</p>\n<p><strong>Échec</strong> Vous échouez à reconnaître le sort.</p>\n<p><strong>Échec critique</strong> Vous identifiez le sort de travers et le prenez pour un autre sort, déterminé par le MJ.</p>",
             "prereq": [
                 {
                     "value": "qualifié en Arcanes, Nature, Occultisme ou Religion"
@@ -11942,7 +11962,7 @@
         {
             "id": "Thorough Search",
             "name": "Thorough Search",
-            "description": "<p>Vous prenez votre temps pour fouiller pour vous assurer de tout trouver. Lorsque vous @Compendium[pf2e.actionspf2e.TiNDYUGlMmxzxBYU]{Fouillez}, vous pouvez passer deux fois plus de temps à chercher. Normalement cela signifie que vous Fouillez à un quart de votre Vitesse, jusqu'à un maximum de 50 m par minute pour tout vérifier ou 25 m par minute pour tout vérifier avant de vous avancer. Si vous le faites, vous obtenez un bonus de circonstances de +2 à vos tests de Perception pour @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Fouiller}.</p>",
+            "description": "<p>Vous prenez votre temps pour chercher pour vous assurer de tout trouver. Lorsque vous @Compendium[pf2e.actionspf2e.TiNDYUGlMmxzxBYU]{Fouillez}, vous pouvez passer deux fois plus de temps à chercher. Normalement cela signifie que vous Fouillez à un quart de votre Vitesse, jusqu'à un maximum de 45 m par minute pour tout vérifier ou 22,5 m par minute pour tout vérifier avant de vous avancer. Si vous le faites, vous obtenez un bonus de circonstances de +2 à vos tests de Perception pour @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher}.</p>",
             "prereq": [
                 {
                     "value": "expert en Perception"
@@ -18047,7 +18067,7 @@
         {
             "id": "Saoc Astrology",
             "name": "Saoc Astrology",
-            "description": "<p><strong>Fréquence</strong> 3 fois par jour</p>\n<p><strong>Accès</strong> originaire du Lirgen</p>\n<p><strong>Conditions</strong> Vous devez passer 10 minutes juste après vos préparatifs quotidiens à examiner le ciel ou consulter une carte des étoiles ou vous ne pouvez pas utiliser cette action durant cette journée.</p>\n<hr />\n<p>Les membres de l'ancienne Fraternité du Saoc étaient des maîtres de l'astrologie, et bien que vos connaissances ne soient plus qu'un pâle reflet de leur sagesse, elles peuvent toujours vous être utiles. Vous sondez les étoiles en quête de prédictions à propos de votre situation actuelle. Si votre action suivante nécessite que vous tentiez des tests de compétence, lancez 1d8. Sur un résultat de 6, 7 ou 8, vous obtenez un bonus de circonstances de +2 au premier test de compétence qui suit. Sur un 3, 4 ou 5, vous obtenez un bonus de circonstances de +1. Sur un 2, vous n'obtenez rien. Sur un 1, vous subissez une pénalité de circonstance de –1 au test de compétence.</p>"
+            "description": "<p><strong>Fréquence</strong> 3 fois par jour</p>\n<p><strong>Accès</strong> originaire du Lirgen</p>\n<p><strong>Conditions</strong> Vous devez passer 10 minutes juste après vos préparatifs quotidiens à examiner le ciel ou consulter une carte des étoiles ou vous ne pouvez pas utiliser cette action durant cette journée.</p>\n<hr />\n<p>Les membres de l'ancienne Fraternité du Saoc étaient des maîtres de l'astrologie, et bien que vos connaissances ne soient plus qu'un pâle reflet de leur sagesse, elles peuvent toujours vous être utiles. Vous sondez les étoiles en quête de prédictions à propos de votre situation actuelle. Si votre prochaine action nécessite que vous tentiez des tests de compétence, lancez 1d8. Sur un résultat de 6, 7 ou 8, vous obtenez un bonus de circonstances de +2 au premier test de compétence qui suit. Sur un 3, 4 ou 5, vous obtenez un bonus de circonstances de +1. Sur un 2, vous n'obtenez rien. Sur un 1, vous subissez une pénalité de circonstance de –1 au test de compétence.</p>"
         },
         {
             "id": "Energize Wings",
@@ -18117,7 +18137,7 @@
         {
             "id": "Smashing Tail",
             "name": "Smashing Tail",
-            "description": "<p>Vous avez une queue qui sert d'arme puissante. Vous obtenez une attaque à mains nues de queue qui inflige [[/r 1d6 #contondants]] dégâts contondants, possède le trait balayage et se trouve dans le groupe pugilat.</p>"
+            "description": "<p>Vous avez une queue qui sert d'arme puissante. Vous obtenez une attaque à mains nues de queue qui inflige [[/r 1d6 #contondants]]{1d6 dégâts contondants}, possède le trait balayage et se trouve dans le groupe pugilat.</p>"
         },
         {
             "id": "Extradimensional Stash",
@@ -21528,7 +21548,7 @@
         {
             "id": "Lavasoul",
             "name": "Lavasoul",
-            "description": "<p>Votre lignage élémentaire se manifeste comme le magma et la roche ramollie et vous pouvez focaliser le magma dans votre main pour attaquer vos ennemis. Vous obtenez une attaque à mains nues de pique de magma, qui nécessite d'utiliser une main libre. C'est une attaque à mains nues, de finesse, agile, dans le groupe pugilat qui inflige [[/r 1d4 #perforants]] dégâts perforants ainsi que [[/r 1]] dégâts de feu supplémentaires. Au lieu de l'effet de critique de spécialisation ordinaire, la cible subit [[/r 1d6 #feu persistant]] dégâts de feu persistants ; vous obtenez un bonus à ses dégâts persistants égaux à votre bonus d'objet pour les jets d'attaques à mains nues.</p>"
+            "description": "<p>Votre lignage élémentaire se manifeste comme le magma et la roche ramollie et vous pouvez focaliser le magma dans votre main pour attaquer vos ennemis. Vous obtenez une attaque à mains nues de pique de magma, qui nécessite d'utiliser une main libre. C'est une attaque à mains nues, de finesse, agile, dans le groupe pugilat qui inflige [[/r 1d4 #perforants]]{1d4 dégâts perforants} ainsi que [[/r 1 #feu]]{1 dégât de feu} supplémentaires. Au lieu de l'effet de critique de spécialisation ordinaire, la cible subit [[/r 1d6 #feu persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de feu persistant}]] ; vous obtenez un bonus à ses dégâts persistants égaux à votre bonus d'objet pour les jets d'attaques à mains nues.</p>"
         },
         {
             "id": "Spirits' Interference",
@@ -22013,7 +22033,7 @@
         {
             "id": "Spine Stabber",
             "name": "Spine Stabber",
-            "description": "<p>Les piquants sur vos bras sont particulièrement pointus et robustes. Vous gagnez une attaque à mains nues de piquants qui inflige [[/r 1d6 #perforants]] dégâts perforants. Vos piquants font partie du groupe des couteaux et possèdent les traits finesse et désarmer.</p>"
+            "description": "<p>Les piquants sur vos bras sont particulièrement pointus et robustes. Vous gagnez une attaque à mains nues de piquants qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}. Vos piquants font partie du groupe des couteaux et possèdent les traits finesse et désarmer.</p>"
         },
         {
             "id": "Ceremony of Knowledge",
@@ -22717,7 +22737,7 @@
         {
             "id": "Retractable Claws",
             "name": "Retractable Claws",
-            "description": "<p>Vous obtenez une attaque à mains nues de griffe qui inflige [[/r 1d4 #tranchants]] dégâts tranchants. Vos griffes sont dans le groupe pugilat et ont les traits agile, finesse et à mains nues.</p>"
+            "description": "<p>Vous obtenez une attaque à mains nues de griffe qui inflige [[/r 1d4 #tranchants]]{1d4 dégâts tranchants}. Vos griffes sont dans le groupe pugilat et ont les traits agile, finesse et à mains nues.</p>"
         },
         {
             "id": "Steadying Stone",
@@ -23349,6 +23369,16 @@
             ]
         },
         {
+            "id": "Dual-Weapon Reload",
+            "name": "Dual-Weapon Reload",
+            "description": "<p><strong>Conditions</strong> Vous maniez deux armes à une main, chacune dans une main différente, dont une est une arme à distance.</p>\n<hr />\n<p>Vous portez votre munition d'une manière qui vous permet de recharger tout en portant deux armes.</p>\n<p>Vous @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interagissez} pour recharger une arme à distance à une main que vous tenez. Contrairement à la plupart des actions Interagir, vous n'avez pas besoin d'une main libre pour recharger votre arme à distance de cette manière.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Combattant à deux armes"
+                }
+            ]
+        },
+        {
             "id": "Expert Summoner Spellcasting",
             "name": "Expert Summoner Spellcasting",
             "description": "<p>Vous obtenez les avantages d'Incantation liée experte.</p>",
@@ -23630,6 +23660,16 @@
                 },
                 {
                     "value": "principes du mal"
+                }
+            ]
+        },
+        {
+            "id": "Narrative Conduit",
+            "name": "Narrative Conduit",
+            "description": "<p>Vous agissez comme un conduit pour vos compagnons, tout comme vos histoires sont un conduit entre le conteur et l'auditeur. Lorsque vous @Compendium[pf2e.actionspf2e.hPZQ5vA9QHEPtjFW]{Brodez un conte} et que le héros de votre conte lance un sort contre le méchant, vous déformez le monde, permettant au héros de prendre en compte la portée et l'abri du méchant à partir de votre case au lieu de la sienne s'il le préfère. Le héros doit choisir de calculer la portée et le camouflage à partir de la même case ; il ne peut pas utiliser une case pour la portée et l'autre pour l'abri.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de folkloriste"
                 }
             ]
         },
