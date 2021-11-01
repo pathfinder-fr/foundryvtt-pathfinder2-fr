@@ -1,11 +1,18 @@
 # État de la traduction (boons-and-curses)
 
- * **libre**: 120
+ * **libre**: 119
+ * **changé**: 1
 
 
-Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[eVRjDKt0N0qSmpCn.htm](boons-and-curses/eVRjDKt0N0qSmpCn.htm)|Urgathoa - Major Curse|Urgathoa - Malédiction majeure|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -52,7 +59,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[e7Y4jKHQ3ptbSuxc.htm](boons-and-curses/e7Y4jKHQ3ptbSuxc.htm)|Torag - Minor Boon|Torag - Bénédiction mineure|libre|
 |[e9bdt8UH7ZvpRrLz.htm](boons-and-curses/e9bdt8UH7ZvpRrLz.htm)|Sarenrae - Minor Boon|Sarenrae - Bénédiction mineure|libre|
 |[eibN2Uf0dsHCU5rE.htm](boons-and-curses/eibN2Uf0dsHCU5rE.htm)|Zon-Kuthon - Major Boon|Zon-Kuthon - Bénédiction majeure|libre|
-|[eVRjDKt0N0qSmpCn.htm](boons-and-curses/eVRjDKt0N0qSmpCn.htm)|Urgathoa - Major Curse|Urgathoa - Malédiction majeure|libre|
 |[FeCcooyIb1JDQhd7.htm](boons-and-curses/FeCcooyIb1JDQhd7.htm)|Calistria - Major Boon|Calistria - Bénédiction Majeure|libre|
 |[fLBNXULLPalAKlYe.htm](boons-and-curses/fLBNXULLPalAKlYe.htm)|Cayden Cailean - Minor Curse|Cayden Cailean - Malédiction mineure|libre|
 |[fsKVskUhWwMgvUaT.htm](boons-and-curses/fsKVskUhWwMgvUaT.htm)|Cayden Cailean - Moderate Boon|Cayden Cailean - Bénédiction modérée|libre|

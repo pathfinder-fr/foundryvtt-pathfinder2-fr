@@ -1,12 +1,49 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 213
+ * **libre**: 209
+ * **aucune**: 21
  * **officielle**: 49
+ * **changé**: 4
 
 
-Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[0wzTmGUb8yvzMrO0.htm](backgrounds/0wzTmGUb8yvzMrO0.htm)|Back-Alley Doctor|
+|[1M91pTjatEejBjEl.htm](backgrounds/1M91pTjatEejBjEl.htm)|Hired Killer|
+|[2lk5NOcu1aUglUdK.htm](backgrounds/2lk5NOcu1aUglUdK.htm)|Fireworks Performer|
+|[2Mm0BHMJZhqIqoQG.htm](backgrounds/2Mm0BHMJZhqIqoQG.htm)|Undertaker|
+|[2TImvKwcFLDVhzUC.htm](backgrounds/2TImvKwcFLDVhzUC.htm)|Circuit Judge|
+|[4KCa67gyxUn60zdf.htm](backgrounds/4KCa67gyxUn60zdf.htm)|Saloon Entertainer|
+|[5dezuNcZJ6wfecnG.htm](backgrounds/5dezuNcZJ6wfecnG.htm)|Gunsmith|
+|[8CLTXqyjdzEMKnZC.htm](backgrounds/8CLTXqyjdzEMKnZC.htm)|Cannoneer|
+|[9l6q90sk8UM292CY.htm](backgrounds/9l6q90sk8UM292CY.htm)|Waste Walker|
+|[AqhHif8mzYjlGMxJ.htm](backgrounds/AqhHif8mzYjlGMxJ.htm)|Sheriff|
+|[B6kNrX1y8XNbQYea.htm](backgrounds/B6kNrX1y8XNbQYea.htm)|Goldhand Arms Dealer|
+|[d5fKB0ZMJQkwDF5p.htm](backgrounds/d5fKB0ZMJQkwDF5p.htm)|Otherworldly Mission|
+|[fyKPDYFeIrgzADJB.htm](backgrounds/fyKPDYFeIrgzADJB.htm)|Alkenstar Outlaw|
+|[HSNUDvPgO1NESW7S.htm](backgrounds/HSNUDvPgO1NESW7S.htm)|Junk Collector|
+|[KC5oI1bs6Wx8h91u.htm](backgrounds/KC5oI1bs6Wx8h91u.htm)|Deputy|
+|[mcL4WLO2yxBGlvuG.htm](backgrounds/mcL4WLO2yxBGlvuG.htm)|Farmsteader|
+|[UFHezf1LXUwcQIAQ.htm](backgrounds/UFHezf1LXUwcQIAQ.htm)|Wandering Preacher|
+|[uwZ0emSBFNMGA74j.htm](backgrounds/uwZ0emSBFNMGA74j.htm)|Tall Tale|
+|[W6OIPZhjcV45gfoX.htm](backgrounds/W6OIPZhjcV45gfoX.htm)|Revenant|
+|[XcacLiaGDgjzHS3T.htm](backgrounds/XcacLiaGDgjzHS3T.htm)|Spotter|
+|[Yuwr2pT3z3WYTX9T.htm](backgrounds/Yuwr2pT3z3WYTX9T.htm)|Alkenstar Sojourner|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[gv6RoDRYqT7iUX5C.htm](backgrounds/gv6RoDRYqT7iUX5C.htm)|Harrow-Led (Occultism)|Déterminé par le Tourment (Occultisme)|changé|
+|[HV4MLfv7JaqoBac5.htm](backgrounds/HV4MLfv7JaqoBac5.htm)|Harrow-Led (Society)|Déterminé par le Tourment (Société)|changé|
+|[iPuclSXdCEAVfTZ0.htm](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Empty Background]|[Historique vierge]|changé|
+|[RgFOKlEmMIw2eZpo.htm](backgrounds/RgFOKlEmMIw2eZpo.htm)|Harrow-Led (Performance)|Déterminé par le Tourment (Représentation)|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -114,7 +151,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[GNidqGnSABx1rQUQ.htm](backgrounds/GNidqGnSABx1rQUQ.htm)|Missionary|Missionnaire|libre|
 |[GPI5kNu0xfom9kKa.htm](backgrounds/GPI5kNu0xfom9kKa.htm)|Dragon Scholar|Spécialiste des dragons|officielle|
 |[gq98S6hRboPxK1kt.htm](backgrounds/gq98S6hRboPxK1kt.htm)|Unsponsored (Intimidation)|Non soutenu (Intimidation)|libre|
-|[gv6RoDRYqT7iUX5C.htm](backgrounds/gv6RoDRYqT7iUX5C.htm)|Harrow-Led (Occultism)|Déterminé par le Tourment (Occultisme)|libre|
 |[H3E69w8Xg0T7rAqD.htm](backgrounds/H3E69w8Xg0T7rAqD.htm)|Shoanti Name-Bearer|Porteur de nom Shoanti|libre|
 |[h98cEl4DY75IL6KJ.htm](backgrounds/h98cEl4DY75IL6KJ.htm)|Teamster|Conducteur d'attelages|libre|
 |[HdnmIaLadhRfZq8X.htm](backgrounds/HdnmIaLadhRfZq8X.htm)|Insurgent|Insurgé|libre|
@@ -125,7 +161,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HNdGlDHkcczqNw2U.htm](backgrounds/HNdGlDHkcczqNw2U.htm)|Musical Prodigy|Prodige de la musique|libre|
 |[HNp0uNsIx3BNBcr5.htm](backgrounds/HNp0uNsIx3BNBcr5.htm)|Animal Wrangler (Athletics)|Dresseur d'animaux (Athlétisme)|libre|
 |[hPx0xiv00GQqPWUH.htm](backgrounds/hPx0xiv00GQqPWUH.htm)|Kalistrade Follower|Suivant de Kalistrade|libre|
-|[HV4MLfv7JaqoBac5.htm](backgrounds/HV4MLfv7JaqoBac5.htm)|Harrow-Led (Society)|Déterminé par le Tourment (Société)|libre|
 |[HZ3oBBdEnsH3fWrm.htm](backgrounds/HZ3oBBdEnsH3fWrm.htm)|Shory Seeker|Chercheur Rivain|libre|
 |[I0vuIFypx8ADSJQC.htm](backgrounds/I0vuIFypx8ADSJQC.htm)|Black Market Smuggler|Contrebandier du Marché noir|libre|
 |[i28Z9JXhEvoc7BX5.htm](backgrounds/i28Z9JXhEvoc7BX5.htm)|Refugee (APG)|Réfugié (MJA)|libre|
@@ -142,7 +177,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IoBhge83aYpq0pPV.htm](backgrounds/IoBhge83aYpq0pPV.htm)|Archaeologist|Archéologue|libre|
 |[IObZEUz8wneEMgR3.htm](backgrounds/IObZEUz8wneEMgR3.htm)|Deckhand|Homme de pont|libre|
 |[IOcjPmcemrQFFb2b.htm](backgrounds/IOcjPmcemrQFFb2b.htm)|Time Traveler|Voyageur du temps|libre|
-|[iPuclSXdCEAVfTZ0.htm](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Empty Background]|[Historique vierge]|libre|
 |[irDibuV3Wi7T43sL.htm](backgrounds/irDibuV3Wi7T43sL.htm)|Child of the Puddles|Marmot des flaques|libre|
 |[iWWg16f3re1YChiD.htm](backgrounds/iWWg16f3re1YChiD.htm)|Oenopion-Ooze Tender|Éleveur de vases d'Oenopion|libre|
 |[ixluAGUDZciLEHtb.htm](backgrounds/ixluAGUDZciLEHtb.htm)|Tax Collector|Percepteur|libre|
@@ -203,7 +237,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[R1v4gUu8oRMoOASM.htm](backgrounds/R1v4gUu8oRMoOASM.htm)|Wildwood Local|Habitué des bois|libre|
 |[r9fzNQEz33HyKTxm.htm](backgrounds/r9fzNQEz33HyKTxm.htm)|Pilgrim|Pélerin|libre|
 |[RC4l6WsxPn89a1f8.htm](backgrounds/RC4l6WsxPn89a1f8.htm)|Raised by Belief|Élevé dans la Foi|libre|
-|[RgFOKlEmMIw2eZpo.htm](backgrounds/RgFOKlEmMIw2eZpo.htm)|Harrow-Led (Performance)|Déterminé par le Tourment (Représentation)|libre|
 |[rSH3NdJMfFYOK8ot.htm](backgrounds/rSH3NdJMfFYOK8ot.htm)|Scholar (Nature)|Érudit (Nature)|officielle|
 |[rzyRtasSTfHS3e0y.htm](backgrounds/rzyRtasSTfHS3e0y.htm)|Returned|Ressuscité|libre|
 |[SJ3nNOI5A8A4hK0Q.htm](backgrounds/SJ3nNOI5A8A4hK0Q.htm)|Winter's Child|Enfant de l'hiver|libre|

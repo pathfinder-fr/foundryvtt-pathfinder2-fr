@@ -1793,6 +1793,6 @@
         }
     ],
     "mapping": {
-        "description": "data.details.flavorText"
+        "description": "data.details.publicNotes"
     }
 }

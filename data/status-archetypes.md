@@ -1,11 +1,11 @@
 # État de la traduction (archetypes)
 
  * **changé**: 75
- * **aucune**: 4
+ * **aucune**: 5
  * **libre**: 3
 
 
-Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -13,6 +13,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[2utUBjuTmPt7cHiw.htm](archetypes/2utUBjuTmPt7cHiw.htm)|Ghost Eater|
+|[7G7cRmS3HO2iUElx.htm](archetypes/7G7cRmS3HO2iUElx.htm)|Artillerist|
 |[CmCmbpn10LJcjH78.htm](archetypes/CmCmbpn10LJcjH78.htm)|Sixth Pillar|
 |[pgesyqPUJSHKsbGv.htm](archetypes/pgesyqPUJSHKsbGv.htm)|Butterfly Blade|
 |[S82AsQp9Iyjff12F.htm](archetypes/S82AsQp9Iyjff12F.htm)|Golden League Xun|

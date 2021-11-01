@@ -1,10 +1,11 @@
 # État de la traduction (pathfinder-society-boons)
 
  * **auto-trad**: 113
- * **changé**: 18
+ * **changé**: 16
+ * **libre**: 2
 
 
-Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -17,7 +18,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9w8TdCsGEpttXYuy.htm](pathfinder-society-boons/9w8TdCsGEpttXYuy.htm)|Mentor, Worldly|
 |[B7fDgC6tcv41lcP7.htm](pathfinder-society-boons/B7fDgC6tcv41lcP7.htm)|S1-Q11 - Amateur Genealogist|
 |[BEaLe5M23Q7LKTLL.htm](pathfinder-society-boons/BEaLe5M23Q7LKTLL.htm)|Wayfinder, Adamant|
-|[CKyGNdBL8Qt4ysKt.htm](pathfinder-society-boons/CKyGNdBL8Qt4ysKt.htm)|S2-03 - Fluent in Cyclops|
 |[DkqU67wxvbDu0Qrs.htm](pathfinder-society-boons/DkqU67wxvbDu0Qrs.htm)|Mentor, Rugged|
 |[ePZOmPbGXzrEaXXs.htm](pathfinder-society-boons/ePZOmPbGXzrEaXXs.htm)|S1-11 - Devil's Keep|
 |[grkmoNwwHOROKER7.htm](pathfinder-society-boons/grkmoNwwHOROKER7.htm)|AoA #150: Boon A - Legacy of Ashes|
@@ -25,7 +25,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[PXtBhRVHM28angjV.htm](pathfinder-society-boons/PXtBhRVHM28angjV.htm)|Mentor, Protective|
 |[rJfATB750MbndGeP.htm](pathfinder-society-boons/rJfATB750MbndGeP.htm)|S2-08 - Baba Yaga's Tutelage|
 |[RJYIefY9Skx8CAgw.htm](pathfinder-society-boons/RJYIefY9Skx8CAgw.htm)|S1-Q09 - Wayfinder Connections|
-|[RLzWznPsb2VpbxTy.htm](pathfinder-society-boons/RLzWznPsb2VpbxTy.htm)|S1-Q12 - Fruit Basket|
 |[vYSA5M9fgBdYiGLT.htm](pathfinder-society-boons/vYSA5M9fgBdYiGLT.htm)|Mentor, Combat|
 |[WYHPJyza1BJgtFq4.htm](pathfinder-society-boons/WYHPJyza1BJgtFq4.htm)|S1-Q01 - Sand Slide|
 |[yNTePhAPVMguqUVA.htm](pathfinder-society-boons/yNTePhAPVMguqUVA.htm)|S1-Q08 - Numerian Archaeologist|
@@ -157,3 +156,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[CKyGNdBL8Qt4ysKt.htm](pathfinder-society-boons/CKyGNdBL8Qt4ysKt.htm)|S2-03 - Fluent in Cyclops|S2-03 - langue cyclope|libre|
+|[RLzWznPsb2VpbxTy.htm](pathfinder-society-boons/RLzWznPsb2VpbxTy.htm)|S1-Q12 - Fruit Basket|S1-Q12 - Panier de fruit|libre|

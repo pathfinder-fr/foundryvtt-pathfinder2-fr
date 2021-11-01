@@ -278,8 +278,8 @@
         },
         {
             "id": "Harmona",
-            "name": "Harmona (Harmona (Fey))",
-            "description": "<p>Entrevoir un harmona est considéré comme un coup de chance. Volant rapidement, observant et repérant de nouvelles zones, ces feys aviaires aux couleurs vives sont presque invisibles à l'œil. Un doux bourdonnement les accompagne, perceptible uniquement par les créatures à l'ouïe particulièrement fine.</p>\n<p>Intelligents et curieux, ces minuscules oiseaux fey parcourent librement le Premier Monde, accompagnant les créatures féériques de haut rang telles que les reines ou leurs cours. En retour, les compagnons qui traitent un harmona avec respect pour ses connaissances et ses compétences bénéficient de l'aide de l'harmona en cas de besoin.</p>  \n<p>Lorsque ces créatures curieuses trouvent une porte naturelle entre les plans, elles s'y glissent pour explorer et étendre leurs connaissances. Celles qui trouvent leur chemin sur le plan Matériel choisissent souvent d'y rester à la recherche de lieux divers et inhabituels. Cela les conduit souvent aux mêmes endroits que ceux qui attirent les aventuriers curieux. Un harmona peut se lier d'amitié avec un aventurier non feyrique en tant que compagnon, mais ils en veulent à ceux qui les traitent comme des animaux de compagnie et se battent jusqu'à la mort pour éviter d'être capturés.</p>"
+            "name": "Harmona (Harmona (Fée))",
+            "description": "<p>Entrevoir un harmona est considéré comme un coup de chance. Volant rapidement, observant et repérant de nouvelles zones, ces fées aviaires aux couleurs vives sont presque invisibles à l'œil nu. Un doux bourdonnement les accompagne, perceptible uniquement par les créatures à l'ouïe particulièrement fine.</p>\n<p>Intelligents et curieux, ces minuscules oiseaux féériques parcourent librement le Premier Monde, accompagnant les créatures féériques de haut rang telles que les reines ou leurs cours. En retour, les compagnons qui traitent un harmona avec respect pour ses connaissances et ses compétences bénéficient de l'aide de l'harmona en cas de besoin.</p>  \n<p>Lorsque ces créatures curieuses trouvent une porte naturelle entre les plans, elles s'y glissent pour explorer et étendre leurs connaissances. Celles qui trouvent leur chemin sur le plan Matériel choisissent souvent d'y rester à la recherche de lieux divers et inhabituels. Cela les conduit souvent aux mêmes endroits que ceux qui attirent les aventuriers curieux. Un harmona peut se lier d'amitié avec un aventurier non fée en tant que compagnon, mais ils en veulent à ceux qui les traitent comme des animaux de compagnie et se battent jusqu'à la mort pour éviter d'être capturés.</p>"
         },
         {
             "id": "Omox",
@@ -1703,6 +1703,6 @@
         }
     ],
     "mapping": {
-        "description": "data.details.flavorText"
+        "description": "data.details.publicNotes"
     }
 }

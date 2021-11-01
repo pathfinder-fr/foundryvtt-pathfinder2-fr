@@ -1,17 +1,25 @@
 # État de la traduction (classes)
 
- * **changé**: 18
+ * **officielle**: 1
+ * **aucune**: 2
+ * **changé**: 17
  * **libre**: 1
 
 
-Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[30qVs46dVNflgQNx.htm](classes/30qVs46dVNflgQNx.htm)|Inventor|
+|[Z9li154CPNmun29Q.htm](classes/Z9li154CPNmun29Q.htm)|Gunslinger|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[15Yc1r6s9CEhSTMe.htm](classes/15Yc1r6s9CEhSTMe.htm)|Sorcerer|Ensorceleur|changé|
 |[3gweRQ5gn7szIWAv.htm](classes/3gweRQ5gn7szIWAv.htm)|Bard|Barde|changé|
 |[4wrSCyX6akmyo7Wj.htm](classes/4wrSCyX6akmyo7Wj.htm)|Investigator|Enquêteur|changé|
 |[7s57JDCaiYYCAdFx.htm](classes/7s57JDCaiYYCAdFx.htm)|Druid|Druide|changé|
@@ -34,4 +42,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[15Yc1r6s9CEhSTMe.htm](classes/15Yc1r6s9CEhSTMe.htm)|Sorcerer|Ensorceleur|officielle|
 |[84SZGVNLXhLKG6gL.htm](classes/84SZGVNLXhLKG6gL.htm)|[Empty Class]|_Classe vierge|libre|

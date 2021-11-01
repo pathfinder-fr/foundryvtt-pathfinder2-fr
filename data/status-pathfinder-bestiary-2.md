@@ -1,10 +1,10 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 51
- * **changé**: 307
+ * **libre**: 50
+ * **changé**: 308
 
 
-Dernière mise à jour: 2021-10-09 10:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -189,6 +189,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[O69kXMo6shkA606k.htm](pathfinder-bestiary-2/O69kXMo6shkA606k.htm)|Choker|Écharpeur|changé|
 |[O9LzsedLTUVFtOix.htm](pathfinder-bestiary-2/O9LzsedLTUVFtOix.htm)|Black Scorpion|Scorpion Noir|changé|
 |[OaKx1ZaU25i3cypS.htm](pathfinder-bestiary-2/OaKx1ZaU25i3cypS.htm)|Theletos|Thélétos (Aéon)|changé|
+|[OaNtHZAraCrVLuSo.htm](pathfinder-bestiary-2/OaNtHZAraCrVLuSo.htm)|Mohrg|Mohrg|changé|
 |[OERK0GGnaEOthcdV.htm](pathfinder-bestiary-2/OERK0GGnaEOthcdV.htm)|Cave Fisher|Pêcheur des Cavernes|changé|
 |[OFHr8UhsBOOgj0ef.htm](pathfinder-bestiary-2/OFHr8UhsBOOgj0ef.htm)|Intellect Devourer|Dévoreur d'intellect|changé|
 |[oKogG9AwUZ9iBsm3.htm](pathfinder-bestiary-2/oKogG9AwUZ9iBsm3.htm)|Derghodaemon|Derghodaémon (Daémon)|changé|
@@ -354,7 +355,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[m40M5R7wcm5DSVK2.htm](pathfinder-bestiary-2/m40M5R7wcm5DSVK2.htm)|Dust Mephit|Méphite de poussière (Élémentaire)|libre|
 |[MYE3jqYh3CrdWolX.htm](pathfinder-bestiary-2/MYE3jqYh3CrdWolX.htm)|Petitioner (Heaven)|Pétitionnaire (Paradis)|libre|
 |[NQ6qRvpD9DIwVxt3.htm](pathfinder-bestiary-2/NQ6qRvpD9DIwVxt3.htm)|Vampiric Mist|Brume vampirique|libre|
-|[OaNtHZAraCrVLuSo.htm](pathfinder-bestiary-2/OaNtHZAraCrVLuSo.htm)|Mohrg|Mohrg|libre|
 |[oSQ3Q9tzTohksAtf.htm](pathfinder-bestiary-2/oSQ3Q9tzTohksAtf.htm)|Crawling Hand|Main rampante|libre|
 |[p5ZGpvIfEiBgMG2f.htm](pathfinder-bestiary-2/p5ZGpvIfEiBgMG2f.htm)|Petitioner (Ethereal Plane)|Pétitionnaire (Plan Ethéré)|libre|
 |[Rt3lbxJ4jcwGnpF3.htm](pathfinder-bestiary-2/Rt3lbxJ4jcwGnpF3.htm)|Petitioner (Plane of Earth)|Pétitionnaire (Plan de la Terre)|libre|
