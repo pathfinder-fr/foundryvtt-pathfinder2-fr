@@ -1,12 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 195
- * **changé**: 69
- * **libre**: 166
+ * **officielle**: 165
+ * **changé**: 134
+ * **libre**: 131
  * **aucune**: 39
 
 
-Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-07 19:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -99,21 +99,53 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-01-xX6KnYYgHlPGoTG6.htm](classfeatures/barbarian-01-xX6KnYYgHlPGoTG6.htm)|Wolf Animal Instinct|Instinct animal - Loup|changé|
 |[barbarian-01-Z2eWkfXblU0QxFx1.htm](classfeatures/barbarian-01-Z2eWkfXblU0QxFx1.htm)|Silver Dragon Instinct|Instinct du Dragon - Argent|changé|
 |[barbarian-09-ie6xDX9GMEcA2Iuq.htm](classfeatures/barbarian-09-ie6xDX9GMEcA2Iuq.htm)|Raging Resistance|Résistance enragée|changé|
+|[bard-01-4ripp6EfdVpS0d60.htm](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Enigma Muse|Muse - Énigmatique|changé|
 |[bard-01-AIOBWGOS4nkfH3kW.htm](classfeatures/bard-01-AIOBWGOS4nkfH3kW.htm)|Muses|Muse|changé|
+|[bard-01-N03BtRvjX9TeHRa4.htm](classfeatures/bard-01-N03BtRvjX9TeHRa4.htm)|Warrior Muse|Muse - Combattant|changé|
+|[bard-01-s0VbbQJNlSgPocui.htm](classfeatures/bard-01-s0VbbQJNlSgPocui.htm)|Composition Spells|Sorts de composition|changé|
+|[bard-01-y0jGimYdMGDJWrEq.htm](classfeatures/bard-01-y0jGimYdMGDJWrEq.htm)|Polymath Muse|Muse - Touche-à-tout|changé|
+|[bard-01-YMBsi4bndRAk5CX4.htm](classfeatures/bard-01-YMBsi4bndRAk5CX4.htm)|Maestro Muse|Muse - Virtuose|changé|
+|[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator|Profanateur|changé|
 |[champion-01-ehL7mnkqxN5wIkgu.htm](classfeatures/champion-01-ehL7mnkqxN5wIkgu.htm)|Deity and Cause|Divinité et cause|changé|
+|[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin|Antipaladin|changé|
+|[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator|Libérateur|changé|
 |[champion-01-fykh5pE99O3I2sOI.htm](classfeatures/champion-01-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|changé|
+|[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant|Tyran|changé|
 |[champion-01-peEXunfbSD8WcMFk.htm](classfeatures/champion-01-peEXunfbSD8WcMFk.htm)|Paladin|Paladin|changé|
 |[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|changé|
+|[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer|Rédempteur|changé|
 |[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|Allié divin|changé|
 |[champion-09-3XK573A7GH1rrLgO.htm](classfeatures/champion-09-3XK573A7GH1rrLgO.htm)|Divine Smite|Châtiment divin|changé|
+|[champion-19-LzB6X9vOaq3wq1FZ.htm](classfeatures/champion-19-LzB6X9vOaq3wq1FZ.htm)|Hero's Defiance|Défi du héros|changé|
+|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|changé|
 |[cleric-01-UV1HlClbWCNcaKBZ.htm](classfeatures/cleric-01-UV1HlClbWCNcaKBZ.htm)|Anathema (Cleric)|Anathème (Prêtre)|changé|
 |[druid-01-8STJEFVJISujgpMR.htm](classfeatures/druid-01-8STJEFVJISujgpMR.htm)|Druidic Order|Ordre druidique|changé|
+|[druid-01-acqqlYmti8D9QJi0.htm](classfeatures/druid-01-acqqlYmti8D9QJi0.htm)|Storm Order|Ordre de la tempête|changé|
+|[druid-01-fKTewWlYgFuhl4KA.htm](classfeatures/druid-01-fKTewWlYgFuhl4KA.htm)|Stone Order|Ordre de la pierre|changé|
+|[druid-01-FuUXyv2yBs7zRgqT.htm](classfeatures/druid-01-FuUXyv2yBs7zRgqT.htm)|Wave Order|Ordre de la vague|changé|
+|[druid-01-NdeFvIXdHwKYLiUj.htm](classfeatures/druid-01-NdeFvIXdHwKYLiUj.htm)|Flame Order|Ordre de la flamme|changé|
 |[druid-01-nfBn8QB6HVdzpTFV.htm](classfeatures/druid-01-nfBn8QB6HVdzpTFV.htm)|Anathema (Druid)|Anathème (Druide)|changé|
+|[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal Order|Ordre animal|changé|
+|[druid-01-u4nlOzPj2WHkIj9l.htm](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Leaf Order|Ordre de la feuille|changé|
+|[druid-01-v0EjtiwdeMj8ykI0.htm](classfeatures/druid-01-v0EjtiwdeMj8ykI0.htm)|Wild Order|Ordre féroce|changé|
+|[magus-01-3gVDqDPSz4fB5T9G.htm](classfeatures/magus-01-3gVDqDPSz4fB5T9G.htm)|Laughing Shadow|Ombre ricanante|changé|
+|[magus-01-6YJ8KFl7THkVy6Gm.htm](classfeatures/magus-01-6YJ8KFl7THkVy6Gm.htm)|Twisting Tree|Arbre tordu|changé|
+|[magus-01-maGzhKLmgubAdUlN.htm](classfeatures/magus-01-maGzhKLmgubAdUlN.htm)|Sparkling Targe|Targe étincelante|changé|
+|[magus-01-Pew7duAozEeAemif.htm](classfeatures/magus-01-Pew7duAozEeAemif.htm)|Starlit Span|Portée des étoiles|changé|
+|[magus-01-ZslXrvYRxHBXc1Ds.htm](classfeatures/magus-01-ZslXrvYRxHBXc1Ds.htm)|Inexorable Iron|Acier inexorable|changé|
+|[magus-07-6HCI2iHyBZAr7a4P.htm](classfeatures/magus-07-6HCI2iHyBZAr7a4P.htm)|Studious Spells|Sorts studieux|changé|
 |[None-00-UTRDN1TAieBMjwP1.htm](classfeatures/None-00-UTRDN1TAieBMjwP1.htm)|Order of the Godclaw|Ordre du dieu griffu|changé|
+|[None-01-pUkUC8HHom2DmYzz.htm](classfeatures/None-01-pUkUC8HHom2DmYzz.htm)|Elemental Magic|MAgie élémentaire|changé|
 |[None-01-T25ZLQWn6O4KchLo.htm](classfeatures/None-01-T25ZLQWn6O4KchLo.htm)|Focus Spells|Sorts focalisés|changé|
+|[None-01-Upf1LXtWNJ6eB5sm.htm](classfeatures/None-01-Upf1LXtWNJ6eB5sm.htm)|Flexible Spell Preparation|Préparation de sort flexible|changé|
+|[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|Mystère du combat|changé|
 |[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames Mystery|Mystère des flammes|changé|
+|[oracle-01-IaxmCkdsPlA52spu.htm](classfeatures/oracle-01-IaxmCkdsPlA52spu.htm)|Bones Mystery|Mystère des ossements|changé|
+|[oracle-01-o1gGG36wpn9mxeop.htm](classfeatures/oracle-01-o1gGG36wpn9mxeop.htm)|Life Mystery|Mystère de la vie|changé|
 |[oracle-01-PRJYLksQEwT39bTl.htm](classfeatures/oracle-01-PRJYLksQEwT39bTl.htm)|Mystery|Mystère|changé|
 |[oracle-01-qvRlih3u7vK3FYUR.htm](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Ancestors Mystery|Mystère des ancêtres|changé|
+|[oracle-01-RI2EMRBBPNSoTJXu.htm](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Cosmos Mystery|Mystère du cosmos|changé|
+|[oracle-01-tZBb3Kh4nJcNoUFI.htm](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Lore Mystery|Mystère du savoir|changé|
 |[oracle-01-W9cF7wZztLDb1WGY.htm](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Tempest Mystery|Mystère de la tempête|changé|
 |[oracle-17-F4brPlp1tHGUqyuI.htm](classfeatures/oracle-17-F4brPlp1tHGUqyuI.htm)|Extreme Curse|Malédiction extrême|changé|
 |[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|changé|
@@ -121,11 +153,44 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Trafic de roublard : Scélérat|changé|
 |[rogue-05-v8UNEJR5IDKi8yqa.htm](classfeatures/rogue-05-v8UNEJR5IDKi8yqa.htm)|Weapon Tricks|Astuces martiales|changé|
 |[rogue-07-0npO4rPscGm0dX13.htm](classfeatures/rogue-07-0npO4rPscGm0dX13.htm)|Vigilant Senses (Level 7)|Sens alertes (Niveau 7)|changé|
+|[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|Lignage : Aberrant|changé|
+|[sorcerer-01-5Wxjghw7lHuCxjZz.htm](classfeatures/sorcerer-01-5Wxjghw7lHuCxjZz.htm)|Bloodline: Nymph|Lignage : Nymphe|changé|
+|[sorcerer-01-7WBZ2kkhZ7JorWu2.htm](classfeatures/sorcerer-01-7WBZ2kkhZ7JorWu2.htm)|Bloodline: Undead|Lignage : Mort-vivant|changé|
 |[sorcerer-01-dKTb959aCQIzSIXj.htm](classfeatures/sorcerer-01-dKTb959aCQIzSIXj.htm)|Bloodline: Wyrmblessed|Lignage : béni du Ver|changé|
+|[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|Lignage : Féerique|changé|
 |[sorcerer-01-gmnx7e1g08bppbqt.htm](classfeatures/sorcerer-01-gmnx7e1g08bppbqt.htm)|Sorcerer Spellcasting|Incantation de l'ensorceleur|changé|
+|[sorcerer-01-O0uXZRWMNliDbkxU.htm](classfeatures/sorcerer-01-O0uXZRWMNliDbkxU.htm)|Bloodline: Hag|Lignage : Guenaude|changé|
+|[sorcerer-01-o39zQMIdERWtmBSB.htm](classfeatures/sorcerer-01-o39zQMIdERWtmBSB.htm)|Bloodline: Diabolic|Lignage : Diabolique|changé|
+|[sorcerer-01-PpzH9tJULk5ksX9w.htm](classfeatures/sorcerer-01-PpzH9tJULk5ksX9w.htm)|Bloodline: Psychopomp|Lignage : Psychopompe|changé|
+|[sorcerer-01-RXRnJcG4XSabZ35a.htm](classfeatures/sorcerer-01-RXRnJcG4XSabZ35a.htm)|Bloodline: Elemental|Lignage : Élémentaire|changé|
+|[sorcerer-01-TWR1wbPJuCLnGdFZ.htm](classfeatures/sorcerer-01-TWR1wbPJuCLnGdFZ.htm)|Bloodline: Phoenix|Lignage : Phénix|changé|
+|[sorcerer-01-tYOMBiH3HbViNWwn.htm](classfeatures/sorcerer-01-tYOMBiH3HbViNWwn.htm)|Bloodline: Genie|Lignage : Génie|changé|
+|[sorcerer-01-uoQOm41BVdSo6pAS.htm](classfeatures/sorcerer-01-uoQOm41BVdSo6pAS.htm)|Bloodline: Shadow|Lignage : Ombre|changé|
+|[sorcerer-01-vhW3glAaEfq2DKrw.htm](classfeatures/sorcerer-01-vhW3glAaEfq2DKrw.htm)|Bloodline: Angelic|Lignage : Angélique|changé|
+|[sorcerer-01-w5koctOVrEcpxTIq.htm](classfeatures/sorcerer-01-w5koctOVrEcpxTIq.htm)|Bloodline: Demonic|Lignage : Démoniaque|changé|
+|[sorcerer-01-ZEtJJ5UOlV5oTWWp.htm](classfeatures/sorcerer-01-ZEtJJ5UOlV5oTWWp.htm)|Bloodline: Imperial|Lignage : Impérial|changé|
+|[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|Lignage : Draconique|changé|
+|[summoner-01-wguqw300DB5XdD8W.htm](classfeatures/summoner-01-wguqw300DB5XdD8W.htm)|Link Spells|Sorts liés|changé|
+|[witch-01-4IfYHrQMosJNM8hv.htm](classfeatures/witch-01-4IfYHrQMosJNM8hv.htm)|Fervor Patron|Patron : Ferveur|changé|
 |[witch-01-9uLh5z2uPo6LDFRY.htm](classfeatures/witch-01-9uLh5z2uPo6LDFRY.htm)|Hexes|Maléfices|changé|
+|[witch-01-ejmSQOJR5lJv1pzh.htm](classfeatures/witch-01-ejmSQOJR5lJv1pzh.htm)|Rune Patron|Patron : Rune|changé|
+|[witch-01-NAXRmMjj0gcyD7ie.htm](classfeatures/witch-01-NAXRmMjj0gcyD7ie.htm)|Curse Patron|Patron : Malédiction|changé|
+|[witch-01-qf12ubZ07Q0z0NcN.htm](classfeatures/witch-01-qf12ubZ07Q0z0NcN.htm)|Winter Patron|Patron : Hiver|changé|
+|[witch-01-qMZiTugiLCEmkg8h.htm](classfeatures/witch-01-qMZiTugiLCEmkg8h.htm)|Fate Patron|Patron : Destin|changé|
+|[witch-01-SOan0fqyFTrkqJLV.htm](classfeatures/witch-01-SOan0fqyFTrkqJLV.htm)|Witch Lessons|Leçons de sorcière|changé|
+|[witch-01-VVMMJdIWL7fAsQf3.htm](classfeatures/witch-01-VVMMJdIWL7fAsQf3.htm)|Baba Yaga Patron|Patron : Baba Yaga|changé|
+|[witch-01-x2gzQMPvLwHWDdAC.htm](classfeatures/witch-01-x2gzQMPvLwHWDdAC.htm)|Wild Patron|Patron : Sauvage|changé|
+|[witch-01-XFTWJO6txmLNRLae.htm](classfeatures/witch-01-XFTWJO6txmLNRLae.htm)|Night Patron|Patron : Nuit|changé|
 |[witch-11-O99eXctsEjEpuBwe.htm](classfeatures/witch-11-O99eXctsEjEpuBwe.htm)|Weapon Expertise (Level 11)|Expertise avec les armes (Niveau 11)|changé|
+|[wizard-01-gCwcys8CnS102tji.htm](classfeatures/wizard-01-gCwcys8CnS102tji.htm)|Arcane School: Abjuration|École arcanique : Abjuration|changé|
+|[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Arcane School: Evocation|École arcanique : Évocation|changé|
+|[wizard-01-K6hG7nH8yjmbA0Q9.htm](classfeatures/wizard-01-K6hG7nH8yjmbA0Q9.htm)|Arcane School: Illusion|École arcanique : Illusion|changé|
+|[wizard-01-rHxkPijLnQ9O9AGV.htm](classfeatures/wizard-01-rHxkPijLnQ9O9AGV.htm)|Arcane School: Transmutation|École arcanique : Transmutation|changé|
 |[wizard-01-S6WW4Yyg4XonXGHD.htm](classfeatures/wizard-01-S6WW4Yyg4XonXGHD.htm)|Arcane Spellcasting (Wizard)|Incantation arcanique|changé|
+|[wizard-01-SNeVaUBTHwvoO6kr.htm](classfeatures/wizard-01-SNeVaUBTHwvoO6kr.htm)|Arcane School: Conjuration|École arcanique : Invocation|changé|
+|[wizard-01-uNM7qZQokRKAEd7k.htm](classfeatures/wizard-01-uNM7qZQokRKAEd7k.htm)|Arcane School: Necromancy|École arcanique : Nécromancie|changé|
+|[wizard-01-yobGgrHdgjs5QW5o.htm](classfeatures/wizard-01-yobGgrHdgjs5QW5o.htm)|Arcane School: Divination|École arcanique : Divination|changé|
+|[wizard-01-ZHwGACWQEy6kTzcP.htm](classfeatures/wizard-01-ZHwGACWQEy6kTzcP.htm)|Arcane School: Enchantment|École arcanique : Enchantement|changé|
 
 ## Liste des traductions complétés
 
@@ -171,25 +236,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[barbarian-17-qMtyQGUllPdgpzUo.htm](classfeatures/barbarian-17-qMtyQGUllPdgpzUo.htm)|Quick Rage|Rage rapide|officielle|
 |[barbarian-19-QTCIahokREpnAYDi.htm](classfeatures/barbarian-19-QTCIahokREpnAYDi.htm)|Armor of Fury|Armure de furie|officielle|
 |[barbarian-19-VLiT503OLOM3vaDx.htm](classfeatures/barbarian-19-VLiT503OLOM3vaDx.htm)|Devastator|Dévastateur|officielle|
-|[bard-01-4ripp6EfdVpS0d60.htm](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Enigma Muse|Muse - Énigmatique|officielle|
 |[bard-01-6FsusoMYxxjyIkVh.htm](classfeatures/bard-01-6FsusoMYxxjyIkVh.htm)|Spell Repertoire (Bard)|Répertoire de sorts (Barde)|officielle|
 |[bard-01-fEOj0eOBe34qYdAa.htm](classfeatures/bard-01-fEOj0eOBe34qYdAa.htm)|Occult Spellcasting|Incantation occulte|officielle|
-|[bard-01-N03BtRvjX9TeHRa4.htm](classfeatures/bard-01-N03BtRvjX9TeHRa4.htm)|Warrior Muse|Muse - Combattant|libre|
-|[bard-01-s0VbbQJNlSgPocui.htm](classfeatures/bard-01-s0VbbQJNlSgPocui.htm)|Composition Spells|Sorts de composition|officielle|
-|[bard-01-y0jGimYdMGDJWrEq.htm](classfeatures/bard-01-y0jGimYdMGDJWrEq.htm)|Polymath Muse|Muse - Touche-à-tout|officielle|
-|[bard-01-YMBsi4bndRAk5CX4.htm](classfeatures/bard-01-YMBsi4bndRAk5CX4.htm)|Maestro Muse|Muse - Virtuose|officielle|
 |[bard-03-TUOeATt52P43r5W0.htm](classfeatures/bard-03-TUOeATt52P43r5W0.htm)|Lightning Reflexes (Level 3)|Réflexes fulgurants (Niveau 3)|officielle|
 |[bard-11-4lp8oG9A3zuqhPBS.htm](classfeatures/bard-11-4lp8oG9A3zuqhPBS.htm)|Bard Weapon Expertise|expertise avec les armes du barde|officielle|
 |[bard-19-NjsOpWbbzUY2Hpk3.htm](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum Opus|Magnum opus|officielle|
-|[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator|Profanateur|libre|
-|[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin|Antipaladin|libre|
-|[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator|Libérateur|officielle|
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|officielle|
-|[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant|Tyran|libre|
 |[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|Les principes du Mal|libre|
 |[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du Bien|officielle|
 |[champion-01-sXVX4ARUuo8Egrz5.htm](classfeatures/champion-01-sXVX4ARUuo8Egrz5.htm)|Champion's Reaction|Réaction de champion|officielle|
-|[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer|Rédempteur|officielle|
 |[champion-07-x5jaCJxsmD5sx3KB.htm](classfeatures/champion-07-x5jaCJxsmD5sx3KB.htm)|Armor Expertise (Level 7)|Expertise avec les armures (Niveau 7)|officielle|
 |[champion-09-VgmfNKtQLgBaNi5r.htm](classfeatures/champion-09-VgmfNKtQLgBaNi5r.htm)|Champion Expertise|Expertise du champion|officielle|
 |[champion-11-uptzvOLrZ3fctrl2.htm](classfeatures/champion-11-uptzvOLrZ3fctrl2.htm)|Exalt|Éxaltation|officielle|
@@ -197,12 +252,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-13-CGB1TczFhQhdQxml.htm](classfeatures/champion-13-CGB1TczFhQhdQxml.htm)|Armor Mastery (Level 13)|Maîtrise d'armure (Niveau 13)|libre|
 |[champion-17-voiSCh7ZXA2ogwiC.htm](classfeatures/champion-17-voiSCh7ZXA2ogwiC.htm)|Legendary Armor|Armure légendaire|officielle|
 |[champion-17-z5G0o04uV65zyxDB.htm](classfeatures/champion-17-z5G0o04uV65zyxDB.htm)|Champion Mastery|Maîtrise du Champion|officielle|
-|[champion-19-LzB6X9vOaq3wq1FZ.htm](classfeatures/champion-19-LzB6X9vOaq3wq1FZ.htm)|Hero's Defiance|Défi du héros|officielle|
 |[cleric-01-0Aocw3igLwna9cjp.htm](classfeatures/cleric-01-0Aocw3igLwna9cjp.htm)|Warpriest|Prêtre combattant|officielle|
 |[cleric-01-aiwxBj5MjnafCMyn.htm](classfeatures/cleric-01-aiwxBj5MjnafCMyn.htm)|First Doctrine (Cloistered Cleric)|Premier dogme (Prêtre cloîtré)|officielle|
 |[cleric-01-AvNbdGSOTWNRgcxs.htm](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Divine Spellcasting (Cleric)|Incantation divine (Prêtre)|officielle|
 |[cleric-01-DutW12WMFPHBoLTH.htm](classfeatures/cleric-01-DutW12WMFPHBoLTH.htm)|Deity|Divinité|libre|
-|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|officielle|
 |[cleric-01-Qejo7FUWQtPTpgWH.htm](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)|First Doctrine|Doctrine : Premier dogme|officielle|
 |[cleric-01-tyrBwBTzo5t9Zho7.htm](classfeatures/cleric-01-tyrBwBTzo5t9Zho7.htm)|Doctrine|Doctrine|officielle|
 |[cleric-01-xxkszluN9icAiTO4.htm](classfeatures/cleric-01-xxkszluN9icAiTO4.htm)|First Doctrine (Warpriest)|Premier dogme (Prêtre combattant)|libre|
@@ -225,16 +278,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-19-DgGefatQ4v6xT6f9.htm](classfeatures/cleric-19-DgGefatQ4v6xT6f9.htm)|Final Doctrine (Cloistered Cleric)|Dernier dogme (Prêtre cloîtré)|officielle|
 |[cleric-19-N1ugDqZlslxbp3Uy.htm](classfeatures/cleric-19-N1ugDqZlslxbp3Uy.htm)|Final Doctrine (Warpriest)|Dernier dogme (Prêtre combattant)|officielle|
 |[cleric-19-urBGOPrUwBmkixAo.htm](classfeatures/cleric-19-urBGOPrUwBmkixAo.htm)|Final Doctrine|Dernier dogme|officielle|
-|[druid-01-acqqlYmti8D9QJi0.htm](classfeatures/druid-01-acqqlYmti8D9QJi0.htm)|Storm Order|Ordre de la tempête|officielle|
 |[druid-01-b8pnRxGuNzG0buuh.htm](classfeatures/druid-01-b8pnRxGuNzG0buuh.htm)|Primal Spellcasting|Incantation primordiale|officielle|
 |[druid-01-d5BFFHXFJYKs5LXr.htm](classfeatures/druid-01-d5BFFHXFJYKs5LXr.htm)|Wild Empathy|Empathie sauvage|officielle|
-|[druid-01-fKTewWlYgFuhl4KA.htm](classfeatures/druid-01-fKTewWlYgFuhl4KA.htm)|Stone Order|Ordre de la pierre|libre|
-|[druid-01-FuUXyv2yBs7zRgqT.htm](classfeatures/druid-01-FuUXyv2yBs7zRgqT.htm)|Wave Order|Ordre de la vague|libre|
-|[druid-01-NdeFvIXdHwKYLiUj.htm](classfeatures/druid-01-NdeFvIXdHwKYLiUj.htm)|Flame Order|Ordre de la flamme|libre|
-|[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal Order|Ordre animal|officielle|
 |[druid-01-RiAGlnnp4S21BAG3.htm](classfeatures/druid-01-RiAGlnnp4S21BAG3.htm)|Druidic Language|Le druidique|officielle|
-|[druid-01-u4nlOzPj2WHkIj9l.htm](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Leaf Order|Ordre de la feuille|officielle|
-|[druid-01-v0EjtiwdeMj8ykI0.htm](classfeatures/druid-01-v0EjtiwdeMj8ykI0.htm)|Wild Order|Ordre féroce|officielle|
 |[druid-03-D8CSi8c9XiRpVc5M.htm](classfeatures/druid-03-D8CSi8c9XiRpVc5M.htm)|Alertness (Level 3)|Vigilance (Niveau 3)|officielle|
 |[druid-11-Ra32tlqBxHzT6fzN.htm](classfeatures/druid-11-Ra32tlqBxHzT6fzN.htm)|Druid Weapon Expertise|Expertise avec les armes de druide|officielle|
 |[druid-13-tzUaTqB6GHAeffOl.htm](classfeatures/druid-13-tzUaTqB6GHAeffOl.htm)|Medium Armor Expertise (Level 13)|Expertise avec les armures intermédiaires (Niveau 13)|libre|
@@ -269,16 +315,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[investigator-15-DqWr3LqUpT3Xi2xq.htm](classfeatures/investigator-15-DqWr3LqUpT3Xi2xq.htm)|Evasion (Level 15)|Évasion (Niveau 15)|officielle|
 |[investigator-19-flEx8eY0NinF9XZU.htm](classfeatures/investigator-19-flEx8eY0NinF9XZU.htm)|Master Detective|Maître détective|libre|
 |[magus-01-09iL38CZZEa0q0Mt.htm](classfeatures/magus-01-09iL38CZZEa0q0Mt.htm)|Arcane Cascade|Cascade arcanique|libre|
-|[magus-01-3gVDqDPSz4fB5T9G.htm](classfeatures/magus-01-3gVDqDPSz4fB5T9G.htm)|Laughing Shadow|Ombre ricanante|libre|
-|[magus-01-6YJ8KFl7THkVy6Gm.htm](classfeatures/magus-01-6YJ8KFl7THkVy6Gm.htm)|Twisting Tree|Arbre tordu|libre|
 |[magus-01-FkbFgmoVz5lHhSMo.htm](classfeatures/magus-01-FkbFgmoVz5lHhSMo.htm)|Conflux Spells|Sorts de confluence|libre|
 |[magus-01-FTeIs1Z1Qeli4BIF.htm](classfeatures/magus-01-FTeIs1Z1Qeli4BIF.htm)|Hybrid Study|Études hybridées|libre|
 |[magus-01-KVj5ofUwu3VJSrVw.htm](classfeatures/magus-01-KVj5ofUwu3VJSrVw.htm)|Spellstrike|Frappe de sort|libre|
-|[magus-01-maGzhKLmgubAdUlN.htm](classfeatures/magus-01-maGzhKLmgubAdUlN.htm)|Sparkling Targe|Targe étincelante|libre|
-|[magus-01-Pew7duAozEeAemif.htm](classfeatures/magus-01-Pew7duAozEeAemif.htm)|Starlit Span|Portée des étoiles|libre|
-|[magus-01-ZslXrvYRxHBXc1Ds.htm](classfeatures/magus-01-ZslXrvYRxHBXc1Ds.htm)|Inexorable Iron|Acier inexorable|libre|
 |[magus-05-9XLUh9iMepZesdmc.htm](classfeatures/magus-05-9XLUh9iMepZesdmc.htm)|Weapon Expertise (Level 5)|Expertise avec les armes (Niveau 5)|libre|
-|[magus-07-6HCI2iHyBZAr7a4P.htm](classfeatures/magus-07-6HCI2iHyBZAr7a4P.htm)|Studious Spells|Sorts studieux|libre|
 |[magus-09-D2g6sZQAWaTccviQ.htm](classfeatures/magus-09-D2g6sZQAWaTccviQ.htm)|Resolve (Level 9)|Résolution (Niveau 9)|libre|
 |[magus-09-TAIOtk5VvPZvv4nu.htm](classfeatures/magus-09-TAIOtk5VvPZvv4nu.htm)|Alertness (Level 9)|Vigilance (Niveau 9)|libre|
 |[magus-15-pzTRQxuoNOeWAalC.htm](classfeatures/magus-15-pzTRQxuoNOeWAalC.htm)|Juggernaut (Level 15)|Juggernaut (Niveau 15)|libre|
@@ -319,17 +359,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-01-1FPVkksuE2ncw9rF.htm](classfeatures/None-01-1FPVkksuE2ncw9rF.htm)|Ki Spells|Sorts de ki|officielle|
 |[None-01-HYTaibaCGE85rhbZ.htm](classfeatures/None-01-HYTaibaCGE85rhbZ.htm)|Runelord Specialization|Spécialisation de Seigneur des runes|libre|
 |[None-01-mRvyq7G0rqRP1EAr.htm](classfeatures/None-01-mRvyq7G0rqRP1EAr.htm)|Wellspring Magic|Magie de la source|libre|
-|[None-01-pUkUC8HHom2DmYzz.htm](classfeatures/None-01-pUkUC8HHom2DmYzz.htm)|Elemental Magic|MAgie élémentaire|libre|
-|[None-01-Upf1LXtWNJ6eB5sm.htm](classfeatures/None-01-Upf1LXtWNJ6eB5sm.htm)|Flexible Spell Preparation|Préparation de sort flexible|libre|
 |[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|libre|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
-|[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle Mystery|Mystère du combat|libre|
-|[oracle-01-IaxmCkdsPlA52spu.htm](classfeatures/oracle-01-IaxmCkdsPlA52spu.htm)|Bones Mystery|Mystère des ossements|libre|
 |[oracle-01-ibX2EhKkyUtbOHLj.htm](classfeatures/oracle-01-ibX2EhKkyUtbOHLj.htm)|Oracular Curse|Malédiction oraculaire|libre|
 |[oracle-01-NXUOtO9NytHQurlg.htm](classfeatures/oracle-01-NXUOtO9NytHQurlg.htm)|Revelation Spells|Sorts de révélation|libre|
-|[oracle-01-o1gGG36wpn9mxeop.htm](classfeatures/oracle-01-o1gGG36wpn9mxeop.htm)|Life Mystery|Mystère de la vie|libre|
-|[oracle-01-RI2EMRBBPNSoTJXu.htm](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Cosmos Mystery|Mystère du cosmos|libre|
-|[oracle-01-tZBb3Kh4nJcNoUFI.htm](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Lore Mystery|Mystère du savoir|libre|
 |[oracle-02-3OKTrm5rJdxFn4dR.htm](classfeatures/oracle-02-3OKTrm5rJdxFn4dR.htm)|Cosmos Mystery (Multiclass)|Mystère du Cosmos (Multiclasse)|libre|
 |[oracle-02-fdVLlFI1SyD7QGtu.htm](classfeatures/oracle-02-fdVLlFI1SyD7QGtu.htm)|Flames Mystery (Multiclass)|Mystère des flammes (Multiclasse)|libre|
 |[oracle-02-fEwVQUXUgUqTk4sE.htm](classfeatures/oracle-02-fEwVQUXUgUqTk4sE.htm)|Tempest Mystery (Multiclass)|Mystère de la tempête (Multiclasse)|libre|
@@ -380,30 +413,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rogue-17-xmZ7oeTDcQVXegUP.htm](classfeatures/rogue-17-xmZ7oeTDcQVXegUP.htm)|Slippery Mind|Esprit fuyant|officielle|
 |[rogue-19-SUUdWG0t33VKa5q4.htm](classfeatures/rogue-19-SUUdWG0t33VKa5q4.htm)|Master Strike|Frappe de maître|officielle|
 |[sorcerer-01-2goYo6VNbwC6aKF1.htm](classfeatures/sorcerer-01-2goYo6VNbwC6aKF1.htm)|Bloodline|Lignages|libre|
-|[sorcerer-01-3qqvnC2U8W26yae7.htm](classfeatures/sorcerer-01-3qqvnC2U8W26yae7.htm)|Bloodline: Aberrant|Lignage : Aberrant|officielle|
-|[sorcerer-01-5Wxjghw7lHuCxjZz.htm](classfeatures/sorcerer-01-5Wxjghw7lHuCxjZz.htm)|Bloodline: Nymph|Lignage : Nymphe|libre|
-|[sorcerer-01-7WBZ2kkhZ7JorWu2.htm](classfeatures/sorcerer-01-7WBZ2kkhZ7JorWu2.htm)|Bloodline: Undead|Lignage : Mort-vivant|officielle|
-|[sorcerer-01-eW3cfCH7Wpx2vik2.htm](classfeatures/sorcerer-01-eW3cfCH7Wpx2vik2.htm)|Bloodline: Fey|Lignage : Féerique|officielle|
 |[sorcerer-01-H6ziAPvCipTPG8SH.htm](classfeatures/sorcerer-01-H6ziAPvCipTPG8SH.htm)|Bloodline Spells|Sorts de lignage|officielle|
 |[sorcerer-01-lURKSJZAGKVD6cH9.htm](classfeatures/sorcerer-01-lURKSJZAGKVD6cH9.htm)|Spell Repertoire (Sorcerer)|Répertoire de sorts (Ensorceleur)|officielle|
-|[sorcerer-01-O0uXZRWMNliDbkxU.htm](classfeatures/sorcerer-01-O0uXZRWMNliDbkxU.htm)|Bloodline: Hag|Lignage : Guenaude|officielle|
-|[sorcerer-01-o39zQMIdERWtmBSB.htm](classfeatures/sorcerer-01-o39zQMIdERWtmBSB.htm)|Bloodline: Diabolic|Lignage : Diabolique|officielle|
-|[sorcerer-01-PpzH9tJULk5ksX9w.htm](classfeatures/sorcerer-01-PpzH9tJULk5ksX9w.htm)|Bloodline: Psychopomp|Lignage : Psychopompe|libre|
-|[sorcerer-01-RXRnJcG4XSabZ35a.htm](classfeatures/sorcerer-01-RXRnJcG4XSabZ35a.htm)|Bloodline: Elemental|Lignage : Élémentaire|officielle|
-|[sorcerer-01-TWR1wbPJuCLnGdFZ.htm](classfeatures/sorcerer-01-TWR1wbPJuCLnGdFZ.htm)|Bloodline: Phoenix|Lignage : Phénix|libre|
-|[sorcerer-01-tYOMBiH3HbViNWwn.htm](classfeatures/sorcerer-01-tYOMBiH3HbViNWwn.htm)|Bloodline: Genie|Lignage : Génie|libre|
-|[sorcerer-01-uoQOm41BVdSo6pAS.htm](classfeatures/sorcerer-01-uoQOm41BVdSo6pAS.htm)|Bloodline: Shadow|Lignage : Ombre|libre|
-|[sorcerer-01-vhW3glAaEfq2DKrw.htm](classfeatures/sorcerer-01-vhW3glAaEfq2DKrw.htm)|Bloodline: Angelic|Lignage : Angélique|officielle|
-|[sorcerer-01-w5koctOVrEcpxTIq.htm](classfeatures/sorcerer-01-w5koctOVrEcpxTIq.htm)|Bloodline: Demonic|Lignage : Démoniaque|officielle|
-|[sorcerer-01-ZEtJJ5UOlV5oTWWp.htm](classfeatures/sorcerer-01-ZEtJJ5UOlV5oTWWp.htm)|Bloodline: Imperial|Lignage : Impérial|officielle|
-|[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|Lignage : Draconique|officielle|
 |[sorcerer-03-VKRjmXxBFLrJK01c.htm](classfeatures/sorcerer-03-VKRjmXxBFLrJK01c.htm)|Signature Spells (Level 3)|Sorts emblématiques (Niveau 3)|officielle|
 |[sorcerer-19-feCnVrPPlKhl701x.htm](classfeatures/sorcerer-19-feCnVrPPlKhl701x.htm)|Bloodline Paragon|Parangon du lignage|officielle|
 |[summoner-01-gWcN75VNpSZ4FqNb.htm](classfeatures/summoner-01-gWcN75VNpSZ4FqNb.htm)|Summoner Spellcasting|Incantation du conjurateur|libre|
 |[summoner-01-IPcdQAwJk0aZe5mg.htm](classfeatures/summoner-01-IPcdQAwJk0aZe5mg.htm)|Evolution Feat|Don d'évolution|libre|
 |[summoner-01-Ju2Tp5s5iBB76tQO.htm](classfeatures/summoner-01-Ju2Tp5s5iBB76tQO.htm)|Spell Repertoire (Summoner)|Répertoire de sorts (Conjurateur)|libre|
 |[summoner-01-qOEpe596B0UjhcG0.htm](classfeatures/summoner-01-qOEpe596B0UjhcG0.htm)|Eidolon|Eidolon|libre|
-|[summoner-01-wguqw300DB5XdD8W.htm](classfeatures/summoner-01-wguqw300DB5XdD8W.htm)|Link Spells|Sorts liés|libre|
 |[summoner-03-P34Jx6i4GJGoqTtG.htm](classfeatures/summoner-03-P34Jx6i4GJGoqTtG.htm)|Unlimited Signature Spells|Sorts emblématiques illimités|libre|
 |[summoner-03-QiMlJ33kNEoyh1M0.htm](classfeatures/summoner-03-QiMlJ33kNEoyh1M0.htm)|Shared Vigilance|Vigilance partagée|libre|
 |[summoner-05-GI5IAl4dkly4At8e.htm](classfeatures/summoner-05-GI5IAl4dkly4At8e.htm)|Ability Boosts|Primes de caractéristiques (conjurateur)|libre|
@@ -440,7 +457,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-09-KxpaxUSuBC7hr4F7.htm](classfeatures/swashbuckler-09-KxpaxUSuBC7hr4F7.htm)|Exemplary Finisher|Coup final exemplaire|libre|
 |[swashbuckler-09-U74JoAcLHTOsZG6q.htm](classfeatures/swashbuckler-09-U74JoAcLHTOsZG6q.htm)|Swashbuckler Expertise|Expertise du bretteur|libre|
 |[swashbuckler-11-13QpCrR8a8XULbJa.htm](classfeatures/swashbuckler-11-13QpCrR8a8XULbJa.htm)|Continuous Flair|Élégance continuelle|libre|
-|[swashbuckler-11-NTp146fjLreL5zsj.htm](classfeatures/swashbuckler-11-NTp146fjLreL5zsj.htm)|Vigilant Senses (Level 11)|Vigilance (Niveau 11)|libre|
+|[swashbuckler-11-NTp146fjLreL5zsj.htm](classfeatures/swashbuckler-11-NTp146fjLreL5zsj.htm)|Vigilant Senses (Level 11)|Sens alertes (Niveau 11)|libre|
 |[swashbuckler-13-i6563IU7x4L9oRgC.htm](classfeatures/swashbuckler-13-i6563IU7x4L9oRgC.htm)|Weapon Mastery (Level 13)|Maîtrise avec les armes (Niveau 13)|libre|
 |[swashbuckler-13-L5D0NwFXdLiVSnk5.htm](classfeatures/swashbuckler-13-L5D0NwFXdLiVSnk5.htm)|Improved Evasion (Level 13)|Évasion améliorée (Niveau 13)|officielle|
 |[swashbuckler-13-pZYkb12t5DSwtts7.htm](classfeatures/swashbuckler-13-pZYkb12t5DSwtts7.htm)|Light Armor Expertise (Level 13)|Expertise avec les armures légères (Niveau 13)|libre|
@@ -448,17 +465,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-15-Z7HX6TeFsaup7Dx9.htm](classfeatures/swashbuckler-15-Z7HX6TeFsaup7Dx9.htm)|Greater Weapon Specialization (Level 15)|Spécialisation martiale supérieure (Niveau 15)|libre|
 |[swashbuckler-19-SHpjmM4A3Sw4GgDz.htm](classfeatures/swashbuckler-19-SHpjmM4A3Sw4GgDz.htm)|Light Armor Mastery (Level 19)|Maîtrise des armures légères (Niveau 19)|libre|
 |[swashbuckler-19-ypfT3iybew6ZSIUl.htm](classfeatures/swashbuckler-19-ypfT3iybew6ZSIUl.htm)|Eternal Confidence|Confiance éternelle|libre|
-|[witch-01-4IfYHrQMosJNM8hv.htm](classfeatures/witch-01-4IfYHrQMosJNM8hv.htm)|Fervor Patron|Patron : Ferveur|libre|
-|[witch-01-ejmSQOJR5lJv1pzh.htm](classfeatures/witch-01-ejmSQOJR5lJv1pzh.htm)|Rune Patron|Patron : Rune|libre|
 |[witch-01-KPtF29AaeX2sJW0K.htm](classfeatures/witch-01-KPtF29AaeX2sJW0K.htm)|Patron|Patron|libre|
-|[witch-01-NAXRmMjj0gcyD7ie.htm](classfeatures/witch-01-NAXRmMjj0gcyD7ie.htm)|Curse Patron|Patron : Malédiction|libre|
 |[witch-01-nocYmxbi4rqCC2qS.htm](classfeatures/witch-01-nocYmxbi4rqCC2qS.htm)|Patron Theme|Thême de patron|libre|
-|[witch-01-qf12ubZ07Q0z0NcN.htm](classfeatures/witch-01-qf12ubZ07Q0z0NcN.htm)|Winter Patron|Patron : Hiver|libre|
-|[witch-01-qMZiTugiLCEmkg8h.htm](classfeatures/witch-01-qMZiTugiLCEmkg8h.htm)|Fate Patron|Patron : Destin|libre|
-|[witch-01-SOan0fqyFTrkqJLV.htm](classfeatures/witch-01-SOan0fqyFTrkqJLV.htm)|Witch Lessons|Leçons de sorcière|libre|
-|[witch-01-VVMMJdIWL7fAsQf3.htm](classfeatures/witch-01-VVMMJdIWL7fAsQf3.htm)|Baba Yaga Patron|Patron : Baba Yaga|libre|
-|[witch-01-x2gzQMPvLwHWDdAC.htm](classfeatures/witch-01-x2gzQMPvLwHWDdAC.htm)|Wild Patron|Patron : Sauvage|libre|
-|[witch-01-XFTWJO6txmLNRLae.htm](classfeatures/witch-01-XFTWJO6txmLNRLae.htm)|Night Patron|Patron : Nuit|libre|
 |[witch-01-yksPhweBZYVCsE1A.htm](classfeatures/witch-01-yksPhweBZYVCsE1A.htm)|Familiar (Witch)|Familier (Sorcière)|libre|
 |[witch-01-zT6QiTMxxj8JYoN9.htm](classfeatures/witch-01-zT6QiTMxxj8JYoN9.htm)|Witch Spellcasting|Incantation de sorcière|libre|
 |[witch-05-70jqXP2eS4tRZ0Ok.htm](classfeatures/witch-05-70jqXP2eS4tRZ0Ok.htm)|Magical Fortitude (Level 5)|Vigueur magique (Niveau 5)|officielle|
@@ -467,20 +475,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wizard-01-7nbKDBGvwSx9T27G.htm](classfeatures/wizard-01-7nbKDBGvwSx9T27G.htm)|Arcane School|École arcanique|officielle|
 |[wizard-01-89zWKD2CN7nRu2xp.htm](classfeatures/wizard-01-89zWKD2CN7nRu2xp.htm)|Arcane Thesis: Metamagical Experimentation|Thèse arcanique : Expérimentation métamagique|officielle|
 |[wizard-01-au0lwQ1nAcNQwcGh.htm](classfeatures/wizard-01-au0lwQ1nAcNQwcGh.htm)|Arcane Bond|Lien arcanique|officielle|
-|[wizard-01-gCwcys8CnS102tji.htm](classfeatures/wizard-01-gCwcys8CnS102tji.htm)|Arcane School: Abjuration|École arcanique : Abjuration|officielle|
-|[wizard-01-ibhml5y20g5M3Vgd.htm](classfeatures/wizard-01-ibhml5y20g5M3Vgd.htm)|Arcane School: Evocation|École arcanique : Évocation|officielle|
-|[wizard-01-K6hG7nH8yjmbA0Q9.htm](classfeatures/wizard-01-K6hG7nH8yjmbA0Q9.htm)|Arcane School: Illusion|École arcanique : Illusion|officielle|
 |[wizard-01-Klb35AwlkNrq1gpB.htm](classfeatures/wizard-01-Klb35AwlkNrq1gpB.htm)|Arcane Thesis: Staff Nexus|Thèse arcanique : Bâton nexus|libre|
 |[wizard-01-M89l9FOnjHe63wD7.htm](classfeatures/wizard-01-M89l9FOnjHe63wD7.htm)|Arcane Thesis|Thèse arcanique|libre|
 |[wizard-01-OAcxS625AXSGrQIC.htm](classfeatures/wizard-01-OAcxS625AXSGrQIC.htm)|Arcane Thesis: Spell Blending|Thèse arcanique : Mélange de sorts|officielle|
 |[wizard-01-qczCKdg47eAmCOUD.htm](classfeatures/wizard-01-qczCKdg47eAmCOUD.htm)|Arcane School: Universalist|École arcanique : universaliste|officielle|
 |[wizard-01-QzWXMCSGNfvvpYgF.htm](classfeatures/wizard-01-QzWXMCSGNfvvpYgF.htm)|Arcane Thesis: Spell Substitution|Thèse arcanique : Substitution de sort|officielle|
-|[wizard-01-rHxkPijLnQ9O9AGV.htm](classfeatures/wizard-01-rHxkPijLnQ9O9AGV.htm)|Arcane School: Transmutation|École arcanique : Transmutation|officielle|
-|[wizard-01-SNeVaUBTHwvoO6kr.htm](classfeatures/wizard-01-SNeVaUBTHwvoO6kr.htm)|Arcane School: Conjuration|École arcanique : Invocation|officielle|
 |[wizard-01-SNZ46g3u7U6x0XJj.htm](classfeatures/wizard-01-SNZ46g3u7U6x0XJj.htm)|Arcane Thesis: Improved Familiar Attunement|Thèse arcanique : Amélioration de l’harmonisation avec le familier|officielle|
-|[wizard-01-uNM7qZQokRKAEd7k.htm](classfeatures/wizard-01-uNM7qZQokRKAEd7k.htm)|Arcane School: Necromancy|École arcanique : Nécromancie|officielle|
-|[wizard-01-yobGgrHdgjs5QW5o.htm](classfeatures/wizard-01-yobGgrHdgjs5QW5o.htm)|Arcane School: Divination|École arcanique : Divination|officielle|
-|[wizard-01-ZHwGACWQEy6kTzcP.htm](classfeatures/wizard-01-ZHwGACWQEy6kTzcP.htm)|Arcane School: Enchantment|École arcanique : Enchantement|officielle|
 |[wizard-05-rz87RgR1crWTd7j5.htm](classfeatures/wizard-05-rz87RgR1crWTd7j5.htm)|Lightning Reflexes (Level 5)|Réflexes fulgurants (Niveau 5)|officielle|
 |[wizard-07-cD3nSupdCvONuHiE.htm](classfeatures/wizard-07-cD3nSupdCvONuHiE.htm)|Expert Spellcaster (Level 7)|Incantateur expert (Niveau 7)|officielle|
 |[wizard-09-MzyPNlxrNA5OKVd7.htm](classfeatures/wizard-09-MzyPNlxrNA5OKVd7.htm)|Magical Fortitude (Level 9)|Vigueur magique (Niveau 9)|officielle|

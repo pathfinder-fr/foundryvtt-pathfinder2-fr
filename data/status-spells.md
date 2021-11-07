@@ -1,12 +1,12 @@
 # État de la traduction (spells)
 
- * **libre**: 340
+ * **libre**: 338
  * **officielle**: 312
- * **changé**: 474
+ * **changé**: 476
  * **aucune**: 7
 
 
-Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-07 19:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -492,12 +492,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-07-3MzuRDc7ccylpW2e.htm](spells/transmutation-07-3MzuRDc7ccylpW2e.htm)|Hasted Assault|Assaut hâtif|changé|
 |[transmutation-07-9aFg4EuOBVz0i3Lb.htm](spells/transmutation-07-9aFg4EuOBVz0i3Lb.htm)|Corrosive Body|Corps corrosif|changé|
 |[transmutation-07-hiVL8qsnTJtpouw0.htm](spells/transmutation-07-hiVL8qsnTJtpouw0.htm)|Divine Vessel|Réceptacle divin|changé|
+|[transmutation-07-IHUs4qn27RrdFQ5Y.htm](spells/transmutation-07-IHUs4qn27RrdFQ5Y.htm)|Cosmic Form|Forme cosmique|changé|
 |[transmutation-08-8AMvNVOUEtxBCDvJ.htm](spells/transmutation-08-8AMvNVOUEtxBCDvJ.htm)|Monstrosity Form|Forme monstrueuse|changé|
 |[transmutation-08-U0hL0LLaprcnAyzC.htm](spells/transmutation-08-U0hL0LLaprcnAyzC.htm)|Wind Walk|Voyage venteux|changé|
 |[transmutation-09-TbYqDhlNRiWHe146.htm](spells/transmutation-09-TbYqDhlNRiWHe146.htm)|One With the Land|Uni à la terre|changé|
 |[transmutation-10-ckUOoqOM7Kg7VqxB.htm](spells/transmutation-10-ckUOoqOM7Kg7VqxB.htm)|Avatar|Avatar|changé|
 |[transmutation-10-pmP8HhXvvEKP3LqU.htm](spells/transmutation-10-pmP8HhXvvEKP3LqU.htm)|Primal Herd|Troupeau primitif|changé|
 |[transmutation-10-qqQYrXaRJXr7uc4i.htm](spells/transmutation-10-qqQYrXaRJXr7uc4i.htm)|Apex Companion|Compagnon alpha|changé|
+|[transmutation-10-vQMAdnIwnV9prPiG.htm](spells/transmutation-10-vQMAdnIwnV9prPiG.htm)|Element Embodied|Incarnation élémentaire|changé|
 |[transmutation-10-ZXwxs5tRjEGrjAJT.htm](spells/transmutation-10-ZXwxs5tRjEGrjAJT.htm)|Nature Incarnate|Incarnation de la nature|changé|
 
 ## Liste des traductions complétés
@@ -1149,10 +1151,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-06-MMCQsh12TPaDdPbV.htm](spells/transmutation-06-MMCQsh12TPaDdPbV.htm)|Righteous Might|Force du colosse|officielle|
 |[transmutation-06-xEjGEBvTfDJECSki.htm](spells/transmutation-06-xEjGEBvTfDJECSki.htm)|Ancestral Form|Forme ancestrale|libre|
 |[transmutation-07-E3zIZ4pjlOuWeGRz.htm](spells/transmutation-07-E3zIZ4pjlOuWeGRz.htm)|Angel Form|Forme d'ange|libre|
-|[transmutation-07-IHUs4qn27RrdFQ5Y.htm](spells/transmutation-07-IHUs4qn27RrdFQ5Y.htm)|Cosmic Form|Forme cosmique|libre|
 |[transmutation-07-XS7Wyh5YC0NWeWyB.htm](spells/transmutation-07-XS7Wyh5YC0NWeWyB.htm)|Fiery Body|Corps enflammé|officielle|
 |[transmutation-08-wTYxxYJWN348oV15.htm](spells/transmutation-08-wTYxxYJWN348oV15.htm)|Medusa's Wrath|Courroux de la méduse|libre|
 |[transmutation-09-pswdik31kuHEvdno.htm](spells/transmutation-09-pswdik31kuHEvdno.htm)|Shapechange|Changement de forme|officielle|
 |[transmutation-09-YDMOqndvYFu3OjA6.htm](spells/transmutation-09-YDMOqndvYFu3OjA6.htm)|Ki Form|Forme ki|libre|
 |[transmutation-10-1dsahW4g1ggXtypx.htm](spells/transmutation-10-1dsahW4g1ggXtypx.htm)|Time Stop|Arrêt du temps|officielle|
-|[transmutation-10-vQMAdnIwnV9prPiG.htm](spells/transmutation-10-vQMAdnIwnV9prPiG.htm)|Element Embodied|Incarnation élémentaire|libre|

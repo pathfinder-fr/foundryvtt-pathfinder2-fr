@@ -1671,7 +1671,7 @@
         {
             "id": "Magus's Analysis",
             "name": "Magus's Analysis",
-            "description": "<p>Vous faites une évaluation basée sur votre connaissance de la façon dont une créature se bat. Tentez un test pour Vous vouvenir à propos d'une créature. Vous gagnez un bonus de circonstances de +1 à votre test si vous avez déjà touché la créature avec une Frappe ce tour-ci. Si votre test est réussi, rechargez votre Frappe de sort. Le sujet de votre test est temporairement immunisé contre Analyse du magus pendant 1 jour.</p>",
+            "description": "<p>Vous faites une évaluation basée sur votre connaissance de la façon dont une créature se bat. Tentez un test pour Vous souvenir à propos d'une créature. Vous gagnez un bonus de circonstances de +1 à votre test si vous avez déjà touché la créature avec une Frappe ce tour-ci. Si votre test est réussi, rechargez votre Frappe de sort. Le sujet de votre test est temporairement immunisé contre Analyse du magus pendant 1 jour.</p>",
             "prereq": [
                 {
                     "value": "Frappe de sort"
@@ -2820,7 +2820,12 @@
         {
             "id": "Assisting Shot",
             "name": "Assisting Shot",
-            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance.\n<hr />\n<p>Portez une Frappe avec une arme à distance. Si la frappe touche, la prochaine créature autre que vous qui attaque la même cible avant le début de votre prochain tour obtient un bonus de circonstances de +1 à son jet ou un bonus de circonstances de +2 si votre Frappe était un succès critique.</p>\n<p>@Compendium[pf2e.feat-effects.zcJii1XyOne9EvMr]{Effet : Tir de soutien}</p>\n<p>@Compendium[pf2e.feat-effects.AAgoUuwMvHzqNhIN]{Effet : Tir de soutien (coup  critique)}</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance.\n<hr />\n<p>Avec un tir rapide, vous interférez avec un ennemi en combat. Portez une Frappe avec une arme à distance. Si la frappe touche, la prochaine créature autre que vous qui attaque la même cible avant le début de votre prochain tour obtient un bonus de circonstances de +1 à son jet ou un bonus de circonstances de +2 si votre Frappe était un succès critique.</p>\n<p>@Compendium[pf2e.feat-effects.zcJii1XyOne9EvMr]{Effet : Tir de soutien}</p>\n<p>@Compendium[pf2e.feat-effects.AAgoUuwMvHzqNhIN]{Effet : Tir de soutien (coup  critique)}</p>",
+            "prereq": [
+                {
+                    "value": "Vous mainez une arme à distance"
+                }
+            ]
         },
         {
             "id": "Martial Artist Dedication",
@@ -6190,11 +6195,6 @@
             ]
         },
         {
-            "id": "Form Lock",
-            "name": "Form Lock",
-            "description": "<p><strong>Conditions</strong> vous avez @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisi} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravé} un adversaire.</p>\n<hr />\n<p>Votre capacité à contrôler votre ki vous donne la puissance pour obliger les autres créatures à revenir à leur véritable forme.</p>\n<p>Faites un test d'Athlétisme pour contrer un effet de métamorphose qui affecte actuellement votre cible. Si la cible est de quelconque manière sous l'effet de plusieurs effets de métamorphose, vous pouvez en choisir un pour essayer de la contrer ou le MJ choisit de manière aléatoire si les différents effets ne sont pas évidents. La cible est alors temporairement immunisée pendant une journée.</p>"
-        },
-        {
             "id": "Burrow Elocutionist",
             "name": "Burrow Elocutionist",
             "description": "<p>Vous savez identifier le babil des créatures souterraines comme un langage. Vous pouvez ainsi poser des questions, obtenir des réponses et utiliser la compétence Diplomatie quand vous vous adressez à des animaux qui ont une Vitesse de creusement comme les blaireaux, les écureuils terrestres, les taupes et les chiens de prairie. Le MJ détermine avec quels animaux vous pouvez utiliser ce pouvoir.</p>"
@@ -6335,7 +6335,7 @@
         {
             "id": "Knight Reclaimant Dedication",
             "name": "Knight Reclaimant Dedication",
-            "description": "<p>Vous avez prêté le Serment écarlate et êtes devenu un membre à part entière des Récupérateurs écarlates. Vous devenez expert en Discrétion et en Survie. Lorsque vous obtenez un succès sur un jet de sauvegarde contre une capacité spéciale d'un mort-vivant, vous obtenez un succès critique à la place. Cela s'applique à toutes les capacités qui viennent de l'état de mort-vivant, incluant les sorts innés des morts-vivants (mais pas leurs sorts préparés ou spontanés).</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas obtenir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Chevalier récupérateur.</p>",
+            "description": "<p>Vous avez prêté le Serment écarlate et êtes devenu un membre à part entière des Reconquérants écarlates. Vous devenez expert en Discrétion et en Survie. Lorsque vous obtenez un succès sur un jet de sauvegarde contre une capacité spéciale d'un mort-vivant, vous obtenez un succès critique à la place. Cela s'applique à toutes les capacités qui viennent de l'état de mort-vivant, incluant les sorts innés des morts-vivants (mais pas leurs sorts préparés ou spontanés).</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas obtenir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Chevalier reconquérant.</p>",
             "prereq": [
                 {
                     "value": "qualifié en Survie"
@@ -8118,7 +8118,7 @@
         {
             "id": "Dual-Weapon Warrior Dedication",
             "name": "Dual-Weapon Warrior Dedication",
-            "description": "<p>Vous êtes exceptionnel dans votre utilisation de deux armes.</p>\n<p>Vous obtenez le don de guerrier @Compendium[pf2e.feats-srd.onde0SxLoxLBTnvm]{Double taille}. Cela compte comme Double taille lorsque que vous avez besoin de remplir des prérequis.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement tant que vous n'avez pas choisi deux autres dons de l'archétype de Combattant à deux armes.</p>"
+            "description": "<p>Vous êtes exceptionnel dans votre utilisation de deux armes.</p>\n<p>Vous obtenez le don de guerrier @Compendium[pf2e.feats-srd.onde0SxLoxLBTnvm]{Double taille}. Cela vous permet de considérer que vous bénéficiez de Double taille pour les besoins de remplir les prérequis.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement tant que vous n'avez pas choisi deux autres dons de l'archétype de Combattant à deux armes.</p>"
         },
         {
             "id": "Internal Compartment",
@@ -18473,16 +18473,6 @@
             "id": "Symphony Of The Unfettered Heart",
             "name": "Symphony Of The Unfettered Heart",
             "description": "<p>Vous apprenez le sort de composition @Compendium[pf2e.spells-srd.ZAX0OOcKtYMQlquR]{Symphonie du cœur affranchi} qui vous permet de protéger un allié contre les conditions incapacitantes.</p>"
-        },
-        {
-            "id": "Dual-Weapon Reload",
-            "name": "Dual-Weapon Reload",
-            "description": "<p><strong>Conditions</strong> Vous maniez deux armes à une main, chacune dans une main différente, dont une est une arme à distance.</p>\n<hr />\n<p>Vous portez votre munition d'une manière qui vous permet de recharger tout en portant deux armes.</p>\n<p>Vous @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interagissez} pour recharger une arme à distance à une main que vous tenez. Contrairement à la plupart des actions Interagir, vous n'avez pas besoin d'une main libre pour recharger votre arme à distance de cette manière.</p>",
-            "prereq": [
-                {
-                    "value": "Dévouement de Combattant à deux armes"
-                }
-            ]
         },
         {
             "id": "Suspect of Opportunity",

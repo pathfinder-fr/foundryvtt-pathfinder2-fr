@@ -1,11 +1,11 @@
 # État de la traduction (archetypes)
 
  * **changé**: 75
- * **aucune**: 5
+ * **aucune**: 7
  * **libre**: 3
 
 
-Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-07 19:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,7 +14,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[2utUBjuTmPt7cHiw.htm](archetypes/2utUBjuTmPt7cHiw.htm)|Ghost Eater|
 |[7G7cRmS3HO2iUElx.htm](archetypes/7G7cRmS3HO2iUElx.htm)|Artillerist|
+|[ARb0Q9D2gmqalPnM.htm](archetypes/ARb0Q9D2gmqalPnM.htm)|Beast Gunner|
 |[CmCmbpn10LJcjH78.htm](archetypes/CmCmbpn10LJcjH78.htm)|Sixth Pillar|
+|[O9aKJ2C3MvHKFmcO.htm](archetypes/O9aKJ2C3MvHKFmcO.htm)|Bullet Dancer|
 |[pgesyqPUJSHKsbGv.htm](archetypes/pgesyqPUJSHKsbGv.htm)|Butterfly Blade|
 |[S82AsQp9Iyjff12F.htm](archetypes/S82AsQp9Iyjff12F.htm)|Golden League Xun|
 
@@ -86,7 +88,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UsT8XqN5LwfbBMzp.htm](archetypes/UsT8XqN5LwfbBMzp.htm)|Bastion|Bastion|changé|
 |[Utxq3fo8AoPyfh4K.htm](archetypes/Utxq3fo8AoPyfh4K.htm)|Lastwall Sentry|Sentinelle du Dernier-Rempart|changé|
 |[VRUYc3QyRjjOjppc.htm](archetypes/VRUYc3QyRjjOjppc.htm)|Turpin Rowe Lumberjack|Bûcheron de Turpin Rowe|changé|
-|[WrQ2Qpv958C6cfD0.htm](archetypes/WrQ2Qpv958C6cfD0.htm)|Knight Reclaimant|Chevalier récupérateur|changé|
+|[WrQ2Qpv958C6cfD0.htm](archetypes/WrQ2Qpv958C6cfD0.htm)|Knight Reclaimant|Chevalier reconquérant|changé|
 |[XATPzPTZ9Je89erT.htm](archetypes/XATPzPTZ9Je89erT.htm)|Golem Grafter|Greffeur de golem|changé|
 |[xFjXKdIkA574QRkv.htm](archetypes/xFjXKdIkA574QRkv.htm)|Scroll Trickster|Usurpateur de parchemins|changé|
 |[xNzNpPjeNSrXE7WG.htm](archetypes/xNzNpPjeNSrXE7WG.htm)|Crystal Keeper|Gardien des cristaux|changé|

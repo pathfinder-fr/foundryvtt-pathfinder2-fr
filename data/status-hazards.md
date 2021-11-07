@@ -1,11 +1,11 @@
 # État de la traduction (hazards)
 
  * **libre**: 4
- * **officielle**: 23
- * **changé**: 23
+ * **officielle**: 22
+ * **changé**: 24
 
 
-Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-07 19:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -14,6 +14,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[6In2S3lDnxNgZ2np.htm](hazards/6In2S3lDnxNgZ2np.htm)|Titanic Flytrap|Attrape-mouches titanesque|changé|
 |[7VqibTAEXXX6PIhh.htm](hazards/7VqibTAEXXX6PIhh.htm)|Scythe Blades|Lames de faux|changé|
+|[H2GX04CQXLPQHT8h.htm](hazards/H2GX04CQXLPQHT8h.htm)|Wheel Of Misery|Roue du malheur|changé|
 |[m4PRYxFq9ojcwesh.htm](hazards/m4PRYxFq9ojcwesh.htm)|Pharaoh's Ward|Sceau du pharaon|changé|
 |[mMXHyWdmmAN0GPvG.htm](hazards/mMXHyWdmmAN0GPvG.htm)|Banshee's Symphony|Symphonie d'outre-tombe|changé|
 |[nO4osrBRnpWKFCMP.htm](hazards/nO4osrBRnpWKFCMP.htm)|Summoning Rune|Rune de convocation|changé|
@@ -58,7 +59,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[g9HovYB4pfHgIML9.htm](hazards/g9HovYB4pfHgIML9.htm)|Flensing Blades|Lames lacérantes|officielle|
 |[gB9WkJtH88jJQa5Z.htm](hazards/gB9WkJtH88jJQa5Z.htm)|Plummeting Doom|Chute tragique|officielle|
 |[gFt2nzQrVgXM9tmJ.htm](hazards/gFt2nzQrVgXM9tmJ.htm)|Treacherous Scree|Éboulis traître|officielle|
-|[H2GX04CQXLPQHT8h.htm](hazards/H2GX04CQXLPQHT8h.htm)|Wheel Of Misery|Roue du malheur|officielle|
 |[H8CPGJn81JSTCRNx.htm](hazards/H8CPGJn81JSTCRNx.htm)|Polymorph Trap|Piège de métamorphose|officielle|
 |[HnPd9Vqh5NHKEdRq.htm](hazards/HnPd9Vqh5NHKEdRq.htm)|Spinning Blade Pillar|Colonne de lames tournoyantes|officielle|
 |[inUlZWE1isqnTRc5.htm](hazards/inUlZWE1isqnTRc5.htm)|Jealous Abjurer|Abjurateur jaloux|officielle|

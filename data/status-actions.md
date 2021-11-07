@@ -1,12 +1,12 @@
 # État de la traduction (actions)
 
  * **officielle**: 107
- * **libre**: 98
- * **changé**: 23
+ * **libre**: 96
+ * **changé**: 25
  * **aucune**: 37
 
 
-Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-07 19:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -55,7 +55,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[0XiPnnxKHWKFg1tN.htm](actions/0XiPnnxKHWKFg1tN.htm)|Breath Weapon (Piercing) (Cone)|arme de souffle perforante (cône)|changé|
+|[0XiPnnxKHWKFg1tN.htm](actions/0XiPnnxKHWKFg1tN.htm)|Breath Weapon (Piercing) (Cone)|Arme de souffle perforante (cône)|changé|
 |[3UEwtMA5y8foVqYP.htm](actions/3UEwtMA5y8foVqYP.htm)|Breath Weapon (Electricity) (Line)|arme de souffle électrique (ligne)|changé|
 |[5Vuhf4DjvMvRqiEZ.htm](actions/5Vuhf4DjvMvRqiEZ.htm)|Breath Weapon (Negative) (Cone)|Arme de souffle négative (cône)|changé|
 |[8aIe57gXJ94mPpW4.htm](actions/8aIe57gXJ94mPpW4.htm)|Anadi Venom|Venin anadi|changé|
@@ -72,11 +72,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[LfsQy2T8GjpuMqAh.htm](actions/LfsQy2T8GjpuMqAh.htm)|Breath Weapon (Electricity) (Cone)|Arme de souffle électrique (cône)|changé|
 |[Lt591Og3XRhx5dRx.htm](actions/Lt591Og3XRhx5dRx.htm)|Breath Weapon (Acid) (Cone)|Arme de souffle acide (cône)|changé|
 |[M8RCbthRhB4bxO9t.htm](actions/M8RCbthRhB4bxO9t.htm)|Iron Command|Ordre de fer|changé|
+|[mk6rzaAzsBBRGJnh.htm](actions/mk6rzaAzsBBRGJnh.htm)|Call Upon the Brightness|Faire appel à la lumière|changé|
 |[NEBuuhjZE9BL3I8v.htm](actions/NEBuuhjZE9BL3I8v.htm)|Breath Weapon (Poison) (Cone)|Arme de souffle empoisonné (cône)|changé|
 |[oAWNluJaMlaGysXA.htm](actions/oAWNluJaMlaGysXA.htm)|Barbed Quills|Piquants barbelés|changé|
 |[qm7xptMSozAinnPS.htm](actions/qm7xptMSozAinnPS.htm)|Arrest a Fall|Arrêter une chute|changé|
 |[QQQaV7pi9Gv2GpLj.htm](actions/QQQaV7pi9Gv2GpLj.htm)|Breath Weapon (Piercing) (Line)|Arme de souffle perforante (Ligne)|changé|
 |[rmwa3OyhTZ2i2AHl.htm](actions/rmwa3OyhTZ2i2AHl.htm)|Craft|Fabriquer|changé|
+|[rSpCV0leurp2Bg2d.htm](actions/rSpCV0leurp2Bg2d.htm)|Instinctive Obfuscation|Obscurcissement instinctif|changé|
 |[slwllcUtVhoCdBuM.htm](actions/slwllcUtVhoCdBuM.htm)|Breath Weapon (Acid) (Line)|Arme de souffle acide (Ligne)|changé|
 
 ## Liste des traductions complétés
@@ -203,7 +205,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[M76ycLAqHoAgbcej.htm](actions/M76ycLAqHoAgbcej.htm)|Balance|Garder l'équilibre|officielle|
 |[Ma93dpT4K7JbP9gu.htm](actions/Ma93dpT4K7JbP9gu.htm)|Prove Peace|Prouver la paix|libre|
 |[MHLuKy4nQO2Z4Am1.htm](actions/MHLuKy4nQO2Z4Am1.htm)|Administer First Aid|Prodiguer les premiers soins|officielle|
-|[mk6rzaAzsBBRGJnh.htm](actions/mk6rzaAzsBBRGJnh.htm)|Call Upon the Brightness|Faire appel à la lumière|libre|
 |[mVscmsZWWcVACdU5.htm](actions/mVscmsZWWcVACdU5.htm)|Soaring Flight|Voler haut|libre|
 |[MY6z2b4GPhAD2Eoa.htm](actions/MY6z2b4GPhAD2Eoa.htm)|Share Life|Partager la vie|libre|
 |[n5vwBnLSlIXL9ptp.htm](actions/n5vwBnLSlIXL9ptp.htm)|Manifest Eidolon|Manifester l'eidolon|libre|
@@ -237,7 +238,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[r5Uth6yvCoE4tr9z.htm](actions/r5Uth6yvCoE4tr9z.htm)|Destructive Vengeance|Vengeance destructrice|libre|
 |[RDXXE7wMrSPCLv5k.htm](actions/RDXXE7wMrSPCLv5k.htm)|Steal|Voler|officielle|
 |[Rlp7ND33yYfxiEWi.htm](actions/Rlp7ND33yYfxiEWi.htm)|Master Strike|Frappe de maître|officielle|
-|[rSpCV0leurp2Bg2d.htm](actions/rSpCV0leurp2Bg2d.htm)|Instinctive Obfuscation|Obscurcissement instinctif|libre|
 |[s2RrhZx1f1X4YnYV.htm](actions/s2RrhZx1f1X4YnYV.htm)|Divert Lightning|Détourner la cible|libre|
 |[S9PZFOVe7zhORkUc.htm](actions/S9PZFOVe7zhORkUc.htm)|Absorb into the Aegis|Absorber dans l'égide|libre|
 |[SB7cMECVtE06kByk.htm](actions/SB7cMECVtE06kByk.htm)|Cover Tracks|Dissimuler des traces|officielle|

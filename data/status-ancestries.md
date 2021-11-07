@@ -1,26 +1,18 @@
 # État de la traduction (ancestries)
 
- * **libre**: 19
- * **aucune**: 2
- * **officielle**: 9
+ * **libre**: 21
  * **changé**: 1
+ * **officielle**: 9
 
 
-Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-07 19:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[6F2fSFC1Eo1JdpY4.htm](ancestries/6F2fSFC1Eo1JdpY4.htm)|Poppet|
-|[kYsBAJ103T44agJF.htm](ancestries/kYsBAJ103T44agJF.htm)|Automaton|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[mDtlRBBUWqUzYSHs.htm](ancestries/mDtlRBBUWqUzYSHs.htm)|[Empty Ancestry]|[Ascendance vierge]|changé|
+|[6F2fSFC1Eo1JdpY4.htm](ancestries/6F2fSFC1Eo1JdpY4.htm)|Poppet|Poupée|changé|
 
 ## Liste des traductions complétés
 
@@ -42,7 +34,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HWEgF7Gmoq55VhTL.htm](ancestries/HWEgF7Gmoq55VhTL.htm)|Lizardfolk|Hommes-lézard|officielle|
 |[hXM5jXezIki1cMI2.htm](ancestries/hXM5jXezIki1cMI2.htm)|Grippli|Grippli|libre|
 |[IiG7DgeLWYrSNXuX.htm](ancestries/IiG7DgeLWYrSNXuX.htm)|Human|Humain|officielle|
+|[kYsBAJ103T44agJF.htm](ancestries/kYsBAJ103T44agJF.htm)|Automaton|Automate|libre|
 |[lSGWXjcbOa6O5fTx.htm](ancestries/lSGWXjcbOa6O5fTx.htm)|Orc|Orc|libre|
+|[mDtlRBBUWqUzYSHs.htm](ancestries/mDtlRBBUWqUzYSHs.htm)|[Empty Ancestry]|[Ascendance vierge]|libre|
 |[P6PcVnCkh4XMdefw.htm](ancestries/P6PcVnCkh4XMdefw.htm)|Ratfolk|Homme-rat|libre|
 |[PgKmsA2aKdbLU6O0.htm](ancestries/PgKmsA2aKdbLU6O0.htm)|Elf|Elfe|officielle|
 |[piNLXUrm9iaGqD2i.htm](ancestries/piNLXUrm9iaGqD2i.htm)|Hobgoblin|Hobgobelin|officielle|

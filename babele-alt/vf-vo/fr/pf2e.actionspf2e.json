@@ -19,7 +19,7 @@
         {
             "id": "Draconic Frenzy",
             "name": "Frénésie draconique (Draconic Frenzy)",
-            "description": "<p>Votre eidolon fait une Frappe avec leur attaque à mains nues primaire et deux Frappes avec leurs attaques à mains nues secondaires (dans n'importe quel ordre). Si n'importe laquelle de ses attaques touche de manière critique un ennemi, votre eidolon récupère instantanément l'utilisation de son Arme de souffle.</p>"
+            "description": "<p>Votre eidolon fait une Frappe avec son attaque à mains nues primaire et deux Frappes avec ses attaques à mains nues secondaires (dans n'importe quel ordre). Si n'importe laquelle de ses attaques touche de manière critique un ennemi, votre eidolon récupère instantanément l'utilisation de son Arme de souffle.</p>"
         },
         {
             "id": "Raise a Shield",
@@ -283,7 +283,7 @@
         },
         {
             "id": "Breath Weapon (Piercing) (Cone)",
-            "name": "arme de souffle perforante (cône) (Breath Weapon (Piercing) (Cone))",
+            "name": "Arme de souffle perforante (cône) (Breath Weapon (Piercing) (Cone))",
             "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #perforants]]{Dégâts selon le niveau}</p>"
         },
         {

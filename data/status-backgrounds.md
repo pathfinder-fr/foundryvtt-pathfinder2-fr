@@ -1,12 +1,12 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 209
- * **aucune**: 21
+ * **libre**: 206
+ * **aucune**: 39
  * **officielle**: 49
- * **changé**: 4
+ * **changé**: 7
 
 
-Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-07 19:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -15,40 +15,61 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[0wzTmGUb8yvzMrO0.htm](backgrounds/0wzTmGUb8yvzMrO0.htm)|Back-Alley Doctor|
 |[1M91pTjatEejBjEl.htm](backgrounds/1M91pTjatEejBjEl.htm)|Hired Killer|
+|[2FUdcPsXwoWT1bms.htm](backgrounds/2FUdcPsXwoWT1bms.htm)|Tech Reliant|
 |[2lk5NOcu1aUglUdK.htm](backgrounds/2lk5NOcu1aUglUdK.htm)|Fireworks Performer|
 |[2Mm0BHMJZhqIqoQG.htm](backgrounds/2Mm0BHMJZhqIqoQG.htm)|Undertaker|
 |[2TImvKwcFLDVhzUC.htm](backgrounds/2TImvKwcFLDVhzUC.htm)|Circuit Judge|
 |[4KCa67gyxUn60zdf.htm](backgrounds/4KCa67gyxUn60zdf.htm)|Saloon Entertainer|
+|[4Vc8uXVHonrasFnU.htm](backgrounds/4Vc8uXVHonrasFnU.htm)|Saboteur|
+|[4XpWgGejwb2L6WpK.htm](backgrounds/4XpWgGejwb2L6WpK.htm)|Codebreaker|
 |[5dezuNcZJ6wfecnG.htm](backgrounds/5dezuNcZJ6wfecnG.htm)|Gunsmith|
+|[7fCZTzmv5I2dI4sr.htm](backgrounds/7fCZTzmv5I2dI4sr.htm)|Discarded Duplicate|
 |[8CLTXqyjdzEMKnZC.htm](backgrounds/8CLTXqyjdzEMKnZC.htm)|Cannoneer|
 |[9l6q90sk8UM292CY.htm](backgrounds/9l6q90sk8UM292CY.htm)|Waste Walker|
 |[AqhHif8mzYjlGMxJ.htm](backgrounds/AqhHif8mzYjlGMxJ.htm)|Sheriff|
 |[B6kNrX1y8XNbQYea.htm](backgrounds/B6kNrX1y8XNbQYea.htm)|Goldhand Arms Dealer|
+|[cODrdTvko4Om26ik.htm](backgrounds/cODrdTvko4Om26ik.htm)|Mechanic|
 |[d5fKB0ZMJQkwDF5p.htm](backgrounds/d5fKB0ZMJQkwDF5p.htm)|Otherworldly Mission|
+|[dSYel8ABTevOc5YA.htm](backgrounds/dSYel8ABTevOc5YA.htm)|Clockfighter|
 |[fyKPDYFeIrgzADJB.htm](backgrounds/fyKPDYFeIrgzADJB.htm)|Alkenstar Outlaw|
 |[HSNUDvPgO1NESW7S.htm](backgrounds/HSNUDvPgO1NESW7S.htm)|Junk Collector|
 |[KC5oI1bs6Wx8h91u.htm](backgrounds/KC5oI1bs6Wx8h91u.htm)|Deputy|
+|[kmhZZgR7KlBzRBX0.htm](backgrounds/kmhZZgR7KlBzRBX0.htm)|Driver|
 |[mcL4WLO2yxBGlvuG.htm](backgrounds/mcL4WLO2yxBGlvuG.htm)|Farmsteader|
+|[MgiZ25JdT6O3fLbO.htm](backgrounds/MgiZ25JdT6O3fLbO.htm)|Anti-Tech Activist|
+|[O4xKRtHb21DCTvQ0.htm](backgrounds/O4xKRtHb21DCTvQ0.htm)|Wished Alive|
+|[qJNmSgzq0ae29qCC.htm](backgrounds/qJNmSgzq0ae29qCC.htm)|Printer|
+|[Sj91CUyEUeWoPh2R.htm](backgrounds/Sj91CUyEUeWoPh2R.htm)|Toymaker|
+|[T537wo3aem8GvnmR.htm](backgrounds/T537wo3aem8GvnmR.htm)|Hounded Thief|
 |[UFHezf1LXUwcQIAQ.htm](backgrounds/UFHezf1LXUwcQIAQ.htm)|Wandering Preacher|
 |[uwZ0emSBFNMGA74j.htm](backgrounds/uwZ0emSBFNMGA74j.htm)|Tall Tale|
+|[V9VsomfjbPQNfaSL.htm](backgrounds/V9VsomfjbPQNfaSL.htm)|Disciple of the Gear|
+|[vTyG1bQkEENZHroY.htm](backgrounds/vTyG1bQkEENZHroY.htm)|Junker|
 |[W6OIPZhjcV45gfoX.htm](backgrounds/W6OIPZhjcV45gfoX.htm)|Revenant|
+|[wGB222d5UIBGYWsK.htm](backgrounds/wGB222d5UIBGYWsK.htm)|Mechanical Symbiosis|
+|[x3fFxtLogoy5hZfe.htm](backgrounds/x3fFxtLogoy5hZfe.htm)|Medicinal Clocksmith|
 |[XcacLiaGDgjzHS3T.htm](backgrounds/XcacLiaGDgjzHS3T.htm)|Spotter|
+|[xKEQvxDMHWRUkL6i.htm](backgrounds/xKEQvxDMHWRUkL6i.htm)|Clockwork Researcher|
 |[Yuwr2pT3z3WYTX9T.htm](backgrounds/Yuwr2pT3z3WYTX9T.htm)|Alkenstar Sojourner|
+|[yZUzLCeuaIkNk4up.htm](backgrounds/yZUzLCeuaIkNk4up.htm)|Saved by Clockwork|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[9pK15dQJVypSCjzO.htm](backgrounds/9pK15dQJVypSCjzO.htm)|Blessed|Béni|changé|
 |[gv6RoDRYqT7iUX5C.htm](backgrounds/gv6RoDRYqT7iUX5C.htm)|Harrow-Led (Occultism)|Déterminé par le Tourment (Occultisme)|changé|
 |[HV4MLfv7JaqoBac5.htm](backgrounds/HV4MLfv7JaqoBac5.htm)|Harrow-Led (Society)|Déterminé par le Tourment (Société)|changé|
 |[iPuclSXdCEAVfTZ0.htm](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Empty Background]|[Historique vierge]|changé|
+|[ppBGlWl0UkBKkJgE.htm](backgrounds/ppBGlWl0UkBKkJgE.htm)|Feybound|Lié avec les fées|changé|
 |[RgFOKlEmMIw2eZpo.htm](backgrounds/RgFOKlEmMIw2eZpo.htm)|Harrow-Led (Performance)|Déterminé par le Tourment (Représentation)|changé|
+|[UU4MOe7Lozt9V8tg.htm](backgrounds/UU4MOe7Lozt9V8tg.htm)|Seer of the Dead|Voyant des morts|changé|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[0c9Np7Yq5JSxZ6Tb.htm](backgrounds/0c9Np7Yq5JSxZ6Tb.htm)|Alkenstar Tinker|Bricoleur d'Alkenstar|libre|
+|[0c9Np7Yq5JSxZ6Tb.htm](backgrounds/0c9Np7Yq5JSxZ6Tb.htm)|Alkenstar Tinker|Bricoleur d'Alkenastre|libre|
 |[0z0PSizHviOehdJF.htm](backgrounds/0z0PSizHviOehdJF.htm)|Haunting Vision|Hanté par une vision|officielle|
 |[0ZfBP7Tp2P3WN7Dp.htm](backgrounds/0ZfBP7Tp2P3WN7Dp.htm)|Amnesiac|Amnésique|libre|
 |[1bjReaLqCD9pvBJ3.htm](backgrounds/1bjReaLqCD9pvBJ3.htm)|Academy Dropout|Décrocheur d'académie|libre|
@@ -97,7 +118,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[93icIDHD4IrqI2oV.htm](backgrounds/93icIDHD4IrqI2oV.htm)|Sodden Scavenger|Récupérateur détrempé|libre|
 |[9LnXsMRwYcxi7nDO.htm](backgrounds/9LnXsMRwYcxi7nDO.htm)|Bekyar Restorer|Restaurateur Bekyar|libre|
 |[9lVw1JGl5ser6626.htm](backgrounds/9lVw1JGl5ser6626.htm)|Criminal|Criminel|officielle|
-|[9pK15dQJVypSCjzO.htm](backgrounds/9pK15dQJVypSCjzO.htm)|Blessed|Béni|libre|
 |[9uTdwJaj27F18ZDX.htm](backgrounds/9uTdwJaj27F18ZDX.htm)|Razmiran Faithful|Fidèle de Razmir|libre|
 |[9YKU3qbxJpWHcNQE.htm](backgrounds/9YKU3qbxJpWHcNQE.htm)|Mystic Tutor (Arcana)|Tuteur mystique (Arcanes)|libre|
 |[a45LqkSRX07ljKdW.htm](backgrounds/a45LqkSRX07ljKdW.htm)|Merabite Prodigy|Prodige Mérabite|libre|
@@ -188,7 +208,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[jjwhyvdGrxeWmY5s.htm](backgrounds/jjwhyvdGrxeWmY5s.htm)|Spell Seeker (Arcana)|Chercheur de sorts (Arcanes)|libre|
 |[jpgO5zofecGeyXd5.htm](backgrounds/jpgO5zofecGeyXd5.htm)|Occult Librarian|Bibilothécaire occulte|libre|
 |[kdkbDdvgw6KAKVeM.htm](backgrounds/kdkbDdvgw6KAKVeM.htm)|Hermit (Nature)|Ermite (Nature)|officielle|
-|[khGFmnQMBYmz2ONR.htm](backgrounds/khGFmnQMBYmz2ONR.htm)|Sarkorian Reclaimer|Réclamateur du Sarkoris|libre|
+|[khGFmnQMBYmz2ONR.htm](backgrounds/khGFmnQMBYmz2ONR.htm)|Sarkorian Reclaimer|Reconquérant du Sarkoris|libre|
 |[kLjqmylGOXeQ5o5Y.htm](backgrounds/kLjqmylGOXeQ5o5Y.htm)|Bonuwat Wavetouched|Bonuwat Touché par les vagues|libre|
 |[KMv7ollLVaZ81XDV.htm](backgrounds/KMv7ollLVaZ81XDV.htm)|Merchant|Marchand|officielle|
 |[lav3yRNPc7lQ7e9k.htm](backgrounds/lav3yRNPc7lQ7e9k.htm)|Senghor Sailor|Marin de Senghor|libre|
@@ -227,7 +247,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[PhqUBXLLkVXb6oUE.htm](backgrounds/PhqUBXLLkVXb6oUE.htm)|Taldan Schemer|Intrigant taldorien|libre|
 |[Phvnfdmz4bB7jrI3.htm](backgrounds/Phvnfdmz4bB7jrI3.htm)|Barrister|Avocat|officielle|
 |[PO94ilqe62V6jtBE.htm](backgrounds/PO94ilqe62V6jtBE.htm)|Spell Seeker (Occult)|Chercheur de sorts (Occultisme)|libre|
-|[ppBGlWl0UkBKkJgE.htm](backgrounds/ppBGlWl0UkBKkJgE.htm)|Feybound|Lié avec les fées|libre|
 |[Q2brdDtEoI3cmpuD.htm](backgrounds/Q2brdDtEoI3cmpuD.htm)|Feral Child|Enfant sauvage|libre|
 |[qB7g1OiZ8v8zgvkL.htm](backgrounds/qB7g1OiZ8v8zgvkL.htm)|Wonder Taster|Goûteur de merveilles|libre|
 |[qbvzNG8hMjb8f66D.htm](backgrounds/qbvzNG8hMjb8f66D.htm)|Squire|Écuyer|libre|
@@ -261,7 +280,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UjN1dEgMnJdzq4HT.htm](backgrounds/UjN1dEgMnJdzq4HT.htm)|Student of Magic (Occultism)|Étudiant de la magie (Occultisme)|libre|
 |[uNhdcyhiog7YvXPT.htm](backgrounds/uNhdcyhiog7YvXPT.htm)|Varisian Wanderer|Vagabond Varisien|libre|
 |[uNvD4XK1kdvGjQVo.htm](backgrounds/uNvD4XK1kdvGjQVo.htm)|Child of Westcrown|Enfant de Couronne d'Ouest|libre|
-|[UU4MOe7Lozt9V8tg.htm](backgrounds/UU4MOe7Lozt9V8tg.htm)|Seer of the Dead|Voyant des morts|libre|
 |[UURvnfwXypRYYXBI.htm](backgrounds/UURvnfwXypRYYXBI.htm)|Storm Survivor|Rescapé d'une tempête|libre|
 |[UyddtAwqDGjQ1SZK.htm](backgrounds/UyddtAwqDGjQ1SZK.htm)|Scholar of the Sky Key|Étudiant de la Clé du Ciel|libre|
 |[V1RAIckpUJd2OzXi.htm](backgrounds/V1RAIckpUJd2OzXi.htm)|Mana Wastes Refugee|Réfugié de la Désolation de Mana|libre|

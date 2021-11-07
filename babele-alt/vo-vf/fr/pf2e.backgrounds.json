@@ -1158,7 +1158,7 @@
         },
         {
             "id": "Sarkorian Reclaimer",
-            "name": "Sarkorian Reclaimer (Réclamateur du Sarkoris)",
+            "name": "Sarkorian Reclaimer (Reconquérant du Sarkoris)",
             "description": "<p><strong>Prérequis</strong> Région - Terres brisées</p>\n<hr />\n<p>Que vous puissez faire remonter votre ascendance au Sarkoris perdu ou être un croisé essayant de redresser les torts causés par les fanatiques, vous cherchez à libérer la patrie des sarkoriens des démons qui y ont défilé.</p>\n<p>Choississez deux primes de caractéristiques. La première doit être de <strong>Constitution</strong> ou de <strong>Sagesse</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Médecine et en Connaissance des Abysses. Vous obtenez le don @Compendium[pf2e.feats-srd.wYerMk6F1RZb0Fwt]{Médecine militaire}.</p>"
         },
         {
@@ -1213,8 +1213,8 @@
         },
         {
             "id": "Alkenstar Tinker",
-            "name": "Alkenstar Tinker (Bricoleur d'Alkenstar)",
-            "description": "<p><strong>Prérequis</strong> Région - Terres impossibles</p>\n<hr />\n<p>Votre dévotion pour la recherche scientifique de votre native Alkenstar vous fournit une profonde intuition pour l'innovation mécanique et chimique.</p>\n<p>Choisissez deux primes de Caractéristiques. L'une doit être d'<strong>Intelligence</strong> ou de <strong>Dextérité</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en <strong>Artisanat</strong> et en Connaissance de l'Ingénierie. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique}.</p>"
+            "name": "Alkenstar Tinker (Bricoleur d'Alkenastre)",
+            "description": "<p><strong>Prérequis</strong> Région - Terres impossibles</p>\n<hr />\n<p>Votre dévotion pour la recherche scientifique de votre native Alkenastre vous fournit une profonde intuition pour l'innovation mécanique et chimique.</p>\n<p>Choisissez deux primes de Caractéristiques. L'une doit être d'<strong>Intelligence</strong> ou de <strong>Dextérité</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en <strong>Artisanat</strong> et en Connaissance de l'Ingénierie. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique}.</p>"
         },
         {
             "id": "Quick",

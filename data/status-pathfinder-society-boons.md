@@ -1,11 +1,11 @@
 # État de la traduction (pathfinder-society-boons)
 
- * **auto-trad**: 113
- * **changé**: 16
+ * **auto-trad**: 109
+ * **changé**: 20
  * **libre**: 2
 
 
-Dernière mise à jour: 2021-11-01 07:49 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-07 19:58 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -22,11 +22,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ePZOmPbGXzrEaXXs.htm](pathfinder-society-boons/ePZOmPbGXzrEaXXs.htm)|S1-11 - Devil's Keep|
 |[grkmoNwwHOROKER7.htm](pathfinder-society-boons/grkmoNwwHOROKER7.htm)|AoA #150: Boon A - Legacy of Ashes|
 |[J1hUP5SI4MJvlK36.htm](pathfinder-society-boons/J1hUP5SI4MJvlK36.htm)|Mentor, Skillful|
+|[M2lGGGaPIOimeA31.htm](pathfinder-society-boons/M2lGGGaPIOimeA31.htm)|Resurrection Plan|
+|[Nadcb08xcTAoPBEX.htm](pathfinder-society-boons/Nadcb08xcTAoPBEX.htm)|AoA #147: Boon A - Heroic Membership|
 |[PXtBhRVHM28angjV.htm](pathfinder-society-boons/PXtBhRVHM28angjV.htm)|Mentor, Protective|
 |[rJfATB750MbndGeP.htm](pathfinder-society-boons/rJfATB750MbndGeP.htm)|S2-08 - Baba Yaga's Tutelage|
 |[RJYIefY9Skx8CAgw.htm](pathfinder-society-boons/RJYIefY9Skx8CAgw.htm)|S1-Q09 - Wayfinder Connections|
+|[SI37oVZxjwXew3E4.htm](pathfinder-society-boons/SI37oVZxjwXew3E4.htm)|Bring Them Back Alive|
 |[vYSA5M9fgBdYiGLT.htm](pathfinder-society-boons/vYSA5M9fgBdYiGLT.htm)|Mentor, Combat|
 |[WYHPJyza1BJgtFq4.htm](pathfinder-society-boons/WYHPJyza1BJgtFq4.htm)|S1-Q01 - Sand Slide|
+|[XOVDOCsvNBX5LS8j.htm](pathfinder-society-boons/XOVDOCsvNBX5LS8j.htm)|S1-12 - Valais's Assurance|
 |[yNTePhAPVMguqUVA.htm](pathfinder-society-boons/yNTePhAPVMguqUVA.htm)|S1-Q08 - Numerian Archaeologist|
 
 ## Liste des traductions automatiques à corriger/retraduire
@@ -88,14 +92,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[l8WNWPFUdxcqEG6e.htm](pathfinder-society-boons/l8WNWPFUdxcqEG6e.htm)|Envoy's Alliance Champion, Improved|auto-trad|
 |[lJ1lNwGxV0IrsN2z.htm](pathfinder-society-boons/lJ1lNwGxV0IrsN2z.htm)|S1-08 - River Kingdoms Politician|auto-trad|
 |[M1flDLvjKBH9QPcx.htm](pathfinder-society-boons/M1flDLvjKBH9QPcx.htm)|Storied Talent|auto-trad|
-|[M2lGGGaPIOimeA31.htm](pathfinder-society-boons/M2lGGGaPIOimeA31.htm)|Resurrection Plan|auto-trad|
 |[M8cJ8qOwWj7XN6h1.htm](pathfinder-society-boons/M8cJ8qOwWj7XN6h1.htm)|Radiant Oath Champion|auto-trad|
 |[MLn6UbZsU4PphXLE.htm](pathfinder-society-boons/MLn6UbZsU4PphXLE.htm)|S1-Q06 - Secrets of the Jistkan Alchemists|auto-trad|
 |[MN3MlIx7djj7WDNY.htm](pathfinder-society-boons/MN3MlIx7djj7WDNY.htm)|Meticulous Appraisal|auto-trad|
 |[mrlQrZd0yBwOj2lk.htm](pathfinder-society-boons/mrlQrZd0yBwOj2lk.htm)|Hireling, Professional|auto-trad|
 |[Mu5GQ9ZEz3geAYxK.htm](pathfinder-society-boons/Mu5GQ9ZEz3geAYxK.htm)|Leshy Companion|auto-trad|
 |[MuhZZkLR8y9eEndN.htm](pathfinder-society-boons/MuhZZkLR8y9eEndN.htm)|S1-Q10 - Sewer Dragon Recruit|auto-trad|
-|[Nadcb08xcTAoPBEX.htm](pathfinder-society-boons/Nadcb08xcTAoPBEX.htm)|AoA #147: Boon A - Heroic Membership|auto-trad|
 |[NR19RYJLveHrFYvf.htm](pathfinder-society-boons/NR19RYJLveHrFYvf.htm)|S1-Q03 - Legacy of the Gorget|auto-trad|
 |[ocS6B3AV1n7yHFd5.htm](pathfinder-society-boons/ocS6B3AV1n7yHFd5.htm)|Exemplary Recruiter|auto-trad|
 |[oOB1uKvoBMGj7ykZ.htm](pathfinder-society-boons/oOB1uKvoBMGj7ykZ.htm)|Curse Breaker|auto-trad|
@@ -113,7 +115,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sBXsfT0uYltF8TFE.htm](pathfinder-society-boons/sBXsfT0uYltF8TFE.htm)|Hireling|auto-trad|
 |[Sc9gT40T28tFhSzq.htm](pathfinder-society-boons/Sc9gT40T28tFhSzq.htm)|Horizon Hunters Champion, Improved|auto-trad|
 |[SDDbh7KmDn5HUbst.htm](pathfinder-society-boons/SDDbh7KmDn5HUbst.htm)|Promotional Vestments|auto-trad|
-|[SI37oVZxjwXew3E4.htm](pathfinder-society-boons/SI37oVZxjwXew3E4.htm)|Bring Them Back Alive|auto-trad|
 |[SujEcE3H5n9kx1PI.htm](pathfinder-society-boons/SujEcE3H5n9kx1PI.htm)|Wayfinder, Esoteric|auto-trad|
 |[SxUBWlQj6BT5g4Rw.htm](pathfinder-society-boons/SxUBWlQj6BT5g4Rw.htm)|Wayfinder|auto-trad|
 |[T7gyK9LV14wI7Xdy.htm](pathfinder-society-boons/T7gyK9LV14wI7Xdy.htm)|S1-07 - To Seal and Protect|auto-trad|
@@ -136,7 +137,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[XBf4Uz3n0AwSmpXx.htm](pathfinder-society-boons/XBf4Uz3n0AwSmpXx.htm)|Adversary Lore|auto-trad|
 |[XkNW2dq5hwWOViYg.htm](pathfinder-society-boons/XkNW2dq5hwWOViYg.htm)|Off-Hours Study|auto-trad|
 |[XoamInggkxLh6Zo0.htm](pathfinder-society-boons/XoamInggkxLh6Zo0.htm)|Academic Conference|auto-trad|
-|[XOVDOCsvNBX5LS8j.htm](pathfinder-society-boons/XOVDOCsvNBX5LS8j.htm)|S1-12 - Valais's Assurance|auto-trad|
 |[xVMouu7E7Xy7AGER.htm](pathfinder-society-boons/xVMouu7E7Xy7AGER.htm)|S1-13 - Convention Hero|auto-trad|
 |[XybjaZJlmBFFztwJ.htm](pathfinder-society-boons/XybjaZJlmBFFztwJ.htm)|S1-04 - Touched by the Storm|auto-trad|
 |[Y69ZRmuoj0XK9AZm.htm](pathfinder-society-boons/Y69ZRmuoj0XK9AZm.htm)|S1-18 - Light in the Dark|auto-trad|

@@ -683,7 +683,7 @@
         },
         {
             "id": "Vigilant Senses (Level 11)",
-            "name": "Vigilance (Niveau 11) (Vigilant Senses (Level 11))",
+            "name": "Sens alertes (Niveau 11) (Vigilant Senses (Level 11))",
             "description": "<p>Au fil de vos aventures, vous avez développé une vigilance et une attention aux détails. Votre rang de maîtrise en Perception passe à expert.</p>"
         },
         {
@@ -1764,7 +1764,7 @@
         {
             "id": "Alchemist Armor Mastery (Level 19)",
             "name": "Maîtrise d'armure de l'alchimiste (Niveau 19) (Alchemist Armor Mastery (Level 19))",
-            "description": "<p>Votre compétence avec les armures légères et intermédiaires s'améliore, augmentant votre capacité à esquiver les coups. Votre rangs de maîtrise avec les armures intermédiaires, les armures légères et la défense sans armure passe à maître.</p>"
+            "description": "<p>Votre compétence avec les armures légères et intermédiaires s'améliore, augmentant votre capacité à esquiver les coups. Votre rang de maîtrise avec les armures intermédiaires, les armures légères et la défense sans armure passe à maître.</p>"
         },
         {
             "id": "Third Doctrine (Cloistered Cleric)",
