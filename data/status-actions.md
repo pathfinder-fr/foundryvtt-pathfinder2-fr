@@ -1,12 +1,12 @@
 # État de la traduction (actions)
 
  * **officielle**: 107
- * **libre**: 96
+ * **libre**: 117
  * **changé**: 25
- * **aucune**: 37
+ * **aucune**: 16
 
 
-Dernière mise à jour: 2021-11-07 19:58 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-11 10:05 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,41 +14,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[3D9kGfwg4LUZBR9A.htm](actions/3D9kGfwg4LUZBR9A.htm)|Overdrive|
-|[4IxCKbGaEM9nUhld.htm](actions/4IxCKbGaEM9nUhld.htm)|Finish The Job|
-|[6OZfIjiPjWTIe7Pr.htm](actions/6OZfIjiPjWTIe7Pr.htm)|Spinning Crush|
-|[9kIvFxA5V9rvNWiH.htm](actions/9kIvFxA5V9rvNWiH.htm)|Thoughtful Reload|
-|[9MJcQEMVVrmMyGyq.htm](actions/9MJcQEMVVrmMyGyq.htm)|Living Fortification|
-|[9sXQf1SyppS5B6O1.htm](actions/9sXQf1SyppS5B6O1.htm)|Automaton Aim|
-|[A4L90h7FIgO5EyBx.htm](actions/A4L90h7FIgO5EyBx.htm)|Siegebreaker|
 |[akmQzZoNhyfCKFpL.htm](actions/akmQzZoNhyfCKFpL.htm)|Airy Step|
 |[b3h3QqvwS5fnaiu1.htm](actions/b3h3QqvwS5fnaiu1.htm)|Banshee Cry|
-|[bCDMuu3tE4d6KHrJ.htm](actions/bCDMuu3tE4d6KHrJ.htm)|Pistolero's Retort|
-|[DYn1igFjCGJEiP22.htm](actions/DYn1igFjCGJEiP22.htm)|Recall Ammunition|
-|[EeM0Czaep7G5ZSh5.htm](actions/EeM0Czaep7G5ZSh5.htm)|Ten Paces|
 |[ESMIHOOahLQoqxW1.htm](actions/ESMIHOOahLQoqxW1.htm)|Call Gun|
-|[Fe487XZBdqEI2InL.htm](actions/Fe487XZBdqEI2InL.htm)|Dispelling Bullet|
 |[FzZAYGib08aEq5P2.htm](actions/FzZAYGib08aEq5P2.htm)|Accidental Shot|
-|[gBhWEy3ToxQeCLQm.htm](actions/gBhWEy3ToxQeCLQm.htm)|Covered Reload|
 |[izvfZ561JTdeyh6i.htm](actions/izvfZ561JTdeyh6i.htm)|Goblin Jubilee|
-|[jSC5AYEfliOPpO3H.htm](actions/jSC5AYEfliOPpO3H.htm)|Reloading Strike|
 |[KC6o1cvbr45xnMei.htm](actions/KC6o1cvbr45xnMei.htm)|Conjure Bullet|
 |[mech0dhb4eKbCAu0.htm](actions/mech0dhb4eKbCAu0.htm)|Coughing Dragon|
 |[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|
-|[O1iircZOOCo42r9Y.htm](actions/O1iircZOOCo42r9Y.htm)|Ghost Shot|
-|[RADNqsvAt4gP9FOX.htm](actions/RADNqsvAt4gP9FOX.htm)|Raconteur's Reload|
-|[rI2MSXR1MQzgQUO7.htm](actions/rI2MSXR1MQzgQUO7.htm)|Grim Swagger|
 |[SMF1hTWPHtmlS8Cd.htm](actions/SMF1hTWPHtmlS8Cd.htm)|Bullet Dancer Stance|
-|[Tlrde2xh7AhesXNB.htm](actions/Tlrde2xh7AhesXNB.htm)|One Shot, One Kill|
-|[TSDbyYRQwhIyY2Oq.htm](actions/TSDbyYRQwhIyY2Oq.htm)|Energy Shot|
-|[tw1KDRPdBAkg5DlS.htm](actions/tw1KDRPdBAkg5DlS.htm)|Clear a Path|
 |[uOlyklPCUWLtCaYI.htm](actions/uOlyklPCUWLtCaYI.htm)|Chassis Deflection|
-|[Uq2qy9aGNQ5JcPI1.htm](actions/Uq2qy9aGNQ5JcPI1.htm)|Into the Fray|
 |[VNuOwXIHafSLHvsZ.htm](actions/VNuOwXIHafSLHvsZ.htm)|Spellsling|
-|[vO0Y1dVjNfbDyT4S.htm](actions/vO0Y1dVjNfbDyT4S.htm)|Vital Shot|
 |[vvYsE7OiSSCXhPdr.htm](actions/vvYsE7OiSSCXhPdr.htm)|Set Explosives|
 |[wt6jdjjje16Nx34f.htm](actions/wt6jdjjje16Nx34f.htm)|Jumping Jenny|
 |[XeZwXzR1KBlJF770.htm](actions/XeZwXzR1KBlJF770.htm)|Resist Magic|
-|[YMhmebfXAoOFXeSB.htm](actions/YMhmebfXAoOFXeSB.htm)|Drifter's Wake|
 |[yUjuLbBMflVum8Yn.htm](actions/yUjuLbBMflVum8Yn.htm)|Launch Fireworks Display|
 
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -105,7 +84,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[3yoajuKjwHZ9ApUY.htm](actions/3yoajuKjwHZ9ApUY.htm)|Grab an Edge|Se raccrocher in extremis|officielle|
 |[3ZzoI9MTtJFd1Kjl.htm](actions/3ZzoI9MTtJFd1Kjl.htm)|Share Senses|Partager les sens|libre|
 |[49y9Ec4bDii8pcD3.htm](actions/49y9Ec4bDii8pcD3.htm)|Subsist|Subsister|officielle|
+|[4IxCKbGaEM9nUhld.htm](actions/4IxCKbGaEM9nUhld.htm)|Finish The Job|Finir le boulot|libre|
 |[5V49l0K460CcvBOO.htm](actions/5V49l0K460CcvBOO.htm)|Defend Life|Défendre la vie|libre|
+|[6OZfIjiPjWTIe7Pr.htm](actions/6OZfIjiPjWTIe7Pr.htm)|Spinning Crush|Rotation écrasante|libre|
 |[6SAdjml3OZw0BZnn.htm](actions/6SAdjml3OZw0BZnn.htm)|Thundering Roar|Rugissement tonitruant|libre|
 |[74iat04PtfG8gn2Q.htm](actions/74iat04PtfG8gn2Q.htm)|Mighty Rage|Rage formidable|officielle|
 |[7blmbDrQFNfdT731.htm](actions/7blmbDrQFNfdT731.htm)|Shove|Pousser|officielle|
@@ -116,7 +97,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[8kGpUUUSX1sB2OqQ.htm](actions/8kGpUUUSX1sB2OqQ.htm)|Call Companion|Appeler un compagnon|libre|
 |[8w6esW689NNbbq3i.htm](actions/8w6esW689NNbbq3i.htm)|Call on Ancient Blood|Appel du sang ancien|officielle|
 |[9gDMkIfDifh61yLz.htm](actions/9gDMkIfDifh61yLz.htm)|Stop|S'arrêter|libre|
+|[9kIvFxA5V9rvNWiH.htm](actions/9kIvFxA5V9rvNWiH.htm)|Thoughtful Reload|Rechargement réfléchi|libre|
+|[9MJcQEMVVrmMyGyq.htm](actions/9MJcQEMVVrmMyGyq.htm)|Living Fortification|Fortification vivante|libre|
 |[9Nmz5114UB87n7Aj.htm](actions/9Nmz5114UB87n7Aj.htm)|Affix a Fulu|Fixer un fulu|libre|
+|[9sXQf1SyppS5B6O1.htm](actions/9sXQf1SyppS5B6O1.htm)|Automaton Aim|Visée de l'automate|libre|
+|[A4L90h7FIgO5EyBx.htm](actions/A4L90h7FIgO5EyBx.htm)|Siegebreaker|Briseur de siège|libre|
 |[A72nHGUtNXgY5Ey9.htm](actions/A72nHGUtNXgY5Ey9.htm)|Delay|Retarder|officielle|
 |[aBQ8ajvEBByv45yz.htm](actions/aBQ8ajvEBByv45yz.htm)|Cast a Spell|Lancer un sort|officielle|
 |[Ah5g9pDwWF9b9VW9.htm](actions/Ah5g9pDwWF9b9VW9.htm)|Rage|Rage|officielle|
@@ -126,6 +111,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[B0Eu3EfwIa9kyDEA.htm](actions/B0Eu3EfwIa9kyDEA.htm)|Recall Knowledge (Crafting)|Se souvenir (Artisanat)|officielle|
 |[B2BpIZFHoF9Kjzpx.htm](actions/B2BpIZFHoF9Kjzpx.htm)|Recall Knowledge (Occultism)|Se souvenir (Occultisme)|officielle|
 |[b6CanpXyUKJgxEwq.htm](actions/b6CanpXyUKJgxEwq.htm)|Salt Wound|Saler une blessure|libre|
+|[bCDMuu3tE4d6KHrJ.htm](actions/bCDMuu3tE4d6KHrJ.htm)|Pistolero's Retort|Réplique du pistoléro|libre|
 |[Bcxarzksqt9ezrs6.htm](actions/Bcxarzksqt9ezrs6.htm)|Stride|Marcher rapidement|officielle|
 |[bG91dbtbgOnw7Ofx.htm](actions/bG91dbtbgOnw7Ofx.htm)|Board|Monter à bord|libre|
 |[BKnN9la3WNrRgZ6n.htm](actions/BKnN9la3WNrRgZ6n.htm)|Conduct Energy|Conduire l'énergie|libre|
@@ -148,10 +134,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[DS9sDOWkXrz2xmHi.htm](actions/DS9sDOWkXrz2xmHi.htm)|Eldritch Shot|Tir mystique|libre|
 |[Dt6B1slsBy8ipJu9.htm](actions/Dt6B1slsBy8ipJu9.htm)|Disarm|Désarmer|officielle|
 |[DXIZ4DHGxhZiWNWb.htm](actions/DXIZ4DHGxhZiWNWb.htm)|Long Term Rest|Repos long|officielle|
+|[DYn1igFjCGJEiP22.htm](actions/DYn1igFjCGJEiP22.htm)|Recall Ammunition|Rappeler une munition|libre|
 |[e2ePMDa7ixbLRryj.htm](actions/e2ePMDa7ixbLRryj.htm)|Encouraging Words|Paroles encourageantes|libre|
 |[EA5vuSgJfiHH7plD.htm](actions/EA5vuSgJfiHH7plD.htm)|Track|Pister|officielle|
 |[EAP98XaChJEbgKcK.htm](actions/EAP98XaChJEbgKcK.htm)|Retributive Strike|Frappe punitive|officielle|
 |[EEDElIyin4z60PXx.htm](actions/EEDElIyin4z60PXx.htm)|Perform|Se produire|officielle|
+|[EeM0Czaep7G5ZSh5.htm](actions/EeM0Czaep7G5ZSh5.htm)|Ten Paces|Dix pas|libre|
 |[EfjoIuDmtUn4yiow.htm](actions/EfjoIuDmtUn4yiow.htm)|Opportune Riposte|Riposte opportune|libre|
 |[EHa0owz6mccnmSBf.htm](actions/EHa0owz6mccnmSBf.htm)|Final Surge|Accélération finale|libre|
 |[EhLvRWFKhZ3HtrZO.htm](actions/EhLvRWFKhZ3HtrZO.htm)|Settle Emotions|Maîtriser ses émotions|libre|
@@ -164,10 +152,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ewwCglB7XOPLUz72.htm](actions/ewwCglB7XOPLUz72.htm)|Lie|Mentir|officielle|
 |[F0JgJR2rXKOg9k1z.htm](actions/F0JgJR2rXKOg9k1z.htm)|Upstage|Surpasser|libre|
 |[F4Tz0YFz1Lr4eVZR.htm](actions/F4Tz0YFz1Lr4eVZR.htm)|De-Animating Gestures (False)|Gestes de désactivation (incorrects)|libre|
+|[Fe487XZBdqEI2InL.htm](actions/Fe487XZBdqEI2InL.htm)|Dispelling Bullet|Balle de dissipation|libre|
 |[fJImDBQfqfjKJOhk.htm](actions/fJImDBQfqfjKJOhk.htm)|Sense Direction|S'orienter|officielle|
 |[FkfWKq9jhhPzKAbb.htm](actions/FkfWKq9jhhPzKAbb.htm)|Rampaging Ferocity|Férocité déchaînée|libre|
 |[ftG89SjTSa9DYDOD.htm](actions/ftG89SjTSa9DYDOD.htm)|Create Forgery|Contrefaire|officielle|
 |[GAoUxmcKx1vW3vEB.htm](actions/GAoUxmcKx1vW3vEB.htm)|Exhale Poison|Expirer le poison|libre|
+|[gBhWEy3ToxQeCLQm.htm](actions/gBhWEy3ToxQeCLQm.htm)|Covered Reload|Rechargement à couvert|libre|
 |[ge56Lu1xXVFYUnLP.htm](actions/ge56Lu1xXVFYUnLP.htm)|Trip|Croc-en-jambe|officielle|
 |[GkmbTGfg8KcgynOA.htm](actions/GkmbTGfg8KcgynOA.htm)|Create a Diversion|Faire diversion|officielle|
 |[gxtq81VAhpmNvEgA.htm](actions/gxtq81VAhpmNvEgA.htm)|Tap Ley Line|Puiser dans les lignes telluriques|libre|
@@ -184,6 +174,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Iuq8CeNqv3a0oWfQ.htm](actions/Iuq8CeNqv3a0oWfQ.htm)|Life Block|Blocage de vie|libre|
 |[IX1VlVCL5sFTptEE.htm](actions/IX1VlVCL5sFTptEE.htm)|Liberating Step|Pas libérateur|officielle|
 |[jftNJjBNxp2cleoi.htm](actions/jftNJjBNxp2cleoi.htm)|Expeditious Inspection|Inspection expéditive|libre|
+|[jSC5AYEfliOPpO3H.htm](actions/jSC5AYEfliOPpO3H.htm)|Reloading Strike|Frappe rechargeante|libre|
 |[JuqmIAnkL9hVGai8.htm](actions/JuqmIAnkL9hVGai8.htm)|Hustle|S'empresser|officielle|
 |[JUvAvruz7yRQXfz2.htm](actions/JUvAvruz7yRQXfz2.htm)|Long Jump|Sauter en longueur|officielle|
 |[JYi4MnsdFu618hPm.htm](actions/JYi4MnsdFu618hPm.htm)|Hunt Prey|Chasser une proie|officielle|
@@ -211,6 +202,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[N6U02s9qJKQIvmQd.htm](actions/N6U02s9qJKQIvmQd.htm)|Wish for Luck|Souhait de bonne fortune|libre|
 |[nbfNETdpee8CVM17.htm](actions/nbfNETdpee8CVM17.htm)|Flurry of Blows|Déluge de coups|officielle|
 |[nSTMF6kYIt6rXhJx.htm](actions/nSTMF6kYIt6rXhJx.htm)|Seething Frenzy|Frénésie bouillonnante|libre|
+|[O1iircZOOCo42r9Y.htm](actions/O1iircZOOCo42r9Y.htm)|Ghost Shot|Tir fantôme|libre|
 |[OdIUybJ3ddfL7wzj.htm](actions/OdIUybJ3ddfL7wzj.htm)|Stand|Se relever|officielle|
 |[OizxuPb44g3eHPFh.htm](actions/OizxuPb44g3eHPFh.htm)|Borrow an Arcane Spell|Emprunter un sort arcanique|officielle|
 |[OJ9cIvPukPT0rppR.htm](actions/OJ9cIvPukPT0rppR.htm)|Wyrm's Breath|Souffle du Ver|libre|
@@ -236,7 +228,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[qVNVSmsgpKFGk9hV.htm](actions/qVNVSmsgpKFGk9hV.htm)|Conceal an Object|Dissimuler un objet|officielle|
 |[QyzlsLrqM0EEwd7j.htm](actions/QyzlsLrqM0EEwd7j.htm)|Earn Income|Gagner de l'argent|officielle|
 |[r5Uth6yvCoE4tr9z.htm](actions/r5Uth6yvCoE4tr9z.htm)|Destructive Vengeance|Vengeance destructrice|libre|
+|[RADNqsvAt4gP9FOX.htm](actions/RADNqsvAt4gP9FOX.htm)|Raconteur's Reload|Rechargement du baratineur|libre|
 |[RDXXE7wMrSPCLv5k.htm](actions/RDXXE7wMrSPCLv5k.htm)|Steal|Voler|officielle|
+|[rI2MSXR1MQzgQUO7.htm](actions/rI2MSXR1MQzgQUO7.htm)|Grim Swagger|Sinistre assurance|libre|
 |[Rlp7ND33yYfxiEWi.htm](actions/Rlp7ND33yYfxiEWi.htm)|Master Strike|Frappe de maître|officielle|
 |[s2RrhZx1f1X4YnYV.htm](actions/s2RrhZx1f1X4YnYV.htm)|Divert Lightning|Détourner la cible|libre|
 |[S9PZFOVe7zhORkUc.htm](actions/S9PZFOVe7zhORkUc.htm)|Absorb into the Aegis|Absorber dans l'égide|libre|
@@ -251,15 +245,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[tHCqgwjtQtzNqVvd.htm](actions/tHCqgwjtQtzNqVvd.htm)|Coerce|Contraindre|officielle|
 |[TiNDYUGlMmxzxBYU.htm](actions/TiNDYUGlMmxzxBYU.htm)|Search|Fouiller|officielle|
 |[Tj055UcNm6UEgtCg.htm](actions/Tj055UcNm6UEgtCg.htm)|Crawl|Ramper|officielle|
+|[Tlrde2xh7AhesXNB.htm](actions/Tlrde2xh7AhesXNB.htm)|One Shot, One Kill|Un tir, un mort|libre|
 |[TMBXArwICQRJdwT6.htm](actions/TMBXArwICQRJdwT6.htm)|Fey's Fortune|Chance féérique|libre|
 |[tNrBIYct9l1lrW1I.htm](actions/tNrBIYct9l1lrW1I.htm)|Field of Roots|Champ de racines|libre|
+|[TSDbyYRQwhIyY2Oq.htm](actions/TSDbyYRQwhIyY2Oq.htm)|Energy Shot|Tir énergétique|libre|
 |[tu5viJZT4zFE1sYn.htm](actions/tu5viJZT4zFE1sYn.htm)|Whirlwind Maul|Masse tourbillon|libre|
 |[tuZnRWHixLArvaIf.htm](actions/tuZnRWHixLArvaIf.htm)|Glimpse of Redemption|Lueur de rédemption|officielle|
+|[tw1KDRPdBAkg5DlS.htm](actions/tw1KDRPdBAkg5DlS.htm)|Clear a Path|Libérer le passage|libre|
 |[UAaQk93a30nx0nYY.htm](actions/UAaQk93a30nx0nYY.htm)|Affix a Talisman|Fixer un talisman|officielle|
 |[UEkGL7uAGYDPFNfK.htm](actions/UEkGL7uAGYDPFNfK.htm)|Fire in the Hole|Mise à feu !|libre|
 |[UHpkTuCtyaPqiCAB.htm](actions/UHpkTuCtyaPqiCAB.htm)|Step|Faire un pas|libre|
 |[Ul4I0ER6pj3U5eAk.htm](actions/Ul4I0ER6pj3U5eAk.htm)|Invigorating Fear|Peur revigorante|libre|
 |[uMFB3uw8WTWL0LZD.htm](actions/uMFB3uw8WTWL0LZD.htm)|Draconic Frenzy|Frénésie draconique|libre|
+|[Uq2qy9aGNQ5JcPI1.htm](actions/Uq2qy9aGNQ5JcPI1.htm)|Into the Fray|Dans le feu de l'action|libre|
 |[uS3qDAgOkZ7b8ERL.htm](actions/uS3qDAgOkZ7b8ERL.htm)|Drive|Diriger|libre|
 |[ust1jJSCZQUhBZIz.htm](actions/ust1jJSCZQUhBZIz.htm)|Take Cover|Mise à l'abri|officielle|
 |[UWdRX1VelipCzrCg.htm](actions/UWdRX1VelipCzrCg.htm)|Avert Gaze|Détourner le regard|officielle|
@@ -268,6 +266,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vdnuczo4ktS7ow7N.htm](actions/vdnuczo4ktS7ow7N.htm)|Prophecy's Pawn|Pion de prophétie|libre|
 |[VjxZFuUXrCU94MWR.htm](actions/VjxZFuUXrCU94MWR.htm)|Strike|Frapper|officielle|
 |[VMozDqMMuK5kpoX4.htm](actions/VMozDqMMuK5kpoX4.htm)|Sneak|Être furtif|officielle|
+|[vO0Y1dVjNfbDyT4S.htm](actions/vO0Y1dVjNfbDyT4S.htm)|Vital Shot|Tir vital|libre|
 |[VOEWhPQfN3lvHivK.htm](actions/VOEWhPQfN3lvHivK.htm)|Foresight|Prémonition|libre|
 |[vZltxwRNvF5khf9a.htm](actions/vZltxwRNvF5khf9a.htm)|Boarding Assault|Assaut d'abordage|libre|
 |[W4M8L9WepGLamlHs.htm](actions/W4M8L9WepGLamlHs.htm)|Threatening Approach|Approche menaçante|libre|
@@ -283,6 +282,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[xTK2zsWFyxSJvYbX.htm](actions/xTK2zsWFyxSJvYbX.htm)|Pursue a Lead|Suivre une piste|libre|
 |[Yb0C1uLzeHrVLl7a.htm](actions/Yb0C1uLzeHrVLl7a.htm)|Detect Magic|Détection de la magie|officielle|
 |[yh9O9BQjwWrAIiuf.htm](actions/yh9O9BQjwWrAIiuf.htm)|Take Control|Prendre le contrôle|libre|
+|[YMhmebfXAoOFXeSB.htm](actions/YMhmebfXAoOFXeSB.htm)|Drifter's Wake|Sillage du vagabond|libre|
 |[yOtu5X3qWfjuX8Vy.htm](actions/yOtu5X3qWfjuX8Vy.htm)|Learn Name|Apprendre un nom|libre|
 |[YpuEmI1fJBZD3kMc.htm](actions/YpuEmI1fJBZD3kMc.htm)|Tendril Strike|Frappe étendue|libre|
 |[yzNJgwzV9XqEhKc6.htm](actions/yzNJgwzV9XqEhKc6.htm)|Quick Alchemy|Alchimie rapide|officielle|

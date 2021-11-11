@@ -17,6 +17,11 @@
             "description": "<p>Vous effectuez un test de compétence pour tenter de vous rappeler une information à propos d’un sujet correspondant à une compétence. Le MJ détermine le DD de ces tests et la compétence applicable.</p>\n<p>La compétence <strong>Nature</strong> peut être utilisée pour Se souvenir et obtenir des informations sur les sujets suivants : environnement, flore, géographie, climat, créatures d’origine naturelle et plans naturels.</p>\n<p>Dans certains cas, le MJ peut vous autoriser à utiliser une compétence différente mais elle aussi apparentée, généralement contre un DD plus élevé que la normale. Certains sujets peuvent apparaître plusieurs fois dans les listes mais les compétences peuvent chacune fournir des informations différentes. Par exemple, Arcanes pourrait vous permettre d’en savoir plus sur les défenses magiques d’un golem, là où Artisanat pourrait vous informer sur sa résistance impressionnante contre les attaques physiques.</p>\n<p>Le MJ peut vous autoriser à faire des tests pour Se souvenir en utilisant d’autres compétences. Par exemple, vous pourriez évaluer le talent d’un acrobate en utilisant Acrobaties. Si vous utilisez une compétence physique (comme dans cet exemple), il est fort probable que le MJ vous demande d’appliquer une valeur de caractéristique mentale — le plus souvent l’Intelligence — au lieu de la valeur de caractéristique physique normalement associée à la compétence.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous vous souvenez avec précision de l'information nécessaire et obtenez des informations ou du contexte supplémentaires.</p>\n<p><strong>Succès</strong> Vous vous souvenez avec précision de l'information nécessaire ou obtenez un indice utile sur votre situation actuelle.</p>\n<p><strong>Échec critique</strong> Vous vous souvenez d'une information inexacte ou obtenez un indice faux ou trompeur.</p>\n<hr />\n<h2 class=\"title\">Se souvenir : exemple de tâches</h2>\n<p>Ces exemples utilisent Société et Religion.</p>\n<ul>\n<li><strong>Inexpérimenté</strong> le nom d'un souverain, d'un noble prépondérant ou d'une divinité majeure</li>\n<li><strong>Qualifié</strong> la ligne de succession d'une famille noble majeure, les principaux préceptes d'une divinité majeure</li>\n<li><strong>Expert</strong> la généalogie d'un noble mineur, les enseignements d'un ancien prêtre</li>\n<li><strong>Maître</strong> la hiérarchie au sein de la cour d'un génie noble, les temples extraplanaires majeurs d'une divinité</li>\n<li><strong>Légendaire</strong> l'existence d'un héritier d'une famille noble depuis longtemps disparue, les préceptes secrets d'une religion</li>\n</ul>"
         },
         {
+            "id": "Living Fortification",
+            "name": "Living Fortification (Fortification vivante)",
+            "description": "<p><strong>Déclencheur</strong> Vous lancez l'initiative.</p>\n<hr />\n<p>Vous pouvez vous placer sur la défensive avec des armes à feu ou des arbalètes, agissant comme une tour qui marcherait. Interagissez pour dégainer une arme à feu ou une arbalète. Vous positionnez alors cette arme de manière défensive, en obtenant un bonus de circonstance de +1 à la CA jusqu'au début de votre prochain tour ou un bonus de circonstances de +2 si l'arme choisie possède le trait parade.</p>"
+        },
+        {
             "id": "Draconic Frenzy",
             "name": "Draconic Frenzy (Frénésie draconique)",
             "description": "<p>Votre eidolon fait une Frappe avec son attaque à mains nues primaire et deux Frappes avec ses attaques à mains nues secondaires (dans n'importe quel ordre). Si n'importe laquelle de ses attaques touche de manière critique un ennemi, votre eidolon récupère instantanément l'utilisation de son Arme de souffle.</p>"
@@ -45,6 +50,11 @@
             "id": "Primal Roar",
             "name": "Primal Roar (Rugissement primal)",
             "description": "<p>Votre eidolon relâche un rugissement primal ou un autre bruit terrifiant qui correspond à la forme de votre eidolon. Votre eidolon fait un test d'Intimidation pour @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} chaque ennemi qui peut entendre le rugissement ; Ces tentatives pour Démoraliser ne subissent pas les pénalités provoquées par le fait de ne pas partager un même langage.</p>"
+        },
+        {
+            "id": "Dispelling Bullet",
+            "name": "Dispelling Bullet (Balle de dissipation)",
+            "description": "<p>Vous imprégnez une balle d'un champ d'abjuration construit sur votre signature magique, perturbant la magie de tout ce qu'elle touche. Effectuez une Frappe avec une arme à feu ou une arbalète contre un ennemi que vous pouvez voir. Si vous le touchez, vous tentez de contrer un effet de sort actif sur la cible (votre choix, ou l'effet de plus haut niveau si vous ne choisissez pas). Votre niveau de contre est égal à la moitié de votre niveau (arrondi au supérieur), et votre modificateur de test de contre est égal à votre DD de classe - 10.</p>"
         },
         {
             "id": "Drain Bonded Item",
@@ -170,6 +180,11 @@
             "id": "Seething Frenzy",
             "name": "Seething Frenzy (Frénésie bouillonnante)",
             "description": "<p>La fureur de votre eidolon déborde en une frénésie téméraire et hors de contrôle. Lorsqu'il devient frénétique, votre eidolon est affecté par @Compendium[pf2e.spells-srd.HStu2Yhw3iQER9tY]{Booster l'eidolon} et obtient des Points de vie temporaires égaux à votre niveau mais il subit une pénalité de -2 à la CA. Votre eidolon ne peut volontairement mettre un terme à la frénésiee ou commencer une autre frénésie lorsqu'il est frénétique.</p>\n<p>La frénésie dure pendant 1 minute, après laquelle il est @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} pendant 1 minute et ne peut débuter une autre frénésie pendant 1 minute.</p>"
+        },
+        {
+            "id": "Raconteur's Reload",
+            "name": "Raconteur's Reload (Rechargement du baratineur)",
+            "description": "<p>Vos paroles rapides ou percutantes détournent l'attention de l'ennemi de vos mains suffisamment longtemps pour lui permettre d'encaisser une autre balle. Interagissez pour recharger, puis tentez un test de Duperie pour Créer une diversion ou un test d'Intimidation pour Démoraliser.</p>"
         },
         {
             "id": "Fly",
@@ -307,9 +322,19 @@
             "description": "<p>Si vous êtes un incantateur arcanique qui prépare ses sorts écrits dans un grimoire, vous pouvez essayer de préparer un sort inscrit dans le grimoire de quelqu’un d’autre. Le MJ fixe le DD du test en fonction du niveau du sort et de sa rareté ; c’est généralement un peu plus simple que d’@Compendium[pf2e.actionspf2e.Q5iIYCFdqJFM31GW]{Apprendre le sort}.\n<hr />\n<p><strong>Succès</strong> Vous préparez le sort emprunté lors de votre préparation normale des sorts.</p>\n<p><strong>Échec</strong>  Vous ne parvenez pas à préparer le sort mais l’emplacement de sort reste disponible pour en préparer un autre. Vous ne pouvez pas tenter de préparer ce sort jusqu’à votre prochaine préparation des sorts.</p>"
         },
         {
+            "id": "Energy Shot",
+            "name": "Energy Shot (Tir énergétique)",
+            "description": "<p><strong>Déclencheur</strong> Vous lancez l'initiative.</p>\n<hr />\n<p>Vous lâchez une petite décharge d'énergie magique, enveloppant la balle avec l'énergie potentielle et lui accordant la capacité d'infliger des dégâts d'énergie à vos ennemis pour exploiter leurs faiblesses. Vous pouvez Interagit pour tirer une arme à distance. Lors de vos trois premières Frappes lors de cette rencontre avec une arme à feu ou une arbalète, vous infligez 1 dégât d'acide, de froid, de feu ou d'électricité supplémentaire. Vous choisissez quel type de dégât vous infligez au moment de chaque Frappe.</p>"
+        },
+        {
             "id": "Whirlwind Maul",
             "name": "Whirlwind Maul (Masse tourbillon)",
             "description": "<p>Votre eidolon s'élance dans toutes les directions. Il effectue une Frappe à mains nues au corps-à-corps contre un maximum de quatre ennemis à sa portée. Il peut choisir des attaques à mains nues différentes pour chaque ennemi. Chaque Frappe compte dans votre pénalité d'attaques multiples, mais vous n'augmentez pas votre pénalité tant que l'eidolon n'a pas effectué toutes ses attaques.</p>"
+        },
+        {
+            "id": "Into the Fray",
+            "name": "Into the Fray (Dans le feu de l'action)",
+            "description": "<p><strong>Déclencheur</strong> Vous lancez l'initiative</p>\n<hr />\n<p>Vous savez que les ennuis peuvent rôder à chaque coin de rue, et vos mains ne s'éloignent jamais de vos étuis. Vous pouvez interagir pour dégainer une arme à distance à une main et vous pouvez ensuite interagir pour dégainer une arme de corps-à-corps à une main. Lors de votre première action à votre premier tour, vous pouvez Marchez rapidement par une action libre vers un ennemi que vous pouvez percevoir. Si vous ne pouvez pas percevoir d'ennemis ou si vous ne pouvez pas terminer votre mouvement plus près d'un ennemi, vous ne pouvez pas utiliser cette Marche rapide.</p>"
         },
         {
             "id": "Life Block",
@@ -337,6 +362,11 @@
             "description": "<p><strong>Conditions</strong> Vous êtes à terre et votre Vitesse est d'au moins 3 mètres.</p>\n<hr />\n<p>Vous vous déplacez de 1,50 mètres en rampant, en restant @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
         },
         {
+            "id": "Reloading Strike",
+            "name": "Reloading Strike (Frappe rechargeante)",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu ou une arbalète dans une maine et votre autre main manie soit une arme de corps-à-corps à une main ou est libre.</p>\n<hr />\n<p>Vous portez une attaque au corps-à-corps et puis recharger votre arme à feu dans un unique mouvement fluide. Frappez un adversaire à portée d'allonge avec votre arme à une main (ou, si votre main est vide, avec une attaque à mains nues) et puis interagissez pour recharger. Vous n'avez pas besoin d'une main libre pour recharger de cette manière.</p>"
+        },
+        {
             "id": "Breath Weapon (Electricity) (Line)",
             "name": "Breath Weapon (Electricity) (Line) (arme de souffle électrique (ligne))",
             "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #électricité]]{1d6 dégâts électriques} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #électricité]]{Dégâts selon le niveau}</p>"
@@ -355,6 +385,21 @@
             "id": "Take a Breather",
             "name": "Take a Breather (Reprendre son souffle)",
             "description": "<p><strong>Coût</strong> 1 Point de résolution</p>\n<hr />\n<p>Vous vous reposez pendant 10 minutes et récupérez votre endurance. Après avoir terminé cette activité, vous regagnez tous vos points d'Endurance.</p>"
+        },
+        {
+            "id": "Drifter's Wake",
+            "name": "Drifter's Wake (Sillage du vagabond)",
+            "description": "<p>Sur le champ de bataille, vous laissez dans votre sillage les ennemis que vous abattez. Vous Marchez rapidement et vous pouvez Frapper jusqu'à trois fois à n'importe quel endroit au cours de votre déplacement. Chaque attaque doit cibler un ennemi différent et doit être portée avec une arme à feu à une main, une arbalète, une arme au corps-à-corps ou une attaque à mains nues. Chaque attaque est comptabilisée pour calculer votre pénalité d'attaques multiple, mais votre pénalité d'attaque multiples n'augmente pas tant que vous n'avez pas portée toutes vos attaques. votre déplacement ne déclenche pas de réaction.</p>"
+        },
+        {
+            "id": "Thoughtful Reload",
+            "name": "Thoughtful Reload (Rechargement réfléchi)",
+            "description": "<p>Alors que vous sombrez dans un état de calme analytique et que vous vous concentrez sur l'ennemi devant vous, vos mains rechargent une balle instinctivement. Faites un test pour vous Souvenir contre un adversaire que vous pouvez voir, puis interagissez pour recharger.</p>"
+        },
+        {
+            "id": "Ten Paces",
+            "name": "Ten Paces (Dix pas)",
+            "description": "<p><strong>Déclencheur</strong> Vous lancez l'initiative.</p>\n<hr />\n<p>Vous réagissez aux ennuis à la vitesse de l'éclair, en vous positionnant juste comme il faut. Vous gagnez un bonus de circonstances de +2 à votre jet d'initiative et vous pouvez interagir pour dégainer une arme à feu à une main ou une arbalète à une main. Comme première action à votre premier tour, vous pouvez Faire un pas de 3 mètres par une action gratuite.</p>"
         },
         {
             "id": "Treat Wounds",
@@ -472,6 +517,11 @@
             "description": "<p><strong>Déclencheur</strong> Vous vous endormez dans les 7,5 km du Manoir Xarwin.</p>\n<p><strong>Fréquence</strong> une fois toutes les 12 heures</p>\n<hr />\n<p>Lorsque vous dormez, vous faites des rêves qui sont proches de cauchemars. Dans ces rêves, votre esprit dérive de votre âme et tout ce que vous savez semble être tiré des lieux sombres entre les étoiles qui sont dévorées. Durant le rêve, vous pouvez vous concnetrez sur une sujet de recherche que vous avez débloqué et sur lequel vous n'avez pas pleinement enquêté. Si vous choisissez un sujet dont le groupe a déjà découvert l'ensemble des seuils, vous pouvez immédiatement changer de sujet pour en prendre un différent.</p>\n<p>La compétence que vous utilisez et le DD du test sont déterminées en fonction du sujet, comme détaillé dans l'entrée Rêve du sujet. Si vous ne rêvez pas dans les étages du Manoir, le lien spirituel envers la malveillance est réduit et vous subissez une pénalité de statut de –2 au test.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous obtenez 2 PR.</p>\n<p><strong>Succès</strong> Vous obtenez 1 PR.</p>\n<p><strong>Échec critique</strong> Vous regardez trop loin à l'intérieur de la malveillance qui remarque votre tentative. Vous parvenez à rompre le lien mental juste avant que vous ne perdiez des informations face à son appétit vorace. Augmentez la valeur de la condition malveillance de 1.</p>"
         },
         {
+            "id": "Spinning Crush",
+            "name": "Spinning Crush (Rotation écrasante)",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu chargée ou une arbalète chargée.</p>\n<hr />\n<p>Vous vous lancez dans une vicieuse rotation, écrasant votre arme sur les personnes à proximité et augmentant votre élan en tirant. Toutes les créatures qui vous sont adjacentes subissent 1d6 points de dégâts contondants plus votre modificateur de Force ; ce montant passe à 2d6 si votre arme à feu possède une rune de frappe, à 3d6 si elle possède une rune de frappe supérieure et 4d6 si elle possède une rune de frappe majeure. Cette capacité n'applique pas les autres effets qui augmentent les dégâts avec vos frappes d'armes à feu, comme Spécialisation avec les armes. Les créatures affectées par cette attaque doivent faire un jet de Réflexes basique. Une créature qui obtient un échec est également poussée à 1,5 m de vous.</p>"
+        },
+        {
             "id": "Smoke Blending",
             "name": "Smoke Blending (Se Fondre dans la fûmée)",
             "description": "<p><strong>Déclencheur</strong> Une créature tente un test nu pour vous cibler car vous êtes @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} ou @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} à cause du brouillard, de la buée, de la brume ou de la fumée.</p>\n<hr />\n<p><strong>Effet</strong> Vous vous enveloppez de brume, rendant plus difficile pour votre ennemi de vous toucher. Si vous êtes masqué, le DD du test nu augmente de 5 à 7; si vous êtes caché, il passe de 11 à 13.</p>"
@@ -480,6 +530,11 @@
             "id": "Take Cover",
             "name": "Take Cover (Mise à l'abri)",
             "description": "<p><strong>Conditions</strong> Vous bénéficiez d’un abri, vous trouvez près d’une caractéristique de votre environnement derrière laquelle vous abriter ou êtes @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>\n<hr />\n<p>Vous vous plaquez contre un mur ou vous jetez derrière un obstacle pour mieux vous mettre à l’abri. Si vous bénéficiez déjà d’un abri standard, vous gagnez à la place un abri important qui vous confère un bonus de +4 à la CA, à vos jets de réflexes contre les zones d’effet, et vos tests de Discrétion pour @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Vous cacher}, @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif} ou éviter de vous faire détecter de manière générale. Vous bénéficiez sinon des avantages liés à un abri standard (un bonus de circonstances de +2). Ces avantages perdurent jusqu’à ce que vous quittiez votre emplacement actuel, utilisiez une action d’attaque, vous trouviez dans l’état @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconscient} ou mettiez fin à cet effet par une action gratuite.</p>"
+        },
+        {
+            "id": "Siegebreaker",
+            "name": "Siegebreaker (Briseur de siège)",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu qui possède le trait recul ou dispersion ou une arbalète à deux mains.</p>\n<hr />\n<p>Avec une force incroyable, vous chargez et écrasez votre arme sur une cible avant de vous placer fermement sur le sol et d'appuyer sur la gâchette. Bondissez ou Marchez rapidement, puis effectuez une Frappe avec l'arme à feu ou l'arbalète requise contre une cible adjacente. Cette frappe inflige [[/r {3d8}[bludgeoning]]]{3d8 dégâts contondants} supplémentaires et ignore 10 points de Solidité de la cible (le cas échéant) ou de Solidité de son bouclier si la cible utilise Blocage au bouclier.</p>\n<p>Après la Frappe, vous êtes @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} et positionnez l'arme requise sur la défensive, en obtenant un bonus de circonstances de +1 à la CA ou un bonus de circonstances de +2 si l'arme choisie avait le trait parade. Les deux effets durent jusqu'au début de votre prochain tour. Si une force veut vous déplacer pendant que vous êtes immobilisé de cette façon, elle doit réussir un test approprié contre votre DD de classe.</p>"
         },
         {
             "id": "Sense Direction",
@@ -567,6 +622,11 @@
             "description": "<p>Vous étiez @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} et vous Vous relevez.</p>"
         },
         {
+            "id": "One Shot, One Kill",
+            "name": "One Shot, One Kill (Un tir, un mort)",
+            "description": "<p><strong>Déclencheur</strong> vous utilisez Discrétion pour déterminer l'initiative.</p>\n<hr />\n<p>Votre premier tir est le plus mortel. Interagissez pour dégainer une arme à feu ou une arbalète. Lors de votre premier tour, votre première frappe avec cette arme inflige 1d6 dégâts de précision supplémentaires. Ces dégâts de précision passent à 2d6 au niveau 9 et 3d6 au niveau 15.</p>"
+        },
+        {
             "id": "Tap Ley Line",
             "name": "Tap Ley Line (Puiser dans les lignes telluriques)",
             "description": "<p>Vous essayez de manipuler l'essence magique d'une ligne tellurique dont vous êtes conscient dans les 9 m. Le MJ détermine le DD en fonction du DD difficile pour le niveau de la ligne tellurique.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous obtenez les avantages de la ligne tellurique jusqu'à la fin de votre prochain tour.</p>\n<p><strong>Succès</strong> Vous obtenez les avantages de la ligne tellurique jusqu'à la fin de votre tour.</p>\n<p><strong>Échec</strong> Vous subissez des dégâts mentaux égaux à 1d6 × le niveau de la ligne tellurique . Vous ne pouvez puiser dans la ligne tellurique de nouveau pendant 1 heure.</p>\n<p><strong>Échec critique</strong> Comme l'échec et vous êtes sujette à l'effet de retour de flamme de la ligne tellurique. Vous ne pouvez puiser dans la ligne tellurique de nouveau pendant 24 heures.</p>"
@@ -597,9 +657,19 @@
             "description": "<p><strong>Conditions</strong> Vous avez au moins un sort actif avec une durée maintenue et vous n’êtes pas @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué}.</p>\n<hr />\n<p>Choisissez un sort avec une durée maintenue que vous avez actuellement actif. La durée de ce sort se prolonge jusqu’à la fin de votre prochain tour. Certains sorts ont un effet légèrement différent ou étendu si vous les maintenez. Maintenir un sort plus de 10 minutes (100 rounds) met un terme au sort et vous fatigue, à moins que le sort ne précise une durée maximale différente (comme « maintenu jusqu’à 1 minute » ou « maintenu jusqu’à 1 heure »).</p>\n<p>Si l’action Maintenir un sort est interrompue, le sort se termine immédiatement.</p>"
         },
         {
+            "id": "Covered Reload",
+            "name": "Covered Reload (Rechargement à couvert)",
+            "description": "<p>Vous vous réfugiez dans une position sûre ou minimisez votre profil tout en rechargeant pour préparer votre prochaine attaque. Soit vous vous @Compendium[pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Mettez à l'abri}, soit vous tentez de vous attempt to @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Cacher}, puis Interagissez pour recharger. Comme à l'ordinaire, vous devez remplir les conditions pour vous Mettre à l'abri ou vous Cacher ; Vous devez être @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}, bénéficier d'un damouflage ou vous trouver à proximité d'un élément qui vous permet de vous Mettre à l'abri et vous avez besoin de bénéficier d'un abri ou d'être @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Camouflé} pour vous Cacher par rapport à une créature.</p>"
+        },
+        {
             "id": "Debilitating Strike",
             "name": "Debilitating Strike (Frappe incapacitante)",
             "description": "<p><strong>Déclencheur</strong> Vous réussissez une Frappe contre une créature prise au dépourvu et lui infligez des dégâts.</p>\n<hr />\n<p>La créature reçoit l’un des handicaps suivants, qui dure jusqu’à la fin de votre prochain tour.</p>\n<ul>\n<li><strong>Handicap</strong> La cible reçoit un malus de statut de -3 m à ses Vitesses.</li>\n<li><strong>Handicap</strong> La cible devient @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 1.</li>\n</ul>\n<p>@Compendium[pf2e.feature-effects.yBTASi3FvnReAwHy]{Effet: Frappe débilitante}</p>"
+        },
+        {
+            "id": "Recall Ammunition",
+            "name": "Recall Ammunition (Rappeler une munition)",
+            "description": "<p><strong>Déclencheur</strong> Vous manquez une Frappe avec une arme à feu ou une arbalète en utilisant une balle ou un carreau ordinaire de niveau 0</p>\n<hr />\n<p>Vous amplifiez la connexion entre la balle et l'arme à feu, en rappelant votre tir manqué dans votre arme. La munition que vous venez de tirer est rechargée dans votre arme et immédiatement prête à être à nouveau tirée.</p>"
         },
         {
             "id": "Detect Magic",
@@ -630,6 +700,11 @@
             "id": "Drop Prone",
             "name": "Drop Prone (Se jeter à terre)",
             "description": "<p>Vous vous laissez tomber @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
+        },
+        {
+            "id": "Grim Swagger",
+            "name": "Grim Swagger (Sinistre assurance)",
+            "description": "<p><strong>Conditions</strong> Vous portez ou maniez de manière visible une arme à feu à une main ou une arbalète à une main.</p>\n<hr />\n<p>Vous tentez de vider la pièce en promettant un sort sinistre à toute personne qui ne fait pas ce que vous dites, et rapidement. Tentez un test de Duperie ou d'Intimidation contre les DD de Volonté de chaque créature dans un rayon de 9 m, à l'exception de vos alliés. Que vous réussissiez ou non, chaque sujet est temporairement immunisé contre votre Assurance sinistre pendant 10 minutes. Par exemple, si vous tentez un test de Duperie, vous mentez et vous vous vantez de vos prouesses ou de l'arrivée d'alliés en grand nombre pour vous soutenir. Si vous tentez un test d'intimidation, vous promettez à toutes les personnes présentes dans la pièce que vous serez la dernière chose qu'elles verront.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 3}. Si elle est d'un niveau inférieur au vôtre, elle est aussi  @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} pendant 1 round.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 2}.</p>"
         },
         {
             "id": "Cast a Spell",
@@ -712,6 +787,11 @@
             "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #acide]]{1d6 dégâts d'acide} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #acide]]{Dégâts selon le niveau}</p>"
         },
         {
+            "id": "Clear a Path",
+            "name": "Clear a Path (Libérer le passage)",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu à deux mains ou une arbalète à deux mains.</p>\n<hr />\n<p>Vous poussez votre arme vers l'avant pour libérer de l'espace avant de recharger rapidement une nouvelle munition. Vous faites un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} un adversaire à votre portée en utilisant votre arme, puis Interagissez pour recharger. Pour cette Poussée, vous n'avez pas besoin dd'une main libre et vous ajouter votre bous d'objet au jet d'attaque (s'il y en a) au test d'Athlétisme. Si votre dernière action était une Frappe à distance avec l'arme, vous utilisez la même pénalité d'attaques multiples lors de la Frappe pour la Poussée ; La Poussée compte toujours pour calculer votre Pénalité d'attaques multiples pour la suite comme à l'ordinaire.</p>"
+        },
+        {
             "id": "Breath Weapon (Poison) (Cone)",
             "name": "Breath Weapon (Poison) (Cone) (Arme de souffle empoisonné (cône))",
             "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #poison]]{1d6 dégâts de poison} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #poison]]{Dégâts selon le niveau}</p>"
@@ -747,14 +827,29 @@
             "description": "<p>Vous dissimulez un petit objet sur vous (tel qu’une arme dont l’Encombrement est léger). Quand vous tentez de camoufler un objet sur vous pour que personne ne le remarque, le MJ effectue votre test de Discrétion et compare le résultat au DD de Perception de l’observateur passif. Une fois que le MJ a fait votre test pour un objet dissimulé, ce même résultat est utilisé, quel que soit le nombre d’observateurs passifs qui passent à votre proximité. Si une créature vous fouille pour trouver un objet, elle peut effectuer un test de Perception contre votre DD de Discrétion (l’objet est trouvé en cas de réussite).</p>\n<p>Vous pouvez également dissimuler un objet ailleurs que sur vous, dans un buisson ou dans un compartiment secret à l’intérieur d’un meuble, par exemple. Dans ce cas, les personnes qui Cherchent dans l’endroit où l’objet est dissimulé comparent le résultat de leur test de Perception à votre DD de Discrétion pour déterminer s’ils le trouvent.</p>\n<hr />\n<p><strong>Succès</strong> L'objet n'est pas trouvé.</p>\n<p><strong>Échec</strong> La créature qui cherche trouve l'objet.</p>"
         },
         {
+            "id": "Finish The Job",
+            "name": "Finish The Job (Finir le boulot)",
+            "description": "<p><strong>Conditions</strong> Au cours de votre dernière action, vous avez manqué (mais pas de manière critique) une Frappe avec un arme à feu ou une arbalète que vous tenez dans une main et votre autre main manie soit une arme au corps à corps, soit est libre.</p>\n<hr />\n<p>Votre dernière action a échoué mais elle en a préparé une autre. Faites une Frappe avec votre autre main en utilisant une arme de corps-à-corps à une main ou une attaquee à mains nues. Cette Frappe utilise la même pénalité d'attaques multiples que la Frappe qui a échouélors de la dernière action. Après cela, vous augmentez votre pénalité d'attaque multiple normalement.</p>"
+        },
+        {
             "id": "Subsist",
             "name": "Subsist (Subsister)",
             "description": "<p>Vous tentez d’obtenir de la nourriture et un abri pour vous et potentiellement aussi pour d’autres, selon un certain niveau de vie. Le MJ détermine le DD en fonction de la nature de l’endroit où vous tentez de Subsister. Un rang de maîtrise minimum peut être nécessaire pour Subsister dans des environnements particulièrement étranges. Au contraire de la plupart des activités d’intermède, vous pouvez Subsister après huit heures ou moins d’exploration mais vous subissez dans ce cas un malus de −5.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous fournissez de quoi vivre à vous‑même et à une créature supplémentaire, ou vous améliorez votre nourriture et votre abri pour vivre de manière confortable.</p>\n<p><strong>Succès</strong> Vous trouvez de la nourriture et un abri simple qui vous protège contre les éléments afin de bénéficier du strict minimum en matière de subsistance.</p>\n<p><strong>Échec</strong> Vous êtes exposé aux éléments et n’obtenez pas assez de nourriture. Vous êtes @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} tant que vous n’obtenez pas suffisamment de nourriture et un abri convenable.</p>\n<p><strong>Échec critique</strong> Vous rencontrez des problèmes, vous mangez quelque chose qui ne passe pas ou votre situation se détériore d’une façon ou d’une autre. Vous subissez un malus de circonstances de −2 aux tests pour Subsister pendant une semaine. Vous ne trouvez aucune nourriture ; si vous n’en avez pas en réserve, vous risquez de mourir de faim ou de soif si vous continuez à rater vos tests pour Subsister.</p>\n<hr />\n<h2 class=\"title\">Subsister : exemples de tâches</h2>\n<ul>\n<li><strong>Inexpérimenté</strong> forêt luxuriante par temps calme ou grande cité où les ressources abondent</li>\n<li><strong>Qualifié</strong> village ou flanc de coteau typique</li>\n<li><strong>Expert</strong> hameau isolé ou montagnes typiques</li>\n<li><strong>Maître</strong> cité assiégée ou désert typique</li>\n<li><strong>Légendaire</strong> cité de morts-vivants ou désolation stérile</li>\n</ul>"
         },
         {
+            "id": "Ghost Shot",
+            "name": "Ghost Shot (Tir fantôme)",
+            "description": "<p>Faites une Frappe avec une arme à feu ou une arbalète. Si vous êtes @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} de la cible ou Non détecté par elle, la Frappe ajoute les dégâts de précision supplémentaires de Un tir, un mort ; si vous deviez déjà infliger ces dégâts supplémentaires lors de la Frappe, les effets ne sont pas cumulatifs. Si vous étiez Non détecté ou inaperçu par des créatures, vous êtes désormais caché d'elles à la place puisque l'origine de l'attaque est claire.</p>"
+        },
+        {
             "id": "Impersonate",
             "name": "Impersonate (Se déguiser)",
             "description": "<p>Vous vous confectionnez un déguisement pour vous faire passer pour quelqu’un ou quelque chose d’autre. La confection d’un déguisement convaincant prend dix minutes et nécessite un @Compendium[pf2e.equipment-srd.Jvp0x2Sc82WVpExT]{kit de déguisement}, mais un déguisement plus simple confectionné au pied levé peut faire l’affaire si vous ne voulez pas vous faire passer pour quelqu’un en particulier, à l’appréciation du MJ.</p>\n<p>Dans la plupart des cas, les créatures ont une chance de détecter la supercherie uniquement s’ils utilisent l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour effectuer des tests de Perception contre votre DD de <span data-pf2-action=\"impersonate\">Duperie</span>. Une fois déguisé, si vous tentez d’interagir directement avec une créature, le MJ effectue à la place un test de Duperie secret à votre place contre le DD de Perception de cette créature Si vous vous déguisez en un individu en particulier, le MJ peut conférer aux créatures avec lesquelles vous interagissez un bonus de circonstances en fonction de leur degré d’intimité avec la personne que vous imitez, ou il peut faire un test de Duperie secret, même si vous n’interagissez pas directement avec autrui.</p>\n<hr />\n<p><strong>Succès</strong> La créature que vous dupez est convaincue que vous êtes bien la personne dont vous avez pris l’apparence. Un nouveau test peut être nécessaire si vous changez de comportement.</p>\n<p><strong>Échec</strong> La créature peut affirmer que vous n’êtes pas la personne que vous prétendez être.</p>\n<p><strong>Échec critique</strong> La créature peut affirmer que vous n’êtes pas la personne que vous prétendez être et elle vous reconnaît si elle vous a déjà vu sans déguisement.</p>"
+        },
+        {
+            "id": "Vital Shot",
+            "name": "Vital Shot (Tir vital)",
+            "description": "<p>Votre tir soigneux contre un adversaire sans méfiance perce une artère ou un organe vital. Effectuez une Frappe à distance. Si la cible est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu}, la frappe inflige un dé de dégâts d'arme supplémentaire et l'adversaire subit des dégâts de saignement persistant égaux au montant des dégâts de précision de Un tir, un mort.</p>"
         },
         {
             "id": "Share Life",
@@ -775,6 +870,11 @@
             "id": "Balance",
             "name": "Balance (Garder l'équilibre)",
             "description": "<p><strong>Conditions</strong> Vous êtes dans une case contenant une surface étroite, un sol inégal ou un autre élément similaire.</p>\n<hr />\n<p>Vous vous déplacez sur une surface étroite ou sur un sol inégal en effectuant un test <span data-pf2-action=\"balance\" data-pf2-glyph=\"A\">d’Acrobaties</span> contre son DD pour Garder l’équilibre. Vous êtes pris au dépourvu lorsque vous êtes sur une surface étroite ou un sol inégal.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous vous déplacez d’une distance maximale égale à votre Vitesse.</p>\n<p><strong>Succès</strong> Vous vous déplacez d’une distance maximale égale à votre Vitesse, en considérant la surface traversée comme un terrain difficile (chaque déplacement de 1,50 m compte comme un déplacement de 3 m).</p>\n<p><strong>Échec</strong> Vous devez rester sur place pour garder l’équilibre (l’action est tout de même dépensée) ou vous chutez. Votre tour prend fin si vous chutez.</p>\n<p><strong>Échec critique</strong> Vous chutez et votre tour prend fin.</p>\n<h2 class=\"title\">Garder l'équilibre : exemples de tâches</h2>\n<ul>\n<li><strong>Inexpérimenté</strong> enchevêtrement de racines, pavés déchaussés</p>\n<li><strong>Qualifié</strong> poutre de bois</li>\n<li><strong>Expert</strong> épaisse couche de graviers</li>\n<li><strong>Maître</strong> corde tendue, surface lisse et verglacée</li>\n<li><strong>Légendaire</strong> lame de rasoir, des sections du sol qui s'effondrent brusquement</li>\n</ul>"
+        },
+        {
+            "id": "Automaton Aim",
+            "name": "Automaton Aim (Visée de l'automate)",
+            "description": "<p>Vous stabilisez votre corps et observez les évènements sur le champ de bataille pour amximiser la portée de votre prochain tir. Vous réduisez la pénalité pour tirer dans le second facteur de portée de votre arme de -2 à 0 pour la prochaine attaque à distance que vous portez durant ce tour. Vous pouvez utiliser cette action une seconde fois durant le même tour pour réduire la pénalité pour tirer dans votre troisième facteur de portée de -4 à 0 pour la prochaine attaque à distance que vous portez durant ce tour.</p>"
         },
         {
             "id": "Master Strike",
@@ -1040,6 +1140,11 @@
             "id": "Anchor",
             "name": "Anchor (S'ancrer)",
             "description": "<p>Vous envoyez vos racines plus profondément dans le sol, rendant plus difficile pour vous de trébucher. Jusqu'à ce que vous bougiez, vous obtenez un bonus de circonstances de +2 à votre DD de Vigueur ou de Réflexes contre les tentatives de vous Pousser ou de vous faire un Croc-en-jambe (ou un bonus de circonstances de +4 si vous êtes un léchi racine). Ce bonus s'applique aussi aux jets de sauvegarde contre les sorts qui tentent de vous Déplacer ou de vous mettre À terre.</p>\n<p>Si un effet vous force à vous déplacer, vous vous déplacez seulement de la moitié de la distance habituelle, car une partie de l'effort nécessite d'arracher ces racines. À la discrétion du MJ, cette capacité pourrait ne pas fonctionner sur des sols qui sont plus résistants que la pierre, tels que des sols en métal ou des sols maçonnés renforcés magiquement.</p>"
+        },
+        {
+            "id": "Pistolero's Retort",
+            "name": "Pistolero's Retort (Réplique du pistoléro)",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu à une main ou une arbalète à une main</p>\n<p><strong>Déclencheur</strong> Un ennemi situé dans le premier facteur de portée de l'arme à feu à une main ou de l'arbalète à une main que vous maniez rate de manière critique un jet d'attaque contre vous.</p>\n<hr />\n<p>Vous punissez l'échec de votre ennemi d'un tir. Faites une Frappe contre l'ennemi déclencheur avec une arme à feu à une main ou une arbalète à une main.</p>"
         },
         {
             "id": "Barbed Quills",

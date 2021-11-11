@@ -1,58 +1,13 @@
 # État de la traduction (classfeatures)
 
  * **officielle**: 165
- * **changé**: 134
- * **libre**: 131
- * **aucune**: 39
+ * **changé**: 135
+ * **libre**: 168
 
 
-Dernière mise à jour: 2021-11-07 19:58 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-11 10:05 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[gunslinger-01-a3pSIKkDVTvvNSRO.htm](classfeatures/gunslinger-01-a3pSIKkDVTvvNSRO.htm)|Way of the Drifter|
-|[gunslinger-01-LDqVxLKrwEqSegiu.htm](classfeatures/gunslinger-01-LDqVxLKrwEqSegiu.htm)|Gunslinger's Way|
-|[gunslinger-01-OmgtSDV1FubDUqWR.htm](classfeatures/gunslinger-01-OmgtSDV1FubDUqWR.htm)|Way of the Spellshot|
-|[gunslinger-01-qRLRrHf0kzaJ7xt0.htm](classfeatures/gunslinger-01-qRLRrHf0kzaJ7xt0.htm)|Way of the Pistolero|
-|[gunslinger-01-QWXvksGJhOjXbBqi.htm](classfeatures/gunslinger-01-QWXvksGJhOjXbBqi.htm)|Way of the Sniper|
-|[gunslinger-01-vB0yVFxJVZwalt2g.htm](classfeatures/gunslinger-01-vB0yVFxJVZwalt2g.htm)|Way of the Vanguard|
-|[gunslinger-01-vXbk7Nm1TOTTUNvF.htm](classfeatures/gunslinger-01-vXbk7Nm1TOTTUNvF.htm)|Singular Expertise|
-|[gunslinger-03-Wpdeh6EkcAKA60oH.htm](classfeatures/gunslinger-03-Wpdeh6EkcAKA60oH.htm)|Stubborn|
-|[gunslinger-05-9nRT8aq05Fy2D3i3.htm](classfeatures/gunslinger-05-9nRT8aq05Fy2D3i3.htm)|Gunslinger Weapon Mastery|
-|[gunslinger-09-3JLW5vPshsJf3nCY.htm](classfeatures/gunslinger-09-3JLW5vPshsJf3nCY.htm)|Advanced Deed|
-|[gunslinger-09-aKr6OE8vI2BsJzf1.htm](classfeatures/gunslinger-09-aKr6OE8vI2BsJzf1.htm)|Gunslinger Expertise|
-|[gunslinger-11-EZuWfYSv3ASLyKtu.htm](classfeatures/gunslinger-11-EZuWfYSv3ASLyKtu.htm)|Evasion (Level 11)|
-|[gunslinger-13-ULOAZWZEokbJC6Rq.htm](classfeatures/gunslinger-13-ULOAZWZEokbJC6Rq.htm)|Gunslinging Legend|
-|[gunslinger-15-yc9RuXXxmZ9YidH6.htm](classfeatures/gunslinger-15-yc9RuXXxmZ9YidH6.htm)|Greater Deed|
-|[gunslinger-17-RkofVX55ciXZyfAA.htm](classfeatures/gunslinger-17-RkofVX55ciXZyfAA.htm)|Shootist's Edge|
-|[gunslinger-19-kktZhQPJgC5F4hgU.htm](classfeatures/gunslinger-19-kktZhQPJgC5F4hgU.htm)|Incredible Senses (Level 19)|
-|[gunslinger-19-zpFmqOpZ9IiWodsh.htm](classfeatures/gunslinger-19-zpFmqOpZ9IiWodsh.htm)|Incredible Senses|
-|[inventor-01-JH6um0St37UrjLNG.htm](classfeatures/inventor-01-JH6um0St37UrjLNG.htm)|Peerless Inventor|
-|[inventor-01-jIAgXe2FetAKBwt7.htm](classfeatures/inventor-01-jIAgXe2FetAKBwt7.htm)|Innovation|
-|[inventor-01-oP5zM5Yu41xcx3iu.htm](classfeatures/inventor-01-oP5zM5Yu41xcx3iu.htm)|Overdrive|
-|[inventor-01-pEm1RTNuzzQVKkR0.htm](classfeatures/inventor-01-pEm1RTNuzzQVKkR0.htm)|Explode|
-|[inventor-03-J46wcNqKXvtokBD1.htm](classfeatures/inventor-03-J46wcNqKXvtokBD1.htm)|Reconfigure|
-|[inventor-03-YMKxN56w617BYwu4.htm](classfeatures/inventor-03-YMKxN56w617BYwu4.htm)|Expert Overdrive|
-|[inventor-05-0NyPgi6UACMTmAGE.htm](classfeatures/inventor-05-0NyPgi6UACMTmAGE.htm)|Inventor Weapon Expertise|
-|[inventor-07-78HIjRbGoONMpF31.htm](classfeatures/inventor-07-78HIjRbGoONMpF31.htm)|Breakthrough Innovation|
-|[inventor-07-SXv9bJFbntDOMRIL.htm](classfeatures/inventor-07-SXv9bJFbntDOMRIL.htm)|Master Overdrive|
-|[inventor-07-Xqd0vrxq2bLXxdaB.htm](classfeatures/inventor-07-Xqd0vrxq2bLXxdaB.htm)|Lightning Reflexes (Level 7)|
-|[inventor-09-F8oXHnu9iNTcpXbJ.htm](classfeatures/inventor-09-F8oXHnu9iNTcpXbJ.htm)|Offensive Boost|
-|[inventor-09-mQVC1iDyNi2tfsF8.htm](classfeatures/inventor-09-mQVC1iDyNi2tfsF8.htm)|Inventive Expertise|
-|[inventor-13-j0klWHkH3AxUAgok.htm](classfeatures/inventor-13-j0klWHkH3AxUAgok.htm)|Complete Reconfiguration|
-|[inventor-13-mJpPaoVlNmTK47x1.htm](classfeatures/inventor-13-mJpPaoVlNmTK47x1.htm)|Inventor Weapon Mastery|
-|[inventor-13-qJ4fwGpoNC36ZQ8I.htm](classfeatures/inventor-13-qJ4fwGpoNC36ZQ8I.htm)|Alertness (Level 13)|
-|[inventor-15-o1omL2LdHvjEwh3P.htm](classfeatures/inventor-15-o1omL2LdHvjEwh3P.htm)|Legendary Overdrive|
-|[inventor-15-tXbadIT3LzwuSR19.htm](classfeatures/inventor-15-tXbadIT3LzwuSR19.htm)|Revolutionary Innovation|
-|[inventor-17-ojB0UJWpSekQPjT7.htm](classfeatures/inventor-17-ojB0UJWpSekQPjT7.htm)|Juggernaut (Level 17)|
-|[inventor-17-Uu8VnpAo3XZZEKPd.htm](classfeatures/inventor-17-Uu8VnpAo3XZZEKPd.htm)|Inventive Mastery|
-|[inventor-19-NcEpvnIZfKzG1Iou.htm](classfeatures/inventor-19-NcEpvnIZfKzG1Iou.htm)|Medium Armor Mastery (Level 19)|
-|[inventor-19-rOaLbipkComjc6qh.htm](classfeatures/inventor-19-rOaLbipkComjc6qh.htm)|Infinite Invention|
-|[magus-01-wXaz41gwqNtTn6tf.htm](classfeatures/magus-01-wXaz41gwqNtTn6tf.htm)|Arcane Spellcasting (Magus)|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -128,6 +83,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal Order|Ordre animal|changé|
 |[druid-01-u4nlOzPj2WHkIj9l.htm](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Leaf Order|Ordre de la feuille|changé|
 |[druid-01-v0EjtiwdeMj8ykI0.htm](classfeatures/druid-01-v0EjtiwdeMj8ykI0.htm)|Wild Order|Ordre féroce|changé|
+|[gunslinger-19-zpFmqOpZ9IiWodsh.htm](classfeatures/gunslinger-19-zpFmqOpZ9IiWodsh.htm)|Incredible Senses|Sens incroyables|changé|
 |[magus-01-3gVDqDPSz4fB5T9G.htm](classfeatures/magus-01-3gVDqDPSz4fB5T9G.htm)|Laughing Shadow|Ombre ricanante|changé|
 |[magus-01-6YJ8KFl7THkVy6Gm.htm](classfeatures/magus-01-6YJ8KFl7THkVy6Gm.htm)|Twisting Tree|Arbre tordu|changé|
 |[magus-01-maGzhKLmgubAdUlN.htm](classfeatures/magus-01-maGzhKLmgubAdUlN.htm)|Sparkling Targe|Targe étincelante|changé|
@@ -283,7 +239,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-01-RiAGlnnp4S21BAG3.htm](classfeatures/druid-01-RiAGlnnp4S21BAG3.htm)|Druidic Language|Le druidique|officielle|
 |[druid-03-D8CSi8c9XiRpVc5M.htm](classfeatures/druid-03-D8CSi8c9XiRpVc5M.htm)|Alertness (Level 3)|Vigilance (Niveau 3)|officielle|
 |[druid-11-Ra32tlqBxHzT6fzN.htm](classfeatures/druid-11-Ra32tlqBxHzT6fzN.htm)|Druid Weapon Expertise|Expertise avec les armes de druide|officielle|
-|[druid-13-tzUaTqB6GHAeffOl.htm](classfeatures/druid-13-tzUaTqB6GHAeffOl.htm)|Medium Armor Expertise (Level 13)|Expertise avec les armures intermédiaires (Niveau 13)|libre|
 |[druid-19-nzgb43mQmLgaqDoQ.htm](classfeatures/druid-19-nzgb43mQmLgaqDoQ.htm)|Primal Hierophant|Hiérophante primordial|officielle|
 |[fighter-01-eZNCckLzbH3GyncH.htm](classfeatures/fighter-01-eZNCckLzbH3GyncH.htm)|Shield Block (Level 1)|Blocage au bouclier (Niveau 1)|libre|
 |[fighter-01-hmShTfPOcTaKgbf4.htm](classfeatures/fighter-01-hmShTfPOcTaKgbf4.htm)|Attack of Opportunity|Attaque d’opportunité|officielle|
@@ -298,7 +253,44 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fighter-15-W2rwudMNcAxs8VoX.htm](classfeatures/fighter-15-W2rwudMNcAxs8VoX.htm)|Improved Flexibility|Flexibilité améliorée|officielle|
 |[fighter-17-IPDwS5pTgU3Cq6Nl.htm](classfeatures/fighter-17-IPDwS5pTgU3Cq6Nl.htm)|Armor Mastery (Level 17)|Maîtrise des armures (Niveau 17)|libre|
 |[fighter-19-0H2LxtiZTJ275pSD.htm](classfeatures/fighter-19-0H2LxtiZTJ275pSD.htm)|Versatile Legend|Légende polyvalente|officielle|
+|[gunslinger-01-a3pSIKkDVTvvNSRO.htm](classfeatures/gunslinger-01-a3pSIKkDVTvvNSRO.htm)|Way of the Drifter|Voie du vagabond|libre|
+|[gunslinger-01-LDqVxLKrwEqSegiu.htm](classfeatures/gunslinger-01-LDqVxLKrwEqSegiu.htm)|Gunslinger's Way|Voies du franc-tireur|libre|
+|[gunslinger-01-OmgtSDV1FubDUqWR.htm](classfeatures/gunslinger-01-OmgtSDV1FubDUqWR.htm)|Way of the Spellshot|Voie du sortiléro|libre|
+|[gunslinger-01-qRLRrHf0kzaJ7xt0.htm](classfeatures/gunslinger-01-qRLRrHf0kzaJ7xt0.htm)|Way of the Pistolero|Voie du pistoléro|libre|
+|[gunslinger-01-QWXvksGJhOjXbBqi.htm](classfeatures/gunslinger-01-QWXvksGJhOjXbBqi.htm)|Way of the Sniper|Voie du tireur d'élite|libre|
+|[gunslinger-01-vB0yVFxJVZwalt2g.htm](classfeatures/gunslinger-01-vB0yVFxJVZwalt2g.htm)|Way of the Vanguard|Voie de l'avant garde|libre|
+|[gunslinger-01-vXbk7Nm1TOTTUNvF.htm](classfeatures/gunslinger-01-vXbk7Nm1TOTTUNvF.htm)|Singular Expertise|Expertise singulière|libre|
+|[gunslinger-03-Wpdeh6EkcAKA60oH.htm](classfeatures/gunslinger-03-Wpdeh6EkcAKA60oH.htm)|Stubborn|Obstiné|libre|
+|[gunslinger-05-9nRT8aq05Fy2D3i3.htm](classfeatures/gunslinger-05-9nRT8aq05Fy2D3i3.htm)|Gunslinger Weapon Mastery|Maîtrise des armes du franc-tireur|libre|
+|[gunslinger-09-3JLW5vPshsJf3nCY.htm](classfeatures/gunslinger-09-3JLW5vPshsJf3nCY.htm)|Advanced Deed|Exploit avancé|libre|
+|[gunslinger-09-aKr6OE8vI2BsJzf1.htm](classfeatures/gunslinger-09-aKr6OE8vI2BsJzf1.htm)|Gunslinger Expertise|Expertise du franc-tireur|libre|
+|[gunslinger-11-EZuWfYSv3ASLyKtu.htm](classfeatures/gunslinger-11-EZuWfYSv3ASLyKtu.htm)|Evasion (Level 11)|Évasion (Niveau 11)|libre|
 |[gunslinger-13-tzUaTqB6GHAeffOl.htm](classfeatures/gunslinger-13-tzUaTqB6GHAeffOl.htm)|Medium Armor Expertise (Level 13)|Expertise avec les armures intermédiaires (Niveau 13)|libre|
+|[gunslinger-13-ULOAZWZEokbJC6Rq.htm](classfeatures/gunslinger-13-ULOAZWZEokbJC6Rq.htm)|Gunslinging Legend|Légende de la gâchette|libre|
+|[gunslinger-15-yc9RuXXxmZ9YidH6.htm](classfeatures/gunslinger-15-yc9RuXXxmZ9YidH6.htm)|Greater Deed|Exploit supérieur|libre|
+|[gunslinger-17-RkofVX55ciXZyfAA.htm](classfeatures/gunslinger-17-RkofVX55ciXZyfAA.htm)|Shootist's Edge|Avantage du tireur|libre|
+|[gunslinger-19-kktZhQPJgC5F4hgU.htm](classfeatures/gunslinger-19-kktZhQPJgC5F4hgU.htm)|Incredible Senses (Level 19)|Sens incroyables (Niveau 19)|libre|
+|[inventor-01-JH6um0St37UrjLNG.htm](classfeatures/inventor-01-JH6um0St37UrjLNG.htm)|Peerless Inventor|Inventeur hors pair|libre|
+|[inventor-01-jIAgXe2FetAKBwt7.htm](classfeatures/inventor-01-jIAgXe2FetAKBwt7.htm)|Innovation|Innovation|libre|
+|[inventor-01-oP5zM5Yu41xcx3iu.htm](classfeatures/inventor-01-oP5zM5Yu41xcx3iu.htm)|Overdrive|Surrégime|libre|
+|[inventor-01-pEm1RTNuzzQVKkR0.htm](classfeatures/inventor-01-pEm1RTNuzzQVKkR0.htm)|Explode|Exploser|libre|
+|[inventor-03-J46wcNqKXvtokBD1.htm](classfeatures/inventor-03-J46wcNqKXvtokBD1.htm)|Reconfigure|Reconfigurer|libre|
+|[inventor-03-YMKxN56w617BYwu4.htm](classfeatures/inventor-03-YMKxN56w617BYwu4.htm)|Expert Overdrive|Surrégime expert|libre|
+|[inventor-05-0NyPgi6UACMTmAGE.htm](classfeatures/inventor-05-0NyPgi6UACMTmAGE.htm)|Inventor Weapon Expertise|Expertise avec les armes d'inventeur|libre|
+|[inventor-07-78HIjRbGoONMpF31.htm](classfeatures/inventor-07-78HIjRbGoONMpF31.htm)|Breakthrough Innovation|Innovation de rupture|libre|
+|[inventor-07-SXv9bJFbntDOMRIL.htm](classfeatures/inventor-07-SXv9bJFbntDOMRIL.htm)|Master Overdrive|Surrégime maître|libre|
+|[inventor-07-Xqd0vrxq2bLXxdaB.htm](classfeatures/inventor-07-Xqd0vrxq2bLXxdaB.htm)|Lightning Reflexes (Level 7)|Réflexes fulgurants (Niveau 7)|libre|
+|[inventor-09-F8oXHnu9iNTcpXbJ.htm](classfeatures/inventor-09-F8oXHnu9iNTcpXbJ.htm)|Offensive Boost|Renfort offensif|libre|
+|[inventor-09-mQVC1iDyNi2tfsF8.htm](classfeatures/inventor-09-mQVC1iDyNi2tfsF8.htm)|Inventive Expertise|Expertise inventive|libre|
+|[inventor-13-j0klWHkH3AxUAgok.htm](classfeatures/inventor-13-j0klWHkH3AxUAgok.htm)|Complete Reconfiguration|Reconfiguration complète|libre|
+|[inventor-13-mJpPaoVlNmTK47x1.htm](classfeatures/inventor-13-mJpPaoVlNmTK47x1.htm)|Inventor Weapon Mastery|Maîtrise avec les armes d'inventeur|libre|
+|[inventor-13-qJ4fwGpoNC36ZQ8I.htm](classfeatures/inventor-13-qJ4fwGpoNC36ZQ8I.htm)|Alertness (Level 13)|Vigilance (Niveau 13)|libre|
+|[inventor-15-o1omL2LdHvjEwh3P.htm](classfeatures/inventor-15-o1omL2LdHvjEwh3P.htm)|Legendary Overdrive|Surrégime légendaire|libre|
+|[inventor-15-tXbadIT3LzwuSR19.htm](classfeatures/inventor-15-tXbadIT3LzwuSR19.htm)|Revolutionary Innovation|Innovation révolutionnaire|libre|
+|[inventor-17-ojB0UJWpSekQPjT7.htm](classfeatures/inventor-17-ojB0UJWpSekQPjT7.htm)|Juggernaut (Level 17)|Juggernaut (Niveau 17)|libre|
+|[inventor-17-Uu8VnpAo3XZZEKPd.htm](classfeatures/inventor-17-Uu8VnpAo3XZZEKPd.htm)|Inventive Mastery|Maîtrise inventive|libre|
+|[inventor-19-NcEpvnIZfKzG1Iou.htm](classfeatures/inventor-19-NcEpvnIZfKzG1Iou.htm)|Medium Armor Mastery (Level 19)|Maîtrise des armures intermédiaires (Niveau 19)|libre|
+|[inventor-19-rOaLbipkComjc6qh.htm](classfeatures/inventor-19-rOaLbipkComjc6qh.htm)|Infinite Invention|Invention infinie|libre|
 |[investigator-01-2Fe4YZCvAr9Yf6w7.htm](classfeatures/investigator-01-2Fe4YZCvAr9Yf6w7.htm)|Strategic Strike|Frappe stratégique|libre|
 |[investigator-01-6FasgIXUJ1X8ekRn.htm](classfeatures/investigator-01-6FasgIXUJ1X8ekRn.htm)|On the Case|Sur l'affaire|libre|
 |[investigator-01-g3mNzNphtVxyR9Xr.htm](classfeatures/investigator-01-g3mNzNphtVxyR9Xr.htm)|Empiricism Methodology|Méthodologie : empirisme|libre|
@@ -318,6 +310,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[magus-01-FkbFgmoVz5lHhSMo.htm](classfeatures/magus-01-FkbFgmoVz5lHhSMo.htm)|Conflux Spells|Sorts de confluence|libre|
 |[magus-01-FTeIs1Z1Qeli4BIF.htm](classfeatures/magus-01-FTeIs1Z1Qeli4BIF.htm)|Hybrid Study|Études hybridées|libre|
 |[magus-01-KVj5ofUwu3VJSrVw.htm](classfeatures/magus-01-KVj5ofUwu3VJSrVw.htm)|Spellstrike|Frappe de sort|libre|
+|[magus-01-wXaz41gwqNtTn6tf.htm](classfeatures/magus-01-wXaz41gwqNtTn6tf.htm)|Arcane Spellcasting (Magus)|Incantation arcanique (Magus)|libre|
 |[magus-05-9XLUh9iMepZesdmc.htm](classfeatures/magus-05-9XLUh9iMepZesdmc.htm)|Weapon Expertise (Level 5)|Expertise avec les armes (Niveau 5)|libre|
 |[magus-09-D2g6sZQAWaTccviQ.htm](classfeatures/magus-09-D2g6sZQAWaTccviQ.htm)|Resolve (Level 9)|Résolution (Niveau 9)|libre|
 |[magus-09-TAIOtk5VvPZvv4nu.htm](classfeatures/magus-09-TAIOtk5VvPZvv4nu.htm)|Alertness (Level 9)|Vigilance (Niveau 9)|libre|

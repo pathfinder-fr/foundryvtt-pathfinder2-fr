@@ -2,19 +2,12 @@
 
  * **officielle**: 1
  * **changé**: 17
- * **libre**: 2
- * **aucune**: 1
+ * **libre**: 3
 
 
-Dernière mise à jour: 2021-11-07 19:58 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-11 10:05 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[Z9li154CPNmun29Q.htm](classes/Z9li154CPNmun29Q.htm)|Gunslinger|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -44,3 +37,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[15Yc1r6s9CEhSTMe.htm](classes/15Yc1r6s9CEhSTMe.htm)|Sorcerer|Ensorceleur|officielle|
 |[4wrSCyX6akmyo7Wj.htm](classes/4wrSCyX6akmyo7Wj.htm)|Investigator|Enquêteur|libre|
 |[84SZGVNLXhLKG6gL.htm](classes/84SZGVNLXhLKG6gL.htm)|[Empty Class]|_Classe vierge|libre|
+|[Z9li154CPNmun29Q.htm](classes/Z9li154CPNmun29Q.htm)|Gunslinger|Franc-tireur|libre|

@@ -292,6 +292,11 @@
             "description": "<p>Composée de plusieurs longues bandes de somptueuse soie noire et marron cousues les unes aux autres, cette cape vous confère un bonus d’objet de +3 aux tests de Discrétion et aux tests d’Acrobaties pour Manœuvrer en vol. Vous pouvez également utiliser vos pieds pour vous accrocher à n’importe quelle surface pouvant supporter votre poids, sans faire de test, même si vous devez toujours effectuer des tests d’Athlétisme pour Escalader si vous vous déplacez la tête en bas.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">D</span> Sur ordre, Interagir</p> \n<p><strong>Fréquence</strong> Autant de fois que vous voulez par jour</p> \n<p><strong>Effet</strong>  Vous pouvez provoquer la transformation de la cape en ailes de chauve‑souris qui vous confèrent une Vitesse de vol de 9 mètres pendant 10 minutes, ou vous pouvez faire en sorte que la cape vous transforme en chauve‑souris en lançant @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme nuisible} de niveau 4 sur vous.</p>\n<p>@Compendium[pf2e.equipment-srd.ifAp8wHKBZltgHG0]{Effet: Cape de la chauve-souris (supérieur)}</p>\n<hr />\n<p>Code:</p>\n<ul>\n<li>Bonus d’objet de +3 aux tests de Discrétion </li>\n<li>Bonus d'objet de +3 aux tests d’Acrobaties pour Manœuvrer en vol</li>\n</ul>"
         },
         {
+            "id": "Stepping Stone Shot",
+            "name": "Stepping Stone Shot (Tir pierre de gué)",
+            "description": "<p><strong>Munition</strong> Cartouche</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Imaginer, Interagir</p>\n<p>Une série de petits disques de pierre pressés pour former une seul balle composent cette munition. Lorsque vous tirez avec une pierre de gué activée, que vous parveniez à toucher ou non votre cible, le tir crée une série de supports sur une ligne sur laquelle les créatures peuvent marcher comme sur de la terre ferme. La ligne peut monter ou descendre avec un angle de 45 degrés. Les disques supportent n'importe quel poids, mais ne constituent pas un obstacle ; les créatures et les attaques peuvent les traverser si elles le souhaitent. Ils se réduisent en poussière si quelque chose tente de les déplacer ou de les Manipuler. Une créature peut utiliser une activité à deux actions, qui possède le trait Manipuler, pour marcher à sa vitesse sur les pierres tout en les faisant s'effondrer derrière elle. Cette munition ne fonctionne pas dans les armes à feu dotées du trait dispersion.</p>\n<p>Les pierres atteignent jusqu'à 30 mètres et durent jusqu'à la fin de votre prochain tour si personne ne les fait s'effondrer. Cependant, la ligne ne peut pas s'étendre au-delà de la distance maximale pour une Frappe avec votre arme à feu (généralement six fois le facteur de portée de l'arme à feu).</p>"
+        },
+        {
             "id": "Dread Blindfold",
             "name": "Dread Blindfold (Bandeau d'effroi)",
             "description": "<p>Quand vous l’utilisez pour vous bander les yeux, ce bandeau de lin noir en lambeaux vous confère la vision dans le noir et un bonus d’objet de +3 aux tests d’Intimidation. Vous pouvez voir à travers le bandeau mais seulement en utilisant la vision dans le noir. </p>\n<p>La première fois qu’une créature donnée vous voit lors d’une journée, elle doit réussir un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"37\" data-pf2-traits=\"emotion,enchantment,fear,magical,mental\" data-pf2-label=\"DD Bandeau d'effroi\" data-pf2-show-dc=\"gm\">Volonté</span> DD 37 ou être Effrayée 1. Il s’agit d’un effet mental de terreur et d’émotion contre lequel vos alliés deviennent immunisés au bout d’une semaine environ.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">F</span> Sur ordre</p>\n<p><strong>Fréquence</strong> 1 fois par minute</p> \n<p><strong>Déclencheur</strong> Vous blessez une créature en la Frappant</p>\n<p><strong>Effet</strong> Votre cible est saisie par la peur. Cet effet reproduit les effets d'@Compendium[pf2e.spells-srd.tlcrVRqW1MSKJ5IC]{Assassin imaginaire} DD 37 mais il s’agit d’un enchantement au lieu d’une illusion. Ensuite, la créature est temporairement immunisée pendant 24 heures.</p>\n<hr />\n<p>Code:</p>\n<ul>\n<li>Bonus d’objet de +3 aux tests d’Intimidation</li>\n<li>Vision dans le noir</li>\n</ul>"
@@ -313,7 +318,7 @@
         },
         {
             "id": "Blindpepper Bomb",
-            "name": "Blindpepper Bomb (Bombe de Poivre aveuglant)",
+            "name": "Blindpepper Bomb (Bombe de poivre aveuglant)",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Frappe</p>\n<p>Bien que coûteuses, ces bombes alchimiques à usage unique sont souvent utilisées par les forces de police pour disperser les foules indisciplinées et réprimer les émeutes sans risquer de causer des blessures physiques permanentes aux agents ou aux civils.\n<p>La bombe peut être lancée jusqu'à 9 mètres, ce qui la fait exploser et pulvériser la poussière de poivre en aérosol dans un rayon de 4,5 mètres. Toutes les créatures situées dans la zone doivent réussir un jet de <span data-pf2-check=\"reflex\" data-pf2-traits=\"alchemical,bomb,visual\" data-pf2-label=\"DD Bombe de poivre aveuglante\" data-pf2-dc=\"18\" data-pf2-show-dc=\"all\">Réflexes</span> DD 18 pour éviter d'inhaler la poussière ou d'en recevoir dans les yeux.\n<p>En cas d'échec, la créature est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglée} pendant 1 round et ensuite @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} pendant 1 round.</p> \n<p>Sur un échec critique, la créature est aveuglée pendant 1 round, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1, et Éblouie jusqu'à ce qu'elle supprime la condition Malade.</p>"
         },
         {
@@ -629,7 +634,7 @@
         {
             "id": "Impossible Cake",
             "name": "Impossible Cake (Gâteau de l'impossible)",
-            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Ce tour de passe-passe pour les papilles est aromatisé à l'absinthe et au miel et ressemble toujours à quelque chose qui n'a rien à voir avec un gâteau, qu'il s'agisse d'un tas d'armure ou d'un bol de soupe. Manger le gâteau vous donne la confiance nécessaire pour rendre l'impossible possible : pendant 10 minutes après le repas, vous gagnez un bonus d'objet de +2 à vos tests de Duperie pour vous Déguiser et Mentir pour convaincre les autres que vous possédez des connaissances sur le type d'objet auquel le gâteau ressemble.</p>\n<p>@Compendium[pf2e.equipment-effects.H29JukjrSpHe5DXR]{Effet : Gâteau de l'impossible}</p>"
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Ce tour de passe-passe pour les papilles est aromatisé à l'absinthe et au miel et ressemble toujours à quelque chose qui n'a rien à voir avec un gâteau, qu'il s'agisse d'un tas d'armure ou d'un bol de soupe. Manger le gâteau vous donne la confiance nécessaire pour rendre l'impossible possible : pendant 10 minutes après le repas, vous gagnez un bonus d'objet de +2 à vos tests de Duperie pour vous Déguiser et Mentir pour convaincre les autres que vous possédez des connaissances sur le type d'objet auquel le gâteau ressemble.</p>\n<p>@Compendium[pf2e.equipment-effects.H29JukjrSpHe5DXR]{Effet: Gâteau de l'impossible}</p>"
         },
         {
             "id": "Black Dragon's Breath Potion (Young)",
@@ -645,6 +650,11 @@
             "id": "Life's Last Breath",
             "name": "Life's Last Breath (Le Dernier souffle de vie)",
             "description": "<p>Les deux lames dentelées de cette légendaire épée Rhoka sont d'un noir mat qui dégoulinent constamment de sang. On dit que le Dernier souffle de vie a été forgée il y a des siècles pour un général Urdefhan inconnu et qu'elle est depuis tombée entre les mains d'innombrables autres puissants seigneurs de guerre Urdefhan.</p>\n<p>Le Dernier souffle de vie est une épée rhoka de frappe supérieure @Compendium[pf2e.equipment-srd.gmMrJREf4JSHd2dZ]{Impie} @Compendium[pf2e.equipment-srd.fo6Yhq5mbQXsnZs0]{Sanglante} +3 avec les capacités spéciales suivantes :</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span>Sur ordre</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Conditions</strong> Vous frappez avec succès une créature avec le Dernier souffle de vie</p>\n<p><strong>Effet</strong> Vous lancez un sort @Compendium[pf2e.spells-srd.DCQHaLrYXMI37dvW]{Paralysie} de niveau 9 sur la cible.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> Imaginer</p>\n<p><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<p><strong>Déclencheur</strong> Vous frappez avec succès une créature avec le Dernier souffle de vie</p>\n<p><strong>Effet</strong> La cible doit réussir un jet de Vigueur DD 38 ou subir [[/r 4d6 #négatifs]]{4d6 dégâts négatifs} ; vous gagnez un nombre égal de points de vie temporaires qui durent pendant 1 minute.</p>"
+        },
+        {
+            "id": "Cold Comfort (Lesser)",
+            "name": "Cold Comfort (Lesser) (Confort fraicheur inférieur)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p><strong>Durée</strong> La glace créée par les pastilles dure 1 heure ou jusqu'à ce qu'elle soit brisée.</p>\n<hr />\n<p>L'engin appelé confort fraicheur est une poche étanche remplie d'une poignée de petites pastilles lourdes d'une couleur argentée. Lorsqu'elles sont vidées dans une étendue d'eau adjacente, les pastilles gèlent la surface de l'eau presque instantanément, créant un bloc de glace dans un carré de 3 mètres de côté jusqu'à une profondeur de 30 centimètres. Toute créature se trouvant dans cet espace doit tenter un jet de <span data-pf2-check=\"reflex\" data-pf2-traits=\"alchemical,cold,consumable,damaging-effect\" data-pf2-label=\"DD pour éviter de geler\" data-pf2-dc=\"23\" data-pf2-show-dc=\"all\">Réflexes basique</span> DD 23. En cas d'échec, la créature subit [[/r {2d6}[cold]]]{2d6 dégâts de froid} et est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} pendant 1 minute ou jusqu'à ce qu'elle s'Échappe (DD 20) ou que la glace soit brisée. Le bloc de glace entier a une CA de 10, une Solidité de 10 et 40 points de vie et il est immunisé contre les coups critiques, les dégâts de froid et les dégâts de précision. La glace est suffisamment solide pour supporter une créature de grande taille ou jusqu'à quatre créatures de taille moyenne ou petite. Traverser la glace glissante nécessite la réussite d'un test d'<span data-pf2-check=\"acrobatics\" data-pf2-traits=\"alchemical,cold,consumable,action:balance\" data-pf2-label=\"Équilibre sur la glace\" data-pf2-dc=\"20\" data-pf2-show-dc=\"all\">Acrobaties</span> DD 20 pour garder l'équilibre.</p>"
         },
         {
             "id": "Gold Dragon's Breath Potion (Adult)",
@@ -1032,6 +1042,11 @@
             "description": "<p>Un filtre de remplacement pour un @Compendium[pf2e.equipment-srd.kDrlBnkDMVxPrahI]{Purificateur d'eau}. Le modificateur de contre-action en utilisant ce filtre est de +5.</p>"
         },
         {
+            "id": "Tar Rocket Snare",
+            "name": "Tar Rocket Snare (Piège artisanal fusée de goudron)",
+            "description": "<p>Vous enduisez un petit feu d'artifice d'une épaisse couche de résine et de goudron, afin qu'il se colle fermement sur une cible. Lorsqu'une créature entre dans la case, la fusée se lance sur la créature et se colle potentiellement à elle. Vous déterminez la direction vers laquelle la fusée est orientée lorsque vous fabriquez le piège. La créature qui le déclenche doit tenter un jet de <span data-pf2-check=\"reflex\" data-pf2-traits=\"uncommon,consumable,mechanical,snare,trap\" data-pf2-label=\"DD Piège fusée de goudron\" data-pf2-dc=\"20\" data-pf2-show-dc=\"all\">Réflexes</span> DD 20.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature subit un coup oblique de la fusée et est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} jusqu'au début de son prochain tour.</p>\n<p><strong>Échec</strong> L'enduit de goudron et de résine de la fusée colle à la créature, et elle ne peut pas l'en détacher. La créature est Prise au dépourvu pendant 1 round, et @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite} 1 pendant 1 minute ou jusqu'à ce qu'elle s'Échappe (DD 20).</p>\n<p><strong>Échec critique</strong> Comme l'échec, mais la créature subit un coup direct. Elle subit  [[/r {2d6}[bludgeoning]]]{2d6 dégâts contondants} et est poussée de 3 mètres dans la direction à laquelle la fusée fait face.</p>"
+        },
+        {
             "id": "Blue Dragonfly Poison",
             "name": "Blue Dragonfly Poison (Poison de Libellule bleue)",
             "description": "<p>Les Bourbiérins préparent une toxine puissante à base de libellules bleues. Les Oracles des marais consomment ce mélange pour éveiller leurs pouvoirs divins, mais le poison inspire des hallucinations paralysantes à la plupart des autres créatures.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir (Ingéré)</p>\n<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"17\" data-pf2-traits=\"alchemical,consumable,ingested,poison\" data-pf2-label=\"DD poison de libellule bleue\" data-pf2-show-dc=\"gm\">Vigueur</span> DD 17 ;</p>\n<p><strong>Délai</strong> 10 minutes</p>\n<p><strong>Durée maximale</strong> 30 minutes</p>\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui} (10 minutes)</p>\n<p><strong>Stade 2</strong> Ébloui et @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé} 1 (10 minutes)</p>\n<p><strong>Stade 3</strong> Effrayé 1 et @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confus} (1 minute)</p>"
@@ -1334,7 +1349,7 @@
         {
             "id": "Copper Dragon's Breath Potion (Young)",
             "name": "Copper Dragon's Breath Potion (Young) (Potion de souffle du jeune dragon de cuivre)",
-            "description": "<p>Ce liquide contient du sang d’un jeune dragon de cuivre. Pendant 1 heure après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait feu. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte une ligne de 9 mètres de dégâts d'acide. Le souffle d'un jeune dragon de bronze inflige [[/r 4d6 #acide]]{4d6 dégâts d'acide}. Toute créature à portée doit tenter un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"23\" data-pf2-traits=\"acid,evocation,magical,potion\" data-pf2-label=\"DD de la potion de souffle du jeune dragon de cuivre\" data-pf2-show-dc=\"gm\">Réflexe basique</span> DD 23. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant  [[/r 1d4 #rounds]]{1d4 rounds}. </p>"
+            "description": "<p>Ce liquide contient du sang d’un jeune dragon de cuivre. Pendant 1 heure après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait acide. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte une ligne de 9 mètres de dégâts d'acide. Le souffle d'un jeune dragon de bronze inflige [[/r 4d6 #acide]]{4d6 dégâts d'acide}. Toute créature à portée doit tenter un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"23\" data-pf2-traits=\"acid,evocation,magical,potion\" data-pf2-label=\"DD de la potion de souffle du jeune dragon de cuivre\" data-pf2-show-dc=\"gm\">Réflexes basique</span> DD 23. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant  [[/r 1d4 #rounds]]{1d4 rounds}. </p>"
         },
         {
             "id": "Breastplate of Command",
@@ -1577,6 +1592,11 @@
             "description": "<p>L’extrémité de cette baguette n’est pas effilée mais fourchue.</p>\n<p><strong>Activation</strong> Lancer un sort;  l’activation du sort nécessite <span class=\"pf2-icon\">2</span> actions si l'incantation du sort nécessite normalement <span class=\"pf2-icon\">1</span> action ou <span class=\"pf2-icon\">3</span> actions si l'incantation du sort nécessite normalement <span class=\"pf2-icon\">2</span> actions.</p>\n<p><strong>Fréquence</strong> 1 fois par jour, plus surcharge</p>\n<p><strong>Effet</strong> Vous Lancez le sort et augmentez sa zone d’effet. Ajoutez 1,50 mètres au rayon d’une explosion ayant normalement un rayon d’au moins 3 mètres ; ajoutez 1,50 mètres à la longueur d’un cône ou d’une ligne dont la longueur s’élève normalement à 4,50 mètres ou moins ; ou ajoutez 3 mètres à la longueur d’une ligne ou d’un cône plus long.</p>\n<p><strong>Conditions de fabrication</strong> Fournir une incantation d’un sort du niveau approprié. Le sort doit avoir un temps d’incantation de <span class=\"pf2-icon\">1</span> action or <span class=\"pf2-icon\">2</span> actions, il ne doit avoir aucune durée et doit avoir une zone en forme d’explosion (3 mètres ou plus), de cône ou de ligne.</p>"
         },
         {
+            "id": "Toadskin Salve (Major)",
+            "name": "Toadskin Salve (Major) (Baume Peau de crapaud majeur)",
+            "description": "<p>Cette pommade épaisse et huileuse réagit avec l'air pour exsuder un mucus toxique lorsqu'elle est appliquée sur la peau. Une fois appliquée, vous pouvez activer la pommade de l'une des deux manières détaillées ci-dessous. Une fois l'une ou l'autre réaction utilisée, le mucus restant perd ses propriétés de réaction et tombe, l'effet prenant fin. Vous ne pouvez appliquer qu'une seule dose à la fois. Si vous n'utilisez aucune des deux réactions, après 1 heure, le mucus s'écaille et l'effet prend fin.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">r</span> Interagir</p>\n<p><strong>Déclencheur</strong> Vous touchez la créature avec une Frappe au corps-à-corps</p>\n<p><strong>Effet</strong> Vous projetez du mucus sur votre cible, infligeant [[/r 3d4 #poison persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de poison persistant}.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">r</span> Interagir</p>\n<p><strong>Déclencheur</strong> Vous êtes touché par une attaque de corps-à-corps qui inflige des dégâts physiques</p>\n<p><strong>Effet</strong> Le mucus absorbe le coup, vous accordant une résistance de 8 aux dégâts physiques contre l'attaque déclencheuse.</p>"
+        },
+        {
             "id": "Potion of Fire Retaliation (Major)",
             "name": "Potion of Fire Retaliation (Major) (Potion de Riposte Enflammée (majeure))",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p>Pendant 1 minute après avoir bu une potion de Riposte Enflammée, vous rayonnez d'une faible aura d'énergie de feu, et une créature qui vous touche (par exemple en effectuant une attaque à mains nues ou en utilisant un sort de contact) ou qui est adjacente à vous et vous frappe avec une arme de mêlée subit des dégâts de feu.</p>\nL'aura inflige 4d8 points de dégâts de feu.</p>"
@@ -1702,9 +1722,19 @@
             "description": "<p>Cette petite lame incurvée ressemble à une griffe de tigre et est capable de délivrer des blessures profondes.</p>"
         },
         {
+            "id": "Envenomed Snare",
+            "name": "Envenomed Snare (Piège artisanal venimeux)",
+            "description": "<p>Ce piège artisanal est enduit de venin de guêpe géante et muni d'aiguilles qui injectent le venin à la première créature qui entre dans la case. Cette créature subit [[/r {4d6}[piercing]]]{4d6 dégâts perforants} (<span data-pf2-check=\"reflex\" data-pf2-traits=\"consumable,mechanical,poison,snare,trap\" data-pf2-label=\"DD du piège venimeux\" data-pf2-dc=\"23\" data-pf2-show-dc=\"all\">Réflexes basique</span>) DD 23 et, en cas d'échec, la créature est exposée au @Compendium[pf2e.equipment-srd.aBOPYlfHAcXUmhF7]{Venin de guêpe géante}.</p>\n<hr />\n<p><strong>Conditions de fabrication</strong> Fournir 2 doses de venin de guêpe géante.</p>"
+        },
+        {
             "id": "Spinel, deep blue",
             "name": "Spinel, deep blue (Spinelle, bleu profond)",
             "description": ""
+        },
+        {
+            "id": "Pummeling Snare",
+            "name": "Pummeling Snare (Piège artisanal percutant)",
+            "description": "<p>Ce piège libère un trio de grosses pierres qui frappent la créature entrant dans la case du piège, lui infligeant [[/r {6d8}[bludgeoning]]]{6d8 dégâts contondants}. (<span data-pf2-check=\"reflex\" data-pf2-traits=\"uncommon,consumable,mechanical,snare,trap\" data-pf2-label=\"DD Piège rouée de coups\" data-pf2-dc=\"21\" data-pf2-show-dc=\"all\">Réflexes basique</span> DD 21).</p>"
         },
         {
             "id": "Marking Snare",
@@ -2062,6 +2092,11 @@
             "description": "<p>Cette arme équivoque tire son nom du fait qu'elle est généralement fabriquée avec plusieurs faux canons afin qu'il soit plus difficile pour les ennemis de prédire l'angle de tir de l'arme à partir des quatre canons en état de marche. La plupart du temps, cette arme fonctionne comme une @Compendium[pf2e.equipment-srd.tk4cfktEnMrp4K6m]{Arme poivrée} de Frappe +1, avec une capacité de 4 au lieu de 3, bien qu'elle ait un mécanisme de chargement compliqué impliquant la rotation des barils. En cas de pincement cependant, les quatre vrais canons peuvent être tirés simultanément.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">2</span> Interagir</p>\n</p><strong>Effet</strong>Réaliser jusqu'à quatre Frappes avec le Fusil du menteur. Chacune des quatre frappes doit être dirigée contre une cible différente située dans un @Template[type:cône|distance:20]{cône de 6 mètres}. Vous appliquez et augmentez votre pénalité d'attaque multiple pour les quatre frappes uniquement après avoir résolu toutes les attaques. Si l'arme a des ratés sur l'une de ces attaques, attendez d'appliquer les ratés jusqu'à ce que vous résolviez toutes les attaques.</p>"
         },
         {
+            "id": "Eroding Bullet",
+            "name": "Eroding Bullet (Balle érodée)",
+            "description": "<p><strong>Munition</strong> cartouche</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p>Les balles érodées luisent d'une faible lueur verte et sentent comme les gaz organiques nauséabonds qui s'élèvent des cadavres. Manipuler une balle érodée sans gants inflige [[/r {1}[acid]]]{1 point de dégâts acide} et laisse une odeur putride sur vos doigts. En frappant un ennemi, le boîtier en verre à l'intérieur de la balle éclate, libérant une éclaboussure d'acide d'un vert mousseux qui recouvre la cible. La cible subit [[/r {2d6} [persistent,acide]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts d'acide persistant} en plus des dégâts normalement infligés par l'attaque.</p>"
+        },
+        {
             "id": "Dueling Cape",
             "name": "Dueling Cape (Cape de duel)",
             "description": "<p>Vous pouvez tirer une cape de duel que vous portez de votre épaule et l'enrouler autour de votre bras avec une action @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interagir}.</p>\n<p>Lorsque vous maniez la cape de duel de cette manière, la cape utilise ce bras et cette main et vous ne pouvez rien tenir d'autre dans cette main.</p>\n<p>Lorsque vous le faites, vous pouvez dépenser une action pour la mettre dans une position protectrice, vous donnant un bonus de circonstances de +1 à la CA et aux tests de Duperie pour @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter} jusqu'au début de votre prochain tour.</p>\n<p>@Compendium[pf2e.spell-effects.7dLsA9PAb5ij7Bc6]{Effet: Cape de duel}</p>"
@@ -2223,7 +2258,7 @@
         },
         {
             "id": "Bomber's Eye Elixir (Lesser)",
-            "name": "Bomber's Eye Elixir (Lesser) (Elixir d'œil du mitrailleur (inférieure))",
+            "name": "Bomber's Eye Elixir (Lesser) (Élixir d'œil du mitrailleur inférieur)",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p>Cette teinture vous aide à localiser vos ennemis. Pendant les 5 minutes qui suivent, vos Frappes avec des bombes alchimiques réduisent le bonus de circonstances à la CA que vos cibles obtiennent grâce à un abri. Réduisez le bonus de circonstances de la cible de 1.</p>"
         },
         {
@@ -2782,6 +2817,11 @@
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p>Cet élixir distillé à partir d’écailles de salamandre permet de résister au feu. Pendant 24 heures, vous êtes protégé contre les effets d’une chaleur importante.</p>"
         },
         {
+            "id": "Big Rock Bullet (Major)",
+            "name": "Big Rock Bullet (Major) (Bille gros rocher majeure)",
+            "description": "<p><strong>Munition</strong> Bille de fronde</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Une bille gros rocher est une bille de fronde faite de granit lourd, mais chaque munition semble beaucoup plus dense qu'elle n'y paraît. Lorsqu'elle est activée, une bille gros rocher se transforme en un rocher géant juste avant de frapper la cible. La cible subit [[/r {12d6}[bludgeoning]]]{12d6 dégâts contondants supplémentaires} en cas d'attaque réussie. Même sur un jet d'attaque raté (mais pas sur un échec critique), la cible subit [[/r {6d6}[bludgeoning]]]{6d6 dégâts contondants}. Les créatures dotées de la réaction @Compendium[pf2e.bestiary-ability-glossary-srd.uG0Z8PsyZtsYuvGR]{Interception de rochers} peuvent l'utiliser contre une bille gros rocher.</p>"
+        },
+        {
             "id": "Singing Sword",
             "name": "Singing Sword (Épée chantante)",
             "description": "<p><strong>Perception</strong> +11; Vision précise 9 mètres, Ouïe imprécise 9 mètres </p>\n<p><strong>Communication</strong>  parole (commun et quatre autres langues courantes</p>\n<p><strong>Compétences</strong> Représentation +15</p>\n<p><strong>Int</strong> +2, <strong>Sag</strong> +2, <strong>Cha</strong> +4<br><strong>Volonté</strong> +13 (+17 contre les tentatives pour étouffer ses chants)</p>\n<hr />\n<p>Une épée chantante est une épée longue de frappe +1 habitée par la conscience d’un barde exubérant et elle passe son temps à chanter. Une épée chantante ne peut pas s’arrêter de chanter et ne communique que de cette manière. Un test réussi de Diplomatie ou d’Intimidation contre son DD de Volonté peut la convaincre de murmurer son chant pendant 10 minutes ou 20 minutes avec un succès critique. Mais si on le lui demande trop fréquemment, cela la contrarie profondément. L’épée chantante peut utiliser ses actions pour attaquer de sa propre volonté avec les effets d’une activation d’une arme dansante mais avec un modificateur d’attaque de +12. De plus, elle peut utiliser les activations suivantes ; chacune d’elles incante un sort de composition et en respecte les règles normales</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> sur ordre</p> \n<p><strong>Fréquence</strong> 1 fois par minute</p>\n<p><strong>Effet</strong>L’épée chantante incante @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspiration vaillante}.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> sur ordre</p> \n<p><strong>Fréquence</strong> 1 fois par minute</p> \n<p><strong>Effet</strong> L’épée chantante incante @Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{Inspiration défensive}.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> sur ordre</p> \n<p><strong>Fréquence</strong> 1 fois par heure</p> \n<p><strong>Déclenchement</strong> Vous ou un allié situé dans un rayon de 18 mètres, effectuez un jet de sauvegarde contre un effet audible</p> <strong>Effet</strong> L’épée chantante incante @Compendium[pf2e.feats-srd.t5zeg3m9rEnWnYXY]{Contre-inspiration}.</p>"
@@ -3003,7 +3043,7 @@
         },
         {
             "id": "Bloodbane (Greater)",
-            "name": "Bloodbane (Greater) (Dague vengeresse (supérieure))",
+            "name": "Bloodbane (Greater) (Dague vengeresse supérieure)",
             "description": "<p>Une dague de clan vengeresse est particulièrement vicieuse contre les ennemis ancestraux du clan. Lorsque vous appliquez des dégâts à un type de créature approprié avec cette arme, cette créature subit [[/r 1d4 #saignement persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant}. Le type de créature dépend du clan qui a fabriqué la dague, mais est typiquement drow, duergar, géant ou orc.</p>\n<p>De plus, chaque fois que vous infligez des dégâts de saignement persistant avec une arme vengeresse (que ce soit grâce à sa capacité innée ou d'une autre manière), l'arme laisse des blessures en lambeaux. La créature qui saigne doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"30\" data-pf2-traits=\"dwarf,evocation,magical\" data-pf2-label=\"DD Dague vengeresse supérieure\" data-pf2-show-dc=\"gm\">Vigueur</span> DD 30 ou devenir @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1. La créature est alors temporairement immunisée pendant 1 heure.</p>"
         },
         {
@@ -3527,6 +3567,11 @@
             "description": "<p>Cette chemise de mailles en argent +1 possède un col cousu d’images de la lune à ses différentes phases. Vous voyez au clair de lune comme si vous disposiez de vision nocturne.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p><strong>Fréquence</strong> 1 fois par jour</p>\n<p><strong>Effet</strong> En touchant l’image de la nouvelle lune sur le col de l’armure, vous supprimez l’état Ébloui pendant 1 minute.</p>\n<hr />\n<p><strong>Conditions de fabrication</strong> Les matériaux initiaux bruts doivent inclure 33 po d’argent.</p>"
         },
         {
+            "id": "Impossible Cake (Major)",
+            "name": "Impossible Cake (Major) (Gâteau de l'impossible majeur)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Ce tour de passe-passe pour les papilles est aromatisé à l'absinthe et au miel et ressemble toujours à quelque chose qui n'a rien à voir avec un gâteau, qu'il s'agisse d'un tas d'armure ou d'un bol de soupe. Manger le gâteau vous donne la confiance nécessaire pour rendre l'impossible possible : pendant 1 heure après le repas, vous gagnez un bonus d'objet de +4 à vos tests de Duperie pour vous Déguiser et Mentir pour convaincre les autres que vous possédez des connaissances sur le type d'objet auquel le gâteau ressemble.</p>\n<p>@Compendium[pf2e.equipment-effects.H29JukjrSpHe5DXR]{Effet: Gâteau de l'impossible majeur}</p>"
+        },
+        {
             "id": "Warhammer",
             "name": "Warhammer (Marteau de guerre)",
             "description": "<p>cette arme possède un manche en bois se terminant par une lourde tête en métal. La tête du marteau peut être à simple face ou à double face, mais elle est toujours capable de délivrer de puissants coups contondants.\n</p>"
@@ -3697,6 +3742,11 @@
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">2</span> Imaginer</p>\n<p><strong>Prérequis</strong> Vous êtes un expert en Discrétion</p>\n<hr />\n<p>Cette pierre précieuse en forme de goutte d’eau possède des facettes triangulaires et semble convenir aux tenues de fantaisie, bien qu’un examen attentif montre qu’elle est creuse. Lorsqu’elle est activée, vous pouvez instantanément transmettre jusqu’à 1 minute de parole (environ 150 mots) par télépathie à toutes les créatures de votre choix situées dans un rayon de 30 mètres. Vous pouvez transmettre ce message télépathique instantané aux créatures que vous percevez et aux créatures @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachées} à vous, mais vous ne pouvez pas le faire aux créatures @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectées}. Une fois utilisée, la Briolette de chuchotement devient inutilisable et disparaît subtilement dans les minutes qui suivent, au lieu de tomber en poussière.</p>"
         },
         {
+            "id": "Exsanguinating Ammunition (Greater)",
+            "name": "Exsanguinating Ammunition (Greater) (Munition exsangue supérieure)",
+            "description": "<p><strong>Munitions</strong> toutes</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p>Ces munitions comprennent un petit réservoir d'une substance rouge collante qui recouvre les balles lorsque vous les activez. La substance fait saigner une créature plus facilement. Pendant 1 minute après que vous avez infligé des dégâts à une créature avec une munition exsangue activée, cette créature gagne une faiblesse de 3 aux dégâts de saignement persistants. De plus, le DD de tout test nu pour mettre fin aux dégâts persistants passe de 15 à 17 (de 10 à 12 lorsque vous recevez une aide particulièrement efficace) pendant toute la durée.</p>\n<p>@Compendium[pf2e.equipment-effects.Fz3cSffzDAxhCh2D]{Effet : Munition exsangue supérieure}</p>"
+        },
+        {
             "id": "Maestro's Instrument (Moderate)",
             "name": "Maestro's Instrument (Moderate) (Instrument de maestro (modéré))",
             "description": "<p>Un instrument du maestro se fabrique sous la forme de n’importe quel instrument de musique que l’on peut tenir en main. Il donne un bonus d’objet de +2 aux tests de Représentation lorsque l’on en joue.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">D</span> Interagir</p> \n<p><strong>Fréquence</strong> 1 fois par jour</p>\n<p><strong>Effet</strong>Vous pouvez jouer de l’instrument pour produire les effets du sort @Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charme} de Niveau 4 (DD 27).</p>\n<p><strong>Conditions de fabrication.</strong>Fournir une incantation de Charme du niveau approprié.</p>\n<hr />\n<p>Code:</p>\n<ul>\n<li>Bonus d’objet de +2 aux tests de Représentation lorsqu'on joue de l'instrument</li>\n</ul>"
@@ -3847,6 +3897,11 @@
             "description": "<p>Cette baguette en albâtre est dotée d'un cristal clair à son extrémité</p>\n<p><strong>Activation</strong>Lancer un sort</p>\n<p><strong>Fréquence</strong> Une fois par jour, plus surcharge;</p>\n<p><strong>Effet</strong> Vous lancez @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} au Niveau 5</p>\n<p>Après avoir lancé ce sort, au début de votre prochain tour, un excès de magie de guérison jaillit de la baguette et vous soigne, comme si vous aviez lancé en 1 action la version du sort Guérison au niveau 5 sur vous-même. Vous ne bénéficiez de cet avantage qu'une seule fois, même si vous lancez plusieurs sorts de guérison à partir de baguettes de vie débordante dans le même tour.</p>\n<p><strong>Craft Requirements</strong> Fournir un sort de Guérion au Niveau 5.</p>"
         },
         {
+            "id": "Silencing Ammunition",
+            "name": "Silencing Ammunition (Munition silencieuse)",
+            "description": "<p><strong>Munition</strong> flèche, carreau</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Les munitions silencieuses sont particulièrement denses et semblent amortir les sons autour d'elles. Une Frappe réussie d'une munition de silence activée crée un effet de @Compendium[pf2e.spells-srd.gIdDLrbswTV3OBJy]{Silence} au Niveau 2 sur la cible. La cible peut résister aux effets des munitions en réussissant un jet de <span data-pf2-check=\"will\" data-pf2-traits=\"consumable,illusion,magical\" data-pf2-label=\"DD Résister ou ôter l'effet Silence\" data-pf2-dc=\"25\" data-pf2-show-dc=\"gm\">Volonté</span> DD 25, bien qu'elle subisse une pénalité de circonstances de -2 si la Frappe était un coup critique. Tant que l'effet est actif, la cible peut utiliser une action d'interaction pour tenter de retirer la flèche ou le carreau et mettre fin à l'effet de manière anticipée ; cela nécessite un jet de Volonté DD 25 réussi.</p>"
+        },
+        {
             "id": "Rungu",
             "name": "Rungu (Rungu)",
             "description": "<p>Ce gourdin spécialisé est conçu pour être lancé et est utile pour le combar et la chasse. Bien que les gripplis ne soient pas à l'origine du rungu, beaucoup de communautés gripplis l'ont adoptée comme arme de choix pour chasser les créatures qui se cachent dans les cîmes.</p>"
@@ -3923,7 +3978,7 @@
         },
         {
             "id": "Blindpepper Tube",
-            "name": "Blindpepper Tube (Tube de Poivre aveuglant)",
+            "name": "Blindpepper Tube (Tube de poivre aveuglant)",
             "description": "<p>Ce dispositif de pacification à usage unique consiste en du piment finement moulu chargé dans un tube scellé de type sarbacane avec une valve à sens unique et une portée de 1,5 mètre. Pour l'utiliser, le manieur doit déchirer le sceau du tube avec action d'Interagir, puis dépenser une autre action pour souffler le piment dans le visage d'une créature adjacente. Ces actions n'ont pas besoin d'être effectuées dans le même round. La cible doit tenter une sauvegarde de <span data-pf2-check=\"reflex\" data-pf2-dc=\"15\" data-pf2-traits=\"alchemical,consumable,visual\" data-pf2-label=\"DD tube de poivre aveuglant\" data-pf2-show-dc=\"gm\">Réflexes</span> DD 15 pour éviter d'inhaler le piment ou d'en recevoir dans les yeux. En cas d'échec, la créature est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglée} pendant 1 round, puis @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} pendant 1 round. En cas d'échec critique, la créature est Aveuglée pendant 1 round, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1, et Éblouie jusqu'à ce qu'elle supprime l'état écoeurant.</p>"
         },
         {
@@ -3943,8 +3998,8 @@
         },
         {
             "id": "Aurifying Salts",
-            "name": "Aurifying Salts (Sels Aurifères)",
-            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p>Vous pouvez appliquer cette poudre de couleur coquille d'œuf pâle sur une tenue, un objet de taille moyenne maximum, ou jusqu'à 10 objets plus petits dans le même espace, comme des bijoux, pour les faire paraître dorés pendant 1 heure. Si elle est utilisée dans le cadre de @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire une bonne impression} sur un public influencé par des vêtements coûteux, la plupart des vêtements ou des bijoux semblent valoir 10 fois plus qu'ils ne valent réellement. Seule une personne qui examine de près un article affecté remarque qu’il ne s’agit pas d’or véritable. Si vous appliquez les sels aurifères sur un objet en métal, le métal se ramollit comme de l'or, réduisant sa dureté de 4 (jusqu'à un minimum de dureté 10) pendant 1 heure.</p>"
+            "name": "Aurifying Salts (Sels aurifères)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p>Vous pouvez appliquer cette poudre de couleur coquille d'œuf pâle sur une tenue, un objet de taille moyenne maximum, ou jusqu'à 10 objets plus petits dans le même espace, comme des bijoux, pour les faire paraître dorés pendant 1 heure. Si elle est utilisée dans le cadre de @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire une bonne impression} sur un public influencé par des vêtements coûteux, la plupart des vêtements ou des bijoux semblent valoir 10 fois plus qu'ils ne valent réellement. Seule une personne qui examine de près un article affecté remarque qu’il ne s’agit pas d’or véritable. Si vous appliquez les sels aurifères sur un objet en métal, le métal se ramollit comme de l'or, réduisant sa solidité de 4 (jusqu'à un minimum de solidité 10) pendant 1 heure.</p>"
         },
         {
             "id": "Tlil Mask",
@@ -4252,6 +4307,11 @@
             "description": "<p>Ces épaulettes dorées étincelantes sont remises aux officiers des chevaliers de l’Aigle et font partie de leur uniforme. Même si elle peut être enchantée pour procurer une certaine variété d’effets, l’épaulette de la Légion dorée demeure la plus commune</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> (Sur ordre)</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Effet</strong> Vous, et tout allié à moins de 18 m qui suit l’ordre, gagnez un bonus de statut de +1 à vos jets d’attaque,\nvos jets de dégâts et vos jets de sauvegarde contre la peur jusqu’au début de votre prochain tour.</p>\n<p>@Compendium[pf2e.spell-effects.bP40jr6wE6MCsRvY]{Effet: Épaulette de la Légion dorée}</p>"
         },
         {
+            "id": "Exsanguinating Ammunition (Major)",
+            "name": "Exsanguinating Ammunition (Major) (Munition exsangue majeur)",
+            "description": "<p><strong>Munitions</strong> toutes</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p>Ces munitions comprennent un petit réservoir d'une substance rouge collante qui recouvre les balles lorsque vous les activez. La substance fait saigner une créature plus facilement. Pendant 1 minute après que vous avez infligé des dégâts à une créature avec une munition exsangue activée, cette créature gagne une faiblesse de 5 aux dégâts de saignement persistants. De plus, le DD de tout test nu pour mettre fin aux dégâts persistants passe de 15 à 17 (de 10 à 12 lorsque vous recevez une aide particulièrement efficace) pendant toute la durée.</p>\n<p>@Compendium[pf2e.equipment-effects.Fz3cSffzDAxhCh2D]{Effet: Munition exsangue majeur}</p>"
+        },
+        {
             "id": "Ring of Counterspells",
             "name": "Ring of Counterspells (Anneau de contresort)",
             "description": "<p>Cet anneau d’argent est orné de deux motifs géomé‑ triques opposés composés de pierres précieuses aux couleurs vives très tranchées. Un incantateur peut lan‑ cer un sort unique dans cet anneau tant qu’il ne contient aucun autre sort ; il doit pour cela y consacrer le temps normal, régler les coûts, etc. pour Lancer le sort. Le sort ne produit aucun effet ; au lieu de cela, son énergie est stockée dans l’anneau.</p>\n<p>Quand vous investissez un anneau de contresort, vous connaissez immédiatement le nom et le niveau de l’éventuel sort stocké à l’intérieur. Il y a 50 % de chances qu’un anneau de contresort trouvé en guise de trésor contienne déjà un sort. Le MJ détermine ce sort.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> Imaginer</p> \n<p><strong>Déclencheur</strong> Vous êtes pris pour cible ou vous trouvez dans la zone d’effet du même sort que celui stocké dans l’anneau</p>  <p><strong>Effet</strong> Vous pouvez tenter de contrer le sort déclencheur en utilisant le niveau du sort stocké dans l’anneau, avec un modificateur de contre de [[/r 1d20+19]]. Une fois ceci fait, l’énergie du sort stockée est dépensée et l’anneau est vide.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Sur ordre</p> \n<p><strong>Effet</strong>Vous dépensez le sort stocké sans qu’il produise son effet et vous videz l’anneau pour pouvoir lancer un autre sort en le stockant à l’intérieur.</p>"
@@ -4484,7 +4544,7 @@
         {
             "id": "Exsanguinating Ammunition",
             "name": "Exsanguinating Ammunition (Munition exsangue)",
-            "description": "<p><strong>Munitions</strong> toutes</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p>Ces munitions comprennent un petit réservoir d'une substance rouge collante qui recouvre les balles lorsque vous les activez. La substance fait saigner une créature plus facilement. Pendant 1 minute après que vous avez infligé des dégâts à une créature avec une munition exsangue activée, cette créature gagne une faiblesse de 1 aux dégâts de saignement persistants. De plus, le DD de tout test nu pour mettre fin aux dégâts persistants passe de 15 à 17 (de 10 à 12 lorsque vous recevez une aide particulièrement efficace) pendant toute la durée.</p>\n<p>@Compendium[pf2e.equipment-effects.Fz3cSffzDAxhCh2D]{Effet : Munition exsangue}</p>"
+            "description": "<p><strong>Munitions</strong> toutes</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p>Ces munitions comprennent un petit réservoir d'une substance rouge collante qui recouvre les balles lorsque vous les activez. La substance fait saigner une créature plus facilement. Pendant 1 minute après que vous avez infligé des dégâts à une créature avec une munition exsangue activée, cette créature gagne une faiblesse de 1 aux dégâts de saignement persistants. De plus, le DD de tout test nu pour mettre fin aux dégâts persistants passe de 15 à 17 (de 10 à 12 lorsque vous recevez une aide particulièrement efficace) pendant toute la durée.</p>\n<p>@Compendium[pf2e.equipment-effects.Fz3cSffzDAxhCh2D]{Effet: Munition exsangue}</p>"
         },
         {
             "id": "Doubling Rings",
@@ -4922,6 +4982,11 @@
             "description": "<p>Cette petite amulette en forme de cœur semble être sculptée dans la pierre avec un unique filet de lumière faible qui la traverse, telle une braise placée juste sous la cendre. Lorsqu'elle est portée, l'amulette dégage une douce chaleur, comme si vous étiez près d'une cheminée. Vous gagnez une résistance au poison de 15 lorsque vous portez cette amulette.</p>\n<p>Lorsque vous investissez l'amulette, vous augmentez votre score de Constitution de 2 ou vous l'augmentez à 18, selon ce qui vous donnerait le score le plus élevé.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">2</span> Interagir (guérison, magie, nécromancie, positif)</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p>Vous tenez l'amulette en l'air tandis qu'une vague de lumière orangée chaude est libérée du cœur de braise. Chaque allié dans une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"30\">émanation de 9 mètres</span> regagne [[/r 30 #points de vie]]{30 points de vie} et gagne un bonus de statut de +3 à ses jets de Vigueur jusqu'à la fin de son prochain tour.</p>\n<p>@Compendium[pf2e.equipment-effects.J0YS8mQsQ1BmT6Xv]{Effet: Cœur de braise}</p>"
         },
         {
+            "id": "Big Rock Bullet (Greater)",
+            "name": "Big Rock Bullet (Greater) (Bille gros rocher supérieure)",
+            "description": "<p><strong>Munition</strong> Bille de fronde</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Une bille gros rocher est une bille de fronde faite de granit lourd, mais chaque munition semble beaucoup plus dense qu'elle n'y paraît. Lorsqu'elle est activée, une bille gros rocher se transforme en un rocher géant juste avant de frapper la cible. La cible subit [[/r {8d6}[bludgeoning]]]{8d6 dégâts contondants supplémentaires} en cas d'attaque réussie. Même sur un jet d'attaque raté (mais pas sur un échec critique), la cible subit [[/r {4d6}[bludgeoning]]]{4d6 dégâts contondants}. Les créatures dotées de la réaction @Compendium[pf2e.bestiary-ability-glossary-srd.uG0Z8PsyZtsYuvGR]{Interception de rochers} peuvent l'utiliser contre une bille gros rocher.</p>"
+        },
+        {
             "id": "Hand of the Mage",
             "name": "Hand of the Mage (Main du mage)",
             "description": "<p>Cette main d’elfe momifiée est accrochée à une chaîne en or, ses doigts tordus figés dans une position particulière.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Sur ordre, Imaginer</p> \n<p><strong>Effet</strong> Vous lancez @Compendium[pf2e.spells-srd.pwzdSlJgYqN7bs2w]{Manipulation à distance}.</p>"
@@ -5245,6 +5310,11 @@
             "id": "Potion of Stable Form",
             "name": "Potion of Stable Form (Potion de forme stable)",
             "description": "<p>Cette potion aromatique est brassée à partir des fleurs blanches et des racines noires du moly, une herbe magique. Lorsque vous buvez cette potion, elle tente immédiatement de contrer tous les effets de transmutation hostiles qui vous affectent (niveau de contre 5, modificateur de contre +17). Pendant l'heure qui suit, vous gagnez un bonus d'objet de +2 contre les effets de transmutation et de +3 contre les effets de métamorphose. Si vous obtenez un succès contre un effet de métamorphose pendant cette période, vous obtenez un succès critique à la place.</p>\n<p>@Compendium[pf2e.equipment-effects.uVxs1qFMQsGWXNs6]{Effet : Potion de forme stable}</p>"
+        },
+        {
+            "id": "Mudrock Snare",
+            "name": "Mudrock Snare (Piège artisanal de boue solidifiée)",
+            "description": "<p>De l'argile cuite recouvre une fosse de boue fine entrecoupée de fragiles fioles de sang de dragon bleu. La première créature à pénétrer sur la case brise l'argile et s'enfonce dans la fosse, fracturant les fioles et durcissant rapidement la boue au contact du sang de dragon bleu. Cette créature doit tenter un jet de <span data-pf2-check=\"fortitude\" data-pf2-traits=\"consumable,bkobold,mechanical,snare,trap\" data-pf2-label=\"DD de boue solidifiée\" data-pf2-dc=\"29\" data-pf2-show-dc=\"gm\">Vigueur</span> DD 29 alors que la boue se durcit sur ses jambes.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature subit une pénalité de circonstances de 1,5 mètres à ses Vitesses pendant une minute ou jusqu'à ce qu'elle s'Échappe (DD 27).</p>\n<p>@Compendium[pf2e.equipment-effects.6p2Sjl7XxCc55ft4]{Effet : Piège artisanal de boue solidifiée (Succès)}</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie} 2, et subit une pénalité de cironstances de - 3 mètres à toutes ses Vitesses ou jusqu'à ce qu'elle s'Échappe (DD 27).</p>\n<p>@Compendium[pf2e.equipment-effects.UTtX0xLGYci6P43I]{Effet : Piège artisanal de boue solidifiée (Échec)}</p>\n<p><strong>Échec critique</strong> La créature est Étourdie 3 et @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} pendant 1 minute ou jusqu'à ce qu'elle s'Échappe (DD 27).</p>\n<hr />\n<p><strong>Conditions de fabrication</strong> Fournir du sang de dragon pour une valeur de 75 pièces d'or</p>"
         },
         {
             "id": "Greataxe",
@@ -5707,6 +5777,11 @@
             "description": "<p>Une ancienne arme de duel taldorienne datant de l'apogée de l'empire, cette rapière possède une lame plus épaisse que la normale qui est façonnée en une spirale en forme de tire-bouchon bien adaptée pour attraper les armes ennemies. Les personnages originaires du Taldor ont accès à la rapière spiralée.</p>"
         },
         {
+            "id": "Stepping Stone Shot (Greater)",
+            "name": "Stepping Stone Shot (Greater) (Tir pierre de gué supérieur)",
+            "description": "<p><strong>Munition</strong> Cartouche</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Imaginer, Interagir</p>\n<p>Une série de petits disques de pierre pressés pour former une seul balle composent cette munition. Lorsque vous tirez avec une pierre de gué activée, que vous parveniez à toucher ou non votre cible, le tir crée une série de supports sur une ligne sur laquelle les créatures peuvent marcher comme sur de la terre ferme. La ligne peut monter ou descendre avec un angle de 45 degrés. Les disques supportent n'importe quel poids, mais ne constituent pas un obstacle ; les créatures et les attaques peuvent les traverser si elles le souhaitent. Ils se réduisent en poussière si quelque chose tente de les déplacer ou de les Manipuler. Une créature peut utiliser une activité à deux actions, qui possède le trait Manipuler, pour marcher à sa vitesse sur les pierres tout en les faisant s'effondrer derrière elle. Cette munition ne fonctionne pas dans les armes à feu dotées du trait dispersion.</p>\n<p>Les pierres atteignent jusqu'à 75 mètres et durent jusqu'à une minute si personne ne les fait s'effondrer. Cependant, la ligne ne peut pas s'étendre au-delà de la distance maximale pour une Frappe avec votre arme à feu (généralement six fois le facteur de portée de l'arme à feu).</p>"
+        },
+        {
             "id": "Unholy Water",
             "name": "Unholy Water (Eau impie)",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frapper</p>\n<p>La malveillance d’une divinité mauvaise se tapit dans cette fiole d’eau. L’eau impie s’active lorsque vous lancez la fiole lors d’une Frappe. C’est une arme de jet simple avec un facteur de portée de 6 mètres. Contrairement aux bombes alchimiques, elle n’ajoute pas le trait manipulation à l’attaque à laquelle elle est associée. </p>\n<p>L'eau impie  inflige 1d6 dégâts de mal et 1 dégâts d’éclaboussure de mal. Elle blesse seulement les célestes et les créatures dotées d’une faiblesse à l’égard des dégâts de mal.</p>"
@@ -5745,6 +5820,11 @@
             "id": "Flask of Fellowship",
             "name": "Flask of Fellowship (Gourde de fraternité)",
             "description": "<p>Cette gourde est faite de métal de 10 centimètres de diamètre et de 25 centimètres de hauteur. Son bouchon à vis est recouvert de quatre simples gobelets en métal qui s'emboîtent les uns dans les autres.</p>\n<hr />\n<p><strong>Activation</strong> Faire Bonne impression</p>\n<p><strong>Effet</strong>Si vous partagez une boisson à partir d'une Gourde de fraternité dans le cadre de votre action Faire bonne impression, la boisson qui se déverse de la gourde se trouve être exactement ce que la cible aime par dessus tout - du vin, des spiritueux, du thé chaud au gingembre ou de l'eau glacée avec du citron, par exemple. Vous gagnez un bonus d'objet de +1 à votre test de Diplomatie.</p>\n<p>Le MJ peut interdire l'utilisation de la gourde si cela n'a pas de sens ou si ce n'est pas le moment pour vous de sortir une gourde, si les boissons sont inappropriées pour l'occasion ou si votre cible n'a absolument pas envie de partager un verre avec vous. Les boissons de la Gourde de fraternité sont entièrement sociales ; elles n'enivreront personne, ni n'apaiseront une soif sérieuse.</p>\n<p>@Compendium[pf2e.equipment-effects.cjQHrvoXDCGOsptN]{Effet : Gourde de fraternité}</p>"
+        },
+        {
+            "id": "Fire and Iceberg",
+            "name": "Fire and Iceberg (Feu et iceberg)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Le paprika ardent Anulite, la cannelle de l'aube et la morsure de l'hiver se cachent dans les feuilles translucides de cette salade, apportant la fraîcheur de la neige et la chaleur de la vapeur à chaque bouchée. Ces sensations duelles font transpirer certains convives et frissonner d'autres, mais tous restent avec une sensation durable de chaleur et de froid qui fait pâlir les autres sources. Lorsque vous consommez la salade, vous obtenez une résistance 5 au feu et au froid pendant 1 minute.</p> <p>.\n<p>@Compendium[pf2e.equipment-effects.FOZXp7QQDnny1600]{Effet : Feu et Iceberg}</p>"
         },
         {
             "id": "Platinum Pieces",
@@ -5880,6 +5960,11 @@
             "id": "Boots of Bounding",
             "name": "Boots of Bounding (Bottes de saut)",
             "description": "<p>Les semelles élastiques de ces bottes de cuir épais amortissent les chocs sous vos pieds et allègent vos pas. Ces bottes vous confèrent un bonus d’objet de +1,50 mètres à votre Vitesse et un bonus d’objet de +2 aux tests d’Athlétisme pour Sauter en hauteur et Sauter en longueur. De plus, quand vous effectuez l’action Bondir, vous pouvez ajouter 1,50 mètres à la longueur ou 90 centimètres à la hauteur de vos sauts. </p>"
+        },
+        {
+            "id": "Enfilading Arrow",
+            "name": "Enfilading Arrow (Flèche en enfilade)",
+            "description": "<p><strong>Munition</strong> Flèche</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n <p>Cette flèche se divise à l'extrémité de son manche en cinq pointes de flèches ramifiées, ce qui la rend peu pratique pour les cibles uniques mais mortelle en combat. Lorsque vous tirez une flèche en enfilade activée, elle s'envole vers le haut et se brise en d'innombrables copies. Les flèches pleuvent ensuite en une rafale de 3 mètres en tout point situé dans le premier facteur de portée de votre arme, infligeant [[/r {6d8}[piercing]]]{6d8 dégâts perforants} à toutes les créatures situées dans la zone (<span data-pf2-check=\"reflex\" data-pf2-traits=\"consumable,ammunition,conjuration,magical\" data-pf2-label=\"DD Flèche en enfilade\" data-pf2-dc=\"25\" data-pf2-show-dc=\"all\">Réflexes basique</span> DD 25)</p>\n <p>Si la créature obtient un Échec critique à son jet de sauvegarde, vous pouvez appliquer les effets de critique spécialisé de l'arc, la cible devient @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} et doit dépenser une action d'Interaction pour tenter un test <span data-pf2-check=\"athletics\" data-pf2-traits=\"consumable,ammunition,conjuration,magical\" data-pf2-label=\"DD pour retirer la flèche immobilisante\" data-pf2-dc=\"10\" data-pf2-show-dc=\"all\">d'Athlétisme</span> DD 10 pour retirer la flèche qui l'immobilise ; elle ne pourra pas bouger jusqu'à ce qu'elle obtienne un succès.</p>"
         },
         {
             "id": "Hunger Oil",
@@ -6074,7 +6159,7 @@
         {
             "id": "Copper Dragon's Breath Potion (Adult)",
             "name": "Copper Dragon's Breath Potion (Adult) (Potion de souffle du dragon de cuivre adulte)",
-            "description": "<p>Ce liquide contient du sang d’un dragon de cuivre adulte. Pendant 1 heure après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait feu. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte une ligne de 9 mètres de dégâts d'acide'. Le souffle d'un dragon de cuivre adulte inflige [[/r 6d6 #acide]]{6d6 dégâts d'acide}. Toute créature à portée doit tenter un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"29\" data-pf2-traits=\"acid,evocation,magical,potion\" data-pf2-label=\"DD de la potion de souffle du dragon de cuivre adulte\" data-pf2-show-dc=\"gm\">Réflexe basique</span> save.</p> DD 29. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant [[/r 1d4 #rounds]]{1d4 rounds}. </p>"
+            "description": "<p>Ce liquide contient du sang d’un dragon de cuivre adulte. Pendant 1 heure après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait acide. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte une ligne de 9 mètres de dégâts d'acide. Le souffle d'un dragon de cuivre adulte inflige [[/r 6d6 #acide]]{6d6 dégâts d'acide}. Toute créature à portée doit tenter un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"29\" data-pf2-traits=\"acid,evocation,magical,potion\" data-pf2-label=\"DD de la potion de souffle du dragon de cuivre adulte\" data-pf2-show-dc=\"gm\">Réflexes basique</span> save.</p> DD 29. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant [[/r 1d4 #rounds]]{1d4 rounds}. </p>"
         },
         {
             "id": "Gold chalice with black pearls",
@@ -6170,6 +6255,11 @@
             "id": "Copper statuette of a salamander",
             "name": "Copper statuette of a salamander (Statuette de salamandre en cuivre)",
             "description": ""
+        },
+        {
+            "id": "Cold Comfort (Greater)",
+            "name": "Cold Comfort (Greater) (Confort fraicheur supérieur)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p><strong>Durée</strong> La glace créée par les pastilles dure 1 heure ou jusqu'à ce qu'elle soit brisée.</p>\n<hr />\n<p>L'engin appelé confort fraicheur est une poche étanche remplie d'une poignée de petites pastilles lourdes d'une couleur argentées. Lorsqu'elles sont vidées dans une étendue d'eau adjacente, les pastilles gèlent la surface de l'eau presque instantanément, créant un bloc de glace dans un carré de 6 mètres de côté jusqu'à une profondeur de 30 centimètres. Toute créature se trouvant dans cet espace doit tenter un jet de <span data-pf2-check=\"reflex\" data-pf2-traits=\"alchemical,cold,consumable,damaging-effect\" data-pf2-label=\"DD pour éviter de geler\" data-pf2-dc=\"34\" data-pf2-show-dc=\"all\">Réflexe basique</span> DD 34. En cas d'échec, la créature subit [[/r {4d6}[cold]]]{4d6 dégâts de froid} et est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} pendant 1 minute ou jusqu'à ce qu'elle s'échappe (DD 31) ou que la glace soit brisée. Le bloc de glace entier a une CA de 10, une solidité de 10, et 40 points de vie, et il est immunisé contre les coups critiques, les dégâts de froid et les dégâts de précision. La glace est suffisamment solide pour supporter une créature de très grande taille deux créature de grande taille ou jusqu'à huit créatures de taille moyenne ou petite. Traverser la glace glissante nécessite la réussite d'un test <span data-pf2-check=\"acrobatics\" data-pf2-traits=\"alchemcial,cold,consumable,action:balance\" data-pf2-label=\"Équilibre sur la glace\" data-pf2-dc=\"20\" data-pf2-show-dc=\"all\">Acrobatie</span> DD 20 pour garder l'équilibre.</p>"
         },
         {
             "id": "Torag's Silver Anvil",
@@ -6612,6 +6702,11 @@
             "description": "<p>Vous pouvez enduire un objet d’Encombrement 1 ou moins avec cette huile scintillante pour qu’il paraisse ne rien peser. Son Encombrement devient négligeable pendant 1 heure</p>"
         },
         {
+            "id": "Meteor Shot",
+            "name": "Meteor Shot (Balle météore)",
+            "description": "<p><strong>Munitions</strong> Cartouche</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<p>Ces cartouches en pierre anguleuse sont chaudes au toucher. Lorsque vous tirez une balle météore activée, lors de l'impact, elle explose en une petite nuée de météores, brûlant les créatures proches et jonchant le sol de gravats. En plus des dégâts normaux de l'arme, la balle météore inflige des dégâts de feu et le sol de la zone devient un terrain difficile.</p>\n<p>La munition inflige [[/r {3d6}[fire]]]{3d6 dégâts de feu} dans un @Template[type:emanation|distance:5|damaging:true] émanation de 1,5 m autour de la cible (<span data-pf2-check=\"reflex\" data-pf2-traits=\"damaging-effect, consumable, evocation, fire, magical, splash\" data-pf2-label=\"DD cartouche météore\" data-pf2-dc=\"23\" data-pf2-show-dc=\"gm\">Réflexes basique</span> DD 23). </p>\n<p>En outre, lorsque vous obtenez un Échec critique à votre attaque, vous subissez les effets suivants </p>\n<hr />\n<p><strong>Échec critique</strong> L'arme a des ratés.</p>"
+        },
+        {
             "id": "Bracelet of Dashing",
             "name": "Bracelet of Dashing (Bracelet de fougue)",
             "description": "<p>Ce bracelet argenté et tintant vous rend plus léger sur vos pieds, vous donnant un bonus d'objet de +1 aux tests d'Acrobatie.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Sur ordre</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Effet</strong> Vous gagnez un bonus de statut de +4,5 mètres à la Vitesse pendant 1 minute.</p>\n<p>@Compendium[pf2e.equipment-effects.lLP56tbG689TNKW5]{Effet: Bracelets de fougue}</p>"
@@ -6690,6 +6785,11 @@
             "id": "Tent (Pavilion)",
             "name": "Tent (Pavilion) (Tente pour 4 personnes)",
             "description": ""
+        },
+        {
+            "id": "Brewer's Regret",
+            "name": "Brewer's Regret (Regret du brasseur)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span>Interagir</p>\n<hr />\n<p>Lorsqu'un brasseur fait un mélange de quelque chose qu'il préfère ne pas boire, il le fait souvent bouillir ; il y ajoute de la myrrhe, de l'extrait d'armoise et du sel de violette ; et le vend aux chefs qui cherchent des sauces de sandwich bon marché. L'aigreur épaisse et salée gâche le goût de la plupart des autres aliments, mais elle crée aussi un fort désir de vivre pour savourer d'autres choses. Pendant une heure après l'avoir consommée, vous obtenez un bonus d'objet de +2 aux jets de sauvegarde contre la mort et les effets négatifs. De plus, votre valeur Condamné diminue de 1 (minimum 0). Vous ne pouvez réduire la condition Condamné avec le Regret du brasseur qu'une fois par jour, et après cela, vous ne pouvez plus réduire la condition Condamné avec le sort @Compendium[pf2e.spells-srd.SnaLVgxZ9ryUFmUr]{Restauration} le même jour (ou inversement).</p>\n<p>@Compendium[pf2e.equipment-effects.9e6iVkPpGqJYwMyb]{Effet : Regret du brasseur}</p>"
         },
         {
             "id": "Lich Dust",
@@ -7035,6 +7135,11 @@
             "id": "Chatterer of Follies",
             "name": "Chatterer of Follies (Bavardeur de folies)",
             "description": "<p>Ce lourd khakarra de Frappe +1 est forgé à partir d'acier solide et plaqué de pyrite. Des breloques métalliques en forme d'idoles grimaçantes ornent son grand anneau arqué et pendant le combat, alors que de minuscules vrilles de flammes s'envolent de la pyrite, ces poupées suspendues semblent jacasser au rythme du fracas et du vacarme de la bataille.</p>\n<p>Chaque fois que vous effectuez une action de déplacement pendant votre tour, choisissez une créature qui vous est adjacente à la fin de votre déplacement. Jusqu'à la fin de votre tour, cette créature subit une pénalité de statut de -1 aux jets de Volonté contre vos sorts d'enchantement et vos sorts d'illusion. Chaque fois que vous lancez vos sorts d'enchantement et d'illusion, vous devenez @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} pendant vos actions de déplacement pour le reste du tour.</p>\n<p>@Compendium[pf2e.equipment-effects.mQJk8R0vHzvpTz0e]{Effet: Bavardeur de folies }</p>"
+        },
+        {
+            "id": "Transposition Ammunition",
+            "name": "Transposition Ammunition (Munition de transposition)",
+            "description": "<p><strong>Munitions</strong> toutes</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">2</span> Interagir</p>\n<hr />\n<p>Les munitions de transposition ont une teinte blanc laiteux et changent parfois subtilement de position de leur propre chef. Lorsque vous activez la munition, au lieu de faire une Frappe contre un ennemi, vous tirez la munition de transposition vers n'importe quelle case inoccupée que vous pouvez voir dans le premier facteur de portée de votre arme et vous réussissez sans faire de jet d'attaque. Vous vous attirez à travers le Plan Astral, vous téléportant avec les objets que vous tenez dans la case où vous avez tiré la munition. Si cela devrait entraîner toute autre créature (même celle qui se trouve dans un espace extra dimensionnel), l'activation échoue.</p>"
         },
         {
             "id": "Engraved copper ring",
@@ -7448,8 +7553,8 @@
         },
         {
             "id": "Berserker's Cloak (Greater)",
-            "name": "Berserker's Cloak (Greater) (Cape du berseker (supérieure))",
-            "description": "Cette peau d’ours comporte la tête et les crocs de la puissante créature sur laquelle on l’a prélevée. Une fois portée, la cape recouvre votre tête et vos épaules en vous insufflant la férocité d’un ours. Si vous pouvez faire l’action Rage et que vous êtes en rage, des crocs qui infligent 1d10 dégâts perforants poussent dans votre bouche et des griffes qui infligent 1d6 dégâts tranchants et qui ont le trait agile poussent sur vos mains. Il s’agit d’un effet de transformation et les crocs comme les griffes sont des attaques à mains nues du groupe d’armes de pugilat. Vous bénéficiez des avantages d’une rune de puissance d’arme +2 et d’une rune de frappe avec ces attaques (ce qui vous confère un bonus d’objet de +2 aux jets d’attaque et augmente de 2 le nombre de dés de dégâts d’arme).</p>\n<p>Si vous avez un instinct animal et le pouvoir d’instinct rage bestiale, au lieu d’obtenir ces attaques à mains nues, les attaques à mains nues que vous faites grâce à la rage, vous bénéficiez des avantages d’une rune de puissance d’arme +2 et d’une rune de frappe supérieure, ou d’une rune de puissance d’arme +3 et d’une rune de frappe majeure si vous avez un instinct animal et le pouvoir d’instinct rage bestiale. .</p>\n<p><strong>Conditions de fabrication</strong> Vous êtes un barbare avec l’instinct animal.</p>"
+            "name": "Berserker's Cloak (Greater) (Cape du berseker supérieure))",
+            "description": "<p>Cette peau d’ours comporte la tête et les crocs de la puissante créature sur laquelle on l’a prélevée. Une fois portée, la cape recouvre votre tête et vos épaules en vous insufflant la férocité d’un ours.</p>\n<p>Si vous pouvez faire l’action Rage, lorsque vous êtes en rage, des crocs qui infligent 1d10 dégâts perforants poussent dans votre bouche et des griffes qui infligent 1d6 dégâts tranchants et qui ont le trait agile poussent sur vos mains. Il s’agit d’un effet de transformation et les crocs comme les griffes sont des attaques à mains nues du groupe d’armes de pugilat. Vous bénéficiez des avantages d’une rune de puissance d’arme +2 et d’une rune de frappe avec ces attaques (ce qui vous confère un bonus d’objet de +2 aux jets d’attaque et augmente de 2 le nombre de dés de dégâts d’arme).</p>\n<p>Si vous avez un instinct animal et le pouvoir d’instinct rage bestiale, au lieu d’obtenir ces attaques à mains nues, les attaques à mains nues que vous faites grâce à la rage, vous bénéficiez des avantages d’une rune de puissance d’arme +3 et d’une rune de frappe supérieure (ce qui vous confère un bonus d’objet de +3 aux jets d’attaque et augmente de 3 le nombre de dés de dégâts d’arme)..</p>\n<p><strong>Conditions de fabrication</strong> Vous êtes un barbare avec l’instinct animal.</p>"
         },
         {
             "id": "Carnelian",
@@ -7495,6 +7600,11 @@
             "id": "Aquamarine",
             "name": "Aquamarine (Aigue-marine)",
             "description": ""
+        },
+        {
+            "id": "Fairy Bullet",
+            "name": "Fairy Bullet (Balle féérique)",
+            "description": "<p><strong>Munition</strong> cartouche</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">2</span> Sur ordre, Imaginer</p>\n<p>Ces balles d'un vert algue réfractent la lumière comme une émeraude et sont recouvertes d'une fine pellicule de poudre gris-vert. Lorsqu'elle est tirée, une balle féérique crée un effet qui fonctionne comme le sort @Compendium[pf2e.spells-srd.0qaqksrGGDj74HXE]{Poussière scintillante} dans une ligne entre vous et votre cible. Cette ligne ne peut pas faire plus de 18 mètres de long, de sorte que si la cible est à plus de 18 mètres de vous, la ligne se termine simplement après avoir atteint sa distance maximale. Puisque la balle féérique est tirée avant que Poussière scintillante ne puisse révéler la cible, les effets n'affectent pas le test nu pour le jet d'attaque avec la balle féérique.</p>"
         },
         {
             "id": "Explosive Ammunition",
@@ -7792,6 +7902,11 @@
             "description": "<p>Une crosse renforcée est une arbalète lestée, un manche d'arme à feu ou une poignée personnalisée pour frapper au corps-à-corps.</p>"
         },
         {
+            "id": "Malleable Mixture (Greater)",
+            "name": "Malleable Mixture (Greater) (Mixture de mollesse supérieure)",
+            "description": "<p>Vos os, vos muscles et vos organes deviennent largement plus mous et plus souples. Vous pouvez vous glisser dans et à travers des espaces petits ou étroits comme si vous aviez une taille de moins que votre taille normale (minimum petit), et vous gagnez un bonus d'objet de +3 à vos DD de Vigueur et de Réflexes contre les tentatives de vous Saisir, de vous Bousculer ou de vous faire Trébucher pendant 10 minutes.</p>\n<p>@Compendium[pf2e.equipment-effects.cozi2kUELY40Dcv3]{Effet: Mixture de mollesse inférieure}</p>"
+        },
+        {
             "id": "Stiletto Pen",
             "name": "Stiletto Pen (Stylo à lame)",
             "description": "<p>Cette arme est un stylo à encre somptueux entièrement fonctionnel avec un clip qui peut être attaché à une poche ou une bandoulière et facilement récupéré par une action libre. L'utilisation d'une action pour interagir avec le stylo permet à son détenteur de faire jaillir une lame de stiletto qui glisse librement du haut du corps ou de rattacher la lame précédemment sortie.</p>"
@@ -7810,6 +7925,11 @@
             "id": "Disrupting",
             "name": "Disrupting (Pertubatrice (rune))",
             "description": "<p>Une arme perturbatrice bouillonne d’énergie positive en infligeant 1d6 dégâts positifs supplémentaires aux morts‑vivants. En cas de coup critique, le mort‑vivant est également Affaibli 1 jusqu’à la fin de votre prochain tour.</p>"
+        },
+        {
+            "id": "Clockwork Spider Bomb",
+            "name": "Clockwork Spider Bomb (Araignée mécanique explosive)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Si les arachnophobes n'ont pas à craindre l'apparence arachnéenne de cet engin, ils devraient probablement s'inquiéter s'il se met à faire tic-tac. Lorsque vous activez la bombe-araignée, vous la posez sur le sol et l'araignée mécanique avance de 1,5 mètre en ligne droite, continuant à avancer de 1,5 mètre dans la même ligne droite à la fin de chacun de vos tours pendant les 4 rounds suivants (se déplaçant d'un total de 7,5 mètres) S'il subit des dégâts pendant ce temps, son abdomen bulbeux explose en une flamme rageuse, infligeant [[/r {5d6}[fire]]]{5d6 dégâts de feu} à toutes les créatures dans une <span data-pf2-effect-area=\"burst\" data-pf2-distance=\"5\">explosion de 1,5 mètres</span> (<span data-pf2-check=\"reflex\" data-pf2-traits=\"clockwork,consumable,gadget,fire\" data-pf2-label=\"DD de l'explosion de l'araignée-bombe\" data-pf2-dc=\"24\" data-pf2-show-dc=\"all\">Réflexes basique</span>) DD 24. Vous pouvez également l'activer une seconde fois avec une activation par mot de commande en une seule action, ce qui la fait exploser. La bombe-araignée a une CA de 10, 5 points de vie et +0 à tous les jets de sauvegarde. Après avoir explosé, la bombe-araignée est complètement détruite, quels que soient les effets de sa détonation. Si elle survit jusqu'à la fin de la durée des 4 rounds sans qu'elle explose, l'araignée perd sa charge explosive de manière inoffensive et tombe en morceaux.</p>"
         },
         {
             "id": "Dueling Pistol",
@@ -7963,7 +8083,7 @@
         },
         {
             "id": "Specialist's Ring (Necromancy)",
-            "name": "Specialist's Ring (Necromancy) (Anneau du spécialiste (Évocation))",
+            "name": "Specialist's Ring (Necromancy) (Anneau du spécialiste (Nécromancie))",
             "description": "<p>Cet anneau du spécialiste est dédié à une école de magie : La nécromancie. L'anneau est couvert de symboles et de glyphes en lien avec cette école en fonction des études arcaniques de son créateur. Vous obtenez un bonus d'objet de +2 aux tests d'Arcanes et un bonus de circonstances de +1 pour reconnaître les effets magiques et les objet de cette école de magie.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">f</span> Imaginer ;</p>\n<p><strong>Fréquence</strong> une fois par jour ;</p>\n<p><strong>Effet</strong> Vous obtenez 1 Point de focalisation, que vous ne pouvez utiliser que pour lancer un sort de l'école de magicien correspondant à l'anneau. S'il n'est pas utilisé avant la fin de votre tour, ce Point de focalisation est perdu.</p>"
         },
         {
@@ -8177,6 +8297,11 @@
             "description": ""
         },
         {
+            "id": "Rhino Shot",
+            "name": "Rhino Shot (Tir de rhino)",
+            "description": "<p><strong>Munition</strong> Toutes</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Cette flèche est fabriquée en corne d'animal polie, avec la tête d'un rhinocéros sculptée à la place de la pointe de flèche traditionnelle. Lorsqu'un tir de flèche rhino activée est effectué, la forme éthérée d'un grand rhinocéros prend consistance autour du projectile. En cas de frappe réussie, l'attaque inflige 2d6 dégâts de force supplémentaires et la cible doit réussir un jet de Vigueur DD 19 ou tomber @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}. Si le coup porté par le flèche rhino a été un succès critique, la cible tombe À terre, à moins qu'elle n'obtiennent un succès critique à son jet de sauvegarde.</p>\n<p>@Compendium[pf2e.equipment-effects.lgvjbbQiHBGKR3C6]{Effet : Tir de rhino}</p>"
+        },
+        {
             "id": "Thieves' Tools (Infiltrator Picks)",
             "name": "Thieves' Tools (Infiltrator Picks) (Crochets d'infiltration)",
             "description": "<p> vous avez besoin d’outils de voleur pour Crocheter des serrures ou Désamorcer des dispositifs (de certains types) à l’aide de la compétence Vol. Les outils de voleur d’infiltration ajoutent un bonus d’objet de +1 aux tests pour Crocheter des serrures et Désamorcer des dispositifs. Si vos outils de voleur sont brisés, vous pouvez les réparer en remplaçant les crochets par des crochets de rechange adaptés à vos outils ; cela ne nécessite pas l’utilisation de l’action Réparer. </p>"
@@ -8195,6 +8320,11 @@
             "id": "Cloak of Feline Rest",
             "name": "Cloak of Feline Rest (Cape du repos félin)",
             "description": "<p>Cette cape en velours noir est dépourvue de caractéristiques et très douce au toucher. En la portant pour la première fois, vous êtes momentanément envahi par un sentiment de confort et de douilletterie. En portant cette cape, vous pouvez vous reposer confortablement dans n'importe quel espace, tant qu'il n'est pas humide ou particulièrement dangereux. Lorsque vous dormez dans cette cape, vous ne subissez qu'une pénalité de statut de -2 aux tests de Perception auditive, au lieu d'une pénalité de statut de -4.</p>"
+        },
+        {
+            "id": "Malleable Mixture (Lesser)",
+            "name": "Malleable Mixture (Lesser) (Mixture de mollesse inférieure)",
+            "description": "<p>Vos os, vos muscles et vos organes deviennent largement plus mous et plus souples. Vous pouvez vous glisser dans et à travers des espaces petits ou étroits comme si vous aviez une taille de moins que votre taille normale (minimum petit) et vous gagnez un bonus d'objet de +2 à vos DD de Vigueur et de Réflexes contre les tentatives pour vous Saisir, vous Pousser ou de vous faire un Croc-en-jambe pendant 1 minute.</p>\n<p>@Compendium[pf2e.equipment-effects.cozi2kUELY40Dcv3]{Effet : Mixture de mollesse inférieure}</p>"
         },
         {
             "id": "Specialist's Ring (Divination)",
@@ -8468,7 +8598,7 @@
         },
         {
             "id": "Boots of Bounding (Greater)",
-            "name": "Boots of Bounding (Greater) (Bottes de saut (supérieur))",
+            "name": "Boots of Bounding (Greater) (Bottes de saut supérieures)",
             "description": "<p>Les semelles élastiques de ces bottes de cuir épais amortissent les chocs sous vos pieds et allègent vos pas. Ces bottes vous confèrent un bonus d’objet de +3 mètres à votre Vitesse et un bonus d’objet de +3 aux tests d’Athlétisme pour Sauter en hauteur et Sauter en longueur. De plus, quand vous effectuez l’action Bondir, vous pouvez ajouter 1,50 mètres à la longueur ou 90 centimètres à la hauteur de vos sauts. </p>"
         },
         {
@@ -8539,7 +8669,7 @@
         {
             "id": "Toadskin Salve",
             "name": "Toadskin Salve (Baume Peau de crapaud)",
-            "description": "<p>Cette pommade épaisse et huileuse réagit avec l'air pour exsuder un mucus toxique lorsqu'elle est appliquée sur la peau. Une fois appliquée, vous pouvez activer la pommade de l'une des deux manières détaillées ci-dessous. Une fois l'une ou l'autre réaction utilisée, le mucus restant perd ses propriétés de réaction et tombe, l'effet prenant fin. Vous ne pouvez appliquer qu'une seule dose à la fois. Si vous n'utilisez aucune des deux réactions, après 10 minutes, le mucus s'écaille et l'effet prend fin.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">r</span> Interagir</p>\n<p><strong>Déclencheur</strong> Vous touchez la créature avec une Frappe au corps-à-corps</p>\n<p><strong>Effet</strong> Vous projetez du mucus sur votre cible, infligeant [[/r 1d4 #poison persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de poison persistant}.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">r</span> Interagir</p>\n<p><strong>Déclencheur</strong> Vous êtes touché par une attaque de corps à corps qui inflige des dégâts physiques</p>\n<p><strong>Effet</strong> Le mucus absorbe le coup, vous accordant une résistance de 3 aux dégâts physiques contre l'attaque déclencheuse.</p>"
+            "description": "<p>Cette pommade épaisse et huileuse réagit avec l'air pour exsuder un mucus toxique lorsqu'elle est appliquée sur la peau. Une fois appliquée, vous pouvez activer la pommade de l'une des deux manières détaillées ci-dessous. Une fois l'une ou l'autre réaction utilisée, le mucus restant perd ses propriétés de réaction et tombe, l'effet prenant fin. Vous ne pouvez appliquer qu'une seule dose à la fois. Si vous n'utilisez aucune des deux réactions, après 10 minutes, le mucus s'écaille et l'effet prend fin.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">r</span> Interagir</p>\n<p><strong>Déclencheur</strong> Vous touchez la créature avec une Frappe au corps-à-corps</p>\n<p><strong>Effet</strong> Vous projetez du mucus sur votre cible, infligeant [[/r 1d4 #poison persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de poison persistant}.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">r</span> Interagir</p>\n<p><strong>Déclencheur</strong> Vous êtes touché par une attaque de corps-à-corps qui inflige des dégâts physiques</p>\n<p><strong>Effet</strong> Le mucus absorbe le coup, vous accordant une résistance de 3 aux dégâts physiques contre l'attaque déclencheuse.</p>"
         },
         {
             "id": "Blightburn Sickness",
@@ -8585,6 +8715,11 @@
             "id": "Sunrod",
             "name": "Sunrod (Bâton éclairant)",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p>Ce bâton d'une trentaine de centimètres de long au bout doré brille lorsqu'il est frappé contre une surface solide. Pendant les 6 prochaines heures, il génère une lumière vive dans un rayon de 6 mètres (et une lumière faible dans les 12 mètres suivants).</p>"
+        },
+        {
+            "id": "Server's Stew",
+            "name": "Server's Stew (Ragoût du serveur)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Le type de langue animale utilisé dans ce ragoût à base de tomates varie d'une région à l'autre mais il est toujours cuisiné avec un spiritueux et assaisonné de @Compendium[pf2e.equipment-srd.Vy3z2cIQ8uJRUMYw]{Pesh raffiné}. Manger ce plat, favori du personnel du restaurant, vous donne le pouvoir de parler et de comprendre une seule langue pendant 1 heure. Il doit s'agir d'une langue que le cuisinier du ragoût pouvait parler et comprendre, choisie au moment de la création du ragoût. Il aide également vos mots à atterrir en douceur, vous accordant un bonus d'objet de +2 aux tests de Diplomatie effectués dans cette langue pendant la même durée. Il ne vous permet pas de lire la langue nouvellement acquise dans sa forme écrite.</p>\n<p>@Compendium[pf2e.equipment-effects.ehYmO1rFBt35zoOw]{Effet : Ragoût du serveur}</p>"
         },
         {
             "id": "Battle Lute",
@@ -8739,7 +8874,7 @@
         {
             "id": "Aroden's Hearthstone",
             "name": "Aroden's Hearthstone (Cardioline d'Aroden)",
-            "description": "Cette pierre précieuse de la taille d'une pièce de monnaie peut être utilisée seule mais doit être incluse dans la construction d'un foyer afin d'activer pleinement sa magie ;\n<hr />\n<p><strong>Activation</strong> 3 jours (Interagir)</p>\n<p><strong>Fréquence</strong> 4 fois par an</p>\n<p><strong>Conditions</strong> Vous avez une compétence légendaire en artisanat</p>\n<p><strong>Effet</strong> Vous fabriquez une arme ou une armure magique jusqu'au Niveau 20. Vous devez tenter un test d’artisanat comme d’habitude pour créer l’article, mais vous n’avez besoin de fournir que des matières premières valant un quart du prix de l’article, et vous n’avez pas besoin de payer la partie restante du prix de l’article ni de passer des jours d’arrêt supplémentaires à travailler dessus. Tant que la cardioline d'Aroden est active, les étoiles dans le ciel, y compris le soleil de Golarion, semblent briller plus fort dans un rayon de 160 km autour d'elle.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">T</span> Sur ordre, Imaginer</p>\n<p><strong>Fréquence</strong> une fois par mois</p>\n<p><strong>Effet</strong> La cardioline d'Aroden'aspire la chaleur du monde lui-même, faisant chuter la température ambiante en dessous de -18°degrés celsius dans un rayon de 160 kilomètres. À moins d'un kilomètre de la Cardioline, la température tombe à -93° degrés celsius rivalisant avec le froid glacial de l'espace et infligeant 4d6 points de dégâts de froid par round à toutes les créatures de la zone. Cet effet dure 1 minute, pendant laquelle la lune la plus proche (probablement celle de Golarion) apparaît d'un bleu sinistre à tout observateur se trouvant à moins de 160 kilomètres de la pierre angulaire. Au bout d'une minute, la cardioline émet un souffle de chaleur concentrée qui inflige 25d6 points de dégâts de feu aux créatures et aux objets situés dans un rayon de 45 mètres.</p>\n<hr />\n<p><strong>Destruction</strong> L’utilisation de la cardioline d’Aroden pour fabriquer un objet maudit se solde par un échec de la création et provoque la division de la pierre précieuse en cinq morceaux de taille égale mais magiquement impuissants. Au cours d'une année, quatre de ces morceaux tombent en poussière, tandis que le cinquième s'agrandit pour atteindre la taille de l'artefact d'origine et porte à nouveau ses pouvoirs. Pour détruire la cardioline d'Aroden, chacun des morceaux séparés doit être plongé dans l'une des cinq étoiles qui composent la constellation cosmique connue sous le nom de Follower.</p>"
+            "description": "<p>Cette pierre précieuse de la taille d'une pièce de monnaie peut être utilisée seule mais doit être incluse dans la construction d'un foyer afin d'activer pleinement sa magie</p>\n<hr />\n<p><strong>Activation</strong> 3 jours (Interagir)</p>\n<p><strong>Fréquence</strong> 4 fois par an</p>\n<p><strong>Conditions</strong> Vous avez une compétence légendaire en artisanat</p>\n<p><strong>Effet</strong> Vous fabriquez une arme ou une armure magique allant jusqu'au Niveau 20. Vous devez tenter un test d’artisanat comme d’habitude pour créer l’objet mais vous n’avez besoin de fournir que des matières premières valant un quart du prix de l’article et vous n’avez pas besoin de payer la partie restante du prix de l’objet ni de passer des jours d’arrêt supplémentaires à travailler dessus. Tant que la cardioline d'Aroden est active, les étoiles dans le ciel, y compris le soleil de Golarion, semblent briller plus fort dans un rayon de 160 km autour d'elle.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">T</span> Sur ordre, Imaginer</p>\n<p><strong>Fréquence</strong> une fois par mois</p>\n<p><strong>Effet</strong> La cardioline d'Aroden'aspire la chaleur du monde lui-même, faisant chuter la température ambiante en dessous de -18°degrés celsius dans un rayon de 160 kilomètres. À moins d'un kilomètre de la cardioline, la température tombe à -93° degrés celsius rivalisant avec le froid glacial de l'espace et infligeant 4d6 points de dégâts de froid par round à toutes les créatures de la zone. Cet effet dure 1 minute, pendant laquelle la lune la plus proche (probablement celle de Golarion) apparaît d'un bleu sinistre à tout observateur se trouvant à moins de 160 kilomètres de la cardioline. Au bout d'une minute, la cardioline émet un souffle de chaleur concentrée qui inflige 25d6 points de dégâts de feu aux créatures et aux objets situés dans un rayon de 45 mètres.</p>\n<hr />\n<p><strong>Destruction</strong> L’utilisation de la cardioline d’Aroden pour fabriquer un objet maudit se solde par un échec de la création et provoque la division de la pierre précieuse en cinq morceaux de taille égale mais magiquement impuissants. Au cours d'une année, quatre de ces morceaux tombent en poussière, tandis que le cinquième s'agrandit pour atteindre la taille de l'artefact d'origine et porte à nouveau ses pouvoirs. Pour détruire la cardioline d'Aroden, chacun des morceaux séparés doit être plongé dans l'une des cinq étoiles qui composent la constellation cosmique connue sous le nom du Suivant.</p>"
         },
         {
             "id": "Silver mirror with gilded frame",
@@ -9072,6 +9207,11 @@
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<hr />\n<p>L’élixir de vie accélère le processus de guérison naturel du corps et son système immunitaire. En le buvant, vous récupérez [[/r 7d6+18]]{7d6+18 points de vie} indiqué et gagnez un bonus d’objet de +2 aux jets de sauvegarde contre la maladie et le poison pendant 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.Z9oPh462q82IYIZ6]{Effet: Élixir de vie (supérieur)}</p>"
         },
         {
+            "id": "Wet Shock Snare",
+            "name": "Wet Shock Snare (Piège artisanal de choc humide)",
+            "description": "<p>Une plaque de cuivre cachée dissimule un sac d'anguilles électriques. Lorsqu'une créature marche sur la plaque, les anguilles s'agitent et la créature subit [[/r {4d8}[electricity damage]]]{4d8 dégâts d'électricité}. (<span data-pf2-check=\"reflex\" data-pf2-traits=\"uncommon,consumable,electricity,mechanical,snare,trap,damaging-effect\" data-pf2-label=\"DD du Piège douche de choc\" data-pf2-dc=\"21\" data-pf2-show-dc=\"all\">Réflexes basique</span> DD 21). En cas d'échec critique, à cause du courant éléctrique, la créature est @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie} 2. Les anguilles ne sont pas blessées après utilisation, mais le mécanisme est brisé comme à l'ordinaire avec les pièges artisanaux.</p>"
+        },
+        {
             "id": "Silver Dragon's Breath Potion (Adult)",
             "name": "Silver Dragon's Breath Potion (Adult) (Potion de souffle du dragon d'argent adulte)",
             "description": "<p>Ce liquide contient du sang d’un dragon d'argent adulte. Pendant 1 heure après l’avoir bu, vous pouvez souffler comme un tel dragon. Le souffle possède le trait froid. </p>\n<p>Il suffit d’une action unique pour souffler. Le souffle affecte un cône de 4,5 mètres de dégâts de froid. Le souffle d'un dragon d'argent adulte inflige [[/r 6d6 #froid]]{6d6 dégâts de froid}.  Toute créature à portée doit tenter un jet de  <span data-pf2-check=\"reflex\" data-pf2-dc=\"29\" data-pf2-traits=\"cold,evocation,magical,potion\" data-pf2-label=\"DD de la potion de souffle du dragon d'argent adulte\" data-pf2-show-dc=\"gm\">Réflexe basique</span> DD 29. </p>\n<p> Une fois que vous avez soufflé, vous ne pouvez plus le faire pendant [[/r 1d4 #rounds]]{1d4 rounds}. </p>"
@@ -9363,7 +9503,7 @@
         },
         {
             "id": "Armor Potency (+2)",
-            "name": "Armor Potency (+2) (Puissance d'armure +2)",
+            "name": "Armor Potency (+2) (Puissance d'armure +2 (rune))",
             "description": "<p>Des protections magiques dévient les attaques. Augmentez de 2 le bonus d’objet à la CA de l’armure. On peut graver deux runes de propriété sur l’armure.</p>\n<p>Vous pouvez améliorer la rune de puissance déjà gravée sur une armure en une version plus puissante, ce qui remplace les valeurs de la rune existante par celles de la nouvelle. Vous devez pour cela avoir la formule de la rune plus puissante et le prix de l’amélioration est égal à la différence de prix entre les deux runes.</p>\n<p><strong>Conditions de fabrication</strong> Vous êtes un maître en Artisanat.</p>"
         },
         {
@@ -9393,7 +9533,7 @@
         },
         {
             "id": "Bomber's Eye Elixir (Greater)",
-            "name": "Bomber's Eye Elixir (Greater) (Elixir du mitrailleur (supérieur))",
+            "name": "Bomber's Eye Elixir (Greater) (Élixir du mitrailleur supérieur)",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir</p>\n<p>Cette teinture vous aide à localiser vos ennemis. Pendant les 5 minutes qui suivent, vos Frappes avec des bombes alchimiques réduisent le bonus de circonstances à la CA que vos cibles obtiennent grâce à un abri. Réduisez le bonus de circonstances de la cible de 2.</p>"
         },
         {
@@ -9832,6 +9972,11 @@
             "description": "<p>Cet anneau en or rose est orné en son centre d'un crâne cornu à l'aspect quelque peu inquiétant. Cet anneau vous donne le pouvoir de lancer les tours de magie arcaniques innés suivants un nombre illimité de fois par jour : @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie}, @Compendium[pf2e.spells-srd.pwzdSlJgYqN7bs2w]Manipulation à distance} et @Compendium[pf2e.spells-srd.Qw3fnUlaUbnn7ipC]{Prestidigitation}. Chaque sort est lancé comme un sort de Niveau 1. Si vous êtes un lanceur de sorts arcaniques, ces sorts peuvent être intensifiés selon votre niveau de lanceur de sorts.</p>"
         },
         {
+            "id": "Big Rock Bullet",
+            "name": "Big Rock Bullet (Bille gros rocher)",
+            "description": "<p><strong>Munition</strong> Bille de fronde</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Une bille gros rocher est une bille de fronde faite de granit lourd, mais chaque munition semble beaucoup plus dense qu'elle n'y paraît. Lorsqu'elle est activée, une bille gros rocher se transforme en un rocher géant juste avant de frapper la cible. La cible subit [[/r {4d6}[bludgeoning]]]{4d6 dégâts contondants supplémentaires} en cas d'attaque réussie. Même sur un jet d'attaque raté (mais pas sur un échec critique), la cible subit [[/r {2d6}[bludgeoning]]]{2d6 dégâts contondants}. Les créatures dotées de la réaction @Compendium[pf2e.bestiary-ability-glossary-srd.uG0Z8PsyZtsYuvGR]{Interception de rochers} peuvent l'utiliser contre une bille gros rocher.</p>"
+        },
+        {
             "id": "Singing Muse",
             "name": "Singing Muse (Muse chantante)",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">r</span> Imaginer</p>\n<p><strong>Déclencheur</strong> Vous tentez un test de Représentation.</p>\n<hr />\n</p> <p>Cette petite figurine est sculptée dans un seul morceau de pierre argentée et épineuse et ressemble à une belle dryade versant de l'eau dans un petit bassin. Lorsque vous activez la muse, vous êtes momentanément illuminé par une inspiration qui renforce votre performance. Si vous obtenez un succès sur votre test déclencheur, vous obtenez un succès critique à la place.</p>"
@@ -10088,7 +10233,7 @@
         },
         {
             "id": "Specialist's Ring (Illusion)",
-            "name": "Specialist's Ring (Illusion) (Anneau du spécialiste (Évocation))",
+            "name": "Specialist's Ring (Illusion) (Anneau du spécialiste (Illusion))",
             "description": "<p>Cet anneau du spécialiste est dédié à une école de magie : l'illusion. L'anneau est couvert de symboles et de glyphes en lien avec cette école en fonction des études arcaniques de son créateur. Vous obtenez un bonus d'objet de +2 aux tests d'Arcanes et un bonus de circonstances de +1 pour reconnaître les effets magiques et les objet de cette école de magie.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">f</span> Imaginer ;</p>\n<p><strong>Fréquence</strong> une fois par jour ;</p>\n<p><strong>Effet</strong> Vous obtenez 1 Point de focalisation, que vous ne pouvez utiliser que pour lancer un sort de l'école de magicien correspondant à l'anneau. S'il n'est pas utilisé avant la fin de votre tour, ce Point de focalisation est perdu.</p>"
         },
         {
@@ -10285,6 +10430,11 @@
             "id": "Lethargy Poison",
             "name": "Lethargy Poison (Poison de léthargie)",
             "description": "<p>Les drows et autres créatures désirant garder leurs victimes en vie utilisent fréquemment le poison de léthargie lors de tactiques de harcèlement, l’assaillant battant en retraite le temps que le poison agisse et que la victime tombe inconsciente. Une créature exposée de nouveau au poison de léthargie n’a pas à faire de jets de sauvegarde supplémentaires, seul un jet de sauvegarde raté contre l’effet de poison en cours fait passer au stade d’empoisonnement suivant</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Interagir (Blessure)</p>\n<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"18\" data-pf2-traits=\"alchemical,conjuration,incapacitation,injury,poison,sleep\" data-pf2-label=\"DD poison de léthargie\" data-pf2-show-dc=\"gm\">Vigueur</span> DD 18; </p>\n<p><strong>Durée maximale</strong> 4 heures; </p>\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 (1 round) ; </p>\n<p><strong>Stade 2</strong> Ralenti 1 (1 minute) ;  </p>\n<p><strong>Stade 3</strong> @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} sans test de Perception pour se réveiller (1 round)</p> \n<p><strong>Stade 4</strong> Inconscient sans test de Perception pour se réveiller ([[/br 1d4 #heures]]{1d4 heures}).</p>"
+        },
+        {
+            "id": "Mirror-Ball Snare",
+            "name": "Mirror-Ball Snare (Piège artisanal Boule-miroir)",
+            "description": "<p>Un mélange de copeaux de métal et de poudre d'éclair à l'intérieur de cette petite sphère miroir s'enflamme lorsqu'on la dérange, ce qui fait clignoter et tourner la boule. Lorsqu'une créature entre dans la case, la boule s'envole dans les airs et toutes les créatures situées dans un rayon de 3 mètres qui peuvent voir la boule miroir doivent réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-traits=\"uncommon,consumable,mechanical,snare,trap,visual\" data-pf2-label=\"DD du piège Balle-miroir\" data-pf2-dc=\"22\" data-pf2-show-dc=\"all\">Vigueur</span> DD 22 ou être @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouies} pendant 1 round. Sur un échec critique, les créatures affectées sont Éblouies pendant 1 minute.</p>"
         },
         {
             "id": "Sun Orchid Elixir",
@@ -10547,6 +10697,11 @@
             "description": "<p>Un reflet rouge traverse la surface de ce médaillon de pierre d'or en forme d'étoile lorsque la lumière le frappe. L'armure ou l'arme auquel il est fixé est chaude au toucher. Le jet d'attaque de tout sort lancé en activant cet objet est de +14 et le DD du sort est de 24.</p>\n<ul>\n<li><strong>Arme</strong> Après avoir lancé un sort de feu en Activant l'étoile, Vos Frappes avec l'arme infligent 1d6 dégâts de feu supplémentaires jusqu'à la fin de votre prochain tour.</li>\n<li><strong>Armure</strong> Vous obtenez une résistance au feu 5.</li>\n</ul>\n<p><strong>Activation</strong> Lancer un sort</p>\n<p><strong>Effet</strong> Vous lancez @Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Flammes}.</p>\n<hr />\n<p><strong>Activation</strong> Lancer un sort</p>\n<p><strong>Fréquence</strong> Une fois par jour</p>\n<p><strong>Effet</strong> Vous lancez @Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Boule de feu}.</p>"
         },
         {
+            "id": "Impossible Cake (Greater)",
+            "name": "Impossible Cake (Greater) (Gâteau de l'impossible supérieur)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Ce tour de passe-passe pour les papilles est aromatisé à l'absinthe et au miel et ressemble toujours à quelque chose qui n'a rien à voir avec un gâteau, qu'il s'agisse d'un tas d'armure ou d'un bol de soupe. Manger le gâteau vous donne la confiance nécessaire pour rendre l'impossible possible : pendant 30 minutes après le repas, vous gagnez un bonus d'objet de +3 à vos tests de Duperie pour vous Déguiser et Mentir pour convaincre les autres que vous possédez des connaissances sur le type d'objet auquel le gâteau ressemble.</p>\n<p>@Compendium[pf2e.equipment-effects.H29JukjrSpHe5DXR]{Effet : Gâteau de l'impossible supérieur}</p>"
+        },
+        {
             "id": "Misdirecting Haversack",
             "name": "Misdirecting Haversack (Sacoche trompeuse)",
             "description": "<p>Cette sacoche en cuir marron est fabriquée à partir d'un cuir rustique fortement huilé. La sacoche est assez grande pour contenir des objets d'une valeur de 1 Encombrement.</p>\n<hr />\n<p><strong>Activation</strong> 1 minute (Imaginer, Interagir)</p>\n<p><strong>Effet</strong> Les documents contenus dans le havresac sont magiquement déguisés en documents de même type mais contenant des informations trompeuses. Toute personne qui inspecte un document remarque le déguisement avec un test de <span data-pf2-check=\"perception\" data-pf2-label=\"DD de déguisement de documents\" data-pf2-dc=\"20\" data-pf2-show-dc=\"all\">Perception</span> DD 20 réussi, mais pour déterminer le texe réel un jet de <span data-pf2-check=\"society\" data-pf2-traits=\"action:decipher-writing\" data-pf2-label=\"DD Déchiffrer un texte\" data-pf2-dc=\"20\" data-pf2-show-dc=\"all\">Société</span> DD 20 réussi est nécessaire pour Déchiffrer le texte. Cela dure jusqu'à ce que vous utilisiez à nouveau cette activation, ce qui met fin à l'effet pour tous les documents précédemment déguisés ; jusqu'à ce que vous utilisiez la deuxième activation pour mettre fin à l'effet pour un seul document ; ou jusqu'à ce qu'un document dans le havresac reste à l'extérieur du havresac pendant au moins 1 heure, ce qui met fin à l'effet pour ce document.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Sur ordre</p>\n<p><strong>Effet</strong> Vous rétablissez l'un des documents en version originale.</p>"
@@ -10675,6 +10830,11 @@
             "id": "Blowgun",
             "name": "Blowgun (sarbacane)",
             "description": "<p>ce long tube étroit tire des fléchettes de sarbacane en se servant uniquement de la puissance du souffle expiré.</p>"
+        },
+        {
+            "id": "Toadskin Salve (Greater)",
+            "name": "Toadskin Salve (Greater) (Baume Peau de crapaud supérieur)",
+            "description": "<p>Cette pommade épaisse et huileuse réagit avec l'air pour exsuder un mucus toxique lorsqu'elle est appliquée sur la peau. Une fois appliquée, vous pouvez activer la pommade de l'une des deux manières détaillées ci-dessous. Une fois l'une ou l'autre réaction utilisée, le mucus restant perd ses propriétés de réaction et tombe, l'effet prenant fin. Vous ne pouvez appliquer qu'une seule dose à la fois. Si vous n'utilisez aucune des deux réactions, après 10 minutes, le mucus s'écaille et l'effet prend fin.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">r</span> Interagir</p>\n<p><strong>Déclencheur</strong> Vous touchez la créature avec une Frappe au corps-à-corps</p>\n<p><strong>Effet</strong> Vous projetez du mucus sur votre cible, infligeant [[/r 2d4 #poison persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de poison persistant}.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">r</span> Interagir</p>\n<p><strong>Déclencheur</strong> Vous êtes touché par une attaque de corps-à-corps qui inflige des dégâts physiques</p>\n<p><strong>Effet</strong> Le mucus absorbe le coup, vous accordant une résistance de 5 aux dégâts physiques contre l'attaque déclencheuse.</p>"
         },
         {
             "id": "Cordelia's Construct Key",

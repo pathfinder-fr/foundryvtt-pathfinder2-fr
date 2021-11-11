@@ -7,6 +7,11 @@
             "description": "<p>Vous êtes le descendant de strix qui ont voyagé vers les côtes. Vos plumes sont spécialement imperméables et élégamment inclinées pour plonger, vous permettant d'attraper du poisson et d'autres proies dans les eaux peu profondes. Vous êtes qualifié en Athlétisme et vous obtenez le don de compétence @Compendium[pf2e.feats-srd.iOY6YfGBaOvMNAor]{Maraudeur aquatique} comme don supplémentaire.</p>"
         },
         {
+            "id": "Dragonscaled Kobold (Blue)",
+            "name": "Kobold à écailles de dragon (Bleu)",
+            "description": "<p>Vos écailles sont particulièrement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance à l'électricité égale à la moitié de votre niveau (minimum 1). Doublez cette résistance contre les armes de Souffle des dragons.</p>"
+        },
+        {
             "id": "Unbreakable Goblin",
             "name": "Gobelin Incassable",
             "description": "<p>Votre crâne exceptionnellement épais, vos os cartilagineux et de nombreuses autres particularités physiques vous permettent de vous remettre promptement de vos blessures. Votre ascendance vous fait gagner 10 points de vie au lieu de 6. Quand vous tombez, les dégâts que vous subissez correspondent à ceux d’une chute deux fois moins importante.</p>"
@@ -62,6 +67,11 @@
             "description": "<p>Vous êtes né dans une forêt humide avec seulement des enchevêtrements d'arbres pour vous protéger des pluies torrentielles et des inondations brutales. Vous avez appris à vous déplacer de manière athlétique à travers la jungle et à résister aux diverses plaies communes en milieu humide.</p>\n<p>Vous obtenez un bonus de circonstances de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimper} ou @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} et un bonus de circonstances de +1 aux jets de sauvegarde contre les maladies.</p>"
         },
         {
+            "id": "Deep Fetchling (Negative)",
+            "name": "Fetchelin des profondeurs (négatif)",
+            "description": "<p>Vos prédécesseurs se sont enfoncés au plus profond du Plan de l'Ombre, dans les régions les plus dangereuses. Vous pouvez projeter une ombre plus dense, avoir un pouls plus lent ou vous trouver à l'aise en embrassant l'obscurité. Vous obtenez une résistance aux dégâts négatifs égale à la moitié de votre niveau (minimum 1).</p>"
+        },
+        {
             "id": "Duskwalker",
             "name": "Crépusculaire",
             "description": "<p>Suite à un ancien marché, votre âme a été réincarnée comme un crépusculaire, un enfant planaire avec un lien à l'égard des psychopompes et du Cimetière. Vous obtenez le trait crépusculaire en plus des traits de votre héritage. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance bénéficie déjà de vision nocturne. Ni votre corps, ni votre âme ne peuvent jamais devenir mort-vivant. Vous pouvez choisir vos dons d'ascendance parmi les dons des crépusculaires ou ceux de votre autre ascendance lorsque vous obtenez un don ancestral.</p>"
@@ -70,6 +80,11 @@
             "id": "Sewer Rat",
             "name": "Rat d'égoûts",
             "description": "<p>Vous descendez d'une longue lignée d'ysokis établie dans les égoûts d'une vaste métropole. Vous êtes immunisé à la maladie de la fièvre de la fange. Chacun de vos jets de sauvegarde réussi contre une maladie ou un poison réduit son stade de 2 ou de 1 s'il s'agit d'une maladie ou d'un poison virulents. Chaque succès critique à votre jet de sauvegarde contre une maladie ou un poison réduit son stade de 3 ou de 2 pour une maladie ou un poison virulents.</p>"
+        },
+        {
+            "id": "Dragonscaled Kobold (Bronze)",
+            "name": "Kobold à écailles de dragon (bronze)",
+            "description": "<p>Vos écailles sont particulièrement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance à l'électricité égale à la moitié de votre niveau (minimum 1). Doublez cette résistance contre les armes de Souffle des dragons.</p>"
         },
         {
             "id": "Snow Rat",
@@ -87,9 +102,19 @@
             "description": "<p>Votre mère était une guenaude. Vos yeux vairons sont la plus visible des marques de cette parenté mais vous pourriez avoir aussi une constitution plus maigre, une peau plus pâle et des cheveux plus noirs que la majorité des membres de votre parentèle. Vous obtenez le trait changelin. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance possède déjà la Vision nocturne. Vous pouvez choisir vos dons ancestraux parmi les dons des changelins et parmi les dons de l'ascendance de votre autre parent lorsque vous obtenez un don ancestral.</p>"
         },
         {
+            "id": "Mage Automaton",
+            "name": "Mage automate",
+            "description": "<p>La chambre abritant votre noyau a une connexion plus directe avec le reste de votre forme humanoïde, ce qui vous permet d'exploiter l'énergie magique de votre noyau. Vous obtenez un trour de magie de la liste des sorts arcaniques. Vous pouvez lancer ce sort comme un sort inné arccanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>"
+        },
+        {
             "id": "Dark Fields Kitsune",
             "name": "Kitsune Champs sombres",
             "description": "<p>Vous pouvez employer votre présence perturbante pour Démoraliser subtilement autrui. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous tentez de Démoraliser une créature qui ne comprend pas votre langue. Vous obtenez aussi la réaction @Compendium[pf2e.actionspf2e.Ul4I0ER6pj3U5eAk]{Peur revigorante}. Votre forme alternative est un renard qui possède les statistiques de @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible} au niveau 1.</p>"
+        },
+        {
+            "id": "Warrior Automaton",
+            "name": "Automate combattant",
+            "description": "<p>Plus volumineux et puissant, votre corps a été conçu pour le combat. Vous avez une forme humanoïde et volumineuse. Le dé de dégâts de votre poing passe à 1d6 au lieu d'1d4. Vous ne subissez pas d'une pénalité lorsque vous portez une attaque létale avec votre poing ou n'importe quelle attaque à mains nues.</p>"
         },
         {
             "id": "Blunt Snout",
@@ -107,6 +132,11 @@
             "description": "<p>Vous avez amélioré votre exosquelette avec une connexion à Axis, ce qui vous permet de puiser dans les connaissances infinies de ce plan. Vous gagnez l'action @Compendium[pf2e.actionspf2e.k5TASjIxghvGCy7g]{Appel à Axis}.</p>"
         },
         {
+            "id": "Dragonscaled Kobold (Silver)",
+            "name": "Kobold à écailles de dragon (Argent)",
+            "description": "<p>Vos écailles sont particulièrement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1). Doublez cette résistance contre les armes de Souffle des dragons.</p>"
+        },
+        {
             "id": "Great Gnoll",
             "name": "Grand gnoll",
             "description": "<p>Vous êtes un gnoll grand et puissant, avec une fourrure fauve et des taches brunes sur votre peau. Vous gagnez 10 points de vie grâce à votre ascendance au lieu de 8 et bénéficiez d'un bonus de circonstances de +1 aux tests d'athlétisme pour Pousser ou faire un Croc-en-jambe à vos ennemis.</p>"
@@ -120,6 +150,11 @@
             "id": "Vigilant Goloma",
             "name": "Goloma vigilant",
             "description": "<p>Vous avez appris à être conscient non seulement des dangers physiques évidents, mais aussi des menaces magiques perceptibles. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie} comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau égal à la moitié de votre niveau arrondi à l'entier supérieur. De plus, votre conscience vous permet de remarquer les pièges magiques plus facilement que les autres. Votre rang de maîtrise en Perception est considéré comme d'un cran supérieur lorsque vous tentez de détecter des pièges magiques. (qualifié est considéré comme expert, expert comme maître et maître comme légendaire).</p>"
+        },
+        {
+            "id": "Deep Fetchling (Cold)",
+            "name": "Fetchelin des profondeurs (froid)",
+            "description": "<p>Vos prédécesseurs se sont enfoncés au plus profond du Plan de l'Ombre, dans les régions les plus dangereuses. Vous pouvez projeter une ombre plus dense, avoir un pouls plus lent ou vous trouver à l'aise en embrassant l'obscurité. Vous obtenez une résistance aux dégâts de froid égale à la moitié de votre niveau (minimum 1).</p>"
         },
         {
             "id": "Windweb Grippli",
@@ -168,8 +203,8 @@
         },
         {
             "id": "Dragonscaled Kobold",
-            "name": "Kobold à écaille de dragon",
-            "description": "<p>Vos écailles sont spécifiquement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance égal à la moitié de votre niveau (minimum 1) aux dégâts du type associé avec votre @Compendium[pf2e.ancestryfeatures.egpiSWBrNBb1Fmig]{Modèle draconique}. Doublez cette résistance contre les armes de Souffle des dragons.</p>"
+            "name": "Kobold à écailles de dragon",
+            "description": "<p>Vos écailles sont particulièrement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance égal à la moitié de votre niveau (minimum 1) aux dégâts du type associé avec votre @Compendium[pf2e.ancestryfeatures.egpiSWBrNBb1Fmig]{Modèle draconique}. Doublez cette résistance contre les armes de Souffle des dragons.</p>"
         },
         {
             "id": "Cliffscale Lizardfolk",
@@ -217,6 +252,11 @@
             "description": "<p>La polyvalence et l’ambition des humains leur ont permis d’accéder au statut d’ascendance majoritaire dans la plupart des nations du monde.</p>\n<p>Choisissez un don général dont vous remplissez les prérequis (comme pour votre don ancestral, vous pouvez choisir ce don général à tout moment durant la création de votre personnage).</p>"
         },
         {
+            "id": "Dragonscaled Kobold (White)",
+            "name": "Kobold à écailles de dragon (Blanc)",
+            "description": "<p>Vos écailles sont particulièrement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1). Doublez cette résistance contre les armes de Souffle des dragons.</p>"
+        },
+        {
             "id": "Suli",
             "name": "Suli",
             "description": "<p>Vous descendez d'un jann ou incarnez autrement une dichotomie des forces élémentaires planaires opposés. Vous obtenez le trait suli en plus des traits de votre ascendance. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance avait déjà la vision nocturne. Vous pouvez choisir parmi les dons des sulis et les dons de votre ascendance lorssque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons ancestraux des descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don ancestral et vous obtenez un don ancestral supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons ancestraux des descendants de génie, ceux de votre héritage suli et ceux de votre ascendance.</p>"
@@ -225,6 +265,11 @@
             "id": "Thalassic Azarketi",
             "name": "Azarketi thalassique",
             "description": "<p>Vous retracez votre lignage des azarketis qui ont vécu leurs vies parmi les grands océans et les mers du monde. Vous savez comment utiliser les courants et la magie primordiale de l'eau pour guider vos attaques. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.iOY6YfGBaOvMNAor]{Maraudeur aquatique} et les facteurs de portée de vos attaques à distance perforantes ne sont pas divisés par deux lorsque vous combattez des cibles sous l'eau.</p>"
+        },
+        {
+            "id": "Stuffed Poppet",
+            "name": "Poupée rembourrée",
+            "description": "<p>Vous possédez très peu de choses à l'intérieur de plus que du coton, de la sciure ou des feuilles sèches. Vous ne subissez pas de dégâts de chute, quel que soit la distance de votre chute.</p>"
         },
         {
             "id": "Pixie",
@@ -282,6 +327,11 @@
             "description": "<p>Par rapport à vos congénères, vous voyez toutes les couleurs avec plus d’intensité, vous entendez les sons avec plus de finesse et vous pouvez identifier les innombrables nuances qui composent une odeur. Vous gagnez le sens spécial : odorat imprécis avec une portée de 9 m. Cela signifie que vous pouvez utiliser votre odorat pour déterminer l’emplacement exact d’une créature. Le MJ double généralement la portée de ce pouvoir si vous êtes sous le vent par rapport à cette créature, ou la divise par deux si c'est l'inverse.</p>\n<p>En outre, vous gagnez un bonus de circonstances de +2 à vos tests de Perception à chaque fois que vous tentez de localiser une créature non détectée qui se trouve à portée de votre odorat.</p>"
         },
         {
+            "id": "Constructed Body",
+            "name": "Corps artificiel",
+            "description": "<p>Vos besoins physiologiques sont différents de ceux des créatures vivantes. Vous n'avez pas besoin de manger ou de boire. Vous n'avez pas besoin de dormir, mais vous avez quand même besoin d'une période de repos quotidienne. Durant cette période de repos, vous devez entrer dans un état de veille pour récupérer pendant 2 heures, ce qui est similaire à au sommeil sauf que vous restez conscient de votre environnement et que vous ne subissez aucune pénalité du fait d'être @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient}. Un peu comme avec le sommeil, si vous restez trop longtemps sans entrer dans votre état de veille, vous devenez @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} et ne pouvez récupérer jusqu'à ce que vous entriez en veille pendant 2 heures.</p>"
+        },
+        {
             "id": "Spellkeeper Shisk",
             "name": "Shisk garde sort",
             "description": "<p>Vos connaissances magiques vous permettent de lancer des sorts simples. Choisissez occulte ou primitif. Vous gagnez un tour de magie issu de la liste des sorts de cette tradition magique. Vous pouvez lancer ce sort comme un sort inné à volonté, comme un sort de la tradition choisie. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l'unité supérieure.</p>"
@@ -290,6 +340,11 @@
             "id": "Wintertouched Human",
             "name": "Humain touché par l'hiver",
             "description": "<p>Le pouvoir de l'hiver coule à travers vous. Cette ascendance est plus commune parmi les Jadwiga d'Irrisen, car ils descendent de Baba Yaga et de certains Erutaki touchés par les esprits.</p>\n<p>Vous obtenez une résistance au froid égale à la moitié de votre niveau (minimum 1) et vous traitez les effets liés à un environnement froid comme si celui-ci était d'un niveau moins extrême (incroyablement froid devient extrême, froid extrême devient sévère, etc).</p>"
+        },
+        {
+            "id": "Dragonscaled Kobold (Red)",
+            "name": "Kobold à écailles de dragon (Rouge)",
+            "description": "<p>Vos écailles sont particulièrement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance au feu égale à la moitié de votre niveau (minimum 1). Doublez cette résistance contre les armes de Souffle des dragons.</p>"
         },
         {
             "id": "Steelskin Hobgoblin",
@@ -365,6 +420,11 @@
             "id": "Deep Orc",
             "name": "Orc des profondeurs",
             "description": "<p>Vos mains calleuses et vos yeux rouges évoquent une vie passée dans les ténèbres profondes des cavernes des montagnes, où vous avez appris à combattre sur les falaises rocheuses et à survivre avec un minimum de ressources. Vous obtenez le don @Compendium[pf2e.feats-srd.4tTkRyOQ0VuRBac3]{Expertise du terrain} pour les souterrains et de don de compétence @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur}.</p>"
+        },
+        {
+            "id": "Ghost Poppet",
+            "name": "Poupée fantôme",
+            "description": "<p>Vous vous êtes éveillé avec un peu de la force vitale d'une autre personne et un fragment de son âme - possiblement mais pas toujours, au moment de sa mort - ont trouvé leur chemin dans votre corps artificiel. Vous ne vous souvenez de rien de plus que de vagues réminiscences de votre \"avant vie\" mais cette essence vitale vous protège toujours. Vous obtenez une résistance aux dégâts négatifs égaux à la moitié de votre niveau (minimum 1).</p>"
         },
         {
             "id": "Badlands Orc",
@@ -459,7 +519,7 @@
         {
             "id": "Fangs",
             "name": "Crocs",
-            "description": "<p>Vous êtes né avec un moyen naturel de chasser et de vous défendre. Vous obtenez une attaque de crocs à mains nues qui inflige [[/r 1d6 #perforantts]]{1d6 dégâts perforants}. Vos crocs sont dans le groupe pugilat et possèdent le trait finesse et à mains nues.</p>"
+            "description": "<p>Vous êtes né avec un moyen naturel de chasser et de vous défendre. Vous obtenez une attaque de crocs à mains nues qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Vos crocs sont dans le groupe pugilat et possèdent le trait finesse et à mains nues.</p>"
         },
         {
             "id": "Celestial Envoy Kitsune",
@@ -574,7 +634,7 @@
         {
             "id": "Cactus Leshy",
             "name": "Léchi cactus",
-            "description": "<p>Des épines couvrent votre corps. Vous obtenez une attaque à mains nues d'épine qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}. Vos épines sont dans le groupe pugilat et ont les traits finesse et à mains nues.</p>"
+            "description": "<p>Des épines couvrent votre corps. Vous obtenez une attaque à mains nues d'épine qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Vos épines sont dans le groupe pugilat et ont les traits finesse et à mains nues.</p>"
         },
         {
             "id": "Lorekeeper Shisk",
@@ -702,6 +762,11 @@
             "description": "<p>vous descendez des azarketis qui ont abandonné les océans pour l'eau douce et la vie à l'intérieur des terres. La géographie variée des rivières rend nécessaire que vous développiez des compétences physiques avancées pour nager contre les rapides, bondir dans les eaux des cascades et naviguer avec expertise dans les canaux peu profonds et étroits.</p>\n<p>Lorsque vous réussissez un test d'Athlétisme pour Nager, vous obtenez un succès critique à la place.</p>"
         },
         {
+            "id": "Automaton Core",
+            "name": "Noyau automate",
+            "description": "<p>Votre corps contient un noyau d'automate imprégné de quintessence planaire qui vous donne le pouvoir d'effectuer diverses tâches et abrite votre âme et votre énergie vitale. Cette énergie vitale circule en vous comme le sang des humanoïdes. Par conséquent, vous êtes une créature vivante. Vous n'avez pas les immunités typiques des créatures artificielles. Vous pouvez être affecté par des effets qui ciblent une créature vivante et vous pouvez récupérer des points de vie normalement grâce à l'énergie positive.</p>\n<p>De plus, vous n'êtes pas détruit lorsque vous êtes réduit à 0 point de vie. Au lieu de cela, votre énergie vitale tente de vous maintenir actif, même dans des conditions difficiles ; vous êtes mis hors d'usage et commencez à mourir lorsque vous êtes réduit à 0 point de vie.</p>"
+        },
+        {
             "id": "Snaring Anadi",
             "name": "Anadi piégeur",
             "description": "<p>Vous avez éclos avec des crocs crochus qui vous donnent un avantage lorsque vous chassez sous votre vraie forme. Votre attaque de crocs gagne les traits Saisir et croc-en-jambe.</p>"
@@ -777,6 +842,11 @@
             "description": "<p>Vous êtes le descendant d'un artisan réputé et possédez votre propre incroyable talent. Les autres nains pourraient considérer que c'est la bénédiction de vos ancêtres ou du Père de la forge lui-même, en fonction de l'endroit où vous avez été élevé. Vous êtes qualifié en Artisanat (ou une autre compétence si vous étiez déjà qualifié en Artisanat) et vous obtenez le don de compétence Artisanat spécialisé, sauf que vous pouvez choisir deux spécialités à la place d'une seule.</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.feats-srd.XVnpntqV6w94PoOb]{Artisanat spécialisé (Alchimie)}</li>\n<li>@Compendium[pf2e.feats-srd.59FN13nU6agKT4oa]{Artisanat spécialisé (Confection de livres)}</li>\n<li>@Compendium[pf2e.feats-srd.tbIMWrIRI9P9cubM]{Artisanat spécialisé (Construction navale)}</li>\n<li>@Compendium[pf2e.feats-srd.B06QKNvKYqxYGwPU]{Artisanat spécialisé (Couture)}</li>\n<li>@Compendium[pf2e.feats-srd.YvoiGWZhtbHH6NMF]{Artisanat spécialisé (Ébénisterie)}</li>\n<li>@Compendium[pf2e.feats-srd.S8mPrjJjuObotmjZ]{Artisanat spécialisé (Forge)}</li>\n<li>@Compendium[pf2e.feats-srd.WddEyALYHfpeUjZB]{Artisanat spécialisé (Maroquinerie)}</li>\n<li>@Compendium[pf2e.feats-srd.8XC2xJ7Y1xlr6Xor]{Artisanat spécialisé (Poterie)}</li>\n<li>@Compendium[pf2e.feats-srd.22HUfCajd6IkATOR]{Artisanat spécialisé (Sens artistique)}</li>\n<li>@Compendium[pf2e.feats-srd.TWkwy0uQvTGlgEFG]{Artisanat spécialisé (Taille de pierre)}</li>\n<li>@Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{Artisanat spécialisé (Tissage)}</li>\n<li>@Compendium[pf2e.feats-srd.YmzLnj4ojlf9INNP]{Artisanat spécialisé (Verrerie)}</li>\n</ul>"
         },
         {
+            "id": "Dragonscaled Kobold (Green)",
+            "name": "Kobold à écailles de dragon (Vert)",
+            "description": "<p>Vos écailles sont particulièrement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance au poison égale à la moitié de votre niveau (minimum 1). Doublez cette résistance contre les armes de Souffle des dragons.</p>"
+        },
+        {
             "id": "Umbral Gnome",
             "name": "Gnome ombral",
             "description": "<p>Vous êtes capable de voir dans les ténèbres les plus totales. Vous tenez peut-être ce pouvoir d’un lien avec les fées sombres ou les fées des ombres, avec les gnomes des profondeurs (aussi appelés les svirfneblins) qui vivent sous terre ou il vous vient d’une autre origine. Vous gagnez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"
@@ -797,6 +867,11 @@
             "description": "<p>Les héros nains de l’ancien temps étaient capables de balayer la magie de leurs ennemis du revers de la main. Vous avez hérité d’une partie de cette résistance. Vous gagnez la réaction @Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]{Appel du sang ancien}.</p>"
         },
         {
+            "id": "Windup Poppet",
+            "name": "Poupée remontée",
+            "description": "<p>Vous êtes principalement composé de métaux mous, comme l'étain ou l'argent et votre force vitale repose au sein d'un réseau de mécanismes exceptionnels au plus profond de votre corps. Pourvu que vous remontiez les mécanismes de votre corps quelques fois par jour, vous n'avez pas besoin d'eau ou de nourriture pour survivre. Vous devez toujours respirer pour ventiler vos mécanismes internes et dormir pour permettre à vos mécanismes de se reposerde la même manière que les autres poupées.</p>"
+        },
+        {
             "id": "Elemental Heart Dwarf",
             "name": "Nain Cœurélémentaire",
             "description": "<p>Que ce soit au travers d'un lien avec la forge de @Compendium[pf2e.deities.sZrdzh0ANQnZGXJb]{Torag}, des azers du plan du Feu ou d'une autre source, vous pouvez exsuder une émanation d'énergie. Les nains Mbe’ke et Taralu du Mwangi pensent que cette ascendance est un don des dragons ou des esprits élémentaires.</p>\n<p>Choisissez un des types de dégâts suivants : acide, électricité, feu ou froid. Une fois choisi, il ne peut être modifié. Vous obtenez l'activité @Compendium[pf2e.actionspf2e.7qjfYsLNTr17Aftf]{Émanation énergétique}.</p>"
@@ -810,6 +885,11 @@
             "id": "Razortooth Goblin",
             "name": "Gobelin Dent’rasoir",
             "description": "<p>Les dents que vous avez héritées de votre famille constituent une arme formidable. Vous gagnez une attaque à mains nues de mâchoires qui inflige <a class=\"inline-roll roll\" title=\"perforants\" data-mode=\"roll\" data-flavor=\"perforants\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i>1d6</a> dégâts perforants. Vos mâchoires font partie du groupe pugilat et possèdent les traits finesse et mains nues.</p>"
+        },
+        {
+            "id": "Toy Poppet",
+            "name": "Poupée jouet",
+            "description": "<p>Vous avez la forme d'un jouet ou d'une poupée d'enfant très petite, mais vous ne laissez pas votre petite taille gâcher votre joie de vivre. Au lieu de petite, votre taille est Très petite. Comme les autres créatures de Très petite taille, vous ne recevez pas automatiquement un abri inférieur lorsque vous êtes dans la case d'une créature plus large, mais les circonstances pourraient vous permettre de vous Mettre à l'abri. Vous pouvez acheter des armes, des armures et d'autres objets de votre taille avec les mêmes statistiques que l'équipement normal, à l'exception des armes de corps-à-corps qui ont une allonge de 0 pour ce qui vous concerne (ou une allonge de 1,5 m plus courte que la normale si elles possèdent le trait allonge). Vous pouvez entrer dans la case d'une autre créature, ce qui est important puisque vous devez habituellement entrer dans la case de la créature pour l'attaquer avec des Frappes au corps-à-corps ! Souvenez vous d'ajuster l'Encombrement des objets et votre limite d'Encombrement pour les Très petites tailles.</p>"
         },
         {
             "id": "Whisper Elf",
@@ -872,6 +952,11 @@
             "description": "<p>Votre vue perçante vous permet de distinguer des détails concernant des créatures masquées ou invisibles que d’autres pourraient ne pas remarquer. Vous gagnez un bonus de circonstances de +2 quand vous utilisez l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour trouver des créatures @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachées} ou @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectées} dans un rayon de 9 m autour de vous. Quand vous prenez pour cible un adversaire @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} ou Caché, réduisez le DD du test nu à 3 pour une cible masquée ou à 9 pour une cible cachée.</p>"
         },
         {
+            "id": "Wishborn Poppet",
+            "name": "Poupée souhaitée",
+            "description": "<p>Vous avez été éveillée par un souhait, soit du fait d'un puissant lanceur de sort soit par le désir sincère d'une personne innocente qui vous a beaucoup aimé. Vous êtes une preuve vivante qu'un esprit plein d'espoir peut franchir tout obstacle. Si vous obtenez un succès sur un jet de sauvegarde contre un effet d'émotion ou de peur, vous obtenez un succèss critique à la place.</p>"
+        },
+        {
             "id": "Hunting Catfolk",
             "name": "Homme-félin chasseur",
             "description": "<p>Vous descendez d'une longue lignée de chasseurs talentueux et de pisteurs et avez développé un sens particulièrement aigu de l'odorat. Vous obtenez un odorat imprécis avec une portée de 9 m. cela signifie que vous pouvez utilisez votre sens de l'odorat pour déterminer l'emplacement d'une créature. Le MJ doublera normalement la portée si vous êtes sous le vent par rapport à la créature ou la divisera par deux si vous êtes contre le vent.</p>\n<p>De plus, vous obtenez un bonus de circonstances de +2 au test pour @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Pister} une créature ou un objet si vous l'avez senti auparavant.</p>"
@@ -887,6 +972,11 @@
             "description": "<p>Vous avez un torse plus long et des épaules plus larges que la plupart des hobgobelins, de sorte que vos jambes semblent plus courtes en comparaison. Cela vous donne une ceinture abdominale forte et muclée et abaisse votre centre de gravité — traits qui vous aident sur une monture et à grimper — et vous êtes entraîné à utiliser une selle à un âge particulièrement jeune. Vous obtenez le don @Compendium[pf2e.feats-srd.Rq5wkA8DtsmbzoGV]{Chevaucher}. De plus, vous n'êtes pas @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} lorsque vous Escaladez.</p>"
         },
         {
+            "id": "Flammable",
+            "name": "Inflammable",
+            "description": "<p>Vous avez une faiblesse aux dégats de feu égal à un tiers de votre niveau (minimum 1).</p>"
+        },
+        {
             "id": "Poisonhide Grippli",
             "name": "Grippli à peau empoisonnée",
             "description": "<p>Vous pouvez être petit mais les glandes empoisonnées situées sous votre peau cachent une défensse mortelle. Vous obtenez la réaction @Compendium[pf2e.actionspf2e.kKKHwVUnroKuAnOt]{Peau toxique}.</p>"
@@ -897,9 +987,19 @@
             "description": "<p>Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque à mains nues d'ergot qui inflige [[/r 1d4 #tranchants]]{1d4 dégâts tranchants}. Vos ergots font partie du groupe pugilat et possèdent les traits agile, finesse, à mains nues et polyvalent perforant.</p>"
         },
         {
+            "id": "Dragonscaled Kobold (Copper)",
+            "name": "Kobold à écailles de dragon (Cuivre)",
+            "description": "<p>Vos écailles sont particulièrement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance à l'acide égale à la moitié de votre niveau (minimum 1). Doublez cette résistance contre les armes de Souffle des dragons.</p>"
+        },
+        {
             "id": "Observant Halfling",
             "name": "Halfelin observateur",
             "description": "<p>Vos sens particulièrement aiguisés vous donnent des indices en cas de danger ou de tromperie. Vous obtenez un bonus de circonstances de +1 à votre DD de Perception, mais pas à vos tests de Perception.</p>"
+        },
+        {
+            "id": "Dragonscaled Kobold (Black)",
+            "name": "Kobold à écailles de dragon (Noir)",
+            "description": "<p>Vos écailles sont particulièrement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance à l'acide égale à la moitié de votre niveau (minimum 1). Doublez cette résistance contre les armes de Souffle des dragons.</p>"
         },
         {
             "id": "Quillcoat Shisk",
@@ -1027,9 +1127,24 @@
             "description": "<p>Vous descendez des fiélons ou portez la marque des royaumes des fiélons, manifestant certaines particularités inhabituelles qui trahissent votre héritage, tels que des cornes ou une queue. Vous obtenez le trait tieffelin en plus des traits de votre héritage. Vous gagnez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre héritage possède déjà la Vision nocturne. Vous pouvez choisir parmi les dons des tieffelins et ceux de votre héritage lorsque vous obtenez un don ancestral.</p>"
         },
         {
+            "id": "Sharpshooter Automaton",
+            "name": "Automate tireur de précision",
+            "description": "<p>Votre forme humanoïde et légère est conçue pour la vitesse et la précision en combat à distance. Vous obtenez l'action @Compendium[pf2e.actionspf2e.9sXQf1SyppS5B6O1]{Visée de l'automate}</p>"
+        },
+        {
             "id": "Sharp Beak",
             "name": "Bec aiguisé",
             "description": "<p>Avec votre bec aiguisé, vous n'êtes jamais dépourvu d'une arme. Vous disposez d'une attaque à mains nues de bec qui inflige <a class=\"inline-roll roll\" title=\"perforant\" data-mode=\"roll\" data-flavor=\"perforant\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i>1d6</a> dégâts perforants. Votre bec est dans le groupe d'arme pugilat et possède les traits finesse et à mains nues.</p>"
+        },
+        {
+            "id": "Constructed (Poppet)",
+            "name": "Construit (poupée)",
+            "description": "<p>Les matériaux de votre corps résistent aux maux qui assaillent la chair. Vous gagnez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de mort, les maladies et le poison ainsi qu'aux jets de sauvegarde contre les effets qui vous donneraient les états Drainé, Paralysé ou Malade. Votre étincelle de vie signifie que vous êtes une créature vivante et que vous pouvez être guéri par l'énergie positive et blessé par l'énergie négative comme à l'ordinaire.</p>"
+        },
+        {
+            "id": "Dragonscaled Kobold (Brass)",
+            "name": "Kobold à écaille de dragon (Airain)",
+            "description": "<p>Vos écailles sont particulièrement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance au feu égale à la moitié de votre niveau (minimum 1). Doublez cette résistance contre les armes de Souffle des dragons.</p>"
         },
         {
             "id": "Ifrit",
