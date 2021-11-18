@@ -1,21 +1,13 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 189
- * **aucune**: 2
+ * **libre**: 191
  * **officielle**: 28
  * **changé**: 15
 
 
-Dernière mise à jour: 2021-11-11 10:05 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-18 07:50 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[feat-00-2kMltxs2rmxRSxfV.htm](ancestryfeatures/feat-00-2kMltxs2rmxRSxfV.htm)|Hunter Automaton|
-|[feat-01-xFAY0IJ6jzUW3nJ9.htm](ancestryfeatures/feat-01-xFAY0IJ6jzUW3nJ9.htm)|Dragonscaled Kobold (Gold)|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -41,6 +33,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[effect-01-qIOEe4kUN7FOBifb.htm](ancestryfeatures/effect-01-qIOEe4kUN7FOBifb.htm)|Effect: Hybrid Form|Effet : Forme hybride|libre|
+|[feat-00-2kMltxs2rmxRSxfV.htm](ancestryfeatures/feat-00-2kMltxs2rmxRSxfV.htm)|Hunter Automaton|Automate chasseur|libre|
 |[feat-00-7kHg780SAsu2FNfP.htm](ancestryfeatures/feat-00-7kHg780SAsu2FNfP.htm)|Stuffed Poppet|Poupée rembourrée|libre|
 |[feat-00-Cv7BOjuziOQ0PO9r.htm](ancestryfeatures/feat-00-Cv7BOjuziOQ0PO9r.htm)|Windup Poppet|Poupée remontée|libre|
 |[feat-00-dCp517IUFJk8JvQc.htm](ancestryfeatures/feat-00-dCp517IUFJk8JvQc.htm)|Fangs|Crocs|libre|
@@ -247,6 +240,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-01-WxcbLvufI6JBpLt0.htm](ancestryfeatures/feat-01-WxcbLvufI6JBpLt0.htm)|Spindly Anadi|Anadi sautillant|libre|
 |[feat-01-xaTTN5anLEBzWCzv.htm](ancestryfeatures/feat-01-xaTTN5anLEBzWCzv.htm)|Windweb Grippli|Grippli à palmes|libre|
 |[feat-01-XeXWsvcWU3Zaj5WC.htm](ancestryfeatures/feat-01-XeXWsvcWU3Zaj5WC.htm)|Chameleon Gnome|Gnome Caméléon|officielle|
+|[feat-01-xFAY0IJ6jzUW3nJ9.htm](ancestryfeatures/feat-01-xFAY0IJ6jzUW3nJ9.htm)|Dragonscaled Kobold (Gold)|Kobold à écailles de dragon (Or)|libre|
 |[feat-01-xtRIYizCjLg9qe1Z.htm](ancestryfeatures/feat-01-xtRIYizCjLg9qe1Z.htm)|Wildwood Halfling|Halfelin bois-sauvage|officielle|
 |[feat-01-yL6944LrPo2HNdEJ.htm](ancestryfeatures/feat-01-yL6944LrPo2HNdEJ.htm)|Ancient-Blooded Dwarf|Nain sang-ancien|libre|
 |[feat-01-Ymg6WqeJqOyLJLEr.htm](ancestryfeatures/feat-01-Ymg6WqeJqOyLJLEr.htm)|Change Shape|Changer de forme|libre|

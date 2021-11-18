@@ -1,12 +1,12 @@
 # État de la traduction (actions)
 
  * **officielle**: 107
- * **libre**: 117
+ * **libre**: 118
  * **changé**: 25
- * **aucune**: 16
+ * **aucune**: 15
 
 
-Dernière mise à jour: 2021-11-11 10:05 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-18 07:50 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -23,7 +23,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[mech0dhb4eKbCAu0.htm](actions/mech0dhb4eKbCAu0.htm)|Coughing Dragon|
 |[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|
 |[SMF1hTWPHtmlS8Cd.htm](actions/SMF1hTWPHtmlS8Cd.htm)|Bullet Dancer Stance|
-|[uOlyklPCUWLtCaYI.htm](actions/uOlyklPCUWLtCaYI.htm)|Chassis Deflection|
 |[VNuOwXIHafSLHvsZ.htm](actions/VNuOwXIHafSLHvsZ.htm)|Spellsling|
 |[vvYsE7OiSSCXhPdr.htm](actions/vvYsE7OiSSCXhPdr.htm)|Set Explosives|
 |[wt6jdjjje16Nx34f.htm](actions/wt6jdjjje16Nx34f.htm)|Jumping Jenny|
@@ -120,7 +119,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bT3skovyLUtP22ME.htm](actions/bT3skovyLUtP22ME.htm)|Repair|Réparer|officielle|
 |[c8TGiZ48ygoSPofx.htm](actions/c8TGiZ48ygoSPofx.htm)|Swim|Nager|officielle|
 |[CIqiFw9rqYnuzggq.htm](actions/CIqiFw9rqYnuzggq.htm)|Practical Research|Recherche appliquée|libre|
-|[CrUPaPlsxy2bswaT.htm](actions/CrUPaPlsxy2bswaT.htm)|Mesmerizing Performance|Performance hypnotisante|libre|
+|[CrUPaPlsxy2bswaT.htm](actions/CrUPaPlsxy2bswaT.htm)|Mesmerizing Performance|Représentation hypnotisante|libre|
 |[cS9nfDRGD83bNU1p.htm](actions/cS9nfDRGD83bNU1p.htm)|Fly|Voler|officielle|
 |[cx0juTYewwBmrYWv.htm](actions/cx0juTYewwBmrYWv.htm)|Beast's Charge|Charge de la bête|libre|
 |[cYdz2grcOcRt4jk6.htm](actions/cYdz2grcOcRt4jk6.htm)|Disable Device|Désamorcer un dispositif|officielle|
@@ -257,6 +256,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UHpkTuCtyaPqiCAB.htm](actions/UHpkTuCtyaPqiCAB.htm)|Step|Faire un pas|libre|
 |[Ul4I0ER6pj3U5eAk.htm](actions/Ul4I0ER6pj3U5eAk.htm)|Invigorating Fear|Peur revigorante|libre|
 |[uMFB3uw8WTWL0LZD.htm](actions/uMFB3uw8WTWL0LZD.htm)|Draconic Frenzy|Frénésie draconique|libre|
+|[uOlyklPCUWLtCaYI.htm](actions/uOlyklPCUWLtCaYI.htm)|Chassis Deflection|Déflexion du chassis|libre|
 |[Uq2qy9aGNQ5JcPI1.htm](actions/Uq2qy9aGNQ5JcPI1.htm)|Into the Fray|Dans le feu de l'action|libre|
 |[uS3qDAgOkZ7b8ERL.htm](actions/uS3qDAgOkZ7b8ERL.htm)|Drive|Diriger|libre|
 |[ust1jJSCZQUhBZIz.htm](actions/ust1jJSCZQUhBZIz.htm)|Take Cover|Mise à l'abri|officielle|

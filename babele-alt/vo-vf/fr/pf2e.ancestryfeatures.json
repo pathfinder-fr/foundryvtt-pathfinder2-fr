@@ -77,6 +77,11 @@
             "description": "<p>Suite à un ancien marché, votre âme a été réincarnée comme un crépusculaire, un enfant planaire avec un lien à l'égard des psychopompes et du Cimetière. Vous obtenez le trait crépusculaire en plus des traits de votre héritage. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance bénéficie déjà de vision nocturne. Ni votre corps, ni votre âme ne peuvent jamais devenir mort-vivant. Vous pouvez choisir vos dons d'ascendance parmi les dons des crépusculaires ou ceux de votre autre ascendance lorsque vous obtenez un don ancestral.</p>"
         },
         {
+            "id": "Dragonscaled Kobold (Gold)",
+            "name": "Dragonscaled Kobold (Gold) (Kobold à écailles de dragon (Or))",
+            "description": "<p>Vos écailles sont particulièrement colorées possédant une part de la résistance qu'un dragon possède. Vous obtenez une résistance au feu égale à la moitié de votre niveau (minimum 1). Doublez cette résistance contre les armes de Souffle des dragons.</p>"
+        },
+        {
             "id": "Sewer Rat",
             "name": "Sewer Rat (Rat d'égoûts)",
             "description": "<p>Vous descendez d'une longue lignée d'ysokis établie dans les égoûts d'une vaste métropole. Vous êtes immunisé à la maladie de la fièvre de la fange. Chacun de vos jets de sauvegarde réussi contre une maladie ou un poison réduit son stade de 2 ou de 1 s'il s'agit d'une maladie ou d'un poison virulents. Chaque succès critique à votre jet de sauvegarde contre une maladie ou un poison réduit son stade de 3 ou de 2 pour une maladie ou un poison virulents.</p>"
@@ -269,7 +274,7 @@
         {
             "id": "Stuffed Poppet",
             "name": "Stuffed Poppet (Poupée rembourrée)",
-            "description": "<p>Vous possédez très peu de choses à l'intérieur de plus que du coton, de la sciure ou des feuilles sèches. Vous ne subissez pas de dégâts de chute, quel que soit la distance de votre chute.</p>"
+            "description": "<p>Vous possédez très peu de choses à l'intérieur, à l'exception du coton, de la sciure ou des feuilles sèches. Vous ne subissez pas de dégâts de chute, quel que soit la distance de votre chute.</p>"
         },
         {
             "id": "Pixie",
@@ -649,7 +654,7 @@
         {
             "id": "Draxie",
             "name": "Draxie (Draxie)",
-            "description": "<p>Vous êtes affiliée aux dragons féériques et pouvez faire remonter votre héritage à la mort du plus puissant dragon féérique du Premier Monde. Vous obtenez une télépathie de contact, vous permettant de communiquer silencieusement et seulement mentalement avec toute créature que vous touchez, tant que vous partagez une langue commune.</p>"
+            "description": "<p>Vous êtes affilié aux dragons féériques et pouvez faire remonter votre héritage à la mort du plus puissant dragon féérique du Premier Monde. Vous obtenez une télépathie de contact, vous permettant de communiquer silencieusement et seulement mentalement avec toute créature que vous touchez, tant que vous partagez une langue commune.</p>"
         },
         {
             "id": "Desert Elf",
@@ -755,6 +760,11 @@
             "id": "Skyborn Tengu",
             "name": "Skyborn Tengu (Tengu des cieux)",
             "description": "<p>Vos os pourraient être particulièrement légers, vous pourriez être un rare tengu possédant des ailes ou votre lien avec les esprtis du vent et du ciel pourrait être plus fort que la plupart, ralentissant votre chute au travers des airs. Vous ne subissez aucun dégâts lors d'une chute, quelle que soit la distance de laquelle vous chûtez.</p>"
+        },
+        {
+            "id": "Hunter Automaton",
+            "name": "Hunter Automaton (Automate chasseur)",
+            "description": "<p>Vous avez été conçu comme un éclaireur ou un assassin et avez un corps ressemblant à celui d'un membre d'une meute comme un grand félin ou un loup. Bien que vous vous déplaciez à l'ordinaire comme un a quadruped, vous pouvez toujours vous tenir et combattre comme un bipède, vous permettant d'utiliser tout votre équipement normalement. Votre conception quadrupède vous permet de vous dépalcer rapidement ; si vous avez vos deux mains libres, vous pouvez accroître votre Vitesse à 9 m lorsque vous courrez sur vos quatre membres.</p>"
         },
         {
             "id": "River Azarketi",

@@ -1,20 +1,18 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 206
- * **aucune**: 39
+ * **libre**: 208
  * **officielle**: 49
+ * **aucune**: 37
  * **changé**: 7
 
 
-Dernière mise à jour: 2021-11-11 10:05 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-18 07:50 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[0wzTmGUb8yvzMrO0.htm](backgrounds/0wzTmGUb8yvzMrO0.htm)|Back-Alley Doctor|
-|[1M91pTjatEejBjEl.htm](backgrounds/1M91pTjatEejBjEl.htm)|Hired Killer|
 |[2FUdcPsXwoWT1bms.htm](backgrounds/2FUdcPsXwoWT1bms.htm)|Tech Reliant|
 |[2lk5NOcu1aUglUdK.htm](backgrounds/2lk5NOcu1aUglUdK.htm)|Fireworks Performer|
 |[2Mm0BHMJZhqIqoQG.htm](backgrounds/2Mm0BHMJZhqIqoQG.htm)|Undertaker|
@@ -70,9 +68,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[0c9Np7Yq5JSxZ6Tb.htm](backgrounds/0c9Np7Yq5JSxZ6Tb.htm)|Alkenstar Tinker|Bricoleur d'Alkenastre|libre|
+|[0wzTmGUb8yvzMrO0.htm](backgrounds/0wzTmGUb8yvzMrO0.htm)|Back-Alley Doctor|Docteur d'arrière salle|libre|
 |[0z0PSizHviOehdJF.htm](backgrounds/0z0PSizHviOehdJF.htm)|Haunting Vision|Hanté par une vision|officielle|
 |[0ZfBP7Tp2P3WN7Dp.htm](backgrounds/0ZfBP7Tp2P3WN7Dp.htm)|Amnesiac|Amnésique|libre|
 |[1bjReaLqCD9pvBJ3.htm](backgrounds/1bjReaLqCD9pvBJ3.htm)|Academy Dropout|Décrocheur d'académie|libre|
+|[1M91pTjatEejBjEl.htm](backgrounds/1M91pTjatEejBjEl.htm)|Hired Killer|Tueur à gages|libre|
 |[1VdLr4Qm8fv1m4tM.htm](backgrounds/1VdLr4Qm8fv1m4tM.htm)|Godless Graycloak|Athéiste des Capes grises|libre|
 |[2bzqI0D4J3LUi8nq.htm](backgrounds/2bzqI0D4J3LUi8nq.htm)|Laborer|Manœuvre|officielle|
 |[2qH61dLeaqgNOdOp.htm](backgrounds/2qH61dLeaqgNOdOp.htm)|Desert Tracker|Pisteur du désert|libre|

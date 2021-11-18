@@ -294,7 +294,7 @@
         {
             "id": "Instinctive Obfuscation",
             "name": "Obscurcissement instinctif (Instinctive Obfuscation)",
-            "description": "<p><strong>Prérequis</strong> Au moins un sort inné arcanique ou occulte obtenu par un héritage de gnome ou un don ancestral gnome</p>\n<p><strong>Fréquence</strong> Une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous êtes attaqué par un ennemi</p>\n<hr />\n<p>La magie qui est en vous se manifeste comme une réaction naturelle face à une menace. Vous obtenez les effets d' @Compendium[pf2e.spells-srd.j8vIoIEWElvpwkcI]{Image miroir} mais avec deux images au lieu de trois. La tradition de cette action correspond à celle des options de votre ascendance gnome.</p>"
+            "description": "<p><strong>Prérequis</strong> Au moins un sort inné arcanique ou occulte obtenu par un héritage de gnome ou un don ancestral gnome</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous êtes attaqué par un ennemi</p>\n<hr />\n<p>La magie qui est en vous se manifeste comme une réaction naturelle face à une menace. Vous obtenez les effets d' @Compendium[pf2e.spells-srd.j8vIoIEWElvpwkcI]{Image miroir} mais avec deux images au lieu de trois. La tradition de cette action correspond à celle des options de votre ascendance gnome.</p>"
         },
         {
             "id": "Breath Weapon (Piercing) (Cone)",
@@ -938,7 +938,7 @@
         },
         {
             "id": "Mesmerizing Performance",
-            "name": "Performance hypnotisante (Mesmerizing Performance)",
+            "name": "Représentation hypnotisante (Mesmerizing Performance)",
             "description": "<p><strong>Prérequis</strong> Dévouement de Dompteur d'animaux</p>\n<p><strong>Conditions</strong> Le compagnon animal a réussi sa dernière action @Compendium[pf2e.actionspf2e.EEDElIyin4z60PXx]{Se produire}. Le compagnon animal continue sa représentation pour attirer l'attention d'une cible unique dans un rayon de 9 mètres qui a été témoin de la représentation du compagnon. La cible doit effectuer un jet de Volonté.</p>\n<hr />\n<p><strong>Succès</strong> La cible n'est pas affectée et est temporairement immunisée pendant 1 heure.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Fascinée} par la représentation du compagnon jusqu'à ce qu'il effectue sa prochaine action et est ensuite temporairement immunisée pendant 1 heure.</p>\n<p><strong>Échec critique</strong> La cible est Fascinée par la représentation du compagnon durant 1 round. Tant que la cible reste Fascinée, elle ne peut utiliser de réactions.</p>"
         },
         {
@@ -1132,6 +1132,11 @@
             "description": "<p>Vous posez une question qui charme ou provoque efficacement quelqu’un. Posez une question à une créature qui n’est pas l'un de vos alliés, que vous pouvez voir et avec laquelle vous conversez. Effectuez un test de Diplomatie contre le DD de Volonté de la créature. La créature est ensuite temporairement immunisée pendant 1 heure.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible doit répondre directement à votre question. Elle n’est pas contrainte de dire la vérité mais vous gagnez un bonus de circonstances de +4 à votre test de Perception si la créature tente de vous @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}.</p>\n<p><strong>Succès</strong> Comme une réussite critique, mais le bonus de circonstances est de +2.</p>\n<p><strong>Échec</strong> La cible peut refuser de vous répondre, comme c’est le cas d'ordinaire.</p>\n<p><strong>Échec critique</strong> La cible peut refuser de vous répondre et son attitude envers vous diminue d’un cran parce que l’attention que vous lui portez la vexe.</p>"
         },
         {
+            "id": "Chassis Deflection",
+            "name": "Déflexion du chassis (Chassis Deflection)",
+            "description": "<p><strong>Déclencheur</strong> Un coup critique vous inflige des dégâts physiques.</p>\n<hr />\n<p>Faites un test nu DD 17. En cas de réussite, l'attaque devient un coup normal.</p>"
+        },
+        {
             "id": "Exhale Poison",
             "name": "Expirer le poison (Exhale Poison)",
             "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<p><strong>Conditions</strong> Vous vous trouviez dans la zone où se trouvait un poison inhalé au cours de la dernière minute ; @Compendium[pf2e.feats-srd.8PMxl8o5YXET58Pn]{Poumon d'acier}.</p>\n<hr />\n<p>Après inhalation du poison, vous l'expirez devant vous dans un cône de 4,5 mètres. Les créatures se trouvant dans la zone d'effet sont affectées par le poison; le DD du poison et ses effets restent inchangés.</p>"
@@ -1229,7 +1234,7 @@
         {
             "id": "Wish for Luck",
             "name": "Souhait de bonne fortune (Wish for Luck)",
-            "description": "<p><strong>Fréquence</strong> Une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous allez effectuer un jet d'attaque, de sauvegarde ou de compétence</p>\n<p><strong>Effet</strong>Vous souhaitez avoir de la chance à voix haute. Vous lancez les dés deux fois et conservez le résultat le plus élevé.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous allez effectuer un jet d'attaque, de sauvegarde ou de compétence</p>\n<p><strong>Effet</strong>Vous souhaitez avoir de la chance à voix haute. Vous lancez les dés deux fois et conservez le résultat le plus élevé.</p>"
         },
         {
             "id": "Fight with Fear",

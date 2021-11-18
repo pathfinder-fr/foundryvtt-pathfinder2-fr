@@ -287,6 +287,11 @@
             "description": "<p>Vous avez été élevé dans les cuisines d'une taverne ou dans un autre établissement où l'on mange et y excellez, devenant un cuisinier extraordinaire. Pétrir, cuire, un peu de brassage à côté ; vous avez passé beaucoup de tempos hors de vue. Il et désormais temps que vous sortiez de votre cuisine pour voir les aspects du monde extérieur par vos propres yeux.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Constitution</strong> ou d'<strong>Intelligence</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Survie et en Connaissance de la Cuisine. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.1Eceqc6zbMj2x0q9]{Assaisonné}.</p>"
         },
         {
+            "id": "Back-Alley Doctor",
+            "name": "Docteur d'arrière salle",
+            "description": "<p>Vous êtes le docteur vers lequel on se tourne lorsqu'un soigneur ou un clinicien plus officiel pourrait ne pas être accessible. Vous pouvez vous être spécialisé dans la couture des blessures par arme à feu ou avoir un accord confidentiel avec une organisation criminelle pour fournir vos services à n'importe quelle heure du jour et de la nuit. Dans les deux cas, vous vous êtes peut-être tourné vers une vie aventurière lorsqu'un client précédent s'est révlé mécontent de votre travail ou lorsque des membres de l'establishment local ont commencé à poser beaucoup de questions.</p>\n<p>Choisissez deux primes de caractéristiques. L'une doit être de <strong>Constitution</strong> ou de <strong>Sagesse</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en <strong>Médecine</strong> et en Connaissance de la pègre. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.bkZgWFSFV4cAf5Ot]{Chirurgie risquée}.</p>"
+        },
+        {
             "id": "Mantis Scion",
             "name": "Fils de la Mante",
             "description": "<p><strong>Prérequis</strong> Région - Hautes mers</p>\n<hr />\n<p>Au moins un de vos parents est un membre des notoires assassins de la Mante Rouge, des tueurs à gages sans pitié qui n'échouent que rarement à réclamer leur récompense. Que ce soit délibérément ou par le biais de la simple exposition, vous êtes entraîné depuis votre jeune âge dans l'art de traquer et de tuer des gens.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Dextérité </strong> ou de <strong>sagesse</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en Discrétion et en connaissance de l'assassinat. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Assurance} avec la Discrétion.</p>"
@@ -379,7 +384,7 @@
         {
             "id": "Nirmathi Guerrilla",
             "name": "Escarmoucheur Nirmathi",
-            "description": "<p><strong>Prérequis</strong> Région - Œil de l'Effroi</p>\n<hr />\n<p>L'artisanat du bois vous vient de manière innée et vous avez appris comment utiliser la forêt à votre avantage dans vos tactiques d'escarmouches contre des forces supérieures comme l'armée du Molthune ou la Légion du Croc-de-fer.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Dextérité</strong> ou <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.<br /></p>\n<p>Vous êtes qualifié dans la compétence Survie et Connaissance de la forêt. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.beyw5bdA5hkQbmaG]{Traqueur de terrain} (sous-bois).</p>"
+            "description": "<p><strong>Prérequis</strong> Région - Œil de l'Effroi</p>\n<hr />\n<p>L'artisanat du bois vous vient de manière innée et vous avez appris comment utiliser la forêt à votre avantage dans vos tactiques d'escarmouches contre des forces supérieures comme l'armée du Molthune ou la Légion du Croc-de-fer.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Dextérité</strong> ou <strong>Sagesse</strong> et l’autre est une prime de caractéristique libre.<br /></p>\n<p>Vous êtes qualifié dans la compétence Discrétion et Connaissance de la forêt. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.beyw5bdA5hkQbmaG]{Traqueur de terrain} (sous-bois).</p>"
         },
         {
             "id": "Truth Seeker",
@@ -635,6 +640,11 @@
             "id": "Hookclaw Digger",
             "name": "Creuseur Crochetgriffu",
             "description": "<p><strong>Prérequis</strong> Ascendance kobold</p>\n<hr />\n<p>Vous êtes un creuseur de la tribu kobold Crochetgriffu, né sous les rues d'Absalom, avec des muscles et un esprit façonnés par les années passées à creuser des galeries à travers la roche et la terre et une confiance construite sur la fierté de votre héritage draconique.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être de <strong>Force</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Artisanat et en Connaissance minière et en Connaissance de l'ingénierie. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.3HChkcD1IRqv4DbA]{Outil improvisé}.</p>"
+        },
+        {
+            "id": "Hired Killer",
+            "name": "Tueur à gages",
+            "description": "<p>Votre vie a vraiment commencé après votre premier meurtre. Peut-être que vous avez tué en légitime défense, peut-être que c'était un crime passionnel ou peut-être que c'était juste un accident et que vous étiez un gamin au mauvais endroit au mauvais moment. Au final, le pourquoi n'a pas d'importance. Vous vous en êtes sorti. Et puis vous avez peut-être découvert que ça ne vous a pas dérangé autant que ça aurait dû. Et peut-être, juste peut-être, que vous aviez un talent que vous pouviez utiliser pour vous forger une vie. Un talent et une vie trempés dans le sang, bien sûr. Mais c'est le vôtre.</p>\n<p>Choose two ability boosts. One boost must be to <strong>Strength</strong> or <strong>Dexterity</strong>, and one is a free ability boost.</p>\n<p>You're trained in the Stealth skill and the Underworld Lore skill. You gain the @Compendium[pf2e.feats-srd.beyw5bdA5hkQbmaG]{Terrain Stalker} skill feat, choosing a terrain appropriate for where you make your kills.</p>\n<p>Choisissez deux primes de caractéristiques. L'une doit être de <strong>Force</strong> ou de <strong>Dextérité</strong> et l'autre est libre.</p>\n<p>Vous êtes qualifié en <strong>Discrétion</strong> et en Connaissance de la pègre. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.beyw5bdA5hkQbmaG]{Traqueur de terrain}, choisissant un terrain approprié à l'endroit où vous tuez vos cibles.</p>"
         },
         {
             "id": "Eidolon Contact (Arcana)",
@@ -1224,7 +1234,7 @@
         {
             "id": "Grand Council Bureaucrat",
             "name": "Bureaucrate du Grand Conseil",
-            "description": "<p><strong>Prérequis</strong> Région - Absalom et l'Île de la Pierre-Étoile</p>\n<hr />\n<p>Vous avez passé des années à travailler comme clerc d'un fonctionnaire du gouvernement d'Absalom. Votre service vous a appris une chose ou deux à propos des discours d'encouragement et à manipuler la bureaucratie de la ville.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être d'<strong>Intelligence</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Société et en Connaissance du gouvernement. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.KpFetnUqTiweypZk]{Bonne impression de groupe}.</p>"
+            "description": "<p><strong>Prérequis</strong> Région - Absalom et l'Île de la Pierre-Étoile</p>\n<hr />\n<p>Vous avez passé des années à travailler comme clerc d'un fonctionnaire du gouvernement d'Absalom. Votre service vous a appris une chose ou deux à propos des discours d'encouragement et à manipuler la bureaucratie de la ville.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être d'<strong>Intelligence</strong> ou de <strong>Charisme</strong> et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Diplomatie et en Connaissance du gouvernement. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.KpFetnUqTiweypZk]{Bonne impression de groupe}.</p>"
         },
         {
             "id": "Butcher",

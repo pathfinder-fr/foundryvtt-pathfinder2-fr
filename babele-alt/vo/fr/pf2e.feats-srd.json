@@ -1895,7 +1895,7 @@
         {
             "id": "Westyr's Wayfinder Repository",
             "name": "Westyr's Wayfinder Repository",
-            "description": "<p><strong>Conditions</strong> Vous avez au moins un emplacement de sort de niveau 1 et un guide.</p>\n<hr />\n<p>Vous pouvez utiliser un guide pour emmagasiner un petit peu de magie supplémentaire pour quand vous en aurez besoin le plus.</p>\n<p>Lorsque vous faites vos préparatifs quotidiens, vous pouvez choisir un sort de niveau 1 de votre grimoire ou de votre répertoire de sorts et l'emmagasiner dans votre guide. Vous pouvez lancer ce sort à partir de votre guide en utilisant le nombre d'actions habituel. Une fois que le sort a été Lancé, il est dépensé et vous devez attendre vos prochains préparatifs quotidiens pour emmagasiner un autre sort dans votre guide.</p>",
+            "description": "<p><strong>Conditions</strong> Vous avez au moins un emplacement de sort de niveau 1 et un guide.</p>\n<hr />\n<p>Vous pouvez utiliser un guide pour emmagasiner un petit peu de magie supplémentaire pour quand vous en aurez besoin le plus.</p>\n<p>Lorsque vous faites vos préparatifs quotidiens, vous pouvez choisir un sort de niveau 1 de votre grimoire ou de votre répertoire de sorts et l'emmagasiner dans votre guide. Vous pouvez lancer ce sort à partir de votre guide en utilisant le nombre d'actions habituel. Une fois que le sort a été Lancé, il est dépensé et vous devez attendre vos prochains préparatifs quotidiens pour emmagasiner un autre sort dans votre guide. Comme à l'ordinaire, le tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>",
             "prereq": [
                 {
                     "value": "Dévouement d'agent des Éclaireurs"
@@ -2425,6 +2425,11 @@
             ]
         },
         {
+            "id": "Blast Resistance",
+            "name": "Blast Resistance",
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre.</p>\n<hr />\n<p>Vous êtes habitué à la clameur de l'acier, à la déflagration d'une arme à feu et au souffle tonitruant des explosions. Vous obtenez une résistance de 3 contre les sons. Si vous réussissez un jet de sauvegarde contre un effet auditif qui provoque la condition @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourd}, vous obtenez un succès critique à la place.</p>"
+        },
+        {
             "id": "Brutal Finish",
             "name": "Brutal Finish",
             "description": "<p><strong>Conditions</strong> Vous maniez une arme de corps à corps à deux mains.</p>\n<hr />\n<p>Votre ultime coup peut être impactant, même s’il est dévié par les défenses de votre adversaire. Effectuez une Frappe avec l’arme requise. Votre tour se termine après la Frappe. La Frappe inflige un dé de dégâts d’arme supplémentaire ou deux dés si vous êtes au moins de niveau 18. La Frappe a également l’effet d’échec suivant.</p>\n<p><strong>Échec</strong>  Vous infligez un montant de dégâts égal à un dé de dégâts de l’arme requise. Ces dégâts s’élèvent à deux dés si vous êtes au moins de niveau 18 au moins.</p>"
@@ -2504,6 +2509,11 @@
                     "value": "source de mise à mal ou de guérison"
                 }
             ]
+        },
+        {
+            "id": "Clan Pistol",
+            "name": "Clan Pistol",
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre.</p>\n<hr />\n<p>Élevé dans les anciennes salles de Fort Dongun ou de la région environnante, vous montrez quelle est votre lignée avec un pistolet de clan, plutôt qu'une dague de clan. Vous recevez gratuitement un pistolet de clan de votre clan, car il vous a été donné à la naissance. Il remplace la dague de votre clan. Vendre ce pistolet est un terrible tabou et vous vaut le mépris des autres nains. Vous êtes qualifié avec le pistolet de clan. De plus, lorsque votre pistolet de clan est visible, vous bénéficiez d'un bonus de circonstances de +1 aux tests pour Recueillir des informations ou pour @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression} lorsque vous interagissez avec les citoyens d'Alkenastre, de Fort Dongun ou de leurs alliés.</p>"
         },
         {
             "id": "Fade Away",
@@ -4284,6 +4294,11 @@
             ]
         },
         {
+            "id": "Shiny Button Eyes",
+            "name": "Shiny Button Eyes",
+            "description": "<p>Vous avez poli vos yeux pour refléter les plus petits détails dans la lumière la plus faible. Vous gagnez la compétence @Compendium[pf2e.feats-srd.gLfy6C5r10LNJJyy]{Perspicacité astucieuse} comme don supplémentaire mais vous devez choisir Perception. De plus, vous obtenez un bonus de circonstances de +1 aux tests de Perception contre les illusions visuelles.</p>."
+        },
+        {
             "id": "Tengu Weapon Expertise",
             "name": "Tengu Weapon Expertise",
             "description": "<p>L'étude vous a rendu expert avec les armes tengu.</p>\n<p>Lorsque vous obtenez une capacité de classe qui vous accorde une maîtrise experte ou supérieure avec une arme donnée ou avec des armes, vous obtenez cette même maîtrise avec les armes pour lesquelles vous disposez de Familiarité avec les armes tengu.</p>",
@@ -4955,6 +4970,11 @@
                     "value": "Études magiques"
                 }
             ]
+        },
+        {
+            "id": "Fire Savvy",
+            "name": "Fire Savvy",
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre</p>\n<hr />\n<p>Vous avez grandi autour d'une forge et vous êtes habitué à gérer la fumée et les flammes. Votre test nu pour éliminer les dégâts de feu persistants est un DD 10 au lieu de DD 15, réduit à un DD 5 avec une assistance appropriée. De plus, si vous obtenez un succès à un jet de sauvegarde contre la suffocation ou l'étouffement dû à la fumée ou aux cendres, vous obtenez un succès critique à la place.</p>"
         },
         {
             "id": "Advanced Mysteries",
@@ -6641,6 +6661,11 @@
             "description": "<p><strong>Déclencheur</strong> Vous êtes atteint par un coup critique qui inflige des dégâts physiques.</p>\n<hr />\n<p>Votre nature intraitable peut vous aider à surmonter même les plus graves des blessures.</p>\n<p>Faites un test nu contre un DD 17. Si vous obtenez un succès, l'attaque devient un coup normal.</p>"
         },
         {
+            "id": "Histrionic Injury",
+            "name": "Histrionic Injury",
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<p><strong>Déclencheur</strong> Une créature que vous pouvez voir vous blesse avec une Frappe au corps-à-corps.</p>\n<hr />\n<p>Vous répondez avec un regard effaré, une chute spectaculaire ou un mouvement de bras théâtral qui désarçonne votre agresseur. L'attaquant doit réussir un jet de Volonté contre le plus élevé entre votre DD de classe ou votre DD de sort ou être @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié 1} pendant 1 round (@Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié 2} sur un échec critique).</p>"
+        },
+        {
             "id": "Magical Master",
             "name": "Magical Master",
             "description": "<p>Votre eidolon obtient une brochette de sorts de niveau inférieurs. Choisissez un sort inné de la tradition de votre éidolon de chacun des niveau de sort dde 1 à 7 que votre eidolon ne possède pas actuellement parmi ses sorts innés issus d'Adepte magique. Votre eidolon peut lancer chacun de ses sorts une fois par jour comme des sorts innés.</p>\n<p>Vous pouvez échanger ces sorts à chaque niveau pair, mais votre eidolon ne peut jamais connaître plus d'un sort pour chacun des niveaux de 1 à 7</p>",
@@ -7181,7 +7206,7 @@
         {
             "id": "Theoretical Acumen",
             "name": "Theoretical Acumen",
-            "description": "<p><strong>Fréquence</strong> Une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous obtenez un succès à un test de connaissance pour @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Vous souvenir} pour identifier une créature.</p>\n<hr />\n<p>Vous étudiez la forme et le comportement d'une créature pour former des hypothèses sur les moyens de vaincre ses capacités. Une fois avant la fin de votre prochain tour, vous pouvez utiliser le modificateur de compétence du test déclencheur à la place de votre modificateur de jet de sauvegarde contre une des capacités de la créature, à la place de votre modificateur de Perception pour @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} la créature, à la place de votre modificateur de Duperie pour @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter} la créature ou à la place de votre modificateur d'Intimidation pour @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} la créature. De manière alternative, contre l'une des attaques de la créature, vous pouvez utiliser votre DD dans la compétence utilisée dans le test déclencheur à la place de votre CA.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous obtenez un succès à un test de connaissance pour @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Vous souvenir} pour identifier une créature.</p>\n<hr />\n<p>Vous étudiez la forme et le comportement d'une créature pour former des hypothèses sur les moyens de vaincre ses capacités. Une fois avant la fin de votre prochain tour, vous pouvez utiliser le modificateur de compétence du test déclencheur à la place de votre modificateur de jet de sauvegarde contre une des capacités de la créature, à la place de votre modificateur de Perception pour @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} la créature, à la place de votre modificateur de Duperie pour @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter} la créature ou à la place de votre modificateur d'Intimidation pour @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} la créature. De manière alternative, contre l'une des attaques de la créature, vous pouvez utiliser votre DD dans la compétence utilisée dans le test déclencheur à la place de votre CA.</p>"
         },
         {
             "id": "Quick Stow (Swordmaster)",
@@ -7527,6 +7552,11 @@
             ]
         },
         {
+            "id": "Reinforced Chassis",
+            "name": "Reinforced Chassis",
+            "description": "<p>Votre corps est conçu pour être particulièrement résistant. Votre châssis est une armure intermédiaire du groupe des armures de plaques qui confère un bonus d'objet de +4 à la CA, un modificateur de Dextérité maximum de +1, une pénalité d'échec de -2, une pénalité de vitesse de -1,5 met une valeur de Force de 16. Vous ne pouvez jamais porter une autre armure ou retirer votre châssis ; cependant, vous ne devenez pas @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} en dormant avec. Enfin, vous pouvez graver des runes d'armure sur votre châssis comme à l'accoutumée.</p>\n<p><strong>Amélioration</strong> Votre châssis devient difficile à surpasser. Vous gagnez la réaction Déflexion du châssis.</p>"
+        },
+        {
             "id": "Mischievous Tail",
             "name": "Mischievous Tail",
             "description": "<p>Votre queue peut perturber vos adversaires.</p>\n<p>Vous pouvez Désarmer et Mettre à terre les créatures avec votre queue, même si vous ne possédez pas de main libre. Toutes les restrictions de Queue habile continuent autrement à s'appliquer. Si vous possédez Queue fouettante, votre attaque à mains nues de queue obtient les traits désarmer et croc-en-jambe.</p>",
@@ -7780,7 +7810,7 @@
         {
             "id": "Soaring Flight",
             "name": "Soaring Flight",
-            "description": "<p><strong>Fréquence</strong> Une fois par jour</p>\n<hr />\n<p>Être un tengu permet d'être libéré des préoccupations du monde du dessous.</p>\n<p>Vous obtenez une paire d'ailes magiques ou étendez celles que vous possédez déjà. Pendant 5 minutes, vous obtenez une Vitesse de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Vol} égale à votre Vitesse au sol ou 6 m, celle qui est la plus élevée.</p>",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Être un tengu permet d'être libéré des préoccupations du monde du dessous.</p>\n<p>Vous obtenez une paire d'ailes magiques ou étendez celles que vous possédez déjà. Pendant 5 minutes, vous obtenez une Vitesse de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Vol} égale à votre Vitesse au sol ou 6 m, celle qui est la plus élevée.</p>",
             "prereq": [
                 {
                     "value": "héritage tengu des cieux"
@@ -8230,7 +8260,7 @@
         {
             "id": "Melodious Spell",
             "name": "Melodious Spell",
-            "description": "<p>Vous mêlez subtilement incantations et performances artistiques.</p>\n<p>Si votre prochaine action consiste à Lancer un sort, faites un test de Représentation contre le DD de Perception de tous les observateurs. Si votre test de Représentation est réussi contre le DD de Perception d’un observateur, celui-ci ne remarque pas que vous êtes en train de Lancer un sort, même si les sorts produisent normalement des effets sensoriels évidents indiquant à tout le monde à proximité qu’une incantation est en cours et que les composants verbaux, somatiques et matériels sont très facilement perceptibles. Vous dissimulez tout ceci pour les faire passer pour une représentation artistique ordinaire. Ce pouvoir cache uniquement les actions d’incantation et la manifestation du sort, pas ses effets. Un observateur verra ainsi tout de même le rayon qui part de vous ou vous verra disparaître.</p>"
+            "description": "<p>Vous mêlez subtilement vous incantations dans vos représentations artistiques.</p>\n<p>Si votre prochaine action consiste à Lancer un sort, faites un test de Représentation contre le DD de Perception de tous les observateurs. Si votre test de Représentation est réussi contre le DD de Perception d’un observateur, celui-ci ne remarque pas que vous êtes en train de Lancer un sort, même si les sorts produisent normalement des effets sensoriels évidents indiquant à tout le monde à proximité qu’une incantation est en cours et que les composants verbaux, somatiques et matériels sont très facilement perceptibles. Vous dissimulez tout ceci pour les faire passer pour une représentation artistique ordinaire. Ce pouvoir cache uniquement les actions d’incantation et la manifestation du sort, pas ses effets. Un observateur verra ainsi tout de même le rayon qui part de vous ou vous verra disparaître.</p>"
         },
         {
             "id": "Supertaster",
@@ -9517,7 +9547,7 @@
         {
             "id": "Reflective Ripple Stance",
             "name": "Reflective Ripple Stance",
-            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous prenez une posture de grace fluide comme si de petites quantités d'eau accompagnaient vos déplacements et vos attaques. Vous pouvez porter des attaques de vagues coulantes qui infligent [[r/ 1d6 #contondants]]{1d6 dégâts contondants}. Ces attaques sont dans le groupe pugilat et possèdent les traits agile, désarmer, finesse, non létal, croc-en-jambe, à mains nues et eau.</p>\n<p>Tant que vous êtes dans la posture de l'onde réfléchissante, vous obtenez un bonus de circonstances de +1 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou pour faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} et vous obtenee un bonus de circonstance de +2 à votre DD de Réflexes pour éviter d'être Désarmé ou contre les Croc-en-Jambe.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don obtient à votre choix le trait divin ou occulte, correspondant à la tradition de vos sorts de ki si c'est possible.</p>"
+            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous prenez une posture de grace fluide comme si de petites quantités d'eau accompagnaient vos déplacements et vos attaques. Vous pouvez porter des attaques de vagues coulantes qui infligent [[/r 1d6 #contondants]]{1d6 dégâts contondants}. Ces attaques sont dans le groupe pugilat et possèdent les traits agile, désarmer, finesse, non létal, croc-en-jambe, à mains nues et eau.</p>\n<p>Tant que vous êtes dans la posture de l'onde réfléchissante, vous obtenez un bonus de circonstances de +1 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou pour faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} et vous obtenee un bonus de circonstance de +2 à votre DD de Réflexes pour éviter d'être Désarmé ou contre les Croc-en-Jambe.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don obtient à votre choix le trait divin ou occulte, correspondant à la tradition de vos sorts de ki si c'est possible.</p>"
         },
         {
             "id": "Log Roll",
@@ -9702,6 +9732,11 @@
                     "value": "qualifié en Survie"
                 }
             ]
+        },
+        {
+            "id": "Energy Beam",
+            "name": "Energy Beam",
+            "description": "<p>Vous pouvez canaliser la puissance de votre noyau à travers la gemme magique qui vous sert d'œil. Vous obtenez une attaque à distance à mains nue de rayon qui inflige [[/r {1d4}[fire]]]{1d4 dégâts de feu}. Le rayon d'énergie a un facteur de portée de 6 m. En cas de coup critique, la cible subit des dégâts de feu persistants égaux au nombre de dé de déga^t d'arme. Votre rayon d'œil n'ajoute pas d'effet critique spécialisé.</p>\n<p><strong>Amélioration</strong> Vous canaliser un pouvoir plus puissant. Augmentez le dé de dégât de votre rayon d'énergie d'un cran, 1d4 devenant 1d6.</p>"
         },
         {
             "id": "Hunter's Vision",
@@ -10987,6 +11022,11 @@
             "description": "<p><strong>Déclencheur</strong> Vous subissez des dégâts qui devraient vous faire passer à 0 Points de vie.</p>\n<hr />\n<p>Vous vous êtes arrangé pour échapper à la faucheuse à un cheveu près. Vous évitez de sombrer dans l'inconscience ou d'être tué et restez à 1 Point de vie, mais vous devenez @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 1 (ou augmentez la valeur de Condamné de 1 si vous étiez déjà Condamné).</p>\n<p>Vous ne pouvez réduire ou ignorer la condition Condamné de Trompe la mort. La condition Condamné de Trompe la mort dure pendant 10 minutes, bien que cela n'affecte pas la durée de toute autre condition Condamnée que vous possédez.</p>"
         },
         {
+            "id": "Automaton Armament",
+            "name": "Automaton Armament",
+            "description": "<p>Il vous a été fourni une partie de corps conçue pour le combat. Vous obtenez soit une attaque à mains nue de griffe, soit de pince. La griffe inflige [[/r {1d4}[slashing]]]{1d4 dégâts tranchants}, est dans le groupe pugilat, et possède les traits agile, finesse et à mains nues. La pince inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}, est dans le groupe pugilat et a les traits saisir et à mains nues. Votre corps peut être reconfiguré ; vous pouvez choisir ce don à tout niveau et vous pouvez utiliser le réapprentissage de ce don pour le perdre ou le gagner ou pour changer le type d'attaque que vous obtenez.</p>\n<p><strong>Amélioration</strong> Votre partie permettant l'attaque est renforcée. Augmentez le dé de dégâts de l'attaque à mains nues obtenue par ce don d'un degré (le 1d4 devient 1d6 ou le 1d6 devient 1d8).</p>"
+        },
+        {
             "id": "Enduring Quickness",
             "name": "Enduring Quickness",
             "description": "<p>Vous vous déplacez aussi vite et aussi haut que le vent. Vous êtes accéléré en permanence.</p>\n<p>Vous pouvez effectuer votre action supplémentaire pour @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marcher rapidement} ou @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bondir} ou pour fournir l’une des actions nécessaires pour @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Sauter en hauteur} ou @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{en longueur}.</p>"
@@ -11127,7 +11167,7 @@
         {
             "id": "Avenge in Glory",
             "name": "Avenge in Glory",
-            "description": "<p><strong>Fréquence</strong> Une fois par jour</p>\n<p><strong>Accès</strong> ethnie nain des montagnes</p>\n<p><strong>Déclencheur</strong> Un allié dans les 9 m est affecté par la condition @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant}</p>\n<hr />\n<p>Vous honorez le sacrifice de votre allié, en obtenant des points de vie temporaires en nombre égal à votre niveau pendant 1 minute. tant que vous les conservez, vous obtenez un bonus de circonstances de +1 à vos jets d'attaque et de dégâts.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Accès</strong> ethnie nain des montagnes</p>\n<p><strong>Déclencheur</strong> Un allié dans les 9 m est affecté par la condition @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant}</p>\n<hr />\n<p>Vous honorez le sacrifice de votre allié, en obtenant des points de vie temporaires en nombre égal à votre niveau pendant 1 minute. tant que vous les conservez, vous obtenez un bonus de circonstances de +1 à vos jets d'attaque et de dégâts.</p>"
         },
         {
             "id": "School Spell Redirection",
@@ -11334,6 +11374,11 @@
                     "value": "Bravoure"
                 }
             ]
+        },
+        {
+            "id": "Helpful Poppet",
+            "name": "Helpful Poppet",
+            "description": "<p>Vous êtes particulièrement doué pour aider les autres à accomplir une tâche. Vous obtenez un bonus de circonstances de +2 aux tests pour Aider et vous n'infligez pas à votre allié une pénalité de circonstances de -1 à son test si vous échouez de façon critique votre tentative pour l'Aider.</p>"
         },
         {
             "id": "Scrollmaster Dedication",
@@ -12241,6 +12286,11 @@
                     "value": "maître en Athlétisme"
                 }
             ]
+        },
+        {
+            "id": "Automaton Lore",
+            "name": "Automaton Lore",
+            "description": "<p>Vous avez appris à mieux comprendre le processus qui a créé votre corps et la magie qui le fait fonctionner. Vous êtes qualifié en Arcanes et en Artisanat. Si vous devriez être automatiquement qualifié dans l'une de ces compétences (grâce à votre historique ou votre classe, par exemple), vous êtes qualifié à la place dans une compétence de votre choix. Vous devenez également formé en Connaissance des automates.</p>\n<p><strong>Amélioration</strong> Votre compréhension est plus approfondie. Augmentez votre rang de compétence en Arcanes ou en Artisanat, ainsi qu'en Connaissance des automates jusqu'à expert. Si vous étiez déjà un expert dans la compétence choisie, votre rang passe à maître à la place.</p>\n<hr />\n<p><em>Note : Si vous êtes déjà qualifié dans la compétence fournie par ce don, vous devez sélectionner manuellement une compétence alternative. Vous devez également entrer manuellement la compétence de Connaissances accordée.</em></p>"
         },
         {
             "id": "Sprite's Spark (Melixie)",
@@ -13284,7 +13334,7 @@
         {
             "id": "Arrow of Death",
             "name": "Arrow of Death",
-            "description": "<p><strong>Fréquence</strong>Une fois par jour</p>\n<hr />\n<p>Vous modifiez une flèche ou un carreau pour porter la mort à votre cible en un unique tir puissant. Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} à l'arc. Si vous touchez, vous infligez 10d10 dégâts de précision supplémentaires. En cas de coup critique, la cible doit également réussir un test de Vigueur contre le plus élevé entre votre DD de classe et votre DD de sort ou être immédiatement tuée ; ce jet possède le trait mort et mise hors de combat.</p>",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous modifiez une flèche ou un carreau pour porter la mort à votre cible en un unique tir puissant. Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} à l'arc. Si vous touchez, vous infligez 10d10 dégâts de précision supplémentaires. En cas de coup critique, la cible doit également réussir un test de Vigueur contre le plus élevé entre votre DD de classe et votre DD de sort ou être immédiatement tuée ; ce jet possède le trait mort et mise hors de combat.</p>",
             "prereq": [
                 {
                     "value": "Dévouement d'Archer mystique"
@@ -15560,6 +15610,11 @@
             "description": "<p>Vos pieds et vos armes bougent de concert. Vous avez le choix entre Faire un pas puis Frapper, ou Frapper puis Faire un pas.</p>"
         },
         {
+            "id": "Sealed Poppet",
+            "name": "Sealed Poppet",
+            "description": "<p>Vous avez renforcé vos parties intérieures avec des matériaux ignifuges ou retardateurs de feu, vous protégeant ainsi du feu. Vous n'avez plus la faiblesse au feu de la capacité inflammable.</p>\n<p><strong>Spécial</strong>Vous ne pouvez pas prendre ce don si vous êtes une Poupée rembourrée.</p>"
+        },
+        {
             "id": "Intuitive Illusions",
             "name": "Intuitive Illusions",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Votre tour commence</p>\n<hr />\n<p>La magie d'illusion vous vient si naturellement que vous pouvez sans effort Maintenir vos ruses magiques.</p>\n<p>Vous obtenez immédiatement les effets de l'action @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Maintenir un sort} pour étendre la durée d'un de vos sorts d'illusion actifs.</p>",
@@ -15857,6 +15912,11 @@
                     "value": "Dévouement de Cogneur"
                 }
             ]
+        },
+        {
+            "id": "Arcane Communication",
+            "name": "Arcane Communication",
+            "description": "<p>Vous pouvez délivrer des messages silencieusement. Vous gagnez Télépathie de contact, ce qui vous permet de communiquer silencieusement et mentalement avec n'importe quelle créature que vous touchez, à condition que vous partagiez une même langue.</p>\n</p><strong>Amélioration</strong> Vous pouvez envoyer vos messages encore plus loin. Votre télépathie gagne une portée de 3 m, mais vous devez toujours partager une langue avec votre cible.</p>"
         },
         {
             "id": "Rampaging Form",
@@ -16366,6 +16426,11 @@
             ]
         },
         {
+            "id": "Explosive Savant",
+            "name": "Explosive Savant",
+            "description": "<p><strong>Accès</strong> Vous venez de Fort Dongun ou de l'Alkenastre.</p>\n<hr />\n<p>Une vie passée à manier des armes à feu et à minuter les explosifs dans le chaos de la bataille vous a accordé une grande compétence avec les armes volatiles. Vous êtes qualifié avec les bombes et les armes à feu simples et de guerre.</p>"
+        },
+        {
             "id": "Very, Very Sneaky",
             "name": "Very, Very Sneaky",
             "description": "<p>Quand vous utilisez l’action Être furtif, vous pouvez vous déplacer de votre Vitesse et vous n’avez plus besoin de bénéficier d’un abri, d’un abri important ou d’être masqué pour Vous cacher ou Être furtif.</p>",
@@ -16755,6 +16820,16 @@
             ]
         },
         {
+            "id": "Arcane Eye",
+            "name": "Arcane Eye",
+            "description": "<p>Votre œil a été amélioré magiquement pour percer les ténèbres. Vous obtenez Vision dans le noir.</p>\n</p><strong>Amélioration</strong>Votre œil peut voir des créatures @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisibles} par brèves poussées. Vous pouvez lancer Détection de l'invisibilité comme un sort inné arcanique une fois par heure.</p>",
+            "prereq": [
+                {
+                    "value": "vision nocturne"
+                }
+            ]
+        },
+        {
             "id": "Defy Death",
             "name": "Defy Death",
             "description": "<p>Vous êtes exceptionnellement difficile à tuer.</p>\n<p>Le DD de vos tests de récupération est égal à 9 + votre valeur Mourante ou 8 + votre valeur Mourante si vous avez le don général @Compendium[pf2e.feats-srd.AmP0qu7c5dlBSath]{Robustesse}.</p>\n<p>De plus, lorsque quelqu'un vous ramène à la vie en utilisant la magie qui devrait normalement vous laisser affaibli pendant une semaine (tel que Rappel à la vie ou le rituel de Résurrection), vous ne subissez pas cette condition.</p>",
@@ -16831,6 +16906,11 @@
             "id": "Wortwitch",
             "name": "Wortwitch",
             "description": "<p>Vous avez une affinité particulière pour les plantes feuillues.</p>\n<p>Votre patron vous accorde un familier léchi. Si vous avez déjà un familier, ce léchi remplace votre précédent familier, comme s'il avait été tué.</p>\n<p>De plus, vous obtenez la capacité de voir à travers les feuilles, les lianes et les autres feuillages. Vous ne subissez pas les pénalités de circonstances aux attaques à distance de sort ou aux tests de Perception provoqués par le feuillage et votre attaque ciblée ne nécessite pas un test nu pour réussir contre une cible qui n'est @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} que par une telle végétation.</p>"
+        },
+        {
+            "id": "Harmless Doll",
+            "name": "Harmless Doll",
+            "description": "<p>Vous ne ressemblez à rien de plus qu'un jouet, une poupée ou une statuette ordinaire et vous pouvez tromper les autres avec votre apparence inoffensive. Vous êtes qualifié en Duperie (ou une autre compétence si vous êtes déjà qualifié en Duperie) et vous pouvez vous faire passer pour un jouet inanimé ou une simple marionnette. Vous pouvez vous @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Cacher} sans aucun abri ou camouflage des créatures qui ne savent pas que vous êtes vivant, tant que vous êtes dans un endroit où un jouet de votre forme ne serait pas déplacé, comme un stand de carnaval, une rue de la ville ou un magasin de jouets (à la discrétion du MJ). Si vous réussissez, ceux qui vous regardent vous voient toujours, mais ils vous confondent avec un jouet inanimé. Après avoir été trompés une fois, ils se rendent compte que vous êtes vivant, et vous ne pouvez plus vous cacher d'eux de cette manière.</p>\n<hr />\n</p><em>Note : Si vous êtes déjà qualifié dans la compétence indiquée par ce don, vous devez sélectionner manuellement une compétence alternative.</em></p>"
         },
         {
             "id": "Ancestral Longevity",
@@ -19092,6 +19172,16 @@
             ]
         },
         {
+            "id": "Nothing But Fluff",
+            "name": "Nothing But Fluff",
+            "description": "<p>Votre intérieur rembourré est dépourvu d'organes ou de structure spécifique avec peu de points faibles. Vous obtenez une résistance aux dégâts de précision égale à la moitié de votre niveau.</p>",
+            "prereq": [
+                {
+                    "value": "Héritage Poupée rembourrée"
+                }
+            ]
+        },
+        {
             "id": "Airborne Form",
             "name": "Airborne Form",
             "description": "<p>Votre eidolon peut voler. Il obtient une vitesse de vol égale à sa vitesse.</p>",
@@ -19488,6 +19578,11 @@
             "id": "Swift Banishment",
             "name": "Swift Banishment",
             "description": "<p><strong>Déclencheur</strong> Vous infligez un coup critique à une créature qui n’est pas sur son plan d’origine.</p>\n<p><strong>Conditions</strong> Vous avez préparé un sort de bannissement</p>\n<hr />\n<p>La puissance de vos coups renvoie votre adversaire vers son plan d’origine. Vous dépensez un sort @Compendium[pf2e.spells-srd.bay4AfSu2iIozNNW]{Bannissement} que vous avez préparé et qui affecte la créature à laquelle vous avez infligé un coup critique sans avoir à lancer le sort. La créature peut tenter de résister comme à l’accoutumée.</p>"
+        },
+        {
+            "id": "Adaptive Vision",
+            "name": "Adaptive Vision",
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre</p>\n<hr />\n<p>Après des années d'utilisation de poudre noire dans des espaces faiblement éclairés, vous vous êtes habitué aux flashs lumineux éblouissants et aux changements soudains d'éclairage. Vous gagnez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets visuels. Si vous obtenez un succès à un jet de sauvegarde contre un effet visuel, vous obtenez un succès critique à la place.</p>"
         },
         {
             "id": "Wave Spiral",
@@ -21010,7 +21105,7 @@
         {
             "id": "Dance of Intercession",
             "name": "Dance of Intercession",
-            "description": "<p><strong>Fréquence</strong> trois fois par jour</p>\n<hr />\n<p>Vous avez participé ou avez été témoin de la danse utilisée pour invoquer le dragon céleste et pouvez exploiter une parcelle de ce pouvoir. Vous vous lancez dans une danse en Marchant rapidement de la moitié de votre Vitesse, en tentant un <span data-pf2-skill-check=\"performance\" data-pf2-traits=\"\" data-pf2-label=\"DD Danse de l'intercession\" data-pf2-dc=\"35\" data-pf2-show-dc=\"gm\">Performance</span>. Vous pouvez accomplir cette danse jusqu'à trois fois par jour. La deuxième fois que vous le faites dans la même journée, utilisez le degré de réussite inférieur de 1 à celui obtenu par votre jet sur le test de représentation. La troisième fois dans la même journée, utilisez le degré de réussite de deux inférieur à votre jet de Représentation.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous exécutez les mouvements de la Danse de l'Intercession avec tant de grâce que vous évoquez une lueur du souvenir de la puissance impressionnante du Dragon Céleste. Vous lancez la version à 3 actions d'un sort de niveau 9 de @Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal} ou de Guérison à n'importe quel moment de votre déplacement. Ceci n'utilise aucun emplacement de sort.</p>\n<p><strong>Succès</strong>Comme un succès critique, mais le sort est de niveau 7 au lieu du niveau 9, car vous vous trompez dans les pas.</p>\n<p><strong>Échec</strong> Comme avec un succès critique, mais le sort est de niveau 5 au lieu du niveau 9 car vous vous trompez dans les mouvements.</p>\n<p><strong>Échec critique</strong> Vous ne parvenez pas à vous rappeler des pas de la danse. Vous ne gagnez aucun effet supplémentaire en dehors du déplacement de la moitié de votre vitesse, et vous ne pouvez pas tenter à nouveau la danse de l'intercession avant vos prochains préparatifs quotidiens.</p>",
+            "description": "<p><strong>Fréquence</strong> trois fois par jour</p>\n<hr />\n<p>Vous avez participé ou avez été témoin de la danse utilisée pour invoquer le dragon céleste et pouvez exploiter une parcelle de ce pouvoir. Vous vous lancez dans une danse en Marchant rapidement de la moitié de votre Vitesse, en tentant un <span data-pf2-skill-check=\"performance\" data-pf2-traits=\"\" data-pf2-label=\"DD Danse de l'intercession\" data-pf2-dc=\"35\" data-pf2-show-dc=\"gm\">Représentation</span>. Vous pouvez accomplir cette danse jusqu'à trois fois par jour. La deuxième fois que vous le faites dans la même journée, utilisez le degré de réussite inférieur de 1 à celui obtenu par votre jet sur le test de représentation. La troisième fois dans la même journée, utilisez le degré de réussite de deux inférieur à votre jet de Représentation.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous exécutez les mouvements de la Danse de l'Intercession avec tant de grâce que vous évoquez une lueur du souvenir de la puissance impressionnante du Dragon Céleste. Vous lancez la version à 3 actions d'un sort de niveau 9 de @Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal} ou de Guérison à n'importe quel moment de votre déplacement. Ceci n'utilise aucun emplacement de sort.</p>\n<p><strong>Succès</strong>Comme un succès critique, mais le sort est de niveau 7 au lieu du niveau 9, car vous vous trompez dans les pas.</p>\n<p><strong>Échec</strong> Comme avec un succès critique, mais le sort est de niveau 5 au lieu du niveau 9 car vous vous trompez dans les mouvements.</p>\n<p><strong>Échec critique</strong> Vous ne parvenez pas à vous rappeler des pas de la danse. Vous ne gagnez aucun effet supplémentaire en dehors du déplacement de la moitié de votre vitesse, et vous ne pouvez pas tenter à nouveau la danse de l'intercession avant vos prochains préparatifs quotidiens.</p>",
             "prereq": [
                 {
                     "value": "expert en Représentation"
@@ -21508,7 +21603,7 @@
         {
             "id": "Absorb Toxin",
             "name": "Absorb Toxin",
-            "description": "<p><strong>Déclencheur</strong> Vous faites un jet de sauvegarde contre un effet de maladie ou de poison qui affecte une zone.</p>\n<hr />\n<p>Votre peau absorbe facilement le poison et vous pouvez consciemment aspirer les toxines dans votre corps pour épargner les autres.</p>\n<p>Faites un test de contre contre l'effet déclencheur ; votre niveau de contre-attaque est égal à la moitié de votre niveau (arrondi à l'entier supérieur), et pour le test, vous utilisez soit votre DD de classe -10, soit votre modificateur de caractéristique de lanceur de sorts plus votre bonus de maîtrise de lanceur de sorts. Si vous contrez l'effet déclencheur, vous mettez fin à l'effet pour toutes les autres créatures dans la zone ; cependant, vous devez toujours faire un jet de sauvegarde contre l'effet, avec une pénalité de -2 au jet de sauvegarde initial.</p>",
+            "description": "<p><strong>Déclencheur</strong> Vous faites un jet de sauvegarde contre un effet de maladie ou de poison qui affecte une zone.</p>\n<hr />\n<p>Votre peau absorbe facilement le poison et vous pouvez consciemment aspirer les toxines dans votre corps pour épargner les autres.</p>\n<p>Faites un test de contre contre l'effet déclencheur ; votre niveau de contre est égal à la moitié de votre niveau (arrondi à l'entier supérieur), et pour le test, vous utilisez soit votre DD de classe -10, soit votre modificateur de caractéristique de lanceur de sorts plus votre bonus de maîtrise de lanceur de sorts. Si vous contrez l'effet déclencheur, vous mettez fin à l'effet pour toutes les autres créatures dans la zone ; cependant, vous devez toujours faire un jet de sauvegarde contre l'effet, avec une pénalité de -2 au jet de sauvegarde initial.</p>",
             "prereq": [
                 {
                     "value": "Vous n'êtes pas immunisé aux maladies ou aux poisons"
@@ -22170,7 +22265,7 @@
         {
             "id": "Ranged Combatant (Fire)",
             "name": "Ranged Combatant (Fire)",
-            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[r/ 1d4 #feu]]{1d4 dégâts de feu} et qui possède les traits magique et propulsif.</p>"
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #feu]]{1d4 dégâts de feu} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Elastic Mutagen",
@@ -22234,6 +22329,11 @@
                     "value": "forme alternative sans queue"
                 }
             ]
+        },
+        {
+            "id": "Integrated Armament",
+            "name": "Integrated Armament",
+            "description": "<p>Votre corps mécanique abrite une arme ou un bouclier que vous pouvez rapidement dégainer ou ranger, vous permettant d'être prêt au combat à tout moment.</p>\n<p>Vous pouvez utiliser une activité qui dure une minute, qui possède le trait manipuler, pour intégrer une arme ou un bouclier à une main dans l'un de vos bras. Vous pouvez dégainer ou ranger cet objet avec une unique action d'interaction. Les créatures ne voient pas automatiquement cet objet intégré lorsqu'il est rangé et doivent @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} activement pour le trouver. Elles subissent une pénalité de circonstances de -2 à tous les tests pour le faire. Tant que vous maniez l'objet, vous ne pouvez pas être @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmé} et vous ne pouvez pas le laisser tomber ou le relâcher ; vous devez interagir pour ranger l'arme et libérer cette main. Une créature déterminée à récupérer l'objet peut le faire, mais il faut soit 1 minute pour l'enlever, soit une violence extrême à votre bras - comme l'ablation physique de portions du membre. Vous ne pouvez avoir qu'un seul armement intégré à la fois, bien que vous puissiez utiliser l'activité d'une minute pour remplacer l'objet ou changer le bras dans lequel il est rangé.</p>\n<p><strong>Amélioration</strong> Votre corps dispose de plus d'espace pour réaliser cette intégration. Vous pouvez désormais intégrer soit deux armes à une main, soit une arme à une main et un bouclier, soit une seule arme à deux mains qui est répartie sur les deux bras. Vous pouvez utiliser une seule action d'interaction pour tirer ou ranger les deux armes intégrées. Lorsque vous dégainez une unique arme, vous pouvez choisir de la tenir à une main ou à deux mains.</p>"
         },
         {
             "id": "Ratfolk Lore",
@@ -22346,7 +22446,7 @@
         {
             "id": "Nameless Anonymity",
             "name": "Nameless Anonymity",
-            "description": "<p>Votre masque vous protège de tout acte de divination.</p>\n<p>Une fois par jour, vous pouvez lancer sur vous le sort  @Compendium[pf2e.spells-srd.EoKBlgf6Smt8opaU]{Antidétection}, intensifié au plus haut niveau de sort que vous pouvez lancer ; le sort prend immédiatement fin si votre masque est ôté, même pour un bref instant.</p>",
+            "description": "<p>Votre masque vous protège de tout acte de divination.</p>\n<p>Une fois par jour, vous pouvez lancer sur vous le sort  @Compendium[pf2e.spells-srd.EoKBlgf6Smt8opaU]{Antidétection}, intensifié au plus haut niveau de sort que vous pouvez lancer ; le sort prend immédiatement fin si votre masque est ôté, même pour un bref instant. Le sort est de la même tradition que vos sorts de focalisation.</p>",
             "prereq": [
                 {
                     "value": "Dévouement du Guerrier magique"
@@ -22552,6 +22652,11 @@
                     "value": "Frappe ki"
                 }
             ]
+        },
+        {
+            "id": "Quadruped",
+            "name": "Quadruped",
+            "description": "<p>Vous avez été construit dans une forme qui possède quatre jambes plutôt que deux. Votre vitesse est de 9 m.</p>\n<p><strong>Spécial</strong> Vous ne pouvez prendre ce don qu'au niveau 1 et vous ne pouvez pas utiliser le réapprentissage pour obtenir ou perdre ce don.</p>"
         },
         {
             "id": "Genie Weapon Flourish",
@@ -24008,7 +24113,7 @@
         {
             "id": "Battle Cry",
             "name": "Battle Cry",
-            "description": "<p><strong>Prérequis</strong> </p>\n<hr />\n<p>Quand vous effectuez un jet d’initiative, vous pouvez pousser un puissant cri de guerre et <span data-pf2-action=\"demoralize\" data-pf2-glyph=\"F\"></span>Démoraliser</span> un ennemi observé par une action gratuite. Si vous êtes légendaire en Intimidation, vous pouvez utiliser une réaction pour <span data-pf2-action=\"demoralize\" data-pf2-glyph=\"R\">Démoraliser</span> votre ennemi quand vous obtenez un succès critique sur un jet d’attaque.</p>",
+            "description": "<p>Quand vous effectuez un jet d’initiative, vous pouvez pousser un puissant cri de guerre et <span data-pf2-action=\"demoralize\" data-pf2-glyph=\"F\">Démoraliser</span> un ennemi observé par une action gratuite. Si vous êtes légendaire en Intimidation, vous pouvez utiliser une réaction pour <span data-pf2-action=\"demoralize\" data-pf2-glyph=\"R\">Démoraliser</span> votre ennemi quand vous obtenez un succès critique sur un jet d’attaque.</p>",
             "prereq": [
                 {
                     "value": "maître en Intimidation"
@@ -24333,6 +24438,11 @@
                     "value": "qualifié en Artisanat"
                 }
             ]
+        },
+        {
+            "id": "Dongun Education",
+            "name": "Dongun Education",
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre</p>\n<hr />\n<p>Vous êtes compétent dans les métiers qui sont importants pour la survie et les intérêts commerciaux de votre peuple. Choisissez deux des compétences de Connaissances suivantes : Connaissance de l'ingénierie, Connaissance des explosifs ou Connaissance des armes à feu. Au niveau 2, vous devenez expert dans ces compétences de connaissances ; au niveau 7, vous êtes maître dans ces compétences de Connaissances; et au niveau 15, vous êtes légendaire dans ces compétences de Connaissances.</p>"
         },
         {
             "id": "Instant Opening",
