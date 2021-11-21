@@ -1,19 +1,18 @@
 # État de la traduction (actions)
 
  * **officielle**: 107
- * **libre**: 118
+ * **libre**: 121
  * **changé**: 25
- * **aucune**: 15
+ * **aucune**: 12
 
 
-Dernière mise à jour: 2021-11-18 07:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-21 17:54 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[3D9kGfwg4LUZBR9A.htm](actions/3D9kGfwg4LUZBR9A.htm)|Overdrive|
 |[akmQzZoNhyfCKFpL.htm](actions/akmQzZoNhyfCKFpL.htm)|Airy Step|
 |[b3h3QqvwS5fnaiu1.htm](actions/b3h3QqvwS5fnaiu1.htm)|Banshee Cry|
 |[ESMIHOOahLQoqxW1.htm](actions/ESMIHOOahLQoqxW1.htm)|Call Gun|
@@ -21,12 +20,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[izvfZ561JTdeyh6i.htm](actions/izvfZ561JTdeyh6i.htm)|Goblin Jubilee|
 |[KC6o1cvbr45xnMei.htm](actions/KC6o1cvbr45xnMei.htm)|Conjure Bullet|
 |[mech0dhb4eKbCAu0.htm](actions/mech0dhb4eKbCAu0.htm)|Coughing Dragon|
-|[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|
 |[SMF1hTWPHtmlS8Cd.htm](actions/SMF1hTWPHtmlS8Cd.htm)|Bullet Dancer Stance|
 |[VNuOwXIHafSLHvsZ.htm](actions/VNuOwXIHafSLHvsZ.htm)|Spellsling|
 |[vvYsE7OiSSCXhPdr.htm](actions/vvYsE7OiSSCXhPdr.htm)|Set Explosives|
 |[wt6jdjjje16Nx34f.htm](actions/wt6jdjjje16Nx34f.htm)|Jumping Jenny|
-|[XeZwXzR1KBlJF770.htm](actions/XeZwXzR1KBlJF770.htm)|Resist Magic|
 |[yUjuLbBMflVum8Yn.htm](actions/yUjuLbBMflVum8Yn.htm)|Launch Fireworks Display|
 
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -79,6 +76,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2u915NdUyQan6uKF.htm](actions/2u915NdUyQan6uKF.htm)|Demoralize|Démoraliser|officielle|
 |[34E7k2YRcsOU5uyl.htm](actions/34E7k2YRcsOU5uyl.htm)|Change Shape (Anadi)|Changer de forme (anadi)|libre|
 |[3cuTA58ObXhuFX2r.htm](actions/3cuTA58ObXhuFX2r.htm)|Bend Time|Courber le temps|libre|
+|[3D9kGfwg4LUZBR9A.htm](actions/3D9kGfwg4LUZBR9A.htm)|Overdrive|Surrégime|libre|
 |[3f5DMFu8fPiqHpRg.htm](actions/3f5DMFu8fPiqHpRg.htm)|Sustain a Spell|Maintenir un sort|officielle|
 |[3yoajuKjwHZ9ApUY.htm](actions/3yoajuKjwHZ9ApUY.htm)|Grab an Edge|Se raccrocher in extremis|officielle|
 |[3ZzoI9MTtJFd1Kjl.htm](actions/3ZzoI9MTtJFd1Kjl.htm)|Share Senses|Partager les sens|libre|
@@ -199,6 +197,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[MY6z2b4GPhAD2Eoa.htm](actions/MY6z2b4GPhAD2Eoa.htm)|Share Life|Partager la vie|libre|
 |[n5vwBnLSlIXL9ptp.htm](actions/n5vwBnLSlIXL9ptp.htm)|Manifest Eidolon|Manifester l'eidolon|libre|
 |[N6U02s9qJKQIvmQd.htm](actions/N6U02s9qJKQIvmQd.htm)|Wish for Luck|Souhait de bonne fortune|libre|
+|[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|Exploser|libre|
 |[nbfNETdpee8CVM17.htm](actions/nbfNETdpee8CVM17.htm)|Flurry of Blows|Déluge de coups|officielle|
 |[nSTMF6kYIt6rXhJx.htm](actions/nSTMF6kYIt6rXhJx.htm)|Seething Frenzy|Frénésie bouillonnante|libre|
 |[O1iircZOOCo42r9Y.htm](actions/O1iircZOOCo42r9Y.htm)|Ghost Shot|Tir fantôme|libre|
@@ -273,6 +272,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wQYmDStjdjn0I26t.htm](actions/wQYmDStjdjn0I26t.htm)|Release|Relâcher|officielle|
 |[wwvPiG2kET2rkSAG.htm](actions/wwvPiG2kET2rkSAG.htm)|Change Shape (Kitsune)|Changer de forme (Kitsune)|libre|
 |[xccOiNL2W1EtfUYl.htm](actions/xccOiNL2W1EtfUYl.htm)|Pointed Question|Question imparable|libre|
+|[XeZwXzR1KBlJF770.htm](actions/XeZwXzR1KBlJF770.htm)|Resist Magic|Résister à la magie|libre|
 |[Xg57qG1rOfSSobke.htm](actions/Xg57qG1rOfSSobke.htm)|Breath Weapon|Arme de souffle|libre|
 |[xJEkXFJgEfEida27.htm](actions/xJEkXFJgEfEida27.htm)|Rally|Rallier|libre|
 |[xjGwis0uaC2305pm.htm](actions/xjGwis0uaC2305pm.htm)|Raise a Shield|Lever un bouclier|officielle|

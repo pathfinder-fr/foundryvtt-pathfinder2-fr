@@ -371,6 +371,11 @@
             ]
         },
         {
+            "id": "Arcane Locomotion (Swim)",
+            "name": "Arcane Locomotion (Swim) (Déplacement arcanique (Nage))",
+            "description": "<p>Vous avez modifié votre corps pour vous permettre d'améliorer votre capacité de déplacement. Vous obtenez soit une vitesse d'escalade de 6 m, soit une vitesse de nage de 6 m à votre choix.</p>\n<p><strong>Amélioration</strong> Votre corps vous permet d'obtenir d'autres formes de déplacement. Vous pouvez soit choisir l'option de ce don que vous n'aviez pas prise,  (Vitesse d'escalade ou de natation) ou vous pouvez augmenter votre Vitesse de base de 1,5 m et augmenter la Vitesse que vous avez choisie avec ce don pour qu'elle soit égale à votre Vitesse de base ajustée.</p>"
+        },
+        {
             "id": "Azaersi's Roads",
             "name": "Azaersi's Roads (Routes d'Azaersi)",
             "description": "<p>Azaersi vous a accordé un accès limité aux Routes de pierre, en vous harmonisant au plus petit éclat de la Clé d'Onyx.</p>\n<p>Vous obtenez @Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]{Changement de plan} comme un sort inné primordial. Vous pouvez le Lancer deux fois par semaine. Cela ne peut être utilisé que pour circuler entre le Plan de la terre et le Plan matériel. En raison de votre harmonisation à la Clé d'Onyx, vous pouvez être le focalisateur du sort et vous n'avez pas besoin de diapason.</p>"
@@ -724,6 +729,11 @@
                     "value": "Qualifié en Occultisme ou en Religion"
                 }
             ]
+        },
+        {
+            "id": "Arcane Locomotion (Climb)",
+            "name": "Arcane Locomotion (Climb) (Déplacement arcanique (Escalade))",
+            "description": "<p>Vous avez modifié votre corps pour vous permettre d'améliorer votre capacité de déplacement. Vous obtenez soit une vitesse d'escalade de 6 m, soit une vitesse de nage de 6 m à votre choix.</p>\n<p><strong>Amélioration</strong> Votre corps vous permet d'obtenir d'autres formes de déplacement. Vous pouvez soit choisir l'option de ce don que vous n'aviez pas prise,  (Vitesse d'escalade ou de natation) ou vous pouvez augmenter votre Vitesse de base de 1,5 m et augmenter la Vitesse que vous avez choisie avec ce don pour qu'elle soit égale à votre Vitesse de base ajustée.</p>"
         },
         {
             "id": "Bristle",
@@ -2818,6 +2828,11 @@
             "description": "<p>Votre eidolon change pour devenir plus particulièrement efficace comme monture. Tant que vous le montez, vous obtenez votre nombre complet d'actions chaque round au lieu de le réduire de 2. Cela ne s'applique seulement que lorsque vous montez votre eidolon, pas lorsque quelqu'un d'autre le fait. Votre eidolon doit toujours être d'au moins une catégorie supérieure à la vôtre pour que vous puissiez le monter. Comme vous œuvrez ensemble à vous déplacer, les actions de déplacement de votre eidolon, tant que vous le montez obtiennent le trait tandem.</p>"
         },
         {
+            "id": "Spark of Independence",
+            "name": "Spark of Independence (Étincelle d'indépendance)",
+            "description": "<p>Vous touchez une créature avec le trait sbire eet partagez le sens aigu de l'autonomie que vous avez découvert. Le sbire est @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accéléré} pendant 1 round et est ensuite temporairement immunisé pendant 10 minutes. Il peut utiliser cette action supplémentaire pour Faire un pas, Marcher rapidement ou Frapper.</p>"
+        },
+        {
             "id": "Storm Born",
             "name": "Storm Born (Enfant de la tempête)",
             "description": "<p>Vous êtes chez vous en extérieur, au milieu des éléments, à savourer la puissance débridée de la nature. Vous ne subissez aucun malus de circonstances dû au climat sur les attaques de sort à distance ou les tests de Perception, et vos sorts ciblés ne nécessitent la réussite d’aucun test nu pour toucher une cible masquée par les conditions climatiques (par du brouillard, par exemple).</p>",
@@ -4023,6 +4038,11 @@
             "description": "<p>Quand votre bouclier est levé, les coups de vos ennemis ne peuvent pas vous toucher.</p>\n<p>Quand votre bouclier est levé, vous pouvez Marcher rapidement d’une distance maximale égale à la moitié de votre Vitesse sans déclencher les réactions que votre déplacement devrait normalement déclencher (comme des Attaques d’opportunité). Vous pouvez utiliser Marche au bouclier quand vous Volez ou Nagez au lieu de Marcher rapidement si vous avez le type de déplacement correspondant.</p>"
         },
         {
+            "id": "Demolitionist",
+            "name": "Demolitionist (Démolisseur)",
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre.</p>\n<hr />\n<p> Vous savez comment détruire des objets avec une explosion bien placée. Chaque fois que vous Frappez avec une bombe contre un piège ou un objet sans surveillance, vous ignorez les 5 premiers points de Solidité de l'objet.</p>"
+        },
+        {
             "id": "Terrifying Resistance",
             "name": "Terrifying Resistance (Résistance terrifiante)",
             "description": "<p>Les sorts de ceux que vous avez @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoralisés} sont moins efficaces contre vous. Si vous réussissez à Démoraliser une créature, durant les 24 heures suivantes, vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les sorts de cette créature.</p>",
@@ -4703,6 +4723,11 @@
             ]
         },
         {
+            "id": "Axial Recall",
+            "name": "Axial Recall (Rappel d'Axis)",
+            "description": "<p>Vous avez reconfiguré la résonance magique de votre noyau pour vous accorder aux énergies planaires d'Axis. Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]{Changement de plan}</em> deux fois par semaine comme un sort inné arcaniquee qui ne peut vous cibler que vous-même ; Vous pouvez voyager seulement vers Axis ou le Plan Matériel et votre corps sert de focalisateur.</p>"
+        },
+        {
             "id": "Stunning Finisher",
             "name": "Stunning Finisher (Coup final étourdissant)",
             "description": "<p>Vous tentez un coup qui donne le tournis. Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} au corps à corps. Si vous touchez, votre adversaire doit tenter un jet de Vigueur contre votre DD de classe avec les résultats suivants ; le jet a le trait mise hors de combat.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible ne peut utiliser de réactions jusqu'à son prochain tour.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie} 1.</p>\n<p><strong>Échec critique</strong> La cible est Étourdie 3.</p>"
@@ -5221,6 +5246,11 @@
             ]
         },
         {
+            "id": "Impossible Gossip",
+            "name": "Impossible Gossip (Ragot impossible)",
+            "description": "<p>Vous pouvez parler aux objets inanimés, en trouvant une étincelle magique à l'intérieur similaire à ccelle qui vous a animée. Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.YIMampGpij4Y30yE]{Pierre commère}</em> une fois par jour comme un sort inné arcanique mais au lieu de parler à de la pierre, vous parlez avec les jouets, les statues ou les autres objets inanimés en trois dimensions qui imitent l'apprence d'une créature, quelle que soit leur composition. Le MJ décide avec quels objets vous pouvez discuter et ce qu'ils savent bien que des objets aient généralement une bonne opinion de ceux qui les ont entretenus et une opinion médiocre de ceux qui les ont négligé ou ignoré.</p>"
+        },
+        {
             "id": "Artokus's Fire",
             "name": "Artokus's Fire (Feu d'Artokus)",
             "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Déclencheur</strong> Vous utilisez @Compendium[pf2e.feats-srd.NlEZ0piDxg9buXCL]{Alchimie rapide} pour fabriquer un @Compendium[pf2e.equipment-srd.yd3kEK21YknZLlcT]{Feu grégeois} et le niveau de cette bombe est au moins de 2 niveaux inférieur à votre niveau d'@Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{Alchimie avancée}.</p>\n<hr />\n<p>Artokus a développé un mélange de matériaux volatiles qui brûle plus fort et plus longtemps que le feu grégeois typique. Vous incluez ce mélange supplémentaire lorsque vous fabriquez votre feu grégeois. Le feu alchimique inflige [[/r 1d4 #feu persistant]] dégâts de feu persistants en plus de ceux que le feu grégeois causerait normalement (par exemple, un feu grégeois modéré inflige 1d4+2 dégâts de feu persistants). Une créature subissant des dégâts de feu persistants du feu grégeois a besoin de réussir deux tests nus pour mettre un terme aux dégâts persistants ou un test si la créature possède une récupération assistée qui réduit le DD du test nu à 10. Le feu grégeois amélioré brûle même sous l'eau  et toute tentative pour mettre un terme aux dégâts persistants en utilisant de l'eau n'a pas d'effet.</p>"
@@ -5434,6 +5464,11 @@
                     "value": "suivant d'une religion particulière"
                 }
             ]
+        },
+        {
+            "id": "Restitch",
+            "name": "Restitch (Recousu)",
+            "description": "<p>Vous avez appris à recoudre ensemble les déchirures et les blessures les plus terribles. Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.2Vkd1IxylPceUAAF]{Régénération}</em> comme un sort inné arcanique de niveau 7 une fois par jour.</p>"
         },
         {
             "id": "Strix Lore",
@@ -6435,6 +6470,16 @@
             "description": "<p>Vous avez une facilité déconcertante pour communiquer avec les autres elfes sans parler, bien que cette habitude mette souvent mal à l'aise les observateurs. Vous pouvez lancer @Compendium[pf2e.spells-srd.D442XMADp01qJ7Cs]{lien mental} comme un sort occulte inné une fois par jour, mais vous ne pouvez cibler que d'autres elfes ou demi-elfes.</p>"
         },
         {
+            "id": "Crafter's Instinct",
+            "name": "Crafter's Instinct (Instinct du Fabricant)",
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre.</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous avez des ratés avec une arme à feu ou vous obtenez un échec sur une Frappe avec une arme à distance.</p>\n<hr />\n<p>Vous percevez un défaut mineur dans l'arme au moment où vous tirez et vous ajustez rapidement votre visée à la volée pour éviter le défaut. Si le Déclencheur était un raté, vous obtenez un échec normal à la place. Si le Déclencheur était un échec, il devient un coup indirect qui inflige les dégâts minimums de la Frappe (en ajoutant les bonus comme à l'ordinaire, mais en obtenant un résultat de 1 pour tous les dés de dégâts qui seraient lancés en cas de succès). Le coup indirect n'applique pas les autres effets qui ne se produisent normalement qu'en cas de succès.</p>",
+            "prereq": [
+                {
+                    "value": "Maître en Artisanat"
+                }
+            ]
+        },
+        {
             "id": "Resourceful Ritualist",
             "name": "Resourceful Ritualist (Ritualiste plein de ressources)",
             "description": "<p>Vous pouvez accomplir des rituels difficiles qui pourraient autrement être juste au-delà de vos compétences. Vous pouvez tenter des tests pour lancer un rituel qui nécessite une maîtrise experte si vous êtes qualifié, maître si vous êtes un expert ou légendaire si vous êtes un maître.</p>",
@@ -6849,6 +6894,11 @@
                     "value": "Rituels efficaces"
                 }
             ]
+        },
+        {
+            "id": "Scaling Poppet",
+            "name": "Scaling Poppet (Poupée escaladeuse)",
+            "description": "<p>Votre constitution intègre des cordes, des crochets ou d'autres outils pour vous aider à vous déplacer sur des surfaces escarpées. Vous obtenez une Vitesse d'escalade de 4,5 m.</p>"
         },
         {
             "id": "Eternal Wings (Sylph)",
@@ -8144,6 +8194,11 @@
                     "value": "Dévouement de Bricoleur"
                 }
             ]
+        },
+        {
+            "id": "Scrutinizing Gaze",
+            "name": "Scrutinizing Gaze (Regard scrutateur)",
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre.</p>\n<hr />\n<p>Les traditions défensives de votre famille contre les morts-vivants du Geb vous ont conféré un sixième sens pour détecter les esprits, les apparitions et autres morts vivants, quelle que soit leur forme ou la force de leur présence. Vous gagnez un bonus de circonstances de +2 aux tests de Perception pour @Compendium[pf2e.actionspf2e.1 xRFPTFtWtGJ9ELw]{Deviner les intentions} lorsque vous essayez de déterminer si une créature est possédée ou sous l'influence d'un effet qui la rendrait Contrôlée, un bonus de circonstances de +2 aux tests de Perception effectués pour voir à travers les déguisements portés par les morts-vivants, et un bonus de circonstances de +2 lorsque vous utilisez l'action @Compendium[pf2e. actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour trouver des apparitions ou des morts-vivants @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachés} ou non détectés dans un rayon de 9 m autour de vous.</p>\n<p>Si vous n'utilisez pas l'action Chercher ou n'êtes pas en train de chercher, le MJ lance automatiquement un test secret pour que vous puissiez remarquer les apparitions ou les morts-vivants dans un rayon de 9 m. Ce test ne bénéficie pas du bonus de circonstances habituel de +2 mais d'une pénalité de circonstances de -2.</p>"
         },
         {
             "id": "Dual-Weapon Warrior Dedication",
@@ -10494,6 +10549,16 @@
             ]
         },
         {
+            "id": "Enlarged Chassis",
+            "name": "Enlarged Chassis (Chassis aggrandi)",
+            "description": "<p>Vous avez donné à votre noyau le pouvoir de supporter un corps plus grand, vous accordant une taille et une portée supplémentaire. Vous bénéficiez des effets d'<em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Aggrandissement}</em> constamment.</p>\n<p>Vous avez donné à votre noyau le pouvoir de supporter un corps plus grand, vous accordant une taille et une portée supplémentaire. Vous bénéficiez des effets d'<em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Aggrandissement}</em> constamment.</p>\n<p><strong>Amélioration</strong> Le gain de puissance de votre noyau s'est stabilisé, vous permettant un meilleur soutien. Vous n'êtes plus @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} en raison des effets de l'Agrandissement.</p>",
+            "prereq": [
+                {
+                    "value": "taille Peite ou Moyenne"
+                }
+            ]
+        },
+        {
             "id": "Quick Recognition",
             "name": "Quick Recognition (Reconnaissance rapide)",
             "description": "<p>Vous Reconnaissez des sorts rapidement. Une fois par round, par une action gratuite, vous pouvez Reconnaître un sort en utilisant une compétence dans laquelle vous êtes un maître.</p>",
@@ -10673,6 +10738,16 @@
             "prereq": [
                 {
                     "value": "qualifié en Artisanat"
+                }
+            ]
+        },
+        {
+            "id": "Rain of Bolts",
+            "name": "Rain of Bolts (Pluie de carreaux)",
+            "description": "<p><strong>Fréquence</strong> une fois par jour durant la journée, votre corps produit de puissants projectiles dans votre chassis.</p>\n<hr />\n<p>Vous les lancez tous d'un seul coup soit dans un <span data-pf2-effect-area=\"Cone\" data-pf2-distance=\"30\">cône de 9 m</span> ou dans une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"10\">explosion de 3 m</span>. Les adversaires dans la zone subissent [[/r {6d6}[piercing]]]{6d6 dégâts perforants}. Cela passe à 7d6 au niveau 12, 8d6 au niveau 15 et 9d6 au niveau 18.</p>\n<p><strong>Amélioration</strong> Les projectiles se régénèrent plus rapidement, ils sont beaucoup plus puissants et vous pouvez raffiner le contenu métallique pour nuire à certaines créatures. Vous pouvez utiliser Pluie de carreaux une fois par heure au lieu d'une fois par jour. Les dégâts passent à 12d6 et chaque fois que vous utilisez l'action, vous pouvez choisir adamantium, fer froid ou argent. Les dégâts de Pluie de carreaux sont traités comme du métal que vous avez choisi. Au niveau 20, les dégâts passent à 13d6.</p>",
+            "prereq": [
+                {
+                    "value": "Automate tireur de précision"
                 }
             ]
         },
@@ -11259,6 +11334,16 @@
             "id": "Everstand Stance",
             "name": "Everstand Stance (Posture toujours en position)",
             "description": "<p><strong>Conditions</strong> Vous portez un bouclier</p>\n<hr />\n<p>Vous renforcez votre bouclier avec vos deux mains, augmentant son potentiel pour la défense comme pour l'attaque. Dans cette posture, vous tenez le bouclier avec vos deux mains. Lorsque vous le tenez de cette façon, vous augmentez le dé de dégât de l'embossement ou des piques du bouclier d'une catégorie et vous augmentez la Solidité du bouclier de 2 lorsque vous utilisez la réaction @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier}.</p>"
+        },
+        {
+            "id": "Explosive Expert",
+            "name": "Explosive Expert (Explosion experte)",
+            "description": "<p><strong>Accès</strong> Vous venez de Fort Dongun ou de l'Alkenastre.</p>\n<hr />\n<p>Vous avez poursuivi l'entraînement avec les armes volatiles et obtenus une profonde compréhension. Lorsque vous obtenez une capacité de classe qui vous accorde un rang de maîtrise experte ou supérieure avec certaines armes, vous obtenez aussi cette compétence avec les bombes et les armes à feu simples et de guerre.</p>",
+            "prereq": [
+                {
+                    "value": "Explosion savante"
+                }
+            ]
         },
         {
             "id": "Eternal Bane",
@@ -12308,6 +12393,11 @@
             "description": "<p>Une fois par heure, vous pouvez utiliser Changement de forme pour entre dans une forme de créature. Lorsque vous êtes dans une forme de créature, vous obtenez les effets d'un sort de niveau 1 @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible}, sauf que vous ne pouvez seulement vous transformer en un animal correspondant à votre animal intérieur. Vous pouvez rester en forme de bestiole pendant 10 minutes, après quoi vous revenez à votre forme hybride et ne pouvez entrer en votre forme de bestiole encore pendant 1 heure. Vous pouvez utiliser à la place Changement de forme pour revenir à votre forme humanoïde ou hybride à toute moment pendant la durée de fForme de bestiole. Si votre animal intérieur est normalement plus plus grand que Très petit, vous vous transformer en une version plus petite et plus jeune de l'animal, tel qu'un jeune ourson Très petit. Si votre animal intérieur possède une vitesse de vol, vous pouvez vous transformer en cet animal (contrairement à l'ordinaire avec forme de nuisible de niveau 1, mais vous n'obtenez pas une vitesse de vol.</p>"
         },
         {
+            "id": "Lesser Augmentation",
+            "name": "Lesser Augmentation (Augmentation inférieure)",
+            "description": "<p>Vous vous êtes concentré sur votre propre amélioration et avez obtenu une amélioration de l'une de vos capacités existantes. Vous gagnez les avantages d'amélioration de l'un de vos dons ancestraux d'automate de niveau 1 ou de niveau 5.</p>\n<p>Vous êtes également capable de reconfigurer vos améliorations pour répondre à vos besoins. Vous pouvez passer une semaine d'Intermède pour changer l'amélioration que vous obtenez avec cet exploit.</p>\n<p><strong>Amélioration</strong> Vous obtenez les avantages de l'amélioration d'un autre don ancestral d'automate de niveau 1 ou 5. De plus, vos reconfigurations prennent moins de temps. Vous n'avez besoin de passer qu'un jour d'Intermède pour modifier l'une de vos améliorations. Si vous avez plusieurs améliorations, le changement de chacune d'entre elles nécessite une journée distincte.</p>"
+        },
+        {
             "id": "Spell Penetration",
             "name": "Spell Penetration (Efficacité des sorts accrue)",
             "description": "<p>Vous avez étudié comment surmonter la résistance à la magie innée des dragons, des êtres venus d’ailleurs et d’autres puissantes créatures. Toute créature dotée d’un bonus de statut aux jets de sauvegarde contre la magie réduit ce bonus de 1 contre vos sorts.</p>"
@@ -13112,6 +13202,11 @@
             "description": "<p>Votre peuple a utilisé une puissante magie pour voyager entre des mondes distants et les résidus de cette magie vous facilitent un tel transport.</p>\n<p>Lorsque vous êtes la cible d'un sort de téléportation qui transporte plus d'une personne, il peut affecter une personne supplémentaire au delà de sa limite normale choisie par le lanceur.</p>\n<p>De plus, lorsque vous êtes la cible d'un sort de @Compendium[pf2e.spells-srd.69L70wKfGDY66Mk9]{Téléportation}, vous et les autres cibles n'arrivez pas à une distance de plus d'1,5 kilomètre de la destination, quelle que soit la distance parcourue.</p>"
         },
         {
+            "id": "Core Cannon",
+            "name": "Core Cannon (Noyau canon)",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Votre corps se transforme en un puissant canon magique. Lorsque vous êtes immobile en tant que canon, vous pouvez tirer une décharge d'énergie directement depuis votre noyau qui dévaste vos adversaires. Vous devenez @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} jusqu'à ce que vous utilisiez une action Interagir pour revenir à votre forme habituelle. Sous votre forme de canon, les seules actions que vous pouvez entreprendre sont de Frapper avec attaque à mains nues de décharge d'énergie ou d'Interagir pour reprendre votre forme ordinaire. Vous pouvez rester sous votre forme de canon pendant un maximum d'une minute ou jusqu'à ce que vous fassiez l'action de reprendre votre forme ordinaire, selon e qui se produit en premier.</p>\n<p>Les décharges d'énergie sont une attaque à mains nues à distance spéciale. Vous pouvez seulement faire des Frappes de décharge d'énergie lorsque vous êtes dans votre forme de canon . Vos décharges d'énergie infligent [[/r {3d8}[fire]]]{3d8 dégâts de feu} et [[/r {3d6}[force]]]{3d6 dégâts de force}, qui passe à [[/r {4d8}[fire]]]{4d8 dégâts de feu} et [[/r {3d6}[force]]]{3d6 dégâts de force} au niveau 20. Vous obtenez le bonus d'objet à l'attaque avec vos décharges d'énergie de la rune de puissance la plus élevée sur toute @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants} que vous portez ou toute arme que vous maniez, mais les runes de Frappe et de propriété n'ont pas d'effet sur vos décharges d'énergie. Les décharges d'énergie ont un Facteur de portée de 36 m. Sur un coup critique avec une décharge d'énergie, la cible subit 10 dégâts de feu persistants. Votre décharge d'énergie n'ajoute pas d'effet critique spécialisé. Si cela importe pour un effet dépendant du nombre de dés de l'arme, le nombre de dés de dégâts d'arme de la décharge d'énergie est de trois et quatre au niveau 20.</p>"
+        },
+        {
             "id": "Eye of Ozem",
             "name": "Eye of Ozem (Œil d'Ozem)",
             "description": "<p>Vous avez appris à repérer le danger de loin, ce qui facilite votre tâche de sentinelle.</p>\n<p>Vous gagnez un bonus de circonstances de +2 aux jets d’initiative lorsque vous utilisez Perception et, lorsque vous partez en Reconnaissance, vous faites bénéficier vos alliés d'un bonus de circonstances de +2 au lieu de +1.</p>",
@@ -13249,6 +13344,11 @@
             ]
         },
         {
+            "id": "Squirm Free",
+            "name": "Squirm Free (Se tortiller)",
+            "description": "<p><strong>Déclencheur</strong> Une créature vous a Saisi, vous Immobilise ou vous Entrave.</p>\n<hr />\n<p>Vous êtes habitué à échapper à la prise de créatures plus grandes ou à échapper aux calins un peu trop enthousiastes des enfants. Vous tentez de vous @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper}.</p>"
+        },
+        {
             "id": "Dispelling Slice",
             "name": "Dispelling Slice (Coupe dissipante)",
             "description": "<p>Votre attaque sournoise tranche les fils qui relient une cible et la magie qui l’affecte. Vous faites une Frappe contre une créature Prise au dépourvu (de votre choix). Si votre Frappe inflige des dégâts d’attaque sournoise, vous tentez de contrer un unique sort qui affecte cette cible. Votre niveau de contre est égal à votre niveau de roublard et votre modificateur de test de contre est égal à votre DD de classe − 10.</p>"
@@ -13277,6 +13377,11 @@
                     "value": "Dévouement de conjurateur"
                 }
             ]
+        },
+        {
+            "id": "Core Rejuvenation",
+            "name": "Core Rejuvenation (Rajeunissement du noyau)",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous avez la condition mourante et êtes sur le point de fait un test de récupération.</p>\n<hr />\n<p>Votre âme puise dans la puissance de votre noyau pour repousser l'emprise de la mort et vous permettre de reprendre conscience. Vous revenez à 1 Point de vie, perdez les conditions mourant et @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} et pouvez agir normalement lors de ce tour. Vous obtenez ou augmentez la condition Blessé comme à l'ordinaire lorsque vous perdez la condition Mourant de cette manière.</p>\n<p><strong>Amélioration</strong> Votre âme peut tirer encore plus de puissance de votre noyau, vous accordant des avantages supplémentaires. Lorsque vous utilisez Rajeunissement du noyau, vous gagnez également un montant de points de vie temporaires égal à trois fois votre niveau. Ces points de vie sont conservés pendant 1 minute.</p>"
         },
         {
             "id": "Locate Lawbreakers",
@@ -14000,6 +14105,11 @@
                     "value": "maître en Société"
                 }
             ]
+        },
+        {
+            "id": "Cunning Tinker",
+            "name": "Cunning Tinker (Bricoleur habile)",
+            "description": "<p>Le temps passé à vous occuper de votre propre forme a débloqué votre capacité à réparer les autres choses. Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.dINQzhqGmIsqGMUY]{Réparation}</em> au niveau 1 une fois par jour comme un sort arcanique inné. Au niveau 7, le sort est intensifié au niveau 2, puis tous les 3 niveaux par la suite, le sort est intensifié d'un niveau de sort supplémentaire. Même si vous êtes vivant et non un objet et que vous ne pouvez pas normalement récupérer des Points de vie des effets qui réparent les objets (comme avec l'action Réparer), vous pouvez vous cibler vous-même avec ce sort inné et l'utiliser pour récupérer des Points de vie.</p>"
         },
         {
             "id": "Knight in Shining Armor",
@@ -14955,6 +15065,11 @@
             ]
         },
         {
+            "id": "Wash Out",
+            "name": "Wash Out (Purge rapide)",
+            "description": "<p>Les toxines s'infiltrent rapidement dans votre corps artificiel. Chaque fois que vous réussissez un jet de Vigueur contre un poison qui vous affecte, vous réduisez son stade de 2 ou de 1 contre un poison virulent. Chaque succès critique que vous obtenez contre un poison en cours réduit son stade de 3 ou de 2 contre un poison virulent.</p>"
+        },
+        {
             "id": "Grippli Glide",
             "name": "Grippli Glide (Planeur grippli)",
             "description": "<p><strong>Conditions</strong> Vous devez avoir au moins une main libre.</p>\n<hr />\n<p>Vous pouvez utiliser vos pieds palmés pour guider votre chute. Vous planez lentement vers le sol, 1,5 m vers le bas (3 m si vous n'avez les deux mains libres) and up to 25 feet forward through the air. As long as you spend at least 1 action gliding each round and have not yet reached the ground, you remain in the air at the end of your turn.</p>",
@@ -15145,7 +15260,7 @@
         {
             "id": "Rough Terrain Stance",
             "name": "Rough Terrain Stance (Posture du terrain accidenté)",
-            "description": "<p><strong>Conditions</strong> vous avez obtenu un avantage de l'hérmonisation de terrain au cours de ce tour.</p>\n<hr />\n<p>Vous prenez une posture qui rend difficile de se déplacer autour de vous. Chaque case qui vous est adjacente devient un terrain difficile qui correspond à l'harmonisation du terrain que vous avez obtenu (du verglas se forme sur un terrain arctique, un sous-bois momentané surgit dans un terrain forestier, etc). Vous ignorez ce terrain difficile.</p>\n<p>Cette posture se termine si vous vous déplacez sur un type différent de terrain.</p>",
+            "description": "<p><strong>Conditions</strong> vous avez obtenu un avantage de l'harmonisation de terrain au cours de ce tour.</p>\n<hr />\n<p>Vous prenez une posture qui rend difficile de se déplacer autour de vous. Chaque case qui vous est adjacente devient un terrain difficile qui correspond à l'harmonisation du terrain que vous avez obtenu (du verglas se forme sur un terrain arctique, un sous-bois momentané surgit dans un terrain forestier, etc). Vous ignorez ce terrain difficile.</p>\n<p>Cette posture se termine si vous vous déplacez sur un type différent de terrain.</p>",
             "prereq": [
                 {
                     "value": "Dévouement de géomancien"
@@ -15222,6 +15337,11 @@
                     "value": "alignement bon"
                 }
             ]
+        },
+        {
+            "id": "Soaring Poppet",
+            "name": "Soaring Poppet (Poupée volante)",
+            "description": "Votre fabrication intègre des volets de tissu ou d'osier qui peuvent vous maintenir en l'air. Vous gagnez une vitesse de vol de 4,5 m."
         },
         {
             "id": "Practiced Defender",
@@ -15487,6 +15607,11 @@
             ]
         },
         {
+            "id": "Astral Blink",
+            "name": "Astral Blink (Clignotement astral)",
+            "description": "<p>Vous avez harmonisé votre noyau pour vous permettre d'entrer en phase avec le Plan Astral et en revenir, vous permettant de vous téléporter de manière périodique. Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}</em> une fois par heure comme un sort inné arcanique de niveau 4.</p>\n<p><strong>Amélioration</strong> Votre harmonisation vous permet de vous téléporter avec une série de petits bons au lieu d'un grand bond. Vous pouvez dépenser votre utilisation horaire de Porte dimensionnelle par une action gratuite lorsque vous commencez votre tour. Si vous le faites, vos actions Marcher rapidement sont améliorées jusqu'à la fin de votre tour, vous permettant de vous téléporter instantanément dans n'importe quel poit que vous pourriez atteindre avec votre Vitesse au lieu de traverser la zone pour vous y rendre. Ainsi amélioré, vos actions Marcher rapidement obtiennent les traits invocation et téléportation. Vos Marches rapides améliorées ne déclenchent pas les réactions qui peuvent être déclenchées par des actions de déplacement ou en quittant ou entrant dans une case, à moins que ces réactions se déclenchent lors d'une téléportation.</p>"
+        },
+        {
             "id": "Witch Dedication",
             "name": "Witch Dedication (Dévouement de Sorcière)",
             "description": "<p>Vous lancez des sorts comme une sorcière. Choisissez un patron ; vous obtenez un familier avec deux tours de magie courants de votre choix de la tradition correspondant au patron choisi, mais à part la tradition, vous n'obtenez aucun autre des effets que le patron aurait habituellement accordé. Votre familier possède une capacité de familier de moins que la normale.</p>\n<p>Vous obtenez l'activité @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort}. Vous pouvez préparer un tour de magie chaque jour par le biais de votre familier. Vous êtes qualifié en jet d'attaque de sort et en DD de sort dans la tradition de votre patron. Votre caractéristique d'incantation pour les sorts de l'archétype de sorcière est l'Intelligence et il s'agit de sorts de la tradition de votre patron.</p>\n<p>Vous devenez qualifié dans la compétence associée à la tradition de votre patron ; si vous étiez déjà qualifié dans cette compétence, vous devenez qualifié dans une autre compétence de votre choix.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autre dons de l'archétype de Sorcière.</p>",
@@ -15603,6 +15728,11 @@
             "id": "Divine Grace",
             "name": "Divine Grace (Grâce divine)",
             "description": "<p><strong>Déclencheur</strong> Vous êtes sur le point de faire un jet de sauvegarde contre un sort mais n’avez pas encore lancé le dé.</p>\n<hr />\n<p>Vous implorez la grâce de votre divinité qui vous confère un bonus de circonstances de +2 au jet de sauvegarde.</p>"
+        },
+        {
+            "id": "Greater Augmentation",
+            "name": "Greater Augmentation (Amélioration supérieure)",
+            "description": "<p>Vous avez grandement amélioré vos capacités et votre noyau peut supporter davantage d'améliorations. Vous obtenez les avantages d'amélioration d'un de vos dons ancestraux d'automate de niveau 1, 5, 9 ou 13. Vous êtes aussi capable de reconfigurer vos améliorations pour répondre à vos besoins. Vous pouvez passer une semaine d'Intermède pour changer les améliorations que vous obtenez avec ce don.</p>"
         },
         {
             "id": "Skirmish Strike",
@@ -17619,6 +17749,11 @@
             "description": "<p>Vous avez une puissante conduite créative, utile pour les faux-fuyants et le spectacle. Vous êtes qualifié en Duperie et en Représentation. Si vous êtes déjà qualifié dans chacune de ces compétences, vous êtes qualifié dans une compétence de votre choix à sa place. Vous êtes qualifié en Connaissance artistique.</p>"
         },
         {
+            "id": "Forge-Blessed Shot",
+            "name": "Forge-Blessed Shot (Tir béni par la forge)",
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre.</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous tentez une Frappe à distance.</p>\n<hr />\n<p>Vous entonnez une prière aux divinités naines Torag ou Angradd, demandant à une puissance supérieure de guider votre main dans le feu de la bataille. Lors de votre prochaine Frappe avec une arme à distance avant la fin de votre tour, vous gagnez un bonus de circonstances de +2 à votre jet d'attaque et ignorez la condition @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} de votre cible, ainsi que les abris inférieur, standard et supérieur de la cible.</p>"
+        },
+        {
             "id": "Emerald Boughs Hideaway",
             "name": "Emerald Boughs Hideaway (Cachette des Branches d'Émeraude)",
             "description": "<p>Vous utilisez des techniques des Branches d'émeraude pour créer un petit espace extra-dimensionnel appelé une cachette qui dure tant que vous êtes conscient. La cachette fonctionne comme un @Compendium[pf2e.equipment-srd.jaEEvuQ32GjAa8jy]{Sac sans fond (Type I)}, mais n'a pas d'encombrement et n'occupe pas de place ; elle contient un objet avec un encombrement maximum égal à votre plus haut modificateur de caractéristique mentale ; Lorsque vous ouvrez la cachette par une simple pensée, l'activer pour en retirer un objet est une action gratuite avec la composante imaginer au lieu d'une action unique avec la composante Interaction. Le point d'accès de la cachette apparaît comme un trou magique évident à 30 cm de votre corps. Vous seul pouvez accéder à la cachette ; vous pouvez utiliser une action d'interaction chaque round pour physiquement la tenir ouverte pour une autre personne. Une @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} réussie ou un effet similaire contre votre DD de sort et le niveau de contresort de la cachette de 2 expulse l'objet ; l'objet est aussi expulsé si vous êtes @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient}. Après une Dissipation de la magie réussie ou lorsque vous redevenez conscient, la cachette se reforme immédiatement sans que vous n'ayez à entreprendre d'autre action. Vous pouvez aussi dissiper la cachette (lorsqu'elle est vide) ou la reformer en utilisant une action unique avec la composante imaginer.</p>",
@@ -18018,6 +18153,16 @@
             "prereq": [
                 {
                     "value": "Dévouement du Provocator"
+                }
+            ]
+        },
+        {
+            "id": "Spark Fist",
+            "name": "Spark Fist (Poing à étincelles)",
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre.</p>\n<p><strong>Fréquence</strong> une fois par minute</p>\n<hr />\n<p>Vous saupoudrez de la poudre noire explosive sur votre poing ou votre gant avant d'attaquer, qui brûle lorsque vous frappez un adversaire. Le jet de flamme qui en résulte vous blesse vous et votre adversaire. Jusqu'à la fin de votre prochain tour, vos poings perdent le trait non-létal et infligent [[/r {1}[fire]]]{1 dégât de feu} en cas de Frappe réussie. Chaque fois que vous réussissez une Frappe de poing, vous subissez [[/r {1}[fire]]]{1 dégât de feu}. Si votre poing devrait infliger plus qu'un dé de dégâts d'arme, les dégâts de feu infligés sur une Frappe réussie, à vous comme à votre adversaire, est égal au montant du nombre de dés de dégâts d'arme.</p>",
+            "prereq": [
+                {
+                    "value": "expert en Artisanat"
                 }
             ]
         },
@@ -18523,6 +18668,11 @@
                     "value": "trafic de voleur"
                 }
             ]
+        },
+        {
+            "id": "Reanimating Spark",
+            "name": "Reanimating Spark (Étincelle de réanimation)",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous avez la condition mourant et allez tenter un test de récupération.</p>\n<hr />\n<p>La magie qui vous anime lutte pour vous conserver vivant. Vous remontez à 1 Point de Vie, perdez les conditions Mourant et @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} et pouvez agir normalement lors de ce tour. Vous augmentez ou obtenez la condition Blessé comme à l'ordinaire lorsque vous perdez la condition Mourant de cette manière.</p>"
         },
         {
             "id": "Persistent Creation",
@@ -19066,6 +19216,16 @@
             ]
         },
         {
+            "id": "Core Attunement",
+            "name": "Core Attunement (Harmonisation du cœur)",
+            "description": "<p>Votre noyau vous permet de tirer plus de puissance de celui-ci. Sélectionnez un sort arcanique de niveau 1 et un sort arcanique de niveau 2 ou moins, auxquels vous avez accès. Vous pouvez lancer les sorts choisis comme des sorts innés arcaniques une fois par jour.</p>\n<p><strong>Amélioration</strong> Votre harmonisation devient plus forte. Choisissez un sort arcanique de niveau 5 ou inférieur et un sort arcanique de niveau 6 ou inférieur, auquel vous avez accès. Vous pouvez les lancer comme des sorts innés arcaniques chacun une fois par jour, en plus des sorts originaux.</p>",
+            "prereq": [
+                {
+                    "value": "Mage automate"
+                }
+            ]
+        },
+        {
             "id": "Miracle Worker",
             "name": "Miracle Worker (Fabricateur de miracles)",
             "description": "<p><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<hr />\n<p>Votre maîtrise de l’alchimie vous permet de ressusciter des morts récents. Vous pouvez administrer un @Compendium[pf2e.equipment-srd.qK964kZz1ALcysOa]{Élixir de vie ultime} à une créature qui n’est pas morte depuis plus de 2 rounds. Quand vous effectuez cela, la créature revient immédiatement à la vie avec 1 point de vie et se trouve dans l’état @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Blessé} 1.</p>"
@@ -19344,6 +19504,11 @@
                     "value": "Parade de sort"
                 }
             ]
+        },
+        {
+            "id": "Swimming Poppet",
+            "name": "Swimming Poppet (Poupée nageuse)",
+            "description": "<p>Des palmes, nageoires ou d'autres accessoires vous aident à vous diriger dans l'eau. Vous gagnez une vitesse de nage de 4,5 m.</p>"
         },
         {
             "id": "Resounding Finale",
@@ -21103,6 +21268,16 @@
             "description": "<p>Vous pouvez invoquer une démonstration élémentaire inoffensive mais impressionnante. Vous êtes qualifié en Intimidation. Si vous deviez être automatiquement qualifié en Intimidation (du fait de votre historique ou par votre classe par exemple), vous êtes qualifié dans une compétence de votre choix à la place. Lorsque vous Démoralisez un ennemi, si vous choisissez de Démoraliser par une démonstration élémentaire, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous tentez de Démoraliser une créature qui ne comprend pas votre langue.</p>"
         },
         {
+            "id": "Arcane Camouflage",
+            "name": "Arcane Camouflage (Camouflage arcanique)",
+            "description": "<p>Vous avez développé des techniques magiques pour vous aider à traquer votre proie. Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.3JG1t3T4mWn6vTke]{Flou}</em> et <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibilité}</em> chacun une fois par jour comme des sorts innés arcaniques de niveau 2.</p>\n<p><strong>Amélioration</strong> Votre camouflage est plus puissant. Votre sort de Flou dure désormais 10 minutes et lorsque vous lancez Invisibilité, vous pouvez choisir d'obtenir les effets de la version du sort de niveau 4. De plus, vous pouvez lancer Flou et invisibilité chacun deux fois par jour.</p>",
+            "prereq": [
+                {
+                    "value": "Automate chasseur"
+                }
+            ]
+        },
+        {
             "id": "Dance of Intercession",
             "name": "Dance of Intercession (Danse de l'intercession)",
             "description": "<p><strong>Fréquence</strong> trois fois par jour</p>\n<hr />\n<p>Vous avez participé ou avez été témoin de la danse utilisée pour invoquer le dragon céleste et pouvez exploiter une parcelle de ce pouvoir. Vous vous lancez dans une danse en Marchant rapidement de la moitié de votre Vitesse, en tentant un <span data-pf2-skill-check=\"performance\" data-pf2-traits=\"\" data-pf2-label=\"DD Danse de l'intercession\" data-pf2-dc=\"35\" data-pf2-show-dc=\"gm\">Représentation</span>. Vous pouvez accomplir cette danse jusqu'à trois fois par jour. La deuxième fois que vous le faites dans la même journée, utilisez le degré de réussite inférieur de 1 à celui obtenu par votre jet sur le test de représentation. La troisième fois dans la même journée, utilisez le degré de réussite de deux inférieur à votre jet de Représentation.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous exécutez les mouvements de la Danse de l'Intercession avec tant de grâce que vous évoquez une lueur du souvenir de la puissance impressionnante du Dragon Céleste. Vous lancez la version à 3 actions d'un sort de niveau 9 de @Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal} ou de Guérison à n'importe quel moment de votre déplacement. Ceci n'utilise aucun emplacement de sort.</p>\n<p><strong>Succès</strong>Comme un succès critique, mais le sort est de niveau 7 au lieu du niveau 9, car vous vous trompez dans les pas.</p>\n<p><strong>Échec</strong> Comme avec un succès critique, mais le sort est de niveau 5 au lieu du niveau 9 car vous vous trompez dans les mouvements.</p>\n<p><strong>Échec critique</strong> Vous ne parvenez pas à vous rappeler des pas de la danse. Vous ne gagnez aucun effet supplémentaire en dehors du déplacement de la moitié de votre vitesse, et vous ne pouvez pas tenter à nouveau la danse de l'intercession avant vos prochains préparatifs quotidiens.</p>",
@@ -21309,6 +21484,11 @@
             "id": "Climbing Claws",
             "name": "Climbing Claws (Griffes du grimpeur)",
             "description": "<p>Vous pouvez étendre vos griffes pour vous aider à Escalader.</p>\n<p>Vous obtenez une Vitesse d'escalade de 3 m.</p>"
+        },
+        {
+            "id": "Magical Resistance",
+            "name": "Magical Resistance (Résistance magique)",
+            "description": "<p>Votre magie d'animation vous procure de la défense. Choisissez un des types de dégâts d'énergie : électricité, froid ou son. Vous obtenez une résistance 5 à ce type de dégâts.</p>\n<p><strong>Amélioration</strong> Vous puisez plus profondément dans votre magie d'animation et vos résistances s'améliorent. Choisissez l'un des avantages suivants : vous obtenez une résistance 5 aux deux autres types de dégâts de la liste ci-dessus ou votre résistance choisie passe à une valeur égale à 1 + la moitié de votre niveau.</p>"
         },
         {
             "id": "Ultimate Mercy",
@@ -22038,6 +22218,11 @@
             "description": "<p>Votre lignage descend des diables, les planificateurs fourbes de la hiérarchie diabolique malveillante. Vous êtes autant compétent pour remarquer des mensonges que vous l'êtes pour trouver les tournures alambiquées servant à les construire.</p>\n<p>Vous êtes qualifié en Duperie et en Connaissance des Lois. Si vous étiez déjà qualifié en Duperie (par votre historique ou votre classe, par exemple), vous devenez qualifié dans une compétence de votre choix. Vous obtenez également le don de compétence @Compendium[pf2e.feats-srd.Dvz54d6aPhjsmUux]{Détecteur de mensonges}.</p>"
         },
         {
+            "id": "Wheedle and Jig",
+            "name": "Wheedle and Jig (Roue et gigue)",
+            "description": "<p>Vous faites des mouvements chaotiques et des sons idiots pour captiver les spectateurs. Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.IihxWhRfpsBgQ5jS]{Discours captivant}</em> comme un sort inné arcanique de niveau 3 une fois par jour.</p>"
+        },
+        {
             "id": "Invisible Trickster",
             "name": "Invisible Trickster (Mystificateur invisible)",
             "description": "<p>Vous avez appris comment devenir invisible et à le rester. Vous pouvez lancer @Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibilité} au niveau 4 comme un sort inné primordial une fois par heure.</p>"
@@ -22064,6 +22249,16 @@
             "id": "Offensive Analysis",
             "name": "Offensive Analysis (Analyse offensive)",
             "description": "<p>Vous pouvez améliorer vos sens et votre état mental pour considérer chaque aspect d'une attaque. Vous pouvez lancer @Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{Coup au but} comme un sort divin inné une fois par jour.</p>"
+        },
+        {
+            "id": "Arcane Slam",
+            "name": "Arcane Slam (Plaquage arcanique)",
+            "description": "<p><strong>Conditions</strong> Vous avez @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisi} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravé} une créature.</p>\n<hr />\n<p>Vous canalisez la puissance magique de votre noyau dans votre bras, renforçant votre attaque en tentant d'écraser votre adversaire au sol. Faites un test d'Athlétisme contre le DD de Vigueur de l'ennemi. Vous subissez une pénalité de circonstances de -2 à votre test si la cible est d'une taille supérieure à la vôtre et une pénalité de circonstances de -4 si elle est encore plus grande. Vous obtenez un bonus de circonstances de +2 à votre test si la cible est d'une taille inférieure à la vôtre et un bonus de circonstances de +4 si elle est encore plus petite.\n<hr />\n<p><strong>Succès critique</strong> Vous abattez l'adversaire et l'énergie magique le submerge. La créature est mise @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}, devient @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} pendant 1 round et subit des dégâts égaux à 2d6 plus votre modificateur de Force. L'adversaire n'est plus Saisi ou Entravé par vous.</p>\n<p><strong>Succès</strong> Vous abattez votre adversaire. La créature est mise À terre et subit des dégâts égaux à votre modificateur de Force. L'adversaire n'est plus Saisi ou Entravé par vous.</p>\n<p><strong>Échec</strong> Vous êtes incapable d'abattre la créature mais votre prise sur la créature persiste.</p>\n<p><strong>Échec critique</strong> La créature se libère et n'est plus Saisie ou Entravée par vous.</p>\n<hr />\n<p><strong>Amélioration</strong> Vos bras canalisent mieux la puissance de votre noyau. Vous ne subissez plus de pénalités lorsque vous tentez de frapper des ennemis plus grands. Votre adversaire subit des dégâts égaux à 2d6 plus votre modificateur de Force en cas de succès (ou le double en cas de succès critique).</p>",
+            "prereq": [
+                {
+                    "value": "Automate combattant"
+                }
+            ]
         },
         {
             "id": "Tongue Tether",
@@ -23575,6 +23770,11 @@
             "description": "<p>Votre eidolon peut rétrécir pour pouvoir se glisser dans de petits espaces. Votre eidolon réduit sa taille, jusqu'à atteindre la taille Petit au minimum. Il peut utiliser à nouveau cette action lorsqu'il est rétréci pour retrouver sa taille normale.</p>"
         },
         {
+            "id": "Arcane Propulsion",
+            "name": "Arcane Propulsion (Propulsion arcanique)",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous redirigez l'énergie de votre noyau verts des sorties dans votre dos ou sous vos pieds, vous permettant de voler un bref instant. Vous pouvez maintenir la redirection de cette énergie pendant 5 minutes. Vous obtenez une vitesse de vol égale à votre Vitesse lorsque vous redirigez l'énergie.</p>\n<p><strong>Amélioration</strong> Vous pouvez maintenir votre vol pendant plus longtemps.Vous pouvez rediriger votre énergie à tout moment, vous permettant de voler lorsque vous le désirez, au lieu de simplement une fois par jour pendant 5 minutes.</p>"
+        },
+        {
             "id": "Opportune Throw",
             "name": "Opportune Throw (Lancer opportun)",
             "description": "<p><strong>Conditions</strong> Vous êtes en train de jongler avec une arme de jet.</p>\n<p><strong>Déclencheur</strong> Une créature à moins 3 m de vous fait une action avec le trait manipulation ou une action de déplacement, fait une attaque à distance ou quitte une case durant une action de déplacement qu'elle utilise.</p>\n<hr />\n<p>Vous faites une Frappe à distance avec l'arme requise contre la créature qui déclenche cette action. Si vous obtenez un coup critique et que le déclencheur était une action de manipulation, vous interrompez cette action. Cette Frappe ne compte pas dans le calcul de la pénalité d'attaques multiples et votre pénalité d'attaques multiples ne s'applique pas à cette Frappe.</p>",
@@ -23757,6 +23957,11 @@
                     "value": "principes du mal"
                 }
             ]
+        },
+        {
+            "id": "Smoke Sight",
+            "name": "Smoke Sight (Vision de fumée)",
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre.</p>\n<hr />\n<p>Vous avez l'habitude de vous battre et de vous cacher dans un nuage de fumée et de flammes. Vous réussissez automatiquement le test nu pour cibler une créature @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} si cette créature est masquée seulement par la fumée. Lorsque vous êtes masqué ou @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} dans la fumée, augmentez le DD du test nu pour vous cibler à 6 si vous êtes masqué ou 12 si vous êtes caché.</p>"
         },
         {
             "id": "Narrative Conduit",
@@ -25559,6 +25764,11 @@
                     "value": "Formidable compagnon"
                 }
             ]
+        },
+        {
+            "id": "Arcane Safeguards",
+            "name": "Arcane Safeguards (Protections arcaniques)",
+            "description": "<p>La magie qui vous alimente empêche la magie extérieure de vous affecter. Vous obtenez la réaction Résister à la magie.</p>\n<p><strong>Amélioration</strong> Vos protections s'améliorent. Lorsque vous Résistez à la magie, vous obtenez un nombre de Points de Vie temporaires égaux au niveau du sort de l'effet déclencheur.</p>"
         },
         {
             "id": "Slip The Grasp",

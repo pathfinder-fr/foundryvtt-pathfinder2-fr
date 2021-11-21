@@ -2,12 +2,21 @@
 
  * **libre**: 4
  * **officielle**: 22
+ * **aucune**: 3
  * **changé**: 24
 
 
-Dernière mise à jour: 2021-11-18 07:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-21 17:54 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[4jAJh3cTLIgkqtou.htm](hazards/4jAJh3cTLIgkqtou.htm)|Malevolent Mannequins|
+|[mWhmhYBHH9X1Ebb9.htm](hazards/mWhmhYBHH9X1Ebb9.htm)|Insistent Privacy Fence|
+|[OSPYSuckHhHl4Cr9.htm](hazards/OSPYSuckHhHl4Cr9.htm)|Steam Vents|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

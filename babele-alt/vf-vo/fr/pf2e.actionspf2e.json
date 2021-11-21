@@ -572,6 +572,11 @@
             "description": "<p>Lors d’une conversation d’une minute au moins pendant laquelle vous faites des propositions charismatiques, des flatteries et montrez votre bonne volonté, vous cherchez à faire bonne impression à quelqu’un pour que son attitude vous soit temporairement favorable. À la fin de la conversation, faites un test de <span data-pf2-action=\"makeAnImpression\">Diplomatie</span> contre le DD de Volonté d’une cible, modifié par les éventuelles circonstances que le MJ juge appropriées. Les bonnes impressions (ou les mauvaises en cas d’échec critique) durent uniquement le temps de l’interaction sociale en cours, à moins que le MJ n’en décide autrement.</p>\n<hr />\n<p><strong>Succès critique</strong> L’attitude de la cible à votre encontre s’améliore de deux catégories.</p>\n<p><strong>Succès</strong> L’attitude de la cible à votre encontre s’améliore d’une catégorie.</p>\n<p><strong>Échec critique</strong> L’attitude de la cible à votre encontre se détériore d’une catégorie.</p>"
         },
         {
+            "id": "Resist Magic",
+            "name": "Résister à la magie (Resist Magic)",
+            "description": "<p><strong>Déclencheur</strong> Vous faites un jet de sauvegarde contre un effet magique qui pourrait vous nuire mais n'avez pas lancé les dés.</p>\n<hr />\n<p>Votre magie intrinsèque vous protège. Vous obtenez un bonus de circonstances de +1 au jet de sauvegarde. De plus, si l'effet déclencheur est arcanique et que vous obtenez un succès, vous considérez qu'il s'agit d'un succès critique à la place.</p>"
+        },
+        {
             "id": "Boarding Assault",
             "name": "Assaut d'abordage (Boarding Assault)",
             "description": "<p>Soit vous @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} deux fois, soit vous tentez un test d'Acrobaties (DD déterminé par le MJ, mais habituellement DD 20) pour vous balancer au bout d'une corde jusqu'à deux fois votre Vitesse.</p>\n<p>Si vous êtes embarqué ou désembarqué d'un navire ou d'un véhicule similaire au cours de ce déplacement, vous pouvez porter une Frappe au corps-à-corps qui inflige un dé de dégâts d'arme supplémentaire.</p>"
@@ -682,9 +687,14 @@
             "description": "<p>Vous détournez le regard d’un danger. Vous gagnez un bonus de circonstances de +2 à vos jets de sauvegarde contre les capacités visuelles qui nécessitent que vous regardiez une créature ou un objet, comme le regard pétrifiant d’une méduse. Votre regard reste détourné jusqu’au début de votre prochain tour.</p>"
         },
         {
+            "id": "Explode",
+            "name": "Exploser (Explode)",
+            "description": "<p>Vous amenez volontairement votre innovation au-delà de ses limites de sécuité habituelles, la faisant exploser et provoquer des dégâts aux créatures proches sans endommage l'innovation... heureusement. L'explosion inflige [[/r {2d6}[fire]]]{2d6 dégâts de feu} avec un jet de Réflexes basique à toutes les créatures dans une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"5\">émanation de 1,5 m</span> autour de vous (si vous maniez ou portez l'innovation) ou autour de votre innovation (si votre innovation est un sbire).</p>\n<p>Au niveau 3, et à chaque niveau par la suite, augmentez les dégâts de l'explosion de 1d6.</p>"
+        },
+        {
             "id": "Invigorating Fear",
             "name": "Peur revigorante (Invigorating Fear)",
-            "description": "<p><strong>Fréquence</strong> Une fois par heure</p>\n<p><strong>Déclencheur</strong> Une créature dans les 18 m obtient la condition @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée}.</p>\n<hr />\n<p>Vous êtes revigoré par le choc d'une farce ou le frisson de terreur. Vous obtenez des Points de vie temporaires égaux au plus élevé entre le niveau de la créature ou 3.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<p><strong>Déclencheur</strong> Une créature dans les 18 m obtient la condition @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée}.</p>\n<hr />\n<p>Vous êtes revigoré par le choc d'une farce ou le frisson de terreur. Vous obtenez des Points de vie temporaires égaux au plus élevé entre le niveau de la créature ou 3.</p>"
         },
         {
             "id": "Basic Finisher",
@@ -1225,6 +1235,11 @@
             "id": "Mighty Rage",
             "name": "Rage formidable (Mighty Rage)",
             "description": "<p><strong>Déclencheur</strong> Vous utilisez l'action @Compendium[pf2e.actionspf2e.Ah5g9pDwWF9b9VW9]{Rage} lors de votre tour.</p>\n<hr />\n<p>Utilisez une action qui a le trait rage. Alternativement, vous pouvez augmenter le nombre d’actions déclenchant ce pouvoir de rage à 2 afin d’utiliser un pouvoir qui requiert 2 actions et possède le trait rage.</p>"
+        },
+        {
+            "id": "Overdrive",
+            "name": "Surrégime (Overdrive)",
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<hr />\n<p>En mettant temporairement les gadgets de votre corps en surrégime, vous essayez d'ajouter plus de puissance à vos attaques. Faites un test <span data-pf2-check=\"crafting\" data-pf2-dc=\"@self.level\" data-dc-visibility=\"all\">d'Artisanat</span> contre un DD standard pour votre niveau.</p>\n<hr />\n<p><strong>Succès Critique</strong> Vos engins entrent dans un état d'efficacité incroyable appelé surrégime critique, ajoutant une grande puissance à vos attaques. Vos Frappes infligent des dégâts supplémentaires égaux à votre modificateur d'Intelligence pendant une minute. À la suite du surrégime, vos gadgets deviennent inutilisables car ils se refroidissent ou se réinitialisent et vous ne pouvez plus utiliser le surrégime pendant une minute.</p>\n<p>@Compendium[pf2e.feat-effects.1XlJ9xLzL19GHoOL]{Effet: Surrégime (Succès critique)}</p>\n<p><strong>Succès</strong> Vos gadgets se mettent en surrégime, ajoutant de la puissance à vos attaques. Comme en cas de succès critique, sauf que les dégâts supplémentaires sont égaux à la moitié de votre modificateur d'Intelligence.</p>\n<p>@Compendium[pf2e.feat-effects.MZDh3170EFIfOwTO]{Effet: Surrégime (Succès)}</p>\n<p><strong>Échec</strong> Vous faites une erreur de calcul et rien ne se passe.</p>\n<p><strong>Échec critique</strong> Oups ! Quelque chose explose. Vous subissez des dégâts de feu égaux à votre niveau et vous ne pouvez plus utiliser Surrégime pendant 1 minute, le temps que vos gadgets refroidissent et se réinitialisent.</p>\n<hr />\n<p><strong>Spécial</strong> Lorsque vous êtes sous les effets de Surrégime, vous pouvez toujours utiliser l'action Surrégime. Vous ne pouvez étendre la durée de Surrégime de cette manière mais vous pouvez changer un surrégime en surrégime critique si vous obtenez un succès critique. Une échec n'a pas d'effet sur votre surrégime actuel et vous mettez un terme à votre Surrégime en cas d'échec critique.</p>"
         },
         {
             "id": "Call Companion",

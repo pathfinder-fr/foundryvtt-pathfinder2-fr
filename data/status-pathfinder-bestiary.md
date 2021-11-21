@@ -1,12 +1,12 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **changé**: 179
- * **officielle**: 246
+ * **changé**: 183
+ * **officielle**: 242
  * **aucune**: 4
  * **libre**: 7
 
 
-Dernière mise à jour: 2021-11-18 07:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-21 17:54 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -123,6 +123,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[KpxhSWRIhG7ns5NA.htm](pathfinder-bestiary/KpxhSWRIhG7ns5NA.htm)|Spider Swarm|Nuée d'araignées|changé|
 |[l05LjJTXvFS4tYTE.htm](pathfinder-bestiary/l05LjJTXvFS4tYTE.htm)|Centaur|Centaure|changé|
 |[l17XDoK0UIjXUvOv.htm](pathfinder-bestiary/l17XDoK0UIjXUvOv.htm)|Cloud Giant|Géant des nuages|changé|
+|[LDQpLwN40OGefZD0.htm](pathfinder-bestiary/LDQpLwN40OGefZD0.htm)|Tyrannosaurus|Tyrannosaure (Dinosaure)|changé|
 |[lFlXmieuHTBIonhj.htm](pathfinder-bestiary/lFlXmieuHTBIonhj.htm)|Viper|Vipère (Serpent)|changé|
 |[M6RknN77XTo23v45.htm](pathfinder-bestiary/M6RknN77XTo23v45.htm)|Banshee|Banshie|changé|
 |[mEmWRqTRxLUZQYSh.htm](pathfinder-bestiary/mEmWRqTRxLUZQYSh.htm)|Rust Monster|Oxydeur|changé|
@@ -159,11 +160,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[saKs2Qaor8QktboH.htm](pathfinder-bestiary/saKs2Qaor8QktboH.htm)|Catfolk Pouncer|Félide musard|changé|
 |[skwkJmgz7mqIcStF.htm](pathfinder-bestiary/skwkJmgz7mqIcStF.htm)|Ettin|Ettin|changé|
 |[skz8n8N9GEQY2c90.htm](pathfinder-bestiary/skz8n8N9GEQY2c90.htm)|Clay Golem|Golem d’argile|changé|
+|[sNFBOw4z9KagWUHe.htm](pathfinder-bestiary/sNFBOw4z9KagWUHe.htm)|Flesh Golem|Golem de chair|changé|
 |[sUGKrcx7kbHkWnwG.htm](pathfinder-bestiary/sUGKrcx7kbHkWnwG.htm)|Young Red Dragon|Jeune dragon rouge (Chromatique)|changé|
 |[SUpy8sleRwi2Egsq.htm](pathfinder-bestiary/SUpy8sleRwi2Egsq.htm)|Drakauthix|Drakauthix|changé|
 |[SWOZ0e2IQifxzlgL.htm](pathfinder-bestiary/SWOZ0e2IQifxzlgL.htm)|Ancient Silver Dragon|Dragon d'argent vénérable (Métallique)|changé|
+|[t4bHhZBBDUyVzEmf.htm](pathfinder-bestiary/t4bHhZBBDUyVzEmf.htm)|Iron Golem|Golem de fer|changé|
 |[t4JYGYJqT1CaqKvh.htm](pathfinder-bestiary/t4JYGYJqT1CaqKvh.htm)|Shining Child|Enfant lumineux|changé|
 |[T5CUuPsMPb17d6Qy.htm](pathfinder-bestiary/T5CUuPsMPb17d6Qy.htm)|Goliath Spider|Araignée goliath|changé|
+|[Tpuqwt6Af29EMtqX.htm](pathfinder-bestiary/Tpuqwt6Af29EMtqX.htm)|Alchemical Golem|Golem alchimique|changé|
 |[tr75FAbdOkrfQviy.htm](pathfinder-bestiary/tr75FAbdOkrfQviy.htm)|Electric Eel|Anguille électrique|changé|
 |[tuIqEvsct8EO33xs.htm](pathfinder-bestiary/tuIqEvsct8EO33xs.htm)|Alghollthu Master|Maître Alghollthu|changé|
 |[U1L3MFKHe0sNvLoU.htm](pathfinder-bestiary/U1L3MFKHe0sNvLoU.htm)|Dezullon|Dézullone|changé|
@@ -339,7 +343,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[KsWAIXTTh3mfNWOY.htm](pathfinder-bestiary/KsWAIXTTh3mfNWOY.htm)|Giant Viper|Vipère géante (Serpent)|officielle|
 |[KxN9aGFGPxl6oLGF.htm](pathfinder-bestiary/KxN9aGFGPxl6oLGF.htm)|Plague Zombie|Zombie pestiféré|officielle|
 |[l3Pe8FsFbLvft1Fq.htm](pathfinder-bestiary/l3Pe8FsFbLvft1Fq.htm)|Lion|Lion|officielle|
-|[LDQpLwN40OGefZD0.htm](pathfinder-bestiary/LDQpLwN40OGefZD0.htm)|Tyrannosaurus|Tyrannosaure (Dinosaure)|officielle|
 |[LHHgGSs0ELCR4CYK.htm](pathfinder-bestiary/LHHgGSs0ELCR4CYK.htm)|Ghoul|Goule|officielle|
 |[lo4fR4jDVzLdwwkH.htm](pathfinder-bestiary/lo4fR4jDVzLdwwkH.htm)|Skeletal Hulk|Mastodonte squelettique|officielle|
 |[LUtSo30fQWj7mrDn.htm](pathfinder-bestiary/LUtSo30fQWj7mrDn.htm)|Storm Lord|Seigneur des tempêtes (Élémentaire, air)|officielle|
@@ -396,17 +399,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ScOT6QOlXIsevhNq.htm](pathfinder-bestiary/ScOT6QOlXIsevhNq.htm)|Deinosuchus|Deinosuchus|officielle|
 |[sf42HB8VsWGlYixP.htm](pathfinder-bestiary/sf42HB8VsWGlYixP.htm)|Ball Python|Python boule (Serpent)|officielle|
 |[Sft7n3LMmnTxhhYn.htm](pathfinder-bestiary/Sft7n3LMmnTxhhYn.htm)|Warg|Warg|officielle|
-|[sNFBOw4z9KagWUHe.htm](pathfinder-bestiary/sNFBOw4z9KagWUHe.htm)|Flesh Golem|Golem de chair|officielle|
 |[SP72xojHR0UGAWcs.htm](pathfinder-bestiary/SP72xojHR0UGAWcs.htm)|Smilodon|Smilodon|officielle|
 |[sPClc6y3dT3XZupv.htm](pathfinder-bestiary/sPClc6y3dT3XZupv.htm)|Rat Swarm|Nuée de rats|officielle|
 |[SuWpn5yZdsHDHpL2.htm](pathfinder-bestiary/SuWpn5yZdsHDHpL2.htm)|Giant Monitor Lizard|Gecko géant|officielle|
-|[t4bHhZBBDUyVzEmf.htm](pathfinder-bestiary/t4bHhZBBDUyVzEmf.htm)|Iron Golem|Golem de fer|officielle|
 |[t6Xh4fHdHi2GP87z.htm](pathfinder-bestiary/t6Xh4fHdHi2GP87z.htm)|Annis Hag|Guenaude annis|officielle|
 |[tKaOsbg8cmIUSjSE.htm](pathfinder-bestiary/tKaOsbg8cmIUSjSE.htm)|Giant Eagle|Aigle géant|officielle|
 |[tm3Tixb7IDoLdJ5k.htm](pathfinder-bestiary/tm3Tixb7IDoLdJ5k.htm)|Tiefling Adept|Adepte Tieffelin (Héritier des plans)|officielle|
 |[tMxtnGthVV01wNQb.htm](pathfinder-bestiary/tMxtnGthVV01wNQb.htm)|Janni|Jann (Génie)|officielle|
 |[ToSwRvspZ0IB7SHQ.htm](pathfinder-bestiary/ToSwRvspZ0IB7SHQ.htm)|Ghost Mage|Mage fantôme|officielle|
-|[Tpuqwt6Af29EMtqX.htm](pathfinder-bestiary/Tpuqwt6Af29EMtqX.htm)|Alchemical Golem|Golem alchimique|officielle|
 |[triuze3NMe4kWpdS.htm](pathfinder-bestiary/triuze3NMe4kWpdS.htm)|Gluttonyspawn|Rejeton de la gloutonnerie|libre|
 |[tTmml7T2Knz2NrLd.htm](pathfinder-bestiary/tTmml7T2Knz2NrLd.htm)|Crag Linnorm|Linnorm des falaises|officielle|
 |[tXHUr947sanB5tdN.htm](pathfinder-bestiary/tXHUr947sanB5tdN.htm)|Wererat|Rat-garou|officielle|

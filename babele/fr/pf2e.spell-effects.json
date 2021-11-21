@@ -12,6 +12,11 @@
             "description": "<p>La cible n'est pas affectée par le froid sévère ou extrême et lorsqu'elle obtient un succès sur un test d'Acrobaties pour Garder l'équilibre sur la glace ou la neige, elle considère qu'il s'agit à la place d'un succès critique.</p>"
         },
         {
+            "id": "Spell Effect: Energy Absorption (Acid)",
+            "name": "Effet: Absorption d'énergie (Acide)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.LoBjvguamA12iyW0]{Absorption d'énergie}</p>"
+        },
+        {
             "id": "Spell Effect: Accelerating Touch",
             "name": "Effet : Contact accélérant",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{Imposition des mains} si vous avez @Compendium[pf2e.feats-srd.aiHbS8FGNYAQBF62]{Contact accélérant}.</p>\n<p>Si la cible est l'un de vos alliés, il bénéficie également d'un bonus de statut de +2 à la CA et d'un bonus de statut de 3 mètres à la Vitesse pendant 1 round.</p>"
@@ -45,6 +50,11 @@
             "id": "Spell Effect: Schadenfreude (Success)",
             "name": "Effet: Joie malsaine (Succès)",
             "description": "<p>La créature est distraite par son amusement et subit une pénalité de statut de -1 aux tests de Perception et aux jets de Volonté pendant 1 round.</p>"
+        },
+        {
+            "id": "Spell Effect: Elemental Absorption (Earth)",
+            "name": "Effet: Absorption élémentaire (Terre)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.9TauMFkIsmvKJNzZ]{Absorption élémentaire}</p>\n<p>Vous absorbez l'énergie élémentaire que vous pouvez relâcher sous la forme d'une puissante contre-attaque. Choisissez air, eau, feu ou terre. Vous obtenez une résistance de 5 contre les dégâts infligés par les effets ayant le trait élémentaire choisi ; si vous choisissez l'eau, vous gagnez également une résistance aux dégâts de froid. Comme à l'ordinaire, si un sort a plusieurs effets, comme un sort qui inflige à la fois des dégâts de feu et des dégâts contondants avec des roches surchauffées, vous obtenez une résistance aux seuls effets associés à l'élément que vous avez choisi. Notez le nombre de dégâts que vous avez évités grâce à ce sort.</p>\n<p>Comme une activité de 2 actions qui possède le trait concentration et le trait correspondant à l'élément que vous avez choisi, vous pouvez libérer l'énergie stockée. Vous infligez alors des dégâts égaux à ceux que vous avez stockés (30 dégâts maximum) à un ennemi situé dans un rayon de 18 mètres, avec un jet de Réflexes basique. Le type de dégâts dépend de l'élément que vous avez choisi : dégâts de feu pour le feu, dégâts contondants ou de froid pour l'eau, dégâts contondants ou tranchants pour l'air, ou dégâts contondants, perforants ou tranchants pour la terre. Après avoir libéré l'énergie, le sort prend fin. Si vous n'utilisez pas l'énergie stockée avant la fin du sort, l'énergie est perdue.</p>\n<hr />\n<p><strong>Intensifié (+3)</strong> La résistance augmente de 5 et les dégâts maximum augmentent de 30.</p>"
         },
         {
             "id": "Spell Effect: Elemental Form (Earth)",
@@ -117,6 +127,11 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.uZK2BYzPnxUBnDjr]{Entrave}.</p>\nLes lianes entravent vos mouvements, vous subissez une pénalité de circonstance de -3 mètres à vos Vitesses</p>\n<hr />\n<p><em>Remarque : la durée doit être augmentée à 2 rounds lorsque le sort est renforcé au Niveau 2, et à 1 minute lorsque le sort est renforcé au Niveau 4.</em></p>"
         },
         {
+            "id": "Spell Effect: Adaptive Ablation (Electricity)",
+            "name": "Effet: Ablation adaptative (Électricité)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.GoKkejPj5yWJPIPK]{Effet: Ablation adaptative}</p>"
+        },
+        {
             "id": "Spell Effect: Rapid Adaptation (Aquatic Speed Bonus)",
             "name": "Effet : Adaptation rapide (Aquatique: bonus vitesse de nage)",
             "description": "<p>La cible obtient une vitesse de nage égale à sa vitesse au sol. Si elle possède déjà une vitesse de nage, elle obtient un bonus de statut de +3 mètres à sa vitesse de nage.</p>"
@@ -157,9 +172,19 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.1K6AYGisvo9gqdhs]{Forme élémentaire}</p>\n<p>Vous faites appel à la puissance des plans pour vous transformer en une forme élémentaire de combat de taille moyenne. Lorsque vous êtes sous cette forme, vous gagnez le trait de terre et le trait élémentaire. Vous avez des mains dans cette forme de combat et pouvez effectuer des actions de manipulation. Vous pouvez annuler le sort.</p>\n<p>Vous gagnez les statistiques et capacités suivantes, quelle que soit la forme de combat que vous choisissez :</p>\n<ul>\n<li>CA = 19 + votre niveau. Ignorez la pénalité de contrôle et la réduction de vitesse de votre armure.</li>\n<li>10 points de vie temporaires.</li>\n<li>Vision dans le noir.</li>\n<li>Une ou plusieurs attaques de corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous'êtes entraîné à les utiliser. Votre modificateur d'attaque est de +18, et votre bonus de dégâts de +9. Ces attaques sont basées sur la Force. Si votre modificateur d'attaque à mains nues correspondant est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Athlétisme de +20 ; ignorez ce changement si votre propre modificateur est plus élevé.</li>\n</ul>\n<p>Vous gagnez également des capacités spécifiques en fonction du type d'élémentaire que vous choisissez :</p>\n<ul>\n<li><strong>Feu</strong>\n<ul>\n<li>Vitesse 15 mètres ; résistance au feu 10, faiblesse 5 au froid et 5 à l'eau</li>\n<li><strong>Corps à corps</strong> Vrille, <strong>Dégâts</strong> 1d8 feu plus 1d4 feu persistant.</li>\n</ul>\n<hr />\n<p><strong>Intensifié (6e)</strong> Votre Taille de combat est Grande et vos attaques ont une portée de 3 mètres. Vous devez avoir de l'espace pour vous étendre ou le sort est perdu. À la place, vous gagnez CA = 22 + votre niveau, 15 PV temporaires, un modificateur d'attaque de +23, un bonus aux dégâts de +13, et un modificateur d'Acrobaties ou d'Athlétisme +23.</p>\n<p><strong>Intensifié (7e)</strong> Votre Taille de combat est Très grande et vos attaques ont une portée de 4,5 mètres. Vous devez avoir de l'espace pour vous étendre ou le sort est perdu. À la place, vous gagnez CA = 22 + votre niveau, 20 HP temporaires, un modificateur d'attaque de +25, un bonus aux dégâts de +11, le double du nombre de dés de dégâts (y compris @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts persistants}), et un modificateur d'Acrobatie ou d'Athlétisme +25.</p>\n<hr />\n<p><em>Remarque : pour accentuer cet effet, importez-le dans votre répertoire d'objets et modifiez le niveau avant de l'ajouter à la cible</em></p>"
         },
         {
+            "id": "Spell Effect: Energy Absorption (Cold)",
+            "name": "Effet: Absorption d'énergie Froid)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.LoBjvguamA12iyW0]{Absorption d'énergie}</p>"
+        },
+        {
             "id": "Spell Effect: Roar of the Wyrm",
             "name": "Effet : Rugissement du Ver",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.FSu6ZKxr3xdS75wq]{Rugissement du Ver}.</p>\n<p>Vous gagnez un bonus de circonstances de +2 aux tests de Diplomatie pendant 10 minutes contre les dragons qui se trouvaient dans la zone au moment de l'incantation</p>"
+        },
+        {
+            "id": "Spell Effect: Blessing of Defiance (2 Action Fortitude)",
+            "name": "Effet: Bénédiction du défi (2 actions Vigueur)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.1b55SgYTV65JvmQd]{Bénédiction du défi}</p>\n<p>En canalisant la puissance de la persévérance face à l'adversité, vous donnez à la cible les moyens de faire fi du danger et d'éviter le pire des maux. Choisissez un jet de sauvegarde : Vigueur, Réflexes, ou Volonté. La cible bénéficie d'un bonus de statut de +4 à ce jet de sauvegarde pendant 1 round. La puissance et le nombre de cibles de cette bénédiction dépendent du nombre d'actions que vous dépensez lorsque vous lancez le sort.</p>\n<p>Le sort cible vous cible ou un allié à portée. la cible obtient une résistance 15 aux dégâts poison</p>"
         },
         {
             "id": "Spell Effect: Traveler's Transit (Fly)",
@@ -362,6 +387,16 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{Inspiration défensive}</p>\n<p>Vous inspirez vos alliés à se protéger plus efficacement. Vous et tous les alliés de la zone gagnez un bonus de statut de +1 à la CA et aux jets de sauvegarde, ainsi qu'une résistance égale à la moitié du niveau du sort aux dégâts physiques</p>\n<p>Remarque : la résistance n'est pas automatiquement ajoutée.</p>"
         },
         {
+            "id": "Spell Effect: Energy Absorption (Fire)",
+            "name": "Effet: Absorption d'énergie (Feu)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.LoBjvguamA12iyW0]{Absorption d'énergie}</p>"
+        },
+        {
+            "id": "Spell Effect: Elemental Absorption (Air)",
+            "name": "Effet: Absorption élémentaire (Air)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.9TauMFkIsmvKJNzZ]{Absorption élémentaire}</p>\n<p>Vous absorbez l'énergie élémentaire que vous pouvez relâcher sous la forme d'une puissante contre-attaque. Choisissez air, eau, feu ou terre. Vous obtenez une résistance de 5 contre les dégâts infligés par les effets ayant le trait élémentaire choisi ; si vous choisissez l'eau, vous gagnez également une résistance aux dégâts de froid. Comme à l'ordinaire, si un sort a plusieurs effets, comme un sort qui inflige à la fois des dégâts de feu et des dégâts contondants avec des roches surchauffées, vous obtenez une résistance aux seuls effets associés à l'élément que vous avez choisi. Notez le nombre de dégâts que vous avez évités grâce à ce sort.</p>\n<p>Comme une activité de 2 actions qui possède le trait concentration et le trait correspondant à l'élément que vous avez choisi, vous pouvez libérer l'énergie stockée. Vous infligez alors des dégâts égaux à ceux que vous avez stockés (30 dégâts maximum) à un ennemi situé dans un rayon de 18 mètres, avec un jet de Réflexes basique. Le type de dégâts dépend de l'élément que vous avez choisi : dégâts de feu pour le feu, dégâts contondants ou de froid pour l'eau, dégâts contondants ou tranchants pour l'air, ou dégâts contondants, perforants ou tranchants pour la terre. Après avoir libéré l'énergie, le sort prend fin. Si vous n'utilisez pas l'énergie stockée avant la fin du sort, l'énergie est perdue.</p>\n<hr />\n<p><strong>Intensifié (+3)</strong> La résistance augmente de 5 et les dégâts maximum augmentent de 30.</p>"
+        },
+        {
             "id": "Spell Effect: Boost Eidolon (3 Dice)",
             "name": "Effet: Booster l'eidolon (3 Dés)",
             "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.HStu2Yhw3iQER9tY]{Booster l'eilodon}</p>\n<p>Vous vous concentrez profondément sur le lien entre vous et votre eidolon et augmentez la puissance des attaques de votre eidolon. Votre eidolon bénéficie d'un bonus de statut de +2 aux jets de dégâts avec ses attaques à mains nues. Si les Frappes de votre eidolon infligent plus d'un dé de dégâts d'arme, le bonus de statut augmente de 2 par dé de dégâts d'arme, jusqu'à un maximum de +8 pour quatre dés de dégâts d'arme.</p>"
@@ -432,6 +467,11 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.szIyEsvihc5e1w8n]{Apaiser}.</p>\n<p>Votre esprit est renforcé contre les effets hostiles. Vous bénéficiez d'un bonus de statut de +2 aux jets de sauvegarde contre les effets mentaux pendant toute la durée du sort.</p>"
         },
         {
+            "id": "Spell Effect: Embrace the Pit",
+            "name": "Effet: Étreinte de la fosse",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.ilGsyGLGjjIPHbyP]{Étreinte de la fosse}</p>"
+        },
+        {
             "id": "Spell Effect: Aberrant Form (Otyugh)",
             "name": "Effet: Forme d'aberration (Otyugh)",
             "description": "<p>En exploitant le pouvoir de viles entités, vous vous transformez en une aberration géante. Vous devez disposer d'un espace suffisant pour vous étendre, sinon le sort est perdu. Lorsque vous lancez ce sort, choisissez de vous transformer en chuul, en gogiteth, en gug ou en otyugh. Pendant que vous êtes sous cette forme, vous gagnez le trait aberration. Vous pouvez Révoquer le sort.</p>\n<p>Vous obtenez les statistiques et capacités suivantes quelle que soit la forme de combat que vous avez choisie :</p>\n<ul>\n<li>CA = 18 + votre niveau. Ignorez votre pénalité d'armure au test et la réduction de votre Vitesse.</li>\n<li>13 Points de vie temporaires.</li>\n<li>Vision dans le noir.</li>\n<li>Une ou plusieurs attaques au corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous êtes qualifié pour les utiliser. Votre modificateur d'attaque est de +18, et vous utilisez les dégâts indiqués. Ces attaques sont basées sur la Force (pour les besoins de la condition Affaibli, par exemple). Si votre modificateur d'attaque à mains nues est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Athlétisme de +20, à moins que votre propre modificateur ne soit plus élevé.</li>\n</ul>\n<p>Vous obtenez des capcités spécifiques  en fonction du type d'aberration que vous avez choisi :</p>\n<ul>\n<li><strong>Otyugh</strong></li>\n<ul>\n<li>Bonus de circonstances de +2 sur les jets de sauvegarde contre la maladie</li>\n<li>Vitesse 6 mètres</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Mâchoires <strong>Dégâts</strong> 3d6+8 perforants</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Tentacule (agile, allonge 3 mètres) <strong>Dégâts</strong> 2d6+8 contondants.</li>\n</ul"
@@ -477,6 +517,11 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.kwlKUxEuT8T15YW6]{Convocations primordiales} lorsque vous sélectionnez air.</p>\n<p>La créature gagne une Vitesse de vol de 18 mètres.</p>"
         },
         {
+            "id": "Spell Effect: Bottle the Storm",
+            "name": "Effet: Tempête en bouteille",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.VUwpDY4Z91s9QCg0]{Tempête en bouteille}</p>\n<p>Vous gagnez une résistance à l'électricité contre l'effet déclencheur</p>"
+        },
+        {
             "id": "Spell Effect: Thundering Dominance",
             "name": "Effet: Domination tonitruante",
             "description": "<p>Vous enveloppez la cible d'une puissante aura de prédateur et amplifiez ses cordes vocales. Elle bénéficie d'un bonus de statut de +1 aux tests d'intimidation. Une fois au cours de la durée de ce sort, il peut accomplir l'action @Compendium[pf2e.actionspf2e.6SAdjml3OZw0BZnn]{Rugissement tonitruant}.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> Le bonus de statut aux tests d'intimidation augmente de 1 (jusqu'à un maximum de +4 pour un sort de niveau 8) et les dégâts du rugissement augmentent de 2d8.</p>"
@@ -485,6 +530,11 @@
             "id": "Spell Effect: Impeccable Flow (2nd)",
             "name": "Effet: Flux impeccable (2e)",
             "description": "<p>Vous vous harmonisez avec un ordre cosmique sous-jacent au monde. Tant que vous restez en phase avec cette puissance, vous gagnez un bonus de statut de +1 aux tests de Perception, aux jets de sauvegarde et aux tests de compétence. Si vous obtenez un échec critique à un test alors que vous êtes sous l'effet de ce sort, le bonus prend fin et vous subissez à la place une pénalité de statut de -1 à tous les tests pour la durée restante.</p>"
+        },
+        {
+            "id": "Spell Effect: Enduring Might",
+            "name": "Effet: Puissance protectrice",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.eG1fBodYwolaXK98]{Puissance protectrice}</p>"
         },
         {
             "id": "Spell Effect: Animal Form (Shark)",
@@ -530,6 +580,11 @@
             "id": "Spell Effect: Ki Strike (Negative)",
             "name": "Effet : Frappe ki (Négatif)",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Frappe ki}, et en sélectionnant Négatif.</p>"
+        },
+        {
+            "id": "Spell Effect: Barkskin",
+            "name": "Effet: Peau d'écorce",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]{Peau d'écorce}</p>"
         },
         {
             "id": "Spell Effect: Boost Eidolon (1 Die)",
@@ -620,6 +675,16 @@
             "id": "Spell Effect: Dragon Claw (Cold)",
             "name": "Effet: Griffes de dragon (Froid)",
             "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.K8vvrOgW4bGakXxm]{Griffes de dragon} si votre lignage est argent ou blanc.</p>"
+        },
+        {
+            "id": "Spell Effect: Corrosive Body",
+            "name": "Effet: Corps corrosif",
+            "description": "<p>Accordé par Compendium[pf2e.spells-srd.9aFg4EuOBVz0i3Lb]{Corps corrosif}</p>\n<p>Vous expirez un gaz corrosif, et des sécrétions acides recouvrent votre peau lorsque vous vous transformez en un être d'acide vivant. Vous obtenez une immunité à l'acide. Toute créature qui vous touche ou vous endommage avec une attaque au corps-à-corps à mains nues ou une arme de corps-à-corps sans allonge subit [[/r {3d6}[acid]]]{3d6 dégâts d'acide} et vos attaques à mains nues infligent 1d4 dégâts d'acide supplémentaires. La première fois par round que vous infligez des dégâts d'acide à une créature de cette manière, vous gagnez [[/r 3d6 #pv temporaires]]{3d6 PV temporaires} car votre corps digère la matière érodée et la transforme en un acide protecteur. Lorsque le sort prend fin, les PV temporaires restants expirent également. Vos sorts d'acide infligent un dé supplémentaire de dégâts d'acide (du même dé de dégâts que celui utilisé par le sort). Vous pouvez lancer Aspersion d'acide comme un sort inné ; les dégâts d'éclaboussure affectent toutes les créatures situées dans un rayon de 4,5 m au lieu de 1,5 mètres normalement.</p>"
+        },
+        {
+            "id": "Spell Effect: Adaptive Ablation (Acid)",
+            "name": "Effet: Ablation adaptative (Acide)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.GoKkejPj5yWJPIPK]{Effet: Ablation adaptative}</p>"
         },
         {
             "id": "Spell Effect: Ooze Form (Ochre Jelly)",
@@ -722,6 +787,11 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]{Forme aérienne}.</p>\n<p>Vous exploitez votre maîtrise des forces primitives pour remodeler votre corps en une forme de combat animal volant de taille Moyenne. Vous pouvez choisir le type spécifique d'animal (comme un hibou ou un aigle pour les oiseaux), mais cela n'a aucun effet sur la taille ou les statistiques de la forme. Lorsque vous êtes sous cette forme, vous gagnez le trait animal. Vous pouvez annuler le sort.</p>\n<p>Vous gagnez les statistiques et capacités suivantes, quelle que soit la forme de combat que vous choisissez :</p>\n<ul>\n<li>CA = 18 + votre niveau. Ignorez la pénalité de contrôle et la réduction de vitesse de votre armure.</li>\n<li>5 points de vie temporaires.</li>\n<li>Vision nocturne.</li>\n<li>Une ou plusieurs attaques de corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous'êtes entraîné à les utiliser. Votre modificateur d'attaque est de +16, et votre bonus de dégâts est de +5. Ces attaques sont basées sur la Dextérité (pour les besoins de la condition @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit}, par exemple). Si votre modificateur d'attaque pour les attaques à mains nues basées sur la Dextérité est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Acrobatie de +16, sauf si votre propre modificateur est plus élevé.</li>\n</ul>\n<p>Vous gagnez également des capacités spécifiques en fonction de la forme que vous choisissez :</p>\n<ul>\n<li><strong>Guêpe</strong>\n<ul>\n<li>Vitesse 6 mètres, Vitesse de vol 12 mètres</li>\n<li><strong>Corps à corps</strong> Dard, <strong>Dégâts</strong> 1d8 perforants plus 1d6 poison persistant.</li>\n</ul>\n<hr />\n<p><strong>Intensifié (5e)</strong> Votre Taille de combat est Grande et votre Vitesse de vol bénéficie d'un bonus de statut de +3 mètres. Vous devez disposer d'un espace suffisant pour vous étendre, sinon le sort est perdu. À la place, vous gagnez 10 PV temporaires, un modificateur d'attaque de +18, un bonus aux dégâts de +8 et un modificateur d'Acrobatie de +20.</p>\n<p><strong>Intensifié (6e)</strong> Votre Taille de combat est Très grande, votre vitesse de vol bénéficie d'un bonus de statut de 4,50 mètres et vos attaques ont une portée de 3 mètres. Vous devez disposer d'un espace suffisant pour vous étendre, sinon le sort est perdu. À la place, vous gagnez une CA = 21 + votre niveau, 15 PV temporaires, un modificateur d'attaque +21, un bonus aux dégâts de +4 et un doublement des dés de dégâts (y compris @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts persistants}), et un modificateur d'Acrobaties +23.</p>\n<hr />\n<p><em>Remarque : pour accentuer cet effet, importez-le dans votre répertoire d'objets et modifiez le niveau avant de l'ajouter à la cible</em></p>"
         },
         {
+            "id": "Spell Effect: Elemental Absorption (Fire)",
+            "name": "Effet: Absorption élémentaire (Feu)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.9TauMFkIsmvKJNzZ]{Absorption élémentaire}</p>\n<p>Vous absorbez l'énergie élémentaire que vous pouvez relâcher sous la forme d'une puissante contre-attaque. Choisissez air, eau, feu ou terre. Vous obtenez une résistance de 5 contre les dégâts infligés par les effets ayant le trait élémentaire choisi ; si vous choisissez l'eau, vous gagnez également une résistance aux dégâts de froid. Comme à l'ordinaire, si un sort a plusieurs effets, comme un sort qui inflige à la fois des dégâts de feu et des dégâts contondants avec des roches surchauffées, vous obtenez une résistance aux seuls effets associés à l'élément que vous avez choisi. Notez le nombre de dégâts que vous avez évités grâce à ce sort.</p>\n<p>Comme une activité de 2 actions qui possède le trait concentration et le trait correspondant à l'élément que vous avez choisi, vous pouvez libérer l'énergie stockée. Vous infligez alors des dégâts égaux à ceux que vous avez stockés (30 dégâts maximum) à un ennemi situé dans un rayon de 18 mètres, avec un jet de Réflexes basique. Le type de dégâts dépend de l'élément que vous avez choisi : dégâts de feu pour le feu, dégâts contondants ou de froid pour l'eau, dégâts contondants ou tranchants pour l'air, ou dégâts contondants, perforants ou tranchants pour la terre. Après avoir libéré l'énergie, le sort prend fin. Si vous n'utilisez pas l'énergie stockée avant la fin du sort, l'énergie est perdue.</p>\n<hr />\n<p><strong>Intensifié (+3)</strong> La résistance augmente de 5 et les dégâts maximum augmentent de 30.</p>"
+        },
+        {
             "id": "Spell Effect: Draw Ire (Failure)",
             "name": "Effet: Attirer la colère (Échec)",
             "description": "<p>La cible subit une pénalité est de -1 aux jets d'attaque contre les créatures autres que vous.</p>"
@@ -730,6 +800,11 @@
             "id": "Spell Effect: Dragon Claw (Fire)",
             "name": "Effet: Griffes de dragon (Feu)",
             "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.K8vvrOgW4bGakXxm]{Griffes de dragon} si votre lignage airain, or ou rouge</p>"
+        },
+        {
+            "id": "Spell Effect: Blood Vendetta (Failure)",
+            "name": "Effet: Vendetta du sang (Échec)",
+            "description": "p>Accordé par @Compendium[pf2e.spells-srd.TaaMEYdZXQXF0Sks]{Vendetta du sang}</p>\n<p>Jusqu'à ce que le saignement s'arrête, la cible a une faiblesse 1 contre les dégâts perforants et tranchants.</p>"
         },
         {
             "id": "Spell Effect: Daemon Form (Meladaemon)",
@@ -812,6 +887,11 @@
             "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.HWJODX2zPg5cg34F]{Dragon Wings} et gagner une vitesse de 18 mètres</p>"
         },
         {
+            "id": "Spell Effect: Mind Blank",
+            "name": "Effet: Esprit impénétrable",
+            "description": "<p>De puissantes protections camouflent la cible des tentatives de perception magique divinatoire. La cible bénéficie d’un bonus de statut de +4 aux jets de sauvegarde contre les effets mentaux. Esprit impénétrable tente de contrer tous les effets de scrutation, de détection et de révélation comme si son niveau de sort était supérieur de 1 à son niveau réel. En cas de réussite, l’effet de divination fonctionne normalement mais ne détecte rien à propos de la cible et de ses possessions. Par exemple, détection de la magie détectera d’autres éventuelles présences magiques dans la zone mais aucune de celles présentes sur la cible.</p>"
+        },
+        {
             "id": "Spell Effect: Bane",
             "name": "Effet : Imprécation",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.7ZinJNzxq0XF0oMx]{Imprécation}.</p>\n<p>Le doute envahit votre esprit. Vous subissez une pénalité de statut de -1 aux jets d'attaque tant que vous vous trouvez dans la zone de l'Imprécation.</p>"
@@ -827,6 +907,11 @@
             "description": "<p>L'impression de terreur est particulièrement puissante. Chaque créature dans la zone subit une pénalité de statut de -2 aux jets de sauvegarde contre les effets de peur.</p>"
         },
         {
+            "id": "Spell Effect: Adaptive Ablation (Sonic)",
+            "name": "Effet: Ablation adaptative (Son)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.GoKkejPj5yWJPIPK]{Effet: Ablation adaptative}</p>"
+        },
+        {
             "id": "Spell Effect: Divine Vessel 9th level (Good)",
             "name": "Effet: Réceptacle divin (Bon)",
             "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.hiVL8qsnTJtpouw0]{Réceptacle divin}</p>\n<p>Vous accueillez des énergies venues d’ailleurs dans votre corps.</p>\n<p>Vous êtes toujours reconnaissable, mais vous adoptez les traits d’un serviteur de votre divinité. Choisissez un alignement que possède votre divinité (chaotique, mauvais, bon ou loyal). Vous ne pouvez pas lancer ce sort si vous n’avez pas de divinité ou si elle est neutre strict. Ce sort adopte le trait de l’alignement que vous avez choisi.</p>\n<p>Si vous êtes de taille Moyenne ou inférieure, vous devenez de Grande taille, comme avec le sort @Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement}. Vous devez avoir assez de place pour vous dilater, sinon le sort est perdu. Vous gagnez également les avantages suivants.</p>\n<ul>\n<li>60 points de vie temporaires.</li>\n<li>Une Vitesse de vol égale à votre Vitesse.</li>\n<li>Faiblesse 10 aux dégâts mauvais.</li>\n<li>Un bonus de statut de +1 aux jets de sauvegarde contre les sorts.</li>\n<li>Vision dans le noir.</li>\n<li>Vos attaques à mains nues et avec des armes infligent 1 dégât bon supplémentaire.</li>\n<li>Vos attaques de Poings infligent 2d8 dégâts.</li>\n</ul>\n<hr />\n<p><em>Note: La faiblesse aux dégâts mauvais ne peut pas être automatisée. Veuillez appliquer ces faiblesse manuellement.</em></p>"
@@ -835,6 +920,11 @@
             "id": "Spell Effect: Enlarge (Heightened 4th)",
             "name": "Effet : Agrandissement (Intensifié 4e)",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement}</p>\n<p>Soutenue par la puissance magique, la cible atteint la taille Très grande. Son équipement grandit avec elle mais revient à sa taille naturelle s'il est retiré. La créature est @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite} 1. Sa portée augmente de 3 mètres (ou de 4,5 mètres si elle était Très petite au départ), et elle bénéficie d'un bonus de statut de +4 aux dégâts de corps à corps. Le sort n'a aucun effet sur une créature Très grande ou supérieure."
+        },
+        {
+            "id": "Spell Effect: Armor of Bones",
+            "name": "Effet: Armure d'os",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.pSNLufPPsReKQtJR]{Armure d'os}"
         },
         {
             "id": "Spell Effect: Adapt Self (Swim)",
@@ -942,6 +1032,11 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Frappe ki} si vous avez @Compendium[pf2e.feats-srd.Ux0DSklFlIlcvnhO]{Sacred Ki} et en sélectionnant Chaotique.</p>"
         },
         {
+            "id": "Spell Effect: Elemental Absorption (Water)",
+            "name": "Effet: Absorption élémentaire (Eau)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.9TauMFkIsmvKJNzZ]{Absorption élémentaire}</p>\n<p>Vous absorbez l'énergie élémentaire que vous pouvez relâcher sous la forme d'une puissante contre-attaque. Choisissez air, eau, feu ou terre. Vous obtenez une résistance de 5 contre les dégâts infligés par les effets ayant le trait élémentaire choisi ; si vous choisissez l'eau, vous gagnez également une résistance aux dégâts de froid. Comme à l'ordinaire, si un sort a plusieurs effets, comme un sort qui inflige à la fois des dégâts de feu et des dégâts contondants avec des roches surchauffées, vous obtenez une résistance aux seuls effets associés à l'élément que vous avez choisi. Notez le nombre de dégâts que vous avez évités grâce à ce sort.</p>\n<p>Comme une activité de 2 actions qui possède le trait concentration et le trait correspondant à l'élément que vous avez choisi, vous pouvez libérer l'énergie stockée. Vous infligez alors des dégâts égaux à ceux que vous avez stockés (30 dégâts maximum) à un ennemi situé dans un rayon de 18 mètres, avec un jet de Réflexes basique. Le type de dégâts dépend de l'élément que vous avez choisi : dégâts de feu pour le feu, dégâts contondants ou de froid pour l'eau, dégâts contondants ou tranchants pour l'air, ou dégâts contondants, perforants ou tranchants pour la terre. Après avoir libéré l'énergie, le sort prend fin. Si vous n'utilisez pas l'énergie stockée avant la fin du sort, l'énergie est perdue.</p>\n<hr />\n<p><strong>Intensifié (+3)</strong> La résistance augmente de 5 et les dégâts maximum augmentent de 30.</p>"
+        },
+        {
             "id": "Spell Effect: Fey Form (Elananx)",
             "name": "Effet: Forme de fée (Élananxe)",
             "description": "<p>En canalisant l'espièglerie des fées, vous prenez une forme de combat de fée, forme qui est de taille moyenne, sauf indication contraire. Lorsque vous lancez ce sort, choisissez dryade, élananxe, naïade, bonnet rouge ou licorne. Si vous choisissez licorne, la forme de combat est Grande et vous devez avoir la place de vous étendre ou le sort est perdu. Lorsque vous êtes sous cette forme, vous gagnez le trait fée. Sauf si vous choisissez elananx ou licorne, vous avez des mains dans cette forme de combat et pouvez utiliser des actions de manipulation. Vous pouvez annuler le sort.</p>\n<p>Vous gagnez les statistiques et capacités suivantes, quelle que soit la forme que vous choisissez :</p>\n<ul>\n<li>CA = 19 + votre niveau. Ignorez votre pénalité d'armure au test et la réduction de vitesse.</li>\n<li>15 Points de vie temporaires et faiblesse 5 au fer froid.</li>\n<li>Vision nocturne</li>\n<li>Une ou plusieurs attaques à mains nues au corps à corps propre à la forme de combat que vous avez choisie, qui sont les seules attaques que vous pouvez employer. Vous êtes qualifié avec elles. Votre modificateur d'attaque est de +16 et vous utilisez les dégâts listés. Ces attaques sont basées sur la Dextérité. Si votre modificateur d'attaque est plus élevé pour l'attaque à mains nues donnée ou l'arme, vous pouvez l'utiliser à la place.</li>\n<li>Les modificateurs d'Acrobaties sont de +16, sauf si votre propre modificateur est plus élevé.</li>\n</ul>\n<p>Vous obtenez aussi les capacités spécifiques basées sur le type de fée :</p>\n<li><strong>Élananxe</strong>\n<ul>\n<li>Vitesse 9 mètres ;</li>\n<li>résistance 5 au feu ;</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Mâchoires, <strong>Dégâts</strong> 1d6+8 perforants plus 1d6 dégâts de feu;</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Griffes (agile), <strong>Dégâts</strong> 1d6 slashing.</li>\n</ul>\n</li>"
@@ -992,6 +1087,11 @@
             "description": "Accordé par le sort @Compendium[pf2e.spells-srd.B8aCUMCHCIMUCEVK]{Mobilité élémentaire} si le Feu est votre élément.</p>"
         },
         {
+            "id": "Spell Effect: Blessing of Defiance (2 Action Will)",
+            "name": "Effet Bénédiction du défi (2 actions Volonté)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.1b55SgYTV65JvmQd]{Bénédiction du défi}</p>\n<p>En canalisant la puissance de la persévérance face à l'adversité, vous donnez à la cible les moyens de faire fi du danger et d'éviter le pire des maux. Choisissez un jet de sauvegarde : Vigueur, Réflexes, ou Volonté. La cible bénéficie d'un bonus de statut de +4 à ce jet de sauvegarde pendant 1 round. La puissance et le nombre de cibles de cette bénédiction dépendent du nombre d'actions que vous dépensez lorsque vous lancez le sort.</p>\n<p>Le sort cible vous cible ou un allié à portée. la cible obtient une résistance 15 aux dégâts mentaux</p>"
+        },
+        {
             "id": "Spell Effect: Thicket of Knives",
             "name": "Effet: Multitude de couteaux",
             "description": "<p>Vous créez de nombreuses copies fantômes de votre bras armé, cachant vos véritables mouvements et rendant vos attaques imprévisibles. Vous obtenez un bonus de statut de +2 aux tests de Duperie. Si vous n'êtes pas qualifié en Duperie, vous pouvez néanmoins utiliser l'action Feinter et ajouter votre niveau comme bonus de compétence malgré le fait d'être inexpérimenté.</p>"
@@ -1022,6 +1122,11 @@
             "description": "<p>Vous vous corrompez avec le péché des Abysses vous transformant en une forme de combat démoniaque de taille moyenne. Lorsque vous lancez ce sort, vous choisissez entre un babau, un hezrou, un nabasu ou un vrock. Si vous choisissez hezrou, la forme de combat est Grande et vous devez disposer d'un espace suffisant pour vous étendre ou le sort est perdu. Lorsque vous êtes sous cette forme, vous obtenez les traits démon et fiélon. Vous avez des mains dans cette forme de combat et pouvez utiliser des actions de manipulation. Vous pouvez Révoquer le sort.</p>\n<p>Vous obtenez les statistiques et capacités suivantes quelle que soit la forme de combat que vous avez choisie :</p>\n<ul>\n<li>CA = 20 + votre niveau. Ignorez votre pénalité d'armure au test et la réduction de votre Vitesse.</li>\n<li>30 Points de vie temporaires, faiblesse 5 au fer froid et faiblesse 5 au bien.</li>\n<li>Vision dans le noir</li>\n<li>Une ou plusieurs attaques au corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous êtes qualifié pour les utiliser. Votre modificateur d'attaque est de +22, et vous utilisez les dégâts indiqués. Ces attaques sont basées sur la Force (pour les besoins de la condition Affaibli, par exemple). Si votre modificateur d'attaque à mains nues est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Athlétisme de +23, à moins que votre propre modificateur ne soit plus élevé.</li>\n</ul>\n<p>Vous obtenez aussi les capacités basées sur le type de démon que vous avez choisi :</p>\n<ul>\n<li><strong>Nabasu</strong> Vitesse 7,5 mètres, Vol 12 mètres</li>\n<ul>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Mâchoires <strong>Dégâts</strong> 2d10+10 dégâts perforants plus 1d6 dégâts mauvais</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Griffe (agile) <strong>Dégâts</strong> 2d6 dégâts tranchants plus 1d6 dégâts mauvais</li>\n</ul>\n</li>"
         },
         {
+            "id": "Spell Effect: Downpour",
+            "name": "Effet: Déluge",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.K4LXpaBWrGy6jIER]{Déluge}</p>"
+        },
+        {
             "id": "Spell Effect: Elemental Gift (Earth)",
             "name": "Effet: Don élémentaire (Terre)",
             "description": "<p>Une force élémentaire remplit votre cible, lui conférant la rapidité de l'air, la robustesse de la terre, l'âpreté du feu ou la souplesse de l'eau, selon l'élément que vous choisissez. Choisissez un élément lorsque vous lancez le sort. La cible bénéficie de l'avantage de cet élément comme décrit ci-dessous et ce sort gagne le trait de cet élément.</p>\n<ul>\n<li><strong>Terre</strong> Lorsqu'elle est au sol, la cible bénéficie d'un bonus de statut de +2 aux jets de Vigueur et de Réflexes contre les effets qui la pousseraient ou la feraient trébucher, et aux jets de sauvegarde contre les effets qui tenteraient de la mettre À terre. De plus, le sol adjacent à la cible est un terrain difficile et ce terrain difficile se déplace avec la cible, bien que la cible ignore ce terrain difficile pour son propre déplacement.</li>\n</ul>"
@@ -1035,6 +1140,16 @@
             "id": "Spell Effect: Boost Eidolon (2 Dice)",
             "name": "Effet: Booster l'eidolon (2 Dés)",
             "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.HStu2Yhw3iQER9tY]{Booster l'eilodon}</p>\n<p>Vous vous concentrez profondément sur le lien entre vous et votre eidolon et augmentez la puissance des attaques de votre eidolon. Votre eidolon bénéficie d'un bonus de statut de +2 aux jets de dégâts avec ses attaques à mains nues. Si les Frappes de votre eidolon infligent plus d'un dé de dégâts d'arme, le bonus de statut augmente de 2 par dé de dégâts d'arme, jusqu'à un maximum de +8 pour quatre dés de dégâts d'arme.</p>"
+        },
+        {
+            "id": "Spell Effect: Evolution Surge (Scent)",
+            "name": "Effet: Flux d'évolution(Odorat)",
+            "description": "<p>Vous infusez votre eidolon avec du pouvoir, créant une évolution temporaire dans les capacités de votre eidolon. Choisissez un des effets suivant :</p>\n<ul>\n<li>Votre eidolon obtient @Compendium[pf2e.bestiary-ability-glossary-srd.rqfnQ5VHT5hxm25r]{Odorat} comme un sens imprécis jusqu'à 9 mètres.</li>"
+        },
+        {
+            "id": "Spell Effect: Corrosive Body (Heightened 9th)",
+            "name": "Effet: Corps corrosif (Intensifié (9e))",
+            "description": "<p>Accordé par Compendium[pf2e.spells-srd.9aFg4EuOBVz0i3Lb]{Corps corrosif}</p>\n<p>Vous expirez un gaz corrosif, et des sécrétions acides recouvrent votre peau lorsque vous vous transformez en un être d'acide vivant. Vous obtenez une immunité à l'acide. Toute créature qui vous touche ou vous endommage avec une attaque au corps-à-corps à mains nues ou une arme de corps-à-corps sans allonge subit [[/r {4d6}[acid]]]{4d6 dégâts d'acide} et vos attaques à mains nues infligent 2d4 dégâts d'acide supplémentaires. La première fois par round que vous infligez des dégâts d'acide à une créature de cette manière, vous gagnez [[/r 5d6 #pv temporaires]]{5d6 PV temporaires} car votre corps digère la matière érodée et la transforme en un acide protecteur. Lorsque le sort prend fin, les PV temporaires restants expirent également. Vos sorts d'acide infligent un dé supplémentaire de dégâts d'acide (du même dé de dégâts que celui utilisé par le sort). Vous pouvez lancer Aspersion d'acide comme un sort inné ; les dégâts d'éclaboussure affectent toutes les créatures situées dans un rayon de 4,5 m au lieu de 1,5 mètres normalement.</p>"
         },
         {
             "id": "Spell Effect: Wind Jump",
@@ -1107,6 +1222,11 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.u2uSeH6YSbK1ajTy]{Peau magique}</p>"
         },
         {
+            "id": "Spell Effect: Adaptive Ablation (Cold)",
+            "name": "Effet: Ablation adaptative (Froid",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.GoKkejPj5yWJPIPK]{Effet: Ablation adaptative}</p>"
+        },
+        {
             "id": "Spell Effect: Ki Strike (Fire)",
             "name": "Effet : Frappe ki (Feu)",
             "description": "<p>Accordée par @Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Frappe ki} si vous avez @Compendium[pf2e.feats-srd.BU4NBIBkVZxdWLLH]{{Poing élémentaire} et en sélectionnant Feu.</p>"
@@ -1167,14 +1287,24 @@
             "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.hiVL8qsnTJtpouw0]{Réceptacle divin}</p>\n<p>Vous accueillez des énergies venues d’ailleurs dans votre corps.</p>\n<p>Vous êtes toujours reconnaissable, mais vous adoptez les traits d’un serviteur de votre divinité. Choisissez un alignement que possède votre divinité (chaotique, mauvais, bon ou loyal). Vous ne pouvez pas lancer ce sort si vous n’avez pas de divinité ou si elle est neutre strict. Ce sort adopte le trait de l’alignement que vous avez choisi.</p>\n<p>Si vous êtes de taille Moyenne ou inférieure, vous devenez de Grande taille, comme avec le sort @Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement}. Vous devez avoir assez de place pour vous dilater, sinon le sort est perdu. Vous gagnez également les avantages suivants.</p>\n<ul>\n<li>40 points de vie temporaires.</li>\n<li>Une Vitesse de vol égale à votre Vitesse.</li>\n<li>Faiblesse 10 aux dégâts mauvais.</li>\n<li>Un bonus de statut de +1 aux jets de sauvegarde contre les sorts.</li>\n<li>Vision dans le noir.</li>\n<li>Vos attaques à mains nues et avec des armes infligent 1 dégât bon supplémentaire.</li>\n<li>Vos attaques de Poings infligent 2d8 dégâts.</li>\n</ul>\n<hr />\n<p><em>Note: La faiblesse aux dégâts mauvais ne peut pas être automatisée. Veuillez appliquer ces faiblesse manuellement.</em></p>"
         },
         {
+            "id": "Spell Effect: Energy Aegis",
+            "name": "Effet: Égide énergétique",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.m2xFMNyQiUKQDRaj]{Égide énergétique}</p>"
+        },
+        {
             "id": "Spell Effect: Song of Strength",
-            "name": "Chanson de force",
+            "name": "Effet: Chanson de force",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.Xxdwkt0EEDgP1LGc]{Chanson de force}</p>\n<p>Vous renforcez la force physique de vos alliés avec une exhortation chaleureuse. Vous et vos alliés gagnez un bonus de statut de +1 aux tests d'Athlétisme et à leurs DCs contre les actions de compétences d'Athlétisme telles que Désarmer, Pousser et Croc-en-jambes.</p>\n<p>Note : le bonus aux DC n'est pas automatiquement ajouté.</p>"
         },
         {
             "id": "Spell Effect: Ki Form (Positive)",
             "name": "Effet : Forme ki (Positif)",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.YDMOqndvYFu3OjA6]{Forme ki}</p>\n<p>En puisant dans de profonds puits de puissance spirituelle, vous prenez une forme ki spéciale. Dans votre forme ki, vos cheveux, vos plumes, votre peau ou vos écailles changent de couleur et se mettent à briller.</p>\n<p>Sous cette forme, vous gagnez une Vitesse de vol égale à votre vitesse sur terre.</p>\n<p>Toutes vos frappes infligent [[/r 1d6 #positif]] des dégâts positifs supplémentaires.</p>\n<p>Votre corps entier est également entouré d'une couronne lumineuse de la même couleur que votre ki intérieur ; il s'agit d'un effet de lumière. Votre couronne est une émanation de 1,5 mètres qui inflige [[/r 2d6 #positif]] dégâts positifs aux créatures qui commencent leur tour dans l'émanation. Si l'émanation chevauche un effet d'obscurité, la lueur de la couronne tente de contrecarrer l'effet d'obscurité. Quel que soit le résultat, la couronne ne peut plus tenter de contrer cet effet pendant 1 jour. Comme une action simple, qui a le trait Concentré, vous pouvez étendre votre couronne pour devenir une émanation de 9 mètres.</p>\n<p>Sous votre forme ki, vos émotions sont à l'avant-plan et il'est difficile de modérer vos attaques. Vos armes et vos attaques à mains nues perdent leur caractère non létal. Vous subissez une pénalité de statut de -2 aux sauvegardes contre les effets des émotions, mais gagnez un bonus de statut de +2 aux sauvegardes contre tous les autres effets mentaux</p>"
+        },
+        {
+            "id": "Spell Effect: Nudge Fate",
+            "name": "Effet: Coup de pouce au destin",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.G0T1xv1FoZ23Jxvt]{Coup de pouce au destin}</p>"
         },
         {
             "id": "Spell Effect: Gravity Weapon (2 Dice)",
@@ -1217,9 +1347,19 @@
             "description": "<p>Vous vous liez au pouvoir de l'enfer, vous transformant en une forme de combat diabolique de taille moyenne. Lorsque vous lancez ce sort, choisissez barbazu, érinye, osyluth ou sarglagon. Si vous choisissez osyluth ou sarglagon, la forme de combat est de Grande taille et vous devez disposer d'un espace suffisant pour vous étendre, sinon le sort est perdu. Lorsque vous êtes sous cette forme, vous gagnez les traits diable et fiélon. Vous avez des mains dans cette forme de combat et pouvez utiliser des actions de manipulation. Vous pouvez révoquer le sort.</p>\n<p>Vous obtenez les statistiques et capacités suivantes quelle que soit la forme de combat que vous avez choisie :</p>\n<ul>\n<li>CA = 22 + votre niveau. Ignorez votre pénalité d'armure au test et la réduction de votre Vitesse.</li>\n<li>5 Points de vie temporaires, résistance 5 aux dégâts physiques (sauf argent) et faiblesse 5 au bien.</li>\n<li>Résistance 10 au feu.</li>\n<li>Vision dans le noir.</li>\n<li>Une ou plusieurs attaques au corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous êtes qualifié pour les utiliser. Votre modificateur d'attaque est de +20 et vous utilisez les dégâts indiqués. Ces attaques sont basées sur la Force (pour les besoins de la condition Affaibli, par exemple). Si votre modificateur d'attaque à mains nues est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Athlétisme de +23, à moins que votre propre modificateur ne soit plus élevé.</li>\n</ul>\n<p>Vous obtenez aussi les capacités basées sur le type de diable que vous avez choisi :</p>\n<li><strong>Barbazu</strong> Vitesse 10,5 mètres</li>\n<ul>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Coutille (mortel d8, percutant, allonge 3 mètres), <strong>Dégâts</strong> 2d8+10 dégâts tranchants plus 1d6 dégâts mauvais et 1d6 dégâts de saignement persistant</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Barbe <strong>Dégâts</strong> 3d8 dégâts perforants plus 1d6 dégâts mauvais</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Griffe (agile) <strong>Dégâts</strong> 3d6 dégats tranchants plus 1d6 dégâts mauvais.</li>\n</ul>"
         },
         {
+            "id": "Spell Effect: Energy Absorption (Electricity)",
+            "name": "Effet: Absorption d'énergie (Électricité)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.LoBjvguamA12iyW0]{Absorption d'énergie}</p>"
+        },
+        {
             "id": "Spell Effect: Infectious Melody",
             "name": "Effet: Mélodie infectieuse",
             "description": "<p><strong>Succès</strong> Pendant 1 round, la créature ne peut communiquer qu'en chantant sur la mélodie. Elle ne peut parler qu'à son tour et elle doit effectuer l'action Représentation à ce moment-là. Le résultat du test de Représentation détermine la qualité de son chant, mais elle communique quand même l'information, quel que soit le résultat, qui n'a pas d'autre impact mécanique que le temps passé à faire l'action. Un seul test de Représentation est suffisant pour n'importe quelle quantité de parole pendant le tour de la créature. Cet effet peut interférer avec les composantes verbales des sorts ou d'autres capacités linguistiques qui reposent sur une parole précise ; pour utiliser une telle capacité avec succès, la créature doit réussir un test nu DD 5.</p>\n<p>De plus, la créature subit une pénalité de statut de -2 aux tests d'intimidation utilisant une langue, car le fait de chanter ses menaces leur enlève une partie de leur force. Le fredonnement constant de la créature rend également presque impossible pour elle de rester Non détectée.</p>\n<p><strong>Échec</strong> Comme en cas de succès, mais la durée est de 3 rounds.</p>\n<p><strong>Échec critique</strong> Comme le succès mais la durée passe à 1 heure.</p>"
+        },
+        {
+            "id": "Spell Effect: Triple Time",
+            "name": "Effet: À trois temps",
+            "description": "Accordé par le sort @Compendium[pf2e.spells-srd.c8R2fpk88fBwJ1ie]{À trois temps}</p>\n<p>Vous gagnez un bonus de statut de +3 mètres à toutes vos Vitesses.</p>"
         },
         {
             "id": "Spell Effect: Take Its Course (Affliction, Hinder)",
@@ -1307,6 +1447,11 @@
             "description": "<p>Vous recréez votre forme entièrement à partir d'énergie cosmique, vous transformant en une forme de combat de taille Grande. Vous devez disposer d'un espace suffisant pour vous étendre, sinon le sort est perdu. Lorsque vous lancez ce sort, choisissez de prendre les pouvoirs de la lune ou du soleil. Vous avez des mains dans cette forme de combat et pouvez utiliser des actions de manipulation. Vous pouvez révoquer le sort.</p>\n<p>Vous obtenez les statistiques et capacités suivantes quelle que soit la forme de combat que vous avez choisie :</p>\n<ul>\n<li>CA = 21 + votre niveau. Ignorez votre pénalité d'armure au test et la réduction de votre Vitesse.</li>\n<li>20 Points de vie temporaires.</li>\n<li>Vision dans le noir</li>\n<li>Une ou plusieurs attaques au corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous êtes qualifié pour les utiliser. Votre modificateur d'attaque est de +25 et vous utilisez les dégâts indiqués. Ces attaques sont basées sur la Force (pour les besoins de la condition Affaibli, par exemple). Si votre modificateur d'attaque à mains nues est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Athlétisme de +25, à moins que votre propre modificateur ne soit plus élevé.</li>\n</ul>\n<p>Vous obtenez aussi les capacités basées sur le type de corps stellaire que vous avez choisi :</p>\n<ul>\n<li><strong>Soleil</strong> Vitesse 9 mètres, vol 15 mètres</li>\n<ul>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Poing (agile, allonge 3 mètres) <strong>Dégâts</strong> 2d6+10 dégâts de feu plus 1d6 dégâts de feu persistants</li>\n<li><strong>À distance</strong> <span class=\"pf2-icon\">1</span> Rayon de soleil (portée 27 mètres) <strong>Dégâts</strong> 1d6+10 dégâts de feu plus 1d6 dégâts de feu persistants</li>\n<li>Sur un coup critique soit avec l'une ou l'autre Frappe, la cible est @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} pendant 1 round.</li>\n</ul>"
         },
         {
+            "id": "Spell Effect: Pocket Library",
+            "name": "Effet: Bibliothèque de poche",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.TjWHgXqPv5jywMti]{Bibiliothèque de poche}</p>\n<p>Pendant la durée de ce sort, vous pouvez invoquer un tome de la bibliothèque extradimensionnelle lorsque vous tentez un test pour Vous souvenir en utilisant la compétence de votre choix. Cela fait partie de l'action Se souvenir. Vous devez avoir une main libre pour le faire. Le tome apparaît dans votre main, ouvert à la page appropriée. Cela vous confère un bonus de statut de +1 sur le test pour Vous souvenir. Si vous obtenez un échec critique sur ce test, vous considérez qu'il s'agit d'un échec à la place. Si le jet est réussi et que le sujet est une créature, vous obtenez des informations ou un contexte supplémentaires sur la créature.</p>"
+        },
+        {
             "id": "Spell Effect: Mantle of the Magma Heart (Enlarging Eruption)",
             "name": "Effet: Manteau du cœur magmatique (Éruption magmatique)",
             "description": "<p>Vous vous entourez d'un manteau de feu ardent magique et votre peau et tout ce que vous portez se transforme en lave brûlante. L'air autour de vous se gonfle de chaleur et de minuscules étincelles de flammes dansent derrière vous lorsque vous passez. Lorsque vous lancez ce sort, choisissez deux des options ci-dessous. Par une action simple, qui a le trait concentration, vous pouvez changer une de vos capacités choisies à une option différente de la liste.</p>\n<ul>\n<li><strong>Éruption élargie</strong> Vous créez une éruption de lave qui s'accroche à vous et durcit, faisant gonfler et éclater votre corps jusqu'à ce que vous atteigniez la taille Grande. Vous êtes Maladroit 1. Votre allonge augmente de 1,5 mètre (ou de 3 mètres si vous avez commencé en étant très petit), et vous obtenez un bonus de statut de +2 aux dégâts au corps-à-corps. Vous ne pouvez pas choisir cette option si vous êtes déjà de taille Grande ou supérieure.</li>\n</ul>"
@@ -1320,6 +1465,11 @@
             "id": "Spell Effect: Magic Weapon",
             "name": "Effet : Arme magique",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.TFitdEOpQC4SzKQQ]{Arme magique}</p>\n<p>L'arme scintille de magie et d'énergie. Elle devient une arme de Frappe +1, gagnant un bonus d'objet de +1 aux jets d'attaque et augmentant le nombre de dés de dégâts de l'arme à deux.</p>"
+        },
+        {
+            "id": "Spell Effect: Blink",
+            "name": "Effet: Clignotement",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.zR67Rt3UMHKC5evy]{Clignotement}</p>"
         },
         {
             "id": "Spell Effect: Call to Arms",
@@ -1337,6 +1487,11 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Frappe ki} si vous avez @Compendium[pf2e.feats-srd.BU4NBIBkVZxdWLLH]{Poing élémentaire} et en sélectionnant Terre.</p>"
         },
         {
+            "id": "Spell Effect: Garden of Death (Critical Success)",
+            "name": "Effet: Jardin mortel (Succès critique)",
+            "description": "<p>Un jardin empoisonné se forme et vous comme les incantateurs secondaires obtenez un bonus de circonstances de +2 aux tests de Nature ou d'Artisanat pour vous occuper des plantes ou des animaux, comme les nourrir ou en récolter le poison.</p>"
+        },
+        {
             "id": "Spell Effect: Draw the Lightning",
             "name": "Effet: Attirer la foudre",
             "description": "<p>En invoquant les cieux, vous invoquez un éclair de foudre qui vient frapper un ennemi au dessus de vous et votre arme ou votre corps, le chargeant de puissance électrique. Vous devez tenir votre arme ou disposer d'une main libre en tant que composant somatique du sort. Lorsque vous le faites, un éclair de foudre descend d'un nuage noir dans les airs au dessus de vous au travers de la cible, lui infligeant [[/r 3d12 #électricité]]{3d12 dégâts d'électricité} avec un jet de Réflexes basique. Pendant le reste de la durée du sort, votre première Frappe chaque round avec l'arme que vous teniez (ou avec une attaque à mains nues si vous aviez une main libre) inflige 1d12 dégâts d'électricité supplémentaires.</p>\n<p>Le sort crée son propre nuage si c'est nécessaire de sorte que vous pouvez lancer Attirer la foudre n'importe où, même dans un environnement souterrain. Si Attirer la foudre est lancé sous un ciel nuageux ou tempêtueux, augmentez les dégâts de l'éclair de [[/r 2d12 #électricité]]{2d12 dégâts d'électricité}.</p>\n<hr />\n<p><strong>Intensifié (8e)</strong> Les dégâts infligés à la cible initiale augmentent de 4d12 et les dégâts supplémentaires infligés avec la première Frappe à chaque tour augmentent de 1d12.</p"
@@ -1345,6 +1500,11 @@
             "id": "Spell Effect: Impeccable Flow (5th)",
             "name": "Effet: Flux impeccable (5e)",
             "description": "<p>Vous vous harmonisez avec un ordre cosmique sous-jacent au monde. Tant que vous restez en phase avec cette puissance, vous gagnez un bonus de statut de +2 aux tests de Perception, aux jets de sauvegarde et aux tests de compétence. Si vous obtenez un échec critique à un test alors que vous êtes sous l'effet de ce sort, le bonus prend fin et vous subissez à la place une pénalité de statut de -1 à tous les tests pour la durée restante.</p>"
+        },
+        {
+            "id": "Spell Effect: Bestial Curse (Failure)",
+            "name": "Effet: Malédiction bestiale (Échec)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.VuPDHoVEPLbMfCJC]{Malédiction bestiale}</p>\n<p>La créature subit une faiblesse 1 contre l'argent</p>"
         },
         {
             "id": "Spell Effect: Divine Vessel 9th level (Chaotic)",
@@ -1360,6 +1520,11 @@
             "id": "Spell Effect: Ooze Form (Gelatinous Cube)",
             "name": "Effet: Forme de vase (Cube gélatineux)",
             "description": "<p>Vous invoquez toutes les choses qui s'écoulent et suintent, votre corps se dissolvant en une pâte épaisse et puis en se reconstituant en une Forme de combat de vase moyenne. Lorsque vous lancez ce sort en premier, choisissez entre pudding noir, cube gélatineux, vase grise ou gelée ocre. Tant que vous êtes sous cette forme, vous obtenez le trait vase. Vous pouvez Révoquer le sort. Vous obtenez les statistiques et capacités suivantes quelle que soit la forme de combat que vous empruntez :</p>\n<ul>\n<li>CA = 7 + votre niveau. Vous ignorez votre pénalité d'armure au test et la réduction de Vitesse.</li>\n<li>20 Points de vie temporaires.</li>\n<li>Vous êtes immunisé aux coups critiques, aux dégâts de précision damage et aux effets visuels.</li>\n<li>Résistance 5 aux dégâts d'acide, perforants et tranchants.</li>\n<li>Pas de  vision et Sens du déplacement 9 mètres. Vous pouvez percevoir le déplacement proche à travers les vibrations et le mouvement de l'air comme un sens précis.</li>\n<li>Une ou plusieurs attaques à mains nues au corps-à-corps propre à la forme de combat que vous avez choisie, qui sont les seules attaques que vous pouvez utiliser. Vous êtes qualifié avec. Votre modificateur d'attaque est de +14 et vous utilisez les dégâts listés. Ces attaques sont basées sur la Force (pour les besoins de l'état Affaibli, par exemple). Si votre modificateur d'attaque à mains nues est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>modificateur d'Athlétisme de +14, à moins que vous en possédiez un supérieur.</li>\n</ul>\n<p>Vous obtenez aussi des capacités spécifiques du Cube gélatineux :</p>\n<ul>\n<li><strong>Cube gélatineux</strong> Vitesse 4,5 mètres ;\n<ul>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Face de cube, <strong>Dégâts</strong> [[/r 1d6+5 #acide]]{1d6+5 dégâts d'acide};</li>\n<li>Une créature touchée par votre Frappe de face de cube doit réussir un jet de Vigueur contre votre DD de sort ou être @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie 1} (ou @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} pendant 1 round sur un échec critique) ; ce jet de sauvegarde possède le trait mise hors de combat.</li>\n</ul>\n<hr />\n<p><strong>Intensifié (4e)</strong> Votre forme de combat est Grande et vos attaques ont une allonge de 3 m. Vous devez avoir assez d'espace pour vous étendre ou le sort est perdu. Vous obtenez à la place 30 PV temporaires ; une résistance 7 aux dégâts d'acide, perforants et tranchants ; votre modificateur d'attaque est de +16 ; votre bonus aux dégâts de +9 ; et Athlétisme +16. Votre Sens du déplacement possède une portée de 12 m.</p>\n<p><strong>Intensifié (5e)</strong> Votre forme de combat est Très grande et vos attaques ont une allonge de 4,5 mètres. Vous devez avoir assez d'espace pour vous étendre ou le sort est perdu. Vous obtenez à la place 40 PV temporaires ; une résistance 10 aux dégâts d'acide, perforants et tranchants ; votre modificateur d'attaque est de +18 ; votre bonus aux dégâts de +6 et le double des dés de dégâts ; et Athlétisme +20. Votre Sens du déplacement possède une portée de 18 mètres.</p>\n<p><strong>Intensifié (8e)</strong> Votre forme de combat est Gargantuesque (6 mètres par 6) et vos attaques ont une allonge de 6 mètres. Vous devez avoir assez d'espace pour vous étendre ou le sort est perdu. Vous obtenez à la place 60 PV temporaires ; une résistance 12 aux dégâts d'acide, perforants et tranchants ; votre modificateur d'attaque est de +28 ; votre bonus aux dégâts de +13 et le double des dés de dégâts ; et Athlétisme +29. Votre Sens du déplacement possède une portée de 18 mètres.</p>"
+        },
+        {
+            "id": "Spell Effect: Zealous Conviction",
+            "name": "Effet: Conviction zélée",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.GYD0XZ4t3tQq6shc]{Conviction zélée}</p>\n<p>Vous contournez l’esprit rationnel de vos cibles, leur instillant une conviction et un zèle inébranlables. Les cibles gagnent chacune 12 points de vie temporaires et un bonus de statut de +2 aux jets de Volonté contre les effets mentaux, leur confiance l’emportant sur les signaux de leur corps et de leur esprit. Si vous dites à une cible de faire quelque chose, elle doit accéder à votre demande, mais si elle trouve la tâche répugnante, elle peut tenter un jet de Volonté à la fin de son tour à chaque round en raison de sa dissonance cognitive. Sur un succès, elle met entièrement fin aux effets du sort sur elle-même.</p>\n<hr />\n<p><strong>Intensifié (9e)</strong> Les points de vie temporaires augmentent à 18, and et le bonus de statut aux jets de sauvegarde Volonté aumente à +3.</p>"
         },
         {
             "id": "Spell Effect: Safeguard Secret",
@@ -1550,6 +1715,16 @@
             "id": "Spell Effect: Monstrosity Form (Sea Serpent)",
             "name": "Effet : Forme monstrueuse (Serpent de mer)",
             "description": "<p>Accordé en lançant @Compendium[pf2e.spells-srd.8AMvNVOUEtxBCDvJ]{Forme monstrueuse}</p>\n<p>Vous vous transformez en forme de monstre légendaire, adoptant une forme de combat Très grand. Vous devez disposer d'un espace suffisant pour vous étendre, sinon le sort est perdu. Lorsque vous êtes sous cette forme, vous gagnez le trait de Bête. Vous pouvez annuler le sort.</p>\n<p>Vous gagnez les statistiques et capacités suivantes, quelle que soit la forme de combat que vous choisissez :</p>\n<ul>\n<li>AC = 20 + votre niveau. Ignorez la pénalité de contrôle et la réduction de vitesse de votre armure.</li>\n<li>20 points de vie temporaires.</li>\n<li>Vision dans le noir.</li>\n<li>Une ou plusieurs attaques de corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous'êtes entraîné à les utiliser. Votre modificateur d'attaque est de +28, et vous utilisez les dégâts indiqués. Ces attaques sont basées sur la Force (pour les besoins de la condition @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli}, par exemple). Si votre modificateur d'attaque sans arme est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Athlétisme de +30, sauf si votre propre modificateur est plus élevé.</li>\n</ul>\n<p>Vous gagnez également des capacités spécifiques en fonction du type de monstre que vous choisissez :</p>\n<ul>\n<li><strong>Serpent de mer</strong>\n<ul>\n<li>Vitesse 6 mètres, vitesse de nage 27 mètres</li>\n<li><strong>Mêlée</strong> Mâchoires (portée de 4,50 mètres), <strong>Dégâts</strong> 2d12+20 perforants</li>\n<li><strong>Melee</strong> Queue (portée de 7,50 mètres), <strong>Dégâts</strong> 2d8+20 contondant</li>\n<li><strong>Râteau à épines</strong> <span class=\"pf2-icon\">2</span> (Mouvement) Vous étendez vos épines et nagez ou marchez. Chaque créature à laquelle vous'êtes adjacent à n'importe quel moment de votre mouvement subit 4d8+10 dégâts tranchants (Réflexes de base contre le DC de votre sort).</li>\n</ul>\n<hr />\n<p><strong>Intensifié (9e)</strong> Vous gagnez CA = 22 + votre niveau, 25 HP temporaires, modificateur d'Attaque +31, augmentez les dégâts d'un dé de dégât, et un modificateur d'Athlétisme +33.</p>\n<hr />\n<p><em>Remarque : pour accentuer cet effet, importez-le dans votre répertoire d'objets et modifiez le niveau avant de l'ajouter à la cible</em></p>"
+        },
+        {
+            "id": "Spell Effect: Adaptive Ablation (Fire)",
+            "name": "Effet: Ablation adaptative (Feu)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.GoKkejPj5yWJPIPK]{Effet: Ablation adaptative}</p>"
+        },
+        {
+            "id": "Spell Effect: Bestial Curse (Critical Failure)",
+            "name": "Effet: Malédiction bestiale (Échec critique)",
+            "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.VuPDHoVEPLbMfCJC]{Malédiction bestiale}</p>\n<p>La créature subit une faiblesse 1 contre l'argent</p>"
         },
         {
             "id": "Spell Effect: Rapid Adaptation (Aquatic Base Swim Speed)",

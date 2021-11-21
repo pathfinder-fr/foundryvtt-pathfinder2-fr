@@ -1,11 +1,11 @@
 # État de la traduction (classfeatures)
 
  * **officielle**: 165
- * **changé**: 135
- * **libre**: 168
+ * **changé**: 137
+ * **libre**: 166
 
 
-Dernière mise à jour: 2021-11-18 07:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-21 17:54 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -83,6 +83,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-01-POBvoXifa9HaejAg.htm](classfeatures/druid-01-POBvoXifa9HaejAg.htm)|Animal Order|Ordre animal|changé|
 |[druid-01-u4nlOzPj2WHkIj9l.htm](classfeatures/druid-01-u4nlOzPj2WHkIj9l.htm)|Leaf Order|Ordre de la feuille|changé|
 |[druid-01-v0EjtiwdeMj8ykI0.htm](classfeatures/druid-01-v0EjtiwdeMj8ykI0.htm)|Wild Order|Ordre féroce|changé|
+|[gunslinger-01-a3pSIKkDVTvvNSRO.htm](classfeatures/gunslinger-01-a3pSIKkDVTvvNSRO.htm)|Way of the Drifter|Voie du vagabond|changé|
+|[gunslinger-01-OmgtSDV1FubDUqWR.htm](classfeatures/gunslinger-01-OmgtSDV1FubDUqWR.htm)|Way of the Spellshot|Voie du sortiléro|changé|
 |[gunslinger-19-zpFmqOpZ9IiWodsh.htm](classfeatures/gunslinger-19-zpFmqOpZ9IiWodsh.htm)|Incredible Senses|Sens incroyables|changé|
 |[magus-01-3gVDqDPSz4fB5T9G.htm](classfeatures/magus-01-3gVDqDPSz4fB5T9G.htm)|Laughing Shadow|Ombre ricanante|changé|
 |[magus-01-6YJ8KFl7THkVy6Gm.htm](classfeatures/magus-01-6YJ8KFl7THkVy6Gm.htm)|Twisting Tree|Arbre tordu|changé|
@@ -253,9 +255,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fighter-15-W2rwudMNcAxs8VoX.htm](classfeatures/fighter-15-W2rwudMNcAxs8VoX.htm)|Improved Flexibility|Flexibilité améliorée|officielle|
 |[fighter-17-IPDwS5pTgU3Cq6Nl.htm](classfeatures/fighter-17-IPDwS5pTgU3Cq6Nl.htm)|Armor Mastery (Level 17)|Maîtrise des armures (Niveau 17)|libre|
 |[fighter-19-0H2LxtiZTJ275pSD.htm](classfeatures/fighter-19-0H2LxtiZTJ275pSD.htm)|Versatile Legend|Légende polyvalente|officielle|
-|[gunslinger-01-a3pSIKkDVTvvNSRO.htm](classfeatures/gunslinger-01-a3pSIKkDVTvvNSRO.htm)|Way of the Drifter|Voie du vagabond|libre|
 |[gunslinger-01-LDqVxLKrwEqSegiu.htm](classfeatures/gunslinger-01-LDqVxLKrwEqSegiu.htm)|Gunslinger's Way|Voies du franc-tireur|libre|
-|[gunslinger-01-OmgtSDV1FubDUqWR.htm](classfeatures/gunslinger-01-OmgtSDV1FubDUqWR.htm)|Way of the Spellshot|Voie du sortiléro|libre|
 |[gunslinger-01-qRLRrHf0kzaJ7xt0.htm](classfeatures/gunslinger-01-qRLRrHf0kzaJ7xt0.htm)|Way of the Pistolero|Voie du pistoléro|libre|
 |[gunslinger-01-QWXvksGJhOjXbBqi.htm](classfeatures/gunslinger-01-QWXvksGJhOjXbBqi.htm)|Way of the Sniper|Voie du tireur d'élite|libre|
 |[gunslinger-01-vB0yVFxJVZwalt2g.htm](classfeatures/gunslinger-01-vB0yVFxJVZwalt2g.htm)|Way of the Vanguard|Voie de l'avant garde|libre|

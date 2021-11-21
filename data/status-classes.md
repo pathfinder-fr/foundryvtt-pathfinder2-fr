@@ -1,11 +1,11 @@
 # État de la traduction (classes)
 
  * **officielle**: 1
- * **changé**: 17
- * **libre**: 3
+ * **changé**: 18
+ * **libre**: 2
 
 
-Dernière mise à jour: 2021-11-18 07:50 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-21 17:54 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -29,6 +29,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Yix76sfxrIlltSTJ.htm](classes/Yix76sfxrIlltSTJ.htm)|Ranger|Rôdeur|changé|
 |[YPxpk9JbMnKjbNLc.htm](classes/YPxpk9JbMnKjbNLc.htm)|Monk|Moine|changé|
 |[YtOm245r8GFSFYeD.htm](classes/YtOm245r8GFSFYeD.htm)|Summoner|Conjurateur|changé|
+|[Z9li154CPNmun29Q.htm](classes/Z9li154CPNmun29Q.htm)|Gunslinger|Franc-tireur|changé|
 
 ## Liste des traductions complétés
 
@@ -37,4 +38,3 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[15Yc1r6s9CEhSTMe.htm](classes/15Yc1r6s9CEhSTMe.htm)|Sorcerer|Ensorceleur|officielle|
 |[4wrSCyX6akmyo7Wj.htm](classes/4wrSCyX6akmyo7Wj.htm)|Investigator|Enquêteur|libre|
 |[84SZGVNLXhLKG6gL.htm](classes/84SZGVNLXhLKG6gL.htm)|[Empty Class]|_Classe vierge|libre|
-|[Z9li154CPNmun29Q.htm](classes/Z9li154CPNmun29Q.htm)|Gunslinger|Franc-tireur|libre|
