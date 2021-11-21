@@ -125,6 +125,14 @@ SUPPORTED = {
     "familiar-abilities": {'transl': "Aptitudes des familiers", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
     "spell-effects": {'transl': "Effets des sorts", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
     "ancestries": {'transl': "Ascendances", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "bestiary-family-ability-glossary": {
+        'transl': "Capacités des familles de monstre",
+        "paths": {'name': "name", 'desc': "data.description.value"}
+    },
+    "criticaldeck": {
+        'transl': "Cartes critiques",
+        "paths": {'name': "name", 'desc': "content"}
+    }
 }
 
 
