@@ -5,7 +5,7 @@
  * **libre**: 166
 
 
-Dernière mise à jour: 2021-11-21 17:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-27 21:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -258,7 +258,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[gunslinger-01-LDqVxLKrwEqSegiu.htm](classfeatures/gunslinger-01-LDqVxLKrwEqSegiu.htm)|Gunslinger's Way|Voies du franc-tireur|libre|
 |[gunslinger-01-qRLRrHf0kzaJ7xt0.htm](classfeatures/gunslinger-01-qRLRrHf0kzaJ7xt0.htm)|Way of the Pistolero|Voie du pistoléro|libre|
 |[gunslinger-01-QWXvksGJhOjXbBqi.htm](classfeatures/gunslinger-01-QWXvksGJhOjXbBqi.htm)|Way of the Sniper|Voie du tireur d'élite|libre|
-|[gunslinger-01-vB0yVFxJVZwalt2g.htm](classfeatures/gunslinger-01-vB0yVFxJVZwalt2g.htm)|Way of the Vanguard|Voie de l'avant garde|libre|
+|[gunslinger-01-vB0yVFxJVZwalt2g.htm](classfeatures/gunslinger-01-vB0yVFxJVZwalt2g.htm)|Way of the Vanguard|Voie de l'avant-garde|libre|
 |[gunslinger-01-vXbk7Nm1TOTTUNvF.htm](classfeatures/gunslinger-01-vXbk7Nm1TOTTUNvF.htm)|Singular Expertise|Expertise singulière|libre|
 |[gunslinger-03-Wpdeh6EkcAKA60oH.htm](classfeatures/gunslinger-03-Wpdeh6EkcAKA60oH.htm)|Stubborn|Obstiné|libre|
 |[gunslinger-05-9nRT8aq05Fy2D3i3.htm](classfeatures/gunslinger-05-9nRT8aq05Fy2D3i3.htm)|Gunslinger Weapon Mastery|Maîtrise des armes du franc-tireur|libre|
