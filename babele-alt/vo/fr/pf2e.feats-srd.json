@@ -1361,7 +1361,7 @@
         {
             "id": "Bond Conservation",
             "name": "Bond Conservation",
-            "description": "<p><strong>Conditions</strong> Votre dernière action a été Drain d’objet lié.</p>\n<hr />\n<p>En manipulant soigneusement les énergies magiques stockées dans votre objet lié lorsque vous le drainez, vous conservez juste assez de puissance pour lancer un autre sort un peu plus faible. Si votre prochaine action consiste à Lancer un sort grâce à l’énergie du Drain d’objet lié, vous gagnez une seconde utilisation de Drain d’objet lié. Vous devez l’utiliser avant la fin de votre prochain tour, sinon elle est perdue. Cette utilisation supplémentaire sert uniquement à lancer un sort d’au minimum deux niveaux de moins que le premier sort lancé avec Drain d’objet lié.</p>",
+            "description": "<p><strong>Conditions</strong> Votre dernière action a été @Compendium[pf2e.actionspf2e.v82XtjAVN4ffgVVR]{Drain d’objet lié}.</p>\n<hr />\n<p>En manipulant soigneusement les énergies magiques stockées dans votre objet lié lorsque vous le drainez, vous conservez juste assez de puissance pour lancer un autre sort un peu plus faible. Si votre prochaine action consiste à Lancer un sort grâce à l’énergie du Drain d’objet lié, vous gagnez une seconde utilisation de Drain d’objet lié. Vous devez l’utiliser avant la fin de votre prochain tour, sinon elle est perdue. Cette utilisation supplémentaire sert uniquement à lancer un sort d’au minimum deux niveaux de moins que le premier sort lancé avec Drain d’objet lié.</p>",
             "prereq": [
                 {
                     "value": "lien arcanique"
@@ -1471,6 +1471,16 @@
             "prereq": [
                 {
                     "value": "Dévouement de l'Écuyer des Chevaliers infernaux"
+                }
+            ]
+        },
+        {
+            "id": "Come at Me!",
+            "name": "Come at Me!",
+            "description": "<p>Vous êtes un duelliste légendaire, accueillant tous les challengers, ce qui vous permet de défier de nombreux ennemis même lorsque d'autres défis sont actifs. Il n'y a plus de limite au nombre de défis de Pistoléro que vous pouvez avoir en effet au même moment.</p>",
+            "prereq": [
+                {
+                    "value": "Défi du pistoléro"
                 }
             ]
         },
@@ -1660,6 +1670,16 @@
             "prereq": [
                 {
                     "value": "maître en Occultisme"
+                }
+            ]
+        },
+        {
+            "id": "Devastating Weaponry",
+            "name": "Devastating Weaponry",
+            "description": "<p>Vous lâchez une volée de projectiles depuis votre arme ou vous l'alimentez pour qu'elle vole dans toutes les directions à travers le champ de bataille et frappe plusieurs créatures. Effectuez une Frappe avec votre innovation d'arme contre chaque ennemi situé à 9 mètres de vous. N'augmentez pas votre pénalité d'attaques multiples avant d'avoir effectué toutes les attaques. Si votre innovation est une arme de corps-à-corps et que l'une des attaques est hors de votre portée, vous relâchez l'arme avant les Frappes et elle revient dans votre main après toutes les attaques. Si vos mains sont pleines lorsque l'arme revient, elle tombe au sol dans votre case. Comme à l'ordinaire, si votre innovation d'arme nécessite une ou plusieurs actions pour être rechargée entre les frappes, vous ne pouvez pas l'utiliser pour effectuer des attaques multiples avec Armement dévastateur.</p>",
+            "prereq": [
+                {
+                    "value": "Innovation d'arme"
                 }
             ]
         },
@@ -2064,9 +2084,19 @@
             "description": "<p>Votre faculté à puiser dans la magie divine surpasse les sorts qui vous sont traditionnellement accessibles (la liste des sorts divins).</p>\n<p>Choisissez une divinité qui accorde un des domaines correspondant à votre mystère. Ajoutez jusqu'à trois sorts de prêtre de votre choix accordés par cette divinité à votre liste de sorts. Vous pouvez choisir parmi ces sorts lorsque vous ajoutez ou modifiez des sorts dans votre répertoire de sorts.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don à plus d'une reprise. Vous ne pouvez choisir les mêmes sorts plus d'une fois, mais vous pouvez choisir un domaine différent ou une divinité différente ayant le même domaine que vous aviez choisi avec ce don.</p>"
         },
         {
+            "id": "Incredible Construct Companion",
+            "name": "Incredible Construct Companion",
+            "description": "<p>Grâce à vos bidouillages incessants, votre compagnon créature artificielle a atteint un nouveau stade d'ingénierie stupéfiant, améliorant tous ses attributs. Votre compagnon créature artificielle devient un compagnon créature artificielle formidable.</p>",
+            "prereq": [
+                {
+                    "value": "Compagnon créature artificielle avancé"
+                }
+            ]
+        },
+        {
             "id": "Elemental Bulwark",
             "name": "Elemental Bulwark",
-            "description": "<p><strong>Activation</strong> Un ennemi est sur le point de vous infliger des dégâts de froid, d'électricité ou de feu ou avec un sort qui possède les traits air, terre, feu ou eau.</p>\n<hr />\n<p>Vous invoquez les éléments correspondants de votre héritage suli pour résister à l'effet. Vous obtenez une résistance 5 contre les dégâts déclencheurs.</p>"
+            "description": "<p><strong>Déclencheur</strong> Un ennemi est sur le point de vous infliger des dégâts de froid, d'électricité ou de feu ou avec un sort qui possède les traits air, terre, feu ou eau.</p>\n<hr />\n<p>Vous invoquez les éléments correspondants de votre héritage suli pour résister à l'effet. Vous obtenez une résistance 5 contre les dégâts déclencheurs.</p>"
         },
         {
             "id": "Expert Drill Sergeant",
@@ -2330,6 +2360,16 @@
             "description": "<p>Vos mutagènes de langue dorée transcendent les langues et la vraisemblance. Quand vous êtes sous l’effet d’un mutagène de langue dorée que vous avez créé, vous ignorez les malus de circonstances aux tests de Duperie, Diplomatie, Intimidation et Représentation. En outre, vos mots transcendent les barrières linguistiques : tous ceux qui vous écoutent vous comprennent comme si vous parliez leur propre langue (vous ne parlez cependant pas cette langue et ce pouvoir ne vous permet pas non plus de comprendre des langues supplémentaires).</p>"
         },
         {
+            "id": "Collapse Armor",
+            "name": "Collapse Armor",
+            "description": "<p><strong>Conditions</strong> Vous maniez votre innovation d'armure ou la portez dans vos deux mains sous sa forme compacte (voir texte).</p>\n<hr />\n<p>Vous avez modifié votre innovation d'armure pour pouvoir la replier sous une forme compacte qui vous permet de la revêtir ou de l'ôter en un instant. Si vous êtes en train de porter votre innovation lorsque vous Repliez votre armure, vous l'ôtez instantanément, et elle se compresse pour adopter sa forme compacte que vous devez porter dans vos deux mains (si vous ne disposez pas de deux mains disponibles, elle tombe sur le sol dans une case adjacente). Si vous teniez votre armure sous sa forme compacte dans les deux mains lorsque vous faites cette action, elle se déplie sous le forme de votre armure sur votre corps.</p>\n<p>Sous sa forme compacte, votre innovation d'armure est plus facile à transporter, avec un Encombrement inférieur de 1 à l'Encombrement indiqué pour elle, avec un encombrement léger au minimum (une armure transportée possède normalement 1 Encombrement de plus qu'indiqué dans l'entrée de l'armure).</p>",
+            "prereq": [
+                {
+                    "value": "Innovation d'armure"
+                }
+            ]
+        },
+        {
             "id": "Rapid Affixture",
             "name": "Rapid Affixture",
             "description": "<p>Vous ne prenez qu'une minute pour @Compendium[pf2e.actionspf2e.UAaQk93a30nx0nYY]{Fixez un talisman}. Si vous êtes légendaire en Artisanat, vous pouvez fixer un talisman en une activité à 3 actions.</p>",
@@ -2353,6 +2393,11 @@
             "id": "Grippli Weapon Expertise",
             "name": "Grippli Weapon Expertise",
             "description": "<p>Vous combattez avec une expertise qui ne vous demande aucun effort avec les armes des gripplis. Chaque fois que vous obtenez une caractéristique de classe qui vous confère la maîtrise experte ou supérieure dans une ou plusieurs armes données, vous obtenez également cette maîtrise avec les armes suivantes : @Compendium[pf2e.equipment-srd.FPwsiGqMCNPLHmjX]{sarbacane}, @Compendium[pf2e.equipment-srd. LGgvev6AV0So8tP9]{Hachette}, @Compendium[pf2e.equipment-srd.H74vYwHJ8XT4qOPI]{faux}, @Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]{Arc court} et @Compendium[pf2e.equipment-srd.e4NwsnPnpQKbDZ9F]{Arc court composite} ou les armes gripplis avec lesquelles vous êtes qualifié.</p>"
+        },
+        {
+            "id": "Called Shot",
+            "name": "Called Shot",
+            "description": "<p>Vous ciblez une zone spécifique de l'anatomie de votre ennemi pour lui infliger un effet affaiblissant. Déclarez la partie de l'anatomie de votre ennemi que vous souhaitez cibler et effectuez une Frappe d'arme à distance. Si vous touchez et infligez des dégâts, la cible subit l'un des effets suivants, en fonction de la partie du corps que vous avez ciblée. Le MJ doit utiliser les effets déclarés comme ligne directrice lorsque vous attaquez des créatures à l'anatomie étrange - par exemple, appliquer l'effet \" bras \" aux tentacules d'une créature si c'est ce qu'elle utilise pour attaquer.</p>\n<ul>\n<li><strong>Ailes</strong> Si la cible vole en utilisant des ailes, elle chute immédiatement de 6 m ou de 12 m sur un coup critique. La chute est suffisamment graduelle pour que si la cible touchee le sol, elle ne subit pas de dégâts de la chute.</li>\n<li><strong>Bras</strong> La cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 2} jusqu'à la fin de votre prochain tour. En cas de coup critique, elle est aussi @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 1} pendant 1 minute.</li>\n<li><strong>Jambes</strong> La cible subit une pénalité de statut de –3 m à ses Vitesses jusqu'à la fin de votre prochain tour. Sur un coup critique, elle subit aussi une pénalité de –1,5 m à des Vitesses pendant 1 minute.</li>\n<li><strong>Tête</strong> La cible est @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée 2} jusqu'à la fin de votre prochain tour. Sur un coup critique, elle est aussi @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée 1} pendant 1 minute.</li>\n</ul>"
         },
         {
             "id": "Elaborate Flourish",
@@ -3278,6 +3323,16 @@
             ]
         },
         {
+            "id": "Shared Overdrive",
+            "name": "Shared Overdrive",
+            "description": "<p>Vous avez suffisamment expérimenté sur vos co-équipiers pour leur transférer un nombre substantiel de gadgets sous tension, permettant ainsi à l'un de vos alliés de bénéficier de tous les effets et de toute la durée de votre surrégime. La première fois que vous utilisez Allié en surrégime au cours d'un Surrégime donné, l'effet dure jusqu'à la fin de la durée de votre Surrégime et non plus jusqu'à la fin du prochain tour de la cible. Toute autre utilisation d'Allié en surrégime au cours du même surrégime ne bénéficie que de sa durée normale, selon les modalités du don Allié en surrégime.</p>",
+            "prereq": [
+                {
+                    "value": "Allié en surrégime"
+                }
+            ]
+        },
+        {
             "id": "Bloodline Perfection",
             "name": "Bloodline Perfection",
             "description": "<p>Vous maîtrisez les ultimes pouvoirs de votre lignage et de votre tradition. Vous gagnez un emplacement de sort de niveau 10 de plus.</p>",
@@ -3490,6 +3545,11 @@
                     "value": "sorts ki"
                 }
             ]
+        },
+        {
+            "id": "Blast Lock",
+            "name": "Blast Lock",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu chargée.</p>\n<hr />\n<p>Parfois, emprunter la distance la plus courte entre deux points implique de supprimer un ou deux obstacles. Vous tirez avec votre arme à feu sur une serrure située à moins de 3 mètres. Faites un jet d'attaque contre le DD requis pour @Compendium[pf2e.actionspf2e.2EE4aF4SZpYf0R6H]{Crocheter la serrure}</p>\n<hr />\n<p><strong>Succès critique</strong> Vous ouvez la serrure ou vous obtenez deux succès pour pouvoir ouvrir une serrure complexe.</p>\n<p><strong>Succès</strong> Vous ouvez la serrure ou vous obtenez un succès pour pouvoir ouvrir une serrure complexe.</p>\n<p><strong>Échec</strong> Vous ne parvenez pas à ouvrir la serrure et votre tir la rend plus difficile à ouvrir. Les futurs essais pour Crocheter la serrure ou Faire sauter la serrure subissent une pénalité de circonstances de -2.</p>\n<p><strong>Échec critique</strong> Vous ne parvenez par à ouvrir la Serrure et votre tir la rend beaucoup plus difficile à ouvrir. Les futurs essais pour Crocheter la serrure ou Faire sauter la serrure subissent une pénalité de circonstances de -4.</p>"
         },
         {
             "id": "Brutal Critical",
@@ -3955,6 +4015,16 @@
             "description": "<p>Vous manipulez votre exosquelette pour qu'il se superpose sur lui-même. Vous gagnez un bonus de circonstances de +1 à la CA jusqu'au début de votre prochain tour.</p>"
         },
         {
+            "id": "Gigaton Strike",
+            "name": "Gigaton Strike",
+            "description": "<p>>Lorsque vous utilisez Frappe mégatonne à pleine puissance, vous pouvez repousser votre ennemi. Lorsque vous réussissez votre Frappe alors que vous utilisez Frappe mégatonne instable, votre cible doit tenter un jet de Vigueur contre votre DD de classe.</p>\n<hr />\n<p><strong>Succès Critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature est repoussée de 1,5 mètres.</p>\n<p><strong>Échec</strong> La créature est repoussée de 3 mètres.</p>\n<p><strong>Échec critique</strong> La créature est repoussée de 6 mètres.</p>\n<hr />\n<p><strong>Spécial</strong> Si votre innovation est un sbire, cet avantage s'applique sur ses Frappes mégatonne instables également.</p>",
+            "prereq": [
+                {
+                    "value": "Frappe mégatonne"
+                }
+            ]
+        },
+        {
             "id": "Mindblank Mutagen",
             "name": "Mindblank Mutagen",
             "description": "<p>Des ajustements mineurs à la formule de votre mutagène de sérénité vous permettent de bénéficier de protections mentales. Quand vous êtes sous l’effet d’un mutagène de sérénité, les effets de détection, de révélation et de scrutation de niveau 9 ou inférieur ne détectent rien en ce qui vous concerne vous-même, vos possessions et vos auras. Par exemple, Détection de la magie détectera toujours d’autres émanations magiques dans la zone, mais aucune magie vous concernant.</p>"
@@ -4183,6 +4253,16 @@
             "description": "<p>La magie des Shaitans court dans vos veines.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.0qaqksrGGDj74HXE]{Poussière scintillante} et @Compendium[pf2e.spells-srd.Fr58LDSrbndgld9n]{Résistance à l'énergie} une fois par jour chacun comme des sorts arcaniques innés de niveau 2.</p>"
         },
         {
+            "id": "Pistolero's Challenge",
+            "name": "Pistolero's Challenge",
+            "description": "<p>Par un appel impérieux, une remarque bien choisie ou toute autre déclaration provocatrice, vous exigez l'attention de votre adversaire pour qu'il s'engage dans un duel. Choisissez un adversaire dans les 9 mètres qui peut vous percevoir et vous entendre et, à votre choix, vous faites un test de Duperie ou d'Intimidation contre le DD de Volonté de la cible. Quel que soit le résultat du test, l'adversaire est temporairement immunisé à votre Défi du Pistoléro jusqu'à midi le lendemain.</p>\n<p>Vous ne pouvez avoir qu'un seul défi au même instant ; défier un nouvel adversaire met un terme à cet effet sur votre cible actuelle. Autrement, l'effet dure jusqu'à ce qu'un de vous soit vaincu, s'enfuit ou que la rencontre se termine :</p>\n<hr />\n<p><strong>Succès</strong> Vous comme l'adversaire obtenez un bonus de statut de +2 à vos jets de dégâts pour vos Frappes réciproques. Si vous êtes un Maître dans la compétence que vous avez utilisée pour le test, le bonus de statut aux jets de dégâts passe à +3 et si vous êtes Légendaire, il passe à +4.</p>\n<p><strong>Échec critique</strong> Vous êtes @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé 1} et ne pouvez plus utiliser cette capacité de nouveau pendant 1 minute.</p>",
+            "prereq": [
+                {
+                    "value": "Voie du pistoléro"
+                }
+            ]
+        },
+        {
             "id": "Group Coercion",
             "name": "Group Coercion",
             "description": "<p>Quand vous Contraignez, vous pouvez comparer le résultat de votre test d’Intimidation aux DD de Volonté de deux cibles au lieu d’une seule. Il est possible d’obtenir un degré de succès différent pour chaque cible. Le nombre de cibles que vous pouvez Contraindre en une action unique augmente à 4 si vous êtes un expert, 10 si vous êtes un maître et 25 si vous êtes légendaire.</p>",
@@ -4264,6 +4344,11 @@
             "id": "Scapegoat Parallel Self",
             "name": "Scapegoat Parallel Self",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>.\n<p><strong>Déclencheur</strong> Votre tour commence ou votre malédiction oraculaire devrait augmenter.</p>\n<hr />\n<p>En voyant Syndara superposer des créatures aux propriétés métaphysiques similaires, vous avez compris un moyen de manipuler les effets de votre malédiction oraculaire. Vous modifiez immédiatement votre malédiction pour la faire passer à son stade mineur, modéré ou majeur ou revenir à sa forme légère, en échangeant l'effet de la malédiction avec celui d'une version parallèle de vous-même dans une autre réalité.</p>"
+        },
+        {
+            "id": "Stab and Blast",
+            "name": "Stab and Blast",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu avec une bayonnette attachée ou une crosse renforcée, une lance de feu ou une arme combinée.</p>\n<hr />\n<p>Vous tranchez ou frappez votre adversaire avec la partie de votre arme au corps-à-corps avant d'appuyer sur la détente à bout portant. Effectuez une Frappe au corps-à-corps avec l'arme requise. Si la frappe est réussie, vous pouvez immédiatement effectuer une frappe à distance contre la même cible avec un bonus de circonstances de +2 au jet d'attaque. Cela compte comme deux attaques pour votre pénalité d'attaque multiples, mais vous n'appliquez cette pénalité qu'après avoir effectué les deux attaques.</p>"
         },
         {
             "id": "Superior Sight",
@@ -4354,6 +4439,16 @@
             ]
         },
         {
+            "id": "Leap and Fire",
+            "name": "Leap and Fire",
+            "description": "<p>Vous êtes suffisamment rapide pour aligner un tir même lorsque vous plongez au sol. Lorsque vous utilisez la réaction Mordre la poussière ! à tout moment durant votre Bond vous pouvez aussi faire une attaque à distance avec une arme à feu ou une arbalète chargée, en ciblant la créature dont l'attaque a déclenché la réaction.</p>",
+            "prereq": [
+                {
+                    "value": "Mordre la poussière"
+                }
+            ]
+        },
+        {
             "id": "Disarming Flair",
             "name": "Disarming Flair",
             "description": "<p>Il est plus difficile pour vos adversaires de raffermir leur prise lorsque vous parvenez à ébranler l'arme qu'ils tiennent en main.</p>\n<p>Lorsque vous obtenez un succès à un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, le bonus de circonstance et la pénalité du Désarmement dure jusqu'à la fin de votre prochain tour, au lieu de se terminer au début du prochain tour de la cible. la cible peut utiliser une action Interagir pour ajuster sa prise et mettre un terme à cet effet.</p>\n<p>Si votre style de bretteur est celui du @Compendium[pf2e.classfeatures.B7RMnrHwQHlezlJT]{Gymnaste} et que vous réussissez votre test d'Athlétisme pour Désarmer un adversaire, vous obtenez du @Compendium[pf2e.classfeatures.LzYi0OuOoypNb6jd]{Panache}.</p>"
@@ -4372,6 +4467,11 @@
             "id": "Hydraulic Deflection",
             "name": "Hydraulic Deflection",
             "description": "<p>Tirant de l'humidité de l'atmosphère, vous créez un disque d'eau flottant qui dévie les attaques. Vous obtenez un bonus de circonstances de +1 à la CA jusqu'au début de votre prochain tour.</p>"
+        },
+        {
+            "id": "Dance of Thunder",
+            "name": "Dance of Thunder",
+            "description": "<p><strong>Fréquence</strong> une fois par minute</p>\n<p><strong>Conditions</strong> Vous maniez une arme à feu chargée ou une arbalète et vous n'êtes pas @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué}.</p>\n<hr />\n<p>Chaque pas fait écho à la réplique tonitruante de la poudre noire qui explose alors que vous exécutez une danse de la mort. Effectuez l'une des actions suivantes de votre choix, dans n'importe quel ordre : Faire un pas, Frappez une cible dans le premier facteur de portée de votre arme à feu, Interagir pour recharger. Si vous avez tenté une Frappe et qu'elle a réussi, vous pouvez répéter ces trois actions dans n'importe quel ordre. Si vous avez tenté une Frappe et qu'elle a réussi la deuxième fois, vous pouvez répéter les actions une dernière fois.</p>\n<p>Après avoir utilisé Danse de tonnerre, vous êtes Fatigué pendant 1 minute.</p>"
         },
         {
             "id": "Fabricated Connections",
@@ -4410,6 +4510,16 @@
             "id": "Diehard",
             "name": "Diehard",
             "description": "<p>Il en faut plus pour vous tuer que la plupart des gens. Vous mourez de l’état mourant à mourant 5 plutôt qu’à mourant 4.</p>"
+        },
+        {
+            "id": "Diving Armor",
+            "name": "Diving Armor",
+            "description": "<p>Vous avez modifié votre armure en y ajoutant des palmes, des rotors et d'autres dispositifs pour vous permettre de vous déplacer facilement dans l'eau ainsi que des branchies mécaniques qui peuvent vous aider à extraire de l'eau pour produire de l'air respirable. Lorsque vous portez votre innovation d'armure, vous pouvez respirer sous l'eau et gagner une Vitesse de nage égale à votre Vitesse au sol.</p>",
+            "prereq": [
+                {
+                    "value": "innovation d'armure"
+                }
+            ]
         },
         {
             "id": "Song of Grace and Speed",
@@ -4723,6 +4833,16 @@
             ]
         },
         {
+            "id": "Helpful Tinkering",
+            "name": "Helpful Tinkering",
+            "description": "<p><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<hr />\n<p>Vous ne vous contentez pas d'ajuster vos propres innovations, vous bricolez également sur les armes de vos alliés (pour leur avantage, bien sûr). Choisissez un allié à votre portée et une de ses armes. Faites un test d'Artisanat avec un DD élevé en fonction de votre niveau.</p>\n<hr />\n<p><strong>Succès</strong> Pendant 1 minute, les Frappes de votre allié avec l'arme choisie bénéficient du même bonus offensif que votre innovation.</p>\n<p><strong>Échec critique</strong> Votre allié subit des dégâts du type et du montant que votre renfort offensif inflige normalement sur un coup réussi.</p>",
+            "prereq": [
+                {
+                    "value": "Renfort offensif"
+                }
+            ]
+        },
+        {
             "id": "Axial Recall",
             "name": "Axial Recall",
             "description": "<p>Vous avez reconfiguré la résonance magique de votre noyau pour vous accorder aux énergies planaires d'Axis. Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]{Changement de plan}</em> deux fois par semaine comme un sort inné arcaniquee qui ne peut vous cibler que vous-même ; Vous pouvez voyager seulement vers Axis ou le Plan Matériel et votre corps sert de focalisateur.</p>"
@@ -4921,6 +5041,16 @@
             "id": "Pinch Time",
             "name": "Pinch Time",
             "description": "<p>Un de vos parents possède l'espérance de vie d'un humain et l'autre celle d'un elfe et la vôtre se trouve quelque part entre les deux. Il en résulte que vous avez une perspective inhabituelle à propos du temps et vous avez appris à le manifester pour vous aider dans des moments de stress.</p>\n<p>Vous obtenez @Compendium[pf2e.spells-srd.o6YCGx4lycsYpww4]{Rapidité} comme un sort arcanique inné de niveau 3 dont vous seul pouvez être la cible. Vous pouvez @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer ce sort} une fois par jour.</p>"
+        },
+        {
+            "id": "Shooter's Camoflage",
+            "name": "Shooter's Camoflage",
+            "description": "<p>Vous vous spécialisez dans la dissimulation dans un type d'environnement particulier, capable de disparaître après avoir effectué votre tir. Choisissez un terrain naturel ou urbain. Sur le terrain choisi, vous pouvez vous Cacher et Étre furtif même sans être à l'abri ou sans être @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}.</p>",
+            "prereq": [
+                {
+                    "value": "maître en Discrétion"
+                }
+            ]
         },
         {
             "id": "Bravo's Determination",
@@ -5148,6 +5278,11 @@
             ]
         },
         {
+            "id": "Cauterize",
+            "name": "Cauterize",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu chargée et vous ou un allié adjacent subit des dégâts de saignement persistants.</p>\n<hr />\n<p>Vous utilisez le canon fumant de votre arme à feu pour fermer en la brûlant une blessure qui saigne. Faites une Frappe avec votre arme à feu. Puis vous pressez le canon chauffé sur vos blessures ou celles d'un allié à portée qui subit des dégâts de saignement persistants, lui accordant un test nu immédiat pour mettre un terme à l'hémorragie avec le DD inférieur lié à une assistance particulièrement efficace.</p>"
+        },
+        {
             "id": "Rogue Dedication",
             "name": "Rogue Dedication",
             "description": "<p>Vous gagnez un don de compétence et la capacité de classe Attaque surprise du roublard. Vous devenez qualifié en armures légères. En outre, vous devenez qualifié en Discrétion ou en Vol, plus une compétence de votre choix ; si vous êtes déjà qualifié en Discrétion et en Vol, vous devenez à la place qualifié dans une compétence supplémentaire de votre choix. Vous devenez qualifié dans le DD de classe de roublard.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas gagner un autre don de dévouement avant d’avoir acquis deux autres dons de l’archétype roublard.</p>",
@@ -5342,6 +5477,16 @@
             "id": "Fumesoul",
             "name": "Fumesoul",
             "description": "<p>L'air qui vous compose s'affirme lui-même comme un miasme toxique, vous rendant endurant à la plupart des poisons. Vous obtenez une résistance aux poisons égale à la moitié de votre niveau (minimum 1).</p>"
+        },
+        {
+            "id": "Clockwork Celerity",
+            "name": "Clockwork Celerity",
+            "description": "<p><strong>Déclencheur</strong> Votre tour commence.</p>\n<hr />\n<p>Vous pouvez utiliser des dispositifs mécaniques instables dans votre innovation pour pousser votre invention à agir plus rapidement. Vous êtes @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accéléré} pour ce tour. La façon dont vous pouvez utiliser cette action supplémentaire dépend de votre innovation.</p>\n<ul>\n<li><strong>Arme</strong> Vous pouvez utiliser l'action supplémentaire pour Frapper avec votre innovation ou Recharger votre innovation.</li>\n<li><strong>Armure</strong> Vous pouvez utiliser l'action supplémentaire pour Faire un pas, Marcher rapidement ou utiliser une autre action de déplacement accordée par votre innovation (comme Nager si vous avez le don Armure de plongée).</li>\n<li><strong>Créature artificielle</strong> Vous pouvez utiliser l'action supplémentaire pour Diriger votre innovation créature artificielle (ou pour fournir 1 des actions si vous dépensez 2 actions pour Diriger votre créature artificielle).</li>\n</ul>",
+            "prereq": [
+                {
+                    "value": "innovation d'arme, d'armure ou de créature artificielle"
+                }
+            ]
         },
         {
             "id": "Greater Animal Senses (Precise Tremorsense)",
@@ -5892,6 +6037,11 @@
             ]
         },
         {
+            "id": "Black Powder Boost",
+            "name": "Black Powder Boost",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu chargée.</p>\n<hr />\n<p>Vous faites feu avec votre arme lorsque vous sautez, en utilisant le recul pour aller plus loin. Vous @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bondissez} et déchargez votre arme à feu pour ajouter un bonus de +3 m à la distance franchie. Si vous dépensez 2 actions pour Renfort de poudre noire, vous @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Sautez en hauteur} ou @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Sautez en longueur} à la place.</p>\n<p><strong>Spécial</strong> Une capacité qui vous permet de Sauter en hauteur ou de Sauter en longueur par une action unique (comme le don de compétence @Compendium[pf2e.feats-srd.ZBhvJ9O8MvBFAlhq]{Saut rapide}) vous permet d'utiliser Renfort de poudre noire pour une action unique pour ces sauts aussi.</p>"
+        },
+        {
             "id": "Mystery Conduit",
             "name": "Mystery Conduit",
             "description": "<p>Le pouvoir de votre mystère vous permet de lancer plus que juste des sorts de révélation.</p>\n<p>Lorsque vous lancez un sort de niveau 5 ou inférieur qui n'a pas de durée, au lieu de dépenser un emplacement de sort, vous pouvez faire avancer les effets de votre malédiction oraculaire de la même manière que si vous lanciez un sort de révélation. Un sort lancé de cette façon obtient le trait lié à une malédiction.</p>"
@@ -6250,6 +6400,11 @@
             ]
         },
         {
+            "id": "Paired Shots",
+            "name": "Paired Shots",
+            "description": "<p><strong>Conditions</strong> Vous maniez deux armes, chacune devant être soit une arme à feu à une main chargée ou une arbalète à une main chargée.</p>\n<hr />\n<p>Vos tirs touchent de manière simultanée. Faites deux Frappes, une avec chacun des armes requises de vos deux armes à distance, chacune utilisant votre pénalité d'attaques multiples actuelle. Les deux Frappes doivent avoir la même cible.</p>\n<p>Si les deux attaques touchent, combinez leurs dégâts et puis ajoutez tous les effets applicables pour les deux armes. Vous ajoutez tout dégât de précision qu'une seule fois à l'attaque de votre choix. Combinez les dégâts des deux Frappes et appliquez les résistances et les faiblesses seulement une fois. Cela compte comme deux attaques lorsque vous calculez votre pénalité d'attaques multiples.</p>"
+        },
+        {
             "id": "Burrow Elocutionist",
             "name": "Burrow Elocutionist",
             "description": "<p>Vous savez identifier le babil des créatures souterraines comme un langage. Vous pouvez ainsi poser des questions, obtenir des réponses et utiliser la compétence Diplomatie quand vous vous adressez à des animaux qui ont une Vitesse de creusement comme les blaireaux, les écureuils terrestres, les taupes et les chiens de prairie. Le MJ détermine avec quels animaux vous pouvez utiliser ce pouvoir.</p>"
@@ -6333,6 +6488,11 @@
                     "value": "Dévouement de l'Archer"
                 }
             ]
+        },
+        {
+            "id": "Built-In Tools",
+            "name": "Built-In Tools",
+            "description": "<p>Vous avez prévu d'insérer des outils dans votre innovation pour pouvoir y accéder et les utiliser facilement. Lorsque vous prenez ce don, choisissez jusqu'à deux ensembles d'outils que vous possédez, tels que des outils de voleur ou des outils de guérisseur, qui pèsent un total de 2 Encombrements ou moins. Ces outils font partie de votre innovation. Le poids de l'innovation n'augmente pas à cause de cet ajout. Tant que vous maniez, portez ou êtes adjacent à votre innovation, vous avez le même accès rapide à ces outils que ceux que vous portez, mais ils ne sont pas comptabilisés dans la limite habituelle d'outils que vous pouvez porter.</p>"
         },
         {
             "id": "Metal-veined Strikes",
@@ -6636,6 +6796,11 @@
             ]
         },
         {
+            "id": "Cover Fire",
+            "name": "Cover Fire",
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Conditions</strong> Vous maniez une arme à feu ou une arbalète chargée.</p>\n<hr />\n<p>Vous effectuez des tirs de couverture pour protéger vos alliés en forçant vos ennemis à se mettre à l'abri de vos attaques sauvages. Effectuez une Frappe à l'arme à feu ou à l'arbalète ; la cible doit décider avant votre jet d'attaque si elle va se mettre à l'abri. Si la cible se baisse, elle bénéficie d'un bonus de circonstances de +2 à la CA contre votre attaque ou d'un bonus de circonstances de +4 à la CA si elle a un abri. Elle subit également une pénalité de circonstances de -2 aux jets d'attaque à distance jusqu'à la fin de son prochain tour. Si la cible choisit de ne pas se baisser, vous gagnez un bonus de circonstances de +1 à votre jet d'attaque pour cette Frappe.</p>"
+        },
+        {
             "id": "Terrain Advantage",
             "name": "Terrain Advantage",
             "description": "<p>vous pouvez tirer avantage du terrain pour franchir les défenses de vos adversaires.</p>\n<p>Les créatures qui ne sont pas des hommes-lézard situées sur un terrain difficile sont @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prises au dépourvu} par rapport à vous.</p>\n<p>Si vous disposez d'une vitesse de Nage, les créatures qui ne sont pas des hommes-lézard, qui se trouvent dans l'eau et ne possèdent pas de Vitesse de nage sont aussi prises au dépourvu par rapport à vous.</span></p>"
@@ -6784,6 +6949,11 @@
                     "value": "Formidable compagnon (Maître des bêtes)"
                 }
             ]
+        },
+        {
+            "id": "Slinger's Reflexes",
+            "name": "Slinger's Reflexes",
+            "description": "<p>Votre capacité à réagir aux circonstances inattendues est d'une finesse préternaturelle. Au début du tour de chaque ennemi, vous gagnez une réaction supplémentaire que vous ne pouvez utiliser que lors de ce tour pour utiliser une réaction de franc-tireur.</p>"
         },
         {
             "id": "Shield Block",
@@ -7053,6 +7223,11 @@
             "id": "Double Prey",
             "name": "Double Prey",
             "description": "<p>Vous pouvez vous focaliser sur deux adversaires en même temps et les chasser tous les deux. Quand vous effectuez l’action @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{Chasser une proie}, vous pouvez désigner deux créatures qui deviennent vos proies.</p>"
+        },
+        {
+            "id": "Smoke Curtain",
+            "name": "Smoke Curtain",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu chargée et vous portez ou tenez une dose de poudre noire.</p>\n<hr />\n<p>Vous chargez une dose supplémentaire de poudre dans votre tir, provoquant l'éjection d'un nuage de fumée. Vous effectuez une Frappe avec votre arme à feu et créez un nuage de fumée en une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"20\">émanation de 6 mètres</span> centrée sur votre emplacement. Les créatures sont @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Cachées} tant qu'elles sont dans la fumée et les créatures hors de la zone sont Cachées aux créatures dans la fumée. La fumée se dissipe au début de votre prochain tour. Si votre Frappe est un échec critique, votre arme à feu a des ratés.</p>"
         },
         {
             "id": "Tough Tumbler",
@@ -7359,6 +7534,11 @@
             ]
         },
         {
+            "id": "Redirecting Shot",
+            "name": "Redirecting Shot",
+            "description": "<p><strong>Déclencheur</strong> Un allié rate une attaque à distance qui utilise une arme de jet ou des munitions. L'allié doit être disposé à accepter votre aide, vous devez voir la cible de l'attaque et celle-ci doit se trouver dans le premier facteur de portée de votre arme à feu ou de votre arbalète.</p> \n<p><strong>Conditions</strong> Vous maniez une arme à feu ou une arbalète chargée.</p>\n<hr />\n<p>Voyant l'attaque de votre allié sur le point de s'égarer, vous tirez avec votre arme pour redresser sa trajectoire. Déchargez votre arme à feu et lancez un d20. Votre allié utilise ce jet à la place du sien et l'attaque ignore les bonus que la cible obtiendrait contre l'attaque à partir d'un abri inférieur ou standard.</p>"
+        },
+        {
             "id": "Pathfinder Agent Dedication",
             "name": "Pathfinder Agent Dedication",
             "description": "<p><strong>Accès</strong> Vous êtes originaire d'Absalom.</p>\n<hr />\n<p>Votre entraînement d'Éclaireur a élargi vos horizons et vous a rendu plus polyvalent dans des compétences variées, car vous ne savez jamais si vous pourrez avoir besoin de connaissances obscures pour achever votre mission.</p>\n<p>Vous devenez qualifié en une compétence de votre choix, ou expert dans une compétence de votre choix dans laquelle vous êtes déjà qualifié. Vous devenez qualifié en Connaissance des Éclaireurs ou expert si vous étiez déjà qualifié. Lorsque vous utilisez une compétence dans laquelle vous êtes inexpérimenté, votre bonus de compétence est égal à votre niveau au lieu de 0. Vous obtenez l'accès aux guides magiques des éclaireurs.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez obtenir d'autre don de dévouement avant d'avoir obtenu deux autres dons dans l'archétype d'Agent des Éclaireurs.</p>",
@@ -7435,6 +7615,11 @@
             "id": "Remorseless Lash",
             "name": "Remorseless Lash",
             "description": "<p>Vous êtes compétent lorsqu'il s'agit de battre un ennemi lorsque son moral flanche. Lorsque vous obtenez un succès lors d'une Frappe avec une arme de corps à corps contre un adversaire @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé}, cet adversaire ne peut réduire sa condition Effrayé en dessous de 1 jusqu'au début de votre prochain tour.</p>"
+        },
+        {
+            "id": "Rebounding Assault",
+            "name": "Rebounding Assault",
+            "description": "<strong>Conditions</strong> Vous maniez une arme à feu ou une arbalète chargée dans une main et une arme de corps-à-corps contondante ou tranchante dans l'autre.</p>\n<hr />\n<p>Vous lancez votre arme de corps-à-corps sur un adversaire, puis vous tirez une balle dans la poignée de l'arme, causant des dégâts supplémentaires et la faisant rebondir pour que vous puissiez la rattraper. Effectuez une Frappe avec l'arme de jet à distance avec l'arme de corps-à-corps, puis une Frappe à distance avec votre arme à feu. Les deux frappes utilisent la même pénalité d'attaques multiples. Si l'arme de corps-à-corps ne possède pas déjà le trait de Jet, elle obtient le trait Jet à 3 mètres pendant un Assaut rebondissant.</p>\n<p>Si les deux attaques sont réussies, le carreau ou la balle touche l'arme de corps-à-corps lancée au lieu de votre cible, ajoutant sa force en une seule attaque. Combinez les dégâts des deux frappes, en utilisant le type de dégâts de l'arme de jet et ajoutez [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires. L'impact envoie l'arme de corps-à-corps rebondir sur la cible et revenir dans votre main.</p>\n<p>Dans toute circonstance autre que les deux attaques de Frappe, effectuez les frappes individuelles normalement. L'arme lancée ne rebondit pas et reste dans la case de la cible comme c'est le cas normalement pour les armes de jet.</p>"
         },
         {
             "id": "Monster Hunter",
@@ -7522,6 +7707,16 @@
             "description": "<p>Vous incarnez l’un des aspects de votre divinité.</p>\n<p>Choisissez l’un des domaines de votre divinité. Vous gagnez le sort de domaine initial du domaine choisi en guise de sort de dévotion.</p>"
         },
         {
+            "id": "Megaton Strike",
+            "name": "Megaton Strike",
+            "description": "<p>Vous activez des engrenages, des explosifs et d'autres mécanismes cachés dans votre innovation pour effectuer une attaque puissante. Vous effectuez une Frappe, infligeant un dé supplémentaire de dégâts d'arme. À compter du niveau 10, vous pouvez passer à deux dés supplémentaires et au niveau 18, vous pouvez passer à trois dés supplémentaires. Le type de Frappe que vous pouvez faire dépend de votre innovation.</p>\n<ul>\n<li><strong>Arme</strong> Vous frappez avec votre innovation d'arme.</li>\n<li><strong>Armure</strong> Vous effectuez une attaque de corps-à-corps à mains nues ou avec une arme de corps-à-corps. Pour utiliser une arme de corps-à-corps, vous devez l'avoir préparée à l'avance avec des dispositifs spéciaux au cours de vos préparatifs quotidiens.</li>\n<li><strong>Créature artificielle</strong> Votre innovation sbire effectue la Frappe.</li>\n</ul>\n</p><strong>Fonction instable</strong> Vous mettez encore plus de force dans la Frappe, bien que vous risquiez de voir apparaitre des fractures sur votre innovation suite au coup. Ajoutez le trait instable à la Frappe mégatonne. La Frappe inflige un autre dé de dégâts supplémentaire, pour un total de deux dés supplémentaires au niveau 4, trois au niveau 10 et quatre au niveau 18.</p>\n</p><strong>Spécial</strong> Si votre innovation est un sbire, elle peut effectuer cette action à votre place.</p>",
+            "prereq": [
+                {
+                    "value": "innovation d'arme, d'armure ou de créature artificielle"
+                }
+            ]
+        },
+        {
             "id": "Elemental Eyes",
             "name": "Elemental Eyes",
             "description": "<p>Vous pouvez voir dans l'obscurité aussi aisément qu'un élémentaire. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don seulement au niveau 1 et vous ne pouvez utiliser le réapprentissage pour obtenir ou perdre ce don.</p>",
@@ -7557,6 +7752,16 @@
             ]
         },
         {
+            "id": "Manifold Modifications",
+            "name": "Manifold Modifications",
+            "description": "<p>Vous avez modifié votre innovation en utilisant des solutions de contournement astucieuses, vous pouvez donc inclure une autre modification initiale sans compromettre sa structure. Votre innovation gagne une modification initiale supplémentaire à partir de la liste des innovations de son type.</p>",
+            "prereq": [
+                {
+                    "value": "modification initiale"
+                }
+            ]
+        },
+        {
             "id": "Beastmaster Bond",
             "name": "Beastmaster Bond",
             "description": "<p>Vous pouvez communiquer télépathiquement avec vos compagnons animaux dans les 30 m. Si vous êtes légendaire en Nature, vous pouvez communiquer télépathiquement avec vos compagnons animaux partout sur la planète.</p>",
@@ -7575,6 +7780,16 @@
             "id": "Echoes In Stone",
             "name": "Echoes In Stone",
             "description": "<p><strong>Conditions</strong> Vous vous tenez sur un sol en roche ou une surface en terre.</p>\n<hr>\n<p>Vous faites une pause pour harmoniser vos sens à la roche qui vous entoure.</p>\n<p>Jusqu'au début de votre prochain tour, vous obtenez un nouveau sens imprécis : Perception des vibrations. Sa portée est de 6 m.</p>"
+        },
+        {
+            "id": "Negate Damage",
+            "name": "Negate Damage",
+            "description": "<p><strong>Déclencheur</strong> Vous allez subir des dégâts.</p>\n<hr />\n<p>Votre innovation d'armure active divers dispositifs que vous avez préparés à l'avance et vous utilisez l'un d'entre eux pour réduire de 15 les dégâts subis.</p>\n<p><strong>Fonction instable</strong>Vous activez toutes les précautions à la fois, repoussant violemment l'attaque entrante pour en émousser la force. Ajoutez la fonction Instable à Supprimer les dégâts et réduisez les dégâts subis de 50.</p>",
+            "prereq": [
+                {
+                    "value": "Innovation d'armure"
+                }
+            ]
         },
         {
             "id": "Reactive Shield",
@@ -7598,6 +7813,16 @@
             "prereq": [
                 {
                     "value": "Dévouement de mage cathartique"
+                }
+            ]
+        },
+        {
+            "id": "Disruptive Blur",
+            "name": "Disruptive Blur",
+            "description": "<p>Vous utilisez des explosions formant une cacophonie issus de votre pistoler ou des tirs distrayants avec votre arbalète pour provoquer des diversions momentanées, vous permettant de vous déplacer sur le champ de bataille en toute impunité. Après que vous ayez fait une Frappe avec une arme à feu ou une arbalète, les créatures ne peuvent utiliser des réactions qui seraient déclenchées par votre déplacement pendant le reste de votre tour.</p>",
+            "prereq": [
+                {
+                    "value": "Voie du vagabond"
                 }
             ]
         },
@@ -7708,6 +7933,11 @@
             ]
         },
         {
+            "id": "Fake Out",
+            "name": "Fake Out",
+            "description": "<p><strong>Déclencheur</strong> Un allié est sur le point d'utiliser une action qui nécessite un jet d'attaque, ciblant une créature dans le premier Facteur de portée de votre arme.</p>\n<p><strong>Conditions</strong> Vous maniez une arme à feu ou une arbalète chargée.</p>\n<hr />\n<p>D'un coup habile de votre arme, vous forcez un ennemi à vous considérer comme une menace. Faites un jet d'attaque pour @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} l'attaque déclencheuse. Si vous aviez infligé des dégâts à cet ennemi avec la même arme depuis le début de votre dernier tour, vous obtenez un bonus de circonstances de +1 à votre jet.</p>"
+        },
+        {
             "id": "Inspirational Performance",
             "name": "Inspirational Performance",
             "description": "<p>Vous gagnez le tour de magie de composition inspiration vaillante.</p>",
@@ -7724,6 +7954,19 @@
             "prereq": [
                 {
                     "value": "Poing étourdissant"
+                }
+            ]
+        },
+        {
+            "id": "Munitions Machinist",
+            "name": "Munitions Machinist",
+            "description": "<p>Vous êtes particulièrement doué pour fabriquer des munitions et des bombes. Votre niveau d'Alchimie avancée pour les munitions et les bombes augmente jusqu'à votre niveau - 3.</p>",
+            "prereq": [
+                {
+                    "value": "Fabricant de munitions"
+                },
+                {
+                    "value": "expert en Artisanat"
                 }
             ]
         },
@@ -7749,6 +7992,16 @@
             "prereq": [
                 {
                     "value": "qualifié en Représentation"
+                }
+            ]
+        },
+        {
+            "id": "No! No! I Created You!",
+            "name": "No! No! I Created You!",
+            "description": "<p><strong>Fréquence</strong> une fois par minute</p>\n<p><strong>Déclencheur</strong> Votre compagnon créature artificielle devient @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confus} ou controlé.</p>\n<hr />\n<p>Vous faites appel au lien de votre compagnon créature artificielle avec son créateur pour qu'il se libère d'un effet de contrôle. Tentez de contrer l'effet qui a rendus Confus ou contrôlé votre compagnon, en utilisant votre modificateur d'Artisanat pour le test de contre et la moitié de votre niveau arrondi au nombre supérieur pour le niveau de contre.</p>",
+            "prereq": [
+                {
+                    "value": "compagnon créature artificielle"
                 }
             ]
         },
@@ -7781,6 +8034,11 @@
                     "value": "Énigmatique (Muse de barde)"
                 }
             ]
+        },
+        {
+            "id": "Hair Trigger",
+            "name": "Hair Trigger",
+            "description": "<p><strong>Prérequis</strong> exploit initial qui vous permet d'Interagir pour dégainer une arme</p>\n<hr />\n<p>Personne ne peut réagir plus vite que vous n'appuyez sur la détente. Lorsque vous utilisez votre exploit initial, au lieu d'Interagir pour dégainer une arme, vous pouvez Frapper avec une arme à feu ou une arbalète que vous maniez déjà. Si cette Frappe touche, la cible est également @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} jusqu'à la fin de votre premier tour de la rencontre.</p>\n<hr />\n<p><strong>Spécial</strong> Si votre acte initial vous permet d'Interagir pour dégainer une arme plus d'une fois, ce don vous permet de remplacer une de ces actions d'Interaction et d'utiliser l'autre pour dégainer une arme. Vous ne pouvez pas remplacer les deux actions Interagir par des Frappes, mais vous pouvez dégainer une arme à feu ou une arbalète chargée avec l'une des actions et tirer immédiatement avec l'autre.</p>"
         },
         {
             "id": "Dedication to the Five",
@@ -7888,6 +8146,11 @@
             ]
         },
         {
+            "id": "Bullet Split",
+            "name": "Bullet Split",
+            "description": "<p><strong>Conditions</strong>Vous maniez une arme à feu ou une arbalète dans une main et une arme au corps-à-corps tranchante (ou polyvalente S) dans l'autre.</p>\n<hr />\n<p>Vous alignez soigneusement votre arme avec le tranchant de votre lame, fendant le projectile en deux en tirant pour attaquer deux cibles différentes. Faites deux frappes, une chacune contre deux cibles distinctes. Les cibles doivent être adjacentes l'une à l'autre et dans la portée maximale de votre arme. Chacune de ces attaques subit une pénalité de -2 au jet d'attaque, mais les deux ne comptent que pour une seule attaque lors du calcul de votre pénalité d'attaque multiple.</p>"
+        },
+        {
             "id": "Gift Of The Moon",
             "name": "Gift Of The Moon",
             "description": "<p>Vous pouvez partager votre pouvoir avec les autres mais ils ne peuvent échapper à la malédiction lycanthropique aussi facilement que vous le pouvez. Vous pouvez lancer @Compendium[pf2e.spells-srd.YtesyvfAIwXOqISq]{Frénésie lunaire} au niveau 5 comme un sort inné primordial une fois par jour.</p>\n<p>Au niveau 15 , vous lancez Frénésie lunaire au niveau 6 à la place.</p>\n<p>Au niveau 17, votre frénésie lunaire au niveau 6 accorde ses effets ordinaires sauf que les points de vie temporaires passent à 15 et la faiblesse à l'argent passe à 15.</p>\n<p>Au niveau 20, vous lancez Frénésie lunaire au niveau 10 à la place. Le sort utilise le plus élevé entre votre DD de sort et votre DD de classe.</p>"
@@ -7896,6 +8159,16 @@
             "id": "Hulking Size",
             "name": "Hulking Size",
             "description": "<p>Votre eidolon grandit considérablement. Votre eidolon devient Grand, au lieu de sa taille précédente et son allonge passe à 3 m. Cela ne modifie aucune de ses autres statistiques.</p>"
+        },
+        {
+            "id": "Overdrive Ally",
+            "name": "Overdrive Ally",
+            "description": "<p><strong>Conditions</strong> Vous êtes actuellement en surrégime.</p>\n<hr />\n<p>Vous lancez rapidement certains de vos mécanismes suralimentés à un allié, partageant brièvement vos avantages avec lui. Choisissez un allié dans un rayon de 9 mètres. Jusqu'à la fin de son prochain tour, les Frappes de cet allié infligent des dégâts supplémentaires égaux à la moitié de votre modificateur d'Intelligence ou à votre modificateur d'Intelligence complet si vous étiez en surrégime critique. L'allié ne gagne pas les dégâts supplémentaires de de Surrégime expert, maître ou légendaire.</p>",
+            "prereq": [
+                {
+                    "value": "Surrégime"
+                }
+            ]
         },
         {
             "id": "Concealing Legerdemain",
@@ -8060,6 +8333,11 @@
             ]
         },
         {
+            "id": "Tamper",
+            "name": "Tamper",
+            "description": "<p>Vous trafiquez l'arme ou l'armure d'un ennemi, en utilisant une main libre. Choisissez soit une arme tenue par un ennemi à votre portée, soit une armure portée par un ennemi à votre portée. Faites un test d'Artisanat contre le DD de Réflexes de l'ennemi.</p>\n<hr />\n<p><strong>Succès critique</strong> Votre altération est incroyablement efficace. Si vous avez trafiqué une arme, l'ennemi subit un malus de circonstances de -2 aux jets d'attaque et aux jets de dégâts avec cette arme. Si vous avez altéré une armure, celle-ci entrave le mouvement de l'ennemi, le rendant @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} et infligeant une pénalité de -3 mètres à sa Vitesse. L'effet dure jusqu'à ce que l'ennemi interagisse pour le supprimer, quel que soit celui que vous avez utilisé.</p>\n<p><strong>Succès</strong> Votre altération est temporairement efficace. Comme avec un succès critique, mais l'effet prend fin au début de votre prochain tour, même si l'ennemi n'Interagit pas pour y mettre fin.</p> \n<p><strong>Échec critique</strong> Votre altération se retourne contre vous de façon spectaculaire, créant une petite explosion à partir de vos propres outils ou engins. Vous subissez des dégâts de feu égaux à votre niveau.</p>"
+        },
+        {
             "id": "Deft Cooperation",
             "name": "Deft Cooperation",
             "description": "<p>Lorsque vous aidez vos alliés, vous gagnez vous aussi une partie des fruits de votre labeur.</p>\n<p>Lorsque vous remportez un succès alors que vous Aidez à la CA ou sur un jet d’attaque, vous obtenez un bonus de circonstances de +1 aux jets d’attaque ou à la CA contre le même ennemi jusqu’à la fin de votre prochain tour, selon le bonus offert à votre allié. Lorsque vous remportez un succès alors que vous Aidez à faire un test de compétence et que vous tentez le même test de compétence à votre prochain tour (pas seulement en utilisant la même compétence, mais en l’employant dans le même but, par exemple lors d’un test pour Escalader le même mur), vous gagnez un bonus de circonstances de +1 à votre test de compétence.</p>",
@@ -8171,6 +8449,11 @@
             "description": "<p>Vous disposez d'un lien puissant avec le Cimetière et ses cours, vous faisant bénéficier de la capacité de voyager jusqu'au Cimetière et d'en revenir.</p>\n<p>Vous obtenez @Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]{Changement de plan} comme sort divin inné. Vous pouvez le lancer deux fois par semaine.</p>\n<p>Ce sort peut seulement être utilisé pour voyager vers le Cimetière ou du Cimetière vers le Plan Matériel. Compte tenu de votre lien unique avec le Cimetière, votre corps sert de focalisateur et vous n'avez pas besoin d'un diapason.</p>"
         },
         {
+            "id": "Piercing Critical",
+            "name": "Piercing Critical",
+            "description": "<p>Vos attaques avec vos armes préférées infligent des blessures particulièrement dévastatrices. Lorsque vous Frappez avec une arme à feu ou une arbalète avec laquelle vous avez une maîtrise légendaire, vous obtenez un coup critique si vous obtenez un 19 sur le dé, à condition que ce résultat soit un succès.</p>"
+        },
+        {
             "id": "Combat Reading",
             "name": "Combat Reading",
             "description": "<p>Vous utilisez les techniques de lecture à froid de l'artiste, la lecture des auras et autres astuces pour découvrir les faiblesses et les forces de vos ennemis.</p>\n<p>Le MJ lance un test secret d'Occultisme pour vous contre le plus élevé entre le DD de Duperie ou de Discrétion d'un ennemi de votre choix qui est engagé en combat et qui n'est pas @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}, @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} ou @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non-détecté}. Le MJ pourrait appliquer des pénalités en fonction de la distance entre vous et l'ennemi. L'ennemi est alors temporairement immunisé à votre lecture du Combat pendant 1 journée.</p>\n<hr />\n<p><strong>Succès critique</strong> Le MJ choisit et vous donne deux des informations suivantes à propos de votre ennemi : quelle est sa plus grande faiblesse, quel est son modificateur de jet de protection le plus bas, une immunité que l'ennemi possède ou quelle résistance de votre ennemi est la plus haute. En cas d'égalité, le MJ en choisit une de manière aléatoire.</p>\n<p><strong>Succès</strong> Le MJ donne une unique information tirée de la liste ci-dessus à propos de l'ennemi.</p>\n<p><strong>Échec critique</strong> Le MJ vous donne une fausse information (le MJ maquille l'information).</p>"
@@ -8182,6 +8465,16 @@
             "prereq": [
                 {
                     "value": "qualifié en Société"
+                }
+            ]
+        },
+        {
+            "id": "Unshakable Grit",
+            "name": "Unshakable Grit",
+            "description": "<p>Le conflit vous a endurci après tout ce que vous avez affronté et vous possédez un certain entêtement. Si la relance qui vous est accordée par votre réaction Audace et Ténacité est un succès, vous obtenez un succès critique à la place ; si c'est un échec critique, vous obtenez un échec à la place.</p>",
+            "prereq": [
+                {
+                    "value": "Audace et ténacité"
                 }
             ]
         },
@@ -8535,12 +8828,27 @@
             "description": "<p>Votre eidolon Marche rapidement jusqu'au double de sa Vitesse et peut passer à travers la case de créatures qu'au moins une taille inférieure, Piétinant chaque créature dont il entre dans la case. Il peut tenter de Piétiner la même créature qu'une seule fois dans un unique Piétinement.</p>\n<p>Il inflige des dégâts contondants égaux aux dégâts de son attaque secondaire à ces créatures, qui peuvent tenter un jet de Réflexes basqieu contre votre DD de sort.</p>"
         },
         {
+            "id": "Unstable Redundancies",
+            "name": "Unstable Redundancies",
+            "description": "<p><strong>Déclencheur</strong> Vous allez tenter le test nu pour une action instable mais vous n'avez pas encore lancé le dé.</p>\n<hr />\n<p>Vous avez intégré des redondances triples dans votre innovation et ajouté toutes sortes de tampons pour la protéger des méfaits de vos expériences instables. Vous réussissez automatiquement le test nu.</p>\n<p>Vous ne pouvez plus compter sur vos Redondances instables tant que vous n'avez pas passé 10 minutes à les remettre en place. Si vous passez 10 minutes à réaccorder votre innovation pour pouvoir utiliser à nouveau des actions instables, vous pouvez remettre en place vos Redondances instables en même temps.</p>"
+        },
+        {
             "id": "Armored Rebuff",
             "name": "Armored Rebuff",
             "description": "<p><strong>Déclencheur</strong> Un ennemi adjacent obtient un échec critique à un jet d'attaque pour vous @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frapper} avec une arme au corps-à-corps ou une attaque à mains nues.</p>\n<p><strong>Conditions</strong> Vous portez une armure intermédiaire ou lourde.</p>\n<hr>\n<p>Vous repoussez les piètres attaques avec votre armure, rejetant votre adversaire en arrière. Faites un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} l'adversaire déclencheur, même si vous n'avez pas de main libre. En cas de réussite, vous ne pouvez @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marcher rapidement} pour suivre cet ennemi, puisque vous le rejetez avec le rebond de l'attaque et non pas en vous déplaçant physiquement vers lui.</p>",
             "prereq": [
                 {
                     "value": "Dévouement de Sentinelle"
+                }
+            ]
+        },
+        {
+            "id": "Headshot",
+            "name": "Headshot",
+            "description": "</p><strong>Conditions</strong>Vous maniez une arme à feu chargée ou une arbalète.</p>\n<hr />\n<p>Vous tentez d'achever votre cible avec un dernier tir bien placé. Effectuez une frappe à l'arbalète ou à l'arme à feu. Si vous avez blessé la cible au cours de la dernière minute avec la même arme et que vous obtenez un succès critique sur votre jet d'attaque, la cible doit réussir un jet de Vigueur contre votre DD de classe ou mourir ; c'est un effet de mort et de mise hors de combat. Une créature qui survit est temporairement immunisée pendant 1 jour. Les créatures sans tête (comme les dullahans ou les vases) sont immunisées contre cette capacité et les créatures à plusieurs têtes (comme les ettins) pourraient survivre à la destruction d'une tête.</p>",
+            "prereq": [
+                {
+                    "value": "voie du tireur d'élite"
                 }
             ]
         },
@@ -9302,6 +9610,16 @@
             ]
         },
         {
+            "id": "Persistent Boost",
+            "name": "Persistent Boost",
+            "description": "<p>Votre innovation met le feu aux ennemis, les recouvre d'acide, laisse des piques barbelées derrière elle ou inflige à vos ennemis des dégâts persistants qui restent longtemps après que vous ayez délivré votre attaque renforcée. Lorsque vous ou votre innovation créature artificielle infligez des dégâts à un ennemi avec un Renfort offensif, cet ennemi subit également [[/r {1d8}[persistent]]]{1d8} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts persistants} du même type de dégâts que ceux du Renfort offensif.</p>",
+            "prereq": [
+                {
+                    "value": "Renfort offensif"
+                }
+            ]
+        },
+        {
             "id": "Studious Capacity",
             "name": "Studious Capacity",
             "description": "<p>Vos études soutenues de la magie occulte ont augmenté vos capacités magiques qui vous permettent à présent de lancer des sorts, même quand cela semble impossible. Vous pouvez lancer un sort chaque jour, même lorsque vous n’avez plus aucun emplacement de sort du niveau approprié, mais vous ne pouvez pas utiliser ce don pour lancer un sort du niveau le plus élevé que vous savez lancer.</p>",
@@ -9777,6 +10095,11 @@
                     "value": "Halo"
                 }
             ]
+        },
+        {
+            "id": "Trick Shot",
+            "name": "Trick Shot",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arbalète ou une arme à feu chargée.</p>\n<hr />\n<p>Vous tirez non pas sur votre ennemi mais sur un objet à proximité. Effectuez une frappe avec votre arme à feu contre une CA égale à un DD facile pour votre niveau. En cas de réussite, au lieu de toucher votre ennemi, votre attaque touche un objet situé derrière ou sur le côté de votre cible, créant l'un des effets suivants. Le MJ peut déterminer qu'une CA différente est appropriée ou qu'un effet particulier n'est pas une option valide, comme par exemple utiliser l'option Tonneau explosif alors qu'il n'y a pas d'objet de ce type sur le champ de bataille. Le MJ devrait vous informer si un Tir astucieux est réalisable avant que vous ne dépensiez vos actions, car votre œil exercé peut facilement reconnaître les objets lâches ou les substances volatiles.</p>\n<ul>\n<li><strong>Déplacer l'objet</strong> Votre attaque renverse un objet sans surveillance de 2 Encombrements maximum, le déplaçant jusqu'à 3 mètres dans la direction de votre choix. Par exemple, l'arme peut faire tomber d'une table la boule de cristal d'un sorcier.</li>\n<li><strong>Tonneau explosif</strong> Votre attaque frappe un tonneau de rhum coûteux, une fiole de fluides alchimiques volatils, une pustule démoniaque jaillissant de la terre ou tout autre objet explosif. L'objet explose en une <span data-pf2-effect-area=\"burst\" data-pf2-distance=\"20\">explosion de 6 mètres</span> et les créatures dans la zone subissent 6d6 dégâts avec un jet de sauvegarde de base en Réflexes contre votre DD de classe. Le type de dégâts est choisi par le MJ, en fonction de l'objet qui explose. Augmentez les dégâts de 1d6 pour chaque tranche de 2 niveaux que vous avez au dessus du niveau 10.</li>\n</ul>"
         },
         {
             "id": "Terrain Expertise (Plains)",
@@ -10342,6 +10665,16 @@
             ]
         },
         {
+            "id": "Engine of Destruction",
+            "name": "Engine of Destruction",
+            "description": "<p>Votre créature artificielle libère une large gamme de dévastations en séparant ses membres, en déployant des armements cachés ou en utilisant des techniques similaires pour faire des ravages. Vous Dirigez votre innovation. Au lieu de ses actions normales, elle Marche rapidement une fois puis effectue une Frappe contre chaque ennemi se trouvant à 9 mètres de lui avec un bonus de circonstances de +2 à ses jets d'attaque. La pénalité d'attaques multiples n'augmente qu'après que la créature artificielle a effectué toutes ses attaques.</p>",
+            "prereq": [
+                {
+                    "value": "Innovation de créature artificielle"
+                }
+            ]
+        },
+        {
             "id": "Dousing Spell",
             "name": "Dousing Spell",
             "description": "<p>Vous améliorez votre sort avec l'eau élémentaire, trempant la cible.</p>\n<p>Si la prochaine action que vous utilisez consiste à Lancer un sort ciblant une cible unique, vous trempez la cible du sort avec de l'eau. Si la cible souffre de @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts d'acide ou de feu persistants}, le DD pour mettre un terme à ces conditions est réduit à 10 et la creature peut tenter un test nu pour mettre un terme à ces dégâts persistants immédiatement.</p>\n<p>Le sort obtient le trait eau (provoquant des dégâts supplémentaires aux créatures avec une faiblesse à l'eau).</p>",
@@ -10732,6 +11065,16 @@
             "description": "<p><strong>Déclencheur</strong> Une créature Lance un sort que vous avez préparé.</p>\n<hr />\n<p>Quand un ennemi Lance un sort et que vous voyez sa manifestation, vous pouvez recourir à votre propre magie pour l’interrompre. Vous dépensez un sort préparé pour contrer l’incantation du même sort lancé par une autre créature. Vous perdez votre emplacement de sort comme si vous aviez lancé le sort déclencheur. Vous tentez ensuite de contrer ce sort.</p>"
         },
         {
+            "id": "Precious Munitions",
+            "name": "Precious Munitions",
+            "description": "<p>Vous mélangez des paillettes de matériaux précieux que vous avez récoltés lors de vos voyages dans vos balles personnalisées pour faire ressortir ces propriétés dans vos munitions temporaires. Vous pouvez utiliser Alchimie avancée pour créer des munitions d'adamantium, de fer froid ou d'argent de qualité standard, en dépensant 1 lot de réactifs par munition. Au niveau 15, vous pouvez créer des munitions en adamantium, en fer froid ou en argent de qualité supérieure.</p>",
+            "prereq": [
+                {
+                    "value": "Machiniste de munitions"
+                }
+            ]
+        },
+        {
             "id": "Scrounger Dedication",
             "name": "Scrounger Dedication",
             "description": "<p>Vous pouvez @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} des objets même sans disposer des outils appropriés ou d'un atelier, bien que vous subissiez alors une pénalité d'objet de -2 à votre test d'Artisanat.</p>\n<p>De plus, vous n'avez pas besoin d'un formulaire pour vous rappeler de toutes vos formules ; vous payez le même coût que la normale lorsqu'il s'agit de les apprendre mais vous les mémorisez toutes.</p>\n<p>Vous pouvez Fabriquer des objets à partir de rien, avec n'importe quel matériau qui vous tombe sous la main, passant seulement 10 minutes à accomplir le test de Fabrication initial. L'objet temporaire doit être courant, non-magique, de niveau 1 ou inférieur et doit être une arme, une armure ou une partie non consommable d'équipement d'aventurier (l'équipement non consommable apparaît dans le livre de base). Au lieu d'un unique objet, vous pouvez créer 10 pièces d'une unique sorte de munition. C'est un objet de mauvaise qualité mais vous ne subissez pas la pénalité habituelle lorsque vous utilisez des objets de mauvaise qualité que vous avez fabriqués en utilisant ce don.</p>\n<p>Vos objets temporaires durent pendant [[/r 1d4]] heures avant de retomber en morceaux dans ces matériaux bruts ; Le MJ tire le nombre d'heures en secret. Vous ne pouvez créer qu'un objet physique, et non des informations ou de la magie ; ainsi par exemple, alors que vous pourriez créer un journal vierge ou un nombre de pages aléatoires, vous ne pourriez l'utiliser comme une encyclopédie érudite ou un texte religieux.</p>\n<p>Vous pouvez incorporer tous les matériaux que vous avez sous la main, même s'il ne s'agit pas du type de materiaux habituellement utilisé pour Fabriquer l'objet, bien qu'il vous faille un volume suffisant de matériaux pour fabriquer l'objet que vous désirez.</p>\n<p>À moins que tous les matériaux que vous avez utilisés ne soient du type approprié pour Fabriquer l'objet, vous subissez une pénalité de -5 au test d'Artisanat (ou une pénalité de -10 si les matériaux que vous avez utilisés sont particulièrement inadaptés, à l'appréciation du MJ).</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Bricoleur.</p>",
@@ -10744,7 +11087,7 @@
         {
             "id": "Rain of Bolts",
             "name": "Rain of Bolts",
-            "description": "<p><strong>Fréquence</strong> une fois par jour durant la journée, votre corps produit de puissants projectiles dans votre chassis.</p>\n<hr />\n<p>Vous les lancez tous d'un seul coup soit dans un <span data-pf2-effect-area=\"Cone\" data-pf2-distance=\"30\">cône de 9 m</span> ou dans une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"10\">explosion de 3 m</span>. Les adversaires dans la zone subissent [[/r {6d6}[piercing]]]{6d6 dégâts perforants}. Cela passe à 7d6 au niveau 12, 8d6 au niveau 15 et 9d6 au niveau 18.</p>\n<p><strong>Amélioration</strong> Les projectiles se régénèrent plus rapidement, ils sont beaucoup plus puissants et vous pouvez raffiner le contenu métallique pour nuire à certaines créatures. Vous pouvez utiliser Pluie de carreaux une fois par heure au lieu d'une fois par jour. Les dégâts passent à 12d6 et chaque fois que vous utilisez l'action, vous pouvez choisir adamantium, fer froid ou argent. Les dégâts de Pluie de carreaux sont traités comme du métal que vous avez choisi. Au niveau 20, les dégâts passent à 13d6.</p>",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Durant la journée, votre corps produit de puissants projectiles dans votre chassis. Vous les lancez tous d'un seul coup soit dans un <span data-pf2-effect-area=\"Cone\" data-pf2-distance=\"30\">cône de 9 m</span> ou dans une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"10\">explosion de 3 m</span>. Les adversaires dans la zone subissent [[/r {6d6}[piercing]]]{6d6 dégâts perforants}. Cela passe à 7d6 au niveau 12, 8d6 au niveau 15 et 9d6 au niveau 18.</p>\n<p><strong>Amélioration</strong> Les projectiles se régénèrent plus rapidement, ils sont beaucoup plus puissants et vous pouvez raffiner le contenu métallique pour nuire à certaines créatures. Vous pouvez utiliser Pluie de carreaux une fois par heure au lieu d'une fois par jour. Les dégâts passent à 12d6 et chaque fois que vous utilisez l'action, vous pouvez choisir adamantium, fer froid ou argent. Les dégâts de Pluie de carreaux sont traités comme du métal que vous avez choisi. Au niveau 20, les dégâts passent à 13d6.</p>",
             "prereq": [
                 {
                     "value": "Automate tireur de précision"
@@ -10957,6 +11300,11 @@
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Un allié adjacent et volontaire devrait être réduit à 0 PV mais pas tué.</p>\n<hr />\n<p>Vous aidez physiquement un allié à rester debour et l'encouragez à surmonter leur douleur contre les présagesterribles.</p>\n<p>Votre allié ne sombre pas dans l'inconscience et reste à 1 Point de vie. L'allié obtient aussi un nombre de Points de vie temporaires égal à votre niveau qui dure pendant 1 minute. Continuer à se battre avec une telle blessure n'est pas sans conséquence ; la condition @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Blessé} de votre allié augmente de 1.</p>"
         },
         {
+            "id": "Deadeye",
+            "name": "Deadeye",
+            "description": "<p>Vous détendez vos yeux, captant les moindres mouvements des objets, le remuement de l'herbe et des feuilles et d'autres signes de la présence de choses @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachées}, vous accordant la capacité de localiser les créatures @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{invisibles}. Jusqu'au début de votre prochain tour, vous pouvez voir les créatures et les objets invisibles sous forme de silhouettes définies par le mouvement de l'air, de légères dépressions dans le sol et d'autres indices que des yeux moins attentifs négligeraient, ce qui les rend simplement @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées} à vos yeux.</p>"
+        },
+        {
             "id": "Undead Companion",
             "name": "Undead Companion",
             "description": "<p>Votre compagnon est aussi touché par la mort-vivance, un mélange entre un compagnon traditionnel et un squelette, un zombie ou une forme plus étrange de non vie. Votre compagnon obtient le trait mort-vivant au lieu de celui d'animal et obtient soins négatifs. Il utilise autrement les règles normales pour un compagnon animal ou un familier ; ce qui signifie qu'il peut toujours être affecté par de nombreuses conditions ou effets auxquels la plupart des morts-vivants sont immunisés.</p>",
@@ -11099,12 +11447,17 @@
         {
             "id": "Automaton Armament",
             "name": "Automaton Armament",
-            "description": "<p>Il vous a été fourni une partie de corps conçue pour le combat. Vous obtenez soit une attaque à mains nue de griffe, soit de pince. La griffe inflige [[/r {1d4}[slashing]]]{1d4 dégâts tranchants}, est dans le groupe pugilat, et possède les traits agile, finesse et à mains nues. La pince inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}, est dans le groupe pugilat et a les traits saisir et à mains nues. Votre corps peut être reconfiguré ; vous pouvez choisir ce don à tout niveau et vous pouvez utiliser le réapprentissage de ce don pour le perdre ou le gagner ou pour changer le type d'attaque que vous obtenez.</p>\n<p><strong>Amélioration</strong> Votre partie permettant l'attaque est renforcée. Augmentez le dé de dégâts de l'attaque à mains nues obtenue par ce don d'un degré (le 1d4 devient 1d6 ou le 1d6 devient 1d8).</p>"
+            "description": "<p>Il vous a été ajouté une partie de corps conçue pour le combat. Vous obtenez soit une attaque à mains nue de griffe, soit de pince. La griffe inflige [[/r {1d4}[slashing]]]{1d4 dégâts tranchants}, est dans le groupe pugilat, et possède les traits agile, finesse et à mains nues. La pince inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}, est dans le groupe pugilat et a les traits saisir et à mains nues. Votre corps peut être reconfiguré ; vous pouvez choisir ce don à tout niveau et vous pouvez utiliser le réapprentissage de ce don pour le perdre ou le gagner ou pour changer le type d'attaque que vous obtenez.</p>\n<p><strong>Amélioration</strong> Votre partie permettant l'attaque est renforcée. Augmentez le dé de dégâts de l'attaque à mains nues obtenue par ce don d'un degré (le 1d4 devient 1d6 ou le 1d6 devient 1d8).</p>"
         },
         {
             "id": "Enduring Quickness",
             "name": "Enduring Quickness",
             "description": "<p>Vous vous déplacez aussi vite et aussi haut que le vent. Vous êtes accéléré en permanence.</p>\n<p>Vous pouvez effectuer votre action supplémentaire pour @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marcher rapidement} ou @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bondir} ou pour fournir l’une des actions nécessaires pour @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Sauter en hauteur} ou @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{en longueur}.</p>"
+        },
+        {
+            "id": "Blood in the Air",
+            "name": "Blood in the Air",
+            "description": "<p><strong>Conditions</strong> Un ennemi que vous avez blessé avec une arme à distance au cours de la dernière minute est @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} ou vous est @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché}.</p>\n<hr />\n<p>Une fois que vous avez verrouillé une cible, rien ne peut obscurcir votre visée. Faites une frappe d'arme à distance contre la cible requise. Cette Frappe ignore la condition Masquée de la cible et réduit le test nu pour la condition Cachée de 11 à 5.</p>"
         },
         {
             "id": "Handy with your Paws",
@@ -11135,6 +11488,11 @@
                     "value": "Dévouement de chasseur de fantômes"
                 }
             ]
+        },
+        {
+            "id": "Just the Thing!",
+            "name": "Just the Thing!",
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<hr />\n<p>Vous avez besoin de tenir en équilibre sur un fil, de forcer une porte en fer ou de persuader un dragon de négocier ? N'ayez crainte ! Quelle que soit la situation, vous avez toujours ce qu'il faut. Vous tentez une action de compétence qui nécessite 1 minute ou moins pour être accomplie, en utilisant le même nombre d'actions ou la même durée que d'habitude. Cependant, lorsque vous effectuez l'action, décrivez un dispositif que vous sortez et que vous utilisez pour accomplir l'action. Les détails de cette action sont à votre discrétion, mais ils doivent correspondre au défi à relever. Par exemple, vous pouvez utiliser des stabilisateurs gravitationnels pour tenir en équilibre sur le fil du rasoir, un bélier pour ouvrir une porte en fer ou un dispositif qui produit un arôme capable d'apaiser les Vers pour persuader le dragon. Utiliser une invention de cette manière vous permet de modifier la façon dont vous calculez le test de compétence utilisé dans l'action. Au lieu du modificateur de compétence normal associé à cette action de compétence, vous utilisez votre modificateur d'Artisanat.</p>"
         },
         {
             "id": "Witch's Hut",
@@ -11544,6 +11902,11 @@
             "description": "<p>Vous insérez votre sort dans une graîne. Si votre prochaine action consiste à  @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} qui utilise 1 action ou 2 actions, le sort se plante lui-même dans une case adjacente. Vous devez prendre toutes les décisions concernant le sort au moment où vous le lancez.</p>\n<p>Dans les 10 prochaines minutes, vous pouvez ordonner à votre Sort semé de jaillir et de produire les effets du sort comme s'il s'agissait d'une réaction, laquelle se déclenche lorsqu'une créature entre dans la case du Sort semé ou une case qui lui est adjacente.</p>\n<p>Vous ne pouvez avoir qu'un unique Sort semé au même moment et si vous ne déclenchez pas le sort dans les 10 minutes, il se dissipe et le sort est perdu. Une créature peut remarquer le Sort semé avec un test de Perception réussi contre votre DD de sort.</p>"
         },
         {
+            "id": "Munitions Crafter",
+            "name": "Munitions Crafter",
+            "description": "<p>Les balles et les bombes peuvent être rares dans certaines régions, vous avez donc appris à en fabriquer. Vous devenez qualifié en Artisanat et obtenez la capacité de classe d'alchimiste Réactifs imprégnés, en obtenant un nombre de réactifs quotidiens égaux à votre niveau. Vous obtenez aussi le don @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique} et quatre formules supplémentaires d'objets alchimiques de niveau 1.</p>\n<p>Vous obtenez Réactifs imprégnés (une réserve de réactifs utilisables seulement pour faire des objets alchimiques) et Alchimie avancée (vous permettant de fabriquer des objets alchimiques durant vos préparatifs quotidiens sans avoir à y passer le temps normal). Vous obtenez des lots de Réactifs imprégnés par jour égaux à votre niveau, que vous pouvez utiliser pour créer seulement des bombes ou des munitions alchimiques. Votre niveau d'Alchimie avancée pour les créer est de 1 et n'augmente pas de lui-même. Si vous utilisez un lot de Réactifs imprégnés pour créer des munitions basiques de niveau 0 telles que des cartouches de poudre noire ou des doses de poudre noire, vous produisez 10 cartouches de munition.</p>"
+        },
+        {
             "id": "Hybrid Form",
             "name": "Hybrid Form",
             "description": "<p>Lorsque vous Changez de forme, vous conservez certains éléments de votre forme kitsune, vous permettant de parler sous la forme d'un renard, d'utiliser les attaques à mains nues kitsune dans une forme sans queue ou de gagner une queue sous votre forme sans queue pour pouvoir utiliser des capacités qui en imposent une.</p>\n<p>Vous pouvez changer de forme pour altérer les détails de votre forme hybride sans vous transformer en votre forme réelle ou en une forme alternative. Tant que vous êtes sous forme hybride, vos traits vulpins rendent évidents que vous n'êtes pas un humanoïde normal.</p>"
@@ -11647,6 +12010,16 @@
             "id": "Winglets",
             "name": "Winglets",
             "description": "<p>Vous faites partie du peu de kobolds qui voient grandir une paire d'ailes draconiques plus tard dans la vie. Ces ailes sont initialement courtes et faibles ; insuffisantes pour voler pleinement, à peine un rabat de peau qui vous permet de sauter plus loin.</p>\n<p>Lorsque vous Sautez horizontalement, vous vous déplacez de 1,5 m supplémentaires (cette distance supplémentaire n'est pas cumulable avec la distance de saut augmentée lié au don Bond puissant). Vous n'échouez pas automatiquement à vos tests de Saut en hauteur ou de Saut en longueur si vous ne Marchez pas rapidement d'au moins 3 m. De plus, lorsque vous tentez un Saut en longueur, vous pouvez sauter une distance jusqu'à 3 m plus loin que vous devriez le faire normalement par rapport au résultat de votre test d'Athlétisme, bien que vous ne pouvez pas sauter toujours plus loin que votre Vitesse.</p>"
+        },
+        {
+            "id": "Gigavolt",
+            "name": "Gigavolt",
+            "description": "<p>Lorsque vous déchaînez l'électricité de votre innovation, vous pouvez la faire rebondir sur les obstacles, créant ainsi un champ de mort électrique. Lorsque vous utilisez Mégavolt, chaque fois que votre ligne d'électricité touche une barrière solide, comme un mur, elle rebondit selon un angle de votre choix et continue jusqu'à ce que vous ayez atteint la longueur totale de la ligne. Attention, même si une créature se trouve dans la zone de plusieurs rebonds, elle ne subit les dégâts qu'une seule fois.</p>",
+            "prereq": [
+                {
+                    "value": "Mégavolt"
+                }
+            ]
         },
         {
             "id": "Aggressive Block",
@@ -11864,6 +12237,11 @@
             ]
         },
         {
+            "id": "Two-Weapon Fusillade",
+            "name": "Two-Weapon Fusillade",
+            "description": "<p><strong>Conditions</strong> Vous maniez deux armes, chacune dans une main différente. Au moins une de ces armes doit être une arme à feu chargée ou une arbalète chargée.</p>\n<hr />\n<p>Vous attaquez avec vos deux armes en formant un furieux barrage. Frappez deux fois, une fois avec chaque arme.</p>"
+        },
+        {
             "id": "Extra Squishy",
             "name": "Extra Squishy",
             "description": "<p>Votre physique rebondissant rend plus facile pour vous de vous enfoncer dans des espaces étroites et plus difficile pour vos ennemis de vous en déloger.</p>\n<p>Vous devenez qualifié en Acrobaties. Si vous devriez automatiquement être qualifié en Acrobaties (du fait de votre historique ou de votre classe, par exemple), vous devenez qualifié dans une compétence de votre choix à la place.</p>\n<p>Si vous obtenez un succès pour @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{vous Faufiler}, vous obtenez un succès critique à la place. Lorsque vous vous faufilez, vous obtenez un bonus de circonstances de +4 au DD de vos jets de Vigueur et de Réflexes contre les tentatives de vous @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} ou vous faire bouger de l'espace que vous occupez.</p>",
@@ -11882,6 +12260,11 @@
             "id": "Regrowth",
             "name": "Regrowth",
             "description": "<p>Votre contrôle sur votre essence vitale vous permet ou permet à un allié de récupérer de graves blessures.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.2Vkd1IxylPceUAAF]{Régéneration} au niveau 7 comme un sort inné primordial une fois par jour.</p>"
+        },
+        {
+            "id": "Flesh Wound",
+            "name": "Flesh Wound",
+            "description": "<p>Vous tirez pour vous assurer que même si votre tir ne touche pas proprement, il aboutit quand même assez près pour infliger quelques dégâts. Effectuez une Frappe à distance. Elle gagne l'effet suivant en cas d'échec (mais pas en cas d'échec critique).</p>\n</p><strong>Échec</strong>Bien que votre attaque rate, elle inflige tout de même un dé de dégâts, plus les dégâts de votre capacité de classe Spécialisation d'arme. Cela utilise le dé de dégâts et le type de dégâts normaux de votre arme. Cette attaque n'ajoute pas de dégâts supplémentaires provenant d'autres sources ou capacités.</p>"
         },
         {
             "id": "Sense Evil",
@@ -12192,6 +12575,11 @@
             ]
         },
         {
+            "id": "Dual-Form Weapon",
+            "name": "Dual-Form Weapon",
+            "description": "<p>Vous avez construit votre innovation avec des pièces interchangeables et emboîtables que vous pouvez utiliser pour la transformer en un tout autre type d'arme. Lorsque vous sélectionnez ce don, choisissez une arme simple ou martiale de niveau 0 ou de niveau 1. Il doit s'agir d'une arme courante ou d'une autre arme à laquelle vous avez accès. Cette arme devient la deuxième configuration de votre innovation.</p>\n<p>Sélectionnez un nouvel ensemble de modifications d'armes pour cette nouvelle configuration. Vous pouvez dépenser deux actions Interagir pour échanger la configuration de votre innovation d'arme pour passer de l'une à l'autre. Ces actions n'ont pas besoin d'être consécutives mais si vous avez fourni la première et pas la seconde, l'arme n'est pas fonctionnelle car elle est bloquée entre ses deux états. L'Encombrement de votre arme correspond toujours au plus grand Encombrement des deux configurations, quelle que soit la configuration dans laquelle elle se trouve - si une arme est plus petite que l'autre, vous devez quand même garder toutes les pièces de l'arme à portée de main. Toute rune sur votre innovation d'arme n'affecte pas la seconde configuration de l'arme.</p>"
+        },
+        {
             "id": "Foresee Danger",
             "name": "Foresee Danger",
             "description": "<p><strong>Déclencheur</strong> Une créature vous cible avec une attaque et vous pouvez voir l'attaquant.</p>\n<hr />\n<p>Vous percevez toutes les façons possibles dont les attaques de votre adversaire pourraient porter et tentez de les éviter toutes.</p>\n<p>Le jet de l'attaque déclencheuse se fait contre votre DD de Perception au lieu de votre CA. Bien que cela vous permette d'éviter de subir les pénalités à votre CA, cela n'a pas pour effet de retirer toute condition ou effet qui causent de telles pénalités.</p>\n<p>Par exemple, un ennemi avec @Compendium[pf2e.classfeatures.j1JE61quDxdge4mg]{Attaque sournoise} vous infligera toujours des dégâts supplémentaires lorsque vous êtes @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}, même si vous ne subissez pas la pénalité de circonstances de –2 lorsque vous vous défendez contre l'attaque.</p>"
@@ -12464,6 +12852,16 @@
             "id": "Loyal Empath",
             "name": "Loyal Empath",
             "description": "<p>Vous avez une empathie incroyable pour vos amis et votre famille et vous possédez un don inné pour aider ceux qui sont en détresse.</p>\n<p>Vous pouvez utiliser la réaction @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} pour accorder à une autre créature un bonus à un jet de Volonté. Comme d'habitude pour Aider, vous avez besoin de vous préparer en utilisant une action à votre tour pour encourager la créature à bravement surmonter l'effet.</p>"
+        },
+        {
+            "id": "Blast Tackle",
+            "name": "Blast Tackle",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arbalète à deux mains ou une arme à feu qui possède le trait recul ou dispersion.</p>\n<hr />\n<p>Vous vous jetez sur un ennemi, en arc-boutant votre arme contre lui et en la rapprochant avant de libérer un tir destructeur. Tentez de @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} ; si vous maniez votre arme à deux mains, vous relâchez une main pour le faire. Si vous réussissez à le saisir, vous pouvez immédiatement faire une Frappe à la cible aggrippée avec l'arme requise, même si votre arme est une arme à deux mains. Cette frappe inflige [[/r {3d6}[precision]]]{3d6 dégâts de précision} supplémentaires. Tant que la créature reste agrippée ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravée}, vous pouvez utiliser une seule main pour recharger l'arme et faire une Frappe à cette créature avec.</p>",
+            "prereq": [
+                {
+                    "value": "voie de l'avant-garde"
+                }
+            ]
         },
         {
             "id": "Stealthy Companion",
@@ -13437,6 +13835,11 @@
             ]
         },
         {
+            "id": "Deflecting Shot",
+            "name": "Deflecting Shot",
+            "description": "</p><strong>Déclencheur</strong> Un allié se trouvant dans le premier facteur de portée de votre arme à feu ou arbalète est touché par une attaque et vous pouvez voir l'attaquant.</p>\n</p><strong>Conditions</strong> Vous maniez une arme à feu ou une arbalète chargée.</p>\n<hr />\n<p>Vous êtes toujours prêt à effectuer un tir rapide pour dévier une arme ou distraire suffisamment un ennemi pour le faire dévier de sa cible. L'allié gagne un bonus de circonstances de +2 à sa CA contre l'attaque déclenchante. Vous utilisez cette réaction après que le résultat du jet d'attaque est révélé, de sorte que vous savez si le +2 fera une différence suffisante.</p>"
+        },
+        {
             "id": "Arrow of Death",
             "name": "Arrow of Death",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous modifiez une flèche ou un carreau pour porter la mort à votre cible en un unique tir puissant. Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} à l'arc. Si vous touchez, vous infligez 10d10 dégâts de précision supplémentaires. En cas de coup critique, la cible doit également réussir un test de Vigueur contre le plus élevé entre votre DD de classe et votre DD de sort ou être immédiatement tuée ; ce jet possède le trait mort et mise hors de combat.</p>",
@@ -13445,6 +13848,11 @@
                     "value": "Dévouement d'Archer mystique"
                 }
             ]
+        },
+        {
+            "id": "Penetrating Fire",
+            "name": "Penetrating Fire",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu chargée ou une arbalète.</p>\n<hr />\n<p>Vous propulsez une balle qui passe à travers un ennemi pour aller dans un autre. Choisissez deux cibles, dont l'une donnerait à l'autre un abri inférieur contre vos attaques à distance. Effectuez une seule frappe à distance avec l'arme requise contre les deux cibles. Cette attaque ignore tout abri inférieur que la cible la plus proche offre à l'autre. Ne lancez les dégâts qu'une seule fois et appliquez-les à chaque créature que vous touchez. Tir pénétrant compte comme deux attaques pour calculer votre pénalité d'attaques multiples.</p>"
         },
         {
             "id": "Celestial Wings",
@@ -14173,6 +14581,16 @@
             ]
         },
         {
+            "id": "Sniper's Aim",
+            "name": "Sniper's Aim",
+            "description": "<p>Vous prenez un moment supplémentaire pour synchroniser soigneusement votre visée et votre respiration, puis vous tirez avec une grande précision. Effectuez une Frappe avec une arme à distance. Vous obtenez un bonus de circonstances de +2 au jet d'attaque de cette frappe et ignorez le camouflage de la cible. Si vous utilisez une arme à feu avec le trait recul, vous ne subissez pas la pénalité de circonstances habituelle sur cette Frappe si vous n'avez pas le score de Force requis ou si vous tirez sans utiliser de stabilisateur.</p>",
+            "prereq": [
+                {
+                    "value": "Voie du tireur d'élite"
+                }
+            ]
+        },
+        {
             "id": "Quick Reversal",
             "name": "Quick Reversal",
             "description": "<p><strong>Conditions</strong> Deux ennemis au moins vous prennent en tenaille.</p>\n<hr />\n<p>Vous retournez l’avantage de la prise en tenaille de vos ennemis contre eux d’un rapide revirement de position. Faites une Frappe au corps à corps contre l’un des ennemis qui vous prend en tenaille et faites une deuxième Frappe avec la même arme ou avec une attaque à mains nues contre un ennemi différent qui vous prend lui aussi en tenaille. Cette deuxième Frappe a le même malus d’attaques multiples que la première attaque et ne compte pas dans le calcul de votre malus d’attaques multiples.</p>"
@@ -14277,6 +14695,11 @@
             ]
         },
         {
+            "id": "Ricochet Shot",
+            "name": "Ricochet Shot",
+            "description": "<p>Vous faites rebondir votre tir sur une surface proche pour frapper votre adversaire depuis un angle inattendu. Lorsque vous déterminez si une cible est à l'abri de votre attaque à distance avec une arme à feu ou une arbalète, vous pouvez choisir une surface solide dans le premier facteur de portée de votre arme pour faire ricocher votre tir. Si vous le faites, vous déterminez l'abri de la cible à partir du point où vous faites ricocher votre tir plutôt qu'en partant de vous.</p>"
+        },
+        {
             "id": "Bouncy Goblin",
             "name": "Bouncy Goblin",
             "description": "<p>Vous jouissez d'une élasticité particulière qui vous permet de rebondir ou de vous faufiler facilement. Vous êtes qualifié en Acrobaties (ou une autre compétence de votre choix, si vous étiez ddéjà qualifié en Acrobaties). Vous obtenez aussi un bonus de circonstances de +2 circumstance aux tests d'Acrobaties pour effectuer un Déplacement acrobatique pour tenter de traverser l'espace occupé par un adversaire.</p>",
@@ -14353,6 +14776,16 @@
             "prereq": [
                 {
                     "value": "Dévouement d'étudiant en perfection"
+                }
+            ]
+        },
+        {
+            "id": "Phalanx Breaker",
+            "name": "Phalanx Breaker",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu à deux mains ou une arbalète à deux mains.</p>\n<hr />\n<p>Vous savez que pour détruire une formation ennemie, vous devez percer un trou en son centre. Faites une Frappe à distance avec l'arme requise dans son premier facteur de portée. La cible est directement projetée en arrière de 3 mètres (6 mètres en cas de coup critique) et si cela pousse la cible dans un obstacle, la cible subit des dégâts contondants égaux à la moitié de votre niveau.</p>",
+            "prereq": [
+                {
+                    "value": "Voie de l'avant garde"
                 }
             ]
         },
@@ -14704,6 +15137,16 @@
             ]
         },
         {
+            "id": "Advanced Construct Companion",
+            "name": "Advanced Construct Companion",
+            "description": "<p>Vous avez amélioré la puissance et la capacité de décision de votre compagnon créature artificielle. Il devient un compagnon créature artificielle avancé. Au cours d'une rencontre, même si vous n'utilisez pas l'action Commander un sbire, votre compagnon créature artificielle peut toujours utiliser 1 action durant votre tour de jeu pendant votre round pour Marcher rapidement ou Frapper.</p>",
+            "prereq": [
+                {
+                    "value": "compagnon prototype"
+                }
+            ]
+        },
+        {
             "id": "Offensive Subroutine",
             "name": "Offensive Subroutine",
             "description": "<p>Les nanites augmentent vos attaques. Vous pouvez choisir d'activer @Compendium[pf2e.feats-srd.JS24EjgLYcHB9E3T]{Poussée nanite} lorsque vous tentez un jet d'attaque, au lieu de tenter un test de compétence. Si vous le faites, vous obtenez un bonus de statut de +1 au jet d'attaque déclencheur.</p>",
@@ -14846,6 +15289,11 @@
                     "value": "Maître des postures"
                 }
             ]
+        },
+        {
+            "id": "Hit the Dirt!",
+            "name": "Hit the Dirt!",
+            "description": "<p><strong>Déclencheur</strong> Une créature que vous pouvez voir tente une Frappe à distance contre vous.</p>\n<hr />\n<p>Vous vous placez hors du danger. Vous @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bondissez}. Votre déplacement vous donne un bonus de circonstances de +2 à la CA contre l'attaque déclencheuse. Que l'attaque déclencheuse vous touche ou pas, vous vous retrouvez @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} après avoir achevé votre Bond.</p>"
         },
         {
             "id": "Enlightened Presence",
@@ -15140,6 +15588,11 @@
             "description": "<p><strong>Conditions</strong> Vous maniez un bouclier</p>\n<hr />\n<p>Après avoir pris quelques instants pour prendre cette posture, votre bouclier est toujours en position sans même y penser. Tant que vous gardez cette posture, votre bouclier est constamment levé, comme si vous aviez utilisé l’action @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Lever un bouclier}, aussi longtemps que vous remplissez les conditions de cette action.</p>"
         },
         {
+            "id": "Shattering Shot",
+            "name": "Shattering Shot",
+            "description": "<p><strong>Conditions</strong>Vous maniez une arme à feu ou une arbalète chargée et vous portez ou tenez une bombe alchimique.</p>\n<hr />\n<p>Vous lancez une bombe en l'air puis vous tirez dessus avec votre arme à feu avant qu'elle ne retombe, faisant pleuvoir la destruction sur une zone élargie. Si nécessaire, vous interagissez pour tirer la bombe et recharger votre arme. Vous lancez votre bombe vers le coin d'une carse située dans le premier facteur de portée de votre arme à feu et tirez dessus avec votre arme à feu. Toutes les créatures se trouvant dans une <span data-pf2-effect-area=\"burst\" data-pf2-distance=\"15\" data-pf2-traits=\"franc-tireur\">explosion de 4,5 mètres</span> de la bombe subissent les dégâts normaux de la bombe avec une jet de Réflexes basique contre votre DD de classe. Ils ne subissent pas les dégâts d'éclaboussures ou persistants que la bombe infligerait normalement.</p>"
+        },
+        {
             "id": "Shadow Sneak Attack",
             "name": "Shadow Sneak Attack",
             "description": "<p>Vous obtenez la capacité de classe @Compendium[pf2e.classfeatures.j1JE61quDxdge4mg]{Attaque sournoise}, sauf que vous infligez <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"précision\" data-formula=\"1d6\" title=\"précision\"><i class=\"fas fa-dice-d20\"></i> 1d6</a> dégâts de précision quel que soit votre niveau.</p>\n<p>L'attaque sournoise issue de plusieurs sources n'est pas cumulative. Si vous possédez une attaque sournoise de plus d'une source, utilisez seulement le plus haut nombre de dé lorsque vous portez une attaque sournoise au lieu d'ajouter les montants les uns aux autres.</p>",
@@ -15200,12 +15653,27 @@
             ]
         },
         {
+            "id": "Perfect Readiness",
+            "name": "Perfect Readiness",
+            "description": "<p>Vous vous préparez à tirer avec une vitesse instinctive et une mémoire musculaire qui vont au-delà de vos pensées conscientes. Vous êtes en permanence @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accéléré}. Vous ne pouvez utiliser votre action supplémentaire que pour Faire un pas ou Interagir pour recharger.</p>"
+        },
+        {
             "id": "Dragon's Breath",
             "name": "Dragon's Breath",
             "description": "<p>Vous pouvez placer davantage d'énergie dans votre Souffle de kobold pour canaliser plus de pouvoir draconique mais cela vous demande davantage d'efforts.</p>\n<p>Lorsque vous utilisez Souffle de kobold, vous pouvez faire passer le dé de dégâts à des d8 et vous pouvez augmenter la portée à 18 m si votre souffle est une ligne ou à 9 m si votre souffle est un cône. Lorsque vous choisissez de le faire, vous ne pouvez plus utiliser Souffle du kobold pendant 1 heure.</p>",
             "prereq": [
                 {
                     "value": "Souffle de kobold"
+                }
+            ]
+        },
+        {
+            "id": "Lock On",
+            "name": "Lock On",
+            "description": "<p>Ah ! Vous vous verrouillez sur le point faible de votre ennemi pour aider votre compagnon créature artificielle à le détruire. Lorsque vous verrouillez, désignez un ennemi que vous pouvez voir. Si votre prochaine action est de Diriger votre créature artificielle, celle-ci obtient un bonus de circonstances de +2 aux jets d'attaque contre l'ennemi désigné jusqu'à la fin du tour. Si vous utilisez 2 actions pour le Diriger, le bonus est plutôt de +3 ou un bonus de circonstances de +4 si vous êtes légendaire en Artisanat.</p>",
+            "prereq": [
+                {
+                    "value": "Innovation de créature artificielle"
                 }
             ]
         },
@@ -15594,6 +16062,11 @@
             ]
         },
         {
+            "id": "Deep Freeze",
+            "name": "Deep Freeze",
+            "description": "<p>Vous évacuez un jet de fluide super refroidi de votre innovation, en infligeant des dégâts à un ennemi tout en le ralentissant. Ciblez une créature dans un rayon de 18 mètres. Cette créature subit des dégâts de froid égaux à votre niveau, dont les effets dépendent de son jet de Réflexes.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible subit la moitié des dégâts et une pénalité de statut de -1,5 mètres à ses Vitesses pendant 1 round.</p>\n<p><strong>Échec</strong> La cible subit la totalité des dégâts et une pénalité de statut de -3 mètres à ses Vitesses pendant 1 round.</p>\n<p><strong>Echec critique</strong> La cible subit des dégâts doublés, est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 pendant 1 round et subit une pénalité de statut de -4,5 mètres à ses Vitesses pendant 1 round.</p>\n<hr />\n<p><strong>Fonction instable</strong> Votre innovation déverse un énorme cône de fluide super refroidi, provoquant potentiellement des pannes en cascade. Ajoutez le trait Instable à Congélation profonde. Cette capacité affecte toutes les créatures situées dans un cône de <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"60\" data-pf2-traits=\"cold,inventor,manipulate\">18 mètres</span> au lieu d'une cible unique et elle inflige des dégâts de froid égaux au double de votre niveau au lieu d'être égaux à votre niveau.</p>\n<p>Si vous disposez de la capacité de classe Innovation révolutionnaire, vous pouvez choisir entre un cône de <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"60\" data-pf2-traits=\"cold,inventor,manipulate\">18 mètres</span> ou un cône de <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"90\" data-pf2-traits=\"cold,inventor,manipulate\">27 mètres</span> lorsque vous utilisez Congélation instable. </p>\n<hr />\n<p><strong>Spécial</strong> Si votre innovation est un sbire, il peut effectuer cette action à votre place.</p>"
+        },
+        {
             "id": "Shared Prey",
             "name": "Shared Prey",
             "description": "<p>Lorsque vous chassez en duo, vous et votre allié pouvez tous deux pourchasser la même proie. Quand vous Chassez une proie et désignez une seule proie, vous pouvez conférer les avantages de Chasser une proie et de votre spécialité du chasseur à un allié, en plus d’en bénéficier vous‑même. L’allié bénéficie de ces avantages jusqu’à ce que vous utilisez à nouveau Chasser une proie.</p>\n<ul>\n<li>@Compendium[pf2e.feat-effects.uXCU8GgriUjuj5FV]{Effet: Spécialité du Chasseur, Déluge}</li>\n<li>@Compendium[pf2e.feat-effects.mNk0KxsZMFnDjUA0]{Effet: Spécialité du Chasseur, Précision}</li>\n<li>@Compendium[pf2e.feat-effects.ltIvO9ZQlmqGD89Y]{Effet: Spécialité du Chasseur, Ruse}</li>\n</ul>",
@@ -15721,6 +16194,16 @@
             "prereq": [
                 {
                     "value": "expert en Survie"
+                }
+            ]
+        },
+        {
+            "id": "Electrify Armor",
+            "name": "Electrify Armor",
+            "description": "<p><strong>Conditions</strong> Vous portez votre innovation d'armure. Vous électrifiez votre armure pour punir les ennemis qui osent vous attaquer. Pendant 1 round, toute créature qui vous touche ou qui vous frappe avec une attaque de corps-à-corps à mains nues ou une attaque avec une arme de corps-à-corps sans allonge, subit [[/r {1d4}[electricity]]]{1d4 dégâts d'électricité}. L'effet prend fin si vous cessez de porter votre innovation d'armure.</p>\n<p>Si vous possédez la capacité de classe Innovation révolutionnaire, les dégâts passent à [[/r 2d4]]{2d4}.</p>\n</p><strong>Fonction instable</strong> Vous créez une réaction en chaîne instable, envoyant d'innombrables étincelles danser sur votre armure. Ajoutez le trait Instable à Armure électrifiée. Les effets durent 1 minute au lieu d'un round et les dés de dégâts passent du d4 au d12.</p>",
+            "prereq": [
+                {
+                    "value": "Innovation d'armure"
                 }
             ]
         },
@@ -15916,6 +16399,11 @@
             "id": "Animal Senses (Darkvision)",
             "name": "Animal Senses (Darkvision)",
             "description": "<p>Vous obtenez le sens suivant accessible à votre animal intérieur : @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} Vous devez avoir vision nocturne avant de pouvoir obtenir Vision dans le noir avec ce don. Si votre animal intérieur n'a pas ce type spécifique de sens, vous ne pouvez pas obtenir ce sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don à plusieurs reprises, en choisissant un sens différent à chaque fois.</p>"
+        },
+        {
+            "id": "You Failed to Account For... This!",
+            "name": "You Failed to Account For... This!",
+            "description": "</p><strong>Déclencheur</strong> Une créature que vous pouvez voir vous cible avec une attaque contre votre CA.</p>\n<hr />\n<p>Lorsque vos ennemis tentent de vous attaquer, vous semblez toujours avoir une invention farfelue que vous pouvez sortir à la dernière seconde pour vous protéger de l'attaque qu'ils vous lancent. Décrivez un dispositif que vous tentez d'utiliser pour vous protéger de l'attaque de l'ennemi - par exemple, lorsque vous êtes attaqué par la Frappe d'arc de foudre d'un Lézard électrique, vous pourriez sortir un paratonnerre spécialement raccordé à la terre, la fois où vous avez tenté d'alimenter une invention en exploitant un orage ! Utiliser une invention pour se défendre de cette façon signifie que le jet d'attaque de l'attaque déclencheuse cible votre DD d'Artisanat au lieu de votre CA.</p>\n<p>Puisque vous utilisez votre DD d'Artisanat au lieu de votre CA, les pénalités à votre CA ne s'appliquent pas, mais cela ne supprime pas les conditions ou les autres effets qui vous causent de telles pénalités. Par exemple, si vous étiez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} et que vous utilisez une invention pour vous défendre contre une attaque sournoise, vous subirez quand même les dégâts de précision supplémentaires si vous êtes touché, même si la pénalité de -2 à la CA due au fait que vous êtes Pris au dépourvu ne s'appliquerait pas à votre DD d'Artisanat.</p>"
         },
         {
             "id": "Forensic Acumen",
@@ -16135,6 +16623,16 @@
             ]
         },
         {
+            "id": "Boost Modulation",
+            "name": "Boost Modulation",
+            "description": "<p>Vous n'étiez pas satisfait de devoir vous en tenir à un seul type de renfort grâce à bricolages perpétuels et vous avez appris à moduler entre plusieurs possibilités à la fois. Choisissez deux renforts offensifs supplémentaires. Vous pouvez utiliser une action Interagir pour changer le renfort offensif qui affecte actuellement votre arme, en choisissant entre celui que vous avez choisi pour la capacité de classe et les deux que vous avez choisis pour cette modification. Si votre arme possède le trait Polyvalent, vous pouvez échanger le renfort offensif pendant l'action Interagir que vous effectuez pour utiliser ce trait.</p>",
+            "prereq": [
+                {
+                    "value": "Renfort offensif"
+                }
+            ]
+        },
+        {
             "id": "Demanding Challenge",
             "name": "Demanding Challenge",
             "description": "<p>Si votre test de compétence pour défier un adversaire est un succès, la cible de votre défi subit une pénalité de circonstance de –1 à ses jets d'attaque (ou –2 si vous obtenez une réussite critique) jusqu'à la fin de votre prochain tour.</p>",
@@ -16290,6 +16788,11 @@
             "description": "<p>Le feu vous fascine. Vos sorts et objets alchimiques qui infligent des dégâts de feu gagnent un bonus de statut aux dégâts égal à la moitié du niveau du sort ou à un quart du niveau de l’objet (avec un minimum de 1). Vous gagnez également un bonus de statut de +1 à tous les dégâts de feu persistants que vous infligez.</p>"
         },
         {
+            "id": "Instant Backup",
+            "name": "Instant Backup",
+            "description": "<p><strong>Déclencheur</strong> Votre attaque avec une arme à feu a des ratés.</p>\n<hr />\n<p>Même lorsque votre arme à feu a des ratés, vous sortez rapidement une arme de rechange. Relâcchez l'arme qui a des ratés si vous le souhaitez et Interagissez pour dégainer une arme à une main.</p>"
+        },
+        {
             "id": "Squawk!",
             "name": "Squawk!",
             "description": "<p><strong>Déclencheur</strong> Vous obtenez un échec critique à un test de Duperie, de Diplomatie ou d'Intimidation contre une créature qui ne possède par le trait tengu.</p>\n<hr />\n<p>Vous vous laissez aller à pousser un horrible croassement, à faire gonfler vos plumes ou à simuler une autre attitude d'oiseau pour couvrir un faux pas social. Vous obtenez un échec au test déclencheur au lieu d'un échec critique. Toutes les créatures qui ont été les témoins de votre cri sont temporairement immunisées pendant 24 heures.</p>"
@@ -16307,7 +16810,7 @@
         {
             "id": "Advanced Domain",
             "name": "Advanced Domain",
-            "description": "<p>Vos études et prières vous ont permis de percer des secrets plus intimes du domaine de votre divinité. Vous gagnez un sort de domaine avancé de l’un de vos domaines. Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, vous devez choisir un sort de domaine avancé différent, issu d’un domaine dont vous possédez déjà le sort initial</p>",
+            "description": "<p>Vos études et prières vous ont permis de percer des secrets plus intimes du domaine de votre divinité. Vous gagnez un sort de domaine avancé de l’un de vos domaines. Augmentez de 1 le nombre de points de focalisation de votre réserve.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don plusieurs fois. À chaque fois, vous devez choisir un sort de domaine avancé différent, issu d’un domaine dont vous possédez déjà le sort initial.</p>",
             "prereq": [
                 {
                     "value": "Initié du domaine"
@@ -16845,6 +17348,16 @@
             "description": "<p>Toujours attentif, vous @Compendium[pf2e.actionspf2e.kV3XM0YJeS2KCSOb]{Reconnaissez} les dangers même lorsque vous tentez de rester caché. Vous pouvez accomplir l'activité d'exploration Reconnaître en même temps que vous utilisez l'activité d'exploration @Compendium[pf2e.actionspf2e.IE2nThCmoyhQA0Jn]{Échapper aux regards}.</p>"
         },
         {
+            "id": "Contingency Gadgets",
+            "name": "Contingency Gadgets",
+            "description": "<p>Vous êtes trop brillant pour être pris au dépourvu et vous avez toujours le gadget idéal pour la situation. Lorsque vous préparez vos gadgets au cours de vos préparatifs quotidiens, vous pouvez choisir d'en laisser un comme gadget de secours que vous gardez prêt juste pour cette situation, plutôt que de déclarer quel gadget vous fabriquez. Vous pouvez sortir le gadget de secours à l'aide d'une action Interagir, pour dire à ce moment, quel gadget vous aviez préparé en cas d'imprévu.</p>\n<p>Si vous êtes légendaire en Artisanat, vous pouvez laisser deux gadgets de secours lors de vos préparatifs quotidiens, au lieu d'un seul.</p>",
+            "prereq": [
+                {
+                    "value": "Spécialiste des gadgets"
+                }
+            ]
+        },
+        {
             "id": "Interweave Dispel",
             "name": "Interweave Dispel",
             "description": "<p>Vous tissez de l’énergie dissipatrice dans un sort pour projeter les deux effets en même temps sur un adversaire. Si votre prochaine action consiste à Lancer un sort à cible unique contre une créature et que vous la touchez avec un jet d’attaque de sort ou qu’elle rate son jet de sauvegarde, vous pouvez lancer Dissipation de la magie sur elle par une action gratuite, en dépensant un emplacement de sort comme à l’accoutumée et en ciblant un effet de sort qui l’affecte.</p>",
@@ -16858,6 +17371,11 @@
             "id": "Orc Lore",
             "name": "Orc Lore",
             "description": "<p>Les anciens vous ont appris les histoires de votre peuple, vous ont raconté des histoires de grand dons athlétiques et partagé avec vous les difficultés que vos ancêtres ont surmonté de manière à ce que vous puissiez transmettre cette sagesse aux générations suivantes.</p>\n<p>Vous devenez qualifié en Athlétisme et en Survie. Si vous devriez être automatiquement qualifié dans l'une de ces compétences (par votre historique ou votre classe, par exemple), vous devenez qualifié dans une autre compétence de votre choix. Vous devenez aussi qualifié en Connaissance des orques.</p>"
+        },
+        {
+            "id": "Defensive Armaments",
+            "name": "Defensive Armaments",
+            "description": "<p>Vous utilisez des armes à feu ou des arbalètes volumineuses pour protéger votre corps des attaques de vos ennemis. Toutes les armes à feu à deux mains et les arbalètes à deux mains que vous portez gagnent le trait Parade. Si une arme appropriée possède déjà le trait Parade, le bonus de circonstances à la CA qu'elle confère lorsqu'elle est utilisée pour parer passe de +1 à +2.</p>"
         },
         {
             "id": "Ceaseless Shadows",
@@ -16935,6 +17453,16 @@
             "description": "<p>Vous vous êtes familiarisé avec une arme spécifique, qui peut être liée à une autre ascendance ou culture. Choisissez une arme simple ou de guerre peu courante avec le trait correspondant à une ascendance (comme nain, gobelin ou orc) ou qui est fréquemment utilisée dans une autre culture. Vous avez accès à cette arme et, afin d’en déterminer votre maîtrise, vous la considérez comme une arme simple. Si vous êtes qualifié avec toutes les armes de guerre, vous pouvez choisir une arme évoluée peu courante avec ce trait. Vous avez accès à cette arme et, afin d’en déterminer votre maîtrise, vous la considérez comme une arme de guerre.</p>"
         },
         {
+            "id": "Paragon Companion",
+            "name": "Paragon Companion",
+            "description": "<p>Votre compagnon créature artificielle a atteint le summum de la forme et de la fonction. Votre compagnon créature artificielle devient un parangon compagnon créature artificielle.</p>",
+            "prereq": [
+                {
+                    "value": "Compagnon créature artificielle formidable"
+                }
+            ]
+        },
+        {
             "id": "Perfect Finisher",
             "name": "Perfect Finisher",
             "description": "<p>Vous concentrez votre panache en un assaut impeccable. Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe}, en lançant deux fois le jet d'attaque et en utilisant le meilleur résultat.</p>"
@@ -16948,6 +17476,11 @@
                     "value": "Dévouement de Sentinelle"
                 }
             ]
+        },
+        {
+            "id": "Variable Core",
+            "name": "Variable Core",
+            "description": "<p>Vous ajustez le noyau de votre innovation, modifiant ainsi la façon dont elle explose. Lorsque vous choisissez ce don, sélectionnez l'acide, l'électricité ou le froid. Le noyau de votre innovation fonctionne avec cette source d'énergie. Lorsque vous utilisez l'action Exploser ou à chaque fois que votre innovation explose sur un échec critique et vous inflige des dégâts, changez le type de dégâts de feu pour le type que vous avez choisi.</p>\n<p>Si vous possédez la capacité de classe Renfort offensif et que vous convertissez le Noyau alternatif pour un type de dégâts différent, vous pouvez également échanger pour un autre Renfort offensif qui inflige le même type de dégâts si vous le souhaitez.</p>"
         },
         {
             "id": "Arcane Eye",
@@ -17362,6 +17895,11 @@
             "description": "<p>(Druide) D’un geste complexe, vous manipulez la puissance primordiale de votre sort pour surmonter les résistances de vos ennemis.</p>\n<p>(Ensorceleur) Vous altérez vos sorts pour surpasser les résistances.</p>\n<p>(Magicien) Avec un geste compliqué, vous altérez l'énergie de votre sort pour sumonter les résistances.</p>\n<hr />\n<p>Si votre prochaine action consiste à Lancer un sort, ce dernier ignore chez la cible un nombre de points de résistance à l’acide, au froid, à l’électricité, au feu ou au son égal à votre niveau. Cela s’applique à tous les dégâts qu’inflige le sort, y compris les dégâts persistants et ceux causés par un effet continu du sort, comme le mur créé par Mur de feu. Cela n’affecte pas les immunités d’une créature.</p>"
         },
         {
+            "id": "Prototype Companion",
+            "name": "Prototype Companion",
+            "description": "<p>Vous avez créé un compagnon créature artificielle et bien qu'il ne soit pas forcément une innovation, il sert de serviteur digne de confiance. Vous gagnez un compagnon créature artificielle prototype.</p>"
+        },
+        {
             "id": "Preemptive Reconfiguration",
             "name": "Preemptive Reconfiguration",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous devriez subir des dégâts contondants, perforants ou tranchants.</p>\n<hr />\n<p>Votre corps anticipe le coup. La zone d'impact se réorganise en un treillage tissé renforcé qui amortit l'attaque.</p>\n<p>Vous obtenez une résistance égale à votre niveau pour le type de dégât déclencheur, qui s'applique contre les dégâts déclencheurs.</p>\n<p>Si vous avez le don @Compendium[pf2e.feats-srd.Ewk7h9aQpKvy1RJo]{Poussière cristalline}, vous pouvez utiliser Reconfiguration préemptive sans dépenser une utilisation de la réaction pour les besoins de calculer la limite d'utilisation du don. Au lieu de cela, l'utilisation est décomptée de votre nombre d'utilisations de Poussière cristalline par jour, comme si vous aviez utilisé ce don à la place.</p>"
@@ -17483,6 +18021,16 @@
             ]
         },
         {
+            "id": "Warning Shot",
+            "name": "Warning Shot",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu chargée.</p>\n<hr />\n<p>Qui a besoin de mots quand le rugissement d'une arme à feu est tellement plus succinct ? Vous tentez de @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} un ennemi en tirant en l'air, en utilisant la portée maximale de l'arme à feu plutôt que la portée habituelle de 9 mètres. Ce test ne subit pas la pénalité de circonstance de -4 si la cible ne partage pas de langue avec vous.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Intimidation"
+                }
+            ]
+        },
+        {
             "id": "Focus Ally",
             "name": "Focus Ally",
             "description": "<p><strong>Déclencheur</strong> Un allié adjacent obtient un échec, mais pas un échec critique, à un jet de sauvegarde contre un effet avec le trait Mise hors de combat.</p>\n<hr />\n<p>Vous vous concentrez sur vos alliés et vous pouvez les aider à se recentrer quand quelque chose les mettrait hors combat. Votre allié relance le jet de sauvegarde échoué. Cet allié doit prendre ce deuxième résultat.</p>",
@@ -17496,6 +18044,16 @@
             "id": "Conceal Spell",
             "name": "Conceal Spell",
             "description": "<p>Vous dissimulez vos gestes et incantations dans votre discours et vos mouvements, afin de cacher le fait que vous @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancez un sort}.</p>\n<p>Si votre prochaine action consiste à Lancer un sort, faites un test de Discrétion contre le DD de Perception d’un ou plusieurs observateurs. Si le sort possède un composant verbal, vous devez aussi faire un test de Duperie contre le DD de Perception des observateurs. Si vous réussissez votre ou vos tests contre le DD d’un observateur, ce dernier ne remarque pas que vous lancez un sort, bien que les composants matériels, somatiques et verbaux se voient d’ordinaire et que les sorts aient généralement des manifestations sensorielles qui rendent l’incantation évidente aux spectateurs.</p>\n<p>Ce pouvoir cache uniquement les actions d’incantation et la manifestation du sort, pas ses effets. Un observateur verra tout de même le rayon qui part de vous ou vous verra disparaître.</p>"
+        },
+        {
+            "id": "Ricochet Master",
+            "name": "Ricochet Master",
+            "description": "<p>Vous avez l'œil pour les angles et pouvez trouver des trajectoires de tirs que les autres croient impossibles. Lorsque vous utilisez Tir ricochet, vous pouvez faire rebondir votre balle sur deux surfaces solides au maximum dans le premier facteur de portée de votre arme, au lieu d'une seule.</p>\n<p>En outre, une créature est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} la première fois que vous l'attaquez avec un Tir ricochet au cours d'une rencontre.</p>",
+            "prereq": [
+                {
+                    "value": "Tir ricochet"
+                }
+            ]
         },
         {
             "id": "Catfolk Weapon Rake",
@@ -18093,6 +18651,11 @@
             ]
         },
         {
+            "id": "Twin Shot Knockdown",
+            "name": "Twin Shot Knockdown",
+            "description": "</p><strong>Conditions</strong> Vous maniez une arbalète chargée ou une arme à feu chargée dans chaque main.</p>\n<hr />\n<p>Vous tirez sur un ennemi en visant une partie de son anatomie qui perturbera son équilibre. Effectuez deux Frappes contre la même cible, une avec chacune des armes requises. Si les deux frappes sont réussies, la cible est également mise @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
+        },
+        {
             "id": "Ephemeral Tracking",
             "name": "Ephemeral Tracking",
             "description": "<p>Vous êtes capable de pister votre proie au travers de lieux impossibles. Vous obtenez le sort de gardien @Compendium[pf2e.spells-srd.QpjHqxwTGdILLvjD]{Pistage éphémère}. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.</p>",
@@ -18350,6 +18913,11 @@
             "description": "<p>Plus votre connexion avec l'eau s'amplifie, mieux vous pouvez voir dans des lieux à faible luminosité, comme les profondeurs de l'océan. Vous gagnez l'aptitude @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous gagnez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance possède déjà l'aptitude de vision nocturne.\n<hr />\n<p><strong>Spécial</strong> Si votre ascendance n'a ni l'aptitude de vision nocturne ni celle de vision dans le noir, vous pouvez choisir ce don ancestral une seconde fois pour gagner la vision dans le noir. Vous ne pouvez pas réapprendre ce don.</p>"
         },
         {
+            "id": "Megavolt",
+            "name": "Megavolt",
+            "description": "<p>Vous évacuez un peu d'énergie électrique de votre innovation sous la forme d'un éclair destructeur. Chaque créature dans une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"20\">ligne de 6 mètres</span> subit [[/r {3d4}[electricity]]]{3d4 dégâts d'électricité} avec un jet de Réflexes basique avec un DD égal à votre niveau de classe. Les dégâts d'électricité augmentent de 1d4 au niveau 8 puis tous les deux niveaux après çà.</p>\n<p><strong>Fonction instable</strong> Vous surchargez et survoltez davantage votre innovation. Ajoutez le trait Instable à Mégavolt. La zone augmente et devient une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 mètres</span> et les dégâts passent d'un d4 à un d12. Si vous avez la capacité de classe Innovation de rupture, vous pouvez choisir entre votre ligne de 18 mètres ou une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"90\">ligne de 27 mètres</span> en tant que zone où utiliser votre Mégavolt instable ; si vous avez aussi la capacité de classe Innovation révolutionnaire, vous pouvez choisir entre une ligne de 12 mètres, de 27 mètres ou de <span data-pf2-effect-area=\"line\" data-pf2-distance=\"120\">36 mètres</span>.</p>"
+        },
+        {
             "id": "Nimble Roll",
             "name": "Nimble Roll",
             "description": "<p>En plus de son déclencheur originel, vous pouvez utilisez Esquive agile avant de tenter un jet de Réflexes. Si vous le faites, le bonus de circonstances s'applique à votre jet de Réflexes contre l'effet déclencheur.</p>\n<p>Lorsque vous utilisez Esquive agile et que l'attaque déclencheuse est un échec ou un échec critique ou lorsque vous obtenez un succès ou un succès critique contre le jet de sauvegarde, vous pouvez aussi @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marcher rapidement} jusqu'à 3 m comme faisant partie de la réaction. Si vous le faites, la réaction obtient le trait déplacement.</p>\n<p>Vous pouvez utiliser Roulade agile lorsque vous @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Volez} ou @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nagez} au lieu de Marcher si vous avez les types de déplacements correspondant.</p>",
@@ -18408,6 +18976,11 @@
                     "value": "Flexibilité améliorée"
                 }
             ]
+        },
+        {
+            "id": "Instant Return",
+            "name": "Instant Return",
+            "description": "<p><strong>Déclencheur</strong> Un ennemi vous rate avec une attaque à distance utilisant un type de munition approprié à votre arme (une balle si vous maniez une arme à feu).</p>\n<p><strong>Conditions</strong> Vous maniez une arme à feu ou une arbalète non chargées.</p>\n<hr />\n<p>D'un seul geste fluide, vous attrapez un projectile en l'air, le chargez dans votre arme et le renvoyez sur l'attaquant. Interagissez pour charger le projectile dans votre arme, puis effectuez une Frappe avec l'arme requise contre l'adversaire déclencheur. Puisque vous utilisez les munitions de l'ennemi, cette Frappe applique tous les effets spéciaux que ces munitions pourraient avoir (par exemple, s'il s'agissait de @Compendium[pf2e.equipment-srd.rKknk8odXDBpON5l]{Munitions explosives}, elles exploseraient dans une explosion de feu si votre Frappe touche).</p>"
         },
         {
             "id": "Vicious Incisors",
@@ -18494,6 +19067,11 @@
             "id": "Twin Parry",
             "name": "Twin Parry",
             "description": "<p><strong>Conditions</strong> Vous maniez deux armes de corps à corps, une dans chaque main.</p>\n<hr />\n<p>Vous utilisez vos deux armes pour parer les attaques. Vous bénéficiez d’un bonus de circonstances de +1 à la CA jusqu’au début de votre prochain tour, ou de +2 si l’une ou l’autre de vos armes a le trait Parade. Vous ne bénéficiez plus de ce bonus dès que les conditions de ce don ne sont plus respectées.</p>\n<p>@Compendium[pf2e.feat-effects.eu2HidLHaGKe4MPn]{Effet: Parade jumelée}</p>\n<p>@Compendium[pf2e.feat-effects.EDpjey6SCdvIYqEc]{Effet: Parade jumelée (Trait parade)}</p>"
+        },
+        {
+            "id": "Sword and Pistol",
+            "name": "Sword and Pistol",
+            "description": "<p>Vous êtes à l'aise pour manier une arme à feu ou une arbalète dans une main et une arme de corps-à-corps dans l'autre, en combinant les attaques de corps-à-corps et les tirs de l'arme à feu. Lorsque vous réussissez Une Frappe à distance contre un ennemi à votre portée avec votre arme à feu à une main ou une arbalète à une main, cet ennemi est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} contre votre prochaine attaque au corps à corps avec une arme au corps-à-corps à une main.</p>\n<p>Lorsque vous faites une Frappe au corps-à-corps réussie contre un ennemi avec votre arme au corps-à-corps à une main, la prochaine Frappe à distance vous faites avec cet ennemi avec une arme à feu à une main ou une arbalète à une main ne déclenche pas les réactions qui devraient se déclencher sur une attaque à distance mais pas une attaque au corps-à-corps, tel qu'Attaque d'opportunité. L'un ou l'autre de ces avantages est perdu s'il n'est pas utilisé avant la fin de votre prochain tour.</p>"
         },
         {
             "id": "Emergency Targe",
@@ -18725,6 +19303,11 @@
             "description": "<p>Vous pouvez accroître la durée des boosts de votre eidolon.</p>\n<p>Vous apprenez le sort lié <em>étendre le boost</em>. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.</p>"
         },
         {
+            "id": "Fatal Bullet",
+            "name": "Fatal Bullet",
+            "description": "<p>Vous êtes particulièrement doué pour frapper vos ennemis à l'endroit où ils sont les plus vulnérables. Lorsque vous obtenez un coup critique avec une arme à feu ayant le trait fatal, vous infligez un dé supplémentaire de la taille et du type de dégâts appropriés pour le trait Fatal après avoir doublé les dégâts de l'arme. Par exemple, après avoir obtenu un coup critique avec une arme Fatale d12, vous ajoutez 1d12 points de dégâts supplémentaires à l'attaque après avoir doublé ses dégâts.</p>"
+        },
+        {
             "id": "Improved Twin Riposte (Ranger)",
             "name": "Improved Twin Riposte (Ranger)",
             "description": "<p>Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour accomplir une Riposte jumelée contre votre proie. Vous pouvez utiliser cette réaction supplémentaire, même si vous ne bénéficiez pas des avantages de Parade jumelée.</p>",
@@ -18911,6 +19494,16 @@
             "id": "Graceful Guidance",
             "name": "Graceful Guidance",
             "description": "<p>Vous pouvez démontrer comment vous écarter rapidement du passage de dangereux effets. Vous pouvez utiliser l'action Aider pour accorder à un allié un bonus au jet de Réflexes. Comme habituellement avec Aider, vous avez besoin de vous préparer en utilisant une action lors de votre tour pour encourager l'allié.</p>"
+        },
+        {
+            "id": "Soaring Armor",
+            "name": "Soaring Armor",
+            "description": "<p>Que ce soit par un déchaînement de jets de flammes, de pales d'hélices, de rafales soniques, de structure aérodynamique profilée, de champs électromagnétiques, ou une combinaison de ces éléments, vous avez réussi à libérer votre innovation des liens de la gravité ! Lorsque vous portez votre innovation, vous gagnez une Vitesse de vol égale à votre Vitesse terrestre.</p>",
+            "prereq": [
+                {
+                    "value": "Innovation d'armure"
+                }
+            ]
         },
         {
             "id": "Ricochet Stance (Fighter)",
@@ -19286,6 +19879,11 @@
             "description": "<p>Des nageoires et des rabats de votre peau vous font avancer dans l'eau. Vous obtenez une vitesse de Nage de 4,5 m.</p>"
         },
         {
+            "id": "Visual Fidelity",
+            "name": "Visual Fidelity",
+            "description": "<p>Vous avez trouvé le moyen d'utiliser une combinaison hétéroclite de mécanismes pour améliorer vos capacités visuelles dans toutes les situations. Vous gagnez Vision dans le noir et Vision nocturne et vous pouvez voir les créatures et les objets @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisibles} sous forme de silhouettes translucides, bien que ces silhouettes soient suffisamment indistinctes pour que vous considériez qu'elles sont @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Cachées} à vos yeux.</p>\n<p>Si un effet vous confère la condition @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglé}, il doit tenter un test de contre contre votre DD de classe, votre niveau de contre étant égal à la moitié de votre niveau, arrondi au nombre supérieur. Sur un test de contre raté, vous n'êtes pas aveuglé - vos différents mécanismes sont capables de compenser.</p>"
+        },
+        {
             "id": "Efficient Rituals",
             "name": "Efficient Rituals",
             "description": "<p>Vous pouvez accomplir des rituels en moins de temps. Si le rituel nécessite normalement 1 jour pour être lancé, vous pouvez le lancer en 4 heures. Si cela devrait prendre plus d'un jour, il vous faut la moitié du nombre de jours arrondi à l'entier supérieur.</p>",
@@ -19370,6 +19968,11 @@
             "id": "Call of the Wild",
             "name": "Call of the Wild",
             "description": "<p>Vous convoquez des créatures sauvages pour qu’elles vous viennent en aide.</p>\n<p>Vous pouvez passer dix minutes en lien avec la nature pour remplacer l’un des sorts que vous avez préparés dans l’un de vos emplacements de sort de druide par un sort de @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Convocation d’animal} ou de @Compendium[pf2e.spells-srd.jSRAyd57kd4WZ4yE]{convocation de plantes et de champignons} du même niveau.</p>"
+        },
+        {
+            "id": "Advanced Shooter",
+            "name": "Advanced Shooter",
+            "description": "<p>Vous vous êtes dédié à l'entraînement avec les plus complexes et étranges armes de votre groupe préféré. Choisissez armes à feu ou arbalètes. Vous obtenez la même maîtrise avec toutes les armes à feu avancées que s'il s'agisait d'armes à feu de guerre ou avec toutes les arbalètes avancées que s'il s'agissait d'arbalètes de guerre.</p>"
         },
         {
             "id": "Reverse Engineering",
@@ -19770,6 +20373,16 @@
             ]
         },
         {
+            "id": "Explosive Maneuver",
+            "name": "Explosive Maneuver",
+            "description": "<p><strong>Conditions</strong> Votre dernière action a été une Frappe réussie contre un ennemi en utilisant votre innovation arme.</p>\n<hr />\n<p>Grâce à une caractéristique éxpérimentale cachée, une fonctionnalité expérimentale que vous avez intégrée à votre arme, celle-ci déploie de manière explosive des leviers, des crochets d'enchevêtrement ou des mécanismes similaires pour vous apporter une assistance significative lorsque vous effectuez une manœuvre de combat. Lorsque vous utilisez Manœuvre explosive, choisissez Saisir, Pousser ou Croc-en-jambe. L'innovation de votre arme doit avoir un trait d'arme qui correspond à l'action choisie (par exemple, pour choisir Saisir, votre arme doit avoir le trait Saisir). Vous effectuez l'action choisie contre le même ennemi que votre précédente Frappe réussie, en utilisant la même pénalité d'attaques multiples que votre précédente Frappe réussie. Vous augmentez encore votre pénalité d'attaques multiples après Saisir, Pousser ou Croc-en-jambes, comme à l'ordinaire.</p>",
+            "prereq": [
+                {
+                    "value": "Innovation d'arme"
+                }
+            ]
+        },
+        {
             "id": "Shove Down",
             "name": "Shove Down",
             "description": "<p><strong>Conditions</strong> Votre dernière action était une @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Poussée} réussie.</p>\n<hr />\n<p>Vous utilisez votre poids pour faire trébucher les ennemis que vous déplacez. Vous tentez de faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} à la cible, même si la cible n'est plus dans votre allonge.</p>",
@@ -19880,6 +20493,16 @@
                 },
                 {
                     "value": "Frappe incapacitante"
+                }
+            ]
+        },
+        {
+            "id": "Drifter's Juke",
+            "name": "Drifter's Juke",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu ou une arbalète dans une main et votre autre main est soit vide, soit manie une arme au corps-à-corps.</p>\n<hr />\n<p>Vous vous déplacez dans et hors de portée pour compléter vos attaques. Vous Faites un pas, faites une Frappe, Faites un pas et faites une autre Frappe. Une Frappe doit être une Frappe à distance en utilisant votre arme à feu ou votre arbalète et l'autre doit être une Frappe au corps-à-corps utilisant votre arme de corps-à-corps ou une attaque à mains nues. Vous pouvez choisir de ne pas Faire un pas, voire les deux.</p>",
+            "prereq": [
+                {
+                    "value": "Voie du vagabond"
                 }
             ]
         },
@@ -20046,6 +20669,16 @@
             "prereq": [
                 {
                     "value": "principes du bien"
+                }
+            ]
+        },
+        {
+            "id": "Gadget Specialist",
+            "name": "Gadget Specialist",
+            "description": "<p>Au lieu d'utiliser vos gadgets pour diverses augmentations et mises au point, vous fabriquez également quelques gadgets temporaires sous forme de consommables bien spécifiques chaque jour. Vous gagnez les formules de trois gadgets courants ou peu courants. Chaque jour, au cours de vos préparatifs quotidiens, vous pouvez créer deux gadgets temporaires à partir de votre livre de formules. Les gadgets préparés de cette manière ne vous coûtent pas de ressources pour les Fabriquer et n'ont pas de valeur à la vente. Ce sont des objets temporaires et si vous ne les avez pas utilisés, ils tombent en morceaux la prochaine fois que vous effectuez vos préparatifs quotidiens.</p>\n<p>Si vous êtes maître en Artisanat, vous pouvez créer trois gadgets par jour et vous gagnez trois formules de gadgets courants ou peu courants supplémentaires. Si vous êtes légendaire en Artisanat, vous pouvez créer quatre gadgets par jour et vous obtenez trois autres formules de gadgets courants ou peu courants, pour un total de neuf.</p>",
+            "prereq": [
+                {
+                    "value": "expert en Artisanat"
                 }
             ]
         },
@@ -20270,6 +20903,16 @@
             "description": "<p>Vous avez transcendé la frontière entre les mots et leur signification. Vous savez parler et comprendre toutes les langues orales.</p>"
         },
         {
+            "id": "Collapse Construct",
+            "name": "Collapse Construct",
+            "description": "<p>Vous avez modifié votre compagnon créature artificielle et l'avez construit en matériaux légers, ce qui vous permet de le replier dans une mallette de transport ou de prendre une autre forme compacte et inoffensive. Votre créature artificielle ou vous-même (si vous êtes adjacent à elle) pouvez replier votre crécature artificielle pour lui donner sa forme compacte ou la ramener à sa forme normale</p>\n<p>Sous sa forme compacte, votre créature artificielle ne peut pas agir mais elle est facilement transportable, avec un Encombrement de 2 si elle est petite, 4 si elle est moyenne ou 8 si elle est grande. La forme compacte est dotée de roues, de sorte que vous pouvez facilement la traîner derrière vous à la moitié de votre Vitesse (au lieu de d'utiliser la Vitesse habituelle plus lente pour traîner).</p>",
+            "prereq": [
+                {
+                    "value": "innovation de créature artificielle"
+                }
+            ]
+        },
+        {
             "id": "Ironblood Stance",
             "name": "Ironblood Stance",
             "description": "<p><strong>Conditions</strong> Vous ne portez aucune armure</p>\n<hr />\n<p>Vous prenez la posture du fer impénétrable, en refusant de céder sous les coups. Vous pouvez faire des attaques à mains nues de balayage de fer. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits balayage, mains nues, non létal et parade. Tant que vous gardez la Posture du sang-de-fer, vous bénéficiez d’une résistance 2 à tous les dégâts. La résistance passe à 3 au niveau 12, 4 au niveau 16 et 5 au niveau 20.</p>\n<p>@Compendium[pf2e.feat-effects.tPKXLtDJ3bzJcXlv]{Posture: Posture du sang-de-fer}</p>\n<p>@Compendium[pf2e.equipment-effects.fRlvmul3LbLo2xvR]{Effet: Parade}</p>"
@@ -20444,6 +21087,11 @@
                     "value": "Danse sous les pieds"
                 }
             ]
+        },
+        {
+            "id": "Scatter Blast",
+            "name": "Scatter Blast",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu chargée qui possède le trait Dispersion.</p>\n<hr />\n<p>Vous remplissez votre arme de grenaille et de poudre supplémentaires, créant ainsi une vague de destruction risquée mais dévastatrice. Faites une Frappe à distance avec l'arme à feu. Le facteur de portée de l'arme passe à 6 mètres et le rayon de sa dispersion augmente de 6 mètres. La Frappe obtient les conditions d'échec suivantes.</p>\n<hr />\n<p><strong>Échec</strong> L'arme a des ratés mais elle ne provoque pas les autres effet d'échec critique ci dessous.</p>\n<p><strong>Échec critique</strong> L'arme a des ratés mais explose aussi. Elle devient Brisée et elle inflige ses dégâts d'armes normaux à toutes les créatures dans une <span data-pf2-effect-area=\"burst\" data-pf2-distance=\"20\">explosion de 6 mètres</span> centrée sur l'arme à feu, avec un jet de Réflexes basique contre votre DD de classe. Ces dégâts comprennent ceux de toutes les runes fondamentales et de propriété de l'arme.</p>"
         },
         {
             "id": "Claws Of The Dragon",
@@ -21097,6 +21745,11 @@
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous puisez dans le puits de la connaissance collective de l'esprit divin, triant rapidement une quasi infinité de variables pour lire votre environnement. Pendant 1 minute, vous obtenez un Perception des déplacements (précis) dans les 18 m, vous pouvez voir les objets et les créatures invisibles et vous obtenez les effets de @Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{Vision lucide} au niveau 9.</p>"
         },
         {
+            "id": "Explosive Leap",
+            "name": "Explosive Leap",
+            "description": "<p>Vous obtenez une explosion de votre innovation dirigée vers le bas pour vous lancer dans les airs. Vous sautez jusqu'à 9 mètres dans n'importe quelle direction sans toucher le sol. Vous devez atterrir sur une case de terre ferme ou vous tombez après avoir utilisé votre prochaine action. Comme c'est le cas normalement pour les effets où vous tombez après avoir utilisé votre prochaine action, vous tombez quand même à la fin de votre tour, même si vous n'utilisez pas d'autres actions ce tour-là.</p>\n</p><strong>Spécial</strong>Si votre innovation est un sbire, il peut effectuer cette action plutôt que vous.</p>"
+        },
+        {
             "id": "Channeled Succor",
             "name": "Channeled Succor",
             "description": "<p>La grâce divine vous permet de supprimer des états nuisibles.</p>\n<p>Vous pouvez sacrifier une Guérison préparée dans vos emplacements de sort supplémentaires conférés par la source de guérison pour lancer l’un des sorts suivants à la place : @Compendium[pf2e.spells-srd.OyFCwQuw8XRazsNr]{Délivrance des malédictions}, @Compendium[pf2e.spells-srd.RneiyehRO6f7LP44]{Délivrance des maladies}, @Compendium[pf2e.spells-srd.BCuHKrDeJ4eq53M6]{Délivrance de la paralysie} ou @Compendium[pf2e.spells-srd.SnaLVgxZ9ryUFmUr]{Restauration}. Le sort est intensifié jusqu’au même niveau que celui de la Guérison que vous avez sacrifiée.</p>",
@@ -21135,6 +21788,11 @@
             ]
         },
         {
+            "id": "Risky Reload",
+            "name": "Risky Reload",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu.</p>\n<hr />\n<p>Vous avez mis en pratique une technique pour recharger rapidement votre arme à feu, mais tenter d'utiliser cette technique est un pari dangereux quant à l'efficacité de votre arme à feu. Interagissez pour recharger une arme à feu, puis faites une Frappe avec cette arme à feu. Si la Frappe échoue, l'arme à feu a des ratés.</p>"
+        },
+        {
             "id": "Unassuming Dedication",
             "name": "Unassuming Dedication",
             "description": "<p><strong>Accès</strong> ethnie Uhlam</p>\n<hr>\n<p>Votre famille a instillé en vous des valeurs d'implication et de patience depuis votre plus jeune âge. Vous obtenez un bonus de circonstances de +1 aux tests pour accomplir une activité d'intermède.</p>"
@@ -21157,7 +21815,7 @@
         {
             "id": "Lethargy Poisoner",
             "name": "Lethargy Poisoner",
-            "description": "<p>Vous'avez appris plus que l'utilisation de l'arbalète de main dans la tradition drow. Lors de vos préparations quotidiennes, vous pouvez préparer une dose de @Compendium[pf2e.equipment-srd.zo0ophqfKunJFxZN]{poison de léthargie} à partir de matériaux ordinaires dans une région sauvage ou urbaine. Si vous'êtes un expert en Artisanat, vous pouvez à la place fabriquer une dose de @Compendium[pf2e.equipment-srd.nn2HAN1XKkKHfVnM]{Poison de Stupeur}.</p>\n<p>Vous pouvez préparer deux doses (de l'un ou l'autre poison) si vous'êtes un maître en Artisanat et trois doses si vous êtes légendaire en Artisanat.</p>\n<p>Le DD du jet de sauvegarde pour ce poison est égal à votre DD de classe. Vous êtes le seul à pouvoir utiliser ces poisons et ils expirent la prochaine fois que vous faites vos préparatifs quotidiens.</p>\n<p>Le MJ peut décider que la région dans laquelle vous vous trouvez est trop aride pour fournir les matériaux dont vous avez besoin pour ce don.</p>",
+            "description": "<p>Vous avez appris plus que l'utilisation de l'arbalète de main dans la tradition drow. Au cours de vos préparatifs quotidiens, vous pouvez préparer une dose de @Compendium[pf2e.equipment-srd.zo0ophqfKunJFxZN]{poison de léthargie} à partir de matériaux ordinaires dans une région sauvage ou urbaine. Si vous'êtes un expert en Artisanat, vous pouvez à la place fabriquer une dose de @Compendium[pf2e.equipment-srd.nn2HAN1XKkKHfVnM]{Poison de stupeur}.</p>\n<p>Vous pouvez préparer deux doses (de l'un ou l'autre poison) si vous'êtes un maître en Artisanat et trois doses si vous êtes légendaire en Artisanat.</p>\n<p>Le DD du jet de sauvegarde pour ce poison est égal à votre DD de classe. Vous êtes le seul à pouvoir utiliser ces poisons et ils expirent la prochaine fois que vous faites vos préparatifs quotidiens.</p>\n<p>Le MJ peut décider que la région dans laquelle vous vous trouvez est trop aride pour fournir les matériaux dont vous avez besoin pour ce don.</p>",
             "prereq": [
                 {
                     "value": "Dévouement de Tireur drow"
@@ -21181,6 +21839,16 @@
             "id": "Guiding Finish",
             "name": "Guiding Finish",
             "description": "<p><strong>Conditions</strong> Vous maniez une seule arme de corps à corps à une main et votre autre main (ou mains) est libre.</p>\n<hr />\n<p>En utilisant votre arme comme un levier, vous forcez votre adversaire à se déplacer exactement là où vous voulez qu’il aille. Effectuez une Frappe avec l’arme requise. Si cette Frappe touche, vous déplacez la cible de 3 m au maximum dans un espace de votre zone d’allonge. Vous ne pouvez pas la faire traverser votre espace pendant ce déplacement. C’est un déplacement forcé. Votre Frappe obtient l’effet d’échec suivant.</p>\n<p><strong>Échec</strong> Vous pouvez forcer la créature à se déplacer comme en cas de succès, mais uniquement de 1,50 m.</p>"
+        },
+        {
+            "id": "Reverse Engineer",
+            "name": "Reverse Engineer",
+            "description": "</p>Vous êtes incroyablement doué pour désosser des objets afin d'en apprendre les formules, ou à les désassembler juste pour les désactiver. Vous gagnez un bonus de circonstances de +2 aux tests d'Artisanat pour reconstituer la formule d'un objet. Si vous obtenez un succès critique à votre test d'Artisanat, vous pouvez choisir de créer la formule et de réassembler l'objet original en même temps, vous laissant avec la formule et l'objet au lieu de la formule et des matières premières égales à la moitié de la valeur de l'objet. En outre, vous pouvez utiliser Artisanat au lieu de Vol pour Désamorcer un dispositif ou Crocheter une serrure.</p>",
+            "prereq": [
+                {
+                    "value": "expert en Artisanat"
+                }
+            ]
         },
         {
             "id": "Breath Like Honey",
@@ -21363,6 +22031,19 @@
             "description": "<p>Vous pouvez lancer vos bombes avec une telle force et une telle précision que leur zone d’éclaboussure prend la forme d’un cône unidirectionnel. Quand vous lancez une bombe alchimique qui possède le trait éclaboussure, au lieu d’éclabousser toutes les cases adjacentes à la cible, vous pouvez considérer que l’espace occupé par votre cible est la première case affectée d’un cône de 4,50 m qui s’éloigne de vous. Vous pouvez ainsi réduire les risques de toucher vos alliés et peut‑être pénétrer plus avant les lignes ennemies. Si la cible occupe plus d’une seule case, la case la plus proche de vous est alors la première case affectée par le cône.</p>"
         },
         {
+            "id": "Showstopper",
+            "name": "Showstopper",
+            "description": "<p>Vos armes virevoltantes créent une distraction grandiose dont il est difficile de détourner le regard. Lorsque vous utilisez Tournoiement du pistolet pour feinter, vous pouvez cibler tous les ennemis situés dans le premier facteur de portée de votre arme que vous pouvez percevoir et qui peuvent vous voir. Vous lancez un test de Duperie et vous le comparez au DD de Perception de chaque cible.</p>",
+            "prereq": [
+                {
+                    "value": "Tournoiement du pistolet"
+                },
+                {
+                    "value": "Maître en Duperie"
+                }
+            ]
+        },
+        {
             "id": "Reach Spell",
             "name": "Reach Spell",
             "description": "<p>Vous pouvez augmenter la portée de vos sorts. Si la prochaine action que vous utilisez consiste à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} disposant d’une portée, elle augmente de 9 m. Comme pour toute augmentation de portée, si la portée de base du sort était « contact », elle passe à 9 m.</p>"
@@ -21374,6 +22055,16 @@
             "prereq": [
                 {
                     "value": "sorts de dévotion"
+                }
+            ]
+        },
+        {
+            "id": "Reach for the Stars",
+            "name": "Reach for the Stars",
+            "description": "<p>Le ciel est la limite, tant que vous avez assez de poudre noire. Lorsque vous utilisez Renfort de poudre noire, vous pouvez dépenser de la poudre noire ou des munitions supplémentaires pour vous propulser plus loin. Pour chaque dose de poudre noire ou munition d'arme à feu que vous dépensez en plus avant de tirer, vous ajoutez 3 mètres à la hauteur ou à la distance de votre @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bond}, jusqu'à un maximum de 5 Renforts (un bonus de statut de 15 mètres). Vous devez porter une dose de poudre noire ou une munition, ou l'avoir en main, pour la faire exploser pour un Renfort. Vous pouvez choisir à quel moment de votre Bond vous faites exploser chaque impulsion, ce qui vous permet de changer de direction à chaque fois. Vous devez ensuite vous déplacer en ligne droite jusqu'à ce que vous fassiez un nouveau Renfort ou que vous terminiez votre Bond.</p>",
+            "prereq": [
+                {
+                    "value": "Renfort de poudre noire"
                 }
             ]
         },
@@ -21584,6 +22275,16 @@
             ]
         },
         {
+            "id": "Pistol Twirl",
+            "name": "Pistol Twirl",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance à une main chargée.</p>\n<hr />\n<p>Vos gestes rapides et votre élégance pour cette représentation distraient votre adversaire, le laissant vulnérable contre vos attaques à venir. Vous @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter} contre un adversaire dans le premier Facteur de portée de l'arme requise au lieu de le faire contre un adversaire à portée d'allonge. En cas de succès, l'adversaire est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} contre vos attaques au corps-à-corps ou à distance, au lieu seulement de vos attaques au corps-à-corps. En cas d'échec critique, vous êtes pris au dépourvu contre les attaques à distance et au corps-à-corps de votre adversaire et pas seulement de ses attaques au corps-à-corps.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Duperie"
+                }
+            ]
+        },
+        {
             "id": "Basic Magus Spellcasting",
             "name": "Basic Magus Spellcasting",
             "description": "<p>Vous obtenez les avantages d'Incantation basique des sorts liés.</p>",
@@ -21736,6 +22437,11 @@
             "id": "True Transmogrification",
             "name": "True Transmogrification",
             "description": "<p>Vous tranmogrifiez votre eidolon chaque jour. Au cours de vos préparatifs quotidiens, vous pouvez évhanger n'importe quel nombre de dons d'évolution, chacun pour une un don d'évolution du niveau approprié dont vous remplissez les prérequis. Ces échanges durents jusqu'à vos prochains préparatifs quotidiens.</p>"
+        },
+        {
+            "id": "Searing Restoration",
+            "name": "Searing Restoration",
+            "description": "<p>Ils vous ont affirmé que des explosions qui pourraient guérir les gens étaient impossible, mais c'étaient des imbéciles... Des imbéciles qui n'ont pas compris votre génie ! Vous créez une explosion mineure à partir de votre innovation, modifiant la combustion pour cautériser les blessures en utilisant des herbes médicinales vaporisées. Vous ou une créature vivante adjacente à vous regagnez [[/r {1d10}[healing]]]{1d10 points de vie}. En outre, la créature que vous soignez peut tenter un test nu immédiat pour récupérer d'une source unique de dégâts persistants de saignement, avec la réduction du DD liée à une assistance appropriée.</p> \n<p>Au niveau 3, et tous les 2 niveaux suivants, augmentez le montant des soins de 1d10.</p>\n<p><strong>Spécial</strong>Si votre innovation est un sbire, il peut effectuer cette action plutôt que vous, bien que, n'étant pas une créature vivante, il ne puisse pas utiliser cette capacité sur lui-même.</p>"
         },
         {
             "id": "Elven Aloofness",
@@ -21930,6 +22636,16 @@
             "prereq": [
                 {
                     "value": "Évitement prémonitoire"
+                }
+            ]
+        },
+        {
+            "id": "Full Automation",
+            "name": "Full Automation",
+            "description": "<p>Vous devenez si intimement lié à vos innovations que vous pouvez les utiliser sans arrière-pensée. Vous êtes en permanence @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accéléré}.  La façon dont vous pouvez utiliser l'action supplémentaire dépend de votre innovation.</p>\n<ul>\n<li><strong>Armure</strong> Votre armure répond aux stimuli les plus subtils pour vous faire avancer dans la bonne direction tant que vous la portez. Vous pouvez utiliser l'action supplémentaire pour Marcher rapidement, Faire un pas ou utiliser une forme de mouvement fournie par votre innovation (comme voler ou nager).</li>\n<li><strong>Créature artificielle</strong> Votre capacité à commander votre créature artificielle devient instinctive. Vous pouvez utiliser l'action supplémentaire pour Diriger votre innovation créature artificielle (ou pour fournir 1 des actions si vous choisissez de dépenser 2 actions pour Diriger votre créature artificielle).</li>\n<li><strong>Arme</strong> Votre arme devient plus facile à manier avec une efficacité mortelle, presque comme si elle était une extension de votre corps. Elle se dirige sans effort vers la cible de votre choix tant que vous la tenez. Vous pouvez utiliser l'action supplémentaire pour Frapper avec votre innovation.</li>\n</ul>",
+            "prereq": [
+                {
+                    "value": "Innovation d'arme, d'armure ou de créature artificielle"
                 }
             ]
         },
@@ -22204,6 +22920,16 @@
             "prereq": [
                 {
                     "value": "Ru-Shi"
+                }
+            ]
+        },
+        {
+            "id": "Construct Shell",
+            "name": "Construct Shell",
+            "description": "<p>Vous avez ajusté à votre innovation créature artificielle de sorte que lorsque vous la montez, des plaques spéciales, des creux ou autres forment des barrières partielles autour de vous pour ajouter une protection supplémentaire. Vous disposez d'un abri inférieur contre toutes les attaques lorsque vous chevauchez votre innovation créature artificielle et pas seulement contre les attaques où la créature artificielle serait dans le chemin. De plus, si votre créature artificielle utilise une émanation alors que vous la montez, comme Exploser, vous pouvez choisir de ne pas être affecté par cette émanation.</p>",
+            "prereq": [
+                {
+                    "value": "innovation de créature artificielle"
                 }
             ]
         },
@@ -22528,7 +23254,7 @@
         {
             "id": "Integrated Armament",
             "name": "Integrated Armament",
-            "description": "<p>Votre corps mécanique abrite une arme ou un bouclier que vous pouvez rapidement dégainer ou ranger, vous permettant d'être prêt au combat à tout moment.</p>\n<p>Vous pouvez utiliser une activité qui dure une minute, qui possède le trait manipuler, pour intégrer une arme ou un bouclier à une main dans l'un de vos bras. Vous pouvez dégainer ou ranger cet objet avec une unique action d'interaction. Les créatures ne voient pas automatiquement cet objet intégré lorsqu'il est rangé et doivent @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} activement pour le trouver. Elles subissent une pénalité de circonstances de -2 à tous les tests pour le faire. Tant que vous maniez l'objet, vous ne pouvez pas être @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmé} et vous ne pouvez pas le laisser tomber ou le relâcher ; vous devez interagir pour ranger l'arme et libérer cette main. Une créature déterminée à récupérer l'objet peut le faire, mais il faut soit 1 minute pour l'enlever, soit une violence extrême à votre bras - comme l'ablation physique de portions du membre. Vous ne pouvez avoir qu'un seul armement intégré à la fois, bien que vous puissiez utiliser l'activité d'une minute pour remplacer l'objet ou changer le bras dans lequel il est rangé.</p>\n<p><strong>Amélioration</strong> Votre corps dispose de plus d'espace pour réaliser cette intégration. Vous pouvez désormais intégrer soit deux armes à une main, soit une arme à une main et un bouclier, soit une seule arme à deux mains qui est répartie sur les deux bras. Vous pouvez utiliser une seule action d'interaction pour tirer ou ranger les deux armes intégrées. Lorsque vous dégainez une unique arme, vous pouvez choisir de la tenir à une main ou à deux mains.</p>"
+            "description": "<p>Votre corps mécanique abrite une arme ou un bouclier que vous pouvez rapidement dégainer ou ranger, vous permettant d'être prêt au combat à tout moment.</p>\n<p>Vous pouvez utiliser une activité qui dure une minute, qui possède le trait manipuler, pour intégrer une arme ou un bouclier à une main dans l'un de vos bras. Vous pouvez dégainer ou ranger cet objet avec une unique action d'interaction. Les créatures ne voient pas automatiquement cet objet intégré lorsqu'il est rangé et doivent @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} activement pour le trouver. Elles subissent une pénalité de circonstances de -2 à tous les tests pour le faire. Tant que vous maniez l'objet, vous ne pouvez pas être @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmé} et vous ne pouvez pas le laisser tomber ou le relâcher ; vous devez interagir pour ranger l'arme et libérer cette main. Une créature déterminée à récupérer l'objet peut le faire, mais il faut soit 1 minute pour l'enlever, soit une violence extrême à votre bras - comme l'ablation physique de portions du membre. Vous ne pouvez avoir qu'un seul armement intégré à la fois, bien que vous puissiez utiliser l'activité d'une minute pour remplacer l'objet ou changer le bras dans lequel il est rangé.</p>\n<p><strong>Amélioration</strong> Votre corps dispose de plus d'espace pour réaliser cette intégration. Vous pouvez désormais intégrer soit deux armes à une main, soit une arme à une main et un bouclier, soit une seule arme à deux mains qui est répartie sur les deux bras. Vous pouvez utiliser une seule action d'interaction pour tirer ou ranger les deux éléments intégrés. Lorsque vous dégainez une unique arme, vous pouvez choisir de la tenir à une main ou à deux mains.</p>"
         },
         {
             "id": "Ratfolk Lore",
@@ -23030,6 +23756,16 @@
             "description": "<p>Vous obtenez une attaque à mains nues de griffe qui inflige [[/r 1d4 #tranchants]]{1d4 dégâts tranchants}. Vos griffes sont dans le groupe pugilat et ont les traits agile, finesse et à mains nues.</p>"
         },
         {
+            "id": "Ubiquitous Gadgets",
+            "name": "Ubiquitous Gadgets",
+            "description": "<p>Ils ont penssé que vous aviez utilisé toutes vos machines, mais ils ont mal pensé ! Vous avez encore plus de gadgets dans vos manches que les autres ne s'y attendent. Augmentez le nombre de gadgets temporaires que vous pouvez créer chaque jour de 2.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don une seconde fois si vous êtes de niveau 14 ou supérieur.</p>",
+            "prereq": [
+                {
+                    "value": "[Spécialiste des gadgets"
+                }
+            ]
+        },
+        {
             "id": "Steadying Stone",
             "name": "Steadying Stone",
             "description": "<p>La terre vous a enseigné comment rester inébranlable et ferme. Si vous obtenez un succès sur un test d'Acrobaties pour @Compendium[pf2e.actionspf2e.M76ycLAqHoAgbcej]{Garder l'équilibre} sur un sol instable composé de terre ou de roche, vous remportez un succès critique à la place.</p>\n<p>Tant que vous restez sur le sol, vous obtenez un bonus de circonstances de +2 à votre DD de Réflexes ou de Vigueur contre les tentatives pour vous Pousser ou vous faire un Croc-en-jambe. Ce bonus s'applique aussi aux jets de sauvegarde contre les sorts et les effets qui tentent de vous mettre À terre. Si vous êtes un nain des roches, ce bonus passe à +3.</p>",
@@ -23058,6 +23794,11 @@
                     "value": "Dévouement de Chevalier infernal"
                 }
             ]
+        },
+        {
+            "id": "Grit and Tenacity",
+            "name": "Grit and Tenacity",
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<p><strong>Déclencheur</strong> Vous obtenez un échec à un jet de Vigueur ou de Volonté.</p>\n<hr />\n<p>Vous faites appel à de profondes réserves de robustesse et de force mentale pour surmonter ce qui devrait être un effet débilitant. Relancez le jet déclencheur avec un bonus de circonstances de +2 ; vous devez utiliser le second résultat.</p>"
         },
         {
             "id": "Amphibious Form",
@@ -23410,6 +24151,11 @@
                     "value": "Vierge de saumure, Vierge de neige, Vierge voilée ou Vierge virga"
                 }
             ]
+        },
+        {
+            "id": "Alchemical Shot",
+            "name": "Alchemical Shot",
+            "description": "<p><strong>Conditions</strong> Vous portez ou tenez une bombe alchimique dans une main et maniez une arme à feu ou une arbalète dans l'autre.</p>\n<hr />\n<p>Vous pratiquez une technique consistant à mélanger les bombes alchimiques à vos munitions chargées. Vous Interagissez pour sortir la bombe (si elle n'est pas déjà dans votre main) et placer son contenu sur votre munition, en épuisant la bombe. Puis, Frappez avec votre arme à feu. La Frappe inflige des dégâts du même type que ceux de la bombe (par exemple, des dégâts de feu pour le feu grégeois) et elle inflige [[/r {1d6}[persistent]]]{1d6 dégâts persistants} supplémentaires du même type que la bombe. Si la Frappe est un échec, vous subissez 1d6 dégâts du même type que la bombe que vous avez utilisé et l'arme a des ratés. Les dégâts persistants passent à 2d6 si la bombe est de niveau 11 ou supérieur et à 3d6 si elle est de niveau 17 ou supérieur.</p>"
         },
         {
             "id": "Angelic Magic",
@@ -24243,6 +24989,11 @@
             ]
         },
         {
+            "id": "Haphazard Repair",
+            "name": "Haphazard Repair",
+            "description": "<p>Vous réparez rapidement votre innovation, au détriment de sa stabilité. Vous Réparez votre innovation presque immédiatement. Vous n'êtes pas obligé de placer l'innovation sur une surface plane mais vous devez être à côté d'elle (y compris la tenir ou la porter), ainsi que disposer d'un kit de réparation comme à l'ordinaire.</p>"
+        },
+        {
             "id": "Cruelty",
             "name": "Cruelty",
             "description": "<p>Le mal que vous infligez avec Toucher de corruption sape la force du corps de votre adversaire.</p>\n<p>Si votre prochaine action est de lancer @Compendium[pf2e.spells-srd.jFmWSIpJGGebim6y]{Toucher de corruption} sur une créature vivante, la cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 1 pendant 1 minute si elle obtient un échec à son jet de sauvegarde (Affaiblie 2 si elle obtient un échec critique).</p>",
@@ -25011,6 +25762,16 @@
             ]
         },
         {
+            "id": "Distracting Explosion",
+            "name": "Distracting Explosion",
+            "description": "</p><strong>Déclencheur</strong> Une créature à votre portée utilise une action de concentration.</p>\n<hr />\n<p>Vos ennemis pensent qu'ils peuvent se concentrer sur autre chose pendant que vous êtes à proximité ? Oh, vous allez leur offrir une distraction, c'est sûr ! Effectuez une Frappe de corps-à-corps contre la créature déclencheuse avec une arme ou une attaque à mains nues qui bénéficie de votre renfort offensif. Cette Frappe n'est pas comptabilisée dans votre pénalité d'attaques multiples et votre pénalité d'attaques multiples ne s'applique pas à cette Frappe.</p>\n<p><strong>Fonction instable</strong> Vous sortez le grand jeu pour créer une Distraction explosive. Ajoutez le trait Instable à Distraction explosive. Si l'attaque touche, vous interrompez l'action de concentration qui la déclenche.</p>\n<hr />\n<p><strong>Spécial</strong> Si votre innovation est un sbire, il peut utiliser cette réaction à votre place, même si les sbires ne peuvent normalement pas utiliser de réactions ou agir quand ce n'est pas leur tour. Elle utilise votre réaction pour le tour pour pouvoir le faire.</p>",
+            "prereq": [
+                {
+                    "value": "Renfort offensif"
+                }
+            ]
+        },
+        {
             "id": "Reconstruct The Scene",
             "name": "Reconstruct The Scene",
             "description": "<p>Vous passez une minute à inspecter un endroit petit (tel qu'une unique pièce) pour vous faire une idée des évènements qui se sont produits au cours du dernier jour. Cela implique que vous puissiez vous déplacer dans la zone et étudier les empreintes de pieds, l'emplacement des objets, les boissons ou les traces de sang répandus, etc.</p>\n<p>Vous obtenez une impression mentale indistincte des évènements significatifs qui se sont produits ici. Cela vous donne des indices et des détails du passé, incluant l'ensemble des évènements et leur déroulement dans le temps, mais ce n'est pas un enregistrement parfait. Cela n'est pas suffisant pour identifier qui a été impliqué dans ces évènements si vous n'avez pas déjà conscience que la personne était là.</p>\n<p>En fonction de ce que décide le MJ, vous pouvez aussi percevoir différents petits détails qui pourraient servir d'indices importants comme une arme mémorable que quelqu'un a utilisé pour un meurtre ou le type de cape que quelqu'un portait en passant par là.</p>"
@@ -25341,6 +26102,11 @@
             "description": "<p>Vous n'autorisez pas les autres à vous entraver.</p>\n<p>Vous pouvez Lancer @Compendium[pf2e.spells-srd.aqRYNoSvxsVfqglH]{Liberté de mouvement} sur vous-même comme un sort primordial inné une fois par jour.</p>"
         },
         {
+            "id": "Crossbow Crack Shot",
+            "name": "Crossbow Crack Shot",
+            "description": "<p>Vous avez une connaissance approfondie de l'arbalète. Lorsque vous maniez une arbalète et que vous Interagissez pour la recharger, y compris les actions Interagir dans le cadre de Rechargement du tireur et les effets similaires, vous obtenez un bonus de circonstances de +2 au jet de dégâts de votre prochaine Frappe avec cette arbalète. Comme à l'ordinaire, ce bonus n'est pas cumulable avec le bonus de circonstances de +1 d'Expertise singulière. Si l'arbalète est une arbalète simple, augmentez également la taille du dé de dégâts pour cette attaque d'un cran. Vous devez effectuer l'attaque avant la fin de votre tour ou ces avantages sont perdus.</p>"
+        },
+        {
             "id": "Invulnerable Juggernaut",
             "name": "Invulnerable Juggernaut",
             "description": "<p>Vous être inarrétable, capable d'ignorer les blessures mortelles sans difficulté. Vous obtenez une résistance égale à 3 + votre modificateur de Constitution à tous les dégâts et votre résistance de résistance enragée passe à 8 + votre modificateur de Constitution.</p>\n<p>De plus, si vous êtes réduit à 0 Points de vie, vous pouvez mettre un terme à la rage par une réaction pour rester à 1 Point de Vie. Si vous le faites, vous devenez  @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Blessé} 2 (ou augmentez votre état blessé de 2 si vous étiez déjà blessé).</p>"
@@ -25365,6 +26131,16 @@
             "prereq": [
                 {
                     "value": "lignage qui accorde des sorts arcaniques"
+                }
+            ]
+        },
+        {
+            "id": "Ubiquitous Overdrive",
+            "name": "Ubiquitous Overdrive",
+            "description": "<p>Vous préparez une variété de gadgets incroyables sur chacun de vos alliés, les reliant entre eux par une modification minutieuse pour vous permettre de les alimenter tous en même temps. Au cours de vos préparatifs quotidiens, sélectionnez jusqu'à six alliés volontaires. Chaque fois que vous utilisez Surrégime vous accordez les avantages de votre surrégime à tous les alliés de votre choix qui se trouvent à 9 mètres de vous. Les alliés ne bénéficient pas de l'augmentation des dégâts du surrégime expert, maître ou légendaire.</p>",
+            "prereq": [
+                {
+                    "value": "Surrégime partagé"
                 }
             ]
         },

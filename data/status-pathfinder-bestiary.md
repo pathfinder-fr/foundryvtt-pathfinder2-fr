@@ -1,12 +1,12 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **changé**: 183
- * **officielle**: 242
+ * **changé**: 184
+ * **officielle**: 241
  * **aucune**: 4
  * **libre**: 7
 
 
-Dernière mise à jour: 2021-11-21 17:54 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-11-27 21:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -91,6 +91,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[e8rmI5xt6IANatfX.htm](pathfinder-bestiary/e8rmI5xt6IANatfX.htm)|Shemhazian|Shemhazian (Démon)|changé|
 |[E9rT02pPDLq7rARq.htm](pathfinder-bestiary/E9rT02pPDLq7rARq.htm)|Minotaur|Minotaure|changé|
 |[eQdLBzkluS1fvVC8.htm](pathfinder-bestiary/eQdLBzkluS1fvVC8.htm)|Caligni Dancer|Danseur Caligni|changé|
+|[ETNlci6VnSthx5V6.htm](pathfinder-bestiary/ETNlci6VnSthx5V6.htm)|Erinys|Érinye (Diable)|changé|
 |[f3c1CS2W8Tft3hW7.htm](pathfinder-bestiary/f3c1CS2W8Tft3hW7.htm)|Sea Hag|Guenaude marine|changé|
 |[Fa1S0A8fAx3SkO9h.htm](pathfinder-bestiary/Fa1S0A8fAx3SkO9h.htm)|Brain Collector|Collecteur de cerveaux|changé|
 |[fgsDAeZHVbHRhSE8.htm](pathfinder-bestiary/fgsDAeZHVbHRhSE8.htm)|Cockatrice|Cockatrice|changé|
@@ -283,7 +284,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[EibxkD9y30YmPaLH.htm](pathfinder-bestiary/EibxkD9y30YmPaLH.htm)|Lich|Liche|officielle|
 |[eP96NzLFSjua4NS5.htm](pathfinder-bestiary/eP96NzLFSjua4NS5.htm)|Stegosaurus|Stégosaure (Dinosaure)|officielle|
 |[ePa0KmNPpR4zUPfX.htm](pathfinder-bestiary/ePa0KmNPpR4zUPfX.htm)|Dero Magister|Magister Dero|officielle|
-|[ETNlci6VnSthx5V6.htm](pathfinder-bestiary/ETNlci6VnSthx5V6.htm)|Erinys|Érinye (Diable)|officielle|
 |[ETwmjdnmSkqGdD5r.htm](pathfinder-bestiary/ETwmjdnmSkqGdD5r.htm)|Animated Broom|Balai animé (Objet animé)|officielle|
 |[Ey19J4nTn1dQvLtE.htm](pathfinder-bestiary/Ey19J4nTn1dQvLtE.htm)|Snapping Flytrap|Attrape-mouches vorace|officielle|
 |[FaBHkmFGuEIqIYM1.htm](pathfinder-bestiary/FaBHkmFGuEIqIYM1.htm)|Drow Priestess|Prêtresse Drow|officielle|
