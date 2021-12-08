@@ -1,19 +1,12 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 251
+ * **libre**: 252
  * **officielle**: 49
- * **changé**: 1
 
 
-Dernière mise à jour: 2021-11-27 21:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-12-08 20:27 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[UFHezf1LXUwcQIAQ.htm](backgrounds/UFHezf1LXUwcQIAQ.htm)|Wandering Preacher|Prêcheur errant|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -258,6 +251,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[uC6D2nmDTATxXrV6.htm](backgrounds/uC6D2nmDTATxXrV6.htm)|Royalty|De sang royal|libre|
 |[UdOUj7i8XGTI72Zc.htm](backgrounds/UdOUj7i8XGTI72Zc.htm)|Servant|Serviteur|libre|
 |[uF9nw15tK6b1bgre.htm](backgrounds/uF9nw15tK6b1bgre.htm)|Ruby Phoenix Fanatic|Fanatique du Phénix de rubis|libre|
+|[UFHezf1LXUwcQIAQ.htm](backgrounds/UFHezf1LXUwcQIAQ.htm)|Wandering Preacher|Prêcheur errant|libre|
 |[UgityMZaujmYUpil.htm](backgrounds/UgityMZaujmYUpil.htm)|Out-Of-Towner|De passage|officielle|
 |[uJcFanGjVranEarv.htm](backgrounds/uJcFanGjVranEarv.htm)|Lumber Consortium Laborer|Ouvrier du Consortium du Bois|libre|
 |[UjN1dEgMnJdzq4HT.htm](backgrounds/UjN1dEgMnJdzq4HT.htm)|Student of Magic (Occultism)|Étudiant de la magie (Occultisme)|libre|

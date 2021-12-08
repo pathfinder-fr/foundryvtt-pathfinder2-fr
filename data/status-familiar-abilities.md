@@ -1,18 +1,28 @@
 # État de la traduction (familiar-abilities)
 
  * **officielle**: 9
- * **libre**: 25
- * **changé**: 1
+ * **libre**: 26
+ * **aucune**: 11
 
 
-Dernière mise à jour: 2021-11-27 21:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-12-08 20:27 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
+## Liste des traductions à faire
 
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[04-SKIS1xexaOvrecdV.htm](familiar-abilities/04-SKIS1xexaOvrecdV.htm)|Verdant Burst|Explosion verdoyante|changé|
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[01-D0ltNUJnN7UjJpA1.htm](familiar-abilities/01-D0ltNUJnN7UjJpA1.htm)|Innate Surge|
+|[01-deC1yIM2S5szGdzT.htm](familiar-abilities/01-deC1yIM2S5szGdzT.htm)|Lifelink|
+|[01-gPceRQqO847lvSnb.htm](familiar-abilities/01-gPceRQqO847lvSnb.htm)|Share Senses|
+|[01-jdlefpPcSCIe27vO.htm](familiar-abilities/01-jdlefpPcSCIe27vO.htm)|Familiar Focus|
+|[01-Q42nrq9LwDdbeZM5.htm](familiar-abilities/01-Q42nrq9LwDdbeZM5.htm)|Restorative Familiar|
+|[01-REJfFezELjc5Gzsy.htm](familiar-abilities/01-REJfFezELjc5Gzsy.htm)|Recall Familiar|
+|[01-rs4Awf4k1e0Mj797.htm](familiar-abilities/01-rs4Awf4k1e0Mj797.htm)|Cantrip Connection|
+|[01-tEWAHPPZULvPgHnT.htm](familiar-abilities/01-tEWAHPPZULvPgHnT.htm)|Tattoo Transformation|
+|[01-wOgvBymJOVQDSm1Q.htm](familiar-abilities/01-wOgvBymJOVQDSm1Q.htm)|Spell Delivery|
+|[01-Xanjwv4YU0CBnsMw.htm](familiar-abilities/01-Xanjwv4YU0CBnsMw.htm)|Spell Battery|
+|[01-ZtKb89o1PPhwJ3Lx.htm](familiar-abilities/01-ZtKb89o1PPhwJ3Lx.htm)|Extra Reagents|
 
 ## Liste des traductions complétés
 
@@ -52,3 +62,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-zyMRLQnFCQVpltiR.htm](familiar-abilities/01-zyMRLQnFCQVpltiR.htm)|Speech|Parole|officielle|
 |[04-43xB5UnexISlfRa5.htm](familiar-abilities/04-43xB5UnexISlfRa5.htm)|Purify Air|Purificateur d'air|libre|
 |[04-LUBS9csNNgRTui4p.htm](familiar-abilities/04-LUBS9csNNgRTui4p.htm)|Grasping Tendrils|Vrilles agrippantes|libre|
+|[04-SKIS1xexaOvrecdV.htm](familiar-abilities/04-SKIS1xexaOvrecdV.htm)|Verdant Burst|Explosion verdoyante|libre|

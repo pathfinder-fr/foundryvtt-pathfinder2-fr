@@ -2049,6 +2049,16 @@
             ]
         },
         {
+            "id": "Ricochet Legend",
+            "name": "Ricochet Legend (Légende du ricochet)",
+            "description": "<p>Plus il y a d'obstacles entre vous et votre cible, plus vos tirs deviennent mortels car vous ricochez sur plusieurs surfaces pour l'atteindre. Lorsque vous utilisez Tir ricochet, votre tir peut rebondir sur n'importe quelle surface dans les trois premiers facteurs de portée de votre arme et la cible ne peut pas bénéficier d'un abri, sauf si elle est totalement couverte de tous les côtés.</p>\n<p>De plus, une créature doit tenter une Volonté contre votre DD de classe la première fois dans une rencontre que vous attaquez avec un Tir ricochet. Si elle échoue, elle est @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie 2} et est incapable de déterminer d'où votre tir est parti.</p>",
+            "prereq": [
+                {
+                    "value": "Maître du ricochet"
+                }
+            ]
+        },
+        {
             "id": "Elemental Shape",
             "name": "Elemental Shape (Morphologie élémentaire)",
             "description": "<p>Vous comprenez les éléments fondamentaux de la nature au point que vous pouvez en imprégner votre corps afin de devenir une incarnation vivante de ces éléments. Ajoutez les formes du sort @Compendium[pf2e.spells-srd.1K6AYGisvo9gqdhs]{Forme élémentaire} à la liste de celles de votre morphologie sauvage.</p>\n<p>Chaque fois que vous adoptez une forme en utilisant morphologie sauvage, vous bénéficiez d’une résistance 5 au feu</p>",
@@ -4572,6 +4582,19 @@
             ]
         },
         {
+            "id": "Efficient Controls",
+            "name": "Efficient Controls (Contrôles efficaces)",
+            "description": "<p>n réduisant les systèmes redondants et en rationalisant les fonctions essentielles, vous rendez plus faciles de manipulez le véhicule avec un équipage réduit. Réduisez le nombre de membres d'équipage pour pouvoir opérer votre véhicule emblématique de 25%. Par exemple, vous devriez réduire un navire à voile qui nécessite 1 pilote et 8 membres d'équipage à 1 pilote et 6 membres d'équipage. Cet ajustement n'affecte seulement que le nombre de membres d'équipage nécessaire pour opérer le véhicule; elle ne réduit pas le besoin de pilote du véhicule.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de mécanicien de véhicule"
+                },
+                {
+                    "value": "maître en Artisanat"
+                }
+            ]
+        },
+        {
             "id": "Twin Eidolon",
             "name": "Twin Eidolon (Eidolon jumeau)",
             "description": "<p>Vous pouvez vous transformer pour correspondre à votre eidolon. Lorsque vous Manifestez votre Eidolon, vous pouvez faire appel à ses pouvoirs pour vous transformer en un double jusqu'à ce qu'il se dématérialise. Vous ne pouvez pas le faire si vous Manifestez votre eidolon d'une manière inhabituelle, par exemple en utilisant @Compendium[pf2e.feats-srd.s97nKj9Uye1KXr7A]{Fusion dans l'eidolon}.</p>\n<p>Lorsque vous utilisez Eidolon jueau, vous utilisez les statistiques de votre eidolon autre que les modificateurs de caractériques mentales, en incluant ses évolutions. Vous ne pouvez lancer de sorts (sauf les sorts que votre eidolon pourrait lancer), Activer ou autrement bénéficier d'objets magiques qui vous bénéficient normalement et pas à votre eidolon ni utiliser d'autres actions qu'il ne peut accomplir.</p>\n<p>Tout sort utilisé parmi les siens ayant un nombre d'utilisations limitées est décompté des utilisations des sorts de votre eidolon. Vous pouvez Manifester votre eidolon pour mettre un terme à cet effet.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don possède le trait correspondant à la tradition de votre eidolon (arcanique, divin, occulte ou primordial).</p>"
@@ -5043,8 +5066,8 @@
             "description": "<p>Un de vos parents possède l'espérance de vie d'un humain et l'autre celle d'un elfe et la vôtre se trouve quelque part entre les deux. Il en résulte que vous avez une perspective inhabituelle à propos du temps et vous avez appris à le manifester pour vous aider dans des moments de stress.</p>\n<p>Vous obtenez @Compendium[pf2e.spells-srd.o6YCGx4lycsYpww4]{Rapidité} comme un sort arcanique inné de niveau 3 dont vous seul pouvez être la cible. Vous pouvez @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer ce sort} une fois par jour.</p>"
         },
         {
-            "id": "Shooter's Camoflage",
-            "name": "Shooter's Camoflage (Camouflage du tireur)",
+            "id": "Shooter's Camouflage",
+            "name": "Shooter's Camouflage (Camouflage du tireur)",
             "description": "<p>Vous vous spécialisez dans la dissimulation dans un type d'environnement particulier, capable de disparaître après avoir effectué votre tir. Choisissez un terrain naturel ou urbain. Sur le terrain choisi, vous pouvez vous Cacher et Étre furtif même sans être à l'abri ou sans être @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}.</p>",
             "prereq": [
                 {
@@ -5397,6 +5420,16 @@
             "prereq": [
                 {
                     "value": "Doublure magique"
+                }
+            ]
+        },
+        {
+            "id": "Express Driver",
+            "name": "Express Driver (Conducteur rapide)",
+            "description": "<p>Vous pouvez optimiser les performances de votre véhicule, en lui faisant gagner de la vitesse et en choisissant des chemins pour éviter les ralentissements. Lorsque vous calculez votre vitesse de déplacement pour la journée en pilotant un véhicule, vous pouvez tenter un test de Connaissance de la conduite pour augmenter la vitesse de déplacement de votre véhicule. Le DD est déterminé par le MJ mais est généralement basé sur le DD de pilotage du véhicule ou sur une difficulté basée sur l'environnement, en fonction du plus difficile. En cas de réussite, augmentez la vitesse de déplacement de votre véhicule de moitié. Ceci n'a aucun effet sur le déplacement de votre véhicule lors des rencontres.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de conducteur astucieux"
                 }
             ]
         },
@@ -6952,8 +6985,8 @@
         },
         {
             "id": "Slinger's Reflexes",
-            "name": "Slinger's Reflexes (Réflexes de frondeur)",
-            "description": "<p>Votre capacité à réagir aux circonstances inattendues est d'une finesse préternaturelle. Au début du tour de chaque ennemi, vous gagnez une réaction supplémentaire que vous ne pouvez utiliser que lors de ce tour pour utiliser une réaction de franc-tireur.</p>"
+            "name": "Slinger's Reflexes (Réflexes du tireur)",
+            "description": "<p>Votre capacité à réagir aux circonstances inattendues est d'une surnaturellement précise. Au début du tour de chaque ennemi, vous gagnez une réaction supplémentaire que vous ne pouvez utiliser que lors de ce tour pour utiliser une réaction de franc-tireur.</p>"
         },
         {
             "id": "Shield Block",
@@ -7077,6 +7110,19 @@
             "prereq": [
                 {
                     "value": "Ailes d'air"
+                }
+            ]
+        },
+        {
+            "id": "Push It",
+            "name": "Push It (Pousse le)",
+            "description": "<p>Vous pouvez pousser la performance de votre véhicule au-delà des limites de ses fabricants. Lorsque vous avez réussi un test de conduite, le véhicule que vous pilotez obtient un bonus de circonstances de +1,5 m à toutes ses Vitesses jusqu'à la fin de votre tour. Si vous réussissez de manière critique, ce bonus passe à +3 m.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Conducteur astucieux"
+                },
+                {
+                    "value": "maître en Connaissance de la conduite"
                 }
             ]
         },
@@ -7867,6 +7913,19 @@
             ]
         },
         {
+            "id": "Engine Bay",
+            "name": "Engine Bay (Baie du moteur)",
+            "description": "<p>Vous avez l'habitude de travailler dans de vastes hangars de véhicules et pouvez travailler sur plusieurs machines à la fois. Lorsque vous réparez et passez 10 minutes complètes, vous pouvez réparer jusqu'à deux objets. Si vous êtes maître en Artisanat, vous pouvez réparer jusqu'à quatre objets. Si vous êtes légendaire en Artisanat, vous pouvez réparer jusqu'à huit cibles. Ce don n'a aucun effet lorsque vous utilisez Réparation rapide ou une autre capacité permettant de réduire le temps consacré à Réparer.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de mécanicien de véhicule"
+                },
+                {
+                    "value": "expert en Artisanat"
+                }
+            ]
+        },
+        {
             "id": "Nanite Shroud",
             "name": "Nanite Shroud (Voile de nanites)",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vos nanites s'envolent de votre corps, dans un nuage formant un voile autour de vous. Vous êtes @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} pendant un nombre de rounds égal à la moitié de votre niveau. Vous ne pouvez utiliser ce camouflage pour se Cacher ou Être furtif, comme à l'ordinaire pour un camouflage qui rend votre position évidente.</p>\n<p>Tant que Voile de nanites est actif, vous ne pouvez utiliser d'autres capacités qui nécessitent l'utilisation de vos nanites.</p>"
@@ -8062,6 +8121,16 @@
             "prereq": [
                 {
                     "value": "ordre de la feuille"
+                }
+            ]
+        },
+        {
+            "id": "Power Slide",
+            "name": "Power Slide (Glissement de puissance)",
+            "description": "<p><strong>Conditions</strong> Vous pilotez un véhicule.</p>\n<hr />\n<p>Vous lancez le véhicule dans un dérapage à peine contrôlé et tournez brusquement pour échapper à la poursuite ou mettre vos armes à contribution. Vous @Compendium[pf2e.actionspf2e.uS3qDAgOkZ7b8ERL]{Pilotez} avec une pénalité de -2 à votre test de conduite, en obtenant les effets de l'action de conduite pour le même nombre d'actions que vous avez dépensées pour glisser. À la fin du déplacement, si vous réussissez, vous pouvez tourner le véhicule jusqu'à 90 degrés. Si vous obtenez un Échec critique votre test de conduite, vous pouvez tourner le véhicule à 180 degrés.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de conducteur astucieux"
                 }
             ]
         },
@@ -8743,6 +8812,11 @@
             "id": "Idyllkin",
             "name": "Idyllkin (Type idyllique)",
             "description": "<p>Vos caractéristiques sauvages et uniques trahissent votre droit de naissance agathion. Les célestes sereins du plan du Nirvana, les agathions cherchent le chemin de la paix, et à assurer un meilleur monde pour que tous puissent coexister. Votre comportement paisible vous conduit à chercher la résolution pacifique des conflits. Vous êtes qualifié en Nature. Si vous êtes déjà qualifié en Nature (par votre historique ou votre classe, par exemple), vous devenez qualifié à la place dans une compétence de votre choix. Vous connaissez la langue sylvestre et obtenez le don de compétence @Compendium[pf2e.feats-srd.WC4xLBGmBsdOdHWu]{Médecine naturelle}.</p>"
+        },
+        {
+            "id": "Final Shot",
+            "name": "Final Shot (Tir final)",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à feu déchargée.</p>\n<hr />\n<p>Vous bourrez une triple charge de poudre noire dans votre arme pour déclencher une attaque dévastatrice mais risquée et imprécise. Interagissez pour recharger, en dépensant trois doses de poudre noire en plus de votre poudre noire ou de vos munitions ordinaires, puis faites une Frappe avec votre arme à feu contre une créature située dans le premier facteur de portée de l'arme. Si vous obtenez un succès, l'attaque est un succès critique, mais si vous obtenez un échec, l'arme a des ratés. Quel que soit votre résultat, après l'attaque, vous êtes @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} jusqu'au début de votre prochain tour et @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdi 1}.</p>"
         },
         {
             "id": "Mixed Maneuver",
@@ -14989,6 +15063,19 @@
             "description": "<p>Vous suivez l’adversaire pendant qu’il s’éloigne.</p>\n<p>Vous Marchez rapidement d’une distance maximum égale à votre Vitesse en suivant l’adversaire et en le gardant à portée tout au long de son déplacement et jusqu’à ce qu’il s’arrête ou que vous vous soyez déplacé de toute votre Vitesse. Vous pouvez utiliser Pas d’échappatoire pour Creuser, Escalader, Voler ou Nager au lieu de Marcher rapidement si vous possédez le type de déplacement correspondant.</p>"
         },
         {
+            "id": "That Was a Close One, Huh?",
+            "name": "That Was a Close One, Huh? (C'était juste !)",
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Conditions</strong> Soit vous utilisez Tir accidentel et touchez votre adversaire avecla Frappe ce tour soit vous avez utilisé Évasion chanceuse depuis votre dernier tour et l'attaque déclencheuse vous a manqué.</p>\n<hr />\n<p>Vous riez innocemment de la chance inexplicable de votre dernier tir qui a touché sa cible ou à l'attaque qui a manqué de justesse de vous couper la tête, amenant vos adversaires à se demander si c'est une bonne idée de vous opposez durant la bataille. Tentez de @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} soit l'adversaire que vous avez touché avec Tir accidentel ou l'adversaire qui vous a manqué lié à Évasion chanceuse. Vous utilisez Duperie au lieu d'Intimidation pour tenter un test de Démoralisation.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de tireur d'élite inattendu"
+                },
+                {
+                    "value": "maître en Duperie"
+                }
+            ]
+        },
+        {
             "id": "Environmental Grace",
             "name": "Environmental Grace (Grâce environnementale)",
             "description": "<p>Vous vous adaptez rapidement à votre environnement au travers une combinaison de compétences, de méditation et de grâce divine.</p>\n<p>Après avoir passé une heure dans un environnement de froid important ou davantage, vous êtes protégé des effets du froid important jusqu'à ce que vous quittiez cet environnement. Après avoir passé une heure dans un environnement où règne une chaleur importante ou supérieure, vous êtes protégé de la chaleur importante jusqu'à ce que vous quittiez cet environnement.</p>",
@@ -15654,7 +15741,7 @@
         },
         {
             "id": "Perfect Readiness",
-            "name": "Perfect Readiness (Parfaite réactivité)",
+            "name": "Perfect Readiness (Réactivité parfaite)",
             "description": "<p>Vous vous préparez à tirer avec une vitesse instinctive et une mémoire musculaire qui vont au-delà de vos pensées conscientes. Vous êtes en permanence @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accéléré}. Vous ne pouvez utiliser votre action supplémentaire que pour Faire un pas ou Interagir pour recharger.</p>"
         },
         {
@@ -22642,7 +22729,7 @@
         {
             "id": "Full Automation",
             "name": "Full Automation (Automatisation complète)",
-            "description": "<p>Vous devenez si intimement lié à vos innovations que vous pouvez les utiliser sans arrière-pensée. Vous êtes en permanence @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accéléré}.  La façon dont vous pouvez utiliser l'action supplémentaire dépend de votre innovation.</p>\n<ul>\n<li><strong>Armure</strong> Votre armure répond aux stimuli les plus subtils pour vous faire avancer dans la bonne direction tant que vous la portez. Vous pouvez utiliser l'action supplémentaire pour Marcher rapidement, Faire un pas ou utiliser une forme de mouvement fournie par votre innovation (comme voler ou nager).</li>\n<li><strong>Créature artificielle</strong> Votre capacité à commander votre créature artificielle devient instinctive. Vous pouvez utiliser l'action supplémentaire pour Diriger votre innovation créature artificielle (ou pour fournir 1 des actions si vous choisissez de dépenser 2 actions pour Diriger votre créature artificielle).</li>\n<li><strong>Arme</strong> Votre arme devient plus facile à manier avec une efficacité mortelle, presque comme si elle était une extension de votre corps. Elle se dirige sans effort vers la cible de votre choix tant que vous la tenez. Vous pouvez utiliser l'action supplémentaire pour Frapper avec votre innovation.</li>\n</ul>",
+            "description": "<p>Vous devenez si intimement lié à vos innovations que vous pouvez les utiliser sans y penser. Vous êtes en permanence @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Accéléré}. La manière dont vous pouvez utiliser l'action supplémentaire dépend de votre innovation.</p>\n<ul>\n<li><strong>Arme</strong> Votre arme devient plus facile à manier avec une efficacité mortelle, presque comme si elle était une extension de votre corps. Elle se dirige sans effort vers la cible de votre choix tant que vous la tenez. Vous pouvez utiliser l'action supplémentaire pour Frapper avec votre innovation.</li>\n<li><strong>Armure</strong> Votre armure répond aux stimulis les plus subtils pour vous faire avancer dans la bonne direction tant que vous la portez. Vous pouvez utiliser l'action supplémentaire pour Marcher rapidement, Faire un pas ou utiliser une forme de déplacement permise à votre innovation (comme voler ou nager).</li>\n<li><strong>Créature artificielle</strong> Votre capacité à Diriger votre créature artificielle devient instinctive. Vous pouvez utiliser l'action supplémentaire pour Diriger votre innovation créature artificielle (ou pour dépenser une des actions si vous choisissez de dépenser 2 actions pour Diriger votre créature artificielle).</li>\n</ul>",
             "prereq": [
                 {
                     "value": "Innovation d'arme, d'armure ou de créature artificielle"
@@ -23363,6 +23450,19 @@
             "id": "Captivating Curiosity",
             "name": "Captivating Curiosity (Curiosité captivante)",
             "description": "<p>Vous pouvez attirer l'attention des spectateurs par votre apparence unique.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.IihxWhRfpsBgQ5jS]{Discours captivant} comme un sort inné occulte de niveau 3 une fois par jour.</p>"
+        },
+        {
+            "id": "Propeller Attachment",
+            "name": "Propeller Attachment (Fixer un propulseur)",
+            "description": "<p>Vous êtes passé maître dans l'art de fixer des propulseurs mécaniques sur vos pièges artisanaux à déploiement rapide quotidiens qui utilisent des engrenages. Cela vous permet de placer vos pièges artisanaux dans l'air ou sous l'eau où ils restent en place jusqu'à 10 minutes, après quoi l'hélice s'épuise et ils tombent ou coulent. À moins que vous ne preniez des précautions supplémentaires pour le cacher, l'emplacement d'un piège artisanal à propulseur est généralement évident.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de fabricant de pièges"
+                },
+                {
+                    "value": "maître en Artisanat"
+                }
+            ]
         },
         {
             "id": "Nameless Anonymity",
@@ -26137,7 +26237,7 @@
         {
             "id": "Ubiquitous Overdrive",
             "name": "Ubiquitous Overdrive (Surrégime omniprésent)",
-            "description": "<p>Vous préparez une variété de gadgets incroyables sur chacun de vos alliés, les reliant entre eux par une modification minutieuse pour vous permettre de les alimenter tous en même temps. Au cours de vos préparatifs quotidiens, sélectionnez jusqu'à six alliés volontaires. Chaque fois que vous utilisez Surrégime vous accordez les avantages de votre surrégime à tous les alliés de votre choix qui se trouvent à 9 mètres de vous. Les alliés ne bénéficient pas de l'augmentation des dégâts du surrégime expert, maître ou légendaire.</p>",
+            "description": "<p>Vous préparez une variété de gadgets incroyables sur chacun de vos alliés, les reliant entre eux par une modification minutieuse pour vous permettre de les alimenter tous en même temps. Au cours de vos préparatifs quotidiens, sélectionnez jusqu'à six alliés volontaires. Chaque fois que vous utilisez Surrégime, vous accordez les avantages de votre surrégime à tous les alliés de votre choix qui se trouvent à 9 mètres de vous. Les alliés ne bénéficient pas de l'augmentation des dégâts du surrégime expert, maître ou légendaire.</p>",
             "prereq": [
                 {
                     "value": "Surrégime partagé"

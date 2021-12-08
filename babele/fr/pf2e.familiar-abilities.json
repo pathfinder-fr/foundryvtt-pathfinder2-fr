@@ -49,7 +49,7 @@
         {
             "id": "Verdant Burst",
             "name": "Explosion verdoyante",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<p>Lorsque votre familier meurt, il relâche son énergie primordiale pour lancer la version de @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} à trois actions, intensifié à un niveau inférieur de 1 à votre plus haut emplacement de sort. Le sort <em>Guérison</em> obtient aussi un bonus de statut égal à deux fois le niveau de sort au nombre de Points de vie qu'il redonne aux plantes. Vous devez être capable de lancer les sorts de niveau 2 en utilisant des emplacements de sort pour choisir cette aptitude de familier.</p>"
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<hr />\n<p>Lorsque votre familier meurt, il relâche son énergie primordiale pour lancer la version de <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> à trois actions, intensifié à un niveau inférieur de 1 à votre plus haut emplacement de sort. Le sort <em>Guérison</em> obtient aussi un bonus de statut égal à deux fois le niveau de sort au nombre de Points de vie qu'il redonne aux plantes. Vous devez être capable de lancer les sorts de niveau 2 en utilisant des emplacements de sort pour choisir cette aptitude de familier.</p>"
         },
         {
             "id": "Tough",

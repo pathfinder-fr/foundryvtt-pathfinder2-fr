@@ -1,12 +1,12 @@
 # État de la traduction (actions)
 
  * **officielle**: 107
- * **libre**: 121
- * **changé**: 25
+ * **libre**: 120
+ * **changé**: 26
  * **aucune**: 12
 
 
-Dernière mise à jour: 2021-11-27 21:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-12-08 20:27 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -37,6 +37,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[90fHUm0HGZFAbG1K.htm](actions/90fHUm0HGZFAbG1K.htm)|Breath Weapon (Fire) (Line)|Arme de souffle de feu (Ligne)|changé|
 |[auOTjKr8gB1dqFh4.htm](actions/auOTjKr8gB1dqFh4.htm)|Breath Weapon (Cold) (Cone)|Arme de souffle de froid (cône)|changé|
 |[AWXPiqz4xDN03iPs.htm](actions/AWXPiqz4xDN03iPs.htm)|Breath Weapon (Poison) (Line)|Arme de souffle empoisonné (Ligne)|changé|
+|[b6CanpXyUKJgxEwq.htm](actions/b6CanpXyUKJgxEwq.htm)|Salt Wound|Saler une blessure|changé|
 |[EmFzFAwgQ0lJZwba.htm](actions/EmFzFAwgQ0lJZwba.htm)|Breath Weapon (Negative) (Line)|Arme de souffle négative (Ligne)|changé|
 |[grkggNQnOxWWsjBH.htm](actions/grkggNQnOxWWsjBH.htm)|Breath Weapon (Cold) (Line)|Arme de souffle de froid (Ligne)|changé|
 |[HbejhIywqIufrmVM.htm](actions/HbejhIywqIufrmVM.htm)|Arcane Cascade|Cascade arcanique|changé|
@@ -107,7 +108,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aq2mXT2hLlstFL5C.htm](actions/Aq2mXT2hLlstFL5C.htm)|Invoke Celestial Privilege|Invoquer le privilège céleste|libre|
 |[B0Eu3EfwIa9kyDEA.htm](actions/B0Eu3EfwIa9kyDEA.htm)|Recall Knowledge (Crafting)|Se souvenir (Artisanat)|officielle|
 |[B2BpIZFHoF9Kjzpx.htm](actions/B2BpIZFHoF9Kjzpx.htm)|Recall Knowledge (Occultism)|Se souvenir (Occultisme)|officielle|
-|[b6CanpXyUKJgxEwq.htm](actions/b6CanpXyUKJgxEwq.htm)|Salt Wound|Saler une blessure|libre|
 |[bCDMuu3tE4d6KHrJ.htm](actions/bCDMuu3tE4d6KHrJ.htm)|Pistolero's Retort|Réplique du pistoléro|libre|
 |[Bcxarzksqt9ezrs6.htm](actions/Bcxarzksqt9ezrs6.htm)|Stride|Marcher rapidement|officielle|
 |[bG91dbtbgOnw7Ofx.htm](actions/bG91dbtbgOnw7Ofx.htm)|Board|Monter à bord|libre|

@@ -1,11 +1,11 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 165
- * **changé**: 137
- * **libre**: 166
+ * **officielle**: 164
+ * **changé**: 139
+ * **libre**: 165
 
 
-Dernière mise à jour: 2021-11-27 21:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-12-08 20:27 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -86,11 +86,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[gunslinger-01-a3pSIKkDVTvvNSRO.htm](classfeatures/gunslinger-01-a3pSIKkDVTvvNSRO.htm)|Way of the Drifter|Voie du vagabond|changé|
 |[gunslinger-01-OmgtSDV1FubDUqWR.htm](classfeatures/gunslinger-01-OmgtSDV1FubDUqWR.htm)|Way of the Spellshot|Voie du sortiléro|changé|
 |[gunslinger-19-zpFmqOpZ9IiWodsh.htm](classfeatures/gunslinger-19-zpFmqOpZ9IiWodsh.htm)|Incredible Senses|Sens incroyables|changé|
+|[inventor-07-78HIjRbGoONMpF31.htm](classfeatures/inventor-07-78HIjRbGoONMpF31.htm)|Breakthrough Innovation|Innovation de rupture|changé|
 |[magus-01-3gVDqDPSz4fB5T9G.htm](classfeatures/magus-01-3gVDqDPSz4fB5T9G.htm)|Laughing Shadow|Ombre ricanante|changé|
 |[magus-01-6YJ8KFl7THkVy6Gm.htm](classfeatures/magus-01-6YJ8KFl7THkVy6Gm.htm)|Twisting Tree|Arbre tordu|changé|
+|[magus-01-FkbFgmoVz5lHhSMo.htm](classfeatures/magus-01-FkbFgmoVz5lHhSMo.htm)|Conflux Spells|Sorts de confluence|changé|
 |[magus-01-maGzhKLmgubAdUlN.htm](classfeatures/magus-01-maGzhKLmgubAdUlN.htm)|Sparkling Targe|Targe étincelante|changé|
 |[magus-01-Pew7duAozEeAemif.htm](classfeatures/magus-01-Pew7duAozEeAemif.htm)|Starlit Span|Portée des étoiles|changé|
-|[magus-01-ZslXrvYRxHBXc1Ds.htm](classfeatures/magus-01-ZslXrvYRxHBXc1Ds.htm)|Inexorable Iron|Acier inexorable|changé|
 |[magus-07-6HCI2iHyBZAr7a4P.htm](classfeatures/magus-07-6HCI2iHyBZAr7a4P.htm)|Studious Spells|Sorts studieux|changé|
 |[None-00-UTRDN1TAieBMjwP1.htm](classfeatures/None-00-UTRDN1TAieBMjwP1.htm)|Order of the Godclaw|Ordre du dieu griffu|changé|
 |[None-01-pUkUC8HHom2DmYzz.htm](classfeatures/None-01-pUkUC8HHom2DmYzz.htm)|Elemental Magic|MAgie élémentaire|changé|
@@ -106,6 +107,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-01-tZBb3Kh4nJcNoUFI.htm](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Lore Mystery|Mystère du savoir|changé|
 |[oracle-01-W9cF7wZztLDb1WGY.htm](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Tempest Mystery|Mystère de la tempête|changé|
 |[oracle-17-F4brPlp1tHGUqyuI.htm](classfeatures/oracle-17-F4brPlp1tHGUqyuI.htm)|Extreme Curse|Malédiction extrême|changé|
+|[ranger-01-0nIOGpHQNHsKSFKT.htm](classfeatures/ranger-01-0nIOGpHQNHsKSFKT.htm)|Hunt Prey|Chasser une proie|changé|
 |[rogue-01-j1JE61quDxdge4mg.htm](classfeatures/rogue-01-j1JE61quDxdge4mg.htm)|Sneak Attack|Attaque sournoise|changé|
 |[rogue-01-wAh2riuFRzz0edPl.htm](classfeatures/rogue-01-wAh2riuFRzz0edPl.htm)|Thief Racket|Trafic de roublard : Voleur|changé|
 |[rogue-01-ZvfxtUMtfIOLYHyg.htm](classfeatures/rogue-01-ZvfxtUMtfIOLYHyg.htm)|Scoundrel Racket|Trafic de roublard : Scélérat|changé|
@@ -277,7 +279,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[inventor-03-J46wcNqKXvtokBD1.htm](classfeatures/inventor-03-J46wcNqKXvtokBD1.htm)|Reconfigure|Reconfigurer|libre|
 |[inventor-03-YMKxN56w617BYwu4.htm](classfeatures/inventor-03-YMKxN56w617BYwu4.htm)|Expert Overdrive|Surrégime expert|libre|
 |[inventor-05-0NyPgi6UACMTmAGE.htm](classfeatures/inventor-05-0NyPgi6UACMTmAGE.htm)|Inventor Weapon Expertise|Expertise avec les armes d'inventeur|libre|
-|[inventor-07-78HIjRbGoONMpF31.htm](classfeatures/inventor-07-78HIjRbGoONMpF31.htm)|Breakthrough Innovation|Innovation de rupture|libre|
 |[inventor-07-SXv9bJFbntDOMRIL.htm](classfeatures/inventor-07-SXv9bJFbntDOMRIL.htm)|Master Overdrive|Surrégime maître|libre|
 |[inventor-07-Xqd0vrxq2bLXxdaB.htm](classfeatures/inventor-07-Xqd0vrxq2bLXxdaB.htm)|Lightning Reflexes (Level 7)|Réflexes fulgurants (Niveau 7)|libre|
 |[inventor-09-F8oXHnu9iNTcpXbJ.htm](classfeatures/inventor-09-F8oXHnu9iNTcpXbJ.htm)|Offensive Boost|Renfort offensif|libre|
@@ -307,10 +308,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[investigator-15-DqWr3LqUpT3Xi2xq.htm](classfeatures/investigator-15-DqWr3LqUpT3Xi2xq.htm)|Evasion (Level 15)|Évasion (Niveau 15)|officielle|
 |[investigator-19-flEx8eY0NinF9XZU.htm](classfeatures/investigator-19-flEx8eY0NinF9XZU.htm)|Master Detective|Maître détective|libre|
 |[magus-01-09iL38CZZEa0q0Mt.htm](classfeatures/magus-01-09iL38CZZEa0q0Mt.htm)|Arcane Cascade|Cascade arcanique|libre|
-|[magus-01-FkbFgmoVz5lHhSMo.htm](classfeatures/magus-01-FkbFgmoVz5lHhSMo.htm)|Conflux Spells|Sorts de confluence|libre|
 |[magus-01-FTeIs1Z1Qeli4BIF.htm](classfeatures/magus-01-FTeIs1Z1Qeli4BIF.htm)|Hybrid Study|Études hybridées|libre|
 |[magus-01-KVj5ofUwu3VJSrVw.htm](classfeatures/magus-01-KVj5ofUwu3VJSrVw.htm)|Spellstrike|Frappe de sort|libre|
 |[magus-01-wXaz41gwqNtTn6tf.htm](classfeatures/magus-01-wXaz41gwqNtTn6tf.htm)|Arcane Spellcasting (Magus)|Incantation arcanique (Magus)|libre|
+|[magus-01-ZslXrvYRxHBXc1Ds.htm](classfeatures/magus-01-ZslXrvYRxHBXc1Ds.htm)|Inexorable Iron|Acier inexorable|libre|
 |[magus-05-9XLUh9iMepZesdmc.htm](classfeatures/magus-05-9XLUh9iMepZesdmc.htm)|Weapon Expertise (Level 5)|Expertise avec les armes (Niveau 5)|libre|
 |[magus-09-D2g6sZQAWaTccviQ.htm](classfeatures/magus-09-D2g6sZQAWaTccviQ.htm)|Resolve (Level 9)|Résolution (Niveau 9)|libre|
 |[magus-09-TAIOtk5VvPZvv4nu.htm](classfeatures/magus-09-TAIOtk5VvPZvv4nu.htm)|Alertness (Level 9)|Vigilance (Niveau 9)|libre|
@@ -369,7 +370,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-13-EJzjY6AIsTYqW0ee.htm](classfeatures/oracle-13-EJzjY6AIsTYqW0ee.htm)|Lightning Reflexes (Level 13)|Réflexes fulgurants (Niveau 13)|libre|
 |[oracle-17-5LOARurr4qWkfS9K.htm](classfeatures/oracle-17-5LOARurr4qWkfS9K.htm)|Greater Resolve (Level 17)|Résolution supérieure (Niveau 17)|libre|
 |[oracle-19-571c1aGnvNVwfF6b.htm](classfeatures/oracle-19-571c1aGnvNVwfF6b.htm)|Oracular Clarity|Clarté oraculaire|libre|
-|[ranger-01-0nIOGpHQNHsKSFKT.htm](classfeatures/ranger-01-0nIOGpHQNHsKSFKT.htm)|Hunt Prey|Chasser une proie|officielle|
 |[ranger-01-6v4Rj7wWfOH1882r.htm](classfeatures/ranger-01-6v4Rj7wWfOH1882r.htm)|Hunter's Edge: Flurry|Spécialité du chasseur : Déluge|officielle|
 |[ranger-01-mzkkj9LEWjJPBhaq.htm](classfeatures/ranger-01-mzkkj9LEWjJPBhaq.htm)|Hunter's Edge|Spécialité du Chasseur|officielle|
 |[ranger-01-NBHyoTrI8q62uDsU.htm](classfeatures/ranger-01-NBHyoTrI8q62uDsU.htm)|Hunter's Edge: Outwit|Spécialité du chasseur : Ruse|officielle|

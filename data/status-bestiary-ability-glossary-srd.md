@@ -1,18 +1,17 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
  * **libre**: 12
- * **officielle**: 36
- * **changé**: 2
+ * **officielle**: 37
+ * **changé**: 1
 
 
-Dernière mise à jour: 2021-11-27 21:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-12-08 20:27 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[eQM5hQ1W3d1uen97.htm](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)|Change Shape|Changement de forme|changé|
 |[etMnv73EIdEZrYYu.htm](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Frightful Presence|Présence terrifiante|changé|
 
 ## Liste des traductions complétés
@@ -30,6 +29,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[AWvNPE4U0kEJSL1T.htm](bestiary-ability-glossary-srd/AWvNPE4U0kEJSL1T.htm)|Sneak Attack|Attaque sournoise|officielle|
 |[baA0nSMhQyFyJIia.htm](bestiary-ability-glossary-srd/baA0nSMhQyFyJIia.htm)|Swarm Mind|Esprit de la nuée|officielle|
 |[BCLvAx4Pz4MLa2pu.htm](bestiary-ability-glossary-srd/BCLvAx4Pz4MLa2pu.htm)|Knockdown|Renversement|officielle|
+|[eQM5hQ1W3d1uen97.htm](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)|Change Shape|Changement de forme|officielle|
 |[fFu2sZz4KB01fVRc.htm](bestiary-ability-glossary-srd/fFu2sZz4KB01fVRc.htm)|Low-Light Vision|Vision nocturne|officielle|
 |[fJSNOw4zHGbIm4bZ.htm](bestiary-ability-glossary-srd/fJSNOw4zHGbIm4bZ.htm)|Fast Healing|Guérison accélérée|officielle|
 |[g26YiEIfSHCpLocV.htm](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constrict|Constriction|officielle|

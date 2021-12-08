@@ -1,12 +1,12 @@
 # État de la traduction (hazards)
 
  * **libre**: 4
- * **officielle**: 22
+ * **officielle**: 20
  * **aucune**: 3
- * **changé**: 24
+ * **changé**: 26
 
 
-Dernière mise à jour: 2021-11-27 21:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2021-12-08 20:27 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -23,7 +23,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[6In2S3lDnxNgZ2np.htm](hazards/6In2S3lDnxNgZ2np.htm)|Titanic Flytrap|Attrape-mouches titanesque|changé|
 |[7VqibTAEXXX6PIhh.htm](hazards/7VqibTAEXXX6PIhh.htm)|Scythe Blades|Lames de faux|changé|
+|[g9HovYB4pfHgIML9.htm](hazards/g9HovYB4pfHgIML9.htm)|Flensing Blades|Lames lacérantes|changé|
 |[H2GX04CQXLPQHT8h.htm](hazards/H2GX04CQXLPQHT8h.htm)|Wheel Of Misery|Roue du malheur|changé|
+|[lgyGhpyPosriQUzE.htm](hazards/lgyGhpyPosriQUzE.htm)|Perilous Flash Flood|Crue subite périlleuse|changé|
 |[m4PRYxFq9ojcwesh.htm](hazards/m4PRYxFq9ojcwesh.htm)|Pharaoh's Ward|Sceau du pharaon|changé|
 |[mMXHyWdmmAN0GPvG.htm](hazards/mMXHyWdmmAN0GPvG.htm)|Banshee's Symphony|Symphonie d'outre-tombe|changé|
 |[nO4osrBRnpWKFCMP.htm](hazards/nO4osrBRnpWKFCMP.htm)|Summoning Rune|Rune de convocation|changé|
@@ -65,14 +67,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BsZ6o2YrwVovKfNh.htm](hazards/BsZ6o2YrwVovKfNh.htm)|Armageddon Orb|Orbe de l'armageddon|officielle|
 |[C6nFe8SCWJ8FmLOT.htm](hazards/C6nFe8SCWJ8FmLOT.htm)|Quicksand|Sables mouvants|officielle|
 |[d3YklujLpBFC5HfB.htm](hazards/d3YklujLpBFC5HfB.htm)|Ghostly Choir|Chœur spectral|officielle|
-|[g9HovYB4pfHgIML9.htm](hazards/g9HovYB4pfHgIML9.htm)|Flensing Blades|Lames lacérantes|officielle|
 |[gB9WkJtH88jJQa5Z.htm](hazards/gB9WkJtH88jJQa5Z.htm)|Plummeting Doom|Chute tragique|officielle|
 |[gFt2nzQrVgXM9tmJ.htm](hazards/gFt2nzQrVgXM9tmJ.htm)|Treacherous Scree|Éboulis traître|officielle|
 |[H8CPGJn81JSTCRNx.htm](hazards/H8CPGJn81JSTCRNx.htm)|Polymorph Trap|Piège de métamorphose|officielle|
 |[HnPd9Vqh5NHKEdRq.htm](hazards/HnPd9Vqh5NHKEdRq.htm)|Spinning Blade Pillar|Colonne de lames tournoyantes|officielle|
 |[inUlZWE1isqnTRc5.htm](hazards/inUlZWE1isqnTRc5.htm)|Jealous Abjurer|Abjurateur jaloux|officielle|
 |[J4YChuob7MIPT5Mq.htm](hazards/J4YChuob7MIPT5Mq.htm)|Vorpal Executioner|Bourreau vorpal|officielle|
-|[lgyGhpyPosriQUzE.htm](hazards/lgyGhpyPosriQUzE.htm)|Perilous Flash Flood|Crue subite périlleuse|officielle|
 |[LLPsEKLoVmoPleJS.htm](hazards/LLPsEKLoVmoPleJS.htm)|Green Slime|Substance gluante verte|libre|
 |[lVqVDjXnHboMif7F.htm](hazards/lVqVDjXnHboMif7F.htm)|Poisoned Dart Gallery|Couloir de fléchettes empoisonnées|officielle|
 |[Or0jjL8xS3GyiMq0.htm](hazards/Or0jjL8xS3GyiMq0.htm)|Web Lurker Noose|Toile de noeuds coulants|libre|

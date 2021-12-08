@@ -14,7 +14,7 @@
         {
             "id": "Frightful Presence",
             "name": "Frightful Presence (Présence terrifiante)",
-            "description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} @Template[type:emanation|distance:__]{__ pieds}</p>\n<p><span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,emotion,fear,mental\" data-pf2-label=\"Frightful Presence DC\" data-pf2-show-dc=\"gm\">Volonté</span></p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+            "description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} @Template[type:emanation|distance:0]{0 Pieds} <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,emotion,fear,mental\" data-pf2-label=\"DD Présence terrifiante\" data-pf2-show-dc=\"gm\">Volonté</span></p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "Improved Knockdown",
