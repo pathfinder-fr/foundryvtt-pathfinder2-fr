@@ -75,7 +75,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Breath Weapon (Piercing) (Line)](actions/QQQaV7pi9Gv2GpLj.htm)|Arme de souffle perforante (Ligne)|`@Compendium[pf2e.actionspf2e.QQQaV7pi9Gv2GpLj]`|
 |[Breath Weapon (Poison) (Cone)](actions/NEBuuhjZE9BL3I8v.htm)|Arme de souffle empoisonné (cône)|`@Compendium[pf2e.actionspf2e.NEBuuhjZE9BL3I8v]`|
 |[Breath Weapon (Poison) (Line)](actions/AWXPiqz4xDN03iPs.htm)|Arme de souffle empoisonné (Ligne)|`@Compendium[pf2e.actionspf2e.AWXPiqz4xDN03iPs]`|
-|[Bullet Dancer Stance](actions/SMF1hTWPHtmlS8Cd.htm)||`@Compendium[pf2e.actionspf2e.SMF1hTWPHtmlS8Cd]`|
+|[ce](actions/SMF1hTWPHtmlS8Cd.htm)||`@Compendium[pf2e.actionspf2e.SMF1hTWPHtmlS8Cd]`|
 |[Burrow](actions/H6v1VgowHaKHnVlG.htm)|Creuser|`@Compendium[pf2e.actionspf2e.H6v1VgowHaKHnVlG]`|
 |[Call Companion](actions/8kGpUUUSX1sB2OqQ.htm)|Appeler un compagnon|`@Compendium[pf2e.actionspf2e.8kGpUUUSX1sB2OqQ]`|
 |[Call Gun](actions/ESMIHOOahLQoqxW1.htm)||`@Compendium[pf2e.actionspf2e.ESMIHOOahLQoqxW1]`|
