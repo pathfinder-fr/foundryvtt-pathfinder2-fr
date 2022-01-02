@@ -8,6 +8,7 @@
   "download": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/archive/v-1.11.0/foundryvtt-pathfinder2-fr-v-1.11.0.zip",
   "manifest": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/module.json",
   "scripts": ["pf2fr.js"],
-  "minimumCoreVersion": "0.5.5",
-  "compatibleCoreVersion": "1.0.0"
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9",
+  "system": ["pf2e"]
 }
