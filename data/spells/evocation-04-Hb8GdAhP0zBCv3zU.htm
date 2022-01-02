@@ -1,11 +1,10 @@
 Name: Chromatic Ray
 Nom: Rayon chromatique
-État: changé
-État d'origine: libre
+État: libre
 
 ------ Data ------
 RangeEN: 30 feet
-RangeFR: 9 m
+RangeFR: 9 mètres
 TargetEN: 1 creature
 TargetFR: 1 créature
 ------ Description (en) ------
@@ -27,16 +26,16 @@ TargetFR: 1 créature
 ------ Description (fr) ------
 <p>Vous envoyez un rayon de lumière colorée en direction de votre ennemi, avec un effet magique dépendant de la couleur du rayon. Faites un jet d'attaque de sort. Si vous touchez, lancez [[/r 1d4]]{1d4} pour voir quel rayon vous avez lancé. Si le rayon inflige des dégâts, ceux-ci sont doublés en cas de coup critique. Tous les traits supplémentaires qui s'appliquent à un rayon sont indiqués entre parenthèses, juste après le nom de la couleur.</p>
 <ol>
-<li><strong>Rouge</strong> (feu) Le rayon inflige [[/r 30 #feu]]{30 dégâts de feu} à la cible.</li>
-<li><strong>Orange</strong> (acide) Le rayon inflige [[/r 40 #acide]]{40 dégâts d'acide} à la cible.</li>
-<li><strong>Jaune</strong> (électricité) Le rayon inflige [[/r 50 #électricité]]{50 dégâts d'électricité} à la cible.</li>
+<li><strong>Rouge</strong> (feu) Le rayon inflige  [[/r {30}[fire]]]{30 dégâts de feu} à la cible.</li>
+<li><strong>Orange</strong> (acide) Le rayon inflige [[/r {40}[acid]]]{40 dégâts d'acide} à la cible.</li>
+<li><strong>Jaune</strong> (électricité) Le rayon inflige [[/r {50}[electricity]]]{50 dégâts d'électricité} à la cible.</li>
 <li><strong>Vert</strong> (poison) Le rayon inflige [[/r 25 #poison]]{25 dégâts de poison} à la cible et la cible doit réussir un jet de Vigueur ou être @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 1} pendant 1 minute (Affaiblie 2 en cas d'échec critique).</li>
 </ol>
 <hr />
-<p><strong>Intensifié (6e)</strong> Les dégâts du rayon [[/r 40 #feu]]{Rouge}, du rayon [[/r 50 #acide]]{Orange}, du rayon [[/r 60 #électricité]]{JAune} et du rayon [[/r 35 #poison]]{Vert} augmentent chacun de 10. Lancez [[/r 1d8]]{1d8} pour déterminer la couleur du rayon en utilisant les résultats de 1-4 ci-dessus et les résultats de 5-8 ci-après.</p>
+<p><strong>Intensifié (6e)</strong> Les dégâts du rayon [[/r {40}[fire]]]{Rouge}, du rayon [[/r {50}[acid]]]{Orange}, du rayon  [[/r {60}[electricity]]]{Jaune} et du rayon [[/r 35 #poison]]{Vert} augmentent chacun de 10. Lancez [[/r 1d8]]{1d8} pour déterminer la couleur du rayon en utilisant les résultats de 1-4 ci-dessus et les résultats de 5-8 ci-après.</p>
 <ol start="5">
 <li><strong>Bleu</strong> Le rayon possède les effets du sort @Compendium[pf2e.spells-srd.znv4ECL7ZtuiagtA]{Chair en pierre}. Sur un coup critique, la cible est @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 1} tant qu'elle est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} par l'effet de Chair en pierre.</li>
 <li><strong>Indigo</strong> (émotion, mise hors de combat, mental) Le rayon a l'effet du sort @Compendium[pf2e.spells-srd.LiGbewa9pO0yjbsY]{Confusion}. Sur un coup critique, il possède les effets du sort @Compendium[pf2e.spells-srd.8kJbiBEjMWG4VUjs]{Déformer l'esprit} à la place.</li>
-<li><strong>Violet</strong> La cible est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} pendant 1 minute. Elle doit aussi réussir un jet de <span data-pf2-check="will" data-pf2-traits="teleportation,light,evocation" data-pf2-label="DD sauvegarde Rayon violet">Volonté</span> ou être téléportée de 36 m par rapport à  vous (S'il n'y a pas de place pour lui permettre d'apparaître à cet endroit, elle a apparaît  dans la case vide la plus proche) ; c'est un effet de téléportation.</li>
+<li><strong>Violet</strong> La cible est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} pendant 1 minute. Elle doit aussi réussir un jet de <span data-pf2-check="will" data-pf2-traits="teleportation,light,evocation" data-pf2-label="DD sauvegarde Rayon violet">Volonté</span> ou être téléportée de 36 mètres par rapport à  vous (S'il n'y a pas de place pour lui permettre d'apparaître à cet endroit, elle a apparaît  dans la case vide la plus proche) ; c'est un effet de téléportation.</li>
 <li><strong>Couleur intense</strong> La cible est @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} jusqu'à la fin de votre prochain tour ou @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglée} si votre jet d'attaque était un coup critique. Lancez de nouveau et ajoutez les effets d'une autre couleur en relançant tout nouveau résultat de 8).</li>
 </ol>
