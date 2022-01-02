@@ -1,27 +1,18 @@
 # État de la traduction (spell-effects)
 
  * **changé**: 219
- * **libre**: 128
- * **aucune**: 20
+ * **libre**: 137
+ * **officielle**: 1
+ * **aucune**: 10
 
 
-Dernière mise à jour: 2021-12-08 20:27 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-02 07:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[01-otK6eG3b3FV7n2xP.htm](spell-effects/01-otK6eG3b3FV7n2xP.htm)|Spell Effect: Swampcall (Critical Failure)|
-|[01-ROuGwXEvFznzGE9k.htm](spell-effects/01-ROuGwXEvFznzGE9k.htm)|Spell Effect: Swampcall (Failure)|
-|[02-afJCG4vC5WF5h5IB.htm](spell-effects/02-afJCG4vC5WF5h5IB.htm)|Spell Effect: Clawsong (Damage Increase D8)|
-|[02-AnCRD7kDcG0DDGKn.htm](spell-effects/02-AnCRD7kDcG0DDGKn.htm)|Spell Effect: Fungal Infestation (Failure)|
-|[02-CWC2fPmlgixoIKy5.htm](spell-effects/02-CWC2fPmlgixoIKy5.htm)|Spell Effect: Clawsong (Damage Increase D6)|
-|[02-g4E9l4uA62LcRBJS.htm](spell-effects/02-g4E9l4uA62LcRBJS.htm)|Spell Effect: Clawsong (Versatile Piercing)|
-|[02-mAofA4oy3cRdT71K.htm](spell-effects/02-mAofA4oy3cRdT71K.htm)|Spell Effect: Penumbral Disguise|
-|[02-RLUhIyqH84Dle4vo.htm](spell-effects/02-RLUhIyqH84Dle4vo.htm)|Spell Effect: Fungal Infestation (Critical Failure)|
-|[02-zdpTPf157rXl3tEJ.htm](spell-effects/02-zdpTPf157rXl3tEJ.htm)|Spell Effect: Clawsong (Deadly D8)|
-|[04-1RsScTvNdGD9zGWe.htm](spell-effects/04-1RsScTvNdGD9zGWe.htm)|Spell Effect: Fire Shield|
 |[04-QJRaVbulmpOzWi6w.htm](spell-effects/04-QJRaVbulmpOzWi6w.htm)|Spell Effect: Girzanje's March|
 |[04-sILRkGTwoBywy0BU.htm](spell-effects/04-sILRkGTwoBywy0BU.htm)|Spell Effect: Gaseous Form|
 |[04-UXdt1WVA66oZOoZS.htm](spell-effects/04-UXdt1WVA66oZOoZS.htm)|Spell Effect: Flame Barrier|
@@ -295,11 +286,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-n6NK7wqhTxWr3ij8.htm](spell-effects/01-n6NK7wqhTxWr3ij8.htm)|Spell Effect: Warding Aggression (+2)|Effet: Agression protectrice (+2)|libre|
 |[01-ndj0TpLxyzbyzcm4.htm](spell-effects/01-ndj0TpLxyzbyzcm4.htm)|Spell Effect: Necrotize (Legs)|Effet: Nécroser (Jambes)|libre|
 |[01-nIryhRgeiacQw1Em.htm](spell-effects/01-nIryhRgeiacQw1Em.htm)|Spell Effect: Soothing Blossoms|Effet: Bourgeons apaisants|libre|
+|[01-otK6eG3b3FV7n2xP.htm](spell-effects/01-otK6eG3b3FV7n2xP.htm)|Spell Effect: Swampcall (Critical Failure)|Effet : Appel du marais (Échec critique)|libre|
 |[01-p10GOTCXqeJp4wzg.htm](spell-effects/01-p10GOTCXqeJp4wzg.htm)|Spell Effect: Infectious Enthusiasm (Charisma Based)|Effet: Enthousiasme communicatif (tests basés sur le charisme)|libre|
 |[01-PDoTV4EhJp63FEaG.htm](spell-effects/01-PDoTV4EhJp63FEaG.htm)|Spell Effect: Draw Ire (Success)|Effet : Attirer la colère (Succès)|libre|
 |[01-pocsoEi84Mr2buOc.htm](spell-effects/01-pocsoEi84Mr2buOc.htm)|Spell Effect: Evolution Surge (Scent)|Effet: Flux d'évolution(Odorat)|libre|
 |[01-pPMldkAbPVOSOPIF.htm](spell-effects/01-pPMldkAbPVOSOPIF.htm)|Spell Effect: Protect Companion|Effet: Protéger le compagnon|libre|
 |[01-R3j6song8sYLY5vG.htm](spell-effects/01-R3j6song8sYLY5vG.htm)|Spell Effect: Community Repair (Critical Success)|Effet: Réparation communautaire (Succès critique)|libre|
+|[01-ROuGwXEvFznzGE9k.htm](spell-effects/01-ROuGwXEvFznzGE9k.htm)|Spell Effect: Swampcall (Failure)|Effet : Appel du marais (Échec)|libre|
 |[01-TjGHxli0edXI6rAg.htm](spell-effects/01-TjGHxli0edXI6rAg.htm)|Spell Effect: Schadenfreude (Success)|Effet: Joie malsaine (Succès)|libre|
 |[01-u04C6DgBFP9PKzDx.htm](spell-effects/01-u04C6DgBFP9PKzDx.htm)|Spell Effect: Impeccable Flow (5th)|Effet: Flux impeccable (5e)|libre|
 |[01-UVrEe0nukiSmiwfF.htm](spell-effects/01-UVrEe0nukiSmiwfF.htm)|Spell Effect: Reinforce Eidolon|Effet: Renforcer l'eidolon|libre|
@@ -308,19 +301,26 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-yq6iu0Qxg3YEbb6s.htm](spell-effects/01-yq6iu0Qxg3YEbb6s.htm)|Spell Effect: Elemental Gift (Water)|Effet: Don élémentaire (Eau)|libre|
 |[02-0q2716S34XL1y9Hh.htm](spell-effects/02-0q2716S34XL1y9Hh.htm)|Spell Effect: Rapid Adaptation (Underground)|Effet: Adaptation rapide (Souterrain)|libre|
 |[02-81TfqzTfIqkQA4Dy.htm](spell-effects/02-81TfqzTfIqkQA4Dy.htm)|Spell Effect: Thundering Dominance|Effet: Domination tonitruante|libre|
+|[02-afJCG4vC5WF5h5IB.htm](spell-effects/02-afJCG4vC5WF5h5IB.htm)|Spell Effect: Clawsong (Damage Increase D8)|Chant de la griffe (Augmentation des dégâts d8)|libre|
 |[02-AM49w68oKykc2fHI.htm](spell-effects/02-AM49w68oKykc2fHI.htm)|Spell Effect: Rapid Adaptation (Plains)|Effet: Adaptation rapide (Plaines)|libre|
+|[02-AnCRD7kDcG0DDGKn.htm](spell-effects/02-AnCRD7kDcG0DDGKn.htm)|Spell Effect: Fungal Infestation (Failure)|Effet: Infestation fongique(Échec)|libre|
 |[02-buXx8Azr4BYWPtFg.htm](spell-effects/02-buXx8Azr4BYWPtFg.htm)|Spell Effect: Blood Vendetta (Failure)|Effet: Vendetta du sang (Échec)|libre|
+|[02-CWC2fPmlgixoIKy5.htm](spell-effects/02-CWC2fPmlgixoIKy5.htm)|Spell Effect: Clawsong (Damage Increase D6)|Effet : Chant de la griffe (Augmentation des dégâts d6)|libre|
 |[02-ei9MIyZbIaP4AZmh.htm](spell-effects/02-ei9MIyZbIaP4AZmh.htm)|Spell Effect: Flame Wisp|Effet: Feu follet enflammé|libre|
-|[02-fGK6zJ7mWz9D5QYo.htm](spell-effects/02-fGK6zJ7mWz9D5QYo.htm)|Spell Effect: Rapid Adaptation (Aquatic Base Swim Speed)|Effet: Adaptation radide (Aquatique : Base de nage)|libre|
+|[02-fGK6zJ7mWz9D5QYo.htm](spell-effects/02-fGK6zJ7mWz9D5QYo.htm)|Spell Effect: Rapid Adaptation (Aquatic Base Swim Speed)|Effet: Adaptation rapide (Aquatique : Base de nage)|libre|
+|[02-g4E9l4uA62LcRBJS.htm](spell-effects/02-g4E9l4uA62LcRBJS.htm)|Spell Effect: Clawsong (Versatile Piercing)|Effet : Chant de la griffe (Polyvalent P)|libre|
 |[02-HoOujAdQWCN4E6sQ.htm](spell-effects/02-HoOujAdQWCN4E6sQ.htm)|Spell Effect: Barkskin|Effet: Peau d'écorce|libre|
 |[02-HtaDbgTIzdiTiKLX.htm](spell-effects/02-HtaDbgTIzdiTiKLX.htm)|Spell Effect: Triple Time|Effet: À trois temps|libre|
 |[02-iiV80Kexj6vPmzqU.htm](spell-effects/02-iiV80Kexj6vPmzqU.htm)|Spell Effect: Rapid Adaptation (Arctic)|Effet: Adaptation rapide (Arctique)|libre|
 |[02-itmiGioGNuVvt4QE.htm](spell-effects/02-itmiGioGNuVvt4QE.htm)|Spell Effect: Rapid Adaptation (Aquatic Speed Bonus)|Effet : Adaptation rapide (Aquatique: bonus vitesse de nage)|libre|
 |[02-IXS15IQXYCZ8vsmX.htm](spell-effects/02-IXS15IQXYCZ8vsmX.htm)|Spell Effect: Darkvision|Effet: Vision dans le noir|libre|
 |[02-jtMo6qS47hPx6EbR.htm](spell-effects/02-jtMo6qS47hPx6EbR.htm)|Spell Effect: Rapid Adaptation (Forest)|Effet: Adaptation rapide (Forêt)|libre|
+|[02-mAofA4oy3cRdT71K.htm](spell-effects/02-mAofA4oy3cRdT71K.htm)|Spell Effect: Penumbral Disguise|Effet : Déguisement pénombral|libre|
 |[02-qo7DoF11Xl9gqmFc.htm](spell-effects/02-qo7DoF11Xl9gqmFc.htm)|Spell Effect: Rapid Adaptation (Desert)|Effet: Adaptation rapide (Désert)|libre|
+|[02-RLUhIyqH84Dle4vo.htm](spell-effects/02-RLUhIyqH84Dle4vo.htm)|Spell Effect: Fungal Infestation (Critical Failure)|Effet : Infestation fongique(Échec critique)|libre|
 |[02-sDN9b4bjCGH2nQnG.htm](spell-effects/02-sDN9b4bjCGH2nQnG.htm)|Spell Effect: Rapid Adaptation (Mountain)|Effet: Adaptation rapide (Montagne)|libre|
 |[02-xPVOvWNJORvm8EwP.htm](spell-effects/02-xPVOvWNJORvm8EwP.htm)|Spell Effect: Mimic Undead|Effet: Imiter un mort-vivant|libre|
+|[02-zdpTPf157rXl3tEJ.htm](spell-effects/02-zdpTPf157rXl3tEJ.htm)|Spell Effect: Clawsong (Deadly D8)|Effet : Chant de la griffe (Mortel D8)|libre|
 |[03-6BjslHgY01cNbKp5.htm](spell-effects/03-6BjslHgY01cNbKp5.htm)|Spell Effect: Armor of Bones|Effet: Armure d'os|libre|
 |[03-czteoX2cggQzfkK9.htm](spell-effects/03-czteoX2cggQzfkK9.htm)|Spell Effect: Evolution Surge (Climb)|Effet: Flux d'évolution (Escalade)|libre|
 |[03-E6HPkpvzvkaJ49c0.htm](spell-effects/03-E6HPkpvzvkaJ49c0.htm)|Spell Effect: Elemental Absorption (Earth)|Effet: Absorption élémentaire (Terre)|libre|
@@ -332,6 +332,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03-VAJMojQATvpAcpQW.htm](spell-effects/03-VAJMojQATvpAcpQW.htm)|Spell Effect: Elemental Absorption (Fire)|Effet: Absorption élémentaire (Feu)|libre|
 |[03-zPGVOLz6xhsQN35C.htm](spell-effects/03-zPGVOLz6xhsQN35C.htm)|Spell Effect: Envenom Companion|Effet: Compagnon venimeux|libre|
 |[04-0IxfOSTMen1GKQUW.htm](spell-effects/04-0IxfOSTMen1GKQUW.htm)|Spell Effect: Energy Absorption (Electricity)|Effet: Absorption d'énergie (Électricité)|libre|
+|[04-1RsScTvNdGD9zGWe.htm](spell-effects/04-1RsScTvNdGD9zGWe.htm)|Spell Effect: Fire Shield|Effet : Bouclier de feu|officielle|
 |[04-28NvrpZmELvyrHUt.htm](spell-effects/04-28NvrpZmELvyrHUt.htm)|Spell Effect: Variable Gravity (High Gravity)|Effet: Gravité variable (Gravité élevée)|libre|
 |[04-5xCheSMgtQhQZm00.htm](spell-effects/04-5xCheSMgtQhQZm00.htm)|Spell Effect: Garden of Death (Critical Success)|Effet: Jardin mortel (Succès critique)|libre|
 |[04-8wCVSzWYcURWewbd.htm](spell-effects/04-8wCVSzWYcURWewbd.htm)|Spell Effect: Bestial Curse (Failure)|Effet: Malédiction bestiale (Échec)|libre|

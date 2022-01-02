@@ -1,17 +1,16 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 50
- * **changé**: 308
+ * **libre**: 51
+ * **changé**: 307
 
 
-Dernière mise à jour: 2021-12-08 20:27 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-02 07:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[10JbkieWjqKA5Hzc.htm](pathfinder-bestiary-2/10JbkieWjqKA5Hzc.htm)|Irlgaunt|Irlgaunt|changé|
 |[12vyw160K7p3M3Mt.htm](pathfinder-bestiary-2/12vyw160K7p3M3Mt.htm)|Quetz Couatl|Quetzalcoatl|changé|
 |[1QWZDaBoefL5rWkz.htm](pathfinder-bestiary-2/1QWZDaBoefL5rWkz.htm)|Hodag|Hodag|changé|
 |[27R4ntwgch7eIQM6.htm](pathfinder-bestiary-2/27R4ntwgch7eIQM6.htm)|Akizendri|Akizendri (Protéen)|changé|
@@ -325,6 +324,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[0rhltfBkQtYkCwXd.htm](pathfinder-bestiary-2/0rhltfBkQtYkCwXd.htm)|Yellow Musk Thrall|Rejeton de mimule jaune|libre|
+|[10JbkieWjqKA5Hzc.htm](pathfinder-bestiary-2/10JbkieWjqKA5Hzc.htm)|Irlgaunt|Irlgaunt|libre|
 |[18NInoyRLIrWE0nt.htm](pathfinder-bestiary-2/18NInoyRLIrWE0nt.htm)|Chernobue|Chernobue (Qlippoth)|libre|
 |[2Kw49I6EZbKKlTtK.htm](pathfinder-bestiary-2/2Kw49I6EZbKKlTtK.htm)|Blizzardborn|Néblizzard (Élémentaire, eau)|libre|
 |[32HHvah2Ji6FjJnM.htm](pathfinder-bestiary-2/32HHvah2Ji6FjJnM.htm)|Giant Squid|Calamar géant|libre|

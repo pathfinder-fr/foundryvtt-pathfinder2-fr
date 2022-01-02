@@ -37,6 +37,11 @@
             "description": "<p>Vous effectuez un test de compétence pour tenter de vous rappeler une information à propos d’un sujet correspondant à une compétence. Le MJ détermine le DD de ces tests et la compétence applicable.</p>\n<p>La compétence <strong>Société</strong> peut être utilisées pour Se souvenir et obtenir des informations sur les sujets suivants : histoire locale, personnalités prépondérantes, institutions juridiques, structure des sociétés et cultures des humanoïdes.</p>\n<p>Dans certains cas, le MJ peut vous autoriser à utiliser une compétence différente mais elle aussi apparentée, généralement contre un DD plus élevé que la normale. Certains sujets peuvent apparaître plusieurs fois dans les listes mais les compétences peuvent chacune fournir des informations différentes. Par exemple, Arcanes pourrait vous permettre d’en savoir plus sur les défenses magiques d’un golem, là où Artisanat pourrait vous informer sur sa résistance impressionnante contre les attaques physiques.</p>\n<p>Le MJ peut vous autoriser à faire des tests pour Se souvenir en utilisant d’autres compétences. Par exemple, vous pourriez évaluer le talent d’un acrobate en utilisant Acrobaties. Si vous utilisez une compétence physique (comme dans cet exemple), il est fort probable que le MJ vous demande d’appliquer une valeur de caractéristique mentale — le plus souvent l’Intelligence — au lieu de la valeur de caractéristique physique normalement associée à la compétence.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous vous souvenez avec précision de l'information nécessaire et obtenez des informations ou du contexte supplémentaires.</p>\n<p><strong>Succès</strong> Vous vous souvenez avec précision de l'information nécessaire ou obtenez un indice utile sur votre situation actuelle.</p>\n<p><strong>Échec critique</strong> Vous vous souvenez d'une information inexacte ou obtenez un indice faux ou trompeur.</p>\n<h2 class=\"title\">Se souvenir : exemple de tâches</h2>\n<p>Ces exemples utilisent Société et Religion.</p>\n<ul>\n<li><strong>Inexpérimenté</strong> le nom d'un souverain, d'un noble prépondérant ou d'une divinité majeure</li>\n<li><strong>Qualifié</strong> la ligne de succession d'une famille noble majeure, les principaux préceptes d'une divinité majeure</li>\n<li><strong>Expert</strong> la généalogie d'un noble mineur, les enseignements d'un ancien prêtre</li>\n<li><strong>Maître</strong> la hiérarchie au sein de la cour d'un génie noble, les temples extraplanaires majeurs d'une divinité</li>\n<li><strong>Légendaire</strong> l'existence d'un héritier d'une famille noble depuis longtemps disparue, les préceptes secrets d'une religion</li>\n</ul>"
         },
         {
+            "id": "Coughing Dragon",
+            "name": "Coughing Dragon",
+            "description": "<p><strong>Coût</strong> 2 lots de réactifs imprégnés</p>\n<hr />\n<p><strong>Effet</strong> Choisissez entre les effets auditifs ou les effets visuels. La démonstration obtient ce trait et vous tentez de contrer un ou plusieurs effets dans un rayon de 18 m qui ont ce trait. En cas de réussite, l'effet est supprimé jusqu'au début de votre prochain tour, au lieu de s'arrêter complètement. Utilisez votre modificateur de Connaissance des feux d'artifice comme modificateur de contre et votre niveau de contre égal à la moitié de votre niveau d'Alchimie avancée (arrondi au supérieur). Un dragon qui tousse coûte 2 lots de réactifs imprégnés au lieu de 1, mais vous pouvez augmenter le coût à 3 lots et dépenser une action supplémentaire pour créer une démonstration de Dragon qui tousse encore plus important qui tente de contrer à la fois les effets auditifs et les effets visuels.</p>"
+        },
+        {
             "id": "Burrow",
             "name": "Burrow",
             "description": "<p><strong>Conditions</strong> Vous avez une Vitesse de creusement.</p>\n<hr />\n<p>Vous creusez un chemin à travers de la terre, du sable ou un autre matériau meuble avec d’une distance maximale égale à votre Vitesse de creusement. Vous ne pouvez pas creuser à travers la roche ou d’autres substances plus denses que la terre, sauf si un pouvoir vous le permet.</p>"
@@ -45,6 +50,11 @@
             "id": "Refocus",
             "name": "Refocus",
             "description": "<p><strong>Conditions</strong>  Vous disposez d’une réserve de focalisation et vous avez dépensé au moins 1 point de focalisation depuis la dernière fois que vous avez récupéré vos points de focalisation.</p>\n<hr />\n<p>Vous passez 10 minutes à accomplir des actes permettant de restaurer votre connexion magique, ce qui rend 1 point de focalisation à votre réserve. Ces actes sont décrits avec la classe ou le pouvoir qui vous a donné vos sorts focalisés. Ils se recoupent souvent avec d’autres tâches liées à l’origine de vos sorts focalisés.</p>\n<p>Par exemple, un prêtre qui reçoit ses sorts focalisés de la part d’une divinité bonne peut généralement utiliser Refocaliser pendant qu’il soigne les plaies de ses alliés tandis qu’un magicien de l’école de l’illusion pourrait se Refocaliser en tentant d’@Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifier de la magie} issue de l’école de l’illusion.</p>"
+        },
+        {
+            "id": "Call Gun",
+            "name": "Call Gun",
+            "description": "<p><strong>Effet</strong> Vous tenez en l'air une main libre et appelez dans votre main l'arme à feu ou l'arbalète que vous avez choisie pendant vos préparatifs quotidiens. Tant que l'arme que vous avez choisie se trouve sur le même plan, elle apparaît dans votre main.</p>"
         },
         {
             "id": "Primal Roar",
@@ -165,6 +175,11 @@
             "id": "Breath Weapon",
             "name": "Breath Weapon",
             "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6]]{1d6 dégâts } à toutes les créatures, avec un jet de Réflexes basique contre votre DD de sorts. La zone et le type de dégâts de l'Arme de souffle sont choisis lorsque l'eidolon obtient cette capacité.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6]]{Dégâts selon le niveau}</p>"
+        },
+        {
+            "id": "Goblin Jubilee",
+            "name": "Goblin Jubilee",
+            "description": "<p><strong>Coût</strong> 3 lots de réactifs imprégnés</p>\n<p><strong>Effet</strong> le chaos remplit une <span data-pf2-effect-area=\"burst\" data-pf2-distance=\"20\" data-pf2-traits=\"fire, sonic, visual\">explosion de 6 m</span> dans les 36 m. Toutes les créatures sans la zone subissent [[/r {3d6}[fire] + {3d6}[sonic]]]{3d6 dégâts de feu et 3d6 dégâts de son} et doivent tenter un jet de Vigueur. Un Jubilé gobelin coûte 3 lots de réactifs imprégnés au lieu de 1.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} et @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} jusqu'à la fin de son prochain tour et subit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La créature est Éblouie et Sourde pendant 1 minute et subit la totalité des dégâts.</p>\n<p><strong>Échec critique</strong> La créature est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveugle} pendant 1 round, Éblouie et Sourde pendant 1 minute et subit le double des dégâts.</p>"
         },
         {
             "id": "Resist Elf Magic",
@@ -292,9 +307,19 @@
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr>\n<p>Être un tengu permet d'être libéré des préoccupations du monde du dessous. Vous obtenez une paire d'ailes magiques ou étendez celles que vous possédez déjà. Pendant 5 minutes, vous obtenez une Vitesse de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Vol} égale à votre Vitesse au sol ou 6 m, selon celle qui d'avère la plus élevée.</p>"
         },
         {
+            "id": "Conjure Bullet",
+            "name": "Conjure Bullet",
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<hr />\n<p><strong>Effet</strong> Vous invoquez un carreau ou une balle ordinaire de niveau 0 faite d'air fin puis Interagissez immédiatement pour la charger dans votre arme. Si le carreau ou la bille n'est pas tirée avant la fin de votre tour, l'effet est gâché.</p>"
+        },
+        {
             "id": "Instinctive Obfuscation",
             "name": "Instinctive Obfuscation",
             "description": "<p><strong>Prérequis</strong> Au moins un sort inné arcanique ou occulte obtenu par un héritage de gnome ou un don ancestral gnome</p>\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous êtes attaqué par un ennemi</p>\n<hr />\n<p>La magie qui est en vous se manifeste comme une réaction naturelle face à une menace. Vous obtenez les effets d' @Compendium[pf2e.spells-srd.j8vIoIEWElvpwkcI]{Image miroir} mais avec deux images au lieu de trois. La tradition de cette action correspond à celle des options de votre ascendance gnome.</p>"
+        },
+        {
+            "id": "Accidental Shot",
+            "name": "Accidental Shot",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p><strong>Effet</strong> Vous réalisez une Frappe avec une arme à distance, en lançant les dés d'attaque et de dégâts deux fois et en utilisant les meilleurs résultats de chaque. L'attaque ignore les pénalités de circonstances au jet d'attaque et tout test nu liés au fait que la cible est @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} ou @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée}.</p>"
         },
         {
             "id": "Breath Weapon (Piercing) (Cone)",
@@ -335,6 +360,11 @@
             "id": "Into the Fray",
             "name": "Into the Fray",
             "description": "<p><strong>Déclencheur</strong> Vous lancez l'initiative</p>\n<hr />\n<p>Vous savez que les ennuis peuvent rôder à chaque coin de rue, et vos mains ne s'éloignent jamais de vos étuis. Vous pouvez interagir pour dégainer une arme à distance à une main et vous pouvez ensuite interagir pour dégainer une arme de corps-à-corps à une main. Lors de votre première action à votre premier tour, vous pouvez Marchez rapidement par une action libre vers un ennemi que vous pouvez percevoir. Si vous ne pouvez pas percevoir d'ennemis ou si vous ne pouvez pas terminer votre mouvement plus près d'un ennemi, vous ne pouvez pas utiliser cette Marche rapide.</p>"
+        },
+        {
+            "id": "Airy Step",
+            "name": "Airy Step",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Une créature vous cible avec une attaque ou un effet autre qui vous cible et vous pouvez voir l'attaquant.</p>\n<hr />\n<p>Vous créez une couverture de brouillard dans une explosion de 1,5 m centrée sur un coin de votre case. Toutes les créatures dans cette zone sont @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées} et toutes les autres leur sont masquées. Ce camouflage s'applique à l'effet déclencheur et le brouillard dure pendant 1 minute ou jusqu'à être dispersé par un vent fort. Après avoir résolu l'effet déclencheur, vous Faites un pas. Si un effet vous empêche de Faire un pas, vous tentez @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper} à l'effet et Faites un pas en cas de succès.</p>"
         },
         {
             "id": "Life Block",
@@ -857,6 +887,11 @@
             "description": "<p>Vous vous confectionnez un déguisement pour vous faire passer pour quelqu’un ou quelque chose d’autre. La confection d’un déguisement convaincant prend dix minutes et nécessite un @Compendium[pf2e.equipment-srd.Jvp0x2Sc82WVpExT]{kit de déguisement}, mais un déguisement plus simple confectionné au pied levé peut faire l’affaire si vous ne voulez pas vous faire passer pour quelqu’un en particulier, à l’appréciation du MJ.</p>\n<p>Dans la plupart des cas, les créatures ont une chance de détecter la supercherie uniquement s’ils utilisent l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour effectuer des tests de Perception contre votre DD de <span data-pf2-action=\"impersonate\">Duperie</span>. Une fois déguisé, si vous tentez d’interagir directement avec une créature, le MJ effectue à la place un test de Duperie secret à votre place contre le DD de Perception de cette créature Si vous vous déguisez en un individu en particulier, le MJ peut conférer aux créatures avec lesquelles vous interagissez un bonus de circonstances en fonction de leur degré d’intimité avec la personne que vous imitez, ou il peut faire un test de Duperie secret, même si vous n’interagissez pas directement avec autrui.</p>\n<hr />\n<p><strong>Succès</strong> La créature que vous dupez est convaincue que vous êtes bien la personne dont vous avez pris l’apparence. Un nouveau test peut être nécessaire si vous changez de comportement.</p>\n<p><strong>Échec</strong> La créature peut affirmer que vous n’êtes pas la personne que vous prétendez être.</p>\n<p><strong>Échec critique</strong> La créature peut affirmer que vous n’êtes pas la personne que vous prétendez être et elle vous reconnaît si elle vous a déjà vu sans déguisement.</p>"
         },
         {
+            "id": "Jumping Jenny",
+            "name": "Jumping Jenny",
+            "description": "<p><strong>Coût</strong> 2 lots de réactifs imprégnés</p>\n<p><strong>Effet</strong> Cibler une créature volante dans les 18 m. Jusqu'au début de son prochain tour, chaque fois que la créature tente de Voler, elle doit réussir un test d'Acrobaties pour Manœuvrer en vol contre le DD de votre démonstration de feu d'artifice  ou l'action de vol est Interrompue. Si toutes les tentatives de Voler de la créature sont Interrompues, à la fin de son tour, elle tombe sans dommage sur le sol en-dessous. Un Saut de Njini nécessite 2 lots de réactifs imprégnés, au lieu de 1.</p>"
+        },
+        {
             "id": "Vital Shot",
             "name": "Vital Shot",
             "description": "<p>Votre tir soigneux contre un adversaire sans méfiance perce une artère ou un organe vital. Effectuez une Frappe à distance. Si la cible est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu}, la frappe inflige un dé de dégâts d'arme supplémentaire et l'adversaire subit des dégâts de saignement persistant égaux au montant des dégâts de précision de Un tir, un mort.</p>"
@@ -960,6 +995,11 @@
             "id": "Dismiss",
             "name": "Dismiss",
             "description": "<p>Vous mettez fin à l’effet d’un sort ou d’un objet magique. Il doit s’agir d’un effet que vous êtes autorisé à révoquer, comme le définit l’objet ou le sort. La révocation peut mettre un terme à la totalité de l’effet ou le terminer pour certaine(s) cible(s) seulement, en fonction du sort ou de l’objet.</p>"
+        },
+        {
+            "id": "Banshee Cry",
+            "name": "Banshee Cry",
+            "description": "<p><strong>Déclencheur</strong> Une créature dans les 9 m Lance un sort qui possède une composante verbale ou Active un objet en utilisant un ordre d'activation</p>\n<p><strong>Effet</strong> Vous lancez un feu d'artifice pour qu'il explose avec un hurlement très fort à proximité de la créature. La créature doit tenter un jet de Volonté.</p>\n<hr />\n<p><strong>Succès</strong> La créature n'est pas affectée.</p>\n<p><strong>Échec</strong> La créature doit utiliser une action supplémentaire sur l'action ou l'activité déclencheuse ou elle est interrompue.</p>\n<p><strong>Échec critique</strong> L'action déclencheuse est interrompue.</p>"
         },
         {
             "id": "Cram",
@@ -1082,6 +1122,11 @@
             "description": "<p><strong>Déclencheur</strong> déterminé par votre émotion de catharsis</p>\n<p><strong>Effet</strong> Vous obtenez l'activation des effets de catharsis indiqué par votre émotion de catharsis. Vous obtenez la ferveur émotionnelle de votre émotion pendant 3 rounds. Lorsque votre ferveur émotionnelle se termine, vous subissez le contrecoup émotionnel indiqué. Après avoir utilisé catharsis, vous ne pouvez plus l'utiliser de nouveau avant d'avoir utiliser l'activité @Compendium[pf2e.actionspf2e.EhLvRWFKhZ3HtrZO]{Maîtriser ses émotions}.</p>"
         },
         {
+            "id": "Set Explosives",
+            "name": "Set Explosives",
+            "description": "<p><strong>Conditions</strong> Vous tenez en main 1 ou 2 bombes</p>\n<hr />\n<p><strong>Effet</strong> Vous attachez les bombes à un objet inanimé à votre portée, tel qu'une porte, un mur, une colonne et les réglez pour exploser à un moment donné. Les bombes explosent au moment spécifique que vous déterminez (tel que après votre prochaine action ou au début de votre prochain tour, avec un retardateur maximum d'une minute), infligeant leurs dégâts et les dégâts d'éclaboussure à l'objet inanimez. Combinez ces dégâts pour les besoins de surmonter les  résistances et faiblesses et ces dégâts ignorent un montant de la Solidité de l'objet égal à votre niveau. Toutes les créatures adjacentes au piège subissent les dégâts d'éclaboussure, également combinées pour le calcul de leurs résistances et de leurs faiblesses. Pour rappel, comme vous ne lancez pas les bombes, Éclaboussure calculée et les effets similaires ne s'appliquent pas. Vous assurer que votre timing est correct nécessite de la concentration, de sorte que vous ne pouvez pas Placer des explosifs de nouveau lorsque vous êtes en train d'attendre que des bombes que vous avez placées explosent.</p>"
+        },
+        {
             "id": "Eldritch Shot",
             "name": "Eldritch Shot",
             "description": "<p><strong>Conditions</strong> Vous maniez un arc</p>\n<hr />\n<p>Vous @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancez un sort} qui nécessite 1 ou 2 actions pour être lancé et qui nécessite un jet d'attaque de sort. Les effetsdu sort ne se produise pas immédiatement mais sont imprégnés dans l'arc que vous maniez.</p>\n<p>Faites une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} avec cet arc. Vos sort vole avec la munition, en utilisant le résultat de votre jet d'attaque pour déterminer les effets à la  fois de la Frappe et du sort. Cela compte comme deux attaques en ce qui concerne la pénalité d'attaque multiple, mais vous n'appliquez pas la pénalité avant d'avoir terminé vos deux attaques.</p>"
@@ -1100,6 +1145,11 @@
             "id": "Take Control",
             "name": "Take Control",
             "description": "<p><strong>Conditions</strong> Vous êtes à bord du véhicule et adjacent à ses contrôles.</p>\n<hr />\n<p>Vous attrapez les rênes, le gouvernail ou tout autre mécanisme permettant de contrôler le véhicule. Faites un test de pilotage ; en cas de succès, vous devenez le pilote du véhicule ou regagnez le contrôle du véhicule s'il n'était pas contrôlé.</p>\n<p>Certains véhicules possèdent des modes de contrôle compliqués qui font de cette action une activité à multiples actions.</p>"
+        },
+        {
+            "id": "Bullet Dancer Stance",
+            "name": "Bullet Dancer Stance",
+            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure et maniez une arme à feu simple, une baïonnette ou une crosse renforcée</p>\n<hr />\n<p><strong>Effet</strong> Vous entrez dans une posture spécifique à votre art martial unique centré autour de l'utilisation des armes à feu simples. Lorsque vous êtes dans cette posture, les seules Frappes que vous pouvez porter sont celles qui utilisent les baïonnettes, les crosses renforcées et les armes à feu simples. Vous pouvez utiliser @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Déluge de coups} avec de telles armes. Vous pouvez utiliser vos autres dons de moine ou capacités de moine qui nécessitent normalement des attaques à mains nues en utilisant les baïonnettes, les crosses renforcées tant que le don ou la capacité ne nécessite pas une Frappe unique ou spécifique. Vous pouvez aussi les utiliser avec les armes à feu simples lorsque vous atttaquez à une distance inférieure ou égale à la moitié du premier facteur de portée.</p>"
         },
         {
             "id": "Long Jump",
@@ -1185,6 +1235,11 @@
             "id": "Devise a Stratagem",
             "name": "Devise a Stratagem",
             "description": "<p><strong>Fréquence </strong>une fois par round</p>\n<hr />\n<p>Vous évaluez les faiblesses d'un ennemi en combat et les utilisez pour formuler un plan d'attaque contre votre ennemi. Choisissez une créature que vous pouvez voir et lancez un d20. Si vous @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappez} la créature choisie plus tard durant ce round, vous devez utiliser le résultat du tirage que vous avez obtenu lorsque vous avez Conçu votre Stratagème en tant que jet pour votre Frappe plutôt que de lancer les dés. Vous n'opérez cette substitution que pour la seule première Frappe que vous portez contre la créature ce round, pas aux attaques subséquentes.</p>\n<p>Lorsque vous opérez cette substitution, vous pouvez substituer votre modificateur d'Intelligence au modificateur de Force ou de Dextérité pour votre jet d'attaque, lorsque votre Frappe utilise une arme de mêlée agile ou de finesse, une attaque à mains nues agile ou de finesse, une arme à distance (laquelle doit être agile ou de finesse s'il s'agit d'une arme de corps-à-corps disposant du trait lancer) ou une @Compendium[pf2e.equipment-srd.TLQErnOpM9Luy7rL]{Matraque}.</p>\n<p>Si vous savez que la créature que vous avez choisie est le sujet d'une piste que vous suivez, vous pouvez utiliser cette capacité par une action libre.</p>"
+        },
+        {
+            "id": "Launch Fireworks Display",
+            "name": "Launch Fireworks Display",
+            "description": "<p><strong>Coût</strong> 1 lot ou plus de réactifs imprégnés</p>\n<p><strong>Conditions</strong> Vous avez une main libre</p>\n<hr />\n<p><strong>Effet</strong> Vous déclenchez une démonstration de feux d'artifice. Vous pouvez lancer un feu d'artifice normal pour créer simplement un effet visuel ou un signal audible dans les 6 m ou vous pouvez choisir un des effets spécifiques suivants. Une démonstration de feux d'artifice possède les traits indiqués et s'ils coûtent plus d'un lot de réactifs imprégnés, cela est noté dans l'entrée côut4.</p>\n<ul>\n<li><strong>Comète</strong> <span class=\"pf2-icon\">1</span> (visuel) Vous tirez un rayon de lumière vive dans une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\" data-pf2-traits=\"visual\">ligne de 18 m</span>. Toutes les cases dans cette ligne sont illuminées avec une lumière vivev jusqu'au début de votre prochain tour. Lors de cette action, vous pouvez aussi Signaler une unique créature dans la ligne et vos alliés n'ont pas besoin de vous entendre ou de vous comprendre.</li>\n<li><strong>Fleur</strong> <span class=\"pf2-icon\">1</span> (visuel) Vous allumez un anneau d'étincelles, en créant une forme qui pourrait être la réminiscence d'un bouton de fleur dans le ciel. Chaque ennemi dans les 6 m de vous doit tenter un jet de Vigueur. En cas d'échec, l'ennemi est @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui} pendant 1 round et sur un échec critique ils sont Éblouis pendant 2 rounds.</li>\n<li><strong>Salut</strong> <span class=\"pf2-icon\">1</span> (audible) Vous créez un coup sec ou un sifflement, en ajoutant un composant audible à votre démonstration de feux d'artifice. Lorsque vous lancez une démonstration de salut, vous pouvez choisir un allié @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confuse} ou @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Fasciné} dans les 18 m. Si l'allié choisi est fasciné, le bruit est si violent que cela agit comme un effet hostile pour les besoins de la conditionfasciné (bien qu'il n'ait pas de répercussions négatives) mettant un terme automatique à la plupart des applications de la condition fasciné. S'il est confus, le son est si fort et violent que cela pourrait sortir l'alliée de sa confusion. Il peut immédiatement tenter un test nu pour échapper à la condition Confus qui ne survient normalement que lorsque la créature est blessée. Si la condition Confus possède des règles spécifiques qui ôntent le test nu lorsque la victime subit des dégâts ou rend le test nu plus difficile, ces règles s'appliquent au salut.</li>\n</ul>"
         },
         {
             "id": "Quick Tincture",

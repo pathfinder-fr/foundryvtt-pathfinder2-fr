@@ -434,7 +434,7 @@
         {
             "id": "Rovagug - Minor Curse",
             "name": "Rovagug - Malédiction mineure",
-            "description": "<p><strong>Malédiction mineure</strong> Lorsque vous êtes emprisonné, vous thrash and shake lorsque votre esprit se remplit de désespoir.</p>\n<p>Chaque fois que vous êtes entravé ou autrement emprisonné (comme lorsque vous êtes envoyé en prison), vous êtes aussi @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2 et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 2.</p>"
+            "description": "<p><strong>Malédiction mineure</strong> Lorsque vous êtes emprisonné, vous vous débattez et vous secouez au fur et à mesure que votre esprit se remplit de désespoir.</p>\n<p>Chaque fois que vous êtes Entravé ou autrement emprisonné (comme lorsque vous êtes envoyé en prison), vous êtes aussi @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2 et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 2.</p>"
         },
         {
             "id": "Iomedae - Moderate Boon",
@@ -444,7 +444,7 @@
         {
             "id": "Gozreh - Minor Boon",
             "name": "Gozreh - Bénédiction mineure",
-            "description": "<p><strong>Bénédiction mineure</strong> Gozreh accorde son assistance lorsque vous êtes en mer.</p>\n<p>Vous êtes sous les effets constants de @Compendium[pf2e.spells-srd.tXa5vOu5giBNCjdR]{Repérage} et devenez qualifié en Connaissance de la Navigation (ou une autre compétence de Connaissance si vous êtes déjà qualifié en Connaissance de la NAvigation).</p>"
+            "description": "<p><strong>Bénédiction mineure</strong> Gozreh accorde son assistance lorsque vous êtes en mer.</p>\n<p>Vous êtes sous les effets constants de <em>@Compendium[pf2e.spells-srd.tXa5vOu5giBNCjdR]{Repérage}</em> et devenez qualifié en Connaissance de la Navigation maritime (ou une autre compétence de Connaissance si vous êtes déjà qualifié en Connaissance de la Navigation maritime).</p>"
         },
         {
             "id": "Pharasma - Minor Curse",

@@ -7,6 +7,11 @@
             "description": "<p>En faisant appel à une puissante magie de transformation, vous gagnez une forme de combat de grand dragon. Vous devez avoir de l'espace pour vous étendre ou le sort est perdu. Lorsque vous êtes sous cette forme, vous gagnez le trait de dragon. Vous avez des mains dans cette forme de combat et pouvez effectuer des actions de manipulation. Vous pouvez annuler le sort.</p>\n<p>Vous gagnez les statistiques et capacités suivantes, quelle que soit la forme de combat que vous choisissez :</p>\n<ul>\n<li>CA = 18 + votre niveau. Ignorez la pénalité de contrôle et la réduction de vitesse de votre armure.</li>\n<li>10 points de vie temporaires.</li>\n<li>Vitesse 12 mètres, vitesse de vol 30 mètres.</li>\n<li>Résistance 10 contre le type de dégâts de votre Souffle (voir ci-dessous).</li>\n<li>Vision dans le noir et odorat imprécis à 18 mètres.</li>\n<li>Une ou plusieurs attaques de corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous êtes entraîné à les utiliser. Votre modificateur d'attaque est de +22, et votre bonus de dégâts est de +6. Ces attaques sont basées sur la Force (pour les besoins de la condition @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli}, par exemple). Si votre modificateur d'attaque à mains nues est plus élevé, vous pouvez l'utiliser à la place. Voir ci-dessous pour plus d'informations sur ces attaques.</li>\n<li>Modificateur d'Athlétisme de +23, sauf si votre propre modificateur est plus élevé.</li>\n<li><strong>Souffle</strong> <span class=\"pf2-icon\">2</span> (arcane, évocation) La forme, les dégâts et le type de dégâts de votre arme à souffle dépendent de votre forme dragon spécifique (voir ci-dessous). Une créature dans la zone tente un jet de sauvegarde de base contre le DC de votre sort. Il s'agit d'une Réflexes, sauf indication contraire dans la description de la capacité spéciale de votre forme dragon spécifique. Une fois activée, votre arme à souffle ne peut plus être utilisée pendant [[/r 1d4 #rounds]] rounds. Votre arme à souffle possède le trait correspondant au type de dégâts qu'elle inflige.</li>\n</ul>\n<p>Vous gagnez également des capacités spécifiques en fonction du type de dragon que vous choisissez :</p>\n<ul>\n<li><strong>Airain</strong>\n<ul>\n<li>vitesse de creusement 6 mètres</li>\n<li><strong>Corps à corps</strong> Mâchoires, <strong>Dégâts</strong> 3d8 perforant plus 2d4 feu</li>\n<li><strong>Corps à corps</strong> Griffe (agile),<strong>Dégâts</strong> 3d10 trachant</li>\n<li><strong>Corps à corps</strong> Queue (portée 3 mètres), <strong>Dégâts</strong> 3d10 contondant</li>\n<li><strong>Corps à corps</strong> Pointes (portée 3 mètres), <strong>Dégâts</strong> 3d8 perforant</li>\n<li>Souffle : (portée de 18 mètres), [[/r 15d4 #feu]] feu</li>\n</ul>\n<hr />\n<p><strong>Intensifié (8e)</strong> Votre Taille de combat est Très grand, vous gagnez un bonus de statut de +6 mètres à votre Vitesse de vol, et vos attaques ont une portée de 3 mètres (ou de 4,50 mètres si elles avaient auparavant une portée de 3 mètres). À la place, vous gagnez une CA = 21 + votre niveau, 15 PV temporaires, un modificateur d'attaque de +28, un bonus de +12 aux dégâts, un modificateur d'Athlétisme +28, et un bonus de statut de +14 aux dégâts du Souffle ([[/r 6d10+14 #feu]] dégâts de feu).</p>\n<hr />\n<p><em>Remarque : pour accentuer cet effet, importez-le dans votre répertoire d'objets et modifiez le niveau avant de l'ajouter à la cible</em></p>"
         },
         {
+            "id": "Spell Effect: Clawsong (Versatile Piercing)",
+            "name": "Spell Effect: Clawsong (Versatile Piercing)",
+            "description": "<p>L'attaque de griffe de la cible obtient le trait Polyvalent (perforant)</p>"
+        },
+        {
             "id": "Spell Effect: Rapid Adaptation (Arctic)",
             "name": "Spell Effect: Rapid Adaptation (Arctic)",
             "description": "<p>La cible n'est pas affectée par le froid sévère ou extrême et lorsqu'elle obtient un succès sur un test d'Acrobaties pour Garder l'équilibre sur la glace ou la neige, elle considère qu'il s'agit à la place d'un succès critique.</p>"
@@ -25,6 +30,11 @@
             "id": "Spell Effect: Cosmic Form (Moon)",
             "name": "Spell Effect: Cosmic Form (Moon)",
             "description": "<p>Vous recréez votre forme entièrement à partir d'énergie cosmique, vous transformant en une forme de combat de taille Grande. Vous devez disposer d'un espace suffisant pour vous étendre, sinon le sort est perdu. Lorsque vous lancez ce sort, choisissez de prendre les pouvoirs de la lune ou du soleil. Vous avez des mains dans cette forme de combat et pouvez utiliser des actions de manipulation. Vous pouvez révoquer le sort.</p>\n<p>Vous obtenez les statistiques et capacités suivantes quelle que soit la forme de combat que vous avez choisie :</p>\n<ul>\n<li>CA = 21 + votre niveau. Ignorez votre pénalité d'armure au test et la réduction de votre Vitesse.</li>\n<li>20 Points de vie temporaires.</li>\n<li>Vision dans le noir</li>\n<li>Une ou plusieurs attaques au corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous êtes qualifié pour les utiliser. Votre modificateur d'attaque est de +25 et vous utilisez les dégâts indiqués. Ces attaques sont basées sur la Force (pour les besoins de la condition Affaibli, par exemple). Si votre modificateur d'attaque à mains nues est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Athlétisme de +25, à moins que votre propre modificateur ne soit plus élevé.</li>\n</ul>\n<p>Vous obtenez aussi les capacités basées sur le type de corps stellaire que vous avez choisi :</p>\n<ul>\n    <ul>\n<li><strong>Lune</strong> Vitesse 9 mètres, Vol 15 mètres</li>\n<ul>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Poing (agile, allonge 3 mètres) <strong>Dégâts</strong> 2d4+10 dégâts contondants plus 1d6 dégâts de feu</li>\n<li><strong>À distance</strong> <span class=\"pf2-icon\">1</span> Rayon de lune (portée 27 mètres) <strong>Dégâts</strong> 2d4+10 dégâts de feu ; le feu de cette forme est de l'argent pour les résistances, les faiblesses et autres.</li>\n<li>Sur un coup critique soit avec l'une ou l'autre Frappe, la cible est @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée 2} pendant 1 round.</li>\n</ul>\n</li>\n</ul>\n<p>@Compendium[pf2e.spell-effects.tfdDpf9xSWgQer5g]{Effet: Forme cosmique (Lune)}</p>"
+        },
+        {
+            "id": "Spell Effect: Clawsong (Damage Increase D8)",
+            "name": "Spell Effect: Clawsong (Damage Increase D8)",
+            "description": "<p>Si l'attaque de griffe de la cible inflige déjà 1d6 dégâts tranchants, il inflige 1d8 dégâts à la place.</p>"
         },
         {
             "id": "Spell Effect: Ki Strike (Air)",
@@ -200,6 +210,11 @@
             "id": "Spell Effect: Darkvision (24 hours)",
             "name": "Spell Effect: Darkvision (24 hours)",
             "description": "<p>Vous vous dotez d’une vision surnaturelle dans les zones de ténèbres. Vous gagnez vision dans le noir pendant 24 heures.</p>"
+        },
+        {
+            "id": "Spell Effect: Fungal Infestation (Critical Failure)",
+            "name": "Spell Effect: Fungal Infestation (Critical Failure)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.3VxVbZqIRvpKkg3O]{Infestation fongique}</p>"
         },
         {
             "id": "Spell Effect: Protection from Chaotic",
@@ -1052,6 +1067,11 @@
             "description": "<p>Chaque créature dans la zone subit une pénalité de statut de -1 aux jets de sauvegarde contre les effets de peur.</p>"
         },
         {
+            "id": "Spell Effect: Clawsong (Damage Increase D6)",
+            "name": "Spell Effect: Clawsong (Damage Increase D6)",
+            "description": "<p>L'attaque de griffe de la cible inflige 1d6 dégâts tranchants.</p>"
+        },
+        {
             "id": "Spell Effect: Angel Form (Choral)",
             "name": "Spell Effect: Angel Form (Choral)",
             "description": "<p>Invoquant les royaumes célestes, vous vous transformez en un ange de combat de taille moyenne. Lorsque vous lancez ce sort vous choisissez balisse, chorale, modadic deva ou movanic deval. La forme de combat est petite pour un choral. Lorsque vous êtes dans cette forme, vous gagnez le trait céleste. Vous avez des mains dans cette forme et vous pouvez utiliser l'action Manipuler. Vous pouvez révoquer les sort.</p>\n<p>Vous obtenez les statistiques et capacités suivantes quelle que soit la forme de combat que vous avez choisie :</p>\n<ul>\n<li>CA = 22 + votre niveau. Ignorez votre pénalité d'armure au test et la réduction de votre Vitesse.</li>\n<li>40 Points de vie temporaires, faiblesse 10 aux dégâts mauvais.</li>\n<li>Vision dans le noir</li>\n<li>Une ou plusieurs attaques au corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous êtes qualifié pour les utiliser. Votre modificateur d'attaque est de +25 et vous utilisez les dégâts indiqués. Ces attaques sont basées sur la Force (pour les besoins de la condition Affaibli, par exemple). Si votre modificateur d'attaque à mains nues est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Athlétisme de +25, à moins que votre propre modificateur ne soit plus élevé.</li>\n</ul>\n<p>Vous obtenez aussi les capacités basées sur le type d'ange que vous avez choisi :</p>\n<ul>\n<li><strong>Choral</strong> Vitesse 9 mètres, Vol 12 mètres ; bonus de statut de +1 à la CA et aux jets de sauvegarde contre les dégâts de son et audibles</li>\n<ul>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Poing (agile), <strong>Dégâts</strong> 2d6+12 dégâts contondants plus 1d6 dégâts de bien</li>\n<li><strong>À distance</strong> <span class=\"pf2-icon\">1</span> Hymne perçant (portée 27 mètres) <strong>Dégâts</strong> 1d6+12 dégâts de son plus 1d6 dégâts de bien et @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourd} pendant 1 round en cas de coup critique.</li>\n</ul>\n</li>"
@@ -1180,6 +1200,11 @@
             "id": "Spell Effect: Animal Feature (Cat Eyes)",
             "name": "Spell Effect: Animal Feature (Cat Eyes)",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.vGEgI8e7AW6FQ3tP]{Trait animal}.</p>\n<p>Vous gagnez une vision nocturne.</p>"
+        },
+        {
+            "id": "Spell Effect: Swampcall (Failure)",
+            "name": "Spell Effect: Swampcall (Failure)",
+            "description": "<p>Vous invoquez les esprits du sol à se tordre et à labourer, transformant le terrain cible en une zone de pagaille détrempée. La zone devient un terrain difficile. Les créatures dans la zone lorsque vous Lancez ce sort doivent tenter un jet de Réflexes.</p>\n<hr />\n<p><strong>Échec</strong> La créature s'enfonce partiellement dans la boue. Elle subit une pénalité de circonstances de -3 mètres à ses Vitesses (à l'exception de la vitesse de Nage) et devient @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu}. Ces effets durent jusqu'à ce que la créature quitte la zone ou jusqu'à la fin de son tour, selon ce qui se produit en premier.</p>"
         },
         {
             "id": "Spell Effect: Wild Shape",
@@ -1337,6 +1362,11 @@
             "description": "<p>En exploitant le pouvoir de viles entités, vous vous transformez en une aberration géante. Vous devez disposer d'un espace suffisant pour vous étendre, sinon le sort est perdu. Lorsque vous lancez ce sort, choisissez de vous transformer en chuul, en gogiteth, en gug ou en otyugh. Pendant que vous êtes sous cette forme, vous gagnez le trait aberration. Vous pouvez Révoquer le sort.</p>\n<p>Vous obtenez les statistiques et capacités suivantes quelle que soit la forme de combat que vous avez choisie :</p>\n<ul>\n<li>CA = 18 + votre niveau. Ignorez votre pénalité d'armure au test et la réduction de votre Vitesse.</li>\n<li>13 Points de vie temporaires.</li>\n<li>Vision dans le noir.</li>\n<li>Une ou plusieurs attaques au corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous êtes qualifié pour les utiliser. Votre modificateur d'attaque est de +18, et vous utilisez les dégâts indiqués. Ces attaques sont basées sur la Force (pour les besoins de la condition Affaibli, par exemple). Si votre modificateur d'attaque à mains nues est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Athlétisme de +20, à moins que votre propre modificateur ne soit plus élevé.</li>\n</ul>\n<p>Vous obtenez des capcités spécifiques  en fonction du type d'aberration que vous avez choisi :</p>\n<ul>\n<li><strong>Chuul</strong></li>\n<ul>\n<li>Vitesse 9 mètres, Nage 7,5 mètres</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Griffe (allonge 3 mètres), <strong>Dégâts</strong> 2d8+8 contondants et vous pouvez dépenser une action après un coup pour Saisir la cible.</li>\n</ul>"
         },
         {
+            "id": "Spell Effect: Fungal Infestation (Failure)",
+            "name": "Spell Effect: Fungal Infestation (Failure)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.3VxVbZqIRvpKkg3O]{Infestation fongique}</p>"
+        },
+        {
             "id": "Spell Effect: Tempt Fate",
             "name": "Spell Effect: Tempt Fate",
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.GqvKSxzN7A7kuFk4]{Tenter le sort}.</p>\n<p>La cible bénéficie d'un bonus de statut de +1 au jet de sauvegarde qui se déclenche.</p>\n<p>Si le résultat du jet de sauvegarde'est un succès, il devient un succès critique. Si c'est un échec, il devient un échec critique, et cet échec critique ne peut pas être réduit par les capacités qui réduisent habituellement les échecs critiques, comme l'évasion améliorée. </p>\n<hr />\n<p><strong>Intensifié (8e)</strong> Le bonus au jet de sauvegarde est de +2.</p>"
@@ -1467,6 +1497,11 @@
             "description": "<p>Accordé par @Compendium[pf2e.spells-srd.TFitdEOpQC4SzKQQ]{Arme magique}</p>\n<p>L'arme scintille de magie et d'énergie. Elle devient une arme de Frappe +1, gagnant un bonus d'objet de +1 aux jets d'attaque et augmentant le nombre de dés de dégâts de l'arme à deux.</p>"
         },
         {
+            "id": "Spell Effect: Clawsong (Deadly D8)",
+            "name": "Spell Effect: Clawsong (Deadly D8)",
+            "description": "<p>Si l'attaque de griffe possède déjà le trait Polyvalent (perforant), il gagne le trait Mortel d8 à la place.</p>"
+        },
+        {
             "id": "Spell Effect: Blink",
             "name": "Spell Effect: Blink",
             "description": "<p>Accordé par le sort @Compendium[pf2e.spells-srd.zR67Rt3UMHKC5evy]{Clignotement}</p>"
@@ -1552,9 +1587,19 @@
             "description": "<p>Obtenu en réussissant @Compendium[pf2e.spells-srd.kF0rs9mCPvJGfAZE]{Inspiration héroïque} pour améliorer @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspiration vaillante}.</p>\n<p>Vous êtes inspiré par des paroles ou des airs d'encouragement. Vous bénéficiez d'un bonus de statut de +2 aux jets d'attaque, aux jets de dégâts et aux sauvegardes contre les effets de la peur.</p>"
         },
         {
+            "id": "Spell Effect: Fire Shield",
+            "name": "Spell Effect: Fire Shield",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.YrzBLPLd3r9m6t1p]{Bouclier de feu}</p>"
+        },
+        {
             "id": "Spell Effect: Element Embodied (Water)",
             "name": "Spell Effect: Element Embodied (Water)",
             "description": "<p>En puisant dans les puits de magie les plus profonds d'un plan élémentaire, vous vous transformez en un élémentaire spectaculaire. Vous pouvez choisir entre un élémentaire d'air, un élémentaire de terre, un élémentaire de feu ou un élémentaire d'eau. Votre forme de combat est gargantuesque et vous devez disposer d'un espace suffisant pour vous étendre, sinon le sort est perdu. Lorsque vous êtes dans cette forme, vous gagnez le trait élémentaire et le trait de l'élément que vous choisissez. Vous pouvez Révoquer le sort.</p>\n<p>Vous obtenez les statistiques et capacités suivantes quelle que soit la forme de combat que vous avez choisie :</p>\n<ul>\n<li>CA = 25 + votre niveau. Ignorez votre pénalité d'armure au test et la réduction de votre Vitesse</li>\n<li>30 Points de vie temporaires</li>\n<li>Vision dans le noir</li>\n<li>Une ou plusieurs attaques au corps à corps à mains nues spécifiques à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous êtes qualifié pour les utiliser. Votre modificateur d'attaque est de +34 et vous utilisez les dégâts indiqués. Ces attaques sont basées sur la Dextérité si vous choisissez l'élémentaire de feu ou d'air et sur la Force si vous choissiez l'élémentaire de terre ou d'eau (Cela ne change en rien vos statistiques mais a une importance au regard des condition Affaibli ou Maladroit, par exemple). Si votre modificateur d'attaque à mains nues est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Athlétisme de +36, à moins que votre propre modificateur ne soit plus élevé.</li>\n</ul>\n<p>Vous obtenez aussi les capacités basées sur le type de corps stellaire que vous avez choisi :</p>\n<ul>\n<li><strong>Élémentaire d'eau</strong> Vitesse 12 mètres, Nage 24 mètres ; Résistance 10 au feu</li>\n<ul>\n<li><strong>Vortex</strong> (aura, eau) 9 mètres. L'eau au sein de l'aura est une partie d'une étendue d'eau que vous occupez est un terrain difficile pour les créatures qui Nagent qui n'ont pas le trait Eau</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Vague (allonge 7,5 mètres) <strong>Dégâts</strong> 3d12+18 dégâts contondants plus Pousser ou Attirer 3 mètres;</li>\n<li><strong>À distance</strong> <span class=\"pf2-icon\">1</span> Projection d'eau (facteur de portée 18 mètres) <strong>Dégâts</strong> 4d8+6 dégâts contondants.</li>\n</ul>\n</li>"
+        },
+        {
+            "id": "Spell Effect: Penumbral Disguise",
+            "name": "Spell Effect: Penumbral Disguise",
+            "description": "<p>Vous enveloppez la cible dans les ombres, lui accordant un bonus de statut de +1 aux tests de Discrétion pour @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Se cacher} lorsqu'elle est dans une lumière faible ou les ténèbres.</p>\n<p>De plus, les ombres masquent les traits de la créature. Tant que la créature est sous une lumière faible ou les ténèbres, les autres créatures doivent réussir une action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} contre le DD du sort pour discerner les détails sur l'apparence de la cible. Par exemple, sans utiliser Chercher, les autres créatures peuvent déterminer la forme générale de la cible (comme un humanoïde), mais elles  devront Chercher pour déterminer l'apparence précise de la cible ou toute information permettant de l'identifier.</p>\n<p>Les créatures avec Vision dans le noir peuvent toujours voir la cible et ses traitsnormalement. L'apparence normale de la cible est révélée sous la lumière vive.</p>\n<hr />\n<p><strong>Intensifié (4e)</strong> Le bonus de statut est de +2. Les créatures avec Vision dans le noir ne peuvent plus discerne les détails sur la cible tant que la cible est dans la lumière faible ou l'obscurité sans Chercher, bien que des créatures possédant Vision dans le noir supérieure puissent toujours discerner de tels détails.</p>\n<p><strong>Intensifié (6e)</strong> Comme au niveau 4, sauf que le bonus de statut est de +3 et que les créatures sans Vision dans le noir ne peuvent pas même déterminer les détails généraux à propos de la cible lorsque la cible est dans une lumière faible ou l'obscurité à moins qu'elles réussisse à Chercher la cible ; ces créatures voient une ombre vague à la place. Même un succès pour Chercher ne leur permet que de déterminer les caractéristiques générale, bien qu'elles puissent voir les détails en cas de succès critique.</p>\n<p><strong>Intensifié (8e)</strong> Comme au niveau 6, sauf que le bonus de statut est de +4 et même les créatures avec Vision dans le noir supérieure doivent Chercher pour discerner les détails à propos de la cible tant que la cible est sous une lumière faible ou dans les ténèbres.</p>"
         },
         {
             "id": "Spell Effect: Discern Secrets (Recall Knowledge)",
@@ -1730,6 +1775,11 @@
             "id": "Spell Effect: Rapid Adaptation (Aquatic Base Swim Speed)",
             "name": "Spell Effect: Rapid Adaptation (Aquatic Base Swim Speed)",
             "description": "<p>La cible obtient une vitesse de nage égale à sa vitesse au sol. Si elle possède déjà une vitesse de nage, elle obtient un bonus de statut de +3 mètres à sa vitesse de nage.</p>"
+        },
+        {
+            "id": "Spell Effect: Swampcall (Critical Failure)",
+            "name": "Spell Effect: Swampcall (Critical Failure)",
+            "description": "<p>Vous invoquez les esprits du sol à se tordre et à labourer, transformant le terrain cible en une zone de pagaille détrempée. La zone devient un terrain difficile. Les créatures dans la zone lorsque vous Lancez ce sort doivent tenter un jet de Réflexes.</p>\n<hr />\n<p><strong>Échec critique</strong>La créature s'enfonce partiellement dans la boue. Elle subit une pénalité de circonstances de -4,5 mètres à ses Vitesses (à l'exception de la vitesse de Nage) et devient @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu}. Ces effets durent jusqu'à ce que la créature quitte la zone ou jusqu'à la fin de son tour, selon ce qui se produit en premier.</p>"
         },
         {
             "id": "Spell Effect: Dutiful Challenge",

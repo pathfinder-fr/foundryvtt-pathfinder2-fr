@@ -1,10 +1,10 @@
 # État de la traduction (boons-and-curses)
 
- * **libre**: 109
- * **changé**: 11
+ * **libre**: 110
+ * **changé**: 10
 
 
-Dernière mise à jour: 2021-12-08 20:27 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-02 07:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -19,7 +19,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nFrCY6tT2B8uxaO3.htm](boons-and-curses/nFrCY6tT2B8uxaO3.htm)|Erastil - Major Boon|Érastil - Bénédiction majeure|changé|
 |[OaUt41v2OrQkHpM4.htm](boons-and-curses/OaUt41v2OrQkHpM4.htm)|Abadar - Major Curse|Abadar - Malédiction majeure|changé|
 |[tFnPBYcAZ0X3GbI5.htm](boons-and-curses/tFnPBYcAZ0X3GbI5.htm)|Lamashtu - Moderate Boon|Lamashtu - Bénédiction modérée|changé|
-|[uVZrqxtOOutr4Ss9.htm](boons-and-curses/uVZrqxtOOutr4Ss9.htm)|Gozreh - Minor Boon|Gozreh - Bénédiction mineure|changé|
 |[wlBiDpWvjKiw9k2z.htm](boons-and-curses/wlBiDpWvjKiw9k2z.htm)|Zon-Kuthon - Minor Boon|Zon-Kuthon - Bénédiction mineure|changé|
 |[xrczhivVmi7MrEfz.htm](boons-and-curses/xrczhivVmi7MrEfz.htm)|Irori - Moderate Boon|Irori - Bénédiction modérée|changé|
 
@@ -116,6 +115,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[tilqIbJZLqeknTYo.htm](boons-and-curses/tilqIbJZLqeknTYo.htm)|Shelyn - Minor Boon|Shélyn - Bénédiction mineure|libre|
 |[U7ZJfuPLQPyoaj4M.htm](boons-and-curses/U7ZJfuPLQPyoaj4M.htm)|Pharasma - Major Boon|Pharasma - Bénédiction majeure|libre|
 |[Up7nUIT42zwhgZf4.htm](boons-and-curses/Up7nUIT42zwhgZf4.htm)|Desna - Minor Curse|Desna - Malédiction mineure|libre|
+|[uVZrqxtOOutr4Ss9.htm](boons-and-curses/uVZrqxtOOutr4Ss9.htm)|Gozreh - Minor Boon|Gozreh - Bénédiction mineure|libre|
 |[V7FYIgphCCkYsEXF.htm](boons-and-curses/V7FYIgphCCkYsEXF.htm)|Sarenrae - Moderate Curse|Sarenrae - Malédiction modérée|libre|
 |[vfQ7TsScMBTNiznn.htm](boons-and-curses/vfQ7TsScMBTNiznn.htm)|Gozreh - Major Boon|Gozreh - Bénédiction majeure|libre|
 |[vU5leGDNAZSfPgTz.htm](boons-and-curses/vU5leGDNAZSfPgTz.htm)|Shelyn - Moderate Curse|Shélyn - Malédiction modérée|libre|
