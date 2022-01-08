@@ -1,13 +1,29 @@
 {
   "name": "pf2-fr",
   "title": "Pathfinder 2 - Translations for compendiums (French)",
-  "description": "Provides Babele translations for compendiums<p> *** Rejoignez la communauté Discord FR :<a href='https://discord.gg/pPSDNJk'> https://discord.gg/pPSDNJk </a></p>",
-  "version": "VERSION",
+  "description": "Fournit la traduction des Compendiums via le module Babele <p><b>- Rejoignez la communauté Discord FR :</b><a href=\"https://discord.gg/pPSDNJk\"> https://discord.gg/pPSDNJk </a></p>",
   "author": "Sven Werlen",
+  "authors": [],
   "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr",
+  "flags": {},
+  "version": "VERSION",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9",
+  "scripts": [
+    "pf2fr.js"
+  ],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": [
+    "pf2e"
+  ],
+  "dependencies": [],
+  "socket": false,
   "download": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/archive/v-VERSION/foundryvtt-pathfinder2-fr-v-VERSION.zip",
   "manifest": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/module.json",
-  "scripts": ["pf2fr.js"],
-  "minimumCoreVersion": "0.5.5",
-  "compatibleCoreVersion": "1.0.0"
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
 }
