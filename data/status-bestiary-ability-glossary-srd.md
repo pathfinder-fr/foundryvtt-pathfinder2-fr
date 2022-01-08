@@ -4,7 +4,7 @@
  * **officielle**: 38
 
 
-Dernière mise à jour: 2022-01-02 07:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-08 15:20 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -51,7 +51,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rqfnQ5VHT5hxm25r.htm](bestiary-ability-glossary-srd/rqfnQ5VHT5hxm25r.htm)|Scent|Odorat|officielle|
 |[sebk9XseMCRkDqRg.htm](bestiary-ability-glossary-srd/sebk9XseMCRkDqRg.htm)|Lifesense|Sens de la vie|officielle|
 |[t6cx9FOODmeZQNYl.htm](bestiary-ability-glossary-srd/t6cx9FOODmeZQNYl.htm)|Push|Bousculade|officielle|
-|[Tkd8sH4pwFIPzqTr.htm](bestiary-ability-glossary-srd/Tkd8sH4pwFIPzqTr.htm)|Grab|Empoignade/agrippement|libre|
+|[Tkd8sH4pwFIPzqTr.htm](bestiary-ability-glossary-srd/Tkd8sH4pwFIPzqTr.htm)|Grab|Empoignade/Agrippement|libre|
 |[TTCw5NusiSSkJU1x.htm](bestiary-ability-glossary-srd/TTCw5NusiSSkJU1x.htm)|Negative Healing|Soins négatifs|libre|
 |[uG0Z8PsyZtsYuvGR.htm](bestiary-ability-glossary-srd/uG0Z8PsyZtsYuvGR.htm)|Catch Rock|Interception de rochers|officielle|
 |[uJSseLa57HZYSMUu.htm](bestiary-ability-glossary-srd/uJSseLa57HZYSMUu.htm)|Swallow Whole|Gober|libre|

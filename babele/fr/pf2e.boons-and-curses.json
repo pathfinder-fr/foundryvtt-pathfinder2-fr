@@ -124,7 +124,7 @@
         {
             "id": "Pharasma - Moderate Curse",
             "name": "Pharasma - Malédiction modérée",
-            "description": "<p><strong>Malédiction modérée (Quotidien)</strong> le destin se retourne contre vous et révèle de terribles présages. Les divinations telles qu'@Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure} que vous lancez ou qui vous impliquent suggèrent toujours malheur. Une fois par jour, lorsque vous faites un test, le MJ peut estimer que le résultat est un 1 naturel.</p>"
+            "description": "<p><strong>Malédiction modérée (Quotidien)</strong> le destin se retourne contre vous et révèle de terribles présages. Les divinations telles que <em>@Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure}</em> que vous lancez ou qui vous impliquent suggèrent toujours malheur. Une fois par jour, lorsque vous faites un test, le MJ peut estimer que le résultat est un 1 naturel.</p>"
         },
         {
             "id": "Nethys - Minor Curse",

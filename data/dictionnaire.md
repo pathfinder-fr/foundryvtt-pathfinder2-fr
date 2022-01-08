@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2022-01-02 07:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-08 15:20 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -378,7 +378,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Form Up](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Se reformer|`@Compendium[pf2e.bestiary-ability-glossary-srd.OvqohW9YuahnFaiX]`|
 |[Frightful Presence](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Présence terrifiante|`@Compendium[pf2e.bestiary-ability-glossary-srd.etMnv73EIdEZrYYu]`|
 |[Goblin Scuttle](bestiary-ability-glossary-srd/Hrevxi3glTGgxzY6.htm)|Carapate gobeline|`@Compendium[pf2e.bestiary-ability-glossary-srd.Hrevxi3glTGgxzY6]`|
-|[Grab](bestiary-ability-glossary-srd/Tkd8sH4pwFIPzqTr.htm)|Empoignade/agrippement|`@Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]`|
+|[Grab](bestiary-ability-glossary-srd/Tkd8sH4pwFIPzqTr.htm)|Empoignade/Agrippement|`@Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]`|
 |[Greater Constrict](bestiary-ability-glossary-srd/OmV6E3aELvq9CkK1.htm)|Constriction supérieure|`@Compendium[pf2e.bestiary-ability-glossary-srd.OmV6E3aELvq9CkK1]`|
 |[Greater Darkvision](bestiary-ability-glossary-srd/4Ho2xMPEC05aSxzr.htm)|Vision dans le noir supérieure|`@Compendium[pf2e.bestiary-ability-glossary-srd.4Ho2xMPEC05aSxzr]`|
 |[Improved Grab](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Empoignade/agrippement amélioré|`@Compendium[pf2e.bestiary-ability-glossary-srd.i18TlebMzwONyPhI]`|
@@ -3185,10 +3185,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Hammer Of Forbiddance](hazards/tbwGr6FIr5WpvQ6l.htm)|Marteau d'interdiction|`@Compendium[pf2e.hazards.tbwGr6FIr5WpvQ6l]`|
 |[Hampering Web](hazards/98rS64gLzy1ReXoR.htm)|Toile entravante|`@Compendium[pf2e.hazards.98rS64gLzy1ReXoR]`|
 |[Hidden Pit](hazards/BHq5wpQU8hQEke8D.htm)|Fosse dissimulée|`@Compendium[pf2e.hazards.BHq5wpQU8hQEke8D]`|
-|[Insistent Privacy Fence](hazards/mWhmhYBHH9X1Ebb9.htm)||`@Compendium[pf2e.hazards.mWhmhYBHH9X1Ebb9]`|
+|[Insistent Privacy Fence](hazards/mWhmhYBHH9X1Ebb9.htm)|Clôture de propriété privée insistante|`@Compendium[pf2e.hazards.mWhmhYBHH9X1Ebb9]`|
 |[Jealous Abjurer](hazards/inUlZWE1isqnTRc5.htm)|Abjurateur jaloux|`@Compendium[pf2e.hazards.inUlZWE1isqnTRc5]`|
 |[Lava Flume Tube](hazards/oNLgR1iq6MVvNRWo.htm)|Déverseur de lave|`@Compendium[pf2e.hazards.oNLgR1iq6MVvNRWo]`|
-|[Malevolent Mannequins](hazards/4jAJh3cTLIgkqtou.htm)||`@Compendium[pf2e.hazards.4jAJh3cTLIgkqtou]`|
+|[Malevolent Mannequins](hazards/4jAJh3cTLIgkqtou.htm)|Mannequins malveillants|`@Compendium[pf2e.hazards.4jAJh3cTLIgkqtou]`|
 |[Perilous Flash Flood](hazards/lgyGhpyPosriQUzE.htm)|Crue subite périlleuse|`@Compendium[pf2e.hazards.lgyGhpyPosriQUzE]`|
 |[Pharaoh's Ward](hazards/m4PRYxFq9ojcwesh.htm)|Sceau du pharaon|`@Compendium[pf2e.hazards.m4PRYxFq9ojcwesh]`|
 |[Planar Rift](hazards/yM4G2LvMwvkIRx0G.htm)|Faille planaire|`@Compendium[pf2e.hazards.yM4G2LvMwvkIRx0G]`|
@@ -3206,7 +3206,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spectral Reflection](hazards/Uw2iVgbbeyn3mOjt.htm)|Reflet spectral|`@Compendium[pf2e.hazards.Uw2iVgbbeyn3mOjt]`|
 |[Spinning Blade Pillar](hazards/HnPd9Vqh5NHKEdRq.htm)|Colonne de lames tournoyantes|`@Compendium[pf2e.hazards.HnPd9Vqh5NHKEdRq]`|
 |[Sportlebore](hazards/1egK7HFAFdHxMS9N.htm)|Collembole|`@Compendium[pf2e.hazards.1egK7HFAFdHxMS9N]`|
-|[Steam Vents](hazards/OSPYSuckHhHl4Cr9.htm)||`@Compendium[pf2e.hazards.OSPYSuckHhHl4Cr9]`|
+|[Steam Vents](hazards/OSPYSuckHhHl4Cr9.htm)|Jets de vapeur|`@Compendium[pf2e.hazards.OSPYSuckHhHl4Cr9]`|
 |[Summoning Rune](hazards/nO4osrBRnpWKFCMP.htm)|Rune de convocation|`@Compendium[pf2e.hazards.nO4osrBRnpWKFCMP]`|
 |[Telekinetic Swarm Trap](hazards/AM3YY2Zfe2ChJHd7.htm)|Piège de nuée télékinésique|`@Compendium[pf2e.hazards.AM3YY2Zfe2ChJHd7]`|
 |[Titanic Flytrap](hazards/6In2S3lDnxNgZ2np.htm)|Attrape-mouches titanesque|`@Compendium[pf2e.hazards.6In2S3lDnxNgZ2np]`|
@@ -3493,7 +3493,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Back To Back](feats/archetype-08-E7eceezD3NDmBVBb.htm)|Dos à dos|`@Compendium[pf2e.feats-srd.E7eceezD3NDmBVBb]`|
 |[Backup Disguise](feats/skill-02-7F3sTNRoNsQgD8tX.htm)|Déguisement de secours|`@Compendium[pf2e.feats-srd.7F3sTNRoNsQgD8tX]`|
 |[Banishing Blow](feats/class-20-dwloLQzWgwjJWzXt.htm)|Coup bannissant|`@Compendium[pf2e.feats-srd.dwloLQzWgwjJWzXt]`|
-|[Banshee Cry Display](feats/archetype-12-jsbe2d9lYGJ2MksT.htm)|Démonstration du pleur de la Banshie|`@Compendium[pf2e.feats-srd.jsbe2d9lYGJ2MksT]`|
+|[Banshee Cry Display](feats/archetype-12-jsbe2d9lYGJ2MksT.htm)|Démonstration de pleur de la Banshie|`@Compendium[pf2e.feats-srd.jsbe2d9lYGJ2MksT]`|
 |[Barbarian Dedication](feats/archetype-02-WVU0c8rgcpGSRqSi.htm)|Dévouement de barbare|`@Compendium[pf2e.feats-srd.WVU0c8rgcpGSRqSi]`|
 |[Barbarian Resiliency](feats/archetype-04-HpT1GlcnkCBnDnVF.htm)|Résilience du barbare|`@Compendium[pf2e.feats-srd.HpT1GlcnkCBnDnVF]`|
 |[Bard Dedication](feats/archetype-02-dIH771mt4PcVTyAs.htm)|Dévouement du barde|`@Compendium[pf2e.feats-srd.dIH771mt4PcVTyAs]`|
@@ -3571,7 +3571,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Black Cat Curse](feats/ancestry-13-fX5FybM93HIQRRd1.htm)|Malédiction du chat noir|`@Compendium[pf2e.feats-srd.fX5FybM93HIQRRd1]`|
 |[Black Powder Blaze](feats/archetype-08-YrRlbIzjsFlGGmVN.htm)|Flamme de poudre noire|`@Compendium[pf2e.feats-srd.YrRlbIzjsFlGGmVN]`|
 |[Black Powder Boost](feats/class-04-vPZxFpq7XkRmE3Uc.htm)|Renfort de poudre noire|`@Compendium[pf2e.feats-srd.vPZxFpq7XkRmE3Uc]`|
-|[Black Powder Embodiment](feats/archetype-18-pWbNhfBiskV4n58a.htm)||`@Compendium[pf2e.feats-srd.pWbNhfBiskV4n58a]`|
+|[Black Powder Embodiment](feats/archetype-18-pWbNhfBiskV4n58a.htm)|Incorporation à la poudre noire|`@Compendium[pf2e.feats-srd.pWbNhfBiskV4n58a]`|
 |[Blade of Justice](feats/class-12-NtaOLg9meDYfg8aV.htm)|Lame de justice|`@Compendium[pf2e.feats-srd.NtaOLg9meDYfg8aV]`|
 |[Blade of Law](feats/archetype-12-tBfalnbUZLkG9gs1.htm)|Lame de la Loi|`@Compendium[pf2e.feats-srd.tBfalnbUZLkG9gs1]`|
 |[Blade of the Crimson Oath](feats/archetype-12-WO23FvCo8IYVB5RF.htm)|Lame du Serment écarlate|`@Compendium[pf2e.feats-srd.WO23FvCo8IYVB5RF]`|
@@ -3651,7 +3651,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Built-In Tools](feats/class-01-gFQFgREm3HaFx1mf.htm)|Outils intégrés|`@Compendium[pf2e.feats-srd.gFQFgREm3HaFx1mf]`|
 |[Bullet Dancer Burn](feats/archetype-06-uc6JcNrI31wzSC2h.htm)|Brûlure du danseur de balle|`@Compendium[pf2e.feats-srd.uc6JcNrI31wzSC2h]`|
 |[Bullet Dancer Dedication](feats/archetype-02-j1hhTLOq7o80XCyV.htm)|Dévouement de Danseur de balle|`@Compendium[pf2e.feats-srd.j1hhTLOq7o80XCyV]`|
-|[Bullet Dancer Reload](feats/archetype-12-5ZX4btrw5yjBr8IM.htm)||`@Compendium[pf2e.feats-srd.5ZX4btrw5yjBr8IM]`|
+|[Bullet Dancer Reload](feats/archetype-12-5ZX4btrw5yjBr8IM.htm)|Rechargement du Danseur de balle|`@Compendium[pf2e.feats-srd.5ZX4btrw5yjBr8IM]`|
 |[Bullet Split](feats/class-08-vNIimhmP636VOP01.htm)|Projectile fendue|`@Compendium[pf2e.feats-srd.vNIimhmP636VOP01]`|
 |[Bullseye](feats/class-08-0XGLdVbEIISOOuuO.htm)|Dans le mille|`@Compendium[pf2e.feats-srd.0XGLdVbEIISOOuuO]`|
 |[Bullying Staff](feats/archetype-04-iMh9Ve8Kt8ZcdKU0.htm)|Bâton harcelant|`@Compendium[pf2e.feats-srd.iMh9Ve8Kt8ZcdKU0]`|
@@ -3749,7 +3749,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ceremony of the Evened Hand (Branch)](feats/ancestry-01-95amaXDoWKxdIXqI.htm)|Cérémonie de la main levée (branche)|`@Compendium[pf2e.feats-srd.95amaXDoWKxdIXqI]`|
 |[Ceremony of the Evened Hand (Claws)](feats/ancestry-01-Bc0Lehf8hxT4vouG.htm)|Cérémonie de la main levée (griffes)|`@Compendium[pf2e.feats-srd.Bc0Lehf8hxT4vouG]`|
 |[Certain Strike](feats/class-10-h5DzKmKDADGhvmF9.htm)|Frappe certaine|`@Compendium[pf2e.feats-srd.h5DzKmKDADGhvmF9]`|
-|[Chain Reaction](feats/archetype-12-nPwzElPvV29eM5as.htm)||`@Compendium[pf2e.feats-srd.nPwzElPvV29eM5as]`|
+|[Chain Reaction](feats/archetype-12-nPwzElPvV29eM5as.htm)|Réaction en chaine|`@Compendium[pf2e.feats-srd.nPwzElPvV29eM5as]`|
 |[Champion Dedication](feats/archetype-02-0YjetnLVIUz9zQt5.htm)|Dévouement du Champion|`@Compendium[pf2e.feats-srd.0YjetnLVIUz9zQt5]`|
 |[Champion Resiliency](feats/archetype-04-qWb5IxkBUpJWKSLf.htm)|Résilence du champion|`@Compendium[pf2e.feats-srd.qWb5IxkBUpJWKSLf]`|
 |[Champion's Reaction](feats/archetype-06-7wk6yVM3OJdc4LEU.htm)|Réaction de champion|`@Compendium[pf2e.feats-srd.7wk6yVM3OJdc4LEU]`|
@@ -3767,7 +3767,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cheat Death](feats/class-12-D2KSVHPRlBEibrV8.htm)|Trompe la mort|`@Compendium[pf2e.feats-srd.D2KSVHPRlBEibrV8]`|
 |[Cheek Pouches](feats/ancestry-01-Pox93XMBaFmeLIDM.htm)|Abajoues|`@Compendium[pf2e.feats-srd.Pox93XMBaFmeLIDM]`|
 |[Chemical Contagion](feats/class-16-IA8p9oYmsCbipmhw.htm)|Contagion chimique|`@Compendium[pf2e.feats-srd.IA8p9oYmsCbipmhw]`|
-|[Choking Smoke](feats/archetype-12-XWmlGnFNfxyJWw9V.htm)||`@Compendium[pf2e.feats-srd.XWmlGnFNfxyJWw9V]`|
+|[Choking Smoke](feats/archetype-12-XWmlGnFNfxyJWw9V.htm)|Fumée étouffante|`@Compendium[pf2e.feats-srd.XWmlGnFNfxyJWw9V]`|
 |[Chosen of Lamashtu](feats/ancestry-05-eVn6hBjNjTB4liKw.htm)|Élu de Lamashtu|`@Compendium[pf2e.feats-srd.eVn6hBjNjTB4liKw]`|
 |[Cindersoul](feats/ancestry-01-HZJqMESaEHTfefz3.htm)|Âme cendreuse|`@Compendium[pf2e.feats-srd.HZJqMESaEHTfefz3]`|
 |[City Scavenger](feats/ancestry-01-g388ImzpenYBoiEF.htm)|Charognard urbain|`@Compendium[pf2e.feats-srd.g388ImzpenYBoiEF]`|
@@ -3803,7 +3803,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cognitive Loophole](feats/class-16-wPJFEUOXwf7y5jN3.htm)|Échappatoire cognitive|`@Compendium[pf2e.feats-srd.wPJFEUOXwf7y5jN3]`|
 |[Collapse Armor](feats/class-02-DFusBl7CyNkuDTRa.htm)|Replier l'armure|`@Compendium[pf2e.feats-srd.DFusBl7CyNkuDTRa]`|
 |[Collapse Construct](feats/class-02-wKFQreilUASJkKzV.htm)|replier la créature artificielle|`@Compendium[pf2e.feats-srd.wKFQreilUASJkKzV]`|
-|[Collapse Wall](feats/archetype-12-n1t6foOyrN48OVPK.htm)||`@Compendium[pf2e.feats-srd.n1t6foOyrN48OVPK]`|
+|[Collapse Wall](feats/archetype-12-n1t6foOyrN48OVPK.htm)|Effondrement de mur|`@Compendium[pf2e.feats-srd.n1t6foOyrN48OVPK]`|
 |[Collateral Thrash](feats/class-16-WY7CjISdz6uwXwIb.htm)|Maltraitance collatérale|`@Compendium[pf2e.feats-srd.WY7CjISdz6uwXwIb]`|
 |[Combat Assessment](feats/class-01-5FyvwI24mnROzh61.htm)|Évaluation martiale|`@Compendium[pf2e.feats-srd.5FyvwI24mnROzh61]`|
 |[Combat Climber](feats/skill-01-09PurtIanNUPfNRq.htm)|Combattant-grimpeur|`@Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]`|
@@ -3823,7 +3823,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Conceal Spell](feats/class-02-sIeuPW0j39fTZm08.htm)|Sort dissimulé|`@Compendium[pf2e.feats-srd.sIeuPW0j39fTZm08]`|
 |[Concealing Legerdemain](feats/skill-01-B9cQLRHtXoLlF0iR.htm)|Tour de passe-passe|`@Compendium[pf2e.feats-srd.B9cQLRHtXoLlF0iR]`|
 |[Conceited Mindset](feats/class-02-aXdY2wgn0ItWwTr0.htm)|Esprit vaniteux|`@Compendium[pf2e.feats-srd.aXdY2wgn0ItWwTr0]`|
-|[Concentrated Assault](feats/archetype-14-NCsjkjEp6kHFS07h.htm)||`@Compendium[pf2e.feats-srd.NCsjkjEp6kHFS07h]`|
+|[Concentrated Assault](feats/archetype-14-NCsjkjEp6kHFS07h.htm)|Assaut concentré|`@Compendium[pf2e.feats-srd.NCsjkjEp6kHFS07h]`|
 |[Confabulator](feats/skill-02-6Z4e3B9vePYpibcy.htm)|Affabulateur|`@Compendium[pf2e.feats-srd.6Z4e3B9vePYpibcy]`|
 |[Conflux Focus](feats/class-12-YTHsakqXumdMU0dn.htm)|Focalisation de confluence|`@Compendium[pf2e.feats-srd.YTHsakqXumdMU0dn]`|
 |[Conflux Wellspring](feats/class-18-o1Vo4PvU09UY8sj7.htm)|Source de confluence|`@Compendium[pf2e.feats-srd.o1Vo4PvU09UY8sj7]`|
@@ -3846,10 +3846,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Continual Recovery](feats/skill-02-c85a69mB1urW2Se2.htm)|Récupération continue|`@Compendium[pf2e.feats-srd.c85a69mB1urW2Se2]`|
 |[Continuous Assault](feats/ancestry-13-I3Md8XYhuMVSJqKI.htm)|Assaut continuel|`@Compendium[pf2e.feats-srd.I3Md8XYhuMVSJqKI]`|
 |[Contortionist](feats/archetype-04-JO3mcFvxjRp1V8XK.htm)|Contortionniste|`@Compendium[pf2e.feats-srd.JO3mcFvxjRp1V8XK]`|
-|[Control Tower](feats/archetype-14-wBL5h0hTmVD4EJLw.htm)||`@Compendium[pf2e.feats-srd.wBL5h0hTmVD4EJLw]`|
+|[Control Tower](feats/archetype-14-wBL5h0hTmVD4EJLw.htm)|Tour de contrôle|`@Compendium[pf2e.feats-srd.wBL5h0hTmVD4EJLw]`|
 |[Controlled Blast](feats/archetype-08-yIDJTe4kimRoZN0L.htm)|Explosion contrôlée|`@Compendium[pf2e.feats-srd.yIDJTe4kimRoZN0L]`|
-|[Controlled Bullet](feats/archetype-16-qZzRXAa9mNQPUXoW.htm)||`@Compendium[pf2e.feats-srd.qZzRXAa9mNQPUXoW]`|
-|[Converge](feats/archetype-16-aoZYZm2PrTKEK0Ji.htm)||`@Compendium[pf2e.feats-srd.aoZYZm2PrTKEK0Ji]`|
+|[Controlled Bullet](feats/archetype-16-qZzRXAa9mNQPUXoW.htm)|Balle controlée|`@Compendium[pf2e.feats-srd.qZzRXAa9mNQPUXoW]`|
+|[Converge](feats/archetype-16-aoZYZm2PrTKEK0Ji.htm)|Converger|`@Compendium[pf2e.feats-srd.aoZYZm2PrTKEK0Ji]`|
 |[Convincing Illusion](feats/class-06-bSXcyu7ExWq9qUzG.htm)|Illusion convaincante|`@Compendium[pf2e.feats-srd.bSXcyu7ExWq9qUzG]`|
 |[Cooperative Nature](feats/ancestry-01-lwLcUHQMOqfaNND4.htm)|Nature coopérative|`@Compendium[pf2e.feats-srd.lwLcUHQMOqfaNND4]`|
 |[Cooperative Soul](feats/ancestry-09-Z2EiYMtGoNnwW6Tk.htm)|Âme coopérative|`@Compendium[pf2e.feats-srd.Z2EiYMtGoNnwW6Tk]`|
@@ -3959,7 +3959,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Defensive Roll](feats/class-14-aPt0WfFoeLTzyQRA.htm)|Roulade défensive|`@Compendium[pf2e.feats-srd.aPt0WfFoeLTzyQRA]`|
 |[Defiance Unto Death](feats/ancestry-05-5AnJTAZnuWrkL8fa.htm)|Défi jusqu'à la mort|`@Compendium[pf2e.feats-srd.5AnJTAZnuWrkL8fa]`|
 |[Deflect Arrow](feats/class-04-sgaqlDFTVC7Ryurt.htm)|Parade de projectiles|`@Compendium[pf2e.feats-srd.sgaqlDFTVC7Ryurt]`|
-|[Deflecting Cloud](feats/archetype-16-VYdZmTifZRkRF7ey.htm)||`@Compendium[pf2e.feats-srd.VYdZmTifZRkRF7ey]`|
+|[Deflecting Cloud](feats/archetype-16-VYdZmTifZRkRF7ey.htm)|Nuage déflecteur|`@Compendium[pf2e.feats-srd.VYdZmTifZRkRF7ey]`|
 |[Deflecting Shot](feats/class-10-ToZw6ZjB0JhWwMeR.htm)|Tir détourné|`@Compendium[pf2e.feats-srd.ToZw6ZjB0JhWwMeR]`|
 |[Deft Cooperation](feats/archetype-04-8pmd9gMl3TamFx3u.htm)|Collaboration avisée|`@Compendium[pf2e.feats-srd.8pmd9gMl3TamFx3u]`|
 |[Defy Death](feats/ancestry-05-OXhrwQgnZdOi81Yi.htm)|Défier la mort|`@Compendium[pf2e.feats-srd.OXhrwQgnZdOi81Yi]`|
@@ -4009,7 +4009,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dire Form](feats/ancestry-13-X5NRdQ1W0Y5t6MFi.htm)|Forme sauvage|`@Compendium[pf2e.feats-srd.X5NRdQ1W0Y5t6MFi]`|
 |[Directed Audience](feats/class-02-ot0uyFtnC1Whz5bp.htm)|Public choisi|`@Compendium[pf2e.feats-srd.ot0uyFtnC1Whz5bp]`|
 |[Directed Channel](feats/class-04-iojlXjVdbzi1fZGt.htm)|Canalisation dirigée|`@Compendium[pf2e.feats-srd.iojlXjVdbzi1fZGt]`|
-|[Directed Poison](feats/archetype-12-07YYaQBknzDTcbFz.htm)||`@Compendium[pf2e.feats-srd.07YYaQBknzDTcbFz]`|
+|[Directed Poison](feats/archetype-12-07YYaQBknzDTcbFz.htm)|Poison dirigé|`@Compendium[pf2e.feats-srd.07YYaQBknzDTcbFz]`|
 |[Directional Bombs](feats/class-06-ozvYhY4hG1deXly8.htm)|Bombes directionnelles|`@Compendium[pf2e.feats-srd.ozvYhY4hG1deXly8]`|
 |[Dirge of Doom](feats/class-06-vWrGwqy4AhHMPz8V.htm)|Chant funeste|`@Compendium[pf2e.feats-srd.vWrGwqy4AhHMPz8V]`|
 |[Disarming Assault](feats/class-08-nL82Dzh0QwkNkJDA.htm)|Assaut désarmant|`@Compendium[pf2e.feats-srd.nL82Dzh0QwkNkJDA]`|
@@ -4111,7 +4111,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dream May](feats/ancestry-01-kqnFdIhToKTnOpMl.htm)|Vierge onirique|`@Compendium[pf2e.feats-srd.kqnFdIhToKTnOpMl]`|
 |[Drenching Mist](feats/archetype-06-6vpgAMj87J6cWN0j.htm)|Brume détrempeuse|`@Compendium[pf2e.feats-srd.6vpgAMj87J6cWN0j]`|
 |[Drifter's Juke](feats/class-06-FNO2hfGmxqJngD4A.htm)|Esquive du vagabond|`@Compendium[pf2e.feats-srd.FNO2hfGmxqJngD4A]`|
-|[Drive-By Attack](feats/archetype-12-Eg7YZBmeNJeY9wkD.htm)||`@Compendium[pf2e.feats-srd.Eg7YZBmeNJeY9wkD]`|
+|[Drive-By Attack](feats/archetype-12-Eg7YZBmeNJeY9wkD.htm)|Attaque en conduisant|`@Compendium[pf2e.feats-srd.Eg7YZBmeNJeY9wkD]`|
 |[Drow Shootist Dedication](feats/archetype-02-NwMiszlcqNZWtezq.htm)|Dévouement de Tireur drow|`@Compendium[pf2e.feats-srd.NwMiszlcqNZWtezq]`|
 |[Druid Dedication](feats/archetype-02-vhw3n86TEs6laopA.htm)|Dévouement du druide|`@Compendium[pf2e.feats-srd.vhw3n86TEs6laopA]`|
 |[Dual Energy Heart](feats/class-04-XGZUjc9I3sjfniDg.htm)|Cœur énergétique dual|`@Compendium[pf2e.feats-srd.XGZUjc9I3sjfniDg]`|
@@ -4145,8 +4145,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dwarven Weapon Cunning](feats/ancestry-05-vW7tWi3jK7z2Clen.htm)|Connaissances des armes naines|`@Compendium[pf2e.feats-srd.vW7tWi3jK7z2Clen]`|
 |[Dwarven Weapon Expertise](feats/ancestry-13-tpkih32Ch2wCA9R5.htm)|Expertise avec les armes naines|`@Compendium[pf2e.feats-srd.tpkih32Ch2wCA9R5]`|
 |[Dwarven Weapon Familiarity](feats/ancestry-01-CXS0ryG2SODSobm9.htm)|Familiarité avec les armes naines|`@Compendium[pf2e.feats-srd.CXS0ryG2SODSobm9]`|
-|[Eagle Eye](feats/archetype-12-W7Rkw1L5QxHvgeUW.htm)||`@Compendium[pf2e.feats-srd.W7Rkw1L5QxHvgeUW]`|
-|[Eagle Eyes](feats/archetype-12-UhmPekgw2HO40zKC.htm)||`@Compendium[pf2e.feats-srd.UhmPekgw2HO40zKC]`|
+|[Eagle Eye](feats/archetype-12-W7Rkw1L5QxHvgeUW.htm)|Œil d'aigle|`@Compendium[pf2e.feats-srd.W7Rkw1L5QxHvgeUW]`|
+|[Eagle Eyes](feats/archetype-12-UhmPekgw2HO40zKC.htm)|Yeux d'aigle|`@Compendium[pf2e.feats-srd.UhmPekgw2HO40zKC]`|
 |[Earned Glory](feats/ancestry-01-nfERPRCITBp970HO.htm)|Gloire méritée|`@Compendium[pf2e.feats-srd.nfERPRCITBp970HO]`|
 |[Earthsense](feats/ancestry-09-kjRMXN95lQmIi2hP.htm)|Sens de la terre|`@Compendium[pf2e.feats-srd.kjRMXN95lQmIi2hP]`|
 |[Earworm](feats/class-14-AOLf6QX068LR9L9e.htm)|Rengaine|`@Compendium[pf2e.feats-srd.AOLf6QX068LR9L9e]`|
@@ -4169,7 +4169,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Efficient Alchemy (Paragon)](feats/class-20-2FBZ0apnmZ7b61ct.htm)|Alchimie efficiente (Parangon)|`@Compendium[pf2e.feats-srd.2FBZ0apnmZ7b61ct]`|
 |[Efficient Controls](feats/skill-07-ucmJ2Z5VXUtCiE3q.htm)|Contrôles efficaces|`@Compendium[pf2e.feats-srd.ucmJ2Z5VXUtCiE3q]`|
 |[Efficient Rituals](feats/archetype-08-jYKKnr41OqQrf7hv.htm)|Rituels efficaces|`@Compendium[pf2e.feats-srd.jYKKnr41OqQrf7hv]`|
-|[Effortless Captivation](feats/archetype-14-lZA7SYBmSPFlKNr2.htm)||`@Compendium[pf2e.feats-srd.lZA7SYBmSPFlKNr2]`|
+|[Effortless Captivation](feats/archetype-14-lZA7SYBmSPFlKNr2.htm)|Captivant sans effort|`@Compendium[pf2e.feats-srd.lZA7SYBmSPFlKNr2]`|
 |[Effortless Concentration](feats/class-16-rgs6OZJYCgi5At8J.htm)|Concentration aisée|`@Compendium[pf2e.feats-srd.rgs6OZJYCgi5At8J]`|
 |[Effortless Reach](feats/class-18-LLCf2xPXA7FVQT1D.htm)|Allonge sans effort|`@Compendium[pf2e.feats-srd.LLCf2xPXA7FVQT1D]`|
 |[Efreeti Magic](feats/ancestry-09-AJVx3sHm6f6i8ZQW.htm)|Magie éfrit|`@Compendium[pf2e.feats-srd.AJVx3sHm6f6i8ZQW]`|
@@ -4289,7 +4289,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Everyone Duck!](feats/archetype-10-amf2zZuW299eiHAZ.htm)|À couvert !|`@Compendium[pf2e.feats-srd.amf2zZuW299eiHAZ]`|
 |[Everyone's A Suspect](feats/class-20-w4dijKncXx0ssBOQ.htm)|Chacun est un suspect|`@Compendium[pf2e.feats-srd.w4dijKncXx0ssBOQ]`|
 |[Exacting Strike](feats/class-01-8tS5NzytLmgbq5hF.htm)|Frappe contrôlée|`@Compendium[pf2e.feats-srd.8tS5NzytLmgbq5hF]`|
-|[Execution](feats/archetype-14-0xh9ISHFUFHqngK0.htm)||`@Compendium[pf2e.feats-srd.0xh9ISHFUFHqngK0]`|
+|[Execution](feats/archetype-14-0xh9ISHFUFHqngK0.htm)|Exécution|`@Compendium[pf2e.feats-srd.0xh9ISHFUFHqngK0]`|
 |[Executioner Weapon Training](feats/archetype-04-IqTtpxZ48rApy4BN.htm)|Entraînement avec les armes du bourreau|`@Compendium[pf2e.feats-srd.IqTtpxZ48rApy4BN]`|
 |[Exhort The Faithful](feats/skill-02-QvBIYW6aAqoiyim3.htm)|Exhorter les croyants|`@Compendium[pf2e.feats-srd.QvBIYW6aAqoiyim3]`|
 |[Expand Aura](feats/class-16-H7Ocx80td7Sx7Cqn.htm)|Aura étendue|`@Compendium[pf2e.feats-srd.H7Ocx80td7Sx7Cqn]`|
@@ -4306,7 +4306,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Expert Alchemy](feats/archetype-06-soHLtpMM9h3AE7PD.htm)|Alchimie expert|`@Compendium[pf2e.feats-srd.soHLtpMM9h3AE7PD]`|
 |[Expert Backstabber](feats/archetype-04-OQAo3Us0ODGYdNNn.htm)|Traître expert|`@Compendium[pf2e.feats-srd.OQAo3Us0ODGYdNNn]`|
 |[Expert Bard Spellcasting](feats/archetype-12-0RB3f3J7gOEv3fni.htm)|Incantation du Barde expert|`@Compendium[pf2e.feats-srd.0RB3f3J7gOEv3fni]`|
-|[Expert Beast Gunner Spellcasting](feats/archetype-12-lx8Wt813qavwLISv.htm)||`@Compendium[pf2e.feats-srd.lx8Wt813qavwLISv]`|
+|[Expert Beast Gunner Spellcasting](feats/archetype-12-lx8Wt813qavwLISv.htm)|Incantation experte du bestioléro|`@Compendium[pf2e.feats-srd.lx8Wt813qavwLISv]`|
 |[Expert Captivator Spellcasting](feats/archetype-10-QhKLXGJPLZaX1qDp.htm)|Incantation experte de captivant|`@Compendium[pf2e.feats-srd.QhKLXGJPLZaX1qDp]`|
 |[Expert Cathartic Spellcasting](feats/archetype-12-IZFw3Do0kBdgwZX0.htm)|Incantation cathartique experte|`@Compendium[pf2e.feats-srd.IZFw3Do0kBdgwZX0]`|
 |[Expert Cleric Spellcasting](feats/archetype-12-PLTOCEAvqBS05pZu.htm)|Incantantation du prêtre expert|`@Compendium[pf2e.feats-srd.PLTOCEAvqBS05pZu]`|
@@ -4420,7 +4420,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fighter Resiliency](feats/archetype-04-PLz1oIEGJojVUBsW.htm)|Résilience du Guerrier|`@Compendium[pf2e.feats-srd.PLz1oIEGJojVUBsW]`|
 |[Final Form](feats/ancestry-17-xXaKiJbKhClF5eJx.htm)|Forme finale|`@Compendium[pf2e.feats-srd.xXaKiJbKhClF5eJx]`|
 |[Final Shot](feats/class-18-K9hM3AdWGbU3VE8L.htm)|Tir final|`@Compendium[pf2e.feats-srd.K9hM3AdWGbU3VE8L]`|
-|[Finessed Features](feats/archetype-12-k9B7gDit3pXbq2XF.htm)||`@Compendium[pf2e.feats-srd.k9B7gDit3pXbq2XF]`|
+|[Finessed Features](feats/archetype-12-k9B7gDit3pXbq2XF.htm)|Caractéristiques définies|`@Compendium[pf2e.feats-srd.k9B7gDit3pXbq2XF]`|
 |[Finest Trick](feats/ancestry-13-aQHB5LhxLaFRkzSt.htm)|Astuce de qualité|`@Compendium[pf2e.feats-srd.aQHB5LhxLaFRkzSt]`|
 |[Finishing Follow-through](feats/class-02-DY6pNO3GzHeKSxmQ.htm)|Suivi de la botte|`@Compendium[pf2e.feats-srd.DY6pNO3GzHeKSxmQ]`|
 |[Finishing Precision](feats/archetype-04-X5gNhaYNx1xu6NoH.htm)|Finition précise|`@Compendium[pf2e.feats-srd.X5gNhaYNx1xu6NoH]`|
@@ -4428,7 +4428,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fire Lung](feats/class-01-yOloZIGkulrrPYG4.htm)|Poumon de feu|`@Compendium[pf2e.feats-srd.yOloZIGkulrrPYG4]`|
 |[Fire Resistance](feats/class-04-qbH9ns3HMYBxIvEQ.htm)|résistance au feu|`@Compendium[pf2e.feats-srd.qbH9ns3HMYBxIvEQ]`|
 |[Fire Savvy](feats/ancestry-01-W5hgaJvaCrTKfYbC.htm)|Connaisseur du feu|`@Compendium[pf2e.feats-srd.W5hgaJvaCrTKfYbC]`|
-|[Firearm Expert](feats/archetype-12-UotFrqA7zAxtpJdE.htm)||`@Compendium[pf2e.feats-srd.UotFrqA7zAxtpJdE]`|
+|[Firearm Expert](feats/archetype-12-UotFrqA7zAxtpJdE.htm)|Expert en arme à feu|`@Compendium[pf2e.feats-srd.UotFrqA7zAxtpJdE]`|
 |[Firebrand Braggart Dedication](feats/class-04-NagTqSLK8bAlo2nY.htm)|Dévouement d'Agitateur vantard|`@Compendium[pf2e.feats-srd.NagTqSLK8bAlo2nY]`|
 |[Firesight](feats/ancestry-05-DmYbGBC2ukp8tYD4.htm)|Vision enflammée|`@Compendium[pf2e.feats-srd.DmYbGBC2ukp8tYD4]`|
 |[Firework Technician Dedication](feats/archetype-02-MVbNnjqQOK9d8Ki3.htm)|Dévouement d'Artificier|`@Compendium[pf2e.feats-srd.MVbNnjqQOK9d8Ki3]`|
@@ -4491,7 +4491,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Foresee Danger](feats/class-12-pVDgiaqu1RbCOhuv.htm)|Danger anticipé|`@Compendium[pf2e.feats-srd.pVDgiaqu1RbCOhuv]`|
 |[Forest Stealth](feats/ancestry-05-zgriBCYR4TmBoDqO.htm)|Discrétion forestière|`@Compendium[pf2e.feats-srd.zgriBCYR4TmBoDqO]`|
 |[Forestall Curse](feats/class-14-NNeRv9Gcua1kMp4s.htm)|Malédiction Contrecarrée|`@Compendium[pf2e.feats-srd.NNeRv9Gcua1kMp4s]`|
-|[Forewarn](feats/archetype-12-vPA0EGXBaNzGxlxM.htm)||`@Compendium[pf2e.feats-srd.vPA0EGXBaNzGxlxM]`|
+|[Forewarn](feats/archetype-12-vPA0EGXBaNzGxlxM.htm)|Prévenir|`@Compendium[pf2e.feats-srd.vPA0EGXBaNzGxlxM]`|
 |[Forge-Blessed Shot](feats/ancestry-17-9cq4j15EbVyrHKFX.htm)|Tir béni par la forge|`@Compendium[pf2e.feats-srd.9cq4j15EbVyrHKFX]`|
 |[Forge-Day's Rest](feats/ancestry-01-ZxiAMposVPDNPwxI.htm)|Repos du jour de forge|`@Compendium[pf2e.feats-srd.ZxiAMposVPDNPwxI]`|
 |[Forlorn](feats/ancestry-01-AogIo1gHLdz7DyHx.htm)|Délaissé|`@Compendium[pf2e.feats-srd.AogIo1gHLdz7DyHx]`|
@@ -4592,7 +4592,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Godless Healing](feats/skill-02-yTLGclKtWVFZLKIz.htm)|Guérison athée|`@Compendium[pf2e.feats-srd.yTLGclKtWVFZLKIz]`|
 |[Golden Body](feats/class-20-uwp7Y4LNtPbhELjS.htm)|Corps doré|`@Compendium[pf2e.feats-srd.uwp7Y4LNtPbhELjS]`|
 |[Golden League Xun Dedication](feats/archetype-08-jTOxxy19o2VRJTbH.htm)|Dévouement de Xun de la Ligue dorée|`@Compendium[pf2e.feats-srd.jTOxxy19o2VRJTbH]`|
-|[Golem Dynamo](feats/archetype-12-xzesXSIXTqsVxm1e.htm)||`@Compendium[pf2e.feats-srd.xzesXSIXTqsVxm1e]`|
+|[Golem Dynamo](feats/archetype-12-xzesXSIXTqsVxm1e.htm)|Dynamo golem|`@Compendium[pf2e.feats-srd.xzesXSIXTqsVxm1e]`|
 |[Golem Grafter Dedication](feats/archetype-08-MxNb97qr1yMhbjiP.htm)|Dévouement de Greffeur de golem|`@Compendium[pf2e.feats-srd.MxNb97qr1yMhbjiP]`|
 |[Goloma Courage](feats/ancestry-01-Hey5rucsel7apOOi.htm)|Courage goloma|`@Compendium[pf2e.feats-srd.Hey5rucsel7apOOi]`|
 |[Goloma Lore](feats/ancestry-01-vNDCXpumBONpk5JO.htm)|Connaissance des golomas|`@Compendium[pf2e.feats-srd.vNDCXpumBONpk5JO]`|
@@ -4634,7 +4634,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Greater Revelation](feats/class-12-HSW3N9pfHhM7upRB.htm)|Révélation supérieure|`@Compendium[pf2e.feats-srd.HSW3N9pfHhM7upRB]`|
 |[Greater Spell Runes](feats/archetype-10-hRJV7byfPUHx1b9P.htm)|Rune de sort supérieure|`@Compendium[pf2e.feats-srd.hRJV7byfPUHx1b9P]`|
 |[Greater Spiritual Evolution](feats/class-12-gVLICIDQMvWN5D89.htm)|Évolution spirituelle supérieure|`@Compendium[pf2e.feats-srd.gVLICIDQMvWN5D89]`|
-|[Greater Sun Blessing](feats/archetype-12-HbBNuT1bqdcCU9hM.htm)||`@Compendium[pf2e.feats-srd.HbBNuT1bqdcCU9hM]`|
+|[Greater Sun Blessing](feats/archetype-12-HbBNuT1bqdcCU9hM.htm)|Bénédiction du soleil supérieure|`@Compendium[pf2e.feats-srd.HbBNuT1bqdcCU9hM]`|
 |[Greater Vital Evolution](feats/class-16-ND3nKsXCDBShUgYc.htm)|Évolution vitale supérieure|`@Compendium[pf2e.feats-srd.ND3nKsXCDBShUgYc]`|
 |[Green Empathy](feats/class-06-3vjOXL9ZD4ibaJL6.htm)|Empathie végétale|`@Compendium[pf2e.feats-srd.3vjOXL9ZD4ibaJL6]`|
 |[Green Tongue](feats/class-12-vwBD55BRDOatp4ZV.htm)|Langue végétale|`@Compendium[pf2e.feats-srd.vwBD55BRDOatp4ZV]`|
@@ -4835,7 +4835,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Incredible Recollection](feats/archetype-14-2l15VfVHMw3ttgJ3.htm)|Souvenirs incroyables|`@Compendium[pf2e.feats-srd.2l15VfVHMw3ttgJ3]`|
 |[Incredible Ricochet](feats/class-12-fCDC53WOOYrsyVIR.htm)|Ricochet extraordinaire|`@Compendium[pf2e.feats-srd.fCDC53WOOYrsyVIR]`|
 |[Incredible Scout](feats/general-11-aFoVHsuInMOkTZoQ.htm)|Éclaireur incroyable|`@Compendium[pf2e.feats-srd.aFoVHsuInMOkTZoQ]`|
-|[Inescapable Grasp](feats/archetype-12-UxjAszOYAhUvCDt2.htm)||`@Compendium[pf2e.feats-srd.UxjAszOYAhUvCDt2]`|
+|[Inescapable Grasp](feats/archetype-12-UxjAszOYAhUvCDt2.htm)|Prise incontournable|`@Compendium[pf2e.feats-srd.UxjAszOYAhUvCDt2]`|
 |[Inexhaustible Countermoves](feats/class-20-jG9YwAAvNbCShumf.htm)|Contremesures infatigables|`@Compendium[pf2e.feats-srd.jG9YwAAvNbCShumf]`|
 |[Infectious Emotions](feats/archetype-12-zybYSfeM0PLPpAaa.htm)|Émotions infectieuses|`@Compendium[pf2e.feats-srd.zybYSfeM0PLPpAaa]`|
 |[Infinite Possibilities](feats/class-18-LAHiW98iPJKplFyK.htm)|Possibilités infinies|`@Compendium[pf2e.feats-srd.LAHiW98iPJKplFyK]`|
@@ -5056,7 +5056,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Log Roll](feats/archetype-04-SjJ8BOy5sc8p2H5E.htm)|Rouleur de troncs|`@Compendium[pf2e.feats-srd.SjJ8BOy5sc8p2H5E]`|
 |[Long Tongue](feats/ancestry-05-OK8X6QFRuRxpBMcZ.htm)|Langue longue|`@Compendium[pf2e.feats-srd.OK8X6QFRuRxpBMcZ]`|
 |[Long-Nosed Form](feats/ancestry-05-WPz97m5FNlbLIQ6p.htm)|Forme au long nez|`@Compendium[pf2e.feats-srd.WPz97m5FNlbLIQ6p]`|
-|[Look Again](feats/archetype-18-blOiU4LPlBjVHcgR.htm)||`@Compendium[pf2e.feats-srd.blOiU4LPlBjVHcgR]`|
+|[Look Again](feats/archetype-18-blOiU4LPlBjVHcgR.htm)|Regarde encore|`@Compendium[pf2e.feats-srd.blOiU4LPlBjVHcgR]`|
 |[Lore Seeker](feats/archetype-08-BFgrPAK2v3GSKQ5e.htm)|Chercheur de connaissances|`@Compendium[pf2e.feats-srd.BFgrPAK2v3GSKQ5e]`|
 |[Lorefinder](feats/archetype-08-cdeVm8fTDzrP71Sw.htm)|Trouveur de connaissance|`@Compendium[pf2e.feats-srd.cdeVm8fTDzrP71Sw]`|
 |[Loremaster Dedication](feats/archetype-02-lyD6eXl4wc7Pq61q.htm)|Dévouement du Maître savant|`@Compendium[pf2e.feats-srd.lyD6eXl4wc7Pq61q]`|
@@ -5127,8 +5127,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Masked Casting](feats/archetype-08-4xeDjt8eARzAGARP.htm)|Incantation masquée|`@Compendium[pf2e.feats-srd.4xeDjt8eARzAGARP]`|
 |[Master Alchemy](feats/archetype-12-f6k9lIrIS4SfnCnG.htm)|Alchimie maître|`@Compendium[pf2e.feats-srd.f6k9lIrIS4SfnCnG]`|
 |[Master Bard Spellcasting](feats/archetype-18-eJNzP21lFPV3zWkm.htm)|Incantation du barde maître|`@Compendium[pf2e.feats-srd.eJNzP21lFPV3zWkm]`|
-|[Master Beast Gunner Spellcasting](feats/archetype-18-6qNRVKwbnX381jVj.htm)||`@Compendium[pf2e.feats-srd.6qNRVKwbnX381jVj]`|
-|[Master Captivator Spellcasting](feats/archetype-16-jI4Eoi6m0ogjXkGK.htm)||`@Compendium[pf2e.feats-srd.jI4Eoi6m0ogjXkGK]`|
+|[Master Beast Gunner Spellcasting](feats/archetype-18-6qNRVKwbnX381jVj.htm)|Incantation maître de bestioléro|`@Compendium[pf2e.feats-srd.6qNRVKwbnX381jVj]`|
+|[Master Captivator Spellcasting](feats/archetype-16-jI4Eoi6m0ogjXkGK.htm)|Incantation maître de captivant|`@Compendium[pf2e.feats-srd.jI4Eoi6m0ogjXkGK]`|
 |[Master Cathartic Spellcasting](feats/archetype-18-5NWZct5OvSiVvMn8.htm)|Incantation cathartique maître|`@Compendium[pf2e.feats-srd.5NWZct5OvSiVvMn8]`|
 |[Master Cleric Spellcasting](feats/archetype-18-bc6tcXSzakyCbQsS.htm)|Incantation du prêtre maître|`@Compendium[pf2e.feats-srd.bc6tcXSzakyCbQsS]`|
 |[Master Druid Spellcasting](feats/archetype-18-218WeRqUqdnguRdS.htm)|Incantation du druide maître|`@Compendium[pf2e.feats-srd.218WeRqUqdnguRdS]`|
@@ -5137,10 +5137,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Master Monster Hunter](feats/class-10-5csEOLLbYUWJDJoS.htm)|Maître chasseur de monstres|`@Compendium[pf2e.feats-srd.5csEOLLbYUWJDJoS]`|
 |[Master Oracle Spellcasting](feats/archetype-18-ZkGhDEpqe7fzJuSr.htm)|Incantation d'Oracle maître|`@Compendium[pf2e.feats-srd.ZkGhDEpqe7fzJuSr]`|
 |[Master Scroll Cache](feats/archetype-18-lIg5Gzz7W70jfbk1.htm)|Réserve maîtresse de parchemins|`@Compendium[pf2e.feats-srd.lIg5Gzz7W70jfbk1]`|
-|[Master Siege Engineer](feats/archetype-16-kVSZQvsz1cYjOwxL.htm)||`@Compendium[pf2e.feats-srd.kVSZQvsz1cYjOwxL]`|
+|[Master Siege Engineer](feats/archetype-16-kVSZQvsz1cYjOwxL.htm)|Maître ingénieur de siège|`@Compendium[pf2e.feats-srd.kVSZQvsz1cYjOwxL]`|
 |[Master Sorcerer Spellcasting](feats/archetype-18-phD0PbElkEeldZ2U.htm)|Incantation de l'ensorceleur maître|`@Compendium[pf2e.feats-srd.phD0PbElkEeldZ2U]`|
 |[Master Spellcasting](feats/class-18-NAgaDfwUSjPAon4o.htm)|Incantateur maître|`@Compendium[pf2e.feats-srd.NAgaDfwUSjPAon4o]`|
-|[Master Spotter](feats/archetype-12-UH8pDxrq1xJq4Sid.htm)||`@Compendium[pf2e.feats-srd.UH8pDxrq1xJq4Sid]`|
+|[Master Spotter](feats/archetype-12-UH8pDxrq1xJq4Sid.htm)|Observateur maître|`@Compendium[pf2e.feats-srd.UH8pDxrq1xJq4Sid]`|
 |[Master Spotter (Investigator)](feats/archetype-12-t8CAK8ylu23PUxbn.htm)|Dénicheur maître (Enquêteur)|`@Compendium[pf2e.feats-srd.t8CAK8ylu23PUxbn]`|
 |[Master Spotter (Ranger)](feats/archetype-12-rW1q7x5CMf9Rh1bi.htm)|Dénicheur maître (Rôdeur)|`@Compendium[pf2e.feats-srd.rW1q7x5CMf9Rh1bi]`|
 |[Master Summoner](feats/class-06-wios5UDRwKXoUYUD.htm)|Conjurateur maître|`@Compendium[pf2e.feats-srd.wios5UDRwKXoUYUD]`|
@@ -5180,14 +5180,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Methodical Debilitations](feats/class-10-CkK7WwaWnrLXK9sW.htm)|Handicaps méthodiques|`@Compendium[pf2e.feats-srd.CkK7WwaWnrLXK9sW]`|
 |[Mighty Bulwark](feats/archetype-10-5TPKikTyN7lrCvzY.htm)|Rempart puissant|`@Compendium[pf2e.feats-srd.5TPKikTyN7lrCvzY]`|
 |[Mighty Dragon Shape](feats/archetype-18-DFY3X7Mgl9rESQuu.htm)|Puissante forme de dragon|`@Compendium[pf2e.feats-srd.DFY3X7Mgl9rESQuu]`|
-|[Mighty Wings](feats/archetype-18-SlXLsuxBHeUyUPII.htm)||`@Compendium[pf2e.feats-srd.SlXLsuxBHeUyUPII]`|
+|[Mighty Wings](feats/archetype-18-SlXLsuxBHeUyUPII.htm)|Ailes puissantes|`@Compendium[pf2e.feats-srd.SlXLsuxBHeUyUPII]`|
 |[Mimic Protections](feats/class-20-mjdLmXLCNaRgMLVw.htm)|Imiter les protections|`@Compendium[pf2e.feats-srd.mjdLmXLCNaRgMLVw]`|
 |[Mindblank Mutagen](feats/class-18-C9nb7H5u2ElBXvCR.htm)|Mutagène d’esprit vide|`@Compendium[pf2e.feats-srd.C9nb7H5u2ElBXvCR]`|
 |[Miniaturize](feats/class-08-bcExqs4CsG2Kc5Bs.htm)|Miniaturiser|`@Compendium[pf2e.feats-srd.bcExqs4CsG2Kc5Bs]`|
 |[Minion Guise](feats/skill-04-rAbfuZ1mc3lUYH41.htm)|Aspect de sbire|`@Compendium[pf2e.feats-srd.rAbfuZ1mc3lUYH41]`|
 |[Minor Magic](feats/class-02-FrlhErsjR6fEn6kX.htm)|Magie mineure|`@Compendium[pf2e.feats-srd.FrlhErsjR6fEn6kX]`|
 |[Miracle Worker](feats/class-18-m2pHkmyGvkwqfSSN.htm)|Fabricateur de miracles|`@Compendium[pf2e.feats-srd.m2pHkmyGvkwqfSSN]`|
-|[Miraculous Flight](feats/archetype-18-v22FQuw17Dlr1b3x.htm)||`@Compendium[pf2e.feats-srd.v22FQuw17Dlr1b3x]`|
+|[Miraculous Flight](feats/archetype-18-v22FQuw17Dlr1b3x.htm)|Vol miraculeux|`@Compendium[pf2e.feats-srd.v22FQuw17Dlr1b3x]`|
 |[Miraculous Possibility](feats/class-18-7mGMHb7irGKZ0eQo.htm)|Possibilité miraculeuse|`@Compendium[pf2e.feats-srd.7mGMHb7irGKZ0eQo]`|
 |[Miresoul](feats/ancestry-01-xruboxaTF6nw8l7M.htm)|Âme bourbier|`@Compendium[pf2e.feats-srd.xruboxaTF6nw8l7M]`|
 |[Mirror Shield](feats/class-10-kQEIPYoKTt69yXxV.htm)|Bouclier miroir|`@Compendium[pf2e.feats-srd.kQEIPYoKTt69yXxV]`|
@@ -5390,7 +5390,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Pesh Skin](feats/class-12-hPanopG3TbXKr52O.htm)|Peau de pesh|`@Compendium[pf2e.feats-srd.hPanopG3TbXKr52O]`|
 |[Phalanx Breaker](feats/class-06-BkEOwv3SRtefczpO.htm)|Briseur de phalange|`@Compendium[pf2e.feats-srd.BkEOwv3SRtefczpO]`|
 |[Phase Arrow](feats/archetype-16-LRSTjjBNNlD0XZX8.htm)|Flèche de phase|`@Compendium[pf2e.feats-srd.LRSTjjBNNlD0XZX8]`|
-|[Phase Bullet](feats/archetype-14-nY8HtHNJMqP0hz3v.htm)||`@Compendium[pf2e.feats-srd.nY8HtHNJMqP0hz3v]`|
+|[Phase Bullet](feats/archetype-14-nY8HtHNJMqP0hz3v.htm)|Balle de phase|`@Compendium[pf2e.feats-srd.nY8HtHNJMqP0hz3v]`|
 |[Phase Out](feats/class-06-axGS5bBJ9vl5AePc.htm)|Déphasage|`@Compendium[pf2e.feats-srd.axGS5bBJ9vl5AePc]`|
 |[Phenom's Verve](feats/archetype-10-4YqmeJQwnrG1Lg07.htm)|Verve du phénomène|`@Compendium[pf2e.feats-srd.4YqmeJQwnrG1Lg07]`|
 |[Phonetic Training](feats/archetype-04-Wsrw68pklQyaScMX.htm)|Entraînement phonétique|`@Compendium[pf2e.feats-srd.Wsrw68pklQyaScMX]`|
@@ -5560,7 +5560,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ranged Combatant (Piercing)](feats/class-02-mVkUTuQb8cs6sdYv.htm)|Combattant à distance (perforant)|`@Compendium[pf2e.feats-srd.mVkUTuQb8cs6sdYv]`|
 |[Ranged Combatant (Positive)](feats/class-02-jSHlApOPXNMi5faY.htm)|Combattant à distance (positif)|`@Compendium[pf2e.feats-srd.jSHlApOPXNMi5faY]`|
 |[Ranged Combatant (Slashing)](feats/class-02-kv99Dp1uaUr12XdR.htm)|Combattant à distance (tranchant)|`@Compendium[pf2e.feats-srd.kv99Dp1uaUr12XdR]`|
-|[Ranged Disarm](feats/archetype-14-MyDluIbnX2sjm3pB.htm)||`@Compendium[pf2e.feats-srd.MyDluIbnX2sjm3pB]`|
+|[Ranged Disarm](feats/archetype-14-MyDluIbnX2sjm3pB.htm)|Désarmement à distance|`@Compendium[pf2e.feats-srd.MyDluIbnX2sjm3pB]`|
 |[Ranged Reprisal](feats/class-01-iTdbkP07UFMOo1rI.htm)|Représailles à distance|`@Compendium[pf2e.feats-srd.iTdbkP07UFMOo1rI]`|
 |[Ranger Dedication](feats/archetype-02-R00qiDE5pBctgtyU.htm)|Dévouement du rôdeur|`@Compendium[pf2e.feats-srd.R00qiDE5pBctgtyU]`|
 |[Ranger Resiliency](feats/archetype-04-JKvP4pFHzwWsHu2n.htm)|Résilience du rôdeur|`@Compendium[pf2e.feats-srd.JKvP4pFHzwWsHu2n]`|
@@ -5582,7 +5582,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Razzle-Dazzle](feats/ancestry-01-VcnOEAM3UR7oS0D5.htm)|Éblouissement|`@Compendium[pf2e.feats-srd.VcnOEAM3UR7oS0D5]`|
 |[Reach Beyond](feats/archetype-04-QMycbf2StuPcUbzO.htm)|Atteindre audelà|`@Compendium[pf2e.feats-srd.QMycbf2StuPcUbzO]`|
 |[Reach Spell](feats/class-01-BWomK7EVY0WXxWgh.htm)|Sort éloigné|`@Compendium[pf2e.feats-srd.BWomK7EVY0WXxWgh]`|
-|[Reach for the Sky](feats/archetype-12-ssrublnppwFSvVcb.htm)||`@Compendium[pf2e.feats-srd.ssrublnppwFSvVcb]`|
+|[Reach for the Sky](feats/archetype-12-ssrublnppwFSvVcb.htm)|Mains en l'air|`@Compendium[pf2e.feats-srd.ssrublnppwFSvVcb]`|
 |[Reach for the Stars](feats/class-18-GWnQMjSAIG6qcV8J.htm)|Atteindre les étoiles|`@Compendium[pf2e.feats-srd.GWnQMjSAIG6qcV8J]`|
 |[Reactive Charm](feats/archetype-10-cQ2jy4Utoxmk3MkG.htm)|Charme réactif|`@Compendium[pf2e.feats-srd.cQ2jy4Utoxmk3MkG]`|
 |[Reactive Dismissal](feats/class-04-3EtlXNK4vc44R3Gm.htm)|Renvoi réactif|`@Compendium[pf2e.feats-srd.3EtlXNK4vc44R3Gm]`|
@@ -5827,7 +5827,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Shall not Falter, Shall not Rout](feats/archetype-10-4AezsqaQRFtX024w.htm)|Tu ne faibliras pas, tu ne prendras pas la fuite|`@Compendium[pf2e.feats-srd.4AezsqaQRFtX024w]`|
 |[Shameless Request](feats/skill-07-KIK2Eza9TK47MEb2.htm)|Requête sans vergogne|`@Compendium[pf2e.feats-srd.KIK2Eza9TK47MEb2]`|
 |[Shape Of The Dragon](feats/archetype-14-eR0sifECG27CC4do.htm)|Forme de dragon|`@Compendium[pf2e.feats-srd.eR0sifECG27CC4do]`|
-|[Shape of the Cloud Dragon](feats/archetype-14-1fVKWWYjlVtOECku.htm)||`@Compendium[pf2e.feats-srd.1fVKWWYjlVtOECku]`|
+|[Shape of the Cloud Dragon](feats/archetype-14-1fVKWWYjlVtOECku.htm)|Forme du dragon des nuages|`@Compendium[pf2e.feats-srd.1fVKWWYjlVtOECku]`|
 |[Shapechanger's Intuition](feats/ancestry-01-nbWkPLiUxagX8dCw.htm)|Intuition du changeur de forme|`@Compendium[pf2e.feats-srd.nbWkPLiUxagX8dCw]`|
 |[Shaped Contaminant](feats/class-12-9u0uW1vZThRayXk2.htm)|Contaminant formé|`@Compendium[pf2e.feats-srd.9u0uW1vZThRayXk2]`|
 |[Share Eidolon Magic](feats/class-14-jdrdkxqautAtszCX.htm)|Partager la magie de l'eidolon|`@Compendium[pf2e.feats-srd.jdrdkxqautAtszCX]`|
@@ -5948,7 +5948,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Smoke Curtain](feats/class-08-WDid62NmmC6NiTE6.htm)|Rideau de fumée|`@Compendium[pf2e.feats-srd.WDid62NmmC6NiTE6]`|
 |[Smoke Sight](feats/ancestry-09-67UXSHUUH0K36xyB.htm)|Vision de fumée|`@Compendium[pf2e.feats-srd.67UXSHUUH0K36xyB]`|
 |[Smokesoul](feats/ancestry-01-lqhhvDJAjPw6LZy5.htm)|Âmefûmante|`@Compendium[pf2e.feats-srd.lqhhvDJAjPw6LZy5]`|
-|[Smoldering Explosion](feats/archetype-08-sCkzwTBLyE8FdzWI.htm)|Explosion fumaante|`@Compendium[pf2e.feats-srd.sCkzwTBLyE8FdzWI]`|
+|[Smoldering Explosion](feats/archetype-08-sCkzwTBLyE8FdzWI.htm)|Explosion fumante|`@Compendium[pf2e.feats-srd.sCkzwTBLyE8FdzWI]`|
 |[Snagging Strike](feats/class-01-mWCiu9Hl1WxajSLa.htm)|Frappe déconcertante|`@Compendium[pf2e.feats-srd.mWCiu9Hl1WxajSLa]`|
 |[Snap Out Of It! (Marshal)](feats/archetype-04-zbnL5OP4zVaNFcq8.htm)|Secoue-toi ! (Capitaine)|`@Compendium[pf2e.feats-srd.zbnL5OP4zVaNFcq8]`|
 |[Snap Out Of It! (Pathfinder Agent)](feats/archetype-08-n3vpCWPjXAInRTyR.htm)|Secoue-toi ! (Agent des Éclaireurs)|`@Compendium[pf2e.feats-srd.n3vpCWPjXAInRTyR]`|
@@ -5967,7 +5967,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sniping Duo Dedication](feats/archetype-02-6PP57Aa5HmSr0qIZ.htm)|Dévouement de Duo de tireur d'élite|`@Compendium[pf2e.feats-srd.6PP57Aa5HmSr0qIZ]`|
 |[Snow May](feats/ancestry-01-pP4pbFBg5GAgcOE9.htm)|Vierge de neige|`@Compendium[pf2e.feats-srd.pP4pbFBg5GAgcOE9]`|
 |[Soaring Armor](feats/class-14-2wLfchKVDSKBOIpV.htm)|Armure volante|`@Compendium[pf2e.feats-srd.2wLfchKVDSKBOIpV]`|
-|[Soaring Dynamo](feats/archetype-18-fyJ2slL98hnQH3On.htm)||`@Compendium[pf2e.feats-srd.fyJ2slL98hnQH3On]`|
+|[Soaring Dynamo](feats/archetype-18-fyJ2slL98hnQH3On.htm)|Dynamo volante|`@Compendium[pf2e.feats-srd.fyJ2slL98hnQH3On]`|
 |[Soaring Flight](feats/ancestry-09-Tl8yckXeTCHnwrlM.htm)|Voler haut|`@Compendium[pf2e.feats-srd.Tl8yckXeTCHnwrlM]`|
 |[Soaring Form](feats/ancestry-17-WZC2XXQo6Pu2GQeo.htm)|Forme brûlante|`@Compendium[pf2e.feats-srd.WZC2XXQo6Pu2GQeo]`|
 |[Soaring Poppet](feats/ancestry-17-JrBqOxHZX20b8gTT.htm)|Poupée volante|`@Compendium[pf2e.feats-srd.JrBqOxHZX20b8gTT]`|
@@ -6277,7 +6277,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Terrain Stalker](feats/skill-01-beyw5bdA5hkQbmaG.htm)|Traqueur de terrain|`@Compendium[pf2e.feats-srd.beyw5bdA5hkQbmaG]`|
 |[Terrain Transposition](feats/class-10-H0tffYs7ODMQ3JJj.htm)|Transposition de terrain|`@Compendium[pf2e.feats-srd.H0tffYs7ODMQ3JJj]`|
 |[Terrified Retreat](feats/skill-07-dc8X2Mbtwq6kGp7F.htm)|Retraite terrifiée|`@Compendium[pf2e.feats-srd.dc8X2Mbtwq6kGp7F]`|
-|[Terrifying Countenance](feats/archetype-18-Rbp08BSSzwpkWVjh.htm)||`@Compendium[pf2e.feats-srd.Rbp08BSSzwpkWVjh]`|
+|[Terrifying Countenance](feats/archetype-18-Rbp08BSSzwpkWVjh.htm)|Contenance terrifiante|`@Compendium[pf2e.feats-srd.Rbp08BSSzwpkWVjh]`|
 |[Terrifying Howl](feats/class-10-HjinlKihkadhkQ4Z.htm)|Hurlement terrifiant|`@Compendium[pf2e.feats-srd.HjinlKihkadhkQ4Z]`|
 |[Terrifying Resistance](feats/skill-02-iDimfGmQHacwxeh2.htm)|Résistance terrifiante|`@Compendium[pf2e.feats-srd.iDimfGmQHacwxeh2]`|
 |[Tetraelemental Assault](feats/ancestry-09-z54Jl3KRZpA2UaZV.htm)|Assaut tétraélémentaire|`@Compendium[pf2e.feats-srd.z54Jl3KRZpA2UaZV]`|
@@ -6568,7 +6568,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Westyr's Wayfinder Repository](feats/archetype-06-pkH4DPmMWcimMov7.htm)|Dépôt de guide de Westyr|`@Compendium[pf2e.feats-srd.pkH4DPmMWcimMov7]`|
 |[Wheedle and Jig](feats/ancestry-09-3yLdRzh16sT8RgFV.htm)|Roue et gigue|`@Compendium[pf2e.feats-srd.3yLdRzh16sT8RgFV]`|
 |[Whirling Blade Stance](feats/class-14-IaiEZaA8erufMUCr.htm)|Posture de la lame tournoyante|`@Compendium[pf2e.feats-srd.IaiEZaA8erufMUCr]`|
-|[Whirling Knockdown](feats/archetype-14-dloGUhZYG1xUPVE4.htm)||`@Compendium[pf2e.feats-srd.dloGUhZYG1xUPVE4]`|
+|[Whirling Knockdown](feats/archetype-14-dloGUhZYG1xUPVE4.htm)|Renversement tourbillonant|`@Compendium[pf2e.feats-srd.dloGUhZYG1xUPVE4]`|
 |[Whirling Throw](feats/class-06-w0nSRBNwexM5Dh0D.htm)|Projection en rotation|`@Compendium[pf2e.feats-srd.w0nSRBNwexM5Dh0D]`|
 |[Whirlwind Spell](feats/class-20-iHUuWrvkT2uR0PnK.htm)|Sort tourbillonnant|`@Compendium[pf2e.feats-srd.iHUuWrvkT2uR0PnK]`|
 |[Whirlwind Stance](feats/archetype-10-wZZyasfIqwiJBQAQ.htm)|Posture tourbillonnante|`@Compendium[pf2e.feats-srd.wZZyasfIqwiJBQAQ]`|
@@ -6640,20 +6640,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
-|[Effect: Guidance Immunity](spell-effects/01-3LyOkV25p7wA181H.htm)|Effet: Immunité à Assistance divine|`@Compendium[pf2e.spell-effects.3LyOkV25p7wA181H]`|
-|[Effect: Rejuvinating Flames](spell-effects/01-06zdFoxzuTpPPGyJ.htm)|Effet: Flammes rajeunissantes|`@Compendium[pf2e.spell-effects.06zdFoxzuTpPPGyJ]`|
-|[Spell Effect: Aberrant Form (Chuul)](spell-effects/05-xsy1yaCj0SVsn502.htm)|Effet: Forme d'aberration (Chuul)|`@Compendium[pf2e.spell-effects.xsy1yaCj0SVsn502]`|
-|[Spell Effect: Aberrant Form (Gogiteth)](spell-effects/05-gKGErrsS1WoAyWub.htm)|Effet: Forme d'aberration (Gogiteth)|`@Compendium[pf2e.spell-effects.gKGErrsS1WoAyWub]`|
-|[Spell Effect: Aberrant Form (Gug)](spell-effects/05-sfJyQKmoxSRo6FyP.htm)|Effet: Forme d'aberration (Gug)|`@Compendium[pf2e.spell-effects.sfJyQKmoxSRo6FyP]`|
-|[Spell Effect: Aberrant Form (Otyugh)](spell-effects/05-SjfDoeymtnYKoGUD.htm)|Effet: Forme d'aberration (Otyugh)|`@Compendium[pf2e.spell-effects.SjfDoeymtnYKoGUD]`|
+|[Effect: Guidance Immunity](spell-effects/01-3LyOkV25p7wA181H.htm)|Effet : Immunité à Assistance divine|`@Compendium[pf2e.spell-effects.3LyOkV25p7wA181H]`|
+|[Effect: Rejuvinating Flames](spell-effects/01-06zdFoxzuTpPPGyJ.htm)|Effet : Flammes rajeunissantes|`@Compendium[pf2e.spell-effects.06zdFoxzuTpPPGyJ]`|
+|[Spell Effect: Aberrant Form (Chuul)](spell-effects/05-xsy1yaCj0SVsn502.htm)|Effet : Forme d'aberration (Chuul)|`@Compendium[pf2e.spell-effects.xsy1yaCj0SVsn502]`|
+|[Spell Effect: Aberrant Form (Gogiteth)](spell-effects/05-gKGErrsS1WoAyWub.htm)|Effet : Forme d'aberration (Gogiteth)|`@Compendium[pf2e.spell-effects.gKGErrsS1WoAyWub]`|
+|[Spell Effect: Aberrant Form (Gug)](spell-effects/05-sfJyQKmoxSRo6FyP.htm)|Effet : Forme d'aberration (Gug)|`@Compendium[pf2e.spell-effects.sfJyQKmoxSRo6FyP]`|
+|[Spell Effect: Aberrant Form (Otyugh)](spell-effects/05-SjfDoeymtnYKoGUD.htm)|Effet : Forme d'aberration (Otyugh)|`@Compendium[pf2e.spell-effects.SjfDoeymtnYKoGUD]`|
 |[Spell Effect: Accelerating Touch](spell-effects/01-alyNtkHLNnt98Ewz.htm)|Effet : Contact accélérant|`@Compendium[pf2e.spell-effects.alyNtkHLNnt98Ewz]`|
 |[Spell Effect: Adapt Self (Darkvision)](spell-effects/01-0gv9D5RlrF5cKA3I.htm)|Effet : Adaptation de soi|`@Compendium[pf2e.spell-effects.0gv9D5RlrF5cKA3I]`|
 |[Spell Effect: Adapt Self (Swim)](spell-effects/01-2SWUzp4JuNK5EX0J.htm)|Effet : Adaptation de soi (Nage)|`@Compendium[pf2e.spell-effects.2SWUzp4JuNK5EX0J]`|
-|[Spell Effect: Adaptive Ablation (Acid)](spell-effects/04-pgzrKgfIgf2a36Qy.htm)|Effet: Ablation adaptative (Acide)|`@Compendium[pf2e.spell-effects.pgzrKgfIgf2a36Qy]`|
-|[Spell Effect: Adaptive Ablation (Cold)](spell-effects/04-vYSS2W2BA0SiY5yL.htm)|Effet: Ablation adaptative (Froid|`@Compendium[pf2e.spell-effects.vYSS2W2BA0SiY5yL]`|
-|[Spell Effect: Adaptive Ablation (Electricity)](spell-effects/04-9K0QeW8j0Z1WswnZ.htm)|Effet: Ablation adaptative (Électricité)|`@Compendium[pf2e.spell-effects.9K0QeW8j0Z1WswnZ]`|
-|[Spell Effect: Adaptive Ablation (Fire)](spell-effects/04-NhauZhE2kQKw8MRx.htm)|Effet: Ablation adaptative (Feu)|`@Compendium[pf2e.spell-effects.NhauZhE2kQKw8MRx]`|
-|[Spell Effect: Adaptive Ablation (Sonic)](spell-effects/04-ZXWDzLJ8583Z4hOD.htm)|Effet: Ablation adaptative (Son)|`@Compendium[pf2e.spell-effects.ZXWDzLJ8583Z4hOD]`|
+|[Spell Effect: Adaptive Ablation (Acid)](spell-effects/04-pgzrKgfIgf2a36Qy.htm)|Effet : Ablation adaptative (Acide)|`@Compendium[pf2e.spell-effects.pgzrKgfIgf2a36Qy]`|
+|[Spell Effect: Adaptive Ablation (Cold)](spell-effects/04-vYSS2W2BA0SiY5yL.htm)|Effet : Ablation adaptative (Froid|`@Compendium[pf2e.spell-effects.vYSS2W2BA0SiY5yL]`|
+|[Spell Effect: Adaptive Ablation (Electricity)](spell-effects/04-9K0QeW8j0Z1WswnZ.htm)|Effet : Ablation adaptative (Électricité)|`@Compendium[pf2e.spell-effects.9K0QeW8j0Z1WswnZ]`|
+|[Spell Effect: Adaptive Ablation (Fire)](spell-effects/04-NhauZhE2kQKw8MRx.htm)|Effet : Ablation adaptative (Feu)|`@Compendium[pf2e.spell-effects.NhauZhE2kQKw8MRx]`|
+|[Spell Effect: Adaptive Ablation (Sonic)](spell-effects/04-ZXWDzLJ8583Z4hOD.htm)|Effet : Ablation adaptative (Son)|`@Compendium[pf2e.spell-effects.ZXWDzLJ8583Z4hOD]`|
 |[Spell Effect: Aerial Form (Bat)](spell-effects/04-jvwKRHtOiPAm4uAP.htm)|Effet : Forme aérienne (Chauve-souris)|`@Compendium[pf2e.spell-effects.jvwKRHtOiPAm4uAP]`|
 |[Spell Effect: Aerial Form (Bird)](spell-effects/04-0QVufU5o3xIxiHmP.htm)|Effet : Forme aérienne (Oiseau)|`@Compendium[pf2e.spell-effects.0QVufU5o3xIxiHmP]`|
 |[Spell Effect: Aerial Form (Pterosaur)](spell-effects/04-UjoNm3lrhlg4ctAQ.htm)|Effet : Forme aérienne (Ptérosaure)|`@Compendium[pf2e.spell-effects.UjoNm3lrhlg4ctAQ]`|
@@ -6661,11 +6661,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Agile Feet](spell-effects/01-y9PJdDYFemhk6Z5o.htm)|Effet : Pieds Agiles|`@Compendium[pf2e.spell-effects.y9PJdDYFemhk6Z5o]`|
 |[Spell Effect: Amplifying Touch](spell-effects/01-MjtPtndJx31q2N9R.htm)|Effet : Toucher amplificateur|`@Compendium[pf2e.spell-effects.MjtPtndJx31q2N9R]`|
 |[Spell Effect: Ancestral Form](spell-effects/06-l8HkOKfiUqd3BUwT.htm)|Effet : Forme ancestrale|`@Compendium[pf2e.spell-effects.l8HkOKfiUqd3BUwT]`|
-|[Spell Effect: Angel Form (Balisse)](spell-effects/07-WEpgIGFwtRb3ef1x.htm)|Effet: Forme d'ange (Balisse)|`@Compendium[pf2e.spell-effects.WEpgIGFwtRb3ef1x]`|
-|[Spell Effect: Angel Form (Choral)](spell-effects/07-sccNh8j1PKLHCKh1.htm)|Effet: Forme d'ange (Choral)|`@Compendium[pf2e.spell-effects.sccNh8j1PKLHCKh1]`|
-|[Spell Effect: Angel Form (Monadic Deva)](spell-effects/07-3vWfew0TIrcGRjLZ.htm)|Effet: Forme d'ange (Deva monadique)|`@Compendium[pf2e.spell-effects.3vWfew0TIrcGRjLZ]`|
-|[Spell Effect: Angel Form (Movanic Deva)](spell-effects/07-Bd86oAvK3RLN076H.htm)|Effet: Forme d'ange (Deva movanique)}|`@Compendium[pf2e.spell-effects.Bd86oAvK3RLN076H]`|
-|[Spell Effect: Angelic Wings](spell-effects/03-iZYjxY0qYvg5yPP3.htm)|Effet: Ailes d'ange|`@Compendium[pf2e.spell-effects.iZYjxY0qYvg5yPP3]`|
+|[Spell Effect: Angel Form (Balisse)](spell-effects/07-WEpgIGFwtRb3ef1x.htm)|Effet : Forme d'ange (Balisse)|`@Compendium[pf2e.spell-effects.WEpgIGFwtRb3ef1x]`|
+|[Spell Effect: Angel Form (Choral)](spell-effects/07-sccNh8j1PKLHCKh1.htm)|Effet : Forme d'ange (Choral)|`@Compendium[pf2e.spell-effects.sccNh8j1PKLHCKh1]`|
+|[Spell Effect: Angel Form (Monadic Deva)](spell-effects/07-3vWfew0TIrcGRjLZ.htm)|Effet : Forme d'ange (Deva monadique)|`@Compendium[pf2e.spell-effects.3vWfew0TIrcGRjLZ]`|
+|[Spell Effect: Angel Form (Movanic Deva)](spell-effects/07-Bd86oAvK3RLN076H.htm)|Effet : Forme d'ange (Deva movanique)}|`@Compendium[pf2e.spell-effects.Bd86oAvK3RLN076H]`|
+|[Spell Effect: Angelic Wings](spell-effects/03-iZYjxY0qYvg5yPP3.htm)|Effet : Ailes d'ange|`@Compendium[pf2e.spell-effects.iZYjxY0qYvg5yPP3]`|
 |[Spell Effect: Animal Feature (Cat Eyes)](spell-effects/02-dCQCzapIk53xmDo5.htm)|Effet : Trait animal (Yeux de chats)|`@Compendium[pf2e.spell-effects.dCQCzapIk53xmDo5]`|
 |[Spell Effect: Animal Feature (Claws)](spell-effects/02-2wfrhRLmmgPSKbAZ.htm)|Effet : Trait animal (Griffes)|`@Compendium[pf2e.spell-effects.2wfrhRLmmgPSKbAZ]`|
 |[Spell Effect: Animal Feature (Fish Tail)](spell-effects/04-Xlwt1wpjEKWBLUjK.htm)|Effet : Trait animal (Queue de poisson)|`@Compendium[pf2e.spell-effects.Xlwt1wpjEKWBLUjK]`|
@@ -6682,85 +6682,85 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Animal Form (Shark)](spell-effects/02-qPaEEhczUWCQo6ux.htm)|Effet : Forme animale (Requin)|`@Compendium[pf2e.spell-effects.qPaEEhczUWCQo6ux]`|
 |[Spell Effect: Animal Form (Snake)](spell-effects/02-kz3mlFwb9tV9bFwu.htm)|Effet : Forme animale (Serpent)|`@Compendium[pf2e.spell-effects.kz3mlFwb9tV9bFwu]`|
 |[Spell Effect: Apex Companion](spell-effects/10-NXzo2kdgVixIZ2T1.htm)|Effet : Compagnon alpha|`@Compendium[pf2e.spell-effects.NXzo2kdgVixIZ2T1]`|
-|[Spell Effect: Arcane Countermeasure](spell-effects/05-14m4s0FeRSqRlHwL.htm)|Effet: Contre mesures arcaniques|`@Compendium[pf2e.spell-effects.14m4s0FeRSqRlHwL]`|
-|[Spell Effect: Armor of Bones](spell-effects/03-6BjslHgY01cNbKp5.htm)|Effet: Armure d'os|`@Compendium[pf2e.spell-effects.6BjslHgY01cNbKp5]`|
+|[Spell Effect: Arcane Countermeasure](spell-effects/05-14m4s0FeRSqRlHwL.htm)|Effet : Contre mesures arcaniques|`@Compendium[pf2e.spell-effects.14m4s0FeRSqRlHwL]`|
+|[Spell Effect: Armor of Bones](spell-effects/03-6BjslHgY01cNbKp5.htm)|Effet : Armure d'os|`@Compendium[pf2e.spell-effects.6BjslHgY01cNbKp5]`|
 |[Spell Effect: Athletic Rush](spell-effects/01-57lnrCzGUcNUBP2O.htm)|Effet : Athlétisme poussé|`@Compendium[pf2e.spell-effects.57lnrCzGUcNUBP2O]`|
-|[Spell Effect: Augment Summoning](spell-effects/01-UtIOWubq7akdHMOh.htm)|Effet: Convocation améliorée|`@Compendium[pf2e.spell-effects.UtIOWubq7akdHMOh]`|
+|[Spell Effect: Augment Summoning](spell-effects/01-UtIOWubq7akdHMOh.htm)|Effet : Convocation améliorée|`@Compendium[pf2e.spell-effects.UtIOWubq7akdHMOh]`|
 |[Spell Effect: Bane](spell-effects/01-UTLp7omqsiC36bso.htm)|Effet : Imprécation|`@Compendium[pf2e.spell-effects.UTLp7omqsiC36bso]`|
-|[Spell Effect: Barkskin](spell-effects/02-HoOujAdQWCN4E6sQ.htm)|Effet: Peau d'écorce|`@Compendium[pf2e.spell-effects.HoOujAdQWCN4E6sQ]`|
-|[Spell Effect: Bathe in Blood](spell-effects/08-kMoOWWBqDYmPcYyS.htm)|Effet: Baignade de sang|`@Compendium[pf2e.spell-effects.kMoOWWBqDYmPcYyS]`|
-|[Spell Effect: Bestial Curse (Critical Failure)](spell-effects/04-KtAJN4Qr2poTL6BB.htm)|Effet: Malédiction bestiale (Échec critique)|`@Compendium[pf2e.spell-effects.KtAJN4Qr2poTL6BB]`|
-|[Spell Effect: Bestial Curse (Failure)](spell-effects/04-8wCVSzWYcURWewbd.htm)|Effet: Malédiction bestiale (Échec)|`@Compendium[pf2e.spell-effects.8wCVSzWYcURWewbd]`|
+|[Spell Effect: Barkskin](spell-effects/02-HoOujAdQWCN4E6sQ.htm)|Effet : Peau d'écorce|`@Compendium[pf2e.spell-effects.HoOujAdQWCN4E6sQ]`|
+|[Spell Effect: Bathe in Blood](spell-effects/08-kMoOWWBqDYmPcYyS.htm)|Effet : Baignade de sang|`@Compendium[pf2e.spell-effects.kMoOWWBqDYmPcYyS]`|
+|[Spell Effect: Bestial Curse (Critical Failure)](spell-effects/04-KtAJN4Qr2poTL6BB.htm)|Effet : Malédiction bestiale (Échec critique)|`@Compendium[pf2e.spell-effects.KtAJN4Qr2poTL6BB]`|
+|[Spell Effect: Bestial Curse (Failure)](spell-effects/04-8wCVSzWYcURWewbd.htm)|Effet : Malédiction bestiale (Échec)|`@Compendium[pf2e.spell-effects.8wCVSzWYcURWewbd]`|
 |[Spell Effect: Bless](spell-effects/00-Gqy7K6FnbLtwGpud.htm)|Effet : Bénédiction|`@Compendium[pf2e.spell-effects.Gqy7K6FnbLtwGpud]`|
-|[Spell Effect: Blessing of Defiance (2 Action Fortitude)](spell-effects/05-Dr7KMMtE4twxO6Ks.htm)|Effet: Bénédiction du défi (2 actions Vigueur)|`@Compendium[pf2e.spell-effects.Dr7KMMtE4twxO6Ks]`|
-|[Spell Effect: Blessing of Defiance (2 Action Reflex)](spell-effects/05-51M5Qblm1TDTq7HB.htm)|Effet: Bénédiction du défi (Réflexes à 2 actions)|`@Compendium[pf2e.spell-effects.51M5Qblm1TDTq7HB]`|
+|[Spell Effect: Blessing of Defiance (2 Action Fortitude)](spell-effects/05-Dr7KMMtE4twxO6Ks.htm)|Effet : Bénédiction du défi (2 actions Vigueur)|`@Compendium[pf2e.spell-effects.Dr7KMMtE4twxO6Ks]`|
+|[Spell Effect: Blessing of Defiance (2 Action Reflex)](spell-effects/05-51M5Qblm1TDTq7HB.htm)|Effet : Bénédiction du défi (Réflexes à 2 actions)|`@Compendium[pf2e.spell-effects.51M5Qblm1TDTq7HB]`|
 |[Spell Effect: Blessing of Defiance (2 Action Will)](spell-effects/05-kDx9XcyWm4KirRPY.htm)|Effet Bénédiction du défi (2 actions Volonté)|`@Compendium[pf2e.spell-effects.kDx9XcyWm4KirRPY]`|
-|[Spell Effect: Blessing of Defiance (Fortitude)](spell-effects/05-lWYIwbFhw0SWVLaP.htm)|Effet: Bénédiction de défi (Vigueur)|`@Compendium[pf2e.spell-effects.lWYIwbFhw0SWVLaP]`|
-|[Spell Effect: Blessing of Defiance (Reflex)](spell-effects/05-ML9xn5YKPID8gODV.htm)|Effet: Bénédiction de défi (Réflexes)|`@Compendium[pf2e.spell-effects.ML9xn5YKPID8gODV]`|
-|[Spell Effect: Blessing of Defiance (Will)](spell-effects/05-Jw8C5RUaxQ9N7VUH.htm)|Effet: Bénédiction de défi (Volonté)|`@Compendium[pf2e.spell-effects.Jw8C5RUaxQ9N7VUH]`|
-|[Spell Effect: Blink](spell-effects/04-ZlsuhS9J0S3PuvCO.htm)|Effet: Clignotement|`@Compendium[pf2e.spell-effects.ZlsuhS9J0S3PuvCO]`|
-|[Spell Effect: Blood Vendetta (Failure)](spell-effects/02-buXx8Azr4BYWPtFg.htm)|Effet: Vendetta du sang (Échec)|`@Compendium[pf2e.spell-effects.buXx8Azr4BYWPtFg]`|
-|[Spell Effect: Blood Ward](spell-effects/01-aDOL3OAEWf3ka9oT.htm)|Effet: Protection du sang|`@Compendium[pf2e.spell-effects.aDOL3OAEWf3ka9oT]`|
-|[Spell Effect: Blunt the Final Blade (Critical Success)](spell-effects/18-eotqxEWIgaK7nMpD.htm)||`@Compendium[pf2e.spell-effects.eotqxEWIgaK7nMpD]`|
-|[Spell Effect: Boost Eidolon (1 Die)](spell-effects/01-eFxUcQDkxcX9KoE1.htm)|Effet: Booster l'eidolon (1 Dé)|`@Compendium[pf2e.spell-effects.eFxUcQDkxcX9KoE1]`|
-|[Spell Effect: Boost Eidolon (2 Dice)](spell-effects/01-xFvNsjmhvTkVk59U.htm)|Effet: Booster l'eidolon (2 Dés)|`@Compendium[pf2e.spell-effects.xFvNsjmhvTkVk59U]`|
-|[Spell Effect: Boost Eidolon (3 Dice)](spell-effects/01-d0jsFEx8kq9idSlo.htm)|Effet: Booster l'eidolon (3 Dés)|`@Compendium[pf2e.spell-effects.d0jsFEx8kq9idSlo]`|
-|[Spell Effect: Boost Eidolon (4 Dice)](spell-effects/01-JJ7HZkXXm8sTapcu.htm)|Effet: Booster l'eidolon (4 Dés)|`@Compendium[pf2e.spell-effects.JJ7HZkXXm8sTapcu]`|
-|[Spell Effect: Bottle the Storm](spell-effects/04-GlggmEqkGVj1noOD.htm)|Effet: Tempête en bouteille|`@Compendium[pf2e.spell-effects.GlggmEqkGVj1noOD]`|
+|[Spell Effect: Blessing of Defiance (Fortitude)](spell-effects/05-lWYIwbFhw0SWVLaP.htm)|Effet : Bénédiction de défi (Vigueur)|`@Compendium[pf2e.spell-effects.lWYIwbFhw0SWVLaP]`|
+|[Spell Effect: Blessing of Defiance (Reflex)](spell-effects/05-ML9xn5YKPID8gODV.htm)|Effet : Bénédiction de défi (Réflexes)|`@Compendium[pf2e.spell-effects.ML9xn5YKPID8gODV]`|
+|[Spell Effect: Blessing of Defiance (Will)](spell-effects/05-Jw8C5RUaxQ9N7VUH.htm)|Effet : Bénédiction de défi (Volonté)|`@Compendium[pf2e.spell-effects.Jw8C5RUaxQ9N7VUH]`|
+|[Spell Effect: Blink](spell-effects/04-ZlsuhS9J0S3PuvCO.htm)|Effet : Clignotement|`@Compendium[pf2e.spell-effects.ZlsuhS9J0S3PuvCO]`|
+|[Spell Effect: Blood Vendetta (Failure)](spell-effects/02-buXx8Azr4BYWPtFg.htm)|Effet : Vendetta du sang (Échec)|`@Compendium[pf2e.spell-effects.buXx8Azr4BYWPtFg]`|
+|[Spell Effect: Blood Ward](spell-effects/01-aDOL3OAEWf3ka9oT.htm)|Effet : Protection du sang|`@Compendium[pf2e.spell-effects.aDOL3OAEWf3ka9oT]`|
+|[Spell Effect: Blunt the Final Blade (Critical Success)](spell-effects/18-eotqxEWIgaK7nMpD.htm)|Effet : Émousser la Lame finale (Succès critique)|`@Compendium[pf2e.spell-effects.eotqxEWIgaK7nMpD]`|
+|[Spell Effect: Boost Eidolon (1 Die)](spell-effects/01-eFxUcQDkxcX9KoE1.htm)|Effet : Booster l'eidolon (1 Dé)|`@Compendium[pf2e.spell-effects.eFxUcQDkxcX9KoE1]`|
+|[Spell Effect: Boost Eidolon (2 Dice)](spell-effects/01-xFvNsjmhvTkVk59U.htm)|Effet : Booster l'eidolon (2 Dés)|`@Compendium[pf2e.spell-effects.xFvNsjmhvTkVk59U]`|
+|[Spell Effect: Boost Eidolon (3 Dice)](spell-effects/01-d0jsFEx8kq9idSlo.htm)|Effet : Booster l'eidolon (3 Dés)|`@Compendium[pf2e.spell-effects.d0jsFEx8kq9idSlo]`|
+|[Spell Effect: Boost Eidolon (4 Dice)](spell-effects/01-JJ7HZkXXm8sTapcu.htm)|Effet : Booster l'eidolon (4 Dés)|`@Compendium[pf2e.spell-effects.JJ7HZkXXm8sTapcu]`|
+|[Spell Effect: Bottle the Storm](spell-effects/04-GlggmEqkGVj1noOD.htm)|Effet : Tempête en bouteille|`@Compendium[pf2e.spell-effects.GlggmEqkGVj1noOD]`|
 |[Spell Effect: Bullhorn](spell-effects/01-9yzlmYUdvdQshTDF.htm)|Effet : Porte-voix|`@Compendium[pf2e.spell-effects.9yzlmYUdvdQshTDF]`|
 |[Spell Effect: Call to Arms](spell-effects/01-PNEGSVYhMKf6kQZ6.htm)|Effet : Appel aux armes|`@Compendium[pf2e.spell-effects.PNEGSVYhMKf6kQZ6]`|
-|[Spell Effect: Celestial Brand](spell-effects/05-A61eVVVyUuaUl3tz.htm)|Effet: Marque céleste|`@Compendium[pf2e.spell-effects.A61eVVVyUuaUl3tz]`|
+|[Spell Effect: Celestial Brand](spell-effects/05-A61eVVVyUuaUl3tz.htm)|Effet : Marque céleste|`@Compendium[pf2e.spell-effects.A61eVVVyUuaUl3tz]`|
 |[Spell Effect: Clawsong (Damage Increase D6)](spell-effects/02-CWC2fPmlgixoIKy5.htm)|Effet : Chant de la griffe (Augmentation des dégâts d6)|`@Compendium[pf2e.spell-effects.CWC2fPmlgixoIKy5]`|
 |[Spell Effect: Clawsong (Damage Increase D8)](spell-effects/02-afJCG4vC5WF5h5IB.htm)|Chant de la griffe (Augmentation des dégâts d8)|`@Compendium[pf2e.spell-effects.afJCG4vC5WF5h5IB]`|
 |[Spell Effect: Clawsong (Deadly D8)](spell-effects/02-zdpTPf157rXl3tEJ.htm)|Effet : Chant de la griffe (Mortel D8)|`@Compendium[pf2e.spell-effects.zdpTPf157rXl3tEJ]`|
 |[Spell Effect: Clawsong (Versatile Piercing)](spell-effects/02-g4E9l4uA62LcRBJS.htm)|Effet : Chant de la griffe (Polyvalent P)|`@Compendium[pf2e.spell-effects.g4E9l4uA62LcRBJS]`|
-|[Spell Effect: Community Repair (Critical Failure)](spell-effects/01-6qvLnIkWAoGvTIWy.htm)|Effet: Réparation communautaire (Échec critique)|`@Compendium[pf2e.spell-effects.6qvLnIkWAoGvTIWy]`|
-|[Spell Effect: Community Repair (Critical Success)](spell-effects/01-R3j6song8sYLY5vG.htm)|Effet: Réparation communautaire (Succès critique)|`@Compendium[pf2e.spell-effects.R3j6song8sYLY5vG]`|
+|[Spell Effect: Community Repair (Critical Failure)](spell-effects/01-6qvLnIkWAoGvTIWy.htm)|Effet : Réparation communautaire (Échec critique)|`@Compendium[pf2e.spell-effects.6qvLnIkWAoGvTIWy]`|
+|[Spell Effect: Community Repair (Critical Success)](spell-effects/01-R3j6song8sYLY5vG.htm)|Effet : Réparation communautaire (Succès critique)|`@Compendium[pf2e.spell-effects.R3j6song8sYLY5vG]`|
 |[Spell Effect: Competitive Edge](spell-effects/04-iJ7TVW5tDnZG9DG8.htm)|Effet : Avantage du compétiteur|`@Compendium[pf2e.spell-effects.iJ7TVW5tDnZG9DG8]`|
-|[Spell Effect: Corrosive Body](spell-effects/07-LT5AV9vSN3T9x3J9.htm)|Effet: Corps corrosif|`@Compendium[pf2e.spell-effects.LT5AV9vSN3T9x3J9]`|
-|[Spell Effect: Corrosive Body (Heightened 9th)](spell-effects/09-xKJVqN1ETnNH3tFg.htm)|Effet: Corps corrosif (Intensifié (9e))|`@Compendium[pf2e.spell-effects.xKJVqN1ETnNH3tFg]`|
-|[Spell Effect: Cosmic Form (Moon)](spell-effects/07-tfdDpf9xSWgQer5g.htm)|Effet: Forme cosmique (Lune)|`@Compendium[pf2e.spell-effects.tfdDpf9xSWgQer5g]`|
-|[Spell Effect: Cosmic Form (Sun)](spell-effects/07-2Ss5VblfZNHg1HjN.htm)|Effet: Forme cosmique (Soleil)|`@Compendium[pf2e.spell-effects.2Ss5VblfZNHg1HjN]`|
-|[Spell Effect: Daemon Form (Ceustodaemon)](spell-effects/06-1n84AqLtsdT8I64W.htm)|Effet: Forme de daémon (Ceustodaémon)|`@Compendium[pf2e.spell-effects.1n84AqLtsdT8I64W]`|
-|[Spell Effect: Daemon Form (Leukodaemon)](spell-effects/06-ScF0ECWnfXMHYLDL.htm)|Effet: Forme de daémon (Leukodaémon)|`@Compendium[pf2e.spell-effects.ScF0ECWnfXMHYLDL]`|
-|[Spell Effect: Daemon Form (Meladaemon)](spell-effects/06-zIRnnuj4lARq43DA.htm)|Effet: Forme de daémon (Méladaémon)|`@Compendium[pf2e.spell-effects.zIRnnuj4lARq43DA]`|
-|[Spell Effect: Daemon Form (Piscodaemon)](spell-effects/06-0W87OkYi3qCwNGSj.htm)|Effet: Forme de daémon (Piscodaémon)|`@Compendium[pf2e.spell-effects.0W87OkYi3qCwNGSj]`|
-|[Spell Effect: Darkvision](spell-effects/02-IXS15IQXYCZ8vsmX.htm)|Effet: Vision dans le noir|`@Compendium[pf2e.spell-effects.IXS15IQXYCZ8vsmX]`|
-|[Spell Effect: Darkvision (24 hours)](spell-effects/05-inNfTmtWpsxeGBI9.htm)|Effet: Vision dans le noir (24 heures)|`@Compendium[pf2e.spell-effects.inNfTmtWpsxeGBI9]`|
+|[Spell Effect: Corrosive Body](spell-effects/07-LT5AV9vSN3T9x3J9.htm)|Effet : Corps corrosif|`@Compendium[pf2e.spell-effects.LT5AV9vSN3T9x3J9]`|
+|[Spell Effect: Corrosive Body (Heightened 9th)](spell-effects/09-xKJVqN1ETnNH3tFg.htm)|Effet : Corps corrosif (Intensifié (9e))|`@Compendium[pf2e.spell-effects.xKJVqN1ETnNH3tFg]`|
+|[Spell Effect: Cosmic Form (Moon)](spell-effects/07-tfdDpf9xSWgQer5g.htm)|Effet : Forme cosmique (Lune)|`@Compendium[pf2e.spell-effects.tfdDpf9xSWgQer5g]`|
+|[Spell Effect: Cosmic Form (Sun)](spell-effects/07-2Ss5VblfZNHg1HjN.htm)|Effet : Forme cosmique (Soleil)|`@Compendium[pf2e.spell-effects.2Ss5VblfZNHg1HjN]`|
+|[Spell Effect: Daemon Form (Ceustodaemon)](spell-effects/06-1n84AqLtsdT8I64W.htm)|Effet : Forme de daémon (Ceustodaémon)|`@Compendium[pf2e.spell-effects.1n84AqLtsdT8I64W]`|
+|[Spell Effect: Daemon Form (Leukodaemon)](spell-effects/06-ScF0ECWnfXMHYLDL.htm)|Effet : Forme de daémon (Leukodaémon)|`@Compendium[pf2e.spell-effects.ScF0ECWnfXMHYLDL]`|
+|[Spell Effect: Daemon Form (Meladaemon)](spell-effects/06-zIRnnuj4lARq43DA.htm)|Effet : Forme de daémon (Méladaémon)|`@Compendium[pf2e.spell-effects.zIRnnuj4lARq43DA]`|
+|[Spell Effect: Daemon Form (Piscodaemon)](spell-effects/06-0W87OkYi3qCwNGSj.htm)|Effet : Forme de daémon (Piscodaémon)|`@Compendium[pf2e.spell-effects.0W87OkYi3qCwNGSj]`|
+|[Spell Effect: Darkvision](spell-effects/02-IXS15IQXYCZ8vsmX.htm)|Effet : Vision dans le noir|`@Compendium[pf2e.spell-effects.IXS15IQXYCZ8vsmX]`|
+|[Spell Effect: Darkvision (24 hours)](spell-effects/05-inNfTmtWpsxeGBI9.htm)|Effet : Vision dans le noir (24 heures)|`@Compendium[pf2e.spell-effects.inNfTmtWpsxeGBI9]`|
 |[Spell Effect: Death Ward](spell-effects/01-s6CwkSsMDGfUmotn.htm)|Effet : Protection contre la mort|`@Compendium[pf2e.spell-effects.s6CwkSsMDGfUmotn]`|
-|[Spell Effect: Demon Form (Babau)](spell-effects/06-X1kkbRrh4zJuDGjl.htm)|Effet: Forme de démon (Babau|`@Compendium[pf2e.spell-effects.X1kkbRrh4zJuDGjl]`|
-|[Spell Effect: Demon Form (Hezrou)](spell-effects/06-sXe7cPazOJbX41GU.htm)|Effet: Forme de démon (Hezrou)|`@Compendium[pf2e.spell-effects.sXe7cPazOJbX41GU]`|
-|[Spell Effect: Demon Form (Nabasu)](spell-effects/06-hnfQyf05IIa7WPBB.htm)|Effet: Forme de démon (Nabasu)|`@Compendium[pf2e.spell-effects.hnfQyf05IIa7WPBB]`|
-|[Spell Effect: Demon Form (Vrock)](spell-effects/06-20egTKICPMhibqgn.htm)|Effet: Forme de démon (Vrock)|`@Compendium[pf2e.spell-effects.20egTKICPMhibqgn]`|
-|[Spell Effect: Devil Form (Barbazu)](spell-effects/01-0yy4t4UY1HqrEo70.htm)|Effet: Forme de diable (Barbazu)|`@Compendium[pf2e.spell-effects.0yy4t4UY1HqrEo70]`|
-|[Spell Effect: Devil Form (Erinys)](spell-effects/01-BDMEqBsumguTrMXa.htm)|Effet: Forme de diable (Érinye)|`@Compendium[pf2e.spell-effects.BDMEqBsumguTrMXa]`|
-|[Spell Effect: Devil Form (Osyluth)](spell-effects/01-HEbbxKtBzsLhFead.htm)|Effet: Forme de diable (Osyluth)|`@Compendium[pf2e.spell-effects.HEbbxKtBzsLhFead]`|
-|[Spell Effect: Devil Form (Sarglagon)](spell-effects/01-fKeZDm8kpDFK5HWp.htm)|Effet: Forme de diable (Sarglagon)|`@Compendium[pf2e.spell-effects.fKeZDm8kpDFK5HWp]`|
-|[Spell Effect: Diabolic Edict](spell-effects/01-1kelGCsoXyGRqMd9.htm)|Effet: Édit diabolique|`@Compendium[pf2e.spell-effects.1kelGCsoXyGRqMd9]`|
+|[Spell Effect: Demon Form (Babau)](spell-effects/06-X1kkbRrh4zJuDGjl.htm)|Effet : Forme de démon (Babau|`@Compendium[pf2e.spell-effects.X1kkbRrh4zJuDGjl]`|
+|[Spell Effect: Demon Form (Hezrou)](spell-effects/06-sXe7cPazOJbX41GU.htm)|Effet : Forme de démon (Hezrou)|`@Compendium[pf2e.spell-effects.sXe7cPazOJbX41GU]`|
+|[Spell Effect: Demon Form (Nabasu)](spell-effects/06-hnfQyf05IIa7WPBB.htm)|Effet : Forme de démon (Nabasu)|`@Compendium[pf2e.spell-effects.hnfQyf05IIa7WPBB]`|
+|[Spell Effect: Demon Form (Vrock)](spell-effects/06-20egTKICPMhibqgn.htm)|Effet : Forme de démon (Vrock)|`@Compendium[pf2e.spell-effects.20egTKICPMhibqgn]`|
+|[Spell Effect: Devil Form (Barbazu)](spell-effects/01-0yy4t4UY1HqrEo70.htm)|Effet : Forme de diable (Barbazu)|`@Compendium[pf2e.spell-effects.0yy4t4UY1HqrEo70]`|
+|[Spell Effect: Devil Form (Erinys)](spell-effects/01-BDMEqBsumguTrMXa.htm)|Effet : Forme de diable (Érinye)|`@Compendium[pf2e.spell-effects.BDMEqBsumguTrMXa]`|
+|[Spell Effect: Devil Form (Osyluth)](spell-effects/01-HEbbxKtBzsLhFead.htm)|Effet : Forme de diable (Osyluth)|`@Compendium[pf2e.spell-effects.HEbbxKtBzsLhFead]`|
+|[Spell Effect: Devil Form (Sarglagon)](spell-effects/01-fKeZDm8kpDFK5HWp.htm)|Effet : Forme de diable (Sarglagon)|`@Compendium[pf2e.spell-effects.fKeZDm8kpDFK5HWp]`|
+|[Spell Effect: Diabolic Edict](spell-effects/01-1kelGCsoXyGRqMd9.htm)|Effet : Édit diabolique|`@Compendium[pf2e.spell-effects.1kelGCsoXyGRqMd9]`|
 |[Spell Effect: Dinosaur Form (Ankylosaurus)](spell-effects/04-0Cyf07wboRp4CmcQ.htm)|Effet : Forme de dinosaure (Ankylosaure)|`@Compendium[pf2e.spell-effects.0Cyf07wboRp4CmcQ]`|
 |[Spell Effect: Dinosaur Form (Brontosaurus)](spell-effects/04-KkDRRDuycXwKPa6n.htm)|Effet : Forme de dinosaure (Brontosaure)|`@Compendium[pf2e.spell-effects.KkDRRDuycXwKPa6n]`|
 |[Spell Effect: Dinosaur Form (Deinonychus)](spell-effects/04-oJbcmpBSHwmx6FD4.htm)|Effet : Forme de dinosaure (Deinonychus)|`@Compendium[pf2e.spell-effects.oJbcmpBSHwmx6FD4]`|
 |[Spell Effect: Dinosaur Form (Stegosaurus)](spell-effects/04-T6XnxvsgvvOrpien.htm)|Effet : Forme de Dinosaure (Stégosaure)|`@Compendium[pf2e.spell-effects.T6XnxvsgvvOrpien]`|
 |[Spell Effect: Dinosaur Form (Triceratops)](spell-effects/04-iOKhr2El8R6cz6YI.htm)|Effet : Forme de dinosaure (Tricératops)|`@Compendium[pf2e.spell-effects.iOKhr2El8R6cz6YI]`|
 |[Spell Effect: Dinosaur Form (Tyrannosaurus)](spell-effects/04-542Keo6txtq7uvqe.htm)|Effet  Forme de dinosaure (Tyrannosaure)|`@Compendium[pf2e.spell-effects.542Keo6txtq7uvqe]`|
-|[Spell Effect: Discern Secrets (Recall Knowledge)](spell-effects/01-hdOb5Iu6Zd3pHoGI.htm)|Effet: Discerner les secrets (Se souvenir)|`@Compendium[pf2e.spell-effects.hdOb5Iu6Zd3pHoGI]`|
-|[Spell Effect: Discern Secrets (Seek)](spell-effects/01-m1tQTBrolf7uZBW0.htm)|Effet: Discerner les secrets (Chercher)|`@Compendium[pf2e.spell-effects.m1tQTBrolf7uZBW0]`|
-|[Spell Effect: Discern Secrets (Sense Motive)](spell-effects/01-dEsaufFnfYihu5Ex.htm)|Effet: Discerner les secrets (Deviner les intentions)|`@Compendium[pf2e.spell-effects.dEsaufFnfYihu5Ex]`|
+|[Spell Effect: Discern Secrets (Recall Knowledge)](spell-effects/01-hdOb5Iu6Zd3pHoGI.htm)|Effet : Discerner les secrets (Se souvenir)|`@Compendium[pf2e.spell-effects.hdOb5Iu6Zd3pHoGI]`|
+|[Spell Effect: Discern Secrets (Seek)](spell-effects/01-m1tQTBrolf7uZBW0.htm)|Effet : Discerner les secrets (Chercher)|`@Compendium[pf2e.spell-effects.m1tQTBrolf7uZBW0]`|
+|[Spell Effect: Discern Secrets (Sense Motive)](spell-effects/01-dEsaufFnfYihu5Ex.htm)|Effet : Discerner les secrets (Deviner les intentions)|`@Compendium[pf2e.spell-effects.dEsaufFnfYihu5Ex]`|
 |[Spell Effect: Disrupting Weapons](spell-effects/01-X7RD0JRxhJV9u2LC.htm)|Effet : Armes perturbatrices|`@Compendium[pf2e.spell-effects.X7RD0JRxhJV9u2LC]`|
-|[Spell Effect: Divine Vessel (Chaotic)](spell-effects/07-GDzn5DToE62ZOTrP.htm)|Effet: Réceptacle divin (Chaotique)|`@Compendium[pf2e.spell-effects.GDzn5DToE62ZOTrP]`|
-|[Spell Effect: Divine Vessel (Evil)](spell-effects/07-evK8JR3j2iWGWaug.htm)|Effet: Réceptacle divin (Mauvais)|`@Compendium[pf2e.spell-effects.evK8JR3j2iWGWaug]`|
-|[Spell Effect: Divine Vessel (Good)](spell-effects/07-KMF2t3qqzyFP0rxL.htm)|Effet: Réceptacle divin (Bon)|`@Compendium[pf2e.spell-effects.KMF2t3qqzyFP0rxL]`|
-|[Spell Effect: Divine Vessel (Lawful)](spell-effects/07-tBgwWblDp1xdxN4D.htm)|Effet: Réceptacle divin (Loyal)|`@Compendium[pf2e.spell-effects.tBgwWblDp1xdxN4D]`|
-|[Spell Effect: Divine Vessel 9th level (Chaotic)](spell-effects/07-dIftJU6Ki2QSLCOD.htm)|Effet: Réceptacle divin Niveau 9 (Chaotique)}|`@Compendium[pf2e.spell-effects.dIftJU6Ki2QSLCOD]`|
-|[Spell Effect: Divine Vessel 9th level (Evil)](spell-effects/07-AnawxScxqUiRuGTm.htm)|Effet: Réceptacle divin (Mauvais)|`@Compendium[pf2e.spell-effects.AnawxScxqUiRuGTm]`|
-|[Spell Effect: Divine Vessel 9th level (Good)](spell-effects/07-OxJEUhim6xzsHIyi.htm)|Effet: Réceptacle divin (Bon)|`@Compendium[pf2e.spell-effects.OxJEUhim6xzsHIyi]`|
-|[Spell Effect: Divine Vessel 9th level (Lawful)](spell-effects/07-wKdIf5x7zztiFHpL.htm)|Effet: Réceptacle divin Niveau 9 (Loyal)|`@Compendium[pf2e.spell-effects.wKdIf5x7zztiFHpL]`|
-|[Spell Effect: Downpour](spell-effects/04-LMXxICrByo7XZ3Q3.htm)|Effet: Déluge|`@Compendium[pf2e.spell-effects.LMXxICrByo7XZ3Q3]`|
-|[Spell Effect: Dragon Claw (Acid)](spell-effects/01-KNWXmArZ82el4VUv.htm)|Effet: Griffes de dragon (Acide)|`@Compendium[pf2e.spell-effects.KNWXmArZ82el4VUv]`|
-|[Spell Effect: Dragon Claw (Cold)](spell-effects/01-pUYL0ILL3r8VBFm0.htm)|Effet: Griffes de dragon (Froid)|`@Compendium[pf2e.spell-effects.pUYL0ILL3r8VBFm0]`|
-|[Spell Effect: Dragon Claw (Electricity)](spell-effects/01-MKOg6feUPgCHyBja.htm)|Effet: Griffes de dragon (Électricité)|`@Compendium[pf2e.spell-effects.MKOg6feUPgCHyBja]`|
-|[Spell Effect: Dragon Claw (Fire)](spell-effects/01-QrULQZsSRGSa6qOt.htm)|Effet: Griffes de dragon (Feu)|`@Compendium[pf2e.spell-effects.QrULQZsSRGSa6qOt]`|
-|[Spell Effect: Dragon Claw (Poison)](spell-effects/01-ccrcaKIRxiCnnRPT.htm)|Effet: Griffes de dragon (Poison)|`@Compendium[pf2e.spell-effects.ccrcaKIRxiCnnRPT]`|
+|[Spell Effect: Divine Vessel (Chaotic)](spell-effects/07-GDzn5DToE62ZOTrP.htm)|Effet : Réceptacle divin (Chaotique)|`@Compendium[pf2e.spell-effects.GDzn5DToE62ZOTrP]`|
+|[Spell Effect: Divine Vessel (Evil)](spell-effects/07-evK8JR3j2iWGWaug.htm)|Effet : Réceptacle divin (Mauvais)|`@Compendium[pf2e.spell-effects.evK8JR3j2iWGWaug]`|
+|[Spell Effect: Divine Vessel (Good)](spell-effects/07-KMF2t3qqzyFP0rxL.htm)|Effet : Réceptacle divin (Bon)|`@Compendium[pf2e.spell-effects.KMF2t3qqzyFP0rxL]`|
+|[Spell Effect: Divine Vessel (Lawful)](spell-effects/07-tBgwWblDp1xdxN4D.htm)|Effet : Réceptacle divin (Loyal)|`@Compendium[pf2e.spell-effects.tBgwWblDp1xdxN4D]`|
+|[Spell Effect: Divine Vessel 9th level (Chaotic)](spell-effects/07-dIftJU6Ki2QSLCOD.htm)|Effet : Réceptacle divin Niveau 9 (Chaotique)}|`@Compendium[pf2e.spell-effects.dIftJU6Ki2QSLCOD]`|
+|[Spell Effect: Divine Vessel 9th level (Evil)](spell-effects/07-AnawxScxqUiRuGTm.htm)|Effet : Réceptacle divin (Mauvais)|`@Compendium[pf2e.spell-effects.AnawxScxqUiRuGTm]`|
+|[Spell Effect: Divine Vessel 9th level (Good)](spell-effects/07-OxJEUhim6xzsHIyi.htm)|Effet : Réceptacle divin (Bon)|`@Compendium[pf2e.spell-effects.OxJEUhim6xzsHIyi]`|
+|[Spell Effect: Divine Vessel 9th level (Lawful)](spell-effects/07-wKdIf5x7zztiFHpL.htm)|Effet : Réceptacle divin Niveau 9 (Loyal)|`@Compendium[pf2e.spell-effects.wKdIf5x7zztiFHpL]`|
+|[Spell Effect: Downpour](spell-effects/04-LMXxICrByo7XZ3Q3.htm)|Effet : Déluge|`@Compendium[pf2e.spell-effects.LMXxICrByo7XZ3Q3]`|
+|[Spell Effect: Dragon Claw (Acid)](spell-effects/01-KNWXmArZ82el4VUv.htm)|Effet : Griffes de dragon (Acide)|`@Compendium[pf2e.spell-effects.KNWXmArZ82el4VUv]`|
+|[Spell Effect: Dragon Claw (Cold)](spell-effects/01-pUYL0ILL3r8VBFm0.htm)|Effet : Griffes de dragon (Froid)|`@Compendium[pf2e.spell-effects.pUYL0ILL3r8VBFm0]`|
+|[Spell Effect: Dragon Claw (Electricity)](spell-effects/01-MKOg6feUPgCHyBja.htm)|Effet : Griffes de dragon (Électricité)|`@Compendium[pf2e.spell-effects.MKOg6feUPgCHyBja]`|
+|[Spell Effect: Dragon Claw (Fire)](spell-effects/01-QrULQZsSRGSa6qOt.htm)|Effet : Griffes de dragon (Feu)|`@Compendium[pf2e.spell-effects.QrULQZsSRGSa6qOt]`|
+|[Spell Effect: Dragon Claw (Poison)](spell-effects/01-ccrcaKIRxiCnnRPT.htm)|Effet : Griffes de dragon (Poison)|`@Compendium[pf2e.spell-effects.ccrcaKIRxiCnnRPT]`|
 |[Spell Effect: Dragon Form (Black)](spell-effects/06-rHXOZAFBdRXIlxt5.htm)|Effet : Forme de dragon (Noir)|`@Compendium[pf2e.spell-effects.rHXOZAFBdRXIlxt5]`|
 |[Spell Effect: Dragon Form (Blue)](spell-effects/06-ETgzIIv3M2zvclAR.htm)|Effet : Forme de dragon (Bleu)|`@Compendium[pf2e.spell-effects.ETgzIIv3M2zvclAR]`|
 |[Spell Effect: Dragon Form (Brass)](spell-effects/06-OeCn76SB92GPOZwr.htm)|Effet : Forme de dragon (Airain)|`@Compendium[pf2e.spell-effects.OeCn76SB92GPOZwr]`|
@@ -6771,95 +6771,95 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Dragon Form (Red)](spell-effects/06-V4a9pZHNUlddAwTA.htm)|Effet : Forme de dragon (Rouge)|`@Compendium[pf2e.spell-effects.V4a9pZHNUlddAwTA]`|
 |[Spell Effect: Dragon Form (Silver)](spell-effects/06-TUyEeLyqdJL6PwbH.htm)|Effet : Forme de dragon (Argent)|`@Compendium[pf2e.spell-effects.TUyEeLyqdJL6PwbH]`|
 |[Spell Effect: Dragon Form (White)](spell-effects/06-H6ndYYYlADWwqVQb.htm)|Effet : Forme de dragon (Blanc)|`@Compendium[pf2e.spell-effects.H6ndYYYlADWwqVQb]`|
-|[Spell Effect: Dragon Wings (60 Feet)](spell-effects/05-V7jAnItnVqtfCAKt.htm)|Effet: Ailes de dragon (18 mètres)|`@Compendium[pf2e.spell-effects.V7jAnItnVqtfCAKt]`|
-|[Spell Effect: Dragon Wings (Own Speed)](spell-effects/05-jy4edd6pvJvJgOSP.htm)|Effet: Ailes de dragon (Sa vitesse)|`@Compendium[pf2e.spell-effects.jy4edd6pvJvJgOSP]`|
-|[Spell Effect: Draw Ire (Critical Failure)](spell-effects/01-4VOZP2ArmS12nvz8.htm)|Effet: Attirer la colère (Échec critique)|`@Compendium[pf2e.spell-effects.4VOZP2ArmS12nvz8]`|
-|[Spell Effect: Draw Ire (Failure)](spell-effects/01-BsGZdgiEElNlgZVv.htm)|Effet: Attirer la colère (Échec)|`@Compendium[pf2e.spell-effects.BsGZdgiEElNlgZVv]`|
+|[Spell Effect: Dragon Wings (60 Feet)](spell-effects/05-V7jAnItnVqtfCAKt.htm)|Effet : Ailes de dragon (18 mètres)|`@Compendium[pf2e.spell-effects.V7jAnItnVqtfCAKt]`|
+|[Spell Effect: Dragon Wings (Own Speed)](spell-effects/05-jy4edd6pvJvJgOSP.htm)|Effet : Ailes de dragon (Sa vitesse)|`@Compendium[pf2e.spell-effects.jy4edd6pvJvJgOSP]`|
+|[Spell Effect: Draw Ire (Critical Failure)](spell-effects/01-4VOZP2ArmS12nvz8.htm)|Effet : Attirer la colère (Échec critique)|`@Compendium[pf2e.spell-effects.4VOZP2ArmS12nvz8]`|
+|[Spell Effect: Draw Ire (Failure)](spell-effects/01-BsGZdgiEElNlgZVv.htm)|Effet : Attirer la colère (Échec)|`@Compendium[pf2e.spell-effects.BsGZdgiEElNlgZVv]`|
 |[Spell Effect: Draw Ire (Success)](spell-effects/01-PDoTV4EhJp63FEaG.htm)|Effet : Attirer la colère (Succès)|`@Compendium[pf2e.spell-effects.PDoTV4EhJp63FEaG]`|
-|[Spell Effect: Draw the Lightning](spell-effects/04-fCIT9YgGUwIc3Z9G.htm)|Effet: Attirer la foudre|`@Compendium[pf2e.spell-effects.fCIT9YgGUwIc3Z9G]`|
-|[Spell Effect: Dread Ambience (Critical Failure)](spell-effects/05-4Lt69zSeYElEfDrZ.htm)|Effet: Ambiance terrifiante (Échec critique)|`@Compendium[pf2e.spell-effects.4Lt69zSeYElEfDrZ]`|
-|[Spell Effect: Dread Ambience (Critical Success)](spell-effects/05-FT5Tt2DKBRutDqbV.htm)|Effet: Ambiance terrifiante (Succès critique)|`@Compendium[pf2e.spell-effects.FT5Tt2DKBRutDqbV]`|
-|[Spell Effect: Dread Ambience (Success)](spell-effects/05-1gTnFmfLUQnCo3TK.htm)|Effet: Ambiance terrifiante (Succès)|`@Compendium[pf2e.spell-effects.1gTnFmfLUQnCo3TK]`|
+|[Spell Effect: Draw the Lightning](spell-effects/04-fCIT9YgGUwIc3Z9G.htm)|Effet : Attirer la foudre|`@Compendium[pf2e.spell-effects.fCIT9YgGUwIc3Z9G]`|
+|[Spell Effect: Dread Ambience (Critical Failure)](spell-effects/05-4Lt69zSeYElEfDrZ.htm)|Effet : Ambiance terrifiante (Échec critique)|`@Compendium[pf2e.spell-effects.4Lt69zSeYElEfDrZ]`|
+|[Spell Effect: Dread Ambience (Critical Success)](spell-effects/05-FT5Tt2DKBRutDqbV.htm)|Effet : Ambiance terrifiante (Succès critique)|`@Compendium[pf2e.spell-effects.FT5Tt2DKBRutDqbV]`|
+|[Spell Effect: Dread Ambience (Success)](spell-effects/05-1gTnFmfLUQnCo3TK.htm)|Effet : Ambiance terrifiante (Succès)|`@Compendium[pf2e.spell-effects.1gTnFmfLUQnCo3TK]`|
 |[Spell Effect: Dutiful Challenge](spell-effects/04-UH2sT6eW5e31Xytd.htm)|Effet : Défi respectueux|`@Compendium[pf2e.spell-effects.UH2sT6eW5e31Xytd]`|
-|[Spell Effect: Element Embodied (Air)](spell-effects/01-J60rN48XzBGHmR6m.htm)|Effet: Incarnation élémentaire (Air)|`@Compendium[pf2e.spell-effects.J60rN48XzBGHmR6m]`|
+|[Spell Effect: Element Embodied (Air)](spell-effects/01-J60rN48XzBGHmR6m.htm)|Effet : Incarnation élémentaire (Air)|`@Compendium[pf2e.spell-effects.J60rN48XzBGHmR6m]`|
 |[Spell Effect: Element Embodied (Earth)](spell-effects/01-jp88SCE3VCRAyE6x.htm)|Effet : Incarnation élémentaire (Terre)|`@Compendium[pf2e.spell-effects.jp88SCE3VCRAyE6x]`|
-|[Spell Effect: Element Embodied (Fire)](spell-effects/01-lmAwCy7isFvLYdGd.htm)|Effet: Incarnation élémentaire (Feu)|`@Compendium[pf2e.spell-effects.lmAwCy7isFvLYdGd]`|
-|[Spell Effect: Element Embodied (Water)](spell-effects/01-w1HwO7huxJoK0gHY.htm)|Effet: Incarnation élémentaire (Eau)|`@Compendium[pf2e.spell-effects.w1HwO7huxJoK0gHY]`|
-|[Spell Effect: Elemental Absorption (Air)](spell-effects/03-nfQAqTSVHcA2JSyI.htm)|Effet: Absorption élémentaire (Air)|`@Compendium[pf2e.spell-effects.nfQAqTSVHcA2JSyI]`|
-|[Spell Effect: Elemental Absorption (Earth)](spell-effects/03-E6HPkpvzvkaJ49c0.htm)|Effet: Absorption élémentaire (Terre)|`@Compendium[pf2e.spell-effects.E6HPkpvzvkaJ49c0]`|
-|[Spell Effect: Elemental Absorption (Fire)](spell-effects/03-VAJMojQATvpAcpQW.htm)|Effet: Absorption élémentaire (Feu)|`@Compendium[pf2e.spell-effects.VAJMojQATvpAcpQW]`|
-|[Spell Effect: Elemental Absorption (Water)](spell-effects/03-n3gkkiOcLcSHxAah.htm)|Effet: Absorption élémentaire (Eau)|`@Compendium[pf2e.spell-effects.n3gkkiOcLcSHxAah]`|
+|[Spell Effect: Element Embodied (Fire)](spell-effects/01-lmAwCy7isFvLYdGd.htm)|Effet : Incarnation élémentaire (Feu)|`@Compendium[pf2e.spell-effects.lmAwCy7isFvLYdGd]`|
+|[Spell Effect: Element Embodied (Water)](spell-effects/01-w1HwO7huxJoK0gHY.htm)|Effet : Incarnation élémentaire (Eau)|`@Compendium[pf2e.spell-effects.w1HwO7huxJoK0gHY]`|
+|[Spell Effect: Elemental Absorption (Air)](spell-effects/03-nfQAqTSVHcA2JSyI.htm)|Effet : Absorption élémentaire (Air)|`@Compendium[pf2e.spell-effects.nfQAqTSVHcA2JSyI]`|
+|[Spell Effect: Elemental Absorption (Earth)](spell-effects/03-E6HPkpvzvkaJ49c0.htm)|Effet : Absorption élémentaire (Terre)|`@Compendium[pf2e.spell-effects.E6HPkpvzvkaJ49c0]`|
+|[Spell Effect: Elemental Absorption (Fire)](spell-effects/03-VAJMojQATvpAcpQW.htm)|Effet : Absorption élémentaire (Feu)|`@Compendium[pf2e.spell-effects.VAJMojQATvpAcpQW]`|
+|[Spell Effect: Elemental Absorption (Water)](spell-effects/03-n3gkkiOcLcSHxAah.htm)|Effet : Absorption élémentaire (Eau)|`@Compendium[pf2e.spell-effects.n3gkkiOcLcSHxAah]`|
 |[Spell Effect: Elemental Form (Air)](spell-effects/05-DliizYpHcmBG130w.htm)|Effet : Forme élémentaire (Air)|`@Compendium[pf2e.spell-effects.DliizYpHcmBG130w]`|
 |[Spell Effect: Elemental Form (Earth)](spell-effects/05-8eWLR0WCf5258z8X.htm)|Effet : Forme élémentaire (Terre)|`@Compendium[pf2e.spell-effects.8eWLR0WCf5258z8X]`|
 |[Spell Effect: Elemental Form (Fire)](spell-effects/05-phIoucsDa3iplMm2.htm)|Effet : Forme élémentaire (Feu)|`@Compendium[pf2e.spell-effects.phIoucsDa3iplMm2]`|
 |[Spell Effect: Elemental Form (Water)](spell-effects/05-kxMBdANwCcF841uA.htm)|Effet : Forme élémentaire (Eau)|`@Compendium[pf2e.spell-effects.kxMBdANwCcF841uA]`|
-|[Spell Effect: Elemental Gift (Air)](spell-effects/01-yke7fAUDxUNzouQc.htm)|Effet: Don élémentaire (Air)|`@Compendium[pf2e.spell-effects.yke7fAUDxUNzouQc]`|
-|[Spell Effect: Elemental Gift (Earth)](spell-effects/01-fLOQMycP5tmXgPv9.htm)|Effet: Don élémentaire (Terre)|`@Compendium[pf2e.spell-effects.fLOQMycP5tmXgPv9]`|
-|[Spell Effect: Elemental Gift (Fire)](spell-effects/01-5R3ewWLFkgqTvZsc.htm)|Effet: Don élémentaire (Feu)|`@Compendium[pf2e.spell-effects.5R3ewWLFkgqTvZsc]`|
-|[Spell Effect: Elemental Gift (Water)](spell-effects/01-yq6iu0Qxg3YEbb6s.htm)|Effet: Don élémentaire (Eau)|`@Compendium[pf2e.spell-effects.yq6iu0Qxg3YEbb6s]`|
-|[Spell Effect: Elemental Motion (Air)](spell-effects/03-iqtjMVl6rGQhX2k8.htm)|Effet: Mobilité élémentaire(Air)|`@Compendium[pf2e.spell-effects.iqtjMVl6rGQhX2k8]`|
-|[Spell Effect: Elemental Motion (Earth)](spell-effects/03-qbOpis7pIkXJbM2B.htm)|Effet: Mobilité élémentaire (Terre)|`@Compendium[pf2e.spell-effects.qbOpis7pIkXJbM2B]`|
-|[Spell Effect: Elemental Motion (Fire)](spell-effects/03-q4EEYltjqpRGiLsP.htm)|Effet: Mobilité élémentaire (Feu)|`@Compendium[pf2e.spell-effects.q4EEYltjqpRGiLsP]`|
-|[Spell Effect: Elemental Motion (Water)](spell-effects/03-D0Qj5tC1hGUjzQc4.htm)|Effet: Mobilité élémentaire (Eau)|`@Compendium[pf2e.spell-effects.D0Qj5tC1hGUjzQc4]`|
-|[Spell Effect: Embrace the Pit](spell-effects/03-gX8O0ArQXbEVDUbW.htm)|Effet: Étreinte de la fosse|`@Compendium[pf2e.spell-effects.gX8O0ArQXbEVDUbW]`|
-|[Spell Effect: Enduring Might](spell-effects/04-ZHVtJKnur9PAF5TO.htm)|Effet: Puissance protectrice|`@Compendium[pf2e.spell-effects.ZHVtJKnur9PAF5TO]`|
-|[Spell Effect: Energy Absorption (Acid)](spell-effects/04-cNZRAPd2kVrM3Iuo.htm)|Effet: Absorption d'énergie (Acide)|`@Compendium[pf2e.spell-effects.cNZRAPd2kVrM3Iuo]`|
-|[Spell Effect: Energy Absorption (Cold)](spell-effects/04-WquoEAIT621zDLpY.htm)|Effet: Absorption d'énergie Froid)|`@Compendium[pf2e.spell-effects.WquoEAIT621zDLpY]`|
-|[Spell Effect: Energy Absorption (Electricity)](spell-effects/04-0IxfOSTMen1GKQUW.htm)|Effet: Absorption d'énergie (Électricité)|`@Compendium[pf2e.spell-effects.0IxfOSTMen1GKQUW]`|
-|[Spell Effect: Energy Absorption (Fire)](spell-effects/04-db9lXpF4OsPz9cXL.htm)|Effet: Absorption d'énergie (Feu)|`@Compendium[pf2e.spell-effects.db9lXpF4OsPz9cXL]`|
-|[Spell Effect: Energy Aegis](spell-effects/07-4Lo2qb5PmavSsLNk.htm)|Effet: Égide énergétique|`@Compendium[pf2e.spell-effects.4Lo2qb5PmavSsLNk]`|
+|[Spell Effect: Elemental Gift (Air)](spell-effects/01-yke7fAUDxUNzouQc.htm)|Effet : Don élémentaire (Air)|`@Compendium[pf2e.spell-effects.yke7fAUDxUNzouQc]`|
+|[Spell Effect: Elemental Gift (Earth)](spell-effects/01-fLOQMycP5tmXgPv9.htm)|Effet : Don élémentaire (Terre)|`@Compendium[pf2e.spell-effects.fLOQMycP5tmXgPv9]`|
+|[Spell Effect: Elemental Gift (Fire)](spell-effects/01-5R3ewWLFkgqTvZsc.htm)|Effet : Don élémentaire (Feu)|`@Compendium[pf2e.spell-effects.5R3ewWLFkgqTvZsc]`|
+|[Spell Effect: Elemental Gift (Water)](spell-effects/01-yq6iu0Qxg3YEbb6s.htm)|Effet : Don élémentaire (Eau)|`@Compendium[pf2e.spell-effects.yq6iu0Qxg3YEbb6s]`|
+|[Spell Effect: Elemental Motion (Air)](spell-effects/03-iqtjMVl6rGQhX2k8.htm)|Effet : Mobilité élémentaire(Air)|`@Compendium[pf2e.spell-effects.iqtjMVl6rGQhX2k8]`|
+|[Spell Effect: Elemental Motion (Earth)](spell-effects/03-qbOpis7pIkXJbM2B.htm)|Effet : Mobilité élémentaire (Terre)|`@Compendium[pf2e.spell-effects.qbOpis7pIkXJbM2B]`|
+|[Spell Effect: Elemental Motion (Fire)](spell-effects/03-q4EEYltjqpRGiLsP.htm)|Effet : Mobilité élémentaire (Feu)|`@Compendium[pf2e.spell-effects.q4EEYltjqpRGiLsP]`|
+|[Spell Effect: Elemental Motion (Water)](spell-effects/03-D0Qj5tC1hGUjzQc4.htm)|Effet : Mobilité élémentaire (Eau)|`@Compendium[pf2e.spell-effects.D0Qj5tC1hGUjzQc4]`|
+|[Spell Effect: Embrace the Pit](spell-effects/03-gX8O0ArQXbEVDUbW.htm)|Effet : Étreinte de la fosse|`@Compendium[pf2e.spell-effects.gX8O0ArQXbEVDUbW]`|
+|[Spell Effect: Enduring Might](spell-effects/04-ZHVtJKnur9PAF5TO.htm)|Effet : Puissance protectrice|`@Compendium[pf2e.spell-effects.ZHVtJKnur9PAF5TO]`|
+|[Spell Effect: Energy Absorption (Acid)](spell-effects/04-cNZRAPd2kVrM3Iuo.htm)|Effet : Absorption d'énergie (Acide)|`@Compendium[pf2e.spell-effects.cNZRAPd2kVrM3Iuo]`|
+|[Spell Effect: Energy Absorption (Cold)](spell-effects/04-WquoEAIT621zDLpY.htm)|Effet : Absorption d'énergie Froid)|`@Compendium[pf2e.spell-effects.WquoEAIT621zDLpY]`|
+|[Spell Effect: Energy Absorption (Electricity)](spell-effects/04-0IxfOSTMen1GKQUW.htm)|Effet : Absorption d'énergie (Électricité)|`@Compendium[pf2e.spell-effects.0IxfOSTMen1GKQUW]`|
+|[Spell Effect: Energy Absorption (Fire)](spell-effects/04-db9lXpF4OsPz9cXL.htm)|Effet : Absorption d'énergie (Feu)|`@Compendium[pf2e.spell-effects.db9lXpF4OsPz9cXL]`|
+|[Spell Effect: Energy Aegis](spell-effects/07-4Lo2qb5PmavSsLNk.htm)|Effet : Égide énergétique|`@Compendium[pf2e.spell-effects.4Lo2qb5PmavSsLNk]`|
 |[Spell Effect: Enlarge](spell-effects/02-sPCWrhUHqlbGhYSD.htm)|Effet : Agrandissement|`@Compendium[pf2e.spell-effects.sPCWrhUHqlbGhYSD]`|
 |[Spell Effect: Enlarge (Heightened 4th)](spell-effects/04-41WThj17MZBXTO2X.htm)|Effet : Agrandissement (Intensifié 4e)|`@Compendium[pf2e.spell-effects.41WThj17MZBXTO2X]`|
-|[Spell Effect: Envenom Companion](spell-effects/03-zPGVOLz6xhsQN35C.htm)|Effet: Compagnon venimeux|`@Compendium[pf2e.spell-effects.zPGVOLz6xhsQN35C]`|
-|[Spell Effect: Evolution Surge (Amphibious)](spell-effects/01-0o984LjzIFXxeXIF.htm)|Effet: Flux d'évolution (Amphibie)|`@Compendium[pf2e.spell-effects.0o984LjzIFXxeXIF]`|
-|[Spell Effect: Evolution Surge (Climb)](spell-effects/03-czteoX2cggQzfkK9.htm)|Effet: Flux d'évolution (Escalade)|`@Compendium[pf2e.spell-effects.czteoX2cggQzfkK9]`|
-|[Spell Effect: Evolution Surge (Fly)](spell-effects/05-u0AznkjTZAVnCMNp.htm)|Effet: Flux d'évolution (Vol)|`@Compendium[pf2e.spell-effects.u0AznkjTZAVnCMNp]`|
-|[Spell Effect: Evolution Surge (Huge)](spell-effects/05-ib58LaffEUIypuzL.htm)|Effet: Flux d'évolution (Très grand)|`@Compendium[pf2e.spell-effects.ib58LaffEUIypuzL]`|
-|[Spell Effect: Evolution Surge (Large)](spell-effects/03-PhBrHvBwvq8rni9C.htm)|Effet: Flux d'évolution (Grande)|`@Compendium[pf2e.spell-effects.PhBrHvBwvq8rni9C]`|
-|[Spell Effect: Evolution Surge (Scent)](spell-effects/01-pocsoEi84Mr2buOc.htm)|Effet: Flux d'évolution(Odorat)|`@Compendium[pf2e.spell-effects.pocsoEi84Mr2buOc]`|
-|[Spell Effect: Evolution Surge (Sight)](spell-effects/01-6Ev2ytJZfr2t33iy.htm)|Effet: Flux d'évolution (Vision)|`@Compendium[pf2e.spell-effects.6Ev2ytJZfr2t33iy]`|
-|[Spell Effect: Evolution Surge (Speed)](spell-effects/01-XMOWgJV8UXWmpgk0.htm)|Effet: Flux d'évolution (Vitesse)|`@Compendium[pf2e.spell-effects.XMOWgJV8UXWmpgk0]`|
-|[Spell Effect: Extract Poison](spell-effects/01-fEhCbATDNlt6c1Ug.htm)|Effet: Extraction du poison|`@Compendium[pf2e.spell-effects.fEhCbATDNlt6c1Ug]`|
+|[Spell Effect: Envenom Companion](spell-effects/03-zPGVOLz6xhsQN35C.htm)|Effet : Compagnon venimeux|`@Compendium[pf2e.spell-effects.zPGVOLz6xhsQN35C]`|
+|[Spell Effect: Evolution Surge (Amphibious)](spell-effects/01-0o984LjzIFXxeXIF.htm)|Effet : Flux d'évolution (Amphibie)|`@Compendium[pf2e.spell-effects.0o984LjzIFXxeXIF]`|
+|[Spell Effect: Evolution Surge (Climb)](spell-effects/03-czteoX2cggQzfkK9.htm)|Effet : Flux d'évolution (Escalade)|`@Compendium[pf2e.spell-effects.czteoX2cggQzfkK9]`|
+|[Spell Effect: Evolution Surge (Fly)](spell-effects/05-u0AznkjTZAVnCMNp.htm)|Effet : Flux d'évolution (Vol)|`@Compendium[pf2e.spell-effects.u0AznkjTZAVnCMNp]`|
+|[Spell Effect: Evolution Surge (Huge)](spell-effects/05-ib58LaffEUIypuzL.htm)|Effet : Flux d'évolution (Très grand)|`@Compendium[pf2e.spell-effects.ib58LaffEUIypuzL]`|
+|[Spell Effect: Evolution Surge (Large)](spell-effects/03-PhBrHvBwvq8rni9C.htm)|Effet : Flux d'évolution (Grande)|`@Compendium[pf2e.spell-effects.PhBrHvBwvq8rni9C]`|
+|[Spell Effect: Evolution Surge (Scent)](spell-effects/01-pocsoEi84Mr2buOc.htm)|Effet : Flux d'évolution(Odorat)|`@Compendium[pf2e.spell-effects.pocsoEi84Mr2buOc]`|
+|[Spell Effect: Evolution Surge (Sight)](spell-effects/01-6Ev2ytJZfr2t33iy.htm)|Effet : Flux d'évolution (Vision)|`@Compendium[pf2e.spell-effects.6Ev2ytJZfr2t33iy]`|
+|[Spell Effect: Evolution Surge (Speed)](spell-effects/01-XMOWgJV8UXWmpgk0.htm)|Effet : Flux d'évolution (Vitesse)|`@Compendium[pf2e.spell-effects.XMOWgJV8UXWmpgk0]`|
+|[Spell Effect: Extract Poison](spell-effects/01-fEhCbATDNlt6c1Ug.htm)|Effet : Extraction du poison|`@Compendium[pf2e.spell-effects.fEhCbATDNlt6c1Ug]`|
 |[Spell Effect: Face in the Crowd](spell-effects/01-4iakL7fDcZ8RT6Tu.htm)|Effet : Fondu dans la foule|`@Compendium[pf2e.spell-effects.4iakL7fDcZ8RT6Tu]`|
-|[Spell Effect: Fey Form (Dryad)](spell-effects/04-c4cIfS2974nUJDPt.htm)|Effet: Forme de fée (dryade)|`@Compendium[pf2e.spell-effects.c4cIfS2974nUJDPt]`|
-|[Spell Effect: Fey Form (Elananx)](spell-effects/04-S75DOLjKaSJGMc0D.htm)|Effet: Forme de fée (Élananxe)|`@Compendium[pf2e.spell-effects.S75DOLjKaSJGMc0D]`|
-|[Spell Effect: Fey Form (Naiad)](spell-effects/04-KcBqo33ekJHxZLHo.htm)|Effet: Forme de fée (Naïade)|`@Compendium[pf2e.spell-effects.KcBqo33ekJHxZLHo]`|
-|[Spell Effect: Fey Form (Redcap)](spell-effects/04-heAj9paC8ZRh7QEj.htm)|Effet: Forme de fée (Bonnet rouge)|`@Compendium[pf2e.spell-effects.heAj9paC8ZRh7QEj]`|
-|[Spell Effect: Fey Form (Unicorn)](spell-effects/04-DwM5qcFp4JgKhXrY.htm)|Effet: Forme de fée (Licorne)|`@Compendium[pf2e.spell-effects.DwM5qcFp4JgKhXrY]`|
-|[Spell Effect: Fiery Body](spell-effects/07-uIMaMzd6pcKmMNPJ.htm)||`@Compendium[pf2e.spell-effects.uIMaMzd6pcKmMNPJ]`|
-|[Spell Effect: Fiery Body (9th Level)](spell-effects/09-U2eD42cGwdvQMdN0.htm)||`@Compendium[pf2e.spell-effects.U2eD42cGwdvQMdN0]`|
+|[Spell Effect: Fey Form (Dryad)](spell-effects/04-c4cIfS2974nUJDPt.htm)|Effet : Forme de fée (dryade)|`@Compendium[pf2e.spell-effects.c4cIfS2974nUJDPt]`|
+|[Spell Effect: Fey Form (Elananx)](spell-effects/04-S75DOLjKaSJGMc0D.htm)|Effet : Forme de fée (Élananxe)|`@Compendium[pf2e.spell-effects.S75DOLjKaSJGMc0D]`|
+|[Spell Effect: Fey Form (Naiad)](spell-effects/04-KcBqo33ekJHxZLHo.htm)|Effet : Forme de fée (Naïade)|`@Compendium[pf2e.spell-effects.KcBqo33ekJHxZLHo]`|
+|[Spell Effect: Fey Form (Redcap)](spell-effects/04-heAj9paC8ZRh7QEj.htm)|Effet : Forme de fée (Bonnet rouge)|`@Compendium[pf2e.spell-effects.heAj9paC8ZRh7QEj]`|
+|[Spell Effect: Fey Form (Unicorn)](spell-effects/04-DwM5qcFp4JgKhXrY.htm)|Effet : Forme de fée (Licorne)|`@Compendium[pf2e.spell-effects.DwM5qcFp4JgKhXrY]`|
+|[Spell Effect: Fiery Body](spell-effects/07-uIMaMzd6pcKmMNPJ.htm)|Effet : Corps enflammé|`@Compendium[pf2e.spell-effects.uIMaMzd6pcKmMNPJ]`|
+|[Spell Effect: Fiery Body (9th Level)](spell-effects/09-U2eD42cGwdvQMdN0.htm)|Effet : Corps enflammé (Niveau 9)|`@Compendium[pf2e.spell-effects.U2eD42cGwdvQMdN0]`|
 |[Spell Effect: Fire Shield](spell-effects/04-1RsScTvNdGD9zGWe.htm)|Effet : Bouclier de feu|`@Compendium[pf2e.spell-effects.1RsScTvNdGD9zGWe]`|
-|[Spell Effect: Flame Barrier](spell-effects/04-UXdt1WVA66oZOoZS.htm)||`@Compendium[pf2e.spell-effects.UXdt1WVA66oZOoZS]`|
-|[Spell Effect: Flame Wisp](spell-effects/02-ei9MIyZbIaP4AZmh.htm)|Effet: Feu follet enflammé|`@Compendium[pf2e.spell-effects.ei9MIyZbIaP4AZmh]`|
-|[Spell Effect: Fleet Step](spell-effects/01-ThFug45WHkQQXcoF.htm)|Effet: Pas rapide|`@Compendium[pf2e.spell-effects.ThFug45WHkQQXcoF]`|
+|[Spell Effect: Flame Barrier](spell-effects/04-UXdt1WVA66oZOoZS.htm)|Effet : Barrière de flammes|`@Compendium[pf2e.spell-effects.UXdt1WVA66oZOoZS]`|
+|[Spell Effect: Flame Wisp](spell-effects/02-ei9MIyZbIaP4AZmh.htm)|Effet : Feu follet enflammé|`@Compendium[pf2e.spell-effects.ei9MIyZbIaP4AZmh]`|
+|[Spell Effect: Fleet Step](spell-effects/01-ThFug45WHkQQXcoF.htm)|Effet : Pas rapide|`@Compendium[pf2e.spell-effects.ThFug45WHkQQXcoF]`|
 |[Spell Effect: Font of Serenity](spell-effects/01-Bc2Bwuan3716eAyY.htm)|Effet : Source de sérénité|`@Compendium[pf2e.spell-effects.Bc2Bwuan3716eAyY]`|
 |[Spell Effect: Forbidding Ward](spell-effects/01-ctMxYPGEpstvhW9C.htm)|Effet : Sceau d'interdiction|`@Compendium[pf2e.spell-effects.ctMxYPGEpstvhW9C]`|
 |[Spell Effect: Fungal Infestation (Critical Failure)](spell-effects/02-RLUhIyqH84Dle4vo.htm)|Effet : Infestation fongique(Échec critique)|`@Compendium[pf2e.spell-effects.RLUhIyqH84Dle4vo]`|
-|[Spell Effect: Fungal Infestation (Failure)](spell-effects/02-AnCRD7kDcG0DDGKn.htm)|Effet: Infestation fongique(Échec)|`@Compendium[pf2e.spell-effects.AnCRD7kDcG0DDGKn]`|
-|[Spell Effect: Garden of Death (Critical Success)](spell-effects/04-5xCheSMgtQhQZm00.htm)|Effet: Jardin mortel (Succès critique)|`@Compendium[pf2e.spell-effects.5xCheSMgtQhQZm00]`|
-|[Spell Effect: Gaseous Form](spell-effects/04-sILRkGTwoBywy0BU.htm)||`@Compendium[pf2e.spell-effects.sILRkGTwoBywy0BU]`|
-|[Spell Effect: Girzanje's March](spell-effects/04-QJRaVbulmpOzWi6w.htm)||`@Compendium[pf2e.spell-effects.QJRaVbulmpOzWi6w]`|
-|[Spell Effect: Glutton's Jaw](spell-effects/01-mrSulUdNbwzGSwfu.htm)|Effet: Mâchoires gloutonnes|`@Compendium[pf2e.spell-effects.mrSulUdNbwzGSwfu]`|
+|[Spell Effect: Fungal Infestation (Failure)](spell-effects/02-AnCRD7kDcG0DDGKn.htm)|Effet : Infestation fongique(Échec)|`@Compendium[pf2e.spell-effects.AnCRD7kDcG0DDGKn]`|
+|[Spell Effect: Garden of Death (Critical Success)](spell-effects/04-5xCheSMgtQhQZm00.htm)|Effet : Jardin mortel (Succès critique)|`@Compendium[pf2e.spell-effects.5xCheSMgtQhQZm00]`|
+|[Spell Effect: Gaseous Form](spell-effects/04-sILRkGTwoBywy0BU.htm)|Effet : Forme gazeuse|`@Compendium[pf2e.spell-effects.sILRkGTwoBywy0BU]`|
+|[Spell Effect: Girzanje's March](spell-effects/04-QJRaVbulmpOzWi6w.htm)|Effet : Marche de Guirzanjé|`@Compendium[pf2e.spell-effects.QJRaVbulmpOzWi6w]`|
+|[Spell Effect: Glutton's Jaw](spell-effects/01-mrSulUdNbwzGSwfu.htm)|Effet : Mâchoires gloutonnes|`@Compendium[pf2e.spell-effects.mrSulUdNbwzGSwfu]`|
 |[Spell Effect: Goodberry](spell-effects/01-ppVKJY6AYggn2Fma.htm)|Effet : Baie nourricière|`@Compendium[pf2e.spell-effects.ppVKJY6AYggn2Fma]`|
 |[Spell Effect: Gravity Weapon (1 Die)](spell-effects/01-U2dJnkoGSCYOsQFI.htm)|Effet : Arme pesante (1 dé)|`@Compendium[pf2e.spell-effects.U2dJnkoGSCYOsQFI]`|
 |[Spell Effect: Gravity Weapon (2 Dice)](spell-effects/01-uJNDI3CGGOtcG8nB.htm)|Effet : Arme pesante (2 dés)|`@Compendium[pf2e.spell-effects.uJNDI3CGGOtcG8nB]`|
 |[Spell Effect: Gravity Weapon (3 Dice)](spell-effects/01-oi5M6yQBlTKvLy29.htm)|Effet : Arme pesante (3 dés)|`@Compendium[pf2e.spell-effects.oi5M6yQBlTKvLy29]`|
 |[Spell Effect: Gravity Weapon (4 Dice)](spell-effects/01-tNryw0Rl4L8LF8Yq.htm)|Effet : Arme pesante (4 dés)|`@Compendium[pf2e.spell-effects.tNryw0Rl4L8LF8Yq]`|
-|[Spell Effect: Gray Shadow](spell-effects/06-7tYv9lY3ksSUny2h.htm)||`@Compendium[pf2e.spell-effects.7tYv9lY3ksSUny2h]`|
+|[Spell Effect: Gray Shadow](spell-effects/06-7tYv9lY3ksSUny2h.htm)|Effet : Ombre grise|`@Compendium[pf2e.spell-effects.7tYv9lY3ksSUny2h]`|
 |[Spell Effect: Guidance](spell-effects/01-3qHKBDF7lrHw8jFK.htm)|Effet : Assistance divine|`@Compendium[pf2e.spell-effects.3qHKBDF7lrHw8jFK]`|
 |[Spell Effect: Heroism](spell-effects/03-l9HRQggofFGIxEse.htm)|Effet : Héroïsme|`@Compendium[pf2e.spell-effects.l9HRQggofFGIxEse]`|
 |[Spell Effect: Hyperfocus](spell-effects/01-qQLHPbUFASKFky1W.htm)|Effet : Hyperfocalisation|`@Compendium[pf2e.spell-effects.qQLHPbUFASKFky1W]`|
 |[Spell Effect: Illusory Disguise](spell-effects/01-3Ktyd5F9lOPo4myk.htm)|Effet : Déguisement illusoire|`@Compendium[pf2e.spell-effects.3Ktyd5F9lOPo4myk]`|
-|[Spell Effect: Impeccable Flow (2nd)](spell-effects/01-m4ZU6BerQmEcrEun.htm)|Effet: Flux impeccable (2e)|`@Compendium[pf2e.spell-effects.m4ZU6BerQmEcrEun]`|
-|[Spell Effect: Impeccable Flow (5th)](spell-effects/01-u04C6DgBFP9PKzDx.htm)|Effet: Flux impeccable (5e)|`@Compendium[pf2e.spell-effects.u04C6DgBFP9PKzDx]`|
-|[Spell Effect: Impeccable Flow (8th)](spell-effects/01-CunoTO00M6eZjoFm.htm)|Effet: Flux impeccable (8e)|`@Compendium[pf2e.spell-effects.CunoTO00M6eZjoFm]`|
-|[Spell Effect: Impeccable Flow (Critical Failure Effect)](spell-effects/01-F10ofwC0k1ELIaV4.htm)|Effet: Flux impeccable (Effet d'échec critique)|`@Compendium[pf2e.spell-effects.F10ofwC0k1ELIaV4]`|
-|[Spell Effect: Infectious Enthusiasm (Attack)](spell-effects/01-gmgXUazwnm0i305Z.htm)|Effet: Enthousiasme communicatif (Attaque)|`@Compendium[pf2e.spell-effects.gmgXUazwnm0i305Z]`|
-|[Spell Effect: Infectious Enthusiasm (Charisma Based)](spell-effects/01-p10GOTCXqeJp4wzg.htm)|Effet: Enthousiasme communicatif (tests basés sur le charisme)|`@Compendium[pf2e.spell-effects.p10GOTCXqeJp4wzg]`|
-|[Spell Effect: Infectious Enthusiasm (Will Saves)](spell-effects/01-jx5wWd8eNw6swFa1.htm)|Effet: Enthousiasme communicatif (Jets de Volonté)|`@Compendium[pf2e.spell-effects.jx5wWd8eNw6swFa1]`|
-|[Spell Effect: Infectious Melody](spell-effects/01-i9YITDcrq1nKjV5l.htm)|Effet: Mélodie infectieuse|`@Compendium[pf2e.spell-effects.i9YITDcrq1nKjV5l]`|
+|[Spell Effect: Impeccable Flow (2nd)](spell-effects/01-m4ZU6BerQmEcrEun.htm)|Effet : Flux impeccable (2e)|`@Compendium[pf2e.spell-effects.m4ZU6BerQmEcrEun]`|
+|[Spell Effect: Impeccable Flow (5th)](spell-effects/01-u04C6DgBFP9PKzDx.htm)|Effet : Flux impeccable (5e)|`@Compendium[pf2e.spell-effects.u04C6DgBFP9PKzDx]`|
+|[Spell Effect: Impeccable Flow (8th)](spell-effects/01-CunoTO00M6eZjoFm.htm)|Effet : Flux impeccable (8e)|`@Compendium[pf2e.spell-effects.CunoTO00M6eZjoFm]`|
+|[Spell Effect: Impeccable Flow (Critical Failure Effect)](spell-effects/01-F10ofwC0k1ELIaV4.htm)|Effet : Flux impeccable (Effet d'échec critique)|`@Compendium[pf2e.spell-effects.F10ofwC0k1ELIaV4]`|
+|[Spell Effect: Infectious Enthusiasm (Attack)](spell-effects/01-gmgXUazwnm0i305Z.htm)|Effet : Enthousiasme communicatif (Attaque)|`@Compendium[pf2e.spell-effects.gmgXUazwnm0i305Z]`|
+|[Spell Effect: Infectious Enthusiasm (Charisma Based)](spell-effects/01-p10GOTCXqeJp4wzg.htm)|Effet : Enthousiasme communicatif (tests basés sur le charisme)|`@Compendium[pf2e.spell-effects.p10GOTCXqeJp4wzg]`|
+|[Spell Effect: Infectious Enthusiasm (Will Saves)](spell-effects/01-jx5wWd8eNw6swFa1.htm)|Effet : Enthousiasme communicatif (Jets de Volonté)|`@Compendium[pf2e.spell-effects.jx5wWd8eNw6swFa1]`|
+|[Spell Effect: Infectious Melody](spell-effects/01-i9YITDcrq1nKjV5l.htm)|Effet : Mélodie infectieuse|`@Compendium[pf2e.spell-effects.i9YITDcrq1nKjV5l]`|
 |[Spell Effect: Insect Form (Ant)](spell-effects/03-6IvTWcispcDaw88N.htm)|Effet : Forme d'insecte (Fourmi)|`@Compendium[pf2e.spell-effects.6IvTWcispcDaw88N]`|
-|[Spell Effect: Insect Form (Beetle)](spell-effects/03-amTa9jSml9ioKduN.htm)|Effet : Forme d'insecte (Scarabée)|`@Compendium[pf2e.spell-effects.amTa9jSml9ioKduN]`|
+|[Spell Effect: Insect Form (Beetle)](spell-effects/03-amTa9jSml9ioKduN.htm)|Effet : Forme d'insecte (Coléoptère)|`@Compendium[pf2e.spell-effects.amTa9jSml9ioKduN]`|
 |[Spell Effect: Insect Form (Centipede)](spell-effects/03-DENMzySYANjUBs4O.htm)|Effet : Forme d'insecte (Mille-pattes)|`@Compendium[pf2e.spell-effects.DENMzySYANjUBs4O]`|
 |[Spell Effect: Insect Form (Mantis)](spell-effects/03-llrOM8rPP9nxIuEN.htm)|Effet : Forme d'insecte (Mante)|`@Compendium[pf2e.spell-effects.llrOM8rPP9nxIuEN]`|
 |[Spell Effect: Insect Form (Scorpion)](spell-effects/03-bOjuEX3qj7XAOoDF.htm)|Effet : Forme d'insecte (Scorpion)|`@Compendium[pf2e.spell-effects.bOjuEX3qj7XAOoDF]`|
@@ -6896,82 +6896,82 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Magic Hide](spell-effects/01-qhNUfwpkD8BRw4zj.htm)|Effet : Peau magique|`@Compendium[pf2e.spell-effects.qhNUfwpkD8BRw4zj]`|
 |[Spell Effect: Magic Weapon](spell-effects/01-GnWkI3T3LYRlm3X8.htm)|Effet : Arme magique|`@Compendium[pf2e.spell-effects.GnWkI3T3LYRlm3X8]`|
 |[Spell Effect: Magic's Vessel](spell-effects/01-zpxIwEjnLUSO1B4z.htm)|Effet : Réceptacle magique|`@Compendium[pf2e.spell-effects.zpxIwEjnLUSO1B4z]`|
-|[Spell Effect: Mantle of the Frozen Heart (Ice Glide)](spell-effects/05-YCno88Te0nfwFgVo.htm)|Effet: Manteau du cœur gelé (Glissement glacé)|`@Compendium[pf2e.spell-effects.YCno88Te0nfwFgVo]`|
-|[Spell Effect: Mantle of the Frozen Heart (Icy Claws)](spell-effects/05-wqh8D9kHGItZBvtQ.htm)|Effet: Manteau du cœur gelé (Griffes de glace)|`@Compendium[pf2e.spell-effects.wqh8D9kHGItZBvtQ]`|
-|[Spell Effect: Mantle of the Magma Heart (Enlarging Eruption)](spell-effects/05-qRyynMOflGajgAR3.htm)|Effet: Manteau du cœur magmatique (Éruption magmatique)|`@Compendium[pf2e.spell-effects.qRyynMOflGajgAR3]`|
+|[Spell Effect: Mantle of the Frozen Heart (Ice Glide)](spell-effects/05-YCno88Te0nfwFgVo.htm)|Effet : Manteau du cœur gelé (Glissement glacé)|`@Compendium[pf2e.spell-effects.YCno88Te0nfwFgVo]`|
+|[Spell Effect: Mantle of the Frozen Heart (Icy Claws)](spell-effects/05-wqh8D9kHGItZBvtQ.htm)|Effet : Manteau du cœur gelé (Griffes de glace)|`@Compendium[pf2e.spell-effects.wqh8D9kHGItZBvtQ]`|
+|[Spell Effect: Mantle of the Magma Heart (Enlarging Eruption)](spell-effects/05-qRyynMOflGajgAR3.htm)|Effet : Manteau du cœur magmatique (Éruption magmatique)|`@Compendium[pf2e.spell-effects.qRyynMOflGajgAR3]`|
 |[Spell Effect: Mantle of the Magma Heart (Fiery Grasp)](spell-effects/05-6SG8wVmppv4oXZtx.htm)|Manteau du cœur magmatique (Poigne enflammée)|`@Compendium[pf2e.spell-effects.6SG8wVmppv4oXZtx]`|
-|[Spell Effect: Mimic Undead](spell-effects/02-xPVOvWNJORvm8EwP.htm)|Effet: Imiter un mort-vivant|`@Compendium[pf2e.spell-effects.xPVOvWNJORvm8EwP]`|
-|[Spell Effect: Mind Blank](spell-effects/08-DBaMtFHRPEg1JeLs.htm)|Effet: Esprit impénétrable|`@Compendium[pf2e.spell-effects.DBaMtFHRPEg1JeLs]`|
-|[Spell Effect: Mind Swap (Critical Success)](spell-effects/05-4FD4vJqVpuuJjk9Q.htm)|Effet: Échange d'esprit (Succès critique)|`@Compendium[pf2e.spell-effects.4FD4vJqVpuuJjk9Q]`|
-|[Spell Effect: Mirecloak](spell-effects/05-mzDgsuuo5wCgqyxR.htm)||`@Compendium[pf2e.spell-effects.mzDgsuuo5wCgqyxR]`|
+|[Spell Effect: Mimic Undead](spell-effects/02-xPVOvWNJORvm8EwP.htm)|Effet : Imiter un mort-vivant|`@Compendium[pf2e.spell-effects.xPVOvWNJORvm8EwP]`|
+|[Spell Effect: Mind Blank](spell-effects/08-DBaMtFHRPEg1JeLs.htm)|Effet : Esprit impénétrable|`@Compendium[pf2e.spell-effects.DBaMtFHRPEg1JeLs]`|
+|[Spell Effect: Mind Swap (Critical Success)](spell-effects/05-4FD4vJqVpuuJjk9Q.htm)|Effet : Échange d'esprit (Succès critique)|`@Compendium[pf2e.spell-effects.4FD4vJqVpuuJjk9Q]`|
+|[Spell Effect: Mirecloak](spell-effects/05-mzDgsuuo5wCgqyxR.htm)|Effet : Cape-miroir|`@Compendium[pf2e.spell-effects.mzDgsuuo5wCgqyxR]`|
 |[Spell Effect: Monstrosity Form (Phoenix)](spell-effects/08-b8bfWIICHOsGVzjp.htm)|Effet : Forme monstrueuse (Phénix)|`@Compendium[pf2e.spell-effects.b8bfWIICHOsGVzjp]`|
 |[Spell Effect: Monstrosity Form (Purple Worm)](spell-effects/08-rEsgDhunQ5Yx8KZx.htm)|Effet : Forme monstrueuse (Ver pourpre)|`@Compendium[pf2e.spell-effects.rEsgDhunQ5Yx8KZx]`|
 |[Spell Effect: Monstrosity Form (Sea Serpent)](spell-effects/08-Eik8Fj8nGo2GLcbn.htm)|Effet : Forme monstrueuse (Serpent de mer)|`@Compendium[pf2e.spell-effects.Eik8Fj8nGo2GLcbn]`|
-|[Spell Effect: Nature Incarnate (Green Man)](spell-effects/10-lywUJljQy2SxRZQt.htm)||`@Compendium[pf2e.spell-effects.lywUJljQy2SxRZQt]`|
-|[Spell Effect: Nature Incarnate (Kaiju)](spell-effects/10-EUxTav62IXTz5CxW.htm)||`@Compendium[pf2e.spell-effects.EUxTav62IXTz5CxW]`|
-|[Spell Effect: Necromancer's Generosity](spell-effects/01-cwetyC5o4dRyFWJZ.htm)|Effet: Générosité du nécromant|`@Compendium[pf2e.spell-effects.cwetyC5o4dRyFWJZ]`|
-|[Spell Effect: Necrotize (Legs)](spell-effects/01-ndj0TpLxyzbyzcm4.htm)|Effet: Nécroser (Jambes)|`@Compendium[pf2e.spell-effects.ndj0TpLxyzbyzcm4]`|
-|[Spell Effect: Nudge Fate](spell-effects/01-jKrLpG74nLHYGyWB.htm)|Effet: Coup de pouce au destin|`@Compendium[pf2e.spell-effects.jKrLpG74nLHYGyWB]`|
-|[Spell Effect: Nymph's Token](spell-effects/01-zjFN1cJEl3AMKiVs.htm)|Effet: Amulette de la nymphe|`@Compendium[pf2e.spell-effects.zjFN1cJEl3AMKiVs]`|
-|[Spell Effect: Object Memory (Weapon)](spell-effects/01-uDOxq24S7IT2EcXv.htm)|Effet : Mémoire de l'objet (arme ou outil)|`@Compendium[pf2e.spell-effects.uDOxq24S7IT2EcXv]`|
-|[Spell Effect: One With the Land](spell-effects/09-Mp7252yAsSA8lCEA.htm)|Effet: Uni à la terre|`@Compendium[pf2e.spell-effects.Mp7252yAsSA8lCEA]`|
-|[Spell Effect: Ooze Form (Black Pudding)](spell-effects/03-EKdqKCuyWSkpXpyJ.htm)|Effet: Forme de vase (Pudding noir)|`@Compendium[pf2e.spell-effects.EKdqKCuyWSkpXpyJ]`|
-|[Spell Effect: Ooze Form (Gelatinous Cube)](spell-effects/03-3zdBGENpmaze1bpq.htm)|Effet: Forme de vase (Cube gélatineux)|`@Compendium[pf2e.spell-effects.3zdBGENpmaze1bpq]`|
-|[Spell Effect: Ooze Form (Gray Ooze)](spell-effects/03-7tfF8ifVvOKNud8t.htm)|Effet: Form de vase (Vase grise)|`@Compendium[pf2e.spell-effects.7tfF8ifVvOKNud8t]`|
-|[Spell Effect: Ooze Form (Ochre Jelly)](spell-effects/03-PpkOZVoHkBZUmddx.htm)|{Effet: Forme de vase (Gelée ocre)|`@Compendium[pf2e.spell-effects.PpkOZVoHkBZUmddx]`|
-|[Spell Effect: Organsight](spell-effects/03-Uj9VFXoVMH0mTTdt.htm)|Effet: Vision des organes|`@Compendium[pf2e.spell-effects.Uj9VFXoVMH0mTTdt]`|
+|[Spell Effect: Nature Incarnate (Green Man)](spell-effects/10-lywUJljQy2SxRZQt.htm)|Effet : Incarnation de la nature (Homme vert)|`@Compendium[pf2e.spell-effects.lywUJljQy2SxRZQt]`|
+|[Spell Effect: Nature Incarnate (Kaiju)](spell-effects/10-EUxTav62IXTz5CxW.htm)|Effet : Incarnation de la nature (Kaiju)|`@Compendium[pf2e.spell-effects.EUxTav62IXTz5CxW]`|
+|[Spell Effect: Necromancer's Generosity](spell-effects/01-cwetyC5o4dRyFWJZ.htm)|Effet : Générosité du nécromant|`@Compendium[pf2e.spell-effects.cwetyC5o4dRyFWJZ]`|
+|[Spell Effect: Necrotize (Legs)](spell-effects/01-ndj0TpLxyzbyzcm4.htm)|Effet : Nécroser (Jambes)|`@Compendium[pf2e.spell-effects.ndj0TpLxyzbyzcm4]`|
+|[Spell Effect: Nudge Fate](spell-effects/01-jKrLpG74nLHYGyWB.htm)|Effet : Coup de pouce au destin|`@Compendium[pf2e.spell-effects.jKrLpG74nLHYGyWB]`|
+|[Spell Effect: Nymph's Token](spell-effects/01-zjFN1cJEl3AMKiVs.htm)|Effet : Amulette de la nymphe|`@Compendium[pf2e.spell-effects.zjFN1cJEl3AMKiVs]`|
+|[Spell Effect: Object Memory (Weapon)](spell-effects/01-uDOxq24S7IT2EcXv.htm)|Effet : Mémoire de l'objet (Arme ou outil)|`@Compendium[pf2e.spell-effects.uDOxq24S7IT2EcXv]`|
+|[Spell Effect: One With the Land](spell-effects/09-Mp7252yAsSA8lCEA.htm)|Effet : Uni à la terre|`@Compendium[pf2e.spell-effects.Mp7252yAsSA8lCEA]`|
+|[Spell Effect: Ooze Form (Black Pudding)](spell-effects/03-EKdqKCuyWSkpXpyJ.htm)|Effet : Forme de vase (Pudding noir)|`@Compendium[pf2e.spell-effects.EKdqKCuyWSkpXpyJ]`|
+|[Spell Effect: Ooze Form (Gelatinous Cube)](spell-effects/03-3zdBGENpmaze1bpq.htm)|Effet : Forme de vase (Cube gélatineux)|`@Compendium[pf2e.spell-effects.3zdBGENpmaze1bpq]`|
+|[Spell Effect: Ooze Form (Gray Ooze)](spell-effects/03-7tfF8ifVvOKNud8t.htm)|Effet : Form de vase (Vase grise)|`@Compendium[pf2e.spell-effects.7tfF8ifVvOKNud8t]`|
+|[Spell Effect: Ooze Form (Ochre Jelly)](spell-effects/03-PpkOZVoHkBZUmddx.htm)|{Effet : Forme de vase (Gelée ocre)|`@Compendium[pf2e.spell-effects.PpkOZVoHkBZUmddx]`|
+|[Spell Effect: Organsight](spell-effects/03-Uj9VFXoVMH0mTTdt.htm)|Effet : Vision des organes|`@Compendium[pf2e.spell-effects.Uj9VFXoVMH0mTTdt]`|
 |[Spell Effect: Penumbral Disguise](spell-effects/02-mAofA4oy3cRdT71K.htm)|Effet : Déguisement pénombral|`@Compendium[pf2e.spell-effects.mAofA4oy3cRdT71K]`|
 |[Spell Effect: Pest Form](spell-effects/01-ydsLEGjY89Akc4oZ.htm)|Effet : Forme de nuisible|`@Compendium[pf2e.spell-effects.ydsLEGjY89Akc4oZ]`|
-|[Spell Effect: Physical Boost](spell-effects/01-XT3AyRfx4xeXfAjP.htm)|Effet: Amélioration physique|`@Compendium[pf2e.spell-effects.XT3AyRfx4xeXfAjP]`|
+|[Spell Effect: Physical Boost](spell-effects/01-XT3AyRfx4xeXfAjP.htm)|Effet : Amélioration physique|`@Compendium[pf2e.spell-effects.XT3AyRfx4xeXfAjP]`|
 |[Spell Effect: Plant Form (Arboreal)](spell-effects/05-tu8FyCtmL3YYR2jL.htm)|Effet : Forme de plante (Arboréen)|`@Compendium[pf2e.spell-effects.tu8FyCtmL3YYR2jL]`|
 |[Spell Effect: Plant Form (Flytrap)](spell-effects/05-JrNHFNxJayevlv2G.htm)|Effet : Forme de plante (Attrape-mouches)|`@Compendium[pf2e.spell-effects.JrNHFNxJayevlv2G]`|
 |[Spell Effect: Plant Form (Shambler)](spell-effects/05-fIloZhZVH1xTnX4B.htm)|Effet : Forme de plante (Grand tertre)|`@Compendium[pf2e.spell-effects.fIloZhZVH1xTnX4B]`|
-|[Spell Effect: Pocket Library](spell-effects/01-9ZIP6gWSp9OTEu8i.htm)|Effet: Bibliothèque de poche|`@Compendium[pf2e.spell-effects.9ZIP6gWSp9OTEu8i]`|
+|[Spell Effect: Pocket Library](spell-effects/01-9ZIP6gWSp9OTEu8i.htm)|Effet : Bibliothèque de poche|`@Compendium[pf2e.spell-effects.9ZIP6gWSp9OTEu8i]`|
 |[Spell Effect: Practise Makes Perfect](spell-effects/01-XMBoKRRyooKnGkHk.htm)|Effet : En forgeant on devient forgeron|`@Compendium[pf2e.spell-effects.XMBoKRRyooKnGkHk]`|
 |[Spell Effect: Primal Summons (Air)](spell-effects/10-fwaAe71qfnK7SiOB.htm)|Effet : Convocations primordiales (Air)|`@Compendium[pf2e.spell-effects.fwaAe71qfnK7SiOB]`|
 |[Spell Effect: Primal Summons (Earth)](spell-effects/10-Xl48OsJ47oDVZAVQ.htm)|Effet : Convocations primordiales (Terre)|`@Compendium[pf2e.spell-effects.Xl48OsJ47oDVZAVQ]`|
 |[Spell Effect: Primal Summons (Fire)](spell-effects/10-blBXnWb1Y8q8YYMh.htm)|Effet : Convocations primordiales (Feu)|`@Compendium[pf2e.spell-effects.blBXnWb1Y8q8YYMh]`|
 |[Spell Effect: Primal Summons (Water)](spell-effects/10-TAAWbJgfESltn2we.htm)|Effet : Convocations primordiales (Eau)|`@Compendium[pf2e.spell-effects.TAAWbJgfESltn2we]`|
-|[Spell Effect: Prismatic Shield](spell-effects/01-Pfllo68qdQjC4Qv6.htm)|Effet: Bouclier prismatique|`@Compendium[pf2e.spell-effects.Pfllo68qdQjC4Qv6]`|
-|[Spell Effect: Protect Companion](spell-effects/01-pPMldkAbPVOSOPIF.htm)|Effet: Protéger le compagnon|`@Compendium[pf2e.spell-effects.pPMldkAbPVOSOPIF]`|
-|[Spell Effect: Protection from Chaotic](spell-effects/01-lpqkZkslFMirsItL.htm)|Effet : Protection du Chaos|`@Compendium[pf2e.spell-effects.lpqkZkslFMirsItL]`|
-|[Spell Effect: Protection from Evil](spell-effects/01-nEqBnsrvJZzh8Bil.htm)|Effet : Protection du Mal|`@Compendium[pf2e.spell-effects.nEqBnsrvJZzh8Bil]`|
-|[Spell Effect: Protection from Good](spell-effects/01-qVngSDWvHcnht0fP.htm)|Effet : Protection du Bien|`@Compendium[pf2e.spell-effects.qVngSDWvHcnht0fP]`|
-|[Spell Effect: Protection from Lawful](spell-effects/01-B6zSwNFJV3TMafHf.htm)|Effet : Protection du Loyal|`@Compendium[pf2e.spell-effects.B6zSwNFJV3TMafHf]`|
+|[Spell Effect: Prismatic Shield](spell-effects/01-Pfllo68qdQjC4Qv6.htm)|Effet : Bouclier prismatique|`@Compendium[pf2e.spell-effects.Pfllo68qdQjC4Qv6]`|
+|[Spell Effect: Protect Companion](spell-effects/01-pPMldkAbPVOSOPIF.htm)|Effet : Protéger le compagnon|`@Compendium[pf2e.spell-effects.pPMldkAbPVOSOPIF]`|
+|[Spell Effect: Protection from Chaotic](spell-effects/01-lpqkZkslFMirsItL.htm)|Effet : Protection contre le Chaos|`@Compendium[pf2e.spell-effects.lpqkZkslFMirsItL]`|
+|[Spell Effect: Protection from Evil](spell-effects/01-nEqBnsrvJZzh8Bil.htm)|Effet : Protection contre le Mal|`@Compendium[pf2e.spell-effects.nEqBnsrvJZzh8Bil]`|
+|[Spell Effect: Protection from Good](spell-effects/01-qVngSDWvHcnht0fP.htm)|Effet : Protection contre le Bien|`@Compendium[pf2e.spell-effects.qVngSDWvHcnht0fP]`|
+|[Spell Effect: Protection from Lawful](spell-effects/01-B6zSwNFJV3TMafHf.htm)|Effet : Protection contre le Loyal|`@Compendium[pf2e.spell-effects.B6zSwNFJV3TMafHf]`|
 |[Spell Effect: Protective Ward](spell-effects/01-dWbg2gACxMkSnZag.htm)|Effet : Champ protecteur|`@Compendium[pf2e.spell-effects.dWbg2gACxMkSnZag]`|
-|[Spell Effect: Rapid Adaptation (Aquatic Base Swim Speed)](spell-effects/02-fGK6zJ7mWz9D5QYo.htm)|Effet: Adaptation rapide (Aquatique : Base de nage)|`@Compendium[pf2e.spell-effects.fGK6zJ7mWz9D5QYo]`|
+|[Spell Effect: Rapid Adaptation (Aquatic Base Swim Speed)](spell-effects/02-fGK6zJ7mWz9D5QYo.htm)|Effet : Adaptation rapide (Aquatique : Base de nage)|`@Compendium[pf2e.spell-effects.fGK6zJ7mWz9D5QYo]`|
 |[Spell Effect: Rapid Adaptation (Aquatic Speed Bonus)](spell-effects/02-itmiGioGNuVvt4QE.htm)|Effet : Adaptation rapide (Aquatique: bonus vitesse de nage)|`@Compendium[pf2e.spell-effects.itmiGioGNuVvt4QE]`|
-|[Spell Effect: Rapid Adaptation (Arctic)](spell-effects/02-iiV80Kexj6vPmzqU.htm)|Effet: Adaptation rapide (Arctique)|`@Compendium[pf2e.spell-effects.iiV80Kexj6vPmzqU]`|
-|[Spell Effect: Rapid Adaptation (Desert)](spell-effects/02-qo7DoF11Xl9gqmFc.htm)|Effet: Adaptation rapide (Désert)|`@Compendium[pf2e.spell-effects.qo7DoF11Xl9gqmFc]`|
-|[Spell Effect: Rapid Adaptation (Forest)](spell-effects/02-jtMo6qS47hPx6EbR.htm)|Effet: Adaptation rapide (Forêt)|`@Compendium[pf2e.spell-effects.jtMo6qS47hPx6EbR]`|
-|[Spell Effect: Rapid Adaptation (Mountain)](spell-effects/02-sDN9b4bjCGH2nQnG.htm)|Effet: Adaptation rapide (Montagne)|`@Compendium[pf2e.spell-effects.sDN9b4bjCGH2nQnG]`|
-|[Spell Effect: Rapid Adaptation (Plains)](spell-effects/02-AM49w68oKykc2fHI.htm)|Effet: Adaptation rapide (Plaines)|`@Compendium[pf2e.spell-effects.AM49w68oKykc2fHI]`|
-|[Spell Effect: Rapid Adaptation (Underground)](spell-effects/02-0q2716S34XL1y9Hh.htm)|Effet: Adaptation rapide (Souterrain)|`@Compendium[pf2e.spell-effects.0q2716S34XL1y9Hh]`|
+|[Spell Effect: Rapid Adaptation (Arctic)](spell-effects/02-iiV80Kexj6vPmzqU.htm)|Effet : Adaptation rapide (Arctique)|`@Compendium[pf2e.spell-effects.iiV80Kexj6vPmzqU]`|
+|[Spell Effect: Rapid Adaptation (Desert)](spell-effects/02-qo7DoF11Xl9gqmFc.htm)|Effet : Adaptation rapide (Désert)|`@Compendium[pf2e.spell-effects.qo7DoF11Xl9gqmFc]`|
+|[Spell Effect: Rapid Adaptation (Forest)](spell-effects/02-jtMo6qS47hPx6EbR.htm)|Effet : Adaptation rapide (Forêt)|`@Compendium[pf2e.spell-effects.jtMo6qS47hPx6EbR]`|
+|[Spell Effect: Rapid Adaptation (Mountain)](spell-effects/02-sDN9b4bjCGH2nQnG.htm)|Effet : Adaptation rapide (Montagne)|`@Compendium[pf2e.spell-effects.sDN9b4bjCGH2nQnG]`|
+|[Spell Effect: Rapid Adaptation (Plains)](spell-effects/02-AM49w68oKykc2fHI.htm)|Effet : Adaptation rapide (Plaines)|`@Compendium[pf2e.spell-effects.AM49w68oKykc2fHI]`|
+|[Spell Effect: Rapid Adaptation (Underground)](spell-effects/02-0q2716S34XL1y9Hh.htm)|Effet : Adaptation rapide (Souterrain)|`@Compendium[pf2e.spell-effects.0q2716S34XL1y9Hh]`|
 |[Spell Effect: Ray of Frost](spell-effects/01-I4PsUAaYSUJ8pwKC.htm)|Effet : Rayon de givre|`@Compendium[pf2e.spell-effects.I4PsUAaYSUJ8pwKC]`|
-|[Spell Effect: Read the Air](spell-effects/01-a3uZckqOY9zQWzZ2.htm)|Effet: Lecture de l'air|`@Compendium[pf2e.spell-effects.a3uZckqOY9zQWzZ2]`|
-|[Spell Effect: Reinforce Eidolon](spell-effects/01-UVrEe0nukiSmiwfF.htm)|Effet: Renforcer l'eidolon|`@Compendium[pf2e.spell-effects.UVrEe0nukiSmiwfF]`|
+|[Spell Effect: Read the Air](spell-effects/01-a3uZckqOY9zQWzZ2.htm)|Effet : Lecture de l'air|`@Compendium[pf2e.spell-effects.a3uZckqOY9zQWzZ2]`|
+|[Spell Effect: Reinforce Eidolon](spell-effects/01-UVrEe0nukiSmiwfF.htm)|Effet : Renforcer l'eidolon|`@Compendium[pf2e.spell-effects.UVrEe0nukiSmiwfF]`|
 |[Spell Effect: Rejuvenating Touch](spell-effects/01-oaRt210JV4GZIHmJ.htm)|Effet : Toucher rajeunissant|`@Compendium[pf2e.spell-effects.oaRt210JV4GZIHmJ]`|
 |[Spell Effect: Resilient Touch](spell-effects/01-6embuvXCpS3YOD5u.htm)|Effet : Toucher de résilience|`@Compendium[pf2e.spell-effects.6embuvXCpS3YOD5u]`|
-|[Spell Effect: Righteous Might](spell-effects/06-W4lb3417rNDd9tCq.htm)|Effet: Force du molosse|`@Compendium[pf2e.spell-effects.W4lb3417rNDd9tCq]`|
+|[Spell Effect: Righteous Might](spell-effects/06-W4lb3417rNDd9tCq.htm)|Effet : Force du molosse|`@Compendium[pf2e.spell-effects.W4lb3417rNDd9tCq]`|
 |[Spell Effect: Roar of the Wyrm](spell-effects/04-0s6YaL3IjqECmjab.htm)|Effet : Rugissement du Ver|`@Compendium[pf2e.spell-effects.0s6YaL3IjqECmjab]`|
 |[Spell Effect: Safeguard Secret](spell-effects/04-3HEiYVhqypfc4IsP.htm)|Effet : Secret bien gardé|`@Compendium[pf2e.spell-effects.3HEiYVhqypfc4IsP]`|
-|[Spell Effect: Schadenfreude (Success)](spell-effects/01-TjGHxli0edXI6rAg.htm)|Effet: Joie malsaine (Succès)|`@Compendium[pf2e.spell-effects.TjGHxli0edXI6rAg]`|
+|[Spell Effect: Schadenfreude (Success)](spell-effects/01-TjGHxli0edXI6rAg.htm)|Effet : Joie malsaine (Succès)|`@Compendium[pf2e.spell-effects.TjGHxli0edXI6rAg]`|
 |[Spell Effect: Shield](spell-effects/01-Jemq5UknGdMO7b73.htm)|Effet : Bouclier|`@Compendium[pf2e.spell-effects.Jemq5UknGdMO7b73]`|
-|[Spell Effect: Shifting Form (Claws)](spell-effects/04-14AFzcwkN019dzcl.htm)|Effet: Forme changeant (Griffes)|`@Compendium[pf2e.spell-effects.14AFzcwkN019dzcl]`|
-|[Spell Effect: Shifting Form (Climb Speed)](spell-effects/04-nbW4udOUTrCGL3Gf.htm)|Effet: Forme changeante (Escalade)|`@Compendium[pf2e.spell-effects.nbW4udOUTrCGL3Gf]`|
-|[Spell Effect: Shifting Form (Darkvision)](spell-effects/04-A48jNUOAmCljx8Ru.htm)|Effet: Forme changeante (Vision dans le noir)|`@Compendium[pf2e.spell-effects.A48jNUOAmCljx8Ru]`|
-|[Spell Effect: Shifting Form (Scent)](spell-effects/04-byXkHIKFwuKrZ55M.htm)|Effet: Forme changeante (Odorat)|`@Compendium[pf2e.spell-effects.byXkHIKFwuKrZ55M]`|
-|[Spell Effect: Shifting Form (Speed)](spell-effects/04-j6po934p4jcUVC6l.htm)|Effet: Forme changeante (Vitesse)|`@Compendium[pf2e.spell-effects.j6po934p4jcUVC6l]`|
-|[Spell Effect: Shifting Form (Swim Speed)](spell-effects/04-Um25D1qLtZWOSBny.htm)|Effet: Forme changeante (Nage)|`@Compendium[pf2e.spell-effects.Um25D1qLtZWOSBny]`|
+|[Spell Effect: Shifting Form (Claws)](spell-effects/04-14AFzcwkN019dzcl.htm)|Effet : Forme changeant (Griffes)|`@Compendium[pf2e.spell-effects.14AFzcwkN019dzcl]`|
+|[Spell Effect: Shifting Form (Climb Speed)](spell-effects/04-nbW4udOUTrCGL3Gf.htm)|Effet : Forme changeante (Escalade)|`@Compendium[pf2e.spell-effects.nbW4udOUTrCGL3Gf]`|
+|[Spell Effect: Shifting Form (Darkvision)](spell-effects/04-A48jNUOAmCljx8Ru.htm)|Effet : Forme changeante (Vision dans le noir)|`@Compendium[pf2e.spell-effects.A48jNUOAmCljx8Ru]`|
+|[Spell Effect: Shifting Form (Scent)](spell-effects/04-byXkHIKFwuKrZ55M.htm)|Effet : Forme changeante (Odorat)|`@Compendium[pf2e.spell-effects.byXkHIKFwuKrZ55M]`|
+|[Spell Effect: Shifting Form (Speed)](spell-effects/04-j6po934p4jcUVC6l.htm)|Effet : Forme changeante (Vitesse)|`@Compendium[pf2e.spell-effects.j6po934p4jcUVC6l]`|
+|[Spell Effect: Shifting Form (Swim Speed)](spell-effects/04-Um25D1qLtZWOSBny.htm)|Effet : Forme changeante (Nage)|`@Compendium[pf2e.spell-effects.Um25D1qLtZWOSBny]`|
 |[Spell Effect: Shillelagh](spell-effects/01-deG1dtfuQph03Kkg.htm)|Effet : Gourdin magique|`@Compendium[pf2e.spell-effects.deG1dtfuQph03Kkg]`|
 |[Spell Effect: Shrink](spell-effects/02-LXf1Cqi1zyo4DaLv.htm)|Effet : Rétrécir|`@Compendium[pf2e.spell-effects.LXf1Cqi1zyo4DaLv]`|
-|[Spell Effect: Song of Strength](spell-effects/01-8adLKKzJy49USYJt.htm)|Effet: Chanson de force|`@Compendium[pf2e.spell-effects.8adLKKzJy49USYJt]`|
+|[Spell Effect: Song of Strength](spell-effects/01-8adLKKzJy49USYJt.htm)|Effet : Chanson de force|`@Compendium[pf2e.spell-effects.8adLKKzJy49USYJt]`|
 |[Spell Effect: Soothe](spell-effects/01-nkk4O5fyzrC0057i.htm)|Effet : Apaiser|`@Compendium[pf2e.spell-effects.nkk4O5fyzrC0057i]`|
-|[Spell Effect: Soothing Blossoms](spell-effects/01-nIryhRgeiacQw1Em.htm)|Effet: Bourgeons apaisants|`@Compendium[pf2e.spell-effects.nIryhRgeiacQw1Em]`|
+|[Spell Effect: Soothing Blossoms](spell-effects/01-nIryhRgeiacQw1Em.htm)|Effet : Bourgeons apaisants|`@Compendium[pf2e.spell-effects.nIryhRgeiacQw1Em]`|
 |[Spell Effect: Soothing Words](spell-effects/01-an4yZ6dyIDOFa1wa.htm)|Effet : Paroles apaisantes|`@Compendium[pf2e.spell-effects.an4yZ6dyIDOFa1wa]`|
-|[Spell Effect: Stoke the Heart](spell-effects/01-TpVkVALUBrBQjULn.htm)|Effet: Enflammer les cœurs|`@Compendium[pf2e.spell-effects.TpVkVALUBrBQjULn]`|
+|[Spell Effect: Stoke the Heart](spell-effects/01-TpVkVALUBrBQjULn.htm)|Effet : Enflammer les cœurs|`@Compendium[pf2e.spell-effects.TpVkVALUBrBQjULn]`|
 |[Spell Effect: Stormwind Flight](spell-effects/04-8GUkKvCeI0xljCOk.htm)|Effet : Vol de l'ouragan|`@Compendium[pf2e.spell-effects.8GUkKvCeI0xljCOk]`|
-|[Spell Effect: Summoner's Visage](spell-effects/01-0OC945wcZ4H4akLz.htm)|Effet: Visage du conjurateur|`@Compendium[pf2e.spell-effects.0OC945wcZ4H4akLz]`|
+|[Spell Effect: Summoner's Visage](spell-effects/01-0OC945wcZ4H4akLz.htm)|Effet : Visage du conjurateur|`@Compendium[pf2e.spell-effects.0OC945wcZ4H4akLz]`|
 |[Spell Effect: Swampcall (Critical Failure)](spell-effects/01-otK6eG3b3FV7n2xP.htm)|Effet : Appel du marais (Échec critique)|`@Compendium[pf2e.spell-effects.otK6eG3b3FV7n2xP]`|
 |[Spell Effect: Swampcall (Failure)](spell-effects/01-ROuGwXEvFznzGE9k.htm)|Effet : Appel du marais (Échec)|`@Compendium[pf2e.spell-effects.ROuGwXEvFznzGE9k]`|
 |[Spell Effect: Sweet Dream (Glamour)](spell-effects/01-MJSoRFfEdM4j5mNG.htm)|Effet : Doux rêve (Glamour)|`@Compendium[pf2e.spell-effects.MJSoRFfEdM4j5mNG]`|
@@ -6984,29 +6984,29 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Tempest Form (Mist)](spell-effects/06-HDKJAUXMbtxnBdgR.htm)|Effet : Forme tempêtueuse (Brume)|`@Compendium[pf2e.spell-effects.HDKJAUXMbtxnBdgR]`|
 |[Spell Effect: Tempest Form (Water)](spell-effects/06-C3RdbEQTvawqKAhw.htm)|Effet : Forme tempêtueuse (Eau)|`@Compendium[pf2e.spell-effects.C3RdbEQTvawqKAhw]`|
 |[Spell Effect: Tempt Fate](spell-effects/04-AJkRUIdYLnt4QOOg.htm)|Effet : Tenter le sort|`@Compendium[pf2e.spell-effects.AJkRUIdYLnt4QOOg]`|
-|[Spell Effect: Thicket of Knives](spell-effects/01-8ecGfjmxnBY3WWao.htm)|Effet: Multitude de couteaux|`@Compendium[pf2e.spell-effects.8ecGfjmxnBY3WWao]`|
-|[Spell Effect: Thundering Dominance](spell-effects/02-81TfqzTfIqkQA4Dy.htm)|Effet: Domination tonitruante|`@Compendium[pf2e.spell-effects.81TfqzTfIqkQA4Dy]`|
+|[Spell Effect: Thicket of Knives](spell-effects/01-8ecGfjmxnBY3WWao.htm)|Effet : Multitude de couteaux|`@Compendium[pf2e.spell-effects.8ecGfjmxnBY3WWao]`|
+|[Spell Effect: Thundering Dominance](spell-effects/02-81TfqzTfIqkQA4Dy.htm)|Effet : Domination tonitruante|`@Compendium[pf2e.spell-effects.81TfqzTfIqkQA4Dy]`|
 |[Spell Effect: Touch of Corruption](spell-effects/01-GhNVAYtoF5hK3AlD.htm)|Effet : Toucher de corruption|`@Compendium[pf2e.spell-effects.GhNVAYtoF5hK3AlD]`|
 |[Spell Effect: Traveler's Transit (Climb)](spell-effects/01-N1EM3jRyT8PCG1Py.htm)|Effet : Voyageur en transit (Escalade)|`@Compendium[pf2e.spell-effects.N1EM3jRyT8PCG1Py]`|
 |[Spell Effect: Traveler's Transit (Fly)](spell-effects/05-cTBYHfiXDOA09G4b.htm)|Effet : Voyageur en transit (Vol)|`@Compendium[pf2e.spell-effects.cTBYHfiXDOA09G4b]`|
 |[Spell Effect: Traveler's Transit (Swim)](spell-effects/01-0R42NyuEZMVALjQs.htm)|Effet : Voyageur en transit (Nage)|`@Compendium[pf2e.spell-effects.0R42NyuEZMVALjQs]`|
-|[Spell Effect: Triple Time](spell-effects/02-HtaDbgTIzdiTiKLX.htm)|Effet: À trois temps|`@Compendium[pf2e.spell-effects.HtaDbgTIzdiTiKLX]`|
-|[Spell Effect: Unusual Anatomy](spell-effects/05-LMzFBnOEPzDGzHg4.htm)|Effet: Anatomie étrange|`@Compendium[pf2e.spell-effects.LMzFBnOEPzDGzHg4]`|
-|[Spell Effect: Variable Gravity (High Gravity)](spell-effects/04-28NvrpZmELvyrHUt.htm)|Effet: Gravité variable (Gravité élevée)|`@Compendium[pf2e.spell-effects.28NvrpZmELvyrHUt]`|
-|[Spell Effect: Veil of Dreams](spell-effects/01-hkLhZsH3T6jc9S1y.htm)|Effet: Voile de rêves|`@Compendium[pf2e.spell-effects.hkLhZsH3T6jc9S1y]`|
+|[Spell Effect: Triple Time](spell-effects/02-HtaDbgTIzdiTiKLX.htm)|Effet : À trois temps|`@Compendium[pf2e.spell-effects.HtaDbgTIzdiTiKLX]`|
+|[Spell Effect: Unusual Anatomy](spell-effects/05-LMzFBnOEPzDGzHg4.htm)|Effet : Anatomie étrange|`@Compendium[pf2e.spell-effects.LMzFBnOEPzDGzHg4]`|
+|[Spell Effect: Variable Gravity (High Gravity)](spell-effects/04-28NvrpZmELvyrHUt.htm)|Effet : Gravité variable (Gravité élevée)|`@Compendium[pf2e.spell-effects.28NvrpZmELvyrHUt]`|
+|[Spell Effect: Veil of Dreams](spell-effects/01-hkLhZsH3T6jc9S1y.htm)|Effet : Voile de rêves|`@Compendium[pf2e.spell-effects.hkLhZsH3T6jc9S1y]`|
 |[Spell Effect: Vision of Weakness](spell-effects/02-70qdCBokXBvKIUIQ.htm)|Effet : Vision de faiblesse|`@Compendium[pf2e.spell-effects.70qdCBokXBvKIUIQ]`|
-|[Spell Effect: Warding Aggression (+1)](spell-effects/01-FR4ucNi2ceHZdrpB.htm)|Effet: Agression protectrice (+1)|`@Compendium[pf2e.spell-effects.FR4ucNi2ceHZdrpB]`|
-|[Spell Effect: Warding Aggression (+2)](spell-effects/01-n6NK7wqhTxWr3ij8.htm)|Effet: Agression protectrice (+2)|`@Compendium[pf2e.spell-effects.n6NK7wqhTxWr3ij8]`|
-|[Spell Effect: Warding Aggression (+3)](spell-effects/01-7zJPd2BsFl82qFRV.htm)|Effet: Agression protectrice (+3)|`@Compendium[pf2e.spell-effects.7zJPd2BsFl82qFRV]`|
+|[Spell Effect: Warding Aggression (+1)](spell-effects/01-FR4ucNi2ceHZdrpB.htm)|Effet : Agression protectrice (+1)|`@Compendium[pf2e.spell-effects.FR4ucNi2ceHZdrpB]`|
+|[Spell Effect: Warding Aggression (+2)](spell-effects/01-n6NK7wqhTxWr3ij8.htm)|Effet : Agression protectrice (+2)|`@Compendium[pf2e.spell-effects.n6NK7wqhTxWr3ij8]`|
+|[Spell Effect: Warding Aggression (+3)](spell-effects/01-7zJPd2BsFl82qFRV.htm)|Effet : Agression protectrice (+3)|`@Compendium[pf2e.spell-effects.7zJPd2BsFl82qFRV]`|
 |[Spell Effect: Weapon Surge](spell-effects/01-qlz0sJIvqc0FdUdr.htm)|Effet : Arme améliorée|`@Compendium[pf2e.spell-effects.qlz0sJIvqc0FdUdr]`|
 |[Spell Effect: Weapon Surge (Major Striking)](spell-effects/01-W0PjCMyGOpKAuyKX.htm)|Effet : Arme améliorée (Frappe majeure)|`@Compendium[pf2e.spell-effects.W0PjCMyGOpKAuyKX]`|
 |[Spell Effect: Wild Morph (Wild Claws)](spell-effects/01-Tdcv2q9zlXZBZRMT.htm)|Effet : Morphologie sauvage (Griffes)|`@Compendium[pf2e.spell-effects.Tdcv2q9zlXZBZRMT]`|
 |[Spell Effect: Wild Morph (Wild Jaws)](spell-effects/01-ND1Gfo1yJZ87Ia34.htm)|Effet : Morphologie sauvage (Mâchoires)|`@Compendium[pf2e.spell-effects.ND1Gfo1yJZ87Ia34]`|
 |[Spell Effect: Wild Morph (Wings)](spell-effects/01-hqe0hdGH1hvhcZyz.htm)|Effet : Métamorphose sauvage (Ailes)|`@Compendium[pf2e.spell-effects.hqe0hdGH1hvhcZyz]`|
-|[Spell Effect: Wild Shape](spell-effects/01-a5rWrWwuevTzs9Io.htm)|Effet: Morphologie sauvage|`@Compendium[pf2e.spell-effects.a5rWrWwuevTzs9Io]`|
+|[Spell Effect: Wild Shape](spell-effects/01-a5rWrWwuevTzs9Io.htm)|Effet : Morphologie sauvage|`@Compendium[pf2e.spell-effects.a5rWrWwuevTzs9Io]`|
 |[Spell Effect: Wind Jump](spell-effects/05-5MI2c9IgxfSeGZQo.htm)|Effet : Saut du vent|`@Compendium[pf2e.spell-effects.5MI2c9IgxfSeGZQo]`|
-|[Spell Effect: Zealous Conviction](spell-effects/06-nemThuhp3praALY6.htm)|Effet: Conviction zélée|`@Compendium[pf2e.spell-effects.nemThuhp3praALY6]`|
-|[Spell effect: Nudge the Odds](spell-effects/01-lTL5VwNrZ5xiitGV.htm)|Effet: Renforcer les chances|`@Compendium[pf2e.spell-effects.lTL5VwNrZ5xiitGV]`|
+|[Spell Effect: Zealous Conviction](spell-effects/06-nemThuhp3praALY6.htm)|Effet : Conviction zélée|`@Compendium[pf2e.spell-effects.nemThuhp3praALY6]`|
+|[Spell effect: Nudge the Odds](spell-effects/01-lTL5VwNrZ5xiitGV.htm)|Effet : Renforcer les chances|`@Compendium[pf2e.spell-effects.lTL5VwNrZ5xiitGV]`|
 
 
 ## Guide du MJ
@@ -7277,7 +7277,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Air Walk](spells/transmutation-04-b5sGjGlBf58f8jn0.htm)|Marche dans les airs|`@Compendium[pf2e.spells-srd.b5sGjGlBf58f8jn0]`|
 |[Airburst](spells/evocation-01-fprqWKUc0jnMIyGU.htm)|Explosion d'air|`@Compendium[pf2e.spells-srd.fprqWKUc0jnMIyGU]`|
 |[Alarm](spells/abjuration-01-4WAib3GichxLjp5p.htm)|Alarme|`@Compendium[pf2e.spells-srd.4WAib3GichxLjp5p]`|
-|[All is One, One is All](spells/necromancy-08-gtWxTfMbIN5RHQw6.htm)|Un est tout, tout est un|`@Compendium[pf2e.spells-srd.gtWxTfMbIN5RHQw6]`|
+|[All is One, One is All](spells/necromancy-08-gtWxTfMbIN5RHQw6.htm)|Un est tout, tout est Un|`@Compendium[pf2e.spells-srd.gtWxTfMbIN5RHQw6]`|
 |[Allegro](spells/enchantment-07-IQchIYUwbsVTa9Mc.htm)|Allégro|`@Compendium[pf2e.spells-srd.IQchIYUwbsVTa9Mc]`|
 |[Alter Reality](spells/divination-10-h8zxY9hTeHtWsBVW.htm)|Altérer la réalité|`@Compendium[pf2e.spells-srd.h8zxY9hTeHtWsBVW]`|
 |[Anathematic Reprisal](spells/enchantment-04-7tR29sQt35NfIWqN.htm)|Anathème et représailles|`@Compendium[pf2e.spells-srd.7tR29sQt35NfIWqN]`|
@@ -7602,7 +7602,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Enervation](spells/necromancy-04-eexkxcqnkXazsGfK.htm)|Affaiblissement|`@Compendium[pf2e.spells-srd.eexkxcqnkXazsGfK]`|
 |[Enhance Victuals](spells/transmutation-02-rdTEF1hfAWbN58NE.htm)|Amélioration des victuailles|`@Compendium[pf2e.spells-srd.rdTEF1hfAWbN58NE]`|
 |[Enlarge](spells/transmutation-02-wzctak6BxOW8xvFV.htm)|Agrandissement|`@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]`|
-|[Enlarge Companion](spells/transmutation-04-8rj45fKzCFcB0fxs.htm)|Compagnon aggrandi|`@Compendium[pf2e.spells-srd.8rj45fKzCFcB0fxs]`|
+|[Enlarge Companion](spells/transmutation-04-8rj45fKzCFcB0fxs.htm)|Compagnon agrandi|`@Compendium[pf2e.spells-srd.8rj45fKzCFcB0fxs]`|
 |[Entangle](spells/transmutation-02-J6vNvrUT3b1hx2iA.htm)|Enchevêtrement|`@Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]`|
 |[Enthrall](spells/enchantment-03-IihxWhRfpsBgQ5jS.htm)|Discours captivant|`@Compendium[pf2e.spells-srd.IihxWhRfpsBgQ5jS]`|
 |[Entrancing Eyes](spells/enchantment-07-Vw2CNwlRRKABsuZi.htm)|Yeux enchanteurs|`@Compendium[pf2e.spells-srd.Vw2CNwlRRKABsuZi]`|
@@ -7817,7 +7817,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Know the Enemy](spells/divination-04-l6zjNysNedpJcmDT.htm)|Connaître son ennemi|`@Compendium[pf2e.spells-srd.l6zjNysNedpJcmDT]`|
 |[Lament](spells/enchantment-01-T90ij2uu6ZaBaSXV.htm)|Lamentation|`@Compendium[pf2e.spells-srd.T90ij2uu6ZaBaSXV]`|
 |[Lay on Hands](spells/necromancy-01-zNN9212H2FGfM7VS.htm)|Imposition des mains|`@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]`|
-|[Lay on Hands (Vs. Undead)](spells/necromancy-01-IxyD7YdRbSSucxZp.htm)|Imposition des mains (contre un mort-vivant)|`@Compendium[pf2e.spells-srd.IxyD7YdRbSSucxZp]`|
+|[Lay on Hands (Vs. Undead)](spells/necromancy-01-IxyD7YdRbSSucxZp.htm)|Imposition des mains (sur un mort-vivant)|`@Compendium[pf2e.spells-srd.IxyD7YdRbSSucxZp]`|
 |[Legend Lore](spells/divination-07-hp6Q64dl7xbdn4gQ.htm)|Mythes et légendes|`@Compendium[pf2e.spells-srd.hp6Q64dl7xbdn4gQ]`|
 |[Leng Sting](spells/necromancy-07-QVMjPfXlpnmeuWKS.htm)|Piqûre de Leng|`@Compendium[pf2e.spells-srd.QVMjPfXlpnmeuWKS]`|
 |[Levitate](spells/evocation-03-fI20AVwOzJMHXRdo.htm)|Lévitation|`@Compendium[pf2e.spells-srd.fI20AVwOzJMHXRdo]`|
@@ -7859,7 +7859,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Magic Mouth](spells/illusion-02-eIQ86FOXK34HiNLs.htm)|Bouche magique|`@Compendium[pf2e.spells-srd.eIQ86FOXK34HiNLs]`|
 |[Magic Stone](spells/necromancy-01-9u6X9ykhzG11NK1n.htm)|Pierre magique|`@Compendium[pf2e.spells-srd.9u6X9ykhzG11NK1n]`|
 |[Magic Warrior Aspect](spells/transmutation-02-b6UnLNikoq2Std1f.htm)|Aspect du Guerrier Magique|`@Compendium[pf2e.spells-srd.b6UnLNikoq2Std1f]`|
-|[Magic Warrior Transformation](spells/transmutation-02-tp4K7mYDL5MRHvJc.htm)|Transformation du Guerrier magique|`@Compendium[pf2e.spells-srd.tp4K7mYDL5MRHvJc]`|
+|[Magic Warrior Transformation](spells/transmutation-02-tp4K7mYDL5MRHvJc.htm)|Transformation du guerrier magique|`@Compendium[pf2e.spells-srd.tp4K7mYDL5MRHvJc]`|
 |[Magic Weapon](spells/transmutation-01-TFitdEOpQC4SzKQQ.htm)|Arme magique|`@Compendium[pf2e.spells-srd.TFitdEOpQC4SzKQQ]`|
 |[Magic's Vessel](spells/enchantment-01-u4FGIUQgruLjml7J.htm)|Réceptacle magique|`@Compendium[pf2e.spells-srd.u4FGIUQgruLjml7J]`|
 |[Magical Fetters](spells/conjuration-03-2ZPqcM9wNoVnpwkK.htm)|Entraves magiques|`@Compendium[pf2e.spells-srd.2ZPqcM9wNoVnpwkK]`|
@@ -8065,7 +8065,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Resplendent Mansion](spells/conjuration-09-KPDHmmjJiw7PhTYF.htm)|Manoir resplendissant|`@Compendium[pf2e.spells-srd.KPDHmmjJiw7PhTYF]`|
 |[Rest Eternal](spells/necromancy-04-MTNlvZ0A9xY5sOg1.htm)|Repos éternel|`@Compendium[pf2e.spells-srd.MTNlvZ0A9xY5sOg1]`|
 |[Restoration](spells/necromancy-02-SnaLVgxZ9ryUFmUr.htm)|Restauration|`@Compendium[pf2e.spells-srd.SnaLVgxZ9ryUFmUr]`|
-|[Restorative Moment](spells/necromancy-05-pCvJ4yoZJxDtgUMI.htm)|Moment restauratif|`@Compendium[pf2e.spells-srd.pCvJ4yoZJxDtgUMI]`|
+|[Restorative Moment](spells/necromancy-05-pCvJ4yoZJxDtgUMI.htm)|Moment restoratif|`@Compendium[pf2e.spells-srd.pCvJ4yoZJxDtgUMI]`|
 |[Restore Senses](spells/necromancy-02-Et8RSCLx8w7uOLvo.htm)|Restaurer les sens|`@Compendium[pf2e.spells-srd.Et8RSCLx8w7uOLvo]`|
 |[Restyle](spells/transmutation-01-buhP7vfetUxQJlIJ.htm)|Relooking|`@Compendium[pf2e.spells-srd.buhP7vfetUxQJlIJ]`|
 |[Resurrect](spells/necromancy-05-kqhPt9344UkcGVYO.htm)|Résurrection|`@Compendium[pf2e.spells-srd.kqhPt9344UkcGVYO]`|

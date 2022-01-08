@@ -1,17 +1,16 @@
 # État de la traduction (boons-and-curses)
 
- * **libre**: 110
- * **changé**: 10
+ * **libre**: 111
+ * **changé**: 9
 
 
-Dernière mise à jour: 2022-01-02 07:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-08 15:20 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[1hdWNyedYvuZgtPr.htm](boons-and-curses/1hdWNyedYvuZgtPr.htm)|Pharasma - Moderate Curse|Pharasma - Malédiction modérée|changé|
 |[dZU3HdI2oO8LFjGq.htm](boons-and-curses/dZU3HdI2oO8LFjGq.htm)|Urgathoa - Major Boon|Urgathoa - Bénédiction majeure|changé|
 |[eVRjDKt0N0qSmpCn.htm](boons-and-curses/eVRjDKt0N0qSmpCn.htm)|Urgathoa - Major Curse|Urgathoa - Malédiction majeure|changé|
 |[fV0t8xagcbqwvTpQ.htm](boons-and-curses/fV0t8xagcbqwvTpQ.htm)|Asmodeus - Minor Boon|Asmodéus - Bénédiction mineure|changé|
@@ -28,6 +27,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[0PMqydlsIjj8GNnl.htm](boons-and-curses/0PMqydlsIjj8GNnl.htm)|Norgorber - Moderate Curse|Norgorber - Malédiction modérée|libre|
 |[0vmwZrIhm5rWHkYh.htm](boons-and-curses/0vmwZrIhm5rWHkYh.htm)|Pharasma - Minor Boon|Pharasma - Bénédiction mineure|libre|
+|[1hdWNyedYvuZgtPr.htm](boons-and-curses/1hdWNyedYvuZgtPr.htm)|Pharasma - Moderate Curse|Pharasma - Malédiction modérée|libre|
 |[1nALC8yWtjBDEaOC.htm](boons-and-curses/1nALC8yWtjBDEaOC.htm)|Rovagug - Minor Curse|Rovagug - Malédiction mineure|libre|
 |[2EKgNifq3ozzKYfI.htm](boons-and-curses/2EKgNifq3ozzKYfI.htm)|Norgorber - Minor Boon|Norgorber - Bénédiction mineure|libre|
 |[30Xdyvplx7MfX1nA.htm](boons-and-curses/30Xdyvplx7MfX1nA.htm)|Torag - Moderate Boon|Torag - Bénédiction modérée|libre|

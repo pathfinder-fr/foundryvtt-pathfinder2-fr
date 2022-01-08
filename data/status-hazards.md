@@ -1,22 +1,13 @@
 # État de la traduction (hazards)
 
- * **libre**: 4
+ * **libre**: 7
  * **officielle**: 20
- * **aucune**: 3
  * **changé**: 26
 
 
-Dernière mise à jour: 2022-01-02 07:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-08 15:20 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[4jAJh3cTLIgkqtou.htm](hazards/4jAJh3cTLIgkqtou.htm)|Malevolent Mannequins|
-|[mWhmhYBHH9X1Ebb9.htm](hazards/mWhmhYBHH9X1Ebb9.htm)|Insistent Privacy Fence|
-|[OSPYSuckHhHl4Cr9.htm](hazards/OSPYSuckHhHl4Cr9.htm)|Steam Vents|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -56,6 +47,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[1egK7HFAFdHxMS9N.htm](hazards/1egK7HFAFdHxMS9N.htm)|Sportlebore|Collembole|libre|
 |[2GAOUxDfoA48uCWP.htm](hazards/2GAOUxDfoA48uCWP.htm)|Fireball Rune|Rune de boule de feu|officielle|
 |[491qhVbjsHnOuMZW.htm](hazards/491qhVbjsHnOuMZW.htm)|Electric Latch Rune|Rune de loquet électrique|officielle|
+|[4jAJh3cTLIgkqtou.htm](hazards/4jAJh3cTLIgkqtou.htm)|Malevolent Mannequins|Mannequins malveillants|libre|
 |[4jJxLlimyQaIVXlt.htm](hazards/4jJxLlimyQaIVXlt.htm)|Darkside Mirror|Miroir aux sombres reflets|officielle|
 |[4O7wKZdeAemTEbvG.htm](hazards/4O7wKZdeAemTEbvG.htm)|Slamming Door|Claque-porte|officielle|
 |[8ewUvJlvn6LVjoXJ.htm](hazards/8ewUvJlvn6LVjoXJ.htm)|Second Chance|Deuxième chance|officielle|
@@ -75,4 +67,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[J4YChuob7MIPT5Mq.htm](hazards/J4YChuob7MIPT5Mq.htm)|Vorpal Executioner|Bourreau vorpal|officielle|
 |[LLPsEKLoVmoPleJS.htm](hazards/LLPsEKLoVmoPleJS.htm)|Green Slime|Substance gluante verte|libre|
 |[lVqVDjXnHboMif7F.htm](hazards/lVqVDjXnHboMif7F.htm)|Poisoned Dart Gallery|Couloir de fléchettes empoisonnées|officielle|
+|[mWhmhYBHH9X1Ebb9.htm](hazards/mWhmhYBHH9X1Ebb9.htm)|Insistent Privacy Fence|Clôture de propriété privée insistante|libre|
 |[Or0jjL8xS3GyiMq0.htm](hazards/Or0jjL8xS3GyiMq0.htm)|Web Lurker Noose|Toile de noeuds coulants|libre|
+|[OSPYSuckHhHl4Cr9.htm](hazards/OSPYSuckHhHl4Cr9.htm)|Steam Vents|Jets de vapeur|libre|

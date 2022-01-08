@@ -45,6 +45,13 @@
             "routine": "<p>(2 actions). À son tour lors du décompte de l’initiative, le piège utilise sa première action pour tourner, puis elle s’arrête. Lancez 1d6 pour déterminer quel segment se retrouve en haut lorsqu’elle s’arrête de tourner. La roue utilise sa deuxième action pour reproduire les effets du sort correspondant au segment (niveau 3, DD 24, jet d’attaque de sort +14). Le sort prend pour cible la créature la plus proche ou centre sa zone d’effet sur celle-ci. La portée du sort passe à 30 mètres, si nécessaire. Tous les sorts lancés par ce piège sont arcaniques.</p>\n<p><b>1</b> @Compendium[pf2e.spells-srd.o4lRVTwSxnOOn5vl]{Sommeil}</p>\n<p><b>2</b> @Compendium[pf2e.spells-srd.DCQHaLrYXMI37dvW]{Paralysie}</p>\n<p><b>3</b> @Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Éclair} (ligne de 30 mètres)</p>\n<p><b>4</b> @Compendium[pf2e.spells-srd.VosLNn2M8S7JH67D]{Cécité}</p>\n<p><b>5</b> @Compendium[pf2e.spells-srd.f8hRqLJaxBVhF1u0]{Flèche acide}</p>\n<p><b>6</b> @Compendium[pf2e.spells-srd.J7Y7tl0bbdz7TcCc]{Rayon d'affaiblissement}</p>"
         },
         {
+            "id": "Insistent Privacy Fence",
+            "name": "Insistent Privacy Fence (Clôture de propriété privée insistante)",
+            "description": "<p>Un tronçon de clôture est électrifié par une bobine stasienne cachée.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-traits=\"electricity,hazard,trap,mechanical\" data-pf2-label=\"DD Déconnecter la bobine de la clôture\" data-pf2-dc=\"28\" data-pf2-show-dc=\"gm\">Vol</span> (expert) pour soigneusement déconnecter la bobine de la clôture ou <span data-pf2-check=\"crafting\" data-pf2-traits=\"electricity,hazard,trap,mechanical\" data-pf2-label=\"DD pour une mise à la terre\" data-pf2-dc=\"30\" data-pf2-show-dc=\"gm\">Artisanat</span> (maître) pour monter un dispositif de mise à la terre pour annuler le choc</p>",
+            "reset": "<p>Le piège se désactive et se remet à zéro après 1 minute.</p>"
+        },
+        {
             "id": "Dance Of Death",
             "name": "Dance Of Death (Danse de mort)",
             "description": "<p>Un orchestre inquiétant oblige tous ceux qui l'entendent à danser jusqu'à ce qu'ils tombent de fatigue.</p>"
@@ -136,6 +143,12 @@
             "id": "Bottomless Pit",
             "name": "Bottomless Pit (Trappe sans fond)",
             "description": "<p> Une trappe de fer recouvre une fosse sans fond de 3 m de côté.</p>"
+        },
+        {
+            "id": "Steam Vents",
+            "name": "Steam Vents (Jets de vapeur)",
+            "description": "<p>De gros tubes sous pression liés au fil déclencheur sont réglés pour libérer une explosion de vapeur sur les intrus.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-traits=\"mechanical,trap,hazard\" data-pf2-label=\"DD Déconnecter le fil déclencheur\" data-pf2-dc=\"22\" data-pf2-show-dc=\"gm\">Vol (qualifié)</span> pour déconnecter le fil décelncheur ou <span data-pf2-check=\"crafting\" data-pf2-traits=\"mechanical,trap,hazard\" data-pf2-label=\"DD Réduire la pression\" data-pf2-dc=\"24\" data-pf2-show-dc=\"gm\">Artisanat (expert)</span> pour soigneusement réduire la pression et prévenir l'explosion</p>"
         },
         {
             "id": "Spectral Reflection",
@@ -251,6 +264,14 @@
             "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour effacer la rune\" data-pf2-dc=\"27\" data-pf2-show-dc=\"gm\">Vol</span> DD 27 (Expert) pour démanteler une nuée télékinésique ; <span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour désamorcer chaque élément décoratif télékinésique\" data-pf2-dc=\"32\" data-pf2-show-dc=\"gm\">Vol</span> (Maitre) DD 32 ou @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} (Niveau 6, contre DD 30) pour contrer chaque élément décoratif télékinésique.</p>",
             "reset": "<p>Le piège se désactive et se réinitialise au bout de 10 minutes s’il n’a aucune créature à prendre pour cible (parce qu’elles se sont trop éloignées ou sont mortes).</p>",
             "routine": "<p>(9 actions) Chaque élément décoratif utilise 3 des actions du piège chaque tour et celui-ci perd 3 actions chaque tour pour chaque élément décoratif désamorcé. Un élément décoratif utilise sa première action pour déplacer sa nuée d’objets de 60 mètres au maximum, sa deuxième action pour que les objets Frappent et sa troisième action pour ajouter plus d’objets à la nuée, ce qui augmente ses dégâts de 1d12 (jusqu’à un maximum de 4d12+10). Si les dégâts d’une nuée sont déjà au maximum, l’élément décoratif qui contrôle cette nuée ne fait rien avec sa troisième action.</p>\n<p>Si la nuée d’un élément décoratif est détruite, l’élément décoratif qui la contrôle utilise à la place sa première action pour créer une nouvelle nuée d’objets à l’intérieur de la pièce (en utilisant la valeur de dégâts de départ), puis sa deuxième et troisième actions pour déplacer la nuée et la faire attaquer.</p>"
+        },
+        {
+            "id": "Malevolent Mannequins",
+            "name": "Malevolent Mannequins (Mannequins malveillants)",
+            "description": "<p>Une foule d'esprits violents possède trois mannequins mécaniques et chacun d'entre eux s'en prend à toute créature qui ose s'approcher.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-traits=\"clockwork,haunt,mechanical,hazard\" data-pf2-label=\"DD Gripper les mécanismes du mannequin\" data-pf2-dc=\"37\" data-pf2-show-dc=\"gm\">Vol (maître)</span> pour gripper les mécanismes d'un mannequinou <span data-pf2-check=\"religion\" data-pf2-traits=\"clockwork,haunt,mechanical,hazard\" data-pf2-label=\"DD Exorciser un esprit d'un mannequin\" data-pf2-dc=\"35\" data-pf2-show-dc=\"gm\">Religion (expert)</span> deux fois pour exorciser un esprit d'un mannequin.</p>",
+            "reset": "<p>L'apparitition se désactive lorsqu'il n'y a plus de créatures cibles et se remet en position, habituellement en 1 round, le temps que les mannequins reviennent à leurs positions originelles. Si un mannequin est à plus de 45 m de sa position originelle, il faut plus longtemps à l'apparitition pour se réinitialiser, le temps que le mannequin recule de 45 m à chaque round.</p>",
+            "routine": "<p><strong>Routine</strong> (9 actions) Chacun des mannequins utilise trois des actions de l'apparition à chaque tour et l'apparition perd trois actions à chaque tour pour chaque mannequin désamorcé ou détruit. Chaque mannequin utilise sa première action pour Marcher rapidement de 15 m et ses actions suivantes pour faire deux Frappes de poing du mannequin. Chacun d'eux possède ses propres pénalités d'attaques multiples.</p>"
         },
         {
             "id": "Planar Rift",

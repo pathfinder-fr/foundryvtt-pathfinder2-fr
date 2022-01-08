@@ -64,7 +64,7 @@
         {
             "id": "Rainfall Orc",
             "name": "Rainfall Orc (Orque des moussons)",
-            "description": "<p>Vous êtes né dans une forêt humide avec seulement des enchevêtrements d'arbres pour vous protéger des pluies torrentielles et des inondations brutales. Vous avez appris à vous déplacer de manière athlétique à travers la jungle et à résister aux diverses plaies communes en milieu humide.</p>\n<p>Vous obtenez un bonus de circonstances de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimper} ou @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} et un bonus de circonstances de +1 aux jets de sauvegarde contre les maladies.</p>"
+            "description": "<p>Vous êtes né dans une forêt humide avec uniquement la canopée pour vous protéger des pluies torrentielles et des inondations brutales. Vous avez appris à vous déplacer de manière athlétique à travers la jungle et à résister aux diverses plaies communes en milieu humide.</p>\n<p>Vous obtenez un bonus de circonstances de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimper} ou @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} et un bonus de circonstances de +1 aux jets de sauvegarde contre les maladies.</p>"
         },
         {
             "id": "Deep Fetchling (Negative)",
@@ -114,7 +114,7 @@
         {
             "id": "Dark Fields Kitsune",
             "name": "Dark Fields Kitsune (Kitsune Champs sombres)",
-            "description": "<p>Vous pouvez employer votre présence perturbante pour Démoraliser subtilement autrui. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous tentez de Démoraliser une créature qui ne comprend pas votre langue. Vous obtenez aussi la réaction @Compendium[pf2e.actionspf2e.Ul4I0ER6pj3U5eAk]{Peur revigorante}. Votre forme alternative est un renard qui possède les statistiques de @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible} au niveau 1.</p>"
+            "description": "<p>Vous pouvez employer votre présence perturbante pour Démoraliser subtilement autrui. Lorsque vous le faites, Démoraliser perd le trait audible et obtient le trait visuel et vous ne subissez pas de pénalité lorsque vous tentez de Démoraliser une créature qui ne comprend pas votre langue. Vous obtenez aussi la réaction <em>@Compendium[pf2e.actionspf2e.Ul4I0ER6pj3U5eAk]{Peur revigorante}</em>. Votre forme alternative est un renard qui possède les statistiques de <em>@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible}</em> au niveau 1.</p>"
         },
         {
             "id": "Warrior Automaton",
@@ -154,7 +154,7 @@
         {
             "id": "Vigilant Goloma",
             "name": "Vigilant Goloma (Goloma vigilant)",
-            "description": "<p>Vous avez appris à être conscient non seulement des dangers physiques évidents, mais aussi des menaces magiques perceptibles. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie} comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau égal à la moitié de votre niveau arrondi à l'entier supérieur. De plus, votre conscience vous permet de remarquer les pièges magiques plus facilement que les autres. Votre rang de maîtrise en Perception est considéré comme d'un cran supérieur lorsque vous tentez de détecter des pièges magiques. (qualifié est considéré comme expert, expert comme maître et maître comme légendaire).</p>"
+            "description": "<p>Vous avez appris à être conscient non seulement des dangers physiques évidents, mais aussi des menaces magiques perceptibles. Vous pouvez lancer le tour de magie <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie}</em> comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau égal à la moitié de votre niveau arrondi à l'entier supérieur. De plus, votre conscience vous permet de remarquer les pièges magiques plus facilement que les autres. Votre maîtrise en Perception est considéré comme d'un cran supérieur lorsque vous tentez de détecter des pièges magiques. (qualifié est considéré comme expert, expert comme maître et maître comme légendaire).</p>"
         },
         {
             "id": "Deep Fetchling (Cold)",
@@ -234,7 +234,7 @@
         {
             "id": "Witch Gnoll",
             "name": "Witch Gnoll (Gnoll sorcier)",
-            "description": "<p>Vous êtes un gnoll hirsute à la fourrure sombre capable de produire des sons vraiment étranges. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{Son fantômatique} comme un sort inné occulte à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l'entier supérieur. De plus, vous gagnez un bonus de circonstances de +1 aux tests pour vous Déguiser et pour Faire diversion lorsque vous utilisez uniquement votre voix.</p>"
+            "description": "<p>Vous êtes un gnoll hirsute à la fourrure sombre capable de produire des sons vraiment étranges. Vous pouvez lancer le tour de magie <em>@Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{Son fantômatique}</em> comme un sort inné occulte à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l'entier supérieur. De plus, vous gagnez un bonus de circonstances de +1 aux tests pour vous Déguiser et pour Faire diversion lorsque vous utilisez uniquement votre voix.</p>"
         },
         {
             "id": "Ant Gnoll",
@@ -249,7 +249,7 @@
         {
             "id": "Earthly Wilds Kitsune",
             "name": "Earthly Wilds Kitsune (Kitsune des étendues sauvages terrestres)",
-            "description": "<p>Vous être une créature du monde matériel, avec une affinité plus proches des étendues sauvages que celle de la société urbaine. Vous obtenez une attaque de mâchoires à mains nues qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}. Vos mâchoires sont dans le groupe pugilat et possèdent le trait finesse et à mains nues. Votre forme alternative est celle d'un renard, qui possède les statistiques d'un sort de @Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible} de niveau 1.</p>"
+            "description": "<p>Vous être une créature du monde matériel, avec une affinité plus proches des étendues sauvages que celle de la société urbaine. Vous obtenez une attaque de mâchoires à mains nues qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Vos mâchoires sont dans le groupe pugilat et possèdent le trait finesse et à mains nues. Votre forme alternative est celle d'un renard, qui possède les statistiques d'un sort de <em>@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Forme de nuisible}</em> de niveau 1.</p>"
         },
         {
             "id": "Versatile Heritage",
@@ -299,7 +299,7 @@
         {
             "id": "Seer Elf",
             "name": "Seer Elf (Elfe visionnaire)",
-            "description": "<p>Vous avez le pouvoir inné de détecter et comprendre les phénomènes magiques. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie} comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur.</p>\n<p>En outre, vous gagnez un bonus de circonstances de +1 à vos tests pour @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifier la magie} et @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Déchiffrer un texte} de nature magique. Ces actions font généralement appel aux compétences Arcanes, Nature, Occultisme ou Religion.</p>"
+            "description": "<p>Vous avez le pouvoir inné de détecter et comprendre les phénomènes magiques. Vous pouvez lancer le tour de magie <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Détection de la magie}</em> comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur.</p>\n<p>En outre, vous obtenez un bonus de circonstances de +1 à vos tests pour @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifier la magie} et @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Déchiffrer un texte} de nature magique. Ces actions font généralement appel aux compétences Arcanes, Nature, Occultisme ou Religion.</p>"
         },
         {
             "id": "Tailed Goblin",
@@ -309,7 +309,7 @@
         {
             "id": "Hydration",
             "name": "Hydration (Hydratation)",
-            "description": "<p>Bien que vous soyez amphibie et également à l'aise sur terre que dans l'eau, votre corps nécessite que vous retourniez dans les environnements aquatiques au moins une fois par 24 heures. Vous devez vous immerger totalement dans l'eau en vue de réhydrater votre peu acclimatée à l'eau.</p>\n<p>Si vous ne parvenez pas à le faire, votre peau commence à se craqueler et vos ouïes deviennent douloureuses. Après les premières 24 heures hors de l'eau, vous subissez une pénalité de statut de –1 aux jets de Vigueur. Après 48 heures, vous luttez pour respirer de l'air et commencez à suffoquer jusqu'à ce que vous retourniez dans l'eau.</p>\n<p>@Compendium[pf2e.feature-effects.Q5FUu7yhWPJlcXei]{Effet: Hydratation}</p>"
+            "description": "<p>Bien que vous soyez amphibie et également à l'aise sur terre que dans l'eau, votre corps nécessite que vous retourniez dans les environnements aquatiques au moins une fois par 24 heures. Vous devez vous immerger totalement dans l'eau en vue de réhydrater votre peu acclimatée à l'eau.</p>\n<p>Si vous ne parvenez pas à le faire, votre peau commence à se craqueler et vos ouïes deviennent douloureuses. Après les premières 24 heures hors de l'eau, vous subissez une pénalité de statut de –1 aux jets de Vigueur. Après 48 heures, vous luttez pour respirer de l'air et commencez à suffoquer jusqu'à ce que vous retourniez dans l'eau.</p>\n<p>@Compendium[pf2e.feature-effects.Q5FUu7yhWPJlcXei]{Effet : Hydratation}</p>"
         },
         {
             "id": "Liminal Fetchling",
@@ -364,7 +364,7 @@
         {
             "id": "Mountainkeeper Tengu",
             "name": "Mountainkeeper Tengu (Tengu gardemontagne)",
-            "description": "<p>Vous descendez d'une lignée d'ascètes tengus, vous ayant transmis un lien avec les esprits du monde et du Grand au-delà. Vous pouvez lancer le tour de magie @Compendium[pf2e.spells-srd.kcelf6IHl3L9VXXg]{Destruction de mort-vivant} comme un sort primordial inné à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>\n<p>Chaque fois que vous lancez un sort d'ascendance tengu ou lié à un don d'ascendance, vous pouvez décider s'il s'agit d'un sort divin ou primordial.</p>"
+            "description": "<p>Vous descendez d'une lignée d'ascètes tengus, vous ayant transmis un lien avec les esprits du monde et du Grand au-delà. Vous pouvez lancer le tour de magie <em>@Compendium[pf2e.spells-srd.kcelf6IHl3L9VXXg]{Destruction de mort-vivant}</em> comme un sort primordial inné à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>\n<p>Chaque fois que vous lancez un sort provenant d'un héritage tengu ou lié à un don ancestral, vous pouvez décider s'il s'agit d'un sort divin ou primordial.</p>"
         },
         {
             "id": "Aasimar",
@@ -449,7 +449,7 @@
         {
             "id": "Spined Azarketi",
             "name": "Spined Azarketi (Azarketi épineux)",
-            "description": "<p>Vos nageoires masquent des épines toxiques que vous pouvez jeter. Vous avez une attaque à mains nues à distance d'épine avec le trait à mains nues qui inflige [[/r 1d4 #poison]]{1d4 dégâts de poison}, possède un facteur de portée de 3 m et est dans le groupe d'armes des fléchettes.</p>"
+            "description": "<p>Vos nageoires masquent des épines toxiques que vous pouvez jeter. Vous avez une attaque à mains nues à distance d'épine avec le trait à mains nues qui inflige [[/r {1d4}[poison]]]{1d4 dégâts de poison}, possède un facteur de portée de 3 m et est dans le groupe d'armes des fléchettes.</p>"
         },
         {
             "id": "Arctic Elf",
@@ -544,7 +544,7 @@
         {
             "id": "Predator Strix",
             "name": "Predator Strix (Strix prédateur)",
-            "description": "<p>Vous provenez d'une lignée de strix avec des ailes exceptionnellement grandes et de longs ergots. Vous obtenez une attaque à mains nues d'ergots qui inflige [[/r 1d4 #tranchants]]{1d4 dégâts tranchants}. Vos attaques d'ergots sont dans le groupe pugilat et ont les traits agile, finesse et à mains nues.</p>"
+            "description": "<p>Vous provenez d'une lignée de strix avec des ailes exceptionnellement grandes et de longs ergots. Vous obtenez une attaque à mains nues d'ergots qui inflige [[/r {1d4}[slashing]]]{1d4 dégâts tranchants}. Vos attaques d'ergots font partie du groupe pugilat et ont les traits agile, finesse et à mains nues.</p>"
         },
         {
             "id": "Plant Nourishment",
@@ -909,7 +909,7 @@
         {
             "id": "Undine",
             "name": "Undine (Ondin)",
-            "description": "<p>Un ancêtre élémentaire d'eau influence votre lignage. Vous obtenez le trait ondin, en plus des traits de votre ascendance. Vous obtenez une vitesse de Nage de 3 m et le trait amphibie. Comme toutes les créatures avec le trait amphibie, vous pouvez respirer l'air et l'eau. Vous pouvez choisir les dons d'ondin et les dons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons ancestraux des descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don ancestral et vous obtenez un don ancestral supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons ancestraux des descendants de génie, ceux de votre héritage ondin et ceux de votre ascendance.</p>"
+            "description": "<p>Un ancêtre élémentaire d'eau influence votre lignage. Vous obtenez le trait ondin, en plus des traits de votre ascendance. Vous obtenez une vitesse de Nage de 3 m et le trait amphibie. Comme toutes les créatures avec le trait amphibie, vous pouvez respirer l'air et l'eau. Vous pouvez choisir les dons d'ondin et les dons de votre ascendance lorsque vous obtenez un don ancestral.</p>\n<hr />\n<h3>Dons ancestraux des descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don ancestral et vous obtenez un don ancestral supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons ancestraux des descendants de génie, ceux de votre héritage ondin et ceux de votre ascendance.</p>"
         },
         {
             "id": "Rite of Invocation",
@@ -994,7 +994,7 @@
         {
             "id": "Taloned Tengu",
             "name": "Taloned Tengu (Tengu à ergots)",
-            "description": "<p>Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque à mains nues d'ergot qui inflige [[/r 1d4 #tranchants]]{1d4 dégâts tranchants}. Vos ergots font partie du groupe pugilat et possèdent les traits agile, finesse, à mains nues et polyvalent perforant.</p>"
+            "description": "<p>Vos ergots sont aussi durs et costauds que votre bec. Vous obtenez une attaque à mains nues d'ergot qui inflige [[/r {1d4}[slashing]]]{1d4 dégâts tranchants}. Vos ergots font partie du groupe pugilat et possèdent les traits agile, finesse, à mains nues et polyvalent perforant.</p>"
         },
         {
             "id": "Dragonscaled Kobold (Copper)",
@@ -1054,12 +1054,12 @@
         {
             "id": "Greater Darkvision",
             "name": "Greater Darkvision (Vision dans le noir supérieure)",
-            "description": "<p>Vous pouvez voir dans l'obscurité et dans la lumière faible juste aussi bien que dans la lumière vive, bien que votre vision dans l'obscurité soit en noir et blanc. Certaines formes d'obscurité magique tel que le sort de niveau 4 @Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Obscurité} bloque la @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}. Vous, quoi qu'il en soit, pouvez voir même au travers de ces formes d'obscurité magique.</p>"
+            "description": "<p>Vous pouvez voir dans l'obscurité et dans la lumière faible juste aussi bien que dans la lumière vive, bien que votre vision dans l'obscurité soit en noir et blanc. Certaines formes d'obscurité magique tel que le sort de niveau 4 <em>@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Ténèbres}</em> bloque la @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}. Vous, quoi qu'il en soit, pouvez voir même au travers de ces formes de ténèbres magiques.</p>"
         },
         {
             "id": "Bright Fetchling",
             "name": "Bright Fetchling (Fetchelin lumineux)",
-            "description": "<p>Votre corps est la preuve que l'ombre ne peut exister sans lumière. Peut-être que vos yeux brillent plus fort ou que vos veines émettent à l'occasion de la lumière. Vous émettez une lumière faible à 1,5 m autour de vous. Vous pouvez activer ou supprimer cette faculté par une action qui possède le trait concentration. De plus, vous pouvez forcer des fragments de votre ombre à briller et à lancer @Compendium[pf2e.spells-srd.kl2q6JvBZwed4B6v]{Lumières dansantes} et @Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]{Lumière} comme des tours de magie occultes innés. Les tours de magie sont intensifiés à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>"
+            "description": "<p>Votre corps est la preuve que l'ombre ne peut exister sans lumière. Peut-être que vos yeux brillent plus fort ou que vos veines émettent à l'occasion de la lumière. Vous émettez une lumière faible à 1,5 m autour de vous. Vous pouvez activer ou supprimer cette faculté par une action qui possède le trait concentration. De plus, vous pouvez forcer des fragments de votre ombre à briller et à lancer <em>@Compendium[pf2e.spells-srd.kl2q6JvBZwed4B6v]{Lumières dansantes}</em> et <em>@Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]{Lumière}</em> comme des tours de magie occultes innés. Les tours de magie sont intensifiés à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.</p>"
         },
         {
             "id": "Ancient Elf",
@@ -1069,7 +1069,7 @@
         {
             "id": "Vicious Goloma",
             "name": "Vicious Goloma (Goloma vicieux)",
-            "description": "<p>La chitine sur vos mains forme des griffes puissantes qui vous permettent de vous défendre. Vous gagnez une attaque à mains nues de griffe qui inflige [[/r 1d6 #tranchants]]{1d6 dégâts tranchants}. Vos griffes font partie du groupe pugilat et possèdent les traits agile, finesse et à mains nues.</p>"
+            "description": "<p>La chitine sur vos mains forme des griffes puissantes qui vous permettent de vous défendre. Vous gagnez une attaque à mains nues de griffe qui inflige [[/r {1d6}[slashing]]]{1d6 dégâts tranchants}. Vos griffes font partie du groupe pugilat et possèdent les traits agile, finesse et à mains nues.</p>"
         },
         {
             "id": "Death Warden Dwarf",

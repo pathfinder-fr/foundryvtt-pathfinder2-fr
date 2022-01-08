@@ -1,25 +1,17 @@
 # État de la traduction (actions)
 
  * **officielle**: 107
- * **libre**: 131
- * **changé**: 26
- * **aucune**: 1
+ * **libre**: 133
+ * **changé**: 25
 
 
-Dernière mise à jour: 2022-01-02 07:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-08 15:20 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[VNuOwXIHafSLHvsZ.htm](actions/VNuOwXIHafSLHvsZ.htm)|Spellsling|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[0XiPnnxKHWKFg1tN.htm](actions/0XiPnnxKHWKFg1tN.htm)|Breath Weapon (Piercing) (Cone)|Arme de souffle perforante (cône)|changé|
 |[3UEwtMA5y8foVqYP.htm](actions/3UEwtMA5y8foVqYP.htm)|Breath Weapon (Electricity) (Line)|arme de souffle électrique (ligne)|changé|
 |[5Vuhf4DjvMvRqiEZ.htm](actions/5Vuhf4DjvMvRqiEZ.htm)|Breath Weapon (Negative) (Cone)|Arme de souffle négative (cône)|changé|
 |[8aIe57gXJ94mPpW4.htm](actions/8aIe57gXJ94mPpW4.htm)|Anadi Venom|Venin anadi|changé|
@@ -53,6 +45,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[00LNVSCbwJ8pszwE.htm](actions/00LNVSCbwJ8pszwE.htm)|Mutagenic Flashback|Flashback du mutagène|officielle|
 |[06frwOOuo4HJtivl.htm](actions/06frwOOuo4HJtivl.htm)|Furious Strike|Frappe furieuse|libre|
 |[0b3TTeQGFOiy6ykz.htm](actions/0b3TTeQGFOiy6ykz.htm)|Change Shape (Beastkin)|Changer de forme (Beastkin)|libre|
+|[0XiPnnxKHWKFg1tN.htm](actions/0XiPnnxKHWKFg1tN.htm)|Breath Weapon (Piercing) (Cone)|Arme de souffle perforante (cône)|libre|
 |[1kGNdIIhuglAjIp9.htm](actions/1kGNdIIhuglAjIp9.htm)|Treat Wounds|Soigner les blessures|officielle|
 |[1OagaWtBpVXExToo.htm](actions/1OagaWtBpVXExToo.htm)|Recall Knowledge (Lore)|Se souvenir (Connaissance)|officielle|
 |[1xRFPTFtWtGJ9ELw.htm](actions/1xRFPTFtWtGJ9ELw.htm)|Sense Motive|Deviner les intentions|officielle|
@@ -262,6 +255,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vdnuczo4ktS7ow7N.htm](actions/vdnuczo4ktS7ow7N.htm)|Prophecy's Pawn|Pion de prophétie|libre|
 |[VjxZFuUXrCU94MWR.htm](actions/VjxZFuUXrCU94MWR.htm)|Strike|Frapper|officielle|
 |[VMozDqMMuK5kpoX4.htm](actions/VMozDqMMuK5kpoX4.htm)|Sneak|Être furtif|officielle|
+|[VNuOwXIHafSLHvsZ.htm](actions/VNuOwXIHafSLHvsZ.htm)|Spellsling|Envoi de sort|libre|
 |[vO0Y1dVjNfbDyT4S.htm](actions/vO0Y1dVjNfbDyT4S.htm)|Vital Shot|Tir vital|libre|
 |[VOEWhPQfN3lvHivK.htm](actions/VOEWhPQfN3lvHivK.htm)|Foresight|Prémonition|libre|
 |[vvYsE7OiSSCXhPdr.htm](actions/vvYsE7OiSSCXhPdr.htm)|Set Explosives|Placer des explosifs|libre|
