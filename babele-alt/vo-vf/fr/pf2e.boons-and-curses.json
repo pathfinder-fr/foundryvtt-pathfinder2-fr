@@ -394,7 +394,7 @@
         {
             "id": "Zon-Kuthon - Moderate Curse",
             "name": "Zon-Kuthon - Moderate Curse (Zon-Kuthon - Malédiction modérée)",
-            "description": "<p><strong>Malédiction modérée</strong> Vous partagez la douleur des autres et même des blessures mineures vous prcurent une douleur incroyable.</p>\n<p>À chaque fois que vous voyez (ou sentez) qu'une créature subit des blessures, vous subissez [[/r 1d6 #mentaux]]{1d6 dégâts mentaux}.</p>\n<p>Chaque fois que vous subissez des dégâts autrement que par la première partie de cette malédiction, vous prenez [[/r 1d6 #mentaux]]{1d6 dégâts mentaux} dus à une douleur accrue et êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1.</p>\n<p>Les dégâts mentaux de cette malédiction ignorent toute résistance aux dégâts mentaux que vous pouvez posséder.</p>"
+            "description": "<p><strong>Malédiction modérée</strong> Vous partagez la douleur des autres et même des blessures mineures vous prcurent une douleur incroyable.</p>\n<p>À chaque fois que vous voyez (ou sentez) qu'une créature subit des blessures, vous subissez [[/r {1d6}[mental]]]{1d6 dégâts mentaux}.</p>\n<p>Chaque fois que vous subissez des dégâts autrement que par la première partie de cette malédiction, vous prenez [[/r {1d6}[mental]]]{1d6 dégâts mentaux} dus à une douleur accrue et êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1.</p>\n<p>Les dégâts mentaux de cette malédiction ignorent toute résistance aux dégâts mentaux que vous pouvez posséder.</p>"
         },
         {
             "id": "Lamashtu - Major Boon",

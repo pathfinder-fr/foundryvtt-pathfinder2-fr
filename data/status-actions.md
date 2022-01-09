@@ -1,42 +1,27 @@
 # État de la traduction (actions)
 
  * **officielle**: 107
- * **libre**: 133
- * **changé**: 25
+ * **libre**: 148
+ * **changé**: 10
 
 
-Dernière mise à jour: 2022-01-08 15:20 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-09 15:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[3UEwtMA5y8foVqYP.htm](actions/3UEwtMA5y8foVqYP.htm)|Breath Weapon (Electricity) (Line)|arme de souffle électrique (ligne)|changé|
-|[5Vuhf4DjvMvRqiEZ.htm](actions/5Vuhf4DjvMvRqiEZ.htm)|Breath Weapon (Negative) (Cone)|Arme de souffle négative (cône)|changé|
-|[8aIe57gXJ94mPpW4.htm](actions/8aIe57gXJ94mPpW4.htm)|Anadi Venom|Venin anadi|changé|
-|[90fHUm0HGZFAbG1K.htm](actions/90fHUm0HGZFAbG1K.htm)|Breath Weapon (Fire) (Line)|Arme de souffle de feu (Ligne)|changé|
-|[auOTjKr8gB1dqFh4.htm](actions/auOTjKr8gB1dqFh4.htm)|Breath Weapon (Cold) (Cone)|Arme de souffle de froid (cône)|changé|
-|[AWXPiqz4xDN03iPs.htm](actions/AWXPiqz4xDN03iPs.htm)|Breath Weapon (Poison) (Line)|Arme de souffle empoisonné (Ligne)|changé|
-|[b6CanpXyUKJgxEwq.htm](actions/b6CanpXyUKJgxEwq.htm)|Salt Wound|Saler une blessure|changé|
-|[EmFzFAwgQ0lJZwba.htm](actions/EmFzFAwgQ0lJZwba.htm)|Breath Weapon (Negative) (Line)|Arme de souffle négative (Ligne)|changé|
-|[grkggNQnOxWWsjBH.htm](actions/grkggNQnOxWWsjBH.htm)|Breath Weapon (Cold) (Line)|Arme de souffle de froid (Ligne)|changé|
+|[EmFzFAwgQ0lJZwba.htm](actions/EmFzFAwgQ0lJZwba.htm)|Breath Weapon (Negative) (Line)|Arme de souffle négative (ligne)|changé|
 |[HbejhIywqIufrmVM.htm](actions/HbejhIywqIufrmVM.htm)|Arcane Cascade|Cascade arcanique|changé|
 |[HCl3pzVefiv9ZKQW.htm](actions/HCl3pzVefiv9ZKQW.htm)|Aid|Aider|changé|
 |[I75R9NSfsVrit6cU.htm](actions/I75R9NSfsVrit6cU.htm)|Cram|Bachoter|changé|
-|[JqThDeWlGobiAPJd.htm](actions/JqThDeWlGobiAPJd.htm)|Breath Weapon (Fire) (Cone)|Arme de souffle de feu (cône)|changé|
 |[kKKHwVUnroKuAnOt.htm](actions/kKKHwVUnroKuAnOt.htm)|Toxic Skin|Peau toxique|changé|
-|[LfsQy2T8GjpuMqAh.htm](actions/LfsQy2T8GjpuMqAh.htm)|Breath Weapon (Electricity) (Cone)|Arme de souffle électrique (cône)|changé|
-|[Lt591Og3XRhx5dRx.htm](actions/Lt591Og3XRhx5dRx.htm)|Breath Weapon (Acid) (Cone)|Arme de souffle acide (cône)|changé|
 |[M8RCbthRhB4bxO9t.htm](actions/M8RCbthRhB4bxO9t.htm)|Iron Command|Ordre de fer|changé|
 |[mk6rzaAzsBBRGJnh.htm](actions/mk6rzaAzsBBRGJnh.htm)|Call Upon the Brightness|Faire appel à la lumière|changé|
-|[NEBuuhjZE9BL3I8v.htm](actions/NEBuuhjZE9BL3I8v.htm)|Breath Weapon (Poison) (Cone)|Arme de souffle empoisonné (cône)|changé|
-|[oAWNluJaMlaGysXA.htm](actions/oAWNluJaMlaGysXA.htm)|Barbed Quills|Piquants barbelés|changé|
 |[qm7xptMSozAinnPS.htm](actions/qm7xptMSozAinnPS.htm)|Arrest a Fall|Arrêter une chute|changé|
-|[QQQaV7pi9Gv2GpLj.htm](actions/QQQaV7pi9Gv2GpLj.htm)|Breath Weapon (Piercing) (Line)|Arme de souffle perforante (Ligne)|changé|
 |[rmwa3OyhTZ2i2AHl.htm](actions/rmwa3OyhTZ2i2AHl.htm)|Craft|Fabriquer|changé|
 |[rSpCV0leurp2Bg2d.htm](actions/rSpCV0leurp2Bg2d.htm)|Instinctive Obfuscation|Obscurcissement instinctif|changé|
-|[slwllcUtVhoCdBuM.htm](actions/slwllcUtVhoCdBuM.htm)|Breath Weapon (Acid) (Line)|Arme de souffle acide (Ligne)|changé|
 
 ## Liste des traductions complétés
 
@@ -61,21 +46,25 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[3cuTA58ObXhuFX2r.htm](actions/3cuTA58ObXhuFX2r.htm)|Bend Time|Courber le temps|libre|
 |[3D9kGfwg4LUZBR9A.htm](actions/3D9kGfwg4LUZBR9A.htm)|Overdrive|Surrégime|libre|
 |[3f5DMFu8fPiqHpRg.htm](actions/3f5DMFu8fPiqHpRg.htm)|Sustain a Spell|Maintenir un sort|officielle|
+|[3UEwtMA5y8foVqYP.htm](actions/3UEwtMA5y8foVqYP.htm)|Breath Weapon (Electricity) (Line)|arme de souffle électrique (ligne)|libre|
 |[3yoajuKjwHZ9ApUY.htm](actions/3yoajuKjwHZ9ApUY.htm)|Grab an Edge|Se raccrocher in extremis|officielle|
 |[3ZzoI9MTtJFd1Kjl.htm](actions/3ZzoI9MTtJFd1Kjl.htm)|Share Senses|Partager les sens|libre|
 |[49y9Ec4bDii8pcD3.htm](actions/49y9Ec4bDii8pcD3.htm)|Subsist|Subsister|officielle|
 |[4IxCKbGaEM9nUhld.htm](actions/4IxCKbGaEM9nUhld.htm)|Finish The Job|Finir le boulot|libre|
 |[5V49l0K460CcvBOO.htm](actions/5V49l0K460CcvBOO.htm)|Defend Life|Défendre la vie|libre|
+|[5Vuhf4DjvMvRqiEZ.htm](actions/5Vuhf4DjvMvRqiEZ.htm)|Breath Weapon (Negative) (Cone)|Arme de souffle négative (cône)|libre|
 |[6OZfIjiPjWTIe7Pr.htm](actions/6OZfIjiPjWTIe7Pr.htm)|Spinning Crush|Rotation écrasante|libre|
 |[6SAdjml3OZw0BZnn.htm](actions/6SAdjml3OZw0BZnn.htm)|Thundering Roar|Rugissement tonitruant|libre|
 |[74iat04PtfG8gn2Q.htm](actions/74iat04PtfG8gn2Q.htm)|Mighty Rage|Rage formidable|officielle|
 |[7blmbDrQFNfdT731.htm](actions/7blmbDrQFNfdT731.htm)|Shove|Pousser|officielle|
 |[7pdG8l9POMK76Lf2.htm](actions/7pdG8l9POMK76Lf2.htm)|Warding Sign|Signe de protection|libre|
 |[7qjfYsLNTr17Aftf.htm](actions/7qjfYsLNTr17Aftf.htm)|Energy Emanation|Émanation énergétique|libre|
+|[8aIe57gXJ94mPpW4.htm](actions/8aIe57gXJ94mPpW4.htm)|Anadi Venom|Venin anadi|libre|
 |[8b63qGzqSUENQgOT.htm](actions/8b63qGzqSUENQgOT.htm)|Armor Up!|Retour d'armure|libre|
 |[8iCas8MeyqSXmE2a.htm](actions/8iCas8MeyqSXmE2a.htm)|Dream Research|Recherche onirique|libre|
 |[8kGpUUUSX1sB2OqQ.htm](actions/8kGpUUUSX1sB2OqQ.htm)|Call Companion|Appeler un compagnon|libre|
 |[8w6esW689NNbbq3i.htm](actions/8w6esW689NNbbq3i.htm)|Call on Ancient Blood|Appel du sang ancien|officielle|
+|[90fHUm0HGZFAbG1K.htm](actions/90fHUm0HGZFAbG1K.htm)|Breath Weapon (Fire) (Line)|Arme de souffle de feu (ligne)|libre|
 |[9gDMkIfDifh61yLz.htm](actions/9gDMkIfDifh61yLz.htm)|Stop|S'arrêter|libre|
 |[9kIvFxA5V9rvNWiH.htm](actions/9kIvFxA5V9rvNWiH.htm)|Thoughtful Reload|Rechargement réfléchi|libre|
 |[9MJcQEMVVrmMyGyq.htm](actions/9MJcQEMVVrmMyGyq.htm)|Living Fortification|Fortification vivante|libre|
@@ -89,9 +78,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[AJstokjdG6iDjVjE.htm](actions/AJstokjdG6iDjVjE.htm)|Impersonate|Se déguiser|officielle|
 |[akmQzZoNhyfCKFpL.htm](actions/akmQzZoNhyfCKFpL.htm)|Airy Step|Pas aérien|libre|
 |[Aq2mXT2hLlstFL5C.htm](actions/Aq2mXT2hLlstFL5C.htm)|Invoke Celestial Privilege|Invoquer le privilège céleste|libre|
+|[auOTjKr8gB1dqFh4.htm](actions/auOTjKr8gB1dqFh4.htm)|Breath Weapon (Cold) (Cone)|Arme de souffle de froid (cône)|libre|
+|[AWXPiqz4xDN03iPs.htm](actions/AWXPiqz4xDN03iPs.htm)|Breath Weapon (Poison) (Line)|Arme de souffle empoisonné (ligne)|libre|
 |[B0Eu3EfwIa9kyDEA.htm](actions/B0Eu3EfwIa9kyDEA.htm)|Recall Knowledge (Crafting)|Se souvenir (Artisanat)|officielle|
 |[B2BpIZFHoF9Kjzpx.htm](actions/B2BpIZFHoF9Kjzpx.htm)|Recall Knowledge (Occultism)|Se souvenir (Occultisme)|officielle|
 |[b3h3QqvwS5fnaiu1.htm](actions/b3h3QqvwS5fnaiu1.htm)|Banshee Cry|Pleur de la Banshie|libre|
+|[b6CanpXyUKJgxEwq.htm](actions/b6CanpXyUKJgxEwq.htm)|Salt Wound|Saler une blessure|libre|
 |[bCDMuu3tE4d6KHrJ.htm](actions/bCDMuu3tE4d6KHrJ.htm)|Pistolero's Retort|Réplique du pistoléro|libre|
 |[Bcxarzksqt9ezrs6.htm](actions/Bcxarzksqt9ezrs6.htm)|Stride|Marcher rapidement|officielle|
 |[bG91dbtbgOnw7Ofx.htm](actions/bG91dbtbgOnw7Ofx.htm)|Board|Monter à bord|libre|
@@ -143,6 +135,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[gBhWEy3ToxQeCLQm.htm](actions/gBhWEy3ToxQeCLQm.htm)|Covered Reload|Rechargement à couvert|libre|
 |[ge56Lu1xXVFYUnLP.htm](actions/ge56Lu1xXVFYUnLP.htm)|Trip|Croc-en-jambe|officielle|
 |[GkmbTGfg8KcgynOA.htm](actions/GkmbTGfg8KcgynOA.htm)|Create a Diversion|Faire diversion|officielle|
+|[grkggNQnOxWWsjBH.htm](actions/grkggNQnOxWWsjBH.htm)|Breath Weapon (Cold) (Line)|Arme de souffle de froid (ligne)|libre|
 |[gxtq81VAhpmNvEgA.htm](actions/gxtq81VAhpmNvEgA.htm)|Tap Ley Line|Puiser dans les lignes telluriques|libre|
 |[H6v1VgowHaKHnVlG.htm](actions/H6v1VgowHaKHnVlG.htm)|Burrow|Creuser|officielle|
 |[hFRHPBj6wjAayNtW.htm](actions/hFRHPBj6wjAayNtW.htm)|Jinx|Maudire|libre|
@@ -158,6 +151,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IX1VlVCL5sFTptEE.htm](actions/IX1VlVCL5sFTptEE.htm)|Liberating Step|Pas libérateur|officielle|
 |[izvfZ561JTdeyh6i.htm](actions/izvfZ561JTdeyh6i.htm)|Goblin Jubilee|Jubilé gobelin|libre|
 |[jftNJjBNxp2cleoi.htm](actions/jftNJjBNxp2cleoi.htm)|Expeditious Inspection|Inspection expéditive|libre|
+|[JqThDeWlGobiAPJd.htm](actions/JqThDeWlGobiAPJd.htm)|Breath Weapon (Fire) (Cone)|Arme de souffle de feu (cône)|libre|
 |[jSC5AYEfliOPpO3H.htm](actions/jSC5AYEfliOPpO3H.htm)|Reloading Strike|Frappe rechargeante|libre|
 |[JuqmIAnkL9hVGai8.htm](actions/JuqmIAnkL9hVGai8.htm)|Hustle|S'empresser|officielle|
 |[JUvAvruz7yRQXfz2.htm](actions/JUvAvruz7yRQXfz2.htm)|Long Jump|Sauter en longueur|officielle|
@@ -174,7 +168,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kV3XM0YJeS2KCSOb.htm](actions/kV3XM0YJeS2KCSOb.htm)|Scout|Reconnaître|officielle|
 |[KygTSeDvsFoSO6HW.htm](actions/KygTSeDvsFoSO6HW.htm)|Recall Knowledge (Arcana)|Se souvenir (Arcanes)|officielle|
 |[KyKXp599tK9BgodC.htm](actions/KyKXp599tK9BgodC.htm)|Dutiful Retaliation|Représailles consciencieuses|libre|
+|[LfsQy2T8GjpuMqAh.htm](actions/LfsQy2T8GjpuMqAh.htm)|Breath Weapon (Electricity) (Cone)|Arme de souffle électrique (cône)|libre|
 |[lID4rJHAVZB6tavf.htm](actions/lID4rJHAVZB6tavf.htm)|Run Over|Foncer dessus|libre|
+|[Lt591Og3XRhx5dRx.htm](actions/Lt591Og3XRhx5dRx.htm)|Breath Weapon (Acid) (Cone)|Arme de souffle acide (cône)|libre|
 |[lvqPQDdWT2DDO0k2.htm](actions/lvqPQDdWT2DDO0k2.htm)|Invest an Item|Investir un objet|officielle|
 |[LZgjpWd0pL3vK9Q1.htm](actions/LZgjpWd0pL3vK9Q1.htm)|Recall Knowledge (Religion)|Se souvenir (Religion)|officielle|
 |[m0f2B7G9eaaTmhFL.htm](actions/m0f2B7G9eaaTmhFL.htm)|Devise a Stratagem|Concevoir un stratagème|libre|
@@ -188,8 +184,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[N6U02s9qJKQIvmQd.htm](actions/N6U02s9qJKQIvmQd.htm)|Wish for Luck|Souhait de bonne fortune|libre|
 |[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|Exploser|libre|
 |[nbfNETdpee8CVM17.htm](actions/nbfNETdpee8CVM17.htm)|Flurry of Blows|Déluge de coups|officielle|
+|[NEBuuhjZE9BL3I8v.htm](actions/NEBuuhjZE9BL3I8v.htm)|Breath Weapon (Poison) (Cone)|Arme de souffle empoisonné (cône)|libre|
 |[nSTMF6kYIt6rXhJx.htm](actions/nSTMF6kYIt6rXhJx.htm)|Seething Frenzy|Frénésie bouillonnante|libre|
 |[O1iircZOOCo42r9Y.htm](actions/O1iircZOOCo42r9Y.htm)|Ghost Shot|Tir fantôme|libre|
+|[oAWNluJaMlaGysXA.htm](actions/oAWNluJaMlaGysXA.htm)|Barbed Quills|Piquants barbelés|libre|
 |[OdIUybJ3ddfL7wzj.htm](actions/OdIUybJ3ddfL7wzj.htm)|Stand|Se relever|officielle|
 |[OizxuPb44g3eHPFh.htm](actions/OizxuPb44g3eHPFh.htm)|Borrow an Arcane Spell|Emprunter un sort arcanique|officielle|
 |[OJ9cIvPukPT0rppR.htm](actions/OJ9cIvPukPT0rppR.htm)|Wyrm's Breath|Souffle du Ver|libre|
@@ -212,6 +210,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Qf1ylAbdVi1rkc8M.htm](actions/Qf1ylAbdVi1rkc8M.htm)|Maneuver in Flight|Manœuvrer en vol|officielle|
 |[QHFMeJGzFWj2QczA.htm](actions/QHFMeJGzFWj2QczA.htm)|Quick Tincture|Préparation rapide|libre|
 |[QNAVeNKtHA0EUw4X.htm](actions/QNAVeNKtHA0EUw4X.htm)|Feint|Feinter|officielle|
+|[QQQaV7pi9Gv2GpLj.htm](actions/QQQaV7pi9Gv2GpLj.htm)|Breath Weapon (Piercing) (Line)|Arme de souffle perforante (ligne)|libre|
 |[qVNVSmsgpKFGk9hV.htm](actions/qVNVSmsgpKFGk9hV.htm)|Conceal an Object|Dissimuler un objet|officielle|
 |[QyzlsLrqM0EEwd7j.htm](actions/QyzlsLrqM0EEwd7j.htm)|Earn Income|Gagner de l'argent|officielle|
 |[r5Uth6yvCoE4tr9z.htm](actions/r5Uth6yvCoE4tr9z.htm)|Destructive Vengeance|Vengeance destructrice|libre|
@@ -226,6 +225,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[SjmKHgI7a5Z9JzBx.htm](actions/SjmKHgI7a5Z9JzBx.htm)|Force Open|Ouvrir de force|officielle|
 |[SkZAQRkLLkmBQNB9.htm](actions/SkZAQRkLLkmBQNB9.htm)|Escape|S'échapper|officielle|
 |[sL1J8cFwpy1lI359.htm](actions/sL1J8cFwpy1lI359.htm)|Study|Étudier|libre|
+|[slwllcUtVhoCdBuM.htm](actions/slwllcUtVhoCdBuM.htm)|Breath Weapon (Acid) (Line)|Arme de souffle acide (ligne)|libre|
 |[SMF1hTWPHtmlS8Cd.htm](actions/SMF1hTWPHtmlS8Cd.htm)|Bullet Dancer Stance|Posture du Danseur de balle|libre|
 |[sn2hIy1iIJX9Vpgj.htm](actions/sn2hIy1iIJX9Vpgj.htm)|Point Out|Signaler|officielle|
 |[TC7OcDa7JlWbqMaN.htm](actions/TC7OcDa7JlWbqMaN.htm)|Treat Disease|Soigner une maladie|officielle|

@@ -6,7 +6,7 @@
  * **changé**: 4
 
 
-Dernière mise à jour: 2022-01-08 15:20 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-09 15:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -2462,7 +2462,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-01-6mgB6Wv8X65pFMRL.htm](equipment/weapon-01-6mgB6Wv8X65pFMRL.htm)|Three Peaked Tree|Arbre à trois piques|libre|
 |[weapon-01-8JnOYyTdatqRnAV4.htm](equipment/weapon-01-8JnOYyTdatqRnAV4.htm)|Necrotic Bomb (Lesser)|Bombe nécrotique inférieure|libre|
 |[weapon-01-8ncDuZSIZAHl7PW8.htm](equipment/weapon-01-8ncDuZSIZAHl7PW8.htm)|Repeating Crossbow|Arbalète à répétition|libre|
-|[weapon-01-AFR01HVd7DcZvkpP.htm](equipment/weapon-01-AFR01HVd7DcZvkpP.htm)|Bottled Lightning (Lesser)|Foudre en bouteille (inférieur)|officielle|
+|[weapon-01-AFR01HVd7DcZvkpP.htm](equipment/weapon-01-AFR01HVd7DcZvkpP.htm)|Bottled Lightning (Lesser)|Foudre en bouteille inférieur|officielle|
 |[weapon-01-Bb3cvysXG8rCM5FM.htm](equipment/weapon-01-Bb3cvysXG8rCM5FM.htm)|Vexing Vapor (Lesser)|Vapeur contrariante inférieure|libre|
 |[weapon-01-bP608Wb1l9ZY1zwb.htm](equipment/weapon-01-bP608Wb1l9ZY1zwb.htm)|Repeating Heavy Crossbow|Arbalète lourde à répétition|libre|
 |[weapon-01-c124j3cpv8rl5MLp.htm](equipment/weapon-01-c124j3cpv8rl5MLp.htm)|Peshpine Grenade (Lesser)|Grenade d'épines de pesh inférieure|libre|

@@ -1,21 +1,17 @@
 # État de la traduction (spell-effects)
 
- * **changé**: 98
- * **libre**: 253
- * **officielle**: 16
+ * **libre**: 256
+ * **officielle**: 17
+ * **changé**: 94
 
 
-Dernière mise à jour: 2022-01-08 15:20 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-09 15:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[00-Gqy7K6FnbLtwGpud.htm](spell-effects/00-Gqy7K6FnbLtwGpud.htm)|Spell Effect: Bless|Effet : Bénédiction|changé|
-|[01-BKam63zT98iWMJH7.htm](spell-effects/01-BKam63zT98iWMJH7.htm)|Spell Effect: Inspire Heroics (Defense, +3)|Effet : Inspiration héroïque (Défense, +3)|changé|
-|[01-dEsaufFnfYihu5Ex.htm](spell-effects/01-dEsaufFnfYihu5Ex.htm)|Spell Effect: Discern Secrets (Sense Motive)|Effet : Discerner les secrets (Deviner les intentions)|changé|
-|[01-DLwTvjjnqs2sNGuG.htm](spell-effects/01-DLwTvjjnqs2sNGuG.htm)|Spell Effect: Inspire Defense|Effet : Inspiration défensive|changé|
 |[01-dWbg2gACxMkSnZag.htm](spell-effects/01-dWbg2gACxMkSnZag.htm)|Spell Effect: Protective Ward|Effet : Champ protecteur|changé|
 |[01-eFxUcQDkxcX9KoE1.htm](spell-effects/01-eFxUcQDkxcX9KoE1.htm)|Spell Effect: Boost Eidolon (1 Die)|Effet : Booster l'eidolon (1 Dé)|changé|
 |[01-GhNVAYtoF5hK3AlD.htm](spell-effects/01-GhNVAYtoF5hK3AlD.htm)|Spell Effect: Touch of Corruption|Effet : Toucher de corruption|changé|
@@ -115,6 +111,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[00-Gqy7K6FnbLtwGpud.htm](spell-effects/00-Gqy7K6FnbLtwGpud.htm)|Spell Effect: Bless|Effet : Bénédiction|libre|
 |[01-06zdFoxzuTpPPGyJ.htm](spell-effects/01-06zdFoxzuTpPPGyJ.htm)|Effect: Rejuvinating Flames|Effet : Flammes rajeunissantes|libre|
 |[01-0bfqYkNaWsdTmtrc.htm](spell-effects/01-0bfqYkNaWsdTmtrc.htm)|Spell Effect: Juvenile Companion|Effet : Compagnon juvénile|libre|
 |[01-0gv9D5RlrF5cKA3I.htm](spell-effects/01-0gv9D5RlrF5cKA3I.htm)|Spell Effect: Adapt Self (Darkvision)|Effet : Adaptation de soi|libre|
@@ -150,6 +147,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-Bc2Bwuan3716eAyY.htm](spell-effects/01-Bc2Bwuan3716eAyY.htm)|Spell Effect: Font of Serenity|Effet : Source de sérénité|libre|
 |[01-BDMEqBsumguTrMXa.htm](spell-effects/01-BDMEqBsumguTrMXa.htm)|Spell Effect: Devil Form (Erinys)|Effet : Forme de diable (Érinye)|libre|
 |[01-beReeFroAx24hj83.htm](spell-effects/01-beReeFroAx24hj83.htm)|Spell Effect: Inspire Courage|Effet : Inspiration Vaillante|libre|
+|[01-BKam63zT98iWMJH7.htm](spell-effects/01-BKam63zT98iWMJH7.htm)|Spell Effect: Inspire Heroics (Defense, +3)|Effet : Inspiration héroïque (Défense, +3)|libre|
 |[01-BQAb290GJQHiXtSW.htm](spell-effects/01-BQAb290GJQHiXtSW.htm)|Spell Effect: Ki Strike (Positive)|Effet : Frappe ki (Positif)|officielle|
 |[01-BsGZdgiEElNlgZVv.htm](spell-effects/01-BsGZdgiEElNlgZVv.htm)|Spell Effect: Draw Ire (Failure)|Effet : Attirer la colère (Échec)|libre|
 |[01-ccrcaKIRxiCnnRPT.htm](spell-effects/01-ccrcaKIRxiCnnRPT.htm)|Spell Effect: Dragon Claw (Poison)|Effet : Griffes de dragon (Poison)|libre|
@@ -159,6 +157,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-cwetyC5o4dRyFWJZ.htm](spell-effects/01-cwetyC5o4dRyFWJZ.htm)|Spell Effect: Necromancer's Generosity|Effet : Générosité du nécromant|libre|
 |[01-d0jsFEx8kq9idSlo.htm](spell-effects/01-d0jsFEx8kq9idSlo.htm)|Spell Effect: Boost Eidolon (3 Dice)|Effet : Booster l'eidolon (3 Dés)|libre|
 |[01-deG1dtfuQph03Kkg.htm](spell-effects/01-deG1dtfuQph03Kkg.htm)|Spell Effect: Shillelagh|Effet : Gourdin magique|libre|
+|[01-dEsaufFnfYihu5Ex.htm](spell-effects/01-dEsaufFnfYihu5Ex.htm)|Spell Effect: Discern Secrets (Sense Motive)|Effet : Discerner les secrets (Deviner les intentions)|libre|
+|[01-DLwTvjjnqs2sNGuG.htm](spell-effects/01-DLwTvjjnqs2sNGuG.htm)|Spell Effect: Inspire Defense|Effet : Inspiration défensive|officielle|
 |[01-F10ofwC0k1ELIaV4.htm](spell-effects/01-F10ofwC0k1ELIaV4.htm)|Spell Effect: Impeccable Flow (Critical Failure Effect)|Effet : Flux impeccable (Effet d'échec critique)|libre|
 |[01-fEhCbATDNlt6c1Ug.htm](spell-effects/01-fEhCbATDNlt6c1Ug.htm)|Spell Effect: Extract Poison|Effet : Extraction du poison|libre|
 |[01-Fjnm1l59KH5YJ7G9.htm](spell-effects/01-Fjnm1l59KH5YJ7G9.htm)|Spell Effect: Inspire Heroics (Strength, +2)|Effet : Inspiration héroïque (Force, +2)|libre|

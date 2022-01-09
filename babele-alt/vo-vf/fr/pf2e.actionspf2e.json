@@ -134,7 +134,7 @@
         {
             "id": "Salt Wound",
             "name": "Salt Wound (Saler une blessure)",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Une créature qui possède du sang et n'est pas à son maximum de Points de vie vous touche avec une Frappe au corps-à-corps.</p>\n<hr />\n<p><strong>Effet</strong> Vous canalisez du sel et de la saumure provenant de votre sang pour les verser sur les blessures de la créature. La créature doit tenter un jet de Vigueur en utilisant le plus élevé entre votre DD de classe et votre DD de sort. En cas d'échec, la créature subit [[/r 1d6 #acide persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts d'acide persistants} et est rendue @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 par la douleur. En cas d'échec critique, elle subit à la place [[/r 2d6 #acide persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{2d6 dégâts d'acide persistant} et elle est Malade 2.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Une créature qui possède du sang et n'est pas à son maximum de Points de vie vous touche avec une Frappe au corps-à-corps.</p>\n<hr />\n<p><strong>Effet</strong> Vous canalisez du sel et de la saumure provenant de votre sang pour les verser sur les blessures de la créature. La créature doit tenter un jet de Vigueur en utilisant le plus élevé entre votre DD de classe et votre DD de sort. En cas d'échec, la créature subit [[/r {1d6}[persistent,acid]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts d'acide persistants} et est rendue @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 par la douleur. En cas d'échec critique, elle subit à la place [[/r {2d6}[persistent,acid]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{2d6 dégâts d'acide persistant} et elle est Malade 2.</p>"
         },
         {
             "id": "Share Senses",
@@ -154,7 +154,7 @@
         {
             "id": "Breath Weapon (Cold) (Cone)",
             "name": "Breath Weapon (Cold) (Cone) (Arme de souffle de froid (cône))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #de froid]]{1d6 dégâts de froid} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #froid]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[cold]]]{1d6 dégâts de froid} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #froid]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Repair",
@@ -188,8 +188,8 @@
         },
         {
             "id": "Breath Weapon (Poison) (Line)",
-            "name": "Breath Weapon (Poison) (Line) (Arme de souffle empoisonné (Ligne))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #poison]]{1d6 dégâts de poison} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #poison]]{Dégâts selon le niveau}</p>"
+            "name": "Breath Weapon (Poison) (Line) (Arme de souffle empoisonné (ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[poison]]]{1d6 dégâts de poison} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #poison]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Seething Frenzy",
@@ -284,7 +284,7 @@
         {
             "id": "Breath Weapon (Acid) (Cone)",
             "name": "Breath Weapon (Acid) (Cone) (Arme de souffle acide (cône))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #acide]]{1d6 dégâts d'acide} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #acide]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[acid]]]{1d6 dégâts d'acide} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #acide]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Dutiful Retaliation",
@@ -399,7 +399,7 @@
         {
             "id": "Breath Weapon (Electricity) (Line)",
             "name": "Breath Weapon (Electricity) (Line) (arme de souffle électrique (ligne))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #électricité]]{1d6 dégâts électriques} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #électricité]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[electricity]]]{1d6 dégâts électriques} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #électricité]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Retraining",
@@ -739,7 +739,7 @@
         {
             "id": "Breath Weapon (Electricity) (Cone)",
             "name": "Breath Weapon (Electricity) (Cone) (Arme de souffle électrique (cône))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #électriques]]{1d6 dégâts électriques} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #électriques]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[electricity]]]{1d6 dégâts électriques} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #électriques]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Drop Prone",
@@ -784,7 +784,7 @@
         {
             "id": "Toxic Skin",
             "name": "Toxic Skin (Peau toxique)",
-            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<p><strong>Déclencheur</strong> Une créature vous touche, par exemple en vous Saisissant, en réussissant à vous toucher avec une attaque à mains nues ou en utilisant un sort de contact contre vous.</p>\n<hr />\n<p>Vous exsudez une toxine mortelle. La créature déclencheuse subit [[/r 1d4 #poison]]{1d4 dégâts de poison} (jet de Vigueur basique en utilisant le plus élevé entre votre DD de classe ou votre DD de sort). Au niveau 3 et tous les niveaux impairs par la suite, les dégâts augmentent de 1d4.</p>\n<p>Dégâts de poison [[/r ceil(@details.level.value/2)d4 #poison]]{selon le niveau} </p>"
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<p><strong>Déclencheur</strong> Une créature vous touche, par exemple en vous Saisissant, en réussissant à vous toucher avec une attaque à mains nues ou en utilisant un sort de contact contre vous.</p>\n<hr />\n<p>Vous exsudez une toxine mortelle. La créature déclencheuse subit [[/r {1d4}[poison]]]{1d4 dégâts de poison} (jet de Vigueur basique en utilisant le plus élevé entre votre DD de classe ou votre DD de sort). Au niveau 3 et tous les niveaux impairs par la suite, les dégâts augmentent de 1d4.</p>\n<p>Dégâts de poison [[/r ceil(@details.level.value/2)d4 #poison]]{selon le niveau} </p>"
         },
         {
             "id": "Drive",
@@ -828,8 +828,8 @@
         },
         {
             "id": "Breath Weapon (Acid) (Line)",
-            "name": "Breath Weapon (Acid) (Line) (Arme de souffle acide (Ligne))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #acide]]{1d6 dégâts d'acide} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #acide]]{Dégâts selon le niveau}</p>"
+            "name": "Breath Weapon (Acid) (Line) (Arme de souffle acide (ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[acid]]]{1d6 dégâts d'acide} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #acide]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Clear a Path",
@@ -839,7 +839,7 @@
         {
             "id": "Breath Weapon (Poison) (Cone)",
             "name": "Breath Weapon (Poison) (Cone) (Arme de souffle empoisonné (cône))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #poison]]{1d6 dégâts de poison} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #poison]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[poison]]]{1d6 dégâts de poison} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #poison]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Glimpse of Redemption",
@@ -863,8 +863,8 @@
         },
         {
             "id": "Breath Weapon (Piercing) (Line)",
-            "name": "Breath Weapon (Piercing) (Line) (Arme de souffle perforante (Ligne))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #perforants]]{Dégâts selon le niveau}</p>"
+            "name": "Breath Weapon (Piercing) (Line) (Arme de souffle perforante (ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #perforants]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Conceal an Object",
@@ -914,7 +914,7 @@
         {
             "id": "Breath Weapon (Fire) (Cone)",
             "name": "Breath Weapon (Fire) (Cone) (Arme de souffle de feu (cône))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #feu]]{1d6 dégâts de feu} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #feu]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[fire]]]{1d6 dégâts de feu} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #feu]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Balance",
@@ -939,7 +939,7 @@
         {
             "id": "Breath Weapon (Negative) (Cone)",
             "name": "Breath Weapon (Negative) (Cone) (Arme de souffle négative (cône))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #négatifs]]{1d6 dégâts négatifs} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #négatifs]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[negative]]]{1d6 dégâts négatifs} à toutes les créatures dans un <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #négatifs]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Earn Income",
@@ -1078,8 +1078,8 @@
         },
         {
             "id": "Breath Weapon (Fire) (Line)",
-            "name": "Breath Weapon (Fire) (Line) (Arme de souffle de feu (Ligne))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #feu]]{1d6 dégâts de feu} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #feu]]{Dégâts selon le niveau}</p>"
+            "name": "Breath Weapon (Fire) (Line) (Arme de souffle de feu (ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[fire]]]{1d6 dégâts de feu} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #feu]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Upstage",
@@ -1163,8 +1163,8 @@
         },
         {
             "id": "Breath Weapon (Negative) (Line)",
-            "name": "Breath Weapon (Negative) (Line) (Arme de souffle négative (Ligne))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #négatifs]]{1d6 dégâts négatifs} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #négatifs]]{Dégâts selon le niveau}</p>"
+            "name": "Breath Weapon (Negative) (Line) (Arme de souffle négative (ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[negative]]]{1d6 dégâts négatifs} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #négatifs]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Lie",
@@ -1189,7 +1189,7 @@
         {
             "id": "Anadi Venom",
             "name": "Anadi Venom (Venin anadi)",
-            "description": "<p><strong>Fréquence</strong> un nombre de fois par jour égal à votre niveau</p>\n<hr />\n<p>Vous empoisonnez vos crocs. Si la prochaine Frappe de crocs que vous portez avant la fin de votre tour touche et inflige des dégâts, la Frappe inflige [[/r 1d6 #poison]] {1d6 dégâts de poison} supplémentaires. En cas d'échec critique, le poison est gâché comme à l'ordinaire. Au niveau 12, ces dégâts de poison passent à 2d6.</p>\n<p>Dégâts de poison [[/r (1+(floor(@details.level.value/12)))d6 #poison]]{selon le niveau}</p>"
+            "description": "<p><strong>Fréquence</strong> un nombre de fois par jour égal à votre niveau</p>\n<hr />\n<p>Vous empoisonnez vos crocs. Si la prochaine Frappe de crocs que vous portez avant la fin de votre tour touche et inflige des dégâts, la Frappe inflige [[/r {1d6}[poison]]]{1d6 dégâts de poison} supplémentaires. En cas d'échec critique, le poison est gâché comme à l'ordinaire. Au niveau 12, ces dégâts de poison passent à 2d6.</p>\n<p>Dégâts de poison [[/r (1+(floor(@details.level.value/12)))d6 #poison]]{selon le niveau}</p>"
         },
         {
             "id": "Pointed Question",
@@ -1219,7 +1219,7 @@
         {
             "id": "Barbed Quills",
             "name": "Barbed Quills (Piquants barbelés)",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous êtes touché par une Frappe à mains nues ou une frappe avec une arme au corps-à-corps sans allonge.</p>\n<hr />\n<p>Vos piquants se brisent dans la peau de votre agresseur. Vous infligez [[/r 1d8 #perforants]]{1d8 dégâts perforants} à la créature déclencheuse (jet de Réflexes basique contre le plus élevé entre votre DD de classe et votre DD de sort). Sur un échec critique, la créature subit aussi [[/r 1d4 #saignement persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant} lorsque vos piquants se fichent dans sa peau. Au niveau 3 et chaque niveau impair par la suite, ces dégâts augmentent d'1d8 et les dégâts perforants persistants augmentent de 1.</p>\n<p>Dégâts perforants [[/r ceil(@details.level.value/2)d8 #perforants]]{selon le niveau}</p>\n<p>Dégâts de saignement persistants [[/r 1d4+ceil(@details.level.value/2)-1 #saignement persistant]]{selon le niveau}</p>\n<hr />\n<p><em>Note: le bonus de +1 lié à Hirsute n'est pas automatiquement ajouté</em></p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous êtes touché par une Frappe à mains nues ou une frappe avec une arme au corps-à-corps sans allonge.</p>\n<hr />\n<p>Vos piquants se brisent dans la peau de votre agresseur. Vous infligez [[/r {1d8}[piercing]]]{1d8 dégâts perforants} à la créature déclencheuse (jet de Réflexes basique contre le plus élevé entre votre DD de classe et votre DD de sort). Sur un échec critique, la créature subit aussi [[/r {1d4}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant} lorsque vos piquants se fichent dans sa peau. Au niveau 3 et chaque niveau impair par la suite, ces dégâts augmentent d'1d8 et les dégâts perforants persistants augmentent de 1.</p>\n<p>Dégâts perforants [[/r ceil(@details.level.value/2)d8 #perforants]]{selon le niveau}</p>\n<p>Dégâts de saignement persistants [[/r 1d4+ceil(@details.level.value/2)-1 #saignement persistant]]{selon le niveau}</p>\n<hr />\n<p><em>Note: le bonus de +1 lié à Hirsute n'est pas automatiquement ajouté</em></p>"
         },
         {
             "id": "Mount",
@@ -1273,8 +1273,8 @@
         },
         {
             "id": "Breath Weapon (Cold) (Line)",
-            "name": "Breath Weapon (Cold) (Line) (Arme de souffle de froid (Ligne))",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r 1d6 #froid]]{1d6 dégâts de froid} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #froid]]{Dégâts selon le niveau}</p>"
+            "name": "Breath Weapon (Cold) (Line) (Arme de souffle de froid (ligne))",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[cold]]]{1d6 dégâts de froid} à toutes les créatures sur une <span data-pf2-effect-area=\"line\" data-pf2-distance=\"60\">ligne de 18 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (floor(@details.level.value/2))d6 #froid]]{Dégâts selon le niveau}</p>"
         },
         {
             "id": "Grapple",

@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2022-01-08 15:20 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-09 15:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -62,19 +62,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Borrow an Arcane Spell](actions/OizxuPb44g3eHPFh.htm)|Emprunter un sort arcanique|`@Compendium[pf2e.actionspf2e.OizxuPb44g3eHPFh]`|
 |[Breath Weapon](actions/Xg57qG1rOfSSobke.htm)|Arme de souffle|`@Compendium[pf2e.actionspf2e.Xg57qG1rOfSSobke]`|
 |[Breath Weapon (Acid) (Cone)](actions/Lt591Og3XRhx5dRx.htm)|Arme de souffle acide (cône)|`@Compendium[pf2e.actionspf2e.Lt591Og3XRhx5dRx]`|
-|[Breath Weapon (Acid) (Line)](actions/slwllcUtVhoCdBuM.htm)|Arme de souffle acide (Ligne)|`@Compendium[pf2e.actionspf2e.slwllcUtVhoCdBuM]`|
+|[Breath Weapon (Acid) (Line)](actions/slwllcUtVhoCdBuM.htm)|Arme de souffle acide (ligne)|`@Compendium[pf2e.actionspf2e.slwllcUtVhoCdBuM]`|
 |[Breath Weapon (Cold) (Cone)](actions/auOTjKr8gB1dqFh4.htm)|Arme de souffle de froid (cône)|`@Compendium[pf2e.actionspf2e.auOTjKr8gB1dqFh4]`|
-|[Breath Weapon (Cold) (Line)](actions/grkggNQnOxWWsjBH.htm)|Arme de souffle de froid (Ligne)|`@Compendium[pf2e.actionspf2e.grkggNQnOxWWsjBH]`|
+|[Breath Weapon (Cold) (Line)](actions/grkggNQnOxWWsjBH.htm)|Arme de souffle de froid (ligne)|`@Compendium[pf2e.actionspf2e.grkggNQnOxWWsjBH]`|
 |[Breath Weapon (Electricity) (Cone)](actions/LfsQy2T8GjpuMqAh.htm)|Arme de souffle électrique (cône)|`@Compendium[pf2e.actionspf2e.LfsQy2T8GjpuMqAh]`|
 |[Breath Weapon (Electricity) (Line)](actions/3UEwtMA5y8foVqYP.htm)|arme de souffle électrique (ligne)|`@Compendium[pf2e.actionspf2e.3UEwtMA5y8foVqYP]`|
 |[Breath Weapon (Fire) (Cone)](actions/JqThDeWlGobiAPJd.htm)|Arme de souffle de feu (cône)|`@Compendium[pf2e.actionspf2e.JqThDeWlGobiAPJd]`|
-|[Breath Weapon (Fire) (Line)](actions/90fHUm0HGZFAbG1K.htm)|Arme de souffle de feu (Ligne)|`@Compendium[pf2e.actionspf2e.90fHUm0HGZFAbG1K]`|
+|[Breath Weapon (Fire) (Line)](actions/90fHUm0HGZFAbG1K.htm)|Arme de souffle de feu (ligne)|`@Compendium[pf2e.actionspf2e.90fHUm0HGZFAbG1K]`|
 |[Breath Weapon (Negative) (Cone)](actions/5Vuhf4DjvMvRqiEZ.htm)|Arme de souffle négative (cône)|`@Compendium[pf2e.actionspf2e.5Vuhf4DjvMvRqiEZ]`|
-|[Breath Weapon (Negative) (Line)](actions/EmFzFAwgQ0lJZwba.htm)|Arme de souffle négative (Ligne)|`@Compendium[pf2e.actionspf2e.EmFzFAwgQ0lJZwba]`|
+|[Breath Weapon (Negative) (Line)](actions/EmFzFAwgQ0lJZwba.htm)|Arme de souffle négative (ligne)|`@Compendium[pf2e.actionspf2e.EmFzFAwgQ0lJZwba]`|
 |[Breath Weapon (Piercing) (Cone)](actions/0XiPnnxKHWKFg1tN.htm)|Arme de souffle perforante (cône)|`@Compendium[pf2e.actionspf2e.0XiPnnxKHWKFg1tN]`|
-|[Breath Weapon (Piercing) (Line)](actions/QQQaV7pi9Gv2GpLj.htm)|Arme de souffle perforante (Ligne)|`@Compendium[pf2e.actionspf2e.QQQaV7pi9Gv2GpLj]`|
+|[Breath Weapon (Piercing) (Line)](actions/QQQaV7pi9Gv2GpLj.htm)|Arme de souffle perforante (ligne)|`@Compendium[pf2e.actionspf2e.QQQaV7pi9Gv2GpLj]`|
 |[Breath Weapon (Poison) (Cone)](actions/NEBuuhjZE9BL3I8v.htm)|Arme de souffle empoisonné (cône)|`@Compendium[pf2e.actionspf2e.NEBuuhjZE9BL3I8v]`|
-|[Breath Weapon (Poison) (Line)](actions/AWXPiqz4xDN03iPs.htm)|Arme de souffle empoisonné (Ligne)|`@Compendium[pf2e.actionspf2e.AWXPiqz4xDN03iPs]`|
+|[Breath Weapon (Poison) (Line)](actions/AWXPiqz4xDN03iPs.htm)|Arme de souffle empoisonné (ligne)|`@Compendium[pf2e.actionspf2e.AWXPiqz4xDN03iPs]`|
 |[Bullet Dancer Stance](actions/SMF1hTWPHtmlS8Cd.htm)|Posture du Danseur de balle|`@Compendium[pf2e.actionspf2e.SMF1hTWPHtmlS8Cd]`|
 |[Burrow](actions/H6v1VgowHaKHnVlG.htm)|Creuser|`@Compendium[pf2e.actionspf2e.H6v1VgowHaKHnVlG]`|
 |[Call Companion](actions/8kGpUUUSX1sB2OqQ.htm)|Appeler un compagnon|`@Compendium[pf2e.actionspf2e.8kGpUUUSX1sB2OqQ]`|
@@ -2521,9 +2521,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Eidolon Unarmed Mastery](classfeatures/summoner-13-NIzHfVcVMhDmvA49.htm)|Maîtrise à mains nues de l'eidolon|`@Compendium[pf2e.classfeatures.NIzHfVcVMhDmvA49]`|
 |[Eidolon Weapon Specialization](classfeatures/summoner-07-oCnyGRvkfjTsZXcX.htm)|Spécialisation des armes de l'eidolon|`@Compendium[pf2e.classfeatures.oCnyGRvkfjTsZXcX]`|
 |[Eldritch Trickster Racket](classfeatures/rogue-01-D8qtAo2w4jsqjBrM.htm)|Trafic de roublard : Mystificateur|`@Compendium[pf2e.classfeatures.D8qtAo2w4jsqjBrM]`|
-|[Elemental Magic](classfeatures/None-01-pUkUC8HHom2DmYzz.htm)|MAgie élémentaire|`@Compendium[pf2e.classfeatures.pUkUC8HHom2DmYzz]`|
+|[Elemental Magic](classfeatures/None-01-pUkUC8HHom2DmYzz.htm)|Magie élémentaire|`@Compendium[pf2e.classfeatures.pUkUC8HHom2DmYzz]`|
 |[Empiricism Methodology](classfeatures/investigator-01-g3mNzNphtVxyR9Xr.htm)|Méthodologie : empirisme|`@Compendium[pf2e.classfeatures.g3mNzNphtVxyR9Xr]`|
-|[Enigma Muse](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Muse - Énigmatique|`@Compendium[pf2e.classfeatures.4ripp6EfdVpS0d60]`|
+|[Enigma Muse](classfeatures/bard-01-4ripp6EfdVpS0d60.htm)|Muse énigmatique|`@Compendium[pf2e.classfeatures.4ripp6EfdVpS0d60]`|
 |[Eternal Confidence](classfeatures/swashbuckler-19-ypfT3iybew6ZSIUl.htm)|Confiance éternelle|`@Compendium[pf2e.classfeatures.ypfT3iybew6ZSIUl]`|
 |[Evasion (Level 11)](classfeatures/gunslinger-11-EZuWfYSv3ASLyKtu.htm)|Évasion (Niveau 11)|`@Compendium[pf2e.classfeatures.EZuWfYSv3ASLyKtu]`|
 |[Evasion (Level 15)](classfeatures/investigator-15-DqWr3LqUpT3Xi2xq.htm)|Évasion (Niveau 15)|`@Compendium[pf2e.classfeatures.DqWr3LqUpT3Xi2xq]`|
@@ -2652,7 +2652,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Link Spells](classfeatures/summoner-01-wguqw300DB5XdD8W.htm)|Sorts liés|`@Compendium[pf2e.classfeatures.wguqw300DB5XdD8W]`|
 |[Lore Mystery](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Mystère du savoir|`@Compendium[pf2e.classfeatures.tZBb3Kh4nJcNoUFI]`|
 |[Lore Mystery (Multiclass)](classfeatures/oracle-02-N2CYUVBELOaZ7lj2.htm)|Mystère du savoir (Multiclasse)|`@Compendium[pf2e.classfeatures.N2CYUVBELOaZ7lj2]`|
-|[Maestro Muse](classfeatures/bard-01-YMBsi4bndRAk5CX4.htm)|Muse - Virtuose|`@Compendium[pf2e.classfeatures.YMBsi4bndRAk5CX4]`|
+|[Maestro Muse](classfeatures/bard-01-YMBsi4bndRAk5CX4.htm)|Muse virtuose|`@Compendium[pf2e.classfeatures.YMBsi4bndRAk5CX4]`|
 |[Magical Fortitude (Level 5)](classfeatures/witch-05-70jqXP2eS4tRZ0Ok.htm)|Vigueur magique (Niveau 5)|`@Compendium[pf2e.classfeatures.70jqXP2eS4tRZ0Ok]`|
 |[Magical Fortitude (Level 9)](classfeatures/wizard-09-MzyPNlxrNA5OKVd7.htm)|Vigueur magique (Niveau 9)|`@Compendium[pf2e.classfeatures.MzyPNlxrNA5OKVd7]`|
 |[Magnum Opus](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum opus|`@Compendium[pf2e.classfeatures.NjsOpWbbzUY2Hpk3]`|
@@ -2724,7 +2724,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Perpetual Potency (Chirurgeon)](classfeatures/alchemist-11-VS5vkqUQu4n7E28Y.htm)|Efficacité perpétuelle (Chirurgien)|`@Compendium[pf2e.classfeatures.VS5vkqUQu4n7E28Y]`|
 |[Perpetual Potency (Mutagenist)](classfeatures/alchemist-11-mZFqRLYOQEqKA8ri.htm)|Efficacité perpétuelle (Mutagèniste)|`@Compendium[pf2e.classfeatures.mZFqRLYOQEqKA8ri]`|
 |[Perpetual Potency (Toxicologist)](classfeatures/alchemist-11-JOdbVu14phvdjhaY.htm)|Efficacité perpétuelle (Toxicologiste)|`@Compendium[pf2e.classfeatures.JOdbVu14phvdjhaY]`|
-|[Polymath Muse](classfeatures/bard-01-y0jGimYdMGDJWrEq.htm)|Muse - Touche-à-tout|`@Compendium[pf2e.classfeatures.y0jGimYdMGDJWrEq]`|
+|[Polymath Muse](classfeatures/bard-01-y0jGimYdMGDJWrEq.htm)|Muse touche-à-tout|`@Compendium[pf2e.classfeatures.y0jGimYdMGDJWrEq]`|
 |[Powerful Alchemy](classfeatures/alchemist-05-7JK2a1D3VeWDcObo.htm)|Alchimie puissante|`@Compendium[pf2e.classfeatures.7JK2a1D3VeWDcObo]`|
 |[Powerful Fist](classfeatures/monk-01-SB8UJ8rZmvbcBweJ.htm)|Poings puissants|`@Compendium[pf2e.classfeatures.SB8UJ8rZmvbcBweJ]`|
 |[Precise Strike](classfeatures/swashbuckler-01-RQH6vigvhmiYKKjg.htm)|Frappe précise|`@Compendium[pf2e.classfeatures.RQH6vigvhmiYKKjg]`|
@@ -2818,7 +2818,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vivacious Speed](classfeatures/swashbuckler-03-8BOFeRE7ZfJ02N0O.htm)|Vitesse exubérante|`@Compendium[pf2e.classfeatures.8BOFeRE7ZfJ02N0O]`|
 |[Warden Spells](classfeatures/ranger-01-w3HysrCgDs5uFXKX.htm)|Sorts de gardien|`@Compendium[pf2e.classfeatures.w3HysrCgDs5uFXKX]`|
 |[Warpriest](classfeatures/cleric-01-0Aocw3igLwna9cjp.htm)|Prêtre combattant|`@Compendium[pf2e.classfeatures.0Aocw3igLwna9cjp]`|
-|[Warrior Muse](classfeatures/bard-01-N03BtRvjX9TeHRa4.htm)|Muse - Combattant|`@Compendium[pf2e.classfeatures.N03BtRvjX9TeHRa4]`|
+|[Warrior Muse](classfeatures/bard-01-N03BtRvjX9TeHRa4.htm)|Muse combattant|`@Compendium[pf2e.classfeatures.N03BtRvjX9TeHRa4]`|
 |[Wave Order](classfeatures/druid-01-FuUXyv2yBs7zRgqT.htm)|Ordre de la vague|`@Compendium[pf2e.classfeatures.FuUXyv2yBs7zRgqT]`|
 |[Way of the Drifter](classfeatures/gunslinger-01-a3pSIKkDVTvvNSRO.htm)|Voie du vagabond|`@Compendium[pf2e.classfeatures.a3pSIKkDVTvvNSRO]`|
 |[Way of the Pistolero](classfeatures/gunslinger-01-qRLRrHf0kzaJ7xt0.htm)|Voie du pistoléro|`@Compendium[pf2e.classfeatures.qRLRrHf0kzaJ7xt0]`|
@@ -4500,7 +4500,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Form Of The Bat](feats/ancestry-13-H965m1koFvY4FQkF.htm)|Forme de la chauve-souris|`@Compendium[pf2e.feats-srd.H965m1koFvY4FQkF]`|
 |[Form Of The Fiend (Claw)](feats/ancestry-01-qEOiC2YXYzc8ZZFS.htm)|Forme du fiélon (Griffes)|`@Compendium[pf2e.feats-srd.qEOiC2YXYzc8ZZFS]`|
 |[Form Of The Fiend (Hoof)](feats/ancestry-01-q3rusmFU38VwxSb1.htm)|Forme du fiélon (sabots)|`@Compendium[pf2e.feats-srd.q3rusmFU38VwxSb1]`|
-|[Form Of The Fiend (Jaws)](feats/ancestry-01-PVECmarPS2zt43cr.htm)|Forme de fiélon (Mâchoires)|`@Compendium[pf2e.feats-srd.PVECmarPS2zt43cr]`|
+|[Form Of The Fiend (Jaws)](feats/ancestry-01-PVECmarPS2zt43cr.htm)|Forme de fiélon (mâchoires)|`@Compendium[pf2e.feats-srd.PVECmarPS2zt43cr]`|
 |[Form Of The Fiend (Tail)](feats/ancestry-01-eJbDyMJXO2XhLI6F.htm)|Forme du fiélon (Queue)|`@Compendium[pf2e.feats-srd.eJbDyMJXO2XhLI6F]`|
 |[Form Retention](feats/class-08-l8KQgN8icNrzYIav.htm)|Conservation de forme|`@Compendium[pf2e.feats-srd.l8KQgN8icNrzYIav]`|
 |[Formation Master](feats/ancestry-13-QHPtlFvTpgx1GE7S.htm)|Maître du combat en formation|`@Compendium[pf2e.feats-srd.QHPtlFvTpgx1GE7S]`|
@@ -8725,7 +8725,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bort's Blessing](equipment/equipment-05-iS7hAQMAaThHYE8g.htm)|Bénédiction de Bort|`@Compendium[pf2e.equipment-srd.iS7hAQMAaThHYE8g]`|
 |[Bottled Air](equipment/equipment-07-7TQw7V1zZKl0a0Xz.htm)|Air en bouteille|`@Compendium[pf2e.equipment-srd.7TQw7V1zZKl0a0Xz]`|
 |[Bottled Lightning (Greater)](equipment/weapon-11-r2iTRbt1zpkAqHj2.htm)|Foudre en bouteille supérieur|`@Compendium[pf2e.equipment-srd.r2iTRbt1zpkAqHj2]`|
-|[Bottled Lightning (Lesser)](equipment/weapon-01-AFR01HVd7DcZvkpP.htm)|Foudre en bouteille (inférieur)|`@Compendium[pf2e.equipment-srd.AFR01HVd7DcZvkpP]`|
+|[Bottled Lightning (Lesser)](equipment/weapon-01-AFR01HVd7DcZvkpP.htm)|Foudre en bouteille inférieur|`@Compendium[pf2e.equipment-srd.AFR01HVd7DcZvkpP]`|
 |[Bottled Lightning (Major)](equipment/weapon-17-rpbbfkexLhtadBDV.htm)|Foudre en bouteille majeur|`@Compendium[pf2e.equipment-srd.rpbbfkexLhtadBDV]`|
 |[Bottled Lightning (Moderate)](equipment/weapon-03-97QyNEOAyYLdGaYc.htm)|Foudre en bouteille modéré|`@Compendium[pf2e.equipment-srd.97QyNEOAyYLdGaYc]`|
 |[Bottomless Stein](equipment/equipment-02-BJxnnY9ap2wMDnRN.htm)|Chope sans fond|`@Compendium[pf2e.equipment-srd.BJxnnY9ap2wMDnRN]`|

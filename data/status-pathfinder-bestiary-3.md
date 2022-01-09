@@ -1,10 +1,10 @@
 # État de la traduction (pathfinder-bestiary-3)
 
- * **changé**: 45
- * **libre**: 295
+ * **changé**: 44
+ * **libre**: 296
 
 
-Dernière mise à jour: 2022-01-08 15:20 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-09 15:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -48,7 +48,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rOFpnEic0eJdaxiM.htm](pathfinder-bestiary-3/rOFpnEic0eJdaxiM.htm)|Kangaroo|Kangourou|changé|
 |[sp0CZ8B2IPw3bBVi.htm](pathfinder-bestiary-3/sp0CZ8B2IPw3bBVi.htm)|Huldra|Huldre|changé|
 |[Su21mCjUxFJnoWGg.htm](pathfinder-bestiary-3/Su21mCjUxFJnoWGg.htm)|Azer|Azer|changé|
-|[TeaF0WreNshQxbe8.htm](pathfinder-bestiary-3/TeaF0WreNshQxbe8.htm)|Wizard Sponge (Toxic Lair)|Éponge de mage (Antre toxique)|changé|
 |[Vt28ucE0FUJYl1fD.htm](pathfinder-bestiary-3/Vt28ucE0FUJYl1fD.htm)|Coral Capuchin|Capucin de corail|changé|
 |[vWF79pVG3dbZIlId.htm](pathfinder-bestiary-3/vWF79pVG3dbZIlId.htm)|Young Forest Dragon|Jeune dragon des forêts|changé|
 |[wnrgiB2PkaBC5gOQ.htm](pathfinder-bestiary-3/wnrgiB2PkaBC5gOQ.htm)|Animated Silverware Swarm|Nuée d'argenterie animée|changé|
@@ -296,6 +295,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ss5f2tMeJWO3u8GU.htm](pathfinder-bestiary-3/ss5f2tMeJWO3u8GU.htm)|Sasquatch|Sasquatch|libre|
 |[SuI5sxy5cuc0lnsh.htm](pathfinder-bestiary-3/SuI5sxy5cuc0lnsh.htm)|Platecarpus|Platecarpus|libre|
 |[tdSnY3lgYJnsvB8n.htm](pathfinder-bestiary-3/tdSnY3lgYJnsvB8n.htm)|Wizard Sponge|Éponge de mage|libre|
+|[TeaF0WreNshQxbe8.htm](pathfinder-bestiary-3/TeaF0WreNshQxbe8.htm)|Wizard Sponge (Toxic Lair)|Éponge de mage (Antre toxique)|libre|
 |[tjtTHdIBP5QIAyS7.htm](pathfinder-bestiary-3/tjtTHdIBP5QIAyS7.htm)|Vishkanya Infiltrator|Infiltrateur Vishkanya|libre|
 |[tQBUoh5wLJXiFdX6.htm](pathfinder-bestiary-3/tQBUoh5wLJXiFdX6.htm)|Seaweed Leshy|Léchi algue|libre|
 |[tQIYWBefvpemUVeJ.htm](pathfinder-bestiary-3/tQIYWBefvpemUVeJ.htm)|Nosferatu Thrall|Esclave Nosferatu|libre|

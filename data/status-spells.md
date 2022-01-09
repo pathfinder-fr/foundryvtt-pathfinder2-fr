@@ -1,31 +1,12 @@
 # État de la traduction (spells)
 
- * **libre**: 597
- * **officielle**: 544
- * **changé**: 13
+ * **libre**: 599
+ * **officielle**: 555
 
 
-Dernière mise à jour: 2022-01-08 15:20 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-09 15:39 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[necromancy-04-ZeHeNQ5BNq6m5F1j.htm](spells/necromancy-04-ZeHeNQ5BNq6m5F1j.htm)|Take its Course|Suivre son cours|changé|
-|[necromancy-10-HpIJTVqgXorH9X0L.htm](spells/necromancy-10-HpIJTVqgXorH9X0L.htm)|Revival|Vivifier|changé|
-|[necromancy-10-IGXGs9PlqUCvODcH.htm](spells/necromancy-10-IGXGs9PlqUCvODcH.htm)|Song of the Fallen|Chanson des morts au combat|changé|
-|[transmutation-04-b5sGjGlBf58f8jn0.htm](spells/transmutation-04-b5sGjGlBf58f8jn0.htm)|Air Walk|Marche dans les airs|changé|
-|[transmutation-04-McnPlLFvKtQVXNcG.htm](spells/transmutation-04-McnPlLFvKtQVXNcG.htm)|Shape Stone|Façonnage de la pierre|changé|
-|[transmutation-04-NzXpEzcZAjuDTZjK.htm](spells/transmutation-04-NzXpEzcZAjuDTZjK.htm)|Aerial Form|Forme aérienne|changé|
-|[transmutation-05-1K6AYGisvo9gqdhs.htm](spells/transmutation-05-1K6AYGisvo9gqdhs.htm)|Elemental Form|Forme élémentaire|changé|
-|[transmutation-05-zCcfPS4y5SrZzU2x.htm](spells/transmutation-05-zCcfPS4y5SrZzU2x.htm)|Plant Form|Forme de plante|changé|
-|[transmutation-06-5c692cCcTDXjSEzk.htm](spells/transmutation-06-5c692cCcTDXjSEzk.htm)|Dragon Form|Forme de dragon|changé|
-|[transmutation-06-zhqnMOVPzVvWSUbC.htm](spells/transmutation-06-zhqnMOVPzVvWSUbC.htm)|Tempest Form|Forme tempêtueuse|changé|
-|[transmutation-06-znv4ECL7ZtuiagtA.htm](spells/transmutation-06-znv4ECL7ZtuiagtA.htm)|Flesh to Stone|Chair en pierre|changé|
-|[transmutation-08-8AMvNVOUEtxBCDvJ.htm](spells/transmutation-08-8AMvNVOUEtxBCDvJ.htm)|Monstrosity Form|Forme monstrueuse|changé|
-|[transmutation-10-ckUOoqOM7Kg7VqxB.htm](spells/transmutation-10-ckUOoqOM7Kg7VqxB.htm)|Avatar|Avatar|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -974,6 +955,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-04-RbORUmnwlB8b3mNf.htm](spells/necromancy-04-RbORUmnwlB8b3mNf.htm)|Internal Insurrection|Insurrection interne|libre|
 |[necromancy-04-S1Msrwi990FE7uMO.htm](spells/necromancy-04-S1Msrwi990FE7uMO.htm)|Call The Blood|Appel du sang|libre|
 |[necromancy-04-VXUrO8TwRqBpNzdU.htm](spells/necromancy-04-VXUrO8TwRqBpNzdU.htm)|Bloodspray Curse|Malédiction du sang répandu|libre|
+|[necromancy-04-ZeHeNQ5BNq6m5F1j.htm](spells/necromancy-04-ZeHeNQ5BNq6m5F1j.htm)|Take its Course|Suivre son cours|officielle|
 |[necromancy-04-ZhJ8d9Uk4lwIx86b.htm](spells/necromancy-04-ZhJ8d9Uk4lwIx86b.htm)|Plant Growth|Croissance végétale|officielle|
 |[necromancy-04-zvvHOQV78WKUB33l.htm](spells/necromancy-04-zvvHOQV78WKUB33l.htm)|Life Siphon|Siphon de vie|officielle|
 |[necromancy-05-2YIr0S2Gt14PMMQp.htm](spells/necromancy-05-2YIr0S2Gt14PMMQp.htm)|Grasping Grave|Étreinte de la tombe|officielle|
@@ -1032,6 +1014,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-09-LEMfFL551YB120RN.htm](spells/necromancy-09-LEMfFL551YB120RN.htm)|Blunt the Final Blade|Émousser la Lame finale|libre|
 |[necromancy-09-pZr1xrCpaSu6qrXU.htm](spells/necromancy-09-pZr1xrCpaSu6qrXU.htm)|Clone|Clone|libre|
 |[necromancy-09-ZMY58Yk5hnyfeE3q.htm](spells/necromancy-09-ZMY58Yk5hnyfeE3q.htm)|Linnorm Sting|Piqûre de linnorm|libre|
+|[necromancy-10-HpIJTVqgXorH9X0L.htm](spells/necromancy-10-HpIJTVqgXorH9X0L.htm)|Revival|Vivifier|officielle|
+|[necromancy-10-IGXGs9PlqUCvODcH.htm](spells/necromancy-10-IGXGs9PlqUCvODcH.htm)|Song of the Fallen|Chanson des morts au combat|libre|
 |[necromancy-10-uGXWkR2h8q9MRzEM.htm](spells/necromancy-10-uGXWkR2h8q9MRzEM.htm)|Hero's Defiance|Défi du héros|officielle|
 |[transmutation-01-0xR9vrt6uDFl0Umo.htm](spells/transmutation-01-0xR9vrt6uDFl0Umo.htm)|Wild Morph|Métamorphose sauvage|officielle|
 |[transmutation-01-1lmzILdCFENln8Cy.htm](spells/transmutation-01-1lmzILdCFENln8Cy.htm)|Physical Boost|Amélioration physique|officielle|
@@ -1115,6 +1099,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-04-8rj45fKzCFcB0fxs.htm](spells/transmutation-04-8rj45fKzCFcB0fxs.htm)|Enlarge Companion|Compagnon agrandi|libre|
 |[transmutation-04-A2JfEKe6BZcTG1S8.htm](spells/transmutation-04-A2JfEKe6BZcTG1S8.htm)|Fly|Vol|officielle|
 |[transmutation-04-APTMURAW1N0Wpk4w.htm](spells/transmutation-04-APTMURAW1N0Wpk4w.htm)|Precious Metals|Métaux précieux|officielle|
+|[transmutation-04-b5sGjGlBf58f8jn0.htm](spells/transmutation-04-b5sGjGlBf58f8jn0.htm)|Air Walk|Marche dans les airs|officielle|
 |[transmutation-04-bKDsmKVosexwJ80i.htm](spells/transmutation-04-bKDsmKVosexwJ80i.htm)|Mantis Form|Forme de la mante|officielle|
 |[transmutation-04-cBUuG1yJHGeKffpg.htm](spells/transmutation-04-cBUuG1yJHGeKffpg.htm)|Localized Quake|Séisme localisé|officielle|
 |[transmutation-04-CHZQJg7O7991Vl4m.htm](spells/transmutation-04-CHZQJg7O7991Vl4m.htm)|Familiar Form|Forme de familier|libre|
@@ -1125,6 +1110,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-04-gSFg9zKwgcNZLMEs.htm](spells/transmutation-04-gSFg9zKwgcNZLMEs.htm)|Stormwind Flight|Vol de l'ouragan|officielle|
 |[transmutation-04-KhM8MhoUgoUjBMIz.htm](spells/transmutation-04-KhM8MhoUgoUjBMIz.htm)|Dinosaur Form|Forme de dinosaure|officielle|
 |[transmutation-04-L8pzCOi7Jzx5ALs9.htm](spells/transmutation-04-L8pzCOi7Jzx5ALs9.htm)|Disperse into Air|Disparition dans les airs|officielle|
+|[transmutation-04-McnPlLFvKtQVXNcG.htm](spells/transmutation-04-McnPlLFvKtQVXNcG.htm)|Shape Stone|Façonnage de la pierre|officielle|
+|[transmutation-04-NzXpEzcZAjuDTZjK.htm](spells/transmutation-04-NzXpEzcZAjuDTZjK.htm)|Aerial Form|Forme aérienne|officielle|
 |[transmutation-04-oiUhJbJ3YCKF62Fu.htm](spells/transmutation-04-oiUhJbJ3YCKF62Fu.htm)|Darkened Eyes|Assombrir le regard|officielle|
 |[transmutation-04-oND3oFBjxrhyVvyG.htm](spells/transmutation-04-oND3oFBjxrhyVvyG.htm)|Community Repair|Réparation communautaire|libre|
 |[transmutation-04-Pd2M1XY8EXrSfWgJ.htm](spells/transmutation-04-Pd2M1XY8EXrSfWgJ.htm)|Swarm Form|Forme de nuée|libre|
@@ -1133,6 +1120,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-04-V8wXOsoejQhe6CyG.htm](spells/transmutation-04-V8wXOsoejQhe6CyG.htm)|Gaseous Form|Forme gazeuse|officielle|
 |[transmutation-04-VuPDHoVEPLbMfCJC.htm](spells/transmutation-04-VuPDHoVEPLbMfCJC.htm)|Bestial Curse|Malédiction bestiale|libre|
 |[transmutation-05-1aXX52MnVbBvT9S7.htm](spells/transmutation-05-1aXX52MnVbBvT9S7.htm)|Establish Nexus|Établir un nexus|libre|
+|[transmutation-05-1K6AYGisvo9gqdhs.htm](spells/transmutation-05-1K6AYGisvo9gqdhs.htm)|Elemental Form|Forme élémentaire|officielle|
 |[transmutation-05-5tpk4Q2QI3FVhm99.htm](spells/transmutation-05-5tpk4Q2QI3FVhm99.htm)|Rewinding Step|Retour en arrière|libre|
 |[transmutation-05-B3tbO85GBpzQ3u8l.htm](spells/transmutation-05-B3tbO85GBpzQ3u8l.htm)|Wish-Twisted Form|Forme déformée par un souhait|libre|
 |[transmutation-05-CcXtbTxtdV9MKQfu.htm](spells/transmutation-05-CcXtbTxtdV9MKQfu.htm)|Mantle of the Frozen Heart|Manteau du cœur gelé|libre|
@@ -1145,7 +1133,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-05-LzfrBDxxPTiuN7uL.htm](spells/transmutation-05-LzfrBDxxPTiuN7uL.htm)|Transmute Rock And Mud|Transmutation de la roche et de la boue|libre|
 |[transmutation-05-y5pzaNfb17CM1slC.htm](spells/transmutation-05-y5pzaNfb17CM1slC.htm)|Blackfinger's Blades|Lames de Doigtnoir|libre|
 |[transmutation-05-YtesyvfAIwXOqISq.htm](spells/transmutation-05-YtesyvfAIwXOqISq.htm)|Moon Frenzy|Frénésie lunaire|officielle|
+|[transmutation-05-zCcfPS4y5SrZzU2x.htm](spells/transmutation-05-zCcfPS4y5SrZzU2x.htm)|Plant Form|Forme de plante|officielle|
 |[transmutation-06-29AyhknPKiDBcy8s.htm](spells/transmutation-06-29AyhknPKiDBcy8s.htm)|Statuette|Statuette|libre|
+|[transmutation-06-5c692cCcTDXjSEzk.htm](spells/transmutation-06-5c692cCcTDXjSEzk.htm)|Dragon Form|Forme de dragon|officielle|
 |[transmutation-06-aSDfGcUOUVGU5m1g.htm](spells/transmutation-06-aSDfGcUOUVGU5m1g.htm)|Daemon Form|Forme de daémon|libre|
 |[transmutation-06-dKbv80rlAWVpz83C.htm](spells/transmutation-06-dKbv80rlAWVpz83C.htm)|Demon Form|Forme de démon|libre|
 |[transmutation-06-dN8QBNuTiaBHCKUe.htm](spells/transmutation-06-dN8QBNuTiaBHCKUe.htm)|Baleful Polymorph|Métamorphose funeste|libre|
@@ -1155,18 +1145,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-06-Pr1ruNTbzGn3H9w5.htm](spells/transmutation-06-Pr1ruNTbzGn3H9w5.htm)|Stone to Flesh|Pierre en chair|officielle|
 |[transmutation-06-xEjGEBvTfDJECSki.htm](spells/transmutation-06-xEjGEBvTfDJECSki.htm)|Ancestral Form|Forme ancestrale|libre|
 |[transmutation-06-YtBZq49N4Um1cwm7.htm](spells/transmutation-06-YtBZq49N4Um1cwm7.htm)|Nature's Reprisal|Réprésailles de la nature|libre|
+|[transmutation-06-zhqnMOVPzVvWSUbC.htm](spells/transmutation-06-zhqnMOVPzVvWSUbC.htm)|Tempest Form|Forme tempêtueuse|libre|
+|[transmutation-06-znv4ECL7ZtuiagtA.htm](spells/transmutation-06-znv4ECL7ZtuiagtA.htm)|Flesh to Stone|Chair en pierre|officielle|
 |[transmutation-07-3MzuRDc7ccylpW2e.htm](spells/transmutation-07-3MzuRDc7ccylpW2e.htm)|Hasted Assault|Assaut hâtif|libre|
 |[transmutation-07-9aFg4EuOBVz0i3Lb.htm](spells/transmutation-07-9aFg4EuOBVz0i3Lb.htm)|Corrosive Body|Corps corrosif|libre|
 |[transmutation-07-E3zIZ4pjlOuWeGRz.htm](spells/transmutation-07-E3zIZ4pjlOuWeGRz.htm)|Angel Form|Forme d'ange|libre|
 |[transmutation-07-hiVL8qsnTJtpouw0.htm](spells/transmutation-07-hiVL8qsnTJtpouw0.htm)|Divine Vessel|Réceptacle divin|officielle|
 |[transmutation-07-IHUs4qn27RrdFQ5Y.htm](spells/transmutation-07-IHUs4qn27RrdFQ5Y.htm)|Cosmic Form|Forme cosmique|libre|
 |[transmutation-07-XS7Wyh5YC0NWeWyB.htm](spells/transmutation-07-XS7Wyh5YC0NWeWyB.htm)|Fiery Body|Corps enflammé|officielle|
+|[transmutation-08-8AMvNVOUEtxBCDvJ.htm](spells/transmutation-08-8AMvNVOUEtxBCDvJ.htm)|Monstrosity Form|Forme monstrueuse|officielle|
 |[transmutation-08-U0hL0LLaprcnAyzC.htm](spells/transmutation-08-U0hL0LLaprcnAyzC.htm)|Wind Walk|Voyage venteux|officielle|
 |[transmutation-08-wTYxxYJWN348oV15.htm](spells/transmutation-08-wTYxxYJWN348oV15.htm)|Medusa's Wrath|Courroux de la méduse|libre|
 |[transmutation-09-pswdik31kuHEvdno.htm](spells/transmutation-09-pswdik31kuHEvdno.htm)|Shapechange|Changement de forme|officielle|
 |[transmutation-09-TbYqDhlNRiWHe146.htm](spells/transmutation-09-TbYqDhlNRiWHe146.htm)|One With the Land|Uni à la terre|libre|
 |[transmutation-09-YDMOqndvYFu3OjA6.htm](spells/transmutation-09-YDMOqndvYFu3OjA6.htm)|Ki Form|Forme ki|libre|
 |[transmutation-10-1dsahW4g1ggXtypx.htm](spells/transmutation-10-1dsahW4g1ggXtypx.htm)|Time Stop|Arrêt du temps|officielle|
+|[transmutation-10-ckUOoqOM7Kg7VqxB.htm](spells/transmutation-10-ckUOoqOM7Kg7VqxB.htm)|Avatar|Avatar|officielle|
 |[transmutation-10-pmP8HhXvvEKP3LqU.htm](spells/transmutation-10-pmP8HhXvvEKP3LqU.htm)|Primal Herd|Troupeau primitif|officielle|
 |[transmutation-10-qqQYrXaRJXr7uc4i.htm](spells/transmutation-10-qqQYrXaRJXr7uc4i.htm)|Apex Companion|Compagnon alpha|libre|
 |[transmutation-10-vQMAdnIwnV9prPiG.htm](spells/transmutation-10-vQMAdnIwnV9prPiG.htm)|Element Embodied|Incarnation élémentaire|libre|

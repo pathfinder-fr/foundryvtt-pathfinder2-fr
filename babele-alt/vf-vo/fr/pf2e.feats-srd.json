@@ -2256,7 +2256,7 @@
         {
             "id": "Living Weapon (Jaws)",
             "name": "Arme vivante (mâchoires) (Living Weapon (Jaws))",
-            "description": "<p>Vous avez appris à utiliser les mâchoires de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de mâchoires qui infligent [[/r 1d6 #perforants]]{1d6 dégâts perforants} (Polyvalent T).</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat. Cette capacité est modifiable ; vous pouvez choisir ce don à chaque niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une nouvelle attaque parmi les options ci-dessus.</p>"
+            "description": "<p>Vous avez appris à utiliser les mâchoires de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de mâchoires qui infligent [[/r {1d6}[piercing]]]{1d6 dégâts perforants} (Polyvalent T).</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une nouvelle forme d'attaque.</p>"
         },
         {
             "id": "Slither",
@@ -2346,7 +2346,7 @@
         {
             "id": "Ranged Combatant (Piercing)",
             "name": "Combattant à distance (perforant) (Ranged Combatant (Piercing))",
-            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #perforants]]{1d4 dégâts perforants} et qui possède les traits magique et propulsif.</p>"
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r {1d4}[piercing]]]{1d4 dégâts perforants} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Whirlwind Spell",
@@ -2788,7 +2788,7 @@
         {
             "id": "Discordant Voice",
             "name": "Voix discordante (Discordant Voice)",
-            "description": "<p>Votre Inspiration vaillante relâche un son discordant qui imprègne les attaques de vos alliés avec de puissantes réverbérations sonores.</p>\n<p>Lorsque vos alliés sont affectés par votre @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{inspiration vaillante}, leurs @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} avec des armes et leurs attaques à mains nues infligent [[/r 1d6 #son]] dégâts de son supplémentaires.</p>\n<p>@Compendium[pf2e.feat-effects.oXG7eX26FmePmwUF]{Effet : Voix discordante}</p>",
+            "description": "<p>Votre Inspiration vaillante relâche un son discordant qui imprègne les attaques de vos alliés avec de puissantes réverbérations sonores.</p>\n<p>Lorsque vos alliés sont affectés par votre @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{inspiration vaillante}, leurs @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} avec des armes et leurs attaques à mains nues infligent [[/r {1d6}[sonic]]]{1d6 dégâts de son} supplémentaires.</p>\n<p>@Compendium[pf2e.feat-effects.oXG7eX26FmePmwUF]{Effet : Voix discordante}</p>",
             "prereq": [
                 {
                     "value": "Inspiration vaillante"
@@ -2967,7 +2967,7 @@
         {
             "id": "Form Of The Fiend (Claw)",
             "name": "Forme du fiélon (Griffes) (Form Of The Fiend (Claw))",
-            "description": "<p>Une partie de votre corps possède une apparence fiélone évidente. Vos mains se terminent par des griffes en lame de rasoir, vous possédez des sabots au lieu de pieds, des dents effilées emplissent votre bouche ou une queue fouettante qui s'étend à partir de votre colonne vertébrale.</p>\n<p>Vous obtenez une attaque à mains nues de <strong>sabots</strong> qui inflige [[/r 1d6 #contondants]]{1d6 dégâts contondants}. L'attaque est dans le groupe pugilat et possède les dégâts et les traits à mains nues et finesse.</p>\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au niveau 1 et il ne peut faire l'objet d'un réapprentissage et vous ne pouvez pas changer le type d'attaque que vous avez obtenu.</p>"
+            "description": "<p>Une partie de votre corps possède une apparence fiélone évidente. Vos mains se terminent par des griffes en lame de rasoir, vous possédez des sabots au lieu de pieds, des dents effilées emplissent votre bouche ou une queue fouettante qui s'étend à partir de votre colonne vertébrale.</p>\n<p>Vous obtenez une attaque à mains nues de <strong>sabots</strong> qui inflige [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}. L'attaque est dans le groupe pugilat et possède les dégâts et les traits à mains nues et finesse.</p>\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au niveau 1 et il ne peut faire l'objet d'un réapprentissage et vous ne pouvez pas changer le type d'attaque que vous avez obtenu.</p>"
         },
         {
             "id": "Advanced Order Training",
@@ -3098,7 +3098,7 @@
         {
             "id": "Foxfire (Fire)",
             "name": "Feu de renard (feu) (Foxfire (Fire))",
-            "description": "<p>Une mêche de la fourrure de votre queue brille d'une énergie bleue. Vous obtenez une attaque à distance à mains nues de feu de renard avec une portée maximale de 6 m. L'attaque inflige [[/r 1d4 #feu]]{1d4 dégâts de feu} (aucun modificateur de caractéristique n'est ajouté au jet de dégâts). Votre attaque de feu de renard est dans le groupe d'arme des frondes.</p>\n<p>Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
+            "description": "<p>Une mêche de la fourrure de votre queue brille d'une énergie bleue. Vous obtenez une attaque à distance à mains nues de feu de renard avec une portée maximale de 6 m. L'attaque inflige [[/r {1d4}[fire]]]{1d4 dégâts de feu} (aucun modificateur de caractéristique n'est ajouté au jet de dégâts). Votre attaque de feu de renard est dans le groupe d'arme des frondes.</p>\n<p>Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
         },
         {
             "id": "Reveal Beasts",
@@ -4575,7 +4575,7 @@
         {
             "id": "Flinging Blow",
             "name": "Coup catapultant (Flinging Blow)",
-            "description": "<p>Vous prenez un moment pour vous recentrer vous-même, puis relâchez un coup puissant qui envoie valdinguer au loin votre cible.</p>\n<p>Faites une Frappe à mains nues. Si vous touchez, la cible doit réussir un jet de Vigueur contre votre DD de classe ou être repoussée à 3 m directement en arrière par rapport à vous (ou à 6 m en cas de coup critique) et se retrouver @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>\n<p>Si une autre créature ou objet physique vient faire obstacle à ce mouvement, votre cible comme l'objet ou la créature qui la bloquent subissent [[/r 1d6 #contondants]] dégâts contondants par tranche de 1,5 m de déplacement qui a été ainsi empêché.</p>"
+            "description": "<p>Vous prenez un moment pour vous recentrer vous-même, puis relâchez un coup puissant qui envoie valdinguer au loin votre cible.</p>\n<p>Faites une Frappe à mains nues. Si vous touchez, la cible doit réussir un jet de Vigueur contre votre DD de classe ou être Poussée à 3 m directement face à vous (ou à 6 m en cas de coup critique) et se retrouver @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>\n<p>Si une autre créature ou objet physique vient faire obstacle à ce déplacement, votre cible comme l'objet ou la créature qui la bloquent subissent [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants} par tranche de 1,5 m de déplacement qui a été ainsi empêché.</p>"
         },
         {
             "id": "Quick Jump",
@@ -4799,7 +4799,7 @@
         {
             "id": "Ranged Combatant (Slashing)",
             "name": "Combattant à distance (tranchant) (Ranged Combatant (Slashing))",
-            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #tranchants]]{1d4 dégâts tranchants} et qui possède les traits magique et propulsif.</p>"
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r {1d4}[slashing]]]{1d4 dégâts tranchants} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Raging Athlete",
@@ -5454,7 +5454,7 @@
         {
             "id": "Sprite's Spark (Firefly Sprite)",
             "name": "Étincelle du sprite (Sprite luciole) (Sprite's Spark (Firefly Sprite))",
-            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque d'étincelle lumineuse qui inflige [[/r 1d4 #feu]]{1d4 dégâts de feu}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts.) La plupart des héritages de sprites qui n'ont pas une forme d'attaque dédiée utilisent aussi l'attaque d'étincelle lumineuse. Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
+            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque d'étincelle lumineuse qui inflige [[/r {1d4}[fire]]]{1d4 dégâts de feu}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts.) La plupart des héritages de sprites qui n'ont pas une forme d'attaque dédiée utilisent aussi l'attaque d'étincelle lumineuse. Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
         },
         {
             "id": "Subtle Theft",
@@ -6242,7 +6242,7 @@
         {
             "id": "Eldritch Nails",
             "name": "Ongles mystiques (Eldritch Nails)",
-            "description": "<p>Vos ongles sont long et aiguisés de manière surnaturelle.</p>\n<p>Vous obtenez une attaque à mains nues d'ongles qui inflige [[/r 1d6 #tranchant]] dégâts tranchants. Vos ongles sont dans le groupe pugilat et ont les traits agile et à mains nues. Vous pouvez graver des runes sur vos ongles avec le même coût et les mêmes restrictions que pour graver des runes sur des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants} ; les runes gravées sur vos ongles s'appliquent aux attaques à mains nues d'ongles des deux mains mais pas aux autres attaques à mains nues.</p>\n<p>Vous pouvez délivrer des maléfices par le biais de vos ongles. Lorsque vous réussissez à lancer un maléfice qui n'est pas un tour de magie qui nécessite 2 actions ou plus pour le lancer et qui ne nécessitent pas un jet d'attaque de sort, si votre cible est dans votre allonge, comme part de votre activité d'incantation du sort vous pouvez porter une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} d'ongles contre l'ennemi avant d'appliquer tout effet du maléfice. Si cette Frappe échoue, le maléfice n'a aucun effet.</p>"
+            "description": "<p>Vos ongles sont long et aiguisés de manière surnaturelle.</p>\n<p>Vous obtenez une attaque à mains nues d'ongles qui inflige [[/r {1d6}[slashing]]]{1d6 dégâts tranchants}. Vos ongles sont dans le groupe pugilat et ont les traits agile et à mains nues. Vous pouvez graver des runes sur vos ongles avec le même coût et les mêmes restrictions que pour graver des runes sur des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants} ; les runes gravées sur vos ongles s'appliquent aux attaques à mains nues d'ongles des deux mains mais pas aux autres attaques à mains nues.</p>\n<p>Vous pouvez délivrer des maléfices par le biais de vos ongles. Lorsque vous réussissez à lancer un maléfice qui n'est pas un tour de magie qui nécessite 2 actions ou plus pour le lancer et qui ne nécessitent pas un jet d'attaque de sort, si votre cible est dans votre allonge, comme part de votre activité d'incantation du sort vous pouvez porter une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} d'ongles contre l'ennemi avant d'appliquer tout effet du maléfice. Si cette Frappe échoue, le maléfice n'a aucun effet.</p>"
         },
         {
             "id": "Mountain Stronghold",
@@ -6371,7 +6371,7 @@
         {
             "id": "Razor Claws",
             "name": "Griffes rasoir (Razor Claws)",
-            "description": "<p>Vous avez aiguisé vos griffes pour qu'elles soient mortelles. Votre attaque de griffe inflige [[/r 1d6 #tranchants]] dégâts tranchants au lieu de 1d4 et possède le trait polyvalent (Perforant).</p>"
+            "description": "<p>Vous avez aiguisé vos griffes pour qu'elles soient mortelles. Votre attaque de griffe inflige [[/r {1d6}[slashing]]]{1d6 dégâts tranchants} au lieu de 1d4 et possède le trait polyvalent (Perforant).</p>"
         },
         {
             "id": "Terrain Expertise (Desert)",
@@ -6806,7 +6806,7 @@
         {
             "id": "Form Of The Fiend (Hoof)",
             "name": "Forme du fiélon (sabots) (Form Of The Fiend (Hoof))",
-            "description": "<p>Une partie de votre corps possède une apparence fiélone évidente. Vos mains se terminent par des griffes en lame de rasoir, vous possédez des sabots au lieu de pieds, des dents effilées emplissent votre bouche ou une queue fouettante qui s'étend à partir de votre colonne vertébrale.</p>\n<p>Vous obtenez une attaque à mains nues de <strong>sabots</strong> qui inflige [[/r 1d6 #contondants]]{1d6 dégâts contondants}. L'attaque est dans le groupe pugilat et possède les dégâts et les traits à mains nues et finesse.</p>\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au niveau 1 et il ne peut faire l'objet d'un réapprentissage et vous ne pouvez pas changer le type d'attaque que vous avez obtenu.</p>"
+            "description": "<p>Une partie de votre corps possède une apparence fiélone évidente. Vos mains se terminent par des griffes en lame de rasoir, vous possédez des sabots au lieu de pieds, des dents effilées emplissent votre bouche ou une queue fouettante qui s'étend à partir de votre colonne vertébrale.</p>\n<p>Vous obtenez une attaque à mains nues de <strong>sabots</strong> qui inflige [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}. L'attaque est dans le groupe pugilat et possède les dégâts et les traits à mains nues et finesse.</p>\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au niveau 1 et il ne peut faire l'objet d'un réapprentissage et vous ne pouvez pas changer le type d'attaque que vous avez obtenu.</p>"
         },
         {
             "id": "Sun Blade",
@@ -8608,7 +8608,7 @@
         {
             "id": "Tusks (Half-Orc)",
             "name": "Défenses (demi-orc) (Tusks (Half-Orc))",
-            "description": "<p>La plupart des demi-orcs possèdent des défenses visibles mais les vôtres sont particulièrement grandes et pointues, capables d'infliger des blessures profondes.</p>\n<p>Vous obtenez une attaque à mains nues de mâchoire qui inflige [[/r 1d6 #perforants]] dégâts perforants.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez prendre ce don qu'au niveau 1 et vous ne pouvez jamais utiliser le réapprentissage pour perdre ou prendre ce don par la suite.</p>"
+            "description": "<p>La plupart des demi-orcs possèdent des défenses visibles mais les vôtres sont particulièrement grandes et pointues, capables d'infliger des blessures profondes.</p>\n<p>Vous obtenez une attaque à mains nues de mâchoire qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez prendre ce don qu'au niveau 1 et vous ne pouvez jamais utiliser le réapprentissage pour perdre ou prendre ce don par la suite.</p>"
         },
         {
             "id": "Folklorist Dedication",
@@ -9524,7 +9524,7 @@
         {
             "id": "Saber Teeth",
             "name": "Dents de sabre (Saber Teeth)",
-            "description": "<p>Vous avez de longs crocs, naturels ou améliorés. Vous obtenez une attaque de mâchoires à mains nues qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}. Vos mâchoires sont dans le groupe pugilat et ont le trait à mains nues.</p>"
+            "description": "<p>Vous avez de longs crocs, naturels ou améliorés. Vous obtenez une attaque de mâchoires à mains nues qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Vos mâchoires sont dans le groupe pugilat et ont le trait à mains nues.</p>"
         },
         {
             "id": "Strangle",
@@ -9600,7 +9600,7 @@
         {
             "id": "Sprite's Spark (Nyktera)",
             "name": "Étincellle du sprite (Nyctère) (Sprite's Spark (Nyktera))",
-            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque d'impulsion ultrasonique qui inflige [[/r 1d4 #son]]{1d4 dégâts de son}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts). Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
+            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque d'impulsion ultrasonique qui inflige [[/r {1d4}[sonic]]]{1d4 dégâts de son}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts). Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
         },
         {
             "id": "Greater Animal Senses (Tremorsense)",
@@ -9858,7 +9858,7 @@
         {
             "id": "Claws Of The Dragon (Draconic Bloodline)",
             "name": "Griffes du dragon (Lignage draconique) (Claws Of The Dragon (Draconic Bloodline))",
-            "description": "<p>Les ongles de vos mains se transforment en griffes coupantes comme des rasoirs et des écailles mouchetent vos doigts, vos mains et vos poignets.</p>\n<p>Vos griffes ont les traits agile, finesse et à mains nues. Elles infligent [[/r 1d6 #tranchants]]{1d6 dégâts tranchants} et font partie du groupe d'arme pugilat.</p>\n<p>Lorsque vous Lancez Griffes du dragon, augmentez les dégâts tranchants d'1d4 à 1d6 et augmentez votre résistance à 10 au niveau 1, 15 au niveau 5 et 20 au niveau 9.</p>",
+            "description": "<p>Les ongles de vos mains se transforment en griffes coupantes comme des rasoirs et des écailles mouchetent vos doigts, vos mains et vos poignets.</p>\n<p>Vos griffes ont les traits agile, finesse et à mains nues. Elles infligent [[/r {1d6}[slashing]]]{1d6 dégâts tranchants} et font partie du groupe d'arme pugilat.</p>\n<p>Lorsque vous Lancez Griffes du dragon, augmentez les dégâts tranchants d'1d4 à 1d6 et augmentez votre résistance à 10 au niveau 1, 15 au niveau 5 et 20 au niveau 9.</p>",
             "prereq": [
                 {
                     "value": "Dévouement du disciple draconique"
@@ -10670,7 +10670,7 @@
         {
             "id": "Reflective Ripple Stance",
             "name": "Posture de l'onde réfléchissante (Reflective Ripple Stance)",
-            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous prenez une posture de grace fluide comme si de petites quantités d'eau accompagnaient vos déplacements et vos attaques. Vous pouvez porter des attaques de vagues coulantes qui infligent [[/r 1d6 #contondants]]{1d6 dégâts contondants}. Ces attaques sont dans le groupe pugilat et possèdent les traits agile, désarmer, finesse, non létal, croc-en-jambe, à mains nues et eau.</p>\n<p>Tant que vous êtes dans la posture de l'onde réfléchissante, vous obtenez un bonus de circonstances de +1 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou pour faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} et vous obtenee un bonus de circonstance de +2 à votre DD de Réflexes pour éviter d'être Désarmé ou contre les Croc-en-Jambe.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don obtient à votre choix le trait divin ou occulte, correspondant à la tradition de vos sorts de ki si c'est possible.</p>"
+            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous prenez une posture de grace fluide comme si de petites quantités d'eau accompagnaient vos déplacements et vos attaques. Vous pouvez porter des attaques de vagues coulantes qui infligent [[[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}. Ces attaques sont dans le groupe pugilat et possèdent les traits agile, désarmer, finesse, non létal, croc-en-jambe, à mains nues et eau.</p>\n<p>Tant que vous êtes dans la posture de l'onde réfléchissante, vous obtenez un bonus de circonstances de +1 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou pour faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} et vous obtenee un bonus de circonstance de +2 à votre DD de Réflexes pour éviter d'être Désarmé ou contre les Croc-en-Jambe.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don obtient à votre choix le trait divin ou occulte, correspondant à la tradition de vos sorts de ki si c'est possible.</p>"
         },
         {
             "id": "Log Roll",
@@ -11277,7 +11277,7 @@
         {
             "id": "Corrupted Shield",
             "name": "Bouclier corrompu (Corrupted Shield)",
-            "description": "<p>Votre allié bouclier est plus que juste un esprit de protection — c'est un conduit pour la magie divine mortelle.</p>\n<p>Lorsque vous utilisez votre allié bouclier pour effectuer un @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier} contre une Frappe à mains nues de mêlée ou une arme de mêlée d'une créature adjacente, l'attaquant subit [[/r 1d6 #mal]] dégâts mauvais ou négatifs (selon votre choix).</p>\n<p>Si l'attaque ou la Frappe brise ou détruit votre bouclier, doublez ces dégâts supplémentaires.</p>\n<p>Les dégâts que l'attaquant subit passent à [[/r 2d6]] dégâts au niveau 11 et [[/r 3d6]] dégâts au niveau 16.</p>",
+            "description": "<p>Votre allié bouclier est plus que juste un esprit de protection — c'est un conduit pour la magie divine mortelle.</p>\n<p>Lorsque vous utilisez votre allié bouclier pour effectuer un @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier} contre une Frappe à mains nues de mêlée ou une arme de mêlée d'une créature adjacente, l'attaquant subit [[/r {1d6}[evil]]]{1d6 dégâts mauvais} ou [[/r {1d6}[negative]]]{1d6 dégâts négatifs} (selon votre choix).</p>\n<p>Si l'attaque ou la Frappe brise ou détruit votre bouclier, doublez ces dégâts supplémentaires.</p>\n<p>Les dégâts que l'attaquant subit passent à [[/r {2d6}]]{2d6} au niveau 11 et [[/r {3d6}]]{3d6} au niveau 16.</p>",
             "prereq": [
                 {
                     "value": "Allié divin (bouclier)"
@@ -12423,8 +12423,8 @@
         },
         {
             "id": "Form Of The Fiend (Jaws)",
-            "name": "Forme de fiélon (Mâchoires) (Form Of The Fiend (Jaws))",
-            "description": "<p>Une partie de votre corps possède une apparence fiélone évidente. Vos mains se terminent par des griffes en lame de rasoir, vous possédez des sabots au lieu de pieds, des dents effilées emplissent votre bouche ou une queue fouettante qui s'étend à partir de votre colonne vertébrale.</p>\n<p>Vous obtenez une attaque à mains nues de <strong>Mâchoires</strong> qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}. L'attaque est dans le groupe pugilat et possède les dégâts et les traits à mains nues et finesse.</p>\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au niveau 1 et il ne peut faire l'objet d'un réapprentissage et vous ne pouvez pas changer le type d'attaque que vous avez obtenu.</p>"
+            "name": "Forme de fiélon (mâchoires) (Form Of The Fiend (Jaws))",
+            "description": "<p>Une partie de votre corps possède une apparence fiélone évidente. Vos mains se terminent par des griffes en lame de rasoir, vous possédez des sabots au lieu de pieds, des dents effilées emplissent votre bouche ou une queue fouettante qui s'étend à partir de votre colonne vertébrale.</p>\n<p>Vous obtenez une attaque à mains nues de <strong>Mâchoires</strong> qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. L'attaque est dans le groupe pugilat et possède les dégâts et les traits à mains nues et finesse.</p>\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au niveau 1 et il ne peut faire l'objet d'un réapprentissage et vous ne pouvez pas changer le type d'attaque que vous avez obtenu.</p>"
         },
         {
             "id": "Uneasy Rest",
@@ -12776,7 +12776,7 @@
         {
             "id": "Foxfire (Electricity)",
             "name": "Feu de renard (électricité) (Foxfire (Electricity))",
-            "description": "<p>Une mêche de la fourrure de votre queue brille d'une énergie bleue. Vous obtenez une attaque à distance à mains nues de feu de renard avec une portée maximale de 6 m. L'attaque inflige [[/r 1d4 #électricité]]{1d4 dégâts d'électricité} (aucun modificateur de caractéristique n'est ajouté au jet de dégâts). Votre attaque de feu de renard est dans le groupe d'arme des frondes.</p>\n<p>Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
+            "description": "<p>Une mêche de la fourrure de votre queue brille d'une énergie bleue. Vous obtenez une attaque à distance à mains nues de feu de renard avec une portée maximale de 6 m. L'attaque inflige [[/r {1d4}[electricity]]]{1d4 dégâts d'électricité} (aucun modificateur de caractéristique n'est ajouté au jet de dégâts). Votre attaque de feu de renard est dans le groupe d'arme des frondes.</p>\n<p>Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
         },
         {
             "id": "Swift River",
@@ -13185,7 +13185,7 @@
         {
             "id": "Radiant Infusion",
             "name": "Imprégnation irradiante (Radiant Infusion)",
-            "description": "<p>Vous remplissez d'énergie positive revigorante un allié vivant. Si la prochaine action que vous utilisez consiste à lancer @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} pour restaurer des Points de vie à une unique créature vivante, la cible inflige [[/r 1d6 #positif]] dégâts positifs supplémentaires avec ses armes de mêlée et ses attaques à mains nues jusqu'à la fin de son prochain tour.</p>\n<p>Si le sort de Guérison est d'au moins du niveau 5, ces dégâts passent à [[/r 2d6 #positifs]] ou à [[/r 3d6 #positifs]] si le sort est au moins du niveau 8.</p>\n<p>@Compendium[pf2e.feat-effects.cH8JD3ub4eEKuIAD]{Effet : Imprégnation irradiante}</p>",
+            "description": "<p>Vous remplissez d'énergie positive revigorante un allié vivant. Si la prochaine action que vous utilisez consiste à lancer @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} pour restaurer des Points de vie à une unique créature vivante, la cible inflige [[/r {1d6}[positive]]]{1d6 dégâts positifs} supplémentaires avec ses armes au corps-à-corps et ses attaques à mains nues jusqu'à la fin de son prochain tour.</p>\n<p>Si le sort de <em>Guérison</em> est d'au moins du niveau 5, ces dégâts passent à [[/r {2d6}[positive]]]{2d6 dégâts positifs} ou à [[/r {3d6}[positive]]]{3d6 dégâts positifs} si le sort est au moins du niveau 8.</p>\n<p>@Compendium[pf2e.feat-effects.cH8JD3ub4eEKuIAD]{Effet : Imprégnation irradiante}</p>",
             "prereq": [
                 {
                     "value": "alignement bon"
@@ -15915,7 +15915,7 @@
         {
             "id": "Ranged Combatant (Bludgeoning)",
             "name": "Combattant à distance (contondant) (Ranged Combatant (Bludgeoning))",
-            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #contondants]]{1d4 dégâts contondants} et qui possède les traits magique et propulsif.</p>"
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r {1d4}[bludgeoning]]]{1d4 dégâts contondants} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Bless Tonic",
@@ -16964,7 +16964,7 @@
         {
             "id": "Bloodletting Claws",
             "name": "Griffes hémorragiques (Bloodletting Claws)",
-            "description": "<p>Votre eidolon inflige des blessures hémorragiques sur un coup terrible. Si votre eidolon inflige un coup critique avec une frappe au corps-à-corps à mains nues qui inflige des dégâts tranchants ou perforants, sa cible subit [[/r 1d6 #saignement persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 Dégâts de saignement persistant}. Votre eidolon bénéficie d'un bonus d'objet à ces dégâts de saignement égal au bonus d'objet aux jets d'attaque de l'attaque à mains nues. Il s'agit d'un effet de critique spécialisé.</p>"
+            "description": "<p>Votre eidolon inflige des blessures hémorragiques sur un coup terrible. Si votre eidolon inflige un coup critique avec une frappe au corps-à-corps à mains nues qui inflige des dégâts tranchants ou perforants, sa cible subit [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de saignement persistant}. Votre eidolon bénéficie d'un bonus d'objet à ces dégâts de saignement égal au bonus d'objet aux jets d'attaque de l'attaque à mains nues. Il s'agit d'un effet de critique spécialisé.</p>"
         },
         {
             "id": "Hag Claws",
@@ -18158,12 +18158,12 @@
         {
             "id": "Tusks (Orc)",
             "name": "Défenses (orc) (Tusks (Orc))",
-            "description": "<p>Vous possédez de particulièrement longues défenses dentelées parfaites pour arracher la viande de l'os. Vous obtenez une attaque à mains nues de défenses qui inflige [[/r 1d6 #perforants]] dégâts perforants. Vos défenses font partie du groupe pugilat et possèdent les traits à mains nues et finesse.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au premier niveau et vous ne pouvez utiliser le réapprentissage pour obtenir ce don. Vous ne pouvez le perdre qu'en utilisant des mesures drastiques comme perdre ou limer vos défenses.</p>"
+            "description": "<p>Vous possédez de particulièrement longues défenses dentelées parfaites pour arracher la viande de l'os. Vous obtenez une attaque à mains nues de défenses qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Vos défenses font partie du groupe pugilat et possèdent les traits à mains nues et finesse.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au premier niveau et vous ne pouvez utiliser le réapprentissage pour obtenir ce don. Vous ne pouvez le perdre qu'en utilisant des mesures drastiques comme perdre ou limer vos défenses.</p>"
         },
         {
             "id": "Ranged Combatant (Cold)",
             "name": "Combattant à distance (Froid) (Ranged Combatant (Cold))",
-            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #froid]]{1d4 dégâts de froid} et qui possède les traits magique et propulsif.</p>"
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r {1d4}[cold]]]{1d4 dégâts de froid} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Deny Support",
@@ -18241,7 +18241,7 @@
         {
             "id": "Pristine Weapon",
             "name": "Arme immaculée (Pristine Weapon)",
-            "description": "<p>Votre arme verdoyante peut passer les résistances des créatures magiques. L'arme est considérée comme en fer froid et en argent. Si vous obtenez un succès critique pour toucher une créature qui a une faiblesse au fer froid ou à l'argent, la cible subit [[/r 1d6 #saignement persistant]] dégâts de saignement persistants lorsque les énergies primordiales contenues dans votre arme ralentissent sa guérison naturelle.</p>",
+            "description": "<p>Votre arme verdoyante peut passer les résistances des créatures magiques. L'arme est considérée comme en fer froid et en argent. Si vous obtenez un succès critique pour toucher une créature qui a une faiblesse au fer froid ou à l'argent, la cible subit [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de saignement persistants} parce que les énergies primordiales contenues dans votre arme ralentissent sa guérison naturelle.</p>",
             "prereq": [
                 {
                     "value": "Arme verdoyante"
@@ -18467,7 +18467,7 @@
         {
             "id": "Ostentatious Arrival",
             "name": "Arrivée ostentatoire (Ostentatious Arrival)",
-            "description": "<p>Si la prochaine action que vous entreprenez est de manifester votre eidolon en utilisant une activité à trois actions ou de lancer un sort d'invocation à trois actions, la créature apparaît dans une explosion..</p>\n<p>Toutes les créatures situées dans une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"10\">émanation de 3 m</span> autour de la créature que vous avez invoquée ou manifestée subissent [[/r 1d4 #feu]]{1d4 dégâts de feu par niveau de sort} pour un sort d'invocation, ou [[/r (floor(@details.level.value/2))d4 #feu]]{1d4 dégâts par tranche de 2 niveaux} pour la manifestation de votre eidolon.</p>\n<p>Si la créature que vous avez invoquée ou manifestée possède le trait acide, froid, électricité, feu, sonique ou eau, les dégâts sont de ce type à la place (ou des dégâts de froid pour le trait eau). Si la créature possède plus d'un de ces traits, vous choisissez le type de dégâts à infliger.</p>"
+            "description": "<p>Si la prochaine action que vous entreprenez est de manifester votre eidolon en utilisant une activité à trois actions ou de lancer un sort d'invocation à trois actions, la créature apparaît dans une explosion..</p>\n<p>Toutes les créatures situées dans une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"10\">émanation de 3 m</span> autour de la créature que vous avez invoquée ou manifestée subissent [[/r {1d4}[fire]]]{1d4 dégâts de feu par niveau de sort} pour un sort d'invocation, ou [[/r (floor(@details.level.value/2))d4 #feu]]{1d4 dégâts par tranche de 2 niveaux} pour la manifestation de votre eidolon.</p>\n<p>Si la créature que vous avez invoquée ou manifestée possède le trait acide, froid, électricité, feu, sonique ou eau, les dégâts sont de ce type à la place (ou des dégâts de froid pour le trait eau). Si la créature possède plus d'un de ces traits, vous choisissez le type de dégâts à infliger.</p>"
         },
         {
             "id": "Snap Out Of It! (Pathfinder Agent)",
@@ -19370,7 +19370,7 @@
         {
             "id": "Blessed Blood (Aasimar)",
             "name": "Sang béni (Aasimar) (Blessed Blood (Aasimar))",
-            "description": "<p>Votre sans fraichement répandu est sanctifié et l'ingérer cause des effets similaires à ceux de l'@Compendium[pf2e.equipment-srd.efFe4EK7ThUrH446]{Eau bénite}.</p>\n<p>Lorsqu'un fiélon, un mort-vivant ou une créature avec une faiblesse aux dégats Bons boit votre sang ou vous inflige des dégâts perforants ou tranchants avec des mâchoires, des crocs ou une attaque similaire, cette créature subit [[/r 1d6 #bien]] dégâts du bien.</p>\n<p>Vous obtenez un bonus de circonstances de +4 aux tests d'Artisanat pour @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} de l'eau bénite en utilisant votre propre sang comme un des ingrédients.</p>"
+            "description": "<p>Votre sans fraichement répandu est sanctifié et l'ingérer cause des effets similaires à ceux de l'@Compendium[pf2e.equipment-srd.efFe4EK7ThUrH446]{Eau bénite}.</p>\n<p>Lorsqu'un fiélon, un mort-vivant ou une créature avec une faiblesse aux dégats Bons boit votre sang ou vous inflige des dégâts perforants ou tranchants avec des mâchoires, des crocs ou une attaque similaire, cette créature subit [[/r {1d6}[good]]]{1d6 dégâts du bien}.</p>\n<p>Vous obtenez un bonus de circonstances de +4 aux tests d'Artisanat pour @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} de l'eau bénite en utilisant votre propre sang comme un des ingrédients.</p>"
         },
         {
             "id": "Rapid Mantel",
@@ -20015,7 +20015,7 @@
         {
             "id": "Fangs",
             "name": "Crocs (Fangs)",
-            "description": "<p>Vos incisives ont grandi en formant de véritables crocs : longs, pointus et idéaux pour drainer le sang.</p>\n<p>Vous obtenez une attaque à mains nues de crocs qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}. Vos crocs sont dans le groupe pugilat et ont les traits à mains nues et saisir.</p>"
+            "description": "<p>Vos incisives ont grandi en formant de véritables crocs : longs, pointus et idéaux pour drainer le sang.</p>\n<p>Vous obtenez une attaque à mains nues de crocs qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Vos crocs sont dans le groupe pugilat et ont les traits à mains nues et saisir.</p>"
         },
         {
             "id": "Unnerving Prowess",
@@ -20383,7 +20383,7 @@
         {
             "id": "Smashing Tail",
             "name": "Queue fouettante (Smashing Tail)",
-            "description": "<p>Vous avez une queue qui sert d'arme puissante. Vous obtenez une attaque à mains nues de queue qui inflige [[/r 1d6 #contondants]]{1d6 dégâts contondants}, possède le trait balayage et se trouve dans le groupe pugilat.</p>"
+            "description": "<p>Vous avez une queue qui sert d'arme puissante. Vous obtenez une attaque à mains nues de queue qui inflige [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}, possède le trait balayage et se trouve dans le groupe pugilat.</p>"
         },
         {
             "id": "Extradimensional Stash",
@@ -20408,7 +20408,7 @@
         {
             "id": "Living Weapon (Claws)",
             "name": "Arme vivante (Griffes) (Living Weapon (Claws))",
-            "description": "<p>Vous avez appris à utiliser les griffes de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de Griffes infligeant [[/r 1d4 #tranchants]]{1d4 dégâts tranchants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède les traits agile et finesse. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une nouvelle attaque parmi les options ci-dessus.</p>"
+            "description": "<p>Vous avez appris à utiliser les griffes de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de Griffes infligeant [[/r {1d4}[slashing]]]{1d4 dégâts tranchants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède les traits agile et finesse. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une nouvelle attaque parmi les options ci-dessus.</p>"
         },
         {
             "id": "Ki Form",
@@ -20622,7 +20622,7 @@
         {
             "id": "Living Weapon (Tusk)",
             "name": "Arme vivante (défense) (Living Weapon (Tusk))",
-            "description": "<p>Vous avez appris à utiliser les défenses de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de défenses qui infligent [[/r 1d6 #perforants]]{1d6 dégâts perforants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède le trait Polyvalent T. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une autre forme d'attaque à mains nues.</p>"
+            "description": "<p>Vous avez appris à utiliser les défenses de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de défenses qui infligent [[/r {1d6}[piercing]]]{1d6 dégâts perforants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède le trait Polyvalent T. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une autre forme d'attaque à mains nues.</p>"
         },
         {
             "id": "Reaper of Repose",
@@ -20919,7 +20919,7 @@
         {
             "id": "Living Weapon (Tail)",
             "name": "Arme vivante (queue) (Living Weapon (Tail))",
-            "description": "<p>Vous avez appris à utiliser la queue de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de queue qui inflige [[/r 1d6 #contondants]]{1d6 dégâts contondants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède le trait Prise d'élan. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une autre forme d'attaque à mains nues.</p>"
+            "description": "<p>Vous avez appris à utiliser la queue de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de queue qui inflige [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède le trait Prise d'élan. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une autre forme d'attaque à mains nues.</p>"
         },
         {
             "id": "Assurance (Nature)",
@@ -21216,7 +21216,7 @@
         {
             "id": "Living Weapon (Horn)",
             "name": "Arme vivante (Corne) (Living Weapon (Horn))",
-            "description": "<p>Vous avez appris à utiliser les cornes de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de corne qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède le trait Polyvalent T. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une autre forme d'attaque à mains nues.</p>"
+            "description": "<p>Vous avez appris à utiliser les cornes de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de corne qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède le trait Polyvalent T. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une autre forme d'attaque à mains nues.</p>"
         },
         {
             "id": "Tengu Feather Fan",
@@ -22681,7 +22681,7 @@
         {
             "id": "Claws Of The Dragon",
             "name": "Griffes de dragon (Claws Of The Dragon)",
-            "description": "<p>Les ongles de vos mains se transforment en griffes coupantes comme des rasoirs et des écailles mouchetent vos doigts, vos mains et vos poignets.</p>\n<p>Vos griffes ont les traits agile, finesse et à mains nues. Elles infligent [[/r 1d6 #tranchants]]{1d6 dégâts tranchants} et font partie du groupe d'arme pugilat.</p>",
+            "description": "<p>Les ongles de vos mains se transforment en griffes coupantes comme des rasoirs et des écailles mouchetent vos doigts, vos mains et vos poignets.</p>\n<p>Vos griffes ont les traits agile, finesse et à mains nues. Elles infligent [[/r {1d6}[slashing]]]{1d6 dégâts tranchants} et font partie du groupe d'arme pugilat.</p>",
             "prereq": [
                 {
                     "value": "Dévouement du Disciple draconique"
@@ -23252,7 +23252,7 @@
         {
             "id": "Form Of The Fiend (Tail)",
             "name": "Forme du fiélon (Queue) (Form Of The Fiend (Tail))",
-            "description": "<p>Une partie de votre corps possède une apparence fiélone évidente. Vos mains se terminent par des griffes en lame de rasoir, vous possédez des sabots au lieu de pieds, des dents effilées emplissent votre bouche ou une queue fouettante qui s'étend à partir de votre colonne vertébrale.</p>\n<p>Vous obtenez une attaque à mains nues de <strong>Queue</strong> qui inflige [[/r 1d4 #contondants]]{1d4 contondants}. L'attaque est dans le groupe pugilat et possède les dégâts et les traits à mains nues, agile et finesse.</p>\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au niveau 1 et il ne peut faire l'objet d'un réapprentissage et vous ne pouvez pas changer le type d'attaque que vous avez obtenu.</p>"
+            "description": "<p>Une partie de votre corps possède une apparence fiélone évidente. Vos mains se terminent par des griffes en lame de rasoir, vous possédez des sabots au lieu de pieds, des dents effilées emplissent votre bouche ou une queue fouettante qui s'étend à partir de votre colonne vertébrale.</p>\n<p>Vous obtenez une attaque à mains nues de <strong>Queue</strong> qui inflige [[/r {1d4}[bludgeoning]]]{1d4 contondants}. L'attaque est dans le groupe pugilat et possède les dégâts et les traits à mains nues, agile et finesse.</p>\n<p><strong>Spécial</strong> Vous ne pouvez choisir ce don qu'au niveau 1 et il ne peut faire l'objet d'un réapprentissage et vous ne pouvez pas changer le type d'attaque que vous avez obtenu.</p>"
         },
         {
             "id": "Bone Magic",
@@ -24220,7 +24220,7 @@
         {
             "id": "Lavasoul",
             "name": "Âmedelave (Lavasoul)",
-            "description": "<p>Votre lignage élémentaire se manifeste comme le magma et la roche ramollie et vous pouvez focaliser le magma dans votre main pour attaquer vos ennemis. Vous obtenez une attaque à mains nues de pique de magma, qui nécessite d'utiliser une main libre. C'est une attaque à mains nues, de finesse, agile, dans le groupe pugilat qui inflige [[/r 1d4 #perforants]]{1d4 dégâts perforants} ainsi que [[/r 1 #feu]]{1 dégât de feu} supplémentaires. Au lieu de l'effet de critique de spécialisation ordinaire, la cible subit [[/r 1d6 #feu persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de feu persistant}]] ; vous obtenez un bonus à ses dégâts persistants égaux à votre bonus d'objet pour les jets d'attaques à mains nues.</p>"
+            "description": "<p>Votre lignage élémentaire se manifeste comme le magma et la roche ramollie et vous pouvez focaliser le magma dans votre main pour attaquer vos ennemis. Vous obtenez une attaque à mains nues de pique de magma, qui nécessite d'utiliser une main libre. C'est une attaque à mains nues, de finesse, agile, dans le groupe pugilat qui inflige [[/r {1d4}[piercing]]]{1d4 dégâts perforants} ainsi que [[/r {1}[fire]]]{1 dégât de feu} supplémentaires. Au lieu de l'effet de critique de spécialisation ordinaire, la cible subit [[/r {1d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de feu persistant} ; vous obtenez un bonus à ses dégâts persistants égaux à votre bonus d'objet pour les jets d'attaques à mains nues.</p>"
         },
         {
             "id": "Spirits' Interference",
@@ -24403,7 +24403,7 @@
         {
             "id": "Ranged Combatant (Electricity)",
             "name": "Combattant à distance (électricité) (Ranged Combatant (Electricity))",
-            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #électricité]]{1d4 dégâts d'électricité} et qui possède les traits magique et propulsif.</p>"
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r {1d4}[electricity]]]{1d4 dégâts d'électricité} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Azarketi Weapon Aptitude",
@@ -24760,7 +24760,7 @@
         {
             "id": "Spine Stabber",
             "name": "Poignardeur de piquants (Spine Stabber)",
-            "description": "<p>Les piquants sur vos bras sont particulièrement pointus et robustes. Vous gagnez une attaque à mains nues de piquants qui inflige [[/r 1d6 #perforants]]{1d6 dégâts perforants}. Vos piquants font partie du groupe des couteaux et possèdent les traits finesse et désarmer.</p>"
+            "description": "<p>Les piquants sur vos bras sont particulièrement pointus et robustes. Vous gagnez une attaque à mains nues de piquants qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Vos piquants font partie du groupe des couteaux et possèdent les traits finesse et désarmer.</p>"
         },
         {
             "id": "Ceremony of Knowledge",
@@ -24917,7 +24917,7 @@
         {
             "id": "Ranged Combatant (Fire)",
             "name": "Combattant à distance (feu) (Ranged Combatant (Fire))",
-            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #feu]]{1d4 dégâts de feu} et qui possède les traits magique et propulsif.</p>"
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r {1d4}[fire]]]{1d4 dégâts de feu} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Elastic Mutagen",
@@ -25169,7 +25169,7 @@
         {
             "id": "Sprite's Spark (Grig)",
             "name": "Étincellle du sprite (Grig) (Sprite's Spark (Grig))",
-            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque de note dissonnante qui inflige [[/r 1d4 #son]]{1d4 dégâts de son}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts). Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
+            "description": "<p>Vous pouvez lancer une portion de votre magie sur les ennemis. Vous obtenez une attaque de note dissonnante qui inflige [[/r {1d4}[sonic]]]{1d4 dégâts de son}. Il s'agit d'une attaque à mains nues à distance du groupe des frondes avec une portée maximum de 6 m (Aucun modificateur de caractéristique n'est ajouté aux dégâts). Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>"
         },
         {
             "id": "Animal Skin",
@@ -25543,7 +25543,7 @@
         {
             "id": "Retractable Claws",
             "name": "Griffes rétractables (Retractable Claws)",
-            "description": "<p>Vous obtenez une attaque à mains nues de griffe qui inflige [[/r 1d4 #tranchants]]{1d4 dégâts tranchants}. Vos griffes sont dans le groupe pugilat et ont les traits agile, finesse et à mains nues.</p>"
+            "description": "<p>Vous obtenez une attaque à mains nues de griffe qui inflige [[/r {1d4}[slashing]]]{1d4 dégâts tranchants}. Vos griffes sont dans le groupe pugilat et ont les traits agile, finesse et à mains nues.</p>"
         },
         {
             "id": "Ubiquitous Gadgets",
@@ -26445,7 +26445,7 @@
         {
             "id": "Ranged Combatant (Acid)",
             "name": "Combattant à distance (acide) (Ranged Combatant (Acid))",
-            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #acide]]{1d4 dégâts d'acide} et qui possède les traits magique et propulsif.</p>"
+            "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r {1d4}[acid]]]{1d4 dégâts d'acide} et qui possède les traits magique et propulsif.</p>"
         },
         {
             "id": "Dig Up Secrets",
@@ -26636,7 +26636,7 @@
         {
             "id": "Foxfire (Cold)",
             "name": "Feu de renard (froid) (Foxfire (Cold))",
-            "description": "<p>Une mêche de la fourrure de votre queue brille d'une énergie bleue. Vous obtenez une attaque à distance à mains nues de feu de renard avec une portée maximale de 6 m. L'attaque inflige [[/r 1d4 #froid]]{1d4 dégâts de froid} (aucun modificateur de caractéristique n'est ajouté au jet de dégâts). Votre attaque de feu de renard est dans le groupe d'arme des frondes.</p>\n<p>Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>",
+            "description": "<p>Une mêche de la fourrure de votre queue brille d'une énergie bleue. Vous obtenez une attaque à distance à mains nues de feu de renard avec une portée maximale de 6 m. L'attaque inflige [[/r {1d4}[cold]]]{1d4 dégâts de froid} (aucun modificateur de caractéristique n'est ajouté au jet de dégâts). Votre attaque de feu de renard est dans le groupe d'arme des frondes.</p>\n<p>Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>",
             "prereq": [
                 {
                     "value": "Kitsune Vent glacé"
