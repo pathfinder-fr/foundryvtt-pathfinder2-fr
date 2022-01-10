@@ -21,7 +21,7 @@
   ],
   "dependencies": [
     {
-      "name": "Babele"
+      "name": "babele"
     },
     {
       "name": "lib-wrapper"
