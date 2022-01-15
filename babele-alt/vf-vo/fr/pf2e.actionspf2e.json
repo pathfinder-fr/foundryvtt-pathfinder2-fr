@@ -854,7 +854,7 @@
         {
             "id": "Call Upon the Brightness",
             "name": "Faire appel à la lumière (Call Upon the Brightness)",
-            "description": "<p><strong>Déclencheur</strong> Vous faites un jet d'attaque, un test de compétence ou un jet de sauvegarde en accomplissant le plan d'action de votre incantation du sort @Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure}, mais vous n'avez pas encore lancé le dé.</p>\n<hr />\n<p>Vous obtenez un bonus de statut de +1 au jet déclencheur un de +2 si le résultat de l'augure était “malheur” mais que vous avez néanmoins persisté.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous faites un jet d'attaque, un test de compétence ou un jet de sauvegarde en accomplissant le plan d'action de votre incantation du sort <em>@Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure}</em>, mais vous n'avez pas encore lancé le dé.</p>\n<hr />\n<p>Vous obtenez un bonus de statut de +1 au jet déclencheur ou un de +2 si le résultat de l'augure était “malheur” mais que vous avez néanmoins persisté.</p>"
         },
         {
             "id": "Overload Vision",

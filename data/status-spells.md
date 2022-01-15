@@ -4,7 +4,7 @@
  * **officielle**: 555
 
 
-Dernière mise à jour: 2022-01-09 15:39 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-15 10:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -1073,7 +1073,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-02-sLzPzk7DJnfuORJ0.htm](spells/transmutation-02-sLzPzk7DJnfuORJ0.htm)|Animate Object|Animation d'objet|officielle|
 |[transmutation-02-tp4K7mYDL5MRHvJc.htm](spells/transmutation-02-tp4K7mYDL5MRHvJc.htm)|Magic Warrior Transformation|Transformation du guerrier magique|officielle|
 |[transmutation-02-vb2dFNtbofJ7A9BW.htm](spells/transmutation-02-vb2dFNtbofJ7A9BW.htm)|Summoner's Visage|Visage du conjurateur|libre|
-|[transmutation-02-vctIUOOgSmxAF0KG.htm](spells/transmutation-02-vctIUOOgSmxAF0KG.htm)|Fear the Sun|Peu du soleil|libre|
+|[transmutation-02-vctIUOOgSmxAF0KG.htm](spells/transmutation-02-vctIUOOgSmxAF0KG.htm)|Fear the Sun|Peur du soleil|libre|
 |[transmutation-02-vGEgI8e7AW6FQ3tP.htm](spells/transmutation-02-vGEgI8e7AW6FQ3tP.htm)|Animal Feature|Trait animal|libre|
 |[transmutation-02-wp09USMB3GIW1qbp.htm](spells/transmutation-02-wp09USMB3GIW1qbp.htm)|Animal Form|Forme animale|officielle|
 |[transmutation-02-wzctak6BxOW8xvFV.htm](spells/transmutation-02-wzctak6BxOW8xvFV.htm)|Enlarge|Agrandissement|officielle|

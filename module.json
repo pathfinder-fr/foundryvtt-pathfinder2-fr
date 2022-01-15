@@ -6,7 +6,7 @@
   "authors": [],
   "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr",
   "flags": {},
-  "version": "1.13.0",
+  "version": "1.14.0",
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "9",
   "scripts": [
@@ -21,14 +21,14 @@
   ],
   "dependencies": [
     {
-      "name": "Babele"
+      "name": "babele"
     },
     {
       "name": "lib-wrapper"
     }
     ],
   "socket": false,
-  "download": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/archive/v-1.13.0/foundryvtt-pathfinder2-fr-v-1.13.0.zip",
+  "download": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/archive/v-1.14.0/foundryvtt-pathfinder2-fr-v-1.14.0.zip",
   "manifest": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/module.json",
   "protected": false,
   "coreTranslation": false,

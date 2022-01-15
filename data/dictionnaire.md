@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2022-01-09 15:39 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-15 10:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -2396,7 +2396,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Alertness (Level 5)](classfeatures/monk-05-2o1Cj7hDayDlslqY.htm)|Vigilance (Niveau 5)|`@Compendium[pf2e.classfeatures.2o1Cj7hDayDlslqY]`|
 |[Alertness (Level 9)](classfeatures/magus-09-TAIOtk5VvPZvv4nu.htm)|Vigilance (Niveau 9)|`@Compendium[pf2e.classfeatures.TAIOtk5VvPZvv4nu]`|
 |[Anathema (Cleric)](classfeatures/cleric-01-UV1HlClbWCNcaKBZ.htm)|Anathème (Prêtre)|`@Compendium[pf2e.classfeatures.UV1HlClbWCNcaKBZ]`|
-|[Anathema (Druid)](classfeatures/druid-01-nfBn8QB6HVdzpTFV.htm)|Anathème (Druide)|`@Compendium[pf2e.classfeatures.nfBn8QB6HVdzpTFV]`|
+|[Anathema (Druid)](classfeatures/druid-01-nfBn8QB6HVdzpTFV.htm)|Anathème (druide)|`@Compendium[pf2e.classfeatures.nfBn8QB6HVdzpTFV]`|
 |[Ancestors Mystery](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Mystère des ancêtres|`@Compendium[pf2e.classfeatures.qvRlih3u7vK3FYUR]`|
 |[Ancestors Mystery (Multiclass)](classfeatures/oracle-02-MAPeYoCQhxz4fxcL.htm)|Mystère des ancètres (Multiclasse)|`@Compendium[pf2e.classfeatures.MAPeYoCQhxz4fxcL]`|
 |[Animal Instinct](classfeatures/barbarian-01-0FtzFbUrN56KA67z.htm)|Instinct animal|`@Compendium[pf2e.classfeatures.0FtzFbUrN56KA67z]`|
@@ -2853,34 +2853,34 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
-|[(Clockwork Creature) Wind-Up](bestiary-family-ability-glossary/xS8ybzuqPSi3Jb8k.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.xS8ybzuqPSi3Jb8k]`|
-|[(Divine Warden) Divine Destruction](bestiary-family-ability-glossary/jD0M3yV6gjkXafsJ.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.jD0M3yV6gjkXafsJ]`|
-|[(Divine Warden) Divine Domain Spells](bestiary-family-ability-glossary/0B9eEetIbeSPhulD.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.0B9eEetIbeSPhulD]`|
-|[(Divine Warden) Divine Innate Spells](bestiary-family-ability-glossary/DlHTe9jLssEELY6a.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.DlHTe9jLssEELY6a]`|
-|[(Divine Warden) Faith Bound](bestiary-family-ability-glossary/OPGu0WsUHpHSmu80.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.OPGu0WsUHpHSmu80]`|
-|[(Divine Warden) Faithful Weapon](bestiary-family-ability-glossary/UlKGxPaKtRGWuq3V.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.UlKGxPaKtRGWuq3V]`|
-|[(Divine Warden) Instrument of Faith](bestiary-family-ability-glossary/L80gn6WOWi9roJW3.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.L80gn6WOWi9roJW3]`|
+|[(Clockwork Creature) Wind-Up](bestiary-family-ability-glossary/xS8ybzuqPSi3Jb8k.htm)|(Créature mécanique) Remonter|`@Compendium[pf2e.bestiary-family-ability-glossary.xS8ybzuqPSi3Jb8k]`|
+|[(Divine Warden) Divine Destruction](bestiary-family-ability-glossary/jD0M3yV6gjkXafsJ.htm)|(Garde divin) Destruction divine|`@Compendium[pf2e.bestiary-family-ability-glossary.jD0M3yV6gjkXafsJ]`|
+|[(Divine Warden) Divine Domain Spells](bestiary-family-ability-glossary/0B9eEetIbeSPhulD.htm)|(Garde divin) Sorts divins de domaine|`@Compendium[pf2e.bestiary-family-ability-glossary.0B9eEetIbeSPhulD]`|
+|[(Divine Warden) Divine Innate Spells](bestiary-family-ability-glossary/DlHTe9jLssEELY6a.htm)|(Garde divin) Sorts divins innés|`@Compendium[pf2e.bestiary-family-ability-glossary.DlHTe9jLssEELY6a]`|
+|[(Divine Warden) Faith Bound](bestiary-family-ability-glossary/OPGu0WsUHpHSmu80.htm)|(Garde divin) Liens de foi|`@Compendium[pf2e.bestiary-family-ability-glossary.OPGu0WsUHpHSmu80]`|
+|[(Divine Warden) Faithful Weapon](bestiary-family-ability-glossary/UlKGxPaKtRGWuq3V.htm)|(Garde divin) Arme fidèle|`@Compendium[pf2e.bestiary-family-ability-glossary.UlKGxPaKtRGWuq3V]`|
+|[(Divine Warden) Instrument of Faith](bestiary-family-ability-glossary/L80gn6WOWi9roJW3.htm)|(Garde divin) Instrument de foi|`@Compendium[pf2e.bestiary-family-ability-glossary.L80gn6WOWi9roJW3]`|
 |[(Dragon) Change Shape](bestiary-family-ability-glossary/mEbrInCpag7YThH2.htm)|(Dragon) Changement de forme|`@Compendium[pf2e.bestiary-family-ability-glossary.mEbrInCpag7YThH2]`|
 |[(Ghast) Consume Flesh](bestiary-family-ability-glossary/m6teF5ADh7vuM8Zr.htm)|(Blême) Dévorer la chair|`@Compendium[pf2e.bestiary-family-ability-glossary.m6teF5ADh7vuM8Zr]`|
 |[(Ghast) Ghast Fever](bestiary-family-ability-glossary/hA6HsM4i4yPfEsDH.htm)|(Blême) Fièvre des blêmes|`@Compendium[pf2e.bestiary-family-ability-glossary.hA6HsM4i4yPfEsDH]`|
 |[(Ghast) Paralysis](bestiary-family-ability-glossary/bVZ6KizWVTLJUBXi.htm)|(Blême) Paralysie|`@Compendium[pf2e.bestiary-family-ability-glossary.bVZ6KizWVTLJUBXi]`|
 |[(Ghast) Stench](bestiary-family-ability-glossary/SEzkqVJxr2eJDsuJ.htm)|(Blême) Puanteur|`@Compendium[pf2e.bestiary-family-ability-glossary.SEzkqVJxr2eJDsuJ]`|
-|[(Ghost) Beatific Appearance](bestiary-family-ability-glossary/4Aj4FWKObfMYoSvh.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.4Aj4FWKObfMYoSvh]`|
-|[(Ghost) Cold Spot](bestiary-family-ability-glossary/AydIHjDNbOZizj5U.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.AydIHjDNbOZizj5U]`|
-|[(Ghost) Corporeal Manifestation](bestiary-family-ability-glossary/WQjFPBQPDu6vyJny.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.WQjFPBQPDu6vyJny]`|
+|[(Ghost) Beatific Appearance](bestiary-family-ability-glossary/4Aj4FWKObfMYoSvh.htm)|(Fantôme) Apparence bienheureuse|`@Compendium[pf2e.bestiary-family-ability-glossary.4Aj4FWKObfMYoSvh]`|
+|[(Ghost) Cold Spot](bestiary-family-ability-glossary/AydIHjDNbOZizj5U.htm)|(Fantôme) Point froid|`@Compendium[pf2e.bestiary-family-ability-glossary.AydIHjDNbOZizj5U]`|
+|[(Ghost) Corporeal Manifestation](bestiary-family-ability-glossary/WQjFPBQPDu6vyJny.htm)|(Fantôme) Manifestation corporelle|`@Compendium[pf2e.bestiary-family-ability-glossary.WQjFPBQPDu6vyJny]`|
 |[(Ghost) Corrupting Gaze](bestiary-family-ability-glossary/ga0Oj7mmjSwWQgmR.htm)|(Fantôme) Regard corrupteur|`@Compendium[pf2e.bestiary-family-ability-glossary.ga0Oj7mmjSwWQgmR]`|
 |[(Ghost) Draining Touch](bestiary-family-ability-glossary/fVyoHEO3fSR737M1.htm)|(Fantôme) Toucher affaiblissant|`@Compendium[pf2e.bestiary-family-ability-glossary.fVyoHEO3fSR737M1]`|
-|[(Ghost) Dreamwalker](bestiary-family-ability-glossary/uV4jf2pkMRGLdhJX.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.uV4jf2pkMRGLdhJX]`|
-|[(Ghost) Fetch](bestiary-family-ability-glossary/tDfv2oEPal19NtSM.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.tDfv2oEPal19NtSM]`|
+|[(Ghost) Dreamwalker](bestiary-family-ability-glossary/uV4jf2pkMRGLdhJX.htm)|(Fantôme) Marcheur de rêves|`@Compendium[pf2e.bestiary-family-ability-glossary.uV4jf2pkMRGLdhJX]`|
+|[(Ghost) Fetch](bestiary-family-ability-glossary/tDfv2oEPal19NtSM.htm)|(Fantôme) Double fantômatique|`@Compendium[pf2e.bestiary-family-ability-glossary.tDfv2oEPal19NtSM]`|
 |[(Ghost) Frightful Moan](bestiary-family-ability-glossary/aiwlPSmNY9b6Psvd.htm)|(Fantôme) Lamentation d'épouvante|`@Compendium[pf2e.bestiary-family-ability-glossary.aiwlPSmNY9b6Psvd]`|
-|[(Ghost) Ghost Storm](bestiary-family-ability-glossary/i7m74TphAiFYvzPL.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.i7m74TphAiFYvzPL]`|
-|[(Ghost) Haunted House](bestiary-family-ability-glossary/jTuK430yY8VgIByB.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.jTuK430yY8VgIByB]`|
+|[(Ghost) Ghost Storm](bestiary-family-ability-glossary/i7m74TphAiFYvzPL.htm)|(Fantôme) Tempête Fantôme|`@Compendium[pf2e.bestiary-family-ability-glossary.i7m74TphAiFYvzPL]`|
+|[(Ghost) Haunted House](bestiary-family-ability-glossary/jTuK430yY8VgIByB.htm)|(Fantôme) Maison hantée|`@Compendium[pf2e.bestiary-family-ability-glossary.jTuK430yY8VgIByB]`|
 |[(Ghost) Inhabit Object](bestiary-family-ability-glossary/JSBmboE6bYVxDT9d.htm)|(Fantôme) Occuper un objet|`@Compendium[pf2e.bestiary-family-ability-glossary.JSBmboE6bYVxDT9d]`|
-|[(Ghost) Lynchpin](bestiary-family-ability-glossary/4p06ewIsPnWZwuwc.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.4p06ewIsPnWZwuwc]`|
+|[(Ghost) Lynchpin](bestiary-family-ability-glossary/4p06ewIsPnWZwuwc.htm)|(Fantôme) Pilier|`@Compendium[pf2e.bestiary-family-ability-glossary.4p06ewIsPnWZwuwc]`|
 |[(Ghost) Malevolent Possession](bestiary-family-ability-glossary/iwLj14liESK5OBN8.htm)|(Fantôme) Possession malveillante|`@Compendium[pf2e.bestiary-family-ability-glossary.iwLj14liESK5OBN8]`|
-|[(Ghost) Memento Mori](bestiary-family-ability-glossary/nF7RKPONY5H9kEIo.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.nF7RKPONY5H9kEIo]`|
-|[(Ghost) Phantasmagoria](bestiary-family-ability-glossary/cYkEpJzpMu3mCrFc.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.cYkEpJzpMu3mCrFc]`|
-|[(Ghost) Pyre's Memory](bestiary-family-ability-glossary/5lv9r2ubDCov4dFn.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.5lv9r2ubDCov4dFn]`|
+|[(Ghost) Memento Mori](bestiary-family-ability-glossary/nF7RKPONY5H9kEIo.htm)|(Fantôme) Memento Mori|`@Compendium[pf2e.bestiary-family-ability-glossary.nF7RKPONY5H9kEIo]`|
+|[(Ghost) Phantasmagoria](bestiary-family-ability-glossary/cYkEpJzpMu3mCrFc.htm)|(Fantôme) Phantasmagorie|`@Compendium[pf2e.bestiary-family-ability-glossary.cYkEpJzpMu3mCrFc]`|
+|[(Ghost) Pyre's Memory](bestiary-family-ability-glossary/5lv9r2ubDCov4dFn.htm)|(Fantôme) Mémoire de bûcher funéraire|`@Compendium[pf2e.bestiary-family-ability-glossary.5lv9r2ubDCov4dFn]`|
 |[(Ghost) Rejuvenation](bestiary-family-ability-glossary/unR8VVR4yyRnsmnB.htm)|(Fantôme) Reconstruction|`@Compendium[pf2e.bestiary-family-ability-glossary.unR8VVR4yyRnsmnB]`|
 |[(Ghost) Revenant](bestiary-family-ability-glossary/wzezkgOufQev7BLK.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.wzezkgOufQev7BLK]`|
 |[(Ghost) Site Bound](bestiary-family-ability-glossary/BcSlVpaN72LoQ5BV.htm)|(Fantôme) Lié à un site|`@Compendium[pf2e.bestiary-family-ability-glossary.BcSlVpaN72LoQ5BV]`|
@@ -2890,11 +2890,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[(Ghoul) Paralysis](bestiary-family-ability-glossary/FW4KAUHb7r8WkxUc.htm)|(Goule) Paralysie|`@Compendium[pf2e.bestiary-family-ability-glossary.FW4KAUHb7r8WkxUc]`|
 |[(Ghoul) Swift Leap](bestiary-family-ability-glossary/UU1Fp3PRuTFONjC9.htm)|(Goule) Bond rapide|`@Compendium[pf2e.bestiary-family-ability-glossary.UU1Fp3PRuTFONjC9]`|
 |[(Goblin) Goblin Scuttle](bestiary-family-ability-glossary/EM6YZCt6vFCFhXmb.htm)|(Gobelin) Précipitation gobeline|`@Compendium[pf2e.bestiary-family-ability-glossary.EM6YZCt6vFCFhXmb]`|
-|[(Golem) Golem Antimagic](bestiary-family-ability-glossary/r34QDwKiWZoVymJa.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.r34QDwKiWZoVymJa]`|
-|[(Golem) Inexorable March](bestiary-family-ability-glossary/qt2exWwQTzoObKfW.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.qt2exWwQTzoObKfW]`|
+|[(Golem) Golem Antimagic](bestiary-family-ability-glossary/r34QDwKiWZoVymJa.htm)|(Golem) Antimagie des golems|`@Compendium[pf2e.bestiary-family-ability-glossary.r34QDwKiWZoVymJa]`|
+|[(Golem) Inexorable March](bestiary-family-ability-glossary/qt2exWwQTzoObKfW.htm)|(Golem) Marche inexorable|`@Compendium[pf2e.bestiary-family-ability-glossary.qt2exWwQTzoObKfW]`|
 |[(Graveknight) Betrayed Revivification](bestiary-family-ability-glossary/pxiSbjfWaKCG1xLD.htm)|(Chevalier sépulcre) Résurrection vengeresse|`@Compendium[pf2e.bestiary-family-ability-glossary.pxiSbjfWaKCG1xLD]`|
-|[(Graveknight) Channel Magic](bestiary-family-ability-glossary/OMSsLUcnRj6ycEUa.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.OMSsLUcnRj6ycEUa]`|
-|[(Graveknight) Clutching Armor](bestiary-family-ability-glossary/fmUBaLklyVmNt3VD.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.fmUBaLklyVmNt3VD]`|
+|[(Graveknight) Channel Magic](bestiary-family-ability-glossary/OMSsLUcnRj6ycEUa.htm)|(Chevalier sépulcre) Canaliser la magie|`@Compendium[pf2e.bestiary-family-ability-glossary.OMSsLUcnRj6ycEUa]`|
+|[(Graveknight) Clutching Armor](bestiary-family-ability-glossary/fmUBaLklyVmNt3VD.htm)|(Chevalier sépulcre) Armure agrippante|`@Compendium[pf2e.bestiary-family-ability-glossary.fmUBaLklyVmNt3VD]`|
 |[(Graveknight) Create Grave Squire](bestiary-family-ability-glossary/W5fD1ebH6Ri8HNzh.htm)|(Chevalier sépulcre) Grand écuyer du sépulcre|`@Compendium[pf2e.bestiary-family-ability-glossary.W5fD1ebH6Ri8HNzh]`|
 |[(Graveknight) Dark Deliverance](bestiary-family-ability-glossary/QMWvYf8Qowj2Fzmx.htm)|(Chevalier sépulcre) Sombre salut|`@Compendium[pf2e.bestiary-family-ability-glossary.QMWvYf8Qowj2Fzmx]`|
 |[(Graveknight) Devastating Blast](bestiary-family-ability-glossary/IxJbFJ8dG5RbZWBD.htm)|(Chevalier sépulcre) Déflagration dévastatrice|`@Compendium[pf2e.bestiary-family-ability-glossary.IxJbFJ8dG5RbZWBD]`|
@@ -2923,14 +2923,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[(Ravener) Soul Ward](bestiary-family-ability-glossary/FsqVhavMWAoFro1L.htm)|(Dévoreur draconique) Armure d’âmes|`@Compendium[pf2e.bestiary-family-ability-glossary.FsqVhavMWAoFro1L]`|
 |[(Ravener) Soulsense](bestiary-family-ability-glossary/fYDrunTldWmFvfjl.htm)|(Dévoreur draconique) Perception de l’âme|`@Compendium[pf2e.bestiary-family-ability-glossary.fYDrunTldWmFvfjl]`|
 |[(Ravener) Vicious Criticals](bestiary-family-ability-glossary/XbHMVjHtbPaPr9P5.htm)|(Dévoreur draconique) Critiques vicieux|`@Compendium[pf2e.bestiary-family-ability-glossary.XbHMVjHtbPaPr9P5]`|
-|[(Skeleton) Blaze](bestiary-family-ability-glossary/9oy2zWxy7Klk9FxR.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.9oy2zWxy7Klk9FxR]`|
+|[(Skeleton) Blaze](bestiary-family-ability-glossary/9oy2zWxy7Klk9FxR.htm)|(Squelette) Embrasement|`@Compendium[pf2e.bestiary-family-ability-glossary.9oy2zWxy7Klk9FxR]`|
 |[(Skeleton) Bloody](bestiary-family-ability-glossary/P5YTG6I8ci4lwhZ1.htm)|(Squellette) Sanglant|`@Compendium[pf2e.bestiary-family-ability-glossary.P5YTG6I8ci4lwhZ1]`|
-|[(Skeleton) Bone Missile](bestiary-family-ability-glossary/RgYpzTk3XapgVeXZ.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.RgYpzTk3XapgVeXZ]`|
-|[(Skeleton) Bone Powder](bestiary-family-ability-glossary/sajLbVE6VpCsR0Kl.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.sajLbVE6VpCsR0Kl]`|
+|[(Skeleton) Bone Missile](bestiary-family-ability-glossary/RgYpzTk3XapgVeXZ.htm)|(Squelette) Côte missile|`@Compendium[pf2e.bestiary-family-ability-glossary.RgYpzTk3XapgVeXZ]`|
+|[(Skeleton) Bone Powder](bestiary-family-ability-glossary/sajLbVE6VpCsR0Kl.htm)|(Squelette) Poudre d'os|`@Compendium[pf2e.bestiary-family-ability-glossary.sajLbVE6VpCsR0Kl]`|
 |[(Skeleton) Collapse](bestiary-family-ability-glossary/K5bNE90vmeFzktnM.htm)|(Squelette) Écroulement|`@Compendium[pf2e.bestiary-family-ability-glossary.K5bNE90vmeFzktnM]`|
 |[(Skeleton) Explosive Death](bestiary-family-ability-glossary/W77QhVNE46WDyMXi.htm)|(Squelette) Mort explosive|`@Compendium[pf2e.bestiary-family-ability-glossary.W77QhVNE46WDyMXi]`|
 |[(Skeleton) Screaming Skull](bestiary-family-ability-glossary/MAC97gjFcdiqLyhp.htm)|(Squelette) Crâne hurlant|`@Compendium[pf2e.bestiary-family-ability-glossary.MAC97gjFcdiqLyhp]`|
-|[(Skeleton) Skeleton of Roses](bestiary-family-ability-glossary/HdSaMUb4uEsbtQTn.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.HdSaMUb4uEsbtQTn]`|
+|[(Skeleton) Skeleton of Roses](bestiary-family-ability-glossary/HdSaMUb4uEsbtQTn.htm)|(Squelette) Squelette de roses|`@Compendium[pf2e.bestiary-family-ability-glossary.HdSaMUb4uEsbtQTn]`|
 |[(Vampire, Basic) Coffin Restoration](bestiary-family-ability-glossary/FXHjmH1oce7Z3tZb.htm)|(Vampire, de base) Cercueil restorateur|`@Compendium[pf2e.bestiary-family-ability-glossary.FXHjmH1oce7Z3tZb]`|
 |[(Vampire, Basic) Drink Blood](bestiary-family-ability-glossary/c04ICnrzygyFG3PK.htm)|(Vampire, de base) Boire le sang|`@Compendium[pf2e.bestiary-family-ability-glossary.c04ICnrzygyFG3PK]`|
 |[(Vampire, Basic) Vampire Weaknesses](bestiary-family-ability-glossary/5DuBTf37u88IrphJ.htm)|(Vampire, de base) Faiblesses du vampire|`@Compendium[pf2e.bestiary-family-ability-glossary.5DuBTf37u88IrphJ]`|
@@ -2951,18 +2951,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[(Vampire, Vrykolakas) Feral Possession](bestiary-family-ability-glossary/oXRnrQQ04oi8OkDG.htm)|(Vampire, vrykolakas) Corruption sauvage|`@Compendium[pf2e.bestiary-family-ability-glossary.oXRnrQQ04oi8OkDG]`|
 |[(Vampire, Vrykolakas) Swift Tracker](bestiary-family-ability-glossary/br5Oup4USIUXQani.htm)|(Vampire, vrykolakas) Pistage accéléré|`@Compendium[pf2e.bestiary-family-ability-glossary.br5Oup4USIUXQani]`|
 |[(Vampire, Vrykolakas) Vrykolakas Vulnerabilities](bestiary-family-ability-glossary/5arYoSY5kcRo8TeM.htm)|(Vampire, Vrykolakas) Vulnérabilités des vrykolakas|`@Compendium[pf2e.bestiary-family-ability-glossary.5arYoSY5kcRo8TeM]`|
-|[(Visitant) Noxious Breath](bestiary-family-ability-glossary/VzKVJlX2ocv1ezzp.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.VzKVJlX2ocv1ezzp]`|
-|[(Visitant) Roar](bestiary-family-ability-glossary/vOocS1EiRCXPtbgB.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.vOocS1EiRCXPtbgB]`|
-|[(Visitant) Vengeful Presence](bestiary-family-ability-glossary/eSp48kG7v1GNuGgh.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.eSp48kG7v1GNuGgh]`|
-|[(Visitant) Wrestle](bestiary-family-ability-glossary/4UEZY3G3CiCP78Kx.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.4UEZY3G3CiCP78Kx]`|
-|[(Vistant) Visitant Spells](bestiary-family-ability-glossary/kQZ6pzdSn6FaxWF2.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.kQZ6pzdSn6FaxWF2]`|
+|[(Visitant) Noxious Breath](bestiary-family-ability-glossary/VzKVJlX2ocv1ezzp.htm)|(Revenant) Souffle nocif|`@Compendium[pf2e.bestiary-family-ability-glossary.VzKVJlX2ocv1ezzp]`|
+|[(Visitant) Roar](bestiary-family-ability-glossary/vOocS1EiRCXPtbgB.htm)|(Revenant) Rugissement|`@Compendium[pf2e.bestiary-family-ability-glossary.vOocS1EiRCXPtbgB]`|
+|[(Visitant) Vengeful Presence](bestiary-family-ability-glossary/eSp48kG7v1GNuGgh.htm)|(Revenant) Présence vengeresse|`@Compendium[pf2e.bestiary-family-ability-glossary.eSp48kG7v1GNuGgh]`|
+|[(Visitant) Wrestle](bestiary-family-ability-glossary/4UEZY3G3CiCP78Kx.htm)|(Revenant) Lutte|`@Compendium[pf2e.bestiary-family-ability-glossary.4UEZY3G3CiCP78Kx]`|
+|[(Vistant) Visitant Spells](bestiary-family-ability-glossary/kQZ6pzdSn6FaxWF2.htm)|(Revenant) Sorts de revenant|`@Compendium[pf2e.bestiary-family-ability-glossary.kQZ6pzdSn6FaxWF2]`|
 |[(Werecreature) Animal Empathy](bestiary-family-ability-glossary/iAXHLkxuuCUOwqkN.htm)|(Créature garou) Empathie animale|`@Compendium[pf2e.bestiary-family-ability-glossary.iAXHLkxuuCUOwqkN]`|
 |[(Werecreature) Change Shape](bestiary-family-ability-glossary/08egiRxOvMX97XTc.htm)|(Créature garou) Changement de forme|`@Compendium[pf2e.bestiary-family-ability-glossary.08egiRxOvMX97XTc]`|
 |[(Werecreature) Curse of the Werecreature](bestiary-family-ability-glossary/ICnpftxZEilrYjn0.htm)|(Créature garou) Malédiction du garou|`@Compendium[pf2e.bestiary-family-ability-glossary.ICnpftxZEilrYjn0]`|
 |[(Werecreature) Moon Frenzy](bestiary-family-ability-glossary/FA0ri2fAcMa1HgZe.htm)|(Créature garou) Frénésie lunaire|`@Compendium[pf2e.bestiary-family-ability-glossary.FA0ri2fAcMa1HgZe]`|
-|[(Worm That Walks) Discorporate](bestiary-family-ability-glossary/QlrbnkeZu6M4kvOy.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.QlrbnkeZu6M4kvOy]`|
-|[(Worm That Walks) Squirming Embrace](bestiary-family-ability-glossary/Zu6feO9NUZJlsKuc.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.Zu6feO9NUZJlsKuc]`|
-|[(Worm That Walks) Swarm Shape](bestiary-family-ability-glossary/X2mdpb1Dhl890YbA.htm)||`@Compendium[pf2e.bestiary-family-ability-glossary.X2mdpb1Dhl890YbA]`|
+|[(Worm That Walks) Discorporate](bestiary-family-ability-glossary/QlrbnkeZu6M4kvOy.htm)|(Ver-qui-marche) Dématérialisation|`@Compendium[pf2e.bestiary-family-ability-glossary.QlrbnkeZu6M4kvOy]`|
+|[(Worm That Walks) Squirming Embrace](bestiary-family-ability-glossary/Zu6feO9NUZJlsKuc.htm)|(Ver-qui-marche) Etreinte grouillante|`@Compendium[pf2e.bestiary-family-ability-glossary.Zu6feO9NUZJlsKuc]`|
+|[(Worm That Walks) Swarm Shape](bestiary-family-ability-glossary/X2mdpb1Dhl890YbA.htm)|(Ver-qui-marche) Forme de nuée|`@Compendium[pf2e.bestiary-family-ability-glossary.X2mdpb1Dhl890YbA]`|
 |[(Zombie) Disgusting Pustules](bestiary-family-ability-glossary/v6he7HLxYGzaMnvL.htm)|(Zombie) Pustules écœurantes|`@Compendium[pf2e.bestiary-family-ability-glossary.v6he7HLxYGzaMnvL]`|
 |[(Zombie) Feast](bestiary-family-ability-glossary/ipGBYIXk4u47Mp1D.htm)|(Zombie) Festoyer|`@Compendium[pf2e.bestiary-family-ability-glossary.ipGBYIXk4u47Mp1D]`|
 |[(Zombie) Plague-Ridden](bestiary-family-ability-glossary/MhymIeTQoxbacG1o.htm)|(Zombie) Pestiféré|`@Compendium[pf2e.bestiary-family-ability-glossary.MhymIeTQoxbacG1o]`|
@@ -6682,7 +6682,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell Effect: Animal Form (Shark)](spell-effects/02-qPaEEhczUWCQo6ux.htm)|Effet : Forme animale (Requin)|`@Compendium[pf2e.spell-effects.qPaEEhczUWCQo6ux]`|
 |[Spell Effect: Animal Form (Snake)](spell-effects/02-kz3mlFwb9tV9bFwu.htm)|Effet : Forme animale (Serpent)|`@Compendium[pf2e.spell-effects.kz3mlFwb9tV9bFwu]`|
 |[Spell Effect: Apex Companion](spell-effects/10-NXzo2kdgVixIZ2T1.htm)|Effet : Compagnon alpha|`@Compendium[pf2e.spell-effects.NXzo2kdgVixIZ2T1]`|
-|[Spell Effect: Arcane Countermeasure](spell-effects/05-14m4s0FeRSqRlHwL.htm)|Effet : Contre mesures arcaniques|`@Compendium[pf2e.spell-effects.14m4s0FeRSqRlHwL]`|
+|[Spell Effect: Arcane Countermeasure](spell-effects/05-14m4s0FeRSqRlHwL.htm)|Effet : Contre-mesure arcanique|`@Compendium[pf2e.spell-effects.14m4s0FeRSqRlHwL]`|
 |[Spell Effect: Armor of Bones](spell-effects/03-6BjslHgY01cNbKp5.htm)|Effet : Armure d'os|`@Compendium[pf2e.spell-effects.6BjslHgY01cNbKp5]`|
 |[Spell Effect: Athletic Rush](spell-effects/01-57lnrCzGUcNUBP2O.htm)|Effet : Athlétisme poussé|`@Compendium[pf2e.spell-effects.57lnrCzGUcNUBP2O]`|
 |[Spell Effect: Augment Summoning](spell-effects/01-UtIOWubq7akdHMOh.htm)|Effet : Convocation améliorée|`@Compendium[pf2e.spell-effects.UtIOWubq7akdHMOh]`|
@@ -7635,7 +7635,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fated Confrontation](spells/divination-10-Di9gL6KIZ9eFgbs1.htm)|Confronttation finale|`@Compendium[pf2e.spells-srd.Di9gL6KIZ9eFgbs1]`|
 |[Favorable Review](spells/enchantment-04-i7u6gAdNcyIyyo3h.htm)|Critique favorable|`@Compendium[pf2e.spells-srd.i7u6gAdNcyIyyo3h]`|
 |[Fear](spells/enchantment-01-4koZzrnMXhhosn0D.htm)|Terreur|`@Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]`|
-|[Fear the Sun](spells/transmutation-02-vctIUOOgSmxAF0KG.htm)|Peu du soleil|`@Compendium[pf2e.spells-srd.vctIUOOgSmxAF0KG]`|
+|[Fear the Sun](spells/transmutation-02-vctIUOOgSmxAF0KG.htm)|Peur du soleil|`@Compendium[pf2e.spells-srd.vctIUOOgSmxAF0KG]`|
 |[Fearful Feast](spells/necromancy-04-0qA4MfMkFklOz2Lk.htm)|Festin d'émotions|`@Compendium[pf2e.spells-srd.0qA4MfMkFklOz2Lk]`|
 |[Feast of Ashes](spells/necromancy-02-siU9xRlqWXeKT0mH.htm)|Festin de cendres|`@Compendium[pf2e.spells-srd.siU9xRlqWXeKT0mH]`|
 |[Feather Fall](spells/abjuration-01-TTwOKGqmZeKSyNMH.htm)|Feuille morte|`@Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]`|
@@ -9612,7 +9612,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Hyldarf's Fang](equipment/weapon-12-O7pgJB6M5UqUZ9Qq.htm)|Croc de Hyldarf|`@Compendium[pf2e.equipment-srd.O7pgJB6M5UqUZ9Qq]`|
 |[Hype](equipment/consumable-08-z3IG6t2o0zsfP2XQ.htm)|Adrénaline|`@Compendium[pf2e.equipment-srd.z3IG6t2o0zsfP2XQ]`|
 |[Ice Slick Snare](equipment/consumable-04-2EigJwHDmem3YggO.htm)|Piège artisanal de glace glissante|`@Compendium[pf2e.equipment-srd.2EigJwHDmem3YggO]`|
-|[Ichthyosis Mutagen](equipment/consumable-05-uwVTuejjSLl82jiA.htm)|Mutagène de Peau squameuse|`@Compendium[pf2e.equipment-srd.uwVTuejjSLl82jiA]`|
+|[Ichthyosis Mutagen](equipment/consumable-05-uwVTuejjSLl82jiA.htm)|Mutagène de peau squameuse|`@Compendium[pf2e.equipment-srd.uwVTuejjSLl82jiA]`|
 |[Icy Disposition](equipment/equipment-11-ibA3FykNQcoEPfPC.htm)|Tendances glaciales|`@Compendium[pf2e.equipment-srd.ibA3FykNQcoEPfPC]`|
 |[Ignitor](equipment/equipment-01-m4U2P5A1Dk1C1wr1.htm)|Allumeur|`@Compendium[pf2e.equipment-srd.m4U2P5A1Dk1C1wr1]`|
 |[Illuminated manuscript](equipment/treasure-00-l8dFZIYYngDOIYHb.htm)|Manuscrit enluminé|`@Compendium[pf2e.equipment-srd.l8dFZIYYngDOIYHb]`|
@@ -9745,7 +9745,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Librarian's Baton](equipment/equipment-09-t8U01IpeOyKv4nDN.htm)|Bâton du bibliothécaire|`@Compendium[pf2e.equipment-srd.t8U01IpeOyKv4nDN]`|
 |[Lich Dust](equipment/consumable-09-ca2lzxfJxvuLDrKu.htm)|Poussière de liche|`@Compendium[pf2e.equipment-srd.ca2lzxfJxvuLDrKu]`|
 |[Lich Soul Cage](equipment/equipment-12-NEbr7nKuiluJgBHT.htm)|Phylactère de liche|`@Compendium[pf2e.equipment-srd.NEbr7nKuiluJgBHT]`|
-|[Life's Last Breath](equipment/weapon-18-1gi4mdZYNgPrzWHc.htm)|Le Dernier souffle de vie|`@Compendium[pf2e.equipment-srd.1gi4mdZYNgPrzWHc]`|
+|[Life's Last Breath](equipment/weapon-18-1gi4mdZYNgPrzWHc.htm)|Dernier souffle de vie|`@Compendium[pf2e.equipment-srd.1gi4mdZYNgPrzWHc]`|
 |[Lifeblight Residue](equipment/consumable-15-cSrCTi2zE5OU5ylH.htm)|Résidu de mort affligée|`@Compendium[pf2e.equipment-srd.cSrCTi2zE5OU5ylH]`|
 |[Life‑size sculpture by an expert](equipment/treasure-00-zdiHlKtd4Fy1aIPC.htm)|Sculpture à l'échelle (par un expert)|`@Compendium[pf2e.equipment-srd.zdiHlKtd4Fy1aIPC]`|
 |[Lifting Belt](equipment/equipment-04-g2oaOGSpttfH1q6W.htm)|Ceinture de levée|`@Compendium[pf2e.equipment-srd.g2oaOGSpttfH1q6W]`|
@@ -10839,7 +10839,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Tentacle Cannon (Greater)](equipment/weapon-13-U8P9aRhjFpptHJCd.htm)|Canon tentacule supérieur|`@Compendium[pf2e.equipment-srd.U8P9aRhjFpptHJCd]`|
 |[Tentacle Cannon (Major)](equipment/weapon-17-rKCiDIoozZTkyE4j.htm)|Canon tentacule majeur|`@Compendium[pf2e.equipment-srd.rKCiDIoozZTkyE4j]`|
 |[Terrifying Ammunition](equipment/consumable-06-ROdjFw7wby982qf5.htm)|Munition terrifiante|`@Compendium[pf2e.equipment-srd.ROdjFw7wby982qf5]`|
-|[The Whispering Reeds](equipment/equipment-10-QT1jTPlf3ATYUh4I.htm)|Roseaux chuchotants|`@Compendium[pf2e.equipment-srd.QT1jTPlf3ATYUh4I]`|
+|[The Whispering Reeds](equipment/equipment-10-QT1jTPlf3ATYUh4I.htm)|Les roseaux chuchotants|`@Compendium[pf2e.equipment-srd.QT1jTPlf3ATYUh4I]`|
 |[Thieves' Tools](equipment/equipment-00-zvLyCVD8g2PdHJAc.htm)|Outils de voleur|`@Compendium[pf2e.equipment-srd.zvLyCVD8g2PdHJAc]`|
 |[Thieves' Tools (Concealable Picks)](equipment/equipment-04-TxMFNfkoccirCitP.htm)|Crochets de remplacement furtifs|`@Compendium[pf2e.equipment-srd.TxMFNfkoccirCitP]`|
 |[Thieves' Tools (Concealable)](equipment/equipment-04-Ejmv9IHGp9Ad9dgu.htm)|Outils de voleur (furtif)|`@Compendium[pf2e.equipment-srd.Ejmv9IHGp9Ad9dgu]`|
@@ -10865,7 +10865,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Thundermace](equipment/weapon-00-3NQj5gtHIYFYlAch.htm)|Masse-d'arme tonnerre|`@Compendium[pf2e.equipment-srd.3NQj5gtHIYFYlAch]`|
 |[Thunderstone (Greater)](equipment/weapon-11-dsMkvuLgpOOGLWDy.htm)|Pierre à tonnerre supérieur|`@Compendium[pf2e.equipment-srd.dsMkvuLgpOOGLWDy]`|
 |[Thunderstone (Lesser)](equipment/weapon-01-Xnqglykl3Cif8rN9.htm)|Pierre à tonnerre inférieur|`@Compendium[pf2e.equipment-srd.Xnqglykl3Cif8rN9]`|
-|[Thunderstone (Major)](equipment/weapon-17-IuGydh0En8LbfnWo.htm)|Pierre à tonnerre majeur|`@Compendium[pf2e.equipment-srd.IuGydh0En8LbfnWo]`|
+|[Thunderstone (Major)](equipment/weapon-17-IuGydh0En8LbfnWo.htm)|Pierre à tonnerre majeure|`@Compendium[pf2e.equipment-srd.IuGydh0En8LbfnWo]`|
 |[Thunderstone (Moderate)](equipment/weapon-03-JOaELkzLWTywhn5Z.htm)|Pierre à tonnerre modéré|`@Compendium[pf2e.equipment-srd.JOaELkzLWTywhn5Z]`|
 |[Thurible of Revelation (Greater)](equipment/equipment-18-VBCk7JXGsuG0cug1.htm)|Encensoir de révélation supérieur|`@Compendium[pf2e.equipment-srd.VBCk7JXGsuG0cug1]`|
 |[Thurible of Revelation (Lesser)](equipment/equipment-03-xaWuuQoBJiMLzggR.htm)|Encensoir de révélation inférieur|`@Compendium[pf2e.equipment-srd.xaWuuQoBJiMLzggR]`|

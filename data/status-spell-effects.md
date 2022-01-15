@@ -1,87 +1,27 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 256
- * **officielle**: 17
- * **changé**: 94
+ * **libre**: 312
+ * **officielle**: 21
+ * **changé**: 34
 
 
-Dernière mise à jour: 2022-01-09 15:39 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-15 10:19 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[01-dWbg2gACxMkSnZag.htm](spell-effects/01-dWbg2gACxMkSnZag.htm)|Spell Effect: Protective Ward|Effet : Champ protecteur|changé|
-|[01-eFxUcQDkxcX9KoE1.htm](spell-effects/01-eFxUcQDkxcX9KoE1.htm)|Spell Effect: Boost Eidolon (1 Die)|Effet : Booster l'eidolon (1 Dé)|changé|
-|[01-GhNVAYtoF5hK3AlD.htm](spell-effects/01-GhNVAYtoF5hK3AlD.htm)|Spell Effect: Touch of Corruption|Effet : Toucher de corruption|changé|
-|[01-GnWkI3T3LYRlm3X8.htm](spell-effects/01-GnWkI3T3LYRlm3X8.htm)|Spell Effect: Magic Weapon|Effet : Arme magique|changé|
-|[01-TwtUIEyenrtAbeiX.htm](spell-effects/01-TwtUIEyenrtAbeiX.htm)|Spell Effect: Tanglefoot|Effet : Entrave|changé|
-|[01-U2dJnkoGSCYOsQFI.htm](spell-effects/01-U2dJnkoGSCYOsQFI.htm)|Spell Effect: Gravity Weapon (1 Die)|Effet : Arme pesante (1 dé)|changé|
-|[02-qPaEEhczUWCQo6ux.htm](spell-effects/02-qPaEEhczUWCQo6ux.htm)|Spell Effect: Animal Form (Shark)|Effet : Forme animale (Requin)|changé|
-|[02-sN3mQ7YrPBogEJRn.htm](spell-effects/02-sN3mQ7YrPBogEJRn.htm)|Spell Effect: Animal Form (Canine)|Effet : Forme animale (Canidé)|changé|
-|[03-iqtjMVl6rGQhX2k8.htm](spell-effects/03-iqtjMVl6rGQhX2k8.htm)|Spell Effect: Elemental Motion (Air)|Effet : Mobilité élémentaire(Air)|changé|
-|[03-q4EEYltjqpRGiLsP.htm](spell-effects/03-q4EEYltjqpRGiLsP.htm)|Spell Effect: Elemental Motion (Fire)|Effet : Mobilité élémentaire (Feu)|changé|
-|[03-qbOpis7pIkXJbM2B.htm](spell-effects/03-qbOpis7pIkXJbM2B.htm)|Spell Effect: Elemental Motion (Earth)|Effet : Mobilité élémentaire (Terre)|changé|
-|[04-0Cyf07wboRp4CmcQ.htm](spell-effects/04-0Cyf07wboRp4CmcQ.htm)|Spell Effect: Dinosaur Form (Ankylosaurus)|Effet : Forme de dinosaure (Ankylosaure)|changé|
-|[04-0QVufU5o3xIxiHmP.htm](spell-effects/04-0QVufU5o3xIxiHmP.htm)|Spell Effect: Aerial Form (Bird)|Effet : Forme aérienne (Oiseau)|changé|
-|[04-0s6YaL3IjqECmjab.htm](spell-effects/04-0s6YaL3IjqECmjab.htm)|Spell Effect: Roar of the Wyrm|Effet : Rugissement du Ver|changé|
-|[04-14AFzcwkN019dzcl.htm](spell-effects/04-14AFzcwkN019dzcl.htm)|Spell Effect: Shifting Form (Claws)|Effet : Forme changeant (Griffes)|changé|
-|[04-3HEiYVhqypfc4IsP.htm](spell-effects/04-3HEiYVhqypfc4IsP.htm)|Spell Effect: Safeguard Secret|Effet : Secret bien gardé|changé|
-|[04-41WThj17MZBXTO2X.htm](spell-effects/04-41WThj17MZBXTO2X.htm)|Spell Effect: Enlarge (Heightened 4th)|Effet : Agrandissement (Intensifié 4e)|changé|
 |[04-542Keo6txtq7uvqe.htm](spell-effects/04-542Keo6txtq7uvqe.htm)|Spell Effect: Dinosaur Form (Tyrannosaurus)|Effet  Forme de dinosaure (Tyrannosaure)|changé|
-|[04-8GUkKvCeI0xljCOk.htm](spell-effects/04-8GUkKvCeI0xljCOk.htm)|Spell Effect: Stormwind Flight|Effet : Vol de l'ouragan|changé|
-|[04-A48jNUOAmCljx8Ru.htm](spell-effects/04-A48jNUOAmCljx8Ru.htm)|Spell Effect: Shifting Form (Darkvision)|Effet : Forme changeante (Vision dans le noir)|changé|
-|[04-AJkRUIdYLnt4QOOg.htm](spell-effects/04-AJkRUIdYLnt4QOOg.htm)|Spell Effect: Tempt Fate|Effet : Tenter le sort|changé|
-|[04-byXkHIKFwuKrZ55M.htm](spell-effects/04-byXkHIKFwuKrZ55M.htm)|Spell Effect: Shifting Form (Scent)|Effet : Forme changeante (Odorat)|changé|
-|[04-iJ7TVW5tDnZG9DG8.htm](spell-effects/04-iJ7TVW5tDnZG9DG8.htm)|Spell Effect: Competitive Edge|Effet : Avantage du compétiteur|changé|
 |[04-iOKhr2El8R6cz6YI.htm](spell-effects/04-iOKhr2El8R6cz6YI.htm)|Spell Effect: Dinosaur Form (Triceratops)|Effet : Forme de dinosaure (Tricératops)|changé|
-|[04-j6po934p4jcUVC6l.htm](spell-effects/04-j6po934p4jcUVC6l.htm)|Spell Effect: Shifting Form (Speed)|Effet : Forme changeante (Vitesse)|changé|
-|[04-jvwKRHtOiPAm4uAP.htm](spell-effects/04-jvwKRHtOiPAm4uAP.htm)|Spell Effect: Aerial Form (Bat)|Effet : Forme aérienne (Chauve-souris)|changé|
-|[04-KkDRRDuycXwKPa6n.htm](spell-effects/04-KkDRRDuycXwKPa6n.htm)|Spell Effect: Dinosaur Form (Brontosaurus)|Effet : Forme de dinosaure (Brontosaure)|changé|
-|[04-nbW4udOUTrCGL3Gf.htm](spell-effects/04-nbW4udOUTrCGL3Gf.htm)|Spell Effect: Shifting Form (Climb Speed)|Effet : Forme changeante (Escalade)|changé|
-|[04-nHXKK4pRXAzrLdEP.htm](spell-effects/04-nHXKK4pRXAzrLdEP.htm)|Spell Effect: Take Its Course (Affliction, Help)|Effet : Suivre son cours (Afflicton, aide)|changé|
-|[04-oJbcmpBSHwmx6FD4.htm](spell-effects/04-oJbcmpBSHwmx6FD4.htm)|Spell Effect: Dinosaur Form (Deinonychus)|Effet : Forme de dinosaure (Deinonychus)|changé|
-|[04-R27azQfzeFuFc48G.htm](spell-effects/04-R27azQfzeFuFc48G.htm)|Spell Effect: Take Its Course (Affliction, Hinder)|Effet : Suivre son cours (Affliction, entraver)|changé|
-|[04-T6XnxvsgvvOrpien.htm](spell-effects/04-T6XnxvsgvvOrpien.htm)|Spell Effect: Dinosaur Form (Stegosaurus)|Effet : Forme de Dinosaure (Stégosaure)|changé|
-|[04-UH2sT6eW5e31Xytd.htm](spell-effects/04-UH2sT6eW5e31Xytd.htm)|Spell Effect: Dutiful Challenge|Effet : Défi respectueux|changé|
-|[04-UjoNm3lrhlg4ctAQ.htm](spell-effects/04-UjoNm3lrhlg4ctAQ.htm)|Spell Effect: Aerial Form (Pterosaur)|Effet : Forme aérienne (Ptérosaure)|changé|
-|[04-Um25D1qLtZWOSBny.htm](spell-effects/04-Um25D1qLtZWOSBny.htm)|Spell Effect: Shifting Form (Swim Speed)|Effet : Forme changeante (Nage)|changé|
-|[04-xgZxYqjDPNtsQ3Qp.htm](spell-effects/04-xgZxYqjDPNtsQ3Qp.htm)|Spell Effect: Aerial Form (Wasp)|Effet : Forme aérienne (Guêpe)|changé|
-|[05-14m4s0FeRSqRlHwL.htm](spell-effects/05-14m4s0FeRSqRlHwL.htm)|Spell Effect: Arcane Countermeasure|Effet : Contre mesures arcaniques|changé|
-|[05-51M5Qblm1TDTq7HB.htm](spell-effects/05-51M5Qblm1TDTq7HB.htm)|Spell Effect: Blessing of Defiance (2 Action Reflex)|Effet : Bénédiction du défi (Réflexes à 2 actions)|changé|
-|[05-5MI2c9IgxfSeGZQo.htm](spell-effects/05-5MI2c9IgxfSeGZQo.htm)|Spell Effect: Wind Jump|Effet : Saut du vent|changé|
-|[05-8eWLR0WCf5258z8X.htm](spell-effects/05-8eWLR0WCf5258z8X.htm)|Spell Effect: Elemental Form (Earth)|Effet : Forme élémentaire (Terre)|changé|
-|[05-A61eVVVyUuaUl3tz.htm](spell-effects/05-A61eVVVyUuaUl3tz.htm)|Spell Effect: Celestial Brand|Effet : Marque céleste|changé|
-|[05-ceEA7nBGNmoR8Sjj.htm](spell-effects/05-ceEA7nBGNmoR8Sjj.htm)|Spell Effect: Litany of Self-Interest|Effet : Litanie d'égoïsme|changé|
-|[05-cTBYHfiXDOA09G4b.htm](spell-effects/05-cTBYHfiXDOA09G4b.htm)|Spell Effect: Traveler's Transit (Fly)|Effet : Voyageur en transit (Vol)|changé|
-|[05-DliizYpHcmBG130w.htm](spell-effects/05-DliizYpHcmBG130w.htm)|Spell Effect: Elemental Form (Air)|Effet : Forme élémentaire (Air)|changé|
-|[05-fIloZhZVH1xTnX4B.htm](spell-effects/05-fIloZhZVH1xTnX4B.htm)|Spell Effect: Plant Form (Shambler)|Effet : Forme de plante (Grand tertre)|changé|
-|[05-JrNHFNxJayevlv2G.htm](spell-effects/05-JrNHFNxJayevlv2G.htm)|Spell Effect: Plant Form (Flytrap)|Effet : Forme de plante (Attrape-mouches)|changé|
-|[05-Jw8C5RUaxQ9N7VUH.htm](spell-effects/05-Jw8C5RUaxQ9N7VUH.htm)|Spell Effect: Blessing of Defiance (Will)|Effet : Bénédiction de défi (Volonté)|changé|
-|[05-jy4edd6pvJvJgOSP.htm](spell-effects/05-jy4edd6pvJvJgOSP.htm)|Spell Effect: Dragon Wings (Own Speed)|Effet : Ailes de dragon (Sa vitesse)|changé|
-|[05-kxMBdANwCcF841uA.htm](spell-effects/05-kxMBdANwCcF841uA.htm)|Spell Effect: Elemental Form (Water)|Effet : Forme élémentaire (Eau)|changé|
 |[05-LMzFBnOEPzDGzHg4.htm](spell-effects/05-LMzFBnOEPzDGzHg4.htm)|Spell Effect: Unusual Anatomy|Effet : Anatomie étrange|changé|
 |[05-lWYIwbFhw0SWVLaP.htm](spell-effects/05-lWYIwbFhw0SWVLaP.htm)|Spell Effect: Blessing of Defiance (Fortitude)|Effet : Bénédiction de défi (Vigueur)|changé|
 |[05-ML9xn5YKPID8gODV.htm](spell-effects/05-ML9xn5YKPID8gODV.htm)|Spell Effect: Blessing of Defiance (Reflex)|Effet : Bénédiction de défi (Réflexes)|changé|
-|[05-phIoucsDa3iplMm2.htm](spell-effects/05-phIoucsDa3iplMm2.htm)|Spell Effect: Elemental Form (Fire)|Effet : Forme élémentaire (Feu)|changé|
-|[05-tu8FyCtmL3YYR2jL.htm](spell-effects/05-tu8FyCtmL3YYR2jL.htm)|Spell Effect: Plant Form (Arboreal)|Effet : Forme de plante (Arboréen)|changé|
-|[05-V7jAnItnVqtfCAKt.htm](spell-effects/05-V7jAnItnVqtfCAKt.htm)|Spell Effect: Dragon Wings (60 Feet)|Effet : Ailes de dragon (18 mètres)|changé|
-|[06-8aNZhlkzRTRKlKag.htm](spell-effects/06-8aNZhlkzRTRKlKag.htm)|Spell Effect: Dragon Form (Gold)|Effet : Forme de dragon (Or)|changé|
 |[06-b5OyBdc0bolgWZZT.htm](spell-effects/06-b5OyBdc0bolgWZZT.htm)|Spell Effect: Tempest Form (Air)|Effet : Forme tempêtueuse (Air)|changé|
 |[06-C3RdbEQTvawqKAhw.htm](spell-effects/06-C3RdbEQTvawqKAhw.htm)|Spell Effect: Tempest Form (Water)|Effet : Forme tempêtueuse (Eau)|changé|
-|[06-DrNpuMj14wVj4bWF.htm](spell-effects/06-DrNpuMj14wVj4bWF.htm)|Spell Effect: Dragon Form (Copper)|Effet : Forme de dragon (Cuivre)|changé|
-|[06-ETgzIIv3M2zvclAR.htm](spell-effects/06-ETgzIIv3M2zvclAR.htm)|Spell Effect: Dragon Form (Blue)|Effet : Forme de dragon (Bleu)|changé|
-|[06-H6ndYYYlADWwqVQb.htm](spell-effects/06-H6ndYYYlADWwqVQb.htm)|Spell Effect: Dragon Form (White)|Effet : Forme de dragon (Blanc)|changé|
 |[06-HDKJAUXMbtxnBdgR.htm](spell-effects/06-HDKJAUXMbtxnBdgR.htm)|Spell Effect: Tempest Form (Mist)|Effet : Forme tempêtueuse (Brume)|changé|
-|[06-jtW3VfI5Kktuy3GH.htm](spell-effects/06-jtW3VfI5Kktuy3GH.htm)|Spell Effect: Dragon Form (Bronze)|Effet : Forme de dragon (Bronze)|changé|
 |[06-l8HkOKfiUqd3BUwT.htm](spell-effects/06-l8HkOKfiUqd3BUwT.htm)|Spell Effect: Ancestral Form|Effet : Forme ancestrale|changé|
 |[06-lIl0yYdS9zojOZhe.htm](spell-effects/06-lIl0yYdS9zojOZhe.htm)|Spell Effect: Life-Giving Form|Effet : Forme génératrice de vie|changé|
-|[06-nWEx5kpkE8YlBZvy.htm](spell-effects/06-nWEx5kpkE8YlBZvy.htm)|Spell Effect: Dragon Form (Green)|Effet : Forme de dragon (Vert)|changé|
-|[06-OeCn76SB92GPOZwr.htm](spell-effects/06-OeCn76SB92GPOZwr.htm)|Spell Effect: Dragon Form (Brass)|Effet : Forme de dragon (Airain)|changé|
-|[06-rHXOZAFBdRXIlxt5.htm](spell-effects/06-rHXOZAFBdRXIlxt5.htm)|Spell Effect: Dragon Form (Black)|Effet : Forme de dragon (Noir)|changé|
-|[06-TUyEeLyqdJL6PwbH.htm](spell-effects/06-TUyEeLyqdJL6PwbH.htm)|Spell Effect: Dragon Form (Silver)|Effet : Forme de dragon (Argent)|changé|
-|[06-V4a9pZHNUlddAwTA.htm](spell-effects/06-V4a9pZHNUlddAwTA.htm)|Spell Effect: Dragon Form (Red)|Effet : Forme de dragon (Rouge)|changé|
 |[06-W4lb3417rNDd9tCq.htm](spell-effects/06-W4lb3417rNDd9tCq.htm)|Spell Effect: Righteous Might|Effet : Force du molosse|changé|
 |[07-2Ss5VblfZNHg1HjN.htm](spell-effects/07-2Ss5VblfZNHg1HjN.htm)|Spell Effect: Cosmic Form (Sun)|Effet : Forme cosmique (Soleil)|changé|
 |[07-AnawxScxqUiRuGTm.htm](spell-effects/07-AnawxScxqUiRuGTm.htm)|Spell Effect: Divine Vessel 9th level (Evil)|Effet : Réceptacle divin (Mauvais)|changé|
@@ -159,13 +99,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-deG1dtfuQph03Kkg.htm](spell-effects/01-deG1dtfuQph03Kkg.htm)|Spell Effect: Shillelagh|Effet : Gourdin magique|libre|
 |[01-dEsaufFnfYihu5Ex.htm](spell-effects/01-dEsaufFnfYihu5Ex.htm)|Spell Effect: Discern Secrets (Sense Motive)|Effet : Discerner les secrets (Deviner les intentions)|libre|
 |[01-DLwTvjjnqs2sNGuG.htm](spell-effects/01-DLwTvjjnqs2sNGuG.htm)|Spell Effect: Inspire Defense|Effet : Inspiration défensive|officielle|
+|[01-dWbg2gACxMkSnZag.htm](spell-effects/01-dWbg2gACxMkSnZag.htm)|Spell Effect: Protective Ward|Effet : Champ protecteur|officielle|
+|[01-eFxUcQDkxcX9KoE1.htm](spell-effects/01-eFxUcQDkxcX9KoE1.htm)|Spell Effect: Boost Eidolon (1 Die)|Effet : Booster l'eidolon (1 Dé)|libre|
 |[01-F10ofwC0k1ELIaV4.htm](spell-effects/01-F10ofwC0k1ELIaV4.htm)|Spell Effect: Impeccable Flow (Critical Failure Effect)|Effet : Flux impeccable (Effet d'échec critique)|libre|
 |[01-fEhCbATDNlt6c1Ug.htm](spell-effects/01-fEhCbATDNlt6c1Ug.htm)|Spell Effect: Extract Poison|Effet : Extraction du poison|libre|
 |[01-Fjnm1l59KH5YJ7G9.htm](spell-effects/01-Fjnm1l59KH5YJ7G9.htm)|Spell Effect: Inspire Heroics (Strength, +2)|Effet : Inspiration héroïque (Force, +2)|libre|
 |[01-fKeZDm8kpDFK5HWp.htm](spell-effects/01-fKeZDm8kpDFK5HWp.htm)|Spell Effect: Devil Form (Sarglagon)|Effet : Forme de diable (Sarglagon)|libre|
 |[01-fLOQMycP5tmXgPv9.htm](spell-effects/01-fLOQMycP5tmXgPv9.htm)|Spell Effect: Elemental Gift (Earth)|Effet : Don élémentaire (Terre)|libre|
 |[01-FR4ucNi2ceHZdrpB.htm](spell-effects/01-FR4ucNi2ceHZdrpB.htm)|Spell Effect: Warding Aggression (+1)|Effet : Agression protectrice (+1)|libre|
+|[01-GhNVAYtoF5hK3AlD.htm](spell-effects/01-GhNVAYtoF5hK3AlD.htm)|Spell Effect: Touch of Corruption|Effet : Toucher de corruption|libre|
 |[01-gmgXUazwnm0i305Z.htm](spell-effects/01-gmgXUazwnm0i305Z.htm)|Spell Effect: Infectious Enthusiasm (Attack)|Effet : Enthousiasme communicatif (Attaque)|libre|
+|[01-GnWkI3T3LYRlm3X8.htm](spell-effects/01-GnWkI3T3LYRlm3X8.htm)|Spell Effect: Magic Weapon|Effet : Arme magique|libre|
 |[01-hdOb5Iu6Zd3pHoGI.htm](spell-effects/01-hdOb5Iu6Zd3pHoGI.htm)|Spell Effect: Discern Secrets (Recall Knowledge)|Effet : Discerner les secrets (Se souvenir)|libre|
 |[01-HEbbxKtBzsLhFead.htm](spell-effects/01-HEbbxKtBzsLhFead.htm)|Spell Effect: Devil Form (Osyluth)|Effet : Forme de diable (Osyluth)|libre|
 |[01-hkLhZsH3T6jc9S1y.htm](spell-effects/01-hkLhZsH3T6jc9S1y.htm)|Spell Effect: Veil of Dreams|Effet : Voile de rêves|libre|
@@ -226,7 +170,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-tNryw0Rl4L8LF8Yq.htm](spell-effects/01-tNryw0Rl4L8LF8Yq.htm)|Spell Effect: Gravity Weapon (4 Dice)|Effet : Arme pesante (4 dés)|libre|
 |[01-TpVkVALUBrBQjULn.htm](spell-effects/01-TpVkVALUBrBQjULn.htm)|Spell Effect: Stoke the Heart|Effet : Enflammer les cœurs|libre|
 |[01-tTRy1cc24ApPnym8.htm](spell-effects/01-tTRy1cc24ApPnym8.htm)|Spell Effect: Ki Strike (Water)|Effet : Frappe ki (Eau)|libre|
+|[01-TwtUIEyenrtAbeiX.htm](spell-effects/01-TwtUIEyenrtAbeiX.htm)|Spell Effect: Tanglefoot|Effet : Entrave|officielle|
 |[01-u04C6DgBFP9PKzDx.htm](spell-effects/01-u04C6DgBFP9PKzDx.htm)|Spell Effect: Impeccable Flow (5th)|Effet : Flux impeccable (5e)|libre|
+|[01-U2dJnkoGSCYOsQFI.htm](spell-effects/01-U2dJnkoGSCYOsQFI.htm)|Spell Effect: Gravity Weapon (1 Die)|Effet : Arme pesante (1 dé)|libre|
 |[01-U2ekk5iBaSfZlEkp.htm](spell-effects/01-U2ekk5iBaSfZlEkp.htm)|Spell Effect: Ki Strike (Earth)|Effet : Frappe ki (Terre)|libre|
 |[01-ubT5UGReu1PoeCL0.htm](spell-effects/01-ubT5UGReu1PoeCL0.htm)|Spell Effect: Ki Strike (Negative)|Effet : Frappe ki (Négatif)|libre|
 |[01-uDOxq24S7IT2EcXv.htm](spell-effects/01-uDOxq24S7IT2EcXv.htm)|Spell Effect: Object Memory (Weapon)|Effet : Mémoire de l'objet (Arme ou outil)|libre|
@@ -284,8 +230,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[02-OplbQWW6i1NtMq9f.htm](spell-effects/02-OplbQWW6i1NtMq9f.htm)|Spell Effect: Ki Strike (Good)|Effet : Frappe ki (Bien)|libre|
 |[02-ptOqsN5FS0nQh7RW.htm](spell-effects/02-ptOqsN5FS0nQh7RW.htm)|Spell Effect: Animal Form (Cat)|Effet : Forme animale (Félin)|libre|
 |[02-qo7DoF11Xl9gqmFc.htm](spell-effects/02-qo7DoF11Xl9gqmFc.htm)|Spell Effect: Rapid Adaptation (Desert)|Effet : Adaptation rapide (Désert)|libre|
+|[02-qPaEEhczUWCQo6ux.htm](spell-effects/02-qPaEEhczUWCQo6ux.htm)|Spell Effect: Animal Form (Shark)|Effet : Forme animale (Requin)|libre|
 |[02-RLUhIyqH84Dle4vo.htm](spell-effects/02-RLUhIyqH84Dle4vo.htm)|Spell Effect: Fungal Infestation (Critical Failure)|Effet : Infestation fongique(Échec critique)|libre|
 |[02-sDN9b4bjCGH2nQnG.htm](spell-effects/02-sDN9b4bjCGH2nQnG.htm)|Spell Effect: Rapid Adaptation (Mountain)|Effet : Adaptation rapide (Montagne)|libre|
+|[02-sN3mQ7YrPBogEJRn.htm](spell-effects/02-sN3mQ7YrPBogEJRn.htm)|Spell Effect: Animal Form (Canine)|Effet : Forme animale (Canidé)|libre|
 |[02-sPCWrhUHqlbGhYSD.htm](spell-effects/02-sPCWrhUHqlbGhYSD.htm)|Spell Effect: Enlarge|Effet : Agrandissement|libre|
 |[02-tk3go5Cl6Qt130Dk.htm](spell-effects/02-tk3go5Cl6Qt130Dk.htm)|Spell Effect: Animal Form (Ape)|Effet : Forme animale (Singe)|libre|
 |[02-xPVOvWNJORvm8EwP.htm](spell-effects/02-xPVOvWNJORvm8EwP.htm)|Spell Effect: Mimic Undead|Effet : Imiter un mort-vivant|libre|
@@ -303,6 +251,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03-E6HPkpvzvkaJ49c0.htm](spell-effects/03-E6HPkpvzvkaJ49c0.htm)|Spell Effect: Elemental Absorption (Earth)|Effet : Absorption élémentaire (Terre)|libre|
 |[03-EKdqKCuyWSkpXpyJ.htm](spell-effects/03-EKdqKCuyWSkpXpyJ.htm)|Spell Effect: Ooze Form (Black Pudding)|Effet : Forme de vase (Pudding noir)|libre|
 |[03-gX8O0ArQXbEVDUbW.htm](spell-effects/03-gX8O0ArQXbEVDUbW.htm)|Spell Effect: Embrace the Pit|Effet : Étreinte de la fosse|libre|
+|[03-iqtjMVl6rGQhX2k8.htm](spell-effects/03-iqtjMVl6rGQhX2k8.htm)|Spell Effect: Elemental Motion (Air)|Effet : Mobilité élémentaire(Air)|libre|
 |[03-iZYjxY0qYvg5yPP3.htm](spell-effects/03-iZYjxY0qYvg5yPP3.htm)|Spell Effect: Angelic Wings|Effet : Ailes d'ange|libre|
 |[03-l9HRQggofFGIxEse.htm](spell-effects/03-l9HRQggofFGIxEse.htm)|Spell Effect: Heroism|Effet : Héroïsme|libre|
 |[03-llrOM8rPP9nxIuEN.htm](spell-effects/03-llrOM8rPP9nxIuEN.htm)|Spell Effect: Insect Form (Mantis)|Effet : Forme d'insecte (Mante)|libre|
@@ -310,16 +259,28 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03-nfQAqTSVHcA2JSyI.htm](spell-effects/03-nfQAqTSVHcA2JSyI.htm)|Spell Effect: Elemental Absorption (Air)|Effet : Absorption élémentaire (Air)|libre|
 |[03-PhBrHvBwvq8rni9C.htm](spell-effects/03-PhBrHvBwvq8rni9C.htm)|Spell Effect: Evolution Surge (Large)|Effet : Flux d'évolution (Grande)|libre|
 |[03-PpkOZVoHkBZUmddx.htm](spell-effects/03-PpkOZVoHkBZUmddx.htm)|Spell Effect: Ooze Form (Ochre Jelly)|{Effet : Forme de vase (Gelée ocre)|libre|
+|[03-q4EEYltjqpRGiLsP.htm](spell-effects/03-q4EEYltjqpRGiLsP.htm)|Spell Effect: Elemental Motion (Fire)|Effet : Mobilité élémentaire (Feu)|libre|
+|[03-qbOpis7pIkXJbM2B.htm](spell-effects/03-qbOpis7pIkXJbM2B.htm)|Spell Effect: Elemental Motion (Earth)|Effet : Mobilité élémentaire (Terre)|libre|
 |[03-Uj9VFXoVMH0mTTdt.htm](spell-effects/03-Uj9VFXoVMH0mTTdt.htm)|Spell Effect: Organsight|Effet : Vision des organes|libre|
 |[03-VAJMojQATvpAcpQW.htm](spell-effects/03-VAJMojQATvpAcpQW.htm)|Spell Effect: Elemental Absorption (Fire)|Effet : Absorption élémentaire (Feu)|libre|
 |[03-zPGVOLz6xhsQN35C.htm](spell-effects/03-zPGVOLz6xhsQN35C.htm)|Spell Effect: Envenom Companion|Effet : Compagnon venimeux|libre|
+|[04-0Cyf07wboRp4CmcQ.htm](spell-effects/04-0Cyf07wboRp4CmcQ.htm)|Spell Effect: Dinosaur Form (Ankylosaurus)|Effet : Forme de dinosaure (Ankylosaure)|libre|
 |[04-0IxfOSTMen1GKQUW.htm](spell-effects/04-0IxfOSTMen1GKQUW.htm)|Spell Effect: Energy Absorption (Electricity)|Effet : Absorption d'énergie (Électricité)|libre|
+|[04-0QVufU5o3xIxiHmP.htm](spell-effects/04-0QVufU5o3xIxiHmP.htm)|Spell Effect: Aerial Form (Bird)|Effet : Forme aérienne (Oiseau)|libre|
+|[04-0s6YaL3IjqECmjab.htm](spell-effects/04-0s6YaL3IjqECmjab.htm)|Spell Effect: Roar of the Wyrm|Effet : Rugissement du Ver|libre|
+|[04-14AFzcwkN019dzcl.htm](spell-effects/04-14AFzcwkN019dzcl.htm)|Spell Effect: Shifting Form (Claws)|Effet : Forme changeant (Griffes)|libre|
 |[04-1RsScTvNdGD9zGWe.htm](spell-effects/04-1RsScTvNdGD9zGWe.htm)|Spell Effect: Fire Shield|Effet : Bouclier de feu|officielle|
 |[04-1VuHjj32wge2gPOr.htm](spell-effects/04-1VuHjj32wge2gPOr.htm)|Spell Effect: Animal Feature (Wings)|Effet : Trait animal (Ailes)|libre|
 |[04-28NvrpZmELvyrHUt.htm](spell-effects/04-28NvrpZmELvyrHUt.htm)|Spell Effect: Variable Gravity (High Gravity)|Effet : Gravité variable (Gravité élevée)|libre|
+|[04-3HEiYVhqypfc4IsP.htm](spell-effects/04-3HEiYVhqypfc4IsP.htm)|Spell Effect: Safeguard Secret|Effet : Secret bien gardé|officielle|
+|[04-41WThj17MZBXTO2X.htm](spell-effects/04-41WThj17MZBXTO2X.htm)|Spell Effect: Enlarge (Heightened 4th)|Effet : Agrandissement (Intensifié 4e)|libre|
 |[04-5xCheSMgtQhQZm00.htm](spell-effects/04-5xCheSMgtQhQZm00.htm)|Spell Effect: Garden of Death (Critical Success)|Effet : Jardin mortel (Succès critique)|libre|
+|[04-8GUkKvCeI0xljCOk.htm](spell-effects/04-8GUkKvCeI0xljCOk.htm)|Spell Effect: Stormwind Flight|Effet : Vol de l'ouragan|libre|
 |[04-8wCVSzWYcURWewbd.htm](spell-effects/04-8wCVSzWYcURWewbd.htm)|Spell Effect: Bestial Curse (Failure)|Effet : Malédiction bestiale (Échec)|libre|
 |[04-9K0QeW8j0Z1WswnZ.htm](spell-effects/04-9K0QeW8j0Z1WswnZ.htm)|Spell Effect: Adaptive Ablation (Electricity)|Effet : Ablation adaptative (Électricité)|libre|
+|[04-A48jNUOAmCljx8Ru.htm](spell-effects/04-A48jNUOAmCljx8Ru.htm)|Spell Effect: Shifting Form (Darkvision)|Effet : Forme changeante (Vision dans le noir)|libre|
+|[04-AJkRUIdYLnt4QOOg.htm](spell-effects/04-AJkRUIdYLnt4QOOg.htm)|Spell Effect: Tempt Fate|Effet : Tenter le sort|officielle|
+|[04-byXkHIKFwuKrZ55M.htm](spell-effects/04-byXkHIKFwuKrZ55M.htm)|Spell Effect: Shifting Form (Scent)|Effet : Forme changeante (Odorat)|libre|
 |[04-c4cIfS2974nUJDPt.htm](spell-effects/04-c4cIfS2974nUJDPt.htm)|Spell Effect: Fey Form (Dryad)|Effet : Forme de fée (dryade)|libre|
 |[04-cNZRAPd2kVrM3Iuo.htm](spell-effects/04-cNZRAPd2kVrM3Iuo.htm)|Spell Effect: Energy Absorption (Acid)|Effet : Absorption d'énergie (Acide)|libre|
 |[04-db9lXpF4OsPz9cXL.htm](spell-effects/04-db9lXpF4OsPz9cXL.htm)|Spell Effect: Energy Absorption (Fire)|Effet : Absorption d'énergie (Feu)|libre|
@@ -327,36 +288,65 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[04-fCIT9YgGUwIc3Z9G.htm](spell-effects/04-fCIT9YgGUwIc3Z9G.htm)|Spell Effect: Draw the Lightning|Effet : Attirer la foudre|libre|
 |[04-GlggmEqkGVj1noOD.htm](spell-effects/04-GlggmEqkGVj1noOD.htm)|Spell Effect: Bottle the Storm|Effet : Tempête en bouteille|libre|
 |[04-heAj9paC8ZRh7QEj.htm](spell-effects/04-heAj9paC8ZRh7QEj.htm)|Spell Effect: Fey Form (Redcap)|Effet : Forme de fée (Bonnet rouge)|libre|
+|[04-iJ7TVW5tDnZG9DG8.htm](spell-effects/04-iJ7TVW5tDnZG9DG8.htm)|Spell Effect: Competitive Edge|Effet : Avantage du compétiteur|libre|
+|[04-j6po934p4jcUVC6l.htm](spell-effects/04-j6po934p4jcUVC6l.htm)|Spell Effect: Shifting Form (Speed)|Effet : Forme changeante (Vitesse)|libre|
+|[04-jvwKRHtOiPAm4uAP.htm](spell-effects/04-jvwKRHtOiPAm4uAP.htm)|Spell Effect: Aerial Form (Bat)|Effet : Forme aérienne (Chauve-souris)|libre|
 |[04-KcBqo33ekJHxZLHo.htm](spell-effects/04-KcBqo33ekJHxZLHo.htm)|Spell Effect: Fey Form (Naiad)|Effet : Forme de fée (Naïade)|libre|
+|[04-KkDRRDuycXwKPa6n.htm](spell-effects/04-KkDRRDuycXwKPa6n.htm)|Spell Effect: Dinosaur Form (Brontosaurus)|Effet : Forme de dinosaure (Brontosaure)|libre|
 |[04-KtAJN4Qr2poTL6BB.htm](spell-effects/04-KtAJN4Qr2poTL6BB.htm)|Spell Effect: Bestial Curse (Critical Failure)|Effet : Malédiction bestiale (Échec critique)|libre|
 |[04-LMXxICrByo7XZ3Q3.htm](spell-effects/04-LMXxICrByo7XZ3Q3.htm)|Spell Effect: Downpour|Effet : Déluge|libre|
+|[04-nbW4udOUTrCGL3Gf.htm](spell-effects/04-nbW4udOUTrCGL3Gf.htm)|Spell Effect: Shifting Form (Climb Speed)|Effet : Forme changeante (Escalade)|libre|
 |[04-NhauZhE2kQKw8MRx.htm](spell-effects/04-NhauZhE2kQKw8MRx.htm)|Spell Effect: Adaptive Ablation (Fire)|Effet : Ablation adaptative (Feu)|libre|
+|[04-nHXKK4pRXAzrLdEP.htm](spell-effects/04-nHXKK4pRXAzrLdEP.htm)|Spell Effect: Take Its Course (Affliction, Help)|Effet : Suivre son cours (Afflicton, aide)|libre|
+|[04-oJbcmpBSHwmx6FD4.htm](spell-effects/04-oJbcmpBSHwmx6FD4.htm)|Spell Effect: Dinosaur Form (Deinonychus)|Effet : Forme de dinosaure (Deinonychus)|libre|
 |[04-pgzrKgfIgf2a36Qy.htm](spell-effects/04-pgzrKgfIgf2a36Qy.htm)|Spell Effect: Adaptive Ablation (Acid)|Effet : Ablation adaptative (Acide)|libre|
 |[04-QJRaVbulmpOzWi6w.htm](spell-effects/04-QJRaVbulmpOzWi6w.htm)|Spell Effect: Girzanje's March|Effet : Marche de Guirzanjé|libre|
+|[04-R27azQfzeFuFc48G.htm](spell-effects/04-R27azQfzeFuFc48G.htm)|Spell Effect: Take Its Course (Affliction, Hinder)|Effet : Suivre son cours (Affliction, entraver)|libre|
 |[04-S75DOLjKaSJGMc0D.htm](spell-effects/04-S75DOLjKaSJGMc0D.htm)|Spell Effect: Fey Form (Elananx)|Effet : Forme de fée (Élananxe)|libre|
 |[04-sILRkGTwoBywy0BU.htm](spell-effects/04-sILRkGTwoBywy0BU.htm)|Spell Effect: Gaseous Form|Effet : Forme gazeuse|officielle|
+|[04-T6XnxvsgvvOrpien.htm](spell-effects/04-T6XnxvsgvvOrpien.htm)|Spell Effect: Dinosaur Form (Stegosaurus)|Effet : Forme de Dinosaure (Stégosaure)|libre|
+|[04-UH2sT6eW5e31Xytd.htm](spell-effects/04-UH2sT6eW5e31Xytd.htm)|Spell Effect: Dutiful Challenge|Effet : Défi respectueux|libre|
+|[04-UjoNm3lrhlg4ctAQ.htm](spell-effects/04-UjoNm3lrhlg4ctAQ.htm)|Spell Effect: Aerial Form (Pterosaur)|Effet : Forme aérienne (Ptérosaure)|libre|
+|[04-Um25D1qLtZWOSBny.htm](spell-effects/04-Um25D1qLtZWOSBny.htm)|Spell Effect: Shifting Form (Swim Speed)|Effet : Forme changeante (Nage)|libre|
 |[04-UXdt1WVA66oZOoZS.htm](spell-effects/04-UXdt1WVA66oZOoZS.htm)|Spell Effect: Flame Barrier|Effet : Barrière de flammes|officielle|
 |[04-vYSS2W2BA0SiY5yL.htm](spell-effects/04-vYSS2W2BA0SiY5yL.htm)|Spell Effect: Adaptive Ablation (Cold)|Effet : Ablation adaptative (Froid|libre|
 |[04-WquoEAIT621zDLpY.htm](spell-effects/04-WquoEAIT621zDLpY.htm)|Spell Effect: Energy Absorption (Cold)|Effet : Absorption d'énergie Froid)|libre|
+|[04-xgZxYqjDPNtsQ3Qp.htm](spell-effects/04-xgZxYqjDPNtsQ3Qp.htm)|Spell Effect: Aerial Form (Wasp)|Effet : Forme aérienne (Guêpe)|libre|
 |[04-Xlwt1wpjEKWBLUjK.htm](spell-effects/04-Xlwt1wpjEKWBLUjK.htm)|Spell Effect: Animal Feature (Fish Tail)|Effet : Trait animal (Queue de poisson)|libre|
 |[04-ZHVtJKnur9PAF5TO.htm](spell-effects/04-ZHVtJKnur9PAF5TO.htm)|Spell Effect: Enduring Might|Effet : Puissance protectrice|libre|
 |[04-ZlsuhS9J0S3PuvCO.htm](spell-effects/04-ZlsuhS9J0S3PuvCO.htm)|Spell Effect: Blink|Effet : Clignotement|libre|
 |[04-ZXWDzLJ8583Z4hOD.htm](spell-effects/04-ZXWDzLJ8583Z4hOD.htm)|Spell Effect: Adaptive Ablation (Sonic)|Effet : Ablation adaptative (Son)|libre|
+|[05-14m4s0FeRSqRlHwL.htm](spell-effects/05-14m4s0FeRSqRlHwL.htm)|Spell Effect: Arcane Countermeasure|Effet : Contre-mesure arcanique|libre|
 |[05-1gTnFmfLUQnCo3TK.htm](spell-effects/05-1gTnFmfLUQnCo3TK.htm)|Spell Effect: Dread Ambience (Success)|Effet : Ambiance terrifiante (Succès)|libre|
 |[05-4FD4vJqVpuuJjk9Q.htm](spell-effects/05-4FD4vJqVpuuJjk9Q.htm)|Spell Effect: Mind Swap (Critical Success)|Effet : Échange d'esprit (Succès critique)|libre|
 |[05-4Lt69zSeYElEfDrZ.htm](spell-effects/05-4Lt69zSeYElEfDrZ.htm)|Spell Effect: Dread Ambience (Critical Failure)|Effet : Ambiance terrifiante (Échec critique)|libre|
+|[05-51M5Qblm1TDTq7HB.htm](spell-effects/05-51M5Qblm1TDTq7HB.htm)|Spell Effect: Blessing of Defiance (2 Action Reflex)|Effet : Bénédiction du défi (Réflexes à 2 actions)|libre|
+|[05-5MI2c9IgxfSeGZQo.htm](spell-effects/05-5MI2c9IgxfSeGZQo.htm)|Spell Effect: Wind Jump|Effet : Saut du vent|libre|
 |[05-6SG8wVmppv4oXZtx.htm](spell-effects/05-6SG8wVmppv4oXZtx.htm)|Spell Effect: Mantle of the Magma Heart (Fiery Grasp)|Manteau du cœur magmatique (Poigne enflammée)|libre|
+|[05-8eWLR0WCf5258z8X.htm](spell-effects/05-8eWLR0WCf5258z8X.htm)|Spell Effect: Elemental Form (Earth)|Effet : Forme élémentaire (Terre)|libre|
+|[05-A61eVVVyUuaUl3tz.htm](spell-effects/05-A61eVVVyUuaUl3tz.htm)|Spell Effect: Celestial Brand|Effet : Marque céleste|libre|
+|[05-ceEA7nBGNmoR8Sjj.htm](spell-effects/05-ceEA7nBGNmoR8Sjj.htm)|Spell Effect: Litany of Self-Interest|Effet : Litanie d'égoïsme|libre|
+|[05-cTBYHfiXDOA09G4b.htm](spell-effects/05-cTBYHfiXDOA09G4b.htm)|Spell Effect: Traveler's Transit (Fly)|Effet : Voyageur en transit (Vol)|libre|
+|[05-DliizYpHcmBG130w.htm](spell-effects/05-DliizYpHcmBG130w.htm)|Spell Effect: Elemental Form (Air)|Effet : Forme élémentaire (Air)|libre|
 |[05-Dr7KMMtE4twxO6Ks.htm](spell-effects/05-Dr7KMMtE4twxO6Ks.htm)|Spell Effect: Blessing of Defiance (2 Action Fortitude)|Effet : Bénédiction du défi (2 actions Vigueur)|libre|
+|[05-fIloZhZVH1xTnX4B.htm](spell-effects/05-fIloZhZVH1xTnX4B.htm)|Spell Effect: Plant Form (Shambler)|Effet : Forme de plante (Grand tertre)|libre|
 |[05-FT5Tt2DKBRutDqbV.htm](spell-effects/05-FT5Tt2DKBRutDqbV.htm)|Spell Effect: Dread Ambience (Critical Success)|Effet : Ambiance terrifiante (Succès critique)|libre|
 |[05-gKGErrsS1WoAyWub.htm](spell-effects/05-gKGErrsS1WoAyWub.htm)|Spell Effect: Aberrant Form (Gogiteth)|Effet : Forme d'aberration (Gogiteth)|libre|
 |[05-ib58LaffEUIypuzL.htm](spell-effects/05-ib58LaffEUIypuzL.htm)|Spell Effect: Evolution Surge (Huge)|Effet : Flux d'évolution (Très grand)|libre|
 |[05-inNfTmtWpsxeGBI9.htm](spell-effects/05-inNfTmtWpsxeGBI9.htm)|Spell Effect: Darkvision (24 hours)|Effet : Vision dans le noir (24 heures)|libre|
+|[05-JrNHFNxJayevlv2G.htm](spell-effects/05-JrNHFNxJayevlv2G.htm)|Spell Effect: Plant Form (Flytrap)|Effet : Forme de plante (Attrape-mouches)|libre|
+|[05-Jw8C5RUaxQ9N7VUH.htm](spell-effects/05-Jw8C5RUaxQ9N7VUH.htm)|Spell Effect: Blessing of Defiance (Will)|Effet : Bénédiction de défi (Volonté)|libre|
+|[05-jy4edd6pvJvJgOSP.htm](spell-effects/05-jy4edd6pvJvJgOSP.htm)|Spell Effect: Dragon Wings (Own Speed)|Effet : Ailes de dragon (Sa vitesse)|libre|
 |[05-kDx9XcyWm4KirRPY.htm](spell-effects/05-kDx9XcyWm4KirRPY.htm)|Spell Effect: Blessing of Defiance (2 Action Will)|Effet Bénédiction du défi (2 actions Volonté)|libre|
+|[05-kxMBdANwCcF841uA.htm](spell-effects/05-kxMBdANwCcF841uA.htm)|Spell Effect: Elemental Form (Water)|Effet : Forme élémentaire (Eau)|libre|
 |[05-mzDgsuuo5wCgqyxR.htm](spell-effects/05-mzDgsuuo5wCgqyxR.htm)|Spell Effect: Mirecloak|Effet : Cape-miroir|libre|
+|[05-phIoucsDa3iplMm2.htm](spell-effects/05-phIoucsDa3iplMm2.htm)|Spell Effect: Elemental Form (Fire)|Effet : Forme élémentaire (Feu)|libre|
 |[05-qRyynMOflGajgAR3.htm](spell-effects/05-qRyynMOflGajgAR3.htm)|Spell Effect: Mantle of the Magma Heart (Enlarging Eruption)|Effet : Manteau du cœur magmatique (Éruption magmatique)|libre|
 |[05-sfJyQKmoxSRo6FyP.htm](spell-effects/05-sfJyQKmoxSRo6FyP.htm)|Spell Effect: Aberrant Form (Gug)|Effet : Forme d'aberration (Gug)|libre|
 |[05-SjfDoeymtnYKoGUD.htm](spell-effects/05-SjfDoeymtnYKoGUD.htm)|Spell Effect: Aberrant Form (Otyugh)|Effet : Forme d'aberration (Otyugh)|libre|
+|[05-tu8FyCtmL3YYR2jL.htm](spell-effects/05-tu8FyCtmL3YYR2jL.htm)|Spell Effect: Plant Form (Arboreal)|Effet : Forme de plante (Arboréen)|libre|
 |[05-u0AznkjTZAVnCMNp.htm](spell-effects/05-u0AznkjTZAVnCMNp.htm)|Spell Effect: Evolution Surge (Fly)|Effet : Flux d'évolution (Vol)|libre|
+|[05-V7jAnItnVqtfCAKt.htm](spell-effects/05-V7jAnItnVqtfCAKt.htm)|Spell Effect: Dragon Wings (60 Feet)|Effet : Ailes de dragon (18 mètres)|libre|
 |[05-wqh8D9kHGItZBvtQ.htm](spell-effects/05-wqh8D9kHGItZBvtQ.htm)|Spell Effect: Mantle of the Frozen Heart (Icy Claws)|Effet : Manteau du cœur gelé (Griffes de glace)|libre|
 |[05-xsy1yaCj0SVsn502.htm](spell-effects/05-xsy1yaCj0SVsn502.htm)|Spell Effect: Aberrant Form (Chuul)|Effet : Forme d'aberration (Chuul)|libre|
 |[05-YCno88Te0nfwFgVo.htm](spell-effects/05-YCno88Te0nfwFgVo.htm)|Spell Effect: Mantle of the Frozen Heart (Ice Glide)|Effet : Manteau du cœur gelé (Glissement glacé)|libre|
@@ -364,10 +354,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[06-1n84AqLtsdT8I64W.htm](spell-effects/06-1n84AqLtsdT8I64W.htm)|Spell Effect: Daemon Form (Ceustodaemon)|Effet : Forme de daémon (Ceustodaémon)|libre|
 |[06-20egTKICPMhibqgn.htm](spell-effects/06-20egTKICPMhibqgn.htm)|Spell Effect: Demon Form (Vrock)|Effet : Forme de démon (Vrock)|libre|
 |[06-7tYv9lY3ksSUny2h.htm](spell-effects/06-7tYv9lY3ksSUny2h.htm)|Spell Effect: Gray Shadow|Effet : Ombre grise|libre|
+|[06-8aNZhlkzRTRKlKag.htm](spell-effects/06-8aNZhlkzRTRKlKag.htm)|Spell Effect: Dragon Form (Gold)|Effet : Forme de dragon (Or)|libre|
+|[06-DrNpuMj14wVj4bWF.htm](spell-effects/06-DrNpuMj14wVj4bWF.htm)|Spell Effect: Dragon Form (Copper)|Effet : Forme de dragon (Cuivre)|libre|
+|[06-ETgzIIv3M2zvclAR.htm](spell-effects/06-ETgzIIv3M2zvclAR.htm)|Spell Effect: Dragon Form (Blue)|Effet : Forme de dragon (Bleu)|libre|
+|[06-H6ndYYYlADWwqVQb.htm](spell-effects/06-H6ndYYYlADWwqVQb.htm)|Spell Effect: Dragon Form (White)|Effet : Forme de dragon (Blanc)|libre|
 |[06-hnfQyf05IIa7WPBB.htm](spell-effects/06-hnfQyf05IIa7WPBB.htm)|Spell Effect: Demon Form (Nabasu)|Effet : Forme de démon (Nabasu)|libre|
+|[06-jtW3VfI5Kktuy3GH.htm](spell-effects/06-jtW3VfI5Kktuy3GH.htm)|Spell Effect: Dragon Form (Bronze)|Effet : Forme de dragon (Bronze)|libre|
 |[06-nemThuhp3praALY6.htm](spell-effects/06-nemThuhp3praALY6.htm)|Spell Effect: Zealous Conviction|Effet : Conviction zélée|libre|
+|[06-nWEx5kpkE8YlBZvy.htm](spell-effects/06-nWEx5kpkE8YlBZvy.htm)|Spell Effect: Dragon Form (Green)|Effet : Forme de dragon (Vert)|libre|
+|[06-OeCn76SB92GPOZwr.htm](spell-effects/06-OeCn76SB92GPOZwr.htm)|Spell Effect: Dragon Form (Brass)|Effet : Forme de dragon (Airain)|libre|
+|[06-rHXOZAFBdRXIlxt5.htm](spell-effects/06-rHXOZAFBdRXIlxt5.htm)|Spell Effect: Dragon Form (Black)|Effet : Forme de dragon (Noir)|libre|
 |[06-ScF0ECWnfXMHYLDL.htm](spell-effects/06-ScF0ECWnfXMHYLDL.htm)|Spell Effect: Daemon Form (Leukodaemon)|Effet : Forme de daémon (Leukodaémon)|libre|
 |[06-sXe7cPazOJbX41GU.htm](spell-effects/06-sXe7cPazOJbX41GU.htm)|Spell Effect: Demon Form (Hezrou)|Effet : Forme de démon (Hezrou)|libre|
+|[06-TUyEeLyqdJL6PwbH.htm](spell-effects/06-TUyEeLyqdJL6PwbH.htm)|Spell Effect: Dragon Form (Silver)|Effet : Forme de dragon (Argent)|libre|
+|[06-V4a9pZHNUlddAwTA.htm](spell-effects/06-V4a9pZHNUlddAwTA.htm)|Spell Effect: Dragon Form (Red)|Effet : Forme de dragon (Rouge)|libre|
 |[06-X1kkbRrh4zJuDGjl.htm](spell-effects/06-X1kkbRrh4zJuDGjl.htm)|Spell Effect: Demon Form (Babau)|Effet : Forme de démon (Babau|libre|
 |[06-zIRnnuj4lARq43DA.htm](spell-effects/06-zIRnnuj4lARq43DA.htm)|Spell Effect: Daemon Form (Meladaemon)|Effet : Forme de daémon (Méladaémon)|libre|
 |[07-3vWfew0TIrcGRjLZ.htm](spell-effects/07-3vWfew0TIrcGRjLZ.htm)|Spell Effect: Angel Form (Monadic Deva)|Effet : Forme d'ange (Deva monadique)|libre|
