@@ -1,16 +1,17 @@
 Name: Mage Bane
 Nom: Fléau du mage
-État: libre
+État: changé
+État d'origine: libre
 
 ------ Description (en) ------
 <p>Upon being mixed and injected into the bloodstream, this powder of the crimson orchid quickly assaults the brain and nerves, disrupting the victim's ability to piece together coherent thoughts and spells.</p>
 <hr />
 <p><strong>Activate</strong> <span class="pf2-icon">T</span> Interact (Injury)</p>
-<p><strong>Saving Throw</strong> <span data-pf2-check="fortitude" data-pf2-dc="32" data-pf2-traits="alchemical,consumable,injury,poison" data-pf2-label="Mage Bane DC" data-pf2-show-dc="gm">Fortitude</span></p>
+<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:32]</p>
 <p><strong>Maximum Duration</strong> 6 rounds</p>
-<p><strong>Stage 1</strong> <a class="inline-roll roll" data-mode="roll" data-flavor="mental" data-formula="2d6" title="mental"><i class="fas fa-dice-d20"></i> 2d6</a> mental damage and @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 2} (1 round)</p>
-<p><strong>Stage 2</strong> <a class="inline-roll roll" data-mode="roll" data-flavor="mental" data-formula="3d6" title="mental"><i class="fas fa-dice-d20"></i> 3d6</a> mental damage and stupefied 3 (1 round)</p>
-<p><strong>Stage 3</strong> <a class="inline-roll roll" data-mode="roll" data-flavor="mental" data-formula="4d6" title="mental"><i class="fas fa-dice-d20"></i> 4d6</a> mental damage and stupefied 4 (1 round)</p>
+<p><strong>Stage 1</strong> [[/r {2d6}[mental]]]{2d6 mental damage} and @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 2} (1 round)</p>
+<p><strong>Stage 2</strong> [[/r {3d6}[mental]]]{3d6 mental damage} and stupefied 3 (1 round)</p>
+<p><strong>Stage 3</strong> [[/r {4d6}[mental]]]{4d6 mental damage} and stupefied 4 (1 round)</p>
 ------ Description (fr) ------
 <p>Après avoir été mélangée et injectée dans le sang, cette poudre d'orchidée pourpre attaque rapidement le cerveau et les nerfs, perturbant la capacité de la victime à rassembler des pensées cohérentes et des sorts.</p>
 <hr />

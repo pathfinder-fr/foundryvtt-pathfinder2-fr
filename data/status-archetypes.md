@@ -1,11 +1,11 @@
 # État de la traduction (archetypes)
 
- * **changé**: 75
+ * **changé**: 76
  * **aucune**: 7
- * **libre**: 3
+ * **libre**: 2
 
 
-Dernière mise à jour: 2022-01-15 10:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-16 10:40 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -72,6 +72,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[OmEG0nhQgeKnAUsn.htm](archetypes/OmEG0nhQgeKnAUsn.htm)|Magic Warrior|Guerrier magique|changé|
 |[pHTnfVHOzsgfZ9E2.htm](archetypes/pHTnfVHOzsgfZ9E2.htm)|Scout|Éclaireur|changé|
 |[PlPc4w1XG9VOpDgn.htm](archetypes/PlPc4w1XG9VOpDgn.htm)|Pirate|Pirate|changé|
+|[PPmO6FXrl8Otszji.htm](archetypes/PPmO6FXrl8Otszji.htm)|Drow Shootist|Tireur drow|changé|
 |[Q3VydQ6b5Mxm1c41.htm](archetypes/Q3VydQ6b5Mxm1c41.htm)|Edgewatch Detective|Officier d'Edgewatch|changé|
 |[Qsmzm6w1ZNpHX7GD.htm](archetypes/Qsmzm6w1ZNpHX7GD.htm)|Halcyon Speaker|Orateur paisible|changé|
 |[R0ORjHAeQ0auxl2j.htm](archetypes/R0ORjHAeQ0auxl2j.htm)|Vigilante|Justicier|changé|
@@ -106,4 +107,3 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[3jceS1GfWcSQ3tMY.htm](archetypes/3jceS1GfWcSQ3tMY.htm)|Talisman Dabbler|Amateur de talismans|libre|
 |[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|Médecin|libre|
-|[PPmO6FXrl8Otszji.htm](archetypes/PPmO6FXrl8Otszji.htm)|Drow Shootist|Tireur drow|libre|

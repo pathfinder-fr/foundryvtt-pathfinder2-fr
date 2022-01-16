@@ -1,11 +1,11 @@
 # État de la traduction (criticaldeck)
 
- * **libre**: 101
- * **changé**: 3
+ * **libre**: 99
+ * **changé**: 5
  * **aucune**: 4
 
 
-Dernière mise à jour: 2022-01-15 10:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-16 10:40 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -22,6 +22,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[0tG5q8JkCaG1EY5s.htm](criticaldeck/0tG5q8JkCaG1EY5s.htm)|Critical Fumble Deck #1|Carte d’échec critique #01|changé|
+|[DpY6k60UrpvKgjx2.htm](criticaldeck/DpY6k60UrpvKgjx2.htm)|Critical Fumble Deck #4|Carte d’échecs critiques #04|changé|
+|[EP333dUdoJ8xdkzq.htm](criticaldeck/EP333dUdoJ8xdkzq.htm)|Critical Fumble Deck #5|Carte d’échecs critiques #05|changé|
 |[gdYlgrtfGK8mAoXK.htm](criticaldeck/gdYlgrtfGK8mAoXK.htm)|Critical Hit Deck #9|Carte de réussite critique #09|changé|
 |[I5omhoK6rqfCZiUZ.htm](criticaldeck/I5omhoK6rqfCZiUZ.htm)|Critical Fumble Deck #21|Carte d’échec critique #21|changé|
 
@@ -53,12 +55,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dCiYhvB488kKvpO0.htm](criticaldeck/dCiYhvB488kKvpO0.htm)|Critical Hit Deck #36|Carte de réussite critique #36|libre|
 |[DeZIaLR9okv231ek.htm](criticaldeck/DeZIaLR9okv231ek.htm)|Critical Fumble Deck #32|Carte d’échecs critiques #32|libre|
 |[dP4Zy3ILcjWRx6ZO.htm](criticaldeck/dP4Zy3ILcjWRx6ZO.htm)|Critical Hit Deck #45|Carte de réussite critique #45|libre|
-|[DpY6k60UrpvKgjx2.htm](criticaldeck/DpY6k60UrpvKgjx2.htm)|Critical Fumble Deck #4|Carte d’échecs critiques #04|libre|
 |[DYaq4QSRuyhp4DQL.htm](criticaldeck/DYaq4QSRuyhp4DQL.htm)|Critical Hit Deck #51|Carte de réussites critiques #51|libre|
 |[e08YEjoNa60xrAYS.htm](criticaldeck/e08YEjoNa60xrAYS.htm)|Critical Fumble Deck #45|Carte d’échec critique #45|libre|
 |[e9imRGVLbIWYVUXf.htm](criticaldeck/e9imRGVLbIWYVUXf.htm)|Critical Hit Deck #1|Carte de réussite critique #01|libre|
 |[EaNgK8fG3Fur9uzp.htm](criticaldeck/EaNgK8fG3Fur9uzp.htm)|Critical Hit Deck #17|Carte de réussites critiques #17|libre|
-|[EP333dUdoJ8xdkzq.htm](criticaldeck/EP333dUdoJ8xdkzq.htm)|Critical Fumble Deck #5|Carte d’échecs critiques #05|libre|
 |[EpWswZucGxXiLNyP.htm](criticaldeck/EpWswZucGxXiLNyP.htm)|Critical Hit Deck #43|Carte de réussite critique #43|libre|
 |[eVEZLDyvu2tqiYZn.htm](criticaldeck/eVEZLDyvu2tqiYZn.htm)|Critical Hit Deck #28|Carte de réussite critique #28|libre|
 |[f1JjbSLpmPw5McIb.htm](criticaldeck/f1JjbSLpmPw5McIb.htm)|Critical Hit Deck #42|Carte de réussite critique #42|libre|

@@ -1,11 +1,11 @@
 # État de la traduction (ancestries)
 
- * **libre**: 21
- * **changé**: 1
+ * **libre**: 20
+ * **changé**: 2
  * **officielle**: 9
 
 
-Dernière mise à jour: 2022-01-15 10:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-16 10:40 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -13,6 +13,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[6F2fSFC1Eo1JdpY4.htm](ancestries/6F2fSFC1Eo1JdpY4.htm)|Poppet|Poupée|changé|
+|[7oQxL6wgsokD3QXG.htm](ancestries/7oQxL6wgsokD3QXG.htm)|Kobold|Kobold|changé|
 
 ## Liste des traductions complétés
 
@@ -20,7 +21,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[18xDKYPDBLEv2myX.htm](ancestries/18xDKYPDBLEv2myX.htm)|Tengu|Tengu|libre|
 |[4BL5wf1VF9feC2rY.htm](ancestries/4BL5wf1VF9feC2rY.htm)|Kitsune|Kitsune|libre|
-|[7oQxL6wgsokD3QXG.htm](ancestries/7oQxL6wgsokD3QXG.htm)|Kobold|Kobold|libre|
 |[972EkpJOPv9KkQIW.htm](ancestries/972EkpJOPv9KkQIW.htm)|Catfolk|Homme-félin (félide)|libre|
 |[BYj5ZvlXZdpaEgA6.htm](ancestries/BYj5ZvlXZdpaEgA6.htm)|Dwarf|Nain|officielle|
 |[c4secsSNG2AO7I5i.htm](ancestries/c4secsSNG2AO7I5i.htm)|Goloma|Goloma|libre|

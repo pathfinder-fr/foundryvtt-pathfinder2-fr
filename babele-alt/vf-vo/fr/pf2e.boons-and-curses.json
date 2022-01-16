@@ -2,124 +2,9 @@
     "label": "Bénédictions et malédictions",
     "entries": [
         {
-            "id": "Irori - Major Curse",
-            "name": "Irori - Malédiction majeure (Irori - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</p> Irori fait oublier votre existence de toutes les créatures vivantes.</p> \n<p>Cela peut se produire en provoquant l'ire d'Irori, de sorte que votre nom est oblitéré de tous les registres écrits. DAns les deux cas, les mémoires et les écrits se réarrangent eux-mêmes pour vous omettre doucement, plutôt que de laisser des trous évidents.</p>"
-        },
-        {
-            "id": "Torag - Major Boon",
-            "name": "Torag - Bénédiction majeure (Torag - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> En ce qui vous concerne, veiller ou garder un lieu est une sinécure, vous évitant d'être @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} à cause d'un manque de repos tant que vous gardez pendant au moins 6 heures par jour.</p>\n<p>Vous pouvez récupérer vos Points de focalisation (si vous en avez) en montant la garde en plus de toute autre option qui vous serait accessible.</p>\n<p>Lorsque vous êtes sur vos gardes, vous obtenez un bonus de statut de +4 à la Perception pour remarquer les embuscades ou les autres dangers en approche.</p>\n<p>Tant que vous portez un bouclier, vous êtes toujours sur vos gardes durant l'exploration sans avoir besoin de voyager à la moitié de votre vitesse de déplacement et vous pouvez accomplir une autre activité d'exploration en même temps.</p>\n<p>Lorsque vous utilisez un bouclier, sa Solidité augmente de 5.</p>"
-        },
-        {
-            "id": "Asmodeus - Minor Curse",
-            "name": "Asmodéus - Malédiction mineure (Asmodeus - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Les flammes d'Asmodéus vous brûlent avec une grande malice. Vous obtenez une faiblesse au feu 5.</p>"
-        },
-        {
-            "id": "Gorum - Moderate Curse",
-            "name": "Gorum - Malédiction modérée (Gorum - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Vous avez perdu la goire de tuer un adversaire de valeur.</p>\n<p>Toutes vos attaques d'armes et à mains nues voient leur dé de dégât diminuer d'un cran et toutes vos attaques sont non létales.</p>"
-        },
-        {
-            "id": "Pharasma - Minor Boon",
-            "name": "Pharasma - Bénédiction mineure (Pharasma - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineur (Utilisation unique)</strong> Vous avez un aperçu passager et prophétique de votre destin.</p>\n<p>Une fois, vous obtenez un bonus de statut de +2 à un unique test ; vous pouvez appliquer ce bonus après que vous avez détermine le résultat et il peut potentiellement changer le degré de réussite.</p>"
-        },
-        {
             "id": "Irori - Major Boon",
             "name": "Irori - Bénédiction majeure (Irori - Major Boon)",
             "description": "<p>Vous pouvez temporairement atteindre une forme supérieure.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.MMCQsh12TPaDdPbV]{Force du colosse} au niveau 8 une fois par jour comme un sort occulte inné. Lorsque vous le faites, votre forme apparaît ordinaire, plutôt que revêtue d'un arsenal puissant.</p>"
-        },
-        {
-            "id": "Calistria - Minor Boon",
-            "name": "Calistria - Bénédiction mineure (Calistria - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Calistria sourit aux duperies les plus risquées.</p>\n<p>Une fois, lorsque vous obtenez un échec à un test pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}, vous obtenez un succès critique à la place. Calistria n'accorde typiquement cette bénédiction que sur un mensonge ayant des conséquences importantes.</p>"
-        },
-        {
-            "id": "Desna - Major Boon",
-            "name": "Desna - Bénédiction majeure (Desna - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Desna vous accorde un nuage dansant de lumière qui forme une paire de merveilleuses ailes de papillon.</p>\n<p>Ces ailes vous accordent une Vitesse de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Vol} de 12 m et émettent une lumière faible avec une portée de 6 m.</p>"
-        },
-        {
-            "id": "Shelyn - Major Boon",
-            "name": "Shélyn - Bénédiction majeure (Shelyn - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Voter beauté intérieure et l'amour vous entoure dans une aura.</p>\n<p>Tant que vous ne portez aucune mauvaise intention, toutes les créatures autres que les démons, les morts-vivants et les créatures dépourvues d'intelligence commence en ayant une attitude amicale envers vous, à moins qu'ils n'aient été de prime abord serviables. Cela ne signifie par qu'ils souhaitent changer leur vie ou leurs plans pour vous et cette bénédiction ne signifie pas qu'ils vont conserver cette attitude si vous essayez de les contrarier. Cet effet ne fonctionne pas contre les divinités et autres créatures de puissance similaire.</p>\n<p>De plus, l'amour que vous partagez avec vos amis les inspire. Vous et vos alliés gagnez un bonus de statut de +3 aux jets de sauvegarde et aux tests de compétence tant que vous pouvez vous voir les uns les autres.</p>"
-        },
-        {
-            "id": "Torag - Moderate Curse",
-            "name": "Torag - Malédiction modérée (Torag - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Vous devez avoir prouvé vos compétences en artisanat lorsque vous utilisez de l'équipement.</p>\n<p>Vous n'obtenez de bonus d'objet que si vous les avez fabriquer vous-mêmes.</p>"
-        },
-        {
-            "id": "Abadar - Minor Boon",
-            "name": "Abadar - Bénédiction mineure (Abadar - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure (Unique utilisation)</strong> Abadar prévient ses favoris contre ceux qui pourrait bénéficier d'un avantage déloyal. Une fois, lorsque quelqu'un obtient une réussite sur un test de Duperie pour vous Mentir malicieusement à vous et vous seul, il obtient un échec critique à la place.</p>\n<p>Abadar choisit typiquement d'accorder cette bénédiction en réponse à un mensonge aux conséquences extrêmes.</p>"
-        },
-        {
-            "id": "Asmodeus - Major Boon",
-            "name": "Asmodéus - Bénédiction majeure (Asmodeus - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Asmodéus vous aide à sécuriser vos affaires et vos contrats.</p>\n<p>Lorsqu'une créature fait un marché ou remplit un contrat avec vous, de son plein gré et sans y être contrainte, elle ne peut volontairement violer ses engagements tant que vous respectez les vôtres. Vous pouvez toujours choisir de violer les vôtres vous-même, mais, si vous le faites, la créature n'est plus contrainte de remplir sa part du marché.</p>"
-        },
-        {
-            "id": "Calistria - Minor Curse",
-            "name": "Calistria - Malédiction mineure (Calistria - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Lorsqu'une nouvelle personne cherche la vengeance contre vous, vous subissez une piqûre douloureuse et êtes affligé par du @Compendium[pf2e.equipment-srd.aBOPYlfHAcXUmhF7]{venin de Guêpe géante} au stade 1.</p>"
-        },
-        {
-            "id": "Calistria - Major Boon",
-            "name": "Calistria - Bénédiction Majeure (Calistria - Major Boon)",
-            "description": "<p><strong>Bénédiction Majeure</strong> Calistria vous guide vers la vengeance.</p>\n<p>Vous connaissez toujours la direction et la distance vers la créature la plus proche qui vous a fait du tort et qui est restée impunie jusqu'à présent.</p>"
-        },
-        {
-            "id": "Zon-Kuthon - Major Curse",
-            "name": "Zon-Kuthon - Malédiction majeure (Zon-Kuthon - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Zon-Kuthon vous vole votre joie de vivre, ne vous laissant que la souffrance.</p>\n<p>Vous perdez ce que vous chérissez le plus depuis longtemps et perdez la capacité à ressentir la joie. Vous ne pouvez bénéficier des effets d'émotion basés sur des effets positifs.</p>\n<p>Si Zon-Kuthon sent que vous êtes prêts à renoncer, à détruire, à vous mutiler ou à torturer ce que vous chérissiez autrefois le plus, il pourrait vous le rendre pour vous permettre de le faire.</p>"
-        },
-        {
-            "id": "Urgathoa - Major Curse",
-            "name": "Urgathoa - Malédiction majeure (Urgathoa - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Urgathoa vous enseigne que les vies inutiles d'esclavage à la mort et la moralité sont destinées à se terminer en tragédies.</p>\n<p>Vous développez une maladie incurable qui vous laisse @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 et incapable de vous déplacer sauf en @Compendium[pf2e.actionspf2e.Tj055UcNm6UEgtCg]{Rampant}. Cette maladie ne progresse jamais au-delà jusqu'à vous tuer, mais elle se transmet à vos amis et à ceux que vous chérissez presque à vue, leur imposant de mourir sous vos yeux avant de se relever comme des morts-vivants venant vous hanter.</p>"
-        },
-        {
-            "id": "Gozreh - Moderate Boon",
-            "name": "Gozreh - Bénédiction modérée (Gozreh - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Vous obtenez le contact de l'océan. Vous pouvez respirer sous l'eau et obtenez une vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Natation} égale à votre vitesse de Déplacement.</p>"
-        },
-        {
-            "id": "Nethys - Major Curse",
-            "name": "Néthys - Malédiction majeure (Nethys - Major Curse)",
-            "description": "<p><strong>Malédiction majeure </strong> Néthys coupe votre lien avec la magie. Vous perdez toutes les capacités d'invcantation et ne pouvez obtenir aucune autre future incantation.</p>"
-        },
-        {
-            "id": "Gorum - Moderate Boon",
-            "name": "Gorum - Bénédiction modérée (Gorum - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Vos coups sont inarrêtables, portant l'élan du frisson de Gorum dans la bataille.</p>\n<p>Les Frappes de votre épée à deux mains obtiennent le trait percutant.</p>"
-        },
-        {
-            "id": "Sarenrae - Major Curse",
-            "name": "Sarenrae - Malédiction majeure (Sarenrae - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Sarenrae restreint votre capacité à nuire aux autres.</p>\n<p>Toutes les attaques que vous effectuez, les sorts que vous lancez et les autres sources de dégâts que vous infligez sont non létaux, sauf contre les démons et les morts-vivants et vous ne pouvez pas les rendre létaux.</p>\n<p>Vous infligez un minimum de dégâts, sauf contre les démons et les morts-vivants.</p>\n<p>Toutes les créatures, à l'exception des démons et des morts-vivants, gagnent un bonus de statut de +4 à leur CA et à leurs jets de sauvegarde contre vos attaques ou autres effets.</p>"
-        },
-        {
-            "id": "Desna - Major Curse",
-            "name": "Desna - Malédiction majeure (Desna - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Les étoiles vous rejettent du fait de vos manières.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 4 et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 lorsque vous êtes exposé à la lumière des étoiles.</p>"
-        },
-        {
-            "id": "Zon-Kuthon - Minor Curse",
-            "name": "Zon-Kuthon - Malédiction mineure (Zon-Kuthon - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Vous êtes entouré de chaines spectrales qui font que vous êtes toujours @Compendium[pf2e.conditionitems.D5mg6Tc7Jzrj6ro7]{Surchargé} et qui ont le même effet qu'une armure avec le trait bruyante.</p>"
-        },
-        {
-            "id": "Sarenrae - Minor Boon",
-            "name": "Sarenrae - Bénédiction mineure (Sarenrae - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Vos mains sont bénies par une flamme chaude lorsqu'elles soignent.</p>\n<p>Une fois, lorsque vous soignez une autre créature, au lieu de la soigner du montant normal, la créature récupère la totalité de ses Points de vie, quel que soit les dégâts qu'elle a subis.</p>\n<p>Sarenrae accorde typiquement cette bénédiction dans des circonstances extrêmement importantes.</p>"
-        },
-        {
-            "id": "Gorum - Minor Curse",
-            "name": "Gorum - Malédiction mineure (Gorum - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Gorum récompense la couardise par la frailty. Toute armure que vous portez et bouclier que vous maniez voient leur bonus d'objet à la CA réduit de 2 (minimum 0) et leur solidité, Points de vie et Seuil de Rupture de moitié.</p>"
         },
         {
             "id": "Pharasma - Moderate Curse",
@@ -127,49 +12,9 @@
             "description": "<p><strong>Malédiction modérée (Quotidien)</strong> le destin se retourne contre vous et révèle de terribles présages. Les divinations telles que <em>@Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augure}</em> que vous lancez ou qui vous impliquent suggèrent toujours malheur. Une fois par jour, lorsque vous faites un test, le MJ peut estimer que le résultat est un 1 naturel.</p>"
         },
         {
-            "id": "Nethys - Minor Curse",
-            "name": "Néthys - Malédiction mineure (Nethys - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Les secrets de la magie sont mentalement harassants. Vous êtes @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 1 de manière permanente.</p>"
-        },
-        {
-            "id": "Urgathoa - Moderate Curse",
-            "name": "Urgathoa - Malédiction Modérée (Urgathoa - Moderate Curse)",
-            "description": "<p><strong>Malédictionm modérée</strong> Urgathoa vous coupe de l'énergie positive sans vous accorder la bénédiction de la mort-vivance. Vous êtes blessé par les effets positifs et ne pouvez récupérer de Points de Vie de ces effets comme si vous étiez un mort-vivant ou une guérison négative et vous êtes en outre toujours normalement blessé par les effets négatifs.</p>"
-        },
-        {
-            "id": "Lamashtu - Minor Boon",
-            "name": "Lamashtu - Bénédiction mineure (Lamashtu - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure</strong> le contact de Lamashtu a fait muter une partie de votre corps.</p>\n<p>Vous obtenez soit une attaque à mains nues qui inflige 1d6 dégâts, soit une attaque qui inflige 1d4 dégâts et possède les traits finesse et agile.</p>\n<p>L'attaque inflige des dégâts contondants, perforants ou tranchants selon la mutation.</p>\n<p>Si l'attaque à mains nues remplace un membre, vous pouvez toujours utiliser le membre pour remplir ses fonctions originelles. Lamashtu choisit la forme et la fonction de votre mutation.</p>"
-        },
-        {
-            "id": "Irori - Minor Boon",
-            "name": "Irori - Bénédiction mineure (Irori - Minor Boon)",
-            "description": "<p>Irori vous accorde une grande connaissance et la sagesse. Une fois, lorsque vous obtenez un échec lors d'un test pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Vous souvenir}, vous obtenez un succès critique à la place. De plus, le test perd le trait secret, de manière à ce que vous sachiez avec certitude que le résultat était un succès critique. Irori accorde typiquement cette bénédiction pour un test de Se souvenir ayant d'importantes conséquences.</p>"
-        },
-        {
-            "id": "Urgathoa - Moderate Boon",
-            "name": "Urgathoa - Bénédiction modérée (Urgathoa - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Urgathoa vous bénit comme un de ses enfants. Vous obtenez @Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]{soins négatifs}.</p>"
-        },
-        {
-            "id": "Erastil - Moderate Boon",
-            "name": "Érastil - Bénédiction modérée (Erastil - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> vous partagez l'œil acéré d'Érastil, vous permettant d'utiliser un arc long en toute situation.</p>\n<p>Lorsque vous attaquez avec un arc long, vous pouvez ignorer le trait volée de l'arc long et vous doublez les facteurs de portée des arcs longs.</p>"
-        },
-        {
-            "id": "Gorum - Major Boon",
-            "name": "Gorum - Bénédiction majeure (Gorum - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Gorum vous nourrit du zèle de ses combattants invincibles, vous permetttant de tirer de votre propre vie la force de poursuivre le combat sans tomber.</p>\n<p>Lorsque vous devriez être réduit à 0 Points de Vie, vous êtes à la place soigné de la moitié de votre nombre de Points de Vie maximum et devenez @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 1 (ou votre condition Condamné augmente de 1).</p>"
-        },
-        {
-            "id": "Shelyn - Major Curse",
-            "name": "Shélyn - Malédiction majeure (Shelyn - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong>: Ceux qui répandent la misère par un amour faux, font face à la plus grande malédiction de Shélyn.</p>\n<p>Vous perdez la capacité de distinguer tout être vivant d'un autre, que ce soit par son apparence, sa voix, son odeur ou des moyens sensoriels similaires. Vous pouvez seulement distinguer sa taille physique (donc vous ne confondriez pas une fourmi avec un cheval), mais rien de plus.</p>\n<p>Si vous étiez simplement superficiel, chaque créature que vous voyez possède des traits génériques et fades, mais si vos actes étaient vils, vous ne voyez que les visages de ceux que vous avez lésés.</p>"
-        },
-        {
-            "id": "Asmodeus - Major Curse",
-            "name": "Asmodéus - Malédiction majeure (Asmodeus - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Asmodéus a pris note du chaos que vous avez semé.</p>\n<p>Vous recevez une antique blessure que vous ressentez comme plus ancienne que le temps lui-même. Vous devenez @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 4 de manière permanente et rien de plus faible qu'une autre intercession peut retirer cette condition.</p>\n<p>Votre blessure vous fait souffrir férocement à chaque fois que vous accomplissez un acte particulièrement chaotique, vous rendant alors @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1.</p>"
+            "id": "Norgorber - Minor Boon",
+            "name": "Norgorber - Bénédiction mineure (Norgorber - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Norgorber protège vos secrets et vos mensonges. Une fois, lorsque vous avez obtenu un échec sur un test de Duperie pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}, vous obtenez un succès critique à la place.</p>\n<p>Norgorber choisit typiquement d'accorder cette bénédiction pour protéger un mensonge extrêmement conséquent.</p>"
         },
         {
             "id": "Gozreh - Major Boon",
@@ -177,54 +22,39 @@
             "description": "<p><strong>Bénédiction majeure</strong> Gozreh vous a béni et le vent accompagne vos déplacements. Vous obtenez un bonus destatut de +9 m à vos Vitesses et vous obtenez une Vitesse de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Vol} égale à votre Vitesse au sol.</p>"
         },
         {
-            "id": "Sarenrae - Major Boon",
-            "name": "Sarenrae - Bénédiction majeure (Sarenrae - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Vous êtes une voix de la paix et de la réhabilitation.</p>\n<p>Lorsque vous obtenez un succès sur un test pour @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Solliciter} quelque chose, vous obtenez un succès critique à la place.</p>\n<p>De plus, toutes les cratures autres que les fiélons, les morts-vivants et les créatures dépourvues d'intelligence vous accordent une chance de pprésenter votre cause et de faire des sollicitations avant d'entrer en combat. Si vous ou un allié utilisez le temps de cette sollicitation pour en tirer un avantage dans le combat qui s'ensuit (par exemple, en lançant des sorts préparatoires, en se positionnant pour le combat ou en attendant la fin des sorts préparatoires de votre adversaire), Sarenrae révoque immédiatement cette bénédiction ou maudit éventuellement votre allié.</p>"
+            "id": "Gorum - Moderate Curse",
+            "name": "Gorum - Malédiction modérée (Gorum - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Vous avez perdu la goire de tuer un adversaire de valeur.</p>\n<p>Toutes vos attaques d'armes et à mains nues voient leur dé de dégât diminuer d'un cran et toutes vos attaques sont non létales.</p>"
         },
         {
-            "id": "Sarenrae - Moderate Boon",
-            "name": "Sarenrae - Bénédicition modérée (Sarenrae - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Votre lame brûle ceux qui ne peuvent se repentir.</p>\n<p>Vos attaques infligent 1d8 dégâts de feu supplémentaires qui ignorent la résistance au feu.</p>"
-        },
-        {
-            "id": "Erastil - Minor Curse",
-            "name": "Érastil - Malédiction mineure (Erastil - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Érastil maudit votre table et vous punit de devoir compter sur le dur labeur des autres.</p>\n<p>Toute nourriture que vous n'avez pas fait pousser, n'avez pas collectée ou n'avez pas récoltée à un goû de cendre et vous laisse  @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué}.</p>"
-        },
-        {
-            "id": "Cayden Cailean - Minor Boon",
-            "name": "Cayden Cailean - Bénédiction mineure (Cayden Cailean - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure</strong> Cayden Cailean vous aide à récupérer de vos nuits de bamboche.</p>\n<p>Bien que vous puissiez toujours être ivre et expérimenter les effets de l'alcool normlement, vous n'avez jamais la gueule de bois le lendemain.</p>"
-        },
-        {
-            "id": "Norgorber - Minor Boon",
-            "name": "Norgorber - Bénédiction mineure (Norgorber - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Norgorber protège vos secrets et vos mensonges. Une fois, lorsque vous avez obtenu un échec sur un test de Duperie pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}, vous obtenez un succès critique à la place.</p>\n<p>Norgorber choisit typiquement d'accorder cette bénédiction pour protéger un mensonge extrêmement conséquent.</p>"
-        },
-        {
-            "id": "Zon-Kuthon - Major Boon",
-            "name": "Zon-Kuthon - Bénédiction majeure (Zon-Kuthon - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Les ombres sont plus profondes autour de vous. La @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} et la vision dans le noir supérieure ne peuvent pénétrer l'obscurité dans les 18 m de vous, mais vous pouvez voir à travers normalement.</p>"
-        },
-        {
-            "id": "Calistria - Major Curse",
-            "name": "Calistria - Malédiction majeure (Calistria - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Vous avez fait du tort à ceux qui sont incapables d'obtenir une vengeance pour eux-mêmes et Calistria vous maudit en accordant à leur vengeance une vie propre.</p>\n<p>Lorsqu'une autre créature imagine qu'elle se venge de vous mais qu'elle ne peut la mettre en œuvre car vous êtes trop puissant, que vous avez trop d'influence ou que vous êtes autrement intouchable, une créature qui a approximativement votre niveau se manifeste à partir de leur imagination et accomplit la revanche qu'ils désirent.</p>\n<p>Une fois que la vengeance est accomplie ou que la manifestation est détruite, la créature conjurée disparaît.</p>"
-        },
-        {
-            "id": "Torag - Minor Boon",
-            "name": "Torag - Bénédiction mineure (Torag - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Torag répare votre équipement de manière à ce que vous puissiez continuer votre veille.</p>\n<p>Une fois, un bouclier, une arme ou un autre objet que vous tenez ou que vous portez récupère la totalité de ses Points de vie. La solidité de l'objet double pendant 1 minute.</p>\n<p>Torag peut accorder cette bénédiction juste au moment où l'objet devrit ête détruit, prévenant la destruction de l'objet.</p>\n<p>Occasionellement, il accorde cette bénédiction pour restaurer un objet important de l'histoire naine qui a déjà été complètement détruit.</p>"
-        },
-        {
-            "id": "Iomedae - Major Boon",
-            "name": "Iomédae - Bénédiction majeure (Iomedae - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Iomédae imprègne votre lame d'un grand pouvoir.</p>\n<p>Les épées longues que vous maniez obtiennent les runes @Compendium[pf2e.equipment-srd.6xu6dPIaUZ7edKEB]{Axiomatiques},<em> @Compendium[pf2e.equipment-srd.DH0kB9Wbr5pDeunX]{</em>Sainte<em>}</em> et @Compendium[pf2e.equipment-srd.woxl2FrrgAcJDu0t]{de Frappe majeure} lorsque vous les tenez. Ces runes de propriété compte au regard du nombre de runes que votre arme peut supporter et si cela doit provoquer le fait que votre arme excède sa limite, vous choisissez celles que vous conservez chaque jour durant vos préparatifs.</p>\n<p>Vous obtenez un bonus de statut de +2 aux jets d'attaque avec les épées longues.</p>"
+            "id": "Lamashtu - Major Boon",
+            "name": "Lamashtu - Bénédiction majeure (Lamashtu - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure (Quotidienne)</strong> Lamashtu utilise votre corps pour enfanter un nouveau monstre, quel que soit votre genre.</p>\n<p>Une fois par jour, vous pouvez passer 1 minute pour donner naissance à un monstre déterminé par le MJ, qui sort de lui-même votre ventre. Le niveau du monstre peut aller jusqu'à votre niveau et il se comporte comme il le souhaite, selon le bon vouloir de Lamashtu, bien qu'il ne vous attaque pas, à moins que vous ne perdiez sa faveur. Vous êtes @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 3 du fait de l'épreuve.</p>"
         },
         {
             "id": "Torag - Major Curse",
             "name": "Torag - Malédiction majeure (Torag - Major Curse)",
             "description": "<p><strong>Malédiction majeure</strong> Vous êtes pour toujours banni de votre foyer. Les membres de votre communauté voient leur attitude envers vous se dégrader de deux degrés, signifiant que ceux qui étaient serviables vous sont désormais indifférent, ceux qui vous étaient amicaux sont inamicaux et que tous les autres vous sont désormais hostiles. Cela ne se résoud pas forcément sous la forme de violence, mais une communauté de membres hostiles cherchent à vous exiler de manière permanente.</p>"
+        },
+        {
+            "id": "Sarenrae - Minor Curse",
+            "name": "Sarenrae - Bénédiction mineure (Sarenrae - Minor Curse)",
+            "description": "<p><strong>Bénédiction mineure</strong> Le soleil vous brûle du fait de votre transgression. Vous recevez un coup de soleil qui vous rend @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 1 de manière permanente.</p>"
+        },
+        {
+            "id": "Asmodeus - Moderate Curse",
+            "name": "Asmodéus - Malédiction modérée (Asmodeus - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée </strong> Asmodéus vous oblige au respect.</p>\n<p>Vous ne pouvez pas rompre volontairement un accord ou un contrat ou revenir sur votre parole, bien que vous puissiez ne suivre que la lettre de l'ccord et non son esprit.</p>"
+        },
+        {
+            "id": "Shelyn - Moderate Curse",
+            "name": "Shélyn - Malédiction modérée (Shelyn - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Les autres reconnaissent incosciemment vos trahisons passées.</p>\n<p>Lorsque vous tentez un test de Diplomatie et obtenez un échec, vous considérez qu'il s'agit d'un échec critque, et si vous obtenez un succès critique, vous obtenez un succès à la place.</p>"
+        },
+        {
+            "id": "Rovagug - Moderate Boon",
+            "name": "Rovagug - Bénédiction modérée (Rovagug - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Vous pouvez tout dévorer. Votre bouche se transforme en une mâchoire horrible, circulaire entourée de grandes dents en forme d'aiguilles.</p>\n<p>Vous gagnez une attaque de morsure qui inflige 1d8 dégâts perforants.</p>\n<p>De plus, vous pouvez manger tout ce que vous pouvez mettre dans votre gueule, même des pierres ou de petits objets.</p>\n<p>Vous gagnez un bonus de statut de +4 aux jets de sauvegarde liés à votre consommation, comme les maladies, les poisons ou les autres effets liés à l'objet ingéré. Cela ne vous permet pas de digérer des objets magiques qui seraient autrement difficiles ou impossibles à détruire, tels que des objets maudits ou des artefacts.</p>"
         },
         {
             "id": "Iomedae - Minor Curse",
@@ -237,354 +67,9 @@
             "description": "<p><strong>Malédiction modérée</strong> Abadar maudit vos entreprises, vous conduisant à un désastre financiers car toutes vos affaires semblent toujours échouer.</p>\n<p>Le résultat de votre test pour @Compendium[pf2e.actionspf2e.QyzlsLrqM0EEwd7j]{Gagner de l'argent} est toujours d'un degré de succès inférieur à celui que vous avez lancé.</p>"
         },
         {
-            "id": "Norgorber - Moderate Curse",
-            "name": "Norgorber - Malédiction modérée (Norgorber - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Les poisons sont prompts à vous affaiblir. Lorsque vous obtenez un échec sur un jet de Vigueur contre un poison, vous obtenez un échec critique à la place.</p>"
-        },
-        {
-            "id": "Cayden Cailean - Minor Curse",
-            "name": "Cayden Cailean - Malédiction mineure (Cayden Cailean - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Les individus qui déplaisent à Cayden se réveillent comme s'ils avaient passé une nuit difficile à boire et trouve que leur boisson à un sale goût.</p>"
-        },
-        {
-            "id": "Erastil - Major Boon",
-            "name": "Érastil - Bénédiction majeure (Erastil - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Vous devenez un ami de la terre.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.qvwIwJ9QBihy8R0t]{Communication avec les plantes} comme un sort inné divin.</p>\n<p>Lorsque vous vous trouvez dans un environnement naturel sain, la terre vous permet de subsister sans avoir besoin de vous nourrir ou de boire.</p>\n<p>Vous pouvez lancer le rituel @Compendium[pf2e.spells-srd.l4LFwY7iuzX6sDXr]{Communion avec la Nature} sans incantateur secondaire ou faire de test secondaire.</p>"
-        },
-        {
-            "id": "Urgathoa - Minor Curse",
-            "name": "Urgathoa - Malédiction mineure (Urgathoa - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Vous devez abuser ou participer à des festins interdits avant de vous sentir enfin repus.</p>\n<p>Vous avez besoin de manger 20 fois plus de nourriture que la normal pour éviter la famine, bien que vous vous sentiez toujours affamé quelle que soit la quantité ingurgitée.</p>\n<p>Si vous mangez de la chair et du sang de créatures pensantes, vous n'avez besoin que du montant normal de nourriture et votre faim s'apaise.</p>"
-        },
-        {
-            "id": "Rovagug - Minor Boon",
-            "name": "Rovagug - Bénédiction mineure (Rovagug - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Votre attaque devient plus destructrice. Une fois, une de vos attaques manquée ou réussie devient un coup critique et votre arme ou votre attque à mains nuesobtient le trait Mortel d12 pour cette attaque, remplaçant tout trait mortel qu'elle possèderait déjà.</p>\n<p>Rovagug accorde typiquement cette bénédiction lorsque le coup critique pourrait détruire quelque chose de précieux ou ayant une signification.</p>"
-        },
-        {
-            "id": "Rovagug - Major Curse",
-            "name": "Rovagug - Malédiction majeure (Rovagug - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Vous n'êtes utile que vomme flambeau de la destruction.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confus} de manière permanente, détruisant tout ce qui se trouve dans votre champ de vision et vous infligez 18 dégâts supplémentaires avec vos Frappes d'armes et à mains nues.</p>"
-        },
-        {
-            "id": "Iomedae - Moderate Curse",
-            "name": "Iomédae - Malédiction modérée (Iomedae - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Les avantages tactiques ne semblent jamais fonctionner comme vous les avez planifiés.</p> Vous ne pouvez recevoir un bonus de circonstance à vos jets d'attaque  et vos ennemis ne subissent jamais de pénalités de circonstances à leur CA contre vos attaques.</p>"
-        },
-        {
-            "id": "Norgorber - Moderate Boon",
-            "name": "Norgorber - Bénédiction modérée (Norgorber - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Vos poisons durent longtemps.</p>\n<p>Si votre @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} avec une arme empoisonnée échoue de manière critique ou réussit mais échoue à infliger des dégâts perforants ou tranchants, le poison n'est pas dépensé. Le poison est toujours dépensé une fois que vous avez réussi à l'appliquer à une créature.</p>"
-        },
-        {
-            "id": "Abadar - Minor Curse",
-            "name": "Abadar - Malédiction mineure (Abadar - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Chaque fois que vous volez, blessez illégalement ou tuez une autre créature ou corrompez les forces de l'ordre ou un tribunal, un symbole ou un mot décrivant votre crime apparaît sur un point visible de votre peau. Ce symbole ne peut être retiré ou caché avec du maquillage (bien qu'il puisse être recouvert parr un vêtement) et il ne part pas tant que vous n'avez pas rendu compte légalement de votre crime, comme en effectuant votre sentence.</p>"
-        },
-        {
-            "id": "Calistria - Moderate Boon",
-            "name": "Calistria - Bénédiction modérée (Calistria - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Une guèpe de 30 cm de long vous trouve et vous adopte. Elle vous sert de familier tant que vous restez dans les petits papiers de Calistria. La guêpe possède toujours les capacités de familier fouisseur et volant.</p>"
-        },
-        {
-            "id": "Zon-Kuthon - Minor Boon",
-            "name": "Zon-Kuthon - Bénédiction mineure (Zon-Kuthon - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Le Seigneur de Minuit transforme votre sang et votre douleur en des chaines d'obsucrité de minuit pour détruire vos adversaires.</p>\n<p>Une fois, pendant 1 minute, lorsque vous subissez des dégâts perforants, tranchants ou des dégâts de saignement, des chains s'écoulent de votre corps, affectant les créatures dans une ligne partant de votre position dans la direction de l'attaque (ou dans la direction de votre choix pour les dégâts de saignement ou si vous vous infligez à vous-même les dégâts) avec les effets d'un sort de @Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]{Sinistres volutes} dont le niveau est égal à la moitié de votre niveau arrondi à l'entier supérieur  et dont le DD est votre plus haut DD de sort (ou 10 + votre niveau + votre modificateur de Sagesse si vous n'avez pas de DD de sort).</p>"
-        },
-        {
-            "id": "Zon-Kuthon - Moderate Boon",
-            "name": "Zon Kuthon - Bénédiction modérée (Zon-Kuthon - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée (quotidienne)</strong> Chaque matin, durant vos préparatifs quotidiens, des cicatrices forment des mots dans votre chair.</p>\n<p>Les cicatrices fonctionnent commee un parchemin de sort divin au choix de Zon-Kuthon.</p>\n<p>Après l'utilisation du parchemin ou lorsque vous recevez des soins magiques, la bénédiction s'évanouit pour la journée, bien qu'une partie ou toutes les cicatrices pourraient rester comme un souvenir.</p>"
-        },
-        {
-            "id": "Sarenrae - Moderate Curse",
-            "name": "Sarenrae - Malédiction modérée (Sarenrae - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong>Le sleil brille de sa lumière sur tout ce que vous dites.</p>\n<p>Vous devenez incapable de @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir} et si vous tentez de le faire, à la place, vous êtes incapable de laisser échapper autre chose que la vérité sur le sujet en question. Vous êtes toujours capable de retenir des informations ou de mentir par omission.</p>"
-        },
-        {
-            "id": "Nethys - Major Boon",
-            "name": "Néthys - Bénédiction majeure (Nethys - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Vous vous voyez accorder des connaissances et une maîtrise supérieure.</p>\n<p>Si vous êtes un incantateur préparé, vous pouvez changer un de vos sorts préparés pour un autre sort que vous pourriez préparer dans cet emplacement ; si vous êtes un incantateur spontané, vous pouvez changer un des sorts de votre répertoire de sorts pour un autre sort que vous auriez pu choisir pour votre répertoire à la place.</p>\n<p>dans l'un ou l'autre cas, cet échange prend une action unique qui possède le trait concentration. (Si vous n'êtes ni un incantateur préparé ou spontané, Néthys ne vous accordera pas sa bénédiction majeure.)</p>"
-        },
-        {
-            "id": "Iomedae - Minor Boon",
-            "name": "Iomédae - Bénédiction mineure (Iomedae - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure</strong> Vous vous présentez toujours sur votre 31. Vos habits et votre personne êtes toujours propres et jamais froissé, le métal de votre lame et de votre armure brille et ne ternit pas.</p>\n<p>cela n'empêche pas d'être exposé aux maladies ou autres affections via la fièvre mais cela vous protège autant que si vous vous étiez lavé minutieusement comme il faut.</p>"
-        },
-        {
-            "id": "Shelyn - Moderate Boon",
-            "name": "Shélyn - Bénédiction modérée (Shelyn - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Vous êtes inspiré pour créer de belles œuvres et devenez un virtuose dans tous les arts.</p>\n<p>Vous obtenz le don Artisanat spécialiséet le don @Compendium[pf2e.feats-srd.lFwfUvH2708rl6i3]{Virtuosic Performer} dans toutes les catégories d'Artisanat et de Représentation.</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.feats-srd.XVnpntqV6w94PoOb]{Artisanat spécialisé (Alchimie)}</li>\n<li>@Compendium[pf2e.feats-srd.59FN13nU6agKT4oa]{Artisanat spécialisé (Confection de livres)}</li>\n<li>@Compendium[pf2e.feats-srd.tbIMWrIRI9P9cubM]{Artisanat spécialisé (Construction navale)}</li>\n<li>@Compendium[pf2e.feats-srd.B06QKNvKYqxYGwPU]{Artisanat spécialisé (Couture)}</li>\n<li>@Compendium[pf2e.feats-srd.YvoiGWZhtbHH6NMF]{Artisanat spécialisé (Ébénisterie)}</li>\n<li>@Compendium[pf2e.feats-srd.S8mPrjJjuObotmjZ]{Artisanat spécialisé (Forge)}</li>\n<li>@Compendium[pf2e.feats-srd.WddEyALYHfpeUjZB]{Artisanat spécialisé (Maroquinerie)}</li>\n<li>@Compendium[pf2e.feats-srd.8XC2xJ7Y1xlr6Xor]{Artisanat spécialisé (Poterie)}</li>\n<li>@Compendium[pf2e.feats-srd.22HUfCajd6IkATOR]{Artisanat spécialisé (Sens artistique)}</li>\n<li>@Compendium[pf2e.feats-srd.TWkwy0uQvTGlgEFG]{Artisanat spécialisé (Taille de pierre)}</li>\n<li>@Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{Artisanat spécialisé (Tissage)}</li>\n<li>@Compendium[pf2e.feats-srd.YmzLnj4ojlf9INNP]{Artisanat spécialisé (Verrerie)}</li>\n</ul>"
-        },
-        {
-            "id": "Nethys - Minor Boon",
-            "name": "Néthys - Bénédiction mineure (Nethys - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Néthys lance un puissant sort pour vous aider d'une pichenette.</p>\n<p>Une fois, Néthys lance un sort de 1 niveau supérieur au plus haut niveau de sort que vous pouvez lancer. Si vous ne pouvez pas lancer de sorts, Néthys lance un sort de niveau 1 pour vous aider.</p>"
-        },
-        {
-            "id": "Rovagug - Major Boon",
-            "name": "Rovagug - Bénédiction majeure (Rovagug - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Vous pouvez briser la surface de Golarion, en accélérant la libération de la bête hirsute. Vous obtenez le don de barbare @Compendium[pf2e.feats-srd.FMjihpGLn9eQ14Gw]{Piétinement sismique}.</p>"
-        },
-        {
-            "id": "Asmodeus - Moderate Curse",
-            "name": "Asmodéus - Malédiction modérée (Asmodeus - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée </strong> Asmodéus vous oblige au respect.</p>\n<p>Vous ne pouvez pas rompre volontairement un accord ou un contrat ou revenir sur votre parole, bien que vous puissiez ne suivre que la lettre de l'ccord et non son esprit.</p>"
-        },
-        {
-            "id": "Abadar - Major Curse",
-            "name": "Abadar - Malédiction majeure (Abadar - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Vous devenez presque trop honnête. Vous subissez constamment l'effet d'un échec critique de @Compendium[pf2e.spells-srd.aewxsale5xWEPKLk]{Zone de vérité}. De plus, vous vous voyez toujours offrir la pire proposition lorsque vous faites affaire.</p>"
-        },
-        {
-            "id": "Urgathoa - Minor Boon",
-            "name": "Urgathoa - Bénédiction mineure (Urgathoa - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure</strong> Vous festoyez sur les déchets de lavie et de lamort.</p>\n<p>Vous obtenez les avantages de l'héritage @Compendium[pf2e.ancestryfeatures.gyoN45SVfRZwHMkk]{Gobelin boyaud'fer}, quel que soit votre ascendance. Si vous possédez déjà cet héritage, le bonus de circonstance passe à +4.</p>"
-        },
-        {
-            "id": "Gozreh - Minor Curse",
-            "name": "Gozreh - Malédiction mineure (Gozreh - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Les éclairs commencent à frapper deux fois. Vous obtenz une faiblesse 5 contre l'électricité et n'importe quelle décharge d'électricité magique ou naturelle vous prend toujours pour cible au lieu de frapper les créatures autour de vous.</p>"
-        },
-        {
-            "id": "Shelyn - Minor Boon",
-            "name": "Shélyn - Bénédiction mineure (Shelyn - Minor Boon)",
-            "description": "<p><strong>Bénédicition mineure</strong> Une fois, lorsque vous obtenez un échec à un test de Diplomatie, vous obtenez à la place un succès critique.</p>\n<p>Shélyn n'accorde typiquement cette bénédiction que si le test de Diplomatie va servir à augmenter l'amour ou offre une chance de rédemption.</p>"
-        },
-        {
-            "id": "Gozreh - Moderate Curse",
-            "name": "Gozreh - Malédiction modérée (Gozreh - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Le courant des vagues vous est constamment contraire, vous plaçant dans une situation où vous pouvez vous noyer à chaque fois que vous devez nager.</p>\n<p>Vous perdez toute vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nage} que vous pourriez posséder, à moins que ce ne soit votre seule vitesse de déplacement, auquel cas, vous subissez une pénalité de statut de –6 m  à votre vitesse de natation.</p>\n<p>Lorsque vous lancez un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous utilisez toujours le résultat correspondant à un degré inférieur au résultat que vous avez obtenu.</p>"
-        },
-        {
-            "id": "Erastil - Major Curse",
-            "name": "Érastil - Malédiction majeure (Erastil - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Érastil vous empêche de procréer (ou de vous reproduire ou de vous propager si vous procréez d'une autre manière). Cete malédiction affecte votre bétail, vos animaux de compagnie et vos plantations.</p>"
-        },
-        {
-            "id": "Desna - Moderate Curse",
-            "name": "Desna - Malédiction modérée (Desna - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> La malchance vous poursuit durant vos voyages et nécessite des actes de contrition ou de bienveillance pour rester à distance.</p>\n<p>Vous devez toujours lancer deux fois les dés et prendre le pire résultat lorsque vous tentez un test. C'est un effet de malchance.</p>\n<p>Vous pouvez exprimer vos remords et ignorer cet effet durant [[/br 1d4 #rounds]]{1d4 rounds} en passant une action qui a le trait concentration.</p>\n<p>Si vous accomplissez un acte de compassion véritablement désintéressé, vous ignorez cet effet pendant 1 journée.</p>"
-        },
-        {
-            "id": "Abadar - Major Boon",
-            "name": "Abadar - Bénédiction majeure (Abadar - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure (Quotidien)</strong> Votre langue d'argent est infaillible, vous permettant d'atteindre un compromis même s'il est absolument pas possible. Une fois par jour, vous savez juste quoi offrir pour faire une affaire ou conclure une négociation  et si vous offrez votre contrepartie divinement inspirée, vous pouvez automatiquement recevoir un résultat de 20 + votre modificateur de  Diplomatie à votre test de Diplomatie au lieu de le lancer. Cela n'augmente pas votre degré de succès comme si vous aviez tiré un 20.</p>\n<p>S'il n'y a rien que vous pouvez offrir légitimement pour trouver un accord, vous l'apprenez et vous ne dépensez pas votre utilisation quotidienne de la bénédiction.</p>"
-        },
-        {
-            "id": "Desna - Minor Curse",
-            "name": "Desna - Malédiction mineure (Desna - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Vous semblez toujours vous tromper de chemin ou avez d'étranges mésaventures sur le chemin qui retardent votre voyage.</p>\n<p>Vous (et ainsi tout groupe avec lequel vous voyagez) voyagez à 1/3 de la Vitesse normale d'exploration, avant de prendre en compte la nature du terrain et les autres difficultés qui pourraient encore vous ralentir davantage.</p>"
-        },
-        {
-            "id": "Cayden Cailean - Moderate Boon",
-            "name": "Cayden Cailean - Bénédiction modérée (Cayden Cailean - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Vous partagez un part de bravoure dont Cayden a fait preuve durant son ascension.</p>\n<p>Lorsque vous obtenez un succès à un jet de sauvegarde contre un effet de peur, vous obtenez un succès critique à la place. Si vous possédez la capacité de classe @Compendium[pf2e.classfeatures.GJKJafDGuX4BeAeN]{Bravoure}, lorsquee vous obtenez un échec critique sur un jet de sauvegarde contre un effet de peur, vous obtenez un échec à la place.</p>"
-        },
-        {
-            "id": "Asmodeus - Moderate Boon",
-            "name": "Asmodéus - Bénédiction modérée (Asmodeus - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Vos yeux brillent d'un rouge proche de l'ambre et votre peau prend une teinte écarlate. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} et une résistance au feu 5.</p>"
-        },
-        {
-            "id": "Lamashtu - Moderate Boon",
-            "name": "Lamashtu - Bénédiction modérée (Lamashtu - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée (quotidienne)</strong> Vous répandez les cauchemars de Lamashtu partout où vous allez.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.LiGbewa9pO0yjbsY]{Confusion} une fois par jour comme un sort inné divin.</p>"
-        },
-        {
-            "id": "Zon-Kuthon - Moderate Curse",
-            "name": "Zon-Kuthon - Malédiction modérée (Zon-Kuthon - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Vous partagez la douleur des autres et même des blessures mineures vous prcurent une douleur incroyable.</p>\n<p>À chaque fois que vous voyez (ou sentez) qu'une créature subit des blessures, vous subissez [[/r {1d6}[mental]]]{1d6 dégâts mentaux}.</p>\n<p>Chaque fois que vous subissez des dégâts autrement que par la première partie de cette malédiction, vous prenez [[/r {1d6}[mental]]]{1d6 dégâts mentaux} dus à une douleur accrue et êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1.</p>\n<p>Les dégâts mentaux de cette malédiction ignorent toute résistance aux dégâts mentaux que vous pouvez posséder.</p>"
-        },
-        {
-            "id": "Lamashtu - Major Boon",
-            "name": "Lamashtu - Bénédiction majeure (Lamashtu - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure (Quotidienne)</strong> Lamashtu utilise votre corps pour enfanter un nouveau monstre, quel que soit votre genre.</p>\n<p>Une fois par jour, vous pouvez passer 1 minute pour donner naissance à un monstre déterminé par le MJ, qui sort de lui-même votre ventre. Le niveau du monstre peut aller jusqu'à votre niveau et il se comporte comme il le souhaite, selon le bon vouloir de Lamashtu, bien qu'il ne vous attaque pas, à moins que vous ne perdiez sa faveur. Vous êtes @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 3 du fait de l'épreuve.</p>"
-        },
-        {
-            "id": "Lamashtu - Minor Curse",
-            "name": "Lamashtu - Malédiction mineure (Lamashtu - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> D'horribles visions tourmentent votre esprit, se juxtaposant à la réalité à des moments inopportuns. Vous traitez tout ce qui se trouve autour de vous comme si cela était @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}.</p>"
-        },
-        {
-            "id": "Sarenrae - Minor Curse",
-            "name": "Sarenrae - Bénédiction mineure (Sarenrae - Minor Curse)",
-            "description": "<p><strong>Bénédiction mineure</strong> Le soleil vous brûle du fait de votre transgression. Vous recevez un coup de soleil qui vous rend @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 1 de manière permanente.</p>"
-        },
-        {
-            "id": "Gorum - Major Curse",
-            "name": "Gorum - Malédiction majeure (Gorum - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Vous êtes incapable de faire face aux rigueurs du combat. Au moment où un combat éclate, vous devenez @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1. À la fin de chacun de vos tours, votre condition @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} augmente de 1. Ces conditions se terminent seulement lorsque vous n'êtes plus en combat.</p>"
-        },
-        {
-            "id": "Cayden Cailean - Major Curse",
-            "name": "Cayden Cailean - Malédiction majeure (Cayden Cailean - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Cayden vous maudit en vous faisant souffrir en la présence de buveurs, rendant difficile pour vous de chercher à entrer dans n'importe quelle taverne.</p>\n<p>Lorsque n'importe quelle créature boit de l'alcool à moins de 30 m de vous, vous subissez tous les effets négatifs de l'alcool (mais uniquement l'alcool) à sa place. Cela ne s'applique par si la créatureobtient n'importe quel effet spécial lorsqu'elle boit l'alcool.</p>"
-        },
-        {
-            "id": "Shelyn - Moderate Curse",
-            "name": "Shélyn - Malédiction modérée (Shelyn - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Les autres reconnaissent incosciemment vos trahisons passées.</p>\n<p>Lorsque vous tentez un test de Diplomatie et obtenez un échec, vous considérez qu'il s'agit d'un échec critque, et si vous obtenez un succès critique, vous obtenez un succès à la place.</p>"
-        },
-        {
-            "id": "Lamashtu - Major Curse",
-            "name": "Lamashtu - Malédiction majeure (Lamashtu - Major Curse)",
-            "description": "<p><strong>Major Curse</strong> Vos rêves sont un flot ininterrompu de cauchemars.</p>\n<p>Vous avez besoin de 16 heures de repos pour essayer d'avoir assez de sommeil pour récupérer les ressources lors de vos préparatifs quotidiens qui nécessitent d'ordinaire un repos de 8 heures et même alors, vous devez réussir un test nu contre un DD 15 pour y parvenir et vous êtes toujours fatigé sur un test réussi.</p>"
-        },
-        {
-            "id": "Rovagug - Minor Curse",
-            "name": "Rovagug - Malédiction mineure (Rovagug - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Lorsque vous êtes emprisonné, vous vous débattez et vous secouez au fur et à mesure que votre esprit se remplit de désespoir.</p>\n<p>Chaque fois que vous êtes Entravé ou autrement emprisonné (comme lorsque vous êtes envoyé en prison), vous êtes aussi @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2 et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 2.</p>"
-        },
-        {
-            "id": "Iomedae - Moderate Boon",
-            "name": "Iomédae - Bénédiction modérée (Iomedae - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée (Usage unique)</strong> Voter cœur vat d'une ardeur déterminée.</p>\n<p>Une fois, Iomedae met un terme à tous les effet négatifs qui vous affectent, à moins qu'elles n'émanent d'un artefact, d'une divinité ou du'une source de puissance similaire ; elle restaure aussi tous les Points de vie perdus et remplit vos sorts, vos points de focalisation ainsi que vos autres ressources quotidiennes.</p>"
-        },
-        {
-            "id": "Gozreh - Minor Boon",
-            "name": "Gozreh - Bénédiction mineure (Gozreh - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure</strong> Gozreh accorde son assistance lorsque vous êtes en mer.</p>\n<p>Vous êtes sous les effets constants de <em>@Compendium[pf2e.spells-srd.tXa5vOu5giBNCjdR]{Repérage}</em> et devenez qualifié en Connaissance de la Navigation maritime (ou une autre compétence de Connaissance si vous êtes déjà qualifié en Connaissance de la Navigation maritime).</p>"
-        },
-        {
-            "id": "Pharasma - Minor Curse",
-            "name": "Pharasma - Malédiction mineure (Pharasma - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Des visions horrifiques ou séduisantes de votre jugement dernier vous distraient de la tâche qui vous occupe. Vous subissez une pénalité de statut de -2 aux tests d'initiative.</p>"
-        },
-        {
             "id": "Urgathoa - Major Boon",
             "name": "Urgathoa - Bénédiction majeure (Urgathoa - Major Boon)",
             "description": "<p><strong>Bénédiction majeure</strong> Lorsque vous contractez des maladies contagieuses, vous expérimentez des rêves prémonitoires liés à la fièvre.</p>\n<p>Une fois affligé par une maladie, Vous obtenez les effets de @Compendium[pf2e.spells-srd.qsNeG9KZpODSACMq]{Prémonition} avec vous même comme cible jusqu'à ce que vous ne soyez plus longtemps affligé par la moindre maladie.</p>"
-        },
-        {
-            "id": "Irori - Moderate Curse",
-            "name": "Irori - Malédiction modérée (Irori - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</stong> Irori vous défie de vous adapter à l'adversité en vue de vous perfectionner.</p>\n<p>Vous êtes accablé comme si vous portiez des poids lourds, devenant @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2 et @Compendium[pf2e.conditionitems.D5mg6Tc7Jzrj6ro7]{Surchargé} jusqu'à ce que vous ayiez accompli une tâche ardue au choix d'Irori.</p>"
-        },
-        {
-            "id": "Torag - Moderate Boon",
-            "name": "Torag - Bénédiction modérée (Torag - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Vous êtes considéré comme un membre de la famille par torags et des fidèles.</p>\n<p>Vous obtenez les effets d'un unique don d'ancêtre nain du choix de Torag, même si vous n'êtes pas un nain, tant que vous bénéficiez de la bénédiction de Torag.</p>"
-        },
-        {
-            "id": "Iomedae - Major Curse",
-            "name": "Iomédae - Malédiction majeure (Iomedae - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Toutes les lames rejettent votre cœur corrompu.</p>\n<p>Toute arme que vous maniez devient automatiquement brisée lorsque vous faites une Frappe avec elle. Cette malédiction ne peut briser les artefacts ou armes puissantes similaires.</p>"
-        },
-        {
-            "id": "Asmodeus - Minor Boon",
-            "name": "Asmodéus - Bénédiction mineure (Asmodeus - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Ravi de votre talent pour la manipulation, Asmodéus amplifie vos compétences. Une fois, lorsque vous manquez un test de Diplomatie pour faire une @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Sollicitation} significative ou ayant des conséquences, vous pouvez lancer @Compendium[pf2e.spells-srd.qwlh6aDgi86U3Q7H]{Suggestion} sur la cible de votre @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Sollicitation}, en suggérant la même évolution. C'est un sort divin inné.</p>"
-        },
-        {
-            "id": "Irori - Moderate Boon",
-            "name": "Irori - Bénédiction modérée (Irori - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</p> Votre corps se reconstruit après l'affrontement, en devenant plus fort.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]{Plénitude physique} comme un sort de ki occulte. Si vous n'en aviez pas déjà une, vous obtenez une réserve de focalisation avec 1 Point de focalisation et êtes qualifié avec les attaques de sorts et les DD de sorts occultes.</p>"
-        },
-        {
-            "id": "Erastil - Moderate Curse",
-            "name": "Érastil - Malédiction modérée (Erastil - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Les bêtes d'Érastil ne vous aiment pas. l'attitude des animaux à votre égard est pire d'un degré (amicale au lieu de serviable, indifférente au lieu d'amicale, etc...).</p>"
-        },
-        {
-            "id": "Norgorber - Major Boon",
-            "name": "Norgorber - Bénédiction majeure (Norgorber - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Vous devenez un secret vivant.</p>\n<p>Vous êtes immunisé aux effets de divination et aux tentatives pour altérer magiquement votre mémoire, à moins que vous ne choisissiez d'être affecté ou que ces effets ne viennent d'une divinité, d'un artefact ou d'un source de puissance similaire. Vous n'êtes aussi jamais induit en erreur ou forcé par les moyens ordinaires de révéler un secret que vous souhaiteriez conserver.</p>"
-        },
-        {
-            "id": "Shelyn - Minor Curse",
-            "name": "Shélyn - Malédiction mineure (Shelyn - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Votre cœur bouillonne de remords.</p>\n<p>Chaque jour, vous êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 lorsqu'un de vos méfaits particuliers  rappelle à votre esprit en se répétant à l'infini votre culpabilité.</p>\n<p>Vous ne pouvez ôter cette condition, bien qu'elle vous permette to juste de disposer du temps de manger et boire rapidement lorsque c'est nécessaire. Si vous tentez de vous racheter ou de chercher à mériter une rédemption pour ce méfait, la condition @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} s'évanouit complètement pour cette journée.</p>"
-        },
-        {
-            "id": "Irori - Minor Curse",
-            "name": "Irori - Malédiction mineure (Irori - Minor Curse)",
-            "description": "<p>Irori vous défie de chercher à suivre une autre voie plutôt que de traiter chaque problème comme un clou, juste parce que vous possédez un marteau. Si vous choisissez un test pour lequel vous possédez un bonus supérieur alors qu'une autre méthode serait plus appropriée à la situation, comme utiliser la Duperie pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir} parce que c'est votre plus haut modificateur, même s'il serait mieux d'atteindre un compromis en usant de Diplomatie, vous devez lancer deux fois votre dé et prendre le plus mauvais résultat.</p>"
-        },
-        {
-            "id": "Rovagug - Moderate Boon",
-            "name": "Rovagug - Bénédiction modérée (Rovagug - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Vous pouvez tout dévorer. Votre bouche se transforme en une mâchoire horrible, circulaire entourée de grandes dents en forme d'aiguilles.</p>\n<p>Vous gagnez une attaque de morsure qui inflige 1d8 dégâts perforants.</p>\n<p>De plus, vous pouvez manger tout ce que vous pouvez mettre dans votre gueule, même des pierres ou de petits objets.</p>\n<p>Vous gagnez un bonus de statut de +4 aux jets de sauvegarde liés à votre consommation, comme les maladies, les poisons ou les autres effets liés à l'objet ingéré. Cela ne vous permet pas de digérer des objets magiques qui seraient autrement difficiles ou impossibles à détruire, tels que des objets maudits ou des artefacts.</p>"
-        },
-        {
-            "id": "Desna - Moderate Boon",
-            "name": "Desna - Bénédiction modérée (Desna - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée (Quotidien)</strong> Desna modifie le hasard en votre faveur.</p>\n<p>Une fois par jour, après avoir déterminé le résultat d'un test, vous pouvez le relancer et prendre le nouveau résultat.</p>"
-        },
-        {
-            "id": "Rovagug - Moderate Curse",
-            "name": "Rovagug - Malédiction modérée (Rovagug - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Votre rage destructrice cherche à rester sans limite.</p>\n<p>N'importe quelle armure que vous revêtez devient automatiquement @Compendium[pf2e.conditionitems.6dNUvdb1dhToNDj3]{Brisée}. Les autres objets en votre possession deviennent occasionnellement @Compendium[pf2e.conditionitems.6dNUvdb1dhToNDj3]{Brisés} au fil du temps.</p>"
-        },
-        {
-            "id": "Pharasma - Major Curse",
-            "name": "Pharasma - Malédiction majeure (Pharasma - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Pharasma veut la fin de votre vie et de votre lignée. Vous devenez incapable d'avoir des enfants (ou de procréer autrement, par quelque moyen que ce soit, y compris les capacités de créer des rejetons) et êtes définitivement @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 2.</p>"
-        },
-        {
-            "id": "Calistria - Moderate Curse",
-            "name": "Calistria - Malédiction modérée (Calistria - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Les gens réagissent comme si vous les insultiez, même lorsque vous tenez une conversation normale.</p>\n<p>Lorsque vous essayez de @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression}, le résultat obtenu est d'un cran inférieur au résultat obtenu sur votre jet. Si vous conversez avec quelqu'un pendant une assez longue période de temps mais n'essayez pas de  Faire bonne impression, vous l'insultez toujours et subissez l'effet d'un échec critique pour Faire bonne impression.</p>"
-        },
-        {
-            "id": "Lamashtu - Moderate Curse",
-            "name": "Lamashtu - Malédiction modérée (Lamashtu - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Lamashtu vous marque comme une proie.</p>\n<p>Toute créature qui dispose d'un odorat imprécis ou meilleur peut vous sentir de 100 × la portée habituellede leur odorat et ne peut se sortir de l'impression que vous sentez comme une proie, de sorte qu'elle pourrait vous attaquer même si elle devrait habituellement éviter d'attaquer des créatures de votre ascendance.</p>\n<p>Cette odeur ne les contraint pas à entreprendre cette action par magie et l'odeur d'une proie ne surpasse pas un plus profond lien tel que celui que vous avez avec un compagnon animal.</p>"
-        },
-        {
-            "id": "Cayden Cailean - Moderate Curse",
-            "name": "Cayden Cailean - Malédiction modérée (Cayden Cailean - Moderate Curse)",
-            "description": "<p><strong>Malédiction modérée</strong> Cayden vous a infligé la couardise.</p>\n<p>Lorsque vous obtenez un succès critique à un jet de sauvegarde contre un effet de terreur, vous obtenez un succès à la place et chaquee fois que vous obtenez un échec sur un jet de sauvegarde contre la terreur, vous considérez qu'il s'agit d'un échec critique.</p>"
-        },
-        {
-            "id": "Norgorber - Minor Curse",
-            "name": "Norgorber - Malédiction mineure (Norgorber - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> Norgorber permet aux voleures de tirer de vous le meilleur.</p>\n<p>Chaque fois que vous Gagnez de l'argent, vous considérez que la tâche était de 2 niveaux en dessous du fait de vols ou de perte ou de la malchance.</p>"
-        },
-        {
-            "id": "Pharasma - Moderate Boon",
-            "name": "Pharasma - Bénédiction modérée (Pharasma - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée</strong> Vous obtenez une maîtrise supérieure sur les énergies de la vie et de la mort.</p>\n<p>Vos Frappes infligent 1 dégât positif aux morts-vivants.</p>\n<p>Vos sorts infligent des dégâts positifs aux morts-vivants obtiennent un bonus de statut de +1 aux dégâts par niveau de sort et vos sorts qui soignent les vivants obtiennent un bonus de statut de +1 aux Points de vie récupérés par niveau de sort.</p>"
-        },
-        {
-            "id": "Nethys - Moderate Curse",
-            "name": "Néthys - Malédiction modérée (Nethys - Moderate Curse)",
-            "description": "p><strong>Malédiction modérée</strong> Votre magie se combat elle-même comme les deux moitiés duales de Néthys. Lorsque vous Lancez un sort, faites un test pur contre un DD 11.</p>\n<p>En cas d'échec, si votre sort devait infliger des dégâts, vous lancez à la place un sort bénéfique du même niveau sur les cibles visées et si le sort était bénéfique, vous lancez à la place un sort infligeant des dégâts du même niveau aux cibles visées.</p>\n<p>Si le sort devait bénéficier à certaines cibles et blesser les autres, vous lancez un sort de même niveau qui intervertit ceux qui devaient en bénéficier (par exemple, changer un sort de Guérison qui blesse les morts vivants et guérit les vivants en un sort de Mise à mal qui soigne les morts-vivants et blesse les vivants).</p>\n<p>Vous perdez toujours l'emplacement du sort que vous avez essayé de lancer.</p>"
-        },
-        {
-            "id": "Norgorber - Major Curse",
-            "name": "Norgorber - Malédiction majeure (Norgorber - Major Curse)",
-            "description": "<p><strong>Malédiction majeure (Quotidienne)</strong> Norgorber pille vos souvenirs.</p>\n<p>Une fois, chaque jour, lorsque vous vous réveillez d'un repos, lancez 1d4.</p>\n<p>Sur un 1, vous oubliez pour toujours les évènements du jour précédent.</p>\n<p>Sur un 2, vous faites l'expérience temporaire d'une amnésie rétrograde complète pendant cette journée, incapable de vous rappeler une information de votre passé, incluant qui vous êtes.</p>\n<p>Sur un 3, vous oubliez temporairement un unique sujet important pendant cette journée (Norgorber vise à choisir de manière intentionnelle un souvenir pour causer du désarroi, tel que faire en sorte que vous oubliez votre épouse lors de votre anniversaire).</p>\n<p>Sur un 4, vous vous souvenez temporairement de faux souvenirs d'un unique sujet important pendant cette journée, mêlée sans heurts à vos vrais souvenirs.</p>"
-        },
-        {
-            "id": "Desna - Minor Boon",
-            "name": "Desna - Bénédiction mineure (Desna - Minor Boon)",
-            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> À ceux qui parviennent à destination, Desna fait don d'un profond sommeil.</p>\n<p>Une fois, après votre repos, vous récupérez la totalité de vos points de vie, mettez un terme à toutes les conditions négatives et vous vous libérez de n'importe quelle malédiction ou maladie.</p>"
-        },
-        {
-            "id": "Torag - Minor Curse",
-            "name": "Torag - Malédiction mineure (Torag - Minor Curse)",
-            "description": "<p><strong>Malédiction mineure</strong> L'artisanat de mauvaise qualité finit toujours par se montrer. Lorsqu'un objet que vous utilisez subit des dégâts, il est @Compendium[pf2e.conditionitems.6dNUvdb1dhToNDj3]{Cassé}.</p>"
-        },
-        {
-            "id": "Cayden Cailean - Major Boon",
-            "name": "Cayden Cailean - Bénédiction majeure (Cayden Cailean - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Comme incarnation de la liberté, vous brisez les entraves avec facilité.</p>\n<p>À la fin de chacun de vos tours, vous pouvez mettre un terme à un effet qui vous affecte actuellement et vous rend immobilisé (incluant les effets qu vous rendent immobilisé en vous Saisissant ou en vous Entravant) par une action gratuite.</p>"
-        },
-        {
-            "id": "Nethys - Moderate Boon",
-            "name": "Néthys - Bénédiction modérée (Nethys - Moderate Boon)",
-            "description": "<p><strong>Bénédiction modérée (Usage unique)</strong> Néthys vous donne un aperçu des secrets de la magie.</p>\n<p>Ajoutez un sort d'une autre tradition de magie à votre liste de sorts. Vous devez toujours l'apprendre ou l'ajouter à votre répertoire normalement.</p>"
-        },
-        {
-            "id": "Gozreh - Major Curse",
-            "name": "Gozreh - Malédiction majeure (Gozreh - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Ceux qui ont déplu à Gozreh sont évités par la nature elle-même.</p>\n<p>Tous les animaux et les créatures plantes sages vous sont hostiles et tout compagnon animal ou familier vous abandonne.</p>\n<p>L'attitude des plantes sages envers vous commence avec une attitude de deux crans inférieures à la normale, comme si quelque chose vous concernant leur était répugnant.</p>\n<p>Même si les plantes et les animaux pourraient ne pas vous attaquer sur le champ si ce n'est pas d'ordinaire dans leur nature de le faire lorsqu'ils sont hostiles, les chiens grognent, les chats feulent...</p>"
-        },
-        {
-            "id": "Gorum - Minor Boon",
-            "name": "Gorum - Bénédiction Mineure (Gorum - Minor Boon)",
-            "description": "<p><strong>Bénédiction Mineure</strong> Gorum vous accorde une arme à chaque fois que vous en avez besoin.</p>\n<p>Vous pouvez utiliser une action d'Interaction pour céer une arme de fer non magique de niveau 0 et cela, même si vous n'avez pas d'armes sur vous. Une telle arme ne dure que tant que vous continuez à l’utiliser pour attaquer et elle ne peut pas être vendue, donnée, fondue pour en faire de la ferraille ou autre.</p>"
         },
         {
             "id": "Erastil - Minor Boon",
@@ -592,14 +77,529 @@
             "description": "<p><strong>Bénédiction mineure</strong> Érastil partage sa récompense tant que vous travailler pour l'obtenir.</p>\n<p>Lorsque vous obtnez un échec critique à un test pour @Compendium[pf2e.actionspf2e.49y9Ec4bDii8pcD3]{Subsister} dans la nature, vous obtenez un échec à la place.</p>"
         },
         {
-            "id": "Pharasma - Major Boon",
-            "name": "Pharasma - Bénédiction majeure (Pharasma - Major Boon)",
-            "description": "<p><strong>Bénédiction majeure</strong> Pharasma vous garde en vie pour que vous accomplissiez votre destin.</p>\n<p>Le MJ choisit secrètement un destin que Pharasma sait que vous devez accomplir. Jusqu'à ce que vous l'accomplissiez, chaque fois que vous devriezz mourir, une malchance grave mais non fatale vous tombe dessus à la place.</p>\n<p>Vous devez passer une journée complète à récupérer et ous pouvez faire face à des conséquences permanentes mais vous n'en mourrez pas. Si vous auriez dû mourit ne serait-ce qu'une fois sans cette bénédiction, une fois que vous avez accompli votre destin, vous laissez filer un dernier soupir et mourrez en paix.</p>"
+            "id": "Zon-Kuthon - Moderate Curse",
+            "name": "Zon-Kuthon - Malédiction modérée (Zon-Kuthon - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Vous partagez la douleur des autres et même des blessures mineures vous prcurent une douleur incroyable.</p>\n<p>À chaque fois que vous voyez (ou sentez) qu'une créature subit des blessures, vous subissez [[/r {1d6}[mental]]]{1d6 dégâts mentaux}.</p>\n<p>Chaque fois que vous subissez des dégâts autrement que par la première partie de cette malédiction, vous prenez [[/r {1d6}[mental]]]{1d6 dégâts mentaux} dus à une douleur accrue et êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1.</p>\n<p>Les dégâts mentaux de cette malédiction ignorent toute résistance aux dégâts mentaux que vous pouvez posséder.</p>"
+        },
+        {
+            "id": "Nethys - Major Boon",
+            "name": "Néthys - Bénédiction majeure (Nethys - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Vous vous voyez accorder des connaissances et une maîtrise supérieure.</p>\n<p>Si vous êtes un incantateur préparé, vous pouvez changer un de vos sorts préparés pour un autre sort que vous pourriez préparer dans cet emplacement ; si vous êtes un incantateur spontané, vous pouvez changer un des sorts de votre répertoire de sorts pour un autre sort que vous auriez pu choisir pour votre répertoire à la place.</p>\n<p>dans l'un ou l'autre cas, cet échange prend une action unique qui possède le trait concentration. (Si vous n'êtes ni un incantateur préparé ou spontané, Néthys ne vous accordera pas sa bénédiction majeure.)</p>"
+        },
+        {
+            "id": "Pharasma - Major Curse",
+            "name": "Pharasma - Malédiction majeure (Pharasma - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Pharasma veut la fin de votre vie et de votre lignée. Vous devenez incapable d'avoir des enfants (ou de procréer autrement, par quelque moyen que ce soit, y compris les capacités de créer des rejetons) et êtes définitivement @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 2.</p>"
+        },
+        {
+            "id": "Cayden Cailean - Major Boon",
+            "name": "Cayden Cailean - Bénédiction majeure (Cayden Cailean - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Comme incarnation de la liberté, vous brisez les entraves avec facilité.</p>\n<p>À la fin de chacun de vos tours, vous pouvez mettre un terme à un effet qui vous affecte actuellement et vous rend immobilisé (incluant les effets qu vous rendent immobilisé en vous Saisissant ou en vous Entravant) par une action gratuite.</p>"
+        },
+        {
+            "id": "Calistria - Minor Boon",
+            "name": "Calistria - Bénédiction mineure (Calistria - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Calistria sourit aux duperies les plus risquées.</p>\n<p>Une fois, lorsque vous obtenez un échec à un test pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}, vous obtenez un succès critique à la place. Calistria n'accorde typiquement cette bénédiction que sur un mensonge ayant des conséquences importantes.</p>"
+        },
+        {
+            "id": "Cayden Cailean - Moderate Curse",
+            "name": "Cayden Cailean - Malédiction modérée (Cayden Cailean - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Cayden vous a infligé la couardise.</p>\n<p>Lorsque vous obtenez un succès critique à un jet de sauvegarde contre un effet de terreur, vous obtenez un succès à la place et chaquee fois que vous obtenez un échec sur un jet de sauvegarde contre la terreur, vous considérez qu'il s'agit d'un échec critique.</p>"
+        },
+        {
+            "id": "Erastil - Minor Curse",
+            "name": "Érastil - Malédiction mineure (Erastil - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Érastil maudit votre table et vous punit de devoir compter sur le dur labeur des autres.</p>\n<p>Toute nourriture que vous n'avez pas fait pousser, n'avez pas collectée ou n'avez pas récoltée à un goû de cendre et vous laisse  @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué}.</p>"
+        },
+        {
+            "id": "Nethys - Minor Boon",
+            "name": "Néthys - Bénédiction mineure (Nethys - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Néthys lance un puissant sort pour vous aider d'une pichenette.</p>\n<p>Une fois, Néthys lance un sort de 1 niveau supérieur au plus haut niveau de sort que vous pouvez lancer. Si vous ne pouvez pas lancer de sorts, Néthys lance un sort de niveau 1 pour vous aider.</p>"
+        },
+        {
+            "id": "Sarenrae - Moderate Curse",
+            "name": "Sarenrae - Malédiction modérée (Sarenrae - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong>Le sleil brille de sa lumière sur tout ce que vous dites.</p>\n<p>Vous devenez incapable de @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir} et si vous tentez de le faire, à la place, vous êtes incapable de laisser échapper autre chose que la vérité sur le sujet en question. Vous êtes toujours capable de retenir des informations ou de mentir par omission.</p>"
+        },
+        {
+            "id": "Calistria - Major Boon",
+            "name": "Calistria - Bénédiction Majeure (Calistria - Major Boon)",
+            "description": "<p><strong>Bénédiction Majeure</strong> Calistria vous guide vers la vengeance.</p>\n<p>Vous connaissez toujours la direction et la distance vers la créature la plus proche qui vous a fait du tort et qui est restée impunie jusqu'à présent.</p>"
+        },
+        {
+            "id": "Sarenrae - Moderate Boon",
+            "name": "Sarenrae - Bénédicition modérée (Sarenrae - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Votre lame brûle ceux qui ne peuvent se repentir.</p>\n<p>Vos attaques infligent 1d8 dégâts de feu supplémentaires qui ignorent la résistance au feu.</p>"
+        },
+        {
+            "id": "Asmodeus - Moderate Boon",
+            "name": "Asmodéus - Bénédiction modérée (Asmodeus - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Vos yeux brillent d'un rouge proche de l'ambre et votre peau prend une teinte écarlate. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} et une résistance au feu 5.</p>"
+        },
+        {
+            "id": "Lamashtu - Moderate Curse",
+            "name": "Lamashtu - Malédiction modérée (Lamashtu - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Lamashtu vous marque comme une proie.</p>\n<p>Toute créature qui dispose d'un odorat imprécis ou meilleur peut vous sentir de 100 × la portée habituellede leur odorat et ne peut se sortir de l'impression que vous sentez comme une proie, de sorte qu'elle pourrait vous attaquer même si elle devrait habituellement éviter d'attaquer des créatures de votre ascendance.</p>\n<p>Cette odeur ne les contraint pas à entreprendre cette action par magie et l'odeur d'une proie ne surpasse pas un plus profond lien tel que celui que vous avez avec un compagnon animal.</p>"
+        },
+        {
+            "id": "Lamashtu - Moderate Boon",
+            "name": "Lamashtu - Bénédiction modérée (Lamashtu - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée (quotidienne)</strong> Vous répandez les cauchemars de Lamashtu partout où vous allez.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.LiGbewa9pO0yjbsY]{Confusion} une fois par jour comme un sort inné divin.</p>"
+        },
+        {
+            "id": "Calistria - Moderate Curse",
+            "name": "Calistria - Malédiction modérée (Calistria - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Les gens réagissent comme si vous les insultiez, même lorsque vous tenez une conversation normale.</p>\n<p>Lorsque vous essayez de @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression}, le résultat obtenu est d'un cran inférieur au résultat obtenu sur votre jet. Si vous conversez avec quelqu'un pendant une assez longue période de temps mais n'essayez pas de  Faire bonne impression, vous l'insultez toujours et subissez l'effet d'un échec critique pour Faire bonne impression.</p>"
+        },
+        {
+            "id": "Gozreh - Moderate Boon",
+            "name": "Gozreh - Bénédiction modérée (Gozreh - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Vous obtenez le contact de l'océan. Vous pouvez respirer sous l'eau et obtenez une vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Natation} égale à votre vitesse de Déplacement.</p>"
+        },
+        {
+            "id": "Nethys - Moderate Boon",
+            "name": "Néthys - Bénédiction modérée (Nethys - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée (Usage unique)</strong> Néthys vous donne un aperçu des secrets de la magie.</p>\n<p>Ajoutez un sort d'une autre tradition de magie à votre liste de sorts. Vous devez toujours l'apprendre ou l'ajouter à votre répertoire normalement.</p>"
+        },
+        {
+            "id": "Lamashtu - Major Curse",
+            "name": "Lamashtu - Malédiction majeure (Lamashtu - Major Curse)",
+            "description": "<p><strong>Major Curse</strong> Vos rêves sont un flot ininterrompu de cauchemars.</p>\n<p>Vous avez besoin de 16 heures de repos pour essayer d'avoir assez de sommeil pour récupérer les ressources lors de vos préparatifs quotidiens qui nécessitent d'ordinaire un repos de 8 heures et même alors, vous devez réussir un test nu contre un DD 15 pour y parvenir et vous êtes toujours fatigé sur un test réussi.</p>"
+        },
+        {
+            "id": "Abadar - Major Boon",
+            "name": "Abadar - Bénédiction majeure (Abadar - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure (Quotidien)</strong> Votre langue d'argent est infaillible, vous permettant d'atteindre un compromis même s'il est absolument pas possible. Une fois par jour, vous savez juste quoi offrir pour faire une affaire ou conclure une négociation  et si vous offrez votre contrepartie divinement inspirée, vous pouvez automatiquement recevoir un résultat de 20 + votre modificateur de  Diplomatie à votre test de Diplomatie au lieu de le lancer. Cela n'augmente pas votre degré de succès comme si vous aviez tiré un 20.</p>\n<p>S'il n'y a rien que vous pouvez offrir légitimement pour trouver un accord, vous l'apprenez et vous ne dépensez pas votre utilisation quotidienne de la bénédiction.</p>"
+        },
+        {
+            "id": "Sarenrae - Minor Boon",
+            "name": "Sarenrae - Bénédiction mineure (Sarenrae - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Vos mains sont bénies par une flamme chaude lorsqu'elles soignent.</p>\n<p>Une fois, lorsque vous soignez une autre créature, au lieu de la soigner du montant normal, la créature récupère la totalité de ses Points de vie, quel que soit les dégâts qu'elle a subis.</p>\n<p>Sarenrae accorde typiquement cette bénédiction dans des circonstances extrêmement importantes.</p>"
+        },
+        {
+            "id": "Calistria - Moderate Boon",
+            "name": "Calistria - Bénédiction modérée (Calistria - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Une guèpe de 30 cm de long vous trouve et vous adopte. Elle vous sert de familier tant que vous restez dans les petits papiers de Calistria. La guêpe possède toujours les capacités de familier fouisseur et volant.</p>"
+        },
+        {
+            "id": "Irori - Minor Boon",
+            "name": "Irori - Bénédiction mineure (Irori - Minor Boon)",
+            "description": "<p>Irori vous accorde une grande connaissance et la sagesse. Une fois, lorsque vous obtenez un échec lors d'un test pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Vous souvenir}, vous obtenez un succès critique à la place. De plus, le test perd le trait secret, de manière à ce que vous sachiez avec certitude que le résultat était un succès critique. Irori accorde typiquement cette bénédiction pour un test de Se souvenir ayant d'importantes conséquences.</p>"
+        },
+        {
+            "id": "Norgorber - Minor Curse",
+            "name": "Norgorber - Malédiction mineure (Norgorber - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Norgorber permet aux voleures de tirer de vous le meilleur.</p>\n<p>Chaque fois que vous Gagnez de l'argent, vous considérez que la tâche était de 2 niveaux en dessous du fait de vols ou de perte ou de la malchance.</p>"
+        },
+        {
+            "id": "Iomedae - Moderate Curse",
+            "name": "Iomédae - Malédiction modérée (Iomedae - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Les avantages tactiques ne semblent jamais fonctionner comme vous les avez planifiés.</p> Vous ne pouvez recevoir un bonus de circonstance à vos jets d'attaque  et vos ennemis ne subissent jamais de pénalités de circonstances à leur CA contre vos attaques.</p>"
+        },
+        {
+            "id": "Iomedae - Moderate Boon",
+            "name": "Iomédae - Bénédiction modérée (Iomedae - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée (Usage unique)</strong> Voter cœur vat d'une ardeur déterminée.</p>\n<p>Une fois, Iomedae met un terme à tous les effet négatifs qui vous affectent, à moins qu'elles n'émanent d'un artefact, d'une divinité ou du'une source de puissance similaire ; elle restaure aussi tous les Points de vie perdus et remplit vos sorts, vos points de focalisation ainsi que vos autres ressources quotidiennes.</p>"
+        },
+        {
+            "id": "Erastil - Major Curse",
+            "name": "Érastil - Malédiction majeure (Erastil - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Érastil vous empêche de procréer (ou de vous reproduire ou de vous propager si vous procréez d'une autre manière). Cete malédiction affecte votre bétail, vos animaux de compagnie et vos plantations.</p>"
+        },
+        {
+            "id": "Zon-Kuthon - Major Boon",
+            "name": "Zon-Kuthon - Bénédiction majeure (Zon-Kuthon - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Les ombres sont plus profondes autour de vous. La @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} et la vision dans le noir supérieure ne peuvent pénétrer l'obscurité dans les 18 m de vous, mais vous pouvez voir à travers normalement.</p>"
+        },
+        {
+            "id": "Abadar - Minor Curse",
+            "name": "Abadar - Malédiction mineure (Abadar - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Chaque fois que vous volez, blessez illégalement ou tuez une autre créature ou corrompez les forces de l'ordre ou un tribunal, un symbole ou un mot décrivant votre crime apparaît sur un point visible de votre peau. Ce symbole ne peut être retiré ou caché avec du maquillage (bien qu'il puisse être recouvert parr un vêtement) et il ne part pas tant que vous n'avez pas rendu compte légalement de votre crime, comme en effectuant votre sentence.</p>"
+        },
+        {
+            "id": "Lamashtu - Minor Curse",
+            "name": "Lamashtu - Malédiction mineure (Lamashtu - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> D'horribles visions tourmentent votre esprit, se juxtaposant à la réalité à des moments inopportuns. Vous traitez tout ce qui se trouve autour de vous comme si cela était @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}.</p>"
+        },
+        {
+            "id": "Norgorber - Moderate Boon",
+            "name": "Norgorber - Bénédiction modérée (Norgorber - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Vos poisons durent longtemps.</p>\n<p>Si votre @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} avec une arme empoisonnée échoue de manière critique ou réussit mais échoue à infliger des dégâts perforants ou tranchants, le poison n'est pas dépensé. Le poison est toujours dépensé une fois que vous avez réussi à l'appliquer à une créature.</p>"
+        },
+        {
+            "id": "Urgathoa - Major Curse",
+            "name": "Urgathoa - Malédiction majeure (Urgathoa - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Urgathoa vous enseigne que les vies inutiles d'esclavage à la mort et la moralité sont destinées à se terminer en tragédies.</p>\n<p>Vous développez une maladie incurable qui vous laisse @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 et incapable de vous déplacer sauf en @Compendium[pf2e.actionspf2e.Tj055UcNm6UEgtCg]{Rampant}. Cette maladie ne progresse jamais au-delà jusqu'à vous tuer, mais elle se transmet à vos amis et à ceux que vous chérissez presque à vue, leur imposant de mourir sous vos yeux avant de se relever comme des morts-vivants venant vous hanter.</p>"
+        },
+        {
+            "id": "Rovagug - Major Curse",
+            "name": "Rovagug - Malédiction majeure (Rovagug - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Vous n'êtes utile que vomme flambeau de la destruction.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confus} de manière permanente, détruisant tout ce qui se trouve dans votre champ de vision et vous infligez 18 dégâts supplémentaires avec vos Frappes d'armes et à mains nues.</p>"
+        },
+        {
+            "id": "Torag - Moderate Boon",
+            "name": "Torag - Bénédiction modérée (Torag - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Vous êtes considéré comme un membre de la famille par torags et des fidèles.</p>\n<p>Vous obtenez les effets d'un unique don d'ancêtre nain du choix de Torag, même si vous n'êtes pas un nain, tant que vous bénéficiez de la bénédiction de Torag.</p>"
+        },
+        {
+            "id": "Pharasma - Minor Boon",
+            "name": "Pharasma - Bénédiction mineure (Pharasma - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineur (Utilisation unique)</strong> Vous avez un aperçu passager et prophétique de votre destin.</p>\n<p>Une fois, vous obtenez un bonus de statut de +2 à un unique test ; vous pouvez appliquer ce bonus après que vous avez détermine le résultat et il peut potentiellement changer le degré de réussite.</p>"
+        },
+        {
+            "id": "Zon-Kuthon - Minor Curse",
+            "name": "Zon-Kuthon - Malédiction mineure (Zon-Kuthon - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Vous êtes entouré de chaines spectrales qui font que vous êtes toujours @Compendium[pf2e.conditionitems.D5mg6Tc7Jzrj6ro7]{Surchargé} et qui ont le même effet qu'une armure avec le trait bruyante.</p>"
+        },
+        {
+            "id": "Erastil - Moderate Curse",
+            "name": "Érastil - Malédiction modérée (Erastil - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Les bêtes d'Érastil ne vous aiment pas. l'attitude des animaux à votre égard est pire d'un degré (amicale au lieu de serviable, indifférente au lieu d'amicale, etc...).</p>"
+        },
+        {
+            "id": "Pharasma - Moderate Boon",
+            "name": "Pharasma - Bénédiction modérée (Pharasma - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Vous obtenez une maîtrise supérieure sur les énergies de la vie et de la mort.</p>\n<p>Vos Frappes infligent 1 dégât positif aux morts-vivants.</p>\n<p>Vos sorts infligent des dégâts positifs aux morts-vivants obtiennent un bonus de statut de +1 aux dégâts par niveau de sort et vos sorts qui soignent les vivants obtiennent un bonus de statut de +1 aux Points de vie récupérés par niveau de sort.</p>"
+        },
+        {
+            "id": "Torag - Minor Boon",
+            "name": "Torag - Bénédiction mineure (Torag - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Torag répare votre équipement de manière à ce que vous puissiez continuer votre veille.</p>\n<p>Une fois, un bouclier, une arme ou un autre objet que vous tenez ou que vous portez récupère la totalité de ses Points de vie. La solidité de l'objet double pendant 1 minute.</p>\n<p>Torag peut accorder cette bénédiction juste au moment où l'objet devrit ête détruit, prévenant la destruction de l'objet.</p>\n<p>Occasionellement, il accorde cette bénédiction pour restaurer un objet important de l'histoire naine qui a déjà été complètement détruit.</p>"
+        },
+        {
+            "id": "Torag - Minor Curse",
+            "name": "Torag - Malédiction mineure (Torag - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> L'artisanat de mauvaise qualité finit toujours par se montrer. Lorsqu'un objet que vous utilisez subit des dégâts, il est @Compendium[pf2e.conditionitems.6dNUvdb1dhToNDj3]{Cassé}.</p>"
+        },
+        {
+            "id": "Iomedae - Major Curse",
+            "name": "Iomédae - Malédiction majeure (Iomedae - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Toutes les lames rejettent votre cœur corrompu.</p>\n<p>Toute arme que vous maniez devient automatiquement brisée lorsque vous faites une Frappe avec elle. Cette malédiction ne peut briser les artefacts ou armes puissantes similaires.</p>"
+        },
+        {
+            "id": "Gozreh - Major Curse",
+            "name": "Gozreh - Malédiction majeure (Gozreh - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Ceux qui ont déplu à Gozreh sont évités par la nature elle-même.</p>\n<p>Tous les animaux et les créatures plantes sages vous sont hostiles et tout compagnon animal ou familier vous abandonne.</p>\n<p>L'attitude des plantes sages envers vous commence avec une attitude de deux crans inférieures à la normale, comme si quelque chose vous concernant leur était répugnant.</p>\n<p>Même si les plantes et les animaux pourraient ne pas vous attaquer sur le champ si ce n'est pas d'ordinaire dans leur nature de le faire lorsqu'ils sont hostiles, les chiens grognent, les chats feulent...</p>"
+        },
+        {
+            "id": "Pharasma - Minor Curse",
+            "name": "Pharasma - Malédiction mineure (Pharasma - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Des visions horrifiques ou séduisantes de votre jugement dernier vous distraient de la tâche qui vous occupe. Vous subissez une pénalité de statut de -2 aux tests d'initiative.</p>"
+        },
+        {
+            "id": "Urgathoa - Moderate Curse",
+            "name": "Urgathoa - Malédiction Modérée (Urgathoa - Moderate Curse)",
+            "description": "<p><strong>Malédictionm modérée</strong> Urgathoa vous coupe de l'énergie positive sans vous accorder la bénédiction de la mort-vivance. Vous êtes blessé par les effets positifs et ne pouvez récupérer de Points de Vie de ces effets comme si vous étiez un mort-vivant ou une guérison négative et vous êtes en outre toujours normalement blessé par les effets négatifs.</p>"
+        },
+        {
+            "id": "Shelyn - Moderate Boon",
+            "name": "Shélyn - Bénédiction modérée (Shelyn - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Vous êtes inspiré pour créer de belles œuvres et devenez un virtuose dans tous les arts.</p>\n<p>Vous obtenz le don Artisanat spécialiséet le don @Compendium[pf2e.feats-srd.lFwfUvH2708rl6i3]{Virtuosic Performer} dans toutes les catégories d'Artisanat et de Représentation.</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.feats-srd.XVnpntqV6w94PoOb]{Artisanat spécialisé (Alchimie)}</li>\n<li>@Compendium[pf2e.feats-srd.59FN13nU6agKT4oa]{Artisanat spécialisé (Confection de livres)}</li>\n<li>@Compendium[pf2e.feats-srd.tbIMWrIRI9P9cubM]{Artisanat spécialisé (Construction navale)}</li>\n<li>@Compendium[pf2e.feats-srd.B06QKNvKYqxYGwPU]{Artisanat spécialisé (Couture)}</li>\n<li>@Compendium[pf2e.feats-srd.YvoiGWZhtbHH6NMF]{Artisanat spécialisé (Ébénisterie)}</li>\n<li>@Compendium[pf2e.feats-srd.S8mPrjJjuObotmjZ]{Artisanat spécialisé (Forge)}</li>\n<li>@Compendium[pf2e.feats-srd.WddEyALYHfpeUjZB]{Artisanat spécialisé (Maroquinerie)}</li>\n<li>@Compendium[pf2e.feats-srd.8XC2xJ7Y1xlr6Xor]{Artisanat spécialisé (Poterie)}</li>\n<li>@Compendium[pf2e.feats-srd.22HUfCajd6IkATOR]{Artisanat spécialisé (Sens artistique)}</li>\n<li>@Compendium[pf2e.feats-srd.TWkwy0uQvTGlgEFG]{Artisanat spécialisé (Taille de pierre)}</li>\n<li>@Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{Artisanat spécialisé (Tissage)}</li>\n<li>@Compendium[pf2e.feats-srd.YmzLnj4ojlf9INNP]{Artisanat spécialisé (Verrerie)}</li>\n</ul>"
+        },
+        {
+            "id": "Urgathoa - Minor Curse",
+            "name": "Urgathoa - Malédiction mineure (Urgathoa - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Vous devez abuser ou participer à des festins interdits avant de vous sentir enfin repus.</p>\n<p>Vous avez besoin de manger 20 fois plus de nourriture que la normal pour éviter la famine, bien que vous vous sentiez toujours affamé quelle que soit la quantité ingurgitée.</p>\n<p>Si vous mangez de la chair et du sang de créatures pensantes, vous n'avez besoin que du montant normal de nourriture et votre faim s'apaise.</p>"
+        },
+        {
+            "id": "Calistria - Major Curse",
+            "name": "Calistria - Malédiction majeure (Calistria - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Vous avez fait du tort à ceux qui sont incapables d'obtenir une vengeance pour eux-mêmes et Calistria vous maudit en accordant à leur vengeance une vie propre.</p>\n<p>Lorsqu'une autre créature imagine qu'elle se venge de vous mais qu'elle ne peut la mettre en œuvre car vous êtes trop puissant, que vous avez trop d'influence ou que vous êtes autrement intouchable, une créature qui a approximativement votre niveau se manifeste à partir de leur imagination et accomplit la revanche qu'ils désirent.</p>\n<p>Une fois que la vengeance est accomplie ou que la manifestation est détruite, la créature conjurée disparaît.</p>"
+        },
+        {
+            "id": "Urgathoa - Moderate Boon",
+            "name": "Urgathoa - Bénédiction modérée (Urgathoa - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Urgathoa vous bénit comme un de ses enfants. Vous obtenez @Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]{soins négatifs}.</p>"
+        },
+        {
+            "id": "Desna - Minor Boon",
+            "name": "Desna - Bénédiction mineure (Desna - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> À ceux qui parviennent à destination, Desna fait don d'un profond sommeil.</p>\n<p>Une fois, après votre repos, vous récupérez la totalité de vos points de vie, mettez un terme à toutes les conditions négatives et vous vous libérez de n'importe quelle malédiction ou maladie.</p>"
+        },
+        {
+            "id": "Shelyn - Major Curse",
+            "name": "Shélyn - Malédiction majeure (Shelyn - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong>: Ceux qui répandent la misère par un amour faux, font face à la plus grande malédiction de Shélyn.</p>\n<p>Vous perdez la capacité de distinguer tout être vivant d'un autre, que ce soit par son apparence, sa voix, son odeur ou des moyens sensoriels similaires. Vous pouvez seulement distinguer sa taille physique (donc vous ne confondriez pas une fourmi avec un cheval), mais rien de plus.</p>\n<p>Si vous étiez simplement superficiel, chaque créature que vous voyez possède des traits génériques et fades, mais si vos actes étaient vils, vous ne voyez que les visages de ceux que vous avez lésés.</p>"
+        },
+        {
+            "id": "Zon-Kuthon - Major Curse",
+            "name": "Zon-Kuthon - Malédiction majeure (Zon-Kuthon - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Zon-Kuthon vous vole votre joie de vivre, ne vous laissant que la souffrance.</p>\n<p>Vous perdez ce que vous chérissez le plus depuis longtemps et perdez la capacité à ressentir la joie. Vous ne pouvez bénéficier des effets d'émotion basés sur des effets positifs.</p>\n<p>Si Zon-Kuthon sent que vous êtes prêts à renoncer, à détruire, à vous mutiler ou à torturer ce que vous chérissiez autrefois le plus, il pourrait vous le rendre pour vous permettre de le faire.</p>"
+        },
+        {
+            "id": "Nethys - Minor Curse",
+            "name": "Néthys - Malédiction mineure (Nethys - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Les secrets de la magie sont mentalement harassants. Vous êtes @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 1 de manière permanente.</p>"
+        },
+        {
+            "id": "Urgathoa - Minor Boon",
+            "name": "Urgathoa - Bénédiction mineure (Urgathoa - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure</strong> Vous festoyez sur les déchets de lavie et de lamort.</p>\n<p>Vous obtenez les avantages de l'héritage @Compendium[pf2e.ancestryfeatures.gyoN45SVfRZwHMkk]{Gobelin boyaud'fer}, quel que soit votre ascendance. Si vous possédez déjà cet héritage, le bonus de circonstance passe à +4.</p>"
+        },
+        {
+            "id": "Asmodeus - Minor Boon",
+            "name": "Asmodéus - Bénédiction mineure (Asmodeus - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Ravi de votre talent pour la manipulation, Asmodéus amplifie vos compétences. Une fois, lorsque vous manquez un test de Diplomatie pour faire une @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Sollicitation} significative ou ayant des conséquences, vous pouvez lancer @Compendium[pf2e.spells-srd.qwlh6aDgi86U3Q7H]{Suggestion} sur la cible de votre @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Sollicitation}, en suggérant la même évolution. C'est un sort divin inné.</p>"
+        },
+        {
+            "id": "Norgorber - Major Curse",
+            "name": "Norgorber - Malédiction majeure (Norgorber - Major Curse)",
+            "description": "<p><strong>Malédiction majeure (Quotidienne)</strong> Norgorber pille vos souvenirs.</p>\n<p>Une fois, chaque jour, lorsque vous vous réveillez d'un repos, lancez 1d4.</p>\n<p>Sur un 1, vous oubliez pour toujours les évènements du jour précédent.</p>\n<p>Sur un 2, vous faites l'expérience temporaire d'une amnésie rétrograde complète pendant cette journée, incapable de vous rappeler une information de votre passé, incluant qui vous êtes.</p>\n<p>Sur un 3, vous oubliez temporairement un unique sujet important pendant cette journée (Norgorber vise à choisir de manière intentionnelle un souvenir pour causer du désarroi, tel que faire en sorte que vous oubliez votre épouse lors de votre anniversaire).</p>\n<p>Sur un 4, vous vous souvenez temporairement de faux souvenirs d'un unique sujet important pendant cette journée, mêlée sans heurts à vos vrais souvenirs.</p>"
+        },
+        {
+            "id": "Irori - Moderate Boon",
+            "name": "Irori - Bénédiction modérée (Irori - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</p> Votre corps se reconstruit après l'affrontement, en devenant plus fort.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]{Plénitude physique} comme un sort de ki occulte. Si vous n'en aviez pas déjà une, vous obtenez une réserve de focalisation avec 1 Point de focalisation et êtes qualifié avec les attaques de sorts et les DD de sorts occultes.</p>"
+        },
+        {
+            "id": "Iomedae - Minor Boon",
+            "name": "Iomédae - Bénédiction mineure (Iomedae - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure</strong> Vous vous présentez toujours sur votre 31. Vos habits et votre personne êtes toujours propres et jamais froissé, le métal de votre lame et de votre armure brille et ne ternit pas.</p>\n<p>cela n'empêche pas d'être exposé aux maladies ou autres affections via la fièvre mais cela vous protège autant que si vous vous étiez lavé minutieusement comme il faut.</p>"
         },
         {
             "id": "Abadar - Moderate Boon",
             "name": "Abadar - Bénédiction modérée (Abadar - Moderate Boon)",
             "description": "<p><strong>Bénédiction modérée</strong> Abadar bénit toutes vos entreprises, menant au succès financier car toutes vos affaires semblent toujours aboutir.</p>\n<p>Si vous faites un échec critique lors d'un test pour @Compendium[pf2e.actionspf2e.QyzlsLrqM0EEwd7j]{Gagner de l'argent}, vous obtenez un échec à la place.</p>\n<p>Si vous obtenez un succès lors d'un test pour @Compendium[pf2e.actionspf2e.QyzlsLrqM0EEwd7j]{Gagner de l'argent}, alors vous gagnez le double du revenu habituel.</p>"
+        },
+        {
+            "id": "Desna - Moderate Curse",
+            "name": "Desna - Malédiction modérée (Desna - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> La malchance vous poursuit durant vos voyages et nécessite des actes de contrition ou de bienveillance pour rester à distance.</p>\n<p>Vous devez toujours lancer deux fois les dés et prendre le pire résultat lorsque vous tentez un test. C'est un effet de malchance.</p>\n<p>Vous pouvez exprimer vos remords et ignorer cet effet durant [[/br 1d4 #rounds]]{1d4 rounds} en passant une action qui a le trait concentration.</p>\n<p>Si vous accomplissez un acte de compassion véritablement désintéressé, vous ignorez cet effet pendant 1 journée.</p>"
+        },
+        {
+            "id": "Asmodeus - Minor Curse",
+            "name": "Asmodéus - Malédiction mineure (Asmodeus - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Les flammes d'Asmodéus vous brûlent avec une grande malice. Vous obtenez une faiblesse au feu 5.</p>"
+        },
+        {
+            "id": "Norgorber - Major Boon",
+            "name": "Norgorber - Bénédiction majeure (Norgorber - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Vous devenez un secret vivant.</p>\n<p>Vous êtes immunisé aux effets de divination et aux tentatives pour altérer magiquement votre mémoire, à moins que vous ne choisissiez d'être affecté ou que ces effets ne viennent d'une divinité, d'un artefact ou d'un source de puissance similaire. Vous n'êtes aussi jamais induit en erreur ou forcé par les moyens ordinaires de révéler un secret que vous souhaiteriez conserver.</p>"
+        },
+        {
+            "id": "Nethys - Major Curse",
+            "name": "Néthys - Malédiction majeure (Nethys - Major Curse)",
+            "description": "<p><strong>Malédiction majeure </strong> Néthys coupe votre lien avec la magie. Vous perdez toutes les capacités d'invcantation et ne pouvez obtenir aucune autre future incantation.</p>"
+        },
+        {
+            "id": "Sarenrae - Major Boon",
+            "name": "Sarenrae - Bénédiction majeure (Sarenrae - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Vous êtes une voix de la paix et de la réhabilitation.</p>\n<p>Lorsque vous obtenez un succès sur un test pour @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Solliciter} quelque chose, vous obtenez un succès critique à la place.</p>\n<p>De plus, toutes les cratures autres que les fiélons, les morts-vivants et les créatures dépourvues d'intelligence vous accordent une chance de pprésenter votre cause et de faire des sollicitations avant d'entrer en combat. Si vous ou un allié utilisez le temps de cette sollicitation pour en tirer un avantage dans le combat qui s'ensuit (par exemple, en lançant des sorts préparatoires, en se positionnant pour le combat ou en attendant la fin des sorts préparatoires de votre adversaire), Sarenrae révoque immédiatement cette bénédiction ou maudit éventuellement votre allié.</p>"
+        },
+        {
+            "id": "Shelyn - Minor Boon",
+            "name": "Shélyn - Bénédiction mineure (Shelyn - Minor Boon)",
+            "description": "<p><strong>Bénédicition mineure</strong> Une fois, lorsque vous obtenez un échec à un test de Diplomatie, vous obtenez à la place un succès critique.</p>\n<p>Shélyn n'accorde typiquement cette bénédiction que si le test de Diplomatie va servir à augmenter l'amour ou offre une chance de rédemption.</p>"
+        },
+        {
+            "id": "Torag - Moderate Curse",
+            "name": "Torag - Malédiction modérée (Torag - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Vous devez avoir prouvé vos compétences en artisanat lorsque vous utilisez de l'équipement.</p>\n<p>Vous n'obtenez de bonus d'objet que si vous les avez fabriquer vous-mêmes.</p>"
+        },
+        {
+            "id": "Gorum - Major Boon",
+            "name": "Gorum - Bénédiction majeure (Gorum - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Gorum vous nourrit du zèle de ses combattants invincibles, vous permetttant de tirer de votre propre vie la force de poursuivre le combat sans tomber.</p>\n<p>Lorsque vous devriez être réduit à 0 Points de Vie, vous êtes à la place soigné de la moitié de votre nombre de Points de Vie maximum et devenez @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 1 (ou votre condition Condamné augmente de 1).</p>"
+        },
+        {
+            "id": "Cayden Cailean - Minor Boon",
+            "name": "Cayden Cailean - Bénédiction mineure (Cayden Cailean - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure</strong> Cayden Cailean vous aide à récupérer de vos nuits de bamboche.</p>\n<p>Bien que vous puissiez toujours être ivre et expérimenter les effets de l'alcool normlement, vous n'avez jamais la gueule de bois le lendemain.</p>"
+        },
+        {
+            "id": "Rovagug - Minor Boon",
+            "name": "Rovagug - Bénédiction mineure (Rovagug - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Votre attaque devient plus destructrice. Une fois, une de vos attaques manquée ou réussie devient un coup critique et votre arme ou votre attque à mains nuesobtient le trait Mortel d12 pour cette attaque, remplaçant tout trait mortel qu'elle possèderait déjà.</p>\n<p>Rovagug accorde typiquement cette bénédiction lorsque le coup critique pourrait détruire quelque chose de précieux ou ayant une signification.</p>"
+        },
+        {
+            "id": "Shelyn - Minor Curse",
+            "name": "Shélyn - Malédiction mineure (Shelyn - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Votre cœur bouillonne de remords.</p>\n<p>Chaque jour, vous êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 lorsqu'un de vos méfaits particuliers  rappelle à votre esprit en se répétant à l'infini votre culpabilité.</p>\n<p>Vous ne pouvez ôter cette condition, bien qu'elle vous permette to juste de disposer du temps de manger et boire rapidement lorsque c'est nécessaire. Si vous tentez de vous racheter ou de chercher à mériter une rédemption pour ce méfait, la condition @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} s'évanouit complètement pour cette journée.</p>"
+        },
+        {
+            "id": "Iomedae - Major Boon",
+            "name": "Iomédae - Bénédiction majeure (Iomedae - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Iomédae imprègne votre lame d'un grand pouvoir.</p>\n<p>Les épées longues que vous maniez obtiennent les runes @Compendium[pf2e.equipment-srd.6xu6dPIaUZ7edKEB]{Axiomatiques},<em> @Compendium[pf2e.equipment-srd.DH0kB9Wbr5pDeunX]{</em>Sainte<em>}</em> et @Compendium[pf2e.equipment-srd.woxl2FrrgAcJDu0t]{de Frappe majeure} lorsque vous les tenez. Ces runes de propriété compte au regard du nombre de runes que votre arme peut supporter et si cela doit provoquer le fait que votre arme excède sa limite, vous choisissez celles que vous conservez chaque jour durant vos préparatifs.</p>\n<p>Vous obtenez un bonus de statut de +2 aux jets d'attaque avec les épées longues.</p>"
+        },
+        {
+            "id": "Gorum - Moderate Boon",
+            "name": "Gorum - Bénédiction modérée (Gorum - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Vos coups sont inarrêtables, portant l'élan du frisson de Gorum dans la bataille.</p>\n<p>Les Frappes de votre épée à deux mains obtiennent le trait percutant.</p>"
+        },
+        {
+            "id": "Abadar - Minor Boon",
+            "name": "Abadar - Bénédiction mineure (Abadar - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Unique utilisation)</strong> Abadar prévient ses favoris contre ceux qui pourrait bénéficier d'un avantage déloyal. Une fois, lorsque quelqu'un obtient une réussite sur un test de Duperie pour vous Mentir malicieusement à vous et vous seul, il obtient un échec critique à la place.</p>\n<p>Abadar choisit typiquement d'accorder cette bénédiction en réponse à un mensonge aux conséquences extrêmes.</p>"
+        },
+        {
+            "id": "Erastil - Major Boon",
+            "name": "Érastil - Bénédiction majeure (Erastil - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Vous devenez un ami de la terre.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.qvwIwJ9QBihy8R0t]{Communication avec les plantes} comme un sort inné divin.</p>\n<p>Lorsque vous vous trouvez dans un environnement naturel sain, la terre vous permet de subsister sans avoir besoin de vous nourrir ou de boire.</p>\n<p>Vous pouvez lancer le rituel @Compendium[pf2e.spells-srd.l4LFwY7iuzX6sDXr]{Communion avec la Nature} sans incantateur secondaire ou faire de test secondaire.</p>"
+        },
+        {
+            "id": "Nethys - Moderate Curse",
+            "name": "Néthys - Malédiction modérée (Nethys - Moderate Curse)",
+            "description": "p><strong>Malédiction modérée</strong> Votre magie se combat elle-même comme les deux moitiés duales de Néthys. Lorsque vous Lancez un sort, faites un test pur contre un DD 11.</p>\n<p>En cas d'échec, si votre sort devait infliger des dégâts, vous lancez à la place un sort bénéfique du même niveau sur les cibles visées et si le sort était bénéfique, vous lancez à la place un sort infligeant des dégâts du même niveau aux cibles visées.</p>\n<p>Si le sort devait bénéficier à certaines cibles et blesser les autres, vous lancez un sort de même niveau qui intervertit ceux qui devaient en bénéficier (par exemple, changer un sort de Guérison qui blesse les morts vivants et guérit les vivants en un sort de Mise à mal qui soigne les morts-vivants et blesse les vivants).</p>\n<p>Vous perdez toujours l'emplacement du sort que vous avez essayé de lancer.</p>"
+        },
+        {
+            "id": "Torag - Major Boon",
+            "name": "Torag - Bénédiction majeure (Torag - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> En ce qui vous concerne, veiller ou garder un lieu est une sinécure, vous évitant d'être @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} à cause d'un manque de repos tant que vous gardez pendant au moins 6 heures par jour.</p>\n<p>Vous pouvez récupérer vos Points de focalisation (si vous en avez) en montant la garde en plus de toute autre option qui vous serait accessible.</p>\n<p>Lorsque vous êtes sur vos gardes, vous obtenez un bonus de statut de +4 à la Perception pour remarquer les embuscades ou les autres dangers en approche.</p>\n<p>Tant que vous portez un bouclier, vous êtes toujours sur vos gardes durant l'exploration sans avoir besoin de voyager à la moitié de votre vitesse de déplacement et vous pouvez accomplir une autre activité d'exploration en même temps.</p>\n<p>Lorsque vous utilisez un bouclier, sa Solidité augmente de 5.</p>"
+        },
+        {
+            "id": "Gorum - Major Curse",
+            "name": "Gorum - Malédiction majeure (Gorum - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Vous êtes incapable de faire face aux rigueurs du combat. Au moment où un combat éclate, vous devenez @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1. À la fin de chacun de vos tours, votre condition @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} augmente de 1. Ces conditions se terminent seulement lorsque vous n'êtes plus en combat.</p>"
+        },
+        {
+            "id": "Sarenrae - Major Curse",
+            "name": "Sarenrae - Malédiction majeure (Sarenrae - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Sarenrae restreint votre capacité à nuire aux autres.</p>\n<p>Toutes les attaques que vous effectuez, les sorts que vous lancez et les autres sources de dégâts que vous infligez sont non létaux, sauf contre les démons et les morts-vivants et vous ne pouvez pas les rendre létaux.</p>\n<p>Vous infligez un minimum de dégâts, sauf contre les démons et les morts-vivants.</p>\n<p>Toutes les créatures, à l'exception des démons et des morts-vivants, gagnent un bonus de statut de +4 à leur CA et à leurs jets de sauvegarde contre vos attaques ou autres effets.</p>"
+        },
+        {
+            "id": "Desna - Major Curse",
+            "name": "Desna - Malédiction majeure (Desna - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Les étoiles vous rejettent du fait de vos manières.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 4 et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 lorsque vous êtes exposé à la lumière des étoiles.</p>"
+        },
+        {
+            "id": "Abadar - Major Curse",
+            "name": "Abadar - Malédiction majeure (Abadar - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Vous devenez presque trop honnête. Vous subissez constamment l'effet d'un échec critique de @Compendium[pf2e.spells-srd.aewxsale5xWEPKLk]{Zone de vérité}. De plus, vous vous voyez toujours offrir la pire proposition lorsque vous faites affaire.</p>"
+        },
+        {
+            "id": "Lamashtu - Minor Boon",
+            "name": "Lamashtu - Bénédiction mineure (Lamashtu - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure</strong> le contact de Lamashtu a fait muter une partie de votre corps.</p>\n<p>Vous obtenez soit une attaque à mains nues qui inflige 1d6 dégâts, soit une attaque qui inflige 1d4 dégâts et possède les traits finesse et agile.</p>\n<p>L'attaque inflige des dégâts contondants, perforants ou tranchants selon la mutation.</p>\n<p>Si l'attaque à mains nues remplace un membre, vous pouvez toujours utiliser le membre pour remplir ses fonctions originelles. Lamashtu choisit la forme et la fonction de votre mutation.</p>"
+        },
+        {
+            "id": "Desna - Moderate Boon",
+            "name": "Desna - Bénédiction modérée (Desna - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée (Quotidien)</strong> Desna modifie le hasard en votre faveur.</p>\n<p>Une fois par jour, après avoir déterminé le résultat d'un test, vous pouvez le relancer et prendre le nouveau résultat.</p>"
+        },
+        {
+            "id": "Shelyn - Major Boon",
+            "name": "Shélyn - Bénédiction majeure (Shelyn - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Voter beauté intérieure et l'amour vous entoure dans une aura.</p>\n<p>Tant que vous ne portez aucune mauvaise intention, toutes les créatures autres que les démons, les morts-vivants et les créatures dépourvues d'intelligence commence en ayant une attitude amicale envers vous, à moins qu'ils n'aient été de prime abord serviables. Cela ne signifie par qu'ils souhaitent changer leur vie ou leurs plans pour vous et cette bénédiction ne signifie pas qu'ils vont conserver cette attitude si vous essayez de les contrarier. Cet effet ne fonctionne pas contre les divinités et autres créatures de puissance similaire.</p>\n<p>De plus, l'amour que vous partagez avec vos amis les inspire. Vous et vos alliés gagnez un bonus de statut de +3 aux jets de sauvegarde et aux tests de compétence tant que vous pouvez vous voir les uns les autres.</p>"
+        },
+        {
+            "id": "Irori - Major Curse",
+            "name": "Irori - Malédiction majeure (Irori - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</p> Irori fait oublier votre existence de toutes les créatures vivantes.</p> \n<p>Cela peut se produire en provoquant l'ire d'Irori, de sorte que votre nom est oblitéré de tous les registres écrits. DAns les deux cas, les mémoires et les écrits se réarrangent eux-mêmes pour vous omettre doucement, plutôt que de laisser des trous évidents.</p>"
+        },
+        {
+            "id": "Cayden Cailean - Moderate Boon",
+            "name": "Cayden Cailean - Bénédiction modérée (Cayden Cailean - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> Vous partagez un part de bravoure dont Cayden a fait preuve durant son ascension.</p>\n<p>Lorsque vous obtenez un succès à un jet de sauvegarde contre un effet de peur, vous obtenez un succès critique à la place. Si vous possédez la capacité de classe @Compendium[pf2e.classfeatures.GJKJafDGuX4BeAeN]{Bravoure}, lorsquee vous obtenez un échec critique sur un jet de sauvegarde contre un effet de peur, vous obtenez un échec à la place.</p>"
+        },
+        {
+            "id": "Rovagug - Minor Curse",
+            "name": "Rovagug - Malédiction mineure (Rovagug - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Lorsque vous êtes emprisonné, vous vous débattez et vous secouez au fur et à mesure que votre esprit se remplit de désespoir.</p>\n<p>Chaque fois que vous êtes Entravé ou autrement emprisonné (comme lorsque vous êtes envoyé en prison), vous êtes aussi @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2 et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 2.</p>"
+        },
+        {
+            "id": "Gorum - Minor Boon",
+            "name": "Gorum - Bénédiction Mineure (Gorum - Minor Boon)",
+            "description": "<p><strong>Bénédiction Mineure</strong> Gorum vous accorde une arme à chaque fois que vous en avez besoin.</p>\n<p>Vous pouvez utiliser une action d'Interaction pour céer une arme de fer non magique de niveau 0 et cela, même si vous n'avez pas d'armes sur vous. Une telle arme ne dure que tant que vous continuez à l’utiliser pour attaquer et elle ne peut pas être vendue, donnée, fondue pour en faire de la ferraille ou autre.</p>"
+        },
+        {
+            "id": "Asmodeus - Major Curse",
+            "name": "Asmodéus - Malédiction majeure (Asmodeus - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Asmodéus a pris note du chaos que vous avez semé.</p>\n<p>Vous recevez une antique blessure que vous ressentez comme plus ancienne que le temps lui-même. Vous devenez @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 4 de manière permanente et rien de plus faible qu'une autre intercession peut retirer cette condition.</p>\n<p>Votre blessure vous fait souffrir férocement à chaque fois que vous accomplissez un acte particulièrement chaotique, vous rendant alors @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1.</p>"
+        },
+        {
+            "id": "Rovagug - Moderate Curse",
+            "name": "Rovagug - Malédiction modérée (Rovagug - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Votre rage destructrice cherche à rester sans limite.</p>\n<p>N'importe quelle armure que vous revêtez devient automatiquement @Compendium[pf2e.conditionitems.6dNUvdb1dhToNDj3]{Brisée}. Les autres objets en votre possession deviennent occasionnellement @Compendium[pf2e.conditionitems.6dNUvdb1dhToNDj3]{Brisés} au fil du temps.</p>"
+        },
+        {
+            "id": "Pharasma - Major Boon",
+            "name": "Pharasma - Bénédiction majeure (Pharasma - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Pharasma vous garde en vie pour que vous accomplissiez votre destin.</p>\n<p>Le MJ choisit secrètement un destin que Pharasma sait que vous devez accomplir. Jusqu'à ce que vous l'accomplissiez, chaque fois que vous devriezz mourir, une malchance grave mais non fatale vous tombe dessus à la place.</p>\n<p>Vous devez passer une journée complète à récupérer et ous pouvez faire face à des conséquences permanentes mais vous n'en mourrez pas. Si vous auriez dû mourit ne serait-ce qu'une fois sans cette bénédiction, une fois que vous avez accompli votre destin, vous laissez filer un dernier soupir et mourrez en paix.</p>"
+        },
+        {
+            "id": "Gozreh - Minor Curse",
+            "name": "Gozreh - Malédiction mineure (Gozreh - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Les éclairs commencent à frapper deux fois. Vous obtenz une faiblesse 5 contre l'électricité et n'importe quelle décharge d'électricité magique ou naturelle vous prend toujours pour cible au lieu de frapper les créatures autour de vous.</p>"
+        },
+        {
+            "id": "Desna - Minor Curse",
+            "name": "Desna - Malédiction mineure (Desna - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Vous semblez toujours vous tromper de chemin ou avez d'étranges mésaventures sur le chemin qui retardent votre voyage.</p>\n<p>Vous (et ainsi tout groupe avec lequel vous voyagez) voyagez à 1/3 de la Vitesse normale d'exploration, avant de prendre en compte la nature du terrain et les autres difficultés qui pourraient encore vous ralentir davantage.</p>"
+        },
+        {
+            "id": "Zon-Kuthon - Minor Boon",
+            "name": "Zon-Kuthon - Bénédiction mineure (Zon-Kuthon - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Le Seigneur de Minuit transforme votre sang et votre douleur en des chaines d'obsucrité de minuit pour détruire vos adversaires.</p>\n<p>Une fois, pendant 1 minute, lorsque vous subissez des dégâts perforants, tranchants ou des dégâts de saignement, des chains s'écoulent de votre corps, affectant les créatures dans une ligne partant de votre position dans la direction de l'attaque (ou dans la direction de votre choix pour les dégâts de saignement ou si vous vous infligez à vous-même les dégâts) avec les effets d'un sort de @Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]{Sinistres volutes} dont le niveau est égal à la moitié de votre niveau arrondi à l'entier supérieur  et dont le DD est votre plus haut DD de sort (ou 10 + votre niveau + votre modificateur de Sagesse si vous n'avez pas de DD de sort).</p>"
+        },
+        {
+            "id": "Gozreh - Minor Boon",
+            "name": "Gozreh - Bénédiction mineure (Gozreh - Minor Boon)",
+            "description": "<p><strong>Bénédiction mineure</strong> Gozreh accorde son assistance lorsque vous êtes en mer.</p>\n<p>Vous êtes sous les effets constants de <em>@Compendium[pf2e.spells-srd.tXa5vOu5giBNCjdR]{Repérage}</em> et devenez qualifié en Connaissance de la Navigation maritime (ou une autre compétence de Connaissance si vous êtes déjà qualifié en Connaissance de la Navigation maritime).</p>"
+        },
+        {
+            "id": "Desna - Major Boon",
+            "name": "Desna - Bénédiction majeure (Desna - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Desna vous accorde un nuage dansant de lumière qui forme une paire de merveilleuses ailes de papillon.</p>\n<p>Ces ailes vous accordent une Vitesse de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Vol} de 12 m et émettent une lumière faible avec une portée de 6 m.</p>"
+        },
+        {
+            "id": "Cayden Cailean - Major Curse",
+            "name": "Cayden Cailean - Malédiction majeure (Cayden Cailean - Major Curse)",
+            "description": "<p><strong>Malédiction majeure</strong> Cayden vous maudit en vous faisant souffrir en la présence de buveurs, rendant difficile pour vous de chercher à entrer dans n'importe quelle taverne.</p>\n<p>Lorsque n'importe quelle créature boit de l'alcool à moins de 30 m de vous, vous subissez tous les effets négatifs de l'alcool (mais uniquement l'alcool) à sa place. Cela ne s'applique par si la créatureobtient n'importe quel effet spécial lorsqu'elle boit l'alcool.</p>"
+        },
+        {
+            "id": "Irori - Moderate Curse",
+            "name": "Irori - Malédiction modérée (Irori - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</stong> Irori vous défie de vous adapter à l'adversité en vue de vous perfectionner.</p>\n<p>Vous êtes accablé comme si vous portiez des poids lourds, devenant @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2 et @Compendium[pf2e.conditionitems.D5mg6Tc7Jzrj6ro7]{Surchargé} jusqu'à ce que vous ayiez accompli une tâche ardue au choix d'Irori.</p>"
+        },
+        {
+            "id": "Rovagug - Major Boon",
+            "name": "Rovagug - Bénédiction majeure (Rovagug - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Vous pouvez briser la surface de Golarion, en accélérant la libération de la bête hirsute. Vous obtenez le don de barbare @Compendium[pf2e.feats-srd.FMjihpGLn9eQ14Gw]{Piétinement sismique}.</p>"
+        },
+        {
+            "id": "Gorum - Minor Curse",
+            "name": "Gorum - Malédiction mineure (Gorum - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Gorum récompense la couardise par la frailty. Toute armure que vous portez et bouclier que vous maniez voient leur bonus d'objet à la CA réduit de 2 (minimum 0) et leur solidité, Points de vie et Seuil de Rupture de moitié.</p>"
+        },
+        {
+            "id": "Calistria - Minor Curse",
+            "name": "Calistria - Malédiction mineure (Calistria - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Lorsqu'une nouvelle personne cherche la vengeance contre vous, vous subissez une piqûre douloureuse et êtes affligé par du @Compendium[pf2e.equipment-srd.aBOPYlfHAcXUmhF7]{venin de Guêpe géante} au stade 1.</p>"
+        },
+        {
+            "id": "Gozreh - Moderate Curse",
+            "name": "Gozreh - Malédiction modérée (Gozreh - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Le courant des vagues vous est constamment contraire, vous plaçant dans une situation où vous pouvez vous noyer à chaque fois que vous devez nager.</p>\n<p>Vous perdez toute vitesse de @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nage} que vous pourriez posséder, à moins que ce ne soit votre seule vitesse de déplacement, auquel cas, vous subissez une pénalité de statut de –6 m  à votre vitesse de natation.</p>\n<p>Lorsque vous lancez un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous utilisez toujours le résultat correspondant à un degré inférieur au résultat que vous avez obtenu.</p>"
+        },
+        {
+            "id": "Erastil - Moderate Boon",
+            "name": "Érastil - Bénédiction modérée (Erastil - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée</strong> vous partagez l'œil acéré d'Érastil, vous permettant d'utiliser un arc long en toute situation.</p>\n<p>Lorsque vous attaquez avec un arc long, vous pouvez ignorer le trait volée de l'arc long et vous doublez les facteurs de portée des arcs longs.</p>"
+        },
+        {
+            "id": "Irori - Minor Curse",
+            "name": "Irori - Malédiction mineure (Irori - Minor Curse)",
+            "description": "<p>Irori vous défie de chercher à suivre une autre voie plutôt que de traiter chaque problème comme un clou, juste parce que vous possédez un marteau. Si vous choisissez un test pour lequel vous possédez un bonus supérieur alors qu'une autre méthode serait plus appropriée à la situation, comme utiliser la Duperie pour @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir} parce que c'est votre plus haut modificateur, même s'il serait mieux d'atteindre un compromis en usant de Diplomatie, vous devez lancer deux fois votre dé et prendre le plus mauvais résultat.</p>"
+        },
+        {
+            "id": "Cayden Cailean - Minor Curse",
+            "name": "Cayden Cailean - Malédiction mineure (Cayden Cailean - Minor Curse)",
+            "description": "<p><strong>Malédiction mineure</strong> Les individus qui déplaisent à Cayden se réveillent comme s'ils avaient passé une nuit difficile à boire et trouve que leur boisson à un sale goût.</p>"
+        },
+        {
+            "id": "Norgorber - Moderate Curse",
+            "name": "Norgorber - Malédiction modérée (Norgorber - Moderate Curse)",
+            "description": "<p><strong>Malédiction modérée</strong> Les poisons sont prompts à vous affaiblir. Lorsque vous obtenez un échec sur un jet de Vigueur contre un poison, vous obtenez un échec critique à la place.</p>"
+        },
+        {
+            "id": "Asmodeus - Major Boon",
+            "name": "Asmodéus - Bénédiction majeure (Asmodeus - Major Boon)",
+            "description": "<p><strong>Bénédiction majeure</strong> Asmodéus vous aide à sécuriser vos affaires et vos contrats.</p>\n<p>Lorsqu'une créature fait un marché ou remplit un contrat avec vous, de son plein gré et sans y être contrainte, elle ne peut volontairement violer ses engagements tant que vous respectez les vôtres. Vous pouvez toujours choisir de violer les vôtres vous-même, mais, si vous le faites, la créature n'est plus contrainte de remplir sa part du marché.</p>"
+        },
+        {
+            "id": "Zon-Kuthon - Moderate Boon",
+            "name": "Zon Kuthon - Bénédiction modérée (Zon-Kuthon - Moderate Boon)",
+            "description": "<p><strong>Bénédiction modérée (quotidienne)</strong> Chaque matin, durant vos préparatifs quotidiens, des cicatrices forment des mots dans votre chair.</p>\n<p>Les cicatrices fonctionnent commee un parchemin de sort divin au choix de Zon-Kuthon.</p>\n<p>Après l'utilisation du parchemin ou lorsque vous recevez des soins magiques, la bénédiction s'évanouit pour la journée, bien qu'une partie ou toutes les cicatrices pourraient rester comme un souvenir.</p>"
         }
     ],
     "mapping": {

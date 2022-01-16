@@ -1,12 +1,20 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
- * **libre**: 12
- * **officielle**: 38
+ * **libre**: 9
+ * **officielle**: 37
+ * **changé**: 2
 
 
-Dernière mise à jour: 2022-01-15 10:19 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-16 10:40 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[etMnv73EIdEZrYYu.htm](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Frightful Presence|Présence terrifiante|changé|
+|[nZMQh4AaBr291TUf.htm](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Buck|Désarçonner|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -23,13 +31,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[baA0nSMhQyFyJIia.htm](bestiary-ability-glossary-srd/baA0nSMhQyFyJIia.htm)|Swarm Mind|Esprit de la nuée|officielle|
 |[BCLvAx4Pz4MLa2pu.htm](bestiary-ability-glossary-srd/BCLvAx4Pz4MLa2pu.htm)|Knockdown|Renversement|officielle|
 |[eQM5hQ1W3d1uen97.htm](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)|Change Shape|Changement de forme|officielle|
-|[etMnv73EIdEZrYYu.htm](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Frightful Presence|Présence terrifiante|officielle|
 |[fFu2sZz4KB01fVRc.htm](bestiary-ability-glossary-srd/fFu2sZz4KB01fVRc.htm)|Low-Light Vision|Vision nocturne|officielle|
 |[fJSNOw4zHGbIm4bZ.htm](bestiary-ability-glossary-srd/fJSNOw4zHGbIm4bZ.htm)|Fast Healing|Guérison accélérée|officielle|
 |[g26YiEIfSHCpLocV.htm](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constrict|Constriction|officielle|
 |[HBrBrUzjfvj2gDXB.htm](bestiary-ability-glossary-srd/HBrBrUzjfvj2gDXB.htm)|Aquatic Ambush|Embuscade aquatique|officielle|
 |[hFtNbo1LKYCoDy2O.htm](bestiary-ability-glossary-srd/hFtNbo1LKYCoDy2O.htm)|Attack of Opportunity|Attaque d'opportunité|officielle|
-|[Hrevxi3glTGgxzY6.htm](bestiary-ability-glossary-srd/Hrevxi3glTGgxzY6.htm)|Goblin Scuttle|Carapate gobeline|libre|
 |[I0HYG0ctCLP5JRsW.htm](bestiary-ability-glossary-srd/I0HYG0ctCLP5JRsW.htm)|Light Blindness|Aveuglé par la lumière|officielle|
 |[i18TlebMzwONyPhI.htm](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Improved Grab|Empoignade/agrippement amélioré|officielle|
 |[IQtb58p4EaeUzTN1.htm](bestiary-ability-glossary-srd/IQtb58p4EaeUzTN1.htm)|Retributive Strike|Frappe punitive|officielle|
@@ -43,7 +49,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[lR9R5Vld8Eu2Dha5.htm](bestiary-ability-glossary-srd/lR9R5Vld8Eu2Dha5.htm)|Regeneration|Régénération|officielle|
 |[m4HQ2o5aPxjXf2kY.htm](bestiary-ability-glossary-srd/m4HQ2o5aPxjXf2kY.htm)|Shield Block|Blocage au bouclier|officielle|
 |[N1kstYbHScxgUQtN.htm](bestiary-ability-glossary-srd/N1kstYbHScxgUQtN.htm)|Ferocity|Férocité|officielle|
-|[nZMQh4AaBr291TUf.htm](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Buck|Désarçonner|libre|
 |[OmV6E3aELvq9CkK1.htm](bestiary-ability-glossary-srd/OmV6E3aELvq9CkK1.htm)|Greater Constrict|Constriction supérieure|officielle|
 |[OvqohW9YuahnFaiX.htm](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Form Up|Se reformer|libre|
 |[qCCLZhnp2HhP3Ex6.htm](bestiary-ability-glossary-srd/qCCLZhnp2HhP3Ex6.htm)|Darkvision|Vision dans le noir|officielle|
@@ -56,7 +61,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[uG0Z8PsyZtsYuvGR.htm](bestiary-ability-glossary-srd/uG0Z8PsyZtsYuvGR.htm)|Catch Rock|Interception de rochers|officielle|
 |[uJSseLa57HZYSMUu.htm](bestiary-ability-glossary-srd/uJSseLa57HZYSMUu.htm)|Swallow Whole|Gober|libre|
 |[UNah0bxXxkcZjxO3.htm](bestiary-ability-glossary-srd/UNah0bxXxkcZjxO3.htm)|Trample|Piétinement|officielle|
-|[UzITQk56510jg5hS.htm](bestiary-ability-glossary-srd/UzITQk56510jg5hS.htm)|Wind Up|Remonter|libre|
 |[v61oEQaDdcRpaZ9X.htm](bestiary-ability-glossary-srd/v61oEQaDdcRpaZ9X.htm)|Aura|Aura|officielle|
 |[VdSMQ6yRZ3YXNXHL.htm](bestiary-ability-glossary-srd/VdSMQ6yRZ3YXNXHL.htm)|Wavesense|Perception des ondes|officielle|
 |[Z025dWgZtawbuRLI.htm](bestiary-ability-glossary-srd/Z025dWgZtawbuRLI.htm)|Disease|Maladie|officielle|

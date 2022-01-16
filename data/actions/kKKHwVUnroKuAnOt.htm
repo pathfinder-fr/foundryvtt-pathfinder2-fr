@@ -1,13 +1,14 @@
 Name: Toxic Skin
 Nom: Peau toxique
-État: libre
+État: changé
+État d'origine: libre
 
 ------ Description (en) ------
 <p><strong>Frequency</strong> once per hour</p>
 <p><strong>Trigger</strong> A creature touches you, such as by Grappling you, successfully hitting you with an unarmed attack, or using a touch-range spell against you.</p>
 <hr />
 <p>You exude a deadly toxin. The triggering creature takes [[/r {1d4}[poison]]]{1d4 poison damage} (basic Fortitude save using your class DC or spell DC, whichever is higher). At 3rd level and every 2 levels thereafter, the damage increases by 1d4.</p>
-<p>[[/r ceil(@details.level.value/2)d4 #poison]]{Levelled} poison damage</p>
+<p>[[/r ceil(@actor.level/2)d4 #poison]]{Levelled} poison damage</p>
 ------ Description (fr) ------
 <p><strong>Fréquence</strong> une fois par heure</p>
 <p><strong>Déclencheur</strong> Une créature vous touche, par exemple en vous Saisissant, en réussissant à vous toucher avec une attaque à mains nues ou en utilisant un sort de contact contre vous.</p>

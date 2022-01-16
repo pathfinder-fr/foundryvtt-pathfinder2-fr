@@ -2,39 +2,9 @@
     "label": "Dangers",
     "entries": [
         {
-            "id": "Shrieker",
-            "name": "Shrieker (Criard)",
-            "description": "<p>Ce champignon violet de taille humaine émet un cri perçant quand il est dérangé.</p>"
-        },
-        {
-            "id": "Drowning Pit",
-            "name": "Drowning Pit (Fosse de noyade)",
-            "description": "<p>Une trappe recouvre une fosse de 3 m de côté, 9 m de profondeur et 1,50 m d’eau au fond. Quatre arrivées d’eau dans les murs sont reliées à des réservoirs d’eau dissimulés. Chaque arrivée d’eau est située sur un mur différent, à 15 cm en dessous du sommet de la fosse.</p>"
-        },
-        {
-            "id": "Yellow Mold",
-            "name": "Yellow Mold (Moisissure jaune)",
-            "description": "<p>Les spores de la moisissure empoisonnent les créatures à proximité.</p>",
-            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-label=\"DD pour enlever la moisissure\" data-pf2-dc=\"26\" data-pf2-show-dc=\"gm\">Survie</span> (Expert) DD 26 pour enlever la moisissure sans déclencher le nuage de spores.</p>"
-        },
-        {
-            "id": "Snowfall",
-            "name": "Snowfall (Chute de neige)",
-            "description": "<p>De la neige et de la glace se sont entassées sur une surface élevée telle que la branche d'un arbre ou d'une toiture. L'adhérence à cette surface est ténue et risque de tomber lorsque celle-ci est ébranlée.</p>"
-        },
-        {
-            "id": "Scythe Blades",
-            "name": "Scythe Blades (Lames de faux)",
-            "description": "<p>Deux lames, chacune cachée dans une rainure de 4,50 mètres de long au plafond, sont reliées à un fil de détente.</p>",
-            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD de désactivation des lames\" data-pf2-dc=\"21\" data-pf2-show-dc=\"gm\">Vol</span> (Qualifié) DD 21 pour désamorcer chaque lame.</p>",
-            "reset": "<p>Le piège se reinitialise au bout de 15 minutes</p>"
-        },
-        {
-            "id": "Gravehall Trap",
-            "name": "Gravehall Trap (Piège de la salle des tombes)",
-            "description": "<p>Lorsqu'une créature vivante traverse le milieu du tunnel piégé, la magie nécromantique anime partiellement les cadavres enfouis dans les murs et le plafond.</p>",
-            "disable": "<p>Vol DD 24 (Expert) pour perturber le déclencheur magique avant que le piège ne fasse son jet d'initiative, ou Religion DD 18 (Qualifié) pour surchager la zone d'énergie positive et empêcher le piège d'utiliser sa routine pendant 1 round ; sur le troisième jet de religion réussi, les énergies nécromantiques sont perturbées et le piège est détruit.</p>",
-            "routine": "<p><span class=\"pf2-icon\">1</span> Les morts-vivants attaquent toute les créatures dans la salle infligeant [[/r 4d6 #contondants]]{4d6 dégâts contondants}. Les créatures dans la salle doivent tenter un jet de Réflexes DD 21</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible subit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La cible subit tous les dégâts et subit un malus de -3 mètres à toutes ses Vitesses (avec un minimum de 1,5 mètre) pendant 1 round.</p>\n<p><strong>Échec critique</strong> La cible subit le double des dégâts et se retrouve @compendium[pf2e.conditionitems.Immobilized]{Immobilisée} pendant 1 round.</p>"
+            "id": "Hammer Of Forbiddance",
+            "name": "Hammer Of Forbiddance (Marteau d'interdiction)",
+            "description": "<p> Un gigantesque marteau oscille dans l’entrée d’un édifice et peut potentiellement blesser une créature qui tente d’entrer, la repousser ou l’empêcher d’accéder au bâtiment.</p>"
         },
         {
             "id": "Wheel Of Misery",
@@ -45,22 +15,15 @@
             "routine": "<p>(2 actions). À son tour lors du décompte de l’initiative, le piège utilise sa première action pour tourner, puis elle s’arrête. Lancez 1d6 pour déterminer quel segment se retrouve en haut lorsqu’elle s’arrête de tourner. La roue utilise sa deuxième action pour reproduire les effets du sort correspondant au segment (niveau 3, DD 24, jet d’attaque de sort +14). Le sort prend pour cible la créature la plus proche ou centre sa zone d’effet sur celle-ci. La portée du sort passe à 30 mètres, si nécessaire. Tous les sorts lancés par ce piège sont arcaniques.</p>\n<p><b>1</b> @Compendium[pf2e.spells-srd.o4lRVTwSxnOOn5vl]{Sommeil}</p>\n<p><b>2</b> @Compendium[pf2e.spells-srd.DCQHaLrYXMI37dvW]{Paralysie}</p>\n<p><b>3</b> @Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Éclair} (ligne de 30 mètres)</p>\n<p><b>4</b> @Compendium[pf2e.spells-srd.VosLNn2M8S7JH67D]{Cécité}</p>\n<p><b>5</b> @Compendium[pf2e.spells-srd.f8hRqLJaxBVhF1u0]{Flèche acide}</p>\n<p><b>6</b> @Compendium[pf2e.spells-srd.J7Y7tl0bbdz7TcCc]{Rayon d'affaiblissement}</p>"
         },
         {
-            "id": "Insistent Privacy Fence",
-            "name": "Insistent Privacy Fence (Clôture de propriété privée insistante)",
-            "description": "<p>Un tronçon de clôture est électrifié par une bobine stasienne cachée.</p>",
-            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-traits=\"electricity,hazard,trap,mechanical\" data-pf2-label=\"DD Déconnecter la bobine de la clôture\" data-pf2-dc=\"28\" data-pf2-show-dc=\"gm\">Vol</span> (expert) pour soigneusement déconnecter la bobine de la clôture ou <span data-pf2-check=\"crafting\" data-pf2-traits=\"electricity,hazard,trap,mechanical\" data-pf2-label=\"DD pour une mise à la terre\" data-pf2-dc=\"30\" data-pf2-show-dc=\"gm\">Artisanat</span> (maître) pour monter un dispositif de mise à la terre pour annuler le choc</p>",
-            "reset": "<p>Le piège se désactive et se remet à zéro après 1 minute.</p>"
+            "id": "Yellow Mold",
+            "name": "Yellow Mold (Moisissure jaune)",
+            "description": "<p>Les spores de la moisissure empoisonnent les créatures à proximité.</p>",
+            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-label=\"DD pour enlever la moisissure\" data-pf2-dc=\"26\" data-pf2-show-dc=\"gm\">Survie</span> (Expert) DD 26 pour enlever la moisissure sans déclencher le nuage de spores.</p>"
         },
         {
-            "id": "Dance Of Death",
-            "name": "Dance Of Death (Danse de mort)",
-            "description": "<p>Un orchestre inquiétant oblige tous ceux qui l'entendent à danser jusqu'à ce qu'ils tombent de fatigue.</p>"
-        },
-        {
-            "id": "Web Lurker Noose",
-            "name": "Web Lurker Noose (Toile de noeuds coulants)",
-            "description": "<p>Des sangles discrètes au niveau de la gorge accrochent les créatures qui s'y engagent</p>",
-            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-dc=\"18\" data-pf2-traits=\"mechanical,trap\" data-pf2-label=\"DD de désamorçage de la toile de noeud\" data-pf2-show-dc=\"gm\">Survie</span> (Qualifié) DD 18 ou <span data-pf2-check=\"thievery\" data-pf2-dc=\"18\" data-pf2-traits=\"mechanical,trap\" data-pf2-label=\"DD de Désamorçage de la toile de noeud\" data-pf2-show-dc=\"gm\">Vol</span> (Expert) DD 18 pour réarranger la toile.</p>"
+            "id": "Confounding Betrayal",
+            "name": "Confounding Betrayal (Trahison confondante)",
+            "description": "<p>Les alliés apparaissent retirer leurs déguisements et se révèlent aux-mêmes être des montres malveillants.</p>"
         },
         {
             "id": "Hidden Pit",
@@ -70,6 +33,38 @@
             "reset": "<p>Les créatures peuvent toujours tomber dans la fosse mais la trappe doit être remise en place manuellement pour la cacher de nouveau.</p>"
         },
         {
+            "id": "Banshee's Symphony",
+            "name": "Banshee's Symphony (Symphonie d'outre-tombe)",
+            "description": "<p>Une plainte d’outre-tombe que la magie rend contagieuse est contenue dans le larynx d’un elfe momifié et invisible.</p>"
+        },
+        {
+            "id": "Perilous Flash Flood",
+            "name": "Perilous Flash Flood (Crue subite périlleuse)",
+            "description": "<p>Que ce soit à cause de l'eau qui dévale dans les rues en  transportant de dangereux débris le long de saroute ou une substance moins naturelle qui se libère, cette inondation ballotte sans répit tout ce qui se trouve sur son passage.</p>",
+            "disable": "<p>Trois tests d’Athlétisme, d’Artisanat ou de Survie DD 35 pour se déplacer ou construire des barricades suffisamment solides pour s’abriter de la crue. Bien que cela permette d’établir un endroit sûr où se réfugier, les créatures en dehors de cet abri peuvent toujours être en danger en fonction de la nature de cette crue.</p>",
+            "routine": "(1 action) La crue avance de 18 mètres affectant toutes les créatures situées dans la zone. Entraînée par la crue, chaque créature doit tenter un jet de Vigueur DD 30.</p>\n<p>Le montant et le type de dégâts dépendent de la nature de la crue et certaines imposent des effets supplémentaires. En raison des eaux turbulentes, les créatures dans la zone d’effet doivent tenter un test d’Athlétisme pour Nager afin de pouvoir se déplacer et celles qui ne réussissent pas ce test à chaque round peuvent se noyer.</p>\n<p><b>Succès critique</b> La créature ne subit aucun dégât.</p>\n<p><b>Succès</b> La créature subit la moitié des dégâts.</p>\n<p><b>Échec</b> La créature subit les pleins dégâts et est entraînée sur 3 mètres dans le sens d’écoulement de l’eau.</p>\n<p><b>Échec critique.</b> La créature subit double dégâts et est entraînée sur 6 mètres dans le sens d’écoulement de l’eau.</p>\n<hr />\n<p>• Écoulement d’acide. Le liquide caustique dissout la chair en se déplaçant, infligeant [[/r 1d12 #contondants]]{1d12 dégâts contondants} et [[/r 1d12+8 #acide]]{1d12+8 dégâts acide}. De plus, il inflige[[/r 2d6 #acide persistant]] {2d6 dégâts d’acide persistants} aux créatures qui ont obtenu un échec critique à leurs jets de Vigueur.</p>\n<P>• Vagues déchaînées. Les eaux tumultueuses de cette crue infligent  [[/r 2d12 #contondants]]{2d12 dégâts contondants}.</p>\n<p>• Détritus répugnants. Cette crue charrie des éléments infectés et contaminés comme de la chair pourrissante ou des eaux usées des égouts. Elle inflige [[/r 2d12+8 #contondants]]{2d12+8 dégâts contondants}. Chaque créature exposée à la crue doit tenter un jet de Vigueur DD 29. Elle est @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 en cas d’échec et Malade 2 en cas d’échec critique. De plus, les créatures en contact avec les eaux de la crue sont exposées à la Fièvre de la fange (Vigueur DD 20).</p>\n<p>• Débris tranchants. Les eaux charrient différents objets dont certains sont particulièrement tranchants. La crue inflige [[/r 1d12 #contondants]]{1d12 dégâts contondants} et [[/r 1d12+12 #perforants]]{1d12+12 perforants}.</p>\n<p>• Substance gluante. La substance est particulièrement visqueuse. Elle inflige 2d12+6 dégâts contondants. De plus, chaque créature affectée par la crue doit tenter à chaque round un jet de Réflexes DD 29 au début de son tour. En cas d’échec, elle subit un malus de circonstances de −3 mètres à sa Vitesse pendant 1 round. En cas d’échec critique, elle est à la place immobilisée pendant 1 round.</p>"
+        },
+        {
+            "id": "Steam Vents",
+            "name": "Steam Vents (Jets de vapeur)",
+            "description": "<p>De gros tubes sous pression liés au fil déclencheur sont réglés pour libérer une explosion de vapeur sur les intrus.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-traits=\"mechanical,trap,hazard\" data-pf2-label=\"DD Déconnecter le fil déclencheur\" data-pf2-dc=\"22\" data-pf2-show-dc=\"gm\">Vol (qualifié)</span> pour déconnecter le fil décelncheur ou <span data-pf2-check=\"crafting\" data-pf2-traits=\"mechanical,trap,hazard\" data-pf2-label=\"DD Réduire la pression\" data-pf2-dc=\"24\" data-pf2-show-dc=\"gm\">Artisanat (expert)</span> pour soigneusement réduire la pression et prévenir l'explosion</p>"
+        },
+        {
+            "id": "Web Lurker Deadfall",
+            "name": "Web Lurker Deadfall (Toile-assommoir)",
+            "description": "<p>Un fil-piège en toile libère un paquet de rochers qui tombent sur toutes les cibles dans un carré de 3 mètres de côté</p>",
+            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-dc=\"20\" data-pf2-traits=\"mechanical,trap\" data-pf2-label=\"DD de désamorçage de la toile de noeud\" data-pf2-show-dc=\"gm\">Survie</span> (Qualifié) DD 20 or <span data-pf2-check=\"thievery\" data-pf2-dc=\"20\" data-pf2-traits=\"mechanical,trap\" data-pf2-label=\"Désamorçage de la toile-assommoir'\" data-pf2-show-dc=\"gm\">Vol</span> (Expert) DD 20 pour réarranger la toile.</p>"
+        },
+        {
+            "id": "Darkside Mirror",
+            "name": "Darkside Mirror (Miroir aux sombres reflets)",
+            "description": "<p>Un miroir magique remplace les personnages par des reflets maléfiques d’eux-mêmes venus d’une autre dimension.</p>",
+            "disable": "<p>Vol DD 34 (légendaire) pour ramener une créature depuis l’autre dimension en dix minutes ou moins après son remplacement (ce n’est possible que si son reflet est détruit), Vol DD 39 (maître) pour désamorcer définitivement le miroir lorsque tous les reflets sont détruits ou Dissipation de la magie (niveau 7 ; DD 32 pour contrer) pour contrer le miroir pendant une minute et empêcher d’autres remplacements durant cette minute.</p>",
+            "reset": "<p>Le miroir est toujours prêt à aspirer des créatures pour les emporter dans l’autre dimension. Dix minutes après qu’une créature a été aspirée par le miroir, si un allié ne la ramène pas entre-temps avec la compétence Vol, elle se retrouve dans l’autre dimension où elle peut être capturée et tuée. Dans la dimension du miroir, elle est considérée comme un reflet et les habitants de cette dimension ne peuvent pas détruire le miroir de ce côté-ci tant que la créature absorbée s’y trouve. Ces dimensions sont des réalités alternatives et non des plans et même les rituels comme Changement de plan ne peuvent permettre de s’y rendre.</p>",
+            "routine": "<p>(1 action) Le miroir aspire une autre créature qu’il réfléchit et la remplace par un reflet d’elle-même. Les reflets attaquent à leur tour lors de leur propre initiative, en utilisant les mêmes statistiques que la créature d’origine, mais avec un alignement mauvais (ce qui change uniquement les capacités qui dépendent de l’alignement). Un reflet peut dépenser 3 actions en touchant le miroir pour retourner dans sa dimension d’origine et libérer la créature dont il était le reflet, mais la plupart préfèrent ne pas agir de la sorte.</p>"
+        },
+        {
             "id": "Jealous Abjurer",
             "name": "Jealous Abjurer (Abjurateur jaloux)",
             "description": "<p>L'esprit d'un abjurateur habillé d'une robe s'élève du sol, pointant un doigt accusateur.</p>",
@@ -77,16 +72,39 @@
             "reset": "1 heure"
         },
         {
-            "id": "Pharaoh's Ward",
-            "name": "Pharaoh's Ward (Sceau du pharaon)",
-            "description": "<p>L’entrée d’un passage porte une malédiction.</p>"
+            "id": "Brown Mold",
+            "name": "Brown Mold (Moisissure brune)",
+            "description": "<p>Cette moisissure sans prétention aspire la chaleur de l'air.</p>"
         },
         {
-            "id": "Green Slime",
-            "name": "Green Slime (Substance gluante verte)",
-            "description": "<p>Une pellicule verte et caustique est suspendue au plafond au dessus, surveillant les proies qui passent en dessous.</p>",
-            "disable": "DD 33 Survie (expert) pour précautioneusement peler la substance du plafond sans la toucher",
-            "reset": "1 heure, le temps que la substance se nourrisse et remonte lentement au plafond"
+            "id": "Electric Latch Rune",
+            "name": "Electric Latch Rune (Rune de loquet électrique)",
+            "description": "<p>. Une rune invisible tracée sur le loquet d’une porte produit une redoutable décharge électrique.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour gratter la rune\" data-pf2-dc=\"20\" data-pf2-show-dc=\"gm\">Vol</span> (Expert) pour gratter la rune sans déclencher la décharge électrique ou @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} (Niveau 2, contre DD 18) pour contrer la rune.</p>"
+        },
+        {
+            "id": "Vorpal Executioner",
+            "name": "Vorpal Executioner (Bourreau vorpal)",
+            "description": "<p>Une scie à la lame extrêmement aiguisée descend et traverse la pièce de part en part le long d’un complexe réseau de rainures en tentant de décapiter tous ceux qui s’y trouvent.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour bloquer les itinéraires\" data-pf2-dc=\"41\" data-pf2-show-dc=\"gm\">Vol</span> (Expert) DD 41 à quatre jonctions différentes pour bloquer tous les itinéraires possibles de la lame et l’empêcher de traverser la pièce.</p>",
+            "reset": "<p>Le piège met un round à se réinitialiser et peut se déclencher de nouveau le round suivant.</p>"
+        },
+        {
+            "id": "Bloodthirsty Urge",
+            "name": "Bloodthirsty Urge (Pulsion sanguinaire)",
+            "description": "<p>Un objet hanté par les échos d’un esprit cruel tente de tuer la créature qui passe à proximité.</p>"
+        },
+        {
+            "id": "Slamming Door",
+            "name": "Slamming Door (Claque-porte)",
+            "description": "<p>Des plaques de pression dans le sol sont reliées à un bloc de pierre dissimulé dans le plafond d’un couloir.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD de désactivation du claque-porte\" data-pf2-dc=\"15\" data-pf2-show-dc=\"gm\">Vol</span> (qualifié) sur le sol avant que la porte ne tombe</p>"
+        },
+        {
+            "id": "Hampering Web",
+            "name": "Hampering Web (Toile entravante)",
+            "description": "<p>Des rideaux de toiles d’araignée semi-transparents obstruent une entrée pour capturer des petits insectes ou gêner des créatures plus grandes qui les traversent.</p>",
+            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-label=\"DD pour écarter\" data-pf2-dc=\"17\" data-pf2-show-dc=\"gm\">Survie</span> (qualifié) DD 17 pour écarter les toiles.</p>"
         },
         {
             "id": "Plummeting Doom",
@@ -96,26 +114,96 @@
             "reset": "1 heure"
         },
         {
-            "id": "Electric Latch Rune",
-            "name": "Electric Latch Rune (Rune de loquet électrique)",
-            "description": "<p>. Une rune invisible tracée sur le loquet d’une porte produit une redoutable décharge électrique.</p>",
-            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour gratter la rune\" data-pf2-dc=\"20\" data-pf2-show-dc=\"gm\">Vol</span> (Expert) pour gratter la rune sans déclencher la décharge électrique ou @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} (Niveau 2, contre DD 18) pour contrer la rune.</p>"
+            "id": "Frozen Moment",
+            "name": "Frozen Moment (Instant figé)",
+            "description": "<p>Une magie protectrice tente de piéger les intrus et les voleurs dans une trame temporelle pervertie.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD de désassemblage des multiples éléments du sort\" data-pf2-dc=\"38\" data-pf2-show-dc=\"gm\">Vol</span> (Légendaire) DD 38 pour désassembler les multiples éléments du sort en un clin d’œil ou @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} (Niveau 9 DD 36 pour contrer) le piège avant qu'il ne se déclenche ou pour contrer l'effet sur une créature après son déclenchement</p>"
         },
         {
-            "id": "Banshee's Symphony",
-            "name": "Banshee's Symphony (Symphonie d'outre-tombe)",
-            "description": "<p>Une plainte d’outre-tombe que la magie rend contagieuse est contenue dans le larynx d’un elfe momifié et invisible.</p>"
+            "id": "Insistent Privacy Fence",
+            "name": "Insistent Privacy Fence (Clôture de propriété privée insistante)",
+            "description": "<p>Un tronçon de clôture est électrifié par une bobine stasienne cachée.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-traits=\"electricity,hazard,trap,mechanical\" data-pf2-label=\"DD Déconnecter la bobine de la clôture\" data-pf2-dc=\"28\" data-pf2-show-dc=\"gm\">Vol</span> (expert) pour soigneusement déconnecter la bobine de la clôture ou <span data-pf2-check=\"crafting\" data-pf2-traits=\"electricity,hazard,trap,mechanical\" data-pf2-label=\"DD pour une mise à la terre\" data-pf2-dc=\"30\" data-pf2-show-dc=\"gm\">Artisanat</span> (maître) pour monter un dispositif de mise à la terre pour annuler le choc</p>",
+            "reset": "<p>Le piège se désactive et se remet à zéro après 1 minute.</p>"
         },
         {
-            "id": "Eternal Flame",
-            "name": "Eternal Flame (Flamme éternelle)",
-            "description": "<p>Un enfer spectral enragé se lève dans l'air fin et renforce toutes les créatures mortes-vivantes se trouvant dans la zone. Cette apparition survient le plus souvent à partir des restes carbonisés d'un groupe de trois personnes brûlées vives, soit à l'occasion d'un accident terrible, soit lors d'une exécution délibérée, et leurs âmes non véngées brûlent avec rage.</p>"
+            "id": "Spinning Blade Pillar",
+            "name": "Spinning Blade Pillar (Colonne de lames tournoyantes)",
+            "description": "<p>Une barre métallique tournoyante, sur laquelle sont fixées trois lames aussi tranchantes qu’un rasoir, est cachée dans le sol, reliée à des plaques de pression dans un maximum de huit cases du sol et un panneau de contrôle caché à 9 mètres ou moins.</p>",
+            "disable": "<span data-pf2-check=\"thievery\" data-pf2-label=\"DD sur la colonne\" data-pf2-dc=\"21\" data-pf2-show-dc=\"gm\">Vol</span> (Qualifié) DD 21 deux fois sur la colonne ou <span data-pf2-check=\"thievery\" data-pf2-label=\"DD sur le panneau de contrôle\" data-pf2-dc=\"19\" data-pf2-show-dc=\"gm\">Vol</span> (Expert) DD 19 deune seule fois sur le panneau de contrôle qui désactive le piège dans son ensemble. Briser le panneau de contrôle empêche quiconque de désamorcer le piège en utilisant ce panneau et empêche la désactivation automatique du piège (voir Routine)</p>",
+            "reset": "<p>Ce piège se désactive et se réinitialise au bout de 1 minute.</p>",
+            "routine": "<p>(3 actions) Le piège utilise sa première action pour faire une Frappe de lame tournoyante contre chaque créature adjacente, sa deuxième action pour se déplacer en ligne droite dans une direction aléatoire (lancez 1d4 pour déterminer la direction) et sa troisième action pour faire une Frappe de lame tournoyante contre chaque créature adjacente. Ce piège ne subit aucun malus d’attaques multiples.</p>"
         },
         {
-            "id": "Hampering Web",
-            "name": "Hampering Web (Toile entravante)",
-            "description": "<p>Des rideaux de toiles d’araignée semi-transparents obstruent une entrée pour capturer des petits insectes ou gêner des créatures plus grandes qui les traversent.</p>",
-            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-label=\"DD pour écarter\" data-pf2-dc=\"17\" data-pf2-show-dc=\"gm\">Survie</span> (qualifié) DD 17 pour écarter les toiles.</p>"
+            "id": "Telekinetic Swarm Trap",
+            "name": "Telekinetic Swarm Trap (Piège de nuée télékinésique)",
+            "description": "<p>Trois éléments décoratifs quelconques imprégnés de magie télékinésique déplacent des objets et des éléments de la salle pour former des nuées de débris qui attaquent toutes les créatures dans la pièce.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour effacer la rune\" data-pf2-dc=\"27\" data-pf2-show-dc=\"gm\">Vol</span> DD 27 (Expert) pour démanteler une nuée télékinésique ; <span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour désamorcer chaque élément décoratif télékinésique\" data-pf2-dc=\"32\" data-pf2-show-dc=\"gm\">Vol</span> (Maitre) DD 32 ou @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} (Niveau 6, contre DD 30) pour contrer chaque élément décoratif télékinésique.</p>",
+            "reset": "<p>Le piège se désactive et se réinitialise au bout de 10 minutes s’il n’a aucune créature à prendre pour cible (parce qu’elles se sont trop éloignées ou sont mortes).</p>",
+            "routine": "<p>(9 actions) Chaque élément décoratif utilise 3 des actions du piège chaque tour et celui-ci perd 3 actions chaque tour pour chaque élément décoratif désamorcé. Un élément décoratif utilise sa première action pour déplacer sa nuée d’objets de 60 mètres au maximum, sa deuxième action pour que les objets Frappent et sa troisième action pour ajouter plus d’objets à la nuée, ce qui augmente ses dégâts de 1d12 (jusqu’à un maximum de 4d12+10). Si les dégâts d’une nuée sont déjà au maximum, l’élément décoratif qui contrôle cette nuée ne fait rien avec sa troisième action.</p>\n<p>Si la nuée d’un élément décoratif est détruite, l’élément décoratif qui la contrôle utilise à la place sa première action pour créer une nouvelle nuée d’objets à l’intérieur de la pièce (en utilisant la valeur de dégâts de départ), puis sa deuxième et troisième actions pour déplacer la nuée et la faire attaquer.</p>"
+        },
+        {
+            "id": "Lava Flume Tube",
+            "name": "Lava Flume Tube (Déverseur de lave)",
+            "description": "<p>Quatre canaux taillés dans la pierre et fermés par des obturateurs permettent le déversement de lave dans une pièce haute de 4,50 m ; le sol peut se dérober pour que la lave solidifiée tombe dans une pièce située en dessous.</p>"
+        },
+        {
+            "id": "Spectral Reflection",
+            "name": "Spectral Reflection (Reflet spectral)",
+            "description": "<p>Le reflet dans le miroir distord et modifie subtilement, son expression reflétant un rictus de malice horripilant.</p>"
+        },
+        {
+            "id": "Poisoned Dart Gallery",
+            "name": "Poisoned Dart Gallery (Couloir de fléchettes empoisonnées)",
+            "description": "<p>Une multitude de trous desquels sont tirées des fléchettes empoisonnées percent les murs d’un long couloir, avec un panneau de contrôle à son extrémité.</p>",
+            "disable": "Vol DD 21 (expert) sur le panneau de contrôle pour désactiver le piège",
+            "reset": "Le piège se désactive et se remet en marche après 1 minute",
+            "routine": "(1 action) Le piège projette une fléchette contre chaque créature dans la galerie par 1 action. Puisqu'il lance des fléchettes continuellement, le piège peut aussi utiliser l'action libre Barrage continu pour lancer des fléchettes sur chaque créature durant le tour de la créature."
+        },
+        {
+            "id": "Gravehall Trap",
+            "name": "Gravehall Trap (Piège de la salle des tombes)",
+            "description": "<p>Lorsqu'une créature vivante traverse le milieu du tunnel piégé, la magie nécromantique anime partiellement les cadavres enfouis dans les murs et le plafond.</p>",
+            "disable": "<p>Vol DD 24 (Expert) pour perturber le déclencheur magique avant que le piège ne fasse son jet d'initiative, ou Religion DD 18 (Qualifié) pour surchager la zone d'énergie positive et empêcher le piège d'utiliser sa routine pendant 1 round ; sur le troisième jet de religion réussi, les énergies nécromantiques sont perturbées et le piège est détruit.</p>",
+            "routine": "<p><span class=\"pf2-icon\">1</span> Les morts-vivants attaquent toute les créatures dans la salle infligeant [[/r 4d6 #contondants]]{4d6 dégâts contondants}. Les créatures dans la salle doivent tenter un jet de Réflexes DD 21</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible subit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La cible subit tous les dégâts et subit un malus de -3 mètres à toutes ses Vitesses (avec un minimum de 1,5 mètre) pendant 1 round.</p>\n<p><strong>Échec critique</strong> La cible subit le double des dégâts et se retrouve @compendium[pf2e.conditionitems.Immobilized]{Immobilisée} pendant 1 round.</p>"
+        },
+        {
+            "id": "Treacherous Scree",
+            "name": "Treacherous Scree (Éboulis traître)",
+            "description": "<p>Le sol de ce terrain incliné semble stable à première vue mais les petits cailloux qui le recouvrent sont instables et peuvent glisser.</p>",
+            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-label=\"DD pour trouver un chemin sûr\" data-pf2-dc=\"20\" data-pf2-show-dc=\"gm\">Survie</span> DD 20 (Qualifié) pour trouver un chemin sûr.</p>"
+        },
+        {
+            "id": "Planar Rift",
+            "name": "Planar Rift (Faille planaire)",
+            "description": "<p>Une faille tente d’emporter les créatures vers un autre plan (choisi par le MJ).</p>"
+        },
+        {
+            "id": "Pharaoh's Ward",
+            "name": "Pharaoh's Ward (Sceau du pharaon)",
+            "description": "<p>L’entrée d’un passage porte une malédiction.</p>"
+        },
+        {
+            "id": "Snowfall",
+            "name": "Snowfall (Chute de neige)",
+            "description": "<p>De la neige et de la glace se sont entassées sur une surface élevée telle que la branche d'un arbre ou d'une toiture. L'adhérence à cette surface est ténue et risque de tomber lorsque celle-ci est ébranlée.</p>"
+        },
+        {
+            "id": "Ghostly Choir",
+            "name": "Ghostly Choir (Chœur spectral)",
+            "description": "<p>Un chœur d'âmes perdues sort du plancher, en chantant un une chanson terrible qui terrifie ses auditeurs et ballotte leurs corps avec des murs de sons.</p>",
+            "disable": "<p><span data-pf2-check=\"performance\" data-pf2-traits=\"haunt\" data-pf2-label=\"DD pour chanter un autre air\" data-pf2-dc=\"28\" data-pf2-show-dc=\"gm\">Représentation</span> (Qualifié) DD 28 pour interrompre l'harmonique du chant avec un autre air ou <span data-pf2-check=\"religion\" data-pf2-traits=\"haunt\" data-pf2-label=\"DD 28 pour rituellement imposer le silence\" data-pf2-dc=\"28\" data-pf2-show-dc=\"gm\">Religion</span> (Qualifié) DD 28 pour rituellement imposer le silence aux esprits</p>"
+        },
+        {
+            "id": "Web Lurker Noose",
+            "name": "Web Lurker Noose (Toile de noeuds coulants)",
+            "description": "<p>Des sangles discrètes au niveau de la gorge accrochent les créatures qui s'y engagent</p>",
+            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-dc=\"18\" data-pf2-traits=\"mechanical,trap\" data-pf2-label=\"DD de désamorçage de la toile de noeud\" data-pf2-show-dc=\"gm\">Survie</span> (Qualifié) DD 18 ou <span data-pf2-check=\"thievery\" data-pf2-dc=\"18\" data-pf2-traits=\"mechanical,trap\" data-pf2-label=\"DD de Désamorçage de la toile de noeud\" data-pf2-show-dc=\"gm\">Vol</span> (Expert) DD 18 pour réarranger la toile.</p>"
+        },
+        {
+            "id": "Shrieker",
+            "name": "Shrieker (Criard)",
+            "description": "<p>Ce champignon violet de taille humaine émet un cri perçant quand il est dérangé.</p>"
         },
         {
             "id": "Hallucination Powder Trap",
@@ -123,9 +211,45 @@
             "description": "<p> un tube rempli de poudre hallucinogène doté d’une petite amorce explosive est relié à une poignée de porte ou un loquet similaire.</p>"
         },
         {
-            "id": "Summoning Rune",
-            "name": "Summoning Rune (Rune de convocation)",
-            "description": "<p>Une nuée de capteurs magiques invisibles dans un rayon de 3 m entoure une rune invisible sur le mur ou le plafond, de la même taille que la créature qu’elle peut convoquer.</p>"
+            "id": "Quicksand",
+            "name": "Quicksand (Sables mouvants)",
+            "description": "<p>Une étendue d’eau et de sable de 4,50 m de côté tente d’engloutir les créatures qui marchent dedans.</p>",
+            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-label=\"DD troubler la surface\" data-pf2-dc=\"18\" data-pf2-show-dc=\"gm\">Survie</span> (Qualifié) DD 18 pour troubler la surface.</p>",
+            "reset": "<p>Le danger continue d’engloutir quiconque marche dedans, mais la surface ne redevient cachée qu’au bout de 24 heures, le temps qu’elle se tasse.</p>",
+            "routine": "<p> (1 action). Quand vient le tour des sables mouvants, chaque créature dans la zone commence à s’enfoncer. Une créature engloutie jusqu’à la taille devient engloutie jusqu’au cou, et une autre engloutie jusqu’au cou disparaît sous la surface et doit retenir son souffle pour éviter de Suffoquer.</p>\n<p>Une créature dans les sables mouvants peut faire un test d’Athlétisme DD 20 pour Nager, soit en tentant de s’extirper en améliorant sa situation d’un cran si elle est engloutie jusqu’au cou ou pire, soit en se déplaçant de 1,50 mètres si elle est engloutie jusqu’à la taille seulement. En cas d’échec critique, la créature s’enfonce d’un cran.</p>\n<p>Une créature qui Nage jusqu’en dehors de la zone des sables mouvants échappe au danger et se retrouve à terre dans un espace adjacent à l’étendue de sables mouvants. D’autres créatures peuvent Aider la victime, le plus souvent avec une corde ou un moyen similaire ou elles peuvent tenter de l’extirper en faisant leur propre test d’Athlétisme DD 20 avec les mêmes conséquences que la créature engloutie lorsqu’elle fait son test.</p>"
+        },
+        {
+            "id": "Flensing Blades",
+            "name": "Flensing Blades (Lames lacérantes)",
+            "description": "<p>Une tornade spectrale d’éclats de verre et d’acier lacère tout ce qu’elle touche.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour ajuster\" data-pf2-dc=\"35\" data-pf2-show-dc=\"gm\">Vol</span> DD 35 (Maitre) pour ajuster précisément les lames afin qu'elles se détruisent mutuellement ou <span data-pf2-check=\"religion\" data-pf2-label=\"DD pour affaiblir l'apparition\" data-pf2-dc=\"38\" data-pf2-show-dc=\"gm\">Religion</span> DD 38 (Expert) pour affaiblir l'apparition. Quatre succès sont nécessaires pour la désamorcer.</p>",
+            "reset": "<p>L’apparition rassemble les fragments tranchants dans sa zone d’effet en une heure après quoi elle peut de nouveau être déclenchée.</p>",
+            "routine": "<p>(3 actions). La tornade de lames utilise 3 actions pour se déplacer, se déplaçant de 9 mètres par action et infligeant [[/r 2d10 #tranchants]]{2d10 dégâts tranchants} Chaque créature sur sa trajectoire doit tenter un jet de Réflexes DD 33.</p>\n<p><b>Succès critique</b> La créature n'est pas affectée <p>\n<p><b>Succès</b> La créature subit la moitié des dégâts.</p>\n<p><b>Échec</b> La créature subit la totalité des dégâts plus [[/r 1d10 #saignement persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant}.</p>\n<p><b>Échec critique</b> La créature subit le double des dégâts et [[/r 1d10 #saignement persistants]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant}. Elle est également Blessée 1 (ou augmente l’intensité de son état Blessé de 1 si elle l’était déjà). Chaque test réussi pour désamorcer ce danger réduit le déplacement de l’apparition de 9 mètres et le quatrième succès la désamorce complètement.</p>"
+        },
+        {
+            "id": "Malevolent Mannequins",
+            "name": "Malevolent Mannequins (Mannequins malveillants)",
+            "description": "<p>Une foule d'esprits violents possède trois mannequins mécaniques et chacun d'entre eux s'en prend à toute créature qui ose s'approcher.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-traits=\"clockwork,haunt,mechanical,hazard\" data-pf2-label=\"DD Gripper les mécanismes du mannequin\" data-pf2-dc=\"37\" data-pf2-show-dc=\"gm\">Vol (maître)</span> pour gripper les mécanismes d'un mannequinou <span data-pf2-check=\"religion\" data-pf2-traits=\"clockwork,haunt,mechanical,hazard\" data-pf2-label=\"DD Exorciser un esprit d'un mannequin\" data-pf2-dc=\"35\" data-pf2-show-dc=\"gm\">Religion (expert)</span> deux fois pour exorciser un esprit d'un mannequin.</p>",
+            "reset": "<p>L'apparitition se désactive lorsqu'il n'y a plus de créatures cibles et se remet en position, habituellement en 1 round, le temps que les mannequins reviennent à leurs positions originelles. Si un mannequin est à plus de 45 m de sa position originelle, il faut plus longtemps à l'apparitition pour se réinitialiser, le temps que le mannequin recule de 45 m à chaque round.</p>",
+            "routine": "<p><strong>Routine</strong> (9 actions) Chacun des mannequins utilise trois des actions de l'apparition à chaque tour et l'apparition perd trois actions à chaque tour pour chaque mannequin désamorcé ou détruit. Chaque mannequin utilise sa première action pour Marcher rapidement de 15 m et ses actions suivantes pour faire deux Frappes de poing du mannequin. Chacun d'eux possède ses propres pénalités d'attaques multiples.</p>"
+        },
+        {
+            "id": "Drowning Pit",
+            "name": "Drowning Pit (Fosse de noyade)",
+            "description": "<p>Une trappe recouvre une fosse de 3 m de côté, 9 m de profondeur et 1,50 m d’eau au fond. Quatre arrivées d’eau dans les murs sont reliées à des réservoirs d’eau dissimulés. Chaque arrivée d’eau est située sur un mur différent, à 15 cm en dessous du sommet de la fosse.</p>"
+        },
+        {
+            "id": "Green Slime",
+            "name": "Green Slime (Substance gluante verte)",
+            "description": "<p>Une pellicule verte et caustique est suspendue au plafond au dessus, surveillant les proies qui passent en dessous.</p>",
+            "disable": "DD 33 Survie (expert) pour précautioneusement peler la substance du plafond sans la toucher",
+            "reset": "1 heure, le temps que la substance se nourrisse et remonte lentement au plafond"
+        },
+        {
+            "id": "Grasp Of The Damned",
+            "name": "Grasp Of The Damned (Emprise des damnés)",
+            "description": "<p>Ces esprits désespérés sont les échos d’individus ayant commis de grandes atrocités au nom d’une divinité maléfique. Désormais, ils ne savent qu’une seule chose, c’est que leur âme a été damnée et ils pensent pouvoir changer leur destin en offrant de puissants sacrifices à leurs maîtres fiélons.</p>"
         },
         {
             "id": "Second Chance",
@@ -140,54 +264,21 @@
             "disable": "<p>Une créature qui détecte le collembole peut l'enlever de la nourriture où il est caché automatiquement avec une action d'Interaction.</p>"
         },
         {
-            "id": "Bottomless Pit",
-            "name": "Bottomless Pit (Trappe sans fond)",
-            "description": "<p> Une trappe de fer recouvre une fosse sans fond de 3 m de côté.</p>"
+            "id": "Spear Launcher",
+            "name": "Spear Launcher (Lance épieu)",
+            "description": "<p>Un compartiment dans un mur contient un épieu monté sur ressort relié à une dalle du sol dans une case de 1,50 m de côté.</p>"
         },
         {
-            "id": "Steam Vents",
-            "name": "Steam Vents (Jets de vapeur)",
-            "description": "<p>De gros tubes sous pression liés au fil déclencheur sont réglés pour libérer une explosion de vapeur sur les intrus.</p>",
-            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-traits=\"mechanical,trap,hazard\" data-pf2-label=\"DD Déconnecter le fil déclencheur\" data-pf2-dc=\"22\" data-pf2-show-dc=\"gm\">Vol (qualifié)</span> pour déconnecter le fil décelncheur ou <span data-pf2-check=\"crafting\" data-pf2-traits=\"mechanical,trap,hazard\" data-pf2-label=\"DD Réduire la pression\" data-pf2-dc=\"24\" data-pf2-show-dc=\"gm\">Artisanat (expert)</span> pour soigneusement réduire la pression et prévenir l'explosion</p>"
+            "id": "Poisoned Lock",
+            "name": "Poisoned Lock (Serrure empoisonnée)",
+            "description": "<p>. Une pointe empoisonnée montée sur ressort est cachée près du trou d’une serrure. Désamorcer ou briser le piège ne déverrouille pas et ne brise pas la serrure.</p>"
         },
         {
-            "id": "Spectral Reflection",
-            "name": "Spectral Reflection (Reflet spectral)",
-            "description": "<p>Le reflet dans le miroir distord et modifie subtilement, son expression reflétant un rictus de malice horripilant.</p>"
-        },
-        {
-            "id": "Brown Mold",
-            "name": "Brown Mold (Moisissure brune)",
-            "description": "<p>Cette moisissure sans prétention aspire la chaleur de l'air.</p>"
-        },
-        {
-            "id": "Treacherous Scree",
-            "name": "Treacherous Scree (Éboulis traître)",
-            "description": "<p>Le sol de ce terrain incliné semble stable à première vue mais les petits cailloux qui le recouvrent sont instables et peuvent glisser.</p>",
-            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-label=\"DD pour trouver un chemin sûr\" data-pf2-dc=\"20\" data-pf2-show-dc=\"gm\">Survie</span> DD 20 (Qualifié) pour trouver un chemin sûr.</p>"
-        },
-        {
-            "id": "Poisoned Dart Gallery",
-            "name": "Poisoned Dart Gallery (Couloir de fléchettes empoisonnées)",
-            "description": "<p>Une multitude de trous desquels sont tirées des fléchettes empoisonnées percent les murs d’un long couloir, avec un panneau de contrôle à son extrémité.</p>",
-            "disable": "Vol DD 21 (expert) sur le panneau de contrôle pour désactiver le piège",
-            "reset": "Le piège se désactive et se remet en marche après 1 minute",
-            "routine": "(1 action) Le piège projette une fléchette contre chaque créature dans la galerie par 1 action. Puisqu'il lance des fléchettes continuellement, le piège peut aussi utiliser l'action libre Barrage continu pour lancer des fléchettes sur chaque créature durant le tour de la créature."
-        },
-        {
-            "id": "Darkside Mirror",
-            "name": "Darkside Mirror (Miroir aux sombres reflets)",
-            "description": "<p>Un miroir magique remplace les personnages par des reflets maléfiques d’eux-mêmes venus d’une autre dimension.</p>",
-            "disable": "<p>Vol DD 34 (légendaire) pour ramener une créature depuis l’autre dimension en dix minutes ou moins après son remplacement (ce n’est possible que si son reflet est détruit), Vol DD 39 (maître) pour désamorcer définitivement le miroir lorsque tous les reflets sont détruits ou Dissipation de la magie (niveau 7 ; DD 32 pour contrer) pour contrer le miroir pendant une minute et empêcher d’autres remplacements durant cette minute.</p>",
-            "reset": "<p>Le miroir est toujours prêt à aspirer des créatures pour les emporter dans l’autre dimension. Dix minutes après qu’une créature a été aspirée par le miroir, si un allié ne la ramène pas entre-temps avec la compétence Vol, elle se retrouve dans l’autre dimension où elle peut être capturée et tuée. Dans la dimension du miroir, elle est considérée comme un reflet et les habitants de cette dimension ne peuvent pas détruire le miroir de ce côté-ci tant que la créature absorbée s’y trouve. Ces dimensions sont des réalités alternatives et non des plans et même les rituels comme Changement de plan ne peuvent permettre de s’y rendre.</p>",
-            "routine": "<p>(1 action) Le miroir aspire une autre créature qu’il réfléchit et la remplace par un reflet d’elle-même. Les reflets attaquent à leur tour lors de leur propre initiative, en utilisant les mêmes statistiques que la créature d’origine, mais avec un alignement mauvais (ce qui change uniquement les capacités qui dépendent de l’alignement). Un reflet peut dépenser 3 actions en touchant le miroir pour retourner dans sa dimension d’origine et libérer la créature dont il était le reflet, mais la plupart préfèrent ne pas agir de la sorte.</p>"
-        },
-        {
-            "id": "Perilous Flash Flood",
-            "name": "Perilous Flash Flood (Crue subite périlleuse)",
-            "description": "<p>Que ce soit à cause de l'eau qui dévale dans les rues en  transportant de dangereux débris le long de saroute ou une substance moins naturelle qui se libère, cette inondation ballotte sans répit tout ce qui se trouve sur son passage.</p>",
-            "disable": "<p>Trois tests d’Athlétisme, d’Artisanat ou de Survie DD 35 pour se déplacer ou construire des barricades suffisamment solides pour s’abriter de la crue. Bien que cela permette d’établir un endroit sûr où se réfugier, les créatures en dehors de cet abri peuvent toujours être en danger en fonction de la nature de cette crue.</p>",
-            "routine": "(1 action) La crue avance de 18 mètres affectant toutes les créatures situées dans la zone. Entraînée par la crue, chaque créature doit tenter un jet de Vigueur DD 30.</p>\n<p>Le montant et le type de dégâts dépendent de la nature de la crue et certaines imposent des effets supplémentaires. En raison des eaux turbulentes, les créatures dans la zone d’effet doivent tenter un test d’Athlétisme pour Nager afin de pouvoir se déplacer et celles qui ne réussissent pas ce test à chaque round peuvent se noyer.</p>\n<p><b>Succès critique</b> La créature ne subit aucun dégât.</p>\n<p><b>Succès</b> La créature subit la moitié des dégâts.</p>\n<p><b>Échec</b> La créature subit les pleins dégâts et est entraînée sur 3 mètres dans le sens d’écoulement de l’eau.</p>\n<p><b>Échec critique.</b> La créature subit double dégâts et est entraînée sur 6 mètres dans le sens d’écoulement de l’eau.</p>\n<hr />\n<p>• Écoulement d’acide. Le liquide caustique dissout la chair en se déplaçant, infligeant [[/r 1d12 #contondants]]{1d12 dégâts contondants} et [[/r 1d12+8 #acide]]{1d12+8 dégâts acide}. De plus, il inflige[[/r 2d6 #acide persistant]] {2d6 dégâts d’acide persistants} aux créatures qui ont obtenu un échec critique à leurs jets de Vigueur.</p>\n<P>• Vagues déchaînées. Les eaux tumultueuses de cette crue infligent  [[/r 2d12 #contondants]]{2d12 dégâts contondants}.</p>\n<p>• Détritus répugnants. Cette crue charrie des éléments infectés et contaminés comme de la chair pourrissante ou des eaux usées des égouts. Elle inflige [[/r 2d12+8 #contondants]]{2d12+8 dégâts contondants}. Chaque créature exposée à la crue doit tenter un jet de Vigueur DD 29. Elle est @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 en cas d’échec et Malade 2 en cas d’échec critique. De plus, les créatures en contact avec les eaux de la crue sont exposées à la Fièvre de la fange (Vigueur DD 20).</p>\n<p>• Débris tranchants. Les eaux charrient différents objets dont certains sont particulièrement tranchants. La crue inflige [[/r 1d12 #contondants]]{1d12 dégâts contondants} et [[/r 1d12+12 #perforants]]{1d12+12 perforants}.</p>\n<p>• Substance gluante. La substance est particulièrement visqueuse. Elle inflige 2d12+6 dégâts contondants. De plus, chaque créature affectée par la crue doit tenter à chaque round un jet de Réflexes DD 29 au début de son tour. En cas d’échec, elle subit un malus de circonstances de −3 mètres à sa Vitesse pendant 1 round. En cas d’échec critique, elle est à la place immobilisée pendant 1 round.</p>"
+            "id": "Scythe Blades",
+            "name": "Scythe Blades (Lames de faux)",
+            "description": "<p>Deux lames, chacune cachée dans une rainure de 4,50 mètres de long au plafond, sont reliées à un fil de détente.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD de désactivation des lames\" data-pf2-dc=\"21\" data-pf2-show-dc=\"gm\">Vol</span> (Qualifié) DD 21 pour désamorcer chaque lame.</p>",
+            "reset": "<p>Le piège se reinitialise au bout de 15 minutes</p>"
         },
         {
             "id": "Armageddon Orb",
@@ -196,105 +287,9 @@
             "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour imprégner des outils\" data-pf2-dc=\"48\" data-pf2-show-dc=\"gm\">Vol</span> (Légendaire) DD 48 pour imprégner des outils de voleur des aspects représentant Asmodéus et Sarenrae afin de vider l'orbe de sa puissance en 10 minutes maximum ; le personnage qui effectue de test subit 5 dégâts de feu par round jusqu'à épuisement de l'orbre.</p>"
         },
         {
-            "id": "Web Lurker Deadfall",
-            "name": "Web Lurker Deadfall (Toile-assommoir)",
-            "description": "<p>Un fil-piège en toile libère un paquet de rochers qui tombent sur toutes les cibles dans un carré de 3 mètres de côté</p>",
-            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-dc=\"20\" data-pf2-traits=\"mechanical,trap\" data-pf2-label=\"DD de désamorçage de la toile de noeud\" data-pf2-show-dc=\"gm\">Survie</span> (Qualifié) DD 20 or <span data-pf2-check=\"thievery\" data-pf2-dc=\"20\" data-pf2-traits=\"mechanical,trap\" data-pf2-label=\"Désamorçage de la toile-assommoir'\" data-pf2-show-dc=\"gm\">Vol</span> (Expert) DD 20 pour réarranger la toile.</p>"
-        },
-        {
-            "id": "Confounding Betrayal",
-            "name": "Confounding Betrayal (Trahison confondante)",
-            "description": "<p>Les alliés apparaissent retirer leurs déguisements et se révèlent aux-mêmes être des montres malveillants.</p>"
-        },
-        {
-            "id": "Poisoned Lock",
-            "name": "Poisoned Lock (Serrure empoisonnée)",
-            "description": "<p>. Une pointe empoisonnée montée sur ressort est cachée près du trou d’une serrure. Désamorcer ou briser le piège ne déverrouille pas et ne brise pas la serrure.</p>"
-        },
-        {
-            "id": "Bloodthirsty Urge",
-            "name": "Bloodthirsty Urge (Pulsion sanguinaire)",
-            "description": "<p>Un objet hanté par les échos d’un esprit cruel tente de tuer la créature qui passe à proximité.</p>"
-        },
-        {
-            "id": "Frozen Moment",
-            "name": "Frozen Moment (Instant figé)",
-            "description": "<p>Une magie protectrice tente de piéger les intrus et les voleurs dans une trame temporelle pervertie.</p>",
-            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD de désassemblage des multiples éléments du sort\" data-pf2-dc=\"38\" data-pf2-show-dc=\"gm\">Vol</span> (Légendaire) DD 38 pour désassembler les multiples éléments du sort en un clin d’œil ou @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} (Niveau 9 DD 36 pour contrer) le piège avant qu'il ne se déclenche ou pour contrer l'effet sur une créature après son déclenchement</p>"
-        },
-        {
-            "id": "Lava Flume Tube",
-            "name": "Lava Flume Tube (Déverseur de lave)",
-            "description": "<p>Quatre canaux taillés dans la pierre et fermés par des obturateurs permettent le déversement de lave dans une pièce haute de 4,50 m ; le sol peut se dérober pour que la lave solidifiée tombe dans une pièce située en dessous.</p>"
-        },
-        {
-            "id": "Titanic Flytrap",
-            "name": "Titanic Flytrap (Attrape-mouches titanesque)",
-            "description": "<p>À première vue, une attrape-mouche titanesque ressemble à une plante normale mais, sous des eaux opaques, elle dissimule une mâchoire beaucoup plus grande de 3 mètres de diamètre renforcée par des branches et garnie de poils paralysants.</p>",
-            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-label=\"DD pour tromper les sens de l'attrape-mouche\" data-pf2-dc=\"22\" data-pf2-show-dc=\"gm\">Survie</span> (Qualifié) DD 22 pour tromper les sens du poids et de la pression de l’attrape-mouche.",
-            "reset": "<p>1 heure (ou plus longtemps après un gros repas)</p>"
-        },
-        {
-            "id": "Quicksand",
-            "name": "Quicksand (Sables mouvants)",
-            "description": "<p>Une étendue d’eau et de sable de 4,50 m de côté tente d’engloutir les créatures qui marchent dedans.</p>",
-            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-label=\"DD troubler la surface\" data-pf2-dc=\"18\" data-pf2-show-dc=\"gm\">Survie</span> (Qualifié) DD 18 pour troubler la surface.</p>",
-            "reset": "<p>Le danger continue d’engloutir quiconque marche dedans, mais la surface ne redevient cachée qu’au bout de 24 heures, le temps qu’elle se tasse.</p>",
-            "routine": "<p> (1 action). Quand vient le tour des sables mouvants, chaque créature dans la zone commence à s’enfoncer. Une créature engloutie jusqu’à la taille devient engloutie jusqu’au cou, et une autre engloutie jusqu’au cou disparaît sous la surface et doit retenir son souffle pour éviter de Suffoquer.</p>\n<p>Une créature dans les sables mouvants peut faire un test d’Athlétisme DD 20 pour Nager, soit en tentant de s’extirper en améliorant sa situation d’un cran si elle est engloutie jusqu’au cou ou pire, soit en se déplaçant de 1,50 mètres si elle est engloutie jusqu’à la taille seulement. En cas d’échec critique, la créature s’enfonce d’un cran.</p>\n<p>Une créature qui Nage jusqu’en dehors de la zone des sables mouvants échappe au danger et se retrouve à terre dans un espace adjacent à l’étendue de sables mouvants. D’autres créatures peuvent Aider la victime, le plus souvent avec une corde ou un moyen similaire ou elles peuvent tenter de l’extirper en faisant leur propre test d’Athlétisme DD 20 avec les mêmes conséquences que la créature engloutie lorsqu’elle fait son test.</p>"
-        },
-        {
-            "id": "Spinning Blade Pillar",
-            "name": "Spinning Blade Pillar (Colonne de lames tournoyantes)",
-            "description": "<p>Une barre métallique tournoyante, sur laquelle sont fixées trois lames aussi tranchantes qu’un rasoir, est cachée dans le sol, reliée à des plaques de pression dans un maximum de huit cases du sol et un panneau de contrôle caché à 9 mètres ou moins.</p>",
-            "disable": "<span data-pf2-check=\"thievery\" data-pf2-label=\"DD sur la colonne\" data-pf2-dc=\"21\" data-pf2-show-dc=\"gm\">Vol</span> (Qualifié) DD 21 deux fois sur la colonne ou <span data-pf2-check=\"thievery\" data-pf2-label=\"DD sur le panneau de contrôle\" data-pf2-dc=\"19\" data-pf2-show-dc=\"gm\">Vol</span> (Expert) DD 19 deune seule fois sur le panneau de contrôle qui désactive le piège dans son ensemble. Briser le panneau de contrôle empêche quiconque de désamorcer le piège en utilisant ce panneau et empêche la désactivation automatique du piège (voir Routine)</p>",
-            "reset": "<p>Ce piège se désactive et se réinitialise au bout de 1 minute.</p>",
-            "routine": "<p>(3 actions) Le piège utilise sa première action pour faire une Frappe de lame tournoyante contre chaque créature adjacente, sa deuxième action pour se déplacer en ligne droite dans une direction aléatoire (lancez 1d4 pour déterminer la direction) et sa troisième action pour faire une Frappe de lame tournoyante contre chaque créature adjacente. Ce piège ne subit aucun malus d’attaques multiples.</p>"
-        },
-        {
-            "id": "Vorpal Executioner",
-            "name": "Vorpal Executioner (Bourreau vorpal)",
-            "description": "<p>Une scie à la lame extrêmement aiguisée descend et traverse la pièce de part en part le long d’un complexe réseau de rainures en tentant de décapiter tous ceux qui s’y trouvent.</p>",
-            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour bloquer les itinéraires\" data-pf2-dc=\"41\" data-pf2-show-dc=\"gm\">Vol</span> (Expert) DD 41 à quatre jonctions différentes pour bloquer tous les itinéraires possibles de la lame et l’empêcher de traverser la pièce.</p>",
-            "reset": "<p>Le piège met un round à se réinitialiser et peut se déclencher de nouveau le round suivant.</p>"
-        },
-        {
-            "id": "Telekinetic Swarm Trap",
-            "name": "Telekinetic Swarm Trap (Piège de nuée télékinésique)",
-            "description": "<p>Trois éléments décoratifs quelconques imprégnés de magie télékinésique déplacent des objets et des éléments de la salle pour former des nuées de débris qui attaquent toutes les créatures dans la pièce.</p>",
-            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour effacer la rune\" data-pf2-dc=\"27\" data-pf2-show-dc=\"gm\">Vol</span> DD 27 (Expert) pour démanteler une nuée télékinésique ; <span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour désamorcer chaque élément décoratif télékinésique\" data-pf2-dc=\"32\" data-pf2-show-dc=\"gm\">Vol</span> (Maitre) DD 32 ou @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} (Niveau 6, contre DD 30) pour contrer chaque élément décoratif télékinésique.</p>",
-            "reset": "<p>Le piège se désactive et se réinitialise au bout de 10 minutes s’il n’a aucune créature à prendre pour cible (parce qu’elles se sont trop éloignées ou sont mortes).</p>",
-            "routine": "<p>(9 actions) Chaque élément décoratif utilise 3 des actions du piège chaque tour et celui-ci perd 3 actions chaque tour pour chaque élément décoratif désamorcé. Un élément décoratif utilise sa première action pour déplacer sa nuée d’objets de 60 mètres au maximum, sa deuxième action pour que les objets Frappent et sa troisième action pour ajouter plus d’objets à la nuée, ce qui augmente ses dégâts de 1d12 (jusqu’à un maximum de 4d12+10). Si les dégâts d’une nuée sont déjà au maximum, l’élément décoratif qui contrôle cette nuée ne fait rien avec sa troisième action.</p>\n<p>Si la nuée d’un élément décoratif est détruite, l’élément décoratif qui la contrôle utilise à la place sa première action pour créer une nouvelle nuée d’objets à l’intérieur de la pièce (en utilisant la valeur de dégâts de départ), puis sa deuxième et troisième actions pour déplacer la nuée et la faire attaquer.</p>"
-        },
-        {
-            "id": "Malevolent Mannequins",
-            "name": "Malevolent Mannequins (Mannequins malveillants)",
-            "description": "<p>Une foule d'esprits violents possède trois mannequins mécaniques et chacun d'entre eux s'en prend à toute créature qui ose s'approcher.</p>",
-            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-traits=\"clockwork,haunt,mechanical,hazard\" data-pf2-label=\"DD Gripper les mécanismes du mannequin\" data-pf2-dc=\"37\" data-pf2-show-dc=\"gm\">Vol (maître)</span> pour gripper les mécanismes d'un mannequinou <span data-pf2-check=\"religion\" data-pf2-traits=\"clockwork,haunt,mechanical,hazard\" data-pf2-label=\"DD Exorciser un esprit d'un mannequin\" data-pf2-dc=\"35\" data-pf2-show-dc=\"gm\">Religion (expert)</span> deux fois pour exorciser un esprit d'un mannequin.</p>",
-            "reset": "<p>L'apparitition se désactive lorsqu'il n'y a plus de créatures cibles et se remet en position, habituellement en 1 round, le temps que les mannequins reviennent à leurs positions originelles. Si un mannequin est à plus de 45 m de sa position originelle, il faut plus longtemps à l'apparitition pour se réinitialiser, le temps que le mannequin recule de 45 m à chaque round.</p>",
-            "routine": "<p><strong>Routine</strong> (9 actions) Chacun des mannequins utilise trois des actions de l'apparition à chaque tour et l'apparition perd trois actions à chaque tour pour chaque mannequin désamorcé ou détruit. Chaque mannequin utilise sa première action pour Marcher rapidement de 15 m et ses actions suivantes pour faire deux Frappes de poing du mannequin. Chacun d'eux possède ses propres pénalités d'attaques multiples.</p>"
-        },
-        {
-            "id": "Planar Rift",
-            "name": "Planar Rift (Faille planaire)",
-            "description": "<p>Une faille tente d’emporter les créatures vers un autre plan (choisi par le MJ).</p>"
-        },
-        {
-            "id": "Polymorph Trap",
-            "name": "Polymorph Trap (Piège de métamorphose)",
-            "description": "<p>Un glyphe druidique tente de transformer un intrus en animal.</p>",
-            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour saper la magie\" data-pf2-dc=\"32\" data-pf2-show-dc=\"gm\">Vol</span> (Maitre) DD 32 pour saper la magie de chaque glyphe ; ou @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} (Niveau 6 DD 30 pour contrer) pour contrer le glyphe.</p>"
-        },
-        {
-            "id": "Slamming Door",
-            "name": "Slamming Door (Claque-porte)",
-            "description": "<p>Des plaques de pression dans le sol sont reliées à un bloc de pierre dissimulé dans le plafond d’un couloir.</p>",
-            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD de désactivation du claque-porte\" data-pf2-dc=\"15\" data-pf2-show-dc=\"gm\">Vol</span> (qualifié) sur le sol avant que la porte ne tombe</p>"
-        },
-        {
-            "id": "Ghostly Choir",
-            "name": "Ghostly Choir (Chœur spectral)",
-            "description": "<p>Un chœur d'âmes perdues sort du plancher, en chantant un une chanson terrible qui terrifie ses auditeurs et ballotte leurs corps avec des murs de sons.</p>",
-            "disable": "<p><span data-pf2-check=\"performance\" data-pf2-traits=\"haunt\" data-pf2-label=\"DD pour chanter un autre air\" data-pf2-dc=\"28\" data-pf2-show-dc=\"gm\">Représentation</span> (Qualifié) DD 28 pour interrompre l'harmonique du chant avec un autre air ou <span data-pf2-check=\"religion\" data-pf2-traits=\"haunt\" data-pf2-label=\"DD 28 pour rituellement imposer le silence\" data-pf2-dc=\"28\" data-pf2-show-dc=\"gm\">Religion</span> (Qualifié) DD 28 pour rituellement imposer le silence aux esprits</p>"
+            "id": "Bottomless Pit",
+            "name": "Bottomless Pit (Trappe sans fond)",
+            "description": "<p> Une trappe de fer recouvre une fosse sans fond de 3 m de côté.</p>"
         },
         {
             "id": "Fireball Rune",
@@ -303,27 +298,32 @@
             "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD d'éffacement de la rune\" data-pf2-dc=\"22\" data-pf2-show-dc=\"gm\">Vol</span> (Expert) pour effacer la rune sans déclencher le capteur ou @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} (Niveau 3, contre DD 20) pour contrer la rune</p>"
         },
         {
-            "id": "Grasp Of The Damned",
-            "name": "Grasp Of The Damned (Emprise des damnés)",
-            "description": "<p>Ces esprits désespérés sont les échos d’individus ayant commis de grandes atrocités au nom d’une divinité maléfique. Désormais, ils ne savent qu’une seule chose, c’est que leur âme a été damnée et ils pensent pouvoir changer leur destin en offrant de puissants sacrifices à leurs maîtres fiélons.</p>"
+            "id": "Eternal Flame",
+            "name": "Eternal Flame (Flamme éternelle)",
+            "description": "<p>Un enfer spectral enragé se lève dans l'air fin et renforce toutes les créatures mortes-vivantes se trouvant dans la zone. Cette apparition survient le plus souvent à partir des restes carbonisés d'un groupe de trois personnes brûlées vives, soit à l'occasion d'un accident terrible, soit lors d'une exécution délibérée, et leurs âmes non véngées brûlent avec rage.</p>"
         },
         {
-            "id": "Flensing Blades",
-            "name": "Flensing Blades (Lames lacérantes)",
-            "description": "<p>Une tornade spectrale d’éclats de verre et d’acier lacère tout ce qu’elle touche.</p>",
-            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour ajuster\" data-pf2-dc=\"35\" data-pf2-show-dc=\"gm\">Vol</span> DD 35 (Maitre) pour ajuster précisément les lames afin qu'elles se détruisent mutuellement ou <span data-pf2-check=\"religion\" data-pf2-label=\"DD pour affaiblir l'apparition\" data-pf2-dc=\"38\" data-pf2-show-dc=\"gm\">Religion</span> DD 38 (Expert) pour affaiblir l'apparition. Quatre succès sont nécessaires pour la désamorcer.</p>",
-            "reset": "<p>L’apparition rassemble les fragments tranchants dans sa zone d’effet en une heure après quoi elle peut de nouveau être déclenchée.</p>",
-            "routine": "<p>(3 actions). La tornade de lames utilise 3 actions pour se déplacer, se déplaçant de 9 mètres par action et infligeant [[/r 2d10 #tranchants]]{2d10 dégâts tranchants} Chaque créature sur sa trajectoire doit tenter un jet de Réflexes DD 33.</p>\n<p><b>Succès critique</b> La créature n'est pas affectée <p>\n<p><b>Succès</b> La créature subit la moitié des dégâts.</p>\n<p><b>Échec</b> La créature subit la totalité des dégâts plus [[/r 1d10 #saignement persistant]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant}.</p>\n<p><b>Échec critique</b> La créature subit le double des dégâts et [[/r 1d10 #saignement persistants]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant}. Elle est également Blessée 1 (ou augmente l’intensité de son état Blessé de 1 si elle l’était déjà). Chaque test réussi pour désamorcer ce danger réduit le déplacement de l’apparition de 9 mètres et le quatrième succès la désamorce complètement.</p>"
+            "id": "Polymorph Trap",
+            "name": "Polymorph Trap (Piège de métamorphose)",
+            "description": "<p>Un glyphe druidique tente de transformer un intrus en animal.</p>",
+            "disable": "<p><span data-pf2-check=\"thievery\" data-pf2-label=\"DD pour saper la magie\" data-pf2-dc=\"32\" data-pf2-show-dc=\"gm\">Vol</span> (Maitre) DD 32 pour saper la magie de chaque glyphe ; ou @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} (Niveau 6 DD 30 pour contrer) pour contrer le glyphe.</p>"
         },
         {
-            "id": "Hammer Of Forbiddance",
-            "name": "Hammer Of Forbiddance (Marteau d'interdiction)",
-            "description": "<p> Un gigantesque marteau oscille dans l’entrée d’un édifice et peut potentiellement blesser une créature qui tente d’entrer, la repousser ou l’empêcher d’accéder au bâtiment.</p>"
+            "id": "Dance Of Death",
+            "name": "Dance Of Death (Danse de mort)",
+            "description": "<p>Un orchestre inquiétant oblige tous ceux qui l'entendent à danser jusqu'à ce qu'ils tombent de fatigue.</p>"
         },
         {
-            "id": "Spear Launcher",
-            "name": "Spear Launcher (Lance épieu)",
-            "description": "<p>Un compartiment dans un mur contient un épieu monté sur ressort relié à une dalle du sol dans une case de 1,50 m de côté.</p>"
+            "id": "Summoning Rune",
+            "name": "Summoning Rune (Rune de convocation)",
+            "description": "<p>Une nuée de capteurs magiques invisibles dans un rayon de 3 m entoure une rune invisible sur le mur ou le plafond, de la même taille que la créature qu’elle peut convoquer.</p>"
+        },
+        {
+            "id": "Titanic Flytrap",
+            "name": "Titanic Flytrap (Attrape-mouches titanesque)",
+            "description": "<p>À première vue, une attrape-mouche titanesque ressemble à une plante normale mais, sous des eaux opaques, elle dissimule une mâchoire beaucoup plus grande de 3 mètres de diamètre renforcée par des branches et garnie de poils paralysants.</p>",
+            "disable": "<p><span data-pf2-check=\"survival\" data-pf2-label=\"DD pour tromper les sens de l'attrape-mouche\" data-pf2-dc=\"22\" data-pf2-show-dc=\"gm\">Survie</span> (Qualifié) DD 22 pour tromper les sens du poids et de la pression de l’attrape-mouche.",
+            "reset": "<p>1 heure (ou plus longtemps après un gros repas)</p>"
         }
     ],
     "mapping": {
