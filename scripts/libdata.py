@@ -132,6 +132,10 @@ SUPPORTED = {
     "criticaldeck": {
         'transl': "Cartes critiques",
         "paths": {'name': "name", 'desc': "content"}
+    },
+    "heritages": {
+        'transl': "Héritages",
+        "paths": {'name': "name", 'desc': "data.description.value"}
     }
 }
 
