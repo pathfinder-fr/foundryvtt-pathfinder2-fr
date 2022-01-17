@@ -13,15 +13,7 @@ Ce module est complémentaire de la version française du système pf2 qui est n
   * Ne pas supprimer les textes d'origine en anglais qui doivent rester inchangés! (ils permettent au système d'effectuer automatiquement une comparaison entre deux mises à jour anglophones pour prendre en compte les évolutions et les erratas)
   * Voir [data/instructions.md](data/instructions.md) pour plus d'instructions concernant les instructions de traduction et de modifications
 
-* Pour voir l'état d'avancement des différentes traductions, vous pouvez consulter les fichiers qui se terminent par **.md** dans le répertoire data dont les principaux sont :
-  * [capacités d'ascendance](data/status-ancestryfeatures.md)
-  * [Historiques](data/status-backgrounds.md)
-  * [Classes](data/status-classes.md)
-  * [capacités de classe](data/status-classfeatures.md)
-  * [Équipement](data/status-equipment.md)
-  * [Dons](data/status-feats.md)
-  * [Sorts](data/status-spells.md)
-  * [Actions](data/status-actions.md)
+* Pour voir l'état d'avancement des différentes traductions, vous pouvez consulter les fichiers qui se terminent par **.md** dans le répertoire data.
 
 ## Utilisation sous Foundry
 
