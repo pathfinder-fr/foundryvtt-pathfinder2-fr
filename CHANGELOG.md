@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.16.0] - 2022-01-17
+Correct update from english data (went from old branch of the english project - Fix it to get the newest of the PF2 system)
+Migration of heritages - extract heritages.db
+
 ## [1.14.0] - 2022-01-15 
 - New release - More automations - proofing of the compendium
 
