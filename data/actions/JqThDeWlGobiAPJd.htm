@@ -1,14 +1,13 @@
 Name: Breath Weapon (Fire) (Cone)
 Nom: Arme de souffle de feu (cône)
-État: changé
-État d'origine: libre
+État: libre
 
 ------ Description (en) ------
 <p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[fire]]]{1d6 fire damage} to all creatures in a @Template[type:cone|distance:30], with a basic Reflex save against your spell DC.</p>
 <p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>
 <p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r {(floor(@actor.level/2))d6}[fire]]]{Levelled Damage}</p>
 ------ Description (fr) ------
-<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[fire]]]{1d6 dégâts de feu} à toutes les créatures dans un <span data-pf2-effect-area="cone" data-pf2-distance="30">cône de 9 m</span>, avec un jet de Réflexes basique contre votre DD de sorts.</p>
+<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[fire]]]{1d6 dégâts de feu} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m}, avec un jet de Réflexes basique contre votre DD de sorts.</p>
 <p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>
 <p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>
-<p>[[/r (floor(@details.level.value/2))d6 #feu]]{Dégâts selon le niveau}</p>
+<p>[[/r {(floor(@actor.level/2))d6}[fire]]]{Dégâts selon le niveau}</p>
