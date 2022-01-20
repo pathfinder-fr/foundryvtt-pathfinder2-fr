@@ -1,25 +1,13 @@
 # État de la traduction (backgrounds)
 
  * **changé**: 95
- * **libre**: 163
+ * **libre**: 169
  * **officielle**: 43
- * **aucune**: 6
 
 
-Dernière mise à jour: 2022-01-16 10:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-20 12:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[D00NdG0WtUNMO546.htm](backgrounds/D00NdG0WtUNMO546.htm)|Mammoth Herder|
-|[ECKic2p6yIyoGYod.htm](backgrounds/ECKic2p6yIyoGYod.htm)|Songsinger in Training|
-|[LWoPiYHAyLp8pvYx.htm](backgrounds/LWoPiYHAyLp8pvYx.htm)|Broken Tusk Recruiter|
-|[q1OCPBAgYgvwy1Of.htm](backgrounds/q1OCPBAgYgvwy1Of.htm)|Megafauna Hunter|
-|[xyHndp512sLU4UOL.htm](backgrounds/xyHndp512sLU4UOL.htm)|Northland Forager|
-|[ynObDI0VbZ4sqeMI.htm](backgrounds/ynObDI0VbZ4sqeMI.htm)|Ex-Mendevian Crusader|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -189,6 +177,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[CKU1sbFofcwZUJMx.htm](backgrounds/CKU1sbFofcwZUJMx.htm)|Ex-Con Token Guard|Garde des Pièces ancien taulard|libre|
 |[cODrdTvko4Om26ik.htm](backgrounds/cODrdTvko4Om26ik.htm)|Mechanic|Mécanicien|libre|
 |[cRELMbOeZa2FPIcL.htm](backgrounds/cRELMbOeZa2FPIcL.htm)|Scholar (Religion)|Érudit (Religion)|officielle|
+|[D00NdG0WtUNMO546.htm](backgrounds/D00NdG0WtUNMO546.htm)|Mammoth Herder|Berge des mammouths|libre|
 |[D2bageI3HMT2xyyD.htm](backgrounds/D2bageI3HMT2xyyD.htm)|Surge Investigator (Occultism)|Enquêteur d'ondes magiques (Occultisme)|libre|
 |[d5fKB0ZMJQkwDF5p.htm](backgrounds/d5fKB0ZMJQkwDF5p.htm)|Otherworldly Mission|Missionné de l'autre monde|libre|
 |[dAvFZ5QmbAHgXcNp.htm](backgrounds/dAvFZ5QmbAHgXcNp.htm)|Outrider|Chevaucheur des plaines|libre|
@@ -198,6 +187,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dVRDDjT4FOu6uLDR.htm](backgrounds/dVRDDjT4FOu6uLDR.htm)|Detective|Détective|officielle|
 |[DVtZab19D1vD3a0n.htm](backgrounds/DVtZab19D1vD3a0n.htm)|Post Guard of All Trades|Garde du poste touche-à-tout|libre|
 |[e58GwSBLNslyfqMF.htm](backgrounds/e58GwSBLNslyfqMF.htm)|Mystic Tutor (Occultism)|Tuteur mystique (Occultisme)|libre|
+|[ECKic2p6yIyoGYod.htm](backgrounds/ECKic2p6yIyoGYod.htm)|Songsinger in Training|Apprenti chansonnier|libre|
 |[ED0imMUoDvwpESd5.htm](backgrounds/ED0imMUoDvwpESd5.htm)|Unsponsored (Diplomacy)|Non soutenu (Diplomatie)|libre|
 |[EYPorNgoYcp37akm.htm](backgrounds/EYPorNgoYcp37akm.htm)|Magical Misfit|Marginal de la magie|libre|
 |[faHydq29Q4RP5CAK.htm](backgrounds/faHydq29Q4RP5CAK.htm)|Martial Disciple (Athletics)|Disciple martial (Athlétisme)|libre|
@@ -244,6 +234,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[LoeTd2SS6jfEgo1H.htm](backgrounds/LoeTd2SS6jfEgo1H.htm)|Genie-Blessed|Béni des génies|libre|
 |[lRVYgV9zL6O6O3U4.htm](backgrounds/lRVYgV9zL6O6O3U4.htm)|Martial Disciple (Acrobatics)|Disciple martial (Acrobatie)|libre|
 |[LwAu4r3uocYfpKA8.htm](backgrounds/LwAu4r3uocYfpKA8.htm)|Trailblazer|Pionnier|libre|
+|[LWoPiYHAyLp8pvYx.htm](backgrounds/LWoPiYHAyLp8pvYx.htm)|Broken Tusk Recruiter|Recruteur de la Défense brisée|libre|
 |[mcL4WLO2yxBGlvuG.htm](backgrounds/mcL4WLO2yxBGlvuG.htm)|Farmsteader|Paysan|libre|
 |[MgiZ25JdT6O3fLbO.htm](backgrounds/MgiZ25JdT6O3fLbO.htm)|Anti-Tech Activist|Activiste anti-techno|libre|
 |[MiRWGXZnEdurMvVf.htm](backgrounds/MiRWGXZnEdurMvVf.htm)|Eldritch Anatomist|Anatomiste mystique|libre|
@@ -265,6 +256,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Phvnfdmz4bB7jrI3.htm](backgrounds/Phvnfdmz4bB7jrI3.htm)|Barrister|Avocat|officielle|
 |[PO94ilqe62V6jtBE.htm](backgrounds/PO94ilqe62V6jtBE.htm)|Spell Seeker (Occult)|Chercheur de sorts (Occultisme)|libre|
 |[ppBGlWl0UkBKkJgE.htm](backgrounds/ppBGlWl0UkBKkJgE.htm)|Feybound|Lié avec les fées|libre|
+|[q1OCPBAgYgvwy1Of.htm](backgrounds/q1OCPBAgYgvwy1Of.htm)|Megafauna Hunter|Chasseur de mégafaune|libre|
 |[Q2brdDtEoI3cmpuD.htm](backgrounds/Q2brdDtEoI3cmpuD.htm)|Feral Child|Enfant sauvage|libre|
 |[qbvzNG8hMjb8f66D.htm](backgrounds/qbvzNG8hMjb8f66D.htm)|Squire|Écuyer|libre|
 |[qJNmSgzq0ae29qCC.htm](backgrounds/qJNmSgzq0ae29qCC.htm)|Printer|Imprimeur|libre|
@@ -320,9 +312,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[XHY0xrSSbX0cTJKK.htm](backgrounds/XHY0xrSSbX0cTJKK.htm)|Droskari Disciple|Disciple de Droskar|libre|
 |[xKEQvxDMHWRUkL6i.htm](backgrounds/xKEQvxDMHWRUkL6i.htm)|Clockwork Researcher|Chercheur en mécanique|libre|
 |[xvz5F7iYBWEIjz0r.htm](backgrounds/xvz5F7iYBWEIjz0r.htm)|Bibliophile|Bibliophile|libre|
+|[xyHndp512sLU4UOL.htm](backgrounds/xyHndp512sLU4UOL.htm)|Northland Forager|Glaneur du nord|libre|
 |[Y47AuCS5D1R4U4sn.htm](backgrounds/Y47AuCS5D1R4U4sn.htm)|Student of Magic (Religion)|Étudiant de la magie (Religion)|libre|
 |[Y50ssWBBKSRVBpSa.htm](backgrounds/Y50ssWBBKSRVBpSa.htm)|Mystic Seer|Voyant mystique|libre|
 |[YJpEdmSOjlA2QZeu.htm](backgrounds/YJpEdmSOjlA2QZeu.htm)|Circus Born|Circassien|libre|
+|[ynObDI0VbZ4sqeMI.htm](backgrounds/ynObDI0VbZ4sqeMI.htm)|Ex-Mendevian Crusader|Ancien croisé du Mendev|libre|
 |[Yu7Cl0Lk94LdPRi6.htm](backgrounds/Yu7Cl0Lk94LdPRi6.htm)|Noble|Noble|officielle|
 |[Yuwr2pT3z3WYTX9T.htm](backgrounds/Yuwr2pT3z3WYTX9T.htm)|Alkenstar Sojourner|Visiteur d'Alkenastre|libre|
 |[yZUzLCeuaIkNk4up.htm](backgrounds/yZUzLCeuaIkNk4up.htm)|Saved by Clockwork|Sauvé par la mécanique|libre|

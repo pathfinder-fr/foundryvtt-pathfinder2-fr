@@ -1,22 +1,12 @@
 # État de la traduction (familiar-abilities)
 
  * **officielle**: 16
- * **libre**: 26
- * **changé**: 4
+ * **libre**: 30
 
 
-Dernière mise à jour: 2022-01-16 10:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-20 12:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[01-Q42nrq9LwDdbeZM5.htm](familiar-abilities/01-Q42nrq9LwDdbeZM5.htm)|Restorative Familiar|Familier curatif|changé|
-|[01-tEWAHPPZULvPgHnT.htm](familiar-abilities/01-tEWAHPPZULvPgHnT.htm)|Tattoo Transformation|Transformation en tatouage|changé|
-|[01-wOgvBymJOVQDSm1Q.htm](familiar-abilities/01-wOgvBymJOVQDSm1Q.htm)|Spell Delivery|Transfert de sort|changé|
-|[04-43xB5UnexISlfRa5.htm](familiar-abilities/04-43xB5UnexISlfRa5.htm)|Purify Air|Purificateur d'air|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -47,19 +37,23 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-Le8UWr5BU8rV3iBf.htm](familiar-abilities/01-Le8UWr5BU8rV3iBf.htm)|Tough|Robuste|libre|
 |[01-mK3mAUWiRLZZYNdz.htm](familiar-abilities/01-mK3mAUWiRLZZYNdz.htm)|Damage Avoidance: Fortitude|Évitement des dégâts : Vigueur|libre|
 |[01-O5TIjqXAuta8iVSz.htm](familiar-abilities/01-O5TIjqXAuta8iVSz.htm)|Focused Rejuvenation|Récupération concentrée|libre|
+|[01-Q42nrq9LwDdbeZM5.htm](familiar-abilities/01-Q42nrq9LwDdbeZM5.htm)|Restorative Familiar|Familier curatif|libre|
 |[01-qTxH8mSOvc4PMzrP.htm](familiar-abilities/01-qTxH8mSOvc4PMzrP.htm)|Kinspeech|Parole des semblables|officielle|
 |[01-REJfFezELjc5Gzsy.htm](familiar-abilities/01-REJfFezELjc5Gzsy.htm)|Recall Familiar|Rappel de familier|libre|
 |[01-rs4Awf4k1e0Mj797.htm](familiar-abilities/01-rs4Awf4k1e0Mj797.htm)|Cantrip Connection|Lien avec les tours de magie|officielle|
 |[01-SxWYVgqNMsq0OijU.htm](familiar-abilities/01-SxWYVgqNMsq0OijU.htm)|Fast Movement: Climb|Déplacement rapide : Escalade|libre|
+|[01-tEWAHPPZULvPgHnT.htm](familiar-abilities/01-tEWAHPPZULvPgHnT.htm)|Tattoo Transformation|Transformation en tatouage|libre|
 |[01-uUrsZ4WvhjKjFjnt.htm](familiar-abilities/01-uUrsZ4WvhjKjFjnt.htm)|Toolbearer|Porte outils|libre|
 |[01-uy15sDBuYNK48N3v.htm](familiar-abilities/01-uy15sDBuYNK48N3v.htm)|Burrower|Fouisseur|officielle|
 |[01-v7zE3tKQb9G6PaYU.htm](familiar-abilities/01-v7zE3tKQb9G6PaYU.htm)|Partner in Crime|Associés dans le crime|libre|
 |[01-VHQUZcjUxfC3GcJ9.htm](familiar-abilities/01-VHQUZcjUxfC3GcJ9.htm)|Fast Movement: Fly|Déplacement rapide : Vol|libre|
 |[01-vpw2ReYdcyQBpdqn.htm](familiar-abilities/01-vpw2ReYdcyQBpdqn.htm)|Fast Movement: Swim|Déplacement rapide : Nage|libre|
+|[01-wOgvBymJOVQDSm1Q.htm](familiar-abilities/01-wOgvBymJOVQDSm1Q.htm)|Spell Delivery|Transfert de sort|libre|
 |[01-Xanjwv4YU0CBnsMw.htm](familiar-abilities/01-Xanjwv4YU0CBnsMw.htm)|Spell Battery|Accumulateur de sorts|officielle|
 |[01-XCqYnlVbLGqEGPeX.htm](familiar-abilities/01-XCqYnlVbLGqEGPeX.htm)|Touch Telepathy|Télépathie de contact|libre|
 |[01-ZHSzNt3NxkXbj1mI.htm](familiar-abilities/01-ZHSzNt3NxkXbj1mI.htm)|Flier|Volant|libre|
 |[01-ZtKb89o1PPhwJ3Lx.htm](familiar-abilities/01-ZtKb89o1PPhwJ3Lx.htm)|Extra Reagents|Réactifs supplémentaires|officielle|
 |[01-zyMRLQnFCQVpltiR.htm](familiar-abilities/01-zyMRLQnFCQVpltiR.htm)|Speech|Parole|officielle|
+|[04-43xB5UnexISlfRa5.htm](familiar-abilities/04-43xB5UnexISlfRa5.htm)|Purify Air|Purificateur d'air|libre|
 |[04-LUBS9csNNgRTui4p.htm](familiar-abilities/04-LUBS9csNNgRTui4p.htm)|Grasping Tendrils|Vrilles agrippantes|libre|
 |[04-SKIS1xexaOvrecdV.htm](familiar-abilities/04-SKIS1xexaOvrecdV.htm)|Verdant Burst|Explosion verdoyante|libre|

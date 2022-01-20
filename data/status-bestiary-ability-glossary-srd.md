@@ -1,20 +1,12 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
- * **libre**: 9
- * **officielle**: 37
- * **changé**: 2
+ * **libre**: 10
+ * **officielle**: 38
 
 
-Dernière mise à jour: 2022-01-16 10:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-20 12:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[etMnv73EIdEZrYYu.htm](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Frightful Presence|Présence terrifiante|changé|
-|[nZMQh4AaBr291TUf.htm](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Buck|Désarçonner|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -31,6 +23,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[baA0nSMhQyFyJIia.htm](bestiary-ability-glossary-srd/baA0nSMhQyFyJIia.htm)|Swarm Mind|Esprit de la nuée|officielle|
 |[BCLvAx4Pz4MLa2pu.htm](bestiary-ability-glossary-srd/BCLvAx4Pz4MLa2pu.htm)|Knockdown|Renversement|officielle|
 |[eQM5hQ1W3d1uen97.htm](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)|Change Shape|Changement de forme|officielle|
+|[etMnv73EIdEZrYYu.htm](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Frightful Presence|Présence terrifiante|officielle|
 |[fFu2sZz4KB01fVRc.htm](bestiary-ability-glossary-srd/fFu2sZz4KB01fVRc.htm)|Low-Light Vision|Vision nocturne|officielle|
 |[fJSNOw4zHGbIm4bZ.htm](bestiary-ability-glossary-srd/fJSNOw4zHGbIm4bZ.htm)|Fast Healing|Guérison accélérée|officielle|
 |[g26YiEIfSHCpLocV.htm](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constrict|Constriction|officielle|
@@ -49,6 +42,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[lR9R5Vld8Eu2Dha5.htm](bestiary-ability-glossary-srd/lR9R5Vld8Eu2Dha5.htm)|Regeneration|Régénération|officielle|
 |[m4HQ2o5aPxjXf2kY.htm](bestiary-ability-glossary-srd/m4HQ2o5aPxjXf2kY.htm)|Shield Block|Blocage au bouclier|officielle|
 |[N1kstYbHScxgUQtN.htm](bestiary-ability-glossary-srd/N1kstYbHScxgUQtN.htm)|Ferocity|Férocité|officielle|
+|[nZMQh4AaBr291TUf.htm](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Buck|Désarçonner|libre|
 |[OmV6E3aELvq9CkK1.htm](bestiary-ability-glossary-srd/OmV6E3aELvq9CkK1.htm)|Greater Constrict|Constriction supérieure|officielle|
 |[OvqohW9YuahnFaiX.htm](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Form Up|Se reformer|libre|
 |[qCCLZhnp2HhP3Ex6.htm](bestiary-ability-glossary-srd/qCCLZhnp2HhP3Ex6.htm)|Darkvision|Vision dans le noir|officielle|

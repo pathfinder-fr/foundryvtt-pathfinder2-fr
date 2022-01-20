@@ -1,20 +1,13 @@
 # État de la traduction (ancestryfeatures)
 
  * **changé**: 4
- * **libre**: 22
+ * **libre**: 23
  * **officielle**: 3
- * **aucune**: 1
 
 
-Dernière mise à jour: 2022-01-16 10:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-20 12:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[feat-00-Eyuqu6eIaoGCjnMv.htm](ancestryfeatures/feat-00-Eyuqu6eIaoGCjnMv.htm)|Clan Dagger|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -36,6 +29,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-00-dtNsRAhCRfteA1ev.htm](ancestryfeatures/feat-00-dtNsRAhCRfteA1ev.htm)|Blunt Snout|Museau court|libre|
 |[feat-00-E28a45fUC2OkXZXY.htm](ancestryfeatures/feat-00-E28a45fUC2OkXZXY.htm)|Constructed Body|Corps artificiel|libre|
 |[feat-00-egpiSWBrNBb1Fmig.htm](ancestryfeatures/feat-00-egpiSWBrNBb1Fmig.htm)|Draconic Exemplar|Modèle draconique|libre|
+|[feat-00-Eyuqu6eIaoGCjnMv.htm](ancestryfeatures/feat-00-Eyuqu6eIaoGCjnMv.htm)|Clan Dagger|Dague de clan|libre|
 |[feat-00-GNSTUFBk2bU28GIl.htm](ancestryfeatures/feat-00-GNSTUFBk2bU28GIl.htm)|Stonestep Shisk|Shisk pied de pierre|libre|
 |[feat-00-HHVQDp61ehcpdiU8.htm](ancestryfeatures/feat-00-HHVQDp61ehcpdiU8.htm)|Darkvision|Vision dans le noir|officielle|
 |[feat-00-jatezR4bENwhC6GL.htm](ancestryfeatures/feat-00-jatezR4bENwhC6GL.htm)|Bite|Morsure|libre|

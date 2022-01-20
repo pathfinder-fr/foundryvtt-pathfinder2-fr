@@ -1,10 +1,10 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 32
- * **changé**: 326
+ * **libre**: 34
+ * **changé**: 324
 
 
-Dernière mise à jour: 2022-01-16 10:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-20 12:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -312,9 +312,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Y1jsLqhsbqoXiGQe.htm](pathfinder-bestiary-2/Y1jsLqhsbqoXiGQe.htm)|Giant Toad|Crapaud géant|changé|
 |[Y1lwEf06O1ijOnwt.htm](pathfinder-bestiary-2/Y1lwEf06O1ijOnwt.htm)|Augnagar|Augnagar (Qlippoth)|changé|
 |[y2LqIPBHv2dA0pjI.htm](pathfinder-bestiary-2/y2LqIPBHv2dA0pjI.htm)|Necrophidius|Nécrophidius|changé|
-|[Y9SDbANT1DWI1DKU.htm](pathfinder-bestiary-2/Y9SDbANT1DWI1DKU.htm)|Animate Dream|Rêve animé|changé|
 |[yBglC9GBy6p1x87t.htm](pathfinder-bestiary-2/yBglC9GBy6p1x87t.htm)|Tendriculos|Tendricules|changé|
-|[YFvur5htRwt9EfQs.htm](pathfinder-bestiary-2/YFvur5htRwt9EfQs.htm)|Sandpoint Devil|Diable de Pointesable|changé|
 |[yIpB2uLyeBWQjfsn.htm](pathfinder-bestiary-2/yIpB2uLyeBWQjfsn.htm)|Gylou|Gylou (Diable)|changé|
 |[yr5xSfvSt7vA45wx.htm](pathfinder-bestiary-2/yr5xSfvSt7vA45wx.htm)|Young Cloud Dragon|Jeune dragon des nuages|changé|
 |[ytsHNgRwLzabsrZt.htm](pathfinder-bestiary-2/ytsHNgRwLzabsrZt.htm)|Meladaemon|Méladaémon (Daémon)|changé|
@@ -373,4 +371,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vXXEdDy8ciGJxt3i.htm](pathfinder-bestiary-2/vXXEdDy8ciGJxt3i.htm)|Mist Stalker|Traqueur des brumes (Élémentaire, eau)|libre|
 |[xfcFXLbadD3KdlHW.htm](pathfinder-bestiary-2/xfcFXLbadD3KdlHW.htm)|Lerritan|Lérritan|libre|
 |[y9D2wh63pBzIyI7i.htm](pathfinder-bestiary-2/y9D2wh63pBzIyI7i.htm)|Giant Maggot|Asticot géant|libre|
+|[Y9SDbANT1DWI1DKU.htm](pathfinder-bestiary-2/Y9SDbANT1DWI1DKU.htm)|Animate Dream|Rêve animé|libre|
+|[YFvur5htRwt9EfQs.htm](pathfinder-bestiary-2/YFvur5htRwt9EfQs.htm)|Sandpoint Devil|Diable de Pointesable|libre|
 |[Z2v611Np3J1MBkpv.htm](pathfinder-bestiary-2/Z2v611Np3J1MBkpv.htm)|Dream Spider|Araignée du rêve|libre|

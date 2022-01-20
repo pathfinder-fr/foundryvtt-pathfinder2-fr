@@ -2,14 +2,14 @@
     "label": "Macros PF2e",
     "entries": [
         {
-            "id": "S1-Q12 - Fruit Basket",
-            "name": "S1-Q12 - Panier de fruit",
-            "description": "<p><strong>[Général]</strong> <strong>[Usage limité]</strong><strong>□</strong></p>\n<p><strong>Effet</strong> : En guise de remerciement pour avoir aidé à découvrir la source des perturbations d'expédition, Selu a envoyé quelques fruits. Cochez cette case lorsque vous partez à l'aventure pour recevoir un morceau de fruit de baobab spécialement traité. Au cours de cette aventure, vous ou un autre personnage pouvez utiliser une action d'interaction pour consommer le fruit, qui fonctionne comme un élixir de vie inférieur (restaurant 3d6+6 points de vie et offrant un bonus de +1 contre les maladies et les poisons pendant 10 minutes). Si vous ne consommez pas le fruit pendant cette aventure, il se gâte.</p>"
-        },
-        {
             "id": "S2-03 - Fluent in Cyclops",
             "name": "S2-03 - langue cyclope",
             "description": "<p>Vous'êtes entré en contact avec des cyclopes ou leurs artefacts culturels et vous avez le sentiment que vous pourriez apprendre leur langue avec un peu d'étude. Vous gagnez l'accès à la langue cyclope, ce qui vous permet d'apprendre le cyclope la prochaine fois que vous gagnez une langue (comme avec le don de compétence Polyglotte).</p>\n<p><strong>SPECIAL</strong> Cette récompense s'applique à tous vos personnages de la Société des éclaireurs (deuxième édition).</p>"
+        },
+        {
+            "id": "S1-Q12 - Fruit Basket",
+            "name": "S1-Q12 - Panier de fruit",
+            "description": "<p><strong>[Général]</strong> <strong>[Usage limité]</strong><strong>□</strong></p>\n<p><strong>Effet</strong> : En guise de remerciement pour avoir aidé à découvrir la source des perturbations d'expédition, Selu a envoyé quelques fruits. Cochez cette case lorsque vous partez à l'aventure pour recevoir un morceau de fruit de baobab spécialement traité. Au cours de cette aventure, vous ou un autre personnage pouvez utiliser une action d'interaction pour consommer le fruit, qui fonctionne comme un élixir de vie inférieur (restaurant 3d6+6 points de vie et offrant un bonus de +1 contre les maladies et les poisons pendant 10 minutes). Si vous ne consommez pas le fruit pendant cette aventure, il se gâte.</p>"
         }
     ],
     "mapping": {
