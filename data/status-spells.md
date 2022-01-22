@@ -1,21 +1,17 @@
 # État de la traduction (spells)
 
- * **libre**: 603
- * **officielle**: 554
- * **changé**: 5
+ * **libre**: 606
+ * **officielle**: 555
+ * **changé**: 1
 
 
-Dernière mise à jour: 2022-01-20 12:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[conjuration-05-e9UJoVYUd5kJWUpi.htm](spells/conjuration-05-e9UJoVYUd5kJWUpi.htm)|Summon Giant|Convocation de géant|changé|
-|[enchantment-03-fPlFRu4dp09qJs3K.htm](spells/enchantment-03-fPlFRu4dp09qJs3K.htm)|Mind of Menace|Esprit de menace|changé|
-|[evocation-03-kvZCQz4NoMAfjvif.htm](spells/evocation-03-kvZCQz4NoMAfjvif.htm)|Gasping Marsh|Bouffée de marais|changé|
-|[evocation-03-LrFUj76CHDBV0vHW.htm](spells/evocation-03-LrFUj76CHDBV0vHW.htm)|Sun's Fury|Furie du soleil|changé|
 |[necromancy-05-qVXraYXlTjissCaG.htm](spells/necromancy-05-qVXraYXlTjissCaG.htm)|Mother's Blessing|Bénédiction de la Mère|changé|
 
 ## Liste des traductions complétés
@@ -229,6 +225,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-05-ba12fO37w7O37gim.htm](spells/conjuration-05-ba12fO37w7O37gim.htm)|Summon Axiom|Invoquer l'axiome|libre|
 |[conjuration-05-BoA00y45uDlmou07.htm](spells/conjuration-05-BoA00y45uDlmou07.htm)|Secret Chest|Coffre secret|libre|
 |[conjuration-05-dNpIc5k1aCI3bHIg.htm](spells/conjuration-05-dNpIc5k1aCI3bHIg.htm)|Mosquito Blight|Fléau du moustique|libre|
+|[conjuration-05-e9UJoVYUd5kJWUpi.htm](spells/conjuration-05-e9UJoVYUd5kJWUpi.htm)|Summon Giant|Convocation de géant|officielle|
 |[conjuration-05-F1qxaqsEItmBura2.htm](spells/conjuration-05-F1qxaqsEItmBura2.htm)|Tree Stride|Voyage par les arbres|officielle|
 |[conjuration-05-i1TvBID5QLyXrUCa.htm](spells/conjuration-05-i1TvBID5QLyXrUCa.htm)|Summon Entity|Convocation d'entité|officielle|
 |[conjuration-05-kghwmH3tQjMIhdH1.htm](spells/conjuration-05-kghwmH3tQjMIhdH1.htm)|Summon Dragon|Convocation de dragon|officielle|
@@ -463,6 +460,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-03-aewxsale5xWEPKLk.htm](spells/enchantment-03-aewxsale5xWEPKLk.htm)|Zone of Truth|Zone de vérité|officielle|
 |[enchantment-03-czO0wbT1i320gcu9.htm](spells/enchantment-03-czO0wbT1i320gcu9.htm)|Roaring Applause|Applaudissements rugissants|libre|
 |[enchantment-03-DCQHaLrYXMI37dvW.htm](spells/enchantment-03-DCQHaLrYXMI37dvW.htm)|Paralyze|Paralysie|officielle|
+|[enchantment-03-fPlFRu4dp09qJs3K.htm](spells/enchantment-03-fPlFRu4dp09qJs3K.htm)|Mind of Menace|Esprit de menace|libre|
 |[enchantment-03-h5cMTygLpjY3IEF0.htm](spells/enchantment-03-h5cMTygLpjY3IEF0.htm)|Sudden Recollection|Souvenir soudain|libre|
 |[enchantment-03-IihxWhRfpsBgQ5jS.htm](spells/enchantment-03-IihxWhRfpsBgQ5jS.htm)|Enthrall|Discours captivant|officielle|
 |[enchantment-03-KqvqNAfGIE5a9wSv.htm](spells/enchantment-03-KqvqNAfGIE5a9wSv.htm)|Heroism|Héroïsme|officielle|
@@ -653,8 +651,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-03-kfsv7zSHb3pr7s9v.htm](spells/evocation-03-kfsv7zSHb3pr7s9v.htm)|Dragon Breath (Gold, Magma or Red)|Souffle de dragon (Magma, Or ou Rouge)|officielle|
 |[evocation-03-kRsmUlSWhi6PJvZ7.htm](spells/evocation-03-kRsmUlSWhi6PJvZ7.htm)|Angelic Wings|Ailes d'ange|officielle|
 |[evocation-03-kuZnUNrhXHRYQ2eM.htm](spells/evocation-03-kuZnUNrhXHRYQ2eM.htm)|Eidolon's Wrath|Courroux de l'eidolon|libre|
+|[evocation-03-kvZCQz4NoMAfjvif.htm](spells/evocation-03-kvZCQz4NoMAfjvif.htm)|Gasping Marsh|Bouffée de marais|libre|
 |[evocation-03-L37RTc7K79OUpZ7X.htm](spells/evocation-03-L37RTc7K79OUpZ7X.htm)|Interstellar Void|Vide intersidéral|libre|
 |[evocation-03-LFSwMtQVP05EzlZe.htm](spells/evocation-03-LFSwMtQVP05EzlZe.htm)|Thunderburst|Explosion tempêtueuse|libre|
+|[evocation-03-LrFUj76CHDBV0vHW.htm](spells/evocation-03-LrFUj76CHDBV0vHW.htm)|Sun's Fury|Furie du soleil|libre|
 |[evocation-03-mtlyAyf30JnIvxVn.htm](spells/evocation-03-mtlyAyf30JnIvxVn.htm)|Moonlight Ray|Rayon de lumière de lune|libre|
 |[evocation-03-N0h3UodJFKdNQw1Y.htm](spells/evocation-03-N0h3UodJFKdNQw1Y.htm)|Dragon Breath (Brass)|Souffle de dragon (Airain)|libre|
 |[evocation-03-NXm8z4W4YZazE2gn.htm](spells/evocation-03-NXm8z4W4YZazE2gn.htm)|Dragon Breath (Sea)|Souffle de dragon (Mer)|libre|

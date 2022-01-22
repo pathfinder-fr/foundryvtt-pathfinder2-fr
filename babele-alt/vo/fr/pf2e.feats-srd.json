@@ -150,6 +150,22 @@
             ]
         },
         {
+            "id": "Pactbound Dedication",
+            "name": "Pactbound Dedication",
+            "description": "<p>Vous vous êtes lié d'amitié avec l'un des derniers saumen kar et avez reçu une fraction de leur pouvoir, ce qui vous donne la possibilité de devenir un gardien de leur ancien pacte. Vous gagnez une résistance au froid égale à la moitié de votre niveau. Vous pouvez @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{vous Cacher} et @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif} lorsqu'il neige, même légèrement, même si la neige n'est pas assez épaisse pour vous permettre de vous Masquer. Enfin, tous les saumen kar peuvent sentir la marque de leur pacte sur vous et leur attitude envers vous est généralement un cran au-dessus de ce qu'elle serait autrement (hostile à inamical, inamical à indifférent, etc.) La plupart des saumen kar sont inamicaux envers les étrangers ; cela devrait les rendre indifférents envers vous.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons dans l'archétype d'Initié lié par un pacte.</p>",
+            "prereq": [
+                {
+                    "value": "langue erutaki ou jotun"
+                },
+                {
+                    "value": "qualifié en Nature"
+                },
+                {
+                    "value": "doit avoir gagné la confiance d'un saumen kar qui vous a initié dans cet archétype"
+                }
+            ]
+        },
+        {
             "id": "Cut From The Air",
             "name": "Cut From The Air",
             "description": "<p><strong>Déclencheur</strong> Vous êtes la cible d'une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} à distance physique.</p>\n<p><strong>Prérequis</strong> Vous êtes conscient de l'attaque, pas @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} à son encontre et vous avez soit une main libre, soit vous maniez une arme au corps-à-corps.</p>\n<hr>\n<p>Vous pouvez écarter les attaques à distance. Vous obtenez un bonus de circonstances de +4 à la CA contre l'attaque déclencheuse. Si l'attaque vous manque, vous l'avez écartée ou l'avez découpée dans les airs.</p>"
@@ -1750,6 +1766,16 @@
             "prereq": [
                 {
                     "value": "Celui qui appelle le vent"
+                }
+            ]
+        },
+        {
+            "id": "Ice Crafter",
+            "name": "Ice Crafter",
+            "description": "<p>Les antiques techniques du façonnage de glace des saumen kar s'éveille en vous. Vous êtes qualifié en Artisanat ou devenez expert si vous étiez déjà qualifié. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.xWY5omyIcILNR7y1]{Artisanat magique}. Vous pouvez fabriques des objets permanents faits de glace au lieu de métal ou de bois ; ces objets sont de couleur bleu cristal et translucide, ressemblent à des glaçons ou à la glace des glaciers et possèdent les mêmes statistiques et ont les mêmes propriétés que le fer froid, y compris le prix et la capacité à infliger des dégâts supplémentaires à certains types de créature. Toute créature qui manie ou porte une partie d'un équipement fait de glace façonnée subit 1 dégât de froid par round du fait du contact au froid primordial de la glace façonnée.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Lié par un pacte"
                 }
             ]
         },
@@ -18357,6 +18383,16 @@
             ]
         },
         {
+            "id": "Crown of the Saumen Kar",
+            "name": "Crown of the Saumen Kar",
+            "description": "<p>Votre corps commence à évoluer et à s'adapter, vous faisant franchir la première étape qui conduit à mêler votre être intérieur à l'antique malédiction du saumen kar. Vous devenez plus grand et plus massif, atteignant la taille et le poids le plus important pour quelqu'un de votre taille. Vous obtenez odorat comme sens imprécis avec une portée de 9 m et obtenez un bonus de circonstance de +1 aux tests de Discrétion faits pour @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif} ou @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Se cacher} dans les zones de forêts et de neige. Une paire de cornes sort de votre front, vous permettant d'obtenir une attaque à mains nues de cornes qui inflige 1d8 dégâtss contondants. Vos cornes font partie du groupe pugilat et possèdent les traits pousser et croc-en-jambe.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Lié par un pacte"
+                }
+            ]
+        },
+        {
             "id": "Mighty Dragon Shape",
             "name": "Mighty Dragon Shape",
             "description": "<p>Vous avez pratiqué et augmenté votre puissance draconique, vous permettant de prendre votre forme draconique plus souvent. Vous pouvez utiliser Forme de Dragon une fois par heure au lieu d'une fois par jour.</p>",
@@ -20108,6 +20144,16 @@
             ]
         },
         {
+            "id": "Curse of the Saumen Kar",
+            "name": "Curse of the Saumen Kar",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous activez les runes sur votre corps pour créer une prison de glace autour d'une créature de taille Très grande ou inférieure que vous pouvez voir dans un rayon de 18 m. Cette prison est une sphère faite de glace fondante, juste assez grande pour accueillir votre cible. La cible, ainsi que toute créature partageant sa case, doit tenter un jet de Réflexes, avec un DD utilisant le plus élevé entre votre DD de classe et votre DD de sort. Une créature qui échoue est piégée à l'intérieur de la prison. Si elle réussit, la créature est poussée à l'extérieur de la prison dans une case de son choix. Si la cible partage son espace avec une créature gargantuesque, l'effet échoue.</p>\n<p>Le dôme possède une CA 10, une Solidité de 20 et 40 Points de vie ; il est immunisé aux dégâts de froid, aux coups critiques et aux dégâts de précision. La prison dure jusqu'à ce qu'elle soit détruite, jusqu'à ce que vous utilisiez cette capacité pour créer une nouvelle prison ou jusqu'à ce que vous mourriez.</p>",
+            "prereq": [
+                {
+                    "value": "Runes de froid mordant"
+                }
+            ]
+        },
+        {
             "id": "Hunter's Aim",
             "name": "Hunter's Aim",
             "description": "<p>Quand vous vous concentrez pour viser, votre attaque gagne en précision.</p>\n<p>Faites une Frappe d’arme à distance contre votre proie. Pour cette Frappe, vous bénéficiez d’un bonus de circonstances de +2 au jet d’attaque et ignorez l’état masqué de votre proie.</p>"
@@ -21712,6 +21758,16 @@
             "prereq": [
                 {
                     "value": "légendaire en Survie"
+                }
+            ]
+        },
+        {
+            "id": "Frostbite Runes",
+            "name": "Frostbite Runes",
+            "description": "<p>Thick tattoos, each one a rune fragment from the saumen kar's long-lost language spelling out their pact with their equally lost deity, cover your body and stretch across your limbs, torso, and face. You gain a +1 status bonus to saving throws against evil and necromancy spells and effects. You can sense the presence of evil undead as a pervasive taste of oily corruption in the air; this is a vague sense that allows you to know when such a creature is within 60 feet of you, though you can't precisely pinpoint their location with this sense. As normal for a vague sense, it can be fooled, but undead might not realize they need to take precautions against it. This sense also extends to living creatures who have the negative healing ability, like dhampir.</p>\n<p>Vous infligez 1 dégâts de froid supplémentaire avec toutes les Frappes portées avec une arme de glace façonnée. Si vous avez le don Couronne du saumen kar, vous infligez 1 dégâts d e froid suppléemntaire avec vos Frappes à mains nues de cornes.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Lié par un pacte"
                 }
             ]
         },
@@ -25497,6 +25553,16 @@
             "prereq": [
                 {
                     "value": "Dévouement du barde"
+                }
+            ]
+        },
+        {
+            "id": "Bound in Ice",
+            "name": "Bound in Ice",
+            "description": "<p>Vous devenez une créature hybridée entre votre ascendance et un saumen kar. Votre taille passe à géante et votre allonge à 3 m. Votre résistance au froid augmente pour devenir égale à votre niveau et vous obtenez une résistance au feu dont le montant est égal à la moitié de votre niveau.</p>\n<p>Vous obtenez également la réaction @Compendium[pf2e.actionspf2e.a47Npi5XHXo47y49]{Évasion du blizzard}.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Lié par un pacte"
                 }
             ]
         },

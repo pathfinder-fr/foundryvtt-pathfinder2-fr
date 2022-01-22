@@ -314,7 +314,7 @@
         {
             "id": "(Ghost) Telekinetic Assault",
             "name": "(Fantôme) Assaut télékinésique ((Ghost) Telekinetic Assault)",
-            "description": "<p>Le fantôme hurle de douleur et d’angoisse en faisant voler en tous sens des débris et des petits objets dans une<span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"30\">émanation de 9 mètres</span> . Les créatures dans cette zone subissent chacune [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}  + 1d6 tous les 2 niveaux. Elles ont chacune droit à un jet <span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"damaging-effect,divine,evocation\" data-pf2-label=\"DD Assaut télékinésique\" data-pf2-show-dc=\"gm\">Réflexes basique</span>.</p>"
+            "description": "<p>Le fantôme hurle de douleur et d’angoisse en faisant voler en tous sens des débris et des petits objets dans une @Template[type:emanation|distance:30]{émanation de 9 mètres}. Les créatures dans cette zone subissent chacune [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}  + 1d6 tous les 2 niveaux. Elles ont chacune droit à un jet de @Check[type:reflex|dc:|basic:true]{Réflexes basique}.</p>"
         },
         {
             "id": "(Graveknight) Channel Magic",

@@ -1,19 +1,18 @@
 # État de la traduction (actions)
 
  * **officielle**: 110
- * **libre**: 152
+ * **libre**: 153
  * **changé**: 3
- * **aucune**: 3
+ * **aucune**: 2
 
 
-Dernière mise à jour: 2022-01-20 12:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[a47Npi5XHXo47y49.htm](actions/a47Npi5XHXo47y49.htm)|Blizzard Evasion|
 |[h4Tzdhqfryp5m2fO.htm](actions/h4Tzdhqfryp5m2fO.htm)|Harvest Heartsilver|
 |[iBf9uGn5LOHkWpZ6.htm](actions/iBf9uGn5LOHkWpZ6.htm)|Craft Disharmonic Instrument|
 
@@ -71,6 +70,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9MJcQEMVVrmMyGyq.htm](actions/9MJcQEMVVrmMyGyq.htm)|Living Fortification|Fortification vivante|libre|
 |[9Nmz5114UB87n7Aj.htm](actions/9Nmz5114UB87n7Aj.htm)|Affix a Fulu|Fixer un fulu|libre|
 |[9sXQf1SyppS5B6O1.htm](actions/9sXQf1SyppS5B6O1.htm)|Automaton Aim|Visée de l'automate|libre|
+|[a47Npi5XHXo47y49.htm](actions/a47Npi5XHXo47y49.htm)|Blizzard Evasion|Évasion du blizzard|libre|
 |[A4L90h7FIgO5EyBx.htm](actions/A4L90h7FIgO5EyBx.htm)|Siegebreaker|Briseur de siège|libre|
 |[A72nHGUtNXgY5Ey9.htm](actions/A72nHGUtNXgY5Ey9.htm)|Delay|Retarder|officielle|
 |[aBQ8ajvEBByv45yz.htm](actions/aBQ8ajvEBByv45yz.htm)|Cast a Spell|Lancer un sort|officielle|

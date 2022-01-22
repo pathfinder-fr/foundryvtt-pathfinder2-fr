@@ -99,12 +99,12 @@
         {
             "id": "Claws",
             "name": "Claws (Griffes)",
-            "description": "<p>Vos griffes aiguisées vous offrent une alternative aux poings que d'autres humanoïdes utilisent pour se battre. Vous disposez d'une attaque à mains nues de griffe qui inflige <a class=\"inline-roll roll\" title=\"slashing\" data-mode=\"roll\" data-flavor=\"slashing\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i>1d4</a> dégâts tranchants et possède les traits agile et finesse.</p>"
+            "description": "<p>Vos griffes aiguisées vous offrent une alternative aux poings que d'autres humanoïdes utilisent pour se battre. Vous disposez d'une attaque à mains nues de griffe qui inflige [[/r {1d4}[slashing]]]{1d4 dégâts tranchants} et possède les traits agile et finesse.</p>"
         },
         {
             "id": "Hydration",
             "name": "Hydration (Hydratation)",
-            "description": "<p>Bien que vous soyez amphibie et également à l'aise sur terre que dans l'eau, votre corps nécessite que vous retourniez dans les environnements aquatiques au moins une fois par 24 heures. Vous devez vous immerger totalement dans l'eau en vue de réhydrater votre peu acclimatée à l'eau.</p>\n<p>Si vous ne parvenez pas à le faire, votre peau commence à se craqueler et vos ouïes deviennent douloureuses. Après les premières 24 heures hors de l'eau, vous subissez une pénalité de statut de –1 aux jets de Vigueur. Après 48 heures, vous luttez pour respirer de l'air et commencez à suffoquer jusqu'à ce que vous retourniez dans l'eau.</p>\n<p>@Compendium[pf2e.feature-effects.Q5FUu7yhWPJlcXei]{Effet : Hydratation}</p>"
+            "description": "<p>Bien que vous soyez amphibie et autant à l'aise sur terre que dans l'eau, votre corps nécessite que vous retourniez dans les environnements aquatiques au moins une fois par 24 heures. Vous devez vous immerger totalement dans l'eau en vue de réhydrater votre peau acclimatée à l'eau.</p>\n<p>Si vous ne parvenez pas à le faire, votre peau commence à se craqueler et vos ouïes deviennent douloureuses. Après les premières 24 heures hors de l'eau, vous subissez une pénalité de statut de –1 aux jets de Vigueur. Après 48 heures, vous luttez pour respirer de l'air et commencez à suffoquer jusqu'à ce que vous retourniez dans l'eau.</p>\n<p>@Compendium[pf2e.feature-effects.Q5FUu7yhWPJlcXei]{Effet : Hydratation}</p>"
         },
         {
             "id": "Constructed (Poppet)",
@@ -144,12 +144,12 @@
         {
             "id": "Eyes in Back",
             "name": "Eyes in Back (Yeux dans le dos)",
-            "description": "<p>Vous avez des yeux qui pointent dans plusieurs directions à la fois et vous remarquez instinctivement les mouvements à la périphérie de votre vision. Lorsque vous utilisez l'action de base Chercher, vous pouvez chercher des créatures dans deux zones au lieu d'une. Si la précision est nécessaire, vous pouvez sélectionner deux cônes de 9 m ou deux explosions de 4,5 m dans votre ligne de mire au lieu d'un seul.</p>"
+            "description": "<p>Vous avez des yeux qui pointent dans plusieurs directions à la fois et vous remarquez instinctivement les mouvements à la périphérie de votre vision. Lorsque vous utilisez l'action de base Chercher, vous pouvez chercher des créatures dans deux zones au lieu d'une. Si la précision est nécessaire, vous pouvez sélectionner deux @Template[type:cone|distance:30]{cônes de 9 m} ou deux @Template[type:burst|distance:15]{explosions de 4,5 m} dans votre ligne de mire au lieu d'un seul.</p>"
         },
         {
             "id": "Sharp Beak",
             "name": "Sharp Beak (Bec aiguisé)",
-            "description": "<p>Avec votre bec aiguisé, vous n'êtes jamais dépourvu d'une arme. Vous disposez d'une attaque à mains nues de bec qui inflige <a class=\"inline-roll roll\" title=\"perforant\" data-mode=\"roll\" data-flavor=\"perforant\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i>1d6</a> dégâts perforants. Votre bec est dans le groupe d'arme pugilat et possède les traits finesse et à mains nues.</p>"
+            "description": "<p>Avec votre bec aiguisé, vous n'êtes jamais dépourvu d'une arme. Vous disposez d'une attaque à mains nues de bec qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Votre bec est dans le groupe d'arme pugilat et possède les traits finesse et à mains nues.</p>"
         }
     ],
     "mapping": {

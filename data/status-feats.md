@@ -1,24 +1,18 @@
 # État de la traduction (feats)
 
- * **libre**: 1543
+ * **libre**: 1549
  * **officielle**: 668
  * **changé**: 1194
- * **aucune**: 7
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2022-01-20 12:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[archetype-02-BVxcuJ5TWfN1px4L.htm](feats/archetype-02-BVxcuJ5TWfN1px4L.htm)|Pactbound Dedication|
-|[archetype-04-0evTnx67DYsxWtg3.htm](feats/archetype-04-0evTnx67DYsxWtg3.htm)|Ice Crafter|
-|[archetype-06-00uTUJPgJ6kuGR8O.htm](feats/archetype-06-00uTUJPgJ6kuGR8O.htm)|Crown of the Saumen Kar|
-|[archetype-12-gipC9eWrBDFRpNkQ.htm](feats/archetype-12-gipC9eWrBDFRpNkQ.htm)|Frostbite Runes|
-|[archetype-14-UJcuACMlspc1raL1.htm](feats/archetype-14-UJcuACMlspc1raL1.htm)|Curse of the Saumen Kar|
-|[archetype-16-MGtlUc6cy4nCM4Lk.htm](feats/archetype-16-MGtlUc6cy4nCM4Lk.htm)|Bound in Ice|
 |[skill-01-QLeMH5mQgh28sa5o.htm](feats/skill-01-QLeMH5mQgh28sa5o.htm)|Specialty Crafting|
 
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -1742,6 +1736,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-02-8foxmfC6FFT3oYpV.htm](feats/archetype-02-8foxmfC6FFT3oYpV.htm)|Sentinel Dedication|Dévouement de Sentinelle|libre|
 |[archetype-02-aFygWxgSv82WyCsl.htm](feats/archetype-02-aFygWxgSv82WyCsl.htm)|Acrobat Dedication|Dévouement d'Acrobate|libre|
 |[archetype-02-AimSmPyiMhJZVZRq.htm](feats/archetype-02-AimSmPyiMhJZVZRq.htm)|Mauler Dedication|Dévouement de Cogneur|libre|
+|[archetype-02-BVxcuJ5TWfN1px4L.htm](feats/archetype-02-BVxcuJ5TWfN1px4L.htm)|Pactbound Dedication|Dévouement de Lié par un pacte|libre|
 |[archetype-02-BwDIwjHasZwcd61Z.htm](feats/archetype-02-BwDIwjHasZwcd61Z.htm)|Spellshot Dedication|Dévouement de Sortiléro|libre|
 |[archetype-02-c4ao7b2T92fiM8jR.htm](feats/archetype-02-c4ao7b2T92fiM8jR.htm)|Living Monolith Dedication|Dévouement de Monolithe vivant|officielle|
 |[archetype-02-CbqaiI0TKsyDywDr.htm](feats/archetype-02-CbqaiI0TKsyDywDr.htm)|Spell Trickster Dedication|Dévouement de Mystificateur de sort|libre|
@@ -1803,6 +1798,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-02-Zyb3RMGyhsKfTjEG.htm](feats/archetype-02-Zyb3RMGyhsKfTjEG.htm)|Wellspring Mage Dedication|Dévouement de mage de la source|libre|
 |[archetype-03-9lyFxaoZjF1ZjVN9.htm](feats/archetype-03-9lyFxaoZjF1ZjVN9.htm)|Know the Beat|Connaissance du Milieu|officielle|
 |[archetype-04-0Dy8RlFqrzCVOTl4.htm](feats/archetype-04-0Dy8RlFqrzCVOTl4.htm)|Thorough Reports|Rapports détaillés|officielle|
+|[archetype-04-0evTnx67DYsxWtg3.htm](feats/archetype-04-0evTnx67DYsxWtg3.htm)|Ice Crafter|Façonneur de glace|libre|
 |[archetype-04-16QBDinolgG2M66d.htm](feats/archetype-04-16QBDinolgG2M66d.htm)|Spellstriker|Frappeur de sort|libre|
 |[archetype-04-1VrV24hhPSEvuKgT.htm](feats/archetype-04-1VrV24hhPSEvuKgT.htm)|Basic Shooting|Tir basique|libre|
 |[archetype-04-1wTXeBrYU6BVEEOn.htm](feats/archetype-04-1wTXeBrYU6BVEEOn.htm)|Stage Fighting|Combat chorégraphié|libre|
@@ -1943,6 +1939,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-04-zBLrZE5aCkpaTK2N.htm](feats/archetype-04-zBLrZE5aCkpaTK2N.htm)|Additional Companion|Compagnon supplémentaire|libre|
 |[archetype-04-zbnL5OP4zVaNFcq8.htm](feats/archetype-04-zbnL5OP4zVaNFcq8.htm)|Snap Out Of It! (Marshal)|Secoue-toi ! (Capitaine)|libre|
 |[archetype-04-zWEu9xuAxBnPoSrv.htm](feats/archetype-04-zWEu9xuAxBnPoSrv.htm)|Disturbing Defense|Défense perturbante|libre|
+|[archetype-06-00uTUJPgJ6kuGR8O.htm](feats/archetype-06-00uTUJPgJ6kuGR8O.htm)|Crown of the Saumen Kar|Couronne du saumen kar|libre|
 |[archetype-06-0Gao1ez4dGH6dIZ2.htm](feats/archetype-06-0Gao1ez4dGH6dIZ2.htm)|Expeditious Advance|Accélération motrice|officielle|
 |[archetype-06-0SbHdwYumvmzwWw3.htm](feats/archetype-06-0SbHdwYumvmzwWw3.htm)|Piston Punch|Coup de poing piston|libre|
 |[archetype-06-18UQefmhcNq6tFav.htm](feats/archetype-06-18UQefmhcNq6tFav.htm)|Rapid Manifestation|Manifestation rapide|libre|
@@ -2245,6 +2242,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-12-FA1s2jjZqoBy58Xx.htm](feats/archetype-12-FA1s2jjZqoBy58Xx.htm)|Secrets of Shadow|Secrets de l'ombre|libre|
 |[archetype-12-FtO8DjjMLBtWiRhZ.htm](feats/archetype-12-FtO8DjjMLBtWiRhZ.htm)|Expert Oracle Spellcasting|Incantation d'Oracle experte|libre|
 |[archetype-12-gHHnMCBi1gvG5wTL.htm](feats/archetype-12-gHHnMCBi1gvG5wTL.htm)|Student Of The Dueling Arts|Étudiant des arts du duel|libre|
+|[archetype-12-gipC9eWrBDFRpNkQ.htm](feats/archetype-12-gipC9eWrBDFRpNkQ.htm)|Frostbite Runes|Runes de froid mordant|libre|
 |[archetype-12-Gu8IAYxwNdQM603P.htm](feats/archetype-12-Gu8IAYxwNdQM603P.htm)|Read the Land|Lire le paysage|libre|
 |[archetype-12-HbBNuT1bqdcCU9hM.htm](feats/archetype-12-HbBNuT1bqdcCU9hM.htm)|Greater Sun Blessing|Bénédiction du soleil supérieure|libre|
 |[archetype-12-HJBDFHIaJ3lfxcbs.htm](feats/archetype-12-HJBDFHIaJ3lfxcbs.htm)|Maneuvering Spell|Sort manœuvrant|libre|
@@ -2323,6 +2321,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-14-SA8rnheHFtjkATrJ.htm](feats/archetype-14-SA8rnheHFtjkATrJ.htm)|Shifting Terrain|Terrain changeant|libre|
 |[archetype-14-TNRB8IY6Wtk9BoMp.htm](feats/archetype-14-TNRB8IY6Wtk9BoMp.htm)|Terrain Shield|Terrain bouclier|libre|
 |[archetype-14-TQCpXi1hwYX6VIhp.htm](feats/archetype-14-TQCpXi1hwYX6VIhp.htm)|Speedy Rituals|Rituels rapides|libre|
+|[archetype-14-UJcuACMlspc1raL1.htm](feats/archetype-14-UJcuACMlspc1raL1.htm)|Curse of the Saumen Kar|Malédiction du suamen kar|libre|
 |[archetype-14-uPikeCzrTrgzEJT8.htm](feats/archetype-14-uPikeCzrTrgzEJT8.htm)|Talismanic Sage|Sage talismanique|libre|
 |[archetype-14-w1GFspPIQ9f5MbFL.htm](feats/archetype-14-w1GFspPIQ9f5MbFL.htm)|Touch Focus|Contact focalisé|libre|
 |[archetype-14-wBL5h0hTmVD4EJLw.htm](feats/archetype-14-wBL5h0hTmVD4EJLw.htm)|Control Tower|Tour de contrôle|libre|
@@ -2335,6 +2334,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-16-gqISxjbTtZSYndZ4.htm](feats/archetype-16-gqISxjbTtZSYndZ4.htm)|Quickened Attunement|Harmonisation accélérée|libre|
 |[archetype-16-jI4Eoi6m0ogjXkGK.htm](feats/archetype-16-jI4Eoi6m0ogjXkGK.htm)|Master Captivator Spellcasting|Incantation maître de captivant|libre|
 |[archetype-16-kVSZQvsz1cYjOwxL.htm](feats/archetype-16-kVSZQvsz1cYjOwxL.htm)|Master Siege Engineer|Maître ingénieur de siège|libre|
+|[archetype-16-MGtlUc6cy4nCM4Lk.htm](feats/archetype-16-MGtlUc6cy4nCM4Lk.htm)|Bound in Ice|Lié à la glace|libre|
 |[archetype-16-qZzRXAa9mNQPUXoW.htm](feats/archetype-16-qZzRXAa9mNQPUXoW.htm)|Controlled Bullet|Balle controlée|libre|
 |[archetype-16-sFAqKrzqXQhtrfqN.htm](feats/archetype-16-sFAqKrzqXQhtrfqN.htm)|Sixth Pillar Mastery|Maîtrise du Sixième pilier|libre|
 |[archetype-16-WoUwDqhA6i6abwen.htm](feats/archetype-16-WoUwDqhA6i6abwen.htm)|Song of Grace and Speed|Chanson de grâce et de rapidité|libre|

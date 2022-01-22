@@ -1,12 +1,12 @@
 # État de la traduction (bestiary-family-ability-glossary)
 
- * **officielle**: 47
+ * **officielle**: 48
  * **libre**: 16
- * **changé**: 52
  * **aucune**: 31
+ * **changé**: 51
 
 
-Dernière mise à jour: 2022-01-20 12:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -49,7 +49,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[0K3vhX14UEPftqu8.htm](bestiary-family-ability-glossary/0K3vhX14UEPftqu8.htm)|(Ghost) Telekinetic Assault|(Fantôme) Assaut télékinésique|changé|
 |[4Aj4FWKObfMYoSvh.htm](bestiary-family-ability-glossary/4Aj4FWKObfMYoSvh.htm)|(Ghost) Beatific Appearance|(Fantôme) Apparence bienheureuse|changé|
 |[5dbzWZbiTyPKgwKS.htm](bestiary-family-ability-glossary/5dbzWZbiTyPKgwKS.htm)|(Graveknight) Graveknight's Curse|(Chevalier sépulcre) Malédiction du chevalier sépulcre|changé|
 |[5DuBTf37u88IrphJ.htm](bestiary-family-ability-glossary/5DuBTf37u88IrphJ.htm)|(Vampire, Basic) Vampire Weaknesses|(Vampire, de base) Faiblesses du vampire|changé|
@@ -108,6 +107,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[08egiRxOvMX97XTc.htm](bestiary-family-ability-glossary/08egiRxOvMX97XTc.htm)|(Werecreature) Change Shape|(Créature garou) Changement de forme|officielle|
 |[0B9eEetIbeSPhulD.htm](bestiary-family-ability-glossary/0B9eEetIbeSPhulD.htm)|(Divine Warden) Divine Domain Spells|(Garde divin) Sorts divins de domaine|libre|
+|[0K3vhX14UEPftqu8.htm](bestiary-family-ability-glossary/0K3vhX14UEPftqu8.htm)|(Ghost) Telekinetic Assault|(Fantôme) Assaut télékinésique|officielle|
 |[4p06ewIsPnWZwuwc.htm](bestiary-family-ability-glossary/4p06ewIsPnWZwuwc.htm)|(Ghost) Lynchpin|(Fantôme) Pilier|libre|
 |[4UEZY3G3CiCP78Kx.htm](bestiary-family-ability-glossary/4UEZY3G3CiCP78Kx.htm)|(Visitant) Wrestle|(Revenant) Lutte|officielle|
 |[5arYoSY5kcRo8TeM.htm](bestiary-family-ability-glossary/5arYoSY5kcRo8TeM.htm)|(Vampire, Vrykolakas) Vrykolakas Vulnerabilities|(Vampire, Vrykolakas) Vulnérabilités des vrykolakas|officielle|

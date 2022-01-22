@@ -1,18 +1,17 @@
 # État de la traduction (classfeatures)
 
  * **officielle**: 174
- * **libre**: 149
- * **changé**: 124
+ * **libre**: 150
+ * **changé**: 123
 
 
-Dernière mise à jour: 2022-01-20 12:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator|Profanateur|changé|
 |[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin|Antipaladin|changé|
 |[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator|Libérateur|changé|
 |[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant|Tyran|changé|
@@ -231,6 +230,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bard-01-YMBsi4bndRAk5CX4.htm](classfeatures/bard-01-YMBsi4bndRAk5CX4.htm)|Maestro|Virtuose|officielle|
 |[bard-11-4lp8oG9A3zuqhPBS.htm](classfeatures/bard-11-4lp8oG9A3zuqhPBS.htm)|Bard Weapon Expertise|expertise avec les armes du barde|officielle|
 |[bard-19-NjsOpWbbzUY2Hpk3.htm](classfeatures/bard-19-NjsOpWbbzUY2Hpk3.htm)|Magnum Opus|Magnum opus|officielle|
+|[champion-01-8YIA0jh64Ecz0TG6.htm](classfeatures/champion-01-8YIA0jh64Ecz0TG6.htm)|Desecrator|Profanateur|libre|
 |[champion-01-ehL7mnkqxN5wIkgu.htm](classfeatures/champion-01-ehL7mnkqxN5wIkgu.htm)|Deity and Cause|Divinité et cause|officielle|
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|officielle|
 |[champion-01-fykh5pE99O3I2sOI.htm](classfeatures/champion-01-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|officielle|

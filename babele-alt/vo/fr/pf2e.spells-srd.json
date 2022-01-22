@@ -1823,7 +1823,7 @@
         {
             "id": "Mind of Menace",
             "name": "Mind of Menace",
-            "description": "<p>Ce sort vous garde contre ceux qui tentent de subvertir votre esprit et retourne la magie mentale contre eux. Lorsque le sort se termine, vous obtenez la réaction @Compendium[pf2e.actionspf2e.hi56uHG1aAb84Zzu]{Combattre avec la peur} ; Lorsque vous utilisez la réaction, le sort se termine.</p>\n<p><span data-pf2-check=\"will\" data-pf2-traits=\"emotion,enchantment,fear,mental\" data-pf2-label=\"DD Combattre avec la peur\" data-pf2-show-dc=\"gm\">Volonté</span></p>"
+            "description": "<p>Ce sort vous garde contre ceux qui tentent de subvertir votre esprit et retourne la magie mentale contre eux. Lorsque le sort se termine, vous obtenez la réaction @Compendium[pf2e.actionspf2e.hi56uHG1aAb84Zzu]{Combattre avec la peur} ; Lorsque vous utilisez la réaction, le sort se termine.</p>\n<p>>@Check[type:will|name:Fight with Fear|traits:enchantment]</p>"
         },
         {
             "id": "Dancing Lights",
@@ -5459,9 +5459,9 @@
         {
             "id": "Sun's Fury",
             "name": "Sun's Fury",
-            "description": "<p>L'arme cible se drape d'une flamme brillante. L'arme inflige [[/r {1d4}[fire]]]{1d4 dégâts de feu} et [[/r {1}[good]]]{1 dégât de bon} supplémentaires sur une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} réussie. De plus, la flamme impose à l'arme de luire aussi brillament qu'une torche. Vous pouvez @Compendium[pf2e.actionspf2e.AjLSHZSWQ90exdLo]{Révoquer le sort}.</p>",
+            "description": "<p>L'arme cible se drape d'une flamme brillante. L'arme inflige [[/r {1d4}[fire]]]{1d4 dégâts de feu} et [[/r {1}[good]]]{1 dégât bon} supplémentaires sur une Frappe réussie. De plus, la flamme impose à l'arme de luire aussi brillament qu'une torche. Vous pouvez @Compendium[pf2e.actionspf2e.AjLSHZSWQ90exdLo]{Révoquer le sort}.</p>",
             "range": "contact",
-            "target": "1 arme sans une rune impie qui n'est pas tenur ou maniée par vous ou un allié volontaire"
+            "target": "1 arme sans rune impie qui est non tenue ou maniée par vous ou un allié consentant"
         },
         {
             "id": "Strange Geometry",
