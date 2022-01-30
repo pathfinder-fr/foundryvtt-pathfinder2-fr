@@ -499,7 +499,7 @@
         {
             "id": "Timely Tutor",
             "name": "Tuteur opportun",
-            "description": "<p>Vous servez de conduit astral entre votre eidolon ou votre familier et les Archives akashiques - un demi-plan composé d'une bibliothèque psychique complète - puis vous vous tournez vers la créature pour obtenir des conseils. Si vous lancez ce sort sur votre familier, ce dernier ajoute votre modificateur de capacité de lanceur de sorts aux tests pour Se souvenir avec la compétence de Connaissance de votre choix, comme il le fait avec Acrobaties et Discrétion. Votre familier doit avoir la capacité de familier @Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]{Parole} pour pouvoir partager avec vous toute information qu'il apprend. Si vous lancez ce sort sur votre eidolon, il devient à la place qualifié dans la compétence de Connaissance.</p>\n<p>Si vous perdez le contact physique avec la cible, son lien avec les archives akashiques est rompu et Tutorat opportun prend immédiatement fin.</p>",
+            "description": "<p>Vous servez de conduit astral entre votre eidolon ou votre familier et les Archives akashiques - un demi-plan composé d'une bibliothèque psychique complète - puis vous vous tournez vers la créature pour obtenir des conseils. Si vous lancez ce sort sur votre familier, ce dernier ajoute votre modificateur de caractéristique de lanceur de sorts aux tests pour Se souvenir avec la compétence de Connaissance de votre choix, comme il le fait avec Acrobaties et Discrétion. Votre familier doit avoir la capacité de familier @Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]{Parole} pour pouvoir partager avec vous toute information qu'il apprend. Si vous lancez ce sort sur votre eidolon, il devient à la place qualifié dans la compétence de Connaissance.</p>\n<p>Si vous perdez le contact physique avec la cible, son lien avec les archives akashiques est rompu et Tutorat opportun prend immédiatement fin.</p>",
             "range": "contact",
             "target": "votre eidolon ou votre familier"
         },
@@ -2514,7 +2514,7 @@
             "id": "Electric Arc",
             "name": "Arc électrique",
             "description": "<p>Un arc électrique bondit d’une cible à l’autre. Vous infligez des dégâts électriques d’un montant égal à 1d4 auquel s'ajoute votre modificateur de caractéristique d’incantation.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d4.</p>",
-            "range": "9 m",
+            "range": "9 mètres",
             "target": "1 ou 2 créatures"
         },
         {
@@ -2641,9 +2641,9 @@
         {
             "id": "Mosquito Blight",
             "name": "Fléau du moustique",
-            "description": "<p>Vous infestez la zone avec des insectes tenaces et piquants qui rendent malade et drainent la vie des créatures de la zone. Les arthropodes (insectes, araignées et autres invertébrés similaires) ne sont pas affectés et bénéficient d'un bonus de statut de +1 aux jets d'attaque, aux tests de compétence, aux jets de sauvegarde et aux tests de perception lorsqu'ils se trouvent dans la zone. Toutes les autres créatures sont harcelées par les insectes et exposées à la maladie Faim de la sorcière lorsqu'elles pénètrent dans la zone et, par la suite, une fois par jour, tant qu'elles restent dans la zone. En lançant ce rituel, vous créez une minuscule ruche d'insectes rituels (Solidité 5, 10 PV) qui doit rester dans la zone du rituel. Si la ruche est retirée ou détruite, l'effet du rituel prend fin 1 heure plus tard.</p>\n<hr />\n<p><strong>Faim de la sorcière</strong> (maladie)</p>\n<p><strong>Jet de sauvegarde</strong> Vigueur</p>\n<p><strong>Durée initiale</strong> [[/r 1d6 #hours]]{1d6 heures}</p>\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 (1 jour)</p>\n<p><strong>Stade 2</strong> Affaibli 2 (1 jour)</p>\n<p><strong>Stade 3</strong> Affaibli 2 et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 (1 jour)</p>\n<p><strong>Stade 4</strong> @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient}</p>\n<p><strong>Stade 5</strong> Mort</p>\n<hr />\n<p><strong>Succès critique</strong> Comme succès, et la maladie est particulièrement mortelle, avec un stade 3 causant l'inconscience et un stade 4 causant la mort.</p>\n<p><strong>Succès</strong> Vous créez la ruche et lancez le rituel.</p>\n<p><strong>Échec</strong> Vous ratez le rituel.</p>\n<p><strong>Échec critique</strong> Vous ratez le rituel et des insectes voraces vous tourmentent, vous exposant immédiatement à la maladie de la Faim de sorcière.</p>",
+            "description": "<p>Vous infestez la zone avec des insectes tenaces et piquants qui rendent malade et drainent la vie des créatures de la zone. Les arthropodes (insectes, araignées et autres invertébrés similaires) ne sont pas affectés et bénéficient d'un bonus de statut de +1 aux jets d'attaque, aux tests de compétence, aux jets de sauvegarde et aux tests de perception lorsqu'ils se trouvent dans la zone. Toutes les autres créatures sont harcelées par les insectes et exposées à la maladie Faim du sorcier lorsqu'elles pénètrent dans la zone et, par la suite, une fois par jour, tant qu'elles restent dans la zone. En lançant ce rituel, vous créez une minuscule ruche d'insectes rituels (Solidité 5, 10 PV) qui doit rester dans la zone du rituel. Si la ruche est retirée ou détruite, l'effet du rituel prend fin 1 heure plus tard.</p>\n<hr />\n<p><strong>Faim du sorcier</strong> (maladie)</p>\n<p><strong>Jet de sauvegarde</strong> Vigueur</p>\n<p><strong>Durée initiale</strong> [[/r 1d6 #hours]]{1d6 heures}</p>\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 (1 jour)</p>\n<p><strong>Stade 2</strong> Affaibli 2 (1 jour)</p>\n<p><strong>Stade 3</strong> Affaibli 2 et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 (1 jour)</p>\n<p><strong>Stade 4</strong> @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient}</p>\n<p><strong>Stade 5</strong> Mort</p>\n<hr />\n<p><strong>Succès critique</strong> Comme succès, et la maladie est particulièrement mortelle, avec un stade 3 causant l'inconscience et un stade 4 causant la mort.</p>\n<p><strong>Succès</strong> Vous créez la ruche et lancez le rituel.</p>\n<p><strong>Échec</strong> Vous ratez le rituel.</p>\n<p><strong>Échec critique</strong> Vous ratez le rituel et des insectes voraces vous tourmentent, vous exposant immédiatement à la maladie de la Faim du sorcier.</p>",
             "range": "cercle de 1,5 kilomètres centré sur vous",
-            "primarycheck": "Nature (expert; vous devez être la sorcière moustique)"
+            "primarycheck": "Nature (expert; vous devez être le sorcier moustique)"
         },
         {
             "id": "Aromatic Lure",
@@ -3471,8 +3471,8 @@
         },
         {
             "id": "Spirit Object",
-            "name": "Animation d'objet",
-            "description": "<p>En utilisant un éclat du pouvoir de Baba Yaga, vous amenez brièvement un objet à la vie. L'objet obtient un moyen de locomotion, tels que des pattes de poulet qui poussent et Marche rapidement jusqu'à 7,5 mètres vers une case que vous décidez à portée. Si vous passez 2 actions à Lancer le sort, l'objet attaque alors une créature de votre choix qui est adjacente à sa nouvelle case. Faites un jet d'attaque de sort au corps-à-coprs contre la créature. En cas de succès, la créature subit des dégâts contondants, perforants ou tranchants (en fonction du type d'objet) égaux à 1d4 plus votre modificateur de caractéristique d'incantation et, sur un succès critique, elle subi le double des dégâts.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmentes l'Encombrement maximum de la cible de 1 et les dégâts de 1d4.</p>",
+            "name": "Objet animé",
+            "description": "<p>En utilisant un éclat du pouvoir de Baba Yaga, vous amenez brièvement un objet à la vie. L'objet obtient un moyen de locomotion, tels que des pattes de poulet qui poussent et Marche rapidement jusqu'à 7,5 mètres vers une case que vous décidez à portée. Si vous passez 2 actions à Lancer le sort, l'objet attaque alors une créature de votre choix qui est adjacente à sa nouvelle case. Faites un jet d'attaque de sort au corps-à-coprs contre la créature. En cas de succès, la créature subit des dégâts contondants, perforants ou tranchants (en fonction du type d'objet) égaux à 1d4 plus votre modificateur de caractéristique d'incantation et, sur un succès critique, elle subi le double des dégâts.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Augmente l'Encombrement maximum que peut avoir la cible de 1 et les dégâts qu'elle inflige de 1d4.</p>",
             "range": "9 mètres",
             "target": "1 objet non tenu d'un Encombrement maximum de 1"
         },
@@ -4060,7 +4060,7 @@
         },
         {
             "id": "Thunderburst",
-            "name": "Explosion tempêtueuse",
+            "name": "Explosion tonitruante",
             "description": "<p>Vous créez une puissante explosion d'air et un bruyant coup de tonnerre infligeant [[/r 2d6 #contondants]]{2d6 dégâts contondants} et [[/r 2d6 #son]]{2d6 dégâts de son}. Chaque créature dans la zone doit faire un jet de Vigueur.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature subit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La créature subit la totalité des dégâts et est @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} pendant 1 minute.</p>\n<p><strong>Échec critique</strong> La créature subit double dégâts et est Sourde pendant 1 heure.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> Augmentez chaque type de dégâts par [[/r 2d6]] et la zone de 1,5 m.</p>",
             "areasize": "explosion de 6 m",
             "range": "30 m"
@@ -4086,8 +4086,8 @@
         },
         {
             "id": "Life Connection",
-            "name": "Lien vital",
-            "description": "<p>Lorsque vous lancez ce sort, vous placez une sécurité intégrée profondément au sein de la force vitale de la cible. Vous pouvez sentir lorsque la cible subit des dégâts, pourvu que vous soyez dans les 1,5 km l'un de l'autre. Une créature ne peut avoir plus d'un lien vital de manière simultanée. Lorsque le sort est terminé, vous obtenez la réaction @Compendium[pf2e.actionspf2e.5V49l0K460CcvBOO]{Défendre la vie} ; une fois que vous utilisez la réaction, le sort se termine.</p>",
+            "name": "Connexion vitale",
+            "description": "<p>Lorsque vous lancez ce sort, vous placez une sécurité intégrée profondément au sein de la force vitale de la cible. Vous pouvez sentir lorsque la cible subit des dégâts, pourvu que vous soyez dans les 1,5 km l'un de l'autre. Une créature ne peut avoir plus d'une connexion vitale de manière simultanée. Lorsque le sort est terminé, vous obtenez la réaction @Compendium[pf2e.actionspf2e.5V49l0K460CcvBOO]{Défendre la vie} ; une fois que vous utilisez la réaction, le sort se termine.</p>",
             "range": "contact",
             "target": "1 créature vivante"
         },
@@ -6611,9 +6611,10 @@
         {
             "id": "Mother's Blessing",
             "name": "Bénédiction de la Mère",
-            "description": "<p>Vous tentez de purifier et de stabiliser la vie contenue dans la dernière couvée d'œufs d'Ugrem-Axaan. Par cette bénédiction, vous lavez les œufs de toute trace de l'impureté de la morts-vivance et vous les enterrez dans le sable chaud au bord d'une rivière du Garund.</p>\n<hr />\n<p><trong>Succès critique</strong> Le rituel est réussi et les œufs éclosent, donnant vie à une espèce ancienne amenée au bord de l'exctinction par la Aucun leu habitat naturel.</p>\n<p><strong>Succès</strong> Comme succès critique mais seule la moitié des œufs éclosent (arrondi). Vous pouvez réessayer pour le reste des œufs.</p>\n<p><0trong>Échec</strong> Aucuneffet et vous devez attendore une semaine avant de réessayer le rituel.</p>\np><strong>Échec critique</strong> 90% des œufs explosent (arrondi). Vous devez attendre un mois avant de réessayer le rituel.</p>",
+            "description": "<p>Vous tentez de purifier et de stabiliser la vie contenue dans la dernière couvée d'œufs d'Ugrem-Axaan. Par cette bénédiction, vous lavez les œufs de toute trace de l'impureté de la morts-vivance et vous les enterrez dans le sable chaud au bord d'une rivière du Garund.</p>\n<hr />\n<p><trong>Succès critique</strong> Le rituel est réussi et les œufs éclosent, donnant vie à une espèce ancienne amenée au bord de l'exctinction par la Aucun leu habitat naturel.</p>\n<p><strong>Succès</strong> Comme succès critique mais seule la moitié des œufs éclosent (arrondi). Vous pouvez réessayer pour le reste des œufs.</p>\n<p><strong>Échec</strong> Aucuneffet et vous devez attendore une semaine avant de réessayer le rituel.</p>\np><strong>Échec critique</strong> 90% des œufs explosent (arrondi). Vous devez attendre un mois avant de réessayer le rituel.</p>",
             "target": "œufs d'Ulgrem Axzaan",
             "secondarycaster": "03",
+            "primarycheck": "Nature (expert)",
             "secondarycheck": "Artisanat, Médecine, 0urvie"
         },
         {

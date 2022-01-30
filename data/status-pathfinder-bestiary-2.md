@@ -1,10 +1,10 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 34
- * **changé**: 324
+ * **libre**: 35
+ * **changé**: 323
 
 
-Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -38,7 +38,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6Me4Q1JDupyCCnGg.htm](pathfinder-bestiary-2/6Me4Q1JDupyCCnGg.htm)|Ice Mephit|Méphite de glace (Élémentaire)|changé|
 |[6tKVMKDdvbp0VhZD.htm](pathfinder-bestiary-2/6tKVMKDdvbp0VhZD.htm)|Slime Mold|Moisissure vaseuse|changé|
 |[6wpHJXze0RLxl780.htm](pathfinder-bestiary-2/6wpHJXze0RLxl780.htm)|Behir|Béhir|changé|
-|[6xioRweZ0T4o4X9e.htm](pathfinder-bestiary-2/6xioRweZ0T4o4X9e.htm)|Witchfire|Feu de sorcière|changé|
 |[6YOyTHRGqkYl2Prb.htm](pathfinder-bestiary-2/6YOyTHRGqkYl2Prb.htm)|Wolverine|Glouton|changé|
 |[6ZLs4H4gjVyb3yV7.htm](pathfinder-bestiary-2/6ZLs4H4gjVyb3yV7.htm)|Petitioner (Elysium)|Pétitionnaire (Élysée)|changé|
 |[7EppoGdIcmd0AV9B.htm](pathfinder-bestiary-2/7EppoGdIcmd0AV9B.htm)|Onidoshi|Onidoshi (Oni)|changé|
@@ -347,6 +346,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[32HHvah2Ji6FjJnM.htm](pathfinder-bestiary-2/32HHvah2Ji6FjJnM.htm)|Giant Squid|Calamar géant|libre|
 |[340AwQpRXGblw1kF.htm](pathfinder-bestiary-2/340AwQpRXGblw1kF.htm)|Sarglagon|Sarglagon (Diable)|libre|
 |[3DSqfobadad3pA6O.htm](pathfinder-bestiary-2/3DSqfobadad3pA6O.htm)|Giant Fly|Mouche géante|libre|
+|[6xioRweZ0T4o4X9e.htm](pathfinder-bestiary-2/6xioRweZ0T4o4X9e.htm)|Witchfire|Feu de sorcier|libre|
 |[73qJxJK8ES4Tbp2k.htm](pathfinder-bestiary-2/73qJxJK8ES4Tbp2k.htm)|Lurker In Light|Rôdeur de lumière (Fey)|libre|
 |[7UBCht1tQfeba2Ih.htm](pathfinder-bestiary-2/7UBCht1tQfeba2Ih.htm)|Wood Golem|Golem de bois|libre|
 |[B8dOh27iarR7rZI3.htm](pathfinder-bestiary-2/B8dOh27iarR7rZI3.htm)|Blindheim|Aveugleur|libre|

@@ -2,7 +2,8 @@ Name: Clockwork Celerity
 Nom: Célérité mécanique
 PrereqEN: |armor, construct, or weapon innovation
 PrereqFR: innovation d'arme, d'armure ou de créature artificielle
-État: libre
+État: changé
+État d'origine: libre
 
 ------ Description (en) ------
 <p><strong>Trigger</strong> Your turn begins.</p>
@@ -13,6 +14,9 @@ PrereqFR: innovation d'arme, d'armure ou de créature artificielle
 <li><strong>Construct</strong> You can use the extra action to Command your construct innovation (or to provide 1 of the actions if you spend 2 actions to Command your construct).</li>
 <li><strong>Weapon</strong> You can use the extra action to Strike with your innovation or Reload your innovation.</li>
 </ul>
+<p>@Check[type:flat|dc:17|name:Unstable Flat Check|traits:unstable|showDC:all]{Unstable Check}</p>
+<p>On a failure, the innovation malfunctions in a spectacular (though harmless) fashion, such as a belch of smoke or shower of sparks, and it becomes incapable of being used for further unstable actions.</p>
+<p>On a critical failure, you also take [[{@actor.level}[fire]][fire damage equal to your level}.</p>
 ------ Description (fr) ------
 <p><strong>Déclencheur</strong> Votre tour commence.</p>
 <hr />

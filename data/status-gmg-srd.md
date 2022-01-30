@@ -1,10 +1,10 @@
 # État de la traduction (gmg-srd)
 
- * **changé**: 57
- * **officielle**: 41
+ * **changé**: 56
+ * **officielle**: 42
 
 
-Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -41,7 +41,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IJ3nFDu2YcoP6ynd.htm](gmg-srd/IJ3nFDu2YcoP6ynd.htm)|Throne|Trône|changé|
 |[Ip6kSKGhl3XHQZ93.htm](gmg-srd/Ip6kSKGhl3XHQZ93.htm)|Robbed|Dépouillé|changé|
 |[j9kx5CzfulaFTMOE.htm](gmg-srd/j9kx5CzfulaFTMOE.htm)|Academy Trained|Formation universitaire|changé|
-|[JHQI2skcksaLMPqA.htm](gmg-srd/JHQI2skcksaLMPqA.htm)|Kindly Witch|Sorcière bienveillante|changé|
 |[jtgfTYpcv4FFpWsL.htm](gmg-srd/jtgfTYpcv4FFpWsL.htm)|Died|Mort|changé|
 |[jVh90bfsC6w6iVyy.htm](gmg-srd/jVh90bfsC6w6iVyy.htm)|Euryale (curse)|Euryale (malédiction)|changé|
 |[LekxXsOgEwMODqCS.htm](gmg-srd/LekxXsOgEwMODqCS.htm)|Animal Helpers|Amis des animaux|changé|
@@ -99,6 +98,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Gm4AtuFNRgOnzsmF.htm](gmg-srd/Gm4AtuFNRgOnzsmF.htm)|Simple Village|Simple village|officielle|
 |[Gr4v8ROPCxi4hvAO.htm](gmg-srd/Gr4v8ROPCxi4hvAO.htm)|Religious Community|Communauté religieuse|officielle|
 |[HkMzwjBTGgQgsOCW.htm](gmg-srd/HkMzwjBTGgQgsOCW.htm)|Cosmopolitan City|Cité cosmopolite|officielle|
+|[JHQI2skcksaLMPqA.htm](gmg-srd/JHQI2skcksaLMPqA.htm)|Kindly Witch|Sorcière bienveillante|officielle|
 |[KtkDaTrkBwwupKcE.htm](gmg-srd/KtkDaTrkBwwupKcE.htm)|The Wanderer|Le voyageur|officielle|
 |[MCIp76IWZ2pk7dyz.htm](gmg-srd/MCIp76IWZ2pk7dyz.htm)|The Criminal|Le criminel|officielle|
 |[mg7oMp0cNa0GJMCS.htm](gmg-srd/mg7oMp0cNa0GJMCS.htm)|The Lover|L'amant|officielle|

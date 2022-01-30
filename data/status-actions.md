@@ -1,28 +1,31 @@
 # État de la traduction (actions)
 
- * **officielle**: 110
- * **libre**: 153
- * **changé**: 3
- * **aucune**: 2
+ * **officielle**: 109
+ * **libre**: 152
+ * **changé**: 5
+ * **aucune**: 3
 
 
-Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[h4Tzdhqfryp5m2fO.htm](actions/h4Tzdhqfryp5m2fO.htm)|Harvest Heartsilver|
+|[h4Tzdhqfryp5m2fO.htm](actions/h4Tzdhqfryp5m2fO.htm)|Harvest Heartsliver|
 |[iBf9uGn5LOHkWpZ6.htm](actions/iBf9uGn5LOHkWpZ6.htm)|Craft Disharmonic Instrument|
+|[KAVf7AmRnbCAHrkT.htm](actions/KAVf7AmRnbCAHrkT.htm)|Attack of Opportunity|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[5Vuhf4DjvMvRqiEZ.htm](actions/5Vuhf4DjvMvRqiEZ.htm)|Breath Weapon (Negative) (Cone)|Arme de souffle négative (cône)|changé|
+|[BlAOM2X92SI6HMtJ.htm](actions/BlAOM2X92SI6HMtJ.htm)|Seek|Chercher|changé|
 |[HbejhIywqIufrmVM.htm](actions/HbejhIywqIufrmVM.htm)|Arcane Cascade|Cascade arcanique|changé|
 |[I9k9qe4gOT8UVK4e.htm](actions/I9k9qe4gOT8UVK4e.htm)|Mist Blending|Se fondre dans la brume|changé|
+|[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|Exploser|changé|
 
 ## Liste des traductions complétés
 
@@ -43,7 +46,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2HJ4yuEFY1Cast4h.htm](actions/2HJ4yuEFY1Cast4h.htm)|High Jump|Sauter en hauteur|officielle|
 |[2KV87ponbWXgGIhZ.htm](actions/2KV87ponbWXgGIhZ.htm)|Act Together|Agir ensemble|libre|
 |[2u915NdUyQan6uKF.htm](actions/2u915NdUyQan6uKF.htm)|Demoralize|Démoraliser|officielle|
-|[34E7k2YRcsOU5uyl.htm](actions/34E7k2YRcsOU5uyl.htm)|Change Shape (Anadi)|Changer de forme (anadi)|libre|
+|[34E7k2YRcsOU5uyl.htm](actions/34E7k2YRcsOU5uyl.htm)|Change Shape (Anadi)|Changer de forme (Anadi)|libre|
 |[3cuTA58ObXhuFX2r.htm](actions/3cuTA58ObXhuFX2r.htm)|Bend Time|Courber le temps|libre|
 |[3D9kGfwg4LUZBR9A.htm](actions/3D9kGfwg4LUZBR9A.htm)|Overdrive|Surrégime|libre|
 |[3f5DMFu8fPiqHpRg.htm](actions/3f5DMFu8fPiqHpRg.htm)|Sustain a Spell|Maintenir un sort|officielle|
@@ -89,7 +92,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bcxarzksqt9ezrs6.htm](actions/Bcxarzksqt9ezrs6.htm)|Stride|Marcher rapidement|officielle|
 |[bG91dbtbgOnw7Ofx.htm](actions/bG91dbtbgOnw7Ofx.htm)|Board|Monter à bord|libre|
 |[BKnN9la3WNrRgZ6n.htm](actions/BKnN9la3WNrRgZ6n.htm)|Conduct Energy|Conduire l'énergie|libre|
-|[BlAOM2X92SI6HMtJ.htm](actions/BlAOM2X92SI6HMtJ.htm)|Seek|Chercher|officielle|
 |[bp0Up04x3dzGK5bB.htm](actions/bp0Up04x3dzGK5bB.htm)|Debilitating Strike|Frappe incapacitante|officielle|
 |[bT3skovyLUtP22ME.htm](actions/bT3skovyLUtP22ME.htm)|Repair|Réparer|officielle|
 |[c8TGiZ48ygoSPofx.htm](actions/c8TGiZ48ygoSPofx.htm)|Swim|Nager|officielle|
@@ -188,7 +190,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[MY6z2b4GPhAD2Eoa.htm](actions/MY6z2b4GPhAD2Eoa.htm)|Share Life|Partager la vie|libre|
 |[n5vwBnLSlIXL9ptp.htm](actions/n5vwBnLSlIXL9ptp.htm)|Manifest Eidolon|Manifester l'eidolon|libre|
 |[N6U02s9qJKQIvmQd.htm](actions/N6U02s9qJKQIvmQd.htm)|Wish for Luck|Souhait de bonne fortune|libre|
-|[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|Exploser|libre|
 |[nbfNETdpee8CVM17.htm](actions/nbfNETdpee8CVM17.htm)|Flurry of Blows|Déluge de coups|officielle|
 |[NEBuuhjZE9BL3I8v.htm](actions/NEBuuhjZE9BL3I8v.htm)|Breath Weapon (Poison) (Cone)|Arme de souffle empoisonné (cône)|libre|
 |[nSTMF6kYIt6rXhJx.htm](actions/nSTMF6kYIt6rXhJx.htm)|Seething Frenzy|Frénésie bouillonnante|libre|

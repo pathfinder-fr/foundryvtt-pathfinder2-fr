@@ -1,18 +1,30 @@
 # État de la traduction (spells)
 
- * **libre**: 606
- * **officielle**: 555
- * **changé**: 1
+ * **libre**: 604
+ * **officielle**: 554
+ * **changé**: 4
+ * **aucune**: 3
 
 
-Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[divination-02-eW7DqGEvU50CDHqc.htm](spells/divination-02-eW7DqGEvU50CDHqc.htm)|Pack Attack|
+|[divination-03-oLylenH2jlP5UbRT.htm](spells/divination-03-oLylenH2jlP5UbRT.htm)|Painted Scout|
+|[enchantment-02-VJW3IzDpAFio7uls.htm](spells/enchantment-02-VJW3IzDpAFio7uls.htm)|Impart Empathy|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[necromancy-05-qVXraYXlTjissCaG.htm](spells/necromancy-05-qVXraYXlTjissCaG.htm)|Mother's Blessing|Bénédiction de la Mère|changé|
+|[abjuration-06-Er9XNUlL0wB0PM36.htm](spells/abjuration-06-Er9XNUlL0wB0PM36.htm)|Ward Domain|Protection de domaine|changé|
+|[conjuration-06-fRUxp4G9kG816XAt.htm](spells/conjuration-06-fRUxp4G9kG816XAt.htm)|Lure Dream|Attirer le rêve|changé|
+|[necromancy-04-ikSb3LRGnrwXJBVX.htm](spells/necromancy-04-ikSb3LRGnrwXJBVX.htm)|Vital Beacon|Fanal de vie|changé|
+|[transmutation-07-9aFg4EuOBVz0i3Lb.htm](spells/transmutation-07-9aFg4EuOBVz0i3Lb.htm)|Corrosive Body|Corps corrosif|changé|
 
 ## Liste des traductions complétés
 
@@ -117,7 +129,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-06-2ykmAVKrsAWcazcC.htm](spells/abjuration-06-2ykmAVKrsAWcazcC.htm)|Planar Binding|Contrat planaire|officielle|
 |[abjuration-06-8Umt1AzYfFbC4fui.htm](spells/abjuration-06-8Umt1AzYfFbC4fui.htm)|Spellwrack|Ravages magiques|officielle|
 |[abjuration-06-9W2Qv0wXLg6tQg3y.htm](spells/abjuration-06-9W2Qv0wXLg6tQg3y.htm)|Scintillating Safeguard|Précaution scintillante|libre|
-|[abjuration-06-Er9XNUlL0wB0PM36.htm](spells/abjuration-06-Er9XNUlL0wB0PM36.htm)|Ward Domain|Protection de domaine|libre|
 |[abjuration-06-kLxJx7BECVgHh2vb.htm](spells/abjuration-06-kLxJx7BECVgHh2vb.htm)|Temporal Ward|Protection temporelle|libre|
 |[abjuration-06-pZc8ZwtsyWnxUUW0.htm](spells/abjuration-06-pZc8ZwtsyWnxUUW0.htm)|Primal Call|Appel primordial|officielle|
 |[abjuration-06-USM530HlzZ1RMd99.htm](spells/abjuration-06-USM530HlzZ1RMd99.htm)|Champion's Sacrifice|Sacrifice du champion|officielle|
@@ -243,7 +254,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-06-69L70wKfGDY66Mk9.htm](spells/conjuration-06-69L70wKfGDY66Mk9.htm)|Teleport|Téléportation|officielle|
 |[conjuration-06-c3XygMbzrZMgV1y3.htm](spells/conjuration-06-c3XygMbzrZMgV1y3.htm)|Collective Transposition|Transposition collective|libre|
 |[conjuration-06-Cpj05laa7ogqGwS3.htm](spells/conjuration-06-Cpj05laa7ogqGwS3.htm)|Elemental Confluence|Confluence élémentaire|libre|
-|[conjuration-06-fRUxp4G9kG816XAt.htm](spells/conjuration-06-fRUxp4G9kG816XAt.htm)|Lure Dream|Attirer le rêve|libre|
 |[conjuration-06-In2A7GCyxxaqZdPI.htm](spells/conjuration-06-In2A7GCyxxaqZdPI.htm)|Moonlight Bridge|Pont de Lumière lunaire|libre|
 |[conjuration-06-JbAcSLu62TU1OgNF.htm](spells/conjuration-06-JbAcSLu62TU1OgNF.htm)|Tangling Creepers|Entraves végétales|officielle|
 |[conjuration-06-kwlKUxEuT8T15YW6.htm](spells/conjuration-06-kwlKUxEuT8T15YW6.htm)|Primal Summons|Convocations primordiales|officielle|
@@ -653,7 +663,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-03-kuZnUNrhXHRYQ2eM.htm](spells/evocation-03-kuZnUNrhXHRYQ2eM.htm)|Eidolon's Wrath|Courroux de l'eidolon|libre|
 |[evocation-03-kvZCQz4NoMAfjvif.htm](spells/evocation-03-kvZCQz4NoMAfjvif.htm)|Gasping Marsh|Bouffée de marais|libre|
 |[evocation-03-L37RTc7K79OUpZ7X.htm](spells/evocation-03-L37RTc7K79OUpZ7X.htm)|Interstellar Void|Vide intersidéral|libre|
-|[evocation-03-LFSwMtQVP05EzlZe.htm](spells/evocation-03-LFSwMtQVP05EzlZe.htm)|Thunderburst|Explosion tempêtueuse|libre|
+|[evocation-03-LFSwMtQVP05EzlZe.htm](spells/evocation-03-LFSwMtQVP05EzlZe.htm)|Thunderburst|Explosion tonitruante|libre|
 |[evocation-03-LrFUj76CHDBV0vHW.htm](spells/evocation-03-LrFUj76CHDBV0vHW.htm)|Sun's Fury|Furie du soleil|libre|
 |[evocation-03-mtlyAyf30JnIvxVn.htm](spells/evocation-03-mtlyAyf30JnIvxVn.htm)|Moonlight Ray|Rayon de lumière de lune|libre|
 |[evocation-03-N0h3UodJFKdNQw1Y.htm](spells/evocation-03-N0h3UodJFKdNQw1Y.htm)|Dragon Breath (Brass)|Souffle de dragon (Airain)|libre|
@@ -891,7 +901,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-01-vQuwLqtFFYt0K15N.htm](spells/necromancy-01-vQuwLqtFFYt0K15N.htm)|Goodberry|Baie nourricière|officielle|
 |[necromancy-01-wdA52JJnsuQWeyqz.htm](spells/necromancy-01-wdA52JJnsuQWeyqz.htm)|Harm|Mise à mal|officielle|
 |[necromancy-01-yHujiDQPdtXW797e.htm](spells/necromancy-01-yHujiDQPdtXW797e.htm)|Spirit Link|Lien spirituel|officielle|
-|[necromancy-01-yp4w9SG4RuqRM8KD.htm](spells/necromancy-01-yp4w9SG4RuqRM8KD.htm)|Spirit Object|Animation d'objet|libre|
+|[necromancy-01-yp4w9SG4RuqRM8KD.htm](spells/necromancy-01-yp4w9SG4RuqRM8KD.htm)|Spirit Object|Objet animé|libre|
 |[necromancy-01-zJQnkKEKbJqGB3iB.htm](spells/necromancy-01-zJQnkKEKbJqGB3iB.htm)|Goblin Pox|Variole Gobeline|officielle|
 |[necromancy-01-Zmh4ynfnCtwKeAYl.htm](spells/necromancy-01-Zmh4ynfnCtwKeAYl.htm)|Heal Animal|Guérison des animaux|officielle|
 |[necromancy-01-zNN9212H2FGfM7VS.htm](spells/necromancy-01-zNN9212H2FGfM7VS.htm)|Lay on Hands|Imposition des mains|officielle|
@@ -930,7 +940,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-03-gIVaSCrLhhBzGHQY.htm](spells/necromancy-03-gIVaSCrLhhBzGHQY.htm)|Reincarnate|Réincarnation|libre|
 |[necromancy-03-GUeRTriJkMlMlVrk.htm](spells/necromancy-03-GUeRTriJkMlMlVrk.htm)|Bind Undead|Lier un mort-vivant|officielle|
 |[necromancy-03-gWmLT5SkA0qH2mNE.htm](spells/necromancy-03-gWmLT5SkA0qH2mNE.htm)|Envenom Companion|Compagnon venimeux|libre|
-|[necromancy-03-HIY4XUJZKmFLAJTn.htm](spells/necromancy-03-HIY4XUJZKmFLAJTn.htm)|Life Connection|Lien vital|libre|
+|[necromancy-03-HIY4XUJZKmFLAJTn.htm](spells/necromancy-03-HIY4XUJZKmFLAJTn.htm)|Life Connection|Connexion vitale|libre|
 |[necromancy-03-N1Z1oLPdBxaSgrEE.htm](spells/necromancy-03-N1Z1oLPdBxaSgrEE.htm)|Vampiric Touch|Contact vampirique|officielle|
 |[necromancy-03-pSNLufPPsReKQtJR.htm](spells/necromancy-03-pSNLufPPsReKQtJR.htm)|Armor of Bones|Armure d'os|libre|
 |[necromancy-03-RneiyehRO6f7LP44.htm](spells/necromancy-03-RneiyehRO6f7LP44.htm)|Remove Disease|Délivrance des maladies|officielle|
@@ -954,7 +964,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-04-gfKhtVsXF3HKSdmY.htm](spells/necromancy-04-gfKhtVsXF3HKSdmY.htm)|Seal Fate|Sceller le destin|libre|
 |[necromancy-04-gzvRDpM6EvcfYHeu.htm](spells/necromancy-04-gzvRDpM6EvcfYHeu.htm)|Tireless Worker|Travailleur infatigable|libre|
 |[necromancy-04-hdzyDrRdHSse88XM.htm](spells/necromancy-04-hdzyDrRdHSse88XM.htm)|Extract Brain|Extraction du cerveau|libre|
-|[necromancy-04-ikSb3LRGnrwXJBVX.htm](spells/necromancy-04-ikSb3LRGnrwXJBVX.htm)|Vital Beacon|Fanal de vie|officielle|
 |[necromancy-04-J5MNC4xq3CHH31qT.htm](spells/necromancy-04-J5MNC4xq3CHH31qT.htm)|Eradicate Undeath|Éradication de la non-mort|officielle|
 |[necromancy-04-Jli9WBjQZ2MmKJ8y.htm](spells/necromancy-04-Jli9WBjQZ2MmKJ8y.htm)|Spiritual Anamnesis|Anamnèse spirituelle|libre|
 |[necromancy-04-LVwmAH5NGvTuuQSU.htm](spells/necromancy-04-LVwmAH5NGvTuuQSU.htm)|Swarming Wasp Stings|Nuée de dards de guêpes|libre|
@@ -985,6 +994,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-05-nQS4vPm5zprqkzFZ.htm](spells/necromancy-05-nQS4vPm5zprqkzFZ.htm)|Curse of Death|Malédiction de mort|libre|
 |[necromancy-05-pCvJ4yoZJxDtgUMI.htm](spells/necromancy-05-pCvJ4yoZJxDtgUMI.htm)|Restorative Moment|Moment restoratif|libre|
 |[necromancy-05-PgDFDvX64eswapSS.htm](spells/necromancy-05-PgDFDvX64eswapSS.htm)|Ectoplasmic Expulsion|Excision ectoplasmique|libre|
+|[necromancy-05-qVXraYXlTjissCaG.htm](spells/necromancy-05-qVXraYXlTjissCaG.htm)|Mother's Blessing|Bénédiction de la Mère|libre|
 |[necromancy-05-rnFAHvKpcsU4BJD4.htm](spells/necromancy-05-rnFAHvKpcsU4BJD4.htm)|Shall not Falter, Shall not Rout|Tu ne faibliras pas, tu ne prendras pas la fuite|libre|
 |[necromancy-05-RWwiFnjxoJXn7H6D.htm](spells/necromancy-05-RWwiFnjxoJXn7H6D.htm)|Mind Swap|Échange d'esprit|libre|
 |[necromancy-05-SzKkzq3Rr6vKIxbp.htm](spells/necromancy-05-SzKkzq3Rr6vKIxbp.htm)|Shepherd of Souls|Berger des âmes|libre|
@@ -1162,7 +1172,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-06-zhqnMOVPzVvWSUbC.htm](spells/transmutation-06-zhqnMOVPzVvWSUbC.htm)|Tempest Form|Forme tempêtueuse|libre|
 |[transmutation-06-znv4ECL7ZtuiagtA.htm](spells/transmutation-06-znv4ECL7ZtuiagtA.htm)|Flesh to Stone|Chair en pierre|officielle|
 |[transmutation-07-3MzuRDc7ccylpW2e.htm](spells/transmutation-07-3MzuRDc7ccylpW2e.htm)|Hasted Assault|Assaut hâtif|libre|
-|[transmutation-07-9aFg4EuOBVz0i3Lb.htm](spells/transmutation-07-9aFg4EuOBVz0i3Lb.htm)|Corrosive Body|Corps corrosif|libre|
 |[transmutation-07-E3zIZ4pjlOuWeGRz.htm](spells/transmutation-07-E3zIZ4pjlOuWeGRz.htm)|Angel Form|Forme d'ange|libre|
 |[transmutation-07-hiVL8qsnTJtpouw0.htm](spells/transmutation-07-hiVL8qsnTJtpouw0.htm)|Divine Vessel|Réceptacle divin|officielle|
 |[transmutation-07-IHUs4qn27RrdFQ5Y.htm](spells/transmutation-07-IHUs4qn27RrdFQ5Y.htm)|Cosmic Form|Forme cosmique|libre|

@@ -1,20 +1,12 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 256
+ * **libre**: 258
  * **officielle**: 49
- * **changé**: 2
 
 
-Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[IfpYRxN8qyV4ym0o.htm](backgrounds/IfpYRxN8qyV4ym0o.htm)|Purveyor of the Bizzare|Fournisseur de Bizarreries|changé|
-|[khGFmnQMBYmz2ONR.htm](backgrounds/khGFmnQMBYmz2ONR.htm)|Sarkorian Reclaimer|Reconquérant du Sarkoris|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -108,7 +100,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bvPPc10SYahijgLr.htm](backgrounds/bvPPc10SYahijgLr.htm)|Eidolon Contact (Occultism)|Contact d'Eidolon (Occultisme)|libre|
 |[BxQ4QaNaodIw3pWu.htm](backgrounds/BxQ4QaNaodIw3pWu.htm)|Sponsored by a Stranger (Occultism)|Soutenu par un étranger (Occultisme)|libre|
 |[byyceQSVT0H5GfNB.htm](backgrounds/byyceQSVT0H5GfNB.htm)|Anti-Magical|Anti-Magie|libre|
-|[BZhPPw9VD9U2ur6B.htm](backgrounds/BZhPPw9VD9U2ur6B.htm)|Witchlight Follower|Suiveur de lumière de sorcière|libre|
+|[BZhPPw9VD9U2ur6B.htm](backgrounds/BZhPPw9VD9U2ur6B.htm)|Witchlight Follower|Suiveur de lumière de sorcier|libre|
 |[CAjQrHZZbALE7Qjy.htm](backgrounds/CAjQrHZZbALE7Qjy.htm)|Acolyte|Acolyte|officielle|
 |[cFdndc4pMWhnRUOY.htm](backgrounds/cFdndc4pMWhnRUOY.htm)|Teacher (Performance)|Enseignant (Représentation)|libre|
 |[CKU1sbFofcwZUJMx.htm](backgrounds/CKU1sbFofcwZUJMx.htm)|Ex-Con Token Guard|Garde des Pièces ancien taulard|libre|
@@ -167,6 +159,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[iaM6TjvijLCgiHeD.htm](backgrounds/iaM6TjvijLCgiHeD.htm)|Returning Descendant|Descendant de retour|officielle|
 |[IbF2EGUlnTsyqG44.htm](backgrounds/IbF2EGUlnTsyqG44.htm)|Learned Guard Prodigy (Arcana)|Prodige de la Garde instruite (Arcanes)|libre|
 |[IFHYbU6Nu8BiTsRa.htm](backgrounds/IFHYbU6Nu8BiTsRa.htm)|Acrobat|Acrobate|officielle|
+|[IfpYRxN8qyV4ym0o.htm](backgrounds/IfpYRxN8qyV4ym0o.htm)|Purveyor of the Bizzare|Fournisseur de Bizarreries|libre|
 |[IMrOWZkxXtkOeTy6.htm](backgrounds/IMrOWZkxXtkOeTy6.htm)|Sponsored by Teacher Ot (Performance)|Soutenu par Professeur Ot (Représentation)|libre|
 |[IoBhge83aYpq0pPV.htm](backgrounds/IoBhge83aYpq0pPV.htm)|Archaeologist|Archéologue|libre|
 |[IObZEUz8wneEMgR3.htm](backgrounds/IObZEUz8wneEMgR3.htm)|Deckhand|Homme de pont|libre|
@@ -184,6 +177,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[jpgO5zofecGeyXd5.htm](backgrounds/jpgO5zofecGeyXd5.htm)|Occult Librarian|Bibilothécaire occulte|libre|
 |[KC5oI1bs6Wx8h91u.htm](backgrounds/KC5oI1bs6Wx8h91u.htm)|Deputy|Adjoint|libre|
 |[kdkbDdvgw6KAKVeM.htm](backgrounds/kdkbDdvgw6KAKVeM.htm)|Hermit (Nature)|Ermite (Nature)|officielle|
+|[khGFmnQMBYmz2ONR.htm](backgrounds/khGFmnQMBYmz2ONR.htm)|Sarkorian Reclaimer|Reconquérant du Sarkoris|libre|
 |[kLjqmylGOXeQ5o5Y.htm](backgrounds/kLjqmylGOXeQ5o5Y.htm)|Bonuwat Wavetouched|Bonuwat Touché par les vagues|libre|
 |[kmhZZgR7KlBzRBX0.htm](backgrounds/kmhZZgR7KlBzRBX0.htm)|Driver|Pilote|libre|
 |[KMv7ollLVaZ81XDV.htm](backgrounds/KMv7ollLVaZ81XDV.htm)|Merchant|Marchand|officielle|

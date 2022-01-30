@@ -1,11 +1,11 @@
 # État de la traduction (archetypes)
 
- * **changé**: 76
- * **aucune**: 7
- * **libre**: 2
+ * **changé**: 75
+ * **aucune**: 8
+ * **libre**: 3
 
 
-Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -16,6 +16,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[7G7cRmS3HO2iUElx.htm](archetypes/7G7cRmS3HO2iUElx.htm)|Artillerist|
 |[ARb0Q9D2gmqalPnM.htm](archetypes/ARb0Q9D2gmqalPnM.htm)|Beast Gunner|
 |[CmCmbpn10LJcjH78.htm](archetypes/CmCmbpn10LJcjH78.htm)|Sixth Pillar|
+|[j5fPf7JyXvprcA8L.htm](archetypes/j5fPf7JyXvprcA8L.htm)|Game Hunter|
 |[O9aKJ2C3MvHKFmcO.htm](archetypes/O9aKJ2C3MvHKFmcO.htm)|Bullet Dancer|
 |[pgesyqPUJSHKsbGv.htm](archetypes/pgesyqPUJSHKsbGv.htm)|Butterfly Blade|
 |[S82AsQp9Iyjff12F.htm](archetypes/S82AsQp9Iyjff12F.htm)|Golden League Xun|
@@ -79,7 +80,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[RvjlaAPa2Wkdhrms.htm](archetypes/RvjlaAPa2Wkdhrms.htm)|Horizon Walker|Arpenteur d'horizon|changé|
 |[RyjrUkqSIg52Mjl8.htm](archetypes/RyjrUkqSIg52Mjl8.htm)|Runescarred|Scarifié des runes|changé|
 |[s7kWIaeCdj3IFte9.htm](archetypes/s7kWIaeCdj3IFte9.htm)|Jalmeri Heavenseeker|Chercheur de paradis du Jalmeray|changé|
-|[SAyPnVRucJa8k4MN.htm](archetypes/SAyPnVRucJa8k4MN.htm)|Witch|Sorcière|changé|
 |[SbvhfCo5gFVt1DgD.htm](archetypes/SbvhfCo5gFVt1DgD.htm)|Acrobat|Acrobate|changé|
 |[SJi2cicLd7R2FInl.htm](archetypes/SJi2cicLd7R2FInl.htm)|Viking|Viking|changé|
 |[TdoPhja8JA9C2Itm.htm](archetypes/TdoPhja8JA9C2Itm.htm)|Linguist|Linguiste|changé|
@@ -107,3 +107,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[3jceS1GfWcSQ3tMY.htm](archetypes/3jceS1GfWcSQ3tMY.htm)|Talisman Dabbler|Amateur de talismans|libre|
 |[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|Médecin|libre|
+|[SAyPnVRucJa8k4MN.htm](archetypes/SAyPnVRucJa8k4MN.htm)|Witch|Sorcier|libre|

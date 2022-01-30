@@ -1,13 +1,20 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 174
- * **libre**: 150
- * **changé**: 123
+ * **officielle**: 175
+ * **libre**: 152
+ * **changé**: 120
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2022-01-22 16:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[None-11-esyKPSDbFQPB4lhq.htm](classfeatures/None-11-esyKPSDbFQPB4lhq.htm)|Medium Armor Expertise (Inventor)|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -51,7 +58,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-01-pUkUC8HHom2DmYzz.htm](classfeatures/None-01-pUkUC8HHom2DmYzz.htm)|Elemental Magic|Magie élémentaire|changé|
 |[None-01-T25ZLQWn6O4KchLo.htm](classfeatures/None-01-T25ZLQWn6O4KchLo.htm)|Focus Spells|Sorts focalisés|changé|
 |[None-01-Upf1LXtWNJ6eB5sm.htm](classfeatures/None-01-Upf1LXtWNJ6eB5sm.htm)|Flexible Spell Preparation|Préparation de sort flexible|changé|
-|[None-05-70jqXP2eS4tRZ0Ok.htm](classfeatures/None-05-70jqXP2eS4tRZ0Ok.htm)|Magical Fortitude|Vigueur magique|changé|
 |[None-07-cD3nSupdCvONuHiE.htm](classfeatures/None-07-cD3nSupdCvONuHiE.htm)|Expert Spellcaster|Incantateur expert (Niveau 7)|changé|
 |[None-15-l1InYvhnQSz6Ucxc.htm](classfeatures/None-15-l1InYvhnQSz6Ucxc.htm)|Master Spellcaster|Incantateur maître (Niveau 15)|changé|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle|Mystère du combat|changé|
@@ -110,12 +116,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[witch-01-4IfYHrQMosJNM8hv.htm](classfeatures/witch-01-4IfYHrQMosJNM8hv.htm)|Fervor Patron|Patron : Ferveur|changé|
 |[witch-01-9uLh5z2uPo6LDFRY.htm](classfeatures/witch-01-9uLh5z2uPo6LDFRY.htm)|Hexes|Maléfices|changé|
 |[witch-01-ejmSQOJR5lJv1pzh.htm](classfeatures/witch-01-ejmSQOJR5lJv1pzh.htm)|Rune Patron|Patron : Rune|changé|
-|[witch-01-KPtF29AaeX2sJW0K.htm](classfeatures/witch-01-KPtF29AaeX2sJW0K.htm)|Patron|Patron|changé|
 |[witch-01-NAXRmMjj0gcyD7ie.htm](classfeatures/witch-01-NAXRmMjj0gcyD7ie.htm)|Curse Patron|Patron : Malédiction|changé|
 |[witch-01-qf12ubZ07Q0z0NcN.htm](classfeatures/witch-01-qf12ubZ07Q0z0NcN.htm)|Winter Patron|Patron : Hiver|changé|
 |[witch-01-qMZiTugiLCEmkg8h.htm](classfeatures/witch-01-qMZiTugiLCEmkg8h.htm)|Fate Patron|Patron : Destin|changé|
-|[witch-01-SOan0fqyFTrkqJLV.htm](classfeatures/witch-01-SOan0fqyFTrkqJLV.htm)|Witch Lessons|Leçons de sorcière|changé|
-|[witch-01-VVMMJdIWL7fAsQf3.htm](classfeatures/witch-01-VVMMJdIWL7fAsQf3.htm)|Baba Yaga Patron|Patron : Baba Yaga|changé|
+|[witch-01-SOan0fqyFTrkqJLV.htm](classfeatures/witch-01-SOan0fqyFTrkqJLV.htm)|Witch Lessons|Leçons de sorcier|changé|
 |[witch-01-x2gzQMPvLwHWDdAC.htm](classfeatures/witch-01-x2gzQMPvLwHWDdAC.htm)|Wild Patron|Patron : Sauvage|changé|
 |[witch-01-XFTWJO6txmLNRLae.htm](classfeatures/witch-01-XFTWJO6txmLNRLae.htm)|Night Patron|Patron : Nuit|changé|
 |[wizard-01-7nbKDBGvwSx9T27G.htm](classfeatures/wizard-01-7nbKDBGvwSx9T27G.htm)|Arcane School|École arcanique|changé|
@@ -361,6 +365,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-03-F57Na5VxfBp56kke.htm](classfeatures/None-03-F57Na5VxfBp56kke.htm)|Great Fortitude|Vigueur supérieure|officielle|
 |[None-03-TUOeATt52P43r5W0.htm](classfeatures/None-03-TUOeATt52P43r5W0.htm)|Lightning Reflexes|Réflexes fulgurants|officielle|
 |[None-03-wMyDcVNmA7xGK83S.htm](classfeatures/None-03-wMyDcVNmA7xGK83S.htm)|Iron Will|Volonté de fer|officielle|
+|[None-05-70jqXP2eS4tRZ0Ok.htm](classfeatures/None-05-70jqXP2eS4tRZ0Ok.htm)|Magical Fortitude|Vigueur magique|officielle|
 |[None-05-9XLUh9iMepZesdmc.htm](classfeatures/None-05-9XLUh9iMepZesdmc.htm)|Weapon Expertise|Expertise avec les armes|libre|
 |[None-07-0npO4rPscGm0dX13.htm](classfeatures/None-07-0npO4rPscGm0dX13.htm)|Vigilant Senses|Sens alertes|libre|
 |[None-07-9EqIasqfI8YIM3Pt.htm](classfeatures/None-07-9EqIasqfI8YIM3Pt.htm)|Weapon Specialization|Spécialisation martiale|officielle|
@@ -442,9 +447,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[swashbuckler-15-Z7HX6TeFsaup7Dx9.htm](classfeatures/swashbuckler-15-Z7HX6TeFsaup7Dx9.htm)|Greater Weapon Specialization|Spécialisation martiale supérieure|libre|
 |[swashbuckler-19-SHpjmM4A3Sw4GgDz.htm](classfeatures/swashbuckler-19-SHpjmM4A3Sw4GgDz.htm)|Light Armor Mastery|Maîtrise des armures légères|libre|
 |[swashbuckler-19-ypfT3iybew6ZSIUl.htm](classfeatures/swashbuckler-19-ypfT3iybew6ZSIUl.htm)|Eternal Confidence|Confiance éternelle|libre|
+|[witch-01-KPtF29AaeX2sJW0K.htm](classfeatures/witch-01-KPtF29AaeX2sJW0K.htm)|Patron|Patron|libre|
 |[witch-01-nocYmxbi4rqCC2qS.htm](classfeatures/witch-01-nocYmxbi4rqCC2qS.htm)|Patron Theme|Thême de patron|libre|
-|[witch-01-yksPhweBZYVCsE1A.htm](classfeatures/witch-01-yksPhweBZYVCsE1A.htm)|Familiar (Witch)|Familier (Sorcière)|libre|
-|[witch-01-zT6QiTMxxj8JYoN9.htm](classfeatures/witch-01-zT6QiTMxxj8JYoN9.htm)|Witch Spellcasting|Incantation de sorcière|libre|
+|[witch-01-VVMMJdIWL7fAsQf3.htm](classfeatures/witch-01-VVMMJdIWL7fAsQf3.htm)|Baba Yaga Patron|Patron : Baba Yaga|libre|
+|[witch-01-yksPhweBZYVCsE1A.htm](classfeatures/witch-01-yksPhweBZYVCsE1A.htm)|Familiar (Witch)|Familier (Sorcier)|libre|
+|[witch-01-zT6QiTMxxj8JYoN9.htm](classfeatures/witch-01-zT6QiTMxxj8JYoN9.htm)|Witch Spellcasting|Incantation de sorcier|libre|
 |[witch-01-zy0toWeGIeQstbT4.htm](classfeatures/witch-01-zy0toWeGIeQstbT4.htm)|Mosquito Witch Patron|Patron : Moustique|libre|
 |[witch-02-DtmKrCvsmutVLAhH.htm](classfeatures/witch-02-DtmKrCvsmutVLAhH.htm)|Lesson of Vengeance|Leçon de vengeance|libre|
 |[witch-02-evKUM58ymuuypRn9.htm](classfeatures/witch-02-evKUM58ymuuypRn9.htm)|Lesson of Dreams|Leçon des rêves|libre|
