@@ -1,12 +1,12 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 326
- * **officielle**: 15
- * **changé**: 33
+ * **libre**: 329
+ * **officielle**: 16
+ * **changé**: 29
  * **aucune**: 1
 
 
-Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-05 11:44 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -19,7 +19,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[01-7zy4W2RXQiMEr6cp.htm](spell-effects/01-7zy4W2RXQiMEr6cp.htm)|Spell Effect: Dragon Claws|Effet : Griffes de dragon|changé|
 |[01-dWbg2gACxMkSnZag.htm](spell-effects/01-dWbg2gACxMkSnZag.htm)|Spell Effect: Protective Ward|Effet : Champ protecteur|changé|
 |[01-NQZ88IoKeMBsfjp7.htm](spell-effects/01-NQZ88IoKeMBsfjp7.htm)|Spell Effect: Life Boost|Effet : Gain de vie|changé|
 |[02-AnCRD7kDcG0DDGKn.htm](spell-effects/02-AnCRD7kDcG0DDGKn.htm)|Spell Effect: Fungal Infestation (Failure)|Effet : Infestation fongique(Échec)|changé|
@@ -49,9 +48,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[09-xKJVqN1ETnNH3tFg.htm](spell-effects/09-xKJVqN1ETnNH3tFg.htm)|Spell Effect: Corrosive Body (Heightened 9th)|Effet : Corps corrosif (Intensifié (9e))|changé|
 |[10-blBXnWb1Y8q8YYMh.htm](spell-effects/10-blBXnWb1Y8q8YYMh.htm)|Spell Effect: Primal Summons (Fire)|Effet : Convocations primordiales (Feu)|changé|
 |[10-fwaAe71qfnK7SiOB.htm](spell-effects/10-fwaAe71qfnK7SiOB.htm)|Spell Effect: Primal Summons (Air)|Effet : Convocations primordiales (Air)|changé|
-|[10-NXzo2kdgVixIZ2T1.htm](spell-effects/10-NXzo2kdgVixIZ2T1.htm)|Spell Effect: Apex Companion|Effet : Compagnon alpha|changé|
-|[10-TAAWbJgfESltn2we.htm](spell-effects/10-TAAWbJgfESltn2we.htm)|Spell Effect: Primal Summons (Water)|Effet : Convocations primordiales (Eau)|changé|
-|[10-Xl48OsJ47oDVZAVQ.htm](spell-effects/10-Xl48OsJ47oDVZAVQ.htm)|Spell Effect: Primal Summons (Earth)|Effet : Convocations primordiales (Terre)|changé|
 
 ## Liste des traductions complétés
 
@@ -80,6 +76,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-6qvLnIkWAoGvTIWy.htm](spell-effects/01-6qvLnIkWAoGvTIWy.htm)|Spell Effect: Community Repair (Critical Failure)|Effet : Réparation communautaire (Échec critique)|libre|
 |[01-7vIUF5zbvHzVcJA0.htm](spell-effects/01-7vIUF5zbvHzVcJA0.htm)|Spell Effect: Longstrider (8 hours)|Effet : Grande foulée (8 heures)|libre|
 |[01-7zJPd2BsFl82qFRV.htm](spell-effects/01-7zJPd2BsFl82qFRV.htm)|Spell Effect: Warding Aggression (+3)|Effet : Agression protectrice (+3)|libre|
+|[01-7zy4W2RXQiMEr6cp.htm](spell-effects/01-7zy4W2RXQiMEr6cp.htm)|Spell Effect: Dragon Claws|Effet : Griffes de dragon|officielle|
 |[01-8adLKKzJy49USYJt.htm](spell-effects/01-8adLKKzJy49USYJt.htm)|Spell Effect: Song of Strength|Effet : Chanson de force|libre|
 |[01-8ecGfjmxnBY3WWao.htm](spell-effects/01-8ecGfjmxnBY3WWao.htm)|Spell Effect: Thicket of Knives|Effet : Multitude de couteaux|libre|
 |[01-8XaSpienzVXLmcfp.htm](spell-effects/01-8XaSpienzVXLmcfp.htm)|Spell Effect: Inspire Heroics (Strength, +3)|Effet : Inspiration héroïque (Force, +3)|libre|
@@ -397,4 +394,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[08-kMoOWWBqDYmPcYyS.htm](spell-effects/08-kMoOWWBqDYmPcYyS.htm)|Spell Effect: Bathe in Blood|Effet : Baignade de sang|libre|
 |[10-EUxTav62IXTz5CxW.htm](spell-effects/10-EUxTav62IXTz5CxW.htm)|Spell Effect: Nature Incarnate (Kaiju)|Effet : Incarnation de la nature (Kaiju)|libre|
 |[10-lywUJljQy2SxRZQt.htm](spell-effects/10-lywUJljQy2SxRZQt.htm)|Spell Effect: Nature Incarnate (Green Man)|Effet : Incarnation de la nature (Homme vert)|libre|
+|[10-NXzo2kdgVixIZ2T1.htm](spell-effects/10-NXzo2kdgVixIZ2T1.htm)|Spell Effect: Apex Companion|Effet : Compagnon alpha|libre|
+|[10-TAAWbJgfESltn2we.htm](spell-effects/10-TAAWbJgfESltn2we.htm)|Spell Effect: Primal Summons (Water)|Effet : Convocations primordiales (Eau)|libre|
+|[10-Xl48OsJ47oDVZAVQ.htm](spell-effects/10-Xl48OsJ47oDVZAVQ.htm)|Spell Effect: Primal Summons (Earth)|Effet : Convocations primordiales (Terre)|libre|
 |[18-eotqxEWIgaK7nMpD.htm](spell-effects/18-eotqxEWIgaK7nMpD.htm)|Spell Effect: Blunt the Final Blade (Critical Success)|Effet : Émousser la Lame finale (Succès critique)|libre|

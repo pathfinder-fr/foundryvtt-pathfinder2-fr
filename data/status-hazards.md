@@ -1,10 +1,11 @@
 # État de la traduction (hazards)
 
  * **libre**: 2
- * **changé**: 51
+ * **changé**: 49
+ * **officielle**: 2
 
 
-Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-05 11:44 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -15,9 +16,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[491qhVbjsHnOuMZW.htm](hazards/491qhVbjsHnOuMZW.htm)|Electric Latch Rune|Rune de loquet électrique|changé|
 |[4jAJh3cTLIgkqtou.htm](hazards/4jAJh3cTLIgkqtou.htm)|Malevolent Mannequins|Mannequins malveillants|changé|
 |[4jJxLlimyQaIVXlt.htm](hazards/4jJxLlimyQaIVXlt.htm)|Darkside Mirror|Miroir aux sombres reflets|changé|
-|[4O7wKZdeAemTEbvG.htm](hazards/4O7wKZdeAemTEbvG.htm)|Slamming Door|Claque-porte|changé|
 |[6In2S3lDnxNgZ2np.htm](hazards/6In2S3lDnxNgZ2np.htm)|Titanic Flytrap|Attrape-mouches titanesque|changé|
-|[7VqibTAEXXX6PIhh.htm](hazards/7VqibTAEXXX6PIhh.htm)|Scythe Blades|Lames de faux|changé|
 |[8ewUvJlvn6LVjoXJ.htm](hazards/8ewUvJlvn6LVjoXJ.htm)|Second Chance|Deuxième chance|changé|
 |[8gAoSgBJN8QqzP1R.htm](hazards/8gAoSgBJN8QqzP1R.htm)|Frozen Moment|Instant figé|changé|
 |[98rS64gLzy1ReXoR.htm](hazards/98rS64gLzy1ReXoR.htm)|Hampering Web|Toile entravante|changé|
@@ -69,3 +68,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[0dg9YrjsDi6Ap3jF.htm](hazards/0dg9YrjsDi6Ap3jF.htm)|Web Lurker Deadfall|Toile-assommoir|libre|
 |[1egK7HFAFdHxMS9N.htm](hazards/1egK7HFAFdHxMS9N.htm)|Sportlebore|Collembole|libre|
+|[4O7wKZdeAemTEbvG.htm](hazards/4O7wKZdeAemTEbvG.htm)|Slamming Door|Claque-porte|officielle|
+|[7VqibTAEXXX6PIhh.htm](hazards/7VqibTAEXXX6PIhh.htm)|Scythe Blades|Lames de faux|officielle|

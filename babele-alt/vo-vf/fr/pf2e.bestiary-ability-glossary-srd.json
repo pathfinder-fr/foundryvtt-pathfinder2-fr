@@ -169,7 +169,7 @@
         {
             "id": "Buck",
             "name": "Buck (Désarçonner)",
-            "description": "<p>@Check[type:reflex]{Réflexes} @Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>"
+            "description": "<p>@Check[type:reflex]{Réflexes}</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>"
         },
         {
             "id": "Poison",

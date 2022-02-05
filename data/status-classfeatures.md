@@ -1,20 +1,13 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 175
- * **libre**: 152
- * **changé**: 120
- * **aucune**: 1
+ * **officielle**: 174
+ * **libre**: 153
+ * **changé**: 121
 
 
-Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-05 11:44 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[None-11-esyKPSDbFQPB4lhq.htm](classfeatures/None-11-esyKPSDbFQPB4lhq.htm)|Medium Armor Expertise (Inventor)|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -31,6 +24,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-01-0Aocw3igLwna9cjp.htm](classfeatures/cleric-01-0Aocw3igLwna9cjp.htm)|Warpriest|Prêtre combattant|changé|
 |[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|changé|
 |[cleric-01-ZZzLMOUAtBVgV1DF.htm](classfeatures/cleric-01-ZZzLMOUAtBVgV1DF.htm)|Cloistered Cleric|Prêtre cloîtré|changé|
+|[fighter-01-hmShTfPOcTaKgbf4.htm](classfeatures/fighter-01-hmShTfPOcTaKgbf4.htm)|Attack of Opportunity|Attaque d’opportunité|changé|
 |[gunslinger-01-a3pSIKkDVTvvNSRO.htm](classfeatures/gunslinger-01-a3pSIKkDVTvvNSRO.htm)|Way of the Drifter|Voie du vagabond|changé|
 |[gunslinger-01-LDqVxLKrwEqSegiu.htm](classfeatures/gunslinger-01-LDqVxLKrwEqSegiu.htm)|Gunslinger's Way|Voies du franc-tireur|changé|
 |[gunslinger-01-OmgtSDV1FubDUqWR.htm](classfeatures/gunslinger-01-OmgtSDV1FubDUqWR.htm)|Way of the Spellshot|Voie du sortiléro|changé|
@@ -285,7 +279,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[druid-11-Ra32tlqBxHzT6fzN.htm](classfeatures/druid-11-Ra32tlqBxHzT6fzN.htm)|Druid Weapon Expertise|Expertise avec les armes de druide|officielle|
 |[druid-19-nzgb43mQmLgaqDoQ.htm](classfeatures/druid-19-nzgb43mQmLgaqDoQ.htm)|Primal Hierophant|Hiérophante primordial|officielle|
 |[fighter-01-eZNCckLzbH3GyncH.htm](classfeatures/fighter-01-eZNCckLzbH3GyncH.htm)|Shield Block|Blocage au bouclier|libre|
-|[fighter-01-hmShTfPOcTaKgbf4.htm](classfeatures/fighter-01-hmShTfPOcTaKgbf4.htm)|Attack of Opportunity|Attaque d’opportunité|officielle|
 |[fighter-03-GJKJafDGuX4BeAeN.htm](classfeatures/fighter-03-GJKJafDGuX4BeAeN.htm)|Bravery|Bravoure|officielle|
 |[fighter-05-gApJtAdNb9ST4Ms9.htm](classfeatures/fighter-05-gApJtAdNb9ST4Ms9.htm)|Fighter Weapon Mastery|Maîtrise martiale du guerrier|officielle|
 |[fighter-07-TIvzBALymvb56L79.htm](classfeatures/fighter-07-TIvzBALymvb56L79.htm)|Battlefield Surveyor|Sentinelle au front|officielle|
@@ -373,6 +366,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-07-MV6XIuAgN9uSA0Da.htm](classfeatures/None-07-MV6XIuAgN9uSA0Da.htm)|Evasion|Évasion|officielle|
 |[None-07-OMZs5y16jZRW9KQK.htm](classfeatures/None-07-OMZs5y16jZRW9KQK.htm)|Juggernaut|Juggernaut|libre|
 |[None-07-x5jaCJxsmD5sx3KB.htm](classfeatures/None-07-x5jaCJxsmD5sx3KB.htm)|Armor Expertise|Expertise avec les armures|officielle|
+|[None-11-esyKPSDbFQPB4lhq.htm](classfeatures/None-11-esyKPSDbFQPB4lhq.htm)|Medium Armor Expertise (Inventor)|Expertise avec les armures intermédiaires (Inventeur)|libre|
 |[None-11-FCEp9jjxxgRJDJV3.htm](classfeatures/None-11-FCEp9jjxxgRJDJV3.htm)|Medium Armor Expertise|Expertise avec les armures intermédiaires|libre|
 |[None-13-CGB1TczFhQhdQxml.htm](classfeatures/None-13-CGB1TczFhQhdQxml.htm)|Armor Mastery|Maîtrise des armures|libre|
 |[None-13-L5D0NwFXdLiVSnk5.htm](classfeatures/None-13-L5D0NwFXdLiVSnk5.htm)|Improved Evasion|Évasion améliorée|officielle|

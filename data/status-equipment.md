@@ -1,13 +1,13 @@
 # État de la traduction (equipment)
 
  * **officielle**: 793
- * **changé**: 921
+ * **changé**: 920
  * **libre**: 1042
  * **vide**: 7
  * **aucune**: 19
 
 
-Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-05 11:44 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -172,7 +172,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-04-NtUFIAMm2raeq5lr.htm](equipment/consumable-04-NtUFIAMm2raeq5lr.htm)|Energized Cartridge|Cartouche énergisée|changé|
 |[consumable-04-QJ1fTrX42PoEWpK5.htm](equipment/consumable-04-QJ1fTrX42PoEWpK5.htm)|Leadenleg|Jambes de plomb|changé|
 |[consumable-04-s9dtRS2SRTqzGdOF.htm](equipment/consumable-04-s9dtRS2SRTqzGdOF.htm)|Stalker Bane Snare|Piège du fléau rabatteur|changé|
-|[consumable-04-SWqzv0hYCIczICeR.htm](equipment/consumable-04-SWqzv0hYCIczICeR.htm)|Trip Snare|Piège Trébucheur|changé|
+|[consumable-04-SWqzv0hYCIczICeR.htm](equipment/consumable-04-SWqzv0hYCIczICeR.htm)|Trip Snare|Piège artisanal trébucheur|changé|
 |[consumable-04-tslVf3qtQE7V1YvG.htm](equipment/consumable-04-tslVf3qtQE7V1YvG.htm)|Sinew-Shock Serum (Moderate)|Sérum de Choc-vigueur modéré|changé|
 |[consumable-04-WeiUTSRc17HLNehg.htm](equipment/consumable-04-WeiUTSRc17HLNehg.htm)|Sniper's Bead|Perle du tireur d'élite|changé|
 |[consumable-04-XLJc4GDQmeAv1cmG.htm](equipment/consumable-04-XLJc4GDQmeAv1cmG.htm)|Magnetic Suit|Tenue magnétique|changé|
@@ -841,7 +841,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-01-ndVATyJ2c8Ka3HKm.htm](equipment/weapon-01-ndVATyJ2c8Ka3HKm.htm)|Sulfur Bomb (Lesser)|Bombe de souffre inférieure|changé|
 |[weapon-01-Xnqglykl3Cif8rN9.htm](equipment/weapon-01-Xnqglykl3Cif8rN9.htm)|Thunderstone (Lesser)|Pierre à tonnerre inférieur|changé|
 |[weapon-01-xZFT5JdEvDi7q467.htm](equipment/weapon-01-xZFT5JdEvDi7q467.htm)|Dwarven Daisy (Lesser)|Marguerite naine inférieure|changé|
-|[weapon-02-7irlzyZA50KqTwce.htm](equipment/weapon-02-7irlzyZA50KqTwce.htm)|Boastful Hunter|Chasseur vantard|changé|
 |[weapon-03-2pfEtA97lpG93kG2.htm](equipment/weapon-03-2pfEtA97lpG93kG2.htm)|Sulfur Bomb (Moderate)|Bombe de souffre modéré|changé|
 |[weapon-03-7irlzyZA50KqTwce.htm](equipment/weapon-03-7irlzyZA50KqTwce.htm)|Boastful Hunter|Chasseur vantard|changé|
 |[weapon-03-Do4rJuA1nhr2TTiF.htm](equipment/weapon-03-Do4rJuA1nhr2TTiF.htm)|Dwarven Daisy (Moderate)|Marguerite naine moyenne|changé|

@@ -1,12 +1,12 @@
 # État de la traduction (actions)
 
- * **officielle**: 109
- * **libre**: 152
- * **changé**: 5
+ * **officielle**: 110
+ * **libre**: 155
  * **aucune**: 3
+ * **changé**: 1
 
 
-Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-05 11:44 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -21,11 +21,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[5Vuhf4DjvMvRqiEZ.htm](actions/5Vuhf4DjvMvRqiEZ.htm)|Breath Weapon (Negative) (Cone)|Arme de souffle négative (cône)|changé|
-|[BlAOM2X92SI6HMtJ.htm](actions/BlAOM2X92SI6HMtJ.htm)|Seek|Chercher|changé|
-|[HbejhIywqIufrmVM.htm](actions/HbejhIywqIufrmVM.htm)|Arcane Cascade|Cascade arcanique|changé|
 |[I9k9qe4gOT8UVK4e.htm](actions/I9k9qe4gOT8UVK4e.htm)|Mist Blending|Se fondre dans la brume|changé|
-|[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|Exploser|changé|
 
 ## Liste des traductions complétés
 
@@ -56,6 +52,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[49y9Ec4bDii8pcD3.htm](actions/49y9Ec4bDii8pcD3.htm)|Subsist|Subsister|officielle|
 |[4IxCKbGaEM9nUhld.htm](actions/4IxCKbGaEM9nUhld.htm)|Finish The Job|Finir le boulot|libre|
 |[5V49l0K460CcvBOO.htm](actions/5V49l0K460CcvBOO.htm)|Defend Life|Défendre la vie|libre|
+|[5Vuhf4DjvMvRqiEZ.htm](actions/5Vuhf4DjvMvRqiEZ.htm)|Breath Weapon (Negative) (Cone)|Arme de souffle négative (cône)|libre|
 |[6OZfIjiPjWTIe7Pr.htm](actions/6OZfIjiPjWTIe7Pr.htm)|Spinning Crush|Rotation écrasante|libre|
 |[6SAdjml3OZw0BZnn.htm](actions/6SAdjml3OZw0BZnn.htm)|Thundering Roar|Rugissement tonitruant|libre|
 |[74iat04PtfG8gn2Q.htm](actions/74iat04PtfG8gn2Q.htm)|Mighty Rage|Rage formidable|officielle|
@@ -92,6 +89,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bcxarzksqt9ezrs6.htm](actions/Bcxarzksqt9ezrs6.htm)|Stride|Marcher rapidement|officielle|
 |[bG91dbtbgOnw7Ofx.htm](actions/bG91dbtbgOnw7Ofx.htm)|Board|Monter à bord|libre|
 |[BKnN9la3WNrRgZ6n.htm](actions/BKnN9la3WNrRgZ6n.htm)|Conduct Energy|Conduire l'énergie|libre|
+|[BlAOM2X92SI6HMtJ.htm](actions/BlAOM2X92SI6HMtJ.htm)|Seek|Chercher|officielle|
 |[bp0Up04x3dzGK5bB.htm](actions/bp0Up04x3dzGK5bB.htm)|Debilitating Strike|Frappe incapacitante|officielle|
 |[bT3skovyLUtP22ME.htm](actions/bT3skovyLUtP22ME.htm)|Repair|Réparer|officielle|
 |[c8TGiZ48ygoSPofx.htm](actions/c8TGiZ48ygoSPofx.htm)|Swim|Nager|officielle|
@@ -142,6 +140,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[grkggNQnOxWWsjBH.htm](actions/grkggNQnOxWWsjBH.htm)|Breath Weapon (Cold) (Line)|Arme de souffle de froid (ligne)|libre|
 |[gxtq81VAhpmNvEgA.htm](actions/gxtq81VAhpmNvEgA.htm)|Tap Ley Line|Puiser dans les lignes telluriques|libre|
 |[H6v1VgowHaKHnVlG.htm](actions/H6v1VgowHaKHnVlG.htm)|Burrow|Creuser|officielle|
+|[HbejhIywqIufrmVM.htm](actions/HbejhIywqIufrmVM.htm)|Arcane Cascade|Cascade arcanique|libre|
 |[HCl3pzVefiv9ZKQW.htm](actions/HCl3pzVefiv9ZKQW.htm)|Aid|Aider|officielle|
 |[hFRHPBj6wjAayNtW.htm](actions/hFRHPBj6wjAayNtW.htm)|Jinx|Maudire|libre|
 |[hi56uHG1aAb84Zzu.htm](actions/hi56uHG1aAb84Zzu.htm)|Fight with Fear|Combattre avec la peur|libre|
@@ -190,6 +189,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[MY6z2b4GPhAD2Eoa.htm](actions/MY6z2b4GPhAD2Eoa.htm)|Share Life|Partager la vie|libre|
 |[n5vwBnLSlIXL9ptp.htm](actions/n5vwBnLSlIXL9ptp.htm)|Manifest Eidolon|Manifester l'eidolon|libre|
 |[N6U02s9qJKQIvmQd.htm](actions/N6U02s9qJKQIvmQd.htm)|Wish for Luck|Souhait de bonne fortune|libre|
+|[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|Exploser|libre|
 |[nbfNETdpee8CVM17.htm](actions/nbfNETdpee8CVM17.htm)|Flurry of Blows|Déluge de coups|officielle|
 |[NEBuuhjZE9BL3I8v.htm](actions/NEBuuhjZE9BL3I8v.htm)|Breath Weapon (Poison) (Cone)|Arme de souffle empoisonné (cône)|libre|
 |[nSTMF6kYIt6rXhJx.htm](actions/nSTMF6kYIt6rXhJx.htm)|Seething Frenzy|Frénésie bouillonnante|libre|

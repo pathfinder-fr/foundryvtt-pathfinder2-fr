@@ -1,28 +1,19 @@
 # État de la traduction (spells)
 
- * **libre**: 604
- * **officielle**: 554
+ * **libre**: 608
+ * **officielle**: 553
  * **changé**: 4
- * **aucune**: 3
 
 
-Dernière mise à jour: 2022-01-30 10:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-05 11:44 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[divination-02-eW7DqGEvU50CDHqc.htm](spells/divination-02-eW7DqGEvU50CDHqc.htm)|Pack Attack|
-|[divination-03-oLylenH2jlP5UbRT.htm](spells/divination-03-oLylenH2jlP5UbRT.htm)|Painted Scout|
-|[enchantment-02-VJW3IzDpAFio7uls.htm](spells/enchantment-02-VJW3IzDpAFio7uls.htm)|Impart Empathy|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[abjuration-06-Er9XNUlL0wB0PM36.htm](spells/abjuration-06-Er9XNUlL0wB0PM36.htm)|Ward Domain|Protection de domaine|changé|
 |[conjuration-06-fRUxp4G9kG816XAt.htm](spells/conjuration-06-fRUxp4G9kG816XAt.htm)|Lure Dream|Attirer le rêve|changé|
+|[evocation-03-oo7YcRC2gcez81PV.htm](spells/evocation-03-oo7YcRC2gcez81PV.htm)|Ki Blast|Explosion Ki|changé|
 |[necromancy-04-ikSb3LRGnrwXJBVX.htm](spells/necromancy-04-ikSb3LRGnrwXJBVX.htm)|Vital Beacon|Fanal de vie|changé|
 |[transmutation-07-9aFg4EuOBVz0i3Lb.htm](spells/transmutation-07-9aFg4EuOBVz0i3Lb.htm)|Corrosive Body|Corps corrosif|changé|
 
@@ -129,6 +120,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-06-2ykmAVKrsAWcazcC.htm](spells/abjuration-06-2ykmAVKrsAWcazcC.htm)|Planar Binding|Contrat planaire|officielle|
 |[abjuration-06-8Umt1AzYfFbC4fui.htm](spells/abjuration-06-8Umt1AzYfFbC4fui.htm)|Spellwrack|Ravages magiques|officielle|
 |[abjuration-06-9W2Qv0wXLg6tQg3y.htm](spells/abjuration-06-9W2Qv0wXLg6tQg3y.htm)|Scintillating Safeguard|Précaution scintillante|libre|
+|[abjuration-06-Er9XNUlL0wB0PM36.htm](spells/abjuration-06-Er9XNUlL0wB0PM36.htm)|Ward Domain|Protection de domaine|libre|
 |[abjuration-06-kLxJx7BECVgHh2vb.htm](spells/abjuration-06-kLxJx7BECVgHh2vb.htm)|Temporal Ward|Protection temporelle|libre|
 |[abjuration-06-pZc8ZwtsyWnxUUW0.htm](spells/abjuration-06-pZc8ZwtsyWnxUUW0.htm)|Primal Call|Appel primordial|officielle|
 |[abjuration-06-USM530HlzZ1RMd99.htm](spells/abjuration-06-USM530HlzZ1RMd99.htm)|Champion's Sacrifice|Sacrifice du champion|officielle|
@@ -319,6 +311,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-02-41TZEjhO6D1nWw2X.htm](spells/divination-02-41TZEjhO6D1nWw2X.htm)|Augury|Augure|officielle|
 |[divination-02-8VzbumNyMEdSzZSz.htm](spells/divination-02-8VzbumNyMEdSzZSz.htm)|Impeccable Flow|Flux impeccable|libre|
 |[divination-02-BBvV7qoXGdw09q1C.htm](spells/divination-02-BBvV7qoXGdw09q1C.htm)|Speak with Animals|Communication avec les animaux|officielle|
+|[divination-02-eW7DqGEvU50CDHqc.htm](spells/divination-02-eW7DqGEvU50CDHqc.htm)|Pack Attack|Attaque en meute|libre|
 |[divination-02-GfrKNJ9pNeATiKCc.htm](spells/divination-02-GfrKNJ9pNeATiKCc.htm)|Hunter's Luck|Chance du chasseur|libre|
 |[divination-02-GQopUYTuhmtb7WMG.htm](spells/divination-02-GQopUYTuhmtb7WMG.htm)|Perfect Strike|Coup parfait|libre|
 |[divination-02-HTou8cG05yuSkesj.htm](spells/divination-02-HTou8cG05yuSkesj.htm)|Status|Rapport|officielle|
@@ -342,6 +335,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-03-KHnhPHL4x1AQHfbC.htm](spells/divination-03-KHnhPHL4x1AQHfbC.htm)|Mind Reading|Lecture des pensées|libre|
 |[divination-03-LbPLNWlLCxKCo5gF.htm](spells/divination-03-LbPLNWlLCxKCo5gF.htm)|Access Lore|Accès à la connaissance|libre|
 |[divination-03-LQzlKbYjZSMFQawP.htm](spells/divination-03-LQzlKbYjZSMFQawP.htm)|Locate|Localisation|officielle|
+|[divination-03-oLylenH2jlP5UbRT.htm](spells/divination-03-oLylenH2jlP5UbRT.htm)|Painted Scout|Éclaireur peint|libre|
 |[divination-03-ovx7O2FHvkjXhMcA.htm](spells/divination-03-ovx7O2FHvkjXhMcA.htm)|Perseis's Precautions|Précautions de Perséis|libre|
 |[divination-03-ppA1StEigPLKEQqR.htm](spells/divination-03-ppA1StEigPLKEQqR.htm)|Wanderer's Guide|Guide du pélerin|officielle|
 |[divination-03-QpjHqxwTGdILLvjD.htm](spells/divination-03-QpjHqxwTGdILLvjD.htm)|Ephemeral Tracking|Pistage éphémère|libre|
@@ -464,6 +458,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-02-mMgLHTLHjjGa206q.htm](spells/enchantment-02-mMgLHTLHjjGa206q.htm)|Thundering Dominance|Dommination tonitruante|libre|
 |[enchantment-02-tlSE7Ly8vi1Dgddv.htm](spells/enchantment-02-tlSE7Ly8vi1Dgddv.htm)|Hideous Laughter|Fou rire|officielle|
 |[enchantment-02-UirEIHILQgip87qv.htm](spells/enchantment-02-UirEIHILQgip87qv.htm)|Charitable Urge|Désir Charitable|libre|
+|[enchantment-02-VJW3IzDpAFio7uls.htm](spells/enchantment-02-VJW3IzDpAFio7uls.htm)|Impart Empathy|Conférer l'empathie|libre|
 |[enchantment-02-yhz9fF69uwRhnHix.htm](spells/enchantment-02-yhz9fF69uwRhnHix.htm)|Animal Messenger|Messager animal|officielle|
 |[enchantment-03-1xLVcA8Y1onw7toT.htm](spells/enchantment-03-1xLVcA8Y1onw7toT.htm)|Dirge of Doom|Chant funeste|officielle|
 |[enchantment-03-3x6eUCm17n6ROzUa.htm](spells/enchantment-03-3x6eUCm17n6ROzUa.htm)|Crisis of Faith|Manque de foi|officielle|
@@ -669,7 +664,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-03-N0h3UodJFKdNQw1Y.htm](spells/evocation-03-N0h3UodJFKdNQw1Y.htm)|Dragon Breath (Brass)|Souffle de dragon (Airain)|libre|
 |[evocation-03-NXm8z4W4YZazE2gn.htm](spells/evocation-03-NXm8z4W4YZazE2gn.htm)|Dragon Breath (Sea)|Souffle de dragon (Mer)|libre|
 |[evocation-03-NyxQAazFBdBAqZGX.htm](spells/evocation-03-NyxQAazFBdBAqZGX.htm)|Elemental Annihilation Wave|Vague d'annihilation élémentaire|libre|
-|[evocation-03-oo7YcRC2gcez81PV.htm](spells/evocation-03-oo7YcRC2gcez81PV.htm)|Ki Blast|Explosion Ki|officielle|
 |[evocation-03-Q1OWufw6dUiY8yEI.htm](spells/evocation-03-Q1OWufw6dUiY8yEI.htm)|Shroud of Flame|Voile de flammes|libre|
 |[evocation-03-sRfSBHWHdbIa0aGc.htm](spells/evocation-03-sRfSBHWHdbIa0aGc.htm)|Chilling Darkness|Ténèbres glaciales|officielle|
 |[evocation-03-sxQZ6yqTn0czJxVd.htm](spells/evocation-03-sxQZ6yqTn0czJxVd.htm)|Fireball|Boule de feu|officielle|
