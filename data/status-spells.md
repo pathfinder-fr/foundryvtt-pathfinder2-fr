@@ -1,20 +1,22 @@
 # État de la traduction (spells)
 
- * **libre**: 608
+ * **libre**: 606
  * **officielle**: 553
- * **changé**: 4
+ * **changé**: 6
 
 
-Dernière mise à jour: 2022-02-05 11:44 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-06 16:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[conjuration-03-jOWQ5wPd4xvSkjI5.htm](spells/conjuration-03-jOWQ5wPd4xvSkjI5.htm)|Mystic Carriage|Carrosse mystique|changé|
 |[conjuration-06-fRUxp4G9kG816XAt.htm](spells/conjuration-06-fRUxp4G9kG816XAt.htm)|Lure Dream|Attirer le rêve|changé|
 |[evocation-03-oo7YcRC2gcez81PV.htm](spells/evocation-03-oo7YcRC2gcez81PV.htm)|Ki Blast|Explosion Ki|changé|
 |[necromancy-04-ikSb3LRGnrwXJBVX.htm](spells/necromancy-04-ikSb3LRGnrwXJBVX.htm)|Vital Beacon|Fanal de vie|changé|
+|[transmutation-06-NCUXsaj2yFxOVhrK.htm](spells/transmutation-06-NCUXsaj2yFxOVhrK.htm)|Create Skinstitch|Création de Maille-peaux|changé|
 |[transmutation-07-9aFg4EuOBVz0i3Lb.htm](spells/transmutation-07-9aFg4EuOBVz0i3Lb.htm)|Corrosive Body|Corps corrosif|changé|
 
 ## Liste des traductions complétés
@@ -197,7 +199,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-03-g4MAIQodRDVfNp1B.htm](spells/conjuration-03-g4MAIQodRDVfNp1B.htm)|Personal Blizzard|Blizzard personnel|libre|
 |[conjuration-03-GKpEcy9WId6NJvtx.htm](spells/conjuration-03-GKpEcy9WId6NJvtx.htm)|Stinking Cloud|Nuage nauséabond|officielle|
 |[conjuration-03-iQD8OhhkwhvD8Blw.htm](spells/conjuration-03-iQD8OhhkwhvD8Blw.htm)|Swamp of Sloth|Marais de paresse|officielle|
-|[conjuration-03-jOWQ5wPd4xvSkjI5.htm](spells/conjuration-03-jOWQ5wPd4xvSkjI5.htm)|Mystic Carriage|Carrosse mystique|libre|
 |[conjuration-03-KsWhliKfUs3IpW3c.htm](spells/conjuration-03-KsWhliKfUs3IpW3c.htm)|Wall of Thorns|Mur d'épines|officielle|
 |[conjuration-03-LNOwaJAkCfsgTKgV.htm](spells/conjuration-03-LNOwaJAkCfsgTKgV.htm)|Wall of Water|Mur aquatique|libre|
 |[conjuration-03-mwPfoYfVGSMAaUec.htm](spells/conjuration-03-mwPfoYfVGSMAaUec.htm)|Cozy Cabin|Cabane douillette|libre|
@@ -1159,7 +1160,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-06-dR53f0p15EW7D0xC.htm](spells/transmutation-06-dR53f0p15EW7D0xC.htm)|Devil Form|Forme de diable|libre|
 |[transmutation-06-FKtPRWcs4zhwn9N1.htm](spells/transmutation-06-FKtPRWcs4zhwn9N1.htm)|Form of the Sandpoint Devil|Forme de diable de Pointesable|libre|
 |[transmutation-06-MMCQsh12TPaDdPbV.htm](spells/transmutation-06-MMCQsh12TPaDdPbV.htm)|Righteous Might|Force du colosse|officielle|
-|[transmutation-06-NCUXsaj2yFxOVhrK.htm](spells/transmutation-06-NCUXsaj2yFxOVhrK.htm)|Create Skinstitch|Création de Maille-peaux|libre|
 |[transmutation-06-Pr1ruNTbzGn3H9w5.htm](spells/transmutation-06-Pr1ruNTbzGn3H9w5.htm)|Stone to Flesh|Pierre en chair|officielle|
 |[transmutation-06-xEjGEBvTfDJECSki.htm](spells/transmutation-06-xEjGEBvTfDJECSki.htm)|Ancestral Form|Forme ancestrale|libre|
 |[transmutation-06-YtBZq49N4Um1cwm7.htm](spells/transmutation-06-YtBZq49N4Um1cwm7.htm)|Nature's Reprisal|Réprésailles de la nature|libre|

@@ -274,7 +274,7 @@
         {
             "id": "(Greater Barghest) Mutation - Poison Fangs",
             "name": "(Greater Barghest) Mutation - Poison Fangs",
-            "description": "<p>Le barghest développe de longs crocs sécrétant du poison. Sa mâchoire inflige [[/r 1d6[poison]]]{1d6 dégâts supplémentaires de poison} et [[/r {1d6}[persistent,poison]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de poison persistants}.</p>"
+            "description": "<p>Le barghest développe de longs crocs sécrétant du poison. Sa mâchoire inflige [[/r {1d6}[poison]]]{1d6 dégâts supplémentaires de poison} et [[/r {1d6}[persistent,poison]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de poison persistants}.</p>"
         },
         {
             "id": "(Ravener) Discorporate",
@@ -469,7 +469,7 @@
         {
             "id": "(Greater Barghest) Mutation - Toxic Breath",
             "name": "(Greater Barghest) Mutation - Toxic Breath",
-            "description": "<p>Le barghest peut souffler un nuage de gaz toxique qui inflige [[/r 8d6[poison]]]{8d6 dégâts de poison} à toutes les créatures situées dans un  <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 mètres</span> (jet de <span data-pf2-check=\"fortitude\" data-pf2-traits=\"damaging-effect,divine,evocation,poison\" data-pf2-label=\"DD souffle toxique\" data-pf2-dc=\"25\" data-pf2-show-dc=\"gm\">Vigueur basique</span> DD 25). Il ne peut utiliser une nouvelle fois ce pouvoir avant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
+            "description": "<p>Le barghest peut souffler un nuage de gaz toxique qui inflige [[/r {8d6}[poison]]]{8d6 dégâts de poison} à toutes les créatures situées dans un  <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 mètres</span> (jet de <span data-pf2-check=\"fortitude\" data-pf2-traits=\"damaging-effect,divine,evocation,poison\" data-pf2-label=\"DD souffle toxique\" data-pf2-dc=\"25\" data-pf2-show-dc=\"gm\">Vigueur basique</span> DD 25). Il ne peut utiliser une nouvelle fois ce pouvoir avant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
         },
         {
             "id": "(Vampire, Vrykolakas) Swift Tracker",

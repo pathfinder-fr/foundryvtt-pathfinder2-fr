@@ -5,7 +5,7 @@
  * **changé**: 121
 
 
-Dernière mise à jour: 2022-02-05 11:44 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-06 16:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -380,7 +380,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-02-fdVLlFI1SyD7QGtu.htm](classfeatures/oracle-02-fdVLlFI1SyD7QGtu.htm)|Flames Mystery (Multiclass)|Mystère des flammes (Multiclasse)|libre|
 |[oracle-02-fEwVQUXUgUqTk4sE.htm](classfeatures/oracle-02-fEwVQUXUgUqTk4sE.htm)|Tempest Mystery (Multiclass)|Mystère de la tempête (Multiclasse)|libre|
 |[oracle-02-HknLjb34RvXGrgeJ.htm](classfeatures/oracle-02-HknLjb34RvXGrgeJ.htm)|Battle Mystery (Multiclass)|Mystère du combat (Multiclasse)|libre|
-|[oracle-02-MAPeYoCQhxz4fxcL.htm](classfeatures/oracle-02-MAPeYoCQhxz4fxcL.htm)|Ancestors Mystery (Multiclass)|Mystère des ancètres (Multiclasse)|libre|
+|[oracle-02-MAPeYoCQhxz4fxcL.htm](classfeatures/oracle-02-MAPeYoCQhxz4fxcL.htm)|Ancestors Mystery (Multiclass)|Mystère des ancêtres (Multiclasse)|libre|
 |[oracle-02-N2CYUVBELOaZ7lj2.htm](classfeatures/oracle-02-N2CYUVBELOaZ7lj2.htm)|Lore Mystery (Multiclass)|Mystère du savoir (Multiclasse)|libre|
 |[oracle-02-T1061bjnCQWSfWJX.htm](classfeatures/oracle-02-T1061bjnCQWSfWJX.htm)|Life Mystery (Multiclass)|Mystère de la vie (Multiclasse)|libre|
 |[oracle-02-t6TbN6lCCfHPS3Z1.htm](classfeatures/oracle-02-t6TbN6lCCfHPS3Z1.htm)|Bones Mystery (Multiclass)|Mystère des ossements (Multiclasse)|libre|
