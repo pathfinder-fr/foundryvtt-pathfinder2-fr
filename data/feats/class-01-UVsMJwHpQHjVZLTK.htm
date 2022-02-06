@@ -2,8 +2,7 @@ Name: Explosive Leap
 Nom: Bond explosif
 PrereqEN: 
 PrereqFR: 
-État: changé
-État d'origine: libre
+État: libre
 
 ------ Description (en) ------
 <p>You aim an explosion from your innovation downward to launch yourself into the air. You jump up to 30 feet in any direction without touching the ground. You must land on a space of solid ground, or else you fall after using your next action. As normal for effects where you fall after using your next action, you still fall at the end of your turn, even if you don't use any further actions that turn.</p>
@@ -14,3 +13,6 @@ PrereqFR:
 ------ Description (fr) ------
 <p>Vous obtenez une explosion de votre innovation dirigée vers le bas pour vous lancer dans les airs. Vous sautez jusqu'à 9 mètres dans n'importe quelle direction sans toucher le sol. Vous devez atterrir sur une case de terre ferme ou vous tombez après avoir utilisé votre prochaine action. Comme c'est le cas normalement pour les effets où vous tombez après avoir utilisé votre prochaine action, vous tombez quand même à la fin de votre tour, même si vous n'utilisez pas d'autres actions ce tour-là.</p>
 </p><strong>Spécial</strong>Si votre innovation est un sbire, il peut effectuer cette action plutôt que vous.</p>
+<p>@Check[type:flat|dc:17|name:Unstable Flat Check|traits:unstable|showDC:all]{Test stabilité}</p>
+<p>En cas d'échec, l'innovation dysfonctionne de manière spectaculaire (bien qu'inoffensive), par exemple par une éruption de fumée ou une gerbe d'étincelles, et il devient impossible de l'utiliser pour d'autres actions instables.</p>
+<p>Sur un échec critique, vous subissez aussi [[{@actor.level}[fire]][dégâts de feu égaux à votre niveau}.</p>
