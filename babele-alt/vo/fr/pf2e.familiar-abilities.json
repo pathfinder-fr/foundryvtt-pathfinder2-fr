@@ -1,165 +1,10 @@
 {
-    "label": "Aptitudes des familiers",
+    "label": "pouvoirs des familiers",
     "entries": [
-        {
-            "id": "Accompanist",
-            "name": "Accompanist",
-            "description": "<p>Votre familier aide votre représentation. Lorsque vous tentez un test de Représentation, si votre familier est à proximité et peut agir, il vous accompagne avec des gazouillements, des applaudissement ou son propre instrument miniature. Cela vous donne un bonus de circonstances de +1 ou de +2 si vous êtes maître en Représentation.</p>"
-        },
-        {
-            "id": "Master's Form",
-            "name": "Master's Form",
-            "description": "<p>Votre familier peut changer de forme par une unique action, se transformant en un humanoïde de votre héritage avec le même âge, le même genre et la même constitution que celle de sa véritable forme, bien qu'il présente toujours un reste surnaturel évident de sa nature, comme des yeux de chat ou une langue de serpent. Cette forme est toujours la même chaque fois qu'il utilise cette capacité. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Forme humanoïde}, sauf que le changement est purement cosmétique. Il apparaît seulement comme humanoïde mais ne gagne aucune capacité nouvelle. Votre familier doit avoir les capacités @Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]{dextérité manuelle} et @Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]{parole} pour pouvoir sélectionner cette capacité.</p>"
-        },
-        {
-            "id": "Fast Movement: Fly",
-            "name": "Fast Movement: Fly",
-            "description": "<p>Augmentez la Vitesse de vol de votre familier de 7,5 à 12 m.</p>"
-        },
-        {
-            "id": "Spell Delivery",
-            "name": "Spell Delivery",
-            "description": "<p>Si votre familier se trouve dans votre case, vous pouvez lancer un sort avec une portée de contact, transférer son pouvoir à votre familier et ordonner à votre familier de délivrer le sort. Si vous procédez ainsi, le familier utilise ses 2 actions pour le round afin de se déplacer vers une cible de votre choix et aller toucher cette cible. S’il n’arrive pas au contact de la cible ce tour-ci, le sort n’a aucun effet.</p>"
-        },
-        {
-            "id": "Fast Movement: Swim",
-            "name": "Fast Movement: Swim",
-            "description": "<p>Augmentez la Vitesse de nage de votre familier de 7,5 à 12 m.</p>"
-        },
-        {
-            "id": "Toolbearer",
-            "name": "Toolbearer",
-            "description": "<p>Votre familier peut transporter un jeu d'outils correspondant à un Encombrement léger. Tant que votre familier est adjacent à vous, vous pouvez retirer et replacer les outils durant l'action au cours de laquelle vous les utilisez comme si vous les maniez. Votre familier doit avoir la capacité @Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]{dextérité manuelle} pour utiliser cette capacité.</p>"
-        },
-        {
-            "id": "Resistance",
-            "name": "Resistance",
-            "description": "<p>Choisissez deux des dégâts suivants : acide, électricité, feu, froid, poison ou son. Votre familier obtient une résistance égale à la moitié de votre niveau contre les types de dégâts choisis.</p>"
-        },
-        {
-            "id": "Scent",
-            "name": "Scent",
-            "description": "<p>Votre familier gagne odorat (imprécis, 9 m).</p>"
-        },
-        {
-            "id": "Spell Battery",
-            "name": "Spell Battery",
-            "description": "<p>Vous gagnez un emplacement de sort supplémentaire d’au moins 3 niveaux inférieurs à celui de votre emplacement de sort le plus élevé ; vous devez pouvoir lancer des sorts de niveau 4 utilisant des emplacements de sorts pour sélectionner ce pouvoir de maître.</p>"
-        },
-        {
-            "id": "Damage Avoidance: Reflex",
-            "name": "Damage Avoidance: Reflex",
-            "description": "<p>Votre familier ne subit aucun dégât lorsqu’il réussit un jet de Réflexes ; cela n’empêche pas les effets autres que les dégâts.</p>"
-        },
-        {
-            "id": "Touch Telepathy",
-            "name": "Touch Telepathy",
-            "description": "<p>Votre familier peut communiquer télépathiquement avec vous par le contact. S'il possède également la capacité parole, il peut télépathiquement communiquer par le contact avec toute créature avec laquelle il partage une langue.</p>"
-        },
-        {
-            "id": "Verdant Burst",
-            "name": "Verdant Burst",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<hr />\n<p>Lorsque votre familier meurt, il relâche son énergie primordiale pour lancer la version de <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> à trois actions, intensifié à un niveau inférieur de 1 à votre plus haut emplacement de sort. Le sort <em>Guérison</em> obtient aussi un bonus de statut égal à deux fois le niveau de sort au nombre de Points de vie qu'il redonne aux plantes. Vous devez être capable de lancer les sorts de niveau 2 en utilisant des emplacements de sort pour choisir cette aptitude de familier.</p>"
-        },
-        {
-            "id": "Familiar Focus",
-            "name": "Familiar Focus",
-            "description": "<p>Une fois par jour, votre familier peut utiliser 2 actions avec le trait concentration pour regagner 1 point de focalisation, jusqu’à votre maximum habituel. Vous devez disposer d’une réserve de focalisation pour sélectionner ce pouvoir.</p>"
-        },
-        {
-            "id": "Tough",
-            "name": "Tough",
-            "description": "<p>Le nombre maximal de Point de vie de votre familier augmente de 2 par niveau</p>"
-        },
-        {
-            "id": "Share Senses",
-            "name": "Share Senses",
-            "description": "<p>Une fois toutes les 10 minutes, vous pouvez dépenser une action unique avec le trait concentration pour projeter vos sens à l’intérieur de votre familier. Lorsque vous le faites, vous perdez toutes les informations sensorielles de votre propre corps, mais pouvez sentir celles de votre familier durant un maximum de 1 minute. Vous pouvez Révoquer cet effet.</p>"
-        },
-        {
-            "id": "Independent",
-            "name": "Independent",
-            "description": "<p>Lors d'une rencontre, si vous ne donnez pas d'ordre à votre familier, il obtient toujours 1 action chaque round. Typiquement, vous décidez toujours comment il dépense cette action, mais le MJ peut déterminer que votre familier choisit sa propre tactique plutôt qu'accomplir l'action que vous préférez.</p>"
-        },
-        {
-            "id": "Climber",
-            "name": "Climber",
-            "description": "<p> Votre familier gagne une Vitesse d’escalade de 7,5 m.</p>"
-        },
-        {
-            "id": "Fast Movement: Land",
-            "name": "Fast Movement: Land",
-            "description": "<p>Augmentez la Vitesse de votre familier de 7,5 à 12 m.</p>"
-        },
-        {
-            "id": "Partner in Crime",
-            "name": "Partner in Crime",
-            "description": "<p>Votre familier est votre associé criminel. En dépit d'être un sbire, votre familier obtient une réaction au début de son tour, qu'il ne peut utiliser que pour vous aider sur un test de compétence de Duperie ou de Vol or Thievery (il doit toujours se préparer à vous aider comme habituellement avec la réaction Aider). Il obtient automatiquement un succès à son test pour vous Aider avec ces compétences ou obtient un succès critique  si vous êtes maître dans la compétence en question.</p>"
-        },
-        {
-            "id": "Recall Familiar",
-            "name": "Recall Familiar",
-            "description": "<p>Vous pouvez convoquer votre familier à vos côtés. Une fois par jour, vous pouvez utiliser une activité de 3 actions, qui a le trait concentration, pour téléporter votre familier dans votre case. Votre familier doit être à moins de 1,5 kilomètres ou la tentative de convocation est perdue. Ceci est un effet d'invocation et de téléportation.</p>"
-        },
-        {
-            "id": "Innate Surge",
-            "name": "Innate Surge",
-            "description": "<p>Une fois par jour, vous pouvez puiser dans la magie innée de votre familier pour alimenter la vôtre. Vous pouvez lancer un sort inné octroyé par un don ancestral que vous avez déjà lancé aujourd'hui. Vous devez tout de même Lancer le sort et remplir ses autres conditions.</p>"
-        },
-        {
-            "id": "Cantrip Connection",
-            "name": "Cantrip Connection",
-            "description": "<p>Vous pouvez préparer un tour de magie supplémentaire ou, si vous possédez un répertoire, désigner à la place un tour de magie à lui ajouter à chaque fois que vous sélectionnez ce pouvoir ; vous pouvez le réapprendre, mais vous ne pouvez pas autrement le changer. Pour sélectionner ce pouvoir, vous devez être capable de préparer des tours de magie ou de les ajouter à votre répertoire.</p>"
-        },
-        {
-            "id": "Amphibious",
-            "name": "Amphibious",
-            "description": "<p>Votre familier gagne une Vitesse de nage de 7,5 m (ou une Vitesse de 7,5 m s’il a déjà une Vitesse de nage).</p>"
-        },
-        {
-            "id": "Flier",
-            "name": "Flier",
-            "description": "<p>Votre familier gagne une Vitesse de vol de 7,5 m.</p>"
-        },
         {
             "id": "Tattoo Transformation",
             "name": "Tattoo Transformation",
             "description": "<p>Votre familier peut se transformer en tatouage que vous portez sur votre peau. Lorsqu'il est transformé en tatouage, le familier est représenté sous forme de portrait stylisé et coloré et ne dispose d'aucune action sauf celle consistant à redevenir un familier. Il n'est pas affecté par les effets de zone et doit être ciblé indépendamment pour être affecté, ce qui demande de connaître le fait que le tatouage est une créature. Cela signifie que vous et vos alliés pouvez guérir et porter assistance au familier, alors que la plupart des ennemis ne connaissent pas sa vraie nature. Les créatures doivent tenter un jet de @Check[type:perception|dc:20|showDC:all]{Perception} DD 20 en utilisant l'action Chercher pour réaliser que c'est un familier (peu d'ennemis le tenteront). Votre familier peut encore communiquer ses sensations de manière empathique. Se transformer en tatouage ou revenir à sa forme de familier est une activité qui dure 1 minute et qui possède le trait concentration.</p>"
-        },
-        {
-            "id": "Manual Dexterity",
-            "name": "Manual Dexterity",
-            "description": "<p>Votre familier peut utiliser jusqu’à deux de ses membres comme s’il s’agissait de mains pour les actions Manipulation.</p>"
-        },
-        {
-            "id": "Lifelink",
-            "name": "Lifelink",
-            "description": "<p>Si votre familier est réduit par des dégâts à 0 PV, vous pouvez encaisser les dégâts à sa place en tant que réaction avec le trait concentration. Si vous agissez ainsi, vous subissez tous les dégâts et votre familier aucun. Cependant, les effets spéciaux qui surviennent lorsqu’un coup inflige des dégâts à votre familier (comme le venin de serpent) continuent de s’appliquer.</p>"
-        },
-        {
-            "id": "Extra Reagents",
-            "name": "Extra Reagents",
-            "description": "<p>Votre familier développe des réactifs imprégnés supplémentaires sur ou à l’intérieur de son corps. Vous gagnez un lot supplémentaire de réactifs imprégnés. Vous devez posséder la capacité réactifs imprégnés pour sélectionner ce pouvoir.</p>"
-        },
-        {
-            "id": "Darkvision",
-            "name": "Darkvision",
-            "description": "<p>Votre familier gagne vision dans le noir</p>"
-        },
-        {
-            "id": "Valet",
-            "name": "Valet",
-            "description": "<p>Vous pouvez ordonner à votre familier de vous donner des objets avec une grande efficacité. Votre familier n'utilise pas ses deux actions immédiatement lorsque vous lui donnez un ordre. À la place, jusqu'à deux fois avant la fin de votre tour, votre familier peut utiliser deux actions Interagir pour récupérer un objet d'encombrement léger ou négligeable que vous êtes en train de manier et le placer dans une de vous mains libres. Le familier ne peut utiliser cette capacité pour récupérer des objets rangés. Si le familier possède un nombre d'actions différentes, il peut retirer un objet pour chaque action qu'il possède lorsque vous lui avez donné des ordres de cette manière.</p>"
-        },
-        {
-            "id": "Speech",
-            "name": "Speech",
-            "description": "<p>Votre familier comprend et parle une langue que vous connaissez.</p>"
-        },
-        {
-            "id": "Burrower",
-            "name": "Burrower",
-            "description": "<p>Votre familier gagne une Vitesse de creusement de 1,5 m, qui lui permet de creuser des trous très Petits.</p>"
         },
         {
             "id": "Kinspeech",
@@ -167,49 +12,24 @@
             "description": "<p>Votre familier peut comprendre et communiquer avec des animaux de la même espèce que lui. Pour sélectionner ce pouvoir, votre familier doit être un animal, être doué de parole et vous devez être au moins de niveau 6.</p>"
         },
         {
-            "id": "Plant Form",
-            "name": "Plant Form",
-            "description": "<p>Votre familier plante peut changer de forme par une unique action, en transformant en une Très petite plante d'un type à peu près similaire à la nature du familier. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Morphologie d'arbre}. Vous devez avoir un familier avec le trait plante, tel qu'un léchi, pour choisir cette capacité.</p>"
+            "id": "Touch Telepathy",
+            "name": "Touch Telepathy",
+            "description": "<p>Votre familier peut communiquer télépathiquement avec vous par le contact. S'il possède également la capacité parole, il peut télépathiquement communiquer par le contact avec toute créature avec laquelle il partage une langue.</p>"
         },
         {
-            "id": "Fast Movement: Climb",
-            "name": "Fast Movement: Climb",
-            "description": "<p>Augmentez la Vitesse d'escalade de votre familier de 7,5 à 12 m.</p>"
+            "id": "Cantrip Connection",
+            "name": "Cantrip Connection",
+            "description": "<p>Vous pouvez préparer un tour de magie supplémentaire ou, si vous possédez un répertoire, désigner à la place un tour de magie à lui ajouter à chaque fois que vous sélectionnez ce pouvoir ; vous pouvez le réapprendre, mais vous ne pouvez pas autrement le changer. Pour sélectionner ce pouvoir, vous devez être capable de préparer des tours de magie ou de les ajouter à votre répertoire.</p>"
         },
         {
-            "id": "Purify Air",
-            "name": "Purify Air",
-            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<hr />\n<p>Votre familier recycle l'air, fournissant assez d'oxygène à une créature de taille Moyenne dans les zones avec de l'air vicié, tel qu'une chambre scellée ou un espace extradimensionnel. Si le léchi est dans la zone d'un effet de poison inhalé ou d'un effet qui est basé sur l'odorat, les créatures dans une @Template[type:emanation|distance:15]{émanation de 4,5 m} du léchi obtiennent un bonus de circonstances de +2 à leur jet de sauvegarde contre l'effet.</p>"
-        },
-        {
-            "id": "Spellcasting",
-            "name": "Spellcasting",
-            "description": "<p>Choisissez un sort dans votre répertoire ou que vous avez préparé dans la journée qui est d'au moins 5 niveaux inférieur à votre plus haut niveau d'emplacement de sort. Votre familier peut Lancer ce sort une fois par jour en utilisant votre tradition magique, votre modificateur de sort et votre DD de sort. Si le sort a un inconvénient qui affecte l'incantateur, vous êtes affectés tous les deux. Vous devez être capable de lancer des sorts de niveau 6 en utilisant des emplacements de sort pour choisir cette capacité.</p>"
+            "id": "Toolbearer",
+            "name": "Toolbearer",
+            "description": "<p>Votre familier peut transporter un jeu d'outils correspondant à un Encombrement léger. Tant que votre familier est adjacent à vous, vous pouvez retirer et replacer les outils durant l'action au cours de laquelle vous les utilisez comme si vous les maniez. Votre familier doit avoir la capacité @Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]{dextérité manuelle} pour utiliser cette capacité.</p>"
         },
         {
             "id": "Damage Avoidance: Fortitude",
             "name": "Damage Avoidance: Fortitude",
             "description": "<p>Votre familier ne subit aucun dégât lorsqu’il réussit un jet de Vigueur ; cela n’empêche pas les effets autres que les dégâts.</p>"
-        },
-        {
-            "id": "Mask Freeze",
-            "name": "Mask Freeze",
-            "description": "<p>lorsqu’il est sous forme de masque, votre familier peut dissimuler ses évidentes capacités surnaturelles afin de passer pour un masque simple et sans prétention. Il n’a pas besoin de Se déguiser pour duper un simple coup d’œil et il gagne un bonus de circonstances de +4 à son DD de Duperie contre un observateur actif qui Cherche ou qui l’étudie.</p>"
-        },
-        {
-            "id": "Poison Reservoir",
-            "name": "Poison Reservoir",
-            "description": "<p>Votre familier homoncule possède un réservoir pour le poison, permettant d'appliquer un poison de blessure à l'arme exposée d'un allié adjacent par une unique action Interagir. Vous devez fournir le poison et l'instiller dans le réservoir en utilisant deux actions Interagir consécutives. Vous devez posséder un familier homoncule pour choisir cette capacité.</p>"
-        },
-        {
-            "id": "Skilled",
-            "name": "Skilled",
-            "description": "<p>Choisissez une compétence autre que Acrobaties ou Vol. Le modificateur de votre familier dans cette compétence est égale à votre niveau auquel vous ajoutez votre modificateur de caractéristique d'incantation au lieu simplement de votre niveau. Vous pouvez choisir cette capacité plusieurs fois, en choisissant une compétence différente à chaque fois.</p>"
-        },
-        {
-            "id": "Restorative Familiar",
-            "name": "Restorative Familiar",
-            "description": "<p>Une fois par jour, votre familier peut utiliser 2 actions avec le trait Concentration pour partager un peu de son énergie vitale et vous guérir. Il doit être dans votre espace pour pouvoir le faire.  Il vous restaure un nombre de points de vie égal à [[/r max(floor(@actor.level/2)d8, 1d8)]]{1d8 fois la moitié de votre niveau} (minimum 1d8).</p>"
         },
         {
             "id": "Lab Assistant",
@@ -222,14 +42,194 @@
             "description": "<p>Prérequis @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<p>Votre familier peut faire pousser des lianes ou des vrilles similaires, augmentant son allonge à 4,5 m.</p>"
         },
         {
+            "id": "Focused Rejuvenation",
+            "name": "Focused Rejuvenation",
+            "description": "<p>Lorsque vous Refocalisez, vous générez de l'énergie magique qui soine votre familier.</p>\n<p>Votre familier récupère 1 Point de Vie par niveau lorsque vous Refocalisez.</p>"
+        },
+        {
+            "id": "Mask Freeze",
+            "name": "Mask Freeze",
+            "description": "<p>lorsqu’il est sous forme de masque, votre familier peut dissimuler ses évidentes capacités surnaturelles afin de passer pour un masque simple et sans prétention. Il n’a pas besoin de Se déguiser pour duper un simple coup d’œil et il gagne un bonus de circonstances de +4 à son DD de Duperie contre un observateur actif qui Cherche ou qui l’étudie.</p>"
+        },
+        {
+            "id": "Purify Air",
+            "name": "Purify Air",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<hr />\n<p>Votre familier recycle l'air, fournissant assez d'oxygène à une créature de taille Moyenne dans les zones avec de l'air vicié, tel qu'une chambre scellée ou un espace extradimensionnel. Si le léchi est dans la zone d'un effet de poison inhalé ou d'un effet qui est basé sur l'odorat, les créatures dans une @Template[type:emanation|distance:15]{émanation de 4,5 m} du léchi obtiennent un bonus de circonstances de +2 à leur jet de sauvegarde contre l'effet.</p>"
+        },
+        {
+            "id": "Fast Movement: Swim",
+            "name": "Fast Movement: Swim",
+            "description": "<p>Augmentez la Vitesse de nage de votre familier de 7,5 à 12 m.</p>"
+        },
+        {
+            "id": "Partner in Crime",
+            "name": "Partner in Crime",
+            "description": "<p>Votre familier est votre associé criminel. En dépit d'être un sbire, votre familier obtient une réaction au début de son tour, qu'il ne peut utiliser que pour vous aider sur un test de compétence de Duperie ou de Vol or Thievery (il doit toujours se préparer à vous aider comme habituellement avec la réaction Aider). Il obtient automatiquement un succès à son test pour vous Aider avec ces compétences ou obtient un succès critique  si vous êtes maître dans la compétence en question.</p>"
+        },
+        {
+            "id": "Share Senses",
+            "name": "Share Senses",
+            "description": "<p>Une fois toutes les 10 minutes, vous pouvez dépenser une action unique avec le trait concentration pour projeter vos sens à l’intérieur de votre familier. Lorsque vous le faites, vous perdez toutes les informations sensorielles de votre propre corps, mais pouvez sentir celles de votre familier durant un maximum de 1 minute. Vous pouvez Révoquer cet effet.</p>"
+        },
+        {
+            "id": "Recall Familiar",
+            "name": "Recall Familiar",
+            "description": "<p>Vous pouvez convoquer votre familier à vos côtés. Une fois par jour, vous pouvez utiliser une activité de 3 actions, qui a le trait concentration, pour téléporter votre familier dans votre case. Votre familier doit être à moins de 1,5 kilomètres ou la tentative de convocation est perdue. Ceci est un effet d'invocation et de téléportation.</p>"
+        },
+        {
+            "id": "Burrower",
+            "name": "Burrower",
+            "description": "<p>Votre familier gagne une Vitesse de creusement de 1,5 m, qui lui permet de creuser des trous très Petits.</p>"
+        },
+        {
+            "id": "Innate Surge",
+            "name": "Innate Surge",
+            "description": "<p>Une fois par jour, vous pouvez puiser dans la magie innée de votre familier pour alimenter la vôtre. Vous pouvez lancer un sort inné octroyé par un don ancestral que vous avez déjà lancé aujourd'hui. Vous devez tout de même Lancer le sort et remplir ses autres conditions.</p>"
+        },
+        {
+            "id": "Accompanist",
+            "name": "Accompanist",
+            "description": "<p>Votre familier aide votre représentation. Lorsque vous tentez un test de Représentation, si votre familier est à proximité et peut agir, il vous accompagne avec des gazouillements, des applaudissement ou son propre instrument miniature. Cela vous donne un bonus de circonstances de +1 ou de +2 si vous êtes maître en Représentation.</p>"
+        },
+        {
+            "id": "Climber",
+            "name": "Climber",
+            "description": "<p> Votre familier gagne une Vitesse d’escalade de 7,5 m.</p>"
+        },
+        {
+            "id": "Verdant Burst",
+            "name": "Verdant Burst",
+            "description": "<p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<hr />\n<p>Lorsque votre familier meurt, il relâche son énergie primordiale pour lancer la version de <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> à trois actions, intensifié à un niveau inférieur de 1 à votre plus haut emplacement de sort. Le sort <em>Guérison</em> obtient aussi un bonus de statut égal à deux fois le niveau de sort au nombre de Points de vie qu'il redonne aux plantes. Vous devez être capable de lancer les sorts de niveau 2 en utilisant des emplacements de sort pour choisir cette aptitude de familier.</p>"
+        },
+        {
+            "id": "Spell Battery",
+            "name": "Spell Battery",
+            "description": "<p>Vous gagnez un emplacement de sort supplémentaire d’au moins 3 niveaux inférieurs à celui de votre emplacement de sort le plus élevé ; vous devez pouvoir lancer des sorts de niveau 4 utilisant des emplacements de sorts pour sélectionner ce pouvoir de maître.</p>"
+        },
+        {
+            "id": "Fast Movement: Climb",
+            "name": "Fast Movement: Climb",
+            "description": "<p>Augmentez la Vitesse d'escalade de votre familier de 7,5 à 12 m.</p>"
+        },
+        {
             "id": "Damage Avoidance: Will",
             "name": "Damage Avoidance: Will",
             "description": "<p>Votre familier ne subit aucun dégât lorsqu’il réussit un jet de Volonté ; cela n’empêche pas les effets autres que les dégâts.</p>"
         },
         {
-            "id": "Focused Rejuvenation",
-            "name": "Focused Rejuvenation",
-            "description": "<p>Lorsque vous Refocalisez, vous générez de l'énergie magique qui soine votre familier.</p>\n<p>Votre familier récupère 1 Point de Vie par niveau lorsque vous Refocalisez.</p>"
+            "id": "Independent",
+            "name": "Independent",
+            "description": "<p>Lors d'une rencontre, si vous ne donnez pas d'ordre à votre familier, il obtient toujours 1 action chaque round. Typiquement, vous décidez toujours comment il dépense cette action, mais le MJ peut déterminer que votre familier choisit sa propre tactique plutôt qu'accomplir l'action que vous préférez.</p>"
+        },
+        {
+            "id": "Fast Movement: Fly",
+            "name": "Fast Movement: Fly",
+            "description": "<p>Augmentez la Vitesse de vol de votre familier de 7,5 à 12 m.</p>"
+        },
+        {
+            "id": "Fast Movement: Land",
+            "name": "Fast Movement: Land",
+            "description": "<p>Augmentez la Vitesse de votre familier de 7,5 à 12 m.</p>"
+        },
+        {
+            "id": "Flier",
+            "name": "Flier",
+            "description": "<p>Votre familier gagne une Vitesse de vol de 7,5 m.</p>"
+        },
+        {
+            "id": "Restorative Familiar",
+            "name": "Restorative Familiar",
+            "description": "<p>Une fois par jour, votre familier peut utiliser 2 actions avec le trait Concentration pour partager un peu de son énergie vitale et vous guérir. Il doit être dans votre espace pour pouvoir le faire.  Il vous restaure un nombre de points de vie égal à [[/r max(floor(@actor.level/2)d8, 1d8)]]{1d8 fois la moitié de votre niveau} (minimum 1d8).</p>"
+        },
+        {
+            "id": "Plant Form",
+            "name": "Plant Form",
+            "description": "<p>Votre familier plante peut changer de forme par une unique action, en transformant en une Très petite plante d'un type à peu près similaire à la nature du familier. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Morphologie d'arbre}. Vous devez avoir un familier avec le trait plante, tel qu'un léchi, pour choisir cette capacité.</p>"
+        },
+        {
+            "id": "Tough",
+            "name": "Tough",
+            "description": "<p>Le nombre maximal de Point de vie de votre familier augmente de 2 par niveau</p>"
+        },
+        {
+            "id": "Lifelink",
+            "name": "Lifelink",
+            "description": "<p>Si votre familier est réduit par des dégâts à 0 PV, vous pouvez encaisser les dégâts à sa place en tant que réaction avec le trait concentration. Si vous agissez ainsi, vous subissez tous les dégâts et votre familier aucun. Cependant, les effets spéciaux qui surviennent lorsqu’un coup inflige des dégâts à votre familier (comme le venin de serpent) continuent de s’appliquer.</p>"
+        },
+        {
+            "id": "Resistance",
+            "name": "Resistance",
+            "description": "<p>Choisissez deux des dégâts suivants : acide, électricité, feu, froid, poison ou son. Votre familier obtient une résistance égale à la moitié de votre niveau contre les types de dégâts choisis.</p>"
+        },
+        {
+            "id": "Damage Avoidance: Reflex",
+            "name": "Damage Avoidance: Reflex",
+            "description": "<p>Votre familier ne subit aucun dégât lorsqu’il réussit un jet de Réflexes ; cela n’empêche pas les effets autres que les dégâts.</p>"
+        },
+        {
+            "id": "Valet",
+            "name": "Valet",
+            "description": "<p>Vous pouvez ordonner à votre familier de vous donner des objets avec une grande efficacité. Votre familier n'utilise pas ses deux actions immédiatement lorsque vous lui donnez un ordre. À la place, jusqu'à deux fois avant la fin de votre tour, votre familier peut utiliser deux actions Interagir pour récupérer un objet d'encombrement léger ou négligeable que vous êtes en train de manier et le placer dans une de vous mains libres. Le familier ne peut utiliser cette capacité pour récupérer des objets rangés. Si le familier possède un nombre d'actions différentes, il peut retirer un objet pour chaque action qu'il possède lorsque vous lui avez donné des ordres de cette manière.</p>"
+        },
+        {
+            "id": "Scent",
+            "name": "Scent",
+            "description": "<p>Votre familier gagne odorat (imprécis, 9 m).</p>"
+        },
+        {
+            "id": "Master's Form",
+            "name": "Master's Form",
+            "description": "<p>Votre familier peut changer de forme par une unique action, se transformant en un humanoïde de votre héritage avec le même âge, le même genre et la même constitution que celle de sa véritable forme, bien qu'il présente toujours un reste surnaturel évident de sa nature, comme des yeux de chat ou une langue de serpent. Cette forme est toujours la même chaque fois qu'il utilise cette capacité. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Forme humanoïde}, sauf que le changement est purement cosmétique. Il apparaît seulement comme humanoïde mais ne gagne aucune capacité nouvelle. Votre familier doit avoir les capacités @Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]{dextérité manuelle} et @Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]{parole} pour pouvoir sélectionner cette capacité.</p>"
+        },
+        {
+            "id": "Skilled",
+            "name": "Skilled",
+            "description": "<p>Choisissez une compétence autre que Acrobaties ou Vol. Le modificateur de votre familier dans cette compétence est égale à votre niveau auquel vous ajoutez votre modificateur de caractéristique d'incantation au lieu simplement de votre niveau. Vous pouvez choisir cette capacité plusieurs fois, en choisissant une compétence différente à chaque fois.</p>"
+        },
+        {
+            "id": "Extra Reagents",
+            "name": "Extra Reagents",
+            "description": "<p>Votre familier développe des réactifs imprégnés supplémentaires sur ou à l’intérieur de son corps. Vous gagnez un lot supplémentaire de réactifs imprégnés. Vous devez posséder la capacité réactifs imprégnés pour sélectionner ce pouvoir.</p>"
+        },
+        {
+            "id": "Poison Reservoir",
+            "name": "Poison Reservoir",
+            "description": "<p>Votre familier homoncule possède un réservoir pour le poison, permettant d'appliquer un poison de blessure à l'arme exposée d'un allié adjacent par une unique action Interagir. Vous devez fournir le poison et l'instiller dans le réservoir en utilisant deux actions Interagir consécutives. Vous devez posséder un familier homoncule pour choisir cette capacité.</p>"
+        },
+        {
+            "id": "Spell Delivery",
+            "name": "Spell Delivery",
+            "description": "<p>Si votre familier se trouve dans votre case, vous pouvez lancer un sort avec une portée de contact, transférer son pouvoir à votre familier et ordonner à votre familier de délivrer le sort. Si vous procédez ainsi, le familier utilise ses 2 actions pour le round afin de se déplacer vers une cible de votre choix et aller toucher cette cible. S’il n’arrive pas au contact de la cible ce tour-ci, le sort n’a aucun effet.</p>"
+        },
+        {
+            "id": "Familiar Focus",
+            "name": "Familiar Focus",
+            "description": "<p>Une fois par jour, votre familier peut utiliser 2 actions avec le trait concentration pour regagner 1 point de focalisation, jusqu’à votre maximum habituel. Vous devez disposer d’une réserve de focalisation pour sélectionner ce pouvoir.</p>"
+        },
+        {
+            "id": "Darkvision",
+            "name": "Darkvision",
+            "description": "<p>Votre familier gagne vision dans le noir</p>"
+        },
+        {
+            "id": "Manual Dexterity",
+            "name": "Manual Dexterity",
+            "description": "<p>Votre familier peut utiliser jusqu’à deux de ses membres comme s’il s’agissait de mains pour les actions Manipulation.</p>"
+        },
+        {
+            "id": "Spellcasting",
+            "name": "Spellcasting",
+            "description": "<p>Choisissez un sort dans votre répertoire ou que vous avez préparé dans la journée qui est d'au moins 5 niveaux inférieur à votre plus haut niveau d'emplacement de sort. Votre familier peut Lancer ce sort une fois par jour en utilisant votre tradition magique, votre modificateur de sort et votre DD de sort. Si le sort a un inconvénient qui affecte l'incantateur, vous êtes affectés tous les deux. Vous devez être capable de lancer des sorts de niveau 6 en utilisant des emplacements de sort pour choisir cette capacité.</p>"
+        },
+        {
+            "id": "Amphibious",
+            "name": "Amphibious",
+            "description": "<p>Votre familier gagne une Vitesse de nage de 7,5 m (ou une Vitesse de 7,5 m s’il a déjà une Vitesse de nage).</p>"
+        },
+        {
+            "id": "Speech",
+            "name": "Speech",
+            "description": "<p>Votre familier comprend et parle une langue que vous connaissez.</p>"
         }
     ],
     "mapping": {
