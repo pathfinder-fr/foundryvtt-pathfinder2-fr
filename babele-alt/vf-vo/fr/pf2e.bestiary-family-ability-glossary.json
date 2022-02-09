@@ -2,274 +2,9 @@
     "label": "Capacités des familles de monstre",
     "entries": [
         {
-            "id": "(Lich) Void Shroud",
-            "name": "(Liche) Linceul de néant ((Lich) Void Shroud)",
-            "description": "<p>@Template[type:emanation|distance:30]{9 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>La liche est enveloppée par une aura de mort qui attire les âmes dont la liche se nourrit pour apaiser sa faim constante.</p>\n<p>Les créatures vivantes dans l’émanation subissent un malus de statut de −2 à leurs jets de sauvegarde contre la terreur et les effets de mort. De plus, toute créature qui commence son tour dans la zone subit l’état @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 1 à moins de réussir un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,death,necromancy\" data-pf2-label=\"DD Linceul du néant\" data-pf2-show-dc=\"gm\">Volonté</span> contre le DD des sorts de la liche −4.</p>\n<p>@Compendium[pf2e.bestiary-effects.i3942RucZD9OHbAE]{Effet : Linceul de néant}</p>"
-        },
-        {
-            "id": "(Ravener) Soul Ward",
-            "name": "(Dévoreur draconique) Armure d’âmes ((Ravener) Soul Ward)",
-            "description": "<p>Un champ d’énergie nécromantique intangible protège le dévoreur draconique contre l’annihilation. Une armure d’âmes a un maximum de PV de 150, 200 si le dévoreur est de niveau 21 ou plus.</p>\n<p>Lorsque le dévoreur devrait tomber à moins de 1 PV, tous les dégâts en plus de ceux le mettant à 1 PV sont déviés sur l’armure d’âmes. Si ces dégâts réduisent l’armure à moins de 0 PV, le dévoreur est détruit.</p>\n<p>Pour rendre des PV à l’armure d’âmes, il faut impérativement utiliser des pouvoirs de dévoreur bien particulier, comme Dévorer les âmes, souffle dévorant ou critiques vicieux. Un dévoreur draconique qui passe plus d’une semaine sans parvenir à utiliser Dévorer les âmes pour se nourrir d’une créature à l’agonie meurt de faim et son armure d’âmes perd [[/r 1d4 #Points de vie]]{1d4 Points de Vie} chaque jour jusqu’à ce qu’il ait mangé. Si l’armure perd tous ses points de vie alors que le dévoreur a encore plus de 1 PV, celui-ci devient un @Compendium[pf2e.pathfinder-bestiary-2.Yv0005Vym1peVKHq]{Vestige de dévoreur}.</p>"
-        },
-        {
-            "id": "(Vampire, Vrykolakas Master) Create Spawn",
-            "name": "(Vampire, maître vrykolakas) Création de rejetons ((Vampire, Vrykolakas Master) Create Spawn)",
-            "description": "<p>Si une créature meurt après avoir été réduite à 0 PV par le pouvoir Boire le sang, le maître vrykolakas peut la changer en @Compendium[pf2e.pathfinder-bestiary-2.8IyfadYYpYXBvlXN]{Rejeton vrykolakas} en lui donnant un peu de son propre sang et en l’enterrant pendant 3 nuits.</p> \n<p>Un rejeton vrykolakas est en général amical envers le vrykolakas qui l’a engendré, mais n’est pas sous son contrôle. Après les [[/r 1d6 #days]]{1d6 premiers jours} suivant sa création, il part généralement semer ses propres ravages de son côté.</p>"
-        },
-        {
-            "id": "(Ravener) Cowering Fear",
-            "name": "(Dévoreur draconique) Recroquevillé de terreur ((Ravener) Cowering Fear)",
-            "description": "<p>@Template[type:emanation|distance:0]{0 feet} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,emotion,fear,mental\" data-pf2-label=\"DD recroquevillé de terreur\" data-pf2-show-dc=\"gm\">Volonté</span></p>\n<p>Les créatures se recroquevillent de terreur face à la présence terrifiante du dévoreur draconique. Tant qu’une créature est au moins @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 2 à cause de la présence terrifiante du dévoreur, elle est aussi @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} par la peur.</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
-        },
-        {
-            "id": "(Graveknight) Create Grave Squire",
-            "name": "(Chevalier sépulcre) Grand écuyer du sépulcre ((Graveknight) Create Grave Squire)",
-            "description": "<p>Le chevalier sépulcre peut donner un morceau de son armure à un allié volontaire qui devient un écuyer du sépulcre.</p>\n<p>Le chevalier peut communiquer par télépathie avec son écuyer à n’importe quelle distance, utiliser ses sens et lancer à volonté le sort Compendium[pf2e.spells-srd.qwlh6aDgi86U3Q7H]{Suggestion} en tant que sort inné divin à travers le lien télépathique ; l’écuyer considère son degré de succès comme inférieur d’un échelon.</p>\n<p>Si la principale armure du chevalier sépulcre est détruite, le morceau d’armure de l’écuyer s’étend jusqu’à couvrir tout son corps en 1d10 jours, après quoi il devient le nouveau corps du chevalier sépulcre.</p>\n<p>Le chevalier sépulcre ne peut avoir qu’un seul écuyer à la fois et il doit récupérer la pièce d’armure donnée s’il veut en créer un autre.</p>"
-        },
-        {
-            "id": "(Ghost) Cold Spot",
-            "name": "(Fantôme) Point froid ((Ghost) Cold Spot)",
-            "description": "<p>@Template[type:emanation|distance:5|damaging:yes]{1,5 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>L'air d'une aura de 1,5 mètres autour du fantôme est d'un froid supernaturel. Les personnages qui entrent dans cette aura ou commencent leur tour dans cette aura subissent  [[/r {1d6}[cold]]]{1d6 dégâts de froid} par tranche de 3 niveau de fantôme (avec un jet de sauvegarde <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"aura,cold,divine,damaging-effect\" data-pf2-label=\"Cold Spot DC\" data-pf2-show-dc=\"gm\">Vigueur basique</span> ).</p>"
-        },
-        {
-            "id": "(Worm That Walks) Squirming Embrace",
-            "name": "(Ver-qui-marche) Etreinte grouillante ((Worm That Walks) Squirming Embrace)",
-            "description": "<p>Le ver-qui-marche Marche rapidement et termine son déplacement dans l’espace occupé par une autre créature, à laquelle il inflige une quantité de dégâts perforants égale à [[/r {1d8}[piercing]]]{1d8 perforants}, plus 1d8 pour chaque tranche de 3 niveaux qu’il possède. La créature peut tenter un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"damaging-effect\" data-pf2-label=\"DD étreinte grouillante\" data-pf2-show-dc=\"gm\">Réflexes basique</span> dont le DD est égal au DD des sorts du ver-qui-marche −2.</p>"
-        },
-        {
-            "id": "(Vampire, True) Children of the Night",
-            "name": "(Vampire, véritable) Enfant de la nuit ((Vampire, True) Children of the Night)",
-            "description": "<p>La présence du vampire attire des créatures de la nuit venues recevoir ses ordres. Il s’agit souvent de @Compendium[pf2e.pathfinder-bestiary.sPClc6y3dT3XZupv]{Nuées de rats}, de @Compendium[pf2e.pathfinder-bestiary.VAWmwDA08ZLQd8lW]{Nuées de chauves-souris} ou de @Compendium[pf2e.pathfinder-bestiary.Oilfs8Atv2LjAsUS]{Loups}, mais il peut y avoir d’autres créatures.</p>\n<p>Le vampire peut leur donner des ordres par télépathie dans un rayon de 30 mètres, mais elles ne peuvent pas communiquer en retour.</p>"
-        },
-        {
-            "id": "(Skeleton) Explosive Death",
-            "name": "(Squelette) Mort explosive ((Skeleton) Explosive Death)",
-            "description": "<p>Quand le squelette est détruit, l’énergie nécromantique qui l’animait est libérée et fait exploser ses os.</p>\n<p>Les créatures adjacentes subissent [[/r {1d6}[slashing]]]{1d6 dégâts tranchants} par tranche de 2 niveaux (avec un minimum de 1d6) et peuvent faire un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"damaging-effect\" data-pf2-label=\"Explosive Death DC\" data-pf2-show-dc=\"gm\">Réflexes basique</span></p>."
-        },
-        {
-            "id": "(Divine Warden) Faith Bound",
-            "name": "(Garde divin) Liens de foi ((Divine Warden) Faith Bound)",
-            "description": "<p>Un Garde divin ne peut pas attaquer une créature qui porte ou affiche ouvertement le symbole religieux de sa divinité patronne, sauf si cette créature utilise d'abord une action hostile contre le Garde divin. Si le gardien divin est intelligent, il peut également attaquer une créature dont il pense qu'elle n'est pas fidèle à sa divinité ou qu'elle porte le symbole religieux comme une ruse (généralement après avoir réussi un test de Perception pour Deviner les intentions).</p>"
-        },
-        {
-            "id": "(Lich) Blasphemous Utterances",
-            "name": "(Liche) Paroles blasphématoires ((Lich) Blasphemous Utterances)",
-            "description": "<p>@Template[type:emanation|distance:10]{3 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>La liche est enveloppée d’un écho constant de murmures blasphématoires et de chuchotements impies.</p>\n<p>Une créature dans l’aura subit un malus de circonstances de −2 à ses jets de sauvegarde contre les effets mentaux et ne peut utiliser d’actions avec le trait Concentration à moins de réussir un <span data-pf2-check=\"flat\" data-pf2-dc=\"10\">test nu DD 10</span>. Si le test rate, l’action est perdue.</p>\n<p>@Compendium[pf2e.bestiary-effects.jrfuplUEq3PIo6j1]{Effet : Paroles blasphématoires}</p>"
-        },
-        {
-            "id": "(Graveknight) Graveknight's Shield",
-            "name": "(Chevalier sépulcre) Bouclier du chevalier sépulcre ((Graveknight) Graveknight's Shield)",
-            "description": "<p>La malédiction du chevalier sépulcre s'étend à son bouclier our l'armure du chevalier sépulcre utilise une portion d'elle-même pour produire un bouclier.</p>\n<p>Le chevalier sépulcre possède un bouclier qui utilise les statistiques d'un <em>@Compendium[pf2e.equipment-srd.f9ygr5Cjrmop8LWV]{Bouclier renforcé}</em> d'un niveau qui n'est pas supérieur au niveau du chevalier sépulcre - 1.</p>\n<p>Le bouclierest quasi-indépendant du chevalier sépulcre et protège automatiquement le chevalier sépulcre des blessures. Lorsque le bouclier est levé, il utilise automatiquement Blocage au bouclier pour réduire les dégâts de la première attaque contre le chevalier sépulcre à chaque round sans que le chevalier sépulcre ait besoin de dépenser sa réaction pour le faire.</p>\n<p>Le bouclier se répare automatiquement au cours du repos du chevalier sépulcre et doit être détruit de la même manière que l'armure du chevalier sépulcre.</p>"
-        },
-        {
-            "id": "(Divine Warden) Divine Innate Spells",
-            "name": "(Garde divin) Sorts divins innés ((Divine Warden) Divine Innate Spells)",
-            "description": "<p>Un Garde divin d'une divinité qui a n'importe quel composant d'alignement gagne <em>@Compendium[pf2e.spells-srd.qwZBXN6zBoB9BHXE]{Lance divine}</em> comme tour de magie inné. Un Garde divin d'une divinité neutre gagne  <em>@Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{Hébétement} comme tour de magie inné</p>"
-        },
-        {
-            "id": "(Visitant) Roar",
-            "name": "(Revenant) Rugissement ((Visitant) Roar)",
-            "description": "<p>Le revenant émet un puissant et effrayant rugissement. Chaque créature à moins de @Template[type:emanation|distance:100]{30 mètres} doit tenter un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"auditory,concentrate,emotion,enchantment,fear,mental,primal\" data-pf2-label=\"DD du rugissement\" data-pf2-show-dc=\"gm\">Volonté</span>.</p>\nQuel que soit le résultat, les créatures affectées sont temporairement immunisées contre cet effet pendant 1 minute.</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Succès critique</strong>  La créature n’est pas affectée.\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 1.\n<p><strong>Échec</strong> La créature est Effrayée 2.\n<p><strong>Échec critique</strong> La créature est Effrayée 3.\n</div>"
-        },
-        {
-            "id": "(Ghost) Pyre's Memory",
-            "name": "(Fantôme) Mémoire de bûcher funéraire ((Ghost) Pyre's Memory)",
-            "description": "<p>Le fantôme fait jaillir sans avertissement de grandes éruptions de flammes.</p>\n<p>Le fantôme choisit une case de 1,5 mètres dans une zone de 9 mètres.  Les créatures qui commencent leur tour ou qui entrent dans une de ces cases subissent [[/r {1d6}[fire]]]{1d6 dégâts de feu} par tranche de 2 niveau du fantôme, avec un jet de sauvegarde <span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"divine,evocation,fire,damaging-effect\" data-pf2-label=\"DD mémoire de bûcher funéraire\" data-pf2-show-dc=\"gm\">Réflexes basique</span>.</p>\n<p>Les flammes durent une minute et n'enflamment pas d'autres objets, sauf si le fantôme le souhaite. Si le fantôme utilise à nouveau cette capacité, il annule les flammes existantes.</p>"
-        },
-        {
-            "id": "(Vampire, True) Dominate",
-            "name": "(Vampire, véritable) Domination ((Vampire, True) Dominate)",
-            "description": "Le vampire peut lancer @Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{Domination} à volonté comme un sort inné divin. Pour cela, il doit regarder la victime dans les yeux, ce qui donne le trait visuel au sort. Le DD du jet de sauvegarde utilise le DD du niveau du vampire (Livre de base p. 503). Si la victime réussit son jet, elle est immunisée contre la Domination de ce vampire pendant 24 heures.</p> \n<p>La domination prend fin si le vampire est complètement détruit, mais s’il est seulement réduit à 0 PV, le sort n’est pas rompu.</p>"
-        },
-        {
-            "id": "(Visitant) Wrestle",
-            "name": "(Revenant) Lutte ((Visitant) Wrestle)",
-            "description": "<p>Le revenant effectue une Frappe de griffe contre une créature qu’il a @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée}. Si l’attaque touche, la créature est @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Mise à terre}.</p>"
-        },
-        {
-            "id": "(Vampire, Vrykolakas Master) Bubonic Plague",
-            "name": "(Vampire, maître vrykolakas) Peste bubonique ((Vampire, Vrykolakas Master) Bubonic Plague)",
-            "description": "<p data-visibility=\"gm\"><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"disease\" data-pf2-label=\"DD Peste bubonique\" data-pf2-show-dc=\"gm\">Vigueur</span> (utilisez un DD élevé pour le niveau du vrykolakas)\n<p><strong>Délai</strong> 1 jour</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} (1 jour)</p> \n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 et Fatigué (1 jour)</p> \n<p><strong>Stade 3</strong> Affaibli 3, Fatigué et subit [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de saignement persistants} toutes les [[/br {1d20} #minutes]]{1d20 minutes}(1 jour)</p>\n</div>"
-        },
-        {
-            "id": "(Lich) Siphon Life",
-            "name": "(Liche) Siphonner la vie ((Lich) Siphon Life)",
-            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> La liche inflige des dégâts avec sa Frappe de main.</p> \n<strong>Effet</strong> La liche récupère un nombre de points de vie égal à la moitié des dégâts infligés.</p>"
-        },
-        {
-            "id": "(Lich) Paralyzing Touch",
-            "name": "(Liche) Toucher paralysant ((Lich) Paralyzing Touch)",
-            "description": "<p>Une créature qui subit des dégâts à cause de la Frappe de main de la liche doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"arcane,curse,incapacitation,necromancy\" data-pf2-label=\"DD Toucher paralysant\" data-pf2-show-dc=\"gm\">Vigueur</span> contre le DD des sorts de la liche −4.</p>\n<p>En cas d’échec, la créature est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} pendant 1 round. En cas d’échec critique, la créature est paralysée de manière permanente, tombe  @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}{A terre} et semble morte. Un test de <span data-pf2-check=\"medicine\" data-pf2-dc=\"25\" data-pf2-traits=\"arcane,curse,necromancy\" data-pf2-label=\" DD Diagnostiquer la paralysie\" data-pf2-show-dc=\"gm\">Médicine</span>DD 25 permet de déterminer qu’elle est vivante.</p>"
-        },
-        {
-            "id": "(Vampire, Vrykolakas Master) Change Shape",
-            "name": "(Vampire, maître vrykolakas) Changement de forme ((Vampire, Vrykolakas Master) Change Shape)",
-            "description": "<p>Un maître vrykolakas peut se transformer de façon à adopter l’apparence qu’il avait étant vivant, avec les effets d’une forme humanoïde, mais sans limite de durée. Il perd ses Frappes de crocs et de griffes mais gagne un bonus de circonstances de +2 à ses tests de Duperie pour @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Se déguiser} tant qu’il est sous cette apparence.</p>"
-        },
-        {
-            "id": "(Skeleton) Collapse",
-            "name": "(Squelette) Écroulement ((Skeleton) Collapse)",
-            "description": "<p data-visibility=\"gm\"><strong>TDéclencheur</strong> Le squelette est touché par un coup critique.</p>\n<p><strong>Effet</strong> Le squelette s’écroule, formant un tas d’os, et l’attaque inflige seulement les dégâts normaux. Le squelette peut se reformer et se relever par une action mais, tant qu’il ne l’a pas fait, il se trouve @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} et @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}.</p>"
-        },
-        {
-            "id": "(Ghast) Consume Flesh",
-            "name": "(Blême) Dévorer la chair ((Ghast) Consume Flesh)",
-            "description": "<p><strong>Conditions</strong> Le blême est adjacent au cadavre d’une créature morte il y a moins d’une heure.</p> \n<p><strong>Effet</strong> Le blême dévore un morceau de chair du cadavre et récupère [[/r {2d6}[healing]]]{2d6 points de vie } plus 1d6 tous les 2 niveaux qu’il possède. Il ne peut récupérer des points de vie qu’une seule fois par cadavre.</p>"
-        },
-        {
-            "id": "(Ghost) Fetch",
-            "name": "(Fantôme) Double fantômatique ((Ghost) Fetch)",
-            "description": "<p>Le fantôme crée une créature illusoire sous forme de double. La fonction Double fantômatique fonctionne comme le sort <em>@Compendium[pf2e.spells-srd.f8SBoXiXQjlCKqly]{Créature illusoire}</em> de niveau 2, avec l'exception que le fantôme n'a aucun contrôle sur le Double fantômatique, et que le sort a une durée de  [[/r 1d4 #hours]]{1d4 heures} au lieu d'une action pour Maintenir de sort.</p>\n<p>Le Double fantômatique a une intelligence rudimentaire et se contente d'essayer d'imiter son original (il a une valeur de Déception égale à la plus haute valeur de compétence du fantôme), mais donne l'air d'être dans un état de  @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confusion} ou distrait.</p>\n<p>Un fantôme de peut avoir qu'un seul Double fantômatique en même temps. Si la créature doublée par le Double fantômatique  le rencontre, elle doit réussir un jet de sauvegarde <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"divine,illusion\" data-pf2-label=\"DD Double fantômatique\" data-pf2-show-dc=\"gm\">Volonté</span> ou devenir @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 1 (Stupéfié 2 sur un échec critique) tant qu'elle peut voir son Double fantômatique.</p>"
-        },
-        {
-            "id": "(Dragon) Change Shape",
-            "name": "(Dragon) Changement de forme ((Dragon) Change Shape)",
-            "description": "<p>Le dragon peut prendre l’apparence de n’importe quel humanoïde de Petite ou Moyenne taille. Cela ne modifie pas sa Vitesse ou le bonus à l’attaque et aux dégâts de sa Frappe mais cela peut modifier le type de dégâts infligés avec une Frappe (généralement contondants).</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
-        },
-        {
-            "id": "(Vampire, Vrykolakas) Vrykolakas Vulnerabilities",
-            "name": "(Vampire, Vrykolakas) Vulnérabilités des vrykolakas ((Vampire, Vrykolakas) Vrykolakas Vulnerabilities)",
-            "description": "Les vrykolakas possèdent les vulnérabilités suivantes.<p> \n<ul>\n<li><strong>Lié à un site funéraire</strong> Un vrykolakas est lié au lieu de sa mort ou de son inhumation. Il doit revenir dans ce lieu une fois par semaine et s’enterrer pendant 24 heures, au cours desquelles il est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysé et peut être décapité. S’il n’a pas la possibilité de retourner sur ce site, il est réduit à 0 PV et tente une Corruption sauvage ; si son animal hôte ne peut pas revenir sur le site funéraire avant que l’effet de possession prenne fin, le vrykolakas est détruit et l’animal hôte revient à la normale.</p>\n<li><strong>Vulnérable à la décapitation</strong> Un vrykolakas qui est décapité ne peut pas utiliser sa Possession férale, et un corps décapité ne peut pas revenir sous la forme d’un vrykolakas.</li>\n</ul>"
-        },
-        {
-            "id": "(Lich) Dark Deliverance",
-            "name": "(Liche) Sombre salut ((Lich) Dark Deliverance)",
-            "description": "<p>La liche a une résistance à l’énergie positive égale à son niveau.</p>"
-        },
-        {
-            "id": "(Worm That Walks) Discorporate",
-            "name": "(Ver-qui-marche) Dématérialisation ((Worm That Walks) Discorporate)",
-            "description": "<p>Quand un ver-qui-marche est réduit à 0 PV, les vers qui le composent se dispersent dans toutes les directions. Il suffit qu’un unique ver survive pour que le ver-qui-marche se reforme au bout de [[/r 1d10 #days]]{1d10 jours}.</p> \n<p>Le contexte dans lequel se déroule cette dématérialisation détermine le temps dont disposent les ennemis d’un ver-qui-marche pour détruire les vers avant qu’ils ne s’échappent, mais ils n’ont en général qu’un round.</p> \n<p>La plupart du temps, ils doivent utiliser une attaque dont les dégâts ont une zone d’effet ou d’éclaboussure au cours de ce round à l’endroit où le ver-qui-marche s’est désagrégé. Une fois qu’un personnage a infligé des dégâts d’éclaboussure ou de zone dans cet espace, il fait un <span data-pf2-check=\"flat\" data-pf2-dc=\"15\" data-pf2-show-dc=\"owner\">test nu </span> DD 15. Chaque effet d’éclaboussure ou de zone causant des dégâts dans cet espace après le premier permet de réduire le DD de ce test nu de 2, jusqu’à un minimum de DD 5. Une réussite à l’un de ces tests nus signifie qu’aucun ver n’a réussi à s’échapper : le ver-qui-marche est alors détruit pour de bon.</p> \n<p>Si le MJ le permet, il est possible de proposer des moyens astucieux de piéger ou de retenir la vermine afin de prolonger le délai permettant d’achever un ver-qui-marche.</p>"
-        },
-        {
-            "id": "(Skeleton) Bloody",
-            "name": "(Squellette) Sanglant ((Skeleton) Bloody)",
-            "description": "<p>Le squelette est dégoulinant de sang et bénéficie de @Compendium[pf2e.bestiary-ability-glossary-srd.fJSNOw4zHGbIm4bZ]{Guérison accélérée}, avec une valeur égale à son niveau.</p>"
-        },
-        {
-            "id": "(Goblin) Goblin Scuttle",
-            "name": "(Gobelin) Précipitation gobeline ((Goblin) Goblin Scuttle)",
-            "description": "<p data-visibility=\"gm\"><p>Un allié d’un gobelin termine une action de déplacement adjacent au guerrier.</p>\n<p><strong>Effet</strong> Le guerrier gobelin @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Fait un pas}.</p>"
-        },
-        {
-            "id": "(Golem) Golem Antimagic",
-            "name": "(Golem) Antimagie des golems ((Golem) Golem Antimagic)",
-            "description": "<p>Affecté par [damageType] ([[/r {0d8}]]{0d8 dégâts}, [[/r {0d4}]]{0d4 damage} de zone ou de dégâts persistants ; soigné par [damageType] (area [[/r {0d4}[healing]]]{0d4 Points de vie}) ; ralenti par [damageType]</p>\n<hr />\n<p>Un golem est immunisé contre les sorts et les pouvoirs magiques autres que les siens mais chaque type de golem est affecté d’une manière spéciale par quelques formes de magie. Ces exceptions sont indiquées en abrégé dans le bloc de statistiques du golem et sont expliquées ci-après. S’il est indiqué plusieurs types de sorts (comme «froid» et «eau»), ils affectent tous le golem..</p>\n<ul>\n<li><strong>Affecté par</strong>  Toute magie de ce type qui cible le golem lui inflige les dégâts indiqués (ces dégâts n’ont aucun type) au lieu de l’effet habituel. Si le golem commence son tour dans une zone de magie de ce type ou s’il est affecté par un effet persistant du type approprié, il subit les dégâts indiqués entre parenthèses.</li>\n<li><strong>Soigné par</strong> Toute magie de ce type qui cible un golem lui fait perdre son état ralenti et lui permet de récupérer un nombre de PV égal à la moitié des dégâts qu’aurait dû infliger le sort. Si le golem commence son tour dans une zone de magie de ce type, il gagne le nombre de PV indiqué entre parenthèses.</li>\n<li><strong>Ralenti par</strong> Toute magie de ce type qui cible un golem lui confère l’état @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 pendant [[/br 2d6 #rounds]]{2d6 rounds} au lieu de l’effet normal. Si le golem commence son tour dans une zone de magie de ce type, il est ralenti 1 pour ce round.</li>\n<li><strong>Vulnérabilité à</strong> Chaque golem est vulnérable à un ou plusieurs sorts spécifiques avec les effets indiqués dans son bloc de statistiques.</li>\n</ul>"
-        },
-        {
-            "id": "(Lich) Drain Soul Cage",
-            "name": "(Liche) Canaliser le phylactère ((Lich) Drain Soul Cage)",
-            "description": "<p data-visibility=\"gm\"><strong>Fréquence une fois par jour</p>\n<p><strong>Effet</strong> La liche puise dans l’énergie du @Compendium[pf2e.equipment-srd.NEbr7nKuiluJgBHT]{Phylactère} pour lancer n’importe quel sort arcanique qu’elle est capable de lancer, même si ce n’est pas un de ses sorts préparés.</p>\n<p data-visibility=\"gm\">Le phylactère n’a pas besoin d’être présent pour que la liche utilise ce pouvoir.</p>"
-        },
-        {
-            "id": "(Ghost) Ghost Storm",
-            "name": "(Fantôme) Tempête Fantôme ((Ghost) Ghost Storm)",
-            "description": "<p>@Template[type:emanation|distance:30]{9 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Le vent enveloppe le fantôme dans une zone de 9 mètres. Le vent éteint tout feu non magique, disperse le brouillard et la brume, fait voler les objets d'Encombrement léger ou moins, et repousse les objets plus large. La zone dans l'aura du vent sont considéré comme étant terrain difficile et les créatures volantes se déplacent toujours contre le vent.</p>\n<p>Le fantôme peut révoquer ou réinitialiser le vent en une action qui a le trait concentration.</p>"
-        },
-        {
-            "id": "(Ghost) Phantasmagoria",
-            "name": "(Fantôme) Phantasmagorie ((Ghost) Phantasmagoria)",
-            "description": "<p>Le fantôme donne à tout ou partie du lieu où il se trouve l'apparence, le son, la sensation et l'odeur d'un lieu différent, et peut le peupler de simples illusions de personnes ou d'animaux.</p>\n<p>En général, le fantôme ne peut recréer qu'une poignée d'images, généralement différentes versions de son site d'attache tel qu'il apparaissait du vivant du fantôme. Il ne peut pas déguiser les créatures présentes dans la zone, mais il peut provoquer des changements cosmétiques mineurs (par exemple, les vêtements d'une créature peuvent paraître plus beaux pour une fête ou tachés de sang pour une bataille).</p>\n<p>Toute créature qui touche l'illusion ou utilise l'action Chercher pour l'examiner peut tenter de la discréditer. Les créatures ne peuvent pas quitter la zone de l'illusion tant qu'elles n'ont pas réussi à la décrédibiliser.</p>"
-        },
-        {
-            "id": "(Werecreature) Animal Empathy",
-            "name": "(Créature garou) Empathie animale ((Werecreature) Animal Empathy)",
-            "description": "<p>Un garou peut communiquer avec des animaux semblables à lui.<p>"
-        },
-        {
-            "id": "(Ghost) Dreamwalker",
-            "name": "(Fantôme) Marcheur de rêves ((Ghost) Dreamwalker)",
-            "description": "<p>Quiconque rencontre un fantôme ou visite le site auquel il est lié peut subir cet effet.  La première fois que le sujet dort après sa rencontre avec un fantôme; il est ciblé par le sort <em>@Compendium[pf2e.spells-srd.Uqj344bezBq3ESdq]{Cauchemar}</em>, avec le cauchemar étant plus ou moins lié au fantôme rencontré.</p>\n<p>Le plus souvent, cela veut dire que le sujet revit les derniers moments de la vie du fantôme, mais il y a d'autres possibilités. Si le fantôme le souhaite, il peut manipuler les rêves pour envoyer des messages ou même tenir toute une conversation avec le rêveur.</p>"
-        },
-        {
-            "id": "(Ghoul) Paralysis",
-            "name": "(Goule) Paralysie ((Ghoul) Paralysis)",
-            "description": "<p>Toute créature vivante autre qu'un elfe touchée par l’attaque d’une goule doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"necromancy,occult,incapacitation\" data-pf2-label=\"DD Paralysie\" data-pf2-show-dc=\"gm\">Vigueur</span> ou devenir @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée}. Elle peut tenter un nouveau jet de sauvegarde à la fin de chacun de ses tours <span data-visibility=\"gm\"> et le DD diminue cumulativement de 1 à chaque tentative</span>.</p>"
-        },
-        {
-            "id": "(Werecreature) Change Shape",
-            "name": "(Créature garou) Changement de forme ((Werecreature) Change Shape)",
-            "description": "<p>Le garou revêt une forme humanoïde, hybride ou animale. Chacune a une apparence spécifique qu’il conserve à chaque fois. La forme naturelle d’un véritable garou est l’hybride.</p> \n<p>Sous forme humanoïde, le garou utilise sa taille humanoïde originelle, perd ses Frappes de mâchoires et de griffes, mais gagne une Frappe de poing au corps-à-corps qui inflige des dégâts contondants égaux aux dégâts tranchants de ses griffes.</p> \n<p>Sous forme animale, sa Vitesse et sa taille changent pour devenir celles de l’animal. Il gagne les effets de Frappe spéciaux de cet animal s’il ne les avait pas (comme Empoignade) et perd ses Frappes avec une arme.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
-        },
-        {
-            "id": "(Zombie) Feast",
-            "name": "(Zombie) Festoyer ((Zombie) Feast)",
-            "description": "<p>Si le zombie se trouve dans un emplacement adjacent à une créature sans défense ou inconsciente, ou à une créature morte depuis moins d’une heure, il peut se nourrir de sa chair pour se soigner. </p>\n<p>Le zombie regagne ainsi une quantité de points de vie égale à son propre niveau. Si la créature est vivante, le zombie lui inflige une quantité de dégâts égale aux dégâts qu’il inflige avec sa mâchoire, son poing ou ses griffes.</p>"
-        },
-        {
-            "id": "(Greater Barghest) Mutation - Vestigial Arm Strike",
-            "name": "(Barghest supérieur) Mutation - Frappe de membre atrophié ((Greater Barghest) Mutation - Vestigial Arm Strike)",
-            "description": "<div data-visibility=\"gm\">\n<p><strong>Fréquence</strong> Une fois par round</p> \n<p><strong>Déclencheur</strong> Le barghest effectue une Frappe</p>\n</div>\n<p><strong>Effet</strong> Le barghest effectue une Frappe de griffe avec un troisième bras flétri qui pend sur son torse. Cette attaque ne compte pas pour le malus d’attaques multiples du barghest, et ce malus ne s’applique pas à l’attaque.</p>"
-        },
-        {
-            "id": "(Skeleton) Blaze",
-            "name": "(Squelette) Embrasement ((Skeleton) Blaze)",
-            "description": "<p>Le squelette est enveloppé de feu, qui ne consume ni ses os ni son équipement.</p>\n<p>Le squelette gagne l'immunité au feu et une faiblesse au froid de 5, il perd sa résistance au froid et ses Frappes infligent des dégâts persistants de feu égaux à la moitié du niveau du squelette (minimum 1)).</p>"
-        },
-        {
-            "id": "(Vampire, True) Drink Blood",
-            "name": "(Vampire, véritable) Boire le sang ((Vampire, True) Drink Blood)",
-            "description": "<p><strong>Conditions</strong> Une créature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée/Agrippée}, @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée}, @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravée},  @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconsciente} ou consentante est à portée du vampire.</p> \n<p><strong>Effet</strong> Le vampire enfonce ses crocs dans cette créature et boit son sang. Pour cela, il doit réussir un test d’Athlétisme contre le DD de Vigueur de la victime si elle est empoignée. Dans les autres cas, il y parvient automatiquement.</p> \n<p>La victime est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 2 et le vampire récupère un montant de PV égal à 10 % de son maximum de PV, les PV excédentaires s’ajoutant sous forme de points de vie temporaires. Si le vampire Boit le sang d’une créature déjà drainée, il ne récupère pas d’autres PV, mais la valeur de drain de la victime augmente de 1. Un vampire peut aussi boire du sang versé dans un récipient pour s’alimenter, mais cela ne lui rend pas de PV.</p> \n<p>L’état Drainé de la victime se réduit de 1 par semaine. Une transfusion sanguine (qui requiert un test de <span data-pf2-check=\"medicine\" data-pf2-dc=\"20\" data-pf2-label=\"DD transfusion sanguine\" data-pf2-show-dc=\"gm\">Médecine</span> DD 20 et assez de sang ou un donneur réduit l’état drainé de 1 au bout de 10 minutes.</p>"
-        },
-        {
-            "id": "(Greater Barghest) Mutation - Wings",
-            "name": "(Barghest supérieur) Mutation - Ailes ((Greater Barghest) Mutation - Wings)",
-            "description": "<p>Le barghest a des ailes mal formées qui ont poussé sur son dos. Il gagne une Vitesse en vol de 7,5 mètres.</p>"
-        },
-        {
-            "id": "(Skeleton) Bone Powder",
-            "name": "(Squelette) Poudre d'os ((Skeleton) Bone Powder)",
-            "description": "<p>Lorsque le squelette subit des dégâts physiques d'un critique, un de ses os est pulvérisé en poudre fine.</p>\n<p>Toutes les créatures dans une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"5\">émanation de 1,5 mètres</span> qui respire, subit [[/r {1d6}[persistent,poison]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de poison persistants} (plus 1d6 pour chaque 6 niveau du squelette).</p>"
-        },
-        {
-            "id": "(Ghost) Frightful Moan",
-            "name": "(Fantôme) Lamentation d'épouvante ((Ghost) Frightful Moan)",
-            "description": "<p>Le fantôme pleure sur son sort, ce qui oblige chaque créature vivante dans un rayon de 9 m à faire un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"auditory,divine,emotion,enchantment,fear,mental\" data-pf2-label=\"DD lamentation d'épouvante\" data-pf2-show-dc=\"gm\">Volonté</span>.</p> \n<p>En cas d’échec, une créature devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 2 (ou Éffrayée 3 en cas d’échec critique). En cas de réussite, elle est temporairement immunisée contre la lamentation d’épouvante de ce fantôme pendant 1 minute.</p>"
-        },
-        {
-            "id": "(Visitant) Vengeful Presence",
-            "name": "(Revenant) Présence vengeresse ((Visitant) Vengeful Presence)",
-            "description": "<p>@Template[type:emanation|distance:20]{6 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Une créature qui commence son tour dans l’aura du revenant doit réussir un jet de  <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,emotion,enchantment,mental\" data-pf2-label=\"Vengeful Presence DC\" data-pf2-show-dc=\"gm\">Volonté</span> ou être submergée par une soif de vengeance.</p> \n<p>Si la créature affectée a été attaquée lors du dernier round (que l’attaque l’ait touchée ou non), elle doit utiliser au moins 1 action par round pendant [[/r 1d4 #rounds]]{1d4 rounds} (1 minute sur un échec critique) pour Frapper ou utiliser une action hostile contre son dernier assaillant tant qu’il est en vie. Si elle ne peut le faire, la créature affectée subit [[/r {1d6}[mental]]]{1d6 dégâts mentaux}, plus 1d6 par tranche de 5 niveaux du revenant.</p>"
-        },
-        {
-            "id": "(Werecreature) Curse of the Werecreature",
-            "name": "(Créature garou) Malédiction du garou ((Werecreature) Curse of the Werecreature)",
-            "description": "<p>Cette malédiction affecte seulement les humanoïdes.</p>\n<hr /> \n<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"curse,necromancy,primal\" data-pf2-label=\"DD malédiction de la créature garou\" data-pf2-show-dc=\"gm\">Vigueur</span> Le DD du jet de Vigueur correspond au DD standard pour le nouveau niveau du garou −1.</p>\n<p>À chaque pleine lune, la créature maudite doit réussir un nouveau jet de Vigueur ou se changer en garou jusqu’à l’aube.</p> \n<p>Le garou est sous le contrôle du MJ et saccage tout ce qu’il trouve pendant la moitié de la nuit, après quoi il tombe inconscient jusqu’à l’aube.</p>"
-        },
-        {
-            "id": "(Skeleton) Bone Missile",
-            "name": "(Squelette) Côte missile ((Skeleton) Bone Missile)",
-            "description": "<p>Le squelette arrache un côte de sa cage thoracique et l'utilise comme une flèche ou un javelot. Le squelette perd des PV égaux à son niveau (minimum 1), puis effectue une Attaque à distance.</p>\n<p>Cette attaque utilise le bonus d'attaque de la frappe du squelette le plus élevé et inflige des dégâts perforants égaux aux dégâts de cette frappe plus le niveau du squelette (minimum 1).</p>"
-        },
-        {
-            "id": "(Visitant) Noxious Breath",
-            "name": "(Revenant) Souffle nocif ((Visitant) Noxious Breath)",
-            "description": "<p>Le revenant expire vivement, relâchant des émanations âcres de ses poumons en un cône de @Template[type:cone|distance:15]{15-foot cone}{4,5 mètres} Chaque créature dans la zone d’effet doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-label=\"DD Souffle nocif\" data-pf2-show-dc=\"gm\">Vigueur</span> ou être @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 (Malade 2 en cas d’échec critique).</p>"
-        },
-        {
-            "id": "(Ghoul) Consume Flesh",
-            "name": "(Goule) Dévorer la chair ((Ghoul) Consume Flesh)",
-            "description": "<p><strong>Conditions</strong> La goule est adjacent au cadavre d’une créature morte il y a moins d’une heure.</p> \n<p><strong>Effet</strong> La goule dévore un morceau de chair du cadavre et récupère [[/r {1d6}[healing]]]{1d6 points de vie } plus 1d6 tous les 2 niveaux qu’il possède. Il ne peut récupérer des points de vie qu’une seule fois par cadavre.</p>"
-        },
-        {
-            "id": "(Graveknight) Devastating Blast",
-            "name": "(Chevalier sépulcre) Déflagration dévastatrice ((Graveknight) Devastating Blast)",
-            "description": "<p>Le chevalier sépulcre projette un cône d’énergie de 9 mètres.</p>\n<p>Les créatures prises dans la zone d’effet subissent 1d12 dégâts plus 1d12 dégâts supplémentaires tous les deux niveaux du chevalier ((<span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"arcane,evocation\" data-pf2-label=\"Devastating Blast DC\" data-pf2-show-dc=\"gm\">Réflexes basique</span> ). </p>\n<p>Le chevalier sépulcre  peut utiliser ce pouvoir une fois tous les [[/br 1d4 #rounds]]{1d4 rounds}. </p>\n<p>Les dégâts d’énergie sont du même type que pour armes du désastre ; Déflagration dévastatrice gagne le trait associé à ce type d’énergie.</p>"
-        },
-        {
-            "id": "(Ghast) Ghast Fever",
-            "name": "(Blême) Fièvre des blêmes ((Ghast) Ghast Fever)",
-            "description": "<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"disease\" data-pf2-label=\"Fièvre de blême\" data-pf2-show-dc=\"gm\">Vigueur</span></p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Stade 1</strong> Pas d’effet sur le porteur (1 jour)</p> \n<p><strong>Stade 2</strong> [[/r {3d8}[negative]]]{3d8 dégâts négatifs} et le malade récupère seulement la moitié des points de vie conférés par les soins (1 jour)</p>\n<p><strong>Stade 3</strong> Comme le stade 2 (1 jour)</p>\n<p><strong>Stade 4</strong> [[/r {3d8}[negative]]]{3d8 dégâts négatifs} et les soins ne fonctionnent plus sur le malade (1 jour)</p> \n<p><strong>Stade 5</strong> Comme stade 4 (1 jour)</p>\n<p><strong>Stade 6</strong> la créature meurt et se relève sous forme de blême aux prochains coups de minuit.</p>\n</div>"
-        },
-        {
-            "id": "(Vampire, True) Create Spawn",
-            "name": "(Vampire, véritable) Création de rejetons ((Vampire, True) Create Spawn)",
-            "description": "<p>Si une créature meurt après avoir été réduite à 0 PV parce qu’un vampire a Bu son sang, il peut la changer en vampire s’il lui donne un peu de son propre sang et qu’elle reste enterrée pendant 3 jours.</p>\n<p>Si le nouveau vampire est d’un niveau inférieur à celui de son créateur, il est sous le contrôle de ce dernier. Si un vampire contrôle trop de rejetons à la fois (selon l’avis du MJ), les plus opiniâtres peuvent se libérer en réussissant un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-label=\"Escape Thralldom DC\" data-pf2-show-dc=\"gm\">Volonté</span> contre le DD de volonté du vampire.</p>"
-        },
-        {
-            "id": "(Divine Warden) Faithful Weapon",
-            "name": "(Garde divin) Arme fidèle ((Divine Warden) Faithful Weapon)",
-            "description": "<p>Un Garde divin manie toujours l'arme favorite de sa divinité protectrice.  Si l'arme est une arme à distance, le garde divin obtiendra automatiquement une nouvelle munition à chaque attaque.</p>\n<p>Pour un garde divin de niveau 4 ou supérieur, l'arme de sa divinité gagne les effets d'une rune <em>@Compendium[pf2e.equipment-srd.DxCuJKynlnMQZHgp]{Frappe}</em> tant que le Garde divin la manie ; au niveau 12 ses effets deviennent  ceux d'une rune de <em>@Compendium[pf2e.equipment-srd.KCQRFvUgbyclvOGi]{Frappe supérieur}</em>,  et au niveau 19, la rune aura les effets d'une <em>@Compendium[pf2e.equipment-srd.woxl2FrrgAcJDu0t]{Frappe majeure}</em>.</p>"
+            "id": "(Vampire, Vrykolakas) Swift Tracker",
+            "name": "(Vampire, vrykolakas) Pistage accéléré ((Vampire, Vrykolakas) Swift Tracker)",
+            "description": "<p>Le vrykolakas se déplace à pleine Vitesse quand il @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Piste}</p>"
         },
         {
             "id": "(Greater Barghest) Mutation - Poison Fangs",
@@ -277,244 +12,19 @@
             "description": "<p>Le barghest développe de longs crocs sécrétant du poison. Sa mâchoire inflige [[/r {1d6}[poison]]]{1d6 dégâts supplémentaires de poison} et [[/r {1d6}[persistent,poison]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de poison persistants}.</p>"
         },
         {
-            "id": "(Ravener) Discorporate",
-            "name": "(Dévoreur draconique) Dématérialisation ((Ravener) Discorporate)",
-            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dévoreur draconique reçoit des dégâts en excès qui se reportent sur son armure d’âmes, mais cette dernière a encore au moins 51 PV</p>\n<p><strong>Effet</strong> Le dévoreur puise dans son armure d’âmes pour dématérialiser son corps et le changer en énergie spirituelle afin de s’enfuir. L’armure d’âmes reçoit alors 50 dégâts et le corps du dévoreur disparaît. Il réapparaît [[/br 1d4 #hours]]{1d4 heures} plus tard en un point aléatoire dans un rayon de 1,5 km autour du lieu de la Dématérialisation.</p>"
-        },
-        {
-            "id": "(Divine Warden) Instrument of Faith",
-            "name": "(Garde divin) Instrument de foi ((Divine Warden) Instrument of Faith)",
-            "description": "<p>Le Garde divin est le flambeau de la foi de sa divinité.  Un prêtre appartenant à la divinité protectrice du Garde divin peut canaliser le sort de <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> au travers d'un Garde divin qu'il peut voir dans une zone de 18 mètres. Le prêtre détermine n'importe quelle cible ou zone pour le sort, pour autant qu'ils se tiennent dans l'espace du Garde divin.</p>"
-        },
-        {
-            "id": "(Vampire, Basic) Drink Blood",
-            "name": "(Vampire, de base) Boire le sang ((Vampire, Basic) Drink Blood)",
-            "description": "<p><strong>Conditions</strong> Une créature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée/Agrippée}, @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée}, @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravée},  @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconsciente} ou consentante est à portée du vampire.</p> \n<p><strong>Effet</strong> Le vampire enfonce ses crocs dans cette créature et boit son sang. Pour cela, il doit réussir un test d’Athlétisme contre le DD de Vigueur de la victime si elle est empoignée. Dans les autres cas, il y parvient automatiquement.</p> \n<p>La victime est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 1 et le vampire récupère un montant de PV égal à 10 % de son maximum de PV, les PV excédentaires s’ajoutant sous forme de points de vie temporaires. Si le vampire Boit le sang d’une créature déjà drainée, il ne récupère pas d’autres PV, mais la valeur de drain de la victime augmente de 1. Un vampire peut aussi boire du sang versé dans un récipient pour s’alimenter, mais cela ne lui rend pas de PV.</p> \n<p>L’état Drainé de la victime se réduit de 1 par semaine. Une transfusion sanguine (qui requiert un test de <span data-pf2-check=\"medicine\" data-pf2-dc=\"20\" data-pf2-label=\"DD transfusion sanguine\" data-pf2-show-dc=\"gm\">Médecine</span> DD 20 et assez de sang ou un donneur réduit l’état drainé de 1 au bout de 10 minutes.</p>"
-        },
-        {
-            "id": "(Vistant) Visitant Spells",
-            "name": "(Revenant) Sorts de revenant ((Vistant) Visitant Spells)",
-            "description": "<p>Certains revenants peuvent lancer les  sorts innés occultes suivants. Si vous donnez les sorts suivants à un revenant, pensez à lui enlever l’un de ses autres pouvoirs spéciaux..</p>\n<p><strong>Sorts innés occultes</strong></p>\n<p><strong>DD</strong> Variable\n<p><strong>Attaque de sort</strong> Variable</p>\n<p><strong>Niveau 1</strong> <em>@Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]{Terreur}</em>, <em>@Compendium[pf2e.spells-srd.J7Y7tl0bbdz7TcCc]{Rayon affaiblisant}</em></p>\n<p><strong>Constant (1er)</strong> <em>@Compendium[pf2e.spells-srd.QnTtGCAvdWRU4spv]{Détection de l'alignement (Mauvais seulement)}</em></p>"
-        },
-        {
-            "id": "(Ghost) Lynchpin",
-            "name": "(Fantôme) Pilier ((Ghost) Lynchpin)",
-            "description": "<p>Le fantôme transmet une partie de sa nature à un ou plusieurs morts-vivants de niveau égal ou inférieur, qui sont liés à l'histoire du fantôme et à ses affaires inachevées.</p>\n<p>Ces morts-vivants gagnent le pouvoir @Compendium[pf2e.bestiary-family-ability-glossary.unR8VVR4yyRnsmnB]{de Reconstruction} du fantôme et ne peuvent pas être détruits tant que le fantôme existe. Si le fantôme est amené à reposer en paix, tous les morts-vivants sont instantanément détruits.</p>\n<p>Ces morts-vivants partagent souvent, mais pas toujours, le pouvoir @Compendium[pf2e.bestiary-family-ability-glossary.BcSlVpaN72LoQ5BV]{Liés au site}. Le fantôme n'a aucun contrôle sur ces morts-vivants, et en fait, le fantôme et leurs partenaires dans l'éternité peuvent être inlassablement hostiles l'un envers l'autre.</p>"
-        },
-        {
-            "id": "(Skeleton) Skeleton of Roses",
-            "name": "(Squelette) Squelette de roses ((Skeleton) Skeleton of Roses)",
-            "description": "<p>Des ronces épaisses ont poussé à travers les os du squelette, le recouvrant de roses rouges aux épines de quelques centimètres.</p>\n<p>Les Frappes au corps-à-corps à mains nues du squelette infligent des dégâts perforants supplémentaires égaux à 1/3 du niveau du squelette (minimum 1 dégât).</p> \n<p>À la fin de chacun de ses tours, si le squelette a causé des dégâts perforants avec ses épines, il regagne des PV égaux à son niveau (minimum 1). Chaque fois que le squelette regagne des PV de cette manière, une autre rose fleurit.</p>"
-        },
-        {
             "id": "(Ghost) Site Bound",
             "name": "(Fantôme) Lié à un site ((Ghost) Site Bound)",
             "description": "<p>Un fantôme typique ne peut pas s’éloigner de l’endroit où il a été tué ou du site qu’il hante. Un fantôme ne peut pas s’éloigner de plus de 36 mètres en moyenne. Certains fantômes sont plutôt liés à une pièce, une bâtisse, un objet ou une créature qui était spécial pour lui, et non à un site.</p>"
         },
         {
-            "id": "(Ghost) Telekinetic Assault",
-            "name": "(Fantôme) Assaut télékinésique ((Ghost) Telekinetic Assault)",
-            "description": "<p>Le fantôme hurle de douleur et d’angoisse en faisant voler en tous sens des débris et des petits objets dans une @Template[type:emanation|distance:30]{émanation de 9 mètres}. Les créatures dans cette zone subissent chacune [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}  + 1d6 tous les 2 niveaux. Elles ont chacune droit à un jet de @Check[type:reflex|dc:|basic:true]{Réflexes basique}.</p>"
+            "id": "(Worm That Walks) Discorporate",
+            "name": "(Ver-qui-marche) Dématérialisation ((Worm That Walks) Discorporate)",
+            "description": "<p>Quand un ver-qui-marche est réduit à 0 PV, les vers qui le composent se dispersent dans toutes les directions. Il suffit qu’un unique ver survive pour que le ver-qui-marche se reforme au bout de [[/r 1d10 #days]]{1d10 jours}.</p> \n<p>Le contexte dans lequel se déroule cette dématérialisation détermine le temps dont disposent les ennemis d’un ver-qui-marche pour détruire les vers avant qu’ils ne s’échappent, mais ils n’ont en général qu’un round.</p> \n<p>La plupart du temps, ils doivent utiliser une attaque dont les dégâts ont une zone d’effet ou d’éclaboussure au cours de ce round à l’endroit où le ver-qui-marche s’est désagrégé. Une fois qu’un personnage a infligé des dégâts d’éclaboussure ou de zone dans cet espace, il fait un <span data-pf2-check=\"flat\" data-pf2-dc=\"15\" data-pf2-show-dc=\"owner\">test nu </span> DD 15. Chaque effet d’éclaboussure ou de zone causant des dégâts dans cet espace après le premier permet de réduire le DD de ce test nu de 2, jusqu’à un minimum de DD 5. Une réussite à l’un de ces tests nus signifie qu’aucun ver n’a réussi à s’échapper : le ver-qui-marche est alors détruit pour de bon.</p> \n<p>Si le MJ le permet, il est possible de proposer des moyens astucieux de piéger ou de retenir la vermine afin de prolonger le délai permettant d’achever un ver-qui-marche.</p>"
         },
         {
-            "id": "(Graveknight) Channel Magic",
-            "name": "(Chevalier sépulcre) Canaliser la magie ((Graveknight) Channel Magic)",
-            "description": "<p>Le chevalier sépulcre redirige les énergies magiques au travers de son armure, lui donnant la possibilité d'attaquer avec de la magie.</p>\n<p>Le chevalier sépulcre Lance un sort qui prend 1 ou 2 actions et demande une attaque de sort. Les effets du sort n'apparaissent pas immédiatement mais sont plutôt infusés dans une attaque. Le chevalier sépulcre effectue une attaque au corps-à-corps avec une arme ou à mains nues. Le sort est combiné à l'attaque, en utilisant le résultat du jet d'attaque pour déterminer les effets de la frappe et du sort.</p>\n<p>Cela compte comme deux attaques en ce qui concerne la pénalité d'attaque multiple du chevalier du sépulcre, mais la pénalité n'est appliquée qu'après qu'il ait terminé de canaliser la magie.</p>\n<p data-visibility=\"gm\">Le chevalier sépulcre ne peut plus utiliser la magie pendant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
-        },
-        {
-            "id": "(Graveknight) Sacrilegious Aura",
-            "name": "(Chevalier sépulcre) Aura sacrilège ((Graveknight) Sacrilegious Aura)",
-            "description": "<p>@Template[type:emanation|distance:30]{9 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Quand une créature dans l’aura utilise un sort ou un pouvoir positif, le chevalier sépulcre tente automatiquement de le contrer avec le modificateur de [[/r 1d10+0 #Counteract]]{+x} contre indiqué.</p>"
-        },
-        {
-            "id": "(Ghost) Corrupting Gaze",
-            "name": "(Fantôme) Regard corrupteur ((Ghost) Corrupting Gaze)",
-            "description": "<p>Le fantôme regarde fixement une créature qu’il peut voir dans un rayon de 9 mètres. La cible subit [[/r {1d6}[negative]]]{1d6 dégâts négatifs} + 1d6 par tranche de 2 niveaux. Elle a droit à un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-label=\"Corrupting Gaze DC\" data-pf2-show-dc=\"gm\">Volonté basique</span>.</p>\n<p data-visibility=\"gm\">Elle est également @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée} pendant 1 min si elle rate son jet de sauvegarde.</p>"
-        },
-        {
-            "id": "(Skeleton) Screaming Skull",
-            "name": "(Squelette) Crâne hurlant ((Skeleton) Screaming Skull)",
-            "description": "<p>Le squelette se saisit de son propre crâne et le lance. Il peut ainsi faire une attaque de mâchoires avec une portée de 6 mètres. Le crâne tente ensuite de @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} ses adversaires qui se trouvent dans un rayon de 3 mètres autour de sa cible. Le crâne rebondit, roule, voire vole jusqu’à son corps de squelette au début de son prochain tour. Jusque-là, le squelette est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglé}.</p>"
-        },
-        {
-            "id": "(Lich) Rejuvenation",
-            "name": "(Liche) Reconstruction ((Lich) Rejuvenation)",
-            "description": "<p>Quand une liche est détruite, son âme est immédiatement transférée dans son phylactère. Une liche peut être détruite de manière permanente uniquement si son phylactère est découvert et détruit.</p>"
-        },
-        {
-            "id": "(Ghost) Corporeal Manifestation",
-            "name": "(Fantôme) Manifestation corporelle ((Ghost) Corporeal Manifestation)",
-            "description": "<p>Le fantôme perd le trait intangible, augmentant temporairement son modificateur de Force pour qu'il soit égal à son modificateur de Charisme. Le fantôme perd son immunité aux dégâts de précision et sa résistance à tous les dégâts lorsqu'il est corporel.</p>\n</p> Le fantôme peut redevenir intangible en utilisant à nouveau cette action.</p>"
-        },
-        {
-            "id": "(Vampire, Vrykolakas Master) Dominate Animal",
-            "name": "(Vampire, maître vrykolakas) Domination animale ((Vampire, Vrykolakas Master) Dominate Animal)",
-            "description": "<p>Le vrykolakas peut lancer @Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{Domination} à volonté comme un sort inné divin qui n’affecte que les animaux. Le DD du jet de sauvegarde est un DD élevé pour le niveau du vrykolakas, et une créature qui réussit est immunisée à la Domination animale de ce vrykolakas pendant 24 heures. Détruire le vrykolakas permet de mettre fin à l’effet, mais pas le fait de le réduire à 0 PV.</p>\n<p>Un animal dominé subit un malus de circonstances de −4 aux jets de sauvegarde contre la Possession férale du vrykolakas.</p>"
-        },
-        {
-            "id": "(Graveknight) Betrayed Revivification",
-            "name": "(Chevalier sépulcre) Résurrection vengeresse ((Graveknight) Betrayed Revivification)",
-            "description": "<p>Le chevalier sépulcre est mort après avoir été trahi.</p>\n<p>Au lieu d’être immunisé contre un type de dégâts d’énergie, il est immunisé contre les dégâts mentaux, son arme inflige [[/r {1d6}[mental]]]{1d6 dégâts mentaux supplémentaires} et sa Déflagration dévastatrice inflige des dégâts mentaux avec un jet de Volonté au lieu d’un jet de Réflexes.</p>"
-        },
-        {
-            "id": "(Ghost) Memento Mori",
-            "name": "(Fantôme) Memento Mori ((Ghost) Memento Mori)",
-            "description": "<p>Le fantôme cible une créature dans une zone de 30 mètres et l'oblige à revivre le moment où il est mort.</p>\n<p>La cible doit réussir un jet de sauvegarde <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"divine,illusion,mental\" data-pf2-label=\"DD Memento Mori\" data-pf2-show-dc=\"gm\">Volonté</span> ou voir et ressentir ce que le fantôme a vécu, subissant [[/r {1d4}[persistent,mental]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d4 dégâts mentaux persistants} par 2 niveaux de Fantôme.</p>\n<p>Toutes les autres créatures sont [pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées} à la cible jusqu'à ce que les dégâts persistants se terminent.</p>"
-        },
-        {
-            "id": "(Zombie) Unkillable",
-            "name": "(Zombie) Intuable ((Zombie) Unkillable)",
-            "description": "<p>Il est presque impossible de détruire ce zombie. Le zombie perd sa faiblesse aux dégâts tranchants et gagne une résistance contre tous les dégâts égale à son niveau (avec un minimum de 3), ainsi qu’une faiblesse aux coups critiques égale à deux fois son niveau (avec un minimum de 6).</p>\n<p>Si vous donnez ce pouvoir à un zombie augmentez son son niveau de 1 </p>"
-        },
-        {
-            "id": "(Vampire, True) Change Shape",
-            "name": "(Vampire, véritable) Changement de forme ((Vampire, True) Change Shape)",
-            "description": "<p>Le vampire se change en l’une de ses formes animales ou reprend sa forme normale. La plupart des vampires peuvent se changer en chauve-souris, mais certains se transforment en d’autres créatures, comme un rat ou un loup.</p>\n<p>Utilisez les options des sorts @Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]{Forme aérienne et @Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]{Forme animale} comme guides.</p>\n<p><strong>Chauve-souris</strong> Le vampire se change en chauve-souris ou en @Compendium[pf2e.pathfinder-bestiary.C9s5tBxVValC2HTE]{Chauve-souris géante}. Il gagne écholocation à 12 mètres, une Vitesse au sol de 6 mètres, une Vitesse de vol de 9 mètres et une Frappe avec les crocs dotée du même bonus d’attaque que son meilleur bonus d’attaque au corps-à-corps. Ces crocs infligent les mêmes dégâts que les griffes du vampire, mais ils sont de nature perforante et non tranchante.</p>"
-        },
-        {
-            "id": "(Divine Warden) Divine Destruction",
-            "name": "(Garde divin) Destruction divine ((Divine Warden) Divine Destruction)",
-            "description": "<p>Lorsque le Garde divin est réduit à 0 PV, il explose en une énergie divine d'une émanation de 9 mètres infligeant [[/r {1d6}]]{1d6 dégâts} par niveau. Ces dégâts sont soit positifs soit négatifs, déterminés par la nature divine de la divinité protectrice (choisie à la création du gardien divin si la divinité offre un choix), et cette capacité gagne le trait correspondant. Chaque créature dans la zone doit tenter un jet de sauvegarde Volonté avec les résultats suivants :</p>\n<hr />\n<p><strong>Succès critique</strong> La créature subit la moitié des dégâts</p>\n<p><strong>Succès</strong> La créature subit tous les dégâts.</p>\n<p><strong>Échec</strong> La créature subit tous les dégâts et devient temporairement maudite par la divinité protectrice. La créature devient  @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 1 et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefiée} 1 pendant 1 jour; Ceci est un effet de malédiction qui utilise le DD de jet de sauvegarde Volonté comme DD de contre.</p>\n<p><strong>Échec critique</strong> Comme Échec, sauf que la créature devient Affaibilie 2 et Stupéfiée 2.</p>"
-        },
-        {
-            "id": "(Ravener) Soulsense",
-            "name": "(Dévoreur draconique) Perception de l’âme ((Ravener) Soulsense)",
-            "description": "<p>Le dévoreur draconique perçoit l’essence spirituelle des créatures vivantes et mortes-vivantes dans le rayon indiqué. Les créatures dont le corps matériel ne fait qu’un avec l’âme, comme les célestes et les fiélons, brillent plus fort à l’égard de ce pouvoir.</p>"
-        },
-        {
-            "id": "(Werecreature) Moon Frenzy",
-            "name": "(Créature garou) Frénésie lunaire ((Werecreature) Moon Frenzy)",
-            "description": "<p>Quand la pleine lune se lève dans le ciel nocturne, le garou revêt sa forme hybride. Ensuite, il ne peut plus Changer de forme. Il grossit d’une catégorie de taille, son allonge augmente de 1,5 m et ses dégâts de mâchoires de 2.</p> \n<p>Quand la lune se couche ou que le soleil se lève, le garou reprend sa forme humanoïde et se trouve @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} pendant [[/br 2d4 #hours]]{2d4 heures}.</p>"
-        },
-        {
-            "id": "(Vampire, True) Mist Escape",
-            "name": "(Vampire, véritable) Fuite brumeuse ((Vampire, True) Mist Escape)",
-            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le vampire est réduit à 0 PV.</p> \n<p><strong>Effet</strong> Le vampire utilise Se changer en brume. Il peut faire une action de mouvement en direction de son cercueil même s’il est à 0 PV. À 0 PV sous cette forme, les dégâts ne l’affectent plus.</p>\n</p>Il reprend automatiquement une forme tangible et se trouve inconscient s’il atteint son cercueil ou au bout de 2 heure, selon ce qui se produit en premier.</p>"
-        },
-        {
-            "id": "(Ghost) Revenant",
-            "name": "(Fantôme) Revenant ((Ghost) Revenant)",
-            "description": "<p>Le fantôme possède et transforme un cadavre adjacent (cela nécessite 2 actions si le fantôme possède son propre corps ; autrement, il lui faut une heure).</p>\n<p>Le cadavre possédé utilise les statistique d'un mort-vivant tangible de 2 niveaux inférieur au fantôme et le fantôme le possède comme s'il utilisait le sort <em>@Compendium[pf2e.spells-srd.wU6hNzK8Yfqdmc8m]{Possession}</em>. Le mort-vivant spécifique est déterminé par la nature du fantôme et le cadavre - @Compendium[pf2e.pathfinder-bestiary.LHHgGSs0ELCR4CYK]{Goule}, @Compendium[pf2e.pathfinder-bestiary.ZPjQkKVMi3xoPcU0]{Nécrophage} et @Compendium[pf2e.pathfinder-bestiary.0SJqmk4ItwL31Rg9]{Dullahan} sont tous courants, mais presque tout mort-vivant est possible.</p>\n<p>Si le fantôme cesse de posséder le cadavre, le mort vivant tangible est immédiatement détruit.</p>"
-        },
-        {
-            "id": "(Graveknight) Rejuvenation",
-            "name": "(Chevalier sépulcre) Reconstruction ((Graveknight) Rejuvenation)",
-            "description": "<p>Quand un chevalier funeste est détruit, son armure reconstitue son corps dans un délai de [[/br 1d10 #days]]{1d10 jours}  — ou plus rapidement si son armure est portée par un hôte vivant. Si le corps est détruit avant cela, le processus recommence.</p>\n<p>Un chevalier sépulcre ne peut être détruit de manière permanente quand anéantissant son armure (comme avec un sort @Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{Désintégration}), en le transportant dans le plan de l’Énergie positive ou en le jetant au coeur d’un volcan.</p>"
-        },
-        {
-            "id": "(Vampire, Basic) Coffin Restoration",
-            "name": "(Vampire, de base) Cercueil restorateur ((Vampire, Basic) Coffin Restoration)",
-            "description": ""
-        },
-        {
-            "id": "(Divine Warden) Divine Domain Spells",
-            "name": "(Garde divin) Sorts divins de domaine ((Divine Warden) Divine Domain Spells)",
-            "description": "<p>Le gardien divin choisit deux des domaines de sa divinité protectrice. Le gardien divin peut lancer le sort de domaine de base pour les domaines qu'il a choisis. Le gardien divin a une réserve de focalisation de 1 point. Il ne peut pas se Refocaliser, mais sa réserve de focalisation se remplit automatiquement 24 heures après la dernière utilisation d'un point de focalisation. Si le Garde divin est au moins de niveau 10, il gagne également les sorts de domaine avancés pour les domaines qu'il a choisi, et sa réserve de focus augmente à 2 points de focus.</p>"
-        },
-        {
-            "id": "(Vampire, Vrykolakas) Feral Possession",
-            "name": "(Vampire, vrykolakas) Corruption sauvage ((Vampire, Vrykolakas) Feral Possession)",
-            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le vrykolakas est réduit à 0 points de vie, et un animal se trouve à moins de 30 mètres</p\n>\n<p><strong>Effet</strong> À l’inverse de la plupart des morts-vivants, un vrykolakas n’est pas détruit lorsqu’il atteint 0 PV. À la place, il tente d’envoyer son esprit dans un animal situé à moins de 30 mètres, qui doit alors faire un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"curse,divine,incapacitation,mental,necromancy,possession\" data-pf2-label=\"DD corruption sauvage\" data-pf2-show-dc=\"gm\">Volonté</span> (utilisez un DD élevé pour le niveau du vrykolakas).</p>\n<p>En cas d’échec, l’animal est possédé. Cela a le même effet que le sort @Compendium[pf2e.spells-srd.wU6hNzK8Yfqdmc8m]{Possession}, mais dure un nombre de jours équivalent au niveau du vrykolakas. Cette possession ne peut pas être contrée par la magie (même si une @Compendium[pf2e.spells-srd.OyFCwQuw8XRazsNr]{délivrance de la malédiction} fonctionne normalement contre elle).</p>\n<p>Si l’animal réussit son jet de sauvegarde, le vrykolakas peut tenter de posséder un autre animal situé à 30 mètres ou moins. Si à n’importe quel moment un animal obtient un succès critique à son jet de sauvegarde ou il n’y a aucun animal à 30 mètres ou moins, le vrykolakas ne parvient à posséder aucun corps et est détruit.</p>\n<p>Un vrykolakas qui possède un animal cherche alors son lieu de sépulture pour s’y enterrer immédiatement. Pendant que le vrykolakas est dans cet état de récupération, son hôte animal est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysé}, et le décapiter permet de détruire le vrykolakas et de tuer son hôte. Une délivrance de la malédiction permet de détruire le vrykolakas et de rendre son état normal à l’animal.</p>\n<p>Après [[/br 1d4 #days]]{1d4 jours}, si le vrykolakas n’a pas été détruit, l’animal meurt et le vrykolakas se relève dans un nouveau corps identique au précédent, formé à partir des restes de l’animal.</p>"
-        },
-        {
-            "id": "(Ghast) Stench",
-            "name": "(Blême) Puanteur ((Ghast) Stench)",
-            "description": "<p>@Template[type:emanation|distance:10]{3 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Une créature qui entre ou commence son tour dans l’aura doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"aura,olfactory\" data-pf2-label=\"Stench DC\" data-pf2-show-dc=\"gm\">Vigueur</span> ou devenir @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 (plus @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 tant qu’elle est malade en cas d’échec critique).</p>\n<p>Tant qu’elle reste dans l’aura, la créature subit un malus de circonstances de −2 aux jets de sauvegarde contre les maladies et aux tentatives pour se débarrasser de l’état malade. <span data-visibility=\"gm\">Une créature qui réussit son jet de sauvegarde est temporairement immunisée pendant 1 min.</span></p>\n<p>@Compendium[pf2e.bestiary-effects.wX9L6fbqVMLP05hn]{Effet : Puanteur de Blême}</p>"
-        },
-        {
-            "id": "(Vampire, True) Turn to Mist",
-            "name": "(Vampire, véritable) Se changer en brume ((Vampire, True) Turn to Mist)",
-            "description": "<p>Le vampire se change en nuage de vapeur, comme avec le sort @Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]{Forme gazeuse} ou reprend sa forme normale. Tant que le vampire est sous forme gazeuse, il perd sa @Compendium[pf2e.bestiary-ability-glossary-srd.fJSNOw4zHGbIm4bZ]{Guérison accélérée}. Il peut rester indéfiniment ainsi.</p>"
-        },
-        {
-            "id": "(Graveknight) Weapon Master",
-            "name": "(Chevalier sépulcre) Maître d'armes ((Graveknight) Weapon Master)",
-            "description": "<p>Le chevalier sépulcre a accès aux effets critiques spécialisés de n’importe qu’elle arme qu’il utilise.</p>\n<p><em>Comme les Frappes du PNJ ne sont pas générés à partir des armes qu'il tient, cette fonctionnalité ne peut pas être automatisée. Ajout d'un élément de règle \"Note\" à chacune des Frappes du chevalier sépulcre pour la spécialisation critique correcte.</em></p>"
-        },
-        {
-            "id": "(Graveknight) Graveknight's Curse",
-            "name": "(Chevalier sépulcre) Malédiction du chevalier sépulcre ((Graveknight) Graveknight's Curse)",
-            "description": "<div data-visibility=\"gm\">\nCette malédiction affecte quiconque porte l’armure du chevalier sépulcre pendant au moins une heure.</p>\n<hr /></div>\n<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"arcane,curse,necromancy\" data-pf2-label=\"DD Malédiction du chevalier sépulcre\" data-pf2-show-dc=\"gm\">Volonté</span>\n<div data-visibility=\"gm\">\n<p><strong>Délai</strong> 1 heure</p> \n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 1 et ne peut retirer l’armure (1 jour)</p>\n<p><strong>Stade 2</strong> Condamné 2, entravé 10 et ne peut retirer l’armure (1 jour)</p>\n<p><strong>Stade 3</strong> meurt et se transforme en Chevalier sépulcre de l’armure.</p>\n</div>"
-        },
-        {
-            "id": "(Ghost) Haunted House",
-            "name": "(Fantôme) Maison hantée ((Ghost) Haunted House)",
-            "description": "<p data-visibility=\"gm\"><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<p><strong>Effect</strong> Le fantôme étend sa présence à l'ensemble de son site lié jusqu'à la fin de son prochain tour. Dans cette zone, le fantôme peut étendre ses sens et bénéficier de @Compendium[pf2e.bestiary-ability-glossary-srd.9qV49KjZujZnSp6w]{Vision à 360°}, et peut effectuer des attaques de main fantomatique ou utiliser des capacités spéciales provenant de n'importe quelle partie de la zone.</p>"
-        },
-        {
-            "id": "(Zombie) Disgusting Pustules",
-            "name": "(Zombie) Pustules écœurantes ((Zombie) Disgusting Pustules)",
-            "description": "<p>Le zombie est couvert de pustules qui éclatent dès qu’il subit des dégâts perforants ou un coup critique.</p> \n<p>Dans un cas comme dans l’autre, les créatures adjacentes se trouvent aspergées de l’immonde fluide et se trouvent alors affectées par l’état @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1, sauf si elles réussissent un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"disease,necromancy\" data-pf2-label=\"DD Pustules écoeurantes\" data-pf2-show-dc=\"gm\">Vigueur</span></p>"
-        },
-        {
-            "id": "(Ghoul) Swift Leap",
-            "name": "(Goule) Bond rapide ((Ghoul) Swift Leap)",
-            "description": "<p>La goule se déplace d’une distance égale ou inférieure à la moitié de sa Vitesse en bondissant. Ce déplacement ne déclenche pas de réactions.</p>"
-        },
-        {
-            "id": "(Ghost) Beatific Appearance",
-            "name": "(Fantôme) Apparence bienheureuse ((Ghost) Beatific Appearance)",
-            "description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Une créature dont le fantôme a connaissance, cible le fantôme pour une attaque.</p>\n<p><strong>Effect</strong> Le fantôme a une apparence inhabituellement pitoyable ou peut changer ses traits pour ressembler à un proche de l'attaquant, ce qui fait reculer la cible dans son attaque.</p>\n<p>La créature déclencheuse doit réussit un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"divine,enchantment\" data-pf2-label=\"DD Apparence bienheureuse\" data-pf2-show-dc=\"gm\">Volonté</span>. Sur un échec, la créature subit une pénalité de circonstance de -1 à son jet d'attaque (-2 sur un échec critique).</p>"
-        },
-        {
-            "id": "(Ghost) Malevolent Possession",
-            "name": "(Fantôme) Possession malveillante ((Ghost) Malevolent Possession)",
-            "description": "<p>Le fantôme tente de posséder une créature tangible adjacente. Ce pouvoir produit le même effet que le sort possession, mais comme le fantôme n’a pas de corps physique, les restrictions du sort ne l’affectent pas.</p>"
-        },
-        {
-            "id": "(Ravener) Vicious Criticals",
-            "name": "(Dévoreur draconique) Critiques vicieux ((Ravener) Vicious Criticals)",
-            "description": "<p>Le dévoreur draconique réussit un coup critique lors d’un jet d’attaque sur un résultat de 19 ou 20, tant que cette attaque est un succès. De plus, lorsque le dévoreur réussit un coup critique avec l’une de ses Frappes, sa cible doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-label=\"Vicious Criticals DC\" data-pf2-show-dc=\"gm\">Vigueur</span>, sinon elle est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 1. Si elle est déjà drainée, l’intensité de cet état augmente de 1, sans dépasser un maximum de 4.</p>\n<p>À chaque fois que le dévoreur draconique applique ainsi l’état drainé à une créature, son armure d’âmes gagne 5 PV.</p>"
-        },
-        {
-            "id": "(Greater Barghest) Mutation - Toxic Breath",
-            "name": "(Barghest supérieur) Mutation - Souffle toxique ((Greater Barghest) Mutation - Toxic Breath)",
-            "description": "<p>Le barghest peut souffler un nuage de gaz toxique qui inflige [[/r {8d6}[poison]]]{8d6 dégâts de poison} à toutes les créatures situées dans un  <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 mètres</span> (jet de <span data-pf2-check=\"fortitude\" data-pf2-traits=\"damaging-effect,divine,evocation,poison\" data-pf2-label=\"DD souffle toxique\" data-pf2-dc=\"25\" data-pf2-show-dc=\"gm\">Vigueur basique</span> DD 25). Il ne peut utiliser une nouvelle fois ce pouvoir avant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
-        },
-        {
-            "id": "(Vampire, Vrykolakas) Swift Tracker",
-            "name": "(Vampire, vrykolakas) Pistage accéléré ((Vampire, Vrykolakas) Swift Tracker)",
-            "description": "<p>Le vrykolakas se déplace à pleine Vitesse quand il @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Piste}</p>"
-        },
-        {
-            "id": "(Clockwork Creature) Wind-Up",
-            "name": "(Créature mécanique) Remonter ((Clockwork Creature) Wind-Up)",
-            "description": "Pour qu'un mécanisme d'automate puisse fonctionner, il doit être remonté avec une clé unique par une autre créature. Cela prend 1 minute. Une fois remonté, il reste opérationnel pendant la durée indiquée, généralement 24 heures, après quoi il devient inconscient de son environnement et ne peut plus agir jusqu'à ce qu'il soit remonté. Certaines capacités de créature mécanique  exigent qu'elles dépensent une partie de leur temps de fonctionnement restant. Elles ne peuvent pas en dépenser plus qu'elles n'en possèdent et s'arrêtent immédiatement lorsqu'il ne leur reste plus de temps. Si l'on ne sait pas exactement quand une créature mécanique a été remontée pour la dernière fois, la plupart des gardiens de créatures mécaniques les remontent à une heure fixe, généralement 8 heures du matin </p> \n<p>Un mouvement de créature mécanique qui indique \"veille\" dans son entrée de remontage peut passer en mode veille comme une activité à 3 actions. Son temps opérationnel ne diminue pas en veille, mais elle peut sentir son environnement (avec un malus de -2 à la Perception). Elle ne peut pas agir, à une exception près : lorsqu'elle perçoit une créature, elle peut sortir du mode veille comme une réaction (en faisant un jet d'initiative le cas échéant).</p>\n<p>Une créature peut tenter de Désactiver un dispositif pour remonter un rouage de créature mécanique (avec un DD indiqué dans l'entrée de remontage). Pour chaque réussite, le rouage de la créature mécanique perd 1 heure de temps opérationnel. Cela peut être fait même si le rouage de la créature mécanique est en mode veille.</p>"
-        },
-        {
-            "id": "(Ghast) Paralysis",
-            "name": "(Blême) Paralysie ((Ghast) Paralysis)",
-            "description": "<p>Toute créature vivante touchée par l’attaque d’un blême doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"necromancy,occult,incapacitation\" data-pf2-label=\"DD Paralysie\" data-pf2-show-dc=\"gm\">Vigueur</span> ou devenir @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée}. Elle peut tenter un nouveau jet de sauvegarde à la fin de chacun de ses tours <span data-visibility=\"gm\"> et le DD diminue cumulativement de 1 à chaque tentative</span>.</p>"
-        },
-        {
-            "id": "(Graveknight) Clutching Armor",
-            "name": "(Chevalier sépulcre) Armure agrippante ((Graveknight) Clutching Armor)",
-            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature tente de s'éloigner du chevalier sépulcre</p>\n<p><strong>Effet</strong> L'armure du chevalier sépulcre s'anime et tente de l'empoigner. L'armure lance un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Empoigner} la créature déclencheuse utilisants les modificateur du chevalier sépulcre -2. L'armure continue alors d'empoigner la créature normalement.</p>\n<p>Comme l'armure empoigne la créature, le chevalier sépulcre n'a pas besoin d'une main libre pour le faire.</p>"
-        },
-        {
-            "id": "(Graveknight) Phantom Mount",
-            "name": "(Chevalier sépulcre) Monture fantôme ((Graveknight) Phantom Mount)",
-            "description": "<p>PV 58; CA 27, Vig +17, Réf +15, Vol +14</p>\n<hr />\n<p>Le chevalier sépulcre invoque une monture surnaturelle comme avec le sort @Compendium[pf2e.spells-srd.WPKJOhEihhcIm2uQ]{Coursier fantôme}, augmenté jusqu’à un niveau égal à la moitié de celui du chevalier.</p>\n<p>Contrairement à coursier fantôme, la CA et les bonus aux jets de sauvegarde de la monture sont inférieurs de 4 points à ceux du chevalier et la monture a un tiers des points de vie du chevalier sépulcre (arrondir à l’inférieur).</p>\n<p>Si la monture est détruite, le chevalier doit attendre 1 heure avant de pouvoir de nouveau utiliser ce pouvoir.</p>"
-        },
-        {
-            "id": "(Ravener) Consume Soul",
-            "name": "(Dévoreur draconique) Dévorer les âmes ((Ravener) Consume Soul)",
-            "description": "<p data-visibility=\"gm\"><strong>Déclencheur. Une créature vivante dans un rayon de 9 mètres périt</p> \n<p><strong>Effet</strong> Le dévoreur arrache l’âme du corps de la créature d’un coup de croc et l’engloutit. La créature mourante doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"death,divine,necromancy\" data-pf2-label=\"Consume Soul DC\" data-pf2-show-dc=\"gm\">Vigueur</span> contre le même DD que le souffle du dévoreur draconique.</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée.</p>\n<p><strong>Succès</strong> Le dévoreur arrache un bout de l’âme de la créature. Si la victime est ramenée à la vie, elle est [pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 1 en plus des autres effets secondaires éventuellement liés à sa résurrection. Le dévoreur ajoute un montant de PV égal à la moitié du niveau de la créature à son armure d’âmes.</p>\n<p><strong>Échec</strong> Comme un succès, mais l’âme de la créature est déchiquetée. La créature est Drainée 3 et le dévoreur ajoute un montant de PV égal au niveau de la créature à son armure d’âmes.</p>\n<p><strong>Échec critique</strong> Comme pour un échec, mais le dévoreur consume la totalité de l’âme. Tant que le dévoreur draconique existe, il est impossible de ramener la victime à la vie, à moins d’utiliser un effet de niveau 10 comme @Compendium[pf2e.spells-srd.YfJTXyVGzLhM6V8U]{Miracle} ou @Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Souhait}. Le dévoreur ajoute un montant de PV égal au double du niveau de la créature à son armure d’âmes.</p>\n</div>"
-        },
-        {
-            "id": "(Ghoul) Ghoul Fever",
-            "name": "(Goule) Fièvre des goules ((Ghoul) Ghoul Fever)",
-            "description": "<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"disease\" data-pf2-label=\"DD Fièvre de goule\" data-pf2-show-dc=\"gm\">Vigueur</span></p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Stade 1</strong> pas d’effet sur le porteur (1 jour)</p> \n<p><strong>Stade 2</strong> [[/r {2d6}[negative]]]{2d6 dégâts négatifs} et le malade récupère seulement la moitié des points de vie conférés par les soins (1 jour)</p>\n<p><strong>Stade 3</strong> comme le stade 2 (1 jour)</p> \n<p><strong>Stade 4</strong> [[/r {2d6}[negative]]]{2d6 dégâts négatifs} et les soins ne fonctionnent plus sur le malade (1 jour)</p> \n<p><strong>Stade 5</strong> comme stade 4 (1 jour)</p>\n<p><strong>Stade 6</strong> la créature meurt et se relève sous forme de @Compendium[pf2e.pathfinder-bestiary.LHHgGSs0ELCR4CYK]{Goule} aux prochains coups de minuit.</p>\n</div>"
-        },
-        {
-            "id": "(Golem) Inexorable March",
-            "name": "(Golem) Marche inexorable ((Golem) Inexorable March)",
-            "description": "<p><span data-pf2-check=\"fortitude\" data-pf2-dc=\"0\" data-pf2-traits=\"damaging-effect\" data-pf2-label=\"DD marche inexorable\" data-pf2-show-dc=\"gm\">Vigueur</span></p>\n<p data-visibility=\"gm\">[save effect]</p>\n<hr />\n<p>Le golem Marche rapidement jusqu’à sa Vitesse maximale en repoussant toute créature dans l’espace de laquelle il pénètre et en leur infligeant des dégâts si elles tentent de l’arrêter. Une créature peut tenter de lui bloquer le chemin en réussissant un jet de Vigueur</p>"
-        },
-        {
-            "id": "(Graveknight) Ruinous Weapons",
-            "name": "(Chevalier sépulcre) Armes du désastre ((Graveknight) Ruinous Weapons)",
-            "description": "<p>Au moment de sa création, un chevalier sépulcre choisit un des types suivants d’énergie qui avait un rapport avec sa vie ou avec sa mort : acide, froid, électricité ou feu.</p>\n<p>Toute arme utilisée par le chevalier sépulcre gagne les effets de la rune d’arme corrosive, froid, foudre ou enflammée, respectivement, en plus d’une rune de frappe +1.</p>\n<p>Si le chevalier sépulcre est au moins de niveau 14, son arme gagne à la place les effets de la version supérieure de ces deux runes.</p>"
+            "id": "(Graveknight) Create Grave Squire",
+            "name": "(Chevalier sépulcre) Grand écuyer du sépulcre ((Graveknight) Create Grave Squire)",
+            "description": "<p>Le chevalier sépulcre peut donner un morceau de son armure à un allié volontaire qui devient un écuyer du sépulcre.</p>\n<p>Le chevalier peut communiquer par télépathie avec son écuyer à n’importe quelle distance, utiliser ses sens et lancer à volonté le sort Compendium[pf2e.spells-srd.qwlh6aDgi86U3Q7H]{Suggestion} en tant que sort inné divin à travers le lien télépathique ; l’écuyer considère son degré de succès comme inférieur d’un échelon.</p>\n<p>Si la principale armure du chevalier sépulcre est détruite, le morceau d’armure de l’écuyer s’étend jusqu’à couvrir tout son corps en 1d10 jours, après quoi il devient le nouveau corps du chevalier sépulcre.</p>\n<p>Le chevalier sépulcre ne peut avoir qu’un seul écuyer à la fois et il doit récupérer la pièce d’armure donnée s’il veut en créer un autre.</p>"
         },
         {
             "id": "(Vampire, Vrykolakas Master) Children of the Night",
@@ -522,14 +32,109 @@
             "description": "<p>La présence d’un maître vrykolakas incite les créatures sauvages à accomplir les volontés de ce dernier, qu’elles soient des @Compendium[pf2e.pathfinder-bestiary.sPClc6y3dT3XZupv]{Nuées de rats}, des @Compendium[pf2e.pathfinder-bestiary.Sft7n3LMmnTxhhYn]{Wargs}, des @Compendium[pf2e.pathfinder-bestiary.bLMoqt9xqTZKnjxr]{loups-garous} ou des créatures similaires.</p>\n<p>Le maître vrykolakas peut donner des ordres télépathiques à ces créatures si elles se trouvent à 30 mètres ou moins, mais elles ne peuvent pas communiquer en retour.</p>"
         },
         {
-            "id": "(Vampire, Vrykolakas) Drink Blood",
-            "name": "(Vampire, vrykolakas) Boire le sang ((Vampire, Vrykolakas) Drink Blood)",
-            "description": "<p data-visibility=\"gm\"><strong>Conditions</strong> La dernière action du vrykolakas était une Frappe de crocs réussie</p> \n<p><strong>Effet</strong> Le vrykolakas enfonce ses crocs dans cette créature pour boire son sang. Cela nécessite un test d’Athlétisme contre le DD de Vigueur de la créature. En cas de succès, la créature est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 1 (Drainé 2 si c'est un Maître vrykolakas qui utilise cette action), et le vrykolakas récupère un montant de PV égal à 10 % de son maximum de PV, les PV excédentaires s’ajoutant sous forme de points de vie temporaires. Boire le sang d’une créature déjà drainée ne permet pas au vrykolakas de récupérer des PV, mais la valeur de l’état drainé de la victime augmente de 1. Un vrykolakas peut également boire du sang qui a été extrait dans un récipient pour se nourrir, mais il ne gagne aucun PV ce faisant.</p> \n<p>L’état drainé de la créature ciblée diminue de 1 par semaine. Une transfusion sanguine, qui nécessite un test de <span data-pf2-check=\"medicine\" data-pf2-label=\"Blood Transfusion DC\" data-pf2-dc=\"20\" data-pf2-show-dc=\"gm\">Médecine</span>  DD 20 et suffisamment de sang ou un donneur de sang, réduit l’état drainé de 1 après 10 minutes.</p>"
+            "id": "(Divine Warden) Divine Domain Spells",
+            "name": "(Garde divin) Sorts divins de domaine ((Divine Warden) Divine Domain Spells)",
+            "description": "<p>Le gardien divin choisit deux des domaines de sa divinité protectrice. Le gardien divin peut lancer le sort de domaine de base pour les domaines qu'il a choisis. Le gardien divin a une réserve de focalisation de 1 point. Il ne peut pas se Refocaliser, mais sa réserve de focalisation se remplit automatiquement 24 heures après la dernière utilisation d'un point de focalisation. Si le Garde divin est au moins de niveau 10, il gagne également les sorts de domaine avancés pour les domaines qu'il a choisi, et sa réserve de focus augmente à 2 points de focus.</p>"
         },
         {
-            "id": "(Vampire, Basic) Vampire Weaknesses",
-            "name": "(Vampire, de base) Faiblesses du vampire ((Vampire, Basic) Vampire Weaknesses)",
-            "description": "<p>Tous les vampires possèdent les faiblesses suivantes.</p>\n<ul>\n<li><strong>Compulsion</strong> Les vampires obéissent à de curieuses et inexplicables compulsions. Un vampire typique ne peut pas traverser de l’eau courante, à moins qu’il ne soit caché dans son cercueil et que quelqu’un ne le transporte. Il est également incapable d’entrer dans une habitation privée, à moins que quelqu’un disposant de l’autorité nécessaire ne l’y invite. Si vous le désirez, un vampire peut être soumis à des compulsions différentes. Par exemple, un pirate vampire pourrait être incapable de poser le pied sur la terre ferme à moins d’y être invité. Il est tout de même possible d’obliger le vampire à faire cela et à surmonter sa compulsion, tout comme il surmonterait sa révulsion.</li>\n<li><strong>Révulsion</strong> Un vampire ne peut pas approcher volontairement à 3 mètres ou moins de quelqu’un qui brandit de l’ail ou le symbole religieux d’une divinité non-mauvaise. Pour brandir une telle chose, une créature doit Interagir pendant 1 round (comme pour Lever un bouclier). Si le vampire arrive involontairement à moins de 3 mètres de l’objet de sa révulsion, il acquiert l’état @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} et court loin de l’objet de son dégoût jusqu’à ce qu’il termine une action à plus de 3 mètres de lui. Quand un vampire a passé 1 round exposé à l’objet de sa révulsion, il a droit à un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"25\" data-pf2-label=\"DD surmonter révulsion\" data-pf2-show-dc=\"gm\">Volonté</span> DD 25 par une action unique dotée du trait Concentration. Sur un succès, il surmonte sa révulsion pendant [[/br 1d6 #rounds]]{1d6 rounds} (1 heure pour un succès critique).</li>\n<li><strong>Pieu</strong> Un pieu de bois plongé dans le coeur d’un vampire le met à 0 PV et l’empêche de guérir, même s’il est dans son cercueil. Il faut trois actions pour planter le pieu et le vampire doit être inconscient. Si l’on retire le pieu, le vampire se met à guérir et peut repasser au-dessus de 0 PV. S’il est dans son cercueil, la période de 1 heure de repos commence dès que le pieu est retiré. Si le vampire est décapité et sa tête ointe @Compendium[pf2e.equipment-srd.efFe4EK7ThUrH446]{d’Eau bénite} alors que le pieu est en place, le vampire est détruit.</li>\n<li><strong>Soleil</strong> Un vampire directement exposé au soleil est immédiatement @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1. Cette valeur augmente de 1 à chaque fois que le vampire termine un tour au soleil. S’il perd ainsi toutes ses actions, il est détruit. À cause de leur aversion surnaturelle pour la lumière, les vampires ne projettent pas d’ombre et n’ont pas de reflet dans les miroirs.</li>\n</ul>"
+            "id": "(Werecreature) Animal Empathy",
+            "name": "(Créature garou) Empathie animale ((Werecreature) Animal Empathy)",
+            "description": "<p>Un garou peut communiquer avec des animaux semblables à lui.<p>"
+        },
+        {
+            "id": "(Vampire, True) Children of the Night",
+            "name": "(Vampire, véritable) Enfant de la nuit ((Vampire, True) Children of the Night)",
+            "description": "<p>La présence du vampire attire des créatures de la nuit venues recevoir ses ordres. Il s’agit souvent de @Compendium[pf2e.pathfinder-bestiary.sPClc6y3dT3XZupv]{Nuées de rats}, de @Compendium[pf2e.pathfinder-bestiary.VAWmwDA08ZLQd8lW]{Nuées de chauves-souris} ou de @Compendium[pf2e.pathfinder-bestiary.Oilfs8Atv2LjAsUS]{Loups}, mais il peut y avoir d’autres créatures.</p>\n<p>Le vampire peut leur donner des ordres par télépathie dans un rayon de 30 mètres, mais elles ne peuvent pas communiquer en retour.</p>"
+        },
+        {
+            "id": "(Ghost) Dreamwalker",
+            "name": "(Fantôme) Marcheur de rêves ((Ghost) Dreamwalker)",
+            "description": "<p>Quiconque rencontre un fantôme ou visite le site auquel il est lié peut subir cet effet.  La première fois que le sujet dort après sa rencontre avec un fantôme; il est ciblé par le sort <em>@Compendium[pf2e.spells-srd.Uqj344bezBq3ESdq]{Cauchemar}</em>, avec le cauchemar étant plus ou moins lié au fantôme rencontré.</p>\n<p>Le plus souvent, cela veut dire que le sujet revit les derniers moments de la vie du fantôme, mais il y a d'autres possibilités. Si le fantôme le souhaite, il peut manipuler les rêves pour envoyer des messages ou même tenir toute une conversation avec le rêveur.</p>"
+        },
+        {
+            "id": "(Clockwork Creature) Wind-Up",
+            "name": "(Créature mécanique) Remonter ((Clockwork Creature) Wind-Up)",
+            "description": "Pour qu'un mécanisme d'automate puisse fonctionner, il doit être remonté avec une clé unique par une autre créature. Cela prend 1 minute. Une fois remonté, il reste opérationnel pendant la durée indiquée, généralement 24 heures, après quoi il devient inconscient de son environnement et ne peut plus agir jusqu'à ce qu'il soit remonté. Certaines capacités de créature mécanique  exigent qu'elles dépensent une partie de leur temps de fonctionnement restant. Elles ne peuvent pas en dépenser plus qu'elles n'en possèdent et s'arrêtent immédiatement lorsqu'il ne leur reste plus de temps. Si l'on ne sait pas exactement quand une créature mécanique a été remontée pour la dernière fois, la plupart des gardiens de créatures mécaniques les remontent à une heure fixe, généralement 8 heures du matin </p> \n<p>Un mouvement de créature mécanique qui indique \"veille\" dans son entrée de remontage peut passer en mode veille comme une activité à 3 actions. Son temps opérationnel ne diminue pas en veille, mais elle peut sentir son environnement (avec un malus de -2 à la Perception). Elle ne peut pas agir, à une exception près : lorsqu'elle perçoit une créature, elle peut sortir du mode veille comme une réaction (en faisant un jet d'initiative le cas échéant).</p>\n<p>Une créature peut tenter de Désactiver un dispositif pour remonter un rouage de créature mécanique (avec un DD indiqué dans l'entrée de remontage). Pour chaque réussite, le rouage de la créature mécanique perd 1 heure de temps opérationnel. Cela peut être fait même si le rouage de la créature mécanique est en mode veille.</p>"
+        },
+        {
+            "id": "(Ghost) Ghost Storm",
+            "name": "(Fantôme) Tempête Fantôme ((Ghost) Ghost Storm)",
+            "description": "<p>@Template[type:emanation|distance:30]{9 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Le vent enveloppe le fantôme dans une zone de 9 mètres. Le vent éteint tout feu non magique, disperse le brouillard et la brume, fait voler les objets d'Encombrement léger ou moins, et repousse les objets plus large. La zone dans l'aura du vent sont considéré comme étant terrain difficile et les créatures volantes se déplacent toujours contre le vent.</p>\n<p>Le fantôme peut révoquer ou réinitialiser le vent en une action qui a le trait concentration.</p>"
+        },
+        {
+            "id": "(Ravener) Consume Soul",
+            "name": "(Dévoreur draconique) Dévorer les âmes ((Ravener) Consume Soul)",
+            "description": "<p data-visibility=\"gm\"><strong>Déclencheur. Une créature vivante dans un rayon de 9 mètres périt</p> \n<p><strong>Effet</strong> Le dévoreur arrache l’âme du corps de la créature d’un coup de croc et l’engloutit. La créature mourante doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"death,divine,necromancy\" data-pf2-label=\"Consume Soul DC\" data-pf2-show-dc=\"gm\">Vigueur</span> contre le même DD que le souffle du dévoreur draconique.</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée.</p>\n<p><strong>Succès</strong> Le dévoreur arrache un bout de l’âme de la créature. Si la victime est ramenée à la vie, elle est [pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 1 en plus des autres effets secondaires éventuellement liés à sa résurrection. Le dévoreur ajoute un montant de PV égal à la moitié du niveau de la créature à son armure d’âmes.</p>\n<p><strong>Échec</strong> Comme un succès, mais l’âme de la créature est déchiquetée. La créature est Drainée 3 et le dévoreur ajoute un montant de PV égal au niveau de la créature à son armure d’âmes.</p>\n<p><strong>Échec critique</strong> Comme pour un échec, mais le dévoreur consume la totalité de l’âme. Tant que le dévoreur draconique existe, il est impossible de ramener la victime à la vie, à moins d’utiliser un effet de niveau 10 comme @Compendium[pf2e.spells-srd.YfJTXyVGzLhM6V8U]{Miracle} ou @Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Souhait}. Le dévoreur ajoute un montant de PV égal au double du niveau de la créature à son armure d’âmes.</p>\n</div>"
+        },
+        {
+            "id": "(Ghost) Cold Spot",
+            "name": "(Fantôme) Point froid ((Ghost) Cold Spot)",
+            "description": "<p>@Template[type:emanation|distance:5|damaging:yes]{1,5 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>L'air d'une aura de 1,5 mètres autour du fantôme est d'un froid supernaturel. Les personnages qui entrent dans cette aura ou commencent leur tour dans cette aura subissent  [[/r {1d6}[cold]]]{1d6 dégâts de froid} par tranche de 3 niveau de fantôme (avec un jet de sauvegarde <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"aura,cold,divine,damaging-effect\" data-pf2-label=\"Cold Spot DC\" data-pf2-show-dc=\"gm\">Vigueur basique</span> ).</p>"
+        },
+        {
+            "id": "(Graveknight) Sacrilegious Aura",
+            "name": "(Chevalier sépulcre) Aura sacrilège ((Graveknight) Sacrilegious Aura)",
+            "description": "<p>@Template[type:emanation|distance:30]{9 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Quand une créature dans l’aura utilise un sort ou un pouvoir positif, le chevalier sépulcre tente automatiquement de le contrer avec le modificateur de [[/r 1d10+0 #Counteract]]{+x} contre indiqué.</p>"
+        },
+        {
+            "id": "(Graveknight) Clutching Armor",
+            "name": "(Chevalier sépulcre) Armure agrippante ((Graveknight) Clutching Armor)",
+            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature tente de s'éloigner du chevalier sépulcre</p>\n<p><strong>Effet</strong> L'armure du chevalier sépulcre s'anime et tente de l'empoigner. L'armure lance un test d'Athlétisme pour @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Empoigner} la créature déclencheuse utilisants les modificateur du chevalier sépulcre -2. L'armure continue alors d'empoigner la créature normalement.</p>\n<p>Comme l'armure empoigne la créature, le chevalier sépulcre n'a pas besoin d'une main libre pour le faire.</p>"
+        },
+        {
+            "id": "(Ravener) Soul Ward",
+            "name": "(Dévoreur draconique) Armure d’âmes ((Ravener) Soul Ward)",
+            "description": "<p>Un champ d’énergie nécromantique intangible protège le dévoreur draconique contre l’annihilation. Une armure d’âmes a un maximum de PV de 150, 200 si le dévoreur est de niveau 21 ou plus.</p>\n<p>Lorsque le dévoreur devrait tomber à moins de 1 PV, tous les dégâts en plus de ceux le mettant à 1 PV sont déviés sur l’armure d’âmes. Si ces dégâts réduisent l’armure à moins de 0 PV, le dévoreur est détruit.</p>\n<p>Pour rendre des PV à l’armure d’âmes, il faut impérativement utiliser des pouvoirs de dévoreur bien particulier, comme Dévorer les âmes, souffle dévorant ou critiques vicieux. Un dévoreur draconique qui passe plus d’une semaine sans parvenir à utiliser Dévorer les âmes pour se nourrir d’une créature à l’agonie meurt de faim et son armure d’âmes perd [[/r 1d4 #Points de vie]]{1d4 Points de Vie} chaque jour jusqu’à ce qu’il ait mangé. Si l’armure perd tous ses points de vie alors que le dévoreur a encore plus de 1 PV, celui-ci devient un @Compendium[pf2e.pathfinder-bestiary-2.Yv0005Vym1peVKHq]{Vestige de dévoreur}.</p>"
+        },
+        {
+            "id": "(Vampire, Basic) Drink Blood",
+            "name": "(Vampire, de base) Boire le sang ((Vampire, Basic) Drink Blood)",
+            "description": "<p><strong>Conditions</strong> Une créature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée/Agrippée}, @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée}, @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravée},  @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconsciente} ou consentante est à portée du vampire.</p> \n<p><strong>Effet</strong> Le vampire enfonce ses crocs dans cette créature et boit son sang. Pour cela, il doit réussir un test d’Athlétisme contre le DD de Vigueur de la victime si elle est empoignée. Dans les autres cas, il y parvient automatiquement.</p> \n<p>La victime est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 1 et le vampire récupère un montant de PV égal à 10 % de son maximum de PV, les PV excédentaires s’ajoutant sous forme de points de vie temporaires. Si le vampire Boit le sang d’une créature déjà drainée, il ne récupère pas d’autres PV, mais la valeur de drain de la victime augmente de 1. Un vampire peut aussi boire du sang versé dans un récipient pour s’alimenter, mais cela ne lui rend pas de PV.</p> \n<p>L’état Drainé de la victime se réduit de 1 par semaine. Une transfusion sanguine (qui requiert un test de <span data-pf2-check=\"medicine\" data-pf2-dc=\"20\" data-pf2-label=\"DD transfusion sanguine\" data-pf2-show-dc=\"gm\">Médecine</span> DD 20 et assez de sang ou un donneur réduit l’état drainé de 1 au bout de 10 minutes.</p>"
+        },
+        {
+            "id": "(Werecreature) Moon Frenzy",
+            "name": "(Créature garou) Frénésie lunaire ((Werecreature) Moon Frenzy)",
+            "description": "<p>Quand la pleine lune se lève dans le ciel nocturne, le garou revêt sa forme hybride. Ensuite, il ne peut plus Changer de forme. Il grossit d’une catégorie de taille, son allonge augmente de 1,5 m et ses dégâts de mâchoires de 2.</p> \n<p>Quand la lune se couche ou que le soleil se lève, le garou reprend sa forme humanoïde et se trouve @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} pendant [[/br 2d4 #hours]]{2d4 heures}.</p>"
+        },
+        {
+            "id": "(Ravener) Vicious Criticals",
+            "name": "(Dévoreur draconique) Critiques vicieux ((Ravener) Vicious Criticals)",
+            "description": "<p>Le dévoreur draconique réussit un coup critique lors d’un jet d’attaque sur un résultat de 19 ou 20, tant que cette attaque est un succès. De plus, lorsque le dévoreur réussit un coup critique avec l’une de ses Frappes, sa cible doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-label=\"Vicious Criticals DC\" data-pf2-show-dc=\"gm\">Vigueur</span>, sinon elle est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 1. Si elle est déjà drainée, l’intensité de cet état augmente de 1, sans dépasser un maximum de 4.</p>\n<p>À chaque fois que le dévoreur draconique applique ainsi l’état drainé à une créature, son armure d’âmes gagne 5 PV.</p>"
+        },
+        {
+            "id": "(Ravener) Soulsense",
+            "name": "(Dévoreur draconique) Perception de l’âme ((Ravener) Soulsense)",
+            "description": "<p>Le dévoreur draconique perçoit l’essence spirituelle des créatures vivantes et mortes-vivantes dans le rayon indiqué. Les créatures dont le corps matériel ne fait qu’un avec l’âme, comme les célestes et les fiélons, brillent plus fort à l’égard de ce pouvoir.</p>"
+        },
+        {
+            "id": "(Ghast) Stench",
+            "name": "(Blême) Puanteur ((Ghast) Stench)",
+            "description": "<p>@Template[type:emanation|distance:10]{3 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Une créature qui entre ou commence son tour dans l’aura doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"aura,olfactory\" data-pf2-label=\"Stench DC\" data-pf2-show-dc=\"gm\">Vigueur</span> ou devenir @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 (plus @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 tant qu’elle est malade en cas d’échec critique).</p>\n<p>Tant qu’elle reste dans l’aura, la créature subit un malus de circonstances de −2 aux jets de sauvegarde contre les maladies et aux tentatives pour se débarrasser de l’état malade. <span data-visibility=\"gm\">Une créature qui réussit son jet de sauvegarde est temporairement immunisée pendant 1 min.</span></p>\n<p>@Compendium[pf2e.bestiary-effects.wX9L6fbqVMLP05hn]{Effet : Puanteur de Blême}</p>"
+        },
+        {
+            "id": "(Visitant) Wrestle",
+            "name": "(Revenant) Lutte ((Visitant) Wrestle)",
+            "description": "<p>Le revenant effectue une Frappe de griffe contre une créature qu’il a @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée}. Si l’attaque touche, la créature est @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Mise à terre}.</p>"
+        },
+        {
+            "id": "(Vampire, True) Mist Escape",
+            "name": "(Vampire, véritable) Fuite brumeuse ((Vampire, True) Mist Escape)",
+            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le vampire est réduit à 0 PV.</p> \n<p><strong>Effet</strong> Le vampire utilise Se changer en brume. Il peut faire une action de mouvement en direction de son cercueil même s’il est à 0 PV. À 0 PV sous cette forme, les dégâts ne l’affectent plus.</p>\n</p>Il reprend automatiquement une forme tangible et se trouve inconscient s’il atteint son cercueil ou au bout de 2 heure, selon ce qui se produit en premier.</p>"
+        },
+        {
+            "id": "(Ghast) Consume Flesh",
+            "name": "(Blême) Dévorer la chair ((Ghast) Consume Flesh)",
+            "description": "<p><strong>Conditions</strong> Le blême est adjacent au cadavre d’une créature morte il y a moins d’une heure.</p> \n<p><strong>Effet</strong> Le blême dévore un morceau de chair du cadavre et récupère [[/r {2d6}[healing]]]{2d6 points de vie } plus 1d6 tous les 2 niveaux qu’il possède. Il ne peut récupérer des points de vie qu’une seule fois par cadavre.</p>"
+        },
+        {
+            "id": "(Lich) Blasphemous Utterances",
+            "name": "(Liche) Paroles blasphématoires ((Lich) Blasphemous Utterances)",
+            "description": "<p>@Template[type:emanation|distance:10]{3 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>La liche est enveloppée d’un écho constant de murmures blasphématoires et de chuchotements impies.</p>\n<p>Une créature dans l’aura subit un malus de circonstances de −2 à ses jets de sauvegarde contre les effets mentaux et ne peut utiliser d’actions avec le trait Concentration à moins de réussir un <span data-pf2-check=\"flat\" data-pf2-dc=\"10\">test nu DD 10</span>. Si le test rate, l’action est perdue.</p>\n<p>@Compendium[pf2e.bestiary-effects.jrfuplUEq3PIo6j1]{Effet : Paroles blasphématoires}</p>"
+        },
+        {
+            "id": "(Skeleton) Bloody",
+            "name": "(Squellette) Sanglant ((Skeleton) Bloody)",
+            "description": "<p>Le squelette est dégoulinant de sang et bénéficie de @Compendium[pf2e.bestiary-ability-glossary-srd.fJSNOw4zHGbIm4bZ]{Guérison accélérée}, avec une valeur égale à son niveau.</p>"
         },
         {
             "id": "(Zombie) Rotting Aura",
@@ -537,34 +142,9 @@
             "description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} @Template[type:emanation|distance:10]{3 m}</p>\n<p>Le zombie est entouré d’une aura de pourrissement et de maladie qui fait puruler les blessures</p>\n<p>Toute créature qui débute son tour dans un rayon de 3 m autour du zombie et ne possède pas son maximum de points de vie subit [[/r {1d6}]]{1d6 dégâts} causés par ses blessures purulentes. Cette quantité de dégâts augmente de 1d6 par tranche de 6 niveaux du zombie. Une créature qui reçoit un coup critique d’un zombie subit également ces dégâts.</p>"
         },
         {
-            "id": "(Zombie) Plague-Ridden",
-            "name": "(Zombie) Pestiféré ((Zombie) Plague-Ridden)",
-            "description": "<div data-visibility=\"gm\">\n<p>Le zombie est porteur d’une maladie susceptible de créer de nouveaux zombies</p>\n<p>Celle-ci fonctionne comme @Compendium[pf2e.pathfinder-bestiary.KxN9aGFGPxl6oLGF]{Putréfaction de zombie} d’un zombie pestiféré, sauf qu’au stade 5 la victime ne revient pas sous la forme d’un zombie pestiféré, mais sous celle d’un autre type de zombie.</p>\n<hr />\n<p><strong>Putréfaction de zombie</strong></p>\n<p>Une créature infectée ne peut pas soigner les dégâts infligés par la putréfaction de zombie jusqu’à ce qu’elle ait été guérie de cette maladie.</p>\n</div>\n<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"disease,necromancy\" data-pf2-label=\"DD Putréfaction de zombie\" data-pf2-show-dc=\"gm\">Vigueur</span></p>\n<div data-visibility=\"gm\">\n<p><strong>Stade 1</strong> Porteur sans effets néfastes (1 jour)</p>\n<p><strong>Stade 2</strong> [[/r {1d6}[negative]]]{1d6 dégâts négatifs} (1 jour)</p>\n<p><strong>Stade 3</strong> [[/r {1d6}[negative]]]{1d6 dégâts négatifs} (1 jour)</p>\n<p><strong>Stade 4</strong> [[/r {1d6}[negative]]]{1d6 dégâts négatifs} (1 jour)</p>\n<p><strong>Stade 5</strong> mort, revient immédiatement sous la forme d’un zombie pestiféré</p>\n</div>"
-        },
-        {
-            "id": "(Lich) Cold Beyond Cold",
-            "name": "(Liche) Au-delà du froid ((Lich) Cold Beyond Cold)",
-            "description": "<p>La Frappe de main de la liche inflige des dégâts de froid au lieu de dégâts négatifs et au lieu d’être paralysée, la cible est Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 2.</p>\n<p>Un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"arcane,curse,necromancy\" data-pf2-label=\"DD Au-delà dir froid\" data-pf2-show-dc=\"gm\">Vigueur</span> réussi permet de réduire cet état à Ralenti 1 (ou annuler cet état en cas de succès critique).</p>"
-        },
-        {
-            "id": "(Ghost) Inhabit Object",
-            "name": "(Fantôme) Occuper un objet ((Ghost) Inhabit Object)",
-            "description": "<p>Le fantôme possède un objet de Grande taille ou plus petit situé à 6 mètres ou moins de lui et en fait un objet animé. Le niveau de cet objet animé ne peut pas être supérieur à celui du fantôme −2. Si l’objet ciblé est tenu par une créature, celle-ci peut faire un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-label=\"Inhabit Object DC\" data-pf2-show-dc=\"gm\">Volonté</span> pour empêcher la possession.</p> \n<p data-visibility=\"gm\">Cette possession prend fin quand l’objet est détruit ou si le fantôme en sort. Le cas échéant, le fantôme réapparaît dans la case de l’objet et ne peut de nouveau Occuper un objet avant[[/br 1d4 #rounds]](1d4 rounds}.</p>"
-        },
-        {
-            "id": "(Vampire, Vrykolakas Master) Pestilential Aura",
-            "name": "(Vampire, maître vrykolakas) Aura pestilentielle ((Vampire, Vrykolakas Master) Pestilential Aura)",
-            "description": "<p>@Template[type:emanation|distance:5]{1,5 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Les créatures qui commencent leur tour dans cette zone alors que le vrykolakas est sous sa vraie forme sont exposées à la peste bubonique.</p>"
-        },
-        {
-            "id": "(Graveknight) Dark Deliverance",
-            "name": "(Chevalier sépulcre) Sombre salut ((Graveknight) Dark Deliverance)",
-            "description": "<p>Le chevalier sépulcre a une résistance à l’énergie positive égale à son niveau.</p>"
-        },
-        {
-            "id": "(Worm That Walks) Swarm Shape",
-            "name": "(Ver-qui-marche) Forme de nuée ((Worm That Walks) Swarm Shape)",
-            "description": "<p>Le ver-qui-marche s’effondre en une nuée de vers informe. Il lâche tous les objets qu’il tient ou porte. Tant qu’il se trouve ainsi fragmenté, le ver-quimarche ne peut pas utiliser d’actions pour attaquer ni lancer de sorts, mais il peut traverser n’importe quelle zone dans laquelle ses vers peuvent se déplacer individuellement sans avoir besoin de Se faufiler. Il peut utiliser la même action pour reprendre sa forme normale.</p>"
+            "id": "(Skeleton) Skeleton of Roses",
+            "name": "(Squelette) Squelette de roses ((Skeleton) Skeleton of Roses)",
+            "description": "<p>Des ronces épaisses ont poussé à travers les os du squelette, le recouvrant de roses rouges aux épines de quelques centimètres.</p>\n<p>Les Frappes au corps-à-corps à mains nues du squelette infligent des dégâts perforants supplémentaires égaux à 1/3 du niveau du squelette (minimum 1 dégât).</p> \n<p>À la fin de chacun de ses tours, si le squelette a causé des dégâts perforants avec ses épines, il regagne des PV égaux à son niveau (minimum 1). Chaque fois que le squelette regagne des PV de cette manière, une autre rose fleurit.</p>"
         },
         {
             "id": "(Ghost) Draining Touch",
@@ -572,9 +152,429 @@
             "description": "<p>Le fantôme tente d’absorber la force vitale d’une créature s’il parvient à la toucher. Il effectue une Frappe de main spectrale mais n’inflige aucun dégât en cas de réussite.</p> \n<p>Au lieu de cela, la cible devient @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée 1}<span data-visibility=\"gm\">  pendant 1 jour et le fantôme récupère un nombre de PV égal à la moitié de son niveau de fantôme</span>.</p>"
         },
         {
+            "id": "(Worm That Walks) Squirming Embrace",
+            "name": "(Ver-qui-marche) Etreinte grouillante ((Worm That Walks) Squirming Embrace)",
+            "description": "<p>Le ver-qui-marche Marche rapidement et termine son déplacement dans l’espace occupé par une autre créature, à laquelle il inflige une quantité de dégâts perforants égale à [[/r {1d8}[piercing]]]{1d8 perforants}, plus 1d8 pour chaque tranche de 3 niveaux qu’il possède. La créature peut tenter un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"damaging-effect\" data-pf2-label=\"DD étreinte grouillante\" data-pf2-show-dc=\"gm\">Réflexes basique</span> dont le DD est égal au DD des sorts du ver-qui-marche −2.</p>"
+        },
+        {
+            "id": "(Worm That Walks) Swarm Shape",
+            "name": "(Ver-qui-marche) Forme de nuée ((Worm That Walks) Swarm Shape)",
+            "description": "<p>Le ver-qui-marche s’effondre en une nuée de vers informe. Il lâche tous les objets qu’il tient ou porte. Tant qu’il se trouve ainsi fragmenté, le ver-quimarche ne peut pas utiliser d’actions pour attaquer ni lancer de sorts, mais il peut traverser n’importe quelle zone dans laquelle ses vers peuvent se déplacer individuellement sans avoir besoin de Se faufiler. Il peut utiliser la même action pour reprendre sa forme normale.</p>"
+        },
+        {
+            "id": "(Vampire, True) Drink Blood",
+            "name": "(Vampire, véritable) Boire le sang ((Vampire, True) Drink Blood)",
+            "description": "<p><strong>Conditions</strong> Une créature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée/Agrippée}, @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée}, @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravée},  @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconsciente} ou consentante est à portée du vampire.</p> \n<p><strong>Effet</strong> Le vampire enfonce ses crocs dans cette créature et boit son sang. Pour cela, il doit réussir un test d’Athlétisme contre le DD de Vigueur de la victime si elle est empoignée. Dans les autres cas, il y parvient automatiquement.</p> \n<p>La victime est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 2 et le vampire récupère un montant de PV égal à 10 % de son maximum de PV, les PV excédentaires s’ajoutant sous forme de points de vie temporaires. Si le vampire Boit le sang d’une créature déjà drainée, il ne récupère pas d’autres PV, mais la valeur de drain de la victime augmente de 1. Un vampire peut aussi boire du sang versé dans un récipient pour s’alimenter, mais cela ne lui rend pas de PV.</p> \n<p>L’état Drainé de la victime se réduit de 1 par semaine. Une transfusion sanguine (qui requiert un test de <span data-pf2-check=\"medicine\" data-pf2-dc=\"20\" data-pf2-label=\"DD transfusion sanguine\" data-pf2-show-dc=\"gm\">Médecine</span> DD 20 et assez de sang ou un donneur réduit l’état drainé de 1 au bout de 10 minutes.</p>"
+        },
+        {
+            "id": "(Zombie) Feast",
+            "name": "(Zombie) Festoyer ((Zombie) Feast)",
+            "description": "<p>Si le zombie se trouve dans un emplacement adjacent à une créature sans défense ou inconsciente, ou à une créature morte depuis moins d’une heure, il peut se nourrir de sa chair pour se soigner. </p>\n<p>Le zombie regagne ainsi une quantité de points de vie égale à son propre niveau. Si la créature est vivante, le zombie lui inflige une quantité de dégâts égale aux dégâts qu’il inflige avec sa mâchoire, son poing ou ses griffes.</p>"
+        },
+        {
+            "id": "(Visitant) Roar",
+            "name": "(Revenant) Rugissement ((Visitant) Roar)",
+            "description": "<p>Le revenant émet un puissant et effrayant rugissement. Chaque créature à moins de @Template[type:emanation|distance:100]{30 mètres} doit tenter un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"auditory,concentrate,emotion,enchantment,fear,mental,primal\" data-pf2-label=\"DD du rugissement\" data-pf2-show-dc=\"gm\">Volonté</span>.</p>\nQuel que soit le résultat, les créatures affectées sont temporairement immunisées contre cet effet pendant 1 minute.</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Succès critique</strong>  La créature n’est pas affectée.\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 1.\n<p><strong>Échec</strong> La créature est Effrayée 2.\n<p><strong>Échec critique</strong> La créature est Effrayée 3.\n</div>"
+        },
+        {
+            "id": "(Ghoul) Consume Flesh",
+            "name": "(Goule) Dévorer la chair ((Ghoul) Consume Flesh)",
+            "description": "<p><strong>Conditions</strong> La goule est adjacent au cadavre d’une créature morte il y a moins d’une heure.</p> \n<p><strong>Effet</strong> La goule dévore un morceau de chair du cadavre et récupère [[/r {1d6}[healing]]]{1d6 points de vie } plus 1d6 tous les 2 niveaux qu’il possède. Il ne peut récupérer des points de vie qu’une seule fois par cadavre.</p>"
+        },
+        {
+            "id": "(Vampire, Vrykolakas) Feral Possession",
+            "name": "(Vampire, vrykolakas) Corruption sauvage ((Vampire, Vrykolakas) Feral Possession)",
+            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le vrykolakas est réduit à 0 points de vie, et un animal se trouve à moins de 30 mètres</p\n>\n<p><strong>Effet</strong> À l’inverse de la plupart des morts-vivants, un vrykolakas n’est pas détruit lorsqu’il atteint 0 PV. À la place, il tente d’envoyer son esprit dans un animal situé à moins de 30 mètres, qui doit alors faire un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"curse,divine,incapacitation,mental,necromancy,possession\" data-pf2-label=\"DD corruption sauvage\" data-pf2-show-dc=\"gm\">Volonté</span> (utilisez un DD élevé pour le niveau du vrykolakas).</p>\n<p>En cas d’échec, l’animal est possédé. Cela a le même effet que le sort @Compendium[pf2e.spells-srd.wU6hNzK8Yfqdmc8m]{Possession}, mais dure un nombre de jours équivalent au niveau du vrykolakas. Cette possession ne peut pas être contrée par la magie (même si une @Compendium[pf2e.spells-srd.OyFCwQuw8XRazsNr]{délivrance de la malédiction} fonctionne normalement contre elle).</p>\n<p>Si l’animal réussit son jet de sauvegarde, le vrykolakas peut tenter de posséder un autre animal situé à 30 mètres ou moins. Si à n’importe quel moment un animal obtient un succès critique à son jet de sauvegarde ou il n’y a aucun animal à 30 mètres ou moins, le vrykolakas ne parvient à posséder aucun corps et est détruit.</p>\n<p>Un vrykolakas qui possède un animal cherche alors son lieu de sépulture pour s’y enterrer immédiatement. Pendant que le vrykolakas est dans cet état de récupération, son hôte animal est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysé}, et le décapiter permet de détruire le vrykolakas et de tuer son hôte. Une délivrance de la malédiction permet de détruire le vrykolakas et de rendre son état normal à l’animal.</p>\n<p>Après [[/br 1d4 #days]]{1d4 jours}, si le vrykolakas n’a pas été détruit, l’animal meurt et le vrykolakas se relève dans un nouveau corps identique au précédent, formé à partir des restes de l’animal.</p>"
+        },
+        {
+            "id": "(Werecreature) Change Shape",
+            "name": "(Créature garou) Changement de forme ((Werecreature) Change Shape)",
+            "description": "<p>Le garou revêt une forme humanoïde, hybride ou animale. Chacune a une apparence spécifique qu’il conserve à chaque fois. La forme naturelle d’un véritable garou est l’hybride.</p> \n<p>Sous forme humanoïde, le garou utilise sa taille humanoïde originelle, perd ses Frappes de mâchoires et de griffes, mais gagne une Frappe de poing au corps-à-corps qui inflige des dégâts contondants égaux aux dégâts tranchants de ses griffes.</p> \n<p>Sous forme animale, sa Vitesse et sa taille changent pour devenir celles de l’animal. Il gagne les effets de Frappe spéciaux de cet animal s’il ne les avait pas (comme Empoignade) et perd ses Frappes avec une arme.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        {
+            "id": "(Skeleton) Screaming Skull",
+            "name": "(Squelette) Crâne hurlant ((Skeleton) Screaming Skull)",
+            "description": "<p>Le squelette se saisit de son propre crâne et le lance. Il peut ainsi faire une attaque de mâchoires avec une portée de 6 mètres. Le crâne tente ensuite de @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} ses adversaires qui se trouvent dans un rayon de 3 mètres autour de sa cible. Le crâne rebondit, roule, voire vole jusqu’à son corps de squelette au début de son prochain tour. Jusque-là, le squelette est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglé}.</p>"
+        },
+        {
+            "id": "(Ghost) Corrupting Gaze",
+            "name": "(Fantôme) Regard corrupteur ((Ghost) Corrupting Gaze)",
+            "description": "<p>Le fantôme regarde fixement une créature qu’il peut voir dans un rayon de 9 mètres. La cible subit [[/r {1d6}[negative]]]{1d6 dégâts négatifs} + 1d6 par tranche de 2 niveaux. Elle a droit à un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-label=\"Corrupting Gaze DC\" data-pf2-show-dc=\"gm\">Volonté basique</span>.</p>\n<p data-visibility=\"gm\">Elle est également @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée} pendant 1 min si elle rate son jet de sauvegarde.</p>"
+        },
+        {
+            "id": "(Vampire, Vrykolakas) Vrykolakas Vulnerabilities",
+            "name": "(Vampire, Vrykolakas) Vulnérabilités des vrykolakas ((Vampire, Vrykolakas) Vrykolakas Vulnerabilities)",
+            "description": "Les vrykolakas possèdent les vulnérabilités suivantes.<p> \n<ul>\n<li><strong>Lié à un site funéraire</strong> Un vrykolakas est lié au lieu de sa mort ou de son inhumation. Il doit revenir dans ce lieu une fois par semaine et s’enterrer pendant 24 heures, au cours desquelles il est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysé et peut être décapité. S’il n’a pas la possibilité de retourner sur ce site, il est réduit à 0 PV et tente une Corruption sauvage ; si son animal hôte ne peut pas revenir sur le site funéraire avant que l’effet de possession prenne fin, le vrykolakas est détruit et l’animal hôte revient à la normale.</p>\n<li><strong>Vulnérable à la décapitation</strong> Un vrykolakas qui est décapité ne peut pas utiliser sa Possession férale, et un corps décapité ne peut pas revenir sous la forme d’un vrykolakas.</li>\n</ul>"
+        },
+        {
+            "id": "(Ravener) Discorporate",
+            "name": "(Dévoreur draconique) Dématérialisation ((Ravener) Discorporate)",
+            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dévoreur draconique reçoit des dégâts en excès qui se reportent sur son armure d’âmes, mais cette dernière a encore au moins 51 PV</p>\n<p><strong>Effet</strong> Le dévoreur puise dans son armure d’âmes pour dématérialiser son corps et le changer en énergie spirituelle afin de s’enfuir. L’armure d’âmes reçoit alors 50 dégâts et le corps du dévoreur disparaît. Il réapparaît [[/br 1d4 #hours]]{1d4 heures} plus tard en un point aléatoire dans un rayon de 1,5 km autour du lieu de la Dématérialisation.</p>"
+        },
+        {
+            "id": "(Divine Warden) Divine Destruction",
+            "name": "(Garde divin) Destruction divine ((Divine Warden) Divine Destruction)",
+            "description": "<p>Lorsque le Garde divin est réduit à 0 PV, il explose en une énergie divine d'une émanation de 9 mètres infligeant [[/r {1d6}]]{1d6 dégâts} par niveau. Ces dégâts sont soit positifs soit négatifs, déterminés par la nature divine de la divinité protectrice (choisie à la création du gardien divin si la divinité offre un choix), et cette capacité gagne le trait correspondant. Chaque créature dans la zone doit tenter un jet de sauvegarde Volonté avec les résultats suivants :</p>\n<hr />\n<p><strong>Succès critique</strong> La créature subit la moitié des dégâts</p>\n<p><strong>Succès</strong> La créature subit tous les dégâts.</p>\n<p><strong>Échec</strong> La créature subit tous les dégâts et devient temporairement maudite par la divinité protectrice. La créature devient  @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 1 et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefiée} 1 pendant 1 jour; Ceci est un effet de malédiction qui utilise le DD de jet de sauvegarde Volonté comme DD de contre.</p>\n<p><strong>Échec critique</strong> Comme Échec, sauf que la créature devient Affaibilie 2 et Stupéfiée 2.</p>"
+        },
+        {
+            "id": "(Ghoul) Swift Leap",
+            "name": "(Goule) Bond rapide ((Ghoul) Swift Leap)",
+            "description": "<p>La goule se déplace d’une distance égale ou inférieure à la moitié de sa Vitesse en bondissant. Ce déplacement ne déclenche pas de réactions.</p>"
+        },
+        {
+            "id": "(Werecreature) Curse of the Werecreature",
+            "name": "(Créature garou) Malédiction du garou ((Werecreature) Curse of the Werecreature)",
+            "description": "<p>Cette malédiction affecte seulement les humanoïdes.</p>\n<hr /> \n<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"curse,necromancy,primal\" data-pf2-label=\"DD malédiction de la créature garou\" data-pf2-show-dc=\"gm\">Vigueur</span> Le DD du jet de Vigueur correspond au DD standard pour le nouveau niveau du garou −1.</p>\n<p>À chaque pleine lune, la créature maudite doit réussir un nouveau jet de Vigueur ou se changer en garou jusqu’à l’aube.</p> \n<p>Le garou est sous le contrôle du MJ et saccage tout ce qu’il trouve pendant la moitié de la nuit, après quoi il tombe inconscient jusqu’à l’aube.</p>"
+        },
+        {
+            "id": "(Vampire, Basic) Coffin Restoration",
+            "name": "(Vampire, de base) Cercueil restorateur ((Vampire, Basic) Coffin Restoration)",
+            "description": ""
+        },
+        {
+            "id": "(Ghost) Frightful Moan",
+            "name": "(Fantôme) Lamentation d'épouvante ((Ghost) Frightful Moan)",
+            "description": "<p>Le fantôme pleure sur son sort, ce qui oblige chaque créature vivante dans un rayon de 9 m à faire un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"auditory,divine,emotion,enchantment,fear,mental\" data-pf2-label=\"DD lamentation d'épouvante\" data-pf2-show-dc=\"gm\">Volonté</span>.</p> \n<p>En cas d’échec, une créature devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 2 (ou Éffrayée 3 en cas d’échec critique). En cas de réussite, elle est temporairement immunisée contre la lamentation d’épouvante de ce fantôme pendant 1 minute.</p>"
+        },
+        {
+            "id": "(Greater Barghest) Mutation - Vestigial Arm Strike",
+            "name": "(Barghest supérieur) Mutation - Frappe de membre atrophié ((Greater Barghest) Mutation - Vestigial Arm Strike)",
+            "description": "<div data-visibility=\"gm\">\n<p><strong>Fréquence</strong> Une fois par round</p> \n<p><strong>Déclencheur</strong> Le barghest effectue une Frappe</p>\n</div>\n<p><strong>Effet</strong> Le barghest effectue une Frappe de griffe avec un troisième bras flétri qui pend sur son torse. Cette attaque ne compte pas pour le malus d’attaques multiples du barghest, et ce malus ne s’applique pas à l’attaque.</p>"
+        },
+        {
+            "id": "(Graveknight) Phantom Mount",
+            "name": "(Chevalier sépulcre) Monture fantôme ((Graveknight) Phantom Mount)",
+            "description": "<p>PV 58; CA 27, Vig +17, Réf +15, Vol +14</p>\n<hr />\n<p>Le chevalier sépulcre invoque une monture surnaturelle comme avec le sort @Compendium[pf2e.spells-srd.WPKJOhEihhcIm2uQ]{Coursier fantôme}, augmenté jusqu’à un niveau égal à la moitié de celui du chevalier.</p>\n<p>Contrairement à coursier fantôme, la CA et les bonus aux jets de sauvegarde de la monture sont inférieurs de 4 points à ceux du chevalier et la monture a un tiers des points de vie du chevalier sépulcre (arrondir à l’inférieur).</p>\n<p>Si la monture est détruite, le chevalier doit attendre 1 heure avant de pouvoir de nouveau utiliser ce pouvoir.</p>"
+        },
+        {
+            "id": "(Vampire, True) Change Shape",
+            "name": "(Vampire, véritable) Changement de forme ((Vampire, True) Change Shape)",
+            "description": "<p>Le vampire se change en l’une de ses formes animales ou reprend sa forme normale. La plupart des vampires peuvent se changer en chauve-souris, mais certains se transforment en d’autres créatures, comme un rat ou un loup.</p>\n<p>Utilisez les options des sorts @Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]{Forme aérienne et @Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]{Forme animale} comme guides.</p>\n<p><strong>Chauve-souris</strong> Le vampire se change en chauve-souris ou en @Compendium[pf2e.pathfinder-bestiary.C9s5tBxVValC2HTE]{Chauve-souris géante}. Il gagne écholocation à 12 mètres, une Vitesse au sol de 6 mètres, une Vitesse de vol de 9 mètres et une Frappe avec les crocs dotée du même bonus d’attaque que son meilleur bonus d’attaque au corps-à-corps. Ces crocs infligent les mêmes dégâts que les griffes du vampire, mais ils sont de nature perforante et non tranchante.</p>"
+        },
+        {
+            "id": "(Divine Warden) Divine Innate Spells",
+            "name": "(Garde divin) Sorts divins innés ((Divine Warden) Divine Innate Spells)",
+            "description": "<p>Un Garde divin d'une divinité qui a n'importe quel composant d'alignement gagne <em>@Compendium[pf2e.spells-srd.qwZBXN6zBoB9BHXE]{Lance divine}</em> comme tour de magie inné. Un Garde divin d'une divinité neutre gagne  <em>@Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{Hébétement} comme tour de magie inné</p>"
+        },
+        {
+            "id": "(Vistant) Visitant Spells",
+            "name": "(Revenant) Sorts de revenant ((Vistant) Visitant Spells)",
+            "description": "<p>Certains revenants peuvent lancer les  sorts innés occultes suivants. Si vous donnez les sorts suivants à un revenant, pensez à lui enlever l’un de ses autres pouvoirs spéciaux..</p>\n<p><strong>Sorts innés occultes</strong></p>\n<p><strong>DD</strong> Variable\n<p><strong>Attaque de sort</strong> Variable</p>\n<p><strong>Niveau 1</strong> <em>@Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]{Terreur}</em>, <em>@Compendium[pf2e.spells-srd.J7Y7tl0bbdz7TcCc]{Rayon affaiblisant}</em></p>\n<p><strong>Constant (1er)</strong> <em>@Compendium[pf2e.spells-srd.QnTtGCAvdWRU4spv]{Détection de l'alignement (Mauvais seulement)}</em></p>"
+        },
+        {
+            "id": "(Graveknight) Ruinous Weapons",
+            "name": "(Chevalier sépulcre) Armes du désastre ((Graveknight) Ruinous Weapons)",
+            "description": "<p>Au moment de sa création, un chevalier sépulcre choisit un des types suivants d’énergie qui avait un rapport avec sa vie ou avec sa mort : acide, froid, électricité ou feu.</p>\n<p>Toute arme utilisée par le chevalier sépulcre gagne les effets de la rune d’arme corrosive, froid, foudre ou enflammée, respectivement, en plus d’une rune de frappe +1.</p>\n<p>Si le chevalier sépulcre est au moins de niveau 14, son arme gagne à la place les effets de la version supérieure de ces deux runes.</p>"
+        },
+        {
+            "id": "(Graveknight) Dark Deliverance",
+            "name": "(Chevalier sépulcre) Sombre salut ((Graveknight) Dark Deliverance)",
+            "description": "<p>Le chevalier sépulcre a une résistance à l’énergie positive égale à son niveau.</p>"
+        },
+        {
+            "id": "(Ghost) Haunted House",
+            "name": "(Fantôme) Maison hantée ((Ghost) Haunted House)",
+            "description": "<p data-visibility=\"gm\"><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<p><strong>Effect</strong> Le fantôme étend sa présence à l'ensemble de son site lié jusqu'à la fin de son prochain tour. Dans cette zone, le fantôme peut étendre ses sens et bénéficier de @Compendium[pf2e.bestiary-ability-glossary-srd.9qV49KjZujZnSp6w]{Vision à 360°}, et peut effectuer des attaques de main fantomatique ou utiliser des capacités spéciales provenant de n'importe quelle partie de la zone.</p>"
+        },
+        {
+            "id": "(Vampire, Vrykolakas Master) Dominate Animal",
+            "name": "(Vampire, maître vrykolakas) Domination animale ((Vampire, Vrykolakas Master) Dominate Animal)",
+            "description": "<p>Le vrykolakas peut lancer @Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{Domination} à volonté comme un sort inné divin qui n’affecte que les animaux. Le DD du jet de sauvegarde est un DD élevé pour le niveau du vrykolakas, et une créature qui réussit est immunisée à la Domination animale de ce vrykolakas pendant 24 heures. Détruire le vrykolakas permet de mettre fin à l’effet, mais pas le fait de le réduire à 0 PV.</p>\n<p>Un animal dominé subit un malus de circonstances de −4 aux jets de sauvegarde contre la Possession férale du vrykolakas.</p>"
+        },
+        {
             "id": "(Ghost) Rejuvenation",
             "name": "(Fantôme) Reconstruction ((Ghost) Rejuvenation)",
             "description": "<p>Quand un fantôme est détruit, il reprend forme au bout de [[/br 2d4 #days]]{2d4 jours} avec tous ses points de vie, à l’intérieur du site auquel il est lié. Un fantôme peut être définitivement détruit uniquement si quelqu’un trouve la raison expliquant son existence et rétablit le tort qui empêche son esprit de trouver le repos.</p>"
+        },
+        {
+            "id": "(Vampire, Vrykolakas Master) Bubonic Plague",
+            "name": "(Vampire, maître vrykolakas) Peste bubonique ((Vampire, Vrykolakas Master) Bubonic Plague)",
+            "description": "<p data-visibility=\"gm\"><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"disease\" data-pf2-label=\"DD Peste bubonique\" data-pf2-show-dc=\"gm\">Vigueur</span> (utilisez un DD élevé pour le niveau du vrykolakas)\n<p><strong>Délai</strong> 1 jour</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} (1 jour)</p> \n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 et Fatigué (1 jour)</p> \n<p><strong>Stade 3</strong> Affaibli 3, Fatigué et subit [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de saignement persistants} toutes les [[/br {1d20} #minutes]]{1d20 minutes}(1 jour)</p>\n</div>"
+        },
+        {
+            "id": "(Ghost) Beatific Appearance",
+            "name": "(Fantôme) Apparence bienheureuse ((Ghost) Beatific Appearance)",
+            "description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Une créature dont le fantôme a connaissance, cible le fantôme pour une attaque.</p>\n<p><strong>Effect</strong> Le fantôme a une apparence inhabituellement pitoyable ou peut changer ses traits pour ressembler à un proche de l'attaquant, ce qui fait reculer la cible dans son attaque.</p>\n<p>La créature déclencheuse doit réussit un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"divine,enchantment\" data-pf2-label=\"DD Apparence bienheureuse\" data-pf2-show-dc=\"gm\">Volonté</span>. Sur un échec, la créature subit une pénalité de circonstance de -1 à son jet d'attaque (-2 sur un échec critique).</p>"
+        },
+        {
+            "id": "(Zombie) Disgusting Pustules",
+            "name": "(Zombie) Pustules écœurantes ((Zombie) Disgusting Pustules)",
+            "description": "<p>Le zombie est couvert de pustules qui éclatent dès qu’il subit des dégâts perforants ou un coup critique.</p> \n<p>Dans un cas comme dans l’autre, les créatures adjacentes se trouvent aspergées de l’immonde fluide et se trouvent alors affectées par l’état @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1, sauf si elles réussissent un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"disease,necromancy\" data-pf2-label=\"DD Pustules écoeurantes\" data-pf2-show-dc=\"gm\">Vigueur</span></p>"
+        },
+        {
+            "id": "(Zombie) Unkillable",
+            "name": "(Zombie) Intuable ((Zombie) Unkillable)",
+            "description": "<p>Il est presque impossible de détruire ce zombie. Le zombie perd sa faiblesse aux dégâts tranchants et gagne une résistance contre tous les dégâts égale à son niveau (avec un minimum de 3), ainsi qu’une faiblesse aux coups critiques égale à deux fois son niveau (avec un minimum de 6).</p>\n<p>Si vous donnez ce pouvoir à un zombie augmentez son son niveau de 1 </p>"
+        },
+        {
+            "id": "(Ghost) Pyre's Memory",
+            "name": "(Fantôme) Mémoire de bûcher funéraire ((Ghost) Pyre's Memory)",
+            "description": "<p>Le fantôme fait jaillir sans avertissement de grandes éruptions de flammes.</p>\n<p>Le fantôme choisit une case de 1,5 mètres dans une zone de 9 mètres.  Les créatures qui commencent leur tour ou qui entrent dans une de ces cases subissent [[/r {1d6}[fire]]]{1d6 dégâts de feu} par tranche de 2 niveau du fantôme, avec un jet de sauvegarde <span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"divine,evocation,fire,damaging-effect\" data-pf2-label=\"DD mémoire de bûcher funéraire\" data-pf2-show-dc=\"gm\">Réflexes basique</span>.</p>\n<p>Les flammes durent une minute et n'enflamment pas d'autres objets, sauf si le fantôme le souhaite. Si le fantôme utilise à nouveau cette capacité, il annule les flammes existantes.</p>"
+        },
+        {
+            "id": "(Graveknight) Weapon Master",
+            "name": "(Chevalier sépulcre) Maître d'armes ((Graveknight) Weapon Master)",
+            "description": "<p>Le chevalier sépulcre a accès aux effets critiques spécialisés de n’importe qu’elle arme qu’il utilise.</p>\n<p><em>Comme les Frappes du PNJ ne sont pas générés à partir des armes qu'il tient, cette fonctionnalité ne peut pas être automatisée. Ajout d'un élément de règle \"Note\" à chacune des Frappes du chevalier sépulcre pour la spécialisation critique correcte.</em></p>"
+        },
+        {
+            "id": "(Ghost) Malevolent Possession",
+            "name": "(Fantôme) Possession malveillante ((Ghost) Malevolent Possession)",
+            "description": "<p>Le fantôme tente de posséder une créature tangible adjacente. Ce pouvoir produit le même effet que le sort possession, mais comme le fantôme n’a pas de corps physique, les restrictions du sort ne l’affectent pas.</p>"
+        },
+        {
+            "id": "(Ghost) Corporeal Manifestation",
+            "name": "(Fantôme) Manifestation corporelle ((Ghost) Corporeal Manifestation)",
+            "description": "<p>Le fantôme perd le trait intangible, augmentant temporairement son modificateur de Force pour qu'il soit égal à son modificateur de Charisme. Le fantôme perd son immunité aux dégâts de précision et sa résistance à tous les dégâts lorsqu'il est corporel.</p>\n</p> Le fantôme peut redevenir intangible en utilisant à nouveau cette action.</p>"
+        },
+        {
+            "id": "(Graveknight) Graveknight's Curse",
+            "name": "(Chevalier sépulcre) Malédiction du chevalier sépulcre ((Graveknight) Graveknight's Curse)",
+            "description": "<div data-visibility=\"gm\">\nCette malédiction affecte quiconque porte l’armure du chevalier sépulcre pendant au moins une heure.</p>\n<hr /></div>\n<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"arcane,curse,necromancy\" data-pf2-label=\"DD Malédiction du chevalier sépulcre\" data-pf2-show-dc=\"gm\">Volonté</span>\n<div data-visibility=\"gm\">\n<p><strong>Délai</strong> 1 heure</p> \n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 1 et ne peut retirer l’armure (1 jour)</p>\n<p><strong>Stade 2</strong> Condamné 2, entravé 10 et ne peut retirer l’armure (1 jour)</p>\n<p><strong>Stade 3</strong> meurt et se transforme en Chevalier sépulcre de l’armure.</p>\n</div>"
+        },
+        {
+            "id": "(Graveknight) Graveknight's Shield",
+            "name": "(Chevalier sépulcre) Bouclier du chevalier sépulcre ((Graveknight) Graveknight's Shield)",
+            "description": "<p>La malédiction du chevalier sépulcre s'étend à son bouclier our l'armure du chevalier sépulcre utilise une portion d'elle-même pour produire un bouclier.</p>\n<p>Le chevalier sépulcre possède un bouclier qui utilise les statistiques d'un <em>@Compendium[pf2e.equipment-srd.f9ygr5Cjrmop8LWV]{Bouclier renforcé}</em> d'un niveau qui n'est pas supérieur au niveau du chevalier sépulcre - 1.</p>\n<p>Le bouclierest quasi-indépendant du chevalier sépulcre et protège automatiquement le chevalier sépulcre des blessures. Lorsque le bouclier est levé, il utilise automatiquement Blocage au bouclier pour réduire les dégâts de la première attaque contre le chevalier sépulcre à chaque round sans que le chevalier sépulcre ait besoin de dépenser sa réaction pour le faire.</p>\n<p>Le bouclier se répare automatiquement au cours du repos du chevalier sépulcre et doit être détruit de la même manière que l'armure du chevalier sépulcre.</p>"
+        },
+        {
+            "id": "(Ghost) Lynchpin",
+            "name": "(Fantôme) Pilier ((Ghost) Lynchpin)",
+            "description": "<p>Le fantôme transmet une partie de sa nature à un ou plusieurs morts-vivants de niveau égal ou inférieur, qui sont liés à l'histoire du fantôme et à ses affaires inachevées.</p>\n<p>Ces morts-vivants gagnent le pouvoir @Compendium[pf2e.bestiary-family-ability-glossary.unR8VVR4yyRnsmnB]{de Reconstruction} du fantôme et ne peuvent pas être détruits tant que le fantôme existe. Si le fantôme est amené à reposer en paix, tous les morts-vivants sont instantanément détruits.</p>\n<p>Ces morts-vivants partagent souvent, mais pas toujours, le pouvoir @Compendium[pf2e.bestiary-family-ability-glossary.BcSlVpaN72LoQ5BV]{Liés au site}. Le fantôme n'a aucun contrôle sur ces morts-vivants, et en fait, le fantôme et leurs partenaires dans l'éternité peuvent être inlassablement hostiles l'un envers l'autre.</p>"
+        },
+        {
+            "id": "(Divine Warden) Faithful Weapon",
+            "name": "(Garde divin) Arme fidèle ((Divine Warden) Faithful Weapon)",
+            "description": "<p>Un Garde divin manie toujours l'arme favorite de sa divinité protectrice.  Si l'arme est une arme à distance, le garde divin obtiendra automatiquement une nouvelle munition à chaque attaque.</p>\n<p>Pour un garde divin de niveau 4 ou supérieur, l'arme de sa divinité gagne les effets d'une rune <em>@Compendium[pf2e.equipment-srd.DxCuJKynlnMQZHgp]{Frappe}</em> tant que le Garde divin la manie ; au niveau 12 ses effets deviennent  ceux d'une rune de <em>@Compendium[pf2e.equipment-srd.KCQRFvUgbyclvOGi]{Frappe supérieur}</em>,  et au niveau 19, la rune aura les effets d'une <em>@Compendium[pf2e.equipment-srd.woxl2FrrgAcJDu0t]{Frappe majeure}</em>.</p>"
+        },
+        {
+            "id": "(Golem) Inexorable March",
+            "name": "(Golem) Marche inexorable ((Golem) Inexorable March)",
+            "description": "<p><span data-pf2-check=\"fortitude\" data-pf2-dc=\"0\" data-pf2-traits=\"damaging-effect\" data-pf2-label=\"DD marche inexorable\" data-pf2-show-dc=\"gm\">Vigueur</span></p>\n<p data-visibility=\"gm\">[save effect]</p>\n<hr />\n<p>Le golem Marche rapidement jusqu’à sa Vitesse maximale en repoussant toute créature dans l’espace de laquelle il pénètre et en leur infligeant des dégâts si elles tentent de l’arrêter. Une créature peut tenter de lui bloquer le chemin en réussissant un jet de Vigueur</p>"
+        },
+        {
+            "id": "(Ghast) Ghast Fever",
+            "name": "(Blême) Fièvre des blêmes ((Ghast) Ghast Fever)",
+            "description": "<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"disease\" data-pf2-label=\"Fièvre de blême\" data-pf2-show-dc=\"gm\">Vigueur</span></p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Stade 1</strong> Pas d’effet sur le porteur (1 jour)</p> \n<p><strong>Stade 2</strong> [[/r {3d8}[negative]]]{3d8 dégâts négatifs} et le malade récupère seulement la moitié des points de vie conférés par les soins (1 jour)</p>\n<p><strong>Stade 3</strong> Comme le stade 2 (1 jour)</p>\n<p><strong>Stade 4</strong> [[/r {3d8}[negative]]]{3d8 dégâts négatifs} et les soins ne fonctionnent plus sur le malade (1 jour)</p> \n<p><strong>Stade 5</strong> Comme stade 4 (1 jour)</p>\n<p><strong>Stade 6</strong> la créature meurt et se relève sous forme de blême aux prochains coups de minuit.</p>\n</div>"
+        },
+        {
+            "id": "(Ghost) Fetch",
+            "name": "(Fantôme) Double fantômatique ((Ghost) Fetch)",
+            "description": "<p>Le fantôme crée une créature illusoire sous forme de double. La fonction Double fantômatique fonctionne comme le sort <em>@Compendium[pf2e.spells-srd.f8SBoXiXQjlCKqly]{Créature illusoire}</em> de niveau 2, avec l'exception que le fantôme n'a aucun contrôle sur le Double fantômatique, et que le sort a une durée de  [[/r 1d4 #hours]]{1d4 heures} au lieu d'une action pour Maintenir de sort.</p>\n<p>Le Double fantômatique a une intelligence rudimentaire et se contente d'essayer d'imiter son original (il a une valeur de Déception égale à la plus haute valeur de compétence du fantôme), mais donne l'air d'être dans un état de  @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confusion} ou distrait.</p>\n<p>Un fantôme de peut avoir qu'un seul Double fantômatique en même temps. Si la créature doublée par le Double fantômatique  le rencontre, elle doit réussir un jet de sauvegarde <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"divine,illusion\" data-pf2-label=\"DD Double fantômatique\" data-pf2-show-dc=\"gm\">Volonté</span> ou devenir @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 1 (Stupéfié 2 sur un échec critique) tant qu'elle peut voir son Double fantômatique.</p>"
+        },
+        {
+            "id": "(Visitant) Noxious Breath",
+            "name": "(Revenant) Souffle nocif ((Visitant) Noxious Breath)",
+            "description": "<p>Le revenant expire vivement, relâchant des émanations âcres de ses poumons en un cône de @Template[type:cone|distance:15]{15-foot cone}{4,5 mètres} Chaque créature dans la zone d’effet doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-label=\"DD Souffle nocif\" data-pf2-show-dc=\"gm\">Vigueur</span> ou être @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 (Malade 2 en cas d’échec critique).</p>"
+        },
+        {
+            "id": "(Graveknight) Rejuvenation",
+            "name": "(Chevalier sépulcre) Reconstruction ((Graveknight) Rejuvenation)",
+            "description": "<p>Quand un chevalier funeste est détruit, son armure reconstitue son corps dans un délai de [[/br 1d10 #days]]{1d10 jours}  — ou plus rapidement si son armure est portée par un hôte vivant. Si le corps est détruit avant cela, le processus recommence.</p>\n<p>Un chevalier sépulcre ne peut être détruit de manière permanente quand anéantissant son armure (comme avec un sort @Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{Désintégration}), en le transportant dans le plan de l’Énergie positive ou en le jetant au coeur d’un volcan.</p>"
+        },
+        {
+            "id": "(Skeleton) Bone Missile",
+            "name": "(Squelette) Côte missile ((Skeleton) Bone Missile)",
+            "description": "<p>Le squelette arrache un côte de sa cage thoracique et l'utilise comme une flèche ou un javelot. Le squelette perd des PV égaux à son niveau (minimum 1), puis effectue une Attaque à distance.</p>\n<p>Cette attaque utilise le bonus d'attaque de la frappe du squelette le plus élevé et inflige des dégâts perforants égaux aux dégâts de cette frappe plus le niveau du squelette (minimum 1).</p>"
+        },
+        {
+            "id": "(Ghoul) Ghoul Fever",
+            "name": "(Goule) Fièvre des goules ((Ghoul) Ghoul Fever)",
+            "description": "<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"disease\" data-pf2-label=\"DD Fièvre de goule\" data-pf2-show-dc=\"gm\">Vigueur</span></p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Stade 1</strong> pas d’effet sur le porteur (1 jour)</p> \n<p><strong>Stade 2</strong> [[/r {2d6}[negative]]]{2d6 dégâts négatifs} et le malade récupère seulement la moitié des points de vie conférés par les soins (1 jour)</p>\n<p><strong>Stade 3</strong> comme le stade 2 (1 jour)</p> \n<p><strong>Stade 4</strong> [[/r {2d6}[negative]]]{2d6 dégâts négatifs} et les soins ne fonctionnent plus sur le malade (1 jour)</p> \n<p><strong>Stade 5</strong> comme stade 4 (1 jour)</p>\n<p><strong>Stade 6</strong> la créature meurt et se relève sous forme de @Compendium[pf2e.pathfinder-bestiary.LHHgGSs0ELCR4CYK]{Goule} aux prochains coups de minuit.</p>\n</div>"
+        },
+        {
+            "id": "(Skeleton) Bone Powder",
+            "name": "(Squelette) Poudre d'os ((Skeleton) Bone Powder)",
+            "description": "<p>Lorsque le squelette subit des dégâts physiques d'un critique, un de ses os est pulvérisé en poudre fine.</p>\n<p>Toutes les créatures dans une <span data-pf2-effect-area=\"emanation\" data-pf2-distance=\"5\">émanation de 1,5 mètres</span> qui respire, subit [[/r {1d6}[persistent,poison]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de poison persistants} (plus 1d6 pour chaque 6 niveau du squelette).</p>"
+        },
+        {
+            "id": "(Graveknight) Betrayed Revivification",
+            "name": "(Chevalier sépulcre) Résurrection vengeresse ((Graveknight) Betrayed Revivification)",
+            "description": "<p>Le chevalier sépulcre est mort après avoir été trahi.</p>\n<p>Au lieu d’être immunisé contre un type de dégâts d’énergie, il est immunisé contre les dégâts mentaux, son arme inflige [[/r {1d6}[mental]]]{1d6 dégâts mentaux supplémentaires} et sa Déflagration dévastatrice inflige des dégâts mentaux avec un jet de Volonté au lieu d’un jet de Réflexes.</p>"
+        },
+        {
+            "id": "(Golem) Golem Antimagic",
+            "name": "(Golem) Antimagie des golems ((Golem) Golem Antimagic)",
+            "description": "<p>Affecté par [damageType] ([[/r {0d8}]]{0d8 dégâts}, [[/r {0d4}]]{0d4 damage} de zone ou de dégâts persistants ; soigné par [damageType] (area [[/r {0d4}[healing]]]{0d4 Points de vie}) ; ralenti par [damageType]</p>\n<hr />\n<p>Un golem est immunisé contre les sorts et les pouvoirs magiques autres que les siens mais chaque type de golem est affecté d’une manière spéciale par quelques formes de magie. Ces exceptions sont indiquées en abrégé dans le bloc de statistiques du golem et sont expliquées ci-après. S’il est indiqué plusieurs types de sorts (comme «froid» et «eau»), ils affectent tous le golem..</p>\n<ul>\n<li><strong>Affecté par</strong>  Toute magie de ce type qui cible le golem lui inflige les dégâts indiqués (ces dégâts n’ont aucun type) au lieu de l’effet habituel. Si le golem commence son tour dans une zone de magie de ce type ou s’il est affecté par un effet persistant du type approprié, il subit les dégâts indiqués entre parenthèses.</li>\n<li><strong>Soigné par</strong> Toute magie de ce type qui cible un golem lui fait perdre son état ralenti et lui permet de récupérer un nombre de PV égal à la moitié des dégâts qu’aurait dû infliger le sort. Si le golem commence son tour dans une zone de magie de ce type, il gagne le nombre de PV indiqué entre parenthèses.</li>\n<li><strong>Ralenti par</strong> Toute magie de ce type qui cible un golem lui confère l’état @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 pendant [[/br 2d6 #rounds]]{2d6 rounds} au lieu de l’effet normal. Si le golem commence son tour dans une zone de magie de ce type, il est ralenti 1 pour ce round.</li>\n<li><strong>Vulnérabilité à</strong> Chaque golem est vulnérable à un ou plusieurs sorts spécifiques avec les effets indiqués dans son bloc de statistiques.</li>\n</ul>"
+        },
+        {
+            "id": "(Dragon) Change Shape",
+            "name": "(Dragon) Changement de forme ((Dragon) Change Shape)",
+            "description": "<p>Le dragon peut prendre l’apparence de n’importe quel humanoïde de Petite ou Moyenne taille. Cela ne modifie pas sa Vitesse ou le bonus à l’attaque et aux dégâts de sa Frappe mais cela peut modifier le type de dégâts infligés avec une Frappe (généralement contondants).</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        {
+            "id": "(Greater Barghest) Mutation - Wings",
+            "name": "(Barghest supérieur) Mutation - Ailes ((Greater Barghest) Mutation - Wings)",
+            "description": "<p>Le barghest a des ailes mal formées qui ont poussé sur son dos. Il gagne une Vitesse en vol de 7,5 mètres.</p>"
+        },
+        {
+            "id": "(Graveknight) Channel Magic",
+            "name": "(Chevalier sépulcre) Canaliser la magie ((Graveknight) Channel Magic)",
+            "description": "<p>Le chevalier sépulcre redirige les énergies magiques au travers de son armure, lui donnant la possibilité d'attaquer avec de la magie.</p>\n<p>Le chevalier sépulcre Lance un sort qui prend 1 ou 2 actions et demande une attaque de sort. Les effets du sort n'apparaissent pas immédiatement mais sont plutôt infusés dans une attaque. Le chevalier sépulcre effectue une attaque au corps-à-corps avec une arme ou à mains nues. Le sort est combiné à l'attaque, en utilisant le résultat du jet d'attaque pour déterminer les effets de la frappe et du sort.</p>\n<p>Cela compte comme deux attaques en ce qui concerne la pénalité d'attaque multiple du chevalier du sépulcre, mais la pénalité n'est appliquée qu'après qu'il ait terminé de canaliser la magie.</p>\n<p data-visibility=\"gm\">Le chevalier sépulcre ne peut plus utiliser la magie pendant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
+        },
+        {
+            "id": "(Ghost) Revenant",
+            "name": "(Fantôme) Revenant ((Ghost) Revenant)",
+            "description": "<p>Le fantôme possède et transforme un cadavre adjacent (cela nécessite 2 actions si le fantôme possède son propre corps ; autrement, il lui faut une heure).</p>\n<p>Le cadavre possédé utilise les statistique d'un mort-vivant tangible de 2 niveaux inférieur au fantôme et le fantôme le possède comme s'il utilisait le sort <em>@Compendium[pf2e.spells-srd.wU6hNzK8Yfqdmc8m]{Possession}</em>. Le mort-vivant spécifique est déterminé par la nature du fantôme et le cadavre - @Compendium[pf2e.pathfinder-bestiary.LHHgGSs0ELCR4CYK]{Goule}, @Compendium[pf2e.pathfinder-bestiary.ZPjQkKVMi3xoPcU0]{Nécrophage} et @Compendium[pf2e.pathfinder-bestiary.0SJqmk4ItwL31Rg9]{Dullahan} sont tous courants, mais presque tout mort-vivant est possible.</p>\n<p>Si le fantôme cesse de posséder le cadavre, le mort vivant tangible est immédiatement détruit.</p>"
+        },
+        {
+            "id": "(Skeleton) Explosive Death",
+            "name": "(Squelette) Mort explosive ((Skeleton) Explosive Death)",
+            "description": "<p>Quand le squelette est détruit, l’énergie nécromantique qui l’animait est libérée et fait exploser ses os.</p>\n<p>Les créatures adjacentes subissent [[/r {1d6}[slashing]]]{1d6 dégâts tranchants} par tranche de 2 niveaux (avec un minimum de 1d6) et peuvent faire un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"damaging-effect\" data-pf2-label=\"Explosive Death DC\" data-pf2-show-dc=\"gm\">Réflexes basique</span></p>."
+        },
+        {
+            "id": "(Vampire, Vrykolakas Master) Change Shape",
+            "name": "(Vampire, maître vrykolakas) Changement de forme ((Vampire, Vrykolakas Master) Change Shape)",
+            "description": "<p>Un maître vrykolakas peut se transformer de façon à adopter l’apparence qu’il avait étant vivant, avec les effets d’une forme humanoïde, mais sans limite de durée. Il perd ses Frappes de crocs et de griffes mais gagne un bonus de circonstances de +2 à ses tests de Duperie pour @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Se déguiser} tant qu’il est sous cette apparence.</p>"
+        },
+        {
+            "id": "(Vampire, True) Dominate",
+            "name": "(Vampire, véritable) Domination ((Vampire, True) Dominate)",
+            "description": "Le vampire peut lancer @Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{Domination} à volonté comme un sort inné divin. Pour cela, il doit regarder la victime dans les yeux, ce qui donne le trait visuel au sort. Le DD du jet de sauvegarde utilise le DD du niveau du vampire (Livre de base p. 503). Si la victime réussit son jet, elle est immunisée contre la Domination de ce vampire pendant 24 heures.</p> \n<p>La domination prend fin si le vampire est complètement détruit, mais s’il est seulement réduit à 0 PV, le sort n’est pas rompu.</p>"
+        },
+        {
+            "id": "(Lich) Siphon Life",
+            "name": "(Liche) Siphonner la vie ((Lich) Siphon Life)",
+            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> La liche inflige des dégâts avec sa Frappe de main.</p> \n<strong>Effet</strong> La liche récupère un nombre de points de vie égal à la moitié des dégâts infligés.</p>"
+        },
+        {
+            "id": "(Greater Barghest) Mutation - Toxic Breath",
+            "name": "(Barghest supérieur) Mutation - Souffle toxique ((Greater Barghest) Mutation - Toxic Breath)",
+            "description": "<p>Le barghest peut souffler un nuage de gaz toxique qui inflige [[/r {8d6}[poison]]]{8d6 dégâts de poison} à toutes les créatures situées dans un  <span data-pf2-effect-area=\"cone\" data-pf2-distance=\"30\">cône de 9 mètres</span> (jet de <span data-pf2-check=\"fortitude\" data-pf2-traits=\"damaging-effect,divine,evocation,poison\" data-pf2-label=\"DD souffle toxique\" data-pf2-dc=\"25\" data-pf2-show-dc=\"gm\">Vigueur basique</span> DD 25). Il ne peut utiliser une nouvelle fois ce pouvoir avant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
+        },
+        {
+            "id": "(Ghost) Telekinetic Assault",
+            "name": "(Fantôme) Assaut télékinésique ((Ghost) Telekinetic Assault)",
+            "description": "<p>Le fantôme hurle de douleur et d’angoisse en faisant voler en tous sens des débris et des petits objets dans une @Template[type:emanation|distance:30]{émanation de 9 mètres}. Les créatures dans cette zone subissent chacune [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}  + 1d6 tous les 2 niveaux. Elles ont chacune droit à un jet de @Check[type:reflex|dc:|basic:true]{Réflexes basique}.</p>"
+        },
+        {
+            "id": "(Lich) Dark Deliverance",
+            "name": "(Liche) Sombre salut ((Lich) Dark Deliverance)",
+            "description": "<p>La liche a une résistance à l’énergie positive égale à son niveau.</p>"
+        },
+        {
+            "id": "(Lich) Cold Beyond Cold",
+            "name": "(Liche) Au-delà du froid ((Lich) Cold Beyond Cold)",
+            "description": "<p>La Frappe de main de la liche inflige des dégâts de froid au lieu de dégâts négatifs et au lieu d’être paralysée, la cible est Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 2.</p>\n<p>Un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"arcane,curse,necromancy\" data-pf2-label=\"DD Au-delà dir froid\" data-pf2-show-dc=\"gm\">Vigueur</span> réussi permet de réduire cet état à Ralenti 1 (ou annuler cet état en cas de succès critique).</p>"
+        },
+        {
+            "id": "(Divine Warden) Faith Bound",
+            "name": "(Garde divin) Liens de foi ((Divine Warden) Faith Bound)",
+            "description": "<p>Un Garde divin ne peut pas attaquer une créature qui porte ou affiche ouvertement le symbole religieux de sa divinité patronne, sauf si cette créature utilise d'abord une action hostile contre le Garde divin. Si le gardien divin est intelligent, il peut également attaquer une créature dont il pense qu'elle n'est pas fidèle à sa divinité ou qu'elle porte le symbole religieux comme une ruse (généralement après avoir réussi un test de Perception pour Deviner les intentions).</p>"
+        },
+        {
+            "id": "(Lich) Void Shroud",
+            "name": "(Liche) Linceul de néant ((Lich) Void Shroud)",
+            "description": "<p>@Template[type:emanation|distance:30]{9 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>La liche est enveloppée par une aura de mort qui attire les âmes dont la liche se nourrit pour apaiser sa faim constante.</p>\n<p>Les créatures vivantes dans l’émanation subissent un malus de statut de −2 à leurs jets de sauvegarde contre la terreur et les effets de mort. De plus, toute créature qui commence son tour dans la zone subit l’état @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 1 à moins de réussir un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,death,necromancy\" data-pf2-label=\"DD Linceul du néant\" data-pf2-show-dc=\"gm\">Volonté</span> contre le DD des sorts de la liche −4.</p>\n<p>@Compendium[pf2e.bestiary-effects.i3942RucZD9OHbAE]{Effet : Linceul de néant}</p>"
+        },
+        {
+            "id": "(Vampire, Vrykolakas Master) Pestilential Aura",
+            "name": "(Vampire, maître vrykolakas) Aura pestilentielle ((Vampire, Vrykolakas Master) Pestilential Aura)",
+            "description": "<p>@Template[type:emanation|distance:5]{1,5 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Les créatures qui commencent leur tour dans cette zone alors que le vrykolakas est sous sa vraie forme sont exposées à la peste bubonique.</p>"
+        },
+        {
+            "id": "(Visitant) Vengeful Presence",
+            "name": "(Revenant) Présence vengeresse ((Visitant) Vengeful Presence)",
+            "description": "<p>@Template[type:emanation|distance:20]{6 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Une créature qui commence son tour dans l’aura du revenant doit réussir un jet de  <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,emotion,enchantment,mental\" data-pf2-label=\"Vengeful Presence DC\" data-pf2-show-dc=\"gm\">Volonté</span> ou être submergée par une soif de vengeance.</p> \n<p>Si la créature affectée a été attaquée lors du dernier round (que l’attaque l’ait touchée ou non), elle doit utiliser au moins 1 action par round pendant [[/r 1d4 #rounds]]{1d4 rounds} (1 minute sur un échec critique) pour Frapper ou utiliser une action hostile contre son dernier assaillant tant qu’il est en vie. Si elle ne peut le faire, la créature affectée subit [[/r {1d6}[mental]]]{1d6 dégâts mentaux}, plus 1d6 par tranche de 5 niveaux du revenant.</p>"
+        },
+        {
+            "id": "(Goblin) Goblin Scuttle",
+            "name": "(Gobelin) Précipitation gobeline ((Goblin) Goblin Scuttle)",
+            "description": "<p data-visibility=\"gm\"><p>Un allié d’un gobelin termine une action de déplacement adjacent au guerrier.</p>\n<p><strong>Effet</strong> Le guerrier gobelin @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Fait un pas}.</p>"
+        },
+        {
+            "id": "(Ghast) Paralysis",
+            "name": "(Blême) Paralysie ((Ghast) Paralysis)",
+            "description": "<p>Toute créature vivante touchée par l’attaque d’un blême doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"necromancy,occult,incapacitation\" data-pf2-label=\"DD Paralysie\" data-pf2-show-dc=\"gm\">Vigueur</span> ou devenir @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée}. Elle peut tenter un nouveau jet de sauvegarde à la fin de chacun de ses tours <span data-visibility=\"gm\"> et le DD diminue cumulativement de 1 à chaque tentative</span>.</p>"
+        },
+        {
+            "id": "(Divine Warden) Instrument of Faith",
+            "name": "(Garde divin) Instrument de foi ((Divine Warden) Instrument of Faith)",
+            "description": "<p>Le Garde divin est le flambeau de la foi de sa divinité.  Un prêtre appartenant à la divinité protectrice du Garde divin peut canaliser le sort de <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> au travers d'un Garde divin qu'il peut voir dans une zone de 18 mètres. Le prêtre détermine n'importe quelle cible ou zone pour le sort, pour autant qu'ils se tiennent dans l'espace du Garde divin.</p>"
+        },
+        {
+            "id": "(Vampire, Basic) Vampire Weaknesses",
+            "name": "(Vampire, de base) Faiblesses du vampire ((Vampire, Basic) Vampire Weaknesses)",
+            "description": "<p>Tous les vampires possèdent les faiblesses suivantes.</p>\n<ul>\n<li><strong>Compulsion</strong> Les vampires obéissent à de curieuses et inexplicables compulsions. Un vampire typique ne peut pas traverser de l’eau courante, à moins qu’il ne soit caché dans son cercueil et que quelqu’un ne le transporte. Il est également incapable d’entrer dans une habitation privée, à moins que quelqu’un disposant de l’autorité nécessaire ne l’y invite. Si vous le désirez, un vampire peut être soumis à des compulsions différentes. Par exemple, un pirate vampire pourrait être incapable de poser le pied sur la terre ferme à moins d’y être invité. Il est tout de même possible d’obliger le vampire à faire cela et à surmonter sa compulsion, tout comme il surmonterait sa révulsion.</li>\n<li><strong>Révulsion</strong> Un vampire ne peut pas approcher volontairement à 3 mètres ou moins de quelqu’un qui brandit de l’ail ou le symbole religieux d’une divinité non-mauvaise. Pour brandir une telle chose, une créature doit Interagir pendant 1 round (comme pour Lever un bouclier). Si le vampire arrive involontairement à moins de 3 mètres de l’objet de sa révulsion, il acquiert l’état @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} et court loin de l’objet de son dégoût jusqu’à ce qu’il termine une action à plus de 3 mètres de lui. Quand un vampire a passé 1 round exposé à l’objet de sa révulsion, il a droit à un jet de @Check[type:will|dc:25|name:Surmonter sa révulsion]{Volonté} DD 25 par une action unique dotée du trait Concentration. Sur un succès, il surmonte sa révulsion pendant [[/br 1d6 #rounds]]{1d6 rounds} (1 heure pour un succès critique).</li>\n<li><strong>Pieu</strong> Un pieu de bois plongé dans le coeur d’un vampire le met à 0 PV et l’empêche de guérir, même s’il est dans son cercueil. Il faut trois actions pour planter le pieu et le vampire doit être inconscient. Si l’on retire le pieu, le vampire se met à guérir et peut repasser au-dessus de 0 PV. S’il est dans son cercueil, la période de 1 heure de repos commence dès que le pieu est retiré. Si le vampire est décapité et sa tête ointe @Compendium[pf2e.equipment-srd.efFe4EK7ThUrH446]{d’Eau bénite} alors que le pieu est en place, le vampire est détruit.</li>\n<li><strong>Soleil</strong> Un vampire directement exposé au soleil est immédiatement @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1. Cette valeur augmente de 1 à chaque fois que le vampire termine un tour au soleil. S’il perd ainsi toutes ses actions, il est détruit. À cause de leur aversion surnaturelle pour la lumière, les vampires ne projettent pas d’ombre et n’ont pas de reflet dans les miroirs.</li>\n</ul>"
+        },
+        {
+            "id": "(Lich) Rejuvenation",
+            "name": "(Liche) Reconstruction ((Lich) Rejuvenation)",
+            "description": "<p>Quand une liche est détruite, son âme est immédiatement transférée dans son phylactère. Une liche peut être détruite de manière permanente uniquement si son phylactère est découvert et détruit.</p>"
+        },
+        {
+            "id": "(Vampire, Vrykolakas) Drink Blood",
+            "name": "(Vampire, vrykolakas) Boire le sang ((Vampire, Vrykolakas) Drink Blood)",
+            "description": "<p data-visibility=\"gm\"><strong>Conditions</strong> La dernière action du vrykolakas était une Frappe de crocs réussie</p> \n<p><strong>Effet</strong> Le vrykolakas enfonce ses crocs dans cette créature pour boire son sang. Cela nécessite un test d’Athlétisme contre le DD de Vigueur de la créature. En cas de succès, la créature est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 1 (Drainé 2 si c'est un Maître vrykolakas qui utilise cette action), et le vrykolakas récupère un montant de PV égal à 10 % de son maximum de PV, les PV excédentaires s’ajoutant sous forme de points de vie temporaires. Boire le sang d’une créature déjà drainée ne permet pas au vrykolakas de récupérer des PV, mais la valeur de l’état drainé de la victime augmente de 1. Un vrykolakas peut également boire du sang qui a été extrait dans un récipient pour se nourrir, mais il ne gagne aucun PV ce faisant.</p> \n<p>L’état drainé de la créature ciblée diminue de 1 par semaine. Une transfusion sanguine, qui nécessite un test de <span data-pf2-check=\"medicine\" data-pf2-label=\"Blood Transfusion DC\" data-pf2-dc=\"20\" data-pf2-show-dc=\"gm\">Médecine</span>  DD 20 et suffisamment de sang ou un donneur de sang, réduit l’état drainé de 1 après 10 minutes.</p>"
+        },
+        {
+            "id": "(Lich) Drain Soul Cage",
+            "name": "(Liche) Canaliser le phylactère ((Lich) Drain Soul Cage)",
+            "description": "<p data-visibility=\"gm\"><strong>Fréquence une fois par jour</p>\n<p><strong>Effet</strong> La liche puise dans l’énergie du @Compendium[pf2e.equipment-srd.NEbr7nKuiluJgBHT]{Phylactère} pour lancer n’importe quel sort arcanique qu’elle est capable de lancer, même si ce n’est pas un de ses sorts préparés.</p>\n<p data-visibility=\"gm\">Le phylactère n’a pas besoin d’être présent pour que la liche utilise ce pouvoir.</p>"
+        },
+        {
+            "id": "(Skeleton) Blaze",
+            "name": "(Squelette) Embrasement ((Skeleton) Blaze)",
+            "description": "<p>Le squelette est enveloppé de feu, qui ne consume ni ses os ni son équipement.</p>\n<p>Le squelette gagne l'immunité au feu et une faiblesse au froid de 5, il perd sa résistance au froid et ses Frappes infligent des dégâts persistants de feu égaux à la moitié du niveau du squelette (minimum 1)).</p>"
+        },
+        {
+            "id": "(Ghost) Phantasmagoria",
+            "name": "(Fantôme) Phantasmagorie ((Ghost) Phantasmagoria)",
+            "description": "<p>Le fantôme donne à tout ou partie du lieu où il se trouve l'apparence, le son, la sensation et l'odeur d'un lieu différent, et peut le peupler de simples illusions de personnes ou d'animaux.</p>\n<p>En général, le fantôme ne peut recréer qu'une poignée d'images, généralement différentes versions de son site d'attache tel qu'il apparaissait du vivant du fantôme. Il ne peut pas déguiser les créatures présentes dans la zone, mais il peut provoquer des changements cosmétiques mineurs (par exemple, les vêtements d'une créature peuvent paraître plus beaux pour une fête ou tachés de sang pour une bataille).</p>\n<p>Toute créature qui touche l'illusion ou utilise l'action Chercher pour l'examiner peut tenter de la discréditer. Les créatures ne peuvent pas quitter la zone de l'illusion tant qu'elles n'ont pas réussi à la décrédibiliser.</p>"
+        },
+        {
+            "id": "(Ravener) Cowering Fear",
+            "name": "(Dévoreur draconique) Recroquevillé de terreur ((Ravener) Cowering Fear)",
+            "description": "<p>@Template[type:emanation|distance:0]{0 feet} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,emotion,fear,mental\" data-pf2-label=\"DD recroquevillé de terreur\" data-pf2-show-dc=\"gm\">Volonté</span></p>\n<p>Les créatures se recroquevillent de terreur face à la présence terrifiante du dévoreur draconique. Tant qu’une créature est au moins @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 2 à cause de la présence terrifiante du dévoreur, elle est aussi @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} par la peur.</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
+            "id": "(Ghost) Inhabit Object",
+            "name": "(Fantôme) Occuper un objet ((Ghost) Inhabit Object)",
+            "description": "<p>Le fantôme possède un objet de Grande taille ou plus petit situé à 6 mètres ou moins de lui et en fait un objet animé. Le niveau de cet objet animé ne peut pas être supérieur à celui du fantôme −2. Si l’objet ciblé est tenu par une créature, celle-ci peut faire un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-label=\"Inhabit Object DC\" data-pf2-show-dc=\"gm\">Volonté</span> pour empêcher la possession.</p> \n<p data-visibility=\"gm\">Cette possession prend fin quand l’objet est détruit ou si le fantôme en sort. Le cas échéant, le fantôme réapparaît dans la case de l’objet et ne peut de nouveau Occuper un objet avant[[/br 1d4 #rounds]](1d4 rounds}.</p>"
+        },
+        {
+            "id": "(Vampire, True) Create Spawn",
+            "name": "(Vampire, véritable) Création de rejetons ((Vampire, True) Create Spawn)",
+            "description": "<p>Si une créature meurt après avoir été réduite à 0 PV parce qu’un vampire a Bu son sang, il peut la changer en vampire s’il lui donne un peu de son propre sang et qu’elle reste enterrée pendant 3 jours.</p>\n<p>Si le nouveau vampire est d’un niveau inférieur à celui de son créateur, il est sous le contrôle de ce dernier. Si un vampire contrôle trop de rejetons à la fois (selon l’avis du MJ), les plus opiniâtres peuvent se libérer en réussissant un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-label=\"Escape Thralldom DC\" data-pf2-show-dc=\"gm\">Volonté</span> contre le DD de volonté du vampire.</p>"
+        },
+        {
+            "id": "(Graveknight) Devastating Blast",
+            "name": "(Chevalier sépulcre) Déflagration dévastatrice ((Graveknight) Devastating Blast)",
+            "description": "<p>Le chevalier sépulcre projette un cône d’énergie de 9 mètres.</p>\n<p>Les créatures prises dans la zone d’effet subissent 1d12 dégâts plus 1d12 dégâts supplémentaires tous les deux niveaux du chevalier ((<span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"arcane,evocation\" data-pf2-label=\"Devastating Blast DC\" data-pf2-show-dc=\"gm\">Réflexes basique</span> ). </p>\n<p>Le chevalier sépulcre  peut utiliser ce pouvoir une fois tous les [[/br 1d4 #rounds]]{1d4 rounds}. </p>\n<p>Les dégâts d’énergie sont du même type que pour armes du désastre ; Déflagration dévastatrice gagne le trait associé à ce type d’énergie.</p>"
+        },
+        {
+            "id": "(Skeleton) Collapse",
+            "name": "(Squelette) Écroulement ((Skeleton) Collapse)",
+            "description": "<p data-visibility=\"gm\"><strong>TDéclencheur</strong> Le squelette est touché par un coup critique.</p>\n<p><strong>Effet</strong> Le squelette s’écroule, formant un tas d’os, et l’attaque inflige seulement les dégâts normaux. Le squelette peut se reformer et se relever par une action mais, tant qu’il ne l’a pas fait, il se trouve @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} et @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}.</p>"
+        },
+        {
+            "id": "(Vampire, Vrykolakas Master) Create Spawn",
+            "name": "(Vampire, maître vrykolakas) Création de rejetons ((Vampire, Vrykolakas Master) Create Spawn)",
+            "description": "<p>Si une créature meurt après avoir été réduite à 0 PV par le pouvoir Boire le sang, le maître vrykolakas peut la changer en @Compendium[pf2e.pathfinder-bestiary-2.8IyfadYYpYXBvlXN]{Rejeton vrykolakas} en lui donnant un peu de son propre sang et en l’enterrant pendant 3 nuits.</p> \n<p>Un rejeton vrykolakas est en général amical envers le vrykolakas qui l’a engendré, mais n’est pas sous son contrôle. Après les [[/r 1d6 #days]]{1d6 premiers jours} suivant sa création, il part généralement semer ses propres ravages de son côté.</p>"
+        },
+        {
+            "id": "(Vampire, True) Turn to Mist",
+            "name": "(Vampire, véritable) Se changer en brume ((Vampire, True) Turn to Mist)",
+            "description": "<p>Le vampire se change en nuage de vapeur, comme avec le sort @Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]{Forme gazeuse} ou reprend sa forme normale. Tant que le vampire est sous forme gazeuse, il perd sa @Compendium[pf2e.bestiary-ability-glossary-srd.fJSNOw4zHGbIm4bZ]{Guérison accélérée}. Il peut rester indéfiniment ainsi.</p>"
+        },
+        {
+            "id": "(Ghoul) Paralysis",
+            "name": "(Goule) Paralysie ((Ghoul) Paralysis)",
+            "description": "<p>Toute créature vivante autre qu'un elfe touchée par l’attaque d’une goule doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"necromancy,occult,incapacitation\" data-pf2-label=\"DD Paralysie\" data-pf2-show-dc=\"gm\">Vigueur</span> ou devenir @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée}. Elle peut tenter un nouveau jet de sauvegarde à la fin de chacun de ses tours <span data-visibility=\"gm\"> et le DD diminue cumulativement de 1 à chaque tentative</span>.</p>"
+        },
+        {
+            "id": "(Ghost) Memento Mori",
+            "name": "(Fantôme) Memento Mori ((Ghost) Memento Mori)",
+            "description": "<p>Le fantôme cible une créature dans une zone de 30 mètres et l'oblige à revivre le moment où il est mort.</p>\n<p>La cible doit réussir un jet de sauvegarde <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"divine,illusion,mental\" data-pf2-label=\"DD Memento Mori\" data-pf2-show-dc=\"gm\">Volonté</span> ou voir et ressentir ce que le fantôme a vécu, subissant [[/r {1d4}[persistent,mental]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d4 dégâts mentaux persistants} par 2 niveaux de Fantôme.</p>\n<p>Toutes les autres créatures sont [pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées} à la cible jusqu'à ce que les dégâts persistants se terminent.</p>"
+        },
+        {
+            "id": "(Zombie) Plague-Ridden",
+            "name": "(Zombie) Pestiféré ((Zombie) Plague-Ridden)",
+            "description": "<div data-visibility=\"gm\">\n<p>Le zombie est porteur d’une maladie susceptible de créer de nouveaux zombies</p>\n<p>Celle-ci fonctionne comme @Compendium[pf2e.pathfinder-bestiary.KxN9aGFGPxl6oLGF]{Putréfaction de zombie} d’un zombie pestiféré, sauf qu’au stade 5 la victime ne revient pas sous la forme d’un zombie pestiféré, mais sous celle d’un autre type de zombie.</p>\n<hr />\n<p><strong>Putréfaction de zombie</strong></p>\n<p>Une créature infectée ne peut pas soigner les dégâts infligés par la putréfaction de zombie jusqu’à ce qu’elle ait été guérie de cette maladie.</p>\n</div>\n<p><strong>Jet de sauvegarde</strong> <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"disease,necromancy\" data-pf2-label=\"DD Putréfaction de zombie\" data-pf2-show-dc=\"gm\">Vigueur</span></p>\n<div data-visibility=\"gm\">\n<p><strong>Stade 1</strong> Porteur sans effets néfastes (1 jour)</p>\n<p><strong>Stade 2</strong> [[/r {1d6}[negative]]]{1d6 dégâts négatifs} (1 jour)</p>\n<p><strong>Stade 3</strong> [[/r {1d6}[negative]]]{1d6 dégâts négatifs} (1 jour)</p>\n<p><strong>Stade 4</strong> [[/r {1d6}[negative]]]{1d6 dégâts négatifs} (1 jour)</p>\n<p><strong>Stade 5</strong> mort, revient immédiatement sous la forme d’un zombie pestiféré</p>\n</div>"
+        },
+        {
+            "id": "(Lich) Paralyzing Touch",
+            "name": "(Liche) Toucher paralysant ((Lich) Paralyzing Touch)",
+            "description": "<p>Une créature qui subit des dégâts à cause de la Frappe de main de la liche doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"arcane,curse,incapacitation,necromancy\" data-pf2-label=\"DD Toucher paralysant\" data-pf2-show-dc=\"gm\">Vigueur</span> contre le DD des sorts de la liche −4.</p>\n<p>En cas d’échec, la créature est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} pendant 1 round. En cas d’échec critique, la créature est paralysée de manière permanente, tombe  @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}{A terre} et semble morte. Un test de <span data-pf2-check=\"medicine\" data-pf2-dc=\"25\" data-pf2-traits=\"arcane,curse,necromancy\" data-pf2-label=\" DD Diagnostiquer la paralysie\" data-pf2-show-dc=\"gm\">Médicine</span>DD 25 permet de déterminer qu’elle est vivante.</p>"
         }
     ],
     "mapping": {

@@ -1,11 +1,10 @@
 # État de la traduction (archetypes)
 
- * **changé**: 75
+ * **changé**: 78
  * **aucune**: 8
- * **libre**: 3
 
 
-Dernière mise à jour: 2022-02-06 16:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-08 20:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -29,6 +28,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2eAiIynDWTMKTGDU.htm](archetypes/2eAiIynDWTMKTGDU.htm)|Scrollmaster|Maître des parchemins|changé|
 |[2TRqXfTtfMhTSIDY.htm](archetypes/2TRqXfTtfMhTSIDY.htm)|Ghost Hunter|Chasseur de Fantômes|changé|
 |[2Wol7CpOBJjVT3aP.htm](archetypes/2Wol7CpOBJjVT3aP.htm)|Hellknight|Chevalier infernal|changé|
+|[3jceS1GfWcSQ3tMY.htm](archetypes/3jceS1GfWcSQ3tMY.htm)|Talisman Dabbler|Amateur de talismans|changé|
 |[4xzvjFVytFA0LIYj.htm](archetypes/4xzvjFVytFA0LIYj.htm)|Living Monolith|Monolithe vivant|changé|
 |[5cbEwgPLlMWGGVxN.htm](archetypes/5cbEwgPLlMWGGVxN.htm)|Dandy|Dandy|changé|
 |[5zILvODoiQC34tWU.htm](archetypes/5zILvODoiQC34tWU.htm)|Blessed One|Élu divin|changé|
@@ -41,6 +41,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bi1SeBS7Af3ZisIA.htm](archetypes/bi1SeBS7Af3ZisIA.htm)|Swordmaster|Maître des épées|changé|
 |[Bl0KM29OOlwBegCi.htm](archetypes/Bl0KM29OOlwBegCi.htm)|Familiar Master|Maître familier|changé|
 |[Buptz08MArCtY41w.htm](archetypes/Buptz08MArCtY41w.htm)|Investigator|Enquêteur|changé|
+|[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|Médecin|changé|
 |[cEiMI4QGqjv69pJ6.htm](archetypes/cEiMI4QGqjv69pJ6.htm)|Herbalist|Herboriste|changé|
 |[cnsq5cXgQu4FXnoZ.htm](archetypes/cnsq5cXgQu4FXnoZ.htm)|Aldori Duelist|Duelliste Aldori|changé|
 |[DeixUOfwL7Bruad5.htm](archetypes/DeixUOfwL7Bruad5.htm)|Red Mantis Assassin|Assassin des Mantes rouges|changé|
@@ -80,6 +81,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[RvjlaAPa2Wkdhrms.htm](archetypes/RvjlaAPa2Wkdhrms.htm)|Horizon Walker|Arpenteur d'horizon|changé|
 |[RyjrUkqSIg52Mjl8.htm](archetypes/RyjrUkqSIg52Mjl8.htm)|Runescarred|Scarifié des runes|changé|
 |[s7kWIaeCdj3IFte9.htm](archetypes/s7kWIaeCdj3IFte9.htm)|Jalmeri Heavenseeker|Chercheur de paradis du Jalmeray|changé|
+|[SAyPnVRucJa8k4MN.htm](archetypes/SAyPnVRucJa8k4MN.htm)|Witch|Sorcier|changé|
 |[SbvhfCo5gFVt1DgD.htm](archetypes/SbvhfCo5gFVt1DgD.htm)|Acrobat|Acrobate|changé|
 |[SJi2cicLd7R2FInl.htm](archetypes/SJi2cicLd7R2FInl.htm)|Viking|Viking|changé|
 |[TdoPhja8JA9C2Itm.htm](archetypes/TdoPhja8JA9C2Itm.htm)|Linguist|Linguiste|changé|
@@ -105,6 +107,3 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[3jceS1GfWcSQ3tMY.htm](archetypes/3jceS1GfWcSQ3tMY.htm)|Talisman Dabbler|Amateur de talismans|libre|
-|[CA22ZhzFPjahrO4W.htm](archetypes/CA22ZhzFPjahrO4W.htm)|Medic|Médecin|libre|
-|[SAyPnVRucJa8k4MN.htm](archetypes/SAyPnVRucJa8k4MN.htm)|Witch|Sorcier|libre|
