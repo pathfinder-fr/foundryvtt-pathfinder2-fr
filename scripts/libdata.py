@@ -27,6 +27,52 @@ from dataclasses import dataclass
 #           La clé correspondra au nom du champ auquel sera ajouté FR et EN
 # lists     Dictionnaire contenant la liste des champs supplémentaires à extraire sous forme de liste, dont les différentes valeurs seront extraites avec un "|" comme séparateur, et à traduire.
 SUPPORTED = {
+    #### Les ascendances et les capacités
+    "ancestries": {'transl': "Ascendances", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "heritages": {
+        'transl': "Héritages des ascendances",
+        "paths": {'name': "name", 'desc': "data.description.value"},
+    },
+    "ancestryfeatures": {
+        'transl': "Capacités des ascendances)",
+        "paths": {
+            'name': "name",
+            'desc': "data.description.value",
+            'type1': "type",
+            'type2': "data.level.value"
+        }
+    },
+    #### Les historiques
+    "backgrounds": {'transl': "Historiques", "paths": {'name': "name", 'desc': "data.description.value"}},
+    #### Les classes et leurs capacités
+    "classes": {'transl': "Classes", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "classfeatures": {
+        'transl': "Capacités de classe",
+        "paths": {
+            'name': "name",
+            'desc': "data.description.value",
+            'type1': "data.traits.value",
+            'type2': "data.level.value"
+        }
+    },
+    #### Les dons de classe, dons ancestraux, dons généraux et de compétence et les dons des archétypes
+    "feats": {
+        'transl': "Dons",
+        "paths": {
+            'name': "name",
+            'desc': "data.description.value",
+            'type1': "data.featType.value",
+            'type2': "data.level.value"
+        },
+        "lists": {
+            'Prereq': "data.prerequisites.value"
+        }
+    },
+    #### Les pouvoirs de familier et de maître
+    "familiar-abilities": {'transl': "pouvoirs des familiers", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    #### Les archétypes
+    "archetypes": {'transl': "Archétypes", "paths": {'name': "name", 'desc': "content"}},
+    #### Les sorts
     "spells": {
         'transl': "Sorts",
         "paths": {
@@ -45,18 +91,7 @@ SUPPORTED = {
             'SecondaryCheck': "data.secondarycheck.value",
         }
     },
-    "feats": {
-        'transl': "Dons",
-        "paths": {
-            'name': "name",
-            'desc': "data.description.value",
-            'type1': "data.featType.value",
-            'type2': "data.level.value"
-        },
-        "lists": {
-            'Prereq': "data.prerequisites.value"
-        }
-    },
+    #### L'équipement
     "equipment": {
         'transl': "Équipement",
         "paths": {
@@ -66,11 +101,16 @@ SUPPORTED = {
             'type2': "data.level.value"
         }
     },
+    #### Les divinités et les domaines qui n'ont pas encore été traités par les développeurs anglophones mais qu'il faudra traduire
+    # "deities":                        { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "content" } },
+    # "domains":                        { 'transl': "Domaines", "paths": {'name': "name", 'desc': "content" } },
+    #### Les règles du jeu : les actions, les conditions
+    "actions": {'transl': "Actions", "paths": {'name': "name", 'desc': "data.description.value"}},
+        #### Le compendium conditionspf2e a été fusionné avec le conditionitems et peut être supprimé
     "conditionspf2e": {'transl': "Conditions", "paths": {'name': "name", 'desc': "content"}},
     "conditionitems": {'transl': "Conditions", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "actions": {'transl': "Actions", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "archetypes": {'transl': "Archétypes", "paths": {'name': "name", 'desc': "content"}},
-    "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
+    #### L'opposition : bestiaires et dangers, capacités des monstres
+        "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
     "pathfinder-bestiary-2": {'transl': "Bestiaire 2", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
     "pathfinder-bestiary-3": {'transl': "Bestiaire 3", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
     "hazards": {
@@ -86,57 +126,41 @@ SUPPORTED = {
         'ItemsDescription': "items.data.description.value",
       }
     },
-    # "age-of-ashes-bestiary":          { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
-    # "extinction-curse-bestiary":      { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
-    # "fall-of-plaguestone-bestiary":   { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
-    # "iconics":                        { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
-    # "npc-gallery":                    { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
-    "ancestryfeatures": {
-        'transl': "Ascendances (aptitudes)",
-        "paths": {
-            'name': "name",
-            'desc': "data.description.value",
-            'type1': "type",
-            'type2': "data.level.value"
-        }
-    },
-    "classfeatures": {
-        'transl': "Capacités de classe",
-        "paths": {
-            'name': "name",
-            'desc': "data.description.value",
-            'type1': "data.traits.value",
-            'type2': "data.level.value"
-        }
-    },
-    # "rollable-tables":                { 'transl': "Dangers", "paths": { 'name': "name", 'desc': "content" } },
-    "backgrounds": {'transl': "Backgrounds", "paths": {'name': "name", 'desc': "data.description.value"}},
-    # "deities":                        { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "content" } },
-    "gmg-srd": {'transl': "Guide du MJ", "paths": {'name': "name", 'desc': "content"}},
-    "classes": {'transl': "Classes", "paths": {'name': "name", 'desc': "data.description.value"}},
-    # "criticaldeck":                   { 'transl': "Critiques", "paths": { 'name': "name", 'desc': "content" } },
-    # "pf2e-macros":                    { 'transl': "Macros PF2e", "paths": { 'name': "name", 'desc': "content" } },
     "bestiary-ability-glossary-srd": {
-        'transl': "Aptitudes du bestiaire",
+        'transl': "Capacités du bestiaire",
         "paths": {'name': "name", 'desc': "data.description.value"}
     },
-    "pathfinder-society-boons": {'transl': "Macros PF2e", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "boons-and-curses": {'transl': "Bénédictions et malédictions", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "familiar-abilities": {'transl': "Aptitudes des familiers", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
-    "spell-effects": {'transl': "Effets des sorts", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
-    "ancestries": {'transl': "Ascendances", "paths": {'name': "name", 'desc': "data.description.value"}},
     "bestiary-family-ability-glossary": {
         'transl': "Capacités des familles de monstre",
         "paths": {'name': "name", 'desc': "data.description.value"}
     },
+    #### Outils du MJ
     "criticaldeck": {
         'transl': "Cartes critiques",
         "paths": {'name': "name", 'desc': "content"}
     },
-    "heritages": {
-        'transl': "Héritages",
+    "gmg-srd": {'transl': "Guide du Maître", "paths": {'name': "name", 'desc': "content"}},
+    "pathfinder-society-boons": {'transl': "Récompenses PFS", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "boons-and-curses": {'transl': "Bénédictions et malédictions", "paths": {'name': "name", 'desc': "data.description.value"}},
+    #### Macros de Foundry dont on ne traduit que le nom
+    "action-macros": {
+        'transl': "Macros PF2e",
+        "paths": { 'name': "name"}
+    },
+    "pf2e-macros": {
+        'transl': "Macros PF2e",
+        "paths": { 'name': "name"}
+    },
+    #### Les effets de Foundry qui peuvent être glissés sur les jetons dont on ne traduit que l'essentiel
+    "bestiary-effects": {
+        'transl': "Effets des monstres",
         "paths": {'name': "name", 'desc': "data.description.value"}
-    }
+    },
+    "consumable-effects": {'transl': "Effets des consommables", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    "spell-effects": {'transl': "Effets des sorts", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    "equipment-effects": {'transl': "Effets de l'équipement", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    "feat-effects": {'transl': "Effets des dons", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    "feature-effects": {'transl': "Effets des capacités", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}}
 }
 
 
