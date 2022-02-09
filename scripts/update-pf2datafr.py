@@ -122,9 +122,6 @@ for pack in packs:
   #############################################
   # read original data from pf2 Foundry system
   #############################################
-  if not 'desc' in pack['paths']:
-    continue
-
   filename = PACKS + pack_id + ".db"
   descPathParts = pack['paths']['desc'].split('.')
 

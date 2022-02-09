@@ -1,9 +1,11 @@
 # État de la traduction (pathfinder-society-boons)
 
- * **changé**: 131
+ * **changé**: 123
+ * **auto-trad**: 7
+ * **libre**: 1
 
 
-Dernière mise à jour: 2022-02-08 20:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-09 07:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -19,7 +21,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[1VWMLe12ZFqF9jah.htm](pathfinder-society-boons/1VWMLe12ZFqF9jah.htm)|Hireling, Expert|
 |[1welewgoB0z86Nms.htm](pathfinder-society-boons/1welewgoB0z86Nms.htm)|S1-03 - Team Player|
 |[2QzXBsURLO7xECxO.htm](pathfinder-society-boons/2QzXBsURLO7xECxO.htm)|FoP - Fiery Companion|
-|[3K8yzfU2t9chVv6h.htm](pathfinder-society-boons/3K8yzfU2t9chVv6h.htm)|AoA #149: Boon B - Katapesh Companion|
 |[3lHqim7ttvoMmVXW.htm](pathfinder-society-boons/3lHqim7ttvoMmVXW.htm)|Sellback Plan|
 |[4lLhGgG30TMu8tIx.htm](pathfinder-society-boons/4lLhGgG30TMu8tIx.htm)|FoP - Noala's Lessons|
 |[4O3qxD3I4LUjl2Vq.htm](pathfinder-society-boons/4O3qxD3I4LUjl2Vq.htm)|Wayfinder, Harmonic|
@@ -41,7 +42,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bMp6W5kPNyqBoOxm.htm](pathfinder-society-boons/bMp6W5kPNyqBoOxm.htm)|Charitable Adventure|
 |[ca869lJo8E51WcW4.htm](pathfinder-society-boons/ca869lJo8E51WcW4.htm)|Hireling, Master|
 |[cjjRFoOE1GtjEA3F.htm](pathfinder-society-boons/cjjRFoOE1GtjEA3F.htm)|Promotional Service Award|
-|[CjW54WSPDcykzqj9.htm](pathfinder-society-boons/CjW54WSPDcykzqj9.htm)|AoA #148: Boon B - Expanded Summoning|
 |[CLRt3iFqWlMwCNVl.htm](pathfinder-society-boons/CLRt3iFqWlMwCNVl.htm)|Vigilant Seal Champion, Improved|
 |[CPcMqEd4H5yIVl3i.htm](pathfinder-society-boons/CPcMqEd4H5yIVl3i.htm)|World Traveller|
 |[CW73M2apBaQh6wLm.htm](pathfinder-society-boons/CW73M2apBaQh6wLm.htm)|Unparalleled Scholarship|
@@ -49,7 +49,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[DcMAGJWq2G5kGRWn.htm](pathfinder-society-boons/DcMAGJWq2G5kGRWn.htm)|S1-16 - Blood Offering|
 |[DD1mlAEaXdM1pBze.htm](pathfinder-society-boons/DD1mlAEaXdM1pBze.htm)|S1-Q07 - Amateur Adjuster|
 |[DkqU67wxvbDu0Qrs.htm](pathfinder-society-boons/DkqU67wxvbDu0Qrs.htm)|Mentor, Rugged|
-|[DWcmLzzT1eYk76c7.htm](pathfinder-society-boons/DWcmLzzT1eYk76c7.htm)|AoA #146: Mwangi Summoner|
 |[En3RdoXDAtyXdNKq.htm](pathfinder-society-boons/En3RdoXDAtyXdNKq.htm)|Heroic Intervention|
 |[ePZOmPbGXzrEaXXs.htm](pathfinder-society-boons/ePZOmPbGXzrEaXXs.htm)|S1-11 - Devil's Keep|
 |[fTndDUqUDSVXM0Qm.htm](pathfinder-society-boons/fTndDUqUDSVXM0Qm.htm)|S1-11 - Diggen the Liar|
@@ -113,15 +112,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[U6QqFDstHNjEeOUS.htm](pathfinder-society-boons/U6QqFDstHNjEeOUS.htm)|Wayfinder, Rugged|
 |[UNlaVxb0pDov3efw.htm](pathfinder-society-boons/UNlaVxb0pDov3efw.htm)|Heroic Resurgence|
 |[UWZfORgk1yVNV0RF.htm](pathfinder-society-boons/UWZfORgk1yVNV0RF.htm)|Exotic Edge|
-|[VLjkX7HpDqKaidNd.htm](pathfinder-society-boons/VLjkX7HpDqKaidNd.htm)|AoA #148: Boon A - Crystal Clear|
 |[Vmg31SsMjjimghzP.htm](pathfinder-society-boons/Vmg31SsMjjimghzP.htm)|Menace Under Otari|
 |[vYSA5M9fgBdYiGLT.htm](pathfinder-society-boons/vYSA5M9fgBdYiGLT.htm)|Mentor, Combat|
-|[wcOnL9nFDfCkNVMZ.htm](pathfinder-society-boons/wcOnL9nFDfCkNVMZ.htm)|AoA #149: Boon C - Expanded Summoning|
 |[wdjRk8JaZGP1mjqD.htm](pathfinder-society-boons/wdjRk8JaZGP1mjqD.htm)|S1-09 - Iruxi Bane|
-|[We3sJV72xtdPeMjp.htm](pathfinder-society-boons/We3sJV72xtdPeMjp.htm)|AoA #150: Boon B - Paragon of Promise|
 |[WGjcz2mkgGB1qCWw.htm](pathfinder-society-boons/WGjcz2mkgGB1qCWw.htm)|Preserve|
 |[wkgBg5UD3bChfl4b.htm](pathfinder-society-boons/wkgBg5UD3bChfl4b.htm)|Heroic Recall|
-|[WV4J7NMgKXNlXonW.htm](pathfinder-society-boons/WV4J7NMgKXNlXonW.htm)|AoA #147: Boon B - Expanded Summoning|
 |[WVOP420jZ4jSTYI8.htm](pathfinder-society-boons/WVOP420jZ4jSTYI8.htm)|S1-06 - Traveler of the Spirit Road|
 |[WYHPJyza1BJgtFq4.htm](pathfinder-society-boons/WYHPJyza1BJgtFq4.htm)|S1-Q01 - Sand Slide|
 |[Wz2F0qk4rxZeH311.htm](pathfinder-society-boons/Wz2F0qk4rxZeH311.htm)|Heroic Hustle|
@@ -140,14 +135,26 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ZtLTqT4G5q8SLJCT.htm](pathfinder-society-boons/ZtLTqT4G5q8SLJCT.htm)|S1-09 - Ally of the Iruxi|
 |[ZZvIzyH6SwyVkEYm.htm](pathfinder-society-boons/ZZvIzyH6SwyVkEYm.htm)|S1-21 - Maze Walker|
 
+## Liste des traductions automatiques à corriger/retraduire
+
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|:----:|
+|[3K8yzfU2t9chVv6h.htm](pathfinder-society-boons/3K8yzfU2t9chVv6h.htm)|AoA #149: Boon B - Katapesh Companion|auto-trad|
+|[CjW54WSPDcykzqj9.htm](pathfinder-society-boons/CjW54WSPDcykzqj9.htm)|AoA #148: Boon B - Expanded Summoning|auto-trad|
+|[DWcmLzzT1eYk76c7.htm](pathfinder-society-boons/DWcmLzzT1eYk76c7.htm)|AoA #146: Mwangi Summoner|auto-trad|
+|[VLjkX7HpDqKaidNd.htm](pathfinder-society-boons/VLjkX7HpDqKaidNd.htm)|AoA #148: Boon A - Crystal Clear|auto-trad|
+|[wcOnL9nFDfCkNVMZ.htm](pathfinder-society-boons/wcOnL9nFDfCkNVMZ.htm)|AoA #149: Boon C - Expanded Summoning|auto-trad|
+|[We3sJV72xtdPeMjp.htm](pathfinder-society-boons/We3sJV72xtdPeMjp.htm)|AoA #150: Boon B - Paragon of Promise|auto-trad|
+|[WV4J7NMgKXNlXonW.htm](pathfinder-society-boons/WV4J7NMgKXNlXonW.htm)|AoA #147: Boon B - Expanded Summoning|auto-trad|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[CKyGNdBL8Qt4ysKt.htm](pathfinder-society-boons/CKyGNdBL8Qt4ysKt.htm)|S2-03 - Fluent in Cyclops|S2-03 - langue cyclope|changé|
 |[RLzWznPsb2VpbxTy.htm](pathfinder-society-boons/RLzWznPsb2VpbxTy.htm)|S1-Q12 - Fruit Basket|S1-Q12 - Panier de fruit|changé|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[CKyGNdBL8Qt4ysKt.htm](pathfinder-society-boons/CKyGNdBL8Qt4ysKt.htm)|S2-03 - Fluent in Cyclops|S2-03 - langue cyclope|libre|

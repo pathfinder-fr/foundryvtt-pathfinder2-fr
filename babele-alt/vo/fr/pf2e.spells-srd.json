@@ -2095,6 +2095,7 @@
             "id": "Temporary Glyph",
             "name": "Temporary Glyph",
             "description": "<p><strong>Zone</strong> une case de 1,5 m</p>\n<hr />\n<p>Vous liez temporairement un sort hostile dans un symbole. Pendant que vous lancez ce sort, vous lancez également un sort d'un niveau inférieur pour le stocker dans le glyphe. Le sort stocké doit prendre 2 actions ou moins pour être lancé, avoir un effet hostile et cibler une créature ou avoir une zone. Toute créature qui entre dans la zone de Glyphe temporaire active le glyphe, libérant le sort nuisible qu'il contient. Vous pouvez définir un mot de passe pour le glyphe. Le prononcer en entrant dans la zone du sort empêche le glyphe de se déclencher. Vous pouvez également définir un déclencheur plus spécifique pour limiter les types de créatures qui déclenchent le glyphe.</p>\n<p>Une fois qu'un sort est stocké dans le glyphe, celui-ci acquiert tous les traits de ce sort. Si le sort stocké peut cibler une ou plusieurs créatures, il cible la créature qui a déclenché le glyphe. S'il possède une zone, cette zone est centrée sur la créature qui a déclenché le glyphe. Glyphe temporaire prend fin lorsque le glyphe est déclenché. Le glyphe est un piège magique, utilisant votre DD de sort à la fois pour le test de Perception pour le remarquer et le test de Vol pour le désamorcer ; ces deux tests nécessitent que la créature qui les tente soit qualifiée pour les réussir.</p>\n<p>Vous pouvez révoquer Glyphe temporaire.</p>",
+            "areasize": "case de 1,5 m",
             "range": "9 m"
         },
         {
@@ -6140,6 +6141,7 @@
             "id": "Approximate",
             "name": "Approximate",
             "description": "<p><strong>Zone</strong> 1 cube de 30 cm</p>\n<hr />\n<p>Votre magie se répand rapidement sur une zone pour vous aider à compter et à cataloguer. Nommez un type particulier d'objet que vous recherchez dans la zone. Vous obtenez une estimation instantanée de la quantité d'objets choisis qui sont clairement visibles dans la zone cible. Le nombre est arrondi au chiffre le plus élevé. Par exemple, vous pouvez regarder une pile de 180 pièces de cuivre et apprendre qu'elle contient environ 200 pièces, mais vous ne pouvez pas déterminer qu'il y a exactement 180 pièces.</p>\n<p>Le type d'objet que vous nommez peut être aussi spécifique ou général que vous le souhaitez - \"pièces de cuivre cabossées\" est aussi valable que \"pièces\" - mais les caractéristiques distinctives doivent être évidentes au premier coup d'œil et le sort est automatiquement trompé par les objets déguisés en d'autres objets. Par exemple, le sort identifiera les pièces de cuivre plaquées or comme des pièces d'or et non comme des pièces de cuivre.",
+            "areasize": "1 cube de 30 cm",
             "range": "3 m"
         },
         {
