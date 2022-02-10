@@ -53,7 +53,7 @@ for p in packs:
     
     entries[obj['_id']] = { 
       'name': getValue(obj, p['paths']['name']), 
-      'desc': getValue(obj, p['paths']['desc'], False, ""), 
+      'desc': getValue(obj, p['paths']['desc'], False, "") if 'desc' in p['paths'] else "NE PAS TRADUIRE",
       'type1': getValue(obj, p['paths']['type1']) if 'type1' in p['paths'] else None,
       'type2': getValue(obj, p['paths']['type2'], False) if 'type2' in p['paths'] else None,
       'lists': {},

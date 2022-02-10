@@ -54,10 +54,11 @@ for p in packs:
            "auto-trad": 0, "auto-googtrad": 0, "vide": 0 }
   
   # add mappings
-  babele['mapping']["description"] = p['paths']['desc']
-  babeleVfVo['mapping']["description"] = p['paths']['desc']
-  babeleVoVf['mapping']["description"] = p['paths']['desc']
-  babeleVo['mapping']["description"] = p['paths']['desc']
+  if 'desc' in p['paths']:
+    babele['mapping']["description"] = p['paths']['desc']
+    babeleVfVo['mapping']["description"] = p['paths']['desc']
+    babeleVoVf['mapping']["description"] = p['paths']['desc']
+    babeleVo['mapping']["description"] = p['paths']['desc']
 
   if "lists" in p:
     for k in p["lists"]:
@@ -137,9 +138,9 @@ for p in packs:
   print(" - Vides: %d" % count["vide"]);
 
 
-# ==========================
-# génération du dictionnaire
-# ==========================
+# ===============================
+# génération du dictionnaire (EN)
+# ===============================
 content = "# Bibliothèque\n\n"
 content += "\n\nDernière mise à jour: %s *(heure de Canada/Montréal)*" % datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
 content += "\n\nCe fichier est généré automatiquement. NE PAS MODIFIER!\n\n"
@@ -164,5 +165,32 @@ for p in packs:
 with open("../data/dictionnaire.md", 'w', encoding='utf-8') as f:
   f.write(content)
   
-  
-  
+
+# ===============================
+# génération du dictionnaire (FR)
+# ===============================
+
+content = "# Bibliothèque\n\n"
+content += "\n\nDernière mise à jour: %s *(heure de Canada/Montréal)*" % datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
+content += "\n\nCe fichier est généré automatiquement. NE PAS MODIFIER!\n\n"
+
+packs = sorted(packs, key=lambda k: k['transl'])
+
+for p in packs:
+  packName = p["transl"]
+  content += " * [%s](#%s)\n" % (packName, packName.lower().replace(' ', '-'))
+
+
+for p in packs:
+  packName = p["transl"]
+  content += "\n\n## %s\n\n" % packName
+  content += "| Nom (FR)   | Nom (EN)    | Lien compendium |\n"
+  content += "|------------|-------------|-----------------|\n"
+
+  sortedList = sorted(translations[p["id"]], key=lambda k: k['nom'])
+  for el in sortedList:
+    content += "|[%s](%s)|%s|`%s`|\n" % (el['nom'], el['file'], el['name'], el['link'])
+
+with open("../data/dictionnaire-fr.md", 'w', encoding='utf-8') as f:
+  f.write(content)
+
