@@ -2,33 +2,40 @@
 
 
 
-Dernière mise à jour: 2022-02-09 07:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-09 19:07 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
  * [Actions](#actions)
- * [Aptitudes des familiers](#aptitudes-des-familiers)
- * [Aptitudes du bestiaire](#aptitudes-du-bestiaire)
  * [Archétypes](#archétypes)
  * [Ascendances](#ascendances)
- * [Ascendances (aptitudes)](#ascendances-(aptitudes))
- * [Backgrounds](#backgrounds)
  * [Bestiaire](#bestiaire)
  * [Bestiaire 2](#bestiaire-2)
  * [Bestiaire 3](#bestiaire-3)
  * [Bénédictions et malédictions](#bénédictions-et-malédictions)
  * [Capacités de classe](#capacités-de-classe)
+ * [Capacités des ascendances)](#capacités-des-ascendances))
  * [Capacités des familles de monstre](#capacités-des-familles-de-monstre)
+ * [Capacités du bestiaire](#capacités-du-bestiaire)
  * [Cartes critiques](#cartes-critiques)
  * [Classes](#classes)
  * [Conditions](#conditions)
  * [Dangers](#dangers)
  * [Dons](#dons)
+ * [Effets de l'équipement](#effets-de-l'équipement)
+ * [Effets des capacités](#effets-des-capacités)
+ * [Effets des consommables](#effets-des-consommables)
+ * [Effets des dons](#effets-des-dons)
+ * [Effets des monstres](#effets-des-monstres)
  * [Effets des sorts](#effets-des-sorts)
- * [Guide du MJ](#guide-du-mj)
- * [Héritages](#héritages)
+ * [Guide du Maître](#guide-du-maître)
+ * [Historiques](#historiques)
+ * [Héritages des ascendances](#héritages-des-ascendances)
  * [Macros PF2e](#macros-pf2e)
+ * [Macros PF2e](#macros-pf2e)
+ * [Récompenses PFS](#récompenses-pfs)
  * [Sorts](#sorts)
+ * [pouvoirs des familiers](#pouvoirs-des-familiers)
  * [Équipement](#équipement)
 
 
@@ -307,112 +314,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Wyrm's Breath](actions/OJ9cIvPukPT0rppR.htm)|Souffle du Ver|`@Compendium[pf2e.actionspf2e.OJ9cIvPukPT0rppR]`|
 
 
-## Aptitudes des familiers
-
-| Nom (EN)   | Nom (FR)    | Lien compendium |
-|------------|-------------|-----------------|
-|[Accompanist](familiar-abilities/01-92lgSEPFIDLvKOCF.htm)|Accompagnateur|`@Compendium[pf2e.familiar-abilities.92lgSEPFIDLvKOCF]`|
-|[Amphibious](familiar-abilities/01-A0C86V3MUECpX5jd.htm)|Amphibie|`@Compendium[pf2e.familiar-abilities.A0C86V3MUECpX5jd]`|
-|[Burrower](familiar-abilities/01-uy15sDBuYNK48N3v.htm)|Fouisseur|`@Compendium[pf2e.familiar-abilities.uy15sDBuYNK48N3v]`|
-|[Cantrip Connection](familiar-abilities/01-rs4Awf4k1e0Mj797.htm)|Lien avec les tours de magie|`@Compendium[pf2e.familiar-abilities.rs4Awf4k1e0Mj797]`|
-|[Climber](familiar-abilities/01-dWTfO5WbLkD5mw2H.htm)|Grimpeur|`@Compendium[pf2e.familiar-abilities.dWTfO5WbLkD5mw2H]`|
-|[Damage Avoidance: Fortitude](familiar-abilities/01-mK3mAUWiRLZZYNdz.htm)|Évitement des dégâts : Vigueur|`@Compendium[pf2e.familiar-abilities.mK3mAUWiRLZZYNdz]`|
-|[Damage Avoidance: Reflex](familiar-abilities/01-K5OLRDsGCfPZ6mO6.htm)|Évitement des dégâts : Réflexes|`@Compendium[pf2e.familiar-abilities.K5OLRDsGCfPZ6mO6]`|
-|[Damage Avoidance: Will](familiar-abilities/01-5gwqSpkRqWzrbDDU.htm)|Évitement des dégâts : Volonté|`@Compendium[pf2e.familiar-abilities.5gwqSpkRqWzrbDDU]`|
-|[Darkvision](familiar-abilities/01-0Xrkk46IM43iI1Fv.htm)|Vision dans le noir|`@Compendium[pf2e.familiar-abilities.0Xrkk46IM43iI1Fv]`|
-|[Extra Reagents](familiar-abilities/01-ZtKb89o1PPhwJ3Lx.htm)|Réactifs supplémentaires|`@Compendium[pf2e.familiar-abilities.ZtKb89o1PPhwJ3Lx]`|
-|[Familiar Focus](familiar-abilities/01-jdlefpPcSCIe27vO.htm)|Focalisation du familier|`@Compendium[pf2e.familiar-abilities.jdlefpPcSCIe27vO]`|
-|[Fast Movement: Climb](familiar-abilities/01-SxWYVgqNMsq0OijU.htm)|Déplacement rapide : Escalade|`@Compendium[pf2e.familiar-abilities.SxWYVgqNMsq0OijU]`|
-|[Fast Movement: Fly](familiar-abilities/01-VHQUZcjUxfC3GcJ9.htm)|Déplacement rapide : Vol|`@Compendium[pf2e.familiar-abilities.VHQUZcjUxfC3GcJ9]`|
-|[Fast Movement: Land](familiar-abilities/01-BXssJhTJjKrfojwG.htm)|Déplacement rapide : Au sol|`@Compendium[pf2e.familiar-abilities.BXssJhTJjKrfojwG]`|
-|[Fast Movement: Swim](familiar-abilities/01-vpw2ReYdcyQBpdqn.htm)|Déplacement rapide : Nage|`@Compendium[pf2e.familiar-abilities.vpw2ReYdcyQBpdqn]`|
-|[Flier](familiar-abilities/01-ZHSzNt3NxkXbj1mI.htm)|Volant|`@Compendium[pf2e.familiar-abilities.ZHSzNt3NxkXbj1mI]`|
-|[Focused Rejuvenation](familiar-abilities/01-O5TIjqXAuta8iVSz.htm)|Récupération concentrée|`@Compendium[pf2e.familiar-abilities.O5TIjqXAuta8iVSz]`|
-|[Grasping Tendrils](familiar-abilities/04-LUBS9csNNgRTui4p.htm)|Vrilles agrippantes|`@Compendium[pf2e.familiar-abilities.LUBS9csNNgRTui4p]`|
-|[Independent](familiar-abilities/01-2fiQzoEKu6YUnrU9.htm)|Indépendant|`@Compendium[pf2e.familiar-abilities.2fiQzoEKu6YUnrU9]`|
-|[Innate Surge](familiar-abilities/01-D0ltNUJnN7UjJpA1.htm)|Déferlante innée|`@Compendium[pf2e.familiar-abilities.D0ltNUJnN7UjJpA1]`|
-|[Kinspeech](familiar-abilities/01-qTxH8mSOvc4PMzrP.htm)|Parole des semblables|`@Compendium[pf2e.familiar-abilities.qTxH8mSOvc4PMzrP]`|
-|[Lab Assistant](familiar-abilities/01-7QosmRHlyLLhU1hX.htm)|Assistant de laboratoire|`@Compendium[pf2e.familiar-abilities.7QosmRHlyLLhU1hX]`|
-|[Lifelink](familiar-abilities/01-deC1yIM2S5szGdzT.htm)|Lien vital|`@Compendium[pf2e.familiar-abilities.deC1yIM2S5szGdzT]`|
-|[Manual Dexterity](familiar-abilities/01-cT5octWchU4gjrhP.htm)|Dextérité manuelle|`@Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]`|
-|[Mask Freeze](familiar-abilities/01-C16JgmeJJG249WXz.htm)|Masque figé|`@Compendium[pf2e.familiar-abilities.C16JgmeJJG249WXz]`|
-|[Master's Form](familiar-abilities/01-JRP2bdkdCdj2JDrq.htm)|Forme du maître|`@Compendium[pf2e.familiar-abilities.JRP2bdkdCdj2JDrq]`|
-|[Partner in Crime](familiar-abilities/01-v7zE3tKQb9G6PaYU.htm)|Associés dans le crime|`@Compendium[pf2e.familiar-abilities.v7zE3tKQb9G6PaYU]`|
-|[Plant Form](familiar-abilities/01-57b8u8s3fV0UCrgJ.htm)|Forme de plante|`@Compendium[pf2e.familiar-abilities.57b8u8s3fV0UCrgJ]`|
-|[Poison Reservoir](familiar-abilities/01-8Z1UkLEWkFWIjOF8.htm)|Réservoir de poison|`@Compendium[pf2e.familiar-abilities.8Z1UkLEWkFWIjOF8]`|
-|[Purify Air](familiar-abilities/04-43xB5UnexISlfRa5.htm)|Purificateur d'air|`@Compendium[pf2e.familiar-abilities.43xB5UnexISlfRa5]`|
-|[Recall Familiar](familiar-abilities/01-REJfFezELjc5Gzsy.htm)|Rappel de familier|`@Compendium[pf2e.familiar-abilities.REJfFezELjc5Gzsy]`|
-|[Resistance](familiar-abilities/01-FcQQLMAJMgOLjnSv.htm)|Résistance|`@Compendium[pf2e.familiar-abilities.FcQQLMAJMgOLjnSv]`|
-|[Restorative Familiar](familiar-abilities/01-Q42nrq9LwDdbeZM5.htm)|Familier curatif|`@Compendium[pf2e.familiar-abilities.Q42nrq9LwDdbeZM5]`|
-|[Scent](familiar-abilities/01-FlRUb8U13Crj3NaA.htm)|Odorat|`@Compendium[pf2e.familiar-abilities.FlRUb8U13Crj3NaA]`|
-|[Share Senses](familiar-abilities/01-gPceRQqO847lvSnb.htm)|Partage des sens|`@Compendium[pf2e.familiar-abilities.gPceRQqO847lvSnb]`|
-|[Skilled](familiar-abilities/01-jevzf9JbJJibpqaI.htm)|Compétent|`@Compendium[pf2e.familiar-abilities.jevzf9JbJJibpqaI]`|
-|[Speech](familiar-abilities/01-zyMRLQnFCQVpltiR.htm)|Parole|`@Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]`|
-|[Spell Battery](familiar-abilities/01-Xanjwv4YU0CBnsMw.htm)|Accumulateur de sorts|`@Compendium[pf2e.familiar-abilities.Xanjwv4YU0CBnsMw]`|
-|[Spell Delivery](familiar-abilities/01-wOgvBymJOVQDSm1Q.htm)|Transfert de sort|`@Compendium[pf2e.familiar-abilities.wOgvBymJOVQDSm1Q]`|
-|[Spellcasting](familiar-abilities/01-asOhEdyF8CWFbR96.htm)|Incantateur|`@Compendium[pf2e.familiar-abilities.asOhEdyF8CWFbR96]`|
-|[Tattoo Transformation](familiar-abilities/01-tEWAHPPZULvPgHnT.htm)|Transformation en tatouage|`@Compendium[pf2e.familiar-abilities.tEWAHPPZULvPgHnT]`|
-|[Toolbearer](familiar-abilities/01-uUrsZ4WvhjKjFjnt.htm)|Porte outils|`@Compendium[pf2e.familiar-abilities.uUrsZ4WvhjKjFjnt]`|
-|[Touch Telepathy](familiar-abilities/01-XCqYnlVbLGqEGPeX.htm)|Télépathie de contact|`@Compendium[pf2e.familiar-abilities.XCqYnlVbLGqEGPeX]`|
-|[Tough](familiar-abilities/01-Le8UWr5BU8rV3iBf.htm)|Robuste|`@Compendium[pf2e.familiar-abilities.Le8UWr5BU8rV3iBf]`|
-|[Valet](familiar-abilities/01-9PsptrEoCC4QdM23.htm)|Valet|`@Compendium[pf2e.familiar-abilities.9PsptrEoCC4QdM23]`|
-|[Verdant Burst](familiar-abilities/04-SKIS1xexaOvrecdV.htm)|Explosion verdoyante|`@Compendium[pf2e.familiar-abilities.SKIS1xexaOvrecdV]`|
-
-
-## Aptitudes du bestiaire
-
-| Nom (EN)   | Nom (FR)    | Lien compendium |
-|------------|-------------|-----------------|
-|[+1 Status to All Saves vs Magic](bestiary-ability-glossary-srd/kquBnQ0kObZztnBc.htm)|bonus de statut de +1 à tous les jets de sauvegarde contre la magie|`@Compendium[pf2e.bestiary-ability-glossary-srd.kquBnQ0kObZztnBc]`|
-|[All-Around Vision](bestiary-ability-glossary-srd/9qV49KjZujZnSp6w.htm)|Vision à 360°|`@Compendium[pf2e.bestiary-ability-glossary-srd.9qV49KjZujZnSp6w]`|
-|[Aquatic Ambush](bestiary-ability-glossary-srd/HBrBrUzjfvj2gDXB.htm)|Embuscade aquatique|`@Compendium[pf2e.bestiary-ability-glossary-srd.HBrBrUzjfvj2gDXB]`|
-|[At-Will Spells](bestiary-ability-glossary-srd/2YRDYVnC1eljaXKK.htm)|Sorts à volonté|`@Compendium[pf2e.bestiary-ability-glossary-srd.2YRDYVnC1eljaXKK]`|
-|[Attack of Opportunity](bestiary-ability-glossary-srd/hFtNbo1LKYCoDy2O.htm)|Attaque d'opportunité|`@Compendium[pf2e.bestiary-ability-glossary-srd.hFtNbo1LKYCoDy2O]`|
-|[Aura](bestiary-ability-glossary-srd/v61oEQaDdcRpaZ9X.htm)|Aura|`@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]`|
-|[Buck](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Désarçonner|`@Compendium[pf2e.bestiary-ability-glossary-srd.nZMQh4AaBr291TUf]`|
-|[Catch Rock](bestiary-ability-glossary-srd/uG0Z8PsyZtsYuvGR.htm)|Interception de rochers|`@Compendium[pf2e.bestiary-ability-glossary-srd.uG0Z8PsyZtsYuvGR]`|
-|[Change Shape](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)|Changement de forme|`@Compendium[pf2e.bestiary-ability-glossary-srd.eQM5hQ1W3d1uen97]`|
-|[Constant Spells](bestiary-ability-glossary-srd/kakyXBG5WA8c6Zfd.htm)|Sorts constants|`@Compendium[pf2e.bestiary-ability-glossary-srd.kakyXBG5WA8c6Zfd]`|
-|[Constrict](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constriction|`@Compendium[pf2e.bestiary-ability-glossary-srd.g26YiEIfSHCpLocV]`|
-|[Coven](bestiary-ability-glossary-srd/52CdldlWMiVTZk1F.htm)|Cercle|`@Compendium[pf2e.bestiary-ability-glossary-srd.52CdldlWMiVTZk1F]`|
-|[Darkvision](bestiary-ability-glossary-srd/qCCLZhnp2HhP3Ex6.htm)|Vision dans le noir|`@Compendium[pf2e.bestiary-ability-glossary-srd.qCCLZhnp2HhP3Ex6]`|
-|[Disease](bestiary-ability-glossary-srd/Z025dWgZtawbuRLI.htm)|Maladie|`@Compendium[pf2e.bestiary-ability-glossary-srd.Z025dWgZtawbuRLI]`|
-|[Engulf](bestiary-ability-glossary-srd/zU3Ovaet4xQ5Gmvy.htm)|Engloutissement|`@Compendium[pf2e.bestiary-ability-glossary-srd.zU3Ovaet4xQ5Gmvy]`|
-|[Fast Healing](bestiary-ability-glossary-srd/fJSNOw4zHGbIm4bZ.htm)|Guérison accélérée|`@Compendium[pf2e.bestiary-ability-glossary-srd.fJSNOw4zHGbIm4bZ]`|
-|[Ferocity](bestiary-ability-glossary-srd/N1kstYbHScxgUQtN.htm)|Férocité|`@Compendium[pf2e.bestiary-ability-glossary-srd.N1kstYbHScxgUQtN]`|
-|[Form Up](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Se reformer|`@Compendium[pf2e.bestiary-ability-glossary-srd.OvqohW9YuahnFaiX]`|
-|[Frightful Presence](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Présence terrifiante|`@Compendium[pf2e.bestiary-ability-glossary-srd.etMnv73EIdEZrYYu]`|
-|[Grab](bestiary-ability-glossary-srd/Tkd8sH4pwFIPzqTr.htm)|Empoignade/Agrippement|`@Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]`|
-|[Greater Constrict](bestiary-ability-glossary-srd/OmV6E3aELvq9CkK1.htm)|Constriction supérieure|`@Compendium[pf2e.bestiary-ability-glossary-srd.OmV6E3aELvq9CkK1]`|
-|[Greater Darkvision](bestiary-ability-glossary-srd/4Ho2xMPEC05aSxzr.htm)|Vision dans le noir supérieure|`@Compendium[pf2e.bestiary-ability-glossary-srd.4Ho2xMPEC05aSxzr]`|
-|[Improved Grab](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Empoignade/agrippement amélioré|`@Compendium[pf2e.bestiary-ability-glossary-srd.i18TlebMzwONyPhI]`|
-|[Improved Knockdown](bestiary-ability-glossary-srd/LbnsT8yXchHMQT3t.htm)|Renversement amélioré|`@Compendium[pf2e.bestiary-ability-glossary-srd.LbnsT8yXchHMQT3t]`|
-|[Improved Push](bestiary-ability-glossary-srd/6l7e7CHQLESlI57U.htm)|Bousculade améliorée|`@Compendium[pf2e.bestiary-ability-glossary-srd.6l7e7CHQLESlI57U]`|
-|[Knockdown](bestiary-ability-glossary-srd/BCLvAx4Pz4MLa2pu.htm)|Renversement|`@Compendium[pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]`|
-|[Lifesense](bestiary-ability-glossary-srd/sebk9XseMCRkDqRg.htm)|Sens de la vie|`@Compendium[pf2e.bestiary-ability-glossary-srd.sebk9XseMCRkDqRg]`|
-|[Light Blindness](bestiary-ability-glossary-srd/I0HYG0ctCLP5JRsW.htm)|Aveuglé par la lumière|`@Compendium[pf2e.bestiary-ability-glossary-srd.I0HYG0ctCLP5JRsW]`|
-|[Low-Light Vision](bestiary-ability-glossary-srd/fFu2sZz4KB01fVRc.htm)|Vision nocturne|`@Compendium[pf2e.bestiary-ability-glossary-srd.fFu2sZz4KB01fVRc]`|
-|[Negative Healing](bestiary-ability-glossary-srd/TTCw5NusiSSkJU1x.htm)|Soins négatifs|`@Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]`|
-|[Poison](bestiary-ability-glossary-srd/kFv54DisTfCMTBEY.htm)|Poison|`@Compendium[pf2e.bestiary-ability-glossary-srd.kFv54DisTfCMTBEY]`|
-|[Power Attack](bestiary-ability-glossary-srd/0B39GdScyZMPWalX.htm)|Attaque en puissance|`@Compendium[pf2e.bestiary-ability-glossary-srd.0B39GdScyZMPWalX]`|
-|[Push](bestiary-ability-glossary-srd/t6cx9FOODmeZQNYl.htm)|Bousculade|`@Compendium[pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl]`|
-|[Regeneration](bestiary-ability-glossary-srd/lR9R5Vld8Eu2Dha5.htm)|Régénération|`@Compendium[pf2e.bestiary-ability-glossary-srd.lR9R5Vld8Eu2Dha5]`|
-|[Rend](bestiary-ability-glossary-srd/3JOi2cMcGhT3eze1.htm)|Éventration|`@Compendium[pf2e.bestiary-ability-glossary-srd.3JOi2cMcGhT3eze1]`|
-|[Retributive Strike](bestiary-ability-glossary-srd/IQtb58p4EaeUzTN1.htm)|Frappe punitive|`@Compendium[pf2e.bestiary-ability-glossary-srd.IQtb58p4EaeUzTN1]`|
-|[Scent](bestiary-ability-glossary-srd/rqfnQ5VHT5hxm25r.htm)|Odorat|`@Compendium[pf2e.bestiary-ability-glossary-srd.rqfnQ5VHT5hxm25r]`|
-|[Shield Block](bestiary-ability-glossary-srd/m4HQ2o5aPxjXf2kY.htm)|Blocage au bouclier|`@Compendium[pf2e.bestiary-ability-glossary-srd.m4HQ2o5aPxjXf2kY]`|
-|[Sneak Attack](bestiary-ability-glossary-srd/AWvNPE4U0kEJSL1T.htm)|Attaque sournoise|`@Compendium[pf2e.bestiary-ability-glossary-srd.AWvNPE4U0kEJSL1T]`|
-|[Swallow Whole](bestiary-ability-glossary-srd/uJSseLa57HZYSMUu.htm)|Gober|`@Compendium[pf2e.bestiary-ability-glossary-srd.uJSseLa57HZYSMUu]`|
-|[Swarm Mind](bestiary-ability-glossary-srd/baA0nSMhQyFyJIia.htm)|Esprit de la nuée|`@Compendium[pf2e.bestiary-ability-glossary-srd.baA0nSMhQyFyJIia]`|
-|[Telepathy](bestiary-ability-glossary-srd/kdhbPaBMK1d1fpbA.htm)|Télépathie|`@Compendium[pf2e.bestiary-ability-glossary-srd.kdhbPaBMK1d1fpbA]`|
-|[Thoughtsense](bestiary-ability-glossary-srd/JcaIJLGGmst79f1Y.htm)|Perception des pensées|`@Compendium[pf2e.bestiary-ability-glossary-srd.JcaIJLGGmst79f1Y]`|
-|[Throw Rock](bestiary-ability-glossary-srd/a0tx6exmB9v9CUsj.htm)|Projection de rochers|`@Compendium[pf2e.bestiary-ability-glossary-srd.a0tx6exmB9v9CUsj]`|
-|[Trample](bestiary-ability-glossary-srd/UNah0bxXxkcZjxO3.htm)|Piétinement|`@Compendium[pf2e.bestiary-ability-glossary-srd.UNah0bxXxkcZjxO3]`|
-|[Tremorsense](bestiary-ability-glossary-srd/j2wsK6IsW5yMW1jW.htm)|Perception des vibrations|`@Compendium[pf2e.bestiary-ability-glossary-srd.j2wsK6IsW5yMW1jW]`|
-|[Troop Defenses](bestiary-ability-glossary-srd/RJbI07QSiYp0SF9A.htm)|Défenses des troupes|`@Compendium[pf2e.bestiary-ability-glossary-srd.RJbI07QSiYp0SF9A]`|
-|[Wavesense](bestiary-ability-glossary-srd/VdSMQ6yRZ3YXNXHL.htm)|Perception des ondes|`@Compendium[pf2e.bestiary-ability-glossary-srd.VdSMQ6yRZ3YXNXHL]`|
-
-
 ## Archétypes
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
@@ -540,355 +441,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Strix](ancestries/GXcC6oVa5quzgNHD.htm)|Strix|`@Compendium[pf2e.ancestries.GXcC6oVa5quzgNHD]`|
 |[Tengu](ancestries/18xDKYPDBLEv2myX.htm)|Tengu|`@Compendium[pf2e.ancestries.18xDKYPDBLEv2myX]`|
 |[[Empty Ancestry]](ancestries/mDtlRBBUWqUzYSHs.htm)|[Ascendance vierge]|`@Compendium[pf2e.ancestries.mDtlRBBUWqUzYSHs]`|
-
-
-## Ascendances (aptitudes)
-
-| Nom (EN)   | Nom (FR)    | Lien compendium |
-|------------|-------------|-----------------|
-|[Aquatic Adaptation](ancestryfeatures/feat-00-AzGJN1wwLFaLJIeo.htm)|Adaptation aquatique|`@Compendium[pf2e.ancestryfeatures.AzGJN1wwLFaLJIeo]`|
-|[Automaton Core](ancestryfeatures/feat-00-RYrY7o0i6s7KW9io.htm)|Noyau automate|`@Compendium[pf2e.ancestryfeatures.RYrY7o0i6s7KW9io]`|
-|[Bite](ancestryfeatures/feat-00-jatezR4bENwhC6GL.htm)|Morsure|`@Compendium[pf2e.ancestryfeatures.jatezR4bENwhC6GL]`|
-|[Blunt Snout](ancestryfeatures/feat-00-dtNsRAhCRfteA1ev.htm)|Museau court|`@Compendium[pf2e.ancestryfeatures.dtNsRAhCRfteA1ev]`|
-|[Change Shape](ancestryfeatures/feat-00-Ymg6WqeJqOyLJLEr.htm)|Changer de forme|`@Compendium[pf2e.ancestryfeatures.Ymg6WqeJqOyLJLEr]`|
-|[Change Shape (Anadi)](ancestryfeatures/feat-00-R6rcqRsBR0KIho5n.htm)|Changement de forme (anadi)|`@Compendium[pf2e.ancestryfeatures.R6rcqRsBR0KIho5n]`|
-|[Clan Dagger](ancestryfeatures/feat-00-Eyuqu6eIaoGCjnMv.htm)|Dague de clan|`@Compendium[pf2e.ancestryfeatures.Eyuqu6eIaoGCjnMv]`|
-|[Claws](ancestryfeatures/feat-00-NfkxFWUeG6g41e8w.htm)|Griffes|`@Compendium[pf2e.ancestryfeatures.NfkxFWUeG6g41e8w]`|
-|[Constructed](ancestryfeatures/feat-00-mnhmhOKWLiOD0lev.htm)|Construit|`@Compendium[pf2e.ancestryfeatures.mnhmhOKWLiOD0lev]`|
-|[Constructed (Poppet)](ancestryfeatures/feat-00-BHPDeqQHqi7ukCUW.htm)|Construit (poupée)|`@Compendium[pf2e.ancestryfeatures.BHPDeqQHqi7ukCUW]`|
-|[Constructed Body](ancestryfeatures/feat-00-E28a45fUC2OkXZXY.htm)|Corps artificiel|`@Compendium[pf2e.ancestryfeatures.E28a45fUC2OkXZXY]`|
-|[Darkvision](ancestryfeatures/feat-00-HHVQDp61ehcpdiU8.htm)|Vision dans le noir|`@Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]`|
-|[Draconic Exemplar](ancestryfeatures/feat-00-egpiSWBrNBb1Fmig.htm)|Modèle draconique|`@Compendium[pf2e.ancestryfeatures.egpiSWBrNBb1Fmig]`|
-|[Emotionally Unaware](ancestryfeatures/feat-00-uSAYmU7PO2QoOWhB.htm)|Émotionnellement non préparé|`@Compendium[pf2e.ancestryfeatures.uSAYmU7PO2QoOWhB]`|
-|[Eyes in Back](ancestryfeatures/feat-00-AUlPRySCqE6o6LHH.htm)|Yeux dans le dos|`@Compendium[pf2e.ancestryfeatures.AUlPRySCqE6o6LHH]`|
-|[Fangs](ancestryfeatures/feat-00-dCp517IUFJk8JvQc.htm)|Crocs|`@Compendium[pf2e.ancestryfeatures.dCp517IUFJk8JvQc]`|
-|[Flammable](ancestryfeatures/feat-00-qKh6MxgE0cwde6mC.htm)|Inflammable|`@Compendium[pf2e.ancestryfeatures.qKh6MxgE0cwde6mC]`|
-|[Greater Darkvision](ancestryfeatures/feat-00-vPhPgzpRjYDMT9Kq.htm)|Vision dans le noir supérieure|`@Compendium[pf2e.ancestryfeatures.vPhPgzpRjYDMT9Kq]`|
-|[Hydration](ancestryfeatures/feat-00-vt67b8uoNEbskcBv.htm)|Hydratation|`@Compendium[pf2e.ancestryfeatures.vt67b8uoNEbskcBv]`|
-|[Keen Eyes](ancestryfeatures/feat-00-y1EmCv2cEb5hXBwx.htm)|Yeux perçants|`@Compendium[pf2e.ancestryfeatures.y1EmCv2cEb5hXBwx]`|
-|[Land on Your Feet](ancestryfeatures/feat-00-sL1hHxrHdMNIZVAd.htm)|Sur vos pattes|`@Compendium[pf2e.ancestryfeatures.sL1hHxrHdMNIZVAd]`|
-|[Low-Light Vision](ancestryfeatures/feat-00-DRtaqOHXTRtGRIUT.htm)|Vision nocturne|`@Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]`|
-|[Magical Strikes](ancestryfeatures/feat-00-TRw4oBZBFZG96jKO.htm)|Frappes magiques|`@Compendium[pf2e.ancestryfeatures.TRw4oBZBFZG96jKO]`|
-|[Plant Nourishment](ancestryfeatures/feat-00-Sm3tKetM6kddTio3.htm)|Alimentation des plantes|`@Compendium[pf2e.ancestryfeatures.Sm3tKetM6kddTio3]`|
-|[Sharp Beak](ancestryfeatures/feat-00-qJD3PJdoSXFrZEwr.htm)|Bec aiguisé|`@Compendium[pf2e.ancestryfeatures.qJD3PJdoSXFrZEwr]`|
-|[Stonestep Shisk](ancestryfeatures/feat-00-GNSTUFBk2bU28GIl.htm)|Shisk pied de pierre|`@Compendium[pf2e.ancestryfeatures.GNSTUFBk2bU28GIl]`|
-|[Sunlight Healing](ancestryfeatures/feat-00-BgHrucbZ9TH92RDv.htm)|Guérison par le soleil|`@Compendium[pf2e.ancestryfeatures.BgHrucbZ9TH92RDv]`|
-|[Swim](ancestryfeatures/feat-00-kMgyOI4kBIEtFvhb.htm)|Nage|`@Compendium[pf2e.ancestryfeatures.kMgyOI4kBIEtFvhb]`|
-|[Unusual Anatomy](ancestryfeatures/feat-00-mEDTJi7d1bTEiwUD.htm)|Anatomie inhabituelle|`@Compendium[pf2e.ancestryfeatures.mEDTJi7d1bTEiwUD]`|
-|[Wings](ancestryfeatures/feat-00-oCIO7UJqbpTkI62l.htm)|Ailes|`@Compendium[pf2e.ancestryfeatures.oCIO7UJqbpTkI62l]`|
-
-
-## Backgrounds
-
-| Nom (EN)   | Nom (FR)    | Lien compendium |
-|------------|-------------|-----------------|
-|[Abadar's Avenger](backgrounds/LHk50lz5Kk5ZYTeo.htm)|Vengeur d'Abadar|`@Compendium[pf2e.backgrounds.LHk50lz5Kk5ZYTeo]`|
-|[Academy Dropout](backgrounds/1bjReaLqCD9pvBJ3.htm)|Décrocheur d'académie|`@Compendium[pf2e.backgrounds.1bjReaLqCD9pvBJ3]`|
-|[Acolyte](backgrounds/CAjQrHZZbALE7Qjy.htm)|Acolyte|`@Compendium[pf2e.backgrounds.CAjQrHZZbALE7Qjy]`|
-|[Acrobat](backgrounds/IFHYbU6Nu8BiTsRa.htm)|Acrobate|`@Compendium[pf2e.backgrounds.IFHYbU6Nu8BiTsRa]`|
-|[Aerialist](backgrounds/qY4IUwVWIKPSFskP.htm)|Trapéziste|`@Compendium[pf2e.backgrounds.qY4IUwVWIKPSFskP]`|
-|[Aiudara Seeker](backgrounds/3kXTGUvodNMnJTxb.htm)|Chercheur d'aiudara|`@Compendium[pf2e.backgrounds.3kXTGUvodNMnJTxb]`|
-|[Alkenstar Outlaw](backgrounds/fyKPDYFeIrgzADJB.htm)|Desperado d'Alkenastre|`@Compendium[pf2e.backgrounds.fyKPDYFeIrgzADJB]`|
-|[Alkenstar Sojourner](backgrounds/Yuwr2pT3z3WYTX9T.htm)|Visiteur d'Alkenastre|`@Compendium[pf2e.backgrounds.Yuwr2pT3z3WYTX9T]`|
-|[Alkenstar Tinker](backgrounds/0c9Np7Yq5JSxZ6Tb.htm)|Bricoleur d'Alkenastre|`@Compendium[pf2e.backgrounds.0c9Np7Yq5JSxZ6Tb]`|
-|[Amnesiac](backgrounds/0ZfBP7Tp2P3WN7Dp.htm)|Amnésique|`@Compendium[pf2e.backgrounds.0ZfBP7Tp2P3WN7Dp]`|
-|[Animal Whisperer](backgrounds/5RGLAPi5sLykRcmm.htm)|Dresseur|`@Compendium[pf2e.backgrounds.5RGLAPi5sLykRcmm]`|
-|[Animal Wrangler (Athletics)](backgrounds/HNp0uNsIx3BNBcr5.htm)|Dresseur d'animaux (Athlétisme)|`@Compendium[pf2e.backgrounds.HNp0uNsIx3BNBcr5]`|
-|[Animal Wrangler (Nature)](backgrounds/TPZ0ev0Tl5sveZuM.htm)|Dresseur d'animal (Nature)|`@Compendium[pf2e.backgrounds.TPZ0ev0Tl5sveZuM]`|
-|[Anti-Magical](backgrounds/byyceQSVT0H5GfNB.htm)|Anti-Magie|`@Compendium[pf2e.backgrounds.byyceQSVT0H5GfNB]`|
-|[Anti-Tech Activist](backgrounds/MgiZ25JdT6O3fLbO.htm)|Activiste anti-techno|`@Compendium[pf2e.backgrounds.MgiZ25JdT6O3fLbO]`|
-|[Archaeologist](backgrounds/IoBhge83aYpq0pPV.htm)|Archéologue|`@Compendium[pf2e.backgrounds.IoBhge83aYpq0pPV]`|
-|[Artisan](backgrounds/6irgRkKZ8tRZzLvs.htm)|Artisan|`@Compendium[pf2e.backgrounds.6irgRkKZ8tRZzLvs]`|
-|[Artist](backgrounds/y9OyNsxGfmjqdcP0.htm)|Artiste|`@Compendium[pf2e.backgrounds.y9OyNsxGfmjqdcP0]`|
-|[Aspiring Free-Captain](backgrounds/ap25MWBuFGwwhYIG.htm)|Aspirant Capitaine-libre|`@Compendium[pf2e.backgrounds.ap25MWBuFGwwhYIG]`|
-|[Aspiring River Monarch](backgrounds/gfklP8ub45R4wXKe.htm)|Aspirant Monarque du Fleuve|`@Compendium[pf2e.backgrounds.gfklP8ub45R4wXKe]`|
-|[Astrologer](backgrounds/3YQ1Wcjzk8ftoyo7.htm)|Astrologue|`@Compendium[pf2e.backgrounds.3YQ1Wcjzk8ftoyo7]`|
-|[Attention Addict](backgrounds/nXnaV9JwUG1N2dsg.htm)|Avide de notoriété|`@Compendium[pf2e.backgrounds.nXnaV9JwUG1N2dsg]`|
-|[Atteran Rancher](backgrounds/eYY3bX7xSH7aicqT.htm)|Rancher Atteran|`@Compendium[pf2e.backgrounds.eYY3bX7xSH7aicqT]`|
-|[Back-Alley Doctor](backgrounds/0wzTmGUb8yvzMrO0.htm)|Docteur d'arrière salle|`@Compendium[pf2e.backgrounds.0wzTmGUb8yvzMrO0]`|
-|[Bandit](backgrounds/6abqATPjYoF946LD.htm)|Bandit|`@Compendium[pf2e.backgrounds.6abqATPjYoF946LD]`|
-|[Barber](backgrounds/wudDO9OEsRjJsqhU.htm)|Barbier|`@Compendium[pf2e.backgrounds.wudDO9OEsRjJsqhU]`|
-|[Barkeep](backgrounds/a8BmnIIUR7AYog5B.htm)|Tavernier|`@Compendium[pf2e.backgrounds.a8BmnIIUR7AYog5B]`|
-|[Barker](backgrounds/z4cCsOT36MB7xldR.htm)|Aboyeur|`@Compendium[pf2e.backgrounds.z4cCsOT36MB7xldR]`|
-|[Barrister](backgrounds/Phvnfdmz4bB7jrI3.htm)|Avocat|`@Compendium[pf2e.backgrounds.Phvnfdmz4bB7jrI3]`|
-|[Bekyar Restorer](backgrounds/9LnXsMRwYcxi7nDO.htm)|Restaurateur Bekyar|`@Compendium[pf2e.backgrounds.9LnXsMRwYcxi7nDO]`|
-|[Belkzen Slayer](backgrounds/EJRWGsPWzAhixuvQ.htm)|Tueur du Belkzen|`@Compendium[pf2e.backgrounds.EJRWGsPWzAhixuvQ]`|
-|[Bellflower Agent](backgrounds/6K6jJkjZ2MJYqQ6h.htm)|Agent de la Campanule|`@Compendium[pf2e.backgrounds.6K6jJkjZ2MJYqQ6h]`|
-|[Bibliophile](backgrounds/xvz5F7iYBWEIjz0r.htm)|Bibliophile|`@Compendium[pf2e.backgrounds.xvz5F7iYBWEIjz0r]`|
-|[Black Market Smuggler](backgrounds/I0vuIFypx8ADSJQC.htm)|Contrebandier du Marché noir|`@Compendium[pf2e.backgrounds.I0vuIFypx8ADSJQC]`|
-|[Blessed](backgrounds/9pK15dQJVypSCjzO.htm)|Béni|`@Compendium[pf2e.backgrounds.9pK15dQJVypSCjzO]`|
-|[Blow-In (Deception)](backgrounds/tsMvqxJhl6xgcDaU.htm)|Nouveau venu (Duperie)|`@Compendium[pf2e.backgrounds.tsMvqxJhl6xgcDaU]`|
-|[Blow-In (Thievery)](backgrounds/3hKnDmRXtF3LGmjy.htm)|Nouveau venu (Vol)|`@Compendium[pf2e.backgrounds.3hKnDmRXtF3LGmjy]`|
-|[Bonuwat Wavetouched](backgrounds/kLjqmylGOXeQ5o5Y.htm)|Bonuwat Touché par les vagues|`@Compendium[pf2e.backgrounds.kLjqmylGOXeQ5o5Y]`|
-|[Bookkeeper](backgrounds/o1lhSKOpKPamTITI.htm)|Comptable|`@Compendium[pf2e.backgrounds.o1lhSKOpKPamTITI]`|
-|[Bounty Hunter](backgrounds/a9Q4iIiAZryVWN27.htm)|Chasseur de primes|`@Compendium[pf2e.backgrounds.a9Q4iIiAZryVWN27]`|
-|[Bright Lion](backgrounds/JfGVkZkaoz2lnmov.htm)|Lion Brillant|`@Compendium[pf2e.backgrounds.JfGVkZkaoz2lnmov]`|
-|[Broken Tusk Recruiter](backgrounds/LWoPiYHAyLp8pvYx.htm)|Recruteur de la Défense brisée|`@Compendium[pf2e.backgrounds.LWoPiYHAyLp8pvYx]`|
-|[Butcher](backgrounds/nhQKn1tVV6PKCurq.htm)|"Boucher"|`@Compendium[pf2e.backgrounds.nhQKn1tVV6PKCurq]`|
-|[Cannoneer](backgrounds/8CLTXqyjdzEMKnZC.htm)|Cannonier|`@Compendium[pf2e.backgrounds.8CLTXqyjdzEMKnZC]`|
-|[Charlatan](backgrounds/t0t1ck8iKpaI4o5W.htm)|Charlatan|`@Compendium[pf2e.backgrounds.t0t1ck8iKpaI4o5W]`|
-|[Chelish Rebel](backgrounds/tA0nggrWfBEhvsKA.htm)|Rebelle chélaxien|`@Compendium[pf2e.backgrounds.tA0nggrWfBEhvsKA]`|
-|[Child of Westcrown](backgrounds/uNvD4XK1kdvGjQVo.htm)|Enfant de Couronne d'uuest|`@Compendium[pf2e.backgrounds.uNvD4XK1kdvGjQVo]`|
-|[Child of the Puddles](backgrounds/irDibuV3Wi7T43sL.htm)|Marmot des flaques|`@Compendium[pf2e.backgrounds.irDibuV3Wi7T43sL]`|
-|[Chosen One](backgrounds/w2GSRC5uMcSUfPGJ.htm)|Élu|`@Compendium[pf2e.backgrounds.w2GSRC5uMcSUfPGJ]`|
-|[Circuit Judge](backgrounds/2TImvKwcFLDVhzUC.htm)|Juge itinérant|`@Compendium[pf2e.backgrounds.2TImvKwcFLDVhzUC]`|
-|[Circus Born](backgrounds/YJpEdmSOjlA2QZeu.htm)|Circassien|`@Compendium[pf2e.backgrounds.YJpEdmSOjlA2QZeu]`|
-|[Clockfighter](backgrounds/dSYel8ABTevOc5YA.htm)|Mécanicien d'arène|`@Compendium[pf2e.backgrounds.dSYel8ABTevOc5YA]`|
-|[Clockwork Researcher](backgrounds/xKEQvxDMHWRUkL6i.htm)|Chercheur en mécanique|`@Compendium[pf2e.backgrounds.xKEQvxDMHWRUkL6i]`|
-|[Clown](backgrounds/DHrzVqB8f1ed3zTk.htm)|Clown|`@Compendium[pf2e.backgrounds.DHrzVqB8f1ed3zTk]`|
-|[Codebreaker](backgrounds/4XpWgGejwb2L6WpK.htm)|Cryptographe|`@Compendium[pf2e.backgrounds.4XpWgGejwb2L6WpK]`|
-|[Cook](backgrounds/3gN09dOT2hMwGcK2.htm)|Cuisinier|`@Compendium[pf2e.backgrounds.3gN09dOT2hMwGcK2]`|
-|[Courier](backgrounds/DBxOUwM7qhGH8MrF.htm)|Garçon de course|`@Compendium[pf2e.backgrounds.DBxOUwM7qhGH8MrF]`|
-|[Criminal](backgrounds/9lVw1JGl5ser6626.htm)|Criminel|`@Compendium[pf2e.backgrounds.9lVw1JGl5ser6626]`|
-|[Cultist](backgrounds/fuTLDmihr9Z9e5wa.htm)|Cultiste|`@Compendium[pf2e.backgrounds.fuTLDmihr9Z9e5wa]`|
-|[Cursed](backgrounds/j2G71vQahw1DiWpO.htm)|Maudit|`@Compendium[pf2e.backgrounds.j2G71vQahw1DiWpO]`|
-|[Cursed Family](backgrounds/ajcpRVb5EG00l7Y4.htm)|Famille maudite|`@Compendium[pf2e.backgrounds.ajcpRVb5EG00l7Y4]`|
-|[Deckhand](backgrounds/IObZEUz8wneEMgR3.htm)|Homme de pont|`@Compendium[pf2e.backgrounds.IObZEUz8wneEMgR3]`|
-|[Demon Slayer](backgrounds/NywLl1XMQmzA6rP7.htm)|Tueur de démons|`@Compendium[pf2e.backgrounds.NywLl1XMQmzA6rP7]`|
-|[Deputy](backgrounds/KC5oI1bs6Wx8h91u.htm)|Adjoint|`@Compendium[pf2e.backgrounds.KC5oI1bs6Wx8h91u]`|
-|[Desert Tracker](backgrounds/2qH61dLeaqgNOdOp.htm)|Pisteur du désert|`@Compendium[pf2e.backgrounds.2qH61dLeaqgNOdOp]`|
-|[Detective](backgrounds/dVRDDjT4FOu6uLDR.htm)|Détective|`@Compendium[pf2e.backgrounds.dVRDDjT4FOu6uLDR]`|
-|[Diobel Pearl Diver](backgrounds/3wLnNwWnZ2dHIbV4.htm)|Pêcheur de perles de Diobel|`@Compendium[pf2e.backgrounds.3wLnNwWnZ2dHIbV4]`|
-|[Discarded Duplicate](backgrounds/7fCZTzmv5I2dI4sr.htm)|Doublure rejetée|`@Compendium[pf2e.backgrounds.7fCZTzmv5I2dI4sr]`|
-|[Disciple of the Gear](backgrounds/V9VsomfjbPQNfaSL.htm)|Disciple de l'engrenage|`@Compendium[pf2e.backgrounds.V9VsomfjbPQNfaSL]`|
-|[Dragon Scholar](backgrounds/GPI5kNu0xfom9kKa.htm)|Spécialiste des dragons|`@Compendium[pf2e.backgrounds.GPI5kNu0xfom9kKa]`|
-|[Dreamer of the Verdant Moon](backgrounds/vBPu7RwNXGDQ1ThL.htm)|Rêveur de la lune verdoyante|`@Compendium[pf2e.backgrounds.vBPu7RwNXGDQ1ThL]`|
-|[Driver](backgrounds/kmhZZgR7KlBzRBX0.htm)|Pilote|`@Compendium[pf2e.backgrounds.kmhZZgR7KlBzRBX0]`|
-|[Droskari Disciple](backgrounds/XHY0xrSSbX0cTJKK.htm)|Disciple de Droskar|`@Compendium[pf2e.backgrounds.XHY0xrSSbX0cTJKK]`|
-|[Early Explorer](backgrounds/p27PSjFtHAWikKaw.htm)|Explorateur précoce|`@Compendium[pf2e.backgrounds.p27PSjFtHAWikKaw]`|
-|[Eidolon Contact (Arcana)](backgrounds/W6MiTPAjlRxO8TFq.htm)|Contact d'Eidolon (Arcanes)|`@Compendium[pf2e.backgrounds.W6MiTPAjlRxO8TFq]`|
-|[Eidolon Contact (Nature)](backgrounds/6PGFGpkNQv6uuhO3.htm)|Contact d'Eidolon (Nature)|`@Compendium[pf2e.backgrounds.6PGFGpkNQv6uuhO3]`|
-|[Eidolon Contact (Occultism)](backgrounds/bvPPc10SYahijgLr.htm)|Contact d'Eidolon (Occultisme)|`@Compendium[pf2e.backgrounds.bvPPc10SYahijgLr]`|
-|[Eidolon Contact (Religion)](backgrounds/58aWxmagtsuO0jeP.htm)|Contact d'Eidolon (Religion)|`@Compendium[pf2e.backgrounds.58aWxmagtsuO0jeP]`|
-|[Eldritch Anatomist](backgrounds/MiRWGXZnEdurMvVf.htm)|Anatomiste mystique|`@Compendium[pf2e.backgrounds.MiRWGXZnEdurMvVf]`|
-|[Emancipated](backgrounds/oEm937kNrP5sXxFD.htm)|Émancipé|`@Compendium[pf2e.backgrounds.oEm937kNrP5sXxFD]`|
-|[Emissary](backgrounds/3WPo7m6rJQh9L7MN.htm)|Émissaire|`@Compendium[pf2e.backgrounds.3WPo7m6rJQh9L7MN]`|
-|[Energy Scarred](backgrounds/xbyQ1RAF6x4ceXLf.htm)|Scarifié d'énergie|`@Compendium[pf2e.backgrounds.xbyQ1RAF6x4ceXLf]`|
-|[Entertainer](backgrounds/i4hN6OYv8qmi3GLW.htm)|Bateleur|`@Compendium[pf2e.backgrounds.i4hN6OYv8qmi3GLW]`|
-|[Ex-Con Token Guard](backgrounds/CKU1sbFofcwZUJMx.htm)|Garde des Pièces ancien taulard|`@Compendium[pf2e.backgrounds.CKU1sbFofcwZUJMx]`|
-|[Ex-Mendevian Crusader](backgrounds/ynObDI0VbZ4sqeMI.htm)|Ancien croisé du Mendev|`@Compendium[pf2e.backgrounds.ynObDI0VbZ4sqeMI]`|
-|[Faction Opportunist](backgrounds/HKRcQO8Xj7xzBxAw.htm)|Opportuniste des Factions|`@Compendium[pf2e.backgrounds.HKRcQO8Xj7xzBxAw]`|
-|[False Medium](backgrounds/nAe65lvsOJAIHGGT.htm)|Faux médium|`@Compendium[pf2e.backgrounds.nAe65lvsOJAIHGGT]`|
-|[Farmhand](backgrounds/SOmJyAtPOokesZoe.htm)|Ouvrier agricole|`@Compendium[pf2e.backgrounds.SOmJyAtPOokesZoe]`|
-|[Farmsteader](backgrounds/mcL4WLO2yxBGlvuG.htm)|Paysan|`@Compendium[pf2e.backgrounds.mcL4WLO2yxBGlvuG]`|
-|[Feral Child](backgrounds/Q2brdDtEoI3cmpuD.htm)|Enfant sauvage|`@Compendium[pf2e.backgrounds.Q2brdDtEoI3cmpuD]`|
-|[Feybound](backgrounds/ppBGlWl0UkBKkJgE.htm)|Lié avec les fées|`@Compendium[pf2e.backgrounds.ppBGlWl0UkBKkJgE]`|
-|[Field Medic](backgrounds/FKHut73XDUGTnKkP.htm)|Médecin militaire|`@Compendium[pf2e.backgrounds.FKHut73XDUGTnKkP]`|
-|[Finadar Leshy](backgrounds/NZY0r4Csjul6eVPp.htm)|Léchi de Finadar|`@Compendium[pf2e.backgrounds.NZY0r4Csjul6eVPp]`|
-|[Final Blade Survivor](backgrounds/tQ9t7uIssRCR2y3W.htm)|Survivant de la Lame finale|`@Compendium[pf2e.backgrounds.tQ9t7uIssRCR2y3W]`|
-|[Fireworks Performer](backgrounds/2lk5NOcu1aUglUdK.htm)|Artiste de feux d'artifice|`@Compendium[pf2e.backgrounds.2lk5NOcu1aUglUdK]`|
-|[Fogfen Tale-Teller](backgrounds/3M2FRDlunjFshzbq.htm)|Raconteur d'histoires des Marais brumeux|`@Compendium[pf2e.backgrounds.3M2FRDlunjFshzbq]`|
-|[Former Aspis Agent](backgrounds/vgin9ff2sUBMpuaI.htm)|Ancien agent de l'Aspis|`@Compendium[pf2e.backgrounds.vgin9ff2sUBMpuaI]`|
-|[Fortune Teller](backgrounds/3frMfODIYFeqTl2k.htm)|Voyant|`@Compendium[pf2e.backgrounds.3frMfODIYFeqTl2k]`|
-|[Freed Slave of Absalom](backgrounds/a5dCSuAwGE2hqQjj.htm)|Esclave libéré d'Absalom|`@Compendium[pf2e.backgrounds.a5dCSuAwGE2hqQjj]`|
-|[Gambler](backgrounds/89LEOv97ZwsjnhNx.htm)|Parieur|`@Compendium[pf2e.backgrounds.89LEOv97ZwsjnhNx]`|
-|[Geb Crusader](backgrounds/bDyb0k0rTfDTyhd8.htm)|Croisé du Geb|`@Compendium[pf2e.backgrounds.bDyb0k0rTfDTyhd8]`|
-|[Genie-Blessed](backgrounds/LoeTd2SS6jfEgo1H.htm)|Béni des génies|`@Compendium[pf2e.backgrounds.LoeTd2SS6jfEgo1H]`|
-|[Gladiator](backgrounds/88WyCqU5x1eJ0MK2.htm)|Gladiateur|`@Compendium[pf2e.backgrounds.88WyCqU5x1eJ0MK2]`|
-|[Goblinblood Orphan](backgrounds/4fBIXtSVSRYn2ZGi.htm)|Orphelin des guerres du Sang gobelin|`@Compendium[pf2e.backgrounds.4fBIXtSVSRYn2ZGi]`|
-|[Godless Graycloak](backgrounds/1VdLr4Qm8fv1m4tM.htm)|Athéiste des Capes grises|`@Compendium[pf2e.backgrounds.1VdLr4Qm8fv1m4tM]`|
-|[Goldhand Arms Dealer](backgrounds/B6kNrX1y8XNbQYea.htm)|Marchand d'armes de la loge de la Main d'or|`@Compendium[pf2e.backgrounds.B6kNrX1y8XNbQYea]`|
-|[Grand Council Bureaucrat](backgrounds/yK40c3082U30BUX5.htm)|Bureaucrate du Grand conseil|`@Compendium[pf2e.backgrounds.yK40c3082U30BUX5]`|
-|[Grizzled Muckrucker](backgrounds/xCCvT9tprRQVFVDq.htm)|Fangeux grisonnant|`@Compendium[pf2e.backgrounds.xCCvT9tprRQVFVDq]`|
-|[Guard](backgrounds/6UmhTxOQeqFnppxx.htm)|Garde|`@Compendium[pf2e.backgrounds.6UmhTxOQeqFnppxx]`|
-|[Gunsmith](backgrounds/5dezuNcZJ6wfecnG.htm)|Armurier|`@Compendium[pf2e.backgrounds.5dezuNcZJ6wfecnG]`|
-|[Harbor Guard Moonlighter](backgrounds/lCR8gyEZbwqh3RWi.htm)|Noctambule de la Garde du port|`@Compendium[pf2e.backgrounds.lCR8gyEZbwqh3RWi]`|
-|[Harrow-Led (Occultism)](backgrounds/gv6RoDRYqT7iUX5C.htm)|Déterminé par le Tourment (Occultisme)|`@Compendium[pf2e.backgrounds.gv6RoDRYqT7iUX5C]`|
-|[Harrow-Led (Performance)](backgrounds/RgFOKlEmMIw2eZpo.htm)|Déterminé par le Tourment (Représentation)|`@Compendium[pf2e.backgrounds.RgFOKlEmMIw2eZpo]`|
-|[Harrow-Led (Society)](backgrounds/HV4MLfv7JaqoBac5.htm)|Déterminé par le Tourment (Société)|`@Compendium[pf2e.backgrounds.HV4MLfv7JaqoBac5]`|
-|[Haunted](backgrounds/pGOlKz4Krnh7MyUM.htm)|Hanté|`@Compendium[pf2e.backgrounds.pGOlKz4Krnh7MyUM]`|
-|[Haunting Vision](backgrounds/0z0PSizHviOehdJF.htm)|Hanté par une vision|`@Compendium[pf2e.backgrounds.0z0PSizHviOehdJF]`|
-|[Hellknight Historian](backgrounds/vNWSzv36L1GBPPoc.htm)|Historien des chevaliers infernaux|`@Compendium[pf2e.backgrounds.vNWSzv36L1GBPPoc]`|
-|[Herbalist](backgrounds/ZdhPKEY9FfaOS8Wy.htm)|Herboriste|`@Compendium[pf2e.backgrounds.ZdhPKEY9FfaOS8Wy]`|
-|[Hermean Expatriate](backgrounds/bh6O2Ad5mkYwRngM.htm)|Expatrié d'Herméa|`@Compendium[pf2e.backgrounds.bh6O2Ad5mkYwRngM]`|
-|[Hermean Heritor](backgrounds/mxJRdRSMsyZfBf5c.htm)|Héritier d'Herméa|`@Compendium[pf2e.backgrounds.mxJRdRSMsyZfBf5c]`|
-|[Hermit (Nature)](backgrounds/kdkbDdvgw6KAKVeM.htm)|Ermite (Nature)|`@Compendium[pf2e.backgrounds.kdkbDdvgw6KAKVeM]`|
-|[Hermit (Occultism)](backgrounds/4SSKsyD72AYYpzgm.htm)|Ermite (Occultisme)|`@Compendium[pf2e.backgrounds.4SSKsyD72AYYpzgm]`|
-|[Hired Killer](backgrounds/1M91pTjatEejBjEl.htm)|Tueur à gages|`@Compendium[pf2e.backgrounds.1M91pTjatEejBjEl]`|
-|[Hookclaw Digger](backgrounds/aWAfj7bhTZM2oK81.htm)|Creuseur Crochetgriffu|`@Compendium[pf2e.backgrounds.aWAfj7bhTZM2oK81]`|
-|[Hounded Thief](backgrounds/T537wo3aem8GvnmR.htm)|Voleur pourchassé|`@Compendium[pf2e.backgrounds.T537wo3aem8GvnmR]`|
-|[Hunter](backgrounds/5Z3cLEpsx9nHVwhM.htm)|Chasseur|`@Compendium[pf2e.backgrounds.5Z3cLEpsx9nHVwhM]`|
-|[Inlander](backgrounds/6vsoyCZKqxG0lVe8.htm)|Habitant de l'intérieur des terres|`@Compendium[pf2e.backgrounds.6vsoyCZKqxG0lVe8]`|
-|[Insurgent](backgrounds/HdnmIaLadhRfZq8X.htm)|Insurgé|`@Compendium[pf2e.backgrounds.HdnmIaLadhRfZq8X]`|
-|[Iolite Trainee Hobgoblin](backgrounds/fML6YrXYDqQy0g7L.htm)|Recrue Iolite Hobgobeline|`@Compendium[pf2e.backgrounds.fML6YrXYDqQy0g7L]`|
-|[Issian Partisan](backgrounds/8UEKgUkagUDixkL2.htm)|Partisan Issien|`@Compendium[pf2e.backgrounds.8UEKgUkagUDixkL2]`|
-|[Junk Collector](backgrounds/HSNUDvPgO1NESW7S.htm)|Collectionneur de déchets|`@Compendium[pf2e.backgrounds.HSNUDvPgO1NESW7S]`|
-|[Junker](backgrounds/vTyG1bQkEENZHroY.htm)|Camelot|`@Compendium[pf2e.backgrounds.vTyG1bQkEENZHroY]`|
-|[Kalistrade Follower](backgrounds/hPx0xiv00GQqPWUH.htm)|Suivant de Kalistrade|`@Compendium[pf2e.backgrounds.hPx0xiv00GQqPWUH]`|
-|[Kyonin Emissary](backgrounds/pBX18FI1grWwkWjk.htm)|Émissaire du Kyonin|`@Compendium[pf2e.backgrounds.pBX18FI1grWwkWjk]`|
-|[Laborer](backgrounds/2bzqI0D4J3LUi8nq.htm)|Manœuvre|`@Compendium[pf2e.backgrounds.2bzqI0D4J3LUi8nq]`|
-|[Lastwall Survivor](backgrounds/ffcNsTUBsxFwbNgJ.htm)|Survivant du Dernier-Rempart|`@Compendium[pf2e.backgrounds.ffcNsTUBsxFwbNgJ]`|
-|[Learned Guard Prodigy (Arcana)](backgrounds/IbF2EGUlnTsyqG44.htm)|Prodige de la Garde instruite (Arcanes)|`@Compendium[pf2e.backgrounds.IbF2EGUlnTsyqG44]`|
-|[Learned Guard Prodigy (Occultism)](backgrounds/nnBAO4NwdINCGQFK.htm)|Prodige de la Garde Instruite (Occultisme)|`@Compendium[pf2e.backgrounds.nnBAO4NwdINCGQFK]`|
-|[Legendary Parents](backgrounds/84uVpQFCqn0Atfpo.htm)|Parents légendaires|`@Compendium[pf2e.backgrounds.84uVpQFCqn0Atfpo]`|
-|[Lesser Scion](backgrounds/BBeJA7n0xpSsBCGq.htm)|Benjamin|`@Compendium[pf2e.backgrounds.BBeJA7n0xpSsBCGq]`|
-|[Local Scion](backgrounds/4a2sVO0o2mMTydN8.htm)|Enfant du pays|`@Compendium[pf2e.backgrounds.4a2sVO0o2mMTydN8]`|
-|[Lost and Alone](backgrounds/wU1qd8tZNcYn43y2.htm)|Perdu et seul|`@Compendium[pf2e.backgrounds.wU1qd8tZNcYn43y2]`|
-|[Lumber Consortium Laborer](backgrounds/uJcFanGjVranEarv.htm)|Ouvrier du Consortium du bois|`@Compendium[pf2e.backgrounds.uJcFanGjVranEarv]`|
-|[Magaambya Academic (Arcana)](backgrounds/5ITjkJwZ78YnBXdt.htm)|Étudiant du Magaambya (Arcanes)|`@Compendium[pf2e.backgrounds.5ITjkJwZ78YnBXdt]`|
-|[Magaambya Academic (Nature)](backgrounds/dd6DbCsT67rl8va3.htm)|Étudiant du Magaambya (Nature)|`@Compendium[pf2e.backgrounds.dd6DbCsT67rl8va3]`|
-|[Magical Experiment](backgrounds/WIWR8jURAdSAzxIh.htm)|Expérience magique|`@Compendium[pf2e.backgrounds.WIWR8jURAdSAzxIh]`|
-|[Magical Merchant](backgrounds/I5cRrqrPCHsQqFI9.htm)|Marchand magique|`@Compendium[pf2e.backgrounds.I5cRrqrPCHsQqFI9]`|
-|[Magical Misfit](backgrounds/EYPorNgoYcp37akm.htm)|Marginal de la magie|`@Compendium[pf2e.backgrounds.EYPorNgoYcp37akm]`|
-|[Mammoth Herder](backgrounds/D00NdG0WtUNMO546.htm)|Berger des mammouths|`@Compendium[pf2e.backgrounds.D00NdG0WtUNMO546]`|
-|[Mammoth Speaker](backgrounds/76RK9WizWYdyhMy5.htm)|Dresseur de mammouth|`@Compendium[pf2e.backgrounds.76RK9WizWYdyhMy5]`|
-|[Mana Wastes Refugee](backgrounds/V1RAIckpUJd2OzXi.htm)|Réfugié de la Désolation de Mana|`@Compendium[pf2e.backgrounds.V1RAIckpUJd2OzXi]`|
-|[Mantis Scion](backgrounds/4aVFnYyRajog0mNl.htm)|Descendant de la Mante|`@Compendium[pf2e.backgrounds.4aVFnYyRajog0mNl]`|
-|[Market Runner](backgrounds/n2JN5Kiu7tOCAHPr.htm)|Coureur du marché|`@Compendium[pf2e.backgrounds.n2JN5Kiu7tOCAHPr]`|
-|[Martial Disciple (Acrobatics)](backgrounds/lRVYgV9zL6O6O3U4.htm)|Disciple martial (Acrobatie)|`@Compendium[pf2e.backgrounds.lRVYgV9zL6O6O3U4]`|
-|[Martial Disciple (Athletics)](backgrounds/faHydq29Q4RP5CAK.htm)|Disciple martial (Athlétisme)|`@Compendium[pf2e.backgrounds.faHydq29Q4RP5CAK]`|
-|[Mechanic](backgrounds/cODrdTvko4Om26ik.htm)|Mécanicien|`@Compendium[pf2e.backgrounds.cODrdTvko4Om26ik]`|
-|[Mechanical Symbiosis](backgrounds/wGB222d5UIBGYWsK.htm)|Symbiose mécanique|`@Compendium[pf2e.backgrounds.wGB222d5UIBGYWsK]`|
-|[Medicinal Clocksmith](backgrounds/x3fFxtLogoy5hZfe.htm)|Mécanicien médicinal|`@Compendium[pf2e.backgrounds.x3fFxtLogoy5hZfe]`|
-|[Megafauna Hunter](backgrounds/q1OCPBAgYgvwy1Of.htm)|Chasseur de mégafaune|`@Compendium[pf2e.backgrounds.q1OCPBAgYgvwy1Of]`|
-|[Menagerie Dung Sweeper](backgrounds/YyzIzLxn2UCFubj4.htm)|Balayeur de fumier de la Ménagerie|`@Compendium[pf2e.backgrounds.YyzIzLxn2UCFubj4]`|
-|[Merabite Prodigy](backgrounds/a45LqkSRX07ljKdW.htm)|Prodige Mérabite|`@Compendium[pf2e.backgrounds.a45LqkSRX07ljKdW]`|
-|[Merchant](backgrounds/KMv7ollLVaZ81XDV.htm)|Marchand|`@Compendium[pf2e.backgrounds.KMv7ollLVaZ81XDV]`|
-|[Miner](backgrounds/bCJ9p3P5uJDAtaUI.htm)|Mineur|`@Compendium[pf2e.backgrounds.bCJ9p3P5uJDAtaUI]`|
-|[Missionary](backgrounds/GNidqGnSABx1rQUQ.htm)|Missionnaire|`@Compendium[pf2e.backgrounds.GNidqGnSABx1rQUQ]`|
-|[Molthuni Mercenary](backgrounds/lqjmBmGHYRaSiglZ.htm)|Mercenaire du Molthune|`@Compendium[pf2e.backgrounds.lqjmBmGHYRaSiglZ]`|
-|[Musical Prodigy](backgrounds/HNdGlDHkcczqNw2U.htm)|Prodige de la musique|`@Compendium[pf2e.backgrounds.HNdGlDHkcczqNw2U]`|
-|[Mystic Seer](backgrounds/Y50ssWBBKSRVBpSa.htm)|Voyant mystique|`@Compendium[pf2e.backgrounds.Y50ssWBBKSRVBpSa]`|
-|[Mystic Tutor (Arcana)](backgrounds/9YKU3qbxJpWHcNQE.htm)|Tuteur mystique (Arcanes)|`@Compendium[pf2e.backgrounds.9YKU3qbxJpWHcNQE]`|
-|[Mystic Tutor (Occultism)](backgrounds/e58GwSBLNslyfqMF.htm)|Tuteur mystique (Occultisme)|`@Compendium[pf2e.backgrounds.e58GwSBLNslyfqMF]`|
-|[Newcomer In Need](backgrounds/QnL7hqUi9HPenrbC.htm)|Nouveau venu dans le besoin|`@Compendium[pf2e.backgrounds.QnL7hqUi9HPenrbC]`|
-|[Nexian Mystic](backgrounds/Y35nOXZRryiyHjlk.htm)|Mystique nexien|`@Compendium[pf2e.backgrounds.Y35nOXZRryiyHjlk]`|
-|[Nirmathi Guerrilla](backgrounds/E2ij2Cg8oMC0W0NS.htm)|Escarmoucheur Nirmathi|`@Compendium[pf2e.backgrounds.E2ij2Cg8oMC0W0NS]`|
-|[Noble](backgrounds/Yu7Cl0Lk94LdPRi6.htm)|Noble|`@Compendium[pf2e.backgrounds.Yu7Cl0Lk94LdPRi6]`|
-|[Nomad](backgrounds/8UXahQfkP9GZ1TNW.htm)|Nomade|`@Compendium[pf2e.backgrounds.8UXahQfkP9GZ1TNW]`|
-|[Northland Forager](backgrounds/xyHndp512sLU4UOL.htm)|Glaneur du nord|`@Compendium[pf2e.backgrounds.xyHndp512sLU4UOL]`|
-|[Occult Librarian](backgrounds/jpgO5zofecGeyXd5.htm)|Bibilothécaire occulte|`@Compendium[pf2e.backgrounds.jpgO5zofecGeyXd5]`|
-|[Oenopion-Ooze Tender](backgrounds/iWWg16f3re1YChiD.htm)|Éleveur de vases d'Œnopion|`@Compendium[pf2e.backgrounds.iWWg16f3re1YChiD]`|
-|[Onyx Trader](backgrounds/WueM94C9JXk10jPd.htm)|Marchand d'onyx|`@Compendium[pf2e.backgrounds.WueM94C9JXk10jPd]`|
-|[Osirionologist](backgrounds/AJ41zFEYwlOUghXp.htm)|Osirionologiste|`@Compendium[pf2e.backgrounds.AJ41zFEYwlOUghXp]`|
-|[Otherworldly Mission](backgrounds/d5fKB0ZMJQkwDF5p.htm)|Missionné de l'autre monde|`@Compendium[pf2e.backgrounds.d5fKB0ZMJQkwDF5p]`|
-|[Out-Of-Towner](backgrounds/UgityMZaujmYUpil.htm)|De passage|`@Compendium[pf2e.backgrounds.UgityMZaujmYUpil]`|
-|[Outrider](backgrounds/dAvFZ5QmbAHgXcNp.htm)|Chevaucheur des plaines|`@Compendium[pf2e.backgrounds.dAvFZ5QmbAHgXcNp]`|
-|[Pathfinder Hopeful](backgrounds/j9v38iHA0sVy59SR.htm)|Aspirant Éclaireur|`@Compendium[pf2e.backgrounds.j9v38iHA0sVy59SR]`|
-|[Pathfinder Recruiter](backgrounds/NXYce9NAHls2fcIf.htm)|Recrue des Éclaireurs|`@Compendium[pf2e.backgrounds.NXYce9NAHls2fcIf]`|
-|[Perfection Seeker](backgrounds/P65AGDPkhD2B4JtG.htm)|À la recherche de la Perfection|`@Compendium[pf2e.backgrounds.P65AGDPkhD2B4JtG]`|
-|[Pilgrim](backgrounds/r9fzNQEz33HyKTxm.htm)|Pélerin|`@Compendium[pf2e.backgrounds.r9fzNQEz33HyKTxm]`|
-|[Plant Whisperer](backgrounds/76j9ds5URXv1dqnm.htm)|Botanniste|`@Compendium[pf2e.backgrounds.76j9ds5URXv1dqnm]`|
-|[Political Scion](backgrounds/JauSkDtMV6dhDZS8.htm)|Rejeton de politicien|`@Compendium[pf2e.backgrounds.JauSkDtMV6dhDZS8]`|
-|[Post Guard of All Trades](backgrounds/DVtZab19D1vD3a0n.htm)|Garde du poste touche-à-tout|`@Compendium[pf2e.backgrounds.DVtZab19D1vD3a0n]`|
-|[Press-Ganged](backgrounds/4yN5miHoMvKwZIsa.htm)|Forçat des Mers|`@Compendium[pf2e.backgrounds.4yN5miHoMvKwZIsa]`|
-|[Printer](backgrounds/qJNmSgzq0ae29qCC.htm)|Imprimeur|`@Compendium[pf2e.backgrounds.qJNmSgzq0ae29qCC]`|
-|[Prisoner](backgrounds/apXTV7jJx6yJpj8D.htm)|Prisonnier|`@Compendium[pf2e.backgrounds.apXTV7jJx6yJpj8D]`|
-|[Purveyor of the Bizzare](backgrounds/IfpYRxN8qyV4ym0o.htm)|Fournisseur de Bizarreries|`@Compendium[pf2e.backgrounds.IfpYRxN8qyV4ym0o]`|
-|[Quick](backgrounds/i6y4DiKvqitdE0PW.htm)|Rapide|`@Compendium[pf2e.backgrounds.i6y4DiKvqitdE0PW]`|
-|[Raised by Belief](backgrounds/RC4l6WsxPn89a1f8.htm)|Élevé dans la Foi|`@Compendium[pf2e.backgrounds.RC4l6WsxPn89a1f8]`|
-|[Razmiran Faithful](backgrounds/9uTdwJaj27F18ZDX.htm)|Fidèle de Razmir|`@Compendium[pf2e.backgrounds.9uTdwJaj27F18ZDX]`|
-|[Refugee (APG)](backgrounds/i28Z9JXhEvoc7BX5.htm)|Réfugié (MJA)|`@Compendium[pf2e.backgrounds.i28Z9JXhEvoc7BX5]`|
-|[Refugee (Fall of Plaguestone)](backgrounds/HDquvQywAZimmcFF.htm)|Réfugié (la Chute de Plaguestone)|`@Compendium[pf2e.backgrounds.HDquvQywAZimmcFF]`|
-|[Reputation Seeker](backgrounds/TPoP1mKpqUOpRQ5Y.htm)|En quête de renommée|`@Compendium[pf2e.backgrounds.TPoP1mKpqUOpRQ5Y]`|
-|[Returned](backgrounds/rzyRtasSTfHS3e0y.htm)|Ressuscité|`@Compendium[pf2e.backgrounds.rzyRtasSTfHS3e0y]`|
-|[Returning Descendant](backgrounds/iaM6TjvijLCgiHeD.htm)|Descendant de retour|`@Compendium[pf2e.backgrounds.iaM6TjvijLCgiHeD]`|
-|[Revenant](backgrounds/W6OIPZhjcV45gfoX.htm)|Revenant|`@Compendium[pf2e.backgrounds.W6OIPZhjcV45gfoX]`|
-|[Rigger](backgrounds/7IrOApgShgnmp1A5.htm)|Gréeur|`@Compendium[pf2e.backgrounds.7IrOApgShgnmp1A5]`|
-|[Rivethun Adherent](backgrounds/6c0rsuiiAaVqGTu7.htm)|Adhérent du Rivethun|`@Compendium[pf2e.backgrounds.6c0rsuiiAaVqGTu7]`|
-|[Root Worker](backgrounds/ns9BOvCyjdapYhI0.htm)|Cueilleur de racines|`@Compendium[pf2e.backgrounds.ns9BOvCyjdapYhI0]`|
-|[Rostland Partisan](backgrounds/8q4PhvpmIxZD7rsV.htm)|Partisan du Rost|`@Compendium[pf2e.backgrounds.8q4PhvpmIxZD7rsV]`|
-|[Royalty](backgrounds/uC6D2nmDTATxXrV6.htm)|De sang royal|`@Compendium[pf2e.backgrounds.uC6D2nmDTATxXrV6]`|
-|[Ruby Phoenix Enthusiast](backgrounds/7K6ZSWOoihZKSdyd.htm)|Passionné du Phénix de rubis|`@Compendium[pf2e.backgrounds.7K6ZSWOoihZKSdyd]`|
-|[Ruby Phoenix Fanatic](backgrounds/uF9nw15tK6b1bgre.htm)|Fanatique du Phénix de rubis|`@Compendium[pf2e.backgrounds.uF9nw15tK6b1bgre]`|
-|[Ruin Delver](backgrounds/5qUQOpdlNsJjpFVX.htm)|Explorateur de ruines|`@Compendium[pf2e.backgrounds.5qUQOpdlNsJjpFVX]`|
-|[Saboteur](backgrounds/4Vc8uXVHonrasFnU.htm)|Saboteur|`@Compendium[pf2e.backgrounds.4Vc8uXVHonrasFnU]`|
-|[Sailor](backgrounds/Zmwyhsxe4i6rZN75.htm)|Marin|`@Compendium[pf2e.backgrounds.Zmwyhsxe4i6rZN75]`|
-|[Sally Guard Neophyte](backgrounds/vE6nb2OSIXqprDXk.htm)|Néophyte de la Garde des Percées|`@Compendium[pf2e.backgrounds.vE6nb2OSIXqprDXk]`|
-|[Saloon Entertainer](backgrounds/4KCa67gyxUn60zdf.htm)|Amuseur de saloon|`@Compendium[pf2e.backgrounds.4KCa67gyxUn60zdf]`|
-|[Sarkorian Reclaimer](backgrounds/khGFmnQMBYmz2ONR.htm)|Reconquérant du Sarkoris|`@Compendium[pf2e.backgrounds.khGFmnQMBYmz2ONR]`|
-|[Sarkorian Survivor](backgrounds/B8kEwzPUMIjhofUm.htm)|Survivant de Sarkoris|`@Compendium[pf2e.backgrounds.B8kEwzPUMIjhofUm]`|
-|[Saved by Clockwork](backgrounds/yZUzLCeuaIkNk4up.htm)|Sauvé par la mécanique|`@Compendium[pf2e.backgrounds.yZUzLCeuaIkNk4up]`|
-|[Savior of Air](backgrounds/locc0cjOmOQHe3j7.htm)|Sauveur de l'air|`@Compendium[pf2e.backgrounds.locc0cjOmOQHe3j7]`|
-|[Scavenger](backgrounds/vHeP960qjhfob4Je.htm)|Récupérateur|`@Compendium[pf2e.backgrounds.vHeP960qjhfob4Je]`|
-|[Scholar (Arcana)](backgrounds/WRVEUkemqj2uNHwl.htm)|Érudit (Arcanes)|`@Compendium[pf2e.backgrounds.WRVEUkemqj2uNHwl]`|
-|[Scholar (Nature)](backgrounds/rSH3NdJMfFYOK8ot.htm)|Érudit (Nature)|`@Compendium[pf2e.backgrounds.rSH3NdJMfFYOK8ot]`|
-|[Scholar (Occultism)](backgrounds/wMkYKnvNZoZ4oQ0W.htm)|Érudit (Occultisme)|`@Compendium[pf2e.backgrounds.wMkYKnvNZoZ4oQ0W]`|
-|[Scholar (Religion)](backgrounds/cRELMbOeZa2FPIcL.htm)|Érudit (Religion)|`@Compendium[pf2e.backgrounds.cRELMbOeZa2FPIcL]`|
-|[Scholar of the Ancients](backgrounds/i5G6E5dkGWiq838C.htm)|Étudiant de l'Antiquité|`@Compendium[pf2e.backgrounds.i5G6E5dkGWiq838C]`|
-|[Scholar of the Sky Key](backgrounds/UyddtAwqDGjQ1SZK.htm)|Étudiant de la Clé du ciel|`@Compendium[pf2e.backgrounds.UyddtAwqDGjQ1SZK]`|
-|[Scout](backgrounds/o7RbsQbv5iLRvd8j.htm)|Éclaireur|`@Compendium[pf2e.backgrounds.o7RbsQbv5iLRvd8j]`|
-|[Second Chance Champion](backgrounds/wz4fDeZtCvxC4vyO.htm)|Champion de la seconde chance|`@Compendium[pf2e.backgrounds.wz4fDeZtCvxC4vyO]`|
-|[Secular Medic](backgrounds/y0WZS51fSi6dILHq.htm)|Médecin séculier|`@Compendium[pf2e.backgrounds.y0WZS51fSi6dILHq]`|
-|[Seer of the Dead](backgrounds/UU4MOe7Lozt9V8tg.htm)|Voyant des morts|`@Compendium[pf2e.backgrounds.UU4MOe7Lozt9V8tg]`|
-|[Senghor Sailor](backgrounds/lav3yRNPc7lQ7e9k.htm)|Marin de Senghor|`@Compendium[pf2e.backgrounds.lav3yRNPc7lQ7e9k]`|
-|[Servant](backgrounds/UdOUj7i8XGTI72Zc.htm)|Serviteur|`@Compendium[pf2e.backgrounds.UdOUj7i8XGTI72Zc]`|
-|[Sewer Dragon](backgrounds/OhP7cqvNouFgHIdJ.htm)|Dragon des égoûts|`@Compendium[pf2e.backgrounds.OhP7cqvNouFgHIdJ]`|
-|[Shadow Haunted](backgrounds/V31KRG7aA7xS0m8L.htm)|Ombre hantée|`@Compendium[pf2e.backgrounds.V31KRG7aA7xS0m8L]`|
-|[Shadow Lodge Defector](backgrounds/HEd2Lxgvl080nRxx.htm)|Défecteur de la Loge d'Ombre|`@Compendium[pf2e.backgrounds.HEd2Lxgvl080nRxx]`|
-|[Shadow War Survivor](backgrounds/b9EPEY09dYOVzdue.htm)|Survivant de la Guerre de l'ombre|`@Compendium[pf2e.backgrounds.b9EPEY09dYOVzdue]`|
-|[Sheriff](backgrounds/AqhHif8mzYjlGMxJ.htm)|Shérif|`@Compendium[pf2e.backgrounds.AqhHif8mzYjlGMxJ]`|
-|[Shoanti Name-Bearer](backgrounds/H3E69w8Xg0T7rAqD.htm)|Porteur de nom Shoanti|`@Compendium[pf2e.backgrounds.H3E69w8Xg0T7rAqD]`|
-|[Shory Seeker](backgrounds/HZ3oBBdEnsH3fWrm.htm)|Chercheur Rivain|`@Compendium[pf2e.backgrounds.HZ3oBBdEnsH3fWrm]`|
-|[Sleepless Suns Star](backgrounds/AfBCrHsw1xbRFejN.htm)|Étoile des soleils sans repos|`@Compendium[pf2e.backgrounds.AfBCrHsw1xbRFejN]`|
-|[Sodden Scavenger](backgrounds/93icIDHD4IrqI2oV.htm)|Récupérateur détrempé|`@Compendium[pf2e.backgrounds.93icIDHD4IrqI2oV]`|
-|[Song of the Deep](backgrounds/o3ArTg5c8pLe7iGm.htm)|Chant des profondeurs de l'océan|`@Compendium[pf2e.backgrounds.o3ArTg5c8pLe7iGm]`|
-|[Songsinger in Training](backgrounds/ECKic2p6yIyoGYod.htm)|Apprenti chansonnier|`@Compendium[pf2e.backgrounds.ECKic2p6yIyoGYod]`|
-|[Spell Seeker (Arcana)](backgrounds/jjwhyvdGrxeWmY5s.htm)|Chercheur de sorts (Arcanes)|`@Compendium[pf2e.backgrounds.jjwhyvdGrxeWmY5s]`|
-|[Spell Seeker (Occult)](backgrounds/PO94ilqe62V6jtBE.htm)|Chercheur de sorts (Occultisme)|`@Compendium[pf2e.backgrounds.PO94ilqe62V6jtBE]`|
-|[Sponsored by Family (Diplomacy)](backgrounds/he1oXWjCqyb4CUx8.htm)|Soutenu par la famille (Diplomatie)|`@Compendium[pf2e.backgrounds.he1oXWjCqyb4CUx8]`|
-|[Sponsored by Family (Society)](backgrounds/fzrXTLDPu3P06joW.htm)|Soutenu par la famille (Société)|`@Compendium[pf2e.backgrounds.fzrXTLDPu3P06joW]`|
-|[Sponsored by Teacher Ot (Performance)](backgrounds/IMrOWZkxXtkOeTy6.htm)|Soutenu par Professeur Ot (Représentation)|`@Compendium[pf2e.backgrounds.IMrOWZkxXtkOeTy6]`|
-|[Sponsored by Teacher Ot (Survival)](backgrounds/aQcV1RqOFvtZaw0l.htm)|Soutenu par Professeur Ot (Survie)|`@Compendium[pf2e.backgrounds.aQcV1RqOFvtZaw0l]`|
-|[Sponsored by a Stranger (Nature)](backgrounds/WE9EjWB0TFuAhwJc.htm)|Soutenu par un étranger (Nature)|`@Compendium[pf2e.backgrounds.WE9EjWB0TFuAhwJc]`|
-|[Sponsored by a Stranger (Occultism)](backgrounds/BxQ4QaNaodIw3pWu.htm)|Soutenu par un étranger (Occultisme)|`@Compendium[pf2e.backgrounds.BxQ4QaNaodIw3pWu]`|
-|[Sponsored by a Village (Crafting)](backgrounds/5qi0swjGo1aclB2U.htm)|Soutenu par un village (Artisanat)|`@Compendium[pf2e.backgrounds.5qi0swjGo1aclB2U]`|
-|[Sponsored by a Village (Survival)](backgrounds/v1RSnxkODhhc7eoL.htm)|Soutenu par un village (Survie)|`@Compendium[pf2e.backgrounds.v1RSnxkODhhc7eoL]`|
-|[Spotter](backgrounds/XcacLiaGDgjzHS3T.htm)|Guetteur|`@Compendium[pf2e.backgrounds.XcacLiaGDgjzHS3T]`|
-|[Squire](backgrounds/qbvzNG8hMjb8f66D.htm)|Écuyer|`@Compendium[pf2e.backgrounds.qbvzNG8hMjb8f66D]`|
-|[Starwatcher](backgrounds/sR3S7Xn15drU6rOF.htm)|Observateur d'étoiles|`@Compendium[pf2e.backgrounds.sR3S7Xn15drU6rOF]`|
-|[Storm Survivor](backgrounds/UURvnfwXypRYYXBI.htm)|Survivant d'une tempête|`@Compendium[pf2e.backgrounds.UURvnfwXypRYYXBI]`|
-|[Street Preacher](backgrounds/tqnrnXVTbdehohPL.htm)|Prêcheur des rues|`@Compendium[pf2e.backgrounds.tqnrnXVTbdehohPL]`|
-|[Street Urchin](backgrounds/moVRsnpjB5THCwxE.htm)|Enfant des rues|`@Compendium[pf2e.backgrounds.moVRsnpjB5THCwxE]`|
-|[Student of Magic (Arcana)](backgrounds/zOq3K7jpF2E1NmZi.htm)|Étudiant de la magie (Arcanes)|`@Compendium[pf2e.backgrounds.zOq3K7jpF2E1NmZi]`|
-|[Student of Magic (Nature)](backgrounds/wMFy6cJIEOUX9gLZ.htm)|Étudiant de la magie (Nature)|`@Compendium[pf2e.backgrounds.wMFy6cJIEOUX9gLZ]`|
-|[Student of Magic (Occultism)](backgrounds/UjN1dEgMnJdzq4HT.htm)|Étudiant de la magie (Occultisme)|`@Compendium[pf2e.backgrounds.UjN1dEgMnJdzq4HT]`|
-|[Student of Magic (Religion)](backgrounds/Y47AuCS5D1R4U4sn.htm)|Étudiant de la magie (Religion)|`@Compendium[pf2e.backgrounds.Y47AuCS5D1R4U4sn]`|
-|[Surge Investigator (Nature)](backgrounds/ffEvUlA2AZOIXUej.htm)|Enquêteur d'ondes magiques (Nature)|`@Compendium[pf2e.backgrounds.ffEvUlA2AZOIXUej]`|
-|[Surge Investigator (Occultism)](backgrounds/D2bageI3HMT2xyyD.htm)|Enquêteur d'ondes magiques (Occultisme)|`@Compendium[pf2e.backgrounds.D2bageI3HMT2xyyD]`|
-|[Taldan Schemer](backgrounds/PhqUBXLLkVXb6oUE.htm)|Intrigant taldorien|`@Compendium[pf2e.backgrounds.PhqUBXLLkVXb6oUE]`|
-|[Tall Tale](backgrounds/uwZ0emSBFNMGA74j.htm)|Mythomane|`@Compendium[pf2e.backgrounds.uwZ0emSBFNMGA74j]`|
-|[Tapestry Refugee (Medicine)](backgrounds/LJmBnA2IYDBqQgRx.htm)|Réfugié de la Tapisserie (Médecine)|`@Compendium[pf2e.backgrounds.LJmBnA2IYDBqQgRx]`|
-|[Tapestry Refugee (Stealth)](backgrounds/Wfil0jRW1iC2huPT.htm)|Réfugié de la Tapisserie (Discrétion)|`@Compendium[pf2e.backgrounds.Wfil0jRW1iC2huPT]`|
-|[Tax Collector](backgrounds/ixluAGUDZciLEHtb.htm)|Percepteur|`@Compendium[pf2e.backgrounds.ixluAGUDZciLEHtb]`|
-|[Teacher (Performance)](backgrounds/cFdndc4pMWhnRUOY.htm)|Enseignant (Représentation)|`@Compendium[pf2e.backgrounds.cFdndc4pMWhnRUOY]`|
-|[Teacher (Society)](backgrounds/WU0QTDh2SogUthxn.htm)|Enseignant (Société)|`@Compendium[pf2e.backgrounds.WU0QTDh2SogUthxn]`|
-|[Teamster](backgrounds/h98cEl4DY75IL6KJ.htm)|Conducteur d'attelages|`@Compendium[pf2e.backgrounds.h98cEl4DY75IL6KJ]`|
-|[Tech Reliant](backgrounds/2FUdcPsXwoWT1bms.htm)|Techno dépendant|`@Compendium[pf2e.backgrounds.2FUdcPsXwoWT1bms]`|
-|[Thassilonian Delver](backgrounds/vjhB0ZTV9OZgSuSz.htm)|Fouilleur thassilonnien|`@Compendium[pf2e.backgrounds.vjhB0ZTV9OZgSuSz]`|
-|[Thassilonian Traveler](backgrounds/su8y75pGMVTUsNHK.htm)|Voyageur Thassilonien|`@Compendium[pf2e.backgrounds.su8y75pGMVTUsNHK]`|
-|[Thrune Loyalist](backgrounds/m1vRLRHTpCrgk89G.htm)|Loyaliste Thrune|`@Compendium[pf2e.backgrounds.m1vRLRHTpCrgk89G]`|
-|[Thuvian Unifier](backgrounds/MslumKt6iwJ85GKZ.htm)|Unificateur thuvien|`@Compendium[pf2e.backgrounds.MslumKt6iwJ85GKZ]`|
-|[Time Traveler](backgrounds/IOcjPmcemrQFFb2b.htm)|Voyageur du temps|`@Compendium[pf2e.backgrounds.IOcjPmcemrQFFb2b]`|
-|[Tinker](backgrounds/i79pgNIAtJfkkOiw.htm)|Bricoleur|`@Compendium[pf2e.backgrounds.i79pgNIAtJfkkOiw]`|
-|[Touched by Dahak](backgrounds/4naQmCXBl0007c2W.htm)|Touché par Dahak|`@Compendium[pf2e.backgrounds.4naQmCXBl0007c2W]`|
-|[Toymaker](backgrounds/Sj91CUyEUeWoPh2R.htm)|Fabricant de jouets|`@Compendium[pf2e.backgrounds.Sj91CUyEUeWoPh2R]`|
-|[Trade Consortium Underling](backgrounds/tcsSxwkl4wCsfO3k.htm)|Sous-fifre de consortium marchand|`@Compendium[pf2e.backgrounds.tcsSxwkl4wCsfO3k]`|
-|[Trailblazer](backgrounds/LwAu4r3uocYfpKA8.htm)|Pionnier|`@Compendium[pf2e.backgrounds.LwAu4r3uocYfpKA8]`|
-|[Translator](backgrounds/7AfixHrjbXgDPPkp.htm)|Traducteur|`@Compendium[pf2e.backgrounds.7AfixHrjbXgDPPkp]`|
-|[Truth Seeker](backgrounds/TC7jpN5EA4UBIYep.htm)|En quête de vérité|`@Compendium[pf2e.backgrounds.TC7jpN5EA4UBIYep]`|
-|[Ulfen Raider](backgrounds/V3nYEAhyA54RtYky.htm)|Raider ulfe|`@Compendium[pf2e.backgrounds.V3nYEAhyA54RtYky]`|
-|[Undercover Contender](backgrounds/Am8kwC9c2GQ5bJAW.htm)|Concurrent sous couverture|`@Compendium[pf2e.backgrounds.Am8kwC9c2GQ5bJAW]`|
-|[Undercover Lotus Guard](backgrounds/86TbxxwfpWjScwSQ.htm)|Garde Lotus infiltré|`@Compendium[pf2e.backgrounds.86TbxxwfpWjScwSQ]`|
-|[Undersea Enthusiast](backgrounds/Ty8FRM0k262xuHfF.htm)|Enthousiaste aquatique|`@Compendium[pf2e.backgrounds.Ty8FRM0k262xuHfF]`|
-|[Undertaker](backgrounds/2Mm0BHMJZhqIqoQG.htm)|Croque-mort|`@Compendium[pf2e.backgrounds.2Mm0BHMJZhqIqoQG]`|
-|[Unsponsored (Diplomacy)](backgrounds/ED0imMUoDvwpESd5.htm)|Non soutenu (Diplomatie)|`@Compendium[pf2e.backgrounds.ED0imMUoDvwpESd5]`|
-|[Unsponsored (Intimidation)](backgrounds/gq98S6hRboPxK1kt.htm)|Non soutenu (Intimidation)|`@Compendium[pf2e.backgrounds.gq98S6hRboPxK1kt]`|
-|[Ustalavic Academic](backgrounds/x2y25cE98Eq4qxbu.htm)|Étudiant ustalavien|`@Compendium[pf2e.backgrounds.x2y25cE98Eq4qxbu]`|
-|[Varisian Wanderer](backgrounds/uNhdcyhiog7YvXPT.htm)|Vagabond Varisien|`@Compendium[pf2e.backgrounds.uNhdcyhiog7YvXPT]`|
-|[Vidrian Reformer](backgrounds/mrkgVjiEdlPjLUsN.htm)|Réformateur Vidrien|`@Compendium[pf2e.backgrounds.mrkgVjiEdlPjLUsN]`|
-|[Wandering Preacher](backgrounds/UFHezf1LXUwcQIAQ.htm)|Prêcheur errant|`@Compendium[pf2e.backgrounds.UFHezf1LXUwcQIAQ]`|
-|[Ward](backgrounds/IXxdCzBS0xP20ckw.htm)|Pupille|`@Compendium[pf2e.backgrounds.IXxdCzBS0xP20ckw]`|
-|[Warrior](backgrounds/r0kYIbN06Cv8eNG3.htm)|Homme d'armes|`@Compendium[pf2e.backgrounds.r0kYIbN06Cv8eNG3]`|
-|[Waste Walker](backgrounds/9l6q90sk8UM292CY.htm)|Arpenteur de la Désolation|`@Compendium[pf2e.backgrounds.9l6q90sk8UM292CY]`|
-|[Whispering Way Scion](backgrounds/aisuJF1A98bHfkLH.htm)|Descendant de la Voie du Murmure|`@Compendium[pf2e.backgrounds.aisuJF1A98bHfkLH]`|
-|[Wildwood Local](backgrounds/R1v4gUu8oRMoOASM.htm)|Habitué des bois|`@Compendium[pf2e.backgrounds.R1v4gUu8oRMoOASM]`|
-|[Winter's Child](backgrounds/SJ3nNOI5A8A4hK0Q.htm)|Enfant de l'hiver|`@Compendium[pf2e.backgrounds.SJ3nNOI5A8A4hK0Q]`|
-|[Wished Alive](backgrounds/O4xKRtHb21DCTvQ0.htm)|Désiré vivant|`@Compendium[pf2e.backgrounds.O4xKRtHb21DCTvQ0]`|
-|[Witch Wary](backgrounds/yAtyaKbcHZWCJlf5.htm)|Gare aux sorcières|`@Compendium[pf2e.backgrounds.yAtyaKbcHZWCJlf5]`|
-|[Witchlight Follower](backgrounds/BZhPPw9VD9U2ur6B.htm)|Suiveur de lumière de sorcier|`@Compendium[pf2e.backgrounds.BZhPPw9VD9U2ur6B]`|
-|[Wonder Taster](backgrounds/qB7g1OiZ8v8zgvkL.htm)|Goûteur de merveilles|`@Compendium[pf2e.backgrounds.qB7g1OiZ8v8zgvkL]`|
-|[[Empty Background]](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Historique vierge]|`@Compendium[pf2e.backgrounds.iPuclSXdCEAVfTZ0]`|
 
 
 ## Bestiaire
@@ -2655,6 +2207,42 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Wolf Animal Instinct](classfeatures/barbarian-01-xX6KnYYgHlPGoTG6.htm)|Instinct animal de loup|`@Compendium[pf2e.classfeatures.xX6KnYYgHlPGoTG6]`|
 
 
+## Capacités des ascendances)
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Aquatic Adaptation](ancestryfeatures/feat-00-AzGJN1wwLFaLJIeo.htm)|Adaptation aquatique|`@Compendium[pf2e.ancestryfeatures.AzGJN1wwLFaLJIeo]`|
+|[Automaton Core](ancestryfeatures/feat-00-RYrY7o0i6s7KW9io.htm)|Noyau automate|`@Compendium[pf2e.ancestryfeatures.RYrY7o0i6s7KW9io]`|
+|[Bite](ancestryfeatures/feat-00-jatezR4bENwhC6GL.htm)|Morsure|`@Compendium[pf2e.ancestryfeatures.jatezR4bENwhC6GL]`|
+|[Blunt Snout](ancestryfeatures/feat-00-dtNsRAhCRfteA1ev.htm)|Museau court|`@Compendium[pf2e.ancestryfeatures.dtNsRAhCRfteA1ev]`|
+|[Change Shape](ancestryfeatures/feat-00-Ymg6WqeJqOyLJLEr.htm)|Changer de forme|`@Compendium[pf2e.ancestryfeatures.Ymg6WqeJqOyLJLEr]`|
+|[Change Shape (Anadi)](ancestryfeatures/feat-00-R6rcqRsBR0KIho5n.htm)|Changement de forme (anadi)|`@Compendium[pf2e.ancestryfeatures.R6rcqRsBR0KIho5n]`|
+|[Clan Dagger](ancestryfeatures/feat-00-Eyuqu6eIaoGCjnMv.htm)|Dague de clan|`@Compendium[pf2e.ancestryfeatures.Eyuqu6eIaoGCjnMv]`|
+|[Claws](ancestryfeatures/feat-00-NfkxFWUeG6g41e8w.htm)|Griffes|`@Compendium[pf2e.ancestryfeatures.NfkxFWUeG6g41e8w]`|
+|[Constructed](ancestryfeatures/feat-00-mnhmhOKWLiOD0lev.htm)|Construit|`@Compendium[pf2e.ancestryfeatures.mnhmhOKWLiOD0lev]`|
+|[Constructed (Poppet)](ancestryfeatures/feat-00-BHPDeqQHqi7ukCUW.htm)|Construit (poupée)|`@Compendium[pf2e.ancestryfeatures.BHPDeqQHqi7ukCUW]`|
+|[Constructed Body](ancestryfeatures/feat-00-E28a45fUC2OkXZXY.htm)|Corps artificiel|`@Compendium[pf2e.ancestryfeatures.E28a45fUC2OkXZXY]`|
+|[Darkvision](ancestryfeatures/feat-00-HHVQDp61ehcpdiU8.htm)|Vision dans le noir|`@Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]`|
+|[Draconic Exemplar](ancestryfeatures/feat-00-egpiSWBrNBb1Fmig.htm)|Modèle draconique|`@Compendium[pf2e.ancestryfeatures.egpiSWBrNBb1Fmig]`|
+|[Emotionally Unaware](ancestryfeatures/feat-00-uSAYmU7PO2QoOWhB.htm)|Émotionnellement non préparé|`@Compendium[pf2e.ancestryfeatures.uSAYmU7PO2QoOWhB]`|
+|[Eyes in Back](ancestryfeatures/feat-00-AUlPRySCqE6o6LHH.htm)|Yeux dans le dos|`@Compendium[pf2e.ancestryfeatures.AUlPRySCqE6o6LHH]`|
+|[Fangs](ancestryfeatures/feat-00-dCp517IUFJk8JvQc.htm)|Crocs|`@Compendium[pf2e.ancestryfeatures.dCp517IUFJk8JvQc]`|
+|[Flammable](ancestryfeatures/feat-00-qKh6MxgE0cwde6mC.htm)|Inflammable|`@Compendium[pf2e.ancestryfeatures.qKh6MxgE0cwde6mC]`|
+|[Greater Darkvision](ancestryfeatures/feat-00-vPhPgzpRjYDMT9Kq.htm)|Vision dans le noir supérieure|`@Compendium[pf2e.ancestryfeatures.vPhPgzpRjYDMT9Kq]`|
+|[Hydration](ancestryfeatures/feat-00-vt67b8uoNEbskcBv.htm)|Hydratation|`@Compendium[pf2e.ancestryfeatures.vt67b8uoNEbskcBv]`|
+|[Keen Eyes](ancestryfeatures/feat-00-y1EmCv2cEb5hXBwx.htm)|Yeux perçants|`@Compendium[pf2e.ancestryfeatures.y1EmCv2cEb5hXBwx]`|
+|[Land on Your Feet](ancestryfeatures/feat-00-sL1hHxrHdMNIZVAd.htm)|Sur vos pattes|`@Compendium[pf2e.ancestryfeatures.sL1hHxrHdMNIZVAd]`|
+|[Low-Light Vision](ancestryfeatures/feat-00-DRtaqOHXTRtGRIUT.htm)|Vision nocturne|`@Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]`|
+|[Magical Strikes](ancestryfeatures/feat-00-TRw4oBZBFZG96jKO.htm)|Frappes magiques|`@Compendium[pf2e.ancestryfeatures.TRw4oBZBFZG96jKO]`|
+|[Plant Nourishment](ancestryfeatures/feat-00-Sm3tKetM6kddTio3.htm)|Alimentation des plantes|`@Compendium[pf2e.ancestryfeatures.Sm3tKetM6kddTio3]`|
+|[Sharp Beak](ancestryfeatures/feat-00-qJD3PJdoSXFrZEwr.htm)|Bec aiguisé|`@Compendium[pf2e.ancestryfeatures.qJD3PJdoSXFrZEwr]`|
+|[Stonestep Shisk](ancestryfeatures/feat-00-GNSTUFBk2bU28GIl.htm)|Shisk pied de pierre|`@Compendium[pf2e.ancestryfeatures.GNSTUFBk2bU28GIl]`|
+|[Sunlight Healing](ancestryfeatures/feat-00-BgHrucbZ9TH92RDv.htm)|Guérison par le soleil|`@Compendium[pf2e.ancestryfeatures.BgHrucbZ9TH92RDv]`|
+|[Swim](ancestryfeatures/feat-00-kMgyOI4kBIEtFvhb.htm)|Nage|`@Compendium[pf2e.ancestryfeatures.kMgyOI4kBIEtFvhb]`|
+|[Unusual Anatomy](ancestryfeatures/feat-00-mEDTJi7d1bTEiwUD.htm)|Anatomie inhabituelle|`@Compendium[pf2e.ancestryfeatures.mEDTJi7d1bTEiwUD]`|
+|[Wings](ancestryfeatures/feat-00-oCIO7UJqbpTkI62l.htm)|Ailes|`@Compendium[pf2e.ancestryfeatures.oCIO7UJqbpTkI62l]`|
+
+
 ## Capacités des familles de monstre
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
@@ -2810,6 +2398,60 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[(Zombie) Plague-Ridden](bestiary-family-ability-glossary/MhymIeTQoxbacG1o.htm)|(Zombie) Pestiféré|`@Compendium[pf2e.bestiary-family-ability-glossary.MhymIeTQoxbacG1o]`|
 |[(Zombie) Rotting Aura](bestiary-family-ability-glossary/CxiEpXt7Gw3tSIOh.htm)|(Zombie) Aura de pourrissement|`@Compendium[pf2e.bestiary-family-ability-glossary.CxiEpXt7Gw3tSIOh]`|
 |[(Zombie) Unkillable](bestiary-family-ability-glossary/BSLqIYqxcCVBb2Vp.htm)|(Zombie) Intuable|`@Compendium[pf2e.bestiary-family-ability-glossary.BSLqIYqxcCVBb2Vp]`|
+
+
+## Capacités du bestiaire
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[+1 Status to All Saves vs Magic](bestiary-ability-glossary-srd/kquBnQ0kObZztnBc.htm)|bonus de statut de +1 à tous les jets de sauvegarde contre la magie|`@Compendium[pf2e.bestiary-ability-glossary-srd.kquBnQ0kObZztnBc]`|
+|[All-Around Vision](bestiary-ability-glossary-srd/9qV49KjZujZnSp6w.htm)|Vision à 360°|`@Compendium[pf2e.bestiary-ability-glossary-srd.9qV49KjZujZnSp6w]`|
+|[Aquatic Ambush](bestiary-ability-glossary-srd/HBrBrUzjfvj2gDXB.htm)|Embuscade aquatique|`@Compendium[pf2e.bestiary-ability-glossary-srd.HBrBrUzjfvj2gDXB]`|
+|[At-Will Spells](bestiary-ability-glossary-srd/2YRDYVnC1eljaXKK.htm)|Sorts à volonté|`@Compendium[pf2e.bestiary-ability-glossary-srd.2YRDYVnC1eljaXKK]`|
+|[Attack of Opportunity](bestiary-ability-glossary-srd/hFtNbo1LKYCoDy2O.htm)|Attaque d'opportunité|`@Compendium[pf2e.bestiary-ability-glossary-srd.hFtNbo1LKYCoDy2O]`|
+|[Aura](bestiary-ability-glossary-srd/v61oEQaDdcRpaZ9X.htm)|Aura|`@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]`|
+|[Buck](bestiary-ability-glossary-srd/nZMQh4AaBr291TUf.htm)|Désarçonner|`@Compendium[pf2e.bestiary-ability-glossary-srd.nZMQh4AaBr291TUf]`|
+|[Catch Rock](bestiary-ability-glossary-srd/uG0Z8PsyZtsYuvGR.htm)|Interception de rochers|`@Compendium[pf2e.bestiary-ability-glossary-srd.uG0Z8PsyZtsYuvGR]`|
+|[Change Shape](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)|Changement de forme|`@Compendium[pf2e.bestiary-ability-glossary-srd.eQM5hQ1W3d1uen97]`|
+|[Constant Spells](bestiary-ability-glossary-srd/kakyXBG5WA8c6Zfd.htm)|Sorts constants|`@Compendium[pf2e.bestiary-ability-glossary-srd.kakyXBG5WA8c6Zfd]`|
+|[Constrict](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constriction|`@Compendium[pf2e.bestiary-ability-glossary-srd.g26YiEIfSHCpLocV]`|
+|[Coven](bestiary-ability-glossary-srd/52CdldlWMiVTZk1F.htm)|Cercle|`@Compendium[pf2e.bestiary-ability-glossary-srd.52CdldlWMiVTZk1F]`|
+|[Darkvision](bestiary-ability-glossary-srd/qCCLZhnp2HhP3Ex6.htm)|Vision dans le noir|`@Compendium[pf2e.bestiary-ability-glossary-srd.qCCLZhnp2HhP3Ex6]`|
+|[Disease](bestiary-ability-glossary-srd/Z025dWgZtawbuRLI.htm)|Maladie|`@Compendium[pf2e.bestiary-ability-glossary-srd.Z025dWgZtawbuRLI]`|
+|[Engulf](bestiary-ability-glossary-srd/zU3Ovaet4xQ5Gmvy.htm)|Engloutissement|`@Compendium[pf2e.bestiary-ability-glossary-srd.zU3Ovaet4xQ5Gmvy]`|
+|[Fast Healing](bestiary-ability-glossary-srd/fJSNOw4zHGbIm4bZ.htm)|Guérison accélérée|`@Compendium[pf2e.bestiary-ability-glossary-srd.fJSNOw4zHGbIm4bZ]`|
+|[Ferocity](bestiary-ability-glossary-srd/N1kstYbHScxgUQtN.htm)|Férocité|`@Compendium[pf2e.bestiary-ability-glossary-srd.N1kstYbHScxgUQtN]`|
+|[Form Up](bestiary-ability-glossary-srd/OvqohW9YuahnFaiX.htm)|Se reformer|`@Compendium[pf2e.bestiary-ability-glossary-srd.OvqohW9YuahnFaiX]`|
+|[Frightful Presence](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Présence terrifiante|`@Compendium[pf2e.bestiary-ability-glossary-srd.etMnv73EIdEZrYYu]`|
+|[Grab](bestiary-ability-glossary-srd/Tkd8sH4pwFIPzqTr.htm)|Empoignade/Agrippement|`@Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]`|
+|[Greater Constrict](bestiary-ability-glossary-srd/OmV6E3aELvq9CkK1.htm)|Constriction supérieure|`@Compendium[pf2e.bestiary-ability-glossary-srd.OmV6E3aELvq9CkK1]`|
+|[Greater Darkvision](bestiary-ability-glossary-srd/4Ho2xMPEC05aSxzr.htm)|Vision dans le noir supérieure|`@Compendium[pf2e.bestiary-ability-glossary-srd.4Ho2xMPEC05aSxzr]`|
+|[Improved Grab](bestiary-ability-glossary-srd/i18TlebMzwONyPhI.htm)|Empoignade/agrippement amélioré|`@Compendium[pf2e.bestiary-ability-glossary-srd.i18TlebMzwONyPhI]`|
+|[Improved Knockdown](bestiary-ability-glossary-srd/LbnsT8yXchHMQT3t.htm)|Renversement amélioré|`@Compendium[pf2e.bestiary-ability-glossary-srd.LbnsT8yXchHMQT3t]`|
+|[Improved Push](bestiary-ability-glossary-srd/6l7e7CHQLESlI57U.htm)|Bousculade améliorée|`@Compendium[pf2e.bestiary-ability-glossary-srd.6l7e7CHQLESlI57U]`|
+|[Knockdown](bestiary-ability-glossary-srd/BCLvAx4Pz4MLa2pu.htm)|Renversement|`@Compendium[pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]`|
+|[Lifesense](bestiary-ability-glossary-srd/sebk9XseMCRkDqRg.htm)|Sens de la vie|`@Compendium[pf2e.bestiary-ability-glossary-srd.sebk9XseMCRkDqRg]`|
+|[Light Blindness](bestiary-ability-glossary-srd/I0HYG0ctCLP5JRsW.htm)|Aveuglé par la lumière|`@Compendium[pf2e.bestiary-ability-glossary-srd.I0HYG0ctCLP5JRsW]`|
+|[Low-Light Vision](bestiary-ability-glossary-srd/fFu2sZz4KB01fVRc.htm)|Vision nocturne|`@Compendium[pf2e.bestiary-ability-glossary-srd.fFu2sZz4KB01fVRc]`|
+|[Negative Healing](bestiary-ability-glossary-srd/TTCw5NusiSSkJU1x.htm)|Soins négatifs|`@Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]`|
+|[Poison](bestiary-ability-glossary-srd/kFv54DisTfCMTBEY.htm)|Poison|`@Compendium[pf2e.bestiary-ability-glossary-srd.kFv54DisTfCMTBEY]`|
+|[Power Attack](bestiary-ability-glossary-srd/0B39GdScyZMPWalX.htm)|Attaque en puissance|`@Compendium[pf2e.bestiary-ability-glossary-srd.0B39GdScyZMPWalX]`|
+|[Push](bestiary-ability-glossary-srd/t6cx9FOODmeZQNYl.htm)|Bousculade|`@Compendium[pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl]`|
+|[Regeneration](bestiary-ability-glossary-srd/lR9R5Vld8Eu2Dha5.htm)|Régénération|`@Compendium[pf2e.bestiary-ability-glossary-srd.lR9R5Vld8Eu2Dha5]`|
+|[Rend](bestiary-ability-glossary-srd/3JOi2cMcGhT3eze1.htm)|Éventration|`@Compendium[pf2e.bestiary-ability-glossary-srd.3JOi2cMcGhT3eze1]`|
+|[Retributive Strike](bestiary-ability-glossary-srd/IQtb58p4EaeUzTN1.htm)|Frappe punitive|`@Compendium[pf2e.bestiary-ability-glossary-srd.IQtb58p4EaeUzTN1]`|
+|[Scent](bestiary-ability-glossary-srd/rqfnQ5VHT5hxm25r.htm)|Odorat|`@Compendium[pf2e.bestiary-ability-glossary-srd.rqfnQ5VHT5hxm25r]`|
+|[Shield Block](bestiary-ability-glossary-srd/m4HQ2o5aPxjXf2kY.htm)|Blocage au bouclier|`@Compendium[pf2e.bestiary-ability-glossary-srd.m4HQ2o5aPxjXf2kY]`|
+|[Sneak Attack](bestiary-ability-glossary-srd/AWvNPE4U0kEJSL1T.htm)|Attaque sournoise|`@Compendium[pf2e.bestiary-ability-glossary-srd.AWvNPE4U0kEJSL1T]`|
+|[Swallow Whole](bestiary-ability-glossary-srd/uJSseLa57HZYSMUu.htm)|Gober|`@Compendium[pf2e.bestiary-ability-glossary-srd.uJSseLa57HZYSMUu]`|
+|[Swarm Mind](bestiary-ability-glossary-srd/baA0nSMhQyFyJIia.htm)|Esprit de la nuée|`@Compendium[pf2e.bestiary-ability-glossary-srd.baA0nSMhQyFyJIia]`|
+|[Telepathy](bestiary-ability-glossary-srd/kdhbPaBMK1d1fpbA.htm)|Télépathie|`@Compendium[pf2e.bestiary-ability-glossary-srd.kdhbPaBMK1d1fpbA]`|
+|[Thoughtsense](bestiary-ability-glossary-srd/JcaIJLGGmst79f1Y.htm)|Perception des pensées|`@Compendium[pf2e.bestiary-ability-glossary-srd.JcaIJLGGmst79f1Y]`|
+|[Throw Rock](bestiary-ability-glossary-srd/a0tx6exmB9v9CUsj.htm)|Projection de rochers|`@Compendium[pf2e.bestiary-ability-glossary-srd.a0tx6exmB9v9CUsj]`|
+|[Trample](bestiary-ability-glossary-srd/UNah0bxXxkcZjxO3.htm)|Piétinement|`@Compendium[pf2e.bestiary-ability-glossary-srd.UNah0bxXxkcZjxO3]`|
+|[Tremorsense](bestiary-ability-glossary-srd/j2wsK6IsW5yMW1jW.htm)|Perception des vibrations|`@Compendium[pf2e.bestiary-ability-glossary-srd.j2wsK6IsW5yMW1jW]`|
+|[Troop Defenses](bestiary-ability-glossary-srd/RJbI07QSiYp0SF9A.htm)|Défenses des troupes|`@Compendium[pf2e.bestiary-ability-glossary-srd.RJbI07QSiYp0SF9A]`|
+|[Wavesense](bestiary-ability-glossary-srd/VdSMQ6yRZ3YXNXHL.htm)|Perception des ondes|`@Compendium[pf2e.bestiary-ability-glossary-srd.VdSMQ6yRZ3YXNXHL]`|
 
 
 ## Cartes critiques
@@ -6485,6 +6127,691 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Zephyr Guard Dedication](feats/archetype-02-UyyrFtPWOo0qvXOv.htm)|Dévouement de Garde Zéphyr|`@Compendium[pf2e.feats-srd.UyyrFtPWOo0qvXOv]`|
 
 
+## Effets de l'équipement
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Cover](equipment-effects/01-I9lfZUiCwMiGogVi.htm)||`@Compendium[pf2e.equipment-effects.I9lfZUiCwMiGogVi]`|
+|[Effect: Ablative Armor Plating (Greater)](equipment-effects/07-DlqcczhwjfaEf7G1.htm)||`@Compendium[pf2e.equipment-effects.DlqcczhwjfaEf7G1]`|
+|[Effect: Ablative Armor Plating (Lesser)](equipment-effects/01-jlVYoiPVRRVGBj5G.htm)||`@Compendium[pf2e.equipment-effects.jlVYoiPVRRVGBj5G]`|
+|[Effect: Ablative Armor Plating (Major)](equipment-effects/13-OMW71UJzYCUr4ubh.htm)||`@Compendium[pf2e.equipment-effects.OMW71UJzYCUr4ubh]`|
+|[Effect: Ablative Armor Plating (Moderate)](equipment-effects/03-mn39aML7EWKbttKT.htm)||`@Compendium[pf2e.equipment-effects.mn39aML7EWKbttKT]`|
+|[Effect: Ablative Armor Plating (True)](equipment-effects/19-yt8meGTS7wLa6Fg2.htm)||`@Compendium[pf2e.equipment-effects.yt8meGTS7wLa6Fg2]`|
+|[Effect: Aeon Stone (Black Pearl)](equipment-effects/12-p2aGtovaY1feytws.htm)||`@Compendium[pf2e.equipment-effects.p2aGtovaY1feytws]`|
+|[Effect: Aeon Stone (Orange Prism) (Arcana)](equipment-effects/16-yvabfuAO74pvH8hh.htm)||`@Compendium[pf2e.equipment-effects.yvabfuAO74pvH8hh]`|
+|[Effect: Aeon Stone (Orange Prism) (Nature)](equipment-effects/16-etJW0w4CiSFgMrWP.htm)||`@Compendium[pf2e.equipment-effects.etJW0w4CiSFgMrWP]`|
+|[Effect: Aeon Stone (Orange Prism) (Occultism)](equipment-effects/16-vOU4Yv2MyAfYBbmF.htm)||`@Compendium[pf2e.equipment-effects.vOU4Yv2MyAfYBbmF]`|
+|[Effect: Aeon Stone (Orange Prism) (Religion)](equipment-effects/16-FbFl95WRpzrrijh3.htm)||`@Compendium[pf2e.equipment-effects.FbFl95WRpzrrijh3]`|
+|[Effect: Anklets of Alacrity](equipment-effects/17-iK6JeCsZwm5Vakks.htm)||`@Compendium[pf2e.equipment-effects.iK6JeCsZwm5Vakks]`|
+|[Effect: Apricot of Bestial Might](equipment-effects/01-WQ0DxUzMgAvo0zy9.htm)||`@Compendium[pf2e.equipment-effects.WQ0DxUzMgAvo0zy9]`|
+|[Effect: Arboreal's Revenge (Speed Penalty)](equipment-effects/06-Hx4MOTujp5z6SlQu.htm)||`@Compendium[pf2e.equipment-effects.Hx4MOTujp5z6SlQu]`|
+|[Effect: Aromatic Ammunition](equipment-effects/02-0qJEtpXWPb7JJBbY.htm)||`@Compendium[pf2e.equipment-effects.0qJEtpXWPb7JJBbY]`|
+|[Effect: Barding of the Zephyr](equipment-effects/10-P7Y7pO2ulZ5wBgxU.htm)||`@Compendium[pf2e.equipment-effects.P7Y7pO2ulZ5wBgxU]`|
+|[Effect: Belt of the Five Kings (Allies)](equipment-effects/09-fbSFwwp60AuDDKpK.htm)||`@Compendium[pf2e.equipment-effects.fbSFwwp60AuDDKpK]`|
+|[Effect: Belt of the Five Kings (Wearer)](equipment-effects/09-cg5qyeMJUh6b4fta.htm)||`@Compendium[pf2e.equipment-effects.cg5qyeMJUh6b4fta]`|
+|[Effect: Blast Boots (Major)](equipment-effects/01-oiO3cQfqp8MuxR82.htm)||`@Compendium[pf2e.equipment-effects.oiO3cQfqp8MuxR82]`|
+|[Effect: Boots of Elvenkind](equipment-effects/05-88kqcDmsoAEddzUt.htm)||`@Compendium[pf2e.equipment-effects.88kqcDmsoAEddzUt]`|
+|[Effect: Bracelet of Dashing](equipment-effects/03-lLP56tbG689TNKW5.htm)||`@Compendium[pf2e.equipment-effects.lLP56tbG689TNKW5]`|
+|[Effect: Bracers of Missile Deflection](equipment-effects/03-PeiuJ951kkBPTCSM.htm)||`@Compendium[pf2e.equipment-effects.PeiuJ951kkBPTCSM]`|
+|[Effect: Breastplate of Command](equipment-effects/10-G0lG7IIZnCZtYi6v.htm)||`@Compendium[pf2e.equipment-effects.G0lG7IIZnCZtYi6v]`|
+|[Effect: Brewer's Regret](equipment-effects/09-9e6iVkPpGqJYwMyb.htm)||`@Compendium[pf2e.equipment-effects.9e6iVkPpGqJYwMyb]`|
+|[Effect: Brewer's Regret (Greater)](equipment-effects/14-Ja3PlqLuD9aSaPNZ.htm)||`@Compendium[pf2e.equipment-effects.Ja3PlqLuD9aSaPNZ]`|
+|[Effect: Cape of the Open Sky](equipment-effects/01-UzSrsR9S2pgMDbbp.htm)||`@Compendium[pf2e.equipment-effects.UzSrsR9S2pgMDbbp]`|
+|[Effect: Celestial Armor](equipment-effects/13-gDefAEEMXVVZgqXH.htm)||`@Compendium[pf2e.equipment-effects.gDefAEEMXVVZgqXH]`|
+|[Effect: Clandestine Cloak](equipment-effects/06-Uadsb25G18pKdZ2e.htm)||`@Compendium[pf2e.equipment-effects.Uadsb25G18pKdZ2e]`|
+|[Effect: Clandestine Cloak (Greater)](equipment-effects/10-uXEp1rPU5fY4OiBf.htm)||`@Compendium[pf2e.equipment-effects.uXEp1rPU5fY4OiBf]`|
+|[Effect: Cloak of Elvenkind](equipment-effects/07-eeGWTG9ZAha4IIOY.htm)||`@Compendium[pf2e.equipment-effects.eeGWTG9ZAha4IIOY]`|
+|[Effect: Cloak of Elvenkind (Greater)](equipment-effects/12-viCX9fZzTWGuoO85.htm)||`@Compendium[pf2e.equipment-effects.viCX9fZzTWGuoO85]`|
+|[Effect: Cloak of the Bat](equipment-effects/10-ioGzmVSmMGXWWBYb.htm)||`@Compendium[pf2e.equipment-effects.ioGzmVSmMGXWWBYb]`|
+|[Effect: Clockwork Cloak](equipment-effects/18-3LhreroLRmI4atE6.htm)||`@Compendium[pf2e.equipment-effects.3LhreroLRmI4atE6]`|
+|[Effect: Clockwork Goggles](equipment-effects/01-oaR6YGiZKg8a2971.htm)||`@Compendium[pf2e.equipment-effects.oaR6YGiZKg8a2971]`|
+|[Effect: Clockwork Goggles (Greater)](equipment-effects/04-E2uy6gqOXi1HRVBU.htm)||`@Compendium[pf2e.equipment-effects.E2uy6gqOXi1HRVBU]`|
+|[Effect: Clockwork Goggles (Major)](equipment-effects/08-Bg4hNMqBx0yqmWYJ.htm)||`@Compendium[pf2e.equipment-effects.Bg4hNMqBx0yqmWYJ]`|
+|[Effect: Crimson Fulcrum Lens](equipment-effects/09-ytqvHyF0oMKbo65P.htm)||`@Compendium[pf2e.equipment-effects.ytqvHyF0oMKbo65P]`|
+|[Effect: Curse of Potent Poison](equipment-effects/01-s95P3L72BDKvzYhn.htm)||`@Compendium[pf2e.equipment-effects.s95P3L72BDKvzYhn]`|
+|[Effect: Deadweight Snare (Failure/Critical Failure)](equipment-effects/01-Gj6u2Za5okFlsTvT.htm)||`@Compendium[pf2e.equipment-effects.Gj6u2Za5okFlsTvT]`|
+|[Effect: Deadweight Snare (Success)](equipment-effects/01-NYOi1F9cW3axHrdc.htm)||`@Compendium[pf2e.equipment-effects.NYOi1F9cW3axHrdc]`|
+|[Effect: Demon Dust (Stage 1)](equipment-effects/06-WMKjWH4gyUrky4Hy.htm)||`@Compendium[pf2e.equipment-effects.WMKjWH4gyUrky4Hy]`|
+|[Effect: Demon Dust (Stage 2)](equipment-effects/06-XlHbUOTbK6PfBfCv.htm)||`@Compendium[pf2e.equipment-effects.XlHbUOTbK6PfBfCv]`|
+|[Effect: Diplomat's Badge](equipment-effects/05-pAMyEbJzWBoYoGhs.htm)||`@Compendium[pf2e.equipment-effects.pAMyEbJzWBoYoGhs]`|
+|[Effect: Dragon's Blood Pudding (Greater)](equipment-effects/13-F8nQOLVWmpp9G5hZ.htm)||`@Compendium[pf2e.equipment-effects.F8nQOLVWmpp9G5hZ]`|
+|[Effect: Dragon's Blood Pudding (Major)](equipment-effects/13-0YbNzbW0HSKtgStQ.htm)||`@Compendium[pf2e.equipment-effects.0YbNzbW0HSKtgStQ]`|
+|[Effect: Dragon's Blood Pudding (Moderate)](equipment-effects/05-19ECULG5Zp593jQX.htm)||`@Compendium[pf2e.equipment-effects.19ECULG5Zp593jQX]`|
+|[Effect: Dragonfly Potion](equipment-effects/12-9j1uTGBGAc7GIhjm.htm)||`@Compendium[pf2e.equipment-effects.9j1uTGBGAc7GIhjm]`|
+|[Effect: Dueling Cape](equipment-effects/00-7dLsA9PAb5ij7Bc6.htm)||`@Compendium[pf2e.equipment-effects.7dLsA9PAb5ij7Bc6]`|
+|[Effect: Earplugs](equipment-effects/00-NE7Fm5YnUhD4ySX3.htm)||`@Compendium[pf2e.equipment-effects.NE7Fm5YnUhD4ySX3]`|
+|[Effect: Ebon Fulcrum Lens (2 Action)](equipment-effects/01-u35Qzft0c84UySq2.htm)||`@Compendium[pf2e.equipment-effects.u35Qzft0c84UySq2]`|
+|[Effect: Ebon Fulcrum Lens (Reaction)](equipment-effects/01-IZkHdaqWBJIIWO7F.htm)||`@Compendium[pf2e.equipment-effects.IZkHdaqWBJIIWO7F]`|
+|[Effect: Emerald Fulcrum Lens (Saving Throw)](equipment-effects/01-rH6RHxy6sNTLusKX.htm)||`@Compendium[pf2e.equipment-effects.rH6RHxy6sNTLusKX]`|
+|[Effect: Energized Cartridge (Acid)](equipment-effects/04-vKooOkXHvtqCgZYg.htm)||`@Compendium[pf2e.equipment-effects.vKooOkXHvtqCgZYg]`|
+|[Effect: Energized Cartridge (Cold)](equipment-effects/04-tLGzSCcfxflLSqzw.htm)||`@Compendium[pf2e.equipment-effects.tLGzSCcfxflLSqzw]`|
+|[Effect: Energized Cartridge (Electricity)](equipment-effects/04-eNVSBXuOiAaN152C.htm)||`@Compendium[pf2e.equipment-effects.eNVSBXuOiAaN152C]`|
+|[Effect: Energized Cartridge (Fire)](equipment-effects/04-LH0IDLLF4RsT3KvM.htm)||`@Compendium[pf2e.equipment-effects.LH0IDLLF4RsT3KvM]`|
+|[Effect: Energizing Rune (Acid)](equipment-effects/01-ClsVhp5baFRjZQ23.htm)||`@Compendium[pf2e.equipment-effects.ClsVhp5baFRjZQ23]`|
+|[Effect: Energizing Rune (Cold)](equipment-effects/01-68xcDyxsNgD3JddD.htm)||`@Compendium[pf2e.equipment-effects.68xcDyxsNgD3JddD]`|
+|[Effect: Energizing Rune (Electricity)](equipment-effects/01-9BsFdrEc7hkPWgSd.htm)||`@Compendium[pf2e.equipment-effects.9BsFdrEc7hkPWgSd]`|
+|[Effect: Energizing Rune (Fire)](equipment-effects/01-ascxqSlMEN9R6OOy.htm)||`@Compendium[pf2e.equipment-effects.ascxqSlMEN9R6OOy]`|
+|[Effect: Energizing Rune (Sonic)](equipment-effects/01-4RnEUeYEzC919GZR.htm)||`@Compendium[pf2e.equipment-effects.4RnEUeYEzC919GZR]`|
+|[Effect: Energy Robe of Electricity](equipment-effects/01-c0URo81HpSmCkuQc.htm)||`@Compendium[pf2e.equipment-effects.c0URo81HpSmCkuQc]`|
+|[Effect: Energy Robe of Fire](equipment-effects/01-6alqXfVq0qWQC359.htm)||`@Compendium[pf2e.equipment-effects.6alqXfVq0qWQC359]`|
+|[Effect: Enhanced Hearing Aids](equipment-effects/03-T27uDXdMVc5ZFwKw.htm)||`@Compendium[pf2e.equipment-effects.T27uDXdMVc5ZFwKw]`|
+|[Effect: Euryale (Curse) Card](equipment-effects/00-8ersuvNJXX00XaIQ.htm)||`@Compendium[pf2e.equipment-effects.8ersuvNJXX00XaIQ]`|
+|[Effect: Exsanguinating Ammunition](equipment-effects/04-Fz3cSffzDAxhCh2D.htm)||`@Compendium[pf2e.equipment-effects.Fz3cSffzDAxhCh2D]`|
+|[Effect: Exsanguinating Ammunition (Greater)](equipment-effects/08-5lZWAvm0oGxvF4bm.htm)||`@Compendium[pf2e.equipment-effects.5lZWAvm0oGxvF4bm]`|
+|[Effect: Exsanguinating Ammunition (Major)](equipment-effects/12-mrwg2XftLtSLj197.htm)||`@Compendium[pf2e.equipment-effects.mrwg2XftLtSLj197]`|
+|[Effect: Eye of the Unseen](equipment-effects/08-aXDtl9vMp1vIznya.htm)||`@Compendium[pf2e.equipment-effects.aXDtl9vMp1vIznya]`|
+|[Effect: Eye of the Unseen (Greater)](equipment-effects/14-1ihy7Jvw5PY4WYbP.htm)||`@Compendium[pf2e.equipment-effects.1ihy7Jvw5PY4WYbP]`|
+|[Effect: Fire and Iceberg](equipment-effects/07-FOZXp7QQDnny1600.htm)||`@Compendium[pf2e.equipment-effects.FOZXp7QQDnny1600]`|
+|[Effect: Fire and Iceberg (Greater)](equipment-effects/12-VsHhBBLApZsOCJRL.htm)||`@Compendium[pf2e.equipment-effects.VsHhBBLApZsOCJRL]`|
+|[Effect: Fire and Iceberg (Major)](equipment-effects/17-yP45Rqu4jvCfXBkp.htm)||`@Compendium[pf2e.equipment-effects.yP45Rqu4jvCfXBkp]`|
+|[Effect: Frost Vial (Greater)](equipment-effects/11-nJRoiSyd67eQ1dYj.htm)||`@Compendium[pf2e.equipment-effects.nJRoiSyd67eQ1dYj]`|
+|[Effect: Frost Vial (Lesser)](equipment-effects/11-RLsdvhmTh64Mmty9.htm)||`@Compendium[pf2e.equipment-effects.RLsdvhmTh64Mmty9]`|
+|[Effect: Frost Vial (Major)](equipment-effects/17-4G9qnI0oRyL6eKFQ.htm)||`@Compendium[pf2e.equipment-effects.4G9qnI0oRyL6eKFQ]`|
+|[Effect: Frost Vial (Moderate)](equipment-effects/03-dv0IKm5syOdP759w.htm)||`@Compendium[pf2e.equipment-effects.dv0IKm5syOdP759w]`|
+|[Effect: Glaive of the Artist](equipment-effects/14-EpNflrkmWzQ0lEb4.htm)||`@Compendium[pf2e.equipment-effects.EpNflrkmWzQ0lEb4]`|
+|[Effect: Glamorous Buckler](equipment-effects/02-iEkH8BKLMUa2wxLX.htm)||`@Compendium[pf2e.equipment-effects.iEkH8BKLMUa2wxLX]`|
+|[Effect: Glittering Snare (Critical Failure)](equipment-effects/04-GNFNDyx8nfNXrgV6.htm)||`@Compendium[pf2e.equipment-effects.GNFNDyx8nfNXrgV6]`|
+|[Effect: Glittering Snare (Failure)](equipment-effects/04-D7teqZ68L21aZCpd.htm)||`@Compendium[pf2e.equipment-effects.D7teqZ68L21aZCpd]`|
+|[Effect: Glittering Snare (Success)](equipment-effects/04-w0LUnfS2whVhDBUF.htm)||`@Compendium[pf2e.equipment-effects.w0LUnfS2whVhDBUF]`|
+|[Effect: Golden Legion Epaulet](equipment-effects/03-bP40jr6wE6MCsRvY.htm)||`@Compendium[pf2e.equipment-effects.bP40jr6wE6MCsRvY]`|
+|[Effect: Greater Fanged Rune Animal Form](equipment-effects/01-XzxADtNpUlRff972.htm)||`@Compendium[pf2e.equipment-effects.XzxADtNpUlRff972]`|
+|[Effect: Grit (Stage 1)](equipment-effects/01-e3RzlURndODzBnMt.htm)||`@Compendium[pf2e.equipment-effects.e3RzlURndODzBnMt]`|
+|[Effect: Grit (Stage 2)](equipment-effects/01-4aSqtBgvQr2TI3XT.htm)||`@Compendium[pf2e.equipment-effects.4aSqtBgvQr2TI3XT]`|
+|[Effect: Grit (Stage 3)](equipment-effects/01-ZV9rtVOD1eDTwcY4.htm)||`@Compendium[pf2e.equipment-effects.ZV9rtVOD1eDTwcY4]`|
+|[Effect: Holy Steam Ball](equipment-effects/02-5dhm66yN0LQTOePw.htm)||`@Compendium[pf2e.equipment-effects.5dhm66yN0LQTOePw]`|
+|[Effect: Hyldarf's Fang](equipment-effects/15-wacGBDbbQ1HaNZbX.htm)||`@Compendium[pf2e.equipment-effects.wacGBDbbQ1HaNZbX]`|
+|[Effect: Immolation Clan Pistol](equipment-effects/10-bri7UVNCfHhCIvXN.htm)||`@Compendium[pf2e.equipment-effects.bri7UVNCfHhCIvXN]`|
+|[Effect: Impossible Cake](equipment-effects/03-H29JukjrSpHe5DXR.htm)||`@Compendium[pf2e.equipment-effects.H29JukjrSpHe5DXR]`|
+|[Effect: Impossible Cake (Greater)](equipment-effects/09-KAEWiyE8TQwofNj9.htm)||`@Compendium[pf2e.equipment-effects.KAEWiyE8TQwofNj9]`|
+|[Effect: Impossible Cake (Major)](equipment-effects/17-ohMdE8BmQHuLs40b.htm)||`@Compendium[pf2e.equipment-effects.ohMdE8BmQHuLs40b]`|
+|[Effect: Improvised Weapon](equipment-effects/00-eSIYyxi6uTKiP6W5.htm)||`@Compendium[pf2e.equipment-effects.eSIYyxi6uTKiP6W5]`|
+|[Effect: Inspiring Spotlight](equipment-effects/09-E4B02mJmNexQLa8F.htm)||`@Compendium[pf2e.equipment-effects.E4B02mJmNexQLa8F]`|
+|[Effect: Ivory Baton](equipment-effects/01-WXsWkFosSGBrptwF.htm)||`@Compendium[pf2e.equipment-effects.WXsWkFosSGBrptwF]`|
+|[Effect: Jack's Tattered Cape](equipment-effects/01-vj2hkcSbwwRYNLk5.htm)||`@Compendium[pf2e.equipment-effects.vj2hkcSbwwRYNLk5]`|
+|[Effect: Kraken's Guard](equipment-effects/01-wFP3SqPoO0bCPmyK.htm)||`@Compendium[pf2e.equipment-effects.wFP3SqPoO0bCPmyK]`|
+|[Effect: Leopard's Armor](equipment-effects/09-LVy8SfUF8Jrd6X18.htm)||`@Compendium[pf2e.equipment-effects.LVy8SfUF8Jrd6X18]`|
+|[Effect: Lover's Gloves](equipment-effects/08-3O5lvuX4VHqtpCkU.htm)||`@Compendium[pf2e.equipment-effects.3O5lvuX4VHqtpCkU]`|
+|[Effect: Major Fanged Rune Animal Form](equipment-effects/01-mkjcgwDBeaOUolVe.htm)||`@Compendium[pf2e.equipment-effects.mkjcgwDBeaOUolVe]`|
+|[Effect: Malleable Mixture (Greater)](equipment-effects/01-kMPPl4AqFb6GclOL.htm)||`@Compendium[pf2e.equipment-effects.kMPPl4AqFb6GclOL]`|
+|[Effect: Malleable Mixture (Lesser)](equipment-effects/01-cozi2kUELY40Dcv3.htm)||`@Compendium[pf2e.equipment-effects.cozi2kUELY40Dcv3]`|
+|[Effect: Mudrock Snare (Failure)](equipment-effects/01-UTtX0xLGYci6P43I.htm)||`@Compendium[pf2e.equipment-effects.UTtX0xLGYci6P43I]`|
+|[Effect: Mudrock Snare (Success)](equipment-effects/01-6p2Sjl7XxCc55ft4.htm)||`@Compendium[pf2e.equipment-effects.6p2Sjl7XxCc55ft4]`|
+|[Effect: Nosoi Charm (Diplomacy)](equipment-effects/12-4uy4Ygf5KD2WrtGW.htm)||`@Compendium[pf2e.equipment-effects.4uy4Ygf5KD2WrtGW]`|
+|[Effect: Nosoi Charm (Greater) (Diplomacy)](equipment-effects/18-NdfhpKCjSS80LiUz.htm)||`@Compendium[pf2e.equipment-effects.NdfhpKCjSS80LiUz]`|
+|[Effect: Nosoi Charm (Greater) (Lifesense)](equipment-effects/18-0rkg7SVzs2AetUXw.htm)||`@Compendium[pf2e.equipment-effects.0rkg7SVzs2AetUXw]`|
+|[Effect: Nosoi Charm (Greater) (Performance)](equipment-effects/18-LHOd4aqzb4q9ZuEH.htm)||`@Compendium[pf2e.equipment-effects.LHOd4aqzb4q9ZuEH]`|
+|[Effect: Nosoi Charm (Lifesense)](equipment-effects/12-VVWvXiNudYYGV9sJ.htm)||`@Compendium[pf2e.equipment-effects.VVWvXiNudYYGV9sJ]`|
+|[Effect: Nosoi Charm (Performance)](equipment-effects/12-MesQvxSazhl7Xvg8.htm)||`@Compendium[pf2e.equipment-effects.MesQvxSazhl7Xvg8]`|
+|[Effect: Oath of the Devoted](equipment-effects/01-zY7cemRcFD2zAVbC.htm)||`@Compendium[pf2e.equipment-effects.zY7cemRcFD2zAVbC]`|
+|[Effect: Ochre Fulcrum Lens](equipment-effects/01-5KXsyN9J78glG25I.htm)||`@Compendium[pf2e.equipment-effects.5KXsyN9J78glG25I]`|
+|[Effect: Parry](equipment-effects/01-fRlvmul3LbLo2xvR.htm)||`@Compendium[pf2e.equipment-effects.fRlvmul3LbLo2xvR]`|
+|[Effect: Prepared Camouflage Suit](equipment-effects/03-jgaDboqENQJaS1sW.htm)||`@Compendium[pf2e.equipment-effects.jgaDboqENQJaS1sW]`|
+|[Effect: Prepared Camouflage Suit (Superb)](equipment-effects/09-DfAyZW2vkhTygZVC.htm)||`@Compendium[pf2e.equipment-effects.DfAyZW2vkhTygZVC]`|
+|[Effect: Private Workshop (Using for Crafting)](equipment-effects/06-qOBdeZ4FXYc5qHsm.htm)||`@Compendium[pf2e.equipment-effects.qOBdeZ4FXYc5qHsm]`|
+|[Effect: Protective Barrier](equipment-effects/17-exwQF6E1FWmuxwBc.htm)||`@Compendium[pf2e.equipment-effects.exwQF6E1FWmuxwBc]`|
+|[Effect: Qat (Stage 1)](equipment-effects/00-rVFDLzYrJVYLiQBL.htm)||`@Compendium[pf2e.equipment-effects.rVFDLzYrJVYLiQBL]`|
+|[Effect: Raise a Shield](equipment-effects/01-2YgXoHvJfrDHucMr.htm)||`@Compendium[pf2e.equipment-effects.2YgXoHvJfrDHucMr]`|
+|[Effect: Red-Rib Gill Mask (Greater)](equipment-effects/14-QrsPKOFuo3qzgxw5.htm)||`@Compendium[pf2e.equipment-effects.QrsPKOFuo3qzgxw5]`|
+|[Effect: Red-Rib Gill Mask (Lesser)](equipment-effects/02-UDfVCATxdLdSzJYJ.htm)||`@Compendium[pf2e.equipment-effects.UDfVCATxdLdSzJYJ]`|
+|[Effect: Red-Rib Gill Mask (Moderate)](equipment-effects/08-2iR5uP6vgPzgKKNO.htm)||`@Compendium[pf2e.equipment-effects.2iR5uP6vgPzgKKNO]`|
+|[Effect: Rhino Shot](equipment-effects/01-lgvjbbQiHBGKR3C6.htm)||`@Compendium[pf2e.equipment-effects.lgvjbbQiHBGKR3C6]`|
+|[Effect: Rowan Rifle (Cold)](equipment-effects/16-1tweTwYQuQUV45wJ.htm)||`@Compendium[pf2e.equipment-effects.1tweTwYQuQUV45wJ]`|
+|[Effect: Rowan Rifle (Electricity)](equipment-effects/16-9kOgG7BPEfIyWyqm.htm)||`@Compendium[pf2e.equipment-effects.9kOgG7BPEfIyWyqm]`|
+|[Effect: Rowan Rifle (Sonic)](equipment-effects/16-KiurLemTV8GV7OyM.htm)||`@Compendium[pf2e.equipment-effects.KiurLemTV8GV7OyM]`|
+|[Effect: Sarkorian God-Caller Garb](equipment-effects/06-CIfqUEC0mITBjwmL.htm)||`@Compendium[pf2e.equipment-effects.CIfqUEC0mITBjwmL]`|
+|[Effect: Server's Stew](equipment-effects/07-ehYmO1rFBt35zoOw.htm)||`@Compendium[pf2e.equipment-effects.ehYmO1rFBt35zoOw]`|
+|[Effect: Shield of the Unified Legion](equipment-effects/20-ah41XCrV4LFsVyzl.htm)||`@Compendium[pf2e.equipment-effects.ah41XCrV4LFsVyzl]`|
+|[Effect: Silkspinner's Shield (Animated Strike)](equipment-effects/01-dchlrZqQ2oEmgNlN.htm)||`@Compendium[pf2e.equipment-effects.dchlrZqQ2oEmgNlN]`|
+|[Effect: Silkspinner's Shield (Climb)](equipment-effects/01-SbYcOry1cxbndSve.htm)||`@Compendium[pf2e.equipment-effects.SbYcOry1cxbndSve]`|
+|[Effect: Skyrider Sword](equipment-effects/01-Nbgf8zvHimdQqIu6.htm)||`@Compendium[pf2e.equipment-effects.Nbgf8zvHimdQqIu6]`|
+|[Effect: Skyrider Sword (Greater)](equipment-effects/01-vOgD9wfStLX1utte.htm)||`@Compendium[pf2e.equipment-effects.vOgD9wfStLX1utte]`|
+|[Effect: Slippers of Spider Climbing](equipment-effects/07-W3BCLbX6j1IqL0uB.htm)||`@Compendium[pf2e.equipment-effects.W3BCLbX6j1IqL0uB]`|
+|[Effect: Spellguard Blade](equipment-effects/07-zqKzWGLODgIvtiKf.htm)||`@Compendium[pf2e.equipment-effects.zqKzWGLODgIvtiKf]`|
+|[Effect: Spellguard Shield](equipment-effects/06-lBMhT2W2raYMa8JS.htm)||`@Compendium[pf2e.equipment-effects.lBMhT2W2raYMa8JS]`|
+|[Effect: Spiderfoot Brew (Greater)](equipment-effects/01-YI7QQqXO6nosaAKr.htm)||`@Compendium[pf2e.equipment-effects.YI7QQqXO6nosaAKr]`|
+|[Effect: Spiderfoot Brew (Lesser)](equipment-effects/01-wNCxSxruzLVGtLE4.htm)||`@Compendium[pf2e.equipment-effects.wNCxSxruzLVGtLE4]`|
+|[Effect: Spiderfoot Brew (Major)](equipment-effects/01-4JULykNCgQoypsu8.htm)||`@Compendium[pf2e.equipment-effects.4JULykNCgQoypsu8]`|
+|[Effect: Stalwart's Ring](equipment-effects/05-5uK3fmGlfJrbWQz4.htm)||`@Compendium[pf2e.equipment-effects.5uK3fmGlfJrbWQz4]`|
+|[Effect: Static Snare](equipment-effects/01-2ytxPqhGyLtEjYxW.htm)||`@Compendium[pf2e.equipment-effects.2ytxPqhGyLtEjYxW]`|
+|[Effect: Stole of Civility](equipment-effects/09-i0tm2ZHekp7rGGR3.htm)||`@Compendium[pf2e.equipment-effects.i0tm2ZHekp7rGGR3]`|
+|[Effect: Stonethroat Ammunition (Success)](equipment-effects/01-AJx8i8QX35vsG5Q4.htm)||`@Compendium[pf2e.equipment-effects.AJx8i8QX35vsG5Q4]`|
+|[Effect: Storm Chair](equipment-effects/14-uC6KjfiWrTBXYtP8.htm)||`@Compendium[pf2e.equipment-effects.uC6KjfiWrTBXYtP8]`|
+|[Effect: Succubus Kiss (Stage 1)](equipment-effects/07-Pkk8m79MoT1RgtfW.htm)||`@Compendium[pf2e.equipment-effects.Pkk8m79MoT1RgtfW]`|
+|[Effect: Succubus Kiss (Stage 2)](equipment-effects/07-zDuuHVeHgd175pGf.htm)||`@Compendium[pf2e.equipment-effects.zDuuHVeHgd175pGf]`|
+|[Effect: Sulfur Bomb (Failure)](equipment-effects/01-fuQVJiPPUsvL6fi5.htm)||`@Compendium[pf2e.equipment-effects.fuQVJiPPUsvL6fi5]`|
+|[Effect: Sylvan Wine](equipment-effects/01-ImgHXPEbN1mPyNTu.htm)||`@Compendium[pf2e.equipment-effects.ImgHXPEbN1mPyNTu]`|
+|[Effect: Taljjae's Mask (The General)](equipment-effects/01-X2ZZgTqanpoCMDmd.htm)||`@Compendium[pf2e.equipment-effects.X2ZZgTqanpoCMDmd]`|
+|[Effect: Taljjae's Mask (The Hero)](equipment-effects/01-fYe48HmFgfmcqbvL.htm)||`@Compendium[pf2e.equipment-effects.fYe48HmFgfmcqbvL]`|
+|[Effect: Tanglefoot Bag (Greater)](equipment-effects/11-csA4UAD2tQq7RjT8.htm)||`@Compendium[pf2e.equipment-effects.csA4UAD2tQq7RjT8]`|
+|[Effect: Tanglefoot Bag (Lesser)](equipment-effects/01-fYZIanbYu0Vc4JEL.htm)||`@Compendium[pf2e.equipment-effects.fYZIanbYu0Vc4JEL]`|
+|[Effect: Tanglefoot Bag (Major)](equipment-effects/17-ITAFsW3dQPupJ3DW.htm)||`@Compendium[pf2e.equipment-effects.ITAFsW3dQPupJ3DW]`|
+|[Effect: Tanglefoot Bag (Moderate)](equipment-effects/03-MEreOgnjoRiXPEuq.htm)||`@Compendium[pf2e.equipment-effects.MEreOgnjoRiXPEuq]`|
+|[Effect: Throne Card](equipment-effects/00-Zb8RYgmzCI6fQE0o.htm)||`@Compendium[pf2e.equipment-effects.Zb8RYgmzCI6fQE0o]`|
+|[Effect: Thurible of Revelation](equipment-effects/03-lO95TwgihBdTilAB.htm)||`@Compendium[pf2e.equipment-effects.lO95TwgihBdTilAB]`|
+|[Effect: Thurible of Revelation (Greater)](equipment-effects/18-QapoFh0tbUgMwSIB.htm)||`@Compendium[pf2e.equipment-effects.QapoFh0tbUgMwSIB]`|
+|[Effect: Thurible of Revelation (Moderate)](equipment-effects/10-UlalLihKzDxcOdXL.htm)||`@Compendium[pf2e.equipment-effects.UlalLihKzDxcOdXL]`|
+|[Effect: Triton's Conch](equipment-effects/09-9PASRixhNM0ogqmG.htm)||`@Compendium[pf2e.equipment-effects.9PASRixhNM0ogqmG]`|
+|[Effect: Vaultbreaker's Harness](equipment-effects/06-7MgpgF8tOXOiDEwv.htm)||`@Compendium[pf2e.equipment-effects.7MgpgF8tOXOiDEwv]`|
+|[Effect: Wand of Fey Flames](equipment-effects/07-VIzeuA9tQEQ7V1Ib.htm)||`@Compendium[pf2e.equipment-effects.VIzeuA9tQEQ7V1Ib]`|
+|[Effect: Winged Boots](equipment-effects/10-1S51uIRb9bnZtpFU.htm)||`@Compendium[pf2e.equipment-effects.1S51uIRb9bnZtpFU]`|
+|[Equipment Effect: Chatterer of Follies](equipment-effects/06-mQJk8R0vHzvpTz0e.htm)||`@Compendium[pf2e.equipment-effects.mQJk8R0vHzvpTz0e]`|
+|[Equipment Effect: Emberheart](equipment-effects/18-J0YS8mQsQ1BmT6Xv.htm)||`@Compendium[pf2e.equipment-effects.J0YS8mQsQ1BmT6Xv]`|
+|[Equipment Effect: Five-Feather Wreath](equipment-effects/04-nQ6vM1CRLyvQdGLG.htm)||`@Compendium[pf2e.equipment-effects.nQ6vM1CRLyvQdGLG]`|
+|[Equipment Effect: Flask of Fellowship](equipment-effects/02-cjQHrvoXDCGOsptN.htm)||`@Compendium[pf2e.equipment-effects.cjQHrvoXDCGOsptN]`|
+|[Equipment Effect: Greater Codex of Unimpeded Sight](equipment-effects/12-ApGnHnZEK7nv3IqL.htm)||`@Compendium[pf2e.equipment-effects.ApGnHnZEK7nv3IqL]`|
+|[Equipment Effect: Greater Five-Feather Wreath](equipment-effects/04-ZP9Uq4PVTgzJ3wEi.htm)||`@Compendium[pf2e.equipment-effects.ZP9Uq4PVTgzJ3wEi]`|
+|[Equipment Effect: Greater Healer's Gel](equipment-effects/13-6dsPjRKjCPd9BWPt.htm)||`@Compendium[pf2e.equipment-effects.6dsPjRKjCPd9BWPt]`|
+|[Equipment Effect: Greater Potion of Stable Form](equipment-effects/01-W9tKQlA7tVIcAuzw.htm)||`@Compendium[pf2e.equipment-effects.W9tKQlA7tVIcAuzw]`|
+|[Equipment Effect: Lesser Healer's Gel](equipment-effects/05-sOwAqyQ6MaoSqaY1.htm)||`@Compendium[pf2e.equipment-effects.sOwAqyQ6MaoSqaY1]`|
+|[Equipment Effect: Major Five-Feather Wreath](equipment-effects/04-ccMa75bqXo3ZnlHM.htm)||`@Compendium[pf2e.equipment-effects.ccMa75bqXo3ZnlHM]`|
+|[Equipment Effect: Mask of Allure](equipment-effects/01-zZsdex5orF5Odpus.htm)||`@Compendium[pf2e.equipment-effects.zZsdex5orF5Odpus]`|
+|[Equipment Effect: Moderate Healer's Gel](equipment-effects/09-M3EFomnN5xArdQmV.htm)||`@Compendium[pf2e.equipment-effects.M3EFomnN5xArdQmV]`|
+|[Equipment Effect: Orchestral Brooch](equipment-effects/08-WHAp9cDOqnJ1VCcg.htm)||`@Compendium[pf2e.equipment-effects.WHAp9cDOqnJ1VCcg]`|
+|[Equipment Effect: Phoenix Flask](equipment-effects/12-z8FvdsKEY4lB2L8b.htm)||`@Compendium[pf2e.equipment-effects.z8FvdsKEY4lB2L8b]`|
+|[Equipment Effect: Potion of Minute Echoes](equipment-effects/03-HaZ5LB1wh1LY5wUy.htm)||`@Compendium[pf2e.equipment-effects.HaZ5LB1wh1LY5wUy]`|
+|[Equipment Effect: Potion of Stable Form](equipment-effects/01-uVxs1qFMQsGWXNs6.htm)||`@Compendium[pf2e.equipment-effects.uVxs1qFMQsGWXNs6]`|
+|[Equipment Effect: Sage's Lash (Turquoise)](equipment-effects/01-K21XQMoDVSPqzRla.htm)||`@Compendium[pf2e.equipment-effects.K21XQMoDVSPqzRla]`|
+|[Equipment Effect: South Wind's Scorch Song (Damage)](equipment-effects/10-hy6LAC13QIJNDYXm.htm)||`@Compendium[pf2e.equipment-effects.hy6LAC13QIJNDYXm]`|
+|[Equipment Effect: South Wind's Scorch Song (Speed Boost)](equipment-effects/10-eQqi3tWSHwV4SHqK.htm)||`@Compendium[pf2e.equipment-effects.eQqi3tWSHwV4SHqK]`|
+|[Equipment Effect: Topology Protoplasm](equipment-effects/07-vZPyQAt5T2L0Dfmq.htm)||`@Compendium[pf2e.equipment-effects.vZPyQAt5T2L0Dfmq]`|
+|[Spell Effect: Barkskin (Arboreal's Revenge)](equipment-effects/02-mCb9mWAmgWPQrkTY.htm)||`@Compendium[pf2e.equipment-effects.mCb9mWAmgWPQrkTY]`|
+
+
+## Effets des capacités
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Effect: Aberrant Blood Magic](feature-effects/01-UQ7vZgmfK0VSFS8A.htm)||`@Compendium[pf2e.feature-effects.UQ7vZgmfK0VSFS8A]`|
+|[Effect: Angelic Blood Magic](feature-effects/01-s1tulrmW6teTFjVd.htm)||`@Compendium[pf2e.feature-effects.s1tulrmW6teTFjVd]`|
+|[Effect: Battle Medicine Immunity](feature-effects/01-2XEYQNZTCGpdkyR6.htm)||`@Compendium[pf2e.feature-effects.2XEYQNZTCGpdkyR6]`|
+|[Effect: Celestial Wings](feature-effects/09-HfXGhXc9D120gvl5.htm)||`@Compendium[pf2e.feature-effects.HfXGhXc9D120gvl5]`|
+|[Effect: Debilitating Strike](feature-effects/01-yBTASi3FvnReAwHy.htm)||`@Compendium[pf2e.feature-effects.yBTASi3FvnReAwHy]`|
+|[Effect: Demonic Blood Magic (Self)](feature-effects/01-aKRo5TIhUtu0kyEr.htm)||`@Compendium[pf2e.feature-effects.aKRo5TIhUtu0kyEr]`|
+|[Effect: Demonic Blood Magic (Target)](feature-effects/01-yfbP64r4a9e5oyli.htm)||`@Compendium[pf2e.feature-effects.yfbP64r4a9e5oyli]`|
+|[Effect: Diabolic Blood Magic (Self)](feature-effects/01-n1vhmOd7aNiuR3nk.htm)||`@Compendium[pf2e.feature-effects.n1vhmOd7aNiuR3nk]`|
+|[Effect: Draconic Blood Magic](feature-effects/01-FNTTeJHiK6iOjrSq.htm)||`@Compendium[pf2e.feature-effects.FNTTeJHiK6iOjrSq]`|
+|[Effect: Elemental Blood Magic (Self)](feature-effects/01-3gGBZHcUFsHLJeQH.htm)||`@Compendium[pf2e.feature-effects.3gGBZHcUFsHLJeQH]`|
+|[Effect: Enduring Debilitating Strike](feature-effects/01-PX6WdrpzEdUzKRHx.htm)||`@Compendium[pf2e.feature-effects.PX6WdrpzEdUzKRHx]`|
+|[Effect: Fey Blood Magic](feature-effects/01-rJpkKaPRGaH0pLse.htm)||`@Compendium[pf2e.feature-effects.rJpkKaPRGaH0pLse]`|
+|[Effect: Genie Blood Magic (Self)](feature-effects/01-9AUcoY48H5LrVZiF.htm)||`@Compendium[pf2e.feature-effects.9AUcoY48H5LrVZiF]`|
+|[Effect: Genie Blood Magic (Target)](feature-effects/01-KVbS7AbhQdeuA0J6.htm)||`@Compendium[pf2e.feature-effects.KVbS7AbhQdeuA0J6]`|
+|[Effect: Hag Blood Magic](feature-effects/01-6fb15XuSV4TNuVAT.htm)||`@Compendium[pf2e.feature-effects.6fb15XuSV4TNuVAT]`|
+|[Effect: Hydration](feature-effects/01-Q5FUu7yhWPJlcXei.htm)||`@Compendium[pf2e.feature-effects.Q5FUu7yhWPJlcXei]`|
+|[Effect: Imperial Blood Magic](feature-effects/01-vguxP8ukwVTWWWaA.htm)||`@Compendium[pf2e.feature-effects.vguxP8ukwVTWWWaA]`|
+|[Effect: Major Battle Curse](feature-effects/01-JGNnron2gnYI1P78.htm)||`@Compendium[pf2e.feature-effects.JGNnron2gnYI1P78]`|
+|[Effect: Major Bones Curse](feature-effects/01-Osr01ZmGZNdArXyT.htm)||`@Compendium[pf2e.feature-effects.Osr01ZmGZNdArXyT]`|
+|[Effect: Major Cosmos Curse](feature-effects/01-cCouACwRwxjEgy7u.htm)||`@Compendium[pf2e.feature-effects.cCouACwRwxjEgy7u]`|
+|[Effect: Major Flames Curse](feature-effects/01-GRX2p4ddGnoqihYC.htm)||`@Compendium[pf2e.feature-effects.GRX2p4ddGnoqihYC]`|
+|[Effect: Major Life Curse](feature-effects/01-KTNjMlO3WZFx7Suj.htm)||`@Compendium[pf2e.feature-effects.KTNjMlO3WZFx7Suj]`|
+|[Effect: Major Lore Curse](feature-effects/01-rhG0ZcTBxfxGve5k.htm)||`@Compendium[pf2e.feature-effects.rhG0ZcTBxfxGve5k]`|
+|[Effect: Major Martial Ancestor Curse](feature-effects/01-OzA7pUzYe2ZIprYJ.htm)||`@Compendium[pf2e.feature-effects.OzA7pUzYe2ZIprYJ]`|
+|[Effect: Major Skillful Ancestor Curse](feature-effects/01-0H4WuqjCxpXX67eK.htm)||`@Compendium[pf2e.feature-effects.0H4WuqjCxpXX67eK]`|
+|[Effect: Major Spellcasting Ancestor Curse](feature-effects/01-gVzPZm12KujYWxMb.htm)||`@Compendium[pf2e.feature-effects.gVzPZm12KujYWxMb]`|
+|[Effect: Major Tempest Curse](feature-effects/01-jB6iDPaOSWrgxsEh.htm)||`@Compendium[pf2e.feature-effects.jB6iDPaOSWrgxsEh]`|
+|[Effect: Minor Battle Curse](feature-effects/01-922SDayUnipK4wlx.htm)||`@Compendium[pf2e.feature-effects.922SDayUnipK4wlx]`|
+|[Effect: Minor Bones Curse](feature-effects/01-whf92aQ6aMwByjFn.htm)||`@Compendium[pf2e.feature-effects.whf92aQ6aMwByjFn]`|
+|[Effect: Minor Cosmos Curse](feature-effects/01-usi1qa95gK4WnFIg.htm)||`@Compendium[pf2e.feature-effects.usi1qa95gK4WnFIg]`|
+|[Effect: Minor Flames Curse](feature-effects/01-T6En6oEDwSycRyAG.htm)||`@Compendium[pf2e.feature-effects.T6En6oEDwSycRyAG]`|
+|[Effect: Minor Life Curse](feature-effects/01-yR4XFhh3irGBgPmJ.htm)||`@Compendium[pf2e.feature-effects.yR4XFhh3irGBgPmJ]`|
+|[Effect: Minor Lore Curse](feature-effects/01-zYKkObDPVRQOtwPh.htm)||`@Compendium[pf2e.feature-effects.zYKkObDPVRQOtwPh]`|
+|[Effect: Minor Martial Ancestor Curse](feature-effects/01-IrMgMRXf258bdIDo.htm)||`@Compendium[pf2e.feature-effects.IrMgMRXf258bdIDo]`|
+|[Effect: Minor Skillful Ancestor Curse](feature-effects/01-2uZfgqV279rxX4NK.htm)||`@Compendium[pf2e.feature-effects.2uZfgqV279rxX4NK]`|
+|[Effect: Minor Spellcaster Ancestor Curse](feature-effects/01-iZHqhBHIZ0TB5Dbn.htm)||`@Compendium[pf2e.feature-effects.iZHqhBHIZ0TB5Dbn]`|
+|[Effect: Minor Tempest Curse](feature-effects/01-IvXLHQySVNj4qMOi.htm)||`@Compendium[pf2e.feature-effects.IvXLHQySVNj4qMOi]`|
+|[Effect: Moderate Battle Curse](feature-effects/01-5q4JYkYlqOK2kXWy.htm)||`@Compendium[pf2e.feature-effects.5q4JYkYlqOK2kXWy]`|
+|[Effect: Moderate Bones Curse](feature-effects/01-74K4QxDp37huY8dm.htm)||`@Compendium[pf2e.feature-effects.74K4QxDp37huY8dm]`|
+|[Effect: Moderate Cosmos Curse](feature-effects/01-GaTJBSkIaDEG36Ot.htm)||`@Compendium[pf2e.feature-effects.GaTJBSkIaDEG36Ot]`|
+|[Effect: Moderate Flames Curse](feature-effects/01-d0fXbhu8qH1TQwXE.htm)||`@Compendium[pf2e.feature-effects.d0fXbhu8qH1TQwXE]`|
+|[Effect: Moderate Life Curse](feature-effects/01-9GIlMB09zKCsnuBP.htm)||`@Compendium[pf2e.feature-effects.9GIlMB09zKCsnuBP]`|
+|[Effect: Moderate Lore Curse](feature-effects/01-MrLjJVltBpvMMD8Q.htm)||`@Compendium[pf2e.feature-effects.MrLjJVltBpvMMD8Q]`|
+|[Effect: Moderate Martial Ancestor Curse](feature-effects/01-XhOBnOBCju9GJ8Ts.htm)||`@Compendium[pf2e.feature-effects.XhOBnOBCju9GJ8Ts]`|
+|[Effect: Moderate Skillful Ancestor Curse](feature-effects/01-UTI8IkzXGlOHxrzc.htm)||`@Compendium[pf2e.feature-effects.UTI8IkzXGlOHxrzc]`|
+|[Effect: Moderate Spellcasting Ancestor Curse](feature-effects/01-FClOlGn44lFLqmbA.htm)||`@Compendium[pf2e.feature-effects.FClOlGn44lFLqmbA]`|
+|[Effect: Moderate Tempest Curse](feature-effects/01-fyuZlKJ4N0zScltj.htm)||`@Compendium[pf2e.feature-effects.fyuZlKJ4N0zScltj]`|
+|[Effect: Nymph Blood Magic (Self)](feature-effects/01-SVGW8CLKwixFlnTv.htm)||`@Compendium[pf2e.feature-effects.SVGW8CLKwixFlnTv]`|
+|[Effect: Nymph Blood Magic (Target)](feature-effects/01-ruRAfGJnik7lRavk.htm)||`@Compendium[pf2e.feature-effects.ruRAfGJnik7lRavk]`|
+|[Effect: Panache](feature-effects/01-uBJsxCzNhje8m8jj.htm)||`@Compendium[pf2e.feature-effects.uBJsxCzNhje8m8jj]`|
+|[Effect: Psychopomp Blood Magic (Self)](feature-effects/01-7BFd8A9HFrmg6vwL.htm)||`@Compendium[pf2e.feature-effects.7BFd8A9HFrmg6vwL]`|
+|[Effect: Rage](feature-effects/01-z3uyCMBddrPK5umr.htm)||`@Compendium[pf2e.feature-effects.z3uyCMBddrPK5umr]`|
+|[Effect: Shadow Blood Magic (Perception)](feature-effects/01-Nv70aqcQgCBpDYp8.htm)||`@Compendium[pf2e.feature-effects.Nv70aqcQgCBpDYp8]`|
+|[Effect: Shadow Blood Magic (Stealth)](feature-effects/01-OqH6IaeOwRWkGPrk.htm)||`@Compendium[pf2e.feature-effects.OqH6IaeOwRWkGPrk]`|
+|[Effect: Treat Wounds Immunity](feature-effects/01-Lb4q2bBAgxamtix5.htm)||`@Compendium[pf2e.feature-effects.Lb4q2bBAgxamtix5]`|
+|[Effect: Wymblessed Blood Magic (Status Bonus - Self)](feature-effects/01-c6yRHikgf6cm7cyB.htm)||`@Compendium[pf2e.feature-effects.c6yRHikgf6cm7cyB]`|
+|[Effect: Wymblessed Blood Magic (Status Penalty - Target)](feature-effects/01-nX7fp5pZhTJH6Qfa.htm)||`@Compendium[pf2e.feature-effects.nX7fp5pZhTJH6Qfa]`|
+|[Stance: Arcane Cascade](feature-effects/01-fsjO5oTKttsbpaKl.htm)||`@Compendium[pf2e.feature-effects.fsjO5oTKttsbpaKl]`|
+
+
+## Effets des consommables
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Effect: Antidote (Greater)](consumable-effects/10-QuZ5frBMJF3gi7RY.htm)||`@Compendium[pf2e.consumable-effects.QuZ5frBMJF3gi7RY]`|
+|[Effect: Antidote (Lesser)](consumable-effects/01-7z1iY4AaNEAIKuAU.htm)||`@Compendium[pf2e.consumable-effects.7z1iY4AaNEAIKuAU]`|
+|[Effect: Antidote (Major)](consumable-effects/14-1mKjaWC65KWPuFR4.htm)||`@Compendium[pf2e.consumable-effects.1mKjaWC65KWPuFR4]`|
+|[Effect: Antidote (Moderate)](consumable-effects/06-mi4Md1fB2XThCand.htm)||`@Compendium[pf2e.consumable-effects.mi4Md1fB2XThCand]`|
+|[Effect: Antiplague (Greater)](consumable-effects/10-R106i7WCXvHLGMTu.htm)||`@Compendium[pf2e.consumable-effects.R106i7WCXvHLGMTu]`|
+|[Effect: Antiplague (Lesser)](consumable-effects/01-kkDbalYEavzRpYlp.htm)||`@Compendium[pf2e.consumable-effects.kkDbalYEavzRpYlp]`|
+|[Effect: Antiplague (Major)](consumable-effects/14-qVKrrKpTghgMIuGH.htm)||`@Compendium[pf2e.consumable-effects.qVKrrKpTghgMIuGH]`|
+|[Effect: Antiplague (Moderate)](consumable-effects/06-HeRHBo2NaKy5IxhU.htm)||`@Compendium[pf2e.consumable-effects.HeRHBo2NaKy5IxhU]`|
+|[Effect: Applereed Mutagen (Greater)](consumable-effects/18-tTBJ33UGtzXjWOJp.htm)||`@Compendium[pf2e.consumable-effects.tTBJ33UGtzXjWOJp]`|
+|[Effect: Applereed Mutagen (Lesser)](consumable-effects/04-xVAdPzFaSvJXPMKv.htm)||`@Compendium[pf2e.consumable-effects.xVAdPzFaSvJXPMKv]`|
+|[Effect: Applereed Mutagen (Moderate)](consumable-effects/12-fYjvLx9DHIdCHdDx.htm)||`@Compendium[pf2e.consumable-effects.fYjvLx9DHIdCHdDx]`|
+|[Effect: Bestial Mutagen (Greater)](consumable-effects/11-kwD0wuW5Ndkc9YXB.htm)||`@Compendium[pf2e.consumable-effects.kwD0wuW5Ndkc9YXB]`|
+|[Effect: Bestial Mutagen (Lesser)](consumable-effects/01-fIpzDpuwLdIS4tW5.htm)||`@Compendium[pf2e.consumable-effects.fIpzDpuwLdIS4tW5]`|
+|[Effect: Bestial Mutagen (Major)](consumable-effects/17-1ouUo8lLK6H79Rqh.htm)||`@Compendium[pf2e.consumable-effects.1ouUo8lLK6H79Rqh]`|
+|[Effect: Bestial Mutagen (Moderate)](consumable-effects/03-xFQRiVU6h8EA6Lw9.htm)||`@Compendium[pf2e.consumable-effects.xFQRiVU6h8EA6Lw9]`|
+|[Effect: Bloodhound Mask (Greater)](consumable-effects/11-MI5OCkF9IXmD2lPF.htm)||`@Compendium[pf2e.consumable-effects.MI5OCkF9IXmD2lPF]`|
+|[Effect: Bloodhound Mask (Lesser)](consumable-effects/02-S4MZzALqFoXJsr6o.htm)||`@Compendium[pf2e.consumable-effects.S4MZzALqFoXJsr6o]`|
+|[Effect: Bloodhound Mask (Moderate)](consumable-effects/06-wFF0SZs1Hcf87Kk1.htm)||`@Compendium[pf2e.consumable-effects.wFF0SZs1Hcf87Kk1]`|
+|[Effect: Boulderhead Bock](consumable-effects/02-2C1HuKDQDGFZuv7l.htm)||`@Compendium[pf2e.consumable-effects.2C1HuKDQDGFZuv7l]`|
+|[Effect: Bravo's Brew (Greater)](consumable-effects/15-q1EhQ716bPSgJVnC.htm)||`@Compendium[pf2e.consumable-effects.q1EhQ716bPSgJVnC]`|
+|[Effect: Bravo's Brew (Lesser)](consumable-effects/02-eh7EqmDBDW30ShCu.htm)||`@Compendium[pf2e.consumable-effects.eh7EqmDBDW30ShCu]`|
+|[Effect: Bravo's Brew (Moderate)](consumable-effects/10-wTZnKkT0K4Tdy8mD.htm)||`@Compendium[pf2e.consumable-effects.wTZnKkT0K4Tdy8mD]`|
+|[Effect: Bronze Bull Pendant](consumable-effects/02-Cxa7MdgMCUoMqbKm.htm)||`@Compendium[pf2e.consumable-effects.Cxa7MdgMCUoMqbKm]`|
+|[Effect: Cheetah's Elixir (Greater)](consumable-effects/09-PeuUz7JaabCgl6Yh.htm)||`@Compendium[pf2e.consumable-effects.PeuUz7JaabCgl6Yh]`|
+|[Effect: Cheetah's Elixir (Lesser)](consumable-effects/01-lNWACCNe9RYgaFxb.htm)||`@Compendium[pf2e.consumable-effects.lNWACCNe9RYgaFxb]`|
+|[Effect: Cheetah's Elixir (Moderate)](consumable-effects/05-j9zVZwRBVAcnpEkE.htm)||`@Compendium[pf2e.consumable-effects.j9zVZwRBVAcnpEkE]`|
+|[Effect: Cognitive Mutagen (Greater)](consumable-effects/11-qit1mLbJUyRTYcPU.htm)||`@Compendium[pf2e.consumable-effects.qit1mLbJUyRTYcPU]`|
+|[Effect: Cognitive Mutagen (Lesser)](consumable-effects/01-jaBMZKdoywOTrQvP.htm)||`@Compendium[pf2e.consumable-effects.jaBMZKdoywOTrQvP]`|
+|[Effect: Cognitive Mutagen (Major)](consumable-effects/17-RT1BxXrbbGgk40Ti.htm)||`@Compendium[pf2e.consumable-effects.RT1BxXrbbGgk40Ti]`|
+|[Effect: Cognitive Mutagen (Moderate)](consumable-effects/03-ztxW3lBPRcesF7wK.htm)||`@Compendium[pf2e.consumable-effects.ztxW3lBPRcesF7wK]`|
+|[Effect: Darkvision Elixir (Greater)](consumable-effects/08-7vCenP9j6FuHRv5C.htm)||`@Compendium[pf2e.consumable-effects.7vCenP9j6FuHRv5C]`|
+|[Effect: Darkvision Elixir (Lesser)](consumable-effects/02-7UL8belWmo7U5YGM.htm)||`@Compendium[pf2e.consumable-effects.7UL8belWmo7U5YGM]`|
+|[Effect: Darkvision Elixir (Moderate)](consumable-effects/04-bcxVvIbuZWOvsKcA.htm)||`@Compendium[pf2e.consumable-effects.bcxVvIbuZWOvsKcA]`|
+|[Effect: Dragon Turtle Scale](consumable-effects/04-4tepFOJLhZSelPoa.htm)||`@Compendium[pf2e.consumable-effects.4tepFOJLhZSelPoa]`|
+|[Effect: Drakeheart Mutagen (Greater)](consumable-effects/11-qwoLV4awdezlEJ60.htm)||`@Compendium[pf2e.consumable-effects.qwoLV4awdezlEJ60]`|
+|[Effect: Drakeheart Mutagen (Lesser)](consumable-effects/01-GBBjw61g4ekJymT0.htm)||`@Compendium[pf2e.consumable-effects.GBBjw61g4ekJymT0]`|
+|[Effect: Drakeheart Mutagen (Major)](consumable-effects/17-vFOr2JAJxiVvvn2E.htm)||`@Compendium[pf2e.consumable-effects.vFOr2JAJxiVvvn2E]`|
+|[Effect: Drakeheart Mutagen (Moderate)](consumable-effects/03-BV8RPntjc9FUzD3g.htm)||`@Compendium[pf2e.consumable-effects.BV8RPntjc9FUzD3g]`|
+|[Effect: Eagle Eye Elixir (Greater)](consumable-effects/10-kgotU0sFmtAHYySB.htm)||`@Compendium[pf2e.consumable-effects.kgotU0sFmtAHYySB]`|
+|[Effect: Eagle Eye Elixir (Lesser)](consumable-effects/01-VCypzSu659eC6jNi.htm)||`@Compendium[pf2e.consumable-effects.VCypzSu659eC6jNi]`|
+|[Effect: Eagle Eye Elixir (Major)](consumable-effects/16-wyLEew86nhNUXASu.htm)||`@Compendium[pf2e.consumable-effects.wyLEew86nhNUXASu]`|
+|[Effect: Eagle Eye Elixir (Moderate)](consumable-effects/05-Wa4317cqU4lJ8vAQ.htm)||`@Compendium[pf2e.consumable-effects.Wa4317cqU4lJ8vAQ]`|
+|[Effect: Elixir of Life (Greater)](consumable-effects/13-Z9oPh462q82IYIZ6.htm)||`@Compendium[pf2e.consumable-effects.Z9oPh462q82IYIZ6]`|
+|[Effect: Elixir of Life (Lesser)](consumable-effects/05-EpB7yJPEuG6ez4z3.htm)||`@Compendium[pf2e.consumable-effects.EpB7yJPEuG6ez4z3]`|
+|[Effect: Elixir of Life (Major)](consumable-effects/15-PpLxndUSgzgs6dd0.htm)||`@Compendium[pf2e.consumable-effects.PpLxndUSgzgs6dd0]`|
+|[Effect: Elixir of Life (Minor)](consumable-effects/01-lPRuIRbu0rHBkoKY.htm)||`@Compendium[pf2e.consumable-effects.lPRuIRbu0rHBkoKY]`|
+|[Effect: Elixir of Life (Moderate)](consumable-effects/09-Yxssrnh9UZJAM0V7.htm)||`@Compendium[pf2e.consumable-effects.Yxssrnh9UZJAM0V7]`|
+|[Effect: Elixir of Life (True)](consumable-effects/19-9MeHc072G4L8AJkp.htm)||`@Compendium[pf2e.consumable-effects.9MeHc072G4L8AJkp]`|
+|[Effect: Gecko Potion](consumable-effects/01-buJnkFBzL4e22ASp.htm)||`@Compendium[pf2e.consumable-effects.buJnkFBzL4e22ASp]`|
+|[Effect: Juggernaut Mutagen (Greater)](consumable-effects/11-xLilBqqf34ZJYO9i.htm)||`@Compendium[pf2e.consumable-effects.xLilBqqf34ZJYO9i]`|
+|[Effect: Juggernaut Mutagen (Lesser)](consumable-effects/01-1l139A2Qik4lBHKO.htm)||`@Compendium[pf2e.consumable-effects.1l139A2Qik4lBHKO]`|
+|[Effect: Juggernaut Mutagen (Major)](consumable-effects/17-2PNo8u4wxSbz5WEs.htm)||`@Compendium[pf2e.consumable-effects.2PNo8u4wxSbz5WEs]`|
+|[Effect: Juggernaut Mutagen (Moderate)](consumable-effects/03-fUrZ4xcMJz0CfTyG.htm)||`@Compendium[pf2e.consumable-effects.fUrZ4xcMJz0CfTyG]`|
+|[Effect: Lastwall Soup](consumable-effects/01-6A8jsLR7upLGuRiv.htm)||`@Compendium[pf2e.consumable-effects.6A8jsLR7upLGuRiv]`|
+|[Effect: Potion of Flying (Greater)](consumable-effects/15-Zdh2uO1vVYJmaqld.htm)||`@Compendium[pf2e.consumable-effects.Zdh2uO1vVYJmaqld]`|
+|[Effect: Potion of Flying (Standard)](consumable-effects/08-Mf9EBLhYmZerf0nS.htm)||`@Compendium[pf2e.consumable-effects.Mf9EBLhYmZerf0nS]`|
+|[Effect: Potion of Swimming (Greater)](consumable-effects/11-ModBoFdCi7YQU4gP.htm)||`@Compendium[pf2e.consumable-effects.ModBoFdCi7YQU4gP]`|
+|[Effect: Potion of Swimming (Moderate)](consumable-effects/06-W3xQBLj5hLOtb6Tj.htm)||`@Compendium[pf2e.consumable-effects.W3xQBLj5hLOtb6Tj]`|
+|[Effect: Quicksilver Mutagen (Greater)](consumable-effects/11-2Bds6d4UGQZqYSZM.htm)||`@Compendium[pf2e.consumable-effects.2Bds6d4UGQZqYSZM]`|
+|[Effect: Quicksilver Mutagen (Lesser)](consumable-effects/01-6PNLBIdlqqWNCFMy.htm)||`@Compendium[pf2e.consumable-effects.6PNLBIdlqqWNCFMy]`|
+|[Effect: Quicksilver Mutagen (Major)](consumable-effects/17-988f6NpOo4YzFzIr.htm)||`@Compendium[pf2e.consumable-effects.988f6NpOo4YzFzIr]`|
+|[Effect: Quicksilver Mutagen (Moderate)](consumable-effects/03-VPtsrpbP0AE642al.htm)||`@Compendium[pf2e.consumable-effects.VPtsrpbP0AE642al]`|
+|[Effect: Salve of Slipperiness](consumable-effects/05-MCny5ohCGf09a7Wl.htm)||`@Compendium[pf2e.consumable-effects.MCny5ohCGf09a7Wl]`|
+|[Effect: Sea Touch Elixir (Greater)](consumable-effects/05-RRusoN3HEGnDO1Dg.htm)||`@Compendium[pf2e.consumable-effects.RRusoN3HEGnDO1Dg]`|
+|[Effect: Sea Touch Elixir (Lesser)](consumable-effects/05-thOpQunbQr77XWdF.htm)||`@Compendium[pf2e.consumable-effects.thOpQunbQr77XWdF]`|
+|[Effect: Sea Touch Elixir (Moderate)](consumable-effects/12-9keegq0GdS1eSrNr.htm)||`@Compendium[pf2e.consumable-effects.9keegq0GdS1eSrNr]`|
+|[Effect: Serene Mutagen (Greater)](consumable-effects/11-jw6Tr9FbErjLAFLQ.htm)||`@Compendium[pf2e.consumable-effects.jw6Tr9FbErjLAFLQ]`|
+|[Effect: Serene Mutagen (Lesser)](consumable-effects/01-5xgapIXn5DwbXHKh.htm)||`@Compendium[pf2e.consumable-effects.5xgapIXn5DwbXHKh]`|
+|[Effect: Serene Mutagen (Major)](consumable-effects/17-t7VUJHSUT6bkVUjg.htm)||`@Compendium[pf2e.consumable-effects.t7VUJHSUT6bkVUjg]`|
+|[Effect: Serene Mutagen (Moderate)](consumable-effects/03-yrbz0rZzp8aZEqbv.htm)||`@Compendium[pf2e.consumable-effects.yrbz0rZzp8aZEqbv]`|
+|[Effect: Shielding Salve](consumable-effects/01-16tOZk4qy329s2aK.htm)||`@Compendium[pf2e.consumable-effects.16tOZk4qy329s2aK]`|
+|[Effect: Shrinking Potion (Greater)](consumable-effects/08-zd85Ny1RS46OL0TD.htm)||`@Compendium[pf2e.consumable-effects.zd85Ny1RS46OL0TD]`|
+|[Effect: Silvertongue Mutagen (Greater)](consumable-effects/11-oAewXfq9c0ecaSfw.htm)||`@Compendium[pf2e.consumable-effects.oAewXfq9c0ecaSfw]`|
+|[Effect: Silvertongue Mutagen (Lesser)](consumable-effects/01-dpIrjd1UPY7EnWUD.htm)||`@Compendium[pf2e.consumable-effects.dpIrjd1UPY7EnWUD]`|
+|[Effect: Silvertongue Mutagen (Major)](consumable-effects/17-9FfFhu2kl2wMTsiI.htm)||`@Compendium[pf2e.consumable-effects.9FfFhu2kl2wMTsiI]`|
+|[Effect: Silvertongue Mutagen (Moderate)](consumable-effects/03-v5Ht1V4MZvRKRBjL.htm)||`@Compendium[pf2e.consumable-effects.v5Ht1V4MZvRKRBjL]`|
+|[Effect: Sixfingers Elixir (Greater)](consumable-effects/17-TkRuKKYyPHTGPfgf.htm)||`@Compendium[pf2e.consumable-effects.TkRuKKYyPHTGPfgf]`|
+|[Effect: Sixfingers Elixir (Lesser)](consumable-effects/05-XrlChFETfe8avLsX.htm)||`@Compendium[pf2e.consumable-effects.XrlChFETfe8avLsX]`|
+|[Effect: Sixfingers Elixir (Moderate)](consumable-effects/11-qzRcSQ0HTTp58hV2.htm)||`@Compendium[pf2e.consumable-effects.qzRcSQ0HTTp58hV2]`|
+|[Effect: Skeptic's Elixir (Greater)](consumable-effects/11-TsWUTODTVi487SEz.htm)||`@Compendium[pf2e.consumable-effects.TsWUTODTVi487SEz]`|
+|[Effect: Skeptic's Elixir (Lesser)](consumable-effects/01-5Gof60StUppR2Xn9.htm)||`@Compendium[pf2e.consumable-effects.5Gof60StUppR2Xn9]`|
+|[Effect: Skeptic's Elixir (Moderate)](consumable-effects/06-mG6S6zm6hxaF7Tla.htm)||`@Compendium[pf2e.consumable-effects.mG6S6zm6hxaF7Tla]`|
+|[Effect: Skinstitch Salve](consumable-effects/07-zlSNbMDIlTOpcO8R.htm)||`@Compendium[pf2e.consumable-effects.zlSNbMDIlTOpcO8R]`|
+|[Effect: Stone Body Mutagen (Greater)](consumable-effects/15-b9DTIJyBT8kvIBpj.htm)||`@Compendium[pf2e.consumable-effects.b9DTIJyBT8kvIBpj]`|
+|[Effect: Stone Body Mutagen (Lesser)](consumable-effects/05-PEPOd38VfVzQMKG5.htm)||`@Compendium[pf2e.consumable-effects.PEPOd38VfVzQMKG5]`|
+|[Effect: Stone Body Mutagen (Moderate)](consumable-effects/12-1xHHvQlW4pRR89qj.htm)||`@Compendium[pf2e.consumable-effects.1xHHvQlW4pRR89qj]`|
+|[Effect: Stone Fist Elixir](consumable-effects/04-AMhUb42NAJ1aisZp.htm)||`@Compendium[pf2e.consumable-effects.AMhUb42NAJ1aisZp]`|
+|[Effect: Sun Orchid Poultice](consumable-effects/18-kwOtHtmlH69ctK0O.htm)||`@Compendium[pf2e.consumable-effects.kwOtHtmlH69ctK0O]`|
+|[Effect: Vermin Repellent Agent (Greater)](consumable-effects/12-VrYfR2WuyA15zFhq.htm)||`@Compendium[pf2e.consumable-effects.VrYfR2WuyA15zFhq]`|
+|[Effect: Vermin Repellent Agent (Lesser)](consumable-effects/03-OAN5Fj21PJPhIqRU.htm)||`@Compendium[pf2e.consumable-effects.OAN5Fj21PJPhIqRU]`|
+|[Effect: Vermin Repellent Agent (Major)](consumable-effects/16-e6dXfbKzv5sNr1zh.htm)||`@Compendium[pf2e.consumable-effects.e6dXfbKzv5sNr1zh]`|
+|[Effect: Vermin Repellent Agent (Moderate)](consumable-effects/08-Hnt3Trd7TiFICB06.htm)||`@Compendium[pf2e.consumable-effects.Hnt3Trd7TiFICB06]`|
+
+
+## Effets des dons
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Effect: Accursed Clay Fist](feat-effects/01-bvk5rwYSoTtz8QGf.htm)||`@Compendium[pf2e.feat-effects.bvk5rwYSoTtz8QGf]`|
+|[Effect: Align Armament (Chaotic)](feat-effects/08-XC3dRbwfu35vuvmM.htm)||`@Compendium[pf2e.feat-effects.XC3dRbwfu35vuvmM]`|
+|[Effect: Align Armament (Evil)](feat-effects/08-eA14bUF7xhNCzw2v.htm)||`@Compendium[pf2e.feat-effects.eA14bUF7xhNCzw2v]`|
+|[Effect: Align Armament (Good)](feat-effects/08-bl4HXm1e4NQ0iJs5.htm)||`@Compendium[pf2e.feat-effects.bl4HXm1e4NQ0iJs5]`|
+|[Effect: Align Armament (Lawful)](feat-effects/08-KkbFlNfcQQUfSVXd.htm)||`@Compendium[pf2e.feat-effects.KkbFlNfcQQUfSVXd]`|
+|[Effect: Anoint Ally](feat-effects/01-nnF7RSVlC6swbSw8.htm)||`@Compendium[pf2e.feat-effects.nnF7RSVlC6swbSw8]`|
+|[Effect: Aquatic Endemic Herbs](feat-effects/01-NviQYIVZbPCSWLqT.htm)||`@Compendium[pf2e.feat-effects.NviQYIVZbPCSWLqT]`|
+|[Effect: Arctic Endemic Herb](feat-effects/01-2RwhJ9fbJtcQjW6s.htm)||`@Compendium[pf2e.feat-effects.2RwhJ9fbJtcQjW6s]`|
+|[Effect: Assisting Shot](feat-effects/02-zcJii1XyOne9EvMr.htm)||`@Compendium[pf2e.feat-effects.zcJii1XyOne9EvMr]`|
+|[Effect: Assisting Shot (Critical Hit)](feat-effects/02-AAgoUuwMvHzqNhIN.htm)||`@Compendium[pf2e.feat-effects.AAgoUuwMvHzqNhIN]`|
+|[Effect: Aura of Despair](feat-effects/04-MNkIxAishE22TqL3.htm)||`@Compendium[pf2e.feat-effects.MNkIxAishE22TqL3]`|
+|[Effect: Aura of Faith](feat-effects/12-VOOShYoB4gTopZtg.htm)||`@Compendium[pf2e.feat-effects.VOOShYoB4gTopZtg]`|
+|[Effect: Aura of Life](feat-effects/14-FPuICuxBLiDaEbDX.htm)||`@Compendium[pf2e.feat-effects.FPuICuxBLiDaEbDX]`|
+|[Effect: Aura of Preservation](feat-effects/14-18FHJoazfEmgNkfk.htm)||`@Compendium[pf2e.feat-effects.18FHJoazfEmgNkfk]`|
+|[Effect: Avenge in Glory](feat-effects/01-JQUoBlZKT5N5zO5k.htm)||`@Compendium[pf2e.feat-effects.JQUoBlZKT5N5zO5k]`|
+|[Effect: Azarketi Purification](feat-effects/09-8rDbWcWmQL0N5FFG.htm)||`@Compendium[pf2e.feat-effects.8rDbWcWmQL0N5FFG]`|
+|[Effect: Bespell Weapon](feat-effects/04-E8MiV00QEhH5n18L.htm)||`@Compendium[pf2e.feat-effects.E8MiV00QEhH5n18L]`|
+|[Effect: Bespell Weapon (Force)](feat-effects/04-GbbwJhwSNLw06XpO.htm)||`@Compendium[pf2e.feat-effects.GbbwJhwSNLw06XpO]`|
+|[Effect: Bespell Weapon (Mental)](feat-effects/04-ZSgB3imGveukWUxs.htm)||`@Compendium[pf2e.feat-effects.ZSgB3imGveukWUxs]`|
+|[Effect: Bespell Weapon (Negative)](feat-effects/04-G1IRkppxJCYdfqXo.htm)||`@Compendium[pf2e.feat-effects.G1IRkppxJCYdfqXo]`|
+|[Effect: Blade Ally Anarchic Rune](feat-effects/01-xLXFK4mtzgAF4zvx.htm)||`@Compendium[pf2e.feat-effects.xLXFK4mtzgAF4zvx]`|
+|[Effect: Blade Ally Axiomatic Rune](feat-effects/01-ZzE6jPbCyUqEqhcb.htm)||`@Compendium[pf2e.feat-effects.ZzE6jPbCyUqEqhcb]`|
+|[Effect: Blade Ally Disrupting Rune](feat-effects/01-eippbzuocVM6ftcj.htm)||`@Compendium[pf2e.feat-effects.eippbzuocVM6ftcj]`|
+|[Effect: Blade Ally Disrupting Rune (Greater)](feat-effects/01-HjfIXg5btodThCTW.htm)||`@Compendium[pf2e.feat-effects.HjfIXg5btodThCTW]`|
+|[Effect: Blade Ally Fearsome Rune](feat-effects/01-6LgJB4ypaSTWSJLu.htm)||`@Compendium[pf2e.feat-effects.6LgJB4ypaSTWSJLu]`|
+|[Effect: Blade Ally Flaming Rune](feat-effects/01-YxYr18vleIt2t3RS.htm)||`@Compendium[pf2e.feat-effects.YxYr18vleIt2t3RS]`|
+|[Effect: Blade Ally Ghost Touch Rune](feat-effects/01-Rgio0hasm2epEMfh.htm)||`@Compendium[pf2e.feat-effects.Rgio0hasm2epEMfh]`|
+|[Effect: Blade Ally Holy Rune](feat-effects/01-l98IthkklgLDJXIo.htm)||`@Compendium[pf2e.feat-effects.l98IthkklgLDJXIo]`|
+|[Effect: Blade Ally Keen Rune](feat-effects/01-Gf7h44DcTB43464h.htm)||`@Compendium[pf2e.feat-effects.Gf7h44DcTB43464h]`|
+|[Effect: Blade Ally Unholy Rune](feat-effects/01-rGSc2PtvU3mgm18S.htm)||`@Compendium[pf2e.feat-effects.rGSc2PtvU3mgm18S]`|
+|[Effect: Blizzard Evasion](feat-effects/01-JF2xCqL6t4UJZtUi.htm)||`@Compendium[pf2e.feat-effects.JF2xCqL6t4UJZtUi]`|
+|[Effect: Bolera's Interrogation (Critical Failure)](feat-effects/01-VIScVb6Hl7KwoWfH.htm)||`@Compendium[pf2e.feat-effects.VIScVb6Hl7KwoWfH]`|
+|[Effect: Bolera's Interrogation (failure)](feat-effects/01-bmVwaN0C4e9fE2Sz.htm)||`@Compendium[pf2e.feat-effects.bmVwaN0C4e9fE2Sz]`|
+|[Effect: Bon Mot](feat-effects/01-GoSls6SKCFmSoDxT.htm)||`@Compendium[pf2e.feat-effects.GoSls6SKCFmSoDxT]`|
+|[Effect: Bon Mot (Critical Success)](feat-effects/01-CtrZFI3RV0yPNzTv.htm)||`@Compendium[pf2e.feat-effects.CtrZFI3RV0yPNzTv]`|
+|[Effect: Bristle](feat-effects/01-4Zj71naHbY6O9ggP.htm)||`@Compendium[pf2e.feat-effects.4Zj71naHbY6O9ggP]`|
+|[Effect: Cat Nap](feat-effects/01-l3S9i2UWGhSO58YX.htm)||`@Compendium[pf2e.feat-effects.l3S9i2UWGhSO58YX]`|
+|[Effect: Catfolk Dance](feat-effects/01-5bEnBqVOgdp4gROP.htm)||`@Compendium[pf2e.feat-effects.5bEnBqVOgdp4gROP]`|
+|[Effect: Cavalier's Banner](feat-effects/01-xDT10fUWp8UStSZR.htm)||`@Compendium[pf2e.feat-effects.xDT10fUWp8UStSZR]`|
+|[Effect: Ceremony of Protection](feat-effects/01-9kNbiZPOM2wy60ao.htm)||`@Compendium[pf2e.feat-effects.9kNbiZPOM2wy60ao]`|
+|[Effect: Clue In](feat-effects/01-vhSYlQiAQMLuXqoc.htm)||`@Compendium[pf2e.feat-effects.vhSYlQiAQMLuXqoc]`|
+|[Effect: Clue In (Detective's Readiness)](feat-effects/04-rUKtp4q8y73AvCbo.htm)||`@Compendium[pf2e.feat-effects.rUKtp4q8y73AvCbo]`|
+|[Effect: Clue In (Detective's Readiness, Expertise)](feat-effects/09-z4pnE8KyUdEkJmru.htm)||`@Compendium[pf2e.feat-effects.z4pnE8KyUdEkJmru]`|
+|[Effect: Clue In (Expertise)](feat-effects/09-uA1Ofqoyi0UiZIPk.htm)||`@Compendium[pf2e.feat-effects.uA1Ofqoyi0UiZIPk]`|
+|[Effect: Combat Mentor Boon (PFS)](feat-effects/01-q2kY0TzXloJ8HLNO.htm)||`@Compendium[pf2e.feat-effects.q2kY0TzXloJ8HLNO]`|
+|[Effect: Control Tower](feat-effects/01-mkIamZGtQaSsUWLk.htm)||`@Compendium[pf2e.feat-effects.mkIamZGtQaSsUWLk]`|
+|[Effect: Crimson Shroud](feat-effects/06-6YhbQmOmbmy84W1C.htm)||`@Compendium[pf2e.feat-effects.6YhbQmOmbmy84W1C]`|
+|[Effect: Current Spell (Air)](feat-effects/06-T5rsLTqS274B9Mly.htm)||`@Compendium[pf2e.feat-effects.T5rsLTqS274B9Mly]`|
+|[Effect: Current Spell (Water)](feat-effects/06-DhvSMIFs6xifgQHX.htm)||`@Compendium[pf2e.feat-effects.DhvSMIFs6xifgQHX]`|
+|[Effect: Cut from the Air](feat-effects/10-gWwG7MNAesJgpmRW.htm)||`@Compendium[pf2e.feat-effects.gWwG7MNAesJgpmRW]`|
+|[Effect: Deadly Poison Weapon](feat-effects/01-ed9iJxdHuft6bDFF.htm)||`@Compendium[pf2e.feat-effects.ed9iJxdHuft6bDFF]`|
+|[Effect: Decry Thief (Critical Success)](feat-effects/01-kAgUld9PcI4XkHbq.htm)||`@Compendium[pf2e.feat-effects.kAgUld9PcI4XkHbq]`|
+|[Effect: Decry Thief (Success)](feat-effects/01-FyaekbWsazkJhJda.htm)||`@Compendium[pf2e.feat-effects.FyaekbWsazkJhJda]`|
+|[Effect: Deep Freeze (Critical Failure)](feat-effects/01-MRo1SI1Y5PgdNf8r.htm)||`@Compendium[pf2e.feat-effects.MRo1SI1Y5PgdNf8r]`|
+|[Effect: Deep Freeze (Failure)](feat-effects/01-vQj9I3FShzx3lNoG.htm)||`@Compendium[pf2e.feat-effects.vQj9I3FShzx3lNoG]`|
+|[Effect: Deep Freeze (Success)](feat-effects/01-WKbsjhjYIMv59JQg.htm)||`@Compendium[pf2e.feat-effects.WKbsjhjYIMv59JQg]`|
+|[Effect: Defensive Instincts](feat-effects/01-pTYTanMHMwSgJ8TN.htm)||`@Compendium[pf2e.feat-effects.pTYTanMHMwSgJ8TN]`|
+|[Effect: Defensive Recovery](feat-effects/12-jwxurN6JPQm9wXug.htm)||`@Compendium[pf2e.feat-effects.jwxurN6JPQm9wXug]`|
+|[Effect: Desert Endemic Herbs](feat-effects/01-jZYRxGHyArCci6AF.htm)||`@Compendium[pf2e.feat-effects.jZYRxGHyArCci6AF]`|
+|[Effect: Didactic Strike](feat-effects/16-72THfaqak0F4XnON.htm)||`@Compendium[pf2e.feat-effects.72THfaqak0F4XnON]`|
+|[Effect: Discordant Voice](feat-effects/01-oXG7eX26FmePmwUF.htm)||`@Compendium[pf2e.feat-effects.oXG7eX26FmePmwUF]`|
+|[Effect: Distracting Feint](feat-effects/01-7hRgBo0fRQBxMK7g.htm)||`@Compendium[pf2e.feat-effects.7hRgBo0fRQBxMK7g]`|
+|[Effect: Divine Aegis](feat-effects/01-K1IgNCf3Hh2EJwQ9.htm)||`@Compendium[pf2e.feat-effects.K1IgNCf3Hh2EJwQ9]`|
+|[Effect: Divine Weapon (Chaotic)](feat-effects/06-OkcblqWj4aHVAkrp.htm)||`@Compendium[pf2e.feat-effects.OkcblqWj4aHVAkrp]`|
+|[Effect: Divine Weapon (Evil)](feat-effects/06-AclYG5JuBFrjCY3I.htm)||`@Compendium[pf2e.feat-effects.AclYG5JuBFrjCY3I]`|
+|[Effect: Divine Weapon (Force)](feat-effects/06-zZ25N1zpXA8GNhFL.htm)||`@Compendium[pf2e.feat-effects.zZ25N1zpXA8GNhFL]`|
+|[Effect: Divine Weapon (Good)](feat-effects/06-dvOfGUuvG8ihcN8d.htm)||`@Compendium[pf2e.feat-effects.dvOfGUuvG8ihcN8d]`|
+|[Effect: Divine Weapon (Lawful)](feat-effects/06-GlpZyxAGhy5QNqkm.htm)||`@Compendium[pf2e.feat-effects.GlpZyxAGhy5QNqkm]`|
+|[Effect: Dread Marshal Stance](feat-effects/01-KBEJVRrie2JTHWIK.htm)||`@Compendium[pf2e.feat-effects.KBEJVRrie2JTHWIK]`|
+|[Effect: Dueling Parry](feat-effects/01-1nCwQErK6hpkNvfw.htm)||`@Compendium[pf2e.feat-effects.1nCwQErK6hpkNvfw]`|
+|[Effect: Educate Allies (Ally)](feat-effects/01-WrWSieH9Acy6XuzV.htm)||`@Compendium[pf2e.feat-effects.WrWSieH9Acy6XuzV]`|
+|[Effect: Educate Allies (Self)](feat-effects/01-KceTcamIZ4ZrQJLD.htm)||`@Compendium[pf2e.feat-effects.KceTcamIZ4ZrQJLD]`|
+|[Effect: Emblazon Antimagic (Weapon)](feat-effects/12-RyGaB5hDRcOeb34Q.htm)||`@Compendium[pf2e.feat-effects.RyGaB5hDRcOeb34Q]`|
+|[Effect: Emblazon Armament (Weapon)](feat-effects/02-U1MpMtRnFqEDBJwd.htm)||`@Compendium[pf2e.feat-effects.U1MpMtRnFqEDBJwd]`|
+|[Effect: Emblazon Energy (Weapon, Acid)](feat-effects/08-x4Sb3qaMJo8x1r3X.htm)||`@Compendium[pf2e.feat-effects.x4Sb3qaMJo8x1r3X]`|
+|[Effect: Emblazon Energy (Weapon, Cold)](feat-effects/08-5TzKmEqFyLHBG2ua.htm)||`@Compendium[pf2e.feat-effects.5TzKmEqFyLHBG2ua]`|
+|[Effect: Emblazon Energy (Weapon, Electricity)](feat-effects/08-oX51Db6IxnUI64dT.htm)||`@Compendium[pf2e.feat-effects.oX51Db6IxnUI64dT]`|
+|[Effect: Emblazon Energy (Weapon, Fire)](feat-effects/08-GCEOngH5zL0rRyle.htm)||`@Compendium[pf2e.feat-effects.GCEOngH5zL0rRyle]`|
+|[Effect: Emblazon Energy (Weapon, Sonic)](feat-effects/08-2c30Drdg84bWLcRn.htm)||`@Compendium[pf2e.feat-effects.2c30Drdg84bWLcRn]`|
+|[Effect: Enforce Oath](feat-effects/06-LF8xzzFsFJKxejqv.htm)||`@Compendium[pf2e.feat-effects.LF8xzzFsFJKxejqv]`|
+|[Effect: Engine of Destruction](feat-effects/01-nlMZCi8xi9YSvlYR.htm)||`@Compendium[pf2e.feat-effects.nlMZCi8xi9YSvlYR]`|
+|[Effect: Enlightened Presence](feat-effects/16-XM1AA8z5cHm8sJXM.htm)||`@Compendium[pf2e.feat-effects.XM1AA8z5cHm8sJXM]`|
+|[Effect: Eye of the Arclords](feat-effects/01-5IGz4iheaiUWm5KR.htm)||`@Compendium[pf2e.feat-effects.5IGz4iheaiUWm5KR]`|
+|[Effect: Favorable Winds](feat-effects/01-X1pGyhMKrCTvHB0q.htm)||`@Compendium[pf2e.feat-effects.X1pGyhMKrCTvHB0q]`|
+|[Effect: Fiendish Wings](feat-effects/09-MrdT7LiOZMN8J4GK.htm)||`@Compendium[pf2e.feat-effects.MrdT7LiOZMN8J4GK]`|
+|[Effect: Flamboyant Cruelty](feat-effects/08-v2HDcrxQF2Dncjbs.htm)||`@Compendium[pf2e.feat-effects.v2HDcrxQF2Dncjbs]`|
+|[Effect: Fleet Tempo](feat-effects/04-pQ9e5njvIOe5QzFa.htm)||`@Compendium[pf2e.feat-effects.pQ9e5njvIOe5QzFa]`|
+|[Effect: Forest Endemic Herbs](feat-effects/01-bliWctLi7jlKUTUe.htm)||`@Compendium[pf2e.feat-effects.bliWctLi7jlKUTUe]`|
+|[Effect: Formation Training](feat-effects/05-LVPodfYEWKtK3fUW.htm)||`@Compendium[pf2e.feat-effects.LVPodfYEWKtK3fUW]`|
+|[Effect: Giant's Stature](feat-effects/01-6VrKQ0PhRXuteusQ.htm)||`@Compendium[pf2e.feat-effects.6VrKQ0PhRXuteusQ]`|
+|[Effect: Guardian's Deflection](feat-effects/04-w6X7io56B2HHTOvs.htm)||`@Compendium[pf2e.feat-effects.w6X7io56B2HHTOvs]`|
+|[Effect: Harsh Judgement](feat-effects/04-raoz523QRsj5WjcF.htm)||`@Compendium[pf2e.feat-effects.raoz523QRsj5WjcF]`|
+|[Effect: Heaven's Thunder](feat-effects/01-L9g3EMCT3imX650b.htm)||`@Compendium[pf2e.feat-effects.L9g3EMCT3imX650b]`|
+|[Effect: Heroic Recovery](feat-effects/10-7ogytOgDmh4h2g5d.htm)||`@Compendium[pf2e.feat-effects.7ogytOgDmh4h2g5d]`|
+|[Effect: Hunter's Edge, Flurry](feat-effects/01-uXCU8GgriUjuj5FV.htm)||`@Compendium[pf2e.feat-effects.uXCU8GgriUjuj5FV]`|
+|[Effect: Hunter's Edge, Outwit](feat-effects/01-ltIvO9ZQlmqGD89Y.htm)||`@Compendium[pf2e.feat-effects.ltIvO9ZQlmqGD89Y]`|
+|[Effect: Hunter's Edge, Precision](feat-effects/01-mNk0KxsZMFnDjUA0.htm)||`@Compendium[pf2e.feat-effects.mNk0KxsZMFnDjUA0]`|
+|[Effect: Hybrid Form](feat-effects/01-qIOEe4kUN7FOBifb.htm)||`@Compendium[pf2e.feat-effects.qIOEe4kUN7FOBifb]`|
+|[Effect: Hydraulic Deflection](feat-effects/01-IfsglZ7fdegwem0E.htm)||`@Compendium[pf2e.feat-effects.IfsglZ7fdegwem0E]`|
+|[Effect: Improved Poison Weapon](feat-effects/01-C6H3gF5HTdsIKpOC.htm)||`@Compendium[pf2e.feat-effects.C6H3gF5HTdsIKpOC]`|
+|[Effect: Inspiring Marshal Stance](feat-effects/01-kzEPq4aczYb6OD2h.htm)||`@Compendium[pf2e.feat-effects.kzEPq4aczYb6OD2h]`|
+|[Effect: Known Weakness](feat-effects/01-DvyyA11a63FBwV7x.htm)||`@Compendium[pf2e.feat-effects.DvyyA11a63FBwV7x]`|
+|[Effect: Legendary Monster Hunter](feat-effects/16-LB0PTV5yqMlBmRFj.htm)||`@Compendium[pf2e.feat-effects.LB0PTV5yqMlBmRFj]`|
+|[Effect: Legendary Monster Warden](feat-effects/16-aUpcWqaLBlmpnJgW.htm)||`@Compendium[pf2e.feat-effects.aUpcWqaLBlmpnJgW]`|
+|[Effect: Liberating Step (vs. Aberration)](feat-effects/02-tAsFXMzNkpj964X4.htm)||`@Compendium[pf2e.feat-effects.tAsFXMzNkpj964X4]`|
+|[Effect: Liberating Step (vs. Dragon)](feat-effects/02-iyONT1qgeRgoYHsZ.htm)||`@Compendium[pf2e.feat-effects.iyONT1qgeRgoYHsZ]`|
+|[Effect: Liberating Step (vs. Fiend)](feat-effects/02-9dCt0asv0kt7DR4q.htm)||`@Compendium[pf2e.feat-effects.9dCt0asv0kt7DR4q]`|
+|[Effect: Liberating Step (vs. Undead)](feat-effects/02-ZnKnOPPq3cG54PlG.htm)||`@Compendium[pf2e.feat-effects.ZnKnOPPq3cG54PlG]`|
+|[Effect: Lost in the Crowd (10 Creatures)](feat-effects/01-aWOvmdaTK1jS3H72.htm)||`@Compendium[pf2e.feat-effects.aWOvmdaTK1jS3H72]`|
+|[Effect: Lost in the Crowd (100 Creatures)](feat-effects/01-CNnIS8jWVj00nPwF.htm)||`@Compendium[pf2e.feat-effects.CNnIS8jWVj00nPwF]`|
+|[Effect: Magical Mentor Boon (PFS)](feat-effects/01-fh8TgCfiifVk0eqU.htm)||`@Compendium[pf2e.feat-effects.fh8TgCfiifVk0eqU]`|
+|[Effect: Maiden's Mending](feat-effects/01-FIgud5jqZgIjwkRE.htm)||`@Compendium[pf2e.feat-effects.FIgud5jqZgIjwkRE]`|
+|[Effect: Masterful Hunter's Edge, Flurry](feat-effects/17-4UNQfMrwfWirdwoV.htm)||`@Compendium[pf2e.feat-effects.4UNQfMrwfWirdwoV]`|
+|[Effect: Masterful Hunter's Edge, Outwit](feat-effects/17-iqvurepX0zyu9OlI.htm)||`@Compendium[pf2e.feat-effects.iqvurepX0zyu9OlI]`|
+|[Effect: Masterful Hunter's Edge, Precision](feat-effects/17-Lt5iSfx8fxHSdYXz.htm)||`@Compendium[pf2e.feat-effects.Lt5iSfx8fxHSdYXz]`|
+|[Effect: Monster Hunter](feat-effects/01-W2tWq0gdAcnoz2MO.htm)||`@Compendium[pf2e.feat-effects.W2tWq0gdAcnoz2MO]`|
+|[Effect: Monster Warden](feat-effects/01-nlaxROgSSLVHZ1hx.htm)||`@Compendium[pf2e.feat-effects.nlaxROgSSLVHZ1hx]`|
+|[Effect: Mountain Endemic Herbs](feat-effects/01-QTG73gxKSNkiEWdY.htm)||`@Compendium[pf2e.feat-effects.QTG73gxKSNkiEWdY]`|
+|[Effect: Necrotic Infusion](feat-effects/04-bIU1q05vzkKBtFj2.htm)||`@Compendium[pf2e.feat-effects.bIU1q05vzkKBtFj2]`|
+|[Effect: Overdrive (Critical Success)](feat-effects/01-1XlJ9xLzL19GHoOL.htm)||`@Compendium[pf2e.feat-effects.1XlJ9xLzL19GHoOL]`|
+|[Effect: Overdrive (Success)](feat-effects/01-MZDh3170EFIfOwTO.htm)||`@Compendium[pf2e.feat-effects.MZDh3170EFIfOwTO]`|
+|[Effect: Overwatch Field](feat-effects/01-AKKHagjg5bL1fMG5.htm)||`@Compendium[pf2e.feat-effects.AKKHagjg5bL1fMG5]`|
+|[Effect: Plains Endemic Herbs](feat-effects/01-HjCXHDZT6GkCyiuG.htm)||`@Compendium[pf2e.feat-effects.HjCXHDZT6GkCyiuG]`|
+|[Effect: Poison Weapon](feat-effects/01-SXYcrnGzWCuj8zq7.htm)||`@Compendium[pf2e.feat-effects.SXYcrnGzWCuj8zq7]`|
+|[Effect: Predictable!](feat-effects/01-5v0ndPPMfZwhiVZF.htm)||`@Compendium[pf2e.feat-effects.5v0ndPPMfZwhiVZF]`|
+|[Effect: Predictable! (Critical Failure)](feat-effects/01-KgR1myc4OLzVxfxn.htm)||`@Compendium[pf2e.feat-effects.KgR1myc4OLzVxfxn]`|
+|[Effect: Predictable! (Critical Success)](feat-effects/01-I4Ozf6mTnd3X0Oax.htm)||`@Compendium[pf2e.feat-effects.I4Ozf6mTnd3X0Oax]`|
+|[Effect: Prevailing Position](feat-effects/16-COsdMolZraFRTdP8.htm)||`@Compendium[pf2e.feat-effects.COsdMolZraFRTdP8]`|
+|[Effect: Protective Mentor Boon (Admired) (PFS)](feat-effects/01-lbe8XDSZB8gwyg90.htm)||`@Compendium[pf2e.feat-effects.lbe8XDSZB8gwyg90]`|
+|[Effect: Protective Mentor Boon (Liked) (PFS)](feat-effects/01-OKOqC1wswrh9jXqP.htm)||`@Compendium[pf2e.feat-effects.OKOqC1wswrh9jXqP]`|
+|[Effect: Protective Mentor Boon (Revered) (PFS)](feat-effects/01-0r2V1nK5pV31IUPY.htm)||`@Compendium[pf2e.feat-effects.0r2V1nK5pV31IUPY]`|
+|[Effect: Radiant Infusion](feat-effects/04-cH8JD3ub4eEKuIAD.htm)||`@Compendium[pf2e.feat-effects.cH8JD3ub4eEKuIAD]`|
+|[Effect: Read Shibboleths](feat-effects/01-ivGiUp0EC5nWT9Hb.htm)||`@Compendium[pf2e.feat-effects.ivGiUp0EC5nWT9Hb]`|
+|[Effect: Reflective Ripple Stance](feat-effects/01-QDQwHxNowRwzUx9R.htm)||`@Compendium[pf2e.feat-effects.QDQwHxNowRwzUx9R]`|
+|[Effect: Reflexive Shield](feat-effects/06-pwbFFD6NzDooobKo.htm)||`@Compendium[pf2e.feat-effects.pwbFFD6NzDooobKo]`|
+|[Effect: Repair Module](feat-effects/09-DjxZpQ4xJWWvYQqY.htm)||`@Compendium[pf2e.feat-effects.DjxZpQ4xJWWvYQqY]`|
+|[Effect: Resounding Bravery](feat-effects/08-NMmsJyeMTawpgLVR.htm)||`@Compendium[pf2e.feat-effects.NMmsJyeMTawpgLVR]`|
+|[Effect: Resounding Bravery (vs. Fear)](feat-effects/08-Cumdy84uIkUHG9zF.htm)||`@Compendium[pf2e.feat-effects.Cumdy84uIkUHG9zF]`|
+|[Effect: Rugged Mentor Boon (PFS)](feat-effects/01-ZMFgz4GYSsFeaKKK.htm)||`@Compendium[pf2e.feat-effects.ZMFgz4GYSsFeaKKK]`|
+|[Effect: Scout's Warning](feat-effects/04-RxDDXK52lwyHXl7v.htm)||`@Compendium[pf2e.feat-effects.RxDDXK52lwyHXl7v]`|
+|[Effect: Shared Avoidance](feat-effects/10-svVczVV174KfJRDf.htm)||`@Compendium[pf2e.feat-effects.svVczVV174KfJRDf]`|
+|[Effect: Shared Clarity](feat-effects/18-CUtvkuGSxq1raBIB.htm)||`@Compendium[pf2e.feat-effects.CUtvkuGSxq1raBIB]`|
+|[Effect: Skillful Mentor Boon (PFS)](feat-effects/01-SKjVvQcRQmnDoouw.htm)||`@Compendium[pf2e.feat-effects.SKjVvQcRQmnDoouw]`|
+|[Effect: Smite Evil](feat-effects/06-AlnxieIRjqNqsdVu.htm)||`@Compendium[pf2e.feat-effects.AlnxieIRjqNqsdVu]`|
+|[Effect: Smite Good](feat-effects/06-2MIn8qyPTmz4ZyO1.htm)||`@Compendium[pf2e.feat-effects.2MIn8qyPTmz4ZyO1]`|
+|[Effect: Spin Tale](feat-effects/02-UzIamWcEJTOjwfoA.htm)||`@Compendium[pf2e.feat-effects.UzIamWcEJTOjwfoA]`|
+|[Effect: Striking Retribution](feat-effects/01-EzgW32MCOGov9h5C.htm)||`@Compendium[pf2e.feat-effects.EzgW32MCOGov9h5C]`|
+|[Effect: Tiller's Drive](feat-effects/01-4alr9e8w9H0RCLwI.htm)||`@Compendium[pf2e.feat-effects.4alr9e8w9H0RCLwI]`|
+|[Effect: Titan's Stature](feat-effects/01-RcxDIOa68SUGyMun.htm)||`@Compendium[pf2e.feat-effects.RcxDIOa68SUGyMun]`|
+|[Effect: Topple Giants](feat-effects/01-W8HWQ47YNHWB8kj6.htm)||`@Compendium[pf2e.feat-effects.W8HWQ47YNHWB8kj6]`|
+|[Effect: Twin Parry](feat-effects/01-eu2HidLHaGKe4MPn.htm)||`@Compendium[pf2e.feat-effects.eu2HidLHaGKe4MPn]`|
+|[Effect: Twin Parry (Parry Trait)](feat-effects/01-EDpjey6SCdvIYqEc.htm)||`@Compendium[pf2e.feat-effects.EDpjey6SCdvIYqEc]`|
+|[Effect: Underground Endemic Herbs](feat-effects/01-AJlunjfAIOq2Sg0p.htm)||`@Compendium[pf2e.feat-effects.AJlunjfAIOq2Sg0p]`|
+|[Effect: Vivacious Bravado](feat-effects/08-T7AJQbfmlA57y625.htm)||`@Compendium[pf2e.feat-effects.T7AJQbfmlA57y625]`|
+|[Effect: Wings of Air](feat-effects/09-k1J2SaHPwZb2Y6Bp.htm)||`@Compendium[pf2e.feat-effects.k1J2SaHPwZb2Y6Bp]`|
+|[Effect: Witch's Charge](feat-effects/01-ugeStF0Rj8phBPWL.htm)||`@Compendium[pf2e.feat-effects.ugeStF0Rj8phBPWL]`|
+|[Effect: Worldly Mentor Boon (PFS)](feat-effects/01-oKJr59FYdDORxLcR.htm)||`@Compendium[pf2e.feat-effects.oKJr59FYdDORxLcR]`|
+|[Effect: Wymblessed Blood Magic (Status Bonus - Self)](feat-effects/01-fILVhS5NuCtGXfri.htm)||`@Compendium[pf2e.feat-effects.fILVhS5NuCtGXfri]`|
+|[Effect: Wymblessed Blood Magic (Status Penalty - Target)](feat-effects/01-aqnx6IDcB7ARLxS5.htm)||`@Compendium[pf2e.feat-effects.aqnx6IDcB7ARLxS5]`|
+|[Favored Terrain (Gain Climb Speed)](feat-effects/11-sDftJWPPSUeSZD3A.htm)||`@Compendium[pf2e.feat-effects.sDftJWPPSUeSZD3A]`|
+|[Favored Terrain (Gain Swim Speed)](feat-effects/11-OhLcaJeQy4Nf5Mwo.htm)||`@Compendium[pf2e.feat-effects.OhLcaJeQy4Nf5Mwo]`|
+|[Favored Terrain (Increase Climb Speed)](feat-effects/11-IpRfT9lL3YR6MH6w.htm)||`@Compendium[pf2e.feat-effects.IpRfT9lL3YR6MH6w]`|
+|[Favored Terrain (Increase Swim Speed)](feat-effects/11-HKPmrxkZwHRND5Um.htm)||`@Compendium[pf2e.feat-effects.HKPmrxkZwHRND5Um]`|
+|[Goblin Song (Critical Success)](feat-effects/01-bIRIS6mnynr72RDw.htm)||`@Compendium[pf2e.feat-effects.bIRIS6mnynr72RDw]`|
+|[Goblin Song (Success)](feat-effects/01-5veOBmMYQxywTudd.htm)||`@Compendium[pf2e.feat-effects.5veOBmMYQxywTudd]`|
+|[Stance: Clinging Shadows Stance](feat-effects/00-uFYvW3kFP9iyNfVX.htm)||`@Compendium[pf2e.feat-effects.uFYvW3kFP9iyNfVX]`|
+|[Stance: Cobra Stance](feat-effects/00-CgxYa0lrLUjS2ZhI.htm)||`@Compendium[pf2e.feat-effects.CgxYa0lrLUjS2ZhI]`|
+|[Stance: Cobra Stance (Cobra Envenom)](feat-effects/00-2Qpt0CHuOMeL48rN.htm)||`@Compendium[pf2e.feat-effects.2Qpt0CHuOMeL48rN]`|
+|[Stance: Crane Stance](feat-effects/00-nwkYZs6YwXYAJ4ps.htm)||`@Compendium[pf2e.feat-effects.nwkYZs6YwXYAJ4ps]`|
+|[Stance: Disarming Stance](feat-effects/06-LxSev4GNKv26DbZw.htm)||`@Compendium[pf2e.feat-effects.LxSev4GNKv26DbZw]`|
+|[Stance: Dragon Stance](feat-effects/00-qUowHpn79Dpt1hVn.htm)||`@Compendium[pf2e.feat-effects.qUowHpn79Dpt1hVn]`|
+|[Stance: Dueling Dance](feat-effects/01-KiuBRoMFxL2Npt51.htm)||`@Compendium[pf2e.feat-effects.KiuBRoMFxL2Npt51]`|
+|[Stance: Everstand Stance](feat-effects/01-GGebXpRPyONZB3eS.htm)||`@Compendium[pf2e.feat-effects.GGebXpRPyONZB3eS]`|
+|[Stance: Gorilla Stance](feat-effects/00-RozqjLocahvQWERr.htm)||`@Compendium[pf2e.feat-effects.RozqjLocahvQWERr]`|
+|[Stance: Gorilla Stance (Gorilla Pound)](feat-effects/00-UZKIKLuwpQu47feK.htm)||`@Compendium[pf2e.feat-effects.UZKIKLuwpQu47feK]`|
+|[Stance: Ironblood Stance](feat-effects/00-tPKXLtDJ3bzJcXlv.htm)||`@Compendium[pf2e.feat-effects.tPKXLtDJ3bzJcXlv]`|
+|[Stance: Jellyfish Stance](feat-effects/01-pkcr9w5x6bKzl3om.htm)||`@Compendium[pf2e.feat-effects.pkcr9w5x6bKzl3om]`|
+|[Stance: Monastic Archer Stance](feat-effects/00-1dxD3xsTzak6GNj5.htm)||`@Compendium[pf2e.feat-effects.1dxD3xsTzak6GNj5]`|
+|[Stance: Mountain Stance](feat-effects/00-gYpy9XBPScIlY93p.htm)||`@Compendium[pf2e.feat-effects.gYpy9XBPScIlY93p]`|
+|[Stance: Mountain Stance (Mountain Quake)](feat-effects/00-wuERa7exfXXl6I37.htm)||`@Compendium[pf2e.feat-effects.wuERa7exfXXl6I37]`|
+|[Stance: Mountain Stance (Mountain Stronghold)](feat-effects/00-LXbVcutEIW8eWZEz.htm)||`@Compendium[pf2e.feat-effects.LXbVcutEIW8eWZEz]`|
+|[Stance: Multishot Stance](feat-effects/16-l4QUaedYofnfXig0.htm)||`@Compendium[pf2e.feat-effects.l4QUaedYofnfXig0]`|
+|[Stance: Paragon's Guard](feat-effects/01-6EDoy3OSFZ4L3Vs7.htm)||`@Compendium[pf2e.feat-effects.6EDoy3OSFZ4L3Vs7]`|
+|[Stance: Peafowl Stance](feat-effects/00-vjvcccAwdkOLA1Fc.htm)||`@Compendium[pf2e.feat-effects.vjvcccAwdkOLA1Fc]`|
+|[Stance: Point-Blank Shot](feat-effects/01-9HPxAKpP3WJmICBx.htm)||`@Compendium[pf2e.feat-effects.9HPxAKpP3WJmICBx]`|
+|[Stance: Rain of Embers Stance](feat-effects/00-Im5JBInybWFbHEYS.htm)||`@Compendium[pf2e.feat-effects.Im5JBInybWFbHEYS]`|
+|[Stance: Shooting Stars Stance](feat-effects/00-RXbfq6oqzVnW6xOV.htm)||`@Compendium[pf2e.feat-effects.RXbfq6oqzVnW6xOV]`|
+|[Stance: Six Pillars Stance](feat-effects/01-P80mwvCAEncR2snK.htm)||`@Compendium[pf2e.feat-effects.P80mwvCAEncR2snK]`|
+|[Stance: Sky and Heaven Stance](feat-effects/01-CQfkyJkRHw4IHWhv.htm)||`@Compendium[pf2e.feat-effects.CQfkyJkRHw4IHWhv]`|
+|[Stance: Stoked Flame Stance](feat-effects/01-rp1YauUSULuqW8rs.htm)||`@Compendium[pf2e.feat-effects.rp1YauUSULuqW8rs]`|
+|[Stance: Stumbling Stance](feat-effects/00-BCyGDKcplkJiSAKJ.htm)||`@Compendium[pf2e.feat-effects.BCyGDKcplkJiSAKJ]`|
+|[Stance: Tangled Forest Stance](feat-effects/00-PMHwCrnh9W4sMu5b.htm)||`@Compendium[pf2e.feat-effects.PMHwCrnh9W4sMu5b]`|
+|[Stance: Tiger Stance](feat-effects/00-pf9yvKNg6jZLrE30.htm)||`@Compendium[pf2e.feat-effects.pf9yvKNg6jZLrE30]`|
+|[Stance: Vitality-Manipulation Stance](feat-effects/01-h45sUZFs5jhuQdCE.htm)||`@Compendium[pf2e.feat-effects.h45sUZFs5jhuQdCE]`|
+|[Stance: Whirling Blade Stance](feat-effects/00-JefXqvhzUeBArkAP.htm)||`@Compendium[pf2e.feat-effects.JefXqvhzUeBArkAP]`|
+|[Stance: Wild Winds Stance](feat-effects/00-eeAlh6edygcZIz9c.htm)||`@Compendium[pf2e.feat-effects.eeAlh6edygcZIz9c]`|
+|[Stance: Wolf Stance](feat-effects/00-b2kWJuCPj1rDMdwz.htm)||`@Compendium[pf2e.feat-effects.b2kWJuCPj1rDMdwz]`|
+
+
+## Effets des monstres
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Effect: Adaptive Strike](bestiary-effects/361dIAAhiZE0wg8v.htm)||`@Compendium[pf2e.bestiary-effects.361dIAAhiZE0wg8v]`|
+|[Effect: Alchemical Strike](bestiary-effects/yrenENpzVgBKsnNi.htm)||`@Compendium[pf2e.bestiary-effects.yrenENpzVgBKsnNi]`|
+|[Effect: Ancestral Response](bestiary-effects/gxBjyPaYDdhjAImf.htm)||`@Compendium[pf2e.bestiary-effects.gxBjyPaYDdhjAImf]`|
+|[Effect: Artificer's Command](bestiary-effects/FjcvJWPFwkyy5vEk.htm)||`@Compendium[pf2e.bestiary-effects.FjcvJWPFwkyy5vEk]`|
+|[Effect: Aura of Command](bestiary-effects/OxOMYmlPtjsEkRtY.htm)||`@Compendium[pf2e.bestiary-effects.OxOMYmlPtjsEkRtY]`|
+|[Effect: Aura of Corruption](bestiary-effects/3MIZf42EhhKbIwLQ.htm)||`@Compendium[pf2e.bestiary-effects.3MIZf42EhhKbIwLQ]`|
+|[Effect: Battle Cry](bestiary-effects/Yqq4AkZ9lrm4CcID.htm)||`@Compendium[pf2e.bestiary-effects.Yqq4AkZ9lrm4CcID]`|
+|[Effect: Blasphemous Utterances](bestiary-effects/jrfuplUEq3PIo6j1.htm)||`@Compendium[pf2e.bestiary-effects.jrfuplUEq3PIo6j1]`|
+|[Effect: Blood Frenzy](bestiary-effects/ScZ8tlV5zS0Jwnqn.htm)||`@Compendium[pf2e.bestiary-effects.ScZ8tlV5zS0Jwnqn]`|
+|[Effect: Blood Fury](bestiary-effects/LOLoQpaAp5cC0hbm.htm)||`@Compendium[pf2e.bestiary-effects.LOLoQpaAp5cC0hbm]`|
+|[Effect: Blood Soak](bestiary-effects/wPIGBcpCqCWgrCiq.htm)||`@Compendium[pf2e.bestiary-effects.wPIGBcpCqCWgrCiq]`|
+|[Effect: Bloodline Magic](bestiary-effects/tvybMInVm415jA3p.htm)||`@Compendium[pf2e.bestiary-effects.tvybMInVm415jA3p]`|
+|[Effect: Bodyguard's Defense](bestiary-effects/IfUod2VxNmZMGGPq.htm)||`@Compendium[pf2e.bestiary-effects.IfUod2VxNmZMGGPq]`|
+|[Effect: Bosun's Command - Attack Bonus](bestiary-effects/WfiaKdXNSxC3POcs.htm)||`@Compendium[pf2e.bestiary-effects.WfiaKdXNSxC3POcs]`|
+|[Effect: Bosun's Command - Speed Bonus](bestiary-effects/yG27Ixwdpxqbrhzf.htm)||`@Compendium[pf2e.bestiary-effects.yG27Ixwdpxqbrhzf]`|
+|[Effect: Brand of the Impenitent](bestiary-effects/BmAw66zEkifSvOtg.htm)||`@Compendium[pf2e.bestiary-effects.BmAw66zEkifSvOtg]`|
+|[Effect: Breach the Abyss - Acid](bestiary-effects/v1oNhc9xa8nWxmFQ.htm)||`@Compendium[pf2e.bestiary-effects.v1oNhc9xa8nWxmFQ]`|
+|[Effect: Breach the Abyss - Cold](bestiary-effects/vGL5LlFxVJqjy1gM.htm)||`@Compendium[pf2e.bestiary-effects.vGL5LlFxVJqjy1gM]`|
+|[Effect: Breach the Abyss - Electricity](bestiary-effects/vKTvlFD2OSgTPuvl.htm)||`@Compendium[pf2e.bestiary-effects.vKTvlFD2OSgTPuvl]`|
+|[Effect: Breach the Abyss - Fire](bestiary-effects/HGP0c0tOK2WnC4p5.htm)||`@Compendium[pf2e.bestiary-effects.HGP0c0tOK2WnC4p5]`|
+|[Effect: Breach the Abyss - Negative](bestiary-effects/Vz9Cb8FEzNwfH3mE.htm)||`@Compendium[pf2e.bestiary-effects.Vz9Cb8FEzNwfH3mE]`|
+|[Effect: Brutal Rally](bestiary-effects/7x0O2GqWBJiAk5PF.htm)||`@Compendium[pf2e.bestiary-effects.7x0O2GqWBJiAk5PF]`|
+|[Effect: Call to Action](bestiary-effects/kdZEZ6iBYQPVGzYD.htm)||`@Compendium[pf2e.bestiary-effects.kdZEZ6iBYQPVGzYD]`|
+|[Effect: Call to Blood](bestiary-effects/v54mj5jknAynlCM9.htm)||`@Compendium[pf2e.bestiary-effects.v54mj5jknAynlCM9]`|
+|[Effect: Calming Bioluminescence](bestiary-effects/pfG1S7yShwkHT9e0.htm)||`@Compendium[pf2e.bestiary-effects.pfG1S7yShwkHT9e0]`|
+|[Effect: Caustic Mucus](bestiary-effects/TbmkcfpKIs558skY.htm)||`@Compendium[pf2e.bestiary-effects.TbmkcfpKIs558skY]`|
+|[Effect: Choose Weakness](bestiary-effects/PJxUFFeAvQJ4l52f.htm)||`@Compendium[pf2e.bestiary-effects.PJxUFFeAvQJ4l52f]`|
+|[Effect: Cite Precedent](bestiary-effects/KdV8UtN8Af5oCerj.htm)||`@Compendium[pf2e.bestiary-effects.KdV8UtN8Af5oCerj]`|
+|[Effect: Commander's Aura](bestiary-effects/5NSWRxAsJuvwyl0E.htm)||`@Compendium[pf2e.bestiary-effects.5NSWRxAsJuvwyl0E]`|
+|[Effect: Crocodile Form](bestiary-effects/USMuxi8ACBJRUrdS.htm)||`@Compendium[pf2e.bestiary-effects.USMuxi8ACBJRUrdS]`|
+|[Effect: Crush of Hundreds](bestiary-effects/R8clbf7gtIlU3fIj.htm)||`@Compendium[pf2e.bestiary-effects.R8clbf7gtIlU3fIj]`|
+|[Effect: Crushing Spirits](bestiary-effects/U05L8bPBcRHTtTB3.htm)||`@Compendium[pf2e.bestiary-effects.U05L8bPBcRHTtTB3]`|
+|[Effect: Crystalline Dust Form](bestiary-effects/C9nb9XbnQgbnXpTq.htm)||`@Compendium[pf2e.bestiary-effects.C9nb9XbnQgbnXpTq]`|
+|[Effect: Curse of Boiling Blood](bestiary-effects/CUgmb7g65vYNT2hn.htm)||`@Compendium[pf2e.bestiary-effects.CUgmb7g65vYNT2hn]`|
+|[Effect: Curse of Fire](bestiary-effects/VFIVdYmS3XTdd3hj.htm)||`@Compendium[pf2e.bestiary-effects.VFIVdYmS3XTdd3hj]`|
+|[Effect: Curse of Frost](bestiary-effects/sI73mEP9wZRvMpWw.htm)||`@Compendium[pf2e.bestiary-effects.sI73mEP9wZRvMpWw]`|
+|[Effect: Curse of the Baneful Venom](bestiary-effects/Tkf33YglEZcZ6gOT.htm)||`@Compendium[pf2e.bestiary-effects.Tkf33YglEZcZ6gOT]`|
+|[Effect: Defensive Assault](bestiary-effects/pMPe01GWvfwcYwUR.htm)||`@Compendium[pf2e.bestiary-effects.pMPe01GWvfwcYwUR]`|
+|[Effect: Devour Soul](bestiary-effects/QpG9AaYpXJzDEjZA.htm)||`@Compendium[pf2e.bestiary-effects.QpG9AaYpXJzDEjZA]`|
+|[Effect: Devour Soul (Victim Level 15 or Higher)](bestiary-effects/S38CM3hyr7DnsmRR.htm)||`@Compendium[pf2e.bestiary-effects.S38CM3hyr7DnsmRR]`|
+|[Effect: Dire Warning](bestiary-effects/Cc5WsKkbOPOzopCY.htm)||`@Compendium[pf2e.bestiary-effects.Cc5WsKkbOPOzopCY]`|
+|[Effect: Dirty Bomb](bestiary-effects/5ZK22sNW7o26aST0.htm)||`@Compendium[pf2e.bestiary-effects.5ZK22sNW7o26aST0]`|
+|[Effect: Dirty Bomb (Critical Failure)](bestiary-effects/ryY6fdqpC5Ztnagd.htm)||`@Compendium[pf2e.bestiary-effects.ryY6fdqpC5Ztnagd]`|
+|[Effect: Disturbing Vision](bestiary-effects/AThOnEYzPO9ssYTB.htm)||`@Compendium[pf2e.bestiary-effects.AThOnEYzPO9ssYTB]`|
+|[Effect: Ensnare](bestiary-effects/fPhbDSTPuT01f0Kn.htm)||`@Compendium[pf2e.bestiary-effects.fPhbDSTPuT01f0Kn]`|
+|[Effect: Entangling Slime](bestiary-effects/jQmfZcPD6xVYx5nb.htm)||`@Compendium[pf2e.bestiary-effects.jQmfZcPD6xVYx5nb]`|
+|[Effect: Fanatical Frenzy](bestiary-effects/3Wtzyb0ZgkaC7vHY.htm)||`@Compendium[pf2e.bestiary-effects.3Wtzyb0ZgkaC7vHY]`|
+|[Effect: Feed](bestiary-effects/i4S6h5c1KK4FLq6w.htm)||`@Compendium[pf2e.bestiary-effects.i4S6h5c1KK4FLq6w]`|
+|[Effect: Fiddle](bestiary-effects/wJsOZsYI2ZUVcGxc.htm)||`@Compendium[pf2e.bestiary-effects.wJsOZsYI2ZUVcGxc]`|
+|[Effect: Filth Wave](bestiary-effects/Qomp2EujVCbzJb4X.htm)||`@Compendium[pf2e.bestiary-effects.Qomp2EujVCbzJb4X]`|
+|[Effect: Focused Assault](bestiary-effects/7wDH2q0UcFdu2w58.htm)||`@Compendium[pf2e.bestiary-effects.7wDH2q0UcFdu2w58]`|
+|[Effect: Glowing Spores](bestiary-effects/eZL4B1P4H8hr1CAn.htm)||`@Compendium[pf2e.bestiary-effects.eZL4B1P4H8hr1CAn]`|
+|[Effect: Goblin Song](bestiary-effects/ckL8iL7BKBPteEVL.htm)||`@Compendium[pf2e.bestiary-effects.ckL8iL7BKBPteEVL]`|
+|[Effect: Graveknight's Curse](bestiary-effects/6rnB7nK6J6zF4vea.htm)||`@Compendium[pf2e.bestiary-effects.6rnB7nK6J6zF4vea]`|
+|[Effect: Guide's Warning](bestiary-effects/UiISDbCjK6AUDsll.htm)||`@Compendium[pf2e.bestiary-effects.UiISDbCjK6AUDsll]`|
+|[Effect: Guiding Words](bestiary-effects/uqjx1bwYduHwwC7d.htm)||`@Compendium[pf2e.bestiary-effects.uqjx1bwYduHwwC7d]`|
+|[Effect: Guildmaster's Lead](bestiary-effects/dVVc5MYx4G3QPHoa.htm)||`@Compendium[pf2e.bestiary-effects.dVVc5MYx4G3QPHoa]`|
+|[Effect: Hallucinogenic Pollen (Critical Failure)](bestiary-effects/RAKgTTFKc2YEbvrc.htm)||`@Compendium[pf2e.bestiary-effects.RAKgTTFKc2YEbvrc]`|
+|[Effect: Hallucinogenic Pollen (Failure)](bestiary-effects/GstmxSP75eKmHtCQ.htm)||`@Compendium[pf2e.bestiary-effects.GstmxSP75eKmHtCQ]`|
+|[Effect: Harmonizing Aura (Allies)](bestiary-effects/31nnjHZqiaqaWBUi.htm)||`@Compendium[pf2e.bestiary-effects.31nnjHZqiaqaWBUi]`|
+|[Effect: Harmonizing Aura (Enemies)](bestiary-effects/tSF9z5VTeevxoww3.htm)||`@Compendium[pf2e.bestiary-effects.tSF9z5VTeevxoww3]`|
+|[Effect: Haywire](bestiary-effects/XaYM6Td0yhx2POau.htm)||`@Compendium[pf2e.bestiary-effects.XaYM6Td0yhx2POau]`|
+|[Effect: Hunted Fear](bestiary-effects/mFnSXW6HTwS7Iu1k.htm)||`@Compendium[pf2e.bestiary-effects.mFnSXW6HTwS7Iu1k]`|
+|[Effect: Hydra Heads](bestiary-effects/uZJOdounIHaFDC1t.htm)||`@Compendium[pf2e.bestiary-effects.uZJOdounIHaFDC1t]`|
+|[Effect: Infectious Aura](bestiary-effects/T2tfacwoOozQfsIz.htm)||`@Compendium[pf2e.bestiary-effects.T2tfacwoOozQfsIz]`|
+|[Effect: Inspirational Presence](bestiary-effects/CiCG3r7SHYMJeUxz.htm)||`@Compendium[pf2e.bestiary-effects.CiCG3r7SHYMJeUxz]`|
+|[Effect: Inspired Feast](bestiary-effects/EM0VP31B8CyjFD15.htm)||`@Compendium[pf2e.bestiary-effects.EM0VP31B8CyjFD15]`|
+|[Effect: Inspiring Presence](bestiary-effects/UxeoSRmPbD5hjiEi.htm)||`@Compendium[pf2e.bestiary-effects.UxeoSRmPbD5hjiEi]`|
+|[Effect: Instinctual Tinker (Critical Success)](bestiary-effects/TEzLEXBZzNCp6flg.htm)||`@Compendium[pf2e.bestiary-effects.TEzLEXBZzNCp6flg]`|
+|[Effect: Invigorating Passion](bestiary-effects/5syHrFGAE6lo0FUr.htm)||`@Compendium[pf2e.bestiary-effects.5syHrFGAE6lo0FUr]`|
+|[Effect: Kharna's Blessing](bestiary-effects/St2QzqQvKN0IaXxG.htm)||`@Compendium[pf2e.bestiary-effects.St2QzqQvKN0IaXxG]`|
+|[Effect: Lantern of Hope](bestiary-effects/37wbBpPBi5eBtNqM.htm)||`@Compendium[pf2e.bestiary-effects.37wbBpPBi5eBtNqM]`|
+|[Effect: Lantern of Hope (Gestalt)](bestiary-effects/hdsl0XexqEL2emE3.htm)||`@Compendium[pf2e.bestiary-effects.hdsl0XexqEL2emE3]`|
+|[Effect: Lost Red Cap](bestiary-effects/s5mS7CyE0oOYlecv.htm)||`@Compendium[pf2e.bestiary-effects.s5mS7CyE0oOYlecv]`|
+|[Effect: Mangling Rend](bestiary-effects/5roCV7EbPx1G5xOd.htm)||`@Compendium[pf2e.bestiary-effects.5roCV7EbPx1G5xOd]`|
+|[Effect: Moon Frenzy](bestiary-effects/dRe8n1nBWMIXd8jh.htm)||`@Compendium[pf2e.bestiary-effects.dRe8n1nBWMIXd8jh]`|
+|[Effect: Mortal Reflection](bestiary-effects/vUFIbQ74jz22rOXw.htm)||`@Compendium[pf2e.bestiary-effects.vUFIbQ74jz22rOXw]`|
+|[Effect: Motivating Assault](bestiary-effects/XH49blfNDjkqnH5N.htm)||`@Compendium[pf2e.bestiary-effects.XH49blfNDjkqnH5N]`|
+|[Effect: Necrotic Field](bestiary-effects/kjP0J97hhoIhbF3M.htm)||`@Compendium[pf2e.bestiary-effects.kjP0J97hhoIhbF3M]`|
+|[Effect: No Quarter!](bestiary-effects/TjRZbd52qWPjTbNT.htm)||`@Compendium[pf2e.bestiary-effects.TjRZbd52qWPjTbNT]`|
+|[Effect: Nymph Queen's Inspiration](bestiary-effects/iSyyR4QVOaY6mxtg.htm)||`@Compendium[pf2e.bestiary-effects.iSyyR4QVOaY6mxtg]`|
+|[Effect: Overtake Soul](bestiary-effects/xiOi7btey4AS6jhe.htm)||`@Compendium[pf2e.bestiary-effects.xiOi7btey4AS6jhe]`|
+|[Effect: Pain Frenzy](bestiary-effects/tJx9B2e3AET6PbJD.htm)||`@Compendium[pf2e.bestiary-effects.tJx9B2e3AET6PbJD]`|
+|[Effect: Pollution Infusion](bestiary-effects/gORyINQLvplfthlm.htm)||`@Compendium[pf2e.bestiary-effects.gORyINQLvplfthlm]`|
+|[Effect: Profane Gift](bestiary-effects/g5Yen1FhEMCzCJkv.htm)||`@Compendium[pf2e.bestiary-effects.g5Yen1FhEMCzCJkv]`|
+|[Effect: Protean Anatomy](bestiary-effects/c6SiBB3mzV8lZUQr.htm)||`@Compendium[pf2e.bestiary-effects.c6SiBB3mzV8lZUQr]`|
+|[Effect: Putrid Blast](bestiary-effects/hQsqr2sRPp9rNm4U.htm)||`@Compendium[pf2e.bestiary-effects.hQsqr2sRPp9rNm4U]`|
+|[Effect: Revert Form](bestiary-effects/SA5f54t1dVah5fJm.htm)||`@Compendium[pf2e.bestiary-effects.SA5f54t1dVah5fJm]`|
+|[Effect: Rope Snare](bestiary-effects/o0zqsH5kYopRanav.htm)||`@Compendium[pf2e.bestiary-effects.o0zqsH5kYopRanav]`|
+|[Effect: Rune of Destruction (Greatsword)](bestiary-effects/svXRrZvixRInmabj.htm)||`@Compendium[pf2e.bestiary-effects.svXRrZvixRInmabj]`|
+|[Effect: Rune of Destruction (Longspear)](bestiary-effects/vJAHjBoEuFKGQoGs.htm)||`@Compendium[pf2e.bestiary-effects.vJAHjBoEuFKGQoGs]`|
+|[Effect: Rune of Destruction (Rock)](bestiary-effects/vbxcQIjLVWa43sdt.htm)||`@Compendium[pf2e.bestiary-effects.vbxcQIjLVWa43sdt]`|
+|[Effect: Rune of Flames (Greatsword)](bestiary-effects/zBQM4rzLfkLzpET6.htm)||`@Compendium[pf2e.bestiary-effects.zBQM4rzLfkLzpET6]`|
+|[Effect: Rune of Flames (Longspear)](bestiary-effects/0ifqiVhhKULXJyf9.htm)||`@Compendium[pf2e.bestiary-effects.0ifqiVhhKULXJyf9]`|
+|[Effect: Rune of Flames (Rock)](bestiary-effects/3QUaxNvpHDmf9cTo.htm)||`@Compendium[pf2e.bestiary-effects.3QUaxNvpHDmf9cTo]`|
+|[Effect: Rune of Smiting (Greatsword)](bestiary-effects/VAy6IZ0ck7ALVL4b.htm)||`@Compendium[pf2e.bestiary-effects.VAy6IZ0ck7ALVL4b]`|
+|[Effect: Rune of Smiting (Longspear)](bestiary-effects/Y5vsF5Kb8oNIccWo.htm)||`@Compendium[pf2e.bestiary-effects.Y5vsF5Kb8oNIccWo]`|
+|[Effect: Rune of Smiting (Rock)](bestiary-effects/bV70ZxnUAoYnfXaZ.htm)||`@Compendium[pf2e.bestiary-effects.bV70ZxnUAoYnfXaZ]`|
+|[Effect: Scraping Clamor](bestiary-effects/wcNGbhwn3AuamtsX.htm)||`@Compendium[pf2e.bestiary-effects.wcNGbhwn3AuamtsX]`|
+|[Effect: Sinful Bite](bestiary-effects/9Qyu0HN5j6DO8Izc.htm)||`@Compendium[pf2e.bestiary-effects.9Qyu0HN5j6DO8Izc]`|
+|[Effect: Snake Form](bestiary-effects/YIXeQFdrt0vPvmsW.htm)||`@Compendium[pf2e.bestiary-effects.YIXeQFdrt0vPvmsW]`|
+|[Effect: Soul Siphon](bestiary-effects/SjrM6XVTLySToS12.htm)||`@Compendium[pf2e.bestiary-effects.SjrM6XVTLySToS12]`|
+|[Effect: Splintered Ground](bestiary-effects/86uYNsVXzYWxqLTV.htm)||`@Compendium[pf2e.bestiary-effects.86uYNsVXzYWxqLTV]`|
+|[Effect: Splintered Ground (Critical Failure)](bestiary-effects/hc7kR6quUE9ryRyj.htm)||`@Compendium[pf2e.bestiary-effects.hc7kR6quUE9ryRyj]`|
+|[Effect: Stench](bestiary-effects/wX9L6fbqVMLP05hn.htm)||`@Compendium[pf2e.bestiary-effects.wX9L6fbqVMLP05hn]`|
+|[Effect: Stick a Fork in It](bestiary-effects/K3r1lfbtCTf3dFhV.htm)||`@Compendium[pf2e.bestiary-effects.K3r1lfbtCTf3dFhV]`|
+|[Effect: Sticky Spores](bestiary-effects/g4CRjb2zS1pkVDbk.htm)||`@Compendium[pf2e.bestiary-effects.g4CRjb2zS1pkVDbk]`|
+|[Effect: Sting of the Lash](bestiary-effects/6GC248hHu3LdOAtS.htm)||`@Compendium[pf2e.bestiary-effects.6GC248hHu3LdOAtS]`|
+|[Effect: Stoke the Fervent - High Tormentor](bestiary-effects/J6EwMsXtXg30eaiB.htm)||`@Compendium[pf2e.bestiary-effects.J6EwMsXtXg30eaiB]`|
+|[Effect: Swell](bestiary-effects/JlaO7fgm53Om1DxB.htm)||`@Compendium[pf2e.bestiary-effects.JlaO7fgm53Om1DxB]`|
+|[Effect: Swig](bestiary-effects/HArljmKc2IR7rtfc.htm)||`@Compendium[pf2e.bestiary-effects.HArljmKc2IR7rtfc]`|
+|[Effect: Sylvan Wine](bestiary-effects/QDs8t1U1IepzYlyi.htm)||`@Compendium[pf2e.bestiary-effects.QDs8t1U1IepzYlyi]`|
+|[Effect: Tail Lash (Attack Roll)](bestiary-effects/QqC9xymSXSVunDgl.htm)||`@Compendium[pf2e.bestiary-effects.QqC9xymSXSVunDgl]`|
+|[Effect: Tail Lash (Skill Check)](bestiary-effects/4HJJdogS751Z04lD.htm)||`@Compendium[pf2e.bestiary-effects.4HJJdogS751Z04lD]`|
+|[Effect: Take Them Down!](bestiary-effects/u1Z7i2RyL6Sd9OVU.htm)||`@Compendium[pf2e.bestiary-effects.u1Z7i2RyL6Sd9OVU]`|
+|[Effect: Timely Advice](bestiary-effects/FISKjI7bal26AnyL.htm)||`@Compendium[pf2e.bestiary-effects.FISKjI7bal26AnyL]`|
+|[Effect: Transfer Protection](bestiary-effects/kHRbOHKEedKaBFH5.htm)||`@Compendium[pf2e.bestiary-effects.kHRbOHKEedKaBFH5]`|
+|[Effect: Uncanny Tinker (Critical Success)](bestiary-effects/BTSstQAn4Xlm1PWV.htm)||`@Compendium[pf2e.bestiary-effects.BTSstQAn4Xlm1PWV]`|
+|[Effect: Undead Mastery](bestiary-effects/4M2K16mH4gndHAKa.htm)||`@Compendium[pf2e.bestiary-effects.4M2K16mH4gndHAKa]`|
+|[Effect: Void Shroud](bestiary-effects/i3942RucZD9OHbAE.htm)||`@Compendium[pf2e.bestiary-effects.i3942RucZD9OHbAE]`|
+|[Effect: Volcanic Purge](bestiary-effects/7qoZauizAKfPIXeu.htm)||`@Compendium[pf2e.bestiary-effects.7qoZauizAKfPIXeu]`|
+|[Effect: Whirlwind Form](bestiary-effects/rpxdrOlzY2SOtMWB.htm)||`@Compendium[pf2e.bestiary-effects.rpxdrOlzY2SOtMWB]`|
+|[Effect: Wolf Shape](bestiary-effects/o6ZI01zZBQDASuaw.htm)||`@Compendium[pf2e.bestiary-effects.o6ZI01zZBQDASuaw]`|
+|[Effect: Xulgath Stench](bestiary-effects/uB3CVn3momZO9h0L.htm)||`@Compendium[pf2e.bestiary-effects.uB3CVn3momZO9h0L]`|
+
+
 ## Effets des sorts
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
@@ -6866,7 +7193,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Spell effect: Nudge the Odds](spell-effects/01-lTL5VwNrZ5xiitGV.htm)|Effet : Renforcer les chances|`@Compendium[pf2e.spell-effects.lTL5VwNrZ5xiitGV]`|
 
 
-## Guide du MJ
+## Guide du Maître
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
@@ -6970,7 +7297,320 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Won a Competition](gmg-srd/YsY9euHOGCGc3mTE.htm)|Vainqueur d'une compétition|`@Compendium[pf2e.gmg-srd.YsY9euHOGCGc3mTE]`|
 
 
-## Héritages
+## Historiques
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Abadar's Avenger](backgrounds/LHk50lz5Kk5ZYTeo.htm)|Vengeur d'Abadar|`@Compendium[pf2e.backgrounds.LHk50lz5Kk5ZYTeo]`|
+|[Academy Dropout](backgrounds/1bjReaLqCD9pvBJ3.htm)|Décrocheur d'académie|`@Compendium[pf2e.backgrounds.1bjReaLqCD9pvBJ3]`|
+|[Acolyte](backgrounds/CAjQrHZZbALE7Qjy.htm)|Acolyte|`@Compendium[pf2e.backgrounds.CAjQrHZZbALE7Qjy]`|
+|[Acrobat](backgrounds/IFHYbU6Nu8BiTsRa.htm)|Acrobate|`@Compendium[pf2e.backgrounds.IFHYbU6Nu8BiTsRa]`|
+|[Aerialist](backgrounds/qY4IUwVWIKPSFskP.htm)|Trapéziste|`@Compendium[pf2e.backgrounds.qY4IUwVWIKPSFskP]`|
+|[Aiudara Seeker](backgrounds/3kXTGUvodNMnJTxb.htm)|Chercheur d'aiudara|`@Compendium[pf2e.backgrounds.3kXTGUvodNMnJTxb]`|
+|[Alkenstar Outlaw](backgrounds/fyKPDYFeIrgzADJB.htm)|Desperado d'Alkenastre|`@Compendium[pf2e.backgrounds.fyKPDYFeIrgzADJB]`|
+|[Alkenstar Sojourner](backgrounds/Yuwr2pT3z3WYTX9T.htm)|Visiteur d'Alkenastre|`@Compendium[pf2e.backgrounds.Yuwr2pT3z3WYTX9T]`|
+|[Alkenstar Tinker](backgrounds/0c9Np7Yq5JSxZ6Tb.htm)|Bricoleur d'Alkenastre|`@Compendium[pf2e.backgrounds.0c9Np7Yq5JSxZ6Tb]`|
+|[Amnesiac](backgrounds/0ZfBP7Tp2P3WN7Dp.htm)|Amnésique|`@Compendium[pf2e.backgrounds.0ZfBP7Tp2P3WN7Dp]`|
+|[Animal Whisperer](backgrounds/5RGLAPi5sLykRcmm.htm)|Dresseur|`@Compendium[pf2e.backgrounds.5RGLAPi5sLykRcmm]`|
+|[Animal Wrangler (Athletics)](backgrounds/HNp0uNsIx3BNBcr5.htm)|Dresseur d'animaux (Athlétisme)|`@Compendium[pf2e.backgrounds.HNp0uNsIx3BNBcr5]`|
+|[Animal Wrangler (Nature)](backgrounds/TPZ0ev0Tl5sveZuM.htm)|Dresseur d'animal (Nature)|`@Compendium[pf2e.backgrounds.TPZ0ev0Tl5sveZuM]`|
+|[Anti-Magical](backgrounds/byyceQSVT0H5GfNB.htm)|Anti-Magie|`@Compendium[pf2e.backgrounds.byyceQSVT0H5GfNB]`|
+|[Anti-Tech Activist](backgrounds/MgiZ25JdT6O3fLbO.htm)|Activiste anti-techno|`@Compendium[pf2e.backgrounds.MgiZ25JdT6O3fLbO]`|
+|[Archaeologist](backgrounds/IoBhge83aYpq0pPV.htm)|Archéologue|`@Compendium[pf2e.backgrounds.IoBhge83aYpq0pPV]`|
+|[Artisan](backgrounds/6irgRkKZ8tRZzLvs.htm)|Artisan|`@Compendium[pf2e.backgrounds.6irgRkKZ8tRZzLvs]`|
+|[Artist](backgrounds/y9OyNsxGfmjqdcP0.htm)|Artiste|`@Compendium[pf2e.backgrounds.y9OyNsxGfmjqdcP0]`|
+|[Aspiring Free-Captain](backgrounds/ap25MWBuFGwwhYIG.htm)|Aspirant Capitaine-libre|`@Compendium[pf2e.backgrounds.ap25MWBuFGwwhYIG]`|
+|[Aspiring River Monarch](backgrounds/gfklP8ub45R4wXKe.htm)|Aspirant Monarque du Fleuve|`@Compendium[pf2e.backgrounds.gfklP8ub45R4wXKe]`|
+|[Astrologer](backgrounds/3YQ1Wcjzk8ftoyo7.htm)|Astrologue|`@Compendium[pf2e.backgrounds.3YQ1Wcjzk8ftoyo7]`|
+|[Attention Addict](backgrounds/nXnaV9JwUG1N2dsg.htm)|Avide de notoriété|`@Compendium[pf2e.backgrounds.nXnaV9JwUG1N2dsg]`|
+|[Atteran Rancher](backgrounds/eYY3bX7xSH7aicqT.htm)|Rancher Atteran|`@Compendium[pf2e.backgrounds.eYY3bX7xSH7aicqT]`|
+|[Back-Alley Doctor](backgrounds/0wzTmGUb8yvzMrO0.htm)|Docteur d'arrière salle|`@Compendium[pf2e.backgrounds.0wzTmGUb8yvzMrO0]`|
+|[Bandit](backgrounds/6abqATPjYoF946LD.htm)|Bandit|`@Compendium[pf2e.backgrounds.6abqATPjYoF946LD]`|
+|[Barber](backgrounds/wudDO9OEsRjJsqhU.htm)|Barbier|`@Compendium[pf2e.backgrounds.wudDO9OEsRjJsqhU]`|
+|[Barkeep](backgrounds/a8BmnIIUR7AYog5B.htm)|Tavernier|`@Compendium[pf2e.backgrounds.a8BmnIIUR7AYog5B]`|
+|[Barker](backgrounds/z4cCsOT36MB7xldR.htm)|Aboyeur|`@Compendium[pf2e.backgrounds.z4cCsOT36MB7xldR]`|
+|[Barrister](backgrounds/Phvnfdmz4bB7jrI3.htm)|Avocat|`@Compendium[pf2e.backgrounds.Phvnfdmz4bB7jrI3]`|
+|[Bekyar Restorer](backgrounds/9LnXsMRwYcxi7nDO.htm)|Restaurateur Bekyar|`@Compendium[pf2e.backgrounds.9LnXsMRwYcxi7nDO]`|
+|[Belkzen Slayer](backgrounds/EJRWGsPWzAhixuvQ.htm)|Tueur du Belkzen|`@Compendium[pf2e.backgrounds.EJRWGsPWzAhixuvQ]`|
+|[Bellflower Agent](backgrounds/6K6jJkjZ2MJYqQ6h.htm)|Agent de la Campanule|`@Compendium[pf2e.backgrounds.6K6jJkjZ2MJYqQ6h]`|
+|[Bibliophile](backgrounds/xvz5F7iYBWEIjz0r.htm)|Bibliophile|`@Compendium[pf2e.backgrounds.xvz5F7iYBWEIjz0r]`|
+|[Black Market Smuggler](backgrounds/I0vuIFypx8ADSJQC.htm)|Contrebandier du Marché noir|`@Compendium[pf2e.backgrounds.I0vuIFypx8ADSJQC]`|
+|[Blessed](backgrounds/9pK15dQJVypSCjzO.htm)|Béni|`@Compendium[pf2e.backgrounds.9pK15dQJVypSCjzO]`|
+|[Blow-In (Deception)](backgrounds/tsMvqxJhl6xgcDaU.htm)|Nouveau venu (Duperie)|`@Compendium[pf2e.backgrounds.tsMvqxJhl6xgcDaU]`|
+|[Blow-In (Thievery)](backgrounds/3hKnDmRXtF3LGmjy.htm)|Nouveau venu (Vol)|`@Compendium[pf2e.backgrounds.3hKnDmRXtF3LGmjy]`|
+|[Bonuwat Wavetouched](backgrounds/kLjqmylGOXeQ5o5Y.htm)|Bonuwat Touché par les vagues|`@Compendium[pf2e.backgrounds.kLjqmylGOXeQ5o5Y]`|
+|[Bookkeeper](backgrounds/o1lhSKOpKPamTITI.htm)|Comptable|`@Compendium[pf2e.backgrounds.o1lhSKOpKPamTITI]`|
+|[Bounty Hunter](backgrounds/a9Q4iIiAZryVWN27.htm)|Chasseur de primes|`@Compendium[pf2e.backgrounds.a9Q4iIiAZryVWN27]`|
+|[Bright Lion](backgrounds/JfGVkZkaoz2lnmov.htm)|Lion Brillant|`@Compendium[pf2e.backgrounds.JfGVkZkaoz2lnmov]`|
+|[Broken Tusk Recruiter](backgrounds/LWoPiYHAyLp8pvYx.htm)|Recruteur de la Défense brisée|`@Compendium[pf2e.backgrounds.LWoPiYHAyLp8pvYx]`|
+|[Butcher](backgrounds/nhQKn1tVV6PKCurq.htm)|"Boucher"|`@Compendium[pf2e.backgrounds.nhQKn1tVV6PKCurq]`|
+|[Cannoneer](backgrounds/8CLTXqyjdzEMKnZC.htm)|Cannonier|`@Compendium[pf2e.backgrounds.8CLTXqyjdzEMKnZC]`|
+|[Charlatan](backgrounds/t0t1ck8iKpaI4o5W.htm)|Charlatan|`@Compendium[pf2e.backgrounds.t0t1ck8iKpaI4o5W]`|
+|[Chelish Rebel](backgrounds/tA0nggrWfBEhvsKA.htm)|Rebelle chélaxien|`@Compendium[pf2e.backgrounds.tA0nggrWfBEhvsKA]`|
+|[Child of Westcrown](backgrounds/uNvD4XK1kdvGjQVo.htm)|Enfant de Couronne d'uuest|`@Compendium[pf2e.backgrounds.uNvD4XK1kdvGjQVo]`|
+|[Child of the Puddles](backgrounds/irDibuV3Wi7T43sL.htm)|Marmot des flaques|`@Compendium[pf2e.backgrounds.irDibuV3Wi7T43sL]`|
+|[Chosen One](backgrounds/w2GSRC5uMcSUfPGJ.htm)|Élu|`@Compendium[pf2e.backgrounds.w2GSRC5uMcSUfPGJ]`|
+|[Circuit Judge](backgrounds/2TImvKwcFLDVhzUC.htm)|Juge itinérant|`@Compendium[pf2e.backgrounds.2TImvKwcFLDVhzUC]`|
+|[Circus Born](backgrounds/YJpEdmSOjlA2QZeu.htm)|Circassien|`@Compendium[pf2e.backgrounds.YJpEdmSOjlA2QZeu]`|
+|[Clockfighter](backgrounds/dSYel8ABTevOc5YA.htm)|Mécanicien d'arène|`@Compendium[pf2e.backgrounds.dSYel8ABTevOc5YA]`|
+|[Clockwork Researcher](backgrounds/xKEQvxDMHWRUkL6i.htm)|Chercheur en mécanique|`@Compendium[pf2e.backgrounds.xKEQvxDMHWRUkL6i]`|
+|[Clown](backgrounds/DHrzVqB8f1ed3zTk.htm)|Clown|`@Compendium[pf2e.backgrounds.DHrzVqB8f1ed3zTk]`|
+|[Codebreaker](backgrounds/4XpWgGejwb2L6WpK.htm)|Cryptographe|`@Compendium[pf2e.backgrounds.4XpWgGejwb2L6WpK]`|
+|[Cook](backgrounds/3gN09dOT2hMwGcK2.htm)|Cuisinier|`@Compendium[pf2e.backgrounds.3gN09dOT2hMwGcK2]`|
+|[Courier](backgrounds/DBxOUwM7qhGH8MrF.htm)|Garçon de course|`@Compendium[pf2e.backgrounds.DBxOUwM7qhGH8MrF]`|
+|[Criminal](backgrounds/9lVw1JGl5ser6626.htm)|Criminel|`@Compendium[pf2e.backgrounds.9lVw1JGl5ser6626]`|
+|[Cultist](backgrounds/fuTLDmihr9Z9e5wa.htm)|Cultiste|`@Compendium[pf2e.backgrounds.fuTLDmihr9Z9e5wa]`|
+|[Cursed](backgrounds/j2G71vQahw1DiWpO.htm)|Maudit|`@Compendium[pf2e.backgrounds.j2G71vQahw1DiWpO]`|
+|[Cursed Family](backgrounds/ajcpRVb5EG00l7Y4.htm)|Famille maudite|`@Compendium[pf2e.backgrounds.ajcpRVb5EG00l7Y4]`|
+|[Deckhand](backgrounds/IObZEUz8wneEMgR3.htm)|Homme de pont|`@Compendium[pf2e.backgrounds.IObZEUz8wneEMgR3]`|
+|[Demon Slayer](backgrounds/NywLl1XMQmzA6rP7.htm)|Tueur de démons|`@Compendium[pf2e.backgrounds.NywLl1XMQmzA6rP7]`|
+|[Deputy](backgrounds/KC5oI1bs6Wx8h91u.htm)|Adjoint|`@Compendium[pf2e.backgrounds.KC5oI1bs6Wx8h91u]`|
+|[Desert Tracker](backgrounds/2qH61dLeaqgNOdOp.htm)|Pisteur du désert|`@Compendium[pf2e.backgrounds.2qH61dLeaqgNOdOp]`|
+|[Detective](backgrounds/dVRDDjT4FOu6uLDR.htm)|Détective|`@Compendium[pf2e.backgrounds.dVRDDjT4FOu6uLDR]`|
+|[Diobel Pearl Diver](backgrounds/3wLnNwWnZ2dHIbV4.htm)|Pêcheur de perles de Diobel|`@Compendium[pf2e.backgrounds.3wLnNwWnZ2dHIbV4]`|
+|[Discarded Duplicate](backgrounds/7fCZTzmv5I2dI4sr.htm)|Doublure rejetée|`@Compendium[pf2e.backgrounds.7fCZTzmv5I2dI4sr]`|
+|[Disciple of the Gear](backgrounds/V9VsomfjbPQNfaSL.htm)|Disciple de l'engrenage|`@Compendium[pf2e.backgrounds.V9VsomfjbPQNfaSL]`|
+|[Dragon Scholar](backgrounds/GPI5kNu0xfom9kKa.htm)|Spécialiste des dragons|`@Compendium[pf2e.backgrounds.GPI5kNu0xfom9kKa]`|
+|[Dreamer of the Verdant Moon](backgrounds/vBPu7RwNXGDQ1ThL.htm)|Rêveur de la lune verdoyante|`@Compendium[pf2e.backgrounds.vBPu7RwNXGDQ1ThL]`|
+|[Driver](backgrounds/kmhZZgR7KlBzRBX0.htm)|Pilote|`@Compendium[pf2e.backgrounds.kmhZZgR7KlBzRBX0]`|
+|[Droskari Disciple](backgrounds/XHY0xrSSbX0cTJKK.htm)|Disciple de Droskar|`@Compendium[pf2e.backgrounds.XHY0xrSSbX0cTJKK]`|
+|[Early Explorer](backgrounds/p27PSjFtHAWikKaw.htm)|Explorateur précoce|`@Compendium[pf2e.backgrounds.p27PSjFtHAWikKaw]`|
+|[Eidolon Contact (Arcana)](backgrounds/W6MiTPAjlRxO8TFq.htm)|Contact d'Eidolon (Arcanes)|`@Compendium[pf2e.backgrounds.W6MiTPAjlRxO8TFq]`|
+|[Eidolon Contact (Nature)](backgrounds/6PGFGpkNQv6uuhO3.htm)|Contact d'Eidolon (Nature)|`@Compendium[pf2e.backgrounds.6PGFGpkNQv6uuhO3]`|
+|[Eidolon Contact (Occultism)](backgrounds/bvPPc10SYahijgLr.htm)|Contact d'Eidolon (Occultisme)|`@Compendium[pf2e.backgrounds.bvPPc10SYahijgLr]`|
+|[Eidolon Contact (Religion)](backgrounds/58aWxmagtsuO0jeP.htm)|Contact d'Eidolon (Religion)|`@Compendium[pf2e.backgrounds.58aWxmagtsuO0jeP]`|
+|[Eldritch Anatomist](backgrounds/MiRWGXZnEdurMvVf.htm)|Anatomiste mystique|`@Compendium[pf2e.backgrounds.MiRWGXZnEdurMvVf]`|
+|[Emancipated](backgrounds/oEm937kNrP5sXxFD.htm)|Émancipé|`@Compendium[pf2e.backgrounds.oEm937kNrP5sXxFD]`|
+|[Emissary](backgrounds/3WPo7m6rJQh9L7MN.htm)|Émissaire|`@Compendium[pf2e.backgrounds.3WPo7m6rJQh9L7MN]`|
+|[Energy Scarred](backgrounds/xbyQ1RAF6x4ceXLf.htm)|Scarifié d'énergie|`@Compendium[pf2e.backgrounds.xbyQ1RAF6x4ceXLf]`|
+|[Entertainer](backgrounds/i4hN6OYv8qmi3GLW.htm)|Bateleur|`@Compendium[pf2e.backgrounds.i4hN6OYv8qmi3GLW]`|
+|[Ex-Con Token Guard](backgrounds/CKU1sbFofcwZUJMx.htm)|Garde des Pièces ancien taulard|`@Compendium[pf2e.backgrounds.CKU1sbFofcwZUJMx]`|
+|[Ex-Mendevian Crusader](backgrounds/ynObDI0VbZ4sqeMI.htm)|Ancien croisé du Mendev|`@Compendium[pf2e.backgrounds.ynObDI0VbZ4sqeMI]`|
+|[Faction Opportunist](backgrounds/HKRcQO8Xj7xzBxAw.htm)|Opportuniste des Factions|`@Compendium[pf2e.backgrounds.HKRcQO8Xj7xzBxAw]`|
+|[False Medium](backgrounds/nAe65lvsOJAIHGGT.htm)|Faux médium|`@Compendium[pf2e.backgrounds.nAe65lvsOJAIHGGT]`|
+|[Farmhand](backgrounds/SOmJyAtPOokesZoe.htm)|Ouvrier agricole|`@Compendium[pf2e.backgrounds.SOmJyAtPOokesZoe]`|
+|[Farmsteader](backgrounds/mcL4WLO2yxBGlvuG.htm)|Paysan|`@Compendium[pf2e.backgrounds.mcL4WLO2yxBGlvuG]`|
+|[Feral Child](backgrounds/Q2brdDtEoI3cmpuD.htm)|Enfant sauvage|`@Compendium[pf2e.backgrounds.Q2brdDtEoI3cmpuD]`|
+|[Feybound](backgrounds/ppBGlWl0UkBKkJgE.htm)|Lié avec les fées|`@Compendium[pf2e.backgrounds.ppBGlWl0UkBKkJgE]`|
+|[Field Medic](backgrounds/FKHut73XDUGTnKkP.htm)|Médecin militaire|`@Compendium[pf2e.backgrounds.FKHut73XDUGTnKkP]`|
+|[Finadar Leshy](backgrounds/NZY0r4Csjul6eVPp.htm)|Léchi de Finadar|`@Compendium[pf2e.backgrounds.NZY0r4Csjul6eVPp]`|
+|[Final Blade Survivor](backgrounds/tQ9t7uIssRCR2y3W.htm)|Survivant de la Lame finale|`@Compendium[pf2e.backgrounds.tQ9t7uIssRCR2y3W]`|
+|[Fireworks Performer](backgrounds/2lk5NOcu1aUglUdK.htm)|Artiste de feux d'artifice|`@Compendium[pf2e.backgrounds.2lk5NOcu1aUglUdK]`|
+|[Fogfen Tale-Teller](backgrounds/3M2FRDlunjFshzbq.htm)|Raconteur d'histoires des Marais brumeux|`@Compendium[pf2e.backgrounds.3M2FRDlunjFshzbq]`|
+|[Former Aspis Agent](backgrounds/vgin9ff2sUBMpuaI.htm)|Ancien agent de l'Aspis|`@Compendium[pf2e.backgrounds.vgin9ff2sUBMpuaI]`|
+|[Fortune Teller](backgrounds/3frMfODIYFeqTl2k.htm)|Voyant|`@Compendium[pf2e.backgrounds.3frMfODIYFeqTl2k]`|
+|[Freed Slave of Absalom](backgrounds/a5dCSuAwGE2hqQjj.htm)|Esclave libéré d'Absalom|`@Compendium[pf2e.backgrounds.a5dCSuAwGE2hqQjj]`|
+|[Gambler](backgrounds/89LEOv97ZwsjnhNx.htm)|Parieur|`@Compendium[pf2e.backgrounds.89LEOv97ZwsjnhNx]`|
+|[Geb Crusader](backgrounds/bDyb0k0rTfDTyhd8.htm)|Croisé du Geb|`@Compendium[pf2e.backgrounds.bDyb0k0rTfDTyhd8]`|
+|[Genie-Blessed](backgrounds/LoeTd2SS6jfEgo1H.htm)|Béni des génies|`@Compendium[pf2e.backgrounds.LoeTd2SS6jfEgo1H]`|
+|[Gladiator](backgrounds/88WyCqU5x1eJ0MK2.htm)|Gladiateur|`@Compendium[pf2e.backgrounds.88WyCqU5x1eJ0MK2]`|
+|[Goblinblood Orphan](backgrounds/4fBIXtSVSRYn2ZGi.htm)|Orphelin des guerres du Sang gobelin|`@Compendium[pf2e.backgrounds.4fBIXtSVSRYn2ZGi]`|
+|[Godless Graycloak](backgrounds/1VdLr4Qm8fv1m4tM.htm)|Athéiste des Capes grises|`@Compendium[pf2e.backgrounds.1VdLr4Qm8fv1m4tM]`|
+|[Goldhand Arms Dealer](backgrounds/B6kNrX1y8XNbQYea.htm)|Marchand d'armes de la loge de la Main d'or|`@Compendium[pf2e.backgrounds.B6kNrX1y8XNbQYea]`|
+|[Grand Council Bureaucrat](backgrounds/yK40c3082U30BUX5.htm)|Bureaucrate du Grand conseil|`@Compendium[pf2e.backgrounds.yK40c3082U30BUX5]`|
+|[Grizzled Muckrucker](backgrounds/xCCvT9tprRQVFVDq.htm)|Fangeux grisonnant|`@Compendium[pf2e.backgrounds.xCCvT9tprRQVFVDq]`|
+|[Guard](backgrounds/6UmhTxOQeqFnppxx.htm)|Garde|`@Compendium[pf2e.backgrounds.6UmhTxOQeqFnppxx]`|
+|[Gunsmith](backgrounds/5dezuNcZJ6wfecnG.htm)|Armurier|`@Compendium[pf2e.backgrounds.5dezuNcZJ6wfecnG]`|
+|[Harbor Guard Moonlighter](backgrounds/lCR8gyEZbwqh3RWi.htm)|Noctambule de la Garde du port|`@Compendium[pf2e.backgrounds.lCR8gyEZbwqh3RWi]`|
+|[Harrow-Led (Occultism)](backgrounds/gv6RoDRYqT7iUX5C.htm)|Déterminé par le Tourment (Occultisme)|`@Compendium[pf2e.backgrounds.gv6RoDRYqT7iUX5C]`|
+|[Harrow-Led (Performance)](backgrounds/RgFOKlEmMIw2eZpo.htm)|Déterminé par le Tourment (Représentation)|`@Compendium[pf2e.backgrounds.RgFOKlEmMIw2eZpo]`|
+|[Harrow-Led (Society)](backgrounds/HV4MLfv7JaqoBac5.htm)|Déterminé par le Tourment (Société)|`@Compendium[pf2e.backgrounds.HV4MLfv7JaqoBac5]`|
+|[Haunted](backgrounds/pGOlKz4Krnh7MyUM.htm)|Hanté|`@Compendium[pf2e.backgrounds.pGOlKz4Krnh7MyUM]`|
+|[Haunting Vision](backgrounds/0z0PSizHviOehdJF.htm)|Hanté par une vision|`@Compendium[pf2e.backgrounds.0z0PSizHviOehdJF]`|
+|[Hellknight Historian](backgrounds/vNWSzv36L1GBPPoc.htm)|Historien des chevaliers infernaux|`@Compendium[pf2e.backgrounds.vNWSzv36L1GBPPoc]`|
+|[Herbalist](backgrounds/ZdhPKEY9FfaOS8Wy.htm)|Herboriste|`@Compendium[pf2e.backgrounds.ZdhPKEY9FfaOS8Wy]`|
+|[Hermean Expatriate](backgrounds/bh6O2Ad5mkYwRngM.htm)|Expatrié d'Herméa|`@Compendium[pf2e.backgrounds.bh6O2Ad5mkYwRngM]`|
+|[Hermean Heritor](backgrounds/mxJRdRSMsyZfBf5c.htm)|Héritier d'Herméa|`@Compendium[pf2e.backgrounds.mxJRdRSMsyZfBf5c]`|
+|[Hermit (Nature)](backgrounds/kdkbDdvgw6KAKVeM.htm)|Ermite (Nature)|`@Compendium[pf2e.backgrounds.kdkbDdvgw6KAKVeM]`|
+|[Hermit (Occultism)](backgrounds/4SSKsyD72AYYpzgm.htm)|Ermite (Occultisme)|`@Compendium[pf2e.backgrounds.4SSKsyD72AYYpzgm]`|
+|[Hired Killer](backgrounds/1M91pTjatEejBjEl.htm)|Tueur à gages|`@Compendium[pf2e.backgrounds.1M91pTjatEejBjEl]`|
+|[Hookclaw Digger](backgrounds/aWAfj7bhTZM2oK81.htm)|Creuseur Crochetgriffu|`@Compendium[pf2e.backgrounds.aWAfj7bhTZM2oK81]`|
+|[Hounded Thief](backgrounds/T537wo3aem8GvnmR.htm)|Voleur pourchassé|`@Compendium[pf2e.backgrounds.T537wo3aem8GvnmR]`|
+|[Hunter](backgrounds/5Z3cLEpsx9nHVwhM.htm)|Chasseur|`@Compendium[pf2e.backgrounds.5Z3cLEpsx9nHVwhM]`|
+|[Inlander](backgrounds/6vsoyCZKqxG0lVe8.htm)|Habitant de l'intérieur des terres|`@Compendium[pf2e.backgrounds.6vsoyCZKqxG0lVe8]`|
+|[Insurgent](backgrounds/HdnmIaLadhRfZq8X.htm)|Insurgé|`@Compendium[pf2e.backgrounds.HdnmIaLadhRfZq8X]`|
+|[Iolite Trainee Hobgoblin](backgrounds/fML6YrXYDqQy0g7L.htm)|Recrue Iolite Hobgobeline|`@Compendium[pf2e.backgrounds.fML6YrXYDqQy0g7L]`|
+|[Issian Partisan](backgrounds/8UEKgUkagUDixkL2.htm)|Partisan Issien|`@Compendium[pf2e.backgrounds.8UEKgUkagUDixkL2]`|
+|[Junk Collector](backgrounds/HSNUDvPgO1NESW7S.htm)|Collectionneur de déchets|`@Compendium[pf2e.backgrounds.HSNUDvPgO1NESW7S]`|
+|[Junker](backgrounds/vTyG1bQkEENZHroY.htm)|Camelot|`@Compendium[pf2e.backgrounds.vTyG1bQkEENZHroY]`|
+|[Kalistrade Follower](backgrounds/hPx0xiv00GQqPWUH.htm)|Suivant de Kalistrade|`@Compendium[pf2e.backgrounds.hPx0xiv00GQqPWUH]`|
+|[Kyonin Emissary](backgrounds/pBX18FI1grWwkWjk.htm)|Émissaire du Kyonin|`@Compendium[pf2e.backgrounds.pBX18FI1grWwkWjk]`|
+|[Laborer](backgrounds/2bzqI0D4J3LUi8nq.htm)|Manœuvre|`@Compendium[pf2e.backgrounds.2bzqI0D4J3LUi8nq]`|
+|[Lastwall Survivor](backgrounds/ffcNsTUBsxFwbNgJ.htm)|Survivant du Dernier-Rempart|`@Compendium[pf2e.backgrounds.ffcNsTUBsxFwbNgJ]`|
+|[Learned Guard Prodigy (Arcana)](backgrounds/IbF2EGUlnTsyqG44.htm)|Prodige de la Garde instruite (Arcanes)|`@Compendium[pf2e.backgrounds.IbF2EGUlnTsyqG44]`|
+|[Learned Guard Prodigy (Occultism)](backgrounds/nnBAO4NwdINCGQFK.htm)|Prodige de la Garde Instruite (Occultisme)|`@Compendium[pf2e.backgrounds.nnBAO4NwdINCGQFK]`|
+|[Legendary Parents](backgrounds/84uVpQFCqn0Atfpo.htm)|Parents légendaires|`@Compendium[pf2e.backgrounds.84uVpQFCqn0Atfpo]`|
+|[Lesser Scion](backgrounds/BBeJA7n0xpSsBCGq.htm)|Benjamin|`@Compendium[pf2e.backgrounds.BBeJA7n0xpSsBCGq]`|
+|[Local Scion](backgrounds/4a2sVO0o2mMTydN8.htm)|Enfant du pays|`@Compendium[pf2e.backgrounds.4a2sVO0o2mMTydN8]`|
+|[Lost and Alone](backgrounds/wU1qd8tZNcYn43y2.htm)|Perdu et seul|`@Compendium[pf2e.backgrounds.wU1qd8tZNcYn43y2]`|
+|[Lumber Consortium Laborer](backgrounds/uJcFanGjVranEarv.htm)|Ouvrier du Consortium du bois|`@Compendium[pf2e.backgrounds.uJcFanGjVranEarv]`|
+|[Magaambya Academic (Arcana)](backgrounds/5ITjkJwZ78YnBXdt.htm)|Étudiant du Magaambya (Arcanes)|`@Compendium[pf2e.backgrounds.5ITjkJwZ78YnBXdt]`|
+|[Magaambya Academic (Nature)](backgrounds/dd6DbCsT67rl8va3.htm)|Étudiant du Magaambya (Nature)|`@Compendium[pf2e.backgrounds.dd6DbCsT67rl8va3]`|
+|[Magical Experiment](backgrounds/WIWR8jURAdSAzxIh.htm)|Expérience magique|`@Compendium[pf2e.backgrounds.WIWR8jURAdSAzxIh]`|
+|[Magical Merchant](backgrounds/I5cRrqrPCHsQqFI9.htm)|Marchand magique|`@Compendium[pf2e.backgrounds.I5cRrqrPCHsQqFI9]`|
+|[Magical Misfit](backgrounds/EYPorNgoYcp37akm.htm)|Marginal de la magie|`@Compendium[pf2e.backgrounds.EYPorNgoYcp37akm]`|
+|[Mammoth Herder](backgrounds/D00NdG0WtUNMO546.htm)|Berger des mammouths|`@Compendium[pf2e.backgrounds.D00NdG0WtUNMO546]`|
+|[Mammoth Speaker](backgrounds/76RK9WizWYdyhMy5.htm)|Dresseur de mammouth|`@Compendium[pf2e.backgrounds.76RK9WizWYdyhMy5]`|
+|[Mana Wastes Refugee](backgrounds/V1RAIckpUJd2OzXi.htm)|Réfugié de la Désolation de Mana|`@Compendium[pf2e.backgrounds.V1RAIckpUJd2OzXi]`|
+|[Mantis Scion](backgrounds/4aVFnYyRajog0mNl.htm)|Descendant de la Mante|`@Compendium[pf2e.backgrounds.4aVFnYyRajog0mNl]`|
+|[Market Runner](backgrounds/n2JN5Kiu7tOCAHPr.htm)|Coureur du marché|`@Compendium[pf2e.backgrounds.n2JN5Kiu7tOCAHPr]`|
+|[Martial Disciple (Acrobatics)](backgrounds/lRVYgV9zL6O6O3U4.htm)|Disciple martial (Acrobatie)|`@Compendium[pf2e.backgrounds.lRVYgV9zL6O6O3U4]`|
+|[Martial Disciple (Athletics)](backgrounds/faHydq29Q4RP5CAK.htm)|Disciple martial (Athlétisme)|`@Compendium[pf2e.backgrounds.faHydq29Q4RP5CAK]`|
+|[Mechanic](backgrounds/cODrdTvko4Om26ik.htm)|Mécanicien|`@Compendium[pf2e.backgrounds.cODrdTvko4Om26ik]`|
+|[Mechanical Symbiosis](backgrounds/wGB222d5UIBGYWsK.htm)|Symbiose mécanique|`@Compendium[pf2e.backgrounds.wGB222d5UIBGYWsK]`|
+|[Medicinal Clocksmith](backgrounds/x3fFxtLogoy5hZfe.htm)|Mécanicien médicinal|`@Compendium[pf2e.backgrounds.x3fFxtLogoy5hZfe]`|
+|[Megafauna Hunter](backgrounds/q1OCPBAgYgvwy1Of.htm)|Chasseur de mégafaune|`@Compendium[pf2e.backgrounds.q1OCPBAgYgvwy1Of]`|
+|[Menagerie Dung Sweeper](backgrounds/YyzIzLxn2UCFubj4.htm)|Balayeur de fumier de la Ménagerie|`@Compendium[pf2e.backgrounds.YyzIzLxn2UCFubj4]`|
+|[Merabite Prodigy](backgrounds/a45LqkSRX07ljKdW.htm)|Prodige Mérabite|`@Compendium[pf2e.backgrounds.a45LqkSRX07ljKdW]`|
+|[Merchant](backgrounds/KMv7ollLVaZ81XDV.htm)|Marchand|`@Compendium[pf2e.backgrounds.KMv7ollLVaZ81XDV]`|
+|[Miner](backgrounds/bCJ9p3P5uJDAtaUI.htm)|Mineur|`@Compendium[pf2e.backgrounds.bCJ9p3P5uJDAtaUI]`|
+|[Missionary](backgrounds/GNidqGnSABx1rQUQ.htm)|Missionnaire|`@Compendium[pf2e.backgrounds.GNidqGnSABx1rQUQ]`|
+|[Molthuni Mercenary](backgrounds/lqjmBmGHYRaSiglZ.htm)|Mercenaire du Molthune|`@Compendium[pf2e.backgrounds.lqjmBmGHYRaSiglZ]`|
+|[Musical Prodigy](backgrounds/HNdGlDHkcczqNw2U.htm)|Prodige de la musique|`@Compendium[pf2e.backgrounds.HNdGlDHkcczqNw2U]`|
+|[Mystic Seer](backgrounds/Y50ssWBBKSRVBpSa.htm)|Voyant mystique|`@Compendium[pf2e.backgrounds.Y50ssWBBKSRVBpSa]`|
+|[Mystic Tutor (Arcana)](backgrounds/9YKU3qbxJpWHcNQE.htm)|Tuteur mystique (Arcanes)|`@Compendium[pf2e.backgrounds.9YKU3qbxJpWHcNQE]`|
+|[Mystic Tutor (Occultism)](backgrounds/e58GwSBLNslyfqMF.htm)|Tuteur mystique (Occultisme)|`@Compendium[pf2e.backgrounds.e58GwSBLNslyfqMF]`|
+|[Newcomer In Need](backgrounds/QnL7hqUi9HPenrbC.htm)|Nouveau venu dans le besoin|`@Compendium[pf2e.backgrounds.QnL7hqUi9HPenrbC]`|
+|[Nexian Mystic](backgrounds/Y35nOXZRryiyHjlk.htm)|Mystique nexien|`@Compendium[pf2e.backgrounds.Y35nOXZRryiyHjlk]`|
+|[Nirmathi Guerrilla](backgrounds/E2ij2Cg8oMC0W0NS.htm)|Escarmoucheur Nirmathi|`@Compendium[pf2e.backgrounds.E2ij2Cg8oMC0W0NS]`|
+|[Noble](backgrounds/Yu7Cl0Lk94LdPRi6.htm)|Noble|`@Compendium[pf2e.backgrounds.Yu7Cl0Lk94LdPRi6]`|
+|[Nomad](backgrounds/8UXahQfkP9GZ1TNW.htm)|Nomade|`@Compendium[pf2e.backgrounds.8UXahQfkP9GZ1TNW]`|
+|[Northland Forager](backgrounds/xyHndp512sLU4UOL.htm)|Glaneur du nord|`@Compendium[pf2e.backgrounds.xyHndp512sLU4UOL]`|
+|[Occult Librarian](backgrounds/jpgO5zofecGeyXd5.htm)|Bibilothécaire occulte|`@Compendium[pf2e.backgrounds.jpgO5zofecGeyXd5]`|
+|[Oenopion-Ooze Tender](backgrounds/iWWg16f3re1YChiD.htm)|Éleveur de vases d'Œnopion|`@Compendium[pf2e.backgrounds.iWWg16f3re1YChiD]`|
+|[Onyx Trader](backgrounds/WueM94C9JXk10jPd.htm)|Marchand d'onyx|`@Compendium[pf2e.backgrounds.WueM94C9JXk10jPd]`|
+|[Osirionologist](backgrounds/AJ41zFEYwlOUghXp.htm)|Osirionologiste|`@Compendium[pf2e.backgrounds.AJ41zFEYwlOUghXp]`|
+|[Otherworldly Mission](backgrounds/d5fKB0ZMJQkwDF5p.htm)|Missionné de l'autre monde|`@Compendium[pf2e.backgrounds.d5fKB0ZMJQkwDF5p]`|
+|[Out-Of-Towner](backgrounds/UgityMZaujmYUpil.htm)|De passage|`@Compendium[pf2e.backgrounds.UgityMZaujmYUpil]`|
+|[Outrider](backgrounds/dAvFZ5QmbAHgXcNp.htm)|Chevaucheur des plaines|`@Compendium[pf2e.backgrounds.dAvFZ5QmbAHgXcNp]`|
+|[Pathfinder Hopeful](backgrounds/j9v38iHA0sVy59SR.htm)|Aspirant Éclaireur|`@Compendium[pf2e.backgrounds.j9v38iHA0sVy59SR]`|
+|[Pathfinder Recruiter](backgrounds/NXYce9NAHls2fcIf.htm)|Recrue des Éclaireurs|`@Compendium[pf2e.backgrounds.NXYce9NAHls2fcIf]`|
+|[Perfection Seeker](backgrounds/P65AGDPkhD2B4JtG.htm)|À la recherche de la Perfection|`@Compendium[pf2e.backgrounds.P65AGDPkhD2B4JtG]`|
+|[Pilgrim](backgrounds/r9fzNQEz33HyKTxm.htm)|Pélerin|`@Compendium[pf2e.backgrounds.r9fzNQEz33HyKTxm]`|
+|[Plant Whisperer](backgrounds/76j9ds5URXv1dqnm.htm)|Botanniste|`@Compendium[pf2e.backgrounds.76j9ds5URXv1dqnm]`|
+|[Political Scion](backgrounds/JauSkDtMV6dhDZS8.htm)|Rejeton de politicien|`@Compendium[pf2e.backgrounds.JauSkDtMV6dhDZS8]`|
+|[Post Guard of All Trades](backgrounds/DVtZab19D1vD3a0n.htm)|Garde du poste touche-à-tout|`@Compendium[pf2e.backgrounds.DVtZab19D1vD3a0n]`|
+|[Press-Ganged](backgrounds/4yN5miHoMvKwZIsa.htm)|Forçat des Mers|`@Compendium[pf2e.backgrounds.4yN5miHoMvKwZIsa]`|
+|[Printer](backgrounds/qJNmSgzq0ae29qCC.htm)|Imprimeur|`@Compendium[pf2e.backgrounds.qJNmSgzq0ae29qCC]`|
+|[Prisoner](backgrounds/apXTV7jJx6yJpj8D.htm)|Prisonnier|`@Compendium[pf2e.backgrounds.apXTV7jJx6yJpj8D]`|
+|[Purveyor of the Bizzare](backgrounds/IfpYRxN8qyV4ym0o.htm)|Fournisseur de Bizarreries|`@Compendium[pf2e.backgrounds.IfpYRxN8qyV4ym0o]`|
+|[Quick](backgrounds/i6y4DiKvqitdE0PW.htm)|Rapide|`@Compendium[pf2e.backgrounds.i6y4DiKvqitdE0PW]`|
+|[Raised by Belief](backgrounds/RC4l6WsxPn89a1f8.htm)|Élevé dans la Foi|`@Compendium[pf2e.backgrounds.RC4l6WsxPn89a1f8]`|
+|[Razmiran Faithful](backgrounds/9uTdwJaj27F18ZDX.htm)|Fidèle de Razmir|`@Compendium[pf2e.backgrounds.9uTdwJaj27F18ZDX]`|
+|[Refugee (APG)](backgrounds/i28Z9JXhEvoc7BX5.htm)|Réfugié (MJA)|`@Compendium[pf2e.backgrounds.i28Z9JXhEvoc7BX5]`|
+|[Refugee (Fall of Plaguestone)](backgrounds/HDquvQywAZimmcFF.htm)|Réfugié (la Chute de Plaguestone)|`@Compendium[pf2e.backgrounds.HDquvQywAZimmcFF]`|
+|[Reputation Seeker](backgrounds/TPoP1mKpqUOpRQ5Y.htm)|En quête de renommée|`@Compendium[pf2e.backgrounds.TPoP1mKpqUOpRQ5Y]`|
+|[Returned](backgrounds/rzyRtasSTfHS3e0y.htm)|Ressuscité|`@Compendium[pf2e.backgrounds.rzyRtasSTfHS3e0y]`|
+|[Returning Descendant](backgrounds/iaM6TjvijLCgiHeD.htm)|Descendant de retour|`@Compendium[pf2e.backgrounds.iaM6TjvijLCgiHeD]`|
+|[Revenant](backgrounds/W6OIPZhjcV45gfoX.htm)|Revenant|`@Compendium[pf2e.backgrounds.W6OIPZhjcV45gfoX]`|
+|[Rigger](backgrounds/7IrOApgShgnmp1A5.htm)|Gréeur|`@Compendium[pf2e.backgrounds.7IrOApgShgnmp1A5]`|
+|[Rivethun Adherent](backgrounds/6c0rsuiiAaVqGTu7.htm)|Adhérent du Rivethun|`@Compendium[pf2e.backgrounds.6c0rsuiiAaVqGTu7]`|
+|[Root Worker](backgrounds/ns9BOvCyjdapYhI0.htm)|Cueilleur de racines|`@Compendium[pf2e.backgrounds.ns9BOvCyjdapYhI0]`|
+|[Rostland Partisan](backgrounds/8q4PhvpmIxZD7rsV.htm)|Partisan du Rost|`@Compendium[pf2e.backgrounds.8q4PhvpmIxZD7rsV]`|
+|[Royalty](backgrounds/uC6D2nmDTATxXrV6.htm)|De sang royal|`@Compendium[pf2e.backgrounds.uC6D2nmDTATxXrV6]`|
+|[Ruby Phoenix Enthusiast](backgrounds/7K6ZSWOoihZKSdyd.htm)|Passionné du Phénix de rubis|`@Compendium[pf2e.backgrounds.7K6ZSWOoihZKSdyd]`|
+|[Ruby Phoenix Fanatic](backgrounds/uF9nw15tK6b1bgre.htm)|Fanatique du Phénix de rubis|`@Compendium[pf2e.backgrounds.uF9nw15tK6b1bgre]`|
+|[Ruin Delver](backgrounds/5qUQOpdlNsJjpFVX.htm)|Explorateur de ruines|`@Compendium[pf2e.backgrounds.5qUQOpdlNsJjpFVX]`|
+|[Saboteur](backgrounds/4Vc8uXVHonrasFnU.htm)|Saboteur|`@Compendium[pf2e.backgrounds.4Vc8uXVHonrasFnU]`|
+|[Sailor](backgrounds/Zmwyhsxe4i6rZN75.htm)|Marin|`@Compendium[pf2e.backgrounds.Zmwyhsxe4i6rZN75]`|
+|[Sally Guard Neophyte](backgrounds/vE6nb2OSIXqprDXk.htm)|Néophyte de la Garde des Percées|`@Compendium[pf2e.backgrounds.vE6nb2OSIXqprDXk]`|
+|[Saloon Entertainer](backgrounds/4KCa67gyxUn60zdf.htm)|Amuseur de saloon|`@Compendium[pf2e.backgrounds.4KCa67gyxUn60zdf]`|
+|[Sarkorian Reclaimer](backgrounds/khGFmnQMBYmz2ONR.htm)|Reconquérant du Sarkoris|`@Compendium[pf2e.backgrounds.khGFmnQMBYmz2ONR]`|
+|[Sarkorian Survivor](backgrounds/B8kEwzPUMIjhofUm.htm)|Survivant de Sarkoris|`@Compendium[pf2e.backgrounds.B8kEwzPUMIjhofUm]`|
+|[Saved by Clockwork](backgrounds/yZUzLCeuaIkNk4up.htm)|Sauvé par la mécanique|`@Compendium[pf2e.backgrounds.yZUzLCeuaIkNk4up]`|
+|[Savior of Air](backgrounds/locc0cjOmOQHe3j7.htm)|Sauveur de l'air|`@Compendium[pf2e.backgrounds.locc0cjOmOQHe3j7]`|
+|[Scavenger](backgrounds/vHeP960qjhfob4Je.htm)|Récupérateur|`@Compendium[pf2e.backgrounds.vHeP960qjhfob4Je]`|
+|[Scholar (Arcana)](backgrounds/WRVEUkemqj2uNHwl.htm)|Érudit (Arcanes)|`@Compendium[pf2e.backgrounds.WRVEUkemqj2uNHwl]`|
+|[Scholar (Nature)](backgrounds/rSH3NdJMfFYOK8ot.htm)|Érudit (Nature)|`@Compendium[pf2e.backgrounds.rSH3NdJMfFYOK8ot]`|
+|[Scholar (Occultism)](backgrounds/wMkYKnvNZoZ4oQ0W.htm)|Érudit (Occultisme)|`@Compendium[pf2e.backgrounds.wMkYKnvNZoZ4oQ0W]`|
+|[Scholar (Religion)](backgrounds/cRELMbOeZa2FPIcL.htm)|Érudit (Religion)|`@Compendium[pf2e.backgrounds.cRELMbOeZa2FPIcL]`|
+|[Scholar of the Ancients](backgrounds/i5G6E5dkGWiq838C.htm)|Étudiant de l'Antiquité|`@Compendium[pf2e.backgrounds.i5G6E5dkGWiq838C]`|
+|[Scholar of the Sky Key](backgrounds/UyddtAwqDGjQ1SZK.htm)|Étudiant de la Clé du ciel|`@Compendium[pf2e.backgrounds.UyddtAwqDGjQ1SZK]`|
+|[Scout](backgrounds/o7RbsQbv5iLRvd8j.htm)|Éclaireur|`@Compendium[pf2e.backgrounds.o7RbsQbv5iLRvd8j]`|
+|[Second Chance Champion](backgrounds/wz4fDeZtCvxC4vyO.htm)|Champion de la seconde chance|`@Compendium[pf2e.backgrounds.wz4fDeZtCvxC4vyO]`|
+|[Secular Medic](backgrounds/y0WZS51fSi6dILHq.htm)|Médecin séculier|`@Compendium[pf2e.backgrounds.y0WZS51fSi6dILHq]`|
+|[Seer of the Dead](backgrounds/UU4MOe7Lozt9V8tg.htm)|Voyant des morts|`@Compendium[pf2e.backgrounds.UU4MOe7Lozt9V8tg]`|
+|[Senghor Sailor](backgrounds/lav3yRNPc7lQ7e9k.htm)|Marin de Senghor|`@Compendium[pf2e.backgrounds.lav3yRNPc7lQ7e9k]`|
+|[Servant](backgrounds/UdOUj7i8XGTI72Zc.htm)|Serviteur|`@Compendium[pf2e.backgrounds.UdOUj7i8XGTI72Zc]`|
+|[Sewer Dragon](backgrounds/OhP7cqvNouFgHIdJ.htm)|Dragon des égoûts|`@Compendium[pf2e.backgrounds.OhP7cqvNouFgHIdJ]`|
+|[Shadow Haunted](backgrounds/V31KRG7aA7xS0m8L.htm)|Ombre hantée|`@Compendium[pf2e.backgrounds.V31KRG7aA7xS0m8L]`|
+|[Shadow Lodge Defector](backgrounds/HEd2Lxgvl080nRxx.htm)|Défecteur de la Loge d'Ombre|`@Compendium[pf2e.backgrounds.HEd2Lxgvl080nRxx]`|
+|[Shadow War Survivor](backgrounds/b9EPEY09dYOVzdue.htm)|Survivant de la Guerre de l'ombre|`@Compendium[pf2e.backgrounds.b9EPEY09dYOVzdue]`|
+|[Sheriff](backgrounds/AqhHif8mzYjlGMxJ.htm)|Shérif|`@Compendium[pf2e.backgrounds.AqhHif8mzYjlGMxJ]`|
+|[Shoanti Name-Bearer](backgrounds/H3E69w8Xg0T7rAqD.htm)|Porteur de nom Shoanti|`@Compendium[pf2e.backgrounds.H3E69w8Xg0T7rAqD]`|
+|[Shory Seeker](backgrounds/HZ3oBBdEnsH3fWrm.htm)|Chercheur Rivain|`@Compendium[pf2e.backgrounds.HZ3oBBdEnsH3fWrm]`|
+|[Sleepless Suns Star](backgrounds/AfBCrHsw1xbRFejN.htm)|Étoile des soleils sans repos|`@Compendium[pf2e.backgrounds.AfBCrHsw1xbRFejN]`|
+|[Sodden Scavenger](backgrounds/93icIDHD4IrqI2oV.htm)|Récupérateur détrempé|`@Compendium[pf2e.backgrounds.93icIDHD4IrqI2oV]`|
+|[Song of the Deep](backgrounds/o3ArTg5c8pLe7iGm.htm)|Chant des profondeurs de l'océan|`@Compendium[pf2e.backgrounds.o3ArTg5c8pLe7iGm]`|
+|[Songsinger in Training](backgrounds/ECKic2p6yIyoGYod.htm)|Apprenti chansonnier|`@Compendium[pf2e.backgrounds.ECKic2p6yIyoGYod]`|
+|[Spell Seeker (Arcana)](backgrounds/jjwhyvdGrxeWmY5s.htm)|Chercheur de sorts (Arcanes)|`@Compendium[pf2e.backgrounds.jjwhyvdGrxeWmY5s]`|
+|[Spell Seeker (Occult)](backgrounds/PO94ilqe62V6jtBE.htm)|Chercheur de sorts (Occultisme)|`@Compendium[pf2e.backgrounds.PO94ilqe62V6jtBE]`|
+|[Sponsored by Family (Diplomacy)](backgrounds/he1oXWjCqyb4CUx8.htm)|Soutenu par la famille (Diplomatie)|`@Compendium[pf2e.backgrounds.he1oXWjCqyb4CUx8]`|
+|[Sponsored by Family (Society)](backgrounds/fzrXTLDPu3P06joW.htm)|Soutenu par la famille (Société)|`@Compendium[pf2e.backgrounds.fzrXTLDPu3P06joW]`|
+|[Sponsored by Teacher Ot (Performance)](backgrounds/IMrOWZkxXtkOeTy6.htm)|Soutenu par Professeur Ot (Représentation)|`@Compendium[pf2e.backgrounds.IMrOWZkxXtkOeTy6]`|
+|[Sponsored by Teacher Ot (Survival)](backgrounds/aQcV1RqOFvtZaw0l.htm)|Soutenu par Professeur Ot (Survie)|`@Compendium[pf2e.backgrounds.aQcV1RqOFvtZaw0l]`|
+|[Sponsored by a Stranger (Nature)](backgrounds/WE9EjWB0TFuAhwJc.htm)|Soutenu par un étranger (Nature)|`@Compendium[pf2e.backgrounds.WE9EjWB0TFuAhwJc]`|
+|[Sponsored by a Stranger (Occultism)](backgrounds/BxQ4QaNaodIw3pWu.htm)|Soutenu par un étranger (Occultisme)|`@Compendium[pf2e.backgrounds.BxQ4QaNaodIw3pWu]`|
+|[Sponsored by a Village (Crafting)](backgrounds/5qi0swjGo1aclB2U.htm)|Soutenu par un village (Artisanat)|`@Compendium[pf2e.backgrounds.5qi0swjGo1aclB2U]`|
+|[Sponsored by a Village (Survival)](backgrounds/v1RSnxkODhhc7eoL.htm)|Soutenu par un village (Survie)|`@Compendium[pf2e.backgrounds.v1RSnxkODhhc7eoL]`|
+|[Spotter](backgrounds/XcacLiaGDgjzHS3T.htm)|Guetteur|`@Compendium[pf2e.backgrounds.XcacLiaGDgjzHS3T]`|
+|[Squire](backgrounds/qbvzNG8hMjb8f66D.htm)|Écuyer|`@Compendium[pf2e.backgrounds.qbvzNG8hMjb8f66D]`|
+|[Starwatcher](backgrounds/sR3S7Xn15drU6rOF.htm)|Observateur d'étoiles|`@Compendium[pf2e.backgrounds.sR3S7Xn15drU6rOF]`|
+|[Storm Survivor](backgrounds/UURvnfwXypRYYXBI.htm)|Survivant d'une tempête|`@Compendium[pf2e.backgrounds.UURvnfwXypRYYXBI]`|
+|[Street Preacher](backgrounds/tqnrnXVTbdehohPL.htm)|Prêcheur des rues|`@Compendium[pf2e.backgrounds.tqnrnXVTbdehohPL]`|
+|[Street Urchin](backgrounds/moVRsnpjB5THCwxE.htm)|Enfant des rues|`@Compendium[pf2e.backgrounds.moVRsnpjB5THCwxE]`|
+|[Student of Magic (Arcana)](backgrounds/zOq3K7jpF2E1NmZi.htm)|Étudiant de la magie (Arcanes)|`@Compendium[pf2e.backgrounds.zOq3K7jpF2E1NmZi]`|
+|[Student of Magic (Nature)](backgrounds/wMFy6cJIEOUX9gLZ.htm)|Étudiant de la magie (Nature)|`@Compendium[pf2e.backgrounds.wMFy6cJIEOUX9gLZ]`|
+|[Student of Magic (Occultism)](backgrounds/UjN1dEgMnJdzq4HT.htm)|Étudiant de la magie (Occultisme)|`@Compendium[pf2e.backgrounds.UjN1dEgMnJdzq4HT]`|
+|[Student of Magic (Religion)](backgrounds/Y47AuCS5D1R4U4sn.htm)|Étudiant de la magie (Religion)|`@Compendium[pf2e.backgrounds.Y47AuCS5D1R4U4sn]`|
+|[Surge Investigator (Nature)](backgrounds/ffEvUlA2AZOIXUej.htm)|Enquêteur d'ondes magiques (Nature)|`@Compendium[pf2e.backgrounds.ffEvUlA2AZOIXUej]`|
+|[Surge Investigator (Occultism)](backgrounds/D2bageI3HMT2xyyD.htm)|Enquêteur d'ondes magiques (Occultisme)|`@Compendium[pf2e.backgrounds.D2bageI3HMT2xyyD]`|
+|[Taldan Schemer](backgrounds/PhqUBXLLkVXb6oUE.htm)|Intrigant taldorien|`@Compendium[pf2e.backgrounds.PhqUBXLLkVXb6oUE]`|
+|[Tall Tale](backgrounds/uwZ0emSBFNMGA74j.htm)|Mythomane|`@Compendium[pf2e.backgrounds.uwZ0emSBFNMGA74j]`|
+|[Tapestry Refugee (Medicine)](backgrounds/LJmBnA2IYDBqQgRx.htm)|Réfugié de la Tapisserie (Médecine)|`@Compendium[pf2e.backgrounds.LJmBnA2IYDBqQgRx]`|
+|[Tapestry Refugee (Stealth)](backgrounds/Wfil0jRW1iC2huPT.htm)|Réfugié de la Tapisserie (Discrétion)|`@Compendium[pf2e.backgrounds.Wfil0jRW1iC2huPT]`|
+|[Tax Collector](backgrounds/ixluAGUDZciLEHtb.htm)|Percepteur|`@Compendium[pf2e.backgrounds.ixluAGUDZciLEHtb]`|
+|[Teacher (Performance)](backgrounds/cFdndc4pMWhnRUOY.htm)|Enseignant (Représentation)|`@Compendium[pf2e.backgrounds.cFdndc4pMWhnRUOY]`|
+|[Teacher (Society)](backgrounds/WU0QTDh2SogUthxn.htm)|Enseignant (Société)|`@Compendium[pf2e.backgrounds.WU0QTDh2SogUthxn]`|
+|[Teamster](backgrounds/h98cEl4DY75IL6KJ.htm)|Conducteur d'attelages|`@Compendium[pf2e.backgrounds.h98cEl4DY75IL6KJ]`|
+|[Tech Reliant](backgrounds/2FUdcPsXwoWT1bms.htm)|Techno dépendant|`@Compendium[pf2e.backgrounds.2FUdcPsXwoWT1bms]`|
+|[Thassilonian Delver](backgrounds/vjhB0ZTV9OZgSuSz.htm)|Fouilleur thassilonnien|`@Compendium[pf2e.backgrounds.vjhB0ZTV9OZgSuSz]`|
+|[Thassilonian Traveler](backgrounds/su8y75pGMVTUsNHK.htm)|Voyageur Thassilonien|`@Compendium[pf2e.backgrounds.su8y75pGMVTUsNHK]`|
+|[Thrune Loyalist](backgrounds/m1vRLRHTpCrgk89G.htm)|Loyaliste Thrune|`@Compendium[pf2e.backgrounds.m1vRLRHTpCrgk89G]`|
+|[Thuvian Unifier](backgrounds/MslumKt6iwJ85GKZ.htm)|Unificateur thuvien|`@Compendium[pf2e.backgrounds.MslumKt6iwJ85GKZ]`|
+|[Time Traveler](backgrounds/IOcjPmcemrQFFb2b.htm)|Voyageur du temps|`@Compendium[pf2e.backgrounds.IOcjPmcemrQFFb2b]`|
+|[Tinker](backgrounds/i79pgNIAtJfkkOiw.htm)|Bricoleur|`@Compendium[pf2e.backgrounds.i79pgNIAtJfkkOiw]`|
+|[Touched by Dahak](backgrounds/4naQmCXBl0007c2W.htm)|Touché par Dahak|`@Compendium[pf2e.backgrounds.4naQmCXBl0007c2W]`|
+|[Toymaker](backgrounds/Sj91CUyEUeWoPh2R.htm)|Fabricant de jouets|`@Compendium[pf2e.backgrounds.Sj91CUyEUeWoPh2R]`|
+|[Trade Consortium Underling](backgrounds/tcsSxwkl4wCsfO3k.htm)|Sous-fifre de consortium marchand|`@Compendium[pf2e.backgrounds.tcsSxwkl4wCsfO3k]`|
+|[Trailblazer](backgrounds/LwAu4r3uocYfpKA8.htm)|Pionnier|`@Compendium[pf2e.backgrounds.LwAu4r3uocYfpKA8]`|
+|[Translator](backgrounds/7AfixHrjbXgDPPkp.htm)|Traducteur|`@Compendium[pf2e.backgrounds.7AfixHrjbXgDPPkp]`|
+|[Truth Seeker](backgrounds/TC7jpN5EA4UBIYep.htm)|En quête de vérité|`@Compendium[pf2e.backgrounds.TC7jpN5EA4UBIYep]`|
+|[Ulfen Raider](backgrounds/V3nYEAhyA54RtYky.htm)|Raider ulfe|`@Compendium[pf2e.backgrounds.V3nYEAhyA54RtYky]`|
+|[Undercover Contender](backgrounds/Am8kwC9c2GQ5bJAW.htm)|Concurrent sous couverture|`@Compendium[pf2e.backgrounds.Am8kwC9c2GQ5bJAW]`|
+|[Undercover Lotus Guard](backgrounds/86TbxxwfpWjScwSQ.htm)|Garde Lotus infiltré|`@Compendium[pf2e.backgrounds.86TbxxwfpWjScwSQ]`|
+|[Undersea Enthusiast](backgrounds/Ty8FRM0k262xuHfF.htm)|Enthousiaste aquatique|`@Compendium[pf2e.backgrounds.Ty8FRM0k262xuHfF]`|
+|[Undertaker](backgrounds/2Mm0BHMJZhqIqoQG.htm)|Croque-mort|`@Compendium[pf2e.backgrounds.2Mm0BHMJZhqIqoQG]`|
+|[Unsponsored (Diplomacy)](backgrounds/ED0imMUoDvwpESd5.htm)|Non soutenu (Diplomatie)|`@Compendium[pf2e.backgrounds.ED0imMUoDvwpESd5]`|
+|[Unsponsored (Intimidation)](backgrounds/gq98S6hRboPxK1kt.htm)|Non soutenu (Intimidation)|`@Compendium[pf2e.backgrounds.gq98S6hRboPxK1kt]`|
+|[Ustalavic Academic](backgrounds/x2y25cE98Eq4qxbu.htm)|Étudiant ustalavien|`@Compendium[pf2e.backgrounds.x2y25cE98Eq4qxbu]`|
+|[Varisian Wanderer](backgrounds/uNhdcyhiog7YvXPT.htm)|Vagabond Varisien|`@Compendium[pf2e.backgrounds.uNhdcyhiog7YvXPT]`|
+|[Vidrian Reformer](backgrounds/mrkgVjiEdlPjLUsN.htm)|Réformateur Vidrien|`@Compendium[pf2e.backgrounds.mrkgVjiEdlPjLUsN]`|
+|[Wandering Preacher](backgrounds/UFHezf1LXUwcQIAQ.htm)|Prêcheur errant|`@Compendium[pf2e.backgrounds.UFHezf1LXUwcQIAQ]`|
+|[Ward](backgrounds/IXxdCzBS0xP20ckw.htm)|Pupille|`@Compendium[pf2e.backgrounds.IXxdCzBS0xP20ckw]`|
+|[Warrior](backgrounds/r0kYIbN06Cv8eNG3.htm)|Homme d'armes|`@Compendium[pf2e.backgrounds.r0kYIbN06Cv8eNG3]`|
+|[Waste Walker](backgrounds/9l6q90sk8UM292CY.htm)|Arpenteur de la Désolation|`@Compendium[pf2e.backgrounds.9l6q90sk8UM292CY]`|
+|[Whispering Way Scion](backgrounds/aisuJF1A98bHfkLH.htm)|Descendant de la Voie du Murmure|`@Compendium[pf2e.backgrounds.aisuJF1A98bHfkLH]`|
+|[Wildwood Local](backgrounds/R1v4gUu8oRMoOASM.htm)|Habitué des bois|`@Compendium[pf2e.backgrounds.R1v4gUu8oRMoOASM]`|
+|[Winter's Child](backgrounds/SJ3nNOI5A8A4hK0Q.htm)|Enfant de l'hiver|`@Compendium[pf2e.backgrounds.SJ3nNOI5A8A4hK0Q]`|
+|[Wished Alive](backgrounds/O4xKRtHb21DCTvQ0.htm)|Désiré vivant|`@Compendium[pf2e.backgrounds.O4xKRtHb21DCTvQ0]`|
+|[Witch Wary](backgrounds/yAtyaKbcHZWCJlf5.htm)|Gare aux sorcières|`@Compendium[pf2e.backgrounds.yAtyaKbcHZWCJlf5]`|
+|[Witchlight Follower](backgrounds/BZhPPw9VD9U2ur6B.htm)|Suiveur de lumière de sorcier|`@Compendium[pf2e.backgrounds.BZhPPw9VD9U2ur6B]`|
+|[Wonder Taster](backgrounds/qB7g1OiZ8v8zgvkL.htm)|Goûteur de merveilles|`@Compendium[pf2e.backgrounds.qB7g1OiZ8v8zgvkL]`|
+|[[Empty Background]](backgrounds/iPuclSXdCEAVfTZ0.htm)|[Historique vierge]|`@Compendium[pf2e.backgrounds.iPuclSXdCEAVfTZ0]`|
+
+
+## Héritages des ascendances
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
@@ -7178,6 +7818,64 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 
 ## Macros PF2e
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Balance: Acrobatics](action-macros/55mxH0w8UkY1o3Xv.htm)||`@Compendium[pf2e.action-macros.55mxH0w8UkY1o3Xv]`|
+|[Bon Mot: Diplomacy](action-macros/EDLftLWLBefTFDtu.htm)||`@Compendium[pf2e.action-macros.EDLftLWLBefTFDtu]`|
+|[Climb: Athletics](action-macros/LXCy1iJddD95Z91s.htm)||`@Compendium[pf2e.action-macros.LXCy1iJddD95Z91s]`|
+|[Coerce: Intimidation](action-macros/9RNumMausgG7adgL.htm)||`@Compendium[pf2e.action-macros.9RNumMausgG7adgL]`|
+|[Craft: Crafting](action-macros/Tu7LIRelQsiOuo1l.htm)||`@Compendium[pf2e.action-macros.Tu7LIRelQsiOuo1l]`|
+|[Create a Diversion - Distracting Words: Deception](action-macros/aDsYSdRqiC6qQIOQ.htm)||`@Compendium[pf2e.action-macros.aDsYSdRqiC6qQIOQ]`|
+|[Create a Diversion - Gesture: Deception](action-macros/zUJ0UhuoFt5a7tiN.htm)||`@Compendium[pf2e.action-macros.zUJ0UhuoFt5a7tiN]`|
+|[Create a Diversion - Trick: Deception](action-macros/1JpYPlIkjyseE9JU.htm)||`@Compendium[pf2e.action-macros.1JpYPlIkjyseE9JU]`|
+|[Demoralize: Intimidation](action-macros/nEwqNNWX6scLt4sc.htm)||`@Compendium[pf2e.action-macros.nEwqNNWX6scLt4sc]`|
+|[Disarm: Athletics](action-macros/ooiO59Ch2QaebOmc.htm)||`@Compendium[pf2e.action-macros.ooiO59Ch2QaebOmc]`|
+|[Encouraging Words](action-macros/I6MMTpk9faBOHb2T.htm)||`@Compendium[pf2e.action-macros.I6MMTpk9faBOHb2T]`|
+|[Feint: Deception](action-macros/RjfPFjqPrNve6eeh.htm)||`@Compendium[pf2e.action-macros.RjfPFjqPrNve6eeh]`|
+|[Force Open: Athletics](action-macros/yMTKMnaYSGtDz4wk.htm)||`@Compendium[pf2e.action-macros.yMTKMnaYSGtDz4wk]`|
+|[Gather Information: Diplomacy](action-macros/rCgGPEyXbzLFcio6.htm)||`@Compendium[pf2e.action-macros.rCgGPEyXbzLFcio6]`|
+|[Grapple: Athletics](action-macros/i95kcGLIQKOTsnv6.htm)||`@Compendium[pf2e.action-macros.i95kcGLIQKOTsnv6]`|
+|[Hide: Stealth](action-macros/FlM3HvpnsZpCKawG.htm)||`@Compendium[pf2e.action-macros.FlM3HvpnsZpCKawG]`|
+|[High Jump: Athletics](action-macros/v3dlDjFlOmT5T2gC.htm)||`@Compendium[pf2e.action-macros.v3dlDjFlOmT5T2gC]`|
+|[Impersonate: Deception](action-macros/k5nW4jGyXD0Oq9LR.htm)||`@Compendium[pf2e.action-macros.k5nW4jGyXD0Oq9LR]`|
+|[Lie: Deception](action-macros/VTg4t8kYTvXcHROq.htm)||`@Compendium[pf2e.action-macros.VTg4t8kYTvXcHROq]`|
+|[Long Jump: Athletics](action-macros/QPsV0qi2zXm7syt6.htm)||`@Compendium[pf2e.action-macros.QPsV0qi2zXm7syt6]`|
+|[Make an Impression: Diplomacy](action-macros/1Sj2Pz3VI2SFWqZw.htm)||`@Compendium[pf2e.action-macros.1Sj2Pz3VI2SFWqZw]`|
+|[Maneuver in Flight: Acrobatics](action-macros/9Ul5Op5OceT9P5SS.htm)||`@Compendium[pf2e.action-macros.9Ul5Op5OceT9P5SS]`|
+|[Pick a Lock: Thievery](action-macros/8YrH37NzKRuiKFbF.htm)||`@Compendium[pf2e.action-macros.8YrH37NzKRuiKFbF]`|
+|[Raise a Shield](action-macros/4hfQEMiEOBbqelAh.htm)||`@Compendium[pf2e.action-macros.4hfQEMiEOBbqelAh]`|
+|[Request: Diplomacy](action-macros/tbveXG4gaIoKnsWX.htm)||`@Compendium[pf2e.action-macros.tbveXG4gaIoKnsWX]`|
+|[Seek: Perception](action-macros/tikhJ2b6AMh7wQU7.htm)||`@Compendium[pf2e.action-macros.tikhJ2b6AMh7wQU7]`|
+|[Sense Motive: Perception](action-macros/PmHt7Gb5fCrlWWTr.htm)||`@Compendium[pf2e.action-macros.PmHt7Gb5fCrlWWTr]`|
+|[Shove: Athletics](action-macros/yNry1xMZqdWHncbV.htm)||`@Compendium[pf2e.action-macros.yNry1xMZqdWHncbV]`|
+|[Sneak: Stealth](action-macros/HSTkVuv0SjTNK3Xx.htm)||`@Compendium[pf2e.action-macros.HSTkVuv0SjTNK3Xx]`|
+|[Squeeze: Acrobatics](action-macros/UKHPveLpG7hUs4D0.htm)||`@Compendium[pf2e.action-macros.UKHPveLpG7hUs4D0]`|
+|[Steel Your Resolve](action-macros/oxowCzHbxSGOWRke.htm)||`@Compendium[pf2e.action-macros.oxowCzHbxSGOWRke]`|
+|[Swim: Athletics](action-macros/TIlUkCzviYxdVk4E.htm)||`@Compendium[pf2e.action-macros.TIlUkCzviYxdVk4E]`|
+|[Trip: Athletics](action-macros/gRj7xUfcpUZQLrOC.htm)||`@Compendium[pf2e.action-macros.gRj7xUfcpUZQLrOC]`|
+|[Tumble Through: Acrobatics](action-macros/2qhYHkcSsTJoSwrJ.htm)||`@Compendium[pf2e.action-macros.2qhYHkcSsTJoSwrJ]`|
+|[Whirling Throw: Athletics](action-macros/7zqvzpR9gvHPUDqC.htm)||`@Compendium[pf2e.action-macros.7zqvzpR9gvHPUDqC]`|
+
+
+## Macros PF2e
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Earn Income](pf2e-macros/mxHKWibjPrgfJTDg.htm)||`@Compendium[pf2e.pf2e-macros.mxHKWibjPrgfJTDg]`|
+|[Open Compendium Browser](pf2e-macros/s2sa8lo9dcIA6UGe.htm)||`@Compendium[pf2e.pf2e-macros.s2sa8lo9dcIA6UGe]`|
+|[Perception For Selected Tokens](pf2e-macros/084MOWWSEVNwpHVG.htm)||`@Compendium[pf2e.pf2e-macros.084MOWWSEVNwpHVG]`|
+|[Rest for the Night](pf2e-macros/0GU2sdy3r2MeC56x.htm)||`@Compendium[pf2e.pf2e-macros.0GU2sdy3r2MeC56x]`|
+|[Stealth For Selected Tokens](pf2e-macros/yBuEphSaJJ7V9Yw3.htm)||`@Compendium[pf2e.pf2e-macros.yBuEphSaJJ7V9Yw3]`|
+|[Take Cover](pf2e-macros/jO4Ipjz3BGo6ZzG9.htm)||`@Compendium[pf2e.pf2e-macros.jO4Ipjz3BGo6ZzG9]`|
+|[Take a Breather](pf2e-macros/aS6F7PSUlS9JM5jr.htm)||`@Compendium[pf2e.pf2e-macros.aS6F7PSUlS9JM5jr]`|
+|[Toggle Mountain Stance](pf2e-macros/4nEbRlo2cB9KkK7T.htm)||`@Compendium[pf2e.pf2e-macros.4nEbRlo2cB9KkK7T]`|
+|[Travel Duration](pf2e-macros/NQkc5rKoeFemdVHr.htm)||`@Compendium[pf2e.pf2e-macros.NQkc5rKoeFemdVHr]`|
+|[Treat Wounds](pf2e-macros/6duZj0Ygiqv712rq.htm)||`@Compendium[pf2e.pf2e-macros.6duZj0Ygiqv712rq]`|
+|[XP](pf2e-macros/MAHxEeGf31wqv3jp.htm)||`@Compendium[pf2e.pf2e-macros.MAHxEeGf31wqv3jp]`|
+
+
+## Récompenses PFS
 
 | Nom (EN)   | Nom (FR)    | Lien compendium |
 |------------|-------------|-----------------|
@@ -8483,6 +9181,58 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Zenith Star](spells/divination-01-Yrek2Yd4k3DPC2zV.htm)|Étoile au zénith|`@Compendium[pf2e.spells-srd.Yrek2Yd4k3DPC2zV]`|
 |[Zero Gravity](spells/evocation-06-P1iqzEIidRagUs7W.htm)|Gravité zéro|`@Compendium[pf2e.spells-srd.P1iqzEIidRagUs7W]`|
 |[Zone of Truth](spells/enchantment-03-aewxsale5xWEPKLk.htm)|Zone de vérité|`@Compendium[pf2e.spells-srd.aewxsale5xWEPKLk]`|
+
+
+## pouvoirs des familiers
+
+| Nom (EN)   | Nom (FR)    | Lien compendium |
+|------------|-------------|-----------------|
+|[Accompanist](familiar-abilities/01-92lgSEPFIDLvKOCF.htm)|Accompagnateur|`@Compendium[pf2e.familiar-abilities.92lgSEPFIDLvKOCF]`|
+|[Amphibious](familiar-abilities/01-A0C86V3MUECpX5jd.htm)|Amphibie|`@Compendium[pf2e.familiar-abilities.A0C86V3MUECpX5jd]`|
+|[Burrower](familiar-abilities/01-uy15sDBuYNK48N3v.htm)|Fouisseur|`@Compendium[pf2e.familiar-abilities.uy15sDBuYNK48N3v]`|
+|[Cantrip Connection](familiar-abilities/01-rs4Awf4k1e0Mj797.htm)|Lien avec les tours de magie|`@Compendium[pf2e.familiar-abilities.rs4Awf4k1e0Mj797]`|
+|[Climber](familiar-abilities/01-dWTfO5WbLkD5mw2H.htm)|Grimpeur|`@Compendium[pf2e.familiar-abilities.dWTfO5WbLkD5mw2H]`|
+|[Damage Avoidance: Fortitude](familiar-abilities/01-mK3mAUWiRLZZYNdz.htm)|Évitement des dégâts : Vigueur|`@Compendium[pf2e.familiar-abilities.mK3mAUWiRLZZYNdz]`|
+|[Damage Avoidance: Reflex](familiar-abilities/01-K5OLRDsGCfPZ6mO6.htm)|Évitement des dégâts : Réflexes|`@Compendium[pf2e.familiar-abilities.K5OLRDsGCfPZ6mO6]`|
+|[Damage Avoidance: Will](familiar-abilities/01-5gwqSpkRqWzrbDDU.htm)|Évitement des dégâts : Volonté|`@Compendium[pf2e.familiar-abilities.5gwqSpkRqWzrbDDU]`|
+|[Darkvision](familiar-abilities/01-0Xrkk46IM43iI1Fv.htm)|Vision dans le noir|`@Compendium[pf2e.familiar-abilities.0Xrkk46IM43iI1Fv]`|
+|[Extra Reagents](familiar-abilities/01-ZtKb89o1PPhwJ3Lx.htm)|Réactifs supplémentaires|`@Compendium[pf2e.familiar-abilities.ZtKb89o1PPhwJ3Lx]`|
+|[Familiar Focus](familiar-abilities/01-jdlefpPcSCIe27vO.htm)|Focalisation du familier|`@Compendium[pf2e.familiar-abilities.jdlefpPcSCIe27vO]`|
+|[Fast Movement: Climb](familiar-abilities/01-SxWYVgqNMsq0OijU.htm)|Déplacement rapide : Escalade|`@Compendium[pf2e.familiar-abilities.SxWYVgqNMsq0OijU]`|
+|[Fast Movement: Fly](familiar-abilities/01-VHQUZcjUxfC3GcJ9.htm)|Déplacement rapide : Vol|`@Compendium[pf2e.familiar-abilities.VHQUZcjUxfC3GcJ9]`|
+|[Fast Movement: Land](familiar-abilities/01-BXssJhTJjKrfojwG.htm)|Déplacement rapide : Au sol|`@Compendium[pf2e.familiar-abilities.BXssJhTJjKrfojwG]`|
+|[Fast Movement: Swim](familiar-abilities/01-vpw2ReYdcyQBpdqn.htm)|Déplacement rapide : Nage|`@Compendium[pf2e.familiar-abilities.vpw2ReYdcyQBpdqn]`|
+|[Flier](familiar-abilities/01-ZHSzNt3NxkXbj1mI.htm)|Volant|`@Compendium[pf2e.familiar-abilities.ZHSzNt3NxkXbj1mI]`|
+|[Focused Rejuvenation](familiar-abilities/01-O5TIjqXAuta8iVSz.htm)|Récupération concentrée|`@Compendium[pf2e.familiar-abilities.O5TIjqXAuta8iVSz]`|
+|[Grasping Tendrils](familiar-abilities/04-LUBS9csNNgRTui4p.htm)|Vrilles agrippantes|`@Compendium[pf2e.familiar-abilities.LUBS9csNNgRTui4p]`|
+|[Independent](familiar-abilities/01-2fiQzoEKu6YUnrU9.htm)|Indépendant|`@Compendium[pf2e.familiar-abilities.2fiQzoEKu6YUnrU9]`|
+|[Innate Surge](familiar-abilities/01-D0ltNUJnN7UjJpA1.htm)|Déferlante innée|`@Compendium[pf2e.familiar-abilities.D0ltNUJnN7UjJpA1]`|
+|[Kinspeech](familiar-abilities/01-qTxH8mSOvc4PMzrP.htm)|Parole des semblables|`@Compendium[pf2e.familiar-abilities.qTxH8mSOvc4PMzrP]`|
+|[Lab Assistant](familiar-abilities/01-7QosmRHlyLLhU1hX.htm)|Assistant de laboratoire|`@Compendium[pf2e.familiar-abilities.7QosmRHlyLLhU1hX]`|
+|[Lifelink](familiar-abilities/01-deC1yIM2S5szGdzT.htm)|Lien vital|`@Compendium[pf2e.familiar-abilities.deC1yIM2S5szGdzT]`|
+|[Manual Dexterity](familiar-abilities/01-cT5octWchU4gjrhP.htm)|Dextérité manuelle|`@Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]`|
+|[Mask Freeze](familiar-abilities/01-C16JgmeJJG249WXz.htm)|Masque figé|`@Compendium[pf2e.familiar-abilities.C16JgmeJJG249WXz]`|
+|[Master's Form](familiar-abilities/01-JRP2bdkdCdj2JDrq.htm)|Forme du maître|`@Compendium[pf2e.familiar-abilities.JRP2bdkdCdj2JDrq]`|
+|[Partner in Crime](familiar-abilities/01-v7zE3tKQb9G6PaYU.htm)|Associés dans le crime|`@Compendium[pf2e.familiar-abilities.v7zE3tKQb9G6PaYU]`|
+|[Plant Form](familiar-abilities/01-57b8u8s3fV0UCrgJ.htm)|Forme de plante|`@Compendium[pf2e.familiar-abilities.57b8u8s3fV0UCrgJ]`|
+|[Poison Reservoir](familiar-abilities/01-8Z1UkLEWkFWIjOF8.htm)|Réservoir de poison|`@Compendium[pf2e.familiar-abilities.8Z1UkLEWkFWIjOF8]`|
+|[Purify Air](familiar-abilities/04-43xB5UnexISlfRa5.htm)|Purificateur d'air|`@Compendium[pf2e.familiar-abilities.43xB5UnexISlfRa5]`|
+|[Recall Familiar](familiar-abilities/01-REJfFezELjc5Gzsy.htm)|Rappel de familier|`@Compendium[pf2e.familiar-abilities.REJfFezELjc5Gzsy]`|
+|[Resistance](familiar-abilities/01-FcQQLMAJMgOLjnSv.htm)|Résistance|`@Compendium[pf2e.familiar-abilities.FcQQLMAJMgOLjnSv]`|
+|[Restorative Familiar](familiar-abilities/01-Q42nrq9LwDdbeZM5.htm)|Familier curatif|`@Compendium[pf2e.familiar-abilities.Q42nrq9LwDdbeZM5]`|
+|[Scent](familiar-abilities/01-FlRUb8U13Crj3NaA.htm)|Odorat|`@Compendium[pf2e.familiar-abilities.FlRUb8U13Crj3NaA]`|
+|[Share Senses](familiar-abilities/01-gPceRQqO847lvSnb.htm)|Partage des sens|`@Compendium[pf2e.familiar-abilities.gPceRQqO847lvSnb]`|
+|[Skilled](familiar-abilities/01-jevzf9JbJJibpqaI.htm)|Compétent|`@Compendium[pf2e.familiar-abilities.jevzf9JbJJibpqaI]`|
+|[Speech](familiar-abilities/01-zyMRLQnFCQVpltiR.htm)|Parole|`@Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]`|
+|[Spell Battery](familiar-abilities/01-Xanjwv4YU0CBnsMw.htm)|Accumulateur de sorts|`@Compendium[pf2e.familiar-abilities.Xanjwv4YU0CBnsMw]`|
+|[Spell Delivery](familiar-abilities/01-wOgvBymJOVQDSm1Q.htm)|Transfert de sort|`@Compendium[pf2e.familiar-abilities.wOgvBymJOVQDSm1Q]`|
+|[Spellcasting](familiar-abilities/01-asOhEdyF8CWFbR96.htm)|Incantateur|`@Compendium[pf2e.familiar-abilities.asOhEdyF8CWFbR96]`|
+|[Tattoo Transformation](familiar-abilities/01-tEWAHPPZULvPgHnT.htm)|Transformation en tatouage|`@Compendium[pf2e.familiar-abilities.tEWAHPPZULvPgHnT]`|
+|[Toolbearer](familiar-abilities/01-uUrsZ4WvhjKjFjnt.htm)|Porte outils|`@Compendium[pf2e.familiar-abilities.uUrsZ4WvhjKjFjnt]`|
+|[Touch Telepathy](familiar-abilities/01-XCqYnlVbLGqEGPeX.htm)|Télépathie de contact|`@Compendium[pf2e.familiar-abilities.XCqYnlVbLGqEGPeX]`|
+|[Tough](familiar-abilities/01-Le8UWr5BU8rV3iBf.htm)|Robuste|`@Compendium[pf2e.familiar-abilities.Le8UWr5BU8rV3iBf]`|
+|[Valet](familiar-abilities/01-9PsptrEoCC4QdM23.htm)|Valet|`@Compendium[pf2e.familiar-abilities.9PsptrEoCC4QdM23]`|
+|[Verdant Burst](familiar-abilities/04-SKIS1xexaOvrecdV.htm)|Explosion verdoyante|`@Compendium[pf2e.familiar-abilities.SKIS1xexaOvrecdV]`|
 
 
 ## Équipement
