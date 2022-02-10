@@ -2,8 +2,7 @@ Name: Ostentatious Arrival
 Nom: Arrivée ostentatoire
 PrereqEN: 
 PrereqFR: 
-État: changé
-État d'origine: libre
+État: libre
 
 ------ Description (en) ------
 <p>If the next action you take is to Manifest your Eidolon as a three-action activity, or to Cast a three-action summoning Spell, the creature appears in an explosion.</p>
@@ -11,5 +10,5 @@ PrereqFR:
 <p>If the creature you summoned or manifested has the acid, cold, electricity, fire, sonic, or water trait, the damage is that type instead (or cold damage for the water trait). If the creature has more than one of these traits, you choose which damage type to deal.</p>
 ------ Description (fr) ------
 <p>Si la prochaine action que vous entreprenez est de manifester votre eidolon en utilisant une activité à trois actions ou de lancer un sort d'invocation à trois actions, la créature apparaît dans une explosion..</p>
-<p>Toutes les créatures situées dans une <span data-pf2-effect-area="emanation" data-pf2-distance="10">émanation de 3 m</span> autour de la créature que vous avez invoquée ou manifestée subissent [[/r {1d4}[fire]]]{1d4 dégâts de feu par niveau de sort} pour un sort d'invocation, ou [[/r (floor(@details.level.value/2))d4 #feu]]{1d4 dégâts par tranche de 2 niveaux} pour la manifestation de votre eidolon.</p>
+<p>Toutes les créatures situées dans une @Template[type:emanation|distance:10]>{émanation de 3 mètres} autour de la créature que vous avez invoquée ou manifestée subissent [[/r {1d4}[fire]]]{1d4 dégâts de feu par niveau de sort} pour un sort d'invocation, ou [[/r {(floor(@actor.level/2))d4}[fire]]]{1d4 dégâts par tranche de 2 niveaux} pour la manifestation de votre eidolon.</p>
 <p>Si la créature que vous avez invoquée ou manifestée possède le trait acide, froid, électricité, feu, sonique ou eau, les dégâts sont de ce type à la place (ou des dégâts de froid pour le trait eau). Si la créature possède plus d'un de ces traits, vous choisissez le type de dégâts à infliger.</p>
