@@ -1,6 +1,67 @@
 {
     "label": "Effets des consommables",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Effect: Skeptic's Elixir (Moderate)",
+            "name": "Effect: Skeptic's Elixir (Moderate)",
+            "description": "<p><strong>Durée</strong> 10 minutes</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Cet élixir aiguise votre esprit et vous permet de voir à travers les mensonges, les faux semblants et les supercheries magiques. Vous gagnez un bonus d'objet de +2 aux tests de Perception et au DD de Perception pour remarquer les mensonges, qu'il s'agisse de mensonges proférés ou de falsifications écrites. Vous gagnez ce même bonus d'objet aux jets de Volonté.</p><p>@Compendium[pf2e.consumable-effects.5Gof60StUppR2Xn9]{Effet : Élixir d'incrédule inférieur}</p>"
+        },
+        {
+            "id": "Effect: Skeptic's Elixir (Lesser)",
+            "name": "Effect: Skeptic's Elixir (Lesser)",
+            "description": "<p><strong>Durée</strong> 1 minute</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Cet élixir aiguise votre esprit et vous permet de voir à travers les mensonges, les faux semblants et les supercheries magiques. Vous gagnez un bonus d'objet de +1 aux tests de Perception et au DD de Perception pour remarquer les mensonges, qu'il s'agisse de mensonges proférés ou de falsifications écrites. Vous gagnez ce même bonus d'objet aux jets de Volonté.</p>"
+        },
+        {
+            "id": "Effect: Serene Mutagen (Lesser)",
+            "name": "Effect: Serene Mutagen (Lesser)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.bOPQDM54W8ZDoULY]{Mutagène de sérénité inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +1 aux jets de Volonté</li>\n<li>bonus d'objet de +2 aux jets de Volonté contre les effets mentaux</li>\n<li>bonus d'objet de +1 aux tests de Perception</li>\n<li>bonus d'objet de +1 aux tests de Médecine, Nature, Religion et Survie</li>\n<li>pénalité aux jets d'attaque de -1</li>\n</ul>\n<p>Unimplemented effects:</p>\n<ul>\n<li>pénalité de -1 au DD des jets de sauvegarde des sorts offensifs</li>\n<li>pénalité de -1 par dé de dégâts à tous les jets de dégâts des armes, des attaques à mains nues et des sorts</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Shielding Salve",
+            "name": "Effect: Shielding Salve",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.EWujUs3YmlBu2jhm]{Onguent de bouclier}</p>\n<hr />\n<p>Effet appliqué:</p>\n<ul>\n<li>bonus de circonstances de +1 à la CA</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Juggernaut Mutagen (Major)",
+            "name": "Effect: Juggernaut Mutagen (Major)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.1kNp6yOS0aZPBPzZ]{Mutagène de Juggernaut majeur}</p>\n<p>Effets implementés:</p>\n<ul>\n<li>bonus d'objet de +4 aux jets de Vigueur</li>\n<li>+45 pv temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de -2 aux tests de Perception</li>\n<li>pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>Lorsque vous êtes à votre maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Lastwall Soup",
+            "name": "Effect: Lastwall Soup",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.VeCNWhvEr82ZNoSV]{Soupe de Dernier rempart}</p>\n<p>effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +2 aux tests de Discrétion contre les morts-vivants</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Bonus de +2 aux DD de Discrétion contre les morts vivants</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Juggernaut Mutagen (Moderate)",
+            "name": "Effect: Juggernaut Mutagen (Moderate)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.mj9i9GeQTADByNPZ]{Mutagène de Juggernaut modéré}</p>\n<p>Effets implementés:</p>\n<ul>\n<li>bonus d'objet de +2 aux jets de Vigueur</li>\n<li>+10 pv temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de -2 aux tests de Perception</li>\n<li>pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>Lorsque vous êtes à votre Maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Serene Mutagen (Greater)",
+            "name": "Effect: Serene Mutagen (Greater)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.Yej7lnnDYDZybGqo]{Mutagène de sérénité supérieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +3 aux jets de Volonté</li>\n<li>bonus d'objet de +4 aux jets de Volonté contre les effets mentaux</li>\n<li>bonus d'objet de +3 aux tests de Perception</li>\n<li>bonus d'objet de +3 aux tests de Médecine, Nature, Religion et Survie</li>\n<li>pénalité aux jets d'attaque de -1</li>\n</ul>\n<p>Unimplemented effects:</p>\n<ul>\n<li>pénalité de -1 au DD des jets de sauvegarde des sorts offensifs</li>\n<li>pénalité de -1 par dé de dégâts à tous les jets de dégâts des armes, des attaques à mains nues et des sorts</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Juggernaut Mutagen (Greater)",
+            "name": "Effect: Juggernaut Mutagen (Greater)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.TMtQnY6yvIRCpK9v]{Mutagère de juggernaut supérieur}</p>\n<p>Effets implementés:</p>\n<ul>\n<li>bonus d'objet de +3 aux jets de Vigueur</li>\n<li>+30 pv temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de -2 aux tests de Perception</li>\n<li>pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>Lorsque vous êtes à votre maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Juggernaut Mutagen (Lesser)",
+            "name": "Effect: Juggernaut Mutagen (Lesser)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.xE0EdDrf734l2fQH]{Mutagène de Juggernaut inférieur}</p>\n<p>Effets implementés:</p>\n<ul>\n<li>bonus d'objet de +1 aux jets de Vigueur</li>\n<li>+5 pv temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de -2 aux tests de Perception</li>\n<li>pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>Lorsque vous êtes à votre Maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Serene Mutagen (Moderate)",
+            "name": "Effect: Serene Mutagen (Moderate)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.XEYveTvLH1lJ4jeI]{Mutagène de sérénité modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +2 aux jets de Volonté</li>\n<li>bonus d'objet de +3 aux jets de Volonté contre les effets mentaux</li>\n<li>bonus d'objet de +2 aux tests de Perception</li>\n<li>bonus d'objet de +2 aux tests de Médecine, Nature, Religion et Survie</li>\n<li>pénalité aux jets d'attaque de -1</li>\n</ul>\n<p>Unimplemented effects:</p>\n<ul>\n<li>pénalité de -1 au DD des jets de sauvegarde des sorts offensifs</li>\n<li>pénalité de -1 par dé de dégâts à tous les jets de dégâts des armes, des attaques à mains nues et des sorts</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Serene Mutagen (Major)",
+            "name": "Effect: Serene Mutagen (Major)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ccrdVliTNBh2mNZf]{Mutagène de sérénité majeur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +4 aux jets de Volonté</li>\n<li>bonus d'objet de +5 aux jets de Volonté contre les effets mentaux</li>\n<li>bonus d'objet de +4 aux tests de Perception</li>\n<li>bonus d'objet de +4 aux tests de Médecine, Nature, Religion et Survie</li>\n<li>pénalité aux jets d'attaque de -1</li>\n</ul>\n<p>Unimplemented effects:</p>\n<ul>\n<li>pénalité de -1 au DD des jets de sauvegarde des sorts offensifs</li>\n<li>pénalité de -1 par dé de dégâts à tous les jets de dégâts des armes, des attaques à mains nues et des sorts</li>\n</ul>"
+        }
+    ],
     "mapping": {
         "description": "data.description.value"
     }

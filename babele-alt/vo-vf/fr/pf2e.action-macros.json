@@ -1,5 +1,181 @@
 {
     "label": "Macros PF2e",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Lie: Deception",
+            "name": "Lie: Deception (Mentir : Duperie)",
+            "description": ""
+        },
+        {
+            "id": "Pick a Lock: Thievery",
+            "name": "Pick a Lock: Thievery (Crocheter une serrure : Vol)",
+            "description": ""
+        },
+        {
+            "id": "Coerce: Intimidation",
+            "name": "Coerce: Intimidation (Contraindre : Intimidation)",
+            "description": ""
+        },
+        {
+            "id": "Bon Mot: Diplomacy",
+            "name": "Bon Mot: Diplomacy (Bon mot : Diplomatie)",
+            "description": ""
+        },
+        {
+            "id": "Craft: Crafting",
+            "name": "Craft: Crafting (Fabriquer : Artisanat)",
+            "description": ""
+        },
+        {
+            "id": "Balance: Acrobatics",
+            "name": "Balance: Acrobatics (Garder l'équilibre : Acrobaties)",
+            "description": ""
+        },
+        {
+            "id": "Gather Information: Diplomacy",
+            "name": "Gather Information: Diplomacy (Recueillir des informations : Diplomatie)",
+            "description": ""
+        },
+        {
+            "id": "Long Jump: Athletics",
+            "name": "Long Jump: Athletics (Saut en longueur : Athlétisme)",
+            "description": ""
+        },
+        {
+            "id": "Make an Impression: Diplomacy",
+            "name": "Make an Impression: Diplomacy (Faire bonne impression : Diplomatie)",
+            "description": ""
+        },
+        {
+            "id": "Impersonate: Deception",
+            "name": "Impersonate: Deception (Se déguiser : Duperie)",
+            "description": ""
+        },
+        {
+            "id": "Encouraging Words",
+            "name": "Encouraging Words (Paroles encourageantes)",
+            "description": ""
+        },
+        {
+            "id": "Shove: Athletics",
+            "name": "Shove: Athletics (Pousser : Athlétisme)",
+            "description": ""
+        },
+        {
+            "id": "Request: Diplomacy",
+            "name": "Request: Diplomacy (Solliciter : Diplomatie)",
+            "description": ""
+        },
+        {
+            "id": "Create a Diversion - Trick: Deception",
+            "name": "Create a Diversion - Trick: Deception (Créer une diversion - Astuce: Duperie)",
+            "description": ""
+        },
+        {
+            "id": "Create a Diversion - Distracting Words: Deception",
+            "name": "Create a Diversion - Distracting Words: Deception (Créer une diversion - Paroles de diversion : Duperie)",
+            "description": ""
+        },
+        {
+            "id": "Maneuver in Flight: Acrobatics",
+            "name": "Maneuver in Flight: Acrobatics (Manœuvre en vol : Acrobaties)",
+            "description": ""
+        },
+        {
+            "id": "High Jump: Athletics",
+            "name": "High Jump: Athletics (Saut en hauteur : Athlétisme)",
+            "description": ""
+        },
+        {
+            "id": "Sense Motive: Perception",
+            "name": "Sense Motive: Perception (Deviner les intentions : Perception)",
+            "description": ""
+        },
+        {
+            "id": "Steel Your Resolve",
+            "name": "Steel Your Resolve (Puiser dans votre résolution)",
+            "description": ""
+        },
+        {
+            "id": "Climb: Athletics",
+            "name": "Climb: Athletics (Grimper : Athlétisme)",
+            "description": ""
+        },
+        {
+            "id": "Trip: Athletics",
+            "name": "Trip: Athletics (Croc-en-jambe : Athlétisme)",
+            "description": ""
+        },
+        {
+            "id": "Swim: Athletics",
+            "name": "Swim: Athletics (Nager : Athlétisme)",
+            "description": ""
+        },
+        {
+            "id": "Sneak: Stealth",
+            "name": "Sneak: Stealth (Être furtif : Discrétion)",
+            "description": ""
+        },
+        {
+            "id": "Seek: Perception",
+            "name": "Seek: Perception (Chercher : Perception)",
+            "description": ""
+        },
+        {
+            "id": "Whirling Throw: Athletics",
+            "name": "Whirling Throw: Athletics (Projection en rotation : Athlétisme)",
+            "description": ""
+        },
+        {
+            "id": "Squeeze: Acrobatics",
+            "name": "Squeeze: Acrobatics (Se serrer : Acrobaties)",
+            "description": ""
+        },
+        {
+            "id": "Disarm: Athletics",
+            "name": "Disarm: Athletics (Désarmer : Athlétisme)",
+            "description": ""
+        },
+        {
+            "id": "Raise a Shield",
+            "name": "Raise a Shield (Lever un bouclier)",
+            "description": ""
+        },
+        {
+            "id": "Feint: Deception",
+            "name": "Feint: Deception (Feinter : Duperie)",
+            "description": ""
+        },
+        {
+            "id": "Force Open: Athletics",
+            "name": "Force Open: Athletics (Ouvrir de force : Athlétisme)",
+            "description": ""
+        },
+        {
+            "id": "Demoralize: Intimidation",
+            "name": "Demoralize: Intimidation (Démoraliser : Intimidation)",
+            "description": ""
+        },
+        {
+            "id": "Hide: Stealth",
+            "name": "Hide: Stealth (Se cacher : Discrétion)",
+            "description": ""
+        },
+        {
+            "id": "Tumble Through: Acrobatics",
+            "name": "Tumble Through: Acrobatics (Déplacement acrobatique : Acrobaties)",
+            "description": ""
+        },
+        {
+            "id": "Create a Diversion - Gesture: Deception",
+            "name": "Create a Diversion - Gesture: Deception (Créer une diversion - Geste : Duperie)",
+            "description": ""
+        },
+        {
+            "id": "Grapple: Athletics",
+            "name": "Grapple: Athletics (Saisir : Athlétisme)",
+            "description": ""
+        }
+    ],
     "mapping": {}
 }

@@ -1,12 +1,12 @@
 # État de la traduction (bestiary-family-ability-glossary)
 
- * **officielle**: 46
+ * **officielle**: 41
  * **libre**: 16
  * **aucune**: 36
- * **changé**: 53
+ * **changé**: 58
 
 
-Dernière mise à jour: 2022-02-09 19:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -54,7 +54,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[4Aj4FWKObfMYoSvh.htm](bestiary-family-ability-glossary/4Aj4FWKObfMYoSvh.htm)|(Ghost) Beatific Appearance|(Fantôme) Apparence bienheureuse|changé|
 |[5dbzWZbiTyPKgwKS.htm](bestiary-family-ability-glossary/5dbzWZbiTyPKgwKS.htm)|(Graveknight) Graveknight's Curse|(Chevalier sépulcre) Malédiction du chevalier sépulcre|changé|
 |[5lv9r2ubDCov4dFn.htm](bestiary-family-ability-glossary/5lv9r2ubDCov4dFn.htm)|(Ghost) Pyre's Memory|(Fantôme) Mémoire de bûcher funéraire|changé|
 |[6Alm4mLj3ORxCXC2.htm](bestiary-family-ability-glossary/6Alm4mLj3ORxCXC2.htm)|(Ravener) Cowering Fear|(Dévoreur draconique) Recroquevillé de terreur|changé|
@@ -66,24 +65,29 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bTJnxBQjr7G8yr30.htm](bestiary-family-ability-glossary/bTJnxBQjr7G8yr30.htm)|(Graveknight) Sacrilegious Aura|(Chevalier sépulcre) Aura sacrilège|changé|
 |[bVZ6KizWVTLJUBXi.htm](bestiary-family-ability-glossary/bVZ6KizWVTLJUBXi.htm)|(Ghast) Paralysis|(Blême) Paralysie|changé|
 |[c04ICnrzygyFG3PK.htm](bestiary-family-ability-glossary/c04ICnrzygyFG3PK.htm)|(Vampire, Basic) Drink Blood|(Vampire, de base) Boire le sang|changé|
+|[CxiEpXt7Gw3tSIOh.htm](bestiary-family-ability-glossary/CxiEpXt7Gw3tSIOh.htm)|(Zombie) Rotting Aura|(Zombie) Aura de pourrissement|changé|
 |[eSp48kG7v1GNuGgh.htm](bestiary-family-ability-glossary/eSp48kG7v1GNuGgh.htm)|(Visitant) Vengeful Presence|(Revenant) Présence vengeresse|changé|
 |[FA0ri2fAcMa1HgZe.htm](bestiary-family-ability-glossary/FA0ri2fAcMa1HgZe.htm)|(Werecreature) Moon Frenzy|(Créature garou) Frénésie lunaire|changé|
 |[fmUBaLklyVmNt3VD.htm](bestiary-family-ability-glossary/fmUBaLklyVmNt3VD.htm)|(Graveknight) Clutching Armor|(Chevalier sépulcre) Armure agrippante|changé|
 |[fqZhojt2M5LfSKSH.htm](bestiary-family-ability-glossary/fqZhojt2M5LfSKSH.htm)|(Lich) Drain Soul Cage|(Liche) Canaliser le phylactère|changé|
 |[FsqVhavMWAoFro1L.htm](bestiary-family-ability-glossary/FsqVhavMWAoFro1L.htm)|(Ravener) Soul Ward|(Dévoreur draconique) Armure d’âmes|changé|
+|[fVyoHEO3fSR737M1.htm](bestiary-family-ability-glossary/fVyoHEO3fSR737M1.htm)|(Ghost) Draining Touch|(Fantôme) Toucher affaiblissant|changé|
 |[FW4KAUHb7r8WkxUc.htm](bestiary-family-ability-glossary/FW4KAUHb7r8WkxUc.htm)|(Ghoul) Paralysis|(Goule) Paralysie|changé|
 |[FXHjmH1oce7Z3tZb.htm](bestiary-family-ability-glossary/FXHjmH1oce7Z3tZb.htm)|(Vampire, Basic) Coffin Restoration|(Vampire, de base) Cercueil restorateur|changé|
 |[ga0Oj7mmjSwWQgmR.htm](bestiary-family-ability-glossary/ga0Oj7mmjSwWQgmR.htm)|(Ghost) Corrupting Gaze|(Fantôme) Regard corrupteur|changé|
 |[hA6HsM4i4yPfEsDH.htm](bestiary-family-ability-glossary/hA6HsM4i4yPfEsDH.htm)|(Ghast) Ghast Fever|(Blême) Fièvre des blêmes|changé|
 |[haMVGGDY3mLuKy9s.htm](bestiary-family-ability-glossary/haMVGGDY3mLuKy9s.htm)|(Vampire, Vrykolakas Master) Bubonic Plague|(Vampire, maître vrykolakas) Peste bubonique|changé|
 |[HLPLYJ9bOazb2ZPX.htm](bestiary-family-ability-glossary/HLPLYJ9bOazb2ZPX.htm)|(Ravener) Discorporate|(Dévoreur draconique) Dématérialisation|changé|
+|[i7m74TphAiFYvzPL.htm](bestiary-family-ability-glossary/i7m74TphAiFYvzPL.htm)|(Ghost) Ghost Storm|(Fantôme) Tempête Fantôme|changé|
 |[ICnpftxZEilrYjn0.htm](bestiary-family-ability-glossary/ICnpftxZEilrYjn0.htm)|(Werecreature) Curse of the Werecreature|(Créature garou) Malédiction du garou|changé|
 |[IxJbFJ8dG5RbZWBD.htm](bestiary-family-ability-glossary/IxJbFJ8dG5RbZWBD.htm)|(Graveknight) Devastating Blast|(Chevalier sépulcre) Déflagration dévastatrice|changé|
+|[ixPqVlqLaYTB1b23.htm](bestiary-family-ability-glossary/ixPqVlqLaYTB1b23.htm)|(Ghoul) Consume Flesh|(Goule) Dévorer la chair|changé|
 |[jD0M3yV6gjkXafsJ.htm](bestiary-family-ability-glossary/jD0M3yV6gjkXafsJ.htm)|(Divine Warden) Divine Destruction|(Garde divin) Destruction divine|changé|
 |[JSBmboE6bYVxDT9d.htm](bestiary-family-ability-glossary/JSBmboE6bYVxDT9d.htm)|(Ghost) Inhabit Object|(Fantôme) Occuper un objet|changé|
 |[jTuK430yY8VgIByB.htm](bestiary-family-ability-glossary/jTuK430yY8VgIByB.htm)|(Ghost) Haunted House|(Fantôme) Maison hantée|changé|
 |[KcUHCVhHnkMD8j3k.htm](bestiary-family-ability-glossary/KcUHCVhHnkMD8j3k.htm)|(Greater Barghest) Mutation - Toxic Breath|(Barghest supérieur) Mutation - Souffle toxique|changé|
 |[kQZ6pzdSn6FaxWF2.htm](bestiary-family-ability-glossary/kQZ6pzdSn6FaxWF2.htm)|(Vistant) Visitant Spells|(Revenant) Sorts de revenant|changé|
+|[m6teF5ADh7vuM8Zr.htm](bestiary-family-ability-glossary/m6teF5ADh7vuM8Zr.htm)|(Ghast) Consume Flesh|(Blême) Dévorer la chair|changé|
 |[MhymIeTQoxbacG1o.htm](bestiary-family-ability-glossary/MhymIeTQoxbacG1o.htm)|(Zombie) Plague-Ridden|(Zombie) Pestiféré|changé|
 |[mwEig0MYM7EIibSU.htm](bestiary-family-ability-glossary/mwEig0MYM7EIibSU.htm)|(Greater Barghest) Mutation - Vestigial Arm Strike|(Barghest supérieur) Mutation - Frappe de membre atrophié|changé|
 |[N7UV5CZXtcoxDxCF.htm](bestiary-family-ability-glossary/N7UV5CZXtcoxDxCF.htm)|(Ghoul) Ghoul Fever|(Goule) Fièvre des goules|changé|
@@ -91,6 +95,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oXRnrQQ04oi8OkDG.htm](bestiary-family-ability-glossary/oXRnrQQ04oi8OkDG.htm)|(Vampire, Vrykolakas) Feral Possession|(Vampire, vrykolakas) Corruption sauvage|changé|
 |[QlrbnkeZu6M4kvOy.htm](bestiary-family-ability-glossary/QlrbnkeZu6M4kvOy.htm)|(Worm That Walks) Discorporate|(Ver-qui-marche) Dématérialisation|changé|
 |[qt2exWwQTzoObKfW.htm](bestiary-family-ability-glossary/qt2exWwQTzoObKfW.htm)|(Golem) Inexorable March|(Golem) Marche inexorable|changé|
+|[s6JRMjgA7hSGUAYX.htm](bestiary-family-ability-glossary/s6JRMjgA7hSGUAYX.htm)|(Vampire, Vrykolakas Master) Pestilential Aura|(Vampire, maître vrykolakas) Aura pestilentielle|changé|
 |[sajLbVE6VpCsR0Kl.htm](bestiary-family-ability-glossary/sajLbVE6VpCsR0Kl.htm)|(Skeleton) Bone Powder|(Squelette) Poudre d'os|changé|
 |[SEzkqVJxr2eJDsuJ.htm](bestiary-family-ability-glossary/SEzkqVJxr2eJDsuJ.htm)|(Ghast) Stench|(Blême) Puanteur|changé|
 |[tDfv2oEPal19NtSM.htm](bestiary-family-ability-glossary/tDfv2oEPal19NtSM.htm)|(Ghost) Fetch|(Fantôme) Double fantômatique|changé|
@@ -115,6 +120,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[08egiRxOvMX97XTc.htm](bestiary-family-ability-glossary/08egiRxOvMX97XTc.htm)|(Werecreature) Change Shape|(Créature garou) Changement de forme|officielle|
 |[0B9eEetIbeSPhulD.htm](bestiary-family-ability-glossary/0B9eEetIbeSPhulD.htm)|(Divine Warden) Divine Domain Spells|(Garde divin) Sorts divins de domaine|libre|
 |[0K3vhX14UEPftqu8.htm](bestiary-family-ability-glossary/0K3vhX14UEPftqu8.htm)|(Ghost) Telekinetic Assault|(Fantôme) Assaut télékinésique|officielle|
+|[4Aj4FWKObfMYoSvh.htm](bestiary-family-ability-glossary/4Aj4FWKObfMYoSvh.htm)|(Ghost) Beatific Appearance|(Fantôme) Apparence bienheureuse|libre|
 |[4p06ewIsPnWZwuwc.htm](bestiary-family-ability-glossary/4p06ewIsPnWZwuwc.htm)|(Ghost) Lynchpin|(Fantôme) Pilier|libre|
 |[4UEZY3G3CiCP78Kx.htm](bestiary-family-ability-glossary/4UEZY3G3CiCP78Kx.htm)|(Visitant) Wrestle|(Revenant) Lutte|officielle|
 |[5arYoSY5kcRo8TeM.htm](bestiary-family-ability-glossary/5arYoSY5kcRo8TeM.htm)|(Vampire, Vrykolakas) Vrykolakas Vulnerabilities|(Vampire, Vrykolakas) Vulnérabilités des vrykolakas|officielle|
@@ -128,22 +134,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BgbSHRdkGH7raOgA.htm](bestiary-family-ability-glossary/BgbSHRdkGH7raOgA.htm)|(Graveknight) Phantom Mount|(Chevalier sépulcre) Monture fantôme|officielle|
 |[br5Oup4USIUXQani.htm](bestiary-family-ability-glossary/br5Oup4USIUXQani.htm)|(Vampire, Vrykolakas) Swift Tracker|(Vampire, vrykolakas) Pistage accéléré|officielle|
 |[BSLqIYqxcCVBb2Vp.htm](bestiary-family-ability-glossary/BSLqIYqxcCVBb2Vp.htm)|(Zombie) Unkillable|(Zombie) Intuable|officielle|
-|[CxiEpXt7Gw3tSIOh.htm](bestiary-family-ability-glossary/CxiEpXt7Gw3tSIOh.htm)|(Zombie) Rotting Aura|(Zombie) Aura de pourrissement|officielle|
 |[cYkEpJzpMu3mCrFc.htm](bestiary-family-ability-glossary/cYkEpJzpMu3mCrFc.htm)|(Ghost) Phantasmagoria|(Fantôme) Phantasmagorie|libre|
 |[DlHTe9jLssEELY6a.htm](bestiary-family-ability-glossary/DlHTe9jLssEELY6a.htm)|(Divine Warden) Divine Innate Spells|(Garde divin) Sorts divins innés|libre|
 |[EM6YZCt6vFCFhXmb.htm](bestiary-family-ability-glossary/EM6YZCt6vFCFhXmb.htm)|(Goblin) Goblin Scuttle|(Gobelin) Précipitation gobeline|officielle|
 |[fTk5nmm7HHtXOdSo.htm](bestiary-family-ability-glossary/fTk5nmm7HHtXOdSo.htm)|(Lich) Dark Deliverance|(Liche) Sombre salut|officielle|
-|[fVyoHEO3fSR737M1.htm](bestiary-family-ability-glossary/fVyoHEO3fSR737M1.htm)|(Ghost) Draining Touch|(Fantôme) Toucher affaiblissant|officielle|
 |[fYDrunTldWmFvfjl.htm](bestiary-family-ability-glossary/fYDrunTldWmFvfjl.htm)|(Ravener) Soulsense|(Dévoreur draconique) Perception de l’âme|officielle|
 |[HdSaMUb4uEsbtQTn.htm](bestiary-family-ability-glossary/HdSaMUb4uEsbtQTn.htm)|(Skeleton) Skeleton of Roses|(Squelette) Squelette de roses|libre|
-|[i7m74TphAiFYvzPL.htm](bestiary-family-ability-glossary/i7m74TphAiFYvzPL.htm)|(Ghost) Ghost Storm|(Fantôme) Tempête Fantôme|libre|
 |[iAXHLkxuuCUOwqkN.htm](bestiary-family-ability-glossary/iAXHLkxuuCUOwqkN.htm)|(Werecreature) Animal Empathy|(Créature garou) Empathie animale|officielle|
 |[ipGBYIXk4u47Mp1D.htm](bestiary-family-ability-glossary/ipGBYIXk4u47Mp1D.htm)|(Zombie) Feast|(Zombie) Festoyer|officielle|
 |[iwLj14liESK5OBN8.htm](bestiary-family-ability-glossary/iwLj14liESK5OBN8.htm)|(Ghost) Malevolent Possession|(Fantôme) Possession malveillante|officielle|
-|[ixPqVlqLaYTB1b23.htm](bestiary-family-ability-glossary/ixPqVlqLaYTB1b23.htm)|(Ghoul) Consume Flesh|(Goule) Dévorer la chair|officielle|
 |[K5bNE90vmeFzktnM.htm](bestiary-family-ability-glossary/K5bNE90vmeFzktnM.htm)|(Skeleton) Collapse|(Squelette) Écroulement|officielle|
 |[L80gn6WOWi9roJW3.htm](bestiary-family-ability-glossary/L80gn6WOWi9roJW3.htm)|(Divine Warden) Instrument of Faith|(Garde divin) Instrument de foi|libre|
-|[m6teF5ADh7vuM8Zr.htm](bestiary-family-ability-glossary/m6teF5ADh7vuM8Zr.htm)|(Ghast) Consume Flesh|(Blême) Dévorer la chair|officielle|
 |[MAC97gjFcdiqLyhp.htm](bestiary-family-ability-glossary/MAC97gjFcdiqLyhp.htm)|(Skeleton) Screaming Skull|(Squelette) Crâne hurlant|officielle|
 |[mEbrInCpag7YThH2.htm](bestiary-family-ability-glossary/mEbrInCpag7YThH2.htm)|(Dragon) Change Shape|(Dragon) Changement de forme|officielle|
 |[mZpX54PgTxPta5y4.htm](bestiary-family-ability-glossary/mZpX54PgTxPta5y4.htm)|(Graveknight) Graveknight's Shield|(Chevalier sépulcre) Bouclier du chevalier sépulcre|libre|
@@ -158,7 +159,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[QuHeuVNDnmOCS9M1.htm](bestiary-family-ability-glossary/QuHeuVNDnmOCS9M1.htm)|(Vampire, Vrykolakas Master) Create Spawn|(Vampire, maître vrykolakas) Création de rejetons|officielle|
 |[r34QDwKiWZoVymJa.htm](bestiary-family-ability-glossary/r34QDwKiWZoVymJa.htm)|(Golem) Golem Antimagic|(Golem) Antimagie des golems|officielle|
 |[RgYpzTk3XapgVeXZ.htm](bestiary-family-ability-glossary/RgYpzTk3XapgVeXZ.htm)|(Skeleton) Bone Missile|(Squelette) Côte missile|libre|
-|[s6JRMjgA7hSGUAYX.htm](bestiary-family-ability-glossary/s6JRMjgA7hSGUAYX.htm)|(Vampire, Vrykolakas Master) Pestilential Aura|(Vampire, maître vrykolakas) Aura pestilentielle|officielle|
 |[sAyR4uJbsWukZFZf.htm](bestiary-family-ability-glossary/sAyR4uJbsWukZFZf.htm)|(Vampire, True) Mist Escape|(Vampire, véritable) Fuite brumeuse|officielle|
 |[sECjzfaYaW68vbLV.htm](bestiary-family-ability-glossary/sECjzfaYaW68vbLV.htm)|(Vampire, Vrykolakas Master) Change Shape|(Vampire, maître vrykolakas) Changement de forme|officielle|
 |[tKixfds07IRH2nnh.htm](bestiary-family-ability-glossary/tKixfds07IRH2nnh.htm)|(Vampire, Vrykolakas Master) Children of the Night|(Vampire, maître vrykolakas) Enfants de la nuit|officielle|

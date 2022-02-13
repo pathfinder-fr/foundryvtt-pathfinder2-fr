@@ -1,5 +1,61 @@
 {
     "label": "Macros PF2e",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Take a Breather",
+            "name": "Take a Breather",
+            "description": ""
+        },
+        {
+            "id": "Rest for the Night",
+            "name": "Rest for the Night",
+            "description": ""
+        },
+        {
+            "id": "Perception For Selected Tokens",
+            "name": "Perception For Selected Tokens",
+            "description": ""
+        },
+        {
+            "id": "Travel Duration",
+            "name": "Travel Duration",
+            "description": ""
+        },
+        {
+            "id": "Stealth For Selected Tokens",
+            "name": "Stealth For Selected Tokens",
+            "description": ""
+        },
+        {
+            "id": "XP",
+            "name": "XP",
+            "description": ""
+        },
+        {
+            "id": "Toggle Mountain Stance",
+            "name": "Toggle Mountain Stance",
+            "description": ""
+        },
+        {
+            "id": "Treat Wounds",
+            "name": "Treat Wounds",
+            "description": ""
+        },
+        {
+            "id": "Earn Income",
+            "name": "Earn Income",
+            "description": ""
+        },
+        {
+            "id": "Take Cover",
+            "name": "Take Cover",
+            "description": ""
+        },
+        {
+            "id": "Open Compendium Browser",
+            "name": "Open Compendium Browser",
+            "description": ""
+        }
+    ],
     "mapping": {}
 }

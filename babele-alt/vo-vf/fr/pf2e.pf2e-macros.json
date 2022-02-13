@@ -1,5 +1,61 @@
 {
     "label": "Macros PF2e",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Take a Breather",
+            "name": "Take a Breather (Faire une pause)",
+            "description": ""
+        },
+        {
+            "id": "Rest for the Night",
+            "name": "Rest for the Night (Se reposer pour la nuit)",
+            "description": ""
+        },
+        {
+            "id": "Perception For Selected Tokens",
+            "name": "Perception For Selected Tokens (Perception pour les jetons choisis)",
+            "description": ""
+        },
+        {
+            "id": "Travel Duration",
+            "name": "Travel Duration (Durée du voyage)",
+            "description": ""
+        },
+        {
+            "id": "Stealth For Selected Tokens",
+            "name": "Stealth For Selected Tokens (Discrétion pour les jetons choisis)",
+            "description": ""
+        },
+        {
+            "id": "XP",
+            "name": "XP (PX)",
+            "description": ""
+        },
+        {
+            "id": "Toggle Mountain Stance",
+            "name": "Toggle Mountain Stance ((Dés)activer posture de la montagne)",
+            "description": ""
+        },
+        {
+            "id": "Treat Wounds",
+            "name": "Treat Wounds (Soigner les blessures)",
+            "description": ""
+        },
+        {
+            "id": "Earn Income",
+            "name": "Earn Income (Gagner de l'argent)",
+            "description": ""
+        },
+        {
+            "id": "Take Cover",
+            "name": "Take Cover (Se mettre à l'abri)",
+            "description": ""
+        },
+        {
+            "id": "Open Compendium Browser",
+            "name": "Open Compendium Browser (Ouvrir le navigateur de compendium)",
+            "description": ""
+        }
+    ],
     "mapping": {}
 }

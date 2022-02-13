@@ -1,5 +1,181 @@
 {
     "label": "Macros PF2e",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Lie: Deception",
+            "name": "Lie: Deception",
+            "description": ""
+        },
+        {
+            "id": "Pick a Lock: Thievery",
+            "name": "Pick a Lock: Thievery",
+            "description": ""
+        },
+        {
+            "id": "Coerce: Intimidation",
+            "name": "Coerce: Intimidation",
+            "description": ""
+        },
+        {
+            "id": "Bon Mot: Diplomacy",
+            "name": "Bon Mot: Diplomacy",
+            "description": ""
+        },
+        {
+            "id": "Craft: Crafting",
+            "name": "Craft: Crafting",
+            "description": ""
+        },
+        {
+            "id": "Balance: Acrobatics",
+            "name": "Balance: Acrobatics",
+            "description": ""
+        },
+        {
+            "id": "Gather Information: Diplomacy",
+            "name": "Gather Information: Diplomacy",
+            "description": ""
+        },
+        {
+            "id": "Long Jump: Athletics",
+            "name": "Long Jump: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Make an Impression: Diplomacy",
+            "name": "Make an Impression: Diplomacy",
+            "description": ""
+        },
+        {
+            "id": "Impersonate: Deception",
+            "name": "Impersonate: Deception",
+            "description": ""
+        },
+        {
+            "id": "Encouraging Words",
+            "name": "Encouraging Words",
+            "description": ""
+        },
+        {
+            "id": "Shove: Athletics",
+            "name": "Shove: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Request: Diplomacy",
+            "name": "Request: Diplomacy",
+            "description": ""
+        },
+        {
+            "id": "Create a Diversion - Trick: Deception",
+            "name": "Create a Diversion - Trick: Deception",
+            "description": ""
+        },
+        {
+            "id": "Create a Diversion - Distracting Words: Deception",
+            "name": "Create a Diversion - Distracting Words: Deception",
+            "description": ""
+        },
+        {
+            "id": "Maneuver in Flight: Acrobatics",
+            "name": "Maneuver in Flight: Acrobatics",
+            "description": ""
+        },
+        {
+            "id": "High Jump: Athletics",
+            "name": "High Jump: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Sense Motive: Perception",
+            "name": "Sense Motive: Perception",
+            "description": ""
+        },
+        {
+            "id": "Steel Your Resolve",
+            "name": "Steel Your Resolve",
+            "description": ""
+        },
+        {
+            "id": "Climb: Athletics",
+            "name": "Climb: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Trip: Athletics",
+            "name": "Trip: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Swim: Athletics",
+            "name": "Swim: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Sneak: Stealth",
+            "name": "Sneak: Stealth",
+            "description": ""
+        },
+        {
+            "id": "Seek: Perception",
+            "name": "Seek: Perception",
+            "description": ""
+        },
+        {
+            "id": "Whirling Throw: Athletics",
+            "name": "Whirling Throw: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Squeeze: Acrobatics",
+            "name": "Squeeze: Acrobatics",
+            "description": ""
+        },
+        {
+            "id": "Disarm: Athletics",
+            "name": "Disarm: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Raise a Shield",
+            "name": "Raise a Shield",
+            "description": ""
+        },
+        {
+            "id": "Feint: Deception",
+            "name": "Feint: Deception",
+            "description": ""
+        },
+        {
+            "id": "Force Open: Athletics",
+            "name": "Force Open: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Demoralize: Intimidation",
+            "name": "Demoralize: Intimidation",
+            "description": ""
+        },
+        {
+            "id": "Hide: Stealth",
+            "name": "Hide: Stealth",
+            "description": ""
+        },
+        {
+            "id": "Tumble Through: Acrobatics",
+            "name": "Tumble Through: Acrobatics",
+            "description": ""
+        },
+        {
+            "id": "Create a Diversion - Gesture: Deception",
+            "name": "Create a Diversion - Gesture: Deception",
+            "description": ""
+        },
+        {
+            "id": "Grapple: Athletics",
+            "name": "Grapple: Athletics",
+            "description": ""
+        }
+    ],
     "mapping": {}
 }

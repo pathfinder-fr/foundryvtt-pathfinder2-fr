@@ -1,48 +1,22 @@
 # État de la traduction (bestiary-effects)
 
- * **aucune**: 113
- * **vide**: 11
+ * **libre**: 32
+ * **vide**: 10
+ * **aucune**: 85
+ * **changé**: 1
 
 
-Dernière mise à jour: 2022-02-09 19:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[0ifqiVhhKULXJyf9.htm](bestiary-effects/0ifqiVhhKULXJyf9.htm)|Effect: Rune of Flames (Longspear)|
-|[31nnjHZqiaqaWBUi.htm](bestiary-effects/31nnjHZqiaqaWBUi.htm)|Effect: Harmonizing Aura (Allies)|
-|[361dIAAhiZE0wg8v.htm](bestiary-effects/361dIAAhiZE0wg8v.htm)|Effect: Adaptive Strike|
-|[37wbBpPBi5eBtNqM.htm](bestiary-effects/37wbBpPBi5eBtNqM.htm)|Effect: Lantern of Hope|
-|[3MIZf42EhhKbIwLQ.htm](bestiary-effects/3MIZf42EhhKbIwLQ.htm)|Effect: Aura of Corruption|
-|[3QUaxNvpHDmf9cTo.htm](bestiary-effects/3QUaxNvpHDmf9cTo.htm)|Effect: Rune of Flames (Rock)|
-|[3Wtzyb0ZgkaC7vHY.htm](bestiary-effects/3Wtzyb0ZgkaC7vHY.htm)|Effect: Fanatical Frenzy|
-|[4HJJdogS751Z04lD.htm](bestiary-effects/4HJJdogS751Z04lD.htm)|Effect: Tail Lash (Skill Check)|
-|[4M2K16mH4gndHAKa.htm](bestiary-effects/4M2K16mH4gndHAKa.htm)|Effect: Undead Mastery|
-|[5NSWRxAsJuvwyl0E.htm](bestiary-effects/5NSWRxAsJuvwyl0E.htm)|Effect: Commander's Aura|
-|[5roCV7EbPx1G5xOd.htm](bestiary-effects/5roCV7EbPx1G5xOd.htm)|Effect: Mangling Rend|
-|[5syHrFGAE6lo0FUr.htm](bestiary-effects/5syHrFGAE6lo0FUr.htm)|Effect: Invigorating Passion|
 |[5ZK22sNW7o26aST0.htm](bestiary-effects/5ZK22sNW7o26aST0.htm)|Effect: Dirty Bomb|
-|[6GC248hHu3LdOAtS.htm](bestiary-effects/6GC248hHu3LdOAtS.htm)|Effect: Sting of the Lash|
-|[6rnB7nK6J6zF4vea.htm](bestiary-effects/6rnB7nK6J6zF4vea.htm)|Effect: Graveknight's Curse|
-|[7qoZauizAKfPIXeu.htm](bestiary-effects/7qoZauizAKfPIXeu.htm)|Effect: Volcanic Purge|
-|[7wDH2q0UcFdu2w58.htm](bestiary-effects/7wDH2q0UcFdu2w58.htm)|Effect: Focused Assault|
-|[7x0O2GqWBJiAk5PF.htm](bestiary-effects/7x0O2GqWBJiAk5PF.htm)|Effect: Brutal Rally|
-|[86uYNsVXzYWxqLTV.htm](bestiary-effects/86uYNsVXzYWxqLTV.htm)|Effect: Splintered Ground|
-|[9Qyu0HN5j6DO8Izc.htm](bestiary-effects/9Qyu0HN5j6DO8Izc.htm)|Effect: Sinful Bite|
-|[AThOnEYzPO9ssYTB.htm](bestiary-effects/AThOnEYzPO9ssYTB.htm)|Effect: Disturbing Vision|
-|[BmAw66zEkifSvOtg.htm](bestiary-effects/BmAw66zEkifSvOtg.htm)|Effect: Brand of the Impenitent|
-|[bV70ZxnUAoYnfXaZ.htm](bestiary-effects/bV70ZxnUAoYnfXaZ.htm)|Effect: Rune of Smiting (Rock)|
-|[c6SiBB3mzV8lZUQr.htm](bestiary-effects/c6SiBB3mzV8lZUQr.htm)|Effect: Protean Anatomy|
-|[C9nb9XbnQgbnXpTq.htm](bestiary-effects/C9nb9XbnQgbnXpTq.htm)|Effect: Crystalline Dust Form|
-|[Cc5WsKkbOPOzopCY.htm](bestiary-effects/Cc5WsKkbOPOzopCY.htm)|Effect: Dire Warning|
-|[CiCG3r7SHYMJeUxz.htm](bestiary-effects/CiCG3r7SHYMJeUxz.htm)|Effect: Inspirational Presence|
+|[6E8bOkwFzFuQ3ZAw.htm](bestiary-effects/6E8bOkwFzFuQ3ZAw.htm)|Effect: Lurker's Glow (Critical Failure)|
+|[ceOkHxhJNTcvZkCy.htm](bestiary-effects/ceOkHxhJNTcvZkCy.htm)|Effect: Blood Siphon (Critical Failure)|
 |[ckL8iL7BKBPteEVL.htm](bestiary-effects/ckL8iL7BKBPteEVL.htm)|Effect: Goblin Song|
-|[CUgmb7g65vYNT2hn.htm](bestiary-effects/CUgmb7g65vYNT2hn.htm)|Effect: Curse of Boiling Blood|
-|[dRe8n1nBWMIXd8jh.htm](bestiary-effects/dRe8n1nBWMIXd8jh.htm)|Effect: Moon Frenzy|
-|[EM0VP31B8CyjFD15.htm](bestiary-effects/EM0VP31B8CyjFD15.htm)|Effect: Inspired Feast|
-|[eZL4B1P4H8hr1CAn.htm](bestiary-effects/eZL4B1P4H8hr1CAn.htm)|Effect: Glowing Spores|
 |[FISKjI7bal26AnyL.htm](bestiary-effects/FISKjI7bal26AnyL.htm)|Effect: Timely Advice|
 |[FjcvJWPFwkyy5vEk.htm](bestiary-effects/FjcvJWPFwkyy5vEk.htm)|Effect: Artificer's Command|
 |[fPhbDSTPuT01f0Kn.htm](bestiary-effects/fPhbDSTPuT01f0Kn.htm)|Effect: Ensnare|
@@ -92,6 +66,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[svXRrZvixRInmabj.htm](bestiary-effects/svXRrZvixRInmabj.htm)|Effect: Rune of Destruction (Greatsword)|
 |[T2tfacwoOozQfsIz.htm](bestiary-effects/T2tfacwoOozQfsIz.htm)|Effect: Infectious Aura|
 |[TbmkcfpKIs558skY.htm](bestiary-effects/TbmkcfpKIs558skY.htm)|Effect: Caustic Mucus|
+|[TEzLEXBZzNCp6flg.htm](bestiary-effects/TEzLEXBZzNCp6flg.htm)|Effect: Instinctual Tinker (Critical Success)|
 |[TjRZbd52qWPjTbNT.htm](bestiary-effects/TjRZbd52qWPjTbNT.htm)|Effect: No Quarter!|
 |[tJx9B2e3AET6PbJD.htm](bestiary-effects/tJx9B2e3AET6PbJD.htm)|Effect: Pain Frenzy|
 |[Tkf33YglEZcZ6gOT.htm](bestiary-effects/Tkf33YglEZcZ6gOT.htm)|Effect: Curse of the Baneful Venom|
@@ -125,16 +100,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[yrenENpzVgBKsnNi.htm](bestiary-effects/yrenENpzVgBKsnNi.htm)|Effect: Alchemical Strike|
 |[zBQM4rzLfkLzpET6.htm](bestiary-effects/zBQM4rzLfkLzpET6.htm)|Effect: Rune of Flames (Greatsword)|
 
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+
 ## Liste des éléments vides ne pouvant pas être traduits
 
 | Fichier   | Nom (EN)    | État |
 |-----------|-------------|:----:|
-|[BTSstQAn4Xlm1PWV.htm](bestiary-effects/BTSstQAn4Xlm1PWV.htm)|Effect: Uncanny Tinker (Critical Success)|vide|
-|[dVVc5MYx4G3QPHoa.htm](bestiary-effects/dVVc5MYx4G3QPHoa.htm)|Effect: Guildmaster's Lead|vide|
+|[3np7EyJ8pyrVlpie.htm](bestiary-effects/3np7EyJ8pyrVlpie.htm)|Effect: Claim Corpse - Skeletal|vide|
+|[auJ02rr1Jr88oD3Z.htm](bestiary-effects/auJ02rr1Jr88oD3Z.htm)|Effect: Claim Corpse - Fleshy|vide|
 |[gORyINQLvplfthlm.htm](bestiary-effects/gORyINQLvplfthlm.htm)|Effect: Pollution Infusion|vide|
 |[HArljmKc2IR7rtfc.htm](bestiary-effects/HArljmKc2IR7rtfc.htm)|Effect: Swig|vide|
 |[St2QzqQvKN0IaXxG.htm](bestiary-effects/St2QzqQvKN0IaXxG.htm)|Effect: Kharna's Blessing|vide|
-|[TEzLEXBZzNCp6flg.htm](bestiary-effects/TEzLEXBZzNCp6flg.htm)|Effect: Instinctual Tinker (Critical Success)|vide|
 |[UiISDbCjK6AUDsll.htm](bestiary-effects/UiISDbCjK6AUDsll.htm)|Effect: Guide's Warning|vide|
 |[uqjx1bwYduHwwC7d.htm](bestiary-effects/uqjx1bwYduHwwC7d.htm)|Effect: Guiding Words|vide|
 |[wcNGbhwn3AuamtsX.htm](bestiary-effects/wcNGbhwn3AuamtsX.htm)|Effect: Scraping Clamor|vide|
@@ -145,3 +124,35 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[0ifqiVhhKULXJyf9.htm](bestiary-effects/0ifqiVhhKULXJyf9.htm)|Effect: Rune of Flames (Longspear)|Effet : Rune de Flammes (Pique)|libre|
+|[31nnjHZqiaqaWBUi.htm](bestiary-effects/31nnjHZqiaqaWBUi.htm)|Effect: Harmonizing Aura (Allies)|Effet : Aura d'harmonie (Alliés)|libre|
+|[361dIAAhiZE0wg8v.htm](bestiary-effects/361dIAAhiZE0wg8v.htm)|Effect: Adaptive Strike|Effet : Frappe adaptative|libre|
+|[37wbBpPBi5eBtNqM.htm](bestiary-effects/37wbBpPBi5eBtNqM.htm)|Effect: Lantern of Hope|Effet : Lanterne d'espoir|libre|
+|[3MIZf42EhhKbIwLQ.htm](bestiary-effects/3MIZf42EhhKbIwLQ.htm)|Effect: Aura of Corruption|Effet : Aura de corruption|libre|
+|[3QUaxNvpHDmf9cTo.htm](bestiary-effects/3QUaxNvpHDmf9cTo.htm)|Effect: Rune of Flames (Rock)|Effet : Rune de Flammes (Rocher)|libre|
+|[3Wtzyb0ZgkaC7vHY.htm](bestiary-effects/3Wtzyb0ZgkaC7vHY.htm)|Effect: Fanatical Frenzy|Effet : Frénésie fanatique|libre|
+|[4HJJdogS751Z04lD.htm](bestiary-effects/4HJJdogS751Z04lD.htm)|Effect: Tail Lash (Skill Check)|Effet : Coup de queue (Test de compétence)|libre|
+|[4M2K16mH4gndHAKa.htm](bestiary-effects/4M2K16mH4gndHAKa.htm)|Effect: Undead Mastery|Effet : maîtrise des morts vivants|libre|
+|[5NSWRxAsJuvwyl0E.htm](bestiary-effects/5NSWRxAsJuvwyl0E.htm)|Effect: Commander's Aura|Effet : Aura de commandement|libre|
+|[5roCV7EbPx1G5xOd.htm](bestiary-effects/5roCV7EbPx1G5xOd.htm)|Effect: Mangling Rend|Effet :|libre|
+|[5syHrFGAE6lo0FUr.htm](bestiary-effects/5syHrFGAE6lo0FUr.htm)|Effect: Invigorating Passion|Effet : Passion stimulante|libre|
+|[6GC248hHu3LdOAtS.htm](bestiary-effects/6GC248hHu3LdOAtS.htm)|Effect: Sting of the Lash|Effet : Piqûre du fouet|libre|
+|[6rnB7nK6J6zF4vea.htm](bestiary-effects/6rnB7nK6J6zF4vea.htm)|Effect: Graveknight's Curse|Effet : Malédiction du Chevalier tombal|libre|
+|[7qoZauizAKfPIXeu.htm](bestiary-effects/7qoZauizAKfPIXeu.htm)|Effect: Volcanic Purge|Effet : Purge volcanique|libre|
+|[7wDH2q0UcFdu2w58.htm](bestiary-effects/7wDH2q0UcFdu2w58.htm)|Effect: Focused Assault|Effet : Assaut concentré|libre|
+|[7x0O2GqWBJiAk5PF.htm](bestiary-effects/7x0O2GqWBJiAk5PF.htm)|Effect: Brutal Rally|Effet : Ralliement brutal|libre|
+|[86uYNsVXzYWxqLTV.htm](bestiary-effects/86uYNsVXzYWxqLTV.htm)|Effect: Splintered Ground|Effet : Sol fracturé|libre|
+|[9Qyu0HN5j6DO8Izc.htm](bestiary-effects/9Qyu0HN5j6DO8Izc.htm)|Effect: Sinful Bite|Effet : Morsure du péché|libre|
+|[AThOnEYzPO9ssYTB.htm](bestiary-effects/AThOnEYzPO9ssYTB.htm)|Effect: Disturbing Vision|Effet : Vision perturbante|libre|
+|[BmAw66zEkifSvOtg.htm](bestiary-effects/BmAw66zEkifSvOtg.htm)|Effect: Brand of the Impenitent|Effet : Marque de l'incroyant|libre|
+|[BTSstQAn4Xlm1PWV.htm](bestiary-effects/BTSstQAn4Xlm1PWV.htm)|Effect: Uncanny Tinker (Critical Success)|Effet : bricolage ingénieux (Succès critique)|libre|
+|[bV70ZxnUAoYnfXaZ.htm](bestiary-effects/bV70ZxnUAoYnfXaZ.htm)|Effect: Rune of Smiting (Rock)|Effet : Rune de choc (Rocher)|libre|
+|[c6SiBB3mzV8lZUQr.htm](bestiary-effects/c6SiBB3mzV8lZUQr.htm)|Effect: Protean Anatomy|Effet : Anatomie protéenne|libre|
+|[C9nb9XbnQgbnXpTq.htm](bestiary-effects/C9nb9XbnQgbnXpTq.htm)|Effect: Crystalline Dust Form|Effet : Forme de poussière cristalline|libre|
+|[Cc5WsKkbOPOzopCY.htm](bestiary-effects/Cc5WsKkbOPOzopCY.htm)|Effect: Dire Warning|Effet : Avertissement sérieux|libre|
+|[CiCG3r7SHYMJeUxz.htm](bestiary-effects/CiCG3r7SHYMJeUxz.htm)|Effect: Inspirational Presence|Effet : Présence inspirante|libre|
+|[CUgmb7g65vYNT2hn.htm](bestiary-effects/CUgmb7g65vYNT2hn.htm)|Effect: Curse of Boiling Blood|Effet : Malédiction du sang bouillonnant|libre|
+|[dRe8n1nBWMIXd8jh.htm](bestiary-effects/dRe8n1nBWMIXd8jh.htm)|Effect: Moon Frenzy|Effet : Frénésie lunaire|libre|
+|[dVVc5MYx4G3QPHoa.htm](bestiary-effects/dVVc5MYx4G3QPHoa.htm)|Effect: Guildmaster's Lead|Effet : Conduite du Maître de guilde|libre|
+|[EM0VP31B8CyjFD15.htm](bestiary-effects/EM0VP31B8CyjFD15.htm)|Effect: Inspired Feast|Effet : Festin inspiré|libre|
+|[eZL4B1P4H8hr1CAn.htm](bestiary-effects/eZL4B1P4H8hr1CAn.htm)|Effect: Glowing Spores|Effets : Spores brillantes|libre|

@@ -2,11 +2,28 @@
 
  * **officielle**: 16
  * **libre**: 30
+ * **aucune**: 11
 
 
-Dernière mise à jour: 2022-02-09 19:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[01-7ZxPS0UU7pf7wjp0.htm](familiar-abilities/01-7ZxPS0UU7pf7wjp0.htm)|Ambassador|
+|[01-aEKA3YWekLhEhuV8.htm](familiar-abilities/01-aEKA3YWekLhEhuV8.htm)|Threat Display|
+|[01-Amzezp93MZckBYRZ.htm](familiar-abilities/01-Amzezp93MZckBYRZ.htm)|Wavesense|
+|[01-dpjf1CyMEILpJWyp.htm](familiar-abilities/01-dpjf1CyMEILpJWyp.htm)|Darkeater|
+|[01-fmsVItn94FeY5Q3X.htm](familiar-abilities/01-fmsVItn94FeY5Q3X.htm)|Snoop|
+|[01-hMrxiUPHXKpKu1Ha.htm](familiar-abilities/01-hMrxiUPHXKpKu1Ha.htm)|Major Resistance|
+|[01-j1qZiH50Bl2SJ8vT.htm](familiar-abilities/01-j1qZiH50Bl2SJ8vT.htm)|Shadow Step|
+|[01-j9vOSbF9kLibhSIf.htm](familiar-abilities/01-j9vOSbF9kLibhSIf.htm)|Second Opinion|
+|[01-lpyJAl5B4j2DC7mc.htm](familiar-abilities/01-lpyJAl5B4j2DC7mc.htm)|Gills|
+|[01-LrDnat1DsGJoAiKv.htm](familiar-abilities/01-LrDnat1DsGJoAiKv.htm)|Tremorsense|
+|[01-zKTL9y9et0oTHEYS.htm](familiar-abilities/01-zKTL9y9et0oTHEYS.htm)|Greater Resistance|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

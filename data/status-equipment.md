@@ -4,18 +4,25 @@
  * **changé**: 916
  * **libre**: 1063
  * **vide**: 7
- * **aucune**: 2
+ * **aucune**: 9
 
 
-Dernière mise à jour: 2022-02-09 19:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[consumable-01-lAmwzpbGaARQ2eP4.htm](equipment/consumable-01-lAmwzpbGaARQ2eP4.htm)|Shrine Inarizushi|
+|[consumable-05-hHsU2sRW47Rge8fU.htm](equipment/consumable-05-hHsU2sRW47Rge8fU.htm)|Tteokguk of Time Advancement|
+|[consumable-08-cvkKe1FUVW9kOKcC.htm](equipment/consumable-08-cvkKe1FUVW9kOKcC.htm)|Seven-Color Raw Fish Salad|
+|[consumable-08-Mtqc1UzOotdclIEb.htm](equipment/consumable-08-Mtqc1UzOotdclIEb.htm)|Incense Bundle of Annual Blessings|
 |[equipment-01-bWcH5lQ3AuaQwZ08.htm](equipment/equipment-01-bWcH5lQ3AuaQwZ08.htm)|Mudlily|
+|[equipment-05-sO3b9FRLFY43YQUc.htm](equipment/equipment-05-sO3b9FRLFY43YQUc.htm)|Hongbao of Many Things|
 |[weapon-01-OOqno1OwqJQBEtXe.htm](equipment/weapon-01-OOqno1OwqJQBEtXe.htm)|Tallow Bomb (Lesser)|
+|[weapon-01-yyZ3iD8IXMIrrWL1.htm](equipment/weapon-01-yyZ3iD8IXMIrrWL1.htm)|Switchscythe|
+|[weapon-17-1AHntZrWzp5e31SX.htm](equipment/weapon-17-1AHntZrWzp5e31SX.htm)|Gearblade|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -1160,7 +1167,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-apGQcVMSRprFEeKt.htm](equipment/consumable-01-apGQcVMSRprFEeKt.htm)|Potion of Acid Retaliation (Minor)|Potion de Riposte acide (mineure)|libre|
 |[consumable-01-bOPQDM54W8ZDoULY.htm](equipment/consumable-01-bOPQDM54W8ZDoULY.htm)|Serene Mutagen (Lesser)|Mutagène de sérénité inférieur|officielle|
 |[consumable-01-efFe4EK7ThUrH446.htm](equipment/consumable-01-efFe4EK7ThUrH446.htm)|Holy Water|Eau bénite|officielle|
-|[consumable-01-eHVZBmtzEcnsHSk8.htm](equipment/consumable-01-eHVZBmtzEcnsHSk8.htm)|Skeptic's Elixir (Lesser)|Élixir d'Incrédule (inférieur)|libre|
+|[consumable-01-eHVZBmtzEcnsHSk8.htm](equipment/consumable-01-eHVZBmtzEcnsHSk8.htm)|Skeptic's Elixir (Lesser)|Élixir d'Incrédule inférieur|libre|
 |[consumable-01-ev3F9qlMNlNdCOAI.htm](equipment/consumable-01-ev3F9qlMNlNdCOAI.htm)|Runestone|Pierre runique|officielle|
 |[consumable-01-EWujUs3YmlBu2jhm.htm](equipment/consumable-01-EWujUs3YmlBu2jhm.htm)|Shielding Salve|Onguent de bouclier|libre|
 |[consumable-01-fTQ5e4utVfgtXV1e.htm](equipment/consumable-01-fTQ5e4utVfgtXV1e.htm)|Oil of Unlife (Minor)|Huile de Non-vie (mineure)|libre|
@@ -1353,7 +1360,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-06-u1gZaIZHnEfZDc1o.htm](equipment/consumable-06-u1gZaIZHnEfZDc1o.htm)|Potion of Acid Resistance (Lesser)|Potion de résistance à l'acide inférieure|officielle|
 |[consumable-06-UtT7TVT7M6uJTlJH.htm](equipment/consumable-06-UtT7TVT7M6uJTlJH.htm)|Restful Sleep Fulu|Fulu de sommeil paisible|libre|
 |[consumable-06-V2TUEoiDwJ125qzN.htm](equipment/consumable-06-V2TUEoiDwJ125qzN.htm)|Potion of Resistance (Lesser)|Potion de résistance inférieure|officielle|
-|[consumable-06-xGmX6Vuuhivyal8v.htm](equipment/consumable-06-xGmX6Vuuhivyal8v.htm)|Skeptic's Elixir (Moderate)|Élixir d'Incrédule modéré|libre|
+|[consumable-06-xGmX6Vuuhivyal8v.htm](equipment/consumable-06-xGmX6Vuuhivyal8v.htm)|Skeptic's Elixir (Moderate)|Élixir d'incrédule modéré|libre|
 |[consumable-06-YHev1WJ2tOiTBg9o.htm](equipment/consumable-06-YHev1WJ2tOiTBg9o.htm)|Oil of Unlife (Moderate)|Huile de Non-vie modérée|libre|
 |[consumable-06-ymSbtkmW9xg9kWyN.htm](equipment/consumable-06-ymSbtkmW9xg9kWyN.htm)|Piercing Whistle Snare|Piège artisanal du sifflet perçant|libre|
 |[consumable-06-ZEKmCg8K2hUHbmnT.htm](equipment/consumable-06-ZEKmCg8K2hUHbmnT.htm)|Salve of Antiparalysis|Baume antiparalysie|libre|
@@ -1455,7 +1462,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-11-LcNUAglIYiTxwmNo.htm](equipment/consumable-11-LcNUAglIYiTxwmNo.htm)|Etheric Essence Disruptor (Greater)|Perturbateur d'essence éthérique supérieur|libre|
 |[consumable-11-OMJgFmy3jut79Iaj.htm](equipment/consumable-11-OMJgFmy3jut79Iaj.htm)|Potion of Swimming (Greater)|Potion de nage supérieur|officielle|
 |[consumable-11-PkksgUAYXJeewn7T.htm](equipment/consumable-11-PkksgUAYXJeewn7T.htm)|Silencing Shot|Tir de silence|libre|
-|[consumable-11-SjbenbdzV4rgGxZP.htm](equipment/consumable-11-SjbenbdzV4rgGxZP.htm)|Skeptic's Elixir (Greater)|Élixir d'Incrédule supérieur)|libre|
+|[consumable-11-SjbenbdzV4rgGxZP.htm](equipment/consumable-11-SjbenbdzV4rgGxZP.htm)|Skeptic's Elixir (Greater)|Élixir d'incrédule supérieur|libre|
 |[consumable-11-ThX0ntpTqonGqguT.htm](equipment/consumable-11-ThX0ntpTqonGqguT.htm)|Potion of Disguise (Greater)|Potion de déguisement supérieure|libre|
 |[consumable-11-TMtQnY6yvIRCpK9v.htm](equipment/consumable-11-TMtQnY6yvIRCpK9v.htm)|Juggernaut Mutagen (Greater)|Mutagène de juggernaut supérieur|officielle|
 |[consumable-11-uggpIk6vguWFXVli.htm](equipment/consumable-11-uggpIk6vguWFXVli.htm)|Silvertongue Mutagen (Greater)|Mutagène de langue dorée supérieur|officielle|

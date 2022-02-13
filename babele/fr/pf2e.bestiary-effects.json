@@ -1,6 +1,167 @@
 {
     "label": "Effets des monstres",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Effect: Dire Warning",
+            "name": "Effet : Avertissement sérieux",
+            "description": "<p>La créature obtient un bonus de statut de +1 aux jets d'attaques et de dégâts.</p>"
+        },
+        {
+            "id": "Effect: Inspired Feast",
+            "name": "Effet : Festin inspiré",
+            "description": "<p>La créature obtient un bonus de statut de +1 aux jets d'attaqueet un bonus de statut de +2 aux jets de dégâts.</p>"
+        },
+        {
+            "id": "Effect: Uncanny Tinker (Critical Success)",
+            "name": "Effet : bricolage ingénieux (Succès critique)",
+            "description": ""
+        },
+        {
+            "id": "Effect: Commander's Aura",
+            "name": "Effet : Aura de commandement",
+            "description": "<p>La créature obtient un bonus de circonstance de +1 aux jets d'attaques, aux jets de dégâts, à la CA, aux jets de sauvegarde et aux tests de compétence.</p>"
+        },
+        {
+            "id": "Effect: Volcanic Purge",
+            "name": "Effet : Purge volcanique",
+            "description": "<p>La cible subit [[/r {4d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de feu persistants} et, tant qu'elle subit ces dégâts de feu persistants, elle subit aussi une pénalité de statut de -3 mètres à ses Vitesses.</p>"
+        },
+        {
+            "id": "Effect: Curse of Boiling Blood",
+            "name": "Effet : Malédiction du sang bouillonnant",
+            "description": "<p>La créature obtient une faiblesse au feu 20.</p>"
+        },
+        {
+            "id": "Effect: Lantern of Hope",
+            "name": "Effet : Lanterne d'espoir",
+            "description": "<p>La créature obtient un bonus de statut de +1 aux jets de dégâts et aux jets de sauvegarde contre <em>@Compendium[pf2e.spells-srd.GaRQlC9Yw1BGKHfN]{Désespoir foudroyant}</em>.</p>"
+        },
+        {
+            "id": "Effect: Brand of the Impenitent",
+            "name": "Effet : Marque de l'incroyant",
+            "description": "<p>La créature subit une pénalité de statut de -1 à la CA et aux jets de sauvegarde, réduit ses résistances de 2 et lui cause une faiblesse aux dégâts du bien de 2.</p>"
+        },
+        {
+            "id": "Effect: Disturbing Vision",
+            "name": "Effet : Vision perturbante",
+            "description": "<p>Les visions durent [[/br 1d4 #rounds]]{1d4 rounds} et tant qu'elles sont là, toutes les créatures mauvaises dans la zone obtiennent un bonus de statut de +1 à tous les jets.</p>"
+        },
+        {
+            "id": "Effect: Rune of Smiting (Rock)",
+            "name": "Effet : Rune de choc (Rocher)",
+            "description": "<p>Lorsque le rocher touche, le géant peut Pousser la cible de 3 mètres ou de 6 mètres en cas de coup critique.</p>"
+        },
+        {
+            "id": "Effect: Invigorating Passion",
+            "name": "Effet : Passion stimulante",
+            "description": "<p>La créature obtient un bonus de statut de +1 aux jets d'attaques et 10 points de vie temporaires.</p>"
+        },
+        {
+            "id": "Effect: Adaptive Strike",
+            "name": "Effet : Frappe adaptative",
+            "description": "<p>Les Frappes au corps-à-corps de la créature comptent soit comme de l'adamantium, du fer froid ou de l'argent.</p>"
+        },
+        {
+            "id": "Effect: Harmonizing Aura (Allies)",
+            "name": "Effet : Aura d'harmonie (Alliés)",
+            "description": "<p>La créature obtient un bonus de statut de +2 aux jets de dégâts de son et un bonus de statut de +1 à la CA et aux jets de sauvegarde contre les effets de son et audibles.</p>"
+        },
+        {
+            "id": "Effect: Inspirational Presence",
+            "name": "Effet : Présence inspirante",
+            "description": "<p>Chaque étudiant de dans l'aura de l'enseignant obtient un bonus de circonstance de +1 aux tests pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir}.</p>"
+        },
+        {
+            "id": "Effect: Rune of Flames (Longspear)",
+            "name": "Effet : Rune de Flammes (Pique)",
+            "description": "<p>La pique inflige 3d6 dégâts de feu supplémentaires sur toutes les attaques.</p>"
+        },
+        {
+            "id": "Effect: Mangling Rend",
+            "name": "Effet :",
+            "description": "<p>La cible subit une pénalité de statut de -6 mètres à toutes ses Vitesses jusqu'à la fin de son prochain tour.</p>"
+        },
+        {
+            "id": "Effect: Undead Mastery",
+            "name": "Effet : maîtrise des morts vivants",
+            "description": "<p>La créature obtient un bonus de circonstances de +1 aux jets d'attaques, de dégâts, à la CA, aux jets de sauvegarde et aux tests de compétence.</p>"
+        },
+        {
+            "id": "Effect: Protean Anatomy",
+            "name": "Effet : Anatomie protéenne",
+            "description": "<p>La créature obtient une résistance à l'acide, à l'électricité ou au son en fonction de son Anatomie protéenne.</p>"
+        },
+        {
+            "id": "Effect: Guildmaster's Lead",
+            "name": "Effet : Conduite du Maître de guilde",
+            "description": ""
+        },
+        {
+            "id": "Effect: Sinful Bite",
+            "name": "Effet : Morsure du péché",
+            "description": "<p>La créature subit une pénalité de statut de -3 mètres à ses Vitesses.</p>"
+        },
+        {
+            "id": "Effect: Rune of Flames (Rock)",
+            "name": "Effet : Rune de Flammes (Rocher)",
+            "description": "<p>Le rocher inflige 3d6 dégâts de feu supplémentaires sur toutes les attaques.</p>"
+        },
+        {
+            "id": "Effect: Glowing Spores",
+            "name": "Effets : Spores brillantes",
+            "description": "<p>La créature subit une pénalité de -4 à ses tests de Discrétion.</p>"
+        },
+        {
+            "id": "Effect: Sting of the Lash",
+            "name": "Effet : Piqûre du fouet",
+            "description": "<p>La créature obtient 5 points de vie temporaires.</p>"
+        },
+        {
+            "id": "Effect: Aura of Corruption",
+            "name": "Effet : Aura de corruption",
+            "description": "<p>La créature est considérée comme si elle était une plante pour les besoin de tout effet qui blesserait particulièrement ou qui aurait des inconvénients pour des créatures plantes plus que d'autres créatures, mais elle n'obtient aucun avantage du fait d'être une créature plante.</p>"
+        },
+        {
+            "id": "Effect: Focused Assault",
+            "name": "Effet : Assaut concentré",
+            "description": "<p>La créature inflige des dégâts supplémentaires basés sur le nombre d'épées longues qu'elle manie.</p>"
+        },
+        {
+            "id": "Effect: Crystalline Dust Form",
+            "name": "Effet : Forme de poussière cristalline",
+            "description": "<p>La créature obtient une Vitesse de vol de 12 mètres.</p>"
+        },
+        {
+            "id": "Effect: Brutal Rally",
+            "name": "Effet : Ralliement brutal",
+            "description": "<p>La créature obtient un bonus de circonstance de +1 aux jets d'attaque.</p>"
+        },
+        {
+            "id": "Effect: Graveknight's Curse",
+            "name": "Effet : Malédiction du Chevalier tombal",
+            "description": "<p>La Vitesse de la créature est réduite de -3 mètres.</p>"
+        },
+        {
+            "id": "Effect: Fanatical Frenzy",
+            "name": "Effet : Frénésie fanatique",
+            "description": "<p>La créature obtient un bonus de statut de +1 aux jets d'attaque et un bonus de +2 aux jets de dégâts et subit une pénalité de statut de -2 à la CA.</p>"
+        },
+        {
+            "id": "Effect: Tail Lash (Skill Check)",
+            "name": "Effet : Coup de queue (Test de compétence)",
+            "description": "<p>La créature subit une pénalité de circonstances de -2 au jet de compétence déclencheur.</p>"
+        },
+        {
+            "id": "Effect: Splintered Ground",
+            "name": "Effet : Sol fracturé",
+            "description": "<p>La créature subit une pénalité de circonstances de -3 mètres à toutes ses Vitesses.</p>"
+        },
+        {
+            "id": "Effect: Moon Frenzy",
+            "name": "Effet : Frénésie lunaire",
+            "description": "<p>La créature gagne une taille, augmente son allonge de 1,5 m et augmente les dégâts de sa Frappe de mâchoire (ou une Frappe similaire) de 2.</p>"
+        }
+    ],
     "mapping": {
         "description": "data.description.value"
     }

@@ -2,69 +2,9 @@
     "label": "Capacités des ascendances)",
     "entries": [
         {
-            "id": "Sharp Beak",
-            "name": "Bec aiguisé (Sharp Beak)",
-            "description": "<p>Avec votre bec aiguisé, vous n'êtes jamais dépourvu d'une arme. Vous disposez d'une attaque à mains nues de bec qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Votre bec est dans le groupe d'arme pugilat et possède les traits finesse et à mains nues.</p>"
-        },
-        {
-            "id": "Unusual Anatomy",
-            "name": "Anatomie inhabituelle (Unusual Anatomy)",
-            "description": "<p>Votre corps non orthodoxe résiste aux agressions physiques conçus pour l'autres créatures. Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les maladies et les poisons.</p>"
-        },
-        {
             "id": "Wings",
             "name": "Ailes (Wings)",
             "description": "<p>Tous les strix possèdent de puissantes ailes. Alors que tous les strix ne se concentrent pas pour exercer leurs capacités de vol, un puissant claquement d'ailes permet aux strix de parcourir de plus longues distances lorsqu'ils sautent.</p>\n<p>Lorsque vous Bondissez horizontalement, vous vous déplacez de 1,5 m supplémentaires. Vous n'obtenez pas automatiquement un échec aux Sauts en hauteur ou aux Sauts en longueur si vous ne Marchez pas rapidement d'au moins 3 m d'abord. de plus, lorsque vous faites un Saut en longueur, vous pouvez parcourir une distance de 3 m de plus que votre résultat au test d'Athlétisme, bien que vous ne puissiez toujours pas dépasser la distance maximale égale à votre Vitesse.</p>"
-        },
-        {
-            "id": "Plant Nourishment",
-            "name": "Alimentation des plantes (Plant Nourishment)",
-            "description": "<p>Vous obtenez de quoi vous alimenter de la même manière que le font les plantes ou les champignons qui correspondent à votre type de corps, au travers d'une combinaison de photosynthèse, d'absorbtion des minéraux avec vos racines ou de récupération de matière en décomposition. Vous n'avez pas besoin de payer pour votre nourriture. Si vous dépendez normalement de la photosynthèse et que vous ne  voyez pas la lumière du soleil pendant une semaine, vous commencez à dépérir. Vous pouvez obtenir une alimentation à partir de bouteilles spécialement formulées à base de lumière du soleil au lieu de lumière du soleil naturelle mais ces bouteilles coûtent 10 fois plus que des rations ordinaires (ou 40 pa).</p>"
-        },
-        {
-            "id": "Hydration",
-            "name": "Hydratation (Hydration)",
-            "description": "<p>Bien que vous soyez amphibie et autant à l'aise sur terre que dans l'eau, votre corps nécessite que vous retourniez dans les environnements aquatiques au moins une fois par 24 heures. Vous devez vous immerger totalement dans l'eau en vue de réhydrater votre peau acclimatée à l'eau.</p>\n<p>Si vous ne parvenez pas à le faire, votre peau commence à se craqueler et vos ouïes deviennent douloureuses. Après les premières 24 heures hors de l'eau, vous subissez une pénalité de statut de –1 aux jets de Vigueur. Après 48 heures, vous luttez pour respirer de l'air et commencez à suffoquer jusqu'à ce que vous retourniez dans l'eau.</p>\n<p>@Compendium[pf2e.feature-effects.Q5FUu7yhWPJlcXei]{Effet : Hydratation}</p>"
-        },
-        {
-            "id": "Change Shape",
-            "name": "Changer de forme (Change Shape)",
-            "description": "<p>En tant que kitsune, vous obtenez la capcité @Compendium[pf2e.actionspf2e.wwvPiG2kET2rkSAG]{Changer de forme (Kitsune)}.</p>"
-        },
-        {
-            "id": "Fangs",
-            "name": "Crocs (Fangs)",
-            "description": "<p>Vous êtes né avec un moyen naturel de chasser et de vous défendre. Vous obtenez une attaque de crocs à mains nues qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Vos crocs sont dans le groupe pugilat et possèdent le trait finesse et à mains nues.</p>"
-        },
-        {
-            "id": "Stonestep Shisk",
-            "name": "Shisk pied de pierre (Stonestep Shisk)",
-            "description": "<p>Arpenter les montagnes et autres terrains rocheux est une seconde nature pour vous. Vous pouvez ignorer les terrains difficiles non magiques causés par les gravats et les sols irréguliers en pierre et en terre.</p>"
-        },
-        {
-            "id": "Eyes in Back",
-            "name": "Yeux dans le dos (Eyes in Back)",
-            "description": "<p>Vous avez des yeux qui pointent dans plusieurs directions à la fois et vous remarquez instinctivement les mouvements à la périphérie de votre vision. Lorsque vous utilisez l'action de base Chercher, vous pouvez chercher des créatures dans deux zones au lieu d'une. Si la précision est nécessaire, vous pouvez sélectionner deux @Template[type:cone|distance:30]{cônes de 9 m} ou deux @Template[type:burst|distance:15]{explosions de 4,5 m} dans votre ligne de mire au lieu d'un seul.</p>"
-        },
-        {
-            "id": "Blunt Snout",
-            "name": "Museau court (Blunt Snout)",
-            "description": "<p>Votre museau court et le système labyrinthique de vos sinus vous rendent résistant aux phénomènes qui assaillent vos narines. Lorsque vous lancez un jet de sauvegarde contre les menaces inhalées (comme les poisons inhalés) et les effets olfactifs (comme la puanteur des xulgaths), vous obtenez l'issue d'un degré de mieux que le résultat obtenu sur votre jet de sauvegarde.</p>"
-        },
-        {
-            "id": "Land on Your Feet",
-            "name": "Sur vos pattes (Land on Your Feet)",
-            "description": "<p>Lorsque vous chutez, vous ne subissez que la moitié des dégâts normaux et vous n'atterrissez pas @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
-        },
-        {
-            "id": "Claws",
-            "name": "Griffes (Claws)",
-            "description": "<p>Vos griffes aiguisées vous offrent une alternative aux poings que d'autres humanoïdes utilisent pour se battre. Vous disposez d'une attaque à mains nues de griffe qui inflige [[/r {1d4}[slashing]]]{1d4 dégâts tranchants} et possède les traits agile et finesse.</p>"
-        },
-        {
-            "id": "Clan Dagger",
-            "name": "Dague de clan (Clan Dagger)",
-            "description": "<p>Vous obtenez gratuitement une @Compendium[pf2e.equipment-srd.kJJvKm80KwWXPukV]{Dague de clan} car elle vous a été donnée à votre naissance par votre clan. La vente de cet objet est un tabou terrible et vous vaudrait le dédain des autres nains.</p>"
         },
         {
             "id": "Darkvision",
@@ -72,24 +12,14 @@
             "description": "<p>Vous voyez dans les ténèbres et dans la lumière faible aussi bien que dans la lumière vive. Par contre, quand vous êtes dans les ténèbres, vous voyez en noir et blanc.</p>"
         },
         {
-            "id": "Keen Eyes",
-            "name": "Yeux perçants (Keen Eyes)",
-            "description": "<p>Votre vue perçante vous permet de distinguer des détails concernant des créatures masquées ou invisibles que d’autres pourraient ne pas remarquer. Vous gagnez un bonus de circonstances de +2 quand vous utilisez l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour trouver des créatures @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachées} ou @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectées} dans un rayon de 9 m autour de vous. Quand vous prenez pour cible un adversaire @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} ou Caché, réduisez le DD du test nu à 3 pour une cible masquée ou à 9 pour une cible cachée.</p>"
+            "id": "Stonestep Shisk",
+            "name": "Shisk pied de pierre (Stonestep Shisk)",
+            "description": "<p>Arpenter les montagnes et autres terrains rocheux est une seconde nature pour vous. Vous pouvez ignorer les terrains difficiles non magiques causés par les gravats et les sols irréguliers en pierre et en terre.</p>"
         },
         {
-            "id": "Flammable",
-            "name": "Inflammable (Flammable)",
-            "description": "<p>Vous avez une faiblesse aux dégats de feu égal à un tiers de votre niveau (minimum 1).</p>"
-        },
-        {
-            "id": "Automaton Core",
-            "name": "Noyau automate (Automaton Core)",
-            "description": "<p>Votre corps contient un noyau d'automate imprégné de quintessence planaire qui vous donne le pouvoir d'effectuer diverses tâches et abrite votre âme et votre énergie vitale. Cette énergie vitale circule en vous comme le sang des humanoïdes. Par conséquent, vous êtes une créature vivante. Vous n'avez pas les immunités typiques des créatures artificielles. Vous pouvez être affecté par des effets qui ciblent une créature vivante et vous pouvez récupérer des points de vie normalement grâce à l'énergie positive.</p>\n<p>De plus, vous n'êtes pas détruit lorsque vous êtes réduit à 0 point de vie. Au lieu de cela, votre énergie vitale tente de vous maintenir actif, même dans des conditions difficiles ; vous êtes mis hors d'usage et commencez à mourir lorsque vous êtes réduit à 0 point de vie.</p>"
-        },
-        {
-            "id": "Constructed (Poppet)",
-            "name": "Construit (poupée) (Constructed (Poppet))",
-            "description": "<p>Les matériaux de votre corps résistent aux maux qui assaillent la chair. Vous gagnez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de mort, les maladies et le poison ainsi qu'aux jets de sauvegarde contre les effets qui vous donneraient les états Drainé, Paralysé ou Malade. Votre étincelle de vie signifie que vous êtes une créature vivante et que vous pouvez être guéri par l'énergie positive et blessé par l'énergie négative comme à l'ordinaire.</p>"
+            "id": "Clan Dagger",
+            "name": "Dague de clan (Clan Dagger)",
+            "description": "<p>Vous obtenez gratuitement une @Compendium[pf2e.equipment-srd.kJJvKm80KwWXPukV]{Dague de clan} car elle vous a été donnée à votre naissance par votre clan. La vente de cet objet est un tabou terrible et vous vaudrait le dédain des autres nains.</p>"
         },
         {
             "id": "Sunlight Healing",
@@ -97,14 +27,19 @@
             "description": "<p>Un conrasu peut entrer dans un état méditatif et de guérison en y consacrant une activité de 10 minutes lorsqu'il est exposé à la lumière directe du soleil, auquel cas il récupère 1d8 points de vie. Au niveau 3, et tous les 2 niveaux par la suite, cette guérison augmente de 1d8. Une fois qu'un conrasu a récupéré des points de vie de cette façon, il est temporairement immunisé contre d'autres utilisations de Guérison par le soleil pendant 1 jour.</p>"
         },
         {
+            "id": "Automaton Core",
+            "name": "Noyau automate (Automaton Core)",
+            "description": "<p>Votre corps contient un noyau d'automate imprégné de quintessence planaire qui vous donne le pouvoir d'effectuer diverses tâches et abrite votre âme et votre énergie vitale. Cette énergie vitale circule en vous comme le sang des humanoïdes. Par conséquent, vous êtes une créature vivante. Vous n'avez pas les immunités typiques des créatures artificielles. Vous pouvez être affecté par des effets qui ciblent une créature vivante et vous pouvez récupérer des points de vie normalement grâce à l'énergie positive.</p>\n<p>De plus, vous n'êtes pas détruit lorsque vous êtes réduit à 0 point de vie. Au lieu de cela, votre énergie vitale tente de vous maintenir actif, même dans des conditions difficiles ; vous êtes mis hors d'usage et commencez à mourir lorsque vous êtes réduit à 0 point de vie.</p>"
+        },
+        {
             "id": "Greater Darkvision",
             "name": "Vision dans le noir supérieure (Greater Darkvision)",
             "description": "<p>Vous pouvez voir dans l'obscurité et dans la lumière faible juste aussi bien que dans la lumière vive, bien que votre vision dans l'obscurité soit en noir et blanc. Certaines formes d'obscurité magique tel que le sort de niveau 4 <em>@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Ténèbres}</em> bloque la @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}. Vous, quoi qu'il en soit, pouvez voir même au travers de ces formes de ténèbres magiques.</p>"
         },
         {
-            "id": "Swim",
-            "name": "Nage (Swim)",
-            "description": "<p>Les azarketi ont une vitesse de nage de 9 m.</p>"
+            "id": "Magical Strikes",
+            "name": "Frappes magiques (Magical Strikes)",
+            "description": "<p>Votre magie intrinsèque se répand dans votre être tout entier. Toutes vos Frappes sont magiques, qu'il s'agisse des Frappes à mains nues ou avec armes.</p>"
         },
         {
             "id": "Constructed Body",
@@ -112,14 +47,14 @@
             "description": "<p>Vos besoins physiologiques sont différents de ceux des créatures vivantes. Vous n'avez pas besoin de manger ou de boire. Vous n'avez pas besoin de dormir, mais vous avez quand même besoin d'une période de repos quotidienne. Durant cette période de repos, vous devez entrer dans un état de veille pour récupérer pendant 2 heures, ce qui est similaire à au sommeil sauf que vous restez conscient de votre environnement et que vous ne subissez aucune pénalité du fait d'être @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient}. Un peu comme avec le sommeil, si vous restez trop longtemps sans entrer dans votre état de veille, vous devenez @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} et ne pouvez récupérer jusqu'à ce que vous entriez en veille pendant 2 heures.</p>"
         },
         {
-            "id": "Aquatic Adaptation",
-            "name": "Adaptation aquatique (Aquatic Adaptation)",
-            "description": "<p>Votre biologie reptilienne vous permet de retenir votre souffle pendant très longtemps. Vous obtenez le don général @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Contrôle de la respiration} comme don supplémentaire.</p>"
+            "id": "Draconic Exemplar",
+            "name": "Modèle draconique (Draconic Exemplar)",
+            "description": "<p>Vous tirez de votre modèle draconique des pouvoirs mineurs. Choisissez un type de dragon chromatique ou métallique comme étant votre modèle. Cela détermine la couleur de vos écailles et votre apparence. Les dragons voient parfois plus favorablement ceux des kobolds qui leur ressemblent à la discrétion du MJ. Votre modèle peut aussi déterminer les détails d'autres capacités que vous possédez, en utilisant la table des modèles draconiques ci-après.</p>\n<h3><strong>Table des Modèles draconiques</strong></h3>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Dragon</th>\n<th>Forme du Souffle</th>\n<th>Type de Dégâts</th>\n<th>Jet de sauvegarde</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Airain</td>\n<td>Ligne</td>\n<td>Feu</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Argent</td>\n<td>Cône</td>\n<td>Froid</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Blanc</td>\n<td>Cône</td>\n<td>Froid</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Bleu</td>\n<td>Ligne</td>\n<td>Électricité</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Bronze</td>\n<td>Ligne</td>\n<td>Électricité</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Cuivre</td>\n<td>Ligne</td>\n<td>Acide</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Noir</td>\n<td>Ligne</td>\n<td>Acide</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Or</td>\n<td>Cône</td>\n<td>Feu</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Rouge</td>\n<td>Cône</td>\n<td>Feu</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Vert</td>\n<td>Cône</td>\n<td>Poison</td>\n<td>Vigueur</td>\n</tr>\n</tbody>\n</table>"
         },
         {
-            "id": "Emotionally Unaware",
-            "name": "Émotionnellement non préparé (Emotionally Unaware)",
-            "description": "<p>Vous trouvez qu'il est difficile de comprendre et d'exprimer des émotions complexes. Vous subissez une pénalité de circonstances de –1 aux tests de Diplomatie et de Représentation et aux tests de Perception pour Deviner les intentions.</p>"
+            "id": "Plant Nourishment",
+            "name": "Alimentation des plantes (Plant Nourishment)",
+            "description": "<p>Vous obtenez de quoi vous alimenter de la même manière que le font les plantes ou les champignons qui correspondent à votre type de corps, au travers d'une combinaison de photosynthèse, d'absorbtion des minéraux avec vos racines ou de récupération de matière en décomposition. Vous n'avez pas besoin de payer pour votre nourriture. Si vous dépendez normalement de la photosynthèse et que vous ne  voyez pas la lumière du soleil pendant une semaine, vous commencez à dépérir. Vous pouvez obtenir une alimentation à partir de bouteilles spécialement formulées à base de lumière du soleil au lieu de lumière du soleil naturelle mais ces bouteilles coûtent 10 fois plus que des rations ordinaires (ou 40 pa).</p>"
         },
         {
             "id": "Change Shape (Anadi)",
@@ -127,9 +62,19 @@
             "description": "<p>En tant qu'anadi, vous obtenez la capacité de @Compendium[pf2e.actionspf2e.34E7k2YRcsOU5uyl]{Changement de forme (Anadi)}.</p>"
         },
         {
-            "id": "Bite",
-            "name": "Morsure (Bite)",
-            "description": "<p>Vos dents acérées et vos puissantes mâchoires sont des armes redoutables. Vous disposez d'une attaque à mains nues de mâchoires qui inflige 1d6 dégâts perforants. Vos mâchoires font partie du groupe pugilat.</p>"
+            "id": "Unusual Anatomy",
+            "name": "Anatomie inhabituelle (Unusual Anatomy)",
+            "description": "<p>Votre corps non orthodoxe résiste aux agressions physiques conçus pour l'autres créatures. Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les maladies et les poisons.</p>"
+        },
+        {
+            "id": "Emotionally Unaware",
+            "name": "Émotionnellement non préparé (Emotionally Unaware)",
+            "description": "<p>Vous trouvez qu'il est difficile de comprendre et d'exprimer des émotions complexes. Vous subissez une pénalité de circonstances de –1 aux tests de Diplomatie et de Représentation et aux tests de Perception pour Deviner les intentions.</p>"
+        },
+        {
+            "id": "Fangs",
+            "name": "Crocs (Fangs)",
+            "description": "<p>Vous êtes né avec un moyen naturel de chasser et de vous défendre. Vous obtenez une attaque de crocs à mains nues qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Vos crocs sont dans le groupe pugilat et possèdent le trait finesse et à mains nues.</p>"
         },
         {
             "id": "Low-Light Vision",
@@ -137,19 +82,74 @@
             "description": "<p>Vous pouvez voir dans la lumière faible comme s’il s’agissait de lumière vive. Vous ignorez ainsi l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} dû à la lumière faible.</p>"
         },
         {
+            "id": "Change Shape",
+            "name": "Changer de forme (Change Shape)",
+            "description": "<p>En tant que kitsune, vous obtenez la capcité @Compendium[pf2e.actionspf2e.wwvPiG2kET2rkSAG]{Changer de forme (Kitsune)}.</p>"
+        },
+        {
+            "id": "Swim",
+            "name": "Nage (Swim)",
+            "description": "<p>Les azarketi ont une vitesse de nage de 9 m.</p>"
+        },
+        {
+            "id": "Aquatic Adaptation",
+            "name": "Adaptation aquatique (Aquatic Adaptation)",
+            "description": "<p>Votre biologie reptilienne vous permet de retenir votre souffle pendant très longtemps. Vous obtenez le don général @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Contrôle de la respiration} comme don supplémentaire.</p>"
+        },
+        {
+            "id": "Claws",
+            "name": "Griffes (Claws)",
+            "description": "<p>Vos griffes aiguisées vous offrent une alternative aux poings que d'autres humanoïdes utilisent pour se battre. Vous disposez d'une attaque à mains nues de griffe qui inflige [[/r {1d4}[slashing]]]{1d4 dégâts tranchants} et possède les traits agile et finesse.</p>"
+        },
+        {
+            "id": "Hydration",
+            "name": "Hydratation (Hydration)",
+            "description": "<p>Bien que vous soyez amphibie et autant à l'aise sur terre que dans l'eau, votre corps nécessite que vous retourniez dans les environnements aquatiques au moins une fois par 24 heures. Vous devez vous immerger totalement dans l'eau en vue de réhydrater votre peau acclimatée à l'eau.</p>\n<p>Si vous ne parvenez pas à le faire, votre peau commence à se craqueler et vos ouïes deviennent douloureuses. Après les premières 24 heures hors de l'eau, vous subissez une pénalité de statut de –1 aux jets de Vigueur. Après 48 heures, vous luttez pour respirer de l'air et commencez à suffoquer jusqu'à ce que vous retourniez dans l'eau.</p>\n<p>@Compendium[pf2e.feature-effects.Q5FUu7yhWPJlcXei]{Effet : Hydratation}</p>"
+        },
+        {
+            "id": "Constructed (Poppet)",
+            "name": "Construit (poupée) (Constructed (Poppet))",
+            "description": "<p>Les matériaux de votre corps résistent aux maux qui assaillent la chair. Vous gagnez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de mort, les maladies et le poison ainsi qu'aux jets de sauvegarde contre les effets qui vous donneraient les états Drainé, Paralysé ou Malade. Votre étincelle de vie signifie que vous êtes une créature vivante et que vous pouvez être guéri par l'énergie positive et blessé par l'énergie négative comme à l'ordinaire.</p>"
+        },
+        {
+            "id": "Land on Your Feet",
+            "name": "Sur vos pattes (Land on Your Feet)",
+            "description": "<p>Lorsque vous chutez, vous ne subissez que la moitié des dégâts normaux et vous n'atterrissez pas @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>"
+        },
+        {
+            "id": "Blunt Snout",
+            "name": "Museau court (Blunt Snout)",
+            "description": "<p>Votre museau court et le système labyrinthique de vos sinus vous rendent résistant aux phénomènes qui assaillent vos narines. Lorsque vous lancez un jet de sauvegarde contre les menaces inhalées (comme les poisons inhalés) et les effets olfactifs (comme la puanteur des xulgaths), vous obtenez l'issue d'un degré de mieux que le résultat obtenu sur votre jet de sauvegarde.</p>"
+        },
+        {
+            "id": "Keen Eyes",
+            "name": "Yeux perçants (Keen Eyes)",
+            "description": "<p>Votre vue perçante vous permet de distinguer des détails concernant des créatures masquées ou invisibles que d’autres pourraient ne pas remarquer. Vous gagnez un bonus de circonstances de +2 quand vous utilisez l’action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour trouver des créatures @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachées} ou @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectées} dans un rayon de 9 m autour de vous. Quand vous prenez pour cible un adversaire @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} ou Caché, réduisez le DD du test nu à 3 pour une cible masquée ou à 9 pour une cible cachée.</p>"
+        },
+        {
             "id": "Constructed",
             "name": "Construit (Constructed)",
             "description": "<p>Votre corps synthétique résiste aux affections mieux que les organismes purement biologiques. Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les maladies, les poisons et les radiations.</p>"
         },
         {
-            "id": "Draconic Exemplar",
-            "name": "Modèle draconique (Draconic Exemplar)",
-            "description": "<p>Vous tirez de votre modèle draconique des pouvoirs mineurs. Choisissez un type de dragon chromatique ou métallique comme étant votre modèle. Cela détermine la couleur de vos écailles et votre apparence. Les dragons voient parfois plus favorablement ceux des kobolds qui leur ressemblent à la discrétion du MJ. Votre modèle peut aussi déterminer les détails d'autres capacités que vous possédez, en utilisant la table des modèles draconiques ci-après.</p>\n<h3><strong>Table des Modèles draconiques</strong></h3>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Dragon</th>\n<th>Forme du Souffle</th>\n<th>Type de Dégâts</th>\n<th>Jet de sauvegarde</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Airain</td>\n<td>Ligne</td>\n<td>Feu</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Argent</td>\n<td>Cône</td>\n<td>Froid</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Blanc</td>\n<td>Cône</td>\n<td>Froid</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Bleu</td>\n<td>Ligne</td>\n<td>Électricité</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Bronze</td>\n<td>Ligne</td>\n<td>Électricité</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Cuivre</td>\n<td>Ligne</td>\n<td>Acide</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Noir</td>\n<td>Ligne</td>\n<td>Acide</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Or</td>\n<td>Cône</td>\n<td>Feu</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Rouge</td>\n<td>Cône</td>\n<td>Feu</td>\n<td>Réflexes</td>\n</tr>\n<tr>\n<td>Vert</td>\n<td>Cône</td>\n<td>Poison</td>\n<td>Vigueur</td>\n</tr>\n</tbody>\n</table>"
+            "id": "Bite",
+            "name": "Morsure (Bite)",
+            "description": "<p>Vos dents acérées et vos puissantes mâchoires sont des armes redoutables. Vous disposez d'une attaque à mains nues de mâchoires qui inflige 1d6 dégâts perforants. Vos mâchoires font partie du groupe pugilat.</p>"
         },
         {
-            "id": "Magical Strikes",
-            "name": "Frappes magiques (Magical Strikes)",
-            "description": "<p>Votre magie intrinsèque se répand dans votre être tout entier. Toutes vos Frappes sont magiques, qu'il s'agisse des Frappes à mains nues ou avec armes.</p>"
+            "id": "Flammable",
+            "name": "Inflammable (Flammable)",
+            "description": "<p>Vous avez une faiblesse aux dégats de feu égal à un tiers de votre niveau (minimum 1).</p>"
+        },
+        {
+            "id": "Eyes in Back",
+            "name": "Yeux dans le dos (Eyes in Back)",
+            "description": "<p>Vous avez des yeux qui pointent dans plusieurs directions à la fois et vous remarquez instinctivement les mouvements à la périphérie de votre vision. Lorsque vous utilisez l'action de base Chercher, vous pouvez chercher des créatures dans deux zones au lieu d'une. Si la précision est nécessaire, vous pouvez sélectionner deux @Template[type:cone|distance:30]{cônes de 9 m} ou deux @Template[type:burst|distance:15]{explosions de 4,5 m} dans votre ligne de mire au lieu d'un seul.</p>"
+        },
+        {
+            "id": "Sharp Beak",
+            "name": "Bec aiguisé (Sharp Beak)",
+            "description": "<p>Avec votre bec aiguisé, vous n'êtes jamais dépourvu d'une arme. Vous disposez d'une attaque à mains nues de bec qui inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants}. Votre bec est dans le groupe d'arme pugilat et possède les traits finesse et à mains nues.</p>"
         }
     ],
     "mapping": {

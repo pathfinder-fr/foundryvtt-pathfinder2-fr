@@ -1,9 +1,10 @@
 # État de la traduction (feature-effects)
 
- * **aucune**: 58
+ * **aucune**: 59
+ * **vide**: 7
 
 
-Dernière mise à jour: 2022-02-09 19:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -47,6 +48,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-OqH6IaeOwRWkGPrk.htm](feature-effects/01-OqH6IaeOwRWkGPrk.htm)|Effect: Shadow Blood Magic (Stealth)|
 |[01-Osr01ZmGZNdArXyT.htm](feature-effects/01-Osr01ZmGZNdArXyT.htm)|Effect: Major Bones Curse|
 |[01-OzA7pUzYe2ZIprYJ.htm](feature-effects/01-OzA7pUzYe2ZIprYJ.htm)|Effect: Major Martial Ancestor Curse|
+|[01-pQ3EjUm1lZW9t3el.htm](feature-effects/01-pQ3EjUm1lZW9t3el.htm)|Effect: Battle Curse|
 |[01-PX6WdrpzEdUzKRHx.htm](feature-effects/01-PX6WdrpzEdUzKRHx.htm)|Effect: Enduring Debilitating Strike|
 |[01-Q5FUu7yhWPJlcXei.htm](feature-effects/01-Q5FUu7yhWPJlcXei.htm)|Effect: Hydration|
 |[01-rhG0ZcTBxfxGve5k.htm](feature-effects/01-rhG0ZcTBxfxGve5k.htm)|Effect: Major Lore Curse|
@@ -68,6 +70,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-z3uyCMBddrPK5umr.htm](feature-effects/01-z3uyCMBddrPK5umr.htm)|Effect: Rage|
 |[01-zYKkObDPVRQOtwPh.htm](feature-effects/01-zYKkObDPVRQOtwPh.htm)|Effect: Minor Lore Curse|
 |[09-HfXGhXc9D120gvl5.htm](feature-effects/09-HfXGhXc9D120gvl5.htm)|Effect: Celestial Wings|
+
+## Liste des éléments vides ne pouvant pas être traduits
+
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|:----:|
+|[01-6fObd480rDBkFwZ3.htm](feature-effects/01-6fObd480rDBkFwZ3.htm)|Effect: Bones Curse|vide|
+|[01-EtFMN1ZLkL7sUk01.htm](feature-effects/01-EtFMN1ZLkL7sUk01.htm)|Effect: Life Curse|vide|
+|[01-hqeR9faxHj0NDFFP.htm](feature-effects/01-hqeR9faxHj0NDFFP.htm)|Effect: Flames Oracle|vide|
+|[01-I0g5oaSwaqZ8fFAV.htm](feature-effects/01-I0g5oaSwaqZ8fFAV.htm)|Effect: Tempest Curse|vide|
+|[01-rwDsr5XsrYcH7oFT.htm](feature-effects/01-rwDsr5XsrYcH7oFT.htm)|Effect: Cosmos Curse|vide|
+|[01-Tju9kpQlwcKkyKor.htm](feature-effects/01-Tju9kpQlwcKkyKor.htm)|Effect: Lore Curse|vide|
+|[01-V6lnFOq998B76Rr0.htm](feature-effects/01-V6lnFOq998B76Rr0.htm)|Effect: Ancestor Curse|vide|
 
 ## Liste des traductions complétés
 

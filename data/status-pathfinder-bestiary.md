@@ -1,11 +1,11 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **changé**: 331
- * **officielle**: 101
+ * **changé**: 332
+ * **officielle**: 100
  * **aucune**: 36
 
 
-Dernière mise à jour: 2022-02-09 19:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -208,6 +208,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[J0dSbywBRgD2kf19.htm](pathfinder-bestiary/J0dSbywBRgD2kf19.htm)|Giant Wasp|Guêpe géante|changé|
 |[j0gCguJx3ILB1j9o.htm](pathfinder-bestiary/j0gCguJx3ILB1j9o.htm)|Soulbound Doll (Chaotic Good)|Poupée d'âme (Chaotique bon)|changé|
 |[j1mm6bb3hZ56jSrK.htm](pathfinder-bestiary/j1mm6bb3hZ56jSrK.htm)|Grig|Grig (Esprit follet)|changé|
+|[j7NNPfZwD19BwSEZ.htm](pathfinder-bestiary/j7NNPfZwD19BwSEZ.htm)|Unseen Servant|Serviteur invisible|changé|
 |[jeAGl6OAVrrIPgu3.htm](pathfinder-bestiary/jeAGl6OAVrrIPgu3.htm)|Hell Hound|Molosse infernal|changé|
 |[Jgh0WGVetNXi5jlM.htm](pathfinder-bestiary/Jgh0WGVetNXi5jlM.htm)|Quatoid|Quatoïde (Élémentaire, eau)|changé|
 |[JhQGNMlKARMx1n2D.htm](pathfinder-bestiary/JhQGNMlKARMx1n2D.htm)|Adult Red Dragon|Dragon rouge adulte (Chromatique)|changé|
@@ -436,7 +437,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ImueS9YFhV6sxqBP.htm](pathfinder-bestiary/ImueS9YFhV6sxqBP.htm)|Marilith|Marilith (Démon)|officielle|
 |[irrXrWxJ0LYSUCQB.htm](pathfinder-bestiary/irrXrWxJ0LYSUCQB.htm)|Adult Black Dragon|Dragon noir adulte (Chromatique)|officielle|
 |[Ix1PziAEk9IIMYBz.htm](pathfinder-bestiary/Ix1PziAEk9IIMYBz.htm)|Zombie Brute|Brute zombie|officielle|
-|[j7NNPfZwD19BwSEZ.htm](pathfinder-bestiary/j7NNPfZwD19BwSEZ.htm)|Unseen Servant|Serviteur invisible|officielle|
 |[jGzVwekcRX5aQpbT.htm](pathfinder-bestiary/jGzVwekcRX5aQpbT.htm)|Goblin Commando|Commando Gobelin|officielle|
 |[JiThbhDfjUoPaTP1.htm](pathfinder-bestiary/JiThbhDfjUoPaTP1.htm)|Baomal|Baomal|officielle|
 |[JkBJ8B07ElXrfDaG.htm](pathfinder-bestiary/JkBJ8B07ElXrfDaG.htm)|Boggard Warrior|Guerrier bourbiérin|officielle|

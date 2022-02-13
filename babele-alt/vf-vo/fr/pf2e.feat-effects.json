@@ -1,6 +1,222 @@
 {
     "label": "Effets des dons",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Stance: Shooting Stars Stance",
+            "name": "Posture : Posture des étoiles lancées (Stance: Shooting Stars Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.6cQSPqXoAO6oJl0i]{Posture des étoiles lancées}</p>\n<p>Vous prenez une posture qui vous permet de lancer des @Compendium[pf2e.equipment-srd.fjkwYZ0hRmBztwBG]{Shuriken} avec la rapidité de l'éclair.</p>\n<p>Dans cette posture, vous pouvez utiliser vos dons de moine ou capacités de moine qui nécessitent normalement des attaques à mains nues avec les shuriken à la place.</p>"
+        },
+        {
+            "id": "Effect: Forest Endemic Herbs",
+            "name": "Effet : Herbes endémiques Forêt (Effect: Forest Endemic Herbs)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Obtient un bonus de circonstances de +2 aux jets de sauvegarde contre les effets de la maladie et du poison.</p>"
+        },
+        {
+            "id": "Stance: Whirling Blade Stance",
+            "name": "Posture : Posture de la lame tournoyante (Stance: Whirling Blade Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.IaiEZaA8erufMUCr]{Posture de la lame tournoyante}</p>\n<p>Vous prenez une posture attentive qui crée un lien puissant entre vous et vos armes de moine, vous permettant de les manipuler avec votre ki même à une certaine distance.</p>\n<p>Toutes les armes de moine au corps-à-corps que vous maniez possédant le trait finesse obtiennent le trait lancer 3 mètres (sauf si elles bénéficient déjà du trait lancer avec une portée supérieure).</p>\n<p>Une fois que vous avez porté une Frappe de lancer avec une telle arme, vous pouvez utiliser la précision de votre lancer pour porter des Frappes supplémentaires avec elle, même à distance. Partez de la case de la cible précédente de votre Frappe pour déterminer le facteur de portée et si la nouvelle cible bénéficie d'un abri. À la fin de votre tour, l'arme lancée vole directement vers vous en ligne droite. Si une barrière solide bloque sa route, elle tombe au sol après avoir touché la barrière.</p>"
+        },
+        {
+            "id": "Stance: Crane Stance",
+            "name": "Posture : Posture de la grue (Stance: Crane Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.bf7NCeKqDClaqhTR]{Posture de la grue}</p>\n<p>Vous prenez la posture d’une grue, ce qui signifie que vous étendez vos bras comme les ailes de cet oiseau et que vous vous défendez en faisant des gestes fluides.</p>\n<p>Vous bénéficiez d’un bonus de circonstances de +1 à la CA mais les seules Frappes que vous pouvez faire sont des attaques d’aile de grue. Ces attaques infligent 1d6 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits agile, finesse, mains nues et non létal.</p>\n<p>Tant que vous gardez cette posture, réduisez de 5 le DD de vos @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Sauts en hauteur} et @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Saut en longueur} et, quand vous  @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bondissez}, vous ajoutez 1,50 mètres à la longueur ou 60 centimètres à la hauteur.</p>"
+        },
+        {
+            "id": "Effect: Plains Endemic Herbs",
+            "name": "Effet : Herbes endémiques Plaine (Effect: Plains Endemic Herbs)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Obtient un bonus de circonstances de +1 aux jets de Volonté.</p>"
+        },
+        {
+            "id": "Stance: Monastic Archer Stance",
+            "name": "Posture : Posture de l'archer monastique (Stance: Monastic Archer Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.YG2RxXE9SMfwo6wP]{Posture de l'archer monastique}</p>\n<p>Vous entrez dans une posture particulière à un art martial unique centré sur l'utilisation d'un arc. Lorsque vous adoptez cette posture, les seules Frappes que vous pouvez faire sont celles qui utilisent les arcs longs, les arcs courts ou les arcs avec le trait moine.</p>\n<p>Vous pouvez utiliser @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Déluge de coups} avec ces arcs. Vous pouvez utiliser vos autres dons de moine ou capacités de moine qui nécessitent en principe des attaques à mains nues avec ces arcs lorsque vous attaquez à une portée correspondant à la moitié du premier facteur de portée (en principe 15 mètres pour un arc long et 9 mètres pour un arc court), tant que le don ou la capacité ne nécessite par une Frappe unique spécifique.</p>"
+        },
+        {
+            "id": "Stance: Ironblood Stance",
+            "name": "Posture : Posture du sang-de-fer (Stance: Ironblood Stance)",
+            "description": "<p>Granted by @Compendium[pf2e.feats-srd.x9cYkB8DrUBBwqJd]{Posture du sang-de-fer}</p>\n<p>Vous prenez la posture du fer impénétrable, en refusant de céder sous les coups. Vous pouvez faire des attaques à mains nues de balayage de fer. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits balayage, mains nues, non létal et parade.</p>\n<p>Tant que vous gardez la Posture du sang-de-fer, vous bénéficiez d’une résistance 2 à tous les dégâts. La résistance passe à 3 au niveau 12, 4 au niveau 16 et 5 au niveau 20.</p>\n<p>@Compendium[pf2e.equipment-effects.fRlvmul3LbLo2xvR]{Effet : Parade}</p>"
+        },
+        {
+            "id": "Effect: Inspiring Marshal Stance",
+            "name": "Effet : Posture du Capitaine inspirant (Effect: Inspiring Marshal Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.bvOsJNeI0ewvQsFa]{Posture du Capitaine inspirant}</p>\n<p>L'aura de votre Capitaine vous accorde un bonus de +1 aux jets d'attaque et de sauvegarde contre les effets mentaux.</p>"
+        },
+        {
+            "id": "Stance: Rain of Embers Stance",
+            "name": "Posture : Posture de la pluie de charbons ardents (Stance: Rain of Embers Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.rbiMK71SvGZGRLJ1]{Posture de la pluie de charbons ardents}</p>\n<p>Vous entrez dans la posture du phénix enragé, faisant de vos doigts des ergots aussi rigides que mortels en les déplaçant avec de rapides, et virevoltants gestes qui virevoltent avec des flammes dansantes. Les seules Frappes que vous pouvez faire sont des frappes d'ergots de feu. Elles infligent 1d4 dégâts de feu ; sont dans le groupe pugilat ; et ont les traits agile, finesse, feu, non-létal et mains nues.</p>\n<p>Tant que vous gardez la Posture des charbons ardents, vous obtenez un bonus de statut de +1 à la CA et une résistance au feu de 1 + la moitié de votre niveau (minimum 1).</p>"
+        },
+        {
+            "id": "Effect: Arctic Endemic Herb",
+            "name": "Effet : Herbes endémiques Arctique (Effect: Arctic Endemic Herb)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Pendant 1 heure, traitez les effets de froid liés à l'environnement comme s'ils étaient d'un degré de sévérité inférieur.</p>"
+        },
+        {
+            "id": "Stance: Clinging Shadows Stance",
+            "name": "Posture : Posture des ombres tenaces (Stance: Clinging Shadows Stance)",
+            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.uJXs4M6IeixfPBLc]{Posture des ombres tenaces}</em></p>\n<p>Vous adoptez la posture des ombres tenaces. Vous pouvez faire des @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} de la prise de l'ombre. Elles infligent[[/r {1d4}[negative]]]{1d4 dégâts négatifs}  ; elles sont dans le groupe pugilat ; elles possèdent les traits à mains nues, agile, allonge et saisir.</p>\n<p>Lorsque vous êtes dans cette posture des ombres tenaces, vous obtenez un bonus de circonstances de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} et au DD lorsque les créatures tentent de vous @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper}.</p>"
+        },
+        {
+            "id": "Stance: Disarming Stance",
+            "name": "Posture : Posture désarmante (Stance: Disarming Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.1p5ErCp33nGOzEsk]{Posture désarmante}.</p>\n<p>Vous bénéficiez d’un bonus de circonstances de +1 aux tests d’Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}.</p>"
+        },
+        {
+            "id": "Stance: Tiger Stance",
+            "name": "Posture : Posture du tigre (Stance: Tiger Stance)",
+            "description": "<p>Granted by @Compendium[pf2e.feats-srd.VCjAlOvjNvFJOsG5]{Tiger Stance}</p>\n<p>Vous prenez la posture d’un tigre et pouvez faire des attaques de griffe de tigre. Ces attaques infligent 1d8 dégâts tranchants, elles font partie du groupe pugilat et possèdent les traits agile, finesse, mains nues et non létal.</p>\n<p>En cas de succès critique avec vos griffes de tigre, si vous infligez des dégâts, la cible subit [[/r {1d4}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d4 dégâts de saignement persistants}.</p>\n<p>Tant que votre Vitesse s’élève à 6 mètres au moins en gardant cette posture, vous pouvez Faire un pas de 3 mètres.</p>"
+        },
+        {
+            "id": "Stance: Cobra Stance (Cobra Envenom)",
+            "name": "Posture : Posture du cobra (Stance: Cobra Stance (Cobra Envenom))",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.AkV4Jyllo6nlK2Sl]{Posture du cobra} si vous avez @Compendium[pf2e.feats-srd.xQuNswWB3eg1UM28]{Venin du cobra}, qui augmente le bonus de circonstance aux jets de sauvegarde Vigueur et augmente le DD Vigueur à +2.</p>\n<p>Vous prenez une posture tendue en spirale comme celle du cobra dressé avec vos mains prêtes comme des crochets venimeux.</p>\n<p>Dans cette posture, Les seules Frappes que vous pouvez faire sont les attaques à mains nues des crochets du cobra. Elles infligent 1d4 dégâts de poison ; elles sont dans le groupe pugilat ; elles possèdent les traits à mains nues, agile, finesse, mortel d10, non-létal et poison.</p>\n<p>Dans la posture du Cobra, vous obtenez un bonus de circonstances de +2 aux jets de Vigueur, au DD de Vigueur et vous obtenez une résistance au poison égale à la moitié de votre niveau.</p>"
+        },
+        {
+            "id": "Effect: Aquatic Endemic Herbs",
+            "name": "Effet : Herbes endémiques Aquatique (Effect: Aquatic Endemic Herbs)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Obtient un bonus de circonstances de +1 aux jets de Vigueur.</p>"
+        },
+        {
+            "id": "Stance: Dueling Dance",
+            "name": "Posture : Danse en duel (Stance: Dueling Dance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.9VGmE7X4aK2W8YWj]{Danse en duel (Bretteur)} ou @Compendium[pf2e.feats-srd.FYz5eQeTox9IDkSd]{Danse en duel (Guerrier))}</p>\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li> Bonus de circonstance de +2 à a CA</li>\n</ul>"
+        },
+        {
+            "id": "Stance: Jellyfish Stance",
+            "name": "Posture : Posture de la méduse (Stance: Jellyfish Stance)",
+            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous relâchez votre posture et détendez vos articulations, vous permettant de vous déplacer avec une incroyable fluidité. Vous pouvez porter des attaques de tentacules urticantes qui infligent 1d8 dégâts tranchants. Ces attaques sont dans le groupe pugilat et possèdent les trait finesse, non létal, allonge et à mains nues.</p>\n<p>Tant que vous êtes dans la posture de la méduse, vous obtenez un bonus de circonstance de +2 aux jets de Réflexes et sur les tests pour s'@Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper} et @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Se faufiler}.</p>"
+        },
+        {
+            "id": "Stance: Sky and Heaven Stance",
+            "name": "Posture : Posture du Ciel et du Paradis (Stance: Sky and Heaven Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.UjEeHamC2C8JfgJz]{Posture du Ciel et du Paradis}</p>\n<p>Vous prenez une posture perfectionnée par les champions du passé du Défi du Ciel et du Paradis, vous permettant de porter des Frappes irrégulières comme des éclairs qui traversent le ciel. Les seules Frappes que vous faites sont des attaques à mains nues entailles vers le ciel. Ces attaques à mains nues infligent 1d10 dégâts tranchants ; ces coups sont dans le groupe pugilat ; et possèdent les trait à mains nues, non-létal et Polyvalent P.</p>\n<p>Tant que vous prenez la Posture du Ciel et du Paradis, vous obtenez une résistance de 2 aux dégâts d'électricité et aux dégâts de son. Ces résistances passent à 5 au niveau 12 et à 8 au niveau 18.</p>"
+        },
+        {
+            "id": "Stance: Peafowl Stance",
+            "name": "Posture : Posture du paon (Stance: Peafowl Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.C3MgEkPNaIhTddbr]{Posture du paon}</p>\n<p>Vous adoptez une posture fière en vous dressant tout en restant mobile avec toute la grâce et le sang froid d'un paon.</p>\n<p>Dans cette posture, les seules Frappes que vous pouvez porter sont des Frappes au corps-à-corps avec l'épée requise. Une fois par round, après que vous ayez touché avec une Frappe portée avec l'épée ayant le trait moine, vous pouvez @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faire un pas} comme prochaine action en utilisant une action libre.</p>"
+        },
+        {
+            "id": "Stance: Six Pillars Stance",
+            "name": "Posture: Posture des six piliers (Stance: Six Pillars Stance)",
+            "description": "<p>@Compendium[pf2e.feats-srd.hT0pVPqFuiEsmRb8]{Posture des six piliers}</p>\n<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<p>Vous vous tenez fermement, endurcissant votre esprit et votre corps, ce qui vous permet d'utiliser votre magie sans être perturbé. Lorsque vous êtes dans cette posture, vous gagnez un bonus de circonstances de +4 à la CA contre les réactions déclenchées par l'utilisation d'actions avec les traits Concentration ou Manipulation. De plus, lorsque vous lancez un sort qui nécessite une ou plusieurs actions alors que vous êtes dans cette posture, vos frappes à mains nues bénéficient d'un bonus de circonstances de +1 aux dégâts.</p>"
+        },
+        {
+            "id": "Stance: Wild Winds Stance",
+            "name": "Posture : Posture des vents violents (Stance: Wild Winds Stance)",
+            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.SkarN4VlNxSJSJNw]{Posture des vents violents}</em></p>\n<p>Vous prenez la posture des vents impétueux qui vous permettent de projeter des vagues d’énergie à distance. Vous pouvez effectuer des Frappes à mains nues de coup de vent en guise de Frappes à distance contre des cibles à 9 mètres ou moins. Ces attaques infligent 1d6 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits agile, mains nues, non létal et propulsif. Les Frappes de coup de vent ignorent les camouflages et tous les abris.</p>\n<p>Tant que vous gardez la posture des vents violents, vous bénéficiez d’un bonus de circonstances de +2 à la CA contre les attaques à distance.</p>"
+        },
+        {
+            "id": "Stance: Wolf Stance",
+            "name": "Posture : Posture du loup (Stance: Wolf Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.AN9jY1JVcU20Qdw6]{Posture du loup}</p>\n<p>Vous prenez la posture d’un loup, le corps près du sol et les doigts courbés tels de longs crocs. Vous pouvez faire des attaques à mains nues de mâchoire de loup. Ces attaques infligent 1d8 dégâts perforants, elles font partie du groupe pugilat et possèdent les traits agile, mains nues, non létal et traître. Si vous prenez en tenaille une cible en étant dans cette posture, vos attaques à mains nues de mâchoire de loup obtiennent également le trait croc‑en‑jambe.</p>"
+        },
+        {
+            "id": "Stance: Gorilla Stance",
+            "name": "Posture : Posture du gorille (Stance: Gorilla Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.DqD7htz8Sd1dh3BT]{Posture du gorille}</p>\n<p>Vous vous baissez jusqu'à toucher le sol et prenez une posture imposante en marchant sur vos poignets.</p>\n<p>Lorque vous êtes dans cette posture, Les seules Frappes que vous pouvez porter sont des attaques à mains nues de coups du gorille. Elles infligent 1d8 dégâts contondants; elles sont dans le groupe pugilat et possèdent les traits à mains nues, prise d'élan, percutant, saisir et non-létal.</p>\n<p>Lorsque vous êtes dans la Posture du gorille, vous obtenez un bonus de circonstances de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimper} et si vous obtenez une réussite sur un test d'Athlétisme pour Grimper, vous obtenez une réussite critique à la place.</p>"
+        },
+        {
+            "id": "Stance: Everstand Stance",
+            "name": "Posture : Posture toujours en position (Stance: Everstand Stance)",
+            "description": "<p>Dans cette posture, vous tenez le bouclier avec vos deux mains. Lorsque vous le tenez de cette façon, vous augmentez le dé de dégât de l'embossement ou des piques du bouclier d'une catégorie et vous augmentez la Solidité du bouclier de 2 lorsque vous utilisez la réaction @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier}.</p>"
+        },
+        {
+            "id": "Stance: Multishot Stance",
+            "name": "Posture : Posture de tirs multiples (Stance: Multishot Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.RzhnxgiAopWILCvs]{Posture de tirs multiples}.</p>\n<p>Tant que vous gardez cette posture, votre malus de @Compendium[pf2e.feats-srd.PwcmmJOLY8C9JHau]{Double tir} est réduit à −1, ou à −2 si vous ajoutez l’action supplémentaire pour effectuer trois Frappes. Vous quittez cette posture si vous vous déplacez.</p>"
+        },
+        {
+            "id": "Effect: Underground Endemic Herbs",
+            "name": "Effet : Herbes endémiques Souterrains (Effect: Underground Endemic Herbs)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Obtient un bonus de circonstances de +1 à la Perception.</p>"
+        },
+        {
+            "id": "Stance: Tangled Forest Stance",
+            "name": "Posture : Posture de la forêt enchevêtrée (Stance: Tangled Forest Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.2tUdsoPEnW9yS8so]{Posture e la forê^t enchevêtrée}</p>\n<p>Vous tendez vos bras, telles des branches noueuses, pour gêner les déplacements de vos adversaires. Vous pouvez faire des attaques à mains nues de branche cinglante. Ces attaques infligent 1d8 dégâts tranchants ; elles font partie du groupe pugilat et possèdent les traits agile, finesse, mains nues et non létal. Tant que vous gardez cette posture et que vous pouvez agir, chaque ennemi dans votre zone d’allonge qui tente de s’éloigner doit réussir un jet de Réflexes, un test d’Acrobaties ou un test d’Athlétisme contre votre DD de classe ou être @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} à cause de cette action. Vous pouvez également laisser l’ennemi se déplacer si vous préférez.</p>"
+        },
+        {
+            "id": "Stance: Cobra Stance",
+            "name": "Posture : Posture du Cobra (Stance: Cobra Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.AkV4Jyllo6nlK2Sl]{Posture du Cobra}</p>\n<p>Vous prenez une posture tendue en spirale comme celle du cobra dressé avec vos mains prêtes comme des crochets venimeux.</p>\n<p>Dans cette posture, Les seules Frappes que vous pouvez faire sont les attaques à mains nues des crochets du cobra. Elles infligent 1d4 dégâts de poison ; elles sont dans le groupe pugilat ; elles possèdent les traits à mains nues, agile, finesse, mortel d10, non-létal et poison.</p>\n<p>Dans la posture du Cobra, vous obtenez un bonus de circonstances de +1 aux jets de Vigueur, au DD de Vigueur et vous obtenez une résistance au poison égale à la moitié de votre niveau.</p>"
+        },
+        {
+            "id": "Stance: Stoked Flame Stance",
+            "name": "Posture : Posture de la flamme ravivée (Stance: Stoked Flame Stance)",
+            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous adoptez une posture de déplacements rapides et fougueux. Vous pouvez faire des attaques d'étincelles qui infligent [[/r 1d8 #tranchants]]{1d8 dégâts tranchants}. Cette attaque est dans le groupe pugilat et possède les traits percutant, non-létal, balayage et à mains nues. Si vous avez accès à l'effet de critique spécialisé des étincelles, vous pouvez utiliser un effet alternatif à la place : si votre Frappe critique a infligé des dégâts, la cible subit 1d6 dégâts de feu persistants.</p>\n<p>Tant que vous êtes dans la posture de la flamme ravivée, vous obtenez un bonus de statut de +1,5 mètres à votre Vitesse bonus. Si vous avez Déplacement extraordinaire, augmentez les avantages de Déplacement extraordinaire à un bonus de statut de +4,5 mètres plus 1,5 mètres pour chaque tranche de 4 niveaux au-delà du niveau 3.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don obtient à votre choix le trait divin ou occulte, en épousant votre tradition de sort ki si c'est possible.</p>"
+        },
+        {
+            "id": "Stance: Point-Blank Shot",
+            "name": "Posture : Tir à bout portant (Stance: Point-Blank Shot)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.Yl2wYv24v5kw95aS]{Tir à bout portant}.</p>\n<p>Quand vous utilisez une arme à distance de volée dans cette posture, vous ne subissez pas le malus du trait volée sur vos jets d’attaque et vous bénéficiez d’un bonus de circonstances de +2 aux jets de dégâts sur les attaques contre des cibles situées à une distance inférieure ou égale au premier facteur de portée de l’arme.</p>"
+        },
+        {
+            "id": "Stance: Paragon's Guard",
+            "name": "Posture : Protection du Parangon (Stance: Paragon's Guard)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.hPDerDCYmag3s0dP]{Protection du Parangon}.</p>\n<p><strong>Conditions</strong> Vous maniez un bouclier</p>\n<hr />\n<p>Après avoir pris quelques instants pour prendre cette posture, votre bouclier est toujours en position sans même y penser. Tant que vous gardez cette posture, votre bouclier est constamment levé, comme si vous aviez utilisé l’action @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Lever un bouclier}, aussi longtemps que vous remplissez les conditions de cette action.</p>"
+        },
+        {
+            "id": "Stance: Stumbling Stance",
+            "name": "Posture : Posture chancelante (Stance: Stumbling Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.7FRYyKXDKjGoANYj]{Posture chancelante}</p>\n<p>Vous adoptez une posture apparemment décontractée qui imite les mouvements de l'ivrogne, mouvante, laissant de fausses ouvertures et distrayant vos ennemis de vos mouvements véritables.</p>\n<p>Dans cette posture, vous obtenez un bonus de circonstances à vos tests de Duperie pour @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter}. Les seules Frappes que vous pouvez porter sont des attaques à mains nues de coups chancelants. Elles infligent [[/r 1d8 #contondants]] dégâts contondants ; sont dans le groupe pugilat ; Elles ont les traits à mains nues, agile, finesse, non-létal et traître.</p>\n<p>Si un ennemi vous touche avec une Frappe au corps-à-corps alors que vous êtes dans cette posture, il devient @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} contre le prochain coup chancelant que vous lui portez avant la fin de votre prochain tour.</p>"
+        },
+        {
+            "id": "Effect: Overdrive (Critical Success)",
+            "name": "Effet : Surrégime (Succès critique) (Effect: Overdrive (Critical Success))",
+            "description": "<p>Vos engins entrent dans un état d'efficacité incroyable appelé surrégime critique, ajoutant une grande puissance à vos attaques. Vos Frappes infligent des dégâts supplémentaires égaux à votre modificateur d'Intelligence pendant une minute. À la suite du surrégime, vos gadgets deviennent inutilisables car ils se refroidissent ou se réinitialisent et vous ne pouvez plus utiliser le surrégime pendant une minute.</p>"
+        },
+        {
+            "id": "Stance: Mountain Stance (Mountain Quake)",
+            "name": "Posture : Posture de la montagne (Tremblement de la montagne) (Stance: Mountain Stance (Mountain Quake))",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Posture de la montagne} si vous avez @Compendium[pf2e.feats-srd.hO4sKslTrSQMLbGx]{Tremblement de la montagne}, qui augmente votre modificateur Dex Max de +2 à votre CA.</p>\n<p>Vous prenez la posture implacable d’une montagne, une technique découverte par des moines nains, ce qui vous permet de frapper aussi violemment qu’une avalanche.</p>\n<p>Les seules Frappes que vous pouvez faire sont des attaques à mains nues de chute de pierre. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits mains nues, non létal et percutant.</p>\n<p>Tant que vous gardez cette posture, vous bénéficiez d’un bonus de statut de +4 à la CA et d’un bonus de circonstances de +2 à vos défenses si l’on tente de vous Pousser ou de vous faire un Croc-en-jambe.</p>\n<p>Vous avez toutefois un bonus de Dextérité maximal à votre CA de +2, ce qui signifie que vous n’ajoutez pas votre modificateur de Dextérité à votre CA et vos Vitesses sont toutes réduites de 1,50 mètres. Le bonus d'objet à la CA de Posture de la montagne se cumule avec les runes de puissance d'armure de vos @Compendium[pf2e.equipment-srd.dDIPA1WE9ESF67EB]{Vêtements d'explorateur}, <em>@Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Armure de mage}</em> et les bracelets d'armure.</p"
+        },
+        {
+            "id": "Stance: Mountain Stance",
+            "name": "Posture : Posture de la Montagne (Stance: Mountain Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Posture de la montagne}</p>\n<p>Vous prenez la posture implacable d’une montagne, une technique découverte par des moines nains, ce qui vous permet de frapper aussi violemment qu’une avalanche. Les seules Frappes que vous pouvez faire sont des attaques à mains nues de chute de pierre. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits mains nues, non létal et percutant.</p>\n<p>Tant que vous gardez cette posture, vous bénéficiez d’un bonus de statut de +4 à la CA et d’un bonus de circonstances de +2 à vos défenses si l’on tente de vous Pousser ou de vous faire un Croc-en-jambe. Vous avez toutefois un bonus de Dextérité maximal à votre CA de +0, ce qui signifie que vous n’ajoutez pas votre modificateur de Dextérité à votre CA et vos Vitesses sont toutes réduites de 1,50 mètres. Le bonus d'objet à la CA de Posture de la montagne se cumule avec les runes de puissance d'armure de vos @Compendium[pf2e.equipment-srd.dDIPA1WE9ESF67EB]{Vêtements d'explorateur}, <em>@Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Armure de mage}</em> et les bracelets d'armure.</p>"
+        },
+        {
+            "id": "Stance: Dragon Stance",
+            "name": "Posture : Posture du dragon (Stance: Dragon Stance)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.8sy3sHwOHS4ImwvJ]{Posture du dragon}</p>\n<p>Vous prenez la posture d’un dragon et faites de redoutables balayages avec vos jambes, tel un dragon avec sa queue. Vous pouvez faire des attaques de queue de dragon qui infligent 1d10 dégâts contondants. Ces attaques font partie du groupe pugilat et possèdent les traits mains nues, non létal et prise d’élan.</p>\n<p>Tant que vous gardez cette posture, vous ignorez la première case de terrain difficile lorsque vous Marchez rapidement.</p>"
+        },
+        {
+            "id": "Effect: Tiller's Drive",
+            "name": "Effet : Conduite du Laboureur (Effect: Tiller's Drive)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.Wo0HNBh6CCgPN3Co]{Tiller's Drive}</p>\n<p>Les Membres de votre récolte reçoivent un bonus de circonstances de +1,5 mètres à leur Vitesse.</p>"
+        },
+        {
+            "id": "Effect: Desert Endemic Herbs",
+            "name": "Effet : Herbes endémiques Désert (Effect: Desert Endemic Herbs)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Pendant 1 heure, traitez les effets de châleur liés à l'environnement comme s'ils étaient d'un degré de sévérité inférieur.</p>"
+        },
+        {
+            "id": "Effect: Mountain Endemic Herbs",
+            "name": "Effet : Herbes endémiques Montagnes (Effect: Mountain Endemic Herbs)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Obtient un bonus de circonstances de +1 aux jets de Réflexes.</p>"
+        },
+        {
+            "id": "Stance: Gorilla Stance (Gorilla Pound)",
+            "name": "Posture : Posture du gorille (Martèlement du gorille) (Stance: Gorilla Stance (Gorilla Pound))",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.DqD7htz8Sd1dh3BT]{Posture du gorille} si vous avez @Compendium[pf2e.feats-srd.nRjyyDulHnP5OewA]{Battement du gorille}, qui vous accorde une vitesse d'escalade de 4,5 mètres quand vous êtes dans cette posture.</p>\n<p>Lorsque vous êtes dans cette posture, Les seules Frappes que vous pouvez porter sont des attaques à mains nues de coups du gorille. Elles infligent 1d8 dégâts contondants; elles sont dans le groupe pugilat et possèdent les traits à mains nues, prise d'élan, percutant, saisir et non-létal.</p>\n<p>Lorsque vous êtes dans la Posture du gorille, vous obtenez un bonus de circonstances de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimper} et si vous obtenez une réussite sur un test d'Athlétisme pour Grimper, vous obtenez une réussite critique à la place.</p>\n<p>While you are in Gorilla Stance, you gain a +2 circumstance bonus to Athletics checks to @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb}, and if you roll a success on an Athletics check to Climb, you get a critical success instead.</p>"
+        },
+        {
+            "id": "Effect: Overdrive (Success)",
+            "name": "Effet : Surrégime (Succès) (Effect: Overdrive (Success))",
+            "description": "Vos gadgets se mettent en surrégime, ajoutant de la puissance à vos attaques. Vos Frappes infligent des dégâts supplémentaires égaux à la moitié de votre modificateur d'Intelligence. À la suite du surrégime, vos gadgets deviennent inutilisables car ils se refroidissent ou se réinitialisent et vous ne pouvez plus utiliser le surrégime pendant une minute.</p>"
+        },
+        {
+            "id": "Effect: Dueling Parry",
+            "name": "Effet : Parade en duel (Effect: Dueling Parry)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.WcY7H7mRiK2VDquV]{Parade en duel (Bretteur)} ou @Compendium[pf2e.feats-srd.n7nQQR940OvFbw7T]{Parade en duel (Guerrier)}</p>\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li>Bonus de circonstance de +2 à la CA</li>\n</ul"
+        },
+        {
+            "id": "Stance: Mountain Stance (Mountain Stronghold)",
+            "name": "Posture : Posture de la Montagne (Bastion de la montagne) (Stance: Mountain Stance (Mountain Stronghold))",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Posture de la montagne} si vous avez @Compendium[pf2e.feats-srd.n2hawNmzW7DBn1Lm]{Bastion de la montage}, qui vous accorde un bonus de Dex Max de +1 à votre CA.</p>\n<p>Vous prenez la posture implacable d’une montagne, une technique découverte par des moines nains, ce qui vous permet de frapper aussi violemment qu’une avalanche. Les seules Frappes que vous pouvez faire sont des attaques à mains nues de chute de pierre. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits mains nues, non létal et percutant.</p>\n<p>Tant que vous gardez cette posture, vous bénéficiez d’un bonus de statut de +4 à la CA et d’un bonus de circonstances de +2 à vos défenses si l’on tente de vous Pousser ou de vous faire un Croc-en-jambe.</p>\n<p>Vous avez toutefois un bonus de Dextérité maximal à votre CA de + 1, et vos Vitesses sont toutes réduites de 1,50 mètres. Le bonus d'objet à la CA de Posture de la montagne se cumule avec les runes de puissance d'armure de vos @Compendium[pf2e.equipment-srd.dDIPA1WE9ESF67EB]{Vêtements d'explorateur}, <em>@Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Armure de mage}</em> et les bracelets d'armure.</p>"
+        }
+    ],
     "mapping": {
         "description": "data.description.value"
     }

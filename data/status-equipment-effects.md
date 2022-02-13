@@ -1,10 +1,10 @@
 # État de la traduction (equipment-effects)
 
- * **aucune**: 179
+ * **aucune**: 181
  * **vide**: 5
 
 
-Dernière mise à jour: 2022-02-09 19:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -45,11 +45,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-K21XQMoDVSPqzRla.htm](equipment-effects/01-K21XQMoDVSPqzRla.htm)|Equipment Effect: Sage's Lash (Turquoise)|
 |[01-kMPPl4AqFb6GclOL.htm](equipment-effects/01-kMPPl4AqFb6GclOL.htm)|Effect: Malleable Mixture (Greater)|
 |[01-lgvjbbQiHBGKR3C6.htm](equipment-effects/01-lgvjbbQiHBGKR3C6.htm)|Effect: Rhino Shot|
+|[01-M0hhLRC86sASVOk7.htm](equipment-effects/01-M0hhLRC86sASVOk7.htm)|Effect: Tteokguk of Time Advancement|
 |[01-mkjcgwDBeaOUolVe.htm](equipment-effects/01-mkjcgwDBeaOUolVe.htm)|Effect: Major Fanged Rune Animal Form|
 |[01-Nbgf8zvHimdQqIu6.htm](equipment-effects/01-Nbgf8zvHimdQqIu6.htm)|Effect: Skyrider Sword|
 |[01-NYOi1F9cW3axHrdc.htm](equipment-effects/01-NYOi1F9cW3axHrdc.htm)|Effect: Deadweight Snare (Success)|
 |[01-oaR6YGiZKg8a2971.htm](equipment-effects/01-oaR6YGiZKg8a2971.htm)|Effect: Clockwork Goggles|
 |[01-oiO3cQfqp8MuxR82.htm](equipment-effects/01-oiO3cQfqp8MuxR82.htm)|Effect: Blast Boots (Major)|
+|[01-ORdhj3IAvYACNGkJ.htm](equipment-effects/01-ORdhj3IAvYACNGkJ.htm)|Effect: Shrine Inarizushi|
 |[01-rH6RHxy6sNTLusKX.htm](equipment-effects/01-rH6RHxy6sNTLusKX.htm)|Effect: Emerald Fulcrum Lens (Saving Throw)|
 |[01-s95P3L72BDKvzYhn.htm](equipment-effects/01-s95P3L72BDKvzYhn.htm)|Effect: Curse of Potent Poison|
 |[01-SbYcOry1cxbndSve.htm](equipment-effects/01-SbYcOry1cxbndSve.htm)|Effect: Silkspinner's Shield (Climb)|

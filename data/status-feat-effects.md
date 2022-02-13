@@ -1,63 +1,34 @@
 # État de la traduction (feat-effects)
 
- * **aucune**: 195
+ * **libre**: 43
+ * **aucune**: 152
  * **vide**: 2
 
 
-Dernière mise à jour: 2022-02-09 19:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[00-1dxD3xsTzak6GNj5.htm](feat-effects/00-1dxD3xsTzak6GNj5.htm)|Stance: Monastic Archer Stance|
-|[00-2Qpt0CHuOMeL48rN.htm](feat-effects/00-2Qpt0CHuOMeL48rN.htm)|Stance: Cobra Stance (Cobra Envenom)|
-|[00-b2kWJuCPj1rDMdwz.htm](feat-effects/00-b2kWJuCPj1rDMdwz.htm)|Stance: Wolf Stance|
-|[00-BCyGDKcplkJiSAKJ.htm](feat-effects/00-BCyGDKcplkJiSAKJ.htm)|Stance: Stumbling Stance|
-|[00-CgxYa0lrLUjS2ZhI.htm](feat-effects/00-CgxYa0lrLUjS2ZhI.htm)|Stance: Cobra Stance|
-|[00-eeAlh6edygcZIz9c.htm](feat-effects/00-eeAlh6edygcZIz9c.htm)|Stance: Wild Winds Stance|
-|[00-gYpy9XBPScIlY93p.htm](feat-effects/00-gYpy9XBPScIlY93p.htm)|Stance: Mountain Stance|
-|[00-Im5JBInybWFbHEYS.htm](feat-effects/00-Im5JBInybWFbHEYS.htm)|Stance: Rain of Embers Stance|
-|[00-JefXqvhzUeBArkAP.htm](feat-effects/00-JefXqvhzUeBArkAP.htm)|Stance: Whirling Blade Stance|
-|[00-LXbVcutEIW8eWZEz.htm](feat-effects/00-LXbVcutEIW8eWZEz.htm)|Stance: Mountain Stance (Mountain Stronghold)|
-|[00-nwkYZs6YwXYAJ4ps.htm](feat-effects/00-nwkYZs6YwXYAJ4ps.htm)|Stance: Crane Stance|
-|[00-pf9yvKNg6jZLrE30.htm](feat-effects/00-pf9yvKNg6jZLrE30.htm)|Stance: Tiger Stance|
-|[00-PMHwCrnh9W4sMu5b.htm](feat-effects/00-PMHwCrnh9W4sMu5b.htm)|Stance: Tangled Forest Stance|
-|[00-qUowHpn79Dpt1hVn.htm](feat-effects/00-qUowHpn79Dpt1hVn.htm)|Stance: Dragon Stance|
-|[00-RozqjLocahvQWERr.htm](feat-effects/00-RozqjLocahvQWERr.htm)|Stance: Gorilla Stance|
-|[00-RXbfq6oqzVnW6xOV.htm](feat-effects/00-RXbfq6oqzVnW6xOV.htm)|Stance: Shooting Stars Stance|
-|[00-tPKXLtDJ3bzJcXlv.htm](feat-effects/00-tPKXLtDJ3bzJcXlv.htm)|Stance: Ironblood Stance|
-|[00-uFYvW3kFP9iyNfVX.htm](feat-effects/00-uFYvW3kFP9iyNfVX.htm)|Stance: Clinging Shadows Stance|
-|[00-UZKIKLuwpQu47feK.htm](feat-effects/00-UZKIKLuwpQu47feK.htm)|Stance: Gorilla Stance (Gorilla Pound)|
-|[00-vjvcccAwdkOLA1Fc.htm](feat-effects/00-vjvcccAwdkOLA1Fc.htm)|Stance: Peafowl Stance|
-|[00-wuERa7exfXXl6I37.htm](feat-effects/00-wuERa7exfXXl6I37.htm)|Stance: Mountain Stance (Mountain Quake)|
 |[01-0r2V1nK5pV31IUPY.htm](feat-effects/01-0r2V1nK5pV31IUPY.htm)|Effect: Protective Mentor Boon (Revered) (PFS)|
-|[01-1nCwQErK6hpkNvfw.htm](feat-effects/01-1nCwQErK6hpkNvfw.htm)|Effect: Dueling Parry|
-|[01-1XlJ9xLzL19GHoOL.htm](feat-effects/01-1XlJ9xLzL19GHoOL.htm)|Effect: Overdrive (Critical Success)|
-|[01-2RwhJ9fbJtcQjW6s.htm](feat-effects/01-2RwhJ9fbJtcQjW6s.htm)|Effect: Arctic Endemic Herb|
-|[01-4alr9e8w9H0RCLwI.htm](feat-effects/01-4alr9e8w9H0RCLwI.htm)|Effect: Tiller's Drive|
 |[01-4Zj71naHbY6O9ggP.htm](feat-effects/01-4Zj71naHbY6O9ggP.htm)|Effect: Bristle|
 |[01-5bEnBqVOgdp4gROP.htm](feat-effects/01-5bEnBqVOgdp4gROP.htm)|Effect: Catfolk Dance|
 |[01-5IGz4iheaiUWm5KR.htm](feat-effects/01-5IGz4iheaiUWm5KR.htm)|Effect: Eye of the Arclords|
 |[01-5v0ndPPMfZwhiVZF.htm](feat-effects/01-5v0ndPPMfZwhiVZF.htm)|Effect: Predictable!|
 |[01-5veOBmMYQxywTudd.htm](feat-effects/01-5veOBmMYQxywTudd.htm)|Goblin Song (Success)|
-|[01-6EDoy3OSFZ4L3Vs7.htm](feat-effects/01-6EDoy3OSFZ4L3Vs7.htm)|Stance: Paragon's Guard|
 |[01-6LgJB4ypaSTWSJLu.htm](feat-effects/01-6LgJB4ypaSTWSJLu.htm)|Effect: Blade Ally Fearsome Rune|
 |[01-7hRgBo0fRQBxMK7g.htm](feat-effects/01-7hRgBo0fRQBxMK7g.htm)|Effect: Distracting Feint|
-|[01-9HPxAKpP3WJmICBx.htm](feat-effects/01-9HPxAKpP3WJmICBx.htm)|Stance: Point-Blank Shot|
 |[01-9kNbiZPOM2wy60ao.htm](feat-effects/01-9kNbiZPOM2wy60ao.htm)|Effect: Ceremony of Protection|
-|[01-AJlunjfAIOq2Sg0p.htm](feat-effects/01-AJlunjfAIOq2Sg0p.htm)|Effect: Underground Endemic Herbs|
 |[01-AKKHagjg5bL1fMG5.htm](feat-effects/01-AKKHagjg5bL1fMG5.htm)|Effect: Overwatch Field|
 |[01-aqnx6IDcB7ARLxS5.htm](feat-effects/01-aqnx6IDcB7ARLxS5.htm)|Effect: Wymblessed Blood Magic (Status Penalty - Target)|
 |[01-aWOvmdaTK1jS3H72.htm](feat-effects/01-aWOvmdaTK1jS3H72.htm)|Effect: Lost in the Crowd (10 Creatures)|
 |[01-bIRIS6mnynr72RDw.htm](feat-effects/01-bIRIS6mnynr72RDw.htm)|Goblin Song (Critical Success)|
-|[01-bliWctLi7jlKUTUe.htm](feat-effects/01-bliWctLi7jlKUTUe.htm)|Effect: Forest Endemic Herbs|
 |[01-bmVwaN0C4e9fE2Sz.htm](feat-effects/01-bmVwaN0C4e9fE2Sz.htm)|Effect: Bolera's Interrogation (failure)|
 |[01-bvk5rwYSoTtz8QGf.htm](feat-effects/01-bvk5rwYSoTtz8QGf.htm)|Effect: Accursed Clay Fist|
 |[01-C6H3gF5HTdsIKpOC.htm](feat-effects/01-C6H3gF5HTdsIKpOC.htm)|Effect: Improved Poison Weapon|
 |[01-CNnIS8jWVj00nPwF.htm](feat-effects/01-CNnIS8jWVj00nPwF.htm)|Effect: Lost in the Crowd (100 Creatures)|
-|[01-CQfkyJkRHw4IHWhv.htm](feat-effects/01-CQfkyJkRHw4IHWhv.htm)|Stance: Sky and Heaven Stance|
 |[01-CtrZFI3RV0yPNzTv.htm](feat-effects/01-CtrZFI3RV0yPNzTv.htm)|Effect: Bon Mot (Critical Success)|
 |[01-DvyyA11a63FBwV7x.htm](feat-effects/01-DvyyA11a63FBwV7x.htm)|Effect: Known Weakness|
 |[01-ed9iJxdHuft6bDFF.htm](feat-effects/01-ed9iJxdHuft6bDFF.htm)|Effect: Deadly Poison Weapon|
@@ -70,24 +41,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-fILVhS5NuCtGXfri.htm](feat-effects/01-fILVhS5NuCtGXfri.htm)|Effect: Wymblessed Blood Magic (Status Bonus - Self)|
 |[01-FyaekbWsazkJhJda.htm](feat-effects/01-FyaekbWsazkJhJda.htm)|Effect: Decry Thief (Success)|
 |[01-Gf7h44DcTB43464h.htm](feat-effects/01-Gf7h44DcTB43464h.htm)|Effect: Blade Ally Keen Rune|
-|[01-GGebXpRPyONZB3eS.htm](feat-effects/01-GGebXpRPyONZB3eS.htm)|Stance: Everstand Stance|
 |[01-GoSls6SKCFmSoDxT.htm](feat-effects/01-GoSls6SKCFmSoDxT.htm)|Effect: Bon Mot|
 |[01-h45sUZFs5jhuQdCE.htm](feat-effects/01-h45sUZFs5jhuQdCE.htm)|Stance: Vitality-Manipulation Stance|
-|[01-HjCXHDZT6GkCyiuG.htm](feat-effects/01-HjCXHDZT6GkCyiuG.htm)|Effect: Plains Endemic Herbs|
 |[01-HjfIXg5btodThCTW.htm](feat-effects/01-HjfIXg5btodThCTW.htm)|Effect: Blade Ally Disrupting Rune (Greater)|
 |[01-I4Ozf6mTnd3X0Oax.htm](feat-effects/01-I4Ozf6mTnd3X0Oax.htm)|Effect: Predictable! (Critical Success)|
 |[01-IfsglZ7fdegwem0E.htm](feat-effects/01-IfsglZ7fdegwem0E.htm)|Effect: Hydraulic Deflection|
 |[01-ivGiUp0EC5nWT9Hb.htm](feat-effects/01-ivGiUp0EC5nWT9Hb.htm)|Effect: Read Shibboleths|
 |[01-JF2xCqL6t4UJZtUi.htm](feat-effects/01-JF2xCqL6t4UJZtUi.htm)|Effect: Blizzard Evasion|
 |[01-JQUoBlZKT5N5zO5k.htm](feat-effects/01-JQUoBlZKT5N5zO5k.htm)|Effect: Avenge in Glory|
-|[01-jZYRxGHyArCci6AF.htm](feat-effects/01-jZYRxGHyArCci6AF.htm)|Effect: Desert Endemic Herbs|
 |[01-K1IgNCf3Hh2EJwQ9.htm](feat-effects/01-K1IgNCf3Hh2EJwQ9.htm)|Effect: Divine Aegis|
 |[01-kAgUld9PcI4XkHbq.htm](feat-effects/01-kAgUld9PcI4XkHbq.htm)|Effect: Decry Thief (Critical Success)|
 |[01-KBEJVRrie2JTHWIK.htm](feat-effects/01-KBEJVRrie2JTHWIK.htm)|Effect: Dread Marshal Stance|
 |[01-KceTcamIZ4ZrQJLD.htm](feat-effects/01-KceTcamIZ4ZrQJLD.htm)|Effect: Educate Allies (Self)|
 |[01-KgR1myc4OLzVxfxn.htm](feat-effects/01-KgR1myc4OLzVxfxn.htm)|Effect: Predictable! (Critical Failure)|
-|[01-KiuBRoMFxL2Npt51.htm](feat-effects/01-KiuBRoMFxL2Npt51.htm)|Stance: Dueling Dance|
-|[01-kzEPq4aczYb6OD2h.htm](feat-effects/01-kzEPq4aczYb6OD2h.htm)|Effect: Inspiring Marshal Stance|
 |[01-l3S9i2UWGhSO58YX.htm](feat-effects/01-l3S9i2UWGhSO58YX.htm)|Effect: Cat Nap|
 |[01-l98IthkklgLDJXIo.htm](feat-effects/01-l98IthkklgLDJXIo.htm)|Effect: Blade Ally Holy Rune|
 |[01-L9g3EMCT3imX650b.htm](feat-effects/01-L9g3EMCT3imX650b.htm)|Effect: Heaven's Thunder|
@@ -96,24 +62,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-mkIamZGtQaSsUWLk.htm](feat-effects/01-mkIamZGtQaSsUWLk.htm)|Effect: Control Tower|
 |[01-mNk0KxsZMFnDjUA0.htm](feat-effects/01-mNk0KxsZMFnDjUA0.htm)|Effect: Hunter's Edge, Precision|
 |[01-MRo1SI1Y5PgdNf8r.htm](feat-effects/01-MRo1SI1Y5PgdNf8r.htm)|Effect: Deep Freeze (Critical Failure)|
-|[01-MZDh3170EFIfOwTO.htm](feat-effects/01-MZDh3170EFIfOwTO.htm)|Effect: Overdrive (Success)|
 |[01-nlaxROgSSLVHZ1hx.htm](feat-effects/01-nlaxROgSSLVHZ1hx.htm)|Effect: Monster Warden|
 |[01-nlMZCi8xi9YSvlYR.htm](feat-effects/01-nlMZCi8xi9YSvlYR.htm)|Effect: Engine of Destruction|
 |[01-nnF7RSVlC6swbSw8.htm](feat-effects/01-nnF7RSVlC6swbSw8.htm)|Effect: Anoint Ally|
-|[01-NviQYIVZbPCSWLqT.htm](feat-effects/01-NviQYIVZbPCSWLqT.htm)|Effect: Aquatic Endemic Herbs|
 |[01-oKJr59FYdDORxLcR.htm](feat-effects/01-oKJr59FYdDORxLcR.htm)|Effect: Worldly Mentor Boon (PFS)|
 |[01-OKOqC1wswrh9jXqP.htm](feat-effects/01-OKOqC1wswrh9jXqP.htm)|Effect: Protective Mentor Boon (Liked) (PFS)|
 |[01-oXG7eX26FmePmwUF.htm](feat-effects/01-oXG7eX26FmePmwUF.htm)|Effect: Discordant Voice|
-|[01-P80mwvCAEncR2snK.htm](feat-effects/01-P80mwvCAEncR2snK.htm)|Stance: Six Pillars Stance|
-|[01-pkcr9w5x6bKzl3om.htm](feat-effects/01-pkcr9w5x6bKzl3om.htm)|Stance: Jellyfish Stance|
 |[01-pTYTanMHMwSgJ8TN.htm](feat-effects/01-pTYTanMHMwSgJ8TN.htm)|Effect: Defensive Instincts|
 |[01-q2kY0TzXloJ8HLNO.htm](feat-effects/01-q2kY0TzXloJ8HLNO.htm)|Effect: Combat Mentor Boon (PFS)|
 |[01-QDQwHxNowRwzUx9R.htm](feat-effects/01-QDQwHxNowRwzUx9R.htm)|Effect: Reflective Ripple Stance|
 |[01-qIOEe4kUN7FOBifb.htm](feat-effects/01-qIOEe4kUN7FOBifb.htm)|Effect: Hybrid Form|
-|[01-QTG73gxKSNkiEWdY.htm](feat-effects/01-QTG73gxKSNkiEWdY.htm)|Effect: Mountain Endemic Herbs|
 |[01-Rgio0hasm2epEMfh.htm](feat-effects/01-Rgio0hasm2epEMfh.htm)|Effect: Blade Ally Ghost Touch Rune|
 |[01-rGSc2PtvU3mgm18S.htm](feat-effects/01-rGSc2PtvU3mgm18S.htm)|Effect: Blade Ally Unholy Rune|
-|[01-rp1YauUSULuqW8rs.htm](feat-effects/01-rp1YauUSULuqW8rs.htm)|Stance: Stoked Flame Stance|
 |[01-SKjVvQcRQmnDoouw.htm](feat-effects/01-SKjVvQcRQmnDoouw.htm)|Effect: Skillful Mentor Boon (PFS)|
 |[01-SXYcrnGzWCuj8zq7.htm](feat-effects/01-SXYcrnGzWCuj8zq7.htm)|Effect: Poison Weapon|
 |[01-ugeStF0Rj8phBPWL.htm](feat-effects/01-ugeStF0Rj8phBPWL.htm)|Effect: Witch's Charge|
@@ -160,7 +120,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[06-dvOfGUuvG8ihcN8d.htm](feat-effects/06-dvOfGUuvG8ihcN8d.htm)|Effect: Divine Weapon (Good)|
 |[06-GlpZyxAGhy5QNqkm.htm](feat-effects/06-GlpZyxAGhy5QNqkm.htm)|Effect: Divine Weapon (Lawful)|
 |[06-LF8xzzFsFJKxejqv.htm](feat-effects/06-LF8xzzFsFJKxejqv.htm)|Effect: Enforce Oath|
-|[06-LxSev4GNKv26DbZw.htm](feat-effects/06-LxSev4GNKv26DbZw.htm)|Stance: Disarming Stance|
 |[06-OkcblqWj4aHVAkrp.htm](feat-effects/06-OkcblqWj4aHVAkrp.htm)|Effect: Divine Weapon (Chaotic)|
 |[06-pwbFFD6NzDooobKo.htm](feat-effects/06-pwbFFD6NzDooobKo.htm)|Effect: Reflexive Shield|
 |[06-T5rsLTqS274B9Mly.htm](feat-effects/06-T5rsLTqS274B9Mly.htm)|Effect: Current Spell (Air)|
@@ -199,7 +158,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[16-72THfaqak0F4XnON.htm](feat-effects/16-72THfaqak0F4XnON.htm)|Effect: Didactic Strike|
 |[16-aUpcWqaLBlmpnJgW.htm](feat-effects/16-aUpcWqaLBlmpnJgW.htm)|Effect: Legendary Monster Warden|
 |[16-COsdMolZraFRTdP8.htm](feat-effects/16-COsdMolZraFRTdP8.htm)|Effect: Prevailing Position|
-|[16-l4QUaedYofnfXig0.htm](feat-effects/16-l4QUaedYofnfXig0.htm)|Stance: Multishot Stance|
 |[16-LB0PTV5yqMlBmRFj.htm](feat-effects/16-LB0PTV5yqMlBmRFj.htm)|Effect: Legendary Monster Hunter|
 |[16-XM1AA8z5cHm8sJXM.htm](feat-effects/16-XM1AA8z5cHm8sJXM.htm)|Effect: Enlightened Presence|
 |[17-4UNQfMrwfWirdwoV.htm](feat-effects/17-4UNQfMrwfWirdwoV.htm)|Effect: Masterful Hunter's Edge, Flurry|
@@ -218,3 +176,46 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[00-1dxD3xsTzak6GNj5.htm](feat-effects/00-1dxD3xsTzak6GNj5.htm)|Stance: Monastic Archer Stance|Posture : Posture de l'archer monastique|libre|
+|[00-2Qpt0CHuOMeL48rN.htm](feat-effects/00-2Qpt0CHuOMeL48rN.htm)|Stance: Cobra Stance (Cobra Envenom)|Posture : Posture du cobra|libre|
+|[00-b2kWJuCPj1rDMdwz.htm](feat-effects/00-b2kWJuCPj1rDMdwz.htm)|Stance: Wolf Stance|Posture : Posture du loup|libre|
+|[00-BCyGDKcplkJiSAKJ.htm](feat-effects/00-BCyGDKcplkJiSAKJ.htm)|Stance: Stumbling Stance|Posture : Posture chancelante|libre|
+|[00-CgxYa0lrLUjS2ZhI.htm](feat-effects/00-CgxYa0lrLUjS2ZhI.htm)|Stance: Cobra Stance|Posture : Posture du Cobra|libre|
+|[00-eeAlh6edygcZIz9c.htm](feat-effects/00-eeAlh6edygcZIz9c.htm)|Stance: Wild Winds Stance|Posture : Posture des vents violents|libre|
+|[00-gYpy9XBPScIlY93p.htm](feat-effects/00-gYpy9XBPScIlY93p.htm)|Stance: Mountain Stance|Posture : Posture de la Montagne|libre|
+|[00-Im5JBInybWFbHEYS.htm](feat-effects/00-Im5JBInybWFbHEYS.htm)|Stance: Rain of Embers Stance|Posture : Posture de la pluie de charbons ardents|libre|
+|[00-JefXqvhzUeBArkAP.htm](feat-effects/00-JefXqvhzUeBArkAP.htm)|Stance: Whirling Blade Stance|Posture : Posture de la lame tournoyante|libre|
+|[00-LXbVcutEIW8eWZEz.htm](feat-effects/00-LXbVcutEIW8eWZEz.htm)|Stance: Mountain Stance (Mountain Stronghold)|Posture : Posture de la Montagne (Bastion de la montagne)|libre|
+|[00-nwkYZs6YwXYAJ4ps.htm](feat-effects/00-nwkYZs6YwXYAJ4ps.htm)|Stance: Crane Stance|Posture : Posture de la grue|libre|
+|[00-pf9yvKNg6jZLrE30.htm](feat-effects/00-pf9yvKNg6jZLrE30.htm)|Stance: Tiger Stance|Posture : Posture du tigre|libre|
+|[00-PMHwCrnh9W4sMu5b.htm](feat-effects/00-PMHwCrnh9W4sMu5b.htm)|Stance: Tangled Forest Stance|Posture : Posture de la forêt enchevêtrée|libre|
+|[00-qUowHpn79Dpt1hVn.htm](feat-effects/00-qUowHpn79Dpt1hVn.htm)|Stance: Dragon Stance|Posture : Posture du dragon|libre|
+|[00-RozqjLocahvQWERr.htm](feat-effects/00-RozqjLocahvQWERr.htm)|Stance: Gorilla Stance|Posture : Posture du gorille|libre|
+|[00-RXbfq6oqzVnW6xOV.htm](feat-effects/00-RXbfq6oqzVnW6xOV.htm)|Stance: Shooting Stars Stance|Posture : Posture des étoiles lancées|libre|
+|[00-tPKXLtDJ3bzJcXlv.htm](feat-effects/00-tPKXLtDJ3bzJcXlv.htm)|Stance: Ironblood Stance|Posture : Posture du sang-de-fer|libre|
+|[00-uFYvW3kFP9iyNfVX.htm](feat-effects/00-uFYvW3kFP9iyNfVX.htm)|Stance: Clinging Shadows Stance|Posture : Posture des ombres tenaces|libre|
+|[00-UZKIKLuwpQu47feK.htm](feat-effects/00-UZKIKLuwpQu47feK.htm)|Stance: Gorilla Stance (Gorilla Pound)|Posture : Posture du gorille (Martèlement du gorille)|libre|
+|[00-vjvcccAwdkOLA1Fc.htm](feat-effects/00-vjvcccAwdkOLA1Fc.htm)|Stance: Peafowl Stance|Posture : Posture du paon|libre|
+|[00-wuERa7exfXXl6I37.htm](feat-effects/00-wuERa7exfXXl6I37.htm)|Stance: Mountain Stance (Mountain Quake)|Posture : Posture de la montagne (Tremblement de la montagne)|libre|
+|[01-1nCwQErK6hpkNvfw.htm](feat-effects/01-1nCwQErK6hpkNvfw.htm)|Effect: Dueling Parry|Effet : Parade en duel|libre|
+|[01-1XlJ9xLzL19GHoOL.htm](feat-effects/01-1XlJ9xLzL19GHoOL.htm)|Effect: Overdrive (Critical Success)|Effet : Surrégime (Succès critique)|libre|
+|[01-2RwhJ9fbJtcQjW6s.htm](feat-effects/01-2RwhJ9fbJtcQjW6s.htm)|Effect: Arctic Endemic Herb|Effet : Herbes endémiques Arctique|libre|
+|[01-4alr9e8w9H0RCLwI.htm](feat-effects/01-4alr9e8w9H0RCLwI.htm)|Effect: Tiller's Drive|Effet : Conduite du Laboureur|libre|
+|[01-6EDoy3OSFZ4L3Vs7.htm](feat-effects/01-6EDoy3OSFZ4L3Vs7.htm)|Stance: Paragon's Guard|Posture : Protection du Parangon|libre|
+|[01-9HPxAKpP3WJmICBx.htm](feat-effects/01-9HPxAKpP3WJmICBx.htm)|Stance: Point-Blank Shot|Posture : Tir à bout portant|libre|
+|[01-AJlunjfAIOq2Sg0p.htm](feat-effects/01-AJlunjfAIOq2Sg0p.htm)|Effect: Underground Endemic Herbs|Effet : Herbes endémiques Souterrains|libre|
+|[01-bliWctLi7jlKUTUe.htm](feat-effects/01-bliWctLi7jlKUTUe.htm)|Effect: Forest Endemic Herbs|Effet : Herbes endémiques Forêt|libre|
+|[01-CQfkyJkRHw4IHWhv.htm](feat-effects/01-CQfkyJkRHw4IHWhv.htm)|Stance: Sky and Heaven Stance|Posture : Posture du Ciel et du Paradis|libre|
+|[01-GGebXpRPyONZB3eS.htm](feat-effects/01-GGebXpRPyONZB3eS.htm)|Stance: Everstand Stance|Posture : Posture toujours en position|libre|
+|[01-HjCXHDZT6GkCyiuG.htm](feat-effects/01-HjCXHDZT6GkCyiuG.htm)|Effect: Plains Endemic Herbs|Effet : Herbes endémiques Plaine|libre|
+|[01-jZYRxGHyArCci6AF.htm](feat-effects/01-jZYRxGHyArCci6AF.htm)|Effect: Desert Endemic Herbs|Effet : Herbes endémiques Désert|libre|
+|[01-KiuBRoMFxL2Npt51.htm](feat-effects/01-KiuBRoMFxL2Npt51.htm)|Stance: Dueling Dance|Posture : Danse en duel|libre|
+|[01-kzEPq4aczYb6OD2h.htm](feat-effects/01-kzEPq4aczYb6OD2h.htm)|Effect: Inspiring Marshal Stance|Effet : Posture du Capitaine inspirant|libre|
+|[01-MZDh3170EFIfOwTO.htm](feat-effects/01-MZDh3170EFIfOwTO.htm)|Effect: Overdrive (Success)|Effet : Surrégime (Succès)|libre|
+|[01-NviQYIVZbPCSWLqT.htm](feat-effects/01-NviQYIVZbPCSWLqT.htm)|Effect: Aquatic Endemic Herbs|Effet : Herbes endémiques Aquatique|libre|
+|[01-P80mwvCAEncR2snK.htm](feat-effects/01-P80mwvCAEncR2snK.htm)|Stance: Six Pillars Stance|Posture: Posture des six piliers|libre|
+|[01-pkcr9w5x6bKzl3om.htm](feat-effects/01-pkcr9w5x6bKzl3om.htm)|Stance: Jellyfish Stance|Posture : Posture de la méduse|libre|
+|[01-QTG73gxKSNkiEWdY.htm](feat-effects/01-QTG73gxKSNkiEWdY.htm)|Effect: Mountain Endemic Herbs|Effet : Herbes endémiques Montagnes|libre|
+|[01-rp1YauUSULuqW8rs.htm](feat-effects/01-rp1YauUSULuqW8rs.htm)|Stance: Stoked Flame Stance|Posture : Posture de la flamme ravivée|libre|
+|[06-LxSev4GNKv26DbZw.htm](feat-effects/06-LxSev4GNKv26DbZw.htm)|Stance: Disarming Stance|Posture : Posture désarmante|libre|
+|[16-l4QUaedYofnfXig0.htm](feat-effects/16-l4QUaedYofnfXig0.htm)|Stance: Multishot Stance|Posture : Posture de tirs multiples|libre|

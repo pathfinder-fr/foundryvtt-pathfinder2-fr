@@ -1,12 +1,11 @@
 # État de la traduction (actions)
 
  * **officielle**: 110
- * **libre**: 155
- * **aucune**: 3
- * **changé**: 1
+ * **libre**: 156
+ * **aucune**: 4
 
 
-Dernière mise à jour: 2022-02-09 19:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -16,12 +15,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[h4Tzdhqfryp5m2fO.htm](actions/h4Tzdhqfryp5m2fO.htm)|Harvest Heartsliver|
 |[iBf9uGn5LOHkWpZ6.htm](actions/iBf9uGn5LOHkWpZ6.htm)|Craft Disharmonic Instrument|
 |[KAVf7AmRnbCAHrkT.htm](actions/KAVf7AmRnbCAHrkT.htm)|Attack of Opportunity|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[I9k9qe4gOT8UVK4e.htm](actions/I9k9qe4gOT8UVK4e.htm)|Mist Blending|Se fondre dans la brume|changé|
+|[VQ5OxaDKE0lCj8Mr.htm](actions/VQ5OxaDKE0lCj8Mr.htm)|Shadow Step|
 
 ## Liste des traductions complétés
 
@@ -148,6 +142,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[hV9wXLvgH2LBaBwk.htm](actions/hV9wXLvgH2LBaBwk.htm)|Shootist's Draw|Rapidité du tireur|libre|
 |[HYNhdaPtF1QmQbR3.htm](actions/HYNhdaPtF1QmQbR3.htm)|Drop Prone|Se jeter à terre|officielle|
 |[I75R9NSfsVrit6cU.htm](actions/I75R9NSfsVrit6cU.htm)|Cram|Bachoter|libre|
+|[I9k9qe4gOT8UVK4e.htm](actions/I9k9qe4gOT8UVK4e.htm)|Mist Blending|Se fondre dans la brume|libre|
 |[IE2nThCmoyhQA0Jn.htm](actions/IE2nThCmoyhQA0Jn.htm)|Avoid Notice|Échapper aux regards|officielle|
 |[iJLzVonevhsi2uPs.htm](actions/iJLzVonevhsi2uPs.htm)|Visions of Sin|Visions du péché|libre|
 |[ijZ0DDFpMkWqaShd.htm](actions/ijZ0DDFpMkWqaShd.htm)|Palm an Object|Escamoter un objet|officielle|

@@ -2,119 +2,14 @@
     "label": "Capacités du bestiaire",
     "entries": [
         {
-            "id": "Push",
-            "name": "Push",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>"
+            "id": "At-Will Spells",
+            "name": "At-Will Spells",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
-            "id": "Sneak Attack",
-            "name": "Sneak Attack",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
-        },
-        {
-            "id": "Shield Block",
-            "name": "Shield Block",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
-        },
-        {
-            "id": "Light Blindness",
-            "name": "Light Blindness",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LightBlindness]</p>"
-        },
-        {
-            "id": "Swarm Mind",
-            "name": "Swarm Mind",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
-        },
-        {
-            "id": "Retributive Strike",
-            "name": "Retributive Strike",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
-        },
-        {
-            "id": "Low-Light Vision",
-            "name": "Low-Light Vision",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
-        },
-        {
-            "id": "Buck",
-            "name": "Buck",
-            "description": "<p>@Check[type:reflex]{Réflexes}</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>"
-        },
-        {
-            "id": "Greater Darkvision",
-            "name": "Greater Darkvision",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
-        },
-        {
-            "id": "Fast Healing",
-            "name": "Fast Healing",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
-        },
-        {
-            "id": "+1 Status to All Saves vs Magic",
-            "name": "+1 Status to All Saves vs Magic",
-            "description": ""
-        },
-        {
-            "id": "Power Attack",
-            "name": "Power Attack",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.PowerAttack]</p>"
-        },
-        {
-            "id": "Trample",
-            "name": "Trample",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
-        },
-        {
-            "id": "Telepathy",
-            "name": "Telepathy",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
-        },
-        {
-            "id": "Aquatic Ambush",
-            "name": "Aquatic Ambush",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
-        },
-        {
-            "id": "All-Around Vision",
-            "name": "All-Around Vision",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
-        },
-        {
-            "id": "Coven",
-            "name": "Coven",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
-        },
-        {
-            "id": "Improved Knockdown",
-            "name": "Improved Knockdown",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>"
-        },
-        {
-            "id": "Lifesense",
-            "name": "Lifesense",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
-        },
-        {
-            "id": "Wavesense",
-            "name": "Wavesense",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Wavesense]</p>"
-        },
-        {
-            "id": "Attack of Opportunity",
-            "name": "Attack of Opportunity",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
-        },
-        {
-            "id": "Catch Rock",
-            "name": "Catch Rock",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
-        },
-        {
-            "id": "Ferocity",
-            "name": "Ferocity",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
+            "id": "Engulf",
+            "name": "Engulf",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
         },
         {
             "id": "Frightful Presence",
@@ -122,64 +17,9 @@
             "description": "<p>@Template[type:emanation|distance:0]{0 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} @Check[type:will]{Volonté}</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
-            "id": "Change Shape",
-            "name": "Change Shape",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
-        },
-        {
-            "id": "Negative Healing",
-            "name": "Negative Healing",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
-        },
-        {
-            "id": "Poison",
-            "name": "Poison",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Poison]</p>"
-        },
-        {
-            "id": "Greater Constrict",
-            "name": "Greater Constrict",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
-        },
-        {
-            "id": "Tremorsense",
-            "name": "Tremorsense",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
-        },
-        {
-            "id": "Grab",
-            "name": "Grab",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
-        },
-        {
-            "id": "Form Up",
-            "name": "Form Up",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FormUp]</p>"
-        },
-        {
-            "id": "Aura",
-            "name": "Aura",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Aura]</p>"
-        },
-        {
-            "id": "Improved Grab",
-            "name": "Improved Grab",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
-        },
-        {
-            "id": "Troop Defenses",
-            "name": "Troop Defenses",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>"
-        },
-        {
-            "id": "Thoughtsense",
-            "name": "Thoughtsense",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Thoughtsense]</p>"
-        },
-        {
-            "id": "Scent",
-            "name": "Scent",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+            "id": "Improved Knockdown",
+            "name": "Improved Knockdown",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>"
         },
         {
             "id": "Swallow Whole",
@@ -187,29 +27,29 @@
             "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         {
-            "id": "At-Will Spells",
-            "name": "At-Will Spells",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+            "id": "Aquatic Ambush",
+            "name": "Aquatic Ambush",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
         },
         {
-            "id": "Throw Rock",
-            "name": "Throw Rock",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
+            "id": "Light Blindness",
+            "name": "Light Blindness",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LightBlindness]</p>"
         },
         {
-            "id": "Disease",
-            "name": "Disease",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Disease]</p>"
+            "id": "Power Attack",
+            "name": "Power Attack",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.PowerAttack]</p>"
         },
         {
-            "id": "Improved Push",
-            "name": "Improved Push",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedPush]</p>"
+            "id": "Swarm Mind",
+            "name": "Swarm Mind",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
         },
         {
-            "id": "Darkvision",
-            "name": "Darkvision",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+            "id": "Troop Defenses",
+            "name": "Troop Defenses",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>"
         },
         {
             "id": "Constrict",
@@ -217,9 +57,19 @@
             "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
         },
         {
-            "id": "Rend",
-            "name": "Rend",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
+            "id": "Darkvision",
+            "name": "Darkvision",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Retributive Strike",
+            "name": "Retributive Strike",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
+        },
+        {
+            "id": "Change Shape",
+            "name": "Change Shape",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         {
             "id": "Regeneration",
@@ -227,9 +77,34 @@
             "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
         },
         {
-            "id": "Knockdown",
-            "name": "Knockdown",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+            "id": "Sneak Attack",
+            "name": "Sneak Attack",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
+            "id": "All-Around Vision",
+            "name": "All-Around Vision",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+        },
+        {
+            "id": "Negative Healing",
+            "name": "Negative Healing",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "Improved Push",
+            "name": "Improved Push",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedPush]</p>"
+        },
+        {
+            "id": "+1 Status to All Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
+            "description": ""
+        },
+        {
+            "id": "Form Up",
+            "name": "Form Up",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FormUp]</p>"
         },
         {
             "id": "Constant Spells",
@@ -237,9 +112,134 @@
             "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
-            "id": "Engulf",
-            "name": "Engulf",
-            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
+            "id": "Knockdown",
+            "name": "Knockdown",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
+            "id": "Tremorsense",
+            "name": "Tremorsense",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
+            "id": "Greater Constrict",
+            "name": "Greater Constrict",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        {
+            "id": "Shield Block",
+            "name": "Shield Block",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
+        },
+        {
+            "id": "Low-Light Vision",
+            "name": "Low-Light Vision",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "Telepathy",
+            "name": "Telepathy",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "Aura",
+            "name": "Aura",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Aura]</p>"
+        },
+        {
+            "id": "Catch Rock",
+            "name": "Catch Rock",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+        },
+        {
+            "id": "Lifesense",
+            "name": "Lifesense",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
+        },
+        {
+            "id": "Thoughtsense",
+            "name": "Thoughtsense",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Thoughtsense]</p>"
+        },
+        {
+            "id": "Push",
+            "name": "Push",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>"
+        },
+        {
+            "id": "Buck",
+            "name": "Buck",
+            "description": "<p>@Check[type:reflex]{Réflexes}</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>"
+        },
+        {
+            "id": "Poison",
+            "name": "Poison",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Poison]</p>"
+        },
+        {
+            "id": "Attack of Opportunity",
+            "name": "Attack of Opportunity",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "Ferocity",
+            "name": "Ferocity",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
+        },
+        {
+            "id": "Scent",
+            "name": "Scent",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "Grab",
+            "name": "Grab",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "Throw Rock",
+            "name": "Throw Rock",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
+        },
+        {
+            "id": "Improved Grab",
+            "name": "Improved Grab",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "Wavesense",
+            "name": "Wavesense",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Wavesense]</p>"
+        },
+        {
+            "id": "Coven",
+            "name": "Coven",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
+        },
+        {
+            "id": "Trample",
+            "name": "Trample",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
+        },
+        {
+            "id": "Disease",
+            "name": "Disease",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Disease]</p>"
+        },
+        {
+            "id": "Rend",
+            "name": "Rend",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
+        },
+        {
+            "id": "Fast Healing",
+            "name": "Fast Healing",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
+        },
+        {
+            "id": "Greater Darkvision",
+            "name": "Greater Darkvision",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
         }
     ],
     "mapping": {

@@ -1,19 +1,29 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 329
+ * **libre**: 328
  * **officielle**: 16
- * **changé**: 29
- * **aucune**: 1
+ * **aucune**: 11
+ * **changé**: 30
 
 
-Dernière mise à jour: 2022-02-09 19:07 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[01-8olfnTmWh0GGPDqX.htm](spell-effects/01-8olfnTmWh0GGPDqX.htm)|Spell Effect: Ki Strike|
+|[01-BfaFe1cI9IkpvmmY.htm](spell-effects/01-BfaFe1cI9IkpvmmY.htm)|Spell Effect: Countless Eyes|
+|[01-cVVZXNbV0nElVOPZ.htm](spell-effects/01-cVVZXNbV0nElVOPZ.htm)|Spell Effect: Light|
+|[01-h0CKGrgjGNSg21BW.htm](spell-effects/01-h0CKGrgjGNSg21BW.htm)|Spell Effect: Boost Eidolon|
+|[01-tNjimcyUwn8afeH6.htm](spell-effects/01-tNjimcyUwn8afeH6.htm)|Spell Effect: Gravity Weapon|
+|[02-fvIlSZPwojixVvyZ.htm](spell-effects/02-fvIlSZPwojixVvyZ.htm)|Spell Effect: Lucky Number|
+|[03-j9l4LDnAwg9xzYsy.htm](spell-effects/03-j9l4LDnAwg9xzYsy.htm)|Spell Effect: Life Connection|
+|[03-JqrTrvwV7pYStMXz.htm](spell-effects/03-JqrTrvwV7pYStMXz.htm)|Spell Effect: Levitate|
 |[04-WWtSEJGwKY4bQpUn.htm](spell-effects/04-WWtSEJGwKY4bQpUn.htm)|Spell Effect: Vital Beacon|
+|[07-46vCC77mBNBWtmx3.htm](spell-effects/07-46vCC77mBNBWtmx3.htm)|Spell Effect: Litany of Righteousness|
+|[07-CTdEsMIwVYqqkH50.htm](spell-effects/07-CTdEsMIwVYqqkH50.htm)|Spell Effect: Litany of Depravity|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -31,6 +41,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[04-UXdt1WVA66oZOoZS.htm](spell-effects/04-UXdt1WVA66oZOoZS.htm)|Spell Effect: Flame Barrier|Effet : Barrière de flammes|changé|
 |[05-8eWLR0WCf5258z8X.htm](spell-effects/05-8eWLR0WCf5258z8X.htm)|Spell Effect: Elemental Form (Earth)|Effet : Forme élémentaire (Terre)|changé|
 |[05-DliizYpHcmBG130w.htm](spell-effects/05-DliizYpHcmBG130w.htm)|Spell Effect: Elemental Form (Air)|Effet : Forme élémentaire (Air)|changé|
+|[06-lIl0yYdS9zojOZhe.htm](spell-effects/06-lIl0yYdS9zojOZhe.htm)|Spell Effect: Life-Giving Form|Effet : Forme génératrice de vie|changé|
 |[07-dXq7z633ve4E0nlX.htm](spell-effects/07-dXq7z633ve4E0nlX.htm)|Spell Effect: Regenerate|Effet : Régénération|changé|
 |[07-LT5AV9vSN3T9x3J9.htm](spell-effects/07-LT5AV9vSN3T9x3J9.htm)|Spell Effect: Corrosive Body|Effet : Corps corrosif|changé|
 |[07-tBgwWblDp1xdxN4D.htm](spell-effects/07-tBgwWblDp1xdxN4D.htm)|Spell Effect: Divine Vessel (Lawful)|Effet : Réceptacle divin (Loyal)|changé|
@@ -56,7 +67,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[00-Gqy7K6FnbLtwGpud.htm](spell-effects/00-Gqy7K6FnbLtwGpud.htm)|Spell Effect: Bless|Effet : Bénédiction|libre|
 |[01-06zdFoxzuTpPPGyJ.htm](spell-effects/01-06zdFoxzuTpPPGyJ.htm)|Effect: Rejuvinating Flames|Effet : Flammes rajeunissantes|libre|
 |[01-0bfqYkNaWsdTmtrc.htm](spell-effects/01-0bfqYkNaWsdTmtrc.htm)|Spell Effect: Juvenile Companion|Effet : Compagnon juvénile|libre|
-|[01-0gv9D5RlrF5cKA3I.htm](spell-effects/01-0gv9D5RlrF5cKA3I.htm)|Spell Effect: Adapt Self (Darkvision)|Effet : Adaptation de soi|libre|
+|[01-0gv9D5RlrF5cKA3I.htm](spell-effects/01-0gv9D5RlrF5cKA3I.htm)|Spell Effect: Adapt Self (Darkvision)|Effet : Adaptation de soi (Vision dans le noir)|libre|
 |[01-0o984LjzIFXxeXIF.htm](spell-effects/01-0o984LjzIFXxeXIF.htm)|Spell Effect: Evolution Surge (Amphibious)|Effet : Flux d'évolution (Amphibie)|libre|
 |[01-0OC945wcZ4H4akLz.htm](spell-effects/01-0OC945wcZ4H4akLz.htm)|Spell Effect: Summoner's Visage|Effet : Visage du conjurateur|libre|
 |[01-0R42NyuEZMVALjQs.htm](spell-effects/01-0R42NyuEZMVALjQs.htm)|Spell Effect: Traveler's Transit (Swim)|Effet : Voyageur en transit (Nage)|libre|
@@ -365,7 +376,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[06-hnfQyf05IIa7WPBB.htm](spell-effects/06-hnfQyf05IIa7WPBB.htm)|Spell Effect: Demon Form (Nabasu)|Effet : Forme de démon (Nabasu)|libre|
 |[06-jtW3VfI5Kktuy3GH.htm](spell-effects/06-jtW3VfI5Kktuy3GH.htm)|Spell Effect: Dragon Form (Bronze)|Effet : Forme de dragon (Bronze)|libre|
 |[06-l8HkOKfiUqd3BUwT.htm](spell-effects/06-l8HkOKfiUqd3BUwT.htm)|Spell Effect: Ancestral Form|Effet : Forme ancestrale|libre|
-|[06-lIl0yYdS9zojOZhe.htm](spell-effects/06-lIl0yYdS9zojOZhe.htm)|Spell Effect: Life-Giving Form|Effet : Forme génératrice de vie|libre|
 |[06-nemThuhp3praALY6.htm](spell-effects/06-nemThuhp3praALY6.htm)|Spell Effect: Zealous Conviction|Effet : Conviction zélée|libre|
 |[06-nWEx5kpkE8YlBZvy.htm](spell-effects/06-nWEx5kpkE8YlBZvy.htm)|Spell Effect: Dragon Form (Green)|Effet : Forme de dragon (Vert)|libre|
 |[06-OeCn76SB92GPOZwr.htm](spell-effects/06-OeCn76SB92GPOZwr.htm)|Spell Effect: Dragon Form (Brass)|Effet : Forme de dragon (Airain)|libre|
