@@ -12,6 +12,11 @@
             "description": "<p>Vous êtes devenu proche de quelqu’un au service duquel vous avez été. Il peut s’agir d’un employeur, d’un seigneur ou d’une dame d’importance mineure, peut-être même d’un roi ou d’une reine. Si cette personne avait de l’ascendant sur vous, elle vous considérait comme plus qu’un simple sujet ou serviteur. En conséquence, vous vous êtes habitué à fréquenter des gens puissants et à traiter avec eux.</p>\n<p>Ajoutez une prime de caractéristique au Charisme à vos options d’historique.</p>"
         },
         {
+            "id": "Wasteland Survivors",
+            "name": "Survivants d'une région sauvage (Wasteland Survivors)",
+            "description": "<p>Ce personnage et vous vous êtes perdu dans une région dangereuse et avez dû compter l’un sur l’autre pour survivre ; aucun de vous ne sait s’il aurait pu réussir sans l’autre.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.8qebBeOJsyRIchcu]{Glaneur} à vos options d’historique.</p>"
+        },
+        {
             "id": "Religious Students",
             "name": "Séminaristes (Religious Students)",
             "description": "<p>Ce personnage et vous avez tous les deux suivi une formation religieuse. Même si vous n’avez pas continué dans cette voie, vous admirez sa piété.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.x7EMZNMavris2aHY]Étudiant du droit canon} à vos options d’historique.</p>"
@@ -152,6 +157,11 @@
             "description": "<p>Vous gagnez un bonus de statut de +4 permanent à vos tests de Diplomatie et vous possédez désormais un petit château dans la région dégagée de votre choix. Vous devez choisir sa localisation dans un délai d’une heure.</p>\n<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.spell-effects\" data-id=\"Zb8RYgmzCI6fQE0o\"><i class=\"fas fa-suitcase\"></i>Effet : Carte Trône</a></p>"
         },
         {
+            "id": "Matter of Might",
+            "name": "Une question de force (Matter of Might)",
+            "description": "<p>Vous avez longtemps considéré ce personnage comme votre rival en termes de force. Vous êtes déterminé à prouver que vous êtes plus fort que lui. Si vous n’êtes pas imposant physiquement, cela peut être par une utilisation judicieuse de votre force.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.C0Tcelg3BAPhML6J]{Portefaix} à vos options d’historique.</p>"
+        },
+        {
             "id": "The Lover",
             "name": "L'amant (The Lover)",
             "description": "<p>Votre passé est marqué par une liaison romantique avec quelqu’un qui vous a énormément influencé. Il s’agissait peut-être d’un premier amour, d’une relation légère qui s’est développée ou d’une grande déception amoureuse. Cette expérience vous a permis de développer votre confiance dans le cadre des interactions amoureuses, mais vos pensées s’égarent encore parfois vers cette personne marquante de votre passé.</p>\n<p>Ajoutez une prime de caractéristique au Charisme à vos options d’historique.</p>"
@@ -185,6 +195,11 @@
             "id": "Religious Community",
             "name": "Communauté religieuse (Religious Community)",
             "description": "<p>Vous avez grandi dans une communauté d’érudits religieux, comme un village entourant une abbaye, un sanctuaire elfe isolé ou une ville-temple naine.</p>\n<p>Ajoutez Connaissance artistique, Connaissance du métier de scribe, une Connaissance associée à la divinité qui est adorée ou abhorrée par votre communauté (comme Connaissance de Pharasma) et une Connaissance associée à un plan (autre que le plan matériel) dans lequel cette divinité réside à vos options d’historique.</p>"
+        },
+        {
+            "id": "Privileged Position",
+            "name": "Statut privilégié (Privileged Position)",
+            "description": "<p>Vous avez un temps cherché à obtenir la faveur d’un puissant incantateur pour qu'il soit votre mentor, mais malgré tous vos efforts, ce personnage était clairement le préféré de ce mentor.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.IlOQuCQIhjJpig3S]{Identification rapide} à vos options d’historique.</p>"
         },
         {
             "id": "Died",
@@ -232,9 +247,14 @@
             "description": "<p>Obtenez une prime de caractéristique que vous devez utiliser immédiatement sur un score de caractéristique de votre choix.</p>"
         },
         {
+            "id": "Slander",
+            "name": "Calomnies (Slander)",
+            "description": "<p>Ce personnage et vous étiez en compétition pour ravir le cœur de la même personne. Vous vous êtes abaissé à le diffamer et la situation a dégénéré.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.B6HbYsLBWb1RR6Fx]{Menteur charismatique} à vos options d’historique.</p>"
+        },
+        {
             "id": "Trained by a Mentor",
             "name": "Formé par un Mentor (Trained by a Mentor)",
-            "description": "<p> Vous avez été remarqué par un mentor ou un mécène, qui a proposé de prendre votre éducation en main ou de vous parrainer.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.sMm0UfYxEPpq2Yzd]Professionnel expérimenté} à vos options d’historique.</p>"
+            "description": "<p> Vous avez été remarqué par un mentor ou un mécène, qui a proposé de prendre votre éducation en main ou de vous parrainer.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.sMm0UfYxEPpq2Yzd]{Professionnel expérimenté} à vos options d’historique.</p>"
         },
         {
             "id": "The Academic",

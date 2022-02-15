@@ -1,6 +1,102 @@
 {
     "label": "Effets de l'équipement",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Effect: Dueling Cape",
+            "name": "Effect: Dueling Cape (Effet : Cape de duel)",
+            "description": "<p>Accordé par l'utilisation de @Compendium[pf2e.equipment-srd.DA3HgyEBGEbtRNOo]{Cape de duel}</p>\n<hr />\n<p>Effets automatiquement appliqués :</p>\n<ul>\n<li>bonus de circonstances de +1 pour Feinter</li>\n<li>bonus de circonstances de +1 à la CA</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Raise a Shield",
+            "name": "Effect: Raise a Shield (Effet : Lever un bouclier)",
+            "description": "<p>Vous levez votre bouclier pour vous protéger. Quand vous avez Levé un bouclier, vous ajoutez le bonus de circonstances indiqué dans son profil à votre CA. Votre bouclier reste levé jusqu’au début de votre prochain tour.</p>"
+        },
+        {
+            "id": "Effect: Euryale (Curse) Card",
+            "name": "Effect: Euryale (Curse) Card (Effet : Carte Euryale (Malédiction))",
+            "description": "<p>Accordé par @Compendium[pf2e.gmg-srd.jVh90bfsC6w6iVyy]{Euryale (malédiction)} issu du @Compendium[pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]{Paquet de cartes merveilleuses}</p>\n<p>Effet automatiquement appliqué : -1 à tous les jets de sauvegarde.</p>"
+        },
+        {
+            "id": "Effect: Energy Robe of Electricity",
+            "name": "Effect: Energy Robe of Electricity (Effet : Robe d'énergie d'électricité)",
+            "description": "<p>Vous obtenez une vitesse de vol égale à votre vitesse pendant 1 minute. (par défaut de 7,5 m)</p>"
+        },
+        {
+            "id": "Effect: Energy Robe of Fire",
+            "name": "Effect: Energy Robe of Fire (Effet : Robe d'énergie de feu)",
+            "description": "<p>Vous obtenez un bonus de statut de +9 m à votre vitesse pendant 1 minute.</p>"
+        },
+        {
+            "id": "Effect: Ochre Fulcrum Lens",
+            "name": "Effect: Ochre Fulcrum Lens (Effet : Lentille à pivot ocre)",
+            "description": "<p>Vous obtenez un bonus de staute de +2 aux jets de sauegarde contre des effets d'émotion et une résistance de 10 aux dégâts mentaux</p>\n<ul>\n<li>La résistance aux dégâts mentaux n'est pas automatisée</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Energizing Rune (Acid)",
+            "name": "Effect: Energizing Rune (Acid) (Effet : Rune énergisante d'acide)",
+            "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires d'acide jusqu'à la fin de votre prochain tour.</p>"
+        },
+        {
+            "id": "Effect: Qat (Stage 1)",
+            "name": "Effect: Qat (Stage 1) (Effet : Qat (Stade 1))",
+            "description": "<p>La créature obtient un bonus d'objet de +1 aux jets de Réflexes.</p>"
+        },
+        {
+            "id": "Effect: Throne Card",
+            "name": "Effect: Throne Card (Effet : Carte trône)",
+            "description": "<p>Accordé par @Compendium[pf2e.gmg-srd.IJ3nFDu2YcoP6ynd]{Trône} issu du @Compendium[pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]{Paquet de cartes merveilleuses}</p>\n<p>Effet automatiquement appliqué : bonus de statut de +4 à la Diplomatie</p>"
+        },
+        {
+            "id": "Effect: Improvised Weapon",
+            "name": "Effect: Improvised Weapon (Effet : Arme improvisée)",
+            "description": "<p>Applique une pénalité de -2 aux jets d'attaque avec toute arme qui porte le trait \"improvised\".</p>\n<p>Choisir dans l'inventaire ou dans le compendium l'arme que vous voulez émuler : par exemple un \"bâton\" si vous avez une branche, une \"matraque\" si vous prenez une bouteille, une dague si vous prenez une \"stalactite\", placez le dans l'inventaire.</p>\n<p>dans l'onglet détails de ladite arme, éditez les traits pour ajouter tout en bas \"improvised\" (en anglais) qui n'est pas actuellement dans la liste (une demande d'intégration est en cours).</p>\n<p>glisser déposer l'effet sur le jeton de votre PJ.</p>\n<p>Une petite animation apparaîtra pour vous dire que l'effet est actif. Une pelle apparaîtra. Cela vous permettra d'activer ou non l'effet lors de la Frappe avec l'arme improvisée.</p>\n<p>Pour désactiver l'effet, un clic droit sur l'icône suffit pelle.</p>"
+        },
+        {
+            "id": "Effect: Grit (Stage 2)",
+            "name": "Effect: Grit (Stage 2) (Effet : Grit (stade 2))",
+            "description": "<p>La créature obtient un bonus d'obet de +1 aux tests d'Artisanat, d'Athlétisme et de Représentation et une pénalité d'objet de -2 aux tests de Perception.</p>"
+        },
+        {
+            "id": "Effect: Earplugs",
+            "name": "Effect: Earplugs (Effet : bouchons d'oreilles)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ksNUlyRHFUSK9xmz]{Bouchons d'oreilles}</p>\n<hr />\n<p>Effets automatiquement appliqués :</p>\n<ul>\n<li>bonus d'objet de +1 aux jets de sauvegarde contre les effets avec le trait audible</li>\n<li>pénalité d'objet de -2 aux tests de Perception impliquant le son</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Energizing Rune (Fire)",
+            "name": "Effect: Energizing Rune (Fire) (Effet : Rune énergisante de feu)",
+            "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires de feu jusqu'à la fin de votre prochain tour.</p>"
+        },
+        {
+            "id": "Effect: Static Snare",
+            "name": "Effect: Static Snare (Effet : piège artisanal statique)",
+            "description": "<p>La cible subit une pénalité de circonstances de -1 à ses jets de sauvegarde contre l'électricité tant qu'elle subit les dégâts d'électricité persistants.</p>"
+        },
+        {
+            "id": "Effect: Stonethroat Ammunition (Success)",
+            "name": "Effect: Stonethroat Ammunition (Success) (Effet : Munition coince-gueule (Succès))",
+            "description": ""
+        },
+        {
+            "id": "Cover",
+            "name": "Cover (Abri)",
+            "description": "<p>Lorsque vous vous trouvez derrière un obstacle qui peut bloquer les armes, vous protéger contre les explosions et vous rendre plus difficile à détecter, vous êtes à l'abri. Un abri standard vous donne un bonus de circonstances de +2 à la CA, aux jets de Réflexes contre les effets de zone et aux tests de Discrétion pour se cacher, être furtif ou éviter d'être détecté. Vous pouvez augmenter cet abri en utilisant l'action Se mettre à l'abri, ce qui augmente le bonus de circonstances à +4. Si l'abri est particulièrement léger, typiquement parce qu'il est fourni par une créature, vous disposez d'un abri partiel, qui accorde un bonus de circonstances de +1 à la CA. Une créature avec un abri standard ou un abri supérieur peut tenter d'utiliser Discrétion pour se cacher, mais un abri inférieur n'est pas suffisant.</p>"
+        },
+        {
+            "id": "Effect: Spiderfoot Brew (Major)",
+            "name": "Effect: Spiderfoot Brew (Major) (Effet : Infusion de pattes d'araignée majeure)",
+            "description": "<p>Lorsque vous buvez une infusion de pattes d'araignée, des poils adhésifs poussent sur vos mains et vos pieds, vous accordant une vitesse d'escalade de 7,5 m et un bonus d'objet de +3 aux tests d'Athlétisme pour Grimper pendant 1 heure.</p>"
+        },
+        {
+            "id": "Effect: Mudrock Snare (Success)",
+            "name": "Effect: Mudrock Snare (Success) (Effet : Piège artisanal de boue solidifiée (Succès))",
+            "description": "<p>La créature subit une pénalité de circonstances de -1,5 m à sa Vitesse pendant 1 minute ou jusqu'à ce qu'elle s'échappe (DD 27).</p>"
+        },
+        {
+            "id": "Effect: Energizing Rune (Sonic)",
+            "name": "Effect: Energizing Rune (Sonic) (Effet : Rune énergisante (son))",
+            "description": "<p>L'arme est imprégnée du type d'énergie déclencheur. Elle inflige 1d8 dégâts de son supplémentaires jusqu'à la fin de votre prochain tour.</p>"
+        }
+    ],
     "mapping": {
         "description": "data.description.value"
     }

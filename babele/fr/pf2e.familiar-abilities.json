@@ -7,6 +7,11 @@
             "description": "<p>Votre familier aide votre représentation. Lorsque vous tentez un test de Représentation, si votre familier est à proximité et peut agir, il vous accompagne avec des gazouillements, des applaudissement ou son propre instrument miniature. Cela vous donne un bonus de circonstances de +1 ou de +2 si vous êtes maître en Représentation.</p>"
         },
         {
+            "id": "Wavesense",
+            "name": "Perception des ondes",
+            "description": "<p>Votre familier peut sentir les vibrations dans l'eau. Il acquiert Perception des ondes (imprécis) avec une portée de 9 m.</p>"
+        },
+        {
             "id": "Master's Form",
             "name": "Forme du maître",
             "description": "<p>Votre familier peut changer de forme par une unique action, se transformant en un humanoïde de votre héritage avec le même âge, le même genre et la même constitution que celle de sa véritable forme, bien qu'il présente toujours un reste surnaturel évident de sa nature, comme des yeux de chat ou une langue de serpent. Cette forme est toujours la même chaque fois qu'il utilise cette capacité. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Forme humanoïde}, sauf que le changement est purement cosmétique. Il apparaît seulement comme humanoïde mais ne gagne aucune capacité nouvelle. Votre familier doit avoir les capacités @Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]{dextérité manuelle} et @Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]{parole} pour pouvoir sélectionner cette capacité.</p>"
@@ -25,6 +30,11 @@
             "id": "Fast Movement: Swim",
             "name": "Déplacement rapide : Nage",
             "description": "<p>Augmentez la Vitesse de nage de votre familier de 7,5 à 12 m.</p>"
+        },
+        {
+            "id": "Darkeater",
+            "name": "Mangeur noir",
+            "description": "<p>Votre familier récupère naturellement dans les ombres. Après avoir passé 10 minutes consécutives dans une zone de lumière faible ou d'obscurité, votre familier récupère un nombre de points de vie égal à la moitié de votre niveau.</p>\n<p>Cette capacité est destinée à un familier de l'ombre. Cependant, un incantateur de l'ombre peut sélectionner cette capacité pour n'importe quel type de familier.</p>"
         },
         {
             "id": "Toolbearer",
@@ -52,6 +62,11 @@
             "description": "<p>Votre familier ne subit aucun dégât lorsqu’il réussit un jet de Réflexes ; cela n’empêche pas les effets autres que les dégâts.</p>"
         },
         {
+            "id": "Greater Resistance",
+            "name": "Résistance supérieure",
+            "description": "<p>Votre familier augmente la résistance qu'il a obtenu grâce au pouvoir de familier résistance à 3 + la moitié de votre niveau. Votre familier doit avoir le pouvoir @Compendium[pf2e.familiar-abilities.FcQQLMAJMgOLjnSv]{Résistance} pour pouvoir le sélectionner.</p>"
+        },
+        {
             "id": "Touch Telepathy",
             "name": "Télépathie de contact",
             "description": "<p>Votre familier peut communiquer télépathiquement avec vous par le contact. S'il possède également la capacité parole, il peut télépathiquement communiquer par le contact avec toute créature avec laquelle il partage une langue.</p>"
@@ -67,9 +82,24 @@
             "description": "<p>Une fois par jour, votre familier peut utiliser 2 actions avec le trait concentration pour regagner 1 point de focalisation, jusqu’à votre maximum habituel. Vous devez disposer d’une réserve de focalisation pour sélectionner ce pouvoir.</p>"
         },
         {
+            "id": "Threat Display",
+            "name": "Démonstration menaçante",
+            "description": "<p>Votre familier vous aide à transmettre des menaces sans parler par le biais du langage corporel.</p>\n<p>Lorsque vous tentez un test d'Intimidation pour @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} une créature, si votre familier se trouve à moins de 9 m de votre cible et peut agir, il vous accompagne par des grognements, des sifflements ou en levant les crocs.</p>\n<p>S'il peut le faire, vous ne subissez pas la pénalité normale de -4 au test d'intimidation si votre cible ne comprend pas la langue que vous parlez.</p>"
+        },
+        {
             "id": "Tough",
             "name": "Robuste",
             "description": "<p>Le nombre maximal de Point de vie de votre familier augmente de 2 par niveau</p>"
+        },
+        {
+            "id": "Second Opinion",
+            "name": "Seconde opinion",
+            "description": "<p>Votre familier est votre confident académique.</p>\n<p>En dépit du fait d'être un sbire, votre familier obient 1 réaction au début de ses tours, qu'il ne peut seulement utiliser que pour vous @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} sur un test de compétence pour Vous souvenir pour une compétence dans laquelle il a le pouvoir de familier @Compendium[pf2e.familiar-abilities.jevzf9JbJJibpqaI]{Compétent} (il a toujours à se préparer pour vous Aider comme à l'ordinaire avec la réaction Aider).</p>\n<p>Il réussit automatiquement à son test pour vous Aider avec ces compétences ou obtient automatiquement un succès critique si vous êtes maître avec la compétence en question. Votre familier doit avoir le pouvoir compétent pour choisir ceci.</p>"
+        },
+        {
+            "id": "Tremorsense",
+            "name": "Perception des vibrations",
+            "description": "<p>Votre familier a une conscience aiguë de toutes les vibrations qui se propagent sur une surface. Il obtient Perception des vibrations (imprécis) avec une portée de 9 m.</p>"
         },
         {
             "id": "Share Senses",
@@ -105,6 +135,11 @@
             "id": "Innate Surge",
             "name": "Déferlante innée",
             "description": "<p>Une fois par jour, vous pouvez puiser dans la magie innée de votre familier pour alimenter la vôtre. Vous pouvez lancer un sort inné octroyé par un don ancestral que vous avez déjà lancé aujourd'hui. Vous devez tout de même Lancer le sort et remplir ses autres conditions.</p>"
+        },
+        {
+            "id": "Gills",
+            "name": "Branchies",
+            "description": "<p>Votre familier développe un ensemble de branchies, ce qui lui permet de respirer de l'eau en plus de l'air.</p>"
         },
         {
             "id": "Cantrip Connection",
@@ -172,6 +207,11 @@
             "description": "<p>Votre familier plante peut changer de forme par une unique action, en transformant en une Très petite plante d'un type à peu près similaire à la nature du familier. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Morphologie d'arbre}. Vous devez avoir un familier avec le trait plante, tel qu'un léchi, pour choisir cette capacité.</p>"
         },
         {
+            "id": "Major Resistance",
+            "name": "Résistance majeure",
+            "description": "<p>Votre familier augmente la résistance qu'il obtient de son pouvoir de familier résistance à une valeur égale à votre niveau. Pour choisir ce pouvoir, votre familier doit avoir le pouvoir @Compendium[pf2e.familiar-abilities.zKTL9y9et0oTHEYS]{Résistance supérieure} et vous devez être au moins de niveau 8.</p>"
+        },
+        {
             "id": "Fast Movement: Climb",
             "name": "Déplacement rapide : Escalade",
             "description": "<p>Augmentez la Vitesse d'escalade de votre familier de 7,5 à 12 m.</p>"
@@ -195,6 +235,11 @@
             "id": "Mask Freeze",
             "name": "Masque figé",
             "description": "<p>lorsqu’il est sous forme de masque, votre familier peut dissimuler ses évidentes capacités surnaturelles afin de passer pour un masque simple et sans prétention. Il n’a pas besoin de Se déguiser pour duper un simple coup d’œil et il gagne un bonus de circonstances de +4 à son DD de Duperie contre un observateur actif qui Cherche ou qui l’étudie.</p>"
+        },
+        {
+            "id": "Snoop",
+            "name": "Fouineur",
+            "description": "<p>Votre familier garde les yeux et les oreilles ouverts, prêt à relayer chaque bribe de ragot qu'il capte, pour vous aider à recueillir des informations.</p>\n<p>Bien qu'il soit un sbire, votre familier gagne 1 réaction au début de ses tours, qu'il ne peut utiliser que pour vous @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} sur un test de Diplomatie en vue de @Compendium[pf2e.actionspf2e.plBGdZhqq5JBl1D8]{Recueillir des informations} (il doit toujours se préparer à vous aider comme à l'ordinaire avec la réaction Aider, qui nécessite sa participation tout au long de l'activité).</p>\n<p>Il obtient automatiquement un succès à son test pour vous Aider avec ces compétences ou automatiquement un succès critique si vous êtes un maître de la compétence en question.</p>"
         },
         {
             "id": "Poison Reservoir",
@@ -222,6 +267,16 @@
             "description": "<p>Prérequis @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secrets du familier léchi}</p>\n<p>Votre familier peut faire pousser des lianes ou des vrilles similaires, augmentant son allonge à 4,5 m.</p>"
         },
         {
+            "id": "Ambassador",
+            "name": "Ambassadeur",
+            "description": "<p>Votre familier sait comment agir de manière mignonne ou concentrée sur demande, ce qui vous aide à faire bonne impression.</p>\n<p>Bien qu'il soit un sbire, votre familier gagne 1 réaction au début de ses tours, qu'il ne peut utiliser que pour vous Aider lors d'un test de Diplomatie pour @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression} (il doit toujours se préparer à vous @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} comme d'habitude pour la réaction Aider, qui exige qu'il participe à toute l'activité).</p>\n<p>Il réussit automatiquement son test pour vous Aider avec ces compétences ou réussit automatiquement de manière critique si vous êtes maître dans la compétence en question.</p>"
+        },
+        {
+            "id": "Shadow Step",
+            "name": "Pas d'ombre",
+            "description": "<p>Ce pouvoir est pour les Familiers d'ombre. Un @Compendium[pf2e.feats-srd.ncrNQcwm4gOQRAA3]{Incantateur d'ombre}, quoi qu'il en soit, peut choisir ce pouvoir pour toute espèce de familier. Votre familier obtient l'action @Compendium[pf2e.actionspf2e.VQ5OxaDKE0lCj8Mr]{Pas d'ombre}.</p>\n<p>Vous devez être au moins de niveau 7 pour choisir ce pouvoir de familier pour votre familier.</p>"
+        },
+        {
             "id": "Damage Avoidance: Will",
             "name": "Évitement des dégâts : Volonté",
             "description": "<p>Votre familier ne subit aucun dégât lorsqu’il réussit un jet de Volonté ; cela n’empêche pas les effets autres que les dégâts.</p>"
@@ -229,7 +284,7 @@
         {
             "id": "Focused Rejuvenation",
             "name": "Récupération concentrée",
-            "description": "<p>Lorsque vous Refocalisez, vous générez de l'énergie magique qui soine votre familier.</p>\n<p>Votre familier récupère 1 Point de Vie par niveau lorsque vous Refocalisez.</p>"
+            "description": "<p>Lorsque vous Refocalisez, vous générez de l'énergie magique qui soigne votre familier. Votre familier récupère 1 Point de Vie par niveau lorsque vous Refocalisez.</p>"
         }
     ],
     "mapping": {

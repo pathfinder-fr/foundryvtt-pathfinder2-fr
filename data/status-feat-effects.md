@@ -1,11 +1,11 @@
 # État de la traduction (feat-effects)
 
- * **libre**: 43
- * **aucune**: 152
+ * **libre**: 79
+ * **aucune**: 116
  * **vide**: 2
 
 
-Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -13,49 +13,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[01-0r2V1nK5pV31IUPY.htm](feat-effects/01-0r2V1nK5pV31IUPY.htm)|Effect: Protective Mentor Boon (Revered) (PFS)|
-|[01-4Zj71naHbY6O9ggP.htm](feat-effects/01-4Zj71naHbY6O9ggP.htm)|Effect: Bristle|
-|[01-5bEnBqVOgdp4gROP.htm](feat-effects/01-5bEnBqVOgdp4gROP.htm)|Effect: Catfolk Dance|
-|[01-5IGz4iheaiUWm5KR.htm](feat-effects/01-5IGz4iheaiUWm5KR.htm)|Effect: Eye of the Arclords|
-|[01-5v0ndPPMfZwhiVZF.htm](feat-effects/01-5v0ndPPMfZwhiVZF.htm)|Effect: Predictable!|
 |[01-5veOBmMYQxywTudd.htm](feat-effects/01-5veOBmMYQxywTudd.htm)|Goblin Song (Success)|
-|[01-6LgJB4ypaSTWSJLu.htm](feat-effects/01-6LgJB4ypaSTWSJLu.htm)|Effect: Blade Ally Fearsome Rune|
-|[01-7hRgBo0fRQBxMK7g.htm](feat-effects/01-7hRgBo0fRQBxMK7g.htm)|Effect: Distracting Feint|
-|[01-9kNbiZPOM2wy60ao.htm](feat-effects/01-9kNbiZPOM2wy60ao.htm)|Effect: Ceremony of Protection|
-|[01-AKKHagjg5bL1fMG5.htm](feat-effects/01-AKKHagjg5bL1fMG5.htm)|Effect: Overwatch Field|
 |[01-aqnx6IDcB7ARLxS5.htm](feat-effects/01-aqnx6IDcB7ARLxS5.htm)|Effect: Wymblessed Blood Magic (Status Penalty - Target)|
-|[01-aWOvmdaTK1jS3H72.htm](feat-effects/01-aWOvmdaTK1jS3H72.htm)|Effect: Lost in the Crowd (10 Creatures)|
-|[01-bIRIS6mnynr72RDw.htm](feat-effects/01-bIRIS6mnynr72RDw.htm)|Goblin Song (Critical Success)|
-|[01-bmVwaN0C4e9fE2Sz.htm](feat-effects/01-bmVwaN0C4e9fE2Sz.htm)|Effect: Bolera's Interrogation (failure)|
-|[01-bvk5rwYSoTtz8QGf.htm](feat-effects/01-bvk5rwYSoTtz8QGf.htm)|Effect: Accursed Clay Fist|
-|[01-C6H3gF5HTdsIKpOC.htm](feat-effects/01-C6H3gF5HTdsIKpOC.htm)|Effect: Improved Poison Weapon|
-|[01-CNnIS8jWVj00nPwF.htm](feat-effects/01-CNnIS8jWVj00nPwF.htm)|Effect: Lost in the Crowd (100 Creatures)|
-|[01-CtrZFI3RV0yPNzTv.htm](feat-effects/01-CtrZFI3RV0yPNzTv.htm)|Effect: Bon Mot (Critical Success)|
-|[01-DvyyA11a63FBwV7x.htm](feat-effects/01-DvyyA11a63FBwV7x.htm)|Effect: Known Weakness|
-|[01-ed9iJxdHuft6bDFF.htm](feat-effects/01-ed9iJxdHuft6bDFF.htm)|Effect: Deadly Poison Weapon|
-|[01-EDpjey6SCdvIYqEc.htm](feat-effects/01-EDpjey6SCdvIYqEc.htm)|Effect: Twin Parry (Parry Trait)|
-|[01-eippbzuocVM6ftcj.htm](feat-effects/01-eippbzuocVM6ftcj.htm)|Effect: Blade Ally Disrupting Rune|
-|[01-eu2HidLHaGKe4MPn.htm](feat-effects/01-eu2HidLHaGKe4MPn.htm)|Effect: Twin Parry|
-|[01-EzgW32MCOGov9h5C.htm](feat-effects/01-EzgW32MCOGov9h5C.htm)|Effect: Striking Retribution|
 |[01-fh8TgCfiifVk0eqU.htm](feat-effects/01-fh8TgCfiifVk0eqU.htm)|Effect: Magical Mentor Boon (PFS)|
-|[01-FIgud5jqZgIjwkRE.htm](feat-effects/01-FIgud5jqZgIjwkRE.htm)|Effect: Maiden's Mending|
 |[01-fILVhS5NuCtGXfri.htm](feat-effects/01-fILVhS5NuCtGXfri.htm)|Effect: Wymblessed Blood Magic (Status Bonus - Self)|
-|[01-FyaekbWsazkJhJda.htm](feat-effects/01-FyaekbWsazkJhJda.htm)|Effect: Decry Thief (Success)|
-|[01-Gf7h44DcTB43464h.htm](feat-effects/01-Gf7h44DcTB43464h.htm)|Effect: Blade Ally Keen Rune|
-|[01-GoSls6SKCFmSoDxT.htm](feat-effects/01-GoSls6SKCFmSoDxT.htm)|Effect: Bon Mot|
 |[01-h45sUZFs5jhuQdCE.htm](feat-effects/01-h45sUZFs5jhuQdCE.htm)|Stance: Vitality-Manipulation Stance|
 |[01-HjfIXg5btodThCTW.htm](feat-effects/01-HjfIXg5btodThCTW.htm)|Effect: Blade Ally Disrupting Rune (Greater)|
-|[01-I4Ozf6mTnd3X0Oax.htm](feat-effects/01-I4Ozf6mTnd3X0Oax.htm)|Effect: Predictable! (Critical Success)|
 |[01-IfsglZ7fdegwem0E.htm](feat-effects/01-IfsglZ7fdegwem0E.htm)|Effect: Hydraulic Deflection|
 |[01-ivGiUp0EC5nWT9Hb.htm](feat-effects/01-ivGiUp0EC5nWT9Hb.htm)|Effect: Read Shibboleths|
 |[01-JF2xCqL6t4UJZtUi.htm](feat-effects/01-JF2xCqL6t4UJZtUi.htm)|Effect: Blizzard Evasion|
 |[01-JQUoBlZKT5N5zO5k.htm](feat-effects/01-JQUoBlZKT5N5zO5k.htm)|Effect: Avenge in Glory|
 |[01-K1IgNCf3Hh2EJwQ9.htm](feat-effects/01-K1IgNCf3Hh2EJwQ9.htm)|Effect: Divine Aegis|
-|[01-kAgUld9PcI4XkHbq.htm](feat-effects/01-kAgUld9PcI4XkHbq.htm)|Effect: Decry Thief (Critical Success)|
 |[01-KBEJVRrie2JTHWIK.htm](feat-effects/01-KBEJVRrie2JTHWIK.htm)|Effect: Dread Marshal Stance|
 |[01-KceTcamIZ4ZrQJLD.htm](feat-effects/01-KceTcamIZ4ZrQJLD.htm)|Effect: Educate Allies (Self)|
-|[01-KgR1myc4OLzVxfxn.htm](feat-effects/01-KgR1myc4OLzVxfxn.htm)|Effect: Predictable! (Critical Failure)|
 |[01-l3S9i2UWGhSO58YX.htm](feat-effects/01-l3S9i2UWGhSO58YX.htm)|Effect: Cat Nap|
-|[01-l98IthkklgLDJXIo.htm](feat-effects/01-l98IthkklgLDJXIo.htm)|Effect: Blade Ally Holy Rune|
 |[01-L9g3EMCT3imX650b.htm](feat-effects/01-L9g3EMCT3imX650b.htm)|Effect: Heaven's Thunder|
 |[01-lbe8XDSZB8gwyg90.htm](feat-effects/01-lbe8XDSZB8gwyg90.htm)|Effect: Protective Mentor Boon (Admired) (PFS)|
 |[01-ltIvO9ZQlmqGD89Y.htm](feat-effects/01-ltIvO9ZQlmqGD89Y.htm)|Effect: Hunter's Edge, Outwit|
@@ -72,14 +43,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-q2kY0TzXloJ8HLNO.htm](feat-effects/01-q2kY0TzXloJ8HLNO.htm)|Effect: Combat Mentor Boon (PFS)|
 |[01-QDQwHxNowRwzUx9R.htm](feat-effects/01-QDQwHxNowRwzUx9R.htm)|Effect: Reflective Ripple Stance|
 |[01-qIOEe4kUN7FOBifb.htm](feat-effects/01-qIOEe4kUN7FOBifb.htm)|Effect: Hybrid Form|
-|[01-Rgio0hasm2epEMfh.htm](feat-effects/01-Rgio0hasm2epEMfh.htm)|Effect: Blade Ally Ghost Touch Rune|
-|[01-rGSc2PtvU3mgm18S.htm](feat-effects/01-rGSc2PtvU3mgm18S.htm)|Effect: Blade Ally Unholy Rune|
 |[01-SKjVvQcRQmnDoouw.htm](feat-effects/01-SKjVvQcRQmnDoouw.htm)|Effect: Skillful Mentor Boon (PFS)|
-|[01-SXYcrnGzWCuj8zq7.htm](feat-effects/01-SXYcrnGzWCuj8zq7.htm)|Effect: Poison Weapon|
 |[01-ugeStF0Rj8phBPWL.htm](feat-effects/01-ugeStF0Rj8phBPWL.htm)|Effect: Witch's Charge|
 |[01-uXCU8GgriUjuj5FV.htm](feat-effects/01-uXCU8GgriUjuj5FV.htm)|Effect: Hunter's Edge, Flurry|
 |[01-vhSYlQiAQMLuXqoc.htm](feat-effects/01-vhSYlQiAQMLuXqoc.htm)|Effect: Clue In|
-|[01-VIScVb6Hl7KwoWfH.htm](feat-effects/01-VIScVb6Hl7KwoWfH.htm)|Effect: Bolera's Interrogation (Critical Failure)|
 |[01-vQj9I3FShzx3lNoG.htm](feat-effects/01-vQj9I3FShzx3lNoG.htm)|Effect: Deep Freeze (Failure)|
 |[01-W2tWq0gdAcnoz2MO.htm](feat-effects/01-W2tWq0gdAcnoz2MO.htm)|Effect: Monster Hunter|
 |[01-W8HWQ47YNHWB8kj6.htm](feat-effects/01-W8HWQ47YNHWB8kj6.htm)|Effect: Topple Giants|
@@ -87,10 +54,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-WrWSieH9Acy6XuzV.htm](feat-effects/01-WrWSieH9Acy6XuzV.htm)|Effect: Educate Allies (Ally)|
 |[01-X1pGyhMKrCTvHB0q.htm](feat-effects/01-X1pGyhMKrCTvHB0q.htm)|Effect: Favorable Winds|
 |[01-xDT10fUWp8UStSZR.htm](feat-effects/01-xDT10fUWp8UStSZR.htm)|Effect: Cavalier's Banner|
-|[01-xLXFK4mtzgAF4zvx.htm](feat-effects/01-xLXFK4mtzgAF4zvx.htm)|Effect: Blade Ally Anarchic Rune|
-|[01-YxYr18vleIt2t3RS.htm](feat-effects/01-YxYr18vleIt2t3RS.htm)|Effect: Blade Ally Flaming Rune|
 |[01-ZMFgz4GYSsFeaKKK.htm](feat-effects/01-ZMFgz4GYSsFeaKKK.htm)|Effect: Rugged Mentor Boon (PFS)|
-|[01-ZzE6jPbCyUqEqhcb.htm](feat-effects/01-ZzE6jPbCyUqEqhcb.htm)|Effect: Blade Ally Axiomatic Rune|
 |[02-9dCt0asv0kt7DR4q.htm](feat-effects/02-9dCt0asv0kt7DR4q.htm)|Effect: Liberating Step (vs. Fiend)|
 |[02-AAgoUuwMvHzqNhIN.htm](feat-effects/02-AAgoUuwMvHzqNhIN.htm)|Effect: Assisting Shot (Critical Hit)|
 |[02-iyONT1qgeRgoYHsZ.htm](feat-effects/02-iyONT1qgeRgoYHsZ.htm)|Effect: Liberating Step (vs. Dragon)|
@@ -201,21 +165,57 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-1XlJ9xLzL19GHoOL.htm](feat-effects/01-1XlJ9xLzL19GHoOL.htm)|Effect: Overdrive (Critical Success)|Effet : Surrégime (Succès critique)|libre|
 |[01-2RwhJ9fbJtcQjW6s.htm](feat-effects/01-2RwhJ9fbJtcQjW6s.htm)|Effect: Arctic Endemic Herb|Effet : Herbes endémiques Arctique|libre|
 |[01-4alr9e8w9H0RCLwI.htm](feat-effects/01-4alr9e8w9H0RCLwI.htm)|Effect: Tiller's Drive|Effet : Conduite du Laboureur|libre|
+|[01-4Zj71naHbY6O9ggP.htm](feat-effects/01-4Zj71naHbY6O9ggP.htm)|Effect: Bristle|Effet : Hirsute|libre|
+|[01-5bEnBqVOgdp4gROP.htm](feat-effects/01-5bEnBqVOgdp4gROP.htm)|Effect: Catfolk Dance|Effet : Danse homme-félin|libre|
+|[01-5IGz4iheaiUWm5KR.htm](feat-effects/01-5IGz4iheaiUWm5KR.htm)|Effect: Eye of the Arclords|Effet : Œil des Seigneurs de l'Arc|libre|
+|[01-5v0ndPPMfZwhiVZF.htm](feat-effects/01-5v0ndPPMfZwhiVZF.htm)|Effect: Predictable!|Effet : Présivisible ! (Succès)|libre|
 |[01-6EDoy3OSFZ4L3Vs7.htm](feat-effects/01-6EDoy3OSFZ4L3Vs7.htm)|Stance: Paragon's Guard|Posture : Protection du Parangon|libre|
+|[01-6LgJB4ypaSTWSJLu.htm](feat-effects/01-6LgJB4ypaSTWSJLu.htm)|Effect: Blade Ally Fearsome Rune|Effet : Allié lame rune Effrayante|libre|
+|[01-7hRgBo0fRQBxMK7g.htm](feat-effects/01-7hRgBo0fRQBxMK7g.htm)|Effect: Distracting Feint|Effet : Feinte de diversion|libre|
 |[01-9HPxAKpP3WJmICBx.htm](feat-effects/01-9HPxAKpP3WJmICBx.htm)|Stance: Point-Blank Shot|Posture : Tir à bout portant|libre|
+|[01-9kNbiZPOM2wy60ao.htm](feat-effects/01-9kNbiZPOM2wy60ao.htm)|Effect: Ceremony of Protection|Effet : Cérémonie de protection|libre|
 |[01-AJlunjfAIOq2Sg0p.htm](feat-effects/01-AJlunjfAIOq2Sg0p.htm)|Effect: Underground Endemic Herbs|Effet : Herbes endémiques Souterrains|libre|
+|[01-AKKHagjg5bL1fMG5.htm](feat-effects/01-AKKHagjg5bL1fMG5.htm)|Effect: Overwatch Field|Effet : Champ du guetteur|libre|
+|[01-aWOvmdaTK1jS3H72.htm](feat-effects/01-aWOvmdaTK1jS3H72.htm)|Effect: Lost in the Crowd (10 Creatures)|Effet : Se perdre dans la foule (10 créatures)|libre|
+|[01-bIRIS6mnynr72RDw.htm](feat-effects/01-bIRIS6mnynr72RDw.htm)|Goblin Song (Critical Success)|Chant Gobelin (Succès critique)|libre|
 |[01-bliWctLi7jlKUTUe.htm](feat-effects/01-bliWctLi7jlKUTUe.htm)|Effect: Forest Endemic Herbs|Effet : Herbes endémiques Forêt|libre|
+|[01-bmVwaN0C4e9fE2Sz.htm](feat-effects/01-bmVwaN0C4e9fE2Sz.htm)|Effect: Bolera's Interrogation (failure)|Effet : Interrogatoire de Boléra (échec)|libre|
+|[01-bvk5rwYSoTtz8QGf.htm](feat-effects/01-bvk5rwYSoTtz8QGf.htm)|Effect: Accursed Clay Fist|Effet: Poing de glaise maudit|libre|
+|[01-C6H3gF5HTdsIKpOC.htm](feat-effects/01-C6H3gF5HTdsIKpOC.htm)|Effect: Improved Poison Weapon|Effet: Arme empoisonnée améliorée|libre|
+|[01-CNnIS8jWVj00nPwF.htm](feat-effects/01-CNnIS8jWVj00nPwF.htm)|Effect: Lost in the Crowd (100 Creatures)|Effet : Se perdre dans la foule (100 créatures)|libre|
 |[01-CQfkyJkRHw4IHWhv.htm](feat-effects/01-CQfkyJkRHw4IHWhv.htm)|Stance: Sky and Heaven Stance|Posture : Posture du Ciel et du Paradis|libre|
+|[01-CtrZFI3RV0yPNzTv.htm](feat-effects/01-CtrZFI3RV0yPNzTv.htm)|Effect: Bon Mot (Critical Success)|Effet : Bon Mot (Succès critique)|libre|
+|[01-DvyyA11a63FBwV7x.htm](feat-effects/01-DvyyA11a63FBwV7x.htm)|Effect: Known Weakness|Effet : Faiblesses connues|libre|
+|[01-ed9iJxdHuft6bDFF.htm](feat-effects/01-ed9iJxdHuft6bDFF.htm)|Effect: Deadly Poison Weapon|Effet : Arme empoisonnée mortelle|libre|
+|[01-EDpjey6SCdvIYqEc.htm](feat-effects/01-EDpjey6SCdvIYqEc.htm)|Effect: Twin Parry (Parry Trait)|Effet : Parade jumelée (Trait parade)|libre|
+|[01-eippbzuocVM6ftcj.htm](feat-effects/01-eippbzuocVM6ftcj.htm)|Effect: Blade Ally Disrupting Rune|Effet : Allié lame rune Pertubatrice|libre|
+|[01-eu2HidLHaGKe4MPn.htm](feat-effects/01-eu2HidLHaGKe4MPn.htm)|Effect: Twin Parry|Effet : Parade jumelée}|libre|
+|[01-EzgW32MCOGov9h5C.htm](feat-effects/01-EzgW32MCOGov9h5C.htm)|Effect: Striking Retribution|Effet : Rétribution frappante|libre|
+|[01-FIgud5jqZgIjwkRE.htm](feat-effects/01-FIgud5jqZgIjwkRE.htm)|Effect: Maiden's Mending|Effet : Guérison de la vierge}|libre|
+|[01-FyaekbWsazkJhJda.htm](feat-effects/01-FyaekbWsazkJhJda.htm)|Effect: Decry Thief (Success)|Effet : Fléau des voleurs (Succès)|libre|
+|[01-Gf7h44DcTB43464h.htm](feat-effects/01-Gf7h44DcTB43464h.htm)|Effect: Blade Ally Keen Rune|Effet : Allié lame rune Acérée|libre|
 |[01-GGebXpRPyONZB3eS.htm](feat-effects/01-GGebXpRPyONZB3eS.htm)|Stance: Everstand Stance|Posture : Posture toujours en position|libre|
+|[01-GoSls6SKCFmSoDxT.htm](feat-effects/01-GoSls6SKCFmSoDxT.htm)|Effect: Bon Mot|Effet : Bon Mot (Succès)|libre|
 |[01-HjCXHDZT6GkCyiuG.htm](feat-effects/01-HjCXHDZT6GkCyiuG.htm)|Effect: Plains Endemic Herbs|Effet : Herbes endémiques Plaine|libre|
+|[01-I4Ozf6mTnd3X0Oax.htm](feat-effects/01-I4Ozf6mTnd3X0Oax.htm)|Effect: Predictable! (Critical Success)|Effet : Présivisible ! (Succès critique)|libre|
 |[01-jZYRxGHyArCci6AF.htm](feat-effects/01-jZYRxGHyArCci6AF.htm)|Effect: Desert Endemic Herbs|Effet : Herbes endémiques Désert|libre|
+|[01-kAgUld9PcI4XkHbq.htm](feat-effects/01-kAgUld9PcI4XkHbq.htm)|Effect: Decry Thief (Critical Success)|Effet : Fléau des voleurs (Succès critique)|libre|
+|[01-KgR1myc4OLzVxfxn.htm](feat-effects/01-KgR1myc4OLzVxfxn.htm)|Effect: Predictable! (Critical Failure)|Effet : Présivisible ! (Échec critique)|libre|
 |[01-KiuBRoMFxL2Npt51.htm](feat-effects/01-KiuBRoMFxL2Npt51.htm)|Stance: Dueling Dance|Posture : Danse en duel|libre|
 |[01-kzEPq4aczYb6OD2h.htm](feat-effects/01-kzEPq4aczYb6OD2h.htm)|Effect: Inspiring Marshal Stance|Effet : Posture du Capitaine inspirant|libre|
+|[01-l98IthkklgLDJXIo.htm](feat-effects/01-l98IthkklgLDJXIo.htm)|Effect: Blade Ally Holy Rune|Effet : Allié lame rune Sainte|libre|
 |[01-MZDh3170EFIfOwTO.htm](feat-effects/01-MZDh3170EFIfOwTO.htm)|Effect: Overdrive (Success)|Effet : Surrégime (Succès)|libre|
 |[01-NviQYIVZbPCSWLqT.htm](feat-effects/01-NviQYIVZbPCSWLqT.htm)|Effect: Aquatic Endemic Herbs|Effet : Herbes endémiques Aquatique|libre|
 |[01-P80mwvCAEncR2snK.htm](feat-effects/01-P80mwvCAEncR2snK.htm)|Stance: Six Pillars Stance|Posture: Posture des six piliers|libre|
 |[01-pkcr9w5x6bKzl3om.htm](feat-effects/01-pkcr9w5x6bKzl3om.htm)|Stance: Jellyfish Stance|Posture : Posture de la méduse|libre|
 |[01-QTG73gxKSNkiEWdY.htm](feat-effects/01-QTG73gxKSNkiEWdY.htm)|Effect: Mountain Endemic Herbs|Effet : Herbes endémiques Montagnes|libre|
+|[01-Rgio0hasm2epEMfh.htm](feat-effects/01-Rgio0hasm2epEMfh.htm)|Effect: Blade Ally Ghost Touch Rune|Effet : Allié lame rune Spectrale|libre|
+|[01-rGSc2PtvU3mgm18S.htm](feat-effects/01-rGSc2PtvU3mgm18S.htm)|Effect: Blade Ally Unholy Rune|Effet : Allié lame rune Impie|libre|
 |[01-rp1YauUSULuqW8rs.htm](feat-effects/01-rp1YauUSULuqW8rs.htm)|Stance: Stoked Flame Stance|Posture : Posture de la flamme ravivée|libre|
+|[01-SXYcrnGzWCuj8zq7.htm](feat-effects/01-SXYcrnGzWCuj8zq7.htm)|Effect: Poison Weapon|Effet : Arme empoisonnée|libre|
+|[01-VIScVb6Hl7KwoWfH.htm](feat-effects/01-VIScVb6Hl7KwoWfH.htm)|Effect: Bolera's Interrogation (Critical Failure)|Effet : Interrogatoire de Boléra (échec critique)|libre|
+|[01-xLXFK4mtzgAF4zvx.htm](feat-effects/01-xLXFK4mtzgAF4zvx.htm)|Effect: Blade Ally Anarchic Rune|Effet : Allié lame rune Anarchique|libre|
+|[01-YxYr18vleIt2t3RS.htm](feat-effects/01-YxYr18vleIt2t3RS.htm)|Effect: Blade Ally Flaming Rune|Effet : Allié lame rune Enflammée|libre|
+|[01-ZzE6jPbCyUqEqhcb.htm](feat-effects/01-ZzE6jPbCyUqEqhcb.htm)|Effect: Blade Ally Axiomatic Rune|Effet : Allié lame|libre|
 |[06-LxSev4GNKv26DbZw.htm](feat-effects/06-LxSev4GNKv26DbZw.htm)|Stance: Disarming Stance|Posture : Posture désarmante|libre|
 |[16-l4QUaedYofnfXig0.htm](feat-effects/16-l4QUaedYofnfXig0.htm)|Stance: Multishot Stance|Posture : Posture de tirs multiples|libre|

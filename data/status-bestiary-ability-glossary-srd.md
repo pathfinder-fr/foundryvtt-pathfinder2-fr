@@ -1,19 +1,12 @@
 # État de la traduction (bestiary-ability-glossary-srd)
 
  * **libre**: 10
- * **officielle**: 37
- * **changé**: 1
+ * **officielle**: 38
 
 
-Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[etMnv73EIdEZrYYu.htm](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Frightful Presence|Présence terrifiante|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -30,6 +23,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[baA0nSMhQyFyJIia.htm](bestiary-ability-glossary-srd/baA0nSMhQyFyJIia.htm)|Swarm Mind|Esprit de la nuée|officielle|
 |[BCLvAx4Pz4MLa2pu.htm](bestiary-ability-glossary-srd/BCLvAx4Pz4MLa2pu.htm)|Knockdown|Renversement|officielle|
 |[eQM5hQ1W3d1uen97.htm](bestiary-ability-glossary-srd/eQM5hQ1W3d1uen97.htm)|Change Shape|Changement de forme|officielle|
+|[etMnv73EIdEZrYYu.htm](bestiary-ability-glossary-srd/etMnv73EIdEZrYYu.htm)|Frightful Presence|Présence terrifiante|officielle|
 |[fFu2sZz4KB01fVRc.htm](bestiary-ability-glossary-srd/fFu2sZz4KB01fVRc.htm)|Low-Light Vision|Vision nocturne|officielle|
 |[fJSNOw4zHGbIm4bZ.htm](bestiary-ability-glossary-srd/fJSNOw4zHGbIm4bZ.htm)|Fast Healing|Guérison accélérée|officielle|
 |[g26YiEIfSHCpLocV.htm](bestiary-ability-glossary-srd/g26YiEIfSHCpLocV.htm)|Constrict|Constriction|officielle|

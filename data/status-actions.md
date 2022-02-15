@@ -1,11 +1,11 @@
 # État de la traduction (actions)
 
  * **officielle**: 110
- * **libre**: 156
- * **aucune**: 4
+ * **libre**: 157
+ * **aucune**: 3
 
 
-Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -15,7 +15,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[h4Tzdhqfryp5m2fO.htm](actions/h4Tzdhqfryp5m2fO.htm)|Harvest Heartsliver|
 |[iBf9uGn5LOHkWpZ6.htm](actions/iBf9uGn5LOHkWpZ6.htm)|Craft Disharmonic Instrument|
 |[KAVf7AmRnbCAHrkT.htm](actions/KAVf7AmRnbCAHrkT.htm)|Attack of Opportunity|
-|[VQ5OxaDKE0lCj8Mr.htm](actions/VQ5OxaDKE0lCj8Mr.htm)|Shadow Step|
 
 ## Liste des traductions complétés
 
@@ -263,6 +262,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VNuOwXIHafSLHvsZ.htm](actions/VNuOwXIHafSLHvsZ.htm)|Spellsling|Envoi de sort|libre|
 |[vO0Y1dVjNfbDyT4S.htm](actions/vO0Y1dVjNfbDyT4S.htm)|Vital Shot|Tir vital|libre|
 |[VOEWhPQfN3lvHivK.htm](actions/VOEWhPQfN3lvHivK.htm)|Foresight|Prémonition|libre|
+|[VQ5OxaDKE0lCj8Mr.htm](actions/VQ5OxaDKE0lCj8Mr.htm)|Shadow Step|Pas d'ombre|libre|
 |[vvYsE7OiSSCXhPdr.htm](actions/vvYsE7OiSSCXhPdr.htm)|Set Explosives|Placer des explosifs|libre|
 |[vZltxwRNvF5khf9a.htm](actions/vZltxwRNvF5khf9a.htm)|Boarding Assault|Assaut d'abordage|libre|
 |[W4M8L9WepGLamlHs.htm](actions/W4M8L9WepGLamlHs.htm)|Threatening Approach|Approche menaçante|libre|

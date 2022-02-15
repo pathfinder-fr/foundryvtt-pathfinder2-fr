@@ -1,29 +1,12 @@
 # État de la traduction (familiar-abilities)
 
  * **officielle**: 16
- * **libre**: 30
- * **aucune**: 11
+ * **libre**: 41
 
 
-Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[01-7ZxPS0UU7pf7wjp0.htm](familiar-abilities/01-7ZxPS0UU7pf7wjp0.htm)|Ambassador|
-|[01-aEKA3YWekLhEhuV8.htm](familiar-abilities/01-aEKA3YWekLhEhuV8.htm)|Threat Display|
-|[01-Amzezp93MZckBYRZ.htm](familiar-abilities/01-Amzezp93MZckBYRZ.htm)|Wavesense|
-|[01-dpjf1CyMEILpJWyp.htm](familiar-abilities/01-dpjf1CyMEILpJWyp.htm)|Darkeater|
-|[01-fmsVItn94FeY5Q3X.htm](familiar-abilities/01-fmsVItn94FeY5Q3X.htm)|Snoop|
-|[01-hMrxiUPHXKpKu1Ha.htm](familiar-abilities/01-hMrxiUPHXKpKu1Ha.htm)|Major Resistance|
-|[01-j1qZiH50Bl2SJ8vT.htm](familiar-abilities/01-j1qZiH50Bl2SJ8vT.htm)|Shadow Step|
-|[01-j9vOSbF9kLibhSIf.htm](familiar-abilities/01-j9vOSbF9kLibhSIf.htm)|Second Opinion|
-|[01-lpyJAl5B4j2DC7mc.htm](familiar-abilities/01-lpyJAl5B4j2DC7mc.htm)|Gills|
-|[01-LrDnat1DsGJoAiKv.htm](familiar-abilities/01-LrDnat1DsGJoAiKv.htm)|Tremorsense|
-|[01-zKTL9y9et0oTHEYS.htm](familiar-abilities/01-zKTL9y9et0oTHEYS.htm)|Greater Resistance|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -33,25 +16,35 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-57b8u8s3fV0UCrgJ.htm](familiar-abilities/01-57b8u8s3fV0UCrgJ.htm)|Plant Form|Forme de plante|libre|
 |[01-5gwqSpkRqWzrbDDU.htm](familiar-abilities/01-5gwqSpkRqWzrbDDU.htm)|Damage Avoidance: Will|Évitement des dégâts : Volonté|libre|
 |[01-7QosmRHlyLLhU1hX.htm](familiar-abilities/01-7QosmRHlyLLhU1hX.htm)|Lab Assistant|Assistant de laboratoire|officielle|
+|[01-7ZxPS0UU7pf7wjp0.htm](familiar-abilities/01-7ZxPS0UU7pf7wjp0.htm)|Ambassador|Ambassadeur|libre|
 |[01-8Z1UkLEWkFWIjOF8.htm](familiar-abilities/01-8Z1UkLEWkFWIjOF8.htm)|Poison Reservoir|Réservoir de poison|libre|
 |[01-92lgSEPFIDLvKOCF.htm](familiar-abilities/01-92lgSEPFIDLvKOCF.htm)|Accompanist|Accompagnateur|libre|
 |[01-9PsptrEoCC4QdM23.htm](familiar-abilities/01-9PsptrEoCC4QdM23.htm)|Valet|Valet|libre|
 |[01-A0C86V3MUECpX5jd.htm](familiar-abilities/01-A0C86V3MUECpX5jd.htm)|Amphibious|Amphibie|libre|
+|[01-aEKA3YWekLhEhuV8.htm](familiar-abilities/01-aEKA3YWekLhEhuV8.htm)|Threat Display|Démonstration menaçante|libre|
+|[01-Amzezp93MZckBYRZ.htm](familiar-abilities/01-Amzezp93MZckBYRZ.htm)|Wavesense|Perception des ondes|libre|
 |[01-asOhEdyF8CWFbR96.htm](familiar-abilities/01-asOhEdyF8CWFbR96.htm)|Spellcasting|Incantateur|libre|
 |[01-BXssJhTJjKrfojwG.htm](familiar-abilities/01-BXssJhTJjKrfojwG.htm)|Fast Movement: Land|Déplacement rapide : Au sol|libre|
 |[01-C16JgmeJJG249WXz.htm](familiar-abilities/01-C16JgmeJJG249WXz.htm)|Mask Freeze|Masque figé|officielle|
 |[01-cT5octWchU4gjrhP.htm](familiar-abilities/01-cT5octWchU4gjrhP.htm)|Manual Dexterity|Dextérité manuelle|officielle|
 |[01-D0ltNUJnN7UjJpA1.htm](familiar-abilities/01-D0ltNUJnN7UjJpA1.htm)|Innate Surge|Déferlante innée|officielle|
 |[01-deC1yIM2S5szGdzT.htm](familiar-abilities/01-deC1yIM2S5szGdzT.htm)|Lifelink|Lien vital|officielle|
+|[01-dpjf1CyMEILpJWyp.htm](familiar-abilities/01-dpjf1CyMEILpJWyp.htm)|Darkeater|Mangeur noir|libre|
 |[01-dWTfO5WbLkD5mw2H.htm](familiar-abilities/01-dWTfO5WbLkD5mw2H.htm)|Climber|Grimpeur|officielle|
 |[01-FcQQLMAJMgOLjnSv.htm](familiar-abilities/01-FcQQLMAJMgOLjnSv.htm)|Resistance|Résistance|libre|
 |[01-FlRUb8U13Crj3NaA.htm](familiar-abilities/01-FlRUb8U13Crj3NaA.htm)|Scent|Odorat|officielle|
+|[01-fmsVItn94FeY5Q3X.htm](familiar-abilities/01-fmsVItn94FeY5Q3X.htm)|Snoop|Fouineur|libre|
 |[01-gPceRQqO847lvSnb.htm](familiar-abilities/01-gPceRQqO847lvSnb.htm)|Share Senses|Partage des sens|officielle|
+|[01-hMrxiUPHXKpKu1Ha.htm](familiar-abilities/01-hMrxiUPHXKpKu1Ha.htm)|Major Resistance|Résistance majeure|libre|
+|[01-j1qZiH50Bl2SJ8vT.htm](familiar-abilities/01-j1qZiH50Bl2SJ8vT.htm)|Shadow Step|Pas d'ombre|libre|
+|[01-j9vOSbF9kLibhSIf.htm](familiar-abilities/01-j9vOSbF9kLibhSIf.htm)|Second Opinion|Seconde opinion|libre|
 |[01-jdlefpPcSCIe27vO.htm](familiar-abilities/01-jdlefpPcSCIe27vO.htm)|Familiar Focus|Focalisation du familier|officielle|
 |[01-jevzf9JbJJibpqaI.htm](familiar-abilities/01-jevzf9JbJJibpqaI.htm)|Skilled|Compétent|libre|
 |[01-JRP2bdkdCdj2JDrq.htm](familiar-abilities/01-JRP2bdkdCdj2JDrq.htm)|Master's Form|Forme du maître|libre|
 |[01-K5OLRDsGCfPZ6mO6.htm](familiar-abilities/01-K5OLRDsGCfPZ6mO6.htm)|Damage Avoidance: Reflex|Évitement des dégâts : Réflexes|libre|
 |[01-Le8UWr5BU8rV3iBf.htm](familiar-abilities/01-Le8UWr5BU8rV3iBf.htm)|Tough|Robuste|libre|
+|[01-lpyJAl5B4j2DC7mc.htm](familiar-abilities/01-lpyJAl5B4j2DC7mc.htm)|Gills|Branchies|libre|
+|[01-LrDnat1DsGJoAiKv.htm](familiar-abilities/01-LrDnat1DsGJoAiKv.htm)|Tremorsense|Perception des vibrations|libre|
 |[01-mK3mAUWiRLZZYNdz.htm](familiar-abilities/01-mK3mAUWiRLZZYNdz.htm)|Damage Avoidance: Fortitude|Évitement des dégâts : Vigueur|libre|
 |[01-O5TIjqXAuta8iVSz.htm](familiar-abilities/01-O5TIjqXAuta8iVSz.htm)|Focused Rejuvenation|Récupération concentrée|libre|
 |[01-Q42nrq9LwDdbeZM5.htm](familiar-abilities/01-Q42nrq9LwDdbeZM5.htm)|Restorative Familiar|Familier curatif|libre|
@@ -69,6 +62,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-Xanjwv4YU0CBnsMw.htm](familiar-abilities/01-Xanjwv4YU0CBnsMw.htm)|Spell Battery|Accumulateur de sorts|officielle|
 |[01-XCqYnlVbLGqEGPeX.htm](familiar-abilities/01-XCqYnlVbLGqEGPeX.htm)|Touch Telepathy|Télépathie de contact|libre|
 |[01-ZHSzNt3NxkXbj1mI.htm](familiar-abilities/01-ZHSzNt3NxkXbj1mI.htm)|Flier|Volant|libre|
+|[01-zKTL9y9et0oTHEYS.htm](familiar-abilities/01-zKTL9y9et0oTHEYS.htm)|Greater Resistance|Résistance supérieure|libre|
 |[01-ZtKb89o1PPhwJ3Lx.htm](familiar-abilities/01-ZtKb89o1PPhwJ3Lx.htm)|Extra Reagents|Réactifs supplémentaires|officielle|
 |[01-zyMRLQnFCQVpltiR.htm](familiar-abilities/01-zyMRLQnFCQVpltiR.htm)|Speech|Parole|officielle|
 |[04-43xB5UnexISlfRa5.htm](familiar-abilities/04-43xB5UnexISlfRa5.htm)|Purify Air|Purificateur d'air|libre|

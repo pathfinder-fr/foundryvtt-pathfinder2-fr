@@ -1,30 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 229
- * **libre**: 207
- * **changé**: 12
+ * **officielle**: 230
+ * **libre**: 218
 
 
-Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[gunslinger-01-OmgtSDV1FubDUqWR.htm](classfeatures/gunslinger-01-OmgtSDV1FubDUqWR.htm)|Way of the Spellshot|Voie du sortiléro|changé|
-|[None-01-HYTaibaCGE85rhbZ.htm](classfeatures/None-01-HYTaibaCGE85rhbZ.htm)|Runelord Specialization|Spécialisation de Seigneur des runes|changé|
-|[None-01-pUkUC8HHom2DmYzz.htm](classfeatures/None-01-pUkUC8HHom2DmYzz.htm)|Elemental Magic|Magie élémentaire|changé|
-|[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle|Combat|changé|
-|[oracle-01-IaxmCkdsPlA52spu.htm](classfeatures/oracle-01-IaxmCkdsPlA52spu.htm)|Bones|Ossements|changé|
-|[oracle-01-o1gGG36wpn9mxeop.htm](classfeatures/oracle-01-o1gGG36wpn9mxeop.htm)|Life|Vie|changé|
-|[oracle-01-qvRlih3u7vK3FYUR.htm](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Ancestors|Ancêtres|changé|
-|[oracle-01-RI2EMRBBPNSoTJXu.htm](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Cosmos|Cosmos|changé|
-|[oracle-01-tZBb3Kh4nJcNoUFI.htm](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Lore|Savoir|changé|
-|[oracle-01-W9cF7wZztLDb1WGY.htm](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Tempest|Tempête|changé|
-|[sorcerer-01-TWR1wbPJuCLnGdFZ.htm](classfeatures/sorcerer-01-TWR1wbPJuCLnGdFZ.htm)|Bloodline: Phoenix|Lignage : Phénix|changé|
-|[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|Lignage : Draconique|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -193,6 +175,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fighter-19-0H2LxtiZTJ275pSD.htm](classfeatures/fighter-19-0H2LxtiZTJ275pSD.htm)|Versatile Legend|Légende polyvalente|officielle|
 |[gunslinger-01-a3pSIKkDVTvvNSRO.htm](classfeatures/gunslinger-01-a3pSIKkDVTvvNSRO.htm)|Way of the Drifter|Voie du vagabond|libre|
 |[gunslinger-01-LDqVxLKrwEqSegiu.htm](classfeatures/gunslinger-01-LDqVxLKrwEqSegiu.htm)|Gunslinger's Way|Voies du franc-tireur|libre|
+|[gunslinger-01-OmgtSDV1FubDUqWR.htm](classfeatures/gunslinger-01-OmgtSDV1FubDUqWR.htm)|Way of the Spellshot|Voie du sortiléro|libre|
 |[gunslinger-01-qRLRrHf0kzaJ7xt0.htm](classfeatures/gunslinger-01-qRLRrHf0kzaJ7xt0.htm)|Way of the Pistolero|Voie du pistoléro|libre|
 |[gunslinger-01-QWXvksGJhOjXbBqi.htm](classfeatures/gunslinger-01-QWXvksGJhOjXbBqi.htm)|Way of the Sniper|Voie du tireur d'élite|libre|
 |[gunslinger-01-vB0yVFxJVZwalt2g.htm](classfeatures/gunslinger-01-vB0yVFxJVZwalt2g.htm)|Way of the Vanguard|Voie de l'avant-garde|libre|
@@ -279,7 +262,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-00-YrJj8UI0XpkHv0Ho.htm](classfeatures/None-00-YrJj8UI0XpkHv0Ho.htm)|Order of the Chain|Ordre des chaînes|officielle|
 |[None-00-zGxO2cETUsXuvqRu.htm](classfeatures/None-00-zGxO2cETUsXuvqRu.htm)|Order of the Pyre|Ordre du bûcher|officielle|
 |[None-01-1FPVkksuE2ncw9rF.htm](classfeatures/None-01-1FPVkksuE2ncw9rF.htm)|Ki Spells|Sorts de ki|officielle|
+|[None-01-HYTaibaCGE85rhbZ.htm](classfeatures/None-01-HYTaibaCGE85rhbZ.htm)|Runelord Specialization|Spécialisation de Seigneur des runes|libre|
 |[None-01-mRvyq7G0rqRP1EAr.htm](classfeatures/None-01-mRvyq7G0rqRP1EAr.htm)|Wellspring Magic|Magie de la source|libre|
+|[None-01-pUkUC8HHom2DmYzz.htm](classfeatures/None-01-pUkUC8HHom2DmYzz.htm)|Elemental Magic|Magie élémentaire|libre|
 |[None-01-T25ZLQWn6O4KchLo.htm](classfeatures/None-01-T25ZLQWn6O4KchLo.htm)|Focus Spells|Sorts focalisés|libre|
 |[None-01-Upf1LXtWNJ6eB5sm.htm](classfeatures/None-01-Upf1LXtWNJ6eB5sm.htm)|Flexible Spell Preparation|Préparation de sort flexible|libre|
 |[None-03-D8CSi8c9XiRpVc5M.htm](classfeatures/None-03-D8CSi8c9XiRpVc5M.htm)|Alertness|Vigilance|officielle|
@@ -304,10 +289,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[None-17-cGMSYAErbUG5E8X2.htm](classfeatures/None-17-cGMSYAErbUG5E8X2.htm)|Medium Armor Mastery|Maîtrise des armures intermédiaires|libre|
 |[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|libre|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
+|[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle|Combat|libre|
 |[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames|Flammes|libre|
+|[oracle-01-IaxmCkdsPlA52spu.htm](classfeatures/oracle-01-IaxmCkdsPlA52spu.htm)|Bones|Ossements|libre|
 |[oracle-01-ibX2EhKkyUtbOHLj.htm](classfeatures/oracle-01-ibX2EhKkyUtbOHLj.htm)|Oracular Curse|Malédiction oraculaire|libre|
 |[oracle-01-NXUOtO9NytHQurlg.htm](classfeatures/oracle-01-NXUOtO9NytHQurlg.htm)|Revelation Spells|Sorts de révélation|libre|
+|[oracle-01-o1gGG36wpn9mxeop.htm](classfeatures/oracle-01-o1gGG36wpn9mxeop.htm)|Life|Vie|libre|
 |[oracle-01-PRJYLksQEwT39bTl.htm](classfeatures/oracle-01-PRJYLksQEwT39bTl.htm)|Mystery|Mystère|libre|
+|[oracle-01-qvRlih3u7vK3FYUR.htm](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Ancestors|Ancêtres|libre|
+|[oracle-01-RI2EMRBBPNSoTJXu.htm](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Cosmos|Cosmos|libre|
+|[oracle-01-tZBb3Kh4nJcNoUFI.htm](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Lore|Savoir|libre|
+|[oracle-01-W9cF7wZztLDb1WGY.htm](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Tempest|Tempête|libre|
 |[oracle-02-3OKTrm5rJdxFn4dR.htm](classfeatures/oracle-02-3OKTrm5rJdxFn4dR.htm)|Cosmos Mystery (Multiclass)|Mystère du Cosmos (Multiclasse)|libre|
 |[oracle-02-fdVLlFI1SyD7QGtu.htm](classfeatures/oracle-02-fdVLlFI1SyD7QGtu.htm)|Flames Mystery (Multiclass)|Mystère des flammes (Multiclasse)|libre|
 |[oracle-02-fEwVQUXUgUqTk4sE.htm](classfeatures/oracle-02-fEwVQUXUgUqTk4sE.htm)|Tempest Mystery (Multiclass)|Mystère de la tempête (Multiclasse)|libre|
@@ -366,11 +358,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sorcerer-01-o39zQMIdERWtmBSB.htm](classfeatures/sorcerer-01-o39zQMIdERWtmBSB.htm)|Bloodline: Diabolic|Lignage : Diabolique|officielle|
 |[sorcerer-01-PpzH9tJULk5ksX9w.htm](classfeatures/sorcerer-01-PpzH9tJULk5ksX9w.htm)|Bloodline: Psychopomp|Lignage : Psychopompe|libre|
 |[sorcerer-01-RXRnJcG4XSabZ35a.htm](classfeatures/sorcerer-01-RXRnJcG4XSabZ35a.htm)|Bloodline: Elemental|Lignage : Élémentaire|officielle|
+|[sorcerer-01-TWR1wbPJuCLnGdFZ.htm](classfeatures/sorcerer-01-TWR1wbPJuCLnGdFZ.htm)|Bloodline: Phoenix|Lignage : Phénix|libre|
 |[sorcerer-01-tYOMBiH3HbViNWwn.htm](classfeatures/sorcerer-01-tYOMBiH3HbViNWwn.htm)|Bloodline: Genie|Lignage : Génie|libre|
 |[sorcerer-01-uoQOm41BVdSo6pAS.htm](classfeatures/sorcerer-01-uoQOm41BVdSo6pAS.htm)|Bloodline: Shadow|Lignage : Ombre|libre|
 |[sorcerer-01-vhW3glAaEfq2DKrw.htm](classfeatures/sorcerer-01-vhW3glAaEfq2DKrw.htm)|Bloodline: Angelic|Lignage : Angélique|officielle|
 |[sorcerer-01-w5koctOVrEcpxTIq.htm](classfeatures/sorcerer-01-w5koctOVrEcpxTIq.htm)|Bloodline: Demonic|Lignage : Démoniaque|officielle|
 |[sorcerer-01-ZEtJJ5UOlV5oTWWp.htm](classfeatures/sorcerer-01-ZEtJJ5UOlV5oTWWp.htm)|Bloodline: Imperial|Lignage : Impérial|officielle|
+|[sorcerer-01-ZHabYxSgYK0XbjhM.htm](classfeatures/sorcerer-01-ZHabYxSgYK0XbjhM.htm)|Bloodline: Draconic|Lignage : Draconique|officielle|
 |[sorcerer-03-VKRjmXxBFLrJK01c.htm](classfeatures/sorcerer-03-VKRjmXxBFLrJK01c.htm)|Signature Spells|Sorts emblématiques|officielle|
 |[sorcerer-19-feCnVrPPlKhl701x.htm](classfeatures/sorcerer-19-feCnVrPPlKhl701x.htm)|Bloodline Paragon|Parangon du lignage|officielle|
 |[summoner-01-gWcN75VNpSZ4FqNb.htm](classfeatures/summoner-01-gWcN75VNpSZ4FqNb.htm)|Summoner Spellcasting|Incantation du conjurateur|libre|

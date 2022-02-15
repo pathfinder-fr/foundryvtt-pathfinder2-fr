@@ -1,21 +1,13 @@
 # État de la traduction (gmg-srd)
 
- * **changé**: 56
- * **officielle**: 42
+ * **changé**: 52
+ * **officielle**: 45
+ * **libre**: 1
 
 
-Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[652cIWAXc8zAxkac.htm](gmg-srd/652cIWAXc8zAxkac.htm)|Matter of Might|
-|[bRQz8uVlYtQ1cwwI.htm](gmg-srd/bRQz8uVlYtQ1cwwI.htm)|Wasteland Survivors|
-|[cD51eAUtbGlp5UKr.htm](gmg-srd/cD51eAUtbGlp5UKr.htm)|Slander|
-|[nsZ93vUEFucsLwRz.htm](gmg-srd/nsZ93vUEFucsLwRz.htm)|Privileged Position|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -80,11 +72,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[3g3uXFsHbfcad8eA.htm](gmg-srd/3g3uXFsHbfcad8eA.htm)|The Fool|Le bouffon|officielle|
 |[3Uwfn0ui7tS277iE.htm](gmg-srd/3Uwfn0ui7tS277iE.htm)|Metropolis|Métropole|officielle|
 |[5KDGPcdZpdZumUYy.htm](gmg-srd/5KDGPcdZpdZumUYy.htm)|Itinerant|Itinérant|officielle|
+|[652cIWAXc8zAxkac.htm](gmg-srd/652cIWAXc8zAxkac.htm)|Matter of Might|Une question de force|officielle|
 |[6NOZe9gUfVEedECW.htm](gmg-srd/6NOZe9gUfVEedECW.htm)|Star|Célébrité|officielle|
 |[AL562TPAhLCFX62S.htm](gmg-srd/AL562TPAhLCFX62S.htm)|Underground|Sous terre|officielle|
 |[Alf16WU6qK8w1jmq.htm](gmg-srd/Alf16WU6qK8w1jmq.htm)|Sun|Soleil|officielle|
 |[amEb5dGmSvvAJz7J.htm](gmg-srd/amEb5dGmSvvAJz7J.htm)|Balance|Balance|officielle|
+|[bRQz8uVlYtQ1cwwI.htm](gmg-srd/bRQz8uVlYtQ1cwwI.htm)|Wasteland Survivors|Survivants d'une région sauvage|officielle|
 |[ccG9pxYQ9Gg6262b.htm](gmg-srd/ccG9pxYQ9Gg6262b.htm)|Key|Clef|officielle|
+|[cD51eAUtbGlp5UKr.htm](gmg-srd/cD51eAUtbGlp5UKr.htm)|Slander|Calomnies|officielle|
 |[Cfd7ndT61VjR52OZ.htm](gmg-srd/Cfd7ndT61VjR52OZ.htm)|The Mercenary|Le mercenaire|officielle|
 |[cIlNXxPJuy8MtaDM.htm](gmg-srd/cIlNXxPJuy8MtaDM.htm)|Vizier|Le vizir|officielle|
 |[CW53y8R730XoNQSG.htm](gmg-srd/CW53y8R730XoNQSG.htm)|The Champion|Le champion|officielle|
@@ -104,6 +99,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[mg7oMp0cNa0GJMCS.htm](gmg-srd/mg7oMp0cNa0GJMCS.htm)|The Lover|L'amant|officielle|
 |[mHocbJQKBzbHM790.htm](gmg-srd/mHocbJQKBzbHM790.htm)|The Confidante|Le confident|officielle|
 |[NSG1YxOYAtSowNJa.htm](gmg-srd/NSG1YxOYAtSowNJa.htm)|Comet|Comète|officielle|
+|[nsZ93vUEFucsLwRz.htm](gmg-srd/nsZ93vUEFucsLwRz.htm)|Privileged Position|Statut privilégié|libre|
 |[OdD3NuxI5hNAEOVx.htm](gmg-srd/OdD3NuxI5hNAEOVx.htm)|Trade Town|Ville marchande|officielle|
 |[pd6ZzGL5TA58Fa3p.htm](gmg-srd/pd6ZzGL5TA58Fa3p.htm)|The Hunter|Le chasseur|officielle|
 |[qFgPiHDBVa3VSNgC.htm](gmg-srd/qFgPiHDBVa3VSNgC.htm)|Gem|Gemme|officielle|

@@ -1,21 +1,12 @@
 # État de la traduction (feats)
 
- * **libre**: 2508
- * **officielle**: 908
- * **changé**: 3
+ * **libre**: 2509
+ * **officielle**: 910
 
 
-Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[class-02-BU4NBIBkVZxdWLLH.htm](feats/class-02-BU4NBIBkVZxdWLLH.htm)|Elemental Fist|Poing élémentaire|changé|
-|[class-04-Ux0DSklFlIlcvnhO.htm](feats/class-04-Ux0DSklFlIlcvnhO.htm)|Sacred Ki|Ki sacré|changé|
-|[class-16-ROnjdPMvH0vkkWjQ.htm](feats/class-16-ROnjdPMvH0vkkWjQ.htm)|Enlightened Presence|Présence éclairée|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -2066,6 +2057,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-02-aXdY2wgn0ItWwTr0.htm](feats/class-02-aXdY2wgn0ItWwTr0.htm)|Conceited Mindset|Esprit vaniteux|libre|
 |[class-02-BmAk6o14CutgnIOG.htm](feats/class-02-BmAk6o14CutgnIOG.htm)|Risky Reload|Rechargement risqué|libre|
 |[class-02-bRftzbFvSF1pilIo.htm](feats/class-02-bRftzbFvSF1pilIo.htm)|Anoint Ally|Oindre un allié|libre|
+|[class-02-BU4NBIBkVZxdWLLH.htm](feats/class-02-BU4NBIBkVZxdWLLH.htm)|Elemental Fist|Poing élémentaire|officielle|
 |[class-02-c2h9Z8exSFhraJ8j.htm](feats/class-02-c2h9Z8exSFhraJ8j.htm)|Esoteric Oath (Paladin)|Serment ésotérique (Paladin)|libre|
 |[class-02-CcQISNjNdD0Fsj9n.htm](feats/class-02-CcQISNjNdD0Fsj9n.htm)|Shining Oath (Paladin)|Serment de lumière (Paladin)|officielle|
 |[class-02-corjPSTUKB02gkqN.htm](feats/class-02-corjPSTUKB02gkqN.htm)|Defensive Armaments|Arsenal défensif|libre|
@@ -2279,6 +2271,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-04-tWBK7Zbt80JlPryC.htm](feats/class-04-tWBK7Zbt80JlPryC.htm)|Bespell Weapon|Arme enchantée|officielle|
 |[class-04-UjWLK86BgHxz3Itd.htm](feats/class-04-UjWLK86BgHxz3Itd.htm)|Calculated Splash|Éclaboussure calculée|officielle|
 |[class-04-UWG1USE0L2ZxEPiO.htm](feats/class-04-UWG1USE0L2ZxEPiO.htm)|Wholeness of Body|Plénitude physique|officielle|
+|[class-04-Ux0DSklFlIlcvnhO.htm](feats/class-04-Ux0DSklFlIlcvnhO.htm)|Sacred Ki|Ki sacré|libre|
 |[class-04-uY03kVQBA81gbTj9.htm](feats/class-04-uY03kVQBA81gbTj9.htm)|Emergency Targe|Targe de secours|libre|
 |[class-04-vDeG0N4kzTBDTC2b.htm](feats/class-04-vDeG0N4kzTBDTC2b.htm)|Sabotage|Sabotage|officielle|
 |[class-04-vPZxFpq7XkRmE3Uc.htm](feats/class-04-vPZxFpq7XkRmE3Uc.htm)|Black Powder Boost|Renfort de poudre noire|libre|
@@ -2961,6 +2954,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-16-rgs6OZJYCgi5At8J.htm](feats/class-16-rgs6OZJYCgi5At8J.htm)|Effortless Concentration|Concentration aisée|officielle|
 |[class-16-RL7faGkymMFLAqTU.htm](feats/class-16-RL7faGkymMFLAqTU.htm)|Shattering Blows|Coups fracassants|libre|
 |[class-16-RMSVWMFoLUk0P1cC.htm](feats/class-16-RMSVWMFoLUk0P1cC.htm)|Terraforming Spell|Sort de terraformage|libre|
+|[class-16-ROnjdPMvH0vkkWjQ.htm](feats/class-16-ROnjdPMvH0vkkWjQ.htm)|Enlightened Presence|Présence éclairée|officielle|
 |[class-16-RqccUKf8DCPnsYXJ.htm](feats/class-16-RqccUKf8DCPnsYXJ.htm)|Implausible Purchase (Investigator)|Achat improbable (Enquêteur)|libre|
 |[class-16-rRbMOxX1QTHIIwAi.htm](feats/class-16-rRbMOxX1QTHIIwAi.htm)|Portentous Spell|Sort de mauvais augure|libre|
 |[class-16-RzhnxgiAopWILCvs.htm](feats/class-16-RzhnxgiAopWILCvs.htm)|Multishot Stance|Posture de tirs multiples|officielle|

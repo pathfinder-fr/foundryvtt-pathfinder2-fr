@@ -730,7 +730,7 @@
         {
             "id": "Improved Poison Weapon",
             "name": "Improved Poison Weapon",
-            "description": "<p>Vous administrez vos poisons de manière à en optimiser les effets nocifs. Quand vous enduisez votre arme d’un poison simple avec @Compendium[pf2e.feats-srd.ALbosSUygdq4T1Yk]{Arme empoisonnée}, ce poison inflige  [[/r {2d4}[poison]]]{2d4 dégâts de poison} au lieu de [[/r {1d4}[poison]]]{1d4 dégâts de poison}. Vous ne gâchez pas le poison enduit avec Arme empoisonnée si vous obtenez un échec critique à votre jet d’attaque.</p>",
+            "description": "<p>Vous administrez vos poisons de manière à en optimiser les effets nocifs. Quand vous enduisez votre arme d’un poison simple avec @Compendium[pf2e.feats-srd.ALbosSUygdq4T1Yk]{Arme empoisonnée}, ce poison inflige  [[/r {2d4}[poison]]]{2d4 dégâts de poison} au lieu de [[/r {1d4}[poison]]]{1d4 dégâts de poison}. Vous ne gâchez pas le poison enduit avec Arme empoisonnée si vous obtenez un échec critique à votre jet d’attaque.</p>\n<p>@Compendium[pf2e.feat-effects.C6H3gF5HTdsIKpOC]{Effet: Arme empoisonnée améliorée}</p>",
             "prereq": [
                 {
                     "value": "Arme empoisonnée"
@@ -2465,7 +2465,7 @@
         {
             "id": "Eye of the Arclords",
             "name": "Eye of the Arclords",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Accès</strong> Vous êtes membre des Seigneurs de l'Arc du Nex.</p>\n<hr>\n<p>Un troisième œil incandescent s’ouvre sur votre front. Il peut rester ouvert jusqu’à une minute. Vous pouvez le fermer avant cela avec une action unique dotée du trait concentration. Il peut rester ouvert 2 minutes si vous êtes maître en Arcanes et 5 minutes si vous êtes légendaire. Tant que l’œil est ouvert, vous bénéficiez des avantages suivants :</p>\n<ul>\n<li>Vous gagnez les effets du sort arcanique inné Détection de la magie issu de votre Sens arcanique au début de chacun de vos tours, sans avoir besoin de le lancer ;</li>\n<li>Vous gagnez @Compendium[pf2e.spells-srd.pZTqGY1MLRjgKasV]{vision dans le noir} ;</li>\n<li>Vous gagnez un bonus de statut de +2 aux tests de Perception pour Chercher une créature non détectée ou Cachée et au DD de vos tests de Perception contre @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Se cacher} et @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}.</li>\n</ul>\n<p>@Compendium[pf2e.feat-effects.5IGz4iheaiUWm5KR]{Effet : Œil des Seigneurs de l'Arc}</p>\n<p> Une fois que votre troisième œil se ferme, vous êtes @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui} pendant aussi longtemps que vous l’avez gardé ouvert.</p>",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Accès</strong> Vous êtes membre des Seigneurs de l'Arc du Nex.</p>\n<hr>\n<p>Un troisième œil incandescent s’ouvre sur votre front. Il peut rester ouvert jusqu’à une minute. Vous pouvez le fermer avant cela avec une action unique dotée du trait concentration. Il peut rester ouvert 2 minutes si vous êtes maître en Arcanes et 5 minutes si vous êtes légendaire. Tant que l’œil est ouvert, vous bénéficiez des avantages suivants :</p>\n<ul>\n<li>Vous gagnez les effets du sort arcanique inné Détection de la magie issu de votre Sens arcanique au début de chacun de vos tours, sans avoir besoin de le lancer ;</li>\n<li>Vous gagnez @Compendium[pf2e.spells-srd.pZTqGY1MLRjgKasV]{Vision dans le noir} ;</li>\n<li>Vous gagnez un bonus de statut de +2 aux tests de Perception pour Chercher une créature non détectée ou Cachée et au DD de vos tests de Perception contre @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Se cacher} et @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}.</li>\n</ul>\n<p>@Compendium[pf2e.feat-effects.5IGz4iheaiUWm5KR]{Effet : Œil des Seigneurs de l'Arc}</p>\n<p> Une fois que votre troisième œil se ferme, vous êtes @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui} pendant aussi longtemps que vous l’avez gardé ouvert.</p>",
             "prereq": [
                 {
                     "value": "expert en Arcanes"
@@ -2749,7 +2749,7 @@
         {
             "id": "Maiden's Mending",
             "name": "Maiden's Mending",
-            "description": "<p><strong>Fréquence</strong> une fois par minute</p>\n<p><strong>Déclencheur</strong> Vous lancez un sort occulte ou un sort inné provenant d'un don ancestral de changelin qui ne sont pas des tours de magie.</p>\n<hr />\n<p>Vous pouvez puiser dans une partie de la magie qui coule dans votre sang pour vous donner de la vie. Vous obtenez un nombre de Points de vie temporaire égal à la moitié de votre niveau (minimum 1) qui dure jusqu'à la fin de votre prochain tour.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par minute</p>\n<p><strong>Déclencheur</strong> Vous lancez un sort occulte ou un sort inné provenant d'un don ancestral de changelin qui ne sont pas des tours de magie.</p>\n<hr />\n<p>Vous pouvez puiser dans une partie de la magie qui coule dans votre sang pour vous donner de la vie. Vous obtenez un nombre de Points de vie temporaire égal à la moitié de votre niveau (minimum 1) qui dure jusqu'à la fin de votre prochain tour.</p>\n<p>@Compendium[pf2e.feat-effects.FIgud5jqZgIjwkRE]{Effet : Guérison de la vierge}</p>"
         },
         {
             "id": "Knockback Strike",
@@ -6432,13 +6432,13 @@
         {
             "id": "Sacred Ki",
             "name": "Sacred Ki",
-            "description": "<p>Le pouvoir de votre foi infuse votre ki. Lorsque vous sélectionnez ce don, choisissez chaos, mal, bien ou loi. Votre choix doit correspondre à une des compostantes d'alignement de votre divinité.</p>\n<p>Lorsque vous lancez le sort de focalisation @Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Frappe ki} et que vous infligez des dégâts à une créature dont l'alignement est opposé à l'alignement choisi, vous pouvez choisir que les dégâts de la Frappe ki soient du type choisi. De plus, vous pouvez substituer les dégâts d'@Compendium[pf2e.feats-srd.10DbphslCihq8mxQ]{Explosion ki} (ou d'autres sorts ki qui infligent des dégâts de force, à la discrétion du MJ) par des dégâts de l'alignement choisi.</p>\n<ul>\n<li>@Compendium[pf2e.spell-effects.joCQGq27FylDuY9P]{Effet de sort : Frappe ki (Chaotique)}</li>\n<li>@Compendium[pf2e.spell-effects.4U9BWv0rSpGbU0wr]{Effet de sort : Frappe ki (Mal)}</li>\n<li>@Compendium[pf2e.spell-effects.OplbQWW6i1NtMq9f]{Effet de sort : Frappe ki (Bien)}</li>\n<li>@Compendium[pf2e.spell-effects.X2BGmuKdGVj4YYyp]{Effet de sort : Frappe ki (Loyal)}</li>\n</ul>",
+            "description": "<p>Le pouvoir de votre foi infuse votre ki. Lorsque vous sélectionnez ce don, choisissez chaos, mal, bien ou loi. Votre choix doit correspondre à une des composantes d'alignement de votre divinité.</p>\n<p>Lorsque vous lancez le sort de focalisation <em>@Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Frappe ki}</em> et que vous infligez des dégâts à une créature dont l'alignement est opposé à l'alignement choisi, vous pouvez choisir que les dégâts de la Frappe ki soient du type choisi.</p>\n<p>De plus, vous pouvez substituer les dégâts d'<em>@Compendium[pf2e.feats-srd.10DbphslCihq8mxQ]{Explosion ki}</em> (ou d'autres sorts ki qui infligent des dégâts de force, à la discrétion du MJ) par des dégâts de l'alignement choisi.</p>",
             "prereq": [
                 {
                     "value": "Frappe ki"
                 },
                 {
-                    "value": "vous vénérez une divinité"
+                    "value": "Vous vénérez une divinité"
                 }
             ]
         },
@@ -14857,7 +14857,7 @@
         {
             "id": "Bolera's Interrogation",
             "name": "Bolera's Interrogation",
-            "description": "<p><strong>Fréquence</strong> trois fois par jour</p>\n<hr />\n<p>Vous concentrez votre attention sur une unique créature à 9 mètres. Cette créature doit faire un test de Volonté contre votre DD de Perception. En cas d'échec, la créature est incapable de proférer n'importe quel mensonge intentionnellement set subit une pénalité de circonstances de -2 aux tests de Duperie. En cas d'échec critique, la pénalité aux tests de Durperie est de -4. Cet effet dure pendant 10 minutes tant que vous restez dans les 9 mètres de la cible et que la cible est consciente que vous utilisez cette capacité contre vous. Si vous commencez un nouvel interrogatoire, cet effet se termine pour n'importe quelle cible précédente. Lorsque votre interrogatoire est terminé, la cible est immunisée à cette capacité pendant 24 heures.</p>",
+            "description": "<p><strong>Fréquence</strong> trois fois par jour</p>\n<hr />\n<p>Vous concentrez votre attention sur une unique créature à 9 mètres. Cette créature doit faire un test de Volonté contre votre DD de Perception. En cas d'échec, la créature est incapable de proférer n'importe quel mensonge intentionnellement set subit une pénalité de circonstances de -2 aux tests de Duperie. En cas d'échec critique, la pénalité aux tests de Durperie est de -4. Cet effet dure pendant 10 minutes tant que vous restez dans les 9 mètres de la cible et que la cible est consciente que vous utilisez cette capacité contre elle. Si vous commencez un nouvel interrogatoire, cet effet se termine pour n'importe quelle cible précédente. Lorsque votre interrogatoire est terminé, la cible est immunisée à cette capacité pendant 24 heures.</p>\n<p>@Compendium[pf2e.feat-effects.bmVwaN0C4e9fE2Sz]{Effet : Interrogatoire de Boléra (échec)}</p>\n<p>@Compendium[pf2e.feat-effects.VIScVb6Hl7KwoWfH]{Effet : Interrogatoire de Boléra (échec critique)}</p>",
             "prereq": [
                 {
                     "value": "Dévouement de Garde du Précipice"
@@ -15554,7 +15554,7 @@
         {
             "id": "Decry Thief",
             "name": "Decry Thief",
-            "description": "<p>Quand vous tentez de Démoraliser, vous pouvez faire en sorte qu’il soit plus difficile à la cible de fuir au lieu des effets normaux de cette action.</p>\n<hr />\n<ul>\n<li><strong>Succès critique</strong> Pendant 1 round, la cible subit un malus de statut de −3 mètres à sa Vitesse et un malus de statut de −4 en Discrétion</li>\n<li><strong>Succès</strong> Pendant 1 round, la cible subit un malus de statut de −1,5 mètres à sa Vitesse et un malus de statut de −2 en Discrétion.</li>\n</ul>",
+            "description": "<p>Quand vous tentez de Démoraliser, vous pouvez faire en sorte qu’il soit plus difficile à la cible de fuir au lieu des effets normaux de cette action.</p>\n<hr />\n<p><strong>Succès critique</strong> Pendant 1 round, la cible subit un malus de statut de −3 mètres à sa Vitesse et un malus de statut de −4 en Discrétion</p>\n<p>@Compendium[pf2e.feat-effects.kAgUld9PcI4XkHbq]{{Effet : Fléau des voleurs (Succès critique)}</p>\n<p><strong>Succès</strong> Pendant 1 round, la cible subit un malus de statut de −1,5 mètres à sa Vitesse et un malus de statut de −2 en Discrétion.</p>\n<p>@Compendium[pf2e.feat-effects.FyaekbWsazkJhJda]{Effet : Fléau des voleurs (Succès)}</p>\n</ul>",
             "prereq": [
                 {
                     "value": "Dévouement du Garde zéphyr"
@@ -21603,7 +21603,7 @@
         {
             "id": "Striking Retribution",
             "name": "Striking Retribution",
-            "description": "<p>Vous éprouvez une haine intense appropriée contre les Alghollthus. Vous obtenez un bonus de circonstances de +2 aux dégâts avec les attaques d'armes et les attaques à mains nues contre les créatures de la famille des alghollthus et de ceux qui servent les alghollthus (le MJ détermine quelles créatures servent un alghollthu). De plus, si un alghollthu vous affecte ou un de vos alliés dans les 18 mètres avec succès avec un enchantement, votre bonus de circonstance aux dégâts contre cet alghollthu passe à +4 pendant 1 minute.</p>"
+            "description": "<p>Vous éprouvez une haine intense appropriée contre les Alghollthus. Vous obtenez un bonus de circonstances de +2 aux dégâts avec les attaques d'armes et les attaques à mains nues contre les créatures de la famille des alghollthus et de ceux qui servent les alghollthus (le MJ détermine quelles créatures servent un alghollthu). De plus, si un alghollthu vous affecte ou un de vos alliés dans les 18 mètres avec succès avec un enchantement, votre bonus de circonstance aux dégâts contre cet alghollthu passe à +4 pendant 1 minute.</p>\n<p>@Compendium[pf2e.feat-effects.EzgW32MCOGov9h5C]{Effet : Rétribution frappante}</p>"
         },
         {
             "id": "Energetic Resonance",
@@ -25448,7 +25448,7 @@
         {
             "id": "Elemental Fist",
             "name": "Elemental Fist",
-            "description": "<p>Vous invoquez la puissance des éléments, en imprégnant votre ki d’énergie élémentaire pour que vos attaques infligent des dégâts d’énergie.</p>\n<p>Quand vous lancez frappe ki, en plus des divers types de dégâts normalement disponibles, vous pouvez infliger des dégâts supplémentaires sous la forme d’une bourrasque orageuse (qui inflige des dégâts d’électricité avec le trait air), d’un morceau de roche (qui inflige des dégâts contondants avec le trait terre), d’une flamme vacillante (qui inflige des dégâts de feu) ou d’une vague déferlante d’eau glacée (qui inflige des dégâts de froid avec le trait eau).</p>\n<p>@Compendium[pf2e.spell-effects.4CUZSDn4BiqWpvZg]{Effet de sort: Frappe ki (Air)}</p>\n<p>@Compendium[pf2e.spell-effects.U2ekk5iBaSfZlEkp]{Effet de sort: Frappe ki (Terre)}</p>\n<p>@Compendium[pf2e.spell-effects.rnu7tqMPe3Qm0apj]{Effet de sort: Frappe ki (Feu)}</p>\n<p>@Compendium[pf2e.spell-effects.tTRy1cc24ApPnym8]{Effet de sort: Frappe ki (Eau)}</p>",
+            "description": "<p>Vous invoquez la puissance des éléments, en imprégnant votre ki d’énergie élémentaire pour que vos attaques infligent des dégâts d’énergie.</p>\n<p>Quand vous lancez <em>@Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Frappe ki}</em>, en plus des divers types de dégâts normalement disponibles, vous pouvez infliger des dégâts supplémentaires sous la forme d’une bourrasque orageuse (qui inflige des dégâts d’électricité avec le trait air), d’un morceau de roche (qui inflige des dégâts contondants avec le trait terre), d’une flamme vacillante (qui inflige des dégâts de feu) ou d’une vague déferlante d’eau glacée (qui inflige des dégâts de froid avec le trait eau).</p>",
             "prereq": [
                 {
                     "value": "Frappe ki"

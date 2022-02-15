@@ -1,20 +1,12 @@
 # État de la traduction (hazards)
 
- * **libre**: 15
- * **officielle**: 36
- * **changé**: 2
+ * **libre**: 16
+ * **officielle**: 37
 
 
-Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[sFaAWmy1szDRmFtk.htm](hazards/sFaAWmy1szDRmFtk.htm)|Confounding Betrayal|Trahison confondante|changé|
-|[tbwGr6FIr5WpvQ6l.htm](hazards/tbwGr6FIr5WpvQ6l.htm)|Hammer Of Forbiddance|Marteau d'interdiction|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -58,8 +50,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Or0jjL8xS3GyiMq0.htm](hazards/Or0jjL8xS3GyiMq0.htm)|Web Lurker Noose|Toile de noeuds coulants|libre|
 |[OSPYSuckHhHl4Cr9.htm](hazards/OSPYSuckHhHl4Cr9.htm)|Steam Vents|Jets de vapeur|libre|
 |[Q8bXKgDm8eguqThB.htm](hazards/Q8bXKgDm8eguqThB.htm)|Brown Mold|Moisissure brune|libre|
+|[sFaAWmy1szDRmFtk.htm](hazards/sFaAWmy1szDRmFtk.htm)|Confounding Betrayal|Trahison confondante|libre|
 |[siylw0zIh1g4VnCW.htm](hazards/siylw0zIh1g4VnCW.htm)|Grasp Of The Damned|Emprise des damnés|officielle|
 |[su4TRBOoso4vjkoK.htm](hazards/su4TRBOoso4vjkoK.htm)|Bloodthirsty Urge|Pulsion sanguinaire|officielle|
+|[tbwGr6FIr5WpvQ6l.htm](hazards/tbwGr6FIr5WpvQ6l.htm)|Hammer Of Forbiddance|Marteau d'interdiction|officielle|
 |[uEZ4Jv2wNyukJTRL.htm](hazards/uEZ4Jv2wNyukJTRL.htm)|Hallucination Powder Trap|Piège à poudre hallucinogène|officielle|
 |[Uw2iVgbbeyn3mOjt.htm](hazards/Uw2iVgbbeyn3mOjt.htm)|Spectral Reflection|Reflet spectral|libre|
 |[v2xIxZ9ZZ6fJyATF.htm](hazards/v2xIxZ9ZZ6fJyATF.htm)|Poisoned Lock|Serrure empoisonnée|libre|

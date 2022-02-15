@@ -143,8 +143,8 @@
         },
         {
             "id": "Vexing Vapor (Greater)",
-            "name": "Vexing Vapor (Greater) (Vapeur contrariante supérieur)",
-            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Frappe</p>\n<hr />\n<p>Cette fiole contient une fine poudre rouge fabriquée à partir de baies toxiques. Une bombe de vapeur contrariante inflige 3d6 dégâts mentaux et 3 dégâts d'éclaboussure mentaux. Vous obtenez un bonus d'objet de +2 aux jets d'attaque. En cas de succès, la cible doit réussir un <span data-pf2-check=\"flat\" data-pf2-dc=\"5\" > test nu DD 5</span> avant d'entreprendre des actions ayant le trait Concentration. Cela dure jusqu'à la fin de son prochain tour (1 minute en cas de coup critique).</p>"
+            "name": "Vexing Vapor (Greater) (Vapeur contrariante supérieure)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Frappe</p>\n<hr />\n<p>Cette fiole contient une fine poudre rouge fabriquée à partir de baies toxiques. Une bombe de vapeur contrariante inflige [[/r {3d6}[mental]]]{3d6 dégâts mentaux} et [[/r {3}[splash,mental]]]{3 dégâts d'éclaboussure mentaux}. Vous obtenez un bonus d'objet de +2 aux jets d'attaque. En cas de succès, la cible doit réussir un @Check[type:flat|dc:5]{test nu DD 5} avant d'entreprendre des actions ayant le trait concentration. Cela dure jusqu'à la fin de son prochain tour (1 minute en cas de coup critique).</p>"
         },
         {
             "id": "Wand of Continuation (4th-Level Spell)",
@@ -589,7 +589,7 @@
         {
             "id": "Flaming",
             "name": "Flaming (Enflammée (rune))",
-            "description": "<p>Une flamme vacillante donne à cette arme son pouvoir. L’arme inflige 1d6 dégâts de feu supplémentaires en cas de Frappe réussie, plus [[/r {1d10}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d10 dégâts de feu persistants} en cas de coup critique</p>"
+            "description": "<p>Une flamme vacillante donne à cette arme son pouvoir. L’arme inflige [[/r {1d6}[fire]]]{1d6 dégâts de feu} supplémentaires en cas de Frappe réussie, plus [[/r {1d10}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d10 dégâts de feu persistants} en cas de coup critique</p>"
         },
         {
             "id": "Blightburn Resin",
@@ -1653,7 +1653,7 @@
         },
         {
             "id": "Acid Flask (Major)",
-            "name": "Acid Flask (Major) (Fiole d'acide majeur)",
+            "name": "Acid Flask (Major) (Fiole d'acide majeure)",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide. Vous gagnez un bonus d’objet de +3 aux jets d’attaque. La fiole inflige 4d6 dégâts persistants d’acide et 4 dégâts d’éclaboussure d’acide.</p>"
         },
         {
@@ -1894,7 +1894,7 @@
         {
             "id": "Vexing Vapor (Lesser)",
             "name": "Vexing Vapor (Lesser) (Vapeur contrariante inférieure)",
-            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Frappe</p>\n<hr />\n<p>Cette fiole contient une fine poudre rouge fabriquée à partir de baies toxiques. Une bombe de vapeur contrariante inflige 1d6 dégâts mentaux et 1 dégât d'éclaboussure mental. En cas de succès, la cible doit réussir un <span data-pf2-check=\"flat\" data-pf2-dc=\"5\" > test nu DD 5</span> avant d'entreprendre des actions ayant le trait Concentration. Cela dure jusqu'à la fin de son prochain tour (1 minute en cas de coup critique).</p>"
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Frappe</p>\n<hr />\n<p>Cette fiole contient une fine poudre rouge fabriquée à partir de baies toxiques. Une bombe de vapeur contrariante inflige [[/r {1d6}[mental]]]{1d6 dégâts mentaux} et [[/r {1}[splash,mental]]]{1 dégât d'éclaboussure mental}. En cas de succès, la cible doit réussir un @Check[type:flat|dc:5]{test nu DD 5} avant d'entreprendre des actions ayant le trait Concentration. Cela dure jusqu'à la fin de son prochain tour (1 minute en cas de coup critique).</p>"
         },
         {
             "id": "Energy Robe of Cold",
@@ -2063,8 +2063,8 @@
         },
         {
             "id": "Acid Flask (Lesser)",
-            "name": "Acid Flask (Lesser) (Fiole d’acide (Inférieur))",
-            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>Cette fiole renferme un acide corrosif qui inflige 1 dégâts d’acide, 1d6 dégâts persistants et 1 dégâts d’éclaboussure d’acide.</p>"
+            "name": "Acid Flask (Lesser) (Fiole d’acide inférieure)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>Cette fiole renferme un acide corrosif qui inflige 1 dégât d’acide, 1d6 dégâts d'acide persistants et 1 dégât d’éclaboussure d’acide.</p>"
         },
         {
             "id": "Gaff",
@@ -2165,6 +2165,11 @@
             "id": "Gill Hook",
             "name": "Gill Hook (Harpon à branchies)",
             "description": "<p>Cette lance est un harpon spécialisé, qui juste avant sa pointe se garnit d'un crochet qui permet d'agripper les branchies des gros poissons. Les Azarketis l'utilisent principalement pour chasser des requins, mais elle peut aussi être utilisée pour agripper de la chair ou des armures.</p>"
+        },
+        {
+            "id": "Mudlily",
+            "name": "Mudlily (Lotus doré)",
+            "description": "<p>Cette fleur dorée pousse au milieu de mares ou de flaques d'eau sales, ses pétales jaunes immaculés contrastant fortement avec son environnement souillé. Vous pouvez épingler un lotus doré sur vos vêtements ou dans vos cheveux pour profiter de ses propriétés magiques de souillure et de nettoyage. Lorsque vous portez un lotus doré propre, vous vous salissez progressivement en une heure ; la crasse et la boue se manifestent subtilement, surgissant de nulle part sur vos vêtements, vos cheveux, votre peau et tout votre équipement autres que le lotus doré. Au bout d'une heure seulement, vous avez l'impression d'avoir vécu dans la misère pendant des années. Cette saleté peut être lavée normalement mais elle revient inévitablement tant que vous continuez à porter un lotus doré propre.</p>\n<p>Si vous souillez le lotus doré avec un peu de saleté ou de boue, tant que vous portez la fleur, vous devenez au contraire propre en une heure. Toute saleté souillant votre personne disparaît complètement de toutes les parties de votre corps, à l'exception du lotus doré.</p>\n<p>Chaque jour à l'aube, le lotus doré redevient instantanément propre.</p>"
         },
         {
             "id": "Zircon",
@@ -2488,7 +2493,7 @@
         },
         {
             "id": "Acid Flask (Greater)",
-            "name": "Acid Flask (Greater) (Fiole d'acide supérieur)",
+            "name": "Acid Flask (Greater) (Fiole d'acide supérieure)",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide. Vous gagnez un bonus d’objet de +2 aux jets d’attaque. La fiole inflige 3d6 dégâts persistants d’acide et 3 dégâts d’éclaboussure d’acide.</p>"
         },
         {
@@ -2613,8 +2618,8 @@
         },
         {
             "id": "Thunderstone (Greater)",
-            "name": "Thunderstone (Greater) (Pierre à tonnerre supérieur)",
-            "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant. Elle inflige les dégâts de son et d’éclaboussure de son indiqués. Chaque créature dans un rayon de 3 mètres autour de l’espace où elle a explosé doit réussir un jet de  <span data-pf2-check=\"fortitude\" data-pf2-traits=\"alchemical,bomb,sonic,splash\" data-pf2-label=\"DD pierre à tonnerre supérieur\" data-pf2-dc=\"28\" data-pf2-show-dc=\"all\">Vigueur</span> contre le DD 28 ou être sourde jusqu’à la fin de son prochain tour. Plusieurs types de pierre donnent un bonus d’objet aux jets d’attaque. </p>\n<p> Vous gagnez un bonus d’objet de +2 aux jets d’attaque. La bombe inflige 3d4 dégâts de son et 3 dégâts d’éclaboussure de son.</p>"
+            "name": "Thunderstone (Greater) (Pierre à tonnerre supérieure)",
+            "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant. Vous obtenez un bonus d’objet de +2 aux jets d’attaque. La pierre à tonnerre supérieure inflige inflige 3d4 dégâts de son et 3 dégâts d’éclaboussure de son. Chaque créature dans un rayon de 3 mètres autour de la case où elle a explosé doit réussir un jet de @Check[type:fortitude|dc:28|name:Pierre à tonnerre supérieure|showDC:all]{Vigueur DD 28} ou être @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} jusqu’à la fin de son prochain tour.</p>"
         },
         {
             "id": "Storm Hammer",
@@ -2658,8 +2663,8 @@
         },
         {
             "id": "Thunderstone (Moderate)",
-            "name": "Thunderstone (Moderate) (Pierre à tonnerre modéré)",
-            "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant. Elle inflige les dégâts de son et d’éclaboussure de son indiqués. Chaque créature dans un rayon de 3 mètres autour de l’espace où elle a explosé doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-traits=\"alchemical,bomb,sonic,splash\" data-pf2-label=\"DD de la pierre de tonnerre modérée\" data-pf2-dc=\"20\" data-pf2-show-dc=\"all\">Vigueur</span> DD20 ou être sourde jusqu’à la fin de son prochain tour. Plusieurs types de pierre donnent un bonus d’objet aux jets d’attaque.</p> \n<p>Vous gagnez un bonus d’objet de +1 aux jets d’attaque. La bombe inflige 2d4 dégâts de son et 2 dégâts d’éclaboussure de son.</p>"
+            "name": "Thunderstone (Moderate) (Pierre à tonnerre modérée)",
+            "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant. Vous obtenez un bonus d’objet de +1 aux jets d’attaque. La pierre à tonnerre modérée inflige inflige 2d4 dégâts de son et 2 dégâts d’éclaboussure de son. Chaque créature dans un rayon de 3 mètres autour de la case où elle a explosé doit réussir un jet de @Check[type:fortitude|dc:20|name:Pierre à tonnerre modérée|showDC:all]{Vigueur DD 20} ou être @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} jusqu’à la fin de son prochain tour.</p>"
         },
         {
             "id": "Ablative Armor Plating (Moderate)",
@@ -3203,8 +3208,8 @@
         },
         {
             "id": "Vexing Vapor (Major)",
-            "name": "Vexing Vapor (Major) (Vapeur contrariante majeur)",
-            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Frappe</p>\n<hr />\n<p>Cette fiole contient une fine poudre rouge fabriquée à partir de baies toxiques. Une bombe de vapeur contrariante inflige 4d6 dégâts mentaux et 4 dégâts d'éclaboussure mentaux. Vous obtenez un bonus d'objet de +3 aux jets d'attaque. En cas de succès, la cible doit réussir un <span data-pf2-check=\"flat\" data-pf2-dc=\"5\" > test nu DD 5</span> avant d'entreprendre des actions ayant le trait Concentration. Cela dure jusqu'à la fin de son prochain tour (1 minute en cas de coup critique).</p>"
+            "name": "Vexing Vapor (Major) (Vapeur contrariante majeure)",
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Frappe</p>\n<hr />\n<p>Cette fiole contient une fine poudre rouge fabriquée à partir de baies toxiques. Une bombe de vapeur contrariante inflige [[/r {4d6}[mental]]]{4d6 dégâts mentaux} et [[/r {3}[splash,mental]]]{3 dégâts d'éclaboussure mentaux}. Vous obtenez un bonus d'objet de +3 aux jets d'attaque. En cas de succès, la cible doit réussir un @Check[type:flat|dc:5]{test nu DD 5} avant d'entreprendre des actions ayant le trait concentration. Cela dure jusqu'à la fin de son prochain tour (1 minute en cas de coup critique).</p>"
         },
         {
             "id": "Marble altar",
@@ -3253,8 +3258,8 @@
         },
         {
             "id": "Static Snare",
-            "name": "Static Snare (Piège statique)",
-            "description": "<p>Vous cachez des cristaux isolants ou d'autres matériaux qui relâchent une puissante charge statique lorsque la première créature entre dans la case du piège. Cette créature doit tenter un <span data-pf2-check=\"reflex\" data-pf2-traits=\"uncommon,consumable,electricity,mechanical,snare,trap\" data-pf2-label=\"DD Piège statique\" data-pf2-dc=\"18\" data-pf2-show-dc=\"all\">Réflexes</span> DD 18.\n<hr />\n<p><strong>Succès</strong> La cible n'est pas affectée.</p>\n<p><strong>Échec</strong> La cible subit [[/r {1}[persistent,electricity] #persistent electricity damage]]{1} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1 point de dégâts persistant d'électricité}} et subit une pénalité de circonstances de -1 à ses jets de sauvegarde contre l'électricité tant qu'elle subit les dégâts d'électricité persistants.</p>\n<p><strong>Échec critique</strong> Comme avec l'échec mais la cible attire la saleté et la poussière alentour. Si la cible est ou devient @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}, il ne sera que @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée} aux créatures possédant la vision comme sens précis. Cet effet persiste tant que la créature est affectée par les dégâts d'électricité persistants.</p>"
+            "name": "Static Snare (Piège artisanal statique)",
+            "description": "<p>Vous cachez des cristaux isolants ou d'autres matériaux qui relâchent une puissante charge statique lorsque la première créature entre dans la case du piège. Cette créature doit tenter un [type:reflex|dc:18|traits:uncommon|showDC:all]{jet de Réflexes DD 18}.\n<hr />\n<p><strong>Succès</strong> La cible n'est pas affectée.</p>\n<p><strong>Échec</strong> La cible subit [[/r {1}[persistent,electricity]]]{1} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégât persistant d'électricité} et subit une pénalité de circonstances de -1 à ses jets de sauvegarde contre l'électricité tant qu'elle subit les dégâts d'électricité persistants.</p>\n<p><strong>Échec critique</strong> Comme avec l'échec mais la cible attire la saleté et la poussière alentour. Si la cible est ou devient @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}, elle ne sera que @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée} aux créatures possédant la vision comme sens précis. Cet effet persiste tant que la créature subit les dégâts d'électricité persistants.</p>"
         },
         {
             "id": "Everyneed Pack (Greater)",
@@ -3713,8 +3718,8 @@
         },
         {
             "id": "Necrotic Bomb (Major)",
-            "name": "Necrotic Bomb (Major) (Bombe nécrotique majeur)",
-            "description": "<p>Les bombes nécrotiques combinent des réactifs que la plupart des gens considèrent au mieux comme dégoûtants et au pire comme impies, créant un miasme qui aspire la vie au contact de l'air.</p>\n<p>Vous gagnez un bonus d'objet de +3 aux jets d'attaque.</p>\n<hr />\n<p>Une bombe nécrotique modérée inflige [[/r {4d6}[negative]]]{2d6 dégâts négatifs} et [[/r 4 #négatif d'éclaboussure]]{4 dégâts négatifs d'éclaboussure} et elle rend @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 4} la cible principale en cas de coup critique. Ces dégâts ne touchent que les créatures vivantes.</p>"
+            "name": "Necrotic Bomb (Major) (Bombe nécrotique majeure)",
+            "description": "<p>Les bombes nécrotiques combinent des réactifs que la plupart des gens considèrent au mieux comme dégoûtants et au pire comme impies, créant un miasme qui aspire la vie au contact de l'air. Vous obtenez un bonus d'objet de +3 aux jets d'attaque. Une bombe nécrotique majeure inflige [[/r {4d6}[negative]]]{4d6 dégâts négatifs} et [[/r {4}[splash,negative]]]{4 dégâts négatif d'éclaboussure} et elle rend @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 4} la cible principale en cas de coup critique. Ces dégâts ne blessent que les créatures vivantes.</p>"
         },
         {
             "id": "Dragon Turtle Scale",
@@ -3868,8 +3873,8 @@
         },
         {
             "id": "Frost Vial (Greater)",
-            "name": "Frost Vial (Greater) (Fiole givrée supérieur)",
-            "description": "<p>Les réactifs liquides de cette fiole absorbent rapidement la chaleur une fois exposés à l’air. La fiole givrée inflige les dégâts de froid et d’éclaboussure de froid indiqués. Une cible touchée subit un malus de statut à la Vitesse jusqu’à la fin de son prochain tour. Plusieurs types de fioles givrées donnent un bonus d’objet aux jets d’attaque.</p> \n<p>Vous gagnez un bonus d’objet aux jets d’attaque de +2, la bombe inflige 3d6 dégâts de froid et 3 dégâts d’éclaboussure de froid. La cible subit un malus de −3 mètres.</p>\n<p>@Compendium[pf2e.equipment-effects.nJRoiSyd67eQ1dYj]{Effect: Fiole givrée supérieur}</p>"
+            "name": "Frost Vial (Greater) (Fiole givrée supérieure)",
+            "description": "<p>Les réactifs liquides de cette fiole absorbent rapidement la chaleur une fois exposés à l’air. La fiole givrée inflige 3d6 dégâts de froid et 3 dégâts d’éclaboussure de froid. Une cible touchée subit un malus de statut de -3 m à ses Vitesses jusqu’à la fin de son prochain tour. Vous gagnez un bonus d’objet aux jets d’attaque de +2.</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.nJRoiSyd67eQ1dYj]{Effet : Fiole givrée supérieure}</p>"
         },
         {
             "id": "Camouflage Suit",
@@ -4654,7 +4659,7 @@
         {
             "id": "Necrotic Bomb (Lesser)",
             "name": "Necrotic Bomb (Lesser) (Bombe nécrotique inférieure)",
-            "description": "<p>Les bombes nécrotiques combinent des réactifs que la plupart des gens considèrent au mieux comme dégoûtants et au pire comme impies, créant un miasme qui aspire la vie au contact de l'air.</p>\n<hr />\n<p>Une bombe nécrotique inférieure inflige [[/r {1d6}[negative]]]{1d6 dégâts négatifs} et [[/r 1 #négatif d'éclaboussure]]{1 dégât négatif d'éclaboussure} et elle rend @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} la cible principale en cas de coup critique. Ces dégâts ne touchent que les créatures vivantes.</p>"
+            "description": "<p>Les bombes nécrotiques combinent des réactifs que la plupart des gens considèrent au mieux comme dégoûtants et au pire comme impies, créant un miasme qui aspire la vie au contact de l'air. Une bombe nécrotique inférieure inflige [[/r {1d6}[negative]]]{1d6 dégâts négatifs} et [[/r 1 {1}[splash,negative]]]{1 dégât négatif d'éclaboussure} et elle rend @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} la cible principale en cas de coup critique. Ces dégâts ne blessent que les créatures vivantes.</p>"
         },
         {
             "id": "Climbing Kit",
@@ -5239,7 +5244,7 @@
         {
             "id": "Anarchic",
             "name": "Anarchic (Anarchique (rune))",
-            "description": "<p>Une rune anarchique, asymétrique et aux bords déchiquetés, canalise de l’énergie chaotique. Une arme avec cette rune inflige 1d6 dégâts chaotiques supplémentaires aux cibles d’alignement loyal. Si vous êtes d’alignement loyal, vous êtes Affaibli 2 tant que vous portez ou maniez cette arme.</p>\n<p>Quand vous obtenez un succès critique en Frappant une créature d’alignement loyal avec cette arme, lancez 1d6. Sur 1 ou 2, vous infligez le double des dégâts minimums ; sur 3 ou 4, doublez les dégâts normalement ; sur 5 ou 6, vous infligez le double des dégâts maximums.</p>\n<p><strong>Conditions de fabrication</strong> Vous êtes d’alignement chaotique.</p>"
+            "description": "<p>Une rune anarchique, asymétrique et aux bords déchiquetés, canalise de l’énergie chaotique. Une arme avec cette rune inflige 1d6 dégâts chaotiques supplémentaires aux cibles d’alignement loyal. Si vous êtes d’alignement loyal, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 tant que vous portez ou maniez cette arme.</p>\n<p>Quand vous obtenez un succès critique en Frappant une créature d’alignement loyal avec cette arme, lancez 1d6. Sur 1 ou 2, vous infligez le double des dégâts minimums ; sur 3 ou 4, doublez les dégâts normalement ; sur 5 ou 6, vous infligez le double des dégâts maximums.</p>\n<p><strong>Conditions de fabrication</strong> Vous êtes d’alignement chaotique.</p>"
         },
         {
             "id": "Buugeng",
@@ -5449,7 +5454,7 @@
         {
             "id": "Vexing Vapor (Moderate)",
             "name": "Vexing Vapor (Moderate) (Vapeur contrariante modérée)",
-            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Frappe</p>\n<hr />\n<p>Cette fiole contient une fine poudre rouge fabriquée à partir de baies toxiques. Une bombe de vapeur contrariante inflige 2d6 dégâts mentaux et 2 dégâts d'éclaboussure mentaux. Vous obtenez un bonus d'objet de +1 aux jets d'attaque. En cas de succès, la cible doit réussir un <span data-pf2-check=\"flat\" data-pf2-dc=\"5\" > test nu DD 5</span> avant d'entreprendre des actions ayant le trait Concentration. Cela dure jusqu'à la fin de son prochain tour (1 minute en cas de coup critique).</p>"
+            "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Frappe</p>\n<hr />\n<p>Cette fiole contient une fine poudre rouge fabriquée à partir de baies toxiques. Une bombe de vapeur contrariante inflige [[/r {2d6}[mental]]]{2d6 dégâts mentaux} et [[/r {2}[splash,mental]]]{2 dégâts d'éclaboussure mentaux}. Vous obtenez un bonus d'objet de +1 aux jets d'attaque. En cas de succès, la cible doit réussir un @Check[type:flat|dc:5]{test nu DD 5} avant d'entreprendre des actions ayant le trait concentration. Cela dure jusqu'à la fin de son prochain tour (1 minute en cas de coup critique).</p>"
         },
         {
             "id": "Dragonbone Arrowhead",
@@ -7278,7 +7283,7 @@
         },
         {
             "id": "Acid Flask (Moderate)",
-            "name": "Acid Flask (Moderate) (Fiole d'acide modéré)",
+            "name": "Acid Flask (Moderate) (Fiole d'acide modérée)",
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">A</span> Frappe</p>\n<p>Cette fiole renferme un acide corrosif qui inflige les dégâts d’acide. Vous gagnez un bonus d’objet de +1 aux jets d’attaque. La fiole inflige 2d6 dégâts persistants d’acide et 2 dégâts d’éclaboussure d’acide.</p>"
         },
         {
@@ -7339,7 +7344,7 @@
         {
             "id": "Holy",
             "name": "Holy (Sainte (rune))",
-            "description": "<p>Les armes saintes manipulent la redoutable énergie des célestes. Une arme avec cette rune inflige 1d6 dégâts bons supplémentaires aux cibles d’alignement mauvais. Si vous êtes d’alignement mauvais, vous êtes Affaibli 2 tant que vous portez ou maniez cette arme.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> Sur ordre </p> \n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous obtenez un succès critique sur votre jet d’attaque avec cette arme contre une créature d’alignement mauvais</p>\n<p><strong>Effet</strong> Vous récupérez un montant de PV égal au double du niveau de la créature d’alignement mauvais. Il s’agit d’un effet bon, de guérison et positif.</p>\n<p><strong>Conditions de fabrication</strong> Vous êtes bon.</p>"
+            "description": "<p>Les armes Saintes manipulent la redoutable énergie des célestes. Une arme avec cette rune inflige [[/r {1d6}[good]]]{1d6 dégâts bons} supplémentaires aux cibles d’alignement mauvais. Si vous êtes d’alignement mauvais, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 tant que vous portez ou maniez cette arme.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> Sur ordre </p> \n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous obtenez un succès critique sur votre jet d’attaque avec cette arme contre une créature d’alignement mauvais</p>\n<p><strong>Effet</strong> Vous récupérez un montant de PV égal au double du niveau de la créature d’alignement mauvais. Il s’agit d’un effet bon, de guérison et positif.</p>\n<p><strong>Conditions de fabrication</strong> Vous êtes bon.</p>"
         },
         {
             "id": "Spellstrike Ammunition (Type VIII)",
@@ -9033,8 +9038,8 @@
         },
         {
             "id": "Frost Vial (Moderate)",
-            "name": "Frost Vial (Moderate) (Fiole givrée modéré)",
-            "description": "<p>Les réactifs liquides de cette fiole absorbent rapidement la chaleur une fois exposés à l’air. La fiole givrée inflige les dégâts de froid et d’éclaboussure de froid indiqués. Une cible touchée subit un malus de statut à la Vitesse jusqu’à la fin de son prochain tour. Plusieurs types de fioles givrées donnent un bonus d’objet aux jets d’attaque.</p> \n<p>Vous gagnez un bonus d’objet aux jets d’attaque de +1, la bombe inflige 2d6 dégâts de froid et 2 dégâts d’éclaboussure de froid. La cible subit un malus de −3 mètres.</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.dv0IKm5syOdP759w]{Effet : Fiole givrée modéré}</p>"
+            "name": "Frost Vial (Moderate) (Fiole givrée modérée)",
+            "description": "<p>Les réactifs liquides de cette fiole absorbent rapidement la chaleur une fois exposés à l’air. La fiole givrée modérée inflige 2d6 dégâts de froid et 2 dégâts d’éclaboussure de froid. Vous obtenez un bonus d’objet aux jets d’attaque de +1. Une cible touchée subit un malus de statut de -3 m à ses Vitesses jusqu’à la fin de son prochain tour.</p> \n<hr />\n<p>@Compendium[pf2e.equipment-effects.dv0IKm5syOdP759w]{Effet : Fiole givrée modérée}</p>"
         },
         {
             "id": "Gold Dragon's Breath Potion (Wyrm)",
@@ -9919,7 +9924,7 @@
         {
             "id": "Disrupting",
             "name": "Disrupting (Pertubatrice (rune))",
-            "description": "<p>Une arme perturbatrice bouillonne d’énergie positive en infligeant 1d6 dégâts positifs supplémentaires aux morts‑vivants. En cas de coup critique, le mort‑vivant est également Affaibli 1 jusqu’à la fin de votre prochain tour.</p>"
+            "description": "<p>Une arme perturbatrice bouillonne d’énergie positive en infligeant [[/r {1d6}[positive]]]{1d6 dégâts positifs} supplémentaires aux morts‑vivants. En cas de coup critique, le mort‑vivant est également @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu’à la fin de votre prochain tour.</p>"
         },
         {
             "id": "Clockwork Spider Bomb",
@@ -11134,7 +11139,7 @@
         {
             "id": "Necrotic Bomb (Greater)",
             "name": "Necrotic Bomb (Greater) (Bombe nécrotique supérieur)",
-            "description": "<p>Les bombes nécrotiques combinent des réactifs que la plupart des gens considèrent au mieux comme dégoûtants et au pire comme impies, créant un miasme qui aspire la vie au contact de l'air.</p>\n<p>Une bombe nécrotique supérieure inflige [[/r {3d6}[negative]]]{3d6 dégâts négatifs} et [[/r 3 #négatif d'éclaboussure]]{3 dégâts négatifs d'éclaboussure} et elle rend @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 3} la cible principale en cas de coup critique. Ces dégâts ne touchent que les créatures vivantes.</p>\n<p>Vous gagnez un bonus d'objet de +2 aux jets d'attaque.</p>"
+            "description": "<p>Les bombes nécrotiques combinent des réactifs que la plupart des gens considèrent au mieux comme dégoûtants et au pire comme impies, créant un miasme qui aspire la vie au contact de l'air. Vous obtenez un bonus d'objet de +2 aux jets d'attaque. Une bombe nécrotique supérieure inflige [[/r {3d6}[negative]]]{3d6 dégâts négatifs} et [[/r {3}[splash,negative]]]{3 dégâts négatif d'éclaboussure} et elle rend @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 3} la cible principale en cas de coup critique. Ces dégâts ne blessent que les créatures vivantes.</p>"
         },
         {
             "id": "Boots of Speed",
@@ -11423,8 +11428,8 @@
         },
         {
             "id": "Thunderstone (Lesser)",
-            "name": "Thunderstone (Lesser) (Pierre à tonnerre inférieur)",
-            "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant. Elle inflige les dégâts de son et d’éclaboussure de son indiqués. Chaque créature dans un rayon de 3 mètres autour de l’espace où elle a explosé doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-traits=\"alchemical,bomb,sonic,splash\" data-pf2-label=\"DD de la pierre à tonnerre inférieure\" data-pf2-dc=\"17\" data-pf2-show-dc=\"all\">Vigueur</span>  DD 17  ou être sourde jusqu’à la fin de son prochain tour. Plusieurs types de pierre donnent un bonus d’objet aux jets d’attaque. </p>\n<p>La bombe inflige 1d4 dégâts de son et 1 dégât d’éclaboussure de son.</p>"
+            "name": "Thunderstone (Lesser) (Pierre à tonnerre inférieure)",
+            "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant. La pierre à tonnerre inférieure inflige inflige 1d4 dégâts de son et 1 dégât d’éclaboussure de son. Chaque créature dans un rayon de 3 mètres autour de la case où elle a explosé doit réussir un jet de @Check[type:fortitude|dc:17|name:Pierre à tonnerre|showDC:all]{Vigueur DD 17} ou être @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} jusqu’à la fin de son prochain tour.</p>"
         },
         {
             "id": "Boarding Axe",
@@ -11768,8 +11773,8 @@
         },
         {
             "id": "Frost Vial (Lesser)",
-            "name": "Frost Vial (Lesser) (Fiole givrée inférieur)",
-            "description": "<p> Les réactifs liquides de cette fiole absorbent rapidement la chaleur une fois exposés à l’air. La fiole givrée inflige les dégâts de froid et d’éclaboussure de froid indiqués. Une cible touchée subit un malus de statut à la Vitesse jusqu’à la fin de son prochain tour. Plusieurs types de fioles givrées donnent un bonus d’objet aux jets d’attaque.</p> \n<p>La bombe inflige 1d6 dégâts de froid et 1 dégât d’éclaboussure de froid. La cible subit un malus de −1,5 mètres</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.RLsdvhmTh64Mmty9]{Effet : Fiole givrée inférieur)}</p>"
+            "name": "Frost Vial (Lesser) (Fiole givrée inférieure)",
+            "description": "<p>Les réactifs liquides de cette fiole absorbent rapidement la chaleur une fois exposés à l’air. La fiole givrée inférieure inflige 1d6 dégâts de froid et 1 dégât d’éclaboussure de froid. Une cible touchée subit un malus de statut à ses Vitesses de −1,5 mètres jusqu’à la fin de son prochain tour.</p> \n<hr />\n<p>@Compendium[pf2e.equipment-effects.RLsdvhmTh64Mmty9]{Effet : Fiole givrée inférieure}</p>"
         },
         {
             "id": "Paired (Major)",
@@ -11778,8 +11783,8 @@
         },
         {
             "id": "Necrotic Bomb (Moderate)",
-            "name": "Necrotic Bomb (Moderate) (Bombe nécrotique modéré)",
-            "description": "<p>Les bombes nécrotiques combinent des réactifs que la plupart des gens considèrent au mieux comme dégoûtants et au pire comme impies, créant un miasme qui aspire la vie au contact de l'air.</p>\n<hr />\n<p>Une bombe nécrotique modérée inflige [[/r {2d6}[negative]]]{2d6 dégâts négatifs} et [[/r 2 #négatif d'éclaboussure]]{2 dégâts négatifs d'éclaboussure} et elle rend @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2} la cible principale en cas de coup critique. Ces dégâts ne touchent que les créatures vivantes.</p>\n<p>Vous gagnez un bonus d'objet de +1 aux jets d'attaque.</p>"
+            "name": "Necrotic Bomb (Moderate) (Bombe nécrotique modérée)",
+            "description": "<p>Les bombes nécrotiques combinent des réactifs que la plupart des gens considèrent au mieux comme dégoûtants et au pire comme impies, créant un miasme qui aspire la vie au contact de l'air. Vous obtenez un bonus d'objet de +1 aux jets d'attaque. Une bombe nécrotique modérée inflige [[/r {2d6}[negative]]]{2d6 dégâts négatifs} et [[/r {2}[splash,negative]]]{2 dégâts négatif d'éclaboussure} et elle rend @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2} la cible principale en cas de coup critique. Ces dégâts ne blessent que les créatures vivantes.</p>"
         },
         {
             "id": "Holy Steam Ball",
@@ -12534,7 +12539,7 @@
         {
             "id": "Thunderstone (Major)",
             "name": "Thunderstone (Major) (Pierre à tonnerre majeure)",
-            "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant.</p>\n<p>Vous gagnez un bonus d’objet de +3 aux jets d’attaque. La bombe inflige [/r {4d4}[sonic]]]{4d4 dégâts de son} et 4 dégâts d’éclaboussure de son. Chaque créature dans un rayon de 3 mètres autour de la case dans laquelle elle a explosé doit réussir un jet de<span data-pf2-check=\"fortitude\" data-pf2-traits=\"alchemical,bomb,sonic,splash\" data-pf2-label=\"DD Pierre à tonnerre majeur\" data-pf2-dc=\"36\" data-pf2-show-dc=\"all\">Vigueur</span> contre le DD 36 ou être @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} jusqu’à la fin de son prochain tour.</p>"
+            "description": "<p>Quand cette pierre heurte une créature ou une surface dure, elle explose dans un fracas tonitruant. Vous gagnez un bonus d’objet de +3 aux jets d’attaque. La pierre à tonnerre majeure inflige inflige 4d4 dégâts de son et 4 dégâts d’éclaboussure de son. Chaque créature dans un rayon de 3 mètres autour de la case où elle a explosé doit réussir un jet de @Check[type:fortitude|dc:36|name:Pierre à tonnerre majeure|showDC:all]{Vigueur DD 36} ou être @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} jusqu’à la fin de son prochain tour.</p>"
         },
         {
             "id": "Fire Lance",
@@ -13099,7 +13104,7 @@
         {
             "id": "Unholy",
             "name": "Unholy (Impie (rune))",
-            "description": "<p>Une rune impie injecte de l’énergie fiélone dans l’arme gravée. Une arme avec cette rune inflige 1d6 dégâts mauvais supplémentaires quand elle touche une cible d’alignement bon. Si vous êtes d’alignement bon, vous êtes Affaibli 2 tant que vous portez ou maniez cette arme.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> sur ordre ;</p> \n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong>  Vous obtenez un succès critique sur un jet d’attaque avec cette arme contre une créature d’alignement bon</p>\n<p><strong>Effet</strong> La cible subit un montant de @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistants} égal à 1d8 par dé de dégâts d’arme de l’arme gravée.</p>"
+            "description": "<p>Une rune impie injecte de l’énergie fiélone dans l’arme gravée. Une arme avec cette rune inflige [[/r {1d6}[evil]]]{1d6 dégâts mauvais }supplémentaires quand elle touche une cible d’alignement bon. Si vous êtes d’alignement bon, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 tant que vous portez ou maniez cette arme.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> sur ordre ;</p> \n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong>  Vous obtenez un succès critique sur un jet d’attaque avec cette arme contre une créature d’alignement bon</p>\n<p><strong>Effet</strong> La cible subit un montant de [[/r {1d8}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d8 dégâts de saignement persistants} par dé de dégâts d’arme de l’arme gravée.</p>"
         },
         {
             "id": "Jeweled orrery of the planes",
@@ -13768,8 +13773,8 @@
         },
         {
             "id": "Frost Vial (Major)",
-            "name": "Frost Vial (Major) (Fiole givrée majeur)",
-            "description": "<p>Les réactifs liquides de cette fiole absorbent rapidement la chaleur une fois exposés à l’air. La fiole givrée inflige les dégâts de froid et d’éclaboussure de froid indiqués. Une cible touchée subit un malus de statut à la Vitesse jusqu’à la fin de son prochain tour. Plusieurs types de fioles givrées donnent un bonus d’objet aux jets d’attaque.</p> \n<p>Vous gagnez un bonus d’objet aux jets d’attaque de +3, la bombe inflige 4d6 dégâts de froid et 4 dégâts d’éclaboussure de froid. La cible subit un malus de −4,5 mètres.</p>\n<p>@Compendium[pf2e.equipment-effects.4G9qnI0oRyL6eKFQ]{Effet : Fiole givrée majeur}</p>"
+            "name": "Frost Vial (Major) (Fiole givrée majeure)",
+            "description": "<p>Les réactifs liquides de cette fiole absorbent rapidement la chaleur une fois exposés à l’air. La fiole givrée inflige 4d6 dégâts de froid et 4 dégâts d’éclaboussure de froid. Une cible touchée subit un malus de statut de -4,5 m à ses Vitesses jusqu’à la fin de son prochain tour. Vous gagnez un bonus d’objet aux jets d’attaque de +3.</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.4G9qnI0oRyL6eKFQ]{Effet : Fiole givrée majeure}</p>"
         },
         {
             "id": "Screech Shooter (Greater)",

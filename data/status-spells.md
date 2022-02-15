@@ -1,19 +1,17 @@
 # État de la traduction (spells)
 
- * **libre**: 600
- * **officielle**: 546
- * **changé**: 19
+ * **libre**: 602
+ * **officielle**: 547
+ * **changé**: 16
 
 
-Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[conjuration-01-xqmHD8JIjak15lRk.htm](spells/conjuration-01-xqmHD8JIjak15lRk.htm)|Unseen Servant|Serviteur invisible|changé|
-|[conjuration-03-jOWQ5wPd4xvSkjI5.htm](spells/conjuration-03-jOWQ5wPd4xvSkjI5.htm)|Mystic Carriage|Carrosse mystique|changé|
 |[conjuration-06-fRUxp4G9kG816XAt.htm](spells/conjuration-06-fRUxp4G9kG816XAt.htm)|Lure Dream|Attirer le rêve|changé|
 |[divination-02-rDDYGY2ekZ1yVv7q.htm](spells/divination-02-rDDYGY2ekZ1yVv7q.htm)|Lucky Number|Nombre porte bonheur|changé|
 |[divination-04-ykyKclKTCMp2SFXa.htm](spells/divination-04-ykyKclKTCMp2SFXa.htm)|Countless Eyes|Yeux innombrables|changé|
@@ -29,7 +27,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-03-HIY4XUJZKmFLAJTn.htm](spells/necromancy-03-HIY4XUJZKmFLAJTn.htm)|Life Connection|Connexion vitale|changé|
 |[necromancy-04-ikSb3LRGnrwXJBVX.htm](spells/necromancy-04-ikSb3LRGnrwXJBVX.htm)|Vital Beacon|Fanal de vie|changé|
 |[transmutation-01-ZL8NTvB22NeEWhVG.htm](spells/transmutation-01-ZL8NTvB22NeEWhVG.htm)|Ki Strike|Frappe Ki|changé|
-|[transmutation-06-NCUXsaj2yFxOVhrK.htm](spells/transmutation-06-NCUXsaj2yFxOVhrK.htm)|Create Skinstitch|Création de Maille-peaux|changé|
 |[transmutation-07-9aFg4EuOBVz0i3Lb.htm](spells/transmutation-07-9aFg4EuOBVz0i3Lb.htm)|Corrosive Body|Corps corrosif|changé|
 
 ## Liste des traductions complétés
@@ -191,6 +188,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-01-W69zswpj0Trdy5rj.htm](spells/conjuration-01-W69zswpj0Trdy5rj.htm)|Air Bubble|Bulle d'air|officielle|
 |[conjuration-01-Wu0xFpewMKRK3HG8.htm](spells/conjuration-01-Wu0xFpewMKRK3HG8.htm)|Grease|Graisse|officielle|
 |[conjuration-01-WzLKjSw6hsBhuklC.htm](spells/conjuration-01-WzLKjSw6hsBhuklC.htm)|Create Water|Création d'eau|officielle|
+|[conjuration-01-xqmHD8JIjak15lRk.htm](spells/conjuration-01-xqmHD8JIjak15lRk.htm)|Unseen Servant|Serviteur invisible|officielle|
 |[conjuration-01-yAiSNmz39qXOIlco.htm](spells/conjuration-01-yAiSNmz39qXOIlco.htm)|Mud Pit|Fosse de boue|libre|
 |[conjuration-01-yvs1zN5Pai5U4CJX.htm](spells/conjuration-01-yvs1zN5Pai5U4CJX.htm)|Summon Instrument|Convocation d'instrument|libre|
 |[conjuration-01-zTN6zuruDUKOea6h.htm](spells/conjuration-01-zTN6zuruDUKOea6h.htm)|Rising Surf|Vague porteuse|libre|
@@ -211,6 +209,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-03-g4MAIQodRDVfNp1B.htm](spells/conjuration-03-g4MAIQodRDVfNp1B.htm)|Personal Blizzard|Blizzard personnel|libre|
 |[conjuration-03-GKpEcy9WId6NJvtx.htm](spells/conjuration-03-GKpEcy9WId6NJvtx.htm)|Stinking Cloud|Nuage nauséabond|officielle|
 |[conjuration-03-iQD8OhhkwhvD8Blw.htm](spells/conjuration-03-iQD8OhhkwhvD8Blw.htm)|Swamp of Sloth|Marais de paresse|officielle|
+|[conjuration-03-jOWQ5wPd4xvSkjI5.htm](spells/conjuration-03-jOWQ5wPd4xvSkjI5.htm)|Mystic Carriage|Carrosse mystique|libre|
 |[conjuration-03-KsWhliKfUs3IpW3c.htm](spells/conjuration-03-KsWhliKfUs3IpW3c.htm)|Wall of Thorns|Mur d'épines|officielle|
 |[conjuration-03-LNOwaJAkCfsgTKgV.htm](spells/conjuration-03-LNOwaJAkCfsgTKgV.htm)|Wall of Water|Mur aquatique|libre|
 |[conjuration-03-mwPfoYfVGSMAaUec.htm](spells/conjuration-03-mwPfoYfVGSMAaUec.htm)|Cozy Cabin|Cabane douillette|libre|
@@ -1160,6 +1159,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-06-dR53f0p15EW7D0xC.htm](spells/transmutation-06-dR53f0p15EW7D0xC.htm)|Devil Form|Forme de diable|libre|
 |[transmutation-06-FKtPRWcs4zhwn9N1.htm](spells/transmutation-06-FKtPRWcs4zhwn9N1.htm)|Form of the Sandpoint Devil|Forme de diable de Pointesable|libre|
 |[transmutation-06-MMCQsh12TPaDdPbV.htm](spells/transmutation-06-MMCQsh12TPaDdPbV.htm)|Righteous Might|Force du colosse|officielle|
+|[transmutation-06-NCUXsaj2yFxOVhrK.htm](spells/transmutation-06-NCUXsaj2yFxOVhrK.htm)|Create Skinstitch|Création de maille-peaux|libre|
 |[transmutation-06-Pr1ruNTbzGn3H9w5.htm](spells/transmutation-06-Pr1ruNTbzGn3H9w5.htm)|Stone to Flesh|Pierre en chair|officielle|
 |[transmutation-06-xEjGEBvTfDJECSki.htm](spells/transmutation-06-xEjGEBvTfDJECSki.htm)|Ancestral Form|Forme ancestrale|libre|
 |[transmutation-06-YtBZq49N4Um1cwm7.htm](spells/transmutation-06-YtBZq49N4Um1cwm7.htm)|Nature's Reprisal|Réprésailles de la nature|libre|

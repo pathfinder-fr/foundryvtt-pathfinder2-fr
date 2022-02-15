@@ -1,35 +1,19 @@
 # État de la traduction (equipment-effects)
 
- * **aucune**: 181
- * **vide**: 5
+ * **libre**: 19
+ * **aucune**: 163
+ * **vide**: 4
 
 
-Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[00-7dLsA9PAb5ij7Bc6.htm](equipment-effects/00-7dLsA9PAb5ij7Bc6.htm)|Effect: Dueling Cape|
-|[00-8ersuvNJXX00XaIQ.htm](equipment-effects/00-8ersuvNJXX00XaIQ.htm)|Effect: Euryale (Curse) Card|
-|[00-eSIYyxi6uTKiP6W5.htm](equipment-effects/00-eSIYyxi6uTKiP6W5.htm)|Effect: Improvised Weapon|
-|[00-NE7Fm5YnUhD4ySX3.htm](equipment-effects/00-NE7Fm5YnUhD4ySX3.htm)|Effect: Earplugs|
-|[00-rVFDLzYrJVYLiQBL.htm](equipment-effects/00-rVFDLzYrJVYLiQBL.htm)|Effect: Qat (Stage 1)|
-|[00-Zb8RYgmzCI6fQE0o.htm](equipment-effects/00-Zb8RYgmzCI6fQE0o.htm)|Effect: Throne Card|
-|[01-2YgXoHvJfrDHucMr.htm](equipment-effects/01-2YgXoHvJfrDHucMr.htm)|Effect: Raise a Shield|
-|[01-2ytxPqhGyLtEjYxW.htm](equipment-effects/01-2ytxPqhGyLtEjYxW.htm)|Effect: Static Snare|
-|[01-4aSqtBgvQr2TI3XT.htm](equipment-effects/01-4aSqtBgvQr2TI3XT.htm)|Effect: Grit (Stage 2)|
-|[01-4JULykNCgQoypsu8.htm](equipment-effects/01-4JULykNCgQoypsu8.htm)|Effect: Spiderfoot Brew (Major)|
-|[01-4RnEUeYEzC919GZR.htm](equipment-effects/01-4RnEUeYEzC919GZR.htm)|Effect: Energizing Rune (Sonic)|
-|[01-5KXsyN9J78glG25I.htm](equipment-effects/01-5KXsyN9J78glG25I.htm)|Effect: Ochre Fulcrum Lens|
 |[01-68xcDyxsNgD3JddD.htm](equipment-effects/01-68xcDyxsNgD3JddD.htm)|Effect: Energizing Rune (Cold)|
-|[01-6alqXfVq0qWQC359.htm](equipment-effects/01-6alqXfVq0qWQC359.htm)|Effect: Energy Robe of Fire|
-|[01-6p2Sjl7XxCc55ft4.htm](equipment-effects/01-6p2Sjl7XxCc55ft4.htm)|Effect: Mudrock Snare (Success)|
 |[01-9BsFdrEc7hkPWgSd.htm](equipment-effects/01-9BsFdrEc7hkPWgSd.htm)|Effect: Energizing Rune (Electricity)|
-|[01-ascxqSlMEN9R6OOy.htm](equipment-effects/01-ascxqSlMEN9R6OOy.htm)|Effect: Energizing Rune (Fire)|
-|[01-c0URo81HpSmCkuQc.htm](equipment-effects/01-c0URo81HpSmCkuQc.htm)|Effect: Energy Robe of Electricity|
-|[01-ClsVhp5baFRjZQ23.htm](equipment-effects/01-ClsVhp5baFRjZQ23.htm)|Effect: Energizing Rune (Acid)|
 |[01-cozi2kUELY40Dcv3.htm](equipment-effects/01-cozi2kUELY40Dcv3.htm)|Effect: Malleable Mixture (Lesser)|
 |[01-dchlrZqQ2oEmgNlN.htm](equipment-effects/01-dchlrZqQ2oEmgNlN.htm)|Effect: Silkspinner's Shield (Animated Strike)|
 |[01-e3RzlURndODzBnMt.htm](equipment-effects/01-e3RzlURndODzBnMt.htm)|Effect: Grit (Stage 1)|
@@ -38,7 +22,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-fYe48HmFgfmcqbvL.htm](equipment-effects/01-fYe48HmFgfmcqbvL.htm)|Effect: Taljjae's Mask (The Hero)|
 |[01-fYZIanbYu0Vc4JEL.htm](equipment-effects/01-fYZIanbYu0Vc4JEL.htm)|Effect: Tanglefoot Bag (Lesser)|
 |[01-Gj6u2Za5okFlsTvT.htm](equipment-effects/01-Gj6u2Za5okFlsTvT.htm)|Effect: Deadweight Snare (Failure/Critical Failure)|
-|[01-I9lfZUiCwMiGogVi.htm](equipment-effects/01-I9lfZUiCwMiGogVi.htm)|Cover|
 |[01-ImgHXPEbN1mPyNTu.htm](equipment-effects/01-ImgHXPEbN1mPyNTu.htm)|Effect: Sylvan Wine|
 |[01-IZkHdaqWBJIIWO7F.htm](equipment-effects/01-IZkHdaqWBJIIWO7F.htm)|Effect: Ebon Fulcrum Lens (Reaction)|
 |[01-jlVYoiPVRRVGBj5G.htm](equipment-effects/01-jlVYoiPVRRVGBj5G.htm)|Effect: Ablative Armor Plating (Lesser)|
@@ -197,7 +180,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | État |
 |-----------|-------------|:----:|
-|[01-AJx8i8QX35vsG5Q4.htm](equipment-effects/01-AJx8i8QX35vsG5Q4.htm)|Effect: Stonethroat Ammunition (Success)|vide|
 |[01-WQ0DxUzMgAvo0zy9.htm](equipment-effects/01-WQ0DxUzMgAvo0zy9.htm)|Effect: Apricot of Bestial Might|vide|
 |[01-zZsdex5orF5Odpus.htm](equipment-effects/01-zZsdex5orF5Odpus.htm)|Equipment Effect: Mask of Allure|vide|
 |[02-mCb9mWAmgWPQrkTY.htm](equipment-effects/02-mCb9mWAmgWPQrkTY.htm)|Spell Effect: Barkskin (Arboreal's Revenge)|vide|
@@ -207,3 +189,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[00-7dLsA9PAb5ij7Bc6.htm](equipment-effects/00-7dLsA9PAb5ij7Bc6.htm)|Effect: Dueling Cape|Effet : Cape de duel|libre|
+|[00-8ersuvNJXX00XaIQ.htm](equipment-effects/00-8ersuvNJXX00XaIQ.htm)|Effect: Euryale (Curse) Card|Effet : Carte Euryale (Malédiction)|libre|
+|[00-eSIYyxi6uTKiP6W5.htm](equipment-effects/00-eSIYyxi6uTKiP6W5.htm)|Effect: Improvised Weapon|Effet : Arme improvisée|libre|
+|[00-NE7Fm5YnUhD4ySX3.htm](equipment-effects/00-NE7Fm5YnUhD4ySX3.htm)|Effect: Earplugs|Effet : bouchons d'oreilles|libre|
+|[00-rVFDLzYrJVYLiQBL.htm](equipment-effects/00-rVFDLzYrJVYLiQBL.htm)|Effect: Qat (Stage 1)|Effet : Qat (Stade 1)|libre|
+|[00-Zb8RYgmzCI6fQE0o.htm](equipment-effects/00-Zb8RYgmzCI6fQE0o.htm)|Effect: Throne Card|Effet : Carte trône|libre|
+|[01-2YgXoHvJfrDHucMr.htm](equipment-effects/01-2YgXoHvJfrDHucMr.htm)|Effect: Raise a Shield|Effet : Lever un bouclier|libre|
+|[01-2ytxPqhGyLtEjYxW.htm](equipment-effects/01-2ytxPqhGyLtEjYxW.htm)|Effect: Static Snare|Effet : piège artisanal statique|libre|
+|[01-4aSqtBgvQr2TI3XT.htm](equipment-effects/01-4aSqtBgvQr2TI3XT.htm)|Effect: Grit (Stage 2)|Effet : Grit (stade 2)|libre|
+|[01-4JULykNCgQoypsu8.htm](equipment-effects/01-4JULykNCgQoypsu8.htm)|Effect: Spiderfoot Brew (Major)|Effet : Infusion de pattes d'araignée majeure|libre|
+|[01-4RnEUeYEzC919GZR.htm](equipment-effects/01-4RnEUeYEzC919GZR.htm)|Effect: Energizing Rune (Sonic)|Effet : Rune énergisante (son)|libre|
+|[01-5KXsyN9J78glG25I.htm](equipment-effects/01-5KXsyN9J78glG25I.htm)|Effect: Ochre Fulcrum Lens|Effet : Lentille à pivot ocre|libre|
+|[01-6alqXfVq0qWQC359.htm](equipment-effects/01-6alqXfVq0qWQC359.htm)|Effect: Energy Robe of Fire|Effet : Robe d'énergie de feu|libre|
+|[01-6p2Sjl7XxCc55ft4.htm](equipment-effects/01-6p2Sjl7XxCc55ft4.htm)|Effect: Mudrock Snare (Success)|Effet : Piège artisanal de boue solidifiée (Succès)|libre|
+|[01-AJx8i8QX35vsG5Q4.htm](equipment-effects/01-AJx8i8QX35vsG5Q4.htm)|Effect: Stonethroat Ammunition (Success)|Effet : Munition coince-gueule (Succès)|libre|
+|[01-ascxqSlMEN9R6OOy.htm](equipment-effects/01-ascxqSlMEN9R6OOy.htm)|Effect: Energizing Rune (Fire)|Effet : Rune énergisante de feu|libre|
+|[01-c0URo81HpSmCkuQc.htm](equipment-effects/01-c0URo81HpSmCkuQc.htm)|Effect: Energy Robe of Electricity|Effet : Robe d'énergie d'électricité|libre|
+|[01-ClsVhp5baFRjZQ23.htm](equipment-effects/01-ClsVhp5baFRjZQ23.htm)|Effect: Energizing Rune (Acid)|Effet : Rune énergisante d'acide|libre|
+|[01-I9lfZUiCwMiGogVi.htm](equipment-effects/01-I9lfZUiCwMiGogVi.htm)|Cover|Abri|libre|

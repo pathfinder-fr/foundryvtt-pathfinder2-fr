@@ -2,11 +2,11 @@
 
  * **libre**: 32
  * **vide**: 10
- * **aucune**: 85
+ * **aucune**: 86
  * **changé**: 1
 
 
-Dernière mise à jour: 2022-02-13 09:51 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -55,6 +55,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[QqC9xymSXSVunDgl.htm](bestiary-effects/QqC9xymSXSVunDgl.htm)|Effect: Tail Lash (Attack Roll)|
 |[R8clbf7gtIlU3fIj.htm](bestiary-effects/R8clbf7gtIlU3fIj.htm)|Effect: Crush of Hundreds|
 |[RAKgTTFKc2YEbvrc.htm](bestiary-effects/RAKgTTFKc2YEbvrc.htm)|Effect: Hallucinogenic Pollen (Critical Failure)|
+|[rbgXQqXbpaQCcNNx.htm](bestiary-effects/rbgXQqXbpaQCcNNx.htm)|Read the Stars (Critical Success)|
 |[rpxdrOlzY2SOtMWB.htm](bestiary-effects/rpxdrOlzY2SOtMWB.htm)|Effect: Whirlwind Form|
 |[ryY6fdqpC5Ztnagd.htm](bestiary-effects/ryY6fdqpC5Ztnagd.htm)|Effect: Dirty Bomb (Critical Failure)|
 |[S38CM3hyr7DnsmRR.htm](bestiary-effects/S38CM3hyr7DnsmRR.htm)|Effect: Devour Soul (Victim Level 15 or Higher)|

@@ -7,9 +7,19 @@
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.6cQSPqXoAO6oJl0i]{Posture des étoiles lancées}</p>\n<p>Vous prenez une posture qui vous permet de lancer des @Compendium[pf2e.equipment-srd.fjkwYZ0hRmBztwBG]{Shuriken} avec la rapidité de l'éclair.</p>\n<p>Dans cette posture, vous pouvez utiliser vos dons de moine ou capacités de moine qui nécessitent normalement des attaques à mains nues avec les shuriken à la place.</p>"
         },
         {
+            "id": "Effect: Overwatch Field",
+            "name": "Effect: Overwatch Field",
+            "description": "<p>Votre aura de champ du guetteur vous accorde une perception augmentée et vous permet de crier des avertissements à vos alliés au sein de l'aura pour Attirer leur attention vers des menaces. Cette aura possède les traits visuel et audible. Vous et vos alliés dans le champs du guetteur recevez un bonus de circonstances de +2 lorsque vous faites des tests de Perception pour calculer l'Initiative.</p>"
+        },
+        {
             "id": "Effect: Forest Endemic Herbs",
             "name": "Effect: Forest Endemic Herbs",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Obtient un bonus de circonstances de +2 aux jets de sauvegarde contre les effets de la maladie et du poison.</p>"
+        },
+        {
+            "id": "Effect: Blade Ally Keen Rune",
+            "name": "Effect: Blade Ally Keen Rune",
+            "description": "<p>Le fil d’une arme acérée est incroyablement aiguisé. Les attaques avec cette arme donnent un coup critique sur un 19 au dé, à condition que ce résultat soit un succès. Cette propriété ne produit aucun effet sur un 19 si le résultat est un échec.</p>"
         },
         {
             "id": "Stance: Whirling Blade Stance",
@@ -22,6 +32,16 @@
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.bf7NCeKqDClaqhTR]{Posture de la grue}</p>\n<p>Vous prenez la posture d’une grue, ce qui signifie que vous étendez vos bras comme les ailes de cet oiseau et que vous vous défendez en faisant des gestes fluides.</p>\n<p>Vous bénéficiez d’un bonus de circonstances de +1 à la CA mais les seules Frappes que vous pouvez faire sont des attaques d’aile de grue. Ces attaques infligent 1d6 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits agile, finesse, mains nues et non létal.</p>\n<p>Tant que vous gardez cette posture, réduisez de 5 le DD de vos @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Sauts en hauteur} et @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Saut en longueur} et, quand vous  @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bondissez}, vous ajoutez 1,50 mètres à la longueur ou 60 centimètres à la hauteur.</p>"
         },
         {
+            "id": "Effect: Blade Ally Unholy Rune",
+            "name": "Effect: Blade Ally Unholy Rune",
+            "description": "<p>Une rune impie injecte de l’énergie fiélone dans l’arme gravée. Une arme avec cette rune inflige [[/r {1d6}[evil]]]{1d6 dégâts mauvais }supplémentaires quand elle touche une cible d’alignement bon. Si vous êtes d’alignement bon, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 tant que vous portez ou maniez cette arme.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> sur ordre ;</p> \n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong>  Vous obtenez un succès critique sur un jet d’attaque avec cette arme contre une créature d’alignement bon</p>\n<p><strong>Effet</strong> La cible subit un montant de [[/r {1d8}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d8 dégâts de saignement persistants} par dé de dégâts d’arme de l’arme gravée.</p>"
+        },
+        {
+            "id": "Effect: Lost in the Crowd (10 Creatures)",
+            "name": "Effect: Lost in the Crowd (10 Creatures)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.d8RfatiK9UOQANLz]{Perdu dans la foule}</p>\n<p>Vous avez appris à ne faire qu’un avec la foule et à vous cacher en son sein, vous pouvez vous volatiliser en un clin d’œil dans une rue bondée, ce qui vous offre un bonus de circonstances de +2 à vos tests de Discrétion lorsque vous êtes dans une foule d’au moins 10 créatures</p>"
+        },
+        {
             "id": "Effect: Plains Endemic Herbs",
             "name": "Effect: Plains Endemic Herbs",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Obtient un bonus de circonstances de +1 aux jets de Volonté.</p>"
@@ -32,9 +52,24 @@
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.YG2RxXE9SMfwo6wP]{Posture de l'archer monastique}</p>\n<p>Vous entrez dans une posture particulière à un art martial unique centré sur l'utilisation d'un arc. Lorsque vous adoptez cette posture, les seules Frappes que vous pouvez faire sont celles qui utilisent les arcs longs, les arcs courts ou les arcs avec le trait moine.</p>\n<p>Vous pouvez utiliser @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Déluge de coups} avec ces arcs. Vous pouvez utiliser vos autres dons de moine ou capacités de moine qui nécessitent en principe des attaques à mains nues avec ces arcs lorsque vous attaquez à une portée correspondant à la moitié du premier facteur de portée (en principe 15 mètres pour un arc long et 9 mètres pour un arc court), tant que le don ou la capacité ne nécessite par une Frappe unique spécifique.</p>"
         },
         {
+            "id": "Effect: Twin Parry",
+            "name": "Effect: Twin Parry",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.Y8LHfkzGyOhPlUou]{Parade jumelée} si vos armes n'ont pas le trait Parade</p>\n<p>Vous bénéficiez d’un bonus de circonstances de +1 à la CA jusqu’au début de votre prochain tour</p>"
+        },
+        {
+            "id": "Effect: Blade Ally Disrupting Rune",
+            "name": "Effect: Blade Ally Disrupting Rune",
+            "description": "<p>Une arme perturbatrice bouillonne d’énergie positive en infligeant [[/r {1d6}[positive]]]{1d6 dégâts positifs} supplémentaires aux morts‑vivants. En cas de coup critique, le mort‑vivant est également @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu’à la fin de votre prochain tour.</p>"
+        },
+        {
             "id": "Stance: Ironblood Stance",
             "name": "Stance: Ironblood Stance",
             "description": "<p>Granted by @Compendium[pf2e.feats-srd.x9cYkB8DrUBBwqJd]{Posture du sang-de-fer}</p>\n<p>Vous prenez la posture du fer impénétrable, en refusant de céder sous les coups. Vous pouvez faire des attaques à mains nues de balayage de fer. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits balayage, mains nues, non létal et parade.</p>\n<p>Tant que vous gardez la Posture du sang-de-fer, vous bénéficiez d’une résistance 2 à tous les dégâts. La résistance passe à 3 au niveau 12, 4 au niveau 16 et 5 au niveau 20.</p>\n<p>@Compendium[pf2e.equipment-effects.fRlvmul3LbLo2xvR]{Effet : Parade}</p>"
+        },
+        {
+            "id": "Effect: Blade Ally Flaming Rune",
+            "name": "Effect: Blade Ally Flaming Rune",
+            "description": "<p>Une flamme vacillante donne à cette arme son pouvoir. L’arme inflige [[/r {1d6}[fire]]]{1d6 dégâts de feu} supplémentaires en cas de Frappe réussie, plus [[/r {1d10}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d10 dégâts de feu persistants} en cas de coup critique</p>"
         },
         {
             "id": "Effect: Inspiring Marshal Stance",
@@ -57,9 +92,29 @@
             "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.uJXs4M6IeixfPBLc]{Posture des ombres tenaces}</em></p>\n<p>Vous adoptez la posture des ombres tenaces. Vous pouvez faire des @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} de la prise de l'ombre. Elles infligent[[/r {1d4}[negative]]]{1d4 dégâts négatifs}  ; elles sont dans le groupe pugilat ; elles possèdent les traits à mains nues, agile, allonge et saisir.</p>\n<p>Lorsque vous êtes dans cette posture des ombres tenaces, vous obtenez un bonus de circonstances de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} et au DD lorsque les créatures tentent de vous @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper}.</p>"
         },
         {
+            "id": "Effect: Predictable!",
+            "name": "Effect: Predictable!",
+            "description": "<p>Accordé en cas de Succès avec @Compendium[pf2e.feats-srd.cErltcAC7OVnIyO1]{Prévisible!}</p>"
+        },
+        {
             "id": "Stance: Disarming Stance",
             "name": "Stance: Disarming Stance",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.1p5ErCp33nGOzEsk]{Posture désarmante}.</p>\n<p>Vous bénéficiez d’un bonus de circonstances de +1 aux tests d’Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}.</p>"
+        },
+        {
+            "id": "Effect: Poison Weapon",
+            "name": "Effect: Poison Weapon",
+            "description": "<p>Appliqué lorsque vous utilisez un poison crée avec @Compendium[pf2e.feats-srd.ALbosSUygdq4T1Yk]{Arme empoisonnée}.</p>"
+        },
+        {
+            "id": "Effect: Bolera's Interrogation (failure)",
+            "name": "Effect: Bolera's Interrogation (failure)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.cBYTVYqw1EFVEuzs]{Interrogatoire de Boléra}</p>\n<p>En cas d'échec, la créature est incapable de proférer n'importe quel mensonge intentionnellement set subit une pénalité de circonstances de -2 aux tests de Duperie. Cet effet dure pendant 10 minutes tant que vous restez dans les 9 mètres de la cible et que la cible est consciente que vous utilisez cette capacité contre elle. Si vous commencez un nouvel interrogatoire, cet effet se termine pour n'importe quelle cible précédente. Lorsque votre interrogatoire est terminé, la cible est immunisée à cette capacité pendant 24 heures.</p>"
+        },
+        {
+            "id": "Effect: Bon Mot (Critical Success)",
+            "name": "Effect: Bon Mot (Critical Success)",
+            "description": "Vous êtes distrait et vous subissez une pénalité de statut de -3 aux tests de Perception et de Volonté pendant 1 minute.</p>\n<p>Vous pouvez mettre fin à l'effet de manière anticipée avec une réplique à votre Bon Mot. Cela peut être soit une action simple qui a le trait concentration, soit une action de compétence appropriée pour encadrer leur réplique. Le MJ détermine quelles actions de compétence sont admissibles, bien qu'elles doivent prendre au moins 1 action. Typiquement, la réplique doit utiliser une action de compétence linguistique basée sur le Charisme.</p>"
         },
         {
             "id": "Stance: Tiger Stance",
@@ -75,6 +130,11 @@
             "id": "Effect: Aquatic Endemic Herbs",
             "name": "Effect: Aquatic Endemic Herbs",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Obtient un bonus de circonstances de +1 aux jets de Vigueur.</p>"
+        },
+        {
+            "id": "Effect: Catfolk Dance",
+            "name": "Effect: Catfolk Dance",
+            "description": "<p>La créature cible obtient une pénalité de circonstances de -2 aux jets de Réflexes.</p>"
         },
         {
             "id": "Stance: Dueling Dance",
@@ -112,9 +172,24 @@
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.AN9jY1JVcU20Qdw6]{Posture du loup}</p>\n<p>Vous prenez la posture d’un loup, le corps près du sol et les doigts courbés tels de longs crocs. Vous pouvez faire des attaques à mains nues de mâchoire de loup. Ces attaques infligent 1d8 dégâts perforants, elles font partie du groupe pugilat et possèdent les traits agile, mains nues, non létal et traître. Si vous prenez en tenaille une cible en étant dans cette posture, vos attaques à mains nues de mâchoire de loup obtiennent également le trait croc‑en‑jambe.</p>"
         },
         {
+            "id": "Effect: Bolera's Interrogation (Critical Failure)",
+            "name": "Effect: Bolera's Interrogation (Critical Failure)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.cBYTVYqw1EFVEuzs]{Interrogatoire de Boléra}</p>\nEn cas d'échec critique, la pénalité aux tests de Durperie est de -4. Cet effet dure pendant 10 minutes tant que vous restez dans les 9 mètres de la cible et que la cible est consciente que vous utilisez cette capacité contre elle. Si vous commencez un nouvel interrogatoire, cet effet se termine pour n'importe quelle cible précédente. Lorsque votre interrogatoire est terminé, la cible est immunisée à cette capacité pendant 24 heures.</p>"
+        },
+        {
             "id": "Stance: Gorilla Stance",
             "name": "Stance: Gorilla Stance",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.DqD7htz8Sd1dh3BT]{Posture du gorille}</p>\n<p>Vous vous baissez jusqu'à toucher le sol et prenez une posture imposante en marchant sur vos poignets.</p>\n<p>Lorque vous êtes dans cette posture, Les seules Frappes que vous pouvez porter sont des attaques à mains nues de coups du gorille. Elles infligent 1d8 dégâts contondants; elles sont dans le groupe pugilat et possèdent les traits à mains nues, prise d'élan, percutant, saisir et non-létal.</p>\n<p>Lorsque vous êtes dans la Posture du gorille, vous obtenez un bonus de circonstances de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimper} et si vous obtenez une réussite sur un test d'Athlétisme pour Grimper, vous obtenez une réussite critique à la place.</p>"
+        },
+        {
+            "id": "Effect: Blade Ally Fearsome Rune",
+            "name": "Effect: Blade Ally Fearsome Rune",
+            "description": "<p>Lorsque vous obtenez un coup critique, la cible devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 1.</p>"
+        },
+        {
+            "id": "Effect: Eye of the Arclords",
+            "name": "Effect: Eye of the Arclords",
+            "description": "<p>Accordé par  @Compendium[pf2e.feats-srd.OtV7esAwza1U6Kwr]{Œil des Seigneurs de l'Arc}.</p>\n<p>Tant que l’œil est ouvert, vous bénéficiez des avantages suivants :</p>\n<ul>\n<li>Vous gagnez les effets du sort arcanique inné Détection de la magie issu de votre Sens arcanique au début de chacun de vos tours, sans avoir besoin de le lancer ;</li>\n<li>Vous gagnez @Compendium[pf2e.spells-srd.pZTqGY1MLRjgKasV]{Vision dans le noir} ;</li>\n<li>Vous gagnez un bonus de statut de +2 aux tests de Perception pour Chercher une créature non détectée ou Cachée et au DD de vos tests de Perception contre @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Se cacher} et @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}.</li>\n</ul>\n<hr />\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li>Vous gagnez Vision dans le noir</li>\n<li>ous gagnez un bonus de statut de +2 aux tests de Perception pour Chercher une créature non détectée ou Cachée</li>\n</ul>"
         },
         {
             "id": "Stance: Everstand Stance",
@@ -132,9 +207,19 @@
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Obtient un bonus de circonstances de +1 à la Perception.</p>"
         },
         {
+            "id": "Effect: Predictable! (Critical Failure)",
+            "name": "Effect: Predictable! (Critical Failure)",
+            "description": "<p>Accordé en cas d'Échec critique avec @Compendium[pf2e.feats-srd.cErltcAC7OVnIyO1]{Prévisible!}</p>"
+        },
+        {
             "id": "Stance: Tangled Forest Stance",
             "name": "Stance: Tangled Forest Stance",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.2tUdsoPEnW9yS8so]{Posture e la forê^t enchevêtrée}</p>\n<p>Vous tendez vos bras, telles des branches noueuses, pour gêner les déplacements de vos adversaires. Vous pouvez faire des attaques à mains nues de branche cinglante. Ces attaques infligent 1d8 dégâts tranchants ; elles font partie du groupe pugilat et possèdent les traits agile, finesse, mains nues et non létal. Tant que vous gardez cette posture et que vous pouvez agir, chaque ennemi dans votre zone d’allonge qui tente de s’éloigner doit réussir un jet de Réflexes, un test d’Acrobaties ou un test d’Athlétisme contre votre DD de classe ou être @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} à cause de cette action. Vous pouvez également laisser l’ennemi se déplacer si vous préférez.</p>"
+        },
+        {
+            "id": "Effect: Lost in the Crowd (100 Creatures)",
+            "name": "Effect: Lost in the Crowd (100 Creatures)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.d8RfatiK9UOQANLz]{Perdu dans la foule}</p>\n<p>Vous avez appris à ne faire qu’un avec la foule et à vous cacher en son sein, vous pouvez vous volatiliser en un clin d’œil dans une rue bondée. Vous gardez votre Vitesse maximale dans la foule et pouvez vous servir de cette dernière pour les actions @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Se cacher} et @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}, gagnant un bonus de circonstances de +4 à vos tests de Discrétion lorsqu’elle est composée de 100 créatures ou plus.</p>"
         },
         {
             "id": "Stance: Cobra Stance",
@@ -147,6 +232,16 @@
             "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous adoptez une posture de déplacements rapides et fougueux. Vous pouvez faire des attaques d'étincelles qui infligent [[/r 1d8 #tranchants]]{1d8 dégâts tranchants}. Cette attaque est dans le groupe pugilat et possède les traits percutant, non-létal, balayage et à mains nues. Si vous avez accès à l'effet de critique spécialisé des étincelles, vous pouvez utiliser un effet alternatif à la place : si votre Frappe critique a infligé des dégâts, la cible subit 1d6 dégâts de feu persistants.</p>\n<p>Tant que vous êtes dans la posture de la flamme ravivée, vous obtenez un bonus de statut de +1,5 mètres à votre Vitesse bonus. Si vous avez Déplacement extraordinaire, augmentez les avantages de Déplacement extraordinaire à un bonus de statut de +4,5 mètres plus 1,5 mètres pour chaque tranche de 4 niveaux au-delà du niveau 3.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don obtient à votre choix le trait divin ou occulte, en épousant votre tradition de sort ki si c'est possible.</p>"
         },
         {
+            "id": "Effect: Deadly Poison Weapon",
+            "name": "Effect: Deadly Poison Weapon",
+            "description": "<p>Appliqué lorsque vous utilisez un poison crée avec @Compendium[pf2e.feats-srd.AYXherMu9gFTyXjp]{Arme empoisonnée mortelle}.</p>"
+        },
+        {
+            "id": "Effect: Distracting Feint",
+            "name": "Effect: Distracting Feint",
+            "description": "<p>Quand une créature devient @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} suite à votre Feinte, elle subit également un malus de circonstances de −2 à ses tests de Perception et à ses jets de Réflexes.</p>"
+        },
+        {
             "id": "Stance: Point-Blank Shot",
             "name": "Stance: Point-Blank Shot",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.Yl2wYv24v5kw95aS]{Tir à bout portant}.</p>\n<p>Quand vous utilisez une arme à distance de volée dans cette posture, vous ne subissez pas le malus du trait volée sur vos jets d’attaque et vous bénéficiez d’un bonus de circonstances de +2 aux jets de dégâts sur les attaques contre des cibles situées à une distance inférieure ou égale au premier facteur de portée de l’arme.</p>"
@@ -157,6 +252,11 @@
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.hPDerDCYmag3s0dP]{Protection du Parangon}.</p>\n<p><strong>Conditions</strong> Vous maniez un bouclier</p>\n<hr />\n<p>Après avoir pris quelques instants pour prendre cette posture, votre bouclier est toujours en position sans même y penser. Tant que vous gardez cette posture, votre bouclier est constamment levé, comme si vous aviez utilisé l’action @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Lever un bouclier}, aussi longtemps que vous remplissez les conditions de cette action.</p>"
         },
         {
+            "id": "Effect: Ceremony of Protection",
+            "name": "Effect: Ceremony of Protection",
+            "description": "<p>Vous gagnez un bonus de circonstances de +1 à la CA jusqu'au début de votre prochain tour.</p>"
+        },
+        {
             "id": "Stance: Stumbling Stance",
             "name": "Stance: Stumbling Stance",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.7FRYyKXDKjGoANYj]{Posture chancelante}</p>\n<p>Vous adoptez une posture apparemment décontractée qui imite les mouvements de l'ivrogne, mouvante, laissant de fausses ouvertures et distrayant vos ennemis de vos mouvements véritables.</p>\n<p>Dans cette posture, vous obtenez un bonus de circonstances à vos tests de Duperie pour @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter}. Les seules Frappes que vous pouvez porter sont des attaques à mains nues de coups chancelants. Elles infligent [[/r 1d8 #contondants]] dégâts contondants ; sont dans le groupe pugilat ; Elles ont les traits à mains nues, agile, finesse, non-létal et traître.</p>\n<p>Si un ennemi vous touche avec une Frappe au corps-à-corps alors que vous êtes dans cette posture, il devient @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} contre le prochain coup chancelant que vous lui portez avant la fin de votre prochain tour.</p>"
@@ -165,6 +265,11 @@
             "id": "Effect: Overdrive (Critical Success)",
             "name": "Effect: Overdrive (Critical Success)",
             "description": "<p>Vos engins entrent dans un état d'efficacité incroyable appelé surrégime critique, ajoutant une grande puissance à vos attaques. Vos Frappes infligent des dégâts supplémentaires égaux à votre modificateur d'Intelligence pendant une minute. À la suite du surrégime, vos gadgets deviennent inutilisables car ils se refroidissent ou se réinitialisent et vous ne pouvez plus utiliser le surrégime pendant une minute.</p>"
+        },
+        {
+            "id": "Effect: Twin Parry (Parry Trait)",
+            "name": "Effect: Twin Parry (Parry Trait)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.Y8LHfkzGyOhPlUou]{Parade jumelée} si l’une ou l’autre de vos armes a le trait Parade</p>\n<p>Vous bénéficiez d’un bonus de circonstances de +2 à la CA jusqu’au début de votre prochain tour</p>"
         },
         {
             "id": "Stance: Mountain Stance (Mountain Quake)",
@@ -182,14 +287,54 @@
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.8sy3sHwOHS4ImwvJ]{Posture du dragon}</p>\n<p>Vous prenez la posture d’un dragon et faites de redoutables balayages avec vos jambes, tel un dragon avec sa queue. Vous pouvez faire des attaques de queue de dragon qui infligent 1d10 dégâts contondants. Ces attaques font partie du groupe pugilat et possèdent les traits mains nues, non létal et prise d’élan.</p>\n<p>Tant que vous gardez cette posture, vous ignorez la première case de terrain difficile lorsque vous Marchez rapidement.</p>"
         },
         {
+            "id": "Effect: Bon Mot",
+            "name": "Effect: Bon Mot",
+            "description": "<p>Vous êtes distrait et vous subissez une pénalité de statut de -2 aux tests de Perception et de Volonté pendant 1 minute.</p>\n<p>Vous pouvez mettre fin à l'effet de manière anticipée avec une réplique à votre Bon Mot. Cela peut être soit une action simple qui a le trait concentration, soit une action de compétence appropriée pour encadrer leur réplique. Le MJ détermine quelles actions de compétence sont admissibles, bien qu'elles doivent prendre au moins 1 action. Typiquement, la réplique doit utiliser une action de compétence linguistique basée sur le Charisme.</p>"
+        },
+        {
+            "id": "Effect: Decry Thief (Success)",
+            "name": "Effect: Decry Thief (Success)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.4HHw2DjTxdv1jBZd]{Fléau des voleurs}</p>\n<p>Pendant 1 round, la cible subit un malus de statut de −3 mètres à sa Vitesse et un malus de statut de −4 en Discrétion</p>"
+        },
+        {
+            "id": "Effect: Blade Ally Holy Rune",
+            "name": "Effect: Blade Ally Holy Rune",
+            "description": "<p>Les armes Saintes manipulent la redoutable énergie des célestes. Une arme avec cette rune inflige [[/r {1d6}[good]]]{1d6 dégâts bons} supplémentaires aux cibles d’alignement mauvais. Si vous êtes d’alignement mauvais, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 tant que vous portez ou maniez cette arme.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> Sur ordre </p> \n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous obtenez un succès critique sur votre jet d’attaque avec cette arme contre une créature d’alignement mauvais</p>\n<p><strong>Effet</strong> Vous récupérez un montant de PV égal au double du niveau de la créature d’alignement mauvais. Il s’agit d’un effet bon, de guérison et positif.</p>"
+        },
+        {
+            "id": "Effect: Predictable! (Critical Success)",
+            "name": "Effect: Predictable! (Critical Success)",
+            "description": "<p>Accordé en cas de Succcès critique avec @Compendium[pf2e.feats-srd.cErltcAC7OVnIyO1]{Prévisible!}</p>"
+        },
+        {
+            "id": "Effect: Known Weakness",
+            "name": "Effect: Known Weakness",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.iWvpq3uDZcXvBJj8]{Faiblesses connues}.</p>\n<p>Votre allié obtient un bonus de circonstances de +1 à son prochain jet d'attaque contre le sujet, tant que son attaque est portée avant le début de votre prochain tour.</p>"
+        },
+        {
             "id": "Effect: Tiller's Drive",
             "name": "Effect: Tiller's Drive",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.Wo0HNBh6CCgPN3Co]{Tiller's Drive}</p>\n<p>Les Membres de votre récolte reçoivent un bonus de circonstances de +1,5 mètres à leur Vitesse.</p>"
         },
         {
+            "id": "Effect: Maiden's Mending",
+            "name": "Effect: Maiden's Mending",
+            "description": "<p>Vous obtenez un nombre de Points de vie temporaire égal à la moitié de votre niveau (minimum 1) qui dure jusqu'à la fin de votre prochain tour.</p>"
+        },
+        {
             "id": "Effect: Desert Endemic Herbs",
             "name": "Effect: Desert Endemic Herbs",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.BQzExsEZrwGsJD66]{Herbes endémiques}</p>\n<p>Pendant 1 heure, traitez les effets de châleur liés à l'environnement comme s'ils étaient d'un degré de sévérité inférieur.</p>"
+        },
+        {
+            "id": "Effect: Improved Poison Weapon",
+            "name": "Effect: Improved Poison Weapon",
+            "description": "<p>Appliqué lorsque vous utilisez un poison crée avec @Compendium[pf2e.feats-srd.9Eufa07qvXG41QmG]{Arme empoisonnée améliorée}.</p>"
+        },
+        {
+            "id": "Effect: Striking Retribution",
+            "name": "Effect: Striking Retribution",
+            "description": "<p>Granted by @Compendium[pf2e.feats-srd.TGlb3gmSKkJBZt5q]{Rétribution frappante}</p>"
         },
         {
             "id": "Effect: Mountain Endemic Herbs",
@@ -202,9 +347,24 @@
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.DqD7htz8Sd1dh3BT]{Posture du gorille} si vous avez @Compendium[pf2e.feats-srd.nRjyyDulHnP5OewA]{Battement du gorille}, qui vous accorde une vitesse d'escalade de 4,5 mètres quand vous êtes dans cette posture.</p>\n<p>Lorsque vous êtes dans cette posture, Les seules Frappes que vous pouvez porter sont des attaques à mains nues de coups du gorille. Elles infligent 1d8 dégâts contondants; elles sont dans le groupe pugilat et possèdent les traits à mains nues, prise d'élan, percutant, saisir et non-létal.</p>\n<p>Lorsque vous êtes dans la Posture du gorille, vous obtenez un bonus de circonstances de +2 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Grimper} et si vous obtenez une réussite sur un test d'Athlétisme pour Grimper, vous obtenez une réussite critique à la place.</p>\n<p>While you are in Gorilla Stance, you gain a +2 circumstance bonus to Athletics checks to @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb}, and if you roll a success on an Athletics check to Climb, you get a critical success instead.</p>"
         },
         {
+            "id": "Effect: Bristle",
+            "name": "Effect: Bristle",
+            "description": "<p>@Compendium[pf2e.feats-srd.1gAehVvstGY885kJ]{Hirsute}</p>\n<p>Vous vous recroquevillez dans une posture qui fait se déployer vos piquants osseux. Vous obtenez un bonus de circonstances de +1 à la CA jusqu'au début de votre prochain tour.</p>\n<hr />\n<p><strong>Spécial</strong> Si vous avez la réaction @Compendium[pf2e.actionspf2e.oAWNluJaMlaGysXA]{Piquants barbelés} ou une attaque à mains nues de piquants, chacun obtient un bonus de circonstancs de +1 aux jets de dégâts jusqu'au début de votre prochain tour.</p>"
+        },
+        {
             "id": "Effect: Overdrive (Success)",
             "name": "Effect: Overdrive (Success)",
             "description": "Vos gadgets se mettent en surrégime, ajoutant de la puissance à vos attaques. Vos Frappes infligent des dégâts supplémentaires égaux à la moitié de votre modificateur d'Intelligence. À la suite du surrégime, vos gadgets deviennent inutilisables car ils se refroidissent ou se réinitialisent et vous ne pouvez plus utiliser le surrégime pendant une minute.</p>"
+        },
+        {
+            "id": "Effect: Accursed Clay Fist",
+            "name": "Effect: Accursed Clay Fist",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.tMsAj0H0B9XZQjtH]{Poing de glaise maudit}</p>\n<p>Vous subissez une pénalité de statut de –2 aux jets de sauvegarde contre les effets de malédiction pendant 1 heure.</p>"
+        },
+        {
+            "id": "Goblin Song (Critical Success)",
+            "name": "Goblin Song (Critical Success)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.QZb0Utg0WFPf2Qg0]{Chant Gobelin}.</p>\n<p>La cible subit un malus de −1 à ses tests de Perception et à ses jets de sauvegarde de Volonté pendant 1 minute.</p>"
         },
         {
             "id": "Effect: Dueling Parry",
@@ -212,9 +372,29 @@
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.WcY7H7mRiK2VDquV]{Parade en duel (Bretteur)} ou @Compendium[pf2e.feats-srd.n7nQQR940OvFbw7T]{Parade en duel (Guerrier)}</p>\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li>Bonus de circonstance de +2 à la CA</li>\n</ul"
         },
         {
+            "id": "Effect: Blade Ally Axiomatic Rune",
+            "name": "Effect: Blade Ally Axiomatic Rune",
+            "description": "<p>Complexe et symétrique, une rune axiomatique imprègne une arme d’énergie loyale. Une arme avec cette rune inflige 1d6 dégâts loyaux supplémentaires aux cibles d’alignement chaotique. Si vous êtes d’alignement chaotique, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 tant que vous portez ou maniez cette arme.</p>\n<p>Quand vous obtenez un coup critique sur un jet d’attaque avec cette arme contre une créature d’alignement chaotique, au lieu de faire un jet de dégâts, considérez que chaque dé de dégâts de l’arme donne un résultat moyen arrondi au supérieur (3 pour un d4, 4 pour un d6, 5 pour un d8, 7 pour un d12).</p>"
+        },
+        {
+            "id": "Effect: Blade Ally Anarchic Rune",
+            "name": "Effect: Blade Ally Anarchic Rune",
+            "description": "<p>Une rune anarchique, asymétrique et aux bords déchiquetés, canalise de l’énergie chaotique. Une arme avec cette rune inflige 1d6 dégâts chaotiques supplémentaires aux cibles d’alignement loyal. Si vous êtes d’alignement loyal, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 tant que vous portez ou maniez cette arme.</p>\n<p>Quand vous obtenez un succès critique en Frappant une créature d’alignement loyal avec cette arme, lancez 1d6. Sur 1 ou 2, vous infligez le double des dégâts minimums ; sur 3 ou 4, doublez les dégâts normalement ; sur 5 ou 6, vous infligez le double des dégâts maximums.</p>"
+        },
+        {
+            "id": "Effect: Blade Ally Ghost Touch Rune",
+            "name": "Effect: Blade Ally Ghost Touch Rune",
+            "description": "<p>L’arme peut blesser les créatures dénuées de forme physique. Une arme spectrale est particulièrement efficace contre les créatures intangibles dont la plupart ont toujours une faiblesse particulière aux armes spectrales. Les créatures intangibles peuvent toucher, tenir et manier des armes spectrales (au contraire de la plupart des objets physiques).</p>"
+        },
+        {
             "id": "Stance: Mountain Stance (Mountain Stronghold)",
             "name": "Stance: Mountain Stance (Mountain Stronghold)",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Posture de la montagne} si vous avez @Compendium[pf2e.feats-srd.n2hawNmzW7DBn1Lm]{Bastion de la montage}, qui vous accorde un bonus de Dex Max de +1 à votre CA.</p>\n<p>Vous prenez la posture implacable d’une montagne, une technique découverte par des moines nains, ce qui vous permet de frapper aussi violemment qu’une avalanche. Les seules Frappes que vous pouvez faire sont des attaques à mains nues de chute de pierre. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits mains nues, non létal et percutant.</p>\n<p>Tant que vous gardez cette posture, vous bénéficiez d’un bonus de statut de +4 à la CA et d’un bonus de circonstances de +2 à vos défenses si l’on tente de vous Pousser ou de vous faire un Croc-en-jambe.</p>\n<p>Vous avez toutefois un bonus de Dextérité maximal à votre CA de + 1, et vos Vitesses sont toutes réduites de 1,50 mètres. Le bonus d'objet à la CA de Posture de la montagne se cumule avec les runes de puissance d'armure de vos @Compendium[pf2e.equipment-srd.dDIPA1WE9ESF67EB]{Vêtements d'explorateur}, <em>@Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Armure de mage}</em> et les bracelets d'armure.</p>"
+        },
+        {
+            "id": "Effect: Decry Thief (Critical Success)",
+            "name": "Effect: Decry Thief (Critical Success)",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.4HHw2DjTxdv1jBZd]{Fléau des voleurs}</p>"
         }
     ],
     "mapping": {
